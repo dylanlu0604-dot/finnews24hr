@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-02 09:37:35",
-  "count": 17231,
+  "updated": "2026-06-02 09:41:26",
+  "count": 17227,
   "items": [
+    {
+      "id": "4911632",
+      "time": "2026-06-02 09:40:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，中京電子漲停】元件板塊短線拉昇，中京電子漲停，駿亞科技、威爾高、生益電子、風華高科、麥捷科技等紛紛走高。"
+    },
+    {
+      "id": "4911631",
+      "time": "2026-06-02 09:40:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CPO概念股盤初拉昇，意華股份漲停，聯特科技漲超10%，凱格精機、智立方、新易盛、東山精密漲超5%。"
+    },
+    {
+      "id": "4911630",
+      "time": "2026-06-02 09:40:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點至2.665%。"
+    },
+    {
+      "id": "mkt:019e85fb-6666-7aa2-99e8-76325847e1ad",
+      "time": "2026-06-02 09:38:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share lithography-equipment sector rose; Meidikai hit the daily limit, while Jiangfeng Electronics, China Shipbuilding Special Gas, Xinqi Micro-Assembly, Sitake and Huachen Equipment also gained."
+    },
+    {
+      "id": "4911629",
+      "time": "2026-06-02 09:38:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股鋰電池股走強 寧德時代漲近4%】截至發稿，寧德時代(03750.HK)漲3.65%，比亞迪股份(01211.HK)漲3.03%，比亞迪電子(00285.HK)漲2.72%。"
+    },
+    {
+      "id": "4911628",
+      "time": "2026-06-02 09:37:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光刻機板塊走高，美迪凱漲停】光刻機板塊走高，美迪凱漲停，江豐電子、中船特氣、芯碁微裝、思泰克、華辰裝備跟漲。"
+    },
+    {
+      "id": "te:markets:555522",
+      "time": "2026-06-02 09:37:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall from Record Levels — The benchmark KOSPI fell nearly 1% to around 8,700 on Tuesday, retreating from record highs as investors locked in profits amid renewed Middle East tensions and mounting inflation concerns. Oil prices remained elevated after reports that Iran suspended negotiations with the US, fueling concerns over potential disruptions to global energy supplies and adding pressure on inflation. South Korea's annual inflation rate accelerated to 3.1% in May, the highest in over two years, reinforcing bets that the Bank of Korea could maintain a hawkish policy stance for longer. Losses were seen in SK Hynix (-2.3%), SK Square (-1.9%), Hyundai Motor (-5.3%), Hyundai Mobis (-5.9%), and Doosan Enerbility (-5.5%). Still, declines were partly tempered by continued optimism over artificial intelligence demand after Nvidia unveiled a new AI-focused chip and CEO Jensen Huang met SK Group Chairman Chey Tae-won to discuss AI memory cooperation. Samsung Electronics gained 2.4%, while LG Energy Solution rose 2.5%."
+    },
+    {
+      "id": "4911627",
+      "time": "2026-06-02 09:37:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.15%，成分股中，寒武紀漲4.93%，盛科通訊漲4.11%，華潤微漲3.35%，拓荊科技漲2.74%。"
+    },
     {
       "id": "4911626",
       "time": "2026-06-02 09:36:52",
@@ -157274,117 +157351,6 @@
         "市場"
       ],
       "text": "現貨黃金<XAU=>下跌近1%，報每盎司4526.79美元。"
-    },
-    {
-      "id": "4899395",
-      "time": "2026-05-26 09:41:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南野生菌中毒風險地圖釋出：6個高風險區，123箇中低風險區】雲南省疾病預防控制中心5月25日釋出2026版雲南省野生菌中毒風險地圖。全省共劃定野生菌中毒高風險地區6個，中風險地區49個，低風險地區74個。其中古城區、西山區、宜良縣、石林縣、安寧市、紅塔區6個縣（市、區）被劃定為高風險地區，以上地區發生野生菌中毒事件的頻次較高，死亡人數多，居民需切實提高安全防範意識，增強自我保護能力，有效預防中毒事件發生，全力保障人民群眾生命財產安全。"
-    },
-    {
-      "id": "4899394",
-      "time": "2026-05-26 09:41:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱在霍爾木茲海峽擊沉兩艘伊朗佈雷船】據美國福克斯新聞頻道25日援引美軍高階官員的話報道，當天有兩艘伊朗船隻被發現在霍爾木茲海峽試圖佈雷，美軍對其進行打擊併成功摧毀，同時還對位於阿巴斯港的伊朗防空導彈發射基地實施打擊。目前，伊朗官方尚未對此事作出回應。該官員表示，美方的打擊行動目前已“暫時結束”，這些打擊行動本質上屬於防禦性質而非進攻性行為，目的也並非要打破停火狀態。（新華社）"
-    },
-    {
-      "id": "4899393",
-      "time": "2026-05-26 09:40:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【百貨零售板塊短線拉昇】百貨零售板塊短線拉昇，步步高漲停，中百集團、永輝超市、國芳集團、茂業商業、三江購物等紛紛走高。"
-    },
-    {
-      "id": "4899392",
-      "time": "2026-05-26 09:39:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4530美元/盎司，日內跌0.91%。"
-    },
-    {
-      "id": "4899391",
-      "time": "2026-05-26 09:39:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守76美元/盎司，日內跌2.65%。"
-    },
-    {
-      "id": "4899390",
-      "time": "2026-05-26 09:39:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.02%，成分股中，思特威跌5.89%，中科飛測跌5.18%，盛科通訊跌4.94%，佰維儲存跌4.36%。"
-    },
-    {
-      "id": "4899389",
-      "time": "2026-05-26 09:39:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念反覆走強 生益電子漲超10%創歷史新高】PCB概念反覆走強，生益電子漲超10%，創歷史新高，總市值站上1000億，鴻仕達、宏和科技、逸豪新材、滬電股份、生益科技跟漲。"
-    },
-    {
-      "id": "4899388",
-      "time": "2026-05-26 09:38:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【科創板IPO“折戟”4個月後，亞電科技再謀上市】據證監會網站披露，江蘇亞電科技股份有限公司於2026年5月25日在江蘇證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信建投證券。"
-    },
-    {
-      "id": "mkt:019e61ef-1c93-7442-918f-8e218132911e",
-      "time": "2026-05-26 09:38:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "0992.HK",
-        "Impact bullish"
-      ],
-      "text": "SHARES OF LENOVO GROUP UP MORE THAN 10%"
-    },
-    {
-      "id": "4899387",
-      "time": "2026-05-26 09:38:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量443億元。"
-    },
-    {
-      "id": "te:markets:553554",
-      "time": "2026-05-26 09:38:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Breach 8,000 Mark — The benchmark KOSPI climbed nearly 3% to around 8,050 on Tuesday, extending gains to fresh record highs, as optimism over a potential US-Iran agreement boosted global risk appetite. US President Donald Trump said negotiations with Iran were progressing “nicely,” raising hopes for the reopening of the Strait of Hormuz and easing concerns over disruptions to global oil supplies, which helped push crude prices lower. The rally was further fueled by strength in AI-related semiconductor stocks amid upbeat earnings expectations and robust demand for high-bandwidth memory chips. Samsung Electronics (2.9%) and SK hynix (6.9%) led the gains, while advances also spread across automakers, battery makers, and shipbuilders, including Hyundai Motor (4.6%), Kia Corporation (1.5%), Hanwha Ocean (5.7%), HD Hyundai Heavy Industries (4.7%), Hyundai Mobis (2.0%), and LG Energy Solution (0.5%)."
-    },
-    {
-      "id": "4899386",
-      "time": "2026-05-26 09:37:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報76.47美元/盎司。"
     }
   ]
 }
