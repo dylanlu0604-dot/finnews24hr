@@ -1,7 +1,299 @@
 {
-  "updated": "2026-06-03 01:04:12",
-  "count": 18334,
+  "updated": "2026-06-03 01:20:21",
+  "count": 18352,
   "items": [
+    {
+      "id": "mkt:019e8959-3dfe-7779-8aac-02979d75bdaa",
+      "time": "2026-06-03 01:19:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MSFT.O",
+        "Impact bullish",
+        "QCOM.O",
+        "2454.TW"
+      ],
+      "text": "Market sources say Microsoft (MSFT.O) is working with Qualcomm (QCOM.O) and MediaTek to develop new devices."
+    },
+    {
+      "id": "4913520",
+      "time": "2026-06-03 01:19:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基將赴法國出席七國集團峰會。"
+    },
+    {
+      "id": "4913519",
+      "time": "2026-06-03 01:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲：從7月1日起，符合用藥條件的聯邦醫療保險參保者每月僅需50美元即可獲得GLP類藥物。"
+    },
+    {
+      "id": "mkt:019e8958-1e9a-7779-8aab-f8e672831fb1",
+      "time": "2026-06-03 01:18:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) announced the Graph feature in Fabric is now generally available; the Planning feature in Fabric is scheduled for release later this month."
+    },
+    {
+      "id": "4913518",
+      "time": "2026-06-03 01:17:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（6月2日），美聯儲隔夜逆回購協議（RRP）使用規模為25.02億美元（交易對手32家），上個交易日報13.02億美元。"
+    },
+    {
+      "id": "4913517",
+      "time": "2026-06-03 01:17:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟官方預覽了一款與高通合作開發、專為出行途中智慧代理互動設計的便攜裝置。"
+    },
+    {
+      "id": "4913516",
+      "time": "2026-06-03 01:17:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示：伊拉克計劃分三階段將對鄰國的陸路原油出口提升至每日42萬桶。"
+    },
+    {
+      "id": "4913515",
+      "time": "2026-06-03 01:17:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟官方預覽搭載聯發科晶片的桌面終端裝置，該產品隸屬於索拉拉專案。"
+    },
+    {
+      "id": "4913514",
+      "time": "2026-06-03 01:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲：特朗普處方藥網站（TrumpRx）新增160種藥品。"
+    },
+    {
+      "id": "mkt:019e8956-96c4-7779-8aab-f62420472feb",
+      "time": "2026-06-03 01:16:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude extends intraday gain to 1.00% at $95.50/bbl."
+    },
+    {
+      "id": "mkt:019e8956-0371-7779-8aab-e8d7a5a31f15",
+      "time": "2026-06-03 01:16:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) launched RayFin, an open-source SDK and command-line tool to advance AI applications from prototype to production."
+    },
+    {
+      "id": "4913513",
+      "time": "2026-06-03 01:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟釋出“索拉拉計劃”：晶片將執行人工智慧代理而非應用程式，並直接與雲端計算資料中心通訊。"
+    },
+    {
+      "id": "mkt:019e8954-87b5-7779-8aab-e54407457275",
+      "time": "2026-06-03 01:14:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CEO announced the launch of AION, an inference and planning model."
+    },
+    {
+      "id": "4913512",
+      "time": "2026-06-03 01:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟推出面向新型人工智慧終端裝置的Solara專案。"
+    },
+    {
+      "id": "mkt:019e8954-3bb1-7779-8aab-dd1abe963fd8",
+      "time": "2026-06-03 01:14:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CEO said the company will expand the Windows AI API to more personal computers."
+    },
+    {
+      "id": "4913511",
+      "time": "2026-06-03 01:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克內閣授權貿易部長與烏茲別克磋商，簽署經貿、科教及文藝領域合作雙邊協定。"
+    },
+    {
+      "id": "mkt:019e8953-8479-7779-8aab-d5712a93eb0a",
+      "time": "2026-06-03 01:13:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign ministry said France's decision to exclude Israel from the European defence exhibition is discriminatory, politicized and deeply disappointing. It said a country that claims to defend freedom and democracy cannot selectively exclude Israel and that France has again chosen politics over principle."
+    },
+    {
+      "id": "mkt:019e8952-e530-7779-8aab-c8641844ec1a",
+      "time": "2026-06-03 01:12:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said Microsoft has deployed the most NVIDIA Blackwell chips."
+    },
+    {
+      "id": "4913510",
+      "time": "2026-06-03 01:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：微軟已部署數量最多的英偉達Blackwell晶片。"
+    },
+    {
+      "id": "mkt:019e8951-5eaf-7779-8aab-c0d2494c4abf",
+      "time": "2026-06-03 01:11:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said cooperation with Microsoft (MSFT.O) has enabled intelligent autonomous agents to run on personal computers."
+    },
+    {
+      "id": "mkt:019e8950-cde1-7779-8aab-bb7da0c42e5f",
+      "time": "2026-06-03 01:10:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) launched the Web IQ suite, which includes a set of AI-native Grounding APIs. Web IQ is described as a search engine targeted at AI systems."
+    },
+    {
+      "id": "4913509",
+      "time": "2026-06-03 01:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Fabric圖譜功能正式商用，Fabric規劃模組將於本月晚些時候正式上線。"
+    },
+    {
+      "id": "4913508",
+      "time": "2026-06-03 01:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美伊對話一直在持續進行】當地時間6月2日，美國總統特朗普表示，美國與伊朗之間的對話一直在持續進行。（央視新聞）"
+    },
+    {
+      "id": "4913507",
+      "time": "2026-06-03 01:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：適用於人工智慧應用的Azure HorizonDB PostgreSQL資料庫現已開啟公開預覽。"
+    },
+    {
+      "id": "4913506",
+      "time": "2026-06-03 01:07:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Web IQ是面向人工智慧系統的搜尋引擎。"
+    },
+    {
+      "id": "mkt:019e894d-bb30-7779-8aab-b54f9a039dc3",
+      "time": "2026-06-03 01:07:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says reports U.S.-Iran talks stopped days ago are fake news; talks ongoing】President Trump said on social media that reports claiming U.S.-Iran dialogue had stopped several days ago are false and that talks have been ongoing, including today. He said no one can predict their outcome and urged Iran to reach an agreement, adding: \"In any case, now is the time for you to reach an agreement. You have delayed this for 47 years; this must not continue.\""
+    },
+    {
+      "id": "4913505",
+      "time": "2026-06-03 01:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟宣佈推出RayFin，一款用於將人工智慧應用從原型開發落地到生產部署的開源軟體開發工具包與命令列工具。"
+    },
+    {
+      "id": "4913504",
+      "time": "2026-06-03 01:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：微軟Web IQ是一套原生搭載人工智慧的基準檢索應用程式介面。"
+    },
+    {
+      "id": "4913503",
+      "time": "2026-06-03 01:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟釋出微軟Web IQ產品。"
+    },
     {
       "id": "mkt:019e8949-ca12-7779-8aab-ac0b1778ccd7",
       "time": "2026-06-03 01:02:54",
@@ -167862,99 +168154,6 @@
         "公司"
       ],
       "text": "太空算力初創公司StarCloud與SpaceX簽署合同，計劃部署超50臺星鏈迷你鐳射終端，用於超25個衛星軌道資料中心，首批硬體一年內入軌。"
-    },
-    {
-      "id": "mkt:019e654d-3ad0-7332-8105-3e2fd6ca96d1",
-      "time": "2026-05-27 01:20:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia Says U.S. Denied Visa To Deputy Foreign Minister Alimov For UN Security Council Meeting】Russia's UN Ambassador Vassily Nebenzia said on May 26 the U.S. refused a visa for Deputy Foreign Minister Alexander Alimov to attend a UN Security Council meeting, breaching the UN‑U.S. Headquarters Agreement; Alimov had planned to attend."
-    },
-    {
-      "id": "4900906",
-      "time": "2026-05-27 01:19:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱美未向俄官員發放出席安理會會議的簽證】當地時間5月26日，俄羅斯常駐聯合國代表瓦西里·涅邊賈表示，美國沒有向俄副外長亞歷山大·阿利莫夫發放出席聯合國安理會會議的簽證，此舉違反了《聯合國和美國關於聯合國總部的協定》。涅邊賈表示，阿利莫夫原本打算出席會議。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e654b-a421-7332-8105-37ece7e8f87a",
-      "time": "2026-05-27 01:18:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Accepts $1.787 bln From Six Counterparties In Fixed-Rate RRP"
-    },
-    {
-      "id": "4900905",
-      "time": "2026-05-27 01:16:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（5月26日），美聯儲隔夜逆回購協議（RRP）使用規模為17.87億美元（交易對手6），上個交易日報9.65億美元。"
-    },
-    {
-      "id": "4900904",
-      "time": "2026-05-27 01:14:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：西方石油購入埃克森美孚特立尼達深海區塊10%股權】據訊息人士透露，西方石油公司將收購埃克森美孚旗下位於千里達及托巴哥近海的一處深海勘探區塊10%的股權。該區塊與蓋亞那極其富集油氣的斯塔布魯克（Stabroek）區塊接壤，雖被寄予厚望，但現階段的勘探風險依然處於高位。埃克森美孚目前正在該區塊進行地震波測線調研，預計資料解讀工作將於2026年底前完成。"
-    },
-    {
-      "id": "4900903",
-      "time": "2026-05-27 01:12:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列第 14 頻道：以色列方面預估，（美國）與伊朗達成的協議幾乎勢必會涉及黎巴嫩。"
-    },
-    {
-      "id": "4900902",
-      "time": "2026-05-27 01:11:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率在標售後延續跌勢，最新下跌 6.1 個基點，報 4.066%。"
-    },
-    {
-      "id": "4900901",
-      "time": "2026-05-27 01:08:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "NYMEX汽油期貨跌5%，創五週盤中新低。"
-    },
-    {
-      "id": "4900900",
-      "time": "2026-05-27 01:07:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【倫敦鋁價創逾四年新高，受供應擔憂推動】LME期鋁漲0.8%，報3677.50美元/噸，此前曾漲至3,707.50美元，創下自2022年3月24日以來的最高水平。LME期銅跌0.3%，報13618.50美元。LME期鋅跌跌0.3%至3,532美元，期鉛漲0.2%至2,014美元，期錫漲0.9%至54,600美元，期鎳上漲0.3%至18,975美元。日內稍早，LME銅、鋅和錫觸及5月中旬以來的最高點，而鉛則觸及1月下旬以來最高。"
-    },
-    {
-      "id": "4900899",
-      "time": "2026-05-27 01:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情人士透露，加拿大與德國SEFE接近達成液化天然氣（LNG）採購協議。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605273750076211",
-      "time": "2026-05-27 01:05:22",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國2年期國債中標利率為4.071%，與發行前預交易的當發收益率一致。"
     }
   ]
 }
