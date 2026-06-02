@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-02 08:56:53",
-  "count": 17205,
+  "updated": "2026-06-02 09:01:49",
+  "count": 17200,
   "items": [
+    {
+      "id": "mkt:019e85d8-7a92-7993-96fc-a3ba548d94f5",
+      "time": "2026-06-02 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the open, China’s main futures contracts were mostly higher. Methanol and LPG rose over 4%; fuel oil, SC crude, low-sulfur fuel oil (LU) and asphalt gained more than 3%; Shanghai tin and coking coal advanced over 2%. Shanghai gold fell over 1% and Shanghai silver declined about 1%."
+    },
+    {
+      "id": "4911567",
+      "time": "2026-06-02 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報5787.00元。"
+    },
+    {
+      "id": "4911566",
+      "time": "2026-06-02 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2921.00元。"
+    },
+    {
+      "id": "4911565",
+      "time": "2026-06-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.13%。"
+    },
+    {
+      "id": "4911564",
+      "time": "2026-06-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】液化石油氣連續漲3.85%，低硫燃料油連續漲3.57%，上海原油連續漲3.52%，燃料油連續漲3.41%，甲醇連續漲3.33%，瀝青連續漲3.07%，菜籽連續漲3.03%，錫連續漲2.41%，焦煤連續漲2.12%。"
+    },
+    {
+      "id": "4911563",
+      "time": "2026-06-02 08:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲羅馬尼亞無人機事件有關方保持冷靜剋制 】中國常駐聯合國代表傅聰6月1日在安理會有關羅馬尼亞無人機事件的緊急公開會上發言，呼籲有關各方保持冷靜剋制。他說，中方注意到無人機進入羅馬尼亞領空並造成人員受傷的報道，也注意到羅馬尼亞、俄羅斯等有關各方作出的表態和反應。中方一貫主張各國遵循《聯合國憲章》宗旨和原則處理國際關係，希望有關各方保持冷靜剋制，透過對話溝通澄清事實、消除疑慮、解決爭端，避免誤解誤判，防止事態擴大升級。他說，這一事件是烏克蘭危機的外溢結果。近一階段，烏克蘭戰事呈螺旋式升級，不僅給當事雙方帶來沉痛的傷害，而且波及周邊國家安全，進一步侵蝕地區國家之間的互信。如果放任局勢繼續惡化升級甚至走向失控，必將帶來不可挽回的嚴重後果。"
+    },
+    {
+      "id": "4911562",
+      "time": "2026-06-02 08:58:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【深圳出臺十條措施 最佳化前海國際化支付】近日，深圳前海管理局聯合市外辦、市商務局、市地方金融管理局等釋出《關於最佳化前海合作區國際化支付服務的十條措施》，打通境外人士支付堵點，實現“卡路、碼路、幣路”全通，進一步提升國際化支付服務體系，助力深圳加快建設具有全球重要影響力的消費中心。依託該政策，財付通創新“外卡內綁”與“外包內用”兩大業務，其中“外卡內綁”支援境外人士繫結境外銀行卡後，在2000美元額度內免身份核驗即可完成掃碼消費；“外包內用”已實現PayPal等36個境外電子錢包在境內直接使用。（深圳釋出）"
+    },
+    {
+      "id": "4911561",
+      "time": "2026-06-02 08:58:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：英偉達將擴大其面向PC產品線的AI晶片。"
+    },
+    {
+      "id": "4911560",
+      "time": "2026-06-02 08:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：馬來西亞總理安瓦爾將於6月8日起訪問日本。"
+    },
+    {
+      "id": "mkt:019e85d5-eb2f-7993-96fc-9b55717409cf",
+      "time": "2026-06-02 08:57:29",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【Shenzhen unveils 10 measures to streamline international payments in Qianhai】Qianhai management bureau, with municipal offices, issued 10 measures to remove payment frictions for nonresidents, opening card, QR-code and currency channels to bolster the international payments system and support Shenzhen’s push to become a globally influential consumption hub. Fintech operator Tenpay rolled out two services: foreign-card domestic binding allows foreigners to link overseas bank cards and complete QR-code purchases up to $2,000 without ID verification; foreign-wallet domestic use enables PayPal and 35 other overseas e‑wallets to be used directly in mainland China."
+    },
+    {
+      "id": "4911559",
+      "time": "2026-06-02 08:56:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "儘管韓國股市市值已經超過印度，但根據國際貨幣基金組織(IMF)的估算，印度4.15萬億美元的經濟規模仍然高於韓國的1.93萬億美元。"
+    },
     {
       "id": "4911558",
       "time": "2026-06-02 08:55:51",
@@ -156972,145 +157064,6 @@
         "Impact bullish"
       ],
       "text": "FTSE CHINA A50 INDEX FUTURES UP 0.1% AT OPEN"
-    },
-    {
-      "id": "4899319",
-      "time": "2026-05-26 09:01:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三將出席參議院金融委員會會議，會議於當地時間上午10點18分開始。"
-    },
-    {
-      "id": "4899318",
-      "time": "2026-05-26 09:01:09",
-      "tags": [],
-      "text": "國內期貨主力合約漲跌不一。SC原油、純苯、苯乙烯（EB）、瀝青、燃料油跌超2％，低硫燃料油（LU）、燒鹼跌近2％。漲幅方面，焦煤漲超9％，焦炭漲超5％，氧化鋁漲超4％，滬銀漲近1％。"
-    },
-    {
-      "id": "te:markets:553547",
-      "time": "2026-05-26 09:00:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Retreat from Record Levels — ThJapan’s Nikkei 225 Index fell 0.5% to below 65,000, while the broader Topix Index slipped 0.1% to 3,938 on Tuesday, with both benchmarks easing from record highs as investors continued to track diplomatic efforts aimed at ending the US-Iran conflict. President Donald Trump said negotiations were progressing well, although he warned that fresh attacks could follow if talks failed, while a Pakistani mediator reportedly told China that an agreement was nearing. A full reopening of the Strait of Hormuz would also ease pressure on major Asian economies that rely heavily on Middle Eastern oil imports. Technology and artificial intelligence-related shares retreated after driving Monday’s rally, led by declines in Kioxia Holdings (-3.5%), Fujikura (-4%), and Advantest (-4.9%). In contrast, SoftBank Group surged another 6% and is now up nearly 50% in four sessions following reports that two of its portfolio companies, OpenAI and SB Energy, are moving closer to US initial public offerings."
-    },
-    {
-      "id": "4899317",
-      "time": "2026-05-26 09:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.1%報43,708.89。"
-    },
-    {
-      "id": "4899316",
-      "time": "2026-05-26 09:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家分析：美伊在關鍵問題上未讓步 談判存不確定性】美伊雙方近期都表示談判已取得進展，但是不確定能否最終達成協議。專家認為，雙方在關鍵問題上都沒有做出實質性讓步，談判能否取得成果仍存很大不確定性。中國國際問題研究院助理研究員李子昕：現在美國和伊朗對於核問題的一些關鍵性立場並沒有出現明顯退讓，美國稱伊朗已經同意放棄高濃度濃縮鈾，但實際上，伊朗此前就表示過願意接受在境內對持有的高濃度濃縮鈾進行稀釋。在核問題特別是核材料的後期處理問題上，雙方並沒有給出究竟如何、透過什麼路徑來解決。對於這個問題，它只是留待之後討論，但是究竟如何解決，還將面臨進一步的博弈。（央視）"
-    },
-    {
-      "id": "4899315",
-      "time": "2026-05-26 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲9%，現報1307.50元。"
-    },
-    {
-      "id": "4899314",
-      "time": "2026-05-26 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "氧化鋁連續主力合約日內漲4%，現報2845.00元。"
-    },
-    {
-      "id": "4899313",
-      "time": "2026-05-26 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2847.00元。"
-    },
-    {
-      "id": "4899312",
-      "time": "2026-05-26 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲8%，現報1305.00元。"
-    },
-    {
-      "id": "4899311",
-      "time": "2026-05-26 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦炭連續主力合約日內漲5%，現報1903.00元。"
-    },
-    {
-      "id": "4899310",
-      "time": "2026-05-26 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.19%。"
-    },
-    {
-      "id": "4899309",
-      "time": "2026-05-26 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】焦煤連續漲8.97%，焦炭連續漲5.20%，氧化鋁連續漲4.78%，純苯連續跌2.67%，苯乙烯連續跌2.54%。"
-    },
-    {
-      "id": "4899308",
-      "time": "2026-05-26 08:59:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布倫特原油價格上漲 霍爾木茲海峽附近襲擊報道令協議前景蒙上陰影】在週一下跌逾7%之後，布倫特原油價格週二上漲，有關再次對伊朗發動軍事襲擊的報道，使德黑蘭和華盛頓之間重新開放霍爾木茲海峽的臨時協議前景蒙上陰影。布倫特原油期貨上漲至每桶98美元附近，而WTI原油價格在每桶91美元之上。據報道，美軍對伊朗境內的導彈發射場以及試圖佈設水雷的船隻實施了打擊。據半官方的法爾斯通訊社報道，霍爾木茲海峽附近，靠近伊朗沿海城市錫裡克和賈斯克一帶，傳來巨大的爆炸聲。目前，“認為能夠達成和平協議還為時尚早，更不用說遵守協議了。”MST Marquee高階能源分析師Saul Kavonic表示，“過去幾個月裡，雙方都聲稱談判取得了成功，或者海峽已經開放，但最終都未能實現。”美國和伊朗一直在談判一項協議，以將使停火期限延長約兩個月，美國將解除封鎖，德黑蘭將重新開放霍爾木茲海峽。7月結算的布倫特原油期貨上漲1.7%，至每桶97.76美元。7月交割的WTI原油期貨報91.52美元，比上週五的收盤價低5.3%；由於週一是美國假日，當日沒有進行結算。"
-    },
-    {
-      "id": "4899307",
-      "time": "2026-05-26 08:58:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【眾擎機器人等成立未來機器人科技公司】企查查APP顯示，近日，河南擎宇未來機器人科技有限公司成立，註冊資本5000萬元，經營範圍包含：人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司等共同持股。"
-    },
-    {
-      "id": "4899306",
-      "time": "2026-05-26 08:58:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：將迅速對補充預算作出反應，以確保不會擾亂經濟活動。"
-    },
-    {
-      "id": "4899305",
-      "time": "2026-05-26 08:58:03",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【巴西央行連續十一週上調今年通脹預期】當地時間25日，巴西中央銀行釋出報告，將巴西2026年通脹預期由4.92%上調至5.04%。由於中東局勢導致燃油價格上漲，巴西央行已連續十一週上調通脹預期。此前，巴西國家貨幣委員會將巴西2024年至2026年的通脹管理目標設定為3%，允許上下浮動1.5個百分點。（央視新聞）"
     }
   ]
 }
