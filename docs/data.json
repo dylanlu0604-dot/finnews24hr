@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-02 08:06:51",
-  "count": 17176,
+  "updated": "2026-06-02 08:10:37",
+  "count": 17187,
   "items": [
+    {
+      "id": "mkt:019e85aa-a3a8-7993-96fc-116497628e67",
+      "time": "2026-06-02 08:10:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 55.80 points, or 0.64%, at 8,673.60 points on Tuesday, June 2."
+    },
+    {
+      "id": "mkt:019e85aa-670b-7993-96fc-0938c008f5a2",
+      "time": "2026-06-02 08:09:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "066570.KS",
+        "Impact bearish"
+      ],
+      "text": "【Korean stocks plunge】South Korea's KOSPI fell 3% intraday after earlier rising more than 1.5%. LG Electronics dropped over 5% after earlier jumping as much as 11%."
+    },
+    {
+      "id": "4911499",
+      "time": "2026-06-02 08:09:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3.1%，報8518.93。"
+    },
+    {
+      "id": "4911498",
+      "time": "2026-06-02 08:09:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌2.1%，報 8600.74。"
+    },
+    {
+      "id": "4911497",
+      "time": "2026-06-02 08:09:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國首爾股市綜合股價指數（KOSPI）轉跌，回吐了早盤1.7%的漲幅。"
+    },
+    {
+      "id": "mkt:019e85a9-894b-7993-96fc-041169790b2f",
+      "time": "2026-06-02 08:09:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "South Korea's KOSPI slid as much as 2.00% intraday."
+    },
+    {
+      "id": "4911496",
+      "time": "2026-06-02 08:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞將最低工資上調4.75%。"
+    },
+    {
+      "id": "4911495",
+      "time": "2026-06-02 08:08:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長表示，一枚導彈襲擊後，基輔一棟24層住宅樓爆發火災。"
+    },
+    {
+      "id": "4911494",
+      "time": "2026-06-02 08:08:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔市內再次傳出連續爆炸聲】記者獲悉，當地時間6月2日，烏克蘭首都基輔市內再次傳出連續的劇烈爆炸聲。基輔市長克利奇科通報，達爾尼茨基區、斯維亞託申區、舍甫琴科夫斯基區多處區域遭導彈殘骸墜落引燃火情，一座加油站與多處非住宅建築受損起火。目前現場救援、損失統計工作仍在開展，官方暫未通報人員傷亡。基輔市軍事管理局表示。波多利斯基區一棟高層建築倒塌，廢墟下有人被困。當天稍早時，基輔拉響防空警報，隨後傳出連續的劇烈爆炸聲，部分地區停電。"
+    },
+    {
+      "id": "te:economy:555500",
+      "time": "2026-06-02 08:08:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Factory Growth Strongest in Four Years — The AIB Ireland Manufacturing PMI rose to 55.9 in May 2026 from 54.9 in April, reaching its highest in four years. Output growth accelerated to its fastest pace in a year, while new orders increased at the quickest rate since April 2022, driven by improving domestic and export demand, with overseas sales posting their strongest growth since August 2021. Employment also expanded at the fastest pace in nearly four years as firms boosted capacity to meet growing workloads. Purchasing activity strengthened sharply, while manufacturers continued building inventories amid supply chain concerns linked to the Middle East conflict. Supplier delivery times also lengthened to the greatest extent since October 2022. Meanwhile, input cost inflation accelerated to its highest level since July 2022, leading firms to raise selling prices at the fastest pace since December 2022. Still, business confidence improved from April’s 25-month low, supported by stronger sales pipelines and investment plans."
+    },
+    {
+      "id": "mkt:019e85a9-07e0-7993-96fb-fcbfbf9d66de",
+      "time": "2026-06-02 08:08:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI slid, losses widening to 1.4%."
+    },
+    {
+      "id": "4911493",
+      "time": "2026-06-02 08:08:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【知名空頭投資人安德魯・萊夫被判證券欺詐罪成立】空頭大佬安德魯・萊夫（Andrew Left ）於被判證券欺詐罪名成立，其作案手法為公開發布上市公司相關研判言論，私下卻進行與自身薦股、預判相悖的證券交易。陪審團裁定，其證券欺詐主罪名成立；16 項單項交易相關指控中，另有 12 項定罪、4 項無罪。判決在洛杉磯法庭當庭宣讀，萊夫聆聽一連串有罪宣判時，辯護律師手扶其後背。本次判決或將對華爾街行業產生深遠影響。"
+    },
+    {
+      "id": "mkt:019e85a8-84f3-7993-96fb-f6b99fde0278",
+      "time": "2026-06-02 08:07:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index rapidly reversed into negative territory after earlier gains of more than 1.5%."
+    },
+    {
+      "id": "mkt:019e85a7-8bf7-7993-96fb-ea5b5940150c",
+      "time": "2026-06-02 08:06:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Häagen‑Dazs' mainland China store operations will be licensed to an investor group that includes Ningji. The proposed transaction is expected to close in the 2026 calendar year, subject to required regulatory approvals and customary closing conditions. Financial terms were not disclosed."
+    },
     {
       "id": "4911492",
       "time": "2026-06-02 08:06:19",
@@ -156817,32 +156949,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4580美元/盎司，日內漲0.51%。"
-    },
-    {
-      "id": "4899250",
-      "time": "2026-05-26 08:09:44",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：海外HFCs期限延長利好國內企業】華泰證券研報表示，近日英國和美國陸續宣佈HFCs（三代製冷劑）等含氟氣體使用配額削減計劃推遲，HFCs淘汰降碳節奏整體放緩，主要因為HFCs價格上行導致製冷劑產業鏈執行成本上升等因素。華泰證券認為，我國自2024年實施HFCs配額制以來，供給強約束疊加汽車、空調和出口需求較好等支撐下，R32、R134a等主流產品價格已步入上行週期，後續海外使用期限的延長對HFCs需求有望形成更長期穩定支撐，而供給端考慮全球HFCs產能主要集中在中國，海外供給有限下，中國HFCs生產企業盈利週期有望延長，國內製冷劑龍頭企業均有望受益。此外，2026年第二季度以來氟化工產業鏈相關品種，如氫氟酸（含電子級）、含氟電子氣體（如六氟化鎢）、六氟磷酸鋰、PTFE等，需求端受益於電子和新能源等領域驅動，而地緣衝突等導致海外企業供應穩定性下滑，國內相關企業有望受益於相應產品供需改善下帶來的價格彈性，以及全球份額提升的機會。"
-    },
-    {
-      "id": "4899249",
-      "time": "2026-05-26 08:09:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國國債全線上漲 因對美、伊協議的預期升溫】隨著假期過後、現貨交易恢復，且對美國與伊朗達成協議的樂觀情緒日益高漲，美國國債全線上漲。美國2年期公債收益率下降6個基點至4.06%。10年期公債收益率下降7個基點至4.49%。"
-    },
-    {
-      "id": "4899248",
-      "time": "2026-05-26 08:07:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225平均股價指數回吐此前漲幅，當前下跌0.6%，報64789.50點。"
     }
   ]
 }
