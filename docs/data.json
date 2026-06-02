@@ -1,7 +1,191 @@
 {
-  "updated": "2026-06-02 11:30:23",
-  "count": 17272,
+  "updated": "2026-06-02 11:34:24",
+  "count": 17287,
   "items": [
+    {
+      "id": "4911797",
+      "time": "2026-06-02 11:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家銀行補貼微信支付提現】近日，多家銀行宣佈推出微信提現補貼活動。受訪專家認為，這是銀行在移動支付時代對低成本負債的一場精準爭奪戰，本質上是將營銷費用轉化為使用者可感知的即時利益，換回更穩定、更低成本的存款基礎。另外，透過比較微信提現、支付寶提現活動，發現免費額度多與平臺場景相關，比如會員積分、購物外賣等。且兩家平臺均與生態內網際網路民營銀行有一定“互動”，即透過免費提現來吸引銀行潛在使用者。（經濟參考報）"
+    },
+    {
+      "id": "te:markets:555574",
+      "time": "2026-06-02 11:31:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Holds Above 45,000, Extending Gains — The TAIEX, Taiwan’s benchmark stock index, climbed 150 points, or 0.3%, to 45,488 on Tuesday around noon, rising for the second straight session, mainly buoyed by finance, communication, consumer durables, and electronic technology stocks. The broader index hit a fresh record high, surpassing the 45,000 level for the second consecutive session, as optimism over AI demand continued to lift sentiment. A rally on Wall Street on Friday also supported sentiment, driven by optimism over US-Iran peace talks aimed at ending the war, amid a resurgence in AI-related stocks. Electronic technology stocks edged up 0.1%, with TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rising 1.5% after being flat on Monday. Meanwhile, Hon Hai Precision Industry gained 2.0%. Financial stocks rose 1.3%, with Fubon Financial Holding and CTBC Financial Holding advancing 0.9% and 1.0%, respectively."
+    },
+    {
+      "id": "4911796",
+      "time": "2026-06-02 11:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數日內跌幅達2%。"
+    },
+    {
+      "id": "mkt:019e8662-fbaa-7448-8816-77c1a1029572",
+      "time": "2026-06-02 11:31:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 slid as much as 2% intraday."
+    },
+    {
+      "id": "mkt:019e8662-ecd6-7448-8816-6c36fb629b27",
+      "time": "2026-06-02 11:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China index futures morning session close】CSI 300 index futures (IF) main contract up 0.83%; SSE 50 index futures (IH) main contract up 0.26%; CSI 500 index futures (IC) main contract up 0.14%; CSI 1000 index futures (IM) main contract down 0.09%."
+    },
+    {
+      "id": "mkt:019e8662-eab8-7448-8816-624ca99466f2",
+      "time": "2026-06-02 11:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning close】At the morning close, China government bond futures: 2-year (TS) main contract +0.01%, 5-year (TF) main contract unchanged, 10-year (T) main contract unchanged, 30-year (TL) main contract -0.16%."
+    },
+    {
+      "id": "mkt:019e8662-e8c1-7448-8816-5ee458f96ffe",
+      "time": "2026-06-02 11:31:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the morning close, China's main futures were mixed: tin +3%+, methanol ~+3%; LPG, bitumen, paraxylene (PX) and apples +2%+; SC crude and low-sulfur fuel oil (LU) ~+2%. Decliners: lithium carbonate -~4%; Asia–Europe container freight -2%+; caustic soda, alumina, live hogs, glass, soda ash and SHFE gold down >1%."
+    },
+    {
+      "id": "mkt:019e8662-cfe8-7448-8816-5049bafdc0e6",
+      "time": "2026-06-02 11:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "SMFG's global markets head proposed the Bank of Japan keep monthly bond purchases at 2.1 trillion yen starting April 2027."
+    },
+    {
+      "id": "4911795",
+      "time": "2026-06-02 11:31:01",
+      "tags": [
+        "公司",
+        "焦點",
+        "A股"
+      ],
+      "text": "【午評：創業板指高開高走漲超2%，元件、非金屬材料、CPO板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.04%，深證成指漲0.96%，創業板指漲2.15%，北證50跌0.09%，科創50指數漲1.39%。全市場成交額18201億元，較上日縮量1482億元，全市場超4100只個股下跌。板塊題材上，元件、非金屬材料、CPO、AI PC、光纖概念板塊漲幅居前；影視院線、短劇遊戲、足球概念、養雞、網際網路電商板塊跌幅居前。盤面上，元件板塊震盪上揚，勝業電氣30cm漲停，達利凱普、中京電子漲停，風華高科、東山精密、鵬鼎控股、寶鼎科技、滬電股份漲幅居前。CPO板塊高開下挫後迅速拉昇，亨通光電、意華股份等多股漲停，阿萊德、源傑科技、光庫科技漲超10%。AI PC板塊高開高走，雷神科技漲超20%，英力股份漲超10%，春秋電子漲停，慧為智慧、芯海科技、軟通動力漲幅居前。影視院線板塊持續下挫，百納千成、中視傳媒領跌板塊，慈文傳媒、博納影業、歡瑞世紀跌幅居前。足球概念亦表現疲軟，粵傳媒、舒華體育、中體產業跌停，金陵體育、共創草坪、金浦園林跌幅居前。"
+    },
+    {
+      "id": "mkt:019e8662-6994-7448-8816-4acdefbaf332",
+      "time": "2026-06-02 11:30:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "SMFG global markets head says Bank of Japan should hike rates in June."
+    },
+    {
+      "id": "mkt:019e8662-2599-7448-8816-459e3bc2b3a6",
+      "time": "2026-06-02 11:30:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Southeast Asia manufacturing ends slowdown; Philippines, Indonesia in expansion】Southeast Asia's manufacturing sector ended a three-month slowdown in May as surging domestic demand offset weaker exports, S&P Global said. The regional manufacturing PMI rose to 51.5 in May from 50.7 in April, staying above the 50 expansion threshold. Robust new orders enabled firms to raise output. Vietnam led the region at 52.8, followed by Thailand at 52.6; the Philippines and Indonesia were also in expansion. Myanmar (49.3) and Malaysia (49.9) remained below the threshold. S&P Global Markets Intelligence said firms increased purchasing but hiring remained cautious, with employment edging down in May."
+    },
+    {
+      "id": "mkt:019e8661-d270-7448-8816-3a8683e7a50f",
+      "time": "2026-06-02 11:30:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "SMFG said the Bank of Japan should clarify its policy path to achieve normalization and help stabilize the bond market."
+    },
+    {
+      "id": "4911794",
+      "time": "2026-06-02 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】碳酸鋰連續跌3.96%，錫連續漲3.63%，甲醇連續漲2.90%，液化石油氣連續漲2.48%，瀝青連續漲2.43%。"
+    },
+    {
+      "id": "4911793",
+      "time": "2026-06-02 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.09%， 滬深300指數期貨連續漲0.83%， 中證500指數期貨連續漲0.14%， 上證50指數期貨連續漲0.26%。"
+    },
+    {
+      "id": "4911792",
+      "time": "2026-06-02 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.16%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4911791",
+      "time": "2026-06-02 11:30:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏官員稱俄空襲基輔造成3人死亡】烏克蘭基輔市軍事管理局局長特卡琴科2日在社交媒體上說，俄羅斯當天對烏首都基輔的空襲造成3人死亡。烏克蘭基輔市市長克利奇科2日凌晨在社交媒體上說，基輔市遭空襲，遭襲區域包括波多利斯基區和奧博隆區等地。(新華社)"
+    },
+    {
+      "id": "4911790",
+      "time": "2026-06-02 11:29:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比頭髮絲細卻能拉動10噸卡車的“黑黃金”量產】6月2日，記者從中國石化獲悉，中國石化上海石化聯合上海石油化工研究院成功攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產，標誌著其在高效能碳纖維領域取得里程碑式突破。該材料可用於航空航天、具身智慧、低空經濟等高階領域和未來產業，將為我國關鍵領域發展提供核心戰略材料支撐。（科技日報）"
+    },
     {
       "id": "4911789",
       "time": "2026-06-02 11:28:24",
@@ -157868,25 +158052,6 @@
         "公司"
       ],
       "text": "【慧谷新材：公司光電塗層材料產品可用於玻璃基板光電封裝領域】慧谷新材(301683)在互動平臺表示，目前公司應用於LED晶片封裝領域的光電塗層材料產品可用於玻璃基板光電封裝領域。公司相關產品在該領域暫未形成規模化銷售，業務具有不確定性，請廣大投資者注意投資風險。"
-    },
-    {
-      "id": "4899563",
-      "time": "2026-05-26 11:31:05",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【午評：科創50震盪調整跌近3%，半導體板塊、光纖概念跌幅居前】三大指數早盤集體下跌，截至午盤，上證指數跌0.84%，深證成指跌0.87%，創業板指跌0.51%，北證50跌2.71%，科創50指數跌2.88%。全市場成交額21734億元，較上日放量821億元，全市場超4500只個股下跌。板塊題材上，貴金屬、證券、電機板塊漲幅居前；半導體、光纖、儲存晶片板塊跌幅居前。盤面上，貴金屬板塊低開後拉昇，招金黃金漲停，西部黃金、紫金礦業跟漲。證券板塊亦低開高走，錦龍股份早盤漲停，中信建投、中國銀河漲幅居前。受宇樹科技IPO上會時間確定影響，部分人形機器人概念股早盤走高，中大力德漲停，科達自控漲超18%，上緯新材漲超13%。半導體板塊低開低走迎來調整，誠邦股份跌停，裕太微、凱德石英、炬光科技跌超10%。光纖概念股方面，三旺通訊跌超10%，通鼎互聯、杭電股份跌幅居前。"
-    },
-    {
-      "id": "4899562",
-      "time": "2026-05-26 11:30:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲面向海外發布Qwen Cloud及MuleRun】阿里雲5月26日在新加坡面向海外市場釋出全新AI產品官網Qwen Cloud、Agent產品MuleRun，以及智慧體程式設計平臺Qoder、通用桌面智慧體 QoderWork的一系列更新，同步實現面向Agent的雲基礎設施升級。阿里雲技術長、國際業務總裁李飛飛表示，海外市場對AI的需求持續旺盛，尤其是Agent的爆發讓模型呼叫量和雲資源消耗呈指數級增長。"
     }
   ]
 }
