@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-03 06:17:51",
-  "count": 18453,
+  "updated": "2026-06-03 06:21:46",
+  "count": 18459,
   "items": [
+    {
+      "id": "4913712",
+      "time": "2026-06-03 06:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據今日俄羅斯：中東地區發生爆炸，美國國防部的飛機緊急從以色列起飛。"
+    },
+    {
+      "id": "mkt:019e8a6c-d686-733d-881b-4dab83f60141",
+      "time": "2026-06-03 06:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA TODAY reported an explosion in the Middle East and said a PENTAGON aircraft made an urgent departure from Israel."
+    },
+    {
+      "id": "mkt:019e8a6c-299a-733d-881b-431ddf4f2095",
+      "time": "2026-06-03 06:20:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh told staff in a memo he will approach Federal Reserve reform talks with a \"clear-eyed\" view while upholding the Fed's best traditions."
+    },
+    {
+      "id": "mkt:019e8a6b-bf0e-733d-881b-38d1d2b2e246",
+      "time": "2026-06-03 06:19:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Tehran Times reported that the Ali Al-Salem military base in Kuwait was attacked."
+    },
+    {
+      "id": "4913711",
+      "time": "2026-06-03 06:19:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：美聯儲主席沃什在內部備忘錄中告知員工，將在承襲美聯儲優良傳統的前提下，立足客觀審慎開展改革磋商。"
+    },
+    {
+      "id": "mkt:019e8a6b-74d7-733d-881b-3175d4520174",
+      "time": "2026-06-03 06:19:18",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "People familiar with the matter said Broadcom (AVGO.O) committed to underwrite the largest portion of ANTHROPIC's record chip financing, helping reduce debt costs on the $36 billion transaction."
+    },
     {
       "id": "4913710",
       "time": "2026-06-03 06:15:26",
