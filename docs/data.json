@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-02 10:01:20",
+  "updated": "2026-06-02 10:05:14",
   "count": 17255,
   "items": [
+    {
+      "id": "4911679",
+      "time": "2026-06-02 10:04:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下行2.5個基點，報2.655%。"
+    },
+    {
+      "id": "4911678",
+      "time": "2026-06-02 10:04:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跌幅擴大至0.5%，納斯達克指數期貨下跌0.75%。"
+    },
+    {
+      "id": "4911677",
+      "time": "2026-06-02 10:04:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念逆勢走強 亨通光電漲超9%續創歷史新高】光纖概念盤中逆勢走強，亨通光電漲超9%，續創歷史新高，總市值突破2000億，長飛光纖、匯源通訊、長盈通、永鼎股份、中天科技跟漲。"
+    },
+    {
+      "id": "4911676",
+      "time": "2026-06-02 10:03:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "騰訊控股(00700.HK)短線拉昇，現漲超3%。"
+    },
+    {
+      "id": "4911675",
+      "time": "2026-06-02 10:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大至1.88%。"
+    },
+    {
+      "id": "mkt:019e8612-44b8-7aa2-99e8-fe35f9780264",
+      "time": "2026-06-02 10:03:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "Tencent Holdings (00700.HK) rose sharply in intraday trade, up more than 3%."
+    },
+    {
+      "id": "4911674",
+      "time": "2026-06-02 10:03:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：騰訊接近為微信使用者推出AI助手。"
+    },
+    {
+      "id": "mkt:019e8611-62d9-7aa2-99e8-f323b2074312",
+      "time": "2026-06-02 10:02:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Naura Technology launches 12-inch GCIB etcher】Chinese semiconductor equipment maker Naura Technology launched the Acme Glaion130, a new 12-inch gas cluster ion beam (GCIB) etcher. The company says the tool overcomes three core technical bottlenecks and targets advanced logic, memory, packaging, silicon photonics and AR/VR chip applications."
+    },
+    {
+      "id": "4911673",
+      "time": "2026-06-02 10:02:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現代汽車股價下跌5.6%。"
+    },
+    {
+      "id": "4911672",
+      "time": "2026-06-02 10:02:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報5064.710點；恒生指數現漲0.509%。"
+    },
+    {
+      "id": "4911671",
+      "time": "2026-06-02 10:01:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價回吐了早盤大部分漲幅，目前上漲0.3%。"
+    },
     {
       "id": "4911670",
       "time": "2026-06-02 10:00:30",
@@ -157545,105 +157644,6 @@
         "其他"
       ],
       "text": "【我國耐高溫、高強、高模鋁基複合材料研發取得進展】據中國科學院金屬研究所訊息，鋁基複合材料憑藉高比強度、高比模量的優勢，已成為航空航天領域的核心結構材料。但受高溫介面退化、基體軟化問題制約，其服役溫度長期侷限於300℃以下，嚴重限制了在高溫場景的應用。為提升高溫服役能力，具有優異冶金結合介面的原位鋁基複合材料成為研究焦點。近日，中國科學院金屬研究所瀋陽材料科學國家研究中心鋁鎂材料研究部研究團隊，提出缺陷促進的Ti2AlC（MAX相）“內分解”機制。該策略可突破錶面擴散主導的反應動力學瓶頸，解決強化相尺寸與體積分數難以協同的核心矛盾，成功研發出兼具優異高溫強度與模量的多級結構Al3Ti/Al複合材料。"
-    },
-    {
-      "id": "te:markets:553562",
-      "time": "2026-05-26 10:04:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Rebound — European natural gas prices rose over 1% to €46.2 per megawatt hour, rebounding from a two-week low as uncertainty over a Middle East peace deal resurfaced following fresh US military action in the region. Reports indicate that the US conducted “self-defense strikes” targeting Iranian missile launch sites and boats near the Strait of Hormuz. The latest strikes come despite ongoing diplomatic efforts, with President Donald Trump stating that negotiations with Iran are “proceeding nicely.” While most gas exports from the Persian Gulf typically head to Asia, prolonged disruption in the strait would tighten global supply and intensify competition among importing regions. The situation complicate Europe’s efforts to rebuild relatively low gas storage levels ahead of the next winter."
-    },
-    {
-      "id": "4899433",
-      "time": "2026-05-26 10:04:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東吳證券董事長範力：常態化搭建交流合作平臺，讓蘇州智造品牌走向全球】5月26日，東吳證券董事長範力出席蘇州智造2030峰會並發表致辭。他表示，過去三十年，蘇州製造歷經四次產業躍升，現已成為全球AI硬體核心極，也是國內製造業轉型升級的典型代表。未來，“蘇州智造2030”將是銜接長遠發展目標的重要中期戰略，依託“1030”產業體系，佈局十大新興產業與十大未來產業，致力打造全國領先、全球知名的高階智造高地與創新策源地。範力表示，作為蘇州本土成長起來的金融機構，東吳證券始終踐行“堅持根據地、融入長三角、服務中小微”發展理念，多項核心業務穩居行業及區域前列。公司常態化搭建交流合作平臺，推動產融深度結合，希望未來能與各界攜手並肩，以資本為橋樑、以創新為動力，讓蘇州智造品牌走向全球。"
-    },
-    {
-      "id": "4899432",
-      "time": "2026-05-26 10:03:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：儘管中期通脹預期仍穩定在通脹目標附近，但短期通脹預期也出現了小幅上升。"
-    },
-    {
-      "id": "4899431",
-      "time": "2026-05-26 10:03:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "斯里蘭卡央行：中東局勢緊張帶來的不確定性推高全球大宗商品價格，其中石油價格持續居高不下。"
-    },
-    {
-      "id": "4899430",
-      "time": "2026-05-26 10:03:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：未來一段時間總體通脹率大機率仍將維持在5%的目標水平上方，之後才會回落並在5%目標附近企穩。"
-    },
-    {
-      "id": "4899429",
-      "time": "2026-05-26 10:02:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：短期通脹預期略有上升。"
-    },
-    {
-      "id": "4899428",
-      "time": "2026-05-26 10:02:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：斯里蘭卡盧比貶值幅度有所緩解。"
-    },
-    {
-      "id": "4899427",
-      "time": "2026-05-26 10:02:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：截至4月底，官方外匯儲備總額為68億美元。"
-    },
-    {
-      "id": "4899426",
-      "time": "2026-05-26 10:02:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：2026年第一季度外部經常賬戶規模依然較小。"
-    },
-    {
-      "id": "4899425",
-      "time": "2026-05-26 10:01:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兆易創新股價創歷史新高】兆易創新盤中股價創歷史新高，現漲0.03%，報514.99元，總市值為3606.26億元。"
-    },
-    {
-      "id": "4899424",
-      "time": "2026-05-26 10:01:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯里蘭卡將隔夜政策利率上調至8.75%；此前預期為8.25%。"
     }
   ]
 }
