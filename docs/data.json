@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-02 20:53:10",
-  "count": 17954,
+  "updated": "2026-06-02 20:57:12",
+  "count": 17961,
   "items": [
+    {
+      "id": "4913013",
+      "time": "2026-06-02 20:56:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：歐洲央行在6月加息後應保持謹慎】荷蘭銀行投資解決方案部門的克里斯托夫·布切爾在一份報告中表示，歐洲央行在普遍預期的6月份加息之後，應保持觀望態度。歐元區5月份通脹率攀升至3.2%，核心通脹率略高於預期，為2.5%。但他表示，歐洲央行需要看到能源通脹向更廣泛經濟領域蔓延的更強烈跡象，才會開啟激進的緊縮週期。布切爾表示，歐洲央行似乎希望迅速採取行動，以避免重蹈2022年的覆轍，然而目前該地區經濟的疲軟狀態要求其保持謹慎。“政策過度偏緊縮的風險在於，會將歐元區從溫和的滯脹推入衰退。”"
+    },
+    {
+      "id": "mkt:019e8868-1467-7448-98be-67b63777e52d",
+      "time": "2026-06-02 20:56:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iranian media: Strait of Hormuz transit permit applications open】Iranian media reported on the 2nd that a permit application system for vessel transit through the Strait of Hormuz has been fully opened. Global shipowners and masters can submit transit applications 24 hours a day via an electronic system established by the managing authority; vessels will receive transit permits after approval."
+    },
+    {
+      "id": "mkt:019e8867-79c9-7448-98be-5f38bf5b02e6",
+      "time": "2026-06-02 20:55:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WMO: 80% probability of El Niño in June–August】The World Meteorological Organization said in a bulletin on the 2nd that, given unusually warm tropical Pacific sea surface temperatures and other factors, there is an 80% probability of an El Niño event between June and August, elevating the risk of extreme weather in the coming months."
+    },
+    {
+      "id": "4913012",
+      "time": "2026-06-02 20:55:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州釋出高溫健康風險預警】今天（6月2日），廣州市疾病預防控制中心（廣州市衛生監督所）、廣州市生態與農業氣象中心聯合釋出高溫健康風險預警：預計未來三天，廣州市各地高溫健康風險達到較高到極高等級，市民需注意防暑降溫。"
+    },
+    {
+      "id": "mkt:019e8867-5c11-7448-98be-57a69a9b4c63",
+      "time": "2026-06-02 20:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jinko Storage completes delivery of 722 MWh energy storage system to India】Jinko Storage has completed delivery of a 722 MWh energy storage system to a major renewable-energy base in India. The shipment comprises 144 SunTeraG2 liquid-cooled storage systems and will provide capacity for high-renewables grid integration, clean-energy dispatch, grid stability and peak-load support."
+    },
+    {
+      "id": "4913011",
+      "time": "2026-06-02 20:55:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST建藝：擬向控股股東借款不超1.33億元】*ST建藝公告稱，公司因日常經營發展需要，擬向控股股東正方集團申請不超1.33億元借款額度，期限至2026年6月30日，年化利率5%，額度可迴圈使用。公司擬以合併報表範圍內資產提供擔保。2026年初至3月31日，公司及其子公司與正方集團累計關聯交易約4.26億元。該議案已獲董事會和獨立董事審議透過，將提交股東會審議。"
+    },
+    {
+      "id": "mkt:019e8866-f99a-7448-98be-4f16e6df4a5f",
+      "time": "2026-06-02 20:55:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Redbook weekly retail sales YoY for the week to May 30 9.0% (prev. 9.0%)."
+    },
+    {
+      "id": "4913010",
+      "time": "2026-06-02 20:55:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至5月30日當週紅皮書商業零售銷售年率 9%，前值9%。"
+    },
+    {
+      "id": "mkt:019e8866-d1a4-7448-98be-477957368126",
+      "time": "2026-06-02 20:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (May.30) | actual 9% | previous 9%"
+    },
+    {
+      "id": "4913009",
+      "time": "2026-06-02 20:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：霍爾木茲海峽通行許可已開放申請】伊朗媒體2日報道稱，霍爾木茲海峽船舶通行許可申請系統已全面開放，全球船東和船長可在全天24小時任何時段提交通行申請。據報道，船方可透過管理機構設立的電子系統提交霍爾木茲海峽通航申請。稽核透過後，船舶將獲得通行許可。（新華社）"
+    },
+    {
+      "id": "4913008",
+      "time": "2026-06-02 20:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【當前我國夏糧收穫進度超三成】記者從農業農村部獲悉，截至6月2日17時，全國已收穫夏糧小麥1.19億畝，收穫進度35.09%。當日收穫2386萬畝、投入聯合收割機28.92萬臺。目前安徽麥收進度近七成、河南近五成、江蘇過兩成、陝西過一成。（新華社）"
+    },
+    {
+      "id": "4913007",
+      "time": "2026-06-02 20:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【晶科儲能完成722MWh儲能系統交付】據晶科能源訊息，近日，晶科儲能已向印度大型新能源基地專案完成722MWh儲能系統裝置交付。該專案採用144套晶科SunTera G2液冷儲能系統，將為當地新能源高比例併網、清潔能源排程、電網穩定執行及峰值負荷支撐提供可靠儲能能力。"
+    },
+    {
+      "id": "te:markets:555786",
+      "time": "2026-06-02 20:54:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Up as Markets Monitor Middle East Developments — Futures tracking the S&P/TSX Composite Index edged up on Tuesday to pare its underperformance to US stocks from the previous session. US President Donald Trump said talks with Iran were ongoing, although friction between Israel and Lebanon continued to jeopardize an agreement and eventual resumption of trade from the region. Gold prices rose, supporting mining stocks. Investors also monitored reports that Barrick is considering a London listing for its African business, with a potential all-share transaction involving UK-listed Endeavour Mining among the options under review."
+    },
+    {
+      "id": "4913006",
+      "time": "2026-06-02 20:53:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析師認為 SpaceX 估值顯著偏高】晨星分析師將 SpaceX 估值定為 7800 億美元，該數值不足這家馬斯克執掌企業擬定 IPO 目標估值的一半，公司本週即將開啟上市路演。這家研究機構表示，旗下囊括 xAI 與社交平臺 X 的人工智慧業務前景存疑，商業模式尚不清晰，同時還要直面 OpenAI、Anthropic 帶來的行業競爭。晨星股票分析師尼古拉斯・歐文斯談及 xAI 研發的聊天機器人 Grok 時稱：“現階段 Grok 還躋身不了頭部 AI 實驗室產品行列。”歐文斯還警示，SpaceX 人工智慧板塊的未來潛力依託軌道資料中心等尚未落地驗證的技術；衛星寬頻業務星鏈同樣存在諸多技術難題，其中不少風險並非企業能夠自主把控。歐文斯表示：“我們認為公司當前估值顯著偏高，IPO 上市後，投資者將有機會在更合理的價位買入該股。”"
+    },
     {
       "id": "mkt:019e8862-f8a0-7448-98be-3f2c1b4656ab",
       "time": "2026-06-02 20:50:47",
@@ -164458,67 +164584,6 @@
         "市場"
       ],
       "text": "【可可期貨價格飆升 基金加大空頭回補】紐約和倫敦可可期貨大幅上漲，市場越發擔心潛在的厄爾尼諾氣候現象可能威脅西非可可作物產量之際，投機客繼續進行空頭回補。紐約最活躍合約一度上漲9.5%，至每噸4,157美元，創5月11日以來最大盤中漲幅；倫敦期貨漲幅接近9%。"
-    },
-    {
-      "id": "4900624",
-      "time": "2026-05-26 20:56:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星非晶片部門工會申請叫停薪資協議投票 】韓國三星電子內部代表非晶片部門的工會26日提起訴訟，申請阻止有關臨時薪資協議的電子投票。三星電子勞資雙方此前就2026年薪資問題進行多輪談判，但就部分事項陷入僵局。在政府介入下，勞資雙方20日晚宣佈達成臨時薪資協議，工會成員22日開始就該協議進行電子投票，投票將於27日上午10時結束。外界普遍預測，協議將得到超過半數工會成員的支援而獲得透過。非晶片部門包括智慧手機、電視和其他家電部門，其產品主要面向消費者。在臨時薪資協議中，晶片部門員工獲得的績效獎勵遠遠高於非晶片部門，從而引發非晶片部門員工不滿。（新華社）"
-    },
-    {
-      "id": "4900623",
-      "time": "2026-05-26 20:55:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "網路監測機構：伊朗網際網路連線已部分恢復。"
-    },
-    {
-      "id": "4900622",
-      "time": "2026-05-26 20:55:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩：將透過歐洲安全行動基金（SAFE） 向波羅的海國家撥付 120 億歐元資金。"
-    },
-    {
-      "id": "4900621",
-      "time": "2026-05-26 20:54:03",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【千億市值晶片企業有望登創業板】2家IPO於今日公告輔導驗收穫得透過。其中，宸芯科技於5月22日獲青島證監局IPO輔導驗收透過，擬登陸創業板，輔導機構為中信建投；海明潤於5月26日獲深圳證監局IPO輔導驗收透過，擬登陸北交所，輔導機構為國金證券。值得注意的是，宸芯科技系積體電路設計企業，專注於無線通訊SoC晶片及模組類產品的研發、設計與銷售，2025年營收為4.79億元，最近三年累計研發投入7.31億元，佔最近三年累計營業收入的比例為58.91%，適用創業板第四套上市標準第二子標準。截至5月26日新三板收盤，宸芯科技總市值1916億元。"
-    },
-    {
-      "id": "4900620",
-      "time": "2026-05-26 20:53:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "立陶宛總統： 必須加大對烏援助，持續對俄施壓。"
-    },
-    {
-      "id": "4900619",
-      "time": "2026-05-26 20:53:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【長電科技：股票交易異常波動 提示短期下跌風險】長電科技公告稱，公司股票於2026年5月25日、26日連續2個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。5月20日至26日、4月10日至5月26日漲幅偏離值分別累計達45.60%、105.90%，可能短期快速上漲後下跌。25日、26日累計換手率34.37%，日均換手率與前5個交易日比值達1.13倍，短期換手率較高。截至5月26日，公司滾動市盈率95.52倍，高於行業平均。公司提示多項風險，提醒投資者注意。"
-    },
-    {
-      "id": "4900618",
-      "time": "2026-05-26 20:53:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞銀將美國西南航空目標價從49美元上調至53美元；將美國聯合航空目標股價從139美元上調至148美元；將達美航空目標價從95美元上調至98美元。"
     }
   ]
 }
