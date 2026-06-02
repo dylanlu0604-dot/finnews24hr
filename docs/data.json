@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-03 03:52:05",
+  "updated": "2026-06-03 03:56:01",
   "count": 18449,
   "items": [
+    {
+      "id": "mkt:019e89e5-955d-733d-8819-598a5ee8da10",
+      "time": "2026-06-03 03:53:04",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "【Dollar index up 0.02% on 2nd】The dollar index, which tracks the US dollar against six major currencies, rose 0.02% to 99.219 at the New York close. €1 = $1.1628 (prior $1.1631); £1 = $1.3469 (prior $1.3458); $1 = ¥159.91 (prior ¥159.76); $1 = CHF0.7873 (prior CHF0.7864); $1 = CAD1.3832 (prior CAD1.3842); $1 = SEK9.3155 (prior SEK9.3059)."
+    },
     {
       "id": "4913628",
       "time": "2026-06-03 03:51:08",
@@ -169078,14 +169087,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局（NASA）：已向藍色起源（Blue Origin）授予價值1.88億美元的合同，該合同附帶兩個任務訂單的選擇權期，對應價值2.804億美元，這兩項任務訂單要求藍色起源向月球南極區域運送月球車。"
-    },
-    {
-      "id": "mkt:019e65d9-ce70-7332-8106-00a3beb653f8",
-      "time": "2026-05-27 03:53:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Air Force Awards SpaceX $2.29bln Contract To Build Space Data Network"
     }
   ]
 }
