@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-03 02:40:58",
-  "count": 18436,
+  "updated": "2026-06-03 02:44:56",
+  "count": 18435,
   "items": [
+    {
+      "id": "4913597",
+      "time": "2026-06-03 02:43:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我國外交政策的核心須始終立足美國國家利益。"
+    },
     {
       "id": "mkt:019e89a2-cc79-733d-8818-bed906104b02",
       "time": "2026-06-03 02:40:08",
@@ -168957,26 +168965,6 @@
         "國際"
       ],
       "text": "【美華盛頓州一日資企業發生化學爆炸，多人死亡】美國西北部華盛頓州朗維尤市消防局26日說，日本製紙集團旗下企業位於當地的工廠當天早晨發生“重大化學爆炸”，已造成多人死亡。（新華社）"
-    },
-    {
-      "id": "te:economy:553840",
-      "time": "2026-05-27 02:41:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "El Salvador Trade Deficit Widens in April — El Salvador’s trade deficit widened to $932.45 million in April 2026 from $914.08 million in the same month a year earlier. Imports increased 4.7% year-on-year to $1.52 billion, driven by an 8.6% rise in purchases from Central America and a 4.1% increase in imports from outside the region. Meanwhile, exports grew 9.3% to $584.39 million, supported by a 235.1% surge in sugar shipments and an 11.6% increase in coffee exports."
-    },
-    {
-      "id": "4900942",
-      "time": "2026-05-27 02:41:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "NASA:  螢火蟲航空的 Elytra 航天器將向月球投放首批無人機。"
     }
   ]
 }
