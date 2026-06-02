@@ -1,12 +1,310 @@
 {
-  "updated": "2026-06-02 21:31:02",
-  "count": 18042,
+  "updated": "2026-06-02 21:35:06",
+  "count": 18050,
   "items": [
+    {
+      "id": "te:markets:555791",
+      "time": "2026-06-02 21:34:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Ease from Records — US stocks inched down from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. The S&P 500, Nasdaq 100, and Dow were slightly under the flatline. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Nike and IBM were both close to 3% lower. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company."
+    },
+    {
+      "id": "mkt:019e888a-9e98-777f-8415-14292d2ba822",
+      "time": "2026-06-02 21:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BSE-listed Liujin Technology dismisses CFO and company secretary after becoming uncontactable】Beijing Stock Exchange-listed Beijing Liujin Suiyue Media Technology Co. said on June 2 it has dismissed Xu Wenhai, its finance head and company secretary who participated in the firm's listing, after he became uncontactable and could not perform his duties. Xu left before his term expired. The company said he holds no company shares, is not on the list of persons subject to joint disciplinary measures for dishonesty, and has no outstanding commitments."
+    },
+    {
+      "id": "mkt:019e888a-95af-777f-8415-0ff0fa5dd618",
+      "time": "2026-06-02 21:34:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) opened down 3.6%, its largest decline since March 26."
+    },
+    {
+      "id": "4913131",
+      "time": "2026-06-02 21:34:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "SHAKE SHACK一度下跌10%，創2023年11月以來的最低水平。"
+    },
+    {
+      "id": "te:economy:555790",
+      "time": "2026-06-02 21:33:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Manufacturing PMI Rises to 5-Month High — Singapore’s Manufacturing PMI rose to 51.0 in May 2026 from 50.7 in April, marking its highest reading since December 2024 and extending the sector’s expansion streak to ten consecutive months. The improvement was driven by stronger growth in new orders, export demand, factory output, input purchases, and employment. The future business expectations index remained in expansion territory for a seventh straight month, pointing to continued optimism among manufacturers. The electronics sector, which accounts for around 40% of Singapore’s manufacturing output, also strengthened, with its PMI rising to 51.9 and extending its growth streak to twelve months. Despite the positive momentum, firms continued to face rising input costs and supply-chain constraints, as supplier delivery times lengthened for a fifth consecutive month. Still, growing order backlogs and improving business sentiment suggested manufacturers remained cautiously optimistic about near-term growth prospects."
+    },
+    {
+      "id": "4913130",
+      "time": "2026-06-02 21:33:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。"
+    },
+    {
+      "id": "mkt:019e888a-6a66-777f-8415-063adef44ec5",
+      "time": "2026-06-02 21:33:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "MARVELL (MRVL.O) shares rose 20% to a record high; Jensen Huang said the company will become the next trillion-dollar company."
+    },
+    {
+      "id": "4913129",
+      "time": "2026-06-02 21:33:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英偉達執行長黃仁勳稱美滿電子為下一個萬億美元市值公司後，美滿電子科技股價大漲20%，創下歷史新高。"
+    },
+    {
+      "id": "4913128",
+      "time": "2026-06-02 21:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "維多利亞的秘密飆升45%，創紀錄新高。"
+    },
+    {
+      "id": "mkt:019e8889-dd15-799a-9e6b-1a628d514742",
+      "time": "2026-06-02 21:33:15",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom Inc (AVGO.O) shares rose 5% to a record high."
+    },
+    {
+      "id": "mkt:019e8889-a579-799a-9e6b-102787811807",
+      "time": "2026-06-02 21:33:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "JD.com",
+        "Market Themes",
+        "China EV Leaders",
+        "BABA.N",
+        "Impact bullish",
+        "LI.O",
+        "JD.O"
+      ],
+      "text": "NASDAQ Golden Dragon China Index rose 2%; Li Auto (LI.O) climbed over 6%, Alibaba (BABA.N) rose 5%, and XPeng (XPEV.N) and JD.com (JD.O) gained more than 4%."
+    },
+    {
+      "id": "te:markets:555789",
+      "time": "2026-06-02 21:32:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amazon Stock Price Hits 5-week Low — Amazon shares decreased to 255.01 USD, the lowest since April 2026. Over the past 4 weeks, Amazon lost 5.57%, and in the last 12 months, it increased 24.32%."
+    },
+    {
+      "id": "4913127",
+      "time": "2026-06-02 21:32:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）股價暴漲 36%，創歷史最大單日漲幅。"
+    },
+    {
+      "id": "4913126",
+      "time": "2026-06-02 21:32:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，中進醫療漲16.01%，理想汽車漲6.60%，禾賽科技漲6.14%，世紀互聯漲5.28%，阿里巴巴漲4.78%。"
+    },
+    {
+      "id": "4913125",
+      "time": "2026-06-02 21:32:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "博通股價大漲5%，創下歷史新高。"
+    },
+    {
+      "id": "4913124",
+      "time": "2026-06-02 21:32:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "MARVELL股價飆升18%，創下3月6日以來最大單日漲幅，並重新整理紀錄。"
+    },
+    {
+      "id": "4913123",
+      "time": "2026-06-02 21:31:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Alphabet股價下跌3.6%，因公司計劃為人工智慧業務目標募資800億美元。"
+    },
+    {
+      "id": "te:markets:555788",
+      "time": "2026-06-02 21:31:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 13-week Low — Netflix shares decreased to 85.09 USD, the lowest since February 2026. Over the past 4 weeks, Netflix lost 5.78%, and in the last 12 months, it decreased 29.65%."
+    },
+    {
+      "id": "4913122",
+      "time": "2026-06-02 21:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。 當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。 歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。 歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）"
+    },
+    {
+      "id": "mkt:019e8888-5702-7cc2-b75f-ffc171832d20",
+      "time": "2026-06-02 21:31:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "June 2 (Tue) open: Dow Jones Industrial Average down 96.15 pts (-0.19%) at 50,982.73; S&P 500 down 13.24 pts (-0.17%) at 7,586.72; Nasdaq Composite down 69.78 pts (-0.26%) at 27,017.03."
+    },
+    {
+      "id": "te:markets:555787",
+      "time": "2026-06-02 21:31:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Arista Networks Stock Price Hits 4-week High — Arista Networks shares increased to 172.92 USD, the highest since May 2026. Over the past 4 weeks, Arista Networks lost 0.83%, and in the last 12 months, it increased 90.68%."
+    },
+    {
+      "id": "mkt:019e8887-ff4a-799a-9e6b-0ad5302fda53",
+      "time": "2026-06-02 21:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "MRVL.O",
+        "Impact bullish",
+        "STM.O",
+        "AVGO.O"
+      ],
+      "text": "【U.S. stocks open lower; Marvell jumps 16%】At the open, the Dow fell 0.4%, the S&P 500 was down 0.18% and the Nasdaq slipped 0.2%. NVIDIA (NVDA.O) rose 0.6% after saying its Spectrum‑X Ethernet silicon photonics technology is now in full production. Marvell Technology (MRVL.O) jumped 16%; Jensen Huang said he sees it as a potential next trillion‑dollar company. Broadcom (AVGO.O) gained 5% after Morgan Stanley maintained a buy rating and raised its price target. STMicroelectronics climbed 10% after raising its full‑year data center revenue guidance."
+    },
+    {
+      "id": "4913121",
+      "time": "2026-06-02 21:31:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，中進醫療漲17.62%，禾賽科技漲6.50%，理想汽車漲6.95%，摯文集團漲3.59%，阿里巴巴漲5.26%。"
+    },
+    {
+      "id": "mkt:019e8887-c3d3-7cc2-b75f-eb98f5a9edb4",
+      "time": "2026-06-02 21:30:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls as larger-vessel rates decline】The Baltic Dry Index fell on Tuesday as Capesize and Panamax rates weakened. The BDI dropped 17 points, or 0.53%, to 3,205. The Capesize index fell 37 points, or 0.7%, to 5,459; Capesize daily earnings declined $338 to $46,008. The Panamax index fell 23 points to 2,321; Panamax daily earnings dropped $206 to $20,889. The Supramax index rose 7 points to 1,577."
+    },
+    {
+      "id": "4913120",
+      "time": "2026-06-02 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.41%，標普500指數跌0.18%，納指跌0.23%。Atlassian跌7.63%，財捷跌6.34%，Strategy跌5.46%，Carvana Co.跌5.07%，The Trade Desk跌4.57%，工時公司跌4.47%。“七姐妹”方面：英偉達漲0.86%，特斯拉漲0.82%，蘋果漲0.40%，Meta Platforms漲0.34%，亞馬遜跌1.33%，微軟跌2.68%，谷歌跌2.72%。"
+    },
+    {
+      "id": "4913119",
+      "time": "2026-06-02 21:30:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月3日0時至6日24時，渤海部分海域開展軍事行動，禁止駛入。"
+    },
+    {
+      "id": "mkt:019e8887-8106-7cc2-b75f-e06bef0f99bf",
+      "time": "2026-06-02 21:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's first central-local co-built embodied engineering robotics innovation center begins operations】June 1 in Chengdu: Zhicheng Ruijin Robot Technology Co. Ltd opened and the Engineering Embodied Intelligent-Scenario Alliance was signed and unveiled, marking the launch of the country's first central-local co-built embodied engineering robotics innovation center in physical operation. Zhicheng Ruijin is one of a series of “Zhicheng” firms set up by PowerChina's Chengdu Institute to develop strategic emerging industries; it was formed by the Chengdu Institute together with the Chengdu Humanoid Robot Innovation Center, Hydropower Seventh Bureau and Jinjiang Development Group."
+    },
+    {
+      "id": "mkt:019e8887-7d42-7cc2-b75f-dabd73197ee4",
+      "time": "2026-06-02 21:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military operations close parts of Bohai Sea】Qinhuangdao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed to navigation for military operations from June 3 00:00 to June 6 24:00 local time; entry is prohibited."
+    },
     {
       "id": "mkt:019e8887-2e3a-7cc2-b75f-d49ba6b8b6ef",
       "time": "2026-06-02 21:30:16",
       "tags": [
         "MKT News"
+      ],
+      "text": "【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively."
+    },
+    {
+      "id": "mkt:019e8887-39e6-799a-9e6a-f70d9720ae3e",
+      "time": "2026-06-02 21:30:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
       ],
       "text": "【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively."
     },
@@ -165117,218 +165415,6 @@
         "國際"
       ],
       "text": "【分析師：油價正重獲上行動能】在美國對伊朗船隻及導彈發射裝置發動打擊之後，原油期貨正從昨日的暴跌中有所回升。儘管相關談判仍在繼續，但伊朗已發出報復威脅。Spartan Capital公司的Peter Cardillo在一份研報中指出：“我們看到油價正重獲上行動能。儘管仍有部分船隻繼續穿越霍爾木茲海峽，將數百萬桶原油運往目的地，但圍繞潛在和平協議的口水戰，正持續推遲戰爭迅速解決的前景。”"
-    },
-    {
-      "id": "mkt:019e647e-ea30-7330-84b4-5157cf79ebb3",
-      "time": "2026-05-26 21:34:57",
-      "tags": [
-        "MKT News",
-        "RKLB.O",
-        "Impact bullish",
-        "HWM.O"
-      ],
-      "text": "US Aerospace Stocks Jump; Intuitive Machines +8.2%, Planet Labs +4.1%, Rocket Lab +3%, Howmet Aerospace +2%"
-    },
-    {
-      "id": "4900700",
-      "time": "2026-05-26 21:34:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國航天公司股票上漲，太空探索公司直覺機器公司上漲8.2%，Planet Labs上漲4.1%，Rocket Lab上漲3%，Howmet Aerospace上漲2%。"
-    },
-    {
-      "id": "te:economy:553789",
-      "time": "2026-05-26 21:34:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "House Price Index MoM",
-        "Importance 1"
-      ],
-      "text": "US House Prices Rise as Expected: FHFA — US single-family home prices backed by Fannie Mae and Freddie Mac increased 0.1% in March 2026, as expected, following a downwardly revised 0.1% fall in February. For the first quarter, prices rose 0.5% from the previous quarter. Year-over-year, home values were up 1.7% between Q1 2025 and Q1 2026. House prices rose in 42 states, with Illinois showing the strongest appreciation at 7.3%. House prices were down in eight states and the District of Columbia. Colorado experienced the most significant price decline at 2.4%"
-    },
-    {
-      "id": "4900699",
-      "time": "2026-05-26 21:34:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非將 2026 年玉米產量預估上調 1.4%。"
-    },
-    {
-      "id": "4900698",
-      "time": "2026-05-26 21:34:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院在涉及對移民法官言論限制提出異議的糾紛中作出了支援特朗普政府的裁決。"
-    },
-    {
-      "id": "4900697",
-      "time": "2026-05-26 21:34:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技股價飆升12%，創5月8日以來盤中最大漲幅。"
-    },
-    {
-      "id": "4900696",
-      "time": "2026-05-26 21:34:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【糧農組織：霍爾木茲海峽航運問題或引發全球糧食安全危機】當地時間5月26日，聯合國糧農組織總幹事屈冬玉在羅馬出席活動時警告稱，霍爾木茲海峽航運問題正對全球農業糧食體系造成系統性衝擊，若不及時採取行動，未來數年世界或面臨嚴重糧食安全危機。當天，糧農組織在宣告中表示，霍爾木茲海峽航運嚴重受阻，已影響石油、液化天然氣及化肥等運輸，推高了農業投入品成本；同時，由於種子生產依賴化肥，種子價格也面臨上漲壓力。能源價格攀升，導致全球各地區農業糧食體系的運營成本全面增加。糧農組織已迅速做出響應，透過調動技術支援、強化監測預警體系，並拓展協調網路，積極應對當前挑戰。（央視新聞）"
-    },
-    {
-      "id": "te:markets:553788",
-      "time": "2026-05-26 21:33:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise to Records — US equities rose to their records on the first trading day of the week, supported by signals of a potential agreement between the US and Iran over the weekend. The S&P 500 and the Dow gained 0.6% and 0.4%, respectively, while the tech-heavy Nasdaq jumped almost 1%. US President Trump and Secretary of State Rubio stated they are close to agreeing with concessions on a deal that would restore energy trade through the Strait of Hormuz, lowering oil prices and limiting the impact of surging inflation. Stocks held their gains despite fresh strikes between US and Iranian forces, denting certainty for the deal. AI hyperscalers and compute infrastructure companies were mostly higher after leading the main stock indices this year. Tesla, Nvidia, and Amazon were around 1% higher. Also, Micron soared over 8% after receiving a recommendation upgrade and higher target from UBS. On the other hand, Melrose sank 8% after authorities ordered precautionary evacuations in its GKN facility."
-    },
-    {
-      "id": "4900695",
-      "time": "2026-05-26 21:33:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技股價上漲12.09%，報841.760美元/股，總市值報9500億美元，重新整理歷史新高。"
-    },
-    {
-      "id": "te:markets:553787",
-      "time": "2026-05-26 21:33:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "General Electric Aerospace Stock Price Hits 5-week High — General Electric Aerospace shares increased to 310.24 USD, the highest since April 2026. Over the past 4 weeks, General Electric Aerospace gained 9.52%, and in the last 12 months, it increased 32.83%."
-    },
-    {
-      "id": "mkt:019e647d-7750-7330-84b4-49b789da2aa4",
-      "time": "2026-05-26 21:33:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Sources: Unfreezing Iranian Overseas Funds Main Sticking Point In Iran-US Talks】Iran Says US 'Backed Off' On Commitments; Insists No Deal Until Overseas Funds Credited; Qatar Mediation Yields Some Progress; Iran Prepared For All Scenarios"
-    },
-    {
-      "id": "mkt:019e647d-204e-7330-84b4-47e8055994f5",
-      "time": "2026-05-26 21:33:01",
-      "tags": [
-        "MKT News",
-        "LLY.N",
-        "Impact bullish"
-      ],
-      "text": "Eli Lilly (LLY.N) Shares Up ~1% After Agreeing To Buy Three Vaccine Developers For ~$4bln"
-    },
-    {
-      "id": "4900693",
-      "time": "2026-05-26 21:32:45",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【紐約梅隆銀行：歐洲央行和日本央行正呈現出更為“鷹派”的傾向】紐約梅隆銀行分析師Bob Savage在一份研報中指出，全球市場目前仍處於一種兩難境地：一方面受人工智慧（AI）概念股熱潮的推動而保持樂觀，另一方面又面臨通貨膨脹、油價劇烈波動以及“高利率維持更久”前景所帶來的重重擔憂。這位市場宏觀策略主管表示，債券和外匯市場正對各國央行措辭語氣的轉變做出劇烈反應。他指出：“各國央行正日益致力於在能源價格上漲引發的通脹風險與全球經濟增長放緩的趨勢之間尋求平衡。”其中，歐洲央行和日本央行正呈現出更為“鷹派”的傾向，這意味著它們更傾向於採取加息措施。"
-    },
-    {
-      "id": "mkt:019e647c-a774-7330-84b4-39d5ab972750",
-      "time": "2026-05-26 21:32:31",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【BNY MELLON: ECB, BOJ Tilt More Hawkish】BNY MELLON: Bond/FX Markets React As ECB, BOJ Turn Hawkish; AI Rally Masks Inf, Oil Volatility, 'Higher Rates Longer' Risk"
-    },
-    {
-      "id": "4900692",
-      "time": "2026-05-26 21:32:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數上漲高達3.4%。"
-    },
-    {
-      "id": "4900691",
-      "time": "2026-05-26 21:32:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "禮來公司股價上漲近1%，此前該公司以近40億美元的交易總價同意收購三家疫苗開發企業。"
-    },
-    {
-      "id": "4900690",
-      "time": "2026-05-26 21:31:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥捷安康：與艾力斯達成合作協議共同推進TT-00973聯合甲磺酸伏美替尼II期研究】藥捷安康-B公告，公司與上海艾力斯醫藥科技股份有限公司達成臨床合作及供藥協議。雙方將共同推進一項評估TT-00973-MS片聯合甲磺酸伏美替尼片治療EGFR敏感突變區域性晚期或轉移性非小細胞肺癌患者的安全性及有效性的多中心、開放標籤II期研究。根據協議條款，藥捷安康作為本臨床試驗的申辦方，承擔本臨床試驗的運營與費用。艾力斯免費提供本臨床試驗所需要的甲磺酸伏美替尼片。基於本臨床試驗的結果，雙方將共同探討進一步開展TT-00973-MS片與甲磺酸伏美替尼片聯用III期臨床試驗的合作機會。"
-    },
-    {
-      "id": "mkt:019e647c-0e78-7330-84b4-355076525365",
-      "time": "2026-05-26 21:31:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US Stocks Open Higher May 26 — Dow +163.06 (+0.32%) to 50,742.76; S&P 500 +44.46 (+0.59%) to 7,517.93; Nasdaq Composite +241.79 (+0.92%) to 26,585.77"
-    },
-    {
-      "id": "mkt:019e647b-ed2d-7330-84b4-2ee176e92650",
-      "time": "2026-05-26 21:31:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "US Supreme Court Rejects Meta Platforms Appeal; Vermont Instagram Teen-Addiction Suit Moves Forward"
-    },
-    {
-      "id": "4900689",
-      "time": "2026-05-26 21:31:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院拒絕審理Meta平臺請求駁回佛蒙特州訴訟的申請，該訴訟指控Instagram應用誘導青少年成癮。"
-    },
-    {
-      "id": "4900688",
-      "time": "2026-05-26 21:31:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "小馬智行 ADR 盤中最大漲幅達 17%，創 9 月 19 日以來日內最大漲幅。"
     }
   ]
 }
