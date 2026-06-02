@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-03 01:59:51",
-  "count": 18404,
+  "updated": "2026-06-03 02:03:46",
+  "count": 18406,
   "items": [
+    {
+      "id": "mkt:019e897f-a2e5-7779-8aad-0120151d3fd5",
+      "time": "2026-06-03 02:01:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Lebanese sources say delegations from Lebanon and Israel have not reached a decisive consensus on a ceasefire."
+    },
+    {
+      "id": "4913563",
+      "time": "2026-06-03 02:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，智慧助理365軟體開發套件現已全面開放使用。"
+    },
+    {
+      "id": "mkt:019e897e-992f-7779-8aac-fdc37918846a",
+      "time": "2026-06-03 02:00:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) CEO said AGENT 365 SDK is now generally available."
+    },
+    {
+      "id": "4913562",
+      "time": "2026-06-03 02:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩訊息人士：黎以雙方代表團迄今未能在停火相關議題上達成關鍵性共識。"
+    },
+    {
+      "id": "mkt:019e897d-9ad2-7779-8aac-f208412dc070",
+      "time": "2026-06-03 01:59:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Rubio: US and Iran still talking; timing of any deal uncertain】US Secretary of State Rubio told the Senate Foreign Relations Committee on the 2nd that the US is still negotiating with Iran but he is uncertain when a deal might be reached. It was his first congressional testimony since the US and Israel launched a large-scale military operation against Iran in late February. Rubio said Iran has agreed to negotiate elements of its nuclear program — something it refused a month or a year ago — and that a deal could be reached today, tomorrow or next week, though he gave no assurance it would obtain congressional approval. He added the US has not proposed lifting sanctions or releasing frozen funds in exchange for reopening the Strait of Hormuz; any sanction relief would have to be conditional on resolving the nuclear issues that prompted the sanctions."
+    },
     {
       "id": "4913561",
       "time": "2026-06-03 01:58:33",
@@ -168622,36 +168674,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局（FAA）對阿拉斯加航空公司罰款1.65億美元，該公司涉嫌允許醉酒旅客登機。"
-    },
-    {
-      "id": "4900923",
-      "time": "2026-05-27 02:02:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4490美元/盎司，日內跌1.80%。"
-    },
-    {
-      "id": "4900922",
-      "time": "2026-05-27 02:02:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4520美元/盎司，日內跌0.83%。"
-    },
-    {
-      "id": "mkt:019e6572-8056-7332-8105-5edf17f6d523",
-      "time": "2026-05-27 02:01:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Spot Gold Falls Below $4,490/oz; Down 1.77% Intraday】Spot gold falls below $4,490/oz, down 1.77% intraday"
     }
   ]
 }
