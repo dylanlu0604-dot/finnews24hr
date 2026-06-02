@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-03 02:03:46",
-  "count": 18406,
+  "updated": "2026-06-03 02:07:40",
+  "count": 18405,
   "items": [
+    {
+      "id": "mkt:019e8981-9965-7779-8aad-0bc62f37b826",
+      "time": "2026-06-03 02:03:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump accepts invitation to speak at White House Correspondents' Dinner, event rescheduled to July 24】President Trump said he has accepted an invitation from the White House Correspondents' Association to speak at the White House Correspondents' Dinner, rescheduled to July 24 after violence forced cancellation on April 25. He said he may again make remarks that some would find unpleasant and that the outcome will be known soon."
+    },
     {
       "id": "mkt:019e897f-a2e5-7779-8aad-0120151d3fd5",
       "time": "2026-06-03 02:01:43",
@@ -168657,23 +168665,6 @@
         "其他"
       ],
       "text": "D-Wave Quantum：“量子霸權”研究成果依然成立。有關“推翻 D-Wave 研究成果”的言論是不準確的。"
-    },
-    {
-      "id": "4900925",
-      "time": "2026-05-27 02:07:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：緊要關頭 特朗普擬在戴維營召開內閣會議】據美國媒體26日報道，美國同伊朗談判進入關鍵時刻之際，美總統特朗普27日將罕見地在馬里蘭州總統度假地戴維營舉行全體內閣會議。美國有線電視新聞網說，這是自3月26日以來特朗普首次召開內閣會議。據《紐約郵報》援引一名白宮官員的話報道，包括即將卸任的國家情報總監加巴德在內，所有內閣成員都將參會。該官員稱，會議將討論“本屆政府近期取得的成就，包括在經濟和小企業領域取得的勝利、‘消除欺詐工作組’的成果，以及外交政策方面的最新進展”。但據《紐約郵報》報道，美伊協議或是會議主要議題。報道還說，受惡劣天氣影響，會議地點可能發生變動。特朗普通常搭乘直升機前往戴維營，但華盛頓特區近日持續強降雨，可能導致此次行程被迫取消。據美媒報道，自特朗普2025年1月開始第二個任期以來，只去過一次戴維營，便是在同年6月美國轟炸伊朗核設施的幾天前。（新華社）"
-    },
-    {
-      "id": "4900924",
-      "time": "2026-05-27 02:04:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局（FAA）對阿拉斯加航空公司罰款1.65億美元，該公司涉嫌允許醉酒旅客登機。"
     }
   ]
 }
