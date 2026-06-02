@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-03 02:15:33",
-  "count": 18409,
+  "updated": "2026-06-03 02:19:28",
+  "count": 18411,
   "items": [
+    {
+      "id": "4913572",
+      "time": "2026-06-03 02:18:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟釋出新型量子晶片，目標2029年落地實用化量子計算機。"
+    },
+    {
+      "id": "mkt:019e898d-f656-7779-8aad-247f93f39cd8",
+      "time": "2026-06-03 02:17:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Microsoft (MSFT.O): Its Discovery service is now available to all organizations."
+    },
+    {
+      "id": "4913571",
+      "time": "2026-06-03 02:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Microsoft Discovery現已向所有組織全面開放。"
+    },
+    {
+      "id": "4913570",
+      "time": "2026-06-03 02:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克內閣批准方案：將傑伊漢港原油出口量提升至77萬桶/日。"
+    },
+    {
+      "id": "te:economy:555844",
+      "time": "2026-06-03 02:16:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Paraguay CPI Rises Slightly in May — Paraguay's annual inflation edged up to 2.4% in May 2026 from 2.3% in April. Price pressures were driven mainly by restaurants and hotels (8.4%), education (5.9%), food and non-alcoholic beverages (2.7%), and recreation and culture (2.8%). Additional increases were recorded in alcoholic beverages and tobacco (1.2%), housing and utilities (1.8%), furniture and household goods (2.0%), and healthcare (2.0%). On a monthly basis, consumer prices rose 0.1%, bringing cumulative inflation in the first five months of the year to 2.2%. Meanwhile, core inflation, which excludes more volatile items, remained unchanged at 1.9%, suggesting underlying price pressures stayed relatively contained."
+    },
+    {
+      "id": "te:markets:555843",
+      "time": "2026-06-03 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.13%) and Methanol (-1.05%). Gains are led by Gasoline (1.96%), Heating Oil (1.89%), Crude Oil WTI (1.58%) and Brent Crude Oil (0.91%)."
+    },
     {
       "id": "mkt:019e898b-2a83-7779-8aad-1c321a3fef05",
       "time": "2026-06-03 02:14:19",
@@ -168661,42 +168720,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Falls by 2.61% — Top commodity losers are Silver (-2.61%), Lithium Carbonate (-1.77%) and Gold (-1.74%)."
-    },
-    {
-      "id": "mkt:019e6582-efea-7332-8105-6c9f84eadb00",
-      "time": "2026-05-27 02:19:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【IDF Strikes Hezbollah Infrastructure, Kills Several Fighters】Israel Defense Forces Airstrike Hits Hezbollah Rocket-Launch Sites In Lebanon, Kills Several Militants"
-    },
-    {
-      "id": "4900930",
-      "time": "2026-05-27 02:18:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎真主黨基礎設施 打死多名武裝人員】當地時間5月26日晚，以色列國防軍稱，以軍對黎真主黨的火箭彈發射場及基礎設施發動了空襲，並打死了數名真主黨武裝人員。黎真主黨對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4900929",
-      "time": "2026-05-27 02:17:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "NASA:  藍色起源計劃於 2026 年秋季開展無人登月任務。"
-    },
-    {
-      "id": "4900928",
-      "time": "2026-05-27 02:16:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會指出存在安全隱患，敦促聯邦航空管理局調整強降雨天氣下的跑道狀況評估方式。"
     }
   ]
 }
