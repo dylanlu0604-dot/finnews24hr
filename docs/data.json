@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-03 06:02:26",
-  "count": 18451,
+  "updated": "2026-06-03 06:06:15",
+  "count": 18452,
   "items": [
+    {
+      "id": "mkt:019e8a5f-1526-733d-881b-2fa4e7898210",
+      "time": "2026-06-03 06:05:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pinglu Canal to achieve full-line water filling today, enters water-testing phase】Pinglu Canal Group said today (3rd) that the Western Land–Sea New Corridor backbone project will hit a milestone as two of its three control shipping hubs, Madiao and Qishi, begin water filling. The canal will achieve full-line water and enter a water-testing phase, laying the groundwork for scheduled navigation in September."
+    },
+    {
+      "id": "4913700",
+      "time": "2026-06-03 06:05:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河今天將實現全線通水】今天（3日），西部陸海新通道骨幹工程平陸運河建設將迎來重大節點：控制性工程三大航運樞紐中的馬道樞紐和企石樞紐將開始充水，平陸運河將實現全線通水，全面進入有水除錯階段，為9月如期通航奠定堅實基礎。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8a5c-0f69-733d-881b-2632ebfb9968",
+      "time": "2026-06-03 06:02:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration appeals order requiring refunds of $166 bln in IEEPA tariffs】The Trump administration on Tuesday filed a notice of appeal with the U.S. Court of International Trade challenging a judge's order that U.S. Customs refund $166 billion in global tariffs imposed under the International Emergency Economic Powers Act (IEEPA). The appeal follows a U.S. Supreme Court ruling earlier this year that the IEEPA tariffs were unlawfully imposed. The Justice Department argues the trial judge lacked authority to direct refunds to all importers who paid the tariffs, regardless of whether they sued to recover payments."
+    },
+    {
+      "id": "4913699",
+      "time": "2026-06-03 06:01:23",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "科威特軍方稱，防空部隊當下正在攔截來襲的敵方導彈與無人機。"
+    },
     {
       "id": "mkt:019e8a5a-8ed8-733d-881b-1d615e2db9fc",
       "time": "2026-06-03 06:00:50",
@@ -169125,35 +169159,6 @@
         "國際"
       ],
       "text": "亞馬遜雲科技：推出面向美國政府雲（AWS GovCloud US）客戶、由美國本土美國公民提供的全天候技術支援。"
-    },
-    {
-      "id": "mkt:019e6652-2683-7332-8107-10f4135381a2",
-      "time": "2026-05-27 06:05:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israel Airstrikes Kill 31, Injure 40 In South And East Lebanon; Qaraoun Dam Near Beqaa Struck】Israeli strikes hit area near Qaraoun Dam in Beqaa Valley; Litani River Authority says dam vital for water, power, irrigation and that attacks risk catastrophic downstream damage; HEZBOLLAH fires drones and rockets at Israeli vehicles and troop concentrations along Lebanon-Israel border in response to Israeli ground advance"
-    },
-    {
-      "id": "4901064",
-      "time": "2026-05-27 06:02:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國阿拉巴馬州醫學審查委員會：註冊助產士（CNM）、註冊執業護士（CRNP）及助理醫師（PA）均不具備法定處方權、給藥權與調配權，不得開具、施用或調配未獲FDA批准的研究級肽類產品。"
-    },
-    {
-      "id": "4901063",
-      "time": "2026-05-27 06:02:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4510美元/盎司，日內跌0.02%。"
     }
   ]
 }
