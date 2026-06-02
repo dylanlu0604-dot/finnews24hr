@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-02 13:37:58",
-  "count": 17390,
+  "updated": "2026-06-02 13:41:57",
+  "count": 17393,
   "items": [
+    {
+      "id": "mkt:019e86d9-b743-7dd4-a7a8-20b3114ec054",
+      "time": "2026-06-02 13:41:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said it conducted large-scale strikes on Ukrainian targets."
+    },
+    {
+      "id": "4911948",
+      "time": "2026-06-02 13:40:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【晶科能源CEO曹海雲：以“本土製造，供應本土市場”策略 從五大方向推動全球化佈局】在今日舉行的晶科能源2026 SNEC新品釋出暨媒體交流會上，其CEO曹海雲首次公開亮相併表示，公司將秉承“本土製造，供應本土市場”策略，從“合作、技術與專利授權、市場準入、服務、共享”五大方向推動全球化佈局。“我們將在重點市場與合作伙伴共同推動合資公司建設，從而供應當地市場。晶科‘全球化3.0戰略’正在相關市場，尤其是美國與中東市場進行實踐。”"
+    },
+    {
+      "id": "mkt:019e86d8-ad42-7dd4-a7a8-187dc999a528",
+      "time": "2026-06-02 13:40:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "2026 FOMC voter and Minneapolis Fed President Kashkari will speak in 10 minutes."
+    },
+    {
+      "id": "4911947",
+      "time": "2026-06-02 13:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“薔薇”接近日本九州 沖繩縣16人受傷】據日本氣象廳訊息，颱風“薔薇”2日已接近九州地區南部。日本媒體說，颱風已經造成沖繩縣16人受傷。"
+    },
+    {
+      "id": "mkt:019e86d6-b7a1-7dd4-a7a8-15c154f86fed",
+      "time": "2026-06-02 13:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Home Front Command has extended rocket-warning time for Haifa and other northern communities to 90 seconds from 60; the change will take effect today at 16:00 local time."
+    },
+    {
+      "id": "4911946",
+      "time": "2026-06-02 13:37:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組跳動Seed旗下AI4S團隊核心成員顧全全自曝將離職】位元組跳動Seed旗下聚焦科學智慧領域的AI4S（Seed-AI for Science）團隊核心成員顧全全在X平臺上官宣自己將離職。據悉，顧全全於2023年加入位元組Seed。他表示，自從加入位元組跳動以來，一直主導著用於藥物發現的AI工作。團隊構建了以下成果：SeedFold、SeedProteo以及DPLM系列的蛋白質語言模型，還有數個其他的 AI for Science（AI 驅動科學研究）專案。顧全全於2007年和2010年分獲清華大學自動化專業學士、控制科學與工程碩士學位，2014年獲伊利諾伊大學香檳分校電腦科學博士學位。(藍鯨新聞)"
+    },
+    {
+      "id": "mkt:019e86d6-4975-7dd4-a7a8-0f639a705907",
+      "time": "2026-06-02 13:37:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Qwen3.7-Plus launches on Qianwen Cloud】Today Qwen3.7-Plus, the latest multimodal model in the Qwen 3.7 series, was released and deployed on Qianwen Cloud and Alibaba Cloud Bairun; developers can access it via API. Text and vision capabilities are materially improved — the model ranks in the global top five and first in China on third-party benchmark Vision Arena. Qwen3.7-Plus integrates visual perception with code generation, tool invocation and GUI control, enabling closed-loop execution of complex tasks within a single agent loop."
+    },
+    {
+      "id": "4911945",
+      "time": "2026-06-02 13:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Qwen3.7-Plus上線千問雲】今天，千問3.7系列最新多模態大模型Qwen3.7-Plus正式釋出，並已上架千問雲和阿里雲百鍊，開發者可透過API直接呼叫。Qwen3.7-Plus文字和視覺能力均大幅提升，在第三方權威榜單Vision Arena中躋身全球前五、中國第一。傳統多模態模型的能力往往止步於“理解”。Qwen3.7-Plus將視覺感知與程式碼生成、工具呼叫、GUI操控深度融合，支援在單一智慧體迴圈中閉環執行復雜任務。（阿里雲）"
+    },
     {
       "id": "4911944",
       "time": "2026-06-02 13:36:36",
@@ -159050,48 +159130,6 @@
         "公司"
       ],
       "text": "三體宇宙發宣告回應“原CEO許垚被執行死刑”。"
-    },
-    {
-      "id": "4899675",
-      "time": "2026-05-26 13:39:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【勝宏科技港股漲超11%】勝宏科技港股漲11.25%，報449.00港元。"
-    },
-    {
-      "id": "4899674",
-      "time": "2026-05-26 13:39:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股大模型概念股持續拉昇，智譜漲超10%，MINIMAX-W港股漲超6%】港股大模型概念股持續拉昇，智譜漲超10%，MINIMAX-W港股漲超6%。"
-    },
-    {
-      "id": "4899673",
-      "time": "2026-05-26 13:39:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會：印度2026財年有7萬億盧比的家庭儲蓄流入債務市場。"
-    },
-    {
-      "id": "4899672",
-      "time": "2026-05-26 13:38:32",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【廣州：加快啟動二手房收購盤活試點工作】5月26日，記者從廣州市《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案新聞釋出會上獲悉，廣州將持續健全住房市場和住房保障兩大體系，不斷最佳化樓市調控舉措，廣州市規自局、市住建局、市公積金中心等部門，已針對用地供應、“賣舊買新”專項補貼、“商轉公”等事項出臺配套細則；花都區迅速響應，推出“花八條”具體舉措；以廣州安居集團為代表的國企，正加快啟動二手房收購盤活試點工作。（上證報）"
-    },
-    {
-      "id": "4899671",
-      "time": "2026-05-26 13:38:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量94億元。"
     }
   ]
 }
