@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-03 05:27:13",
-  "count": 18458,
+  "updated": "2026-06-03 05:31:02",
+  "count": 18461,
   "items": [
+    {
+      "id": "4913686",
+      "time": "2026-06-03 05:29:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "MARVELL股票盤後漲幅擴大至9.4%。"
+    },
+    {
+      "id": "mkt:019e8a3c-bf88-733d-881a-f4271dbb70f3",
+      "time": "2026-06-03 05:28:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Wakayama Prefecture issued a highest-level (level 5) alert for Typhoon Rose."
+    },
+    {
+      "id": "mkt:019e8a3c-9b4e-733d-881a-ea122fb35fdd",
+      "time": "2026-06-03 05:28:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister responsible for Canada-U.S. trade, Leblanc, said he is confident talks with the United States and Mexico can proceed on automotive rules of origin."
+    },
+    {
+      "id": "4913685",
+      "time": "2026-06-03 05:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒曝一名美軍飛行員兩度被擊落：一次友軍誤擊，一次遭伊朗襲擊】據美國哥倫比亞廣播公司，兩名瞭解相關事件的人士透露，一架在伊朗上空被擊落的F-15E戰鬥機飛行員，在伊朗戰爭初期也曾駕駛另一架戰機，並在一次“友軍誤擊”事件中被擊落，當時是被科威特友軍誤擊。在友軍誤擊事件中安全彈射逃生僅30多天後，該飛行員再次執行飛越伊朗的任務，其所駕駛的戰機被一枚伊朗地對空導彈擊中，隨後引發了一場大膽的營救行動。“這是一個非常不尋常的巧合，”退役空軍中將大衛·德普圖拉說道。德普圖拉表示，他想不出自越南戰爭以來，在同一場戰役中曾有飛行員在不同的意外事件中被擊落過，“這就像被閃電擊中兩次一樣。”"
+    },
+    {
+      "id": "mkt:019e8a3b-b3ea-733d-881a-e4bbc406ba8c",
+      "time": "2026-06-03 05:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump demands written nuclear concessions from Tehran】ABC, citing U.S. officials and another person familiar, reported President Trump is demanding Tehran put specific nuclear concessions in writing as part of a preliminary deal to break the long-running U.S.-Iran impasse. Sources said Iranian negotiators had previously given verbal assurances they would ultimately accept certain terms affecting Iran’s nuclear program; at a White House Situation Room meeting last Friday Trump judged those pledges insufficient."
+    },
+    {
+      "id": "4913684",
+      "time": "2026-06-03 05:26:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大政府負責加美貿易的部長勒布朗： 加方有信心同美國、墨西哥就汽車原產地規則展開磋商。"
+    },
+    {
+      "id": "4913683",
+      "time": "2026-06-03 05:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受颱風“薔薇”影響 日本和歌山縣釋出最高等級5級警戒】當地時間6月3日，受颱風“薔薇”影響，和歌山縣串本町認為流經町內的古座川存在泛濫危險，因此於當地時間5時，向古田地區、巖渕地區、住吉地區、中湊地區以及古座地區共計755戶、1149人釋出“緊急安全確保”的警戒。這是警戒等級中最高的5級，當地政府呼籲居民確認周圍狀況，在附近建築物內或自家二層以上等場所，採取能夠最大限度提高保全生命可能性的行動。（央視新聞）"
+    },
     {
       "id": "mkt:019e8a38-53b8-733d-881a-dcc12b49eb52",
       "time": "2026-06-03 05:23:27",
@@ -169175,42 +169234,6 @@
         "國際"
       ],
       "text": "黎巴嫩：以色列對泰爾地區發動六起新一輪襲擊，對邁爾季歐雲地區多個城鎮實施四起打擊。"
-    },
-    {
-      "id": "4901037",
-      "time": "2026-05-27 05:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達官網顯示，在最新的Phoronix基準測試中，Vera CPU在為代理式AI提供的效能和記憶體表現方面取得了領先成果。"
-    },
-    {
-      "id": "mkt:019e6630-2cfb-7332-8106-f2d67a5b1347",
-      "time": "2026-05-27 05:28:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【TRUMP Moves Cabinet Meeting From Camp David To WHITE HOUSE】TRUMP Moves Cabinet Meeting From Camp David To WHITE HOUSE After Forecast Of Poor Weather; Trip To Camp David Postponed; All Cabinet Members Including Outgoing DNI Gabbard To Attend; Iran Talks Likely Main Topic"
-    },
-    {
-      "id": "mkt:019e662f-bf8e-7332-8106-eced167c48b1",
-      "time": "2026-05-27 05:27:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LEBANESE HEALTH MINISTRY: recent Israeli airstrikes kill 31, injure 40"
-    },
-    {
-      "id": "mkt:019e662f-41cd-7332-8106-e683ce8ffd43",
-      "time": "2026-05-27 05:27:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cuba FM Bruno Rodríguez Parrilla Denounces US 'Collective Punishment' Over Oil Embargo】Cuba FM Bruno Rodríguez Parrilla Tells UN Security Council US Energy Sanctions Violate International Law, Amount To Naval Blockade And 'Collective Punishment' (May 26)"
     }
   ]
 }
