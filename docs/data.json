@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-04 06:44:21",
-  "count": 19228,
+  "updated": "2026-06-04 06:48:10",
+  "count": 19232,
   "items": [
+    {
+      "id": "mkt:019e8fab-22a7-7443-8fe5-9ea78bc03dd5",
+      "time": "2026-06-04 06:46:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After talks between Lebanon and Israel, a joint statement said the parties reiterated that the future of Israel–Lebanon relations must be decided by the two sovereign governments and rejected any attempts by state or non-state actors to hold Lebanon’s future hostage."
+    },
+    {
+      "id": "mkt:019e8faa-a4ec-7443-8fe5-972078836787",
+      "time": "2026-06-04 06:46:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon and Israel, under U.S. guidance, agreed to rapidly advance creation of \"pilot zones\"; within those zones the Lebanese Armed Forces will exercise exclusive territorial jurisdiction and non-state actors will be excluded."
+    },
+    {
+      "id": "mkt:019e8faa-27c1-7443-8fe5-8a7d213184be",
+      "time": "2026-06-04 06:45:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "A joint statement after Lebanon‑Israel talks said Israel and Lebanon agreed to implement a ceasefire contingent on US‑led negotiations producing results. The statement conditions the truce on Hezbollah fully ceasing fire and withdrawing all fighters from south of the Litani River."
+    },
+    {
+      "id": "4916095",
+      "time": "2026-06-04 06:45:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里米亞州長稱，烏克蘭對克里米亞辛菲羅波爾發動襲擊，已造成3人死亡、7人受傷。"
+    },
+    {
+      "id": "4916094",
+      "time": "2026-06-04 06:45:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第一季度非住宅建築環比下降4.0%。"
+    },
+    {
+      "id": "4916093",
+      "time": "2026-06-04 06:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第一季度建築工程量環比下降3.5%，此前預期增長1.5%。"
+    },
+    {
+      "id": "te:markets:556264",
+      "time": "2026-06-04 06:45:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 3.12% — Top crypto losers are Binance (-3.12%), Bitcoin (-2.71%) and Ether (-1.68%)."
+    },
     {
       "id": "4916092",
       "time": "2026-06-04 06:43:47",
@@ -177082,34 +177146,6 @@
         "國際"
       ],
       "text": "【美國紐約州議會在州預算中透過“第二套房稅”】美國紐約州立法者批准了一項財政收入方案，其中包括對該市昂貴的第二套房徵收一項新的附加稅，即著名的“潛規則/常備離岸住所稅（pied-à-terre tax，即非主自住房稅）”，但未包含此前一項對全現金購房徵稅的提案。該稅種預計將於今年7月1日起生效，並將分兩個階段徵收：獨立單戶住宅的稅率在0.8%-1.3%之間；合作公寓（coops）和獨立產權公寓（condominiums）的稅率在4%-6.5%之間。"
-    },
-    {
-      "id": "4903265",
-      "time": "2026-05-28 06:45:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗阿巴斯港附近傳出爆炸聲】據伊朗法爾斯通訊社28日報道，當地時間當天1時30分左右，伊朗南部城市阿巴斯港以東傳出三聲爆炸聲，具體方位和原因不明。 (新華社)"
-    },
-    {
-      "id": "4903264",
-      "time": "2026-05-28 06:45:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如今美國已然成為全球加密產業中心，從業者與創業者紛紛迴歸故土。 在我的領導下，我們將以立法形式確立一套長效穩固的數字資產市場規則體系，杜絕反對者隨意推翻。金融新賽道正在美國崛起，特朗普絕不會辜負加密行業！"
-    },
-    {
-      "id": "te:markets:554191",
-      "time": "2026-05-28 06:45:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.07% — Top crypto losers are Ether (-2.07%), Bitcoin (-1.73%) and Binance (-1.09%)."
     }
   ]
 }
