@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-03 23:34:18",
-  "count": 19180,
+  "updated": "2026-06-03 23:38:24",
+  "count": 19178,
   "items": [
+    {
+      "id": "mkt:019e8e21-ab25-744e-9fd4-9136e6fb031f",
+      "time": "2026-06-03 23:37:10",
+      "tags": [
+        "MKT News",
+        "JEF.O",
+        "Impact bullish"
+      ],
+      "text": "【Short SpaceX? Investors flock to JEFFERIES after bank absent from IPO syndicate】Hedge funds that did not invest in SpaceX are contacting JEFFERIES to explore arranging short positions after the IPO, and some bearish investors and senior JEFFERIES managers view the non‑participation as an opportunity, according to people familiar with the matter. As the largest U.S. bank excluded from the 23‑bank underwriting group, JEFFERIES is uniquely positioned to facilitate such trades; lawyers and compliance teams typically flag conflicts when different divisions take opposite client positions, and if any underwriters were to engage in shorting, Elon Musk’s reaction would be unpredictable."
+    },
+    {
+      "id": "mkt:019e8e21-8dd0-744e-9fd4-880f283ddea3",
+      "time": "2026-06-03 23:37:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on June 3: Germany's DAX fell 305.57 points (-1.22%) to 24,811.29; FTSE 100 declined 42.09 points (-0.41%) to 10,331.42; France's CAC 40 dropped 58.67 points (-0.71%) to 8,150.42; Stoxx Europe 50 fell 51.90 points (-0.85%) to 6,055.95; Spain's IBEX 35 slipped 92.28 points (-0.51%) to 18,179.72; Italy's FTSE MIB lost 494.04 points (-0.98%) to 50,084.50."
+    },
+    {
+      "id": "4915755",
+      "time": "2026-06-03 23:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）東北部發生沉船事故致60多人失蹤】據剛果（金）媒體3日報道，剛果（金）東北部喬波省2日發生一起沉船事故，造成60多人失蹤。（新華社）"
+    },
+    {
+      "id": "mkt:019e8e1e-5dc5-744e-9fd4-83c1292d2124",
+      "time": "2026-06-03 23:33:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran parliament security committee chair: halting fighting on all fronts is priority in Iran-US talks】On the 3rd, Ebrahim Azizi, chair of Iran’s Parliament National Security and Foreign Policy Committee, said halting hostilities on all fronts is the primary item in negotiations with the US. He said Iran will not allow the US or Israel to break the unity of the \"resistance front\", asserted the resistance front will prevail, and said that by working together \"destroying Israel\" can be achieved."
+    },
     {
       "id": "mkt:019e8e1d-e6a9-744e-9fd4-7c2c7c347b0d",
       "time": "2026-06-03 23:33:00",
@@ -176552,69 +176591,6 @@
         "公司"
       ],
       "text": "墨西哥總統辛鮑姆：皇家加勒比郵輪公司已決定撤出其在墨西哥加勒比海地區的專案，該專案因生態問題遭到墨西哥方面拒絕。"
-    },
-    {
-      "id": "4902958",
-      "time": "2026-05-27 23:37:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "瑞典政府駁回多項二氧化碳減排相關建議。"
-    },
-    {
-      "id": "mkt:019e6a14-c289-7223-8ed5-a0453c4142c6",
-      "time": "2026-05-27 23:36:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "On May 27 (Wednesday) European market closes: Germany's DAX 30 closed down 33.03 points (-0.13%) at 25,172.89; the UK's FTSE 100 closed up 9.57 points (+0.09%) at 10,500.96; France's CAC 40 closed up 34.78 points (+0.43%) at 8,207.89; the STOXX Europe 50 closed up 5.59 points (+0.09%) at 6,068.15; Spain's IBEX 35 closed up 71.82 points (+0.39%) at 18,362.72; Italy's FTSE MIB closed down 347.72 points (-0.70%) at 49,551.50."
-    },
-    {
-      "id": "4902957",
-      "time": "2026-05-27 23:36:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮就伊朗相關問題表態：談判進展順利，特朗普已明確劃定紅線。"
-    },
-    {
-      "id": "4902956",
-      "time": "2026-05-27 23:35:23",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國聯邦航空管理局責令SpaceX調查星艦V3助推器故障】美國聯邦航空管理局（FAA）週三釋出宣告，責令太空探索技術公司（SpaceX）調查其星艦助推器在 5 月 22 日試飛中出現故障的原因。這意味著在調查結束並將結果提交至該局稽核透過前，太空探索技術公司必須暫停所有星艦後續試飛。受此影響，該公司原定6月中旬上市前再度開展試飛的可能性大幅降低。美國聯邦航空管理局在宣告中表示：“經全面評估本次發射任務，我方認定5月22日星艦第12次飛行任務發生意外事故。事故發生在火箭分級分離後，超重助推器返航至美洲灣的過程中。目前未收到人員受傷及公共財物受損的報告。該局將全程監督由太空探索技術公司主導的調查工作，參與各個環節，並稽核該公司的最終調查報告及所有整改方案。”"
-    },
-    {
-      "id": "mkt:019e6a12-e749-7223-8ed5-9bd1df6ef59b",
-      "time": "2026-05-27 23:34:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "WHITE HOUSE, on Iran, said talks are progressing smoothly and that President Trump has clearly delineated red lines."
-    },
-    {
-      "id": "4902955",
-      "time": "2026-05-27 23:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮對伊朗問題表態：特朗普已明確紅線。"
     }
   ]
 }
