@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-04 02:08:32",
+  "updated": "2026-06-04 02:12:21",
   "count": 19123,
   "items": [
+    {
+      "id": "4915871",
+      "time": "2026-06-04 02:10:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查顯示：美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 1010 億立方英尺。"
+    },
+    {
+      "id": "mkt:019e8eae-606e-7443-8fe1-55f67efc6114",
+      "time": "2026-06-04 02:10:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungarian Prime Minister Magyar said the government does not support accelerating negotiations on Ukraine's accession to the EU."
+    },
+    {
+      "id": "4915870",
+      "time": "2026-06-04 02:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍總參謀長稱軍隊在黎巴嫩“沒有停火可言”】當地時間3日，以色列國防軍總參謀長扎米爾在視察海法海軍基地時表示，以軍在黎巴嫩“沒有停火可言”，並稱以軍已準備好隨時恢復針對伊朗的戰鬥。扎米爾稱，以色列海軍正成為以色列軍隊的“另一支遠端戰略力量”。他表示，自就任以來，他就指示要加強海軍作為遠端戰略力量的建設，目前以軍正在加速落實這一作戰理念。針對伊朗問題，扎米爾補充說，以色列國防軍的所有軍種都已準備好，隨時可以恢復針對伊朗的戰鬥。（央視）"
+    },
+    {
+      "id": "mkt:019e8ead-328f-7443-8fe1-4a17adec6090",
+      "time": "2026-06-04 02:09:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【IDF chief says there is 'no ceasefire' in Lebanon】On June 3, Israel Defense Forces Chief of Staff Zamir, visiting the Haifa naval base, said there is 'no ceasefire' in Lebanon and that the IDF is prepared to resume combat against Iran at any time. He added the Israeli navy is becoming 'another long‑range strategic force', that he has ordered accelerated development of the navy since taking office, and that all IDF branches are ready to act against Iran."
+    },
+    {
+      "id": "mkt:019e8eab-fa1e-7443-8fe1-4267b6806011",
+      "time": "2026-06-04 02:08:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "magyar, Hungary's prime minister, said a key agreement was reached with Ukraine on the rights of the Hungarian minority in Ukraine."
+    },
     {
       "id": "4915869",
       "time": "2026-06-04 02:07:48",
@@ -176084,50 +176130,6 @@
         "國際"
       ],
       "text": "一款可讓數百萬美國人為子女管理全新特朗普賬戶的應用程式定於週四上線。"
-    },
-    {
-      "id": "4903112",
-      "time": "2026-05-28 02:11:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta現漲0.9%。"
-    },
-    {
-      "id": "mkt:019e6aa1-c6b9-7223-8ed8-792d758a9e6a",
-      "time": "2026-05-28 02:10:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "The minister of NATURAL RESOURCES CANADA said other European buyers have expressed interest in Canadian LNG."
-    },
-    {
-      "id": "mkt:019e6aa0-64a0-7223-8ed8-769ba264a95c",
-      "time": "2026-05-28 02:09:16",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. Federal Aviation Administration (FAA) Administrator expects Boeing to continue increasing 737 MAX production rates over the next 90 days."
-    },
-    {
-      "id": "4903111",
-      "time": "2026-05-28 02:09:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "美聯航執行長表示，就其本人可見的可預見未來而言，美聯航至少短期內不會參與任何行業整合。"
-    },
-    {
-      "id": "4903110",
-      "time": "2026-05-28 02:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大自然資源部長：其他歐洲買家已對加拿大液化天然氣表示興趣。"
     }
   ]
 }
