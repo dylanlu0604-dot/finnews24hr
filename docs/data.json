@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-04 00:36:18",
-  "count": 19174,
+  "updated": "2026-06-04 00:40:24",
+  "count": 19170,
   "items": [
+    {
+      "id": "4915813",
+      "time": "2026-06-04 00:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特出席的參議院財政委員會聽證會已結束。"
+    },
+    {
+      "id": "mkt:019e8e58-c0e6-7443-8fe0-127fa6ba806f",
+      "time": "2026-06-04 00:37:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said President Trump will attend the next NATO leaders' summit."
+    },
+    {
+      "id": "4915812",
+      "time": "2026-06-04 00:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普將出席下一屆北約國家元首會議。"
+    },
+    {
+      "id": "4915811",
+      "time": "2026-06-04 00:35:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【紐約聯儲行長：未來利率路徑無明顯方向 不太擔心通脹持續】紐約聯儲行長約翰·威廉姆斯表示，美國的貨幣政策目前處於恰當位置，未來的利率路徑並無明顯方向。“貨幣政策目前正處於完全恰當的位置，我認為沒有加息或降息的必要，”威廉姆斯週三在接受採訪時表示，“我也看不出我們未來會朝哪個方向前進。”美聯儲決策者預計將於6月16日至17日在華盛頓召開會議。在新任主席凱文·沃什的主持下，預計他們將討論是否修改會後宣告措辭。許多官員希望刪除宣告中暗示下一步行動仍可能是降息的措辭。威廉姆斯指出，通脹依然居高不下，能源價格、關稅以及與AI相關的投資構成物價上行壓力。不過他也表示，服務通脹出現“相當大程度”的放緩。"
+    },
     {
       "id": "te:markets:556236",
       "time": "2026-06-04 00:35:06",
@@ -176482,75 +176515,6 @@
         "焦點"
       ],
       "text": "標普500指數轉正，抹去了此前高達0.2%的跌幅。"
-    },
-    {
-      "id": "4903018",
-      "time": "2026-05-28 00:39:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "派拉蒙執行長埃利森重申影片將採用院線上映的計劃。"
-    },
-    {
-      "id": "4903017",
-      "time": "2026-05-28 00:39:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國國務卿：未來幾個小時或幾天內將揭示伊朗局勢是否有進展】美國國務卿魯比奧在內閣會議上表示：“未來數小時和數天內，我們將觀察談判是否能夠取得進展。”他表示，美國將繼續推動與伊朗的外交努力。他稱，美國正給予外交手段“一切成功的機會”。魯比奧透露，美國中東問題特使威特科夫、庫什納以及副總統萬斯“都深度參與了”伊朗相關事務。"
-    },
-    {
-      "id": "4903016",
-      "time": "2026-05-28 00:38:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "派拉蒙執行長埃利森於週二與監管機構進行了會面。"
-    },
-    {
-      "id": "4903015",
-      "time": "2026-05-28 00:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局資料顯示，4月俄羅斯汽車產量同比下降2%。"
-    },
-    {
-      "id": "4903014",
-      "time": "2026-05-28 00:38:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國監管機構即將批准派拉蒙與華納兄弟探索公司的收購交易。"
-    },
-    {
-      "id": "4903013",
-      "time": "2026-05-28 00:37:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方發言人要求黎巴嫩南部居民撤離，遷至扎赫拉尼河以北，這預示著可能發動打擊。"
-    },
-    {
-      "id": "mkt:019e6a4c-67ea-7223-8ed6-cb619762b6b8",
-      "time": "2026-05-28 00:37:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "An ISRAELI MILITARY spokesperson urged residents of southern Lebanon to evacuate to areas north of the Zahrani River, suggesting strikes may be carried out."
-    },
-    {
-      "id": "mkt:019e6a4c-2d4e-7223-8ed6-c1505c47806c",
-      "time": "2026-05-28 00:37:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: Negotiations With Iran Aimed at Reaching an Agreement Have Made Some Progress】U.S. Secretary of State Rubio on Friday said negotiations with Iran aimed at reaching an agreement have made some progress. Rubio, speaking at a cabinet meeting of President TRUMP, said: \"I think some progress has been made, and it shows a degree of willingness. In the next hours to days we will see whether we can continue to make progress.\""
     }
   ]
 }
