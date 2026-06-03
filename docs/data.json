@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-04 02:16:10",
-  "count": 19125,
+  "updated": "2026-06-04 02:21:00",
+  "count": 19126,
   "items": [
+    {
+      "id": "4915873",
+      "time": "2026-06-04 02:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）考慮改革或終止每年規模 30 億美元、面向學校與圖書館的 E 級費率補貼專案。"
+    },
+    {
+      "id": "te:economy:556244",
+      "time": "2026-06-04 02:18:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay CPI Picks Up in May — Uruguay’s annual inflation rate accelerated to 3.77% in May 2026 from 3.16% in April. The increase was driven by higher prices for education (6.91%), restaurants and hotels (6.85%), healthcare (6.15%), housing and utilities (5.02%), and personal care and social protection (4.89%). Transport costs rose 4.47%, while food and non-alcoholic beverage prices increased 2.21%. In contrast, clothing and footwear prices fell 4.88% from a year earlier. On a monthly basis, consumer prices rose 0.70% in May, accelerating from a 0.54% increase in the previous month."
+    },
+    {
+      "id": "4915872",
+      "time": "2026-06-04 02:18:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示：雙方正在研討此前互換的相關檔案文字。"
+    },
+    {
+      "id": "mkt:019e8eb4-06d5-7443-8fe1-729794b394d7",
+      "time": "2026-06-04 02:17:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Lebanese broadcaster Al-Mayadeen reports Iran's foreign minister said the two sides are reviewing exchanged texts."
+    },
     {
       "id": "te:markets:556243",
       "time": "2026-06-04 02:15:03",
@@ -176127,33 +176164,6 @@
         "其他"
       ],
       "text": "美墨加協定不確定性上升，加元跌至六週低點。"
-    },
-    {
-      "id": "te:markets:554172",
-      "time": "2026-05-28 02:20:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 2.97% — Top commodity losers are Silver (-2.97%), Lithium Carbonate (-1.67%) and Gold (-1.29%)."
-    },
-    {
-      "id": "4903114",
-      "time": "2026-05-28 02:19:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "被問及伊朗相關談判時，特朗普稱自己“並不在意中期選舉”。"
-    },
-    {
-      "id": "mkt:019e6aa6-e0e4-7223-8ed8-8707628839c0",
-      "time": "2026-05-28 02:16:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Wall Street Journal, an app for accounts tied to Donald Trump's children is scheduled to go live on Thursday."
     }
   ]
 }
