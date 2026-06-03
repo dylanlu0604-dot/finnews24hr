@@ -1,7 +1,196 @@
 {
-  "updated": "2026-06-03 22:39:59",
-  "count": 19116,
+  "updated": "2026-06-03 22:44:07",
+  "count": 19138,
   "items": [
+    {
+      "id": "mkt:019e8df0-5f3b-7996-b2ac-732e93e24e88",
+      "time": "2026-06-03 22:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said the US faces spending and growth problems."
+    },
+    {
+      "id": "mkt:019e8df0-5899-7996-b2ac-6854c88c1cc0",
+      "time": "2026-06-03 22:43:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said regime change will not occur at a time of our choosing."
+    },
+    {
+      "id": "mkt:019e8df0-2f79-7996-b2ac-6002f8a6ac71",
+      "time": "2026-06-03 22:43:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel must help the Iranian people overthrow this regime."
+    },
+    {
+      "id": "mkt:019e8df0-0c57-7996-b2ac-59bffc32fbe3",
+      "time": "2026-06-03 22:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister Netanyahu said Iran has not agreed to withdraw nuclear material."
+    },
+    {
+      "id": "4915680",
+      "time": "2026-06-03 22:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空高管：藍色起源近期事故不會影響該航司2028年機上WiFi部署時間表。"
+    },
+    {
+      "id": "mkt:019e8def-c097-7996-b2ac-512d817836ca",
+      "time": "2026-06-03 22:42:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 index turns positive."
+    },
+    {
+      "id": "4915679",
+      "time": "2026-06-03 22:42:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，Quantinuum美國IPO獲得超過20倍認購。"
+    },
+    {
+      "id": "mkt:019e8def-6792-7996-b2ac-4d1acc251e9a",
+      "time": "2026-06-03 22:42:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister NETANYAHU said the new agreement will not be a replica of the Iran nuclear deal and should result in a better accord."
+    },
+    {
+      "id": "4915678",
+      "time": "2026-06-03 22:42:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲。"
+    },
+    {
+      "id": "4915677",
+      "time": "2026-06-03 22:41:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "達利歐表示，所有偉大的技術變革都會產生泡沫。"
+    },
+    {
+      "id": "4915676",
+      "time": "2026-06-03 22:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：第五次審查將向衣索比亞提供約4.68億美元資金。"
+    },
+    {
+      "id": "mkt:019e8dee-8d82-7110-824f-c7e89c86ea4b",
+      "time": "2026-06-03 22:41:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU: We are working to achieve the same goal."
+    },
+    {
+      "id": "mkt:019e8dee-33aa-7110-824f-b8a4461f9e2c",
+      "time": "2026-06-03 22:40:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US Secretary of State Rubio says prospects for a Russia-Ukraine agreement are not optimistic."
+    },
+    {
+      "id": "mkt:019e8dee-1a40-7110-824f-b309a1b71c6a",
+      "time": "2026-06-03 22:40:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU says he speaks with Trump roughly every two days."
+    },
+    {
+      "id": "4915675",
+      "time": "2026-06-03 22:40:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁仔食品：擬5000萬元-1億元回購公司股份】勁仔食品6月3日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於5000萬元且不超過1億元。回購價格不超過16元/股。回購股份將用於登出並減少註冊資本。回購期限為自公司股東會審議透過本次回購方案之日起不超過12個月。"
+    },
+    {
+      "id": "4915674",
+      "time": "2026-06-03 22:40:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：伊朗尚未同意撤出核材料。"
+    },
+    {
+      "id": "4915673",
+      "time": "2026-06-03 22:40:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：我相信這些裂痕最終會蔓延開來，（伊朗）政權將會倒臺。"
+    },
+    {
+      "id": "te:economy:556208",
+      "time": "2026-06-03 22:40:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 2"
+      ],
+      "text": "US Crude Oil Inventories Fall More than Expected — US crude inventories fell by 7.974 million barrels in the week ended May 29, the most since February and exceeding expectations for a 4 million barrel draw. Also, stocks at the Cushing, Oklahoma hub decreased by 583 thousand barrels. Refinery activity went down, with crude runs falling by 90,000 barrels per day. On the other hand, gasoline inventories rose by 3.364 million barrels, compared with forecasts for a 0.3 million barrel decline. Distillate stocks, including diesel and heating oil, increased by 1.502 million barrels, versus expectations for a 0.3 million barrel draw. Net US crude imports fell by 249 thousand barrels per day over the week."
+    },
+    {
+      "id": "4915672",
+      "time": "2026-06-03 22:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：伊朗目前內部裂痕巨大。"
+    },
+    {
+      "id": "4915671",
+      "time": "2026-06-03 22:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：我們面臨支出和增長問題。任期結束時赤字佔GDP比重有可能低於4%。"
+    },
+    {
+      "id": "4915670",
+      "time": "2026-06-03 22:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：這場戰爭結束後，各國都會爭相開發新的能源來源與供應路線。"
+    },
+    {
+      "id": "mkt:019e8dec-21a2-7110-824f-ab5eba5279ac",
+      "time": "2026-06-03 22:38:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel 'removed' about 20 Iranian nuclear scientists."
+    },
     {
       "id": "4915669",
       "time": "2026-06-03 22:38:06",
@@ -12,12 +201,35 @@
       "text": "內塔尼亞胡：我們“除掉”了大約20名伊朗核科學家。"
     },
     {
+      "id": "mkt:019e8deb-e06d-7110-824f-a3735cf02968",
+      "time": "2026-06-03 22:38:00",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Bridgewater Associates founder Ray Dalio said bond investments have underperformed."
+    },
+    {
       "id": "4915668",
       "time": "2026-06-03 22:37:48",
       "tags": [
         "國際"
       ],
       "text": "惠譽：就全球機場展望而言，即便霍爾木茲海峽實際處於關閉狀態，預計歐洲的燃油儲備也足以覆蓋夏季月份需求。"
+    },
+    {
+      "id": "mkt:019e8deb-66f3-7110-824f-9d3ddd967a53",
+      "time": "2026-06-03 22:37:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Prime Minister Netanyahu said Israel is prepared to resume full-scale escalation; the decision rests with Trump."
     },
     {
       "id": "4915667",
@@ -36,6 +248,17 @@
       "text": "美國至5月29日當週EIA原油產量引伸需求資料 2124.3萬桶/日，前值1940.2萬桶/日。美國至5月29日當週EIA車用汽油總產量引伸需求資料 952.91萬桶/日，前值1005.64萬桶/日。"
     },
     {
+      "id": "mkt:019e8dea-f271-7110-824f-910f6c5db021",
+      "time": "2026-06-03 22:37:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied demand for distillate fuel was 5.0864 mln b/d in the week to May 29, down from 5.51 mln b/d the prior week."
+    },
+    {
       "id": "4915665",
       "time": "2026-06-03 22:37:09",
       "tags": [
@@ -43,6 +266,62 @@
         "國際"
       ],
       "text": "美國聯邦貿易委員會公告：美國聯邦貿易委員會已向多家企業發出警告函，要求其遵守《刪除法案》（TAKE IT DOWN Act）。"
+    },
+    {
+      "id": "mkt:019e8dea-ee45-7110-824f-8c5bd17dd785",
+      "time": "2026-06-03 22:37:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US EIA motor gasoline supplied, week ended May 29: 9.5291 mln b/d; prior 10.0564 mln b/d."
+    },
+    {
+      "id": "mkt:019e8dea-ecb2-7110-824f-84cc041e4a5a",
+      "time": "2026-06-03 22:37:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (May.29) | actual 5086400M | previous 5510000M"
+    },
+    {
+      "id": "mkt:019e8dea-9727-7110-824f-7d4d4242b7d0",
+      "time": "2026-06-03 22:36:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (May.29) | actual 9529100M | previous 10056400M"
+    },
+    {
+      "id": "mkt:019e8dea-952c-7110-824f-75e15cf1f5e0",
+      "time": "2026-06-03 22:36:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied crude oil demand for the week to May 29 rose to 21.243 mln b/d from 19.402 mln b/d the previous week."
+    },
+    {
+      "id": "mkt:019e8dea-5a39-7110-824f-6a900e204ef5",
+      "time": "2026-06-03 22:36:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Implied Demand (May.29) | actual 21243000M | previous 19402000M"
     },
     {
       "id": "4915664",
@@ -75,6 +354,20 @@
         "國際"
       ],
       "text": "內塔尼亞胡：我和特朗普大約每兩天會談一次。"
+    },
+    {
+      "id": "mkt:019e8de9-7a44-7110-824f-6694bf1f85eb",
+      "time": "2026-06-03 22:35:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories fell 7.974 mln bbl in the week to May 29, the largest weekly drop since the week of Feb. 13, 2026, and the sixth consecutive weekly decline."
     },
     {
       "id": "4915660",
@@ -175921,82 +176214,6 @@
         "國際"
       ],
       "text": "赴德國接受埃博拉治療的美國醫生目前情況穩定。"
-    },
-    {
-      "id": "4902880",
-      "time": "2026-05-27 22:43:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國機構下調2026年本國經濟增長預期】德國經濟專家委員會27日釋出春季經濟預測報告，預計2026年德國經濟增長0.5%，較去年秋季預測值下調0.4個百分點。該委員會表示，中東戰事引發的能源成本上升以及美國貿易保護主義政策持續，正進一步拖累德國經濟復甦。"
-    },
-    {
-      "id": "4902879",
-      "time": "2026-05-27 22:42:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行：中東戰事及美國政策加劇金融風險】歐洲中央銀行27日釋出的最新一期金融穩定評估報告指出，中東戰事導致的地緣政治衝擊對歐元區金融穩定前景構成嚴峻挑戰，而美國政府頻繁變動的貿易政策及其退出國際合作機制的舉動，進一步加劇了全球金融風險。報告說，儘管中東戰事是影響市場的主要因素，但貿易政策的不確定性依然存在。特別是美國政府對多邊合作的承諾存在不確定性，導致其政策衝擊可能擾亂國際秩序，令全球範圍內的地緣經濟及監管碎片化風險日益加劇。報告認為，高關稅、貿易政策高度不確定性和地緣政治緊張局勢，正與能源供應壓力和航運中斷相互作用。美國貿易政策對歐元區構成持續外部壓力。美國針對貿易伙伴普遍上調進口關稅，導致全球貿易環境發生更為持久的轉變。報告指出，受地緣政治衝擊影響，歐元區金融穩定仍顯現出高度脆弱性。中東戰事擾亂了全球能源和其他大宗商品的供應，削弱經濟增長前景，推高能源價格，加劇通貨膨脹，其對全球經濟和金融穩定的影響將隨著戰事持續而日益嚴重。歐洲央行副行長路易斯·德金多斯表示，當前的能源供應衝擊將導致通脹上行與經濟增長下行雙重風險。在經濟增長疲弱和融資成本上升的環境下，這不僅會加劇市場波動，還將對債務償付能力構成挑戰。（新華社）"
-    },
-    {
-      "id": "4902878",
-      "time": "2026-05-27 22:42:07",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【長鑫科技資本版圖】長鑫科技今天創業板IPO過會，其背後的股東陣容與資本版圖也引發市場關注。根據招股書，長鑫科技在融資過程中吸引了大量產業資本、國資基金等長期資本佈局。其中，國家積體電路產業投資基金二期發行前持股比例為8.73%；安徽省投資集團直接持有7.91%股份；合肥國資相關主體合計持股超35%。此外，多家金融機構也出現在長鑫科技股東名單之中。農業銀行、建設銀行、工商銀行、中國銀行、交通銀行五家國有大行的金融資產投資公司或其關聯平臺均參與投資，持股比例介於0.38%至0.95%之間。險資方面，和諧健康、人保資本、陽光人壽等機構持股比例介於0.15%至1.5%之間。此外，招商證券、中金公司等券商機構也間接持股。專家指出，儲存晶片產業具有“高投入、長週期”的典型特徵。企業往往需要經歷長期研發、持續資本開支及多輪行業週期波動，短期內難以實現穩定盈利，因此，“耐心資本”的長期加持尤為重要。 （央視財經）"
-    },
-    {
-      "id": "4902877",
-      "time": "2026-05-27 22:41:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國銀行藉助人工智慧開展員工再培訓，公司內部將出現 14000 個崗位調動。"
-    },
-    {
-      "id": "4902876",
-      "time": "2026-05-27 22:41:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【貝萊德青睞投資美國和新興市場資產】貝萊德智庫策略師在一份報告中表示，美國資產和新興市場資產前景看好。這些策略師表示，強勁的盈利前景（尤其是美國科技行業的盈利前景）以及全球經濟增長受損極小的預期，使得美國資產具有吸引力。在新興市場中，貝萊德青睞“製造關鍵AI元件的亞洲國家以及拉美能源和大宗商品出口國“。"
-    },
-    {
-      "id": "mkt:019e69e1-a1e3-7223-8ed4-ce36e0f5f614",
-      "time": "2026-05-27 22:40:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Iranian media outlet Fars News, an administrative building at Imam Khomeini Airport near Tehran caught fire; firefighters have extinguished the blaze."
-    },
-    {
-      "id": "4902875",
-      "time": "2026-05-27 22:40:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：印度國有燃油零售商目前以低於市場的價格銷售燃油，每日因此承擔約55億盧比的虧損。"
-    },
-    {
-      "id": "4902874",
-      "time": "2026-05-27 22:40:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長稱，今年將推進更多星際客機相關發射任務。"
-    },
-    {
-      "id": "mkt:019e69e1-54c7-7223-8ed4-c252abc6fbef",
-      "time": "2026-05-27 22:40:35",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "Boeing (BA.N) CEO: Boeing's chief executive said the company will carry out one more \"Starliner\" launch this year."
     }
   ]
 }
