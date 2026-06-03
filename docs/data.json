@@ -1,7 +1,404 @@
 {
-  "updated": "2026-06-03 16:44:22",
-  "count": 18641,
+  "updated": "2026-06-03 16:48:16",
+  "count": 18668,
   "items": [
+    {
+      "id": "mkt:019e8caa-b340-7990-baac-65b8ea5b1f85",
+      "time": "2026-06-03 16:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ueda, governor of the Bank of Japan, said the central bank must preserve market confidence that inf will be properly addressed."
+    },
+    {
+      "id": "4914774",
+      "time": "2026-06-03 16:47:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國德文郡一架皇家海軍直升機墜毀於野外。"
+    },
+    {
+      "id": "4914773",
+      "time": "2026-06-03 16:47:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們必須維持市場對通脹將得到妥善處置的信任。"
+    },
+    {
+      "id": "mkt:019e8caa-885f-7cc3-b003-9c4e0e5a069b",
+      "time": "2026-06-03 16:47:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA: Recent rise in long-term yields reflects an excessive deviation in market inflation expectations."
+    },
+    {
+      "id": "4914772",
+      "time": "2026-06-03 16:46:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：近期長期利率上行反映出市場通脹預期存在超調。"
+    },
+    {
+      "id": "mkt:019e8caa-4a07-7cc3-b003-939f7d0cfc39",
+      "time": "2026-06-03 16:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said if markets judge the central bank may respond inappropriately to inflation, that could drive long-term interest rates too high."
+    },
+    {
+      "id": "4914771",
+      "time": "2026-06-03 16:46:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美利信：控股股東完成增持101.31萬股 持股比例升至40.14%】美利信公告稱，控股股東美利信控股自2025年12月5日起實施增持計劃，原擬增持金額5000萬-10000萬元，增持價格不超52元/股。因股價超上限，取消價格上限。截至法律意見書出具日，已累計增持101.31萬股，佔總股本0.4811%，增持金額5002.67萬元（不含手續費），增持計劃實施完畢。增持後，美利信控股持股比例從39.6549%升至40.1359%，本次增持屬免於發出要約情形。"
+    },
+    {
+      "id": "mkt:019e8caa-2e81-7cc3-b003-8eee478521ee",
+      "time": "2026-06-03 16:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN governor UEDA said policymakers must closely monitor whether rises in actual prices will lift inflation expectations and cause core CPI inflation to deviate from the 2% target."
+    },
+    {
+      "id": "4914770",
+      "time": "2026-06-03 16:46:35",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：有必要特別關注實際物價上漲是否會推高民眾通脹預期，並導致核心CPI通脹偏離上行，超出2%的目標水平。"
+    },
+    {
+      "id": "mkt:019e8caa-07d2-7cc3-b003-83f1149fd63b",
+      "time": "2026-06-03 16:46:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said inflation above expectations could erode household purchasing power and damage the economy."
+    },
+    {
+      "id": "4914769",
+      "time": "2026-06-03 16:46:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部交管局提示：切勿超員載客、違法載人】公安部交通管理局6月3日披露，近期多地接連發生涉及麵包車超員載客和貨車、三輪車違法載人的交通事故，提示切勿超員載客、違法載人。公安部交管局提示，目前農村地區夏收夏種繁忙，務農務工活動多，集中出行需求大，超員載客、違法載人風險高。（新華社）"
+    },
+    {
+      "id": "4914768",
+      "time": "2026-06-03 16:46:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：通脹超調會削弱家庭購買力，從而對經濟造成損害。"
+    },
+    {
+      "id": "4914767",
+      "time": "2026-06-03 16:46:13",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男  ：受石油價格影響，核心CPI或將加速上漲。"
+    },
+    {
+      "id": "mkt:019e8ca9-b317-7cc3-b003-79f4d0508ff0",
+      "time": "2026-06-03 16:46:12",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said policymakers must note the current rise in prices may not be temporary and could lead to an overshoot in underlying inflation."
+    },
+    {
+      "id": "mkt:019e8ca9-a24c-7cc3-b003-7606c413f899",
+      "time": "2026-06-03 16:46:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Offshore Norway said if oil and gas workers strike from June 5, Norwegian offshore output would fall by about 45,500 barrels of oil equivalent per day."
+    },
+    {
+      "id": "4914766",
+      "time": "2026-06-03 16:45:50",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男稱：我們必須警惕，當前的物價上漲可能並非暫時性的，且可能導致核心通脹超調。"
+    },
+    {
+      "id": "4914765",
+      "time": "2026-06-03 16:45:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽託生物：累計回購股份189.71萬股，佔公司目前總股本的1.00%】賽託生物公告，截至2026年6月3日，公司透過回購專用證券賬戶以集中競價交易方式累計回購公司股份189.71萬股，佔公司目前總股本的1.00%，最高成交價為12.9元/股，最低成交價為12.51元/股，成交總金額為2415.97萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019e8ca9-3342-7cc3-b003-6929b9f1e390",
+      "time": "2026-06-03 16:45:39",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said current data and piecemeal reports indicate upside risks to prices are generally larger and may materialize sooner."
+    },
+    {
+      "id": "mkt:019e8ca9-1872-7998-8c64-f0597f5762e3",
+      "time": "2026-06-03 16:45:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA said the Bank of Japan must consider these factors when deciding policy."
+    },
+    {
+      "id": "mkt:019e8ca9-17e9-7998-8c64-ebdef3d62149",
+      "time": "2026-06-03 16:45:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it intercepted a suspicious aerial object that entered Israeli airspace from Lebanon."
+    },
+    {
+      "id": "mkt:019e8ca9-1796-7998-8c64-e3a05c4825ac",
+      "time": "2026-06-03 16:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said Japan's economic conditions, relative to other major economies, make second-round effects more likely to produce an overshoot in potential inf."
+    },
+    {
+      "id": "4914764",
+      "time": "2026-06-03 16:45:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：基於目前可得的資料和市場傳聞資訊，物價上行風險整體來看更大，且可能更早顯現。"
+    },
+    {
+      "id": "4914763",
+      "time": "2026-06-03 16:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本央行制定政策時必須將這些因素納入考量。"
+    },
+    {
+      "id": "4914762",
+      "time": "2026-06-03 16:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，其攔截了一個從黎巴嫩進入以色列領土的可疑空中目標。"
+    },
+    {
+      "id": "4914761",
+      "time": "2026-06-03 16:44:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：與其他主要經濟體相比，日本當前的經濟環境使得第二輪效應更易推高核心通脹，使其超出目標區間。"
+    },
+    {
+      "id": "mkt:019e8ca8-31d5-7cc3-b003-4c93bc8b8a9d",
+      "time": "2026-06-03 16:44:43",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japan's real interest rates remain relatively low."
+    },
+    {
+      "id": "4914760",
+      "time": "2026-06-03 16:44:41",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "挪威離岸產業集團：若油氣工人自6月5日起罷工，每日產量將減少約4.55萬桶油當量。"
+    },
+    {
+      "id": "4914759",
+      "time": "2026-06-03 16:44:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【株冶集團：股東湘投金冶減持1%股份，總金額3.02億元】株冶集團公告，股東湖南湘投金冶私募股權投資基金企業（有限合夥）減持計劃已實施完畢，透過集中競價方式減持公司股份1072.87萬股，減持比例為1%，減持期間為2026年3月3日至2026年6月2日，減持價格區間為21.86～31.3元/股，減持總金額為3.02億元。本次減持後，湘投金冶持有公司股份4770.67萬股，佔公司總股本的4.45%。"
+    },
+    {
+      "id": "4914758",
+      "time": "2026-06-03 16:44:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本實際利率仍處於低位。"
+    },
+    {
+      "id": "mkt:019e8ca7-e60f-7cc3-b003-4182c57246d3",
+      "time": "2026-06-03 16:44:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said price pass-through may have accelerated compared with the past."
+    },
+    {
+      "id": "mkt:019e8ca7-c1cd-7cc3-b003-3eab52b6f8fc",
+      "time": "2026-06-03 16:44:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said he is still monitoring the impact of rising oil prices on core inflation."
+    },
+    {
+      "id": "4914757",
+      "time": "2026-06-03 16:44:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：物價傳導速度較過去有所加快是有可能的。"
+    },
+    {
+      "id": "mkt:019e8ca7-bb8a-7cc3-b003-30d924b32b0f",
+      "time": "2026-06-03 16:44:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japanese firms are clearly more proactive in raising prices and wages than after the Russia-Ukraine conflict."
+    },
+    {
+      "id": "4914756",
+      "time": "2026-06-03 16:44:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "Klarna稱法院將谷歌反壟斷判決延後至 6 月 26 日宣判。"
+    },
+    {
+      "id": "te:economy:556108",
+      "time": "2026-06-03 16:44:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "UK Private Sector Activity Contracts — The S&P Global UK Composite PMI fell to 49.7 in May of 2026 from 52.6 in the previous month, revised higher from the preliminary estimate of 48.5, reflecting the first decline in activity in over one year and firmly below the initial market expectations of an expansion of 51.6. Activity was lower for services providers (49.3 vs 52.7 in April), outweighing the faster expansion for goods producers (53.9 vs 53.7). New business at the aggregate level eased amid uncertainty for clients and weaker investment sentiment. A sharper decline was prevented by an influx of orders for manufacturers as clients attempted to beat price hikes risked by the war in the Middle East. Meanwhile, payroll numbers fell for the 20th month, with firms blaming higher National Insurance contributions for lower labor intake."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606033759055452",
+      "time": "2026-06-03 16:44:09",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行執委Elderson：歐洲央行越來越不可能忽視伊朗危機帶來的衝擊】歐洲央行執委Elderson表示，歐洲央行越來越不可能忽視伊朗危機帶來的衝擊。"
+    },
+    {
+      "id": "mkt:019e8ca7-b56e-7998-8c64-df93be5af1ad",
+      "time": "2026-06-03 16:43:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said rising corporate profits and higher wages are expected to help minimize downside risk to economic activity from the Middle East situation."
+    },
+    {
+      "id": "4914755",
+      "time": "2026-06-03 16:43:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：相比烏克蘭衝突爆發後，當前日本企業在提價、漲薪方面的活躍度明顯提升。"
+    },
+    {
+      "id": "4914754",
+      "time": "2026-06-03 16:43:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：若中東局勢動盪持續，將更有可能引發衝擊，影響核心通脹。"
+    },
+    {
+      "id": "mkt:019e8ca7-547f-7998-8c64-d3cb709d1dec",
+      "time": "2026-06-03 16:43:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong–Hong Kong–Macao Greater Bay Area international freight trains exceed 20,000 YTD】On June 3 China–Europe freight train X8186 departed Guangzhou eastern intermodal hub Zengcheng West, loaded with electronics and home appliances, bound for Europe via the Horgos border crossing. The dispatch brings the Greater Bay Area's cumulative international freight trains this year past 20,000, with cargo value exceeding 9 bln yuan."
+    },
+    {
+      "id": "mkt:019e8ca7-47e3-7cc3-b003-1c137327812d",
+      "time": "2026-06-03 16:43:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda: If firms' wage- and price-setting behavior becomes more active, price increases could spread more rapidly."
+    },
+    {
+      "id": "4914753",
+      "time": "2026-06-03 16:43:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行ELDERSON：歐洲央行越來越不可能忽視伊朗危機帶來的衝擊。"
+    },
     {
       "id": "4914752",
       "time": "2026-06-03 16:43:29",
@@ -205,6 +602,15 @@
         "市場"
       ],
       "text": "【機構：一季度全球NAND儲存市場規模環比翻倍，長江儲存份額13%】6月3日，根據Counterpoint Research最新追蹤報告，2026年第一季度全球NAND快閃記憶體儲存市場營收達到460億美元，市場規模環比接近翻倍，同比增長至去年同期的3.5倍，重現了此前DRAM市場經歷的價格大幅上漲趨勢。其中，三星以29%的市場份額穩居榜首，SK海力士和鎧俠緊隨其後。中國長江儲存持續快速增長，市場份額提升至13%，進一步縮小與閃迪和美光之間的差距。Counterpoint Research研究總監MS Hwang表示：“如果長江儲存能透過此次IPO獲得額外資金支援，公司將具備進一步擴大產能和業務規模的能力。在這種情況下，我們預計長江儲存將超越鎧俠和美光，進一步擴大領先優勢，成為全球第三大NAND儲存廠商。”"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606033759053057",
+      "time": "2026-06-03 16:41:23",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行總裁：不排除供應鏈出現大規模中斷的可能性】日本央行總裁植田和男表示，不排除供應鏈出現大規模中斷的可能性，這將對日本企業的生產活動造成重大影響。"
     },
     {
       "id": "4914738",
@@ -171095,155 +171501,6 @@
         "公司"
       ],
       "text": "【北京利爾：聯創鋰能矽碳負極材料產品已實現穩定供貨】北京利爾5月27日在互動平臺稱，聯創鋰能矽碳負極材料產品已透過部分電池企業測試驗證，並實現穩定供貨。"
-    },
-    {
-      "id": "mkt:019e689e-70da-7223-8ecf-f660a3960062",
-      "time": "2026-05-27 16:47:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Hang Seng Index Co Adds SpaceX to US Constituents List in Tech Index Update】Hang Seng Indexes Company said it will include SpaceX in the designated US-listed constituents of the Hang Seng Hong Kong–US Technology Index, according to an exchange notice. The index compiler said the methodology will be updated to add SpaceX to the US-listed component basket. The weightings of eight US-listed constituents will be recalculated to equal weight after the close of the seventh trading day following SpaceX’s inclusion, with the new constituent and revised weights becoming effective on the 11th trading day. The changes will take effect subject to SpaceX’s confirmed listing status."
-    },
-    {
-      "id": "4902126",
-      "time": "2026-05-27 16:47:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球爆單 我國抹茶產量佔全球近70%】近年來，伴隨新茶飲行業的蓬勃發展，抹茶飲品熱度持續攀升，各大品牌推出眾多抹茶新品，受到消費者歡迎，也帶動了整個產業的快速發展。資料顯示，今年一季度，浙江抹茶出口1241.97噸，貨值1.4億元，同比增長7.3倍。(央視新聞)"
-    },
-    {
-      "id": "te:markets:554041",
-      "time": "2026-05-27 16:47:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Near Six-Week Low Amid US-Iran Optimism — The euro hovered around $1.164, close to a six-week low, amid optimism over a potential US-Iran peace deal and reduced expectations for ECB rate hikes. Investors continue to monitor Middle East developments, encouraged by the recent lack of negative signals from both sides and persistent hopes that an agreement to ease tensions and reopen the Strait of Hormuz remains possible despite recent strikes. Money markets now expect the ECB deposit rate to reach 2.6% by December, up from the current 2% but below last week’s 2.75% projection, with an 80% chance of a rate hike next month. Meanwhile, ECB official Isabel Schnabel told Reuters the central bank should still raise interest rates in June even if a peace deal is reached, citing the scale and persistence of the energy shock."
-    },
-    {
-      "id": "4902125",
-      "time": "2026-05-27 16:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪峰科技：控股股東增持股份1.80%，持股比例升至26.80%】雪峰科技公告，公司於2026年5月27日收到控股股東廣東宏大控股集團股份有限公司通知，其在2026年5月25日至5月27日透過集中競價方式增持公司股份1926.57萬股，增持股份佔公司總股本的1.80%，持股比例由25.00%增加至26.80%，權益變動觸及1%刻度。本次增持資金來源為自有資金及銀行貸款。"
-    },
-    {
-      "id": "4902124",
-      "time": "2026-05-27 16:47:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全新一代問界M9釋出 支援短時三輪應急行駛】5月27日下午，全新一代問界M9正式釋出。華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東現場介紹，截至目前，問界M9累計交付28.5萬臺。全新升級後的問界M9搭載140項全新技術、超40專案行業首創，包括搭載全向立體融合感知系統，整車40個智駕感測器，行業首創六鐳射雷達矩陣，並首創雙百萬畫素全綵投影大燈、智慧鐳射投影系統、一鏡雙投觀影系統等，且支援短時三輪應急行駛，售價47.98萬元起。"
-    },
-    {
-      "id": "4902123",
-      "time": "2026-05-27 16:46:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【眾擎智慧製造（深圳紅花嶺）基地啟用 首批T800正式下線】近日，眾擎機器人位於深圳紅花嶺的智慧製造基地正式啟用，首批T800人形機器人順利下線。該產線集製造、裝配與測試於一體，可實現每15分鐘即可下線一臺人形機器人。（南方+）"
-    },
-    {
-      "id": "4902122",
-      "time": "2026-05-27 16:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部什洛米拉響紅色防空警報。"
-    },
-    {
-      "id": "4902121",
-      "time": "2026-05-27 16:46:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美航空局被要求修訂暴雨天氣跑道安全標準】美國國家交通安全委員會（NTSB）26日要求聯邦航空局（FAA）修訂暴雨天氣下的機場跑道安全評估標準，以降低飛機衝出溼滑跑道的風險。（新華社）"
-    },
-    {
-      "id": "4902120",
-      "time": "2026-05-27 16:46:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【眾擎智慧製造（深圳紅花嶺）基地啟用 首批T800正式下線】近日，眾擎機器人位於深圳紅花嶺的智慧製造基地正式啟用，首批T800人形機器人順利下線。該產線集製造、裝配與測試於一體，可實現每15分鐘即可下線一臺人形機器人。（南方+）"
-    },
-    {
-      "id": "4902119",
-      "time": "2026-05-27 16:45:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報90.13美元/桶。"
-    },
-    {
-      "id": "4902118",
-      "time": "2026-05-27 16:45:29",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "恒生指數通告，恒生港美科技指數新增太空探索技術公司（SpaceX）至指定美國上市成份股名單。"
-    },
-    {
-      "id": "4902117",
-      "time": "2026-05-27 16:45:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟訊息人士：歐盟各國政府批准對美貿易協議相關立法】據一位知悉會議詳情的歐盟訊息人士透露，歐盟各國政府於週三批准了一項立法，旨在取消對多種美國商品的進口關稅。此舉有望化解美國總統特朗普此前發出的針對歐盟汽車及其他產品加徵更高關稅的威脅。根據去年7月在蘇格蘭的特恩伯裡高爾夫度假村達成的一項協議，歐盟同意取消對美國工業品的進口關稅，並給予美國農產品及海產品優惠的市場準入待遇；與此同時，歐盟也接受了美國對大多數歐盟商品徵收15%關稅的安排。自該框架協議達成至今已過去十個月，但歐盟方面仍未履行其在協議中應盡的義務。這促使特朗普放話稱，若歐盟未能在7月4日之前兌現其承諾，他將對歐盟商品徵收“高得多的”關稅。"
-    },
-    {
-      "id": "mkt:019e689c-2e70-7223-8ecf-eaf9e1dc3f75",
-      "time": "2026-05-27 16:45:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【EU Governments Approve Law To Remove Import Tariffs On U.S. Goods】EU governments on Wednesday approved legislation to remove import tariffs on a range of U.S. goods, an EU insider said, seeking to head off TRUMP's threat of higher tariffs on EU cars and other products; under a framework agreed last July at Turnberry the EU agreed to lift tariffs on U.S. industrial goods and grant U.S. farm and seafood market access while accepting U.S. plans for 15% tariffs on most EU goods, but the EU had not implemented its commitments ten months later, prompting TRUMP to say he would impose 'much higher' tariffs on EU goods if commitments were not met by July 4."
-    },
-    {
-      "id": "4902116",
-      "time": "2026-05-27 16:45:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST廣糖：公司股票被實施其他風險警示及整改進展公告】*ST廣糖公告稱，因2025年度內部控制被出具否定意見審計報告、近三個會計年度扣非前後淨利潤均為負、2025年末淨資產為負，公司股票自2026年4月30日開市起被實施其他風險警示和退市風險警示。公司已採取成立整改領導小組、制定整改方案、完善內控制度等措施推進整改，計劃6月30日完成階段性整改。同時提示，若連續兩年內控審計報告被出具否定意見，將被實施退市風險警示。"
-    },
-    {
-      "id": "te:markets:554040",
-      "time": "2026-05-27 16:45:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil WTI is down by 4.01% — Crude Oil WTI decreased 4.01% to 90.121 USD/Bbl"
-    },
-    {
-      "id": "te:economy:554039",
-      "time": "2026-05-27 16:44:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "German Bund Yields Slide Toward Seven-Week Low — German 10-year bund yields slipped toward 2.95%, approaching their lowest level since April 8, amid growing optimism over a potential US-Iran peace deal. Investors remain focused on Middle East developments, heartened by the recent absence of negative signals from both sides and lingering hopes that an agreement to ease tensions and reopen the Strait of Hormuz could still be achieved despite recent strikes. Money markets now anticipate the ECB deposit rate at 2.6% by December, up from the current 2% but below last week’s expectation of 2.75%, with an 80% probability of a first rate increase next month. Meanwhile, ECB official Isabel Schnabel told Reuters the central bank should raise interest rates in June even if a peace deal materializes, pointing to the scale and persistence of the energy shock."
     }
   ]
 }
