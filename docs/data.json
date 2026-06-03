@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-03 12:32:04",
-  "count": 18447,
+  "updated": "2026-06-03 12:35:58",
+  "count": 18450,
   "items": [
+    {
+      "id": "4914237",
+      "time": "2026-06-03 12:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將考慮重新審視汽油補貼政策。"
+    },
+    {
+      "id": "4914236",
+      "time": "2026-06-03 12:34:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤下跌0.4%，至170,402.70點。"
+    },
+    {
+      "id": "4914235",
+      "time": "2026-06-03 12:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "中韓半導體ETF華泰柏瑞：將於2026年6月3日下午開市起至當日收市停牌。"
+    },
+    {
+      "id": "4914234",
+      "time": "2026-06-03 12:34:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【名創優品非會員無法買單？客服回應：僅盲盒類需會員，其他憑個人意願】近日，多名消費者在社交平臺反映，在名創優品門店購物時遭遇“非會員無法結賬”的強制要求，甚至連購買紙巾、驅蚊液等普通日用品也被要求註冊會員。6月3日，就此事諮詢名創優品客服，對方表示：“目前是購買盲盒類產品時，需要出示有效會員憑證後方可完成銷售。除潮玩外的其他產品在購買時，根據您個人意願，看是否需要出示會員憑證。”該客服還表示，如果遇到購買非潮玩商品也被要求出示會員憑證的情況，可以線上上反饋。（介面新聞）"
+    },
+    {
+      "id": "4914233",
+      "time": "2026-06-03 12:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉羅德里格斯將出訪印度 地緣衝突改寫原油貿易格局】委內瑞拉代總統德爾西・羅德里格斯本週將會見印度總理納倫德拉・莫迪。受伊朗戰事衝擊，印度原油供應承壓、謀求進口來源多元化，能源安全或將成為雙方會談核心議題。印度外交部發言人蘭迪爾・賈伊斯瓦爾週二稱，與莫迪的雙邊會談“將覆蓋印委雙邊合作全領域，探尋在能源、貿易、投資、製藥及醫療衛生領域深化合作的途徑”。羅德里格斯出訪日期為6月3日至7日。此前伊朗衝突造成霍爾木茲海峽通航受阻，戰前印度近四成原油經由該咽喉水道進口，印度隨即再度積極拓展原油進口渠道，本次出訪恰逢其時。印度約90%消費原油依靠進口。在美國放寬對這名歐佩克產油國的制裁後，印度時隔一年，已於4月恢復進口一批委內瑞拉原油。"
+    },
+    {
+      "id": "mkt:019e8bc2-01d6-7ee2-b13f-621121800f8e",
+      "time": "2026-06-03 12:33:27",
+      "tags": [
+        "MKT News",
+        "NIFTY.NS",
+        "Impact bearish"
+      ],
+      "text": "India's Nifty 50 fell 1%."
+    },
+    {
+      "id": "mkt:019e8bc1-d3d3-7ee2-b13f-5b6d0f4a3ef2",
+      "time": "2026-06-03 12:33:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "【Counterpoint: Yangtze Memory could rise to third-largest global NAND supplier on AI-driven storage demand】Counterpoint says China’s Yangtze Memory (YMTC) is benefiting from AI infrastructure buildout. In Q1 YMTC’s revenue surged 445% YoY on strong domestic demand and supply shortages, lifting its global NAND share to 13%. Researcher MS Hwang said capital injections would give YMTC the firepower to overtake Kioxia and Micron and cement its position as the world’s third-largest NAND supplier."
+    },
+    {
+      "id": "mkt:019e8bc1-3e83-7ee2-b13f-504bba672b1e",
+      "time": "2026-06-03 12:32:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "RIA Novosti, citing the Russian Defense Ministry, said Russian forces shot down 354 drones overnight."
+    },
+    {
+      "id": "4914232",
+      "time": "2026-06-03 12:31:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯通訊社援引俄國防部訊息稱，俄羅斯昨夜擊落354架無人機。"
+    },
+    {
+      "id": "te:economy:555974",
+      "time": "2026-06-03 12:31:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Egypt Non-Oil Private Sector Contraction Eases — The S&P Global Egypt PMI rose to 47.1 in May 2026 from 46.6 in April, signalling a slower deterioration in non-oil private sector conditions. Manufacturing and construction returned to growth, while inventories rose at the fastest pace in nearly three years. Despite these improvements, inflationary pressures intensified, with input costs rising at the fastest pace since January 2023 due to higher fuel and electricity prices, currency weakness, and stronger wage pressures. Supply chain conditions also worsened, with delivery times lengthening at the fastest pace in nearly four years amid shipping disruptions and Middle East tensions. Firms responded by cutting jobs at the fastest rate since June 2020 as weak demand and rising costs weighed on activity. Looking ahead, business confidence improved to its highest level since August 2024 on hopes of improved economic conditions and exchange rate stability, despite persistent inflation concerns."
+    },
     {
       "id": "mkt:019e8bbf-a86e-7ee2-b13f-4ef274ef4787",
       "time": "2026-06-03 12:30:53",
@@ -169253,70 +169350,6 @@
         "國際"
       ],
       "text": "【駐宋卡總領館駐普吉領事辦公室提醒中國公民遵守泰國入境管理規定】近期，普吉國際機場有多名中國公民入境受阻，涉及使用已作廢或破損護照、利用遊客免籤政策反覆“跑籤”、在機場限制區拍照、超量攜帶菸酒等物品、無返程機票或酒店訂單等情形，當事人均被泰國移民部門拒絕入境。駐普吉領事辦公室鄭重提醒來泰的中國公民注意以下事項：一、赴泰前須自查護照狀態，確保剩餘有效期6個月以上、預留2頁以上連續空白簽證頁，證件無破損、塗改、貼紙及各類非官方印記。二、按要求備齊有效返程機票、酒店訂單和泰銖現金，落地前72小時內填報電子入境登記（TDAC）。三、嚴格遵守泰國法律法規，切勿開展與簽證型別或入境目的不符的活動。如擬在當地務工，請提前申請工作簽證或工作許可。四、切勿在機場海關、邊檢等限制區域使用手機、照相機、攝像機及其他攝錄裝置，不得對海關、移民官員及其工作場所、設施裝置拍照或攝像。五、嚴格遵守海關規定，不超量攜帶香菸（不超過200支）或酒（不超過1L）等物品，不攜帶生鮮、肉類、水果等違禁物品。六、如遇泰國移民部門檢查應主動配合，說明情況，爭取理解，如被拒絕入境，請理性交涉，可保留證據以便日後向泰國相關部門反映，切勿現場與移民官發生言語或肢體衝突，避免遭受罰款或被追究法律責任。"
-    },
-    {
-      "id": "4901662",
-      "time": "2026-05-27 12:35:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江6部門印發方案 聚力打造海洋新材料新興產業】近日，浙江省海洋經濟發展廳等6部門聯合印發《浙江省海洋新材料產業高質量發展實施方案（2026—2030年）》，明確到2030年，力爭全省海洋新材料產業總產值翻番達1600億元，新增專精特新企業60家以上、專精特新“小巨人”企業20家以上、涉海產值規模10億元以上企業20家以上，在新型深海結構材料、綠色長效高效能防護材料、智慧仿生前沿功能材料等領域形成一批國際領先的“硬核”標誌性產品。"
-    },
-    {
-      "id": "te:markets:553948",
-      "time": "2026-05-27 12:35:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Rises on Tech Boost — The South Korean won strengthened to around 1,500 per dollar, rebounding after touching its weakest level since March 2009 near 1,520 on May 22, driven by improved risk appetite as a global AI-driven semiconductor rally boosted demand for Korean assets. Strong gains in technology shares helped lift the KOSPI to a fresh record high, reinforcing inflows into the local currency and supporting sentiment toward export-linked assets. Expectations that the Bank of Korea will maintain a hawkish tone at this week’s policy meeting also underpinned the won amid persistent inflation pressures and resilient economic growth. A state-run think tank raised South Korea’s 2026 outlook to 2.5%, citing robust semiconductor exports and AI-related investment. However, gains remained limited as investors continued to monitor developments in the Middle East, with renewed US military action against Iran keeping concerns over oil prices and imported inflation risks in focus."
-    },
-    {
-      "id": "4901661",
-      "time": "2026-05-27 12:35:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲4月汽車銷售增長 比亞迪與奇瑞強勢擴張】歐洲汽車工業協會週三釋出的資料顯示，歐洲4月車市持續增長，對電動車的需求，抵消汽油車和柴油車需求疲軟的影響，並助攻中國品牌擴大市場份額。資料顯示，4月歐盟、英國和歐洲自由貿易聯盟(EFTA)的新車註冊量增長7%，達到1,152,315輛，使得1月至4月的累計註冊量較去年同期增長4.8%。電動車（包括純電動、插電式混合動力和混合動力車型）銷量增長約21%，佔總註冊量超過三分之二；汽油車與柴油車銷量分別下滑約15%和17%。特斯拉連續第三個月延續復甦勢頭，在經歷一年多下滑後，4月註冊量增長46.5%至10,654輛，但仍落後中國的比亞迪，後者的註冊量激增114.5%至27,008輛。中國車企奇瑞也迅速擴張，註冊量增長約322%；傳統車企表現不一，大眾汽車增長3.5%，Stellantis增長6.7%，寶馬增長2.4%，賓士增長7%，雷諾汽車下降3.6%。"
-    },
-    {
-      "id": "4901660",
-      "time": "2026-05-27 12:33:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【成本壓力引發盈利下調 澳交所股價創下十年新低】受成本攀升影響，多家券商下調這家處境艱難的澳大利亞交易所運營商的盈利預期，澳交所股價跌至近十年低位。該股週三最大跌幅達8.6%，創下2016年11月以來新低，前一交易日該股已暴跌13%，創下歷史最大單日跌幅。澳交所週二公佈，技術升級相關支出增幅超出市場預期。受此影響，巴倫喬伊市場公司、瑞銀集團、麥格理集團等多家券商紛紛下調其盈利預測。成本高企讓新任執行長安東尼・阿蒂亞（Anthony Attia）面臨更大挑戰。此前監管調查發現公司存在治理與風險管理漏洞，他上任後需重塑市場信任。這位來自歐洲泛歐交易所的高管將於9月1日正式履職。"
-    },
-    {
-      "id": "4901659",
-      "time": "2026-05-27 12:32:22",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行在香港招標發行的三個月央票中標利率為1.13%（上次為1.53%）。中國央行在香港招標發行的一年期央票中標利率為1.32%（上次為1.47%）。"
-    },
-    {
-      "id": "te:markets:553946",
-      "time": "2026-05-27 12:32:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Rises on US-Iran Deal Optimism — Copper futures climbed to around $6.4 per pound on Wednesday, extending recent gains as markets cautiously priced in the possibility of a US-Iran peace agreement despite ongoing hostilities in the Middle East. President Donald Trump said negotiations to extend a ceasefire and reopen the Strait of Hormuz are still in progress, while US Secretary of State Marco Rubio cautioned that reaching a final deal could still take several days. Copper was also underpinned by the continued strength in AI-linked technology equities, which has reinforced expectations for stronger industrial demand driven by electrification trends and data center expansion, particularly in wiring and power infrastructure. On the supply side, lingering concerns tied to the Middle East conflict, including potential disruptions to sulfur availability used in copper smelting, added further support to prices."
-    },
-    {
-      "id": "mkt:019e67b4-37fe-700e-adbc-6a48b9f754c2",
-      "time": "2026-05-27 12:32:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【India Tests Financial and Government Critical Systems Against MYTHOS Risk】India testing sensitive financial and government systems for vulnerabilities to ANTHROPIC MYTHOS; Infosys and TCS running secure tests using ANTHROPIC Claude OPUS 4.7; CERT-In testing Aadhaar national ID and government login systems; Reserve Bank of India repeatedly convened banks to warn on MYTHOS risk"
     }
   ]
 }
