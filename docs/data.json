@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-04 01:56:33",
-  "count": 19116,
+  "updated": "2026-06-04 02:00:24",
+  "count": 19117,
   "items": [
+    {
+      "id": "mkt:019e8ea4-06aa-7443-8fe1-0b1cc234f5a3",
+      "time": "2026-06-04 01:59:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany, France and the UK have drafted a plan aimed at persuading Putin to take part in peace talks; the plan to negotiate with Moscow would also include Kyiv."
+    },
+    {
+      "id": "mkt:019e8ea3-2a81-7443-8fe1-03bdc78b593d",
+      "time": "2026-06-04 01:58:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At a public hearing, Texas County commissioners voted 4-1 to approve a 100% tax abatement for SpaceX's TeraFab project."
+    },
+    {
+      "id": "4915858",
+      "time": "2026-06-04 01:57:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡耶塔諾否認其被罷免菲律賓參議長職務】艾倫·卡耶塔諾3日發表影片宣告，稱自己未被“合法罷免”菲律賓參議院參議長的職務，當日參議院發生“政變”。卡耶塔諾說，選舉或罷免參議院官員需要24名參議員中的13人參與，自己並未辭職，也未被合法免職，且沒有喪失行為能力。（新華社）"
+    },
+    {
+      "id": "4915857",
+      "time": "2026-06-04 01:57:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊媒：伊美諒解備忘錄若談成，將分四階段推進】伊朗法爾斯通訊社3日援引伊朗與美國間接談判知情人士的話報道，伊美正在討論的諒解備忘錄若最終敲定，將分四個主要階段依次推進，其中第三階段將討論核問題。（新華社）"
+    },
+    {
+      "id": "4915856",
+      "time": "2026-06-04 01:57:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "德法英草擬方案，擬促成與普京展開和平談判，該方案亦將基輔納入其中。"
+    },
     {
       "id": "4915855",
       "time": "2026-06-04 01:55:42",
@@ -176022,43 +176066,6 @@
         "公司"
       ],
       "text": "聯合航空公司執行長表示，由於發動機供應不足，全球飛機供應都將面臨短缺。"
-    },
-    {
-      "id": "mkt:019e6a98-028f-7223-8ed8-4e30cf4a90f9",
-      "time": "2026-05-28 02:00:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Lebanese military said one soldier was killed in Israeli airstrikes on southern Lebanon."
-    },
-    {
-      "id": "mkt:019e6a97-37be-7223-8ed8-4426de3e82e6",
-      "time": "2026-05-28 01:59:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Uganda Closes Border With DR Congo, Tightens Ebola Controls】Uganda's Ministry of Health said on the 27th that, citing an escalating Ebola outbreak in neighboring DR Congo and rising importation risk from cross-border movement, Uganda has decided to temporarily close its border with DR Congo with immediate effect and will implement a series of measures to strengthen epidemic prevention and control."
-    },
-    {
-      "id": "4903101",
-      "time": "2026-05-28 01:58:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署(EIA)週四公佈的報告預計上週美國天然氣庫存增加950億立方英尺。"
-    },
-    {
-      "id": "4903100",
-      "time": "2026-05-28 01:58:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超5.00%，現報3.042美元/百萬英熱。"
     }
   ]
 }
