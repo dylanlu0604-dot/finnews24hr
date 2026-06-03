@@ -1,7 +1,798 @@
 {
-  "updated": "2026-06-03 20:15:34",
-  "count": 18919,
+  "updated": "2026-06-03 20:39:59",
+  "count": 18921,
   "items": [
+    {
+      "id": "mkt:019e8d7e-6534-7ccb-b659-909092d61f9f",
+      "time": "2026-06-03 20:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin is meeting with Tanzania's president."
+    },
+    {
+      "id": "4915406",
+      "time": "2026-06-03 20:38:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元EUR/USD回落至1.16下方，日內跌0.27%。"
+    },
+    {
+      "id": "te:economy:556160",
+      "time": "2026-06-03 20:38:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Production Beats Expectations — Brazil’s industrial production rose 0.7% in April 2026 from the previous month, beating forecasts of 0.4% following a 0.1% increase in March and marking the fourth consecutive monthly expansion. Growth was broad-based, with 14 of the 25 industrial activities surveyed posting gains. The main positive contributions came from extractive industries (3.1%) and coke, refined petroleum products and biofuels (3.1%), both extending their growth streak to five months. Additional gains were recorded in rubber and plastic products (3.1%), wood products (8.5%), textiles (4.1%), and electrical machinery and equipment (2.2%). On the downside, chemicals fell 3.9%, reversing part of the previous month's 4.5% increase. Other declines were seen in pharmaceuticals (-6.0%), machinery and equipment (-2.9%), motor vehicles (-0.7%), and metallurgy (-1.0%). Compared with April 2025, industrial production increased 2.7%."
+    },
+    {
+      "id": "mkt:019e8d7e-167c-7ccb-b659-8d67b4452a9a",
+      "time": "2026-06-03 20:38:31",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "EUR/USD slipped below 1.16, down 0.27% on the day."
+    },
+    {
+      "id": "4915404",
+      "time": "2026-06-03 20:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特稱伊朗襲擊致63人受傷】科威特衛生部門3日稱，伊朗當天對科威特的襲擊已造成63人受傷，相關部門已啟動緊急應對預案，並在全國範圍內調集醫療力量展開救治工作。當天早些時候，科威特外交部發表宣告說，科威特國際機場等多處民用設施遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷。（新華社）"
+    },
+    {
+      "id": "4915403",
+      "time": "2026-06-03 20:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江將迎大範圍強降雨】受東北冷渦影響，預計6月4日至6日，黑龍江省大部地區將出現一次較大範圍強降雨過程。此次降雨過程雨量大、範圍廣，東部地區為主要影響區域，並伴有強對流天氣。"
+    },
+    {
+      "id": "4915402",
+      "time": "2026-06-03 20:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長光華芯：全資子公司蘇州長光華芯半導體鐳射創新研究院有限公司擬出資人民幣2500萬元認購關聯方蘇州惟清半導體有限公司新增註冊資本人民幣333.33萬元】長光華芯公告，全資子公司蘇州長光華芯半導體鐳射創新研究院有限公司擬出資人民幣2500萬元認購關聯方蘇州惟清半導體有限公司新增註冊資本人民幣333.33萬元。本次增資完成後，研究院持有目標公司32.48%的股權。本次交易構成關聯交易，但不構成重大資產重組。交易已透過公司董事會審議，無需提交股東會審議。惟清半導體當前處於小批次投產階段，增資旨在保障其產線建設與運營資金需求。"
+    },
+    {
+      "id": "4915401",
+      "time": "2026-06-03 20:36:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家廣播電視總區域性署開展微短劇有害低俗內容和侵權盜版專項治理】6月1日，國家廣播電視總區域性署開展微短劇有害低俗內容和侵權盜版專項治理。本次專項治理為期2個月，將依法依規集中治理部分微短劇存在的涉兒童有害、軟色情擦邊、拜金炫富、畸形婚戀觀、封建糟粕、暴力復仇、低俗片名、侵權盜版等8個重點問題，規範微短劇創作傳播行為，進一步營造清朗健康的行業發展生態。"
+    },
+    {
+      "id": "4915400",
+      "time": "2026-06-03 20:35:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【訊息稱高效能碳纖維領域技術研發獲重大突破，多家上市公司獨家回應產業佈局情況】6月3日，多隻高效能碳纖維概念股大漲。截至收盤，上海石化“一字”漲停，中復神鷹收漲8.71%，吉林碳谷、光威復材等跟漲。有訊息稱，高效能碳纖維領域技術研發獲重大突破，上海石化聯合上海石油化工研究院攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產。中國證券報·中證金牛座記者瞭解到，上海石化此次研發量產的高效能碳纖維為12K小絲束，即每束碳纖維由12000根單絲組成，單絲直徑相當於頭髮絲直徑的十分之一，而單股絲束拉伸強度超過6.5吉帕、拉伸模量超過300吉帕，相當於能拉動一輛重約10噸的中型卡車。對此，有不願具名的上市公司高管回應記者稱，T代表強度，牌號數字越大，材料抗拉強度越高，對應下游應用場景越高階。今天高效能碳纖維板塊大漲，是由於市場對高效能碳纖維有較好的預期。中復神鷹方面獨家回應記者稱，公司在前幾年已經攻克T1000級高效能碳纖維技術，對比上海石化此次攻克的T1000級高效能碳纖維技術，主要區別在於公司使用幹噴溼紡的方式進行生產。今年3月，公司已經發布了T1200級高效能碳纖維產品。高效能碳纖維整體屬於新興產業，目前來看，越高階的產品毛利率越高，同時產品供不應求。（中證金牛座）"
+    },
+    {
+      "id": "em:qqyh_mlc:202606033759227332",
+      "time": "2026-06-03 20:35:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【ADP公佈後 美聯儲6月維持利率不變的機率基本不變】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.3%（資料公佈前為98.4%），累計降息25個基點的機率為1.7%。美聯儲到7月維持利率不變的機率為88%，累計加息25個基點的機率10.5%，累計降息25個基點的機率為1.5%。"
+    },
+    {
+      "id": "4915399",
+      "time": "2026-06-03 20:34:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街最樂觀機構Yardeni對標普500指數態度轉謹慎】Yardeni是華爾街最樂觀的預測機構，其對標普500指數的預測目標值為8250點。儘管該指數已突破7600點，但該機構近期表示將變得謹慎起來。該機構指出，中東局勢緊張、石油供應緊張的風險、美聯儲可能的緊縮政策以及即將進行的首次公開募股等因素是導致市場波動的原因。不過，該機構仍對未來持樂觀態度，認為強勁的盈利增長勢頭以及由人工智慧驅動的經濟增長將推動市場發展。"
+    },
+    {
+      "id": "mkt:019e8d7a-6658-7ccb-b659-81f6785213d8",
+      "time": "2026-06-03 20:34:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Kuwait military says intercepted 13 ballistic missiles, 17 drones; defense ministry blames Iran】Kuwait’s defense ministry said on the afternoon of the 3rd it monitored and intercepted 13 “enemy” ballistic missiles and 17 drones in Kuwaiti airspace; some intercepts produced falling debris. The ministry condemned Iran for using missiles and drones to carry out “aggression,” saying multiple civilian and critical facilities — including Kuwait International Airport — were targeted, causing one Indian resident killed, several injured and significant property damage. Kuwait’s foreign ministry earlier said Iranian ballistic missiles and drones attacked multiple civilian sites, including the airport."
+    },
+    {
+      "id": "4915398",
+      "time": "2026-06-03 20:34:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "NAVITAS半導體股價盤前飆升8%；該公司與英偉達合作。"
+    },
+    {
+      "id": "mkt:019e8d7a-0e43-7ccb-b659-7c53598b0794",
+      "time": "2026-06-03 20:34:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Wall Street’s most bullish Yardeni turns cautious on S&P 500】Yardeni, long regarded as Wall Street’s most bullish forecaster, says its S&P 500 target is 8,250 but has grown more cautious after the index cleared 7,600. The firm cited Middle East tensions, oil-supply risks, possible Federal Reserve tightening and a wave of upcoming IPOs as near‑term drivers of market volatility. It remains optimistic on the medium term, citing strong earnings momentum and AI‑driven economic growth as market supports."
+    },
+    {
+      "id": "4915397",
+      "time": "2026-06-03 20:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特軍方稱攔截多枚“敵方”導彈和多架無人機】當地時間3日下午，科威特國防部發布訊息稱，科軍方當天共在該國領空監測到並攔截了13枚“敵方”彈道導彈和17架無人機，其中部分導彈被攔截後，導彈碎片墜地。科威特國防部在宣告中譴責伊朗使用導彈和無人機實施“侵略”行為，並以包括科威特國際機場在內的民用設施和重要設施為目標，造成一名印度居民死亡和多人受傷，同時造成重大財產損失。（央視新聞）"
+    },
+    {
+      "id": "4915396",
+      "time": "2026-06-03 20:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kraken：首批代幣化IPO將在未來數週面向Kraken及XSTOCKS聯盟其他成員的客戶開放。"
+    },
+    {
+      "id": "4915395",
+      "time": "2026-06-03 20:33:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部選定標準核能公司，就過剩鈽利用專案進入深度磋商階段。"
+    },
+    {
+      "id": "mkt:019e8d79-0216-7ccb-b659-72ca2ca1a3a5",
+      "time": "2026-06-03 20:32:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said satellite imagery confirms an aircraft shelter at Kuwait's Ali Al Salem Air Base was destroyed after Iran launched missile and drone strikes on the base earlier today. US CENTCOM said the attacks were intercepted."
+    },
+    {
+      "id": "4915394",
+      "time": "2026-06-03 20:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "全球基金6月3日淨賣出562億印度盧比的印度股票。"
+    },
+    {
+      "id": "4915393",
+      "time": "2026-06-03 20:31:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "Kraken：即將允許全球散戶投資者以IPO價格參與美國上市新股的首次公開發行申購。"
+    },
+    {
+      "id": "mkt:019e8d78-0acf-7ccb-b659-699c7a936b8e",
+      "time": "2026-06-03 20:31:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【U.S. to adjust contribution model to NATO forces, EUCOM says】U.S. European Command posted on social media on the 3rd that PENTAGON officials informed allies the U.S. will, in line with the 2026 defense strategy and the PENTAGON’s NATO 3.0 vision, make a reasonable adjustment to its contribution model for NATO forces."
+    },
+    {
+      "id": "4915392",
+      "time": "2026-06-03 20:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永冠新材：擬向特定物件發行股票募資不超9.27億元 用於電子級玻璃纖維布建設專案及流動補充資金】永冠新材公告，公司2026年度擬向特定物件發行股票募集資金不超過9.45億元，扣除1800萬元財務性投資後，募集資金總額將調整為不超過9.27億元。募集資金將用於年產2000噸電子級玻璃纖維布建設專案、年產16500噸線束膠帶建設專案、智慧製造數智化技術升級專案及補充流動資金。本次發行股票數量不超過7132.25萬股，發行價格不低於定價基準日前20個交易日公司股票交易均價的80%。"
+    },
+    {
+      "id": "4915391",
+      "time": "2026-06-03 20:31:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【ADP公佈後，美聯儲6月維持利率不變的機率基本不變】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.3%（資料公佈前為98.4%），累計降息25個基點的機率為1.7%。美聯儲到7月維持利率不變的機率為88%，累計加息25個基點的機率10.5%，累計降息25個基點的機率為1.5%。"
+    },
+    {
+      "id": "4915390",
+      "time": "2026-06-03 20:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "格芯以產業合作伙伴身份加入美國能源部GENESIS MISSION。"
+    },
+    {
+      "id": "4915389",
+      "time": "2026-06-03 20:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍歐洲司令部3日在社交媒體發文稱，美國國防部官員通知盟友，美國將根據2026年國防戰略以及國防部對“北約3.0”的願景，就美國“對北約部隊模式的貢獻進行合理調整”。（新華社）"
+    },
+    {
+      "id": "4915388",
+      "time": "2026-06-03 20:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kpler從第六街資本獲超 10 億美元融資。"
+    },
+    {
+      "id": "mkt:019e8d76-ace4-7ccb-b659-63102c78b237",
+      "time": "2026-06-03 20:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada Q1 labour productivity -0.5% q/q; prior -0.1%."
+    },
+    {
+      "id": "4915387",
+      "time": "2026-06-03 20:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大一季度勞動生產率季度環比 -0.5%，預期 0.3%，前值 -0.1%。"
+    },
+    {
+      "id": "mkt:019e8d76-70a4-7ccb-b659-5d4de25a0074",
+      "time": "2026-06-03 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Labor Productivity SA (QoQ) (Q1) | actual -0.5% | previous -0.10%"
+    },
+    {
+      "id": "4915386",
+      "time": "2026-06-03 20:29:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯天然氣工業股份公司總裁米勒於聖彼得堡會見法國開發署負責人弗羅恩邁爾。"
+    },
+    {
+      "id": "4915385",
+      "time": "2026-06-03 20:29:40",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中國兩大自動駕駛企業納入港股通】6月3日訊息，中國兩大自動駕駛科技公司小馬智行、文遠知行WeRide宣佈，正式被納入港股通標的證券名單，該調整將於6月4日正式生效。納入港股通後，符合條件的內地投資者可透過港股通機制買賣文遠知行在香港聯交所交易的股票。內地資金首迎L4自動駕駛標的。"
+    },
+    {
+      "id": "mkt:019e8d75-a023-7ccb-b659-515c2b4e20b7",
+      "time": "2026-06-03 20:29:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "According to Swedish media, a Swedish union announced it is cancelling planned strikes at other Tesla sites."
+    },
+    {
+      "id": "4915384",
+      "time": "2026-06-03 20:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典工會取消特斯拉新增廠區罷工。"
+    },
+    {
+      "id": "4915383",
+      "time": "2026-06-03 20:27:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國5月ADP就業超預期 增長不再靠醫療業“獨撐”】美國私營部門5月招聘活動保持穩健增長，進一步表明勞動力市場依然穩定。ADP週三公佈的資料顯示，美國企業當月新增就業人數超出市場預期。這家薪資處理機構表示，5月私營部門就業人數增加12.2萬人，為自2025年1月以來最強勁的月度增幅。4月資料較初值下修4,000人。與此前幾個月就業增長主要集中於醫療保健等少數行業不同，5月新增就業呈現出更廣泛的擴散態勢。ADP追蹤的10個行業中有8個實現就業增長，且招聘活動在企業規模和地區之間分佈相對均衡。從行業來看：教育與醫療服務業新增就業5.7萬人，繼續成為最大貢獻來源；貿易、運輸及公用事業新增3.6萬人；專業及商業服務業新增1.1萬人；建築業和休閒酒店業均新增8,000人。"
+    },
+    {
+      "id": "4915382",
+      "time": "2026-06-03 20:27:16",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【策略師：如果美聯儲的沃什對加息持開放態度，美元料將上漲】道明證券外匯策略師Howard Du在一份報告中表示，如果新任美聯儲主席凱文·沃什在6月16日至17日的會議上對今年加息敞開大門，美元可能會上漲。”資料表明，除歐洲央行外，美聯儲面臨的加息壓力應該大於G10同行，但在沒有新任美聯儲主席指引的情況下，市場不願反映如此大的加息機率。”他說，如果沃什保留2026年加息的可能性，美元可能會受益於美國交易時段買盤的增加。Du說，今年最初美元在美國交易時段走弱，但最近受強韌的美國經濟資料提振一直在震盪走高。"
+    },
+    {
+      "id": "mkt:019e8d73-5c25-7ccb-b659-4a46ef35a2dd",
+      "time": "2026-06-03 20:26:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【US May ADP private payrolls beat estimates; gains broad-based】ADP said US private‑sector employment rose 122,000 in May, the strongest monthly increase since Jan 2025 and above consensus; April was revised down by 4,000. Hiring was more diffuse than in prior months: 8 of 10 industries added jobs. Education and health services contributed 57,000 jobs; trade, transport & utilities +36,000; professional & business services +11,000; construction and leisure & hospitality +8,000 each. ADP noted hiring was relatively balanced across firm sizes and regions, underscoring continued labour‑market resilience."
+    },
+    {
+      "id": "4915381",
+      "time": "2026-06-03 20:26:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨鈀金日內跌幅達2.00%，現報1341.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019e8d73-2313-7ccb-b659-43ae2e7ee4ef",
+      "time": "2026-06-03 20:26:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 2.0% intraday to $1,341/oz."
+    },
+    {
+      "id": "4915380",
+      "time": "2026-06-03 20:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶片巨頭達成新共識 AI Agent時代或全面到來】COMPUTEX 2026展會（臺北電腦展）會程過半，多家巨頭與產業鏈企業的最新表態與產品再度引發了對AI Agent（智慧體）的關注。前有英偉達CEO黃仁勳丟擲“AI Agent時代已全面到來”的論斷，後有高通總裁兼CEO克里斯蒂亞諾•安蒙在演講中宣告“2026年是AI Agent之年”，鴻海、廣達、緯創、和碩四家代工大廠罕見同臺討論AI Agent；微軟、聯發科、Arm與甲骨文等也分別聯合釋出相關新品。英特爾與Arm都強調了AI Agent對CPU的催化作用，前者稱多家公司CEO打電話催貨，後者直言隨著AI Agent快速發展，CPU需求升溫速度已超出原先預期。"
+    },
+    {
+      "id": "4915379",
+      "time": "2026-06-03 20:24:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國稀土公司盤前股價上漲5.4%。"
+    },
+    {
+      "id": "4915378",
+      "time": "2026-06-03 20:24:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）於5月28日就成品藥違反現行生產質量管理規範（CGMP）一事向Medline發出警告函。"
+    },
+    {
+      "id": "4915377",
+      "time": "2026-06-03 20:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中軟國際：正式進軍算力業務】中軟國際公告，繼公司於2026年3月正式釋出企業智慧作業系統產品allmeta後，為進一步落實全棧全場景AI戰略、完善算力業務佈局，經董事會討論決定，公司宣佈將正式進軍算力業務。此舉是公司將allmeta“企業語義基礎設施及token價值樞紐”定位向算力供給及服務延伸的具體舉措，公司將面向高專業價值Token運營，把握人工智慧時代算力作為核心生產要素之歷史機遇，構築可持續第二增長曲線的戰略部署。"
+    },
+    {
+      "id": "4915376",
+      "time": "2026-06-03 20:24:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【贖回壓力加劇 Partners Group對旗下一隻常青型基金實施贖回限制】由於贖回壓力加劇，Partners Group Holding AG正在對旗下一隻常青型私募股權基金實施贖回限制。此前衝擊私募信貸產品的投資者焦慮情緒，顯示出蔓延至私募市場其他資產類別的跡象。這家瑞士公司是歐洲最大的上市另類資產管理公司之一。根據一封致投資者信函，該公司表示，其規模86億美元的Global Value SICAV基金將把贖回額度限制在每季度基金淨資產值的5%。該基金在第二季度收到的贖回申請激增，預計達到9.8%。"
+    },
+    {
+      "id": "4915375",
+      "time": "2026-06-03 20:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新創華：“奧特曼”商標侵權案落槌，法院駁回奇奧再審申請】6月3日，新創華官微發文表示，上海市高階人民法院於近日就珠海奇奧天尊文化發展有限公司（下稱“奇奧公司”）等與上海新創華文化發展有限公司（下稱“新創華”）侵害商標權及仿冒糾紛一案作出再審裁定：駁回奇奧公司的全部再審申請。上海市高階人民法院認定：《1976年合同》第3.5條“商標權”應限於被授權人在行使9部影視劇相關著作權權益時必要使用的商標，且不包含授權當時並未註冊或使用的商標；新創華基於圓谷製作株式會社的許可，在我國境內就涉案“奧特曼”商標享有獨佔性權利及由此衍生的競爭利益。"
+    },
+    {
+      "id": "mkt:019e8d70-8e67-7ccb-b659-3cc0c2bc6bb0",
+      "time": "2026-06-03 20:23:44",
+      "tags": [
+        "MKT News",
+        "T.N",
+        "Impact bearish"
+      ],
+      "text": "Oppenheimer downgraded AT&T (T.N) to Market Perform from Outperform."
+    },
+    {
+      "id": "4915374",
+      "time": "2026-06-03 20:23:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【*ST中迪：全資子公司中美恆置業下屬地塊將被司法拍賣】*ST中迪(000609)6月3日公告，公司查詢獲悉，重慶市第一中級人民法院將於2026年7月2日10:00起至3日10:00止在“阿里資產·司法”網路平臺拍賣公司全資子公司重慶中美恆置業有限公司（簡稱“中美恆置業”）下屬位於重慶市北部新區人和（原北部新區金山組團）組團C分割槽C35-1-1/05號宗地及地上構、建築物。本次司法拍賣的起拍價為6.23億元。截至2025年度末，公司淨資產為-2.75億元，本次擬拍賣的標的物賬面價值為7.53億元。如果本次司法拍賣以底價成交，公司債務將有所下降，但也會導致公司總資產、淨資產的下降，並對未來損益產生一定的不利影響。"
+    },
+    {
+      "id": "mkt:019e8d6f-1220-7ccb-b659-371d1859321f",
+      "time": "2026-06-03 20:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's foreign minister said Argentina has formally expressed its intention to join the Comprehensive and Progressive Agreement for Trans‑Pacific Partnership (CPTPP)."
+    },
+    {
+      "id": "4915373",
+      "time": "2026-06-03 20:21:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大全能源：擬在崑山投資60億元建設智慧能源系統製造基地專案】大全能源公告，公司下屬企業大全能源科技（上海）有限公司與崑山經濟技術開發區管理委員會簽署《投資協議書》，約定在崑山開發區新設獨立法人主體，建設大全智慧能源系統製造基地專案，主要從事智慧能源系統解決方案及相關裝置（包括儲能系統、固態變壓器、固態斷路器和固態電池等產品）的研發、製造與銷售。專案總投資60億元，分兩期建設，一期專案投資總額約21億元，二期專案將待專案滿足相關產業政策條件及投資條件後擇機推進。"
+    },
+    {
+      "id": "mkt:019e8d6e-7085-7ccb-b659-28a9e1a2ff7c",
+      "time": "2026-06-03 20:21:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Insiders: local governments not underwriting small banks' capital supplementary bonds — only an acknowledgement, not a recommendation】Market rumor said local city and rural commercial banks must obtain a local government 'recommendation' to enter the regulatory approval channel for capital supplementary bond issuance. Insiders say this is a misreading: local governments, as shareholders, are only asked to issue a routine acknowledgement confirming awareness of the issuance and of possible write‑down triggers; the document is not a recommendation and does not imply a government backstop."
+    },
+    {
+      "id": "4915372",
+      "time": "2026-06-03 20:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷外長基爾諾：阿根廷已正式表達加入《全面與進步跨太平洋夥伴關係協定》（CPTPP）的意向。"
+    },
+    {
+      "id": "mkt:019e8d6e-3a57-7ccb-b659-27d92b60c27b",
+      "time": "2026-06-03 20:21:10",
+      "tags": [
+        "MKT News",
+        "USAR.O",
+        "Impact bullish"
+      ],
+      "text": "US Rare Earths (USAR.O) rose 3.3% in pre-market trading after reaching an agreement with the U.S. Commerce Department."
+    },
+    {
+      "id": "4915371",
+      "time": "2026-06-03 20:21:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國稀土股價盤前上漲3.3%，此前與美國商務部達成協議。"
+    },
+    {
+      "id": "mkt:019e8d6d-9b7c-7ccb-b659-1d904d86b304",
+      "time": "2026-06-03 20:20:27",
+      "tags": [
+        "MKT News",
+        "USAR.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Rare Earths (USAR.O) said it will issue 16.1 mln common shares and warrants to the U.S. Department of Commerce."
+    },
+    {
+      "id": "4915370",
+      "time": "2026-06-03 20:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中小銀行發資本債需地方推薦函？知情人士：實為知悉函】近日，有市場傳言稱，地方城商行、農商行申報資本補充債券，還須取得屬地政府出具的推薦函，方能進入監管審批通道。對此，知情人士在21世紀經濟報道記者求證時表示，該傳言是市場誤讀，沒有讓地方政府兜底的意思，只是地方作為股東應該知曉發行資本債的情況，也應該知悉資本債有觸發減記的情形。要求屬地地方政府出具的不是“推薦函”，而是“知悉函”，只是一個正常的資訊溝通環節。（21世紀經濟報道）"
+    },
+    {
+      "id": "4915369",
+      "time": "2026-06-03 20:20:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國自動資料處理公司報告：4月新增就業總人數從初值10.9萬人下修為10.5萬人。"
+    },
+    {
+      "id": "mkt:019e8d6c-9a71-7ccb-b659-14b162aa9b11",
+      "time": "2026-06-03 20:19:24",
+      "tags": [
+        "MKT News",
+        "USAR.O",
+        "Impact bullish"
+      ],
+      "text": "US Rare Earths (USAR.O) has received approval for a secured loan facility of up to $1.3 billion."
+    },
+    {
+      "id": "4915368",
+      "time": "2026-06-03 20:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "針對法國對希音（SHEIN）處以2200萬歐元罰款的決定，希音在回應時表示：我們不認同上述調查結論，並且認為該罰款金額明顯畸重。"
+    },
+    {
+      "id": "4915367",
+      "time": "2026-06-03 20:18:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1364.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019e8d6b-f651-7ccb-b659-08003ced5007",
+      "time": "2026-06-03 20:18:40",
+      "tags": [
+        "MKT News",
+        "USAR.O",
+        "Impact bullish"
+      ],
+      "text": "USA Rare Earth (USAR.O) reached a final agreement with the U.S. Commerce Department to secure up to $277 mln in federal funding."
+    },
+    {
+      "id": "4915366",
+      "time": "2026-06-03 20:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“小非農”人數錄得增加12.2萬人】美國5月ADP就業人數增加12.2萬人，為去年1月以來最大增幅。ADP首席經濟學家Nela Richardson表示：5月份的招聘增長比過去幾年我們所看到的情況更加廣泛。隨著夏季招聘季到來，勞動力市場繼續展現出持續的增長動能。ADP報告顯示 ：5月私營僱主新增就業12.2萬個崗位。上個月十個超級行業中有八個出現增長，各類規模的僱主均在招聘。5月在職留任員工薪資同比漲幅穩定在4.4%。跳槽換崗員工的薪資增速則略有放緩，由4月的6.6%小幅回落至6.5%。"
+    },
+    {
+      "id": "te:economy:556157",
+      "time": "2026-06-03 20:18:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change",
+        "Importance 3"
+      ],
+      "text": "US Private Sector Job Growth Tops Forecasts Again — Private businesses in the US added a net 122,000 jobs in May 2026, a new high since January 2025, compared to a downwardly revised 105,000 in April and above forecasts of 117,000. \"Hiring was more broad-based in May than we've seen in the last few years. The labor market continues to show sustained momentum going into the summer hiring season\", according to Dr. Nela Richardson Chief Economist, ADP. Job gains occured in education and health services (57K), trade, transportation, and utilities (36K), professional and business services (11K), leisure and hospitality (8K), construction (8K), financial activities (7K) and manufacturing (3K). In contrast, the natural resources and mining sector shed 3K jobs and information lost 9K. Meanwhile, companies with fewer than 50 employees added 67K new hires, those with 500 or more added 40K and medium-sized firms contributed 17K. Annual pay growth for those staying in their jobs stayed at 4.4% while for job-switchers it edge higher to 6.6%."
+    },
+    {
+      "id": "4915365",
+      "time": "2026-06-03 20:17:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科天成：股東大數成長減持計劃完成，累計減持2.36%股份】國科天成公告，大數成長已完成減持計劃，原計劃減持不超過538.28萬股（3%）。2026年5月25日至2026年6月2日透過集中競價減持64.2萬股、均價62.36元/股，透過大宗交易減持358.85萬股、均價59.32元/股，合計減持423.05萬股，佔總股本2.36%，持股比例由4.18%降至1.82%。"
+    },
+    {
+      "id": "4915364",
+      "time": "2026-06-03 20:17:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率最新上漲2.8個基點，報4.483%。"
+    },
+    {
+      "id": "mkt:019e8d6a-e2ba-7ccb-b659-07935f07f746",
+      "time": "2026-06-03 20:17:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US Treasury yields rose modestly after ADP employment data; the 10-year Treasury yield climbed 2.8 bps to 4.483%."
+    },
+    {
+      "id": "4915363",
+      "time": "2026-06-03 20:17:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國稀土公司擬將年產1萬噸重稀土金屬及合金的產能回遷本土。"
+    },
+    {
+      "id": "mkt:019e8d6a-9482-7ccb-b658-fd7bf05faeba",
+      "time": "2026-06-03 20:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "ADP report: May YoY pay growth for continuing employees held at 4.4%. Pay growth for job switchers eased to 6.5% from 6.6% in April."
+    },
+    {
+      "id": "mkt:019e8d6a-5cf8-7ccb-b658-f5e9f214e488",
+      "time": "2026-06-03 20:16:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "ADP report: U.S. private payrolls rose by 122,000 in May. Eight of 10 major industry groups recorded gains and hiring occurred across all employer-size classes."
+    },
+    {
+      "id": "4915362",
+      "time": "2026-06-03 20:16:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稀土：得克薩斯州圓頂稀土礦計劃於2028年實現商業化生產。"
+    },
+    {
+      "id": "4915361",
+      "time": "2026-06-03 20:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "ADP：美國 5 月服務業新增就業 11.4 萬人。"
+    },
+    {
+      "id": "mkt:019e8d69-b881-7ccb-b658-e8467f3ee0d6",
+      "time": "2026-06-03 20:16:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ADP chief economist Nela Richardson said May's hiring growth was broader than in recent years. With the summer hiring season underway, the labor market continues to show persistent growth momentum."
+    },
+    {
+      "id": "4915360",
+      "time": "2026-06-03 20:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "塞爾維亞能源部長表示，匈牙利莫爾石油集團（MOL）正尋求延長談判期限，以最終完成對塞爾維亞石油工業公司（NIS）的收購事宜。"
+    },
+    {
+      "id": "4915359",
+      "time": "2026-06-03 20:16:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國稀土公司與美國商務部敲定最終協議，獲得最高16億美元資金支援，以推進美國領先稀土價值鏈建設。"
+    },
+    {
+      "id": "4915358",
+      "time": "2026-06-03 20:15:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稀土專案相關協議包含最高2.77億美元聯邦資金，以及《晶片法案》項下13億美元貸款。"
+    },
+    {
+      "id": "4915357",
+      "time": "2026-06-03 20:15:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國稀土公司將向美國商務部發行1610萬股股票及1760萬份認股權證。"
+    },
+    {
+      "id": "4915356",
+      "time": "2026-06-03 20:15:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州上演“搶地”大戰：4宗宅地收金46億，最高溢價率超60%】6月3日，杭州2026年第10批次土拍舉行，共出讓4宗涉宅地塊，分別位於上城區九堡、西湖區雙橋、錢塘區下沙金沙湖及東部灣新城，總成交額46.2億元，平均溢價率41.9%，市場熱度持續高漲。（新京報）"
+    },
+    {
+      "id": "mkt:019e8d69-0630-7ccb-b658-e63eec6bc059",
+      "time": "2026-06-03 20:15:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【US ADP private payrolls +122k in May, largest since Jan last year】US May ADP private payrolls rose 122,000, the largest monthly increase since January last year."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606033759211676",
+      "time": "2026-06-03 20:15:24",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月ADP就業人數為增加12.2萬人，預期11.7萬人，前值10.9萬人。"
+    },
+    {
+      "id": "4915355",
+      "time": "2026-06-03 20:15:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "ADP資料顯示，美國製造業崗位增加8000個。"
+    },
+    {
+      "id": "4915354",
+      "time": "2026-06-03 20:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月ADP就業人數 12.2萬人，預期11.7萬人，前值10.9萬人。"
+    },
+    {
+      "id": "mkt:019e8d68-c63f-7ccb-b658-df02e1a1a95b",
+      "time": "2026-06-03 20:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US May ADP private payrolls +122k vs +117k expected; April +109k."
+    },
+    {
+      "id": "mkt:019e8d68-c531-7ccb-b658-d26e78760f8f",
+      "time": "2026-06-03 20:15:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish",
+        "600048.SS",
+        "CSI300"
+      ],
+      "text": "【Hangzhou land auction sees fierce bidding; four residential sites fetch 4.62 bln yuan, top premium above 60%】June 3 — Hangzhou's 10th 2026 land sale auctioned four residential parcels in Jiubao (Shangcheng), Shuangqiao (Xihu), Xiasha Jinsha Lake (Qiantang) and Eastern Bay New City for a total of 4.62 billion yuan. Average premium was 41.9% and the highest premium exceeded 60%, indicating sustained market heat."
+    },
+    {
+      "id": "mkt:019e8d68-90c7-7ccb-b658-cb75cdf450ef",
+      "time": "2026-06-03 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP Employment Change (May) | actual 122000K | consensus 117000K | previous 109000K"
+    },
     {
       "id": "4915353",
       "time": "2026-06-03 20:14:13",
@@ -255,6 +1046,15 @@
       "text": "歐盟提議對使用歐盟製造晶片的資料中心給予優先電網接入權，並降低其電網費用。"
     },
     {
+      "id": "4915334",
+      "time": "2026-06-03 20:07:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【ADP公佈前，美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。"
+    },
+    {
       "id": "4915333",
       "time": "2026-06-03 20:06:28",
       "tags": [
@@ -346,6 +1146,14 @@
         "其他"
       ],
       "text": "西部資料股東擬置換約 8.584 億美元 2028 到期高階可轉換債券。"
+    },
+    {
+      "id": "4915326",
+      "time": "2026-06-03 20:04:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧普光電：控股股東長春光機所擬減持不超過1%股份】奧普光電公告，控股股東中國科學院長春光學精密機械與物理研究所持有公司股份9935.4784萬股，佔公司總股本41.40%，計劃自2026年6月26日至2026年9月23日，以集中競價方式減持不超過240萬股（不超過公司總股本的1%）。減持原因為自身資金需求，減持價格根據市場價格確定。"
     },
     {
       "id": "4915325",
@@ -173110,779 +173918,6 @@
         "Importance 2"
       ],
       "text": "WTI Plunges as Iran Pledges Hormuz Shipping Recovery — WTI crude oil futures plunged 6% to $88.3 per barrel on Wednesday after Iranian state television said Tehran is committed to restoring commercial shipping through the Strait of Hormuz to pre-war levels within a month. The strait, which normally handles about 20% of global oil and LNG flows, remains a critical route for energy markets. At least two non-Iranian supertankers exited the chokepoint on Tuesday, marking the first movement in a week of roughly 4 million barrels of unrestricted crude through Hormuz. Oil prices have now fallen to near five-week lows and are down more than 16% in May after surging in March and April, supported by optimism that the US and Iran are moving closer to a deal to fully reopen the strait. An Iranian official said indirect talks with Washington are continuing, while US Secretary of State Marco Rubio warned that any peace agreement could still take several days to complete."
-    },
-    {
-      "id": "mkt:019e6972-8a38-7223-8ed2-f946129ba467",
-      "time": "2026-05-27 20:39:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Lebanese military: one soldier killed in Israeli airstrike on Bekaa region"
-    },
-    {
-      "id": "4902657",
-      "time": "2026-05-27 20:39:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍方稱一名士兵在以色列對貝卡谷地的空襲中喪生。"
-    },
-    {
-      "id": "mkt:019e6972-5129-7aa2-b030-82223f8c960e",
-      "time": "2026-05-27 20:39:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil inf 4.64% YoY exceeds BRAZIL CENTRAL BANK target】Brazil inf 4.64% YoY exceeds BRAZIL CENTRAL BANK target upper bound; May 1H consumer prices +0.62% MoM vs 0.57% median est; LULA's social aid and high borrowing costs complicate disinflation"
-    },
-    {
-      "id": "4902656",
-      "time": "2026-05-27 20:38:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中電電機：股東王建裕減持計劃實施完畢，合計減持3.00%股份】中電電機公告，股東王建裕先生此前披露計劃在2026年4月7日至2026年5月26日期間透過集中競價和大宗交易方式減持公司股份不超過3.00%。截至2026年5月26日，王建裕先生已透過集中競價減持235.2萬股（佔比1.00%）、大宗交易減持470.4萬股（佔比2.00%），合計減持705.6萬股，佔公司總股本3.00%，減持計劃已實施完畢。減持價格區間為21.55元/股至27.9元/股，減持總金額為1.7億元。本次減持後，王建裕先生持有公司股份3087.23萬股，佔公司總股本13.13%。"
-    },
-    {
-      "id": "4902655",
-      "time": "2026-05-27 20:38:26",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【雄韜股份：公司與華為、英偉達、微軟等不存在合作關係】雄韜股份釋出澄清公告，公司與華為公司釋出的韜（τ）定律相關概念與公司主營業務不存在關聯關係。公司不屬於“AI算力基礎設施核心供應商”，也不存在AI晶片、AI伺服器等核心算力基礎設施研發、生產與運營業務。公司與華為、位元組、英偉達、微軟暫無合作。公司的氫能業務仍處於商業化早期階段，2025年氫能板塊收入為869萬元，對公司經營業績影響很小。"
-    },
-    {
-      "id": "4902654",
-      "time": "2026-05-27 20:38:10",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【凱恩股份：澄清原子公司已轉讓，核心業務不含電解電容器紙】凱恩股份公告，公司股票於2026年5月25日、26日、27日連續3個交易日收盤價格漲幅偏離值累計超過20%。針對市場關於原子公司及主營業務的傳聞，公司澄清，原子公司浙江凱恩新材料有限公司主營業務為電解電容器紙，公司已於2023年5月10日完成對其控制權轉讓並全額收訖股權轉讓款，該子公司已不再納入合併報表範圍，公司目前核心業務為煙用配套用紙、特種食品包裝紙等，不包括電解電容器紙業務。公司近期經營情況正常，內外部經營環境未發生重大變化。"
-    },
-    {
-      "id": "4902653",
-      "time": "2026-05-27 20:36:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信維通訊：向特定物件發行股票申請獲中國證監會同意註冊批覆】信維通訊公告，公司收到中國證券監督管理委員會出具的《關於同意深圳市信維通訊股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1246號），同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送深圳證券交易所的申報檔案和發行方案實施。本批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "te:markets:554088",
-      "time": "2026-05-27 20:36:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Heating Oil is down by 5.08% — Heating Oil decreased 5.08% to 3.5258 USD/Gal"
-    },
-    {
-      "id": "4902652",
-      "time": "2026-05-27 20:36:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守92美元/桶，日內跌5.00%。"
-    },
-    {
-      "id": "4902651",
-      "time": "2026-05-27 20:36:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守88美元/桶，日內跌6.29%。"
-    },
-    {
-      "id": "4902650",
-      "time": "2026-05-27 20:35:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南部戰區新聞發言人翟士臣就荷蘭軍艦侵權行為發表談話】南部戰區新聞發言人翟士臣海軍大校表示，5月27日，荷蘭海軍“德魯伊特”號護衛艦非法侵闖中國西沙群島，多次升空艦載直升機侵入我國領空。中國人民解放軍南部戰區組織海空兵力，依法依規採取語音警告、警示性電子干擾等必要措施予以外逼驅離。荷方行徑嚴重侵犯中國領土主權和海空安全，嚴重違反國際法和國際關係基本準則，嚴重破壞南海和平穩定，極易引發誤解誤判。我們對此堅決反對，正告荷方立即停止侵權挑釁行徑。戰區部隊時刻保持高度戒備，堅決捍衛國家主權安全和地區和平穩定。（南部戰區）"
-    },
-    {
-      "id": "te:markets:554087",
-      "time": "2026-05-27 20:35:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "National Bank Of Canada earnings above expectations at 3.23 CAD — National Bank Of Canada (NA) released earnings per share at 3.23 CAD, compared to market expectations of 3.05 CAD."
-    },
-    {
-      "id": "te:markets:554086",
-      "time": "2026-05-27 20:35:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Bank of Nova Scotia earnings above expectations at 2.02 CAD — Bank of Nova Scotia (BNS) released earnings per share at 2.02 CAD, compared to market expectations of 1.93 CAD."
-    },
-    {
-      "id": "te:markets:554085",
-      "time": "2026-05-27 20:35:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Bank Of Montreal earnings above expectations at 3.67 CAD — Bank Of Montreal (BMO) released earnings per share at 3.67 CAD, compared to market expectations of 3.4 CAD."
-    },
-    {
-      "id": "4902649",
-      "time": "2026-05-27 20:34:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛彼迎行李寄存服務將先在日本東京試點推出，之後拓展至全球175座城市。"
-    },
-    {
-      "id": "4902648",
-      "time": "2026-05-27 20:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海關總署動植檢司負責人就對非洲建交國咖啡豆全面實現檢疫准入答記者問】中國將於7月20日起對所有非洲建交國咖啡豆全面實現檢疫准入，海關總署動植檢司負責人今天（5月27日）表示，5月20日，海關總署釋出第68號公告，允許非洲建交國符合要求的咖啡豆輸華，這是繼幹辣椒後再次在非洲建交國中實現全面檢疫准入的農產品。海關總署將持續落實升級後的“綠色通道”便利化措施，助力更多優質安全的非洲農食產品進入我國，與非洲國家分享發展機遇，也為我國消費者提供更加豐富多元的選擇。"
-    },
-    {
-      "id": "4902647",
-      "time": "2026-05-27 20:33:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛彼迎將與行李寄存平臺Bounce合作推出行李服務。"
-    },
-    {
-      "id": "mkt:019e696c-7474-7223-8ed2-e81b12b4f24f",
-      "time": "2026-05-27 20:32:53",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bearish",
-        "AAL.O",
-        "DAL.O"
-      ],
-      "text": "United Airlines, American Airlines and Delta Air Lines premarket shares fall about 2%"
-    },
-    {
-      "id": "mkt:019e696b-b743-7223-8ed2-e5d9958b3f37",
-      "time": "2026-05-27 20:32:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Stoxx Europe 600 oil & gas index hits intraday low; down 3.4% as Iran says draft US deal will reopen Strait of Hormuz shipping"
-    },
-    {
-      "id": "mkt:019e696b-a6d4-7223-8ed2-de05e440fe2a",
-      "time": "2026-05-27 20:32:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Multiple explosive drones strike northern Israel, Israel Defense Forces says"
-    },
-    {
-      "id": "4902646",
-      "time": "2026-05-27 20:31:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美股盤前，聯合航空、美國航空、達美航空股價上漲約2%。"
-    },
-    {
-      "id": "4902645",
-      "time": "2026-05-27 20:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：多架爆炸無人機襲擊以色列北部。"
-    },
-    {
-      "id": "4902644",
-      "time": "2026-05-27 20:31:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲600石油天然氣指數在伊朗稱美國協議草案將開放霍爾木茲海峽航運後觸及日內低點，當前下跌3.4%。"
-    },
-    {
-      "id": "mkt:019e696a-bc38-7223-8ed2-d4f306d820fd",
-      "time": "2026-05-27 20:31:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude falls below USD92/barrel; down 4.68% on day"
-    },
-    {
-      "id": "4902643",
-      "time": "2026-05-27 20:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧本海默將CrowdStrike目標股價從500美元上調至750美元。"
-    },
-    {
-      "id": "4902642",
-      "time": "2026-05-27 20:30:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡普里控股有限公司股價走勢反轉，盤前交易中最新跌幅約為7%。"
-    },
-    {
-      "id": "4902641",
-      "time": "2026-05-27 20:30:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌6%，現報88.17美元/桶。"
-    },
-    {
-      "id": "4902640",
-      "time": "2026-05-27 20:30:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅賓漢平臺推出 AI 股票交易功能，並支援信用卡購股。"
-    },
-    {
-      "id": "mkt:019e6968-f816-7223-8ed2-c922e2926aa5",
-      "time": "2026-05-27 20:29:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European Stoxx 600 hits intraday high; up 0.6%"
-    },
-    {
-      "id": "4902639",
-      "time": "2026-05-27 20:28:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "蒙特利爾銀行執行長達里爾·懷特表示，加拿大經濟前景仍喜憂參半：儘管通脹高企，且部分領域存在就業挑戰，預計短期內加拿大國內生產總值將實現溫和增長。"
-    },
-    {
-      "id": "4902638",
-      "time": "2026-05-27 20:28:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "加拿大蒙特利爾銀行（BMO）執行長達里爾·懷特表示，《美墨加協定》以及基建投資的影響，有望在中期為加拿大和美國推動更強勁的增長前景。"
-    },
-    {
-      "id": "4902637",
-      "time": "2026-05-27 20:28:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦洲際交易所（ICE）資料顯示，英國近月批發天然氣價格下跌5.5%，至每熱值單位109.00便士。"
-    },
-    {
-      "id": "4902636",
-      "time": "2026-05-27 20:28:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【乾照光電：擬出資1.53億元參與設立產業投資基金】乾照光電公告，公司擬與中建投資本管理（天津）有限公司、建投華科投資股份有限公司共同投資設立廈門鷺翔幹建新興產業股權投資合夥企業（有限合夥）。公司擬作為有限合夥人以自有資金出資1.53億元，持有合夥企業50.83%財產份額。合夥企業認繳出資總額3.01億元，主要投資商業航天全產業鏈中具有增長潛力的優質公司股權。截至本公告披露日，合夥企業尚未完成註冊登記。"
-    },
-    {
-      "id": "4902635",
-      "time": "2026-05-27 20:27:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "埃克森美孚盤前跌1.4%，雪佛龍跌1.7%。"
-    },
-    {
-      "id": "4902634",
-      "time": "2026-05-27 20:26:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利盟可睞（Moncler）股票停牌後復牌，股價上漲6.1%。"
-    },
-    {
-      "id": "4902633",
-      "time": "2026-05-27 20:25:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數觸及盤中高點，最新漲幅為0.5%。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202605273751490739",
-      "time": "2026-05-27 20:25:28",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【交易員下調英國央行加息押注】交易員下調英國央行加息押注，目前預計年內有一次25個基點的加息。"
-    },
-    {
-      "id": "mkt:019e6965-862c-7223-8ed2-c0f40173fa4c",
-      "time": "2026-05-27 20:25:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Traders cut BANK OF ENGLAND rate-hike bets; now price in one 25bp hike this year"
-    },
-    {
-      "id": "4902632",
-      "time": "2026-05-27 20:25:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶豐明源：擬減持不超過0.28%股份】晶豐明源公告，擬自本公告披露之日起15個交易日後的6個月內，透過集中競價交易方式出售不超過40.4萬股回購股份，佔公司當前總股本的0.28%。"
-    },
-    {
-      "id": "4902631",
-      "time": "2026-05-27 20:25:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美元大幅走低；伊朗國家電視臺稱，伊朗承諾在一個月內將透過霍爾木茲海峽的商業運輸船隻數量恢復至戰前水平。"
-    },
-    {
-      "id": "mkt:019e6965-473e-7223-8ed2-bafa5afb9cc0",
-      "time": "2026-05-27 20:25:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US Treasury yields fall further; 30-year yield down 3 bps to 4.99%"
-    },
-    {
-      "id": "4902630",
-      "time": "2026-05-27 20:24:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星湖科技：董事、副總經理閆小龍辭任董事，被取保候審】星湖科技公告，公司董事、副總經理閆小龍因個人原因辭去董事及董事會戰略發展與ESG委員會委員職務，辭職報告自2026年5月27日起生效。辭任後其仍擔任公司副總經理。此外，閆小龍作為黑龍江伊品能源有限公司時任法定代表人，因與該司有業務往來的第三方公司涉嫌非國家工作人員受賄被傳訊，牙克石市公安局對其出具《取保候審決定書》，取保候審期限自收到決定書之日起算。目前公司生產經營正常。"
-    },
-    {
-      "id": "4902629",
-      "time": "2026-05-27 20:24:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）資料顯示，近月荷蘭批發天然氣價格下跌5%，至每兆瓦時45.10歐元。"
-    },
-    {
-      "id": "4902628",
-      "time": "2026-05-27 20:24:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中南股份：擬以持有的寶武水務科技有限公司1.032%股權增資入股寶武集團環境資源科技有限公司】中南股份公告，為打造集固水氣一體的環境綜合治理綠色產業平臺，發揮整合協同效益，提升參股股權投資回報，公司擬與中國寶武鋼鐵集團有限公司、寶山鋼鐵股份有限公司、馬鋼（集團）控股有限公司等16家寶武水務股東共同將持有寶武水務科技有限公司股權作價增資入股寶武集團環境資源科技有限公司。其中，公司持有寶武水務股權比例為1.032%，增資入股交易完成後，公司不再直接持有寶武水務股權，將成為寶武環科的參股股東，持股比例預計為0.34%（最終以評估值計算為準），本次交易不涉及現金支付對價。"
-    },
-    {
-      "id": "4902627",
-      "time": "2026-05-27 20:24:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊斯蘭堡備忘錄框架尚未敲定；伊朗在未獲得“切實核查”之前不會採取任何行動。"
-    },
-    {
-      "id": "4902626",
-      "time": "2026-05-27 20:23:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率延續跌勢，30年期國債收益率下跌3個基點至4.99%。"
-    },
-    {
-      "id": "4902625",
-      "time": "2026-05-27 20:23:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【埃尼與馬石油合資企業預計2030年淨利潤將達27億美元】5月27日，據報道，義大利埃尼公司與馬來西亞國家石油公司計劃成立的合資企業SEARAH，預計到2030年將實現27億美元的淨利潤和67億美元的營收。"
-    },
-    {
-      "id": "mkt:019e6964-16a4-7223-8ed2-b7be376dc496",
-      "time": "2026-05-27 20:23:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran state tv says military vessels not included in draft agreement"
-    },
-    {
-      "id": "4902624",
-      "time": "2026-05-27 20:23:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利盟可睞（Moncler）股價上漲6.1%後，交易自動暫停。"
-    },
-    {
-      "id": "4902623",
-      "time": "2026-05-27 20:23:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨漲幅擴大至盤中高點0.4%。"
-    },
-    {
-      "id": "te:markets:554084",
-      "time": "2026-05-27 20:23:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline is down by 5.02% — Gasoline decreased 5.02% to 3.0588 USD/Gal"
-    },
-    {
-      "id": "4902622",
-      "time": "2026-05-27 20:23:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "交易員減少對英國央行加息的押注，目前傾向於今年加息一次，每次加息25個基點。"
-    },
-    {
-      "id": "4902621",
-      "time": "2026-05-27 20:22:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方直科技：股東靳清華及金羚執象完成增持，累計增持0.78%股份】方直科技公告，根據公司2025年11月簽署的《購買資產協議》約定，股東靳清華、北京金羚執象科技中心（有限合夥）應於上市公司支付交易對價後6個月內，將對價中的2500萬元用於全額購買上市公司股份。截至公告披露日，靳清華、北京金羚執象科技中心於2026年3月16日至2026年5月26日期間，透過集中競價交易方式合計累計增持公司股份195.18萬股，佔公司總股本比例0.78%，增持總金額為2500.58萬元（含交易費用），增持已實施完成。"
-    },
-    {
-      "id": "te:markets:554083",
-      "time": "2026-05-27 20:22:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Hits 5-week Low — Crude Oil decreased to 88.39 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Crude Oil WTI lost 11.28%, and in the last 12 months, it increased 43.36%."
-    },
-    {
-      "id": "mkt:019e6963-21c1-7223-8ed2-abef36d3965d",
-      "time": "2026-05-27 20:22:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "NZDUSD",
-        "Impact bullish"
-      ],
-      "text": "Dollar index DXY falls below 99, down 0.15% intraday; NZD/USD breaks above 0.59, up 1.09% intraday"
-    },
-    {
-      "id": "mkt:019e6963-1067-7223-8ed2-a7b67873833a",
-      "time": "2026-05-27 20:22:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US and Brent crude sell off; US crude down >5% at USD91.4/bbl; Brent down about 4% at USD92.6/bbl"
-    },
-    {
-      "id": "4902620",
-      "time": "2026-05-27 20:22:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：霍爾木茲海峽的船舶交通管理與航道通行將由伊朗與阿曼合作管控。"
-    },
-    {
-      "id": "te:markets:554082",
-      "time": "2026-05-27 20:22:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HSBC Holdings Stock Price Hits 22-year High — HSBC Holdings shares increased to 1413.00 GBp, the highest since May 2004. Over the past 4 weeks, HSBC Holdings gained 5.98%, and in the last 12 months, it increased 63.14%."
-    },
-    {
-      "id": "mkt:019e6962-d985-7223-8ed2-9970ea4761bc",
-      "time": "2026-05-27 20:22:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold up USD30 intraday to USD4457/oz"
-    },
-    {
-      "id": "te:markets:554081",
-      "time": "2026-05-27 20:22:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Safran Stock Price Hits 5-week High — Safran shares increased to 304.40 EUR, the highest since April 2026. Over the past 4 weeks, Safran gained 11.06%, and in the last 12 months, it increased 16.11%."
-    },
-    {
-      "id": "mkt:019e6962-61b1-7223-8ed2-96cab066b3e6",
-      "time": "2026-05-27 20:21:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude down 4.00% intraday at USD92.65/bbl; wti crude down 5.00% at USD91.46/bbl"
-    },
-    {
-      "id": "4902619",
-      "time": "2026-05-27 20:21:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【興業銀錫：以0.13澳元/股場外要約收購Far East Gold Limited，溢價34.02%】興業銀錫公告，公司指定全資子公司興業黃金（香港）礦業有限公司作為要約方，於2026年5月27日向在澳大利亞證券交易所上市的Far East Gold Limited全體股東發起自願性全面要約，要約價格為0.13澳元/股，較要約發起前最後一個交易日收盤價0.097澳元/股溢價34.02%。若目標公司所有股東均接受要約且成功，本次交易總投資額約0.38億澳元，約合人民幣1.86億元。截至公告日，要約方未與目標公司董事會達成一致意見，要約方已持有目標公司19.99%股份，為其第一大股東。"
-    },
-    {
-      "id": "4902618",
-      "time": "2026-05-27 20:21:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報92.74美元/桶。"
-    },
-    {
-      "id": "4902617",
-      "time": "2026-05-27 20:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺表示，本協議草案不涉及軍艦。"
-    },
-    {
-      "id": "4902616",
-      "time": "2026-05-27 20:21:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守89美元/桶，日內跌5.26%。"
-    },
-    {
-      "id": "4902615",
-      "time": "2026-05-27 20:21:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱，作為交換，伊朗已承諾在一個月內將透過霍爾木茲海峽的商業過境船舶數量恢復至戰前水平。"
-    },
-    {
-      "id": "4902614",
-      "time": "2026-05-27 20:20:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【博通美股盤前漲超2%】博通美股盤前漲超2%，現報430.488美元。"
-    },
-    {
-      "id": "4902613",
-      "time": "2026-05-27 20:20:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨延續漲勢，觸及盤中高點0.8%。"
-    },
-    {
-      "id": "4902612",
-      "time": "2026-05-27 20:20:30",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲：道指期貨漲0.28%，標普500指數期貨漲0.34%，納指期貨漲0.66%。\n②德國DAX指數漲0.32%，英國富時100指數漲0.11%，法國CAC40指數漲0.80%，歐洲斯托克50指數漲0.77%。\n③WTI原油跌3.35%，報90.74美元/桶。布倫特原油跌2.38%，報94.37美元/桶。\n④美聯儲信譽警報拉響! 前紐約聯儲主席警告2%通脹目標失守五年，“沃什時代”降息邏輯愈發薄弱。\n⑤高盛繼續看多美股：上調標普500目標至8000點，AI盈利浪潮仍在延續。\n⑥投行Piper Sandler唱衰“伊朗協議”敘事：霍爾木茲海峽恐繼續癱瘓，油價今夏劍指新高。\n⑦美光科技美股盤前漲超8%，該公司上個交易日收漲近20%，總市值突破1萬億美元。\n⑧拼多多美股盤前跌超8%，該公司第一季度營收1,062.3億元人民幣，預估1,086億元人民幣。\n⑨西部資料美股盤前漲超6%，巴克萊將其目標股價從450美元上調至620美元。"
-    },
-    {
-      "id": "4902611",
-      "time": "2026-05-27 20:20:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元上漲1%，創盤中新高。"
-    },
-    {
-      "id": "4902610",
-      "time": "2026-05-27 20:19:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺表示，根據諒解備忘錄草案，美軍將撤出伊朗周邊地區，並解除海上封鎖。"
-    },
-    {
-      "id": "4902609",
-      "time": "2026-05-27 20:19:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌5%，現報89.13美元/桶。"
-    },
-    {
-      "id": "mkt:019e695f-eda9-7223-8ed2-89361e037e1c",
-      "time": "2026-05-27 20:19:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran state television says draft preliminary informal memorandum of understanding with US"
-    },
-    {
-      "id": "4902608",
-      "time": "2026-05-27 20:18:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱已獲得伊朗與美國諒解備忘錄的初步非官方框架草案。"
-    },
-    {
-      "id": "4902607",
-      "time": "2026-05-27 20:17:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "PayPal執行長：旅遊消費增速有所放緩。"
-    },
-    {
-      "id": "4902606",
-      "time": "2026-05-27 20:17:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "PayPal執行長：正著手精簡管理層級。"
-    },
-    {
-      "id": "4902605",
-      "time": "2026-05-27 20:16:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST國化：控股股東中國文化產業發展集團擬增持不超過3.86%股份】*ST國化公告，控股股東中國文化產業發展集團有限公司現持股1.15億股，佔26.13%，擬於公司退市整理期透過上海證券交易所集中競價增持公司A股股份，不少於公司總股本的2%，不超過公司總股本的3.86%，增持價格上限4.6元/股，實施期限自公司股票復牌起至退市整理期結束，期間及法定期限內不減持。"
-    },
-    {
-      "id": "4902604",
-      "time": "2026-05-27 20:16:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "PayPal執行長：節約的成本將重新投入業務發展。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605273751484237",
-      "time": "2026-05-27 20:16:31",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "ADP資料顯示，截至5月9日的四周，美國私營部門就業人數平均每週增加35750人。"
-    },
-    {
-      "id": "4902603",
-      "time": "2026-05-27 20:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金仕達與華為聯合釋出AI風控一體機】近日，金仕達與華為聯合釋出了面向金融行業高效能運算的AI風控一體機，為行業提供自主可控的軟硬體一體化解決方案。同時，金仕達與玻色量子完成了戰略合作簽約，雙方將共同探索量子計算在投資組合最佳化、複雜風險模擬等前沿場景的應用，佈局下一代算力。據瞭解，金仕達透過自主研發春曉大模型、因果AI、高效能分散式架構等核心技術，致力於打造可解釋、可追溯、可信賴的智慧風控體系。"
-    },
-    {
-      "id": "mkt:019e695c-e1ce-7223-8ed2-821c2c040389",
-      "time": "2026-05-27 20:15:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Adp weekly employment report: private sector employers added an average of 35750 jobs per week in the four weeks to May 9, 2026"
-    },
-    {
-      "id": "mkt:019e695c-9059-7223-8ed2-7cf7f1022860",
-      "time": "2026-05-27 20:15:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US Adp weekly employment change to May 9 +35,750; prior +42,250"
     }
   ]
 }
