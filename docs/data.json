@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-03 12:16:33",
-  "count": 18451,
+  "updated": "2026-06-03 12:20:25",
+  "count": 18450,
   "items": [
+    {
+      "id": "mkt:019e8bb3-64fd-7ee2-b13f-332ba4c0eda3",
+      "time": "2026-06-03 12:17:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Bond market 'fat-finger' — institutional loss >30 mln yuan? 7-year policy bond's winning yield abnormally low】The Agricultural Development Bank of China on June 2 reissued a policy financial bond; the 7-year tranche 25 Nongfa Qingfa 07 (add-on 41) priced with an anomalously low winning yield of 1.3834% on an issuance up to 3 bln yuan, roughly 20bp below the prior-day secondary-market yield of 1.61%. The bank's same-day 2-year add-on 26 Nongfa Qingfa 09 (add-on 9) yielded 1.3750%, leaving the 7-year only 0.84bp richer than the 2-year. Market participants said a trader mis-entering a bid meant for the 2-year into the 7-year auction system cannot be ruled out; market rumors also circulated that an institutional loss exceeded 30 mln yuan, though that has not been confirmed."
+    },
+    {
+      "id": "mkt:019e8bb2-b4da-7ee2-b13f-292366e83a6f",
+      "time": "2026-06-03 12:16:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 5bp to 2.615%."
+    },
+    {
+      "id": "mkt:019e8bb2-b323-7ee2-b13f-25f1b3eb7ae2",
+      "time": "2026-06-03 12:16:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "JD.com",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Refinitiv, citing sources, reported DeepSeek plans to raise about $7 bln in a first funding round at a valuation of up to $59 bln; Tencent and CATL are expected to be the largest external investors, with NetEase and JD also planning to participate."
+    },
+    {
+      "id": "4914217",
+      "time": "2026-06-03 12:16:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲5個基點，至2.615%。"
+    },
     {
       "id": "mkt:019e8bb1-908b-7ee2-b13f-1aac7dbb775f",
       "time": "2026-06-03 12:15:30",
@@ -127,6 +172,15 @@
         "國際"
       ],
       "text": "俄羅斯任命的頓涅茨克地區領導人稱，無人機襲擊一輛公交車造成7人死亡、11人受傷"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606033758778830",
+      "time": "2026-06-03 12:08:52",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委溫施表示，即使美伊達成和平協議，也不會削弱歐洲央行加息的必要性。"
     },
     {
       "id": "mkt:019e8bab-54bb-7ee2-b13f-0ac10f0c260d",
@@ -169277,61 +169331,6 @@
         "其他"
       ],
       "text": "【我國5G基站總數超500萬個】工業和資訊化部最新統計顯示：今年以來，我國5G網路建設持續推進，截至4月末，5G基站總數達500.9萬個，比上年末淨增17.1萬個，佔移動基站總數的38.7%，較一季度提高0.5個百分點。5G使用者數快速增長，5G行動電話使用者達12.62億戶，比上年末淨增5758萬戶，佔行動電話使用者的68.7%。（人民日報）"
-    },
-    {
-      "id": "4901641",
-      "time": "2026-05-27 12:20:20",
-      "tags": [
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【媒體：特朗普和平委員會基金尚未收到捐贈資金】據英國《金融時報》援引四位知情人士訊息，由世界銀行設立、用於特朗普 “和平委員會”（Board of Peace）運作的官方基金，成立 4 個月來尚未收到任何捐贈資金。該委員會的一名發言人和另一位瞭解資金安排的知情人士透露，捐款資金直接存入委員會在摩根大通的賬戶，而非經由世界銀行管理的上述基金。和平委員會一名官員表示，“已設立多種資金接收渠道”，世界銀行基金只是其中之一。"
-    },
-    {
-      "id": "4901640",
-      "time": "2026-05-27 12:18:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車：小鵬集團入選廣東省戰略性新興產業投資引導基金首批簽約專案。"
-    },
-    {
-      "id": "4901639",
-      "time": "2026-05-27 12:18:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "英矽智慧：目前尚無任何第二上市確實計劃。"
-    },
-    {
-      "id": "4901638",
-      "time": "2026-05-27 12:18:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶永川特大暴雨受災區域全部恢復供電】記者5月27日從國網重慶市電力公司瞭解到，目前電力部門已順利完成永川特大暴雨受損電力設施搶修工作，受災區域全部恢復正常供電。（新華社）"
-    },
-    {
-      "id": "4901637",
-      "time": "2026-05-27 12:18:01",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【成本上升 抑制消費——伊朗戰事成美國經濟“減速帶”】近期，中東局勢持續緊張導致國際能源價格大幅攀升，加劇美國國內通脹壓力，致使消費者信心下滑。世界大型企業聯合會26日釋出的美國5月消費者信心指數走低，成為消費者信心低迷的最新例證。近期多個關鍵經濟資料顯示，作為美國經濟最大引擎的個人消費正面臨“啞火”風險，伊朗戰事將成為美國經濟增長的“減速帶”。美國研究機構世界大型企業聯合會釋出的初步調查結果顯示，美國5月消費者信心指數為93.1，低於4月修正後的93.8。美國密歇根大學22日釋出的調查資料顯示，美國5月消費者信心指數終值為44.8，創下自1952年有記錄以來的最低值，表明美國消費者對經濟前景異常悲觀。“消費者信心低迷，人們對通脹及消費成本上升憂心忡忡。”美國ELF彩妝公司執行長塔朗·阿明說。（新華社）"
-    },
-    {
-      "id": "mkt:019e67a7-49d4-700f-9791-21ed6fdc6db1",
-      "time": "2026-05-27 12:17:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix shares extend gains to 14%"
     }
   ]
 }
