@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-03 09:39:49",
-  "count": 18499,
+  "updated": "2026-06-03 09:43:45",
+  "count": 18489,
   "items": [
+    {
+      "id": "te:economy:555903",
+      "time": "2026-06-03 09:42:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "Australia Q1 GDP Growth Softer Than Expected — The Australian economy expanded 0.3% quarter-on-quarter in Q1 2026, below the expected 0.5% growth, and easing from a 0.9% expansion in Q4. This marked the softest economic growth in a year. Grace Kim, ABS head of National Accounts, noted the slower growth came with modest household and public sector expenditure as well as cyclone disruptions to mining and export activities."
+    },
+    {
+      "id": "4913970",
+      "time": "2026-06-03 09:41:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極佳視界與隆盛科技旗下隆盛唯睿達成深度戰略合作】近日，極佳視界與隆盛科技旗下隆盛唯睿正式達成深度戰略合作，合作方向圍繞模型合作、場景化的快速落地、本體聯合最佳化代工以及具身智慧產業推廣來展開。隆盛唯睿將依託於自有的省級平臺，透過超長時數採支撐的大模型高標準場景落地，積極推進與極佳視界在具身本體的深度協同，計劃在三年內實現本體代工和銷售1000臺的目標。"
+    },
+    {
+      "id": "4913969",
+      "time": "2026-06-03 09:40:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【速騰聚創：數字化鐳射雷達再獲一汽豐田量產車型定點 訂單規模超50萬臺】速騰聚創(02498.HK)宣佈，旗下數字化鐳射雷達再獲一汽豐田全新前裝量產車型定點，訂單規模超50萬臺。這是繼2025年底先後獲得一汽豐田旗下知名暢銷車型及某純電車型累計超百萬臺訂單後的又一重要合作。"
+    },
+    {
+      "id": "mkt:019e8b23-c94d-7ee2-b13b-ac489c3f2a06",
+      "time": "2026-06-03 09:40:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02498.HK",
+        "Impact bullish"
+      ],
+      "text": "【RoboSense (02498.HK) wins >500,000-unit FAW‑Toyota order for digital LiDAR】RoboSense (02498.HK) said its digital automotive LiDAR has been selected as a factory‑fit sensor for a new FAW‑Toyota production model, with orders exceeding 500,000 units. The deal follows earlier FAW‑Toyota orders—cumulative volumes of more than 1 million units across a popular ICE model and an electric model secured by end‑2025."
+    },
+    {
+      "id": "4913968",
+      "time": "2026-06-03 09:40:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "銅纜高速連線概念大幅走強，金田股份、鑫科材料雙雙漲停，金信諾漲超15%，顯盈科技、華工科技、神宇股份、中天科技漲超5%。"
+    },
+    {
+      "id": "4913967",
+      "time": "2026-06-03 09:39:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇】元件板塊短線拉昇，一博科技漲停， 迅捷興、晶賽科技漲超10%，達利凱普、麥捷科技、勝宏科技、中富電路、科翔股份等跟漲。"
+    },
+    {
+      "id": "4913966",
+      "time": "2026-06-03 09:39:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量542億元。"
+    },
+    {
+      "id": "4913965",
+      "time": "2026-06-03 09:39:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念震盪拉昇 同有科技漲超10%】儲存晶片概念震盪拉昇，同有科技漲超10%，江波龍、朗科科技、夏農芯創、德明利、兆易創新、大為股份、神工股份跟漲。"
+    },
     {
       "id": "mkt:019e8b22-772f-7ee2-b13b-a435b442ca31",
       "time": "2026-06-03 09:39:12",
@@ -169457,176 +169533,6 @@
         "Impact bullish"
       ],
       "text": "【Samsung Electronics Union Approves Pay Deal, Averts Strike】Samsung Electronics Korea union votes 74% (62,616) to approve interim pay deal, averting strike; agrees new 10-yr special performance-pay scheme for semiconductor unit; avg pay up 6.2%; provisional pact reached after Korean Labor Minister mediation"
-    },
-    {
-      "id": "te:economy:553882",
-      "time": "2026-05-27 09:43:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Australia Q1 Construction Output Tops Forecasts — Total construction work in Australia grew by 3.4% quarter-on-quarter to A$83,360.6 million in Q1 2026, surpassing market expectations of a 0.8% increase and the previous period’s revised 0.2% rise. The increase also marked the sharpest since the first quarter of 2023, largely driven by a 6.9% increase to A$38,652 million in engineering works. Additionally, building activity rose 0.6% to A$44,708.6 million, with a 6.9% gain in non-residential constructions, while residential projects declined 0.6%."
-    },
-    {
-      "id": "4901328",
-      "time": "2026-05-27 09:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【eVTOL企業沃蘭特航空完成約10億元C+輪融資】5月27日，國內商用客運eVTOL（電動垂直起降航空器）企業沃蘭特航空宣佈完成C+輪融資，總融資金額約10億元。4月底，沃蘭特剛剛完成一筆3億美元C輪融資。記者獲悉，本輪融資由由高鵠資本、華興資本擔任財務顧問，國壽科創領投、閔金投、蔚來資本、創投基石資本、沃蘭特老股東中網投跟投。沃蘭特航空成立5年以來，透過13輪市場化融資，已累計募集資金超50億元人民幣。"
-    },
-    {
-      "id": "4901327",
-      "time": "2026-05-27 09:43:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渝萬高鐵全線149座橋樑全部合龍】今天（27日）凌晨，隨著最後一段鋼混結合梁吊裝到預定位置，新建重慶至萬州高速鐵路全線控制性工程石沱長江大橋順利合龍，標誌著渝萬高鐵全線149座橋樑全部合龍。渝萬高鐵是我國“八縱八橫”高速鐵路主通道京昆、包海通道的重要組成部分，線路正線全長251公里，設計時速350公里。渝萬高鐵建成通車後，將加強重慶東北部三峽庫區城鎮群和主城區之間的密切聯絡，更好服務成渝地區雙城經濟圈建設。"
-    },
-    {
-      "id": "4901326",
-      "time": "2026-05-27 09:43:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型概念股拉昇，MINIMAX-W漲超8%，智譜漲近5%。"
-    },
-    {
-      "id": "4901325",
-      "time": "2026-05-27 09:42:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【榮耀Q1在中東市場出貨量同比大增73%】據權威分析機構Omdia資料顯示，榮耀Q1在中東市場出貨量同比大增73%，市場排名躍居第二，受益於強勁的中高階勢能，其300-500美元價位段份額上漲至24%，僅次於三星；拉美市場出貨量增長30%，排名第四；東南亞市場同比增長28%，其中高階市場新加坡份額首次挺進前三。"
-    },
-    {
-      "id": "4901324",
-      "time": "2026-05-27 09:42:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯想股價在香港一度上漲6.9%，現漲5.2%。"
-    },
-    {
-      "id": "4901323",
-      "time": "2026-05-27 09:42:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指數擴大漲幅，最新上漲1.6%，報4109.15點。"
-    },
-    {
-      "id": "te:markets:553879",
-      "time": "2026-05-27 09:41:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Hit New Record on Chip Rally — The benchmark KOSPI surged nearly 4% to around 8,360 on Wednesday, hitting a record high as a global AI-driven semiconductor rally boosted investor appetite for Korean technology shares. Strong overnight gains on Wall Street fueled heavy buying in Samsung Electronics (6.4%) and SK hynix (9.9%), with SK hynix joining rivals Samsung Electronics and Micron Technology in the $1 trillion market capitalization club. Other notable gainers included SK Square (10.2%), LG Innotek (4.0%), and HD Hyundai Co. (3.3%). Additional support came from improving business sentiment, which climbed to its highest level in more than three years, alongside optimism over South Korea’s semiconductor-driven economic outlook. Meanwhile, investors continued to monitor developments in the Middle East as renewed US military action against Iran tempered optimism surrounding ongoing ceasefire and peace negotiations, keeping concerns over energy prices and inflation risks in focus."
-    },
-    {
-      "id": "4901322",
-      "time": "2026-05-27 09:41:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【碳化矽概念再度走強 揚傑科技漲超10%創歷史新高】早盤碳化矽概念再度走強，揚傑科技漲超10%，股價創歷史新高，天嶽先進、英諾鐳射、捷捷微電、新潔能、晶升股份、時代電氣跟漲。"
-    },
-    {
-      "id": "te:economy:553878",
-      "time": "2026-05-27 09:41:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Australia Inflation Slows More Than Expected — The annual inflation rate in Australia eased to 4.2% in April 2026 from 4.6% in March, coming in below expectations for a slowdown to 4.4%, but still remaining above the central bank’s 2–3% target range. Goods inflation moderated to 4.7% from 5.5%, with transport costs rising at a slower pace of 6.6% (vs 8.9% in March), as automotive fuel prices eased following the halving of the fuel excise on April 1. Services inflation also edged lower to 3.5% from 3.6%. On a monthly basis, consumer prices increased 0.4%, slowing sharply from a 1.1% gain in March."
-    },
-    {
-      "id": "4901321",
-      "time": "2026-05-27 09:41:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋰礦概念走高 紅星發展2連板】鋰礦概念走高，紅星發展2連板，爭光股份、川恆股份、雲圖控股、億緯鋰能等漲幅居前。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605273750628121",
-      "time": "2026-05-27 09:41:19",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—4月份規模以上裝備製造業利潤同比增長15.4%】國家統計局資料顯示，1—4月份，規模以上裝備製造業利潤同比增長15.4%，拉動全部規模以上工業企業利潤增長5.4個百分點。從行業看，1—4月份，電子行業受需求增加、價格持續回升等因素帶動，行業利潤增長107.7%，對全部規模以上工業企業利潤增長的貢獻率達43.8%，是規模以上工業企業利潤較快增長的重要支撐。"
-    },
-    {
-      "id": "4901320",
-      "time": "2026-05-27 09:41:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代A股港股均漲超6%】寧德時代A股港股均漲超6%，訊息面上，寧德時代與東歐企業Solarpro Holding合作建設的601MWh大型儲能專案在保加利亞成功併網。"
-    },
-    {
-      "id": "mkt:019e6717-49d0-7cce-aa64-a17c6c16155b",
-      "time": "2026-05-27 09:40:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "LME Tin Up >1% Intraday to $55,322.20/mt"
-    },
-    {
-      "id": "mkt:019e6717-3eec-7cce-aa64-99c768e53c02",
-      "time": "2026-05-27 09:40:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN, DOWN 22.5 BILLION YUAN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605273750630451",
-      "time": "2026-05-27 09:40:34",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—4月份全國規模以上工業企業營業收入同比增長5.2%】國家統計局資料顯示，1—4月份，全國規模以上工業企業營業收入同比增長5.2%，較1—3月份加快0.2個百分點。其中，4月份全國規模以上工業企業營業收入增長5.7%，較3月份加快1.3個百分點。工業企業營業收入穩定增長為企業效益持續恢復提供重要支撐。"
-    },
-    {
-      "id": "4901319",
-      "time": "2026-05-27 09:40:27",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金黃金等在和田成立礦產開發新公司】企查查APP顯示，近日，中金（和田）礦產開發有限公司成立，法定代表人為屈海浪，註冊資本2億元，經營範圍包括礦產資源勘查、選礦、非煤礦山礦產資源開採等。企查查股權穿透顯示，該公司由中金黃金、中國黃金集團地質有限公司等共同持股。"
-    },
-    {
-      "id": "4901318",
-      "time": "2026-05-27 09:40:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【冠中生態與四川省生態發展集團達成戰略合作意向】據冠中生態訊息，5月22日，四川省生態發展集團正式揭牌成立。儀式現場，冠中生態與四川省生態發展集團達成戰略合作意向，願攜手助力四川生態保護修復與綠色高質量發展。"
     }
   ]
 }
