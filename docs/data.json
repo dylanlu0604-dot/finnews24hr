@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-04 00:48:24",
-  "count": 19165,
+  "updated": "2026-06-04 00:52:47",
+  "count": 19159,
   "items": [
+    {
+      "id": "mkt:019e8e63-6626-7443-8fe0-3727063767cd",
+      "time": "2026-06-04 00:48:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At a public hearing, Texas County voted 4-1 to establish a SpaceX reinvestment zone."
+    },
+    {
+      "id": "4915819",
+      "time": "2026-06-04 00:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將埃克森美孚的展望從穩定調整為正面。"
+    },
     {
       "id": "mkt:019e8e61-c151-7443-8fe0-2ec9274d376d",
       "time": "2026-06-04 00:47:11",
@@ -176394,86 +176410,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：特朗普賬戶應用將於明日上午正式上線。"
-    },
-    {
-      "id": "mkt:019e6a5a-4c69-7223-8ed7-019216d47dcd",
-      "time": "2026-05-28 00:52:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT: Ability to respond to energy price volatility has strengthened."
-    },
-    {
-      "id": "mkt:019e6a5a-10e1-7223-8ed6-fe2b0ce57264",
-      "time": "2026-05-28 00:52:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said price pressures are temporary and that oil prices will decline once the war ends."
-    },
-    {
-      "id": "4903032",
-      "time": "2026-05-28 00:51:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特稱私營部門就業崗位實現新增，並對此表示肯定。"
-    },
-    {
-      "id": "4903031",
-      "time": "2026-05-28 00:51:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行執行長Brian Moynihan表示，預計第二季度銷售和交易收入將較上年同期增長約15%。"
-    },
-    {
-      "id": "4903030",
-      "time": "2026-05-28 00:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們應對能源價格波動的抗壓能力有所增強。"
-    },
-    {
-      "id": "mkt:019e6a58-77d8-7223-8ed6-f0a688ddf1f6",
-      "time": "2026-05-28 00:50:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said U.S. real GDP grew 2.7% over the past four quarters."
-    },
-    {
-      "id": "4903029",
-      "time": "2026-05-28 00:50:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特：物價上漲只是暫時現象，戰爭結束後油價將會回落。"
-    },
-    {
-      "id": "4903028",
-      "time": "2026-05-28 00:50:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：過去四個季度實際GDP增長了2.7%。"
     }
   ]
 }
