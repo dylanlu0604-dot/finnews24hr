@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-04 02:32:25",
+  "updated": "2026-06-04 02:36:13",
   "count": 19124,
   "items": [
+    {
+      "id": "mkt:019e8ec5-2384-7443-8fe1-abe11bef61f0",
+      "time": "2026-06-04 02:35:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Lebanese TV channel Al-Mayadeen, Iran's foreign minister said contacts with the United States have not been severed, but negotiations have made no progress."
+    },
+    {
+      "id": "mkt:019e8ec3-c12b-7443-8fe1-a6dbb482e98c",
+      "time": "2026-06-04 02:34:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Fed's Beige Book: Employment Essentially Flat; Manufacturing Hiring Strong in Several Districts】Across the Fed's 12 districts, employment was essentially unchanged in 11 districts and slightly higher in one. Several districts reported the strongest hiring in manufacturing, driven by defense-related work and rising data-center demand. Wage growth remained modest-to-moderate and broadly in line with inflation, though districts said they are making more frequent wage and cost-of-living adjustments to offset rising fuel and other household costs. Most districts described cautious hiring and cautious layoffs; workers are increasingly reluctant to change jobs amid economic uncertainty, so hiring is concentrated on critical roles and replacing turnover. Demand in professional services was mixed, reflecting technology and operational shifts."
+    },
+    {
+      "id": "4915881",
+      "time": "2026-06-04 02:34:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據塔斯尼姆通訊社：伊朗外長稱伊美談判暫無實質性進展。"
+    },
+    {
+      "id": "4915880",
+      "time": "2026-06-04 02:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻利維亞新防長上任 強調恢復秩序】玻利維亞總統帕斯3日在該國行政首都拉巴斯舉行儀式，任命埃內斯托·胡斯蒂尼亞諾為新任國防部長，接替2日辭職的馬塞洛·薩利納斯。此次國防部長更換正值玻利維亞持續面臨社會抗議和道路封鎖之際。據當地媒體報道，抗議活動已持續超30天，全國仍有上百處封鎖點，部分地區物資運輸和民眾出行受到影響。（新華社）"
+    },
     {
       "id": "mkt:019e8ec1-10e3-7443-8fe1-9ac8b7cadb5d",
       "time": "2026-06-04 02:31:17",
@@ -176119,39 +176160,6 @@
         "國際"
       ],
       "text": "【挪威將接受法國“核保護傘”】挪威首相斯特勒27日表示，挪威將加入法國總統馬克龍提出的“前沿威懾”計劃，但不會改變有關核武器的基本政策。挪威媒體分析，這意味著挪威將被納入法國“核保護傘”框架。"
-    },
-    {
-      "id": "4903127",
-      "time": "2026-05-28 02:35:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前司法部長帕姆・邦迪稱其確診甲狀腺癌，術後正在接受治療。醫生稱絕大多數甲狀腺癌治癒率極高，存活率超98%。邦迪還定於週五就愛潑斯坦相關檔案爭議事宜出庭作證。"
-    },
-    {
-      "id": "4903126",
-      "time": "2026-05-28 02:35:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測2026年國內生產總值增速為1.1%，低於上一份季度報告中預測的1.6%。"
-    },
-    {
-      "id": "4903125",
-      "time": "2026-05-28 02:34:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊斯法罕國際機場停運80天后全面恢復運營。"
-    },
-    {
-      "id": "4903124",
-      "time": "2026-05-28 02:33:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，他計劃出席一場NBA總決賽，觀看家鄉球隊紐約尼克斯隊衝擊數十年來的首個總冠軍。"
     }
   ]
 }
