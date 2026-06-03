@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-03 23:58:30",
+  "updated": "2026-06-04 00:04:08",
   "count": 19185,
   "items": [
+    {
+      "id": "4915778",
+      "time": "2026-06-04 00:00:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯福利基金規模增至 1824.1 億美元。"
+    },
+    {
+      "id": "4915777",
+      "time": "2026-06-04 00:00:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "據知情人士透露，智利國家銅業公司（Codelco）將選擇Jorge Gomez為其CEO。"
+    },
+    {
+      "id": "mkt:019e8e37-26f6-7443-8fdf-8442c12e2167",
+      "time": "2026-06-04 00:00:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: Russia's Q1 capital investment fell 14.3% YoY."
+    },
+    {
+      "id": "4915776",
+      "time": "2026-06-04 00:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州銀行人質劫持事件結束 嫌犯被擊斃】據美國媒體3日報道，在加利福尼亞州貝克斯菲爾德市的一家銀行內被劫持的人質當天已經全部獲救，嫌犯被美國聯邦調查局人員擊斃。 據當地媒體報道，當地時間2日13時左右，一名據稱胸前綁有炸彈的男子在洛杉磯以北約180公里的貝克斯菲爾德市的一家大通銀行建築物內劫持了“多名人質”，導致附近區域被封鎖。當地警方和美國聯邦調查局派出的談判專家與該男子進行10多個小時的談判，有兩名人質在談判期間獲得釋放。 警方3日上午證實，在美國聯邦調查局人員開槍擊斃嫌犯後，“人質劫持事件宣告結束”。警方稱，沒有人質受傷，他們在現場接受了醫療檢查。(新華社)"
+    },
+    {
+      "id": "mkt:019e8e35-35ac-7443-8fdf-7b83fc0c8499",
+      "time": "2026-06-03 23:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the U.S. and the EU are committed to complying with trade agreements."
+    },
+    {
+      "id": "4915775",
+      "time": "2026-06-03 23:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：美歐雙方均承諾恪守雙邊貿易協定。"
+    },
+    {
+      "id": "4915774",
+      "time": "2026-06-03 23:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓大使館：再次提醒在菲律賓中國公民和企業加強安全防範】近段時間，菲律賓軍隊和執法部門針對在菲中國公民和企業的盤查滋擾以及選擇性執法頻發，在菲中國公民和企業面臨的安全風險上升。駐菲律賓使領館再次提醒在菲中國公民和企業密切關注當地形勢，切實加強安全防範，嚴格遵守當地法律法規，合法從業，合規經營，不從事與入境目的或簽證種類不符的活動，並避免逾期居留。如遇緊急情況，請及時聯絡使領館。（中國駐菲律賓大使館微信公眾號）"
+    },
+    {
+      "id": "te:markets:556224",
+      "time": "2026-06-03 23:57:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Tariff Threats and Middle East Tensions — The CAC 40 fell 0.7% to close at 8,150 on Wednesday, tracking broader European losses as investors weighed uncertainty surrounding the US-Iran conflict and fresh US tariff threats. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased. Financials weakened, with BNP Paribas down 1.3% and AXA losing 1.9%. Luxury shares also came under pressure, with LVMH shedding 3% and L'Oréal falling 2.2%. Airbus lost 2%, Safran retreated 1.4%, and Stellantis dropped 4% despite announcing new investments in France."
+    },
     {
       "id": "mkt:019e8e33-7672-7443-8fdf-71ccaa78f1b0",
       "time": "2026-06-03 23:56:37",
@@ -176561,82 +176629,6 @@
         "國際"
       ],
       "text": "特朗普：對伊朗核協議仍不滿意。"
-    },
-    {
-      "id": "4902978",
-      "time": "2026-05-28 00:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗希望達成協議。"
-    },
-    {
-      "id": "4902977",
-      "time": "2026-05-28 00:03:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：特朗普或將單方面宣佈與伊朗達成協議】伊朗法爾斯通訊社援引知情人士訊息報道稱，特朗普可能在未來幾小時內單方面宣佈：美國與伊朗已達成最終協議。法爾斯通訊社認為，此舉是美方在剩餘爭端徹底解決前，試圖施壓並引導公眾輿論的行為。伊朗談判團隊一名成員表示，目前仍有部分議題懸而未決；在伊朗提出的所有訴求得到滿足前，不會達成任何協議。該訊息人士稱，若所有爭議問題徹底解決，德黑蘭將正式公佈談判結果。"
-    },
-    {
-      "id": "4902976",
-      "time": "2026-05-28 00:01:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯4月工業生產同比增長1.9%。"
-    },
-    {
-      "id": "4902975",
-      "time": "2026-05-28 00:00:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯5月25日當週消費者價格指數年初至今上漲3.22%。"
-    },
-    {
-      "id": "4902974",
-      "time": "2026-05-28 00:00:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯5月25日當週消費者價格環比上漲0.07%。"
-    },
-    {
-      "id": "4902973",
-      "time": "2026-05-28 00:00:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【德意志銀行：全球五十大航天相關公司合計市值一年間飆升約300%】德意志銀行分析師Edison Yu表示，隨著航天和衛星類股票漲勢持續，全球50家市值最大的上市航天相關公司合計市值較一年前飆升約300%，達到4020億美元。Yu週三在致客戶的報告中寫道，航天股今年以來市值平均變動幅度為138%，相比之下，納斯達克指數為15%。他還表示，表現最好的個股漲幅約為2300%，表現最差的則下跌約60%。Yu指出：“北美航天公司今年以來平均市值上升223%，相比之下，亞洲航天公司為52%，歐洲航天公司為99%”。"
-    },
-    {
-      "id": "4902972",
-      "time": "2026-05-27 23:59:26",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利稱對沖基金青睞的美債策略正在收縮 反映出獲利機會稀缺】摩根士丹利的一項分析顯示, 對沖基金曾受到監管機構審視的一種熱門的美國國債交易策略正在收縮。由Eli P Carter牽頭的策略師估計，美國國債的現貨-期貨基差交易的規模已從今年早些時候1.5萬億美元的創紀錄高點降至1.35萬億美元。這種交易旨在從美國國債及其對應期貨合約之間的微小价差中獲利。規模下降反映出美國國債市場上能夠創造獲利機會的價格錯位稀缺，進而抑制了相對價值策略。雖然這些交易有助於為市場提供流動性，但在市場承壓時期，如果對沖基金需要迅速平倉，就可能會威脅到金融穩定。"
-    },
-    {
-      "id": "mkt:019e6a29-3838-7223-8ed5-ec140e3534c1",
-      "time": "2026-05-27 23:59:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Strait of Hormuz Shipping Sporadic, Now Near Standstill】On Wednesday, commercial traffic through the Strait of Hormuz plunged, with only a handful of Iran-linked vessels transiting, underscoring erratic passage through one of the world's most important energy chokepoints. Bloomberg-compiled vessel-tracking data showed only two vessels entered the Persian Gulf that day, while a fuel-oil tanker appeared to pause while exiting. The slowdown followed a day in which two international ultra-large oil tankers exited the waterway, producing a brief surge in outbound energy shipments. The volatility comes as markets await the outcome of US-Iran talks aimed at ending a conflict that had nearly closed the Strait. Earlier, Iran's state TV reported a draft memorandum of understanding (MoU) and said maritime shipping could normalize within a month; the US denied that report."
     }
   ]
 }
