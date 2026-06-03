@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-03 20:39:59",
-  "count": 18921,
+  "updated": "2026-06-03 20:44:12",
+  "count": 18918,
   "items": [
+    {
+      "id": "te:economy:556162",
+      "time": "2026-06-03 20:43:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Rise Further After Strong ADP Report — The yield on the US 10-year Treasury note climbed further to 4.49% on Wednesday after the ADP report showed that the private sector added 122K jobs in May, exceeding expectations and marking a new high since January 2025. The data pointed to a labor market that continues to gain momentum, reinforcing expectations that the Fed could raise interest rates later this year. Earlier this week, JOLTS data showed that job openings in April rose to their highest level since November 2024, further highlighting the resilience of labor demand. Treasury prices also came under pressure from escalating tensions in the Middle East, which pushed oil prices higher for a third consecutive session and renewed concerns about inflation. Markets now price in an 85% probability of a quarter-point Federal Reserve rate hike by year-end, up from 60% a week ago."
+    },
+    {
+      "id": "4915411",
+      "time": "2026-06-03 20:42:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜取代沃爾瑪成為按收入計最大的《財富》500強企業】根據新的《財富》500強排名，亞馬遜已超越沃爾瑪，成為按收入計算最大的公司。在《財富》雜誌釋出美國最大500家公司榜單的第72個年頭，沃爾瑪13年來首次失去榜首位置。亞馬遜2025年的收入超過7,000億美元，同比增長12%。沃爾瑪跌至第二位，而Alphabet在《財富》500強中上升兩位至第五位，並蟬聯“最賺錢公司”。Alphabet 1,320億美元的利潤數字創下了《財富》500強公司的紀錄。"
+    },
+    {
+      "id": "mkt:019e8d80-4adc-7ccb-b659-a6d8cfacb8aa",
+      "time": "2026-06-03 20:40:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【ADP data suggest U.S. labor market may still be accelerating】ADP reported May private payrolls rose by the largest monthly gain since Jan 2025, indicating the labor market may be accelerating despite higher energy costs linked to the Iran war. The data support a view of gradually improving labor conditions—vacancies rising and layoffs remaining low—and, if confirmed by official government employment reports, could shift odds toward Fed hikes rather than cuts in coming months."
+    },
+    {
+      "id": "mkt:019e8d80-3d91-7ccb-b659-9f9ed76c2220",
+      "time": "2026-06-03 20:40:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 futures turned lower; S&P 500 futures down 0.3%."
+    },
+    {
+      "id": "4915410",
+      "time": "2026-06-03 20:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為釋出新一代組串式構網PCS解決方案】在2026華為智慧光伏戰略&新品釋出會上，華為釋出全新一代組串式構網PCS解決方案、FusionSolar Agent智慧體技術架構等新品。華為數字能源總裁侯金龍表示：將拓展構網技術應用邊界，從儲能構網延伸至光伏構網、負荷構網等多元化場景，覆蓋儲能系統、逆變器、變流器、工商業源網荷儲、AIDC等，並推動AI全面落地新能源大基地、工商業及產業園區等各業務場景，讓AI從傳統輔助工具轉變為核心生產要素，華為數字能源正將數字化系統升級為能源AI智慧體。(科創板日報)"
+    },
+    {
+      "id": "4915409",
+      "time": "2026-06-03 20:39:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨轉跌，標普500指數期貨下跌0.3%。"
+    },
+    {
+      "id": "4915407",
+      "time": "2026-06-03 20:39:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古茗：自2026年6月3日起，由選用初始指定門檻更改為替代門檻】古茗(01364.HK)在港交所公告，董事會已於2026年6月3日決議，自2026年6月3日起，由選用初始指定門檻更改為替代門檻，以遵守上市規則第13.32B條項下有關最低公眾持股量要求。董事會認為，透過更改為選用替代門檻，本公司可於日後進行以資本管理為目的之交易（如股份購回）時享有更大靈活性。"
+    },
     {
       "id": "mkt:019e8d7e-6534-7ccb-b659-909092d61f9f",
       "time": "2026-06-03 20:38:51",
@@ -173821,103 +173894,6 @@
         "其他"
       ],
       "text": "【餘承東公佈問界成績單：問界M7累計交付45萬輛】5月27日問界M9釋出會上，華為常務董事餘承東公佈問界成績單：問界M5累計交付15.5萬輛；問界M6上市首月交付破2萬；問界M7累計交付45萬輛；問界M8交付18萬輛；問界M9累計交付28.5萬輛。"
-    },
-    {
-      "id": "4902664",
-      "time": "2026-05-27 20:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼表示，加拿大已啟動與薩博的談判，擬採購其全球眼預警機。"
-    },
-    {
-      "id": "4902663",
-      "time": "2026-05-27 20:42:57",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【藥店成診所“進貨點”？藥房銷售“迴流藥”？成都醫保局通報】成都市醫療保障局5月27日通報：近日，國家醫保局在開展定點零售藥店違法違規使用醫保基金專項飛檢工作中，發現天府新區泰安堂醫藥連鎖公司正興麗園大藥房銷售“迴流藥”，郫都區康惠仁堂藥店違規留存社會保障卡、協助套取醫保基金等問題。對此，成都醫保局高度重視，組成專門工作組，會同天府新區及郫都區醫保、市場監管、衛健等部門，對涉事藥店和人員進行調查核實。下一步，成都醫保局將根據實地調查核實情況，對涉事藥店和人員依法依規嚴肅處理。成都醫保局也將在全市範圍內持續開展打擊醫保藥品領域違法違規問題專項行動，深化醫保基金管理突出問題整治工作。"
-    },
-    {
-      "id": "te:markets:554094",
-      "time": "2026-05-27 20:42:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Tumbles as Iran Pledges Hormuz Shipping Recovery — Brent crude oil futures fell more than 4.5% to below $95 per barrel on Wednesday, after Iranian state television said Tehran is committed to restoring commercial shipping through the Strait of Hormuz to pre-war levels within a month. The strait, which normally handles about 20% of global oil and LNG flows, remains a critical route for energy markets. At least two non-Iranian supertankers exited the chokepoint on Tuesday, marking the first movement in a week of roughly 4 million barrels of unrestricted crude through Hormuz. Oil prices have now fallen to near five-week lows and are down more than 16% in May after surging in March and April, supported by optimism that the US and Iran are moving closer to a deal to fully reopen the strait. An Iranian official said indirect talks with Washington are continuing, while US Secretary of State Marco Rubio warned that any peace agreement could still take several days to complete."
-    },
-    {
-      "id": "4902662",
-      "time": "2026-05-27 20:42:04",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國鎖定伊朗新目標 為恢復打擊做準備】美國官員27日向媒體透露，美國國防部已擬定一份伊朗境內打擊目標清單，以備總統特朗普可能恢復對伊軍事行動。但訊息人士分析說，美國如果發動新打擊，難度比先前更大。 據美國全國廣播公司報道，五角大樓考慮將可能重啟的軍事行動命名為“大錘”，目標包括去年6月已遭美軍空襲的一些核設施，包括納坦茲和伊斯法罕核設施。美軍還可能打擊伊朗在哈爾克島的戰略石油設施，以及發電廠以及軍事指揮中心和通訊設施。 按知情人士的說法，伊朗境內許多已遭打擊的目標被認為是“唾手可得的果實”，因為那些目標“要麼固定不動，要麼沒有深埋在掩體裡”。但導彈發射器、無人機等目標如今變得更隱蔽和難以接近，對它們進行定位和精準打擊的難度大於先前。 美國全國廣播公司此前援引美國情報部門的評估報道，伊朗仍然具備“可觀”的作戰能力，戰機、小型艦艇並未被徹底擊毀，相當數量的導彈及其配套發射裝置因掩埋或轉移得以留存。 此外，多名美國官員透露，伊朗近期“有限重啟”國防工業生產，但目前尚不清楚美方對這些設施的瞭解程度，因為它們的位置相當隱蔽。 據伊朗塔斯尼姆通訊社27日報道，伊朗伊斯蘭革命衛隊海軍官員穆罕默德·阿克巴爾扎德表示，與美國重新發生戰爭的可能性“低”，但伊朗武裝力量已“裝滿彈匣”做好準備。 （新華社）"
-    },
-    {
-      "id": "4902661",
-      "time": "2026-05-27 20:41:43",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【立訊精密回應：積極整改，進一步完善反壟斷合規管理機制】立訊精密回應市場監管總局相關處罰時表示，本次處罰系公司收購聞泰科技部分業務未及時進行經營者集中申報。經主管機關調查評估，本項經營者集中不具有排除、限制競爭的效果。公司已收到並尊重相關行政處罰決定，將依法按期繳納90萬元罰款。該處罰不影響公司正常經營及財務狀況。公司高度重視反壟斷及經營者集中申報相關合規要求，已就本次事項積極整改，並進一步完善反壟斷合規管理機制。（證券時報）"
-    },
-    {
-      "id": "4902660",
-      "time": "2026-05-27 20:41:20",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國國債期貨躍升至日內高點 油價大跌】美國國債受到強勁買盤推動，期貨躍升至日內高點，市場對油價大跌作出反應。期貨成交量激增，三分鐘內成交約7萬張9月交割的10年期美國國債期貨合約。與週二收盤水平相比，美國國債收益率日內轉跌，10年期收益率在4.46%左右，日內跌3個基點。WTI期貨日內下跌5.5%，仍接近盤中低點。與美聯儲會期掛鉤的隔夜指數互換合約（OIS）略微轉鴿，顯示交易員預計到年底加息約15個基點，而週二收盤時為約18個基點。"
-    },
-    {
-      "id": "4902659",
-      "time": "2026-05-27 20:41:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST西發：擬2.92億元購買拉薩啤酒50%股權】*ST西發公告，擬支付現金2.92億元購買嘉士伯國際持有的西藏拉薩啤酒有限公司50%股權。交易完成後，上市公司將持有拉薩啤酒100%股權。本次交易不構成重大資產重組，不構成重組上市。"
-    },
-    {
-      "id": "4902658",
-      "time": "2026-05-27 20:40:22",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【凱投宏觀：投資者降低對英國基準利率上調的預期】在近期英國資料發出該國經濟疲軟的訊號後，投資者繼續降低對英國央行在未來幾個月加息的預期。上週的英國就業資料顯示，工資增長低於預期，且失業率略有上升。凱投宏觀的Jennifer McKeown在一份報告中表示：“我們認為，勞動力市場活動減弱將繼續抑制薪資壓力和基本通脹。”倫敦證券交易所集團的資料顯示，市場目前反映2026年英國基準利率將上調總計38個基點的預期，低於上週反映的54個基點的加息預期。"
-    },
-    {
-      "id": "te:markets:554092",
-      "time": "2026-05-27 20:40:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Near Flat as Investors Assess Bank Earnings — Futures tracking the S&P/TSX Composite Index were muted on Wednesday as investors assessed earnings from major banks while monitoring developments in the Middle East. Canada’s largest lenders have begun reporting quarterly results, with profits expected to rise despite trade tensions, the US-Iran conflict, and economic uncertainty. BMO posted a jump in profit, driven by solid performance in its capital markets division. Scotiabank also reported higher second-quarter profit, supported by strong trading revenue amid volatile markets. NBC is set to release results later in the day, while RBC, TD Bank, and CIBC are due to report on Thursday. Meanwhile, oil prices slipped as markets weighed a fragile US-Iran truce, with easing energy-driven inflation concerns weighing on bond yields, offering support to banks. Gold prices also declined, pressuring mining stocks. On the other hand, Silvercorp reported a jump in fourth-quarter revenue, helped by higher silver prices."
-    },
-    {
-      "id": "te:markets:554091",
-      "time": "2026-05-27 20:40:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Plunges as Iran Pledges Hormuz Shipping Recovery — WTI crude oil futures plunged 6% to $88.3 per barrel on Wednesday after Iranian state television said Tehran is committed to restoring commercial shipping through the Strait of Hormuz to pre-war levels within a month. The strait, which normally handles about 20% of global oil and LNG flows, remains a critical route for energy markets. At least two non-Iranian supertankers exited the chokepoint on Tuesday, marking the first movement in a week of roughly 4 million barrels of unrestricted crude through Hormuz. Oil prices have now fallen to near five-week lows and are down more than 16% in May after surging in March and April, supported by optimism that the US and Iran are moving closer to a deal to fully reopen the strait. An Iranian official said indirect talks with Washington are continuing, while US Secretary of State Marco Rubio warned that any peace agreement could still take several days to complete."
     }
   ]
 }
