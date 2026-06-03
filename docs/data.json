@@ -1,7 +1,263 @@
 {
-  "updated": "2026-06-03 18:59:09",
-  "count": 18880,
+  "updated": "2026-06-03 19:03:10",
+  "count": 18888,
   "items": [
+    {
+      "id": "4915189",
+      "time": "2026-06-03 19:02:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英諾賽科：完成H股全流通，合計3.74億股境內未上市股份已轉換為H股】英諾賽科公告，合計3.74億股境內未上市股份已於2026年6月3日轉換為H股，該等轉換H股將於2026年6月4日上午九時正開始於聯交所上市。"
+    },
+    {
+      "id": "4915188",
+      "time": "2026-06-03 19:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "IREN宣佈將在南澳大利亞開發容量為800兆瓦的資料中心園區。"
+    },
+    {
+      "id": "4915187",
+      "time": "2026-06-03 19:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE-100 指數收盤下跌 0.6%，報 170182.90 點。"
+    },
+    {
+      "id": "4915186",
+      "time": "2026-06-03 19:00:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠靈頓資管擬從哈特福德集團收購哈特福德基金業務。"
+    },
+    {
+      "id": "4915185",
+      "time": "2026-06-03 19:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合健康集團宣佈每股派發現金股息2.32美元，股息將於2026年6月23日支付。"
+    },
+    {
+      "id": "4915184",
+      "time": "2026-06-03 19:00:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞士創能：控股股東一致行動人擬被動減持不超過3%股份】 亞士創能公告，控股股東一致行動人上海潤合同彩持股2208.96萬股，佔5.15%，因融資融券違約或被強制平倉，擬被動減持不超過1285.79萬股，佔3%。減持期為2026年6月26日至2026年9月25日，方式為集中競價不超428.6萬股、大宗交易不超857.19萬股，本次事項不致變更控股股東及實際控制人。"
+    },
+    {
+      "id": "mkt:019e8d24-6824-744d-81c1-ea5cc3f5bc1e",
+      "time": "2026-06-03 19:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CPCA's Cui Dongshu: Fuel-dependent road tax system shows clear structural imbalance】CPCA secretary-general Cui Dongshu wrote that China’s traditional road tax system, tied to fuel consumption, now exhibits a clear structural imbalance and that a tax-system upgrade is imperative. He called for a new round of reform, saying tax policy should prioritize encouraging consumption and supporting livelihoods. Reform goals are to improve tax fairness, strengthen public infrastructure provision, stabilize aggregate consumption, and seek to avoid increasing ordinary households’ costs for private transport."
+    },
+    {
+      "id": "4915183",
+      "time": "2026-06-03 19:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至5月29日當週MBA抵押貸款購買指數 164.8，前值169.7。\n美國至5月29日當週MBA抵押貸款再融資活動指數 736.2，前值753.7。\n美國至5月29日當週MBA30年期固定抵押貸款利率 6.57%，前值6.65%。\n美國至5月29日當週MBA抵押貸款申請活動指數 252.8，前值259.4。"
+    },
+    {
+      "id": "mkt:019e8d24-200f-744d-81c1-e28b5bd83953",
+      "time": "2026-06-03 19:00:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Mortgage Bankers Association (MBA) mortgage applications index, week ended May 29: 252.8 vs 259.4 prior."
+    },
+    {
+      "id": "mkt:019e8d24-1e78-744d-81c1-dd305de33fb3",
+      "time": "2026-06-03 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "MBA 30-year fixed mortgage rate for the week ended May 29 fell to 6.57% from 6.65% the prior week."
+    },
+    {
+      "id": "mkt:019e8d24-1e70-744d-81c1-d30a9e0ffe5c",
+      "time": "2026-06-03 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage refinance activity index for week ended May 29: 736.2, prior 753.7."
+    },
+    {
+      "id": "mkt:019e8d24-1e12-744d-81c1-cfc679bff60f",
+      "time": "2026-06-03 19:00:06",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US MBA mortgage purchase index 164.8 in week ended May 29, down from 169.7 the prior week."
+    },
+    {
+      "id": "4915182",
+      "time": "2026-06-03 19:00:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "尼達姆維持對Alphabet的目標股價，為每股450美元。"
+    },
+    {
+      "id": "mkt:019e8d23-f07a-744d-81c1-c4976da019bb",
+      "time": "2026-06-03 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (May.29) | actual 252.8 | previous 259.4"
+    },
+    {
+      "id": "mkt:019e8d23-f072-744d-81c1-bda30bf05b78",
+      "time": "2026-06-03 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (May.29) | actual 6.57% | previous 6.65%"
+    },
+    {
+      "id": "mkt:019e8d23-f03a-744d-81c1-b5751dff51b5",
+      "time": "2026-06-03 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (May.29) | actual 736.2 | previous 753.7"
+    },
+    {
+      "id": "mkt:019e8d23-ed48-744d-81c1-a8c448b4836b",
+      "time": "2026-06-03 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (May.29) | actual 164.8 | previous 169.7"
+    },
+    {
+      "id": "mkt:019e8d23-e5d7-744d-81c1-a371ba5fbaa8",
+      "time": "2026-06-03 18:59:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: 5.7 magnitude earthquake 138 km southwest of Pistol River, Oregon."
+    },
+    {
+      "id": "mkt:019e8d23-9610-744d-81c1-9a5d3c439d6c",
+      "time": "2026-06-03 18:59:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Interfax reports the Russian Defence Ministry said it shot down 754 drones in the past 24 hours."
+    },
+    {
+      "id": "4915181",
+      "time": "2026-06-03 18:59:38",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會崔東樹：傳統依附於燃油消費的道路稅費體系已出現明顯結構性失衡，稅制迭代升級勢在必行】6月3日，乘聯分會秘書長崔東樹發表《傳承養路費改革初心 迭代適配新能源時代道路稅制體系》一文。其中提出，傳統依附於燃油消費的道路稅費體系，已出現明顯結構性失衡，稅制迭代升級勢在必行。他建議開展新一輪改革，期待稅制改革始終將“鼓勵消費、惠及民生”作為第一原則，改革目的是最佳化稅制公平、完善公共配套、穩定消費大盤，力爭不增加普通家庭代步用車負擔。具體核心建議如下：一是更名立新，摒棄傳統養路費的規費屬性，設立法定車輛道路使用稅，以法治化、透明化規則消除民眾“變相收費”的顧慮；二是科學計稅，依託北斗定位、國家車輛監管平臺與原廠備案資料，構建“里程+車重+工況載重”綜合計稅機制，徹底杜絕一刀切徵管；三是普惠兜底穩消費，設定私家車年度免稅里程額度，保障絕大多數家庭日常通勤、短途代步零稅負；四是公私分離施策，區分民生代步私家車與盈利性營運車輛，讓經營用車承擔對應公共成本、民生用車享受普惠紅利；五是試點漸進落地，選取典型區域先行試點、打磨細則、積累經驗，成熟後穩步全國推廣。"
+    },
+    {
+      "id": "te:economy:556146",
+      "time": "2026-06-03 18:59:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ghana Inflation Rate Up to 4-Month High of 3.7% — Ghana’s annual inflation rate increased for a second month to 3.7% in May 2026, from 3.4% in April, reaching its highest level since January. Food and non-alcoholic beverage inflation accelerated to 3.3% in May from 2.2% in April, while non-food inflation edged down slightly to 4.1% from 4.2%. On a monthly basis, the CPI rose by 1.1% in May, up from 1% in the prior month."
+    },
+    {
+      "id": "4915180",
+      "time": "2026-06-03 18:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特稱伊朗襲擊致1死多傷 外交使團駐地受損】科威特外交部3日發表宣告說，科威特國際機場等多處民用設施當天遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷。宣告說，當天的襲擊針對科威特關鍵民用基礎設施，並對包括外交使團駐地在內的設施造成了損壞。宣告強烈譴責“伊朗持續發動襲擊”，稱這將進一步加劇地區緊張局勢，並對科威特及海灣地區的安全穩定構成威脅。宣告說，這些襲擊違反國際法、《聯合國憲章》以及聯合國安理會相關決議。宣告強調科威特的主權、安全及本國公民和居民的安全是“不容逾越的紅線”。科方有權維護自身利益，並保留依據國際法採取適當措施回應伊方行為的所有合法權利。（新華社）"
+    },
+    {
+      "id": "mkt:019e8d23-60cb-744d-81c1-97dde08e1860",
+      "time": "2026-06-03 18:59:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "1211.HK",
+        "Impact mixed"
+      ],
+      "text": "【BYD confirms humanoid-robot R&D, cites auto-AI overlap】Chinese automaker BYD said it is developing humanoid robots. Executive Vice President Li Ke said competition will hinge on manufacturing, software and hardware capabilities and that BYD’s automotive AI has commonality with robotics; if robots become suitable for household use, BYD could sell them through its dealership network. The company said it could operate an open platform—building robots itself or partnering with others—and confirmed on June 3 that humanoid-robot R&D is underway."
+    },
+    {
+      "id": "mkt:019e8d23-4e47-744d-81c1-8e794d724b3f",
+      "time": "2026-06-03 18:59:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IATA head of fuel said many carriers are being severely affected by jet-fuel price volatility and are currently unable to hedge."
+    },
+    {
+      "id": "4915179",
+      "time": "2026-06-03 18:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅西百貨：2026財年第二季度及2026財年全年業績指引的假設前提為，今年剩餘時間關稅稅率與燃料成本將維持當前水平不變。"
+    },
+    {
+      "id": "4915178",
+      "time": "2026-06-03 18:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國部長稱，美國提出的強迫勞工相關申訴在歐盟層面不具備適用性。"
+    },
+    {
+      "id": "4915177",
+      "time": "2026-06-03 18:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部發布宣告，沙烏地阿拉伯以最嚴厲措辭譴責伊朗襲擊巴林與科威特。 沙特表示，支援科威特與巴林為維護自身主權和安全所採取的一切舉措。"
+    },
     {
       "id": "4915176",
       "time": "2026-06-03 18:58:25",
@@ -173339,189 +173595,6 @@
         "國際"
       ],
       "text": "歐盟委員會宣佈明年將啟用移動衛星頻譜新分配製度。"
-    },
-    {
-      "id": "4902440",
-      "time": "2026-05-27 19:03:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索公司已就修訂徵集同意書的相關提案取得各方同意。"
-    },
-    {
-      "id": "mkt:019e6919-f288-7223-8ed1-51194fc2ba08",
-      "time": "2026-05-27 19:02:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Russia Warns It Will Suspend Or Terminate 2013-12-02 Gas, Oil And Unprocessed Diamond Supply Agreement With Armenia If Yerevan Pursues EU Accession】Russia warns it will suspend or unilaterally terminate the Dec 2, 2013 gas, oil product and unprocessed natural diamond supply agreement with Armenia if Yerevan pursues EU accession; foreign ministry spokesperson Zakharova says the embassy delivered the energy minister's letter to Armenia's Ministry of Territorial Administration and Infrastructure"
-    },
-    {
-      "id": "4902439",
-      "time": "2026-05-27 19:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：記憶體漲價缺貨衝擊電子紙平板市場，智慧零售領域持續擴張】據CINNO Research，2026年第一季度，全球電子紙產業呈現分化態勢。電子紙平板市場在記憶體漲價和缺貨的雙重衝擊下出現明顯下行，整體出貨量同比下滑約26%，其中，電子紙閱讀器受影響最為嚴重，辦公本市場則保持相對穩健。與之形成鮮明對比的是，智慧零售市場延續增長勢頭，在終端需求拉動下，同比增長18%。"
-    },
-    {
-      "id": "4902438",
-      "time": "2026-05-27 19:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昊帆生物：員工戰略配售資管計劃擬減持不超過0.50%股份】昊帆生物公告，股東民生證券－中信銀行－民生證券昊帆生物戰略配售1號集合資產管理計劃持有54.18萬股，佔0.50%，擬於公告披露之日起15個交易日後的3個月內，透過集中競價或大宗交易方式減持不超過54.18萬股，佔公司總股本0.50%，股份來源為首次公開發行高管員工戰略配售。"
-    },
-    {
-      "id": "4902437",
-      "time": "2026-05-27 19:01:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：若亞美尼亞繼續加入歐盟程序 俄將暫停或終止油氣產品供應協議】當地時間5月27日，俄羅斯外交部發言人扎哈羅娃表示，俄方已正式通知亞美尼亞，如果其繼續推進加入歐盟的程序，俄方將暫停或單方面終止2013年12月2日簽署的《俄羅斯聯邦政府與亞美尼亞共和國政府關於向亞美尼亞共和國供應天然氣、石油產品和未加工天然鑽石的合作協議》。扎哈羅娃稱，俄羅斯駐亞美尼亞大使館同日已正式向亞方轉交了俄羅斯能源部長齊維廖夫致亞美尼亞領土管理和基礎設施部的信函，表達了上述立場。（央視新聞）"
-    },
-    {
-      "id": "4902436",
-      "time": "2026-05-27 19:01:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國電話電報公司有望達成2026年及多年期財務目標，並重申2026年經營業績指引。"
-    },
-    {
-      "id": "mkt:019e6918-986b-7223-8ed1-4e3d7c0010c8",
-      "time": "2026-05-27 19:01:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "GUINDOS says inf expectations remain stable"
-    },
-    {
-      "id": "mkt:019e6917-e2cd-7223-8ed1-40a77892f155",
-      "time": "2026-05-27 19:00:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US MBA mortgage refinance activity index for week to May 22 753.7; prior 920.2"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605273751437488",
-      "time": "2026-05-27 19:00:28",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國MBA抵押貸款申請指數上週下降8.5%。"
-    },
-    {
-      "id": "mkt:019e6917-ba31-7223-8ed1-3e4fa3d201aa",
-      "time": "2026-05-27 19:00:19",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US Mortgage Bankers Association 30-year fixed mortgage rate 6.65% week ended May 22; prior 6.56%"
-    },
-    {
-      "id": "4902435",
-      "time": "2026-05-27 19:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至5月22日當週MBA抵押貸款再融資活動指數 753.7，前值920.2。\n美國至5月22日當週MBA抵押貸款申請活動指數 259.4，前值283.5。\n美國至5月22日當週MBA30年期固定抵押貸款利率 6.65%，前值6.56%。\n美國至5月22日當週MBA抵押貸款購買指數 169.7，前值170.4。"
-    },
-    {
-      "id": "mkt:019e6917-a774-7223-8ed1-3633cd52bbc3",
-      "time": "2026-05-27 19:00:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US MBA mortgage applications index 259.4 for week to May 22; prior 283.5"
-    },
-    {
-      "id": "mkt:019e6917-a76a-7223-8ed1-29e2542c6934",
-      "time": "2026-05-27 19:00:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage purchase index 169.7 in week to May 22 vs 170.4 prior"
-    },
-    {
-      "id": "4902434",
-      "time": "2026-05-27 19:00:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臺積電CEO：今年全員平均分紅獎金漲幅將超30%】針對員工近期在網路上對激勵政策提出的疑慮，臺積電總裁魏哲家向內部員工表示，今年全員平均分紅獎金漲幅將超30%。作為全球人工智慧產業鏈的核心企業，臺積電在業績大增的同時，進一步擴大員工激勵力度。魏哲家此番表態也反映出，在人工智慧產業迎來空前繁榮、企業營收大幅增長的大背景下，行業龍頭企業面臨著越來越大的壓力，需要將不斷增長的收益更多地回饋給員工。本週，全球最大儲存晶片廠商三星電子的工會與公司達成協議，企業將向員工發放約270億美元獎金，此前工會曾揚言組織罷工。"
-    },
-    {
-      "id": "mkt:019e6917-61d4-7223-8ed1-1d50a7f57ca3",
-      "time": "2026-05-27 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (May.22) | actual 169.7 | previous 170.4"
-    },
-    {
-      "id": "mkt:019e6917-61d7-7223-8ed1-25ab8d22869f",
-      "time": "2026-05-27 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (May.22) | actual 6.65% | previous 6.56%"
-    },
-    {
-      "id": "mkt:019e6917-618e-7223-8ed1-142f63e84525",
-      "time": "2026-05-27 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (May.22) | actual 259.4 | previous 283.5"
-    },
-    {
-      "id": "mkt:019e6917-618c-7223-8ed1-0feb4aceeb6a",
-      "time": "2026-05-27 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (May.22) | actual 753.7 | previous 920.2"
-    },
-    {
-      "id": "4902433",
-      "time": "2026-05-27 18:59:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四方達：公司金剛石散熱片已透過海外客戶測試 進入小批次供貨階段】四方達(300179.SZ)釋出投資者關係活動記錄表公告，在PCD微鑽鑽頭方面，公司已具備直徑φ0.2mm-φ3mm等規格產品系列供應的能力。公司將持續關注PCD微鑽在PCB板等高階製造領域的應用方向，目前正在產品驗證階段，公司目前生產的PCD微鑽在M8和M9板子上的打孔數已達到萬孔級別。在CVD金剛石散熱領域，公司生產的CVD金剛石散熱片熱導率在2000W/（m·K）以上，可以用於高階科技產品，比如GPU散熱。目前，公司金剛石散熱片已透過海外客戶測試，驗證進展符合預期，並進入小批次供貨階段。同時，公司正加快推進沙雅年產2.5萬片CVD金剛石散熱基地建設，以更好匹配客戶對批次、穩定交付的需求，保障訂單順利落地。"
     }
   ]
 }
