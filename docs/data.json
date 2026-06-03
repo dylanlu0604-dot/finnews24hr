@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-03 20:52:23",
-  "count": 18925,
+  "updated": "2026-06-03 20:56:21",
+  "count": 18923,
   "items": [
+    {
+      "id": "te:markets:556167",
+      "time": "2026-06-03 20:52:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pull Back — Futures tracking US equity indices pulled back from records amid a hawkish outlook for the Federal Reserve and the prolonged impasse between Iran and the US. Contracts for the S&P 500 and Nasdaq 100 edged lower while the Dow fell over 200 points. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to consolidate the view of a strong labor market and add leeway for the Fed to raise rates and fight inflation. Stocks in traditional economic sectors dropped, with banks lower premarket. Still, bullish bets on AI demand and soaring orders for AI infrastructure continued to support the sector, resulting in another session of Nasdaq outperformance. Marvell surged 15% premarket to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Meanwhile, Macy's was 3% higher premarket after beating earnings estimates and upgrading their forecasts."
+    },
+    {
+      "id": "4915425",
+      "time": "2026-06-03 20:51:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【西方涉密檔案：“伊朗核風險被認為高於特朗普攻擊開始之前”】西方官員援引聯合國原子能監督機構釋出的最新資料稱，“如今伊朗秘密研發核武器的風險，較一年前美以首次對伊朗發動軍事打擊前有所上升”。一份受限涉密檔案顯示，國際原子能機構已向各成員國發出警示：伊朗囤積大量接近武器級標準的鈾原料，“催生了新的核擴散隱患”。在2025年6月空襲打響、歷時12天的戰事爆發前，這類核材料每週都要接受國際原子能機構核查，嚴防被挪用用於製造武器，但如今這套常態化核查機制已不復存在。兩名知悉報告內容的資深外交官表示，國際原子能機構的報告印證，美以對伊朗的軍事衝突催生了此前從未出現過的核困局。外交官稱，相關核材料脫離原子能機構保障監督管控的時間越久，被挪作非和平用途的風險就越高。這份上月在維也納分發、共計119頁的受限檔案寫明：機構“無法就這批核材料的去向與用途得出任何定論”。“由於機構無法完成核驗，而這批物資中包含大量高濃鈾，由此帶來嚴峻的核擴散隱患。”"
+    },
     {
       "id": "mkt:019e8d89-c008-7ccb-b659-d78c50cae8be",
       "time": "2026-06-03 20:51:15",
@@ -173928,44 +173949,6 @@
         "Important"
       ],
       "text": "United States | Redbook Retail Sales (YoY) (May.23) | actual 9% | previous 8.1%"
-    },
-    {
-      "id": "4902677",
-      "time": "2026-05-27 20:56:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【易方達旗下香港證券ETF減持7只券商H股】根據港交所最新公告，易方達基金旗下香港證券ETF對7只券商H股進行減持，合計減持金額達到1.57億港元。其中，光大證券被減持121.4萬股，賣出均價7.7923港元；中國銀河被減持638.46萬股，賣出均價7.9481港元；廣發證券被減持284.52萬股，賣出均價16.5368港元；國聯民生被減持109萬股，賣出均價4.326港元；中信建投被減持217.4萬股，賣出均價11.5124港元；中州證券被減持294.4萬股，賣出均價1.81港元；東方證券被減持253萬股，賣出均價5.9835港元。事實來看，這並非主動賣出，而是香港證券ETF規模減少後的被動減持，並因減持比例觸發了港交所的自動披露機制。截至5月26日，該ETF規模為205.62億元。"
-    },
-    {
-      "id": "te:markets:554099",
-      "time": "2026-05-27 20:55:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Gains on US-Iran Deal Optimism — Frankfurt's DAX 40 extended early gains on Wednesday afternoon. trading around 25,350, in line with other European peers. Market sentiment got a boost after Iran’s state TV said that it had access to a draft of the initial unofficial framework for a Memorandum of Understanding (MoU) between Iran and the United States. The document reportedly outlines military de-escalation in the region and a potential lifting of the maritime blockade in the Strait of Hormuz within a month. Consumer stocks and automakers provided the main support. Among individual stocks, Adidas led the way, surging over 7%, along with Puma. Continental (5.4%), Daimler Truck (4%), Mercedes-Benz Group (3.8%), Volkswagen (3%) and BMW (2.9%) also advanced firmly, buoyed by Volvo's strong performance and positive EU monthly car sales data."
-    },
-    {
-      "id": "4902676",
-      "time": "2026-05-27 20:55:36",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【華泰證券何康：2026年A股將呈現四大核心特徵】華泰證券研究所所長助理、策略首席兼金融工程首席何康在A股下半年策略中提到，年初至今A股的表現呈現明顯的盈利驅動特徵，AI硬體的強勢行情的基本面支撐較強。2026年下半年市場將呈現4大核心特徵：一是A股即將步入庫存與產能週期的共振向上階段，TMT和先進製造是此前盈利修復的主推力；二是科技行情或仍有演繹空間，相比歷次主線本輪盈利驅動屬性更強；三是市值及久期風格的內部偏離繼續加大，風格再平衡的向心力進一步增強；四是可關注電氣化、AI鏈、PPI-CPI剪刀差走闊等主題。此外，何康給出5條配置主線，分別是電力週期、技術週期、氣候週期、盈利週期和通脹週期。"
-    },
-    {
-      "id": "4902675",
-      "time": "2026-05-27 20:53:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海默科技：持股5%以上股東權益變動觸及1%刻度】海默科技公告稱，持股5%以上股東竇劍文於2026年4月29日至5月11日，透過集中競價交易減持294萬股，持股比例由7.61%降至7.03%。5月21日，因公司2025年限制性股票激勵計劃增發4037萬股，公司總股本增加，竇劍文持股比例稀釋至6.51%，權益變動觸及1%整數倍。此次減持在已披露的減持計劃範圍內，減持計劃尚在進行中。"
     }
   ]
 }
