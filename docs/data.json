@@ -1,7 +1,198 @@
 {
-  "updated": "2026-06-03 20:07:19",
-  "count": 18908,
+  "updated": "2026-06-03 20:11:24",
+  "count": 18922,
   "items": [
+    {
+      "id": "4915348",
+      "time": "2026-06-03 20:10:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gopuff與CO和SpaceX AI宣佈推出由生成式人工智慧驅動的個人購物服務，可在數分鐘內完成訂單預測並配送。"
+    },
+    {
+      "id": "mkt:019e8d64-6d3d-7ccb-b658-b8e713f6b904",
+      "time": "2026-06-03 20:10:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. European Command says European allies and Canada can bolster support by deploying manned and unmanned aircraft and providing naval vessels."
+    },
+    {
+      "id": "mkt:019e8d64-4f01-7ccb-b658-b01719c0130f",
+      "time": "2026-06-03 20:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. European Command said the adjustment will make NATO defense plans \"more realistic\" and ensure they are not overly reliant on U.S. forces."
+    },
+    {
+      "id": "4915347",
+      "time": "2026-06-03 20:10:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍高層表示，歐洲盟友及加拿大可增派有人駕駛航空器、無人機與海軍艦艇參與行動。"
+    },
+    {
+      "id": "mkt:019e8d63-4d87-7ccb-b658-af4405630254",
+      "time": "2026-06-03 20:09:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "MSFT.O",
+        "Impact bearish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "EU technology chief says the EU cloud computing plan is likely to exclude large tech companies from key public procurement tenders."
+    },
+    {
+      "id": "4915346",
+      "time": "2026-06-03 20:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍方高層表示，這一調整將讓北約防務計劃“更貼合實際”，並確保不會過度依賴美軍兵力。"
+    },
+    {
+      "id": "mkt:019e8d63-04c2-7ccb-b658-a1d9ac56e2d2",
+      "time": "2026-06-03 20:08:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Europe & UK",
+        "STM.PA",
+        "Impact bullish",
+        "IFX.DE",
+        "EURUSD"
+      ],
+      "text": "EU proposes granting data centers using EU-made chips priority grid access and reduced network usage charges. The chip proposal aims to boost demand for domestically manufactured semiconductors."
+    },
+    {
+      "id": "4915345",
+      "time": "2026-06-03 20:08:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝因美：實際控制人擬變更為金華市國資委】貝因美(002570.SZ)公告稱，公司實際控制人謝宏透過控股股東小貝大美控股控制公司12.28%股份，其中98.85%被質押或凍結。根據重整計劃，重整投資人金華臻合將透過收購小貝大美控股100%股權及一致行動人金華元恆持股，合計控制公司13.35%股份。完成後，公司實際控制人將變更為金華市國資委。金華臻合等承諾股份鎖定期60個月，且36個月內不質押股份。本次權益變動尚需國資監管機構批准，存在不確定性。"
+    },
+    {
+      "id": "4915344",
+      "time": "2026-06-03 20:08:34",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "Shake Shack股價盤前下跌1%，此前摩根士丹利將其股票評級下調至“持平”。"
+    },
+    {
+      "id": "mkt:019e8d62-ab1a-7ccb-b658-988ae07db3fe",
+      "time": "2026-06-03 20:08:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US European Command said the US government has notified NATO allies it will make \"appropriately scaled adjustments\" to its contribution to the NATO force model."
+    },
+    {
+      "id": "4915343",
+      "time": "2026-06-03 20:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟要求成員國排查雲服務供應商的主權風險。"
+    },
+    {
+      "id": "4915342",
+      "time": "2026-06-03 20:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：歐洲議會與歐洲聯盟理事會將就提案展開談判。"
+    },
+    {
+      "id": "4915341",
+      "time": "2026-06-03 20:07:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國歐洲司令部表示，美國政府已告知北約盟國，美方將對其向北約部隊模型提供的出資進行“規模合理化調整”。"
+    },
+    {
+      "id": "4915340",
+      "time": "2026-06-03 20:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：一攬子計劃包含《晶片法案2.0》與《雲與人工智慧發展法案》。"
+    },
+    {
+      "id": "4915339",
+      "time": "2026-06-03 20:07:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟官員在推進技術主權程序中，鼓勵在歐盟境內擴建資料中心。"
+    },
+    {
+      "id": "mkt:019e8d61-9eee-7ccb-b658-9537de2e97b5",
+      "time": "2026-06-03 20:07:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "European Commission announces measures to support EU cloud service providers, semiconductor manufacturers and AI companies."
+    },
+    {
+      "id": "4915338",
+      "time": "2026-06-03 20:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟科技主管表示，歐盟雲計劃很可能將大型科技企業排除在關鍵性公共招標之外。"
+    },
+    {
+      "id": "4915337",
+      "time": "2026-06-03 20:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會宣佈多項舉措，扶持歐盟雲服務提供商、晶片製造商與人工智慧企業發展。"
+    },
+    {
+      "id": "mkt:019e8d61-6034-7ccb-b658-8dde4c002a3c",
+      "time": "2026-06-03 20:07:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spanish prime minister Sanchez said he opposes setting up migrant processing centres outside the EU, calling them useless."
+    },
+    {
+      "id": "4915336",
+      "time": "2026-06-03 20:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟晶片提案旨在提振對本土晶片的需求。"
+    },
+    {
+      "id": "4915335",
+      "time": "2026-06-03 20:07:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟提議對使用歐盟製造晶片的資料中心給予優先電網接入權，並降低其電網費用。"
+    },
     {
       "id": "4915333",
       "time": "2026-06-03 20:06:28",
@@ -173709,63 +173900,6 @@
         "公司"
       ],
       "text": "【匯綠生態：擬11.27億元購買武漢鈞恆49%股權並調整交易方案】匯綠生態公告稱，公司擬透過發行股份及支付現金的方式，以11.27億元向彭開盛等7名交易對方購買武漢鈞恆49%的股權，並募集配套資金。因審計基準日變更及實施2025年度分紅派息，公司調整了發行價格、數量、鎖定期、業績承諾等交易方案。業績承諾方承諾，標的公司2026 - 2028年度淨利潤分別不低於1.83億元、2.32億元、2.92億元，合計7.07億元。本次交易構成重大資產重組。"
-    },
-    {
-      "id": "4902594",
-      "time": "2026-05-27 20:10:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度計劃舉辦路演，推廣煤炭氣化專案。"
-    },
-    {
-      "id": "4902593",
-      "time": "2026-05-27 20:10:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠方資訊：股東遠方長益擬減持不超過0.95%股份】遠方資訊公告，公司持股5%以上股東杭州遠方長益投資有限公司持有5076.76萬股，佔18.88%；計劃自本公告披露之日起15個交易日後的3個月內，透過集中競價或大宗交易方式減持不超過255.5萬股，佔0.95%。"
-    },
-    {
-      "id": "4902592",
-      "time": "2026-05-27 20:10:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "古馳執行長表示：一級方程式賽車如今匯聚了卓越效能、潮流文化與全球影響力，是獨一無二的存在。"
-    },
-    {
-      "id": "4902591",
-      "time": "2026-05-27 20:09:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "古馳：從2027賽季開始，Alpine車隊將以“古馳賽車Alpine一級方程式車隊”的名義參賽。"
-    },
-    {
-      "id": "4902590",
-      "time": "2026-05-27 20:09:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日媒曝高市團隊“抹黑門”新料】日本首相高市早苗的團隊被曝僱人製作影片抹黑競選對手後，高市在國會面對盤問，堅稱自己和團隊與此事無關。然而，日本媒體27日再度曝出“抹黑門”新料，說影片製作者用手機註冊大量社交媒體賬號，透過人工智慧軟體“海量”製作並傳播影片。據《週刊文春》網路版報道，“抹黑門”事件主要人物之一、影片製作者松井健透露，他在高市的秘書木下剛志授意下，製作並散佈大量抹黑高市黨內競爭對手和在野黨候選人的影片。松井健和影片團隊準備了約20部智慧手機，在每部手機上建立3個谷歌郵箱賬號，隨後在各大社交媒體和影片平臺散佈抹黑影片。（新華社）"
-    },
-    {
-      "id": "4902589",
-      "time": "2026-05-27 20:09:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團旗下古琦攜手阿爾派車隊，牽手進入一級方程式賽車。"
-    },
-    {
-      "id": "4902588",
-      "time": "2026-05-27 20:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【段永平增持泡泡瑪特】5月27日，港交所資訊顯示，泡泡瑪特迎來主要股東權益變動，段永平與H&H International Investment, LLC同步增持公司股份，一致行動人持股比例達5.69%，觸發強制披露要求。"
     }
   ]
 }
