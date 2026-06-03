@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-04 01:08:41",
-  "count": 19136,
+  "updated": "2026-06-04 01:12:41",
+  "count": 19127,
   "items": [
+    {
+      "id": "4915836",
+      "time": "2026-06-04 01:10:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社援引伊朗談判團媒體組成員訊息：相關談判仍在推進，尚未作出最終決議。"
+    },
+    {
+      "id": "mkt:019e8e76-a068-7443-8fe0-7d908a980dd8",
+      "time": "2026-06-04 01:09:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media Fars News, citing a member of Tehran's negotiating team, said talks are ongoing and no final decision has been made."
+    },
+    {
+      "id": "mkt:019e8e76-4c46-7443-8fe0-7687dd7ff305",
+      "time": "2026-06-04 01:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say Anthropic has selected Morgan Stanley and Goldman Sachs to co-lead its IPO, with JPMorgan joining the syndicate."
+    },
     {
       "id": "4915834",
       "time": "2026-06-04 01:07:41",
@@ -176102,114 +176128,6 @@
         "國際"
       ],
       "text": "特朗普：如果海灣國家不簽署《亞伯拉罕協議》，我認為我們就不該和伊朗達成協議。"
-    },
-    {
-      "id": "4903065",
-      "time": "2026-05-28 01:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若《亞伯拉罕協議》無法落實，我不確定是否還要與伊朗達成協議。"
-    },
-    {
-      "id": "mkt:019e6a6c-0ad2-7223-8ed7-ba561854519c",
-      "time": "2026-05-28 01:12:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: Agreement must be perfect."
-    },
-    {
-      "id": "4903064",
-      "time": "2026-05-28 01:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：協議必須盡善盡美。"
-    },
-    {
-      "id": "4903063",
-      "time": "2026-05-28 01:11:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：我絕不會達成一份糟糕的協議。"
-    },
-    {
-      "id": "4903062",
-      "time": "2026-05-28 01:11:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與伊朗達成框架協議後，霍爾木茲海峽將立即開放通航。"
-    },
-    {
-      "id": "mkt:019e6a6b-b609-7ccc-b815-efa6794e5a83",
-      "time": "2026-05-28 01:11:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP: After a framework agreement is reached with Iran, the Strait of Hormuz will be opened immediately."
-    },
-    {
-      "id": "mkt:019e6a6b-73ad-7223-8ed7-afdc14e80424",
-      "time": "2026-05-28 01:11:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP said we may discuss ending fuel tax relief."
-    },
-    {
-      "id": "4903061",
-      "time": "2026-05-28 01:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步增持Delivery Hero股權，對後者估值為120億歐元。"
-    },
-    {
-      "id": "4903060",
-      "time": "2026-05-28 01:10:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談可能暫停徵收燃油稅：我們拭目以待。"
-    },
-    {
-      "id": "4903059",
-      "time": "2026-05-28 01:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談燃油稅減免：這或許值得我們討論。"
-    },
-    {
-      "id": "mkt:019e6a6a-5e43-7ccc-b815-e4acd21d7b1c",
-      "time": "2026-05-28 01:10:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. equity indices dipped briefly; the S&P 500 turned negative, while the Dollar Index DXY ticked up modestly intraday."
-    },
-    {
-      "id": "4903058",
-      "time": "2026-05-28 01:09:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "標準普爾500指數轉跌，最新下跌0.21%。"
     }
   ]
 }
