@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-04 06:40:40",
-  "count": 19226,
+  "updated": "2026-06-04 06:44:21",
+  "count": 19228,
   "items": [
+    {
+      "id": "4916092",
+      "time": "2026-06-04 06:43:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quantinuum IPO發行2800萬股，發行價定為每股60美元。"
+    },
+    {
+      "id": "4916091",
+      "time": "2026-06-04 06:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一代AppleWatch續航或升級】蘋果正在開展高遷移率氧化物（HMO）新型OLED背板技術的評估工作。 若該技術落地應用，新一代Apple Watch有望進一步降低螢幕功耗，最佳化續航表現。"
+    },
+    {
+      "id": "mkt:019e8fa6-6ab4-7443-8fe5-8687ed71fa4f",
+      "time": "2026-06-04 06:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Talks between Lebanon and Israel have ended."
+    },
+    {
+      "id": "te:markets:556263",
+      "time": "2026-06-04 06:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Rubber (2.40%). Biggest loser is Oat (-2.75%)."
+    },
     {
       "id": "te:markets:556262",
       "time": "2026-06-04 06:35:12",
@@ -177075,27 +177110,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Drops by 2.07% — Top crypto losers are Ether (-2.07%), Bitcoin (-1.73%) and Binance (-1.09%)."
-    },
-    {
-      "id": "4903263",
-      "time": "2026-05-28 06:43:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將立法確立具備長遠適配性的數字資產市場架構。"
-    },
-    {
-      "id": "mkt:019e6b99-8cba-722a-b522-87aefac40d55",
-      "time": "2026-05-28 06:41:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News Agency reported three explosions were heard east of Bandar Abbas port and air-defense systems were activated for several minutes."
     }
   ]
 }
