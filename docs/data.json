@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-04 00:08:16",
+  "updated": "2026-06-04 00:12:21",
   "count": 19191,
   "items": [
+    {
+      "id": "te:markets:556231",
+      "time": "2026-06-04 00:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.31% Lower — The DAX Index dropped 328 points or 1.31 percent on Wednesday to close at 24796 points. Losses were led by SAP (-4.31%), Deutsche Bank (-3.65%) and HeidelbergCement (-3.44%)."
+    },
+    {
+      "id": "mkt:019e8e40-aff5-7443-8fdf-bbde8a175259",
+      "time": "2026-06-04 00:11:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) said eligible US Google AI Ultra subscribers aged 18 and over can access DreamBeans on Android and iOS starting today."
+    },
+    {
+      "id": "mkt:019e8e40-1b4a-7443-8fdf-b03eb73d59be",
+      "time": "2026-06-04 00:10:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet"
+      ],
+      "text": "Google (GOOG.O): DreamBeans uses personal intelligence to connect information across Google apps to construct story content."
+    },
+    {
+      "id": "4915796",
+      "time": "2026-06-04 00:10:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西基準股指博維斯帕指數 (.BVSP) 跌幅進一步擴大，最新跌幅超 2%。"
+    },
+    {
+      "id": "te:markets:556230",
+      "time": "2026-06-04 00:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.61% Lower — The CAC 40 Index decreased 50 points or 0.61 percent on Wednesday to close at 8159 points. The decline was led by Stellantis NV (-3.95%), Kering (-3.64%) and Capgemini (-3.04%). On the upside, the strongest performers were Veolia (2.19%), Air Liquide (1.90%) and TotalEnergies SE (1.49%)."
+    },
+    {
+      "id": "4915795",
+      "time": "2026-06-04 00:09:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通挖角前高盛原油銷售高管，加碼能源業務佈局。"
+    },
+    {
+      "id": "4915794",
+      "time": "2026-06-04 00:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國鑄幣局已著手籌備鋅質 5 美分硬幣。"
+    },
+    {
+      "id": "mkt:019e8e3f-2a7b-7443-8fdf-a9cc0b00967c",
+      "time": "2026-06-04 00:09:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O): Google Labs launches DreamBeans."
+    },
+    {
+      "id": "4915793",
+      "time": "2026-06-04 00:09:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：DreamBeans 依託個人智慧技術，打通谷歌各類應用資料並整理生成內容摘要。"
+    },
+    {
+      "id": "4915792",
+      "time": "2026-06-04 00:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌旗下 Google Labs 推出 DreamBeans 產品。"
+    },
+    {
+      "id": "mkt:019e8e3d-c71b-7443-8fdf-a6ca7d052aa1",
+      "time": "2026-06-04 00:07:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum falls more than 3% to $1,872.60/oz."
+    },
     {
       "id": "4915791",
       "time": "2026-06-04 00:07:24",
@@ -176585,107 +176696,6 @@
         "Importance 1"
       ],
       "text": "Intuitive Surgical Stock Price Hits 22-month Low — Intuitive Surgical shares decreased to 417.51 USD, the lowest since July 2024. Over the past 4 weeks, Intuitive Surgical lost 10.26%, and in the last 12 months, it decreased 24.19%."
-    },
-    {
-      "id": "te:markets:554162",
-      "time": "2026-05-28 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.64% Lower — The FTSE MIB Index decreased 321 points or 0.64 percent on Wednesday to close at 49579 points. The decline was led by Saipem (-4.51%), Tenaris (-3.24%) and STMicroelectronics (-3.19%). On the upside, the strongest performers were Moncler (4.98%), Avio (4.91%) and Stellantis N.V. (4.64%)."
-    },
-    {
-      "id": "4902988",
-      "time": "2026-05-28 00:11:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：最佳化網路兒童性虐待影像（NCII）全球上報流程，升級表單介面、細化危害描述選項，同時支援區分實拍影像與AI生成影像。"
-    },
-    {
-      "id": "te:markets:554161",
-      "time": "2026-05-28 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.03% Lower — The DAX Index fell 7 points or 0.03 percent on Wednesday to close at 25178 points. Leading the losses are Siemens Energy (-3.83%), RWE (-2.95%) and Fresenius (-2.28%). Top gainers were Adidas (5.38%), Continental (4.00%) and HeidelbergCement (3.81%)."
-    },
-    {
-      "id": "4902987",
-      "time": "2026-05-28 00:10:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通CEO傑米·戴蒙表示，摩根大通可為一項新收購投入最高200億美元。"
-    },
-    {
-      "id": "4902986",
-      "time": "2026-05-28 00:10:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威首相：挪威將受到法國核保護傘的保護。"
-    },
-    {
-      "id": "te:markets:554160",
-      "time": "2026-05-28 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.43% Higher — The CAC 40 Index gained 35 points or 0.43 percent on Wednesday to close at 8208 points. Gains were led by Stellantis NV (4.46%), L'Oréal (4.43%) and Renault (4.12%). Biggest losers were STMicroelectronics (-4.28%), TP (-3.74%) and Capgemini (-3.50%)."
-    },
-    {
-      "id": "mkt:019e6a33-4b24-7223-8ed6-3214ee5a3f5f",
-      "time": "2026-05-28 00:10:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to NTB, Norway's prime minister said Norway will receive protection under France's nuclear umbrella."
-    },
-    {
-      "id": "4902985",
-      "time": "2026-05-28 00:09:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜克能源推出新專案，助力南卡羅來納州非居民使用者降低成本，同時支撐電網擴容發展。"
-    },
-    {
-      "id": "mkt:019e6a32-b871-7223-8ed6-2d8a5815e698",
-      "time": "2026-05-28 00:09:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President TRUMP reiterated that Iran must not possess nuclear weapons."
-    },
-    {
-      "id": "4902984",
-      "time": "2026-05-28 00:09:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在內閣會議上宣揚其第二任政府的經濟成果：今年，普通家庭的退稅金額接近5000美元。自大選以來，股市創下68次歷史新高。我上任至今，401(k)養老金賬戶平均增值近3萬美元。美國民眾正從中獲益。"
-    },
-    {
-      "id": "mkt:019e6a31-ceae-7223-8ed6-2661fb82b0d8",
-      "time": "2026-05-28 00:08:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: I do not care about the midterm elections."
     }
   ]
 }
