@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-03 21:13:01",
-  "count": 18916,
+  "updated": "2026-06-03 21:17:04",
+  "count": 18920,
   "items": [
+    {
+      "id": "te:markets:556177",
+      "time": "2026-06-03 21:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Hits 7-week Low — The Canadian Dollar touched 1.39 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 1.78%, and in the last 12 months, it increased 1.38%."
+    },
+    {
+      "id": "4915465",
+      "time": "2026-06-03 21:16:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：本輪通脹衝擊力度遠弱於 2022 年 。"
+    },
+    {
+      "id": "mkt:019e8da0-704d-7ccb-b65a-7041a5fd3b2f",
+      "time": "2026-06-03 21:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank governor Glapinski said the inflation shock is smaller than initially thought."
+    },
+    {
+      "id": "mkt:019e8da0-5fa0-7ccb-b65a-69d0e62864fe",
+      "time": "2026-06-03 21:15:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Polish central bank governor Glapinski said rising inflation will slow Poland's economic growth."
+    },
+    {
+      "id": "4915464",
+      "time": "2026-06-03 21:15:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：通脹衝擊幅度小於最初預期。"
+    },
+    {
+      "id": "4915463",
+      "time": "2026-06-03 21:15:34",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：薪資增速放緩有利於波蘭 CPI 走勢回落 。"
+    },
+    {
+      "id": "mkt:019e8d9f-4571-7ccb-b65a-6276c0814c4d",
+      "time": "2026-06-03 21:14:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "GDS.O",
+        "Impact bullish"
+      ],
+      "text": "【GDS to invest over 30 bln yuan in GW‑level green direct‑connect data center cluster with Ulanqab city government】GDS signed a strategic cooperation agreement with the Ulanqab municipal government (Inner Mongolia) on June 3. GDS will invest more than 30 billion yuan over the next five years to develop multiple high‑density and gigawatt‑level data center parks to serve intelligent/advanced compute clients. The project aims for over 80% green‑power coverage via direct connection and green‑power trading, targeting a scaled zero‑carbon data center cluster."
+    },
+    {
+      "id": "te:economy:556176",
+      "time": "2026-06-03 21:14:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Services PMI Falls to Near-Stagnation — Brazil’s S&P Global Services PMI fell to 50.4 in May 2026 from 52.3 in April, moving closer to the 50-point threshold and signaling only marginal expansion in the sector. The survey showed that new business was broadly stagnant during the month, with transport, information and communication the only monitored segment to record higher output. The slowdown in demand coincided with elevated price pressures, as output charge inflation remained the second-highest in 15 months despite easing from April. Input costs rose at the fastest pace since February 2025, with consumer services facing the strongest cost pressures. Rising operating expenses and fragile demand also weighed on hiring activity, with employment growth slowing to the weakest pace in the current four-month expansion. Meanwhile, high inflation, intense competition, and challenging business conditions dampened confidence among service providers."
+    },
+    {
+      "id": "4915462",
+      "time": "2026-06-03 21:14:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：太空探索技術公司（SpaceX）計劃在首次公開募股中發行 5.556 億股股票 。"
+    },
+    {
+      "id": "mkt:019e8d9d-9e50-7ccb-b65a-5eb4fcca3bd0",
+      "time": "2026-06-03 21:12:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwait's Foreign Ministry said it will reduce the size of Iran's diplomatic mission in Kuwait following related attacks."
+    },
+    {
+      "id": "mkt:019e8d9d-2e29-7ccb-b65a-5549ea01ca02",
+      "time": "2026-06-03 21:12:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's foreign ministry summoned Iran's chargé d'affaires and declared two Iranian diplomats persona non grata, citing \"ongoing aggression\"."
+    },
+    {
+      "id": "4915461",
+      "time": "2026-06-03 21:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【總投資300億元打造GW級綠電直連資料中心叢集 萬國資料與烏蘭察布市政府簽署戰略合作協議】6月3日，萬國資料與烏蘭察布市人民政府正式簽署戰略合作協議。根據規劃，萬國資料將於未來五年在烏蘭察布投資超過300億元，打造多個高密度資料中心園區和GW級資料中心園區，滿足智算客戶不同型別的業務部署需求，透過綠電直連、綠電交易等方式實現80%以上綠電覆蓋，形成規模化零碳資料中心叢集。"
+    },
     {
       "id": "4915460",
       "time": "2026-06-03 21:12:15",
@@ -173787,87 +173907,6 @@
         "觀點"
       ],
       "text": "摩根大通執行長戴蒙：併購市場可能存在機遇，補充稱“我們正在尋找機會”。"
-    },
-    {
-      "id": "mkt:019e6994-b96d-7223-8ed3-9cd36806d87a",
-      "time": "2026-05-27 21:16:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【German Council of Economic Experts Cuts Growth Forecast】German Council of Economic Experts cuts growth forecast to 0.5% vs 0.9% in Nov; sees 2027 growth 0.8%; German economy ministry cuts 2026 forecast to 0.5% from 1.0% and 2027 to 0.9% from 1.3%, raises inflation forecast"
-    },
-    {
-      "id": "4902723",
-      "time": "2026-05-27 21:16:25",
-      "tags": [
-        "資料"
-      ],
-      "text": "哥倫比亞4月份零售信心指數為21.8。"
-    },
-    {
-      "id": "mkt:019e6993-b63b-7223-8ed3-9608f6811f24",
-      "time": "2026-05-27 21:15:48",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【South Korea Summons Iranian Ambassador Over Suspected Missile Strike In Strait Of Hormuz】South Korea summons Iranian ambassador on May 27 over suspected early-May missile strike on South Korean vessel in the Strait of Hormuz; Iranian envoy denies involvement"
-    },
-    {
-      "id": "4902722",
-      "time": "2026-05-27 21:15:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國就船隻遭襲召見伊朗大使】韓國外交部27日召見伊朗駐韓大使，就5月初韓國船隻在霍爾木茲海峽疑遭伊朗導彈襲擊一事提出抗議。伊朗駐韓大使否認襲擊與伊朗有關。韓國外交部當天下午釋出的韓國船隻遭襲的調查結果顯示，當時船隻共遭受兩次不明飛行物體攻擊。不明飛行物體的發動機與伊朗產渦噴發動機相似，部件上有疑似伊朗製造商標識。技術分析認為，不明飛行物體極有可能是伊朗研發的反艦導彈。調查還顯示，不明飛行物體從船尾方向飛來，當時該船船尾朝向伊朗方向。韓國外交部隨後召見伊朗駐韓大使，就韓國船隻遭襲事件表達強烈抗議，並要求伊方採取負責任措施。據韓聯社報道，伊朗駐韓大使賽義德·庫澤奇被召見後對韓媒表示，伊朗方面“全面否認”相關指控，稱伊方“絕對沒有介入此事”。他說：“目前中東地區出現的緊張局勢是由美國政府及其侵略行為造成的，伊朗非常重視確保船隻安全透過霍爾木茲海峽。”韓國外交部本月4日表示，由韓國公司運營的一艘巴拿馬籍船隻當天在霍爾木茲海峽發生爆炸並起火。（新華社）"
-    },
-    {
-      "id": "4902721",
-      "time": "2026-05-27 21:14:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國航空執行長表示，第二季度機票預售已完成約80%。"
-    },
-    {
-      "id": "mkt:019e6992-718e-7223-8ed3-889191f3e4b8",
-      "time": "2026-05-27 21:14:25",
-      "tags": [
-        "MKT News",
-        "JPM.O",
-        "Impact bearish"
-      ],
-      "text": "DIMON says global systemically important bank surcharge 'quite deliberate' targets JPMORGAN"
-    },
-    {
-      "id": "4902720",
-      "time": "2026-05-27 21:14:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度釋出招標公告，擬進口 170 萬噸尿素化肥。"
-    },
-    {
-      "id": "4902719",
-      "time": "2026-05-27 21:13:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙：全球系統重要性銀行附加費明顯是針對摩根大通刻意設定的。"
     }
   ]
 }
