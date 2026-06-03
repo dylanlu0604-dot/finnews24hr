@@ -1,7 +1,260 @@
 {
-  "updated": "2026-06-03 15:42:03",
-  "count": 18551,
+  "updated": "2026-06-03 15:46:14",
+  "count": 18571,
   "items": [
+    {
+      "id": "mkt:019e8c71-ad1b-7dd8-946d-afabc2b61330",
+      "time": "2026-06-03 15:45:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chair of the European Parliament's Trade Committee said the US government is urgently seeking a new legal basis for its tariff policy."
+    },
+    {
+      "id": "mkt:019e8c71-ac4b-7dd8-946d-a16ce98704a9",
+      "time": "2026-06-03 15:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Parliament trade committee chair said any tariffs above 15% in the Turnberry agreement would be unacceptable for the EU."
+    },
+    {
+      "id": "mkt:019e8c71-aa55-7dd8-946d-9d6d417f52ad",
+      "time": "2026-06-03 15:45:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy May services PMI 49.4, vs 49.1 expected and 49.8 in April; reading remains below 50, signaling a modest contraction in services activity."
+    },
+    {
+      "id": "mkt:019e8c71-aa4b-7dd8-946d-94d44da1ae81",
+      "time": "2026-06-03 15:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy May composite PMI 50.4, down from 50.5 previously."
+    },
+    {
+      "id": "4914578",
+      "time": "2026-06-03 15:45:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：有序推進政務領域人工智慧應用 促進城市治理現代化水平不斷最佳化提升】上海市政務智慧工作推進會6月2日上午舉行。上海市委副書記、市長龔正指出，要按照市委部署，加強系統化謀劃、體系性推進，加快形成本地區、本部門、本單位的“施工圖”和“時間表”，以點帶面、推動政務智慧工作各項任務落地落實。要加強工作協同，進一步打通資料鏈、業務鏈、責任鏈，大力推動算力共用、語料關聯、鏈智融合，形成更多具有引領性、示範性、帶動性的政務智慧成果以及相關產業發展成果。要堅持智慧向善，一體推進內容、技術、資料、演算法、倫理安全，強化開發、部署、應用、維護全週期安全管理，進一步完善政策規範、標準指引，有序推進政務領域人工智慧應用，促進城市治理現代化水平不斷最佳化提升。"
+    },
+    {
+      "id": "mkt:019e8c71-7076-7dd8-946d-883d31fd2de0",
+      "time": "2026-06-03 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Services PMI (May) | actual 49.4 | consensus 49.1 | previous 49.8"
+    },
+    {
+      "id": "mkt:019e8c71-7075-7dd8-946d-803d63a40ac5",
+      "time": "2026-06-03 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Composite PMI (May) | actual 50.4 | previous 50.5"
+    },
+    {
+      "id": "4914577",
+      "time": "2026-06-03 15:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛沃科技：擬4320萬元收購西安創航60%股權】飛沃科技公告稱，公司第四屆董事會第六次會議審議透過收購西安創航精密製造科技有限公司60%股權的議案。以2026年4月30日為評估基準日，西安創航100%股權評估值為7402萬元，本次交易對應100%股權交易價最終確定為7200萬元，公司以自有資金4320萬元收購其60%股權。本次交易不涉及關聯交易，不構成重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "4914576",
+      "time": "2026-06-03 15:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁赫股份：獲得“一種用於烘乾房用的預製模段及其快速安裝方法”發明專利】邁赫股份公告稱，公司近日收到國家智慧財產權局頒發的一項發明專利證書，專利名稱為“一種用於烘乾房用的預製模段及其快速安裝方法”，專利號為ZL202311784386.5。該專利可降低烘乾房模段製作安裝成本，減少50%安裝焊接工作量，提高施工質量和效率。其取得有助於公司完善智慧財產權保護體系，提升核心競爭力。"
+    },
+    {
+      "id": "4914575",
+      "time": "2026-06-03 15:44:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海倫哲：獲得“一種防止伸縮油缸失穩的保護裝置”發明專利】海倫哲公告稱，公司近日收到國家智慧財產權局頒發的發明專利證書，發明名稱為“一種防止伸縮油缸失穩的保護裝置”，專利號為ZL 2023 1 1518105.1，專利申請日為2023年11月15日，授權公告日為2026年6月2日，專利權期限為20年，已應用到產品上。該專利取得不會對短期業績產生重大影響，但利於完善智慧財產權保護體系，增強核心競爭力。"
+    },
+    {
+      "id": "4914574",
+      "time": "2026-06-03 15:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會貿易委員會主席表示，對歐盟而言，特恩貝里協議中任何高於15%的關稅都不可接受。"
+    },
+    {
+      "id": "4914573",
+      "time": "2026-06-03 15:44:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達190億港元。"
+    },
+    {
+      "id": "4914572",
+      "time": "2026-06-03 15:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會貿易委員會主席表示，歐盟已透過全球最嚴格的反強迫勞動生產產品法規。"
+    },
+    {
+      "id": "4914570",
+      "time": "2026-06-03 15:44:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【南王科技：設立海外孫公司 註冊資本100億印尼盾】南王科技公告，公司控股子公司福建南王新材料科技有限公司在印度尼西亞設立控股子公司PT NANWANG NEW MATERIAL TECHNOLOGY INDONESIA，註冊資本100億印尼盾，南王新材料持有60%股權。該孫公司已辦理工商註冊登記並領取註冊登記證明檔案。孫公司經營範圍包括紙製品及紙板製品貿易、辦公裝置及工業用大型機械裝置貿易、家用電器及家居用品貿易。本次投資旨在拓展市場，提升公司競爭力，資金來源為公司自有資金。"
+    },
+    {
+      "id": "4914569",
+      "time": "2026-06-03 15:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會貿易委員會主席表示，核心問題在於美國擬議對歐盟商品加徵的10%關稅是否超出特恩貝里協議的範圍。"
+    },
+    {
+      "id": "4914567",
+      "time": "2026-06-03 15:43:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震裕科技：產品尚未在變壓器等領域進行應用】震裕科技6月3日在互動平臺表示，目前公司產品尚未在變壓器等領域進行應用。"
+    },
+    {
+      "id": "4914566",
+      "time": "2026-06-03 15:43:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三元生物：年產2萬噸阿洛酮糖專案已實現全線投產】三元生物公告，公司“年產2萬噸阿洛酮糖專案”中剩餘1萬噸阿洛酮糖產能順利完成主體工程建設、裝置安裝除錯及前期相關準備和驗收工作，並正式投產。隨著該專案的正式投產，公司“年產2萬噸阿洛酮糖專案”已實現全線投產。"
+    },
+    {
+      "id": "4914565",
+      "time": "2026-06-03 15:43:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【重倉晶片股的QDII實現業績突破 多隻產品年內收益已超80%】截至6月1日，建信新興市場混合（QDII）A的年內收益達87.68%，反超天弘全球高階製造混合（QDII）A成為主動型QDII年內收益第一名。該基金在今年一季度大舉加倉韓國股市，對三星、SK海力士的持股環比大增121%、77%。國富亞洲機會股票（QDII）同樣重倉韓國晶片股，年內收益達79.94%。天弘全球高階製造混合(QDII)A、華夏移動互聯混合人民幣雖然沒有重倉韓國晶片股，但分別重倉中美晶片股和美國晶片股，今年以來收益分別達到84.91%和82.18%，年內收益在主動型QDII中分列第二第三。業內人士指出，不同QDII產品在全球晶片資產上的地域配置差異，主要源於基金經理投研框架與風控思路的不同。市場普遍認可韓國晶片股的階段性行情機會，但部分基金經理顧慮其前期漲幅過高、韓元匯率波動等風險，認為若集中重倉，容易放大產品淨值波動。"
+    },
+    {
+      "id": "4914564",
+      "time": "2026-06-03 15:43:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港規模達5500億美元的外匯基金正在考慮配置標普500指數。"
+    },
+    {
+      "id": "4914563",
+      "time": "2026-06-03 15:43:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：與美國財長貝森特再次確認，將基於聯合宣告進行密切協調。"
+    },
+    {
+      "id": "mkt:019e8c6f-7d88-7dd8-946d-7f3c498ffdc4",
+      "time": "2026-06-03 15:42:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japanese Prime Minister TAKAICHI and U.S. Treasury Secretary BESSENT reconfirmed they will closely coordinate based on a joint statement."
+    },
+    {
+      "id": "4914562",
+      "time": "2026-06-03 15:42:48",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "中國臺灣證券交易所：截至 5 月底，臺股市值創下5 萬億新臺幣歷史新高，位列全球第五大股市。"
+    },
+    {
+      "id": "4914561",
+      "time": "2026-06-03 15:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國臺灣證券交易所：今年已有40家企業提交IPO上市申請，其中15家為人工智慧供應鏈企業。"
+    },
+    {
+      "id": "mkt:019e8c6f-11b0-7dd8-946d-71aa23a3ae32",
+      "time": "2026-06-03 15:42:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian state railways said NATO Secretary General Rutte has arrived in Kyiv."
+    },
+    {
+      "id": "4914560",
+      "time": "2026-06-03 15:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅克科技：全資子公司3000萬元增資參股公司構成關聯交易】雅克科技公告稱，2026年6月2日公司召開董事會，審議透過全資子公司雅克錫創對參股公司瀋陽亦創增資的議案。瀋陽亦創擬增資9000萬元，雅克錫創按持股比例認購3000萬元，外部股東北京亦盛認購6000萬元，增資後雅克錫創持股比例不變。因公司董事長、總經理沈琦擔任瀋陽亦創董事，該增資構成關聯交易。本次增資不構成重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:019e8c6e-e3ea-7dd8-946d-6e23722ccbbc",
+      "time": "2026-06-03 15:42:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【U.S. government formally appeals ruling ordering tariff refunds】The U.S. government on June 2 appealed a March 4 U.S. Court of International Trade ruling that Customs and Border Protection may not liquidate tariffs under the International Emergency Economic Powers Act, a decision that requires refunds of tariffs collected under the Trump administration and could affect the ongoing refund process. CBP says more than 330,000 importers prepaid or paid roughly $166bn in those tariffs as of March 4; as of May 22 it had received refund claims totaling about $85bn and asked the Treasury to return roughly $20.6bn."
+    },
+    {
+      "id": "mkt:019e8c6e-d39d-7dd8-946d-60568a105c78",
+      "time": "2026-06-03 15:42:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi said she agrees with the G7 view that excessive measures would be harmful to the economy."
+    },
+    {
+      "id": "4914559",
+      "time": "2026-06-03 15:42:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林稱攔截並摧毀來自伊朗的導彈和多架無人機】巴林國防軍3日發表宣告說，巴林防空系統當天攔截並摧毀3枚來自伊朗的導彈和多架無人機。 宣告稱，伊朗繼續針對巴林採取敵對行動，使用導彈和無人機襲擊巴林境內民用目標。巴林武裝部隊保持高度戒備狀態，各作戰單位已做好應對準備，以維護國家安全和保護民眾生命財產。 宣告呼籲民眾不要靠近或觸碰導彈和無人機殘骸等可疑物體，發現後應立即向有關部門報告。宣告同時譴責針對民用設施和私人財產的導彈及無人機襲擊行為，稱其嚴重違反國際人道主義法。 巴林國防軍表示，將繼續採取一切必要措施維護國家安全和穩定。（新華社）"
+    },
+    {
+      "id": "4914558",
+      "time": "2026-06-03 15:41:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜在南非推出Prime會員服務，月費低於4美元。"
+    },
+    {
+      "id": "mkt:019e8c6e-5673-7dd8-946d-5a8bb39e34c8",
+      "time": "2026-06-03 15:41:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan's Prime Minister Takaichi said trading, including speculative activity, significantly affects markets."
+    },
     {
       "id": "4914557",
       "time": "2026-06-03 15:41:23",
@@ -170281,102 +170534,6 @@
         "國際"
       ],
       "text": "【“星鏈”被指服務於美國針對伊朗的軍事行動】當地時間27日，伊朗方面訊息稱“星鏈”被用來服務於美國針對伊朗的軍事行動。訊息援引“星鏈”創辦人、美國企業家埃隆·馬斯克的話稱，美國國防部應為在伊朗使用“星鏈”網際網路服務引導無人機支付更多費用。（央視新聞）"
-    },
-    {
-      "id": "4901968",
-      "time": "2026-05-27 15:45:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏克蘭對原產於中國的熱軋無縫鋼管作出反傾銷日落複審終裁】5月26日，烏克蘭經濟部發布公告，依據委員會2026年5月22日第AD-600/2026/441-01號決議，對原產於中國的熱軋無縫鋼管作出反傾銷第一次日落複審肯定性終裁，決定自即日起繼續徵收為期五年的反傾銷稅（具體如下）；同時，繼續延長中國生產商江陰德瑪斯特鑽具有限公司（DP-Master Manufacturing Co., Ltd.）的價格承諾協議，期限為一年。"
-    },
-    {
-      "id": "4901967",
-      "time": "2026-05-27 15:45:12",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【快意電梯：控股股東解除質押9.33%股份】快意電梯公告，公司控股股東東莞市快意股權投資有限公司於2026-05-26解除質押3141萬股，佔其持股21.22%、佔公司總股本9.33%，質押起始日2023-05-29，質權人為東吳證券股份有限公司。截至公告披露日，快意股權持股1.48億股，累計質押5000萬股，佔其持股33.77%、佔公司總股本14.85%；公司及一致行動人合計持股2.23億股，累計質押6604萬股，佔所持股份29.59%、佔公司總股本19.61%。"
-    },
-    {
-      "id": "te:markets:554003",
-      "time": "2026-05-27 15:45:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Croatia",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4175.00 Index Points, the highest since March 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 4%, and in the last 12 months, it increased 20.36%."
-    },
-    {
-      "id": "4901966",
-      "time": "2026-05-27 15:44:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗官員：根據美伊初步協議草案 美將在所有戰線停火60天】總檯記者獲悉，當地時間27日，伊朗國家安全委員會成員布魯傑迪表示，根據伊朗與美國達成的初步協議草案，美方將在第一階段承諾在所有戰線，實現為期60天的全面停火，特別是在黎巴嫩境內。（央視新聞）"
-    },
-    {
-      "id": "4901965",
-      "time": "2026-05-27 15:44:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【有研新材：控股子公司有研億金是長江儲存和長鑫儲存的靶材供應商】有研新材在互動平臺表示，公司控股子公司有研億金是長江儲存、長鑫儲存的靶材供應商。"
-    },
-    {
-      "id": "te:markets:554002",
-      "time": "2026-05-27 15:44:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Rebound — The CAC 40 rose 0.5% to 8,211 on Wednesday, rebounding from the previous session as investors remained optimistic that the US and Iran could still secure a diplomatic agreement despite renewed tensions in the Middle East. US Secretary of State Marco Rubio said a possible deal to end the conflict could be reached within days, although disagreements over Tehran’s frozen assets and access through the Strait of Hormuz remained unresolved. Meanwhile, François Villeroy de Galhau, Governor of the Bank of France, emphasized that the European Central Bank “will do what is necessary” to return inflation to its 2% target as the ongoing conflict continued to cloud the economic outlook. Luxury stocks led gains, particularly LVMH (1.5%), Hermès (1.5%), and Kering (2.6%). In addition, auto stocks such as Stellantis (2.3%) and Renault (2.9%) posted solid increases after peer Volvo Cars obtained approval from the US to continue operating in the US market."
-    },
-    {
-      "id": "4901963",
-      "time": "2026-05-27 15:44:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理想汽車在臺州成立新銷售服務公司】天眼查App顯示，近日，長理行汽車銷售服務（台州）有限公司成立，法定代表人為尹磊，註冊資本100萬，經營範圍包括汽車銷售、汽車零配件批發、汽車零配件零售等，由理想汽車旗下北京勵鼎汽車銷售有限公司全資持股。"
-    },
-    {
-      "id": "te:markets:554001",
-      "time": "2026-05-27 15:43:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Lags Europe as Energy and Utilities Fall — The FTSE 100 traded flat to slightly lower on Tuesday, underperforming broader European markets as declines in energy and utility stocks weighed on the index. Sentiment was pressured by lower oil prices amid hopes of progress toward a peace agreement between the US and Iran, despite continued uncertainty around security in the Strait of Hormuz. Shell fell around 1.7% while BP lost 0.8%. Utilities also weakened, with Centrica down more than 2%, Severn Trent and SSE falling 1.8% each, National Grid down 1.4% and United Utilities losing 1.2%. Meanwhile, Ofgem confirmed that the UK household energy price cap will rise 13% from July, adding around £18 a month to typical bills, marking the biggest increase since 2023 as Middle East tensions continue to lift energy costs. On the corporate side, Greencore reported robust third quarter trading, while Pets at Home posted annual profit in line with expectations."
-    },
-    {
-      "id": "4901962",
-      "time": "2026-05-27 15:43:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達40億港元。"
-    },
-    {
-      "id": "4901961",
-      "time": "2026-05-27 15:42:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【道生天合：近期增資參股公司上海道宜 增資後持股比例為9.5%】道生天合在互動平臺表示，公司近期增資了參股的上海道宜半導體材料有限公司（簡稱“上海道宜”），增資後公司的持股比例為9.5011%，上海道宜主營業務為環氧塑封材料（EMC），為半導體封裝領域的常規材料。公司對上海道宜的投資規模較小，不會對公司當期及未來業績產生重大影響。"
     }
   ]
 }
