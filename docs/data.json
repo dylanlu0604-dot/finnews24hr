@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-03 12:39:47",
-  "count": 18448,
+  "updated": "2026-06-03 12:43:37",
+  "count": 18452,
   "items": [
+    {
+      "id": "mkt:019e8bca-a729-7ee2-b13f-6c7f900a60a6",
+      "time": "2026-06-03 12:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Drone attack in Russia's Leningrad Oblast; Pulkovo Airport restricts flights】Leningrad Oblast governor Alexander Drozdenko said on June 3 the region was struck by a drone attack early that day and air defenses have shot down 50 drones. Counter-drone operations are ongoing and a drone-threat alert has been issued for the oblast's airspace; officials warned mobile network speeds may decline. St. Petersburg declared a drone threat and Pulkovo Airport has imposed flight restrictions."
+    },
+    {
+      "id": "4914241",
+      "time": "2026-06-03 12:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家自然科學基金民營企業創新發展聯合基金（術理創新）設立】2026年5月，國家自然科學基金委與術理創新共同出資設立國家自然科學基金民營企業創新發展聯合基金，即國家自然科學基金民營企業創新發展聯合基金（術理創新）。該基金旨在充分發揮國家自然科學基金的戰略導向與資源匯聚優勢，重點圍繞腦機介面相關領域開展基礎研究，系統聚焦關鍵技術領域的核心科學問題。術理創新根據自身產業發展需求“出題”，國家自然科學基金委員會搭建平臺，透過聯合基金資助的方式在全國尋找優勢科研力量來“答題”。"
+    },
+    {
+      "id": "te:markets:555978",
+      "time": "2026-06-03 12:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indian Stocks Retreats — India’s BSE Sensex fell about 1.2% to 73,765 at the open on Wednesday, reversing the previous session’s gains as escalating Middle East tensions lifted oil prices and weighed on risk sentiment. Concerns over stalled US-Iran diplomatic progress and renewed regional hostilities pushed Brent crude up about 1.1% to near $97 per barrel, pressuring the oil-importing nation. Foreign investor selling remained a key drag, with overseas funds offloading Indian equities worth $877.91 million in the previous session, marking a third straight day of net outflows. Investors also awaited India’s final HSBC Composite and Services PMI data for May, due later in the day, with forecasts of 58.1 and 59, respectively. Technology stocks led the decline, falling about 3.7% after overnight weakness in global software shares, with LTM (-6%), TCS (-6%), Tech Mahindra (-5%), Coforge (-4%), Infosys (-3.8%), and HCL (-3.3%) among the biggest losers."
+    },
+    {
+      "id": "4914240",
+      "time": "2026-06-03 12:40:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【MSC地中海航運稱一艘集裝箱船週一遭到伊朗“無理”襲擊】據週二釋出的宣告，MSC地中海航運證實其集裝箱船MSC Sariska V週一在伊拉克Um-Qasr港遭到兩枚射彈襲擊。第一枚射彈擊中時船舶正駛離港口，第二枚炮彈隨後不久擊中了船員區域。所有船員均安全無恙。伊朗聲稱此次襲擊是對美國襲擊的報復，這“完全沒有道理”。“MSC是一家中立的商業航空公司，與美國或以色列沒有任何關聯”。"
+    },
+    {
+      "id": "4914239",
+      "time": "2026-06-03 12:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄列寧格勒州遭無人機襲擊 聖彼得堡機場實施管制】俄羅斯列寧格勒州州長亞歷山大·德羅茲堅科3日在社交媒體上說，該州當天凌晨遭無人機襲擊，目前防空部隊已擊落50架無人機。德羅茲堅科說，針對無人機襲擊的作戰行動仍在繼續。列寧格勒州空域已釋出無人機威脅警報，該州行動網路速度可能會下降。據俄新社報道，聖彼得堡市已宣佈存在無人機威脅，該市的普爾科沃機場已實施飛行限制。當天，俄坦波夫州也遭無人機襲擊。該州州長葉夫根尼·佩爾維紹夫在社交媒體上說，無人機墜落導致該州米丘林斯克市一棟公寓樓、一座圖書館、一所學校和一家企業的建築受損。（新華社）"
+    },
+    {
+      "id": "te:economy:555976",
+      "time": "2026-06-03 12:39:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Arab Emirates",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "UAE Non-Oil Private Sector Growth Improves Slightly — The S&P Global UAE PMI rose to 52.6 in May 2026 from 52.1 in the previous month, signaling a modest improvement in non-oil private sector business conditions. Output growth accelerated to a three-month high, supported by stronger demand, project expansion, and government-backed initiatives. However, growth remained subdued overall as regional geopolitical tensions, supply-chain disruptions, and rising operating costs weighed on activity. New business growth remained near April's 62-month low, while export sales continued to decline. Meanwhile, employment growth slowed to its weakest pace since October amid softer demand, higher costs, and increased automation. Supply-chain conditions deteriorated, with delivery times lengthening to the greatest extent since April 2020 due to disruptions in the Strait of Hormuz, while input costs rose at the second-fastest pace in nearly two years, driven by higher material and transport costs."
+    },
     {
       "id": "4914238",
       "time": "2026-06-03 12:38:48",
@@ -169317,24 +169374,6 @@
         "Chip Wars"
       ],
       "text": "China Global Semiconductor LOF says trading suspended from afternoon session on May 27 through close; redemption business remains normal"
-    },
-    {
-      "id": "4901667",
-      "time": "2026-05-27 12:41:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：澳大利亞通脹壓力仍在積聚】西太平洋銀行經濟學家警告稱，儘管4月份消費者物價漲幅低於預期，但澳大利亞的基本通脹壓力仍在積聚。雖然4.2%的同比通脹率低於他們4.8%的預期，但該行的經濟學家看到了更清晰的證據，表明企業正開始轉嫁上游成本。他們表示，住宅建築是出現這種情況的最明顯例子，但警告稱，外賣食品和餐館就餐等類別持續出現高於目標的通脹，這與所謂的成本轉嫁的積聚是一致的。最終，他們認為整體通脹不及預期是一個令人欣慰的意外，但這不會改變任何人對宏觀局勢的看法。"
-    },
-    {
-      "id": "4901666",
-      "time": "2026-05-27 12:40:57",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市今年以來飆升100% 強勁漲勢蓋過網際網路泡沫時期】韓國股市今年以來已經飆升100%，超過網際網路泡沫破裂前夕以及韓國上世紀80年代末工業繁榮時期的歷史性升勢。在SK海力士和三星電子大漲的帶動下，韓國Kospi指數不斷重新整理紀錄，在短短數月內便從5000點飆升至8000點。該指數週三一度上漲5.1%。今年尚未過半，Kospi指數的表現已經可與納斯達克100指數1999年上漲102%的走勢相提並論，當時正值網際網路泡沫破裂前夕。不過，很少有市場觀察人士就韓國股市發出警告，他們認為，全球對儲存晶片的需求出現結構性變化，正從週期性波動轉向更持久的增長趨勢。"
     }
   ]
 }
