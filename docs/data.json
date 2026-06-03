@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-04 04:47:51",
-  "count": 19201,
+  "updated": "2026-06-04 04:51:45",
+  "count": 19202,
   "items": [
+    {
+      "id": "mkt:019e8f41-220c-7443-8fe4-7a60643cbc3d",
+      "time": "2026-06-04 04:51:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed's LOGAN: inflation carries upside risks; labor market remains stable; economic growth steady; AI provides an additional boost."
+    },
+    {
+      "id": "te:markets:556258",
+      "time": "2026-06-04 04:50:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Hit by Tariff Concerns and US-IranTensions — The Ibovespa fell 2.2% to close at 170,330 on Wednesday as investors assessed escalating trade tensions with the US, fading hopes for a US-Iran peace deal, and weak domestic economic data. President Luiz Inácio Lula da Silva convened a cabinet meeting after Washington proposed additional tariffs on imports from 60 economies, including Brazil. Meanwhile, oil prices rose as renewed hostilities in the Persian Gulf increased geopolitical uncertainty. Domestically, Brazil's services sector nearly stagnated in May, with firms citing competitive pressures, financial constraints, and weak demand. Financial stocks led losses, with Bradesco and Itaú down 2%, while B3 tumbled 4.7%. Vale retreated 3.8% amid lower iron ore prices. Healthcare and utility shares also underperformed, with Rede D'Or falling 3.3% and Auren shedding 3.1%."
+    },
+    {
+      "id": "4916015",
+      "time": "2026-06-04 04:49:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【貿易資料存在差額，特朗普簽署行政令加碼海關稽查】美國總統特朗普簽署一項行政命令，從嚴落實海關執法，這是其推進貿易保護政策的最新舉措。白宮釋出宣告稱，特朗普於週三簽署該政令，要求海關人員依託新技術，嚴防違禁品與非法貨品入境美國，同時精準登記所有入境商品。白宮行政秘書威爾·沙夫表示，此項政令旨在督促備案進口商如實申報進口貨品明細。特朗普政府計劃重拳整治所謂關稅瞞報行為，杜絕進口貨物偷逃關稅。"
+    },
     {
       "id": "mkt:019e8f3d-a4f9-7443-8fe4-76e61abd2607",
       "time": "2026-06-04 04:47:22",
@@ -176826,22 +176859,6 @@
         "公司"
       ],
       "text": "邁威爾科技： 預計公司互聯業務同比增幅將超 70%，預計 2028 財年營收將達到約 165 億美元。"
-    },
-    {
-      "id": "4903201",
-      "time": "2026-05-28 04:51:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁威爾科技： 目前預計本財年資料中心業務營收同比增長約 50%。"
-    },
-    {
-      "id": "4903200",
-      "time": "2026-05-28 04:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁威爾科技：預計2027財年銷售115億美元。"
     }
   ]
 }
