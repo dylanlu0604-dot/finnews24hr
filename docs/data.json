@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-03 12:55:11",
-  "count": 18461,
+  "updated": "2026-06-03 12:59:01",
+  "count": 18462,
   "items": [
+    {
+      "id": "te:economy:555982",
+      "time": "2026-06-03 12:57:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Saudi Non-Oil Private Sector Growth Continues in May — Riyad Bank Saudi Arabia's PMI rose to 52.8 in May 2026 from 51.5 in April, signaling a stronger improvement in non-oil private sector conditions. Output expanded at the fastest pace in three months, supported by stronger domestic demand, resumed projects, and normalized operations following earlier disruptions. However, new order growth remained modest, while export orders contracted sharply for a third consecutive month amid shipping disruptions, higher freight and fuel costs, and geopolitical tensions. Supply chain conditions improved, with delivery times shortening for the first time since February, while purchasing activity returned to growth. Employment also expanded modestly as firms worked through rising backlogs. Meanwhile, cost pressures remained elevated despite easing from April’s record high, prompting another sharp increase in selling prices. Business confidence remained subdued amid ongoing regional uncertainty."
+    },
+    {
+      "id": "mkt:019e8bd7-e60b-7ee2-b13f-8a3195e3a856",
+      "time": "2026-06-03 12:57:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indonesia's upstream regulator said crude oil production averaged 576,200 bpd in Jan–May; natural gas output averaged 6.55 bcf/d."
+    },
+    {
+      "id": "4914256",
+      "time": "2026-06-03 12:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼上游監管機構：今年1-5月印尼天然氣日均產量為65.5億立方英尺。"
+    },
+    {
+      "id": "4914255",
+      "time": "2026-06-03 12:56:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼上游監管機構：1-5月原油產量為日均57.62萬桶。"
+    },
+    {
+      "id": "4914254",
+      "time": "2026-06-03 12:56:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市指數下跌5.1%，創2021年5月以來新低。"
+    },
     {
       "id": "4914253",
       "time": "2026-06-03 12:52:48",
@@ -169425,39 +169472,6 @@
         "其他"
       ],
       "text": "【定點零售藥店違法違規使用醫保基金 國家醫保局公佈6起典型案例】從國家醫保局瞭解到，自2026年5月14日起，國家醫保局在全國範圍內開展定點零售藥店違法違規使用醫保基金專項飛檢，並於日前公佈了專項飛檢中發現的6起典型案例。"
-    },
-    {
-      "id": "4901676",
-      "time": "2026-05-27 12:58:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇省成立航空航天產業聯盟】5月26日，江蘇省航空航天產業聯盟在無錫成立。據悉，該聯盟整合全省產業資源，集聚省內火箭製造、發射服務、衛星製造、衛星載荷及零部件、地面裝置、行業應用等企業，南京大學、東南大學、紫金山實驗室、江蘇省電子資訊產品質量監督檢驗研究院等高校院所，賽迪研究院、中國信通院等智庫機構，省高投、相關產業投資基金等投融資機構，聚焦大飛機、低空經濟、商業航天、衛星通訊、太空算力等核心領域，推動關鍵核心技術攻關、標準體系構建、成果轉化落地、產業協同發展。"
-    },
-    {
-      "id": "mkt:019e67cb-7a51-700e-adbc-8a23281e2829",
-      "time": "2026-05-27 12:57:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada Implements Temporary Border Measures Over Ebola】Canada's Public Health Agency says government will suspend issuance of immigration documents to residents of high or extremely high-risk Ebola countries — Democratic Republic of the Congo, Uganda and South Sudan — for 90 days from May 27 23:59 ET."
-    },
-    {
-      "id": "4901675",
-      "time": "2026-05-27 12:57:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【加拿大實施與埃博拉疫情相關的臨時邊境管制措施】當地時間5月26日，加拿大公共衛生署稱，為應對剛果（金）的埃博拉疫情，以及烏干達和南蘇丹日益增長的風險，加拿大政府正採取果斷行動，出臺臨時邊境措施，降低病毒進入加拿大並傳播的風險。加拿大政府計劃自美國東部時間5月27日23時59分起，暫停向埃博拉疫情高風險或極高風險國家的居民發放移民檔案，為期90天。目前，這些國家包括剛果（金）、烏干達和南蘇丹。此外，加拿大政府計劃自美國東部時間5月30日晚上11時59分起至2026年8月29日，實施一項額外措施，規定過去21天內曾到訪過這些地區的沒有症狀的加拿大及外國公民，必須進行21天的隔離。"
-    },
-    {
-      "id": "4901674",
-      "time": "2026-05-27 12:55:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：先進封裝裝置提供商將受益於華為的新晶片設計方法】花旗分析師在一份研究報告中表示，先進封裝裝置和服務的提供商可能會成為華為新晶片設計方法的主要受益者。先進封裝裝置製造商，尤其是混合鍵合裝置提供商，可能會成為主要受益者；隨著封裝複雜性上升，外包晶片組裝和測試提供商也可能從中受益。"
     }
   ]
 }
