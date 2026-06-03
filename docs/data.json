@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-03 21:17:04",
-  "count": 18920,
+  "updated": "2026-06-03 21:21:04",
+  "count": 18921,
   "items": [
+    {
+      "id": "4915473",
+      "time": "2026-06-03 21:19:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "長橋證券：中國大陸境內交易服務將暫停股票等所有品種的新開倉、加倉交易，僅支援賣出、平倉操作。"
+    },
+    {
+      "id": "mkt:019e8da3-5cc8-7ccb-b65a-8a685666b7a9",
+      "time": "2026-06-03 21:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.O"
+      ],
+      "text": "Ford Motor (F.N) said U.S. vehicle sales in May were 190,828 units."
+    },
+    {
+      "id": "mkt:019e8da3-3057-7ccb-b65a-83b9161f9887",
+      "time": "2026-06-03 21:19:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "Changqiao Securities: mainland China onshore trading services will suspend new openings and increases to positions across all products, including stocks; only sell and position‑closing orders will be accepted."
+    },
+    {
+      "id": "mkt:019e8da2-15b8-7ccb-b65a-7a351640e8e4",
+      "time": "2026-06-03 21:17:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moonshot AI opens Kimi Work public beta for knowledge workers】Moonshot AI opened public beta for Kimi Work, a general-purpose on-device agent for knowledge workers, available via Kimi’s latest beta Mac and Windows clients. Kimi Work accepts natural-language objectives, decomposes tasks locally, executes steps in parallel, calls tools and the browser, creates and organizes folders, and delivers outputs such as documents, spreadsheets and presentations."
+    },
+    {
+      "id": "4915472",
+      "time": "2026-06-03 21:17:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車5月美國混合動力汽車銷量為19143輛，同比下降15.7%。"
+    },
+    {
+      "id": "4915471",
+      "time": "2026-06-03 21:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車美國5月內燃機車型銷量為167916輛，同比下降12.3%。"
+    },
+    {
+      "id": "4915470",
+      "time": "2026-06-03 21:17:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：當前利率水平處於合理區間。"
+    },
+    {
+      "id": "4915469",
+      "time": "2026-06-03 21:16:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：通脹已得到控制。"
+    },
+    {
+      "id": "4915468",
+      "time": "2026-06-03 21:16:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車美國5月卡車銷量為111,119輛，同比下降8.4%。"
+    },
+    {
+      "id": "4915467",
+      "time": "2026-06-03 21:16:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1413.50元。"
+    },
+    {
+      "id": "4915466",
+      "time": "2026-06-03 21:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【月之暗面宣佈Kimi Work開啟公測】月之暗面宣佈面向知識工作者的通用型本地Agent——Kimi Work開啟公測，將隨Kimi最新測試版Mac和Windows客戶端推出。據介紹，只需要用自然語言描述目標，Kimi Work就可以在使用者的電腦上拆解任務、並行執行、呼叫工具、使用瀏覽器、建立和整理資料夾，並交付文件、表格、PPT等工作產物。"
+    },
     {
       "id": "te:markets:556177",
       "time": "2026-06-03 21:16:18",
@@ -173821,92 +173922,6 @@
         "觀點"
       ],
       "text": "摩根大通執行長戴蒙：全年開支可能將達到1060億美元，此前預測約為1050億美元。"
-    },
-    {
-      "id": "4902733",
-      "time": "2026-05-27 21:20:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據港交所檔案：愛爾眼科醫院集團股份有限公司向港交所提交上市申請書，獨家保薦人為華泰國際。"
-    },
-    {
-      "id": "4902732",
-      "time": "2026-05-27 21:19:38",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "科望醫藥集團向港交所提交上市申請書，獨家保薦人為中信證券。"
-    },
-    {
-      "id": "4902731",
-      "time": "2026-05-27 21:19:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富力地產：“H16富力5”“H16富力6”等5只債券自5月28日開市起停牌】廣州富力地產(02777.HK)股份有限公司公告稱，為做好後續債務償付安排，保證公平資訊披露，經公司申請，公司所持“H16富力5”“H16富力6”“H18富力8”“H18富力1”“H19富力2”自5月28日開市起停牌，期間公司將依規履行資訊披露義務，待事項確定後申請復牌。"
-    },
-    {
-      "id": "4902730",
-      "time": "2026-05-27 21:19:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4410美元/盎司，日內跌2.17%。"
-    },
-    {
-      "id": "4902729",
-      "time": "2026-05-27 21:19:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4440美元/盎司，日內跌2.09%。"
-    },
-    {
-      "id": "4902728",
-      "time": "2026-05-27 21:18:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通戴蒙：第二季度交易營收有望增長11%，表現甚至可能更好。"
-    },
-    {
-      "id": "4902727",
-      "time": "2026-05-27 21:18:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍股東在年度股東大會上否決了要求設立獨立於執行長一職的董事會主席的提案。"
-    },
-    {
-      "id": "4902726",
-      "time": "2026-05-27 21:18:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通戴蒙：第二季投行業務收入或增長10%甚至更高。"
-    },
-    {
-      "id": "4902725",
-      "time": "2026-05-27 21:17:27",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通股價盤前跌幅擴大至1.2%。"
-    },
-    {
-      "id": "4902724",
-      "time": "2026-05-27 21:17:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙：併購市場可能存在機遇，補充稱“我們正在尋找機會”。"
     }
   ]
 }
