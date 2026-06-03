@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-04 01:48:53",
-  "count": 19112,
+  "updated": "2026-06-04 01:52:43",
+  "count": 19113,
   "items": [
+    {
+      "id": "4915852",
+      "time": "2026-06-04 01:52:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【年內券商發債突破1萬億元 同比增長114.86%】在業務規模擴張、市場利率走低等因素的驅動下，券商資本補充正駛入“快車道”。 同花順iFinD資料顯示，截至6月3日，券商年內已發行債券458只，發行規模合計達1.05萬億元，同比增長114.86%。具體來看，券商發行規模最大的一類債券為證券公司債，年內已發行6701.4億元，佔比63.82%；其次為證券公司短期融資券，發行規模達2199.2億元；此外，證券公司次級債發行規模為1599.8億元。 對此，西部金融研究院院長陳銀華對記者表示：“今年券商發債規模實現同比大幅增長，首先是受到業務擴張需求的驅動，在市場交投活躍的情況下，兩融、衍生品、做市等重資本消耗型業務規模持續增長，券商需補充資本以把握業務機遇；其次是政策層面支援券商打造一流投行等，也對券商的資本實力提出了更高的要求；最後是當前市場利率中樞整體走低，對券商而言，較低的融資成本使發債融資具備更強的價效比優勢。因此，行業發債意願有所提升。”(證券日報)"
+    },
+    {
+      "id": "mkt:019e8e9c-831b-7443-8fe0-f1a82d14c40a",
+      "time": "2026-06-04 01:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Insiders: Anthropic selects Morgan Stanley, Goldman Sachs as IPO lead underwriters】Insiders say Anthropic has chosen Morgan Stanley and Goldman Sachs as lead underwriters for its IPO, with JP Morgan also participating. The Claude chatbot developer has submitted a confidential filing and is considering an IPO as early as October. The roster of underwriting banks may expand."
+    },
+    {
+      "id": "4915851",
+      "time": "2026-06-04 01:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林發行10億美元國際債券（美元計價），收益率為7.125%；在那之前數小時，該國遭到導彈襲擊。這是美國和以色列發動伊朗戰爭以來，海灣地區首次在公開市場的第一筆主權債交易。"
+    },
+    {
+      "id": "mkt:019e8e9b-505a-7443-8fe0-eb4ced84a1e5",
+      "time": "2026-06-04 01:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed to release Beige Book on U.S. economy in ten minutes."
+    },
+    {
+      "id": "4915850",
+      "time": "2026-06-04 01:49:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：匈牙利已解除對烏克蘭加入歐盟長達兩年的否決。"
+    },
+    {
+      "id": "mkt:019e8e9a-e334-7443-8fe0-e49eeede55cc",
+      "time": "2026-06-04 01:49:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Hungary has lifted its two-year veto on Ukraine's accession to the European Union."
+    },
     {
       "id": "te:markets:556242",
       "time": "2026-06-04 01:45:30",
@@ -175973,49 +176031,6 @@
         "其他"
       ],
       "text": "黎巴嫩軍方：以軍在卡法爾馬納至哈爾達利公路發動空襲，造成一名黎軍士兵陣亡。"
-    },
-    {
-      "id": "mkt:019e6a90-db73-7223-8ed8-3bd17c335b47",
-      "time": "2026-05-28 01:52:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Saudi Arabia will supply Yemen with $150 million worth of petroleum derivatives."
-    },
-    {
-      "id": "mkt:019e6a90-2160-7223-8ed8-34a42e3507e8",
-      "time": "2026-05-28 01:51:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Representative of the Supreme Leader to the Islamic Revolutionary Guard Corps (IRGC): We have consistently required the negotiation team to strictly follow the guidelines set by the Supreme Leader in carrying out its work."
-    },
-    {
-      "id": "4903098",
-      "time": "2026-05-28 01:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯將向葉門提供價值1.5億美元的石油衍生產品。"
-    },
-    {
-      "id": "4903097",
-      "time": "2026-05-28 01:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：截至5月27日，美國36個州共報告119例感染病例，感染者所感染的為本次暴發疫情中的鼠傷寒沙門氏菌或紐波特沙門氏菌毒株。"
-    },
-    {
-      "id": "4903096",
-      "time": "2026-05-28 01:50:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯合航空公司執行長表示，為整個機隊100%配備星鏈將是我們相較所有其他航空公司的最大差異化競爭優勢。"
     }
   ]
 }
