@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-04 02:24:48",
-  "count": 19127,
+  "updated": "2026-06-04 02:28:37",
+  "count": 19125,
   "items": [
+    {
+      "id": "te:economy:556247",
+      "time": "2026-06-04 02:27:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Jobless Rate Declines in April — Uruguay’s unemployment rate fell to 7.5% in April 2026 from 7.8% in March, signaling an improvement in labor market conditions. The jobless rate stood at 7.6% in Montevideo and 7.4% in the rest of the country, while employment rates reached 60.5% and 58.8%, respectively. By gender, unemployment was 6.4% among men and 8.7% among women. Youth unemployment remained significantly higher than for other age groups, reaching 23.3% among people aged 14 to 24. The rate was 10.2% for those aged 25 to 29 and below 7% for most age groups over 30. Among employed workers, 9.3% were underemployed, while 21.7% were not registered with the social security system in their main job."
+    },
+    {
+      "id": "mkt:019e8ebb-9415-7443-8fe1-831b414e5a6d",
+      "time": "2026-06-04 02:25:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y"
+      ],
+      "text": "【FED'S BEIGE: Employment stable across districts; inflation rises】FED'S BEIGE says recent weeks' economic activity in most U.S. districts expanded at a slow-to-moderate pace and employment was little changed. Inflation readings in most Fed districts were higher than in the prior report, largely reflecting energy-price increases tied to the Middle East conflict, including the Iran war. Rising energy costs since the Iran war began have raised concern about persistent inflation, prompting more policymakers to say they need to keep all policy options open, including the possibility of tighter monetary policy. Many officials nonetheless described current policy-rate conditions as fairly favorable."
+    },
+    {
+      "id": "te:markets:556246",
+      "time": "2026-06-04 02:25:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Canola (2.61%). Biggest losers are Wheat (-2.79%) and Coffee (-2.53%)."
+    },
     {
       "id": "4915876",
       "time": "2026-06-04 02:23:42",
@@ -176130,54 +176165,6 @@
         "公司"
       ],
       "text": "【Meta將推出AI聊天機器人訂閱服務 月費最低7.99美元】Meta Platforms首次開始向消費者銷售Meta AI聊天機器人訂閱服務，這是該公司建立人工智慧業務的重要一步，料有助於部分抵消其在AI領域高達數千億美元的支出。新推出的訂閱服務分為兩檔。公司發言人表示，基礎檔名為Meta One Plus，月費7.99美元，面向頻繁使用Meta AI生成圖片和影片，或依賴其進行復雜推理的使用者。該發言人補充稱，更高階別的Meta One Premium月費為19.99美元，包含與Meta One Plus相同的功能，但使用額度更高。Meta AI訂閱服務將率先在新加坡、瓜地馬拉和玻利維亞上線，之後還會擴充套件至更多國家。"
-    },
-    {
-      "id": "4903119",
-      "time": "2026-05-28 02:28:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“洪迪厄斯”號郵輪推遲啟航返回母港時間】荷蘭“泛海探險”公司27日表示，根據荷蘭衛生部門建議，該公司運營的“洪迪厄斯”號郵輪將推遲返回母港弗利辛根的時間，將繼續停靠在荷蘭鹿特丹港進行進一步清潔和消毒工作，以便後續重新投入運營。“泛海探險”公司表示，該郵輪計劃自6月13日起恢復運營，並執行預定航次。"
-    },
-    {
-      "id": "mkt:019e6ab0-edbd-7223-8ed8-93b78365ae64",
-      "time": "2026-05-28 02:27:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "VON DER LEYEN: The coming weeks are critical for Ukraine's EU accession process; decisive measures must be taken."
-    },
-    {
-      "id": "4903118",
-      "time": "2026-05-28 02:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta股價漲超2%。"
-    },
-    {
-      "id": "mkt:019e6ab0-b853-7223-8ed8-895c16635f5b",
-      "time": "2026-05-28 02:27:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President VON DER LEYEN spoke by phone with Ukrainian President ZELENSKIY and reiterated Europe's full support for Ukraine."
-    },
-    {
-      "id": "te:markets:554174",
-      "time": "2026-05-28 02:25:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Plunges by 5.65% — Top commodity losers are Orange Juice (-5.65%), Sugar (-2.82%) and Wheat (-2.25%). Gains are led by Oat (2.52%) and Canola (0.78%)."
     }
   ]
 }
