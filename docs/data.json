@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-03 08:17:09",
-  "count": 18503,
+  "updated": "2026-06-03 08:21:01",
+  "count": 18499,
   "items": [
+    {
+      "id": "mkt:019e8ad9-fcd4-733d-881d-0261ca144aa2",
+      "time": "2026-06-03 08:20:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Yen falls to 160 per dollar again】In Tokyo FX trading on June 3 the yen weakened to about 160 per USD. On April 30 the yen hit a low of 160.7 per USD; to curb the decline the Japanese government and the BOJ intervened in the FX market, buying yen and selling dollars, and the government carried out further intervention during May Golden Week. Those actions briefly lifted the yen to around 155 per USD, but the currency has since resumed weakening."
+    },
+    {
+      "id": "4913850",
+      "time": "2026-06-03 08:19:44",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【日元匯率走低 再度跌至1美元兌換160日元】6月3日，東京外匯市場上，日元匯率再度跌至1美元兌換160日元。4月30日，日元匯率一度觸及1美元兌換160.7日元的低位，為遏制日元持續貶值，日本政府與央行當天實施了買入日元、賣出美元的匯市干預措施，日本政府在5月黃金週假期也進行了相關干預。日元匯率受干預措施影響迅速升至1美元兌換155日元區間，但近期日元再度走弱。（央視）"
+    },
+    {
+      "id": "4913849",
+      "time": "2026-06-03 08:19:18",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "【中信證券5月資料前瞻：出口增速或保持在較高水平】中信證券研報表示，今年5月，預計經濟將呈現“PPI-CPI剪刀差進一步擴大”以及“外需明顯強於內需”的結構性分化特徵，PPI同比有望進一步抬升，帶動PPI-CPI剪刀差顯著擴大，需求端的投資、社零增速或偏低，外貿保持較快增長。生產方面，5月高頻資料反映工業生產實物工作量不及預期，預計5月工業增加值增速可能仍然偏低。需求方面，近期專項債發行進度顯著放緩，5月石油瀝青開工率、建築業PMI等指標表現也偏差，我們預計5月固定資產投資同比增速延續回落。考慮到補貼資金使用情況的同比差異以及金價的近期走勢，預計5月社零增速也會偏低。近期出口鏈高頻資料延續較強態勢，疊加去年同期基數較低，我們認為5月出口增速或保持在較高水平。物價方面，預計5月PPI環比讀數將較4月有所回落但仍將錄得正值，PPI同比或錄得3.8%附近，帶動PPI-CPI剪刀差進一步擴大。金融資料方面，預計5月社融增速為7.6%，票據貼現在貸款中的佔比可能較高。"
+    },
+    {
+      "id": "mkt:019e8ad8-c013-733d-881c-fa0436f164da",
+      "time": "2026-06-03 08:18:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Copper peak could test $15,000/ton this year】CITIC Securities says the timing of the U.S. copper tariff assessment is approaching, reviving \"tariff trades\" and inventory hoarding in the copper market. Overseas precautionary stockpiling is providing firm fundamental support, while the recent sharp rise in COMEX stocks—interpreted as \"trading\" inventory buildup—could accelerate gains in copper prices and copper equities. The house view: the intra‑year high could challenge $15,000/ton; it recommends exposure to copper names where earnings and valuation upside align."
+    },
+    {
+      "id": "te:markets:555882",
+      "time": "2026-06-03 08:18:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mizuho Financial Stock Price Hits 15-week High — Mizuho Financial shares increased to 7535.00 JPY, the highest since February 2026. Over the past 4 weeks, Mizuho Financial gained 6.06%, and in the last 12 months, it increased 86.12%."
+    },
     {
       "id": "mkt:019e8ad6-cb10-733d-881c-f48464e72df9",
       "time": "2026-06-03 08:16:32",
@@ -169527,94 +169582,6 @@
         "國際"
       ],
       "text": "特朗普任命邦迪進入白宮人工智慧委員會。"
-    },
-    {
-      "id": "4901189",
-      "time": "2026-05-27 08:20:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞市早盤油價下跌 隨著市場評估重新開放霍爾木茲海峽的前景】亞洲早盤交易中油價下跌，隨著交易員權衡美伊達成協議的前景。近月布倫特原油下跌0.3%，至每桶99.27美元；西得州中質油下跌0.7%，至93.24美元。儘管敵對行動重新抬頭，但仍有希望達成重新開放霍爾木茲海峽的協議。德黑蘭方面暗示，襲擊不會破壞談判，而美國國務卿魯比奧表示，敲定一項潛在協議需要幾天時間。不確定性依然很高。凱投宏觀的Kieran Tomkins指出，雖然原油期權資料表明投資者預計價格將在未來三個月內回落，但他們的確信度異常低。他說，期權表明投資者認為透過該海峽的供應很快恢復是最可能的結果，但他們暗含的預期是，三個月後油價超過每桶100美元的機率為37%。"
-    },
-    {
-      "id": "4901188",
-      "time": "2026-05-27 08:20:18",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：社服行業下半年推薦三條主線】 中信證券研報稱，2025年年報及2026年一季報資料顯示，服務業消費呈現供需改善、龍頭超額特徵。展望未來，中信證券認為社服行業配置具備政策先行、價格改善、基數分野三條短期線索，以及滲透提升、頭部集中、創新供給三大長線支撐。下半年推薦三條主線：1.休閒出行場景中，短期受益假期政策，長期受益文旅消費提升的酒店、景區板塊中運營能力優秀的企業；2.需求景氣持續中，彈性斜率較高且格局清晰衍生未來穩定分紅預期的博彩公司和現制飲品頭部品牌；3.順週期休閒板塊中經營穩健、具備成長性的餐飲和免稅龍頭；此外關注OTA、人力資源、會展板塊。"
-    },
-    {
-      "id": "4901187",
-      "time": "2026-05-27 08:20:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界最大規模海上換流站今日啟運】 今天（5月27日），世界規模最大的海上換流站——“海風之心”將從江蘇南通正式發運。換流站長85.5米、寬82.5米、高44米，平面面積相當於一個標準足球場，高度約等於15層居民樓，重達25000噸，是世界首個±500千伏、2000兆瓦柔性直流海上換流站。按照計劃，“海風之心”將透過半潛船運輸至1090海里外的廣東陽江青洲海上風電場，採用“浮托安裝”工藝，與預先安裝在海底的導管架基礎進行對接。（央視新聞）"
-    },
-    {
-      "id": "4901186",
-      "time": "2026-05-27 08:20:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1422.95美元/盎司。"
-    },
-    {
-      "id": "4901185",
-      "time": "2026-05-27 08:19:54",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見巴林外交大臣扎耶尼】當地時間26日，中共中央政治局委員、外交部長王毅在紐約主持聯合國安理會高階別會議期間會見巴林外交大臣扎耶尼。\n\n王毅表示，巴林作為安理會成員和海合會輪值主席國，第一時間確認出席此次高階別會議，體現了對中巴關係的重視和對中方擔任安理會輪值主席的支援，中方對此表示讚賞，願同巴林一道，推動兩國關係以及中阿、中海關係平穩健康發展。\n\n王毅表示，作為巴林等海灣國家的好朋友、好夥伴，中方真誠希望中東海灣地區儘早恢復和平安寧。習近平主席就維護和促進中東和平穩定鄭重提出四點主張，闡明瞭負責任態度和公道立場。這場戰事本不該發生，更沒有理由延續下去。當務之急就是推動全面持久停火。國際社會應加大促和力度，共同致力於緩局降溫，尤其要反對拱火、加劇緊張。中方支援巴基斯坦等國繼續積極斡旋，願同巴林等安理會成員密切協調，確保安理會工作沿著政治解決的正確方向前行，為實現中東長治久安共同作出努力。\n\n扎耶尼祝賀中方作為安理會輪值主席成功召開此次高階別會議。他表示，當前國際形勢下，中國的領導力和智慧正是世界所需要的。中東地區局勢動盪以來，中方秉持公平正義，同海灣國家保持密切溝通，為停火止戰作出積極努力，巴方對此表示讚賞，期待中方發揮更大作用。巴方高度重視對華關係，願進一步加強雙方各領域合作，推進巴中關係、海中關係不斷取得新進展。"
-    },
-    {
-      "id": "mkt:019e66cd-4ddd-7332-8108-370eb242fd74",
-      "time": "2026-05-27 08:19:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA FOREIGN MINISTER WANG YI Meets Indonesia FM Sujiyono In New York】CHINA FOREIGN MINISTER WANG YI Pledges Deeper China‑Indonesia Cooperation; Both Agree To Continue Joint South China Sea Development To Maintain Peace And Stability"
-    },
-    {
-      "id": "te:markets:553866",
-      "time": "2026-05-27 08:19:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Higher Following Record Close — US stock futures edged higher on Wednesday after the S&P 500 and Nasdaq Composite climbed to fresh record highs in the previous session, supported by continued strength in technology shares. During Tuesday’s regular trading session, the S&P 500 advanced 0.61% while the Nasdaq Composite surged 1.19%, whereas the Dow slipped 0.23%. Six of the 11 major S&P sectors ended in positive territory, with technology, industrials and materials leading the gains, while energy, consumer staples and healthcare stocks recorded the sharpest declines. Investors also remained cautiously hopeful that the US and Iran could still secure an agreement despite renewed tensions in the Middle East. In after-hours trading, Zscaler tumbled more than 20% after forecasting weaker-than-expected revenue for the current quarter. Market participants are now awaiting earnings results from Salesforce, Synopsys, Agilent Technologies, HP and Dick's Sporting Goods later on Wednesday."
-    },
-    {
-      "id": "4901184",
-      "time": "2026-05-27 08:19:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲1.8% 晶片和金屬股領漲】隨著對人工智慧(AI)的熱情持續，日本股市在早盤交易中走高。晶片和金屬股領漲。鎧俠上漲7.3%，Mitsui Kinzoku上漲5.3%。投資者正關注潛在的美伊和平協議的進展及其對油價的影響。日經指數上漲1.8%，至66165.99點，此前曾創下66428.81點的盤中歷史新高。"
-    },
-    {
-      "id": "mkt:019e66cb-f1a2-700b-9049-687b3c81b978",
-      "time": "2026-05-27 08:18:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "【CITIC Securities Maintains View: US Stocks To Outperform Treasuries, Dollar Index Supported】CITIC Securities: Middle East Conflict Tests Global Resilience; Strait Of Hormuz Shows Signs Of Resumed Navigation; US To See Uneven Moderate Growth This Year; EU Recovery Delayed; Japan Private Demand Hit By Energy Shortages; High Oil Pushes Global inf; US/EU inf To Remain Elevated This Year; Japan inf To Stay Moderate; Fed Likely No Cuts This Year; ECB, BOJ Could Hike Soon; Loose Fiscal Stance In Japan, Europe Adds Market Risk; Maintain US Stocks > US Treasuries; Dollar Index Supported; Gold To Recover As Tail inf Risk Eases"
     }
   ]
 }
