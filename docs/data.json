@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-03 23:13:12",
-  "count": 19176,
+  "updated": "2026-06-03 23:17:21",
+  "count": 19182,
   "items": [
+    {
+      "id": "mkt:019e8e0e-9e13-744e-9fd4-210619508ea7",
+      "time": "2026-06-03 23:16:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said as of June 3 its forces had guided 125 commercial vessels to alter course and rendered 6 vessels inoperable."
+    },
+    {
+      "id": "4915738",
+      "time": "2026-06-03 23:15:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍稱已在霍爾木茲海峽排程 125 艘船隻變更航線。"
+    },
+    {
+      "id": "4915737",
+      "time": "2026-06-03 23:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：將持續採取舉措，緩解戰事對物價造成的衝擊。"
+    },
+    {
+      "id": "mkt:019e8e0c-6304-744e-9fd4-1d12dde76a82",
+      "time": "2026-06-03 23:13:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he intends to keep the fiscal deficit-to-GDP ratio at about 3.x%."
+    },
+    {
+      "id": "4915736",
+      "time": "2026-06-03 23:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：巴西 2026 年二季度經濟表現將再度超市場預期。"
+    },
+    {
+      "id": "mkt:019e8e0c-203c-744e-9fd4-118da2241757",
+      "time": "2026-06-03 23:13:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Foreign long-term investors boost allocations to Chinese hard tech】Several global financial institutions have raised China outlooks and increased allocations to Chinese technology firms, accelerating onshore investment. MSCI has formally added 19 A-shares to the MSCI China Index, concentrated in optical communications, computing power and high-end manufacturing, which eases foreign access to these names. Foreign holdings of A-share free-float market value exceed 4 trillion yuan and year‑to‑date inflows have been steady via various channels. Investment banks including Morgan Stanley and Deutsche Bank have recently lifted their 2026 China GDP forecasts; many cite China’s core competitiveness in tech innovation as the main rationale for increasing exposure."
+    },
+    {
+      "id": "mkt:019e8e0c-0b1f-744e-9fd4-0f33ded61f6f",
+      "time": "2026-06-03 23:13:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH monitoring shows Italy's residential mortgage market remains stable and housing supply remains ample."
+    },
+    {
+      "id": "4915735",
+      "time": "2026-06-03 23:13:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率漲5個基點，重新整理5月22日以來高位至3.03%。"
+    },
+    {
+      "id": "mkt:019e8e0b-e4e6-744e-9fd4-0196d0fd343c",
+      "time": "2026-06-03 23:13:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Germany's 10-year bond yield rose 5bps to 3.03%, the highest since May 22."
+    },
+    {
+      "id": "te:economy:556217",
+      "time": "2026-06-03 23:13:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Manufacturing PMI",
+        "Importance 0"
+      ],
+      "text": "Colombia Manufacturing PMI Hits Five-Month High — Colombia's Davivienda Manufacturing PMI rose to 51.8 in May 2026 from 50.8 in April, marking the highest reading since December 2025 and signaling a stronger expansion in factory activity. Resilient demand supported modest increases in both output and new orders, helping production return to growth. Manufacturers also increased staffing levels for a second consecutive month, supported by improved expectations for future output. Business confidence rose to a three-month high. Firms boosted purchases of raw materials and semi-finished goods to strengthen inventories, while input cost inflation accelerated to its highest level in 38 months. Output prices continued to rise at a historically elevated pace, although the rate eased to its weakest this year. Meanwhile, supplier delivery times lengthened to the greatest extent since September 2024, stocks of purchases and finished goods declined for a third straight month, and outstanding business volumes fell for the fourth consecutive month."
+    },
+    {
+      "id": "4915734",
+      "time": "2026-06-03 23:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 計劃將赤字率控制在 3% 左右。"
+    },
+    {
+      "id": "te:markets:556216",
+      "time": "2026-06-03 23:12:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Gains — Brent crude oil futures extended gains to nearly 2%, reaching $97.6 per barrel after EIA data showed a sixth consecutive weekly decline in US crude inventories. Stockpiles fell by 7.97 million barrels last week, the most since February and well above expectations for a 4 million barrel decrease. Meanwhile, President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire."
+    },
     {
       "id": "mkt:019e8e0b-12a7-744e-9fd3-f9eeb53e9cd2",
       "time": "2026-06-03 23:12:30",
@@ -176516,66 +176637,6 @@
         "國際"
       ],
       "text": "【伊朗南部發生能源設施裝置事故致1死2傷】據伊朗伊斯蘭共和國廣播電視臺27日報道，位於伊朗南部阿薩盧耶的達馬萬德能源公司一處裝置當天發生事故，造成1人死亡、2人受傷。該公司發表的宣告說，事故發生於當日11時35分許，該公司的一套空氣分離裝置發生事故。事故發生後，救援、運營及安全人員迅速抵達現場，展開緊急處置。傷者已被送往醫療機構接受治療。事故原因正在調查中。（新華社）"
-    },
-    {
-      "id": "mkt:019e6a01-d555-7223-8ed5-40c8b27498f0",
-      "time": "2026-05-27 23:16:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Rhine Water Levels Fall, Oil Barges Forced To Reduce Cargo】The Rhine, one of Europe’s most important rivers, has seen water levels continue to fall, restricting barge carrying capacity and, together with the ongoing protracted Iran conflict, adding further pressure to regional fuel supply chains. Spotbarge data showed that earlier on Wednesday water at Germany’s key navigation point Kaub had dropped to extremely low levels, with a 110‑metre barge able to carry just over 1,000 tonnes of diesel — roughly 40% of its total rated capacity. The Rhine is a critical European transport artery: over 280 million tonnes of cargo moved via the waterway in 2024, with petroleum products accounting for more than 20% of that volume."
-    },
-    {
-      "id": "mkt:019e6a01-889a-7223-8ed5-3e20ee73565d",
-      "time": "2026-05-27 23:15:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "ISRAELI MILITARY: struck a HEZBOLLAH command center in the southern Lebanese city of Tyre."
-    },
-    {
-      "id": "4902934",
-      "time": "2026-05-27 23:14:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股太空概念股延續漲勢】Momentus漲超21%，Redwire漲超6%，AST SpaceMobile漲超5%，Rocket Lab漲超1%。"
-    },
-    {
-      "id": "4902933",
-      "time": "2026-05-27 23:14:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：以軍正在打擊黎巴嫩南部提爾地區的真主黨武裝總部。"
-    },
-    {
-      "id": "4902932",
-      "time": "2026-05-27 23:14:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超3.00%，現報2.981美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019e6a00-1bc4-7223-8ed5-33558332590a",
-      "time": "2026-05-27 23:14:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ERDOGAN Seeks Meeting With TRUMP During World Cup Match】People familiar with the matter said ERDOGAN is seeking to arrange a meeting with TRUMP next month, possibly immediately before or after a Turkey v. United States World Cup match in Los Angeles. The potential meeting would be held less than two weeks before a NATO summit to be hosted by Ankara, and, the sources said, comes amid growing signs that Washington plans to pare back its role supporting the military alliance in Europe. The people added that, if a meeting with TRUMP is secured, the two leaders could discuss bilateral and regional ties and each country’s role in NATO’s future development ahead of the summit scheduled for July 7-8."
     }
   ]
 }
