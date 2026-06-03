@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-03 12:04:59",
-  "count": 18455,
+  "updated": "2026-06-03 12:08:49",
+  "count": 18449,
   "items": [
+    {
+      "id": "mkt:019e8baa-ae5d-7ee2-b13f-07abf30d1b4e",
+      "time": "2026-06-03 12:07:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou–Astana direct route opens; Baiyun reports surge in Central Asia passenger traffic】Guangzhou Baiyun International Airport opened the first direct service linking a Greater Bay Area core city with Kazakhstan’s capital, with the inaugural flight landing early on June 3. Authorities said the route improves China–Central Asia air connectivity and will support national high-level opening and regional interconnectivity. As of June 2, Baiyun border checkpoint reported more than 90,000 passenger movements to/from the five Central Asian countries year-to-date, up 286.6% YoY. Passenger volumes from Kazakhstan, Uzbekistan and Kyrgyzstan rose 258.4%, 351.9% and 660.6% respectively; arrivals from other Central Asian countries via Guangzhou also increased."
+    },
+    {
+      "id": "mkt:019e8ba9-e2f8-7ee2-b13e-fe776b7f5ab9",
+      "time": "2026-06-03 12:07:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Meituan",
+        "JD.com",
+        "Tencent",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00700.HK",
+        "03690.HK"
+      ],
+      "text": "【Hong Kong midday: HSI drifts lower, heavyweight techs pull back】By midday, the Hang Seng Index was down 1.69% and the Hang Seng Tech Index fell 2.35%. Heavyweight techs led losses: Meituan (03690.HK) off over 6%, Kuaishou (01024.HK) down over 5%, Tencent Holdings (00700.HK) and JD.com (09618.HK) down over 4% each. Autos were weak: Leapmotor (09863.HK) down over 5%, XPeng (09868.HK) and Li Auto (02015.HK) down over 3%. Semiconductors outperformed: Yangtze Optical Fibre and Cable (06869.HK) up nearly 17%, Hua Hong Semiconductor (01347.HK) up over 6%, SMIC (00981.HK) up over 4%."
+    },
+    {
+      "id": "mkt:019e8ba9-6e46-7ee2-b13e-f2baa16ab074",
+      "time": "2026-06-03 12:06:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB Governing Council member WUNSCH says US‑Iran peace would not weaken case for rate hike】ECB Governing Council member WUNSCH said a US‑Iran peace deal reached before next week’s ECB meeting would be part of the discussion but would not necessarily weaken the case for a rate hike. He flagged uncertainty over the durability and credibility of any deal and signalled support for a 25bp increase. If the conflict remains unresolved, discussions ahead of the June 11 meeting will be fairly straightforward; a peace deal might make discussion slightly less straightforward, though the case for a hike could still remain, albeit less strong. He added that policymakers cannot leave markets to shoulder all adjustments and need to show a stance."
+    },
+    {
+      "id": "4914204",
+      "time": "2026-06-03 12:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州往返阿斯塔納首條直飛航線開通 白雲機場口岸中亞客流攀升】6月3日凌晨，隨著KC8217航班平穩降落廣州白雲國際機場，白雲機場口岸新增廣州往返阿斯塔納的首條直飛航線，這也是首條大灣區核心城市往返哈薩克首都的直飛航線，完善了中國—中亞地區空中交通網路，將有力服務國家高水平對外開放和區域互聯互通。據白雲邊檢站統計，隨著中國與哈薩克、烏茲別克互免簽證政策紅利持續釋放，中國與相關國家間人員往來持續增長。截至6月2日，今年以來經白雲機場口岸入出境的中亞五國旅客超9萬人次，同比大幅增長286.6％。其中，來自哈薩克、烏茲別克、吉爾吉斯斯坦3國的旅客增長尤為明顯，分別增長258.4%、351.9%、660.6%；地區內其他國家旅客經廣州來華人數也在增加。"
+    },
     {
       "id": "4914203",
       "time": "2026-06-03 12:03:58",
@@ -169262,92 +169308,6 @@
         "國際"
       ],
       "text": "歐洲汽車製造商協會(ACEA)的資料顯示，自去年夏天該協會開始將比亞迪納入其資料以來，這家公司的地區銷量逐月激增，上月銷量增長逾一倍，達到27,008輛。與此同時，中國的零跑汽車(Leapmotor)在歐洲的銷量增長超過四倍，達到8,745輛。"
-    },
-    {
-      "id": "4901626",
-      "time": "2026-05-27 12:08:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "石藥集團：一季度收入總額同比降7.8%。"
-    },
-    {
-      "id": "4901625",
-      "time": "2026-05-27 12:08:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "石藥集團第一季度營收64.7億元人民幣，銷售及分銷開支16.6億元人民幣，研發支出14.0億元人民幣。"
-    },
-    {
-      "id": "4901624",
-      "time": "2026-05-27 12:07:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機構：2026年第一季度全球DRAM營收逼近千億美元】據Counterpoint諮詢統計，在強勁市場需求與儲存價格雙雙走強的推動下，全球DRAM營收於2026年第一季度環比增長80%，創下歷史新高。高頻寬記憶體（HBM）以及AI資料中心基礎設施中LPDDR5應用佔比提升，也成為推動這一增長的重要因素。其中，三星儲存業務持續保持領先地位，SK海力士與美光分列第二、第三位。預計2026年第二季度價格將繼續環比增長50%（包括HBM及標準型DRAM），預示市場將迎來又一個表現強勁的季度。"
-    },
-    {
-      "id": "4901623",
-      "time": "2026-05-27 12:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西宜春釋出暴雨紅色預警訊號】江西宜春市氣象臺2026年5月27日9時1分變更暴雨紅色預警訊號：過去3小時，宜春市萬載縣仙源鄉的區域性地區累計雨量已達100毫米以上，萬載縣西北部的部分地區累計雨量達60毫米以上，預計未來3小時內，萬載縣西北部仍有20-30毫米降水，並伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
-    },
-    {
-      "id": "4901622",
-      "time": "2026-05-27 12:07:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保時捷融資租賃公司增資至10億 增幅約23%】天眼查App顯示，近日，保時捷融資租賃有限公司發生工商變更，註冊資本由約8.2億人民幣增至10億人民幣，增幅約23%。該公司成立於2020年9月，法定代表人為汪濤，經營範圍包括融資租賃業務、租賃業務、向國內外購買租賃財產等。"
-    },
-    {
-      "id": "mkt:019e679d-588f-7ddb-92cf-913ae6b37cf5",
-      "time": "2026-05-27 12:06:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan 40-Year Govt Bond Auction Sees Above-Average Demand】Japan 40-year govt bond auction draws strong demand; BID-COVER RATIO 2.70 vs 2.54 prior and 12-month avg 2.47; winning yield 3.84% vs 3.6% prior; 40-year yield 4.09%, below this month's 4.355% peak. TAKAICHI says government will fund supplementary budget without increasing calendar-year govt bond issuance, easing supply concerns. KATAYAMA says about $3.2 bln of contingency funds will be used this fiscal year to subsidize utility spending."
-    },
-    {
-      "id": "4901621",
-      "time": "2026-05-27 12:06:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廖岷會見環球銀行金融電信協會首席企業官羅斯瑪麗·斯通】2026年5月26日，財政部副部長廖岷在北京會見環球銀行金融電信協會（Swift）首席企業官羅斯瑪麗·斯通，就Swift內部治理、跨境支付、業務安全性、技術創新影響等問題進行了交流。（財政部）"
-    },
-    {
-      "id": "4901620",
-      "time": "2026-05-27 12:06:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗民航組織宣佈全國10個機場將實現24小時運營】伊朗民航組織26日宣佈，全國10個機場將延長運營時間並實施全天候24小時執行。其中包括德黑蘭伊瑪目霍梅尼國際機場和梅赫拉巴德機場，以及薩里、比爾詹德、戈爾甘、博伊努爾德、克爾曼、扎黑丹、薩布澤瓦爾和馬什哈德機場。（央視）"
-    },
-    {
-      "id": "4901619",
-      "time": "2026-05-27 12:06:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄、伊外交官赴聯合國參會遇阻 】俄羅斯常駐聯合國代表瓦西里·涅邊賈26日說，俄外交部副部長亞歷山大·阿利莫夫原定出席在美國紐約舉行的聯合國安理會會議，但美方拒不發放簽證，俄方譴責美國此舉違背其作為聯合國總部東道國的義務。 涅邊賈表示，俄方曾多番勸說美方為阿利莫夫發放簽證，卻最終無果。涅邊賈說，按照現有協定，紐約聯合國總部“理應對所有聯合國會員國官員開放，不得排除任何人”。另據伊朗外交部25日說，伊朗外長阿巴斯·阿拉格齊也因“簽證問題”無法參加同一場安理會會議。"
-    },
-    {
-      "id": "4901618",
-      "time": "2026-05-27 12:05:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鎢高新與新銳股份舉行工作會談】據新銳股份訊息，5月26日，中鎢高新董事、總經理沈慧明一行到訪新銳股份，與新銳股份董事長吳何洪等人舉行工作會談。會談期間，雙方圍繞鎢行業當前的發展態勢、市場價格波動趨勢以及產業鏈健康生態的構建等共同關切的話題展開了充分探討。雙方達成共識：鎢作為國家戰略金屬，我國鎢行業企業應從維護國家戰略安全的高度出發，積極爭取並共同維護中國在國際市場上的話語權和定價權；同時，保持鎢價相對平穩，對於促進全產業鏈的良性、可持續發展具有重要意義。"
     }
   ]
 }
