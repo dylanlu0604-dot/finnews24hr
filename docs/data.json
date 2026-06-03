@@ -1,7 +1,300 @@
 {
-  "updated": "2026-06-03 22:18:34",
-  "count": 19051,
+  "updated": "2026-06-03 22:22:41",
+  "count": 19076,
   "items": [
+    {
+      "id": "4915630",
+      "time": "2026-06-03 22:21:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：每新增一條規則，（美國）政府就取消129條規則。"
+    },
+    {
+      "id": "mkt:019e8ddc-4b8e-7bb3-9676-4eb8f0984da3",
+      "time": "2026-06-03 22:21:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【ISM: U.S. services activity expanded in May】ISM's May services PMI rose to 54.5 from 53.6 in April, beating expectations. New orders continued to expand. The supplier deliveries index fell from April but stayed above 50 for an 18th straight month, signaling ongoing delivery slowdowns. The prices index climbed to its highest since August 2022; diesel, gasoline, crude oil and related commodities were most frequently cited for price increases. The employment index contracted for a third month; ISM chair Steve Miller said respondents frequently reported hiring freezes or not backfilling vacancies, though most industries reported month-to-month employment was steady."
+    },
+    {
+      "id": "4915629",
+      "time": "2026-06-03 22:21:17",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【ISM：美國5月服務業活動繼續擴張】美國供應管理協會（ISM）調查發現，美國服務業活動在5月份的增長超過預期。5月ISM服務業PMI為54.5，而4月份為53.6。新訂單指數上月繼續擴張。與此同時，供應商交貨指數較4月份有所下降。該指數已是連續第18個月處於擴張區間，這表明供應商交貨速度放緩。價格指數升至2022年8月以來的最高水平。5月份，柴油、汽油、石油和相關大宗商品再次成為最常被提及價格上漲的品類。與此同時，就業指數連續第三個月萎縮。ISM主席史蒂夫·米勒表示：“受訪者頻頻表示，所在公司已凍結招聘或不再填補空缺職位，但大多數行業報告稱，月度就業人數保持平穩。”。"
+    },
+    {
+      "id": "mkt:019e8ddc-4a86-7bb3-9676-4147cec55177",
+      "time": "2026-06-03 22:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the government cancels 129 rules for every one new rule it adds."
+    },
+    {
+      "id": "mkt:019e8ddb-ff7c-7bb3-9676-3e35ffda4eb1",
+      "time": "2026-06-03 22:21:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said many armed personnel targeting Israel are based in Beirut."
+    },
+    {
+      "id": "4915628",
+      "time": "2026-06-03 22:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產：可能計劃在2027財年在其工廠生產奇瑞汽車。"
+    },
+    {
+      "id": "4915627",
+      "time": "2026-06-03 22:20:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡談及真主黨：許多針對以色列的襲擊者都身在貝魯特。"
+    },
+    {
+      "id": "4915626",
+      "time": "2026-06-03 22:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：需要對黎巴嫩進行非軍事化。"
+    },
+    {
+      "id": "mkt:019e8ddb-59eb-7bb3-9676-310eca1f8352",
+      "time": "2026-06-03 22:20:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Lebanon needs to be demilitarized."
+    },
+    {
+      "id": "mkt:019e8ddb-47f3-7bb3-9676-2a04bfec6ca8",
+      "time": "2026-06-03 22:20:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Rubio, US secretary of state, said the US government considers Iran possessing nuclear weapons a more serious problem."
+    },
+    {
+      "id": "4915625",
+      "time": "2026-06-03 22:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產：桑德蘭工廠仍將由日產全資擁有。"
+    },
+    {
+      "id": "mkt:019e8ddb-18a4-7bb3-9676-23294ddf2dbb",
+      "time": "2026-06-03 22:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly crude inventory, Cushing hub crude stocks and Strategic Petroleum Reserve levels for the week to May 29 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019e8ddb-0b5a-7bb3-9676-19f909b73acd",
+      "time": "2026-06-03 22:20:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netanyahu said Trump has voiced positive comments about Netanyahu's judicial trial."
+    },
+    {
+      "id": "te:markets:556206",
+      "time": "2026-06-03 22:19:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 8-week Low — American Express shares decreased to 302.89 USD, the lowest since April 2026. Over the past 4 weeks, American Express lost 4.91%, and in the last 12 months, it increased 2.57%."
+    },
+    {
+      "id": "4915624",
+      "time": "2026-06-03 22:19:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：政府認為擁有核武器的伊朗更糟糕。"
+    },
+    {
+      "id": "mkt:c6e11fbf-d9f6-4330-b575-e8a3186e7691",
+      "time": "2026-06-03 22:19:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Trump is aware of the economic consequences of a war with Iran."
+    },
+    {
+      "id": "4915623",
+      "time": "2026-06-03 22:19:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：特朗普是以色列在白宮“最偉大的朋友”。"
+    },
+    {
+      "id": "mkt:019e8dda-85cb-7ddf-95c8-b20fbceff562",
+      "time": "2026-06-03 22:19:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US Treasury Secretary Bessent said Trump's tax reform bill avoided more than $5 tln of tax increases."
+    },
+    {
+      "id": "4915622",
+      "time": "2026-06-03 22:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：特朗普知悉伊朗戰爭的經濟後果。"
+    },
+    {
+      "id": "mkt:019e8dda-7dae-7ddf-95c8-a92cafa34fac",
+      "time": "2026-06-03 22:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netanyahu said Trump is Israel's \"greatest friend in the White House.\""
+    },
+    {
+      "id": "4915621",
+      "time": "2026-06-03 22:19:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊質疑“SaaS末日論”：AI收入增長或主要來自勞動力市場】過去一年，華爾街關於人工智慧（AI）最流行的投資邏輯之一，就是所謂的“SaaS末日論”。隨著ChatGPT、Claude等大模型快速普及，越來越多投資者開始擔心，傳統軟體公司賴以生存的軟體訂閱模式將被AI取代。無論是程式碼開發、客服管理還是企業辦公，越來越多工作正在由AI完成，市場甚至出現了“軟體將成為AI的附屬品”的觀點。然而，巴克萊在其最新研報中指出，從目前AI行業已經達到的收入規模來看，這套邏輯解釋不通。僅靠蠶食軟體市場遠遠無法支撐AI的增長。AI真正爭奪的物件，或許並不是軟體預算，而是規模更大的勞動力預算。"
+    },
+    {
+      "id": "4915620",
+      "time": "2026-06-03 22:18:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：與特朗普的關係沒有變化。需要找到從伊朗獲取核材料的方法。"
+    },
+    {
+      "id": "4915619",
+      "time": "2026-06-03 22:18:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：特朗普稅改法案避免了超 5 萬億美元的增稅落地。"
+    },
+    {
+      "id": "mkt:019e8dda-0f0a-7ddf-95c8-a05cf33b40f3",
+      "time": "2026-06-03 22:18:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Prime Minister Netanyahu said Israel needs to find ways to obtain nuclear material from Iran."
+    },
+    {
+      "id": "mkt:019e8dd9-c822-7ddf-95c8-9b8026e9c25f",
+      "time": "2026-06-03 22:18:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said his relationship with Trump has not changed."
+    },
+    {
+      "id": "mkt:019e8dd9-9a66-7ddf-95c8-94684a069b44",
+      "time": "2026-06-03 22:18:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said tactical differences sometimes arise, but they will be resolved."
+    },
+    {
+      "id": "mkt:019e8dd9-727e-7ddf-95c8-8bd40b03adc7",
+      "time": "2026-06-03 22:18:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said he and Trump have reached agreement on key issues concerning Iran."
+    },
+    {
+      "id": "4915618",
+      "time": "2026-06-03 22:17:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：希望關注伊朗核計劃。"
+    },
+    {
+      "id": "4915617",
+      "time": "2026-06-03 22:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：我們有時會存在戰術分歧，但我們會解決這些分歧。"
+    },
+    {
+      "id": "mkt:019e8dd9-0ec9-7ddf-95c8-847b30b1dfcc",
+      "time": "2026-06-03 22:17:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said attention should be focused on Iran's nuclear program."
+    },
+    {
+      "id": "mkt:019e8dd9-0e65-7ddf-95c8-7f2a2cfde832",
+      "time": "2026-06-03 22:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister Netanyahu said he will not elaborate on comments Trump made during their phone call."
+    },
     {
       "id": "4915616",
       "time": "2026-06-03 22:17:24",
@@ -670,6 +963,15 @@
         "Impact mixed"
       ],
       "text": "Federal Reserve's Williams said much of the inf is caused by tariffs, inf and computer chips."
+    },
+    {
+      "id": "em:qqyh_mlc:202606033759339870",
+      "time": "2026-06-03 22:07:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員威廉姆斯：如果霍爾木茲海峽重新開放 通脹將在未來幾個月觸頂】美聯儲官員威廉姆斯表示，如果霍爾木茲海峽重新開放，通脹將在未來幾個月觸頂。"
     },
     {
       "id": "4915579",
@@ -175274,68 +175576,6 @@
         "公司"
       ],
       "text": "波音執行長稱，737-10 及 737-7 機型已進入認證最後階段。"
-    },
-    {
-      "id": "4902834",
-      "time": "2026-05-27 22:22:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "米蘭上市意法半導體股票在下跌3.69%後自動停牌。"
-    },
-    {
-      "id": "4902833",
-      "time": "2026-05-27 22:22:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古越龍山副總經理柏宏兼任女兒紅董事長】5月27日，據女兒紅官方公眾號訊息，日前，紹興女兒紅釀酒有限公司幹部大會召開。會上，公司宣讀人事任免檔案：股份公司副總經理柏宏同志兼任紹興女兒紅釀酒有限公司黨委書記，推薦其為董事長人選，主持女兒紅公司全面工作。胡志明同志因年齡到槓退休，提議免去其紹興女兒紅釀酒有限公司黨委書記、董事長職務，聘任其為浙江古越龍山紹興酒股份有限公司特聘專家、總釀酒師。"
-    },
-    {
-      "id": "4902832",
-      "time": "2026-05-27 22:20:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：俄銀行業4月實現利潤3480億盧布，環比下降22%。"
-    },
-    {
-      "id": "4902831",
-      "time": "2026-05-27 22:20:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迦納一客車與拖車相撞造成至少12人死亡】阿克拉訊息：據迦納《每日寫真報》等媒體報道，26日晚，一輛小客車與一輛拖車在迦納阿散蒂省內的公路上相撞，造成至少12人死亡，2人受重傷。現場目擊者對媒體表示，事故發生時，小客車與拖車迎面相撞，導致小客車車體嚴重變形。12人在送至醫院時已經死亡，其餘兩人傷勢嚴重。警方表示，事故原因仍在進一步調查中。據當地媒體報道，由於超速、路況較差等原因，迦納交通事故多發。（新華社）"
-    },
-    {
-      "id": "4902830",
-      "time": "2026-05-27 22:19:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達副總裁Deepu Talla：解決精度難題後 機器人產業將迎爆發式增長】5月27日晚間訊息，第六屆BEYOND國際科技創新博覽會（BEYOND Expo 2026）於5月27日至30日舉行。在開幕式上，英偉達機器人與邊緣計算副總裁Deepu Talla發表演講。Deepu Talla表示，我們正處在一個無比激動人心的時代。製造業的自動化推進已有50多年，但透過人工智慧解決自主化問題，直到現在才迎來突破。“全球近80%的GDP來自於製造業、物流、零售、交通運輸等實體產業。然而，將人工智慧應用於機器人領域一直充滿挑戰，因為精度要求極高，而技術直到最近才足夠成熟。如今，從初創公司到大型企業，所有人都在致力於物理AI。”Deepu Talla說。Deepu Talla強調，人形機器人將是人類迎來的最大機遇之一。未來，每個人可能會擁有多個機器人。未來10到20年間，全球機器人總量將達到數百億臺。一旦精度難題得以解決，機器人產業將迎來爆發式增長。（新浪科技）"
-    },
-    {
-      "id": "te:markets:554134",
-      "time": "2026-05-27 22:19:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Falls as Investors Eye US-Iran Negotiation Progress — Silver prices dropped below $75 an ounce on Wednesday, hitting their lowest level in over a week, as global focus remained on US-Iran negotiations. Oil prices fell, easing inflation fears, after Washington denied the resumption of its \"Project Freedom\" in the Strait of Hormuz and Iranian officials confirmed indirect talks were underway. Iranian state media reported that any US-Iran agreement reached within 60 days would be adopted as a binding UN resolution, citing a US draft framework. The proposed deal includes reopening the Strait of Hormuz to commercial vessels within 30 days, ending the US naval blockade of Iranian ports, and joint Iran-Oman management of the strait. However, Iranian outlets stressed the deal is not finalized. Silver remains nearly 20% below levels seen at the start of the conflict, as concerns over an energy-driven inflation shock strengthened expectations that major central banks may keep monetary policy tighter for longer."
-    },
-    {
-      "id": "4902829",
-      "time": "2026-05-27 22:18:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行執行長：目前財富管理費、投行業務收入以及銷售與交易業務表現均十分強勁。"
     }
   ]
 }
