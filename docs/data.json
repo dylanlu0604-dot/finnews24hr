@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-04 00:12:21",
-  "count": 19191,
+  "updated": "2026-06-04 00:16:20",
+  "count": 19189,
   "items": [
+    {
+      "id": "mkt:019e8e43-79f3-7443-8fdf-cf82943140cb",
+      "time": "2026-06-04 00:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council non‑permanent seats】The UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council; one seat remains to be decided in a second ballot between the Philippines and Kyrgyzstan. Germany failed to win a 2027–28 non‑permanent seat. Terms for the newly elected members run Jan. 1, 2027–Dec. 31, 2028."
+    },
+    {
+      "id": "4915797",
+      "time": "2026-06-04 00:13:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍尼韋爾高管預計，到2030年，配備該公司HTF7000發動機的飛機數量將以約9%的年複合增長率增長。"
+    },
+    {
+      "id": "mkt:019e8e42-9995-7443-8fdf-c38913334782",
+      "time": "2026-06-04 00:13:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Rubio says US military operation against Iran has ended】On the 3rd at a House Appropriations Committee hearing, US Secretary of State Rubio said the US military campaign against Iran, \"Operation Epic Fury,\" has ended and that the US \"has achieved victory.\" Rubio said the US is no longer striking targets inside Iran because the operation has concluded, and added that while US and Israeli actions have significantly degraded Iranian military capability, Iran still retains some drone and maritime combat capabilities."
+    },
+    {
+      "id": "te:markets:556232",
+      "time": "2026-06-04 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 1.07 percent on Wednesday to close at 50038 points. Leading the losses are Stellantis N.V. (-3.98%), Amplifon (-3.20%) and Leonardo SpA (-2.71%)."
+    },
     {
       "id": "te:markets:556231",
       "time": "2026-06-04 00:11:15",
@@ -176641,61 +176678,6 @@
         "Importance 1"
       ],
       "text": "Copper Eases from $6.4 — Copper futures eased to $6.34 per pound on Wednesday from the one-week high of $6.4 in the previous session amid cautious optimism of resorted trade through the Persian Gulf. Iran claimed it has an unofficial draft on an agreement with the US that would halt their naval blockade on vessels exiting the Strait of Hormuz, although the claims were rejected by Washington. Still, the outlook of restated flows of sulfur and sulfuric acid from GCC economies, a major supply hub, improved expectations on that copper producers will regain access to inputs on the production process. The tight supply for the commodity, which is used by refiners through heap leaching and purifying copper to produce anodes, drove China to suspend exports. Consequently, the shortage in top copper producer Chile forced major refiners to cut capacity and lower supply. Meanwhile, supply from Codelco risked a pullback as the company is targeting roughly $2 billion in cost reductions."
-    },
-    {
-      "id": "4902993",
-      "time": "2026-05-28 00:16:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普聲稱：伊朗眼下顯然希望達成協議。該國經濟正急劇下滑，通脹率達到250%，貨幣大幅貶值，整個經濟體系已然崩潰。"
-    },
-    {
-      "id": "4902992",
-      "time": "2026-05-28 00:15:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：赫格塞思這位國防部長，完全是該職位的典型人選。他熱衷戰事，我也說不清緣由。"
-    },
-    {
-      "id": "4902991",
-      "time": "2026-05-28 00:15:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超4.00%，現報3.013美元/百萬英熱。"
-    },
-    {
-      "id": "4902990",
-      "time": "2026-05-28 00:14:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：具備向月球表面投送大量載荷的充足能力。"
-    },
-    {
-      "id": "4902989",
-      "time": "2026-05-28 00:13:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家航空航天局聲稱，太空探索技術公司堪稱其合作的頂尖商業航天企業。"
-    },
-    {
-      "id": "te:markets:554163",
-      "time": "2026-05-28 00:12:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuitive Surgical Stock Price Hits 22-month Low — Intuitive Surgical shares decreased to 417.51 USD, the lowest since July 2024. Over the past 4 weeks, Intuitive Surgical lost 10.26%, and in the last 12 months, it decreased 24.19%."
     }
   ]
 }
