@@ -1,7 +1,233 @@
 {
-  "updated": "2026-06-03 21:37:37",
-  "count": 18941,
+  "updated": "2026-06-03 21:41:43",
+  "count": 18953,
   "items": [
+    {
+      "id": "4915518",
+      "time": "2026-06-03 21:40:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：眾議院議長邁克·約翰遜今天將與 OPENAI 執行長會面。"
+    },
+    {
+      "id": "4915517",
+      "time": "2026-06-03 21:40:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【環球影城將在英國動工建設其在歐洲的首個主題公園】康卡斯特旗下 NBC 環球將投資超 50 億英鎊，在倫敦北部貝德福德郡打造集團首座歐洲主題樂園；英國政府配套出資 13 億英鎊，用於升級園區周邊公路、鐵路及各類配套基建。這家美國傳媒巨頭週三官宣，這座 2025 年 4 月首次披露規劃的度假區正式定名英國環球度假區（Universal United Kingdom Resort）。目前環球影城已在美國加州、佛羅里達州，以及新加坡、日本、中國落地五大度假區，依託《侏羅紀公園》《哈利?波特》等經典影視 IP 打造遊樂專案。企業透露，英國樂園將規劃多個主題園區，開業首年目標年接待遊客 850 萬人次。"
+    },
+    {
+      "id": "mkt:019e8db7-1e13-7ccb-b65b-956c33c2ee43",
+      "time": "2026-06-03 21:40:40",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "ALPHABET (GOOG.O) cut GEMINI service costs by 78%."
+    },
+    {
+      "id": "4915516",
+      "time": "2026-06-03 21:40:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：為推進商業化落地，將面向企業推出 AI 智慧代理產品 。"
+    },
+    {
+      "id": "mkt:019e8db6-d042-7ccb-b65b-8b4382bba036",
+      "time": "2026-06-03 21:40:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuelan interim president Rodriguez arrived in India."
+    },
+    {
+      "id": "te:markets:556188",
+      "time": "2026-06-03 21:40:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.33% Lower — The Dow Jones Index is dropping 169 points. Leading the losses are IBM (-5.39%), Salesforce (-3.42%) and Goldman Sachs (-1.96%). Top gainers were Sherwin-Williams (2.31%), Walmart (1.66%) and Caterpillar (1.45%)."
+    },
+    {
+      "id": "4915515",
+      "time": "2026-06-03 21:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唯捷創芯：擬投資2.7億元取得偲百創33.40%股權】唯捷創芯公告，公司擬與偲百創及其股東簽署《增資協議》《股權轉讓協議》，以認購新增資本及受讓股權形式合計投資2.7億元取得偲百創33.40%股權。其中，以自有資金2.53億元認購偲百創新增註冊資本487.64萬元，並以自有資金1747.4萬元受讓戴初賢持有的偲百創註冊資本人民幣48.87萬元。增資及受讓股權完成後，公司將持有偲百創33.40%股權，成為其股東。本次交易不構成關聯交易和重大資產重組，無需提交股東會審議透過。"
+    },
+    {
+      "id": "4915514",
+      "time": "2026-06-03 21:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，我們（加拿大）支援美國提案的總體目標，並稱該提案的起草方式不會對絕大多數加拿大出口產品造成影響。"
+    },
+    {
+      "id": "mkt:019e8db6-1d7b-7ccb-b65b-8316b2b5bf05",
+      "time": "2026-06-03 21:39:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney says a trade agreement with the U.S. remains Canada's best option."
+    },
+    {
+      "id": "mkt:019e8db5-d67b-7ccb-b65b-7a75d0337dd4",
+      "time": "2026-06-03 21:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said U.S. new tariffs will not affect most Canada-U.S. trade."
+    },
+    {
+      "id": "te:markets:556187",
+      "time": "2026-06-03 21:39:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.5166 USD/Lbs"
+    },
+    {
+      "id": "mkt:019e8db5-a09c-7ccb-b65b-75f68cd0cac0",
+      "time": "2026-06-03 21:39:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): Paid subscribers for GEMINI recently reached 350 million."
+    },
+    {
+      "id": "4915513",
+      "time": "2026-06-03 21:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：Gemini 應用程式每月使用者超過9億。"
+    },
+    {
+      "id": "mkt:019e8db5-5848-7ccb-b65b-6babf870611a",
+      "time": "2026-06-03 21:38:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Auto manufacturers urged the U.S. Environmental Protection Agency (EPA) to promptly revise motor-vehicle pollution emissions regulations and supported delaying the rules' implementation by two years."
+    },
+    {
+      "id": "mkt:019e8db5-54a9-7ccb-b65b-630e65a126e3",
+      "time": "2026-06-03 21:38:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): GEMINI app monthly users exceed 900 million."
+    },
+    {
+      "id": "mkt:019e8db4-dfe2-7ccb-b65b-5b84ab8e4f3e",
+      "time": "2026-06-03 21:38:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) announced the launch of enterprise-facing AI business agents and an accompanying agent platform."
+    },
+    {
+      "id": "4915512",
+      "time": "2026-06-03 21:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌母公司Alphabet股權募資規模超預期】本週，谷歌母公司Alphabet集團透過承銷型公開售股完成股票發售（該模式由銀行等機構先全額認購股份，再對外分銷）。公司此前規劃透過該方式募資300億美元，作為本輪巨型股權融資的組成部分；最終實際募得350億美元，令本輪整體融資總額增至850億美元。知情人士透露，Alphabet集團在週一官宣募資計劃前，已對接約75家投資機構；公告發布後新增大量意向投資方，促使公司超額配售股份。企業表示，本次募資所得資金將用於擴建資料中心，以及採購算力資源，支撐大模型的訓練與落地部署。"
+    },
+    {
+      "id": "4915511",
+      "time": "2026-06-03 21:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，加拿大與美國同樣對供應鏈中存在強迫勞動問題抱有擔憂。"
+    },
+    {
+      "id": "4915510",
+      "time": "2026-06-03 21:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta宣佈推出面向企業端的人工智慧商務代理及商務代理平臺。"
+    },
+    {
+      "id": "mkt:019e8db4-7336-7ccb-b65b-54432bd01c5d",
+      "time": "2026-06-03 21:37:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Alphabet (GOOG.O) expects its capital expenditures to be significantly higher than in 2026."
+    },
+    {
+      "id": "4915509",
+      "time": "2026-06-03 21:37:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪執行長：高收入消費者消費支出保持穩健 。"
+    },
+    {
+      "id": "mkt:019e8db3-e5e3-7ccb-b65b-4fece4801dc2",
+      "time": "2026-06-03 21:37:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WMT.N",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Walmart (WMT.N) CEO said high-income consumers continue to spend."
+    },
+    {
+      "id": "4915508",
+      "time": "2026-06-03 21:36:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET 將 A 系列封頂看漲期權行權價定為每股 532.67 美元 。"
+    },
     {
       "id": "te:economy:556186",
       "time": "2026-06-03 21:36:30",
@@ -174024,105 +174250,6 @@
         "市場"
       ],
       "text": "【中國工商銀行助力哈薩克共和國成功發行首筆主權熊貓債】5月26日，中國工商銀行作為聯席主承銷商、聯席簿記管理人和賬戶管理行，協助哈薩克共和國在中國銀行間債券市場成功發行34億元主權熊貓債，期限3年。本次發行為哈薩克共和國首次亮相熊貓債市場，對深化中哈金融領域合作具有重要意義。（中國工商銀行）"
-    },
-    {
-      "id": "4902771",
-      "time": "2026-05-27 21:41:19",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美債收益率下跌，市場等待美國指標】隨著市場對達成全面重新開放霍爾木茲海峽的協議抱有希望，且一批美國指標釋出在即，美債收益率下跌。油價大跌5%，西得州中質油跌破每桶90美元。華爾街日報美元指數下跌0.1%。今日沒有重要的美國資料公佈。明天，接受《華爾街日報》調查的經濟學家預計，年度個人消費支出(PCE)通脹將加速，第一季度摺合年率的GDP增長率第二次估值將維持在2.0%，首次申請失業救濟人數將小幅上升。10年期國債收益率報4.465%，低於昨日的4.490%。兩年期國債收益率從4.045%跌至4.029%。"
-    },
-    {
-      "id": "4902770",
-      "time": "2026-05-27 21:40:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黑莓：軟體是物理AI推廣的關鍵制約因素】黑莓表示，目前部署更多具備AI功能的自主機器的主要瓶頸是軟體，而不是硬體。該公司提供實時作業系統的QNX部門釋出了自己的研究報告，該報告稱，89%的機器人開發者表示物理AI已明確列入他們的路線圖，然而91%的開發者仍在通用作業系統上執行實時或對安全性要求極高的工作負載。黑莓表示，隨著機器人進入人類環境，這種錯位正變得更加緊迫，在這些環境中，對可靠性和認證的要求至關重要。該公司表示，三分之二的團隊報告了與認證過程相關的延誤，並且只有29%的團隊對其在現實環境中做出安全、可預測決策的能力感到“非常有信心“。"
-    },
-    {
-      "id": "te:markets:554122",
-      "time": "2026-05-27 21:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Muted — US equities were muted on Wednesday, stalling their strong momentum near their record highs amid uncertainty on the sustainability of chip producers and cautious optimism around an agreement with Ukraine. The S&P 500 and Dow were above the flatline at a historic peak, while Nasdaq 100 inched lower. State media in Iran showed an unofficial draft of a peace deal with the US that pledged tanker flows through the Strait of Hormuz to be restored within one month of an agreement, pressuring energy prices and Treasury yields in the session. The improved backdrop supported the Dow following yesterday's underperformance, with P&G adding 2.5% to support consumer defensive companies. In turn, Micron added 2% following its 19% surge yesterday after UBS tripled its price target on the company. On the other hand, software was lower with Microsoft, Amazon, and Alphabet down more than 1%, while Salesforce inched higher ahead of its earnings after the bell."
-    },
-    {
-      "id": "te:markets:554121",
-      "time": "2026-05-27 21:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.28% Higher — The Dow Jones Index is up by 141 points or 0.28 percent on Wednesday. Top gainers are Nike (2.91%), P&G (2.77%) and Home Depot (2.46%). Biggest losses came from JPMorgan (-1.77%), Caterpillar (-1.53%) and Chevron (-1.45%)."
-    },
-    {
-      "id": "4902769",
-      "time": "2026-05-27 21:39:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來ES9上市：整車購買49.8萬元起，5月28日開啟交付】5月27日晚間訊息，在今日的蔚來ES9上市釋出會上，蔚來創始人、董事長、CEO李斌發表演講。釋出會上，蔚來ES9正式上市。售價方面，行政豪華版整車購買49.8萬元起，採用BaaS電池租用方式購買39萬元起；行政簽名版整車購買55.8萬元起，採用BaaS電池租用方式購買45萬元起；地平線特別版整車購買售價62.8萬元起，採用BaaS電池租用方式購買，售價52萬元起。交付方面，中島佈局版本5月28日開啟交付，通道佈局版本7月中旬開啟交付。（新浪科技）"
-    },
-    {
-      "id": "4902768",
-      "time": "2026-05-27 21:39:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇索普：擬定增募資不超16億元 用於碳酸二甲酯等專案】江蘇索普(600746)5月27日公告，擬向不超過35名特定投資者，發行股票募資不超過16億元，用於醋酸乙烯及EVA一體化專案（一期工程）、20萬噸/年碳酸二甲酯專案。據悉，醋酸乙烯下游應用領域廣泛，落後產能逐步退出，高品質醋酸乙烯需求缺口明顯；酸二甲酯受益於新能源、新材料領域雙重驅動，市場規模將持續增長。"
-    },
-    {
-      "id": "4902767",
-      "time": "2026-05-27 21:39:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國SEFE公司：該諒解備忘錄規定液化天然氣年供應量為100萬噸，交付期從2030年代初開始，為期20年。"
-    },
-    {
-      "id": "4902766",
-      "time": "2026-05-27 21:39:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國SEFE與加拿大KSI LISIMS液化天然氣公司簽署長期液化天然氣供應協議諒解備忘錄。"
-    },
-    {
-      "id": "4902765",
-      "time": "2026-05-27 21:38:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "4902764",
-      "time": "2026-05-27 21:38:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍圖光罩：回覆稽核問詢函，擬向特定物件發行股票募資不超14.6億元】龍圖光罩公告，公司此前披露向特定物件發行股票申請檔案，並於2026年5月7日收到上交所稽核問詢函。本次公告為對稽核問詢函的回覆，就募投專案40nm-28nm半導體掩模版生產線建設專案的投資構成、測算依據、融資規模合理性及效益測算等進行了說明。本次募投專案總投資19.54億元，擬使用募集資金14.6億元，專案達產後將新增15000片半導體掩模版產能。"
-    },
-    {
-      "id": "4902763",
-      "time": "2026-05-27 21:37:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價下跌 伊朗電視臺稱美伊諒解備忘錄草案將恢復霍爾木茲海峽通行】在交易員尋找談判可能很快促成霍爾木茲海峽重開線索之際，伊朗媒體稱獲得一份關於結束伊朗戰爭的非正式諒解備忘錄草案，油價隨之大跌。布倫特原油一度跌破每桶95美元，為逾一個月來首次，此前伊朗國家電視臺報道稱，一份諒解備忘錄草案顯示，美軍將解除海上封鎖，並從伊朗周邊海域撤離，不過目前尚未達成協議。報道稱，伊朗將恢復霍爾木茲海峽通行量；若與美國解除封鎖同步發生，可能會使大量原油供應迅速重返石油市場。週三早些時候，一名伊朗官員稱，與美國的間接接觸仍在進行，伊朗的高濃縮鈾庫存不在談判議程上。美國國務卿馬爾科·盧比奧提醒稱，任何和平協議可能都需要幾天時間才能最終敲定。"
     }
   ]
 }
