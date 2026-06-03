@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-04 05:26:44",
-  "count": 19234,
+  "updated": "2026-06-04 05:30:40",
+  "count": 19233,
   "items": [
+    {
+      "id": "4916054",
+      "time": "2026-06-04 05:29:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：認可谷歌會採用多渠道採購晶片。"
+    },
     {
       "id": "mkt:019e8f5f-f208-7443-8fe5-2655468a73e0",
       "time": "2026-06-04 05:24:50",
@@ -177142,26 +177150,6 @@
         "國際"
       ],
       "text": "【以軍空襲加沙城民宅致7死18傷】據巴勒斯坦紅新月會訊息，以色列國防軍27日晚空襲加沙地帶北部加沙城一處民宅，造成至少7人死亡、18人受傷。巴勒斯坦紅新月會在一份宣告中說，遭襲民宅位於加沙城市中心的市政公園附近，工作人員已將死傷者轉運至醫院。以色列國防軍發表宣告，證實實施此次空襲，稱目標是巴勒斯坦伊斯蘭抵抗運動（哈馬斯）兩名高階官員。《耶路撒冷郵報》報道稱，空襲炸死哈馬斯“北加沙旅”指揮官和“加沙城旅”副指揮官。哈馬斯方面尚未就此回應。（新華社）"
-    },
-    {
-      "id": "mkt:019e6b57-18b9-722a-b522-434b5da46692",
-      "time": "2026-05-28 05:28:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【US Media: US Forces Deployed, Can Attack Cuba At Any Time】According to Politico, despite the ongoing war with Iran the U.S. Navy's deployment in the Caribbean has not been reduced. The Pentagon has, for months, positioned the forces needed to attack Cuba and is awaiting Trump's approval. After economic and diplomatic pressure produced no result, Trump reportedly proposed invading Cuba. The current concentration of U.S. naval forces in the region — the largest globally outside the Middle East — enables immediate action and has laid the groundwork for capturing Cuban leaders or conducting precision strikes. U.S. Secretary of State Rubio said at a cabinet meeting on Wednesday that Cuba is \"in a very difficult situation\" and that the \"failed state\" 90 miles from the U.S. threatens American security. The U.S. fleet in the region is currently slightly smaller than it was during the January operation to capture Maduro, but the USS Nimitz carrier strike group and multiple guided-missile destroyers and cruisers have entered the Caribbean. U.S. drones and reconnaissance aircraft have been flying around Cuba for months. The amphibious assault ship USS Kearsarge is standing by to deploy."
-    },
-    {
-      "id": "4903219",
-      "time": "2026-05-28 05:27:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "邁威爾科技： 我們與美國所有大型雲服務商均開展了定製化合作。"
     }
   ]
 }
