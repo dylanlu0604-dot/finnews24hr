@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-04 05:11:09",
-  "count": 19210,
+  "updated": "2026-06-04 05:15:04",
+  "count": 19215,
   "items": [
+    {
+      "id": "4916038",
+      "time": "2026-06-04 05:14:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO預計，人工智慧半導體營收增長將在2028財年延續。"
+    },
+    {
+      "id": "4916037",
+      "time": "2026-06-04 05:14:03",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "博通財報電話會議期間，股價跌幅擴大至12%。"
+    },
+    {
+      "id": "4916036",
+      "time": "2026-06-04 05:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：Meta公司1吉瓦規模的初始訂單已收到，該訂單包含AI專用加速晶片（XPUS）及博通的網路產品，將於2027年下半年開始交付。"
+    },
+    {
+      "id": "4916035",
+      "time": "2026-06-04 05:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通已向OpenAI交付晶片，並計劃2027年落地130萬千瓦算力基建。"
+    },
+    {
+      "id": "4916034",
+      "time": "2026-06-04 05:11:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：已達成協議，自2027年起，允許Anthropic額外接入5吉瓦基於下一代張量處理單元（TPU）的算力。"
+    },
+    {
+      "id": "mkt:019e8f53-d63a-7443-8fe4-cb8676431ff0",
+      "time": "2026-06-04 05:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USDA probes suspected New World screwworm case in southern Texas; may prompt cattle movement restrictions】The USDA says a suspected New World screwworm case was detected in southern Texas and a sample has been sent to an Iowa lab for confirmation. If confirmed, it would be the first US detection since a 2016 Florida deer case that was eradicated by early 2017. The agency noted the US cattle herd is at a 75-year low. Confirmation would likely trigger cattle movement restrictions and could disrupt meatpackers’ operations."
+    },
     {
       "id": "mkt:019e8f52-95f6-7443-8fe4-c1196d39aa6f",
       "time": "2026-06-04 05:10:14",
@@ -176931,14 +176980,6 @@
         "Impact bullish"
       ],
       "text": "U.S. officials said the PENTAGON awarded Microsoft (MSFT.O) a $9.7 bln enterprise software contract intended to reduce costs."
-    },
-    {
-      "id": "mkt:019e6b49-20ac-722a-b522-2d4f9228cbda",
-      "time": "2026-05-28 05:13:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CARNEY: We are rebuilding, re-equipping and reinvesting in the Canadian Armed Forces."
     }
   ]
 }
