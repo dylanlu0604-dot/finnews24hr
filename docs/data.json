@@ -1,7 +1,174 @@
 {
-  "updated": "2026-06-03 17:40:39",
-  "count": 18771,
+  "updated": "2026-06-03 17:44:45",
+  "count": 18777,
   "items": [
+    {
+      "id": "mkt:019e8cde-2ebf-744d-81bf-34e445266101",
+      "time": "2026-06-03 17:43:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says it will analyze preliminary findings of US investigation."
+    },
+    {
+      "id": "4914975",
+      "time": "2026-06-03 17:43:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "科威特石油公司薩巴赫：科威特正向其他海灣國家供應燃油。"
+    },
+    {
+      "id": "4914973",
+      "time": "2026-06-03 17:43:07",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "瑞士央行行長：瑞士央行貨幣政策仍維持寬鬆。"
+    },
+    {
+      "id": "mkt:019e8cdd-45d7-744d-81bf-2c9f29094451",
+      "time": "2026-06-03 17:42:51",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Commission says it expects to secure implementation of US-EU trade agreement commitments by end-June and expects the US to fully comply with the agreement's terms."
+    },
+    {
+      "id": "4914972",
+      "time": "2026-06-03 17:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟表示，其預計美國將全面遵守該貿易協議的條款。"
+    },
+    {
+      "id": "4914971",
+      "time": "2026-06-03 17:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞浦蘭鈞首發320 Ah鈉電芯及AIDC高功率電芯】6月3日，2026年SNEC展會期間，瑞浦蘭鈞釋出問頂® 320 Ah鈉離⼦電芯以及⾼功率型85 Ah磷酸鐵鋰儲能電芯。前者⾯向⼤規模儲能場景，電芯容量達320 Ah；迴圈次數超2萬次； 在充放電迴圈中，能量效率≥97%；可在-50°C⾄60°C的極端溫度環境下⼯作。後者則針對⼈⼯智慧資料中⼼(AIDC)場景，可⽀持10 C最⼤持續放電倍率。"
+    },
+    {
+      "id": "4914970",
+      "time": "2026-06-03 17:42:12",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【新築股份：重大資產重組方案獲四川省國資委批覆】新築股份公告稱，公司擬出售四川發展磁浮科技等公司股權及相關資產，同時向蜀道集團發行股份及支付現金購買四川蜀道清潔能源集團60%股權並募集配套資金。2026年5月11日，公司對交易方案進行調整。近日，公司收到四川省國資委批覆，原則同意按調整後方案實施重大資產重組。本次交易尚需股東會審議及監管機構批准，能否實施存在不確定性。"
+    },
+    {
+      "id": "4914969",
+      "time": "2026-06-03 17:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟表示，其正按計劃推進，確保在6月底前落實美歐貿易協定的各項承諾。"
+    },
+    {
+      "id": "mkt:019e8cdc-53f4-744d-81bf-274bde09d6a1",
+      "time": "2026-06-03 17:41:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Commission said the EU fully shares US concerns over forced labor, called the latest US tariff proposal unfounded, and said it will continue to ensure EU interests are fully protected."
+    },
+    {
+      "id": "4914968",
+      "time": "2026-06-03 17:41:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "SCHRODERS將美元評級上調至中性。"
+    },
+    {
+      "id": "mkt:019e8cdb-d943-744d-81bf-1d3f46c49b13",
+      "time": "2026-06-03 17:41:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Commission says the EU considers U.S. tariffs imposed on the basis of forced-labor allegations unjustified."
+    },
+    {
+      "id": "4914967",
+      "time": "2026-06-03 17:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟稱美國以強迫勞動為由加徵關稅缺乏正當依據。"
+    },
+    {
+      "id": "mkt:019e8cdb-a9d5-744d-81bf-1375b67461ad",
+      "time": "2026-06-03 17:41:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An industry association official said India's military drone procurement plan has entered a late stage and will be advanced via a fast-track approval process. India plans to buy a record $2 billion of military drones from domestic firms this year."
+    },
+    {
+      "id": "4914966",
+      "time": "2026-06-03 17:40:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "碧桂園5月合約銷售額26.3億元人民幣。歸屬本公司股東權益的合同銷售建築面積約33萬平方米。"
+    },
+    {
+      "id": "4914965",
+      "time": "2026-06-03 17:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會表示，已注意到美國就強迫勞動產品貿易展開的301調查得出的初步結論與擬採取的行動。"
+    },
+    {
+      "id": "mkt:019e8cdb-5063-744d-81bf-09fa339b4d45",
+      "time": "2026-06-03 17:40:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Commission said it has noted the U.S. Section 301 probe's preliminary findings and proposed measures concerning trade in products made with forced labor."
+    },
+    {
+      "id": "4914964",
+      "time": "2026-06-03 17:40:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度工業協會主席稱，印度今年將從本土企業訂購價值創紀錄的20億美元軍用無人機。無人機採購訂單計劃已進入最後階段，將採用快速審批流程推進。"
+    },
+    {
+      "id": "4914963",
+      "time": "2026-06-03 17:40:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冀東裝備：2025年度分紅總額908萬元】冀東裝備公告，公司2025年度利潤分配預案為以截至2025年年末公司總股本2.27億股為基數，向全體股東每10股派發現金股利0.40元（含稅），分紅總額908萬元，不送紅股，不進行資本公積金轉增股本。股權登記日為2026年6月10日，除權日（除息日）為2026年6月11日。"
+    },
+    {
+      "id": "4914962",
+      "time": "2026-06-03 17:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入186.82億港元】港股通（滬）方面，盈富基金、騰訊控股分別獲淨買入57.17億港元、12.05億港元；聯想集團淨賣出額居首，金額為8.74億港元；港股通（深）方面，盈富基金、恒生中國企業分別獲淨買入18.16億港元、16.61億港元；長飛光纖光纜淨賣出額居首，金額為5.09億港元。"
+    },
     {
       "id": "4914961",
       "time": "2026-06-03 17:39:51",
@@ -172365,117 +172532,6 @@
         "MKT News"
       ],
       "text": "Lithuania to buy 936 Patria armoured vehicles from Finland; 300 to be delivered by 2030"
-    },
-    {
-      "id": "4902271",
-      "time": "2026-05-27 17:44:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "立陶宛總統：立陶宛將從芬蘭購買936輛帕特里亞裝甲車，其中300輛將於2030年前交付。"
-    },
-    {
-      "id": "4902270",
-      "time": "2026-05-27 17:44:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威勝控股：獲控股股東增持20萬股普通股 涉資約464萬港元】據香港聯交所5月27日披露的檔案，威勝控股(03393.HK)控股股東、董事會主席吉為於5月27日以每股平均價23.2港元，在場內增持威勝控股20萬股普通股股份，價值約464萬港元。此次增持後，吉為最新持股數量約5.4億股，持股比例由51.64%升至51.66%。"
-    },
-    {
-      "id": "4902269",
-      "time": "2026-05-27 17:44:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝通能源：七騰機器人要約收購期限屆滿 股票自5月28日起停牌】勝通能源公告，七騰機器人有限公司於2026年4月27日披露的要約收購期限已屆滿，要約價格為13.28元/股，要約收購股份數量為4233.6萬股，佔公司總股本的15%。由於要約收購結果需進一步確認，公司股票自2026年5月28日（星期四）上午開市起停牌。公司將根據收購完成後公司股權分佈是否具備上市條件等收購結果情況，於要約收購結果公告日開市起復牌或者繼續停牌。"
-    },
-    {
-      "id": "4902268",
-      "time": "2026-05-27 17:43:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【彩虹股份：持股5%以上股東減持公司股份2762.02萬股】彩虹股份公告稱，持股5%以上股東咸陽市城市建設投資控股集團有限公司於2026年5月26日至5月27日，透過集中競價交易方式減持公司股份27,620,243股，佔公司總股本的0.77%。本次減持後，其持有公司股份比例由8.76%降至7.99%。本次權益變動不會對公司治理及經營產生重大影響，也不會導致控股股東及實控人變化。"
-    },
-    {
-      "id": "mkt:019e68d1-0613-7223-8ed0-9031fd68ae9f",
-      "time": "2026-05-27 17:43:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Czech Republic, Bulgaria, Poland, Romania, Greece and Slovakia call for increased carbon permits amid global crisis and high energy prices"
-    },
-    {
-      "id": "4902267",
-      "time": "2026-05-27 17:42:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃格光電：公司在泛半導體領域的業務尚處於早期階段】沃格光電股票交易異常波動公告，公司關注到近期市場對玻璃基在半導體領域應用的關注度較高。目前，公司在泛半導體領域的業務尚處於早期階段，相關產品技術仍處於研發驗證或送樣驗證階段，尚未形成規模化工業量產，營收規模佔比極低，且相關經營主體目前仍處於虧損狀態。該業務的產業化程序、未來訂單規模及經營效益存在較大不確定性，敬請廣大投資者注意相關風險。"
-    },
-    {
-      "id": "mkt:019e68d0-c668-7223-8ed0-88d7ec6fb9b0",
-      "time": "2026-05-27 17:42:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Intelligence Ministry Says Adversaries Pressuring Iran Through 'Soft War'】Iran intelligence ministry says hostile forces mounting 'soft war' across seven fronts including economic pressure; exploiting social issues to stir public opinion; stoking ethnic and religious tensions; terrorist attacks and sabotage; weapons smuggling and illegal comms devices; cyberattacks; information operations via foreign Persian-language media and social platforms; says attempted ground operations from west and northwest foiled and large caches of weapons and comms gear seized"
-    },
-    {
-      "id": "4902266",
-      "time": "2026-05-27 17:42:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滿坤科技：公司光模組電路板產品已經有量產訂單 目前正在排產中】滿坤科技在互動平臺表示，公司光模組電路板產品已經有量產訂單，目前正在排產中。基於商業資訊的保密要求，具體客戶名稱不便對外披露。"
-    },
-    {
-      "id": "4902265",
-      "time": "2026-05-27 17:42:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金石資源：控股子公司汙染環境案獲檢察院不起訴決定】金石資源公告稱，控股子公司金鄂博氟化工曾因廠區西北方向地下雨水管網斷裂致廢水外溢。近日，包頭鐵路運輸檢察院就前期包頭市公安局移送審查起訴的汙染環境一案，決定對金鄂博氟化工不起訴。原因是該公司積極履行生態環境修復責任並透過驗收，犯罪情節輕微。公司及子公司將落實檢察建議，杜絕此類事項再次發生。"
-    },
-    {
-      "id": "mkt:019e68cf-9609-7223-8ed0-82039d46a85f",
-      "time": "2026-05-27 17:41:35",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Scotiabank says BOC outlook sensitive to USMCA talks and geopolitical developments; expects BOC to raise policy rate to 3% by year-end"
-    },
-    {
-      "id": "4902264",
-      "time": "2026-05-27 17:41:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦將聯合健康目標股價從444美元上調至492美元。"
-    },
-    {
-      "id": "4902263",
-      "time": "2026-05-27 17:40:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所披露檔案顯示，騰訊於5月27日回購110萬股股份，總金額為5.007億港元。"
-    },
-    {
-      "id": "4902262",
-      "time": "2026-05-27 17:40:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所披露檔案，友邦保險集團於5月27日回購了540萬股股份，回購總金額為4.522億港元。"
     }
   ]
 }
