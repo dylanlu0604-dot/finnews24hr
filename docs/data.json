@@ -1,7 +1,164 @@
 {
-  "updated": "2026-06-03 22:44:07",
-  "count": 19138,
+  "updated": "2026-06-03 22:48:28",
+  "count": 19141,
   "items": [
+    {
+      "id": "4915688",
+      "time": "2026-06-03 22:47:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：特朗普希望與伊朗當前政權達成協議，但這並不意味著他希望政權繼續存在。"
+    },
+    {
+      "id": "mkt:019e8df4-1b73-7996-b2ac-b53236de421e",
+      "time": "2026-06-03 22:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said, regarding civilian deaths, that civilians are warned to evacuate ahead of military operations."
+    },
+    {
+      "id": "4915687",
+      "time": "2026-06-03 22:47:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧多比（Adobe）瞄準內部人選瓦德瓦尼、查克拉瓦蒂接任執行長一職。  微軟高管拉曼納曾洽談出任奧多比執行長一職，但最終放棄競聘。 奧多比考慮外部候選人，聘請海德思哲獵頭公司。"
+    },
+    {
+      "id": "mkt:019e8df3-be82-7996-b2ac-ac2a9da809a6",
+      "time": "2026-06-03 22:46:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Trump wants a deal with Iran’s current regime, but that does not mean he wants the regime to remain in power."
+    },
+    {
+      "id": "mkt:019e8df3-ac70-7996-b2ac-a0327040efb6",
+      "time": "2026-06-03 22:46:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran currently has significant internal fractures."
+    },
+    {
+      "id": "mkt:019e8df3-4f95-7110-824f-d4e477bf8c5d",
+      "time": "2026-06-03 22:46:21",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "ADBE.O"
+      ],
+      "text": "Market sources: Microsoft (MSFT.O) executive Ramanana discussed the possibility of becoming Adobe CEO but ultimately declined to pursue the role."
+    },
+    {
+      "id": "4915686",
+      "time": "2026-06-03 22:46:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：經過兩年半的戰事，我國貨幣如今處於有史以來最強勁的水平，出口額也已飆升至歷史新高。"
+    },
+    {
+      "id": "mkt:019e8df2-c9df-7996-b2ac-952e881e1e26",
+      "time": "2026-06-03 22:45:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Fed's Williams says no need to raise or cut rates now】Fed's Williams said current monetary policy settings are appropriate and he sees no need now to raise or cut rates, adding he does not see a clear directional path for future policy. The Fed has kept rates unchanged so far this year, but officials are divided after an energy-driven jump in prices; some warn that if shipping through the Strait of Hormuz does not recover quickly, a rate hike could be needed soon. The Fed-favored inflation gauge rose 3.8% YoY in April, the largest increase since 2023. Unemployment is 4.3%, which some officials describe as near full employment."
+    },
+    {
+      "id": "mkt:019e8df2-48b0-7996-b2ac-8c011b146a8e",
+      "time": "2026-06-03 22:45:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel has weakened Hamas and that Hamas now holds less territory than before."
+    },
+    {
+      "id": "4915685",
+      "time": "2026-06-03 22:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：我們將自行決定何時在加沙採取行動，行動規模也將與安全內閣磋商後決定。"
+    },
+    {
+      "id": "mkt:019e8df2-2d4d-7110-824f-cc9401915f40",
+      "time": "2026-06-03 22:44:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bridgewater founder Ray Dalio said the AI bubble will eventually burst."
+    },
+    {
+      "id": "4915684",
+      "time": "2026-06-03 22:44:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡稱正 “逐步逼近” 哈馬斯。"
+    },
+    {
+      "id": "4915683",
+      "time": "2026-06-03 22:44:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "達利歐表示人工智慧泡沫最終會破裂。"
+    },
+    {
+      "id": "4915682",
+      "time": "2026-06-03 22:43:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國聯邦儲備委員會主席凱文·沃什已聘請保羅·溫弗裡和丹尼爾·海爾擔任臨時顧問，在美聯儲協助其工作。"
+    },
+    {
+      "id": "mkt:019e8df0-7db7-7996-b2ac-7ced71263cc2",
+      "time": "2026-06-03 22:43:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the deficit-to-GDP ratio could fall below 4% by the end of his term."
+    },
+    {
+      "id": "4915681",
+      "time": "2026-06-03 22:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：週六於舊金山會晤多家頭部大模型實驗室。"
+    },
     {
       "id": "mkt:019e8df0-5f3b-7996-b2ac-732e93e24e88",
       "time": "2026-06-03 22:43:19",
@@ -176106,114 +176263,6 @@
         "WTI"
       ],
       "text": "Kremlin spokesman PESKOV said the EU is pretending to seek negotiations with Russia over Ukraine but is in fact pushing Ukraine to continue fighting."
-    },
-    {
-      "id": "4902889",
-      "time": "2026-05-27 22:48:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音預計現金流將穩步攀升，有望達到並突破 100 億美元。"
-    },
-    {
-      "id": "mkt:019e69e8-5211-7223-8ed4-ed831103643c",
-      "time": "2026-05-27 22:48:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ERDOGAN said he hopes to meet Trump during the football World Cup to discuss NATO issues."
-    },
-    {
-      "id": "4902888",
-      "time": "2026-05-27 22:48:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安擬在足球世界盃期間會晤特朗普，磋商北約相關議題。"
-    },
-    {
-      "id": "4902887",
-      "time": "2026-05-27 22:48:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "波音曾與特朗普商討擴大武器生產事宜。"
-    },
-    {
-      "id": "4902886",
-      "time": "2026-05-27 22:47:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副安全事務負責人巴蓋裡：美以是地區國家共同的敵人】據伊朗伊斯蘭共和國通訊社（IRNA）報道，伊朗最高國家安全委員會副秘書巴蓋裡在莫斯科會見阿富汗國防部副部長時表示，美國和以色列是地區的共同敵人，只有地區國家有權決定自己的安全和命運。他指出，地區國家應透過加強磋商與合作，為獨立決策創造條件，避免第三國的干預。"
-    },
-    {
-      "id": "mkt:019e69e7-67c3-7223-8ed4-e4cf7a3fc495",
-      "time": "2026-05-27 22:47:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Deputy National Security Official Bagheri: US, Israel Are Common Enemies Of Regional States】IRNA reported that Iran's Supreme National Security Council Deputy Secretary Bagheri, speaking in Moscow during a meeting with Afghanistan's Deputy Defense Minister, said the United States and Israel are common enemies of regional states and that only regional countries have the right to determine their own security and destiny. He said regional states should strengthen consultations and cooperation to create conditions for independent decision‑making and to avoid intervention by third countries."
-    },
-    {
-      "id": "mkt:019e69e6-17c7-7223-8ed4-df6170b1ea30",
-      "time": "2026-05-27 22:45:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia and Afghanistan signed a military-technical cooperation agreement."
-    },
-    {
-      "id": "4902885",
-      "time": "2026-05-27 22:45:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：自伊朗戰爭爆發以來，印度透過進口與本土生產已新增1224萬噸化肥供應。"
-    },
-    {
-      "id": "mkt:019e69e5-c9c2-7223-8ed4-d2c16cb210cb",
-      "time": "2026-05-27 22:45:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【WHITE HOUSE Official Account 'Rapid Response 47' Says Iran-Controlled Media's MOU Was Entirely Fabricated】The WHITE HOUSE official account 'Rapid Response 47' posted that reports from Iran-controlled media are not factual and that the memorandum of understanding (MOU) they 'released' was entirely fabricated. It said no one should believe content published by Iranian state media."
-    },
-    {
-      "id": "4902884",
-      "time": "2026-05-27 22:45:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽諾醫療科學技術股份有限公司向港交所提交上市申請書】據港交所檔案：賽諾醫療科學技術股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4902883",
-      "time": "2026-05-27 22:45:15",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "上交所：長鑫科技集團股份有限公司IPO稽核狀態變更為提交註冊。"
-    },
-    {
-      "id": "4902882",
-      "time": "2026-05-27 22:44:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【銅價大漲近10% AI帶火銅產業鏈】銅是支撐傳統製造業發展的關鍵原料，也是AI等新興產業所必需的材料。今年以來，國際銅價持續走高，倫敦金屬交易所3個月銅期貨價格累計漲幅近10%，5月下旬站穩13600美元/噸上方。國內滬銅主力合約從3月底每噸9.2萬元漲至近10.5萬元。因以銅為原材料的中下游產品供不應求，上游的礦場正開足馬力，滿負荷開採。我國是全球最大的銅產品生產國和消費國，銅消費量約佔全球一半以上。近年來，AI、新能源等新興產業發展迅猛，需求旺盛，導致銅庫存量整體偏低，進一步支撐銅價維持在高位。（央視財經）"
-    },
-    {
-      "id": "4902881",
-      "time": "2026-05-27 22:44:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "赴德國接受埃博拉治療的美國醫生目前情況穩定。"
     }
   ]
 }
