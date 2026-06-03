@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-03 23:29:57",
-  "count": 19184,
+  "updated": "2026-06-03 23:34:18",
+  "count": 19180,
   "items": [
+    {
+      "id": "mkt:019e8e1d-e6a9-744e-9fd4-7c2c7c347b0d",
+      "time": "2026-06-03 23:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 4-month Treasury auction as of June 3: 93.35% of allotment at the stop-out yield; prior 25.59%."
+    },
+    {
+      "id": "mkt:019e8e1d-b9dc-744e-9fd4-77b13de5097a",
+      "time": "2026-06-03 23:32:47",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction on June 3 bid-cover ratio 3.15, versus 3.01 previously."
+    },
+    {
+      "id": "mkt:019e8e1d-a31c-744e-9fd4-6f15b4391ad4",
+      "time": "2026-06-03 23:32:44",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction on June 3 stop-out yield 3.635%, prior 3.63%."
+    },
+    {
+      "id": "4915754",
+      "time": "2026-06-03 23:32:38",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.635%，投標倍數3.15。"
+    },
+    {
+      "id": "mkt:019e8e1d-7958-744e-9fd4-610769fab2b3",
+      "time": "2026-06-03 23:32:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.3) | actual 3.15 | previous 3.01"
+    },
+    {
+      "id": "mkt:019e8e1d-61c1-744e-9fd4-5aa436bedab5",
+      "time": "2026-06-03 23:32:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.3) | actual 3.635% | previous 3.63%"
+    },
+    {
+      "id": "mkt:019e8e1c-1502-744e-9fd4-57215fdb6d96",
+      "time": "2026-06-03 23:31:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 3% to $1,329 an ounce."
+    },
+    {
+      "id": "te:economy:556220",
+      "time": "2026-06-03 23:30:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Exports Rise in April — Colombia’s exports rose 11.7% year-on-year to $4.6 billion in April 2026, following a 20.9% increase in March. The expansion was mainly driven by a 46.2% rise in exports of fuels and extractive industry products, supported by a 72.3% surge in shipments of petroleum and petroleum-related products. Exports from the other sectors category jumped 78.3%, entirely due to higher sales of non-monetary gold. In contrast, manufactured exports fell 8.3%, weighed down by lower shipments of machinery and transport equipment (-24.8%) and manufactured goods classified chiefly by material (-10.4%). Agricultural products, food, and beverages exports declined 27%, largely reflecting weaker sales of unroasted coffee (-49.9%) and cut flowers and foliage (-20%). In the first four months of 2026, Colombian exports totaled $18.4 billion, up 14.5% from the same period a year earlier."
+    },
+    {
+      "id": "mkt:019e8e1b-b2e9-744e-9fd4-4d2a4d05b857",
+      "time": "2026-06-03 23:30:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces chief of staff said IDF forces in Lebanon will not observe a ceasefire and that the military is taking offensive action, conducting operations and striking all threats."
+    },
+    {
+      "id": "4915753",
+      "time": "2026-06-03 23:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.33%，報24789.85點。法國股指初步收跌0.60%，義大利股指初步收跌0.88%、銀行指數跌1.48%，英國股指初步收跌0.40%。"
+    },
+    {
+      "id": "4915752",
+      "time": "2026-06-03 23:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.63%，報621.40點。歐元區STOXX 50指數初步收跌0.82%，報6058.21點。富時泛歐績優300指數初步收跌0.67%，報2480.64點。"
+    },
+    {
+      "id": "te:economy:556219",
+      "time": "2026-06-03 23:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Italy 10Y Bond Yield Rises by 10 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (10.17bps), Japan 10Y (8.04bps), Germany 10Y (6.35bps) and US 10Y (4.70bps)."
+    },
+    {
+      "id": "4915751",
+      "time": "2026-06-03 23:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會要員：停止所有戰線戰爭是伊美談判首要內容】當地時間3日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，停止所有戰線的戰爭是伊朗與美國談判的首要內容，伊朗絕不允許美國和以色列破壞地區“抵抗陣線”的團結。阿齊茲表示，伊朗堅信“抵抗陣線”能獲得勝利，並相信只要共同努力，“摧毀以色列這一最終目標就能夠實現。（央視新聞）"
+    },
     {
       "id": "4915750",
       "time": "2026-06-03 23:28:38",
@@ -176487,169 +176615,6 @@
         "國際"
       ],
       "text": "白宮對伊朗問題表態：特朗普已明確紅線。"
-    },
-    {
-      "id": "mkt:019e6a12-3466-7223-8ed5-944fc00cecda",
-      "time": "2026-05-27 23:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Head of Russia's state nuclear corporation Rosatom said Russia has decided to postpone returning its personnel to Iran's Bushehr nuclear power plant."
-    },
-    {
-      "id": "4902954",
-      "time": "2026-05-27 23:33:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛：傑伊·謝蒂、奈飛與Spotify達成合作，將於7月13日把全球熱門播客《活出目標》拓展為影片內容，在兩大平臺同步上線。"
-    },
-    {
-      "id": "mkt:019e6a11-79f7-7223-8ed5-8edad4fc7992",
-      "time": "2026-05-27 23:33:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 4-month Bond auction as of May 27 - BID-COVER RATIO 3.01, prior 3.34."
-    },
-    {
-      "id": "mkt:019e6a11-41d8-7223-8ed5-8545b63073b6",
-      "time": "2026-05-27 23:32:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (May.27) | actual 3.01 | previous 3.34"
-    },
-    {
-      "id": "mkt:019e6a11-3be7-7223-8ed5-7bd0edde9184",
-      "time": "2026-05-27 23:32:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. 4-month Bond / Govt auction as of May 27 — percentage allocated at the awarded yield 25.59%; prior 99.6%."
-    },
-    {
-      "id": "mkt:019e6a11-1870-7223-8ed5-741de5452ccc",
-      "time": "2026-05-27 23:32:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 4-month government bond auction as of May 27 — stop-out yield 3.63%, previous 3.59%."
-    },
-    {
-      "id": "mkt:019e6a10-e6bf-7223-8ed5-6ef7a455a460",
-      "time": "2026-05-27 23:32:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (May.27) | actual 3.63% | previous 3.59%"
-    },
-    {
-      "id": "4902953",
-      "time": "2026-05-27 23:32:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國1年11個月期浮動利率債券貼現率為0.089%。"
-    },
-    {
-      "id": "mkt:019e6a10-43db-7223-8ed5-60d259ee03c8",
-      "time": "2026-05-27 23:31:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian state nuclear corporation Rosatom may enter negotiations to participate in Kazakhstan's second nuclear power plant project."
-    },
-    {
-      "id": "4902952",
-      "time": "2026-05-27 23:31:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司總經理：我們已決定推遲安排我方員工返回伊朗布什爾核電站。"
-    },
-    {
-      "id": "4902951",
-      "time": "2026-05-27 23:31:25",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.1%，歐洲斯托克指數上漲0.19%，歐元區藍籌股上漲0.28%。英國富時100指數上漲0.16%，德國DAX指數上漲0.13%，法國CAC 40指數上漲0.6%，西班牙IBEX指數上漲0.53%。"
-    },
-    {
-      "id": "mkt:019e6a0f-884c-7223-8ed5-5c1e585f728b",
-      "time": "2026-05-27 23:31:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Federal Aviation Administration (FAA) has determined that the May 22 SpaceX Starship launch was an accident."
-    },
-    {
-      "id": "4902950",
-      "time": "2026-05-27 23:30:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司（Rosatom）：不排除會邀請法國或韓國的供應商加入聯合體，共同建造哈薩克首座核電站。"
-    },
-    {
-      "id": "te:markets:554150",
-      "time": "2026-05-27 23:30:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Fall on Hopes for Hormuz Reopening Deal — European natural gas futures fell below €47 per megawatt hour as optimism grew that the US and Iran could reach a deal to reopen the Strait of Hormuz, a key route for global energy supplies. Sentiment improved despite conflicting signals from both sides, with Iranian state television reporting an unofficial draft of an interim agreement while the White House dismissed the report as “a complete fabrication.” The Strait normally handles around 20% of global oil and LNG flows, and a reopening would ease pressure on energy markets. Prolonged disruption has raised concerns that Europe may struggle to rebuild gas inventories ahead of winter, with storage facilities currently about 38% full compared with a five year average above 50% for this period. Adding to demand concerns, Europe is facing its first major heat wave of the season, with record temperatures expected across cities including London, Paris and Madrid."
-    },
-    {
-      "id": "4902949",
-      "time": "2026-05-27 23:30:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原子能公司（Rosatom）或將就參與哈薩克第二座核電站專案舉行磋商。"
-    },
-    {
-      "id": "4902948",
-      "time": "2026-05-27 23:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲超1%。"
-    },
-    {
-      "id": "4902947",
-      "time": "2026-05-27 23:30:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國天然氣管網運營機構呼籲，全面調整儲氣庫補氣的激勵機制。"
     }
   ]
 }
