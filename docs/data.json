@@ -1,7 +1,1228 @@
 {
-  "updated": "2026-06-04 03:05:04",
-  "count": 19132,
+  "updated": "2026-06-04 04:20:33",
+  "count": 19179,
   "items": [
+    {
+      "id": "mkt:019e8f24-5db6-7443-8fe3-9854a34ea49b",
+      "time": "2026-06-04 04:19:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said that when dealing with Iran, anything can happen."
+    },
+    {
+      "id": "4915971",
+      "time": "2026-06-04 04:19:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗若簽署協議，將承諾放棄研發核武器。"
+    },
+    {
+      "id": "mkt:019e8f24-0248-7443-8fe3-92e7f345a9e6",
+      "time": "2026-06-04 04:19:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: I support an 'anti-weaponization fund'."
+    },
+    {
+      "id": "4915970",
+      "time": "2026-06-04 04:19:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通二季度AI半導體業務營收108億美元，市場預期106.7億美元。"
+    },
+    {
+      "id": "mkt:019e8f23-62d5-7443-8fe3-8fda60f92241",
+      "time": "2026-06-04 04:18:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) said it expects third-quarter semiconductor revenue from AI-related products to rise more than 200% YoY to $16.0 bln."
+    },
+    {
+      "id": "4915969",
+      "time": "2026-06-04 04:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗相關事宜：事態或還將持續兩三週。"
+    },
+    {
+      "id": "4915968",
+      "time": "2026-06-04 04:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：並不情願徹底摧毀伊朗。"
+    },
+    {
+      "id": "4915967",
+      "time": "2026-06-04 04:17:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "博通股價盤後下跌8%，此前釋出第二財季業績。"
+    },
+    {
+      "id": "4915966",
+      "time": "2026-06-04 04:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：和伊朗打交道，什麼事都可能發生。"
+    },
+    {
+      "id": "mkt:019e8f22-3151-7443-8fe3-81e99ff0ce8c",
+      "time": "2026-06-04 04:17:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Trump: Iran talks may occur over the weekend."
+    },
+    {
+      "id": "mkt:019e8f22-3149-7443-8fe3-7a86d355018a",
+      "time": "2026-06-04 04:17:20",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom (AVGO.O) shares fell more than 4% in U.S. after-hours trading."
+    },
+    {
+      "id": "4915965",
+      "time": "2026-06-04 04:17:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金下跌1%，至每盎司4438.73美元。"
+    },
+    {
+      "id": "4915964",
+      "time": "2026-06-04 04:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：Meta、微軟、Coinbase與星鏈聯手美國司法部、泰國皇家警察及全球多家執法機構開展合作。"
+    },
+    {
+      "id": "mkt:019e8f21-98ba-7443-8fe3-77716bdf82f7",
+      "time": "2026-06-04 04:16:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) reported fiscal 2026 second-quarter net income of $9.31 billion, compared with $4.965 billion a year earlier."
+    },
+    {
+      "id": "4915963",
+      "time": "2026-06-04 04:16:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通第二季度調整後淨營收221.9億美元，市場預期221.3億美元；公司預計第三季度營收約294億美元，市場預期286.1億美元。"
+    },
+    {
+      "id": "mkt:019e8f21-33bb-7443-8fe3-69f4d7885b77",
+      "time": "2026-06-04 04:16:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) said fiscal Q2 semiconductor revenue from AI was $10.8 billion."
+    },
+    {
+      "id": "mkt:019e8f20-fd74-7443-8fe3-66cf1b197e6c",
+      "time": "2026-06-04 04:16:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump signed an executive order easing dismissal procedures for 8,000 senior federal officials."
+    },
+    {
+      "id": "4915962",
+      "time": "2026-06-04 04:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅詩蘭黛：公司當前預計，重組計劃及其他相關費用稅前合計為15億至17億美元。"
+    },
+    {
+      "id": "mkt:019e8f20-c113-7443-8fe3-5b5b8a1fa306",
+      "time": "2026-06-04 04:15:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) reported fiscal 2026 second-quarter revenue of $22.187 billion, up from $15.004 billion a year earlier."
+    },
+    {
+      "id": "te:markets:556253",
+      "time": "2026-06-04 04:15:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CrowdStrike Holdings earnings above expectations at 1.10 USD — CrowdStrike Holdings (CRWD) released earnings per share at 1.10 USD, compared to market expectations of 1.07 USD."
+    },
+    {
+      "id": "4915961",
+      "time": "2026-06-04 04:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "好市多：前三十九周淨銷售額為2211.9億美元，同比增長10%。"
+    },
+    {
+      "id": "mkt:019e8f20-21df-7443-8fe3-57d948edd913",
+      "time": "2026-06-04 04:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said it intends to extend existing tariffs on steel and aluminum products."
+    },
+    {
+      "id": "4915960",
+      "time": "2026-06-04 04:15:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就伊朗襲擊科威特機場一事表態：此舉屬於報復行動。"
+    },
+    {
+      "id": "mkt:019e8f1f-4106-7443-8fe3-4ce57d031db8",
+      "time": "2026-06-04 04:14:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Trump says talks with Iran are progressing smoothly."
+    },
+    {
+      "id": "4915959",
+      "time": "2026-06-04 04:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗談判：或於本週末展開磋商。"
+    },
+    {
+      "id": "mkt:019e8f1f-2698-7443-8fe3-44a24ff123e9",
+      "time": "2026-06-04 04:14:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports Bill Ackman's Pershing Square expects at least $600 million in profit from its investment in Universal Pictures."
+    },
+    {
+      "id": "4915958",
+      "time": "2026-06-04 04:13:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大宣告稱，計劃延長鋼鐵和鋁關稅措施。"
+    },
+    {
+      "id": "4915957",
+      "time": "2026-06-04 04:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：談判進展順利。"
+    },
+    {
+      "id": "4915956",
+      "time": "2026-06-04 04:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們一直在嚴厲打擊伊朗。"
+    },
+    {
+      "id": "4915955",
+      "time": "2026-06-04 04:13:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們對伊朗進行了重擊。"
+    },
+    {
+      "id": "4915954",
+      "time": "2026-06-04 04:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：潘興廣場對環球音樂近五年投資（含分紅）預計至少獲利6億美元。"
+    },
+    {
+      "id": "4915953",
+      "time": "2026-06-04 04:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將簽署有關聯邦僱員改革的命令。"
+    },
+    {
+      "id": "4915952",
+      "time": "2026-06-04 04:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊一艘美艦 美軍否認】伊朗軍方3日深夜發表宣告稱，伊朗海軍剛剛在阿曼灣對一艘美軍驅逐艦發動打擊，針對設於該艦、對伊朗實施敵對行動的指揮控制中心。 美軍中央司令部稍後在社交媒體發文，否認伊方說法，“美國海上軍事力量目前仍在安全、暢通無阻地進行飛行、航行及各項行動。”（新華社）"
+    },
+    {
+      "id": "mkt:019e8f1c-2ffa-7443-8fe3-3fed0bf74de9",
+      "time": "2026-06-04 04:10:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The US Senate voted to begin debate on a $70 billion bill to fund President Trump's immigration crackdown; a final vote is expected later this week."
+    },
+    {
+      "id": "mkt:019e8f1b-cab5-7443-8fe3-3765b4dc8d24",
+      "time": "2026-06-04 04:10:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Logan says Fed may need rate hikes later this year to curb inflation】Fed official Logan said policymakers may need to raise rates later this year to return inflation to the 2% target. She described the U.S. labor market as broadly in balance, said AI-related investment is booming and financial conditions remain loose. Current inflation trends do not appear to be moving toward 2%, suggesting policy is not yet restrictive; she said she is increasingly concerned a rate increase later this year may be necessary to fully restore price stability while balancing the Fed’s dual mandate."
+    },
+    {
+      "id": "4915951",
+      "time": "2026-06-04 04:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普即將簽署勞動力改革相關行政令。"
+    },
+    {
+      "id": "4915950",
+      "time": "2026-06-04 04:09:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署關稅執法相關行政令。"
+    },
+    {
+      "id": "4915949",
+      "time": "2026-06-04 04:08:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "CrowdStrike股價盤後下跌9.1%。"
+    },
+    {
+      "id": "mkt:019e8f1a-4de2-7443-8fe3-2e6506337d31",
+      "time": "2026-06-04 04:08:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump signed an executive order to strengthen customs enforcement."
+    },
+    {
+      "id": "te:markets:556252",
+      "time": "2026-06-04 04:08:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pull Back from Records — US equity indices fell from records on Wednesday amid fresh escalation to the war in the Middle East a THe S&P 500 closed 0.7% lower while the Nasdaq 100 fell 0.9% and the Dow dropped 619 points. The US and Iran exchanged strikes and GCC states were targeted, straining the ceasefire and prolonging the naval blockades that prevent energy from the region to be exported. Oil and fuel prices rose further, driving yields to rise across the curve. Expectations of a hawkish Federal Reserve were further validated by a strong ADP report and ISM Services PMI, with the price gauge rising to a near four-year high. Software majors were sharply lower with Oracle and Palantir dropping over 5% while Microsoft dropped 3%. Meanwhile, Blackstone and KKR sank 4% each to set the pace for asset managers. Broadcom sank 8% in afterhour trading after it missed quarterly revenue expectations and delivered a lower guidance than expected. Crowdstrike dropped 7% after posting their results."
+    },
+    {
+      "id": "mkt:019e8f1a-048f-7443-8fe3-203f4962257a",
+      "time": "2026-06-04 04:08:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil rises on 3rd】At the close, NYMEX July light sweet crude futures settled up $2.26 at $96.02/bbl, +2.41%; ICE Brent August futures settled up $1.81 at $97.81/bbl, +1.89%."
+    },
+    {
+      "id": "4915948",
+      "time": "2026-06-04 04:07:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike：董事會已批准並宣佈，以股票股利的形式對公司已發行A類普通股實施1股拆4股拆分。"
+    },
+    {
+      "id": "4915947",
+      "time": "2026-06-04 04:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院投票決定啟動對為特朗普移民執法行動提供700億美元資金的法案的辯論，預計本週晚些時候將對該法案進行表決。"
+    },
+    {
+      "id": "4915946",
+      "time": "2026-06-04 04:07:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價3日上漲】國際油價3日上漲。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲2.26美元，收於每桶96.02美元，漲幅為2.41%；8月交貨的倫敦布倫特原油期貨價格上漲1.81美元，收於每桶97.81美元，漲幅為1.89%。"
+    },
+    {
+      "id": "mkt:019e8f18-a3c3-7443-8fe3-1981b5e559a1",
+      "time": "2026-06-04 04:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 3.00% intraday to $72.87/oz."
+    },
+    {
+      "id": "4915945",
+      "time": "2026-06-04 04:06:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "C3.AI股價盤後上漲10%，第四財季營收超出預期。"
+    },
+    {
+      "id": "mkt:019e8f18-8623-7443-8fe3-1472ffc2701d",
+      "time": "2026-06-04 04:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At Wednesday's close (June 3), the Dow Jones Industrial Average fell 619.92 points, or 1.21%, to 50,687.87; the S&P 500 dropped 55.92 points, or 0.73%, to 7,553.86; the Nasdaq Composite lost 239.93 points, or 0.89%, to 26,853.98."
+    },
+    {
+      "id": "4915944",
+      "time": "2026-06-04 04:06:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報72.84美元/盎司。"
+    },
+    {
+      "id": "4915943",
+      "time": "2026-06-04 04:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：推進修建邊境隔離牆新增區段。"
+    },
+    {
+      "id": "4915942",
+      "time": "2026-06-04 04:05:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守73美元/盎司，日內跌2.88%。"
+    },
+    {
+      "id": "4915941",
+      "time": "2026-06-04 04:05:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報73.24美元/盎司。"
+    },
+    {
+      "id": "mkt:019e8f16-e4ba-7443-8fe3-0e98b210cb05",
+      "time": "2026-06-04 04:05:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "BA.L",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports UK Treasury will take control of fighter-jet procurement spending after a series of failures at the UK Ministry of Defence."
+    },
+    {
+      "id": "mkt:019e8f16-b18e-7443-8fe3-05db0ec76d32",
+      "time": "2026-06-04 04:04:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Logan said a mild trimmed-mean PCE measure may be misleading."
+    },
+    {
+      "id": "4915940",
+      "time": "2026-06-04 04:04:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特公共投資基金著手調整旗下部分企業管理層。"
+    },
+    {
+      "id": "4915939",
+      "time": "2026-06-04 04:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "ISHARES軟體ETF兩日下跌7%，創2025年以來最大跌幅。"
+    },
+    {
+      "id": "4915938",
+      "time": "2026-06-04 04:03:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普政府擬出臺一項關稅相關行政令。"
+    },
+    {
+      "id": "mkt:019e8f15-0c41-7443-8fe2-f88ef172c991",
+      "time": "2026-06-04 04:03:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Logan: economic activity remains strong; corporate profits showing strong momentum."
+    },
+    {
+      "id": "4915937",
+      "time": "2026-06-04 04:02:52",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲洛根：為應對通脹，美聯儲今年或需加息】達拉斯聯儲行長洛裡·洛根表示，為遏制頑固的通貨膨脹，今年晚些時候或許需要加息。這是迄今為止美國央行官員發出的最直接警告之一，表明美聯儲可能需要收緊貨幣政策。洛根週三下午在得克薩斯州埃爾帕索發表演講時說，美聯儲目前3.5%-3.75%的利率設定似乎已無法遏制價格上漲。洛根說，鑑於一系列廣泛指標顯示通脹已經升溫，美聯儲可能需要在2026年底前以加息作為回應。根據其已公佈的演講稿，洛根說：“我越來越擔心，為了完全恢復價格穩定，今年晚些時候或許有必要提高利率。”洛根說，一系列通脹資料已普遍顯示出一個一致的訊號：通脹趨勢仍高於目標水平。她表示，除了美聯儲的主要衡量標準——個人消費支出(PCE)價格指數的整體通脹資料外，美聯儲各地區儲備銀行編制的專門通脹指標也大多指向價格漲幅頑固地處於高位。美聯儲主席凱文·沃什去年在尋求美聯儲最高職位時曾闡述過降息的理由，他經常指出一項替代性通脹指標——PCE通脹率的切尾均值，認為這是一個令人安心的跡象，表明通脹的基本趨勢依然溫和。洛根則提出了一個相互競爭的觀點，認為在整個經濟體中價格漲跌組合迅速變化時，切尾均值通脹率有時會產生誤導。洛根說，從整體價格趨勢來看，“通脹率似乎正朝2.5%左右的水平發展——而不是完全回到2%。”"
+    },
+    {
+      "id": "mkt:019e8f14-28ff-7443-8fe2-f7a88cc1b75d",
+      "time": "2026-06-04 04:02:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's Logan said he is increasingly concerned that rates may need to be raised later this year."
+    },
+    {
+      "id": "4915936",
+      "time": "2026-06-04 04:01:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：通貨膨脹率正朝著2%中間值的方向發展，但尚未完全達到2%。"
+    },
+    {
+      "id": "mkt:019e8f13-e2dd-7443-8fe2-ecdff80930d6",
+      "time": "2026-06-04 04:01:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed official LOGAN said the time needed for inf to return to 2% is too long."
+    },
+    {
+      "id": "4915935",
+      "time": "2026-06-04 04:01:31",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲洛根：今年晚些時候可能需要提高利率。"
+    },
+    {
+      "id": "mkt:019e8f13-7718-7443-8fe2-e44230fed090",
+      "time": "2026-06-04 04:01:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI introduces new medicinal chemistry cognition for GPT-Rosalind."
+    },
+    {
+      "id": "mkt:019e8f13-7493-7443-8fe2-dae52437e07a",
+      "time": "2026-06-04 04:01:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Logan said monetary policy has not restrained the economy."
+    },
+    {
+      "id": "mkt:019e8f13-4ff9-7443-8fe2-d69f1c77c9f1",
+      "time": "2026-06-04 04:01:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve official Logan said financial conditions are loose and the labor market is stable."
+    },
+    {
+      "id": "4915934",
+      "time": "2026-06-04 04:01:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：均值修正後的通脹率目前並非可靠的指標。"
+    },
+    {
+      "id": "mkt:019e8f13-348a-7443-8fe2-cb7b7bcc53d3",
+      "time": "2026-06-04 04:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "Wall Street (US)",
+        "Market Themes",
+        "China Tech Giants",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "NVDA.O",
+        "BABA.N"
+      ],
+      "text": "【US close: major indexes fall; NVIDIA down >3%】US stocks closed lower on Wednesday. Dow Jones Industrial Average fell 1.2%, the S&P 500 slid 0.7% and the Nasdaq Composite lost 0.89%. Microsoft and NVIDIA each dropped over 3%, Oracle fell more than 5% and Intel rose about 4%. The Nasdaq Golden Dragon China Index declined 2.46%, with Alibaba down over 2%."
+    },
+    {
+      "id": "4915933",
+      "time": "2026-06-04 04:00:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：勞動力市場目前看起來較為穩定且總體上處於均衡狀態。"
+    },
+    {
+      "id": "4915932",
+      "time": "2026-06-04 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.13%，標普500指數跌0.74%，納指跌0.89%。Lumentum Holdings Inc. Common Stock When Issued跌8.83%，環匯有限公司跌8.33%，特許通訊跌8.01%，現在服務跌7.65%，IBM跌7.00%。“七姐妹”方面：Meta Platforms漲4.19%，特斯拉跌0.04%，谷歌跌0.82%，蘋果跌1.66%，亞馬遜跌2.57%，微軟跌3.22%，英偉達跌3.68%。"
+    },
+    {
+      "id": "4915931",
+      "time": "2026-06-04 04:00:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：貨幣政策並未抑制經濟的發展。"
+    },
+    {
+      "id": "4915930",
+      "time": "2026-06-04 04:00:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：經濟保持強勁，消費者支出強勁。"
+    },
+    {
+      "id": "4915929",
+      "time": "2026-06-04 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.41%】海天網路跌27.39%，Tims中國跌12.94%，迅雷跌8.32%，360數科跌8.12%，聲網跌7.41%。"
+    },
+    {
+      "id": "te:markets:556251",
+      "time": "2026-06-04 03:59:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 8-week High — Lumber increased to 598.00 USD/1000 board feet, the highest since April 2026. Over the past 4 weeks, Lumber gained 3.57%, and in the last 12 months, it increased 0.5%."
+    },
+    {
+      "id": "4915928",
+      "time": "2026-06-04 03:57:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多綜合股指延續跌勢，下跌1%。"
+    },
+    {
+      "id": "4915927",
+      "time": "2026-06-04 03:52:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【奧爾特曼將述其關於AI領域公私合作的願景】OpenAI創始人奧爾特曼週三造訪華盛頓時，將闡述其關於人工智慧領域公私合作的願景。奧爾特曼正訪問白宮，與美國官員進行磋商，而就在前一天，特朗普總統剛剛呼籲人工智慧公司自願在釋出前將尖端模型提交政府審查。奧爾特曼還計劃分別會見美國眾議院議長約翰遜以及獨立參議員桑德斯，目前國會議員們正在商討一項關於人工智慧立法的兩黨框架。儘管OpenAI對特朗普簽署的行政令給予了肯定，認為該命令為人工智慧實驗室與政府機構之間建立了更緊密的聯絡，但該公司包括首席全球事務官Chris Lehane在內的員工週三警告稱，該指令的許多細節仍不明確。"
+    },
+    {
+      "id": "mkt:019e8f0b-01b5-7443-8fe2-c37b750b7d53",
+      "time": "2026-06-04 03:52:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Altman to outline vision for public-private cooperation in AI】OpenAI founder Altman will present his vision for public-private cooperation in AI during a Washington visit on Wednesday, including meetings at the White House and separate sessions with House Speaker Johnson and independent Sen. Sanders. The trip follows President Trump’s recent call for AI firms to voluntarily submit advanced models for government review before release and his signing of an executive order; OpenAI said it welcomed the order as strengthening ties between AI labs and government but staff, including Chief Global Affairs Officer Chris Lehane, warned many implementation details remain unclear. Congressional negotiators are working on a bipartisan AI legislative framework."
+    },
+    {
+      "id": "mkt:019e8f09-34c5-7443-8fe2-bd086d664ba1",
+      "time": "2026-06-04 03:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Dallas Fed President Logan, a 2026 FOMC voter, is due to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:019e8f08-a267-7443-8fe2-b1842c765ffe",
+      "time": "2026-06-04 03:49:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US Secretary of State Rubio says the risk of escalation in the Russia-Ukraine conflict exists and is more severe than two years ago."
+    },
+    {
+      "id": "4915926",
+      "time": "2026-06-04 03:48:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：俄烏衝突升級風險“切實存在”，且比兩年前更為嚴峻。"
+    },
+    {
+      "id": "4915925",
+      "time": "2026-06-04 03:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦副總理辦公室釋出宣告：提議於6月10日公佈財政預算。"
+    },
+    {
+      "id": "mkt:019e8f06-add2-7443-8fe2-a845f3732880",
+      "time": "2026-06-04 03:47:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Yemen's Houthi militia reiterates support for Iran's right to respond】On the evening of the 3rd (local time), Yemen's Houthi militia praised Iran's response to a US strike and said Iran's actions helped prevent an Israeli attack on Beirut. The statement reaffirmed support for Iran's right to respond to any violations of its territory and national security, criticized some Gulf states for allowing US military bases used against regional countries, and accused those states of supporting foreign forces while portraying themselves as victims."
+    },
+    {
+      "id": "mkt:019e8f06-0cc0-7443-8fe2-a36cc2dbc0f0",
+      "time": "2026-06-04 03:46:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said \"there will be news soon\" on $400 million in Ukraine security assistance that Congress approved but the Pentagon has not yet allocated."
+    },
+    {
+      "id": "mkt:019e8f05-ae38-7443-8fe2-98996ff1cf2d",
+      "time": "2026-06-04 03:46:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Germany, France, UK preparing push to restart Russia-Ukraine talks】Sources say German, French and UK officials, working with Kyiv, are preparing plans to press for Russia-Ukraine negotiations, arguing shifting battlefield dynamics have strengthened Zelensky's bargaining position. Officials say they are exploring talks involving both sides as U.S.-led diplomacy stalls and Russian forces suffer rising battlefield casualties; increasingly effective Ukrainian deep strikes by drones and signs of dissent among Moscow elites are adding pressure on the Kremlin. Allies hope talks now could avert another winter, but sources stress the decision rests with Zelensky. Starmer is due to consult with Merz and Macron in coming days."
+    },
+    {
+      "id": "4915924",
+      "time": "2026-06-04 03:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞武裝發表宣告 重申支援伊朗維護自身權利】當地時間3日晚，葉門胡塞武裝發表宣告，對伊朗就美國發動襲擊一事作出的回應表示讚賞，並稱伊朗的行動對阻止以色列襲擊黎巴嫩首都貝魯特發揮了作用。宣告重申支援伊朗就任何侵犯其領土和國家安全行為進行回應的權利，同時批評部分海灣國家繼續允許美軍基地存在，稱這些基地被用於針對地區國家的行動。宣告還指責有關國家在為外國軍隊提供支援的同時，將自身塑造成伊朗軍事行動的受害者。（央視新聞）"
+    },
+    {
+      "id": "4915923",
+      "time": "2026-06-04 03:44:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：經國會授權、五角大樓尚未撥付的4億美元烏克蘭安全援助很快就會有訊息。"
+    },
+    {
+      "id": "mkt:019e8f03-60b0-7443-8fe2-94f0c35590aa",
+      "time": "2026-06-04 03:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's emir's office said the emir spoke with Trump to discuss recent regional developments."
+    },
+    {
+      "id": "mkt:019e8f02-1ce4-7443-8fe2-8c02fbbb5a6f",
+      "time": "2026-06-04 03:42:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's defense ministry told state media it will spare no effort to strengthen national defense capabilities."
+    },
+    {
+      "id": "4915922",
+      "time": "2026-06-04 03:41:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲“褐皮書”顯示能源漲價推高通脹水平】當地時間3日，美國聯邦儲備委員會發布的全國經濟形勢調查報告顯示，美國多數地區經濟活動保持輕微至溫和增長，但消費者支出出現分化，通脹壓力上升。報告指出，與中東衝突相關的能源成本是推高通脹水平的主要因素，並外溢至航運、包裝、食品雜貨和化肥等領域。"
+    },
+    {
+      "id": "mkt:019e8f01-1b24-7443-8fe2-85838fb34d20",
+      "time": "2026-06-04 03:41:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "CENTCOM said Iran's claim that it struck a U.S. Navy destroyer in the Gulf of Oman is false. U.S. military maritime assets remain safe and continue flight, navigation and operational missions unimpeded."
+    },
+    {
+      "id": "mkt:019e8eff-8ed4-7443-8fe2-7e990871a21a",
+      "time": "2026-06-04 03:39:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Trump said he will travel to France to attend the G7 summit immediately after the White House mixed martial arts event on June 14."
+    },
+    {
+      "id": "4915921",
+      "time": "2026-06-04 03:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國防部稱將動用一切力量增強防禦能力。"
+    },
+    {
+      "id": "4915920",
+      "time": "2026-06-04 03:37:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部否認伊朗有關美方在阿曼灣襲擊美國海軍驅逐艦的說法。"
+    },
+    {
+      "id": "mkt:019e8efd-637d-7443-8fe2-728ccf082b98",
+      "time": "2026-06-04 03:37:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the previously delayed $660 mln U.S. contribution to Gavi, the Global Alliance for Vaccines and Immunization, will be approved soon."
+    },
+    {
+      "id": "4915919",
+      "time": "2026-06-04 03:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾辦公廳：卡達埃米爾與特朗普通電話，討論地區局勢發展。"
+    },
+    {
+      "id": "4915918",
+      "time": "2026-06-04 03:35:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：我將前往法國參加七國集團峰會。"
+    },
+    {
+      "id": "mkt:019e8efb-6c39-7443-8fe2-6fefa7d4d3db",
+      "time": "2026-06-04 03:35:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: payment mechanism a key sticking point in US–Iran talks】CNN reports a U.S. official says one of the remaining key sticking points in U.S.–Iran negotiations is economic compensation. Iran has told mediators it expects some form of payment promptly once parties agree a preliminary MoU, rather than deferred disbursement. Trump administration officials fear early unfreezing of funds would ease Iran’s economic pain and weaken Washington’s leverage heading into a second phase to negotiate nuclear details. Trump has told aides he wants any deal to appear tougher than the 2015 agreement and to avoid actions that could be construed as delivering large cash payments, a critique he directed at the Obama-era settlement."
+    },
+    {
+      "id": "mkt:019e8ef8-55dc-7443-8fe2-6628f420e41b",
+      "time": "2026-06-04 03:31:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bolivia names Ernesto Justiniano as defense minister】In La Paz on the 3rd, President Paz appointed Ernesto Justiniano as defense minister, replacing Marcelo Salinas, who resigned on the 2nd. Paz said drug crime is a \"cancer\" that must be eradicated and praised Justiniano's experience combating narcotics. Justiniano, born in 1969, is a former vice minister of social defense and ex-legislator with long experience in public administration and anti-narcotics roles."
+    },
+    {
+      "id": "mkt:019e8ef8-2d50-7443-8fe2-59a8460ca1de",
+      "time": "2026-06-04 03:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli military said alarms in Zarit in northern Israel that warned of an 'enemy aircraft incursion' were a false alarm caused by a misidentification."
+    },
+    {
+      "id": "4915917",
+      "time": "2026-06-04 03:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：約6.6億美元暫停撥付給全球疫苗免疫聯盟（GAVI）的美國資助資金很快將到位。"
+    },
+    {
+      "id": "4915916",
+      "time": "2026-06-04 03:30:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.01%，現報50788.949點；納指跌0.84%，現報26867.219點；標普500指數跌0.59%，現報7564.850點。"
+    },
+    {
+      "id": "mkt:019e8ef5-c501-7443-8fe2-56cf6d74ec8a",
+      "time": "2026-06-04 03:28:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US stocks extended losses; Dow Jones Industrial Average down 1%, S&P 500 down 0.6%."
+    },
+    {
+      "id": "4915915",
+      "time": "2026-06-04 03:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，針對以色列北部扎裡特地區拉響的“敵方軍機入侵”防空警報為誤報。"
+    },
+    {
+      "id": "4915914",
+      "time": "2026-06-04 03:26:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市跌幅擴大，道瓊斯工業平均指數下跌1.00%。"
+    },
+    {
+      "id": "4915913",
+      "time": "2026-06-04 03:26:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "行業參考資料顯示：NFL本年度廣告銷售收入預計上漲8%。"
+    },
+    {
+      "id": "4915912",
+      "time": "2026-06-04 03:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍：伊朗關於“美方導彈攔截器致科威特機場受損”說法不實】當地時間6月3日，美軍中央司令部發布訊息稱，伊朗聲稱其並未襲擊科威特國際機場的客運航站樓，機場受損實為美方導彈攔截器所致，此說法純屬虛假。美軍中央司令部稱，伊朗利用無人機對該民用機場發動了“蓄意、經過精心策劃且毫無正當理由”的襲擊。（央視新聞）"
+    },
+    {
+      "id": "4915911",
+      "time": "2026-06-04 03:25:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "人工智慧資料中心零部件製造商XNRGY據傳考慮以100億美元整體出售企業。"
+    },
+    {
+      "id": "mkt:019e8ef1-e29b-7443-8fe2-48bfc7419d73",
+      "time": "2026-06-04 03:24:36",
+      "tags": [
+        "MKT News",
+        "UBER.N"
+      ],
+      "text": "Uber (UBER.N) has committed nearly $500m in total financing to autonomous-vehicle startup Nuro, market sources say."
+    },
+    {
+      "id": "mkt:019e8ef1-3c1e-7443-8fe2-47a02be92532",
+      "time": "2026-06-04 03:23:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran's military says it struck U.S. warship after action in Gulf of Oman】Iran's armed forces said they struck a U.S. warship hours after U.S. forces carried out an 'aggressive' action against an Iranian merchant ship in the Gulf of Oman; Iran said the targeted vessel served as the 'command and control center' for the hostile action."
+    },
+    {
+      "id": "mkt:019e8ef0-89b6-7443-8fe2-3de275d806c2",
+      "time": "2026-06-04 03:23:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, a U.S. official said U.S.-brokered Israel-Lebanon talks are ongoing at the State Department; initial progress was slow but later made major progress on an action plan."
+    },
+    {
+      "id": "4915910",
+      "time": "2026-06-04 03:22:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍隊稱剛剛打擊美軍指揮艦】據伊朗塔斯尼姆通訊社3日援引伊朗軍隊訊息報道，數小時前，在美軍針對阿曼海的伊朗商船實施“侵略”行動之後，伊朗伊斯蘭共和國軍隊對該敵對行動“指揮與控制中心”所在的一艘美國軍艦實施打擊。（新華社）"
+    },
+    {
+      "id": "4915909",
+      "time": "2026-06-04 03:22:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌5%，現報1322.60美元/盎司。"
+    },
+    {
+      "id": "te:markets:556250",
+      "time": "2026-06-04 03:22:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.03% — Palladium decreased 5.03% to 1322.5 USD/t.oz"
+    },
+    {
+      "id": "4915908",
+      "time": "2026-06-04 03:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士透露，優步對自動駕駛初創企業努洛（Nuro）的總投資承諾已接近5億美元。"
+    },
+    {
+      "id": "mkt:019e8eef-1043-7443-8fe2-34616e07599c",
+      "time": "2026-06-04 03:21:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Goldman president Waldron said the Fed under Wosh's leadership would focus primarily on its balance sheet and inflation."
+    },
+    {
+      "id": "4915907",
+      "time": "2026-06-04 03:19:25",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛總裁約翰·沃爾德倫：沃什執掌下的美聯儲將聚焦資產負債表與通脹問題。"
+    },
+    {
+      "id": "4915906",
+      "time": "2026-06-04 03:18:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【資金賠付成伊朗談判核心僵持點】美國媒體表示，向伊朗支付資金賠付是伊美談判的主要癥結之一。伊朗已向調停方表態，希望在諒解備忘錄敲定後立刻落實相關賠付資金，不願將款項延後撥付。"
+    },
+    {
+      "id": "mkt:019e8eeb-ced6-7443-8fe2-284d9b031bff",
+      "time": "2026-06-04 03:17:58",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "Nasdaq100"
+      ],
+      "text": "The Trump administration proposed exempting \"trusted applicants\" from stringent national-security license reviews required before releasing frontier AI models, in exchange for ongoing oversight and monitoring."
+    },
+    {
+      "id": "mkt:019e8eeb-639c-7443-8fe2-23f1ce3d152f",
+      "time": "2026-06-04 03:17:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cayetano denies he was removed as Philippine Senate president】On the 3rd, Alan Cayetano said he was not \"legally removed\" as Philippine Senate president. He said electing or removing Senate officers requires participation by 13 of the 24 senators, and that he has not resigned, been legally removed, or become incapacitated."
+    },
+    {
+      "id": "4915905",
+      "time": "2026-06-04 03:17:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛總裁約翰·沃爾德倫：今年私募股權作為併購交易推手的勢頭有所放緩，市場承接大型 IPO 的消化能力十分充足。"
+    },
+    {
+      "id": "4915903",
+      "time": "2026-06-04 03:14:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府擬對“可信申請人”免除嚴格的國家安全層面許可證審查，前提是申請人同意接受持續監督與管控。"
+    },
+    {
+      "id": "mkt:019e8ee8-65a4-7443-8fe2-1b2c05548a10",
+      "time": "2026-06-04 03:14:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "CNN reports monetary compensation has become the key sticking point in the Iran agreement."
+    },
+    {
+      "id": "mkt:019e8ee4-f34f-7443-8fe2-1260054bb983",
+      "time": "2026-06-04 03:10:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Vice President Pence and Republicans are doing an excellent job in states cracking down on fraud, that billions of dollars are being uncovered, and that if all funds are found they could balance the budget and reduce taxes."
+    },
+    {
+      "id": "4915901",
+      "time": "2026-06-04 03:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：資金賠付是伊朗相關協議談判的核心癥結。"
+    },
+    {
+      "id": "4915900",
+      "time": "2026-06-04 03:07:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲褐皮書：就業總體保持穩定 許多地區通脹繼續上升】美聯儲表示，近幾周美國就業總體保持穩定，但受中東戰爭推高能源價格影響，全國諸多轄區通脹持續上升。根據美聯儲週三釋出的褐皮書調查，在12個聯儲轄區中，有10個轄區的經濟活動以輕微至溫和速度增長。美聯儲表示：“各轄區指出，與中東衝突相關的能源成本上升是通脹壓力的主要來源，並進一步傳導至航運、包裝、食品雜貨和化肥等領域。”這份報告基於12家地區聯儲銀行截至5月27日收集的資訊，由堪薩斯城聯儲彙總編制。伊朗戰爭爆發後能源價格大幅上漲引發市場對通脹持續高企的擔憂，也促使越來越多政策制定者主張保留包括進一步收緊貨幣政策在內的所有選項。不過，許多官員仍認為當前利率水平適當。"
+    },
+    {
+      "id": "4915899",
+      "time": "2026-06-04 03:04:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗對一艘靠近伊朗阿曼灣領海、載有“指揮控制中心”的美國軍艦發動了打擊。"
+    },
+    {
+      "id": "4915898",
+      "time": "2026-06-04 03:04:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "霍尼韋爾下跌3.7%。"
+    },
     {
       "id": "mkt:019e8edf-7235-7443-8fe1-ffc956bcbce8",
       "time": "2026-06-04 03:04:28",
@@ -175459,793 +176680,6 @@
         "Impact bearish"
       ],
       "text": "Nasdaq: As of May 15, short interest in Nasdaq Global Market securities totaled 17,000,786,423 shares, up from 16,707,836,595 shares on the prior settlement date of April 30."
-    },
-    {
-      "id": "mkt:019e6b18-3e06-799f-bbe6-b3987e3db127",
-      "time": "2026-05-28 04:20:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. API weekly crude oil stocks for the week to May 22 will be released in 10 minutes."
-    },
-    {
-      "id": "mkt:019e6b18-37fa-799f-bbe6-aac0dcfe9c0a",
-      "time": "2026-05-28 04:20:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【TRUMP Warns Gulf Ally Oman At WHITE HOUSE Cabinet Meeting: Strait Of Hormuz Is International Waters, 'We'll Blow Them Up' If They Break Rules】TRUMP said at a WHITE HOUSE cabinet meeting on the 27th that the Strait of Hormuz is international waters, open to all and not under any country's control, and warned Gulf ally Oman that if it 'doesn't follow the rules' it will be 'blown up'. When asked whether he would accept a short-term agreement under joint Iran-Oman control of the strait, TRUMP reiterated the waterway is international and should remain open to everyone. He said the United States will maintain order in the strait but 'no one will control it, this is also part of our (negotiations with Iran)'. He added Oman will follow the rules like other countries and said 'if they don't follow the rules, we'll have to blow them up. They know that, so they'll behave.'"
-    },
-    {
-      "id": "4903180",
-      "time": "2026-05-28 04:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普警告盟友阿曼：不守規矩會被炸飛】美國總統特朗普27日在白宮舉行的內閣會議上說，霍爾木茲海峽不歸任何人管轄，並就此警告海灣盟友阿曼，如果“不守規矩”，就會被“炸飛”。被問及是否願意接受一份由伊朗和阿曼共同控制霍爾木茲海峽的短期協議時，特朗普說，這一海峽是國際水域，應對所有人開放，不歸任何人管轄。他表示，美方將維護海峽秩序，但“不會有人控制它，這也是我們（與伊朗）談判的一部分”。特朗普還說，阿曼也會像其他國家一樣遵守規則，並稱“如果他們不守規矩，我們就只能把他們炸飛。他們很清楚這一點，所以會安分守己”。（新華社）"
-    },
-    {
-      "id": "mkt:019e6b16-56e3-799f-bbe6-a16573d1387e",
-      "time": "2026-05-28 04:18:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Governor Breman said certain parts of the New Zealand economy remain in good shape, including agriculture and parts of manufacturing."
-    },
-    {
-      "id": "mkt:019e6b16-0a9b-799f-bbe6-9e2cf9a145ab",
-      "time": "2026-05-28 04:17:47",
-      "tags": [
-        "MKT News",
-        "HPQ.N",
-        "Impact bullish"
-      ],
-      "text": "After releasing its earnings report, HP Inc. (HPQ.N) rallied in after-hours trading and is now up 13.7%."
-    },
-    {
-      "id": "4903179",
-      "time": "2026-05-28 04:16:50",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "紐西蘭聯儲主席佈雷曼： 正密切關注成本攀升、通脹高企導致需求走弱，會在多大程度上抑制其他物價上漲。"
-    },
-    {
-      "id": "mkt:019e6b14-deea-799f-bbe6-921248d09b91",
-      "time": "2026-05-28 04:16:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Governor Breman said he is monitoring the degree to which higher costs and inf will weaken demand and thereby curb other price increases."
-    },
-    {
-      "id": "4903178",
-      "time": "2026-05-28 04:15:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠普公司預計第三季度調整後每股收益為 0.61 至 0.71 美元，市場預期為 0.64 美元。"
-    },
-    {
-      "id": "te:markets:554178",
-      "time": "2026-05-28 04:15:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Synopsys earnings above expectations at 3.35 USD — Synopsys (SNPS) released earnings per share at 3.35 USD, compared to market expectations of 3.15 USD."
-    },
-    {
-      "id": "mkt:019e6b12-d8e0-799f-bbe6-8c4729ad83c4",
-      "time": "2026-05-28 04:14:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "SNOW.N",
-        "Impact bullish"
-      ],
-      "text": "Snowflake (SNOW.N) shares jumped 30% in after-hours trading after the company announced it was expanding its partnership with Amazon.com Inc. (AMZN.O)."
-    },
-    {
-      "id": "4903177",
-      "time": "2026-05-28 04:13:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Snowflake 股價大漲 30%，受其與亞馬遜深化合作訊息提振。"
-    },
-    {
-      "id": "4903176",
-      "time": "2026-05-28 04:10:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁威爾科技一季度淨營收24.2億美元，分析師預期24.1億美元。預計二季度淨營收25.7億-28.4億美元，分析師預期26.1億美元。"
-    },
-    {
-      "id": "te:markets:554177",
-      "time": "2026-05-28 04:10:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bermuda",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Marvell Technology earnings above expectations at 0.80 USD — Marvell Technology (MRVL) released earnings per share at 0.80 USD, compared to market expectations of 0.79 USD."
-    },
-    {
-      "id": "mkt:019e6b0d-737c-799f-bbe6-80a0c0bcfa4d",
-      "time": "2026-05-28 04:08:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SNOW.N",
-        "Impact bullish"
-      ],
-      "text": "Snowflake (SNOW.N): Customers including Fetch and Hex are using Snowflake's platform on Amazon Web Services (AWS) to deploy AI applications on governed data."
-    },
-    {
-      "id": "4903175",
-      "time": "2026-05-28 04:07:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "新思科技第二財季營收22.8億美元，同比增長42%。第二財季調整後每股收益（EPS）為3.35美元，上年同期3.67美元。任命Jesse Cohn為董事。預計全年營收96.3億-97.1億美元，公司原本預計95.6億-96.6億美元。預計全年調整後EPS為14.70-14.80美元，公司原本預計14.38-14.46美元。預計第三財季營收24.1億-24.6億美元，分析師預期23.9億美元。預計第三財季調整後EPSWie3.63-3.69美元，分析師預期3.62美元。"
-    },
-    {
-      "id": "mkt:019e6b0c-afcb-799f-bbe6-7a07e69a7f8d",
-      "time": "2026-05-28 04:07:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SNOW.N",
-        "Impact bullish"
-      ],
-      "text": "According to the Wall Street Journal, Snowflake (SNOW.N) has committed to invest $6.0 bln on Amazon Web Services (AWS) over the next five years for Graviton compute and AI-related spending."
-    },
-    {
-      "id": "mkt:019e6b0c-4300-7223-8ed9-b737e3219b08",
-      "time": "2026-05-28 04:07:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Market Themes",
-        "Chip Wars",
-        "AMZN.O",
-        "Impact bullish",
-        "SNOW.N"
-      ],
-      "text": "According to the Wall Street Journal, Amazon (AMZN.O) and Snowflake (SNOW.N) reached a $6.0 billion agreement to procure Graviton smart-compute chips."
-    },
-    {
-      "id": "4903174",
-      "time": "2026-05-28 04:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "Snowflake：承諾未來五年內，在亞馬遜雲服務（AWS）上投入 60 億美元，用於 Graviton 算力及人工智慧相關建設。"
-    },
-    {
-      "id": "te:markets:554176",
-      "time": "2026-05-28 04:05:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Salesforce earnings above expectations at 3.88 USD — Salesforce (CRM) released earnings per share at 3.88 USD, compared to market expectations of 3.12 USD."
-    },
-    {
-      "id": "mkt:019e6b08-dd8d-799f-bbe6-69381dd8a8f4",
-      "time": "2026-05-28 04:03:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On May 27 (Wednesday) the Dow Jones Industrial Average closed up 182.60 points (+0.36%) at 50,644.28; the S&P 500 Index closed up 1.24 points (+0.02%) at 7,520.36; the Nasdaq Composite Index closed up 18.55 points (+0.07%) at 26,674.73."
-    },
-    {
-      "id": "mkt:019e6b08-be68-7223-8ed9-a749cb4292d7",
-      "time": "2026-05-28 04:03:15",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Index Closed Up 182.60 Points, Rose 0.36%, At 50644.28 On Wednesday, 27 May.. S&P 500 Index Closed Up 1.24 Points, Rose 0.02%, At 7520.36 On Wednesday, 27 May.. NASDAQ Index Closed Up 18.55 Points, Rose 0.07%, At 26674.73 On Wednesday, 27 May.."
-    },
-    {
-      "id": "mkt:019e6b08-a3e0-799f-bbe6-5aa1949f77ba",
-      "time": "2026-05-28 04:03:08",
-      "tags": [
-        "MKT News",
-        "CRM.N",
-        "Impact bullish"
-      ],
-      "text": "Salesforce (CRM.N) reported Q1 revenue of $11.13 bln, versus analysts' $11.05 bln consensus."
-    },
-    {
-      "id": "4903173",
-      "time": "2026-05-28 04:02:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta收漲3.7%，創4月14日以來最大單日漲幅。"
-    },
-    {
-      "id": "4903172",
-      "time": "2026-05-28 04:01:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Salesforce一季度營收111.3億美元，分析師預期110.5億美元。"
-    },
-    {
-      "id": "4903171",
-      "time": "2026-05-28 04:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "SALESFORCE 預計第二季度營收介於 112.7 億至 113.5 億美元，市場預期為 113.6 億美元。"
-    },
-    {
-      "id": "4903170",
-      "time": "2026-05-28 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.36%，標普500指數漲0.02%，納指漲0.08%。APP AppLovin漲10.42%，美高梅漲9.06%，聯合大陸航空漲6.33%，挪威郵輪漲6.23%，通用汽車漲5.44%，Aptiv PLC漲5.39%。“七姐妹”方面：Meta Platforms漲3.76%，亞馬遜漲2.47%，特斯拉漲1.56%，蘋果漲0.82%，谷歌跌0.02%，微軟跌0.82%，英偉達跌1.04%。"
-    },
-    {
-      "id": "4903169",
-      "time": "2026-05-28 04:00:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "APPLOVIN股價上漲10%，創2月9日以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019e6b06-6987-7223-8ed9-915c801293f8",
-      "time": "2026-05-28 04:00:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "MU.O",
-        "Impact bullish",
-        "TSLA.O",
-        "QCOM.O",
-        "Impact bearish"
-      ],
-      "text": "【U.S. Stocks Close: Major Indexes Tick Up Slightly; Tech Stocks Diverge】At the U.S. close, the Dow Jones Industrial Average rose 0.36%, the S&P 500 gained 0.02% and the Nasdaq Composite was up 0.07%. Technology stocks diverged: Micron Technology (MU.O) +3.63%, Tesla (TSLA.O) +1.66%, Qualcomm (QCOM.O) down more than 6%, Intel (INTC.O) down 1.4%."
-    },
-    {
-      "id": "4903168",
-      "time": "2026-05-28 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.02%】360數科漲25.14%，聲網漲12.20%，信也科技漲10.71%，小贏科技漲10.41%，樂信漲9.42%。"
-    },
-    {
-      "id": "4903167",
-      "time": "2026-05-28 03:57:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：未來幾個月利率應維持不變。"
-    },
-    {
-      "id": "4903166",
-      "time": "2026-05-28 03:56:39",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 若通脹回落未能如期顯現，準備加息。人工智慧或可增強金融穩定，人工智慧對網路安全的影響尚不明確。"
-    },
-    {
-      "id": "mkt:019e6b02-d65d-7223-8ed9-88beb30ad0f1",
-      "time": "2026-05-28 03:56:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor COOK said current risks to the Federal Reserve's dual mandate are elevated on both fronts."
-    },
-    {
-      "id": "mkt:019e6b02-a1a9-7223-8ed9-860fb396c0f1",
-      "time": "2026-05-28 03:56:32",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "COOK said risks tilt toward higher inf; inf is clearly moving in the wrong direction."
-    },
-    {
-      "id": "mkt:019e6b02-865e-7223-8ed9-7f8a9c0d568a",
-      "time": "2026-05-28 03:56:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fed Governor COOK said the correct action at present is to keep policy interest rates steady."
-    },
-    {
-      "id": "mkt:019e6b02-7e72-7223-8ed9-750ea69d38da",
-      "time": "2026-05-28 03:56:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve Governor COOK said in theory an increase in inf caused by shocks should be temporary."
-    },
-    {
-      "id": "mkt:019e6b02-511c-7223-8ed9-6a932d5cf7d5",
-      "time": "2026-05-28 03:56:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "COOK: Even short-term shocks may push up inf in the medium term."
-    },
-    {
-      "id": "4903165",
-      "time": "2026-05-28 03:56:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：若勞動力市場惡化，將準備好降息。"
-    },
-    {
-      "id": "mkt:019e6b02-2448-7223-8ed9-65e9108ac92c",
-      "time": "2026-05-28 03:56:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve Governor COOK said he would be prepared to cut interest rates if the labor market deteriorates."
-    },
-    {
-      "id": "mkt:019e6b02-1a44-7223-8ed9-589790d032f2",
-      "time": "2026-05-28 03:56:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Federal Reserve Governor COOK said AI may enhance financial stability, but its impact on cybersecurity remains unclear."
-    },
-    {
-      "id": "4903164",
-      "time": "2026-05-28 03:55:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：即使是暫時性衝擊，也可能推高中期通脹水平。"
-    },
-    {
-      "id": "mkt:019e6b02-0df2-7223-8ed9-5554045c3deb",
-      "time": "2026-05-28 03:55:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor COOK: Labor market \"basically stable\", but downside risks are rising."
-    },
-    {
-      "id": "4903163",
-      "time": "2026-05-28 03:55:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "庫美聯儲理事庫克：從理論上講，推高通脹的衝擊應當是暫時性的。"
-    },
-    {
-      "id": "mkt:019e6b01-df2e-7223-8ed9-4d299d82eea7",
-      "time": "2026-05-28 03:55:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "COOK said he is optimistic about economic growth and expects AI to boost productivity."
-    },
-    {
-      "id": "4903162",
-      "time": "2026-05-28 03:55:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：人工智慧造成的崗位流失或先於其帶來的崗位增長。"
-    },
-    {
-      "id": "mkt:019e6b01-ccab-7223-8ed9-43f2aba1f4a9",
-      "time": "2026-05-28 03:55:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor COOK said he is prepared to raise rates if the expected DISINFLATION does not materialize in a timely manner."
-    },
-    {
-      "id": "mkt:019e6b01-aeaf-7223-8ed9-3cd2b80729b6",
-      "time": "2026-05-28 03:55:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Governor COOK said AI-driven job losses may precede job gains from AI."
-    },
-    {
-      "id": "4903161",
-      "time": "2026-05-28 03:55:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：對經濟增長持樂觀態度，預計人工智慧將推動生產率提升。"
-    },
-    {
-      "id": "4903160",
-      "time": "2026-05-28 03:55:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：勞動力市場“大體穩定”，但下行風險已有所上升。"
-    },
-    {
-      "id": "mkt:019e6af9-f897-7223-8ed9-363e9eb303da",
-      "time": "2026-05-28 03:47:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Tracking data show the oil tanker \"環球號 (Universal)\", originally bound for Cuba, has altered course."
-    },
-    {
-      "id": "mkt:019e6af8-1d53-7223-8ed9-2a50e71ee3ac",
-      "time": "2026-05-28 03:45:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Governor Lisa Cook is scheduled to speak in ten minutes."
-    },
-    {
-      "id": "4903159",
-      "time": "2026-05-28 03:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "追蹤資料顯示，原定駛往古巴的油輪 “環球號” 已改變航線。"
-    },
-    {
-      "id": "4903158",
-      "time": "2026-05-28 03:44:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：挪威同意在核威懾領域深化合作。"
-    },
-    {
-      "id": "4903157",
-      "time": "2026-05-28 03:40:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價27日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌5.21美元，收於每桶88.68美元，跌幅為5.55%；7月交貨的倫敦布倫特原油期貨價格下跌5.29美元，收於每桶94.29美元，跌幅為5.31%。"
-    },
-    {
-      "id": "mkt:019e6af1-7acc-7223-8ed9-2731e50c7cee",
-      "time": "2026-05-28 03:37:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Palestinian Health Ministry official said air strikes on Gaza City killed at least four people."
-    },
-    {
-      "id": "4903156",
-      "time": "2026-05-28 03:36:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "衛生部門訊息：以色列襲擊加沙城，造成至少四人死亡。"
-    },
-    {
-      "id": "4903155",
-      "time": "2026-05-28 03:36:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數27日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.04%，在匯市尾市收於99.206。截至紐約匯市尾市，1歐元兌換1.1629美元，與前一交易日基本持平；1英鎊兌換1.3430美元，低於前一交易日的1.3445美元。1美元兌換159.51日元，高於前一交易日的159.33日元；1美元兌換0.7868瑞士法郎，高於前一交易日的0.7857瑞士法郎；1美元兌換1.3835加元，高於前一交易日的1.3813加元；1美元兌換9.2972瑞典克朗，低於前一交易日的9.3198瑞典克朗。"
-    },
-    {
-      "id": "4903154",
-      "time": "2026-05-28 03:35:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美債收益率大致持穩】週三（5月27日）紐約尾盤，美國10年期國債收益率跌0.39個基點，報4.48%，在一波短線跳水行情中、北京時間20:22重新整理日低至4.4453%。兩年期美債收益率漲0.32個基點，報4.0349%；30年期美債收益率跌0.71個基點，報5.0110%。2/10年期美債收益率利差跌0.482個基點，報+44.386個基點。10年期通脹保值國債（TIPS）收益率跌0.36個基點，至2.0618%；兩年期TIPS收益率漲0.87個基點，至1.4059%；30年期TIPS收益率跌0.36個基點，至2.7287%。"
-    },
-    {
-      "id": "mkt:019e6aee-8f6f-7223-8ed9-1fe5bcc33362",
-      "time": "2026-05-28 03:34:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio will testify before the Senate Appropriations Committee on June 3."
-    },
-    {
-      "id": "4903153",
-      "time": "2026-05-28 03:33:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "魯比奧將於6月3日出席參議院撥款委員會聽證會。"
-    },
-    {
-      "id": "mkt:019e6aed-3210-7223-8ed9-14df6b02e1ca",
-      "time": "2026-05-28 03:33:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc officially determined that at 03:22 on May 28 a M3.0 earthquake occurred in Hejing County, Bayingolin Prefecture, Xinjiang, China; hypocenter depth 41 km."
-    },
-    {
-      "id": "mkt:019e6aeb-9937-7223-8ed9-0e01a44e9b88",
-      "time": "2026-05-28 03:31:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF says Sri Lanka faces downside risks from the Middle East war and the aftermath of Cyclone Ditewa, but expects the economy to remain resilient."
-    },
-    {
-      "id": "4903152",
-      "time": "2026-05-28 03:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月28日03時22分在新疆巴音郭楞州和靜縣（北緯42.35度，東經84.78度）發生3.0級地震，震源深度41千米。"
-    },
-    {
-      "id": "4903151",
-      "time": "2026-05-28 03:30:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織就斯里蘭卡經濟表態：中東局勢衝突及迪特瓦氣旋後續影響構成下行風險，但該國經濟料將保持韌性。"
-    },
-    {
-      "id": "mkt:019e6ae5-c312-7223-8ed9-015ba6039145",
-      "time": "2026-05-28 03:25:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAELI MILITARY said it struck two senior Hamas militants in northern Gaza."
-    },
-    {
-      "id": "mkt:019e6ae4-e740-7223-8ed8-fbda7bdb17ab",
-      "time": "2026-05-28 03:24:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TRUMP Says Iran Misreads Situation, Thinks They Expect Him To Be Deterred By Political Cost Of War】TRUMP said on Wednesday at the start of a WHITE HOUSE Cabinet meeting that if Iran expects him to soften his stance to avoid a prolonged standoff with Tehran, they are miscalculating. \"They think they can outlast me. I don't care about the midterm elections,\" he said. During the three-month war between the US and Iran, with the Strait of Hormuz remaining closed, inf rising and gasoline prices climbing, TRUMP's approval has slipped. Critics say TRUMP has led the US into a Middle East conflict with no defined end date, despite his vow as a candidate to avoid such wars. TRUMP responded, \"I don't call it a war, I call it a conflict.\" He signaled he is prepared to continue negotiations but did not rule out further military action. He said Iran's economy is already unsustainable, \"inf rate as high as 250%.\""
-    },
-    {
-      "id": "4903150",
-      "time": "2026-05-28 03:23:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，其對加沙地帶北部的兩名哈馬斯核心武裝人員實施了打擊。"
-    },
-    {
-      "id": "4903149",
-      "time": "2026-05-28 03:16:44",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長：世界盃對經濟的提振作用或將超出預期。"
-    },
-    {
-      "id": "4903148",
-      "time": "2026-05-28 03:16:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長：《美墨加協定》複審帶來的不確定性，成為經濟下行風險因素。"
-    },
-    {
-      "id": "4903147",
-      "time": "2026-05-28 03:15:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨跌超2.1%】週三（5月27日）紐約尾盤，彭博穀物分類指數跌0.90%，報31.4922點。CBOT玉米期貨跌1.20%，CBOT小麥期貨跌2.16%。CBOT大豆期貨跌0.04%，報11.8550美元/蒲式耳，豆粕期貨漲0.76%，豆油期貨漲1.08%。"
-    },
-    {
-      "id": "4903146",
-      "time": "2026-05-28 03:15:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "墨西哥央行行長：預計經濟將在二季度重拾增長趨勢，伊朗相關衝突加劇了經濟增長面臨的風險。"
-    },
-    {
-      "id": "4903145",
-      "time": "2026-05-28 03:13:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長：墨西哥一季度經濟表現不及預期。"
-    },
-    {
-      "id": "mkt:019e6ad9-ae7e-7223-8ed8-f1292b15dfe4",
-      "time": "2026-05-28 03:11:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Meta Platforms (META.O) extends gains to over 4%."
-    },
-    {
-      "id": "4903144",
-      "time": "2026-05-28 03:11:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta股價漲幅擴大至 4.3%。"
-    },
-    {
-      "id": "4903143",
-      "time": "2026-05-28 03:09:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【遭美國航空拒絕後，美聯航CEO排除推動行業合併的可能性】美國聯合航空（UAL）執行長Scott Kirby表示，在可預見的未來，該航空公司預計不會追求航空業的整合合併。就在幾周前，美國航空公司（AAL）剛剛拒絕了他提出的潛在合併構想。Kirby在伯恩斯坦（Bernstein）投資者會議上發言時表示，他長期以來一直認為，美聯航曾試圖追求的“大型交易”是唯一對該航司具有經濟合理性的方案，但此類交易需要一個心甘情願的合作伙伴，“而我們顯然沒有這樣的夥伴……因此，我認為至少在可以預見的未來，美聯航不會參與任何行業合併。”"
-    },
-    {
-      "id": "4903142",
-      "time": "2026-05-28 03:09:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：今日在歐盟外長非正式會議間隙，我與歐盟外交與安全政策高階代表 卡拉斯舉行了富有成效、著眼長遠的會談。雙方首先聚焦烏克蘭加入歐盟的程序。下月啟動所有談判議題，將是為打造更強大、更安全的歐洲作出的戰略性投入。在當下動盪的新形勢下，烏克蘭入歐關乎歐洲的安全、實力及其地緣政治地位。 我們還探討了戰場局勢的最新變化，以及烏克蘭不斷提升的作戰主動權。"
-    },
-    {
-      "id": "4903141",
-      "time": "2026-05-28 03:06:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長： 墨西哥經濟疲軟促使央行降息。"
-    },
-    {
-      "id": "4903140",
-      "time": "2026-05-28 03:06:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7793元，較週二夜盤收盤漲74點。成交量403.47億美元。"
-    },
-    {
-      "id": "4903139",
-      "time": "2026-05-28 03:05:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長：核心外通脹受農產品價格影響。"
-    },
-    {
-      "id": "mkt:019e6ad3-af6b-7223-8ed8-ee01b0bce8de",
-      "time": "2026-05-28 03:05:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【TRUMP: If Oman Sides With Iran On Strait Issue, 'We'll Bomb Oman'】On Wednesday local time US President TRUMP commented on reports that Iran and Oman would jointly control the Strait of Hormuz, saying Oman \"will behave\" and rejecting any such mechanism, \"otherwise we will have to bomb them.\" Iranian authorities proposed cooperating with Oman to control and regulate maritime traffic in the Strait of Hormuz; Iran also considered a joint toll mechanism with Oman, a proposal the United States opposed. Speaking to reporters after a cabinet meeting, TRUMP said \"no one can control the strait. The strait will be open to everyone,\" and that the US would \"watch it very closely.\" He added, \"Oman will act like other countries, otherwise we'll have to bomb them. They understand that, so there will be no problem.\""
     }
   ]
 }
