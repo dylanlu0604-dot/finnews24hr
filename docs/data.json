@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-04 02:40:04",
-  "count": 19123,
+  "updated": "2026-06-04 02:44:24",
+  "count": 19128,
   "items": [
+    {
+      "id": "4915888",
+      "time": "2026-06-04 02:42:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【Vanguard旗下VOO資產規模突破1萬億美元 重新整理ETF行業里程碑】投資者逢低買入美國股票的興趣似乎永無止境，推動Vanguard Group追蹤標普500指數的ETF資產規模突破1萬億美元，在同類基金中率先達到曾被認為對ETF行業而言難以想象的里程碑。資料顯示，在有資料可查的最近一個交易日，Vanguard標普500 ETF（股票程式碼：VOO）獲得17億美元資金流入，推動其資產規模升至1萬億美元以上。這意味著已經是全球最大的ETF的VOO如今成為首隻、也是唯一一隻跨過1萬億美元門檻的ETF，而全球只有少數開放式基金達到過這個水平。推動其資產持續攀升的是一種異常持久的逢低買入心態，讓資金在戰爭、關稅驚嚇和經濟增長擔憂期間仍持續流入美國股市。"
+    },
+    {
+      "id": "mkt:019e8ecb-8980-7443-8fe1-d611f00a5f9b",
+      "time": "2026-06-04 02:42:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "ISRAELI MILITARY: Sirens sounded in Zarit after reports of \"enemy aircraft penetration\"."
+    },
+    {
+      "id": "mkt:019e8ecb-3d1b-7443-8fe1-cccb508c29f9",
+      "time": "2026-06-04 02:42:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Israeli Defense Forces (IDF) said on Tuesday it struck southern Gaza, killing Palestinian Islamic Jihad rocket-launch cell leader Ahmed Abu Mughaysib. The IDF said strikes in central Gaza hit several Hamas militants; one was killed and others were hit."
+    },
+    {
+      "id": "4915887",
+      "time": "2026-06-04 02:42:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方通報：扎裡特地區響起防空警報，緣由為發現敵對飛行器入侵空域。"
+    },
+    {
+      "id": "4915886",
+      "time": "2026-06-04 02:41:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【郭明錤：蘋果眼鏡路線圖生變 Vision Pro後續版本被砍】北京時間週四凌晨，知名科技分析師郭明錤發帖稱，即將擔任蘋果下一任CEO的約翰·特努斯已經批准縮減蘋果眼鏡的開發路線圖。郭明錤還表示，最新的供應鏈調查顯示，配備光學波導顯示屏的蘋果AR/XR智慧眼鏡裝置已經推遲到2029年。對於Vision Pro產品線被移除的結局，郭明錤直言這是正確的決定，蘋果應當把資源轉向具有更廣大消費潛力的AI眼鏡品類。"
+    },
+    {
+      "id": "te:economy:556249",
+      "time": "2026-06-04 02:41:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Brazil's Trade Surplus Beats Forecasts — Brazil’s trade surplus widened to $7.82 billion in May 2026, up 10.8% from a year earlier and above market expectations of $7.65 billion. Exports rose 6.6% year-on-year to $31.90 billion, driven by stronger shipments from agriculture (9.8%) and manufacturing (9.0%), which more than offset a 1.9% decline in extractive industries. Higher exports of corn, soybeans, cotton, beef, fuel oils, and gold supported the increase, while shipments of coffee, iron ore, crude oil, sugar, and cellulose fell. Imports increased 5.3% to $24.08 billion, mainly due to a 6.3% rise in manufacturing purchases, led by fuel oils, semiconductors, and passenger vehicles. Trade with China remained strong, with exports rising 9.5% and imports surging 24.2%, while exports to the EU increased 8.8%. In contrast, exports to the US fell 14.0% and shipments to Argentina dropped 21.7%. In January-May, exports rose 8.7% and imports increased 3.2% from a year earlier."
+    },
+    {
+      "id": "4915885",
+      "time": "2026-06-04 02:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：保障體面勞動條件這一議題正遭歪曲，被用來為單邊貿易保護措施尋找藉口。"
+    },
     {
       "id": "mkt:019e8ec6-ba18-7443-8fe1-c4490e6a31c4",
       "time": "2026-06-04 02:37:28",
@@ -176138,26 +176207,6 @@
         "DXY"
       ],
       "text": "MACRON: Norway has agreed to join France's nuclear umbrella."
-    },
-    {
-      "id": "4903132",
-      "time": "2026-05-28 02:41:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶94.29美元，下跌5.29美元，跌幅5.31%。"
-    },
-    {
-      "id": "mkt:019e6abd-44e6-7223-8ed8-c7361faff3ac",
-      "time": "2026-05-28 02:40:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【IDF Widely Expands 'Combat Zone' in Lebanon】The Israeli Defense Forces (IDF) spokesman posted on social media on the evening of the 27th that the IDF will carry out \"powerful strikes\" against HEZBOLLAH, and that all areas south of the Zahrani River are to be regarded as a \"combat zone\". (Xinhua)"
     }
   ]
 }
