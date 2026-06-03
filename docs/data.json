@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-04 07:42:03",
-  "count": 19240,
+  "updated": "2026-06-04 07:45:49",
+  "count": 19241,
   "items": [
+    {
+      "id": "te:markets:556270",
+      "time": "2026-06-04 07:44:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Rate Hike Expectations — Gold traded around $4,450 an ounce on Thursday and was down almost 2% for the week, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook."
+    },
+    {
+      "id": "4916153",
+      "time": "2026-06-04 07:43:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國SK電信：加入Anthropic的Glasswing專案。"
+    },
+    {
+      "id": "4916152",
+      "time": "2026-06-04 07:43:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲0.30%。"
+    },
+    {
+      "id": "4916151",
+      "time": "2026-06-04 07:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球規模最大海上換流站“海風之心”將開展海上安裝作業】歷經一千多海里海上運輸後，全球規模最大海上換流站——“海風之心”抵達廣東陽江青洲海上風電場安裝海域，今天將開展海上浮托安裝作業。“海風之心”是全球首個±500千伏/2000兆瓦柔性直流海上換流站，平面面積接近一個標準足球場，高度約等於15層樓，重達2.5萬噸。由於重量遠超國內船機吊裝能力極限，將採用國際先進的整體浮托安裝工藝進行作業"
+    },
     {
       "id": "4916150",
       "time": "2026-06-04 07:40:33",
@@ -177195,31 +177231,6 @@
         "國際"
       ],
       "text": "【美國指控谷歌工程師在Polymarket平臺進行內幕交易】據週三解封的一份起訴書顯示，美國司法部指控一名谷歌軟體工程師利用內幕資訊，在預測市場Polymarket上操縱與谷歌熱門搜尋榜相關的投注，從中獲利120萬美元。據起訴書稱，36歲的義大利公民米歇爾·斯帕尼烏洛（Michele Spagnuolo）涉嫌利用內幕資訊，押注於獨立流行音樂人D4vd等勝算極小的候選人。此前，D4vd因被捕並被指控謀殺一名少女，其名字出現在谷歌年度搜尋榜單上。根據谷歌12月4日釋出的統計資料，D4vd是該年度搜尋量最高的人物，而斯帕尼烏洛據稱在11月27日下注時利用了內幕資訊，押注D4vd將位居榜首。據起訴書稱，這筆賭注特別賺錢，因為市場認為D4vd成為谷歌搜尋量最高人物的機率“接近於零”。起訴書稱，斯帕尼烏洛還透過名為“AlphaRaccoon”的賬戶，利用內幕資訊對谷歌年度搜尋榜單進行了其他投注。紐約南區聯邦檢察官傑伊·克萊頓（Jay Clayton）在一份宣告中表示，檢方將追究那些企圖利用商業機密在預測市場牟利的公司內部人士。"
-    },
-    {
-      "id": "4903318",
-      "time": "2026-05-28 07:45:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.19點。"
-    },
-    {
-      "id": "4903317",
-      "time": "2026-05-28 07:45:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經平均指數期貨早盤下跌0.1%。"
-    },
-    {
-      "id": "4903316",
-      "time": "2026-05-28 07:45:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌工程師因在Polymarket內幕交易被起訴。據相關訊息，一名谷歌軟體工程師涉嫌利用機密資訊，在預測交易平臺Polymarket獲利超100萬美元。"
     }
   ]
 }
