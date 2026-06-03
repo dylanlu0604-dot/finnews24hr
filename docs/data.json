@@ -1,7 +1,232 @@
 {
-  "updated": "2026-06-03 09:43:45",
-  "count": 18489,
+  "updated": "2026-06-03 09:47:43",
+  "count": 18499,
   "items": [
+    {
+      "id": "4913982",
+      "time": "2026-06-03 09:47:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.07%，成分股中，盛科通訊漲7.51%，瀾起科技漲7.21%，滬矽產業漲5.67%，翱捷科技漲5.58%。"
+    },
+    {
+      "id": "mkt:019e8b29-b90d-7ee2-b13b-f902e29f7dc1",
+      "time": "2026-06-03 09:47:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract rose more than 1.0% intraday, trading at 8,356.0."
+    },
+    {
+      "id": "mkt:019e8b29-889d-7ee2-b13b-f241dfbbf955",
+      "time": "2026-06-03 09:46:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Shenzhen Composite Index up 1% intraday; ChiNext index gains widen to 1.53%; China's Shanghai Composite Index has turned positive, now up 0.15%."
+    },
+    {
+      "id": "mkt:019e8b29-8571-7ee2-b13b-efa4b1add8af",
+      "time": "2026-06-03 09:46:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russia's First Deputy Prime Minister Manturov said the special military operation has made drones an independent strike force capable of executing a wide range of tactical tasks."
+    },
+    {
+      "id": "mkt:019e8b29-30a9-7ee2-b13b-e33bb79fb511",
+      "time": "2026-06-03 09:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's first deputy prime minister Manturov said Russia now produces 15,000 FPV drones per day; in 2023 producing that number took a full month."
+    },
+    {
+      "id": "mkt:019e8b29-3068-7ee2-b13b-d82f8a788d95",
+      "time": "2026-06-03 09:46:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index extends losses to 1.0%; Hang Seng Tech Index down 1.61%."
+    },
+    {
+      "id": "4913981",
+      "time": "2026-06-03 09:46:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報15747.640點；上證指數漲0.11%，現報4079.749點；創業板指漲1.46%，現報4114.924點。"
+    },
+    {
+      "id": "4913980",
+      "time": "2026-06-03 09:46:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25777.410點；恒生科技指數現跌1.605%。"
+    },
+    {
+      "id": "4913979",
+      "time": "2026-06-03 09:46:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停】光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停，金信諾漲超12%，源傑科技、長飛光纖漲近10%。"
+    },
+    {
+      "id": "4913978",
+      "time": "2026-06-03 09:45:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念表現活躍 浙江榮泰逼近漲停】人形機器人概念表現活躍，浙江榮泰逼近漲停，奧比中光、綠的諧波、德馬科技、五洲新春、晉拓股份跟漲。"
+    },
+    {
+      "id": "4913977",
+      "time": "2026-06-03 09:45:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念反覆活躍 祥鑫科技等多股漲停】液冷伺服器概念反覆活躍，祥鑫科技、金田股份、華源控股漲停，依米康、冰輪環境、騰龍股份、博傑股份跟漲。"
+    },
+    {
+      "id": "4913976",
+      "time": "2026-06-03 09:45:34",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國5月RatingDog綜合PMI 54，前值53.1。"
+    },
+    {
+      "id": "mkt:019e8b28-5ef1-7ee2-b13b-d063b621bf48",
+      "time": "2026-06-03 09:45:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China May RatingDog composite PMI 54.0, previous 53.1."
+    },
+    {
+      "id": "mkt:019e8b28-431c-7ee2-b13b-cbfb570fa217",
+      "time": "2026-06-03 09:45:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Composite PMI (May) | actual 54 | previous 53.1"
+    },
+    {
+      "id": "4913975",
+      "time": "2026-06-03 09:45:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國5月RatingDog服務業PMI 54.4，前值52.6。"
+    },
+    {
+      "id": "mkt:019e8b27-eb8c-7ee2-b13b-c27ad344eda3",
+      "time": "2026-06-03 09:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China May RatingDog services PMI 54.4, prior 52.6."
+    },
+    {
+      "id": "te:markets:555904",
+      "time": "2026-06-03 09:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 18-1/2-year High — HSBC Holdings shares increased to 148.00 HKD, the highest since November 2007. Over the past 4 weeks, HSBC Holdings gained 2.65%, and in the last 12 months, it increased 59.74%."
+    },
+    {
+      "id": "mkt:019e8b27-c9ae-7ee2-b13b-bc8cff7e8a1e",
+      "time": "2026-06-03 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Services PMI (May) | actual 54.4 | previous 52.6"
+    },
+    {
+      "id": "4913974",
+      "time": "2026-06-03 09:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新疆天雲低空經濟發展公司註冊成立】企查查APP顯示，近日，新疆天雲低空經濟發展有限責任公司成立，註冊資本1億元，經營範圍包含：航空運營支援服務；智慧無人飛行器製造；智慧無人飛行器銷售；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由新疆機場（集團）有限責任公司全資持股。"
+    },
+    {
+      "id": "mkt:019e8b26-c617-7ee2-b13b-b4f3d15d1ad7",
+      "time": "2026-06-03 09:43:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share lab-grown diamond sector surged; Chujiang New Materials hit the daily limit, Huifeng Diamond climbed over 14%. Guoji Jinggong, Liliang Diamond, Hengsheng Energy, Boyun New Materials and Sifangda also rallied."
+    },
+    {
+      "id": "4913973",
+      "time": "2026-06-03 09:43:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油天然氣集團等成立昆擎燃氣輪機技術公司】企查查APP顯示，近日，上海昆擎燃氣輪機技術有限公司成立，經營範圍包含：汽輪機及輔機銷售；特種裝置銷售；新能源原動裝置銷售；民用航空材料銷售等。企查查股權穿透顯示，該公司由中國石油天然氣集團有限公司全資子公司中國石油集團崑崙製造有限公司等共同持股。"
+    },
+    {
+      "id": "4913972",
+      "time": "2026-06-03 09:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石板塊衝高，楚江新材漲停】培育鑽石板塊衝高，楚江新材漲停，惠豐鑽石漲超14%，國機精工、力量鑽石、恆盛能源、博雲新材、四方達跟漲。"
+    },
+    {
+      "id": "4913971",
+      "time": "2026-06-03 09:43:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：維持A股超配評級，H股評級下調至平配】高盛稱，將H股評級下調至平配，因保持超配的“機會成本”在上升，將MSCI中國指數目標點位從95點下調至85點。對A股維持超配評級，因增長前景改善、流動性條件充裕、多元化優勢，以及對AI硬科技領域的暴露；年內第二次上調滬深300指數12個月目標價，從5,300點上調至5,500點。高盛稱，AI仍是“顛覆者”，中國是全球AI宇宙不可分割的一部分，而目前國際投資者對其AI股明顯配置不足。"
+    },
     {
       "id": "te:economy:555903",
       "time": "2026-06-03 09:42:16",
@@ -169404,135 +169629,6 @@
         "市場"
       ],
       "text": "【建滔集團向客戶下發漲價通知：板料漲價10%，PP材料漲價20%】從知情人士處獲悉，今日廣東建滔積層板銷售有限公司向客戶下發了漲價通知，通知中稱，“由於近期銅價高企，玻璃布價格持續上漲且供應日趨緊張。因此，自即日接單起，我們將對以下材料價格調整如下：板料漲價10%，PP材料漲價20%。”另有知情人士透露，受原材料價格大幅上漲影響，建韜集團下游客戶暫無議價空間，目前所有客戶執行統一售價。（藍鯨新聞）"
-    },
-    {
-      "id": "4901336",
-      "time": "2026-05-27 09:47:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊短線拉昇，華微電子漲停】半導體板塊短線拉昇，揚傑科技、國科微、恆爍股份、燕東微、芯聯整合盤中創新高，華微電子漲停，北京君正、中科藍訊、創達新材漲超10%。"
-    },
-    {
-      "id": "4901335",
-      "time": "2026-05-27 09:47:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內漲4%，現報4670.00元。"
-    },
-    {
-      "id": "4901334",
-      "time": "2026-05-27 09:47:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州“十五五”規劃綱要：推進鄭州國家燃料電池汽車示範應用城市群和“鄭汴洛濮”氫走廊建設】《鄭州市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，推進鄭州國家燃料電池汽車示範應用城市群和“鄭汴洛濮”氫走廊建設，發展綠色低碳制氫技術和氫能裝備、氫能燃料電池汽車，構建氫能全產業鏈。探索發展“源網荷儲”、“風光氫氨醇”一體化、電池儲能、物理儲能、生物質能等儲能技術和裝備。"
-    },
-    {
-      "id": "4901333",
-      "time": "2026-05-27 09:47:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4901332",
-      "time": "2026-05-27 09:46:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓日新能：具有獨立自主經營能力，生產經營活動一切正常】5月26日，拓日新能(002218)釋出多則公告，披露三項核心重要事項，分別為公司股東臨時提案遭董事會否決、相關法律意見書披露，以及公司實際控制人捲入訴訟糾紛，引發市場關注。針對實控人訴訟糾紛，拓日新能相關負責人向證券時報記者表示，本次訴訟僅為實控人個人層面與控股股東奧欣投資之間的權益糾紛。上市公司在業務、人員、資產、機構、財務等方面均與控股股東相互獨立，擁有完整獨立的生產經營體系與自主經營能力，日常生產經營秩序正常，本次訴訟不會對公司經營業績造成重大影響。"
-    },
-    {
-      "id": "4901331",
-      "time": "2026-05-27 09:45:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【短劇遊戲板塊短線拉昇】短劇遊戲板塊短線拉昇，掌閱科技漲停， 捷成股份、中文線上漲超10%，百納千成、歡瑞世紀、引力傳媒、崑崙萬維、橫店影視等跟漲。"
-    },
-    {
-      "id": "4901330",
-      "time": "2026-05-27 09:45:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊反覆走強 華電能源3連板】電力板塊反覆走強，華電能源3連板，華銀電力漲停，粵電力A、華電遼能、晉控電力跟漲。"
-    },
-    {
-      "id": "te:markets:553883",
-      "time": "2026-05-27 09:45:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AIA Stock Price Hits 4-week Low — AIA shares decreased to 83.25 HKD, the lowest since April 2026. Over the past 4 weeks, AIA Group gained 1.32%, and in the last 12 months, it increased 29.29%."
-    },
-    {
-      "id": "mkt:019e671a-f770-700b-904a-f93a0b2e8cec",
-      "time": "2026-05-27 09:44:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "CATL A- AND H-SHARES BOTH RISE MORE THAN 6% AFTER ITS 601MWH ENERGY STORAGE PROJECT WITH EASTERN EUROPEAN FIRM SOLARPRO HOLDING WAS SUCCESSFULLY CONNECTED TO THE GRID IN BULGARIA"
-    },
-    {
-      "id": "mkt:019e671a-c0b9-700b-904a-f51fb7e00ea6",
-      "time": "2026-05-27 09:44:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "XIAOMI SHARES RISE 2.8% IN HONG KONG AFTER 1Q RESULTS"
-    },
-    {
-      "id": "mkt:019e671a-62d5-700b-904a-eeb4005abc68",
-      "time": "2026-05-27 09:44:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【RBNZ To Hold Today; OCR Unchanged At 2.25%, 2-3 Hikes Expected】Westpac: RBNZ to hold OCR at 2.25% today; market expects no change. Iran war fuel spike pushes NZ CPI/inf >4%, expected elevated through most of 2026; Q2 CPI first test for spillover. 2026 GDP cut to 1.8%-2.0% (vs 2.8% in Feb); unemployment to ~5.5% y.e. OCR terminal ~3.2%; Dec-2026 OCR ~2.8% → implies 2-3 hikes this year. MPC split on timing not direction; Westpac cites limited second-round inf evidence, high war-duration uncertainty, and risk of premature tightening if slowdown deepens."
-    },
-    {
-      "id": "4901329",
-      "time": "2026-05-27 09:43:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州“十五五”規劃綱要：發展石墨烯、第三代半導體材料等 打造具有全國競爭力的未來材料產業高地】《鄭州市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，圍繞積體電路、新能源、航天航空等應用領域，發展石墨烯、第三代半導體材料、高效能複合材料、先進奈米材料、增材製造專用材料、先進金屬材料、超導材料等，打造具有全國競爭力的未來材料產業高地。"
-    },
-    {
-      "id": "mkt:019e671a-2b5f-700b-904a-e76f386c550c",
-      "time": "2026-05-27 09:43:48",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung Electronics Union Approves Pay Deal, Averts Strike】Samsung Electronics Korea union votes 74% (62,616) to approve interim pay deal, averting strike; agrees new 10-yr special performance-pay scheme for semiconductor unit; avg pay up 6.2%; provisional pact reached after Korean Labor Minister mediation"
     }
   ]
 }
