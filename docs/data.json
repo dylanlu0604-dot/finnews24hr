@@ -1,7 +1,181 @@
 {
-  "updated": "2026-06-04 00:04:08",
-  "count": 19185,
+  "updated": "2026-06-04 00:08:16",
+  "count": 19191,
   "items": [
+    {
+      "id": "4915791",
+      "time": "2026-06-04 00:07:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨鉑金大跌超 3%，報每盎司 1872.60 美元。"
+    },
+    {
+      "id": "te:markets:556228",
+      "time": "2026-06-04 00:07:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index fell 32 points or 0.30 percent on Wednesday to close at 10342 points. Leading the losses are Intermediate Capital (-5.36%), WPP (-4.85%) and Burberry (-3.68%). Top gainers were B&M European Value (14.66%), Bunzl (4.38%) and SSE (3.79%)."
+    },
+    {
+      "id": "4915790",
+      "time": "2026-06-04 00:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯 4 月建築業產值同比下滑 5%。"
+    },
+    {
+      "id": "mkt:019e8e3c-73d5-7443-8fdf-9fe4da0213d0",
+      "time": "2026-06-04 00:06:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "{\"title\":\"\",\"content\":\"U.S. Trade Representative GREER said the Turnberry Agreement provision imposing a 15% tariff on EU goods \"the agreement stands; an agreement is an agreement\".\"}"
+    },
+    {
+      "id": "4915789",
+      "time": "2026-06-04 00:06:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。"
+    },
+    {
+      "id": "4915788",
+      "time": "2026-06-04 00:05:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：儘管最新關稅公告落地，仍預計歐洲議會透過《特恩伯裡協定》。"
+    },
+    {
+      "id": "4915787",
+      "time": "2026-06-04 00:05:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率跌至盤中低點160.02。"
+    },
+    {
+      "id": "4915786",
+      "time": "2026-06-04 00:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將保證社保福利維持現有標準不變。"
+    },
+    {
+      "id": "mkt:019e8e3b-4ed4-7443-8fdf-96f2fa2312cf",
+      "time": "2026-06-04 00:05:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) has launched Gemma 4 12B on its website."
+    },
+    {
+      "id": "4915785",
+      "time": "2026-06-04 00:04:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部：截至 6 月 1 日，俄國家福利基金規模達 1824 億美元（佔國內生產總值 5.5%），其中流動資產 480.46 億美元（佔 GDP1.5%）。"
+    },
+    {
+      "id": "4915784",
+      "time": "2026-06-04 00:04:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院民主黨領導人Schumer週三會見OpenAI的CEO Altman。（Semafor）"
+    },
+    {
+      "id": "4915783",
+      "time": "2026-06-04 00:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：《特恩伯裡協定》中針對歐盟商品徵收 15% 關稅的條款 “協定已定，約定不可更改”  。"
+    },
+    {
+      "id": "te:markets:556227",
+      "time": "2026-06-04 00:03:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Face Further Pressure — European stock indices closed firmly lower on Wednesday amid persistent concerns of pro-inflationary pressures and fresh threats of tarrifs from the US. The Euro STOXX 50 fell 0.7% to 6,065 and the STOXX Europe 600 fell 0.5% to 622. The US Presidential administration threatened additional tariffs of up to 12.5% on multiple trading partners due to their failure to ban goods made from forced labor, reigniting trade barreirs with the EU. Meanwhile, fresh strikes between Iran and GCC countries further deteriorated the ongoing ceasefire, lifting oil prices and Eurozone yields. Banks closed sharply lower with UniCredit, BBVA, and Deutsche Bank, dropping between 3.7% and 2%. Luxury brands were also under pressure with LVMH slipping 3%. In turn, ASML added 1.6% to track the positive momentum for the chip sector."
+    },
+    {
+      "id": "4915782",
+      "time": "2026-06-04 00:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：2026年全球半導體市場規模預計突破1.5萬億美元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告稱，受人工智慧需求的快速擴大，2026年全球半導體市場規模預計同比增加近九成，市場規模將突破1.5萬億美元。報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.5萬億美元（約合人民幣10.2萬億元），預計2027年增長26.6%，市場規模進一步升至1.914萬億美元（約合人民幣12.9萬億元）。報告稱，鑑於資料中心的普及速度超出預期，世界半導體貿易統計組織大幅上調了預測，2026年增幅也將創下歷史新高。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。此外，報告還預測，2027年全球所有主要地區的半導體市場都將延續增長勢頭，其中美洲和亞太地區是引領增長的兩大核心引擎。 (央視財經)"
+    },
+    {
+      "id": "mkt:019e8e39-26c3-7443-8fdf-8f24fc499961",
+      "time": "2026-06-04 00:02:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY climbed above 160, up 0.07% intraday."
+    },
+    {
+      "id": "te:economy:556225",
+      "time": "2026-06-04 00:02:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Jobless Rate Steady at 2.2% — The unemployment rate in Russia stood at 2.2% in April 2026, unchanged from the previous month and in line with market expectations. The tight labor market reflects a widespread shortage affecting all sectors, exacerbated by military recruitment and defense industry hiring following Russia’s invasion of Ukraine in February 2022, as well as emigration."
+    },
+    {
+      "id": "4915780",
+      "time": "2026-06-04 00:02:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯經濟部：俄 4 月國內生產總值同比增長 1.3%，前月修正值為同比增長 1.9%。"
+    },
+    {
+      "id": "4915779",
+      "time": "2026-06-04 00:02:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧重申美對伊軍事行動已結束】當地時間3日，美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。魯比奧稱，“我們已經不再持續對伊朗境內目標實施打擊，因為‘史詩怒火’行動已經結束。”魯比奧還表示，儘管美國和以色列對伊朗軍事能力造成重創，但伊朗“仍保留一定無人機和海上作戰能力”。（央視新聞）"
+    },
     {
       "id": "4915778",
       "time": "2026-06-04 00:00:50",
@@ -176512,123 +176686,6 @@
         "MKT News"
       ],
       "text": "TRUMP: I do not care about the midterm elections."
-    },
-    {
-      "id": "mkt:019e6a31-97e5-7223-8ed6-1bb0745f2512",
-      "time": "2026-05-28 00:08:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP said last night's preliminary results were \"a prelude to the midterm elections.\""
-    },
-    {
-      "id": "mkt:019e6a30-f119-7223-8ed6-120073db1e34",
-      "time": "2026-05-28 00:07:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【TRUMP: Iran Would Not Get US Sanctions Lift Even If It Gave Up Highly Enriched Uranium】On May 27 local time, TRUMP said Iran would not obtain a US sanctions lift even if it gave up highly enriched uranium. In a brief phone interview he said, \"No, no, absolutely not. Not in exchange for lifting sanctions.\" He stressed Iran giving up highly enriched uranium \"is absolutely not in order to obtain sanctions relief.\""
-    },
-    {
-      "id": "te:markets:554159",
-      "time": "2026-05-28 00:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index went up by 15 points or 0.15 percent on Wednesday to close at 10507 points. The rise was led by JD Sports Fashion (5.68%), Burberry (3.83%) and Marks & Spencer (3.82%). On the downside, the weakerst performers were Tesco (-2.85%), BP (-2.75%) and Centrica (-2.52%)."
-    },
-    {
-      "id": "mkt:019e6a2f-d132-7223-8ed6-0b52298fed74",
-      "time": "2026-05-28 00:06:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President TRUMP said the United States has received huge support from other countries."
-    },
-    {
-      "id": "mkt:019e6a2f-cd01-7223-8ed6-03a201b76b3a",
-      "time": "2026-05-28 00:06:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: Iran thought it could hold me back, but that is not the case."
-    },
-    {
-      "id": "mkt:019e6a2f-3f6c-7223-8ed5-fc4d3390f6a2",
-      "time": "2026-05-28 00:05:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TRUMP: If we cannot reach a deal, we may have to go back and finish the job."
-    },
-    {
-      "id": "4902983",
-      "time": "2026-05-28 00:05:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們得到了其他國家的大力支援。"
-    },
-    {
-      "id": "4902982",
-      "time": "2026-05-28 00:05:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗不能擁有核武器。"
-    },
-    {
-      "id": "4902981",
-      "time": "2026-05-28 00:04:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：我們或許會繼續推進談判並收尾，也可能就此作罷。"
-    },
-    {
-      "id": "mkt:019e6a2e-6aa2-7223-8ed5-f4ea2069f01a",
-      "time": "2026-05-28 00:04:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TRUMP: No agreement on an Iran deal has yet been reached. Iran is determined to reach an agreement. We are not satisfied with that."
-    },
-    {
-      "id": "4902980",
-      "time": "2026-05-28 00:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗核協議尚未達成。"
-    },
-    {
-      "id": "4902979",
-      "time": "2026-05-28 00:04:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對伊朗核協議仍不滿意。"
     }
   ]
 }
