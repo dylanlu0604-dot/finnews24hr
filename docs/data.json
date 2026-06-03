@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-03 10:43:48",
-  "count": 18485,
+  "updated": "2026-06-03 10:47:43",
+  "count": 18487,
   "items": [
+    {
+      "id": "4914096",
+      "time": "2026-06-03 10:46:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國提議對60個國家加徵關稅，理由是強迫勞動。"
+    },
+    {
+      "id": "4914095",
+      "time": "2026-06-03 10:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門部署在雲霄直流開展輸電權市場化交易】記者3日從國家發展改革委獲悉，國家發展改革委、國家能源局近日印發通知，部署在雲霄直流開展輸電權市場化交易。通知指出，自2026年6月1日起，按照《雲霄直流輸電權市場化交易方案（暫行）》，以月度及以內交易起步，在雲霄直流通道開展輸電權市場化交易。工作過程中，要堅持“安全為錨、穩妥為要、公平公開、競爭有序”的原則。（新華社）"
+    },
+    {
+      "id": "4914094",
+      "time": "2026-06-03 10:45:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：提議對所有其他經濟體加徵12.5%的關稅。"
+    },
+    {
+      "id": "4914093",
+      "time": "2026-06-03 10:45:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：提議對部分國家加徵10%的關稅。"
+    },
+    {
+      "id": "4914092",
+      "time": "2026-06-03 10:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：提議對受調查經濟體加徵關稅。"
+    },
+    {
+      "id": "4914091",
+      "time": "2026-06-03 10:45:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室將於7月7日就擬議行動舉行聽證會。"
+    },
+    {
+      "id": "te:economy:555938",
+      "time": "2026-06-03 10:43:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies — The yield on the benchmark 10-year US Treasury note steadied around 4.45% on Wednesday as investors adopted a cautious stance amid stalled US-Iran peace negotiations and renewed tensions across the Middle East. According to the US Central Command, Iran launched ballistic missiles toward neighboring countries, while US forces responded with strikes on Qeshm Island. The prolonged conflict has continued to support higher energy prices, raising concerns that inflationary pressures could persist and strengthening expectations that the Federal Reserve may keep interest rates elevated for longer. Reinforcing that outlook, economic data released on Tuesday showed US job openings climbed in April to their highest level in nearly two years. Investors are now awaiting the release of private-sector payroll figures later on Wednesday, with particular focus on Friday’s nonfarm payrolls report for further guidance."
+    },
+    {
+      "id": "4914090",
+      "time": "2026-06-03 10:43:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：民進黨當局抹黑“一國兩制”不會得逞】國務院臺辦舉行例行新聞釋出會。有記者就臺陸委會副主委沈有忠近日涉“一國兩制”言論提問。發言人朱鳳蓮表示，臺灣是中國的臺灣，臺灣的未來只能也必須有包括臺灣同胞在內的14億多中國人民共同決定。和平統一、“一國兩制”是實現國家統一的最佳方式，最符合包括臺灣同胞在內的中華民族根本利益。民進黨當局出於“臺獨”分裂圖謀，處心積慮拒絕和平統一，抹黑“一國兩制”，企圖誤導輿論，矇蔽臺灣民眾，不會得逞。需要強調的是制度不同，不是統一的障礙，更不是分裂的藉口。越來越多臺灣有識之士已經不受民進黨當局的裹挾、欺騙，支援兩岸和平統一。"
+    },
     {
       "id": "4914089",
       "time": "2026-06-03 10:43:01",
@@ -169503,62 +169571,6 @@
         "Impact bearish"
       ],
       "text": "WTI crude hits $95/bbl, down 1.37% intraday"
-    },
-    {
-      "id": "4901478",
-      "time": "2026-05-27 10:47:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【去年以來北京警方破獲涉醫保基金類案件70多起】2025年以來，北京警方依託“公安+行政”執法協作機制，圍繞詐騙醫保基金和非法倒賣醫保回收藥等違法犯罪行為，開展多波次打擊整治行動，截至目前，全域性共破獲70餘起相關案件，對400餘名犯罪嫌疑人依法採取刑事強制措施。據瞭解，北京警方堅持依法嚴打涉醫保基金類違法犯罪行為，確定了非法倒賣醫保回收藥、虛構醫療服務套取醫保基金等6類打擊重點。2025年，環食藥總隊接市醫保局線索反映，某養老驛站串通某醫療機構虛開藥品詐騙醫保基金。對此，環食藥總隊會同醫保等部門成立專班，迅速開展案件偵辦。當年11月14日，在充分掌握犯罪團伙證據的基礎上，環食藥總隊組織屬地公安分局對團伙成員開展收網，抓獲20餘名犯罪嫌疑人，並依法採取刑事強制措施，目前案件正在進一步審理中。針對非法倒賣醫保回收藥違法犯罪鏈條化、團伙化等特點，北京警方堅持“統籌組織、專案攻堅、多區協同”思路，全鏈條開展嚴厲打擊。2025年12月，在前期縝密偵查的基礎上，環食藥總隊牽動相關單位對以聶某為首的非法倒賣醫保回收藥犯罪團伙進行集中抓捕，目前案件正在進一步審理中。下一步，北京警方將持續加大打擊涉醫保基金類違法犯罪力度，同步強化聯合執法、聯合宣傳，確保專項行動取得更大成效，堅決維護人民群眾切身利益。"
-    },
-    {
-      "id": "4901477",
-      "time": "2026-05-27 10:46:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度跨國教育科技公司Byju創始人因藐視法庭被新加坡法院判處六個月監禁。"
-    },
-    {
-      "id": "4901476",
-      "time": "2026-05-27 10:46:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【4月房企債券融資規模同比增長近3成】中指研究院釋出的最新資料顯示，4月，房地產行業債券融資總額為614.8億元，同比增長28.8%，環比增長18.5%。其中，房地產行業信用債融資374.8億元，同比增長2.6%，環比減少9.1%，佔比61%；海外債融資34.3億元，佔比5.6%；ABS融資205.7億元，同比增長83.9%，環比增長93.1%，佔比33.5%。"
-    },
-    {
-      "id": "4901475",
-      "time": "2026-05-27 10:46:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "蔚來汽車：姚明成為蔚來ES9首席體驗官。"
-    },
-    {
-      "id": "mkt:019e6752-1986-7ddb-92cd-c2e58250ee35",
-      "time": "2026-05-27 10:44:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "MSCI emerging markets index hits record high"
-    },
-    {
-      "id": "4901474",
-      "time": "2026-05-27 10:43:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國機精工：民用領域的金剛石散熱產品已送樣客戶】國機精工(002046)近日接受機構調研時表示，目前，金剛石散熱片和金剛石光學視窗片已有小批次訂單，主要供應國防工業領域，2025年實現收入超1000萬元。公司金剛石散熱產品矩陣覆蓋金剛石單晶、金剛石多晶和金剛石銅複合材料。目前，民用領域的產品已送樣客戶，若進展順利有望在年內有小批次訂單落地。"
     }
   ]
 }
