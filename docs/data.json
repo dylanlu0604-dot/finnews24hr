@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-04 06:33:05",
-  "count": 19231,
+  "updated": "2026-06-04 06:36:52",
+  "count": 19230,
   "items": [
+    {
+      "id": "te:markets:556262",
+      "time": "2026-06-04 06:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 4.32% — Top commodity losers are Platinum (-4.32%), Silver (-3%), Lithium Carbonate (-2.99%) and Gold (-1.14%). Gains are led by Silicon (0.76%)."
+    },
+    {
+      "id": "mkt:019e8fa0-4775-7443-8fe5-798d1938a133",
+      "time": "2026-06-04 06:35:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude down 1.00% intraday, trading at $96.81/bbl."
+    },
     {
       "id": "4916090",
       "time": "2026-06-04 06:31:17",
@@ -177112,34 +177134,6 @@
         "Brent"
       ],
       "text": "Sources at Iran's Bandar Abbas port said they heard three to four distant explosions, which sounded as if they came from the same direction as the blasts that occurred on a night a few days ago."
-    },
-    {
-      "id": "4903260",
-      "time": "2026-05-28 06:36:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月28日06時29分在青海玉樹州玉樹市（北緯33.06度，東經96.19度）發生3.6級地震，震源深度10千米。"
-    },
-    {
-      "id": "te:markets:554189",
-      "time": "2026-05-28 06:35:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Drops by 2.98% — Top commodity losers are Silver (-2.98%), Lithium Carbonate (-1.67%) and Gold (-1.21%)."
-    },
-    {
-      "id": "mkt:019e6b93-8215-722a-b522-70574905661b",
-      "time": "2026-05-28 06:34:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Local sources said explosions were heard at Iran's southern Bandar Abbas port."
     }
   ]
 }
