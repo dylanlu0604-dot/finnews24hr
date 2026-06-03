@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-04 05:18:59",
-  "count": 19226,
+  "updated": "2026-06-04 05:22:51",
+  "count": 19229,
   "items": [
+    {
+      "id": "mkt:019e8f5c-01a4-7443-8fe5-100e2e7b41fd",
+      "time": "2026-06-04 05:20:31",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom CEO said it has received $6 bln in purchase orders to date."
+    },
+    {
+      "id": "mkt:019e8f5b-d0cf-7443-8fe5-0e020849745f",
+      "time": "2026-06-04 05:20:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. House of Representatives passed a resolution limiting presidential authority to use military force against Iran, 215-208; four Republicans joined Democrats, Axios reports."
+    },
+    {
+      "id": "4916050",
+      "time": "2026-06-04 05:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在IPO前夕拿下德克薩斯州晶片專案稅收減免。"
+    },
+    {
+      "id": "4916049",
+      "time": "2026-06-04 05:18:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：公司第二季度非人工智慧半導體收入增長6%。"
+    },
+    {
+      "id": "mkt:019e8f5a-475d-7443-8fe5-01a6446bc896",
+      "time": "2026-06-04 05:18:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The U.S. House passed a resolution limiting President Trump's authority to use military force against Iran."
+    },
     {
       "id": "4916048",
       "time": "2026-06-04 05:18:20",
@@ -177061,26 +177112,6 @@
         "國際"
       ],
       "text": "邁威爾科技： 我們與美國所有大型雲服務商均開展了定製化合作。"
-    },
-    {
-      "id": "mkt:019e6b50-de62-722a-b522-3fe8bc0e45b7",
-      "time": "2026-05-28 05:22:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran Says It Will Not Back Down Over TRUMP Remarks】Early today (May 28), the head of Iran's parliamentary National Security BOARD said Iran will not back down because of remarks by US President TRUMP and will \"uphold its red lines\" in talks with the United States — specifying those red lines as its uranium enrichment capacity and stock of enriched uranium, control of the Strait of Hormuz, and the lifting of sanctions. Earlier, TRUMP told a cabinet meeting he was dissatisfied with progress in US‑Iran talks, would not accept a new Strait of Hormuz management mechanism being negotiated between Iran and Oman, is not considering easing sanctions on Iran for now, and would not accept reaching an agreement first and then negotiating the nuclear issue further."
-    },
-    {
-      "id": "4903218",
-      "time": "2026-05-28 05:19:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾因拿下防務合作訂單，盤後股價大漲 4.8%。"
     }
   ]
 }
