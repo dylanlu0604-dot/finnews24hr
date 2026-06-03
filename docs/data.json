@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-04 02:00:24",
-  "count": 19117,
+  "updated": "2026-06-04 02:04:42",
+  "count": 19120,
   "items": [
+    {
+      "id": "mkt:019e8ea6-2e81-7443-8fe1-2887b8e0e58c",
+      "time": "2026-06-04 02:01:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Fed's Beige: In 12 Federal Reserve districts, 10 reported economic activity expanding modestly to briskly; one reported a slight decline and one reported no change."
+    },
+    {
+      "id": "mkt:019e8ea5-b689-7443-8fe1-201adb9bbe56",
+      "time": "2026-06-04 02:01:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Beige Book: employment was essentially unchanged in 11 districts, while one district reported a modest increase."
+    },
+    {
+      "id": "mkt:019e8ea5-82ab-7443-8fe1-1e3907549fb9",
+      "time": "2026-06-04 02:01:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "FED'S BEIGE: Six-month business outlook shows growth expectations little changed as elevated uncertainty and weak consumer spending weigh on sentiment."
+    },
+    {
+      "id": "4915864",
+      "time": "2026-06-04 02:01:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：十一個轄區就業基本持平、變動微乎其微，僅一個轄區實現溫和增長。"
+    },
+    {
+      "id": "4915863",
+      "time": "2026-06-04 02:00:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：十二個美聯儲轄區中，十個轄區經濟活動小幅至溫和擴張，一個轄區經濟小幅下滑，另有一個轄區經濟持平。"
+    },
+    {
+      "id": "mkt:019e8ea5-4163-7443-8fe1-13f5434b1403",
+      "time": "2026-06-04 02:00:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed's Beige: Overall prices rose at a moderate-to-strong pace; inf in most Fed districts was higher than in the prior report."
+    },
+    {
+      "id": "4915862",
+      "time": "2026-06-04 02:00:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：整體來看，受不確定性居高不下、消費支出顯現走弱跡象拖累市場情緒影響，受訪企業對未來六個月的經濟增長預期基本持平。"
+    },
+    {
+      "id": "4915861",
+      "time": "2026-06-04 02:00:42",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：整體物價呈溫和至強勁上漲態勢，多數轄區通脹水平較上期報告有所抬升。"
+    },
+    {
+      "id": "4915860",
+      "time": "2026-06-04 02:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "Codelco任命Jorge Gomez為公司CEO。"
+    },
+    {
+      "id": "4915859",
+      "time": "2026-06-04 02:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "據POLITICO： 美國眾議院議員將於本週末前公佈一項跨黨派人工智慧法案。"
+    },
     {
       "id": "mkt:019e8ea4-06aa-7443-8fe1-0b1cc234f5a3",
       "time": "2026-06-04 01:59:34",
@@ -175998,74 +176104,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局局長貝德福德預計，波音將在未來90天內繼續提升737 MAX的產能。"
-    },
-    {
-      "id": "4903106",
-      "time": "2026-05-28 02:04:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta推出Instagram、Facebook與WhatsApp訂閱服務，後續還將推出更多服務，包括人工智慧相關計劃。"
-    },
-    {
-      "id": "mkt:019e6a9b-f6cd-7223-8ed8-66832d8aa1f3",
-      "time": "2026-05-28 02:04:26",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "US Federal Aviation Administration (FAA) Administrator: The FAA supports increasing the production rate of the Boeing 737 MAX."
-    },
-    {
-      "id": "mkt:019e6a9b-36a4-7223-8ed8-58af9a4bbd43",
-      "time": "2026-05-28 02:03:37",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bearish",
-        "BA.N"
-      ],
-      "text": "United Airlines CEO says global aircraft supply will be constrained by an engine shortage."
-    },
-    {
-      "id": "mkt:019e6a9a-c553-7223-8ed8-51219146059a",
-      "time": "2026-05-28 02:03:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "UAL.O",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【United Airlines CEO Sees Pre-Tax Margins Reaching Double Digits Next Year】United Airlines CEO Scott Kirby said on Wednesday at the BERSTEIN investor conference that with oil prices retreating and demand proving resilient, the carrier is gradually recouping the hit from elevated fuel costs and he is increasingly confident United can achieve double-digit pre-tax margins next year. Kirby said the airline had been on track to post double-digit margins this year before the Iran situation pushed fuel prices higher. He added that lower oil prices have reduced the revenue threshold needed to fully offset the fuel-cost shock and that the process of reaching 100% recovery is likely progressing."
-    },
-    {
-      "id": "4903104",
-      "time": "2026-05-28 02:01:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員正與美國舉行會談，商討擴大在黎巴嫩的軍事行動。"
-    },
-    {
-      "id": "4903103",
-      "time": "2026-05-28 02:01:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局局長表示，該局支援波音737 MAX提高產量。"
-    },
-    {
-      "id": "4903102",
-      "time": "2026-05-28 02:01:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合航空公司執行長表示，由於發動機供應不足，全球飛機供應都將面臨短缺。"
     }
   ]
 }
