@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-04 02:04:42",
-  "count": 19120,
+  "updated": "2026-06-04 02:08:32",
+  "count": 19123,
   "items": [
+    {
+      "id": "4915869",
+      "time": "2026-06-04 02:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理： 該協議或將為匈牙利放行烏克蘭入盟談判首個議題章節掃清障礙。"
+    },
+    {
+      "id": "mkt:019e8eaa-d91a-7443-8fe1-38d8376d1dd2",
+      "time": "2026-06-04 02:07:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said the airport terminal was damaged after the US Patriot air-defense system failed to intercept Iranian missiles and subsequently malfunctioned."
+    },
+    {
+      "id": "4915868",
+      "time": "2026-06-04 02:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：匈烏兩國已就匈牙利族少數民族權益達成關鍵協議。"
+    },
+    {
+      "id": "4915867",
+      "time": "2026-06-04 02:05:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引伊朗革命衛隊訊息：機場航站樓損毀系美國愛國者防空系統攔截伊朗導彈失利後出現故障所致。"
+    },
+    {
+      "id": "mkt:019e8ea8-f987-7443-8fe1-31d5a0a5fd09",
+      "time": "2026-06-04 02:04:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps says it did not fire on Kuwait airport."
+    },
+    {
+      "id": "4915866",
+      "time": "2026-06-04 02:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國商業銀行：建議嚴肅審查裕信銀行潛在的誤導資訊。"
+    },
+    {
+      "id": "4915865",
+      "time": "2026-06-04 02:04:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引伊斯蘭革命衛隊表態：我方並未向科威特機場開火。"
+    },
     {
       "id": "mkt:019e8ea6-2e81-7443-8fe1-2887b8e0e58c",
       "time": "2026-06-04 02:01:54",
@@ -176065,45 +176128,6 @@
         "國際"
       ],
       "text": "加拿大自然資源部長：其他歐洲買家已對加拿大液化天然氣表示興趣。"
-    },
-    {
-      "id": "4903109",
-      "time": "2026-05-28 02:07:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：訂閱Instagram Plus（每月3.99美元）、Facebook Plus（每月3.99美元）以及WhatsApp Plus（每月2.99美元）的使用者將可使用額外功能。"
-    },
-    {
-      "id": "mkt:019e6a9e-6e32-7223-8ed8-68d3ef990d19",
-      "time": "2026-05-28 02:07:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "According to TECHCRUNCH, Meta launched subscription services for Instagram, Facebook and WhatsApp and will roll out additional subscription offerings in future, including AI initiatives."
-    },
-    {
-      "id": "4903108",
-      "time": "2026-05-28 02:06:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局局長表示，認為波音737 MAX 7機型將在今年夏季獲得認證，尺寸更大的MAX 10機型將在年底前獲得認證。"
-    },
-    {
-      "id": "4903107",
-      "time": "2026-05-28 02:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局局長貝德福德預計，波音將在未來90天內繼續提升737 MAX的產能。"
     }
   ]
 }
