@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-04 02:28:37",
-  "count": 19125,
+  "updated": "2026-06-04 02:32:25",
+  "count": 19124,
   "items": [
+    {
+      "id": "mkt:019e8ec1-10e3-7443-8fe1-9ac8b7cadb5d",
+      "time": "2026-06-04 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, the SHFE main gold contract fell 0.74% to 973 yuan/gram, the SHFE main silver contract fell 2.24% to 17,795 yuan/kg, and the SC crude main contract rose 1.16% to 611 yuan/barrel."
+    },
+    {
+      "id": "4915879",
+      "time": "2026-06-04 02:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收漲2.26美元，漲幅2.41%，報96.02美元/桶。NYMEX 7月天然氣期貨收報3.2140美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.1316美元/加侖，NYMEX 7月取暖油期貨收報3.8481美元/加侖。"
+    },
+    {
+      "id": "mkt:019e8ec0-6105-7443-8fe1-94d75c6a6e82",
+      "time": "2026-06-04 02:30:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.55% to 970.59 yuan/gram at the close of the June 3 evening session; silver T+D fell 1.32% to 17,783.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019e8ec0-586e-7443-8fe1-8a82de2656da",
+      "time": "2026-06-04 02:30:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "【Fed's Beige: Consumer spending uneven across districts】Fed's Beige reports 10 of 12 districts saw slow-to-moderate economic growth, one showed slight decline and one was unchanged. Consumer spending is uneven; rising cost pressures have widened differences across income groups—high-income households remain relatively resilient and less price-sensitive, middle-income households are “scrimping every penny before spending,” and low-income households face greater financial strain. Several districts reported higher credit-card use, softer retail sales and stronger demand for necessities. Auto dealers cited weaker new-car demand due to cost and fuel pressures, with increased purchases of used cars and hybrids. Manufacturing expanded at a moderate-to-strong pace in nine districts, with one district reporting a slight decline. Banking conditions are largely stable, but multiple districts reported rising delinquencies in mortgages, consumer and agricultural loans. Six-month business outlooks were little changed amid elevated uncertainty and signs of weaker consumer spending."
+    },
+    {
+      "id": "4915878",
+      "time": "2026-06-04 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.16%，報611.00元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌2.24%。"
+    },
+    {
+      "id": "te:markets:556248",
+      "time": "2026-06-04 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 3.59% — Top crypto losers are Binance (-3.59%), Ether (-1.95%) and Bitcoin (-1.41%)."
+    },
+    {
+      "id": "4915877",
+      "time": "2026-06-04 02:28:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西5月份鐵礦石出口2801萬噸，去年同期3477萬噸。"
+    },
     {
       "id": "te:economy:556247",
       "time": "2026-06-04 02:27:02",
@@ -176079,92 +176152,6 @@
         "國際"
       ],
       "text": "特朗普表示，他計劃出席一場NBA總決賽，觀看家鄉球隊紐約尼克斯隊衝擊數十年來的首個總冠軍。"
-    },
-    {
-      "id": "mkt:019e6ab5-132b-7223-8ed8-aec66d2d0bd8",
-      "time": "2026-05-28 02:31:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night Session Main Contracts Close】As of the 02:30 close, Shanghai gold (SHFE) main contract fell 1.26% to 977 yuan/gram, Shanghai silver (SHFE) main contract fell 2.28% to 18,168 yuan/kg, and SC crude oil main contract fell 3.22% to 585 yuan/barrel."
-    },
-    {
-      "id": "mkt:019e6ab4-f580-7223-8ed8-a39188732eeb",
-      "time": "2026-05-28 02:31:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed down 1.05% at 973.82 yuan/gram in the evening session on May 27 (Wednesday). Shanghai Gold Exchange Silver T+D closed down 2.12% at 18,105.0 yuan/kg in the evening session on May 27 (Wednesday)."
-    },
-    {
-      "id": "4903123",
-      "time": "2026-05-28 02:31:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶88.68美元，下跌5.21美元，跌幅5.55%。"
-    },
-    {
-      "id": "te:markets:554175",
-      "time": "2026-05-28 02:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Depreciates by 1.41% — Top crypto losers are Bitcoin (-1.41%) and Ether (-1.12%)."
-    },
-    {
-      "id": "4903122",
-      "time": "2026-05-28 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌3.22%，報585.40元人民幣/桶。滬金夜盤收跌1.26%，滬銀收跌2.28%。"
-    },
-    {
-      "id": "4903121",
-      "time": "2026-05-28 02:29:24",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛稱伊朗戰爭期間美元走強拖累外國官方美債需求】高盛稱，美元在美伊衝突第一個月走強，促使外國官方機構賣出美國國債。高盛策略師Isabella Rosenberg週三在報告中寫道，美元是“經估值調整後外國官方美國國債需求最有意義的驅動因素之一”。外國持有的美國國債規模3月份從紀錄高位回落，而美元指數上漲2.4%，創7月份以來最大單月漲幅。Rosenberg指出，這些轉變似乎發生在一些外國政府在戰爭期間致力於支撐本國貨幣並緩解資本外流之際。她表示，這很可能是一種暫時性模式，並不表明美國國債需求出現結構性轉變。"
-    },
-    {
-      "id": "mkt:019e6ab2-cb6f-7223-8ed8-9ed99cd28098",
-      "time": "2026-05-28 02:29:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) shares rose more than 2%."
-    },
-    {
-      "id": "4903120",
-      "time": "2026-05-28 02:29:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta將推出AI聊天機器人訂閱服務 月費最低7.99美元】Meta Platforms首次開始向消費者銷售Meta AI聊天機器人訂閱服務，這是該公司建立人工智慧業務的重要一步，料有助於部分抵消其在AI領域高達數千億美元的支出。新推出的訂閱服務分為兩檔。公司發言人表示，基礎檔名為Meta One Plus，月費7.99美元，面向頻繁使用Meta AI生成圖片和影片，或依賴其進行復雜推理的使用者。該發言人補充稱，更高階別的Meta One Premium月費為19.99美元，包含與Meta One Plus相同的功能，但使用額度更高。Meta AI訂閱服務將率先在新加坡、瓜地馬拉和玻利維亞上線，之後還會擴充套件至更多國家。"
     }
   ]
 }
