@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-03 08:09:23",
-  "count": 18515,
+  "updated": "2026-06-03 08:13:17",
+  "count": 18504,
   "items": [
+    {
+      "id": "4913842",
+      "time": "2026-06-03 08:12:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，太空探索技術公司（SpaceX）計劃在首次公開募股（IPO）中發售5.556億股股票，募資額最高可達750億美元。"
+    },
+    {
+      "id": "4913841",
+      "time": "2026-06-03 08:11:51",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "訊息人士透露，太空探索技術公司（SpaceX）首次公開募股目標股價定為每股135美元。"
+    },
+    {
+      "id": "mkt:019e8ad1-cc43-733d-881c-e66e3a340d18",
+      "time": "2026-06-03 08:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 opened 38.50 points higher (+0.44%) at 8,762.90 on Wednesday, June 3."
+    },
+    {
+      "id": "4913840",
+      "time": "2026-06-03 08:09:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗稱反擊美軍兩輪侵略】當地時間今天（6月3日）凌晨，伊朗伊斯蘭革命衛隊釋出公告稱，當地時間6月2日，美軍炮彈擊中霍爾木茲海峽附近的一艘伊朗油輪，導致其機艙受損。革命衛隊稱，“為回應此次侵略和違反霍爾木茲海峽規則的行為”，革命衛隊用導彈襲擊了屬於美以的船隻“帕納亞”號。革命衛隊的公告稱，“在之後的新一輪侵略中，美軍又襲擊了位於伊朗格什姆島南部的一座革命衛隊通訊塔。為回應此次侵略，革命衛隊航空航天部隊對美軍位於地區某國的空軍基地以及美軍第五艦隊總部發動了導彈和無人機襲擊。” 公告指出，伊朗此前已警告，一旦發生侵略，將採取截然不同且更為嚴厲的回應。伊朗重申，破壞霍爾木茲海峽的安全將使美軍付出沉重代價。 據美軍中央司令部訊息，伊朗向科威特和巴林發射了多枚導彈。巴林是美軍第五艦隊總部所在地，科威特境內有包括阿里·薩利姆空軍基地在內的多處美軍基地。（CCTV國際時訊）"
+    },
     {
       "id": "4913839",
       "time": "2026-06-03 08:07:45",
@@ -169590,156 +169624,6 @@
         "觀點"
       ],
       "text": "【中信證券：鋼鐵行業“反內卷”主線得到進一步強化 估值修復空間有望逐步釋放】中信證券研報稱，供給端政策約束系統性強化，鋼鐵行業“反內卷”主線得到進一步強化，估值修復空間有望逐步釋放。建議沿兩條主線配置：一是高階特鋼與不鏽鋼管，受益於高階產能稀缺性提升；二是潛在的龍頭對行業其他企業進行整合主線，把握2028年4月視窗期前的併購重組催化。"
-    },
-    {
-      "id": "4901175",
-      "time": "2026-05-27 08:11:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上升1個基點，至3.630%。"
-    },
-    {
-      "id": "4901174",
-      "time": "2026-05-27 08:11:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國31省份“十五五”規劃綱要全部發布】近日，河南省國民經濟和社會發展第十五個五年規劃綱要對外發布。至此，全國31個省份的“十五五”規劃綱要全部發布。各省份“十五五”規劃綱要根據黨的二十屆四中全會透過的“十五五”規劃建議和各省級黨委制定的“十五五”規劃建議編制，闡明各省份經濟社會發展目標和路徑。記者梳理發現，各省份的“十五五”規劃綱要明確推動經濟實現質的有效提升和量的合理增長，其中絕大多數省份公佈了“十五五”期間地區生產總值年均增長目標。（新華社）"
-    },
-    {
-      "id": "mkt:019e66c5-9ff9-7332-8108-2e58506ff6fc",
-      "time": "2026-05-27 08:11:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 20-Year Govt Yield Up 1bp To 3.63%"
-    },
-    {
-      "id": "4901173",
-      "time": "2026-05-27 08:10:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：2021年前後爆發的能源衝擊範圍廣、持續時間長，足以推動日本擺脫長期通縮的舊常態，但也不會引發上世紀70年代初那種通脹螺旋。"
-    },
-    {
-      "id": "mkt:019e66c5-028a-7332-8108-2323c0efeceb",
-      "time": "2026-05-27 08:10:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "UEDA Says Energy Shock Since 2021 Broad, Persistent; Aided Exit From Japan Deflation, Not 1970s-Style Inflation Spiral"
-    },
-    {
-      "id": "4901172",
-      "time": "2026-05-27 08:10:35",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【中信證券：從獨享到共享 綠電直連邁入新階段】中信證券研報稱，綠電直連由單使用者獨享向叢集共享迭代，有效降低中小企業綠電接入門檻。新政依託就近消納、源荷協同、溯源確權機制等提升新能源消納水平和賦能產業低碳升級，是新型電力系統與雙碳建設的重要制度創新。後續隨著地方落地細則出臺、配套調節機制完善、儲能成本持續下降，多使用者綠電直連料將成為零碳園區建設、產業低碳轉型、新型電力系統構建的重要手段。"
-    },
-    {
-      "id": "mkt:019e66c4-a993-7332-8108-1e7bb10bb7ef",
-      "time": "2026-05-27 08:10:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "May 27 Australia S&P/ASX 200 Opens +12.10 pts, +0.14% at 8,669.90"
-    },
-    {
-      "id": "mkt:019e66c4-97f3-7332-8108-1362ea3115d2",
-      "time": "2026-05-27 08:10:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【CNOOC Brings Kenli 10-2 Phase I Online; China Offshore Shallow Reservoir Oilfield Tops 2,800 t/d】CNOOC Says Kenli 10-2 Phase I In Full Production; Crude Output >2,800 t/d; Supports Bohai Oilfield Stable Supply; Located Southern Bohai Sea, Avg Depth ~20 m; Proven Reserves >100 mln t"
-    },
-    {
-      "id": "mkt:019e66c4-5b0b-7332-8108-0c5b59e2052c",
-      "time": "2026-05-27 08:09:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "BOJ Governor UEDA: Large Shock May Remain Temporary If Transmission Channels Not Activated"
-    },
-    {
-      "id": "mkt:019e66c4-1cfd-7332-8108-04ce59148db3",
-      "time": "2026-05-27 08:09:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UEDA Says Temporary Shocks That Change Wages, Expectations, Pricing May Become Persistent"
-    },
-    {
-      "id": "mkt:019e66c4-14a6-7332-8107-ffcfc59ed442",
-      "time": "2026-05-27 08:09:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Foreign Minister Wang Yi Meets Bahrain FM Al Zayani In New York】At UN Security Council high-level meeting, China Foreign Minister Wang Yi meets Bahrain FM Al Zayani; urges immediate comprehensive and lasting ceasefire, cites President Xi Jinping's four-point proposal; backs Pakistan mediation; pledges close UNSC coordination with Bahrain to pursue political solution"
-    },
-    {
-      "id": "4901171",
-      "time": "2026-05-27 08:09:43",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【華泰證券：券商板塊經營已進入良性發展階段 業績增長具備可持續性】華泰證券研報指出，今年以來券商股價表現與基本面背離，年初以來（截至5月22日）上證上漲3.6%，券商指數下跌14.4%，研報認為背離的主要原因是受資金面、政策面等因素影響。目前板塊經營已進入良性發展階段，業績增長具備可持續性。同時，資金面壓制邊際緩解，券商ETF持續淨流入；政策面保持市場呵護基調，夯實經營基礎。疊加估值、倉位雙低，建議把握戰略配置視窗，關注國際化/股權投資/併購重組三大選股主線。"
-    },
-    {
-      "id": "mkt:019e66c3-ee6d-7332-8107-f2de01588f64",
-      "time": "2026-05-27 08:09:36",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "UEDA Says Large Cost Shock May Not Push Underlying Inf Higher If Expectations Very Low, Wages Stagnant"
-    },
-    {
-      "id": "mkt:019e66c3-ed14-7332-8107-ece3a0b56674",
-      "time": "2026-05-27 08:09:36",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【BOJ Governor UEDA Says Line Between Transitory And Persistent inf Not Mechanical】BOJ Governor UEDA: Line Between Transitory, Persistent inf Not Mechanical"
-    },
-    {
-      "id": "mkt:019e66c3-c311-7332-8107-e2c71cbdc548",
-      "time": "2026-05-27 08:09:25",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "UEDA Warns High Inf Expectations, Accelerating Wages Heighten Second-Round Inf Risk"
     }
   ]
 }
