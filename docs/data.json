@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-04 00:32:19",
-  "count": 19173,
+  "updated": "2026-06-04 00:36:18",
+  "count": 19174,
   "items": [
+    {
+      "id": "te:markets:556236",
+      "time": "2026-06-04 00:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 8-week High — DXY increased to 99.54, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.18%, and in the last 12 months, it increased 0.76%."
+    },
+    {
+      "id": "4915810",
+      "time": "2026-06-04 00:35:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "杜克能源CEO：資料中心將壓低用電費率成本，利率漲幅低於通脹增速。"
+    },
+    {
+      "id": "mkt:019e8e55-7eee-7443-8fe0-0efa3bfd0ed6",
+      "time": "2026-06-04 00:33:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "A UK Foreign Office spokesperson said London summoned the Russian ambassador today, condemning last week’s Russian violation of NATO airspace and the strike on a residential building in Romania as reckless and dangerous. The spokesperson added Russia’s continued bombing inside Ukraine shows a disregard for civilian life and said the UK firmly supports Ukraine, Romania and all NATO allies."
+    },
+    {
+      "id": "mkt:019e8e54-61f9-7443-8fe0-077eef7e777a",
+      "time": "2026-06-04 00:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister said it is well known that Russia opposes Germany's seat on the UN Security Council."
+    },
     {
       "id": "mkt:019e8e53-ab84-7443-8fdf-feb381938690",
       "time": "2026-06-04 00:31:48",
@@ -176510,30 +176551,6 @@
         "MKT News"
       ],
       "text": "【Rubio: Negotiations With Iran Aimed at Reaching an Agreement Have Made Some Progress】U.S. Secretary of State Rubio on Friday said negotiations with Iran aimed at reaching an agreement have made some progress. Rubio, speaking at a cabinet meeting of President TRUMP, said: \"I think some progress has been made, and it shows a degree of willingness. In the next hours to days we will see whether we can continue to make progress.\""
-    },
-    {
-      "id": "4903012",
-      "time": "2026-05-28 00:35:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊朗外長與法國外長通電話】當地時間週三下午，伊朗外交部長阿拉格齊與法國外交部長讓-諾埃爾·巴羅舉行電話會談。雙方就雙邊問題、最新地區局勢以及旨在永久結束美國和以色列政權強加於伊朗的戰爭的外交進展進行了討論。"
-    },
-    {
-      "id": "4903011",
-      "time": "2026-05-28 00:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本國會透過法案設立“國家情報會議” 民眾強烈反對】日本國會參議院全體會議27日表決透過“國家情報會議”設立法案。該法案由高市早苗政府推動，意在整合、強化情報力量，壓制反戰聲音。此舉引發日本民眾強烈反對。根據這一法案，日本擬構建以“國家情報會議”為核心、“國家情報局”為執行機構的情報體系，負責統籌安全保障、反恐等領域的情報活動以及所謂涉外國間諜的“對外情報活動”。“國家情報局”還被賦予要求政府各省廳向其提供情報的綜合協調權。（央視新聞）"
-    },
-    {
-      "id": "4903010",
-      "time": "2026-05-28 00:34:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：過去24小時內共有23艘船隻透過霍爾木茲海峽】伊朗革命衛隊海軍公共關係部宣佈： 過去24小時內，包括油輪、集裝箱船和其他商船在內的23艘船隻，在獲得許可後，經革命衛隊海軍協調並提供安全保障，安全透過了霍爾木茲海峽。波斯灣是地區國家穆斯林的水域，而美國軍隊的侵略與破壞是導致該地區近期不安全的主要原因。我方正堅定不移且權威地持續對霍爾木茲海峽實施智慧化管控。"
     }
   ]
 }
