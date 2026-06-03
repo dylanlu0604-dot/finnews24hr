@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-03 17:44:45",
-  "count": 18777,
+  "updated": "2026-06-03 17:48:40",
+  "count": 18778,
   "items": [
+    {
+      "id": "mkt:019e8ce0-efc4-744d-81bf-437352dc5446",
+      "time": "2026-06-03 17:46:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kuwait Oil Company international markets director said production could recover to about 70% of normal within 6-8 weeks; restoring the remaining 30% is expected to take about one additional month."
+    },
+    {
+      "id": "mkt:019e8ce0-ee60-744d-81bf-3b841adb6ca7",
+      "time": "2026-06-03 17:46:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil futures up 3.00% intraday at $96.58/bbl."
+    },
+    {
+      "id": "4914986",
+      "time": "2026-06-03 17:46:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "靛藍航空股價在印度批准為航空燃油價格基金撥款10億美元后轉跌為漲，盤前最新上漲1.1%。"
+    },
+    {
+      "id": "4914985",
+      "time": "2026-06-03 17:46:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產T1000級碳纖維量產】碳纖維因其具有比羽毛輕，卻比鋼鐵硬，集密度低、強度高、耐腐蝕、耐高溫等諸多優點，有“黑黃金”的美譽。記者2日從中國石化獲悉，我國自主研發工藝路線生產的T1000級高效能碳纖維，在上海實現批次化生產。產品可用於航空航天、具身智慧、低空經濟等高階領域和未來產業，將為我國關鍵領域發展提供核心戰略材料支撐。此次實現量產的T1000級高效能碳纖維為12K小絲束規格，即每束碳纖維由12000根單絲組成，單絲直徑僅約7微米，相當於普通人頭髮絲直徑的十分之一，單股絲束拉伸強度超過6.5吉帕，足以拉動一輛重約10噸的中型卡車。據預測，到2030年，我國碳纖維市場規模有望突破600億元。（央視財經）"
+    },
+    {
+      "id": "4914984",
+      "time": "2026-06-03 17:46:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報96.58美元/桶。"
+    },
+    {
+      "id": "4914983",
+      "time": "2026-06-03 17:46:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST瑞茂：股票交易異常波動 提示多項風險】*ST瑞茂公告稱，公司股票於2026年6月1日-6月3日連續3個交易日內日收盤價格漲幅偏離值累計超12%，屬異常波動。受債務逾期及訴訟等影響，公司各品類業務銷售量下降，2026年第一季度營收同比降90.69%，歸母淨利潤為負。此外，公司控股股東及實控人股份100%被司法標記/凍結，還存在多筆債務逾期及訴訟，2025年度財報被出具無法表示意見審計報告，自2026年4月30日起被實施退市風險警示併疊加其他風險警示。"
+    },
+    {
+      "id": "4914982",
+      "time": "2026-06-03 17:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特將在戰後考慮增加國際石油儲備。"
+    },
+    {
+      "id": "4914981",
+      "time": "2026-06-03 17:46:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【麥格米特：股票交易異常波動 不存在應披露未披露重大事項】麥格米特公告稱，公司股票於2026年6月1日、6月2日、6月3日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，截至公告披露日，公司日常經營正常，前期披露資訊無誤，未發現需澄清的媒體報道，公司及相關方不存在應披露而未披露重大事項，在異動期間未買賣公司股票。請投資者注意投資風險。"
+    },
+    {
+      "id": "4914980",
+      "time": "2026-06-03 17:45:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "科威特石油公司國際營銷董事總經理：我國石油產量或可在6至8周內恢復至正常水平的70%，剩餘30%的產能則需要再用一個月時間才能恢復。"
+    },
+    {
+      "id": "4914979",
+      "time": "2026-06-03 17:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：旗下臺積電環球（TSMC Global）以總計1.089億美元收購固定收益證券。"
+    },
+    {
+      "id": "4914978",
+      "time": "2026-06-03 17:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平治資訊：成為1.37億元智算叢集專案中標候選人】平治資訊公告稱，近日，中國移動採購與招標網釋出公示，公司為中國移動雲南公司楚雄分公司2026年高效能智算叢集專案（第二次）的中標候選人，中標含稅金額約1.37億元，採購內容為租賃基礎算力服務裝置。該專案屬公司算力服務業務，若順利中標並簽約，將對未來業績產生積極作用。目前專案尚處公示期，能否中標及最終金額存在不確定性。"
+    },
+    {
+      "id": "4914977",
+      "time": "2026-06-03 17:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：委員會將分析美國調查的初步結果。"
+    },
+    {
+      "id": "4914976",
+      "time": "2026-06-03 17:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "SCHRODERS將日本日元評級下調至負面。"
+    },
     {
       "id": "mkt:019e8cde-2ebf-744d-81bf-34e445266101",
       "time": "2026-06-03 17:43:51",
@@ -172428,110 +172542,6 @@
         "公司"
       ],
       "text": "【深城交：向特定物件發行股票申請獲深交所稽核透過】深城交公告稱，公司於2026年5月27日收到深交所上市稽核中心出具的告知函，其向特定物件發行股票的申請已獲稽核透過，認為公司符合發行、上市條件和資訊披露要求，後續深交所將報中國證監會履行相關注冊程式。該事項尚需中國證監會同意註冊後方可實施，最終能否獲批及時間存在不確定性。"
-    },
-    {
-      "id": "4902280",
-      "time": "2026-05-27 17:48:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通達股份：公司預中標物資專案總價值共計人民幣1.76億元】通達股份公告，國家電網有限公司電子商務平臺釋出了四則中標候選人公示，公司為其中的中標候選人。預中標物資總價值共計人民幣1.76億元，約佔公司2025年度營業總收入的2.20%。具體包括低壓電力電纜、10kV電力電纜、電能計量箱、架空絕緣導線等專案。"
-    },
-    {
-      "id": "te:markets:554061",
-      "time": "2026-05-27 17:48:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Rubber Futures Hover Around 2017-Highs — Rubber futures traded slightly above 220 US cents per kilogram, hovering near the highest since February 2017, partly influenced by elevated oil prices amid the unresolved Middle East conflict and concerns over weather in major producing countries. Natural rubber prices move closely with crude oil, as higher oil prices make synthetic rubber more expensive and increase demand for natural rubber. Major producers in Southeast Asia, including Thailand, Indonesia and Vietnam, have been hit by monsoon rains since mid-May, disrupting agricultural activity and constraining output. Heavy rainfall and elevated temperatures amid climate change are weighing on production, with crop yields expected to decline in both volume and quality. Moreover, Thailand has been placed on maximum environmental alert due to an El Niño phenomenon, which is expected to trigger severe drought conditions in the country."
-    },
-    {
-      "id": "4902279",
-      "time": "2026-05-27 17:47:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所披露，5月20日，瑞銀對美的集團H股<0300.HK>的空頭持倉從2.98%提升至4.23%。"
-    },
-    {
-      "id": "4902278",
-      "time": "2026-05-27 17:47:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶鋼股份：擬以寶武水務股權增資入股寶武環科】寶鋼股份公告稱，公司及下屬公司擬以所持寶武水務46.44%股權評估作價16.8億元，與關聯方共同增資入股寶武環科，增資後合計持股19.93%。"
-    },
-    {
-      "id": "4902277",
-      "time": "2026-05-27 17:46:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST雲城：控股股東擬增持不超2%】ST雲城公告，控股股東雲南省康旅控股集團有限公司目前持股6.27億股，佔39.05%，一致行動人云南融智投資有限公司持股3261.37萬股，佔2.03%；康旅集團計劃自2026年5月28日起12個月內，透過上海證券交易所繫統增持公司A股不少於500萬股、不超過3211.37萬股，增持比例不超2%。"
-    },
-    {
-      "id": "te:economy:554059",
-      "time": "2026-05-27 17:46:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Iceland Jobless Rate Falls to 4-Month Low — Iceland’s seasonally adjusted unemployment rate declined to 5.8% in April 2026 from 6.3% in the previous month, marking the lowest level since December 2025. The number of unemployed persons declined by 1,200 from a month earlier to 13,500. By gender, the jobless rate for men dropped to 5.9% from 6.2% in March, while that for women fell to 5.7% from 6.4%. The youth unemployment rate, which measures job-seekers between 16 and 24 years old, fell to 12.7% from a near five-year high of 17.0% in the previous month. Meanwhile, the employment rate stood unchanged at 75.4%, with the number of employed persons rising by 300 to 220,400. The labor force participation rate edged down to 80.0% from 80.5%. On a non-seasonally adjusted basis, the jobless rate inched up to 6.6% in April from 6.4% in March."
-    },
-    {
-      "id": "4902276",
-      "time": "2026-05-27 17:46:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中京電子：股票連續三日漲幅偏離值累計超20% 屬異常波動】中京電子公告稱，公司股票在2026年5月25日、5月26日、5月27日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經核查，公司前期披露資訊無需更正、補充，近期生產經營正常，內外部環境無重大變化，暫無應披露未披露重大事項，異常波動期間控股股東、實控人未買賣公司股票。公司提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "4902275",
-      "time": "2026-05-27 17:46:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波聯合：子公司為參資公司提供2000萬元擔保】寧波聯合公告稱，2026年5月26日，全資子公司熱電公司與工商銀行寧波分行簽署《最高額保證合同》，按10%股權比例為金通租賃向銀行申請的債務最高餘額提供2000萬元連帶責任保證擔保，在2025年年度股東會批准額度內。截至公告日，公司及其控股子公司對外擔保總額2.74億元，佔最近一期經審計淨資產的8.01%，無逾期擔保。金通租賃資產負債率超70%。"
-    },
-    {
-      "id": "4902274",
-      "time": "2026-05-27 17:45:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翔騰新材：3320萬股限售股6月1日上市流通】翔騰新材公告稱，公司首次公開發行前已發行股份將於2026年6月1日上市流通，本次解除限售股份的數量為3320萬股，佔公司總股本的48.34%，申請解除股份限售的股東為張偉。截至核查意見出具日，張偉嚴格履行了各項承諾，不存在相關承諾未履行影響本次限售股上市流通的情況。保薦機構認為，本次限售股份上市流通申請符合相關規定，對該事項無異議。"
-    },
-    {
-      "id": "4902273",
-      "time": "2026-05-27 17:45:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬辰集團：股東彭德建質押1031.04萬股股份】萬辰集團公告稱，公司股東彭德建近日將1031.04萬股股份質押給華能貴誠信託有限公司，佔其所持股份比例49.73%，佔公司總股本比例5.22%，質押起始日為2026年5月26日，用途為個人資金需求。截至公告披露日，控股股東及其一致行動人累計質押股份1486.26萬股，佔總股本7.53%，所質押股份不存在平倉或被強制過戶風險，不會對公司生產經營等產生實質性影響，也不會導致實際控制權變更。"
-    },
-    {
-      "id": "4902272",
-      "time": "2026-05-27 17:45:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠聯科技：簽署2.76億元中植置業重整投資協議】綠聯科技公告稱，2026年5月27日，公司與中植置業簽訂《重整投資協議》，將作為重整投資人取得其100%股權，承接土地使用權等資產。公司承諾提供2.76億元現金用於償債，分三期支付，已支付1500萬元保證金。若逾期支付超60日，中植公司有權解除協議並沒收保證金。預重整投資方案能否獲批、後續審批及重整完成時間均不確定。"
-    },
-    {
-      "id": "mkt:019e68d2-ba07-7223-8ed0-99857cf8e6a3",
-      "time": "2026-05-27 17:45:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lithuania to buy 936 Patria armoured vehicles from Finland; 300 to be delivered by 2030"
     }
   ]
 }
