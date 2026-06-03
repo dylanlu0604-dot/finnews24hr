@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-04 06:59:32",
+  "updated": "2026-06-04 07:07:56",
   "count": 19242,
   "items": [
+    {
+      "id": "4916113",
+      "time": "2026-06-04 07:01:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：各方均譴責伊朗對該地區國家發動的襲擊。"
+    },
+    {
+      "id": "te:markets:556265",
+      "time": "2026-06-04 07:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Shares Extend Losses — The NZX 50 dropped 47 points, or 0.4%, to 13,068 in Thursday morning deals, extending losses from the previous session, marking its lowest level since May 25 and tracking a fall on Wall Street overnight amid renewed escalation of the Middle East war. Traders also assessed the possibility that New Zealand faces a new 12.5% tariff from the US, after the US Trade Representative said 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Energy, consumer staples, and healthcare stocks mainly weighed down the index, with notable losses from Ryman Healthcare (-1.8%), ANZ Group (-0.7%), Contact Energy (-0.7%), A2 Milk (-0.6%), Auckland International Airport (-0.4%), and Ebos Group (-0.4%)."
+    },
+    {
+      "id": "4916112",
+      "time": "2026-06-04 07:00:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：以色列與黎巴嫩已同意於6月22日所在一週重啟政治與安全軌道談判，以期達成全面協議。"
+    },
+    {
+      "id": "4916111",
+      "time": "2026-06-04 06:59:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國重申持續支援兩國政府行使各自主權。"
+    },
     {
       "id": "4916110",
       "time": "2026-06-04 06:58:22",
@@ -177207,38 +177246,6 @@
         "國際"
       ],
       "text": "【中國駐瑞典大使周立民訪問沃爾沃汽車集團總部】據“中國駐瑞典大使館”公眾號訊息，2026年5月27日，駐瑞典大使周立民訪問沃爾沃汽車集團總部，與執行長塞繆爾森等就中瑞汽車產業合作進行深入交流。  周大使表示，吉利與沃爾沃汽車的合作是中瑞經貿關係濃墨重彩的一筆，是兩國合作的典範。希望沃爾沃汽車依託吉利，全面嵌入中國汽車全產業鏈，深度融入中國新能源汽車創新鏈，利用中國先進的人工智慧、數字、電池等技術，不斷增強全球競爭力，在中國乃至全球取得更大成功。塞繆爾森介紹了公司發展及對華合作情況，表示中國電動汽車產業發展迅猛，同中國合作是企業提升競爭力的必由之路。沃爾沃透過與吉利的合作，創造了獨特發展優勢，願繼續深耕中國市場，交流借鑑創新成果，加強互利合作，實現共同發展。"
-    },
-    {
-      "id": "4903275",
-      "time": "2026-05-28 07:06:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【邁威爾科技一季度淨營收24.2億美元，略高於市場預期】邁威爾科技公佈第一季度淨營收24.2億美元，市場預期24.1億美元；調整後每股收益為80美分，符合市場預期。邁威爾科技預計第二季度調整後每股收益為88至98美分，市場預期為90美分。"
-    },
-    {
-      "id": "4903274",
-      "time": "2026-05-28 07:05:05",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【多地發力票根經濟，推動“流量”轉化為“留量”】二季度以來，全國多地陸續發放消費券。本輪消費券發放呈現一個新趨勢：票根經濟興起，即消費券不再侷限於簡單滿減，而是深度繫結賽事、演出、電影票、機票、高鐵票、展會的票根憑證，打通了“吃住行遊購娛”全鏈條。事實上，今年山東、重慶、廣西、貴州等多地政府工作報告已經對票根經濟發展作出部署。比如，山東提出“構建票根經濟生態圈”；重慶提出“發展銀髮經濟、首發經濟、票根經濟、情緒經濟”；廣西明確“大力支援賽事、演藝等票根經濟發展”。（證券日報）"
-    },
-    {
-      "id": "4903273",
-      "time": "2026-05-28 07:01:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國汽車工業協會（SMMT）資料：英國 4 月汽車產量同比下降 1.2%，總產量為 58513 輛。"
-    },
-    {
-      "id": "4903272",
-      "time": "2026-05-28 07:00:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌工程師因涉嫌在Polymarket預測市場進行內幕交易遭起訴】谷歌軟體工程師Michele Spagnuolo被控在預測平臺Polymarket上進行內幕交易。據稱，他利用2025年最熱門的網際網路搜尋資料進行下注，獲利超過100萬美元。Spagnuolo在押注“2025 年穀歌搜尋量最高的人物將是歌手 D4vd”時，擁有獲取公司內部追蹤使用者搜尋資料的許可權。當官方正式公佈D4vd為搜尋量榜首時，他據此賺取了約120萬美元。 谷歌已對Spagnuolo做出了停職處理，並正配合執法部門的調查。谷歌表示，利用機密資訊進行押注嚴重違反了公司政策。"
     }
   ]
 }
