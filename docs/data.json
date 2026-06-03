@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-04 02:21:00",
-  "count": 19126,
+  "updated": "2026-06-04 02:24:48",
+  "count": 19127,
   "items": [
+    {
+      "id": "4915876",
+      "time": "2026-06-04 02:23:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行CEO Moynihan：隨著價格上漲，（美國）消費者開支出現“微觀變化”。經濟承受能力是一個實實在在的問題。最近50年來，公司的信用業務一直不錯。"
+    },
+    {
+      "id": "4915875",
+      "time": "2026-06-04 02:22:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Alphabet將股權融資規模擴大至850億美元 所得用於人工智慧領域支出】谷歌母公司Alphabet Inc.將其股權融資規模從兩天前宣佈的800億美元提高至847.5億美元，以支援不斷擴大的人工智慧投資計劃。此次融資包括一項規模400億美元的所謂“按市價發行”(ATM)機制，即公司將從第三季度開始不時直接在公開市場出售股票。此外，還包括與伯克希爾達成的一筆100億美元交易。剩餘部分包括180億美元A類普通股和C類資本股發行，以及167.5億美元存托股份發行。資料顯示，這將成為有史以來規模最大的股權融資交易。對於Alphabet這樣體量的公司而言，如此大規模募股實屬罕見，在今年IPO市場火熱、尤其是SpaceX即將上市之際，這筆交易更顯得出人意料。"
+    },
+    {
+      "id": "mkt:019e8eb7-7da6-7443-8fe1-7a1236435195",
+      "time": "2026-06-04 02:20:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Lebanese broadcaster Al-Mayadeen reported Iran’s foreign minister said Iran would respond decisively if Israel attacks Beirut."
+    },
+    {
+      "id": "4915874",
+      "time": "2026-06-04 02:20:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示： 若以色列襲擊貝魯特，伊朗將果斷予以回擊。"
+    },
+    {
+      "id": "te:markets:556245",
+      "time": "2026-06-04 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Drops by 3.79% — Top commodity losers are Platinum (-3.79%), Lithium Carbonate (-2.99%), Copper (-2.72%) and Gold (-1.17%). Gains are led by Silicon (0.76%)."
+    },
     {
       "id": "4915873",
       "time": "2026-06-04 02:18:45",
@@ -176128,42 +176178,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Orange Juice Plunges by 5.65% — Top commodity losers are Orange Juice (-5.65%), Sugar (-2.82%) and Wheat (-2.25%). Gains are led by Oat (2.52%) and Canola (0.78%)."
-    },
-    {
-      "id": "4903117",
-      "time": "2026-05-28 02:23:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：已與烏克蘭澤連斯基通電話，在俄羅斯加碼之際，重申歐洲對烏克蘭的全力支援。"
-    },
-    {
-      "id": "4903116",
-      "time": "2026-05-28 02:23:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：未來數週對推動烏克蘭入盟程序邁出決定性步伐至關重要。"
-    },
-    {
-      "id": "te:markets:554173",
-      "time": "2026-05-28 02:22:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Meta Stock Price Hits 4-week High — Meta shares increased to 625.82 USD, the highest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 7.37%, and in the last 12 months, it decreased 3.38%."
-    },
-    {
-      "id": "4903115",
-      "time": "2026-05-28 02:22:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "美墨加協定不確定性上升，加元跌至六週低點。"
     }
   ]
 }
