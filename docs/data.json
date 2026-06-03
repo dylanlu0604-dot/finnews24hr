@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-04 04:55:37",
-  "count": 19204,
+  "updated": "2026-06-04 04:59:29",
+  "count": 19203,
   "items": [
+    {
+      "id": "4916025",
+      "time": "2026-06-04 04:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍參謀長聯席會議披露，凱恩與委內瑞拉臨時政府官員舉行會晤。"
+    },
+    {
+      "id": "4916024",
+      "time": "2026-06-04 04:58:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "全國有色人種協進會在法庭檔案中稱，美國郵政署要求各州提交選民名單的計劃違反了郵寄選舉和解協議。"
+    },
+    {
+      "id": "4916023",
+      "time": "2026-06-04 04:58:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣下跌4%，至64721.39美元，創2月28日以來最低價位。"
+    },
+    {
+      "id": "4916022",
+      "time": "2026-06-04 04:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍參謀長聯席會議稱，凱恩將軍今日出訪委內瑞拉首都加拉加斯。"
+    },
+    {
+      "id": "4916021",
+      "time": "2026-06-04 04:57:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：簽署協議後霍爾木茲海峽將“立即”開放】美國總統特朗普表示，一旦與伊朗簽署諒解備忘錄，霍爾木茲海峽將“立即”開放。特朗普稱，霍爾木茲海峽開放取決於“幾個區域”被“清理完畢”，並稱他認為沒有任何水雷，因此開放會“非常快”實現。特朗普還表示，美國無論如何都會走南部航線。特朗普還稱，根據協議，伊朗將不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019e8f45-99d0-7443-8fe4-9c95570776c5",
+      "time": "2026-06-04 04:56:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell nearly 5% intraday to $1,302/oz."
+    },
     {
       "id": "mkt:019e8f44-32b4-7443-8fe4-93d1dd15cf26",
       "time": "2026-06-04 04:54:31",
@@ -176818,76 +176869,6 @@
         "其他"
       ],
       "text": "邁威爾科技：預計未來幾個季度，TIAS 及驅動器業務季度營收年化規模將突破 10 億美元。"
-    },
-    {
-      "id": "te:markets:554182",
-      "time": "2026-05-28 04:59:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500, Dow Close at Record Highs — US equities closed mixed on Wednesday as gains for traditional economic sectors clashed against a pullback for chip producers and AI hyperscalers. The S&P 500 gained 0.2% and the Dow jumped 220 points, both at their record highs. Iran said it has a draft for a peace agreement that would restore trade through the Persian Gulf within a month of being signed, momentarily stoking risk-on moves in before US authorities claimed the document was a complete fabrication. Meta and Amazon rebounded from early session losses and closed sharply higher. Also, Eli Lilly gained 2% and P&G surged nearly 4% to set the pace for defensive sectors. In turn, companies in the AI space trimmed gains from the week as markets assessed the sustainability of their rally, pressuring the Nasdaq 100 to a 0.2% loss. Nvidia fell 1$ and Qualcomm dropped 6%. On the other hand, Micron jumped 3.5% to extend the 19% surge from last session after being upgraded by UBS. In afterhours, Salesforce fell 2% after earnings."
-    },
-    {
-      "id": "mkt:019e6b3c-059b-722a-b522-126168df9b19",
-      "time": "2026-05-28 04:59:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Chair Bu Leiman said supply-chain issues and oil prices will have a larger-than-expected impact on the New Zealand government's budget."
-    },
-    {
-      "id": "4903207",
-      "time": "2026-05-28 04:58:46",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲主席佈雷曼：供應鏈與油價的影響將大於政府預算政策的作用。"
-    },
-    {
-      "id": "mkt:019e6b3b-89f4-722a-b522-0feb452d0d0a",
-      "time": "2026-05-28 04:58:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WFC.N",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Wells Fargo (WFC.N) CEO said consumer spending has improved in recent weeks; although firms remain cautious, their financial condition is sound."
-    },
-    {
-      "id": "mkt:019e6b3a-fd4d-722a-b522-041014ad8bca",
-      "time": "2026-05-28 04:58:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Ebrahim Aziz, chairman of Iran's Parliament National Security Committee, said: Everyone now knows US President TRUMP, in order to escape this strategic impasse, uses threats as a tool today and begs for an agreement tomorrow."
-    },
-    {
-      "id": "4903206",
-      "time": "2026-05-28 04:57:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席易卜拉欣·阿齊茲：伊朗不會因特朗普的言論施壓而退讓底線，其紅線包括：擁有鈾濃縮及相關物資的權利、掌控霍爾木茲海峽，以及解除制裁。"
-    },
-    {
-      "id": "mkt:019e6b3a-c99e-722a-b521-f946d95f036f",
-      "time": "2026-05-28 04:57:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Parliament National Security Committee chairman Ebrahim Aziz said Iran will not yield its red lines in the face of TRUMP's rhetoric, citing the right to enrich uranium, enriched uranium itself, management of the Strait of Hormuz and the lifting of sanctions."
     }
   ]
 }
