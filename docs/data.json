@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-04 04:44:00",
-  "count": 19198,
+  "updated": "2026-06-04 04:47:51",
+  "count": 19201,
   "items": [
+    {
+      "id": "mkt:019e8f3d-a4f9-7443-8fe4-76e61abd2607",
+      "time": "2026-06-04 04:47:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Logan said investment activity in border regions has slowed as the USMCA is set to enter negotiations."
+    },
+    {
+      "id": "mkt:019e8f3d-5588-7443-8fe4-6b06af55521c",
+      "time": "2026-06-04 04:47:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.31% to 99.529】The dollar index, measuring the currency against six major peers, rose 0.31% to 99.529 at the New York FX close. 1 EUR = $1.1598, down from $1.1628 in the prior session; 1 GBP = $1.3416, down from $1.3469. 1 USD = 160.03 JPY, up from 159.91; 1 USD = 0.7924 CHF, up from 0.7873; 1 USD = 1.3895 CAD, up from 1.3832; 1 USD = 9.4065 SEK, up from 9.3155."
+    },
+    {
+      "id": "4916014",
+      "time": "2026-06-04 04:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普計劃撥款數億美元，力推煤電廠建設及出口設施專案】美國總統特朗普正準備援引冷戰時期的法律授權，撥付數億美元的聯邦資金，以支援燃煤發電產業以及美國化石燃料的出口業務。白宮官員透露，特朗普預計將於當地時間週四在橢圓形辦公室舉行的一場活動中宣佈，他將依據1950年頒佈的《國防生產法》（DPA），為美國的燃煤電廠及一處出口終端提供資金支援。"
+    },
+    {
+      "id": "mkt:019e8f3c-eaa5-7443-8fe4-6293c15ce370",
+      "time": "2026-06-04 04:46:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Trump to invoke DPA to direct hundreds of millions to coal plants, fossil-fuel export terminal】White House officials said President Trump plans to invoke the Cold War‑era Defense Production Act of 1950 to direct hundreds of millions of dollars in federal funding to support construction of coal‑fired power plants and a U.S. fossil‑fuel export terminal. He is expected to announce the move at an Oval Office event on Thursday."
+    },
+    {
+      "id": "mkt:019e8f3c-a9bf-7443-8fe4-5f3090042af0",
+      "time": "2026-06-04 04:46:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve LOGAN said demand from the AI buildout has already affected US trade flows."
+    },
+    {
+      "id": "4916013",
+      "time": "2026-06-04 04:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：美墨加協定新一輪談判導致邊境投資暫停。"
+    },
+    {
+      "id": "mkt:019e8f3b-4db8-7443-8fe4-51a27e845685",
+      "time": "2026-06-04 04:44:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EKHBARIYA reports Lebanon-Israel negotiations have made progress, but no long-term agreement has been reached."
+    },
+    {
+      "id": "mkt:019e8f3a-dd07-7443-8fe4-4c3430b6410d",
+      "time": "2026-06-04 04:44:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX filed IPO papers with the U.S. Securities and Exchange Commission proposing an indicative price of $135 per share for an offering of 555.56 million Class A shares, seeking to raise about $75 billion."
+    },
+    {
+      "id": "4916012",
+      "time": "2026-06-04 04:44:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：人工智慧產業擴張帶來的需求已對美國貿易流向造成影響。"
+    },
     {
       "id": "mkt:019e8f39-faf4-7443-8fe4-460a1fe6f7ff",
       "time": "2026-06-04 04:43:22",
@@ -176758,69 +176842,6 @@
         "其他"
       ],
       "text": "邁威爾科技：預計2027財年銷售115億美元。"
-    },
-    {
-      "id": "4903199",
-      "time": "2026-05-28 04:47:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：以色列襲擊加沙城造成的死亡人數上升至7人，受傷人數升至15人。"
-    },
-    {
-      "id": "mkt:019e6b31-6f58-722a-b521-efc8cd84c5fd",
-      "time": "2026-05-28 04:47:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Al Jazeera reported Israeli strikes on Gaza City raised the death toll to 7 and the number of wounded to 15."
-    },
-    {
-      "id": "te:markets:554181",
-      "time": "2026-05-28 04:46:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Inflation and Geopolitical Risks — The Ibovespa lost 0.5% to close at 175,744 on Wednesday as investors assessed Brazil’s latest inflation data and monitored developments in the Middle East. Brazil’s mid-month inflation rose to 4.64% in May from 4.37% in April, above forecasts of 4.55%, reinforcing expectations that the central bank may keep interest rates elevated for longer. Meanwhile, prospects for a US-Iran deal to end the war and restore energy flows through the Strait of Hormuz remained uncertain. The US denied an Iranian media report on a draft interim agreement stating that traffic through Hormuz could return to normal within a month after the deal takes effect. Still, oil prices declined, weighing on Petrobras, which fell 1.4%. Utilities also traded lower, with Axia down 1.8%. Other notable laggards included B3 (-2.7%) and Rede D'Or (-1.7%). Major banks helped limit losses, with Bradesco up 0.9% and Itaú gaining 0.6%. Embraer rose 1.5% after Bradesco BBI reiterated its buy recommendation on the stock."
-    },
-    {
-      "id": "mkt:019e6b2f-ec86-722a-b521-e7f2adb692b0",
-      "time": "2026-05-28 04:46:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Governor Breman said he had heard export-focused firms were performing well but remained worried about the uncertain environment."
-    },
-    {
-      "id": "4903198",
-      "time": "2026-05-28 04:45:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行CEO：預計第二季度金融市場與投行業務收入將實現中雙位數百分比增長。"
-    },
-    {
-      "id": "mkt:019e6b2e-9aea-722a-b521-df952ed90df2",
-      "time": "2026-05-28 04:44:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Federal Reserve Governor COOK: Prepared To Raise Rates If inf Persists】Federal Reserve Governor COOK said on Wednesday at a Stanford event that inf is moving in the wrong direction and, if that persists, she is prepared to raise interest rates. She said she currently leans toward leaving borrowing costs unchanged and expects price growth to cool again over the coming months, but her remarks align her with many Fed officials who see accelerating inf as a bigger policy concern than the labor market. COOK said: “I want to be clear about my risk assessment: risks still tilt to higher inf.” She warned five years of inf above the Fed’s 2% target has increased the risk that price pressures become embedded in price- and wage-setting behavior, and said: “Therefore, if the expected process of disinflation does not occur in time, I am prepared to raise rates.”"
     }
   ]
 }
