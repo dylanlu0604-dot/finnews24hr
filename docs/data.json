@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-03 23:25:48",
-  "count": 19185,
+  "updated": "2026-06-03 23:29:57",
+  "count": 19184,
   "items": [
+    {
+      "id": "4915750",
+      "time": "2026-06-03 23:28:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防軍負責人稱以軍在黎巴嫩沒有停火協議。"
+    },
+    {
+      "id": "mkt:019e8e17-509a-744e-9fd4-46fc0a1bc40f",
+      "time": "2026-06-03 23:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuwait International Airport resumes operations; Bahrain and UAE airports operating normally】Kuwait Civil Aviation Authority said Kuwait International Airport, hit in a pre-dawn attack on June 3, has resumed flight operations after damage assessments and safety measures. Flights at terminals T4 and T5 operated by Kuwait Airways and Peninsula Airways have resumed. Xinhua reported Bahrain International Airport and major UAE airports in Dubai and Abu Dhabi were operating normally on June 3; only flights to Kuwait experienced delays or cancellations."
+    },
+    {
+      "id": "4915749",
+      "time": "2026-06-03 23:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：新增金屬關稅有效期至 2027 年 12 月 31 日。"
+    },
     {
       "id": "4915748",
       "time": "2026-06-03 23:24:46",
@@ -176625,44 +176650,6 @@
         "其他"
       ],
       "text": "德國天然氣管網運營機構呼籲，全面調整儲氣庫補氣的激勵機制。"
-    },
-    {
-      "id": "mkt:019e6a0c-bd0a-7223-8ed5-566d9266a1d4",
-      "time": "2026-05-27 23:27:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Cognition AI Raises Over $1 Bln, Valued At $26 Bln】Cognition AI Inc. raised over $1 bln in its latest funding round, taking its post-money valuation to $26 bln, according to an announcement the startup is scheduled to release on Wednesday. The round was co-led by VCs Lux Capital, General Catalyst and 8VC; other participants included Ribbit Capital, Atreides Management LP and Peter Thiel’s Founders Fund. The post-money valuation is more than double the firm’s valuation at its prior financing in September last year, a development that further evidences strong market demand for AI-assisted software development companies."
-    },
-    {
-      "id": "4902946",
-      "time": "2026-05-27 23:27:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【國際油價顯著下跌】國際原油期貨價格27日早盤一度下跌超5%，隨後跌幅有所收窄。紐約商品交易所7月交貨的輕質原油期貨價格一度下跌6.12美元至每桶87.77美元，跌幅為6.52%；7月交貨的倫敦布倫特原油期貨價格一度下跌5.42美元至每桶94.16美元，跌幅達5.44%。"
-    },
-    {
-      "id": "4902945",
-      "time": "2026-05-27 23:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局要求SpaceX調查星艦V3助推器故障。"
-    },
-    {
-      "id": "te:markets:554145",
-      "time": "2026-05-27 23:26:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Down on Hopes for US-Iran Peace Deal — Brent crude oil futures dropped more than 3% to below $97 per barrel on Wednesday, hovering near a five-week low as optimism grew that the US and Iran could reach a peace agreement, despite conflicting signals from both sides. Iranian state television reported an unofficial draft of an interim deal to end the war, while the White House dismissed the report as “a complete fabrication”. A potential reopening of the Strait of Hormuz, which normally carries about 20% of global oil and LNG supplies, could significantly ease pressure on global energy markets. However, major issues remain unresolved, including Iran’s frozen assets and guarantees over shipping access through the strait. Iranian officials said indirect talks with Washington are continuing, while US Secretary of State Marco Rubio warned that any agreement may still take several days. The Strait remains largely closed, although two non-Iranian supertankers crossed Hormuz on Tuesday for the first time in a week."
     }
   ]
 }
