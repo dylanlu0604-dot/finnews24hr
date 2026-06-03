@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-03 23:09:02",
-  "count": 19174,
+  "updated": "2026-06-03 23:13:12",
+  "count": 19176,
   "items": [
+    {
+      "id": "mkt:019e8e0b-12a7-744e-9fd3-f9eeb53e9cd2",
+      "time": "2026-06-03 23:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【xAI pauses hiring of \"AI tutors\" for Grok, sources say】Elon Musk's xAI has paused hiring of \"AI tutors\" used to train its Grok chatbot, people familiar with the matter said. Since early this year xAI had been recruiting accountants, finance specialists, scientists and comedians to teach Grok skills from tax knowledge to humor to broaden the bot's appeal, an approach that differs from rivals that mainly rely on large contractor pools. Sources said the pause — roles internally labeled \"AI tutors\" — is at least partly due to concerns HR could not handle the hiring volume. The company cut multiple AI tutors last autumn, shifted to hiring data‑labeling staff, and carried out another round of layoffs in early March, with additional team reductions reported."
+    },
+    {
+      "id": "4915733",
+      "time": "2026-06-03 23:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "受紐約州總檢察長反壟斷調查報道的影響，COMPASS股價跌幅擴大至16%。"
+    },
+    {
+      "id": "te:markets:556215",
+      "time": "2026-06-03 23:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains after EIA Data — WTI crude oil futures extended gains to 2%, reaching $95.7 per barrel after EIA data showed a sixth consecutive weekly decline in US crude inventories. Stockpiles fell by 7.97 million barrels last week, the largest draw since February and well above expectations for a 4 million barrel decrease. Meanwhile, President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire."
+    },
+    {
+      "id": "mkt:019e8e09-d836-744e-9fd3-f40756bc0c0b",
+      "time": "2026-06-03 23:11:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said using military force to open the Strait of Hormuz is possible; US President Trump is considering multiple options."
+    },
+    {
+      "id": "4915732",
+      "time": "2026-06-03 23:10:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛彼迎：收益保障服務已覆蓋美國 45 個州。"
+    },
+    {
+      "id": "mkt:019e8e09-7631-744e-9fd3-ed4cebcdc4a0",
+      "time": "2026-06-03 23:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he will not advance plans to put Trump on U.S. banknotes without legal authority."
+    },
+    {
+      "id": "4915731",
+      "time": "2026-06-03 23:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本“石腦油危機”蔓延 多個行業受波及】日本約80%的石腦油供應依賴中東地區。由於霍爾木茲海峽航運遇阻，一場“石腦油危機”正在日本蔓延。一家位於東京臺東區的商店店家表示，從大概一個多月前開始，店裡的部分保鮮膜、塑膠袋等商品就開始缺貨了，主要是與日本的石腦油供應有關。石腦油是製造業和化工產業的核心基礎原料，其衍生物廣泛用於生產塑膠、合成纖維、合成橡膠、表面活性劑和印刷油墨溶劑等。（央視新聞）"
+    },
+    {
+      "id": "4915730",
+      "time": "2026-06-03 23:09:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 若無相關法律依據，不會推進將特朗普頭像印上紙幣的相關事宜。"
+    },
+    {
+      "id": "mkt:019e8e08-0341-7ff7-b12c-6d3f0fc55eed",
+      "time": "2026-06-03 23:09:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said there is a law prohibiting the depiction of any living person on U.S. currency."
+    },
+    {
+      "id": "mkt:019e8e07-c258-744e-9fd3-df859109e9b8",
+      "time": "2026-06-03 23:08:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the leak of Trump's tax records involves criminal conduct."
+    },
+    {
+      "id": "4915729",
+      "time": "2026-06-03 23:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：確實有法律規定，美國貨幣上不得印有任何在世人士的肖像。"
+    },
     {
       "id": "4915728",
       "time": "2026-06-03 23:07:44",
@@ -176480,78 +176576,6 @@
         "MKT News"
       ],
       "text": "【ERDOGAN Seeks Meeting With TRUMP During World Cup Match】People familiar with the matter said ERDOGAN is seeking to arrange a meeting with TRUMP next month, possibly immediately before or after a Turkey v. United States World Cup match in Los Angeles. The potential meeting would be held less than two weeks before a NATO summit to be hosted by Ankara, and, the sources said, comes amid growing signs that Washington plans to pare back its role supporting the military alliance in Europe. The people added that, if a meeting with TRUMP is secured, the two leaders could discuss bilateral and regional ties and each country’s role in NATO’s future development ahead of the summit scheduled for July 7-8."
-    },
-    {
-      "id": "4902931",
-      "time": "2026-05-27 23:13:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：靛藍航空、印度航空因航空燃油漲價削減航班。"
-    },
-    {
-      "id": "4902930",
-      "time": "2026-05-27 23:12:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣航空集團執行長表示，CFM56發動機中約有30%尚未進行首次進廠維修。"
-    },
-    {
-      "id": "4902929",
-      "time": "2026-05-27 23:12:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣航空執行長表示，預計2028年後CFM56發動機的進店檢修次數將出現小幅下降。"
-    },
-    {
-      "id": "4902928",
-      "time": "2026-05-27 23:11:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：推進食品接觸材料中鄰苯二甲酸酯的上市後審查。"
-    },
-    {
-      "id": "4902927",
-      "time": "2026-05-27 23:11:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【蔚來汽車漲超8%】蔚來汽車盤中漲超8%，理想汽車和小鵬汽車股價均下跌。訊息面上，蔚來汽車最大的車型蔚來ES9正式上市，售價498000元起，採用BaaS電池租用方式購買的價格為390000元起。"
-    },
-    {
-      "id": "4902926",
-      "time": "2026-05-27 23:10:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國國債期權押注德國10年期國債收益率將升至3.60%以上。"
-    },
-    {
-      "id": "4902925",
-      "time": "2026-05-27 23:09:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚股東在年度股東大會上否決了修改公司記名投票方案的提案。"
-    },
-    {
-      "id": "4902924",
-      "time": "2026-05-27 23:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞一軍營遭襲 至少12名士兵受傷】哥倫比亞北部瓜希拉省首府里奧阿查一處軍營附近27日凌晨發生爆炸襲擊，造成至少12名士兵受傷。據當地媒體報道，事發時，襲擊者從一輛行駛的汽車上向軍營方向投擲了數量不明的爆炸物。受傷士兵已被送醫。反政府武裝“哥倫比亞民族解放武裝”被指製造了這起襲擊。（新華社）"
-    },
-    {
-      "id": "4902923",
-      "time": "2026-05-27 23:09:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "人工智慧編碼初創公司Cognition獲10億美元融資，估值達260億美元。"
     }
   ]
 }
