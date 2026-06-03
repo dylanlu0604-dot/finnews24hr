@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-04 01:52:43",
-  "count": 19113,
+  "updated": "2026-06-04 01:56:33",
+  "count": 19116,
   "items": [
+    {
+      "id": "4915855",
+      "time": "2026-06-04 01:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "得克薩斯縣經投票以 4:1 表決透過，全額免除 SpaceX 泰拉工廠專案稅費。"
+    },
+    {
+      "id": "mkt:019e8ea0-48e4-7443-8fe0-fe63fff8854e",
+      "time": "2026-06-04 01:55:29",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【Rubio says Trump administration will push NATO for 'major reform'】US Secretary of State Rubio said on June 3 the Trump administration does not intend to leave NATO but will press the alliance for \"major reform\" and demand that allies raise defense spending. Rubio told a congressional hearing Trump plans to attend the NATO leaders' summit in Ankara on July 7-8 and will use the meeting to set out the US position."
+    },
+    {
+      "id": "4915854",
+      "time": "2026-06-04 01:55:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧稱特朗普政府將推動北約進行“重大改革”】當地時間6月3日，美國國務卿魯比奧表示，特朗普政府無意退出北約，但將繼續推動北約進行“重大改革”，並要求盟友增加國防開支。魯比奧在國會聽證會上表示，特朗普計劃出席將於7月7日至8日在土耳其安卡拉舉行的北約領導人峰會，並將在會上闡述美國對北約改革的立場。魯比奧說：“總統本人將出席下一次北約領導人會議，屆時這些觀點都會被明確提出。我們仍然是北約成員，但北約需要進行重大變革，而總統已經明確表達了這一點。” （央視新聞）"
+    },
+    {
+      "id": "4915853",
+      "time": "2026-06-04 01:52:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：管理2700億美元資產的瑞士基金計劃將沙特阿美登大型石油公司債券列入黑名單】據公司代表透露，管理著逾2700億美元資產的瑞士機構投資者計劃停止購買部分全球最大油氣生產商發行的債務。這一決定是在瑞士負責任投資協會（SVVK-ASIR）提出建議後作出的，該協會建議將雪佛龍、埃克森美孚、沙特阿美、馬拉松石油、PBF能源、Phillips 66、瓦萊羅能源等公司發行的債務列入黑名單。該建議的禁令不包括股權投資，協會表示，對於股權資產，成員應繼續行使投票權。"
+    },
     {
       "id": "4915852",
       "time": "2026-06-04 01:52:02",
@@ -176023,14 +176059,6 @@
         "焦點"
       ],
       "text": "美國天然氣期貨漲超5.00%，現報3.042美元/百萬英熱。"
-    },
-    {
-      "id": "4903099",
-      "time": "2026-05-28 01:55:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩軍方：以軍在卡法爾馬納至哈爾達利公路發動空襲，造成一名黎軍士兵陣亡。"
     }
   ]
 }
