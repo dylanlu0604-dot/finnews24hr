@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-04 02:48:13",
-  "count": 19130,
+  "updated": "2026-06-04 02:52:01",
+  "count": 19128,
   "items": [
+    {
+      "id": "4915890",
+      "time": "2026-06-04 02:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "橡樹資本高管Christina Lee：私人信用行業現在面臨壓力測試。一旦喪失（投資者的）信任，就再難贏回來。（彭博電視）"
+    },
     {
       "id": "mkt:019e8ece-80f4-7443-8fe1-df1742471b8f",
       "time": "2026-06-04 02:45:58",
@@ -176202,34 +176210,6 @@
         "Impact bullish"
       ],
       "text": "【Meta To Offer AI Chatbot Subscriptions To Offset Several Trillion Dollars In AI Investment】Meta Platforms (META.O) has launched its first consumer subscription service for its Meta AI chatbot to help offset the company's several trillion dollars of AI investment. The offering has two tiers: Meta One Plus at $7.99 per month and Meta One Premium at $19.99 per month. Meta is initially rolling out the Meta AI subscription in Singapore, Guatemala and Bolivia and says it will expand to additional countries. Users can continue to use Meta's AI chatbot for image and video generation for free, but will encounter usage caps as usage increases. Meta declined to disclose the per-tier usage limits, saying only that Premium members receive materially higher usage allowances than the lower tier."
-    },
-    {
-      "id": "mkt:019e6ac7-6abf-7223-8ed8-d6e626e8bb74",
-      "time": "2026-05-28 02:51:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "In its first-quarter report, the Bank of Mexico said that, looking ahead, the BOARD considers maintaining the policy rate at its current level appropriate."
-    },
-    {
-      "id": "4903133",
-      "time": "2026-05-28 02:51:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行第一季度報告：展望未來，央行管委會認為將利率維持在當前水平是適當之舉。"
-    },
-    {
-      "id": "mkt:019e6ac5-f4ab-7223-8ed8-c810399e7108",
-      "time": "2026-05-28 02:50:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "MACRON: Norway has agreed to join France's nuclear umbrella."
     }
   ]
 }
