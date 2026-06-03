@@ -1,7 +1,190 @@
 {
-  "updated": "2026-06-03 21:50:15",
-  "count": 18964,
+  "updated": "2026-06-03 21:54:28",
+  "count": 18996,
   "items": [
+    {
+      "id": "4915549",
+      "time": "2026-06-03 21:53:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：伊朗危機結束後，油價將會下跌。"
+    },
+    {
+      "id": "mkt:019e8dc2-9f1b-7775-a02d-6ead94a2b651",
+      "time": "2026-06-03 21:53:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil prices would fall once the Iran crisis ends."
+    },
+    {
+      "id": "4915548",
+      "time": "2026-06-03 21:53:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金短線回升20美元，現報4444.64美元/盎司。"
+    },
+    {
+      "id": "mkt:019e8dc2-8615-7775-a02d-629adb95b977",
+      "time": "2026-06-03 21:53:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold briefly rose $20 intraday to $4,444.64/oz."
+    },
+    {
+      "id": "4915547",
+      "time": "2026-06-03 21:52:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET：AI 訂閱套餐業務表現格外亮眼。"
+    },
+    {
+      "id": "mkt:019e8dc1-9b40-7775-a02d-5effab333cc0",
+      "time": "2026-06-03 21:52:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O): AI subscription offering performing exceptionally well."
+    },
+    {
+      "id": "te:economy:556197",
+      "time": "2026-06-03 21:51:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "US Private Sector Growth Softens in May — The S&P Global US Composite PMI stood at 51.5 in May 2026, down slightly from 51.7 in April, signaling a modest expansion in private sector activity. Growth in new business remained subdued, while performance varied across sectors, with stronger manufacturing activity partly offset by softer conditions in services. Employment declined at the fastest pace in six years, pointing to a weakening labor market. Business confidence also deteriorated, falling to its lowest level in 13 months. Meanwhile, inflationary pressures remained elevated, with input costs rising at the strongest pace in a year. Firms also increased selling prices more sharply, indicating that higher costs continued to be passed on to customers."
+    },
+    {
+      "id": "mkt:019e8dc1-0e4a-7775-a02d-549d7c7315d0",
+      "time": "2026-06-03 21:51:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Auto consultancy DesRosiers said Canada's motor vehicle sales fell 1.7% YoY in May."
+    },
+    {
+      "id": "4915546",
+      "time": "2026-06-03 21:51:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達盤初跌幅達3%。"
+    },
+    {
+      "id": "mkt:019e8dc0-d97b-7775-a02d-4bd5d71815eb",
+      "time": "2026-06-03 21:51:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) fell as much as 3% in early trading."
+    },
+    {
+      "id": "4915545",
+      "time": "2026-06-03 21:51:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4876.00元。"
+    },
+    {
+      "id": "4915544",
+      "time": "2026-06-03 21:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大 5 月機動車銷量同比下滑 1.7% 。"
+    },
+    {
+      "id": "mkt:019e8dc0-6fba-7775-a02d-4569f1beea51",
+      "time": "2026-06-03 21:50:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks fell: the S&P 500 and Dow Jones Industrial Average extended losses to about 0.6%, the Nasdaq Composite down 0.8%."
+    },
+    {
+      "id": "4915543",
+      "time": "2026-06-03 21:50:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果歐洲首家開發者中心將在德國柏林啟用】蘋果公司今日宣佈，將於今年晚些時候在德國柏林開設歐洲首家蘋果開發者中心（Apple Developer Center）。柏林蘋果開發者中心專為各種規模及處於 App 開發各個階段的團隊而設計，將作為線下會議、工作坊（workshops）和一對一預約的基地。此外，諮詢區和專用實驗室將由蘋果專家提供多種語言的實操支援。"
+    },
+    {
+      "id": "te:markets:556196",
+      "time": "2026-06-03 21:50:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for a fourth consecutive session on Wednesday, dropping by 2.5% to a one-week low of 3,124 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 3.8% to 5,253 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, shed 31 points at 2,290 points. Meanwhile, the supramx index increased 6 points to 1,583 points."
+    },
+    {
+      "id": "mkt:aabdae67-18e5-4608-957b-155484f4c020",
+      "time": "2026-06-03 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "US May ISM non-manufacturing PMI and April factory orders MoM due in 10 minutes."
+    },
+    {
+      "id": "4915542",
+      "time": "2026-06-03 21:49:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數跌幅擴大至0.6%。"
+    },
     {
       "id": "4915541",
       "time": "2026-06-03 21:49:19",
@@ -19,6 +202,18 @@
       "text": "【韓國第九屆地方選舉進行計票 】韓國第九屆地方選舉和國會議員補選3日舉行，選民將投票選出全國道、市、郡、區等各級政府負責人，以及教育監和地方議員等。同時將補選14名國會議員。本屆選舉投票時間為當地時間6時至18時。選舉結果預計於4日凌晨揭曉。（新華社）"
     },
     {
+      "id": "mkt:019e8dbf-14f9-777f-86b1-14302c797766",
+      "time": "2026-06-03 21:49:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "JD.com"
+      ],
+      "text": "【JD.com open-sources JoyAI-Echo long-form audio-video generation framework】June 3 — JD.com open-sourced JoyAI-Echo, a framework for generating long-form audio-video. The framework introduces an AI DirectorAgent and a built-in memory module that persistently stores and recalls character appearance features and speaker timbre across multi-shot generation."
+    },
+    {
       "id": "4915538",
       "time": "2026-06-03 21:48:24",
       "tags": [
@@ -26,6 +221,28 @@
         "焦點"
       ],
       "text": "PVC連續主力合約日內跌1%，現報4876.00元。"
+    },
+    {
+      "id": "mkt:019e8dbe-12f2-7ccb-b65b-e7a9441a24d8",
+      "time": "2026-06-03 21:48:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alphabet (GOOG.O) said daily token processing recently exceeded 3 trillion."
+    },
+    {
+      "id": "mkt:019e8dbd-de65-777f-86b1-06273cd0c5ed",
+      "time": "2026-06-03 21:47:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) cloud-business order backlog nearly doubled q/q to more than $460 billion."
     },
     {
       "id": "4915537",
@@ -36,12 +253,40 @@
       "text": "Alphabet(GOOG.O)：雲業務訂單積壓較上一季度幾乎翻倍，超過4,600億美元。"
     },
     {
+      "id": "mkt:019e8dbd-6723-7ccb-b65b-d440e57daf33",
+      "time": "2026-06-03 21:47:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "S&P Global: Price increases have constrained business activity and sales growth. Employment fell at the fastest pace in six years. Business optimism slipped to its lowest level since Oct 2022."
+    },
+    {
       "id": "4915536",
       "time": "2026-06-03 21:47:11",
       "tags": [
         "國際"
       ],
       "text": "德國經濟部就美國關稅勞工權益相關舉措表態：我們歡迎三方談判就歐盟落實該協定達成的政治共識，並支援歐盟相關法規儘快生效。"
+    },
+    {
+      "id": "mkt:019e8dbd-14aa-7ccb-b65b-cf040309f15a",
+      "time": "2026-06-03 21:46:55",
+      "tags": [
+        "MKT News",
+        "XLV",
+        "Impact bullish",
+        "XLB",
+        "XLY",
+        "Impact bearish"
+      ],
+      "text": "S&P Global said U.S. healthcare was the best-performing sector in May. Consumer goods and materials sectors posted strong output growth, while consumer services activity contracted again."
     },
     {
       "id": "4915535",
@@ -51,6 +296,20 @@
         "國際"
       ],
       "text": "德國經濟部就美國以勞工權益為由出臺關稅措施表態：我們堅持特恩貝里協議。"
+    },
+    {
+      "id": "mkt:019e8dbc-98ee-777f-86b0-ebd4ad1555de",
+      "time": "2026-06-03 21:46:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): Q1 order-processing speed accelerated sharply; expects to confirm more than 50% of backlog within 24 months."
     },
     {
       "id": "4915534",
@@ -79,6 +338,45 @@
       "text": "美國5月標普全球服務業PMI終值 50.7，前值50.9；美國5月標普全球綜合PMI終值 51.5，前值51.7。"
     },
     {
+      "id": "mkt:019e8dbb-1682-777f-86b0-e7b54b37e64b",
+      "time": "2026-06-03 21:45:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US May S&P Global Services PMI (final) 50.7, prior 50.9."
+    },
+    {
+      "id": "mkt:019e8dbb-1617-7ccb-b65b-bdcf12aca3c5",
+      "time": "2026-06-03 21:45:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US May S&P Global Composite PMI, final 51.5; prior 51.7."
+    },
+    {
+      "id": "mkt:019e8dbb-15c8-7ccb-b65b-b13e30d55fe0",
+      "time": "2026-06-03 21:45:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources said that after maintenance Russia's oil exports to Hungary and Slovakia via the Druzhba pipeline returned to normal in May at 165,000 bpd."
+    },
+    {
       "id": "4915532",
       "time": "2026-06-03 21:45:05",
       "tags": [
@@ -98,6 +396,26 @@
       "text": "Brent Crude Oil Tops $97 — Brent crude oil futures rose more than 1% to above $97 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles."
     },
     {
+      "id": "mkt:019e8dbb-0042-777f-86b0-cf907af82230",
+      "time": "2026-06-03 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Markit Services PMI Final (May) | actual 50.7 | previous 50.9"
+    },
+    {
+      "id": "mkt:019e8dbb-003b-777f-86b0-c6752790cd00",
+      "time": "2026-06-03 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Composite PMI Final (May) | actual 51.5 | previous 51.7"
+    },
+    {
       "id": "4915531",
       "time": "2026-06-03 21:44:52",
       "tags": [
@@ -105,6 +423,31 @@
         "焦點"
       ],
       "text": "現貨黃金失守4430美元/盎司，日內跌1.30%。"
+    },
+    {
+      "id": "mkt:019e8dba-eb34-777f-86b0-bc6c1f9a0d26",
+      "time": "2026-06-03 21:44:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O): monthly tokens processed across products and platforms reached 3.2 quadrillion; AI Overview monthly active users topped 2.5 billion."
+    },
+    {
+      "id": "mkt:019e8dba-eb2c-777f-86b0-b5998e2dd387",
+      "time": "2026-06-03 21:44:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Russell 2000 fell 1.1%."
     },
     {
       "id": "4915530",
@@ -124,6 +467,19 @@
       "text": "市場訊息： 特朗普擬對貿易伙伴加徵 10%–12.5% 關稅的方案正穩步推進。"
     },
     {
+      "id": "mkt:019e8dba-1334-777f-86b0-ae3e82782b91",
+      "time": "2026-06-03 21:44:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell $20 intraday to $4,434.72/oz. Spot silver dropped 2.00% intraday to $73.62/oz. New York silver futures slipped below $74/oz, down 2.09% on the day."
+    },
+    {
       "id": "te:markets:556193",
       "time": "2026-06-03 21:44:01",
       "tags": [
@@ -133,6 +489,17 @@
         "Importance 2"
       ],
       "text": "WTI Crude Oil Prices Rise for 3rd Session — WTI crude oil futures rose more than 1% to around $95 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles."
+    },
+    {
+      "id": "mkt:019e8db9-c62f-777f-86b0-a3071b9728e1",
+      "time": "2026-06-03 21:43:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver most-active contract fell as much as 2.00% intraday, last at 17,836.00 yuan/kg."
     },
     {
       "id": "4915528",
@@ -169,6 +536,16 @@
         "Importance 1"
       ],
       "text": "Equinix Stock Price Hits 4-week High — Equinix shares increased to 1096.00 USD, the highest since May 2026. Over the past 4 weeks, Equinix gained 0.76%, and in the last 12 months, it increased 19.65%."
+    },
+    {
+      "id": "mkt:019e8db9-2e3b-777f-86b0-9d63543ee5cd",
+      "time": "2026-06-03 21:43:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports U.S. House Speaker Johnson will meet OpenAI founder Altman to discuss an AI framework."
     },
     {
       "id": "4915525",
@@ -220,6 +597,36 @@
       "text": "Alphabet：預計Gemini 3.5 Pro將於六月釋出。"
     },
     {
+      "id": "mkt:019e8db8-21f2-7ccb-b65b-afe3bca5dbe1",
+      "time": "2026-06-03 21:41:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) expects to launch Gemini 3.5 Pro in June."
+    },
+    {
+      "id": "mkt:019e8db7-eaac-7ccb-b65b-a309ddef0d79",
+      "time": "2026-06-03 21:41:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): GEMINI app monthly active users exceed 900 million, up 400 million YoY."
+    },
+    {
       "id": "4915519",
       "time": "2026-06-03 21:41:34",
       "tags": [
@@ -238,6 +645,14 @@
         "Importance 2"
       ],
       "text": "US Stocks Pull Back — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and Dow edged lower. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to consolidate the view of a strong labor market and add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, soaring orders for AI infrastructure continued to support the sector. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade."
+    },
+    {
+      "id": "mkt:019e8db7-7417-7ccb-b65b-9b82ef782473",
+      "time": "2026-06-03 21:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports US House Speaker Johnson will meet OpenAI CEO today."
     },
     {
       "id": "4915518",
@@ -174305,41 +174720,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗首都德黑蘭附近伊瑪目霍梅尼國際機場的行政大樓發生火災。"
-    },
-    {
-      "id": "4902787",
-      "time": "2026-05-27 21:53:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "最新分析顯示，美國需耗時數年才能補充在伊朗相關衝突中消耗的先進武器儲備。"
-    },
-    {
-      "id": "4902786",
-      "time": "2026-05-27 21:52:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "萊茵金屬：美國萊茵金屬公司與Harbiger已達成合作伙伴關係，為美國國防部開發並部署系列機器人與無人地面車輛。"
-    },
-    {
-      "id": "4902785",
-      "time": "2026-05-27 21:52:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：AI資本支出競賽無視利率，削弱美聯儲偏緊縮立場】Apollo的託斯滕·斯洛克寫道，美國的借款成本可能仍會走高，因為對美聯儲偏緊縮的預期並沒有像教科書所預測的那樣令該國經濟和通貨膨脹放緩。他表示，這要歸咎於對AI的投資。“事實上，儘管近幾個月利率走高，但對2027年資本支出的平均預期仍在繼續上升……換言之，沒有跡象表明市場預計明年AI資本支出會放緩。“斯洛克表示，超大規模雲服務提供商非常害怕錯失資料中心爭奪戰，以至於他們似乎並不介意更高的利率。“超大規模雲服務提供商中存在錯失恐懼症(FOMO)，“他說。"
-    },
-    {
-      "id": "4902784",
-      "time": "2026-05-27 21:50:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，360數科漲26.81%，世紀互聯漲10.58%，樂信漲11.21%，信也科技漲8.08%，聲網漲5.31%。"
     }
   ]
 }
