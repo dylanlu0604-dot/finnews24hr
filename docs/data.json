@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-04 02:36:13",
-  "count": 19124,
+  "updated": "2026-06-04 02:40:04",
+  "count": 19123,
   "items": [
+    {
+      "id": "mkt:019e8ec6-ba18-7443-8fe1-c4490e6a31c4",
+      "time": "2026-06-04 02:37:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brazil's government said in a statement it strongly opposes recent U.S. proposals for tariffs."
+    },
+    {
+      "id": "mkt:019e8ec6-3814-7443-8fe1-beeacc167dcc",
+      "time": "2026-06-04 02:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim news agency reported Iran's foreign minister said return to the negotiating table is conditional on guarantees of Iran's national rights, an end to the war in Lebanon and a de‑escalation of regional tensions."
+    },
+    {
+      "id": "4915883",
+      "time": "2026-06-04 02:36:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛替代架構集團（AOG）全球主管Christina Minnis：在驅動市場方面，AI投資的繁榮是“根本性的、一代人的”現象。"
+    },
+    {
+      "id": "4915882",
+      "time": "2026-06-04 02:36:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴西政府發表宣告，對美國擬出臺的涉強迫勞動相關關稅舉措深表異議。"
+    },
+    {
+      "id": "mkt:019e8ec5-51a6-7443-8fe1-b5da247ed9bf",
+      "time": "2026-06-04 02:35:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell as much as 4.00% intraday, trading at $1,312.90/oz."
+    },
     {
       "id": "mkt:019e8ec5-2384-7443-8fe1-abe11bef61f0",
       "time": "2026-06-04 02:35:44",
@@ -176110,56 +176158,6 @@
         "DXY"
       ],
       "text": "【IDF Widely Expands 'Combat Zone' in Lebanon】The Israeli Defense Forces (IDF) spokesman posted on social media on the evening of the 27th that the IDF will carry out \"powerful strikes\" against HEZBOLLAH, and that all areas south of the Zahrani River are to be regarded as a \"combat zone\". (Xinhua)"
-    },
-    {
-      "id": "mkt:019e6aba-4a26-7223-8ed8-bee364a8c7cd",
-      "time": "2026-05-28 02:37:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's central bank (Bank of Mexico) lowered its 2026 GDP growth forecast to 1.1% from 1.6%."
-    },
-    {
-      "id": "4903131",
-      "time": "2026-05-28 02:36:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預計，2026年第四季度年平均核心通脹率為3.4%，與此前預測值一致。"
-    },
-    {
-      "id": "mkt:019e6ab9-a193-7223-8ed8-b6c847c0fbd2",
-      "time": "2026-05-28 02:36:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Iranian Students' News Agency (ISNA), Isfahan International Airport will fully resume operations after an 80-day suspension."
-    },
-    {
-      "id": "4903130",
-      "time": "2026-05-28 02:36:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預計，2026年第四季度年平均核心通脹率為3.4%，與此前預測值一致。"
-    },
-    {
-      "id": "4903129",
-      "time": "2026-05-28 02:36:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍在黎巴嫩大幅擴大“戰區”】以色列國防軍發言人27日晚在社交平臺發文稱，以軍將對黎巴嫩真主黨展開“強力打擊”，宰赫拉尼河以南所有區域均被視為“戰區”。以軍發言人呼籲黎南部所有居民遠離真主黨武裝人員、相關設施和裝備，並建議黎南部居民撤離至宰赫拉尼河以北地區。"
-    },
-    {
-      "id": "4903128",
-      "time": "2026-05-28 02:36:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【挪威將接受法國“核保護傘”】挪威首相斯特勒27日表示，挪威將加入法國總統馬克龍提出的“前沿威懾”計劃，但不會改變有關核武器的基本政策。挪威媒體分析，這意味著挪威將被納入法國“核保護傘”框架。"
     }
   ]
 }
