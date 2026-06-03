@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-04 04:59:29",
-  "count": 19203,
+  "updated": "2026-06-04 05:03:22",
+  "count": 19207,
   "items": [
+    {
+      "id": "mkt:019e8f4b-477d-7443-8fe4-bb8a00073508",
+      "time": "2026-06-04 05:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump calls Netanyahu 'a great partner'】According to CNN, Trump said on Wednesday that Israeli Prime Minister Netanyahu is \"a great partner\" following a tense phone call between them; he added, \"to me, Netanyahu has always been a great partner; others may not.\""
+    },
+    {
+      "id": "mkt:019e8f4a-fd65-7443-8fe4-b126ea9cc19e",
+      "time": "2026-06-04 05:01:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says talks with Iran progressing very smoothly】U.S. President Trump said talks with Iran are progressing very smoothly and a new round could take place this weekend; he added the Strait of Hormuz would reopen immediately once an agreement is signed. He said signing would commit Iran to never possess nuclear weapons — prohibiting both domestic development and external procurement — and that the U.S. pushed to add the ban on external purchases after two weeks of negotiation. Trump said Iran is theoretically very close to signing and that, while the U.S. could eliminate Iran militarily within two to three weeks, he prefers a written agreement to avoid large-scale casualties. He said officials are trying to separate the Hormuz issue from the Lebanon fighting and that the U.S. has held first-ever talks with Hezbollah, reaching an understanding that Hezbollah will not attack Israel and Israel will not attack Hezbollah."
+    },
+    {
+      "id": "4916028",
+      "time": "2026-06-04 05:00:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至5月末韓國外匯儲備為4269.9億美元，4月末為4278.8億美元。"
+    },
+    {
+      "id": "4916027",
+      "time": "2026-06-04 05:00:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "歐特克與亞馬遜雲科技簽署戰略協作協議。"
+    },
+    {
+      "id": "mkt:019e8f49-5c34-7443-8fe4-ae256804bb62",
+      "time": "2026-06-04 05:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May foreign exchange reserves $426.99 bln, previously $427.88 bln."
+    },
+    {
+      "id": "mkt:019e8f49-36b0-7443-8fe4-a1d586b6d36d",
+      "time": "2026-06-04 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (May) | actual 426989999999.99994B | previous 427880000000B"
+    },
+    {
+      "id": "4916026",
+      "time": "2026-06-04 04:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱與伊朗談判進展“非常順利”】當地時間3日，美國總統特朗普表示，與伊朗的談判進展非常順利，新一輪談判可能在本週末舉行。一旦協議簽署後，霍爾木茲海峽將立即重新開放。特朗普稱，如果伊朗簽署了協議，那就意味著他們已承諾絕不擁有核武器，絕不自行研發，也絕不從外部購買。特朗普稱，最初的協議草案中只規定了“不自行研發”這一項，並沒有“絕不從外部購買”。這個問題引發了長達兩週的談判，但最終美國把這一條也加了進去。只要伊朗簽署那份檔案，協議便正式生效。特朗普表示，理論上講，“他們距離簽署協議已經非常接近了”。"
+    },
     {
       "id": "4916025",
       "time": "2026-06-04 04:58:49",
@@ -176843,32 +176906,6 @@
         "MKT News"
       ],
       "text": "Brazilian Senator Flávio Bolsonaro met with U.S. Secretary of State Rubio on Wednesday local time."
-    },
-    {
-      "id": "mkt:019e6b3e-6056-722a-b522-1a71c4fd98c4",
-      "time": "2026-05-28 05:01:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Governor Breman said the central bank is doing everything possible to keep inf within the target range."
-    },
-    {
-      "id": "4903209",
-      "time": "2026-05-28 05:01:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【5月28日美股成交額前20：英偉達四連跌，財報後8個交易日有7日錄得跌幅】週三美股成交額第2名英偉達收跌1.05%，成交341.81億美元。截止週三收盤，英偉達已經連續四個交易日下跌。在過去8個交易日中，該股有7個交易日錄得下跌。英偉達公佈強勁財報後，投資者發現其毛利率環比已出現微降。此外，該公司客戶高度集中，市場擔憂“金主”的開支可持續性。第三，近期美國30年期國債收益率持續走高，而發債是北美科技巨頭維持龐大AI資本開支的重要資金來源。利率走高導致這些巨頭的融資成本被動抬升，市場擔心這會反向壓制它們未來持續購買英偉達晶片的能力。"
-    },
-    {
-      "id": "4903208",
-      "time": "2026-05-28 04:59:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁威爾科技：預計未來幾個季度，TIAS 及驅動器業務季度營收年化規模將突破 10 億美元。"
     }
   ]
 }
