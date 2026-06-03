@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-03 20:11:24",
-  "count": 18922,
+  "updated": "2026-06-03 20:15:34",
+  "count": 18919,
   "items": [
+    {
+      "id": "4915353",
+      "time": "2026-06-03 20:14:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國前眾議員異常押注被Kalshi舉報】知情人士訊息稱，預測市場運營商Kalshi在監測到異常交易行為後，已向前美國司法部舉報前聯邦眾議員喬治・桑托斯。報道稱，桑托斯此前多次表態將出席2月24日特朗普總統的國情諮文演講，卻反向下注押注自己不會到場。報道補充，卡爾希同時已將該筆異常交易上報美國聯邦監管機構 —— 商品期貨交易委員會（CFTC）。"
+    },
+    {
+      "id": "4915352",
+      "time": "2026-06-03 20:11:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【歐盟提出一系列措施，試圖減少對美國技術基礎設施的依賴】歐盟正在提出一系列措施，旨在增強自身的技術能力，減少對來自美國等其他國家的科技巨頭的依賴。歐盟委員會提出了一個所謂的“技術主權”方案，其中包含一系列針對各類技術基礎設施的政策，涵蓋從半導體到雲服務、資料中心以及人工智慧等多個領域。這些提案需要由歐洲議會和歐盟理事會進行協商後才能獲得批准。在這一提案出臺之際，歐盟官員對歐盟在關鍵技術方面的依賴狀況表示了擔憂，這些技術對於驅動裝置、保障重要基礎設施執行以及儲存敏感資料至關重要，而這些技術正越來越多地依賴於非歐盟企業。"
+    },
+    {
+      "id": "4915351",
+      "time": "2026-06-03 20:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "Kalshi 預測交易所就喬治・桑托斯在預測市場的投注行為向美國檢方提起舉報。"
+    },
+    {
+      "id": "4915350",
+      "time": "2026-06-03 20:11:38",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利將百勝餐飲集團股票評級上調至“增持”後，其盤前股價上漲約2%。"
+    },
+    {
+      "id": "mkt:019e8d65-65eb-7ccb-b658-c7f6999d6f73",
+      "time": "2026-06-03 20:11:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【EU proposes \"tech sovereignty\" package to cut reliance on US tech infrastructure】The European Commission has proposed a \"tech sovereignty\" package to bolster EU tech capabilities and reduce dependence on non-EU tech giants, covering semiconductors, cloud services, data centers and artificial intelligence. The measures require negotiation and approval by the European Parliament and EU Council. EU officials warned that critical technologies for devices, infrastructure operation and sensitive data storage are increasingly reliant on non-EU firms, and said renewed US-EU tariff and geopolitical tensions during a second Trump term have intensified the urgency for greater independence."
+    },
+    {
+      "id": "4915349",
+      "time": "2026-06-03 20:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果開發者中心落地擴建柏林站點。"
+    },
     {
       "id": "4915348",
       "time": "2026-06-03 20:10:35",
@@ -173822,84 +173883,6 @@
         "EURUSD"
       ],
       "text": "US Adp weekly employment change to May 9 +35,750; prior +42,250"
-    },
-    {
-      "id": "4902602",
-      "time": "2026-05-27 20:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大豐業銀行執行長表示，國際投資者對加拿大的態度發生了重大轉變。"
-    },
-    {
-      "id": "4902601",
-      "time": "2026-05-27 20:15:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至5月9日當週ADP就業人數週度變動 3.575萬人，前值4.225萬人。"
-    },
-    {
-      "id": "4902600",
-      "time": "2026-05-27 20:14:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美光股價延續漲勢 巴克萊上調目標價至1175美元】美光科技股價盤前上漲超9%，延續了前一交易日市值突破1萬億美元后的漲勢。巴克萊將該股目標價從675美元上調至1,175美元；新目標價較該股上一交易日收盤價暗示有31.2%的上行空間。 巴克萊表示，至2027年，記憶體晶片的需求可能繼續超過供應。美光科技的競爭對手 SK 海力士 週三市值也首次突破 1 萬億美元。今年以來，美光股價已飆升逾三倍。"
-    },
-    {
-      "id": "4902599",
-      "time": "2026-05-27 20:13:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【快手科技首席財務官金秉：預計2026年股東回報率提升至約4%，全年目標保持正向自由現金流】在2026年第一季度業績電話會上，快手(01024.HK)首席財務官金秉表示，在今年30億港幣年度分紅基礎上，快手將繼續積極進行股份回購，預計2026年全年包括分紅和股份回購在內的股東回報金額將較去年進一步增加，使股東回報率進一步提升至約4%。資本開支方面，金秉表示，公司預計2026年資本開支約260億元人民幣，目前看指引暫不會調整，且大部分資本開支預計發生在上半年。同時，為應對算力價格上漲，公司已進行提前採購儲備，以更好控制市場價格上行階段的算力採購成本。儘管有相關資本支出，快手全年目標依然是保持集團層面正向自由現金流。"
-    },
-    {
-      "id": "4902598",
-      "time": "2026-05-27 20:13:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【應勇會見俄羅斯總檢察長亞歷山大·古燦】5月27日，最高人民檢察院檢察長應勇在京會見俄羅斯聯邦總檢察長亞歷山大·古燦一行。應勇表示，中國最高檢願同俄羅斯聯邦總檢察院一道，落實好兩國元首重要共識和共同簽署的聯合宣告，在打擊跨國犯罪、刑事司法協助、檢察人員交流培訓等方面加強務實合作，為堅定不移推動中俄關系長期、健康、穩定、高質量發展作出檢察貢獻，更好造福兩國和兩國人民。亞歷山大·古燦表示，俄羅斯聯邦總檢察院願進一步加強與中國最高檢的高層往來和人員互訪，在打擊網路犯罪、毒品犯罪、洗錢犯罪和投資者權益保護等方面深化務實合作，堅定維護兩國國家、社會和人民利益，共同為兩國發展和安全提供有力法治保障。應勇與亞歷山大·古燦共同簽署了《中華人民共和國最高人民檢察院和俄羅斯聯邦總檢察院2027-2028年合作計劃》。"
-    },
-    {
-      "id": "4902597",
-      "time": "2026-05-27 20:13:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯綠生態：深交所同意恢復稽核發行股份購買資產事項】匯綠生態公告，公司已向深交所提交恢復稽核的申請檔案，並於2026年5月27日，公司收到深交所同意恢復稽核本次交易事項的通知。"
-    },
-    {
-      "id": "te:economy:554080",
-      "time": "2026-05-27 20:13:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Mid-month Inflation Rate MoM",
-        "Importance 2"
-      ],
-      "text": "Brazil Mid-Month CPI Rises More Than Expected in May — Consumer prices in Brazil rose 0.62% month-on-month in the first half of May 2026, slowing from 0.89% in April but exceeding forecasts of 0.53%. Among the nine categories surveyed, food and beverages posted the largest increase, rising 1.38%, with at-home food prices up 1.73%, led by potatoes (26.29%), tomatoes (12.97%), long-life milk (6.07%), and meat (1.98%). Housing costs rose 1.03%, mainly due to a 2.16% increase in residential electricity prices following the return of the yellow tariff flag. Health and personal care advanced 1.05% as pharmaceutical products climbed 1.25% after authorized medicine price adjustments. Transport was the only category to decline, falling 0.33%, as ethanol, diesel, and gasoline prices dropped. Regionally, Goiânia recorded the highest inflation rate at 1.41%, while Brasília posted the lowest at 0.33%. On an annual basis, prices increased 4.64%."
-    },
-    {
-      "id": "4902596",
-      "time": "2026-05-27 20:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博泰車聯網：第一季度營收同比增長超100%】博泰車聯網公告，2026年第一季度，公司實現營業收入同比增長超100%，營業利潤率同比改善明顯。主要原因是公司在座艙智慧化解決方案的高階化戰略展現成效，海外市場貢獻增長，以及拓展AI應用及業務，AI軟體及雲端智慧服務貢獻新的增量。"
-    },
-    {
-      "id": "4902595",
-      "time": "2026-05-27 20:12:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯綠生態：擬11.27億元購買武漢鈞恆49%股權並調整交易方案】匯綠生態公告稱，公司擬透過發行股份及支付現金的方式，以11.27億元向彭開盛等7名交易對方購買武漢鈞恆49%的股權，並募集配套資金。因審計基準日變更及實施2025年度分紅派息，公司調整了發行價格、數量、鎖定期、業績承諾等交易方案。業績承諾方承諾，標的公司2026 - 2028年度淨利潤分別不低於1.83億元、2.32億元、2.92億元，合計7.07億元。本次交易構成重大資產重組。"
     }
   ]
 }
