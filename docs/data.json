@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-03 10:35:33",
-  "count": 18498,
+  "updated": "2026-06-03 10:39:39",
+  "count": 18491,
   "items": [
+    {
+      "id": "4914084",
+      "time": "2026-06-03 10:38:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
+    {
+      "id": "mkt:019e8b58-b594-7ee2-b13d-83ea1dd13ab5",
+      "time": "2026-06-03 10:38:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【Ankaiwei begins mass production of two AI-glasses SoCs】Ankaiwei said its smart-glasses solutions now cover AI audio, AI capture and AI display glasses. Its Kongming SoC line has entered mass production with first-generation KM01W and second-generation KM02G. Third- and fourth-generation Kongming SoCs are in development, targeting higher pixel counts, smaller packages and stronger on-device AI."
+    },
+    {
+      "id": "mkt:019e8b58-4506-7ee2-b13d-7c3fff630f5c",
+      "time": "2026-06-03 10:37:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "TSM.O"
+      ],
+      "text": "【Taiwan Affairs Office says power shortages are a development weak spot for Taiwan】NVIDIA founder Jensen Huang recently warned Taiwan needs more electricity. Taiwan Affairs Office spokeswoman Zhu Fenglian said the ruling DPP lacks the will and capacity to resolve structural economic and social problems, that power shortages have become a weakness for Taiwan’s development, and accused the DPP of politicizing energy rather than addressing supply constraints."
+    },
+    {
+      "id": "4914083",
+      "time": "2026-06-03 10:37:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦介紹2026年海峽兩岸記者聯合採訪活動情況】6月3日，國務院臺辦舉行例行新聞釋出會。有記者提問：“相約中原·豫見精彩”2026年海峽兩岸記者聯合採訪活動近日在河南舉辦。請介紹有關情況。 國臺辦發言人朱鳳蓮：5月27日至6月2日，“相約中原·豫見精彩”——2026年海峽兩岸記者聯合採訪活動順利舉行。來自兩岸暨香港的40多名記者、臺青自媒體人參加活動，深入鄭州、洛陽、開封等地採訪企業、文博機構等，全方位、多角度採訪報道河南在鄉村振興、先進製造、文化旅遊等方面的發展，實地感受中原大地的厚重底蘊和蓬勃活力。 兩岸記者聯合採訪活動由國務院臺辦和中國記協共同舉辦，自2000年至今已舉辦24屆。兩岸記者聯袂到大陸各地進行深度採訪報道，為促進兩岸媒體交流、增進兩岸同胞相互瞭解發揮了積極作用。歡迎更多記者朋友有機會參加這項品牌活動。"
+    },
+    {
+      "id": "4914082",
+      "time": "2026-06-03 10:37:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：一箇中國原則是人心所向、大勢所趨】國務院臺辦舉行例行新聞釋出會。有記者問：近日俄羅斯、加拿大、泰國等多國政府政要持續發聲，強調堅持一箇中國的立場，請問對此有何評論？發言人朱鳳蓮表示，我們對有關國家堅持一箇中國原則、支援中國統一事業的立場和做法表示讚賞。事實證明，一箇中國原則是國際關係基本準則和國際社會普遍共識，是人心所向，大勢所趨。"
+    },
+    {
+      "id": "mkt:019e8b57-546b-7ee2-b13d-726a9001f041",
+      "time": "2026-06-03 10:36:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Kioxia evaluating new fab at Kitakami】Kioxia president Hiroo Ota said at an earnings briefing on the 2nd the company has begun evaluating construction of a new fab at its Kitakami site, targeting production after 2029–30 to expand NAND capacity amid strong market demand. Kioxia’s NAND flash is produced at Yokkaichi and Kitakami; Kitakami currently houses two fabs."
+    },
+    {
+      "id": "4914081",
+      "time": "2026-06-03 10:36:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：缺電已成臺灣發展軟肋 大家有目共睹】國務院臺辦舉行例行新聞釋出會。有記者問：我們關注到英偉達創始人黃仁勳最近表示臺灣需要更多的電力，島內就有輿論表示了臺灣對電力能力供應缺乏的擔憂，民進黨卻是始終不敢面對攸關產業命脈的能源問題，請問對此有何評論？發言人朱鳳蓮表示，民進黨當局一門心思搞“臺獨”，既沒有意願也沒有能力解決島內經濟社會發展面臨的結構性問題。缺電已經成為臺灣經濟社會發展的軟肋，這一點大家有目共睹。民進黨當局把能源問題高度政治化，不是直面去解決，而是把它當作黨同伐異、打壓對手的工具，暴露其只顧一黨之私，不顧臺灣民眾利益福祉和未來發展的嘴臉。"
+    },
+    {
+      "id": "4914080",
+      "time": "2026-06-03 10:36:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安凱微：已量產兩款AI眼鏡SoC晶片】6月3日，在第十六屆松山湖中國IC創新高峰論壇上，安凱微市場經理朱經言介紹，公司智慧眼鏡解決方案已覆蓋AI音訊眼鏡、AI拍攝眼鏡、AI顯示眼鏡；AI眼鏡SoC路線系列中，公司已經量產孔明一代晶片KM01W和孔明二代晶片KM02G，孔明三代和孔明四代在研發中，向更高畫素、更小封裝以及更強AI演進。"
+    },
+    {
+      "id": "te:markets:555935",
+      "time": "2026-06-03 10:36:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Slides Toward Key 160 Level Against Dollar — The Japanese yen weakened toward the 160-per-dollar mark on Wednesday, approaching a level that previously triggered official intervention and prompting renewed warnings from Japanese authorities. Finance Minister Satsuki Katayama reiterated that the government remains prepared to take appropriate action in the foreign exchange market whenever necessary to address excessive currency movements. The yen’s latest decline comes despite Tokyo spending of ¥11.7 trillion on currency intervention measures between April 28 and May 27, underscoring the persistent pressure on the Japanese currency. The renewed weakness has also strengthened expectations that the Bank of Japan could deliver another interest-rate increase later this month as policymakers contend with inflationary pressures amplified by higher energy costs linked to tensions in the Middle East. Market participants are now focused on remarks from BOJ Governor Kazuo Ueda, who is scheduled to speak later on Wednesday."
+    },
     {
       "id": "mkt:019e8b55-aea5-7ee2-b13d-6911ce9a2eb2",
       "time": "2026-06-03 10:35:08",
@@ -9,6 +99,14 @@
         "MKT News"
       ],
       "text": "【China Listed Companies Association vice-chair Pan Chunsheng: sustainability fundamentals unchanged; urges listed firms to keep strategic steadiness】At the 2026 China Socially Responsible Investment Summit, China Listed Companies Association vice-chair Pan Chunsheng said policy divergence raises uncertainty but the underlying logic of sustainability remains intact; climate risk, supply-chain security and social equity will grow more urgent. He urged listed companies to maintain strategic steadiness and not alter direction in response to short-term external volatility or phase-specific policy shifts. For firms operating overseas, Pan recommended building cross-standard disclosure and compliance capabilities in advance to address differing requirements in the EU, Southeast Asia and the US. He also encouraged more proactive investor engagement using quantifiable, verifiable metrics to communicate the value of sustainable strategies."
+    },
+    {
+      "id": "4914079",
+      "time": "2026-06-03 10:35:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西終止地震三級應急響應】6月3日，廣西壯族自治區抗震救災指揮部發布通知，終止廣西壯族自治區地震三級應急響應。"
     },
     {
       "id": "4914078",
@@ -169510,160 +169608,6 @@
         "其他"
       ],
       "text": "【司法部武增：今年將制定全國統一大市場建設條例，加快推進人工智慧健康發展綜合性立法】5月27日，司法部副部長武增在國新辦新聞釋出會上表示，2026年司法部將全面加強立法工作。一是制定全國統一大市場建設條例，以法律制度剛性破除阻礙全國統一大市場建設卡點、堵點。二是促進科技創新、推動科技強國建設，加快推進人工智慧健康發展綜合性立法、低空經濟立法等。三是保障改善民生，制定實施供水、藥品管理、住房安全管理、道路運輸管理等方面的行政法規。四是進一步加強涉外立法，將修改海關法、對外勞務合作管理條例等法律法規。"
-    },
-    {
-      "id": "4901462",
-      "time": "2026-05-27 10:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南政府：廣達將把越南電腦工廠年產能提升一倍至900萬臺。"
-    },
-    {
-      "id": "4901461",
-      "time": "2026-05-27 10:39:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【國臺辦：民進黨當局妄圖“倚美謀獨”“以武拒統” 註定是自取滅亡】國務院臺辦舉行例行新聞釋出會。有記者問：據報道，美方近日表示，美正暫停一項對臺軍售案，民進黨當局表示將繼續爭取。請問發言人對此有何評論？發言人陳斌華表示，我們堅決反對美國向中國臺灣地區出售武器的立場，一貫明確堅定。民進黨當局妄圖“倚美謀獨”“以武拒統”，註定是螳臂當車、自取滅亡。"
-    },
-    {
-      "id": "te:markets:553905",
-      "time": "2026-05-27 10:39:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Stays Under Pressure as BOJ Signals Caution — The Japanese yen weakened beyond 159 per dollar on Wednesday, lingering near one-month lows after Bank of Japan Governor Kazuo Ueda warned about mounting inflation risks but stopped short of hinting at a possible interest rate increase at the central bank’s next policy meeting. Ueda stressed the need to closely monitor the impact of rising oil prices on Japan’s underlying inflation trend, though he offered little guidance on how those pressures could shape next month’s policy decision. Meanwhile, BOJ Deputy Governor Ryozo Himino reiterated that the central bank remains committed to additional rate hikes, while emphasizing that the timing and pace would depend on how the Middle East conflict influences Japan’s economy and inflation outlook. Investors also continued to track developments in the Middle East, as signs of progress toward a US-Iran agreement were overshadowed by renewed hostilities that continued to cloud the broader outlook."
-    },
-    {
-      "id": "4901460",
-      "time": "2026-05-27 10:38:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南政府：廣達電腦將把在越投資規模增至2.4億美元。"
-    },
-    {
-      "id": "mkt:019e674c-27e8-7ddb-92cd-ad832be27d60",
-      "time": "2026-05-27 10:38:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO says Taiwan, China HQ will remain key global manufacturing, tech and electronics hub for foreseeable future"
-    },
-    {
-      "id": "4901459",
-      "time": "2026-05-27 10:38:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【賴清德每週挨批讓民進黨發言人崩潰 國臺辦回應】國臺辦舉行例行新聞釋出會。有記者問：民進黨發言人吳崢近日表示，因為受不了國務院臺辦發言人每週都批評賴清德而“快被煩死了”，引發兩岸網友議論，認為此言論是其清楚“臺獨”走不通而導致的情緒失控。請問對此有何評論？國臺辦發言人陳斌華表示，真理越辯越明，理屈才會詞窮。民進黨發言人的情緒性表達，充分暴露其理不直氣不壯。賴清德當局頑固堅持“臺獨”分裂立場，種種倒行逆施嚴重違背臺灣社會主流民意，嚴重破壞臺海和平穩定，必將遭到兩岸同胞與國際社會的強烈抨擊和堅決反對，搞“臺獨”終將身敗名裂。"
-    },
-    {
-      "id": "4901458",
-      "time": "2026-05-27 10:37:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：臺灣總部將成為我們在全球非常重要的樞紐。"
-    },
-    {
-      "id": "4901457",
-      "time": "2026-05-27 10:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南政府：廣達電腦已申請增加對越南工廠的投資。"
-    },
-    {
-      "id": "4901456",
-      "time": "2026-05-27 10:37:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4901455",
-      "time": "2026-05-27 10:37:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華虹公司股價創歷史新高】華虹公司盤中股價創歷史新高，現漲1.84%，報226.52元，總市值為2603.64億元。"
-    },
-    {
-      "id": "4901454",
-      "time": "2026-05-27 10:37:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲1.3%，東證指數漲0.04%。"
-    },
-    {
-      "id": "4901453",
-      "time": "2026-05-27 10:36:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滬深兩市成交額突破1.5萬億元】滬深兩市成交額突破1.5萬億元，較上一交易日此時縮量超1000億元。"
-    },
-    {
-      "id": "4901452",
-      "time": "2026-05-27 10:36:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【螞蟻國際在拉美開通全球電子錢包跨境支付服務】螞蟻國際旗下跨境支付網路Alipay+在拉美開通海外電子錢包跨境支付服務，首期覆蓋阿根廷與智利，並將逐步擴充套件至其他國家和地區。目前，Alipay+連線全球50家主流電子錢包、超級應用、掌上銀行，以及十多個國家和地區的二維碼體系；生態覆蓋全球1.5億商戶和20億消費者賬戶。"
-    },
-    {
-      "id": "4901451",
-      "time": "2026-05-27 10:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超過去年全年 年內主動權益新發規模已達1707億元】隨著又一隻接近50億級主動權益基金成立，這類基金年內新發規模已經超過去年全年。今天，平安新鑫智選宣佈成立，成立規模為48.59億元。這也使得今年以來主動權益基金（普通股票型+偏股混合型）新成立規模達到1707.06億元，超過這類基金去年全年新發規模（1612.76億元）。新成立規模超過40億元的產品增至7只，4只超過50億元。僅5月以來就新成立了2只40億級主動權益基金，另外還有3只超30億級產品，5月主動權益基金新成立規模達到357.94億元。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605273750895136",
-      "time": "2026-05-27 10:35:55",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行行長警告油價衝擊或推動通脹持續化】日本央行行長植田和男表示，需要警惕油價飆升對潛在通脹趨勢的影響，但並未明確暗示這一因素將如何影響下月政策會議結果。"
-    },
-    {
-      "id": "te:markets:553904",
-      "time": "2026-05-27 10:35:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Dips on Softer CPI Data — The Australian dollar edged down to around $0.71, easing from a recent one-week high as investors assessed the latest inflation data for signals on the policy outlook. Headline inflation slowed more than expected to 4.2% annually in April from 4.6% previously, undershooting forecasts of 4.4%. Monthly CPI also cooled sharply to 0.4% from 1.1%, reinforcing signs of easing price pressures. However, underlying inflation remained sticky, with the trimmed mean measure rising 3.4% year-on-year, in line with expectations and still above the Reserve Bank’s 2-3% target. The mixed figures reinforce a cautious policy outlook, as core inflation continues to run hot even as headline pressures ease. Markets largely viewed the data as supporting a hold at the upcoming June 15–16 RBA meeting, though expectations for further tightening remain in play, with swaps pricing an even chance of an August rate hike, down from 64% before the data."
-    },
-    {
-      "id": "4901450",
-      "time": "2026-05-27 10:35:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券李春波：全球投資者對韌性與安全的偏好提升 成為中國資本市場價值重估重要基礎】中信證券執行委員、中信證券國際董事長李春波指出，全球投資者正對韌性和安全給出更高溢價，隨著地緣風險影響的加深與國別的分化，投資難度的上升將提升全球投資者對韌性與安全的偏好，這也將成為中國資本市場與實物資產價值重估的重要基礎。"
     }
   ]
 }
