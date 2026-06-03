@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-03 14:56:42",
-  "count": 18496,
+  "updated": "2026-06-03 15:01:39",
+  "count": 18495,
   "items": [
+    {
+      "id": "mkt:019e8c48-3ee2-7ee2-b142-695fa1a7bc99",
+      "time": "2026-06-03 15:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India says it is maintaining communications with the US on Section 301 proceedings."
+    },
+    {
+      "id": "4914447",
+      "time": "2026-06-03 15:00:02",
+      "tags": [],
+      "text": "歐股開盤普漲，德國DAX指數漲0.48%，英國富時100指數漲0.33%，法國CAC40指數漲0.77%，歐洲斯托克50指數漲1.21%，義大利富時MIB指數漲1.61%。"
+    },
+    {
+      "id": "4914446",
+      "time": "2026-06-03 15:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續漲0.62%， 中證500指數期貨連續漲0.50%， 上證50指數期貨連續漲0.08%。"
+    },
+    {
+      "id": "4914445",
+      "time": "2026-06-03 14:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度表示正與美方磋商敲定框架協議。"
+    },
+    {
+      "id": "mkt:019e8c47-d726-7ee2-b142-664e6fda92fd",
+      "time": "2026-06-03 14:59:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Natural Resources activates Level-IV geological disaster response for Jiangxi, Hunan, Guizhou】The weather bureau forecasts heavy to torrential rain in parts of Jiangxi, Hunan and Guizhou, with isolated very heavy downpours. The ministry’s Geological Disaster Technical Guidance Center judges the risk of geological hazards is elevated in northeastern Jiangxi, central Hunan and western Guizhou. Under its Geological Disaster Defense Response Plan, the Ministry of Natural Resources activated a Level-IV response for those provinces at 10:00 on June 3."
+    },
+    {
+      "id": "4914444",
+      "time": "2026-06-03 14:59:29",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【優步收緊員工AI使用限額以削減AI支出】人工智慧使用成本持續走高，部分企業開始縮減用量以管控開支，優步便是其中一員。該公司近期出臺內部使用限額規定，以此遏制高昂的AI開銷。優步新規要求：每位員工、每款智慧程式碼工具（包括Anthropic旗下Claude Code、Cursor）每月AI呼叫費用上限1500美元。公司表示，員工可透過內部資料面板實時檢視消耗額度，特殊場景經審批後可突破限額。這一舉措並不算意外。此前有報道稱，優步曾鼓勵員工“儘可能多用AI”，還在內部榜單評比各部門AI使用量；受該政策影響，公司技術長4月對外透露，這家網約車巨頭僅用時四個月就花光了全年AI預算。優步營運長安德魯・麥克唐納近期也對AI的實際提效作用提出質疑，他在一檔播客節目中坦言：很難釐清AI使用和新品落地之間的直接關聯。"
+    },
+    {
+      "id": "4914443",
+      "time": "2026-06-03 14:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：仍就 301 條款事宜與美國保持磋商。"
+    },
+    {
+      "id": "mkt:019e8c46-a317-7ee2-b142-5e756bbfc4ba",
+      "time": "2026-06-03 14:58:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Bahrain's defence force said on June 3 its air-defence systems intercepted and destroyed three missiles and multiple drones launched from Iran."
+    },
+    {
+      "id": "mkt:019e8c45-b136-7ee2-b142-549314b91cf9",
+      "time": "2026-06-03 14:57:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran supreme leader approves working group on Strait of Hormuz】State media reported on the 3rd that Iran’s Supreme Leader Mojtaba Khamenei has approved the foreign ministry’s establishment of a working group on Strait of Hormuz issues. The group will coordinate with the armed forces and other agencies to draft a legal regime for the Strait, and the draft will incorporate input from the National Security Council and other stakeholders."
+    },
+    {
+      "id": "4914442",
+      "time": "2026-06-03 14:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "寶潔首席財務官表示：展望未來12至18個月，我們認為憑藉產品創新及其他調整，美國市場的增速將回歸至至少3%的水平。"
+    },
+    {
+      "id": "4914441",
+      "time": "2026-06-03 14:57:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜油連續主力合約日內漲4%，現報10360.00元。"
+    },
+    {
+      "id": "4914440",
+      "time": "2026-06-03 14:56:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3334億元。"
+    },
+    {
+      "id": "4914439",
+      "time": "2026-06-03 14:56:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖批准成立霍爾木茲海峽問題工作組】據伊朗塔斯尼姆通訊社3日報道，伊朗伊斯蘭議會副議長阿里·尼克扎德表示，伊朗外交部已獲伊朗最高領袖穆傑塔巴·哈梅內伊批准，成立霍爾木茲海峽問題工作組。 尼克扎德說，該工作組將與包括武裝部隊等其他機構協調，起草有關霍爾木茲海峽的法律制度。相關法律草案採納了伊朗國家安全委員會等機構及有關人士的意見。(新華社)"
+    },
+    {
+      "id": "te:markets:556024",
+      "time": "2026-06-03 14:56:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Nikkei Closes Above 68,000 for First Time — The Nikkei 225 Index jumped more than 2% to close above the 68,000 mark for the first time on Wednesday, setting a fresh record as a continued rally in technology stocks lifted the market. Optimism surrounding artificial intelligence-related opportunities outweighed concerns over the lack of progress in US–Iran peace negotiations. Japanese firms continue to play a significant role in the expansion of AI infrastructure worldwide, positioning them to benefit from the sector’s rapid growth. Leading gains in the technology sector were chipmaking equipment manufacturer Tokyo Electron and semiconductor testing equipment maker Advantest, which surged 13.4% and 5.1%, respectively. Other top performers included Kioxia Holdings (+0.7%), Fujikura (+9.3%), and Furukawa Electric (+4.3%). Meanwhile, investors continued to monitor US–Iran talks, with mixed signals from both sides keeping geopolitical uncertainty elevated."
+    },
+    {
+      "id": "4914438",
+      "time": "2026-06-03 14:56:10",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：大金重工擬在香港上市籌集8.47億美元。"
+    },
     {
       "id": "4914437",
       "time": "2026-06-03 14:55:39",
@@ -169686,144 +169821,6 @@
         "S&P500"
       ],
       "text": "European indices open May 27 (Wed): DAX30 +105.64 pts (+0.42%) at 25311.56; FTSE 100 -6.31 pts (-0.06%) at 10485.08; CAC40 +26.64 pts (+0.33%) at 8199.75; STOXX Europe 50 +27.39 pts (+0.45%) at 6089.95; IBEX 35 +75.39 pts (+0.41%) at 18366.29; FTSE MIB +105.28 pts (+0.21%) at 50004.50"
-    },
-    {
-      "id": "4901873",
-      "time": "2026-05-27 15:01:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF收評：中韓半導體ETF領漲5.69%，信創ETF領跌5.65%】ETF收盤漲跌不一，中韓半導體ETF（513310）領漲5.69%，亞太精選ETF（159687）漲5.07%，納斯達克100ETF（159513）漲2.35%，信創ETF（159539）領跌5.65%，半導體裝置ETF（561980）跌4.47%，黃金股ETF（517520）跌4.4%。"
-    },
-    {
-      "id": "4901872",
-      "time": "2026-05-27 15:01:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF兩市成交額4770.62億元】截至收盤，ETF兩市成交額報4770.62億元，分型別來看，股票型ETF成交額1858億元，債券型ETF成交額1833.48億元，貨幣型ETF成交額254.81億元，商品型ETF成交額73.91億元，QDII型ETF成交額439.18億元。其中，成交額最高的非貨幣型ETF分別是科創50ETF（588000）、創業板ETF（159915）、科創晶片ETF（588200），成交額分別為：74.50億元、71.42億元、63.09億元。"
-    },
-    {
-      "id": "4901871",
-      "time": "2026-05-27 15:01:21",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：滬指低開低走跌1.25%，全市場近4500只個股下跌】A股三大指數今日集體下跌，截至收盤，上證指數跌1.25%，深證成指跌0.88%，創業板指漲0.07%，北證50跌2.38%，科創50指數跌2.8%。全市場成交額32599億元，較上日成交額縮量45億元，全市場近4500只個股下跌。板塊題材上，白酒、影視院線、電力、煤炭開採加工、逆變器板塊漲幅居前；貴金屬、電機、通訊服務、算力租賃、油氣開採及服務板塊跌幅居前。盤面上，白酒板塊午後迅速衝高，水井坊漲停，XD捨得酒、酒鬼酒、今世緣、金徽酒、皇臺酒業漲幅居前。影視院線板塊表現活躍，百納千成、歡瑞世紀收穫漲停，捷成股份、橫店影視、光線傳媒漲幅居前。電力板塊震盪走強，粵電力A、華電遼能、華能蒙電等股漲停。跌幅方面，貴金屬板塊全天低開低走，四川黃金、曉程科技、西部黃金跌幅居前。電機板塊震盪走低，奕帆傳動跌超12%，方正電機、兆威機電、微光股份跌幅居前。算力租賃板塊亦表現疲軟，蓮花控股跌停，賽意資訊、浙大網新、潤健股份跌幅居前。"
-    },
-    {
-      "id": "4901870",
-      "time": "2026-05-27 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌1.25%，深證成指跌0.88%，創業板指漲0.07%。"
-    },
-    {
-      "id": "4901869",
-      "time": "2026-05-27 15:00:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【每天限駕8小時涉及網約車、計程車嗎？疲勞駕駛認定“三問三答”】公共安全行業推薦性標準《機動車駕駛人疲勞駕駛認定規則》（GA/T 2372—2026）2026年6月1日實施。針對近期駕駛人、媒體關心的問題，記者近日採訪了標準起草負責人。（央視新聞）"
-    },
-    {
-      "id": "4901868",
-      "time": "2026-05-27 15:00:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國美國商會會長何邁可：中國技能人才庫助力美企在華創新】2026年9月22日—27日，第48屆世界技能大賽將在上海舉行。5月25日晚，人社部在北京舉辦招待會，邀請各國駐華使節前來參觀瞭解。當前，上海正有序推進大賽籌辦工作。中國美國商會會長表示，能來參加這次招待會非常好，可以對即將在上海召開的世界技能大會有更多瞭解。據他介紹，商會代表著約800家美國企業，他們願意選擇留在中國，最重要的原因之一就是對中國在技能培訓方面的成就表示讚賞，無論是大學層面的教育還是技術培訓。大家都非常看重中國擁有龐大的技能型人才庫。此外，這些人才也促使美國企業不僅能在中國進行生產，還能在這裡實現創新。（中國日報）"
-    },
-    {
-      "id": "4901867",
-      "time": "2026-05-27 15:00:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【我國自主可控臭氧氣體測量原級標準參考儀研製取得突破】記者今天瞭解到，市場監管總局近期組織國內優勢科技力量，開展了臭氧標準氣體準確、穩定發生關鍵技術攻關，突破了臭氧穩定發生限值，打破了臭氧氣體量值只能溯源至美國標準技術研究院（NIST）的技術壟斷。該研究首次在國內實現了臭氧氣體發生濃度範圍（100—1000）×10-9 mol/mol，標準不確定度優於1%，穩定性優於1.0%/7d。同時，研究團隊成功研製出臭氧原級標準參考儀裝置、零氣源發生模組等多項技術成果，相關產品可應用於臭氧氣體計量檢測和臭氧監測全過程。（央視新聞）"
-    },
-    {
-      "id": "4901866",
-      "time": "2026-05-27 15:00:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國冷原子干涉重力測量取得突破 相關領域國際競爭力得到提升】記者今天（5月27日）瞭解到，“十四五”期間，市場監管總局組織國內優勢技術團隊，開展冷原子干涉重力儀長期穩定性研究，取得一系列創新成果，使我國在該領域的研究實現了重要突破。該研究創新性地在冷原子干涉系統中採用原子濾波和鐳射相位調製技術，獲得高相位相關性、高光譜純度拉曼鐳射，顯著提升了原子干涉重力儀長期穩定性和可靠性。同時，研究團隊細緻研究原子濾波前後拉曼鐳射對重力儀干涉條紋的影響，相關研究成果發表於國際光學期刊《Optics Letters》，引起國際同行的關注。（央視新聞）"
-    },
-    {
-      "id": "4901865",
-      "time": "2026-05-27 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】雞蛋連續漲3.74%，白銀連續跌3.24%，碳酸鋰連續跌3.16%，液化石油氣連續跌2.87%，多晶矽連續跌2.80%。"
-    },
-    {
-      "id": "4901864",
-      "time": "2026-05-27 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.8%，英國富時100指數漲0.24%，法國CAC40指數跌1.03%，歐洲斯托克50指數跌1.18%，義大利富時MIB指數跌0.64%。"
-    },
-    {
-      "id": "4901863",
-      "time": "2026-05-27 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.24%， 滬深300指數期貨連續跌0.49%， 中證500指數期貨連續跌1.26%， 上證50指數期貨連續跌1.22%。"
-    },
-    {
-      "id": "4901862",
-      "time": "2026-05-27 14:59:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽首次授予TCL電子“BBB-”評級；展望穩定。"
-    },
-    {
-      "id": "4901861",
-      "time": "2026-05-27 14:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貨拉拉公開平臺行為分規則修訂全流程】5月27日，貨拉拉正式對外公開平臺行為分規則的修訂流程，以及錯搶訂單、違規收費兩大核心場景的規則調整細則。 此舉旨在進一步提升平臺規則制定的透明度與公平性，讓司機群體的聲音被聽見、訴求被回應，推動平臺治理更加貼近實際運營場景。據貨拉拉相關負責人介紹，平臺行為分規則的修訂已形成一套嚴謹、透明的全流程機制，涵蓋議案提出、司機懇談、規則評審、司機意見徵詢、線上公示與生效五個關鍵環節。在議案提出階段，平臺透過司機社群、客服反饋等多渠道持續收集司機普遍關切的規則問題與改進建議，針對反饋最集中的議題形成具體“規則議案”。隨後，平臺圍繞不同議題組織多場司機懇談會，搭建面對面溝通橋樑，邀請各地司機代表就議案的修改方向、具體細則及潛在影響進行深入探討。懇談會收集意見後，平臺評審委員會綜合考量司機反饋、合規要求等多方面因素，對議案進行系統性專業評審，形成規則修訂草案。草案確定後，將在司機端App進行為期不少於7天的線上意見徵詢，全體司機均可透過官方渠道提出書面意見。最終，經過充分調整的規則版本將在司機端App進行為期15天的正式公示，公示期滿且無重大異議後方正式生效。（中國交通報）"
-    },
-    {
-      "id": "te:economy:553976",
-      "time": "2026-05-27 14:58:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Leading Economic Index",
-        "Importance 0"
-      ],
-      "text": "Australia Leading Index Rises in April — The Westpac–Melbourne Institute Leading Economic Index went up 0.1% month-on-month in April 2026, following a 0.1% decline in March. Still, the six-month annualised growth rate slipped to -0.17% from -0.11% in March, pointing to below-trend growth through the second half of 2026 and into early 2027. The latest reading marked the first consecutive below-trend signal since late 2024, reflecting a clearer loss of momentum in the Australian economy. The deterioration was driven mainly by a sharp weakening in consumer sentiment, with the Consumer Expectations Index plunging 20% since late last year and becoming a major drag on the headline index. Softer financial market indicators, including a narrowing yield spread and weaker equity markets, also weighed on the outlook. Westpac expects the Reserve Bank to pause at its June meeting after three straight rate hikes, while persistent inflation pressures are likely to keep the door open for further tightening later this year."
-    },
-    {
-      "id": "4901860",
-      "time": "2026-05-27 14:57:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國日前基準負荷電力價格上漲26.74%，報每兆瓦時109歐元。"
-    },
-    {
-      "id": "4901859",
-      "time": "2026-05-27 14:57:49",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部與德國復興信貸銀行簽署湖北省襄陽老河口市漢江流域環境綜合整治專案貸款協定】2026年5月20日，財政部與德國復興信貸銀行簽署了湖北省襄陽老河口市漢江流域環境綜合整治專案貸款協定。該專案是中國與德國新的合作框架下首個簽約專案。該專案總投資約7.22億元人民幣，其中利用德國復興信貸銀行貸款7000萬歐元（約摺合人民幣5.32億元），貸款期限15年（含5年寬限期）。專案旨在保護漢江流域生態環境，落實漢江生態經濟帶發展規劃，完善區域汙染防控體系，提升智慧水務綜合管控能力。主要建設內容包括給排水管網建設和提質增效改造、汙泥集中處理設施建設和漢江支流的生態治理及修復等。"
     }
   ]
 }
