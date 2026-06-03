@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-04 01:00:47",
-  "count": 19158,
+  "updated": "2026-06-04 01:04:47",
+  "count": 19141,
   "items": [
+    {
+      "id": "4915832",
+      "time": "2026-06-04 01:03:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic 選定摩根士丹利、高盛擔任 IPO 聯席保薦承銷商。"
+    },
+    {
+      "id": "4915831",
+      "time": "2026-06-04 01:01:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：伊朗方面概述了與美國達成的四階段協議計劃。"
+    },
+    {
+      "id": "mkt:019e8e6e-fa11-7443-8fe0-652a8b807bb3",
+      "time": "2026-06-04 01:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Fars News reported Tehran has outlined a four-stage agreement plan with the United States."
+    },
+    {
+      "id": "4915830",
+      "time": "2026-06-04 01:01:06",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI 執行長山姆·奧特曼將在華盛頓出訪期間反對美國擬出臺的 AI 模型上線審批提案。"
+    },
+    {
+      "id": "4915829",
+      "time": "2026-06-04 01:00:27",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "摩根士丹利：對外匯市場而言，6月份的FOMC貨幣政策會議（凱文·沃什就任美聯儲主席之後的首次利率決議）是一個關鍵風險。"
+    },
     {
       "id": "4915828",
       "time": "2026-06-04 01:00:01",
@@ -176202,205 +176254,6 @@
         "國際"
       ],
       "text": "特朗普談及伊朗相關事態時間程序：局勢會迅速演變。"
-    },
-    {
-      "id": "4903052",
-      "time": "2026-05-28 01:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "約30家日本企業正考慮投資軟銀擬推出的新合資專案，該專案旨在開發本土人工智慧。"
-    },
-    {
-      "id": "4903051",
-      "time": "2026-05-28 01:04:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：阿曼會乖乖像所有人一樣行事，否則我們就得把他們炸平。"
-    },
-    {
-      "id": "4903050",
-      "time": "2026-05-28 01:04:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗開始向我們提供他們必須提供的東西。"
-    },
-    {
-      "id": "mkt:019e6a64-c9db-7223-8ed7-87ff4cc95f38",
-      "time": "2026-05-28 01:04:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Iranian media, Iran's president and Pakistan's prime minister exchanged views and held consultations on regional developments and ongoing diplomatic processes."
-    },
-    {
-      "id": "4903049",
-      "time": "2026-05-28 01:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我認為我們做得不錯。"
-    },
-    {
-      "id": "4903048",
-      "time": "2026-05-28 01:03:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：如果他們表現良好，我們會讓他們拿回他們的錢。"
-    },
-    {
-      "id": "mkt:019e6a64-2b34-7223-8ed7-79692d139725",
-      "time": "2026-05-28 01:03:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "TRUMP: Concerned about Russia obtaining Iran's stockpile of highly enriched uranium."
-    },
-    {
-      "id": "4903047",
-      "time": "2026-05-28 01:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗總統與巴基斯坦總理就地區局勢發展與當前外交程序交換意見、開展磋商。"
-    },
-    {
-      "id": "mkt:019e6a63-fc3a-7223-8ed7-7559ee1a6df4",
-      "time": "2026-05-28 01:03:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US President TRUMP said the United States will continue to control Iranian assets."
-    },
-    {
-      "id": "4903046",
-      "time": "2026-05-28 01:03:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不認可俄羅斯或其他國家接收伊朗的高濃鈾庫存。"
-    },
-    {
-      "id": "4903045",
-      "time": "2026-05-28 01:02:54",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣700億美元五年期國債，得標利率4.182%（5月11日），投標倍數2.34。"
-    },
-    {
-      "id": "4903044",
-      "time": "2026-05-28 01:02:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國5年期國債收益率下降4.182%，低於預售時的4.181%。"
-    },
-    {
-      "id": "mkt:019e6a63-90ec-7223-8ed7-6ac9d9f5dc9f",
-      "time": "2026-05-28 01:02:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TRUMP says he is not discussing easing sanctions on Iran."
-    },
-    {
-      "id": "mkt:019e6a63-1e6c-7223-8ed7-675e203313dc",
-      "time": "2026-05-28 01:02:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. 5-Year Bond Auction on May 27 — Stop-Out Yield 4.182%, prior 3.96%."
-    },
-    {
-      "id": "4903043",
-      "time": "2026-05-28 01:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：不談放鬆制裁。"
-    },
-    {
-      "id": "mkt:019e6a63-1c83-7223-8ed7-5c22adbd3dfe",
-      "time": "2026-05-28 01:02:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 5-year Bond auction as of May 27 — BID-COVER RATIO 2.34; prior 2.33."
-    },
-    {
-      "id": "mkt:019e6a63-17b2-7223-8ed7-56ccd6736ab6",
-      "time": "2026-05-28 01:02:15",
-      "tags": [
-        "MKT News",
-        "US10Y"
-      ],
-      "text": "U.S. 5-year Bond / Govt auction as of May 27 — share of allotment at the winning yield 75.22%, previous 61.04%."
-    },
-    {
-      "id": "mkt:019e6a62-da02-7223-8ed7-43cdf027b242",
-      "time": "2026-05-28 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (May.27) | actual 2.34 | previous 2.33"
-    },
-    {
-      "id": "mkt:019e6a62-da03-7223-8ed7-4c63d924c407",
-      "time": "2026-05-28 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction Accepted at High (May.27) | actual 75.22% | previous 61.04%"
-    },
-    {
-      "id": "mkt:019e6a62-d9ac-7223-8ed7-3b6972b9065b",
-      "time": "2026-05-28 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction High Yield Rate (May.27) | actual 4.182% | previous 3.96%"
-    },
-    {
-      "id": "4903042",
-      "time": "2026-05-28 01:01:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：汽油價格會像以前一樣下降。"
-    },
-    {
-      "id": "mkt:019e6a62-3c47-7223-8ed7-312c27507bdb",
-      "time": "2026-05-28 01:01:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: Gasoline prices will fall as they did before."
     }
   ]
 }
