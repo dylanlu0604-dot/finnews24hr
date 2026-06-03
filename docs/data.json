@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-04 00:56:50",
-  "count": 19161,
+  "updated": "2026-06-04 01:00:47",
+  "count": 19158,
   "items": [
+    {
+      "id": "4915828",
+      "time": "2026-06-04 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.05%，滬銅收跌0.95%，滬鋁收跌1.14%，滬鋅收跌0.59%，滬鉛收跌0.87%，滬鎳收跌1.94%，滬錫收跌0.68%。氧化鋁夜盤收跌0.07%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.89%。"
+    },
+    {
+      "id": "4915827",
+      "time": "2026-06-04 00:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據天空新聞阿拉伯頻道：黎巴嫩訊息人士表示，黎巴嫩和以色列在目前在美國舉行的本輪談判未取得實質性進展。本輪談判中不會宣佈黎巴嫩與以色列之間的聯合意向宣告。"
+    },
+    {
+      "id": "4915826",
+      "time": "2026-06-04 00:59:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大航空CEO： 目前公司沒有任何一架飛機因普惠 GTF 發動機故障停場。 待空客擬推出的加長版 A220 客機引數定稿後，公司將研判機型規格並評估其航程效能。"
+    },
+    {
+      "id": "mkt:019e8e6c-4bdf-7443-8fe0-5ed11cd27022",
+      "time": "2026-06-04 00:58:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News Arabia reports Lebanese sources say no joint intent statement between Lebanon and Israel will be announced in this round of talks."
+    },
+    {
+      "id": "4915825",
+      "time": "2026-06-04 00:58:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大航空CEO：空客 A321XLR 機型交付延期問題仍存在供應鏈體系阻滯。"
+    },
+    {
+      "id": "mkt:019e8e6b-92f3-7443-8fe0-56a51cd5c789",
+      "time": "2026-06-04 00:57:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's Cerrejon coal mine has resumed operations and its force majeure declaration has been lifted, a statement said."
+    },
+    {
+      "id": "mkt:019e8e6b-11cb-7443-8fe0-49838f93f38b",
+      "time": "2026-06-04 00:57:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Sky News Arabia, citing Lebanese sources, said the current US-hosted round of Lebanon-Israel talks has produced no substantive progress."
+    },
     {
       "id": "mkt:019e8e69-782f-7443-8fe0-4418e0a46910",
       "time": "2026-06-04 00:55:37",
@@ -176338,99 +176401,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP: Gasoline prices will fall as they did before."
-    },
-    {
-      "id": "mkt:019e6a61-ac3f-7223-8ed7-2c1fcf3a6c87",
-      "time": "2026-05-28 01:00:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President TRUMP: We will release vessels from the strait at an appropriate time. Control of the strait will no longer be held by anyone."
-    },
-    {
-      "id": "mkt:019e6a61-2c5f-7223-8ed7-278af2810651",
-      "time": "2026-05-28 01:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP said Oman must behave, otherwise we will have to take tough measures."
-    },
-    {
-      "id": "4903041",
-      "time": "2026-05-28 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.98%，滬銅收跌0.90%，滬鋁收跌1.24%，滬鋅收跌0.48%，滬鉛收跌0.81%，滬鎳收跌0.48%，滬錫收跌0.64%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.02%。不鏽鋼夜盤收漲0.23%。"
-    },
-    {
-      "id": "4903040",
-      "time": "2026-05-28 01:00:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示：我們會在恰當的時候放行霍爾木茲海峽的船隻。"
-    },
-    {
-      "id": "mkt:019e6a60-9f11-7223-8ed7-1c12f06bd4e9",
-      "time": "2026-05-28 00:59:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: Our relationship with Venezuela is very good."
-    },
-    {
-      "id": "mkt:019e6a60-6457-7223-8ed7-1388eef106bc",
-      "time": "2026-05-28 00:59:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President TRUMP said the Strait of Hormuz is international waters."
-    },
-    {
-      "id": "4903039",
-      "time": "2026-05-28 00:58:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沒人能控制霍爾木茲海峽，美國會監視它。"
-    },
-    {
-      "id": "4903038",
-      "time": "2026-05-28 00:58:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談霍爾木茲海峽控制權：這是談判的一部分。"
-    },
-    {
-      "id": "mkt:019e6a5f-7ee4-7223-8ed7-0f2d4e883253",
-      "time": "2026-05-28 00:58:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "TRUMP: The Strait of Hormuz will be open to all; no one will be able to control it. Iran must act like other countries."
-    },
-    {
-      "id": "4903037",
-      "time": "2026-05-28 00:57:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽應向所有國家開放，不會由任何一方管控。"
     }
   ]
 }
