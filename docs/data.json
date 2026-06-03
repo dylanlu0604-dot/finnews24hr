@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-03 14:16:33",
-  "count": 18495,
+  "updated": "2026-06-03 14:20:35",
+  "count": 18492,
   "items": [
+    {
+      "id": "mkt:019e8c21-8c0c-7ee2-b141-699a36a70f77",
+      "time": "2026-06-03 14:17:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of India clarified its gold holdings, saying physical gold stock remains unchanged at 880.52 tonnes as of now."
+    },
+    {
+      "id": "4914374",
+      "time": "2026-06-03 14:17:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行：黃金實物儲備仍維持在880.52噸不變。"
+    },
+    {
+      "id": "te:economy:556003",
+      "time": "2026-06-03 14:16:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Norway Current Account Surplus Narrows in Q1 — Norway’s current account posted a surplus of NOK 266.8 billion in the first quarter of 2026, narrowing from NOK 271.1 billion in the corresponding period of the previous year. The decline was largely driven by a larger deficit in the services account, which increased to NOK 13.78 billion from NOK 9 billion, while the goods account surplus contracted to NOK 239.9 billion from NOK 242.6 billion. At the same time, the shortfall in current transfers (secondary income) expanded to NOK 12 billion from NOK 11.5 billion. On the other hand, compensation of employees and investment income (primary income) increased to NOK 52.7 billion from NOK 49.1 billion a year earlier."
+    },
+    {
+      "id": "te:economy:556002",
+      "time": "2026-06-03 14:16:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Romanian Jobless Rate Edges Down to 6.3% — Romania’s seasonally adjusted unemployment rate eased to 6.3% from an upwardly revised 6.5% in the previous month. The number of unemployed persons decreased by 21.7 thousand month-on-month, while it increased by 10.2 thousand year-on-year, reaching 512.1 thousand. By gender, the unemployment rate for men stood at 6.2%, while it edged down for women to 6.3% from 6.9% in the previous month. Among individuals aged 25-74, the seasonally adjusted unemployment rate eased to 4.9% from 5.1%, with 4.8% for men and 5.0% for women, accounting for 73.3% of total unemployed in April. Meanwhile, the rate of unemployment in April 2025 was 6.1%, lower than the latest reading."
+    },
+    {
+      "id": "mkt:019e8c20-6a42-7ee2-b141-64a4e8bb266f",
+      "time": "2026-06-03 14:16:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Israel Defense Forces issued evacuation warnings to residents of multiple towns and villages in Lebanon."
+    },
     {
       "id": "4914373",
       "time": "2026-06-03 14:15:34",
@@ -169738,77 +169792,6 @@
         "Impact bearish"
       ],
       "text": "Australia S&P/ASX200 up 43.50 pts, +0.50% to 8,701.30 at close on May 27 (Wed)"
-    },
-    {
-      "id": "mkt:019e6816-69de-700e-adbd-9956b85c3974",
-      "time": "2026-05-27 14:19:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot silver down 2.00% intraday at $75.38/oz; spot gold down 0.39% intraday at $4,490/oz"
-    },
-    {
-      "id": "4901791",
-      "time": "2026-05-27 14:18:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報75.37美元/盎司。"
-    },
-    {
-      "id": "4901790",
-      "time": "2026-05-27 14:18:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4520美元/盎司，日內跌0.34%。"
-    },
-    {
-      "id": "4901789",
-      "time": "2026-05-27 14:18:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4490美元/盎司，日內跌0.39%。"
-    },
-    {
-      "id": "4901788",
-      "time": "2026-05-27 14:18:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報75.81美元/盎司。"
-    },
-    {
-      "id": "4901787",
-      "time": "2026-05-27 14:17:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葡萄牙破獲一大型非法移民網路】葡萄牙警方26日通報，他們破獲了一個涉嫌幫助約4000名非法移民獲得合法身份的犯罪團伙，並逮捕了兩名主謀嫌疑人。據路透社報道，葡萄牙警方25日在該國首都里斯本郊區開展代號為“奇蹟之地”的執法行動，著力打擊一個從事非法移民、偽造檔案、網路詐騙和洗錢活動的犯罪團伙。近年來，該團伙透過為約4000名非法移民辦理合法身份而獲暴利。（新華社）"
-    },
-    {
-      "id": "4901786",
-      "time": "2026-05-27 14:16:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源公司（TOTALENERGIES SE）承諾：若國際油價出現下行利好走勢，公司將即刻把柴油與汽油價格的降幅完全傳導至終端。"
-    },
-    {
-      "id": "4901785",
-      "time": "2026-05-27 14:16:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報告：全球能源供需正常化需要半年以上】中國石油集團經濟技術研究院在倫敦釋出的報告指出，專家表示全球能源市場恢復正常至少需半年。即使美伊就霍爾木茲海峽達成協議，油氣供應鏈重啟仍需6至12個月。標普全球能源公司總裁稱，即便最佳情況下，油價也將在半年內維持高位。專家指出地緣衝突導致生產中斷，設施修復需時。此外，當前危機改變了能源安全討論，可能加速可再生能源投資和需求側轉型，中國將在這一過程中發揮重要作用。（新華社）"
     }
   ]
 }
