@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-04 07:26:56",
-  "count": 19233,
+  "updated": "2026-06-04 07:30:43",
+  "count": 19241,
   "items": [
+    {
+      "id": "te:markets:556269",
+      "time": "2026-06-04 07:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Eases as Markets Assess US-Iran Tensions — Brent crude futures fell toward $97 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels."
+    },
+    {
+      "id": "4916141",
+      "time": "2026-06-04 07:30:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【科威特遇襲後澳大利亞股市料將下跌】在伊朗與美國發生衝突並對科威特機場發動無人機襲擊之後，澳大利亞股市開盤料將下跌。週四開盤前，ASX期貨下跌近0.9%，意味著S&P/ASX 200指數將追隨美國股指的走勢。道瓊斯指數下跌1.2%，標普500指數下跌0.7%，納斯達克綜合指數下跌0.9%。在ASX開盤前，富邑葡萄酒集團表示將整合其加州業務，剝離部分酒莊，作為削減1億澳元成本和重新平衡供應舉措的一部分。"
+    },
+    {
+      "id": "mkt:019e8fd2-5d58-7443-8fe5-ef013154ee55",
+      "time": "2026-06-04 07:29:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Gold ETFs see over CNY10bn net outflows in past month】Gold has traded choppily and investor uncertainty has reduced gold ETF assets. As of June 3, 14 gold ETFs posted combined net outflows exceeding CNY10bn over the past month. The previously common \"buy-the-dip\" view is splintering amid the volatility. Market contacts expect short-term price oscillation to persist, but say the core medium-to-long-term case for holding gold remains intact."
+    },
+    {
+      "id": "te:markets:556268",
+      "time": "2026-06-04 07:29:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Eases as Markets Assess US-Iran Tensions — WTI crude futures fell toward $95 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels."
+    },
+    {
+      "id": "te:economy:556267",
+      "time": "2026-06-04 07:28:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Retail Sales YoY",
+        "Importance 0"
+      ],
+      "text": "Russia Retail Sales Growth Hits 6-Month High — Retail sales in Russia rose by 6.5% year-on-year in April 2026, up from a 6.2% increase in March and marking the strongest growth since last October. Growth continued to be driven by non-food goods, whose sales jumped 9.2% annually in April, accelerating slightly from 9.0% in March. Sales of food products, beverages, and tobacco also strengthened, rising 3.6% after a 3.2% gain in the previous month. On a monthly basis, retail turnover eased 2.2% following a revised 14.9% surge in March. In the first four months of the year, cumulative retail sales climbed 4.3% from a year earlier."
+    },
+    {
+      "id": "4916140",
+      "time": "2026-06-04 07:28:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：模擬IC大廠集中開啟新一輪漲價】中信建投研報指出，模擬IC板塊正處於從“庫存週期修復”向“需求修復+價格反彈+結構升級”切換的關鍵視窗。海外龍頭的密集提價不僅為行業開啟了價格空間，也有效緩解了國內廠商此前因低價競爭帶來的盈利壓力，推動行業毛利率水平企穩回升。對於產業鏈而言，具備AI伺服器電源、高階光模組等產品佈局的國產模擬廠商將率先享受這一波“推理紅利”帶來的盈利彈性。未來幾個季度，隨著AI基建支出持續放量，掌握高效能、低延遲模擬技術的領軍企業，將在這一輪由AI定義的產業重塑中持續佔據競爭優勢。"
+    },
+    {
+      "id": "4916139",
+      "time": "2026-06-04 07:28:25",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：國產燃機出海趨勢明確，人形機器人是物理AI最好載體】中信建投研報指出，機器人是AI應用的重要方向，板塊波動聚焦優質環節。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，未來將有數十億個自主系統和機器人系統在物理世界中執行。近期機器人板塊有所調整，判斷主要系資金情緒面波動，但物理AI敘事是切實推進的產業趨勢，值得高度重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，板塊催化不斷，聚焦優質環節。"
+    },
+    {
+      "id": "4916137",
+      "time": "2026-06-04 07:27:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金ETF近一個月資金淨流出超百億元】近期，黃金價格持續震盪。受行情不確定性擾動，黃金ETF規模整體出現縮水，部分產品資金淨流出明顯。截至6月3日記者發稿時，14只黃金ETF近一個月資金淨流出超100億元。 此前廣受投資者認可的“金價回落、逢低加倉”觀點，在震盪行情下開始出現分歧。當前黃金是否還有配置價值？在受訪人士看來，短期金價震盪格局或將延續，但從中長期維度來看，支撐黃金配置價值的核心邏輯並未發生改變。（證券日報）"
+    },
+    {
+      "id": "4916136",
+      "time": "2026-06-04 07:26:42",
+      "tags": [
+        "資料"
+      ],
+      "text": "【業內人士預計：5月份PPI有望繼續回升】專家普遍認為，5月份季節性效應延續，CPI總體較4月份小幅回落，但同比繼續復甦；工業方面，在基數優勢疊加輸入性通脹傳導下，PPI同比有望延續回升態勢。（證券日報）"
+    },
+    {
+      "id": "mkt:019e8fcf-66b5-7443-8fe5-e3da12899078",
+      "time": "2026-06-04 07:26:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSC Financial: Bond rally to slow; 10Y China government bond to consolidate near 1.70%】CSC Financial says May mostly traded rangebound and strengthened at month-end amid faster US–Iran de‑escalation, easing imported inflation expectations, widened monetary policy space and equity market corrections that shifted funds into bonds. It expects the pace of further bond gains to slow; near term the 10Y China government bond yield should consolidate around 1.70%, and any further drop would need fresh supporting information. Watch upcoming May economic releases—if data continue to weaken the 10Y could test the 1.65%–1.70% range."
+    },
     {
       "id": "4916135",
       "time": "2026-06-04 07:25:25",
@@ -177134,23 +177232,6 @@
         "國際"
       ],
       "text": "【日本擬發行過渡債券為投資計劃募資】據日經新聞週四報道，日本計劃發行過渡債券，為政府重點專案提供資金，相關專案旨在加大對增長領域與經濟安全領域的投資。過渡債券用於彌補短期資金缺口，發行時會明確約定具體償債來源並提供相應保障。報道未援引訊息人士，稱執政黨自民黨將於週四向政府提交相關提案，發行過渡債券的構想便包含其中。報道還表示，日本政府計劃將該發債方案納入定於7月出爐的中期財政規劃。日本首相辦公室暫未就此置評。"
-    },
-    {
-      "id": "4903304",
-      "time": "2026-05-28 07:29:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【LOF炒作情緒升溫 2只基金連續漲停】5月27日，市場多數股票調整，高景氣賽道降溫，防禦性與低估值板塊相對錶現較好，酒、煤炭、電力相關ETF逆勢上行。值得關注的是，多隻LOF大漲，財通福鑫定開混合、財通福享混合LOF漲停，這兩隻LOF分別已連續四個、三個交易日漲停，其中，財通福享混合LOF低開高走，溢價率高企。從資金流向來看，5月26日資金繼續淨流出寬基指數ETF，但淨流出規模有所下降。此外，資金大舉追捧半導體及晶片ETF，相關產品合計淨流入逾70億元。（中國證券報）"
-    },
-    {
-      "id": "4903303",
-      "time": "2026-05-28 07:28:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波音徵詢FAA意見後將提高737月產量】波音執行長奧特伯格(Kelly Ortberg)週三表示，在與美國聯邦航空管理局(FAA)協商後，波音將把737系列飛機的月產量從42架提升至47架。奧特伯格在伯恩斯坦年度戰略決策會議上表示：“我們已開始按每月47架的速度推進，應該能夠在未來幾個月達到這個水平。”在華盛頓州埃弗雷特市(Everett)開通第四條737生產線後，波音計劃於明年年初將月產量提升至52架。“我認為全世界都在關注，確保我們能實現每月47架和52架的生產目標，”奧特伯格表示。"
     }
   ]
 }
