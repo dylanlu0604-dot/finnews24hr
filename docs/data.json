@@ -1,7 +1,233 @@
 {
-  "updated": "2026-06-03 09:35:47",
-  "count": 18491,
+  "updated": "2026-06-03 09:39:49",
+  "count": 18499,
   "items": [
+    {
+      "id": "mkt:019e8b22-772f-7ee2-b13b-a435b442ca31",
+      "time": "2026-06-03 09:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuba rebuts US sanctions designation of Cuban Enterprise Management Group】The Cuban government on the 2nd rejected US sanctions and allegations against the Cuban Enterprise Management Group, saying the company exists to promote Cuba’s economic and social development. Cuba said the US executive order published May 1 designated the group and threatens secondary sanctions on foreign entities that do business with it, calling the measure the most intense, disproportionate and dangerous escalation in recent bilateral relations aimed at isolating Cuba across diplomatic, commercial, financial and energy sectors and creating a pretext for possible military intervention."
+    },
+    {
+      "id": "4913964",
+      "time": "2026-06-03 09:39:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【古巴駁斥美國對古巴企業管理集團公司指控】古巴政府2日發表宣告，駁斥美國對古巴企業管理集團公司的制裁和指控，強調這家公司旨在促進古巴經濟和社會發展。宣告說，美國5月1日公佈的行政令將古巴企業管理集團公司列為制裁目標，並宣佈對與該公司有業務往來的外國實體實施次級制裁。美方行政令是近期“美古關係最激烈、最不成比例和最危險的升級”，目的是從外交、商業、金融和能源領域全面孤立古巴，併為可能的軍事幹預製造藉口。（新華社）"
+    },
+    {
+      "id": "4913963",
+      "time": "2026-06-03 09:38:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府朝鮮半島事務特別代表劉曉明同俄羅斯副外長魯登科舉行磋商】2026年6月1日，中國政府朝鮮半島事務特別代表劉曉明在莫斯科同俄羅斯副外長魯登科舉行磋商，雙方就東北亞和朝鮮半島局勢深入交換意見。雙方一致認為，維護東北亞和朝鮮半島和平穩定符合地區國家共同利益和國際社會共同期待，中俄雙方將繼續加強溝通協調，為維護東北亞地區長治久安發揮建設性作用。（外交部）"
+    },
+    {
+      "id": "mkt:019e8b21-6312-7ee2-b13b-9b9a99047bac",
+      "time": "2026-06-03 09:37:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share semiconductor sector rallied: Yutai Micro up >15%, Youxun and Shengke Communication up >10%, Kangqiang Electronics hit the daily trading limit; Diao Micro, Yangjie Technology and Maxscend among top gainers."
+    },
+    {
+      "id": "4913962",
+      "time": "2026-06-03 09:37:57",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【標普全球香港5月PMI升至50.4，重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。企業5月新出口訂單有實質增長，且擴張速度加快，受新產品上市帶動；但競爭激烈加上本地需求較弱，整體銷情受壓。企業營運成本壓力仍大，採購價格升幅創4年半最高，燃油相關產品升幅更大。有受訪公司為刺激銷量推出減價優惠，產出售價整體升幅比4月收窄。員工成本溫和上升，增幅為3月以來最小。"
+    },
+    {
+      "id": "mkt:019e8b21-01d3-7ee2-b13b-934af1f31ef6",
+      "time": "2026-06-03 09:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENTCOM says it shot down Iranian drones targeting U.S. forces in Kuwait】CENTCOM said on social media on June 3 that Iran launched a new wave of drone attacks attempting to strike U.S. forces in Kuwait but failed to hit intended targets. CENTCOM air defenses shot down multiple drones, and U.S. personnel and equipment were reported unharmed."
+    },
+    {
+      "id": "em:jjsj_zgsj:202606033758475477",
+      "time": "2026-06-03 09:37:30",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【標普全球香港5月PMI升至50.4 重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。"
+    },
+    {
+      "id": "4913961",
+      "time": "2026-06-03 09:37:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ST海王盤中跌停，上演“天地板”，現報1.76元，成交額1.09億元。"
+    },
+    {
+      "id": "4913960",
+      "time": "2026-06-03 09:37:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊走強 裕太微漲超15%】半導體板塊走強，裕太微漲超15%，優迅股份、盛科通訊漲超10%，康強電子漲停，帝奧微、揚傑科技、卓勝微漲幅居前。"
+    },
+    {
+      "id": "4913959",
+      "time": "2026-06-03 09:37:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST聞泰盤中跌停，上演“天地板”，現報21.65元，成交額7.69億元。"
+    },
+    {
+      "id": "4913958",
+      "time": "2026-06-03 09:37:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念盤初活躍 康強電子漲停】早盤先進封裝概念活躍，康強電子漲停，通富微電逼近漲停，晶方科技、士蘭微、華潤微、長電科技、雅克科技跟漲。"
+    },
+    {
+      "id": "mkt:019e8b20-6db7-7ee2-b13b-8f6b04dcfc12",
+      "time": "2026-06-03 09:36:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share glass-substrate names continued to rally; Hongxing Development notched five daily limit-ups in seven sessions, TCL Technology briefly neared the daily limit, and Meidike, Hongli Zhihui, BOE A and Woge Optoelectronics also advanced."
+    },
+    {
+      "id": "4913957",
+      "time": "2026-06-03 09:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱擊落伊朗襲科威特美軍無人機】美軍中央司令部今天（6月3日）在社交媒體平臺最新發帖稱，“伊朗發動新一輪無人機襲擊，試圖攻擊駐科威特美軍，但未能命中預定目標。美國中央司令部防空系統成功擊落多架無人機，確保美方人員及裝備均未受損。”"
+    },
+    {
+      "id": "mkt:019e8b20-2cd3-7ee2-b13b-835ba15a1a52",
+      "time": "2026-06-03 09:36:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext index rose as much as 1% intraday, the Shenzhen Composite Index gained 0.5% and the Shanghai Composite Index was down 0.2%."
+    },
+    {
+      "id": "4913956",
+      "time": "2026-06-03 09:36:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ST洲際盤中跌停，上演“天地板”，現報2.9元，成交額2.91億元。"
+    },
+    {
+      "id": "4913955",
+      "time": "2026-06-03 09:36:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4913954",
+      "time": "2026-06-03 09:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "玻璃基板概念反覆走強，紅星發展走出7天5板，TCL科技一度逼近漲停，美迪凱、鴻利智匯、京東方A、沃格光電跟漲。"
+    },
+    {
+      "id": "4913953",
+      "time": "2026-06-03 09:36:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.03%，現報4097.609點；上證指數跌0.21%，現報4066.465點；深證成指漲0.39%，現報15651.754點。"
+    },
+    {
+      "id": "mkt:019e8b1f-a607-7ee2-b13b-7fd38387d00a",
+      "time": "2026-06-03 09:36:05",
+      "tags": [
+        "MKT News",
+        "000802.SZ",
+        "Impact bearish",
+        "002292.SZ"
+      ],
+      "text": "China A-share film and cinema chain sector slid; Beijing Culture hit its daily limit down, while Bona Film, Baina Qiancheng, China Film, Shanghai Film and Aofei Entertainment declined."
+    },
+    {
+      "id": "4913952",
+      "time": "2026-06-03 09:35:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊下挫，北京文化跌停】影視院線板塊下挫，北京文化跌停，博納影業、百納千成、中國電影、上海電影、奧飛娛樂跟跌。"
+    },
+    {
+      "id": "4913951",
+      "time": "2026-06-03 09:35:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股光通訊股盤初全線走強，曦智科技漲超10%，長飛光纖光纜漲超6%，劍橋科技漲超5%，FIT HON TENG漲超3%。"
+    },
+    {
+      "id": "mkt:019e8b1e-ed8a-7ee2-b13b-753ea0b2342e",
+      "time": "2026-06-03 09:35:18",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Shenzhen state funds direct over 90% into \"20+8\" strategic and future industries】Shenzhen has built a full‑lifecycle state capital fund system with over 500 funds; more than 90% of allocations target the \"20+8\" strategic emerging and future industries. As of last year there were about 1,500 private equity and venture managers in the city managing CNY1.4 tln of funds, roughly 10% of the national total. By end‑Q1 state capital funds dedicated to early‑stage projects exceeded CNY70 bln, reflecting a focus on earlier, smaller, longer‑term and hard‑tech investments. The Shenzhen government guidance fund managed by Shenzhen Capital Group has invested in 3,500+ projects, helped 408 portfolio firms list across capital markets, and about 1,000 invested companies have been designated national \"specialized, refined, differentiated and innovative\" small‑giant enterprises."
+    },
+    {
+      "id": "mkt:019e8b1e-ab2d-7ee2-b13b-6bb6133f074d",
+      "time": "2026-06-03 09:35:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China's May RatingDog services PMI due in 10 minutes."
+    },
+    {
+      "id": "4913950",
+      "time": "2026-06-03 09:34:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光纖概念延續強勢 亨通光電2連板】光纖概念延續強勢，亨通光電2連板，股價續創歷史新高，永鼎股份、長飛光纖、法爾勝跟漲。"
+    },
     {
       "id": "mkt:019e8b1d-bfa9-7ee2-b13b-60539db1d2a0",
       "time": "2026-06-03 09:34:02",
@@ -169401,152 +169627,6 @@
         "公司"
       ],
       "text": "【冠中生態與四川省生態發展集團達成戰略合作意向】據冠中生態訊息，5月22日，四川省生態發展集團正式揭牌成立。儀式現場，冠中生態與四川省生態發展集團達成戰略合作意向，願攜手助力四川生態保護修復與綠色高質量發展。"
-    },
-    {
-      "id": "4901317",
-      "time": "2026-05-27 09:39:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "小米港股上漲3%。"
-    },
-    {
-      "id": "4901316",
-      "time": "2026-05-27 09:39:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：1—4月份新興產業快速發展 帶動鋁、銅、金、鋰等有色金屬需求大幅增長】國家統計局工業司首席統計師於衛寧解讀2026年1—4月份工業企業利潤資料時表示，原材料製造業利潤繼續加快。1—4月份，規模以上原材料製造業利潤同比增長88.1%，較1—3月份加快10.2個百分點，拉動全部規模以上工業企業利潤增長10.3個百分點。從行業看，國際原油價格上行帶動相關產業鏈條產品價格上漲，石油加工行業同比扭虧為盈，實現利潤總額404.2億元，化工行業利潤增長73.4%，較1—3月份加快18.9個百分點；新能源、人工智慧、新一代資訊科技等新興產業快速發展，帶動鋁、銅、金、鋰等有色金屬需求大幅增長，推動有色行業利潤增長117.8%，加快1.1個百分點。"
-    },
-    {
-      "id": "4901315",
-      "time": "2026-05-27 09:38:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量225億元。"
-    },
-    {
-      "id": "mkt:019e6715-841e-700b-904a-dd3711a7c6ad",
-      "time": "2026-05-27 09:38:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia S&P/ASX 200 Up 0.1% To 8,663.20 After Apr Inf Print"
-    },
-    {
-      "id": "4901314",
-      "time": "2026-05-27 09:38:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿維塔：已籌備重新遞交招股書 IPO程序不受影響】針對公司於2025年11月27日遞交的港股招股書因滿6個月進入失效狀態，阿維塔科技相關人士今日透露，此次失效為IPO過程中常見技術性流程，公司正根據要求更新招股書，將盡快重新遞交，整體上市推進節奏不受影響。"
-    },
-    {
-      "id": "4901313",
-      "time": "2026-05-27 09:37:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲能概念盤初活躍 固德威、首航新能雙雙漲超10%】早盤儲能概念活躍，固德威、首航新能漲超10%，錦浪科技、德業股份、陽光電源、艾羅能源跟漲。"
-    },
-    {
-      "id": "4901312",
-      "time": "2026-05-27 09:36:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【節能風電等成立儲能科技新公司】企查查APP顯示，近日，中節能（懷安）儲能科技有限公司成立，經營範圍包含：風力發電技術服務；發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由節能風電等共同持股。"
-    },
-    {
-      "id": "mkt:019e6713-af7e-700b-904a-d238a873a52d",
-      "time": "2026-05-27 09:36:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Money-Management 7-Day Yields】Tencent Licaitong (Huoqi+) 7-Day Annualized Yield: High 2760%, Low 0.8060%; WeChat Lingqian Tong 7-Day Annualized Yield: High 1.0390%, Low 0.0020%; Alipay Yu'e Bao 7-Day Annualized Yield: High 1.0420%, Low 1.0000%"
-    },
-    {
-      "id": "4901311",
-      "time": "2026-05-27 09:36:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/ASX 200指數在4月通脹資料公佈後上漲0.1%，報8663.20點。"
-    },
-    {
-      "id": "4901310",
-      "time": "2026-05-27 09:36:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4997.580點；恒生指數現漲0.076%。"
-    },
-    {
-      "id": "4901309",
-      "time": "2026-05-27 09:36:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【培育鑽石板塊盤初下挫，恆林股份、博雲新材觸及跌停】培育鑽石板塊盤初下挫，恆林股份、博雲新材觸及跌停，惠豐鑽石、力量鑽石、四方達、沃爾德、國機精工跟跌。"
-    },
-    {
-      "id": "mkt:019e6713-2165-700b-904a-cf836c3306b1",
-      "time": "2026-05-27 09:36:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "CHINA APRIL INDUSTRIAL PROFITS GROWTH FOR MAJOR FIRMS POSTS FASTEST PACE SINCE NOVEMBER 2023"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605273750602692",
-      "time": "2026-05-27 09:36:04",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—4月份規模以上原材料製造業利潤同比增長88.1%】國家統計局資料顯示，1—4月份，規模以上原材料製造業利潤同比增長88.1%，較1—3月份加快10.2個百分點，拉動全部規模以上工業企業利潤增長10.3個百分點。"
-    },
-    {
-      "id": "4901308",
-      "time": "2026-05-27 09:36:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光伏板塊集體走強，TCL中環漲停，帝爾鐳射、固德威、首航新能漲超10%，陽光電源、德業股份、艾羅能源跟漲。"
-    },
-    {
-      "id": "4901307",
-      "time": "2026-05-27 09:35:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州“十五五”規劃綱要：全力推進微短劇出海 打造“微短劇創作之都”】鄭州市國民經濟和社會發展第十五個五年規劃綱要釋出，其中提到，推進文化和科技融合，培育文化產業新業態、新應用、新載體。推動“文創+”跨界融合，大力支援文創潮牌和標杆企業發展，創新文創產品開發，以CCD為重點帶動中心城區文創科創一體發展。著力培育壯大網路遊戲、網路表演、數字動漫等新業態，推動微短劇鏈式叢集發展，建設網路視聽產業園，全力推進微短劇出海，叫響鄭州“豎店”品牌，打造“微短劇創作之都”。實施文旅精英集聚計劃，支援企業設立技能大師工作與實訓基地，健全從業人員常態化培訓體系，培育形成規模可觀、結構合理、銳意創新的高水平文旅人才隊伍。深化文化體制機制改革，完善文化管理體制和生產經營機制，探索文化領域行政審批制度改革，完善國有文化資本監管體制機制，支援民營文化企業發展。"
-    },
-    {
-      "id": "mkt:019e6712-f46b-700b-904a-c5f6f0374759",
-      "time": "2026-05-27 09:35:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics Shares Jump 7.2%"
     }
   ]
 }
