@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-03 21:21:04",
-  "count": 18921,
+  "updated": "2026-06-03 21:25:08",
+  "count": 18926,
   "items": [
+    {
+      "id": "4915478",
+      "time": "2026-06-03 21:24:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永冠新材：擬向特定物件發行股票募資不超9.27億元 將用於玻璃纖維布建設專案等】永冠新材公告，公司擬向特定物件發行股票募集資金總額不超過9.27億元（含本數），扣除發行費用後將全部用於年產2000噸電子級玻璃纖維布建設專案、年產16500噸線束膠帶建設專案、智慧製造數智化技術升級專案和補充流動資金。"
+    },
+    {
+      "id": "4915477",
+      "time": "2026-06-03 21:23:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內發債規模超9000億元，券商借低利率視窗集體“補血”】2026年以來，券商“補血”融資節奏明顯加快，僅1月，券商發債規模超2480億元，同比增幅近230%。Wind資料顯示，截至5月29日，按發行起始日計，2026年以來券商累計發行各類債券逾430只，發行總規模超9000億元，較去年同期增長約80%。"
+    },
+    {
+      "id": "mkt:019e8da7-3974-7ccb-b65a-9ff6e860ee5e",
+      "time": "2026-06-03 21:23:27",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor Co (F.N) said US electric vehicle sales in May were 22,912 units, down 22.2%, while total US vehicle sales in May fell 13.6%."
+    },
+    {
+      "id": "4915476",
+      "time": "2026-06-03 21:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特美國 5 月整車銷量同比下滑 13.6%。"
+    },
+    {
+      "id": "te:economy:556179",
+      "time": "2026-06-03 21:22:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Private Sectors Returns to Contraction — The S&P Global Composite PMI for Brazil fell to 49.5 in May 2026 from 52.4 in April, indicating a renewed contraction after a solid expansion in the previous month. The downturn was driven by a sharp decline in manufacturing, while services activity growth slowed markedly to near stagnation. A moderate drop in total new orders constrained job creation, with employment growth easing to its weakest pace over the current four-month expansion period. Meanwhile, cost pressures were among the highest in four years, largely concentrated in manufacturing. Likewise, charge inflation stood at its second-highest level since July 2022."
+    },
+    {
+      "id": "te:markets:556178",
+      "time": "2026-06-03 21:21:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Prices Down 1% — Silver prices fell about 1% to around $74 per ounce on Wednesday, approaching a two-week low, as expectations grew that central banks may need to adopt a more hawkish stance and keep interest rates higher for longer. Sentiment was also weighed by continued uncertainty over a US-Iran agreement to end the conflict. At the same time, oil prices extended their gains, further stoking concerns about inflationary pressures. In the US, recent labor market data point to an acceleration in employment growth, consistent with earlier ADP and JOLTS reports. As a result, markets now ECB is expected to raise borrowing costs next week, with traders also pricing in another 25-basis-point hike in September."
+    },
+    {
+      "id": "mkt:019e8da5-990f-7ccb-b65a-9142078472c1",
+      "time": "2026-06-03 21:21:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran state media: Strait of Hormuz management draft enters Supreme National Security Council review】State media reported on the 3rd that a draft on managing the Strait of Hormuz has entered review at Iran’s Supreme National Security Council and, after final opinions are formed, will be submitted to parliament for a plenary vote. The draft has been under development for some time; several parliamentary committees — National Security and Foreign Policy, Construction, and Interior Affairs — and some MPs submitted different versions that were coordinated and consolidated into a single text."
+    },
+    {
+      "id": "4915475",
+      "time": "2026-06-03 21:21:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗媒體稱霍爾木茲海峽管理草案進入審議階段】據伊朗邁赫爾通訊社3日報道，有關霍爾木茲海峽管理的草案目前已進入伊朗最高國家安全委員會審議階段，待最終意見形成後將提交議會全體會議審議表決。報道說，圍繞該草案的制定工作已持續一段時間。伊朗議會多個專門委員會參與了該草案相關研究和論證工作，包括國家安全與外交政策委員會、建設委員會、內政事務委員會等。報道說，上述委員會及部分議員此前分別就草案提出不同版本的建議和方案，經過協調和整合後，已形成統一文字。（新華社）"
+    },
+    {
+      "id": "4915474",
+      "time": "2026-06-03 21:20:49",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：CPI 回落將降低加息可能性 。"
+    },
     {
       "id": "4915473",
       "time": "2026-06-03 21:19:18",
@@ -173888,40 +173976,6 @@
         "觀點"
       ],
       "text": "摩根大通執行長戴蒙談信貸展望：預計不會出現系統性風險，但當前環境若出現一定壓力，情況可能會比預期更糟糕。"
-    },
-    {
-      "id": "4902737",
-      "time": "2026-05-27 21:24:53",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙談及信貸前景時表示，可能存在一定再融資風險。"
-    },
-    {
-      "id": "4902736",
-      "time": "2026-05-27 21:22:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：國際貨幣基金組織將於 6 月 9 日抵達馬拉維，就貸款機制展開磋商。"
-    },
-    {
-      "id": "4902735",
-      "time": "2026-05-27 21:21:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列對加沙北部傑巴利耶難民營一處巴勒斯坦平民聚集地發動空襲，已造成多人傷亡。"
-    },
-    {
-      "id": "4902734",
-      "time": "2026-05-27 21:21:38",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙：全年開支可能將達到1060億美元，此前預測約為1050億美元。"
     }
   ]
 }
