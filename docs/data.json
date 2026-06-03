@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-03 21:25:08",
-  "count": 18926,
+  "updated": "2026-06-03 21:29:18",
+  "count": 18928,
   "items": [
+    {
+      "id": "4915485",
+      "time": "2026-06-03 21:27:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞銀將巴西評級下調至中性後，巴西市場指數（MRV）下跌6.2%。"
+    },
+    {
+      "id": "4915484",
+      "time": "2026-06-03 21:27:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊將維多利亞的秘密公司（DJ Victorias Secret & Co.）普通股目標股價從每股67.00美元上調至108.00美元。"
+    },
+    {
+      "id": "mkt:019e8daa-cf06-7ccb-b65a-bf18880287ff",
+      "time": "2026-06-03 21:27:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reported the Kremlin called former German chancellor Schroder's visit to Russia positive."
+    },
+    {
+      "id": "mkt:019e8daa-8347-7ccb-b65a-b651f769a91f",
+      "time": "2026-06-03 21:27:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian deputy foreign minister says Russia may use nuclear weapons if territorial integrity is violated】Deputy Foreign Minister Ryabkov told media at the St. Petersburg International Economic Forum on the 3rd that extreme scenarios for possible Russian nuclear use are spelled out in military doctrine and core nuclear deterrence policy. He said that if Russia’s territorial integrity is deliberately violated, Moscow reserves the option to respond with nuclear weapons — including, in the worst case, against adversaries that do not possess nuclear arms."
+    },
+    {
+      "id": "4915483",
+      "time": "2026-06-03 21:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：德國前總理施羅德對俄羅斯的訪問具有積極意義。"
+    },
+    {
+      "id": "4915482",
+      "time": "2026-06-03 21:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：由於伊朗戰爭的影響，迦納將增加40%的外匯出售用於石油進口。"
+    },
+    {
+      "id": "mkt:019e8da9-c68a-7ccb-b65a-af9ef64d422d",
+      "time": "2026-06-03 21:26:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ghana will increase foreign-exchange sales by 40% to fund oil imports amid disruptions from the Iran conflict."
+    },
+    {
+      "id": "4915481",
+      "time": "2026-06-03 21:25:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄副外長：若領土完整遭侵犯 俄保留以核武器回擊可能性】當地時間3日，俄羅斯外交部副部長里亞布科夫表示，若出現侵害俄領土完整的行為，俄方保留以核手段進行回應的可能性。里亞布科夫在聖彼得堡國際經濟論壇上向媒體表示，關於俄羅斯可能使用核武器的極端情勢在軍事學說和核威懾國家基本政策中已做詳細描述。如果俄羅斯的領土完整遭到侵略者的蓄意侵犯，即便對方並不擁有核武器，在最壞情況下俄方可以使用核武器進行回擊。（央視新聞）"
+    },
+    {
+      "id": "4915479",
+      "time": "2026-06-03 21:24:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海合會秘書長譴責針對巴林和科威特的襲擊】海灣阿拉伯國家合作委員會（海合會）秘書長布達維3日發表宣告，譴責伊朗針對巴林和科威特的襲擊，稱相關襲擊針對民用設施、基礎設施以及外交機構，是“危險且前所未有的升級行為”。（新華社）"
+    },
+    {
+      "id": "mkt:019e8da8-8ad3-7ccb-b65a-a52d503d9fb5",
+      "time": "2026-06-03 21:24:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Uniper's Middle East CEO said prolonged LNG supply interruptions from heightened Middle East tensions, combined with Asian heat and EU gas-storage obligations, could push natural gas prices to unprecedented highs."
+    },
     {
       "id": "4915478",
       "time": "2026-06-03 21:24:18",
@@ -173895,87 +173990,6 @@
         "焦點"
       ],
       "text": "紐約期金回落至4400美元/盎司下方，日內跌2.28%。"
-    },
-    {
-      "id": "mkt:019e699f-c054-7223-8ed3-b3137e889595",
-      "time": "2026-05-27 21:28:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures fall below USD4400/oz; down 2.28% intraday."
-    },
-    {
-      "id": "4902741",
-      "time": "2026-05-27 21:27:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉林省委副書記、省長鬍玉亭調研算力裝備製造專案】5月27日，吉林省委副書記、省長鬍玉亭就新質生產力培育工作，到長春致遠新能源裝備股份有限公司調研。胡玉亭與企業負責人、技術人員深入座談，研究討論產業專案發展規劃、產品定位、技術優勢、應用前景。胡玉亭強調，省市有關方面要以更大力度、更實舉措支援企業發展，最佳化營商環境、創新合作模式，發揮好政府投入引領撬動作用，助力企業拓展產品應用場景，提高算力中心運營效能。要堅持“為企業服務就是為發展賦能”理念，強化綠電等要素保障，加大金融支援力度，完善產業配套，最佳化產業生態，用心用情幫助企業成長壯大、推動專案落地投產，培育振興發展新的增長極。（吉林釋出）"
-    },
-    {
-      "id": "mkt:019e699e-0201-7223-8ed3-ac02ff750f51",
-      "time": "2026-05-27 21:27:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO secretary-general RUTTE to meet Hungarian prime minister magyar in Brussels on Thursday"
-    },
-    {
-      "id": "4902740",
-      "time": "2026-05-27 21:26:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特將於週四在布魯塞爾會見匈牙利總理毛焦爾。"
-    },
-    {
-      "id": "te:markets:554112",
-      "time": "2026-05-27 21:26:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Prices Fall Nearly 2% — Gold prices fell about 2% to around $4,400 an ounce on Wednesday, the lowest level in nearly two months, as declining oil prices helped ease fears of another inflation spike. Developments in the Middle East remained in focus, with traders growing increasingly hopeful that the US and Iran could soon reach an agreement to end the conflict and reopen the Strait of Hormuz. The optimism persisted despite mixed signals from both Washington and Tehran, as well as fresh strikes earlier this week. Iranian state television reported details of an unofficial draft memorandum between Tehran and Washington, under which the two countries would restore traffic flows through the Strait of Hormuz, while Iran and Oman would establish a mechanism to manage passage through the waterway. Gold stands nearly 15% below the levels seen at the start of the conflict, as concerns over an energy-driven inflation shock reinforced expectations that major central banks may keep monetary policy tighter for longer."
-    },
-    {
-      "id": "mkt:019e699d-5585-7223-8ed3-a4a1c9fc8cfd",
-      "time": "2026-05-27 21:26:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【US Military Planes to Withdraw From Ben-Gurion Airport After Iran Deal】US to pull military planes from Ben-Gurion Airport near Tel Aviv immediately after Iran deal; all aircraft to leave for European bases within 72 hours; planes to remain on standby to return if fighting resumes"
-    },
-    {
-      "id": "4902739",
-      "time": "2026-05-27 21:25:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以媒：本-古裡安機場美軍機將在美伊協議簽署後撤離】以色列第12頻道電視臺27日報道說，美國已告知以色列，如果與伊朗達成協議，美國將“立即”撤走部署在以色列特拉維夫附近本-古裡安機場的美軍飛機。報道說，一旦簽署協議，部署在本-古裡安機場的所有美軍機都將在72小時內撤離至歐洲基地。但這些軍機將“保持待命”，如果與伊朗的軍事衝突再度爆發，它們將“隨時返回”本-古裡安機場。（新華社）"
-    },
-    {
-      "id": "4902738",
-      "time": "2026-05-27 21:25:11",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙談信貸展望：預計不會出現系統性風險，但當前環境若出現一定壓力，情況可能會比預期更糟糕。"
     }
   ]
 }
