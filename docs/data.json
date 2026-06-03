@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-03 09:55:37",
-  "count": 18505,
+  "updated": "2026-06-03 09:59:40",
+  "count": 18515,
   "items": [
+    {
+      "id": "mkt:019e8b33-cab5-7ee2-b13c-80200aedb3fd",
+      "time": "2026-06-03 09:58:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Singapore's benchmark index rose as much as 1.1% intraday to a record 5,150.69."
+    },
+    {
+      "id": "mkt:019e8b33-9f01-7ee2-b13c-7dc46e5581d6",
+      "time": "2026-06-03 09:57:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share: Lianxun Instruments rallied more than 10%, its share price breaching the 2,000 yuan level."
+    },
+    {
+      "id": "mkt:019e8b33-9cdd-7ee2-b13c-732f22ce0e9e",
+      "time": "2026-06-03 09:57:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta railways to carry 17.45 mln passengers over five-day Dragon Boat holiday】China Railway Shanghai Group Co. said the Yangtze River Delta rail network will operate a five-day Dragon Boat holiday service from June 18-22, 2026. It expects to carry 17.45 mln passengers in total, averaging 3.49 mln per day, up 8% YoY. June 19 is forecast as the peak day at about 4.20 mln passengers, potentially a record single-day Dragon Boat holiday dispatch."
+    },
+    {
+      "id": "4914005",
+      "time": "2026-06-03 09:57:15",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【長三角鐵路端午假期5天預計傳送旅客1745萬人次】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角鐵路2026年端午假期旅客運輸方案近日出臺。今年端午假期鐵路運輸期限為6月18日至22日，合計5天。其間，上鐵集團預計傳送旅客1745萬人次，日均傳送旅客達349萬人次，客流同比增長8%。其中，端午節當天（6月19日）為客流最高峰日，預計傳送旅客420萬人次，有望創下端午假期運輸單日旅客傳送量新高。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8b32-e9ab-7ee2-b13c-6eb8c54e9fa8",
+      "time": "2026-06-03 09:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam May industrial production YoY 8.8%; prior figure unchanged at 9.90% after revision."
+    },
+    {
+      "id": "mkt:019e8b32-ce54-7ee2-b13c-62a20315f619",
+      "time": "2026-06-03 09:57:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vietnam May retail sales YoY 11.8% vs 12.10% prior."
+    },
+    {
+      "id": "mkt:019e8b32-b6fe-7ee2-b13c-5a19eb8acf3d",
+      "time": "2026-06-03 09:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam May CPI YoY 5.6% (prior 5.46%)."
+    },
+    {
+      "id": "4914004",
+      "time": "2026-06-03 09:56:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "智譜(02513.HK)漲幅擴大至10%，日前公告稱擬發行A股並在科創板上市，公司雲端收入有望實現指數型增長。"
+    },
+    {
+      "id": "4914003",
+      "time": "2026-06-03 09:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯發言人說願移交加沙治理權】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆當地時間6月2日在一份宣告中表示，美國主導的所謂巴勒斯坦加沙地帶“和平委員會”聲稱哈馬斯不願移交加沙地帶治理權，不實且具有誤導性，此類言論旨在為以色列在加沙地帶的持續行動提供掩護。哈齊姆·卡西姆稱，哈馬斯已做好充分準備，願將加沙地帶所有治理權移交給此前商定的巴勒斯坦技術官僚委員會，後者工作面臨的阻礙主要來自以色列等方面。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:019e8b32-33a3-7ee2-b13c-53ad505c1f4e",
+      "time": "2026-06-03 09:56:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shandong Zibo optimizes some housing provident fund policies】Zibo (Shandong) rolled out housing provident fund policy changes aimed at boosting housing consumption and supporting rigid and improved demand. Withdrawal scope widened: down-payments and owner-occupancy withdrawals may now mobilize funds from a buyer’s spouse, both parents and children; withdrawals permitted for elderly elevator replacement in old buildings. Lending-side relaxations include reduced counted housing units for multi-child households, buyers of high-quality or existing homes, and trade-in upgrades; trade-in replacement may exempt one prior loan record. The cap on combined second‑hand property age plus loan term is raised to 50 years and the prior lending ban on homes >300 sqm is removed. New loan extension/rescheduling services added. Flexible‑employment residents can access commercial‑to‑public‑fund and commercial‑to‑group loan conversion channels. Measures are intended to lower household purchase and repayment costs."
+    },
+    {
+      "id": "4914002",
+      "time": "2026-06-03 09:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：5月零售銷售同比增長11.8%。"
+    },
+    {
+      "id": "mkt:019e8b31-a431-7ee2-b13c-4df9bc4ef23c",
+      "time": "2026-06-03 09:55:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Hamas says willing to hand over Gaza governance】On June 2 local time, Hamas spokesman Hazem Qassem said in a statement that claims by a US-led Palestinian Gaza peace committee that Hamas refuses to hand over governance are false and intended to justify Israeli operations in Gaza. He said Hamas is prepared to transfer all governance authority to the previously agreed Palestinian technocratic committee, and that obstacles to the committee’s work mainly stem from Israel."
+    },
+    {
+      "id": "4914001",
+      "time": "2026-06-03 09:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：5月工業生產同比增長8.8%。"
+    },
+    {
+      "id": "4914000",
+      "time": "2026-06-03 09:55:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南5月消費者物價同比上漲5.6%；預估+5.80%。"
+    },
+    {
+      "id": "4913999",
+      "time": "2026-06-03 09:55:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【墨西哥總統要求美國大使尊重墨內政】當地時間6月2日，墨西哥總統辛鮑姆向美國駐墨西哥大使約翰遜發出強烈呼籲，要求其尊重墨西哥內政。辛鮑姆強調，墨西哥的政治事務是墨西哥公民的專屬職權範圍，不應受到外部干涉。美方大使應專注於雙邊事務，尊重墨西哥內政，墨西哥事務應由本國人民負責。6月1日，美國駐墨西哥大使約翰遜在社交媒體上發表言論稱，打擊販毒集團應是墨西哥與美國的共同努力。辛鮑姆對此重申，墨政府願意在安全問題上與美國保持協調與合作，但各國必須在其本國領土內採取行動。"
+    },
+    {
+      "id": "4913998",
+      "time": "2026-06-03 09:55:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
     {
       "id": "4913997",
       "time": "2026-06-03 09:54:50",
@@ -169652,60 +169796,6 @@
         "Important"
       ],
       "text": "New Zealand | Official Cash Rate (May.27) | actual 2.25% | consensus 2.25% | previous 2.25%"
-    },
-    {
-      "id": "4901358",
-      "time": "2026-05-27 09:59:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【輸變電裝置板塊短線拉昇】輸變電裝置板塊短線拉昇，泰永長征漲停, 金盤科技漲超10%，安靠智電、新特電氣、望變電氣、平高電氣、明陽電氣等跟漲。"
-    },
-    {
-      "id": "4901357",
-      "time": "2026-05-27 09:58:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【聲網母公司2026年一季度實現淨利潤111萬美元】5月27日，聲網母公司Agora, Inc.( NASDAQ：API ) 公佈了2026年第一季度財報。財報顯示，第一季度Agora, Inc.總營收3775萬美元，同比增長13.5%。該公司指引二季度營收區間為3900萬至4000萬美元，同比增長13.7%—16.6%。在美國通用會計準則（GAAP）下，Agora, Inc. 第一季度淨利潤為111萬美元，淨利潤率2.9%，同比增長172%，繼2024年第四季度同比扭虧為盈後，連續六個季度實現GAAP盈利。"
-    },
-    {
-      "id": "4901356",
-      "time": "2026-05-27 09:57:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1107億元。"
-    },
-    {
-      "id": "4901355",
-      "time": "2026-05-27 09:57:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股晶片股延續漲勢，新股雲英谷科技漲幅擴大至41%，納芯微漲超11%，兆易創新漲近8%，瀾起科技、華虹半導體漲超6%，中芯國際漲超4%。"
-    },
-    {
-      "id": "4901354",
-      "time": "2026-05-27 09:56:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣西壯族自治區政府與智慧機器人企業簽署戰略合作協議】據廣西壯族自治區人民政府入口網站訊息，5月26日，廣西壯族自治區政府與智元創新（上海）科技股份有限公司、廣西階段者機器人有限公司在南寧簽署戰略合作協議。根據協議，三方將依託中國—東盟國家人工智慧應用合作中心等平臺優勢，共同推動數字經濟發展，努力構建立足廣西、輻射東盟的具身智慧機器人應用樞紐。"
-    },
-    {
-      "id": "te:economy:553886",
-      "time": "2026-05-27 09:56:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Corporate Profits",
-        "Importance 1"
-      ],
-      "text": "China Industrial Profits Jump 18.2% In Jan-Apr — China’s industrial profits jumped 18.2% year-on-year in the January–April 2026 period, following a 15.5% rise in the first quarter. The strong growth came despite external headwinds from persistent tensions in the Middle East, which have heightened uncertainty over global demand and supply chains. State-owned enterprises posted solid growth, with profits rising 17.1% to CNY 827.15 billion. Joint-stock companies also reported a 24.0% jump in profits to CNY 1,883.44 billion. Private firms remained a key driver, although profit growth eased to 23.7% from 25.4%, reaching CNY 651.14 billion. By sector, manufacturing continued to lead gains, with profits climbing 20.4%, followed by mining at 26.0%, while utilities profits fell 1.9%. Among industries, notable increases were recorded in computer, communication, and other electronic equipment manufacturing (107.7%) and non-ferrous metal smelting and rolling processing (117.8%). In April alone, industrial profits grew 24.7% from a year ago."
     }
   ]
 }
