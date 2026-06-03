@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-04 03:01:15",
-  "count": 19125,
+  "updated": "2026-06-04 03:05:04",
+  "count": 19132,
   "items": [
+    {
+      "id": "mkt:019e8edf-7235-7443-8fe1-ffc956bcbce8",
+      "time": "2026-06-04 03:04:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said Iran used drones to attack a civilian airport, calling the strike deliberate, calculated and unjustified."
+    },
+    {
+      "id": "4915897",
+      "time": "2026-06-04 03:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若所有欺詐款項悉數查實，便有望實現預算平衡。"
+    },
+    {
+      "id": "4915896",
+      "time": "2026-06-04 03:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若查實所有舞弊問題，將有望實施減稅。"
+    },
+    {
+      "id": "4915895",
+      "time": "2026-06-04 03:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧地利等5國當選聯合國安理會非常任理事國】當地時間3日，聯合國大會選舉奧地利、吉爾吉斯斯坦、葡萄牙、千里達及托巴哥、辛巴威為安理會非常任理事國。其中，吉爾吉斯斯坦是首次當選。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8edd-1c91-7443-8fe1-f0347f8b7a37",
+      "time": "2026-06-04 03:01:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said Iran's claim that it did not strike the passenger terminal at Kuwait International Airport and that damage was caused by U.S. missile interceptors is categorically false."
+    },
+    {
+      "id": "4915894",
+      "time": "2026-06-04 03:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部否認科威特機場受損系美國導彈攔截器所致。"
+    },
+    {
+      "id": "4915893",
+      "time": "2026-06-04 03:00:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗軍方宣稱已打擊一處美軍指揮控制中心。"
+    },
+    {
+      "id": "4915892",
+      "time": "2026-06-04 03:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍尼韋爾首席財務官表示，在公司2026至2028年的投資週期中，預計盈利不會呈現完全線性的增長態勢。"
+    },
     {
       "id": "4915891",
       "time": "2026-06-04 03:00:02",
@@ -176172,18 +176246,6 @@
         "Brent"
       ],
       "text": "【TRUMP: If Oman Sides With Iran On Strait Issue, 'We'll Bomb Oman'】On Wednesday local time US President TRUMP commented on reports that Iran and Oman would jointly control the Strait of Hormuz, saying Oman \"will behave\" and rejecting any such mechanism, \"otherwise we will have to bomb them.\" Iranian authorities proposed cooperating with Oman to control and regulate maritime traffic in the Strait of Hormuz; Iran also considered a joint toll mechanism with Oman, a proposal the United States opposed. Speaking to reporters after a cabinet meeting, TRUMP said \"no one can control the strait. The strait will be open to everyone,\" and that the US would \"watch it very closely.\" He added, \"Oman will act like other countries, otherwise we'll have to bomb them. They understand that, so there will be no problem.\""
-    },
-    {
-      "id": "mkt:019e6ad0-004c-7223-8ed8-e654d14b9485",
-      "time": "2026-05-28 03:01:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "USDJPY"
-      ],
-      "text": "Bank of Mexico (Banxico) said in its first-quarter report it expects investment to remain weak until at least H2 2026, reflecting uncertainty in trade relations with the United States and the upcoming review of the United States-Mexico-Canada Agreement (USMCA)."
     }
   ]
 }
