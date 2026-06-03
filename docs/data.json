@@ -1,7 +1,156 @@
 {
-  "updated": "2026-06-04 05:15:04",
-  "count": 19215,
+  "updated": "2026-06-04 05:18:59",
+  "count": 19226,
   "items": [
+    {
+      "id": "4916048",
+      "time": "2026-06-04 05:18:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：截至目前，我們已收到總額達60億美元的採購訂單。"
+    },
+    {
+      "id": "mkt:019e8f59-97e9-7443-8fe4-f9c9c9ebaf10",
+      "time": "2026-06-04 05:17:53",
+      "tags": [
+        "MKT News",
+        "AVGO.O"
+      ],
+      "text": "Broadcom CEO expects third-quarter software revenue of about $8.9 billion."
+    },
+    {
+      "id": "4916047",
+      "time": "2026-06-04 05:17:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院透過限制特朗普伊朗戰爭權力的決議。"
+    },
+    {
+      "id": "4916046",
+      "time": "2026-06-04 05:17:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "好市多：本公司認為，任何未決索賠、訴訟程式或訴訟都不會對本公司財務狀況產生重大不利影響。"
+    },
+    {
+      "id": "mkt:019e8f59-3380-7443-8fe4-f5cef448b472",
+      "time": "2026-06-04 05:17:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O"
+      ],
+      "text": "Broadcom CEO said he expects third-quarter non-AI semiconductor revenue of about $4.5 billion; partnership with Google remains very important."
+    },
+    {
+      "id": "4916045",
+      "time": "2026-06-04 05:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達完成對KUMO AI的收購，為其最新一筆併購專案。"
+    },
+    {
+      "id": "4916044",
+      "time": "2026-06-04 05:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：預計第三季度軟體收入將約為89億美元。"
+    },
+    {
+      "id": "mkt:019e8f58-4d39-7443-8fe4-ec0ddea715be",
+      "time": "2026-06-04 05:16:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom (AVGO.O) after-hours decline widened to 12%."
+    },
+    {
+      "id": "mkt:019e8f58-2a26-7443-8fe4-e04a183c354c",
+      "time": "2026-06-04 05:16:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "Broadcom CEO said the company agreed to provide Anthropic an additional 5GW of next-generation TPU-based compute capacity from 2027. Broadcom has received a first order from Meta Platforms (META.O) for 1GW covering XPU and networking solutions, with deliveries starting in H2 2027."
+    },
+    {
+      "id": "mkt:019e8f57-d9e8-7443-8fe4-d8cedb94f7df",
+      "time": "2026-06-04 05:15:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "General CAINE, chairman of the US Joint Chiefs of Staff, is visiting Caracas."
+    },
+    {
+      "id": "4916043",
+      "time": "2026-06-04 05:15:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：與谷歌的合作關係依然“規模龐大”。"
+    },
+    {
+      "id": "4916042",
+      "time": "2026-06-04 05:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.41%，報15946點。"
+    },
+    {
+      "id": "4916041",
+      "time": "2026-06-04 05:15:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：公司仍預計2027年人工智慧半導體業務營收將超過1000億美元。"
+    },
+    {
+      "id": "4916040",
+      "time": "2026-06-04 05:15:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "德劭集團將客戶贖回鎖定期延長至四年，關停兩隻基金。"
+    },
+    {
+      "id": "mkt:019e8f57-0bd7-7443-8fe4-d11bf2fdb9cb",
+      "time": "2026-06-04 05:15:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Australian Prime Minister Albanese said any new US tariffs would be unnecessary."
+    },
+    {
+      "id": "4916039",
+      "time": "2026-06-04 05:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通執行長：將與阿波羅全球管理公司、黑石集團及其他投資者聯合打造AI XPV平臺，到2028年累計部署超過20吉瓦的算力容量。"
+    },
     {
       "id": "4916038",
       "time": "2026-06-04 05:14:15",
@@ -176932,54 +177081,6 @@
         "市場"
       ],
       "text": "戴爾因拿下防務合作訂單，盤後股價大漲 4.8%。"
-    },
-    {
-      "id": "4903217",
-      "time": "2026-05-28 05:18:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "標普道瓊斯指數公司：將Fedex Freight Holding Company納入標普500指數，取代Epam Systems。Epam Systems將被納入標普小盤股600指數，取代ShutterStock。"
-    },
-    {
-      "id": "4903216",
-      "time": "2026-05-28 05:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱不因特朗普言論而退縮】今天（5月28日）凌晨，伊朗議會國家安全委員會負責人表示，伊朗不會因美國總統特朗普的言論而退縮，將在與美國的談判中“堅守紅線”，也就是鈾濃縮能力及濃縮鈾庫存，對霍爾木茲海峽的控制權，以及制裁獲得解除。稍早前，特朗普在內閣會議上表示對美伊談判進展不滿意，還稱不接受伊朗與阿曼正在磋商的霍爾木茲海峽新管理機制，暫不考慮放寬對伊朗制裁，以及不接受先達成協議再就核問題進一步談判。（ CCTV國際時訊）"
-    },
-    {
-      "id": "4903214",
-      "time": "2026-05-28 05:16:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "西方液化天然氣公司（Western LNG）執行長：加拿大Ksi Lisims液化天然氣公司（Ksi Lisims LNG）正與另外幾家歐洲公用事業公司洽談潛在的LNG交易。Ksi Lisims目前透過購買協議已分配了每年500萬公噸的份額，並希望在做出最終投資決定（FID）前，將這一數字提升至800萬公噸。"
-    },
-    {
-      "id": "4903213",
-      "time": "2026-05-28 05:16:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.22%，報15545點。"
-    },
-    {
-      "id": "mkt:019e6b4b-08bc-722a-b522-352f52aed68f",
-      "time": "2026-05-28 05:15:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. officials said the PENTAGON awarded Microsoft (MSFT.O) a $9.7 bln enterprise software contract intended to reduce costs."
     }
   ]
 }
