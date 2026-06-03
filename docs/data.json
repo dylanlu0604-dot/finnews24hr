@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-04 00:40:24",
-  "count": 19170,
+  "updated": "2026-06-04 00:44:26",
+  "count": 19165,
   "items": [
+    {
+      "id": "4915816",
+      "time": "2026-06-04 00:43:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱：美國出現未經證實的食肉螺旋蛆病例，衝擊肉牛市場。"
+    },
+    {
+      "id": "4915815",
+      "time": "2026-06-04 00:41:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國中長期國債收益率漲約7個基點】週三（6月3日）歐市尾盤，英國10年期國債收益率漲7.2個基點，報4.931%，北京時間15:00跳空高開之後，主要持穩於4.9%關口附近，23:00以來加速上漲。兩年期英債收益率漲6.1個基點，報4.372%。30年期英債收益率漲6.9個基點，50年期英債收益率漲7.4個基點。2/10年期英債收益率利差漲0.936個基點，報+55.790個基點。"
+    },
+    {
+      "id": "4915814",
+      "time": "2026-06-04 00:40:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：伊朗議會議長卡利巴夫表示，針對伊朗的無代價威脅時代已經結束。任何侵略行為都將遭到令人遺憾的回應。"
+    },
+    {
+      "id": "mkt:019e8e5b-13d1-7443-8fe0-18f28ae710b1",
+      "time": "2026-06-04 00:39:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported Iran's parliament speaker Ghalibaf said the era of cost-free threats against Iran is over and any act of aggression will be met with a regrettable response."
+    },
     {
       "id": "4915813",
       "time": "2026-06-04 00:37:50",
@@ -176439,82 +176471,6 @@
         "國際"
       ],
       "text": "美國防長赫格塞思：過去一個月，我們在奈及利亞擊斃了伊斯蘭國二號頭目及數百名該組織成員。"
-    },
-    {
-      "id": "4903023",
-      "time": "2026-05-28 00:42:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國務卿稱美伊談判取得進展】當地時間5月27日，美國國務卿魯比奧表示，特朗普政府仍傾向於透過談判解決伊朗問題，並稱目前“朝達成協議方向已取得進展”。魯比奧表示：“未來數小時和數天內，我們將看到結果。”他同時強調，特朗普的首選方案仍是與伊朗進行談判。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6a51-1f62-7223-8ed6-e942f6ef6a71",
-      "time": "2026-05-28 00:42:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Hegseth, U.S. secretary of defense, said no Iranian tanker anywhere in the world is safe."
-    },
-    {
-      "id": "mkt:019e6a50-a1d7-7223-8ed6-e0683d203752",
-      "time": "2026-05-28 00:42:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Defense Minister Hegseth said Iran's economy is suffering severe damage."
-    },
-    {
-      "id": "4903022",
-      "time": "2026-05-28 00:42:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：全球範圍內所有伊朗油輪都不再安全。"
-    },
-    {
-      "id": "4903021",
-      "time": "2026-05-28 00:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "一份宣告顯示，匈牙利總理毛焦爾將於週五在布魯塞爾會見歐盟委員會主席馮德萊恩。"
-    },
-    {
-      "id": "mkt:019e6a50-5427-7223-8ed6-d999d845dfe6",
-      "time": "2026-05-28 00:41:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungarian Prime Minister magyar said he will meet European Commission President VON DER LEYEN in Brussels on Friday."
-    },
-    {
-      "id": "mkt:019e6a50-3d13-7223-8ed6-d5926d712385",
-      "time": "2026-05-28 00:41:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Defense Minister Hegseth said Iran cannot produce more missiles, tanks or warships."
-    },
-    {
-      "id": "4903020",
-      "time": "2026-05-28 00:41:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：伊朗現在既造不出無人機，也造不出艦船。"
-    },
-    {
-      "id": "4903019",
-      "time": "2026-05-28 00:41:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數轉正，抹去了此前高達0.2%的跌幅。"
     }
   ]
 }
