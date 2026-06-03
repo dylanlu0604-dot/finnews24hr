@@ -1,7 +1,245 @@
 {
-  "updated": "2026-06-03 21:33:23",
-  "count": 18928,
+  "updated": "2026-06-03 21:37:37",
+  "count": 18941,
   "items": [
+    {
+      "id": "te:economy:556186",
+      "time": "2026-06-03 21:36:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Private Sector Growth Strongest Since 2024 — The S&P Global Canada Composite PMI increased to 50.8 in May 2026 from 49.9 in April, pointing to the strongest growth in private sector activity since November 2024. It reflected concurrent increases in both manufacturing (52.9 vs 53.3) and service (50.6 vs 49.2) sector output. New order growth was sustained, albeit was only marginal, whilst there was a slight reduction in employment. On the price front, input cost inflation accelerated to its highest level in nearly four years. Selling charges rose to their strongest degree since February 2023. Meanwhile, confidence in the outlook was the lowest for four months."
+    },
+    {
+      "id": "4915507",
+      "time": "2026-06-03 21:36:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "遊戲驛站(GME.N)股價上漲12%，創2025年4月以來最大日內漲幅。"
+    },
+    {
+      "id": "mkt:019e8db3-1e30-7ccb-b65b-4362d499c853",
+      "time": "2026-06-03 21:36:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK government to invest €1.3 bln in infrastructure to support a global theme-park project."
+    },
+    {
+      "id": "mkt:019e8db2-fbd2-7ccb-b65b-3d9ee396a588",
+      "time": "2026-06-03 21:36:14",
+      "tags": [
+        "MKT News",
+        "GME.N",
+        "Impact bullish"
+      ],
+      "text": "GameStop (GME.N) shares rose 12%, the largest intraday gain since April 2025."
+    },
+    {
+      "id": "4915506",
+      "time": "2026-06-03 21:36:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大采購洛克希德·馬丁公司的海馬斯火箭炮。"
+    },
+    {
+      "id": "4915505",
+      "time": "2026-06-03 21:35:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪執行長：低收入群體消費壓力進一步加大。"
+    },
+    {
+      "id": "mkt:019e8db2-53ab-7ccb-b65b-34fde58d7a8f",
+      "time": "2026-06-03 21:35:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Hang Seng Index"
+      ],
+      "text": "Nasdaq Golden Dragon China Index fell 2%."
+    },
+    {
+      "id": "mkt:019e8db1-e04a-7ccb-b65b-294d8cfafd34",
+      "time": "2026-06-03 21:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "S&P Global US services PMI final for May due in 10 minutes."
+    },
+    {
+      "id": "te:markets:556185",
+      "time": "2026-06-03 21:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AT&T Stock Price Hits 18-week Low — AT&T shares decreased to 23.84 USD, the lowest since January 2026. Over the past 4 weeks, AT&T lost 8.39%, and in the last 12 months, it decreased 14.48%."
+    },
+    {
+      "id": "mkt:019e8db1-b5ff-7ccb-b65b-2346423ad2d0",
+      "time": "2026-06-03 21:34:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Hezbollah said it fired rockets at Israeli soldiers in northern Israel."
+    },
+    {
+      "id": "4915504",
+      "time": "2026-06-03 21:34:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，海天網路跌19.34%，金生遊樂跌6.78%，金山雲跌4.89%，億航跌4.45%，禾賽科技跌4.62%。"
+    },
+    {
+      "id": "mkt:019e8db1-9fc2-7ccb-b65b-1b37d6fca471",
+      "time": "2026-06-03 21:34:46",
+      "tags": [
+        "MKT News",
+        "XLF",
+        "Impact bearish"
+      ],
+      "text": "S&P 1500 Asset Management Companies Index fell 1.8%, hitting its lowest level since April."
+    },
+    {
+      "id": "4915503",
+      "time": "2026-06-03 21:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨稱其向以色列北部發射了火箭彈。"
+    },
+    {
+      "id": "4915502",
+      "time": "2026-06-03 21:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【立陶宛表露有意部署美國核武器】立陶宛國防部長於週二表態，該國正與美國磋商，考慮在本國領土部署美國核武器。立陶宛國防部長羅貝塔斯·考納斯對記者稱：“相關談判仍在推進中。”談判背景是美國計劃縮減駐歐美軍規模，此舉引發北約盟國擔憂區域出現重大安全防禦缺口。考納斯補充道：“立陶宛絕不會置身事外。”這部波羅的海國家現行憲法明令禁止本國境內部署大規模殺傷性武器，但總統吉塔納斯·瑙塞達以當下安全環境惡化為由，提議修憲放開相關限制。"
+    },
+    {
+      "id": "4915501",
+      "time": "2026-06-03 21:34:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價在連續五個交易日下跌後上漲7.3%。"
+    },
+    {
+      "id": "4915500",
+      "time": "2026-06-03 21:34:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省與重點外資企業圓桌會召開】6月3日，江西省與重點外資企業圓桌會召開。省長葉建春會見相關外資企業代表，與大家共敘友誼、共商發展，就進一步深化合作聽取大家意見建議。葉建春說，希望大家堅定與江西攜手發展的信心，進一步擴大在贛投資，把更多優質專案、前沿技術和高階人才匯入江西，帶動更多產業鏈上下游企業來贛投資合作。我們將持續最佳化營商環境，為各類企業在贛發展提供全方位要素保障。（澎湃）"
+    },
+    {
+      "id": "4915499",
+      "time": "2026-06-03 21:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET此次IPO淨收益約為178億美元。"
+    },
+    {
+      "id": "4915498",
+      "time": "2026-06-03 21:33:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "MARVELL TECHNOLOGY股價延續漲勢，上漲11%。"
+    },
+    {
+      "id": "mkt:019e8db0-55cf-7ccb-b65b-17f92cf56939",
+      "time": "2026-06-03 21:33:24",
+      "tags": [
+        "MKT News",
+        "OWL.O"
+      ],
+      "text": "Blue Owl shares fell 5.2%, poised for their largest decline since February."
+    },
+    {
+      "id": "4915497",
+      "time": "2026-06-03 21:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET 以每股 50 美元的價格發行了 1.675 億份 A 輪輪融資存託憑證。"
+    },
+    {
+      "id": "mkt:019e8db0-34f8-7ccb-b65b-0d0ad758a206",
+      "time": "2026-06-03 21:33:10",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "At the open on Wednesday June 3, the Dow Jones Industrial Average fell 213.15 points, or 0.42%, to 51,094.64; the S&P 500 dropped 9.37 points, or 0.12%, to 7,600.41; the Nasdaq Composite rose 14.20 points, or 0.05%, to 27,108.10."
+    },
+    {
+      "id": "4915496",
+      "time": "2026-06-03 21:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET 敲定 C 類普通股發行價：每股 351.8018 美元。"
+    },
+    {
+      "id": "mkt:019e8daf-d87d-7ccb-b65b-054dfc48dba7",
+      "time": "2026-06-03 21:32:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "KKR.O",
+        "Impact bearish",
+        "ARES.O",
+        "CG.O"
+      ],
+      "text": "US asset managers' shares fell after Swiss manager Partners Group restricted redemptions on an $8.6 bln private equity fund. KKR fell 5.6%, Blackstone 4.4%, Blue Owl 4.2%, Ares Management 5.6% and Carlyle Group 4.8%."
+    },
+    {
+      "id": "mkt:019e8daf-cb78-7ccb-b65a-ffbe52dea3ba",
+      "time": "2026-06-03 21:32:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Jiangxi holds roundtable with key foreign-invested firms】June 3 — Jiangxi governor Ye Jianchun met with representatives of major foreign-invested firms, urging deeper cooperation and expanded investment in the province. He called for more high-quality projects, frontier technologies and senior talent to be brought to Jiangxi and for firms to attract upstream and downstream supply‑chain partners. The provincial government pledged to continue optimizing the business environment and provide comprehensive factor support for enterprise operations in Jiangxi."
+    },
     {
       "id": "4915495",
       "time": "2026-06-03 21:32:21",
@@ -173885,105 +174123,6 @@
         "國際"
       ],
       "text": "【油價下跌 伊朗電視臺稱美伊諒解備忘錄草案將恢復霍爾木茲海峽通行】在交易員尋找談判可能很快促成霍爾木茲海峽重開線索之際，伊朗媒體稱獲得一份關於結束伊朗戰爭的非正式諒解備忘錄草案，油價隨之大跌。布倫特原油一度跌破每桶95美元，為逾一個月來首次，此前伊朗國家電視臺報道稱，一份諒解備忘錄草案顯示，美軍將解除海上封鎖，並從伊朗周邊海域撤離，不過目前尚未達成協議。報道稱，伊朗將恢復霍爾木茲海峽通行量；若與美國解除封鎖同步發生，可能會使大量原油供應迅速重返石油市場。週三早些時候，一名伊朗官員稱，與美國的間接接觸仍在進行，伊朗的高濃縮鈾庫存不在談判議程上。美國國務卿馬爾科·盧比奧提醒稱，任何和平協議可能都需要幾天時間才能最終敲定。"
-    },
-    {
-      "id": "4902762",
-      "time": "2026-05-27 21:37:14",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "宇航科技公司股價近三倍上漲至6.7美元，此前該公司將為半導體及量子計算領域搭建月球基礎設施."
-    },
-    {
-      "id": "mkt:019e69a7-42ff-7223-8ed3-db23a8f5d37d",
-      "time": "2026-05-27 21:37:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of France confirms Mulan will formally assume the role of governor on June 2."
-    },
-    {
-      "id": "4902761",
-      "time": "2026-05-27 21:36:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行確認Moulin將於 6 月 2 日就任行長。"
-    },
-    {
-      "id": "4902760",
-      "time": "2026-05-27 21:35:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲2%，現報1293.00元。"
-    },
-    {
-      "id": "mkt:019e69a6-0ad9-7223-8ed3-d11efd3f7075",
-      "time": "2026-05-27 21:35:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran Supreme Leader Adviser Says Iran Will No Longer Rely on Signatures and Written Commitments】Ali Akbar Velayati warns Iran will no longer rely on signatures and written commitments; Strait of Hormuz remains Tehran's ultimate leverage"
-    },
-    {
-      "id": "4902759",
-      "time": "2026-05-27 21:35:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本製紙美國子公司爆炸，多人傷亡】據日本《朝日新聞》5月27日報道，位於美國華盛頓州的日本製紙集團控股子公司——日本動力波包裝公司的一家工廠26日發生化學品儲罐爆炸事故。當地官方宣佈，目前已確認1人死亡，9人失蹤。消防部門此前未公開傷亡和失蹤人數，但在當天傍晚公佈了最新進展。據消防部門介紹，事故發生後共有9名員工和1名消防員被送往醫院，其中1人已不幸身亡。此外，目前仍有9名員工下落不明。據日本駐西雅圖總領事館透露，死傷及失蹤人員中沒有日本公民。（參考訊息）"
-    },
-    {
-      "id": "4902758",
-      "time": "2026-05-27 21:34:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺積電高開高走，盤初漲近4%，創歷史新高。報道稱臺積電3奈米下半年漲價15%，明年或再漲10%。"
-    },
-    {
-      "id": "4902757",
-      "time": "2026-05-27 21:34:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "美高梅度假村股價漲幅達7.7%，此前至少有兩家券商上調了對該股的評級。"
-    },
-    {
-      "id": "4902756",
-      "time": "2026-05-27 21:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟多國使館拒絕撤離基輔】據《俄羅斯報》網站5月26日報道，針對俄羅斯有關打算持續打擊烏克蘭首都基輔軍事基礎設施的宣告，歐盟各國駐烏使館釋出通報稱無意離開基輔。俄羅斯外交部此前宣佈，俄軍已著手準備“系統性連續打擊”，範圍包括基輔市內的烏軍設施及決策中心。俄外交部強調：“鑑於上述目標遍佈基輔各地，特此警告外國公民，包括外交使團以及國際組織代表處的人員，務必儘快撤離該市，同時也提醒烏克蘭首都居民不要靠近澤連斯基政權的軍事及行政基礎設施。”報道稱，歐盟駐烏克蘭代表團團長卡塔琳娜·馬特爾諾娃表示，歐洲外交官不會離開基輔。法國駐烏大使館表示“根本不可能考慮撤離”，“人們照常工作”。波蘭大使館表示不會“屈服於挑釁”，該國外交官將繼續留在基輔。德國使館也確認將繼續照常辦公。（參考訊息）"
-    },
-    {
-      "id": "4902755",
-      "time": "2026-05-27 21:34:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：英波兩國正深化防務與安全領域合作。今日簽署的條約將強化雙方協作、提升聯合作戰能力，並進一步彰顯我們對北約的承諾。"
-    },
-    {
-      "id": "4902754",
-      "time": "2026-05-27 21:33:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "針對此前釋出的財年利潤預測，美國航空執行長在被問及相關問題時表示：“不會對預測作出任何調整”。"
     }
   ]
 }
