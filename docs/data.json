@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-04 04:32:19",
-  "count": 19200,
+  "updated": "2026-06-04 04:36:14",
+  "count": 19191,
   "items": [
+    {
+      "id": "mkt:019e8f32-e8af-7443-8fe4-0c523fc64d4c",
+      "time": "2026-06-04 04:35:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the Trump administration plans to invest $700 million to promote construction of coal-fired power plants and export facilities."
+    },
+    {
+      "id": "4915999",
+      "time": "2026-06-04 04:35:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX擬定IPO發行價每股135美元。"
+    },
+    {
+      "id": "te:markets:556256",
+      "time": "2026-06-04 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.04% Lower — The Dow Jones Index fell 532 points or 1.04 percent on Wednesday to close at 50776 points. Leading the losses are IBM (-7.06%), Honeywell International (-5.09%) and Salesforce (-4.92%)."
+    },
+    {
+      "id": "4915998",
+      "time": "2026-06-04 04:34:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普計劃出資7億美元推動建設燃煤電廠及煤炭出口基地。"
+    },
+    {
+      "id": "4915997",
+      "time": "2026-06-04 04:33:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大對非美墨加協定夥伴延長鋼鐵關稅配額政策。"
+    },
+    {
+      "id": "4915996",
+      "time": "2026-06-04 04:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：商船三井擬向美國海上液化天然氣專案投資3億美元。"
+    },
+    {
+      "id": "4915995",
+      "time": "2026-06-04 04:33:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約市長馬姆達尼是個非常聰明的人。"
+    },
+    {
+      "id": "4915994",
+      "time": "2026-06-04 04:32:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大將關鍵性鋼鋁關稅措施延長一年。"
+    },
+    {
+      "id": "mkt:019e8f2f-93f7-7443-8fe4-022c36dc049a",
+      "time": "2026-06-04 04:32:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Israeli prime minister Netanyahu has always been an important partner."
+    },
     {
       "id": "4915993",
       "time": "2026-06-04 04:30:39",
@@ -176680,193 +176758,6 @@
         "Brent"
       ],
       "text": "U.S. API crude oil imports for the week to May 22: -223,000 barrels; prior -88,000 barrels."
-    },
-    {
-      "id": "mkt:019e6b27-0752-799f-bbe7-4bc712dbce0a",
-      "time": "2026-05-28 04:36:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (May.22) | actual -171000M | previous 282000M"
-    },
-    {
-      "id": "mkt:019e6b26-f8cc-799f-bbe7-472838e02233",
-      "time": "2026-05-28 04:36:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API heating oil inventories for week to May 22: 246,000 barrels; prior 180,000 barrels."
-    },
-    {
-      "id": "mkt:019e6b26-f786-799f-bbe7-3f3c7257f806",
-      "time": "2026-05-28 04:36:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (May.22) | actual -223000M | previous -88000M"
-    },
-    {
-      "id": "mkt:019e6b26-c8d8-799f-bbe7-31169c877025",
-      "time": "2026-05-28 04:36:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API Cushing crude inventories fell 2.875 mln barrels in the week to May 22; prior -1.428 mln barrels."
-    },
-    {
-      "id": "mkt:019e6b26-c679-799f-bbe7-2f3efeb5cf75",
-      "time": "2026-05-28 04:35:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (May.22) | actual 246000M | previous 180000M"
-    },
-    {
-      "id": "4903191",
-      "time": "2026-05-28 04:35:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美一日資工廠化學儲罐爆炸汙染河流】日本製紙集團旗下企業位於美國華盛頓州的造紙廠5月26日發生化學儲罐內爆事故。據美國媒體當地時間5月27日報道，事故已造成至少2人死亡、多人受傷，另有9人下落不明。據當地消防部門當天通報稱，經檢測證實，這一化學品儲罐內爆破裂後，汙染物已流入附近的哥倫比亞河。不過據稱對當地供水“暫無危險”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e6b26-9207-799f-bbe7-23bd6119a644",
-      "time": "2026-05-28 04:35:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (May.22) | actual -2875000M | previous -1428000M"
-    },
-    {
-      "id": "mkt:019e6b26-7dbe-799f-bbe7-1c85f66007bc",
-      "time": "2026-05-28 04:35:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API weekly refined products inventories for the week ended May 22 rose 11.03 mln bbl; market had expected a 1.957 mln-bbl draw; prior was a 1.047 mln-bbl draw."
-    },
-    {
-      "id": "mkt:019e6b26-45d4-799f-bbe7-11920989eb18",
-      "time": "2026-05-28 04:35:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (May.22) | actual 11030000M | consensus -1957000M | previous -1047000M"
-    },
-    {
-      "id": "mkt:019e6b26-321c-799f-bbe7-0a037e3222b0",
-      "time": "2026-05-28 04:35:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. gasoline stocks fell 3.199 mln bbl in the week to May 22; market expected a draw of 2.896 mln bbl; prior draw was 5.795 mln bbl."
-    },
-    {
-      "id": "mkt:019e6b25-fb33-799f-bbe7-0021d26a16fe",
-      "time": "2026-05-28 04:35:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (May.22) | actual -3199000M | consensus -2896000M | previous -5795000M"
-    },
-    {
-      "id": "mkt:019e6b25-f1cb-799f-bbe6-fb30e92ce509",
-      "time": "2026-05-28 04:35:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API crude inventories for the week to May 22: -2.819 mln barrels; market expected -4.367 mln; prior -9.11 mln."
-    },
-    {
-      "id": "4903190",
-      "time": "2026-05-28 04:35:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月22日當週API原油庫存 -281.9萬桶，預期-436.7萬桶，前值-911萬桶。"
-    },
-    {
-      "id": "te:markets:554180",
-      "time": "2026-05-28 04:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.37% Higher — The Dow Jones Index went up by 188 points or 0.37 percent on Wednesday to close at 50649 points. The rise was led by P&G (3.22%), Boeing (2.49%) and Amazon (2.47%). On the downside, the weakerst performers were JPMorgan (-2.46%), Travelers Companies (-1.58%) and Chevron (-1.34%)."
-    },
-    {
-      "id": "mkt:019e6b25-c611-799f-bbe6-f151cae9a1d3",
-      "time": "2026-05-28 04:34:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (May.22) | actual -2819000M | consensus -4367000M | previous -9110000M"
-    },
-    {
-      "id": "4903189",
-      "time": "2026-05-28 04:34:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行CEO：當前居民消費狀況較數週前有所回暖。"
-    },
-    {
-      "id": "4903188",
-      "time": "2026-05-28 04:34:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "恆天然公佈 2026/27 產季牧場原奶收購價初始預期價為每公斤 9.75 紐西蘭元，價格區間為每公斤 8.00 至 11.00 紐西蘭元。"
-    },
-    {
-      "id": "4903187",
-      "time": "2026-05-28 04:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "恆天然：2025/26 產季原奶收購價預期區間收窄，每公斤 9.60 至 9.80 紐西蘭元。"
     }
   ]
 }
