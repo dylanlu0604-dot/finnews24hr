@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-03 22:56:40",
-  "count": 19162,
+  "updated": "2026-06-03 23:00:48",
+  "count": 19169,
   "items": [
+    {
+      "id": "mkt:019e8dff-8ec2-7ff7-b12c-1cdcd777d8f6",
+      "time": "2026-06-03 22:59:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait declares two Iranian diplomats persona non grata, orders expulsion】Kuwait’s Foreign Ministry said on the 3rd it had declared two members of the Iranian diplomatic mission persona non grata and ordered them to leave within 24 hours. The ministry said the decision was made against the backdrop of \"Iran’s continued ballistic missile and drone attacks.\""
+    },
+    {
+      "id": "mkt:019e8dff-0781-7ff7-b12c-141828f99738",
+      "time": "2026-06-03 22:59:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Zelenskiy says willing to begin immediate direct talks with Putin】On June 3, Ukrainian President Zelenskiy said he was willing to begin immediate direct talks with Russian President Putin, seeking top-level dialogue to accelerate an end to the Russia-Ukraine conflict and saying Ukraine will not wait for the US to resolve other global priorities before advancing its own issues. Russia had no immediate response."
+    },
+    {
+      "id": "mkt:019e8dfe-ae63-7ff7-b12c-0b2d746331db",
+      "time": "2026-06-03 22:58:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said annual budget fraud losses are estimated at at least $500 bln, and once funds flow out recovery is very difficult."
+    },
+    {
+      "id": "mkt:019e8dfe-9fa4-7ff7-b12c-00a4ce84a53b",
+      "time": "2026-06-03 22:58:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX documents show Anker Innovations Technology Co Ltd has submitted a listing application to HKEX."
+    },
+    {
+      "id": "4915714",
+      "time": "2026-06-03 22:58:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:019e8dfe-86a1-7ff7-b12b-f821733c4de2",
+      "time": "2026-06-03 22:58:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "According to HKEX filings, Shenzhen Xingyuan Material Technology Co., Ltd. has cleared its listing hearing."
+    },
+    {
+      "id": "4915713",
+      "time": "2026-06-03 22:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：資金一旦撥付出去，想要追回難度極大。"
+    },
+    {
+      "id": "4915712",
+      "time": "2026-06-03 22:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：財政預算每年預估至少存在 5000 億美元欺詐款項。"
+    },
+    {
+      "id": "4915711",
+      "time": "2026-06-03 22:58:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【華爾街知名科技股多頭Ives：準備好爆米花 SpaceX上市將是分水嶺事件】Wedbush Securities的Dan Ives表示，SpaceX的首次公開募股將是一場“分水嶺事件”，不僅會打破紀錄，也將為隨後OpenAI和Anthropic PBC的IPO奠定基調。這位全球科技研究主管兼資深股票分析師週三表示：“把爆米花準備好吧：SpaceX、OpenAI、Anthropic，未來幾個月會非常有看頭。”他還說，這將是“對市場具有歷史意義”的事件。圍繞這些IPO的熱情，正在廣泛傳導至科技板塊，而科技股正是推動美國主要股指創出新高的重要力量。截至週二，以科技股為主的納斯達克100指數今年已上漲21%，漲幅幾乎是標普500指數的兩倍。"
+    },
+    {
+      "id": "mkt:019e8dfd-c601-7ff7-b12b-f7e25c159faa",
+      "time": "2026-06-03 22:57:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India says QR-code-based cross-border merchant payment link between India and Cambodia has gone live."
+    },
+    {
+      "id": "4915710",
+      "time": "2026-06-03 22:57:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度與柬埔寨推出掃碼跨境商戶支付支付系統互聯互通專案。"
+    },
+    {
+      "id": "4915709",
+      "time": "2026-06-03 22:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱願即刻與普京展開直接談判】當地時間3日，烏克蘭總統澤連斯基稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基強調談判的緊迫性，稱烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題。他表示，烏方希望依託兩國最高層級直接對話，加速止戰程序。對於這一表態，俄羅斯方面暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4915708",
+      "time": "2026-06-03 22:56:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐約州總檢察長因反壟斷相關問題調查康帕斯公司。"
+    },
     {
       "id": "4915707",
       "time": "2026-06-03 22:55:53",
@@ -176389,62 +176509,6 @@
         "市場"
       ],
       "text": "墨西哥主要股指上漲1.5%。"
-    },
-    {
-      "id": "te:markets:554139",
-      "time": "2026-05-27 23:00:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Increases by 0.98% — Top currency gainers are New Zealand Dollar (0.98%), South Korean Won (0.70%) and Dollar Index (0.06%). Biggest losers are Australian Dollar (-0.58%), Mexican Peso (-0.47%), Brazilian Real (-0.31%), British Pound (-0.21%) and Japanese Yen (-0.14%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "4902907",
-      "time": "2026-05-27 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】PTA連續漲2.49%，PVC連續漲2.42%，焦煤連續漲2.13%，短纖連續漲2.00%，焦炭連續漲1.88%。"
-    },
-    {
-      "id": "4902906",
-      "time": "2026-05-27 22:58:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南部戰區對荷蘭侵入艦機警示電子干擾，專家：已相當剋制】南部戰區新聞發言人翟士臣海軍大校27日表示，當天荷蘭海軍“德魯伊特”號護衛艦非法侵闖中國西沙群島，多次升空艦載直升機侵入我國領空。中國人民解放軍南部戰區組織海空兵力，依法依規採取語音警告、警示性電子干擾等必要措施予以外逼驅離。接採訪的專家表示，針對荷蘭非法侵闖我領空的惡劣行為，此次解放軍主動發聲且對外公佈具體反制措施，既避免了外軍惡人先告狀的伎倆，也展示出解放軍採取措施的合理性、必要性和剋制性。 “目前解放軍對外軍挑釁行動及時公開回應已呈常態化。但此次南部戰區新聞發言人談話透露出的資訊表明此次荷蘭行為非常惡劣，尤其是荷蘭艦艇多次升空艦載直升機侵入我國領空，解放軍採取任何措施都是合法、合理的。”軍事問題專家張軍社27日對《環球時報》表示。 （環球時報）"
-    },
-    {
-      "id": "4902905",
-      "time": "2026-05-27 22:58:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗總統佩澤希齊揚與巴基斯坦總理通電話，向其通報伊朗官員（包括伊朗首席談判代表）近期在卡達舉行的相關會談情況。"
-    },
-    {
-      "id": "4902904",
-      "time": "2026-05-27 22:57:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月27日增減持彙總】據不完全統計，5月27日盤後，浙農股份、*ST國化、龍利得、ST雲城披露增持情況，包括綠通科技、大豪科技、至純科技、遠方資訊、晶豐明源、吳帆生物、天微電子、紐泰格、上海艾錄、普蕊斯在內的10家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "te:economy:554138",
-      "time": "2026-05-27 22:57:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Dallas Fed Services Index",
-        "Importance 1"
-      ],
-      "text": "Dallas Fed Services Sentiment Improves — The general business activity index for the service sector published by the Federal Reserve Bank of Dallas inched higher by 2.2 points from the previous month to -7.7 in May of 2026. Revenue inched higher (5 vs 4.3 in April) to record the fifth month of growth. Still, business conditions were deteriorated by a persistent surge in input prices (29.7 vs 31.2) as the war in the Middle East lifted energy expenditure for the sector nationwide. In turn, employment fell at a faster pace (-3.2 vs -1)."
     }
   ]
 }
