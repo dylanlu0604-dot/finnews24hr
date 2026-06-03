@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-04 04:51:45",
-  "count": 19202,
+  "updated": "2026-06-04 04:55:37",
+  "count": 19204,
   "items": [
+    {
+      "id": "mkt:019e8f44-32b4-7443-8fe4-93d1dd15cf26",
+      "time": "2026-06-04 04:54:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX sets IPO price at $135, implied valuation $1.77 trillion】SpaceX filed with the SEC on Wednesday saying it has fixed an IPO price at $135 per share ahead of a formal roadshow, matching earlier reports. The company plans to issue 555.6 million shares to raise about $75.0 bln. The fixed-price step departs from the usual practice of publishing a price range to test demand. At $135 the implied valuation is $1.77 tln, which would make SpaceX the seventh-largest U.S.-listed company by market cap and larger than Tesla’s roughly $1.6 tln valuation. SpaceX plans to list on Nasdaq on June 12."
+    },
+    {
+      "id": "mkt:019e8f43-6ef3-7443-8fe4-8a7af1837900",
+      "time": "2026-06-04 04:53:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "LOGAN: Current monetary policy is neutral to even slightly accommodative; there is a need to maintain a mildly restrictive policy stance."
+    },
+    {
+      "id": "4916019",
+      "time": "2026-06-04 04:52:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣自3月30日以來首次跌破65000美元。"
+    },
+    {
+      "id": "4916018",
+      "time": "2026-06-04 04:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國晶片行業組織敦促美國增加儲存晶片供應，以緩解AI造成的供應緊張。"
+    },
+    {
+      "id": "mkt:019e8f41-7c17-7443-8fe4-815aa9cf93ed",
+      "time": "2026-06-04 04:51:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Logan says loan demand is strong."
+    },
+    {
+      "id": "4916017",
+      "time": "2026-06-04 04:51:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX定於6月11日確定IPO發行價，6月12日掛牌交易。"
+    },
+    {
+      "id": "4916016",
+      "time": "2026-06-04 04:51:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：當前貨幣政策處於中性或偏寬鬆區間。"
+    },
     {
       "id": "mkt:019e8f41-220c-7443-8fe4-7a60643cbc3d",
       "time": "2026-06-04 04:51:10",
@@ -176815,50 +176888,6 @@
         "Brent"
       ],
       "text": "Iran's Parliament National Security Committee chairman Ebrahim Aziz said Iran will not yield its red lines in the face of TRUMP's rhetoric, citing the right to enrich uranium, enriched uranium itself, management of the Strait of Hormuz and the lifting of sanctions."
-    },
-    {
-      "id": "4903205",
-      "time": "2026-05-28 04:55:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁威爾科技：預計第二季度資料中心業務營收環比增速將加快，升至中高雙位數區間。"
-    },
-    {
-      "id": "mkt:019e6b37-dadb-722a-b521-f17bb48fedb0",
-      "time": "2026-05-28 04:54:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "RBNZ Governor Breman: The Board considers that inf pressures will intensify in the future, and the cash rate needs to be raised further."
-    },
-    {
-      "id": "4903204",
-      "time": "2026-05-28 04:54:34",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲主席佈雷曼： 委員會認為通脹壓力仍將持續，一致同意後續需上調基準利率。"
-    },
-    {
-      "id": "4903203",
-      "time": "2026-05-28 04:53:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（5月27日）紐約尾盤，現貨黃金跌1.18%，報4455.00美元/盎司，北京時間21:28重新整理日低至4401.67美元。COMEX黃金期貨跌1.11%，報44814.70美元/盎司，北京時間14:00之前大致持穩於4540美元附近，18:30以來主要持穩於4480美元附近、21:28重新整理日低至4431美元。"
-    },
-    {
-      "id": "4903202",
-      "time": "2026-05-28 04:53:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "邁威爾科技： 預計公司互聯業務同比增幅將超 70%，預計 2028 財年營收將達到約 165 億美元。"
     }
   ]
 }
