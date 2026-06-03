@@ -1,7 +1,283 @@
 {
-  "updated": "2026-06-03 16:36:17",
-  "count": 18591,
+  "updated": "2026-06-03 16:40:16",
+  "count": 18611,
   "items": [
+    {
+      "id": "4914728",
+      "time": "2026-06-03 16:39:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST高科：再次延期回覆上交所對外投資及股價波動問詢函】*ST高科公告稱，公司於2026年5月20日收到上交所《關於中國高科對外投資及股價波動事項的問詢函》，曾申請過一次延期回覆。截至公告披露日，問詢函回覆內容仍需補充完善，經向交易所申請，將再次延期回覆，延期不超5個交易日。公司將推進回覆工作並及時披露資訊。"
+    },
+    {
+      "id": "4914727",
+      "time": "2026-06-03 16:39:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "丹麥發售11.95億丹麥克朗2052年11月期國債，收益率為3.15%，4月22日發售的同期限國債收益率為3.26%。"
+    },
+    {
+      "id": "mkt:019e8ca3-27fb-7998-8c64-b04c086f03e9",
+      "time": "2026-06-03 16:39:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Ukraine says it struck Russian missile ship \"Boyki\" in Saint Petersburg】On the 3rd (local time), Ukraine's armed forces said they struck the Russian missile ship \"Boyki\" in Saint Petersburg. The vessel had previously escorted ships linked to Russia's \"shadow fleet.\" Russia has not responded."
+    },
+    {
+      "id": "mkt:019e8ca3-27b3-7998-8c64-a80398ca4b1a",
+      "time": "2026-06-03 16:39:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor UEDA said that under such circumstances Japan's economy could slow markedly, and price risks may tilt further to the upside."
+    },
+    {
+      "id": "4914726",
+      "time": "2026-06-03 16:38:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：在此情況下，日本經濟可能會大幅放緩，而物價上行風險可能會進一步加大。"
+    },
+    {
+      "id": "4914725",
+      "time": "2026-06-03 16:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭稱打擊俄羅斯導彈艦“博伊基”號】當地時間3日，烏克蘭方面釋出訊息稱，烏克蘭武裝部隊在聖彼得堡對俄羅斯導彈艦 “博伊基” 號發動打擊。據悉，該艦曾為俄羅斯 “影子船隊” 的船隻提供護航服務。俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4914724",
+      "time": "2026-06-03 16:38:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們將仔細研判經濟是否具備抵禦中東衝突負面衝擊的韌性，避免經濟出現大幅惡化。"
+    },
+    {
+      "id": "mkt:019e8ca2-9862-7ccb-b85d-6253b14c9be8",
+      "time": "2026-06-03 16:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ueda said the Bank of Japan will assess whether the economy has sufficient resilience to withstand negative shocks from the Middle East conflict and to avoid a sharp deterioration."
+    },
+    {
+      "id": "mkt:019e8ca2-5975-7ccb-b85d-5c2dbb4db5d2",
+      "time": "2026-06-03 16:38:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he cannot rule out a large-scale supply‑chain disruption, which would significantly impair Japanese firms' production activity."
+    },
+    {
+      "id": "mkt:019e8ca2-591d-7ccb-b85d-56f767c83a6c",
+      "time": "2026-06-03 16:38:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine reports outages in multiple regions after Russian shelling; repairs under way】On the morning of June 3 (local time) Ukraine's state grid operator Ukrenergo said Russian shelling caused new power outages in Kharkiv, Chernihiv, Dnipropetrovsk and Zaporizhia regions. Ukrenergo said repair and restoration work has begun where safety conditions permit. Russia had no immediate comment."
+    },
+    {
+      "id": "4914723",
+      "time": "2026-06-03 16:38:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "高市早苗：期待日本央行圍繞 2% 通脹目標制定貨幣政策。"
+    },
+    {
+      "id": "4914722",
+      "time": "2026-06-03 16:38:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：不能排除供應鏈出現大規模中斷的可能性，這將對日本企業的生產活動產生重大影響。"
+    },
+    {
+      "id": "4914721",
+      "time": "2026-06-03 16:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國多方呼籲防範針對供電設施的無人機襲擊】英國多名政府官員、議員及行業人士近日接連發聲，呼籲升級供電基礎設施的安防措施，強化針對無人機襲擊的防護，防範無人機襲擾引發大面積停電事故。英國天空新聞頻道網站2日報道，這些人擔憂，由變電站、輸電鐵塔、電纜組成的整個供電網路存在安防隱患，一旦發生衝突，極易淪為無人機打擊目標。他們批評相關部門一味壓低造價、追求施工速度，不願投入資金加裝無人機攔截網等防護裝置，也不願進行大規模電纜入地改造。（新華社）"
+    },
+    {
+      "id": "mkt:019e8ca1-b431-7998-8c64-8c4df44f1532",
+      "time": "2026-06-03 16:37:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NHC: A low-pressure system is gradually strengthening and is expected to become a tropical storm later today."
+    },
+    {
+      "id": "4914720",
+      "time": "2026-06-03 16:37:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【品茗科技：回購價格上限調整至152.75元/股】品茗科技公告，2025年年度權益分派實施完畢，公司對回購價格上限進行相應調整，調整前的回購價格上限為153元/股，調整後的回購價格上限為152.75元/股。同時，回購股份資金來源由“自有資金”調整為“自有資金和自籌資金（含股票回購專項貸款等）”。公司已取得招商銀行杭州分行出具的《貸款承諾函》，其同意為公司股份回購提供不超過人民幣7200萬元的貸款額度。"
+    },
+    {
+      "id": "4914719",
+      "time": "2026-06-03 16:37:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：經濟與物價前景本身可能因中東局勢未來走向及其他因素髮生大幅變動，對此需保持關注。"
+    },
+    {
+      "id": "mkt:019e8ca1-7c5e-7998-8c64-82f7065863e6",
+      "time": "2026-06-03 16:37:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ueda, governor of the Bank of Japan, said Japan's economic and inflation outlooks could change materially depending on developments in the Middle East and other future events."
+    },
+    {
+      "id": "mkt:019e8ca1-5868-7998-8c64-7f392a6f6c32",
+      "time": "2026-06-03 16:37:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said the central bank must monitor stability in the Japanese government bond market, and that portfolio adjustments by banks and individual investors may take some time."
+    },
+    {
+      "id": "4914718",
+      "time": "2026-06-03 16:37:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家颶風中心風暴公告：低壓系統正逐步增強，預計今日晚些時候將發展為熱帶風暴。"
+    },
+    {
+      "id": "4914717",
+      "time": "2026-06-03 16:37:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商積餘：聘任王曉波為公司副總經理】招商積餘6月3日公告，公司當天召開第十一屆董事會第九次會議，審議透過了《關於聘任公司副總經理的議案》。根據工作需要，經公司總經理提名、董事會提名和薪酬委員會資格審查，董事會同意聘任王曉波為公司副總經理，任期自本次董事會審議透過之日起至第十一屆董事會屆滿之日止。"
+    },
+    {
+      "id": "mkt:019e8ca1-49a3-7998-8c64-741458173b95",
+      "time": "2026-06-03 16:37:06",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said CPI YoY growth could rise markedly, especially in fiscal 2026."
+    },
+    {
+      "id": "4914716",
+      "time": "2026-06-03 16:36:48",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本央行必須密切關注日本國債市場的穩定性，銀行與個人投資者的投資組合調整可能需要一段時間才能完成。"
+    },
+    {
+      "id": "4914715",
+      "time": "2026-06-03 16:36:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭稱多地受襲擊影響發生斷電 正在進行搶修】當地時間6月3日上午，烏克蘭國家電力公司通報，受俄方炮擊影響，哈爾科夫州、切爾尼戈夫州、第聶伯羅彼得羅夫斯克州、扎波羅熱州四地新增斷電情況。該電力公司同時表示，目前已在安全條件達標區域，啟動電力搶修與恢復作業。俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4914714",
+      "time": "2026-06-03 16:36:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "高市早苗：貨幣政策具體細則應交由日本央行敲定。"
+    },
+    {
+      "id": "mkt:019e8ca0-9bcd-7998-8c64-6a8d6938b89b",
+      "time": "2026-06-03 16:36:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan Governor Ueda said he expects the economy to continue growing moderately despite a slowdown, a trend that may be supported by high corporate profits, policy measures and an accommodative financial environment."
+    },
+    {
+      "id": "4914713",
+      "time": "2026-06-03 16:36:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏輝果蔬：收購施美藥業41.128%股份已完成】宏輝果蔬公告，公司全資子公司上海騰暉醫藥技術有限公司已完成對江西施美藥業股份有限公司41.128%股份的收購。本次交易金額為7億元，分為兩期支付，首期2.1億元已於2026年5月19日支付，第二期1.4億元已於2026年5月22日支付。施美藥業已完成股東名冊變更，上海騰暉成為其股東。公司已實現對施美藥業的實質管理控制。"
+    },
+    {
+      "id": "mkt:019e8ca0-1a75-7998-8c64-678d40c1e08e",
+      "time": "2026-06-03 16:36:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "UEDA said Japan's government bond market is steadily improving as the Bank of Japan has made progress in reducing JGB purchases."
+    },
+    {
+      "id": "4914712",
+      "time": "2026-06-03 16:35:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男稱：儘管經濟增速有所放緩，但預計仍將保持溫和增長，增長動能大機率來自處於高位的企業利潤、各項經濟政策措施，以及寬鬆的金融環境。"
+    },
+    {
+      "id": "4914711",
+      "time": "2026-06-03 16:35:44",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【金富科技三日跌22.63% 東吳證券蘇州石路三日淨賣出2.54億元】金富科技三日跌22.63%，三日成交額30.05億元，盤後龍虎榜資料顯示，東吳證券蘇州石路三日淨賣出2.54億元，3家機構專用席位三日淨買入4800.4萬元，有1家機構專用席位三日淨賣出2056.75萬元。"
+    },
+    {
+      "id": "4914710",
+      "time": "2026-06-03 16:35:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：隨著日本央行在縮減日本國債購買量方面取得進展，日本國債市場的執行狀況正在穩步改善。"
+    },
     {
       "id": "mkt:019e8c9f-bb09-7998-8c64-5ab314d209c5",
       "time": "2026-06-03 16:35:32",
@@ -101,6 +377,15 @@
         "公司"
       ],
       "text": "【新恆匯：持股5%以上股東部分股份質押 累計質押比例超5%】新恆匯公告稱，近日合計持股5%以上股東高新城投對所持有公司450,000股股份辦理質押，佔其所持股份比例4.64%，佔公司總股本比例0.19%，質押起始日為2026年6月2日，質權人為山東龍信小額貸款有限公司，質押用途為融資需求。截至公告披露日，高新城投及其一致行動人高新產投累計質押股份14,504,350股，佔其所持股份比例96.64%，佔公司總股本比例6.05%，質押風險可控，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606033759043372",
+      "time": "2026-06-03 16:33:22",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【植田和男：將不斷提高利率以應對經濟和通脹狀況】日本央行行長植田和男表示，將不斷提高利率以應對經濟和通脹狀況。如果上行風險加大，就需要討論加息問題。日本央行的基本立場是根據經濟、物價和金融發展繼續提高政策利率。今年的油價漲幅雖然不如第一次石油危機時期，但與其他衝擊相比，其幅度相當。"
     },
     {
       "id": "mkt:019e8c9d-99c7-7998-8c64-430814860a35",
@@ -170665,98 +170950,6 @@
         "Impact bullish"
       ],
       "text": "【Kuaishou Says Kling AI Revenue Tops 650 Million Yuan in Q1】Kuaishou (1024.HK) said its Kling AI business generated more than 650 million yuan in revenue in the first quarter of 2026, up over 300% year on year. The company said Kling AI’s commercialization is accelerating, with annualized revenue run rate (ARR) reaching nearly $500 million as of March. In February, it launched the Kling 3.0 model series, further upgrading its model capabilities, product architecture and application scenarios."
-    },
-    {
-      "id": "4902106",
-      "time": "2026-05-27 16:40:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太極實業：董事長方濤因工作調整辭職】太極實業公告，公司董事長方濤因工作調整，向董事會提出辭職，辭去董事長、董事及董事會戰略與投資委員會主任委員職務，辭職自報告送達董事會時生效。方濤辭職後不再擔任公司任何職務，且未持有公司股票。公司董事一致同意推舉董事、總經理王毅勃暫代行董事長及董事會戰略與投資委員會主任委員職責，直至新任董事長產生。同時，董事會透過補選秦晨飛為非獨立董事候選人的議案。"
-    },
-    {
-      "id": "4902105",
-      "time": "2026-05-27 16:39:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安德利：5月26 - 27日斥資3761.05萬元回購222.75萬股】安德利果汁公告稱，公司於2026年5月26 - 27日在香港聯交所回購股份，累計回購222.75萬股，佔已發行股份總數0.67%，付出價格總額3761.05萬元。其中，5月26日回購117.8萬股，每股價格16.48 - 17港元；5月27日回購104.95萬股，每股價格16.4 - 16.9港元。公司於5月12日獲回購授權，可回購總數636.52萬股，暫止期至6月27日。"
-    },
-    {
-      "id": "4902104",
-      "time": "2026-05-27 16:39:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天鐵科技：控股股東部分股份質押、解質及部分質押延期購回】天鐵科技公告稱，公司控股股東、實際控制人王美雨部分股份質押、解除質押及部分股份質押延期購回。王美雨於5月25日質押1350萬股，佔其所持股份22.83%，佔總股本1.04%；同日解除質押1350萬股，佔比相同；2600萬股質押延期至8月22日，佔其所持股份43.97%，佔總股本2.00%。截至公告披露日，控股股東、實際控制人及其一致行動人無平倉或強制過戶風險，不涉及業績補償義務。"
-    },
-    {
-      "id": "4902103",
-      "time": "2026-05-27 16:39:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【公募總規模首次突破39萬億關口 再創歷史新高】中基協最新公佈的公募基金市場資料顯示，我國公募基金總規模在4月份增長超1.8萬億元，總規模達到39.36萬億元，再創歷史新高。分基金型別來看，貨幣基金規模在4月增長超6400億，債券基金增長超5100億，混合基金增長超3900億，股票基金總規模增長超1600億。此外，FOF、QDII基金的規模也在4月實現增長。"
-    },
-    {
-      "id": "4902102",
-      "time": "2026-05-27 16:39:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟AI亞太總裁張祺新書釋出，提出“OPE”一人即系統】今日舉辦的《OPE：一人即系統》新書釋出會上，新書作者微軟全球資深副總裁、微軟AI亞太總裁張祺分享指出，從聊天互動到智慧體再到數字勞動力系統，智慧體正在重塑全球商業系統，OPE（One Person Entrepreneur）單人創業家正在改變各行業工作方式，在軟體開發、遊戲產業、影視內容製作、電商、文旅及營銷行業發生著越來越多的作用。（新浪科技）"
-    },
-    {
-      "id": "4902101",
-      "time": "2026-05-27 16:38:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球最大純電動集裝箱船的姊妹船“寧遠電鵬”將於下個月完成試航並交付】在今日舉行的2026海絲港口合作論壇·航運與船舶專題論壇上，寧波遠洋總經理陳勝表示，公司旗下全球最大純電動集裝箱船“寧遠電鯤”的姊妹船“寧遠電鵬”將於下個月完成試航並交付，此兩艘船將在寧波至乍浦航線上形成規模化、常態化運營。注：“寧遠電鯤”輪於4月15日投入運營，首月完成航次27個，航行總里程1798.9海里，累計充電量295057.5kWh，單航次總耗電（航行+靠泊）10923.33kWh，單航次充滿電時長5.91h。"
-    },
-    {
-      "id": "4902100",
-      "time": "2026-05-27 16:38:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊官員說伊美戰爭重啟可能性“低”】據伊朗塔斯尼姆通訊社27日報道，伊朗伊斯蘭革命衛隊海軍官員穆罕默德·阿克巴爾扎德表示，與美國重新發生戰爭的可能性“低”，但伊朗武裝力量已“裝滿彈匣”做好準備。阿克巴爾扎德26日在伊朗贊詹省向民眾發表講話說，伊朗人民絕不向威脅屈服。美國在霍爾木茲海峽問題上“戰略失敗”，“他們曾聲稱能開啟霍爾木茲海峽，但在這條通道被封鎖後，他們用盡全力也只是束手無策”。 (新華社)"
-    },
-    {
-      "id": "mkt:019e6894-d462-7223-8ecf-d79709b3038f",
-      "time": "2026-05-27 16:37:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "1024.HK",
-        "Impact bullish"
-      ],
-      "text": "Kuaishou Technology says Kling AI revenue exceeded CNY650 mln in Q1, up more than 300% YoY"
-    },
-    {
-      "id": "4902099",
-      "time": "2026-05-27 16:37:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亨通光電：控股股東1300萬股股份解除質押】亨通光電公告稱，5月26日，控股股東亨通集團將質押給中國民生銀行上海分行的1300萬股無限售流通股辦理解除質押手續，於5月27日辦理完畢。亨通集團持有公司股份5.94億股，佔總股本24.07%，本次解質股份佔其所持股份比例2.19%，佔公司總股本比例0.53%。本次解質後，亨通集團累計質押股份3.48億股，佔其持股數量的58.55%，佔公司總股本的14.10%。"
-    },
-    {
-      "id": "4902098",
-      "time": "2026-05-27 16:36:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“AI指揮官”協助電力保供 提速配網維修“最後一公里”】記者從國家能源局瞭解到，我國近日正式對外公佈了51個“人工智慧+”能源高價值場景清單。這51個高價值場景涵蓋了“人工智慧+”電網、“人工智慧+”新能源、“人工智慧+”水電、“人工智慧+”火電等八大領域。公佈這51個高價值場景，就是為人工智慧與能源的深度融合提供清晰、可落地的實踐指引，加速AI技術在能源行業的規模化應用。（央視新聞）"
-    },
-    {
-      "id": "4902097",
-      "time": "2026-05-27 16:36:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天原股份：擬向控股股東發行股票 發行後實控人不變】天原股份公告稱，公司擬向控股股東宜賓發展發行不超96,144,578股，不超發行前總股本30%，若期間總股本變動，發行數量相應調整。發行前，宜賓發展及其一致行動人持股26.68%；發行完成後，持股比例將提升至31.73%，控股股東、實控人不變。本次發行符合免於要約條件，已獲股東會批准，尚需深交所稽核和證監會註冊，最終發行數量或調整，存在不確定性。"
     }
   ]
 }
