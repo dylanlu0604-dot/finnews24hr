@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-03 14:40:42",
+  "updated": "2026-06-03 14:44:44",
   "count": 18488,
   "items": [
+    {
+      "id": "mkt:019e8c39-9390-7ee2-b141-f4d657c6cf75",
+      "time": "2026-06-03 14:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SmartSens launches multiple CMOS sensors for AI glasses】At the 16th Songshan Lake China IC Innovation Summit, SmartSens said the global AI glasses market is shifting from proof-of-concept to scale and could expand nearly fourfold by 2026, with China growing notably faster than the global average. SmartSens has launched several dedicated CMOS image sensors for AI glasses and moved them into mass production. Its second-generation SC1220IOT features an Always‑On low‑power mode down to 1 mW — over 20% lower power than comparable products — a package roughly 10% smaller than the prior generation, supports high‑frame‑rate video up to 12MP@60fps, and retains high dynamic range with low noise."
+    },
+    {
+      "id": "mkt:019e8c39-8a6e-7ee2-b141-e869f7f90a22",
+      "time": "2026-06-03 14:44:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Brent crude up 2.00% intraday, trading at $97.16/bbl."
+    },
+    {
+      "id": "4914415",
+      "time": "2026-06-03 14:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭的遠端制裁打擊行動取得了良好成效。昨夜，俄羅斯領土上的重要設施被擊中。"
+    },
+    {
+      "id": "4914414",
+      "time": "2026-06-03 14:43:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "科威特航空宣告：伊朗襲擊科威特國際機場後，公司將暫停運營，直至另行通知。"
+    },
+    {
+      "id": "te:markets:556017",
+      "time": "2026-06-03 14:43:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Rebounds to One-Month Peak — Australia's ASX 200 rose 61 points, or 0.7%, to close at 8,786 on Wednesday, recovering from subdued trade in the prior two sessions and reaching its highest level in a month. A weaker Q1 GDP reading reinforced views that the central bank may pause further policy tightening after delivering three rate hikes so far this year amid persistent inflation pressures. Gains were led by producer manufacturing, non-energy minerals, and process industries, which more than offset weakness in consumer, healthcare, and commercial services stocks. BHP Group jumped 2.5% to a record high as copper and iron ore prices increased. Rio Tinto gained 1.9%, also reaching a fresh peak. Northern Star Resources surged 4% after Morningstar highlighted the possibility of a sale of the gold miner. Fuel retailer Ampol added over 2% after Australia's competition regulator approved its acquisition of EG Australia. Financial stocks also advanced, with the four major banks posting gains of between 1.0% and 1.7%."
+    },
+    {
+      "id": "mkt:019e8c39-2c07-7ee2-b141-e061da32e196",
+      "time": "2026-06-03 14:43:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Zelenskiy said Ukraine’s long-range punitive strikes have been effective; key facilities on Russian territory were struck overnight."
+    },
+    {
+      "id": "mkt:019e8c39-08cb-7ee2-b141-db9242ed983c",
+      "time": "2026-06-03 14:43:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Fliggy says 618 GMV for group tours, chartered tours and attraction tickets doubled YoY】As of 24:00 on June 2, Fliggy reported transaction value (GMV) for domestic group tours, chartered tours, attraction tickets and local activities during its 618 promotion more than doubled YoY. Newly launched domestic cruise packages debuted in the 618 event and have driven cumulative cruise bookings past 10,000."
+    },
+    {
+      "id": "4914412",
+      "time": "2026-06-03 14:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛豬618跟團遊、包車遊、景區門票成交額均翻倍】近日，飛豬宣佈，截至6月2日24時，參與618大促的國內跟團遊、包車遊、景區門票、當地玩樂成交額同比全部翻倍增長。首次亮相618大促的國內郵輪新品也備受歡迎，帶動郵輪累計銷量已破萬件。"
+    },
+    {
+      "id": "mkt:019e8c38-3f42-7ee2-b141-d181396f4962",
+      "time": "2026-06-03 14:42:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA Director General GROSSI said the agency will continue to support the UAE in maintaining the highest standards of nuclear safety and security."
+    },
+    {
+      "id": "mkt:019e8c38-1811-7ee2-b141-c902bf954803",
+      "time": "2026-06-03 14:42:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "【Morgan Stanley: MSCI Emerging Markets EPS seen up 40% in 2026】Morgan Stanley Asia and emerging markets equity strategist Daniel Blake projects MSCI Emerging Markets index EPS to rise 40% in 2026 and slow to 9% in 2027, slightly below consensus. He says recent consensus earnings revisions in EM have been driven mainly by information technology and energy. The firm favors North Asia, Brazil, Greece, Hungary and Saudi Arabia, prefers China A‑shares, and highlights capital expenditure (capex) outperformance versus consumption."
+    },
+    {
+      "id": "4914411",
+      "time": "2026-06-03 14:42:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "mkt:019e8c37-ff0c-7ee2-b141-c3eae0093d45",
+      "time": "2026-06-03 14:42:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "GROSSI says the UAE's peaceful nuclear energy program is built on the highest standards of safety, transparency and international cooperation."
+    },
+    {
+      "id": "4914410",
+      "time": "2026-06-03 14:41:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：預計2026年MSCI新興市場指數每股收益將增長40%】摩根士丹利亞洲及新興市場股票策略師丹尼爾·布萊克近日在全球宏觀論壇上提出了中期展望，預計2026年MSCI新興市場指數每股收益將增長40%，2027年將降至9%，略低於市場一致預期。當前新興市場的一致預期盈利修正主要受資訊科技和能源板塊驅動。該機構表示，看好北亞、巴西、希臘、匈牙利和沙烏地阿拉伯地區，更看好中國A股市場，並強調資本支出優於消費。"
+    },
+    {
+      "id": "mkt:019e8c36-f017-7ee2-b141-bf01215abf18",
+      "time": "2026-06-03 14:41:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bahrain's military said it shot down Iranian drones and missiles during defensive operations. Earlier reports said Bahrain intercepted three missiles and multiple drones."
+    },
     {
       "id": "mkt:019e8c35-c238-7ee2-b141-b7b6a711750e",
       "time": "2026-06-03 14:39:53",
@@ -169624,144 +169759,6 @@
         "Important"
       ],
       "text": "France | INSEE Consumer Confidence Index (May) | actual 82 | consensus 83 | previous 84"
-    },
-    {
-      "id": "4901839",
-      "time": "2026-05-27 14:44:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：2026年將赤字目標控制在5%以下，2029年控制在3%以下。"
-    },
-    {
-      "id": "4901838",
-      "time": "2026-05-27 14:44:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄體育部長：國際大學生體育聯合會恢復俄羅斯運動員參賽資格】俄羅斯體育部長傑格佳廖夫26日表示，國際大學生體育聯合會已宣佈允許俄羅斯運動員參加其旗下各賽事，包括夏季和冬季世界大學生運動會，該決定由國際大學生體育聯合會做出，並立即生效。（央視新聞）"
-    },
-    {
-      "id": "4901837",
-      "time": "2026-05-27 14:44:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：是否對道達爾能源徵收一次性稅，將由立法者決定。"
-    },
-    {
-      "id": "4901836",
-      "time": "2026-05-27 14:44:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：政府將提交不增稅的預算案。"
-    },
-    {
-      "id": "4901835",
-      "time": "2026-05-27 14:43:47",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【全國人大常委會法工委：立法規劃實施成效顯著】全國人大常委會法工委副主任黃薇在國務院新聞辦新聞釋出會上表示，截至目前，十四屆全國人大常委會立法規劃推進順利，任期內擬提請審議的79件第一類專案已完成58件，完成率為73.4%，其他專案有序推動。（新華社）"
-    },
-    {
-      "id": "mkt:019e682c-9aff-700e-adbe-1816299d0789",
-      "time": "2026-05-27 14:43:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "Shanghai and Shenzhen turnover exceeds CNY3 trln, down CNY9.5 bln from same time previous session."
-    },
-    {
-      "id": "mkt:019e682b-9e63-700e-adbe-13add937094a",
-      "time": "2026-05-27 14:42:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "KASHKARI says inf shockwave from Middle East war may continue to spread globally"
-    },
-    {
-      "id": "mkt:019e682b-6df1-700e-adbe-09720be43bb9",
-      "time": "2026-05-27 14:42:08",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "KASHKARI says global inf concerns are weighing on bond markets"
-    },
-    {
-      "id": "mkt:019e682b-2ea6-700e-adbe-020f937f0598",
-      "time": "2026-05-27 14:41:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "KASHKARI says most US data since his April dissent show inf risks rising, not falling"
-    },
-    {
-      "id": "mkt:019e682a-e35b-700e-adbd-fe0babede3a6",
-      "time": "2026-05-27 14:41:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's KASHKARI says US inf risk currently higher than labor-market deterioration risk; both must be monitored"
-    },
-    {
-      "id": "mkt:019e682a-932e-700e-adbd-f3a9bbdceb7d",
-      "time": "2026-05-27 14:41:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KASHKARI says Fed should maintain neutral policy outlook"
-    },
-    {
-      "id": "em:qqyh_mlc:202605273751237380",
-      "time": "2026-05-27 14:41:14",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲卡什卡利表示，美聯儲未來應保持中性政策立場。"
-    },
-    {
-      "id": "4901834",
-      "time": "2026-05-27 14:41:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時縮量95億元。"
-    },
-    {
-      "id": "mkt:019e682a-531d-700e-adbd-edfdf945b2cb",
-      "time": "2026-05-27 14:41:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KASHKARI says too early to predict timing of next Fed action when asked about market pricing for an October rate hike"
     }
   ]
 }
