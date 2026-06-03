@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-04 07:15:31",
-  "count": 19242,
+  "updated": "2026-06-04 07:19:18",
+  "count": 19244,
   "items": [
+    {
+      "id": "mkt:019e8fc8-1458-7443-8fe5-db6346778643",
+      "time": "2026-06-04 07:18:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US State Dept: Israel, Lebanon agree to resume direct talks】The US State Department said on June 3 that Israel and Lebanon have accepted US guidance to rapidly establish pilot zones in which the Lebanese Armed Forces (LAF) will exercise exclusive control and all non-state actors will be excluded. A ceasefire is conditional on two preconditions: Hezbollah must fully stop firing and all Hezbollah personnel must withdraw from south of the Litani River. Delegations, building on May 29 defense talks, discussed a security framework and agreed to restart the political and security track in the week of June 22 aiming for a comprehensive agreement."
+    },
+    {
+      "id": "4916129",
+      "time": "2026-06-04 07:17:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時隔8年A股再迎航司IPO，長龍航空擬募資20億元】據上交所官網6月2日晚訊息，浙江長龍航空股份有限公司主機板IPO申請獲受理。招股說明書（申報稿）顯示，長龍航空此次IPO擬募資不超過20億元，將用於A320系列飛機引進專案、備用發動機購置專案和補充流動資金。若成功上市，長龍航空將成為繼2018年3月華夏航空上市後，時隔8年又一家登陸A股的客運航空公司，也將成為第五家民營A股上市航司。（上證報）"
+    },
+    {
+      "id": "4916128",
+      "time": "2026-06-04 07:17:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多家上市公司正擴產高效能碳纖維產品】6月3日，多家高效能碳纖維概念股大漲。有訊息稱，我國高效能碳纖維領域技術研發獲重大突破。上海石化聯合上海石油化工研究院攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產。對此，有不願具名的上市公司高管對記者表示，T代表拉伸強度，拉伸強度等級越高，則應用場景越高階。6月3日高效能碳纖維概念股大漲，主要是由於市場對於高效能碳纖維領域有比較好的預期。而多家上市公司此前表示，正在對高效能碳纖維產品進行擴產。（中證報）"
+    },
+    {
+      "id": "4916127",
+      "time": "2026-06-04 07:16:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國擬削減對北約的飛機和艦艇支援 要求盟友迅速填補】據報道，一名美國高階將領週三表示，隨著華盛頓在相關領域減少投入，美國預計歐洲的北約盟友和加拿大將迅速增加向北約提供的有人和無人飛機以及艦船數量。北約最高指揮官和駐歐美軍司令、美國空軍上將格林克維奇（Alexus Grynkewich）在北約軍事規劃會議後發表了上述言論，此前特朗普政府決定縮減在危機時期提供給北約呼叫的美國軍事能力規模。美國總統特朗普多次批評北約，並表示歐洲成員國必須承擔起歐洲大陸常規防務的主要責任。美國上個月已告知盟友，將減少其在“北約部隊模型”中的貢獻。該框架包含一支可在危機時期啟用的部隊儲備。美國未公開披露計劃削減的細節，但一位軍方訊息人士表示，削減範圍涵蓋多個領域，包括包括空中加油機、戰鬥機、無人機和海軍艦艇等。該匿名人士稱，美國尚未明確說明這些裝備何時將不再提供給北約。"
+    },
+    {
+      "id": "4916126",
+      "time": "2026-06-04 07:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界半導體貿易統計組織：預計2026年全球半導體市場規模或超10萬億元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告，報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.511萬億美元，約合人民幣10.2萬億元，預計2027年增長26.6%，市場規模進一步升至1.914萬億美元，約合人民幣12.9萬億元。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。（央視財經）"
+    },
+    {
+      "id": "mkt:019e8fc5-85e4-7443-8fe5-d30b930c06b3",
+      "time": "2026-06-04 07:15:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Israel and Lebanon agree to ceasefire, conditional on Hezbollah halt and withdrawal】On the 3rd the US, Israel and Lebanon said in a joint statement that following US-led talks Israel and Lebanon have agreed to implement a ceasefire, conditional on Hezbollah fully ceasing fire and withdrawing armed personnel from southern Lebanon south of the Litani River."
+    },
+    {
+      "id": "4916125",
+      "time": "2026-06-04 07:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列和黎巴嫩同意停火 但有前提 】美國、以色列和黎巴嫩3日發表聯合宣告稱，作為美國主導下談判的結果，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨完全停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。（新華社）"
+    },
     {
       "id": "mkt:019e8fc4-f15a-7443-8fe5-cac0a88cc7e0",
       "time": "2026-06-04 07:15:08",
@@ -177197,51 +177263,6 @@
         "市場"
       ],
       "text": "【機構預測業績高增長的AI智慧體概念股梳理】5月26日，支付寶在杭州宣佈，“AI支付”已累計完成3億筆AI智慧體（Agent）支付，並支援95%的通用智慧體框架。近期，三部門聯合印發《智慧體規範應用與創新發展實施意見》，明確了19個典型應用場景，為智慧體產業的落地按下了“加速鍵”。AI智慧體涉及概念股眾多，據證券時報·資料寶統計，截至5月27日收盤，AI智慧體概念股合計A股市值接近2.4萬億元，年內平均下跌3.47%。近期AI智慧體概念股成交活躍度提升明顯。據資料寶統計，相關個股5月以來日均成交額均值達到7.84億元，環比增長30.02%。22股日均成交額環比增幅在100%以上，其中南威軟體、阿爾特、賽意資訊、美格智慧、嘉環科技日均成交額環比增幅排在前五位。未來增長潛力方面，根據5家及以上機構一致預測，今明兩年淨利潤增速均有望超20%的AI智慧體概念股有17只。以最新收盤價與年內高點相比，這17只股票中，回撤幅度逾20%的有10只，包括合合資訊、迪安診斷、稅友股份、青木科技、漢得資訊等。"
-    },
-    {
-      "id": "mkt:019e6bbb-180d-722a-b522-a5c98d41ccf3",
-      "time": "2026-05-28 07:18:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. Official: U.S. MILITARY Carried Out New Strike On Iranian Military Base】A U.S. official told Refinitiv the U.S. MILITARY carried out a new strike on an Iranian military base that posed a threat to U.S. MILITARY and commercial navigation in the Strait of Hormuz. The U.S. MILITARY also intercepted and shot down multiple Iranian drones that threatened U.S. MILITARY and commercial maritime traffic."
-    },
-    {
-      "id": "4903289",
-      "time": "2026-05-28 07:17:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一名美國官員透露，美軍已對一處伊朗軍事設施發動新襲擊；該設施對美國駐軍以及霍爾木茲海峽的通航商船構成了威脅。"
-    },
-    {
-      "id": "4903288",
-      "time": "2026-05-28 07:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國官員稱，美軍還攔截並擊落了多架對美軍及商業航運構成威脅的伊朗無人機。"
-    },
-    {
-      "id": "4903287",
-      "time": "2026-05-28 07:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "LG新能源：與美國DTE能源簽署16億美元儲能系統電池供應協議。"
-    },
-    {
-      "id": "4903286",
-      "time": "2026-05-28 07:16:18",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【英國5月消費服務業信心指數跌至一年多來最低點】英國工業聯盟(CBI)週四釋出的一項調查顯示，本月英國面向消費者的服務業企業的信心指數下跌至2025年2月以來最低點，而商業服務業近期出現的信心回升勢頭，也出現了逆轉。“利潤正在急劇下降，企業被迫縮減投資並裁減員工，”CBI經濟調查與資料經理Charlotte Dendy表示。她補充道：“隨著未來幾個月通脹率預計將上升，消費者將更加謹慎，這將給本已低迷的需求環境帶來進一步壓力。”由於成本上漲速度超過了企業提價能力，消費服務企業的整體盈利能力以2020年8月以來最快的速度下滑。消費服務行業的樂觀指數從2月的負45下降至5月的負49，創下2025年2月以來的最低水平。商業及專業服務行業的樂觀指數從2月的負3下降至5月的負46，創2025年11月以來新低。"
     }
   ]
 }
