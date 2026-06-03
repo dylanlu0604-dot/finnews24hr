@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-03 20:48:17",
-  "count": 18924,
+  "updated": "2026-06-03 20:52:23",
+  "count": 18925,
   "items": [
+    {
+      "id": "mkt:019e8d89-c008-7ccb-b659-d78c50cae8be",
+      "time": "2026-06-03 20:51:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel's foreign ministry says Hezbollah an Iranian proxy, a tragedy for Lebanon and a threat to Israel】Israel's foreign ministry said Hezbollah is an Iranian proxy, a tragedy for Lebanon and a threat to Israel."
+    },
+    {
+      "id": "mkt:019e8d88-bd14-7ccb-b659-ca593e9b08d9",
+      "time": "2026-06-03 20:50:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Barr will participate in a panel discussion at the 2026 Community Development Bankers Association peer forum in 10 minutes."
+    },
+    {
+      "id": "4915424",
+      "time": "2026-06-03 20:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多總統擬將內閣部門數量從 14 個精簡至 10 個。"
+    },
+    {
+      "id": "4915423",
+      "time": "2026-06-03 20:49:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "NAVITAS半導體股價延續漲勢，盤前上漲23%。"
+    },
+    {
+      "id": "4915422",
+      "time": "2026-06-03 20:49:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陽光電源釋出PowerMatrix矩陣逆變器，破局行業“不可能三角”】陽光電源釋出PowerMatrix矩陣逆變器，並同步推出以其為核心的矩陣逆變系統。該矩陣逆變器是整合光伏逆變、儲能變流、能量路由與構網控制於一體的全新品類，是面向新型電力系統的核心能量節點。以其為核心的矩陣逆變系統，則突破了傳統系統架構分散耦合、能量流動路徑單一、協同能力弱等侷限。"
+    },
+    {
+      "id": "4915421",
+      "time": "2026-06-03 20:49:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內蒙古打造高原寒地低空經濟綜試基地】6月3日，內蒙古高原寒地低空經濟超大場景綜合試驗基地建設推進會暨應用場景釋出會在內蒙古自治區包頭市舉行。記者從釋出會上瞭解到，中國航天科技集團第九研究院將與包頭市深化央地協同，共建國內領先的高原寒地低空經濟試驗驗證基地。中國航天科技集團有限公司總工程師李忠寶表示，航天科技集團在無人機飛行器、低空安全、綜合試驗與運營服務等方面加速構建產業體系能力。央地雙方已在試驗基地場景規劃、技術攻關、資源整合等方面取得階段性合作成果。（新華社）"
+    },
+    {
+      "id": "mkt:019e8d87-9003-7ccb-b659-c2b06aca118a",
+      "time": "2026-06-03 20:48:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IAEA report flagged rising nuclear proliferation risk, saying Iran's nuclear risk is assessed as higher than before Trump ordered strikes."
+    },
+    {
+      "id": "4915420",
+      "time": "2026-06-03 20:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構指出相關核擴散風險。伊朗核風險較特朗普發起襲擊前有所上升。"
+    },
     {
       "id": "te:markets:556165",
       "time": "2026-06-03 20:47:31",
@@ -13,6 +88,14 @@
         "Importance 1"
       ],
       "text": "Dollar Near 2-Month High — The dollar index strengthened further to 99.4 on Wednesday, reaching the highest level in about two months, after the ADP report showed that the private sector added 122K jobs in May, exceeding expectations and marking a new high since January 2025. The data pointed to a labor market that continues to gain momentum, reinforcing expectations that the Fed could raise interest rates later this year. Earlier this week, JOLTS data showed that job openings in April rose to their highest level since November 2024, further highlighting the resilience of labor demand. The greenback was already drawing support from escalating tensions in the Middle East, which lifted oil prices for a third consecutive session and heightened concerns over inflationary pressures. Markets now price in an 85% probability of a quarter-point Federal Reserve rate hike by year-end, up from 60% a week ago."
+    },
+    {
+      "id": "4915419",
+      "time": "2026-06-03 20:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞衛生國務秘書表示，美方援建埃博拉診療單元專案將繼續施工。"
     },
     {
       "id": "4915418",
@@ -190,6 +273,14 @@
         "市場"
       ],
       "text": "納斯達克100指數期貨轉跌，標普500指數期貨下跌0.3%。"
+    },
+    {
+      "id": "4915408",
+      "time": "2026-06-03 20:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞總統候選人言行不當惹爭議】美國總統唐納德·特朗普2日公開為哥倫比亞總統候選人阿韋拉多·德拉埃斯普列亞背書。德拉埃斯普列亞被視作哥倫比亞極右翼陣營代表，在首輪選舉投票中領先，但其近期言行引發不少爭議，2日被法院勒令為其涉嫌性別歧視的不當言論公開道歉。哥倫比亞5月31日舉行總統選舉首輪投票，現年47歲的德拉埃斯普列亞以將近44％的得票率領先，排名第二的左翼候選人伊萬·塞佩達得票率近41%，兩人將進入6月21日舉行的決勝輪投票。位列第三的右翼候選人帕洛瑪·瓦倫西亞已宣佈支援德拉埃斯普列亞。（新華社）"
     },
     {
       "id": "4915407",
@@ -173875,99 +173966,6 @@
         "公司"
       ],
       "text": "【海默科技：持股5%以上股東權益變動觸及1%刻度】海默科技公告稱，持股5%以上股東竇劍文於2026年4月29日至5月11日，透過集中競價交易減持294萬股，持股比例由7.61%降至7.03%。5月21日，因公司2025年限制性股票激勵計劃增發4037萬股，公司總股本增加，竇劍文持股比例稀釋至6.51%，權益變動觸及1%整數倍。此次減持在已披露的減持計劃範圍內，減持計劃尚在進行中。"
-    },
-    {
-      "id": "te:markets:554097",
-      "time": "2026-05-27 20:51:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Fall to Over 2-Week Low — European natural gas futures dropped 5% to around €45 per megawatt hour, the lowest in over two weeks, after Iranian state television said Tehran aims to restore commercial shipping through the Strait of Hormuz to pre-war levels within a month, boosting optimism that the US and Iran are nearing a deal to reopen the key energy route. The Strait is critical for global LNG flows, and prolonged disruption could increase competition for limited supplies, complicating Europe’s efforts to rebuild inventories ahead of winter. European gas storage sites are currently around 38% full, well below the five year average of just above 50% for this time of year, while refilling activity has remained slower than usual. At the same time, Europe is facing its first major heat wave of the season, with temperatures expected to break records across cities including London, Paris and Madrid through the rest of the week."
-    },
-    {
-      "id": "4902674",
-      "time": "2026-05-27 20:51:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊朗與阿曼正就霍爾木茲海峽管理機制進行談判】當地時間27日，伊朗最高國家安全委員會副秘書巴蓋裡表示，當前伊朗與阿曼正就霍爾木茲海峽的管理機制展開談判，旨在制定一套針對船隻透過霍爾木茲海峽的全新機制。巴蓋裡稱，未來霍爾木茲海峽的通行條件和程式，將與美以伊衝突開始前的情況“完全不同”。他還稱，在全部問題達成一致前，任何議題都不算最終敲定。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e697c-db2b-7223-8ed3-14fada6d21fd",
-      "time": "2026-05-27 20:50:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【PENTAGON Draws Up Iran Target List as Trump Prepares to Resume Strikes】PENTAGON draws up Iran target list on May 27 as Trump prepares to resume strikes; planned operation named \"Big Hammer\"; targets include Natanz and Isfahan nuclear sites, kharg oil facilities, power plants, military command and comms centres; officials say many previously struck targets were exposed but missile launchers and drones are now more concealed and harder to hit"
-    },
-    {
-      "id": "4902673",
-      "time": "2026-05-27 20:49:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：預計印度2026年小麥產量為1.2066億噸，去年同期為1.1795億噸。"
-    },
-    {
-      "id": "te:markets:554096",
-      "time": "2026-05-27 20:49:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Falls to 6-Week Low — The Canadian dollar weakened past 1.382 per USD in late May, its lowest in six weeks, amid a backdrop of soft inflation domestically and risks to growth. The Bank of Canada’s preferred core inflation gauges slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The data reinforced recent guidance from the central bank that energy-driven inflation may prove temporary and reduced expectations of additional rate hikes. Meanwhile, Canada’s GDP is expected to stagnate in the first quarter of 2026, further supporting expectations that the BoC will keep rates unchanged. In contrast, resilient labor market data and firmer core inflation in the US strengthened expectations that the Federal Reserve could raise interest rates again this year, supporting the US dollar."
-    },
-    {
-      "id": "4902672",
-      "time": "2026-05-27 20:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利國會透過法案 撤銷退出國際刑事法院的決定】匈牙利國會27日投票透過一項法案，撤銷此前該國退出國際刑事法院的決定。在當天的投票中，該法案獲得133票贊成、37票反對和5票棄權。匈牙利政府22日在政府公報中曾宣佈，撤銷該國退出國際刑事法院的決定。該法案由匈牙利總理毛焦爾·彼得26日代表政府提交國會。毛焦爾表示，為維護國際和平與安全、保護人權，並追究嚴重國際罪行肇事者的責任，匈牙利必須繼續參與《國際刑事法院羅馬規約》。（新華社）"
-    },
-    {
-      "id": "mkt:019e697b-52df-7223-8ed3-09b84cbd23b1",
-      "time": "2026-05-27 20:49:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's parliament votes to revoke decision to withdraw from International Criminal Court"
-    },
-    {
-      "id": "mkt:019e697b-19fa-7223-8ed3-029f15c4e7ae",
-      "time": "2026-05-27 20:48:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Traders Cut Bets on Bank of England Rate Hikes】Traders cut bets on Bank of England hikes to one this year amid weaker oil and easing inf expectations; money markets price 36 bps of cumulative hikes by year-end, lowest in over a month; swaps tied to policy dates imply one 25 bp hike and under 50% chance of a second; probability of first hike in July about 50%; Bank of England governor Bailey said inf expectations have not become unanchored; April inf slowed to lowest in over a year."
-    },
-    {
-      "id": "4902671",
-      "time": "2026-05-27 20:48:48",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【交易員削減對英國央行加息的押注】受油價下跌及通脹預期回落的影響，交易員目前押注英國央行今年僅會加息一次。貨幣市場目前押注，截至年底英國央行將累計加息36個基點——這是逾一個月來的最低預期水平。根據與政策會議日期掛鉤的掉期合約顯示，這一預期相當於一次25個基點的加息，且再次加息的機率已不足50%。由於英國高度依賴進口能源，其經濟極易受到戰爭引發的衝擊；因此，交易員預計衝突若能迅速結束，將有助於進一步緩解經濟面臨的壓力。就在兩週前，市場普遍預期英國央行年內將加息兩次；而在美國和以色列對伊朗發動襲擊後的數週內，市場預期甚至一度高達加息四次。目前，交易員認為首次加息發生在7月份的機率約為50%。上週，英國央行行長貝利表示，英國的通脹預期並未出現“脫錨”現象；此前公佈的資料顯示，英國4月份的物價增速已放緩至逾一年來的最低水平。"
     }
   ]
 }
