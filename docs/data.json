@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-03 23:04:49",
-  "count": 19173,
+  "updated": "2026-06-03 23:09:02",
+  "count": 19174,
   "items": [
+    {
+      "id": "4915728",
+      "time": "2026-06-03 23:07:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：巴西不應該向任何人低頭。"
+    },
+    {
+      "id": "4915727",
+      "time": "2026-06-03 23:07:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普稅務記錄遭外洩一事涉嫌違法。"
+    },
+    {
+      "id": "4915726",
+      "time": "2026-06-03 23:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛彼迎：平臺推出收益保障及全新保險方案，為美國房東提供經濟兜底保障。"
+    },
+    {
+      "id": "mkt:019e8e05-7802-744e-9fd3-d26e47891e02",
+      "time": "2026-06-03 23:06:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say Russia's Saratov oil refinery has been offline since May 31 after a drone attack."
+    },
+    {
+      "id": "4915725",
+      "time": "2026-06-03 23:06:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會就 X 公司申請撤銷推特相關隱私監管令徵求公眾意見。"
+    },
+    {
+      "id": "mkt:019e8e05-1531-7ff7-b12c-5e7c9dfe6123",
+      "time": "2026-06-03 23:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Federal Trade Commission seeks public comment on X's petition to terminate the Twitter privacy consent decree."
+    },
+    {
+      "id": "4915724",
+      "time": "2026-06-03 23:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥：有信心規避美國新關稅。"
+    },
+    {
+      "id": "4915723",
+      "time": "2026-06-03 23:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯薩拉托夫煉油廠遭無人機襲擊後，自 5 月 31 日起已停產。"
+    },
+    {
+      "id": "4915722",
+      "time": "2026-06-03 23:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質透過港交所上市聆訊】據港交所檔案，6月3日，深圳市星源材質科技股份有限公司透過港交所上市聆訊。這家鋰離子電池隔膜製造商於2003年創立，為鋰離子電池製造商提供服務，例如LG新能源、三星SDI、遠景動力、村田、SK On、SAFT、寧德時代、比亞迪、國軒高科、中創新航、億緯鋰能和欣旺達。"
+    },
     {
       "id": "mkt:019e8e03-812b-744e-9fd3-c38cd5a9a6d6",
       "time": "2026-06-03 23:04:14",
@@ -9,6 +87,14 @@
         "MKT News"
       ],
       "text": "USD/CAD fell 0.3% to 1.3880, an eight-week low."
+    },
+    {
+      "id": "4915721",
+      "time": "2026-06-03 23:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥：美國擬加徵的新關稅不會波及汽車、鋼材品類。"
     },
     {
       "id": "4915719",
@@ -176466,92 +176552,6 @@
         "公司"
       ],
       "text": "人工智慧編碼初創公司Cognition獲10億美元融資，估值達260億美元。"
-    },
-    {
-      "id": "4902922",
-      "time": "2026-05-27 23:08:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚股東在年度股東大會上批准了公司將註冊地遷至得克薩斯州的董事會提案。"
-    },
-    {
-      "id": "4902921",
-      "time": "2026-05-27 23:08:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國地學研究中心（GFZ）：印度-南極洋脊西部海域發生5.67級地震。"
-    },
-    {
-      "id": "4902920",
-      "time": "2026-05-27 23:07:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：特朗普只會簽署符合美國利益且確保伊朗不會獲得核武器的協議。"
-    },
-    {
-      "id": "te:markets:554141",
-      "time": "2026-05-27 23:06:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures on the Rise — Cocoa futures rose toward $4,180 per tonne, the highest in nearly two weeks, driven by weather-related factors and intense short covering. The main trigger came from the Ivory Coast, the world’s largest cocoa producer, where heavy rains caused flooding in key growing regions, disrupting farming activity and logistics and raising concerns over supply flows and quality. The market has also increasingly priced in climate risks, with the potential formation of an El Niño event returning to focus and raising concerns over West African cocoa crop in the coming months. The phenomenon is associated with volatile global weather patterns, including both excess rainfall and drought conditions depending on the region. Nevertheless, signs of abundant cocoa supplies limited the upside. ICE cocoa inventories rose to a 1.75-year high of 2,745,277 bags as of May 26."
-    },
-    {
-      "id": "4902918",
-      "time": "2026-05-27 23:05:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "（美國）全國零售商協會執行長表示，中東衝突導致關鍵商品供應鏈中斷，預計將推高通脹並迫使利率進一步上行。"
-    },
-    {
-      "id": "te:markets:554140",
-      "time": "2026-05-27 23:05:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Falter on Tech Pullback — US equities were mixed on Wednesday as broad gains for traditional sectors clashed against sharp losses for chip producers and AI hyperscalers. The S&P 500 edged below the flatline and the Nasdaq 100 dropped 0.7%, both retreating from their record highs. Nvidia and Intel dropped 3% while Qualcomm sank 9%, correcting from their strong momentum this year as markets continued to assess the sustainability of the rally for companies in the AI infrastructure space. On the other hand, Micron held its 19% surge from the last session after having its price target tripled by UBS. Meanwhile, the Dow rose 300 points to a record high amid. A draft to a peace agreement with the US by Iran indicated they were open to restore trade through the Persian Gulf, although the US stated the document was a complete fabrication. Amazon and Apple were nearly 2% higher each, while Eli Lilly, Coca Cola and P&G gained up to 3.5% to set the pace for defensive stocks."
-    },
-    {
-      "id": "mkt:019e69f8-0516-7223-8ed5-290f94b3270d",
-      "time": "2026-05-27 23:05:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "RIA quoted the Kremlin as saying Putin is open to negotiations with Europe."
-    },
-    {
-      "id": "4902917",
-      "time": "2026-05-27 23:05:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司與特朗普會面，討論了提高武器產量的必要性。"
-    },
-    {
-      "id": "4902916",
-      "time": "2026-05-27 23:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：印度-南極海嶺西部發生6.0級地震。"
     }
   ]
 }
