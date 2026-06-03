@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-03 10:11:37",
-  "count": 18480,
+  "updated": "2026-06-03 10:15:37",
+  "count": 18481,
   "items": [
+    {
+      "id": "4914043",
+      "time": "2026-06-03 10:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博傑股份成立半導體公司】企查查APP顯示，近日，博捷芯（珠海）半導體有限公司成立，法定代表人為杜飛，經營範圍包含：半導體器件專用裝置銷售；微特電機及元件製造；電機制造；電力測功電機銷售；電力測功電機制造等。企查查股權穿透顯示，該公司由博傑股份旗下博捷芯（深圳）半導體有限公司全資持股。"
+    },
+    {
+      "id": "4914042",
+      "time": "2026-06-03 10:14:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊持續調整 大連電瓷觸及跌停】電網裝置板塊盤中持續調整，大連電瓷觸及跌停，思源電氣、科大智慧、白雲電器、科林電氣、神馬電力等跟跌。"
+    },
+    {
+      "id": "4914041",
+      "time": "2026-06-03 10:12:57",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國臺辦介紹臺胞參與大陸微短劇創作3種途徑】國臺辦舉行例行新聞釋出會。記者：十項促進兩岸交流合作的政策措施中，關於“臺灣業者可以多種方式參與大陸微短劇創作”引發關注，請問臺胞參與微短劇創作的方式和途徑有哪些？國務院臺辦發言人朱鳳蓮介紹主要有三種途徑：在閩投資設立廣播電視節目製作經營公司；與大陸業者合拍共創；參與演出。"
+    },
+    {
+      "id": "mkt:019e8b41-4e18-7ee2-b13d-1c404113d86b",
+      "time": "2026-06-03 10:12:50",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share organosilicon sector rallied; Dongyue Silicon Materials jumped over 10%, with Guibao Technology, Chenguang New Materials, Huitian New Materials and Hesheng Silicon also advancing."
+    },
+    {
+      "id": "mkt:019e8b40-f5f3-7ee2-b13d-15391ad20fe6",
+      "time": "2026-06-03 10:12:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index decline widened to 2%; HSI down 1.25%."
+    },
+    {
+      "id": "4914040",
+      "time": "2026-06-03 10:12:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽概念震盪拉昇 東嶽矽材漲超10%】有機矽概念震盪拉昇，東嶽矽材漲超10%，矽寶科技、晨光新材、迴天新材、合盛矽業跟漲。"
+    },
+    {
+      "id": "4914039",
+      "time": "2026-06-03 10:12:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX沒有直接的同行 因此對其估值存在不同解讀】SpaceX據悉計劃將首次公開募股（IPO）定價為每股135美元，擬發行5.556億股，籌資750億美元。SpaceX今年早些時候與馬斯克的人工智慧初創公司xAI合併，該交易對這家火箭公司的估值為1萬億美元，而Grok聊天機器人開發商的估值為2500億美元。該公司沒有直接的同行，因此對其估值存在不同解讀。根據6月1日的一份研究報告，晨星對SpaceX的估值為7800億美元，比其當前的私募市場估值低48%。其中大部分價值來自其Starlink衛星通訊業務，該業務去年貢獻了公司大部分的收入、利潤和增長。然而，SpaceX已將其大部分增長前景與人工智慧掛鉤，且其計劃中未來收入的相當一部分依賴於尚未開發的技術，包括太空中的太陽能資料中心，因為該公司瞄準了一個潛在規模達28.5萬億美元的市場。"
+    },
+    {
+      "id": "4914038",
+      "time": "2026-06-03 10:12:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報5094.990點；恒生指數現跌1.259%。"
+    },
+    {
+      "id": "mkt:019e8b40-794a-7ee2-b13d-08966d1b26f0",
+      "time": "2026-06-03 10:11:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's stock index fell more than 1%."
+    },
+    {
+      "id": "mkt:019e8b40-6540-7ee2-b13d-007e85c3806e",
+      "time": "2026-06-03 10:11:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish",
+        "TCEHY.O"
+      ],
+      "text": "【Tencent: timing of WeChat AI agent launch uncertain】A Tencent source said the launch timing for a WeChat AI agent is uncertain and will depend largely on the pace of regulators' approval. With WeChat's roughly 1.4 billion users, the compliance review could be more stringent than for other products. Tencent had no comment. Media reports that the project is an internal top-priority, highly classified initiative in preparation since at least 1H 2025 were confirmed by a Tencent source."
+    },
+    {
+      "id": "4914037",
+      "time": "2026-06-03 10:11:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX的路演將於週四開始 馬斯克在IPO後需持有其SpaceX股份366天】SpaceX的路演將於週四開始。此次路演——預計將成為近年來備受矚目的IPO路演之一——將讓潛在投資者有機會與SpaceX高管會面，同時投資銀行家們正努力為創紀錄的750億美元認購訂單簿營造需求。媒體此前曾報道，該公司正考慮將多達30%的發行份額分配給個人投資者，這一異常龐大的零售配售份額旨在藉助馬斯克近乎“教派式”的追隨者群體，並擴大公司的股權基礎。訊息人士稱，馬斯克在IPO後需持有其SpaceX股份366天，此舉向投資者傳遞了其不會出售任何持股的訊號。此次IPO的募集資金將用於擴充人工智慧計算資源及SpaceX衛星網路等用途。"
+    },
+    {
+      "id": "mkt:019e8b40-0ad6-7ee2-b13c-fe0292f06b45",
+      "time": "2026-06-03 10:11:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/IDR rose to a record high of 17,895 in early trade."
+    },
     {
       "id": "4914036",
       "time": "2026-06-03 10:10:45",
@@ -169374,98 +169492,6 @@
         "Importance 2"
       ],
       "text": "RBNZ Keeps Key Rate Unchanged — The Reserve Bank of New Zealand left its official cash rate unchanged at 2.25% at its May meeting, maintaining a cautious stance amid heightened global uncertainty stemming from the Middle East conflict. Policymakers noted that higher petrochemical prices are expected to lift inflation this year through both direct and indirect channels, with fuel cost pass-through to businesses occurring more quickly, while indirect effects are expected to filter through the economy more gradually. Underlying inflation has continued to ease, but headline inflation is expected to rise temporarily before returning toward the 2% target in 2027. Meanwhile, the economy is in an early-stage recovery with spare capacity and elevated unemployment, while higher fuel and input costs are expected to weigh on household purchasing power and business margins, dampening consumption and investment."
-    },
-    {
-      "id": "4901418",
-      "time": "2026-05-27 10:15:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【位元組跳動本月向Seed員工開放“豆包股”認購？知情人士回應】有市場訊息稱，位元組跳動本月向Seed員工開放與該部門掛鉤的低價股票期權“豆包股”認購，價格為每股13美元，並表示這是位元組跳動首次針對特定業務單元發行股權，該激勵機制不會被位元組跳動其他業務線的業績稀釋收益。5月27日，有知情人士向記者透露：豆包股沒有“認購”一說，相關員工可選擇年終獎以豆包股形式發放。Seed為位元組跳動2023年成立的大模型研發核心團隊，目前主導豆包大模型研發，研究方向覆蓋多模態大模型、具身智慧等。（每日經濟新聞）"
-    },
-    {
-      "id": "4901417",
-      "time": "2026-05-27 10:15:08",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【將制定金融法、醫療保障法等 2026年度立法工作計劃釋出】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“推進全面依法治國”有關情況。釋出會上，全國人大常委會法工委副主任黃薇就落實“十五五”規劃綱要，全國人大常委會立法規劃計劃進行了介紹。2026年是“十五五”開局之年，安排繼續審議的法律案15件、初次審議的法律案19件，還有一些預備審議專案。其中，生態環境法典、民族團結進步促進法、國家發展規劃法已經十四屆全國人大第四次會議審議透過。圍繞加快構建高水平社會主義市場經濟體制，將制定耕地保護和質量提升法、國有資產法，修改企業破產法、商標法、註冊會計師法、企業國有資產法、招標投標法、政府採購法、價格法、農業法、稅收徵收管理法。加快金融領域立法，將制定金融法、金融穩定法，修改銀行業監督管理法、中國人民銀行法，並注重加強金融領域其他立法修法研究論證工作。加強保障和改善民生制度建設，將制定社會救助法、醫療保障法、托育服務法、國家消防救援人員法、產業工人隊伍建設法，修改教師法、道路交通安全法、城市房地產管理法。保障和促進社會公平正義，將制定檢察公益訴訟法，修改監獄法、刑事訴訟法。完善生態環境保護法律制度，制定南極活動與環境保護法，修改水法、可再生能源法。加強涉外法治建設，制定反跨境腐敗法、華僑權益保護法，並注重在相關法律中完善涉外規定。截至目前，十四屆全國人大常委會立法規劃推進順利，任期內擬提請審議的79件第一類專案已完成58件，完成率為73.4%，其他專案有序推動。"
-    },
-    {
-      "id": "te:markets:553893",
-      "time": "2026-05-27 10:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Rises by 0.61% — Top currency gainers are New Zealand Dollar (0.61%) and South Korean Won (0.25%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
-    },
-    {
-      "id": "4901416",
-      "time": "2026-05-27 10:14:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：民進黨當局企圖扭曲臺灣同胞國家認同必遭歷史清算】國務院臺辦舉行例行新聞釋出會。有記者問，對於賴清德就職兩週年講話，島內輿論指出，民進黨現在的策略已經從圖謀“法理臺獨”逐漸轉向“認同與文化上的實質臺獨”。請問對此有何評論？發言人陳斌華答問表示，世界上只有一箇中國，臺灣是中國的一部分，這是誰都無法撼動的歷史和法理事實，也是國際社會普遍共識。臺灣從來就不是一個國家，今後更絕無可能成為一個國家。民進黨當局出於謀“獨”本性和政治私利，極力推進“文化臺獨”“去中國化”，企圖扭曲臺灣同胞的國家認同，數典忘祖，背叛民族，必遭歷史的清算。我們對任何形式的“臺獨”分裂行徑都決不容忍，決不姑息。陳斌華表示，無論賴清德和民進黨變換什麼花招，都是枉費心機，都無法改變兩岸同屬一箇中國的事實，無法割斷兩岸中國人的血脈親情，無法抹去臺灣社會和臺灣同胞身上的中華文化印記，更無法阻擋祖國終將統一的歷史大勢。他表示，“臺獨”與臺海和平水火不容，希望廣大臺灣同胞看清民進黨當局“臺獨”真實面目和險惡用心，堅定對中華民族、中華文化、偉大祖國的認同，增強做堂堂正正中國人的志氣、骨氣、底氣，同我們一起堅決反對形形色色的“臺獨”分裂行徑，守護好中華民族共同家園。"
-    },
-    {
-      "id": "mkt:019e6736-3df1-7ddb-92cd-8a207a9c40df",
-      "time": "2026-05-27 10:14:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【RBNZ Holds OCR at 2.25%, Flags Earlier Larger Hikes】RBNZ MPC holds OCR at 2.25% for third consecutive meeting; says OCR likely to need earlier and larger increases than signalled in Feb monetary policy statement, signals at least two 25bp hikes by year-end; pace to depend on persistent wages/pricing vs weaker activity; NZD/USD rises."
-    },
-    {
-      "id": "4901415",
-      "time": "2026-05-27 10:14:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央政法委滕繼國：推進嚴格執法 依法懲處非法集資、金融詐騙等違法犯罪活動】5月27日，中央政法委副秘書長滕繼國在國新辦新聞釋出會上表示，“十五五”時期將深入推進嚴格執法。依法懲處電信網路詐騙、黃賭毒、非法集資、金融詐騙等群眾反映強烈的違法犯罪活動，健全掃黑除惡常態化機制，有力震懾犯罪，保護人民。"
-    },
-    {
-      "id": "4901414",
-      "time": "2026-05-27 10:13:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【臺陸委會稱希望大陸務實面對兩岸現實 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，對於國務院臺辦批駁賴清德在就職兩週年講話中宣揚“臺獨”謬論，臺陸委會稱，“臺灣從未被中華人民共和國統治過、不屬於其一部分是客觀事實，也是臺海現狀”；希望大陸務實面對兩岸現實以及“維持現狀”的臺灣主流民意，不設前提與臺“民選政府”透過對話解決分歧。請問對此有何評論？發言人陳斌華答問表示，世界上只有一箇中國，臺灣是中國的一部分，這是不容置疑的歷史和法理事實，也是不容改變的臺海現實。中華人民共和國中央人民政府作為全中國的唯一合法政府和在國際上的唯一合法代表，理所當然地完全享有和行使對中國的主權，包括對臺灣的主權。他指出，民進黨當局把中國內戰和外部勢力干涉造成海峽兩岸陷入長期政治對立的特殊狀態歪曲為“互不隸屬”，是罔顧事實的分裂主張，是徹頭徹尾的謊言。不管民進黨當局說什麼做什麼，都改變不了臺灣是中國領土不可分割的一部分的事實，都阻擋不了祖國必然統一的大勢。要和平、要發展、要交流、要合作是臺灣社會的主流民意，我們願同臺灣各政黨團體和社會各界人士在堅持“九二共識”、反對“臺獨”的共同政治基礎上加強交流對話，為兩岸謀和平，為同胞謀福祉，為民族謀復興。"
-    },
-    {
-      "id": "4901413",
-      "time": "2026-05-27 10:13:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊持續下挫，四川黃金跌超6%】貴金屬板塊持續下挫，四川黃金跌超6%，曉程科技、西部黃金、山金國際、赤峰黃金等跟跌。"
-    },
-    {
-      "id": "4901412",
-      "time": "2026-05-27 10:12:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優刻得與中國科學院計算機網路資訊中心展開技術對話】據優刻得訊息，近日，優刻得董事長兼CEO季昕華攜產研團隊，與中國科學院計算機網路資訊中心先進網路技術與應用發展部主任周旭及團隊展開交流。雙方圍繞AI方向技術合作、算力網路最佳化、衛星網際網路等前沿議題進行深入探討，並在多項關鍵方向達成合作共識。"
-    },
-    {
-      "id": "4901411",
-      "time": "2026-05-27 10:12:02",
-      "tags": [],
-      "text": "【創業板指漲逾2％ 上漲個股近1400只】指數分化，創業板指拉昇漲逾2％，滬指跌0.21％，深成指漲0.81％。短劇、光伏、晶片等方向漲幅居前，滬深京三市上漲個股近1400只。"
-    },
-    {
-      "id": "4901410",
-      "time": "2026-05-27 10:12:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中汽學會侯福深：汽車智慧電動化加速新材料應用】在今日舉辦的2026汽車新材料大會上，中國汽車工程學會副理事長兼秘書長侯福深表示，傳統燃油汽車整車製造需搭載各類材料200餘種，相較傳統燃油車，智慧新能源汽車整車所需各類材料品類增至400餘種，材料使用總量實現翻倍增長。 依據中國汽車工程學會《節能與新能源汽車技術路線圖3.0》相關預測，2030年我國乘用車市場新能源車型滲透率將突破70%；L2級智慧輔助駕駛功能將在乘用車領域實現全面普及；搭載L3、L4級高階自動駕駛功能的車型，市場滲透率也將達到35%以上。產業升級的同時，也將推動車用電子材料、電化學材料、功能材料等多類細分材料領域的創新應用。"
     }
   ]
 }
