@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-03 15:58:42",
-  "count": 18575,
+  "updated": "2026-06-03 16:02:59",
+  "count": 18574,
   "items": [
+    {
+      "id": "4914623",
+      "time": "2026-06-03 16:01:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美代理司法部長與眾議員激烈交鋒】當地時間6月2日，在美國眾議院舉行的聽證會上，美國代理司法部長布蘭奇與民主黨籍眾議員瑪德琳·迪恩就愛潑斯坦案調查展開激烈交鋒。迪恩質問布蘭奇究竟優先對愛潑斯坦案受害者負責還是優先對總統負責，布蘭奇回答稱“希望為每一位受害者伸張正義”，而當迪恩連續追問布蘭奇何時才能對涉案者提起訴訟並伸張正義，布蘭奇卻並未直接回答。此外，布蘭奇稱塗黑、刪減愛潑斯坦案相關檔案中的內容是為了保護受害者，迪恩則回擊說，“你去和受害者說吧”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4914622",
+      "time": "2026-06-03 16:01:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守74美元/盎司，日內跌1.46%。"
+    },
+    {
+      "id": "4914621",
+      "time": "2026-06-03 16:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數下跌，貝殼跌2%】美股中概股盤前多數下跌，盛美漲1%，嗶哩嗶哩、拼多多、攜程、理想汽車、網易跌1%，京東、貝殼跌2%。"
+    },
+    {
+      "id": "4914620",
+      "time": "2026-06-03 16:01:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數下跌，特斯拉跌0.6%】美股大型科技股盤前多數下跌，Meta漲0.4%，谷歌A漲0.3%，亞馬遜、英偉達跌0.1%，蘋果跌0.2%，微軟、特斯拉跌0.6%。"
+    },
+    {
+      "id": "4914619",
+      "time": "2026-06-03 16:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500微型股指期貨下跌0.1%，納斯達克100股指期貨平盤，道瓊斯股指期貨下跌0.3%。"
+    },
+    {
+      "id": "te:economy:556078",
+      "time": "2026-06-03 16:00:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Services Sector Remains in Contraction — The S&P Global Germany Services PMI was revised higher to 48.1 in May 2026 from a preliminary of 47.8 and 46.9 in March but remained below the 50 threshold. New business fell for a third straight month, though the decline was only marginal and the weakest in the current sequence. However, export business recorded its sharpest drop in a year. Lower inflows of work led to another reduction in outstanding business, while firms continued to cut staff levels, extending the current run of job losses to five months, albeit at a slower pace. Input price inflation remained close to April’s three-year high amid rising energy, transport, and wage costs. Firms passed some of these increases on to customers through higher selling prices, although output price inflation eased slightly due to strong competition and resistance to price increases. Looking ahead, confidence improved to a three-month high as firms expressed hopes for a more favourable geopolitical environment."
+    },
+    {
+      "id": "4914618",
+      "time": "2026-06-03 16:00:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃仁勳力挺的邁威爾科技美股盤前漲超14% 近2個交易日累漲約42%】邁威爾科技美股盤前漲超14%，該股近2個交易日累漲約42%。此前英偉達的黃仁勳預測，這家半導體和網路公司將成為下一家市值達到1萬億美元的企業，是其當前市值的4倍。"
+    },
+    {
+      "id": "4914617",
+      "time": "2026-06-03 16:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：錫庫存減少45噸，鋁庫存持平，鉛庫存減少275噸，鋅庫存減少775噸，鎳庫存減少1104噸，銅庫存減少1700噸。"
+    },
+    {
+      "id": "4914616",
+      "time": "2026-06-03 16:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4480美元/盎司，日內跌0.88%。"
+    },
+    {
+      "id": "te:markets:556077",
+      "time": "2026-06-03 16:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 3.51% — Top commodity gainers are Natural Gas EU (3.51%), Natural Gas UK (3.45%), Heating Oil (2.76%), Crude Oil WTI (2.19%) and Brent Crude Oil (1.99%)."
+    },
+    {
+      "id": "4914615",
+      "time": "2026-06-03 16:00:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區5月服務業PMI終值 47.7，預期46.4，前值46.4。歐元區5月綜合PMI終值 48.5，預期47.5，前值47.5。"
+    },
+    {
+      "id": "4914614",
+      "time": "2026-06-03 16:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀寶山新：董事兼總經理唐偉增持0.30%】銀寶山新公告，董事兼總經理唐偉於2026年6月2日透過深圳證券交易所大宗交易方式增持公司股份150萬股，佔公司總股本0.30%，成交金額1134萬元。本次增持金額已超計劃下限800萬元且未超上限1600萬元，增持計劃自2026年5月15日起6個月內實施，現已完成。增持後唐偉合計持有公司股份300萬股，佔公司總股本0.61%。"
+    },
+    {
+      "id": "4914613",
+      "time": "2026-06-03 15:59:50",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【訊息人士稱盧比承壓加劇，印度收緊跨境資金流出審查】三名知情人士透露，受本幣匯率承壓影響，印度央行與市場監管機構收緊企業及家族辦公室境外投資核查，近三週已下發至少十份問詢函，排查相關投資渠道是否存在違規挪用情形。受國際油價走高、外資持續外流雙重衝擊，印度盧比面臨顯著貶值壓力，印度已上調貴金屬進口關稅，市場亦呼籲多措並舉節約外匯儲備。其中一名訊息人士表示，印度儲備銀行近三週罕見地向相關主體發出至少十份問詢，核查資金出境是否缺乏真實經營目的、無實體資產作為投資支撐。另有訊息人士稱：“本次核查並非出臺資金管制措施，重點關注資本外流節奏，以及相關資金流出是否進一步加劇本幣與外儲承壓。”"
+    },
+    {
+      "id": "4914612",
+      "time": "2026-06-03 15:59:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想創投入股高效能智慧體CPU晶片研發商此芯科技】企查查APP顯示，近日，此芯科技集團有限公司發生工商變更，新增聯想創投旗下上海聯想未來創業投資合夥企業（有限合夥）等多名股東，同時註冊資本增至1311.81萬元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：積體電路科技、電子科技、通訊科技、計算機軟硬體科技領域內的技術服務等。此前，聯想（北京）有限公司已對其持股4.1%。公開資訊顯示，此芯科技專注於研發高效能智慧體CPU晶片、提供高能效算力解決方案。"
+    },
+    {
+      "id": "4914611",
+      "time": "2026-06-03 15:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，隨著本幣貶值壓力加劇，印度收緊了對跨境資金流動的核查。"
+    },
+    {
+      "id": "4914610",
+      "time": "2026-06-03 15:58:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST金鴻：控股股東結構變動完成工商登記 實控人變更為李文浩】ST金鴻公告稱，2026年5月12日，金坤傑投資、徐博與天洪基業、保成重能簽訂《合夥份額轉讓協議》，天洪基業受讓坤傑能源69%合夥份額，成為其普通合夥人及執行事務合夥人，保成重能與天洪基業簽署《一致行動協議》。權益變動後，李文浩透過天洪基業控制坤傑能源，進而控制公司1.41億股股份（佔總股本20.71%），成為公司實控人。近日，坤傑能源已完成工商變更登記，公司控股股東仍為坤傑能源，實控人由徐博變更為李文浩。"
+    },
+    {
+      "id": "4914608",
+      "time": "2026-06-03 15:57:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【颱風“薔薇”登陸 日本大範圍停電】今天凌晨，颱風“薔薇”登陸日本和歌山縣南部，隨後向東偏北方向快速移動。據東京電力公司和關西電力公司訊息，日本首都圈地區及關西地區超25000戶停電。羽田等機場取消約850架次進出港航班，首都圈地區多條鐵路線路停運，高速公路部分割槽間停止通行。（央視新聞）"
+    },
     {
       "id": "4914607",
       "time": "2026-06-03 15:57:31",
@@ -25,6 +175,14 @@
         "其他"
       ],
       "text": "【今年已有近百家村鎮銀行登出】近期，我國村鎮銀行整合重組程序明顯提速。5月29日，蒙自滬農商村鎮銀行吸收合併開遠、箇舊、建水、彌勒4家滬農商系村鎮銀行。5月28日，瀋陽新民、沈北、法庫、遼中4家富民村鎮銀行獲批解散、登出金融許可證，全部業務、債權債務及人員由盛京銀行承接改製為支行。今年以來，村鎮銀行整合重組案例在全國範圍內密集落地。記者查詢國家金融監督管理總局釋出的金融許可證資訊“機構退出列表”，截至今年5月末，完成登出的村鎮銀行已近百家。 (金融時報)"
+    },
+    {
+      "id": "4914603",
+      "time": "2026-06-03 15:57:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智慧體網際網路產業發展和治理工作組正式成立】據中國信通院訊息，5月27日，中國網際網路協會智慧體網際網路產業發展和治理工作組成立暨工作研討會在北京召開。會上，中國網際網路協會“智慧體網際網路產業發展和治理工作組”正式成立，工作組立足智慧體網際網路發展與治理，聚焦智慧體網際網路生態建設全鏈條需求，推進網際網路領域智慧體的技術創新、產業協同、安全治理與權益保障。會議決定，中國信通院擔任可信評估組、權益保障組召集人單位以及協調發展組、產業交流組聯合召集人單位。作為可信評估組召集人單位，中國信通院將會同工作組成員單位，在協會開展網際網路智慧體可信評估登記工作，後續將緊盯智慧體可信能力驗證關鍵環節，推進相關智慧體網際網路標準研製，做實做深可信評估各項任務；同時探索搭建智慧體資訊登記臺賬與動態管理機制，按時釋出評估登記結果。"
     },
     {
       "id": "4914602",
@@ -170406,194 +170564,6 @@
         "國際"
       ],
       "text": "【法國5月消費者信心指數進一步下滑】受伊朗局勢引發的不確定性與能源價格上漲影響，法國5月消費者信心指數進一步下滑，民眾情緒持續走弱。 法國國家統計與經濟研究所（Insee）週三釋出的資料顯示，5月消費者信心指數從4月的84點降至82點，創下2023年3月以來新低。 該統計機構表示：“民眾對自身過往及未來財務狀況的看法再度惡化。” 同時，民眾大額消費意願也出現大幅下降。中東局勢持續拖累5月市場情緒，美伊始終未能就重啟霍爾木茲海峽通航達成協議。戰事前景不明促使消費者暫緩消費，而居高不下的能源價格也持續削弱居民購買力。 儘管衝突爆發前法國物價漲幅溫和，短期內出現惡性通脹的風險仍相對有限，但戰事若長期持續，預計會加劇該國經濟與金融動盪，進一步打擊市場信心。"
-    },
-    {
-      "id": "mkt:019e6875-67c8-733d-96ba-cefc6409bbc3",
-      "time": "2026-05-27 16:02:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "TTE.PA",
-        "Impact bearish"
-      ],
-      "text": "【French Finance Minister Reaffirms Deficit Reduction Target】France finance minister Lescure reiterates plan to keep this year’s fiscal deficit at 5% of GDP and cut it below 3% by 2029; says next year’s budget will contain no tax increases for individuals or companies; parliament may consider a special levy on TotalEnergies, Lescure not opposed but prime minister said deficit will not be solved via tax hikes."
-    },
-    {
-      "id": "4902013",
-      "time": "2026-05-27 16:02:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，亞瑪芬體育跌3%】美股中概股盤前漲跌互現，富途控股漲3%，百度漲2%，拼多多漲0.5%，京東、阿里巴巴跌1%，嗶哩嗶哩、理想汽車跌2%，亞瑪芬體育跌3%。"
-    },
-    {
-      "id": "4902012",
-      "time": "2026-05-27 16:01:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前漲跌互現，英偉達跌0.4%】美股大型科技股盤前漲跌互現，特斯拉漲0.2%，亞馬遜、蘋果持平，谷歌A跌0.1%，Meta跌0.2%，微軟跌0.3%，英偉達跌0.4%。"
-    },
-    {
-      "id": "4902011",
-      "time": "2026-05-27 16:01:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美光科技美股盤前漲超4%】美光科技美股盤前漲超4%，現報920.8美元。上個交易日收漲近20%，總市值突破1萬億美元。"
-    },
-    {
-      "id": "4902010",
-      "time": "2026-05-27 16:01:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江證券：2026年短期公司債（第一期）5月28日將在深交所上市】長江證券公告稱，公司2026年面向專業投資者公開發行短期公司債券（第一期）符合深交所債券上市條件，將於2026年5月28日起在深交所上市，面向專業投資者中的機構投資者交易。該債券簡稱“26長江D1”，程式碼524809，發行總額30.00億元，期限285天，票面年利率1.46%，到期一次性還本付息。"
-    },
-    {
-      "id": "4902009",
-      "time": "2026-05-27 16:01:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隆華科技：產業基金存續期延長至2030年11月17日 構成關聯交易】隆華科技公告稱，公司參與發起設立的廈門仁達隆華股權投資基金合夥企業（有限合夥），存續期限已於2025年11月17日到期。為保障已投專案有序退出和基金正常運作，經全體合夥人協商一致，將其有效存續期延長至2030年11月17日，並重新簽署合夥協議。因合夥人之一李江文為公司董事、副總經理，此次重新簽署協議構成關聯交易。該事項已獲公司董事會審議透過，無需提交股東會審議，不構成重大資產重組。"
-    },
-    {
-      "id": "mkt:019e6873-a073-733d-96ba-c6765ca19d2a",
-      "time": "2026-05-27 16:01:05",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Italy Mar adjusted industrial sales +4.4% YoY vs +0.50% prior"
-    },
-    {
-      "id": "mkt:019e6873-a002-733d-96ba-bbf71dcd8f4f",
-      "time": "2026-05-27 16:01:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange (LME): zinc -1,550 mt; copper -2,225 mt; tin +265 mt; nickel -822 mt; lead -1,350 mt; aluminium -100 mt."
-    },
-    {
-      "id": "mkt:019e6873-9e5d-733d-96ba-b6a55c0c7db1",
-      "time": "2026-05-27 16:01:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Italy Mar seasonally adjusted industrial sales +2.0% MoM vs +0.6% prior"
-    },
-    {
-      "id": "mkt:019e6873-8497-733d-96ba-ae87a275e3e5",
-      "time": "2026-05-27 16:00:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Calendar Adjusted Industrial Sales (YoY) (Mar) | actual 4.4% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019e6873-66e8-733d-96ba-a7f39bb05481",
-      "time": "2026-05-27 16:00:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Seasonally Adjusted Industrial Sales (MoM) (Mar) | actual 2% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019e6872-d08e-733d-96ba-9ac38a6e5541",
-      "time": "2026-05-27 16:00:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Swiss May ZEW investor confidence -11.1 vs -30.3 prior"
-    },
-    {
-      "id": "4902008",
-      "time": "2026-05-27 16:00:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士5月投資者信心指數 -11.1，前值 -30.3。"
-    },
-    {
-      "id": "te:markets:554012",
-      "time": "2026-05-27 16:00:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Falls by 3.48% — Top commodity losers are Gasoline (-3.48%), Heating Oil (-3.05%), Crude Oil WTI (-2.92%) and Brent Crude Oil (-2.50%)."
-    },
-    {
-      "id": "mkt:019e6872-97d1-733d-96ba-964bbd8f9414",
-      "time": "2026-05-27 16:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | ZEW Economic Sentiment (May) | actual -11.1 | previous -30.3"
-    },
-    {
-      "id": "4902007",
-      "time": "2026-05-27 15:59:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【清新環境：完成董事會換屆選舉 陳竹當選董事長】清新環境公告稱，2026年5月22日公司2025年度股東會審議透過董事會換屆選舉，選舉陳竹、唐華應、劉朝安、魏遠為非獨立董事，劉浪、謝廣明、侯浩波為獨立董事。同日，第七屆董事會第一次會議選舉陳竹為董事長，任期三年。此外，還選舉產生各專門委員會成員，任期均為三年。招商證券作為債券受託管理人將密切關注債券本息償付等情況。"
-    },
-    {
-      "id": "4902006",
-      "time": "2026-05-27 15:59:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯黑海港口遭烏克蘭無人機襲擊起火】俄羅斯官員表示，在烏克蘭夜間再次發動無人機襲擊後，俄羅斯黑海港口圖阿普謝發生火災。目前，當地政府仍在清理近期多輪襲擊對海岸線造成的破壞。克拉斯諾達爾邊疆區應急指揮部週三表示，圖阿普謝地區一處海運碼頭因無人機殘骸墜落引發火災。超過80名人員及25臺裝置參與滅火，其中包括俄羅斯緊急情況部力量。隨著伊朗戰爭推高油價，烏克蘭正加大對俄羅斯能源基礎設施的打擊力度，以削弱克里姆林宮能源收入。自4月初以來，圖阿普謝已多次遭到襲擊。該地擁有俄羅斯最大的黑海港口之一，以及俄羅斯石油公司（Rosneft）旗下煉油廠。"
-    },
-    {
-      "id": "4902005",
-      "time": "2026-05-27 15:58:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部：強化汽車標準體系頂層設計】記者從工業和資訊化部獲悉，2026年度汽車標準化體系制定完成，這一體系涵蓋諸多方面的內容，強化了標準體系的頂層設計，賦能汽車產業高質量發展。2026年度汽車標準化體系將健全完善智慧網聯汽車、汽車晶片、新能源汽車、汽車低碳發展等重點領域標準體系，重點開展汽車質量可靠性、車用固態電池標準體系研究，更新和完善資料治理及應用、汽車人工智慧等標準子體系，前瞻佈局前沿領域標準研究。在促進新興領域創新發展方面，重點圍繞駕駛自動化、網聯功能與應用、資訊保安與資料安全、資源管理與資訊服務、汽車軟體、汽車資料、“車路雲一體化”等領域加速標準研製與迭代。高效開展汽車電子、汽車晶片等關鍵系統部件標準制修訂。此外，面向汽車人工智慧、新形態汽車等未來產業方向，開展標準前瞻突破行動，提前開展標準規劃佈局。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6871-78e1-733d-96ba-8f1648dd160b",
-      "time": "2026-05-27 15:58:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Tuapse Black Sea Port Fire After Ukrainian Drone Strike】Russian Black Sea port Tuapse ablaze after Ukrainian overnight drone attack; Krasnodar regional emergency command says drone debris ignited fire at a seaport terminal; more than 80 personnel and 25 pieces of equipment, including Russian Emergencies Ministry (EMERCOM) teams, fighting the blaze. Tuapse, site of one of Russia's largest Black Sea ports and a Rosneft refinery, has been hit multiple times since early April; Ukraine is stepping up strikes on Russian energy infrastructure as the Iran war pushes oil prices higher."
     }
   ]
 }
