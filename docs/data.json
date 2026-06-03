@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-04 04:36:14",
-  "count": 19191,
+  "updated": "2026-06-04 04:40:07",
+  "count": 19192,
   "items": [
+    {
+      "id": "mkt:019e8f36-2536-7443-8fe4-282118fd1dbb",
+      "time": "2026-06-04 04:39:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After SpaceX's IPO, Elon Musk will hold about 82.4% of the company's voting power."
+    },
+    {
+      "id": "4916006",
+      "time": "2026-06-04 04:38:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX擬登陸納斯達克IPO，目標估值1.77萬億美元。"
+    },
+    {
+      "id": "mkt:019e8f34-de97-7443-8fe4-2689664165d1",
+      "time": "2026-06-04 04:37:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX IPO includes an 83.3 mln-share overallotment (greenshoe) option."
+    },
+    {
+      "id": "4916005",
+      "time": "2026-06-04 04:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及霍爾木茲海峽通航開放後的航線選用：我方將走南部航道。"
+    },
+    {
+      "id": "4916004",
+      "time": "2026-06-04 04:37:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通計劃面向投行客戶舉辦SpaceX IPO專場私密會議，參會人員含摩根大通CEO戴蒙、SpaceX總裁肖特韋爾，本次摩根大通與SpaceX合作的活動將於週四同步轉播至90個會場。"
+    },
+    {
+      "id": "te:markets:556257",
+      "time": "2026-06-04 04:37:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Retreat from Record Highs — The S&P/TSX Composite Index fell 1% to close at 34,801 on Wednesday, retreating from the record high reached in the previous session as renewed hostilities between the US and Iran dampened hopes for a peace deal. Tensions escalated after Iranian attacks targeted Kuwait and Bahrain, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs. Financial stocks traded lower, with BMO down 1.5%, while Brookfield lost 3.4% after announcing a joint venture with a Concert Properties affiliate involving an industrial portfolio valued at roughly $1 billion. Mining shares also weighed on the index as gold prices declined, with Agnico Eagle falling 3.6%, Barrick losing 2.5%, and WPM shedding 3.5%. Technology stocks followed losses on Wall Street, with Shopify down 3% and Constellation Software retreating 4.7%."
+    },
+    {
+      "id": "4916003",
+      "time": "2026-06-04 04:36:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX稱馬斯克將持有約82.4%的投票權。"
+    },
+    {
+      "id": "4916002",
+      "time": "2026-06-04 04:36:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守73美元/盎司，日內跌3.39%。"
+    },
+    {
+      "id": "mkt:019e8f33-8e4a-7443-8fe4-182e57f832bb",
+      "time": "2026-06-04 04:36:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says milder fighting constitutes a ceasefire】When asked how to define a ceasefire, U.S. President Trump said: \"In that area, a ceasefire means the fighting becomes milder. That's indeed the case. Ceasefires there are different from those elsewhere.\""
+    },
+    {
+      "id": "4916001",
+      "time": "2026-06-04 04:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX計劃募資750億美元，衝刺史上規模最大IPO。"
+    },
+    {
+      "id": "mkt:019e8f33-24bb-7443-8fe4-113707fa8ebd",
+      "time": "2026-06-04 04:35:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Honeywell-owned Quantinuum expanded its U.S. IPO, pricing shares at $60 each and seeking to raise $1.68 bln."
+    },
+    {
+      "id": "4916000",
+      "time": "2026-06-04 04:35:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX敲定IPO發行股份數量為5.556億股。"
+    },
     {
       "id": "mkt:019e8f32-e8af-7443-8fe4-0c523fc64d4c",
       "time": "2026-06-04 04:35:38",
@@ -176650,114 +176754,6 @@
         "公司"
       ],
       "text": "富國銀行CEO：自資產規模上限取消後，該行存款持續迴流。"
-    },
-    {
-      "id": "mkt:019e6b29-a725-799f-bbe7-8197b4013a2c",
-      "time": "2026-05-28 04:39:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "RBNZ Chair Breman said he recognizes it will take some time before higher oil prices feed through to a broader set of industries."
-    },
-    {
-      "id": "mkt:019e6b29-5c17-799f-bbe7-79b27dc927d1",
-      "time": "2026-05-28 04:38:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Governor COOK said it may take a long time to see structural changes in the economy brought by artificial intelligence (AI)."
-    },
-    {
-      "id": "mkt:019e6b29-0f20-799f-bbe7-77dc62ef24ef",
-      "time": "2026-05-28 04:38:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MOODY'S: The Democratic Republic of the Congo's local-currency and foreign-currency country ceilings remain unchanged."
-    },
-    {
-      "id": "4903195",
-      "time": "2026-05-28 04:38:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行CEO： 投行及金融市場業務表現良好。"
-    },
-    {
-      "id": "4903194",
-      "time": "2026-05-28 04:37:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評剛果共和國：該國流動性壓力依舊嚴峻，凸顯其易受油價波動衝擊的短板。油價走高疊加油氣產能擴容計劃，將為該國經濟增長與財政收入帶來利好。"
-    },
-    {
-      "id": "4903193",
-      "time": "2026-05-28 04:37:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 人工智慧給經濟帶來結構性改變，或許需要漫長時間才能顯現。"
-    },
-    {
-      "id": "4903192",
-      "time": "2026-05-28 04:37:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行CEO： 企業心態趨於謹慎，但財務狀況穩健。"
-    },
-    {
-      "id": "mkt:019e6b27-630f-799f-bbe7-6833350b8787",
-      "time": "2026-05-28 04:36:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "API: U.S. crude oil put into production in the week to May 22 was 629,000 b/d; prior -78,000 b/d."
-    },
-    {
-      "id": "mkt:019e6b27-2e52-799f-bbe7-626e89347c33",
-      "time": "2026-05-28 04:36:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "US refined product imports, API data show, were -171,000 b/d in the week to May 22, versus +282,000 b/d in the prior week."
-    },
-    {
-      "id": "mkt:019e6b27-0ca2-799f-bbe7-5a295b81f6c9",
-      "time": "2026-05-28 04:36:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (May.22) | actual 629000M | previous -78000M"
-    },
-    {
-      "id": "mkt:019e6b27-0bb0-799f-bbe7-505949f8aab2",
-      "time": "2026-05-28 04:36:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API crude oil imports for the week to May 22: -223,000 barrels; prior -88,000 barrels."
     }
   ]
 }
