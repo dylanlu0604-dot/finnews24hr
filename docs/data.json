@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-03 10:15:37",
-  "count": 18481,
+  "updated": "2026-06-03 10:19:48",
+  "count": 18476,
   "items": [
+    {
+      "id": "te:markets:555922",
+      "time": "2026-06-03 10:19:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Holds Firm Despite Soft GDP Data — The Australian dollar held above $0.71, trading near three-week highs as markets weighed the country’s latest GDP figures. The economy expanded by just 0.3% in the first quarter, below expectations of 0.5% and slowing from a 0.9% expansion in the previous period. The softer growth reading reinforced signs that higher interest rates are cooling demand, and a key data point policymakers are likely to assess ahead of the Reserve Bank’s June 15–16 meeting to determine whether current settings are sufficiently restrictive to bring inflation back to target. The central bank has already hiked rates three times this year in its effort to contain price pressures. This comes against a backdrop of geopolitical tensions linked to the US–Iran conflict, which have pushed up global energy costs and added to external inflation risks. Markets have largely ruled out another rate hike this month, but remain evenly split for a move in August and are nearly fully pricing a 4.60% peak by year-end."
+    },
+    {
+      "id": "4914048",
+      "time": "2026-06-03 10:18:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【臺胞熱情關注大陸各地“省超” 國臺辦：開放臺胞專屬參賽名額】國務院臺辦舉行例行新聞釋出會。有記者問：近段時間來，大陸各地“省超”如火如荼舉辦，特別是“閩超”推出系列特色對臺活動，引發廣大臺胞熱情關注。請介紹有關情況。發言人朱鳳蓮表示，“閩超”近日創新推出了三大特色對臺系列活動，一是喊您來參賽，開放臺胞專屬參賽名額，每一支參賽隊伍均可新增兩名臺胞球員。二是邀您來觀球，各大賽區主場邀請臺胞赴閩觀球，啟動兩岸球迷同框加油短影片徵集活動，邀請金門馬祖特色啦啦隊同福建啦啦隊同場展演。三是請您來交流，各賽區主動對接臺灣、港澳及海外僑胞球隊，常態化開展友誼交流賽，廈門、平潭等地將舉辦至少一場“閩超”隊伍與臺灣地區城市球隊的專項交流賽。"
+    },
+    {
+      "id": "mkt:019e8b46-43c5-7ee2-b13d-2b8a59fd13c0",
+      "time": "2026-06-03 10:18:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【PBOC net open-market government bond injections remain low in May】The PBOC released May liquidity operations showing net open-market government bond injections of 50 bln yuan. Dongfang Jincheng chief macro analyst Wang Qing said ample market liquidity and no need for large-scale long-term injections explain the low net operations, reflecting the central bank’s flexible use of open-market tools to guide market rates around the policy rate. Market participants note the PBOC is deploying a wider range of liquidity tools with greater flexibility, maintaining policy direction while switching between a 'withdraw-first-then-release' rhythm and 'peak-shaving/valley-filling' adjustments. Wang expects China’s 10-year government bond yield to trend lower amid evolving geopolitics, slower international oil price gains, cooling domestic inflation expectations and volatile April macro data — a factor behind May’s small net injection. He adds that if the 10-year yield falls below 1.7%, further cuts to net bond-trading injections or a pause in open-market government bond trading are possible."
+    },
+    {
+      "id": "4914047",
+      "time": "2026-06-03 10:18:08",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【5月央行公開市場國債買賣淨投放延續較低水平】昨日央行釋出2026年5月中央銀行各項工具流動性投放情況，資料顯示，5月央行公開市場國債買賣淨投放500億元。東方金誠首席宏觀分析師王青認為，這一趨勢受多重因素影響，當前市場流動性較為充裕，無需央行透過公開市場國債買賣大規模注入長期流動性，體現了央行靈活開展公開市場各項操作，透過量價配合引導市場利率圍繞政策利率平穩執行的政策意圖。值得關注的是，業內人士提到，包括公開市場國債買賣在內，近期央行各類流動性工具運用更加靈活。在保持現有貨幣政策方向的基礎上，既有“先收後放”的節奏切換，也有“削峰填谷”的靈活調控。對於後續市場，王青預計，受國際局勢演化、國際原油價格上行放緩、國內通脹預期降溫，以及4月宏觀資料波動等多重因素影響，近期10年期國債收益率波動下行。這可能也是5月央行國債買賣淨投放規模保持較低水平的一個原因。“往後看，若10年期國債收益率進入1.7%以下區間，不排除國債買賣淨投放規模進一步下調，乃至再次暫停公開市場國債買賣的可能。”（經濟參考報）"
+    },
+    {
+      "id": "4914046",
+      "time": "2026-06-03 10:17:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星塵智慧完成B輪超10億元融資】繩驅AI機器人公司星塵智慧（Astribot）完成B輪系列融資，三個月內連續完成3輪融資，融資總額超10億元，估值突破百億元。本輪投資方包括梁溪科創產業二期母基金（博華資本管理）、揚州龍投芯粒、中博聚力等國資與財務投資機構，中科創達、科德教育、某知名上市企業等產業投資方，以及國科投資等老股東持續追投。華興資本擔任獨家財務顧問。本輪融資將用於AI基座模型的迭代、真實場景的高質量資料積累以及研發人才梯隊擴充。"
+    },
+    {
+      "id": "4914045",
+      "time": "2026-06-03 10:15:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【藍思科技股價創歷史新高】藍思科技盤中股價創歷史新高，現漲6.74%，報44.01元，總市值為2201.54億元。"
+    },
+    {
+      "id": "mkt:019e8b43-d445-7ee2-b13d-26b4a2519dbe",
+      "time": "2026-06-03 10:15:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 40-year government bond yield rose 2.0 bps to 3.765%."
+    },
+    {
+      "id": "4914044",
+      "time": "2026-06-03 10:15:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "te:markets:555921",
+      "time": "2026-06-03 10:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indonesian Rupiah Drops by 0.33% — Top currency loser is Indonesian Rupiah (-0.33%). Meanwhile, Chinese Yuan, Japanese Yen and South Korean Won were little changed."
+    },
     {
       "id": "4914043",
       "time": "2026-06-03 10:14:56",
@@ -169368,130 +169456,6 @@
         "其他"
       ],
       "text": "澳大利亞國民銀行：紐西蘭儲備銀行7月份加息的可能性大大增加。"
-    },
-    {
-      "id": "4901429",
-      "time": "2026-05-27 10:19:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創業板指點數超越滬指】創業板指持續創新高，現漲超2%，報4134點，點數超越滬指。"
-    },
-    {
-      "id": "4901428",
-      "time": "2026-05-27 10:19:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券李春波：價值投資的新機遇將加速形成】中信證券2026年資本市場論壇在上海召開。中信證券執行委員、中信證券國際董事長李春波在致辭中表示，此次資本市場論壇，我們選定的主題是“韌鏈強基 科創自立”。當前，全球產業鏈加速重構，地緣衝突、科技封鎖與資源安全問題交織，提升產業鏈韌性、築牢實體經濟根基的重要性更加凸顯。與此同時，新一輪科技革命深入推進，我國科技自立自強多點突破，人工智慧、高階製造、新能源等產業走向全球，正在重塑產業競爭新優勢。我們相信，在“韌鏈強基”夯實安全底座、“科創自立”開啟發展空間的共同驅動下，資本市場服務新質生產力的功能定位將更加突出，價值投資的新機遇將加速形成。"
-    },
-    {
-      "id": "4901427",
-      "time": "2026-05-27 10:19:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價漲幅擴大至12%。"
-    },
-    {
-      "id": "4901426",
-      "time": "2026-05-27 10:18:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：期待臺灣同胞同大陸同胞一道探索浩瀚宇宙】5月27日，國務院臺辦舉行例行新聞釋出會。有記者問，5月24日，神舟二十三號載人飛船順利發射，首位香港航天員參與國家載人航天飛行任務，引發兩岸民眾熱議。有島內輿論期待未來臺灣同胞特別是臺灣青年能一同參與祖國航天事業。請問對此有何評論？發言人陳斌華答問表示，發展航天事業、建設航天強國是中華民族不懈追求的航天夢。神舟二十三號載人飛船發射任務取得圓滿成功，是全體中華兒女共同的驕傲與榮耀。黎家盈博士的太空之旅和勇於挑戰、永不言棄的精神，將激勵香港青少年熱愛投身國家航天事業，認識到有偉大祖國的支援，每個人都可以綻放屬於自己的光彩。星河浩蕩，逐夢蒼穹。我們期待臺灣同胞同大陸同胞一道探索浩瀚宇宙，把夢想照進現實。"
-    },
-    {
-      "id": "4901425",
-      "time": "2026-05-27 10:18:35",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【全國人大常委會法工委黃薇：今年要加快制定金融法、金融穩定法】5月27日，全國人大常委會法工委副主任黃薇在國新辦新聞釋出會上表示，今年全國人大常委會的年度立法工作計劃已經制定並向社會公佈。在加快金融領域立法方面，要制定金融法、金融穩定法，修改銀行業監督管理法、中國人民銀行法，同時也要注重對金融領域其他立法、修法工作的研究論證。"
-    },
-    {
-      "id": "4901424",
-      "time": "2026-05-27 10:18:31",
-      "tags": [
-        "資料"
-      ],
-      "text": "紐西蘭銀行目前預計紐西蘭儲備銀行將在7月份提高現金利率。"
-    },
-    {
-      "id": "4901423",
-      "time": "2026-05-27 10:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "國臺辦：期待臺灣同胞同大陸同胞一道探索浩瀚宇宙。"
-    },
-    {
-      "id": "mkt:019e6739-31cc-700b-904c-25d9f47a1a72",
-      "time": "2026-05-27 10:17:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung considers adding $2.5 bln to Vietnam chip project"
-    },
-    {
-      "id": "4901422",
-      "time": "2026-05-27 10:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "檔案顯示三星為在越南新建工廠向當地申請環境許可證。"
-    },
-    {
-      "id": "mkt:019e6738-e045-7ddb-92cd-9196ec7f4012",
-      "time": "2026-05-27 10:17:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung applies to Vietnam for environmental permit for $1.5 bln memory chip test plant; operations expected Nov 2027"
-    },
-    {
-      "id": "4901421",
-      "time": "2026-05-27 10:17:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星越南新建儲存晶片測試廠將於2027年11月投產。"
-    },
-    {
-      "id": "4901420",
-      "time": "2026-05-27 10:16:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星考慮為其越南晶片專案追加25億美元投資。"
-    },
-    {
-      "id": "4901419",
-      "time": "2026-05-27 10:16:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國臺辦：對任何形式的“臺獨”分裂行徑都絕不容忍、絕不姑息】5月27日，國臺辦舉行例行新聞釋出會。有記者問：對於賴清德就職兩週年講話，島內輿論指出，民進黨現在的策略已經從圖謀“法理臺獨”逐漸轉向“認同與文化上的實質臺獨”。請問對此有何評論? 發言人陳斌華表示，世界上只有一箇中國，臺灣是中國的一部分，這是誰都無法撼動的歷史和法理事實，也是國際社會普遍共識。我們對任何形式的“臺獨”分裂行徑都決不容忍、決不姑息。（央視新聞）"
-    },
-    {
-      "id": "te:economy:553894",
-      "time": "2026-05-27 10:16:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "RBNZ Keeps Key Rate Unchanged — The Reserve Bank of New Zealand left its official cash rate unchanged at 2.25% at its May meeting, maintaining a cautious stance amid heightened global uncertainty stemming from the Middle East conflict. Policymakers noted that higher petrochemical prices are expected to lift inflation this year through both direct and indirect channels, with fuel cost pass-through to businesses occurring more quickly, while indirect effects are expected to filter through the economy more gradually. Underlying inflation has continued to ease, but headline inflation is expected to rise temporarily before returning toward the 2% target in 2027. Meanwhile, the economy is in an early-stage recovery with spare capacity and elevated unemployment, while higher fuel and input costs are expected to weigh on household purchasing power and business margins, dampening consumption and investment."
     }
   ]
 }
