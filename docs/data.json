@@ -1,7 +1,234 @@
 {
-  "updated": "2026-06-03 16:27:40",
-  "count": 18563,
+  "updated": "2026-06-03 16:32:18",
+  "count": 18573,
   "items": [
+    {
+      "id": "mkt:019e8c9b-7bff-7ccb-b85d-26f4ec6d0e39",
+      "time": "2026-06-03 16:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK official reserves fell $537 mln in May, after a $1.263 bln increase in the prior month."
+    },
+    {
+      "id": "mkt:019e8c9b-3df1-7ccb-b85d-1df61dfdb5f7",
+      "time": "2026-06-03 16:30:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK final May services PMI 49.3, expected 47.9, prior 47.9."
+    },
+    {
+      "id": "mkt:019e8c9b-3ad3-7ccb-b85d-15e0f75dca9d",
+      "time": "2026-06-03 16:30:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Official Reserves Changes (May) | actual -537000000B | previous 1263000000B"
+    },
+    {
+      "id": "4914689",
+      "time": "2026-06-03 16:30:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國5月服務業PMI終值 49.3，預期 47.9，初值 47.9。\n英國5月綜合PMI終值 49.7，預期 48.5，初值 48.5。"
+    },
+    {
+      "id": "te:markets:556100",
+      "time": "2026-06-03 16:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.39% — Top crypto gainers are XRP (2.39%), Ether (0.72%) and Bitcoin (0.28%). Biggest loser is Binance (-1.08%)."
+    },
+    {
+      "id": "mkt:019e8c9a-bdce-7ccb-b85d-0f350930f4e0",
+      "time": "2026-06-03 16:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK May composite PMI (final) 49.7; consensus 48.5, prior 48.5."
+    },
+    {
+      "id": "mkt:019e8c9a-97ad-7ccb-b85d-0677b8982e99",
+      "time": "2026-06-03 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Services PMI (May) | actual 49.3 | consensus 47.9 | previous 47.9"
+    },
+    {
+      "id": "mkt:019e8c9a-97ac-7ccb-b85c-fd43eb46c480",
+      "time": "2026-06-03 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Composite PMI (May) | actual 49.7 | consensus 48.5 | previous 48.5"
+    },
+    {
+      "id": "te:economy:556099",
+      "time": "2026-06-03 16:29:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Euro Area Private Sector Activity in Contraction for 2nd Month — The S&P Global Eurozone Composite PMI was revised higher to 48.5 in May 2026 from a preliminary of 47.5 and compared to 48.8 in April, signaling the faster contraction in 18 months in private sector activity as inflation weighs. It also marked back-to-back months of contraction for the first time since the end of 2024, with overall activity levels being pulled lower by services (47.7 vs 47.6) while manufacturing continued to rise (51.6 vs 52.2). Weighing on output levels was a further fall in demand for Euro Area goods and services, with export markets a particular drag as non-domestic new orders sank at the quickest rate in five months. Signs of softening were also apparent in the labour market as job losses picked up. As for pricing trends, input cost pressures remained the sharpest seen since late-2022. For a third month in succession, the rate of output price inflation quickened. Positively, there was a modest recovery of business confidence."
+    },
+    {
+      "id": "4914688",
+      "time": "2026-06-03 16:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威天然氣運輸公司Gassco表示：此前向塞加爾輸氣管道供氣的油氣田發生意外事件，影響已作出調整，當前為每日減供2240萬立方米，此前給出的資料是每日增容410萬立方米。"
+    },
+    {
+      "id": "te:economy:556098",
+      "time": "2026-06-03 16:29:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "France Services Sector Falls to Over 5-Year Low — The S&P Global France Services PMI fell to 44.3 in May 2026, revised upward from the preliminary estimate of 42.9, but remained below April's 46.5, marking the sharpest contraction in business activity since November 2020. Demand conditions deteriorated further, with new orders declining at the fastest pace in five-and-a-half years amid weaker client demand and rising cost pressures. Export demand also contracted sharply, recording one of the steepest declines since the series began in 2014. On prices, input cost inflation accelerated to its highest level in just over three years, driven by higher fuel, raw material, and computer hardware costs. Firms responded by raising selling prices at the fastest pace since June 2023. Labor market conditions weakened, with employment falling at the sharpest rate since February 2025. Meanwhile, business sentiment dropped to a one-year low as inflation concerns and uncertainty surrounding the Middle East conflict weighed on the outlook."
+    },
+    {
+      "id": "4914687",
+      "time": "2026-06-03 16:29:18",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "國金證券指出，短期來看，資金面可能不會有太大波瀾。其一是短期內基本面難以出現明顯改善，資金利率缺乏向上突破的機會；不過 6月是季末信貸投放大月，信貸投放情況環比改善機率較高，可能對6月資金有一定擾動。其二是按照目前已經公佈的政府債發行計劃來看，6月政府債發行進度可能依然維持勻速抬升的趨勢，沒有突然加大發行力度的苗頭。多空因素影響有限的背景下，6 月DR001中樞可能在 1.3%附近、DR007中樞可能在1.35%附近，需注意季節性因素影響下資金中樞環比小幅抬升的可能性；月內走勢可能仍有波動，但在當前央行態度下，隔夜資金大機率不會在“極度寬鬆”的位置持續執行。（澎湃新聞）"
+    },
+    {
+      "id": "4914685",
+      "time": "2026-06-03 16:29:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技等在寧波成立新合夥企業 出資額1000萬】天眼查App顯示，近日，寧波梅山保稅港區創浚股權投資合夥企業（有限合夥）成立，執行事務合夥人為寧波梅山保稅港區中新融創投資管理有限公司，出資額1000萬人民幣，經營範圍為股權投資。合夥人資訊顯示，該合夥企業由TCL科技（000100）旗下天津中新睿合企業管理有限公司、寧波梅山保稅港區中新融創投資管理有限公司共同出資。"
+    },
+    {
+      "id": "4914684",
+      "time": "2026-06-03 16:29:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "中信證券首席經濟學家明明認為，從歷史季節性規律看，跨月因素消退後資金利率通常會重新回落，6月資金面大機率延續“合理充裕、波動收斂”的格局。經測算，完全排除MLF以及逆回購到期的因素，6月基本不存在流動性缺口，且考慮到季末月往往是財政支出大月，資金面仍有進一步轉松的可能。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019e8c99-a0af-7ccb-b85c-f0eb314c24ea",
+      "time": "2026-06-03 16:28:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli military says sirens sounded in northern Israel after hostile aircraft intrusion."
+    },
+    {
+      "id": "mkt:019e8c99-7472-7ccb-b85c-e80186963deb",
+      "time": "2026-06-03 16:28:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli military said air-raid sirens sounded in northern Israel after hostile aircraft penetrated its airspace."
+    },
+    {
+      "id": "4914683",
+      "time": "2026-06-03 16:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【致歐科技：參與設立的產業基金完成募集 認繳比例降至1.03%】致歐科技公告稱，公司參與設立的長沙泉仲創業投資合夥企業（有限合夥）最終募集規模為9.70億元。公司認繳出資額1000萬元不變，但認繳出資比例由1.23%降至1.03%。經全體合夥人一致透過，執行事務合夥人委派代表由方文君變更為陳陽陽。各方於6月3日重新簽署合夥協議，新增有限合夥人、原普通合夥人新增認繳出資等事項符合規定，對公司財務及經營無重大影響。"
+    },
+    {
+      "id": "te:economy:556097",
+      "time": "2026-06-03 16:28:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Services Activity Revised Higher — The S&P Global Eurozone Services PMI inched higher to 47.7 in May of 2026 from the five-year low of 47.6 in the previous month, revised sharply higher from the preliminary estimate of 46.4 to align with the earlier market expectations. New business inflows continued to decline, consistent with the lower purchasing power for clients since the outbreak of war in the Middle East triggered a surge in energy costs. Despite the sharp increase in input costs, output charges rose at a softer pace. Consequently, firms tapped their backlogs to soften the drop in output. The lower need for capacity drove employment levels in the services sector to drop for the first time since January of 2021. Looking ahead, business confidence improved slightly from the previous month but remained below historical averages."
+    },
+    {
+      "id": "4914682",
+      "time": "2026-06-03 16:28:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【屹通新材：完成受讓杭州湖塘配售電50%股權工商變更登記】屹通新材公告稱，公司於2025年6月擬以公開摘牌方式受讓杭州湖塘配售電有限公司50%股權，成交價格965.65萬元。2026年1月，公司與交易對方簽署相關合同及協議。近日，本次受讓事項完成工商變更登記，取得建德市市場監督管理局換髮的《營業執照》。"
+    },
+    {
+      "id": "4914681",
+      "time": "2026-06-03 16:28:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【經合組織最新經濟展望報告：中東衝突考驗全球經濟韌性】當地時間3日，經濟合作與發展組織（經合組織）釋出最新經濟展望報告，認為中東衝突的持續演變正在造成重大人道主義代價，並考驗全球經濟的韌性。衝突的持續時間和範圍仍存在不確定性。鑑於當前形勢極其不確定，且經濟前景在很大程度上取決於能否實現持久解決衝突，最新經濟展望報告提出了未來18個月全球經濟可能演變的兩種不同情景。這些情景主要取決於能源危機的演變、達成持久和平所需的時間以及由此產生的政策應對，並凸顯可能出現的一系列結果。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8c98-b053-7ccb-b85c-e7f752239eb3",
+      "time": "2026-06-03 16:27:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said the United States is pretending to be the victim and that cannot hide its barbaric war crimes, genocide and crimes against humanity against the Iranian people."
+    },
+    {
+      "id": "4914680",
+      "time": "2026-06-03 16:27:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，以色列北部拉響防空警報，原因是“敵方飛行器入侵”。"
+    },
+    {
+      "id": "mkt:019e8c97-cee8-7ccb-b85c-dee9404d7675",
+      "time": "2026-06-03 16:26:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shuimu Tsinghua alumni seed fund completes RMB 535 mln Shanghai fundraise】Shuimu Tsinghua alumni seed fund said it completed fundraising of RMB 535 mln for a Shanghai vehicle and has launched a growth fund to cover investments from seed to growth stage. Founder Du Yan said the firm follows an “invest early, invest small, dual-track” strategy: concentrate on seed and angel rounds while providing multi-round follow-on support. Core sector focus includes AI (AI infrastructure, large models, embodied intelligence), new energy, new materials, quantum computing and brain–computer interfaces."
+    },
     {
       "id": "4914679",
       "time": "2026-06-03 16:26:33",
@@ -170331,123 +170558,6 @@
         "公司"
       ],
       "text": "【雙傑電氣：控股股東及其一致行動人持股比例被動稀釋至26.86%】雙傑電氣公告稱，因2025年限制性股票激勵計劃第一期歸屬登記完成，公司於2026年5月27日定向增發599.5萬股，總股本由7.99億股增至8.05億股。控股股東、實際控制人趙志宏及其一致行動人趙志興、趙志浩合計持股數量不變，持股比例由27.06%被動稀釋至26.86%，觸及1%整數倍。本次變動不涉及增減持，不觸及要約收購，不會影響公司治理和經營。"
-    },
-    {
-      "id": "4902086",
-      "time": "2026-05-27 16:32:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【達力普控股：成功中標中石油集團約27萬噸訂單，同比增長約64%】達力普控股公告，公司全資附屬公司達力普石油專用管有限公司近期於中國石油天然氣集團有限公司2026年採購招標中成功中標。中標產品包括符合美國石油學會（API）標準的油井管系列產品及中石油集團油氣井用PC-I型特殊螺紋管，中標數量約達27萬噸，比2025年中標數量增長約64%。"
-    },
-    {
-      "id": "4902085",
-      "time": "2026-05-27 16:31:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：要繼續投放廣告，賬戶必須成功提交符合要求的俄羅斯廣告統一註冊登記資質申請。"
-    },
-    {
-      "id": "mkt:019e688f-87b8-7223-8ecf-b2ecd06e3299",
-      "time": "2026-05-27 16:31:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google to update gambling and games policy in Ireland on July 1 to comply with new regulatory requirements"
-    },
-    {
-      "id": "4902084",
-      "time": "2026-05-27 16:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光大期貨：雞蛋近月合約觸及漲停，謹防高位回撥風險】基本面來看，終端銷區需求不一，貿易商多數隨銷隨採，銷區各市場雞蛋價格多數穩定，少數下跌。短期端午節前備貨，或仍將對現貨價格形成支撐。但隨著蛋價上漲，養殖戶惜淘情緒升溫，在產蛋雞存欄量降幅有限，後續雞蛋供應或有回升預期。此外，後期南方逐漸進入梅雨季，雞蛋現貨價格將受到貿易商備貨謹慎的影響，季節性回撥機率大。因此，雞蛋期貨價格執行至相對高位，短期或維持高位震盪格局，注意高位回撥風險。後續關注養殖利潤增加後養殖端補欄及出欄意願變化對供應的影響。（光大期貨）"
-    },
-    {
-      "id": "4902083",
-      "time": "2026-05-27 16:31:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿爾特：股東悅達基金已減持0.39%股份 減持計劃實施完畢】阿爾特公告，江蘇悅達中小企業綠色發展創業投資基金自2026年5月15日至2026年5月25日透過集中競價減持公司股份191.31萬股，減持均價12.06元/股，價格區間11.24-14.1元/股，佔總股本0.39%；減持後其持股降至0，減持計劃已實施完畢。悅達投資仍持股853.42萬股，佔1.75%。"
-    },
-    {
-      "id": "4902082",
-      "time": "2026-05-27 16:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元北京時間16:30官方收報6.7817，較上一交易日官方收盤價漲53點，較上日夜盤收盤漲50點。"
-    },
-    {
-      "id": "4902081",
-      "time": "2026-05-27 16:30:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：2026年7月1日，谷歌廣告將更新針對愛爾蘭的博彩與遊戲政策，以符合新規要求。"
-    },
-    {
-      "id": "te:markets:554037",
-      "time": "2026-05-27 16:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Appreciates by 1.02% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.02% increase."
-    },
-    {
-      "id": "4902080",
-      "time": "2026-05-27 16:30:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國香港超越瑞士 成為全球最大的離岸財富中心】中國香港以微弱優勢超越瑞士，成為全球最大的跨境財富中心。根據波士頓諮詢公司釋出的2026年全球財富報告，2025年在中國香港記賬的離岸資產規模增長10.7%，達到2.9萬億美元。波士頓諮詢公司預計，隨著亞洲財富的快速積累，到2030年中國香港與瑞士之間的這一差距將擴大至近6000億美元。"
-    },
-    {
-      "id": "mkt:019e688c-c456-7223-8ecf-ae6310484a56",
-      "time": "2026-05-27 16:28:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Hungary government spokesman says technical talks with EU underway on multiple EU funding issues"
-    },
-    {
-      "id": "4902079",
-      "time": "2026-05-27 16:28:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利政府發言人表示，匈牙利與歐盟之間仍在就歐盟撥款相關的若干問題開展技術性談判。"
-    },
-    {
-      "id": "4902078",
-      "time": "2026-05-27 16:28:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力源資訊：回購公司股份197.31萬股實施完成，成交額3000萬元】力源資訊公告，公司此前披露擬使用股票回購專項貸款資金及自有資金以集中競價交易方式回購部分股份用於登出並減少註冊資本，回購價格不超過19元/股。截至2026年5月26日，公司本次回購股份方案已實施完成。公司透過股份回購專用證券賬戶累計回購公司股份197.31萬股，佔公司目前總股本的0.1714%，成交總金額為2999.99萬元。本次回購的股份將予以登出並減少註冊資本。"
-    },
-    {
-      "id": "4902077",
-      "time": "2026-05-27 16:28:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國家庭能源賬單漲幅達數百英鎊 創兩年多新高】自7月起，英國普通氣電雙燃料家庭的年度能源賬單將增加數百英鎊。 英國能源監管局（Ofgem）宣佈，居民能源價格上限上調13%，普通家庭年度限額從此前的1641英鎊漲至1862英鎊。 對於選用供應商標準預設費率的普通家庭而言，每月賬單將多出18英鎊。這也是自2024年1月以來，年度能源賬單首次達到這一高位。 受伊朗局勢推高能源批發價影響，英格蘭、蘇格蘭和威爾士居民的賬單首次受到衝擊。受衝突影響，全球油氣運輸要道霍爾木茲海峽通行受阻，該航道承擔著全球兩成油氣運輸量，能源批發價格在2月開始走高，並於3月急劇飆升。 不過由於夏季氣溫偏高，英國居民用電、用氣需求普遍下降，此番漲價帶來的壓力會比冬季相對緩和。"
     }
   ]
 }
