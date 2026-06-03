@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-03 12:47:33",
-  "count": 18456,
+  "updated": "2026-06-03 12:51:21",
+  "count": 18459,
   "items": [
+    {
+      "id": "4914250",
+      "time": "2026-06-03 12:50:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱烏襲擊頓涅茨克地區一客運汽車 已致7死11傷】當地時間6月3日，俄方任命的頓涅茨克地區領導人普希林通報稱，當天一輛大型客運汽車遭到烏克蘭無人機襲擊，造成7人死亡，11人受傷。烏克蘭方面對此暫無回應。"
+    },
+    {
+      "id": "4914249",
+      "time": "2026-06-03 12:49:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【麥格理：在從通用AI轉型之際，物理AI料將迅速成熟】麥格理分析師在一份報告中表示，物理AI正在迅速成熟，並將很快被部署以降低整個工廠車間的成本並提高運營效率。他們表示，AI行業正在從通用AI向物理AI轉型，並透過先進的資料和測試模擬，被用於加速物理AI模型的訓練和測試。他們表示，為了支援這一轉型，主要晶片製造商正在建立強大的生態系統，釋出參考機器人設計，允許開發者使用專有晶片（如英偉達的GR00T和高通的IQ10）進行原型設計，這有助於將原型開發時間從幾個月縮短到幾天。"
+    },
+    {
+      "id": "4914248",
+      "time": "2026-06-03 12:49:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）將於2026年6月3日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "mkt:019e8bcf-b5d6-7ee2-b13f-7b1839bcfa03",
+      "time": "2026-06-03 12:48:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Shanghai Stock Exchange: INVESCO Great Wall Global Semiconductor Chip Industry Equity Securities Investment Fund (QDII-LOF) temporarily suspended】As of midday close June 3, 2026 the fund's latest secondary-market trade price was 4.546 yuan; NAV as of June 1, 2026 was 3.2116 yuan. The exchange warned of secondary-market premium risk. Trading will be suspended from the start of the afternoon session on June 3, 2026 through that day's close; redemption services will continue during the suspension."
+    },
+    {
+      "id": "4914247",
+      "time": "2026-06-03 12:47:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "大和資本市場將鎧俠控股目標股價從5萬日元上調至12.3萬日元。"
+    },
+    {
+      "id": "te:markets:555981",
+      "time": "2026-06-03 12:47:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Climbs to Near 4-Year High — Zinc futures rose to $3,630 per tonne, the highest in nearly four years, as supply conditions tightened amid recent disruptions. Glencore’s Kazzinc facility in Kazakhstan has been operating at reduced capacity following a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it has recently announced a gradual resumption of production. These disruptions have heightened concerns about refined zinc availability, especially given already low inventory levels, with LME zinc stocks at 111,250 tonnes, equivalent to less than three days of global consumption. Mine closures and project delays have also added to supply-side strain. However, the supply outlook is expected to gradually improve later in the year, with the anticipated restart of Boliden’s Garpenberg mine in the second quarter, as well as Japan’s Mitsui Mining and Smelting plans to raise output by 3.2% in the first half of the 2026/27 financial year."
+    },
     {
       "id": "4914246",
       "time": "2026-06-03 12:46:44",
@@ -169383,32 +169436,6 @@
         "市場"
       ],
       "text": "【華塑控股3連板 澄清子公司業務不涉及“PCB”概念】5月27日早盤，華塑控股開盤後直線拉昇至漲停，報5.21元/股，實現3連板。訊息面上，5月26日晚，華塑控股釋出股票交易異常波動公告稱，經核實，公司子公司湖北宏創智慧裝備有限公司（簡稱“宏創智慧”）主要從事製造五軸聯動多軸複合數控機床、精密數控磨床的生產及銷售業務。2026年，宏創智慧投產全自動微鑽粗精磨一體機，該裝置用於微型鑽頭的生產加工，並非從事PCB生產業務。同時，宏創智慧的業務還未形成規模，佔公司營業收入的比例較低，對公司業績沒有產生重大影響。網路流傳的內容缺乏事實依據。"
-    },
-    {
-      "id": "4901671",
-      "time": "2026-05-27 12:51:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北斗星通：公司陶瓷基板沒有應用到光模組和功率器件領域】北斗星通(002151)在互動平臺表示，公司的陶瓷基板主要材料為氧化鋁，當前主要的下游領域是穿戴類裝置的壓力感測器，訂單規模較小，屬於培育的專案之一，產品沒有應用到光模組和功率器件領域。"
-    },
-    {
-      "id": "4901670",
-      "time": "2026-05-27 12:51:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗大不里士國際機場恢復運營】當地時間27日，伊朗民航組織發言人表示，近期衝突中遭襲的大不里士國際機場已在伊朗技術人員修復後恢復運營，並於27日重新開放。該發言人表示，大不里士國際機場是伊朗第三繁忙的國際機場，目前開通有9個國際航點。"
-    },
-    {
-      "id": "4901669",
-      "time": "2026-05-27 12:48:25",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛因強勁的盈利前景將標普500指數年末目標上調至8,000點】高盛將標普500指數 的2026年底預測值從7,600點上調至8,000點，理由是企業盈利持續強勁。該目標值較該指數最近的收盤價7,519.12點高出6.4%。高盛週二在一份報告中表示：“迄今為止，盈利增長是推動標普500指數整體回報的主要動力，我們預計未來幾個月這一趨勢將持續。”該券商還將2026年標普500指數每股收益預期上調至340美元，意味著同比增長24%；2027年預期上調至385美元，進一步增長13%。高盛此舉進一步加劇了券商看漲預期的浪潮，瑞銀GWM上週剛剛上調了其展望，理由是強勁的人工智慧驅動盈利有望幫助抵消通脹壓力以及伊朗衝突帶來的供應風險。該券商表示，人工智慧基礎設施的受益者預計將推動今年該指數約一半的盈利增長，並補充稱，儘管消費疲軟和成本上升構成風險，但強勁的人工智慧投資將抵消這些壓力。高盛分析師表示：“此外，儘管標普500指數的盈利預期增速快於指數價格漲幅，但作為AI基礎設施核心的半導體股近期表現已超越其前瞻性盈利。”"
     }
   ]
 }
