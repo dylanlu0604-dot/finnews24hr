@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-05 06:23:31",
-  "count": 19037,
+  "updated": "2026-06-05 06:27:18",
+  "count": 19039,
   "items": [
+    {
+      "id": "mkt:019e94be-c7bc-7cc8-bdef-04c8db446fe8",
+      "time": "2026-06-05 06:26:31",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【Sources: SpaceX sets IPO offer price at $135 a share】Sources said SpaceX (SPCX.O) has informed banks handling its $75 billion IPO that it will use an offer price of $135 a share, disclosed in a revised filing on Wednesday. The move indicates founder Elon Musk’s intent to control pricing for what would be the largest IPO on record, though sources cautioned the price could change before trading begins. SpaceX began its roadshow on Thursday; underwriters will collect investor feedback and typically set the final price at a pre-listing meeting. Sources described demand as extremely strong. The company expects shares to start trading on June 12."
+    },
+    {
+      "id": "4918216",
+      "time": "2026-06-05 06:24:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【厄爾尼諾帶來豐水預期，南方水電公司迎景氣行情】近日，國家氣候中心確認，赤道中東太平洋5月步入厄爾尼諾狀態，專家預判夏秋季大機率演化成中等及以上強度事件，我國南澇北旱氣候機率抬升。豐水預期催化水電板塊年內漲幅顯著分化，部分上市公司釋出的一季度發電資料，已驗證流域來水實質性改善。多家券商研報預測，南方水電板塊具備配置價值，北方高溫將推動相關區域夏季火電發電量和動力煤需求提升。（上證報）"
+    },
+    {
+      "id": "4918215",
+      "time": "2026-06-05 06:24:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4480美元/盎司，日內漲0.09%。"
+    },
     {
       "id": "4918214",
       "time": "2026-06-05 06:21:21",
@@ -175372,17 +175402,6 @@
         "國際"
       ],
       "text": "【美國副總統萬斯稱現在判斷能否與伊朗達成協議還為時過早】根據白宮記者團報道，美國副總統JD·萬斯表示，現在判斷與伊朗的協議“何時或是否”能夠達成還為時過早。萬斯表示，目前很難確定何時會簽署諒解備忘錄，甚至能否簽署都尚無定論。雙方正就部分措辭反覆磋商，談判已取得不少進展。顯然，伊朗方面希望達成協議，也有意打通霍爾木茲海峽航道，這同樣也是我方的訴求。 目前仍有幾項分歧待解決，涉及核相關議題、高濃縮鈾庫存以及鈾濃縮活動等問題，雙方仍在就此溝通。我們認為，至少到目前為止，伊朗談判態度誠懇，談判整體在穩步推進，希望後續能繼續取得突破。特朗普屆時或將表態支援相關協議，但最終結果仍有待觀察。"
-    },
-    {
-      "id": "mkt:019e70b0-7678-7eef-a304-2001f04dc10a",
-      "time": "2026-05-29 06:24:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) climbed in after-hours trading, extending gains to 37% after reporting first fiscal-quarter results that far exceeded expectations."
     }
   ]
 }
