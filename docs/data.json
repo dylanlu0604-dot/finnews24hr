@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-05 07:53:04",
-  "count": 19009,
+  "updated": "2026-06-05 07:56:55",
+  "count": 19007,
   "items": [
+    {
+      "id": "4918296",
+      "time": "2026-06-05 07:55:53",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【標普重申現有規則 SpaceX暫無法提前納入美國基準股指】標普全球表示，不會改變其主要指數的納入標準，這給馬斯克 旗下的SpaceX公司帶來了一記重擊，因為這實際上排除了這起有史以來規模最大的IPO能迅速進入基準標普500指數的可能性。馬斯克在多方面重寫了SpaceX的IPO攻略，包括計劃讓散戶投資者在配售中發揮更大作用、推動儘早納入指數，以及構建治理結構以保持創始人對公司的強力控制。該公司計劃籌集750億美元，目標估值達1.75萬億美元，這將使其躋身美國上市企業市值前十之列，儘管其可供交易的股份僅佔極小一部分。但標普表示，“不應僅基於市值就豁免財務可行性、運營年限以及IWF（可投資權重係數）等要求”。根據標普未作修改的規則之一，企業要被納入標普500指數，必須在最近一個季度以及最近四個季度的累計業績中，依據公認會計原則實現盈利。儘管SpaceX的營收增長了33%至186.7億美元，但2025年仍錄得49.4億美元的淨虧損。納斯達克已做出調整 ，這將使SpaceX、Anthropic及其他新上市的超大市值公司更容易加入其納斯達克100指數。一旦SpaceX加入該指數，納斯達克100指數基金將被迫購入大量公開流通的SpaceX股票。"
+    },
+    {
+      "id": "4918295",
+      "time": "2026-06-05 07:55:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：光模組裝置或迎量升價增拐點】華泰證券研報表示，AI算力需求持續增長驅動高速光模組加速放量，同時1.6T/3.2T高速率升級及CPO等技術迭代推動光模組封裝複雜度與效能要求持續提升，帶動上游裝置行業進入“量增+價升”共振階段。光模組裝置市場迎增長加速拐點，看好產業鏈相關企業發展。"
+    },
+    {
+      "id": "4918294",
+      "time": "2026-06-05 07:55:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【振華科技：公司目前整體鉭電容產能10億隻】振華科技(000733)在互動平臺表示，公司目前整體鉭電容產能10億隻，公司持續緊跟市場需求與技術發展，對現有產線進行智慧化升級改造與效能提升，以穩步釋放潛在產能。公司民用鉭電容主要應用在伺服器領域、低壓電路保護領域、民用爆破領域和智慧三表領域；薄膜電容、超級電容、鋁電容及MLCC主要應用於軌道交通領域和超算領域，整體民用業務佔比不大。"
+    },
+    {
+      "id": "4918293",
+      "time": "2026-06-05 07:54:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國航運韌性為全球供應鏈穩定注入信心 】6月2日至5日，第四屆天津國際航運產業博覽會召開，聚焦航運智慧化、綠色化、國際化，以及全球供應鏈安全穩定，搭建國際航運合作與創新成果展示平臺，吸引超400家企業參展。中外與會嘉賓認為，中國的航運韌性為全球供應鏈穩定注入了信心。  資料顯示，中國國際航運量佔全球比重近三分之一，航運服務網路覆蓋全球。中國已經建成世界最大的港口叢集，港口貨物吞吐量連續20多年位居世界第一。 上海國際航運研究中心資訊長徐凱表示，中國航運的韌性，是硬核基礎設施、完整產業體系、技術創新能力和深度全球化佈局共同作用的結果。這種韌性不僅保障了中國自身外貿的穩定發展，更為動盪中的全球供應鏈提供了難能可貴的確定性。（新華社）"
+    },
+    {
+      "id": "4918292",
+      "time": "2026-06-05 07:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基提議會晤 普京重申願意和談 】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。"
+    },
+    {
+      "id": "4918291",
+      "time": "2026-06-05 07:53:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內跌0.04%。"
+    },
     {
       "id": "4918290",
       "time": "2026-06-05 07:51:02",
@@ -9,6 +60,15 @@
         "國際"
       ],
       "text": "日本財務大臣片山皋月：消費稅減免的方向尚未確定。不會依靠舉債來為食品消費稅減擴音供資金。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606053760939086",
+      "time": "2026-06-05 07:50:37",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月外匯儲備13059億美元，前值13830億美元。"
     },
     {
       "id": "4918289",
@@ -66,6 +126,14 @@
         "國際"
       ],
       "text": "【普京說俄中是天然的夥伴】俄羅斯總統普京當地時間4日在聖彼得堡會見全球主要通訊社負責人時表示，中國發展強勁，在全球經濟、世界政治及國際事務中扮演著日益重要的角色。俄羅斯對此不只是觀望，更是與中國攜手深化合作。普京說，俄羅斯和中國是天然的夥伴。兩國2001年簽署的《俄中睦鄰友好合作條約》更是為全方位各領域雙邊合作築牢根基、創造前提條件，如今的成果便是印證。"
+    },
+    {
+      "id": "4918285",
+      "time": "2026-06-05 07:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南多地以科技賦能助力“三夏”生產】智慧農機自動作業、“雲端”賦能科學排程、線上指揮搶抓農時……記者近日在河南多地採訪瞭解到，在當下農忙時節，河南正以科技賦能“三夏”生產，助力糧食穩產豐收。據瞭解，河南農機雲平臺對接農機數量超過13.8萬臺，其中收穫類農機7萬餘臺。透過“雲端”賦能，有關部門能根據小麥成熟度，科學排程農機，有序組織收穫。（新華社）"
     },
     {
       "id": "4918284",
@@ -174992,102 +175060,6 @@
         "國際"
       ],
       "text": "【美媒：達拉斯市一公寓樓燃氣爆炸至少造成1死4傷 】據美國媒體報道，美國得克薩斯州達拉斯市一棟兩層公寓樓28日發生燃氣爆炸，已造成至少1人死亡、4人受傷。達拉斯消防救援部門官員說，樓內共有23人，目前至少11人失蹤，搜救工作正在進行。"
-    },
-    {
-      "id": "4905699",
-      "time": "2026-05-29 07:56:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：我無法回答有關擬議對食品徵收1%消費稅的假設性問題。"
-    },
-    {
-      "id": "4905698",
-      "time": "2026-05-29 07:55:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "片山皋月：應對匯市走勢的立場沒有改變。"
-    },
-    {
-      "id": "te:economy:554641",
-      "time": "2026-05-29 07:55:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Retail Sales YoY",
-        "Importance 2"
-      ],
-      "text": "Japan Retail Sales Growth Hits 1-Year Peak — Retail sales in Japan grew 2.1% year-on-year in April 2026, following a downwardly revised 1.4% rise in the previous month and surpassing market expectations for a 1.3% gain. It was the fastest increase since April 2025, supported by government efforts, including a stimulus package aimed at boosting consumption and easing price pressures."
-    },
-    {
-      "id": "mkt:019e7103-3fc7-7ee0-99dd-f0533097072b",
-      "time": "2026-05-29 07:54:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Treasury says $250 Trump note designed; issuance needs congressional approval】U.S. Treasury Secretary Bessent told reporters at the WHITE HOUSE the Treasury has completed the design for a $250 note bearing President Trump’s portrait, but issuance requires Congress to amend a law that currently prohibits living persons on U.S. currency; the Treasury is prepared pending legislative authorization."
-    },
-    {
-      "id": "4905697",
-      "time": "2026-05-29 07:54:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普肖像紀念鈔已設計完成 只等國會“放行” 】美國財政部長貝森特28日表示，美財政部就發行印有總統特朗普肖像、面值250美元的紀念鈔已做好準備，包括完成了紙幣設計工作，但該紀念鈔最終能否發行取決於國會授權。貝森特在白宮回答記者提問時說，美國現行法律禁止貨幣上印製在世人士頭像，因此需國會眾議院透過一項法案以修改此規定，“以便讓在世人士，比如特朗普，能夠出現在250美元的鈔票上”。他說，“這一切都取決於國會”，但財政部必須預先做好準備，“我們已經設計出了這款紙幣”。當天早些時候，《華盛頓郵報》報道說，財政部司庫布蘭登·比奇敦促隸屬該部的“印鈔廠”美國印刷局加快印製一款有特朗普肖像、面值250美元的紙幣。報道還稱，印刷局前局長帕特里夏·索利梅內因拒絕加快該款新幣發行程序而被調離崗位。"
-    },
-    {
-      "id": "4905696",
-      "time": "2026-05-29 07:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：若匯率出現投機性波動，可以採取大膽行動。"
-    },
-    {
-      "id": "te:economy:554640",
-      "time": "2026-05-29 07:53:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "Japan Industrial Output Unexpectedly Rises — Japan’s industrial production rose 0.8% mom in April 2026, reversing a 0.4% drop in the prior month and defying market forecasts for a 0.9% decline. It was the first rise since January, amid resilient overseas demand and a recovery in domestic manufacturing activity, although escalating Middle East tensions continued to pose risks to supply chains and energy costs."
-    },
-    {
-      "id": "mkt:019e7101-ef74-7ee0-99dd-eaa3f9078370",
-      "time": "2026-05-29 07:53:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan's finance minister Katayama declined to comment on whether authorities have intervened."
-    },
-    {
-      "id": "mkt:019e7101-ab8d-7ee0-99dd-e3baf0696a50",
-      "time": "2026-05-29 07:53:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said, when asked about FX intervention, that authorities could take decisive action to counter market volatility."
-    },
-    {
-      "id": "4905695",
-      "time": "2026-05-29 07:53:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：資本市場改革深化下 券商“科創屬性”價值重估】中信建投證券研報稱，2025年以來科創板“1+6”改革、創業板深化改革相繼落地，兩大板塊錯位發展格局形成，成為A股科創企業融資核心陣地。券商科創屬性主要來自投行保薦承銷、雙創IPO跟投及直投、私募業務，截至2026年5月26日，頭部及特色券商跟投累計浮盈達90.91億元。當前非銀板塊估值處於歷史偏低區間，改革紅利持續釋放疊加科創業務業績兌現，板塊配置價值凸顯，建議關注頭部券商及科創特色鮮明的中型券商。"
     }
   ]
 }
