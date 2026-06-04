@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-04 11:58:48",
-  "count": 19062,
+  "updated": "2026-06-04 12:03:47",
+  "count": 19055,
   "items": [
+    {
+      "id": "4916534",
+      "time": "2026-06-04 12:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒指跌1.4%，科技股繼續低迷，儲存半導體依舊強勢】港股延續昨日跌勢，截止午盤，恒生指數跌1.4%，國企指數跌1.06%，恒生科技指數跌1.43%。權重科技股低迷再度拖累大市走低，阿里巴巴、美團、百度均跌超2%，騰訊、小米、京東均下跌；國際金價走低疊加黃金ETF近一個月資金淨流出超百億元，黃金股領銜有色金屬股下跌，鋰電池股、AI應用概念股、保險股普跌。另外，儲存半導體繼續活躍上漲，兆易創新再度領漲。"
+    },
+    {
+      "id": "mkt:019e90ca-7be4-7cc0-ba24-1b74e1626fb8",
+      "time": "2026-06-04 12:00:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: U.S. and Iran discussed Gulf-funded reconstruction fund for Iran】CNN sources said the U.S. and Iran discussed creating a reconstruction fund that, if a final agreement is reached, would provide tens of billions of dollars for Iran. The U.S. would not contribute; most financing would come from Gulf states. The White House says it will not provide economic relief or unfreeze funds until Iran relinquishes its highly enriched uranium stockpile."
+    },
+    {
+      "id": "mkt:019e90ca-666c-7cc0-ba24-1445bd26bc4f",
+      "time": "2026-06-04 12:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli ambassador to US: Lebanon ceasefire deal hinges on dismantling Hezbollah】After a State Department statement on a ceasefire between Israel and Lebanon, Israeli ambassador to the US Yeshay Leit said US-brokered talks are \"another important step\" toward an Israel-Lebanon peace process but stressed any deal hinges on the end of Hezbollah. He warned \"if Hezbollah thinks this outcome will grant them immunity, they are wrong,\" and said the ceasefire depends on \"a full halt to hostilities against Israel and the complete dismantling of Hezbollah and its terrorist infrastructure.\""
+    },
+    {
+      "id": "mkt:019e90c9-5d2c-7cc0-ba24-0f8eb5b142c8",
+      "time": "2026-06-04 11:59:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CGN installs largest single-unit 18 MW offshore wind turbine】China General Nuclear (CGN) completed installation of the first 18 MW turbine at its 1 GW Guangdong Yangjiang Fanshi II offshore wind project. The unit is CGN’s largest single-turbine capacity across its operating and under-construction portfolio. CGN said the project will enable scaled deployment of 18 MW-class offshore turbines in China, supporting a shift toward larger-capacity, higher-efficiency and lower-cost offshore wind development."
+    },
+    {
+      "id": "4916533",
+      "time": "2026-06-04 11:59:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲股市多數走低 印尼股市大跌5% 印尼盧比兌美元跌破18,000】印尼股市週四大跌5%，跌至逾五年低點，而盧比匯率則跌破18,000關口，受累於貿易順差縮減、多項國內問題以及油價推高的通脹擔憂等多重因素。盧比兌美元下跌0.5%，至18,030的歷史低點，今年迄今已累計貶值逾7.5%，超越印度盧比，成為表現最差的亞幣。印尼雅加達綜合指數跌至2020年12月以來的最低點，過去兩個交易日累計跌幅近10%。“近期走勢反映了政策調整，而一系列疲軟的經濟資料加劇了這種調整，”華僑銀行東盟高階經濟學家 文卡特斯瓦蘭（Lavanya Venkateswaran）表示。“現在當務之急是當局儘早向民間部門就即將出臺的新政策方向提供明確保證。”新加坡股市從週三創下的歷史收盤高點回落，跌幅超過1%，韓國股市下跌約1.2%，而馬來西亞股市.上漲0.6%。"
+    },
     {
       "id": "4916532",
       "time": "2026-06-04 11:58:13",
@@ -175431,119 +175477,6 @@
         "國際"
       ],
       "text": "歐盟擴歐事務負責人表示，歐盟必須修改入盟制度以適配烏克蘭的需求。"
-    },
-    {
-      "id": "4903821",
-      "time": "2026-05-28 12:03:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元下跌超0.4%，報1.3368美元。"
-    },
-    {
-      "id": "4903820",
-      "time": "2026-05-28 12:03:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元下跌0.57%，報0.7101美元；紐西蘭元下跌0.47%，報0.5874美元。"
-    },
-    {
-      "id": "4903819",
-      "time": "2026-05-28 12:02:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破73000美元，日內跌2.04%。"
-    },
-    {
-      "id": "mkt:019e6cbf-c583-722b-8ac8-d36ee1aa90bc",
-      "time": "2026-05-28 12:02:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's Ministry of Industry said manufacturing output in April fell 0.36% year-on-year."
-    },
-    {
-      "id": "mkt:019e6cbf-669b-7444-969f-a022fc69d16a",
-      "time": "2026-05-28 12:02:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Euro STOXX 50 futures fell 1.2%; UK FTSE 100 futures were down 0.95%; German DAX 30 futures fell 0.93%."
-    },
-    {
-      "id": "mkt:019e6cbe-f158-722b-8ac8-c273b0d41cfe",
-      "time": "2026-05-28 12:01:53",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Nasdaq futures were last down 0.88%; S&P 500 futures were down 0.36%."
-    },
-    {
-      "id": "te:markets:554286",
-      "time": "2026-05-28 12:01:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Hits 4-week Low — Silver decreased to 72.15 USD/t.oz, the lowest since April 2026. Over the past 4 weeks, Silver gained 1.31%, and in the last 12 months, it increased 116.82%."
-    },
-    {
-      "id": "mkt:019e6cbe-66eb-722b-8ac8-bac6ef1c2106",
-      "time": "2026-05-28 12:01:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude oil rose 3.00% intraday, trading at $94.81/bbl."
-    },
-    {
-      "id": "4903818",
-      "time": "2026-05-28 12:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界氣象組織：未來五年將出現史上最熱一年】世界氣象組織28日表示，2026年至2030年間，有高達86%的機率，某一年氣溫將超過2024年，成為有記錄以來最熱的年份。世界氣象組織委託英國氣象局當天釋出的一份新報告，未來五年全球平均氣溫可能繼續維持在或接近歷史最高水平。2026年至2030年間，全球近地表平均溫度極有可能（機率為91%）至少有一年會暫時超過工業化前水平1.5℃以上，而五年平均溫度很可能（機率為75%）超過工業化前水平1.5℃以上。（央視新聞）"
-    },
-    {
-      "id": "4903817",
-      "time": "2026-05-28 12:00:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普在社交媒體上發圖，圖上配文：政府當初對英特爾(INTC.O)投入的89億美元投資，如今價值已超過510億美元。"
-    },
-    {
-      "id": "4903816",
-      "time": "2026-05-28 11:59:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和順科技：正與下游塗布廠商就高階膜材產品協同最佳化工藝、推進多輪送樣】和順科技(301237)在互動平臺表示，目前全球高階MLCC及配套膜材主要由海外企業主導，高階產能趨於滿載、供給偏緊，疊加國內產業鏈自主可控需求，為國產高階膜材創造了良好替代機遇。公司專注高階膜材賽道，MLCC離型膜基膜已實現核心技術突破，產品效能對標進口水平並獲下游初步認可，當前正與下游塗布廠商協同最佳化工藝、推進多輪送樣及客戶認證。目前相關產品暫未產生收入，對公司業績暫無重大影響，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "4903815",
-      "time": "2026-05-28 11:59:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報92.23美元/桶。"
     }
   ]
 }
