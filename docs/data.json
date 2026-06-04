@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-04 18:08:26",
-  "count": 19027,
+  "updated": "2026-06-04 18:12:23",
+  "count": 19024,
   "items": [
+    {
+      "id": "4917221",
+      "time": "2026-06-04 18:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永安藥業：2025年度權益分派，每10股派1元（含稅）】永安藥業公告稱，2025年年度權益分派以總股本294,682,500股扣除已回購股份5,537,350股後的289,145,150股為基數，向全體股東每10股派發現金股利1元（含稅），共派發現金2891.45萬元（含稅）。股權登記日為2026年6月10日，除權除息日為6月11日。除部分股東自行派發現金紅利外，其餘A股股東現金紅利將於6月11日透過託管證券公司劃入資金賬戶。"
+    },
+    {
+      "id": "4917220",
+      "time": "2026-06-04 18:11:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【邁威生物：9MW5211注射液臨床試驗申請獲批】邁威生物(688062)6月4日公告，近日，公司收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，9MW5211注射液用於炎症性腸病（IBD）適應症的臨床試驗申請獲得批准，此外，其用於IBD適應症的美國臨床試驗申請已獲得FDA許可，用於多發性硬化（MS）等多個適應症的臨床試驗申請獲得國家藥品監督管理局受理，公司亦在積極推進其他適應症臨床試驗申請工作。"
+    },
+    {
+      "id": "4917219",
+      "time": "2026-06-04 18:10:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯黎部隊遭襲致維和士兵1死2傷】聯合國駐黎巴嫩臨時部隊（聯黎部隊）4日發表宣告說，1名維和士兵在黎巴嫩南部邁爾季歐雲地區附近遭迫擊炮彈襲擊受傷，後因傷勢過重身亡。另有2名維和士兵在同一襲擊中受傷送醫。（新華社）"
+    },
+    {
+      "id": "mkt:019e921c-f53a-7668-960f-e3871e4a9492",
+      "time": "2026-06-04 18:10:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX estimates its addressable market at about $28.5 trillion."
+    },
+    {
+      "id": "4917218",
+      "time": "2026-06-04 18:09:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【托克集團：由於緩衝資金即將耗盡，石油市場正處於“關鍵時刻】托克集團表示，能源市場正處於“關鍵時刻”，抑制價格上漲的因素正在迅速消退。托克集團首席經濟學家薩阿德·拉希姆表示，高庫存、戰略儲備的釋放和需求的萎縮“為市場爭取了時間，但這並不是解決辦法”。由於戰爭，世界已經損失了超過 11 億桶石油，托克集團估計目前的損失約為每天 1400 萬桶。"
+    },
+    {
+      "id": "4917217",
+      "time": "2026-06-04 18:09:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城汽車：2025年度末期股息每股0.35元 8月7日派發】長城汽車公告稱，2026年6月26日公司股東批准2025年度末期股息，每股0.35元。除淨日為2026年7月2日，為符合獲股息分派遞件最後期限為7月3日16：30，7月4日至7月10日暫停辦理過戶登記，記錄日期為7月10日，股息將於8月7日派發。對於內地個人投資者及基金透過港股通投資H股，按20%稅率代扣個稅。"
+    },
+    {
+      "id": "4917216",
+      "time": "2026-06-04 18:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉美包裝：逐越鴻智要約收購2.15億股完成過戶】嘉美包裝公告，蘇州逐越鴻智科技發展合夥企業（有限合夥）要約收購公司股份2.33億股，佔公司股份總數的25.00%。截至2026年5月29日，預受要約股東賬戶總數為36戶，預受要約股份數量合計為2.15億股，佔公司總股本的19.59%。逐越鴻智已收購已預受要約股份2.15億股，佔預定要約收購股份數量的92.17%。本次要約收購清算過戶手續辦理完畢，逐越鴻智持有公司4.94億股股份，佔公司總股本的45.01%，成為公司控股股東。"
+    },
+    {
+      "id": "4917215",
+      "time": "2026-06-04 18:07:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證監會申報檔案：ALPHABET擬發行2546萬股A類股與2546萬股C類股。"
+    },
     {
       "id": "mkt:019e921a-0818-7668-960f-de5c035baf8e",
       "time": "2026-06-04 18:07:19",
@@ -175326,101 +175394,6 @@
         "MKT News"
       ],
       "text": "TAKAICHI met with the Philippine president and agreed to upgrade bilateral relations."
-    },
-    {
-      "id": "mkt:019e6e12-04d9-7aa7-b135-ba0f5cc32b1a",
-      "time": "2026-05-28 18:12:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Tencent Ima Announces Integration With WorkBuddy】Tencent ima announced integration with WorkBuddy. Previously, ima’s Copilot channeled user-contributed knowledge into ima’s internal agent workflows; with the WorkBuddy integration, ima will become a knowledge context that additional agent products can call."
-    },
-    {
-      "id": "4904585",
-      "time": "2026-05-28 18:11:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【學大教育：股東星納赫源已減持0.05662%】學大教育公告，股東南京星納赫源創業投資合夥企業（有限合夥）於2026年5月27日至5月28日透過深交所集中競價減持公司股份69000股，佔總股本0.05662%，持股比例由5.05658%降至4.99995%，不再為持股5%以上股東。此前該股東曾預披露擬於2026年3月5日至2026年6月4日期間以集中競價、大宗交易方式減持不超60.93萬股（不超總股本0.5%），本次減持與上述計劃一致。"
-    },
-    {
-      "id": "4904583",
-      "time": "2026-05-28 18:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工作與養老金大臣：英國青年失業問題根深蒂固。"
-    },
-    {
-      "id": "mkt:019e6e10-ef6c-7993-9090-b3b8cd3cdc3d",
-      "time": "2026-05-28 18:11:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Work and Pensions Secretary: Youth unemployment in the UK is deeply entrenched."
-    },
-    {
-      "id": "4904582",
-      "time": "2026-05-28 18:10:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊ima宣佈接入WorkBuddy】5月28日，騰訊ima宣佈接入WorkBuddy。此前，ima自身Copilot已經讓使用者沉澱的知識進入ima內部的Agent工作流，本輪接入後，ima成為更多Agent產品可呼叫的知識上下文。"
-    },
-    {
-      "id": "4904581",
-      "time": "2026-05-28 18:10:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "小鵬汽車美股上市股票盤前上漲回落到3.4%，此前公佈一季度業績。"
-    },
-    {
-      "id": "4904580",
-      "time": "2026-05-28 18:10:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行首席經濟學家：伊朗戰爭將對通脹產生持久影響】歐洲央行首席經濟學家萊恩週四表示，即使中東衝突能迅速解決，由此引發的能源衝擊仍可能對通脹產生持久影響。雖然歷史上油價在經歷一輪飆升後往往會回落至原有水平，但當前的情況可能有所不同，因為各國正在補充庫存或調整能源結構，能源成本可能會持續處於高位。（新華財經）"
-    },
-    {
-      "id": "4904578",
-      "time": "2026-05-28 18:09:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美格智慧：子公司擬2.85億元收購慧欣物業100%股權購置辦公樓】美格智慧公告稱，2026年5月28日，其全資子公司眾格智慧與Minhang Investment簽訂協議，擬不超2.85億元收購慧欣物業100%股權，獲取其名下15,369.58平方米辦公樓所有權。交易總價包括8599.49萬元股權交易對價和1.99億元貸款償還金額。資金由公司自有或自籌。交易不構成關聯及重大資產重組，尚需股東會批准，完成後慧欣物業將成公司全資孫公司。"
-    },
-    {
-      "id": "mkt:019e6e0f-2334-7993-9090-ad8b60d8c840",
-      "time": "2026-05-28 18:09:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hisense Says Talks With LG Over TV Unit Are Routine; Sale Speculation Unconfirmed】An industry insider close to Hisense said recent coordination talks between LG Electronics and Hisense executives over business restructuring — including the reported possibility of LG selling its TV division — were routine exchanges and that other reports are speculative. In late March TCL Electronics signed an agreement with Sony to form a joint venture that will take over Sony’s TV and home-audio hardware business, with TCL Electronics as majority owner. Hisense previously acquired Toshiba’s TV operations. Analysts expect Chinese firms to further increase their share of the global TV market. Omdia consumer-electronics analyst Zhang Bing said a Hisense acquisition of LG’s TV unit is unlikely, noting LG ranked second by industry revenue in 2025 (behind Samsung) and was fourth by TV shipments last year after Samsung, TCL and Hisense, but he did not rule out resource-sharing or cooperation between LG and Chinese OEMs/brands in the TV supply chain."
-    },
-    {
-      "id": "4904577",
-      "time": "2026-05-28 18:09:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【LG要找海信買下電視業務？業內人士：交流正常、其他屬猜測】針對LG電子高管近日與海信高管就業務重組計劃進行協調磋商、其中包括出售LG電視業務部門可能性的傳聞，一位接近海信的業內人士表示，企業之間的交流很正常，其他都屬於猜測。今年3月底，TCL電子與索尼簽約將設立合資公司，來承接索尼電視、音響等家庭娛樂電子硬體業務，並將由TCL電子控股。此前，海信已收購了東芝電視業務。業內預測，中國企業今後在全球電視市場的份額還將進一步提升。Omdia消費電子分析師張兵分析認為，海信收購LG電視業務的可能性不大，因為LG電子2025年在全球彩電行業的營收排第二位、僅次於三星；LG電視去年出貨量排第四位，在三星、TCL、海信之後。“不排除LG電子在電視供應鏈上，與中國的代工廠、品牌廠商進行資源共享和合作的可能性。”（一財）"
-    },
-    {
-      "id": "4904576",
-      "time": "2026-05-28 18:08:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局（NHTSA）對114,922輛在美國銷售的Rivian車輛啟動初步評估，原因為車輛行駛過程中後輪束角連桿可能斷裂，導致車輛偏離車道。"
     }
   ]
 }
