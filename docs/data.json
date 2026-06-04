@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-05 01:07:23",
-  "count": 18895,
+  "updated": "2026-06-05 01:11:24",
+  "count": 18896,
   "items": [
+    {
+      "id": "mkt:019e939c-e5a6-711f-ac53-0a07d60294bc",
+      "time": "2026-06-05 01:09:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia will continue to develop relations with India."
+    },
+    {
+      "id": "mkt:019e939c-bad2-711f-ac53-050d8f78d506",
+      "time": "2026-06-05 01:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said its Space Forces, the command's space warfighting element, hold the strategic high ground in the Middle East and support US forces in maintaining regional security and stability. The unit maintains ready offensive and defensive capabilities and is on 24/7 alert."
+    },
+    {
+      "id": "mkt:019e939c-b21b-711f-ac52-f85bf2e3dbd7",
+      "time": "2026-06-05 01:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said US-India relations will not impede Russia-India ties."
+    },
+    {
+      "id": "4917914",
+      "time": "2026-06-05 01:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們將繼續發展與印度的關係。"
+    },
+    {
+      "id": "4917913",
+      "time": "2026-06-05 01:07:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：印美關係不會妨礙俄印關係。"
+    },
     {
       "id": "4917912",
       "time": "2026-06-05 01:05:05",
@@ -174066,41 +174106,6 @@
         "國際"
       ],
       "text": "截至目前，多家媒體記者現已證實AXIOS率先曝出的美伊協議訊息，並均提到同一前提：該協議尚待特朗普總統最終批准。"
-    },
-    {
-      "id": "te:markets:554590",
-      "time": "2026-05-29 01:10:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Drops to 1-Month Low — US gasoline future were at $3.15 per gallon in late May, their lowest in over one month, on expectations of respite in supply following reports that Iran and the US agreed to a truce in their conflict. The reports pointed to a 60-day memorandum that would extend the current ceasefire and pave the way to restore exports of crude oil and refined products through the Strait of Hormuz within a month of the agreement. Energy exports from the key region have been at a standstill since the first week of March, driving global oil inventories to drop at a record pace, per the IEA. Likewise, gasoline stocks in the US sank for the 15th consecutive week in May, as refineries have been operating at full capacity with feedstock from the SPR. Refinery capacity was also lower for motor gasoline as refiners switched to distillates in an attempt to prevent diesel and jet fuel shortages."
-    },
-    {
-      "id": "4905370",
-      "time": "2026-05-29 01:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟擬提振本土半導體 包括專攻人工智慧晶片及先進3奈米制程晶片】草案檔案顯示，歐盟正推出新版《晶片法案》，再度發力提振陷入低迷的本土半導體產業。該計劃預計到2035年，合計吸納1200 億歐元（合 1400 億美元）公私領域投資。2023年版《晶片法案》未能提升歐盟晶片市場份額，即將落地的2.0版本轉而聚焦務實舉措，拉動本土對歐洲產晶片的需求。草案提及一項重點戰略專案：規劃總投資300億歐元的晶圓廠，專攻人工智慧晶片及先進3奈米制程晶片。專案資金將由歐盟委員會、各成員國及私營企業共同籌措。檔案還指出，歐盟委員會將牽頭對接電信、國防、汽車等行業企業與晶片供應商，定製適配各領域需求的晶片技術。"
-    },
-    {
-      "id": "4905369",
-      "time": "2026-05-29 01:08:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：伊朗不會以屈辱的方式進行外交。"
-    },
-    {
-      "id": "4905368",
-      "time": "2026-05-29 01:08:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：以色列是地區動盪的根源。"
     }
   ]
 }
