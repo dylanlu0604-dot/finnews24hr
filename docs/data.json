@@ -1,7 +1,182 @@
 {
-  "updated": "2026-06-04 21:33:16",
-  "count": 18974,
+  "updated": "2026-06-04 21:37:20",
+  "count": 18985,
   "items": [
+    {
+      "id": "4917637",
+      "time": "2026-06-04 21:36:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣個股下跌，比特幣價格觸及近四個月低位。ProShares比特幣策略交易所交易基金下跌2.6%，iShares比特幣信託下跌2.6%。"
+    },
+    {
+      "id": "mkt:019e92d9-672a-7dd1-a9a5-8acc09792729",
+      "time": "2026-06-04 21:36:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese military said Israeli forces withdrew from a town in southern Lebanon."
+    },
+    {
+      "id": "4917636",
+      "time": "2026-06-04 21:36:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，大全新能源漲6.94%，小牛電動漲6.25%，騰訊音樂漲3.99%，億咖通科技漲3.76%，嗶哩嗶哩漲3.47%。"
+    },
+    {
+      "id": "4917635",
+      "time": "2026-06-04 21:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍方稱以色列部隊撤出黎巴嫩南部城鎮。"
+    },
+    {
+      "id": "mkt:019e92d9-1f2b-7dd1-a9a5-8109bc96d5dd",
+      "time": "2026-06-04 21:36:03",
+      "tags": [
+        "MKT News",
+        "BAC.N"
+      ],
+      "text": "BofA (BAC.N) said it will roll out a cross-border real-time payments solution next quarter to expand its global payments options."
+    },
+    {
+      "id": "4917634",
+      "time": "2026-06-04 21:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將於下季度推出跨境實時支付解決方案。"
+    },
+    {
+      "id": "4917633",
+      "time": "2026-06-04 21:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將推出跨境實時支付服務，拓展全球支付選擇範圍。"
+    },
+    {
+      "id": "4917632",
+      "time": "2026-06-04 21:35:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "睡眠數字公司（Sleep Number）股價暴跌65%，至每股0.38美元，此前報道稱公司正準備提交破產申請。"
+    },
+    {
+      "id": "mkt:019e92d8-ed60-7eec-b8aa-bd3b8fd2493f",
+      "time": "2026-06-04 21:34:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sleep Number shares plunged 65% to $0.38 per share after the Wall Street Journal reported the company is preparing to file for bankruptcy."
+    },
+    {
+      "id": "te:markets:556548",
+      "time": "2026-06-04 21:34:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Mixed on Thursday — US equity indices were mixed on Thursday as fresh pressure on the AI economy offset support from some respite in Treasuries. The S&P 500 dropped 0.5% and the Nasdaq 100 fell 1%. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. The signals reignited lingering concerns that the surge in AI capital expenditure by the largest companies in the US, which have carried US equity indices in recent quarters, may not be sustainable. Also, Crowdstrike also slipped over 10% after posting its earnings. Still, energy prices trimmed their increase last sessions on signals that the US is attempting to strike a deal with Iran. Bonds were also supported by the increase in job cuts per the latest data. The Dow added over 1% with support from defensive stocks as P&G and J&J added 2%. Blackstone gained 1.5%, rebounding from the slump yesterday despite being the latest private credit firm to cap withdrawals."
+    },
+    {
+      "id": "4917630",
+      "time": "2026-06-04 21:34:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "Five Below股價在一季度業績釋出後下跌10.9%，業績顯示銷售額增速正在放緩。"
+    },
+    {
+      "id": "4917629",
+      "time": "2026-06-04 21:33:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "博通不及預期，美國晶片製造商股價集體下跌。美光科技下跌6.8%，超威半導體（AMD）下跌4.6%，英特爾下跌4.2%，高通下跌3.5%，美滿電子科技下跌5.8%。"
+    },
+    {
+      "id": "mkt:0e6e668d-1e64-4ab4-bcdd-e4791e54f295",
+      "time": "2026-06-04 21:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UnitedHealth (UNH.N) rose 4.8% after BofA Global Research upgraded the stock to Buy from Neutral."
+    },
+    {
+      "id": "4917628",
+      "time": "2026-06-04 21:32:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合健康集團股價上漲4.8%，此前美銀全球研究將其評級從“中性”上調至“買入”。"
+    },
+    {
+      "id": "mkt:12ccbf11-9a7f-4e0c-a521-5db0a7c840b7",
+      "time": "2026-06-04 21:32:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Broadcom (AVGO.O) shares plunged 15%, the largest decline since January 2025."
+    },
+    {
+      "id": "te:markets:556547",
+      "time": "2026-06-04 21:32:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AbbVie Stock Price Hits 11-week High — AbbVie shares increased to 223.68 USD, the highest since March 2026. Over the past 4 weeks, AbbVie gained 4.28%, and in the last 12 months, it increased 15.87%."
+    },
+    {
+      "id": "4917627",
+      "time": "2026-06-04 21:32:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大皇家銀行資本市場將博通（Broadcom）的目標股價從 360.00 美元上調至 400.00 美元。"
+    },
+    {
+      "id": "mkt:ac294139-1b7b-4b48-ab67-ed73014f8a1b",
+      "time": "2026-06-04 21:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer, on the EU-U.S. agreement and Section 301 tariffs: an agreement is an agreement."
+    },
+    {
+      "id": "4917626",
+      "time": "2026-06-04 21:32:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國一客機起落架坍塌多人傷】德國漢莎航空公司一架波音787-9“夢想客機”今天（4日）在法蘭克福機場停靠登機口時，前起落架突然坍塌，導致機身受損，多名機組人員受傷接受醫療救治。受此影響，該客機原定於今日執飛LH450次航班前往美國洛杉磯的航程已被取消。法蘭克福機場和漢莎航空方面尚未公佈事故原因。據悉，這架客機今年1月交付使用。 (CCTV國際時訊)"
+    },
+    {
+      "id": "4917625",
+      "time": "2026-06-04 21:32:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CrowdStrike股價下跌7.6%，此前該公司公佈第一季度運營支出高於預期。"
+    },
     {
       "id": "4917624",
       "time": "2026-06-04 21:32:03",
@@ -11,12 +186,40 @@
       "text": "博通股價暴跌15%，創2025年1月以來最大跌幅。"
     },
     {
+      "id": "mkt:8044c390-ab1a-445e-bc83-79cf547c5ce4",
+      "time": "2026-06-04 21:31:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said U.S. consumers and global trade have shown resilience."
+    },
+    {
       "id": "4917623",
       "time": "2026-06-04 21:31:05",
       "tags": [
         "國際"
       ],
       "text": "美國貿易代表格里爾稱美國消費者和全球貿易都展現出了韌性。"
+    },
+    {
+      "id": "mkt:019e92d5-0700-7eec-b8aa-a4a8099ae371",
+      "time": "2026-06-04 21:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "AVGO.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【US stocks open mixed; Broadcom plunges 14% after earnings】U.S. stocks opened mixed: Dow +1.0%, S&P 500 -0.4%, Nasdaq -1.0%. Broadcom (AVGO) plunged 14% after earnings, trimming its market value below $2 trillion after guiding AI-chip revenue under market expectations. Semiconductor names were pressured: Micron Technology (MU) -6.7%, Arm (ARM) -7.3%, AMD (AMD) -5.3%, Intel (INTC) -3.4%, NVIDIA (NVDA) -0.5%."
     },
     {
       "id": "4917622",
@@ -94,6 +297,16 @@
         "Importance 1"
       ],
       "text": "Wells Fargo Stock Price Hits 4-week High — Wells Fargo shares increased to 80.00 USD, the highest since May 2026. Over the past 4 weeks, Wells Fargo lost 0.63%, and in the last 12 months, it increased 4.38%."
+    },
+    {
+      "id": "mkt:019e92d3-4dff-7eec-b8aa-9a3cf0784020",
+      "time": "2026-06-04 21:29:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches 11 Qianfan polar-orbit satellites】China launched 11 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center today aboard a modified Long March-6 carrier rocket; the satellites entered their planned orbit and the mission was successful."
     },
     {
       "id": "4917620",
@@ -174830,109 +175043,6 @@
         "MKT News"
       ],
       "text": "WILLIAMS: Stronger communication supports policy effectiveness."
-    },
-    {
-      "id": "4905029",
-      "time": "2026-05-28 21:37:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛高管沃爾德倫：計劃擴招私人財富顧問、為客戶增加放貸規模。"
-    },
-    {
-      "id": "4905028",
-      "time": "2026-05-28 21:37:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州體感溫度最高約47℃】近幾天，華東、華南等地遭遇持續高溫天氣。  昨天，廈門迎來今年第一個高溫日，全市共有125個站點超過35℃，其中83個站點達到37℃以上，最高溫出現在同安蓮花水庫，達到了40.3℃。這也意味著，今年廈門的第一個高溫日比去年提前一個多月。 在廣州，近幾天的體感溫度最高達到約47℃，這也被網友戲稱為“啫啫煲模式”。廣州多個高溫庇護站點全面對外開放，來乘涼的老人明顯增多。此外，不少騎手驛站也免費開放，為快遞員、外賣小哥提供消暑降溫服務及飲用水、涼茶等用品。氣象部門預計，受副熱帶高壓控制，未來幾天廣東大部分市縣最高氣溫仍將高達35℃至38℃。（央視財經）"
-    },
-    {
-      "id": "4905027",
-      "time": "2026-05-28 21:36:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，網易有道跌10.85%，金山雲跌5.49%，樂信跌5.31%，騰訊音樂跌4.61%，理想汽車跌4.06%。"
-    },
-    {
-      "id": "4905026",
-      "time": "2026-05-28 21:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國衛生與公眾服務部今日敲定重大改革，最佳化聯邦獨立爭議解決流程，提升其效率與透明度，以強化《禁止意外賬單法案》執行力度。"
-    },
-    {
-      "id": "4905025",
-      "time": "2026-05-28 21:35:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "富途控股美國上市股票在一季度業績公佈後上漲5.9%。"
-    },
-    {
-      "id": "4905024",
-      "time": "2026-05-28 21:35:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源執行長接受媒體採訪時表示：只要我還能發揮作用，我就會繼續留任，我認為我有義務完成我們到2030年的戰略。"
-    },
-    {
-      "id": "4905023",
-      "time": "2026-05-28 21:34:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "惠普股價在公佈第二季度業績後下跌1.2%。"
-    },
-    {
-      "id": "4905022",
-      "time": "2026-05-28 21:34:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊再次互襲令談判程序蒙陰影】伊朗伊斯蘭革命衛隊今天（5月28日）釋出宣告稱，當天凌晨，美軍襲擊伊朗南部阿巴斯港機場周邊區域後，伊朗對本次美軍發起軍事行動的相關基地實施了打擊。據在伊朗的總檯記者李健南觀察，本次事件不是近期伊美在霍爾木茲海峽附近發生的首次交火行為，而此類交火的發生讓伊美正在進行的談判程序蒙上陰影。伊朗輿論普遍對伊美能否達成最終協議持非常謹慎的態度，並指出目前外交程序的重點是管控長期存在的敵對情緒。更多的分析則指出，雙方可能都無法承受戰火重燃，最理性的選擇就是努力防止危機全面爆發。（CCTV國際時訊）"
-    },
-    {
-      "id": "4905021",
-      "time": "2026-05-28 21:34:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：最佳化美聯儲溝通可提升政策有效性。"
-    },
-    {
-      "id": "mkt:019e6ecb-0fa9-7669-a41b-5d8bf8474bf5",
-      "time": "2026-05-28 21:34:13",
-      "tags": [
-        "MKT News",
-        "CRM.N",
-        "Impact bearish"
-      ],
-      "text": "Salesforce (CRM.N) shares fell 2.6% after the company forecast Q2 revenue below expectations."
-    },
-    {
-      "id": "4905020",
-      "time": "2026-05-28 21:34:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "3M股價下跌2.1%；澳大利亞政府因全氟和多氟烷基物質汙染起訴該公司，索賠14億美元。"
-    },
-    {
-      "id": "4905019",
-      "time": "2026-05-28 21:33:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "賽富時（Salesforce）股價下跌2.6%，此前該公司公佈第二財季收入預測低於市場預期。"
     }
   ]
 }
