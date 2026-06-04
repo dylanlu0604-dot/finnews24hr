@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-05 06:34:54",
-  "count": 19036,
+  "updated": "2026-06-05 06:38:42",
+  "count": 19038,
   "items": [
+    {
+      "id": "4918220",
+      "time": "2026-06-05 06:36:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。"
+    },
+    {
+      "id": "mkt:019e94c7-81bc-7cc8-bdef-1c1e58556457",
+      "time": "2026-06-05 06:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms."
+    },
+    {
+      "id": "te:markets:556595",
+      "time": "2026-06-05 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%)."
+    },
+    {
+      "id": "mkt:019e94c6-bd3f-7cc8-bdef-13389d9c6d6c",
+      "time": "2026-06-05 06:35:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x."
+    },
     {
       "id": "mkt:019e94c4-183a-7cc8-bdef-0e60242f5f83",
       "time": "2026-06-05 06:32:19",
@@ -175353,29 +175388,6 @@
         "公司"
       ],
       "text": "【AI算力需求增加，多家公司加速佈局高階電子電路銅箔領域】隨著AI算力需求增加，產業鏈上游的高階電子電路銅箔正在經歷前所未有的技術迭代和升級。為了搶佔這一市場高地，多家A股上市公司已斥重資佈局，以HVLP（極低輪廓銅箔）、RTF（反轉銅箔）為代表的高階銅箔建設程序正全面加速。（中證報）"
-    },
-    {
-      "id": "mkt:019e70bb-1106-7eef-a304-29b64b8016d8",
-      "time": "2026-05-29 06:36:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Vance: US and Iran have not reached deal but are close】US Vice President Vance said on Thursday the US and Iran have not reached an agreement but are close, and that the US currently has the ability to significantly delay Iran’s nuclear program. Earlier reports said Washington and Tehran had agreed to extend a ceasefire and lift Strait of Hormuz shipping restrictions, subject to President Trump’s approval. Vance said key sticking points include Iran’s enriched uranium stockpile and enrichment activity; he warned it is difficult to say when or if a memorandum of understanding will be signed, that wording remains under negotiation, and he could not guarantee a deal though he felt fairly optimistic."
-    },
-    {
-      "id": "te:markets:554619",
-      "time": "2026-05-29 06:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 1.83% — Top commodity gainers are Silver (1.83%), Copper (1.27%) and Gold (0.85%). Biggest loser is Lithium Carbonate (-0.85%)."
     }
   ]
 }
