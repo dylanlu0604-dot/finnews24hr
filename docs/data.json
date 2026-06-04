@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-04 09:50:09",
-  "count": 19166,
+  "updated": "2026-06-04 09:54:07",
+  "count": 19157,
   "items": [
+    {
+      "id": "4916355",
+      "time": "2026-06-04 09:52:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK電信股價下跌13%。"
+    },
+    {
+      "id": "4916354",
+      "time": "2026-06-04 09:52:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "斗山集團股價下跌6.5%。"
+    },
+    {
+      "id": "mkt:019e9055-0c3e-7cc0-ba21-88dde5de3f13",
+      "time": "2026-06-04 09:52:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hong Kong unveils HKGAIV3, its first productivity-grade superintelligence】The Hong Kong Generative AI Research Centre (HKGAI) on the 3rd released its latest local large model, HKGAIV3, and launched Hong Kong’s first productivity-grade superintelligence to bolster the city’s AI development."
+    },
+    {
+      "id": "4916353",
+      "time": "2026-06-04 09:52:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港推出首個生產力級超級智慧體】香港生成式人工智慧研發中心（HKGAI）3日舉行“HKGAIV3大模型釋出暨生態合作大會”，正式釋出最新版本的本地大模型HKGAIV3，並推出香港首個生產力級超級智慧體，助力香港人工智慧發展。（新華社）"
+    },
+    {
+      "id": "4916352",
+      "time": "2026-06-04 09:52:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG電子股價下跌15%。"
+    },
+    {
+      "id": "mkt:019e9054-4245-7cc0-ba21-872090d9db54",
+      "time": "2026-06-04 09:51:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "000001.SS"
+      ],
+      "text": "China A-share oil and gas sector slid; Keli Co. fell more than 10%, while Tongyuan Petroleum, Shandong Molong, Diweil, Qianneng Hengxin and Zhongman Petroleum also declined."
+    },
+    {
+      "id": "4916351",
+      "time": "2026-06-04 09:51:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國和韓國於6月2日至3日就核能合作倡議舉行會晤。"
+    },
+    {
+      "id": "4916350",
+      "time": "2026-06-04 09:50:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上升1個基點，至3.545%。"
+    },
+    {
+      "id": "4916349",
+      "time": "2026-06-04 09:50:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "臺積電執行長稱，儘管臺灣地區、日本已有擴產計劃，全球晶片供應仍遠不足以滿足美國市場的晶片需求。"
+    },
+    {
+      "id": "mkt:019e9053-59bb-7cc0-ba21-7ca76f9f6727",
+      "time": "2026-06-04 09:50:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share storage-chip sector rose; Dawei Co. hit the daily trading limit and Huate Gas gained more than 11%. Shanghai Belling, Yunhan Xincheng, Taiji Industrial, Demingli and Jiangbolong also advanced."
+    },
     {
       "id": "mkt:019e9052-1af1-7cc0-ba21-74a986238ecf",
       "time": "2026-06-04 09:49:20",
@@ -176332,182 +176429,6 @@
         "國際"
       ],
       "text": "貝森特：美國財政部繼續對伊朗施加最大壓力。"
-    },
-    {
-      "id": "te:markets:554233",
-      "time": "2026-05-28 09:53:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Extend Decline — The Hang Seng Index fell 333 points, or 1.3%, to 24,990 on Thursday, pressured by weakness in financial, technology services, and retail trade stocks, as investors turned cautious amid mixed signals surrounding prospects for a US-Iran agreement to end the conflict. Reports suggesting uncertainty over the progress of negotiations weighed on regional sentiment, while higher crude oil prices further dampened risk appetite following gains in energy markets. Notable laggards included Tencent Holdings (-1.2%), Xiaomi Corporation (-1.3%), Meituan (-3.2%), and AIA Group (-3.7%). Still, losses were partially cushioned by strength in electronic technology shares surging 0.3%, with Semiconductor Manufacturing International Corporation and Pop Mart International rising nearly 4.2% and 6.5%, respectively. Investors also looked ahead to the release of Hong Kong’s latest trade data later in the day."
-    },
-    {
-      "id": "4903568",
-      "time": "2026-05-28 09:53:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中老鐵路累計開行旅客列車突破10萬列】從國鐵昆明局瞭解到，中老鐵路自2021年12月3日開通運營以來，截至5月27日，累計開行旅客列車突破10萬列，傳送旅客7300萬人次，傳送來自120餘個國家和地區的跨境旅客超84萬人次，這條承載著中老兩國人民共同期盼的“黃金通道”，正以日益繁忙的運力為區域經濟社會發展注入新活力。"
-    },
-    {
-      "id": "4903567",
-      "time": "2026-05-28 09:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：到2035年初步建成國際一流的和諧宜居之都】今日，《中共北京市委 北京市人民政府關於推動城市高質量發展的實施意見》（以下簡稱《實施意見》）正式釋出。《實施意見》的發展目標是，到2030年，國際一流的和諧宜居之都建設取得顯著成效；到2035年，國際一流的和諧宜居之都初步建成。"
-    },
-    {
-      "id": "mkt:019e6c49-603e-7eea-83d0-f418c8b3e455",
-      "time": "2026-05-28 09:53:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "SSE Composite",
-        "Copper"
-      ],
-      "text": "Shenzhen Composite Index fell 1%, the ChiNext Index fell 1.3% and the Shanghai Composite Index fell 0.32%; baijiu and non‑ferrous metals sectors were among the leading decliners."
-    },
-    {
-      "id": "4903566",
-      "time": "2026-05-28 09:53:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4409.31美元/盎司。"
-    },
-    {
-      "id": "4903565",
-      "time": "2026-05-28 09:53:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4410美元/盎司，日內跌1.05%。"
-    },
-    {
-      "id": "4903564",
-      "time": "2026-05-28 09:53:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報73.03美元/盎司。"
-    },
-    {
-      "id": "4903563",
-      "time": "2026-05-28 09:53:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4440美元/盎司，日內跌0.93%。"
-    },
-    {
-      "id": "4903562",
-      "time": "2026-05-28 09:53:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報73.39美元/盎司。"
-    },
-    {
-      "id": "4903561",
-      "time": "2026-05-28 09:52:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "機器人概念股震盪調整，榮科科技跌超10%，奕帆傳動、臥龍電驅、長盛軸承、奇精機械、三豐智慧跌逾5%。"
-    },
-    {
-      "id": "4903560",
-      "time": "2026-05-28 09:52:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.01%，現報15577.987點；上證指數跌0.30%，現報4081.553點；創業板指跌1.30%，現報3993.128點。"
-    },
-    {
-      "id": "te:economy:554232",
-      "time": "2026-05-28 09:52:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private Investment",
-        "Importance 1"
-      ],
-      "text": "Australia Capital Spending Rises Faster in Q1 — Total new capital expenditure in Australia jumped 6.5% quarter-on-quarter in the first quarter of 2026, accelerating from an upwardly revised 0.7% increase in the previous quarter and far exceeding market expectations for a 1.0% rise. Investment in equipment, plant, and machinery jumped 18.1%, rebounding sharply from a 1.3% decline previously, largely driven by renewed growth in non-mining industries (20.1% vs -1.2% in Q4). Meanwhile, spending on buildings and infrastructure fell 3.8%, reversing a 2.5% increase, mainly due to lower non-mining investment (-4.3% vs 4.4%). Regionally, capital spending rose strongly in New South Wales (22.1%) and Victoria (12.7%), while South Australia posted a modest gain of 0.2%. In contrast, investment in the Northern Territory plunged 39.8%, with declines also recorded in Queensland (-3.0%), Western Australia (-4.3%), Tasmania (-8.0%), and the Australian Capital Territory (-9.4%). On an annual basis, private capex increased 14.6%."
-    },
-    {
-      "id": "4903559",
-      "time": "2026-05-28 09:52:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光刻膠板塊短線拉昇，國風新材漲停】光刻膠板塊短線拉昇，國風新材漲停，格林達、興福電子、強力新材、八億時空、芯源微等紛紛走高。"
-    },
-    {
-      "id": "4903558",
-      "time": "2026-05-28 09:51:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念活躍 冰山冷熱、大元泵業漲停】液冷伺服器概念活躍，冰山冷熱、大元泵業漲停，奕東電子、商絡電子、雪人集團、科瑞技術等漲幅居前。"
-    },
-    {
-      "id": "4903557",
-      "time": "2026-05-28 09:51:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "美團港股跌5.15%，報73.75港元。"
-    },
-    {
-      "id": "4903556",
-      "time": "2026-05-28 09:51:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美已部署對古巴發動軍事打擊所需兵力】據美國《政治報》網站27日報道，五角大樓已耗費數月部署了對古巴發動軍事打擊所需的部隊和武器裝備，可隨時採取軍事行動。 報道說，美國海軍目前在該地區集結的艦隊規模略小於美國1月對委內瑞拉發動軍事行動的兵力水平。美國海軍“尼米茲”號航空母艦已於5月駛入加勒比海域，隨行的還有多艘能夠發射精確制導導彈的驅逐艦和巡洋艦。 報道說，飛行追蹤網站顯示，美軍無人機和偵察機數月來也一直在古巴上空盤旋。此外，搭載2500名海軍陸戰隊員的“基薩奇”號兩棲攻擊艦及其護航艦艇目前正停泊在弗吉尼亞州海岸附近，為執行新的部署任務做準備，它們隨時可以接替返航艦艇。"
-    },
-    {
-      "id": "4903555",
-      "time": "2026-05-28 09:50:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股持續走低，恒指下破25000點關口，日內跌1.34%；恒生科技指數跌0.52%。"
-    },
-    {
-      "id": "mkt:019e6c47-616c-788f-b185-2412dec54d1b",
-      "time": "2026-05-28 09:50:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks extended losses, with the Hang Seng Index sliding below the 25,000 mark, down 1.34% intraday; the Hang Seng Tech Index fell 0.52%."
-    },
-    {
-      "id": "4903554",
-      "time": "2026-05-28 09:50:17",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【“和平委員會”賬戶“零收入” 另設“小金庫”】美國總統特朗普今年1月22日高調啟動“和平委員會”，稱將推動巴勒斯坦加沙地帶重建。然而，據《金融時報》27日援引多名知情人士的話披露，4個多月來，“和平委員會”在世界銀行開設的賬戶資金為零，而且另設了一個“小金庫”。特朗普先前表示，“和平委員會”成員計劃提供70億美元，美國將捐款100億美元。但一名知情人士說，“和平委員會”在世界銀行的賬戶至今“存入的美元為零”。同時，“和平委員會”在美國摩根大通銀行設立一個賬戶。“和平委員會”一名官員證實，包括世界銀行賬戶在內，有“多種途徑”接受捐款，但“目前捐款方選擇使用”世行以外的途徑。世行必須向捐款方和“和平委員會”成員報告賬戶資金情況，但設在摩根大通的賬戶則不受獨立的透明性監管。那名“和平委員會”官員表示，將在“合適的時間”向“和平委員會”的創始執行委員會報告財務情況。這一執行委員會成員多數是特朗普政府的官員，包括國務卿魯比奧。（新華社）"
     }
   ]
 }
