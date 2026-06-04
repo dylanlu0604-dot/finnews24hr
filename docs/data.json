@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-05 06:31:06",
-  "count": 19040,
+  "updated": "2026-06-05 06:34:54",
+  "count": 19036,
   "items": [
+    {
+      "id": "mkt:019e94c4-183a-7cc8-bdef-0e60242f5f83",
+      "time": "2026-06-05 06:32:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bearish",
+        "Ethereum"
+      ],
+      "text": "【CME CEO expresses serious concern over new \"perpetual futures\"】CME CEO Terry Duffy said he is \"very concerned\" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, \"I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts.\""
+    },
     {
       "id": "te:markets:556594",
       "time": "2026-06-05 06:30:17",
@@ -175363,53 +175376,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 1.83% — Top commodity gainers are Silver (1.83%), Copper (1.27%) and Gold (0.85%). Biggest loser is Lithium Carbonate (-0.85%)."
-    },
-    {
-      "id": "te:economy:554618",
-      "time": "2026-05-29 06:33:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "ANZ Roy Morgan Consumer Confidence Index",
-        "Importance 1"
-      ],
-      "text": "New Zealand Consumer Mood Rises from Near 3-Year Low — The ANZ-Roy Morgan Consumer Confidence increased to 86.5 in May 2026 from 80.3 in April, which was the lowest level since May 2023. The index has risen 6 points over the previous month but is still down 21 points from its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, gained 5 points to -20. Two-year inflation expectations eased to 5.6% from 6.6%, while house price expectations dropped 0.7 percentage points to 2.6%."
-    },
-    {
-      "id": "4905627",
-      "time": "2026-05-29 06:33:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【信託通道業務費率悄然上漲：頭部公司主動縮量，中小機構跑步補位】“剛在一家理財公司遇上兩撥同業，大家都在積極爭取理財公司的委外業務准入資質，搶抓頭部信託壓降通道規模後騰出的業務空間。”近日，一位中小信託公司人士坦言。當前信託通道業務調整進入新階段，以頭部機構為主導的“主動縮量”正成為行業主旋律——多家頭部信託公司率先上調通道業務費率、壓降業務規模。業內人士分析，頭部機構讓渡出來的市場份額，為中小信託公司帶來可觀的業務空間。（中證報）"
-    },
-    {
-      "id": "4905626",
-      "time": "2026-05-29 06:33:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨挺價推升集運歐線 後市需看漲價落地成色 】沉寂多時的集運指數（歐線）期貨，近期又“熱”了起來。4月中旬以來，集運指數（歐線）期貨2606合約從低位一路反彈，5月22日盤中最高觸及3120點，較4月15日盤中低點上漲超六成；2607合約也不甘落後，5月以來累計漲幅超過三成。不過，快速拉昇之後，本週相關合約轉入高位震盪。業內人士表示，本輪集運指數（歐線）期貨走強，並不是簡單的“旺季來了”，而是現貨挺價、旺季前置、航司控艙、繞航持續、燃料油成本抬升以及資金情緒共振的結果。當前，現貨漲價和艙位偏緊仍對盤面形成支撐，但部分利多預期已提前反映在價格中。後續行情能否繼續走強，還要看6月中上旬漲價預期能否兌現、7月航司報價是否繼續上調，以及地緣風險和運力管理力度是否延續。（中證報）"
-    },
-    {
-      "id": "4905625",
-      "time": "2026-05-29 06:32:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2026全球投資者大會與會嘉賓：中國資產有望迎來外資增配黃金期】5月28日，由深交所主辦的2026全球投資者大會在深圳舉行。多位與會嘉賓表示，面對全球市場波動，中國資產展現出較強的抗風險韌性，同時中國科技產業發展日新月異，正持續重塑全球投資者的認知，中國資產有望迎來外資增配黃金期。（中證報）"
-    },
-    {
-      "id": "4905624",
-      "time": "2026-05-29 06:31:52",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 日本4月失業率，5月東京CPI；\n② 07:50 日本4月工業產出初值；\n③ 12:00 美國舊金山聯儲主席戴利（2027年FOMC票委）在里根國家經濟論壇（RNEF）講話；\n④ 14:00 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）表在韓國一場活動上講話；\n⑤ 14:45 法國5月CPI初值，一季度GDP終值；\n⑥ 15:55 德國5月失業人數；\n⑦ 16:30 歐洲央行執委Panetta講話；\n⑧ 17:10 英國央行行長貝利在冰島Reykjavik Economic Conference講話；\n⑨ 18:30 印度一季度GDP；\n⑩ 18:50 美國堪薩斯城聯儲主席Schmid在冰島Reykjavik 講話；\n19:15 歐洲央行管委Radev講話；\n19:45 美國舊金山聯儲主席戴利（2027年FOMC票委）接受福克斯商業新聞採訪；\n20:00 德國5月CPI初值；\n20:30 美國4月商品貿易帳、4月批發庫存初值，加拿大一季度GDP；\n21:10 美聯儲理事、負責金融監管事務的副主席鮑曼在冰島Reykjavik 講話；\n21:15 美國費城聯儲主席Anna Paulson（2026年FOMC票委）談論經濟前景；\n21:35 歐洲央行管委Muller講話；\n次日00:40 美國舊金山聯儲主席戴利（2027年FOMC票委）講話；\n週六 星河動力·智神星一號或首飛；\n週日09:30 中國5月官方製造業、非製造業、綜合PMI。"
     }
   ]
 }
