@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-05 06:57:33",
-  "count": 19047,
+  "updated": "2026-06-05 07:07:20",
+  "count": 19031,
   "items": [
+    {
+      "id": "mkt:019e94dd-b322-7cc8-bdef-475aab084df7",
+      "time": "2026-06-05 07:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea current account balance, not seasonally adjusted (NSA), April: $28.29 bln; March: $37.33 bln."
+    },
+    {
+      "id": "4918237",
+      "time": "2026-06-05 07:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國4月未季調經常帳 282.9億美元，前值373.271億美元。"
+    },
+    {
+      "id": "mkt:019e94dd-6eef-7cc8-bdef-382a3c267fbb",
+      "time": "2026-06-05 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Current Account NSA (Apr) | actual 28289999999.999996B | previous 37327100000B"
+    },
+    {
+      "id": "te:markets:556599",
+      "time": "2026-06-05 06:59:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading around 13,103 in Friday morning trade, after retreating in the previous two sessions and recovering from its lowest level since May 26, as gains in consumer staples and financials were offset by declines in industrials and communication services. Traders continued to assess the possibility that New Zealand could face a new 12.5% tariff from the US after the US Trade Representative said that 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Traders also awaited the release of US jobs data later today, as well as US inflation data and China's inflation and trade balance figures due next week. Among individual stocks, Freightways Group fell 2.2%, Ryman Healthcare dropped 2.1%, and Westpac Banking Corp. shed 0.6%, while A2 Milk and Ebos Group rose 1.2% and 0.9%, respectively. For the week, the index fell 1.1%, marking its first decline in three weeks."
+    },
+    {
+      "id": "4918236",
+      "time": "2026-06-05 06:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：如果讓火星熱鬧起來，可以讓它像地球一樣。"
+    },
+    {
+      "id": "4918235",
+      "time": "2026-06-05 06:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：對星艦V3的負荷目標是，將100噸貨物輸送至軌道，完全可重複利用。"
+    },
+    {
+      "id": "4918234",
+      "time": "2026-06-05 06:57:17",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 黃仁勳將會見韓國LG集團的會長；\n② 12:30 印度央行公佈利率決定；\n③ 12:35 澳洲聯儲助理主席Hauser在天空新聞澳大利亞經濟前景峰會期間參加一個爐邊閒聊；\n④ 17:00 歐元區一季度GDP終值；\n⑤ 18:30 印度一季度GDP；\n⑥ 20:30 美國5月非農就業報告（含就業人口、失業率、平均每小時工資），加拿大5月就業報告；\n⑦ 21:40 英國央行貨幣政策委員會（MPC）成員Dhingra講話；\n⑧ 次日02:00 英國央行行長貝利講話；\n⑨ 次日03:00 美國4月消費信貸；\n⑩ 週六 美聯儲進入FOMC貨幣政策會議之前的噤聲期；\n⑪ 週日00:00 美聯儲理事Barr（曾擔任負責金融監管事務的副主席）談論監督與監管；\n⑫ 週日時間待定 中國5月外匯儲備；\n⑬ 週日時間待定 OPEC+產油國會議。"
+    },
     {
       "id": "4918233",
       "time": "2026-06-05 06:56:27",
@@ -175258,213 +175322,6 @@
         "其他"
       ],
       "text": "【暴雨藍色預警：雲南東北部等地局地有大暴雨】中央氣象臺5月29日06時繼續釋出暴雨藍色預警：預計，5月29日08時至30日08時，四川南部、雲南東部、貴州南部、湖南西南部、廣西北部和西部、廣東北部和東部、福建中南部、臺灣島東部等地部分地區有大到暴雨，其中，雲南東北部等地局地有大暴雨（100～140毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過60毫米），局地有雷暴大風等強對流天氣。"
-    },
-    {
-      "id": "4905646",
-      "time": "2026-05-29 07:07:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【埃克森美孚：未來數週原油庫存將跌至低位，油價或暴漲】埃克森美孚5月28日預警，未來數週原油庫存將跌至歷史低位，進而推動油價暴漲、抑制市場需求。埃克森美孚高階副總裁尼爾·查普曼表示：“原油庫存正逼近前所未有的水平。” 他警示道：“庫存會降到極低的位置。至於這一極端低位會在兩週還是三週到來，尚存討論空間。但一旦抵達該節點，油價就會大幅飆升。”"
-    },
-    {
-      "id": "4905645",
-      "time": "2026-05-29 07:06:55",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【王毅會見烏拉圭外長盧貝特金】當地時間2026年5月28日，中共中央政治局委員、外交部長王毅在紐約會見烏拉圭外長盧貝特金。王毅感謝盧貝特金出席安理會高階別會議，與各國共同發出全球南方的聲音，合力重振聯合國事業，不允許弱肉強食的叢林法則捲土重來。今年2月，奧爾西總統成功對中國進行國事訪問，習近平主席同其舉行友好會談，引領雙邊關係邁上歷史最好水平。建交以來，中烏關係最大特徵就是成熟、穩定、可預期。中方讚賞烏方恪守一箇中國原則，將支援烏方維護自身主權、安全和發展利益。中方願同烏方一道，落實好兩國元首共識，密切高層交往，深化各領域合作，推動中烏全面戰略伙伴關係再上新臺階。王毅表示，烏拉圭是拉美地區的和平力量和穩定因素。當今世界經歷百年未有之大變局，突出特點是全球南方群體性崛起。烏方是“77國集團和中國”輪值主席國，中方願同烏方加強多邊協作，推進平等有序的世界多極化和普惠包容的經濟全球化。期待烏方作為拉共體輪值主席國，發揮統籌協調作用，為加強中拉論壇建設、推動落實共建中拉命運共同體五大工程作出更大貢獻。（外交部）"
-    },
-    {
-      "id": "4905644",
-      "time": "2026-05-29 07:06:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic新一輪融資後估值達9650億美元 超越OpenAI】人工智慧公司Anthropic PBC在新一輪融資中募資650億美元，投後估值達到9,650億美元，首次超過競爭對手OpenAI。這輪融資於週四宣佈，由Altimeter Capital、Dragoneer、Greenoaks和紅杉資本領投。知情人士稱，每家領投方的出資額均超過20億美元。紅杉資本拒絕置評。其他三家公司未回應置評請求。知情人士稱，Alphabet Inc.旗下谷歌向這輪融資投入了數十億美元，這是此前宣佈的長期向Anthropic投資最高400億美元承諾的一部分。Anthropic在一篇部落格文章中表示，亞馬遜在本輪融資中出資50億美元，也屬於此前承諾的一部分。谷歌拒絕置評。美光科技、三星電子和SK海力士也有出資，金額未披露，幫助推動本輪融資規模遠高於Anthropic最初300億美元的目標。"
-    },
-    {
-      "id": "mkt:019e70d6-6be0-7338-8b02-847d72e3ec93",
-      "time": "2026-05-29 07:06:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CENTCOM denies Iranian claim of shooting down US aircraft】On May 28 local time CENTCOM denied Iranian claims that Iranian forces shot down a US aircraft near Bushehr, calling the reports \"false\". Iranian reports said explosions in southern Bushehr province resulted from air defenses intercepting a \"hostile aircraft\"."
-    },
-    {
-      "id": "te:economy:554623",
-      "time": "2026-05-29 07:05:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "South Korea Retail Sales Drop the Most Since 2020 — Retail sales in South Korea fell 3.6% month-on-month in April 2026, reversing an upwardly revised 1.9% rise in the previous month. It was the steepest decline since July 2020. On a year-on-year basis, retail sales increased 1.6% in April, slowing sharply from 5.0% growth in the preceding period, which was the strongest since January 2022."
-    },
-    {
-      "id": "4905643",
-      "time": "2026-05-29 07:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：達拉斯市一公寓樓發生火災致人員死傷 】據美國媒體報道，美國得克薩斯州達拉斯市一棟兩層公寓樓28日發生大火，造成人員遇難，另有至少4人受傷，目前仍在搜尋失蹤人員。"
-    },
-    {
-      "id": "4905642",
-      "time": "2026-05-29 07:04:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【開市客已開始提交關稅退款申請】開市客執行長Ron Vachris在該公司的財報電話會議上表示，開市客已開始提交關稅退款申請。他表示：“這些申請可能會在未來幾個月內提交，根據其他申請人的經驗，我們應該會在隨後的兩到三個月內陸續收到獲批申請的退款。“該公司計劃以某種形式，向其會員返還之前轉嫁給他們的那部分關稅。"
-    },
-    {
-      "id": "4905641",
-      "time": "2026-05-29 07:03:19",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【美國高盛集團測算顯示全球原油庫存逼近“百日警戒線”】近日有訊息披露，美國高盛集團測算顯示，全球原油庫存最早可能於5月底跌破相當於全球100天需求量的水平。高盛集團測算顯示，截至4月底，全球原油庫存約相當於全球101天需求量，預計5月底將降至98天。其中，透過衛星等手段可觀測的“可視庫存”預計僅剩73天需求量。訊息稱，目前每天只有少數船隻能夠透過霍爾木茲海峽，導致全球每天原油供應損失超1000萬桶。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e70d3-7595-7eef-a304-6faac21f17d1",
-      "time": "2026-05-29 07:02:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics has begun shipping 12-layer HBM4E chip samples to key global customers."
-    },
-    {
-      "id": "4905640",
-      "time": "2026-05-29 07:01:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：已向全球主要客戶送出 12 層 HBM4E 晶片樣品。"
-    },
-    {
-      "id": "4905639",
-      "time": "2026-05-29 07:01:35",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲副行長Silk： 紐西蘭儲備銀行暫未觀察到明顯的第二輪物價上行壓力。"
-    },
-    {
-      "id": "4905638",
-      "time": "2026-05-29 07:01:23",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲副行長Silk： 委員分歧集中在加息時機，而非利率走向。"
-    },
-    {
-      "id": "4905637",
-      "time": "2026-05-29 07:00:23",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國4月季調後工業產出月率 -0.7%，預期0.40%，前值由0.30%修正為0.6%。\n韓國4月工業產出年率 1.5%，預期2.50%，前值由3.60%修正為3.9%。"
-    },
-    {
-      "id": "mkt:019e70d1-11d6-7eef-a304-61d96ea2335d",
-      "time": "2026-05-29 07:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea April seasonally adjusted industrial production m/m -0.7% vs expected +0.4%; prior revised to +0.6% from +0.3%."
-    },
-    {
-      "id": "mkt:019e70d1-1168-7eef-a304-5edded36ccb1",
-      "time": "2026-05-29 07:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea April industrial production YoY +1.5% vs 2.5% expected; prior reading revised up to 3.9% from 3.6%."
-    },
-    {
-      "id": "mkt:019e70d1-0fe1-7eef-a304-550dd27ec662",
-      "time": "2026-05-29 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production (YoY) (Apr) | actual 1.5% | consensus 2.50% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019e70d0-ebd3-7eef-a304-4da41c830044",
-      "time": "2026-05-29 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production (MoM) (Apr) | actual -0.7% | consensus 0.40% | previous 0.30%"
-    },
-    {
-      "id": "4905636",
-      "time": "2026-05-29 06:59:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭儲備銀行貨幣政策委員會成員海莉・古爾利：利率大機率將很快上調，但加息的節奏與幅度將取決於後續經濟資料。"
-    },
-    {
-      "id": "te:markets:554622",
-      "time": "2026-05-29 06:58:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Poised to End Month on High Note — The NZX 50 rose 11 points, or 0.1%, to 13,217 in Friday morning trade, erasing losses from the previous session, as a rally on Wall Street overnight lifted sentiment, buoyed by the extended US-Iran ceasefire. Consumer confidence data for May also supported sentiment, as consumer mood improved from a near three-year low in April. However, traders continued to assess a statement from Anna Breman, who told Morning Report that the official cash rate is expected to rise to 3% or 3.25% in the future. Caution also prevailed ahead of the release of the May business outlook survey, after the indicator fell into negative territory in April for the first time since August 2023. Real estate, industrials, and consumer discretionary stocks mainly drove the index, with notable gains from Summerset Group (2.5%), Ebos Group (0.9%), Freightways Group (0.5%), and Contact Energy (0.5%). For the month, the index is heading for a 2.4% gain after being flat in the previous month."
-    },
-    {
-      "id": "mkt:019e70cf-c321-7eef-a304-402c5d12059b",
-      "time": "2026-05-29 06:58:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ external member Hayley said rates \"are more likely to be raised sooner rather than later\", but the timing, pace and size of any hikes will depend on incoming data."
-    },
-    {
-      "id": "4905635",
-      "time": "2026-05-29 06:58:43",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、張國清在全國“安全生產月”活動啟動儀式上強調 提高隱患排查整治質效 牢牢守住安全發展底線\n2、諶貽琴在山東調研時強調 堅定不移實施就業優先戰略 多措並舉做好穩就業促就業工作\n3、網際網路企業雲端招聘月活動將開展\n4、我國首家產銷破億輛車企產生\n5、“十五五”時期投資5萬億元以上，推動西電東送規模超4.2億千瓦 新型電網 更強更綠更智慧（經濟新方位·精準發力建好“六張網”）\n6、浙江嘉興南湖機場首條國際貨運航線正式開通\n7、五位民營企業家和新的社會階層人士代表與中外記者交流 民營經濟發展前景廣闊、大有可為（權威釋出）\n8、一季度旅行服務出口同比增長32.3% 三個視角看入境遊新變化（大資料觀察·中國服務）\n9、世界智慧產業博覽會在津開幕\n10、金融強國建設蹄疾步穩（“十五五”開好局起好步）\n11、分子手術刀迭代升級 應用場景日益豐富 基因編輯，邁向精準醫療新階段（國際科技前沿）\n12、德國政府釋出“高科技議程”路線圖\n13、從南非蘋果進入中國餐桌說起（每週經濟評論）。"
-    },
-    {
-      "id": "4905634",
-      "time": "2026-05-29 06:58:32",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平復信參加“共航蔚藍：中美青年友誼行”活動的兩國學生\n2、習近平同奧地利總統範德貝倫就中奧建交55週年互致賀電\n3、習近平同蘇利南總統西蒙斯就中蘇建交50週年互致賀電\n4、金融強國建設蹄疾步穩（“十五五”開好局起好步）\n5、王滬寧會見英國跨黨派議員代表團\n6、國務院印發《城市更新“十五五”規劃》\n7、“三夏”大規模小麥機收全面展開 全國將投入各類農機具超1700萬臺（套）\n8、“校園餐”如何吃得更安心（政策問答·回應關切）。"
-    },
-    {
-      "id": "mkt:019e70cf-2434-7eef-a304-3de794d3f834",
-      "time": "2026-05-29 06:58:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trust-channel fees quietly rise as top firms trim volumes, smaller players rush in】Trust-channel fee rates have risen as leading trust companies proactively cut channel volumes and lift fees. Market participants say multiple counterparties are competing at single wealth managers for outsourced-mandate access as top trusts reduce their channel capacity, freeing business for mid- and small-sized trusts to capture. Several major trusts have already raised channel fees and scaled back business; industry sources say the market share ceded by leaders represents meaningful growth space for smaller firms. China Securities Journal."
     }
   ]
 }
