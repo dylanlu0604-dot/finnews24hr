@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-04 13:47:30",
-  "count": 19037,
+  "updated": "2026-06-04 13:51:50",
+  "count": 19042,
   "items": [
+    {
+      "id": "mkt:019e912f-30fd-7cc0-ba26-a0b5803334a1",
+      "time": "2026-06-04 13:50:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister KATZ said the agreement with Lebanon includes establishing a demilitarized zone."
+    },
+    {
+      "id": "mkt:019e912e-9a0c-7cc0-ba26-98716c820fa1",
+      "time": "2026-06-04 13:50:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Israel's defense minister KATZ said the current agreement permits IDF operations in southern Lebanon."
+    },
+    {
+      "id": "4916642",
+      "time": "2026-06-04 13:50:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【眾為資本投資韓國眼鏡品牌Gentle Monster母公司IICOMBINED】亞洲私募股權投資機構眾為資本宣佈，已完成對韓國時尚集團IICOMBINED（思諾佰株式會社）的投資。具體投資金額未披露。IICOMBINED旗下品牌包括韓國潮流眼鏡品牌GENTLE MONSTER、創意美妝品牌TAMBURINS、藝術甜品品牌NUDAKE、潮流帽飾品牌ATiiSSU、以及餐具品牌Nuflaat。"
+    },
+    {
+      "id": "mkt:019e912d-d027-7cc0-ba26-949e1655594e",
+      "time": "2026-06-04 13:49:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's defense minister KATZ said any ceasefire in Lebanon is conditional on HEZBOLLAH withdrawing from southern Lebanon promptly."
+    },
+    {
+      "id": "4916641",
+      "time": "2026-06-04 13:49:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "恩智浦執行長表示：人工智慧領域當前供應受限的環境是有利的，因為這有助於避免繁榮過後不時出現的行業崩盤。"
+    },
+    {
+      "id": "mkt:019e912d-7917-7cc0-ba26-8f9de926fbaa",
+      "time": "2026-06-04 13:48:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the trade-off between inf and unemployment is moving in an adverse direction."
+    },
+    {
+      "id": "4916640",
+      "time": "2026-06-04 13:48:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "上證50跌幅擴大至1%。"
+    },
+    {
+      "id": "4916639",
+      "time": "2026-06-04 13:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：現階段協議准許以色列國防軍在（黎巴嫩）南部開展行動。"
+    },
+    {
+      "id": "mkt:019e912d-14b7-7cc0-ba26-80e62ceedf8f",
+      "time": "2026-06-04 13:48:30",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "SSE 50 index losses widened to 1%."
+    },
+    {
+      "id": "4916638",
+      "time": "2026-06-04 13:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "據黎巴嫩國家媒體報道稱，以色列對黎巴嫩發動了襲擊，此前雙方同意有條件停火。"
+    },
+    {
+      "id": "mkt:019e912c-0a1c-7cc0-ba26-7bf4b515c6ce",
+      "time": "2026-06-04 13:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Lebanese state media reported Israel launched an attack on Lebanon after both sides had agreed to a conditional ceasefire."
+    },
+    {
+      "id": "4916637",
+      "time": "2026-06-04 13:47:12",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲行長布洛克：通脹與失業率的權衡關係正出現反向惡化。"
+    },
     {
       "id": "4916636",
       "time": "2026-06-04 13:46:25",
@@ -175355,74 +175472,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將英飛凌目標股價從63歐元上調至91歐元。"
-    },
-    {
-      "id": "4903968",
-      "time": "2026-05-28 13:51:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "大摩將空客目標股價從230歐元下調至227歐元。"
-    },
-    {
-      "id": "mkt:019e6d23-35b4-722b-8aca-b761f70dd475",
-      "time": "2026-05-28 13:51:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose 2.00%; Sci‑Tech Innovation Board 50 Index rose 1.56%."
-    },
-    {
-      "id": "mkt:019e6d22-a606-722b-8aca-ab8c0abdae80",
-      "time": "2026-05-28 13:50:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Zhongfu Information said it recently won a bid to build an industrial control systems security construction project for a unit of an unnamed specialized industrial group."
-    },
-    {
-      "id": "4903967",
-      "time": "2026-05-28 13:49:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中孚資訊中標某特種工業單位工控安全建設專案】據中孚資訊訊息，近日，中孚資訊成功中標某特種工業集團單位工控安全建設專案。"
-    },
-    {
-      "id": "4903966",
-      "time": "2026-05-28 13:49:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器人板塊短線拉昇】機器人板塊短線拉昇，江蘇北人漲超10%，巨能股份、機科股份、雷賽智慧、拓斯達、凱爾達等跟漲。"
-    },
-    {
-      "id": "mkt:019e6d21-550f-722b-8aca-a3fd2dac37d4",
-      "time": "2026-05-28 13:49:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share robotics sector staged a short-term rally; Jiangsu Beiren rose more than 10%, and Juneng Co., Jike Co., Leisai Intelligent, Tuosida and Kairda also advanced."
-    },
-    {
-      "id": "4903965",
-      "time": "2026-05-28 13:47:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.05%，成分股中，諾思蘭德漲10.16%，奧迪威漲7.77%，矽烷科技漲7.35%，天馬新材漲5.76%。"
     }
   ]
 }
