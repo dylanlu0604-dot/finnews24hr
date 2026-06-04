@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-04 10:30:09",
-  "count": 19129,
+  "updated": "2026-06-04 10:34:11",
+  "count": 19130,
   "items": [
+    {
+      "id": "mkt:019e907a-9f4f-7cc0-ba22-bc5a1af62dfa",
+      "time": "2026-06-04 10:33:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSMC (TSM.N) CEO said the company is not seeking memory-like price spikes and is focused on long-term sustainable growth."
+    },
+    {
+      "id": "4916429",
+      "time": "2026-06-04 10:33:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：不尋求效仿儲存晶片行業漲價，專注於長期可持續增長。"
+    },
+    {
+      "id": "4916428",
+      "time": "2026-06-04 10:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張平宗任中國移動雲能力中心黨委書記、董事長】近日，記者獲悉，張平宗任中國移動雲能力中心黨委書記、董事長。張平宗，男，漢族，1977年8月生，研究生學歷，通訊與資訊工程碩士，中共黨員。曾任寧夏移動副總經理，掛職甘肅省慶陽市副市長。2026年1月任中國移動算力辦公室主任，2026年5月任中國移動雲能力中心黨委書記、董事長。（人民郵電報）"
+    },
+    {
+      "id": "mkt:019e907a-54b2-7cc0-ba22-b158c05ac2b4",
+      "time": "2026-06-04 10:33:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Indonesia's Ministry of Mining said nickel ore production from January to April totaled 93.11 mln tonnes."
+    },
+    {
+      "id": "mkt:019e907a-4ece-7cc0-ba22-a88ced414e6f",
+      "time": "2026-06-04 10:33:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese researchers identify peptide-based 'on-demand' cold-resistance mechanism in crop flowering】Researchers at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, said an intelligent-breeding team, after eight years of work, identified the first small-peptide signal that senses low temperature during crop reproductive development and decoded the pollen cold-sensing and signal-transduction mechanism. The pathway explains how plants mount precise, on‑demand defenses to protect pollen during short, unpredictable cold snaps, supporting crop resilience and stable production. The study was published online in Nature on June 3 (Beijing time)."
+    },
+    {
+      "id": "4916427",
+      "time": "2026-06-04 10:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼礦業部資料顯示，該國1-4月鎳礦石產量為9311萬公噸。"
+    },
+    {
+      "id": "mkt:019e907a-15e7-7cc0-ba22-a419857cb323",
+      "time": "2026-06-04 10:33:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N"
+      ],
+      "text": "TSMC CEO said he views customers as partners but the company must still remain profitable."
+    },
+    {
+      "id": "4916426",
+      "time": "2026-06-04 10:32:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通在杭州投資成立智算科技公司】企查查APP顯示，近日，聯通智算科技（杭州）有限公司成立，法定代表人為戴苓，註冊資本為10億元，經營範圍包含：以自有資金從事投資活動；人工智慧應用軟體開發；雲端計算裝備技術服務；資訊系統整合服務等。企查查股權穿透顯示，該公司由中國聯合網路通訊有限公司全資持股。"
+    },
+    {
+      "id": "4916425",
+      "time": "2026-06-04 10:31:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經225指數早盤收盤下跌 1.9%，報67101.83 點；日本東證指數早盤收盤下跌 1.4%，報 3940.22 點"
+    },
+    {
+      "id": "mkt:019e9078-b71e-7cc0-ba22-9d8133906b8e",
+      "time": "2026-06-04 10:31:30",
+      "tags": [
+        "MKT News",
+        "2330.TW"
+      ],
+      "text": "TSMC co-chief operating officer said Intel's packaging technology is an alternative; each technology has its own challenges, and the company does not fear challenges or competition."
+    },
+    {
+      "id": "4916424",
+      "time": "2026-06-04 10:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電聯合營運長表示：英特爾的封裝技術是一個可選方案，每種技術都有其自身挑戰，我們從不畏懼挑戰與競爭。"
+    },
+    {
+      "id": "4916423",
+      "time": "2026-06-04 10:30:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長談馬斯克的超級晶片廠：祝他一切順利。"
+    },
+    {
+      "id": "mkt:019e9076-e233-7cc0-ba22-9143f86ead50",
+      "time": "2026-06-04 10:29:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military activity in Bohai Laizhou Bay】Yantai Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: military activities will take place in waters of Bohai Laizhou Bay on June 5 from 07:00 to 23:00 and June 6 from 07:00 to 22:00; entry to the area is prohibited."
+    },
     {
       "id": "4916422",
       "time": "2026-06-04 10:28:58",
@@ -176042,119 +176153,6 @@
         "其他"
       ],
       "text": "申鉉松：預計明年GDP產出缺口將轉正。"
-    },
-    {
-      "id": "4903658",
-      "time": "2026-05-28 10:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首次 我國實現千億級分子庫秒速檢索篩選】5月30日，清華大學和國家超算天津中心，將正式聯合釋出超大規模藥物虛擬篩選平臺——GalaxyVS，可針對數百萬靶點口袋和千億化合物庫的虛擬篩選，規模之大，史無前例。（央視新聞）"
-    },
-    {
-      "id": "4903657",
-      "time": "2026-05-28 10:33:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：加大海洋藥物和功能製品行業資金投入】5月28日，自然資源部召開5月例行新聞釋出會，釋出並解讀《關於加快海洋藥物和功能製品高質量發展的指導意見》。自然資源部海洋戰略規劃與經濟司司長沈君介紹，《指導意見》包括總體要求、夯實資源供給基礎、增強科技創新支撐、最佳化產業發展佈局、加快拓展市場應用、加強政策措施保障六部分內容。在加強政策措施保障方面，考慮到《指導意見》的監督落實涉及部門多、協調事項多，海洋藥物和功能製品行業存在准入要求高、市場更新快、創新投入大、風險高等特點，提出加強統籌協調、加大資金投入、加強人才保障和開展執行監測等相關舉措。"
-    },
-    {
-      "id": "4903656",
-      "time": "2026-05-28 10:33:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲0.1%，東證指數跌0.2%。"
-    },
-    {
-      "id": "mkt:019e6c6e-a860-7666-9cf2-17922dd270df",
-      "time": "2026-05-28 10:33:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOK GOV SHIN said he expects inf to peak in H2."
-    },
-    {
-      "id": "mkt:019e6c6d-b240-7666-9cf2-0aa1a6d637e4",
-      "time": "2026-05-28 10:32:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Pakistan Sign MoU On Conformity Assessment Cooperation】On May 25, SAMR Director Luo Wen and Pakistan's Ambassador to China Khalil Hashmi signed the Memorandum of Understanding between the People's Republic of China's SAMR (National Certification and Accreditation Administration) and the Ministry of Science and Technology of the Islamic Republic of Pakistan on cooperation in the field of conformity assessment. Both sides said they will carry out technical exchanges and training, joint research and other cooperation in conformity assessment; seek to reduce technical barriers to trade in areas of mutual concern; facilitate bilateral trade; and inject new momentum into the China‑Pakistan community with a shared future."
-    },
-    {
-      "id": "4903655",
-      "time": "2026-05-28 10:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國與巴基斯坦簽署合格評定領域諒解備忘錄】5月25日，國家市場監督管理總局局長羅文與巴基斯坦駐華大使卡里爾・哈什米簽署《中華人民共和國國家市場監督管理總局（國家認證認可監督管理委員會）與巴基斯坦伊斯蘭共和國科學技術部關於合格評定領域合作諒解備忘錄》。中巴雙方將在合格評定領域開展技術交流與培訓、聯合研究等合作，在共同關注領域減少技術性貿易壁壘，便利雙邊貿易，為中巴命運共同體注入新動能。"
-    },
-    {
-      "id": "4903654",
-      "time": "2026-05-28 10:31:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【希舒美鹽酸氨溴索口服溶液商業上市】5月28日，輝瑞中國宣佈，希舒美®鹽酸氨溴索口服溶液正式商業上市，用於成人及2歲以上兒童的急、慢性支氣管炎引起的痰液粘稠、咳痰困難。"
-    },
-    {
-      "id": "te:economy:554252",
-      "time": "2026-05-28 10:31:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "News",
-        "Importance 1"
-      ],
-      "text": "New Zealand Sees Narrower 2025/26 Budget Gap — New Zealand on Thursday forecast a budget deficit of NZ$15.06 billion for the fiscal year ending June 30, 2026, narrower than the NZ$16.93 billion deficit projected in its half-year fiscal update in December, as Reuters reported. Net debt excluding advances was forecast to peak at 46.1% of gross domestic product in 2027/28, down from the December estimates of 46.9% of GDP in 2027/28 and 2028/29. For 2025/26, net debt is estimated at 42.4% of GDP, compared with the December forecast of 43.3%. Meanwhile, GDP growth for 2026/27 is forecast at 2.3%, slightly below the December estimate of 2.4%."
-    },
-    {
-      "id": "mkt:019e6c6c-47e3-7666-9cf2-00d001aaff81",
-      "time": "2026-05-28 10:31:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【GOOLSBEE: AI Productivity Expectations, Rising Oil Could Force Central Banks To Hike】Chicago Fed President GOOLSBEE on Thursday reinforced his warning that growing market expectations of AI-driven productivity gains could lift inf and prompt the Federal Reserve and other central banks to tighten policy. GOOLSBEE said: “The stronger the hype about future productivity, the higher rates may need to be to prevent the economy from overheating. More importantly, facing short-term supply shocks — whether from oil prices, supply‑chain disruptions or other factors — will make the problem worse.” He said these remarks expand on a view he first aired publicly earlier this month, when he challenged the notion that AI will be disinflationary and therefore create scope for central-bank rate cuts — a view embraced by many Trump administration officials and by the Fed’s new chair Woshe. GOOLSBEE noted that in the 1990s broader computer adoption unexpectedly raised US productivity and supported rapid growth without triggering inf, but warned that if productivity gains are already priced into market expectations the dynamics change: markets may front‑load spending and push up prices before real productivity gains materialize."
-    },
-    {
-      "id": "4903653",
-      "time": "2026-05-28 10:31:22",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：若政策反應良好，通脹或將在下半年觸頂。"
-    },
-    {
-      "id": "mkt:019e6c6b-893b-7666-9cf1-fefcd063658c",
-      "time": "2026-05-28 10:30:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Futu, Changqiao Close Accounts Opened With Falsified Documents And Zero-Asset Dormant Accounts】Recently, Futu and Changqiao carried out a cleanup of accounts opened using falsified supporting documents and of empty accounts with no assets or positions, and closed both categories of accounts. At the same time, the Futu NiuNiu app added an \"Update Identity Information\" quick-access entry under the \"Account\" tab and issued an accompanying \"About Updating Identity Information\" notice, advising clients that if they hold qualifying overseas identity documents, once the information update is completed their account trading, funds deposits and withdrawals and other services and functions will not be affected."
-    },
-    {
-      "id": "4903652",
-      "time": "2026-05-28 10:30:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪走強 奕東電子20cm漲停】液冷伺服器概念盤中震盪走強，奕東電子20cm漲停，此前大元泵業、冰山冷熱漲停，光弘科技、鼎通科技、冰輪環境、博傑股份跟漲。"
     }
   ]
 }
