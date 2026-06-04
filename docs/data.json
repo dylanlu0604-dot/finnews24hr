@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-04 12:52:14",
-  "count": 19040,
+  "updated": "2026-06-04 12:56:05",
+  "count": 19041,
   "items": [
+    {
+      "id": "4916589",
+      "time": "2026-06-04 12:55:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "臺積電執行長：韓國短期內無法複製臺積電的商業模式。"
+    },
+    {
+      "id": "mkt:019e90fb-c383-7cc0-ba25-2c1622a09075",
+      "time": "2026-06-04 12:54:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【AliExpress Brand+ GMV penetration near 40% in summer sale opening】AliExpress said its overseas 618 summer sale began June 1; platform data showed Brand+ branded GMV penetration approached 40% on the opening day. Brand-focused go-to-market solutions produced concentrated breakouts in core markets including Europe, the U.S. and Brazil, with Seauto (pool robots), Funwater (water sports), Anycubic (3D printing) and Oukitel (energy-storage batteries) posting multiple- to tens-fold GMV gains."
+    },
+    {
+      "id": "4916588",
+      "time": "2026-06-04 12:54:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普將提名其前私人律師任美國司法部長】據美國媒體報道，美國總統特朗普3日說，他將提名其前私人律師、現任司法部副部長託德·布蘭奇擔任美國司法部長。特朗普當天在白宮晚宴上說，他計劃4日提名布蘭奇，“我們將讓他成為正式的司法部長”。布蘭奇曾是特朗普的私人律師。特朗普4月2日宣佈，帕姆·邦迪不再擔任司法部長，由副部長布蘭奇代理。（新華社）"
+    },
+    {
+      "id": "mkt:019e90fa-4f33-7cc0-ba25-25886d77fbcd",
+      "time": "2026-06-04 12:53:03",
+      "tags": [
+        "MKT News",
+        "TSM.O"
+      ],
+      "text": "TSMC CEO says the company will not suddenly raise prices sharply."
+    },
+    {
+      "id": "4916587",
+      "time": "2026-06-04 12:52:48",
+      "tags": [
+        "觀點",
+        "央行"
+      ],
+      "text": "【摩根士丹利：澳大利亞經濟增長將不及澳大利亞央行2026年預期】摩根士丹利股票策略師表示，今年澳大利亞經濟的增長速度將低於澳大利亞央行的預期。在3月當季增長略低於預期的背景下，他們預計在加息、稅收變化和能源成本的重壓下，2026年剩餘時間裡國內需求將減速。他們在一份報告中寫道，住房和消費將首當其衝地受到增長放緩的影響，到年底增長率將較2025年的2.6%降至1.2%。"
+    },
+    {
+      "id": "4916586",
+      "time": "2026-06-04 12:52:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江最佳化工商業分時電價】近日，浙江省發展改革委、省能源局釋出《關於最佳化工商業分時電價政策有關事項的通知》，7月1日起執行。大工業電價使用者需全年執行分時電價（不包括國家有專門規定的電氣化鐵路牽引用電等）。一般工商業電價使用者可選擇執行分時電價，選定後12個月內保持不變。尖峰、高峰、平段、低谷、深谷浮動結果比例為2.05∶1.85∶1∶0.4∶0.2。"
+    },
+    {
+      "id": "te:markets:556367",
+      "time": "2026-06-04 12:51:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sumitomo Mitsui Financial Stock Price Hits 15-week High — Sumitomo Mitsui Financial shares increased to 6184.00 JPY, the highest since February 2026. Over the past 4 weeks, Sumitomo Mitsui Financial Group gained 8.17%, and in the last 12 months, it increased 71.13%."
+    },
     {
       "id": "4916585",
       "time": "2026-06-04 12:50:37",
@@ -9,6 +74,15 @@
         "國際"
       ],
       "text": "【印度行業組織：政府有意國內採購逾20億美元無人機】印度一個與政府部門合作的行業組織3日說，印度今年可能向國內企業訂購價值超過20億美元的軍用無人機。這將是該國迄今最大規模的此類採購。路透社援引印度無人機聯合會負責人斯米特·沙阿的話報道，相關計劃已進入後期階段，預計將在18至24個月內交付。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606043760196239",
+      "time": "2026-06-04 12:50:32",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行據悉考慮6月加息 今年晚些時候或再次行動】據報道，知情人士稱，日本央行官員勢將在本月考慮將基準利率上調0.25個百分點，並認為今年晚些時候有可能進一步加息一次。"
     },
     {
       "id": "4916584",
@@ -175351,69 +175425,6 @@
         "MKT News"
       ],
       "text": "kallas, the EU High Representative for Foreign Affairs and Security Policy, said the EU should not fall into a trap set by Russia — being diverted into debates over who should participate in negotiations — and that discussions should focus on substantive issues."
-    },
-    {
-      "id": "mkt:019e6cf0-375f-722b-8ac9-c39c627bf4d2",
-      "time": "2026-05-28 12:55:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index fell 2%."
-    },
-    {
-      "id": "4903899",
-      "time": "2026-05-28 12:55:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌2%至43,370.34點。"
-    },
-    {
-      "id": "4903898",
-      "time": "2026-05-28 12:55:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將意法半導體目標股價從52歐元上調至74歐元。"
-    },
-    {
-      "id": "mkt:019e6cef-ab94-722b-8ac9-ba017d77fa80",
-      "time": "2026-05-28 12:55:06",
-      "tags": [
-        "MKT News",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "【Shenzhen Stock Exchange Director Chang Shayan: ChiNext-Listed Firms' R&D Up 9.8% In 2025】At the Shenzhen Stock Exchange 2026 Global Investors Conference, Shenzhen Stock Exchange director Chang Shayan said ChiNext-listed companies posted revenue and net profit growth of 11.48% and 21.56% YoY in 2025; overseas business revenue rose 16.88% YoY and R&D spending increased 9.8% YoY, while dividends totaled 562.761 billion yuan. He said the quality and return levels of listed companies are continuously improving."
-    },
-    {
-      "id": "4903897",
-      "time": "2026-05-28 12:54:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人卡拉斯：俄羅斯在戰場上處於劣勢。"
-    },
-    {
-      "id": "mkt:019e6cee-d116-722b-8ac9-b6649f71f24f",
-      "time": "2026-05-28 12:54:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shenzhen Stock Exchange Director Chang Shayan Says ChiNext Reaches 1,398 Listings, Market Cap Exceeds 21 Trillion Yuan】At the Shenzhen Stock Exchange 2026 Global Investors Conference, SZSE director Chang Shayan said the exchange’s ChiNext board—China’s earliest specialized board established to support technological innovation—has, after 16 years of reform and development, grown to 1,398 listed companies with a combined market capitalization exceeding 21 trillion yuan. High‑technology enterprises account for about 90% of listings and strategic emerging‑industry companies about 70%. Chang said ChiNext has attracted and nurtured a large cohort of leading technology firms that have achieved leapfrog development and has formed four industry‑chain clusters with trillion‑yuan‑level market values in new‑generation information technology, new energy, biopharma and high‑end equipment manufacturing."
-    },
-    {
-      "id": "4903896",
-      "time": "2026-05-28 12:52:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平復信參加“共航蔚藍：中美青年友誼行”活動的兩國學生】5月23日，國家主席習近平復信參加“共航蔚藍：中美青年友誼行”活動的兩國學生。\n\n習近平表示，很高興得知兩國學生搭乘“中美青年友誼號”，共同經歷了難忘的友誼之旅。中美友好的故事由人民書寫，中美關係的未來由青年創造。2023年11月我提出“5年邀請5萬名美國青少年來華交流學習”倡議以來，已有超過5萬名美國青少年來華參訪，提前兩年半實現預期目標。在交往交流中，中美兩國青少年雙向奔赴，加深相互瞭解和理解，結下深厚友誼，書寫了兩國人民友好交流的嶄新篇章。\n\n習近平指出，青少年最富有朝氣，最富有夢想，是中美關係的未來和希望，也是世界的未來和希望。期待更多中美青少年接過兩國友好事業的接力棒，相互學習、共同進步，成為跨越太平洋的“友誼使者”，為中美關係穩定健康可持續發展作出新的貢獻。\n\n近日，參加“共航蔚藍：中美青年友誼行”活動的中美兩國學生致信習近平主席，感謝“5年5萬”倡議為兩國青少年學習交流提供了寶貴機會。(央視)"
     }
   ]
 }
