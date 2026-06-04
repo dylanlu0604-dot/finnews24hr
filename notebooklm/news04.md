@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-05 01:38:16_
-_本檔包含 3485 則快訊，約 715757 字_
+_更新時間：2026-06-05 02:17:20_
+_本檔包含 3491 則快訊，約 716479 字_
+
+---
+
+### 2026-06-01 17:48:38  #公司 #市場
+
+【ST標準：股價異常波動 業績虧損或存退市風險】ST標準公告稱，公司股票在2026年5月28日、5月29日、6月1日連續三個交易日收盤價格漲幅偏離值累計達12%，屬異常波動。2025年公司淨虧損14387.65萬元，2026年一季度淨虧損2062.11萬元。2025年度內部控制被審計機構出具否定意見報告，股票自2026年5月6日起被實施其他風險警示。若下一年度財務報告內部控制仍被出具否定或無法表示意見報告，股票將被實施退市風險警示。控股股東擬公開徵集轉讓不超27.77%股份，能否徵集到受讓方及獲批均不確定。
+
+---
+
+### 2026-06-01 17:48:34  #公司 #市場
+
+【國企紅利ETF鵬揚：提示二級市場交易價格溢價風險】國企紅利ETF鵬揚公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月1日，收盤價1.279元，收盤時基金份額參考淨值為1.2018元。若6月2日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。基金運作正常且無應披露未披露重大資訊，提醒投資者關注溢價風險，審慎投資。
+
+---
+
+### 2026-06-01 17:48:05  #MKT News
+
+Hungary's central bank said it will continue implementing a strengthened, stability-focused monetary policy.
+
+---
+
+### 2026-06-01 17:48:02  #國際
+
+沙特外交部：強烈譴責伊朗對科威特國發動的一再重複的襲擊行動。
+
+---
+
+### 2026-06-01 17:47:54  #國際
+
+以色列國防軍：以色列北部多個地區響起警報。
+
+---
+
+### 2026-06-01 17:47:53  #MKT News
+
+Saudi Foreign Ministry strongly condemns Iran's repeated, egregious attacks on Kuwait.
+
+---
+
+### 2026-06-01 17:47:31  #公司
+
+【瑞德智慧：控股股東及一致行動人持股比例增至38.05%】瑞德智慧公告稱，2025年11月1日至2026年5月29日，因公司登出部分回購股份及實施2025年度權益分派導致的差異化轉增股本，公司總股本由101,952,000股變為129,788,866股。控股股東、實際控制人汪軍及其一致行動人潘衛明、佛山市瑞翔投資有限公司合計持股數由37,989,400股增至49,386,220股，合計持股比例由37.26%增至38.05%，被動觸及1%整數倍。本次權益變動不觸及要約收購，不影響公司控制權和持續經營。
+
+---
+
+### 2026-06-01 17:47:07  #MKT News #EURUSD
+
+Hungary's central bank said it will be a constructive partner to the government in meeting conditions for euro entry.
+
+---
+
+### 2026-06-01 17:47:03  #央行 #其他
+
+匈牙利央行：將成為政府滿足歐元入盟條件過程中的建設性夥伴。
+
+---
+
+### 2026-06-01 17:46:56  #MKT News #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
+
+【Iran says US and Israel colluding to seize Middle East energy, territory】Mohsen Rezaee, military adviser to Iran’s supreme leader, said the core of the Middle East dispute is land and energy. He said Israel aims to seize territory while the United States seeks to grab oil, calling that the shared interest behind US‑Israel collusion. Rezaee added both countries believe Iran must be overturned to establish a new regional order.
+
+---
+
+### 2026-06-01 17:46:51  #公司
+
+【鼎泰高科：股東詢價轉讓初步定價270.55元/股】鼎泰高科(301377.SZ)公告稱，根據2026年6月1日詢價申購情況，初步確定的本次詢價轉讓價格為270.55元/股。本次詢價轉讓不透過集中競價交易或大宗交易方式進行，不屬於透過二級市場減持。受讓方透過詢價轉讓受讓的股份，在受讓後6個月內不得轉讓。參與報價的機構投資者48家，有效認購倍數為1.99倍，初步確定受讓方29家，擬受讓股份10,285,323股。
+
+---
+
+### 2026-06-01 17:46:42  #國際
+
+【歐盟官員：儘管資金投入增加 歐洲國家仍無法擴大國防工業規模】歐盟負責防務的高階官員庫比柳斯表示，儘管對國防工業資金投入有所增加，歐洲國家仍無法擴大該行業的規模。
+
+---
+
+### 2026-06-01 17:46:29  #國際
+
+【伊朗說美以勾結掠奪中東能源和土地】伊朗最高領袖軍事顧問穆赫辛·雷扎伊近日在接受總檯報道員專訪時表示，中東局勢的核心無非兩大要素，土地與能源。以色列意在侵佔領土，美國則一心掠奪石油，這便是“美以勾結的共同利益點”。而且兩國都認為，如果想在中東建立新秩序，就必須扳倒伊朗。（CCTV國際時訊）
+
+---
+
+### 2026-06-01 17:46:05  #公司
+
+【歐科億：格林美詢價轉讓873.3萬股】歐科億公告，股東格林美股份有限公司透過詢價轉讓方式減持公司股票873.3萬股，佔公司總股本的5.50%。本次轉讓價格為96.45元/股。轉讓後，格林美持有公司股份比例由10.48%減少至4.91%，持有公司權益比例降至5%以下。此次權益變動不會導致公司控股股東、實際控制人發生變化。
+
+---
+
+### 2026-06-01 17:45:21  #MKT News
+
+Hungary's prime minister Magyar said he respects central bank independence.
+
+---
+
+### 2026-06-01 17:45:17  #公司
+
+【國聯股份等在北京成立新數智科技公司 註冊資本1000萬】天眼查App顯示，近日，北京海洋多多數智科技有限公司成立，法定代表人為紀靜靜，註冊資本1000萬人民幣，經營範圍包括海洋生物活性物質提取、純化、合成技術研發等，由聯達盛（北京）數智科技中心（有限合夥）、北京海洋多多科技發展中心（有限合夥）、國聯股份（603613）共同持股。
+
+---
+
+### 2026-06-01 17:45:16  #央行 #其他
+
+匈牙利總理：將央行視為戰略合作伙伴，尊重央行獨立性。
+
+---
+
+### 2026-06-01 17:44:59  #公司
+
+【智譜入股馭馴網路科技公司】天眼查App顯示，近日，上海馭馴網路科技有限公司發生工商變更，新增智譜AI旗下北京智譜未來科技有限公司、韓旭為股東，同時註冊資本由100萬人民幣增至約115.9萬人民幣。該公司成立於2026年3月，法定代表人為熊典，經營範圍包括計算機軟硬體及輔助裝置批發、計算機軟硬體及輔助裝置零售、工業控制計算機及系統銷售等。股東資訊顯示，該公司現由上海馭馴華清科技中心（有限合夥）、上海智網合言科技中心（有限合夥）及上述新增股東等共同持股。
+
+---
+
+### 2026-06-01 17:44:55  #其他
+
+【晶科科技嵐縣光伏專案競配成功】近日，山西省2026年第一批競爭性配置風電、光伏發電保障性併網專案評審結果公示，晶科科技嵐縣晶能100MW光伏發電專案順利入選，該專案是呂梁市本批唯一中選專案，屬典型的山地光伏電站。專案投運後，年均上網電量逾1.5億kWh，年等效滿負荷執行小時數約為1546.11h，相當於節約標準煤約4.65萬噸，減少二氧化碳排放約12.74萬噸。
+
+---
+
+### 2026-06-01 17:44:48  #公司
+
+【ST喜臨門：控股股東及其一致行動人預重整申請獲法院受理】ST喜臨門公告，紹興市越城區人民法院決定受理公司控股股東華易智慧製造及其一致行動人華瀚投資的預重整申請，並選定浙江越光律師事務所為預重整階段管理人。華易智慧製造持有公司股份8479.97萬股，佔總股本23.03%，其中75.37%被質押，100.00%被凍結。華瀚投資持有公司股份3680.8萬股，佔總股本9.99%，其中77.18%被質押，100.00%被凍結。本次預重整是否影響公司控制權存在不確定性。
+
+---
+
+### 2026-06-01 17:44:46  #公司
+
+【盛幫股份：終止籌劃收購無錫沃可60%股權】盛幫股份公告，公司原計劃以現金方式收購無錫沃可發動機降噪部件有限公司60%股權，以拓展海外市場。但由於交易各方未能就核心條款和交易細節達成一致，決定終止本次重大資產重組事項。公司承諾自公告披露之日起至少一個月內不再籌劃重大資產重組。
+
+---
+
+### 2026-06-01 17:44:38  #MKT News
+
+Hungarian Prime Minister Magyar said he views the Hungarian central bank as a strategic partner.
+
+---
+
+### 2026-06-01 17:44:29  #央行 #其他
+
+匈牙利總理：已與匈牙利央行行長舉行了富有建設性的會談。
+
+---
+
+### 2026-06-01 17:44:20  #MKT News #Commodities #Energy #Market Regions #Europe & UK
+
+Ukraine's prime minister said Kyiv and Lithuania have agreed to secure long-term LNG capacity via Lithuania's Klaipėda port.
+
+---
+
+### 2026-06-01 17:44:10  #MKT News
+
+Hungary's prime minister magyar said maintaining forint stability is crucial.
+
+---
+
+### 2026-06-01 17:44:08  #MKT News #Market Regions #Europe & UK
+
+Hungary's Prime Minister Magyar said he held constructive talks with Hungarian central bank governor Varga.
+
+---
+
+### 2026-06-01 17:44:06  #其他
+
+匈牙利總理：福林穩定是重中之重。
+
+---
+
+### 2026-06-01 17:43:58  #國際
+
+烏克蘭總理稱，烏克蘭與立陶宛已就透過克萊佩達港獲得長期液化天然氣運力達成協議。
+
+---
+
+### 2026-06-01 17:43:53  #國際
+
+據以色列i24News：加利利地區大範圍區域已啟動紅色警報。
+
+---
+
+### 2026-06-01 17:43:49  #國際
+
+市場訊息：幣安（Binance)將面向非美國地區使用者推出美股交易服務。
+
+---
+
+### 2026-06-01 17:43:47  #MKT News
+
+i24News reports Red Alert sirens activated across large parts of Israel's Galilee region.
+
+---
+
+### 2026-06-01 17:43:35  #其他
+
+【國家資料局：以完善的資料工程驅動具身智慧發展】《中國證券報》1日刊發文章《國家資料局：以完善的資料工程驅動具身智慧發展》。文章稱，國家資料局5月31日訊息，國家資料局局長劉烈宏日前在2026世界智慧產業博覽會上表示，高質量資料集是具身智慧“感知-決策-執行”的重要基礎，要以完善的資料工程驅動具身智慧的發展，深入開展系統性實踐。今年以來，高質量資料集領域政策動態頗多，圍繞高質量資料集的產業生態正在成型。專家表示，高質量資料集建設已逐步從“倡導建設”邁向“按標準建設、按機制試點、按體系推進”，產業發展有望進一步提速。（新華社）
+
+---
+
+### 2026-06-01 17:43:32  #公司
+
+【中證協：進一步引導證券公司規範私募基金託管業務】中國證券業協會託管結算與財務會計專業委員會日前召開主任委員（擴大）會議，圍繞資料資產價值評估、財務數智化轉型、行業稅務問題研究、賬戶管理功能最佳化、開放式基金結算運營等重點工作開展研討交流。會議稱，委員會要持續推動行業重點領域自律規則研究和標準建設，著力解決行業稅務及實務難題，進一步引導證券公司規範私募基金託管業務，促進行業更好發揮財務管理功能。
+
+---
+
+### 2026-06-01 17:42:58  #公司
+
+港交所資料顯示，5月26日，滙豐控股持有的美的集團H股空頭頭寸佔比從3.02%降至2.41%。
+
+---
+
+### 2026-06-01 17:42:27  #國際
+
+【伊朗副外長：只有伊朗和阿曼有權在霍爾木茲海峽“行使主權”】據半島電視臺報道，伊朗副外長卡澤姆·加里巴巴迪（Kazem Gharibabadi）表示，伊朗和阿曼是僅有的兩個有權在霍爾木茲海峽“行使主權”的國家。根據伊朗國家廣播電視臺播出的講話，加里巴巴迪表示，伊朗已在該水道實施一項新的“交通和航行管制”程式，但相關安排是與阿曼協調進行的。他表示，在特朗普威脅稱如果阿曼在海峽問題上不“像其他國家一樣行事”，美國將“炸燬”該國之後，伊朗已敦促阿曼“不要屈從於”美國的威脅。
+
+---
+
+### 2026-06-01 17:42:17  #MKT News #WTI #Impact bullish #Brent
+
+【Iran deputy FM: only Iran and Oman can 'exercise sovereignty' in Strait of Hormuz】Iran deputy foreign minister Kazem Gharibabadi said on state TV that only Iran and Oman have the right to "exercise sovereignty" in the Strait of Hormuz and that Iran has implemented a new "traffic and navigation control" procedure in the waterway coordinated with Oman. He said Tehran has urged Oman not to yield to US threats after Trump warned he would "bomb" Oman if it did not "act like other countries," Al Jazeera reported.
+
+---
+
+### 2026-06-01 17:41:07  #公司 #市場
+
+【寧德時代：成功發行50億元2026年度第三期綠色科技創新債券】寧德時代公告稱，公司此前獲中國銀行間市場交易商協會同意註冊400億元科技創新債券，註冊額度2年內有效。近日，公司成功發行2026年度第三期綠色科技創新債券，發行總額50億元，募集資金已於2026年5月29日到賬。債券期限3+2年，發行利率1.50%。
+
+---
+
+### 2026-06-01 17:40:50  #公司 #市場
+
+【ST海王：股票交易異常波動 不存在應披露未披露重大資訊】ST海王公告稱，2026年5月29日至6月1日，公司股票連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經自查並向控股股東及實控人核實，不存在應披露而未披露的重大資訊，近期生產經營正常，控股股東等在異常波動期間無買賣公司股票情況。公司2023 - 2025年歸母淨利潤分別為-16.90億元、-11.93億元、-5.63億元，未來盈利有不確定性，提醒投資者理性決策、審慎投資。
+
+---
+
+### 2026-06-01 17:40:39  #公司
+
+【愛普股份：簽署補充協議變更股權轉讓補償條款】愛普股份公告，公司與上海愛普食品配料有限公司及出讓方簽署《股權轉讓協議》，以現金方式收購愛普配料少數股東持有的49%股權，交易對價為人民幣1.08億元。為更好保護公司的權益，現協議各方根據目標公司實際情況進一步協商，擬變更《股權轉讓協議》部分條款，並就未盡事宜達成補充約定。補充協議中，原約定受讓方同意就累計淨利潤超出部分的49%向出讓方支付股權轉讓補償款，現修改為受讓方同意就累計淨利潤超出部分的10%向出讓方朱鳴、李進支付股權轉讓補償款。
+
+---
+
+### 2026-06-01 17:40:19  #公司
+
+【萬潤新能：擬8820萬元增資參股公司 構建“磷鈦鐵鋰”佈局】萬潤新能公告稱，公司擬與磷化集團以同比例增資方式向參股公司磷化萬潤投資1.8億元，其中公司增資8820萬元，磷化集團增資9180萬元。增資後，磷化萬潤註冊資本由1億元增至2.8億元，雙方持股比例不變。增資款將用於收購磷化集團持有的專案公司股權，構建“磷鈦鐵鋰”產業佈局。本次交易構成關聯交易，不構成重大資產重組。事項已透過董事會審議，尚需滿足先決條件，存在不確定性。
+
+---
+
+### 2026-06-01 17:40:13  #公司
+
+【尚緯股份：擬將證券簡稱變更為“福華尚緯”】尚緯股份公告，鑑於公司名稱已由“尚緯股份有限公司”變更為“福華尚緯股份有限公司”，公司擬將證券簡稱變更為“福華尚緯”，證券程式碼保持不變。本次公司證券簡稱變更事項尚需向上交所申請，並經上交所批准方可實施。
+
+---
+
+### 2026-06-01 17:40:09  #公司
+
+港交所披露檔案顯示，5月26日，滙豐控股對美的集團H股的多頭持倉從8.22%降至7.67%。
+
+---
+
+### 2026-06-01 17:40:03  #市場 #焦點
+
+【南向資金今日淨買入46.57億港元】港股通（滬）方面，康方生物、阿里巴巴-W分別獲淨買入17.06億港元、5.79億港元；小米集團-W淨賣出額居首，金額為3.53億港元；港股通（深）方面，康方生物、騰訊控股分別獲淨買入10.01億港元、5.51億港元；阿里巴巴-W淨賣出額居首，金額為4.82億港元。
+
+---
+
+### 2026-06-01 17:39:56  #其他
+
+市場訊息：全市場發行方的數字資產投資產品本週淨流出資金 16.7 億美元，連續第三週出現資金外流，同時創下 2026 年以來第二大單週流出規模，僅次於 1 月 23 日當週。
+
+---
+
+### 2026-06-01 17:39:27  #MKT News
+
+【Tianjin launches enforcement campaign on real estate transactions and brokerage market】Tianjin's municipal housing and urban‑rural development commission and municipal market supervision commission have instructed district housing and market regulators to carry out an about two‑month enforcement campaign to restore order in real‑estate transactions and the brokerage market. The campaign will focus on high‑complaint issues, intensify enforcement against false advertising and improper or illegal brokerage charges, and strengthen information sharing, case referrals and joint enforcement. Authorities will promptly handle violations in accordance with law to deter misconduct, protect consumers’ legal rights and help resolve market disputes to support stable development of Tianjin’s real estate market.
+
+---
+
+### 2026-06-01 17:38:40  #MKT News
+
+【9 IPO applications accepted last week】May 25-31: Chinese exchanges accepted nine IPO applications for review — Shanghai Stock Exchange main board 1; STAR Market 3; Shenzhen ChiNext 4; Beijing Stock Exchange 1. As of May 31, 44 IPO applications have been accepted year-to-date.
 
 ---
 
@@ -20829,245 +21105,5 @@ The Dow Jones Index Closes 0.72% Higher — The Dow Jones Index gained 363 point
 ### 2026-05-30 04:27:42  #市場
 
 福特汽車5月份累計上漲44.45%，創2009年4月份以來最大單月漲幅，報17.45美元。
-
----
-
-### 2026-05-30 04:27:40  #觀點
-
-【中信建投證券楊驥：消費板塊邊際改善顯著 白酒或迎十年一遇週期大底】近日，中信建投證券食飲行業首席分析師楊驥在“上證·首席講壇”發表演講並接受上海證券報記者專訪時表示，2026年消費板塊正迎來邊際改善。面對食飲新消費浪潮，行業呈現出零售渠道變革、大眾品供給端創新、白酒“一路向C”三大特徵。當下應該跳出傳統的經濟和地產週期需求研究框架，透過創新性提供優質供給、發掘新需求，或依託新渠道創造市場新增量。當前，零售渠道的深刻變革正在重構消費行業的上下游結構與價值鏈，相關板塊蘊含的投資機會值得關注。（上證報）
-
----
-
-### 2026-05-30 04:27:37  #其他
-
-【一架美軍MQ-9“死神”無人機在葉門馬裡卜省墜毀】一名葉門軍方官員29日稱，一架美軍MQ-9型“死神”無人機當天在葉門東北部的馬裡卜省被擊落後墜毀。這名不願透露姓名的軍官表示，事件發生在馬裡卜省西北部地區。這架無人機被擊落前正在該省上空飛行。他還暗示，此次擊落行動由胡塞武裝實施。（新華社）
-
----
-
-### 2026-05-30 04:27:06  #公司 #觀點
-
-【境外子公司不是“合規孤島” 券商跨境展業須合規先行】34家內地券商、36家境外子公司、1.94萬億港元總資產……一組資料勾勒出內地券商出海版圖，也折射出跨境經營下合規治理面臨的現實挑戰。。上海證監局近期向光大證券出具警示函，讓行業潛藏的治理短板浮出水面：境外子公司並非獨立於母公司治理體系之外的“合規孤島”，但部分券商的決策程式與合規審查未能實現跨境同步。2024年以來，從人員任職管控到風險指標體系，監管處罰密集指向母、子公司治理的漏洞。行業發展方向已然明朗。近期八部門跨境整治方案落地，穿透式監管從境內直抵境外。跨境展業的模糊地帶加速消弭，“外部整治，內部提質”的行業新邏輯已然確立。（上證報）
-
----
-
-### 2026-05-30 04:26:43  #市場
-
-【高溫提前疊加算力負荷高增 電力板塊或迎來業績與估值雙重提升】5月29日收盤，Wind火電概念指數漲幅超過4%，晉控電力、深南電A、華能國際、粵電力A、華電能源、華能蒙電等多股漲停。近20日，Wind火電概念指數累計漲幅超過22%。分析人士稱，電力板塊持續走強，核心緣於高溫前置推升用電負荷、資料中心用電剛性擴張、政策與市場預期共振。（上證報）
-
----
-
-### 2026-05-30 04:26:34  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises as Weak GDP Fuels Dovish BoC Bets — The S&P/TSX Composite Index rose 0.7% to close at 34,759 on Friday as weak GDP data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline. The data strengthened expectations that the BoC will not rise rates soon, with markets broadly anticipating a hold at the June 10 meeting. Expectations of a dovish BoC, and progress toward a US-Iran peace deal pushed bond yields lower and eased concerns about higher borrowing costs. Both parts agreed to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, although the deal still requires approval from US President Trump. In finance, RBC was up 1.5% and Great-West Lifeco gained 1%. Gold prices rose for a second consecutive session, lifting miners such as Agnico Eagle (+3.2%) and WPM (+3.3%). Tech stocks also outperformed, with Shopify rising 3.8% and Celestica surging 10.2%.
-
----
-
-### 2026-05-30 04:26:13  #其他
-
-【公募新發規模破五千億元 主動權益類基金爆款頻現】截至5月29日，今年以來已成立了191只主動權益類基金，發行規模合計為1741.86億元。而據統計，2025年共成立了318只主動權益類基金，發行規模合計為1662.63億元。僅將近5個月時間，主動權益類基金髮行規模便已超過2025年全年水平（上證報）
-
----
-
-### 2026-05-30 04:25:46  #公司
-
-【滬深300等指數進行上半年定期調樣 樣本新質生產力含量持續提升】5月29日，中證指數有限公司宣佈將調整滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本，此次調整為指數樣本的定期例行調整，定期調整方案將於6月12日收市後正式生效。本次樣本調整後，資訊科技、通訊服務與工業等行業樣本數量及權重普遍上升，A系列指數較傳統寬基指數行業配比更加均衡，新質生產力含量進一步提升，有助於指數發揮服務國家戰略、引導資源配置的作用。（上證報）
-
----
-
-### 2026-05-30 04:24:45  #公司 #市場 #觀點
-
-【全球投資者大會“熱”出新高度，透露哪些訊號？】“ESG強制資訊披露是基準，運用這一共同語言工具，能夠加深上市公司與投資者的相互理解。”荷蘭匯盈資產投資亞洲有限公司亞太區責任投資及盡職治理主管德巴尼克·巴蘇（Debanik Basu）在會上說。摩根士丹利（亞洲）中國區在岸股權業務主管、摩根士丹利期貨（中國）有限公司董事長沈黎在大會期間接受上海證券報等媒體採訪時表示，“AI+科技”的新質生產力成為經濟增長的中長期驅動力，中國2026年在AI方面的投資有望實現近20%的同比增長、達到近9000億元；中國先進製造在新能源汽車、電池、光伏、AI硬體方面遙遙領先，出口在全球的份額到2030年有望升至16.5%。這些都給中國資本市場打下了堅實的基本面基礎。（上證報）
-
----
-
-### 2026-05-30 04:23:40  #宏觀 #國際
-
-美國財政部明確：不允許向伊朗支付霍爾木茲海峽通行費。
-
----
-
-### 2026-05-30 04:23:20  #公司
-
-據知情人士透露，量子計算公司Quantinuum考慮擴大IPO股票發行規模，並拓展發行價指導區間。
-
----
-
-### 2026-05-30 04:23:12  #宏觀 #國際
-
-【個人投資者超18萬“跨境理財通”通道升溫】最近，廣州市民林濤在銀行新開通了“跨境理財通”賬戶，買入了美國指數基金和美元存款。而他原本是打算去香港開立投資賬戶的。這一變化源自近期內地與香港監管機構同日出臺的監管新規，聯手規範跨境證券投資秩序。新規之下，粵港澳大灣區“跨境理財通”受到投資者關注，行業人士稱，該渠道可能承接一波投資需求，成為境外投資主渠道之一。券商人士分析，跨境投資需求的升溫是居民財富管理需求升級、互聯互通深化與本土資產收益環境變化共同作用的結果。“跨境理財通”的價值是幫助投資者在合資格賬戶、產品與服務框架下，逐步完成從單次交易到長期配置的轉變。（上證報）
-
----
-
-### 2026-05-30 04:22:36  #公司 #市場 #國際
-
-【微軟收漲超5.4%，5月份谷歌A漲21.6%】週五（5月29日），美國科技股七巨頭（Magnificent 7）指數跌0.31%，報227.26點，本週（四個交易日）累計上漲1.23%，5月份累漲6.71%。成分股中，谷歌A累計上漲21.60%，亞馬遜漲17.25%，蘋果漲15%，英偉達漲13.22%，特斯拉累跌3.10%，Meta跌4.10%，微軟跌6.49%。此外，AMD累漲140.99%，臺積電漲38%，禮來漲3.17%，伯克希爾哈撒韋B類股跌5.60%。“超大”市值科技股指數漲0.89%，報473.90點，繼續創收盤歷史新高，本週累漲2.94%，5月份累漲12.60%。除了特斯拉、谷歌A、AMD、蘋果、微軟、英偉達、Meta Platforms、亞馬遜之外，高通累計上漲47.69%，博通漲29.36%，甲骨文漲16.55%，奈飛跌8.26%，Adobe跌25.94%，Salesforce跌27.68%。
-
----
-
-### 2026-05-30 04:21:24  #國際
-
-美國製裁多名與伊朗有關聯的人員。
-
----
-
-### 2026-05-30 04:19:40  #國際
-
-一名政府官員透露，美國國家情報總監圖爾西・加巴德今日現身白宮戰情室，參與特朗普總統有關伊核協議的會議。
-
----
-
-### 2026-05-30 04:19:31  #國際
-
-根據美國證券交易委員會備案檔案：Meta Platforms股東選舉包括馬克·扎克伯格在內的十二名董事進入董事會，任期至下一屆年度股東大會。
-
----
-
-### 2026-05-30 04:18:50  #國際
-
-根據SEC檔案：Meta股東否決針對H-1B簽證專案反美歧視風險的提案。
-
----
-
-### 2026-05-30 04:18:17  #公司
-
-根據SEC檔案：Meta公司股東否決了要求釋出人工智慧資料使用監督報告的提案。
-
----
-
-### 2026-05-30 04:18:10  #公司
-
-根據SEC檔案：Meta股東否決關於雙層股權結構的提案。
-
----
-
-### 2026-05-30 04:16:21  #央行 #國際
-
-美聯儲：美國上週銀行存款19.285萬億美元，之前一週19.279萬億美元。
-
----
-
-### 2026-05-30 04:10:57  #市場
-
-標普500指數的11個板塊普遍收跌，日用消費品板塊收跌2%，電信板塊跌1.7%，能源板塊跌1.07%，可選消費板塊跌1.05%，金融板塊則收漲0.56%，資訊科技/科技板塊漲1.87%。
-
----
-
-### 2026-05-30 04:10:46  #公司 #國際
-
-城堡集團針對美國證券交易委員會批准某交易平臺的異議申訴失敗。
-
----
-
-### 2026-05-30 04:07:54  #國際
-
-伊朗官員向半島電視臺表示，美方談判人員毫無道德底線，且不斷變更訴求。
-
----
-
-### 2026-05-30 04:06:58  #其他
-
-標普確認拉脫維亞“A/A-1”評級；展望穩定。
-
----
-
-### 2026-05-30 04:06:05  #其他
-
-【科技行業ETF收漲超2.2%，領跑美股行業ETF，5月半導體ETF累漲超66%】週五（5月29日），科技行業ETF收漲2.23%，全球科技股指數ETF、網路股指數ETF至少漲1.61%，半導體ETF則收跌0.15%，可選消費ETF跌0.97%，能源業ETF跌1.11%。1-5月，半導體ETF累漲66.31%，全球科技股指數ETF、科技行業ETF、能源業ETF至少漲26.79%，醫療業ETF則累跌3.05%，金融業ETF跌5.34%。
-
----
-
-### 2026-05-30 04:05:14  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) shares closed up nearly 33%.
-
----
-
-### 2026-05-30 04:05:04  #其他
-
-標普：確認南非外幣評級“BB”，本幣評級“BB+”；展望維持正面。
-
----
-
-### 2026-05-30 04:04:53  #其他
-
-標普確認南非評級；展望正面。
-
----
-
-### 2026-05-30 04:04:32  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-May 29 (Friday) — U.S. equities closed higher: the Dow Jones Industrial Average rose 363.49 points (+0.72%) to 51,032.46; the S&P 500 gained 16.45 points (+0.22%) to 7,580.08; the Nasdaq Composite added 55.15 points (+0.20%) to 26,972.62.
-
----
-
-### 2026-05-30 04:04:18  #MKT News #Market Regions #Europe & UK
-
-S&P affirms Hungary's BBB-/A-3 sovereign ratings; outlook negative. S&P affirms Lithuania's A/A-1 sovereign ratings; outlook stable.
-
----
-
-### 2026-05-30 04:03:52  #其他
-
-標普確認立陶宛“A/A-1”評級；展望穩定。
-
----
-
-### 2026-05-30 04:03:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Post Strong Monthly Gains — US equities rose to record highs on Friday as markets gauged the sustainability of the AI rally and assessed the outlook of oil supply from the Middle East and its impact on inflation. The S&P 500 and Nasdaq each rose 0.2%, while the Dow Jones gained 0.8%. On a monthly basis, the Nasdaq jumped around 8%, the S&P 500 advanced 5%, and the Dow rose 2%. Reports indicated yesterday that the US and Iran have agreed to a 60-day memorandum that would extend the ongoing ceasefire and start the progress of restoring vessel flows through the Strait of Hormuz, although President Trump has not yet signed-off on the deal. Energy prices and bond yields retreated to deliver broad, although muted, support to the stock market. The financial and consumer defensive sectors were cautiously higher. Microsoft gained 5.4% and Oracle rose over 10%, with AI software supported by a new investment round in Anthropic. Also, Dell surged over 30% as its AI server business boosted its latest guidance.
-
----
-
-### 2026-05-30 04:02:49  #其他
-
-標普：確認匈牙利“BBB-/A-3”評級；展望負面。
-
----
-
-### 2026-05-30 04:02:34  #市場
-
-AST SPACEMOBILE 股票下跌 15%，創下自 2 月 12 日以來最大單日跌幅。
-
----
-
-### 2026-05-30 04:02:30  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #Alibaba #S&P500 #Impact bullish #Dow #IBM.N
-
-【US close: S&P 500 posts ninth straight weekly gain; major indexes tick higher】US stocks closed modestly higher on Friday: Dow Jones Industrial Average +0.72% (preliminary), S&P 500 +0.22%, Nasdaq Composite +0.20%. IBM (IBM.N) rose more than 12%, Oracle (ORCL.N) gained over 10% and Qualcomm (QCOM.O) climbed over 3%. The Nasdaq Golden Dragon China Index was flat; Baidu (BIDU.O) +2.4%, Alibaba (BABA.N) -1.5%. For the month the S&P 500 advanced 5.15%, the Nasdaq 8.36% and the Dow 2.78%. The S&P 500 extended its weekly winning streak to nine weeks, the longest run since December 2023.
-
----
-
-### 2026-05-30 04:02:24  #公司
-
-蓋璞股價收跌16%，創近一年來最大跌幅，此前該公司下調了業績預期。
-
----
-
-### 2026-05-30 04:01:30  #市場
-
-標普500指數錄得連續第九週上漲，為2023年12月以來最長連漲週期。
-
----
-
-### 2026-05-30 04:01:06  #市場
-
-REPLIMUNE股價收盤上漲86%，創2025年10月以來最大漲幅。
-
----
-
-### 2026-05-30 04:00:45  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.72%，標普500指數漲0.22%，納指漲0.25%。戴爾漲32.64%，美國網存漲22.26%，Atlassian漲15.47%，現在服務漲14.60%，IBM漲12.91%，慧與漲12.80%。“七姐妹”方面：微軟漲5.39%，蘋果跌0.12%，Meta Platforms跌0.40%，英偉達跌1.14%，亞馬遜跌1.20%，特斯拉跌1.48%，谷歌跌2.52%。
-
----
-
-### 2026-05-30 04:00:33  #市場
-
-5月份，標普累漲約5.3%，道指累漲2.7%，納指累漲8.3%。
-
----
-
-### 2026-05-30 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.01%】億咖通科技漲13.33%，Tims中國漲7.57%，海天網路漲7.21%，360數科漲4.49%，名創優品漲3.18%。
 
 ---

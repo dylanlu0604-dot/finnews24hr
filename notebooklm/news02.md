@@ -1,7 +1,244 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-05 01:38:16_
-_本檔包含 4067 則快訊，約 715751 字_
+_更新時間：2026-06-05 02:17:20_
+_本檔包含 4066 則快訊，約 716077 字_
+
+---
+
+### 2026-06-03 21:11:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Poland's central bank governor Glapinski said unrealised gains on the central bank's gold reserves were about PLN153 bln.
+
+---
+
+### 2026-06-03 21:11:04  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Poland's central bank governor Glapinski confirmed a gold reserves target of 700 tonnes.
+
+---
+
+### 2026-06-03 21:10:43  #公司
+
+【貴州六盤水農商行獲批籌建】6月3日，國家金融監督管理總局貴州監管局官網披露了關於籌建貴州六盤水農村商業銀行股份有限公司（以下簡稱“貴州六盤水農商銀行”）的批覆，同意籌建貴州六盤水農商銀行。（中國證券報）
+
+---
+
+### 2026-06-03 21:10:40  #MKT News
+
+Polish central bank governor Glapinski said the country's gold reserves rose to 613 tonnes.
+
+---
+
+### 2026-06-03 21:10:06  #央行 #市場 #國際
+
+波蘭央行格拉平斯基：波蘭黃金儲備增至613噸。
+
+---
+
+### 2026-06-03 21:10:05  #MKT News
+
+Fox News: U.S. House Majority Leader Steve Scalise said he does not know what the outcome of the Iran war-powers vote will be and that many now believe the conflict is moving toward a peaceful outcome.
+
+---
+
+### 2026-06-03 21:09:32  #MKT News
+
+【BDI falls as capesize and panamax rates slide】Baltic Dry Index (BDI) fell 81 pts (2.5%) to 3,124 on Wednesday, pressured by weaker capesize and panamax rates. Capesize index dropped 206 pts (3.8%) to 5,253; capesize daily earnings fell $1,870 to $44,138. Panamax index declined 31 pts to 2,290; panamax daily earnings fell $282 to $20,607. Supramax index rose 6 pts to 1,583.
+
+---
+
+### 2026-06-03 21:09:29  #國際
+
+美國農業部表示，2026/27年度將向韓國出售13.6萬噸玉米。
+
+---
+
+### 2026-06-03 21:09:05  #其他
+
+市場訊息：英國西南部海軍直升機墜毀事件造成三人遇難。
+
+---
+
+### 2026-06-03 21:09:00  #觀點
+
+市場訊息： 摩根士丹利擬啟用智慧代理調取股票交易平臺資料 。
+
+---
+
+### 2026-06-03 21:08:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Ease After Record High — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday after the benchmark reached a record high in the previous session, as a fresh exchange of strikes between the US and Iran dampened hopes for a peace deal. Oil prices rose amid renewed doubts over the prospects of an agreement that could reopen the Strait of Hormuz, reviving concerns about energy-driven inflation and higher borrowing costs. Meanwhile, gold prices declined, pressuring mining stocks. In corporate news, Shopify announced that its board had approved an additional $3 billion share repurchase program. On the trade front, Canada's minister responsible for Canada-US trade, Dominic LeBlanc, said talks with US officials on the review of the countries' free trade agreement were constructive, though he provided few details on the discussions.
+
+---
+
+### 2026-06-03 21:08:46  #MKT News #Market Themes #AI Revolution #MS.O
+
+CNBC reports Morgan Stanley will allow AI agents to extract data from its equities platform.
+
+---
+
+### 2026-06-03 21:08:28  #國際
+
+市場訊息：美國眾議院多數黨領袖斯卡利斯就伊朗戰爭權力表決表示，我不知道結果將如何，現在有很多人認為（這場戰爭）正朝著和平方向發展。
+
+---
+
+### 2026-06-03 21:08:11  #市場 #國際
+
+【油價因美伊最新軍事交火而上漲】在美國和伊朗進一步交火後，原油期貨連續第三個交易日上漲，這讓人們對很快達成重新開放霍爾木茲海峽的協議的可能性產生更多懷疑。Ritterbusch & Associates在一份報告中表示，最新一輪襲擊增加了風險溢價，並使停火“幾乎毫無意義“。該機構補充說，整個夏季油價仍有望保持高位，“特別是考慮到美國總統特朗普的最新言論，即美國對霍爾木茲海峽的封鎖可能會持續到勞工節“。西得州中質油上漲2.5%，報每桶96.13美元；布倫特原油上漲2.3%，報每桶98.19美元。
+
+---
+
+### 2026-06-03 21:07:34  #國際
+
+英國外交、聯邦及發展事務部不再建議除必要事務外完全避免前往約旦，但仍建議不要前往距離敘利亞邊境3公里以內的地區。
+
+---
+
+### 2026-06-03 21:07:16  #MKT News
+
+The UK's Foreign, Commonwealth and Development Office said it no longer advises avoiding all but essential travel to Jordan, but continues to advise against travel to areas within 3 km of the Syrian border.
+
+---
+
+### 2026-06-03 21:07:01  #其他
+
+萊茵金屬：交易將於第四季度完成交割，仍需滿足若干前提條件。
+
+---
+
+### 2026-06-03 21:06:11  #其他
+
+路透調查：巴西雷亞爾未來6個月將貶值3.7%，至1美元兌5.20雷亞爾；未來12個月將貶值5.5%，至1美元兌5.30雷亞爾，5月調查時的預期為1美元兌5.25雷亞爾。墨西哥比索未來12個月將貶值3.6%，至1美元兌17.92比索，5月調查時的預期為1美元兌17.87比索。
+
+---
+
+### 2026-06-03 21:06:01  #MKT News #Market Regions #Emerging Markets #USDBRL #Impact bullish #USDMXN #DXY
+
+REUTERS SURVEY: The Brazilian real is expected to weaken 3.7% over six months to 1 USD = 5.20 BRL and 5.5% over 12 months to 1 USD = 5.30 BRL (May survey: 1 USD = 5.25 BRL). The Mexican peso is expected to weaken 3.6% over 12 months to 1 USD = 17.92 MXN (May survey: 17.87).
+
+---
+
+### 2026-06-03 21:05:47  #國際
+
+【阿曼外交部對針對巴林和科威特的襲擊表示譴責】阿曼外交部發布宣告，對針對巴林王國和科威特的襲擊表示譴責和強烈抗議，重申堅決反對任何可能破壞地區安全與穩定的軍事行為，特別是針對民用和關鍵設施的攻擊，這構成了對國際法的侵犯，並威脅到平民的安全。 阿曼還表示對巴林王國和科威特的全力支援，支援它們為維護自身安全與穩定、保護主權和領土完整所採取的措施。 阿曼重申呼籲各方保持克制，避免升級，尋求對話和外交手段來解決危機與爭端，以促進地區安全與穩定，避免地區進一步緊張和負面影響。
+
+---
+
+### 2026-06-03 21:05:35  #MKT News
+
+【Oman foreign ministry condemns attacks on Bahrain and Kuwait】Oman's foreign ministry issued a statement condemning and strongly protesting attacks on the Kingdom of Bahrain and Kuwait. It reiterated opposition to any military action that could undermine regional security and stability, particularly strikes on civilian and critical infrastructure, calling such acts violations of international law and a threat to civilian safety. Oman expressed full support for Bahrain and Kuwait in safeguarding their security, sovereignty and territorial integrity, and urged all parties to exercise restraint, avoid escalation and seek dialogue and diplomacy to resolve the crisis and prevent further regional tension.
+
+---
+
+### 2026-06-03 21:04:58  #公司
+
+萊茵金屬股份公司<RHMG.DE>：自去年以來，該集團已就其民用業務與潛在買家展開洽談，目前洽談已順利完成，已簽署協議將該業務出售給Aequita私募股權投資公司。
+
+---
+
+### 2026-06-03 21:04:49  #Trading Economics #Markets #South Africa #Currency #Importance 0
+
+South African Rand Stays Near 3-Month Highs — The South African rand eased slightly to around 16.3 per USD, amid a firming dollar and falling prices of key precious metals, particularly gold and PGMs. Still, the currency stays near the highest level since March, supported by strong export revenues, fiscal discipline, and the central bank's credibility. The rand is also benefiting from favourable interest rate differentials, as South Africa’s elevated rates contrast with stable US monetary policy. The South African Reserve Bank raised the repo rate by 25 bps to 7% on May 28, its first hike since May 2023, in response to elevated geopolitical risks, higher fuel and food costs, and concerns over second-round inflation effects. The move reinforced the SARB’s commitment to anchoring inflation expectations and maintaining price stability. Meanwhile, markets are pricing in a higher probability of another rate hike, with July seen as a possible timing.
+
+---
+
+### 2026-06-03 21:04:37  #MKT News
+
+ANTHROPIC launches Service Tracking and Partner Center.
+
+---
+
+### 2026-06-03 21:04:35  #其他
+
+Anthropic ：正式上線服務通道與合作伙伴中心。
+
+---
+
+### 2026-06-03 21:03:50  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【IAEA: Risk of Iran secretly developing nuclear weapons higher than a year ago, report links rise to US‑Israel strikes】Western officials say the IAEA’s latest data warn the risk of Iran clandestinely developing nuclear weapons is higher now than a year ago, when the US and Israel launched their first military strikes. The report flags Iran’s large near‑weapons‑grade uranium stockpile as creating new proliferation dangers. Before the 12‑day war that began June 2025 the material was inspected weekly by the IAEA; it now spends longer outside IAEA oversight. Two senior diplomats familiar with the report said it attributes these new nuclear problems to the US‑Israel war and warns that the longer nuclear material remains beyond IAEA control, the higher the risk of diversion to non‑peaceful uses.
+
+---
+
+### 2026-06-03 21:03:45  #市場
+
+【國內期貨夜盤開盤 低硫燃料油漲逾2%】國內期貨夜盤開盤，低硫燃料油、菜油漲逾2%，原油、液化石油氣、焦煤、燃油、丙烯、苯乙烯、甲醇、瀝青漲逾1%。
+
+---
+
+### 2026-06-03 21:02:42  #國際
+
+【卡達首相與沙特外交大臣通電話 討論地區局勢】當地時間6月3日，卡達首相兼外交大臣穆罕默德與沙特外交大臣費薩爾通電話，雙方就進一步深化雙邊合作以及地區局勢發展交換了意見。雙方重點討論了在巴基斯坦斡旋下，正在推進的美國與伊朗談判進展。穆罕默德表示，各方應以建設性態度參與當前的調解，透過對話與外交途徑推動問題解決。他強調，對話與外交是化解危機根源、達成持久協議、防止地區局勢進一步升級的關鍵途徑。（央視新聞）
+
+---
+
+### 2026-06-03 21:02:38  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Qatar PM, Saudi foreign minister discuss US-Iran talks and regional tensions】On June 3, Qatar’s prime minister and foreign minister Mohammed held a phone call with Saudi foreign minister Faisal, focusing on progress in US-Iran negotiations being advanced under Pakistani mediation. Mohammed urged constructive engagement, saying dialogue and diplomacy are essential to resolving the crisis, securing a durable agreement and preventing further regional escalation.
+
+---
+
+### 2026-06-03 21:02:24  #國際
+
+美國農業部：出口商向韓國售出13.6萬公噸玉米，交貨期為2026/2027年度。
+
+---
+
+### 2026-06-03 21:02:10  #公司
+
+德勤與谷歌雲及Wiz合作，推出人機協作的人工智慧網路防禦系統。
+
+---
+
+### 2026-06-03 21:02:06  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish
+
+Deloitte teams with Google Cloud and Wiz to launch a human-in-the-loop, AI-driven cyber defense system.
+
+---
+
+### 2026-06-03 21:01:57  #公司 #市場
+
+【東百集團：完成董事會換屆 聘任多位高管及顧問】東百集團公告稱，6月3日完成董事會換屆選舉，第十二屆董事會第一次會議選舉施文義為董事長，同時聘任其為總裁。會議還確定了各專門委員會組成，聘任林建興、黃金喜、徐鴻亮為副總裁，林建興兼任財務總監，劉海芬為董事會秘書，林雨茜為證券事務代表。此外，公司同意聘任何相國為高階顧問，服務期限一年，費用100萬元/年。
+
+---
+
+### 2026-06-03 21:00:31  #其他
+
+雷神技術（RTX）斬獲價值 5.15 億美元的 SPY-6 系列雷達專案合同。
+
+---
+
+### 2026-06-03 21:00:30  #市場 #焦點
+
+焦煤連續主力合約日內漲2%，現報1399.50元。
+
+---
+
+### 2026-06-03 21:00:22  #MKT News #Important #Commodities #Energy #Industrial Metals #Precious Metals #WTI #Impact bullish #Brent
+
+At the open of the night session, China domestic futures main contracts were mostly higher. Low-sulfur fuel oil (LU) and rapeseed oil rose over 2%; SC crude oil, LPG, coking coal, fuel oil, propylene and styrene (EB) gained more than 1%. On the downside, SHFE silver, tin and nickel slipped over 1%, while SHFE aluminum and corn fell about 1%.
+
+---
+
+### 2026-06-03 21:00:03  #市場
+
+【國內期貨夜盤開盤】碳酸鋰連續跌4.08%，多晶矽連續跌3.46%，菜油連續漲2.01%，低硫燃料油連續漲1.98%，生豬連續漲1.89%。
+
+---
+
+### 2026-06-03 21:00:01  #公司 #市場 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨漲跌不一，道指期貨跌0.36%，標普500指數期貨跌0.16%，納指期貨漲0.08%。
+②德國DAX指數跌0.87%，英國富時100指數跌0.25%，法國CAC40指數跌0.38%，歐洲斯托克50指數跌0.69%。
+③WTI原油漲2.63%，報96.23美元/桶。布倫特原油漲2.38%，報98.28美元/桶。
+④特朗普稱對伊朗海上封鎖或持續至9月。 
+⑤歐盟委員會提出了一個所謂的“技術主權”方案，以減少對美科技巨頭的依賴。其中包含一系列針對各類技術基礎設施的政策，涵蓋從半導體到雲服務、資料中心以及人工智慧等多個領域。
+⑥美國5月ADP新增就業12.2萬人，創16個月新高。
+⑦英特爾盤前漲7.8%，此前該股已連續五個交易日下跌，英特爾新處理器Xeon 6 Plus亮相，進軍AI整機櫃市場。
+⑧邁威爾盤漲超29%，英偉達CEO黃仁勳在臺北國際電腦展稱邁威爾科技將成為下一個萬億美元公司。
+⑨美國資產管理商股價盤前下跌，此前瑞士合眾集團對其86億美元私募股權基金實施了贖回限制。KKR股價下跌3.9%，The Blackstone Group股價下跌3.7%，Blue Owl投資下跌1.5%，Ares Management2.2%，Carlyle Group下跌1.1%。
 
 ---
 
@@ -24262,239 +24499,5 @@ Uganda's Ministry of Health confirmed six new Ebola cases.
 ### 2026-06-02 19:20:39  #Trading Economics #Markets #Zambia #currency #Importance 0
 
 Zambia Kwacha Hits 34-month High — The Zambia Kwacha touched 18.07 against the USD, the highest since July 2023. Over the past 4 weeks, Zambia Kwacha lost 2.8%, and in the last 12 months, it decreased 32.09%.
-
----
-
-### 2026-06-02 19:20:31  #其他
-
-【渤海首個千億方大氣田Ⅱ期開發專案主體結構建造完成】6月2日，渤中19-6氣田Ⅱ期開發專案3座平臺主體結構在海油工程天津智慧製造基地建造完成，標誌著渤海首個千億方氣田Ⅱ期開發專案進入加速建設階段。 渤中19-6氣田位於渤海中部海域，已探明天然氣地質儲量超2000億立方米、石油地質儲量超2億立方米，是我國東部第一個大型、整裝的千億方大氣田。Ⅰ期開發專案於2023年11月投產，Ⅱ期開發專案計劃新建3座井口平臺、3座導管架。（新華社）
-
----
-
-### 2026-06-02 19:20:04  #MKT News
-
-Bank of Israel Governor YARON said falling inflation expectations support a more expansionary monetary policy and allow an accelerated pace of easing.
-
----
-
-### 2026-06-02 19:19:50  #公司
-
-【*ST椰島：董事會秘書王之明因工作調整辭職】*ST椰島公告稱，公司董事會於2026年6月1日收到董事會秘書王之明的書面辭職報告，因工作調整，其申請辭去該職務，辭任後不再擔任公司任何職務。其辭職報告自送達董事會之日起生效，不會影響董事會正常運作及公司日常經營。截至公告披露日，王之明未持有公司股份。在未聘任新董秘期間，由董事長段守奇代為履職，公司將盡快聘任新董秘。
-
----
-
-### 2026-06-02 19:19:34  #MKT News
-
-【DRC Ebola outbreak totals 321 confirmed cases】WHO reported on June 2 that the current Ebola outbreak in the Democratic Republic of the Congo has 321 confirmed cases and 116 suspected cases. The outbreak, caused by Bundibugyo ebolavirus, has resulted in 41 deaths. WHO said it will continue to support local surveillance, contact tracing and clinical care to prevent further spread.
-
----
-
-### 2026-06-02 19:19:28  #公司
-
-【浩通科技：控股股東夏軍等3名股東擬減持不超過3%股份】浩通科技公告，控股股東夏軍持8159.29萬股，佔36.8226%，2026年6月25日至9月24日擬透過集中競價、大宗交易減持不超664.74萬股，佔3.0000%；股東博通持37.49萬股，佔0.1692%，擬競價減持不超93600股，佔0.0422%；朱豐持11.03萬股，佔0.0498%，擬競價減持不超27500股，佔0.0124%。競價90日內不超1%，大宗交易不超2%。
-
----
-
-### 2026-06-02 19:19:23  #國際
-
-以色列銀行行長亞龍：隨著通脹預期下降，這為更具擴張性的貨幣政策以及更快推進政策寬鬆創造了有利條件。
-
----
-
-### 2026-06-02 19:19:18  #其他
-
-【杭州機場迎來新加坡航空入駐】根據航班計劃，新航杭州至新加坡航線計劃每日一班往返直飛，採用空客A350-900中程客機執飛，配備303個座位，包括40個商務艙及263個經濟艙。具體時刻為：進港航班號為SQ838，每日北京時間17:40從樟宜機場起飛，22:50抵達杭州；出港航班號為SQ839，每日00:10從杭州起飛，05:10抵達新加坡。
-
----
-
-### 2026-06-02 19:18:39  #其他
-
-【剛果（金）埃博拉疫情累計確診病例321例】世界衛生組織6月2日通報，剛果（金）本輪埃博拉疫情已累計確診321例病例，另有116例疑似病例。此次疫情由本迪布焦型埃博拉病毒引發，目前已造成41人死亡。世衛組織表示，將繼續支援當地疫情監測、病例追蹤和醫療救治工作，防止疫情進一步擴散。（央視新聞）
-
----
-
-### 2026-06-02 19:18:23  #國際
-
-世界衛生組織：歐盟與世衛組織加大行動應對埃博拉疫情爆發。歐盟撥款1500萬歐元用於應急行動、準備和預防。
-
----
-
-### 2026-06-02 19:18:00  #公司
-
-【強一股份：增加募投專案實施地點、主體並開立專戶】強一股份公告稱，公司首次公開發行股票募集資金淨額25.26億元，調整後的募投專案總投資額29.10億元，擬使用募集資金15.00億元。2026年4月24日，公司同意新增“中國（上海）自由貿易試驗區臨港新片區金橋臨港智薈園一期4幢1 - 2層”為實施地點。南通探針卡研發及生產專案擬新增強一股份為實施主體，新增“江蘇省蘇州市蘇州工業園區長陽街107號S9棟”為實施地點。董事會同意開立新增實施主體的募集資金專項賬戶。該事項已透過戰略委員會和董事會審議，保薦機構無異議。
-
----
-
-### 2026-06-02 19:17:45  #公司
-
-【唯科科技：員工持股平臺擬合計減持1%股份】唯科科技公告，公司員工持股平臺唯科投資、鹽城克比分別持股1512.8萬股、18.1萬股，合計佔比12.2165%，擬於15個交易日後起3個月內透過集中競價或大宗交易合計減持125.31萬股，佔1.0000%，其中唯科投資減持120.79萬股，佔0.9639%，鹽城克比減持45200股，佔0.0361%，減持原因為部分員工個人資金需求，股份來源為首次公開發行前已發行股份。
-
----
-
-### 2026-06-02 19:17:34  #公司
-
-【理奇智慧：擬用不超8億元閒置募集資金進行現金管理】理奇智慧公告稱，公司首次公開發行股票實際募資淨額8.19億元，因募投專案建設需一定週期，現階段募集資金出現部分閒置。公司擬使用不超8億元閒置募集資金進行現金管理，期限自2026年第一次臨時股東會審議透過之日起12個月內，資金可迴圈滾動使用。投資品種包括協定性存款等安全性高、流動性好且保本型產品。該事項已透過董事會、審計委員會審議，尚需股東會審議。
-
----
-
-### 2026-06-02 19:16:27  #宏觀 #市場 #國際
-
-【德商銀行：銅價上漲，市場等待本月美國關稅決定】在本月美國一項關鍵關稅決定公佈前，銅價上漲，倫敦金屬交易所(LME)期貨上漲0.6%，至每噸13,964.50美元。預計美國將就是否將進口關稅擴大至精煉銅做出決定。去年，對這類關稅的預期推高了LME的銅價，隨著美國買家在潛在的貿易限制出臺前增加銅庫存，收緊了美國境外的供應並支撐了價格。“出於對該決定的預期，COMEX的庫存已經再次上升，而LME的庫存則在明顯下降，”德國商業銀行的Thu Lan Nguyen表示。“未來幾周這種趨勢可能會加劇。”
-
----
-
-### 2026-06-02 19:15:46  #公司
-
-【英特爾陳立武：CPU需求持續增長，許多公司CEO來電要求更多供貨】6月2日，英特爾CEO陳立武在臺北電腦展上接受媒體採訪時表示，CPU需求越來越高，但供給受到限制，過去四周許多公司CEO打電話給他要更多的CPU，這對英特爾是一個機會。隨著智慧體AI的興起，再次提升中央處理器（CPU）重要性，CPU的需求將大量增加。陳立武在當天結束主題演講後，和全球媒體進行問答。對於CPU的發展趨勢，他指出，代理AI需要一些新的架構，在強化學習及編排上CPU非常重要，需求越來越高，這讓他們很興奮。陳立武說，供給確實受到限制，英特爾非常注重供應，確保能夠滿足客戶需求，讓客戶滿意。過去四周許多CEO打電話給他說要更多的CPU，他則請主管幫忙，希望能趕上客戶進度。（澎湃）
-
----
-
-### 2026-06-02 19:15:44  #MKT News #Market Themes #China EV Leaders #Copper #Impact bullish #Brent #Impact mixed
-
-【CPCA: May 2026 domestic new-energy passenger vehicles estimated wholesale/retail volume 1.36 mln units; YoY, MoM both >11%】CPCA data: In May 2026 estimated wholesale and retail volumes of domestic new-energy passenger vehicles reached 1.36 million units, up more than 11% YoY and MoM, marking double‑digit growth and initial signs of sector recovery. Shipping disruptions in the Strait of Hormuz prompted two domestic retail price hikes for refined fuels, lifting pump prices by about 400 yuan/ton cumulatively; higher operating costs for gasoline vehicles are weighing on ICE demand and keeping the overall auto market under pressure while making new-energy vehicles the primary growth driver.
-
----
-
-### 2026-06-02 19:15:09  #公司
-
-【挖金客：擬出資4900萬元設立參股子公司佈局AI算力業務】挖金客(301380.SZ)公告稱，公司與北京康惠智創科技有限公司簽訂合作協議，共同出資設立北京惠金智創科技有限公司，註冊資本1.4億元。其中，挖金客認繳出資4900萬元，持股35%；康惠智創認繳出資9100萬元，持股65%。合資公司將聚焦AI算力專案運營，旨在藉助合作方資源快速切入人工智慧算力新基建領域，培育新增長點。本次投資不構成關聯交易或重大資產重組，短期內不會對經營業績產生重大影響。
-
----
-
-### 2026-06-02 19:14:58  #國際
-
-以色列國防軍發言人：以軍持續在黎巴嫩南部開展行動，第 91 師配合空軍打擊黎巴嫩真主黨武裝人員及其相關設施。
-
----
-
-### 2026-06-02 19:14:52  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-CPCA said Tesla sold 85,982 vehicles in China in May.
-
----
-
-### 2026-06-02 19:14:33  #公司 #國際
-
-Stellantis集團執行長表示：斯泰蘭蒂斯集團正著手解決歐洲產能過剩問題，解決方案包括共享工廠產能（例如雷恩工廠），以及對現有工廠投資生產新產品（例如米盧斯工廠）。
-
----
-
-### 2026-06-02 19:14:27  #公司
-
-特斯拉公司5月中國產汽車銷量為85982輛。
-
----
-
-### 2026-06-02 19:14:05  #行業 #市場
-
-【乘聯分會：2026年5月，國內車企新能源乘用車預估批售量達136萬輛，同比、環比均上漲超11%】據乘聯分會，2026年5月，國內車企新能源乘用車預估批售量達136萬輛，同比、環比均上漲超11%，實現同環比雙位數增長，新能源板塊復甦態勢初步顯現。受霍爾木茲海峽通航受阻影響，國內成品油零售價迎來兩輪上調，累計上調幅度接近400元/噸，燃油用車成本顯著抬升，壓制傳統燃油車消費需求，車市大盤整體承壓偏弱，新能源車成為市場的核心增長亮點。
-
----
-
-### 2026-06-02 19:14:01  #市場 #國際
-
-【分析：市場情緒改善，釋放美伊局勢進一步降溫的希望】天利投資的Anthony Willis在一份報告中表示，隨著市場評估美國和伊朗之間局勢進一步降溫的可能性（無論是透過達成更廣泛的協議還是延長停火），投資者情緒已經改善。這位高階經濟學家表示，油價走低“表明市場更加看重近期供應風險開始消退的情境”。他說，這對更廣泛的市場很重要，因為油價下跌降低了衝突對通貨膨脹或增長預期造成的風險。Willis說：“目前，市場似乎願意忽略近期的訊息面波動，這反映出一種觀點，即雙方可能正朝著一個更持久的框架邁進。”
-
----
-
-### 2026-06-02 19:13:02  #公司 #國際
-
-Stellantis集團執行長表示：全新STLA One平臺的競爭力將比當前架構高出20%，可使 Stellantis在歐洲市場實現與中國本土車企成本持平。
-
----
-
-### 2026-06-02 19:12:58  #資料 #央行 #國際
-
-【分析師：歐洲央行會議前歐元區通脹上升與評論相符】Validus Risk Management分析師Harry Woolman在一份報告中表示，5月份歐元區通脹上升幾乎證實了歐洲央行下週將加息。他說，過去兩週，由於能源價格衝擊帶來的通脹壓力逐漸傳導，決策者中支援加息的敘事日益增多。Woolman說，消費者非必需性支出的顯著放緩以及信貸條件收緊，促成了上個月的採購經理人指數(PMI)資料，該資料顯示經濟活動自2024年以來首次陷入萎縮區間。“因此，隨著滯脹擔憂加劇以及衝突的第二輪效應變得更加明顯，該央行料將面臨中期難題。”
-
----
-
-### 2026-06-02 19:12:38  #國際
-
-歐盟啟動飛往剛果（金）東部的人道主義空中援助通道。
-
----
-
-### 2026-06-02 19:12:21  #公司 #其他 #焦點
-
-【老虎國際：6月12日起，暫停存量投資者賬戶在中國境內所有品種的新開倉、加倉交易】老虎國際釋出通知稱，為落實2年集中整治期的行業監管要求，推動跨境證券業務規範發展，老虎國際將對存量投資者賬戶在中國境內的服務進行相應調整。自北京時間2026年6月12日起，針對在境內交易服務，暫停股票等所有品種的新開倉、加倉交易，僅支援賣出、平倉操作；針對在境內資金劃轉服務，暫停資金轉入，轉出功能保持正常，全力保障客戶資金安全。老虎表示，本次調整不會影響為存量投資者在境外提供服務，也不影響全體客戶現有資產安全，客戶可正常查詢賬戶、持有及賣出已有持倉。
-
----
-
-### 2026-06-02 19:12:07  #公司
-
-【必得科技：董事夏幫華擬減持0.0065%股份】必得科技公告，公司董事夏幫華持有85400股，佔0.0455%，計劃2026年6月25日～2026年9月24日透過集中競價減持不超12200股，佔其持股14.29%、佔公司總股本0.0065%。
-
----
-
-### 2026-06-02 19:12:04  #MKT News
-
-WHO: EU allocates EUR 15 million for emergency operations, preparedness and prevention.
-
----
-
-### 2026-06-02 19:11:36  #市場
-
-維多利亞的秘密股價盤前漲幅擴大，最高上漲47%。
-
----
-
-### 2026-06-02 19:11:22  #其他
-
-到2035年，斯泰蘭蒂斯將基於全新STLA One平臺實現年產200萬輛汽車。
-
----
-
-### 2026-06-02 19:11:20  #公司 #其他
-
-【獨家｜今世緣百億品牌擬年內推出重磅單品“三開”，時隔22年補足空白價格帶】新浪財經《酒業內參》獨家獲悉，今世緣旗下的百億營收品牌“國緣”，擬於年內推出重磅大單品“三開”。該產品將補足“國緣”在300元-400元的空白價格帶，整體地位位於核心產品對開與四開之間。（酒業內參）
-
----
-
-### 2026-06-02 19:11:11  #公司
-
-【景谷林業：周大福投資擬轉讓10.02%股份 交易尚不確定】景谷林業公告稱，周大福投資回覆問詢函表示，2026年5月25日其擬透過協議轉讓方式向弈豐1號和北耀1號合計轉讓1300萬股，佔公司總股本的10.02%，轉讓價款2.49億元。本次交易需基金完成備案等手續、上交所確認合規後方能過戶，存在不確定性。兩支基金對公司經營業績影響小，公司仍聚焦林板材主業。此外，異常波動期間，周大福投資及實控人無買賣公司股票情況。
-
----
-
-### 2026-06-02 19:11:08  #公司 #市場
-
-【*ST景谷：股價異常波動 提示多項風險】*ST景谷公告稱，5月29日至6月2日，公司股票連續3個交易日內日收盤價格漲幅偏離值累計超12%，觸及異常波動標準。自5月26日起已連續6個交易日漲停，漲幅偏離值累計達35.88%。公司提醒，股價偏離基本面，存在下跌風險。2025年營收1.95億元，淨虧損2.46億元；2026年一季度營收3003.82萬元，淨虧損104.85萬元，存在退市風險。控股股東擬轉讓1300萬股（佔總股本10.02%），轉讓價款2.49億元，能否完成存在不確定性。
-
----
-
-### 2026-06-02 19:10:51  #MKT News
-
-WHO says the EU and WHO are stepping up action to respond to an Ebola outbreak.
-
----
-
-### 2026-06-02 19:10:42  #其他
-
-【城堡準備付費從其他對沖基金收集交易洞見 再將其納入自身量化策略】隨著業內巨頭爭奪市場資料和更多資金部署渠道，肯·格里芬的城堡投資正準備推出一項新計劃，支付一定費用向其他對沖基金收集交易洞見，並將這些資訊納入自身量化策略。據知情人士透露，這項新的買方“阿爾法捕捉”(alpha capture)專案將設在城堡的全球量化策略業務之下。由於所涉資訊未公開，知情人士要求匿名。其中一位知情人士補充說，該專案將從具備業績記錄的外部主觀交易管理人那裡收集交易訊號。
-
----
-
-### 2026-06-02 19:10:19  #其他
-
-Camtek獲一家一級封測代工廠（OSAT）及一家領先高頻寬記憶體（HBM）製造商授予的逾1.05億美元多套裝置訂單。
-
----
-
-### 2026-06-02 19:09:17  #宏觀
-
-【“宏志助航計劃”暨困難群體就業幫扶工作交流推進會召開】近日，教育部在華中科技大學召開“宏志助航計劃”暨困難群體就業幫扶工作交流推進會，深入學習貫徹習近平總書記關於困難群體畢業生就業幫扶的重要指示批示精神，推動“宏志助航計劃”擴容提質，幫助更多困難群體畢業生提升求職能力，以紮實舉措兜牢困難幫扶底線，全力促進2026屆高校畢業生高質量充分就業。教育部黨組成員、副部長熊四皓，財政部、全國總工會、共青團中央有關負責同志出席會議並講話。 會議指出，高校畢業生就業事關民生福祉、經濟發展和國家未來，困難群體畢業生是必須守牢的就業底線。要把困難群體就業幫扶作為重要的政治工作、民生工作、人才工作，深刻認識困難群體就業是鞏固脫貧攻堅成果、實現共同富裕的民生保障，是促進高質量充分就業、服務人才強國戰略的重要工作。（教育部）
-
----
-
-### 2026-06-02 19:08:54  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Ukraine: Russian overnight strikes kill 18, cause power outages across multiple regions】Russian strikes late on June 1 into the early hours of June 2 killed 18 people in Ukraine — 6 in Kyiv and 12 in Dnipro — and caused power cuts in parts of Kyiv, Dnipropetrovsk, Donetsk, Sumy, Zaporizhia, Kharkiv and Cherkasy, the Ukrainian Energy Ministry said by midday June 2. Kyiv was hardest hit, with dozens of residential buildings and civilian facilities damaged and a local energy firm's production site affected; crews are working to restore supply. Ukraine's State Emergency Service has deployed more than 500 personnel. President Zelenskiy said the attacks underscore Ukraine's urgent need for US Patriot missile systems.
-
----
-
-### 2026-06-02 19:08:43  #宏觀 #國際
-
-【歐盟出臺史上最強硬移民政策】據法新社6月1日報道，歐洲議會議員與歐盟各成員國1日晚達成協議，將收緊歐盟移民政策，包括可能在境外設立遣返中心以安置非法移民。 報道稱，該法律草案擬定了一系列旨在加速驅逐出境的措施，並允許有意願的成員國在歐洲以外設立遣返中心，用於安置庇護申請被駁回者。 這項折中方案於當晚達成，仍需在未來數週內由歐洲議會及各成員國最終表決。 丹麥、奧地利、德國等部分歐洲國家已開始考慮在盧安達、烏干達或烏茲別克等地選址設立此類中心。 建立這類與移民原籍國無關的“遣返樞紐”構想並非首次提出。梅洛尼領導的義大利此前在阿爾巴尼亞試行過，但遣返中心遭遇一連串司法挑戰，長期處於空置狀態。 歐盟各國還需時間與願意接納此類中心的第三國達成協議，方能推進這類計劃。 報道提到，法國對這類中心持懷疑態度，西班牙則明確反對，認為其對人權保障構成威脅。（參考訊息）
 
 ---

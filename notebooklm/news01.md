@@ -1,7 +1,559 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-05 01:38:16_
-_本檔包含 4064 則快訊，約 716203 字_
+_更新時間：2026-06-05 02:17:20_
+_本檔包含 4118 則快訊，約 717100 字_
+
+---
+
+### 2026-06-05 02:16:56  #國際
+
+俄羅斯總統普京：希望伊朗衝突各方能夠找到解決方案。
+
+---
+
+### 2026-06-05 02:16:09  #MKT News
+
+Putin said Russia maintains a relationship of trust with Iran and can help advance resolution of the crisis.
+
+---
+
+### 2026-06-05 02:16:08  #國際
+
+市場訊息：美國官員表示，自4月8日與伊朗達成停火協議以來，已有約1000艘船隻透過霍爾木茲海峽。
+
+---
+
+### 2026-06-05 02:16:04  #MKT News #WTI #Impact bearish #Brent
+
+U.S. officials told Al Jazeera that roughly 1,000 vessels have transited the Strait of Hormuz since a ceasefire with Iran was reached on April 8.
+
+---
+
+### 2026-06-05 02:15:59  #其他
+
+市場訊息：領英正採取舉措清理低質量、AI 批次生成的灌水內容。
+
+---
+
+### 2026-06-05 02:15:20  #國際
+
+市場訊息：美國官員表示，霍爾木茲海峽的航運通道保持暢通，但是否透過該海峽由船隻自行決定。
+
+---
+
+### 2026-06-05 02:15:17  #MKT News #WTI #Impact bearish #Brent
+
+Al Jazeera cited US officials saying the Strait of Hormuz shipping lanes remain open, but transit is at vessels' discretion.
+
+---
+
+### 2026-06-05 02:15:09  #公司 #市場
+
+Rumble股價在午後交易中上漲1.3%，該公司已與Together AI簽署協議，部署基於英偉達布萊克韋爾（NVIDIA Blackwell）架構的人工智慧算力即服務。
+
+---
+
+### 2026-06-05 02:14:55  #國際
+
+俄羅斯總統普京：俄羅斯與伊朗關係互信，我們有能力助力化解危機。
+
+---
+
+### 2026-06-05 02:14:27  #MKT News
+
+Putin said US President Trump’s peace proposal could serve as a basis for a peace agreement with Ukraine, but Trump still needs to persuade Kyiv.
+
+---
+
+### 2026-06-05 02:14:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD #Impact mixed
+
+Al Jazeera cited U.S. officials saying the ceasefire agreement with Iran remains in effect, but the U.S. will continue to protect its forces and impose a blockade on Iranian ports.
+
+---
+
+### 2026-06-05 02:13:07  #MKT News
+
+Putin said the Ukraine crisis is localized, while the Iran crisis has global implications.
+
+---
+
+### 2026-06-05 02:12:12  #國際
+
+俄羅斯總統普京：仍需說服烏克蘭。
+
+---
+
+### 2026-06-05 02:11:47  #MKT News
+
+Russian President Putin said Trump is sincerely seeking to resolve the Ukraine crisis.
+
+---
+
+### 2026-06-05 02:11:35  #國際
+
+俄羅斯總統普京：特朗普的和平提議可成為與烏克蘭達成和平協議的基礎。
+
+---
+
+### 2026-06-05 02:11:14  #其他
+
+Rumble：協議包含大規模部署英偉達 HGX B300 加速 GPU 叢集。
+
+---
+
+### 2026-06-05 02:11:02  #國際
+
+俄羅斯總統普京：烏克蘭危機是地區性危機，而伊朗危機是全球性危機。
+
+---
+
+### 2026-06-05 02:10:59  #MKT News
+
+Russian President Putin said only God knows whether he will remain healthy to serve out his presidential term and that he has not considered the next election.
+
+---
+
+### 2026-06-05 02:10:18  #國際
+
+俄羅斯總統普京：特朗普真心尋求解決烏克蘭危機。
+
+---
+
+### 2026-06-05 02:10:07  #其他
+
+Rumble：已簽訂協議，承諾採購英偉達 HGX™B300 算力資源。
+
+---
+
+### 2026-06-05 02:09:50  #國際
+
+俄羅斯總統普京：現在談論 2030 年總統大選為時過早。
+
+---
+
+### 2026-06-05 02:09:28  #國際
+
+俄羅斯總統普京：我不會去想下屆選舉的事。
+
+---
+
+### 2026-06-05 02:08:50  #國際
+
+俄羅斯總統普京：只有上帝知道我能否身體健康地完成本屆總統任期。
+
+---
+
+### 2026-06-05 02:08:42  #其他
+
+市場訊息：Rumble與Together AI簽署協議，推出搭載英偉達布萊克韋爾架構的人工智慧算力即服務。
+
+---
+
+### 2026-06-05 02:08:05  #MKT News
+
+Federal Reserve's Schmid said he believes AI could help revive rural areas by making it easier to start businesses in remote locations.
+
+---
+
+### 2026-06-05 02:07:33  #國際
+
+市場訊息：伊朗外長阿拉格齊表示，伊朗有能力維持戰爭，但不尋求戰爭。
+
+---
+
+### 2026-06-05 02:07:30  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Lebanese broadcaster Al-Mayadeen quoted Iranian foreign minister Araghchi saying Iran has the capacity to sustain a war but does not seek one.
+
+---
+
+### 2026-06-05 02:07:09  #國際
+
+美國國家運輸安全委員會表示，5月3日執飛的美聯航航班在紐瓦克機場附近飛行時撞到一根位於地面上方15英尺處的燈杆。
+
+---
+
+### 2026-06-05 02:06:29  #央行 #國際
+
+美聯儲施密德認為，人工智慧能夠助力鄉村地區實現復興，因為藉助人工智慧，人們可以更便捷地在偏遠地區創業。
+
+---
+
+### 2026-06-05 02:05:57  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Schmid said intuitively that when roughly one-seventh of U.S. federal spending is absorbed by interest payments, a solution is required.
+
+---
+
+### 2026-06-05 02:05:55  #MKT News
+
+Putin says Russia's economy is getting back on track.
+
+---
+
+### 2026-06-05 02:05:35  #MKT News #Market Regions #Europe & UK
+
+【Putin says Russia will not refuse dialogue with Europe】On the 4th in St. Petersburg, Putin told leaders of major news agencies Russia will not refuse dialogue with Europe. He said it is not “evil Russia” cutting energy supplies but Europe refusing to buy Russian energy and seeking Russia’s collapse. Putin added Moscow will only negotiate with counterparts it trusts and does not trust those who insist Russia must suffer a strategic defeat; he added in German, “That’s the point.”
+
+---
+
+### 2026-06-05 02:05:28  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed official Schmid said that although US debt levels are high, the spending measures taken to address existential events such as the 2008 financial crisis and the 2020 pandemic are difficult to fault in hindsight.
+
+---
+
+### 2026-06-05 02:05:27  #國際
+
+藍色起源在發射臺爆炸事故後，仍有資格獲得認證，可與SpaceX競爭美國軍方航天發射專案。
+
+---
+
+### 2026-06-05 02:05:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+Putin said Russia will find someone on the Ukrainian side to sign a peace agreement and will sign with legitimate representatives, possibly including Zelensky.
+
+---
+
+### 2026-06-05 02:04:46  #市場
+
+【LME金屬期貨收盤漲跌不一】LME金屬期貨收盤漲跌不一。倫鋁收跌0.74%，報3670美元； 倫銅收漲0.96%，報13918美元； 倫鎳收跌0.96%，報18640美元； 倫鉛收跌0.25%，報2015.5美元； 倫錫收跌2.24%，報55950美元； 倫鋅收跌0.18%，報3597美元。
+
+---
+
+### 2026-06-05 02:04:27  #國際
+
+俄羅斯總統普京：扶持俄羅斯經濟的各項舉措已取得積極成效。
+
+---
+
+### 2026-06-05 02:03:52  #國際
+
+俄羅斯總統普京：俄羅斯經濟正重回正軌。
+
+---
+
+### 2026-06-05 02:02:33  #國際
+
+市場訊息：美國軍工企業Anduril Industries重心轉向為美軍開展規模化量產。
+
+---
+
+### 2026-06-05 02:02:26  #央行 #國際
+
+美聯儲施密德：從直覺上看，當聯邦支出每7美元中就有1美元用於支付利息時，就有必要拿出解決方案了。
+
+---
+
+### 2026-06-05 02:01:22  #公司
+
+Supabase：本輪融資由新加坡政府投資公司（GIC）領投，所有現有投資方均參與跟投，投資方包括Accel、Y Combinator、Craft Ventures、Felicis Ventures、Peak XV Partners以及Coatue。
+
+---
+
+### 2026-06-05 02:01:16  #國際
+
+俄羅斯總統普京：我們將與合法代表簽署協議，甚至可能與澤連斯基簽署。
+
+---
+
+### 2026-06-05 02:00:53  #國際
+
+【普京：俄羅斯不拒絕與歐洲對話】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄羅斯不拒絕與歐洲進行對話。他強調，並不是所謂“邪惡的俄羅斯”停止向歐洲供應能源，而是歐洲拒絕購買俄羅斯能源，並希望俄羅斯崩潰。普京說，歐洲與俄方談判的人選必須是俄方值得信任的人。俄方不信任那些堅持認為俄羅斯必須遭受戰略失敗的人。“這才是問題所在，”普京用德語補充道。（新華社）
+
+---
+
+### 2026-06-05 02:00:43  #宏觀 #央行 #國際
+
+美聯儲施密特：儘管債務高企，也很難對2008年和2020年為應對“生存性危機”事件出臺的支出舉措事後評斷。
+
+---
+
+### 2026-06-05 02:00:22  #其他
+
+市場訊息：Supabase以105億美元估值完成5億美元融資，以鞏固其在智慧體基礎設施領域的領先地位。
+
+---
+
+### 2026-06-05 01:58:17  #MKT News
+
+Putin said whether Zelensky is a legitimate president should be determined by legal experts.
+
+---
+
+### 2026-06-05 01:58:01  #公司 #國際
+
+印度政府公告：印度將允許向家庭臨時分配烹飪及照明用煤油的措施延長至2026年6月30日。
+
+---
+
+### 2026-06-05 01:57:54  #市場
+
+納斯達克綜合指數轉漲，標普500指數漲幅擴大至0.5%。
+
+---
+
+### 2026-06-05 01:57:12  #國際
+
+俄羅斯總統普京：澤連斯基是否為合法總統應由律師界定。
+
+---
+
+### 2026-06-05 01:55:19  #市場
+
+【韓元一度創2009年3月以來新低】週四（6月4日），韓元兌美元最終漲0.17%，報1532.53韓元。北京時間08:19，韓元漲至1523.12，隨後持續走低，15:19加速下挫，16:06跌至1540.67韓元，跌穿3月31日底部1537.11、逼近2009年3月10日底部1562.50、以及當年3月6日底部1597.45。
+
+---
+
+### 2026-06-05 01:55:15  #MKT News #Commodities #Energy
+
+Interfax reported Russia has sold part of its stake in Bashneft.
+
+---
+
+### 2026-06-05 01:54:30  #國際
+
+俄羅斯總統普京：與亞塞拜然的關係正朝著非常積極的方向發展，將與亞塞拜然總統阿利耶夫舉行會晤。
+
+---
+
+### 2026-06-05 01:54:20  #MKT News
+
+Putin says relations with Azerbaijan are developing in a very positive direction and he will meet Azerbaijani President Aliyev.
+
+---
+
+### 2026-06-05 01:53:50  #國際
+
+俄羅斯總統普京：亞塞拜然總統正致力於為與俄羅斯的戰略合作協議注入實質內容。
+
+---
+
+### 2026-06-05 01:53:48  #MKT News
+
+Putin said Azerbaijan’s president is working to add substance to the strategic cooperation agreement with Russia.
+
+---
+
+### 2026-06-05 01:53:33  #公司 #國際
+
+市場訊息：俄羅斯出售其持有的巴什石油部分股份。
+
+---
+
+### 2026-06-05 01:52:22  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Putin: control of Donbas not inconsistent with peace deal; says Russia controls Luhansk, 85% of Donetsk, 80% of Zaporizhzhia】In St. Petersburg on the 4th, Putin told heads of major global news agencies that controlling the Donbas and reaching a peace agreement with Ukraine are not mutually exclusive. He said Russia controls all of Luhansk, 85% of Donetsk and 80% of Zaporizhzhia.
+
+---
+
+### 2026-06-05 01:51:27  #焦點 #國際
+
+【普京：控制頓巴斯和與烏方達成和平協議不矛盾】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，控制頓巴斯地區和與烏克蘭達成和平協議並不矛盾。頓巴斯地區主要包括盧甘斯克和頓涅茨克兩地。普京表示，俄羅斯已經控制整個盧甘斯克地區、頓涅茨克地區85%的區域和扎波羅熱地區80%的區域。（新華社）
+
+---
+
+### 2026-06-05 01:50:02  #MKT News
+
+Putin said the EU can play a constructive role in pushing Ukraine to make concessions.
+
+---
+
+### 2026-06-05 01:49:56  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+Putin said Russia opposes the EU becoming a military bloc and described the prospect as worrisome.
+
+---
+
+### 2026-06-05 01:49:40  #公司 #國際
+
+俄羅斯總統普京： 俄羅斯反對歐盟發展成為軍事集團，這一趨勢令人擔憂。
+
+---
+
+### 2026-06-05 01:49:16  #國際
+
+俄羅斯總統普京：歐盟可在說服烏克蘭做出妥協方面發揮積極作用。
+
+---
+
+### 2026-06-05 01:48:09  #央行 #國際
+
+【舊金山聯儲行長稱貨幣政策處於良好狀態 但利率前景不明】舊金山聯儲行長瑪麗·戴利表示，當前貨幣政策處於良好狀態，但經濟面臨太多不確定性，因此難以判斷利率未來走向。“無論經濟如何發展，我們都做好了應對準備，”戴利週四在舊金山舉行的彭博科技大會上表示。“我認為對未來可能發生的情況給出更多前瞻性指引，最終可能會產生誤導，因為我們必須等待經濟形勢的發展。”外界普遍預計美聯儲官員將在6月16日至17日的下次議息會議上維持利率不變，這將是新任主席凱文·沃什主持下的首次會議。戴利還表示，儘管經濟資料尚未顯示人工智慧帶來明顯的生產力提升，但她依然看好這項技術的發展前景。“我們尚未看到廣泛的生產力提升，”戴利說。企業使用人工智慧所獲得的投資回報“仍有待顯現”，但企業對這項技術的熱情“極其高漲”。她說：“我相當看好。我看到了可能性，而且我聽到越來越多的人表示看到了初步回報，並真正意識到明年將是關鍵的一年。”
+
+---
+
+### 2026-06-05 01:47:22  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Putin said he believes Kyiv is not yet prepared to make concessions.
+
+---
+
+### 2026-06-05 01:47:02  #觀點
+
+市場訊息：高盛預估 SpaceX 八成資本開支將投向人工智慧領域。
+
+---
+
+### 2026-06-05 01:46:56  #觀點
+
+市場訊息：高盛預計 SpaceX 截至 2028 年資本開支達 3600 億美元。
+
+---
+
+### 2026-06-05 01:46:42  #國際
+
+普京談烏克蘭問題：我認為基輔並未準備好作出妥協。
+
+---
+
+### 2026-06-05 01:45:55  #央行 #其他
+
+紐約聯儲在6月4日的常備回購操作中全額接受了申報的300萬美元額度。
+
+---
+
+### 2026-06-05 01:45:51  #國際
+
+普京談烏克蘭問題：歐盟無法擔任調停者，但可提供協助。
+
+---
+
+### 2026-06-05 01:45:51  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Schmid: 2% inf target is easy to communicate; the Fed should not let that message become muddled.
+
+---
+
+### 2026-06-05 01:45:47  #觀點
+
+市場訊息：高盛預測至 2030 年 SpaceX 累計現金消耗將達 3500 億美元。
+
+---
+
+### 2026-06-05 01:45:35  #MKT News
+
+Putin says the EU cannot act as a mediator in Ukraine negotiations because mediation requires neutrality.
+
+---
+
+### 2026-06-05 01:45:18  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+【Putin says Russia willing to hold talks with Ukraine at US base in Anchorage】On the 4th, Putin said Russia is fully prepared to hold peace talks with Ukraine at the US military base in Anchorage, Alaska. He said Russia is prepared to accept the compromise reached by Russian and US leaders at their Anchorage meeting last August, but Kyiv must agree; if Kyiv accepts the Anchorage compromise, the Russia-Ukraine conflict would end quickly.
+
+---
+
+### 2026-06-05 01:44:54  #央行 #國際
+
+美聯儲施密德：2%的通脹目標易於傳達，美聯儲不應模糊這一核心表述。
+
+---
+
+### 2026-06-05 01:44:30  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's Schmid: The crux is whether the Fed needs to raise rates to 'suppress inf' and meet its inf target.
+
+---
+
+### 2026-06-05 01:44:06  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
+
+On the 4th, Putin told heads of major international news agencies at the 29th St. Petersburg International Economic Forum that China is developing strongly and is playing an increasingly important role in the global economy, world politics and international affairs.
+
+---
+
+### 2026-06-05 01:44:03  #焦點 #國際
+
+【普京：俄方願在美國安克雷奇與烏方談判】俄羅斯總統普京4日說，俄方完全準備好並願意在美國阿拉斯加州安克雷奇市的美軍基地與烏克蘭進行和平談判。 普京表示，俄方準備接受俄美領導人去年8月在安克雷奇會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。(新華社)
+
+---
+
+### 2026-06-05 01:43:32  #公司 #國際
+
+【沙烏地阿拉伯計劃到2040年將磷肥產量提高兩倍】沙烏地阿拉伯計劃到2040年將該國的磷肥產量提高至目前的三倍。此前爆發的伊朗戰爭以及霍爾木茲海峽的實際關閉，引發了外界對未來供應安全性的擔憂。沙烏地阿拉伯國家工業發展中心（NIDC）執行長Saleh Al-Solami在俄羅斯舉行的聖彼得堡國際經濟論壇上表示，該國的目標是到2040年生產1800萬噸磷質作物營養素（磷肥），而目前這一數字僅為600萬噸。
+
+---
+
+### 2026-06-05 01:43:09  #公司 #國際
+
+美國官方：藍源公司火箭爆炸事故後仍可參與太空發射專案競標。
+
+---
+
+### 2026-06-05 01:42:51  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Fed's Schmid: the key question is whether the Fed should continue to be patient on interest rates.
+
+---
+
+### 2026-06-05 01:42:47  #MKT News
+
+【Putin says strong personal ties between leaders underpin expansion of Russia‑China relations】On the 4th, meeting with heads of major global news agencies at the 29th St. Petersburg International Economic Forum, Putin said the good personal relationship between Russia's and China's heads of state provides a solid foundation for opening new prospects in bilateral ties.
+
+---
+
+### 2026-06-05 01:42:41  #焦點 #國際
+
+當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，中國發展強勁，在全球經濟、世界政治及國際事務中扮演著日益重要的角色。（新華社）
+
+---
+
+### 2026-06-05 01:42:34  #央行 #國際
+
+美聯儲施密德：問題在於美聯儲是否需要加息以“給當前局勢降溫”，並實現通脹目標。
+
+---
+
+### 2026-06-05 01:41:46  #央行 #國際
+
+美聯儲施密德：目前的核心問題是美聯儲是否應在利率問題上繼續保持耐心。
+
+---
+
+### 2026-06-05 01:41:22  #焦點 #國際
+
+當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄中兩國元首的良好關係是推動俄中關係不斷開闢新前景的堅實基礎。（新華社）
+
+---
+
+### 2026-06-05 01:40:19  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's Schmid said the biggest risk facing the economy currently is inflation.
+
+---
+
+### 2026-06-05 01:40:15  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Putin said Germany must decide whether to receive Russian gas via the Nord Stream pipeline; Russia is ready to resume supplies.
+
+---
+
+### 2026-06-05 01:40:13  #國際
+
+美國總統特朗普：看看加利福尼亞發生了什麼，民主黨人就在我們眼前偷取選票。我希望共和黨人正在關注此事，這樣他們才能最終透過《保護美國選民資格法》。
+
+---
+
+### 2026-06-05 01:40:08  #央行 #國際
+
+美聯儲施密德：通脹是經濟面臨的最大風險。
+
+---
+
+### 2026-06-05 01:39:59  #MKT News
+
+President Trump accused Democrats of stealing votes in California and said he hopes Republicans are paying attention so they can ultimately pass the Protect American Voter Eligibility Act.
+
+---
+
+### 2026-06-05 01:38:26  #國際
+
+俄羅斯總統普京：德國需就北溪管道的俄羅斯天然氣供應問題自行作出決定。我們已做好供應準備。
+
+---
+
+### 2026-06-05 01:38:14  #MKT News #Commodities #Energy
+
+Fed official Schmid said most of the higher payments for energy are being recycled within the US economy; how long elevated oil prices persist is the key question and depends largely on political factors.
 
 ---
 
@@ -24232,242 +24784,5 @@ Kuwait's foreign ministry summoned Iran's chargé d'affaires and declared two Ir
 ### 2026-06-03 21:11:39  #Trading Economics #Markets #Commodity #Importance 1
 
 Gold Approaches March-Lows — Gold prices fell below $4,500 per ounce on Wednesday, edging closer to the March lows touched last week, as expectations grew that central banks may need to adopt a more hawkish stance and keep interest rates higher for longer. Sentiment was also weighed by continued uncertainty over a US-Iran agreement to end the conflict. At the same time, oil prices extended their gains, further stoking concerns about inflationary pressures. In the US, recent labor market data point to an acceleration in employment growth, consistent with earlier ADP and JOLTS reports. As a result, markets now ECB is expected to raise borrowing costs next week, with traders also pricing in another 25-basis-point hike in September. Although gold is typically viewed as a hedge against inflation, it tends to lose appeal as a non-yielding asset when interest rates are high.
-
----
-
-### 2026-06-03 21:11:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Poland's central bank governor Glapinski said unrealised gains on the central bank's gold reserves were about PLN153 bln.
-
----
-
-### 2026-06-03 21:11:04  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Poland's central bank governor Glapinski confirmed a gold reserves target of 700 tonnes.
-
----
-
-### 2026-06-03 21:10:43  #公司
-
-【貴州六盤水農商行獲批籌建】6月3日，國家金融監督管理總局貴州監管局官網披露了關於籌建貴州六盤水農村商業銀行股份有限公司（以下簡稱“貴州六盤水農商銀行”）的批覆，同意籌建貴州六盤水農商銀行。（中國證券報）
-
----
-
-### 2026-06-03 21:10:40  #MKT News
-
-Polish central bank governor Glapinski said the country's gold reserves rose to 613 tonnes.
-
----
-
-### 2026-06-03 21:10:06  #央行 #市場 #國際
-
-波蘭央行格拉平斯基：波蘭黃金儲備增至613噸。
-
----
-
-### 2026-06-03 21:10:05  #MKT News
-
-Fox News: U.S. House Majority Leader Steve Scalise said he does not know what the outcome of the Iran war-powers vote will be and that many now believe the conflict is moving toward a peaceful outcome.
-
----
-
-### 2026-06-03 21:09:32  #MKT News
-
-【BDI falls as capesize and panamax rates slide】Baltic Dry Index (BDI) fell 81 pts (2.5%) to 3,124 on Wednesday, pressured by weaker capesize and panamax rates. Capesize index dropped 206 pts (3.8%) to 5,253; capesize daily earnings fell $1,870 to $44,138. Panamax index declined 31 pts to 2,290; panamax daily earnings fell $282 to $20,607. Supramax index rose 6 pts to 1,583.
-
----
-
-### 2026-06-03 21:09:29  #國際
-
-美國農業部表示，2026/27年度將向韓國出售13.6萬噸玉米。
-
----
-
-### 2026-06-03 21:09:05  #其他
-
-市場訊息：英國西南部海軍直升機墜毀事件造成三人遇難。
-
----
-
-### 2026-06-03 21:09:00  #觀點
-
-市場訊息： 摩根士丹利擬啟用智慧代理調取股票交易平臺資料 。
-
----
-
-### 2026-06-03 21:08:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Ease After Record High — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday after the benchmark reached a record high in the previous session, as a fresh exchange of strikes between the US and Iran dampened hopes for a peace deal. Oil prices rose amid renewed doubts over the prospects of an agreement that could reopen the Strait of Hormuz, reviving concerns about energy-driven inflation and higher borrowing costs. Meanwhile, gold prices declined, pressuring mining stocks. In corporate news, Shopify announced that its board had approved an additional $3 billion share repurchase program. On the trade front, Canada's minister responsible for Canada-US trade, Dominic LeBlanc, said talks with US officials on the review of the countries' free trade agreement were constructive, though he provided few details on the discussions.
-
----
-
-### 2026-06-03 21:08:46  #MKT News #Market Themes #AI Revolution #MS.O
-
-CNBC reports Morgan Stanley will allow AI agents to extract data from its equities platform.
-
----
-
-### 2026-06-03 21:08:28  #國際
-
-市場訊息：美國眾議院多數黨領袖斯卡利斯就伊朗戰爭權力表決表示，我不知道結果將如何，現在有很多人認為（這場戰爭）正朝著和平方向發展。
-
----
-
-### 2026-06-03 21:08:11  #市場 #國際
-
-【油價因美伊最新軍事交火而上漲】在美國和伊朗進一步交火後，原油期貨連續第三個交易日上漲，這讓人們對很快達成重新開放霍爾木茲海峽的協議的可能性產生更多懷疑。Ritterbusch & Associates在一份報告中表示，最新一輪襲擊增加了風險溢價，並使停火“幾乎毫無意義“。該機構補充說，整個夏季油價仍有望保持高位，“特別是考慮到美國總統特朗普的最新言論，即美國對霍爾木茲海峽的封鎖可能會持續到勞工節“。西得州中質油上漲2.5%，報每桶96.13美元；布倫特原油上漲2.3%，報每桶98.19美元。
-
----
-
-### 2026-06-03 21:07:34  #國際
-
-英國外交、聯邦及發展事務部不再建議除必要事務外完全避免前往約旦，但仍建議不要前往距離敘利亞邊境3公里以內的地區。
-
----
-
-### 2026-06-03 21:07:16  #MKT News
-
-The UK's Foreign, Commonwealth and Development Office said it no longer advises avoiding all but essential travel to Jordan, but continues to advise against travel to areas within 3 km of the Syrian border.
-
----
-
-### 2026-06-03 21:07:01  #其他
-
-萊茵金屬：交易將於第四季度完成交割，仍需滿足若干前提條件。
-
----
-
-### 2026-06-03 21:06:11  #其他
-
-路透調查：巴西雷亞爾未來6個月將貶值3.7%，至1美元兌5.20雷亞爾；未來12個月將貶值5.5%，至1美元兌5.30雷亞爾，5月調查時的預期為1美元兌5.25雷亞爾。墨西哥比索未來12個月將貶值3.6%，至1美元兌17.92比索，5月調查時的預期為1美元兌17.87比索。
-
----
-
-### 2026-06-03 21:06:01  #MKT News #Market Regions #Emerging Markets #USDBRL #Impact bullish #USDMXN #DXY
-
-REUTERS SURVEY: The Brazilian real is expected to weaken 3.7% over six months to 1 USD = 5.20 BRL and 5.5% over 12 months to 1 USD = 5.30 BRL (May survey: 1 USD = 5.25 BRL). The Mexican peso is expected to weaken 3.6% over 12 months to 1 USD = 17.92 MXN (May survey: 17.87).
-
----
-
-### 2026-06-03 21:05:47  #國際
-
-【阿曼外交部對針對巴林和科威特的襲擊表示譴責】阿曼外交部發布宣告，對針對巴林王國和科威特的襲擊表示譴責和強烈抗議，重申堅決反對任何可能破壞地區安全與穩定的軍事行為，特別是針對民用和關鍵設施的攻擊，這構成了對國際法的侵犯，並威脅到平民的安全。 阿曼還表示對巴林王國和科威特的全力支援，支援它們為維護自身安全與穩定、保護主權和領土完整所採取的措施。 阿曼重申呼籲各方保持克制，避免升級，尋求對話和外交手段來解決危機與爭端，以促進地區安全與穩定，避免地區進一步緊張和負面影響。
-
----
-
-### 2026-06-03 21:05:35  #MKT News
-
-【Oman foreign ministry condemns attacks on Bahrain and Kuwait】Oman's foreign ministry issued a statement condemning and strongly protesting attacks on the Kingdom of Bahrain and Kuwait. It reiterated opposition to any military action that could undermine regional security and stability, particularly strikes on civilian and critical infrastructure, calling such acts violations of international law and a threat to civilian safety. Oman expressed full support for Bahrain and Kuwait in safeguarding their security, sovereignty and territorial integrity, and urged all parties to exercise restraint, avoid escalation and seek dialogue and diplomacy to resolve the crisis and prevent further regional tension.
-
----
-
-### 2026-06-03 21:04:58  #公司
-
-萊茵金屬股份公司<RHMG.DE>：自去年以來，該集團已就其民用業務與潛在買家展開洽談，目前洽談已順利完成，已簽署協議將該業務出售給Aequita私募股權投資公司。
-
----
-
-### 2026-06-03 21:04:49  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand Stays Near 3-Month Highs — The South African rand eased slightly to around 16.3 per USD, amid a firming dollar and falling prices of key precious metals, particularly gold and PGMs. Still, the currency stays near the highest level since March, supported by strong export revenues, fiscal discipline, and the central bank's credibility. The rand is also benefiting from favourable interest rate differentials, as South Africa’s elevated rates contrast with stable US monetary policy. The South African Reserve Bank raised the repo rate by 25 bps to 7% on May 28, its first hike since May 2023, in response to elevated geopolitical risks, higher fuel and food costs, and concerns over second-round inflation effects. The move reinforced the SARB’s commitment to anchoring inflation expectations and maintaining price stability. Meanwhile, markets are pricing in a higher probability of another rate hike, with July seen as a possible timing.
-
----
-
-### 2026-06-03 21:04:37  #MKT News
-
-ANTHROPIC launches Service Tracking and Partner Center.
-
----
-
-### 2026-06-03 21:04:35  #其他
-
-Anthropic ：正式上線服務通道與合作伙伴中心。
-
----
-
-### 2026-06-03 21:03:50  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【IAEA: Risk of Iran secretly developing nuclear weapons higher than a year ago, report links rise to US‑Israel strikes】Western officials say the IAEA’s latest data warn the risk of Iran clandestinely developing nuclear weapons is higher now than a year ago, when the US and Israel launched their first military strikes. The report flags Iran’s large near‑weapons‑grade uranium stockpile as creating new proliferation dangers. Before the 12‑day war that began June 2025 the material was inspected weekly by the IAEA; it now spends longer outside IAEA oversight. Two senior diplomats familiar with the report said it attributes these new nuclear problems to the US‑Israel war and warns that the longer nuclear material remains beyond IAEA control, the higher the risk of diversion to non‑peaceful uses.
-
----
-
-### 2026-06-03 21:03:45  #市場
-
-【國內期貨夜盤開盤 低硫燃料油漲逾2%】國內期貨夜盤開盤，低硫燃料油、菜油漲逾2%，原油、液化石油氣、焦煤、燃油、丙烯、苯乙烯、甲醇、瀝青漲逾1%。
-
----
-
-### 2026-06-03 21:02:42  #國際
-
-【卡達首相與沙特外交大臣通電話 討論地區局勢】當地時間6月3日，卡達首相兼外交大臣穆罕默德與沙特外交大臣費薩爾通電話，雙方就進一步深化雙邊合作以及地區局勢發展交換了意見。雙方重點討論了在巴基斯坦斡旋下，正在推進的美國與伊朗談判進展。穆罕默德表示，各方應以建設性態度參與當前的調解，透過對話與外交途徑推動問題解決。他強調，對話與外交是化解危機根源、達成持久協議、防止地區局勢進一步升級的關鍵途徑。（央視新聞）
-
----
-
-### 2026-06-03 21:02:38  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Qatar PM, Saudi foreign minister discuss US-Iran talks and regional tensions】On June 3, Qatar’s prime minister and foreign minister Mohammed held a phone call with Saudi foreign minister Faisal, focusing on progress in US-Iran negotiations being advanced under Pakistani mediation. Mohammed urged constructive engagement, saying dialogue and diplomacy are essential to resolving the crisis, securing a durable agreement and preventing further regional escalation.
-
----
-
-### 2026-06-03 21:02:24  #國際
-
-美國農業部：出口商向韓國售出13.6萬公噸玉米，交貨期為2026/2027年度。
-
----
-
-### 2026-06-03 21:02:10  #公司
-
-德勤與谷歌雲及Wiz合作，推出人機協作的人工智慧網路防禦系統。
-
----
-
-### 2026-06-03 21:02:06  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish
-
-Deloitte teams with Google Cloud and Wiz to launch a human-in-the-loop, AI-driven cyber defense system.
-
----
-
-### 2026-06-03 21:01:57  #公司 #市場
-
-【東百集團：完成董事會換屆 聘任多位高管及顧問】東百集團公告稱，6月3日完成董事會換屆選舉，第十二屆董事會第一次會議選舉施文義為董事長，同時聘任其為總裁。會議還確定了各專門委員會組成，聘任林建興、黃金喜、徐鴻亮為副總裁，林建興兼任財務總監，劉海芬為董事會秘書，林雨茜為證券事務代表。此外，公司同意聘任何相國為高階顧問，服務期限一年，費用100萬元/年。
-
----
-
-### 2026-06-03 21:00:31  #其他
-
-雷神技術（RTX）斬獲價值 5.15 億美元的 SPY-6 系列雷達專案合同。
-
----
-
-### 2026-06-03 21:00:30  #市場 #焦點
-
-焦煤連續主力合約日內漲2%，現報1399.50元。
-
----
-
-### 2026-06-03 21:00:22  #MKT News #Important #Commodities #Energy #Industrial Metals #Precious Metals #WTI #Impact bullish #Brent
-
-At the open of the night session, China domestic futures main contracts were mostly higher. Low-sulfur fuel oil (LU) and rapeseed oil rose over 2%; SC crude oil, LPG, coking coal, fuel oil, propylene and styrene (EB) gained more than 1%. On the downside, SHFE silver, tin and nickel slipped over 1%, while SHFE aluminum and corn fell about 1%.
-
----
-
-### 2026-06-03 21:00:03  #市場
-
-【國內期貨夜盤開盤】碳酸鋰連續跌4.08%，多晶矽連續跌3.46%，菜油連續漲2.01%，低硫燃料油連續漲1.98%，生豬連續漲1.89%。
-
----
-
-### 2026-06-03 21:00:01  #公司 #市場 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨漲跌不一，道指期貨跌0.36%，標普500指數期貨跌0.16%，納指期貨漲0.08%。
-②德國DAX指數跌0.87%，英國富時100指數跌0.25%，法國CAC40指數跌0.38%，歐洲斯托克50指數跌0.69%。
-③WTI原油漲2.63%，報96.23美元/桶。布倫特原油漲2.38%，報98.28美元/桶。
-④特朗普稱對伊朗海上封鎖或持續至9月。 
-⑤歐盟委員會提出了一個所謂的“技術主權”方案，以減少對美科技巨頭的依賴。其中包含一系列針對各類技術基礎設施的政策，涵蓋從半導體到雲服務、資料中心以及人工智慧等多個領域。
-⑥美國5月ADP新增就業12.2萬人，創16個月新高。
-⑦英特爾盤前漲7.8%，此前該股已連續五個交易日下跌，英特爾新處理器Xeon 6 Plus亮相，進軍AI整機櫃市場。
-⑧邁威爾盤漲超29%，英偉達CEO黃仁勳在臺北國際電腦展稱邁威爾科技將成為下一個萬億美元公司。
-⑨美國資產管理商股價盤前下跌，此前瑞士合眾集團對其86億美元私募股權基金實施了贖回限制。KKR股價下跌3.9%，The Blackstone Group股價下跌3.7%，Blue Owl投資下跌1.5%，Ares Management2.2%，Carlyle Group下跌1.1%。
 
 ---

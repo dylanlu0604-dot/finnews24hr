@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-05 01:38:16_
-_本檔包含 3605 則快訊，約 715899 字_
+_更新時間：2026-06-05 02:17:20_
+_本檔包含 3591 則快訊，約 716522 字_
+
+---
+
+### 2026-05-30 04:27:40  #觀點
+
+【中信建投證券楊驥：消費板塊邊際改善顯著 白酒或迎十年一遇週期大底】近日，中信建投證券食飲行業首席分析師楊驥在“上證·首席講壇”發表演講並接受上海證券報記者專訪時表示，2026年消費板塊正迎來邊際改善。面對食飲新消費浪潮，行業呈現出零售渠道變革、大眾品供給端創新、白酒“一路向C”三大特徵。當下應該跳出傳統的經濟和地產週期需求研究框架，透過創新性提供優質供給、發掘新需求，或依託新渠道創造市場新增量。當前，零售渠道的深刻變革正在重構消費行業的上下游結構與價值鏈，相關板塊蘊含的投資機會值得關注。（上證報）
+
+---
+
+### 2026-05-30 04:27:37  #其他
+
+【一架美軍MQ-9“死神”無人機在葉門馬裡卜省墜毀】一名葉門軍方官員29日稱，一架美軍MQ-9型“死神”無人機當天在葉門東北部的馬裡卜省被擊落後墜毀。這名不願透露姓名的軍官表示，事件發生在馬裡卜省西北部地區。這架無人機被擊落前正在該省上空飛行。他還暗示，此次擊落行動由胡塞武裝實施。（新華社）
+
+---
+
+### 2026-05-30 04:27:06  #公司 #觀點
+
+【境外子公司不是“合規孤島” 券商跨境展業須合規先行】34家內地券商、36家境外子公司、1.94萬億港元總資產……一組資料勾勒出內地券商出海版圖，也折射出跨境經營下合規治理面臨的現實挑戰。。上海證監局近期向光大證券出具警示函，讓行業潛藏的治理短板浮出水面：境外子公司並非獨立於母公司治理體系之外的“合規孤島”，但部分券商的決策程式與合規審查未能實現跨境同步。2024年以來，從人員任職管控到風險指標體系，監管處罰密集指向母、子公司治理的漏洞。行業發展方向已然明朗。近期八部門跨境整治方案落地，穿透式監管從境內直抵境外。跨境展業的模糊地帶加速消弭，“外部整治，內部提質”的行業新邏輯已然確立。（上證報）
+
+---
+
+### 2026-05-30 04:26:43  #市場
+
+【高溫提前疊加算力負荷高增 電力板塊或迎來業績與估值雙重提升】5月29日收盤，Wind火電概念指數漲幅超過4%，晉控電力、深南電A、華能國際、粵電力A、華電能源、華能蒙電等多股漲停。近20日，Wind火電概念指數累計漲幅超過22%。分析人士稱，電力板塊持續走強，核心緣於高溫前置推升用電負荷、資料中心用電剛性擴張、政策與市場預期共振。（上證報）
+
+---
+
+### 2026-05-30 04:26:34  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises as Weak GDP Fuels Dovish BoC Bets — The S&P/TSX Composite Index rose 0.7% to close at 34,759 on Friday as weak GDP data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline. The data strengthened expectations that the BoC will not rise rates soon, with markets broadly anticipating a hold at the June 10 meeting. Expectations of a dovish BoC, and progress toward a US-Iran peace deal pushed bond yields lower and eased concerns about higher borrowing costs. Both parts agreed to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, although the deal still requires approval from US President Trump. In finance, RBC was up 1.5% and Great-West Lifeco gained 1%. Gold prices rose for a second consecutive session, lifting miners such as Agnico Eagle (+3.2%) and WPM (+3.3%). Tech stocks also outperformed, with Shopify rising 3.8% and Celestica surging 10.2%.
+
+---
+
+### 2026-05-30 04:26:13  #其他
+
+【公募新發規模破五千億元 主動權益類基金爆款頻現】截至5月29日，今年以來已成立了191只主動權益類基金，發行規模合計為1741.86億元。而據統計，2025年共成立了318只主動權益類基金，發行規模合計為1662.63億元。僅將近5個月時間，主動權益類基金髮行規模便已超過2025年全年水平（上證報）
+
+---
+
+### 2026-05-30 04:25:46  #公司
+
+【滬深300等指數進行上半年定期調樣 樣本新質生產力含量持續提升】5月29日，中證指數有限公司宣佈將調整滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本，此次調整為指數樣本的定期例行調整，定期調整方案將於6月12日收市後正式生效。本次樣本調整後，資訊科技、通訊服務與工業等行業樣本數量及權重普遍上升，A系列指數較傳統寬基指數行業配比更加均衡，新質生產力含量進一步提升，有助於指數發揮服務國家戰略、引導資源配置的作用。（上證報）
+
+---
+
+### 2026-05-30 04:24:45  #公司 #市場 #觀點
+
+【全球投資者大會“熱”出新高度，透露哪些訊號？】“ESG強制資訊披露是基準，運用這一共同語言工具，能夠加深上市公司與投資者的相互理解。”荷蘭匯盈資產投資亞洲有限公司亞太區責任投資及盡職治理主管德巴尼克·巴蘇（Debanik Basu）在會上說。摩根士丹利（亞洲）中國區在岸股權業務主管、摩根士丹利期貨（中國）有限公司董事長沈黎在大會期間接受上海證券報等媒體採訪時表示，“AI+科技”的新質生產力成為經濟增長的中長期驅動力，中國2026年在AI方面的投資有望實現近20%的同比增長、達到近9000億元；中國先進製造在新能源汽車、電池、光伏、AI硬體方面遙遙領先，出口在全球的份額到2030年有望升至16.5%。這些都給中國資本市場打下了堅實的基本面基礎。（上證報）
+
+---
+
+### 2026-05-30 04:23:40  #宏觀 #國際
+
+美國財政部明確：不允許向伊朗支付霍爾木茲海峽通行費。
+
+---
+
+### 2026-05-30 04:23:20  #公司
+
+據知情人士透露，量子計算公司Quantinuum考慮擴大IPO股票發行規模，並拓展發行價指導區間。
+
+---
+
+### 2026-05-30 04:23:12  #宏觀 #國際
+
+【個人投資者超18萬“跨境理財通”通道升溫】最近，廣州市民林濤在銀行新開通了“跨境理財通”賬戶，買入了美國指數基金和美元存款。而他原本是打算去香港開立投資賬戶的。這一變化源自近期內地與香港監管機構同日出臺的監管新規，聯手規範跨境證券投資秩序。新規之下，粵港澳大灣區“跨境理財通”受到投資者關注，行業人士稱，該渠道可能承接一波投資需求，成為境外投資主渠道之一。券商人士分析，跨境投資需求的升溫是居民財富管理需求升級、互聯互通深化與本土資產收益環境變化共同作用的結果。“跨境理財通”的價值是幫助投資者在合資格賬戶、產品與服務框架下，逐步完成從單次交易到長期配置的轉變。（上證報）
+
+---
+
+### 2026-05-30 04:22:36  #公司 #市場 #國際
+
+【微軟收漲超5.4%，5月份谷歌A漲21.6%】週五（5月29日），美國科技股七巨頭（Magnificent 7）指數跌0.31%，報227.26點，本週（四個交易日）累計上漲1.23%，5月份累漲6.71%。成分股中，谷歌A累計上漲21.60%，亞馬遜漲17.25%，蘋果漲15%，英偉達漲13.22%，特斯拉累跌3.10%，Meta跌4.10%，微軟跌6.49%。此外，AMD累漲140.99%，臺積電漲38%，禮來漲3.17%，伯克希爾哈撒韋B類股跌5.60%。“超大”市值科技股指數漲0.89%，報473.90點，繼續創收盤歷史新高，本週累漲2.94%，5月份累漲12.60%。除了特斯拉、谷歌A、AMD、蘋果、微軟、英偉達、Meta Platforms、亞馬遜之外，高通累計上漲47.69%，博通漲29.36%，甲骨文漲16.55%，奈飛跌8.26%，Adobe跌25.94%，Salesforce跌27.68%。
+
+---
+
+### 2026-05-30 04:21:24  #國際
+
+美國製裁多名與伊朗有關聯的人員。
+
+---
+
+### 2026-05-30 04:19:40  #國際
+
+一名政府官員透露，美國國家情報總監圖爾西・加巴德今日現身白宮戰情室，參與特朗普總統有關伊核協議的會議。
+
+---
+
+### 2026-05-30 04:19:31  #國際
+
+根據美國證券交易委員會備案檔案：Meta Platforms股東選舉包括馬克·扎克伯格在內的十二名董事進入董事會，任期至下一屆年度股東大會。
+
+---
+
+### 2026-05-30 04:18:50  #國際
+
+根據SEC檔案：Meta股東否決針對H-1B簽證專案反美歧視風險的提案。
+
+---
+
+### 2026-05-30 04:18:17  #公司
+
+根據SEC檔案：Meta公司股東否決了要求釋出人工智慧資料使用監督報告的提案。
+
+---
+
+### 2026-05-30 04:18:10  #公司
+
+根據SEC檔案：Meta股東否決關於雙層股權結構的提案。
+
+---
+
+### 2026-05-30 04:16:21  #央行 #國際
+
+美聯儲：美國上週銀行存款19.285萬億美元，之前一週19.279萬億美元。
+
+---
+
+### 2026-05-30 04:10:57  #市場
+
+標普500指數的11個板塊普遍收跌，日用消費品板塊收跌2%，電信板塊跌1.7%，能源板塊跌1.07%，可選消費板塊跌1.05%，金融板塊則收漲0.56%，資訊科技/科技板塊漲1.87%。
+
+---
+
+### 2026-05-30 04:10:46  #公司 #國際
+
+城堡集團針對美國證券交易委員會批准某交易平臺的異議申訴失敗。
+
+---
+
+### 2026-05-30 04:07:54  #國際
+
+伊朗官員向半島電視臺表示，美方談判人員毫無道德底線，且不斷變更訴求。
+
+---
+
+### 2026-05-30 04:06:58  #其他
+
+標普確認拉脫維亞“A/A-1”評級；展望穩定。
+
+---
+
+### 2026-05-30 04:06:05  #其他
+
+【科技行業ETF收漲超2.2%，領跑美股行業ETF，5月半導體ETF累漲超66%】週五（5月29日），科技行業ETF收漲2.23%，全球科技股指數ETF、網路股指數ETF至少漲1.61%，半導體ETF則收跌0.15%，可選消費ETF跌0.97%，能源業ETF跌1.11%。1-5月，半導體ETF累漲66.31%，全球科技股指數ETF、科技行業ETF、能源業ETF至少漲26.79%，醫療業ETF則累跌3.05%，金融業ETF跌5.34%。
+
+---
+
+### 2026-05-30 04:05:14  #MKT News #DELL.N #Impact bullish
+
+Dell (DELL.N) shares closed up nearly 33%.
+
+---
+
+### 2026-05-30 04:05:04  #其他
+
+標普：確認南非外幣評級“BB”，本幣評級“BB+”；展望維持正面。
+
+---
+
+### 2026-05-30 04:04:53  #其他
+
+標普確認南非評級；展望正面。
+
+---
+
+### 2026-05-30 04:04:32  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+May 29 (Friday) — U.S. equities closed higher: the Dow Jones Industrial Average rose 363.49 points (+0.72%) to 51,032.46; the S&P 500 gained 16.45 points (+0.22%) to 7,580.08; the Nasdaq Composite added 55.15 points (+0.20%) to 26,972.62.
+
+---
+
+### 2026-05-30 04:04:18  #MKT News #Market Regions #Europe & UK
+
+S&P affirms Hungary's BBB-/A-3 sovereign ratings; outlook negative. S&P affirms Lithuania's A/A-1 sovereign ratings; outlook stable.
+
+---
+
+### 2026-05-30 04:03:52  #其他
+
+標普確認立陶宛“A/A-1”評級；展望穩定。
+
+---
+
+### 2026-05-30 04:03:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Post Strong Monthly Gains — US equities rose to record highs on Friday as markets gauged the sustainability of the AI rally and assessed the outlook of oil supply from the Middle East and its impact on inflation. The S&P 500 and Nasdaq each rose 0.2%, while the Dow Jones gained 0.8%. On a monthly basis, the Nasdaq jumped around 8%, the S&P 500 advanced 5%, and the Dow rose 2%. Reports indicated yesterday that the US and Iran have agreed to a 60-day memorandum that would extend the ongoing ceasefire and start the progress of restoring vessel flows through the Strait of Hormuz, although President Trump has not yet signed-off on the deal. Energy prices and bond yields retreated to deliver broad, although muted, support to the stock market. The financial and consumer defensive sectors were cautiously higher. Microsoft gained 5.4% and Oracle rose over 10%, with AI software supported by a new investment round in Anthropic. Also, Dell surged over 30% as its AI server business boosted its latest guidance.
+
+---
+
+### 2026-05-30 04:02:49  #其他
+
+標普：確認匈牙利“BBB-/A-3”評級；展望負面。
+
+---
+
+### 2026-05-30 04:02:34  #市場
+
+AST SPACEMOBILE 股票下跌 15%，創下自 2 月 12 日以來最大單日跌幅。
+
+---
+
+### 2026-05-30 04:02:30  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #Alibaba #S&P500 #Impact bullish #Dow #IBM.N
+
+【US close: S&P 500 posts ninth straight weekly gain; major indexes tick higher】US stocks closed modestly higher on Friday: Dow Jones Industrial Average +0.72% (preliminary), S&P 500 +0.22%, Nasdaq Composite +0.20%. IBM (IBM.N) rose more than 12%, Oracle (ORCL.N) gained over 10% and Qualcomm (QCOM.O) climbed over 3%. The Nasdaq Golden Dragon China Index was flat; Baidu (BIDU.O) +2.4%, Alibaba (BABA.N) -1.5%. For the month the S&P 500 advanced 5.15%, the Nasdaq 8.36% and the Dow 2.78%. The S&P 500 extended its weekly winning streak to nine weeks, the longest run since December 2023.
+
+---
+
+### 2026-05-30 04:02:24  #公司
+
+蓋璞股價收跌16%，創近一年來最大跌幅，此前該公司下調了業績預期。
+
+---
+
+### 2026-05-30 04:01:30  #市場
+
+標普500指數錄得連續第九週上漲，為2023年12月以來最長連漲週期。
+
+---
+
+### 2026-05-30 04:01:06  #市場
+
+REPLIMUNE股價收盤上漲86%，創2025年10月以來最大漲幅。
+
+---
+
+### 2026-05-30 04:00:45  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.72%，標普500指數漲0.22%，納指漲0.25%。戴爾漲32.64%，美國網存漲22.26%，Atlassian漲15.47%，現在服務漲14.60%，IBM漲12.91%，慧與漲12.80%。“七姐妹”方面：微軟漲5.39%，蘋果跌0.12%，Meta Platforms跌0.40%，英偉達跌1.14%，亞馬遜跌1.20%，特斯拉跌1.48%，谷歌跌2.52%。
+
+---
+
+### 2026-05-30 04:00:33  #市場
+
+5月份，標普累漲約5.3%，道指累漲2.7%，納指累漲8.3%。
+
+---
+
+### 2026-05-30 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.01%】億咖通科技漲13.33%，Tims中國漲7.57%，海天網路漲7.21%，360數科漲4.49%，名創優品漲3.18%。
 
 ---
 
@@ -21419,329 +21659,5 @@ CBOE Global Markets plans to launch 23X5 U.S. equity trading on its CBOE EDGX ex
 ### 2026-05-29 02:17:52  #焦點 #國際
 
 美國財長貝森特：阿曼大使已保證，目前沒有對霍爾木茲海峽徵收通行費的計劃。
-
----
-
-### 2026-05-29 02:17:15  #國際
-
-美國財長貝森特：今天上午和阿曼大使通了電話。
-
----
-
-### 2026-05-29 02:17:07  #公司 #市場
-
-芝加哥期權交易所全球市場公司（CBOE Global Markets）設定盤後延伸交易資格標準：合約持倉15萬手、市值不低於500億美元，日均交易量為1000萬股。
-
----
-
-### 2026-05-29 02:17:02  #市場 #焦點
-
-現貨白銀突破76美元/盎司，日內漲1.86%。
-
----
-
-### 2026-05-29 02:16:39  #公司
-
-知情人士：亞馬遜雲科技正洽談將 SpaceX 的 Grok 模型接入 Bedrock 平臺。
-
----
-
-### 2026-05-29 02:16:28  #國際
-
-美國財長貝森特：霍爾木茲海峽必須自由開放。
-
----
-
-### 2026-05-29 02:16:23  #MKT News
-
-CBOE Global Markets said CBOE Options Exchange will begin offering extended-hours options trading on July 13, 2026.
-
----
-
-### 2026-05-29 02:15:55  #其他
-
-芝加哥期權交易所全球市場旗下芝加哥期權交易所將於2026年7月13日推出期權延長交易時段。
-
----
-
-### 2026-05-29 02:15:40  #國際
-
-美國財長貝森特：特朗普不會接受糟糕的伊朗協議。
-
----
-
-### 2026-05-29 02:15:25  #國際
-
-芝加哥期權交易所（CBOE）獲美國證券交易委員會（SEC）批准，可為選定的多上市個股期權提供延長交易時段。
-
----
-
-### 2026-05-29 02:15:23  #焦點 #國際
-
-美國財長貝森特談及伊朗協議：雙方團隊仍在反覆磋商。
-
----
-
-### 2026-05-29 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Soars by 5.85% — Top commodity gainers are Natural gas (5.85%), Natural Gas UK (1.26%), Methanol (1.23%) and Crude Oil WTI (0.38%). Biggest loser is Brent Crude Oil (-0.44%).
-
----
-
-### 2026-05-29 02:14:56  #國際
-
-美國財長貝森特：石油市場另一端的供應將非常充足。
-
----
-
-### 2026-05-29 02:14:48  #國際
-
-美國財長貝森特：近2000艘船隻等待駛出海灣。
-
----
-
-### 2026-05-29 02:14:28  #其他
-
-Anthropic：算力已大幅擴容。
-
----
-
-### 2026-05-29 02:14:17  #公司 #焦點
-
-Anthropic：本輪融資中參與投資的主要投資方包括美光科技、三星電子以及SK海力士。
-
----
-
-### 2026-05-29 02:14:10  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary BESSENT said average tax refunds were 11% higher than last year.
-
----
-
-### 2026-05-29 02:13:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Treasury minister Bessent said oil prices will be below pre-conflict levels.
-
----
-
-### 2026-05-29 02:13:46  #市場
-
-週四（5月28日），韓元兌美元最終漲0.43%，報1493.48韓元。
-
----
-
-### 2026-05-29 02:13:10  #MKT News
-
-ANTHROPIC said its annualized revenue at the start of this month exceeded US$47 bln.
-
----
-
-### 2026-05-29 02:13:03  #其他
-
-阿爾蒂米特資本領投 Anthropic 新一輪融資。
-
----
-
-### 2026-05-29 02:12:44  #國際
-
-美國財長貝森特：石油（價格）將低於美國、以色列發動伊朗戰爭之前的水平。
-
----
-
-### 2026-05-29 02:12:39  #MKT News #Important #Market Themes #AI Revolution
-
-ANTHROPIC raised $65 billion in a Series H round, valuing the company at $965 billion post-money.
-
----
-
-### 2026-05-29 02:12:12  #其他
-
-Anthropic：本輪主要投資者包括Baillie Gifford、黑石、布魯克菲爾德（Brookfield）、General Catalyst、淡馬錫（Temasek）及其他投資方。
-
----
-
-### 2026-05-29 02:11:57  #其他 #焦點
-
-Anthropic：我們的年化營收本月早些時候已突破470億美元。
-
----
-
-### 2026-05-29 02:11:29  #公司
-
-人工智慧創業公司Anthropic：融資還包括超大規模科技企業此前已承諾的150億美元投資，其中包含亞馬遜提供的50億美元。
-
----
-
-### 2026-05-29 02:10:47  #國際
-
-美國財長貝森特：平均退稅額比去年高出11%
-
----
-
-### 2026-05-29 02:10:41  #國際
-
-美國財長貝森特：特朗普賬戶將於7月4日上線。
-
----
-
-### 2026-05-29 02:10:05  #公司 #焦點
-
-人工智慧公司Anthropic在H輪融資中籌得650億美元，投後估值達9650億美元。
-
----
-
-### 2026-05-29 02:10:00  #公司 #市場 #國際
-
-無人機製造商Unusual Machines Inc.（UMAC）維持超過68%的漲幅，持穩於盤中歷史新高32美元附近，報道稱，美國總統特朗普的政府考慮注資該公司，從而提高美國的產量、降低成本。
-
----
-
-### 2026-05-29 02:09:03  #國際
-
-美國加州就2023年資料洩露事件起訴23andMe。
-
----
-
-### 2026-05-29 02:08:34  #國際
-
-【日本學者：政府應重新審視和平憲法意義】近來，日本政府在情報領域動作頻頻，推動多層面整合升級情報力量。日本參議院27日表決透過設立“國家情報局”的法案。“國家情報局”最早將於今年夏天啟動，相關動向引發日本學界擔憂。有學者認為，此次日本國會對於情報機構的具體許可權以及監督機制，並未作出充分說明，國家情報局的設立勢必嚴重影響普通民眾的權利。日本專修大學名譽教授白藤博行表示：我認為這部憲法在日本國民中實際上比人們想象得紮根更深、更穩固。我希望日本政府能夠重新審視這一點。（央視新聞）
-
----
-
-### 2026-05-29 02:07:02  #公司
-
-【Anthropic營收反超OpenAI 雙方差距持續拉大】據報道，目前Anthropic的年化營收已接近450億美元。OpenAI當前年化營收暫無確切資料，但其近期年化營收突破300億美元，一位知情人士透露，現階段該數值並未大幅走高。按估算，OpenAI當前年化營收約為330億美元，這意味著Anthropic的營收規模已高出前者約35%。倘若OpenAI的增長速度無法顯著提升，雙方的差距短期內難以扭轉。 兩家企業的競爭格局較去年年底發生了徹底反轉。彼時Anthropic年化營收僅90億美元，不足OpenAI的一半，而OpenAI當時的收入主要來自ChatGPT訂閱業務。據測算，自去年年底至今，Anthropic營收增長五倍，OpenAI漲幅則超50%。放眼來看，Anthropic的營收增長勢頭強勁，有望在未來一年內超越網飛、思愛普、賽富時等企業。 相較於Anthropic，OpenAI營收規模更小、增速偏緩，這可能會給其上市計劃帶來挑戰，一旦Anthropic搶先提交上市申請並完成掛牌，影響將更為明顯。兩家公司的運營效率差距則更為懸殊。
-
----
-
-### 2026-05-29 02:02:43  #其他
-
-加拿大總理卡尼：我們在關鍵礦產領域與美方合作進展十分順利。加拿大將維持高額國防開支。
-
----
-
-### 2026-05-29 02:02:33  #公司 #國際
-
-【分析師：NASA希望扶持SpaceX以外的太空公司】KeyBanc分析師Michael Leshock認為，美國國家航空航天局（NASA）似乎有意扶持SpaceX以外的較小太空公司。美國國家航空航天局本週早些時候向非SpaceX公司發放了數億美元的撥款，以支援其在月球上建立基地的計劃，從而推動了該板塊的全面反彈。Leshock說，該機構希望“如果他們試圖在月球上建造設施或向近地軌道發射航天器，能有兩個或三個選擇”。“他們非常有動力擺脫對任何一家公司的過度依賴，因此我認為這對這些較小公司來說是一種機會。”
-
----
-
-### 2026-05-29 02:01:38  #MKT News
-
-【Cuba Foreign Minister Says No Progress In Bilateral Talks With U.S.】On May 28, Cuba's foreign minister Bruno Rodriguez said bilateral talks with the United States have produced no progress. He accused the U.S. of inconsistency and irresponsibility, saying U.S. conduct in meetings contrasts with hostile public statements by officials, and warned that as tensions escalate Cuba must defend itself if attacked.
-
----
-
-### 2026-05-29 02:01:17  #其他
-
-西南航空：年底前將有 300 架飛機搭載星鏈系統。
-
----
-
-### 2026-05-29 02:00:13  #國際
-
-【古巴外長：古美雙邊談判沒有取得任何進展】當地時間5月28日，古巴外交部長布魯諾·羅德里格斯表示，古巴與美國之間的“雙邊談判沒有取得任何進展”。羅德里格斯表示，美方表現出了極大的前後不一和不負責任，“他們在會談中的表現是一回事，但官方人士不斷髮表的公開言論卻充滿敵意”。羅德里格斯強調，隨著美古兩國緊張局勢持續升級，如果遭到攻擊，古巴必須進行自衛。（央視新聞）
-
----
-
-### 2026-05-29 01:55:40  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O
-
-Amazon Web Services (AWS) said it will offer ANTHROPIC's latest OPUS model Claude Opus 4.8 on Amazon Bedrock and the AWS Claude platform.
-
----
-
-### 2026-05-29 01:54:58  #Trading Economics #Markets #commodity #Importance 0
-
-Canola Hits 4-week High — Canola increased to 768.00 CAD/T, the highest since April 2026. Over the past 4 weeks, Canola gained 0.43%, and in the last 12 months, it increased 6.44%.
-
----
-
-### 2026-05-29 01:53:15  #公司
-
-亞馬遜：Claude Opus 4.8 模型現已登陸亞馬遜雲科技。
-
----
-
-### 2026-05-29 01:51:47  #公司 #國際
-
-美國西南航空執行長表示：公司隨著時間推移，很可能會逐步拓展長途國際航線業務。
-
----
-
-### 2026-05-29 01:49:34  #國際
-
-【美墨啟動正式貿易談判，就汽車本土含量規則展開博弈】5月28日，美國和墨西哥的談判代表開始就修訂美國墨西哥加拿大貿易協議（USMCA）展開正式談判。華盛頓方面要求實施更嚴格的區域原產地規則，其中包括對在墨西哥組裝的轎車和卡車提出特定於美國的最低含量要求。兩名熟悉美國談判立場的知情人士透露，這一新標準已包含在修改USMCA的提案文字中。目前尚無法立即獲悉美國貿易代表辦公室（USTR）所要求的具體美國汽車含量百分比，但相比於現行 USMCA 為了獲得北美市場優惠准入而設定的含量要求，這一轉變意義重大。
-
----
-
-### 2026-05-29 01:46:02  #MKT News #Market Themes #Chip Wars #AI Revolution #Market Regions #Europe & UK #DAX #Impact bullish #EURUSD
-
-【EU Plans Chips Act Relaunch, Seeks €120 Billion By 2035 To Rebuild Semiconductor Industry】A draft shows the EU is relaunching the Chips Act to revive its struggling semiconductor sector, requiring about €120 billion (~$140 billion) in public-private investment by 2035. Chips Act 2.0 will emphasize demand-side measures to boost uptake of domestically produced chips after the 2023 law failed to expand EU market share. One major measure under consideration is a roughly €30 billion chip fab for AI semiconductors and advanced 3nm nodes, to be co-funded by the European Commission, member states and private firms. The Commission would also broker links between chipmakers and buyers in telecoms, defence and auto sectors so suppliers develop targeted technologies. The draft will be submitted to legislators next week and remains subject to change.
-
----
-
-### 2026-05-29 01:45:20  #市場 #國際
-
-美國商品期貨交易委員會提起訴訟，阻止羅得島州對合約市場開展執法行動。
-
----
-
-### 2026-05-29 01:44:36  #公司
-
-聯合太平洋鐵路公司：目前正與諾福克南方鐵路公司開展整合規劃，以便我們做好準備兌現交易收益；預計地面運輸委員會（STB）將於明年批准該合併交易。
-
----
-
-### 2026-05-29 01:44:33  #國際
-
-美國電力協會（EEI）行業組織表示，美國周度發電量同比上升5.2%。
-
----
-
-### 2026-05-29 01:44:22  #國際
-
-草案顯示，受伊朗局勢衝擊能源供應影響，歐盟擬要求各成員國，對違反甲烷排放法規的油氣企業暫緩處罰三年。 此舉源於美國政府及油氣行業組織的施壓，他們此前警告，該法規可能會影響歐洲的燃料供應保障能力。
-
----
-
-### 2026-05-29 01:42:08  #公司 #市場 #觀點 #國際
-
-【高盛交易員認為不受青睞的板塊有望迎來軋空 助推美股下一輪上漲】美國股市牛市或許會得到一個意想不到盟友——賣空者——的支援，並邁向下一輪上漲。根據S3 Partners LLC追蹤的可追溯至2010年的資料，美國和加拿大股票的看跌頭寸總規模自4月下旬以來激增近1000億美元，達到2.13萬億美元，創歷史新高。另外，根據高盛集團旗下主經紀商部門的資料，標普500指數成分股的空倉中位數已升至市值的3%，為2011年末以來最高。高盛交易部門認為，當前格局是一個轉折點。美國股市的下一輪上漲更可能由空頭擠壓推動，迫使投資者在已經引領了長達兩個月漲勢的超大型科技股以外的市場領域買入股票。“我們確實看到市場有可能從這裡繼續走高，但下一輪上漲更可能由市場中不受青睞領域的擠壓行情推動，並受到動能狂熱相關風險的影響，”Gail Hafif、Brian Garrett和Lee Coppersmith帶領的團隊寫道。
-
----
-
-### 2026-05-29 01:41:43  #國際
-
-據報道，美伊談判人員三天前在多哈就停火協議條款達成一致，但雙方暫緩正式官宣。 伊朗談判代表已向本國領導層彙報，美方則在等待特朗普最終批准。
-
----
-
-### 2026-05-29 01:41:21  #國際
-
-【第五屆歐亞經濟論壇在阿斯塔納開幕】當地時間5月28日，第五屆歐亞經濟論壇在阿斯塔納開幕。哈薩克總統託卡耶夫、俄羅斯總統普京、白俄羅斯總統盧卡申科、吉爾吉斯斯坦總統扎帕羅夫、亞美尼亞副總理格里戈良以及古巴、越南、蒙古國等國高階別官員出席開幕式及全會。託卡耶夫在致辭時表示，在前所未有的地緣政治形勢動盪時期，得益於各方合作，歐亞經濟聯盟國家可以保障經濟發展和在全球市場的競爭力。歐亞經濟聯盟不僅是地區一體化機構，而且是全球經濟中的重要主體，目前重要的戰略任務是進一步促進各國發展，加強各方協調與協作，共同應對全球範圍內的負面趨勢。本屆歐亞經濟論壇為期兩天，期間將舉行約30場專題論壇。主要議題包括人工智慧對經濟發展和地區一體化的作用、市場轉型、勞務合作等。（央視新聞）
-
----
-
-### 2026-05-29 01:40:42  #國際
-
-美國聯邦航空管理局為國際足聯世界盃體育場館和賽事設立“無人機禁飛區”。
-
----
-
-### 2026-05-29 01:39:25  #國際
-
-以色列國防軍表示，梅圖拉與克法爾尤瓦爾兩地響起防空警報後，有數枚射彈飛向以軍行動區域。部分射彈被攔截，其餘落在周邊地帶，暫無人員傷亡報告。
-
----
-
-### 2026-05-29 01:38:56  #公司 #市場 #國際
-
-美國西南航空執行長：越來越有信心，我們能夠透過收入增長覆蓋燃油成本上漲。
-
----
-
-### 2026-05-29 01:38:51  #國際
-
-以色列總理本雅明・內塔尼亞胡週四在受訪時表示，他幾乎每日、隔日都會與特朗普總統就伊朗問題展開溝通，並稱相關事宜 “必須落實到底”。兩名以色列國防官員本月透露，此前以方在引發戰事的美以聯合打擊行動籌備階段話語權十足，但近幾周以色列已被邊緣化。
 
 ---
