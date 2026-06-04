@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-04 13:59:57",
-  "count": 19047,
+  "updated": "2026-06-04 14:03:50",
+  "count": 19049,
   "items": [
+    {
+      "id": "mkt:019e913a-972a-7cc0-ba27-07f346881900",
+      "time": "2026-06-04 14:03:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel national security minister calls Israel-Lebanon ceasefire 'serious mistake', says Israel must learn to tell US president 'no'】Itamar Ben-Gvir, Israel's national security minister, criticised the US-brokered Israel-Lebanon agreement as a 'serious mistake', saying it amounts to advisers dragging the prime minister into error and effectively accepting Hezbollah's presence. He warned Hezbollah will only grow stronger unless Israel learns to tell the US president 'no'. Ben-Gvir also claimed Hezbollah has not withdrawn south of the Litani River and questioned the Lebanese army's ability to implement the accord."
+    },
+    {
+      "id": "4916659",
+      "time": "2026-06-04 14:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年，位元組AI有四個重要的命題】從多個信源處獲悉，2026年，位元組AI有四個重要的命題：加大對世界模型訓練的投入，年底前，模型效能達到現階段世界模型全球 SOTA（最佳）Google Genie 3的水平。影片模型繼續保持領先地位，探索“動態生成”等新方向。進一步打好Coding的地基，做好Coding的Dogfooding（資料迴流、評測，形成飛輪），提升Agent能力。豆包強化商業化能力，重點場景是“辦公”。（36氪）"
+    },
+    {
+      "id": "4916658",
+      "time": "2026-06-04 14:02:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報6166.00元。"
+    },
+    {
+      "id": "4916657",
+      "time": "2026-06-04 14:01:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滬電股份觸及漲停】滬電股份觸及漲停，成交額103.60億元。"
+    },
+    {
+      "id": "mkt:019e9138-3e31-7cc0-ba26-fb673ba551fe",
+      "time": "2026-06-04 14:00:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATZ said Israeli measures in Lebanon will lead to an agreement that would secure northern Israel for the first time in 50 years."
+    },
+    {
+      "id": "4916656",
+      "time": "2026-06-04 14:00:27",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞典5月CPIF初步資料顯示同比增長1.5%；預期為增長1.3%。"
+    },
+    {
+      "id": "mkt:019e9137-e28d-7cc0-ba26-f4c566a93094",
+      "time": "2026-06-04 14:00:17",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic chemicals sector rallied. Longchen Technology and Zhongchuan Teqi hit limit-up earlier; Weiteou and Aolaide rose about 20%. Huate Gas, Sanfu Xinke, Xingfu Electronics and Feikai Materials also advanced."
+    },
+    {
+      "id": "4916655",
+      "time": "2026-06-04 13:59:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨<STXEc1>下跌0.33%，德國DAX指數期貨<FDXc1>下跌0.26%，富時指數期貨<FFIc1>下跌0.51%。"
+    },
+    {
+      "id": "4916654",
+      "time": "2026-06-04 13:59:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊震盪上揚，龍辰科技30cm漲停】電子化學品板塊震盪上揚，龍辰科技30cm漲停，中船特氣此前漲停，唯特偶、奧來德漲近20%，華特氣體、三孚新科、興福電子、飛凱材料跟漲。"
+    },
     {
       "id": "mkt:019e9136-6c47-7cc0-ba26-ed37a3deb429",
       "time": "2026-06-04 13:58:34",
@@ -175479,72 +175557,6 @@
         "國際"
       ],
       "text": "菲律賓一名參議員因防洪工程貪腐案遭起訴。"
-    },
-    {
-      "id": "4903987",
-      "time": "2026-05-28 14:03:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊走高，安孚科技、銅冠銅箔、德福科技盤中創新高】電池板塊走高，安孚科技、銅冠銅箔、德福科技盤中創新高，德新科技2連板，諾德股份、杭可科技漲停，壹石通漲超10%，瑞泰新材、正業科技、金銀河、新宙邦、嘉元科技跟漲。相關ETF方面，電池ETF廣發（159755）成交額7.45億元，儲能電池ETF易方達（159566）成交額5.71億元。"
-    },
-    {
-      "id": "te:markets:554312",
-      "time": "2026-05-28 14:02:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hitachi Stock Price Hits 4-week High — Hitachi shares increased to 5163.00 JPY, the highest since April 2026. Over the past 4 weeks, Hitachi gained 5.41%, and in the last 12 months, it increased 26.07%."
-    },
-    {
-      "id": "4903986",
-      "time": "2026-05-28 14:02:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利汽車在湖州投資成立汽車部件公司】企查查APP顯示，近日，長興吉潤汽車部件有限公司成立，法定代表人為童志遠，註冊資本1億元，經營範圍包含：汽車零部件及配件製造；汽車零配件零售；汽車零部件研發；汽車銷售；汽車零配件批發等。企查查股權穿透顯示，該公司由吉利旗下浙江吉潤汽車有限公司全資持股。"
-    },
-    {
-      "id": "4903985",
-      "time": "2026-05-28 14:01:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克 50 指數期貨下跌 0.77%，德國 DAX 指數期貨下跌 0.63%，英國富時指數期貨下跌 0.61%。"
-    },
-    {
-      "id": "4903984",
-      "time": "2026-05-28 14:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威統計局：挪威石油企業2027年油氣投資預計為2070億挪威克朗，今年2月的預估為2011億挪威克朗。"
-    },
-    {
-      "id": "mkt:019e6d2c-2b90-722b-8aca-c57f2b8289d0",
-      "time": "2026-05-28 14:01:11",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "Sci‑Tech Innovation Board 50 Index rose 2%. Among constituents, Jinghe Integration and Shanghai Silicon Industry advanced more than 10%."
-    },
-    {
-      "id": "4903983",
-      "time": "2026-05-28 14:00:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.03%，成分股中，晶合整合漲11.63%，滬矽產業漲10.94%，中控技術漲9.71%，盛科通訊漲6.85%。"
     }
   ]
 }
