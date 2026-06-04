@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-04 23:38:50",
-  "count": 18973,
+  "updated": "2026-06-04 23:43:02",
+  "count": 18970,
   "items": [
+    {
+      "id": "mkt:019e934b-c7ad-711f-ac51-de55992144b3",
+      "time": "2026-06-04 23:41:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls for fifth straight day as larger vessel rates slide】The Baltic Dry Index fell for a fifth consecutive session on Thursday as capesize and panamax rates weakened. The BDI slid 87 points, or 2.78%, to 3,037. The capesize index dropped 213 points, or 4.05%, to 5,040; capesize daily earnings fell $1,934 to $42,204. The panamax index fell 36 points to 2,254; panamax daily earnings declined $322 to $20,285. The supramax index rose 1 point to 1,584."
+    },
+    {
+      "id": "4917823",
+      "time": "2026-06-04 23:41:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：埃法日聯合體獲得德國一項價值 1.1 億歐元的工程合約。"
+    },
+    {
+      "id": "4917822",
+      "time": "2026-06-04 23:38:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：得克薩斯州總檢察長通報已對 Celsius 能量飲料公司展開調查。"
+    },
+    {
+      "id": "mkt:019e9349-10a7-711f-ac51-d6082a17bc18",
+      "time": "2026-06-04 23:38:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "CAC40"
+      ],
+      "text": "June 4 (Thu) close: Germany DAX 30 +140.84 pts (+0.57%) at 24,952.47; UK FTSE 100 +25.32 pts (+0.25%) at 10,357.62; France CAC 40 +93.87 pts (+1.15%) at 8,244.29; Stoxx Europe 50 +51.83 pts (+0.86%) at 6,105.40; Spain IBEX 35 +102.93 pts (+0.57%) at 18,278.93; Italy FTSE MIB +149.34 pts (+0.30%) at 50,187.50."
+    },
     {
       "id": "4917821",
       "time": "2026-06-04 23:38:03",
@@ -174805,68 +174843,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖派駐革命衛隊的代表阿卜杜拉・哈吉・薩德吉週四表示，伊朗絕不會與美國、以色列建立友好關係，並稱談判並不意味著對他口中的敵方產生信任或交好。"
-    },
-    {
-      "id": "4905248",
-      "time": "2026-05-28 23:42:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲官員穆薩萊姆稱不能指望AI降低通脹 與主席沃什看法相左】聖路易斯聯邦儲備銀行行長阿爾伯託·穆薩萊姆表示，政策制定者不能指望人工智慧可能帶來的生產率激增來緩解高企的通脹。穆薩萊姆週四在為冰島雷克雅未克一場會議準備的講話中表示，“我認為，依靠未來生產率增長走高的前景來解決當下的通脹問題是風險之舉。”美伊戰爭加劇了物價壓力，並促使更多政策制定者警告稱如果通脹持續高企，可能需要進一步提高利率。根據4月28日至29日聯邦公開市場委員會(FOMC)會議紀要，許多官員原本希望刪除美聯儲4月會後宣告中暗示利率方向“寬鬆傾向”的措辭。穆薩萊姆提醒道，考慮到通脹因素，美聯儲的基準利率低於所謂“中性利率”這一既不會減緩也不刺激經濟的水平。他還表示，勞動力市場穩定，通脹“顯著高於”美聯儲2%的目標，長期通脹預期“正在走高”。沃什認為，人工智慧有望帶來生產率的大幅提升，從而在不導致通脹的情況下實現增長，並帶來更低的利率。"
-    },
-    {
-      "id": "4905247",
-      "time": "2026-05-28 23:41:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：以黎兩軍高層將於明日在五角大樓舉行會談。"
-    },
-    {
-      "id": "4905246",
-      "time": "2026-05-28 23:40:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯警告日本勿部署美方導彈】俄羅斯外交部發言人扎哈羅娃5月28日在例行記者會上表示，俄方將美日聯合演習中部署“堤豐”導彈系統視為威脅俄國家安全及亞太地區穩定的舉動。扎哈羅娃指出，無論美方導彈是以臨時部署、輪換駐紮還是常設基地形式出現在日本，俄方均視作對俄遠東邊境構成直接戰略威脅，並嚴重破壞亞太安全格局。俄方此前已多次透過外交渠道向日本政府提出交涉，警告日方不要做出此類蓄意敵對、無視俄國家利益的決定。扎哈羅娃同時重申，自2025年8月起，俄方不再受陸基中短程導彈部署暫停令的約束。她強調，俄將全面評估美日此舉帶來的戰略風險，並制定強硬且長期有效的軍事技術反制措施加以應對。（CCTV國際時訊）"
-    },
-    {
-      "id": "4905245",
-      "time": "2026-05-28 23:40:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳用電負荷連續兩年突破2400萬千瓦 新質生產力成重要拉動力】南方電網深圳供電局資料顯示，28日17時10分，深圳電網用電負荷創歷史新高，達2430.19萬千瓦，連續兩年突破2400萬千瓦，較去年最高負荷（2401.12萬千瓦）增長1.21%。本次負荷創新高較去年提前40天。 今年以來，深圳經濟發展穩健向好，特別是新質生產力不斷壯大，疊加近期持續性高溫天氣帶來的降溫需求，深圳電網電力負荷、用電量持續快速攀升。根據預測，今年深圳電網最高負荷或將達到2620萬千瓦，較去年最高負荷增長9.1%。（新華社）"
-    },
-    {
-      "id": "te:markets:554567",
-      "time": "2026-05-28 23:40:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Swing Higher to New Records — US stocks wavered following reports that the US and Iran reached a deal to halt their conflict. The S&P 500 and the Nasdaq 100 swung 0.5% higher to new records while the Dow hovered close to the flatline. Washington and Tehran reportedly agreed to a 60-day memorandum to extend the ceasefire and gradually restore energy exports from the Persian Gulf. Bond yields eased as energy prices pared their rebound, despite data that favors a hawkish Federal Reserve. Jobless claims and consumer spending remained robust, while PCE inflation rose to a three-year high. AI software and infrastructure patrons were sharply higher, with Microsoft, Oracle, and Palantir gaining between 3% and 4%. On the other hand, financial stocks extended to slower momentum with Visa and Blackrock dropping close to 2%. Snowflake surged 30% on a strong outlook, although the result did not spread to other software companies. Salesforce fell 2% after its earnings report."
-    },
-    {
-      "id": "4905244",
-      "time": "2026-05-28 23:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【岑浩輝：澳門特區政府全力推進APEC旅遊部長會議各項籌備工作】澳門特區行政長官岑浩輝28日表示，第十三屆APEC旅遊部長會議將於6月24日至28日在澳門舉行。澳門特區政府正在中央政府指導下全力推進各項籌備工作，確保會議取得圓滿成功。 岑浩輝當晚出席特區政府舉辦的外國駐港澳總領事及中葡論壇常設秘書處代表團招待會。他表示，自2014年後，時隔12年澳門再次承辦APEC旅遊部長會議，充分體現了中央政府對澳門特區政府的高度信任與大力支援，也進一步彰顯了澳門作為連線中國與世界的重要橋樑角色。（新華社）"
-    },
-    {
-      "id": "4905243",
-      "time": "2026-05-28 23:39:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部將多家哥倫比亞企業移出制裁名單。"
     }
   ]
 }
