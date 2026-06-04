@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-04 18:43:00",
-  "count": 19012,
+  "updated": "2026-06-04 18:46:43",
+  "count": 19008,
   "items": [
+    {
+      "id": "4917295",
+      "time": "2026-06-04 18:46:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯指數期貨漲0.41%，標普500指數期貨跌0.49%。"
+    },
+    {
+      "id": "mkt:019e923c-88d3-7668-9610-8866a09dbd85",
+      "time": "2026-06-04 18:45:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 futures extended losses to 1.3%, hitting an intraday low; S&P 500 futures fell 0.4% while Dow futures rose 0.4%."
+    },
+    {
+      "id": "4917294",
+      "time": "2026-06-04 18:44:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數期貨繼續下跌，跌幅達到1.3%，達本交易日的最低點。"
+    },
+    {
+      "id": "4917293",
+      "time": "2026-06-04 18:44:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將Netskope目標股價從25美元下調至19美元。"
+    },
+    {
+      "id": "mkt:019e923c-1d36-7668-9610-8337d3d09a4b",
+      "time": "2026-06-04 18:44:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Katz says current Lebanon developments could pave way for Israel-Lebanon peace accord】Israeli defense minister Katz said on the 4th that recent developments in Lebanon could create conditions for an Israel-Lebanon peace accord. He said a US-mediated principled statement reached in Washington between Israel and the Lebanese government reflects ground-level progress, including steps to reduce Hezbollah’s military capability, pull its forces north of the Litani River and establish a demilitarized zone. An IDF spokesman said fighting in southern Lebanon remains ongoing. Katz added Israel \"will not entrust its security to any other party\" and said the unfolding situation could, for the first time in nearly 50 years, offer northern Israeli residents \"real and lasting security.\""
+    },
+    {
+      "id": "4917292",
+      "time": "2026-06-04 18:44:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將雷神科技評級從持有上調至買入，將目標價從210美元上調至220美元。"
+    },
+    {
+      "id": "4917291",
+      "time": "2026-06-04 18:44:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合合資訊：羅希平減持1.01%公司股份 持股比例降至4.11%】合合資訊公告，資訊披露義務人羅希平於2026年6月4日透過詢價轉讓方式減持公司股份198.78萬股，減持比例為1.01%，其持股比例由5.13%降至4.11%。本次權益變動後，羅希平不排除在未來12個月內繼續實施其在公司擁有權益股份的變動計劃。"
+    },
+    {
+      "id": "4917290",
+      "time": "2026-06-04 18:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長稱當前局勢或為以黎和平協議鋪路】以色列國防部長卡茨4日發表宣告說，當前黎巴嫩局勢的發展可能為以色列與黎巴嫩達成和平協議創造條件。以色列國防軍發言人同日說，黎巴嫩南部的戰事“仍在繼續”。卡茨表示，以色列與黎巴嫩政府日前在美國斡旋下於華盛頓達成的原則性宣告，反映了當前黎巴嫩地面局勢，包括推動解除黎真主黨武裝、將其力量撤至利塔尼河以北以及建立非軍事區等進展。 (新華社)"
+    },
+    {
+      "id": "4917289",
+      "time": "2026-06-04 18:42:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中東局勢衝擊日本企業經營】日本民間調查機構東京商工調查公司近日公佈的一項調查顯示，持續緊張的中東局勢正對日本企業經營活動產生負面影響，並且已有與中東局勢相關的企業破產案例。調查結果顯示，近八成受訪企業表示，已受到不同程度的衝擊，近半數受訪企業認為，如果局勢持續，將不得不重新審視經營策略。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e923a-79e2-7668-9610-7bb3866d482a",
+      "time": "2026-06-04 18:42:46",
+      "tags": [
+        "MKT News",
+        "RTX.N",
+        "Impact bullish"
+      ],
+      "text": "JEFFERIES upgraded Raytheon Technologies (RTX.N) to Buy from Hold and raised its PT to $220 from $210."
+    },
+    {
+      "id": "4917288",
+      "time": "2026-06-04 18:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美諾華：擬定增募資不超21.09億元】美諾華公告，2026年度擬向特定物件發行A股股票募集資金不超過21.09億元，扣除發行費用後將用於高階口服固體制劑和複雜注射劑全球化產業基地專案、高活性製劑及難溶性藥物高階研發專案及補充流動資金。本次發行股票數量不超過7284.18萬股，發行物件為不超過35名特定投資者，最終發行價格將根據詢價結果確定。"
+    },
     {
       "id": "4917287",
       "time": "2026-06-04 18:42:23",
@@ -175159,127 +175262,6 @@
         "公司"
       ],
       "text": "【吉林化纖：實際控制人變更為吉林省國資委】吉林化纖(000420.SZ)公告稱，公司收到控股股東化纖集團轉發的通知，吉林市國資委將其持有的化纖集團30.96%股權無償劃轉至吉林省國資委。劃轉完成後，吉林省國資委持有化纖集團50.32%股權，成為公司實際控制人，間接控制公司15.52%表決權。本次權益變動不觸及要約收購，不會對公司生產經營產生不利影響。"
-    },
-    {
-      "id": "4904663",
-      "time": "2026-05-28 18:46:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來：7月1日起，聯邦醫療保險D計劃參保者購買肥胖症藥物每月僅需自付50美元。"
-    },
-    {
-      "id": "4904662",
-      "time": "2026-05-28 18:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來：符合條件的患者每月購買Fountaydo或Zepbound，費用最低可至 25 美元。"
-    },
-    {
-      "id": "mkt:019e6e3d-b43d-733d-92b5-776be5f1b57f",
-      "time": "2026-05-28 18:46:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Revised 'Standards for Determining Major Coal Mine Hazards' To Take Effect July 1】China's Ministry of Emergency Management published the revised 'Standards for Determining Major Coal Mine Hazards' as the basis for hazard determinations, enumerating 17 specific major coal-mine hazards — including production exceeding design capacity, structural limits or authorized staffing; operations exceeding gas limits; and over-seam or boundary-crossing mining. The standard takes effect July 1."
-    },
-    {
-      "id": "4904661",
-      "time": "2026-05-28 18:45:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航材股份：擬調整“航空透明件研發/中試線專案”募投方案】航材股份公告稱，公司於2026年5月28日召開董事會，審議透過調整“航空透明件研發/中試線專案”的議案，尚需股東會審議。投資總額由7.06億元調至9.87億元，資金源於“航空航天鈦合金製件熱處理及精密加工工藝升級專案”和超募資金。建設內容、地點、週期均有調整，生產線減至2條，地點從北京海淀區調至密雲區，週期延至2029年12月31日。此次調整未改募資核心用途，不損股東利益，收購土地房產存不確定性。"
-    },
-    {
-      "id": "4904660",
-      "time": "2026-05-28 18:45:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：CVS將禮來公司的ZEPBOUND重新列入優選藥品清單。"
-    },
-    {
-      "id": "4904659",
-      "time": "2026-05-28 18:44:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【紅星發展：股票交易異常波動 不存在應披露未披露重大資訊】紅星發展公告稱，公司股票於2026年5月26日-5月28日連續3個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司日常經營及外部環境未變，公司、控股股東及實控人不存在應披露未披露重大事項，未發現影響股價的媒體報道及傳聞。此前董高監減持計劃已完成，異常波動期間相關人員無買賣公司股票情況。公司目前市盈率高於行業水平，提醒投資者注意風險。"
-    },
-    {
-      "id": "4904658",
-      "time": "2026-05-28 18:44:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST太重：向控股股東出售資產 已收51%轉讓價款】ST太重公告稱，2026年4月17日，公司董事會審議透過向控股股東太重集團出售太重齒傳公司100%股權的議案，轉讓價格7.80億元。5月12日，該議案獲股東會表決透過。截至公告披露日，太重集團已按協議支付51%轉讓價款，即3.98億元。太重齒傳公司已完成股東名冊變更。後續，太重集團將在股權交割日後6個月內支付剩餘49%轉讓價款，即3.82億元。"
-    },
-    {
-      "id": "4904657",
-      "time": "2026-05-28 18:44:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將惠普目標股價從16美元上調至18美元。"
-    },
-    {
-      "id": "4904656",
-      "time": "2026-05-28 18:44:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大明電子：簽訂3億元專案投資及土地出讓合同】大明電子公告稱，公司擬投資不超3億元建設“年產1600萬套汽車車身智慧化電子電器控制總成系列產品和10萬臺智慧車載充電機DCDC變換器總成專案（二期）”。近日，公司分別與樂清市虹橋鎮人民政府、樂清市自然資源和規劃局簽訂《工業用地專案投資合同》《國有建設用地使用權出讓合同》，土地出讓價款1953萬元。專案實施尚需辦理多項審批工作，實際投資金額存在不確定性。"
-    },
-    {
-      "id": "4904655",
-      "time": "2026-05-28 18:44:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《煤礦重大事故隱患判定標準》修訂 今年7月1日起施行】應急管理部日前公佈了新修訂的《煤礦重大事故隱患判定標準》，作為判定依據，對超能力、超強度或者超定員組織生產，瓦斯超限作業，超層、越界開採等17類煤礦重大事故隱患的具體情形作出了明確規定，該標準將於今年7月1日起施行。（央視新聞）"
-    },
-    {
-      "id": "4904654",
-      "time": "2026-05-28 18:44:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行全球研究將博通目標股價從515美元上調至600美元。"
-    },
-    {
-      "id": "4904653",
-      "time": "2026-05-28 18:44:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1376.46美元/盎司。"
-    },
-    {
-      "id": "4904652",
-      "time": "2026-05-28 18:44:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖稱敵人尋求製造分裂。"
-    },
-    {
-      "id": "mkt:019e6e2e-7ba7-733d-92b5-12c8286d9069",
-      "time": "2026-05-28 18:43:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme Leader Mujtaba Khamenei said enemies are trying to sow division."
-    },
-    {
-      "id": "4904651",
-      "time": "2026-05-28 18:43:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗銀行將美光科技目標價從800美元上調至1150美元；將戴爾目標價從300美元上調至350美元；將ARM目標股價從290美元上調至360美元。"
     }
   ]
 }
