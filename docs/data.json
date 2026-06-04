@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-05 04:11:41",
-  "count": 19000,
+  "updated": "2026-06-05 04:15:45",
+  "count": 19013,
   "items": [
+    {
+      "id": "mkt:019e9446-93ec-755d-92d6-77278d1c0bd6",
+      "time": "2026-06-05 04:15:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Iran: They cannot have nuclear weapons."
+    },
+    {
+      "id": "mkt:019e9446-218a-755d-92d6-6cca85522cbc",
+      "time": "2026-06-05 04:14:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said that without U.S. military support, Ukraine would be unable to continue fighting."
+    },
+    {
+      "id": "4918136",
+      "time": "2026-06-05 04:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及委內瑞拉：雙邊關係進展喜人。"
+    },
+    {
+      "id": "4918135",
+      "time": "2026-06-05 04:13:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對古巴總統實施制裁。"
+    },
+    {
+      "id": "mkt:019e9445-1965-755d-92d6-6166dd7825df",
+      "time": "2026-06-05 04:13:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he believes progress has been made on Lebanon."
+    },
+    {
+      "id": "4918134",
+      "time": "2026-06-05 04:13:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及黎巴嫩：認為相關事態取得了進展。"
+    },
+    {
+      "id": "mkt:019e9444-af6d-755d-92d6-5b660d707ebd",
+      "time": "2026-06-05 04:13:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he had communicated with Hezbollah on Lebanon."
+    },
+    {
+      "id": "4918133",
+      "time": "2026-06-05 04:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：以色列-黎巴嫩衝突與伊朗問題息息相關。"
+    },
+    {
+      "id": "4918132",
+      "time": "2026-06-05 04:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及黎巴嫩：黎巴嫩若能迎來和平，對該國而言是件好事。"
+    },
+    {
+      "id": "mkt:019e9444-6353-755d-92d6-5149f55538ce",
+      "time": "2026-06-05 04:12:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran still has some missiles remaining, but the number is small."
+    },
+    {
+      "id": "mkt:019e9444-5e85-755d-92d6-4cda1cdc05cd",
+      "time": "2026-06-05 04:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he expects developments in Lebanon and that some peace there would be a good thing."
+    },
+    {
+      "id": "4918131",
+      "time": "2026-06-05 04:12:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：真主黨主動聯絡了我們。"
+    },
+    {
+      "id": "mkt:019e9444-102f-755d-92d6-41d408357019",
+      "time": "2026-06-05 04:12:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump on Iran: If they kill US forces, that would be sufficient justification to restart hostilities."
+    },
+    {
+      "id": "4918130",
+      "time": "2026-06-05 04:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：倘若伊朗造成美軍人員陣亡，那便是重啟衝突的正當理由。"
+    },
+    {
+      "id": "mkt:019e9443-be38-755d-92d6-3f3b5ee92117",
+      "time": "2026-06-05 04:12:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "The Trump Trade",
+        "FNMA.O",
+        "Impact bullish",
+        "FMCC.O"
+      ],
+      "text": "Fannie Mae and Freddie Mac shares rose 6% on the U.S. OTC market; Trump said the firms could be worth as much as $1 trillion."
+    },
+    {
+      "id": "mkt:019e9443-acd1-755d-92d6-32239f29a1f0",
+      "time": "2026-06-05 04:12:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said on Iran that all 159 of their ships have sunk to the seabed and that we have photographed them there."
+    },
+    {
+      "id": "4918129",
+      "time": "2026-06-05 04:11:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗還剩少量導彈，但所剩無幾。"
+    },
     {
       "id": "4918128",
       "time": "2026-06-05 04:10:56",
@@ -175048,47 +175200,6 @@
         "其他"
       ],
       "text": "開市客第三季度每股收益4.93美元，上年同期4.28美元，預估4.91美元。\n每股收益4.93美元，上年同期4.28美元，預估4.91美元。\n總營收705.3億美元，同比+12%，預估696.2億美元。\n銷售淨額691.5億美元，同比+12%，預估683.4億美元。"
-    },
-    {
-      "id": "mkt:019e7039-d46e-7eef-a303-1187534af756",
-      "time": "2026-05-29 04:14:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DELL.O",
-        "Impact bullish"
-      ],
-      "text": "【Q1 Sales Surge 88% on AI Demand; Dell Raises Fiscal-Year Outlook】Driven by AI product demand, Dell reported Q1 revenue up 88% to $43.84bn and raised its full-year guidance. The company now expects fiscal-year revenue of $165bn–$169bn, up from $138bn–$142bn, and lifted the midpoint of adjusted EPS guidance from $12.90 to $17.90. Dell posted Q1 GAAP profit of $3.44bn, or $5.24 per share, versus $965m, or $1.37, a year earlier. Adjusted EPS was $4.86, beating the FactSet estimate of $2.96. Revenue was driven by the Infrastructure Solutions Group, which nearly doubled to $29.0bn on strength in AI-optimized and traditional servers. Dell guided Q2 revenue of $44.0bn–$45.0bn with an adjusted EPS midpoint of $4.80; FactSet consensus had forecast $35.1bn revenue and $2.99 adjusted EPS. Shares rallied in after-hours trading, rising more than 12%."
-    },
-    {
-      "id": "mkt:019e7037-a6cd-7eef-a303-0de12fa8ea5e",
-      "time": "2026-05-29 04:12:35",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell Technologies Inc (DELL.N) rose more than 9% in after-hours trading after reporting earnings."
-    },
-    {
-      "id": "4905556",
-      "time": "2026-05-29 04:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：海面上傳來的聲響是因向霍爾木茲海峽內的船隻發出警告而進行交火所致。"
-    },
-    {
-      "id": "mkt:019e7037-16a3-7eef-a303-03cc5f3ffc26",
-      "time": "2026-05-29 04:11:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reported sounds heard at sea were caused by warning-fire exchanges directed at vessels inside the Strait of Hormuz."
     }
   ]
 }
