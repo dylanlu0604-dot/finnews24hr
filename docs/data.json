@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-04 12:03:47",
-  "count": 19055,
+  "updated": "2026-06-04 12:07:49",
+  "count": 19052,
   "items": [
+    {
+      "id": "4916538",
+      "time": "2026-06-04 12:06:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞洲航空長途公司（AirAsia X BHD）否認近期媒體有關其菲律賓亞洲航空業務停飛的報道。"
+    },
+    {
+      "id": "mkt:019e90cf-7204-7cc0-ba24-42f084cdf3a7",
+      "time": "2026-06-04 12:06:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it detected a 'suspicious aerial object' over northern Israel."
+    },
+    {
+      "id": "mkt:019e90cf-55a2-7cc0-ba24-3c24e1934b3a",
+      "time": "2026-06-04 12:06:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Sunshine Refining prices US IPO at low end, raises $270m to restart Idaho mine】US silver-mining company Sunshine Refining priced its US IPO at the low end of the range and raised $270m to fund the planned restart of an Idaho mine, retaining the permits needed for mining and processing and targeting a 2028 restart. The Idaho site historically produced silver, antimony, copper and lead; the company projects first-five-year average annual revenue of about $311m and EBITDA of roughly $230m after restart. Spot silver has more than doubled over the past year and hit a record in January on safe-haven flows, central bank buying and rising industrial demand from data-center cooling and solar panels, while rising antimony demand—used in military, electronics and data-center applications—adds an additional structural tailwind."
+    },
+    {
+      "id": "mkt:019e90cf-300a-7cc0-ba24-3538034a3a5f",
+      "time": "2026-06-04 12:05:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Meituan",
+        "Market Themes",
+        "China Tech Giants",
+        "China EV Leaders",
+        "Chip Wars",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09988.HK",
+        "09866.HK"
+      ],
+      "text": "【Hong Kong midday: HSI weak; heavyweight tech stocks retreat】The HSI opened lower and extended losses, down 1.40% at midday; the Hang Seng Tech Index fell 1.43%. Heavyweight tech names Alibaba (09988.HK), Meituan (03690.HK) and Baidu (09888.HK) each slid more than 2%. Auto shares underperformed, with NIO-SW (09866.HK), Li Auto (02015.HK) and SERES (09927.HK) off over 3%. Semiconductor and chip-related stocks bucked the market: GigaDevice (03986.HK) rose nearly 10%, 02577.HK gained more than 5% and Hua Hong Semiconductor (01347.HK) climbed over 4%."
+    },
+    {
+      "id": "mkt:019e90ce-be25-7cc0-ba24-2f2bf49b4044",
+      "time": "2026-06-04 12:05:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【French prime minister Lecornu says Israel should halt military operations in Lebanon】On the 3rd at the National Assembly, French prime minister Lecornu said Israel should stop military operations in Lebanon and end its illegal occupation, saying continued fighting in Lebanon \"has no justification\" and that undermining an already fragile ceasefire \"is unacceptable.\" He said the Lebanon issue directly affects ongoing U.S.-Iran talks."
+    },
+    {
+      "id": "4916537",
+      "time": "2026-06-04 12:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將博通公司目標股價從500美元上調至550美元。"
+    },
+    {
+      "id": "4916536",
+      "time": "2026-06-04 12:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湯臣倍健等在天津成立新合夥企業 出資額6.8億】天眼查App顯示，近日，天津礪思星靈創業投資合夥企業（有限合夥）成立，執行事務合夥人為天津礪思明棠企業管理諮詢合夥企業（有限合夥），出資額6.8億人民幣，經營範圍為創業投資、以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由湯臣倍健（300146）、寧波浦潤投資合夥企業（有限合夥）、上海眾源二期私募投資基金（有限合夥）、南京華泰洋河股權投資母基金（有限合夥）等共同出資。"
+    },
+    {
+      "id": "mkt:019e90cd-7222-7cc0-ba24-2521e4072ffe",
+      "time": "2026-06-04 12:04:03",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "JEFFERIES raises Broadcom (AVGO.O) PT to $550 from $500."
+    },
+    {
+      "id": "4916535",
+      "time": "2026-06-04 12:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總理：以色列應停止在黎巴嫩軍事行動】法國總理勒科爾尼3日在法國國民議會表示，以色列應停止在黎巴嫩境內的軍事行動和結束對黎巴嫩的非法佔領，稱以色列繼續在黎巴嫩作戰“沒有正當理由”，“破壞本就脆弱的停火不可接受。”他說，黎巴嫩問題直接影響當前美伊談判。"
+    },
     {
       "id": "4916534",
       "time": "2026-06-04 12:01:08",
@@ -175357,126 +175451,6 @@
         "其他"
       ],
       "text": "領展房產基金 全年營收139.4億港元，預估139.8億港元。領展房產基金 全年物業淨收益102.3億港元，預估97.6億港元。"
-    },
-    {
-      "id": "4903828",
-      "time": "2026-05-28 12:07:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡衡華辭去重慶市長職務】重慶市人民代表大會常務委員會關於接受胡衡華辭職的決定\n\n（2026年5月27日重慶市第六屆人民代表大會常務委員會第二十三次會議透過）\n\n根據《中華人民共和國地方各級人民代表大會和地方各級人民政府組織法》第三十二條、《重慶市各級人民代表大會常務委員會人事任免工作條例》第二十七條的規定，重慶市第六屆人民代表大會常務委員會第二十三次會議決定：接受胡衡華辭去重慶市人民政府市長職務，報請重慶市第六屆人民代表大會第五次會議備案。（重慶人大）"
-    },
-    {
-      "id": "mkt:019e6cc4-1181-722b-8ac8-eace677be011",
-      "time": "2026-05-28 12:07:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Paul Chan Says Hong Kong Investment Management Company Building 'Patient Capital' Ecosystem To Crowd In Market Funds】Paul Chan, Financial Secretary of the Hong Kong Special Administrative Region, said today at the 2026 Hong Kong Sci‑Tech Seminar that Hong Kong must build the full financing and financial‑services chain tightly integrated with the sci‑tech sector. He said the Hong Kong equity market has performed strongly over the past two years and many mainland sci‑tech firms view Hong Kong as their first choice for fundraising and overseas expansion. He added that is only the back end of financing; Hong Kong must deploy smaller‑ticket capital, fund earlier stages, and invest in hard technology, and support emerging and future industries that require large up‑front investment, carry high risk, and have long return cycles. To that end, he said the government is vigorously developing a 'patient capital' ecosystem through Hong Kong Investment Management Company to guide and crowd in market funds. He said the 'financial+' vision is not only rooted in China but oriented to Asia and intended to radiate globally, and that the goal is to make global sci‑tech companies willing to come to Hong Kong to grow and scale."
-    },
-    {
-      "id": "te:economy:554288",
-      "time": "2026-05-28 12:07:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Thailand Industrial Output Shrinks for 1st Time in 5 Months — Thailand’s industrial production unexpectedly fell 0.36% year-on-year in April 2026, defying market expectations of a 0.2% rise and reversing a 0.75% increase in the previous month. It was the first decline in industrial production since last November, amid higher oil prices and disruptions caused by the ongoing Middle East conflict."
-    },
-    {
-      "id": "mkt:019e6cc3-d4a4-722b-8ac8-e2bfe9631198",
-      "time": "2026-05-28 12:07:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "Meituan",
-        "JD.com",
-        "Hang Seng Index",
-        "Impact bearish",
-        "01347.HK",
-        "Impact bullish",
-        "09866.HK"
-      ],
-      "text": "【Hong Kong Stocks Midday: Hang Seng Falls Below 25,000; Tech Names Slide】Hong Kong stocks opened lower in early trade and slid, with the Hang Seng index slipping below the 25,000 level. The Hang Seng was down 2.29% at 24,748.65, while the Hang Seng Tech Index fell 1.49% to 4,834.22. Sector moves: semiconductors partially recovered but internet/tech names weakened; nonferrous metals and innovative-drug sectors declined. Individual movers: Hua Hong Semiconductor (01347.HK) rose more than 11%; NIO-SW (09866.HK) jumped 5.56%; SMIC (00981.HK) and XPeng (09868.HK) gained over 3.6%; Pop Mart (09992.HK) added over 3%. On the downside, Kingsoft Cloud (03896.HK) fell more than 8%; Meituan (03690.HK) dropped 6.7%; SenseTime (00020.HK) and Kingdee International (00268.HK) lost over 5%; Baidu (09888.HK), Bilibili (09626.HK), JD.com (09618.HK) and Alibaba (09988.HK) each fell more than 3%."
-    },
-    {
-      "id": "4903827",
-      "time": "2026-05-28 12:06:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡衡華辭去重慶市長職務。（澎湃）"
-    },
-    {
-      "id": "te:markets:554287",
-      "time": "2026-05-28 12:06:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Hits 6-Week Low — The Australian dollar weakened to around $0.71, hitting a six-week low as weak household demand reinforced expectations that monetary tightening is nearing its end. Data showed household spending fell a sharper-than-expected 1.1% in April as consumers cut back on travel, clothing, and food, with higher fuel costs and geopolitical uncertainty weighing on confidence. The decline added to signs that restrictive monetary policy is cooling demand, even as business investment surged 6.5% in Q1, driven largely by imported data equipment. Markets now widely expect the Reserve Bank to keep rates unchanged at 4.35% in June, while the odds of an August hike has more than halved to 40%. Earlier inflation data also supported the shift in sentiment, with headline CPI easing to 0.4% in April and annual inflation slowing to 4.2%, helped partly by fuel tax relief. However, underlying inflation remained elevated at 3.4%, still above the RBA’s target range."
-    },
-    {
-      "id": "4903826",
-      "time": "2026-05-28 12:05:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南“十五五”規劃綱要明確，地區生產總值年均增長目標為5%左右 】河南省委副書記、省長王凱介紹，河南省國民經濟和社會發展第十五個五年規劃綱要已正式印發，綱要明確“十五五”時期河南生產總值年均增長5%左右，執行中努力爭取更好結果。"
-    },
-    {
-      "id": "mkt:019e6cc1-c7f3-722b-8ac8-db790bfab4d5",
-      "time": "2026-05-28 12:04:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Pinglu Canal Main Channel Excavation Completed】The 134.2-km Pinglu Canal, the first river-to-sea grand canal built since the founding of the People’s Republic of China, has been constructed to Class I inland waterway standards and will accommodate 5,000-ton vessels. Today (May 28), excavation of the canal’s main navigation channel was completed, laying a solid foundation for the Pinglu Canal’s planned completion and opening to navigation in September."
-    },
-    {
-      "id": "4903825",
-      "time": "2026-05-28 12:04:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數跌2.29%，恒生科技指數跌1.49%】港股午間收盤，恒生指數跌2.29%，恒生科技指數跌1.49%。恒指港股通ETF銀華（159318）跌1.69%，港股通科技ETF鵬華（159751）跌0.87%。板塊方面，通訊裝置板塊漲幅靠前；個人護理用品、居家用品板塊跌幅靠前。個股方面，深演智慧漲46.31%，奇富科技-S漲19.32%，中國新零售供應鏈漲19.15%，滔搏漲11.41%，華虹半導體漲11.09%；今海醫療科技跌14.68%，靈寶黃金跌9.75%，創新實業跌9.47%，金山雲跌8.26%，三一國際跌8.21%。"
-    },
-    {
-      "id": "4903824",
-      "time": "2026-05-28 12:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河航道主體工程完成】全長134.2公里的平陸運河是新中國成立以來建設的首條通江達海的大運河。平陸運河按內河Ⅰ級航道標準建設，可通航5000噸級船舶。今天（5月28日），平陸運河航道主體工程開挖全部完成，為平陸運河9月建成通航築牢堅實基礎。（央視新聞）"
-    },
-    {
-      "id": "4903823",
-      "time": "2026-05-28 12:04:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科威特時隔一個多月再次拉響防空警報】當地時間28日5時20分許，科威特全國響起防空警報。這是該國時隔一個多月再次拉響防空警報。科威特軍方隨後稱攔截了“敵方”導彈和無人機襲擊。(新華社)"
-    },
-    {
-      "id": "4903822",
-      "time": "2026-05-28 12:04:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟擴歐事務負責人表示，歐盟必須修改入盟制度以適配烏克蘭的需求。"
     }
   ]
 }
