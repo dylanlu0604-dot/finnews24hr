@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-04 22:56:25",
-  "count": 18913,
+  "updated": "2026-06-04 23:00:29",
+  "count": 18912,
   "items": [
+    {
+      "id": "4917754",
+      "time": "2026-06-04 22:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：陝西麥科奧特醫藥科技股份有限公司 - B透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:019e9325-1332-7ff8-893a-f3147bf39ccd",
+      "time": "2026-06-04 22:59:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "According to HKEX filings, Shaanxi Maike Aote Medical Technology Co., Ltd. - B cleared its HKEX listing hearing."
+    },
+    {
+      "id": "4917752",
+      "time": "2026-06-04 22:58:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Centene目標價從50.00美元上調至57.00美元，評級維持在中性。"
+    },
+    {
+      "id": "4917751",
+      "time": "2026-06-04 22:57:19",
+      "tags": [
+        "行業",
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【高盛預測：SpaceX人工智慧業務2030年營收將暴漲100倍】牽頭承銷投行高盛給出預測資料顯示，SpaceX想要在首次公開募股時實現1.78萬億美元估值，核心依託其人工智慧板塊到2030年營收暴漲約100倍。 這家華爾街投行在向潛在投資方推介專案時披露的測算報告顯示：SpaceX人工智慧業務營收將從2025年的32億美元，飆升至2030年的3220億美元；公司整體營收預計從去年的187億美元增至2030年的4740億美元。 高盛這份激進預測，折射出當前科技巨頭大舉押注人工智慧的投資熱潮，而該熱潮也推動美股接連重新整理歷史高點。隨著SpaceX正式開啟IPO路演，投行向資管機構口頭分享了這套盈利測算模型，本次IPO募資上限可達860億美元。知情人士確認高盛營收測算：SpaceX人工智慧板塊2026年營收同比大增388%至156億美元，2027年進一步攀升至345億美元。 SpaceX與高盛均未就相關問詢置評。"
+    },
+    {
+      "id": "mkt:019e9323-573d-7ff8-893a-ec9f9b22926c",
+      "time": "2026-06-04 22:57:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax said a drone attack in St. Petersburg did not affect Russian President Putin's schedule."
+    },
+    {
+      "id": "4917750",
+      "time": "2026-06-04 22:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：無人機襲擊聖彼得堡未影響普京日程。"
+    },
     {
       "id": "mkt:019e9321-8db5-7ff8-893a-e297a0f358ed",
       "time": "2026-06-04 22:55:10",
@@ -174205,75 +174259,6 @@
         "國際"
       ],
       "text": "【貝森特警告阿曼勿參與霍爾木茲海峽收費機制】美國財長貝森特週四警告阿曼，切勿參與伊朗揚言要在霍爾木茲海峽實施的收費機制。貝森特寫道：“美國政府絕不容忍任何試圖在霍爾木茲海峽強行實施收費機制的企圖。阿曼尤其應當明白，美國財政部將嚴厲制裁任何——無論直接還是間接——協助該海峽收費事宜的實體或個人；任何甘願充當其幫兇的夥伴都將受到懲罰。”此外，這位財長還呼籲所有國家抵制伊朗旨在干擾這一關鍵航運通道通行的舉措。他最後總結道：“德黑蘭恐嚇該地區及世界的日子已經一去不復返了。”"
-    },
-    {
-      "id": "te:markets:554556",
-      "time": "2026-05-28 23:00:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 0.63% — Top currency gainers are Brazilian Real (0.63%), South Korean Won (0.44%), Polish Zloty (0.33%), Euro (0.18%) and Japanese Yen (0.18%). Biggest losers are Indian Rupee (-0.32%) and Dollar Index (-0.14%). Meanwhile British Pound was little changed."
-    },
-    {
-      "id": "4905185",
-      "time": "2026-05-28 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】20號膠連續漲1.97%，棉紗連續漲1.06%，天然橡膠連續漲0.97%，白糖連續漲0.86%，瀝青連續漲0.72%。"
-    },
-    {
-      "id": "4905184",
-      "time": "2026-05-28 22:58:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：儲蓄率下降引發對消費者韌性的擔憂】伊朗戰爭導致的能源價格上漲使4月份個人消費支出價格指數(PCE)保持高位，這表明在收入停滯之際，消費者可能更多地依賴了他們的儲蓄。美國商務部表示，個人儲蓄率為2.6%，觸及自2022年以來未曾見過的水平。與此同時，收入增長較上月放緩。“收入增長放緩加上儲蓄率下降，引發了對未來消費者韌性的擔憂，尤其是低收入家庭，”Raymond James首席經濟學家Eugenio Aleman寫道。"
-    },
-    {
-      "id": "4905183",
-      "time": "2026-05-28 22:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：IBM與紅帽宣佈投入50億美元，推出人工智慧驅動的開源安全計劃】據報道，IBM與紅帽公司承諾投入50億美元，打造全新開源軟體模式，助力企業保障軟體供應鏈安全。 兩家企業於週四公佈，該專案命名為Project Lightwell。專案將集結全球兩萬名工程師，並依託先進人工智慧技術，搭建可信企業資訊交換中心。 該中心將充當安全協調樞紐，藉助前沿人工智慧技術，對海量開原始碼開展安全漏洞排查、檢測與修復工作。 相關服務將透過商業訂閱模式對外開放。企業可藉此上報開源框架中的漏洞，並獲取經過驗證、可直接投入生產的補丁程式，無縫對接自身軟體供應鏈。"
-    },
-    {
-      "id": "te:economy:554555",
-      "time": "2026-05-28 22:57:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Fall as Inflation Pressures Ease on US–Iran Deal Hopes — UK 10-year gilt yields reversed early gains to slip back toward 4.8%, their lowest level since April 17, as renewed optimism over a potential US–Iran agreement helped ease inflation concerns and supported fixed-income markets. The rally in UK government bonds extended to a seventh consecutive session, marking the longest winning streak since just before tensions escalated in the Iran conflict in late February. Sentiment has also been underpinned by recent domestic data showing a cooling labor market, softer-than-expected inflation, and signs of slowing economic activity, prompting traders to scale back expectations for a Bank of England rate hike. According to Axios, US and Iranian negotiators have reached a memorandum of understanding aimed at extending a ceasefire by 60 days and initiating talks on Iran’s nuclear program, though final approval from US President Donald Trump is still pending."
-    },
-    {
-      "id": "4905182",
-      "time": "2026-05-28 22:57:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國天然氣期貨在庫存資料公佈後上漲】美國能源情報署報告稱，上週美國天然氣庫存增幅略低於往常，將較五年平均水平的盈餘從前一週的1,490億立方英尺降至1,440億立方英尺。庫存淨注入量為920億立方英尺，使庫存達到24,830億立方英尺，較2021-2025年平均水平高出6.2%。接受媒體調查的分析師此前預計上週庫存將增加960億立方英尺。在該報告發布後，紐約商交所7月交割的天然氣期貨上漲3.3%，報每百萬英熱單位3.197美元。"
-    },
-    {
-      "id": "te:markets:554554",
-      "time": "2026-05-28 22:57:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Oracle Stock Price Hits 19-week High — Oracle shares increased to 200.80 USD, the highest since January 2026. Over the past 4 weeks, Oracle gained 22.35%, and in the last 12 months, it increased 23.04%."
     }
   ]
 }
