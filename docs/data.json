@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-05 05:42:21",
-  "count": 19040,
+  "updated": "2026-06-05 05:45:53",
+  "count": 19041,
   "items": [
+    {
+      "id": "4918194",
+      "time": "2026-06-05 05:45:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "標普道瓊斯指數公司： 已就標普美國系列指數、道瓊斯全市場指數中巨型市值公司編制規則的潛在修訂開展市場徵詢。 標普 500、標普中型股 400 及標普小型股 600 的入選標準維持不變。"
+    },
+    {
+      "id": "mkt:019e9498-0b2a-7cc8-bdee-defaa2d1cd62",
+      "time": "2026-06-05 05:44:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump welcomes potential Putin–Zelenskiy meeting, says Russia and Ukraine will 'compromise'】At a White House event on the 4th, President Trump told reporters he would welcome a meeting between Russian President Putin and Ukrainian President Zelenskiy and said such a meeting would be \"very good.\" He said progress toward talks owed 'to our push,' added Moscow and Kyiv would make compromises 'as I suggested,' and declined to disclose details."
+    },
+    {
+      "id": "4918193",
+      "time": "2026-06-05 05:44:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：樂見“普澤會”，俄烏會“妥協”】美國總統特朗普4日在白宮一場活動上對媒體說，俄羅斯總統普京和烏克蘭總統澤連斯基若能會面，將“非常好”。被問及澤連斯基當天公開致信普京提議在第三國舉行會晤時，特朗普說，他很高興看到兩國領導人似乎正在商討會面事宜，稱“這其中很大程度上歸功於我們的推動”。“如果他們能見上一面，那將是一件非常好的事。他們真該把這件事定下來。”特朗普還說，為結束俄烏衝突，俄烏雙方都會作出妥協，就像“我建議的那樣”。但他拒絕透露相關詳情。（新華社）"
+    },
     {
       "id": "mkt:019e9490-a334-7cc8-bdee-d44e8c5ec192",
       "time": "2026-06-05 05:36:07",
@@ -175416,27 +175441,6 @@
         "MKT News"
       ],
       "text": "US Secretary of State Rubio said the State Department has designated Brazil's Red Command and First Capital Command as Specially Designated Global Terrorists, effective June 5."
-    },
-    {
-      "id": "mkt:019e708a-ea11-7eef-a303-d62841eeb0aa",
-      "time": "2026-05-29 05:43:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran’s Islamic Revolutionary Guard Corps said it launched a large-scale missile and drone strike on a US base in Kuwait this morning in retaliation for an attack on Abbas Port and that such operations will continue as a new routine; Iranian state media also reported Iran’s air defenses shot down a US drone near Bushehr. The US military said it intercepted five Iranian drones and struck Iranian military sites; US Treasury Secretary Bessent said Washington will maintain maximum pressure on Iran and has warned firms and states not to pay any proposed passage fees. Washington has added Iran’s Persian Gulf Strait Authority to its sanctions list and placed the UN special rapporteur for the West Bank and Gaza under sanctions. Iran warned it controls and manages the Strait of Hormuz, said it will decisively respond to any interference, and reported warning shots at four vessels near the strait; Gulf states condemned the Kuwait attack, with the UAE explicitly blaming Iran. Israel ordered the military to occupy 70% of Gaza and carried out strikes in Beirut reportedly aimed at Iranian militia commanders; the IDF detained five militants in Judea and Samaria. On negotiations, Iran says frozen assets must be released unconditionally; US and Iranian officials reportedly agreed on a memorandum of understanding that still requires final approval, while Tehran’s leadership has not formally endorsed any deal and Iran’s deputy foreign minister said it will not sign agreements contrary to national interests."
-    },
-    {
-      "id": "4905601",
-      "time": "2026-05-29 05:43:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "王毅會見烏拉圭外長盧貝特金。（新華社）"
     }
   ]
 }
