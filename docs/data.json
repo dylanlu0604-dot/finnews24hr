@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-04 16:05:31",
+  "updated": "2026-06-04 16:09:37",
   "count": 19046,
   "items": [
+    {
+      "id": "mkt:019e91ad-8e8d-7668-960c-b7b214e86440",
+      "time": "2026-06-04 16:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UN Interim Force in Lebanon (UNIFIL) said two peacekeepers were injured in the incident."
+    },
+    {
+      "id": "mkt:019e91ad-6254-7668-960c-afe65b8b597a",
+      "time": "2026-06-04 16:08:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The UN peacekeeping force in Lebanon said on Wednesday a peacekeeper died of wounds sustained when their base in southeast Lebanon was hit by shelling."
+    },
+    {
+      "id": "4916891",
+      "time": "2026-06-04 16:08:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經合組織：2028年全球鋼鐵過剩產能將達7.45億噸】經合組織在最新報告中指出，全球鋼鐵過剩產能持續增長，其推動因素是一些非經合組織主要產鋼經濟體不斷增加補貼，而旨在恢復公平競爭的貿易措施又因規避行為日益受到破壞，這些措施本是為了營造公平的競爭環境。《經合組織2026年鋼鐵展望》預測，到2028年，全球鋼鐵過剩產能將達到7.45億噸，比經合組織當前的鋼鐵產量高出3.19億噸。截至2028年，計劃新增的產能最高可達1.39億噸，較2025年水平增長5.7%，而需求增長預計將保持低迷，年增長率約為0.9%。經合組織秘書長馬蒂亞斯·科爾曼在經合組織部長理事會會議上表示：“鋼鐵過剩產能給所有人帶來問題。它扭曲全球市場，損害經濟安全和韌性，並且阻礙創新和可持續發展。”"
+    },
+    {
+      "id": "4916890",
+      "time": "2026-06-04 16:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國駐黎巴嫩維和部隊表示，一枚炮彈擊中一名維和人員位於黎巴嫩東南部的陣地後，該維和人員因傷於週三不治身亡。"
+    },
+    {
+      "id": "4916889",
+      "time": "2026-06-04 16:08:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "調查：哈薩克央行預計將於週五將基準利率維持在18%不變。"
+    },
+    {
+      "id": "mkt:019e91ac-fbd1-7668-960c-a1a0493a56f5",
+      "time": "2026-06-04 16:08:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【OECD: Global steel excess capacity to hit 745 mln tonnes by 2028】The OECD’s 2026 Steel Outlook warns global steel excess capacity will reach 745 million tonnes by 2028, exceeding current OECD steel production by 319 million tonnes. The report cites subsidies from several major non‑OECD steel producers and growing circumvention that is undermining trade remedies designed to restore fair competition. Planned new capacity could add up to 139 million tonnes by 2028, a 5.7% rise from 2025, while demand growth is expected to remain weak at about 0.9% p.a. OECD Secretary‑General Mathias Cormann said the glut distorts markets, weakens economic security and resilience, and hampers innovation and sustainability."
+    },
+    {
+      "id": "4916888",
+      "time": "2026-06-04 16:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將意法半導體目標股價從49歐元上調至80歐元。"
+    },
+    {
+      "id": "4916887",
+      "time": "2026-06-04 16:07:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣小幅走高，交易商研判伊朗談判帶來的影響】受市場研判美伊停戰談判、霍爾木茲海峽重啟通航相關影響，歐洲天然氣價格小幅上漲。基準天然氣期貨盤中最高漲幅達 0.9%，抹平早前跌幅。近一週合約價格波動劇烈，區間波動幅度達 3 歐元 / 兆瓦時，交易員緊盯和平談判訊息及其對全球海運氣源的潛在影響。當前霍爾木茲海峽輸氣運力依舊受限，市場核心擔憂仍是歐洲能否在冬季來臨前補足儲氣庫存。目前歐洲儲氣庫庫容利用率僅約 41%，而歷年同期五年均值為 55%。"
+    },
+    {
+      "id": "4916886",
+      "time": "2026-06-04 16:07:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "3D Systems股價在盤前交易階段下跌11.1%，此前該公司宣佈完成規模上調至5000萬美元的股票發行定價。"
+    },
+    {
+      "id": "mkt:019e91ac-0853-7668-960c-9fa7e022d107",
+      "time": "2026-06-04 16:07:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "SMMT said UK new car registrations in May rose 7.1% YoY to 160,662 vehicles."
+    },
+    {
+      "id": "4916885",
+      "time": "2026-06-04 16:05:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國光電器在寧波成立汽車聲學公司 註冊資本5000萬】天眼查App顯示，近日，寧波國光汽車聲學有限責任公司成立，法定代表人為湯曉宇，註冊資本5000萬人民幣，經營範圍包括音響裝置製造、音響裝置銷售、塑膠製品製造等。股東資訊顯示，該公司由國光電器（002045）全資持股。"
+    },
+    {
+      "id": "4916884",
+      "time": "2026-06-04 16:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅欣藥業：控股股東質押3500萬股股份用於融資】羅欣藥業公告稱，近日控股股東羅欣控股將3500萬股股份質押給安徽國元信託有限責任公司，佔其持股比例14.77%，佔公司總股本3.22%，質押起始日為2026年6月3日，質押用途為融資類質押。截至公告披露日，羅欣控股及其一致行動人累計質押股份1.36億股，佔其所持股份比例56.41%，佔公司總股本12.53%。本次質押對公司生產經營等不產生實質性影響。"
+    },
+    {
+      "id": "4916883",
+      "time": "2026-06-04 16:05:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【四川雙馬：控股股東部分股份質押及解除質押】四川雙馬公告稱，近日控股股東和諧恆源將792萬股（佔其所持股份2.03%、公司總股本1.04%）質押給中信證券，用於償還債務；解除1516萬股（佔其所持股份3.89%、公司總股本1.99%）質押。截至公告披露日，和諧恆源持有公司32.91%股份，其及一致行動人合計持股50.98%，和諧恆源累計質押股份9707.4萬股，佔公司總股本12.72%，所質押股份無平倉風險，對公司經營及治理無影響。"
+    },
+    {
+      "id": "te:markets:556474",
+      "time": "2026-06-04 16:05:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 1.73% — Top commodity losers are Iron Ore CNY (-1.73%), Lithium Carbonate (-1.32%) and Steel Rebar (-0.79%). Gains are led by Silver (0.81%) and Gold (0.70%)."
+    },
+    {
+      "id": "mkt:019e91aa-4c5e-7668-960c-96f19814f7ea",
+      "time": "2026-06-04 16:05:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jiuri New Materials says it has not provided samples for testing or supplied products to Changxin Technology."
+    },
     {
       "id": "4916882",
       "time": "2026-06-04 16:04:49",
@@ -175456,150 +175594,6 @@
         "公司"
       ],
       "text": "【參加重要活動，泡泡瑪特王寧帶來了“星星人”】國務院新聞辦公室於2026年5月28日舉行“新徵程上的奮鬥者”中外記者見面會，請民營企業家和新的社會階層人士代表圍繞“奮進‘十五五’ 民企勇擔當”與中外記者見面交流。泡泡瑪特國際集團創始人、董事長兼執行長王寧攜帶“星星人”玩偶到場。他介紹說，今年是創辦泡泡瑪特的第16年，“我們從北京出發，由一個小小的門店，現在已經發展到能夠在全世界各地著名的街區看到我們的門店和產品，我們非常幸運，也非常感激，我們的產品和服務受到了全世界使用者的喜愛”。（睿見）"
-    },
-    {
-      "id": "mkt:019e6da1-7e35-722b-8acd-bbf32eeb1709",
-      "time": "2026-05-28 16:09:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02513.HK",
-        "Impact bullish",
-        "00763.HK"
-      ],
-      "text": "Hong Kong close: Hang Seng Index fell 1.27%; Hang Seng Tech Index fell 0.39%. Zhipu (02513.HK) rose 13.5%; ZTE Corp (00763.HK) rose 13.1%; Hua Hong Semiconductor (01347.HK) rose 11.55%."
-    },
-    {
-      "id": "4904252",
-      "time": "2026-05-28 16:09:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "富途控股稱監管擬罰總額約18.5億元，已在一季度財報中計提。"
-    },
-    {
-      "id": "4904251",
-      "time": "2026-05-28 16:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國或因高溫天氣面臨上千億歐元經濟損失】隨著歐洲多地近日連續出現高溫天氣，德國經濟界對於極端高溫可能帶來的經濟影響表示擔憂。根據28日釋出的一項最新調查，持續升溫正逐漸加劇德國經濟壓力，並可能最早在2030年就對經濟產出造成明顯衝擊。調查顯示，如果過去10年的高溫熱浪趨勢持續至2030年，德國經濟或面臨約1125億歐元損失。研究認為，高溫天氣對企業形成“雙重壓力”：一方面，氣溫上升導致勞動生產率下降；另一方面，製冷需求增加推高能源成本。（央視新聞）"
-    },
-    {
-      "id": "4904250",
-      "time": "2026-05-28 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.272%，恒生科技指數跌0.387%】地平線機器人-W跌4.690%，龍湖集團跌4.955%，周大福跌4.987%，信達生物跌5.193%，中國宏橋跌5.388%，美團-W跌5.663%，翰森製藥跌7.101%。"
-    },
-    {
-      "id": "4904249",
-      "time": "2026-05-28 16:08:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海青浦區宅地5.41億元底價成交】5月28日，上海四批次土拍正式開拍，共5宗宅地將分兩天出讓。在今日的土拍中，青浦區宅地土地出讓面積19897.8平方米，規劃建築面積33826.26平方米，起始價5.41億元，起始樓面價16000元/平方米。最終保利發展以底價5.41億元競得該地塊。"
-    },
-    {
-      "id": "mkt:019e6da0-6ba2-722b-8acd-b603060ac071",
-      "time": "2026-05-28 16:08:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sweden's prime minister said he will meet Ukraine's president on Thursday and will announce aircraft-related news then."
-    },
-    {
-      "id": "mkt:019e6da0-2c72-7aa7-8903-b193c6d00927",
-      "time": "2026-05-28 16:07:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian oil transport company says Russia will increase crude loading capacity at Kozmino port to 50 million tonnes a year."
-    },
-    {
-      "id": "mkt:019e6d9f-885d-722b-8acd-aca9e4cd2ba3",
-      "time": "2026-05-28 16:07:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Interfax reports oil export volumes will remain stable in 2025 and 2026, at 2024 levels."
-    },
-    {
-      "id": "4904248",
-      "time": "2026-05-28 16:06:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國車企首次突破產銷量1億大關】5月28日下午，上汽集團交付第1億輛車，中國汽車工業史上首個累計產銷量突破1億輛的汽車集團在上海誕生。中國首個“億級車企”的出現，是中國汽車工業70多年從無到有、從弱到強的生動註腳，也是“中國製造”的重要里程碑。（新華社）"
-    },
-    {
-      "id": "mkt:019e6d9f-1d9a-7aa7-8903-a27bdd66338e",
-      "time": "2026-05-28 16:06:41",
-      "tags": [
-        "MKT News",
-        "600104.SS",
-        "Impact bullish"
-      ],
-      "text": "【SAIC Motor Delivers 100 Millionth Vehicle, First Chinese Auto Group To Surpass 100 Million Cumulative Units】On May 28 in Shanghai, SAIC Motor delivered its 100 millionth vehicle, becoming the first Chinese automotive group to surpass 100 million cumulative units produced and sold."
-    },
-    {
-      "id": "mkt:019e6d9e-a167-7aa7-8903-9cb6fb51bd19",
-      "time": "2026-05-28 16:06:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukrainian President ZELENSKIY will visit Sweden on Thursday."
-    },
-    {
-      "id": "4904247",
-      "time": "2026-05-28 16:06:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞典首相：將於週四會晤烏克蘭總統，將公佈與飛機相關的最新訊息。"
-    },
-    {
-      "id": "4904246",
-      "time": "2026-05-28 16:05:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞典首相：將於週四會晤烏克蘭總統，將公佈與飛機相關的最新訊息。"
-    },
-    {
-      "id": "mkt:019e6d9e-3b0c-7aa7-8903-91a2638b5803",
-      "time": "2026-05-28 16:05:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Lebanese military says one soldier killed in an Israeli strike on southern Lebanon."
-    },
-    {
-      "id": "4904245",
-      "time": "2026-05-28 16:05:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【眾泰汽車：借款合同糾紛終審判決 需清償本息等超8400萬元】眾泰汽車公告稱，公司與深圳立訊實業借款合同糾紛一案，廣東省深圳市中級人民法院作出終審判決，公司上訴請求部分成立。公司需在判決生效之日起十日內向立訊實業清償借款本金7820萬元及利息542.28萬元（暫計至2025年10月20日），並承擔律師費10萬元和一、二審案件受理費等46.8萬元。截至公告披露日，公司處置專戶因本案累計被司法凍結股份43684879股，佔處置專戶所持股份總數的17.33%，佔公司總股本的0.87%，存在強制過戶風險，但不會導致第一大股東變更。"
     }
   ]
 }
