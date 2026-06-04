@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-04 17:36:12",
-  "count": 19021,
+  "updated": "2026-06-04 17:40:15",
+  "count": 19026,
   "items": [
+    {
+      "id": "4917145",
+      "time": "2026-06-04 17:39:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報95.83美元/桶。"
+    },
+    {
+      "id": "te:economy:556500",
+      "time": "2026-06-04 17:39:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Cyprus Inflation Rate Eases Slightly in May — The annual inflation rate in Cyprus eased to 2.55% in May 2026 from 2.83% in the previous month. Price growth moderated for food and non-alcoholic beverages (2.86% vs 4.76% in April) and personal care, social protection, and miscellaneous goods and services (0.68% vs 0.89%). Additionally, deflation deepened in clothing and footwear (-8.22% vs -5.29%), furnishings and home decoration, household equipment, and routine home maintenance (-1.10% vs -0.26%), and information and communication (-4.21% vs -1.99%). In contrast, costs increased faster for alcoholic beverages and tobacco (1.21% vs 0.81%), housing and utilities (4.22% vs 2.65%), transport (9.50% vs 8.17%), recreation, sports and culture (4.59% vs 4.15%), and restaurants and accommodation services (3.52% vs 3.27%). On a monthly basis, consumer prices fell 0.06%, reversing from a four-year high of 1.71% in the previous month."
+    },
+    {
+      "id": "mkt:019e9200-331b-7668-960e-f33e02a92115",
+      "time": "2026-06-04 17:39:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. employment data firm Challenger said fintech companies announced 5,731 job cuts in May, with the majority of those cuts attributed to AI-related reasons."
+    },
+    {
+      "id": "mkt:019e91ff-fc73-7668-960e-e8930645b4ef",
+      "time": "2026-06-04 17:38:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. job-data firm Challenger: service-sector layoffs in May totaled 6,268; YTD service layoffs 17,065, down 61% versus the same period in 2025 (44,273). Healthcare and medical-products manufacturing (including hospitals) have announced 30,414 YTD layoffs, up 17% from 26,008 in the same 2025 period."
+    },
+    {
+      "id": "te:economy:556499",
+      "time": "2026-06-04 17:38:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Challenger Job Cuts",
+        "Importance 2"
+      ],
+      "text": "US Job Cuts Rise in May — US-based employers announced 97,006 job cuts in May 2026, the most since January, compared to 83,387 in April. It is the highest May total since 2020 and also marks the third straight month that cuts have risen. So far this year, employers have announced 397,755 cuts, down 43% from the 696,309 announced through the first five months of 2025, when reductions to the federal workforce drove totals to historic highs. Stripping out that distortion, 2026 is running roughly even with 2024, when 385,859 cuts were announced through May."
+    },
+    {
+      "id": "4917144",
+      "time": "2026-06-04 17:38:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江海股份：沒有片式多層陶瓷電容器（MLCC）業務】江海股份(002484)釋出股票交易異常波動公告稱，公司目前超級電容器、MLPC的規模、營收佔比及其在AI伺服器電源上的應用都較小。另外，公司沒有片式多層陶瓷電容器（MLCC）業務，也沒有投產MLCC的計劃。敬請廣大投資者理性投資，注意投資風險。公司產品在下游伺服器電源等應用領域景氣度易受宏觀環境與政策影響，需求存在不及預期的可能，同時行業競爭也可能會加劇、易出現產能與需求不匹配的情況；此外新興市場客戶認證週期較長，現有及新增訂單落地進度也存在不確定性。"
+    },
+    {
+      "id": "mkt:019e91ff-aa24-7668-960e-e60377cfce78",
+      "time": "2026-06-04 17:38:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. job-data firm Challenger said the transportation sector announced 6,909 layoffs in May, bringing 2026 cumulative layoffs to 40,388 — up 449% from 7,356 in the same period of 2025 — making transportation the second-largest sector by layoff volume this year."
+    },
+    {
+      "id": "4917143",
+      "time": "2026-06-04 17:38:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崔錦紅出任國家石油天然氣管網集團有限公司副總經理】國家石油天然氣管網集團有限公司官網近日更新後顯示，崔錦紅已於今年5月起任國家石油天然氣管網集團有限公司副總經理、黨組成員。（澎湃）"
+    },
+    {
+      "id": "4917142",
+      "time": "2026-06-04 17:37:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國5月企業裁員數環比增長16% 創2020年以來同期最高水平】全球再就業與高管培訓公司Challenger, Gray & Christmas週四釋出的報告顯示，美國僱主5月宣佈裁員97,006人，較4月的83,387人增長16%，較去年同期的93,816人增長3%。今年5月的裁員總數創2020年以來五月的最高水平。這也是裁員人數連續第三個月上升，從2月的48,307人攀升至5月的97,006人。今年迄今，美國僱主已宣佈裁員397,755人，較2025年前五個月勞動力裁員推動下創下歷史新高的696,309人下降43%。剔除這一扭曲因素後，2026年的資料與2024年大致持平，2024年截至5月裁員人數為385,859人。該公司勞工與職場專家兼首席營收官Andy Challenger,表示，除了成為頭條新聞的人工智慧因素外，我們還看到與收購和兼併相關的裁員急劇增加，以及與破產相關的裁員大幅上升，隨著企業為適應人工智慧驅動型經濟而重新定位，它們正在積極進行重組。"
+    },
+    {
+      "id": "4917141",
+      "time": "2026-06-04 17:37:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守96美元/桶，日內跌1.90%。"
+    },
+    {
+      "id": "4917139",
+      "time": "2026-06-04 17:36:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【天洋新材：涉及半導體業務的光模組透鏡固定用膠佔集團月營收不足1%】天洋新材公告，股票於2026年6月3日、6月4日連續兩個交易日內收盤價格漲幅偏離值累計超過20%，連續兩個交易日的累計換手率為24.91%。根據《上海證券交易所交易規則》的有關規定，屬於股票交易異常波動情形。在電子膠產品中，涉及半導體業務的光模組透鏡固定用膠為新開發產品，目前該產品月營收佔集團月營收不足1%，不會對公司業績造成重大影響且存在未來供貨的不確定性。"
+    },
+    {
+      "id": "4917138",
+      "time": "2026-06-04 17:36:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【太極實業：公司半導體業務主要涉及IC晶片封裝、封裝測試、模組裝配及測試等】太極實業釋出異動公告，公司股票於2026年6月2日、6月3日、6月4日連續三個交易日收盤價格漲幅偏離值累計超過20%，根據《上海證券交易所交易規則》的有關規定，屬於股票交易異常波動。公司目前主營業務包括半導體業務、工程技術服務業務和光伏電站投資運營業務。半導體業務主要涉及IC晶片封裝、封裝測試、模組裝配及測試等。2025年度，公司半導體業務完成營業收入46.50億元，佔公司年度營業收入的15.15%。其中，控股子公司海太半導體（無錫）有限公司採用“全部成本+約定收益（總投資額的10%+超額收益）”的盈利模式，2025年度完成營業收入39.39億元，佔公司年度營業收入的12.84%。"
+    },
+    {
+      "id": "mkt:019e91fd-4150-7668-960e-dc749c1d6ede",
+      "time": "2026-06-04 17:35:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Andy Challenger, president of U.S. employment-data firm Challenger, said that beyond AI-related cuts the firm is seeing a sharp rise in layoffs tied to mergers and acquisitions and higher losses from bankruptcies, indicating companies are actively restructuring as they reposition for an AI-driven economy."
+    },
     {
       "id": "4917137",
       "time": "2026-06-04 17:35:11",
@@ -57,6 +190,15 @@
         "公司"
       ],
       "text": "【傑華特等在南通成立奕芯微電子公司】企查查APP顯示，近日，南通奕芯微電子有限公司成立，經營範圍包含：電力電子元器件製造；電力電子元器件銷售；積體電路晶片設計及服務；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由傑華特等共同持股。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606043760505090",
+      "time": "2026-06-04 17:33:20",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月裁員總數達97,006人】美國5月裁員總數達97,006人，為2020年以來歷年5月最高水準。"
     },
     {
       "id": "4917133",
@@ -175253,84 +175395,6 @@
         "其他"
       ],
       "text": "據港交所披露：5月25日，貝萊德在李寧的多頭持倉佔比從6.84%提升至7.51%。"
-    },
-    {
-      "id": "4904506",
-      "time": "2026-05-28 17:40:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨買入76.09億港元】港股通（滬）方面，泡泡瑪特、美團-W分別獲淨買入8.30億港元、6.00億港元；阿里巴巴-W淨賣出額居首，金額為6.78億港元；港股通（深）方面，中芯國際、華虹半導體分別獲淨買入39.48億港元、9.46億港元；阿里巴巴-W淨賣出額居首，金額為6.25億港元。"
-    },
-    {
-      "id": "4904505",
-      "time": "2026-05-28 17:39:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制哈爾科夫地區的一處居民點】總檯記者獲悉，俄羅斯國防部5月28日釋出通報稱，俄軍控制了哈爾科夫州的新瓦西列夫卡居民點。（央視新聞）"
-    },
-    {
-      "id": "4904504",
-      "time": "2026-05-28 17:39:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "安哥拉7月石油出口量預計將創下至少自2008年以來的最低水平。"
-    },
-    {
-      "id": "4904503",
-      "time": "2026-05-28 17:38:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【再升科技：用於航空航天領域產品收入佔比0.66%，高矽氧纖維產品暫無在手訂單】再升科技公告，公司股票於2026年5月26日至28日連續三個交易日收盤價漲幅偏離值累計超20%，屬於股票交易異常波動。針對市場討論公司向SpaceX供貨一事，經公司核實，公司高效節能材料中用於航空航天領域的產品2025年度收入佔公司營收比例約為0.66%；其中，自2020年起向國際某知名航天公司直接供應“高矽氧纖維產品”，2025年該項產品業務收入佔公司總營收比例極低，目前暫無在手訂單。公司2026年第一季度實現營業收入3.01億元，同比下降7.28%；歸屬於母公司所有者淨利潤1430.68萬元，同比下降57.37%。"
-    },
-    {
-      "id": "mkt:019e6df3-17ec-7993-908f-eb9fbd2f1fdc",
-      "time": "2026-05-28 17:38:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU Oil and Gas Coordination Group will continue to monitor gas and oil supplies across the EU and coordinate action if necessary."
-    },
-    {
-      "id": "4904502",
-      "time": "2026-05-28 17:37:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【城建發展：子公司以22億元競得北京石景山地塊】城建發展公告，公司此前董事會審議透過參與北京市石景山區黃莊村地塊出讓預申請及後續競買。2026年5月28日，全資子公司北京城建興通置業有限公司以22億元的價格競得該地塊國有建設用地使用權，專案位於石景山區衙門口板塊，用地面積36600平方米，建築規模72280平方米。興通公司已現金出資設立全資子公司北京城建璟樾置業有限公司負責專案開發，註冊資本5000萬元。"
-    },
-    {
-      "id": "4904501",
-      "time": "2026-05-28 17:37:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟油氣協調小組將繼續監控歐盟境內的油氣供應形勢，並視需要協調行動。"
-    },
-    {
-      "id": "4904500",
-      "time": "2026-05-28 17:37:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家稅務總局秦皇島市稅務局稽查局依法查處秦皇島城市人家裝飾工程有限公司私戶收款偷稅案件】近期，國家稅務總局秦皇島市稅務局稽查局根據舉報線索，依法查處秦皇島城市人家裝飾工程有限公司私戶收款偷稅案件。經查，2020年至2023年，秦皇島城市人家裝飾工程有限公司透過實際控制人等私人賬戶收款的方式隱匿銷售收入，進行虛假申報，少繳增值稅、企業所得稅等稅費共計570.58萬元。2025年11月，國家稅務總局秦皇島市稅務局稽查局依據《中華人民共和國稅收徵收管理法》等相關法律法規規定，對其作出追繳稅費款、加收滯納金並處罰款共計1167.87萬元的處理處罰決定。目前，涉案稅費款、罰款已追繳入庫630.31萬元，剩餘罰款及滯納金正按規定進一步追繳。國家稅務總局秦皇島市稅務局稽查局有關負責人表示，透過私戶收款隱匿收入、進行虛假納稅申報等方式偷逃稅，屬於稅收徵管法明確的違法行為。稅務部門將依法查處各類涉稅違法行為，維護稅法權威和公平正義的稅收環境，促進各類經營主體長期規範健康發展。（國家稅務總局）"
-    },
-    {
-      "id": "mkt:019e6df1-1923-7993-908f-e1467b0c41a8",
-      "time": "2026-05-28 17:36:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The EU said it remains possible to fill gas storage facilities to 80% capacity before the end of summer."
     }
   ]
 }
