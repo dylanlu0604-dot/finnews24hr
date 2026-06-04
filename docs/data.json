@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-05 01:26:51",
-  "count": 18906,
+  "updated": "2026-06-05 01:30:38",
+  "count": 18912,
   "items": [
+    {
+      "id": "mkt:019e93af-3d61-711f-ac53-ab682b5f3493",
+      "time": "2026-06-05 01:29:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Daly: To date, generative AI has largely been used to augment rather than replace labor."
+    },
+    {
+      "id": "4917951",
+      "time": "2026-06-05 01:29:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：油價正推高能源與食品價格。"
+    },
+    {
+      "id": "mkt:019e93af-045b-711f-ac53-a7a782de9fcf",
+      "time": "2026-06-05 01:29:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve President Daly said oil prices are pushing up energy and food prices."
+    },
+    {
+      "id": "mkt:019e93ae-f057-711f-ac53-9dc0ca4baddd",
+      "time": "2026-06-05 01:29:35",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "DALY: Inflation has been driven mainly by tariffs; those effects are likely to gradually dissipate."
+    },
+    {
+      "id": "4917950",
+      "time": "2026-06-05 01:29:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：生成式人工智慧目前用於輔助人力，而非取代勞動力。"
+    },
+    {
+      "id": "mkt:019e93ae-b817-711f-ac53-96c308675b3d",
+      "time": "2026-06-05 01:29:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said she has not yet seen a clear impact of artificial intelligence on inflation data."
+    },
+    {
+      "id": "mkt:019e93ae-5652-711f-ac53-89920170da01",
+      "time": "2026-06-05 01:28:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY said some firms and sectors have begun to see productivity gains from AI, but those gains have not yet materialized at the aggregate economy level."
+    },
+    {
+      "id": "4917949",
+      "time": "2026-06-05 01:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯與歐洲情報部門之間仍保持接觸。"
+    },
+    {
+      "id": "4917948",
+      "time": "2026-06-05 01:28:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹由關稅推動，關稅影響有望逐步消退。"
+    },
+    {
+      "id": "4917947",
+      "time": "2026-06-05 01:27:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美聯儲戴利在彭博科技活動上表示：尚未發現人工智慧推高通脹資料。"
+    },
+    {
+      "id": "mkt:019e93ac-6c84-711f-ac53-853ef805bc22",
+      "time": "2026-06-05 01:26:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said former German chancellor Gerhard Schroder would be hard to replace as a mediator in Russia‑Europe negotiations, but added Schroder is not his friend and is merely a German official."
+    },
+    {
+      "id": "4917946",
+      "time": "2026-06-05 01:26:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利在彭博科技活動上表示：已有個別企業、行業出現人工智慧驅動生產率提升的證據，但目前尚未看到這種提升形成規模效應。"
+    },
     {
       "id": "mkt:019e93ab-a64a-711f-ac53-7bb61588af8d",
       "time": "2026-06-05 01:26:00",
@@ -174112,64 +174226,6 @@
         "國際"
       ],
       "text": "據報道，特朗普正面臨來自本黨成員及以色列總理本雅明・內塔尼亞胡的壓力，後者敦促其切勿簽署減輕對伊朗施壓的協議。 一位知情人士透露，特朗普正多方徵詢意見，確保協議 “足夠強硬”。他尤其強調，新協議必須優於其此前退出的 2015 年奧巴馬時期伊核協議，並能以此向外界宣傳。"
-    },
-    {
-      "id": "4905401",
-      "time": "2026-05-29 01:30:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西 4 月正式就業崗位新增 85888 個，市場預期為增加 216500 個。"
-    },
-    {
-      "id": "mkt:019e6fa2-eda5-7eef-a301-579d9c0841bd",
-      "time": "2026-05-29 01:30:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Guatemalan government said there is no agreement authorizing foreign forces to conduct military operations on Guatemalan territory."
-    },
-    {
-      "id": "4905400",
-      "time": "2026-05-29 01:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "瓜地馬拉政府表示，目前未有任何協議授權外國軍方在瓜地馬拉領土開展軍事行動。"
-    },
-    {
-      "id": "4905399",
-      "time": "2026-05-29 01:28:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐盟委員會表示，該計劃將持續至2026年12月31日，旨在緩解化肥價格上漲帶來的影響。"
-    },
-    {
-      "id": "mkt:019e6fa0-ea8a-7eef-a301-48dc53fa0116",
-      "time": "2026-05-29 01:27:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "MUSALEM: Warsh will pose probing questions about Fed operations; that’s refreshing."
-    },
-    {
-      "id": "mkt:019e6fa0-6a2f-7eef-a301-40d568673375",
-      "time": "2026-05-29 01:27:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's MUSALEM said the probability of a rate hike is greater than zero."
     }
   ]
 }
