@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-05 04:03:57",
-  "count": 18994,
+  "updated": "2026-06-05 04:07:41",
+  "count": 18996,
   "items": [
+    {
+      "id": "mkt:019e943f-3974-755d-92d6-0d84997f7c77",
+      "time": "2026-06-05 04:07:11",
+      "tags": [
+        "MKT News",
+        "LULU.O",
+        "Impact bullish"
+      ],
+      "text": "Lululemon (LULU.O) Q1 revenue $2.50 bln, above IBES consensus $2.43 bln."
+    },
+    {
+      "id": "4918124",
+      "time": "2026-06-05 04:07:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）：美國貨幣市場資產7.894萬億美元，創歷史新高。"
+    },
+    {
+      "id": "4918123",
+      "time": "2026-06-05 04:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽問題不需要歐洲的幫助。"
+    },
+    {
+      "id": "4918122",
+      "time": "2026-06-05 04:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "DocuSign預計二季度營收8.65億-8.69億美元，分析師預期8.66億美元。"
+    },
+    {
+      "id": "mkt:019e943d-bbd2-755d-92d6-02edacaba4b9",
+      "time": "2026-06-05 04:05:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equity close, June 4 (Thursday): Dow Jones Industrial Average +875.05 points (1.73 pct) to 51,562.12; S&P 500 +30.65 points (0.41 pct) to 7,584.33; Nasdaq Composite -23.02 points (0.09 pct) to 26,830.96."
+    },
+    {
+      "id": "4918121",
+      "time": "2026-06-05 04:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lululemon給出本財年淨營收指引區間 110 億至 111.5 億美元，此前指引為 113.5 億至 115 億美元。"
+    },
+    {
+      "id": "mkt:019e943c-2571-755d-92d5-fc3a8769f067",
+      "time": "2026-06-05 04:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said on the Ukraine conflict that they need to make some compromises."
+    },
     {
       "id": "4918120",
       "time": "2026-06-05 04:03:17",
@@ -174990,64 +175056,6 @@
         "Brent"
       ],
       "text": "An i24 News senior Middle East correspondent reported that Iran’s non-official media said the IRGC Navy fired warning shots at four \"unauthorized vessels\" that attempted to transit the Strait of Hormuz without coordination."
-    },
-    {
-      "id": "4905554",
-      "time": "2026-05-29 04:05:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾美股盤後漲超10%。"
-    },
-    {
-      "id": "te:markets:554599",
-      "time": "2026-05-29 04:05:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Autodesk earnings above expectations at 2.99 USD — Autodesk (ADSK) released earnings per share at 2.99 USD, compared to market expectations of 2.84 USD."
-    },
-    {
-      "id": "4905553",
-      "time": "2026-05-29 04:05:12",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "戴爾科技一季度總體淨營收438.4億美元，分析師預期355.2億美元。\n一季度調整後運營利潤42.4億美元，分析師預期27.7億美元。\n上調2027財年AI伺服器營收預期至大約600億美元，之前預計大約500億美元。\n預計全年營收1650億-1690億美元，公司原本預計1380億-1420億美元。"
-    },
-    {
-      "id": "mkt:019e7030-a0c6-7eef-a302-e2fdbbfc2727",
-      "time": "2026-05-29 04:04:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar Index Falls 0.19% to 99.020 on 28th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.19% to 99.020 at the New York close. EUR/USD 1.1648 (prior 1.1629); GBP/USD 1.3440 (1.3430); USD/JPY 159.26 (159.51); USD/CHF 0.7841 (0.7868); USD/CAD 1.3784 (1.3835); USD/SEK 9.2551 (9.2972)."
-    },
-    {
-      "id": "mkt:019e702f-cc91-7eef-a302-dd5c2bcbf94b",
-      "time": "2026-05-29 04:04:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On Thursday, May 28, the Dow Jones Industrial Average closed up 24.69 points, or 0.05%, at 50,668.97. The S&P 500 closed up 43.31 points, or 0.58%, at 7,563.67. The Nasdaq Composite closed up 242.74 points, or 0.91%, at 26,917.47."
     }
   ]
 }
