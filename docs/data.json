@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-05 04:40:57",
-  "count": 19045,
+  "updated": "2026-06-05 04:44:52",
+  "count": 19044,
   "items": [
+    {
+      "id": "mkt:019e9460-fe35-7cc8-bdee-68ddcd35591b",
+      "time": "2026-06-05 04:44:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The Wall Street Journal reported ANTHROPIC has urged a global pause on AI development and warned models are approaching the ability to \"self-evolve\" without human intervention."
+    },
+    {
+      "id": "4918169",
+      "time": "2026-06-05 04:43:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【6月5日美股成交額前20：博通財測平淡股價大跌12.6%】第3名博通收跌12.59%，成交億美元。儘管博通交出了強勁的季度業績並上調了增長預期，但因未進一步提高全年人工智慧業務收入展望，其股價週四大跌，並拖累英偉達、AMD等半導體板塊整體走弱。市場擔憂主要源於投資者對AI概念股的預期已大幅提高，任何增長指引未進一步上調的訊號都可能觸發獲利回吐。不過，多家華爾街機構認為市場反應過度。伯恩斯坦分析師指出，博通AI業務仍將保持約200%的同比增速，2027財年AI半導體收入有望突破千億美元，且高毛利率和運營槓桿足以抵消利潤率壓力。高盛也建議積極買入，認為公司2027年增長前景明朗，定製晶片專案進展順利且供應鏈有保障。KeyBanc和瑞穗紛紛上調目標價，僅麥格理將評級下調至“中性”。"
+    },
+    {
+      "id": "4918168",
+      "time": "2026-06-05 04:41:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：以色列對黎巴嫩南部城市提爾發動空襲。"
+    },
+    {
+      "id": "mkt:019e945e-5a3a-7cc8-bdee-67af1c0aac15",
+      "time": "2026-06-05 04:41:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Al Jazeera reports Israel carried out airstrikes on the southern Lebanese city of Tyre."
+    },
     {
       "id": "4918167",
       "time": "2026-06-05 04:39:08",
@@ -167,6 +210,14 @@
         "MKT News"
       ],
       "text": "President Trump, referring to Cuba, said he hopes it becomes a well-governed country."
+    },
+    {
+      "id": "4918158",
+      "time": "2026-06-05 04:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與印度達成相關協議，（美國）與印度關係良好。"
     },
     {
       "id": "mkt:019e9455-6482-7cc8-bdee-23597b8e7738",
@@ -175434,58 +175485,6 @@
         "Brent"
       ],
       "text": "【U.S. Treasury Secretary: US-Iran deal hinges on \"what the president wants to do\"】U.S. Treasury Secretary Bessent said at a WHITE HOUSE briefing on the 28th that whether the U.S. and Iran can reach a potential agreement depends on whether President Trump supports it. U.S. media earlier cited officials saying negotiating teams have broadly agreed on terms of a memorandum of understanding, subject to Trump’s final approval. Bessent declined repeated direct answers, saying teams have been exchanging consultations and “everything depends on what the president wants to do.” He listed Trump’s red lines: Iran must hand over its highly enriched uranium, must not develop nuclear weapons, and the Strait of Hormuz must remain open."
-    },
-    {
-      "id": "mkt:019e7054-f6ad-7eef-a303-75a3ec8ff8a1",
-      "time": "2026-05-29 04:44:33",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) COO Jeff Clarke said the company has more than 5,000 AI Factory customers, with growth across new cloud providers, sovereign customers and enterprise clients."
-    },
-    {
-      "id": "mkt:019e7054-830b-7eef-a303-6c841bb7a327",
-      "time": "2026-05-29 04:44:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister of intergovernmental affairs, Dominic LeBlanc, said he and colleagues have met with industry representatives and provincial and territorial officials in recent months to secure an agreement in the best interests of Canadian businesses and workers."
-    },
-    {
-      "id": "mkt:019e7054-58de-7eef-a303-654194a73634",
-      "time": "2026-05-29 04:43:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister of intergovernmental affairs Dominic LeBlanc said Ottawa is determined to continue negotiating with US and Mexican partners in the upcoming joint review of the United States-Mexico-Canada Agreement (USMCA)."
-    },
-    {
-      "id": "4905572",
-      "time": "2026-05-29 04:42:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "戴爾營運長： 公司 AI 工廠的客戶數量已突破 5000 家，新興雲服務商、主權機構及企業客戶均實現增長。"
-    },
-    {
-      "id": "4905571",
-      "time": "2026-05-29 04:41:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：市場需求持續高於供應，記憶體是主要產能制約因素。"
-    },
-    {
-      "id": "mkt:019e7052-053d-7eef-a303-5a6cf1275bd0",
-      "time": "2026-05-29 04:41:23",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact mixed"
-      ],
-      "text": "Dell (DELL.N) COO Jeff Clarke said demand continues to outstrip supply, with memory the primary constraint."
     }
   ]
 }
