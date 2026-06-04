@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-05 01:34:24",
+  "updated": "2026-06-05 01:38:16",
   "count": 18922,
   "items": [
+    {
+      "id": "mkt:019e93b5-7d00-7114-9155-294bbda933bd",
+      "time": "2026-06-05 01:36:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY: AI may be producing disinflationary effects now, but this is not an urgent concern."
+    },
+    {
+      "id": "4917963",
+      "time": "2026-06-05 01:36:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京：歐盟無法充當調停方，因其不具備中立立場。"
+    },
+    {
+      "id": "mkt:6a28c1a8-3938-4e96-9ff5-ea3d2b95ff59",
+      "time": "2026-06-05 01:35:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shipping data show Iran's oil exports fell below 300,000 barrels per day in May, the lowest level in at least six years."
+    },
+    {
+      "id": "4917962",
+      "time": "2026-06-05 01:35:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯天然氣工業股份公司與哈薩克簽署協議，敲定 2026 年增量天然氣供應事宜。"
+    },
+    {
+      "id": "mkt:019e93b3-eab9-711f-ac53-da2396c27394",
+      "time": "2026-06-05 01:35:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "DALY: Monetary policy decisions focus on the overall outlook for the next 12 months."
+    },
+    {
+      "id": "4917961",
+      "time": "2026-06-05 01:34:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Quantinuum Inc.（QNT）美國IPO首日開盤報68美元，此前給出的IPO發行價為每股60美元。這家獲得霍尼韋爾（投資）支援的量子計算公司透過IPO募資16.8億美元。"
+    },
+    {
+      "id": "mkt:019e93b3-8ca0-711f-ac53-d56f9a0e21b5",
+      "time": "2026-06-05 01:34:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Federal Reserve official Schmid said inflation remains too high, that the struggle has lasted five years, and the Fed is still seeking solutions."
+    },
+    {
+      "id": "4917960",
+      "time": "2026-06-05 01:34:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "航運資料顯示，伊朗5月石油出口量降至每日30萬桶以下，為至少六年來最低水平。"
+    },
     {
       "id": "4917959",
       "time": "2026-06-05 01:33:12",
@@ -174270,77 +174355,6 @@
         "國際"
       ],
       "text": "以色列總理本雅明・內塔尼亞胡週四在受訪時表示，他幾乎每日、隔日都會與特朗普總統就伊朗問題展開溝通，並稱相關事宜 “必須落實到底”。兩名以色列國防官員本月透露，此前以方在引發戰事的美以聯合打擊行動籌備階段話語權十足，但近幾周以色列已被邊緣化。"
-    },
-    {
-      "id": "4905410",
-      "time": "2026-05-29 01:38:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空執行長表示：目前沒有跡象表明，在當前票價環境下消費者需求具有價格彈性。"
-    },
-    {
-      "id": "4905409",
-      "time": "2026-05-29 01:37:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空執行長：儘管票價上調，需求絲毫沒有下降。"
-    },
-    {
-      "id": "4905408",
-      "time": "2026-05-29 01:37:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空執行長：自2月以來，包括西南航空在內，整個航空業已經連續七次上調票價。"
-    },
-    {
-      "id": "4905407",
-      "time": "2026-05-29 01:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【5月高溫破紀錄 歐洲多國遭遇熱浪“烤”驗】5月下旬，歐洲多個國家遭遇大範圍熱浪，給民眾生活、健康及社會運轉帶來挑戰。從25日開始，英國和法國多地出現超35攝氏度的高溫天氣，打破當地5月的最高氣溫紀錄。義大利28日對羅馬和佛羅倫薩等四座城市釋出了最高階別的高溫紅色預警。（央視新聞）"
-    },
-    {
-      "id": "4905406",
-      "time": "2026-05-29 01:37:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "西南航空股價在CEO講話後迅速抹去跌幅。"
-    },
-    {
-      "id": "4905405",
-      "time": "2026-05-29 01:37:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會稱，該機構正對化肥漲價一事展開調查。"
-    },
-    {
-      "id": "4905404",
-      "time": "2026-05-29 01:36:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "西南航空執行長：3月業務同比增長25%，這一增長勢頭在4月和5月已延續。"
-    },
-    {
-      "id": "te:markets:554591",
-      "time": "2026-05-29 01:34:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Danaher Stock Price Hits 4-week High — Danaher shares increased to 179.93 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 0.51%, and in the last 12 months, it decreased 5.64%."
     }
   ]
 }
