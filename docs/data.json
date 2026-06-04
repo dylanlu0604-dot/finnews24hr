@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-04 13:51:50",
-  "count": 19042,
+  "updated": "2026-06-04 13:55:50",
+  "count": 19044,
   "items": [
+    {
+      "id": "4916649",
+      "time": "2026-06-04 13:54:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊持續崇高，東山精密盤中創新高】風華高科、東山精密、江海股份、鈞崴電子盤中創新高，銅峰電子、世運電路、艾華集團漲停，勝業電氣漲超15%，中英科技、滬電股份、南亞新材、法拉電子、順絡電子跟漲。"
+    },
+    {
+      "id": "4916648",
+      "time": "2026-06-04 13:54:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：該安排或促成以色列與黎巴嫩達成和平協議。"
+    },
+    {
+      "id": "mkt:019e9132-2296-7cc0-ba26-c3485d7e8bf7",
+      "time": "2026-06-04 13:54:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian-appointed officials said a Ukrainian drone strike on a train killed one person and wounded three."
+    },
+    {
+      "id": "mkt:019e9131-d0d4-7cc0-ba26-bb744d774cf1",
+      "time": "2026-06-04 13:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Zhongji Xuchuang recorded a trading value of 20.0 bln yuan; shares are up 0.24%."
+    },
+    {
+      "id": "mkt:019e9131-cb24-7cc0-ba26-b623f3b6b414",
+      "time": "2026-06-04 13:53:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish",
+        "2317.TW"
+      ],
+      "text": "Hon Hai (Foxconn) and Intel are exploring comprehensive end-to-end AI solutions across silicon, rack, system and application layers, aiming to accelerate large-scale deployment of AI-driven technology in edge computing and physical AI applications."
+    },
+    {
+      "id": "4916647",
+      "time": "2026-06-04 13:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄官員稱：烏克蘭無人機襲擊一列火車，造成1人死亡、3人受傷。"
+    },
+    {
+      "id": "4916646",
+      "time": "2026-06-04 13:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：此次合作旨在加速人工智慧驅動技術在邊緣計算及實體人工智慧應用領域的大規模部署。"
+    },
+    {
+      "id": "4916645",
+      "time": "2026-06-04 13:52:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報160060.00元。"
+    },
+    {
+      "id": "4916644",
+      "time": "2026-06-04 13:52:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海與英特爾將探索覆蓋矽片、機架、系統及應用層的全棧人工智慧解決方案。"
+    },
+    {
+      "id": "4916643",
+      "time": "2026-06-04 13:52:23",
+      "tags": [
+        "央行",
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【A股進入盈利驅動上行階段，大波段上漲行情不怕等， A500ETF南方（159352）交投活躍】6月4日，A500ETF南方（159352）交投活躍，截至發稿成交額22億元。申萬宏源表示，大波段上漲行情不怕等，隨著時間的推移，市場再突破的條件會越來越好。配置方面，短期，動量延續的AI算力通脹方向減少，已向PCB細分領域、電容等方向聚焦。短期調整波段，高切低行情有所演繹，仍偏向於超跌反彈行情。中期，繼續看好新能源、新能車和出口鏈的景氣驗證機會，同時，繼續圍繞著AI產業鏈和戰略資源做配置。招商證券認為，當前A股已進入盈利驅動的上行階段，預計6月指數將呈“震盪上行、高點抬升”格局。外部看，油價高位回落緩解輸入通脹，美聯儲政策不確定性若消退，市場焦點將重回國內盈利主線。AI已成為兼具產業增長與波動放大雙重屬性的變數，其景氣尚未見頂，但高交易集中度和大型IPO會加劇市場波動。因此，六月市場仍在驗證景氣邏輯，超額收益來源於業績、供需與漲價鏈條，配置應聚焦於資源品、AI算力鏈及出口製造等業績確定性較強的方向。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
+    },
+    {
+      "id": "mkt:019e912f-e59f-7cc0-ba26-a8b8cfff5700",
+      "time": "2026-06-04 13:51:35",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【RBA says rate-hike effects emerging; housing market cooling】Bullock said the Reserve Bank of Australia has seen signs its rate hikes are starting to work and reiterated the Monetary Policy Committee will take necessary steps to meet its mandate. The RBA hiked at all three meetings this year, lifting the cash rate to 4.35% to curb resurgent inflation. Bullock warned the Middle East conflict could cause an energy shock and prompt second-round inflation. He said the housing market is a rapid transmission channel for policy and has softened, partly reflecting tighter policy. Money markets price a June pause, about a 50% chance of an August hike and a fully priced-in move by December."
+    },
     {
       "id": "mkt:019e912f-30fd-7cc0-ba26-a0b5803334a1",
       "time": "2026-06-04 13:50:49",
@@ -175395,83 +175502,6 @@
         "公司"
       ],
       "text": "【遠景能源成立蔚藍交能儲能科技公司】企查查APP顯示，近日，深圳市蔚藍交能儲能科技有限公司成立，經營範圍包含：儲能技術服務；新能源原動裝置製造；新能源原動裝置銷售；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由遠景能源有限公司全資持股。"
-    },
-    {
-      "id": "te:markets:554310",
-      "time": "2026-05-28 13:55:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Reverses Morning Gains, Ends 0.2% Lower — The NZX 50 fell 22 points, or 0.2%, to close at 13,206 on Thursday, reversing morning gains and erasing advances from the previous session after touching its highest level since May 7 a day earlier, amid inflation concerns fueled by rising oil prices due to the escalating conflict in the Middle East. Traders also assessed a statement from a top central banker today that how high interest rates will go depends on how much weaker demand from higher energy costs would hold back other price increases, after the RBNZ kept interest rates unchanged on Wednesday. The governor of the RBNZ, Anna Breman, told Morning Report that the official cash rate is expected to rise to 3% or 3.25% in the future. Most sectors traded in the red, including materials, consumer discretionary, consumer staples, and financials. ANZ Group fell 2.5%, A2 Milk shrank 2.1%, Chorus declined 1.7%, Ebos Group dropped 1.6%, Westpac Banking Corp fell 1.1%, and Auckland International Airport lost 1.1%."
-    },
-    {
-      "id": "4903975",
-      "time": "2026-05-28 13:55:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐辛巴威大使館提醒在津中國企業和公民加強安全防範】中國駐辛巴威大使館27日釋出領事提醒說，由於近期發生多起在津中國公民遭攔路搶劫和入室搶劫案件，在津中資企業、機構和公民應切實提高風險意識，加強安全防範。中國駐津使館表示，中國公民應密切跟蹤當地治安動態，及時關注使館、僑團、商協會和津政府釋出的安全提醒。如遇危險，應以保護人身安全為重。使館表示，有關企業機構要完善駐地安防措施，加強員工安全教育提醒，重視對保安人員的日常管理監督；堅持依法合規經營，尊重當地宗教和風俗習慣，依法妥善處理矛盾糾紛，切實保障勞工合法權益。（新華社）"
-    },
-    {
-      "id": "mkt:019e6d26-de64-722b-8aca-b8e96159145e",
-      "time": "2026-05-28 13:55:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese Embassy In Zimbabwe Urges Chinese Firms And Citizens In Zimbabwe To Strengthen Security Precautions】On the 27th the Chinese Embassy in Zimbabwe issued a consular reminder saying that, owing to a recent series of robberies against Chinese nationals in Zimbabwe — including roadblock robberies and residential break‑ins — Chinese-funded enterprises, institutions and citizens in Zimbabwe should increase risk awareness and bolster security precautions. The embassy said Chinese citizens should closely monitor local public‑security developments and promptly follow safety notices from the embassy, overseas Chinese organizations, trade associations and the Zimbabwean government; if facing danger, they should prioritize personal safety. The embassy urged relevant enterprises and institutions to improve on‑site security measures, strengthen employee safety education and reminders, and enhance daily management and supervision of security personnel; to operate in accordance with law and compliance requirements, respect local religions and customs, handle disputes lawfully, and properly safeguard workers’ legal rights."
-    },
-    {
-      "id": "4903974",
-      "time": "2026-05-28 13:54:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6G概念異動拉昇 中興通訊、中京電子漲停】6G概念異動拉昇，中興通訊、中京電子漲停，本川智慧漲超17%，盛路通訊、聖泉集團、東田微、武漢凡谷等漲幅居前。"
-    },
-    {
-      "id": "4903973",
-      "time": "2026-05-28 13:54:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國衛生機構：部分患者將獲得WEGOVY和MOUNJARO的報銷。"
-    },
-    {
-      "id": "4903972",
-      "time": "2026-05-28 13:54:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國醫療保健系統將報銷部分減肥藥物。"
-    },
-    {
-      "id": "4903971",
-      "time": "2026-05-28 13:52:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "工業富聯成交額超200億元，現漲7.36%。"
-    },
-    {
-      "id": "4903970",
-      "time": "2026-05-28 13:51:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電機股價暴漲15%。"
-    },
-    {
-      "id": "4903969",
-      "time": "2026-05-28 13:51:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將英飛凌目標股價從63歐元上調至91歐元。"
     }
   ]
 }
