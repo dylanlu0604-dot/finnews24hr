@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-04 21:28:52",
-  "count": 18984,
+  "updated": "2026-06-04 21:33:16",
+  "count": 18974,
   "items": [
+    {
+      "id": "4917624",
+      "time": "2026-06-04 21:32:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通股價暴跌15%，創2025年1月以來最大跌幅。"
+    },
+    {
+      "id": "4917623",
+      "time": "2026-06-04 21:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾稱美國消費者和全球貿易都展現出了韌性。"
+    },
+    {
+      "id": "4917622",
+      "time": "2026-06-04 21:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.95%，標普500指數跌0.37%，納指跌1.04%。博通跌13.67%，Ciena科技跌13.28%，CrowdStrike跌8.91%，挪威郵輪漲6.78%，聯合健康漲4.21%。“七姐妹”方面：亞馬遜漲0.92%，微軟漲0.91%，Meta Platforms漲0.81%，蘋果漲0.62%，谷歌漲0.49%，英偉達跌0.42%，特斯拉跌1.09%。"
+    },
+    {
+      "id": "te:markets:556546",
+      "time": "2026-06-04 21:30:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 6-week High — Deere & Company shares increased to 594.95 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 2.43%, and in the last 12 months, it increased 16.67%."
+    },
+    {
+      "id": "4917621",
+      "time": "2026-06-04 21:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾： 針對產能過剩問題的 301 條款複雜調查將於數週內啟動。"
+    },
+    {
+      "id": "te:markets:556545",
+      "time": "2026-06-04 21:30:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Abbott Stock Price Hits 4-week High — Abbott shares increased to 90.00 USD, the highest since May 2026. Over the past 4 weeks, Abbott lost 0.59%, and in the last 12 months, it decreased 34.55%."
+    },
+    {
+      "id": "te:markets:556544",
+      "time": "2026-06-04 21:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of America Stock Price Hits 4-week High — Bank Of America shares increased to 53.13 USD, the highest since May 2026. Over the past 4 weeks, Bank Of America gained 0.4%, and in the last 12 months, it increased 18.12%."
+    },
+    {
+      "id": "te:markets:556543",
+      "time": "2026-06-04 21:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amgen Stock Price Hits 5-week High — Amgen shares increased to 345.87 USD, the highest since April 2026. Over the past 4 weeks, Amgen gained 6.8%, and in the last 12 months, it increased 20.51%."
+    },
+    {
+      "id": "te:markets:556542",
+      "time": "2026-06-04 21:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Wells Fargo Stock Price Hits 4-week High — Wells Fargo shares increased to 80.00 USD, the highest since May 2026. Over the past 4 weeks, Wells Fargo lost 0.63%, and in the last 12 months, it increased 4.38%."
+    },
+    {
+      "id": "4917620",
+      "time": "2026-06-04 21:29:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千帆極軌11組衛星發射成功】今天，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌11組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。（央視新聞）"
+    },
+    {
+      "id": "4917619",
+      "time": "2026-06-04 21:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航新科技：公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付】航新科技在互動平臺表示，公司在國產飛機附件研製生產方面取得了良好進展。公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付。實時監控管理元件（RTMU）、無線快速存取記錄器（WQAR）等關鍵機載裝置已完成適航審定，實現批次交付與裝機運營，產品可適配商飛、空客、波音多系列機型。"
+    },
+    {
+      "id": "4917618",
+      "time": "2026-06-04 21:28:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【禮來美股盤前漲超2%】禮來美股盤前漲超2%，現報1101.0美元。"
+    },
     {
       "id": "4917617",
       "time": "2026-06-04 21:26:19",
@@ -174816,230 +174933,6 @@
         "市場"
       ],
       "text": "賽富時（Salesforce）股價下跌2.6%，此前該公司公佈第二財季收入預測低於市場預期。"
-    },
-    {
-      "id": "mkt:019e6eca-2875-7ff8-91d3-2ef359872830",
-      "time": "2026-05-28 21:33:15",
-      "tags": [
-        "MKT News",
-        "MRVL.O",
-        "Impact bullish"
-      ],
-      "text": "MARVELL (MRVL.O) shares rose 1.5% after the company said it expects second-quarter revenue to exceed estimates."
-    },
-    {
-      "id": "4905018",
-      "time": "2026-05-28 21:32:57",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【全球股市屢創新高 一些超級富豪開始獲利了結】隨著股市屢創新高，全球超級富豪群體正選擇獲利了結、套現離場；近幾周來，他們已累計拋售了價值超過10億美元的股票。上週，德國菲斯曼（Viessmann）家族的一位後裔出售了價值約7.5億美元的開利全球公司（Carrier Global）股份——這是一家總部位於佛羅里達州的空調裝置製造商。與此同時，丹麥大亨亨裡克·林德（Henrik Lind）也拋售了價值約1.75億美元的設施管理公司ISS A/S的股份。本月，礦產資源有限公司（Mineral Resources Ltd.）的創始人克里斯·埃裡森（Chris Ellison）透過出售其在這家澳大利亞礦業服務公司中約10%的股份，套現1.225億澳元（約合8700萬美元）；這是他近十年來首次減持該項投資。這些交易生動地展現了富有的私人投資者是如何在全球股市指數創下歷史新高之際，透過減持大額倉位來鎖定投資收益的。儘管地緣政治局勢動盪，但在人工智慧熱潮和企業盈利增長的推動下，全球股市依然一路飆升。包括高盛在內的多家投行均認為股市仍有進一步上漲的空間，儘管也有部分投資者開始擔憂當前的估值已顯得過高。"
-    },
-    {
-      "id": "mkt:019e6ec9-f475-7669-a41b-56cbbfa37c97",
-      "time": "2026-05-28 21:32:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CARR.O",
-        "Impact bearish",
-        "ISS.CO",
-        "MIN.AX"
-      ],
-      "text": "【Billionaires Take Profits As Global Stocks Hit Records】Global billionaires are trimming positions as equity indices hit record highs. In recent weeks they have sold more than $1bn of stock: a Viessmann heir sold about $750m of Carrier Global shares; Danish magnate Henrik Lind sold roughly $175m of ISS A/S stock; and Mineral Resources Ltd. founder Chris Ellison sold about 10% of his holding for A$122.5m (≈$87m), his first reduction in nearly a decade. The transactions signal wealthy private investors locking gains amid an AI-fueled rally and stronger corporate earnings, despite geopolitical volatility. Banks including Goldman Sachs still see upside, though some investors warn valuations look stretched."
-    },
-    {
-      "id": "4905017",
-      "time": "2026-05-28 21:32:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "MARVELL TECHNOLOGY股價上漲2.6%，此前該公司公佈的第二財季營收預測高於市場預期。"
-    },
-    {
-      "id": "mkt:019e6ec9-88f1-7669-a41b-4b26248d2c57",
-      "time": "2026-05-28 21:32:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "On May 28 (Thursday) opening, the Dow Jones fell 268.55 points (-0.53%) to 50,375.73, the S&P 500 fell 1.20 points (-0.02%) to 7,519.16, and the Nasdaq Composite rose 25.42 points (+0.10%) to 26,700.16."
-    },
-    {
-      "id": "mkt:019e6ec9-757b-7669-a41b-43fa9a64866f",
-      "time": "2026-05-28 21:32:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SHOIGU said Russia's military base in Armenia exists to ensure Armenia's security."
-    },
-    {
-      "id": "4905016",
-      "time": "2026-05-28 21:32:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯防長紹伊古談俄羅斯駐亞美尼亞軍事基地：該基地的存在是為保障亞美尼亞的安全。"
-    },
-    {
-      "id": "4905015",
-      "time": "2026-05-28 21:32:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：聯合利華將投資2.7億美元在美國康涅狄格州紐黑文市新建一座研發中心，預計2029年投用。"
-    },
-    {
-      "id": "4905014",
-      "time": "2026-05-28 21:31:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "PHOTRONICS股價暴跌32%，創2008年以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019e6ec8-d611-7669-a41b-39b91419cc18",
-      "time": "2026-05-28 21:31:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "Wall Street Journal reports Unilever will build a new research facility in the United States."
-    },
-    {
-      "id": "mkt:019e6ec8-bac5-7669-a41b-373d1e0149e3",
-      "time": "2026-05-28 21:31:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "WILLIAMS: Persistently elevated inf will require higher interest rates than current levels."
-    },
-    {
-      "id": "mkt:019e6ec8-8721-7669-a41b-288d2a8ad9e3",
-      "time": "2026-05-28 21:31:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "WILLIAMS: Fed monetary policy remains somewhat restrictive."
-    },
-    {
-      "id": "4905013",
-      "time": "2026-05-28 21:31:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：持續高通脹將需要更高利率，當前形勢並非如此。"
-    },
-    {
-      "id": "4905012",
-      "time": "2026-05-28 21:31:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Snowflake公佈第二季度收入預測高於市場預期，並簽署60億美元亞馬遜雲服務（AWS）協議後，其股價上漲33.6%。"
-    },
-    {
-      "id": "4905011",
-      "time": "2026-05-28 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.44%，標普500指數跌0.00%，納指漲0.03%。The Trade Desk跌6.24%，Strategy跌4.10%，泰森食品跌4.01%，拼多多跌3.23%，安捷倫科技漲16.27%，美元樹漲11.66%，荷美爾漲8.92%。“七姐妹”方面：Meta Platforms漲1.09%，微軟漲0.63%，英偉達漲0.17%，蘋果跌0.23%，谷歌跌0.23%，特斯拉跌0.67%，亞馬遜跌0.77%。"
-    },
-    {
-      "id": "4905010",
-      "time": "2026-05-28 21:30:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美聯儲的貨幣政策略具限制性。"
-    },
-    {
-      "id": "mkt:019e6ec7-a16e-7669-a41b-26ae32ef1a85",
-      "time": "2026-05-28 21:30:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "China EV Leaders",
-        "HPQ.N",
-        "Impact bullish",
-        "LI.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. equities opened mixed: Dow Jones Industrial Average -0.06%, S&P 500 -0.47%, Nasdaq Composite +0.04%. HP Inc (HPQ.N) +3% after second fiscal-quarter results beat expectations. Li Auto (LI.O) -4% after Q1 revenue fell 11% YoY."
-    },
-    {
-      "id": "4905009",
-      "time": "2026-05-28 21:30:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多S&P/TSX綜合指數開盤下跌28.86點，跌幅0.08%，報34383.19點。"
-    },
-    {
-      "id": "4905008",
-      "time": "2026-05-28 21:30:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，海天網路跌5.45%，理想汽車跌3.30%，樂信跌4.08%，金山雲跌4.04%，信也科技跌2.91%。"
-    },
-    {
-      "id": "4905007",
-      "time": "2026-05-28 21:30:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：德國萊茵集團正考慮增持Amprion的更多股份。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605283753030247",
-      "time": "2026-05-28 21:29:27",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲官員威廉姆斯：貨幣政策正處在美聯儲希望達到的狀態】美聯儲官員威廉姆斯表示，貨幣政策正處在美聯儲希望達到的狀態，且處於良好態勢。"
-    },
-    {
-      "id": "4905006",
-      "time": "2026-05-28 21:29:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德防長：北約國家在美國面前不要“像兔子見了蛇” 】德國國防部長鮑里斯·皮斯托裡烏斯27日訪問加拿大期間稱，北約國家在美國面前不要表現得“像兔子見了蛇”。皮斯托裡烏斯當天在加拿大的一場防務和安全展覽會上表示，北約盟友應“果斷”加強軍事建設，以應對與美國“愈發不確定”的關係。皮斯托裡烏斯同時強調，北約盟友需兌現對北約的防務承諾，更多關注“自身能做的事”。（新華社）"
     }
   ]
 }
