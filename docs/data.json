@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-04 14:45:26",
-  "count": 19042,
+  "updated": "2026-06-04 14:49:30",
+  "count": 19041,
   "items": [
+    {
+      "id": "4916725",
+      "time": "2026-06-04 14:48:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湘佳股份與中國移動湖南公司簽署“十五五”戰略合作協議】記者獲悉，6月3日，常德市政府與中國行動通訊集團湖南有限公司簽訂“十五五”戰略合作協議簽約。作為此次簽約的企業代表，湘佳股份與中國移動湖南公司簽署“十五五”戰略合作協議，雙方將在數字技術與產品銷售兩大領域深化合作，共同打造農業數字化標杆。"
+    },
+    {
+      "id": "4916724",
+      "time": "2026-06-04 14:47:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐烏拉圭大使黃亞中即將卸任】據中國駐烏拉圭大使館官網訊息，6月2日，駐烏拉圭大使黃亞中辭行拜會烏廣泛陣線主席佩雷拉。"
+    },
+    {
+      "id": "te:economy:556394",
+      "time": "2026-06-04 14:47:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Swiss CPI Rises Less Than Expected — Consumer prices in Switzerland rose by 0.6% year-on-year in May 2026, falling short of market expectations for a 0.8% increase but the same pace as in the previous month. The latest reading still marked the fastest rise since December 2024, largely driven by higher costs for housing and energy (at 1.5%) and transport (2% vs 1.2% in April)."
+    },
+    {
+      "id": "mkt:019e9162-c927-7113-83c8-98d00e596df1",
+      "time": "2026-06-04 14:47:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Caitong Securities: MLCC demand shifting to AI compute and auto electronics; industry entering \"K-shaped\" recovery】Caitong Securities said in a research note that multi-layer ceramic capacitors (MLCC) are shifting from consumer-electronics cyclicals to hard‑tech growth driven by AI compute and automotive electronics. With demand-side restructuring, rigid constraints on high‑end supply and a K‑shaped price-cycle divergence, the global MLCC market is undergoing structural change and a window for Chinese domestic substitution is gradually opening."
+    },
+    {
+      "id": "4916723",
+      "time": "2026-06-04 14:46:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯財長： 當前物價水平有利於充實儲備資金。"
+    },
+    {
+      "id": "4916722",
+      "time": "2026-06-04 14:45:54",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【財通證券：MLCC需求邏輯重構 AI算力與汽車電子驅動行業步入“K型復甦”】財通證券6月3日釋出研報指出，多層陶瓷電容器（MLCC）正從消費電子週期品，向以AI算力與汽車電子為核心的硬科技成長品轉型。在需求側邏輯重塑、供給側高階產能剛性約束以及價格週期“K型分化”的多重作用下，全球MLCC市場正迎來結構性變革，國產替代視窗逐步開啟。"
+    },
+    {
+      "id": "4916721",
+      "time": "2026-06-04 14:45:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【埃泰克增資至1.61億 增幅約39%】天眼查App顯示，近日，埃泰克（603293）發生工商變更，註冊資本由約1.16億人民幣增至約1.61億人民幣，增幅約39%。 該公司成立於2002年12月，法定代表人為Chen Zejian，經營範圍包括汽車零部件研發、軟體開發、智慧車載裝置製造等，由奇瑞汽車股份有限公司、蕪湖佳泰智慧技術有限公司、湖北小米長江產業基金合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "te:markets:556392",
+      "time": "2026-06-04 14:45:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Little-Changed Amid Geopolitical Tensions — The British pound stayed just above $1.34 as investors remained cautious due to escalating tensions between Iran and the US and fears that prolonged conflict could sustain high inflation. Iran claimed it targeted a US command ship in the Gulf of Oman, while the Republican-led House voted to halt US military action against Iran, rebuking US President Donald Trump. Israel and Lebanon also agreed to a conditional ceasefire, with Prime Minister Benjamin Netanyahu warning of potential further strikes. On monetary policy, markets are anticipating nearly two Bank of England interest rate hikes this year, with the first increase widely expected in September, as policymakers navigate the dual challenge of tackling rising inflation while addressing early signs of a cooling labor market."
+    },
+    {
+      "id": "4916720",
+      "time": "2026-06-04 14:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報17652.00元。"
+    },
+    {
+      "id": "te:markets:556391",
+      "time": "2026-06-04 14:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Drops 1% at Close — The ASX 200 fell 100 points, or 1.1%, to finish at 8,686 on Thursday, shifting from gains in the prior session and retreating from a one-month peak as profit-taking set in. Meanwhile, geopolitical tensions resurfaced after Tehran struck Kuwait’s airport, injuring dozens, and U.S. forces hit targets near the Strait of Hormuz. Locally, the Reserve Bank of Australia signaled vigilance as inflation held at 4.2% in April, above its 2–3% band, and Q1 GDP growth slowed sharply. Still, losses were cushioned by April trade data showing Australia returned to surplus, driven by stronger exports and weaker imports. Commercial services, non-energy minerals, and manufacturing drove the losses. Mining stocks pulled back, with BHP and Rio Tinto shedding 3.2% and 3.7%, their weakest since mid-May after record highs a day earlier. Tech names tracked Nasdaq weakness, with WiseTech down 5% and Xero off 3%. Energy stocks bucked the trend as oil prices rose, lifting Woodside Energy (0.3%) and Santos (0.8%)."
+    },
     {
       "id": "mkt:019e9160-85a4-7113-83c8-95fd51cfcdb7",
       "time": "2026-06-04 14:44:42",
@@ -175421,105 +175519,6 @@
         "國際"
       ],
       "text": "【商務部：王文濤部長會見巴基斯坦商務部部長卡馬爾】5月26日，商務部部長王文濤在京會見陪同巴基斯坦總理夏巴茲來華訪問的巴商務部部長卡馬爾。雙方就深化中巴經貿關係等議題交換意見。\n\n王文濤表示，夏巴茲總理此次訪華適逢中巴建交75週年，兩國領導人達成一系列重要共識，為雙邊經貿關係發展作出了戰略指引。中方願與巴方一道，落實好兩國領導人重要共識，推動雙邊經貿關係不斷邁上新臺階，為構建新時代更加緊密的中巴命運共同體貢獻力量。\n\n卡馬爾表示，巴中是“鐵桿”朋友，巴方願與中方加強溝通，進一步深化貿易、投資、發展援助等傳統領域合作，積極開拓綠色、科技等新興領域發展機遇。"
-    },
-    {
-      "id": "4904068",
-      "time": "2026-05-28 14:49:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晉拓股份等成立航空科技公司】企查查APP顯示，近日，上海泰維航航空科技有限公司成立，經營範圍包含：通用零部件製造；機械零件、零部件加工；機械零件、零部件銷售；民用航空材料銷售等。企查查股權穿透顯示，該公司由晉拓股份等共同持股。"
-    },
-    {
-      "id": "4904067",
-      "time": "2026-05-28 14:48:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江證券劉元瑞：金融業的本質是長期主義 “沒有哪家偉大機構靠追逐熱點成就”】5月28日，在長江證券2026年中期策略會上，長江證券黨委副書記、總裁劉元瑞分享了他對金融行業本質的深度思考：“金融和所有行業一樣，本質上都是長期主義。”劉元瑞從三個維度闡釋了這一判斷：銀行經營的是信用，信用的建立需要十年如一日的穩健；資管經營的是信任，信任的積累來自長期穿越週期的表現；投研經營的是判斷，聲譽的鑄就來自一個又一個紮實研究的沉澱。他直言，“沒有哪家偉大的金融機構，是靠追逐熱點成就的。”“真正有價值的東西，值得用時間去澆灌。”劉元瑞引用巴菲特的話“想想你希望自己的訃告寫什麼，然後去過配得上它的生活”，指出長期主義不只是投資方法，更是一種人生選擇。"
-    },
-    {
-      "id": "4904066",
-      "time": "2026-05-28 14:48:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【《深市上市公司ESG實踐英文案例集》正式釋出】由深交所與新浪財經合作編制的《深市上市公司ESG實踐英文案例集》5月28日在“深交所2026全球投資者大會”上釋出。“案例集”以“塑造可持續發展內生價值——深市上市公司實踐”為主題，旨在宣揚中國可持續發展理念，客觀展示深市上市公司高質量發展成果，宣介深市長期投資價值。寧德時代、比亞迪、陽光電源、匯川技術、邁瑞醫療、順豐控股、領益智造、天齊鋰業、麗珠集團等9家上市公司入選首批案例集。"
-    },
-    {
-      "id": "4904065",
-      "time": "2026-05-28 14:48:19",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元回到160附近 市場翹首以待財務省揭曉干預規模】外匯交易員正翹首以待日本財務省週五公佈的官方資料，以便獲悉當局在過去一個月裡花了多大力氣支撐日元匯率。目前，日元仍在1美元兌160日元附近承壓。在日本財務省指示央行入市捍衛匯率後，日元曾在4月下旬和5月初反彈，但現已回吐大部分漲幅。對日本央行賬戶的初步分析顯示，從4月30日一直到5月6日日本“黃金週”假期結束，當局可能動用了至多10萬億日元（630億美元）來提振日元。儘管日本官員拒絕就干預與否直接置評，但一位知情人士稱4月30日確有干預，而且一直到5月6日的匯率走勢也帶有政府出手買入的特點。"
-    },
-    {
-      "id": "4904064",
-      "time": "2026-05-28 14:47:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佳雲科技成立靈犀文化科技公司，含多項AI業務】企查查APP顯示，近日，深圳市佳雲靈犀文化科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；軟體開發；人工智慧通用應用系統；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由佳雲科技間接全資持股。"
-    },
-    {
-      "id": "4904063",
-      "time": "2026-05-28 14:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【至少202名外國移民在希臘南部海域獲救】據希臘方面訊息，當地時間5月28日，希臘海岸警衛隊、歐洲邊境及海岸警衛隊在希臘南部克里特島周邊海域開展了4次搜救行動，共救出至少202名外國移民。希臘海岸警衛隊稱，所有救援行動均已安全完成，相關部門正在對獲救人員進行必要的登記和身份識別程式。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6d55-8f77-722b-8acb-8a952f3db6dc",
-      "time": "2026-05-28 14:46:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Alibaba DAMO Releases GPU Version Of MindOpt, Says It Overcomes 'Long‑Tail' Bottleneck And Can Solve 100‑Million‑Variable LPs】Alibaba DAMO Academy said on its official Weibo account today that its MindOpt solver has formally released a GPU version, leveraging GPU parallel acceleration and new algorithms to address the \"long‑tail effect\". Tests on about 2,000 general benchmark instances show MindOpt can stably solve more than 99% of problem types to high precision and can support linear programming problems at the 100‑million‑variable scale that were traditionally considered \"unsolvable.\" The solver is described as \"the core of industrial software,\" handling complex computations for power dispatch, flight scheduling, advanced manufacturing and financial management. By contrast, traditional linear programming solvers are CPU‑designed and rely on complex matrix decomposition; as problem scale grows, memory requirements can explode and limited algorithmic parallelism can leave problems unconverged for hours or cause outright crashes."
-    },
-    {
-      "id": "4904062",
-      "time": "2026-05-28 14:46:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "澳航新增獎勵座位，目前澳航、捷星航空及30家合作航空公司共有200萬個獎勵座位可供預訂。"
-    },
-    {
-      "id": "mkt:019e6d55-27af-722b-8acb-85aaed81d6e1",
-      "time": "2026-05-28 14:45:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Six European Countries Warn EU Plan To Cut Free Carbon Allowances Risks Deindustrialization】On May 28 local time, Bulgaria, the Czech Republic, Greece, Poland, Romania and Slovakia jointly warned that the European Commission's plan to sharply reduce free CO2 allowances could drive cement, steel and chemical plants into bankruptcy. They said the emissions limits set by the Commission are technically unachievable. The six countries warned that if mechanisms within the EU carbon emissions trading system (EU ETS) do not become immediately more realistic, Europe faces deep deindustrialization and a loss of strategic autonomy."
-    },
-    {
-      "id": "4904061",
-      "time": "2026-05-28 14:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里達摩院首次釋出GPU版本求解器 突破億級變數“不可解”難題】達摩院今日官微訊息，阿里巴巴達摩院“敏迭”求解器（MindOpt）正式釋出GPU版本，充分利用GPU並行加速特性，引入新演算法突破“長尾效應”難題。針對約2000個通用算例的測試顯示，敏迭可將99%以上的問題型別穩定求解至高精度，更能支援傳統上“不可解”的億級變數線性規劃問題。據悉，求解器被譽為“工業軟體之芯”，負責電力排程、航班編排、高階製造、金融管理等關鍵領域的複雜計算。傳統線性規劃求解器基於CPU設計，依賴複雜的矩陣分解計算，隨著問題規模膨脹，記憶體需求會爆炸式增長，加上傳統求解演算法的並行度有限，導致數小時都無法收斂問題，甚至直接崩潰。"
-    },
-    {
-      "id": "mkt:019e6d54-d550-722b-8acb-7dfc3134668b",
-      "time": "2026-05-28 14:45:32",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "France April PPI MoM -2.1%; prior reading revised from 2.00% to 1.9%."
     }
   ]
 }
