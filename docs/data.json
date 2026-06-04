@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-04 09:46:09",
-  "count": 19157,
+  "updated": "2026-06-04 09:50:09",
+  "count": 19166,
   "items": [
+    {
+      "id": "mkt:019e9052-1af1-7cc0-ba21-74a986238ecf",
+      "time": "2026-06-04 09:49:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSMC CEO said employee and shareholder interests are effectively aligned, since most employees hold company stock."
+    },
+    {
+      "id": "te:markets:556295",
+      "time": "2026-06-04 09:49:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Advance — US natural gas futures rose to around $3.23 per MMBtu as investors await the weekly storage data, which is expected to show a slight increase in the supply surplus. Prices remain supported by weather-driven demand expectations, with forecasts pointing to mostly above-normal temperatures through June 18. This should lift gas-fired power generation as air-conditioning demand rises. On the supply side, average production in the Lower 48 states fell to 109.0 bcfd so far in June from 109.7 bcfd in May. The decline in output over recent weeks has likely narrow the storage surplus to around 5.9% above normal for the week ended May 29, compared with 6.2% in the previous week. However, upside momentum has been partially offset by weaker LNG demand. Average feedgas flows to major LNG export terminals have fallen from 17.1 bcfd in May to 16.3 bcfd so far in June amid ongoing seasonal maintenance at several facilities."
+    },
+    {
+      "id": "4916348",
+      "time": "2026-06-04 09:48:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長表示：由於公司多數員工本身也是股東，照顧員工利益與維護股東利益本質上是一回事。"
+    },
+    {
+      "id": "mkt:019e9051-9c61-7cc0-ba21-69b5ccd3121e",
+      "time": "2026-06-04 09:48:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Malaysia's ringgit fell to 4.0010 per US dollar, its weakest level since April 7."
+    },
+    {
+      "id": "4916347",
+      "time": "2026-06-04 09:48:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特兌美元跌至4.0010，創4月7日以來新低。"
+    },
+    {
+      "id": "mkt:019e9051-60ac-7cc0-ba21-65b6d671349b",
+      "time": "2026-06-04 09:48:32",
+      "tags": [
+        "MKT News",
+        "TSM.O"
+      ],
+      "text": "TSMC CEO says the company is fully committed to taking care of employees."
+    },
+    {
+      "id": "mkt:019e9051-242c-7cc0-ba21-5d56ce7accb3",
+      "time": "2026-06-04 09:48:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI losses widen to 1%; Hang Seng Tech Index down 1.36%."
+    },
+    {
+      "id": "4916346",
+      "time": "2026-06-04 09:48:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：全力致力於保障員工權益。"
+    },
+    {
+      "id": "4916345",
+      "time": "2026-06-04 09:47:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25376.430點；恒生科技指數現跌1.380%。"
+    },
+    {
+      "id": "4916344",
+      "time": "2026-06-04 09:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電CEO：較長時間內仍難滿足市場需求。"
+    },
+    {
+      "id": "mkt:019e904f-e06f-7cc0-ba21-522e5faf864c",
+      "time": "2026-06-04 09:46:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share China shipbuilding sector extended gains; CSSC Special Gas rose over 16%, while China Power, Jiuzhiyang, CSSC Hanguang and China Shipbuilding also traded higher."
+    },
+    {
+      "id": "4916343",
+      "time": "2026-06-04 09:46:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念表現活躍 淳中科技漲停】液冷伺服器概念表現活躍，淳中科技漲停，大元泵業、歐陸通、飛龍股份、強瑞技術跟漲。"
+    },
+    {
+      "id": "4916342",
+      "time": "2026-06-04 09:46:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣板塊震盪下挫 科力股份跌超10%】早盤油氣板塊震盪下挫，科力股份跌超10%，通源石油、山東墨龍、迪威爾、潛能恆信、中曼石油等跟跌。"
+    },
+    {
+      "id": "mkt:019e904f-1fa4-7cc0-ba21-4e1b9f9ac1a7",
+      "time": "2026-06-04 09:46:03",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "TSMC (TSM.N) CEO said meeting U.S. domestic demand will take a long time."
+    },
+    {
+      "id": "mkt:019e904e-f796-7cc0-ba21-44349ca9e2da",
+      "time": "2026-06-04 09:45:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) CEO said the company has purchased High-NA EUV lithography equipment but declined to disclose the number."
+    },
     {
       "id": "4916341",
       "time": "2026-06-04 09:45:29",
@@ -176363,56 +176508,6 @@
         "國際"
       ],
       "text": "【“和平委員會”賬戶“零收入” 另設“小金庫”】美國總統特朗普今年1月22日高調啟動“和平委員會”，稱將推動巴勒斯坦加沙地帶重建。然而，據《金融時報》27日援引多名知情人士的話披露，4個多月來，“和平委員會”在世界銀行開設的賬戶資金為零，而且另設了一個“小金庫”。特朗普先前表示，“和平委員會”成員計劃提供70億美元，美國將捐款100億美元。但一名知情人士說，“和平委員會”在世界銀行的賬戶至今“存入的美元為零”。同時，“和平委員會”在美國摩根大通銀行設立一個賬戶。“和平委員會”一名官員證實，包括世界銀行賬戶在內，有“多種途徑”接受捐款，但“目前捐款方選擇使用”世行以外的途徑。世行必須向捐款方和“和平委員會”成員報告賬戶資金情況，但設在摩根大通的賬戶則不受獨立的透明性監管。那名“和平委員會”官員表示，將在“合適的時間”向“和平委員會”的創始執行委員會報告財務情況。這一執行委員會成員多數是特朗普政府的官員，包括國務卿魯比奧。（新華社）"
-    },
-    {
-      "id": "mkt:019e6c46-2c02-788f-b185-1a23633fed32",
-      "time": "2026-05-28 09:49:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. FAA Orders SpaceX To Investigate Starship Booster Accident】According to The Hill, the U.S. Federal Aviation Administration (FAA) on Wednesday ordered SpaceX to investigate the cause of a Super Heavy booster losing control and falling into the Gulf of Mexico during a test flight last week. After assessing the 12th Starship launch, the FAA said the launch \"experienced an accident\" and that the failure originated with the Super Heavy booster, which fell into the Gulf during its return following stage separation. The FAA added there are no reports of injuries or property damage and said it will oversee the company-led investigation; Starship may not fly again until the FAA approves SpaceX's final investigation report and any corrective measures."
-    },
-    {
-      "id": "4903553",
-      "time": "2026-05-28 09:49:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026世界智慧產業博覽會重點專案簽約 85個好專案落子天津】據天津日報，昨天上午，2026世界智慧產業博覽會重點專案在津簽約，85個重點專案集中落地。此次簽約分8組進行，涉及“117專案”資產盤活組、“117片區”重點專案組、京津冀協同發展專案組、智慧製造專案組、新能源與高階裝備製造專案組、高階服務業專案組、具身智慧組、綠色低碳先進製造業專案組，突出新質生產力，以新專案、新技術之勢，推動產業實現新躍升。"
-    },
-    {
-      "id": "4903552",
-      "time": "2026-05-28 09:48:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：一季度非洲智慧手機市場出貨量增長3%】Omdia研報指出，受新品釋出以及頭部廠商提前備貨的推動，2026年第一季度，非洲智慧手機市場同比增長3%至1990萬部。儘管市場實現溫和增長，但由於零部件價格上漲、匯率波動以及非洲主流的150美元以下價位段面臨更大支付能力壓力，許多非洲經濟體的手機市場環境仍在持續走弱。值得注意的是，非洲市場的底層需求依然具有結構性韌性，主要受不斷增長的連線需求、數字服務普及以及年輕化、移動網際網路優先的人口結構推動。然而，日益惡化的經濟與運營壓力，正使消費者與廠商在智慧手機支付能力方面面臨越來越大的挑戰。"
-    },
-    {
-      "id": "4903551",
-      "time": "2026-05-28 09:47:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "蔚來汽車股價上漲8%，報45.04港元。"
-    },
-    {
-      "id": "4903550",
-      "time": "2026-05-28 09:46:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4903549",
-      "time": "2026-05-28 09:46:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華電遼能漲超7% 公司提示風險：不涉及算電協同專案】5月28日，華電遼能盤中拉昇漲超7%。截至9時38分，該股漲7.16%，成交額超15億元。5月27日晚，華電遼能釋出股票交易異常波動公告稱，公司股票於2026年5月25日、5月26日、5月27日連續三個交易日內日收盤價格漲幅偏離值累計超過20%。公司稱，日常經營情況未發生重大變化，不涉及算電協同專案。"
     }
   ]
 }
