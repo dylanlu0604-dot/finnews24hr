@@ -1,7 +1,250 @@
 {
-  "updated": "2026-06-04 23:00:29",
-  "count": 18912,
+  "updated": "2026-06-04 23:04:48",
+  "count": 18930,
   "items": [
+    {
+      "id": "4917768",
+      "time": "2026-06-04 23:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：將繼續支援巴勒斯坦的“抵抗”。"
+    },
+    {
+      "id": "mkt:019e9329-0ab6-7ff8-893b-41f54df172fc",
+      "time": "2026-06-04 23:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi held a phone call with a member of Hamas' leadership council."
+    },
+    {
+      "id": "4917767",
+      "time": "2026-06-04 23:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：已提請國會著手取消燃油稅。"
+    },
+    {
+      "id": "mkt:019e9328-c87f-7ff8-893b-3ffd0f674888",
+      "time": "2026-06-04 23:02:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "IMF says current global oil prices are about 3% higher than the level used in April when it forecast global growth at 3.1%."
+    },
+    {
+      "id": "4917766",
+      "time": "2026-06-04 23:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗阿拉格齊與哈馬斯領導層委員會成員通電話。"
+    },
+    {
+      "id": "mkt:019e9328-8c24-7ff8-893b-3101f177c94f",
+      "time": "2026-06-04 23:02:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IMF: Since early 2026 Argentina's central bank has purchased $10 billion of foreign exchange."
+    },
+    {
+      "id": "mkt:019e9328-3154-7ff8-893b-28492074465a",
+      "time": "2026-06-04 23:02:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The International Monetary Fund now expects U.S. inflation to return to the Federal Reserve's 2% target by end-2027, versus mid-2027 previously; markets have begun pricing in further rate hikes."
+    },
+    {
+      "id": "4917765",
+      "time": "2026-06-04 23:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國麥收高效有序推進 良種良法助力顆粒歸倉】農業農村部最新小麥機收資料顯示，目前，全國已收穫夏糧小麥1.66億畝，收穫進度近五成。各地搶抓農時，有序推進小麥收割。江蘇省淮安市的400多萬畝小麥陸續成熟。在淮安市三河農場，趁著晴好天氣，當地採用了“降速增機”的策略，適當增加收割機數量，降低機械的作業速度，最大程度防止籽粒破碎和飛濺。為應對前期降雨帶來的搶收壓力，淮安市提前統籌，投入各類裝置3萬臺套，構建起“收割、轉運、烘乾”全鏈條的機械化體系。當地還組織農技人員下沉一線，針對雨後收割、糧食烘乾及夏種提供精細化的技術指導。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9327-e8f9-7ff8-893b-239dd94d056d",
+      "time": "2026-06-04 23:02:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "IMF: With inflation risks rising, the Fed should proceed cautiously on interest-rate policy."
+    },
+    {
+      "id": "4917764",
+      "time": "2026-06-04 23:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：臉書上線創作者助手功能。"
+    },
+    {
+      "id": "mkt:019e9327-6ab9-7ff8-893b-1aec01a1a225",
+      "time": "2026-06-04 23:01:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "IMF says it has observed some pass-through of higher tariffs into US inflation, and that rising energy prices are again increasing headline inflationary pressure."
+    },
+    {
+      "id": "4917763",
+      "time": "2026-06-04 23:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：羅馬尼亞總統約翰尼斯提名顧問歐金·托馬克為總理。"
+    },
+    {
+      "id": "mkt:019e9327-46bc-7ff8-893b-16936150e20e",
+      "time": "2026-06-04 23:01:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IMF expects global oil inventories to fall to 7.5 bln barrels in July, the lowest in five years; inventories were about 8.0 bln barrels before the Iran war."
+    },
+    {
+      "id": "mkt:019e9327-0d92-7ff8-893b-0bef069b8c87",
+      "time": "2026-06-04 23:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of 23:00 close, China's most-active futures contracts were mostly lower. Palm oil fell more than 2%; synthetic rubber and LPG dropped about 2%. Fuel oil, soybean No.2, low-sulfur fuel oil (LU), cotton and PVC declined over 1%. Coking coal rose more than 1%; starch and coke gained about 1%."
+    },
+    {
+      "id": "4917762",
+      "time": "2026-06-04 23:01:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織（IMF）：美聯儲需依據最新經濟資料審慎調整政策，美聯儲保持清晰的政策溝通仍至關重要。"
+    },
+    {
+      "id": "mkt:019e9327-0261-7ff8-893b-02d7fc1c1841",
+      "time": "2026-06-04 23:01:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IMF says conflict involving Iran has suppressed roughly 14 mln bpd of global oil output; future oil prices will depend on whether the Strait of Hormuz reopens."
+    },
+    {
+      "id": "4917761",
+      "time": "2026-06-04 23:01:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織（IMF）：美聯儲2%通脹目標的迴歸時間目前預計為2027年末，此前預測為2027年年中，市場已開始押注加息。"
+    },
+    {
+      "id": "mkt:019e9326-bf6f-7ff8-893a-fde905c47fe7",
+      "time": "2026-06-04 23:00:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "IMF: Fed policy should be adjusted carefully in response to incoming data; clear Federal Reserve communication will remain essential."
+    },
+    {
+      "id": "4917760",
+      "time": "2026-06-04 23:00:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：伊朗戰事已導致原油日產量減少1400萬桶，油價將取決於霍爾木茲海峽能否恢復通航。"
+    },
+    {
+      "id": "4917759",
+      "time": "2026-06-04 23:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：預計7月石油儲備將降至75億桶的五年低位，而伊朗戰爭爆發前的石油儲備為80億桶。"
+    },
+    {
+      "id": "4917757",
+      "time": "2026-06-04 23:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織表示，原定於6月15日當週對塞內加爾進行的訪問將照常進行，以繼續與該國當局開展技術討論。"
+    },
+    {
+      "id": "te:markets:556554",
+      "time": "2026-06-04 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.56% — Top currency gainers are Swedish Krona (0.56%), Swiss Franc (0.50%), Polish Zloty (0.40%), Euro (0.28%) and British Pound (0.19%). Biggest loser is Dollar Index (-0.22%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4917756",
+      "time": "2026-06-04 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】棕櫚油連續跌2.33%，液化石油氣連續跌1.93%，燃料油連續跌1.71%，低硫燃料油連續跌1.62%，豆二連續跌1.57%。"
+    },
+    {
+      "id": "4917755",
+      "time": "2026-06-04 22:59:24",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【新華時評：日本炒作“周邊威脅”難掩禍心】新華社刊發評論文章指出，近日，日本媒體披露了日本2026年版《防衛白皮書》概要。不出所料，這份新版白皮書老調重彈，繼續大肆渲染所謂“周邊安全威脅”。劇本可謂毫無新意，反倒將其借危謀武、擴軍備戰的危險圖謀暴露得更加清楚。明眼人一看便知，在亞太地區，那個不斷渲染“威脅”的國家，才是地區和平穩定最大的威脅。亞太地區渴望和平發展，絕不能淪為地緣博弈的角鬥場。日本右翼勢力應認清時代大勢，正視並深刻反省侵略歷史，停止以渲染所謂“周邊威脅”為藉口推進“再軍事化”。倘若執迷不悟，繼續沉迷於編造“中國威脅論”的謊言，執意在“新型軍國主義”的窮途末路上狂奔，日本不僅無法獲得真正的安全，還將為破壞地區和平穩定承擔應有的罪責、付出應有的代價。"
+    },
     {
       "id": "4917754",
       "time": "2026-06-04 22:59:07",
@@ -174207,58 +174450,6 @@
         "國際"
       ],
       "text": "美國、墨西哥和加拿大將採取協同舉措，保障2026年 FIFA 世界盃期間預計到場的本國公民、訪客、球迷、運動員及遊客的安全。"
-    },
-    {
-      "id": "te:markets:554557",
-      "time": "2026-05-28 23:04:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rebounds as Middle East Ceasefire Hopes Offset Hawkish Fed Tone — Silver climbed back above $74 an ounce on Thursday after briefly hitting a four-week low, as investors balanced renewed hopes of progress in Middle East peace talks against lingering inflation pressures and a cautious Federal Reserve outlook. According to Axios, US and Iranian negotiators have reportedly agreed on a 60-day memorandum of understanding to extend a ceasefire and open negotiations on Iran’s nuclear program, though final approval from President Trump is still pending. Despite the tentative diplomatic progress, tensions remain high, with continued US–Iran exchanges and Israel resuming strikes on Hezbollah targets in Lebanon amid a fragile ceasefire. Meanwhile, elevated energy prices sustain inflation risks and dampen expectations for near-term rate cuts. Fed officials maintained a cautious stance, with Lisa Cook supporting steady rates for now but signaling openness to hikes if inflation accelerates, while John Williams warned inflation could rise toward 4% in the near term."
-    },
-    {
-      "id": "4905190",
-      "time": "2026-05-28 23:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "美、墨、加三國聯合宣告：針對來自非洲埃博拉風險區域的入境人員宣佈協調統一的出行措施。"
-    },
-    {
-      "id": "4905189",
-      "time": "2026-05-28 23:03:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥國會批准憲法修正案，將“外國干預”納入選舉無效的法定依據。"
-    },
-    {
-      "id": "4905188",
-      "time": "2026-05-28 23:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拉脫維亞新政府正式就職 庫爾貝格斯任總理】拉脫維亞議會28日透過了對拉脫維亞新政府的信任投票，新政府正式就職，來自“聯合名單”的庫爾貝格斯出任總理。（央視新聞）"
-    },
-    {
-      "id": "4905187",
-      "time": "2026-05-28 23:02:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒記者報道稱美伊諒解備忘錄未獲伊朗最高領袖同意】以色列i24News記者Amichai Stein援引一位知情人士稱，伊朗最高領袖穆傑塔巴·哈梅內伊尚未批准該諒解備忘錄，這可能也是特朗普沒有點頭同意的原因之一。實際上，目前可能只是伊朗外長阿拉格齊、議會議長卡利巴夫以及美國中東問題特使威特科夫及其團隊之間達成了某種共識，但伊朗真正的高層領導層、最終決策者，還沒有說“同意”。"
-    },
-    {
-      "id": "4905186",
-      "time": "2026-05-28 23:00:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特警告阿曼勿參與霍爾木茲海峽收費機制】美國財長貝森特週四警告阿曼，切勿參與伊朗揚言要在霍爾木茲海峽實施的收費機制。貝森特寫道：“美國政府絕不容忍任何試圖在霍爾木茲海峽強行實施收費機制的企圖。阿曼尤其應當明白，美國財政部將嚴厲制裁任何——無論直接還是間接——協助該海峽收費事宜的實體或個人；任何甘願充當其幫兇的夥伴都將受到懲罰。”此外，這位財長還呼籲所有國家抵制伊朗旨在干擾這一關鍵航運通道通行的舉措。他最後總結道：“德黑蘭恐嚇該地區及世界的日子已經一去不復返了。”"
     }
   ]
 }
