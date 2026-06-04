@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-05 06:12:10_
-_本檔包含 4144 則快訊，約 717298 字_
+_更新時間：2026-06-05 06:46:12_
+_本檔包含 4123 則快訊，約 717790 字_
+
+---
+
+### 2026-06-05 06:45:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Business Insider reports Google (GOOG.O) is quietly cutting staff in its cloud unit.
+
+---
+
+### 2026-06-05 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 3.61% — Top crypto losers are Binance (-3.61%), XRP (-3.54%), Ether (-2.92%) and Bitcoin (-0.91%).
+
+---
+
+### 2026-06-05 06:45:12  #公司
+
+市場訊息：谷歌正悄然裁減雲端計算部門員工。
+
+---
+
+### 2026-06-05 06:43:57  #其他
+
+【報道：巴基斯坦規劃建戰略石油儲備，正與中國、沙特、科威特等國談判】一名巴基斯坦政府官員告訴《日經亞洲評論》：“巴基斯坦計劃初期建立滿足45天需求的石油儲備，未來可逐步提升至90天。”這名官員透露，巴能源部計劃採用多模式的戰略石油儲備體系，包括國家支援的應急庫存、行業強制性庫存以及保稅商業倉儲。在上述儲備體系中，保稅商業倉儲引發討論。這指的是在海關監管下的儲存設施，進口石油或其他燃料可在此儲存，供國內外貿易商再出口，無需立即繳納關稅和稅費，一旦發生緊急情況，這些儲存的燃料可用於巴基斯坦國內。《日經亞洲評論》引述另一位知情政府官員的話報道稱，巴基斯坦正在與沙烏地阿拉伯、科威特、卡達、阿聯酋和中國談判，計劃在巴基斯坦境內建立保稅終端。“瓜達爾港可以成為此類終端建設的選址之一”，該官員表示。（環球網）
+
+---
+
+### 2026-06-05 06:42:10  #國際
+
+市場訊息：美國多家銀行計劃在 2027 年上半年上線代幣化存款網路；由多家商業銀行共同持股的清算所將負責該網路運營。
+
+---
+
+### 2026-06-05 06:41:10  #觀點
+
+市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。
+
+---
+
+### 2026-06-05 06:40:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%).
+
+---
+
+### 2026-06-05 06:39:02  #MKT News #Commodities #Energy
+
+【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site.
+
+---
+
+### 2026-06-05 06:36:12  #其他
+
+馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。
+
+---
+
+### 2026-06-05 06:36:03  #MKT News
+
+Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms.
+
+---
+
+### 2026-06-05 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%).
+
+---
+
+### 2026-06-05 06:35:12  #MKT News
+
+Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x.
+
+---
+
+### 2026-06-05 06:32:19  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
+
+【CME CEO expresses serious concern over new "perpetual futures"】CME CEO Terry Duffy said he is "very concerned" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, "I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts."
+
+---
+
+### 2026-06-05 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are Naphtha (-5.04%), Heating Oil (-4.72%), Crude Oil WTI (-3.40%) and Brent Crude Oil (-2.72%). Gains are led by Natural gas (4.37%), Methanol (0.87%) and Coking Coal (0.61%).
+
+---
+
+### 2026-06-05 06:30:14  #其他
+
+華爾街預計，SpaceX的AI收入到2030年將增長100倍。
+
+---
+
+### 2026-06-05 06:27:20  #公司
+
+【透視年內債市信披監管措施：緊盯關鍵主體，全鏈條、穿透式深化】今年以來，已有近40家債券發行人因資訊披露違法違規被交易所採取監管措施，涉及逾期披露、遺漏披露、錯誤披露、虛假披露等問題。梳理發現，從拖延披露財報，到篡改募集資金使用資料、系統性財務造假，債券發行人違法違規手法日趨多元。針對債市信披亂象，監管部門依據違法違規頻次、情節輕重實施梯度處置：“柔性”警示與“剛性”處分並舉；落實“公司+個人”雙罰機制，追責鏈條穿透至發行人內部的“關鍵少數”；同時，連帶處罰會計師事務所等中介機構，壓實“看門人”職責。（上證報）
+
+---
+
+### 2026-06-05 06:26:31  #MKT News #SPCX.O #Impact bullish #Nasdaq100 #S&P500
+
+【Sources: SpaceX sets IPO offer price at $135 a share】Sources said SpaceX (SPCX.O) has informed banks handling its $75 billion IPO that it will use an offer price of $135 a share, disclosed in a revised filing on Wednesday. The move indicates founder Elon Musk’s intent to control pricing for what would be the largest IPO on record, though sources cautioned the price could change before trading begins. SpaceX began its roadshow on Thursday; underwriters will collect investor feedback and typically set the final price at a pre-listing meeting. Sources described demand as extremely strong. The company expects shares to start trading on June 12.
+
+---
+
+### 2026-06-05 06:24:56  #公司 #國際
+
+【厄爾尼諾帶來豐水預期，南方水電公司迎景氣行情】近日，國家氣候中心確認，赤道中東太平洋5月步入厄爾尼諾狀態，專家預判夏秋季大機率演化成中等及以上強度事件，我國南澇北旱氣候機率抬升。豐水預期催化水電板塊年內漲幅顯著分化，部分上市公司釋出的一季度發電資料，已驗證流域來水實質性改善。多家券商研報預測，南方水電板塊具備配置價值，北方高溫將推動相關區域夏季火電發電量和動力煤需求提升。（上證報）
+
+---
+
+### 2026-06-05 06:24:53  #市場 #焦點
+
+現貨黃金突破4480美元/盎司，日內漲0.09%。
+
+---
+
+### 2026-06-05 06:21:21  #其他
+
+【高溫與算電協同助力 A股電力板塊投資價值升溫 】一邊是國內高溫天氣持續提升電力需求，一邊是算電協同概念越發受到市場認可，近期電力板塊表現活躍，市場關注度不斷升溫。在業內機構看來，今年氣候變化導致的高溫將帶動迎峰度夏期間用電需求增長，與此同時，市場對國產晶片算力預期提升或帶動用電量加速增長，催生行業投資機會。展望後市，煤電板塊有望在高溫天氣下率先受益，沿海地區現貨電價提升及算電協同加速發展等因素將進一步推動公用事業板塊二級市場的表現，綠電、水電、核電等細分方向的投資價值同樣值得關注。（中證報）
+
+---
+
+### 2026-06-05 06:20:31  #公司 #國際
+
+美國：Antares Nuclear（安泰雷斯核能公司）的Mark-0已成功完成演示。
+
+---
+
+### 2026-06-05 06:19:31  #公司 #觀點
+
+【核心驅動力並未動搖 五大券商把脈A股下半年機遇 】進入年中時點，各大券商機構對於A股下半年行情走勢的研判陸續出爐，相關內容成為投資者提前佈局、捕捉市場機遇的重要參考。就在近期，國泰海通、中信證券、中金公司、華泰證券、中信建投等多家頭部券商陸續釋出2026年A股中期策略報告，受到市場各方重視。在前述券商看來，當前推動本輪市場上行、中國資產重估的核心驅動力並未發生根本性動搖，市場整體估值合理，但部分高估值板塊需警惕出現波動風險；對於AI主線，當前全球AI革命處於景氣度持續擴散而非全面泡沫化的階段。就後市佈局而言，新興科技、優勢製造以及具備估值修復潛力的部分傳統行業是值得把握的主線，通訊裝置、高階裝備、電力裝置與新能源、工程機械、創新藥等品種受到青睞。（中證報）
+
+---
+
+### 2026-06-05 06:18:39  #市場
+
+【聰明錢提前佈局AI 上游環節部分基礎材料成新寵 】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。Wind資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中證報）
+
+---
+
+### 2026-06-05 06:18:03  #MKT News
+
+【Putin says Russia must persuade Kyiv it is willing to compromise】Russian President Putin told heads of major news agencies in St. Petersburg on April 4 that Russia is prepared to make compromises on Ukraine but must first convince Kyiv this is the case. He said Russia does not oppose Ukraine joining the EU but opposes the EU becoming a military alliance. Putin said the EU could play a constructive role by persuading Kyiv to accept a compromise rather than supplying weapons. He added Russia wants to sign any agreement with Ukraine's "legitimate representatives" and said holding presidential elections in Ukraine is very important.
+
+---
+
+### 2026-06-05 06:18:02  #國際
+
+【普京：需要說服烏方相信俄羅斯同意妥協】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方同意在烏克蘭問題上作出妥協，但需要說服烏方相信這一點。普京表示，俄羅斯不反對烏克蘭加入歐盟，但反對歐盟變成一個軍事聯盟。歐盟可以為解決烏克蘭問題發揮積極作用，但方式應該是說服烏克蘭接受妥協方案，而不是向烏克蘭提供武器。普京說，俄方希望與烏方“合法代表”簽署檔案，俄烏達成的協議將是一份具有歷史意義的檔案。他表示，烏克蘭舉行總統選舉非常重要。（新華社）
+
+---
+
+### 2026-06-05 06:17:42  #其他
+
+【ETF座次重新洗牌 資金“換擋”重塑市場生態 】6月3日，易方達基金憑藉6185.19億元的ETF管理規模問鼎市場，坐上境內ETF基金管理人的“頭把交椅”。在當前ETF管理規模排名前十的基金管理人中，除易方達基金外，國泰基金、廣發基金、博時基金、華安基金的最新位次相比年初均有提升。當資金邏輯從全市場貝塔配置轉向細分行業阿爾法收益挖掘，業內人士認為，境內ETF市場生態正發生全方位重構，未來前瞻佈局細分賽道、提高精細化運作程度、夯實產品流動性壁壘、搭建多元化產品矩陣、完善機構定製與投顧生態等將成為ETF競爭的重要方向。（中證報）
+
+---
+
+### 2026-06-05 06:16:48  #其他
+
+【前5個月基金新開戶數近160萬，基金經理對後市普遍持樂觀態度】隨著公募基金賺錢效應的持續顯現，投資者對基金的關注度也在不斷升溫。上交所資料顯示，今年前5個月基金新開戶數近160萬，同比增長超過20%。從近期基金髮行情況看，權益與“固收+”產品均接連出現爆款。站在當前時點，機構對後市普遍持樂觀態度。（上證報）
+
+---
+
+### 2026-06-05 06:16:44  #市場
+
+【機構前瞻下半年資本市場新趨勢：改革強根基 資金增活力 工具提質效】多家機構近期密集釋出對2026年下半年資本市場趨勢的展望報告。機構人士認為，資本市場改革已從頂層規劃的“施工圖”階段，逐步轉向政策措施落地的“實景圖”攻堅階段。 下半年，政策層面，創業板改革、再融資一攬子措施等重磅舉措進一步深化落實，有望持續拓展直接融資服務實體經濟的邊界；資金層面，長線資金入市機制不斷完善；產品層面，期貨、衍生品等工具箱進一步備齊，更好發揮資本市場在最佳化資源配置、服務實體經濟等方面的積極作用。總體來看，資本市場正邁向“質效提升”新階段。（中證報）
+
+---
+
+### 2026-06-05 06:15:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 0.32% — Top currency gainers are Brazilian Real (0.32%), Swiss Franc (0.32%), Mexican Peso (0.30%) and Euro (0.13%). Biggest loser is Dollar Index (-0.10%). Meanwhile, British Pound and Japanese Yen were little changed.
 
 ---
 
@@ -24649,305 +24823,5 @@ Israeli Prime Minister Netanyahu said Israel is fighting an enemy intent on dest
 ### 2026-06-03 22:24:59  #其他
 
 【中老鐵路開通以來寮國段首次大規模擴能改造】近日，中老鐵路寮國段磨丁站正式開啟改擴建施工。這是中老鐵路自2021年12月通車運營以來，寮國段內首次大規模擴能改造，將有效提升口岸車站接發列車與跨境貨運集散能力。
-
----
-
-### 2026-06-03 22:24:58  #MKT News
-
-U.S. Treasury Secretary Bessent declined to comment further on the settlement in Trump's tax case.
-
----
-
-### 2026-06-03 22:24:54  #國際
-
-以色列總理內塔尼亞胡：當我們與伊朗及其代理人作鬥爭時，我們是在為美國和歐洲而戰。
-
----
-
-### 2026-06-03 22:24:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli Prime Minister Netanyahu said fighting Iran and its proxies is a fight for the United States and Europe.
-
----
-
-### 2026-06-03 22:24:50  #國際
-
-貝森特：不再就特朗普涉稅案件和解事宜進一步置評。
-
----
-
-### 2026-06-03 22:24:37  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact mixed
-
-【Alphabet continues equity and multi-currency debt binge despite >$120bn cash】Alphabet has accelerated financing via bonds and a planned equity raise to fund AI infrastructure. Key moves: Feb — multi-currency bond issuance including a rare 100‑year sterling bond, a heavily subscribed $20bn US‑dollar deal, and a Swiss franc issue; May — €9bn and C$8.5bn bonds (~$17bn) plus JPY 576.5bn (~$3.6bn), a record for a non‑Japanese issuer; June — announced a planned $80bn equity raise with a $10bn directed placement to Berkshire Hathaway. The company had issued over $85bn of bonds in the prior year before the equity plan. Drivers: management cites huge AI capex — FY2026 capex guidance of $180–190bn and materially higher 2027 spending — that operating cash flow alone cannot cover; a shift from light‑asset to capital‑intensive builds (data centers, custom TPUs) requiring large upfront cash; and balance‑sheet management — despite >$120bn cash, some is earmarked for employee tax liabilities and the firm is preserving dividend/repurchase commitments and credit metrics, prompting equity issuance. Financing profile and use of proceeds: maturities span 3 years to 100 years, issuance across six major currencies (USD, EUR, GBP, JPY et al.) to reduce single‑market rate risk and lock long‑dated, low‑cost funding; proceeds targeted almost entirely at AI infrastructure, data centers, TPU/GPU clusters and Google Cloud expansion.
-
----
-
-### 2026-06-03 22:24:30  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel is seeking to weaken Hezbollah to enable a free Lebanon to emerge.
-
----
-
-### 2026-06-03 22:24:28  #國際
-
-內塔尼亞胡：特朗普清楚黎巴嫩被真主黨 “挾持為人質”。
-
----
-
-### 2026-06-03 22:24:18  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli Prime Minister Netanyahu said Trump understands Lebanon has been hijacked by Hezbollah.
-
----
-
-### 2026-06-03 22:24:07  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-Al Arabiya cited a US source saying the next few hours will be decisive for Lebanon-Israel negotiations. If talks make major progress, US Secretary of State Rubio is expected to participate in the talks. Both sides are holding intensive contacts to secure final approval of a ceasefire plan.
-
----
-
-### 2026-06-03 22:24:05  #國際
-
-據沙烏地阿拉伯阿拉比亞電視臺：一位美國訊息人士稱，未來數小時將對黎巴嫩與以色列談判的前景起決定性作用。如果談判取得重大進展，美國國務卿魯比奧預計將參與談判。目前雙方正展開密集接觸，以爭取就停火方案達成最終批准。
-
----
-
-### 2026-06-03 22:23:56  #其他
-
-貝森特就民主黨議員懷登之子與愛潑斯坦會面一事向懷登發難。
-
----
-
-### 2026-06-03 22:22:59  #國際
-
-【印度餐廳火災致18名外國人死亡】據印度媒體3日報道，印度首都新德里馬爾維亞納加爾地區一家餐廳3日早晨發生的火災已造成21人死亡，其中包括18名外國公民。報道稱，遇難外國公民來自孟加拉國、奈及利亞、莫三比克和賴比瑞亞等國。火災還造成40餘人受傷，傷者已被送往當地醫院進行治療。 (新華社)
-
----
-
-### 2026-06-03 22:22:39  #其他
-
-貝森特抨擊參議院委員會民主黨領袖RON WYDEN。
-
----
-
-### 2026-06-03 22:21:21  #國際
-
-美國財長貝森特：每新增一條規則，（美國）政府就取消129條規則。
-
----
-
-### 2026-06-03 22:21:19  #MKT News #DXY #Impact bullish #WTI #S&P500 #Impact mixed
-
-【ISM: U.S. services activity expanded in May】ISM's May services PMI rose to 54.5 from 53.6 in April, beating expectations. New orders continued to expand. The supplier deliveries index fell from April but stayed above 50 for an 18th straight month, signaling ongoing delivery slowdowns. The prices index climbed to its highest since August 2022; diesel, gasoline, crude oil and related commodities were most frequently cited for price increases. The employment index contracted for a third month; ISM chair Steve Miller said respondents frequently reported hiring freezes or not backfilling vacancies, though most industries reported month-to-month employment was steady.
-
----
-
-### 2026-06-03 22:21:17  #公司 #資料 #市場 #國際
-
-【ISM：美國5月服務業活動繼續擴張】美國供應管理協會（ISM）調查發現，美國服務業活動在5月份的增長超過預期。5月ISM服務業PMI為54.5，而4月份為53.6。新訂單指數上月繼續擴張。與此同時，供應商交貨指數較4月份有所下降。該指數已是連續第18個月處於擴張區間，這表明供應商交貨速度放緩。價格指數升至2022年8月以來的最高水平。5月份，柴油、汽油、石油和相關大宗商品再次成為最常被提及價格上漲的品類。與此同時，就業指數連續第三個月萎縮。ISM主席史蒂夫·米勒表示：“受訪者頻頻表示，所在公司已凍結招聘或不再填補空缺職位，但大多數行業報告稱，月度就業人數保持平穩。”。
-
----
-
-### 2026-06-03 22:21:17  #MKT News
-
-U.S. Treasury Secretary Bessent said the government cancels 129 rules for every one new rule it adds.
-
----
-
-### 2026-06-03 22:21:05  #MKT News
-
-Israeli Prime Minister NETANYAHU said many armed personnel targeting Israel are based in Beirut.
-
----
-
-### 2026-06-03 22:20:50  #其他
-
-日產：可能計劃在2027財年在其工廠生產奇瑞汽車。
-
----
-
-### 2026-06-03 22:20:36  #國際
-
-內塔尼亞胡談及真主黨：許多針對以色列的襲擊者都身在貝魯特。
-
----
-
-### 2026-06-03 22:20:24  #國際
-
-以色列總理內塔尼亞胡：需要對黎巴嫩進行非軍事化。
-
----
-
-### 2026-06-03 22:20:22  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli Prime Minister Netanyahu said Lebanon needs to be demilitarized.
-
----
-
-### 2026-06-03 22:20:18  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Rubio, US secretary of state, said the US government considers Iran possessing nuclear weapons a more serious problem.
-
----
-
-### 2026-06-03 22:20:09  #其他
-
-日產：桑德蘭工廠仍將由日產全資擁有。
-
----
-
-### 2026-06-03 22:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-U.S. EIA weekly crude inventory, Cushing hub crude stocks and Strategic Petroleum Reserve levels for the week to May 29 due in 10 minutes.
-
----
-
-### 2026-06-03 22:20:02  #MKT News
-
-Netanyahu said Trump has voiced positive comments about Netanyahu's judicial trial.
-
----
-
-### 2026-06-03 22:19:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-American Express Stock Price Hits 8-week Low — American Express shares decreased to 302.89 USD, the lowest since April 2026. Over the past 4 weeks, American Express lost 4.91%, and in the last 12 months, it increased 2.57%.
-
----
-
-### 2026-06-03 22:19:36  #國際
-
-魯比奧：政府認為擁有核武器的伊朗更糟糕。
-
----
-
-### 2026-06-03 22:19:28  #MKT News
-
-U.S. Secretary of State Rubio said Trump is aware of the economic consequences of a war with Iran.
-
----
-
-### 2026-06-03 22:19:20  #國際
-
-以色列總理內塔尼亞胡：特朗普是以色列在白宮“最偉大的朋友”。
-
----
-
-### 2026-06-03 22:19:18  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY #Impact mixed
-
-US Treasury Secretary Bessent said Trump's tax reform bill avoided more than $5 tln of tax increases.
-
----
-
-### 2026-06-03 22:19:12  #國際
-
-魯比奧：特朗普知悉伊朗戰爭的經濟後果。
-
----
-
-### 2026-06-03 22:19:09  #MKT News
-
-Netanyahu said Trump is Israel's "greatest friend in the White House."
-
----
-
-### 2026-06-03 22:19:03  #公司
-
-【巴克萊質疑“SaaS末日論”：AI收入增長或主要來自勞動力市場】過去一年，華爾街關於人工智慧（AI）最流行的投資邏輯之一，就是所謂的“SaaS末日論”。隨著ChatGPT、Claude等大模型快速普及，越來越多投資者開始擔心，傳統軟體公司賴以生存的軟體訂閱模式將被AI取代。無論是程式碼開發、客服管理還是企業辦公，越來越多工作正在由AI完成，市場甚至出現了“軟體將成為AI的附屬品”的觀點。然而，巴克萊在其最新研報中指出，從目前AI行業已經達到的收入規模來看，這套邏輯解釋不通。僅靠蠶食軟體市場遠遠無法支撐AI的增長。AI真正爭奪的物件，或許並不是軟體預算，而是規模更大的勞動力預算。
-
----
-
-### 2026-06-03 22:18:58  #國際
-
-以色列總理內塔尼亞胡：與特朗普的關係沒有變化。需要找到從伊朗獲取核材料的方法。
-
----
-
-### 2026-06-03 22:18:44  #國際
-
-貝森特：特朗普稅改法案避免了超 5 萬億美元的增稅落地。
-
----
-
-### 2026-06-03 22:18:34  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
-
-Prime Minister Netanyahu said Israel needs to find ways to obtain nuclear material from Iran.
-
----
-
-### 2026-06-03 22:18:22  #MKT News #Market Themes #The Trump Trade
-
-Israeli Prime Minister Netanyahu said his relationship with Trump has not changed.
-
----
-
-### 2026-06-03 22:18:12  #MKT News
-
-Israeli Prime Minister NETANYAHU said tactical differences sometimes arise, but they will be resolved.
-
----
-
-### 2026-06-03 22:18:02  #MKT News #Important
-
-Israeli Prime Minister NETANYAHU said he and Trump have reached agreement on key issues concerning Iran.
-
----
-
-### 2026-06-03 22:17:52  #國際
-
-以色列總理內塔尼亞胡：希望關注伊朗核計劃。
-
----
-
-### 2026-06-03 22:17:44  #其他
-
-內塔尼亞胡：我們有時會存在戰術分歧，但我們會解決這些分歧。
-
----
-
-### 2026-06-03 22:17:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Israeli Prime Minister Netanyahu said attention should be focused on Iran's nuclear program.
-
----
-
-### 2026-06-03 22:17:43  #MKT News
-
-Israel's prime minister Netanyahu said he will not elaborate on comments Trump made during their phone call.
-
----
-
-### 2026-06-03 22:17:24  #公司 #市場
-
-【機構：本週儲存現貨行情暫時平穩，但需求端延續疲軟難有改觀】在經歷原廠合約價連續兩季度大幅攀升之後，原廠業績和股價接連屢創歷史紀錄，三星、SK海力士與美光市值均已突破1萬億美元大關，尤其三星已躋身全球市值前十行列。而今年下半年，在AI算力需求的絕對主導下，儲存漲價的核心驅動力依然強勁，加上原廠錨定與核心客戶簽訂未來幾年的長期供貨協定，盈利可預見性大增，原廠經營利潤將再上新臺階。儘管受制於儲存成本徒增、終端產品定價走高、品牌競爭加劇等多重因素，下半年手機、PC等應用市場需求進一步轉弱在所難免，但伺服器市場需求具備很強的剛性支撐，下半年儲存價格仍有一定的上漲動能，手機、PC儲存價格被動跟漲，漲幅逐季縮窄，整體呈現量縮價漲趨勢。（CFM快閃記憶體市場）
-
----
-
-### 2026-06-03 22:17:24  #國際
-
-以色列總理內塔尼亞胡：我與特朗普在伊朗問題的核心議題上意見一致。
-
----
-
-### 2026-06-03 22:17:17  #公司
-
-【中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖接受審查調查】據中國鐵路青藏集團有限公司紀委、西寧市湟中區監委訊息：中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖涉嫌嚴重違紀違法，目前正接受中國鐵路青藏集團有限公司紀委紀律審查和西寧市湟中區監委監察調查。
-
----
-
-### 2026-06-03 22:17:11  #其他
-
-巴西總統盧拉：已決定出席G7峰會。
-
----
-
-### 2026-06-03 22:17:02  #MKT News
-
-Brazilian President Lula has decided to attend the G7 summit.
-
----
-
-### 2026-06-03 22:16:58  #MKT News
-
-Williams said the Federal Reserve does not have groupthink.
 
 ---

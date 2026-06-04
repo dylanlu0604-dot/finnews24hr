@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-05 06:12:10_
-_本檔包含 4135 則快訊，約 717297 字_
+_更新時間：2026-06-05 06:46:12_
+_本檔包含 4161 則快訊，約 717789 字_
+
+---
+
+### 2026-06-03 22:24:58  #MKT News
+
+U.S. Treasury Secretary Bessent declined to comment further on the settlement in Trump's tax case.
+
+---
+
+### 2026-06-03 22:24:54  #國際
+
+以色列總理內塔尼亞胡：當我們與伊朗及其代理人作鬥爭時，我們是在為美國和歐洲而戰。
+
+---
+
+### 2026-06-03 22:24:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister Netanyahu said fighting Iran and its proxies is a fight for the United States and Europe.
+
+---
+
+### 2026-06-03 22:24:50  #國際
+
+貝森特：不再就特朗普涉稅案件和解事宜進一步置評。
+
+---
+
+### 2026-06-03 22:24:37  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact mixed
+
+【Alphabet continues equity and multi-currency debt binge despite >$120bn cash】Alphabet has accelerated financing via bonds and a planned equity raise to fund AI infrastructure. Key moves: Feb — multi-currency bond issuance including a rare 100‑year sterling bond, a heavily subscribed $20bn US‑dollar deal, and a Swiss franc issue; May — €9bn and C$8.5bn bonds (~$17bn) plus JPY 576.5bn (~$3.6bn), a record for a non‑Japanese issuer; June — announced a planned $80bn equity raise with a $10bn directed placement to Berkshire Hathaway. The company had issued over $85bn of bonds in the prior year before the equity plan. Drivers: management cites huge AI capex — FY2026 capex guidance of $180–190bn and materially higher 2027 spending — that operating cash flow alone cannot cover; a shift from light‑asset to capital‑intensive builds (data centers, custom TPUs) requiring large upfront cash; and balance‑sheet management — despite >$120bn cash, some is earmarked for employee tax liabilities and the firm is preserving dividend/repurchase commitments and credit metrics, prompting equity issuance. Financing profile and use of proceeds: maturities span 3 years to 100 years, issuance across six major currencies (USD, EUR, GBP, JPY et al.) to reduce single‑market rate risk and lock long‑dated, low‑cost funding; proceeds targeted almost entirely at AI infrastructure, data centers, TPU/GPU clusters and Google Cloud expansion.
+
+---
+
+### 2026-06-03 22:24:30  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is seeking to weaken Hezbollah to enable a free Lebanon to emerge.
+
+---
+
+### 2026-06-03 22:24:28  #國際
+
+內塔尼亞胡：特朗普清楚黎巴嫩被真主黨 “挾持為人質”。
+
+---
+
+### 2026-06-03 22:24:18  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli Prime Minister Netanyahu said Trump understands Lebanon has been hijacked by Hezbollah.
+
+---
+
+### 2026-06-03 22:24:07  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Al Arabiya cited a US source saying the next few hours will be decisive for Lebanon-Israel negotiations. If talks make major progress, US Secretary of State Rubio is expected to participate in the talks. Both sides are holding intensive contacts to secure final approval of a ceasefire plan.
+
+---
+
+### 2026-06-03 22:24:05  #國際
+
+據沙烏地阿拉伯阿拉比亞電視臺：一位美國訊息人士稱，未來數小時將對黎巴嫩與以色列談判的前景起決定性作用。如果談判取得重大進展，美國國務卿魯比奧預計將參與談判。目前雙方正展開密集接觸，以爭取就停火方案達成最終批准。
+
+---
+
+### 2026-06-03 22:23:56  #其他
+
+貝森特就民主黨議員懷登之子與愛潑斯坦會面一事向懷登發難。
+
+---
+
+### 2026-06-03 22:22:59  #國際
+
+【印度餐廳火災致18名外國人死亡】據印度媒體3日報道，印度首都新德里馬爾維亞納加爾地區一家餐廳3日早晨發生的火災已造成21人死亡，其中包括18名外國公民。報道稱，遇難外國公民來自孟加拉國、奈及利亞、莫三比克和賴比瑞亞等國。火災還造成40餘人受傷，傷者已被送往當地醫院進行治療。 (新華社)
+
+---
+
+### 2026-06-03 22:22:39  #其他
+
+貝森特抨擊參議院委員會民主黨領袖RON WYDEN。
+
+---
+
+### 2026-06-03 22:21:21  #國際
+
+美國財長貝森特：每新增一條規則，（美國）政府就取消129條規則。
+
+---
+
+### 2026-06-03 22:21:19  #MKT News #DXY #Impact bullish #WTI #S&P500 #Impact mixed
+
+【ISM: U.S. services activity expanded in May】ISM's May services PMI rose to 54.5 from 53.6 in April, beating expectations. New orders continued to expand. The supplier deliveries index fell from April but stayed above 50 for an 18th straight month, signaling ongoing delivery slowdowns. The prices index climbed to its highest since August 2022; diesel, gasoline, crude oil and related commodities were most frequently cited for price increases. The employment index contracted for a third month; ISM chair Steve Miller said respondents frequently reported hiring freezes or not backfilling vacancies, though most industries reported month-to-month employment was steady.
+
+---
+
+### 2026-06-03 22:21:17  #公司 #資料 #市場 #國際
+
+【ISM：美國5月服務業活動繼續擴張】美國供應管理協會（ISM）調查發現，美國服務業活動在5月份的增長超過預期。5月ISM服務業PMI為54.5，而4月份為53.6。新訂單指數上月繼續擴張。與此同時，供應商交貨指數較4月份有所下降。該指數已是連續第18個月處於擴張區間，這表明供應商交貨速度放緩。價格指數升至2022年8月以來的最高水平。5月份，柴油、汽油、石油和相關大宗商品再次成為最常被提及價格上漲的品類。與此同時，就業指數連續第三個月萎縮。ISM主席史蒂夫·米勒表示：“受訪者頻頻表示，所在公司已凍結招聘或不再填補空缺職位，但大多數行業報告稱，月度就業人數保持平穩。”。
+
+---
+
+### 2026-06-03 22:21:17  #MKT News
+
+U.S. Treasury Secretary Bessent said the government cancels 129 rules for every one new rule it adds.
+
+---
+
+### 2026-06-03 22:21:05  #MKT News
+
+Israeli Prime Minister NETANYAHU said many armed personnel targeting Israel are based in Beirut.
+
+---
+
+### 2026-06-03 22:20:50  #其他
+
+日產：可能計劃在2027財年在其工廠生產奇瑞汽車。
+
+---
+
+### 2026-06-03 22:20:36  #國際
+
+內塔尼亞胡談及真主黨：許多針對以色列的襲擊者都身在貝魯特。
+
+---
+
+### 2026-06-03 22:20:24  #國際
+
+以色列總理內塔尼亞胡：需要對黎巴嫩進行非軍事化。
+
+---
+
+### 2026-06-03 22:20:22  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli Prime Minister Netanyahu said Lebanon needs to be demilitarized.
+
+---
+
+### 2026-06-03 22:20:18  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Rubio, US secretary of state, said the US government considers Iran possessing nuclear weapons a more serious problem.
+
+---
+
+### 2026-06-03 22:20:09  #其他
+
+日產：桑德蘭工廠仍將由日產全資擁有。
+
+---
+
+### 2026-06-03 22:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+U.S. EIA weekly crude inventory, Cushing hub crude stocks and Strategic Petroleum Reserve levels for the week to May 29 due in 10 minutes.
+
+---
+
+### 2026-06-03 22:20:02  #MKT News
+
+Netanyahu said Trump has voiced positive comments about Netanyahu's judicial trial.
+
+---
+
+### 2026-06-03 22:19:45  #Trading Economics #Markets #United States #stocks #Importance 1
+
+American Express Stock Price Hits 8-week Low — American Express shares decreased to 302.89 USD, the lowest since April 2026. Over the past 4 weeks, American Express lost 4.91%, and in the last 12 months, it increased 2.57%.
+
+---
+
+### 2026-06-03 22:19:36  #國際
+
+魯比奧：政府認為擁有核武器的伊朗更糟糕。
+
+---
+
+### 2026-06-03 22:19:28  #MKT News
+
+U.S. Secretary of State Rubio said Trump is aware of the economic consequences of a war with Iran.
+
+---
+
+### 2026-06-03 22:19:20  #國際
+
+以色列總理內塔尼亞胡：特朗普是以色列在白宮“最偉大的朋友”。
+
+---
+
+### 2026-06-03 22:19:18  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY #Impact mixed
+
+US Treasury Secretary Bessent said Trump's tax reform bill avoided more than $5 tln of tax increases.
+
+---
+
+### 2026-06-03 22:19:12  #國際
+
+魯比奧：特朗普知悉伊朗戰爭的經濟後果。
+
+---
+
+### 2026-06-03 22:19:09  #MKT News
+
+Netanyahu said Trump is Israel's "greatest friend in the White House."
+
+---
+
+### 2026-06-03 22:19:03  #公司
+
+【巴克萊質疑“SaaS末日論”：AI收入增長或主要來自勞動力市場】過去一年，華爾街關於人工智慧（AI）最流行的投資邏輯之一，就是所謂的“SaaS末日論”。隨著ChatGPT、Claude等大模型快速普及，越來越多投資者開始擔心，傳統軟體公司賴以生存的軟體訂閱模式將被AI取代。無論是程式碼開發、客服管理還是企業辦公，越來越多工作正在由AI完成，市場甚至出現了“軟體將成為AI的附屬品”的觀點。然而，巴克萊在其最新研報中指出，從目前AI行業已經達到的收入規模來看，這套邏輯解釋不通。僅靠蠶食軟體市場遠遠無法支撐AI的增長。AI真正爭奪的物件，或許並不是軟體預算，而是規模更大的勞動力預算。
+
+---
+
+### 2026-06-03 22:18:58  #國際
+
+以色列總理內塔尼亞胡：與特朗普的關係沒有變化。需要找到從伊朗獲取核材料的方法。
+
+---
+
+### 2026-06-03 22:18:44  #國際
+
+貝森特：特朗普稅改法案避免了超 5 萬億美元的增稅落地。
+
+---
+
+### 2026-06-03 22:18:34  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
+
+Prime Minister Netanyahu said Israel needs to find ways to obtain nuclear material from Iran.
+
+---
+
+### 2026-06-03 22:18:22  #MKT News #Market Themes #The Trump Trade
+
+Israeli Prime Minister Netanyahu said his relationship with Trump has not changed.
+
+---
+
+### 2026-06-03 22:18:12  #MKT News
+
+Israeli Prime Minister NETANYAHU said tactical differences sometimes arise, but they will be resolved.
+
+---
+
+### 2026-06-03 22:18:02  #MKT News #Important
+
+Israeli Prime Minister NETANYAHU said he and Trump have reached agreement on key issues concerning Iran.
+
+---
+
+### 2026-06-03 22:17:52  #國際
+
+以色列總理內塔尼亞胡：希望關注伊朗核計劃。
+
+---
+
+### 2026-06-03 22:17:44  #其他
+
+內塔尼亞胡：我們有時會存在戰術分歧，但我們會解決這些分歧。
+
+---
+
+### 2026-06-03 22:17:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Israeli Prime Minister Netanyahu said attention should be focused on Iran's nuclear program.
+
+---
+
+### 2026-06-03 22:17:43  #MKT News
+
+Israel's prime minister Netanyahu said he will not elaborate on comments Trump made during their phone call.
+
+---
+
+### 2026-06-03 22:17:24  #公司 #市場
+
+【機構：本週儲存現貨行情暫時平穩，但需求端延續疲軟難有改觀】在經歷原廠合約價連續兩季度大幅攀升之後，原廠業績和股價接連屢創歷史紀錄，三星、SK海力士與美光市值均已突破1萬億美元大關，尤其三星已躋身全球市值前十行列。而今年下半年，在AI算力需求的絕對主導下，儲存漲價的核心驅動力依然強勁，加上原廠錨定與核心客戶簽訂未來幾年的長期供貨協定，盈利可預見性大增，原廠經營利潤將再上新臺階。儘管受制於儲存成本徒增、終端產品定價走高、品牌競爭加劇等多重因素，下半年手機、PC等應用市場需求進一步轉弱在所難免，但伺服器市場需求具備很強的剛性支撐，下半年儲存價格仍有一定的上漲動能，手機、PC儲存價格被動跟漲，漲幅逐季縮窄，整體呈現量縮價漲趨勢。（CFM快閃記憶體市場）
+
+---
+
+### 2026-06-03 22:17:24  #國際
+
+以色列總理內塔尼亞胡：我與特朗普在伊朗問題的核心議題上意見一致。
+
+---
+
+### 2026-06-03 22:17:17  #公司
+
+【中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖接受審查調查】據中國鐵路青藏集團有限公司紀委、西寧市湟中區監委訊息：中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖涉嫌嚴重違紀違法，目前正接受中國鐵路青藏集團有限公司紀委紀律審查和西寧市湟中區監委監察調查。
+
+---
+
+### 2026-06-03 22:17:11  #其他
+
+巴西總統盧拉：已決定出席G7峰會。
+
+---
+
+### 2026-06-03 22:17:02  #MKT News
+
+Brazilian President Lula has decided to attend the G7 summit.
+
+---
+
+### 2026-06-03 22:16:58  #MKT News
+
+Williams said the Federal Reserve does not have groupthink.
 
 ---
 
@@ -24760,149 +25060,5 @@ Baltic Dry Index at Near 1-Week Low — The Baltic Exchange's dry bulk freight i
 ### 2026-06-02 20:49:53  #公司
 
 【何時啟動內地存量業務整治？富途最新回應】6月2日晚間，老虎國際釋出通知，明確將自6月12日起暫停對存量投資者賬戶在中國境內的入金及買入交易服務。目前來看，各家券商行動節奏存在差異。對於存量業務2年集中整治行動何時開啟，6月2日晚間，富途客服最新回應稱：“本次為中國內地監管部門針對境外金融機構釋出的行業性指引，富途也在積極跟進落實相關要求。我們會在確認最終安排後，第一時間透過官方渠道通知您，請留意APP公告。”（一財）
-
----
-
-### 2026-06-02 20:49:41  #資料
-
-訊息人士稱，加拿大養老金計劃投資委員會（CPPIB）是預計下週將對Uniper提交意向書的意向方之一。
-
----
-
-### 2026-06-02 20:48:12  #市場 #央行 #國際
-
-【中東談判前景不明，美債收益率和美元下跌】隨著重新開放霍爾木茲海峽的談判狀況仍不明朗，且原油期貨小幅走低、徘徊在每桶90美元上方，美債收益率和美元小幅回落。隨著燃料庫存預計將繼續下降，通貨膨脹是債券投資者最關心的問題。美聯儲今年加息的機率依然很高。美元指數下跌0.1%。10年期美債收益率報4.432%，低於昨日的4.475%。兩年期美債收益率從4.051%降至4.018%。
-
----
-
-### 2026-06-02 20:47:02  #公司
-
-【臨港集團聯合上海電信推出零界魔方×AI STORE 企業算力成本降低80%】記者從今日舉行的2026上海超級個體（OPC）經濟大會暨零界魔方煥新生態釋出會（簡稱：OPCX2026）獲悉，臨港集團正式釋出零界魔方“新載體、新服務、新政策”三大煥新生態升級舉措，全面加碼OPC生態培育。聚焦“硬核科技、數字出海、文化創意、開源智服”4大領域，“直播電商、AI短劇、電競遊戲、情緒療愈”4個細分賽道，打造“4+4”產業服務體系。臨港集團聯合上海電信推出零界魔方×AI STORE，搭建公共算力與智慧體一站式服務平臺、產業生態合作平臺，將企業算力使用成本降低80%。
-
----
-
-### 2026-06-02 20:46:41  #市場
-
-【私募基金規模連續7個月攀升】中國證券投資基金業協會近日釋出的資料顯示，截至2026年4月末，我國存續私募基金管理規模達到23.46萬億元，較3月末增加約7400億元，再創歷史新高。這是自2025年10月以來，私募基金管理規模連續7個月攀升。投中嘉川CVSource資料顯示，2026年4月VC/PE市場延續穩健復甦態勢，投資案例數量1117起，環比小幅增加4.4%，同比上漲54.9%；投資規模達1340.44億元，環比回落4.2%，同比上升60%。自2025年底市場企穩回升以來，月度投資數量連續多月維持千起以上高位，投資規模超半年突破千億元關口，市場活力持續釋放。（金融時報）
-
----
-
-### 2026-06-02 20:46:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Lebanese Health Ministry said an Israeli airstrike near a hospital in the southern city of Tyre the previous day killed four and injured 127, including 39 hospital staff.
-
----
-
-### 2026-06-02 20:45:04  #公司 #國際
-
-【中船集團希臘代表處正式開業】6月1日，中國船舶集團有限公司希臘代表處開業儀式在雅典舉行。中國駐希臘大使方遒，中船集團黨組副書記、董事賈海英等嘉賓共同為代表處揭牌。該代表處由中船貿易牽頭籌建、統籌管理運營，將對接歐洲本土的船舶配套企業、海事服務機構以及歐洲海事金融資源。
-
----
-
-### 2026-06-02 20:44:51  #其他
-
-【世界氣象組織：近期出現厄爾尼諾事件機率為80%】世界氣象組織2日釋出公報說，考慮到熱帶太平洋海水異常溫暖等因素，6月至8月出現厄爾尼諾事件的機率為80%，未來數月極端天氣出現風險隨之攀升。世界氣象組織釋出的《厄爾尼諾/拉尼娜最新通報》顯示，今年6月至8月出現厄爾尼諾事件的機率為80%，該事件至少持續至11月的機率約為90%。多數預報模型認為，此次厄爾尼諾事件強度將達到至少中等水平，也可能發展為強厄爾尼諾事件。
-
----
-
-### 2026-06-02 20:43:33  #公司 #市場
-
-【東傑智慧：股價異常波動，控制權變更剩餘10億元轉讓價款支付安排仍在協商】東傑智慧公告，公司股票連續3個交易日收盤價格漲幅偏離值累計達30%。經自查，公司基本面未發生重大變化，經營情況正常，控股股東及實際控制人不存在應披露而未披露的重大事項。此外，公司於2025年10月24日披露控制權變更事項進展：淄博財金將淄博展恆99%基金份額轉讓給海南鶴平，交易價格16.2億元，已收到6.2億元，剩餘10億元轉讓價款的支付安排雙方仍在協商中，作為支付保障措施的質押擔保正在辦理，控股股東公章、法人章等印鑑及財務管理許可權仍由淄博財金實際管控。
-
----
-
-### 2026-06-02 20:42:08  #其他
-
-GENIUS GROUP：首批部署持倉含16%的Anthropic、11%的SpaceX以及7.4%的OpenAI敞口。
-
----
-
-### 2026-06-02 20:41:47  #MKT News #Commodities #Energy
-
-【NDRC chief Zheng Zhajie chairs SOE roundtable】On June 2 NDRC director Zheng Zhajie chaired a roundtable with seven state-owned enterprises — China COSCO Shipping Group, China Coal Technology & Engineering Group, China Resources Recycling Group, China Logistics Group, China Data‑Link Logistics Information Co., China International Freight Airlines and China Shenhua Coal‑to‑Liquids & Chemicals — focusing on deepening SOE reform, advancing a unified national market, promoting green low‑carbon development and ensuring energy security. Zheng called for targeted, problem‑oriented measures to optimize and restructure the state sector, strengthen SOE capabilities in technological innovation, industrial control and security support, and boost internal incentives. He directed SOEs to lead the buildout of unified market infrastructure and modern distribution networks, to implement China’s dual‑carbon strategy by accelerating green transition and clean, efficient coal use while safeguarding energy supplies, and to set an example in supporting private and small‑and‑medium enterprises to promote complementary development across ownership types.
-
----
-
-### 2026-06-02 20:41:43  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #S&P500 #Impact bullish #Copper
-
-Brazilian Senator Flavio Bolsonaro urged Trump not to impose tariffs on Brazilian firms, saying tariffs are not the solution.
-
----
-
-### 2026-06-02 20:41:32  #國際
-
-巴西參議員弗拉維奧·博索納羅：敦促特朗普不要對巴西企業加徵關稅；關稅並非解決問題的良方。
-
----
-
-### 2026-06-02 20:41:19  #公司
-
-【國家發展改革委主任鄭柵潔主持召開國有企業座談會】6月2日，國家發展改革委主任鄭柵潔主持召開國有企業座談會，與中國遠洋海運集團、中國煤炭科工集團、中國資源迴圈集團、中國物流集團、中國數聯物流資訊公司、中國國際貨運航空公司、中國神華煤制油化工公司等7家國有企業座談交流，圍繞深化國資國企改革、縱深推進全國統一大市場建設、促進綠色低碳發展、保障能源安全等國家重大戰略，聽取企業情況介紹和意見建議。鄭柵潔認真傾聽每位企業負責人的發言，與大家深入互動交流，逐一回應關切。他表示，要堅持目標導向和問題導向，推進國有經濟佈局最佳化和結構調整，提升國有企業科技創新、產業控制、安全支撐功能，激發國有企業內生動力活力；要主動服務全國統一大市場建設，帶頭維護統一市場基礎制度、助力形成統一市場基礎設施，服務構建現代流通網路；要認真落實“雙碳”戰略，推動綠色低碳發展，促進煤炭清潔高效利用，促進行業綠色低碳轉型，有力保障能源安全；要在支援和帶動民營企業、中小微企業發展上做好表率，促進各種所有制經濟優勢互補、共同發展。（國家發改委）
-
----
-
-### 2026-06-02 20:41:08  #公司
-
-【深圳華強：MLCC相關業務主要圍繞村田產品開展】深圳華強在互動平臺表示，公司是村田的主要分銷商，目前公司MLCC相關業務主要圍繞村田產品開展。公司持續看好MLCC的市場前景，將積極把握市場機會，持續推進MLCC的市場推廣和業務拓展。
-
----
-
-### 2026-06-02 20:40:51  #公司
-
-維多利亞的秘密CEO：公司2月份實現了8年來的首次增長。
-
----
-
-### 2026-06-02 20:40:38  #市場
-
-【微芯科技美股盤前漲超10%】微芯科技美股盤前漲超10%，現報100.95美元。
-
----
-
-### 2026-06-02 20:40:34  #國際
-
-【以軍襲擊加沙多地 致多人傷亡】總檯記者自巴勒斯坦方面獲悉，當地時間2日，加沙地帶中部代爾拜拉赫等地遭到以軍空襲，造成至少2人死亡、多人受傷。據悉，一場空襲發生在代爾拜拉赫東部薩拉赫丁路附近，造成1人死亡、4人受傷。 同日，代爾拜拉赫以北一地區也遭以色列無人機空襲，造成1人死亡、2人受傷。（央視新聞）
-
----
-
-### 2026-06-02 20:40:06  #公司 #市場
-
-【南華期貨：中國發展自身算力期貨市場，具有超越單純經濟價值的戰略意義】南華期貨今日官微訊息，南華期貨指數發展部經理曹揚慧撰文《算力有“期”：中國數字經濟發展亟待補上的金融拼圖》指出，5月12日，芝加哥商品交易所集團宣佈計劃在年內推出全球首個算力期貨合約。這意味著算力將告別單純的IT服務屬性，升級為與原油、黃金、農產品比肩的標準化大宗商品，成為可公開交易、可對沖風險、可公允定價的金融產品。算力期貨市場的建立，不僅是金融技術的創新，更是大國在數字經濟時代爭奪戰略資源定價權的關鍵舉措。中國發展自身的算力期貨市場，具有超越單純經濟價值的國家戰略意義。這不僅是服務國內AI產業風險管理需求的內在要求，更是保障國家算力安全、掌握產業自主發展主動權、參與乃至主導全球算力金融規則制定的必要佈局。中國發展算力期貨，可平抑算力價格的劇烈波動，保障AI產業健康發展;爭奪全球算力定價權，維護國家戰略利益;打通算力基礎設施融資渠道，盤活存量算力資產;推動期貨市場服務實體經濟邊界拓展，培育新質生產力。從現貨市場基礎來看，中國具備全球第二大算力規模、全球第二大AI產業生態，並且算力租賃市場規模快速增長，2026年預計達到2600億元，IDC、算力服務商數量龐大，交易頻次高、資金體量足，具備發展期貨的市場基礎。
-
----
-
-### 2026-06-02 20:39:42  #公司
-
-【中巖大地：持股5%以上股東擬減持不超1%股份】中巖大地公告稱，持股5%以上股東南京中巖投資合夥企業（有限合夥）計劃自2026年6月25日至9月24日（根據規定禁止減持的期間除外），以集中競價、大宗交易方式減持不超1,745,500股，佔公司總股本的1%。減持原因為自身資金需求，股份來源為首次公開發行股票前持有及實施權益分派取得。本次減持計劃實施存在不確定性，不會導致公司控制權變化及對經營產生重大影響。
-
----
-
-### 2026-06-02 20:39:40  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Fed's Hammack says Fed may need to act soon to counter elevated inflation】Hammack said that, given uncertainty in the economic outlook, keeping rates unchanged is reasonable for now but officials may need to act soon to address rising inflation. She said she is more worried about inflation — which has exceeded the Fed's 2% target for about five years — than about the still-strong labor market. Hammack added the Fed's policy rate may not be restrictive, that she has not heard businesses complain high rates are curbing investment, and that price pressures are broad-based across goods and non-housing services.
-
----
-
-### 2026-06-02 20:39:37  #公司
-
-【長高電新：證券簡稱變更為長高電氣，6月3日起啟用】長高電新公告，公司此前擬變更公司名稱及證券簡稱，近日已完成工商變更登記。自2026年6月3日起，公司全稱由“長高電新科技股份公司”變更為“長高電氣集團股份公司”，證券簡稱由“長高電新”變更為“長高電氣”，英文簡稱變更為CGDQ，證券程式碼002452不變，轉債簡稱“長高轉債”及程式碼127113不變。
-
----
-
-### 2026-06-02 20:39:35  #公司 #觀點
-
-【報道：SpaceX力求壓低IPO費率】埃隆・馬斯克旗下SpaceX正洽談以極低費率，委託華爾街投行承辦 IPO 上市事宜，但各家投行仍有望從這場創紀錄的首發募資中斬獲約 5 億美元佣金。據知情人士透露，這家主營航天與人工智慧的綜合企業計劃於本月完成 IPO、募資 750 億美元，協商確定的承銷費率不足 0.75%。即便費率壓至如此低位，這筆承銷佣金仍有望成為華爾街投行史上規模頂尖的承銷收入專案之一。牽頭承銷的高盛集團與摩根士丹利，將在佣金總池中分得高於其餘 21 家合作券商的收益。相關知情人士因資訊未公開要求匿名，並稱上述數值僅為 SpaceX 基礎承銷費率，尚未計入各類浮動獎勵酬金。
-
----
-
-### 2026-06-02 20:39:08  #宏觀
-
-【7月1日起施行！五部門聯合發文保障超齡勞動者權益】日前，人社部會同國家衛生健康委、應急部、稅務總局、國家醫保局等5部門聯合出臺了《超齡勞動者基本權益保障暫行規定》（以下簡稱《暫行規定》）。《暫行規定》自2026年7月1日起施行，這是我國首部明確超齡勞動者權益的專門規章，填補了我國現行勞動法律制度的短板，明確了用人單位與超齡勞動者的權利和義務，保障超齡勞動者的勞動報酬、休息休假、勞動安全衛生、工傷保障等合法權益。（央視新聞）
-
----
-
-### 2026-06-02 20:37:56  #其他
-
-【內蒙古自治區工業和資訊化廳副廳長華瑞鋒接受審查調查】據內蒙古自治區紀委監委訊息：內蒙古自治區工業和資訊化廳黨組成員、副廳長華瑞鋒涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。
 
 ---
