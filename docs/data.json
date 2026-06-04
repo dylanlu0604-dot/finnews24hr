@@ -1,7 +1,223 @@
 {
-  "updated": "2026-06-04 15:18:26",
-  "count": 19046,
+  "updated": "2026-06-04 15:22:31",
+  "count": 19060,
   "items": [
+    {
+      "id": "mkt:019e9182-7fee-7ffc-b901-e2de71c043d3",
+      "time": "2026-06-04 15:21:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said about 12 mln bpd of oil failed to reach the market."
+    },
+    {
+      "id": "mkt:019e9182-3d65-7ffc-b901-dd86dafc5366",
+      "time": "2026-06-04 15:21:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Russia's deputy prime minister Novak said on the UAE's exit from OPEC that OPEC remains an important player in the global oil market because it accounts for a large share of oil production and exports."
+    },
+    {
+      "id": "mkt:019e9182-3be7-7ffc-b901-d5e2b4898066",
+      "time": "2026-06-04 15:21:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Moscow is not currently considering a ban on diesel exports."
+    },
+    {
+      "id": "mkt:019e9181-e8e1-7ffc-b901-c98c85f17d27",
+      "time": "2026-06-04 15:21:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said the oil market has not yet fully reflected the impact of the Middle East conflict, and oil inventories are being drawn down."
+    },
+    {
+      "id": "4916782",
+      "time": "2026-06-04 15:21:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部長西盧安諾夫：目前盧布匯率對出口企業而言並不“合意”。"
+    },
+    {
+      "id": "mkt:019e9181-aa83-7ffc-b901-c7ac09a8924d",
+      "time": "2026-06-04 15:20:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia's oil production has fallen year-to-date due to unplanned refinery maintenance."
+    },
+    {
+      "id": "4916781",
+      "time": "2026-06-04 15:20:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨豐科技在瀋陽成立能源公司，註冊資本1.4億元】企查查APP顯示，近日，北網新能（瀋陽）能源有限公司成立，法定代表人為劉餘，註冊資本為1.4億元，經營範圍包含：煤製品製造；儲能技術服務；太陽能發電技術服務；發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由晨豐科技旗下北網新能（遼寧）能源有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019e9181-84a0-7ffc-b901-bf27e9a165f2",
+      "time": "2026-06-04 15:20:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NOVAK says Russia expects to meet its OPEC+ oil production quota this year."
+    },
+    {
+      "id": "4916780",
+      "time": "2026-06-04 15:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾瓦克表示，由於煉油廠出現“計劃外維修”，石油產量低於年初水平。"
+    },
+    {
+      "id": "4916779",
+      "time": "2026-06-04 15:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾瓦克：目前約有1200萬桶/日的石油未能投放至市場。"
+    },
+    {
+      "id": "4916778",
+      "time": "2026-06-04 15:20:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾瓦克：歐佩克+成員國產能核算工作將於年底前完成。"
+    },
+    {
+      "id": "4916777",
+      "time": "2026-06-04 15:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾瓦克：全球石油市場正經歷一場罕見危機，即便是在二十世紀也未曾出現過。"
+    },
+    {
+      "id": "4916776",
+      "time": "2026-06-04 15:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾瓦克：俄羅斯預計今年將達到歐佩克+石油生產配額要求。"
+    },
+    {
+      "id": "4916775",
+      "time": "2026-06-04 15:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾瓦克：由於煉油廠發生計劃外維修，俄羅斯當前石油產量低於今年年初水平。"
+    },
+    {
+      "id": "4916774",
+      "time": "2026-06-04 15:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾瓦克：俄羅斯將在必要時考慮實施柴油出口禁令。"
+    },
+    {
+      "id": "mkt:019e9180-b568-7ffc-b901-b54ed99e53fa",
+      "time": "2026-06-04 15:19:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to bar entry of certain New Zealand MPs after Taiwan visit, foreign ministry says】CHINA said at a regular press briefing on June 4 that, after several New Zealand MPs visited Taiwan despite Beijing’s objections, it has decided under PRC law to impose entry bans and other measures on the individuals for violating the One China principle and interfering in China’s internal affairs. The ministry warned relevant persons to respect Chinese sovereignty and said those who overstep on the Taiwan issue will pay a price."
+    },
+    {
+      "id": "4916773",
+      "time": "2026-06-04 15:19:25",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐盟內部有觀點認為應對華“去風險”，外交部回應】今天（4日），外交部發言人毛寧主持例行記者會。有記者提問，日前歐委會全體會議討論對華關係，有觀點認為中歐貿易和投資狀況“不可持續”，歐盟應對華“去風險”。外界預計6月中旬，歐盟將借G7和歐盟夏季峰會推出新的對華貿易限制工具。但同時我們也注意到，中國歐盟商會最新的調查報告顯示，68%的歐洲企業選擇堅守或擴大在華業務，近1/3的企業將進一步深化在中國的本土化佈局，“去風險”似乎並未成為歐洲企業的實際選擇。發言人如何看待這種現象？毛寧表示，越來越多的歐洲企業選擇深耕中國、擴大在華業務，這本身就是對所謂“去風險”最有力的回應。中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。毛寧指出，50多年來，中歐年貿易額增長了300多倍，相互雙向投資接近2600億美元，充分說明中歐合作動力強勁，前景廣闊。貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。（外交部）"
+    },
+    {
+      "id": "4916772",
+      "time": "2026-06-04 15:18:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：希望歐方客觀理性看待中歐經貿關係】外交部發言人毛寧6月4日在例行記者會上回答有關中歐經貿關係的提問時說，貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。毛寧表示，中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。越來越多的歐洲企業選擇深耕中國，擴大在華業務，這本身就是對所謂“去風險”最有力的回應。（新華社）"
+    },
+    {
+      "id": "mkt:019e917f-bd75-7ffc-b901-ac77b072a4aa",
+      "time": "2026-06-04 15:18:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "China's Foreign Ministry said it hopes the EU will view China-EU economic and trade relations objectively and rationally, Xinhua."
+    },
+    {
+      "id": "te:economy:556430",
+      "time": "2026-06-04 15:18:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10-Year Yield Falls on Tax Relief Hopes — The yield on India’s 10-year G-Sec fell to around 6.9%, trimming recent gains as reports of tax relief for foreign debt investors lifted demand for sovereign bonds. Sentiment improved after reports that the government may scrap capital gains tax on foreign portfolio investments in government securities. The move comes as foreign investors have purchased about $1.4 billion of Indian bonds this year while pulling nearly $28 billion from equities. The proposal could also remove the current 12.5% capital gains tax and 20% withholding tax on foreign bond investments. Still, gains were capped ahead of the Reserve Bank of India's policy decision on Friday, with some analysts now expecting a 25-basis-point rate hike amid mounting inflation risks. Meanwhile, Brent crude slipped 0.9% to $96.97 per barrel following a ceasefire agreement between Israel and Lebanon, though prices remained elevated above $95, keeping pressure on the inflation outlook."
+    },
+    {
+      "id": "4916771",
+      "time": "2026-06-04 15:18:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀘州老窖集團等在成都成立新合夥企業 出資額約1.45億】天眼查App顯示，近日，成都市華格展益企業管理合夥企業（有限合夥）成立，執行事務合夥人為金惠紅湖（深圳）企業管理有限公司，出資額約1.45億人民幣，經營範圍包括企業管理、企業管理諮詢、資訊諮詢服務等。合夥人資訊顯示，該合夥企業由瀘州老窖集團旗下四川金舵投資有限責任公司、深圳市崇恆科技有限公司、金惠紅湖（深圳）企業管理有限公司共同出資。"
+    },
+    {
+      "id": "4916770",
+      "time": "2026-06-04 15:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：臺灣問題上踩線越界必將付出代價】今天（4日），外交部發言人毛寧主持例行記者會。 美聯社記者提問，第一，中方為何禁止部分紐西蘭議員的入境？這個禁令的時限是一年嗎？第二，“五眼聯盟”國家情報機構指責中方利用網上的求職平臺招募情報人員，發言人對此有何評論？ 毛寧表示，近期，紐西蘭個別議員不顧中方的嚴重關切和堅決反對，執意竄訪中國臺灣地區，違反一箇中國原則，干涉中國內政。根據中華人民共和國相關法律，中方決定對有關人員採取禁止入境等措施。 她強調，一箇中國原則是國際社會的普遍共識和國際關係基本準則，也是中新關係的政治基礎。我們奉勸有關人員切實尊重中國主權和領土完整，嚴格恪守一箇中國原則，在臺灣問題上踩線越界必將付出代價。 關於“五眼聯盟”，毛寧表示，作為全球最大的情報合作聯盟，“五眼聯盟”長期以來在世界各地開展大規模系統性的間諜活動，這樣一個組織卻指責所謂“中國間諜威脅”，這本身就很諷刺。（北京日報）"
+    },
+    {
+      "id": "4916769",
+      "time": "2026-06-04 15:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：希望德方能夠恪守一箇中國原則】今天（4日），外交部發言人毛寧主持例行記者會。 德新社記者提問，5月時有德國議員“訪問”了臺灣，請問中方會禁止德國和其他國家“訪問”臺灣的議員進入中國嗎？ 毛寧表示，臺灣是中國的一部分，一箇中國原則是國際社會的普遍共識，也是國際關係的基本準則，同樣是中德關係的政治基礎。 “我們希望德方能夠恪守一箇中國原則，不要借臺灣問題干涉中國內政。”毛寧說，“我剛剛已經說了，在臺灣問題上踩踏紅線一定會付出代價”。（北京日報）"
+    },
     {
       "id": "mkt:019e917e-cb19-7ffc-b901-a7193d45df30",
       "time": "2026-06-04 15:17:46",
@@ -11,6 +227,14 @@
         "Impact bullish"
       ],
       "text": "Deutsche Bank raises Broadcom PT to $515 from $430."
+    },
+    {
+      "id": "4916768",
+      "time": "2026-06-04 15:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【無視法院禁令 美國繼續在肯亞建埃博拉隔離設施】儘管肯亞法院兩次下令暫停、當地民眾強烈反對，美國位於肯亞萊基皮亞空軍基地的埃博拉疫情隔離設施建設仍在繼續。據路透社3日報道，肯亞法院5月底首次下令暫停隔離設施建設。然而，禁令下達後，仍有3架美軍運輸機在萊基皮亞空軍基地降落。一名不願透露姓名的美國官員稱，飛機運來了技術裝置以及數十名醫生、工程師、實驗室專家和建築工人，暫時還未運入患者。（新華社）"
     },
     {
       "id": "4916767",
@@ -175494,97 +175718,6 @@
         "Importance 1"
       ],
       "text": "Slovakia Consumer Morale Falls to Over 3-Year Low — Slovakia’s consumer confidence indicator dropped to -28.3 in May 2026 from -27.4 in the previous month. This marked the lowest reading since March 2023, signaling a weaker household sentiment. The overall drop was driven by households more pessimistic view for savings (-19.3 vs -14.1 in April) and rising concerns about current financial conditions (-13.4 vs -12.5). Meanwhile, consumers were slightly less negative in their assessment of the general economic outlook (-44.0 vs -45.9), suggesting some resilience despite the broader decline in confidence. Concerns over future unemployment also eased marginally (36.6 vs 37.1). Among other indicators, concerns about their past financial situation continued to deteriorate (-17.2 vs -15.5)."
-    },
-    {
-      "id": "4904129",
-      "time": "2026-05-28 15:21:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滙豐、巴克萊等銀行將流失劍橋大學資金】劍橋大學正將數億英鎊資金撤出為化石燃料行業提供融資的金融機構，英國巴克萊銀行、滙豐控股等本土銀行都將面臨存款流失。該校已將1.35億英鎊現金及貨幣市場投資，從主流大型商業銀行轉至國內建房互助協會及其他小型金融機構。劍橋大學持續推動英國各大高校遠離支援化石燃料產業擴張的銀行，後續還將有更多資金轉出。"
-    },
-    {
-      "id": "4904128",
-      "time": "2026-05-28 15:20:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖能電力：公司未直接持有長鑫科技股份】皖能電力5月28日在互動平臺表示，公司未直接持有長鑫科技股份。公司控股股東皖能集團全資子公司安徽省碳中和基金，發起設立的信德皖能股權投資基金合夥企業持有約0.036%的長鑫科技股份。"
-    },
-    {
-      "id": "4904127",
-      "time": "2026-05-28 15:20:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部：國際社會應充分認清日方“欺騙式外交”“受害者偽裝”】據報道，近期媒體披露了高市早苗政府任內首份《防衛白皮書》草案，其中將中方在太平洋的活動渲染為“安全威脅”並表示警惕。同時，日本內閣官房長官表示，日本“專守防衛”政策沒有改變，中方關於日本“新型軍國主義”的說法不成立。國防部新聞發言人蔣斌表示，日方言行不一，越描越黑。近年來，日本政府大幅擴充軍費，發展部署進攻性武器，放寬殺傷性武器出口，推動修改和平憲法、鼓吹成為“能戰”國家，甚至鼓譟放棄“無核三原則”。如果這也能叫“專守防衛”，字典裡就沒有“進攻”二字了。日本軍國主義曾給世界造成深重災難，也給日本人民帶來災禍。日本“再軍事化”這頭“灰犀牛”正奔襲而來，這不能不令人警醒。國際社會應充分認清日方“欺騙式外交”“受害者偽裝”，共同遏止日本“新型軍國主義”，維護地區和世界和平穩定。"
-    },
-    {
-      "id": "4904126",
-      "time": "2026-05-28 15:20:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多明尼加對原產於中國的螺紋鋼啟動反傾銷日落複審調查】5月26日，多明尼加不公平貿易和保障措施監管委員會發布第CDC-RD-AD-009-2026號公告稱，應多明尼加生產商Metaldom, S.A.和Ecoacero, S.R.L.申請，對原產於中國的螺紋鋼啟動反傾銷第二次日落複審調查。本案調查期為2021年1月1日至2025年12月31日。涉案產品的多明尼加稅號為7214.10.00、7214.20.00、7214.30.00和7214.99.00。"
-    },
-    {
-      "id": "te:economy:554359",
-      "time": "2026-05-28 15:20:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Dutch Business Mood Weakest in 9 Months — Business confidence in the Dutch manufacturing sector deteriorated to -2.0 in May 2026 from -0.7 in April, marking the weakest reading since last August. Expected activity dropped sharply to 4.6 from 8.4, signalling a notable weakening in the near-term production outlook, while inventory judgments worsened to -5.2 from -3.3, indicating a higher perceived stock overhang. By contrast, order position assessments improved slightly to -5.6 from -7.1, suggesting some easing in demand conditions. By sector, sentiment weakened broadly. The food and beverage industry declined (-3.0 vs -1.9), wood and building materials edged lower (-3.5 vs -3.3), while refineries and chemicals weakened further (-3.7 vs -1.6), alongside base metals and metal products (-4.1 vs -0.8). Assessments were less negative for paper and graphic products (-4.0 vs -4.9), and textile, clothing, and leather (-2.9 vs -7.9)."
-    },
-    {
-      "id": "te:markets:554357",
-      "time": "2026-05-28 15:20:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Pulls Back from Record Peak, Ends 1.4% Lower — The TAIEX, Taiwan’s benchmark stock index, dropped 620 points, or 1.4%, to close at 43,636 on Thursday, erasing gains from the previous session and mainly weighed down by electronic technology and technology services stocks amid profit-taking. The broader index retreated from the record high touched a day earlier, when it closed at 44,257 after surpassing the 44,000 level for the first time, mainly supported by a surge in electronic technology stocks amid optimism over AI demand. Electronic technology and technology services stocks fell 1.5% and 1.9%, respectively. Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the market’s total value, dropped 0.2%, while MediaTek and Delta Electronics plunged 5.0% and 5.2%, respectively, and Hon Hai Precision Industry declined 0.4%. However, renewed escalation in the Middle East conflict further pressured sentiment following US strikes on Iranian targets."
-    },
-    {
-      "id": "4904125",
-      "time": "2026-05-28 15:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "uniper執行長警告稱，若天然氣儲氣庫無法迅速完成注氣，明年冬季將出現問題。"
-    },
-    {
-      "id": "mkt:019e6d73-bd62-722b-8acc-45840107b7c7",
-      "time": "2026-05-28 15:19:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian military says it has attacked Russia's Tuapse oil refinery."
-    },
-    {
-      "id": "4904124",
-      "time": "2026-05-28 15:18:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱已襲擊俄羅斯圖阿普謝煉油廠。"
-    },
-    {
-      "id": "mkt:019e6d73-1b81-722b-8acc-3d7c9a085ac8",
-      "time": "2026-05-28 15:18:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Musk: SpaceX-ANTHROPIC Colossus AI Lease Initially Six Months】SpaceX CEO Elon Musk said on Thursday SpaceX only agreed to lease the Colossus AI training data-center cluster to ANTHROPIC for six months, but he added the agreement \"could\" be extended to years. \"SpaceX did not commit to renting Colossus for years, though that could indeed happen,\" Musk said. Earlier this year SpaceX reached a deal with ANTHROPIC under which ANTHROPIC would pay $1.25 bln per month to use the Colossus and Colossus II clusters in Memphis, Tennessee; that arrangement was reported as running through May 2029. In a regulatory filing last week SpaceX said both parties could terminate the agreement with 90 days' notice; that filing did not mention a six-month lease. Musk said the deal is a 180-day lease, after which either side can give 90 days' notice, \"We will not strand them, and will provide a reasonable exit plan, but if compute resources become extremely tight, I have said we may need at some point to reclaim those resources.\" SpaceX's IPO application shows the company's AI unit generated $818 mln of revenue in the March quarter and an operating loss of about $2.5 bln."
     }
   ]
 }
