@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-04 10:38:12",
-  "count": 19136,
+  "updated": "2026-06-04 10:42:06",
+  "count": 19134,
   "items": [
+    {
+      "id": "mkt:019e9081-bc70-7cc0-ba22-de89e3887c69",
+      "time": "2026-06-04 10:41:21",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "Indonesia's Ministry of Mines said copper concentrate production totaled 422,510 tonnes in January–April, while cathode copper output was 83,280 tonnes."
+    },
+    {
+      "id": "te:markets:556319",
+      "time": "2026-06-04 10:41:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Near 2-Week Low — The Australian dollar held below $0.715, staying near a two-week low as renewed hostilities in the Middle East dampened risk sentiment, while upbeat domestic trade data offered support. Australia's trade position returned to a surplus of AUD 1.79 billion in April from a deficit of AUD 1.02 billion in March, as exports climbed to a three-year high, led by stronger shipments of metal ores, while import growth remained modest. Earlier this week, the country's softer Q1 GDP readings reinforced signs that higher interest rates are already cooling demand. The Reserve Bank has raised interest rates three times this year to slow the economy, bringing demand back in line with supply to contain price pressures. However, fresh attacks in the Middle East and near the crucial Strait of Hormuz has kept energy prices elevated, fueling inflation concerns. Markets now have ruled out another rate hike this month, but remain evenly split for a move in August and are pricing a 4.60% peak by year-end."
+    },
+    {
+      "id": "4916443",
+      "time": "2026-06-04 10:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼礦產部公佈，1-4月印尼煤炭產量為2.34億公噸，出口量為1.509億公噸。"
+    },
+    {
+      "id": "4916442",
+      "time": "2026-06-04 10:40:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指下跌1.2%，至5076.81點。"
+    },
+    {
+      "id": "4916441",
+      "time": "2026-06-04 10:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞礦業部公佈，該國1-4月陰極銅產量為83280公噸。"
+    },
+    {
+      "id": "4916440",
+      "time": "2026-06-04 10:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞礦產部公佈，該國1-4月銅精礦產量為42.251萬噸。"
+    },
+    {
+      "id": "4916439",
+      "time": "2026-06-04 10:40:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "煤炭股反覆活躍，平煤股份逼近漲停，大有能源此前4連板，鄭州煤電、淮北礦業、陝西煤業、恆源煤電、兗礦能源等跟漲。"
+    },
+    {
+      "id": "4916438",
+      "time": "2026-06-04 10:39:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【養老服務信託創新試點，上海構建“意定監護+養老服務信託+養老服務機構”模式】上海金融監管局、上海市民政局、人民銀行上海市分行、上海市委金融辦近日聯合印發《關於創新開展養老服務信託試點的通知》，創新構建“意定監護+養老服務信託+養老服務機構”全鏈條養老服務生態，推動形成意定監護人負責人身監護、信託公司負責財產管理、養老服務機構負責專業照護服務的專業體系，共同保障老年及備老群體的財產安全與生活質量。"
+    },
+    {
+      "id": "mkt:019e907f-a55c-7cc0-ba22-d2335451a5f9",
+      "time": "2026-06-04 10:39:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Indonesia's benchmark stock index slid 4.2% to 5,688.574 points, its lowest level since Dec. 1, 2020."
+    },
+    {
+      "id": "4916437",
+      "time": "2026-06-04 10:38:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股票指數跌幅達4.2%，報5688.574點，創2020年12月1日以來最低水平。"
+    },
     {
       "id": "4916436",
       "time": "2026-06-04 10:37:18",
@@ -176111,108 +176205,6 @@
         "其他"
       ],
       "text": "申鉉松：國內債券市場遠未陷入危機。"
-    },
-    {
-      "id": "4903671",
-      "time": "2026-05-28 10:41:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "三艘石油和液化天然氣運輸船關閉應答器駛出霍爾木茲海峽。"
-    },
-    {
-      "id": "te:markets:554258",
-      "time": "2026-05-28 10:41:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Prices Hit 5-Week Low — Corn futures fell to around $4.5 per bushel, hitting a five-week low as uncertainty over global trade and geopolitical developments weighed on prices. A potential US–Iran peace deal that could reopen the Strait of Hormuz and restore flows of fuel and fertilizers critical for crop production is seen as supportive for agricultural supply, potentially boosting global grain output. However, crude oil prices rebounded on reports of fresh US strikes in southern Iran, reinforcing biofuel-related demand. Elsewhere, doubts over a US–China trade agreement added pressure. While the US administration said China had agreed to purchase at least $17 billion in US agricultural goods annually through 2028 following Trump–Xi talks in Beijing, China’s Commerce Ministry described the arrangement only as a “guiding target” to expand trade, without confirming the figure. USDA data indicates that a recovery in Chinese corn imports would mark a notable shift after nearly two years of subdued buying."
-    },
-    {
-      "id": "4903670",
-      "time": "2026-05-28 10:41:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【證監會：各類境外投資者持有A股流通市值超過4萬億元】新浪財經訊，5月28日，深交所2026全球投資者大會舉行，中國證監會副主席劉浩凌表示，截至目前，各類境外投資者持有A股流通市值超過4萬億元，已成為中國資本市場的重要參與者。"
-    },
-    {
-      "id": "mkt:019e6c75-789d-7666-9cf2-2fe51d01882e",
-      "time": "2026-05-28 10:41:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Kuwait's state news agency KUNA reported alarms sounded nationwide."
-    },
-    {
-      "id": "4903669",
-      "time": "2026-05-28 10:41:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特國家通訊社稱，全國範圍內已響起警報。"
-    },
-    {
-      "id": "mkt:019e6c75-4657-7666-9cf2-2446dc683e45",
-      "time": "2026-05-28 10:41:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc's automated system detected a roughly magnitude-4.0 earthquake at 10:37 on May 28 near Yushu City, Yushu Prefecture, Qinghai (33.06N, 96.20E). Final results are subject to the official rapid bulletin."
-    },
-    {
-      "id": "4903668",
-      "time": "2026-05-28 10:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特：應對敵對導彈和無人機威脅。"
-    },
-    {
-      "id": "4903667",
-      "time": "2026-05-28 10:40:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【證監會副主席劉浩凌：資本市場高水平制度型開放步伐穩健，國際投資者信心明顯提升】新浪財經訊，5月28日，深交所2026全球投資者大會舉行，中國證監會副主席劉浩凌表示，資本市場全方位的改革舉措推動改善投資生態，一大批對外開放舉措落地見效，有力增強了長期配置型投資者投資中國的信心。"
-    },
-    {
-      "id": "4903666",
-      "time": "2026-05-28 10:39:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份股價創歷史新高】滬電股份盤中股價創歷史新高，現漲5.41%，報135.23元，總市值為2551.32億元。"
-    },
-    {
-      "id": "4903665",
-      "time": "2026-05-28 10:39:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：晶片驅動的增長升級被認為是持久的，而非暫時的。"
-    },
-    {
-      "id": "mkt:019e6c73-98e9-7666-9cf2-193b0bdb509a",
-      "time": "2026-05-28 10:39:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANK OF KOREA GOVERNOR SHIN said he expects South Korea's GDP output gap to turn positive in 2027."
-    },
-    {
-      "id": "4903664",
-      "time": "2026-05-28 10:38:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念震盪回升 寶鼎科技觸及漲停續創歷史新高】PCB概念日內震盪回升，寶鼎科技觸及漲停，國際復材、宏和科技、銅冠銅箔、長海股份漲超7%，均創歷史新高。"
     }
   ]
 }
