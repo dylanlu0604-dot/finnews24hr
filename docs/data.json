@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-05 07:49:23",
-  "count": 19025,
+  "updated": "2026-06-05 07:53:04",
+  "count": 19009,
   "items": [
+    {
+      "id": "4918290",
+      "time": "2026-06-05 07:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：消費稅減免的方向尚未確定。不會依靠舉債來為食品消費稅減擴音供資金。"
+    },
+    {
+      "id": "4918289",
+      "time": "2026-06-05 07:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：截至5月末日本外匯儲備規模為13058.74億美元，4月末為13829.81億美元。"
+    },
+    {
+      "id": "mkt:019e950b-5ed3-7cc8-bdef-c171348bfc22",
+      "time": "2026-06-05 07:50:10",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan's foreign exchange reserves were $1,305.9 bln in May, down from $1,383.0 bln in April."
+    },
+    {
+      "id": "mkt:019e950b-3740-7cc8-bdef-bd591779d4b8",
+      "time": "2026-06-05 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Foreign Exchange Reserves (May) | actual 1305900000000B | previous 1383000000000B"
+    },
+    {
+      "id": "4918288",
+      "time": "2026-06-05 07:49:18",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美國就業資料或為美元兌日元提供看漲催化劑】StoneX的Matt Simpson在評論中表示，將於今天晚些時候公佈的美國就業資料可能為美元兌日元提供看漲催化劑。這位高階市場分析師指出，非農就業報告“在過去兩個月均意外上行“。他說，此外，“在美國供應管理學會調查改善，且服務業採購經理人指數(PMI)中的支付價格分項僅微幅上升的背景下，就業增長可能會繼續支援美聯儲在更長時間內維持高利率的敘事，甚至重新引發圍繞加息的討論。”Simpson補充說：“這將在週末前為美元兌日元提供看漲催化劑。“"
+    },
     {
       "id": "4918287",
       "time": "2026-06-05 07:48:28",
@@ -175039,221 +175088,6 @@
         "觀點"
       ],
       "text": "【中信建投：資本市場改革深化下 券商“科創屬性”價值重估】中信建投證券研報稱，2025年以來科創板“1+6”改革、創業板深化改革相繼落地，兩大板塊錯位發展格局形成，成為A股科創企業融資核心陣地。券商科創屬性主要來自投行保薦承銷、雙創IPO跟投及直投、私募業務，截至2026年5月26日，頭部及特色券商跟投累計浮盈達90.91億元。當前非銀板塊估值處於歷史偏低區間，改革紅利持續釋放疊加科創業務業績兌現，板塊配置價值凸顯，建議關注頭部券商及科創特色鮮明的中型券商。"
-    },
-    {
-      "id": "4905694",
-      "time": "2026-05-29 07:52:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投家電2026年中期投資策略：白電板塊當前股息率處於歷史高位 配置價值凸顯】中信建投證券家電2026年中期投資策略指出，國補政策帶來的景氣錯期正為白電投資提供“擊球區”，白電板塊當前股息率處於歷史高位，配置價值顯著凸顯。短期行業景氣受國補退坡、高基數效應、海外需求結構分化等因素階段性壓制，但上述擾動均非長期結構性矛盾，伴隨基數回落、龍頭份額持續提升、新興市場韌性顯現，行業景氣有望逐步修復。在充沛現金流、高分紅與回購支撐下，白電龍頭具備穩定股東回報與估值修復空間，是當前市場中兼具防禦性與彈性的優質配置方向。"
-    },
-    {
-      "id": "4905693",
-      "time": "2026-05-29 07:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不對是否已實施干預置評。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202605293753383784",
-      "time": "2026-05-29 07:51:11",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月份零售額同比增長2.1%，預估為1.3%。"
-    },
-    {
-      "id": "mkt:019e70ff-fa4d-700c-b35c-2807fb775b55",
-      "time": "2026-05-29 07:51:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan retail sales, April: ¥13.217 trillion, down from ¥14.306 trillion in the prior month."
-    },
-    {
-      "id": "4905692",
-      "time": "2026-05-29 07:51:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月在被問及外匯干預問題時表示，我們已表示可在市場波動時採取果斷行動。"
-    },
-    {
-      "id": "mkt:019e70ff-f04e-700c-b35c-276724684e38",
-      "time": "2026-05-29 07:51:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail Sales (Apr) | actual 13217000000000T | previous 14306000000000T"
-    },
-    {
-      "id": "em:jjsj_rbsj:202605293753361910",
-      "time": "2026-05-29 07:50:53",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月份工業產值同比增長2.3%，預估0.7%。"
-    },
-    {
-      "id": "mkt:019e70ff-8ad5-700c-b35c-1b93cc714381",
-      "time": "2026-05-29 07:50:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan April inventories MoM -0.2% (prior -1.8%)."
-    },
-    {
-      "id": "te:markets:554639",
-      "time": "2026-05-29 07:50:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Set for Steep Monthly Loss — Brent crude futures fell toward $93 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The international oil benchmark has dropped nearly 15% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief."
-    },
-    {
-      "id": "mkt:019e70ff-8977-700c-b35c-12f53de6eef8",
-      "time": "2026-05-29 07:50:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Inventory (MoM) (Apr) | actual -0.2% | previous -1.8%"
-    },
-    {
-      "id": "mkt:019e70ff-76a7-700c-b35c-09118156c935",
-      "time": "2026-05-29 07:50:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April seasonally adjusted retail sales MoM 1.3% vs expected 0.4%; March revised to 1.0% from 1.3%."
-    },
-    {
-      "id": "4905691",
-      "time": "2026-05-29 07:50:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月零售銷售同比 2.1%，預期 1.3%，前值 1.7%。日本4月零售銷售環比 1.3%，預期 0.4%，前值 1.3%。"
-    },
-    {
-      "id": "mkt:019e70ff-2827-700c-b35c-05a41b1717ae",
-      "time": "2026-05-29 07:50:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan April industrial production YoY preliminary 2.3% (exp 0.7%, prev 2.4%)."
-    },
-    {
-      "id": "mkt:019e70ff-1868-700c-b35b-fe39cecf77a9",
-      "time": "2026-05-29 07:50:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail Sales SA (MoM) (Apr) | actual 1.3% | consensus 0.40% | previous 1.30%"
-    },
-    {
-      "id": "4905690",
-      "time": "2026-05-29 07:50:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月工業產出同比初值 2.3%，預期 0.7%，前值 2.4%。日本4月工業產出環比初值 0.8%，預期 -0.6%，前值 -0.4%。"
-    },
-    {
-      "id": "mkt:019e70ff-16a7-700c-b35b-f73888fed54e",
-      "time": "2026-05-29 07:50:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Industrial Production Flash (YoY) (Apr) | actual 2.3% | consensus 0.70% | previous 2.40%"
-    },
-    {
-      "id": "mkt:019e70fe-f802-700c-b35b-e8a8f8dca522",
-      "time": "2026-05-29 07:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan April industrial production preliminary MoM +0.8% vs -0.6% expected; prior -0.4%."
-    },
-    {
-      "id": "mkt:019e70fe-f7c0-700c-b35b-e6cd69318574",
-      "time": "2026-05-29 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April retail sales YoY 2.1% vs expected 1.3%; March revised to 1.4% from 1.7%."
-    },
-    {
-      "id": "mkt:019e70fe-dbdd-700c-b35b-dffa3280688c",
-      "time": "2026-05-29 07:50:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Industrial Production Flash (MoM) (Apr) | actual 0.8% | consensus -0.60% | previous -0.40%"
-    },
-    {
-      "id": "mkt:019e70fe-caa7-700c-b35b-d6e6ac4b95df",
-      "time": "2026-05-29 07:50:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail sales (YoY) (Apr) | actual 2.1% | consensus 1.30% | previous 1.70%"
-    },
-    {
-      "id": "te:markets:554638",
-      "time": "2026-05-29 07:49:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Set for Steep Monthly Loss — WTI crude futures fell toward $88 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The US oil benchmark has dropped more than 12% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief."
     }
   ]
 }
