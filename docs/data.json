@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-04 23:13:21",
-  "count": 18951,
+  "updated": "2026-06-04 23:17:34",
+  "count": 18958,
   "items": [
+    {
+      "id": "4917788",
+      "time": "2026-06-04 23:16:32",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通 ：石油市場已找到代價高昂的方式消化伊朗衝擊】摩根大通分析師Nathasha Kaneva等人在報告中表示，“儘管尚未達成協議，海峽持續關閉，庫存仍在下降，但市場似乎越來越適應現狀。”“我們估計，每日額外100萬桶供應正在設法透過海峽，可見庫存的下降速度略慢於我們最初的預測，而需求損失明顯大於預期。”5月最後兩週，透過海峽的隱秘流量已明顯增加，達到每日210萬桶。“綜合來看，這些調整有助於解釋為什麼接近100美元的油價並不表明中斷影響很小。相反，它們表明市場已經找到了一些方式 —— 儘管代價高昂 —— 來消化這一衝擊。”“另一種可能性是，與歷史經驗所顯示的相比，世界已經更加善於適應石油衝擊。”“2022年油價飆升的經歷，或許已經讓政府、企業和消費者學會如何在減少能源使用的同時維持經濟活動。”"
+    },
+    {
+      "id": "mkt:019e9334-c1df-777a-b6d9-848876eb3eae",
+      "time": "2026-06-04 23:16:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "JP Morgan: oil market has found a costly way to digest the Iran shock."
+    },
+    {
+      "id": "4917787",
+      "time": "2026-06-04 23:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長：瑞銀與瑞士政府之間合作關係良性向好。"
+    },
+    {
+      "id": "mkt:019e9334-0a57-711f-983f-3d928d3fdc7d",
+      "time": "2026-06-04 23:15:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS CEO Ermotti said UBS Group's relationship with the Swiss government is constructive."
+    },
+    {
+      "id": "4917786",
+      "time": "2026-06-04 23:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗允許IAEA檢查布什爾核電站 但鈾問題上仍態度強硬】伊朗本週允許聯合國核監督機構的核查人員訪問布什爾核電站，但拒絕檢查人員核實其濃縮鈾庫存狀況和存放地點的要求。根據國際原子能機構(IAEA)的一份報告，儘管該機構對布什爾之行表示歡迎，但無法消除外界對伊朗接近武器級濃縮鈾庫存的擔憂。這批材料足以製造約12枚核彈頭，而IAEA已有一年未能對其進行核實。彭博看到的這份10頁保密報告顯示，雖然核查人員在布什爾進行了為期三天的訪問，但“IAEA尚未收到伊朗關於其他已申報核活動現狀的任何資訊”。IAEA總幹事Rafael Mariano Grossi再次要求伊朗允許檢查人員恢復工作，並呼籲透過談判解決以色列、美國與伊朗之間的僵局。"
+    },
+    {
+      "id": "4917785",
+      "time": "2026-06-04 23:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯化肥生產商協會主席： 俄羅斯儲備有化肥庫存，可供本國農戶使用。"
+    },
+    {
+      "id": "mkt:019e9333-1fe3-711f-983f-350692cf4344",
+      "time": "2026-06-04 23:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The chairman of the Russian Fertilizer Producers Association said Russia has sufficient fertilizer stocks to supply domestic farmers."
+    },
+    {
+      "id": "mkt:019e9332-a66c-711f-983f-2f2b754447a0",
+      "time": "2026-06-04 23:13:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "HSBA.L",
+        "Impact bearish"
+      ],
+      "text": "Market sources: HSBC Holdings faces prosecution and investigation in France over alleged misappropriation of Lebanese funds."
+    },
+    {
+      "id": "4917784",
+      "time": "2026-06-04 23:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國調查黎巴嫩資金侵佔案，滙豐遭立案指控。"
+    },
+    {
+      "id": "4917783",
+      "time": "2026-06-04 23:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：羅馬尼亞候任總理擬提名組建技術官僚內閣。"
+    },
     {
       "id": "mkt:019e9331-379d-711f-983f-208773473f33",
       "time": "2026-06-04 23:12:13",
@@ -174626,31 +174716,6 @@
         "Importance 2"
       ],
       "text": "US Natgas Prices Extend Gains after EIA Data — US natural gas futures climbed more than 4% to above $3.2 per MMBtu, nearing levels last seen in February, after government data showed a smaller-than-expected storage build last week. The EIA reported that utilities added 92 billion cubic feet of gas to storage in the week ended May 22, below forecasts for a 95 to 96 bcf increase and lower than the 104 bcf injection recorded a year earlier. Total inventories rose to 2.483 trillion cubic feet, around 0.9% above year-ago levels and 6.2% higher than the five-year seasonal average, with the surplus over the average narrowing to 144 bcf from 149 bcf the previous week. US gas production in the Lower 48 states eased to 109.4 bcfd in May from 109.8 bcfd in April, while flows to major LNG export plants also declined due to seasonal maintenance work. Weather forecasts point to mostly normal conditions through mid-June."
-    },
-    {
-      "id": "4905201",
-      "time": "2026-05-28 23:16:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "德爾芬集團即將推進美國首個浮動液化天然氣專案。"
-    },
-    {
-      "id": "4905200",
-      "time": "2026-05-28 23:16:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府正提起訴訟，挑戰四個由民主黨主導的州拒絕向美國移民和海關執法局（ICE）人員發放秘密車牌的決定；已針對緬因州、馬薩諸塞州、俄勒岡州和華盛頓州提起了訴訟。"
-    },
-    {
-      "id": "4905199",
-      "time": "2026-05-28 23:14:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大銀行高階副行長卡羅琳·羅傑斯在被問及抵押貸款續期壓力整體偏低相關問題時表示，加拿大住戶一直保持審慎財務行為。"
     }
   ]
 }
