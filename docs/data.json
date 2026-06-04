@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-05 02:05:40",
-  "count": 18957,
+  "updated": "2026-06-05 02:09:42",
+  "count": 18967,
   "items": [
+    {
+      "id": "4918008",
+      "time": "2026-06-05 02:08:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：只有上帝知道我能否身體健康地完成本屆總統任期。"
+    },
+    {
+      "id": "4918007",
+      "time": "2026-06-05 02:08:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Rumble與Together AI簽署協議，推出搭載英偉達布萊克韋爾架構的人工智慧算力即服務。"
+    },
+    {
+      "id": "mkt:019e93d2-6c19-7338-b9e8-0962e1e2600d",
+      "time": "2026-06-05 02:08:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve's Schmid said he believes AI could help revive rural areas by making it easier to start businesses in remote locations."
+    },
+    {
+      "id": "4918006",
+      "time": "2026-06-05 02:07:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊表示，伊朗有能力維持戰爭，但不尋求戰爭。"
+    },
+    {
+      "id": "mkt:019e93d1-af94-7338-b9e8-0631df9c31d0",
+      "time": "2026-06-05 02:07:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Lebanese broadcaster Al-Mayadeen quoted Iranian foreign minister Araghchi saying Iran has the capacity to sustain a war but does not seek one."
+    },
+    {
+      "id": "4918005",
+      "time": "2026-06-05 02:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，5月3日執飛的美聯航航班在紐瓦克機場附近飛行時撞到一根位於地面上方15英尺處的燈杆。"
+    },
+    {
+      "id": "4918004",
+      "time": "2026-06-05 02:06:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德認為，人工智慧能夠助力鄉村地區實現復興，因為藉助人工智慧，人們可以更便捷地在偏遠地區創業。"
+    },
+    {
+      "id": "mkt:019e93d0-392b-7338-b9e7-fbba6fc0f856",
+      "time": "2026-06-05 02:05:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Schmid said intuitively that when roughly one-seventh of U.S. federal spending is absorbed by interest payments, a solution is required."
+    },
+    {
+      "id": "mkt:019e93d0-332f-7338-b9e7-f456bdbfffba",
+      "time": "2026-06-05 02:05:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says Russia's economy is getting back on track."
+    },
+    {
+      "id": "mkt:019e93cf-e50f-7338-b9e7-ebc73828d904",
+      "time": "2026-06-05 02:05:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Putin says Russia will not refuse dialogue with Europe】On the 4th in St. Petersburg, Putin told leaders of major news agencies Russia will not refuse dialogue with Europe. He said it is not “evil Russia” cutting energy supplies but Europe refusing to buy Russian energy and seeking Russia’s collapse. Putin added Moscow will only negotiate with counterparts it trusts and does not trust those who insist Russia must suffer a strategic defeat; he added in German, “That’s the point.”"
+    },
+    {
+      "id": "mkt:019e93cf-c895-7338-b9e7-e7fb9cee0390",
+      "time": "2026-06-05 02:05:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official Schmid said that although US debt levels are high, the spending measures taken to address existential events such as the 2008 financial crisis and the 2020 pandemic are difficult to fault in hindsight."
+    },
+    {
+      "id": "4918003",
+      "time": "2026-06-05 02:05:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "藍色起源在發射臺爆炸事故後，仍有資格獲得認證，可與SpaceX競爭美國軍方航天發射專案。"
+    },
+    {
+      "id": "mkt:019e93cf-b97e-7338-b9e7-dd950814bfa6",
+      "time": "2026-06-05 02:05:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Putin said Russia will find someone on the Ukrainian side to sign a peace agreement and will sign with legitimate representatives, possibly including Zelensky."
+    },
     {
       "id": "4918002",
       "time": "2026-06-05 02:04:46",
@@ -174662,30 +174782,6 @@
         "國際"
       ],
       "text": "無人機製造商Unusual Machines Inc.（UMAC）維持超過68%的漲幅，持穩於盤中歷史新高32美元附近，報道稱，美國總統特朗普的政府考慮注資該公司，從而提高美國的產量、降低成本。"
-    },
-    {
-      "id": "4905431",
-      "time": "2026-05-29 02:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州就2023年資料洩露事件起訴23andMe。"
-    },
-    {
-      "id": "4905430",
-      "time": "2026-05-29 02:08:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本學者：政府應重新審視和平憲法意義】近來，日本政府在情報領域動作頻頻，推動多層面整合升級情報力量。日本參議院27日表決透過設立“國家情報局”的法案。“國家情報局”最早將於今年夏天啟動，相關動向引發日本學界擔憂。有學者認為，此次日本國會對於情報機構的具體許可權以及監督機制，並未作出充分說明，國家情報局的設立勢必嚴重影響普通民眾的權利。日本專修大學名譽教授白藤博行表示：我認為這部憲法在日本國民中實際上比人們想象得紮根更深、更穩固。我希望日本政府能夠重新審視這一點。（央視新聞）"
-    },
-    {
-      "id": "4905429",
-      "time": "2026-05-29 02:07:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic營收反超OpenAI 雙方差距持續拉大】據報道，目前Anthropic的年化營收已接近450億美元。OpenAI當前年化營收暫無確切資料，但其近期年化營收突破300億美元，一位知情人士透露，現階段該數值並未大幅走高。按估算，OpenAI當前年化營收約為330億美元，這意味著Anthropic的營收規模已高出前者約35%。倘若OpenAI的增長速度無法顯著提升，雙方的差距短期內難以扭轉。 兩家企業的競爭格局較去年年底發生了徹底反轉。彼時Anthropic年化營收僅90億美元，不足OpenAI的一半，而OpenAI當時的收入主要來自ChatGPT訂閱業務。據測算，自去年年底至今，Anthropic營收增長五倍，OpenAI漲幅則超50%。放眼來看，Anthropic的營收增長勢頭強勁，有望在未來一年內超越網飛、思愛普、賽富時等企業。 相較於Anthropic，OpenAI營收規模更小、增速偏緩，這可能會給其上市計劃帶來挑戰，一旦Anthropic搶先提交上市申請並完成掛牌，影響將更為明顯。兩家公司的運營效率差距則更為懸殊。"
     }
   ]
 }
