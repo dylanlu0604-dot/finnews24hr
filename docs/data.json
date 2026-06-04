@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-04 21:41:24",
-  "count": 18987,
+  "updated": "2026-06-04 21:45:34",
+  "count": 18978,
   "items": [
+    {
+      "id": "4917648",
+      "time": "2026-06-04 21:44:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：由美伊戰爭引發的油價危機已衝擊全球增長前景，將2026年全球增長預測下調0.2個百分點至2.4%。霍爾木茲海峽關閉已持續14周，我們假設其要到7月才開始重開。將2026年布倫特原油平均價格假設從3月的70美元/桶上調至87美元/桶。"
+    },
+    {
+      "id": "te:markets:556550",
+      "time": "2026-06-04 21:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Broadcom Stock Price Hits 5-week Low — Broadcom shares decreased to 404.45 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 2.6%, and in the last 12 months, it increased 55.39%."
+    },
+    {
+      "id": "4917647",
+      "time": "2026-06-04 21:43:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技股價跌破1000美元】美光科技股價下跌7.61%，報997.4美元/股，總市值報1.12萬億美元。"
+    },
+    {
+      "id": "mkt:019e92df-b551-7dd1-a9a5-cd47b4412fe0",
+      "time": "2026-06-04 21:43:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Fitch: Strait of Hormuz closure has lasted 14 weeks and is assumed to begin reopening only in July. Fitch raises its 2026 average Brent crude assumption to $87/bbl from $70/bbl in March."
+    },
+    {
+      "id": "4917646",
+      "time": "2026-06-04 21:42:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "寵物零售商Petco股價在其公佈一季度業績及展望後下跌15.4%。"
+    },
+    {
+      "id": "mkt:019e92df-56dc-7dd1-a9a5-c6b2df69bf4f",
+      "time": "2026-06-04 21:42:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fitch says an oil-price shock triggered by a US-Iran war has weakened the global growth outlook and cuts its 2026 global growth forecast by 0.2 percentage point to 2.4%."
+    },
+    {
+      "id": "mkt:019e92de-25f5-7dd1-a9a5-b91c3164f6ba",
+      "time": "2026-06-04 21:41:12",
+      "tags": [
+        "MKT News",
+        "CIEN.O",
+        "Impact bearish",
+        "LITE.O",
+        "GLW.N"
+      ],
+      "text": "US-listed optical-communications stocks opened lower; Ciena fell nearly 16% after reporting earnings, POET dropped about 7%, Lumentum fell ~6%, Marvell and Nokia were off more than 5%, and Corning declined over 4%."
+    },
+    {
+      "id": "4917645",
+      "time": "2026-06-04 21:40:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "Mobix Labs 擬收購美國本土無人機製造商 Vision Aerial。"
+    },
     {
       "id": "4917644",
       "time": "2026-06-04 21:40:23",
@@ -174906,161 +174989,6 @@
         "國際"
       ],
       "text": "美國國務院在宣告中稱，已為應對埃博拉疫情新增8000萬美元承諾資金。"
-    },
-    {
-      "id": "4905050",
-      "time": "2026-05-28 21:45:27",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通資產管理在紐交所推出摩根大通管理期貨增強型ETF。"
-    },
-    {
-      "id": "4905049",
-      "time": "2026-05-28 21:45:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "Frontier股價下跌1.8%，美國航空與西南航空股價均下跌2%，捷藍航空股價下跌2.2%。"
-    },
-    {
-      "id": "4905048",
-      "time": "2026-05-28 21:44:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指早盤下跌約1.5%。"
-    },
-    {
-      "id": "4905047",
-      "time": "2026-05-28 21:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迎峰度夏能源保供氣象服務啟動】中國氣象局28日釋出今年首份《迎峰度夏能源保供氣象服務週報》，標誌著2026年迎峰度夏能源保供氣象服務正式啟動，這一服務將持續至今年9月初。首份週報顯示，5月29日至6月4日，內蒙古、東北、新疆、華北、華中北部、華東北部等地部分地區、部分時段可達風電高發或滿發；全國大部地區光伏發電氣象條件以良為主，其中新疆、西藏、青海、甘肅等地部分地區可達到優。需關注江南、華南及西南等地多降水，尤其是局地強降水等對發電裝置和能源運輸安全帶來不利影響，提前做好電力運輸裝置檢修；關注新能源發電氣象條件變化，及時最佳化多能互補排程策略。根據今夏氣候形勢和能源電力部門服務需求，中國氣象局成立服務專班，製作《迎峰度夏能源保供氣象服務週報》《能源保供氣象服務專報》，為相關行業管理部門及企業提供決策支援。此外，從6月起，還將釋出《迎峰度夏能源保供氣象服務日報》。中國氣象局相關負責人表示，氣象部門將定期與能源、電力部門開展會商，與能源部門建立互動反饋機制，遇有突發天氣及時響應，做好迎峰度夏能源保供氣象服務。 (新華社)"
-    },
-    {
-      "id": "4905046",
-      "time": "2026-05-28 21:44:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行官員：央行降息不代表其傾向鴿派立場。"
-    },
-    {
-      "id": "4905045",
-      "time": "2026-05-28 21:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚高管在伯恩斯坦會議上表示，莫三比克與巴布亞紐幾內亞液化天然氣專案要到2030年代才能投產。"
-    },
-    {
-      "id": "4905044",
-      "time": "2026-05-28 21:43:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "美聯航股價下跌1%，達美航空股價下跌1.2%，阿拉斯加航空股價下跌1.7%。"
-    },
-    {
-      "id": "4905043",
-      "time": "2026-05-28 21:43:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葡萄牙能源巨頭 GALP 與赤道幾內亞簽署石油評估協議。"
-    },
-    {
-      "id": "te:markets:554528",
-      "time": "2026-05-28 21:43:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South African Rand Holds Ground — The South African rand traded around 16.3 per USD, holding near the highest since mid-April, after the South African Reserve Bank raised the policy rate by 25 bps to contain strong price pressures stemming from the Middle East. Policymakers said risks to the inflation were tilted to the upside, while seeing downside risks to growth."
-    },
-    {
-      "id": "mkt:019e6ed3-ac5e-722b-8869-f82528d91fda",
-      "time": "2026-05-28 21:43:40",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bearish",
-        "DAL.O",
-        "ALK.O"
-      ],
-      "text": "United Airlines down 1%, Delta Air Lines down 1.2%, Alaska Air Group down 1.7%."
-    },
-    {
-      "id": "4905042",
-      "time": "2026-05-28 21:43:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根資管恩學海：中國市場是長期投資的熱土】“我們一直都看好中國市場，希望能夠永遠踐行‘長錢長投’的理念。”5月28日，在深交所2026全球投資者大會上，摩根大通資產管理中國資產管理解決方案主席恩學海表示，中國市場是長期投資的熱土，中國投資標的的市場估值會不斷提升。"
-    },
-    {
-      "id": "4905041",
-      "time": "2026-05-28 21:43:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：很大一部分信貸已從銀行資產負債表中剝離，透過信貸基金轉移給了投資者。"
-    },
-    {
-      "id": "4905040",
-      "time": "2026-05-28 21:43:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚：受委內瑞拉與蓋亞那的邊境爭端影響，斯塔布魯克區塊約30%的區域已遭遇不可抗力，預計該問題將在未來12個月內得到解決。"
-    },
-    {
-      "id": "4905039",
-      "time": "2026-05-28 21:42:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "小鵬汽車美股在一季度財報釋出後上漲1%。"
-    },
-    {
-      "id": "4905038",
-      "time": "2026-05-28 21:42:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府正商談為美國無人機企業提供資金，美國無人機企業股價因此上漲。"
-    },
-    {
-      "id": "mkt:019e6ed1-ccf1-722b-8869-f240e7ed51e2",
-      "time": "2026-05-28 21:41:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "XOM.O"
-      ],
-      "text": "An ExxonMobil executive said AI-driven analysis has identified 150 exploration opportunities worldwide."
-    },
-    {
-      "id": "mkt:019e6ed1-a76b-722b-8869-e9d6c277f791",
-      "time": "2026-05-28 21:41:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "IATA: April domestic passenger demand was flat YoY."
     }
   ]
 }
