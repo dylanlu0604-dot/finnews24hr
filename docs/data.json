@@ -1,7 +1,131 @@
 {
-  "updated": "2026-06-04 21:37:20",
-  "count": 18985,
+  "updated": "2026-06-04 21:41:24",
+  "count": 18987,
   "items": [
+    {
+      "id": "4917644",
+      "time": "2026-06-04 21:40:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤初下跌】美股光通訊股盤初下跌，Ciena績後大跌近16%，POET跌近7%，Lumentum跌近6%，邁威爾科技、諾基亞跌超5%，康寧跌超4%。"
+    },
+    {
+      "id": "mkt:019e92dd-21ea-7dd1-a9a5-b4ae9998b05a",
+      "time": "2026-06-04 21:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the best way to reduce the threat posed by Hezbollah is to strengthen the Lebanese state."
+    },
+    {
+      "id": "te:markets:556549",
+      "time": "2026-06-04 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 1.08% Higher — The Dow Jones Index is up by 549 points or 1.08 percent on Thursday. Top gainers are UnitedHealth (4.86%), Merck (3.61%) and American Express (2.75%)."
+    },
+    {
+      "id": "mkt:019e92dc-a47b-7dd1-a9a5-a985d7aa0ae4",
+      "time": "2026-06-04 21:39:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fitch: oil crisis hits global growth outlook."
+    },
+    {
+      "id": "4917643",
+      "time": "2026-06-04 21:39:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外歐盟外交與安全政策高階代表卡拉斯：削弱真主黨構成威脅的最佳方式是強化黎巴嫩國家政權。"
+    },
+    {
+      "id": "4917642",
+      "time": "2026-06-04 21:39:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：石油危機衝擊全球經濟增長前景，預測下調。"
+    },
+    {
+      "id": "mkt:019e92dc-3708-7dd1-a9a5-a528cd61df03",
+      "time": "2026-06-04 21:39:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the EU today agreed to provide an additional €100 mln in assistance to the Lebanese Armed Forces."
+    },
+    {
+      "id": "4917641",
+      "time": "2026-06-04 21:39:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟今日同意額外向黎巴嫩武裝部隊提供1億歐元撥款。"
+    },
+    {
+      "id": "mkt:019e92db-0fcb-7dd1-a9a5-9a98bf58b1f1",
+      "time": "2026-06-04 21:38:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "At the open on June 4, the Dow Jones Industrial Average rose 523.73 points, or 1.03%, to 51,210.80; the S&P 500 fell 24.66 points, or 0.33%, to 7,529.02; the Nasdaq Composite fell 279.95 points, or 1.04%, to 26,574.02."
+    },
+    {
+      "id": "4917640",
+      "time": "2026-06-04 21:37:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "應用航空航天與國防公司（Applied Aerospace & Defense）紐交所上市次日股價上漲3.2%。"
+    },
+    {
+      "id": "mkt:019e92da-8eee-7dd1-a9a5-95a8d8959720",
+      "time": "2026-06-04 21:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shares of Applied Aerospace & Defense rose 3.2% on the day after its NYSE listing."
+    },
+    {
+      "id": "4917639",
+      "time": "2026-06-04 21:37:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【道明證券：美元表現比歐洲央行更有可能推動歐元走勢】道明證券策略師在一份報告中表示，歐元上漲的潛力更多地取決於美元下跌，而不是歐洲央行可能加息。他們表示，歐洲央行可能會在6月11日加息，但歐元的任何漲幅都可能有限，因為市場預期今年將有超過兩次的加息，而且近期歐元區資料弱於預期。“雖然我們繼續預計歐元到今年年底將升至1.20美元，但進一步走強可能需要美元全面走弱。“他們表示，美國資料和美聯儲6月17日的決定將決定美元是否下跌。"
+    },
+    {
+      "id": "4917638",
+      "time": "2026-06-04 21:36:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "riot股價下跌2.7%，Hut 8礦業公司股價下跌4.9%，瑪拉控股股價下跌2.2%。"
+    },
     {
       "id": "4917637",
       "time": "2026-06-04 21:36:22",
@@ -174937,112 +175061,6 @@
         "US Economy"
       ],
       "text": "IATA: April domestic passenger demand was flat YoY."
-    },
-    {
-      "id": "4905036",
-      "time": "2026-05-28 21:41:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：若2028年通脹預期受到影響，原因在於市場認為央行可能不會堅持實現通脹目標。"
-    },
-    {
-      "id": "mkt:019e6ed1-37ed-7669-a41b-607adc5b0e9e",
-      "time": "2026-05-28 21:41:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "AAL.O",
-        "UAL.O"
-      ],
-      "text": "IATA said international air passenger demand in April fell 5.3% year-on-year."
-    },
-    {
-      "id": "te:economy:554527",
-      "time": "2026-05-28 21:40:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Business Confidence",
-        "Importance 0"
-      ],
-      "text": "Spain Business Pessimism Softens — The seasonally adjusted industrial confidence indicator in Spain inched higher to -3.7 in May of 2026 from the seven-month low of -4.9 in April. Pessimism around new orders softened (-6.8 vs -9 in April) despite remaining elevated, as energy prices stabilized below their peak following the war in Iran. Likewise, production expectation pessimism eased (-1.7 vs -2.5). In turn, stocks levels dropped slightly (2.6 vs 3.1)."
-    },
-    {
-      "id": "4905034",
-      "time": "2026-05-28 21:40:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚高管在伯恩斯坦會議上表示，人工智慧分析已在全球範圍內識別出150個勘探機會。"
-    },
-    {
-      "id": "te:markets:554526",
-      "time": "2026-05-28 21:40:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.39% Lower — The Dow Jones Index is falling 200 points. Losses were driven by 3M (-2.08%), Salesforce (-1.74%) and Caterpillar (-1.71%). Biggest rises came from IBM (2.99%), Chevron (0.89%) and Microsoft (0.88%)."
-    },
-    {
-      "id": "4905033",
-      "time": "2026-05-28 21:39:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：石油衝擊將推動巴西一部分國內生產總值（GDP）增長，但是這部分增長不會流向消費領域。"
-    },
-    {
-      "id": "4905032",
-      "time": "2026-05-28 21:38:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際航空運輸協會（IATA）資料顯示：以收入客公里（RPK）衡量的總需求較2025年4月下降3.4%。"
-    },
-    {
-      "id": "4905031",
-      "time": "2026-05-28 21:38:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑鋒動力北交所IPO定於6月4日上會】5月28日，據北交所網站披露，北交所上市稽核委員會定於2026年6月4日上午9時召開2026年第54次上市稽核委員會審議會議，屆時將審議傑鋒汽車動力系統股份有限公司的首發事項。"
-    },
-    {
-      "id": "te:markets:554525",
-      "time": "2026-05-28 21:37:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall from Records — US equities fell on Thursday as an increasingly strained truce between Iran and the US lifted energy prices. The S&P 500 and the Dow inched below the flatline from their records, and the Nasdaq 100 dropped 0.5%. The US continued to strike Iranian targets near the Persian Gulf overnight, adding to skepticism over an incoming deal after the White House rejected Tehran's claim that it had a draft of a peace agreement that would restart trade through the Strait of Hormuz. The tech sector led the losses for a second session as markets assessed the sustainability of strong guidance for the AI sector, with Nvidia and Tesla down more than 1%. More traditional sectors also slipped as hawkish comments from FOMC members lifted long-term yields, magnified by PCE price inflation rising to a three-year high, while initial claims remained robust. Snowflake surged 30% on a strong outlook, although the result did not spread to other software companies. Salesforce fell 2% after its earnings report."
-    },
-    {
-      "id": "4905030",
-      "time": "2026-05-28 21:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部（HHS）：按最終規則敲定，每起糾紛中每方的行政費從115美元降至15美元，降幅超過85%。"
-    },
-    {
-      "id": "mkt:019e6ecd-df18-722b-8869-e5add2b8f29a",
-      "time": "2026-05-28 21:37:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WILLIAMS: Stronger communication supports policy effectiveness."
     }
   ]
 }
