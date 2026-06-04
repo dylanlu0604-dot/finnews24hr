@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-04 10:22:02",
-  "count": 19137,
+  "updated": "2026-06-04 10:25:58",
+  "count": 19131,
   "items": [
+    {
+      "id": "mkt:019e9071-e295-7cc0-ba22-6d340baac659",
+      "time": "2026-06-04 10:24:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's benchmark stock index fell more than 2%."
+    },
+    {
+      "id": "4916415",
+      "time": "2026-06-04 10:23:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電魏哲家：預計今年全年營收成長仍將超過30%】臺積電召開股東會，針對AI需求，董事長魏哲家指出，從生成式AI、查詢模式，進一步轉向代理式AI與指令行動模式，正推升大型語言模型處理文字所需的token消耗量，也使運算能力需求持續成長，進一步支撐先進半導體需求。公司客戶以及客戶的客戶，仍持續給予對AI產業的正面展望。魏哲家強調，臺積電仍對未來數年AI大趨勢保持信心，半導體需求也具備根本性支撐。在技術差異化與廣泛客戶群支援下，公司維持強勁信心，若以美元計算，預計今年全年營收成長仍將超過30%。"
+    },
+    {
+      "id": "4916414",
+      "time": "2026-06-04 10:23:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞股市基準指數下跌 2%，報5820.41 點。"
+    },
+    {
+      "id": "4916413",
+      "time": "2026-06-04 10:22:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【初步結果顯示韓國執政黨鎖定地方選舉勝局】據韓國方面6月4日訊息，根據初步開票結果，韓國執政黨共同民主黨在3日舉行的第九屆地方選舉中鎖定勝局，贏得多數道、市、郡、區等各級政府的行政長官職位。訊息稱，截至4日凌晨，在本次選出的16個道知事和廣域市市長職位中，共同民主黨已在京畿道、仁川等13地取得勝利或保持領先，而最大在野黨國民力量黨預計僅能拿下大邱、慶尚北道和慶尚南道三地。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606043760104457",
+      "time": "2026-06-04 10:22:20",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本內閣官房長官木原稔表示，預計央行將採取適當的貨幣政策，在與政府密切合作的同時，可持續、穩定地實現其物價目標。"
+    },
+    {
+      "id": "4916412",
+      "time": "2026-06-04 10:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒發哈梅內伊父子罕見合照】伊朗《德黑蘭時報》3日在社交媒體釋出了一張已故伊朗最高領袖阿里·哈梅內伊和他的兒子、新任伊朗最高領袖穆傑塔巴·哈梅內伊的合照。 據報道，在這張“罕見”照片中，兩人並肩而行，似乎正在交談。 帖文中沒說明這張照片於何時何地拍攝。（中新網）"
+    },
+    {
+      "id": "4916411",
+      "time": "2026-06-04 10:21:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超級電容概念再度走強 江海股份漲停續創歷史新高】超級電容概念再度走強，江海股份漲停，續創歷史新高，此前華鋒股份、祥和實業漲停，龍辰科技漲超10%，艾華集團、元力股份、新宙邦等跟漲。"
+    },
     {
       "id": "mkt:019e906f-9ed5-7cc0-ba22-6431d2037c44",
       "time": "2026-06-04 10:21:33",
@@ -176118,128 +176179,6 @@
         "Impact bearish"
       ],
       "text": "GOOLSBEE said supply shocks, including oil shocks, have worsened the inf problem expected to arise from future productivity growth."
-    },
-    {
-      "id": "4903642",
-      "time": "2026-05-28 10:25:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比表示，石油衝擊可能會放大人工智慧炒作帶來的通脹衝動。"
-    },
-    {
-      "id": "mkt:019e6c67-266e-7666-9cf1-d1d0ebc62571",
-      "time": "2026-05-28 10:25:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve's GOOLSBEE said the more hype there is around future productivity growth, the more the United States and other countries may need to raise interest rates."
-    },
-    {
-      "id": "te:markets:554251",
-      "time": "2026-05-28 10:25:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Hits 1-Month Low — Platinum futures slipped to around $1,900 per ounce, hitting a four-week low, as uncertainty over diplomatic progress in the Middle East kept inflation risks and expectations of prolonged high interest rates in focus. Key sticking points remain, including Iran’s demand to retain control over the Strait of Hormuz and its nuclear program, while the US continues to reject sanctions relief and what it views as an unfavorable agreement. Even if negotiations progress, elevated energy prices are likely to keep inflation under pressure and support the case for interest rates remaining higher for longer. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Automotive demand also remains broadly resilient, supported by hybrid vehicle growth and tighter emissions standards, while jewelry consumption weakens under higher prices, particularly in China."
-    },
-    {
-      "id": "4903641",
-      "time": "2026-05-28 10:25:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：政策路徑非常明確，考慮到匯率、增長與通脹狀況，未來將朝著緊縮方向調整。"
-    },
-    {
-      "id": "mkt:019e6c66-7dff-7666-9cf1-cf2661dd109f",
-      "time": "2026-05-28 10:25:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANK OF KOREA GOVERNOR SHIN said that if the Middle East crisis is resolved soon, this year’s economic growth rate could climb further, exceeding 2.6%."
-    },
-    {
-      "id": "mkt:019e6c66-4759-7666-9cf1-c5da953048da",
-      "time": "2026-05-28 10:24:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Hongrun Green Energy (Xuancheng) High-Performance Battery Project Officially Commissioned】According to Hongrun Construction, Hongrun Green Energy (Xuancheng) Energy Technology Co. held a commissioning ceremony for its high-performance battery project. The project is planned to have annual capacity of 60 million ultra-high-power cylindrical cells and 120 million ampere-hours (Ah) of low-altitude-economy cells, focused on ultra-high-power cylindrical battery technology and high-performance, high–specific-energy solid–liquid hybrid cells. The project is scheduled to complete full production-line certification in July–August 2026 and to begin formal mass production and market deployment in September 2026."
-    },
-    {
-      "id": "4903640",
-      "time": "2026-05-28 10:24:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "申鉉松：中東危機若能早日解決，今年經濟增速有望進一步提升，甚至超過2.6% 。"
-    },
-    {
-      "id": "4903639",
-      "time": "2026-05-28 10:24:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：其他指標表明通脹壓力依然存在。"
-    },
-    {
-      "id": "4903638",
-      "time": "2026-05-28 10:24:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏潤綠能（宣城）高效能電池專案正式投產】據宏潤建設訊息，近日，宏潤綠能（宣城）能源科技有限公司高效能電池專案投產儀式舉行。該專案規劃建設年產6000萬隻超高功率圓柱電池及1.2億Ah低空經濟電芯，主要面向超高功率圓柱電池技術和高效能、高比能固液混合電芯。專案將於2026年7至8月完成產線全面認證，9月實現正式量產與市場投放。"
-    },
-    {
-      "id": "mkt:019e6c65-7c2f-7666-9cf1-b86d3febd8c4",
-      "time": "2026-05-28 10:24:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOK GOV SHIN said he expects strong growth momentum to be maintained over the coming months."
-    },
-    {
-      "id": "mkt:019e6c64-a19a-7666-9cf1-b7a689392916",
-      "time": "2026-05-28 10:23:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BOK GOV SHIN said he expects living costs in South Korea to rise."
-    },
-    {
-      "id": "mkt:019e6c64-0a7c-7666-9cf1-aa4dba97262a",
-      "time": "2026-05-28 10:22:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOK GOV SHIN said inflationary pressures are rising."
-    },
-    {
-      "id": "4903637",
-      "time": "2026-05-28 10:22:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：認為有必要在適當的時候提高基準利率。"
     }
   ]
 }
