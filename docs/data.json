@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-04 23:34:46",
-  "count": 18966,
+  "updated": "2026-06-04 23:38:50",
+  "count": 18973,
   "items": [
+    {
+      "id": "4917821",
+      "time": "2026-06-04 23:38:03",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【凱投宏觀：金價上漲，受美元走弱和原油下跌提振】隨著交易員希望以色列和黎巴嫩之間的停火能消除美伊談判中的一個障礙，金價在美元小幅回落和原油下跌的支撐下擴大漲幅。紐約黃金期貨上漲0.7%，至每盎司4,500.60美元。與此同時，美元指數下跌0.2%，至99.35，布倫特原油和西得州中質油下跌3%。交易員正密切關注最新的美國資料和美聯儲下一步行動的線索，擔心利率會在更長時間內保持高位，甚至可能加息，這將拖累不生息的黃金。然而，凱投宏觀的Stephen Brown表示：“目前，加息仍不是定局。”“明天的5月就業報告仍可能改變這一敘事。”"
+    },
+    {
+      "id": "mkt:019e9347-1f0f-711f-ac51-ce6c55ddfa07",
+      "time": "2026-06-04 23:36:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian president appointed Eugen Tomac as prime minister on the 4th."
+    },
+    {
+      "id": "4917820",
+      "time": "2026-06-04 23:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總統達恩4日任命歐金·托馬茨為總理。（新華社）"
+    },
+    {
+      "id": "mkt:019e9344-80d0-7885-9cdb-e704c932012b",
+      "time": "2026-06-04 23:33:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 8-week Treasury auction through June 4 — share of allotment awarded at the stop-out yield 68.26% (previous 82.33%)."
+    },
     {
       "id": "4917819",
       "time": "2026-06-04 23:32:57",
@@ -9,6 +50,37 @@
         "其他"
       ],
       "text": "波音發言人：我們已獲悉法蘭克福事件，目前正為客戶提供支援。"
+    },
+    {
+      "id": "mkt:019e9344-1d58-7885-9cdb-dc4378f5cb49",
+      "time": "2026-06-04 23:32:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury auction on June 4 stop-out yield 3.61% vs 3.615% prior."
+    },
+    {
+      "id": "mkt:019e9344-0570-7885-9cdb-d21e28b9e226",
+      "time": "2026-06-04 23:32:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jun.4) | actual 3.61% | previous 3.615%"
+    },
+    {
+      "id": "mkt:019e9343-d6d3-7885-9cdb-cea2e5e917c0",
+      "time": "2026-06-04 23:32:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 8-week Treasury bill auction on June 4: bid-cover ratio 3.20, prior 3.08."
     },
     {
       "id": "4917818",
@@ -19,6 +91,77 @@
         "國際"
       ],
       "text": "美國財政部拍賣四周期國債，得標利率3.615%，投標倍數3.07。拍賣八週期國債，得標利率3.610%，投標倍數3.20。"
+    },
+    {
+      "id": "mkt:019e9343-bf5e-7885-9cdb-c6ad415e085e",
+      "time": "2026-06-04 23:32:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jun.4) | actual 3.2 | previous 3.08"
+    },
+    {
+      "id": "mkt:019e9343-9343-7885-9cdb-bc68f7abc73b",
+      "time": "2026-06-04 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 4-week Treasury auction to June 4: stop-out yield 3.615%, prior 3.63%."
+    },
+    {
+      "id": "mkt:019e9343-933d-7885-9cdb-b17e887730a3",
+      "time": "2026-06-04 23:32:16",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction to June 4 bid-cover ratio 3.07; prior 2.76."
+    },
+    {
+      "id": "mkt:019e9343-9332-7885-9cdb-a9037c72cd9c",
+      "time": "2026-06-04 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 4-week Treasury auction on June 4 — share allocated at the stop-out rate 27.64%, prior 41.91%."
+    },
+    {
+      "id": "mkt:019e9343-5d27-7885-9cdb-a60ba914177d",
+      "time": "2026-06-04 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.4) | actual 3.07 | previous 2.76"
+    },
+    {
+      "id": "mkt:019e9343-5cd0-7885-9cdb-999944d8a29f",
+      "time": "2026-06-04 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jun.4) | actual 3.615% | previous 3.63%"
+    },
+    {
+      "id": "mkt:019e9343-5cae-7885-9cdb-90026e5785c8",
+      "time": "2026-06-04 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jun.4) | actual 27.64% | previous 41.91%"
     },
     {
       "id": "4917816",
@@ -43,6 +186,17 @@
         "公司"
       ],
       "text": "愛爾蘭5月企業稅收入同比增長9.7%，至27億歐元；剔除蘋果公司相關稅款後，今年迄今企業稅收入累計增長9.1%。"
+    },
+    {
+      "id": "mkt:019e9341-97a4-7885-9cdb-8f283ad79aab",
+      "time": "2026-06-04 23:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England governor Bailey to speak at Investment Association conference in 10 minutes."
     },
     {
       "id": "4917813",
@@ -174713,72 +174867,6 @@
         "國際"
       ],
       "text": "美國財政部將多家哥倫比亞企業移出制裁名單。"
-    },
-    {
-      "id": "4905242",
-      "time": "2026-05-28 23:38:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國4月達拉斯聯儲12個月截尾均值PCE價格指數同比上升2.5%，前值上升2.9%。"
-    },
-    {
-      "id": "4905241",
-      "time": "2026-05-28 23:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "據四位現任及前任僱員透露，特朗普政府官員已向負責印製國家貨幣的機構施壓，要求設計一款印有總統肖像的250美元紙幣；若此舉成真，將是150多年來首次有在世人物出現在美國貨幣上。"
-    },
-    {
-      "id": "4905240",
-      "time": "2026-05-28 23:36:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司（PETROBRAS）宣佈，汽油價格每升上調0.44雷亞爾。"
-    },
-    {
-      "id": "4905239",
-      "time": "2026-05-28 23:36:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司（PETROBRAS）上調對經銷商的汽油價格。"
-    },
-    {
-      "id": "4905238",
-      "time": "2026-05-28 23:36:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI北歐國家指數跌1.0%，連續第三個交易日走低，報394.43點。在十個板塊中，北歐工業板塊跌幅最大。Alfa Laval AB跌3.3%，在一眾北歐個股裡表現最差。"
-    },
-    {
-      "id": "4905237",
-      "time": "2026-05-28 23:36:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍執行長預計，到2028年，其委內瑞拉合資專案的產量將增長50%。"
-    },
-    {
-      "id": "4905236",
-      "time": "2026-05-28 23:36:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【紐約聯儲行長稱當前貨幣政策處於良好位置】紐約聯儲行長約翰·威廉姆斯表示，美聯儲的政策為應對伊朗戰爭的經濟影響做好充分準備。儘管這場衝突以及關稅的持續影響推高了通脹，但威廉姆斯表示，他預計未來數月價格漲幅將達峰，從而為官員們評估形勢變化留出空間。“美聯儲的貨幣政策正處於我們希望看到的位置，”威廉姆斯週四在冰島一場央行會議發表演講後的問答環節中表示。“我們處於良好位置，可以在需要作出任何決定之前，繼續關注這場衝突以及其他經濟資料。”"
-    },
-    {
-      "id": "4905235",
-      "time": "2026-05-28 23:35:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席：我們將密切合作，應對拉脫維亞和波羅的海夥伴面臨的混合威脅。我們還將聯手打造一個強健、具有競爭力的歐洲工業。"
     }
   ]
 }
