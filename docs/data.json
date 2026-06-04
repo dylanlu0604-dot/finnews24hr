@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-04 22:39:42",
-  "count": 18943,
+  "updated": "2026-06-04 22:43:52",
+  "count": 18926,
   "items": [
+    {
+      "id": "4917737",
+      "time": "2026-06-04 22:42:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行董事會成員：本月我們將在維持利率不變與加息之間做抉擇，我目前暫不公開明確觀點。"
+    },
+    {
+      "id": "4917736",
+      "time": "2026-06-04 22:41:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【里士滿聯儲行長：未觀察到美國勞動力市場再度出現用工緊張】里士滿聯儲行長湯姆·巴爾金表示，美國勞動力市場目前顯現出平衡狀態，沒有觀察到整體用工需求出現增長。“我沒有看到就業市場出現任何變化。”巴爾金在弗吉尼亞州勞登縣出席一場演講活動後對記者表示。他指出，技術工種和醫療保健領域表現出需求上升的跡象，但總體而言，就業市場並不緊張他表示，在僱主中，“我沒有看到我稱之為泡沫、緊張的這類擔憂”。"
+    },
+    {
+      "id": "mkt:019e9314-53f6-7225-b067-1bbd07162b71",
+      "time": "2026-06-04 22:40:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Finance Minister Siluanov said Russia plans to gradually achieve a zero primary budget deficit by 2029."
+    },
+    {
+      "id": "4917735",
+      "time": "2026-06-04 22:40:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日聯科技擬9.36億元收購菲萊測試100%股權】4日晚，日聯科技披露《發行股份、可轉換公司債券及支付現金購買資產並募集配套資金報告書（草案）》。公司擬透過發行股份、可轉換公司債券及支付現金的方式向菲光管理、張華等11名交易對方購買其合計持有的上海菲萊測試技術有限公司（簡稱“菲萊測試”）100%股權，交易價格9.36億元。"
+    },
+    {
+      "id": "4917734",
+      "time": "2026-06-04 22:40:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯財長西盧安諾夫：俄羅斯計劃到2029年逐步實現基本預算赤字為零。"
+    },
     {
       "id": "4917733",
       "time": "2026-06-04 22:38:56",
@@ -174375,231 +174417,6 @@
         "Impact bullish"
       ],
       "text": "【Futu Holdings Q1 2026 AUM HKD 1,784 Trillion; Brokerage Turnover HKD 4.15 Trln】Futu Holdings (03588.HK) said at its Q1 2026 results briefing that brokerage total turnover reached HKD 4.15 trillion in Q1, up 29% YoY and 4% QoQ; US stock turnover was HKD 3 trillion. Assets under management stood at HKD 1,784 trillion at end-Q1, up 28% YoY. Management said it maintains over 50% market share among Hong Kong retail clients. Overseas, its independent brand moomoo delivered strong YoY revenue growth, with Japan, Canada, Australia, the US and Malaysia each recording >100% YoY increases. Asset clients exceed 2.0 million, with average AUM per client about USD 18,000."
-    },
-    {
-      "id": "4905165",
-      "time": "2026-05-28 22:43:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員穆薩萊姆：如果上述情況發生且通脹下降，那麼可以考慮降息。"
-    },
-    {
-      "id": "4905164",
-      "time": "2026-05-28 22:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日菲加速防務捆綁引發民眾擔憂】日本首相高市早苗今天（5月28日）與菲律賓總統馬科斯舉行會談。共同社稱，日菲雙方同意正式啟動《軍事情報保護協定》相關談判，邁入情報互通的深度捆綁階段。該協定落地後，日菲兩國在聯合演習、海上巡邏、應對突發事件時，不再需要透過美國中轉情報，徹底打通情報共享渠道。這也是日本首次將此類情報合作延伸至東南亞地區。 日菲兩國民眾擔憂，此舉將加劇地區風險。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e6f0a-3ac0-7cc0-9db0-cfe80789d843",
-      "time": "2026-05-28 22:43:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve's MUSALEM said economic growth could slow in H2."
-    },
-    {
-      "id": "mkt:019e6f0a-134d-7cc0-9db0-c5a9a98cd2a3",
-      "time": "2026-05-28 22:43:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran Says It Will Not Allow US To Undermine Sovereignty Over Strait Of Hormuz】After recent US airstrikes, Iran’s deputy foreign minister said Tehran will not allow the United States to “use these military actions to undermine Iran’s sovereignty over the Strait of Hormuz,” accusing Washington of violating a ceasefire and saying Iranian sovereignty over the waterway “is now established,” Tasnim reported."
-    },
-    {
-      "id": "mkt:019e6f0a-1345-7cc0-9db0-b8e013139efe",
-      "time": "2026-05-28 22:43:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's MUSALEM said he would be concerned if inf does not retreat over the next 1-2 quarters."
-    },
-    {
-      "id": "te:economy:554549",
-      "time": "2026-05-28 22:43:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Slip Toward April Lows on Middle East Ceasefire Hopes — German 10-year Bund yields reversed earlier gains to fall back toward 2.96%, nearing their lowest level since April 8, as easing oil prices helped soften inflation concerns amid renewed optimism over Middle East diplomacy. According to Axios, US and Iranian negotiators have reportedly agreed on a 60-day memorandum of understanding to extend a ceasefire and begin talks on Iran’s nuclear program, although final approval from President Trump has yet to be secured. While the news lent some support to broader risk sentiment, geopolitical tensions remain elevated. Meanwhile, investors focused on the latest European Central Bank minutes, which revealed that several policymakers viewed the April decision to keep rates unchanged as a close call, with some suggesting they would have supported a hike if it had been on the table. Money markets are now nearly fully pricing in a 25-basis-point rate hike on June 11, with at least one additional increase expected by year-end."
-    },
-    {
-      "id": "4905163",
-      "time": "2026-05-28 22:43:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員穆薩萊姆：通脹預期上行也令我感到擔憂。"
-    },
-    {
-      "id": "mkt:019e6f09-e1ac-7cc0-9db0-b2e271224d2d",
-      "time": "2026-05-28 22:42:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MUSALEM of the Federal Reserve said scenarios exist in which the economy may require rate hikes."
-    },
-    {
-      "id": "em:qqyh_mlc:202605283753119432",
-      "time": "2026-05-28 22:42:57",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲官員Musalem表示，基本預期是，美國通脹回落至目標需要耗費更長時間。"
-    },
-    {
-      "id": "4905162",
-      "time": "2026-05-28 22:42:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員穆薩萊姆：存在經濟可能需要加息的情景。"
-    },
-    {
-      "id": "mkt:019e6f09-5b46-7cc0-9db0-aed5a5a05de2",
-      "time": "2026-05-28 22:42:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "MUSALEM of the Federal Reserve said inf risks may not converge to the Fed's target as hoped."
-    },
-    {
-      "id": "4905161",
-      "time": "2026-05-28 22:42:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度多地持續高溫 莫迪呼籲民眾採取預防措施】據印度媒體報道，印度近日多地遭遇持續高溫天氣，北部和中部區域性地區最高氣溫超過45攝氏度。印度總理莫迪提醒民眾儘可能採取預防措施，尤其注意補充水分。（新華社）"
-    },
-    {
-      "id": "mkt:019e6f08-eb88-7cc0-9db0-a7dc4e467aa5",
-      "time": "2026-05-28 22:41:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve official MUSALEM said the baseline outlook is that inf will take longer to return to target."
-    },
-    {
-      "id": "4905160",
-      "time": "2026-05-28 22:41:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員穆薩萊姆：通脹存在無法如我們所願向目標回落的風險。"
-    },
-    {
-      "id": "4905159",
-      "time": "2026-05-28 22:41:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員穆薩萊姆：基線預期為通脹需要更長時間才能回落至目標水平。"
-    },
-    {
-      "id": "4905158",
-      "time": "2026-05-28 22:41:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【富途控股：截至一季度末，公司資產管理規模達1784萬億港元】富途控股今日召開2026年一季度業績說明會，公司披露今年一季度經紀業務總交易額達4.15萬億港元，同比增長29%，環比增長4%，美股交易量3萬億港元。截至一季度末，公司資產管理規模達1784萬億港元，同比增長28%。公司高管表示，面向香港本地客群，公司保持了超50%的市佔率。海外市場方面，獨立品牌moomoo均錄得收入年對年高比例增長，其中包括日本、加拿大、澳大利亞、美國、馬來西亞等5個國家收入增速超過100%。有資產客戶超過200萬人，人均AUM約1.8萬美元。"
-    },
-    {
-      "id": "4905157",
-      "time": "2026-05-28 22:40:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：所有國家都應堅決拒絕伊朗破壞自由貿易流動的任何行動。伊朗恐嚇地區和世界的日子已經結束。"
-    },
-    {
-      "id": "mkt:019e6f07-8054-7cc0-9db0-9c2377add754",
-      "time": "2026-05-28 22:40:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures extended gains, rising more than 5%, after this week’s storage build came in below normal and demand expectations for the next two weeks were revised higher than prior estimates."
-    },
-    {
-      "id": "te:markets:554548",
-      "time": "2026-05-28 22:40:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Bounces Off Six-Week Low — The euro edged higher to $1.164, attempting to recover from a six-week low as markets assessed both Middle East developments and shifting expectations for European monetary policy. According to Axios, US and Iranian negotiators have reportedly agreed on a 60-day memorandum of understanding to extend a ceasefire and open talks on Iran’s nuclear program, though final approval from President Trump is still pending. While the diplomatic outlook offered some support for risk sentiment, geopolitical tensions remain elevated. At the same time, investors parsed the latest European Central Bank meeting minutes, which showed several policymakers viewed the April decision to hold rates as a close call, with some indicating they would have supported a hike had it been proposed. Money markets are now pricing in an almost fully expected 25-basis-point rate hike on June 11, with at least one additional increase anticipated by year-end."
-    },
-    {
-      "id": "mkt:019e6f07-6bff-7cc0-9db0-97c1d933d128",
-      "time": "2026-05-28 22:40:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Accounts App Launches In U.S. App Stores】The Trump Accounts app went live on U.S. app stores on Thursday. Treasury Secretary BESSENT said the app offers families a simple, secure way to join a program aimed at building long-term financial strength. CNBC cited a Treasury spokesperson saying the app was developed with BNY MELLON and Robinhood Markets. From July, parents or guardians can fund new Trump Accounts (also known as 530A accounts) after completing enrollment on the program website. All U.S. children under 18 with a Social Security number may register, but only children born 2025–2028 are eligible for the Treasury’s $1,000 starter deposit."
-    },
-    {
-      "id": "4905156",
-      "time": "2026-05-28 22:40:04",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【讓家長幫子女理財 “特朗普賬戶”APP在美國各大應用商店上線】特朗普賬戶（Trump Accounts）應用程式於週四在美國各大應用商店上線。美國財長貝森特在一份宣告中表示：“特朗普政府在為美國家庭擴大機會方面邁出又一步。特朗普賬戶應用程式為家庭提供了一種簡單、安全的方式，讓他們從一開始就能參與到一項旨在建立長期財務實力的計劃中來。”據媒體援引的一位財政部發言人透露，該應用程式是與紐約梅隆銀行及Robinhood Markets公司合作開發的。從7月開始，家長或監護人將能夠為新的特朗普賬戶（也稱為530A賬戶）注資。家長必須先在特朗普賬戶網站上填寫表格，為他們的孩子開設賬戶。雖然所有18歲以下擁有社會安全號碼的美國兒童都可以註冊，但只有2025年至2028年出生的兒童才能獲得財政部提供的1000美元啟動資金。"
-    },
-    {
-      "id": "mkt:019e6f07-215b-7cc0-9db0-8c2dd607df3e",
-      "time": "2026-05-28 22:39:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said all countries should firmly reject any Iranian actions that disrupt the free flow of trade, adding that Iran's days of intimidating the region and the world are over."
     }
   ]
 }
