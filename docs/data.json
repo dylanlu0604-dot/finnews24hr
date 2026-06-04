@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-04 23:43:02",
-  "count": 18970,
+  "updated": "2026-06-04 23:47:18",
+  "count": 18978,
   "items": [
+    {
+      "id": "4917830",
+      "time": "2026-06-04 23:46:28",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國參議員沃倫敦促貝森特加強金融網路安全保護】鑑於AI驅動的網路攻擊帶來“日益增長的風險”，美國民主黨參議員伊麗莎白·沃倫敦促財政部加強金融領域的網路安全防護。在6月3日致財政部部長斯科特·貝森特的信函中，沃倫表示，“鑑於Mythos具備發現並利用零日漏洞的能力”，她要求瞭解財政部採取了哪些具體行動以確保金融機構具備抵禦網路攻擊的韌性。“請解釋Mythos的最新進展，以及金融機構日益嚴重的網路安全漏洞問題在多大程度上影響了財政部對聯邦存款保險公司(FDIC)和貨幣監理署(OCC)的指引，”沃倫在信中指出。沃倫要求在6月16日前收到答覆。"
+    },
+    {
+      "id": "mkt:019e9350-4616-711f-ac52-02292f4a9433",
+      "time": "2026-06-04 23:46:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said real wages rose every month under Trump 2.0 policies except in April."
+    },
+    {
+      "id": "te:markets:556560",
+      "time": "2026-06-04 23:46:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Ends Higher on Middle East Ceasefire Hopes — London’s FTSE 100 erased early losses to close marginally higher at 10,345 on Thursday, in line with gains across European markets as investors welcomed signs of easing tensions in the Middle East. However, the UK benchmark underperformed regional peers as declines in oil majors and Asia-focused banks limited gains. Sentiment improved after Israel and Lebanon agreed to a ceasefire, raising hopes for broader de-escalation in the region. Meanwhile, the Republican-led US House voted to end military operations against Iran, a rare rebuke of President Trump’s administration. Lower crude prices weighed on energy stocks, with Shell down 1.4% and BP falling 0.7%, while investors also pared back expectations for further Bank of England rate hikes. Among the biggest laggards, Prudential (-7.3%), Standard Chartered (-3.2%), and HSBC (-2.0%) declined after reports that some banks had suspended the opening of Hong Kong accounts for mainland Chinese clients, a key channel for overseas investments."
+    },
+    {
+      "id": "4917829",
+      "time": "2026-06-04 23:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普第二屆任期內，除 4 月外各月實際薪資均實現增長。"
+    },
+    {
+      "id": "mkt:019e934f-f71b-711f-ac51-ffca24c5b7ce",
+      "time": "2026-06-04 23:45:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Daly said she has not yet seen AI investment raise financial stability concerns."
+    },
+    {
+      "id": "mkt:019e934f-d583-711f-ac51-f0fac4de9733",
+      "time": "2026-06-04 23:45:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "Nasdaq100"
+      ],
+      "text": "DALY said she is optimistic about artificial intelligence and that next year will be a key test of the industry's development direction."
+    },
+    {
+      "id": "4917828",
+      "time": "2026-06-04 23:45:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：目前未發現人工智慧投資引發金融穩定層面的隱患。"
+    },
+    {
+      "id": "mkt:019e934f-7820-711f-ac51-eb9ffef54dd2",
+      "time": "2026-06-04 23:45:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. is seeing short-term price increases that he expects will ease."
+    },
+    {
+      "id": "4917827",
+      "time": "2026-06-04 23:44:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：看好人工智慧發展，明年將成為關鍵試金石。"
+    },
+    {
+      "id": "4917826",
+      "time": "2026-06-04 23:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國物價短期上行，後續將會回落。"
+    },
+    {
+      "id": "4917825",
+      "time": "2026-06-04 23:43:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：資料中尚未體現人工智慧帶來的生產率提升。"
+    },
+    {
+      "id": "mkt:019e934d-fff1-711f-ac51-e1ffb623256d",
+      "time": "2026-06-04 23:43:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Daly said she has not yet seen evidence in the data of productivity gains from artificial intelligence."
+    },
+    {
+      "id": "4917824",
+      "time": "2026-06-04 23:42:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數漲0.2%，報392.19點。在十個板塊中，北歐醫療保健板塊漲幅最大。馬士基漲8.3%，在一眾北歐個股裡領跑。"
+    },
     {
       "id": "mkt:019e934b-c7ad-711f-ac51-de55992144b3",
       "time": "2026-06-04 23:41:17",
@@ -174799,50 +174931,6 @@
         "公司"
       ],
       "text": "雪佛龍執行長表示，向資料中心提供天然氣發電可能成為其投資組合中的一個增長領域。"
-    },
-    {
-      "id": "4905253",
-      "time": "2026-05-28 23:46:53",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利：如果海峽重新開放，歐洲航空公司和奢侈品公司等蘊藏機遇】摩根士丹利分析師寫道，如果美伊重開霍爾木茲海峽的談判取得進展，歐洲航空公司、航空航天和奢侈品公司是最有望從中受益的板塊。他們表示，如果和平談判取得進展，能源密集型的建築和汽車類股也將上漲。更廣泛地看，如果這條關鍵水道重新開放，歐洲有望擺脫相對低迷的狀態。這些分析師寫道：“如果協議取得任何進展，我們預計歐盟股市將持續復甦，此前歐盟股市表現大幅落後於美國股市，自伊朗局勢升溫以來資金流入低迷，且盈利增長健康。”"
-    },
-    {
-      "id": "4905252",
-      "time": "2026-05-28 23:46:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡： 經此一役，我們已然成為中東地區實力最強的力量。 以色列如今的實力空前強大。"
-    },
-    {
-      "id": "4905251",
-      "time": "2026-05-28 23:45:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數觸及四個月新低；最新報15.96，下跌0.33點。"
-    },
-    {
-      "id": "4905250",
-      "time": "2026-05-28 23:44:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【凱投宏觀：交易員等待美伊事態發展之際，油價收窄漲幅】隨著交易員密切關注美伊重新開放霍爾木茲海峽談判的事態發展，油價收窄漲幅。7月交割的布倫特原油期貨上漲0.5%，至每桶94.80美元，而西得州中質油期貨上漲1.2%，至每桶89.73美元。在美國和伊朗交火引發對本已脆弱的停火協議的擔憂之後，這兩大基準原油在盤中早些時候均上漲了超過2.5%。儘管如此，凱投宏觀的分析師表示：“雖然重新開放該海峽是全球能源市場邁向正常化的必要一步，但僅靠這一點不足以使能源價格迅速回落至戰前水平。恢復到戰前的石油出口水平需要時間，可能會一直持續到2027年。”該機構預計第四季度布倫特原油價格將在每桶80至90美元之間。"
-    },
-    {
-      "id": "4905249",
-      "time": "2026-05-28 23:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖派駐革命衛隊的代表阿卜杜拉・哈吉・薩德吉週四表示，伊朗絕不會與美國、以色列建立友好關係，並稱談判並不意味著對他口中的敵方產生信任或交好。"
     }
   ]
 }
