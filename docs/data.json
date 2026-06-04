@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-05 04:44:52",
-  "count": 19044,
+  "updated": "2026-06-05 04:48:43",
+  "count": 19045,
   "items": [
+    {
+      "id": "4918171",
+      "time": "2026-06-05 04:47:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱若達成協議 不排除與伊朗最高領袖會晤】當地時間4日，美國總統特朗普表示，如果美國與伊朗最終達成協議，他不排除與伊朗新任最高領袖舉行會晤的可能性。他重申，美國絕不會允許伊朗擁有核武器，並稱美國此前對伊朗核設施的打擊已將相關設施“徹底摧毀”。特朗普還表示，美國曾考慮派遣美軍進入伊朗核設施所在地運走濃縮鈾，但最終放棄這一方案，以避免美軍陷入長期地面行動並遭受傷亡。他說，相關行動需要持續一至兩週，並動用大量重型裝置和空運能力，因此存在較高風險。（央視新聞）"
+    },
+    {
+      "id": "4918170",
+      "time": "2026-06-05 04:47:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lululemon： 一季度並非所有新品釋出都達到預期。"
+    },
+    {
+      "id": "mkt:019e9462-d786-7cc8-bdee-79e4319d7715",
+      "time": "2026-06-05 04:46:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said automakers did not request any tariff adjustments at the meeting; discussions focused on vehicle repair issues."
+    },
+    {
+      "id": "mkt:019e9462-4336-7cc8-bdee-716a626a4d21",
+      "time": "2026-06-05 04:45:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will soon nominate acting U.S. Attorney General Blanche for the permanent attorney general post; nomination paperwork is being prepared."
+    },
     {
       "id": "mkt:019e9460-fe35-7cc8-bdee-68ddcd35591b",
       "time": "2026-06-05 04:44:04",
@@ -175458,33 +175493,6 @@
         "其他"
       ],
       "text": "戴爾營運長： 客戶持續優先佈局資訊科技基礎設施，並愈發重視保障供應鏈穩定，預計該趨勢將貫穿全年。"
-    },
-    {
-      "id": "mkt:019e7058-a869-7eef-a303-80beca38ff82",
-      "time": "2026-05-29 04:48:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Lebanese Health Ministry said Israeli strikes on Lebanon since March 2 have killed 3,324 people."
-    },
-    {
-      "id": "4905573",
-      "time": "2026-05-29 04:48:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿波羅集團洽談 360 億美元債務融資方案，擬收購谷歌晶片業務並供應給 Anthropic。"
-    },
-    {
-      "id": "mkt:019e7056-4fb7-7eef-a303-7b75f4754d13",
-      "time": "2026-05-29 04:46:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【U.S. Treasury Secretary: US-Iran deal hinges on \"what the president wants to do\"】U.S. Treasury Secretary Bessent said at a WHITE HOUSE briefing on the 28th that whether the U.S. and Iran can reach a potential agreement depends on whether President Trump supports it. U.S. media earlier cited officials saying negotiating teams have broadly agreed on terms of a memorandum of understanding, subject to Trump’s final approval. Bessent declined repeated direct answers, saying teams have been exchanging consultations and “everything depends on what the president wants to do.” He listed Trump’s red lines: Iran must hand over its highly enriched uranium, must not develop nuclear weapons, and the Strait of Hormuz must remain open."
     }
   ]
 }
