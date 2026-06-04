@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-04 23:51:18",
-  "count": 18988,
+  "updated": "2026-06-04 23:55:40",
+  "count": 18990,
   "items": [
+    {
+      "id": "4917844",
+      "time": "2026-06-04 23:54:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【並行科技：擬不超8163.35萬元採購算力伺服器及記憶體】並行科技公告，擬向多家供應商採購GPU算力伺服器、記憶體，合計採購金額不超過8163.35萬元。"
+    },
+    {
+      "id": "mkt:019e9356-661d-711f-ac52-5203ab2d2a3c",
+      "time": "2026-06-04 23:52:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "DALY said the labor market remains resilient and that stability has been achieved."
+    },
+    {
+      "id": "mkt:019e9355-d8b6-711f-ac52-4d691d01a86c",
+      "time": "2026-06-04 23:52:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "DALY of the Federal Reserve said providing forward guidance at this time could be misleading."
+    },
+    {
+      "id": "mkt:019e9355-d8a4-711f-ac52-45296ebe5bf9",
+      "time": "2026-06-04 23:52:08",
+      "tags": [
+        "MKT News",
+        "PARA.N",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "Democratic senators urged Bessent to refer the Paramount–Skydance and Warner Bros exploratory deals to the Committee on Foreign Investment in the United States (CFIUS), saying they were concerned the transactions involve foreign ownership."
+    },
+    {
+      "id": "4917843",
+      "time": "2026-06-04 23:51:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：很難說勞動力市場已經走強。"
+    },
+    {
+      "id": "4917842",
+      "time": "2026-06-04 23:51:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：勞動力市場具有韌性，我們已實現穩定。"
+    },
+    {
+      "id": "mkt:019e9355-3627-711f-ac52-391f6fa9ccb3",
+      "time": "2026-06-04 23:51:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Daly said it is hard to say the labor market is stable."
+    },
+    {
+      "id": "4917841",
+      "time": "2026-06-04 23:51:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：當前，通脹問題上的焦點在於能源，食品價格上漲。"
+    },
+    {
+      "id": "te:markets:556564",
+      "time": "2026-06-04 23:51:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 5th Session — The Baltic Exchange's dry bulk freight index, which monitors spot rates for vessels carrying dry bulk commodities, fell by 2.8% from the previous session to 3,037. It was the fifth consecutive session of decline since the index touched an over two-and-a-half-year high of 3,227. The index tracking rates for capsize vessels, commonly used for iron or and coal, slumped 4.1% to 5,040, tracking similar moves for iron ore. In turn, the panamax index fell by 36 points to 2,254, while the supramax index inched up by one point to 1,584."
+    },
+    {
+      "id": "mkt:019e9354-d609-711f-ac52-30976664167a",
+      "time": "2026-06-04 23:51:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "DALY said Fed policy is in a good place and the central bank is prepared to respond in either direction."
+    },
+    {
+      "id": "4917840",
+      "time": "2026-06-04 23:51:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：當前節點不適宜採用前瞻性指引，容易產生誤導。"
+    },
     {
       "id": "4917839",
       "time": "2026-06-04 23:50:45",
@@ -469,6 +582,14 @@
         "Economic Calendar"
       ],
       "text": "United States | 4-Week Bill Auction High Yield Rate (Jun.4) | actual 27.64% | previous 41.91%"
+    },
+    {
+      "id": "4917817",
+      "time": "2026-06-04 23:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最高法院鞏固了美國證券交易委員會追繳非法所得的權力】美國最高法院在一場圍繞美國證券交易委員會(SEC)最強有力執法工具之一的訴訟中，鞏固了該機構追繳非法所得的權力。大法官們週四一致裁定，SEC在追繳違反聯邦證券法的個人或企業的違法所得時，無需證明存在可識別的投資者損失。這一裁決將影響一系列受害者難以明確界定的SEC案件，涵蓋從性質較輕的賬簿記錄違規，到重大的內幕交易指控。在2024財年，SEC曾利用違法所得追繳機制獲取了超過60億美元的追繳令，而去年這一數字接近110億美元。SEC未立即回應置評請求。"
     },
     {
       "id": "4917816",
@@ -174943,93 +175064,6 @@
         "國際"
       ],
       "text": "真主黨：為保衛黎巴嫩及本國民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成多名平民傷亡的行徑，伊斯蘭抵抗武裝人員於2026 年 5 月 28 日凌晨 2 時，向東扎烏塔爾鎮內以軍車輛及人員集結地發動火箭彈齊射。"
-    },
-    {
-      "id": "4905265",
-      "time": "2026-05-28 23:55:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：截至5月27日，共報告漢坦病毒病例13例，其中包括3例死亡。"
-    },
-    {
-      "id": "4905264",
-      "time": "2026-05-28 23:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡： 以色列的人均GDP現在接近7萬美元。 我們已經超過英國、德國、義大利——所有這些國家。 我們還有很長的路要走，但我們已經超過大多數西方國家。"
-    },
-    {
-      "id": "4905263",
-      "time": "2026-05-28 23:54:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國南方司令部： 厄瓜多的舉措重創並削弱了這些在美洲地區製造恐慌、滋生暴力的非法網路。美洲反販毒集團聯盟持續為西半球及美國本土築牢安全防線。"
-    },
-    {
-      "id": "te:markets:554569",
-      "time": "2026-05-28 23:54:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Snaps 8-Session Wining Streak — The FTSE 100 fell 0.7% on Thursday, ending an eight-session winning streak as broad declines across banks, healthcare and utility stocks outweighed gains in energy and defence shares. Sentiment shifted throughout the session after renewed US airstrikes on Iran pushed oil prices higher, before an Axios report later suggested the US and Iran were close to extending their ceasefire pending approval from President Donald Trump. HSBC fell around 1.7%, while Lloyds and Barclays lost 0.7% to 0.8%. AstraZeneca dropped 1.8% and GSK fell 1.2%, while Unilever and BAT each declined about 1.4%. Utilities were among the weakest performers, with National Grid and Severn Trent down more than 3%, while Centrica and SSE also fell after SSE warned it is unlikely to meet its 2030 renewable energy target. In contrast, Shell and BP posted modest gains, while defence stocks rallied with Rolls Royce (+1.5%), BAE Systems (>3%) and Babcock (~5%) all moving higher."
-    },
-    {
-      "id": "4905262",
-      "time": "2026-05-28 23:54:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國讚揚厄瓜多打擊販毒集團的“果斷行動”。"
-    },
-    {
-      "id": "4905261",
-      "time": "2026-05-28 23:52:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國思愛普Sap六年來首次從債券市場融資，透過發行四種到期時間債券募集35億歐元，認購金額超過91.5億歐元。"
-    },
-    {
-      "id": "4905260",
-      "time": "2026-05-28 23:52:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：關於各合作板塊啟動事宜，我們亟需各國明確立場，避免工作受阻。我們預計在六月及整個夏季，相關工作能取得進展。我們計劃在未來數週率先啟動首個基礎板塊，隨後推進其餘板塊的落地。"
-    },
-    {
-      "id": "4905259",
-      "time": "2026-05-28 23:51:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破75美元/盎司，日內漲0.56%。"
-    },
-    {
-      "id": "4905258",
-      "time": "2026-05-28 23:51:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍執行長表示，與哈薩克就延長田吉茲雪佛龍（TengizChevroil）合同的談判“進展順利”。"
-    },
-    {
-      "id": "4905257",
-      "time": "2026-05-28 23:51:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱已打死近三分之一黎巴嫩真主黨武裝人員】以色列國防軍發言人埃菲·德弗林當地時間28日表示，在近年來的多線作戰中，以軍已消滅了接近三分之一的黎巴嫩真主黨武裝力量。德弗林當天在北方司令部發布的一段影片宣告中說，自敵對行動升級以來，以軍已打死超過2500名黎真主黨武裝人員。德弗林稱黎真主黨大約擁有3萬名武裝人員，以軍已經打死其中近三分之一。德弗林還表示，以軍近期打擊了黎真主黨的區域指揮官和作戰人員，從而對其指揮與控制能力造成了重大打擊。（央視新聞）"
     }
   ]
 }
