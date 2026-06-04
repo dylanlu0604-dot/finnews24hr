@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-05 05:00:08",
+  "updated": "2026-06-05 05:03:58",
   "count": 19042,
   "items": [
+    {
+      "id": "mkt:019e9471-5b58-7cc8-bdee-a8b113787948",
+      "time": "2026-06-05 05:01:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic calls for global pause in frontier AI development】Anthropic on Thursday urged leading AI labs to consider slowing frontier AI development, saying rapid model advances could soon enable autonomous self‑improvement without human intervention and create major societal risk. In a blog post releasing internal data, Anthropic documented swift performance gains in its top models and said progress appears to be moving toward “recursive self‑improvement.” The company proposed a global agreement to slow frontier AI work and a mechanism to verify competitors’ compliance, arguing a pause would allow social institutions and related research to catch up."
+    },
+    {
+      "id": "4918177",
+      "time": "2026-06-05 05:00:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金漲0.9%，白銀漲1.6%】週四（6月4日）紐約尾盤，現貨黃金漲0.91%，報4475.02美元/盎司，亞太盤初曾短暫地微幅下跌至4424.19美元重新整理日低，隨後逐步上揚，日內主要持穩於4480美元附近，美股盤初重新整理日高至4515.40美元。COMEX黃金期貨漲0.83%，報4504.10美元/盎司。現貨白銀漲1.62%，報73.8903美元/盎司。COMEX白銀期貨漲1.69%，報74.160美元/盎司。COMEX銅期貨漲0.77%，報6.53美元/磅。"
+    },
     {
       "id": "4918176",
       "time": "2026-06-05 04:58:35",
@@ -175444,22 +175463,6 @@
         "公司"
       ],
       "text": "戴爾營運長：公司目前與客戶開展的長期合作洽談，均為多年期合作性質。"
-    },
-    {
-      "id": "4905583",
-      "time": "2026-05-29 05:03:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "惠與（HPE）美股盤後漲9%。"
-    },
-    {
-      "id": "4905582",
-      "time": "2026-05-29 05:02:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "戴爾營運長： 公司下半年將面臨供應短缺問題，並非市場需求不足。"
     }
   ]
 }
