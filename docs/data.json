@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-05 02:13:34",
-  "count": 18967,
+  "updated": "2026-06-05 02:17:20",
+  "count": 18960,
   "items": [
+    {
+      "id": "4918022",
+      "time": "2026-06-05 02:16:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：希望伊朗衝突各方能夠找到解決方案。"
+    },
+    {
+      "id": "mkt:019e93d9-9f06-7338-b9e8-4b9754295fe1",
+      "time": "2026-06-05 02:16:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia maintains a relationship of trust with Iran and can help advance resolution of the crisis."
+    },
+    {
+      "id": "4918021",
+      "time": "2026-06-05 02:16:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員表示，自4月8日與伊朗達成停火協議以來，已有約1000艘船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019e93d9-847f-7338-b9e8-441ae7e1f284",
+      "time": "2026-06-05 02:16:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials told Al Jazeera that roughly 1,000 vessels have transited the Strait of Hormuz since a ceasefire with Iran was reached on April 8."
+    },
+    {
+      "id": "4918020",
+      "time": "2026-06-05 02:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：領英正採取舉措清理低質量、AI 批次生成的灌水內容。"
+    },
+    {
+      "id": "4918019",
+      "time": "2026-06-05 02:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員表示，霍爾木茲海峽的航運通道保持暢通，但是否透過該海峽由船隻自行決定。"
+    },
+    {
+      "id": "mkt:019e93d8-d386-7338-b9e8-3b396848f277",
+      "time": "2026-06-05 02:15:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Al Jazeera cited US officials saying the Strait of Hormuz shipping lanes remain open, but transit is at vessels' discretion."
+    },
+    {
+      "id": "4918018",
+      "time": "2026-06-05 02:15:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rumble股價在午後交易中上漲1.3%，該公司已與Together AI簽署協議，部署基於英偉達布萊克韋爾（NVIDIA Blackwell）架構的人工智慧算力即服務。"
+    },
+    {
+      "id": "4918017",
+      "time": "2026-06-05 02:14:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯與伊朗關係互信，我們有能力助力化解危機。"
+    },
+    {
+      "id": "mkt:019e93d8-02b2-7338-b9e8-34d82377b664",
+      "time": "2026-06-05 02:14:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said US President Trump’s peace proposal could serve as a basis for a peace agreement with Ukraine, but Trump still needs to persuade Kyiv."
+    },
+    {
+      "id": "mkt:019e93d7-d44f-7338-b9e8-2af0b5f4d547",
+      "time": "2026-06-05 02:14:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Al Jazeera cited U.S. officials saying the ceasefire agreement with Iran remains in effect, but the U.S. will continue to protect its forces and impose a blockade on Iranian ports."
+    },
     {
       "id": "mkt:019e93d6-c8d4-7338-b9e8-2513a72e24c7",
       "time": "2026-06-05 02:13:07",
@@ -174617,164 +174717,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：阿曼大使已保證，目前沒有對霍爾木茲海峽徵收通行費的計劃。"
-    },
-    {
-      "id": "4905454",
-      "time": "2026-05-29 02:17:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：今天上午和阿曼大使通了電話。"
-    },
-    {
-      "id": "4905453",
-      "time": "2026-05-29 02:17:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "芝加哥期權交易所全球市場公司（CBOE Global Markets）設定盤後延伸交易資格標準：合約持倉15萬手、市值不低於500億美元，日均交易量為1000萬股。"
-    },
-    {
-      "id": "4905452",
-      "time": "2026-05-29 02:17:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破76美元/盎司，日內漲1.86%。"
-    },
-    {
-      "id": "4905451",
-      "time": "2026-05-29 02:16:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "知情人士：亞馬遜雲科技正洽談將 SpaceX 的 Grok 模型接入 Bedrock 平臺。"
-    },
-    {
-      "id": "4905450",
-      "time": "2026-05-29 02:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：霍爾木茲海峽必須自由開放。"
-    },
-    {
-      "id": "mkt:019e6fcd-434d-7eef-a301-96d8dbda8a2c",
-      "time": "2026-05-29 02:16:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBOE Global Markets said CBOE Options Exchange will begin offering extended-hours options trading on July 13, 2026."
-    },
-    {
-      "id": "4905449",
-      "time": "2026-05-29 02:15:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "芝加哥期權交易所全球市場旗下芝加哥期權交易所將於2026年7月13日推出期權延長交易時段。"
-    },
-    {
-      "id": "4905448",
-      "time": "2026-05-29 02:15:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普不會接受糟糕的伊朗協議。"
-    },
-    {
-      "id": "4905447",
-      "time": "2026-05-29 02:15:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "芝加哥期權交易所（CBOE）獲美國證券交易委員會（SEC）批准，可為選定的多上市個股期權提供延長交易時段。"
-    },
-    {
-      "id": "4905446",
-      "time": "2026-05-29 02:15:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特談及伊朗協議：雙方團隊仍在反覆磋商。"
-    },
-    {
-      "id": "te:markets:554593",
-      "time": "2026-05-29 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Soars by 5.85% — Top commodity gainers are Natural gas (5.85%), Natural Gas UK (1.26%), Methanol (1.23%) and Crude Oil WTI (0.38%). Biggest loser is Brent Crude Oil (-0.44%)."
-    },
-    {
-      "id": "4905445",
-      "time": "2026-05-29 02:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：石油市場另一端的供應將非常充足。"
-    },
-    {
-      "id": "4905444",
-      "time": "2026-05-29 02:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：近2000艘船隻等待駛出海灣。"
-    },
-    {
-      "id": "4905443",
-      "time": "2026-05-29 02:14:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：算力已大幅擴容。"
-    },
-    {
-      "id": "4905442",
-      "time": "2026-05-29 02:14:17",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Anthropic：本輪融資中參與投資的主要投資方包括美光科技、三星電子以及SK海力士。"
-    },
-    {
-      "id": "mkt:019e6fcb-3fa1-7eef-a301-8d9c98981ff1",
-      "time": "2026-05-29 02:14:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said average tax refunds were 11% higher than last year."
-    },
-    {
-      "id": "mkt:019e6fca-e8a9-7eef-a301-80d5b795bc07",
-      "time": "2026-05-29 02:13:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury minister Bessent said oil prices will be below pre-conflict levels."
-    },
-    {
-      "id": "4905441",
-      "time": "2026-05-29 02:13:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（5月28日），韓元兌美元最終漲0.43%，報1493.48韓元。"
     }
   ]
 }
