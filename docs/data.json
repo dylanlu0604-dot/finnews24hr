@@ -1,7 +1,182 @@
 {
-  "updated": "2026-06-04 15:57:53",
-  "count": 19057,
+  "updated": "2026-06-04 16:01:35",
+  "count": 19054,
   "items": [
+    {
+      "id": "mkt:019e91a6-709a-7668-960c-6c72d1b7980e",
+      "time": "2026-06-04 16:01:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "London Metal Exchange (LME) inventories: copper down 2,575 t, aluminium down 250 t, zinc down 625 t, nickel unchanged, tin down 40 t, lead down 1,150 t."
+    },
+    {
+      "id": "4916868",
+      "time": "2026-06-04 16:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：銅庫存減少2575噸，鋁庫存減少250噸，鋅庫存減少625噸，鎳庫存持平，錫庫存減少40噸，鉛庫存減少1150噸。"
+    },
+    {
+      "id": "4916867",
+      "time": "2026-06-04 16:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500迷你股指期貨下跌0.26%，納斯達克100股指期貨下跌0.49%，道瓊斯股指期貨上漲0.20%。"
+    },
+    {
+      "id": "4916866",
+      "time": "2026-06-04 16:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：2026年將舉辦超過100場“出口中國”活動】商務部4日召開例行新聞釋出會，商務部新聞發言人何詠前在會上介紹，2026年，商務部將舉辦超過100場“出口中國”活動，向中國企業和消費者宣傳和推介各國優質產品，為各國企業擴大對華出口搭建平臺和橋樑，更大力度擴大進口，與世界各國共享中國發展新機遇。6月7日和11日，商務部將分別在白俄羅斯和德國舉辦“出口中國”境外專場活動。 白俄羅斯專場活動是“出口中國”首場境外活動，德國專場活動是“出口中國”在歐盟的首場活動。 何詠前稱，誠摯邀請各國企業積極參與“出口中國”系列活動，繼續來華參加進博會等重點展會，利用中方搭建的平臺和渠道，擴大對華出口，實現互利共贏。（中新網）"
+    },
+    {
+      "id": "4916865",
+      "time": "2026-06-04 16:00:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【博通股價盤前跌超10%】博通股價盤前跌超10%。公司預計第三財季AI晶片銷售額為160億美元，不及市場預期。"
+    },
+    {
+      "id": "4916864",
+      "time": "2026-06-04 16:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "經合組織：全球鋼鐵市場的不平衡正在加深，而非緩解。到2028年，鋼鐵過剩產能可能達到7.45億噸。"
+    },
+    {
+      "id": "te:markets:556472",
+      "time": "2026-06-04 16:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 0.95% — Top commodity gainers are Natural Gas UK (0.95%) and Natural Gas EU (0.88%). Biggest losers are Brent Crude Oil (-0.73%), Gasoline (-0.61%) and Crude Oil WTI (-0.48%)."
+    },
+    {
+      "id": "4916863",
+      "time": "2026-06-04 16:00:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊4日發表書面致辭說：“希望所有人堅定立場，保持頭腦清醒，維護團結互信，不與敵人結盟，以此挫敗敵人陰謀。”（新華社）"
+    },
+    {
+      "id": "4916862",
+      "time": "2026-06-04 15:59:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【縱橫股份：全資子公司中標6518萬元低空綜合治理專案】縱橫股份公告，公司全資子公司成都縱橫大鵬無人機科技有限公司於近日收到新野縣低空綜合治理能力提升專案的中標通知書，中標金額6518萬元。該專案屬於公司日常經營範圍內的主營業務，但尚未與招標人簽訂正式協議及合同，合同簽署時間及履約安排存在不確定性，可能受行業政策調整、市場環境變化等因素影響。"
+    },
+    {
+      "id": "4916861",
+      "time": "2026-06-04 15:59:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福鞍股份：對外投資設立控股子公司完成】福鞍股份公告，公司已完成控股子公司福鞍投資（深圳）有限公司的設立工作，並取得深圳市市場監督管理局頒發的《營業執照》。該子公司註冊資本為1000萬元人民幣，公司認繳出資600萬元，認繳出資比例為60%。子公司的經營範圍包括以自有資金從事投資活動、創業投資、融資諮詢服務、財務諮詢、社會經濟諮詢服務、資訊諮詢服務、企業管理諮詢、資訊科技諮詢服務、稅務服務及法律諮詢等。"
+    },
+    {
+      "id": "mkt:019e91a4-ca81-7668-960c-62101a232ed3",
+      "time": "2026-06-04 15:59:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "OECD: global steel excess capacity could reach 745 mln tonnes by 2028."
+    },
+    {
+      "id": "mkt:019e91a4-92a1-7668-960c-5c0632d30358",
+      "time": "2026-06-04 15:58:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "OECD says global steel market imbalances are deepening, not easing."
+    },
+    {
+      "id": "4916860",
+      "time": "2026-06-04 15:58:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽建工：中標66.95億元高速公路專案】安徽建工公告，近日公司及所屬子公司收到專案中標通知書。其中，G0323濟寧至合肥高速公路皖蘇省界至宿州段特許經營者專案，中標人為安徽建工集團股份有限公司（牽頭人）聯合體，估算總投資約66.95億元，工期1095日曆天，收費期352個月；長豐縣芯電產業園（二期）專案，中標人為安徽建工三建集團有限公司（牽頭人）聯合體，中標價18.84億元，其中本公司所屬子公司份額約18.78億元，工期300日曆天。上述專案具體實施存在不確定性。"
+    },
+    {
+      "id": "te:markets:556469",
+      "time": "2026-06-04 15:58:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound on Ceasefire Hopes — The CAC 40 rose 0.7% to 8,203 on Thursday, rebounding from the previous session as investor sentiment improved following news that Israel and Lebanon had agreed to implement a ceasefire. The deal remains conditional on a complete cessation of Hezbollah attacks and the withdrawal of its operatives south of the Litani River. Additional support came from comments by President Donald Trump, who said talks with Iran were progressing “very well” and could produce results as soon as this weekend, despite denials from Tehran. Domestically, the Construction PMI rose to 39.6 in May from 38.1 in April, when construction activity recorded its steepest contraction since September 2024. Luxury stocks were among the strongest performers, particularly LVMH (1.7%), Hermès (1.6%), and Kering (1.7%). Aerospace and defense names also advanced, with Airbus rising 1.1% and Safran adding 0.9%."
+    },
+    {
+      "id": "4916859",
+      "time": "2026-06-04 15:58:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼“強烈預期”MSCI將維持其新興市場地位。"
+    },
+    {
+      "id": "mkt:019e91a3-adb3-7668-960c-569ec7d862b1",
+      "time": "2026-06-04 15:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry said Islamabad remains optimistic and will not be discouraged by recent developments."
+    },
+    {
+      "id": "4916858",
+      "time": "2026-06-04 15:57:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所表示，市場基本面依然強勁。"
+    },
+    {
+      "id": "mkt:019e91a3-58e3-7668-960c-4bb83381c69f",
+      "time": "2026-06-04 15:57:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Automobile Dealers Association: May 25-31 national used-car market average daily transactions 71,100 vehicles】China Automobile Dealers Association data show average daily used-car transactions nationwide were 71,100 vehicles for May 25-31, down 3.93% week-on-week from May 18-24. A two-week uptrend ended as retail purchase momentum slowed; some dealers paused bulk restocking and month-end consumer caution rose, weighing on daily volumes and putting short-term market recovery under pressure. Six major regional markets mostly contracted week-on-week. North China and Southwest posted slight growth; Northeast, East China, Northwest and Central-South saw varying degrees of decline. City-level performance within regions was markedly divergent. Continued monitoring of demand-recovery pace is needed."
+    },
+    {
+      "id": "mkt:019e91a3-51fa-7668-960c-4658b46e4b21",
+      "time": "2026-06-04 15:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said if military escalation continues, the window for dialogue and diplomacy will narrow and reaching an agreement will face major obstacles."
+    },
+    {
+      "id": "mkt:019e91a3-147b-7668-960c-3e4252b6ab46",
+      "time": "2026-06-04 15:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry urged both sides to adhere to the ceasefire agreement amid recent escalation."
+    },
     {
       "id": "mkt:019e91a2-fce5-7668-960c-32f7a16de97f",
       "time": "2026-06-04 15:57:18",
@@ -9,6 +184,14 @@
         "MKT News"
       ],
       "text": "Pakistan's foreign ministry urged all parties to exercise maximum restraint after condemnable attacks targeting Kuwait and Bahrain."
+    },
+    {
+      "id": "4916857",
+      "time": "2026-06-04 15:57:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【深圳等四地試點取消增值電信業務外資股比限制】6月3日，工業和資訊化部發布訊息，為貫徹落實黨中央、國務院關於推動電信領域高水平對外開放的決策部署，工業和資訊化部堅持以高水平開放促進電信業高質量發展，積極穩妥有序推進電信業務擴大開放，在WTO承諾、自由貿易試驗區、服務業擴大開放等政策基礎上，主動對接國際高標準經貿規則，在北京、上海、海南、深圳等四地試點取消網際網路資料中心等增值電信業務的外資股比限制。（深圳釋出）"
     },
     {
       "id": "te:economy:556468",
@@ -175491,224 +175674,6 @@
         "Impact bullish"
       ],
       "text": "London Metal Exchange (LME) inventories: zinc down 75 tonnes, copper down 2,200 tonnes, aluminium down 1,250 tonnes, tin up 200 tonnes, lead up 29,650 tonnes, nickel unchanged."
-    },
-    {
-      "id": "4904224",
-      "time": "2026-05-28 16:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋅庫存減少75噸，銅庫存減少2200噸，鋁庫存減少1250噸，錫庫存增加200噸，鉛庫存增加29650噸，鎳庫存持平。"
-    },
-    {
-      "id": "4904223",
-      "time": "2026-05-28 16:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家標準時間及綜合原子時香港節點揭牌】中國科學院國家授時中心與香港天文臺今日（28日）舉行“國家標準時間及綜合原子時香港節點”揭牌儀式。香港天文臺透過首個香港節點為國家授時中心綜合原子時的產生與保持提供原始測量資料，共同推動綜合原子時發展。 國家授時中心主任張首剛表示，時間是國家重要的戰略資源，高精度時間同步是區域協同發展的核心技術基礎。此次在香港佈局建設標準時間傳輸裝置，是國家授時中心推動港澳深度融入國家發展大局的具體舉措，也是推動香港參與國家時間基準產生的首次實踐。"
-    },
-    {
-      "id": "mkt:019e6d9a-523f-722b-8acd-73421e469560",
-      "time": "2026-05-28 16:01:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yingluohua said on May 28 via its investor platform that it currently has no cooperation with Yushu Technology."
-    },
-    {
-      "id": "4904222",
-      "time": "2026-05-28 16:01:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Snowflake股票盤前上漲36.4%，此前該公司上調年度產品收入預期，並簽署了價值60億美元的亞馬遜雲服務合作協議。"
-    },
-    {
-      "id": "4904221",
-      "time": "2026-05-28 16:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭總統澤連斯基本週四正在瑞典。"
-    },
-    {
-      "id": "4904220",
-      "time": "2026-05-28 16:01:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業證券等在宿遷成立產業投資基金 出資額5億】天眼查App顯示，近日，宿遷產發興證戰新產業投資基金（有限合夥）成立，執行事務合夥人為宿遷產發創業投資有限公司、興證創新資本管理有限公司，出資額5億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由宿遷市宿城新興產業母基金（有限合夥）、江蘇宿遷新材料產業專項母基金（有限合夥）、興業證券旗下興證創新資本管理有限公司、宿遷產發創業投資有限公司共同出資。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605283752772885",
-      "time": "2026-05-28 16:00:58",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【“加息噩夢”漸進？美聯儲“鷹風陣陣”：降通脹是首要任務！】美聯儲官員近日來的表態，似乎都在發出一個訊號：加息不再是遙不可及的，而且這個噩夢正愈發接近。明尼阿波利斯聯儲主席尼爾·卡什卡利週四再次重申，降通脹仍然是他的首要任務，並警告稱消費者價格仍然“過高”。"
-    },
-    {
-      "id": "4904219",
-      "time": "2026-05-28 16:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省臨沂市人大常委會原副主任劉紀民被開除黨籍】中央紀委國家監委網站5月28日通報，據山東省紀委監委訊息：經山東省委批准，山東省紀委監委對臨沂市人大常委會原黨組成員、副主任劉紀民嚴重違紀違法問題進行了立案審查調查。經查，劉紀民喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，違規收受禮品、消費卡，接受可能影響公正執行公務的宴請；違反組織原則，個人違規決定重大事項，隱瞞不報個人有關事項，違規為他人謀取人事利益；廉潔底線失守，向管理和服務物件放貸獲取大額回報；不重視家風建設；公權私用、搞權錢交易，利用職務便利為他人在工作調動、企業經營等方面謀利，並非法收受鉅額財物。劉紀民嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予劉紀民開除黨籍處分；按規定取消其享受的待遇；終止其臨沂市第十四次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "mkt:019e6d99-95b0-722b-8acd-6a8f9d3ebab5",
-      "time": "2026-05-28 16:00:26",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Italy May Istat manufacturing confidence index 87.9, vs 87.5 expected; prior revised to 87.9."
-    },
-    {
-      "id": "mkt:019e6d99-927a-722b-8acd-6428870253f5",
-      "time": "2026-05-28 16:00:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Italy May Istat consumer confidence index 93.4 (consensus 90.1); April 90.8."
-    },
-    {
-      "id": "4904218",
-      "time": "2026-05-28 16:00:24",
-      "tags": [
-        "資料"
-      ],
-      "text": "義大利5月Istat製造業信心指數 87.9，預期87.5，前值由87.9修正為87.9。義大利5月Istat消費者信心指數 93.4，預期90.1，前值90.8。"
-    },
-    {
-      "id": "mkt:019e6d99-3a2c-722b-8acd-584fc61e81e5",
-      "time": "2026-05-28 16:00:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Istat Manufacturing Confidence Index (May) | actual 87.9 | consensus 87.5 | previous 87.9"
-    },
-    {
-      "id": "mkt:019e6d99-39cc-722b-8acd-547ba2f2bc9e",
-      "time": "2026-05-28 16:00:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Istat Consumer Confidence Index (May) | actual 93.4 | consensus 90.1 | previous 90.8"
-    },
-    {
-      "id": "4904217",
-      "time": "2026-05-28 16:00:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗公佈打擊美軍基地導彈發射畫面】伊朗媒體剛剛公佈了伊朗伊斯蘭革命衛隊今天（5月28日）打擊美軍空軍基地的導彈發射畫面。當地時間今天凌晨，美軍空襲阿巴斯港郊區一處地點，隨後伊朗方面對發動襲擊的美軍空軍基地進行了打擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:554387",
-      "time": "2026-05-28 16:00:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Rises by 2.78% — Top commodity gainers are Natural Gas UK (2.78%), Natural Gas EU (2.58%), Brent Crude Oil (2.53%) and Crude Oil WTI (2.46%). Biggest loser is Natural gas (-0.71%)."
-    },
-    {
-      "id": "4904216",
-      "time": "2026-05-28 15:59:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英洛華：公司目前與宇樹科技未有合作】英洛華5月28日在互動平臺稱，公司目前與宇樹科技未有合作。"
-    },
-    {
-      "id": "4904215",
-      "time": "2026-05-28 15:59:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "未來資產證券有限公司給予寒武紀買進的初始評級，目標價2,020元人民幣，即上漲45%。"
-    },
-    {
-      "id": "4904214",
-      "time": "2026-05-28 15:58:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【廣西友誼關推出保稅“一票多車”業務 助力中國高階裝備出口越南】友誼關海關28日介紹，近日，由中國外運廣西憑祥公司代理申報的徐工集團XGC17000型履帶吊裝置在憑祥綜合保稅區完成首批保稅模式“一票多車”通關業務，順利出口越南。據統計，今年1月至4月，經友誼關口岸出口的工程器械達8.2萬臺，同比增加119.4%，貨值達32.2億元人民幣，增長63.1%。目前，越南加速推進工業化與城鎮化，體育綜合體等重大工程密集落地，對大噸位、高效能起重裝置需求旺盛，一批中國高階工程裝備正加速出口至越南多地。（中國新聞網）"
-    },
-    {
-      "id": "4904213",
-      "time": "2026-05-28 15:58:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東來技術：回購股份累計減持比例達1.11%】東來技術公告稱，公司於2024年1月31日至4月30日累計回購股份5815348股。截至2026年5月27日，本期減持計劃已出售已回購股份284745股，佔總股本0.24%，加上第二期出售數量，累計出售已回購股份1331740股，佔總股本1.11%。減持價格區間為31.04 - 32.58元/股，總金額為906.47萬元。此次減持不會對公司經營等產生重大影響，但受規則及市場因素影響，減持計劃可能無法完成。"
-    },
-    {
-      "id": "4904212",
-      "time": "2026-05-28 15:58:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據路透調查：對印尼盾的看空押注達到自2022年10月以來的最高水平。"
-    },
-    {
-      "id": "4904211",
-      "time": "2026-05-28 15:58:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家能源局：2026年4月，全國新增建檔立卡新能源發電（不含戶用光伏）專案共5692個，其中風電專案37個，光伏發電專案5651個（集中式光伏發電專案41個，工商業分散式光伏發電專案5610個），生物質發電專案4個。"
-    },
-    {
-      "id": "mkt:019e6d97-51e1-722b-8acd-4f53a823250a",
-      "time": "2026-05-28 15:58:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "REUTERS POLL: Bearish bets on the Indonesian rupiah hit the highest level since October 2022."
-    },
-    {
-      "id": "mkt:019e6d97-41e1-722b-8acd-46eaa0513111",
-      "time": "2026-05-28 15:58:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Institutions: UK Investors Shift Into Short-Dated Bonds Amid Geopolitical Uncertainty】Janus Henderson’s Matt Bullock said in a report that over the 12 months to February UK investors moved into shorter-dated bonds and out of longer-dated ones, signaling rising caution on interest-rate risk. He said that amid high macro and geopolitical uncertainty demand for fixed income has increased, with investors reducing duration exposure while maintaining a focus on credit quality and liquidity."
-    },
-    {
-      "id": "4904210",
-      "time": "2026-05-28 15:58:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中塞（爾維亞）兩軍共譜安全發展新篇】5月28日下午，國防部舉行例行記者會，國防部新聞發言人蔣斌大校答記者問。記者：近期，國家主席習近平同塞爾維亞總統武契奇舉行會談。請進一步介紹中塞兩軍交往情況。蔣斌：中塞是歷經風雨、患難與共的鐵桿朋友。在兩國元首戰略引領下，兩軍在高層互訪、人員培訓、聯合訓練等領域交流合作不斷深化。中國軍隊願同塞方一道，加強戰略溝通，深化務實合作，旗幟鮮明支援彼此維護核心利益的正當舉措，共同反對強權霸凌，共譜安全發展新篇，為持續推進新時代中塞命運共同體建設作出積極貢獻。（國防部發布）"
     }
   ]
 }
