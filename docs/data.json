@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-05 05:19:19",
+  "updated": "2026-06-05 05:23:12",
   "count": 19043,
   "items": [
+    {
+      "id": "4918187",
+      "time": "2026-06-05 05:21:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數：巨型市值股票指數入選視窗期暫無調整計劃。"
+    },
+    {
+      "id": "4918186",
+      "time": "2026-06-05 05:19:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據CNN：影片顯示，今年3月參與對伊朗軍事行動時發生火災的美國“福特”號航母，其損壞程度比海軍方面所說的要嚴重得多。"
+    },
+    {
+      "id": "mkt:019e9481-8e22-7cc8-bdee-c694837644a2",
+      "time": "2026-06-05 05:19:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNN, video footage shows the US carrier USS Ford, which suffered a fire in March during operations against Iran, appears more severely damaged than the US Navy has reported."
+    },
     {
       "id": "4918185",
       "time": "2026-06-05 05:15:20",
@@ -175433,35 +175457,6 @@
         "其他"
       ],
       "text": "【發行主體明顯增多 熊貓債年內發行規模突破1200億元】熊貓債是指境外機構在中國境內發行的、以人民幣計價的債券。今年以來，熊貓債市場快速擴容。Wind資料顯示，截至5月26日，2026年年內熊貓債發行規模已突破1200億元，發行主體覆蓋主權機構、多邊開發機構、跨國企業與科創企業。其中，一季度共新發45筆熊貓債、合計規模882.35億元，創下單季發行規模新高。（上證報）"
-    },
-    {
-      "id": "4905592",
-      "time": "2026-05-29 05:22:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“中國資產值得長期持有” 外資機構增配A股或迎來“黃金期”】隨著科技革命與產業變革加速演進，中國由於經濟韌性足、抗風險能力強、向新動能足，吸引外資機構持續增配中國資產。5月28日，在深交所舉辦的2026全球投資者大會上，與會嘉賓表示，中國經濟具有獨一無二的執行週期，中國市場在應對外部衝擊時表現出較強的穩定性，產生了持久吸引力。（上證報）"
-    },
-    {
-      "id": "4905591",
-      "time": "2026-05-29 05:22:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國外交部：韓美將於6月2日至3日舉行高階別安全會談。"
-    },
-    {
-      "id": "mkt:019e7077-3ddf-7eef-a303-ba85a66b6317",
-      "time": "2026-05-29 05:22:03",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "South Korea and the United States will hold high-level security talks on June 2-3, the South Korean foreign ministry said."
     }
   ]
 }
