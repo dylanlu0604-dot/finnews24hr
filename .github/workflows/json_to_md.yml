@@ -40,11 +40,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add notebooklm/new01.md notebooklm/new02.md notebooklm/new03.md notebooklm/new04.md notebooklm/new05.md
+          git add notebooklm/news01.md notebooklm/news02.md notebooklm/news03.md notebooklm/news04.md notebooklm/news05.md
           if git diff --cached --quiet; then
             echo "No markdown changes."
           else
-            git commit -m "notebooklm: refresh new0[1-5].md [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
+            git commit -m "notebooklm: refresh news0[1-5].md [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
             git pull --rebase origin main
             git push
           fi

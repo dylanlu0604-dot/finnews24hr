@@ -1,7 +1,7 @@
 """Convert docs/data.json into 5 markdown files under notebooklm/.
 
 Reads docs/data.json (produced by scraper/fetch_sina.py) and splits the
-items into exactly five markdown files (new01.md ... new05.md) such that
+items into exactly five markdown files (news01.md ... news05.md) such that
 the total text volume is balanced across files. Items remain in their
 original chronological order; only the cut points differ.
 """
@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "docs" / "data.json"
 OUT_DIR = ROOT / "notebooklm"
 NUM_FILES = 5
-FILE_TEMPLATE = "new{idx:02d}.md"
+FILE_TEMPLATE = "news{idx:02d}.md"
 
 
 def item_weight(item: dict) -> int:
