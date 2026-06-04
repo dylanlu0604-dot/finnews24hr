@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-04 20:48:34",
-  "count": 19039,
+  "updated": "2026-06-04 20:52:45",
+  "count": 19041,
   "items": [
+    {
+      "id": "4917568",
+      "time": "2026-06-04 20:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國商業銀行執行長就裕信銀行收購表態：敵意收購將是最糟糕的選項，會摧毀大量價值。"
+    },
+    {
+      "id": "4917567",
+      "time": "2026-06-04 20:50:41",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【被罰沒超4834萬，易票聯支付因違反支付結算等規定收罰單】易票聯支付有限公司收到今年第三方支付機構的最大金額罰單。6月4日，中國人民銀行廣東省分行公佈的行政處罰決定資訊公示表顯示，易票聯支付有限公司因違反支付結算、金融科技、反洗錢管理有關規定，被央行廣東省分行給予警告、通報批評，沒收違法所得1005.155263萬元，合計處罰款3829.743967萬元，罰沒款合計4834.89923萬元。"
+    },
+    {
+      "id": "4917566",
+      "time": "2026-06-04 20:50:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗“聖城旅”：以色列須撤退至衝突爆發前的位置】據伊朗媒體4日報道，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼表示，以色列必須撤退至本輪衝突爆發前的位置。據伊朗伊斯蘭共和國廣播電視臺報道，卡尼表示，支援黎巴嫩抵抗運動是“所有人的責任”。抵抗力量的最低要求是：以色列必須撤退至本輪衝突爆發前的位置。卡尼強調，黎巴嫩的抵抗力量將很快看到其英勇抗爭的成果。（新華社）"
+    },
+    {
+      "id": "mkt:019e92af-48cd-7eec-b8a9-ea4a2889ffbf",
+      "time": "2026-06-04 20:50:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas futures extended intraday gains to 3.0%, trading at $3.311/MMBtu."
+    },
+    {
+      "id": "mkt:019e92af-4548-7eec-b8a9-e72209ba4fc9",
+      "time": "2026-06-04 20:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC Al-Quds Force: Israel must withdraw to pre-conflict positions】IRGC Al-Quds Force commander Kani said on April 4 that Israel must withdraw to the positions it held before the current round of fighting, state broadcaster IRIB reported. Kani said supporting Lebanon’s resistance is a duty, described withdrawal to pre-conflict positions as the minimum demand, and said Lebanese resistance would soon see the results of its struggle."
+    },
+    {
+      "id": "4917565",
+      "time": "2026-06-04 20:49:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【分析：瑞士央行將盡量降低加息和外匯干預的必要性】J. Safra Sarasin可持續資產管理經濟學家Karsten Junius表示，瑞士央行可能試圖在本月即將召開的下一次會議上淡化加息和外匯干預的必要性。市場仍反映了到明年3月加息25個基點的預期。“我們認為瑞士央行無意進一步助長加息預期，”Junius說。他表示，目前的能源價格衝擊不如2022年那麼明顯，在失業率高於平均水平的情況下，自上次政策會議以來名義匯率略有貶值。他指出，該行可能會強調其也不得不下調GDP預測。週四公佈的資料顯示，瑞士5月份通脹率穩定在0.6%。"
+    },
+    {
+      "id": "4917564",
+      "time": "2026-06-04 20:48:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：如果歐洲央行加息，歐元的上漲空間似乎有限】Monex Europe分析師在一份報告中表示，如果歐洲央行在6月11日加息，歐元的上漲空間似乎有限。他們表示，潛在的加息可能會被視為一個錯誤。他們稱，通脹衝擊在很大程度上是輸入性的且受能源驅動，而增長環境則很脆弱。歐洲央行可能會捍衛其在通脹方面的信譽，但它無法透過加息來增加能源供應、恢復受阻的航運路線或逆轉貿易條件衝擊。“對於歐元兌美元而言，這造成了一種令人不安的動態。”Monex預計，到6月底歐元將升至1.17美元，六個月後將升至1.19美元，而目前為1.1634美元。"
+    },
     {
       "id": "4917563",
       "time": "2026-06-04 20:46:49",
@@ -22,6 +85,14 @@
         "Importance 1"
       ],
       "text": "Pound Nears $1.35 on Middle East Ceasefire Hopes — The British pound rose toward $1.35, buoyed by optimism over a Middle East ceasefire. Israel and Lebanon’s agreement to halt hostilities raised hopes for broader de-escalation in the US-Israeli conflict with Iran, though Tehran denied progress in talks with Washington and clashes continued in Lebanon. Meanwhile, the Republican-led US House voted to halt military action against Iran, defying President Trump’s administration. On monetary policy, markets are pricing in nearly two Bank of England rate hikes this year, with the first expected in September, as policymakers balance rising inflation against early signs of a cooling labor market."
+    },
+    {
+      "id": "4917562",
+      "time": "2026-06-04 20:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國假日周首次申請失業救濟人數升至22.5萬人】上週美國失業救濟金申請人數升至2月以來的最高水平，這可能反映了陣亡將士紀念日假期前後資料的波動性。根據美國勞工部週四公佈的資料，截至5月30日當週，首次申請失業救濟人數增加1.3萬人，至22.5萬人。持續申請人數在此前一週降至178萬人。該報告涵蓋的時段包含陣亡將士紀念日，且與部分學校的夏休開始時間相吻合。據彭博對經濟學家的調查顯示，市場對初請失業金人數的預估中值為21.5萬。"
     },
     {
       "id": "mkt:019e92aa-fff9-7eec-b8a9-da22bceb9c1b",
@@ -175521,60 +175592,6 @@
         "國際"
       ],
       "text": "【通脹加速之際，美國消費者支出小幅增長】受伊朗局勢引發能源價格飆升的影響，美國4月份消費者支出小幅增長，年度通脹率加速升至2023年以來的最高水平。美國經濟分析局週四釋出的一份報告顯示，經通脹調整後的消費者支出上月增長了0.1%，而PCE物價指數同比上漲3.8%。剔除食品和能源專案後的“核心PCE指數”同比上漲了3.3%。另一組資料顯示，第一季度美國經濟按年計算增長了1.6%，由於庫存投資和消費者支出資料均被下調修正，這一增速低於此前的初步估算值。這些通脹資料可能會進一步強化越來越多美聯儲官員的呼聲，即美聯儲應發出訊號，表明其下一步利率行動可能並非降息。新一任美聯儲主席沃什可能需要費力說服他的同事們，為了遏制通脹預期，並不一定非要採取加息措施。"
-    },
-    {
-      "id": "4904923",
-      "time": "2026-05-28 20:51:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨抹去早前跌幅，轉為平盤。"
-    },
-    {
-      "id": "4904922",
-      "time": "2026-05-28 20:51:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珠免集團：子公司涉400.48萬元侵權訴訟，累計涉案1384.31萬元】珠免集團公告稱，近日，子公司洪灣公司因侵權責任糾紛被追加為第三人起訴。原告姚某稱施工裝置因工程事故受損，請求建設單位及施工單位連帶賠償各項損失暫估400.48萬元。本案已受理，尚未審理完結。自前次披露後，公司及子公司連續十二個月內未披露的訴訟和仲裁共4宗，累計涉案1384.31萬元，佔最近一期經審計淨資產的13.11%。最終判決結果不確定，對利潤影響尚無法計量。"
-    },
-    {
-      "id": "4904921",
-      "time": "2026-05-28 20:50:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪釋出超級智慧體迪迪蝦】今晚，比亞迪釋出超級智慧體迪迪蝦，實現全倉記憶，跨域互動，端雲協同，快慢思考。（證券時報）"
-    },
-    {
-      "id": "te:markets:554497",
-      "time": "2026-05-28 20:50:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "US Futures Hold Pullback — US equity futures were lower on Thursday as an increasingly strained truce between Iran and the US lifted energy prices. Contracts attached to the S&P 500 and the Dow inched below the flatline from their records, and the Nasdaq 100 dropped 0.4%. The US struck Iranian targets near the Persian Gulf overnight, adding to skepticism over an incoming deal after the White House rejected Tehran's claim that it had a peace agreement that would restart trade through the Strait of Hormuz. The tech sector led the losses for a second session as markets assessed the sustainability of strong guidance for the AI sector, with Nvidia and Tesla down more than 1% premarket. More traditional sectors of the economy were also under pressure as hawkish comments from FOMC members lifted long-term yields, magnified by PCE price inflation rising to a three-year high, while initial claims remained robust. Snowflake surged 40% premarket on a strong outlook, although Salesforce fell 2% after its earnings report."
-    },
-    {
-      "id": "4904920",
-      "time": "2026-05-28 20:50:08",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【北京科銳：澄清T公司為特斯拉（上海）有限公司，採購儲能系統不影響當期營收】北京科銳公告，公司於2026年5月28日披露與T公司簽署合作協議及系統買賣協議後，網路平臺出現對T公司的猜測（包括特斯拉、寧德時代等）。公司澄清，T公司確為特斯拉（上海）有限公司，本次簽署的協議為公司向特斯拉採購儲能系統，而非銷售，不會對公司當期營業收入產生影響。協議中涉及的2026年至2028年採購總裝機容量僅為初步預估，屬意向性約定，無法律約束力，後續履行存在重大不確定性。此外，公司股票2026年5月28日收盤漲幅偏離值為9.12%，靜態市盈率170.89倍，滾動市盈率464.21倍，市盈率處於高位，與基本面偏離較大；2026年第一季度歸屬於上市公司股東的淨利潤虧損2388.98萬元，同比下降326.21%。"
-    },
-    {
-      "id": "4904919",
-      "time": "2026-05-28 20:49:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織斯里蘭卡特派團團長：斯里蘭卡的匯率靈活性對抵禦外部衝擊至關重要。"
     }
   ]
 }
