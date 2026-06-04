@@ -1,7 +1,397 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-04 23:21:56_
-_本檔包含 3637 則快訊，約 717317 字_
+_更新時間：2026-06-04 23:59:53_
+_本檔包含 3631 則快訊，約 717551 字_
+
+---
+
+### 2026-05-30 00:50:11  #MKT News #Important #Commodities #Energy #WTI
+
+U.S. total oil rig count for the week to May 29 due in 10 minutes.
+
+---
+
+### 2026-05-30 00:49:11  #市場
+
+【德國10年期國債收益率本週跌10個基點】週五（5月29日）歐市尾盤，德國10年期國債收益率跌2.4個基點，報2.938%，本週累計下跌10個基點，5月份累計下跌9.2個基點，整體交投於3.201%-2.925%區間，呈現出衝高回落走勢。兩年期德債收益率跌2.9個基點，報2.529%，本週累跌11.4個基點，5月份累跌12.2個基點，交投於2.763%-2.507%區間；30年期德債收益率跌1.5個基點，報3.499%。2/10年期德債收益率利差增長0.5個基點，報+40.696個基點。
+
+---
+
+### 2026-05-30 00:46:40  #國際
+
+【挪威首相：期待與中國在人工智慧等全球性議題上加強溝通】挪威首相斯特勒29日表示，中國是世界主要經濟體和國際舞臺上的重要參與者，挪威希望同中國保持交流合作，並期待在人工智慧等全球性議題上同中方加強溝通。 斯特勒當天在奧斯陸會見外國記者時表示，中國以建設性方式參與國際事務。在人工智慧等全球性挑戰面前，中國發揮著重要作用。挪威期待與中國在全球性議題上加強溝通。斯特勒還表示，中國是世界主要經濟體，也是國際舞臺上的重要參與者，挪威希望同中國在政治、經濟等領域開展合作。（新華社）
+
+---
+
+### 2026-05-30 00:40:46  #公司
+
+智利國家銅業公司（Codelco）一季度銅產量27.2萬噸。一季度營收50.3億美元，EBITDA為21.4億美元。
+
+---
+
+### 2026-05-30 00:36:34  #公司
+
+用英文翻譯“智利國家銅業公司（Codelco）：一季度稅前利潤達8.25億美元。”
+
+---
+
+### 2026-05-30 00:34:18  #國際
+
+伊朗高階訊息人士：美國總統特朗普關於伊朗高度濃縮鈾庫存的說法不屬實。德黑蘭與華盛頓之間可能的諒解備忘錄不涉及任何與核相關的問題。伊朗與美國之間已達成政治共識，但尚未最終確定。
+
+---
+
+### 2026-05-30 00:33:52  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI and Brent crude briefly slipped about $0.60 a barrel.
+
+---
+
+### 2026-05-30 00:33:46  #國際
+
+【以色列國防軍稱打死4名哈馬斯成員】當地時間5月29日，以色列國防軍稱，在28日對加沙地帶的空襲中，打死了4名伊斯蘭抵抗組織（哈馬斯）成員。以軍稱，這4名哈馬斯成員對以軍構成直接威脅，故採取有針對性的方式將其打死，以消除威脅。（央視新聞）
+
+---
+
+### 2026-05-30 00:33:06  #MKT News #Important #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+Senior Iranian source says Iran and the United States have reached a political consensus, but it is not yet final.
+
+---
+
+### 2026-05-30 00:31:47  #國際
+
+俄羅斯總統普京： 俄方將自行決定是否會見歐盟特使。
+
+---
+
+### 2026-05-30 00:31:31  #MKT News #XAUUSD #Impact bullish #DXY
+
+Putin, referring to threats against Russia's Kaliningrad exclave, said Russia has the means to destroy anyone who attempts to threaten it.
+
+---
+
+### 2026-05-30 00:30:02  #國際
+
+俄羅斯總統普京：是否與俄羅斯展開談判，決定權在歐洲方面。
+
+---
+
+### 2026-05-30 00:29:39  #MKT News #Important
+
+Iranian sources said Trump’s claim that Iran holds stocks of highly enriched uranium is untrue. Any potential memorandum of understanding between Tehran and Washington would not cover nuclear issues.
+
+---
+
+### 2026-05-30 00:29:21  #國際
+
+市場訊息：檔案顯示， Meta 旗下 MCI 追蹤工具可捕獲發往美國員工的境外資料。
+
+---
+
+### 2026-05-30 00:27:26  #國際
+
+俄羅斯總統普京：俄羅斯擁有一切手段，足以擊潰任何膽敢進犯的勢力。
+
+---
+
+### 2026-05-30 00:26:43  #觀點
+
+【MiniMax Group Inc.啟動上市輔導】據證監會官網顯示，MiniMax Group Inc.於2026年5月29日正式啟動上市輔導，中信證券擔任輔導機構。
+
+---
+
+### 2026-05-30 00:24:58  #MKT News
+
+A NATO military headquarters spokesman said the alliance is assessing how to strengthen Romania's and NATO's defenses against drone threats.
+
+---
+
+### 2026-05-30 00:24:23  #其他
+
+北約發言人表示，北約正評估如何強化羅馬尼亞及北約整體針對無人機威脅的防禦能力。
+
+---
+
+### 2026-05-30 00:24:15  #MKT News
+
+Putin said Russia is prepared to continue negotiations on Ukraine.
+
+---
+
+### 2026-05-30 00:24:00  #MKT News
+
+Russian President Putin said any location that poses a threat to Russia is a legitimate target for Russian strikes.
+
+---
+
+### 2026-05-30 00:23:25  #國際
+
+俄羅斯總統普京： 俄方願繼續就烏克蘭問題展開談判。
+
+---
+
+### 2026-05-30 00:22:54  #央行 #國際
+
+【美國貨幣市場基金規模創紀錄，類現金資產需求旺盛】由於美聯儲貨幣政策路徑的不確定性刺激對類現金資產的需求，投資者將美國貨幣市場基金的總規模推高至創紀錄的8.281萬億美元。根據Crane Data LLC的最新資料，截至5月28日當週，約有660億美元湧入貨幣市場基金行業。其中約410億美元是週四流入的，投資者在月底前調整投資組合。今年以來，貨幣市場基金累計已吸引約1720億美元資金。根據Crane Data資料，截至5月28日，美國貨幣市場基金7天平均收益率為3.34%。
+
+---
+
+### 2026-05-30 00:22:50  #國際
+
+俄羅斯總統普京： 所有對俄羅斯構成威脅的地點，均是俄羅斯的合法打擊目標。
+
+---
+
+### 2026-05-30 00:22:45  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+A NATO military headquarters spokesperson said the drone that crashed in Romania originated from Russia.
+
+---
+
+### 2026-05-30 00:22:09  #國際
+
+俄羅斯總統普京：烏克蘭當前的局面是歐盟的政策所致，俄羅斯並未威脅歐洲。
+
+---
+
+### 2026-05-30 00:21:43  #MKT News
+
+Putin says Russia has not threatened Europe.
+
+---
+
+### 2026-05-30 00:19:57  #公司 #觀點 #國際
+
+摩根大通CEO戴蒙：希望美國能更加支援烏克蘭（而不是以色列）。
+
+---
+
+### 2026-05-30 00:19:48  #MKT News
+
+Putin said claims that Russia is preparing to go to war with Europe are lies.
+
+---
+
+### 2026-05-30 00:19:32  #MKT News
+
+Russian President Putin said that, given the battlefield situation, Russia has the right to speak and the situation will soon end.
+
+---
+
+### 2026-05-30 00:19:06  #國際
+
+俄羅斯總統普京：有關俄羅斯準備與歐洲開戰的說法純屬謊言。
+
+---
+
+### 2026-05-30 00:19:02  #MKT News
+
+Russian President Putin said Western media reports alleging an attack on Starobilsk in the Luhansk region are false and that the outlets should be ashamed.
+
+---
+
+### 2026-05-30 00:18:16  #國際
+
+俄羅斯總統普京：結合戰場態勢，我們有理由認為局勢即將走向尾聲。
+
+---
+
+### 2026-05-30 00:17:47  #國際
+
+俄羅斯總統普京： 西方媒體對盧甘斯克州斯塔羅別利斯克遇襲事件的報道失實，他們應當感到羞愧。
+
+---
+
+### 2026-05-30 00:17:08  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Russian President Putin said he would not give a specific timeline for his earlier remark that the Ukraine conflict would soon end, adding he had analyzed the battlefield when he made the comment and that Russian forces are advancing daily.
+
+---
+
+### 2026-05-30 00:16:20  #國際
+
+俄羅斯總統普京： 俄軍每日都在向前推進。
+
+---
+
+### 2026-05-30 00:15:01  #國際
+
+俄羅斯總統普京談及此前 “烏克蘭局勢即將收尾” 的表態：我不會給出具體時間。
+
+---
+
+### 2026-05-30 00:13:53  #MKT News #Market Regions #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Romania closes Russian consulate in Constanta】Romanian president on the 29th declared the Russian consul in Constanta persona non grata and ordered the consulate closed.
+
+---
+
+### 2026-05-30 00:11:59  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.42% Higher — The FTSE MIB Index gained 211 points or 0.42 percent on Friday to close at 50037 points. Gains were led by Banca Mediolanum (1.98%), Nexi (1.98%) and Finecobank (1.75%). Biggest losers were Amplifon (-2.13%), Prysmian (-2.03%) and Stellantis N.V. (-1.97%).
+
+---
+
+### 2026-05-30 00:11:51  #國際
+
+【羅馬尼亞關閉俄羅斯總領事館】羅馬尼亞總統達恩29日宣佈俄羅斯駐康斯坦察總領事為“不受歡迎的人”，並關閉該總領事館。達恩在總統府會議後發表宣告作上述表示。他稱俄無人機在羅馬尼亞境內墜毀事件致使2名羅公民受傷，“所有責任歸於俄羅斯”。（新華社）
+
+---
+
+### 2026-05-30 00:11:27  #國際
+
+【日本首次向北約援助烏克蘭機構派駐自衛官 】日本防衛大臣小泉進次郎29日表示，日本防衛省、自衛隊將首次向北約對烏克蘭安全援助和訓練機構派遣4名自衛官。防衛省稱，此次派遣人員包括2名陸上自衛官、1名海上自衛官和1名航空自衛官，派遣期限為1年，將從6月開始工作。派遣人員不參與實際戰鬥。小泉說，此次派遣將有助於日本獲取烏克蘭戰場上呈現出的“新型作戰方式”等各類經驗教訓，強化日本自身防衛體制，並進一步深化日本與北約合作。（新華社）
+
+---
+
+### 2026-05-30 00:10:59  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.05% Higher — The DAX Index went up by 12 points or 0.05 percent on Friday to close at 25105 points. The rise was led by Zalando (2.98%), SAP (2.93%) and HeidelbergCement (2.35%). On the downside, the weakerst performers were Beiersdorf (-3.54%), Bayer (-3.46%) and Siemens Energy (-2.11%).
+
+---
+
+### 2026-05-30 00:09:59  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index rose 38 points or 0.46 percent on Friday to close at 8227 points. Leading the gains are TP (4.53%), Societe Generale (2.27%) and Kering (2.03%). Top losers were Air Liquide (-2.15%), Stellantis NV (-2.08%) and Sanofi (-1.61%).
+
+---
+
+### 2026-05-30 00:09:52  #MKT News #WTI #Impact bearish #Brent
+
+Al Jazeera reporter: Despite disagreements between Tehran and Washington over some outstanding documents, both sides appear ready for a formal announcement; the main remaining obstacle may be reaching consensus on those issues.
+
+---
+
+### 2026-05-30 00:08:13  #公司
+
+【城堡證券交易業務收入達到創紀錄的43億美元】城堡證券一季度交易收入創下 43 億美元的歷史新高，受益於市場波動帶來的紅利。 據知情人士透露，公司一季度交易收入較去年同期增長 28%；淨利潤增長近 10% 至 19 億美元。 部分同行也紛紛創下業績新高，甚至超越華爾街傳統投行。簡街集團今年一季度交易收入達創紀錄的 161 億美元，同比翻番以上；初步預估資料顯示，哈德遜河交易公司一季度交易收入為 64 億美元，超過其 2025 年全年總收入的一半。
+
+---
+
+### 2026-05-30 00:08:03  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close Higher — European stocks closed higher on Friday amid softer than expected inflation data, while markets continued to gauge the likelihood of a deal in Iran. The Euro STOXX 50 added 0.3% to 6,065 and the STOXX Europe 600 inched 0.2% higher to 626.5. US President Trump's final approval was still pending following reports that the US and Iran agreed to a memorandum that would pave the way to restore tanker flows from the Strait of Hormuz, lowering energy prices and sovereign yields this week. Additionally, EU-harmonized inflation rates were lower than expected in Germany and France, raising hopes that the ECB will deliver multiple rate hikes this year. Banks closed higher following a volatile week, with BBVA, UniCredit, and BNP Paribas adding around 1.5%. In turn, SAP jumped 2.4% on a rebound for US software firms. Meanwhile, AstraZeneca rose 1% after receiving US approval for a bladder cancer treatment. The Euro STOXX 600 added 0.6% this week and the STOXX Europe 600 edged 0.2 higher.
+
+---
+
+### 2026-05-30 00:06:59  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.08% Higher — The FTSE 100 Index gained 8 points or 0.08 percent on Friday to close at 10434 points. Gains were led by Easyjet Plc (4.79%), Auto Trader (4.71%) and Endeavour (3.58%). Biggest losers were British American Tobacco (-2.83%), SSE (-2.25%) and Tesco (-2.23%).
+
+---
+
+### 2026-05-30 00:06:13  #國際
+
+美國國務卿魯比奧：與巴基斯坦副總理兼外交部長會面，並感謝他為巴基斯坦在推動中東和平程序中持續發揮的作用。我們一致認為，共同努力進一步加強兩國之間有意義的夥伴關係，以實現更好的安全和更大的繁榮的重要性。
+
+---
+
+### 2026-05-30 00:05:22  #其他 #焦點 #國際
+
+城堡證券斬獲 43 億美元交易收益，創下歷史新高。
+
+---
+
+### 2026-05-30 00:04:59  #公司 #市場 #國際
+
+【丹麥養老基金“拉黑”SpaceX 批評其災難性的公司治理結構】一家管理著250億美元資產的丹麥養老基金今年早些時候因拋售美國國債而受到關注，當時唐納德·特朗普曾威脅要奪取格陵蘭島。如今，該基金表示不會投資SpaceX。AkademikerPension首席投資官Anders Schelde表示，SpaceX不僅被“嚴重高估”，而且還存在“災難性的公司治理結構”。SpaceX當前對首次公開募股(IPO)的目標估值至少為1.8萬億美元。行業研究認為，SpaceX的上市檔案暴露出明顯的公司治理問題，其中包括馬斯克對公司擁有“近乎絕對的控制權”。Schelde表示，即使SpaceX的估值合理，AkademikerPension仍會將其列入投資黑名單。他指出，馬斯克預計將掌握約80%的投票權，同時兼任執行長、技術長和董事會主席等多個關鍵職務。
+
+---
+
+### 2026-05-30 00:04:41  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Ends Near Flat as Inflation Offsets Ceasefire Hopes — The CAC 40 closed nearly flat at 8,183 on Friday as investors weighed domestic economic data and prospects for peace in the Middle East. France’s economy contracted 0.1% quarter-on-quarter in Q1 2026, reversing a 0.2% expansion in the previous quarter and marking the first contraction since Q2 2020. Preliminary data also showed annual inflation accelerated to 2.4% in May from 2.2% in April, the highest level since February 2024, largely driven by higher energy prices amid ongoing Middle East tensions. Meanwhile, markets assessed the likelihood of an extension to the US-Iran ceasefire after reports that both sides had agreed to a framework deal pending approval from US President Donald Trump. Luxury stocks weighed on the index, with LVMH down 1.6% and L'Oréal losing 1%, while industrials advanced, with Airbus up 1.1% and Safran gaining 0.9%.
+
+---
+
+### 2026-05-30 00:04:35  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+【Putin: Russia will investigate Romanian drone incident if objective data emerges】Russian President Putin said on May 29 he could not determine the drone's origin without forensic analysis and that Russia would open an investigation if objective data emerged. He added the drone that crashed in Romania could be Ukrainian. Romania's Defence Ministry said on May 29 a Russian drone crashed into an apartment building, ignited a fire and injured two people.
+
+---
+
+### 2026-05-30 00:04:07  #國際
+
+【伊朗知情人士：特朗普言論“真假參半”】據伊朗法爾斯通訊社29日報道，伊朗知情人士駁斥了美國總統特朗普關於可能與伊朗達成協議的言論，稱其“真假參半”，試圖描繪一場捏造的勝利。“幾乎所有人都已清楚，這些說法缺乏可信度。”（新華社）
+
+---
+
+### 2026-05-30 00:02:58  #國際
+
+【普京：若獲得客觀資料 俄方將調查羅馬尼亞無人機事件】俄羅斯總統普京5月29日在哈薩克出席歐亞經濟聯盟框架內系列活動後，於結束訪哈行程前召開記者會。普京就羅馬尼亞無人機事件評論稱，在完成必要的專業鑑定之前，無人能斷定這架無人機的來源。如獲得關於無人機在羅馬尼亞墜毀事件的客觀資料，俄方將進行客觀調查。普京表示，在羅馬尼亞墜毀的無人機，可能是烏克蘭的。羅馬尼亞國防部當地時間29日釋出新聞公報稱，一架俄羅斯無人機在羅馬尼亞一棟公寓樓墜毀並引發火災，致兩人受傷（央視新聞）
+
+---
+
+### 2026-05-30 00:01:19  #國際
+
+美國國際貿易委員會（USITC）稱，俄羅斯未加工鈀金未對美國相關產業造成損害。
+
+---
+
+### 2026-05-30 00:01:19  #MKT News
+
+U.S. International Trade Commission found that unprocessed palladium from Russia did not injure U.S. industry.
+
+---
+
+### 2026-05-30 00:00:10  #國際
+
+【因伊朗戰爭受困的大型油輪中已有四分之一駛出海峽】在伊朗戰爭爆發時被困於波斯灣內的非伊朗大型油輪中，目前已有約四分之一透過緩慢而隱秘的方式駛離。彭博彙編的航運資料顯示，在2月28日衝突爆發導致霍爾木茲海峽基本陷入停擺後，滯留灣內的109艘運載能力在70萬桶以上的大型油輪中有29艘已透過這一咽喉要道。儘管這僅佔仍被困在波斯灣內原油和油品的一小部分，但隨著全球庫存以前所未有速度下降，這些貨物迅速被市場消化。由於許多船隻關閉了廣播自身位置的裝置，實際駛離的船隻數量可能更高。
+
+---
+
+### 2026-05-29 23:59:13  #市場
+
+受AI伺服器需求激增與戴爾股價大漲推動，Michael Dell身家飆升至2430億美元，正式反超Mark Zuckerberg的2151億美元，躍居全球富豪榜前六。
+
+---
+
+### 2026-05-29 23:58:32  #國際
+
+伊朗法爾斯通訊社29日援引知情人士的話說，與美國的協議文字正處於伊朗國內審批的最後階段，伊方尚未作出最終決定。（新華社）
+
+---
+
+### 2026-05-29 23:56:19  #其他
+
+【奈及利亞將首都和9個州列為埃博拉應對高風險地區 】奈及利亞疾病預防控制中心日前發表宣告說，該國首都阿布賈和9個州被列為埃博拉疫情應對高風險地區。
+
+---
+
+### 2026-05-29 23:55:50  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Edges Down, But Climbs 20% in May — The Baltic Exchange dry bulk index, which measures shipping rates for vessels carrying dry commodities, slipped 0.1% to 3,224 on Friday. The capesize index, covering ships that typically transport 150,000 ton cargoes such as iron ore and coal, fell 0.3% to 5,503. In contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 0.5% to 2,343. The supramax index was unchanged at 1,569. Despite the decline, the broader Baltic index gained 20% over the month of May.
+
+---
+
+### 2026-05-29 23:53:28  #MKT News #WTI #Impact bullish #Brent
+
+EIA: U.S. gasoline demand in March rose 1.0% YoY to 8.853 mln b/d; February was down 1.1% YoY.
+
+---
+
+### 2026-05-29 23:52:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: U.S. distillate fuel demand in March rose 0.3% YoY to 3.904 mln b/d, following a 5.4% YoY increase in February.
+
+---
+
+### 2026-05-29 23:52:10  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Gains on US-Iran Ceasefire Optimism — The FTSE MIB added 0.4% to close at 50,037 on Friday, supported by optimism over an extended ceasefire agreement between the US and Iran, although US President Donald Trump has yet to formally approve the deal. The development pushed oil prices lower, weighing on bond yields and supporting financials and the broader index. UniCredit gained 1.8%, while Intesa Sanpaolo and Generali added 1%. Luxury stocks also traded higher amid improved risk appetite, with Ferrari up 0.5% and Moncler advancing 0.9%. Other notable gainers included Poste Italiane (+1.4%) and TIM (+1.2%). In contrast, energy-related stocks retreated on lower oil prices, with Eni down 0.5% and Prysmian losing 1.5%. On the data front, the Italian headline inflation rate rose to 3.2% in May from 2.7% in April, aligning with forecasts. The unemployment rate edged down to 5.1% in April, below expectations of 5.3%. GDP expanded by 0.8% from the previous year in the first quarter of 2026, revised from estimates of 0.7%.
+
+---
+
+### 2026-05-29 23:52:05  #國際
+
+【伊朗方面駁斥特朗普關於可能與伊朗達成協議的說法】據伊朗媒體Fars News：知情人士駁斥了特朗普關於可能與伊朗達成協議的最新說法，稱其言論“真假參半”，旨在炮製一場虛假的勝利。如今幾乎所有人都已看清，特朗普的這些說法根本站不住腳。據相關報道，這份以“對等承諾”形式起草的協議文字，目前正處於伊朗國內批准程式的最後階段，尚未做出最終決定。與此形成鮮明對比的是，特朗普卻丟擲了一些與協議文字條款相悖的議題。與此同時，他卻宣稱將立即解除封鎖。 特朗普對協議核心內容的歪曲包括：1.特朗普聲稱，伊朗有義務在不收取任何費用的前提下開放霍爾木茲海峽；然而，協議文字中根本不存在此類條款。2.特朗普聲稱，伊朗將拆除或銷燬其核材料。知情人士強調指出，不僅諒解備忘錄中毫無此類內容，特朗普的這一說法更是徹頭徹尾的無稽之談。 特朗普刻意迴避的協議關鍵條款：1.特朗普隻字未提、卻至關重要的一項內容，即關於立即解凍並向伊朗支付120億美元被凍結資產的先決條件。2.黎巴嫩停火。3.伊朗官員亦強調，最終協議將以伊朗伊斯蘭共和國的原則與“紅線”為基礎。
+
+---
+
+### 2026-05-29 23:51:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: U.S. oil demand in March rose 2.2% YoY to 20.383 mln b/d, compared with a 4.5% YoY increase in February.
 
 ---
 
@@ -21512,433 +21902,5 @@ United States | EIA Weekly Crude Oil Input Into Refineries Change (May.22) | act
 ### 2026-05-29 00:00:01  #MKT News #Economic Calendar #Important
 
 United States | EIA Weekly Crude Oil Stocks Change (May.22) | actual -3327000M | consensus -4143000M | previous -7863000M
-
----
-
-### 2026-05-28 23:59:31  #國際
-
-【美國兩黨重劃選區爭奪白熱化】美國將於11月迎來國會中期選舉，目前民主、共和兩黨正試圖透過操縱選區邊界獲取選舉上的優勢，併為此大打官司。5月26日，在亞拉巴馬州和南卡羅來納州，美國兩黨“重劃選區”之爭日趨白熱化。美國媒體分析，共和黨人在當前的“選區版圖戰”中局面佔優，有望額外新增約10個國會眾議院議席，民主黨人則有望利用特朗普支援率低迷、伊朗戰事引發油價飆漲等因素爭取選民。專家表示，現在這場選區重劃的本質，是極限黨爭，是對民意的極大無視，也再次暴露了美式民主的虛偽性。（CCTV國際時訊）
-
----
-
-### 2026-05-28 23:59:12  #公司
-
-【恆合股份：取得1項發明專利證書】恆合股份公告，2026年5月26日公司收到國家智慧財產權局頒發的1項發明專利證書，發明名稱為一種油氣處理方法、裝置、介質和產品。
-
----
-
-### 2026-05-28 23:58:53  #市場 #國際
-
-【美國國債上漲 因據報美伊達成延長停火的協議】美國國債上漲，據報美伊已達成延長停火的協議，並正在就徹底結束戰爭進行談判。週四的走勢推動國債收益率下跌，與油價回落同步。不過，據Axios報道，該協議仍需美國總統特朗普批准。在美國關鍵通脹指標升幅低於預期後，美債收益率從盤中高點回落。Axios的報道刺激收益率一度大幅下跌，但隨後跌幅有所收窄，各期限收益率最新下跌約2至3個基點。
-
----
-
-### 2026-05-28 23:58:31  #公司
-
-英國機構股東諮詢公司PIRC建議Alphabet股東投票支援一項要求加強氣候目標資訊披露的股東決議。
-
----
-
-### 2026-05-28 23:57:16  #公司
-
-巴黎檢察官辦公室已就一名瑞士律師涉嫌為愛馬仕股份挪用謀取路易威登集團利益一事，對其啟動正式調查。蒙塔馮拒絕置評，路威酩軒再次否認挪用愛馬仕股份。
-
----
-
-### 2026-05-28 23:57:09  #公司
-
-巴黎檢察官辦公室表示，挪用公款指控涉及愛馬仕家族繼承人尼古拉·皮埃奇所持股份。
-
----
-
-### 2026-05-28 23:56:56  #宏觀 #國際
-
-【歐盟擬出臺激勵措施，推動各國政府採購本土初創企業生產的晶片】一份檔案顯示，歐盟委員會計劃推動各成員國採購本土初創企業生產的晶片，以此降低歐洲對美國等晶片產品的依賴。這項名為《晶片法案 2.0》的提案，是對三年前生效的初代《晶片法案》的補充。初代法案原定吸引先進晶片產能落地，併力爭到 2030 年將歐盟全球晶片市場份額提升一倍至 20%，但目前相關目標尚未實現。檔案指出，初代《晶片法案》側重供給端舉措，而晶片法案 2.0將主攻需求端。檔案提到：“新版法案將推出需求促進機制，透過包銷協議與需求對接平臺，打通供需兩端，提升歐盟自研、自產晶片的應用規模。”
-
----
-
-### 2026-05-28 23:55:57  #國際
-
-真主黨：為保衛黎巴嫩及本國民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成多名平民傷亡的行徑，伊斯蘭抵抗武裝人員於2026 年 5 月 28 日凌晨 2 時，向東扎烏塔爾鎮內以軍車輛及人員集結地發動火箭彈齊射。
-
----
-
-### 2026-05-28 23:55:29  #其他
-
-世界衛生組織：截至5月27日，共報告漢坦病毒病例13例，其中包括3例死亡。
-
----
-
-### 2026-05-28 23:55:25  #國際
-
-以色列總理內塔尼亞胡： 以色列的人均GDP現在接近7萬美元。 我們已經超過英國、德國、義大利——所有這些國家。 我們還有很長的路要走，但我們已經超過大多數西方國家。
-
----
-
-### 2026-05-28 23:54:55  #公司 #國際
-
-美國南方司令部： 厄瓜多的舉措重創並削弱了這些在美洲地區製造恐慌、滋生暴力的非法網路。美洲反販毒集團聯盟持續為西半球及美國本土築牢安全防線。
-
----
-
-### 2026-05-28 23:54:33  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Snaps 8-Session Wining Streak — The FTSE 100 fell 0.7% on Thursday, ending an eight-session winning streak as broad declines across banks, healthcare and utility stocks outweighed gains in energy and defence shares. Sentiment shifted throughout the session after renewed US airstrikes on Iran pushed oil prices higher, before an Axios report later suggested the US and Iran were close to extending their ceasefire pending approval from President Donald Trump. HSBC fell around 1.7%, while Lloyds and Barclays lost 0.7% to 0.8%. AstraZeneca dropped 1.8% and GSK fell 1.2%, while Unilever and BAT each declined about 1.4%. Utilities were among the weakest performers, with National Grid and Severn Trent down more than 3%, while Centrica and SSE also fell after SSE warned it is unlikely to meet its 2030 renewable energy target. In contrast, Shell and BP posted modest gains, while defence stocks rallied with Rolls Royce (+1.5%), BAE Systems (>3%) and Babcock (~5%) all moving higher.
-
----
-
-### 2026-05-28 23:54:31  #公司 #國際
-
-美國讚揚厄瓜多打擊販毒集團的“果斷行動”。
-
----
-
-### 2026-05-28 23:52:54  #其他
-
-德國思愛普Sap六年來首次從債券市場融資，透過發行四種到期時間債券募集35億歐元，認購金額超過91.5億歐元。
-
----
-
-### 2026-05-28 23:52:20  #國際
-
-澤連斯基：關於各合作板塊啟動事宜，我們亟需各國明確立場，避免工作受阻。我們預計在六月及整個夏季，相關工作能取得進展。我們計劃在未來數週率先啟動首個基礎板塊，隨後推進其餘板塊的落地。
-
----
-
-### 2026-05-28 23:51:51  #市場 #焦點
-
-現貨白銀突破75美元/盎司，日內漲0.56%。
-
----
-
-### 2026-05-28 23:51:29  #公司
-
-雪佛龍執行長表示，與哈薩克就延長田吉茲雪佛龍（TengizChevroil）合同的談判“進展順利”。
-
----
-
-### 2026-05-28 23:51:23  #國際
-
-【以軍稱已打死近三分之一黎巴嫩真主黨武裝人員】以色列國防軍發言人埃菲·德弗林當地時間28日表示，在近年來的多線作戰中，以軍已消滅了接近三分之一的黎巴嫩真主黨武裝力量。德弗林當天在北方司令部發布的一段影片宣告中說，自敵對行動升級以來，以軍已打死超過2500名黎真主黨武裝人員。德弗林稱黎真主黨大約擁有3萬名武裝人員，以軍已經打死其中近三分之一。德弗林還表示，以軍近期打擊了黎真主黨的區域指揮官和作戰人員，從而對其指揮與控制能力造成了重大打擊。（央視新聞）
-
----
-
-### 2026-05-28 23:50:52  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Slips on Middle East Tensions — The CAC 40 fell 0.2% to close at 8,190 on Thursday, reversing gains from the previous session as investors turned cautious amid renewed US-Iran tensions. Oil prices rebounded after Iran said it had attacked a US air base in response to fresh US strikes, reviving stagflation fears and pushing global bond yields higher. Domestically, French producer prices rose 2.1% year-on-year in April 2026, accelerating sharply from a flat reading in March and marking the highest level since June 2023. Investors also looked ahead to Friday’s releases of France’s final Q1 GDP figures, inflation data, and payrolls report for further clues on the economic outlook. Financials weighed on the index, with BNP Paribas down 0.7% and AXA losing 2.1%. Other notable laggards included Sanofi (-1.4%) and Schneider Electric (-0.9%). Luxury stocks traded mixed, with LVMH down 0.5% while L'Oréal gained 0.5%. In contrast, industrial stocks advanced, with Airbus up 2.3% and Safran gaining 1.6%.
-
----
-
-### 2026-05-28 23:50:48  #市場 #央行 #國際
-
-【金價重返每盎司4,500美元上方，市場等待美伊談判突破】金價重返正值區域，期貨價格上漲0.6%，至每盎司4,508.80美元，與此同時，交易員正密切等待美伊談判取得突破，並評估最新的美國經濟資料。GDP資料顯示，第一季度美國經濟增速低於此前預期，不過美聯儲青睞的環比價格漲幅指標在4月份的增速也有所放緩。凱投宏觀的分析師表示：“4月份核心個人消費支出價格指數(PCE)不及預期的漲幅為美聯儲贏得了一些時間，使其可以觀望油價上漲將如何傳導至更廣泛的通脹壓力。”霍爾木茲海峽幾近關閉推高了能源價格，加劇了通脹，並引發了對利率將在更長時間內維持高位的擔憂，這通常會拖累黃金等無收益資產的前景。
-
----
-
-### 2026-05-28 23:48:51  #國際
-
-以色列總理內塔尼亞胡： 以色列不再僅僅是一個地區強國——它已經是全球強國。 為什麼是全球強國？因為我們擁有世界一流的技術。
-
----
-
-### 2026-05-28 23:48:12  #公司
-
-雪佛龍執行長表示，向資料中心提供天然氣發電可能成為其投資組合中的一個增長領域。
-
----
-
-### 2026-05-28 23:46:53  #公司 #市場 #觀點 #國際
-
-【摩根士丹利：如果海峽重新開放，歐洲航空公司和奢侈品公司等蘊藏機遇】摩根士丹利分析師寫道，如果美伊重開霍爾木茲海峽的談判取得進展，歐洲航空公司、航空航天和奢侈品公司是最有望從中受益的板塊。他們表示，如果和平談判取得進展，能源密集型的建築和汽車類股也將上漲。更廣泛地看，如果這條關鍵水道重新開放，歐洲有望擺脫相對低迷的狀態。這些分析師寫道：“如果協議取得任何進展，我們預計歐盟股市將持續復甦，此前歐盟股市表現大幅落後於美國股市，自伊朗局勢升溫以來資金流入低迷，且盈利增長健康。”
-
----
-
-### 2026-05-28 23:46:27  #國際
-
-以色列總理內塔尼亞胡： 經此一役，我們已然成為中東地區實力最強的力量。 以色列如今的實力空前強大。
-
----
-
-### 2026-05-28 23:45:56  #市場
-
-芝加哥期權交易所波動率指數觸及四個月新低；最新報15.96，下跌0.33點。
-
----
-
-### 2026-05-28 23:44:49  #市場 #國際
-
-【凱投宏觀：交易員等待美伊事態發展之際，油價收窄漲幅】隨著交易員密切關注美伊重新開放霍爾木茲海峽談判的事態發展，油價收窄漲幅。7月交割的布倫特原油期貨上漲0.5%，至每桶94.80美元，而西得州中質油期貨上漲1.2%，至每桶89.73美元。在美國和伊朗交火引發對本已脆弱的停火協議的擔憂之後，這兩大基準原油在盤中早些時候均上漲了超過2.5%。儘管如此，凱投宏觀的分析師表示：“雖然重新開放該海峽是全球能源市場邁向正常化的必要一步，但僅靠這一點不足以使能源價格迅速回落至戰前水平。恢復到戰前的石油出口水平需要時間，可能會一直持續到2027年。”該機構預計第四季度布倫特原油價格將在每桶80至90美元之間。
-
----
-
-### 2026-05-28 23:43:53  #國際
-
-伊朗最高領袖派駐革命衛隊的代表阿卜杜拉・哈吉・薩德吉週四表示，伊朗絕不會與美國、以色列建立友好關係，並稱談判並不意味著對他口中的敵方產生信任或交好。
-
----
-
-### 2026-05-28 23:42:17  #央行 #國際
-
-【美聯儲官員穆薩萊姆稱不能指望AI降低通脹 與主席沃什看法相左】聖路易斯聯邦儲備銀行行長阿爾伯託·穆薩萊姆表示，政策制定者不能指望人工智慧可能帶來的生產率激增來緩解高企的通脹。穆薩萊姆週四在為冰島雷克雅未克一場會議準備的講話中表示，“我認為，依靠未來生產率增長走高的前景來解決當下的通脹問題是風險之舉。”美伊戰爭加劇了物價壓力，並促使更多政策制定者警告稱如果通脹持續高企，可能需要進一步提高利率。根據4月28日至29日聯邦公開市場委員會(FOMC)會議紀要，許多官員原本希望刪除美聯儲4月會後宣告中暗示利率方向“寬鬆傾向”的措辭。穆薩萊姆提醒道，考慮到通脹因素，美聯儲的基準利率低於所謂“中性利率”這一既不會減緩也不刺激經濟的水平。他還表示，勞動力市場穩定，通脹“顯著高於”美聯儲2%的目標，長期通脹預期“正在走高”。沃什認為，人工智慧有望帶來生產率的大幅提升，從而在不導致通脹的情況下實現增長，並帶來更低的利率。
-
----
-
-### 2026-05-28 23:41:39  #其他
-
-市場訊息：以黎兩軍高層將於明日在五角大樓舉行會談。
-
----
-
-### 2026-05-28 23:40:55  #國際
-
-【俄羅斯警告日本勿部署美方導彈】俄羅斯外交部發言人扎哈羅娃5月28日在例行記者會上表示，俄方將美日聯合演習中部署“堤豐”導彈系統視為威脅俄國家安全及亞太地區穩定的舉動。扎哈羅娃指出，無論美方導彈是以臨時部署、輪換駐紮還是常設基地形式出現在日本，俄方均視作對俄遠東邊境構成直接戰略威脅，並嚴重破壞亞太安全格局。俄方此前已多次透過外交渠道向日本政府提出交涉，警告日方不要做出此類蓄意敵對、無視俄國家利益的決定。扎哈羅娃同時重申，自2025年8月起，俄方不再受陸基中短程導彈部署暫停令的約束。她強調，俄將全面評估美日此舉帶來的戰略風險，並制定強硬且長期有效的軍事技術反制措施加以應對。（CCTV國際時訊）
-
----
-
-### 2026-05-28 23:40:33  #其他
-
-【深圳用電負荷連續兩年突破2400萬千瓦 新質生產力成重要拉動力】南方電網深圳供電局資料顯示，28日17時10分，深圳電網用電負荷創歷史新高，達2430.19萬千瓦，連續兩年突破2400萬千瓦，較去年最高負荷（2401.12萬千瓦）增長1.21%。本次負荷創新高較去年提前40天。 今年以來，深圳經濟發展穩健向好，特別是新質生產力不斷壯大，疊加近期持續性高溫天氣帶來的降溫需求，深圳電網電力負荷、用電量持續快速攀升。根據預測，今年深圳電網最高負荷或將達到2620萬千瓦，較去年最高負荷增長9.1%。（新華社）
-
----
-
-### 2026-05-28 23:40:01  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Swing Higher to New Records — US stocks wavered following reports that the US and Iran reached a deal to halt their conflict. The S&P 500 and the Nasdaq 100 swung 0.5% higher to new records while the Dow hovered close to the flatline. Washington and Tehran reportedly agreed to a 60-day memorandum to extend the ceasefire and gradually restore energy exports from the Persian Gulf. Bond yields eased as energy prices pared their rebound, despite data that favors a hawkish Federal Reserve. Jobless claims and consumer spending remained robust, while PCE inflation rose to a three-year high. AI software and infrastructure patrons were sharply higher, with Microsoft, Oracle, and Palantir gaining between 3% and 4%. On the other hand, financial stocks extended to slower momentum with Visa and Blackrock dropping close to 2%. Snowflake surged 30% on a strong outlook, although the result did not spread to other software companies. Salesforce fell 2% after its earnings report.
-
----
-
-### 2026-05-28 23:39:50  #其他
-
-【岑浩輝：澳門特區政府全力推進APEC旅遊部長會議各項籌備工作】澳門特區行政長官岑浩輝28日表示，第十三屆APEC旅遊部長會議將於6月24日至28日在澳門舉行。澳門特區政府正在中央政府指導下全力推進各項籌備工作，確保會議取得圓滿成功。 岑浩輝當晚出席特區政府舉辦的外國駐港澳總領事及中葡論壇常設秘書處代表團招待會。他表示，自2014年後，時隔12年澳門再次承辦APEC旅遊部長會議，充分體現了中央政府對澳門特區政府的高度信任與大力支援，也進一步彰顯了澳門作為連線中國與世界的重要橋樑角色。（新華社）
-
----
-
-### 2026-05-28 23:39:30  #宏觀 #國際
-
-美國財政部將多家哥倫比亞企業移出制裁名單。
-
----
-
-### 2026-05-28 23:38:38  #央行 #國際
-
-美國4月達拉斯聯儲12個月截尾均值PCE價格指數同比上升2.5%，前值上升2.9%。
-
----
-
-### 2026-05-28 23:38:28  #國際
-
-據四位現任及前任僱員透露，特朗普政府官員已向負責印製國家貨幣的機構施壓，要求設計一款印有總統肖像的250美元紙幣；若此舉成真，將是150多年來首次有在世人物出現在美國貨幣上。
-
----
-
-### 2026-05-28 23:36:27  #公司
-
-巴西國家石油公司（PETROBRAS）宣佈，汽油價格每升上調0.44雷亞爾。
-
----
-
-### 2026-05-28 23:36:25  #公司
-
-巴西國家石油公司（PETROBRAS）上調對經銷商的汽油價格。
-
----
-
-### 2026-05-28 23:36:16  #公司
-
-明晟公司MSCI北歐國家指數跌1.0%，連續第三個交易日走低，報394.43點。在十個板塊中，北歐工業板塊跌幅最大。Alfa Laval AB跌3.3%，在一眾北歐個股裡表現最差。
-
----
-
-### 2026-05-28 23:36:07  #公司
-
-雪佛龍執行長預計，到2028年，其委內瑞拉合資專案的產量將增長50%。
-
----
-
-### 2026-05-28 23:36:00  #央行 #國際
-
-【紐約聯儲行長稱當前貨幣政策處於良好位置】紐約聯儲行長約翰·威廉姆斯表示，美聯儲的政策為應對伊朗戰爭的經濟影響做好充分準備。儘管這場衝突以及關稅的持續影響推高了通脹，但威廉姆斯表示，他預計未來數月價格漲幅將達峰，從而為官員們評估形勢變化留出空間。“美聯儲的貨幣政策正處於我們希望看到的位置，”威廉姆斯週四在冰島一場央行會議發表演講後的問答環節中表示。“我們處於良好位置，可以在需要作出任何決定之前，繼續關注這場衝突以及其他經濟資料。”
-
----
-
-### 2026-05-28 23:35:47  #國際
-
-歐盟委員會主席：我們將密切合作，應對拉脫維亞和波羅的海夥伴面臨的混合威脅。我們還將聯手打造一個強健、具有競爭力的歐洲工業。
-
----
-
-### 2026-05-28 23:34:41  #市場 #國際
-
-【歐洲主要股指收盤多數下跌】歐洲主要股指收盤多數下跌，德國DAX 30指數初步收跌0.38%，報25082.06點。法國股指初步收跌0.22%，義大利股指初步收漲0.46%，英國股指初步收跌0.75%。
-
----
-
-### 2026-05-28 23:34:39  #國際
-
-【以媒：以色列空襲貝魯特意在打擊伊朗民兵組織指揮官】《以色列時報》28日援引一名以安全訊息人士的話報道說，以軍當天空襲黎巴嫩首都貝魯特的目標是伊朗民兵組織“伊瑪目侯賽因旅”導彈部隊指揮官阿里·侯賽尼。以色列國防軍28日發表宣告說，以軍當天早些時候對貝魯特實施空襲。宣告未透露更多細節。據《以色列時報》報道，“伊瑪目侯賽因旅”導彈部隊與黎巴嫩真主黨協同作戰，目前尚不清楚阿里·侯賽尼是否在空襲中喪生。報道還說，這是以軍自5月6日以來首次空襲貝魯特。自黎以停火以來，應美方要求，以軍大多避免對貝魯特發動襲擊。以色列媒體此前援引以官員的話報道說，美方擔心以軍空襲貝魯特可能影響與伊朗的談判。（新華社）
-
----
-
-### 2026-05-28 23:34:15  #公司 #國際
-
-LG 電子印度公司：有關出售電視業務的訊息純屬猜測。
-
----
-
-### 2026-05-28 23:33:42  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Index Edges Down to 99 — The dollar index fell to 99 on Thursday, retreating from session highs near 99.5, after Axios reported that the US and Iran had reached an agreement to extend the ceasefire, pending approval from President Donald Trump. The dollar was already under pressure following the release of the latest PCE report, which showed softer-than-expected inflation readings. Headline and core PCE rose 0.4% and 0.2% month-over-month, respectively, although annual inflation remained well above the Fed’s target at 3.8% and 3.3%. The data helped ease concerns that the recent energy shock would significantly worsen the inflation outlook. Still, market volatility and uncertainty are expected to persist, as conflicting signals have emerged in recent days and traders continue to await clear confirmation of a lasting end to the conflict, along with the full reopening of the Strait of Hormuz.
-
----
-
-### 2026-05-28 23:33:22  #央行 #國際
-
-亞特蘭大聯儲 GDPNow 模型將美國二季度經濟增速預期從 4.26% 下調至 3.82%。
-
----
-
-### 2026-05-28 23:33:06  #央行 #美聯儲
-
-【美國財政部拍賣四周期國債】美國財政部拍賣四周期國債，得標利率3.630%，投標倍數2.76；拍賣八週期國債，得標利率3.615%，投標倍數3.08。
-
----
-
-### 2026-05-28 23:32:58  #公司
-
-據當地媒體報道，PBF能源公司特拉華城煉油廠發生洩漏，假日週末後有原油流入特拉華河。
-
----
-
-### 2026-05-28 23:32:41  #國際
-
-美國八週期國庫券投標倍數為3.08； 美國出售八週期國庫券，中標利率達3.615%的高位，高利率區間僅授予投標總量的82.33%。
-
----
-
-### 2026-05-28 23:32:22  #市場 #國際
-
-美國至5月28日4周國債競拍-投標倍數 2.76，前值2.6。
-美國至5月28日4周國債競拍-得標利率 3.63%，前值3.61%。
-美國至5月28日4周國債競拍-得標利率配置百分比 41.91%，前值62.57%。
-
----
-
-### 2026-05-28 23:32:12  #公司
-
-雪佛龍執行長邁克·沃思表示，該公司透過向委內瑞拉政府歸還部分資產，改善了自身在委內瑞拉的業務地位。
-
----
-
-### 2026-05-28 23:31:56  #公司
-
-【杭州頂豪專案漏水，濱江集團回應：因公區簷溝被雜物堵塞】近日，杭州暴雨之下，頂豪望天際售樓處室外門樓和室內移門的連線處漏水。對此濱江集團相關人士對介面新聞回應稱，望天際專案因為公區簷溝被雜物堵塞，突發暴雨時導致排水不暢雨水外溢，已於當天晚上全部清理完畢，並於第二天正常對外開放。濱江集團相關人士稱，公司立即對所有在售專案和在建工地進行了全面的排查，以杜絕後續特殊天氣和突發事件可能造成的隱患。針對望天際專案，公司要求專案後續嚴格按照公司的工程管理制度進行建設，也會加強內部的檢查力度和頻次，以確保望天際專案以行業標杆標準高品質交付。此外，針對近期網上“濱江集團法務發函要求影片作者下架相關影片”的傳言，該公司澄清，濱江集團從未對外發布過任何相關資訊，所有官方宣告僅透過公司官方網站、官方新媒體賬號等正規渠道釋出。（介面）
-
----
-
-### 2026-05-28 23:31:34  #市場
-
-標普500指數上漲0.5%，納斯達克100指數上漲0.7%。
-
----
-
-### 2026-05-28 23:30:48  #公司
-
-雪佛龍執行長邁克·沃思表示，公司目前正在出售部分資產。
-
----
-
-### 2026-05-28 23:30:43  #市場 #國際
-
-【美伊據報道達成協議 華爾街交易員推動美股邁向紀錄新高】在市場猜測美國和伊朗接近取得外交突破之際，華爾街交易員推動股市邁向紀錄高點，債市走高，油價回吐漲幅。紐約時間10:56，標普500指數上漲0.3%，納斯達克100指數上漲0.4%，道指基本持平。Axios報道稱，伊朗與美國已達成協議，正在等待特朗普的批准，美股聞訊快速收復失地。標普500指數邁向連續第六個交易日上漲，美國國債收益率全線下跌。Brown Brothers Harriman & Co.的Elias Haddad表示：“市場仍在隨著伊朗戰爭相關情緒的變化而劇烈震盪。儘管如此，風險偏好料將繼續獲得支撐，因為雙方仍在談判以敲定協議，而這最終將推動霍爾木茲海峽的重開。”
-
----
-
-### 2026-05-28 23:30:25  #國際
-
-敦豪電子商務與美國郵政署簽訂價值超100億美元的長期獨家協議。
-
----
-
-### 2026-05-28 23:30:20  #公司 #國際
-
-美國郵政署與敦豪航空貨運公司（DHL）旗下部門達成多年合作協議。
-
----
-
-### 2026-05-28 23:30:14  #國際
-
-【以總理稱已控制加沙地帶60%的領土 還將擴大範圍】當地時間28日，總檯記者獲悉，以色列總理內塔尼亞胡當天在一場活動中表示，以色列已經完全控制了加沙地帶60%的領土，以方目標是達到70%。（央視新聞）
-
----
-
-### 2026-05-28 23:29:05  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Amphenol Stock Price Hits 4-week High — Amphenol shares increased to 146.91 USD, the highest since April 2026. Over the past 4 weeks, Amphenol lost 1.29%, and in the last 12 months, it increased 64.72%.
-
----
-
-### 2026-05-28 23:28:52  #國際
-
-普京稱人工智慧是保障全球安全與發展的一項戰略性技術。
-
----
-
-### 2026-05-28 23:27:31  #國際
-
-【以色列：中斷與聯合國秘書長所有聯絡】據央視新聞，以色列宣佈，在以色列相關實體被列入聯合國關於衝突地區性暴力問題的黑名單後，以方將暫停與聯合國秘書長古特雷斯辦公室的聯絡。以色列常駐聯合國代表丹尼·達農28日在社交媒體上稱，只要古特雷斯繼續擔任秘書長，以色列駐聯合國代表團將“不再與秘書長辦公室進行任何接觸”。
-
----
-
-### 2026-05-28 23:27:15  #市場 #焦點
-
-現貨黃金突破4480美元/盎司，日內漲0.54%。
-
----
-
-### 2026-05-28 23:26:41  #公司 #國際
-
-【道達爾能源CEO：在2月份注意到美軍在海灣地區集結後，公司進行了中東石油鉅額交易】法國石油巨頭道達爾能源（TotalEnergies）執行長Patrick Pouyanne告訴法國《費加羅報》，公司的交易員在2月份注意到美國海軍正在波斯灣附近集結軍艦，隨後公司做出決定，於3月份大舉買入大量中東原油。“我們的石油交易員——這就是他們的本職工作——在2月份注意到美國海軍正在波斯灣周圍集結軍艦。他們決定逆勢建倉，因為當時市場正處於下行趨勢。他們買入並認為，某些大事即將發生。”
-
----
-
-### 2026-05-28 23:26:11  #公司
-
-雪佛龍執行長邁克·韋爾特表示，未來煤炭消費大機率將更加強勁。
-
----
-
-### 2026-05-28 23:25:12  #Trading Economics #Markets #commodity #Importance 0
-
-Natural gas is up by 5.02% — Natural gas increased 5.02% to 3.2505 USD/MMBtu
-
----
-
-### 2026-05-28 23:25:09  #其他
-
-惠譽維持巴克萊銀行“A”評級，展望穩定。
-
----
-
-### 2026-05-28 23:24:55  #國際
-
-美國官員：霍爾木茲海峽事件不威脅伊朗談判。
-
----
-
-### 2026-05-28 23:24:11  #公司 #國際
-
-雪佛龍執行長邁克·沃思表示，中東受損能源基礎設施的修復成本或高達數百億美元。
-
----
-
-### 2026-05-28 23:22:45  #國際
-
-市場訊息：以色列總理內塔尼亞胡下令以色列軍隊佔領加沙70%的地區。
-
----
-
-### 2026-05-28 23:22:23  #公司
-
-【美銀：彪馬對轉型表現出良好控制力，但仍面臨挑戰】美銀全球研究部的分析師表示，彪馬對其轉型計劃表現出了良好的控制力，但挑戰依然存在。這些分析師在一份報告中寫道，這家德國運動服飾公司在業績指引和盈利可預測性方面一直非常一致和可靠，但其從2027年開始實現高於行業平均水平增長的目標似乎雄心勃勃。然而他們表示，與同行阿迪達斯相比，彪馬對新興市場的風險敞口更大，這可能導致更高的經濟不確定性和匯率逆風，以及其他挑戰。
 
 ---
