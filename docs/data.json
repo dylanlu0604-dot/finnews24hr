@@ -1,7 +1,233 @@
 {
-  "updated": "2026-06-04 17:12:19",
-  "count": 19010,
+  "updated": "2026-06-04 17:16:16",
+  "count": 19022,
   "items": [
+    {
+      "id": "4917079",
+      "time": "2026-06-04 17:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：印度與委內瑞拉討論了關鍵礦產及採礦相關事宜。"
+    },
+    {
+      "id": "4917078",
+      "time": "2026-06-04 17:15:20",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【農業銀行：Au（T+D）、Ag（T+D）合約的保證金比例從100%調整為120%】農業銀行公告，近期國際貴金屬市場價格波動加劇，個人客戶交易類貴金屬業務市場風險上升。為切實保護投資者利益，我行定於自2026年6月5日（星期五）收盤清算時起，Au（T+D）、Ag（T+D）合約的保證金比例從100%調整為120%。"
+    },
+    {
+      "id": "mkt:019e91ea-5559-7668-960e-284a187617c7",
+      "time": "2026-06-04 17:15:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "India's foreign ministry said it discussed critical minerals and mining issues with Venezuela."
+    },
+    {
+      "id": "mkt:019e91ea-3c04-7668-960e-27c313168aa9",
+      "time": "2026-06-04 17:15:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raised ASML Holding's price target to €1,921 from €1,710."
+    },
+    {
+      "id": "4917077",
+      "time": "2026-06-04 17:14:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對江西銅業股份的多頭持倉比例增至5.83%】據香港交易所披露，貝萊德（BlackRock）對江西銅業股份有限公司 - H股的多頭持倉比例於2026年5月29日從4.77%增至5.83%。"
+    },
+    {
+      "id": "4917076",
+      "time": "2026-06-04 17:14:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對中國人壽H股的多頭持倉比例增至6.08%】據香港交易所披露，貝萊德（BlackRock）對中國人壽保險股份有限公司 - H股的多頭持倉比例於2026年5月29日從5.98%增至6.08%。"
+    },
+    {
+      "id": "4917075",
+      "time": "2026-06-04 17:14:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對工商銀行H股的多頭持倉比例增至5.04%】據香港交易所披露，貝萊德（BlackRock）對中國工商銀行股份有限公司 - H股的多頭持倉比例於2026年5月29日從4.93%增至5.04%。"
+    },
+    {
+      "id": "4917074",
+      "time": "2026-06-04 17:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外交部表示，泰國正努力鞏固自身在與柬埔寨海上爭端中的立場。"
+    },
+    {
+      "id": "4917073",
+      "time": "2026-06-04 17:14:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將荷蘭阿斯麥控股公司目標股價從1710歐元上調至1921歐元。"
+    },
+    {
+      "id": "4917072",
+      "time": "2026-06-04 17:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法總理要求以色列停止攻擊黎巴嫩】法國總理勒科爾尼6月3日在法國國民議會表示，以色列應停止在黎巴嫩境內的非法軍事行動，結束對黎巴嫩的非法佔領。他還表示，以色列攻擊黎巴嫩對伊美談判有直接影響，還會破壞本就脆弱的停火。（CCTV國際時訊）"
+    },
+    {
+      "id": "4917071",
+      "time": "2026-06-04 17:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大連大商電器有限公司成立，註冊資本1億】天眼查App顯示，近日，大連大商電器有限公司成立，法定代表人為於世傑，註冊資本1億人民幣，經營範圍包括家用電器銷售、家用電器安裝服務、非電力家用器具銷售等。股東資訊顯示，該公司由大商股份全資持股。"
+    },
+    {
+      "id": "te:economy:556494",
+      "time": "2026-06-04 17:13:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Iceland",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Iceland Current Account Deficit Narrows in Q1 — Iceland’s current account deficit narrowed sharply to ISK 32.1 billion in the first quarter of 2026 from ISK 70.2 billion in the corresponding period of the previous year. The services account surplus increased to ISK 29.3 billion from ISK 17.8 billion, while the goods account deficit narrowed to ISK 23.4 billion from ISK 84.4 billion in Q1 2025. On the other hand, the primary income balance deteriorated, shifting to a deficit of ISK 20.6 billion from a surplus of ISK 9.1 billion, and the secondary income deficit widened to ISK 17.3 billion from ISK 12.8 billion a year earlier."
+    },
+    {
+      "id": "4917070",
+      "time": "2026-06-04 17:12:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對中興通訊H股的多頭持倉比例增至8.38%】據香港交易所披露，貝萊德（BlackRock）對中興通訊股份有限公司 - H股的多頭持倉比例於2026年5月29日從7.99%增至8.38%。"
+    },
+    {
+      "id": "4917069",
+      "time": "2026-06-04 17:12:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.055元，收盤時基金份額參考淨值為1.9358元。若6月5日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金運作正常，無應披露未披露資訊，提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "4917068",
+      "time": "2026-06-04 17:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貝萊德（BlackRock）對ASMPT的多頭持倉比例增至5.12%】據香港交易所披露，貝萊德（BlackRock）對ASMPT Ltd.的多頭持倉比例於2026年5月29日從4.92%增至5.12%。"
+    },
+    {
+      "id": "4917067",
+      "time": "2026-06-04 17:12:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：基金二級市場交易價格溢價，提醒投資風險】納指ETF匯添富公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.403元，收盤時基金份額參考淨值為2.2721元。若6月5日溢價幅度未有效回落，基金有權採取臨時停牌等措施。投資者交易除份額淨值波動風險外，還受其他因素影響，可能面臨損失。目前基金運作正常，無應披露未披露資訊。"
+    },
+    {
+      "id": "4917066",
+      "time": "2026-06-04 17:12:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：二級市場交易價格溢價 提醒投資風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為1.6730元，收盤時基金份額參考淨值（IOPV）為1.5610元。若6月5日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。提醒投資者關注溢價風險，審慎決策，以免遭受重大損失。"
+    },
+    {
+      "id": "mkt:019e91e7-afe7-7668-960e-1960044da4a4",
+      "time": "2026-06-04 17:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign ministry said Venezuela's acting president will not announce any major measures during this visit."
+    },
+    {
+      "id": "4917065",
+      "time": "2026-06-04 17:12:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.107元，收盤時基金份額參考淨值為1.9533元。若6月5日溢價幅度未有效回落，基金有權申請臨時停牌等措施。投資者交易除淨值波動風險外，還受多種因素影響。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4917064",
+      "time": "2026-06-04 17:12:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛對嗶哩嗶哩-W的多頭持倉比例降至4.99%】據香港交易所披露，高盛對嗶哩嗶哩股份有限公司 - W的多頭持倉比例於2026年6月2日從5.1%降至4.99%。"
+    },
+    {
+      "id": "4917063",
+      "time": "2026-06-04 17:12:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場價格溢價 6月5日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月4日收盤價為2.813元，收盤時基金份額參考淨值為2.3493元。為保護投資者利益，基金於6月5日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月5日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
+    },
+    {
+      "id": "4917062",
+      "time": "2026-06-04 17:11:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀集團（UBS）對泡泡瑪特的多頭持倉比例增至42.14%】據香港交易所披露，瑞銀集團（UBS）對泡泡瑪特國際集團有限公司的多頭持倉比例於2026年5月14日從41.84%增至42.14%。"
+    },
+    {
+      "id": "mkt:019e91e7-5a59-744c-88b6-d8de46bd1dcd",
+      "time": "2026-06-04 17:11:58",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "Invesco Nasdaq Technology ETF to suspend trading from market open on June 5, 2026; trading expected to resume at 10:30 on June 5, 2026. Redemption services will continue to operate during the suspension."
+    },
+    {
+      "id": "4917061",
+      "time": "2026-06-04 17:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）就 “諮詢業務受限” 相關指控啟動調查。"
+    },
+    {
+      "id": "mkt:019e91e7-3aa4-744c-88b6-d1107cdf16eb",
+      "time": "2026-06-04 17:11:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bearish",
+        "MU.O",
+        "AMD.O"
+      ],
+      "text": "U.S. semiconductor stocks extended premarket losses: Broadcom (AVGO.O) down more than 13%, Micron Technology (MU.O) down 6%, AMD (AMD.O) and Intel (INTC.O) each down 4%."
+    },
     {
       "id": "4917060",
       "time": "2026-06-04 17:11:41",
@@ -175104,129 +175330,6 @@
         "國際"
       ],
       "text": "【瓜地馬拉同意與美國聯合打擊販毒集團】據紐約時報援引三位知情人士透露，瓜地馬拉已同意與美國軍方在其境內進行聯合打擊，以打擊販毒集團，這是特朗普政府在拉丁美洲軍事行動的進一步擴大。據兩位知情人士透露，上週瓜地馬拉總統貝爾納多·阿雷瓦洛與美國國防部長皮特·赫格塞斯通話，同意採取空襲和其他軍事行動，最早可能於下個月開始。目前尚不清楚該協議可能包含哪些其他軍事活動。兩名知情人士透露，國防部計劃敦促接受聯合軍事行動的下一個國家之一是宏都拉斯。"
-    },
-    {
-      "id": "te:economy:554435",
-      "time": "2026-05-28 17:16:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Economic Optimism Index",
-        "Importance 2"
-      ],
-      "text": "Eurozone Economic Sentiment Inches Up in May — The Eurozone Economic Sentiment Indicator (ESI) rose slightly to 93.5 in May 2026, remaining close to the over five-year low of 93.2 recorded in April but exceeding market expectations of 92.8. Sentiment stayed weak, reflecting mounting concerns over the economic outlook amid the escalating Iran conflict. Among sectors, confidence improved slightly for service providers (2.2 vs. 1.4 in April) and consumers (-19.0 vs. -20.6), but deteriorated further for manufacturers (-8.0 vs. -7.7), retailers (-10.9 vs. -10.0), and constructors (-3.6 vs. -2.8). On the pricing front, consumer inflation expectations fell to 40.5 from a four-year high of 48.8, while manufacturers’ selling price expectations eased to 27.4 from April’s over three-year high of 30.2. In the largest Eurozone economies, the ESI increased in Germany (+1.0) and France (+0.9), remained broadly stable in Italy (+0.1) and Spain (-0.1), and declined in the Netherlands (-0.9)."
-    },
-    {
-      "id": "4904440",
-      "time": "2026-05-28 17:15:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯芸科技：與長江儲存有業務合作】聯芸科技在互動平臺表示，公司與長江儲存有業務合作。"
-    },
-    {
-      "id": "te:economy:554433",
-      "time": "2026-05-28 17:15:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Montenegro",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Montenegro Tourist Arrivals Down 8.4% in April — The number of tourist arrivals in Montenegro fell by 8.4% year-on-year to 107,939 in April 2026, reversing a rise of 2.4% in March, as arrivals continue to increase since the beggining of the year. Foreign arrivals remain the leading source of arrivals, at 89.3%, while domestic arrivals only account for 10.7%. Europe continued to be the largest source region (83.4%), namely from Germany (11.8%), Serbia (10.7%), France (8.6%) and the UK (8%). Outside of Europe,the highest numbers of arrivals came from China (including Hong Kong) (4.8%) and the US (3.7%). By type of accomodation, seaside resorts remained the most popular destination (79.8%), followed by the capital city with 13.3%. Meanwhile, overnight stays in collective accommodation totaled 278 thousand,with foreign visitors accounting for 86.3% of stays and domestic tourists making up the remaining 13.7%."
-    },
-    {
-      "id": "4904439",
-      "time": "2026-05-28 17:14:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【探路者：調整定增預案，發行價格下調至7元/股】探路者公告，公司與北京通域合盈投資管理有限公司及北京明弘毅科技服務有限公司簽署的股份認購協議之補充協議已獲董事會審議透過。根據調整後的方案，本次發行的認購價格為7元/股，發行股票數量不超過1.44億股（含本數），募集資金金額不超過10.05億元（含本數）。此次發行旨在補充流動資金，支援公司發展戰略，增強市場競爭力。"
-    },
-    {
-      "id": "te:economy:554432",
-      "time": "2026-05-28 17:14:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Iceland Inflation Rate at 5-Month Low — The annual inflation rate in Iceland eased to 5.1% year-on-year in May 2026 from 5.2% in the previous month, marking the lowest reading since December 2025. Price pressures eased across several categories, including housing and utilities (6.6% vs. 6.7% in April), food and non-alcoholic beverages (4.2% vs. 4.9%), recreation, sports and culture (2.7% vs. 3.0%), restaurants and accommodation services (5.1% vs. 5.4%), information and communication (2.9% vs. 3.4%), health (4.4% vs. 4.5%), and alcoholic beverages and tobacco (3.5% vs. 3.6%). Meanwhile, deflation deepened slightly for furnishings, household equipment, and routine household maintenance (-0.4% vs. -0.2%). By contrast, inflation accelerated in transportation (7.9% vs. 7.6%) and in personal care, social protection, and miscellaneous goods and services (6.6% vs. 5.3%). On a monthly basis, consumer prices slowed by 0.1% in May from a 0.8% increase in the prior month."
-    },
-    {
-      "id": "4904438",
-      "time": "2026-05-28 17:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本財務省：日本石腦油進口量較去年同期下降47%】總檯記者獲悉，日本財務省28日公佈的4月貿易統計顯示，日本石腦油進口量為1144188千升，較去年同期下降47.0%。受霍爾木茲海峽局勢影響，來自中東的進口量下降了79.1%。受中東戰事和霍爾木茲海峽航運持續“梗阻”影響，目前日本出現石腦油短缺，多個行業受到影響，從垃圾袋、醫用手套告急，再到建材供應吃緊導致建築專案停工，一場因石腦油短缺引發的危機正在日本蔓延。此外，日本方面訊息稱，“石腦油危機”暴露出日本能源與石化系統長期存在的結構性脆弱。日本原油和石腦油進口陷入停滯。（央視新聞）"
-    },
-    {
-      "id": "4904437",
-      "time": "2026-05-28 17:14:11",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【張國清在全國“安全生產月”活動啟動儀式上強調 提高隱患排查整治質效 牢牢守住安全發展底線】中共中央政治局委員、國務院副總理張國清28日在京出席2026年全國“安全生產月”活動啟動儀式並講話。他強調，要深入學習貫徹習近平總書記關於安全生產的重要指示批示精神，落實黨中央、國務院決策部署，時刻繃緊安全生產這根弦，深入排查各類風險隱患，切實提高整治質效，牢牢守住安全發展底線。張國清強調，習近平總書記高度重視安全生產工作，連續作出重要指示批示，要求盯緊壓實安全生產責任，抓好重點行業領域風險隱患排查整治，加強公共安全管理，確保人民群眾生命財產安全。各地區各部門要深刻汲取事故教訓，真正把自己擺進去、把工作擺進去，狠抓安全生產責任落實和安全管理措施落地，牢牢守住發展不能以犧牲安全為代價這條底線。要完善重大事故隱患判定標準，強化進場監管、下井監管、全方位監管，提升排查的專業性和穿透力，對問題隱患緊盯不放、見人見事，確保閉環整改到位。要重拳“打非治違”，嚴查嚴懲煤礦隱蔽工作面、安全監控造假、危化品黑窩點、煙花爆竹企業超人數超藥量超許可範圍等違法違規行為，強化行刑銜接，形成有力震懾。要常態化開展科普宣傳、技能培訓、避險演練，促進全社會增強風險意識、培育安全文化，築牢安全生產人民防線。（新華社）"
-    },
-    {
-      "id": "mkt:019e6ddc-d479-7993-908f-2b091f63143e",
-      "time": "2026-05-28 17:14:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "XPEV.O",
-        "Impact bearish"
-      ],
-      "text": "【XPeng Q1 2026 Revenue Rmb13.03 Billion Down 17.6% YoY】XPeng reported Q1 2026 total revenue of RMB13.03 billion, down 17.6% YoY and 41.4% QoQ. Vehicle sales were RMB11.00 billion, down 23.5% YoY and 42.3% QoQ. Gross margin improved to 20.6% from 15.6% a year earlier but fell short of Q4 2025's 21.3%. Net loss was RMB1.78 billion, versus a RMB660 million loss in Q1 2025 and a RMB380 million profit in Q4 2025. Cash on hand was RMB42.09 billion at March 31, down from RMB47.66 billion at Dec. 31, 2025."
-    },
-    {
-      "id": "4904436",
-      "time": "2026-05-28 17:13:16",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點"
-      ],
-      "text": "【廣期所出手！調整碳酸鋰期貨持倉限額】5月28日，廣州期貨交易所（簡稱“廣期所”）釋出修改《廣州期貨交易所碳酸鋰期貨、期權業務細則》的通知，對碳酸鋰期貨合約的一般月份持倉限額進行調整：自碳酸鋰期貨LC2610合約起，自合約掛牌之日起至交割月前1月第9個交易日（即一般月），合約單邊持倉規模6萬手以上時持倉限額為合約持倉的5%，合約單邊持倉規模6萬手以內時持倉限額為3000手。中信建投期貨分析師張維鑫表示，此次調整是將合約單邊持倉規模3萬手以內時持倉限額3000手，調整為合約單邊持倉規模6萬手以內時持倉限額為3000手；合約單邊持倉規模3萬手以上時持倉限額為合約持倉的10%，調整為合約單邊持倉規模6萬手以上時持倉限額為合約持倉的5%，可以理解為對持倉限額有所縮小。而產業客戶可以根據經營需要申請套保持倉額度，此次持倉限額調整不影響產業客戶參與。創元期貨分析師餘爍指出，該調整適用於LC2610之後的合約，投資者需要對自身持倉做好管理。廣期所相關負責人表示，交易所在充分評估品種執行情況的基礎上，結合市場發展需求和“強監管、防風險、促高質量發展”工作要求，對碳酸鋰期貨一般月份持倉限額進行了調整，旨在保障期貨市場平穩執行。同時，下一步，廣期所將持續做好品種規則最佳化，加強風險評估和市場監管，著力保障期貨市場安全平穩執行。"
-    },
-    {
-      "id": "4904435",
-      "time": "2026-05-28 17:12:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普路通：董事長宋海綱因工作調整辭職】普路通公告，公司董事會近日收到董事長宋海綱先生的書面辭職報告。因工作調整原因，宋海綱先生申請辭去公司董事、董事長、戰略委員會委員（召集人）及提名委員會委員職務，辭去上述職務後將不再擔任公司及下屬子公司任何職務。在補選新的董事就任前，其仍履行現任職務相關職責。截止本公告披露日，宋海綱先生未持有本公司股份。此外，公司於2026年5月28日召開董事會，審議透過提名郭曉鵬先生為第六屆董事會非獨立董事候選人，任期自股東會審議透過之日起至第六屆董事會屆滿之日止。"
-    },
-    {
-      "id": "4904434",
-      "time": "2026-05-28 17:12:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中廣核技：國合集團2.15%股份被司法拍賣完成過戶】中廣核技公告，國合集團所持有公司的2750萬股股份被大連高新技術產業園區人民法院拍賣，截至本公告披露日，司法拍賣已成交2030萬股，已完成過戶2030萬股。"
-    },
-    {
-      "id": "mkt:019e6ddb-4663-7993-908f-223cab256418",
-      "time": "2026-05-28 17:12:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF Says It Killed Hamas Finance-Network Head In Khan Younis】The Israel Defense Forces said on May 28 that an operation on May 26 in Khan Younis, southern Gaza, killed Ihab Kherizim, identified as head of Hamas’s core funds-transfer network responsible for moving millions of dollars to the group’s military wing. The IDF said Kherizim had repeatedly violated the ceasefire in recent months. The statement added the strike also killed Muhammad Habash, a commander involved in weapons manufacturing."
-    },
-    {
-      "id": "4904433",
-      "time": "2026-05-28 17:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國防部計劃施壓要求其同意聯合軍事行動的下一批國家中包括宏都拉斯。"
     }
   ]
 }
