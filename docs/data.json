@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-05 05:49:44",
-  "count": 19045,
+  "updated": "2026-06-05 05:56:49",
+  "count": 19041,
   "items": [
+    {
+      "id": "4918201",
+      "time": "2026-06-05 05:55:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月05日05時49分在新疆阿克蘇地區庫車市（北緯41.31度，東經83.95度）發生3.6級地震，震源深度17千米。"
+    },
+    {
+      "id": "mkt:019e94a0-042e-7cc8-bdee-eb030f89fa46",
+      "time": "2026-06-05 05:52:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will hold a celebration in Washington, D.C., on June 24 to mark the 250th anniversary of U.S. founding."
+    },
+    {
+      "id": "4918200",
+      "time": "2026-06-05 05:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯高官與伊朗外長通話討論地區局勢 】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。宣告說，哈亞在通話中表示，以色列持續侵略和佔領加沙地帶，並阻撓停火協議執行。他重申巴勒斯坦各抵抗派別和巴勒斯坦人民的堅定立場，即繼續抵抗直至實現巴勒斯坦民族目標，特別是要結束以色列的侵略和佔領。宣告說，阿拉格齊在通話中讚揚巴勒斯坦人民和巴勒斯坦各抵抗派別面對以色列襲擊所展現出的頑強意志。他表示，伊朗將繼續奉行支援中東地區人民、特別是巴勒斯坦和黎巴嫩人民對抗以色列佔領和侵略這一原則性政策。（新華社）"
+    },
     {
       "id": "4918199",
       "time": "2026-06-05 05:48:47",
@@ -175409,68 +175433,6 @@
         "DXY"
       ],
       "text": "Interfax, citing the regional governor, reported Ukrainian drones struck energy infrastructure in Russia's Volgograd region."
-    },
-    {
-      "id": "4905607",
-      "time": "2026-05-29 05:56:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 宣佈派發季度現金股息， 每股派發 0.53 美元季度現金股息，派息日為 2026 年 6 月 25 日。"
-    },
-    {
-      "id": "mkt:019e7096-b8fd-7eef-a303-ead596032768",
-      "time": "2026-05-29 05:56:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS, citing the regional governor, reported a drone attack in Russia's Volgograd region struck a residential building; no casualties reported."
-    },
-    {
-      "id": "4905606",
-      "time": "2026-05-29 05:56:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯社援引州長訊息：俄羅斯伏爾加格勒州遭無人機襲擊，一棟居民樓被擊中，暫無人員傷亡。"
-    },
-    {
-      "id": "4905605",
-      "time": "2026-05-29 05:53:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥格理：上調小鵬ADR評級至跑贏大盤，之前持中性評級。"
-    },
-    {
-      "id": "mkt:019e7093-83fd-7eef-a303-e6c27102c290",
-      "time": "2026-05-29 05:52:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance on Iran said no agreement has been reached yet but one is very close."
-    },
-    {
-      "id": "4905604",
-      "time": "2026-05-29 05:51:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "萬斯談伊朗問題：尚未達成協議，但我們已非常接近。"
-    },
-    {
-      "id": "4905603",
-      "time": "2026-05-29 05:50:24",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國芝商所下調黃金與白銀期貨合約保證金】美國芝加哥商業交易所集團（CME Group）在週四的一份宣告中表示，在進行了“對市場波動的常規審查以確保充足的抵押品覆蓋率”後，已下調了其黃金和白銀期貨合約的保證金。黃金期貨的非高風險特徵（non-heightened risk profile）保證金將從6%下調至5%。黃金期貨的高風險特徵（HRP）初始保證金將從6.6%降至5.5%。白銀期貨的非高風險特徵（non-HRP）保證金將從11%下調至10%。白銀期貨的高風險特徵（HRP）初始保證金將從12.1%降至11%。鉑金（白金）和鈀金的保證金同樣有所下調。上述調整將於週五收盤後正式生效。"
     }
   ]
 }
