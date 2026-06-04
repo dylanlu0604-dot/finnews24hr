@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-04 09:54:07",
-  "count": 19157,
+  "updated": "2026-06-04 09:58:05",
+  "count": 19151,
   "items": [
+    {
+      "id": "4916361",
+      "time": "2026-06-04 09:57:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.19%，成分股中，大全能源漲17.52%，盛美上海漲7.33%，佰維儲存漲5.10%，瀾起科技漲4.32%。"
+    },
+    {
+      "id": "mkt:019e9059-899e-7cc0-ba21-a6a83c1c4188",
+      "time": "2026-06-04 09:57:27",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index extended gains to 1%."
+    },
+    {
+      "id": "4916360",
+      "time": "2026-06-04 09:57:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PCB概念股低開回升，世運電路漲停，矩子科技漲超10%，新銳股份、亨通股份、東威科技、東山精密漲超6%。"
+    },
+    {
+      "id": "mkt:019e9058-9287-7cc0-ba21-9a671e1b2724",
+      "time": "2026-06-04 09:56:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO-related stocks rebounded intraday after volatile trading; Dongshan Precision rose over 7%, Tianyang New Materials posted a third consecutive limit-up, and Sanan Optoelectronics hit the daily limit. Universal Scientific Industrial (USI), Yitian, Taichen Guang and Cambridge Technology also gained."
+    },
+    {
+      "id": "mkt:019e9057-ed88-7cc0-ba21-914ba3c8b54b",
+      "time": "2026-06-04 09:55:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "TSMC (TSM.N) CEO said the company views autonomous vehicles and robotics as long-term growth drivers and will work to help the robotics industry succeed."
+    },
+    {
+      "id": "4916359",
+      "time": "2026-06-04 09:55:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念震盪回升 東山精密漲超7%創歷史新高】CPO概念日內震盪回升，東山精密漲超7%，創歷史新高，總市值突破4400億，此前天洋新材3連板，三安光電漲停，環旭電子、易天股份、太辰光、劍橋科技等跟漲。"
+    },
+    {
+      "id": "4916358",
+      "time": "2026-06-04 09:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長表示：將自動駕駛汽車與機器人技術視為長期增長驅動力，正全力助力機器人產業發展實現成功。"
+    },
+    {
+      "id": "4916357",
+      "time": "2026-06-04 09:53:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【燃氣輪機概念異動拉昇 中國動力觸及漲停】燃氣輪機概念異動拉昇，中國動力觸及漲停，傑瑞股份、萬澤股份、聯德股份、應流股份跟漲。"
+    },
+    {
+      "id": "4916356",
+      "time": "2026-06-04 09:53:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.05%，成分股中，XD同惠電跌4.56%，國子軟體跌4.03%，銅冠礦建跌3.75%，長虹能源跌3.67%。"
+    },
     {
       "id": "4916355",
       "time": "2026-06-04 09:52:53",
@@ -176286,149 +176376,6 @@
         "公司"
       ],
       "text": "【應急管理部修訂《煤礦重大事故隱患判定標準》】應急管理部公告，《煤礦重大事故隱患判定標準》已經2026年5月6日應急管理部第12次部務會議修訂透過，現予公佈，自2026年7月1日起施行。"
-    },
-    {
-      "id": "4903577",
-      "time": "2026-05-28 09:58:03",
-      "tags": [
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國央行稱將在評估通脹、經濟和金融穩定基礎上決定加息時機】根據韓國央行的宣告，韓國央行貨幣政策委員會將評估通脹壓力上升的程度、國內經濟的改善趨勢以及金融穩定性，來決定任何加息的時機。韓國央行將繼續實施貨幣政策，“以期在中期內將消費者價格通脹穩定在目標水平”，同時密切關注經濟增長並維護金融穩定。預計通脹將在“相當長的一段時間內”保持在目標水平以上，經濟增長將繼續保持“穩健的改善趨勢”，這主要得益於半導體行業的強勁發展，儘管受到中東局勢的影響。關於金融穩定，韓國央行表示，“有必要繼續關注匯率的劇烈波動”，以及首爾及其周邊地區的房地產市場狀況和家庭債務情況。"
-    },
-    {
-      "id": "mkt:019e6c4d-b337-7eea-83d1-2357f56a0699",
-      "time": "2026-05-28 09:57:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry Of Emergency Management Revises Standards For Determining Major Accident Hazards In Coal Mines】China's Ministry of Emergency Management announced the \"Standards for Determining Major Accident Hazards in Coal Mines\" were revised and approved at the ministry's 12th executive meeting on May 6, 2026; the revised standards have been promulgated and will take effect on July 1, 2026."
-    },
-    {
-      "id": "mkt:019e6c4d-1889-7eea-83d1-1a1d3f47e978",
-      "time": "2026-05-28 09:57:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea Antitrust Regulator Reestablishes Investigation Unit To Strengthen Oversight Of Chaebol And Platform Firms】South Korea's antitrust regulator will establish a new investigation unit focused on platform firms and large chaebol, effectively restoring functions similar to its former investigative bureau that was abolished 21 years ago, the Fair Trade Commission (FTC) said. FTC Chair Ju Biung-ghi said that as platform-related cases become more complex, the current system of investigating and penalizing different parts of large cases separately may underestimate the overall severity. He added that oversight should be strengthened for chaebol accused of unfair practices during intergenerational business succession. The FTC also plans to create a 40-person unit focused on economic and Data Talk analysis to bolster its infrastructure and analytical capacity."
-    },
-    {
-      "id": "4903576",
-      "time": "2026-05-28 09:56:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國ITC釋出對隧穿氧化層鈍化接觸（TOPCon）太陽能電池、元件、面板及其元件和下游產品的337部分終裁】5月27日，美國國際貿易委員會（ITC）釋出公告稱，對特定隧穿氧化層鈍化接觸（TOPCon）太陽能電池、元件、面板及其元件和下游產品作出337部分終裁：對本案行政法官於2026年4月27日作出的初裁（No.7）不予複審，即批准BYD America LLC為第三人（intervene）。"
-    },
-    {
-      "id": "mkt:019e6c4b-b4ec-7eea-83d1-111ef09edeb0",
-      "time": "2026-05-28 09:56:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Beijing Calls For Stronger Debt Management, More Mid- to Long-Term Credit And Greater Use Of REITs】The Beijing Municipal Committee of the Communist Party of China and the Beijing Municipal People’s Government issued implementation opinions on promoting high‑quality urban development, proposing a series of financing and investment reforms. Measures include establishing a sustainable investment-and-financing system for city construction and operation; deepening investment approval reform and strengthening whole‑process management of government investment; optimizing implementation of “two‑heavy” construction projects and increasing the share of spending on livelihood and safety; and strengthening government debt management. The document calls for improving public‑private partnership (PPP) models, developing patient capital to spur investment, and bolstering mid‑ to long‑term credit supply by encouraging insurance, trust and other institutions to provide financial services and by making full use of real estate investment trusts (REITs) and similar products. It also proposes an infrastructure investment–pricing–subsidy linkage mechanism and tighter cost coordination."
-    },
-    {
-      "id": "4903575",
-      "time": "2026-05-28 09:55:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：強化新一代資訊科技、醫藥健康等萬億級產業叢集】中共北京市委、北京市人民政府釋出關於推動城市高質量發展的實施意見。其中提出，科技創新引領新質生產力。加快建設中關村世界領先科技園區，深化“科學+城”建設，營造具有全球競爭力的創新生態。統籌“三城一區”聯動發展，強化中關村科學城科技創新與產業創新策源功能，突出懷柔科學城重大科技基礎設施集中優勢，推動未來科學城重點領域能級躍升，支援創新產業叢集示範區承接創新成果和產業資源。保持先進製造業合理比重，強化新一代資訊科技、醫藥健康等萬億級產業叢集。擴大科技、金融、商務等服務業優勢，深化“兩業融合”，做優做強總部經濟。"
-    },
-    {
-      "id": "4903574",
-      "time": "2026-05-28 09:55:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,859.00點。"
-    },
-    {
-      "id": "mkt:019e6c4b-5ec2-7eea-83d1-0e35881a1c55",
-      "time": "2026-05-28 09:55:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing: Strengthen Trillion-Yuan Industry Clusters In Next-Generation IT, Pharmaceuticals And Healthcare】The CPC Beijing Municipal Committee and the Beijing Municipal Government issued Implementation Opinions on Promoting High-Quality Urban Development, saying technological innovation should lead new-quality productive forces. The document calls for accelerating construction of Zhongguancun into a world-leading science park, deepening the \"Science+City\" model and fostering a globally competitive innovation ecosystem. It mandates coordinated development of the \"Three Cities and One Zone,\" strengthening Zhongguancun Science City’s role as a source of technological and industrial innovation, leveraging Huairou Science City’s concentration of major scientific infrastructure, and driving capacity upgrades in priority areas of the Future Science City. It supports innovative industrial-cluster demonstration zones in receiving innovation outputs and industrial resources. The plan directs maintaining an appropriate share of advanced manufacturing and strengthening trillion-yuan industry clusters in next-generation information technology, pharmaceuticals and healthcare. It also calls for expanding advantages in technology, financial and commercial services, deepening \"two-industry integration,\" and optimizing and bolstering the headquarters economy."
-    },
-    {
-      "id": "4903573",
-      "time": "2026-05-28 09:55:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "mkt:019e6c4a-fc51-7eea-83d1-0153c1f1be89",
-      "time": "2026-05-28 09:55:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing Seeks Significant Progress Toward An International First‑Class Harmonious, Livable Capital By 2030; Preliminary Completion By 2035】The Communist Party of China Beijing Municipal Committee and the Beijing Municipal Government issued implementation opinions on promoting high‑quality urban development, stating that by 2030 significant progress will be achieved in building an internationally first‑class harmonious, livable capital and that by 2035 such a capital will be preliminarily completed. The plan calls for resolute, orderly relocation of non‑capital functions; full implementation of the Beijing city sub‑center's controlled detailed plan; creation of a national green development demonstration zone; and strengthening the leading roles of administrative offices, business services, cultural tourism and scientific‑technological innovation. It instructs deepening comprehensive reform pilots for market‑based allocation of production factors; facilitating the relocation of landmark projects to Xiong'an New Area and promoting coordinated advancement of the “two wings.” The document directs active promotion of the Beijing (Beijing‑Tianjin‑Hebei) international science and technology innovation center to raise the regional conversion efficiency and share of innovation outcomes. It also orders acceleration of a modern capital metropolitan area, advancing the Beijing‑Tianjin “dual‑city” initiative and promoting integrated commuting zones, functional‑zone innovation breakthroughs, and linked development of industrial collaboration circles."
-    },
-    {
-      "id": "4903572",
-      "time": "2026-05-28 09:55:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晶科科技獲山西合計3.2GWh獨立儲能專案】據晶科科技訊息，日前，晶科科技在山西省2025年第四季度及2026年第一季度獨立儲能專案評審中成功獲取7個獨立儲能專案，合計容量3.2GWh。"
-    },
-    {
-      "id": "4903571",
-      "time": "2026-05-28 09:54:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳據悉將加入清華大學顧問委員會】據報道，英偉達CEO黃仁勳已同意加入清華大學經濟管理學院顧問委員會。目前，該委員會主席為蘋果CEO蒂姆·庫克。 除了庫克，這個由65名成員組成的顧問委員會還包括美國科技界領袖埃隆·馬斯克、邁克爾·戴爾、微軟的薩提亞·納德拉和Meta的馬克·扎克伯格，以及摩根大通的傑米·戴蒙、貝萊德的拉里·芬克和花旗集團的簡·弗雷澤等金融界高管。"
-    },
-    {
-      "id": "4903570",
-      "time": "2026-05-28 09:54:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守73美元/盎司，日內跌2.16%。"
-    },
-    {
-      "id": "mkt:019e6c4a-66a1-7eea-83d0-fee694659590",
-      "time": "2026-05-28 09:54:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold was down 1.00% intraday, trading at $4,408.63/oz; spot silver was down more than 2.00% intraday, trading at $73.13/oz."
-    },
-    {
-      "id": "4903569",
-      "time": "2026-05-28 09:54:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "貝森特：美國財政部繼續對伊朗施加最大壓力。"
     }
   ]
 }
