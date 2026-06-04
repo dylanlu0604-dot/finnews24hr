@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-05 03:52:24",
-  "count": 18987,
+  "updated": "2026-06-05 03:56:18",
+  "count": 18990,
   "items": [
+    {
+      "id": "4918106",
+      "time": "2026-06-05 03:54:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥沃拉里斯航空與土耳其航空達成程式碼共享合作協議。"
+    },
+    {
+      "id": "4918105",
+      "time": "2026-06-05 03:54:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普稱汽車行業企圖限制“自主維修權”】美國總統特朗普表示，他昨天與通用汽車和福特汽車的負責人進行了一場“極其出色的會面”。特朗普指出，汽車行業希望出臺一項“禁止人們自己動手修理”自家汽車的法案。“我們會把這一切都理順，”特朗普說道。"
+    },
+    {
+      "id": "mkt:019e9431-977e-755d-92d5-c9537e50de53",
+      "time": "2026-06-05 03:52:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Space Force says Blue Origin remains eligible for major military satellite launch contracts】The US Space Force acquisition office said Blue Origin remains eligible to compete for Pentagon military launch contracts despite last week’s launch-pad explosion. The agency said the blast occurred during a final pre-launch ignition test, not a certified flight, and will not disqualify Blue Origin from certification; the company may still bid in the DoD National Security Space Launch Phase 3 Lane 2 procurement, directly competing with SpaceX."
+    },
+    {
+      "id": "4918104",
+      "time": "2026-06-05 03:52:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美太空軍：藍色起源仍有望承接重要衛星發射任務】美國太空軍採購部門表示，儘管上週發生了發射臺爆炸事故，傑夫·貝索斯旗下的藍色起源公司仍具備資格參與競標，從而與馬斯克的SpaceX競標利潤豐厚的美國軍用太空發射專案。美國太空軍稱，藍色起源此次事故，並非是發生在發射過程中，而是作為發射前的最終點火測試。由於此次爆炸並非發生在認證飛行期間，該機構表示，這不會導致藍色起源被排除在認證流程之外，該公司仍可參與競標五角大樓“國家安全太空發射計劃”第三階段（即“Lane 2”）的合同。"
+    },
     {
       "id": "mkt:019e9431-1431-755d-92d5-c12a501c9486",
       "time": "2026-06-05 03:51:44",
@@ -174991,14 +175025,6 @@
         "國際"
       ],
       "text": "據DropSiteNews 記者： 對於援引美國官員訊息、提及相關協議具體條款的報道，務必保持高度質疑。匿名美國官員多次散播不實訊息，或是為美化特朗普形象，或是明顯意在操縱市場。"
-    },
-    {
-      "id": "4905540",
-      "time": "2026-05-29 03:54:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價28日漲跌不一】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲22美分，收於每桶88.90美元，漲幅為0.25%；7月交貨的倫敦布倫特原油期貨價格下跌57美分，收於每桶93.71美元，跌幅為0.62%。"
     }
   ]
 }
