@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-04 13:55:50",
-  "count": 19044,
+  "updated": "2026-06-04 13:59:57",
+  "count": 19047,
   "items": [
+    {
+      "id": "mkt:019e9136-6c47-7cc0-ba26-ed37a3deb429",
+      "time": "2026-06-04 13:58:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share banking sector slid; Chongqing Rural Commercial Bank fell over 3%, while Bank of Ningbo, Bank of Hangzhou, Huaxia Bank and Ping An Bank each dropped more than 2%."
+    },
+    {
+      "id": "4916653",
+      "time": "2026-06-04 13:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "CrowdStrike股價在Tradegate交易平臺下跌近12%。"
+    },
+    {
+      "id": "mkt:019e9135-328f-7cc0-ba26-e12fe6a84193",
+      "time": "2026-06-04 13:57:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "601600.SS",
+        "Impact bearish"
+      ],
+      "text": "China A-share nonferrous metals sector extended afternoon weakness, led by electrolytic aluminum: Aluminum Corp of China (Chalco) neared its daily limit-down, while Tianshan Aluminum, Zinc Industry Co, Shenhuo, Yunnan Aluminum and Chihong Zinc & Germanium were among the largest decliners."
+    },
+    {
+      "id": "4916652",
+      "time": "2026-06-04 13:57:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通股票在Tradegate上下挫11.8%，因人工智慧業務營收預測不及預期。"
+    },
+    {
+      "id": "mkt:019e9134-79ba-7cc0-ba26-dc227f1a56ce",
+      "time": "2026-06-04 13:56:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active contract fell over 6% intraday to 158,400 yuan/ton."
+    },
+    {
+      "id": "4916651",
+      "time": "2026-06-04 13:56:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報158400.00元。"
+    },
+    {
+      "id": "te:markets:556374",
+      "time": "2026-06-04 13:56:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Thailand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Thailand Stocks Extend Gains to 2022 High — Thailand’s SET50 Index rose 0.8% to 1,034 around midday on Thursday, extending strength from the prior session and hitting its highest level since early 2022. Robust foreign fund inflows and reports of more than 14 million international visitors in the first five months of 2026 buoyed sentiment. Meanwhile, factory activity in Thailand grew for the 13th straight month in May, supported by faster new orders and stronger confidence. However, escalating geopolitical and trade tensions capped further strength. Meanwhile, April's private consumption fell the most since mid-July, as higher energy costs squeezed Thailand's households. Industrial services, producer manufacturing, and consumer durables were among top movers, with notable movers including Airports of Thailand (4.0%), Cal-Comp Electronics (2.0%), Bangkok Dusit Medical Services (1.1%), and Carabao Group (1.2%)."
+    },
+    {
+      "id": "4916650",
+      "time": "2026-06-04 13:56:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "午後有色板塊持續走弱，電解鋁方向領跌，中國鋁業逼近跌停，天山鋁業、鋅業股份、神火股份、雲鋁股份、馳宏鋅鍺等跌幅靠前。"
+    },
+    {
+      "id": "mkt:019e9133-f510-7cc0-ba26-d198eb6c3b0e",
+      "time": "2026-06-04 13:56:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's defense minister KATZ said if Israeli territory is struck, the Israel Defense Forces have the right to respond in Beirut."
+    },
+    {
+      "id": "mkt:019e9133-8370-7cc0-ba26-c977bcd60fe5",
+      "time": "2026-06-04 13:55:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reported an Israeli drone struck a road between Kafarmayn and Haboush in Lebanon’s southern Nabatieh region; it was unclear whether any vehicles were hit."
+    },
     {
       "id": "4916649",
       "time": "2026-06-04 13:54:33",
@@ -175442,66 +175545,6 @@
         "焦點"
       ],
       "text": "科創50日內漲幅達2.03%，成分股中，晶合整合漲11.63%，滬矽產業漲10.94%，中控技術漲9.71%，盛科通訊漲6.85%。"
-    },
-    {
-      "id": "4903982",
-      "time": "2026-05-28 13:59:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "道爾投資證券將三星電機目標股價上調至230萬韓元。"
-    },
-    {
-      "id": "4903981",
-      "time": "2026-05-28 13:59:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達100億港元。"
-    },
-    {
-      "id": "4903980",
-      "time": "2026-05-28 13:57:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【應三星電子要求 韓國化學企業PKC擬將半導體氯氣產能擴大50%】韓國化學企業PKC已啟動其群山工廠半導體氯氣產能擴建工程，產能將提升50%。年產能將從目前的1400至1500噸提升至2100至2200噸。此次投資是在事先與三星電子協商後決定的，規模達數百億韓元。擴建的驅動因素是高密度NAND快閃記憶體堆疊所需的蝕刻氣體需求激增，以及三星電子要求擴大氯化氫的供應。氯化氫常用於半導體晶圓清洗和蝕刻工藝，其透過氯氣與氫氣反應生成。 (TheElec)"
-    },
-    {
-      "id": "4903979",
-      "time": "2026-05-28 13:57:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "道達爾能源：該專案投資額為45億歐元。"
-    },
-    {
-      "id": "4903978",
-      "time": "2026-05-28 13:57:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "道達爾能源提交巨型海上風電專案許可申請。"
-    },
-    {
-      "id": "4903977",
-      "time": "2026-05-28 13:57:19",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【市場有望走出震盪格局，重回上行趨勢，A500ETF南方（159352）獲淨申購4525萬元】5月28日，A500ETF南方（159352）探底回升，截至發稿漲0.07%，成交額29億元。資金流向方面，昨日資金不懼市場回撥，逆勢淨申購4525萬元，最新份額221.22億份，規模301億元。光大證券認為，中長期來看，多重利好因素共振發力，市場有望走出震盪格局，重回上行趨勢。一方面，雖然海外地緣緊張局勢仍在持續，相關不確定性尚未完全消散，但經過前期的調整，市場對中東局勢的邊際變化已逐步鈍化，避險情緒帶來的短期擾動持續邊際弱化。另一方面，上市公司業績逐步改善，在外部風險因素影響逐步鈍化之後，國內上市公司基本面的確定性，或將成為下一個階段支撐市場逐步上行的核心力量。華安證券表示，近期市場結構迎極致分化，AI產業鏈算力中游和配件上游的核心主線地位繼續強化，仍是中期最重要方向，但需注意電子交易熱度過高面臨降溫壓力劇增，預計很快進入有幅度、有時間的調整，而近期降溫後的通訊有望成為接力電子的最優選擇。此外儲能鏈、機械裝置、軍工等也需重視。A500ETF南方（159352）憑藉“均衡配置”的特性凸顯配置價值。該產品打破了傳統寬基指數對單一行業的過度傾斜，透過科學權重設計，將傳統週期龍頭與新興科技先鋒有機融合，實現新舊動能轉換及價值與成長風格的精準平衡。作為一站式佈局利器，投資者既能依託其高度分散且均衡的持倉結構有效平滑風格輪動帶來的波動，又可精準捕獲經濟復甦紅利，進而分享中國核心資產在全球競爭中的長期溢價。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "4903976",
-      "time": "2026-05-28 13:57:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠景能源成立蔚藍交能儲能科技公司】企查查APP顯示，近日，深圳市蔚藍交能儲能科技有限公司成立，經營範圍包含：儲能技術服務；新能源原動裝置製造；新能源原動裝置銷售；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由遠景能源有限公司全資持股。"
     }
   ]
 }
