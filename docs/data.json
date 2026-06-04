@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-05 03:29:25",
-  "count": 18971,
+  "updated": "2026-06-05 03:33:17",
+  "count": 18983,
   "items": [
+    {
+      "id": "mkt:019e941f-87ec-755d-92d5-7b4369331604",
+      "time": "2026-06-05 03:32:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Bessent: U.S. likely to grant country-specific exemptions for Russian oil】U.S. Treasury Secretary Bessent told the House Appropriations Committee on Thursday that any future exemptions allowing countries to buy Russian oil would likely be granted on a country-by-country basis rather than as a blanket waiver, and that the incremental revenue Russia would gain from such exemptions would be negligible."
+    },
+    {
+      "id": "mkt:019e941f-4899-755d-92d5-75081b778a05",
+      "time": "2026-06-05 03:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. President Trump said he will build two new coal-fired power plants and export coal."
+    },
+    {
+      "id": "mkt:019e941f-4892-755d-92d5-6d7cdab64e11",
+      "time": "2026-06-05 03:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. President Trump: wind energy has underperformed."
+    },
+    {
+      "id": "mkt:019e941e-a960-755d-92d5-62263407b14c",
+      "time": "2026-06-05 03:31:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US President Trump said he will invest $700 million in the coal industry."
+    },
+    {
+      "id": "4918091",
+      "time": "2026-06-05 03:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：向煤炭領域投資 7 億美元。"
+    },
+    {
+      "id": "mkt:019e941e-1d69-755d-92d5-585592b29e2e",
+      "time": "2026-06-05 03:31:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. President Trump pledged to take historic action to lower energy prices."
+    },
+    {
+      "id": "mkt:019e941d-7751-755d-92d5-51124dc39975",
+      "time": "2026-06-05 03:30:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says he will act to harness coal to reduce energy prices."
+    },
+    {
+      "id": "mkt:019e941d-50d9-755d-92d5-48a2b3e5bc03",
+      "time": "2026-06-05 03:30:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【Daly: Forward guidance not appropriate now】Daly said Fed policy is currently in a good place but the economic outlook is too uncertain to signal a clear path for rates, so providing forward guidance is inappropriate. She identified inflation—driven by rising energy and food prices—as the Fed's primary concern and said returning inflation to target is the top priority. Daly said current data do not show clear productivity gains from AI, but she is optimistic and views 2027 as a potential litmus test; she sees no financial-stability risks from AI-related investment."
+    },
+    {
+      "id": "4918090",
+      "time": "2026-06-05 03:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：風能專案運營效果很不理想。"
+    },
+    {
+      "id": "4918089",
+      "time": "2026-06-05 03:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將針對煤炭行業採取相關舉措。"
+    },
+    {
+      "id": "mkt:019e941c-bc53-755d-92d5-41afdb9e114c",
+      "time": "2026-06-05 03:29:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said the prime minister reiterated in a call with Lebanon's president that Qatar condemns Israel's continued attacks on Lebanon."
+    },
+    {
+      "id": "4918088",
+      "time": "2026-06-05 03:29:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：採取歷史性行動降低能源價格。"
+    },
     {
       "id": "mkt:019e941a-e29f-755d-92d5-3dad14f0bdc0",
       "time": "2026-06-05 03:27:30",
