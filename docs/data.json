@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-04 12:44:06",
-  "count": 19041,
+  "updated": "2026-06-04 12:47:56",
+  "count": 19044,
   "items": [
+    {
+      "id": "4916580",
+      "time": "2026-06-04 12:46:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【臺積電CEO魏哲家：將全力照顧員工 有信心員工利潤分享2026年將再增長30%】鑑於韓國近期因薪資問題引發的勞資緊張局勢——上月，三星電子與工會達成協議以避免罷工——臺積電表示，公司將全力照顧員工。“我們的員工利潤分享從2023年到2024年增長了約30%，從2024年到2025年又增長了約30%，”臺積電CEO魏哲家表示。“我們有信心2026年將再增長30%。”“我們認為這為員工提供了豐厚的回報，”他表示，並補充道，員工利潤分享的年增長率沒有30%的上限，因為它將持續增長。"
+    },
+    {
+      "id": "mkt:019e90f3-d23c-7cc0-ba25-170c29b5aeb2",
+      "time": "2026-06-04 12:45:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China to bar entry to certain New Zealand MPs】China's embassy in Wellington said on June 4 it will bar entry and impose other measures on a small group of New Zealand MPs who visited Taiwan despite repeated warnings, saying their meetings with local politicians violated the One China principle. The embassy said the MPs' actions, publicized in local media, amounted to interference in China's internal affairs and fall under relevant PRC laws. Beijing reiterated it opposes visits to Taiwan by foreign legislators and that similar cases will not be exempt from consequences."
+    },
+    {
+      "id": "4916579",
+      "time": "2026-06-04 12:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魏哲家：臺積電沒有失去競爭優勢的風險】臺積電執行長表示，該公司在下一代晶片製造領域並未落後。此舉駁斥了外界疑慮。外界此前擔心，競爭對手已採用極昂貴裝置製造尖端晶片，使臺積電處於劣勢。在年度股東大會上，臺積電執行長魏哲家闡明瞭這家晶片巨頭對荷蘭公司阿斯麥(ASML)獨家制造的裝置的立場。這些裝置被視為突破微晶片製造極限的關鍵。魏哲家週四表示：事實上，我們已經購買了這類裝置，我們的團隊正在積極進行相關研發，只是目前還沒有將其部署於大批次規模化生產。當一位股東追問這家臺灣公司從阿斯麥購買了多少臺裝置時，魏哲家不予給出具體數字。"
+    },
+    {
+      "id": "mkt:019e90f3-000e-7cc0-ba25-0934a20836ae",
+      "time": "2026-06-04 12:45:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC CEO said the company is doing its utmost to ensure it does not become a supply bottleneck."
+    },
+    {
+      "id": "mkt:019e90f2-c896-7cc0-ba25-03ffba8c4683",
+      "time": "2026-06-04 12:44:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ASML.AS",
+        "Impact bullish",
+        "LRCX.O",
+        "AMAT.O"
+      ],
+      "text": "TSMC CEO says rapid AI-driven growth is leaving many suppliers unable to keep up with demand."
+    },
+    {
+      "id": "4916578",
+      "time": "2026-06-04 12:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：人工智慧的快速增長已導致許多供應商難以滿足需求。"
+    },
+    {
+      "id": "mkt:019e90f2-8af5-7cc0-ba24-fc0603da4480",
+      "time": "2026-06-04 12:44:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources say India will soon launch an incentive scheme for lithium and nickel processing, allocating about INR 30 billion."
+    },
+    {
+      "id": "4916577",
+      "time": "2026-06-04 12:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長表示：我們正盡全力確保臺積電不會成為（供應鏈）瓶頸。"
+    },
     {
       "id": "mkt:019e90ee-fa79-7cc0-ba24-f353081fabe4",
       "time": "2026-06-04 12:40:35",
@@ -175363,46 +175445,6 @@
         "其他"
       ],
       "text": "渣打銀行宣佈在香港首筆機構加密資產託管業務中為Solowin Holdings提供支援。"
-    },
-    {
-      "id": "4903888",
-      "time": "2026-05-28 12:45:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科大訊飛AI眼鏡釋出 主打全場景翻譯和超級AI助理】5月28日，科大訊飛(002230)在澳門BEYOND Expo 2026上正式釋出訊飛AI眼鏡，全面展示新品全場景翻譯、智慧提詞、GlassClaw AI助理、40g超輕機身等核心亮點。訊飛AI眼鏡支援122種語言實時翻譯。產品搭載多麥克風陣列與演算法協同的超強降噪系統，同時創新引入視覺降噪技術。新品內建智慧提詞功能，適用於演講、彙報、採訪等多元場景。訊飛AI眼鏡透過GlassClaw可實現多模態記錄、AI會議紀要及生活服務呼叫。"
-    },
-    {
-      "id": "4903887",
-      "time": "2026-05-28 12:45:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "哈薩克拒絕與盧克石油公司就業務出售進行談判。"
-    },
-    {
-      "id": "4903886",
-      "time": "2026-05-28 12:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國和越南就技術和航空合作達成一致。"
-    },
-    {
-      "id": "4903885",
-      "time": "2026-05-28 12:45:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國英格蘭和威爾士去年出生人口近50年最少】英國國家統計局27日釋出的資料顯示，2025年英格蘭地區和威爾士地區的新生兒數量約為58.5萬人，創近半個世紀以來的最低紀錄。統計顯示，2025年英格蘭地區和威爾士地區新生兒數量為585396人，比2024年減少近1萬人，為1977年以來的最低值。"
-    },
-    {
-      "id": "mkt:019e6ce6-19ca-722b-8ac9-90403d5a2396",
-      "time": "2026-05-28 12:44:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Second-Instance Verdict In Xu Faqi Criminal Group Case Involving Northern Myanmar】On May 28, 2026, the Chongqing Higher People’s Court publicly pronounced its second‑instance verdict in the appeal of the Xu Faqi criminal group case, ruling to dismiss the appeals and uphold the original judgment, and, in accordance with law, approving a death sentence for defendant Xu Faqi with a two‑year reprieve. The court held that the facts found at first instance were clear, the evidence true and sufficient, the convictions accurate, the sentence appropriate and trial procedures lawful. The appellants’ grounds for appeal and the defence’s arguments were not sustained; the court therefore issued a final ruling in accordance with law."
     }
   ]
 }
