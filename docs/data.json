@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-04 07:59:24",
-  "count": 19243,
+  "updated": "2026-06-04 08:03:23",
+  "count": 19232,
   "items": [
+    {
+      "id": "4916176",
+      "time": "2026-06-04 08:02:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油價格開盤下跌0.5%，此前以色列和黎巴嫩同意停火協議。"
+    },
+    {
+      "id": "mkt:019e8ff0-4e72-7003-8287-a03e5e964a0a",
+      "time": "2026-06-04 08:02:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Wall Street Journal reports Trump told aides he would not restart a full-scale war with Iran unless U.S. forces were killed in an attack."
+    },
+    {
+      "id": "4916175",
+      "time": "2026-06-04 08:01:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。"
+    },
+    {
+      "id": "4916174",
+      "time": "2026-06-04 08:01:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，特朗普向助手錶示，除非有美軍人員遇襲身亡，否則他不會對伊朗重啟全面敵對行動。"
+    },
+    {
+      "id": "mkt:019e8fef-7bbd-7443-8fe6-581130de2c3d",
+      "time": "2026-06-04 08:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks open lower】On Thursday June 4, Japan's Nikkei 225 opened down 442.74 points (-0.65%) at 67,959.39. South Korea's KOSPI opened down 170.78 points (-1.94%) at 8,630.71."
+    },
+    {
+      "id": "4916173",
+      "time": "2026-06-04 08:01:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2%，至8623.82點。"
+    },
+    {
+      "id": "4916172",
+      "time": "2026-06-04 08:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經平均指數開盤下跌0.8％，報67860.84點，科技股與電子股拖累大盤走弱。韓國綜合股價指數（KOSPI）開盤下跌2％，至8623.82點。"
+    },
+    {
+      "id": "mkt:019e8fee-70e2-7443-8fe6-55462e4a22bc",
+      "time": "2026-06-04 08:00:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Rubio: Russia-Ukraine talks stalled; escalation risk】On the 3rd, U.S. Secretary of State Rubio told a Senate Appropriations subcommittee that negotiations between Russia and Ukraine have stalled in recent months and carry a real risk of escalation. He said the conflict cannot be resolved by military means and must be settled diplomatically, but that route has not produced results to date. Both sides appear unwilling to make the concessions required for a deal, he said. Russia retains long-range strike capabilities and Ukraine can retaliate in kind, making the risk of escalation real and more tangible than two years ago."
+    },
+    {
+      "id": "4916171",
+      "time": "2026-06-04 07:59:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "中金公司研究部首席宏觀經濟分析師張文朗表示，從總量政策看，下半年貨幣政策將延續“適度寬鬆”的基調，預計降準降息將視經濟增長和物價水平情況而定。"
+    },
     {
       "id": "4916170",
       "time": "2026-06-04 07:58:42",
@@ -177012,242 +177105,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）擴大跌幅至1.1%。"
-    },
-    {
-      "id": "mkt:019e6be5-2e15-799a-aad0-7fdabc6be5df",
-      "time": "2026-05-28 08:02:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Fed Vice Chair JEFFERSON said he is monitoring whether high energy prices could put pressure on consumer spending."
-    },
-    {
-      "id": "mkt:019e6be5-2d99-799a-aad0-70d827e9d66b",
-      "time": "2026-05-28 08:01:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Vice Chair JEFFERSON said he has not yet formed a view on the outcome of the June FOMC meeting."
-    },
-    {
-      "id": "em:qqyh_mlc:202605283751930936",
-      "time": "2026-05-28 08:01:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲副主席傑斐遜：目前貨幣政策適當】美聯儲副主席傑斐遜稱，目前貨幣政策適當；對6月聯邦公開市場委員會會議結果沒有預設立場；預計今年晚些時候通脹將減弱。"
-    },
-    {
-      "id": "mkt:019e6be5-2d40-799a-aad0-688b52c0fb03",
-      "time": "2026-05-28 08:01:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Vice Chair JEFFERSON: The United States is not immune to oil-related energy shocks."
-    },
-    {
-      "id": "mkt:019e6be5-2ce8-799a-aad0-64fff6a35c5c",
-      "time": "2026-05-28 08:01:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Japan, South Korea Markets Open Lower】JAPAN'S NIKKEI INDEX opened May 28 (Thursday) down 197.19 points (-0.30%) at 64,802.22. South Korea's KOSPI opened May 28 (Thursday) down 78.27 points (-0.95%) at 8,150.43."
-    },
-    {
-      "id": "mkt:019e6be5-2ce4-799a-aad0-5c77ccf90c9b",
-      "time": "2026-05-28 08:01:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "JEFFERSON said he expects inf to ease later this year as tariff and energy effects wane."
-    },
-    {
-      "id": "4903336",
-      "time": "2026-05-28 08:01:23",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金：北京、上海樓市拐點進一步確認，兩地房價企穩後有望年內轉漲】中金公司研報認為，北京、上海樓市拐點進一步確認，兩地房價企穩後有望年內轉漲。中金此前提示供給側自然出清將驅動北上房價止跌回穩，節後掛牌量、交易量、去化週期和房價等指標走勢已進一步印證觀點。往前看，得益於此前積壓的相當體量的潛在購房需求、房價走穩後相較租售比更低的購房成本、已進入合理區間的房價收入比，兩地房價有望在企穩一段時間後轉入上行，並透過梯隊式需求逐步向新房市場擴散。"
-    },
-    {
-      "id": "mkt:019e6be5-2c93-799a-aad0-54d1801e6c8e",
-      "time": "2026-05-28 08:01:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Vice Chair JEFFERSON: Labor market broadly stable."
-    },
-    {
-      "id": "mkt:019e6be5-2c87-799a-aad0-4dffa07e5a7b",
-      "time": "2026-05-28 08:01:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Vice Chair JEFFERSON: Monetary policy is \"well positioned\" to respond to changes in the economy."
-    },
-    {
-      "id": "4903335",
-      "time": "2026-05-28 08:01:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報90.46美元/桶。"
-    },
-    {
-      "id": "mkt:019e6be5-1a8a-799a-aad0-41054c67d5e9",
-      "time": "2026-05-28 08:01:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve Vice Chair JEFFERSON said he is resolutely committed to restoring inf to 2%."
-    },
-    {
-      "id": "4903334",
-      "time": "2026-05-28 08:00:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市集體低開】日經225指數低開0.35%，報64770.76點。韓國綜合股價指數（KOSPI）開盤下跌0.8%，至8165.73點。"
-    },
-    {
-      "id": "mkt:019e6be4-abf5-799a-aad0-3bd9cd6a9867",
-      "time": "2026-05-28 08:00:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【He Tingbo: External Constraints Have Imposed Stringent Limits But Also Gave Us A Purer Work Drive】People's Daily published an interview with Huawei board director and president of the Semiconductor Business Unit He Tingbo. He said that faced with various difficulties the company did not retreat and fought with all its might. What we pride ourselves on is a simple belief and unglamorous, stubborn hard work; as long as the direction is correct, moving more slowly is acceptable — by continually moving forward you will eventually find bridges and roads. Relying on sustained basic-theory research and practice, we not only cleared a path but built a highway. We are an engineer-led company; engineers' work is to solve problems. External environmental constraints have imposed very stringent limits on us, but they have also given us a purer work drive. Most of the time the team works resolutely, quietly and calmly, because only when calm, focused and free of distractions can one sincerely, openly and deeply probe problems and find solutions."
-    },
-    {
-      "id": "mkt:019e6be4-501d-799a-aad0-33b97ad8a15b",
-      "time": "2026-05-28 08:00:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Fed Vice Chair JEFFERSON said labor-market risks are slightly skewed to the downside."
-    },
-    {
-      "id": "mkt:019e6be3-b143-799a-aad0-2c9d1c5b9a42",
-      "time": "2026-05-28 08:00:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Federal Reserve Vice Chair JEFFERSON said recent US economic activity has been running solidly."
-    },
-    {
-      "id": "mkt:019e6be3-6315-799a-aad0-21dd7044503b",
-      "time": "2026-05-28 08:00:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Fed Vice Chair JEFFERSON said an energy shock poses a downside risk to economic growth and an upside risk to inf."
-    },
-    {
-      "id": "mkt:019e6be3-14e9-799a-aad0-1e7a10c614d3",
-      "time": "2026-05-28 08:00:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "JEFFERSON, Fed Vice Chair, said risks to the inf outlook are skewed to the upside."
-    },
-    {
-      "id": "te:markets:554204",
-      "time": "2026-05-28 08:00:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Japanese Yen Hits 4-week Low — The Japanese Yen touched 159.59 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 0.03%, and in the last 12 months, it increased 10.17%."
-    },
-    {
-      "id": "4903333",
-      "time": "2026-05-28 08:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報93.61美元/桶。"
-    },
-    {
-      "id": "4903332",
-      "time": "2026-05-28 07:59:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國指控谷歌工程師在Polymarket平臺進行內幕交易。谷歌在一份宣告中表示，公司正配合執法部門調查，並稱利用機密資訊進行投注嚴重違反公司政策。據谷歌發言人透露，當事人斯帕尼烏洛已被停職。"
     }
   ]
 }
