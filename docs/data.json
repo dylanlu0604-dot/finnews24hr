@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-04 14:33:37",
-  "count": 19054,
+  "updated": "2026-06-04 14:37:36",
+  "count": 19048,
   "items": [
+    {
+      "id": "4916711",
+      "time": "2026-06-04 14:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度官員： 印度未來六個月將再簽署 2 至 3 項實質性自由貿易協定。"
+    },
+    {
+      "id": "4916710",
+      "time": "2026-06-04 14:36:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量3601億元。"
+    },
+    {
+      "id": "4916709",
+      "time": "2026-06-04 14:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "寮國人革黨中央總書記、國家主席通倫參訪中央黨校。（新華社）"
+    },
+    {
+      "id": "4916708",
+      "time": "2026-06-04 14:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓產業部長：美方重申對韓關稅稅率上限不超15%】據報道，韓國產業通商部長官金正官4日表示，在美方依據美國《貿易法》第301條對韓國等經濟體啟動調查的背景下，美國商務部長霍華德·盧特尼克再次重申，美方對韓適用的關稅稅率將不超過15%。金正官當天發文稱，我昨晚與盧特尼克舉行影片會談，檢查韓美去年達成的關稅協議落實情況，並重申雙方持續遵守協議的意志。金正官強調稱，美方再次確認其對韓國產進口品的關稅稅率將不會超過關稅協議規定的15%上限。"
+    },
+    {
+      "id": "mkt:019e9156-518c-7cc0-ba27-d5bc605ccf15",
+      "time": "2026-06-04 14:33:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE tin 2607 futures weakened sharply intraday, extending losses to 4.0% and sliding to 430,120 yuan/ton. Trading value exceeded 120 billion yuan; open interest fell roughly 6,200 contracts, leaving positions marginally lower."
+    },
     {
       "id": "4916707",
       "time": "2026-06-04 14:32:43",
@@ -175524,102 +175568,6 @@
         "國際"
       ],
       "text": "【安聯投資：中國值得在國際指數中獲得更高的權重 吸引更多被動投資的外資】在今天召開的深交所2026全球投資者大會上，安聯投資股票首席投資官邁克爾·赫爾德曼（Michael Heldmann）表示，隨著中國企業的持續上市，A股整體市值正在持續擴容，中國GDP、A股成交量在全球市場佔比也在不斷提升。不過國際指數中，目前中國的權重佔比僅有3%左右，處於相當低的權重水平，而被動投資目前已愈發重要，美國在國際指數權重達到64.9%。未來，值得在國際指數中獲得更高的權重，這也會吸引更多的外資，尤其是被動投資的外資進入到市場中。"
-    },
-    {
-      "id": "4904045",
-      "time": "2026-05-28 14:36:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊緊張局勢重燃，美元上漲】隨著伊朗戰爭緊張局勢重燃導致油價上漲且投資者尋求避險，美元在隔夜觸及七週高點後維持高位。在德黑蘭向霍爾木茲海峽的商船發射無人機後，美軍週三對伊朗進行了新的軍事打擊。美國總統特朗普還駁斥了伊朗國家新聞機構的一篇報道，該報道稱伊朗已收到一份恢復透過該海峽航運的非正式協議草案。DXY美元指數上漲0.2%，至99.359，隔夜最高曾觸及99.544。"
-    },
-    {
-      "id": "mkt:019e6d4c-abe4-722b-8acb-47546fe7814e",
-      "time": "2026-05-28 14:36:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Refiles $10 Billion Defamation Suit Against Wall Street Journal, News Corp Over Epstein Report】Trump has refiled a $10 billion defamation suit against the Wall Street Journal and parent News Corp over a WSJ report linking him closely to Jeffrey Epstein. The amended complaint was filed Wednesday night local time in federal court in Florida, submitted before a judge-set deadline. An earlier complaint in the same case was dismissed by the judge, who found the plaintiff failed to sufficiently allege the reporting was made with \"actual malice\" — the high legal threshold for defamation claims involving public figures. The suit targets a Wall Street Journal article published in July 2025 that reported Trump sent a \"lewd\" birthday card to Epstein in 2003; Trump has repeatedly said the card was forged."
-    },
-    {
-      "id": "4904044",
-      "time": "2026-05-28 14:36:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣價格上漲，海灣新襲擊擊碎霍爾木茲海峽通航希望】波斯灣地區再度爆發襲擊事件，削弱了外界對美伊有望重啟霍爾木茲海峽這一關鍵航道的預期，歐洲天然氣價格應聲上漲。週四，歐洲基準天然氣期貨漲幅最高達 4%，而前一日剛出現下跌。美國對伊朗一處軍事設施發動空襲並實施新制裁，旨在阻止伊朗從經霍爾木茲海峽通行的船隻中獲利。緊張局勢再度升級，令本就脆弱的停火協議岌岌可危；衝突持續時間的不確定性，加劇了市場焦慮 —— 歐洲貿易商正急於補充已耗盡的天然氣庫存。"
-    },
-    {
-      "id": "te:markets:554333",
-      "time": "2026-05-28 14:36:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Under Pressure at Close — The ASX 200 tumbled 125 points or 1.4% to end at 8,593 on Thursday, reversing strength in the prior session and marking a one-week low. Sentiment was hit by fresh data showing Australia's household spending fell for the first time in four months in April, highlighting the impact of the RBA’s three interest rate hikes since the start of 2026. Meanwhile, U.S. stock futures moved lower amid the fragile ceasefire between Washington and Tehran following fresh U.S. strikes on an Iranian military site. Still, a solid rebound in Q1 capital expenditure helped limit losses, mainly lifted by stronger spending on plant machinery. In addition, softer-than-expected April inflation eased concerns that the RBA could maintain a tightening bias. Losses were broadly spread, led by falls in mining, consumer, financial, and healthcare stocks. The four major banks dropped between 1.4% and 2.2%. Other notable laggards included BHP Group (-1.3%), Northern Star Resources (-7.4%), and Evolution Mining (-7.3%)."
-    },
-    {
-      "id": "4904043",
-      "time": "2026-05-28 14:35:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【記者暗訪遭拖拽致骨折，中國記協發聲】“中國記協”微信公眾號訊息，據大象新聞訊息，5月26日晚，大象新聞記者接到線索對杭州臨平區一涉嫌非法代孕窩點進行暗訪，遭不明身份人員拖拽導致骨折。 事發後，中國記協高度關注，第一時間聯絡有關方面，請當地認真核實情況，儘快瞭解事件原委和進展，督促有關方面切實保障新聞工作者人身安全和正當採訪權益。受中國記協委託，5月28日上午，浙江省記協、杭州市記協有關負責同志看望慰問了受傷女記者。 5月28日上午，浙江杭州臨平區聯合調查處置組釋出了情況通報。我們將持續關注後續調查及處理結果。"
-    },
-    {
-      "id": "4904042",
-      "time": "2026-05-28 14:34:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“東風氫芯”400kW燃料電池創下行業新紀錄】日前，東風汽車自主研發的全球首款面向49噸重卡的400kW金屬雙極板燃料電池單堆，成功透過新國標10000小時耐久驗證，引發業界強烈關注。 5月27日，在武漢舉行的“媒體走進東風氫能”專題探訪交流活動上，東風汽車研發總院相關人員表示，東風汽車在氫能領域不僅是國內行業第一，也是全球頂尖水平。在東風發布400kW電堆後，已有不少國際知名品牌跟進，博世和豐田都已立項350kW以上大堆專案。 據悉，該電堆體積功率密度達6.6kW/L，設計壽命超30000小時，可實現-40℃低溫冷啟動，綜合指標填補國內大功率技術空白，獲評湖北省61020標誌性創新產品。（極目新聞）"
-    },
-    {
-      "id": "4904041",
-      "time": "2026-05-28 14:34:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐元區債券收益率跟隨美國國債收益率走高】在有報道稱美國對伊朗發動新一輪打擊後，歐元區政府債券收益率上升，跟隨美國國債收益率走高。丹麥銀行的Filip Andersson在一份報告中表示：“雖然美國再次宣告對伊朗的打擊是‘防禦性的’，且美國打算維持停火，但市場可能會繼續關注新的訊息面，而且近期對即將達成外交協議的樂觀情緒可能會受到質疑的風險。“歐元區政府債券可能會受到來自義大利國債拍賣以及奧地利和葡萄牙債券銀團發行的大量供應的影響。根據Tradeweb的資料，10年期德國國債收益率上升2.7個基點，至3.009%。"
-    },
-    {
-      "id": "mkt:019e6d4a-c4db-722b-8acb-3b65709eabcb",
-      "time": "2026-05-28 14:34:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Middle East Special Envoy Zhai Jun Meets Finland Political Department Director Hakkarainen】On May 27, 2026, China's government Special Envoy for Middle East Affairs Zhai Jun met by arrangement with Hakkarainen, Director‑General of the Political Department at Finland's Ministry for Foreign Affairs; the two exchanged views focusing on hotspot issues in the Middle East."
-    },
-    {
-      "id": "4904040",
-      "time": "2026-05-28 14:34:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "前英國石油（BP）董事長曼諾爾德表示：“一直有說法稱，我希望擔任英國石油執行董事長一職，這完全是無稽之談。”"
-    },
-    {
-      "id": "4904039",
-      "time": "2026-05-28 14:34:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST嶺南盤中漲停，上演“地天板”，現報0.95元，成交額1.9億元。"
-    },
-    {
-      "id": "4904038",
-      "time": "2026-05-28 14:33:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國政府中東問題特使翟雋會見芬蘭外交部政治司司長哈卡賴寧】2026年5月27日，中國政府中東問題特使翟雋應約會見芬蘭外交部政治司司長哈卡賴寧，雙方重點就中東地區熱點問題交換意見。（外交部）"
     }
   ]
 }
