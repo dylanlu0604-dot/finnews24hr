@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-05 01:15:07",
-  "count": 18897,
+  "updated": "2026-06-05 01:19:04",
+  "count": 18900,
   "items": [
+    {
+      "id": "mkt:019e93a4-9800-711f-ac53-4707b1437b0b",
+      "time": "2026-06-05 01:18:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin said Russia needs to bolster its air-defence capabilities and that some Ukrainian drones have penetrated defenses and entered Russian territory."
+    },
+    {
+      "id": "4917931",
+      "time": "2026-06-05 01:18:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：特朗普在阿拉斯加向俄羅斯提出了若干妥協要求，俄羅斯已做好準備。"
+    },
+    {
+      "id": "4917930",
+      "time": "2026-06-05 01:18:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威天然氣運輸公司Gassco計劃於6月4日17:15至6月5日04:00暫停 Troll 氣田供氣，日減供量為1000萬立方米。"
+    },
+    {
+      "id": "4917929",
+      "time": "2026-06-05 01:17:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們已準備好透過和平方式與烏克蘭達成協議。"
+    },
+    {
+      "id": "4917928",
+      "time": "2026-06-05 01:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯擁有實現軍事目標所需的全部資源，且這些資源正不斷擴充。"
+    },
+    {
+      "id": "mkt:019e93a3-0245-711f-ac53-3e8e93b7f7e2",
+      "time": "2026-06-05 01:16:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Putin said Russia has recently occupied about 2,440 sq km of Ukrainian territory; over 85% of Donetsk region and about 80% of Zaporizhzhia region are under Russian control."
+    },
+    {
+      "id": "4917927",
+      "time": "2026-06-05 01:16:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（6月4日），美聯儲隔夜逆回購協議（RRP）使用規模為11.22億美元（交易對手18家），上個交易日報20.62億美元。"
+    },
+    {
+      "id": "4917926",
+      "time": "2026-06-05 01:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭缺乏巡航導彈以及俄羅斯目前擁有的其他武器裝備。"
+    },
+    {
+      "id": "4917925",
+      "time": "2026-06-05 01:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：不幸的是，部分烏克蘭無人機已經突入俄羅斯境內。"
+    },
+    {
+      "id": "4917924",
+      "time": "2026-06-05 01:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們需要加強本國的防空系統。"
+    },
+    {
+      "id": "mkt:019e93a1-8532-711f-ac53-36eb401340cd",
+      "time": "2026-06-05 01:14:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Putin said Russia has full control of the Luhansk region."
+    },
+    {
+      "id": "4917923",
+      "time": "2026-06-05 01:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：頓涅茨克地區逾85%的領土已處於俄羅斯控制之下。"
+    },
     {
       "id": "mkt:019e93a1-6342-711f-ac53-29da14a9f58e",
       "time": "2026-06-05 01:14:47",
@@ -123,6 +234,14 @@
         "MKT News"
       ],
       "text": "Putin said US-India relations will not impede Russia-India ties."
+    },
+    {
+      "id": "4917915",
+      "time": "2026-06-05 01:09:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國中央司令部太空軍，作為中央司令部的太空作戰力量，在中東地區佔據著戰略制高點，支援美國戰鬥人員執行維護地區安全與穩定的任務。太空部隊具備隨時可用的攻防能力，全天候待命。"
     },
     {
       "id": "4917914",
@@ -174006,102 +174125,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆：美債收益率漲幅的四分之一大機率來自期限溢價。"
-    },
-    {
-      "id": "mkt:019e6f98-bb00-7eef-a301-3a53a1cc2ae2",
-      "time": "2026-05-29 01:19:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Fed MUSALEM said recent bond-market volatility largely reflects expectations of a higher neutral rate."
-    },
-    {
-      "id": "mkt:019e6f98-9660-7eef-a301-34692cba6d91",
-      "time": "2026-05-29 01:18:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "MUSALEM: Bond market signals economic resilience and rising inf expectations."
-    },
-    {
-      "id": "4905384",
-      "time": "2026-05-29 01:18:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆薩萊姆：近期債券市場的走勢大多由中性利率預期上行推動。"
-    },
-    {
-      "id": "4905383",
-      "time": "2026-05-29 01:18:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：收益率上行幅度中，四分之三源於市場上調長期中性利率預期。"
-    },
-    {
-      "id": "4905382",
-      "time": "2026-05-29 01:18:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：債券市場當前反映出經濟韌性強勁，通脹預期上行。"
-    },
-    {
-      "id": "4905381",
-      "time": "2026-05-29 01:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約聯邦儲備銀行5月28日接受了提交至逆回購工具的全部11.63億美元申請額度。"
-    },
-    {
-      "id": "mkt:019e6f96-8086-7eee-b1e9-8850980d32ac",
-      "time": "2026-05-29 01:16:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "WDC.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk CTO says new AI memory HBF will enter sampling by year-end; full controller-equipped product expected to launch next year."
-    },
-    {
-      "id": "4905380",
-      "time": "2026-05-29 01:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "雷克薩斯LF-ZC概念轎車的量產版本開發工作將暫停。"
-    },
-    {
-      "id": "4905379",
-      "time": "2026-05-29 01:15:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大APOTEX HEALTH公司遞交 IPO 申請。"
-    },
-    {
-      "id": "4905378",
-      "time": "2026-05-29 01:15:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【閃迪CTO：AI競賽正變成“拼記憶體” HBF成套產品明年推出】閃迪（Sandisk）技術長表示，AI大模型、KV快取和專家混合模型等技術趨勢，正使全球AI競賽日益“以記憶體為中心”，客戶搶籤長期採購協議的力度前所未見。與此同時，閃迪披露其新型AI記憶體HBF（堆疊式快閃記憶體）將在年底送樣，配備控制器的完整產品預計於明年正式推出。"
     }
   ]
 }
