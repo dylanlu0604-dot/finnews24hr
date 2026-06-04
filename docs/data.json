@@ -1,7 +1,166 @@
 {
-  "updated": "2026-06-04 13:04:00",
-  "count": 19037,
+  "updated": "2026-06-04 13:08:14",
+  "count": 19051,
   "items": [
+    {
+      "id": "mkt:019e9107-66d9-7cc0-ba25-afce3c493ab8",
+      "time": "2026-06-04 13:07:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said he regretted residents in some constituencies experienced confusion in local elections after ballots ran short. He urged relevant bodies to prevent a recurrence and called for those responsible to be held accountable."
+    },
+    {
+      "id": "mkt:019e9107-375e-7cc0-ba25-a0ebf2681e88",
+      "time": "2026-06-04 13:07:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India money-market volumes hit record as banks boost funding to meet credit surge】India money-market turnover climbed to a record as state-owned banks ramped lending to fund robust credit demand, data showed. Analysis from the country’s clearing house said a further driver was that private banks—traditionally net borrowers—unusually flipped to net lenders in May. The tri-party repo segment, which accounts for about 70% of the money market, reached Rs 5.5 tln (USD 57.8bn) on May 13 and has stayed elevated. In recent weeks a scramble for cash has pushed up overnight borrowing costs and short-term yields, underscoring banks’ ongoing difficulty attracting deposits as household savings shift into other investment products."
+    },
+    {
+      "id": "4916604",
+      "time": "2026-06-04 13:06:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：就地方選舉部分選區因選票短缺導致選民參選混亂一事致歉。"
+    },
+    {
+      "id": "mkt:019e9106-197c-7cc0-ba25-9a276ad9ecec",
+      "time": "2026-06-04 13:05:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said recent housing market conditions have eased, partly reflecting tighter monetary policy."
+    },
+    {
+      "id": "4916603",
+      "time": "2026-06-04 13:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：近幾個月房地產市場狀況有所緩解，這在一定程度上反映出貨幣政策收緊的影響。"
+    },
+    {
+      "id": "mkt:019e9105-f40d-7cc0-ba25-95737b6fcf1e",
+      "time": "2026-06-04 13:05:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA Governor Bullock said the bank has seen signs this round of tightening is beginning to take effect, but the full impact on the economy will take about 1-2 years."
+    },
+    {
+      "id": "4916602",
+      "time": "2026-06-04 13:05:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：近期加息不會影響油價驅動的通脹。"
+    },
+    {
+      "id": "mkt:019e9105-5c07-7cc0-ba25-88c0a9c931af",
+      "time": "2026-06-04 13:05:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said inflation is too high and the board will take necessary measures to meet its mandate of maintaining price stability and full employment."
+    },
+    {
+      "id": "mkt:019e9105-2a7a-7cc0-ba25-870cb4a5446f",
+      "time": "2026-06-04 13:04:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said monetary policy is well placed to respond to evolving conditions after three cash rate increases."
+    },
+    {
+      "id": "mkt:019e9105-1ffd-7cc0-ba25-7aaf3f9a3c06",
+      "time": "2026-06-04 13:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the bank will closely monitor economic conditions to assess the combined impact of higher interest rates and energy price shocks."
+    },
+    {
+      "id": "mkt:019e9105-0719-7cc0-ba25-7392ffa578af",
+      "time": "2026-06-04 13:04:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the bank expects inflation to rise further in the near term."
+    },
+    {
+      "id": "4916601",
+      "time": "2026-06-04 13:04:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：通脹水平目前過高，央行董事會將採取其認為必要的措施，完成我們的法定目標，即實現物價穩定與充分就業。"
+    },
+    {
+      "id": "mkt:019e9104-ec10-7cc0-ba25-6a4ba64cb428",
+      "time": "2026-06-04 13:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said data and developments since May have not materially differed from the bank's expectations."
+    },
+    {
+      "id": "4916600",
+      "time": "2026-06-04 13:04:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：在已三次上調現金利率後，貨幣政策已做好充分準備應對形勢變化。"
+    },
+    {
+      "id": "4916599",
+      "time": "2026-06-04 13:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：澳儲行已看到一些跡象表明緊縮政策開始奏效。"
+    },
+    {
+      "id": "mkt:019e9104-8012-7cc0-ba25-62112c725a14",
+      "time": "2026-06-04 13:04:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China A-share copper cable and high-speed connector sector jumped in an afternoon intraday rally: Dingtong Technology hit the 20% limit, Yidong Electronics rose over 14%, Xinke Materials earlier hit limit-up, and Jin Xinnuo, AVIC Optoelectronics and Yihua Co. also advanced."
+    },
+    {
+      "id": "4916598",
+      "time": "2026-06-04 13:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：我們將密切監測經濟形勢，評估加息與能源價格衝擊的綜合影響正在如何演變。"
+    },
+    {
+      "id": "4916597",
+      "time": "2026-06-04 13:03:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大地電氣等成立汽車電子新公司】企查查APP顯示，近日，安徽大地騰達汽車電子有限公司成立，註冊資本5000萬元，經營範圍包含：汽車零部件研發；汽車零部件及配件製造；汽車零配件零售；電線、電纜經營等。企查查股權穿透顯示，該公司由大地電氣等共同持股。"
+    },
     {
       "id": "4916596",
       "time": "2026-06-04 13:03:20",
@@ -175372,40 +175531,6 @@
         "市場"
       ],
       "text": "港股黃金股下跌，山東黃金下跌8.4%，中國黃金國際跌8.7%。"
-    },
-    {
-      "id": "4903911",
-      "time": "2026-05-28 13:06:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【烏干達病毒專家：遏制埃博拉需保持冷靜、區域協同】本輪埃博拉疫情在剛果（金）東部以及鄰國烏干達持續蔓延。烏干達病毒研究所主任龐蒂亞諾·卡利布日前接受記者專訪時表示，各方應保持冷靜，加強區域協同應對，增加資源投入，這是扭轉疫情上升趨勢的關鍵。（新華社）"
-    },
-    {
-      "id": "mkt:019e6cf9-e85a-722b-8aca-03b38144466f",
-      "time": "2026-05-28 13:06:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share baijiu stocks continued to decline in the afternoon; Jinzhongzi fell nearly 8%, Huangtai Wine and Jinhui dropped more than 5%, while Yingjia Gongjiu, Laobaigan and Shede also declined."
-    },
-    {
-      "id": "4903910",
-      "time": "2026-05-28 13:06:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本郵政銀行行長：本財年將繼續購買日本政府債券。"
-    },
-    {
-      "id": "4903909",
-      "time": "2026-05-28 13:04:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晨豐科技等在遼寧成立能源公司，含發電業務】企查查APP顯示，近日，北網新能（遼寧）能源有限公司成立，法定代表人為劉餘，註冊資本為1.4億元，經營範圍包含：儲能技術服務；太陽能發電技術服務；發電技術服務；風力發電技術服務；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由瀋陽市旭暉啟耀新能源有限公司、晨豐科技全資子公司北網新能（內蒙古）能源有限公司持股。"
     }
   ]
 }
