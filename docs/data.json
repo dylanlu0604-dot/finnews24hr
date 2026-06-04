@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-05 01:57:55",
-  "count": 18949,
+  "updated": "2026-06-05 02:01:49",
+  "count": 18952,
   "items": [
+    {
+      "id": "4917995",
+      "time": "2026-06-05 02:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄羅斯不拒絕與歐洲對話】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄羅斯不拒絕與歐洲進行對話。他強調，並不是所謂“邪惡的俄羅斯”停止向歐洲供應能源，而是歐洲拒絕購買俄羅斯能源，並希望俄羅斯崩潰。普京說，歐洲與俄方談判的人選必須是俄方值得信任的人。俄方不信任那些堅持認為俄羅斯必須遭受戰略失敗的人。“這才是問題所在，”普京用德語補充道。（新華社）"
+    },
+    {
+      "id": "4917994",
+      "time": "2026-06-05 02:00:43",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密特：儘管債務高企，也很難對2008年和2020年為應對“生存性危機”事件出臺的支出舉措事後評斷。"
+    },
+    {
+      "id": "4917993",
+      "time": "2026-06-05 02:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Supabase以105億美元估值完成5億美元融資，以鞏固其在智慧體基礎設施領域的領先地位。"
+    },
+    {
+      "id": "mkt:019e93c9-36b5-7338-b9e7-d5e91205cbbb",
+      "time": "2026-06-05 01:58:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said whether Zelensky is a legitimate president should be determined by legal experts."
+    },
+    {
+      "id": "4917992",
+      "time": "2026-06-05 01:58:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度政府公告：印度將允許向家庭臨時分配烹飪及照明用煤油的措施延長至2026年6月30日。"
+    },
+    {
+      "id": "4917991",
+      "time": "2026-06-05 01:57:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克綜合指數轉漲，標普500指數漲幅擴大至0.5%。"
+    },
     {
       "id": "4917990",
       "time": "2026-06-05 01:57:12",
@@ -174595,30 +174646,6 @@
         "國際"
       ],
       "text": "【分析師：NASA希望扶持SpaceX以外的太空公司】KeyBanc分析師Michael Leshock認為，美國國家航空航天局（NASA）似乎有意扶持SpaceX以外的較小太空公司。美國國家航空航天局本週早些時候向非SpaceX公司發放了數億美元的撥款，以支援其在月球上建立基地的計劃，從而推動了該板塊的全面反彈。Leshock說，該機構希望“如果他們試圖在月球上建造設施或向近地軌道發射航天器，能有兩個或三個選擇”。“他們非常有動力擺脫對任何一家公司的過度依賴，因此我認為這對這些較小公司來說是一種機會。”"
-    },
-    {
-      "id": "mkt:019e6fbf-c333-7eef-a301-6d43bcc61963",
-      "time": "2026-05-29 02:01:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cuba Foreign Minister Says No Progress In Bilateral Talks With U.S.】On May 28, Cuba's foreign minister Bruno Rodriguez said bilateral talks with the United States have produced no progress. He accused the U.S. of inconsistency and irresponsibility, saying U.S. conduct in meetings contrasts with hostile public statements by officials, and warned that as tensions escalate Cuba must defend itself if attacked."
-    },
-    {
-      "id": "4905426",
-      "time": "2026-05-29 02:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "西南航空：年底前將有 300 架飛機搭載星鏈系統。"
-    },
-    {
-      "id": "4905425",
-      "time": "2026-05-29 02:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴外長：古美雙邊談判沒有取得任何進展】當地時間5月28日，古巴外交部長布魯諾·羅德里格斯表示，古巴與美國之間的“雙邊談判沒有取得任何進展”。羅德里格斯表示，美方表現出了極大的前後不一和不負責任，“他們在會談中的表現是一回事，但官方人士不斷髮表的公開言論卻充滿敵意”。羅德里格斯強調，隨著美古兩國緊張局勢持續升級，如果遭到攻擊，古巴必須進行自衛。（央視新聞）"
     }
   ]
 }
