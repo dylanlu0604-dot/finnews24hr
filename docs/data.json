@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-04 09:58:05",
-  "count": 19151,
+  "updated": "2026-06-04 10:02:00",
+  "count": 19146,
   "items": [
+    {
+      "id": "4916372",
+      "time": "2026-06-04 10:01:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣跌破62000美元，日內跌超6%。"
+    },
+    {
+      "id": "4916371",
+      "time": "2026-06-04 10:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債<JP5YTN=JBTC>收益率上升0.5個基點，至1.915%。"
+    },
+    {
+      "id": "4916370",
+      "time": "2026-06-04 10:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年全國消協組織為消費者挽回經濟損失9.3億元】中國消費者協會今天（4日）釋出《中國消費者權益保護狀況年度報告（2025）》顯示：2025年，全國消協組織共受理消費者投訴201.6萬件，接待消費者來訪和諮詢60.9萬人次，為消費者挽回經濟損失9.3億元。"
+    },
+    {
+      "id": "mkt:019e905c-6129-7cc0-ba21-b7dd6bc9e99d",
+      "time": "2026-06-04 10:00:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "【Shenzhen Composite Index turns positive】China A-shares opened lower then recovered; Shenzhen Composite Index led the rebound into positive territory. Shanghai Composite's loss narrowed to 0.14% and the ChiNext Index's loss narrowed to 0.33%."
+    },
+    {
+      "id": "4916369",
+      "time": "2026-06-04 10:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深證成指翻紅】A股三大股指低開回升，深證成指率先翻紅，上證綜指跌幅縮債至0.14%，創業板指跌幅縮債至0.33%。"
+    },
+    {
+      "id": "4916368",
+      "time": "2026-06-04 10:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神工股份成立晶圓半導體科技新公司】企查查APP顯示，近日，北方晶圓半導體科技（北京）有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由神工股份全資持股。"
+    },
+    {
+      "id": "4916367",
+      "time": "2026-06-04 10:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【檢察機關依法對高興夫涉嫌受賄案提起公訴】從最高人民檢察院獲悉，浙江省人大常委會原黨組副書記、副主任高興夫涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對高興夫作出逮捕決定，並指定由江西省宜春市人民檢察院審查起訴。近日，宜春市人民檢察院已向宜春市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人高興夫享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人高興夫利用擔任浙江省建設投資集團有限公司副總經理、總經理、董事長，浙江省交通投資集團有限公司董事長，浙江省政府副省長，浙江省人大常委會副主任等職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "mkt:019e905b-feb9-7cc0-ba21-af129c9fcba0",
+      "time": "2026-06-04 10:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to India's Economic Times, the government will abolish capital gains tax on foreign investors' gains from government bond investments."
+    },
+    {
+      "id": "4916366",
+      "time": "2026-06-04 09:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創新航、海目星等在湖北成立股權投資基金】企查查APP顯示，近日，凱博共創（湖北）股權投資基金合夥企業（有限合夥）成立，出資額16億元，經營範圍包含：創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中創新航、海目星、諾德股份、果下科技等共同出資。"
+    },
+    {
+      "id": "4916365",
+      "time": "2026-06-04 09:59:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禮來擬縮減在德國投資計劃】據報道，禮來6月3日表示，因對德國政府提出的醫療成本控制措施感到擔憂，公司計劃將其在德國的生產專案剩餘規模縮減50%，原計劃投資額為25億美元。禮來稱，德國政府擬議的立法“破壞了投資確定性”，並與德國2023年支援製藥行業的承諾相悖。"
+    },
+    {
+      "id": "4916364",
+      "time": "2026-06-04 09:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內主動權益翻倍基突增至11只 張明昕、金梓才包攬業績前四】截至6月3日，全市場年內收益翻倍的主動權益產品數量已增長至11只。其中張明昕旗下華商均衡成長混合A和華商致遠回報混合A的年內收益分別為113.84%和111.75%，分列主動權益基金業績排名第一和第二。金梓才旗下的財通匠心優選一年持有期混合A和財通匠心優選一年持有期混合A的年內收益分別為107.18%和105.33%，分列主動權益基金業績排名第三和第四。此外華泰柏瑞基金陳文凱、國壽安保基金嚴堃、廣發基金唐曉斌等基金經理旗下也有產品成為年內翻倍基。"
+    },
+    {
+      "id": "4916363",
+      "time": "2026-06-04 09:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道， 印度擬取消外資投資本國國債的資本利得稅。"
+    },
+    {
+      "id": "4916362",
+      "time": "2026-06-04 09:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "三井商船：計劃投資約3億美元參與美國海上浮式液化天然氣專案，佔該專案總股權出資額的23%。"
+    },
     {
       "id": "4916361",
       "time": "2026-06-04 09:57:33",
@@ -176216,166 +176324,6 @@
         "其他"
       ],
       "text": "紐西蘭將2025-26財年年度GDP預期下調至1.8%。"
-    },
-    {
-      "id": "mkt:019e6c52-ceb2-7eea-83d1-49ad135fb0b4",
-      "time": "2026-05-28 10:01:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Treasury expects net debt to be 42.4% of GDP in the 2025/26 fiscal year."
-    },
-    {
-      "id": "mkt:019e6c52-8082-7eea-83d1-45206acca7e4",
-      "time": "2026-05-28 10:01:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Nomura: Middle East Risk May Disrupt BOJ Rate-Hike Path】Swap market pricing shows traders put the probability of a BOJ rate hike at about 75% for June and 92% for July. Michio Saito of Nomura Capital Markets Research Institute said the Iran war could push oil higher and weigh on energy-importing Japan, making the BOJ more cautious about tightening. Saito, who served until 2023 as a senior bond policy official at Japan’s Ministry of Finance, said, “The timing for a rate hike has actually arrived, or at least is very close… but I am not sure the BOJ policy board’s path to a hike will be smooth.” He added that JGB yields may have risen excessively amid market concerns about inflation and a possible expansion of government fiscal spending. Japan’s 10-year government bond yield briefly rose to 2.8% on May 18, its highest since 1996; Saito said that level is currently too high relative to other parts of the JGB curve and that a reasonable range for the 10-year is about 2.0%–2.5%. He warned that if the Strait of Hormuz remains closed, market worries over oil and LNG supply would intensify and, for Japan, “the risk is no longer just higher prices; economic activity itself could stall.”"
-    },
-    {
-      "id": "4903590",
-      "time": "2026-05-28 10:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭預計2028-29財年預算盈餘26億紐西蘭元。"
-    },
-    {
-      "id": "mkt:019e6c50-f9c2-7eea-83d1-39b58c8ed1c3",
-      "time": "2026-05-28 10:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Treasury expects inf to peak at 4.0% in Q2 2026."
-    },
-    {
-      "id": "4903589",
-      "time": "2026-05-28 10:01:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4436.60美元/盎司。"
-    },
-    {
-      "id": "4903588",
-      "time": "2026-05-28 10:01:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "兩年期日本國債<JP2YTN=JBTC>收益率下跌2個基點至1.360%。"
-    },
-    {
-      "id": "4903587",
-      "time": "2026-05-28 10:01:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "五年期日本國債<JP5YTN=JBTC>收益率下跌1.5個基點，至1.915%。"
-    },
-    {
-      "id": "4903586",
-      "time": "2026-05-28 10:00:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭將債券發行計劃縮減至五年內發行1590億紐西蘭元。"
-    },
-    {
-      "id": "4903585",
-      "time": "2026-05-28 10:00:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所2026全球投資者大會在深圳開幕】5月28日，深交所2026全球投資者大會在深圳開幕。大會以“資本市場與創新成長——‘十五五’規劃下的中國機遇”為主題，中國證監會副主席劉浩凌，廣東省副省長李運，深圳市常務副市長陶永欣等出席開幕式並致辭。多位中外專家學者，來自24個國家和地區的境外監管機構和交易所、資管機構、創投機構、行業組織、上市公司等代表，以及深交所主要負責同志現場參會。大會為期兩天，將透過主旨演講、圓桌討論、公司路演、科技展陳等方式，多維度展示“十五五”規劃下的中國資本市場高質量發展及服務科技創新成長的投資新機遇。"
-    },
-    {
-      "id": "4903584",
-      "time": "2026-05-28 10:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭預計2025-26財年預算赤字將擴大至119億紐西蘭元。"
-    },
-    {
-      "id": "4903583",
-      "time": "2026-05-28 10:00:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭預計將於2029年恢復預算盈餘。"
-    },
-    {
-      "id": "4903582",
-      "time": "2026-05-28 09:59:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭明錤：聯發科或成為Terafab的合作物件 預計2028年為馬斯克生產晶片】分析師郭明錤發文稱，在數家ASIC廠商中，聯發科較有可能成為Terafab的合作物件，聯發科將全面支援Intel 14A先進製造工藝與先進封裝的匯入與生產，預計自2028年開始小量生產馬斯克的IC設計團隊必備晶片。"
-    },
-    {
-      "id": "mkt:019e6c4e-f4a3-7eea-83d1-3112332c2d67",
-      "time": "2026-05-28 09:59:25",
-      "tags": [
-        "MKT News",
-        "1211.HK"
-      ],
-      "text": "【US ITC Issues Partial 337 Final Determination on Tunnel‑Oxide Passivated Contact (TOPCon) Solar Cells, Modules, Panels And Downstream Products】According to China Trade Remedy Information Net, on May 27, 2026 the US International Trade Commission (ITC) announced a partial final determination in investigation 337-TA-1494 concerning Certain Tunnel‑Oxide Passivated Contact (TOPCon) Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same. The ITC declined to review the administrative law judge’s initial determination No.7 dated April 27, 2026, thereby approving BYD America LLC to intervene as a third party (intervene)."
-    },
-    {
-      "id": "4903581",
-      "time": "2026-05-28 09:59:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【鋰礦概念震盪下挫 國城礦業觸及跌停】鋰礦概念震盪下挫，國城礦業觸及跌停，天華新能、中礦資源、藏格礦業、永興材料、盛新鋰能跟跌。"
-    },
-    {
-      "id": "mkt:019e6c4e-6924-7eea-83d1-293f1a9819b5",
-      "time": "2026-05-28 09:58:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said the U.S. Treasury will continue to apply maximum pressure on Iran."
-    },
-    {
-      "id": "4903580",
-      "time": "2026-05-28 09:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國ITC正式對塗層糖果及其組成部分啟動337調查】2026年5月27日，美國國際貿易委員會（ITC）投票決定對特定塗層糖果及其組成部分啟動337調查（調查編碼：337-TA-1501）。"
-    },
-    {
-      "id": "4903579",
-      "time": "2026-05-28 09:58:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數下跌1.1%，至5900.59點。"
-    },
-    {
-      "id": "4903578",
-      "time": "2026-05-28 09:58:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【應急管理部修訂《煤礦重大事故隱患判定標準》】應急管理部公告，《煤礦重大事故隱患判定標準》已經2026年5月6日應急管理部第12次部務會議修訂透過，現予公佈，自2026年7月1日起施行。"
     }
   ]
 }
