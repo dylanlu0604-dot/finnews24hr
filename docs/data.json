@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-05 06:04:36",
-  "count": 19035,
+  "updated": "2026-06-05 06:08:23",
+  "count": 19034,
   "items": [
+    {
+      "id": "mkt:019e94ab-5083-7cc8-bdee-f1222efabc61",
+      "time": "2026-06-05 06:05:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index eases 0.11% to 99.419 at New York close】The dollar index (DXY) eased 0.11% to 99.419 at the New York close. EUR/USD 1.1614 (prev. 1.1598); GBP/USD 1.3425 (1.3416); USD/JPY 160.02 (160.03); USD/CHF 0.7892 (0.7924); USD/CAD 1.3899 (1.3895); USD/SEK 9.3737 (9.4065)."
+    },
+    {
+      "id": "4918205",
+      "time": "2026-06-05 06:04:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.419。截至紐約匯市尾市，1歐元兌換1.1614美元，高於前一交易日的1.1598美元；1英鎊兌換1.3425美元，高於前一交易日的1.3416美元。1美元兌換160.02日元，低於前一交易日的160.03日元；1美元兌換0.7892瑞士法郎，低於前一交易日的0.7924瑞士法郎；1美元兌換1.3899加元，高於前一交易日的1.3895加元；1美元兌換9.3737瑞典克朗，低於前一交易日的9.4065瑞典克朗。"
+    },
     {
       "id": "4918204",
       "time": "2026-06-05 06:01:52",
@@ -175346,34 +175367,6 @@
         "MKT News"
       ],
       "text": "【CHINA FOREIGN MINISTER says Friends of Global Governance group coalesces five consensuses】CHINA FOREIGN MINISTER told the Friends of Global Governance meeting at UN headquarters in New York on the 28th that members have coalesced around five consensuses: advance democratization of international relations so all states, regardless of size or wealth, may choose systems and development paths and participate, decide and benefit equally in global governance; uphold the UN Charter and ensure equal, uniform application of international law and rules, opposing double standards and imposition; defend the UN’s central role by practising multilateralism, strengthening multilateral mechanisms and opposing unilateralism and power politics; reform and improve global governance to narrow the North‑South gap, share development gains and leave no country behind; and focus on practical problems, delivering concrete, visible outcomes to let global governance withstand scrutiny over time."
-    },
-    {
-      "id": "mkt:019e709f-971d-7eef-a304-077f90844d45",
-      "time": "2026-05-29 06:06:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Al Jazeera reported an Israeli drone strike on a security checkpoint in southern Gaza that killed three people."
-    },
-    {
-      "id": "4905617",
-      "time": "2026-05-29 06:05:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓信函曝光，美軍人員正淪為利用位置資料襲擊的目標】根據軍方官員收到的報告，部署在交戰區的美國軍隊正成為利用商用位置資料進行襲擊的目標。這生動地表明瞭全球監視經濟正在如何改變著戰場面貌。在美國俄勒岡州民主黨參議員Ron Wyden提供一封信函中，美國中央司令部（Centcom）表示，它已經“收到了多份威脅報告，內容涉及對手利用商業位置資料在戰區內針對或監視美軍人員”。這封傳送於4月14日的郵件並未提供更多具體細節，但中央司令部的管轄範圍包括海灣地區，而在該地區，美軍正因霍爾木茲海峽問題與伊朗軍隊展開對峙。"
-    },
-    {
-      "id": "4905616",
-      "time": "2026-05-29 06:05:08",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳新銀行：紐西蘭 5 月消費者信心指數環比上升 7.7%。"
     }
   ]
 }
