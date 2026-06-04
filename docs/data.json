@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-04 13:43:19",
-  "count": 19040,
+  "updated": "2026-06-04 13:47:30",
+  "count": 19037,
   "items": [
+    {
+      "id": "4916636",
+      "time": "2026-06-04 13:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：協議包含在黎巴嫩全境解除真主黨武裝的目標。"
+    },
+    {
+      "id": "4916635",
+      "time": "2026-06-04 13:45:32",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "彪馬盤前股價上漲2.7%，此前花旗將其評級從中性上調至買入。"
+    },
+    {
+      "id": "te:markets:556371",
+      "time": "2026-06-04 13:44:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Losses, Ends 0.1% Lower — The NZX 50 fell 13 points, or 0.1%, to close at 13,102 on Thursday, extending losses from the previous session and marking its lowest level since May 25, mainly weighed down by consumer staples, financials, real estate, and communication services. The broader index tracked a downbeat session on Wall Street overnight amid renewed escalation of the Middle East conflict. Traders assessed the possibility that New Zealand faces a new 12.5% tariff from the US after the US Trade Representative said 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Wednesday's economic data also continued to weigh on sentiment, as New Zealand's merchandise terms of trade dropped more than expected in the first quarter of 2026. A2 Milk lost 2.9%, Westpac Banking Corp. fell 2.2%, Briscoe Group dropped 1.5%, Hallenstein Glasson declined 1.3%, Infratil shed 0.7%, while Mainfreight and ANZ Group each fell 0.4%."
+    },
+    {
+      "id": "4916634",
+      "time": "2026-06-04 13:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中核光電2m²級鈣鈦礦量產工藝元件透過TÜV南德IEC61215/IEC61730認證】據中國核電訊息，近日，中核光電2m²級（1.2×1.6m²）商用鈣鈦礦光伏元件，在未新增修飾層、未應用ALD/RPD工藝的當前常規量產工況下,一次性送樣即100%透過TÜV南德IEC61215耐久可靠性與IEC61730安全效能全序列穩定性認證，無任何專案補測，標誌著產品穩定性與安全性達到國際標準要求。"
+    },
     {
       "id": "mkt:019e9127-cb34-7cc0-ba26-736623c30c80",
       "time": "2026-06-04 13:42:44",
@@ -175386,74 +175423,6 @@
         "焦點"
       ],
       "text": "北證50日內漲幅達2.05%，成分股中，諾思蘭德漲10.16%，奧迪威漲7.77%，矽烷科技漲7.35%，天馬新材漲5.76%。"
-    },
-    {
-      "id": "4903964",
-      "time": "2026-05-28 13:47:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【北證50指數漲幅擴大至2%】北證50指數漲幅擴大至2%，現報1278.98點。"
-    },
-    {
-      "id": "mkt:019e6d1e-c1ee-722b-8aca-9aae2372c2da",
-      "time": "2026-05-28 13:46:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000063.SZ",
-        "Impact bullish",
-        "00763.HK"
-      ],
-      "text": "ZTE Corp A-shares hit the daily trading limit in mainland China; the company’s H-shares (00763.HK) rose more than 11% in Hong Kong."
-    },
-    {
-      "id": "4903963",
-      "time": "2026-05-28 13:46:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中興通訊觸及漲停】中興通訊觸及漲停，成交額62.74億元。"
-    },
-    {
-      "id": "4903962",
-      "time": "2026-05-28 13:45:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜港股漲超10%】智譜港股漲10.74%，報1577.00港元。"
-    },
-    {
-      "id": "4903961",
-      "time": "2026-05-28 13:45:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【KKR將開設米蘭辦事處】5月28日，據報道，KKR計劃在米蘭開設辦事處，以便與當地企業和投資者開展更緊密的合作。"
-    },
-    {
-      "id": "mkt:019e6d1d-549f-722b-8aca-92deaf41e035",
-      "time": "2026-05-28 13:44:59",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "【CHINA FOREIGN MINISTER WANG YI Holds Talks With U.S. Strategic and Business Figures】On the 27th local time in New York, CHINA FOREIGN MINISTER WANG YI met with U.S. strategic and business figures while presiding over a UN Security Council high‑level meeting. Wang said the China‑U.S. leaders held a historic meeting in Beijing and engaged in candid, deep, constructive and strategic communications on major issues affecting China‑U.S. relations and world peace and development, reaching a series of important understandings. Both sides agreed to position a \"China‑U.S. constructive strategic stability relationship\" as the new orientation of bilateral ties and to work toward a relationship centered on cooperation, measured competition, controllable differences and prospective peace, jointly exploring how major powers should properly coexist in the new era. Wang stressed that \"Taiwan independence\" and peace and stability in the Taiwan Strait are mutually incompatible, and said only by upholding the One‑China principle and the spirit of the three China‑U.S. Joint Communiqués can peace in the Taiwan Strait be guaranteed and conflict avoided. He said China is willing to work with the U.S. to implement the important consensus between the two heads of state and to take concrete actions to bring the \"constructive strategic stability relationship\" into effect as soon as possible, and expressed hope that attendees would make active efforts and help build broader social consensus."
-    },
-    {
-      "id": "4903960",
-      "time": "2026-05-28 13:44:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同美國各界人士座談】當地時間27日，中共中央政治局委員、外交部長王毅在紐約主持聯合國安理會高階別會議期間同美國戰略和工商界人士舉行座談。王毅表示，此次來紐約主持安理會高階別會議，與會各方的一致呼聲就是重溫憲章初心，重振聯合國權威，踐行多邊主義。重振聯合國首要是重振安理會，關鍵是常任理事國之間能夠協調合作，其中中美關係的走向至關重要。事實證明，中美關係超越雙邊範疇，影響世界和平，關乎人類命運。實現中美關係健康、穩定、可持續發展，是國際社會的共同期待，也是中美兩國應當承擔的使命。(新華社)"
     }
   ]
 }
