@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-04 08:03:23",
-  "count": 19232,
+  "updated": "2026-06-04 08:07:18",
+  "count": 19233,
   "items": [
+    {
+      "id": "4916183",
+      "time": "2026-06-04 08:06:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：玻璃基封裝載板試驗線良率尚未達到量產水平】京東方A(000725)6月3日在機構調研時表示，公司於2024年投資9.93億元建設玻璃基封裝載板試驗線。目前已給部分國內客戶送樣，部分客戶已透過概念認證，並進入技術測試階段。截至目前，公司還未實現批次生產，該業務尚未實現量產營收，公司試驗線良率尚未達到量產水平，何時達到具有重大不確定性。"
+    },
+    {
+      "id": "4916182",
+      "time": "2026-06-04 08:06:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿盧比奧將於美東時間週四上午9:30會見科威特外交部長。"
+    },
+    {
+      "id": "4916181",
+      "time": "2026-06-04 08:05:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元觸及3月31日以來低位。"
+    },
+    {
+      "id": "te:markets:556272",
+      "time": "2026-06-04 08:05:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Decline as Tech Earnings Disappoint — US stock futures moved lower on Thursday as disappointing earnings from major technology companies pressured market sentiment. In after-hours trading, Broadcom sank nearly 14% after reporting fiscal second-quarter revenue below expectations, while cybersecurity firm CrowdStrike dropped more than 11% following soft second-quarter sales guidance. The weakness spread across the tech sector, with Intel (-2%), AMD (-2.9%), Palantir (-1.5%), Qualcomm (-1.9%), and Arm Holdings (-4.3%) also posting notable losses. Investors were also assessing heightened geopolitical risks after fresh exchanges of strikes between the US and Iran, undermining hopes for a peace deal and stoking concerns about inflation and higher interest rates. In Wednesday’s regular session, the Dow fell 1.21%, the S&P 500 lost 0.74%, and the Nasdaq Composite declined 0.89%. Six of the 11 S&P sectors closed lower, led by technology, financials, and consumer discretionary stocks."
+    },
+    {
+      "id": "4916180",
+      "time": "2026-06-04 08:05:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數（TOPIX）下跌1.1%，報3954.20點。"
+    },
+    {
+      "id": "4916179",
+      "time": "2026-06-04 08:04:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至280.38點."
+    },
+    {
+      "id": "4916178",
+      "time": "2026-06-04 08:03:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：目前儲存產業正處於高景氣週期中】江波龍(301308)在互動平臺表示，公司企業級產品主要為企業級eSSD與RDIMM，公司企業級儲存產品2025年實現收入達17.83億元，同比增長93.30%，公司將繼續深化在AI伺服器、資料中心領域的儲存業務佈局。目前儲存產業正處於高景氣週期中，公司各項經營指標與行業發展趨勢保持一致。"
+    },
+    {
+      "id": "4916177",
+      "time": "2026-06-04 08:02:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報金觀平：善用數智技術推動城市更新】近年來，以人工智慧、大資料、區塊鏈等為代表的數智技術叢集，正重塑城市與區域空間的生產、流通和治理。數智技術引發城市規劃領域變革，推動城市更新從傳統意義上的物質空間改善，轉變到以內涵式發展為特徵的“數字更新”階段。從宏觀的規劃治理到微觀的民生服務，數智技術已滲透到城市更新各層面，並催生一系列創新性應用場景，提升了城市執行效率、安全韌性和宜居品質。"
+    },
     {
       "id": "4916176",
       "time": "2026-06-04 08:02:41",
@@ -177046,65 +177115,6 @@
         "市場"
       ],
       "text": "早盤交易時段，澳大利亞標普/澳證200指數下跌0.8%，報8652.20點。"
-    },
-    {
-      "id": "4903342",
-      "time": "2026-05-28 08:06:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2025年超千家A股上市公司母公司營收佔合併報表比重不足10%，子公司信披短板待補】近日，浙江證監局對ST臻鐳作出行政處罰，直指其全資核心子公司城芯科技2022年虛增營收，導致上市公司年報存在虛假記載。這家撐起上市公司三成以上營收的子公司造假翻車，直接動搖了ST臻鐳整體業績的可信度。ST臻鐳並非孤例，背後是A股上市公司經營架構的變遷。據證券時報記者統計，2025年超千家上市公司母公司營收佔合併報表比重不足10%，數量較往年顯著攀升。諸多上市公司母公司逐步剝離實體經營職能，轉向控股，子公司則從昔日業務配角，一躍成為支撐上市公司的實際經營核心。與之相悖的是，子公司經營權重快速抬升，資訊披露要求卻並未同步跟進。手握上市公司業績命脈的核心子公司長期處於披露不充分狀態，持續影響上市公司規範運作與資訊透明度。"
-    },
-    {
-      "id": "4903341",
-      "time": "2026-05-28 08:05:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥妝零售商龍豐集團香港IPO擬募資不超過7.975億港元】根據呈交香港交易所的公告，龍豐集團在香港發售1.25億股股份，發行價區間為每股5.18港元至6.38港元。彭博計算顯示，該公司預計將籌資不超過7.975億港元。預計6月5日掛牌上市。星展集團是獨家保薦人。"
-    },
-    {
-      "id": "4903340",
-      "time": "2026-05-28 08:05:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事傑斐遜：面對通脹風險 貨幣政策目前“處於合適位置”】美聯儲理事傑斐遜表示，美隨著關稅和能源衝擊消退，預計通脹將在今年晚些時候回落。我們堅定致力於將通脹回落至2%的目標水平。貨幣政策處於“有利位置”，可對經濟變化作出應對。面對通脹風險，貨幣政策目前“處於合適位置”。"
-    },
-    {
-      "id": "mkt:019e6be6-2622-799a-aad0-806ba444b7d4",
-      "time": "2026-05-28 08:04:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Wall Street Journal, hawkish U.S. four‑star General La Nifu is serving as acting Army chief of staff and could be nominated as early as this week. Sources said some Republicans have privately expressed doubts about whether La Nifu is fit for the post."
-    },
-    {
-      "id": "4903339",
-      "time": "2026-05-28 08:04:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事傑斐遜：通脹風險仍然偏向上行】美聯儲理事傑斐遜表示，通脹風險仍然偏向上行；美國無法免受與石油相關的能源衝擊；正密切關注高能源價格是否會壓制消費者支出；勞動力市場保持穩定，但風險偏向下行。美國近期經濟活動表現穩健。能源衝擊對經濟增長構成下行風險，對通脹構成上行風險。"
-    },
-    {
-      "id": "4903338",
-      "time": "2026-05-28 08:03:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：今明兩年主要城市或陸續迎來房價企穩拐點】中金公司研報認為，今明兩年主要城市或陸續迎來房價企穩拐點，中金上調2026年二手房銷售面積展望，維持此前對於新房銷售和投資的展望。中金基於二手房掛牌去化週期和總住房供需打分，對更多城市進行房價拐點研判，預計2026年或有幾個城市迎來房價環比走穩拐點，至2027年可能擴散至庫存條件較好的主要城市範圍。"
-    },
-    {
-      "id": "4903337",
-      "time": "2026-05-28 08:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）擴大跌幅至1.1%。"
     }
   ]
 }
