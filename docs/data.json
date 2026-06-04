@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-04 18:58:21",
-  "count": 18998,
+  "updated": "2026-06-04 19:02:19",
+  "count": 19002,
   "items": [
+    {
+      "id": "4917332",
+      "time": "2026-06-04 19:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富途控股美股盤前跌超5%，老虎證券跌超3%。"
+    },
+    {
+      "id": "4917331",
+      "time": "2026-06-04 19:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "RAMP完成新一輪融資，估值達440億美元。"
+    },
+    {
+      "id": "mkt:019e924b-5e40-7668-9610-d8a3f45cdfb2",
+      "time": "2026-06-04 19:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US fintech Ramp valued at $44 billion in new funding round."
+    },
+    {
+      "id": "mkt:019e924a-f4a1-7668-9610-d3d79f61f0f7",
+      "time": "2026-06-04 19:00:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bullish"
+      ],
+      "text": "Palantir (PLTR.N) said its products are now available on the Google Cloud Marketplace."
+    },
+    {
+      "id": "4917329",
+      "time": "2026-06-04 19:00:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Palantir公司與谷歌雲實現 Gemini 大模型與Palantir人工智慧平臺（AIP）的深度對接。"
+    },
+    {
+      "id": "mkt:019e924a-962b-7668-9610-c96eaa9a2ed4",
+      "time": "2026-06-04 19:00:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Palantir (PLTR.N) has reached an agreement to work with law firm Kirkland & Ellis."
+    },
+    {
+      "id": "4917328",
+      "time": "2026-06-04 19:00:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST節能：神霧集團所持5.10%公司股份將被司法拍賣】*ST節能公告，北京市第一中級人民法院將於2026年7月5日10時至2026年7月6日10時止在淘寶網路司法拍賣平臺上公開拍賣公司5%以上股東神霧科技集團股份有限公司持有的3300萬股公司股票，佔神霧集團所持公司股份總數的45.45%，佔公司股份總數的5.10%。上述股份均已被司法凍結及輪候凍結。"
+    },
+    {
+      "id": "4917327",
+      "time": "2026-06-04 18:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節能風電：調整2025年年度利潤分配方案 每股派發現金紅利調整為人民幣0.00295元（含稅）】節能風電公告，調整2025年年度利潤分配方案，每股派發現金紅利由人民幣0.003元（含稅）調整為人民幣0.00295元（含稅）。2025年年度利潤分配方案以截至2025年12月31日公司股本總額為基數，自2026年1月1日至本公告披露日期間，公司因可轉換公司債券“節能轉債”部分持有人將“節能轉債”進行轉股，公司總股本由64.4億股增加至65.44億股，故本次實際參與利潤分配的股本總數為65.44億股。公司按照維持分配總額不變的原則，相應調整每股分配比例，對2025年年度利潤分配方案每股現金分紅金額進行相應調整。"
+    },
+    {
+      "id": "4917326",
+      "time": "2026-06-04 18:59:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【悅心健康：聯合關聯方受讓斯米克健康科技36%股權】悅心健康公告，為進一步完善公司在康養產業鏈中的業務佈局，公司擬聯合斯米克健康科技現有股東上海斯米克有限公司，共同受讓悅心科技發展持有的斯米克健康科技75%全部股權。本次拆分受讓比例為公司受讓36%股權，上海斯米克有限公司受讓39%股權。交易完成後，上海斯米克有限公司合計持有斯米克健康科技64%股權，公司持有36%股權。標的公司註冊資本為5000萬元，尚未開展實際生產經營活動，本次75%股權轉讓對價合計為0元，公司受讓36%股權對應交易對價為0元。"
+    },
+    {
+      "id": "4917325",
+      "time": "2026-06-04 18:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "Palantir宣佈其產品上線谷歌雲市場，涵蓋BigQuery與Foundry之間的雙向整合，以及Gemini與AIP之間的深度連通。"
+    },
+    {
+      "id": "4917324",
+      "time": "2026-06-04 18:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "AirAsia X Bhd：菲律賓亞洲航空所有航班仍全面正常運營。"
+    },
+    {
+      "id": "mkt:019e9249-3b22-7668-9610-c318d152c579",
+      "time": "2026-06-04 18:58:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India is considering imposing spending caps to protect its fiscal deficit target."
+    },
+    {
+      "id": "mkt:019e9249-1fde-7668-9610-b98c9dcab0cf",
+      "time": "2026-06-04 18:58:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Israeli forces begin withdrawal from Debbin in southern Lebanon】Lebanese security sources and local witnesses confirmed on the 4th that Israeli forces have begun a gradual withdrawal from the town of Debbin in southern Lebanon’s Marjayoun area."
+    },
+    {
+      "id": "4917323",
+      "time": "2026-06-04 18:58:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度考慮出臺開支管控措施，以守住財政赤字目標。"
+    },
+    {
+      "id": "4917322",
+      "time": "2026-06-04 18:58:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "黎巴嫩安全部門訊息人士和當地目擊者4日向新華社記者證實，以色列軍隊已開始從黎南部邁爾季歐雲地區的德賓鎮逐步撤出。（新華社）"
+    },
     {
       "id": "4917321",
       "time": "2026-06-04 18:57:34",
@@ -175056,107 +175186,6 @@
         "其他"
       ],
       "text": "瑞士央行行長表示：瑞士央行的主要政策工具是政策利率，必要時可動用外匯干預。"
-    },
-    {
-      "id": "mkt:019e6e3f-63f0-733d-92b5-8c6aad1fb317",
-      "time": "2026-05-28 19:01:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Hamas Says Israeli Escalation Threatens Gaza Ceasefire】Hamas said on the 28th that intensified Israeli military operations risked collapse of the phase-one Gaza ceasefire. It said an Israeli strike on the evening of the 27th hit a residential building in Gaza City, killing 10 people, including two children and two women, and wounding dozens; more than 20 people were killed in the past 48 hours amid the escalations. Hamas urged the United States and ceasefire guarantors to condemn Israel’s breaches and take effective measures to compel compliance with the agreement."
-    },
-    {
-      "id": "4904702",
-      "time": "2026-05-28 19:01:12",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "國務院印發《城市更新“十五五”規劃》。（新華社）"
-    },
-    {
-      "id": "mkt:019e6e3e-9778-733d-92b5-8240a34f1cda",
-      "time": "2026-05-28 19:00:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's State Council issued the Urban Renewal 15th Five-Year Plan, Xinhua reports."
-    },
-    {
-      "id": "4904701",
-      "time": "2026-05-28 19:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟能源總司：若未來幾周情況未好轉 供應將更加緊張】當地時間28日，歐盟能源總司釋出宣告稱，霍爾木茲海峽的關閉對原油和所有主要石油產品都造成了影響，所有歐盟國家都受到了影響。如果未來幾周情況沒有好轉，預計市場供應將變得越來越緊張，尤其是航空燃油市場。宣告稱，此前，歐盟委員會天然氣協調小組與歐盟國家於5月26日舉行了會談，石油協調小組也於5月25日舉行了會議，討論鑑於中東持續緊張局勢，歐盟天然氣和石油供應的安全問題。天然氣協調小組表示，到夏季結束時，歐盟天然氣儲存水平可能達到80%，這將確保2026到2027年冬季的天然氣供應。該組織重申，需要根據實際情況定期評估天然氣儲存設施的填充情況。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6e3d-ffff-733d-92b5-785121e87eee",
-      "time": "2026-05-28 19:00:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange: Zhuzhou Keneng New Materials Co., Ltd. IPO review status changed to \"inquiry\"."
-    },
-    {
-      "id": "4904700",
-      "time": "2026-05-28 19:00:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "上交所：株洲科能新材料股份有限公司IPO稽核狀態變更為“已問詢”。"
-    },
-    {
-      "id": "4904699",
-      "time": "2026-05-28 19:00:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯：以色列加大軍事行動令停火協議“面臨崩潰”】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）28日發表宣告說，由於以方不斷加大在加沙地帶的軍事行動，加沙地帶第一階段停火協議正“面臨崩潰”。 宣告說，以色列27日晚對加沙市中心一棟居民樓發動猛烈空襲，造成包括兩名兒童和兩名婦女在內的10人死亡，另有數十人受傷。由於以方不斷升級對加沙地帶的襲擊，僅過去48小時就造成20多人死亡。 宣告表示，這表明以方意圖恢復對加沙的種族滅絕戰爭，對其承諾以及對協議擔保國付出的努力視若無睹。 宣告呼籲美國和協議擔保國履行其職責、譴責以方違約行為，並採取切實有效的措施，迫使以方遵守協議條款。 連日來，以軍加大對加沙地帶的空襲行動，並在襲擊中打死哈馬斯軍事領導人。加沙地帶衛生部門最新報告顯示，自2025年10月10日停火協議生效以來，已有900多名巴勒斯坦人在以方軍事行動中死亡、2000多人受傷。(新華社)"
-    },
-    {
-      "id": "4904698",
-      "time": "2026-05-28 18:59:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【禾盛新材：擬募集資金不超過1.9億元，擬全部用於國產智慧算力中心建設專案等】禾盛新材公告，公司擬向特定物件發行股票募集資金不超過1.9億元，扣除發行費用後擬全部用於國產智慧算力中心建設專案及補充流動資金。本次發行股票數量按照募集資金總額除以發行價確定，不超過本次發行前公司總股本的30%。"
-    },
-    {
-      "id": "4904697",
-      "time": "2026-05-28 18:59:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特表示，保留採取一切措施維護本國安全的全部權利。"
-    },
-    {
-      "id": "mkt:019e6e3d-04a3-733d-92b5-68eabd4092f1",
-      "time": "2026-05-28 18:59:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pop Mart's Wang Ning: Core Mission Is Meeting Basic Demand For Joy】Pop Mart International Group founder, chairman and CEO Wang Ning said the company's core product strategy is to meet fundamental consumer demand for 'joy' via its IP platform, which hosts numerous international artists and, he said, provides consumers with comfort and warmth. He added the firm runs several thousand automated vending outlets in addition to staffed retail stores and will continue to combine vending, technology and new consumption scenarios to expand the business and support industry development."
-    },
-    {
-      "id": "4904696",
-      "time": "2026-05-28 18:58:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特宣告：譴責伊朗週四對其領土發動的襲擊。"
     }
   ]
 }
