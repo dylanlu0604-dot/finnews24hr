@@ -1,7 +1,199 @@
 {
-  "updated": "2026-06-04 20:36:30",
-  "count": 19028,
+  "updated": "2026-06-04 20:40:28",
+  "count": 19037,
   "items": [
+    {
+      "id": "mkt:019e92a5-7ee9-7eec-b8a9-ac472304086a",
+      "time": "2026-06-04 20:39:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SZSE queries Shenzhen Weiteou on use of its products across three optical-module production stages】The Shenzhen Stock Exchange issued a query letter to Shenzhen Weiteou New Materials Co. after a recent sharp share rise, noting abnormal volatility on May 20 and a daily-limit up on June 4. The exchange flagged frequent roadshows from Apr 25–May 21 (seven investor-relations records) and repeated Q&A references to optical modules and advanced packaging. It asked the company to disclose: the amount of solder paste required at each optical-module production stage, corresponding unit prices and amounts, and share of module price; and for each of the company’s main products, their application in the three production stages, the main customers by stage, sales in the past year and in the most recent reporting period, gross margin, and order backlog amount."
+    },
+    {
+      "id": "4917546",
+      "time": "2026-06-04 20:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國執政黨贏得地方選舉】韓國第九屆地方選舉結果4日陸續公佈，執政黨共同民主黨在韓國16個道知事和廣域市市長職位中贏得12席。最大在野黨國民力量黨在首爾市、大邱市、慶尚北道和慶尚南道四地獲得勝利，其中吳世勳成功連任首爾市長。 韓國國會議員補選3日與地方選舉同時進行，共同民主黨候選人同樣佔據絕對優勢，在14個席位中贏得9席。國民力量黨獲得4席，無黨派候選人、國民力量黨前黨首韓東勳贏得1席。 韓媒指出，本屆地方選舉是韓國總統李在明2025年當選後舉行的首次全國性選舉。隨著這次大勝，在掌握立法權和行政權後，執政黨將進一步掌握地方權力，在執政第二年獲得更強勁的施政動力。 韓國地方選舉為每四年一次，選出道、特別市、廣域市和市、郡、區自治政府的領導人，以及各級地方自治區域的教育監、教育議員和地方議會議員。(新華社)"
+    },
+    {
+      "id": "4917545",
+      "time": "2026-06-04 20:39:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST嶺南：股價連續三日漲幅偏離值超12% 提示多項風險】*ST嶺南公告稱，公司股票於2026年6月2日至6月4日連續三個交易日收盤價格漲幅偏離值累計超過12%，屬於異常波動。經核查，公司、控股股東及實控人無應披露未披露重大事項；董事、高管等在異動期間未買賣公司股票。公司提示多項風險，包括被實施退市及其他風險警示、擬遭行政處罰、原實控人尚有1.49億元佔用資金未歸還、多筆債務逾期等。"
+    },
+    {
+      "id": "4917544",
+      "time": "2026-06-04 20:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東莞控股：子公司擬與關聯方開展不超3000萬元融資租賃業務】東莞控股公告稱，公司全資子公司融通租賃公司擬與關聯方東莞空運公司開展融資租賃業務，租賃標的物為專用物流裝置，租賃本金不超3000萬元，期限不超5年。該議案已透過公司第九屆董事會第一次會議及2026年第二次獨立董事專門會議審議。東莞空運公司尚處業務培育階段，2026年一季度營收同比增126.29%，後續增長潛力較強。本次交易風險可控，利於融通租賃公司業務拓展。"
+    },
+    {
+      "id": "4917543",
+      "time": "2026-06-04 20:38:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：連續十二個月新增涉案金額約1.39億元】*ST嶺南公告稱，截至2026年6月3日，公司及控股子公司連續十二個月內新增未披露訴訟、仲裁事項涉案金額約1.39億元，佔最近一期經審計歸屬於母公司淨資產絕對值的10.33%。其中，公司及控股子公司作為原告涉案金額1386.01萬元，佔比9.94%；作為被告、第三人涉案金額1.26億元，佔比90.06%。部分案件結果未出，對利潤影響不確定。"
+    },
+    {
+      "id": "mkt:019e92a4-c883-7eec-b8a9-a227c6ae0499",
+      "time": "2026-06-04 20:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said an announcement on an IMF inspection mission is expected soon."
+    },
+    {
+      "id": "4917542",
+      "time": "2026-06-04 20:38:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【世界黃金協會：實物市場降溫疊加能源風險 黃金或延續疲弱表現】世界黃金協會：部分實物黃金市場似乎有所走弱，印度和韓國出現貼水交易，日本市場也有零星拋售跡象。全球黃金ETF資金流入在5月表現疲弱。隨著霍爾木茲海峽對峙持續，不排除官方部門不時進行黃金互換或出售的可能性。短期內最大的風險可能來自能源市場。油價正主導市場焦點、通脹預期以及債券收益率走勢。如果庫存下降推動能源價格大幅上漲，可能首先推高債券收益率、提振美元，並延長黃金當前的疲弱表現，隨後市場才會逐漸反映出其更長期的影響。"
+    },
+    {
+      "id": "mkt:019e92a4-b9f7-7eec-b8a9-991a5e8f0a4c",
+      "time": "2026-06-04 20:38:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【World Gold Council: physical-market cooling and energy risks may prolong gold weakness】World Gold Council says parts of the physical gold market have weakened: India and South Korea trading at discounts, Japan showing sporadic selling, and global gold ETF inflows weak in May. With the Strait of Hormuz standoff ongoing, official holders could intermittently conduct gold swaps or sales. Near-term biggest risk is the energy market—oil is driving inf expectations and bond-yield moves. If inventories fall and energy prices spike, yields would likely rise first, lifting the USD and extending gold's current weakness, with any longer-term safe-haven response to come later."
+    },
+    {
+      "id": "4917541",
+      "time": "2026-06-04 20:38:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【深交所向唯特偶下發關注函 要求說明公司目前主營產品分別應用在光模組生產三大環節的具體情況】深交所釋出《關於對深圳市唯特偶新材料股份有限公司的關注函》，其中指出，近期，公司股價漲幅較大，5月20日觸及嚴重異常波動，6月4日觸及漲停。4月25日至5月21日，公司路演頻繁，共計釋出7份投資者關係記錄表，並多次在問答環節提及光模組、先進封裝等熱點領域相關業務。要求公司說明光模組生產商在光模組及其部件生產過程中各環節所需使用錫膏的含量，對應單價及金額、佔光模組產品價格的比例；說明公司目前主營產品分別應用在光模組生產三大環節的具體情況，包括各環節對應的主要客戶名稱、最近一年及一期已實現的銷售金額、毛利率、在手訂單金額。請公司自查並列示近期接受媒體採訪、機構和投資者調研、回覆投資者諮詢等情況，說明是否存在違反資訊披露公平性原則的情形；並進一步說明公司在上述期間多次開展特定物件調研、路演活動等投資者關係活動的具體考慮、方案設計的具體職能部門，履行的內部程式、審批人員，較此前次數、頻率均顯著增加的原因及合理性，光模組應用、先進封裝領域應用的提問人員。"
+    },
+    {
+      "id": "4917540",
+      "time": "2026-06-04 20:38:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合肥城建：持股5%以上股東及董高擬減持不超1.0014%股份】合肥城建公告稱，持股22.43%的股東工投控股，計劃2026年6月29日至9月28日以集中競價方式減持不超8,032,900股，佔總股本不超1%；董事兼總經理王慶生持有0.0057%股份，同期擬減持不超11,378股，佔總股本不超0.0014%。本次減持計劃存在不確定性，不會導致公司控制權變更，也不影響公司治理及經營。"
+    },
+    {
+      "id": "te:economy:556531",
+      "time": "2026-06-04 20:38:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Unit Labour Costs QoQ",
+        "Importance 1"
+      ],
+      "text": "US Labor Costs Rise Less Than Initially Thought — Unit labor costs in the US nonfarm business sector rose by 1.8% in Q1 2026, slowing from a downwardly revised 2.1% increase in Q4 2025 and falling short of the preliminary estimate of 2.3%. The deceleration reflected a 2.1% rise in hourly compensation, down from 3.7% in the previous quarter, while productivity grew by just 0.3%, compared to a 1.6% increase in Q4. In the manufacturing sector, unit labor costs increased by 2.2%, driven by a 5.5% surge in hourly compensation and a 3.2% rise in productivity. On an annual basis, labor costs edged up by 0.5%."
+    },
+    {
+      "id": "4917539",
+      "time": "2026-06-04 20:37:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【退市岩石：股票交易異常波動 已進入退市整理期】退市岩石公告稱，截至6月4日，公司股票連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。公司於5月22日收到上交所終止其股票上市的決定，6月1日起進入15個交易日的退市整理期，預計最後交易日為6月22日，屆滿後5個交易日內將被摘牌。公司經營正常，但自2024年以來營收大減、現金流承壓。控股股東股份已全部被司法凍結，實控人已被採取刑事強制措施。"
+    },
+    {
+      "id": "4917538",
+      "time": "2026-06-04 20:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古茗澄清：本公司的公眾持股量百分比仍高於25%的初始指定門檻】古茗在港交所公告，本公司謹此澄清，於本公告日期，本公司的公眾持股量百分比仍高於25%的初始指定門檻，而本公司繼續選用初始指定門檻以遵守上市規則第13.32B條項下的最低公眾持股量要求。本公司擬於日後選用替代門檻，以於進行以資本管理為目的之交易時享有更大靈活性。"
+    },
+    {
+      "id": "te:economy:556530",
+      "time": "2026-06-04 20:37:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nonfarm Productivity QoQ",
+        "Importance 1"
+      ],
+      "text": "US Productivity Revised Lower in Q1 — US nonfarm business sector labor productivity rose by 0.3% in the first quarter of 2026, less than 0.8% in the preliminary estimate and compared to a 1.6% increase in the previous quarter. Output increased 1% and hours worked rose 0.7%, compared to 1.5% and 0.7% respectively in the first estimate. In the manufacturing sector, productivity surged by 3.2%, less than 3.6% in the previous release as output increased 3.3% and hours worked saw no growth."
+    },
+    {
+      "id": "4917537",
+      "time": "2026-06-04 20:37:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃及總理：預計國際貨幣基金組織代表團審查結果公告即將釋出。"
+    },
+    {
+      "id": "4917536",
+      "time": "2026-06-04 20:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英法敲定計劃 擬在美伊協議達成後數日內主導海峽掃雷行動】據知情人士透露，英國和法國已敲定計劃，將在美國與伊朗達成重新開放霍爾木茲海峽航道的協議後數日內，領導一項在該水道的多國掃雷行動。五位熟悉談判的人士表示，多個國家的軍事規劃人員已處於加入清除海峽內伊朗革命衛隊所佈設水雷行動的計劃制定後期階段。週三，美國總統特朗普淡化了伊朗水雷對商船構成的威脅。他表示，美軍已“清除了大部分水雷”。一天前，美國國務卿魯比奧向參議員們表示，伊朗在海峽的大部分割槽域佈設了水雷。特朗普補充說，一旦伊朗簽署結束敵對行動的諒解備忘錄，海峽將“立即”重新開放。然而，兩國正就條款達成一致而陷入困境，伊朗外長週四表示，在以色列繼續對黎巴嫩南部發動攻勢期間，他們的談判沒有取得任何進展。"
+    },
+    {
+      "id": "te:economy:556529",
+      "time": "2026-06-04 20:36:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Rise to 3-Month High — The number of people claiming unemployment benefits in the US rose by 13,000 to 225,000 in the last week of May, above market expectations of 212,000. It was the highest initial claim count since the first week of February. Still, continuing jobless claims, which are seen as a gauge of outstanding unemployment in the US, eased by 8,000 in the earlier week to 1,777,000. While failing to maintain the low levels of the last quarter, the figure remained within the average of the last two years, extending the period of a low-firing labor backdrop. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 37 to 464."
+    },
+    {
+      "id": "4917535",
+      "time": "2026-06-04 20:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珂瑪科技：擬用5346.71萬元募集資金置換自籌資金】珂瑪科技公告稱，公司於2026年6月4日召開董事會，同意使用5346.71萬元募集資金置換預先投入募投專案及已支付發行費用的自籌資金。截至2026年5月31日，公司以自籌資金實際已投入募投專案5125.76萬元，預先支付發行費用220.96萬元。本次置換符合相關法規規定，不影響募投計劃，也不存在變相改變投向和損害股東利益的情形。"
+    },
+    {
+      "id": "mkt:019e92a2-af5d-7eec-b8a9-92ff127fdc10",
+      "time": "2026-06-04 20:36:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UK, France set plan to lead Strait of Hormuz mine‑clearing days after US‑Iran deal】Britain and France have finalized plans to lead a multinational mine‑clearing operation in the Strait of Hormuz within days of a US‑Iran agreement to reopen the shipping lane. Military planners from several countries are in late‑stage preparations to join efforts to clear mines laid by the IRGC. President Trump downplayed the threat on Wednesday, saying US forces have \"cleared most of the mines\"; Secretary of State Rubio told senators a day earlier that Iran had placed mines across much of the Strait. Trump said the waterway would reopen \"immediately\" once Iran signs a memorandum of understanding to end hostilities, but negotiators remain deadlocked over terms and Iran's foreign minister said Thursday there has been no progress amid Israel's continued offensive in southern Lebanon."
+    },
+    {
+      "id": "4917534",
+      "time": "2026-06-04 20:35:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江西省與科大訊飛簽署戰略合作協議】據江西省人民政府訊息，6月3日，江西省與科大訊飛股份有限公司簽署戰略合作協議。江西省省長葉建春會見科大訊飛董事長劉慶峰一行，並共同見證簽約。葉建春表示，希望科大訊飛以此次簽約為契機，更好對接江西的產業、資源等優勢，加大在江西的投資力度，深度參與江西“人工智慧+”場景建設，帶動更多人工智慧產業鏈上下游企業來江西投資興業，助力江西構建更加完善的人工智慧產業生態。"
+    },
     {
       "id": "em:jjsj_mgsj:202606043760607261",
       "time": "2026-06-04 20:35:44",
@@ -175360,114 +175552,6 @@
         "公司"
       ],
       "text": "【偉創電氣：股東向特定機構投資者詢價轉讓853.55萬股】偉創電氣公告稱，南通市偉創電氣科技有限公司等3家股東擬以詢價轉讓方式減持公司首發前股份，擬轉讓股數上限為853.55萬股。本次詢價轉讓價格為74.17元/股，交易金額為6.33億元，受讓方為34家投資機構，獲配股份鎖定期6個月。國泰海通證券核查認為，本次詢價轉讓過程合法合規，結果公平公正，符合相關規定。"
-    },
-    {
-      "id": "4904901",
-      "time": "2026-05-28 20:40:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞馬遜美股盤前跌超4%】亞馬遜美股盤前跌超4%，現報259.7美元。"
-    },
-    {
-      "id": "4904900",
-      "time": "2026-05-28 20:40:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大皇家銀行執行長表示，儘管能源供應出現中斷，但信用卡支出資料顯示消費者仍在服務相關領域保持支出。"
-    },
-    {
-      "id": "4904899",
-      "time": "2026-05-28 20:40:06",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【盛寶銀行：比特幣下跌，受地緣政治緊張局勢和ETF資金流出拖累】盛寶銀行分析師在一份報告中表示，隨著地緣政治緊張局勢、宏觀經濟不確定性以及加密貨幣交易所交易基金(ETF)持續的資金流出帶來壓力，比特幣與其他數字資產一同下跌。他們表示，數字資產與其他風險資產一樣走弱，反映出市場對流動性狀況和利率預期仍然高度敏感。伊朗戰爭導致的能源價格上漲，促使市場反映了對許多央行加息的預期。盛寶銀行的分析師表示，與此同時，有報道稱週二貝萊德iShares Bitcoin Trust的13億美元大宗交易在暗池中易手，此後美國現貨比特幣ETF本週繼續出現顯著的資金流出。倫敦證券交易所集團的資料顯示，比特幣早些時候觸及72,667美元的六週低點，最新下跌2.5%，至73,274美元。"
-    },
-    {
-      "id": "4904898",
-      "time": "2026-05-28 20:39:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯政府批准臨時燃料補貼以支援交通部門。"
-    },
-    {
-      "id": "4904897",
-      "time": "2026-05-28 20:39:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大皇家銀行執行長在電話會議上表示，抵押貸款增長仍持續受到宏觀不確定性與房價放緩的影響。"
-    },
-    {
-      "id": "4904896",
-      "time": "2026-05-28 20:39:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長表示，5月通脹率將低於4月。"
-    },
-    {
-      "id": "te:economy:554484",
-      "time": "2026-05-28 20:39:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Canada Current Account Deficit Widens More Than Expected — Canada's current account deficit widened by C$6.2 billion to C$7.2 billion in the first quarter of 2026, missing forecasts of a C$4.7 billion gap and marking the 15th consecutive quarterly deficit. The investment income surplus narrowed by C$4.9 billion to C$2.5 billion, mainly due to lower direct investment income. Meanwhile, the trade deficit in goods widened by C$3.3 billion to C$7.7 billion as imports rose faster than exports. Goods imports increased 5.5% to a record C$211 billion, driven primarily by a 38.3% surge in metal and non-metallic mineral products, largely gold, amid sharply higher precious metal prices. In contrast, Canada’s trade surplus in services increased by C$0.8 billion to C$1.3 billion."
-    },
-    {
-      "id": "te:economy:554483",
-      "time": "2026-05-28 20:38:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Durable Goods Orders",
-        "Importance 1"
-      ],
-      "text": "US Durable Goods Orders Surprise on the Upside — New orders for US-manufactured durable goods jumped by 7.9% from the previous month to $346 billion in April 2026, after an upwardly revised 1.3% rise in the prior month and largely beating forecasts of a 3.5% advance. This marked the strongest increase in new orders since May 2025, mainly reflecting higher demand for transportation equipment (+21.5%), particularly nondefense aircraft and parts (+165.9%); and capital goods (21%). Orders also increased for fabricated metal products (3.5%); primary metals (1.9%) and machinery (0.5%), but fell for computer and electronic products (-0.7%). Excluding transportation, new orders rose by 1.1%, the same pace as in March; while excluding defense, they surged by 8.1%, after a 0.3% decline previously. Meanwhile, orders for non-defense capital goods excluding aircraft, a closely watched proxy for business spending plans, fell by 1.1%, following a 3.9% rise in the prior month."
-    },
-    {
-      "id": "te:economy:554482",
-      "time": "2026-05-28 20:37:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Personal Spending",
-        "Importance 3"
-      ],
-      "text": "US Personal Spending Rises 0.5% in April — US personal spending increased by 0.5% month-on-month in April 2026, or $111.1 billion, slowing from an upwardly revised 1% gain in March and matching market expectations. Spending on goods rose by $44.0 billion, primarily driven by a $28.8 billion surge in gasoline and other energy goods amid soaring energy prices tied to the Middle East conflict. Additional gains were seen in food and beverages ($9.5 billion), other nondurable goods ($8.2 billion), and recreational goods and vehicles ($8.1 billion), while motor vehicle spending fell by $9.2 billion. Spending on services climbed by $67.2 billion, led by housing and utilities ($22.7 billion), recreation services ($12.1 billion), food services and accommodations ($11.3 billion), and final expenditures of nonprofit institutions ($9.9 billion). Meanwhile, inflation-adjusted consumer spending edged up 0.1% in April, slowing from an upwardly revised 0.3% increase in March."
-    },
-    {
-      "id": "4904895",
-      "time": "2026-05-28 20:37:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國防部：中國軍隊堅決捍衛領土主權和海洋權益】“中國軍隊時刻保持高度戒備，堅決捍衛領土主權和海洋權益。”國防部新聞發言人蔣斌28日在國防部例行記者會上表示。有記者問，據報道，荷蘭軍用直升機昨天在南海遭遇中國軍隊的“攔截”。解放軍南部戰區當天予以證實。請問國防部對此有何評論？“近日，荷蘭海軍‘德魯伊特’號護衛艦1架艦載直升機非法侵闖中國西沙群島領空，嚴重侵犯中國主權，損害中國安全利益。”蔣斌說，中國軍隊組織海空兵力採取有力措施，對其予以外逼驅離，並向荷方提出嚴正交涉。“西沙群島是中國固有領土。中國軍隊時刻保持高度戒備，堅決捍衛領土主權和海洋權益。我們敦促荷方停止侵權、冒險和挑釁行徑，嚴格約束一線海空兵力行動，以免發生海空不測事件。”蔣斌表示。（新華社）"
-    },
-    {
-      "id": "te:economy:554481",
-      "time": "2026-05-28 20:36:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 1"
-      ],
-      "text": "US Initial Unemployment Claims Inch Higher — The number of people claiming unemployment benefits in the US rose by 5,000 to 215,000 on the third week of May, slightly above market expectations that it would rise by 1,000. In the meantime, continuing jobless claims rose by 15,000 to 1,786,000 on the second week of May, in line with expectations of 1,780,000. Despite the slight increases, the claim counts remained firmly below averages from the previous year and extended the period of stability since the declines in initial claims in the last months, maintaining the backdrop of a robust labor market and adding leeway for the Fed to remain restrictive. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due to government shutdowns that have delayed unemployment insurance filing, were relatively unchanged at 427."
     }
   ]
 }
