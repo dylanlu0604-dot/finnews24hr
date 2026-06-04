@@ -1,7 +1,755 @@
 {
-  "updated": "2026-06-05 02:17:20",
-  "count": 18960,
+  "updated": "2026-06-05 03:02:48",
+  "count": 18964,
   "items": [
+    {
+      "id": "4918073",
+      "time": "2026-06-05 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.32%，報25171.10點，低水82.30點。"
+    },
+    {
+      "id": "mkt:019e9401-2a5c-755d-92d4-f2481c3c5d51",
+      "time": "2026-06-05 02:59:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy publishes open letter to Putin proposing meeting, seeks Europe and US participation】Ukrainian President Zelenskiy on the 4th published an open letter to Russian President Putin proposing a meeting, asking that a date be set and urging participation by Europe and the United States."
+    },
+    {
+      "id": "4918072",
+      "time": "2026-06-05 02:58:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【澤連斯基公開致信普京 提議舉行會晤】烏克蘭總統澤連斯基4日釋出致俄羅斯總統普京的公開信，提議與普京舉行會晤併為之確定日期。澤連斯基主張歐洲和美國參與這一程序。（新華社）"
+    },
+    {
+      "id": "mkt:019e93ff-a1db-755d-92d4-ef973d4e38cb",
+      "time": "2026-06-05 02:57:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "An adviser to Iran's supreme leader said Trump seeks to pressure Iran into accepting his terms while leaving Iran's demands ambiguous; the current draft contains ambiguities that must be clarified."
+    },
+    {
+      "id": "4918071",
+      "time": "2026-06-05 02:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：尚不清楚ANTHROPIC是否在協助美國國家安全域性進行實際行動。"
+    },
+    {
+      "id": "4918070",
+      "time": "2026-06-05 02:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問  ：當前（協議）草案存在必須予以澄清的模糊表述。"
+    },
+    {
+      "id": "4918069",
+      "time": "2026-06-05 02:55:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：特朗普希望向我方施壓，迫使我方接受他開出的條件，同時對我方的訴求避而不談。"
+    },
+    {
+      "id": "mkt:019e93fd-a498-755d-92d4-e347322c368d",
+      "time": "2026-06-05 02:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Confirmed Ebola cases in the Democratic Republic of the Congo rose to 381, the government said."
+    },
+    {
+      "id": "mkt:019e93fd-a358-755d-92d4-dda3a56f848a",
+      "time": "2026-06-05 02:55:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he believes the United States has the most dishonest elections of any country in the world."
+    },
+    {
+      "id": "4918068",
+      "time": "2026-06-05 02:55:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我相信我們擁有全球任何國家中最不誠實的選舉！"
+    },
+    {
+      "id": "4918067",
+      "time": "2026-06-05 02:54:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行董事會成員：哥倫比亞貨幣政策必須繼續發力，以讓通脹迴歸下行趨勢。"
+    },
+    {
+      "id": "4918066",
+      "time": "2026-06-05 02:54:24",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "哥倫比亞央行董事會成員：哥倫比亞加息週期的持續時長將取決於相關決策是及時出臺還是被推遲。"
+    },
+    {
+      "id": "4918065",
+      "time": "2026-06-05 02:54:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行董事會成員：哥倫比亞央行技術團隊尚未將新的通脹風險完全納入考量。"
+    },
+    {
+      "id": "4918064",
+      "time": "2026-06-05 02:54:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行董事會成員：如果我們不採取行動，哥倫比亞通脹率很可能不會止步於6%，明年還會繼續上行。"
+    },
+    {
+      "id": "4918063",
+      "time": "2026-06-05 02:53:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶95.03美元，下跌2.78美元，跌幅2.84%。"
+    },
+    {
+      "id": "4918062",
+      "time": "2026-06-05 02:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic派遣工程師進駐美國國家安全域性。"
+    },
+    {
+      "id": "mkt:019e93fb-8110-755d-92d4-d3afc6dcfabd",
+      "time": "2026-06-05 02:53:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister said Kyiv will formally deliver a letter from Zelensky to Russian President Putin via diplomatic channels."
+    },
+    {
+      "id": "4918061",
+      "time": "2026-06-05 02:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國稱，埃博拉確診病例已增至381例。"
+    },
+    {
+      "id": "4918060",
+      "time": "2026-06-05 02:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長表示，烏方將透過外交渠道正式向普京遞交澤連斯基的信件。"
+    },
+    {
+      "id": "4918059",
+      "time": "2026-06-05 02:52:09",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通、傑富瑞擬赴委內瑞拉考察，委內瑞拉經濟正逐步對外開放。"
+    },
+    {
+      "id": "4918058",
+      "time": "2026-06-05 02:51:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：厄爾尼諾影響拉美農業綜合企業的機率上升，影響程度將取決於其持續時間、嚴重程度以及與化肥供應中斷的疊加情況。"
+    },
+    {
+      "id": "mkt:019e93f9-4198-755d-92d4-cd8a0f3fa0d8",
+      "time": "2026-06-05 02:50:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch said geopolitical and weather conditions in Latin America remain in flux, leaving uncertainty high for H2 2026 and 2027."
+    },
+    {
+      "id": "4918057",
+      "time": "2026-06-05 02:50:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： Anthropic協助美國安全機構使用Mythos發動網路攻擊。"
+    },
+    {
+      "id": "4918056",
+      "time": "2026-06-05 02:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "MERCALOT：SAFEDEAL CONNECT應用仍可在蘋果應用商店供iOS使用者下載。"
+    },
+    {
+      "id": "4918055",
+      "time": "2026-06-05 02:49:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：MERCALOT致力於在谷歌應用商店恢復SafeDeal Connect安卓應用。"
+    },
+    {
+      "id": "mkt:019e93f7-a70f-755d-92d4-c2eea029efd8",
+      "time": "2026-06-05 02:48:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Fitch Ratings: El Nifio will intensify credit pressure on Latin American agribusinesses."
+    },
+    {
+      "id": "4918054",
+      "time": "2026-06-05 02:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級關於拉丁美洲的觀點：鑑於地緣政治與氣候環境仍在變化，2026年下半年及2027年不確定性仍將保持高位。"
+    },
+    {
+      "id": "mkt:019e93f5-a212-7993-87f9-a5f4d1a35225",
+      "time": "2026-06-05 02:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia hopes the conflict involving Iran will end as soon as possible."
+    },
+    {
+      "id": "mkt:019e93f4-99aa-755d-92d4-bac848326eae",
+      "time": "2026-06-05 02:45:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian President Putin said the Iran crisis has brought only temporary benefits to Russia."
+    },
+    {
+      "id": "4918053",
+      "time": "2026-06-05 02:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯希望伊朗衝突儘快結束。"
+    },
+    {
+      "id": "mkt:019e93f4-3626-7993-87f9-924c3d7b4b53",
+      "time": "2026-06-05 02:45:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Putin said he hopes the US and Iran can reach a compromise to end the conflict."
+    },
+    {
+      "id": "mkt:019e93f4-2bc7-755d-92d4-af8ab2d96972",
+      "time": "2026-06-05 02:45:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russian President Putin said Europe should treat Russia as an equal partner and that there is no evidence Russia has launched cyberattacks or carried out sabotage against Europe."
+    },
+    {
+      "id": "4918052",
+      "time": "2026-06-05 02:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯從伊朗危機中獲得的利好具有臨時性。"
+    },
+    {
+      "id": "4918051",
+      "time": "2026-06-05 02:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：厄爾尼諾現象將加劇拉丁美洲農業企業信貸壓力。"
+    },
+    {
+      "id": "4918050",
+      "time": "2026-06-05 02:44:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談伊朗衝突：我們希望美國與伊朗能達成妥協，結束衝突。"
+    },
+    {
+      "id": "mkt:019e93f0-d233-755d-92d4-a1dd5a04b816",
+      "time": "2026-06-05 02:41:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy told Russian President Putin that if he does not end the war, he will have to fight for his own survival."
+    },
+    {
+      "id": "mkt:019e93f0-512b-7993-87f9-79f0b36e6ae7",
+      "time": "2026-06-05 02:41:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia has held contacts with the United States on the Cuba issue."
+    },
+    {
+      "id": "mkt:019e93f0-43cb-7993-87f9-70cf0d2d30cd",
+      "time": "2026-06-05 02:40:57",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin says negotiations with Ukraine can begin without stopping the fighting."
+    },
+    {
+      "id": "4918049",
+      "time": "2026-06-05 02:40:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：歐洲應將俄羅斯視為平等夥伴。"
+    },
+    {
+      "id": "4918048",
+      "time": "2026-06-05 02:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲施密德稱通脹仍然過高】堪薩斯城聯邦儲備銀行行長傑夫·施密德重申了他的觀點，即通脹過高，美聯儲的選擇是加息還是維持利率不變。他在俄克拉何馬州的一次爐邊談話中說：“我們是否會說，好吧，現在是時候加息25或50個基點，看看我們能否把通脹壓下來。”"
+    },
+    {
+      "id": "4918047",
+      "time": "2026-06-05 02:40:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：沒有證據表明俄羅斯對歐洲實施了網路攻擊與破壞活動。"
+    },
+    {
+      "id": "4918046",
+      "time": "2026-06-05 02:39:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "富蘭克林資源公司股價漲幅擴大至高達6.9%。"
+    },
+    {
+      "id": "4918045",
+      "time": "2026-06-05 02:39:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI聯合創始人舒爾曼：大部分客服崗位將被人工智慧取代。"
+    },
+    {
+      "id": "4918044",
+      "time": "2026-06-05 02:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "富蘭克林旗下 WAMCO 就利奇相關交易達成近 1 億美元證券交易協議。"
+    },
+    {
+      "id": "mkt:019e93ed-524a-7993-87f9-6d16bf69a6c2",
+      "time": "2026-06-05 02:37:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy said Ukraine is prepared to halt fighting during negotiations and that the US can monitor the ceasefire."
+    },
+    {
+      "id": "4918043",
+      "time": "2026-06-05 02:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI聯合創始人舒爾曼：人工智慧將提升生產效率與客戶滿意度。"
+    },
+    {
+      "id": "mkt:019e93ec-a923-7cc6-8ab7-34afc477fada",
+      "time": "2026-06-05 02:37:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY told Putin the fighting has gone on long enough and said the choice is in Russia's hands."
+    },
+    {
+      "id": "mkt:019e93ec-9984-7993-87f9-5fd492a0be05",
+      "time": "2026-06-05 02:36:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy proposed bilateral talks with Russian President Putin."
+    },
+    {
+      "id": "4918042",
+      "time": "2026-06-05 02:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：無需停止戰事即可開啟與烏克蘭的談判。"
+    },
+    {
+      "id": "4918041",
+      "time": "2026-06-05 02:36:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們與美國在古巴問題上有過接觸。"
+    },
+    {
+      "id": "4918040",
+      "time": "2026-06-05 02:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基對普京表示：若你選擇不停止戰爭，烏克蘭將繼續戰鬥。"
+    },
+    {
+      "id": "4918039",
+      "time": "2026-06-05 02:34:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：美國可以監督停火。"
+    },
+    {
+      "id": "mkt:019e93ea-426e-7993-87f9-55a2bb3a319d",
+      "time": "2026-06-05 02:34:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, Goldman Sachs forecasts SpaceX’s cumulative cash burn will reach $350 billion by 2030."
+    },
+    {
+      "id": "4918038",
+      "time": "2026-06-05 02:34:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭已準備好談判期間停火。"
+    },
+    {
+      "id": "4918037",
+      "time": "2026-06-05 02:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在致普京信函中寫道：戰事該畫上句號了，抉擇如今在你一方。"
+    },
+    {
+      "id": "4918036",
+      "time": "2026-06-05 02:32:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【普京：俄方願在安克雷奇會晤基礎上與烏方談判】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京表示，俄方準備接受俄美領導人去年8月在美國阿拉斯加州安克雷奇市會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。普京認為，由於國內政治局勢，烏克蘭還沒有做好達成協議的準備。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e93e8-b253-7cc6-8ab7-26708d551f4d",
+      "time": "2026-06-05 02:32:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy urged Russian President Putin to end the war."
+    },
+    {
+      "id": "mkt:019e93e8-8f47-7cc6-8ab7-1f1c353e63d1",
+      "time": "2026-06-05 02:32:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY published an open letter to Putin saying Russian forces cannot capture the Donetsk region this year."
+    },
+    {
+      "id": "mkt:019e93e8-6f3c-7cc6-8ab7-1761bd63e705",
+      "time": "2026-06-05 02:32:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, SHFE most-active gold contract rose 0.43% to 980 yuan/gram; SHFE most-active silver contract rose 0.73% to 17,976 yuan/kg; SC crude oil most-active contract fell 2.17% to 595 yuan/barrel."
+    },
+    {
+      "id": "mkt:019e93e8-5187-7cc6-8ab7-0ec982f14e11",
+      "time": "2026-06-05 02:32:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.22% at 976.65 yuan/gram in the evening session on June 4 (Thursday). Shanghai Gold Exchange silver T+D closed up 1.08% at 17,933.0 yuan/kg."
+    },
+    {
+      "id": "4918035",
+      "time": "2026-06-05 02:31:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在致普京的信中表示，俄軍今年無法佔領頓涅茨克地區。"
+    },
+    {
+      "id": "4918034",
+      "time": "2026-06-05 02:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收跌2.98美元，跌幅3.10%，報93.04美元/桶。NYMEX 7月天然氣期貨收報3.3360美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0383美元/加侖，NYMEX 7月取暖油期貨收報3.6738美元/加侖。"
+    },
+    {
+      "id": "4918032",
+      "time": "2026-06-05 02:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "JANE STREET 因算力緊缺，規劃新建資料中心。"
+    },
+    {
+      "id": "te:markets:556582",
+      "time": "2026-06-05 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 2.40% — Top crypto losers are Binance (-2.40%), Ether (-2.25%), XRP (-2.24%) and Bitcoin (-0.36%)."
+    },
+    {
+      "id": "4918031",
+      "time": "2026-06-05 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.17%，報595.10元人民幣/桶。滬金夜盤收漲0.43%，滬銀收漲0.73%。"
+    },
+    {
+      "id": "te:markets:556581",
+      "time": "2026-06-05 02:29:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Realty Income Stock Price Hits 5-week Low — Realty Income shares decreased to 320.50 USD, the lowest since April 2026. Over the past 4 weeks, Realty Income lost 2.96%, and in the last 12 months, it decreased 12.39%."
+    },
+    {
+      "id": "4918030",
+      "time": "2026-06-05 02:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基提議同普京舉行會晤以結束戰事。"
+    },
+    {
+      "id": "mkt:019e93e4-5850-7cc6-8ab7-02e795ee1f5a",
+      "time": "2026-06-05 02:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said when asked whether tariffs have driven price increases, the effect is negligible."
+    },
+    {
+      "id": "4918029",
+      "time": "2026-06-05 02:26:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特被問及關稅是否推高物價時，表示影響微乎其微。"
+    },
+    {
+      "id": "4918028",
+      "time": "2026-06-05 02:25:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：器械與放射健康中心（CDRH）釋出緊急預警，提示公眾因sulet公司胰島素泵可能存在高風險問題。"
+    },
+    {
+      "id": "te:markets:556580",
+      "time": "2026-06-05 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 3.51% — Top commodity losers are Cocoa (-3.51%) and Cotton (-2.43%). Gains are led by Wool (1.55%) and Lumber (1.51%)."
+    },
+    {
+      "id": "mkt:019e93df-296b-7338-b9e8-60dbc12c99d6",
+      "time": "2026-06-05 02:22:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin: Why would Russia attack NATO?"
+    },
+    {
+      "id": "mkt:019e93de-a86b-7338-b9e8-5824f68a9b8c",
+      "time": "2026-06-05 02:21:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Data show Iran's oil exports fall to six-year low】Shipping data and analysts show Iran's crude and condensate exports in May fell to their lowest level in at least six years amid a US Navy blockade. Vortexa put May flows at about 209,000 b/d, down from 1.34m b/d in April and nearly 1.9m b/d in March, the weakest since late 2019–early 2020. Vortexa analyst Claire Jungman said the main drivers appear to include unrest around the Strait of Hormuz, US Navy restrictions on vessels entering and leaving Iranian ports, and broad reluctance by owners, operators, insurers and trading counterparties to expose ships and crews to the current security environment. Kpler showed a similar drop, estimating May exports at roughly 260,000 b/d, still a six-year low."
+    },
+    {
+      "id": "4918027",
+      "time": "2026-06-05 02:21:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【資料顯示：伊朗石油出口降至六年來的最低水平】據航運資料和分析人士的報告，由於美國海軍封鎖，伊朗5月份原油和凝析油出口量降至至少六年來的最低水平，日均出口量遠低於30萬桶。據Vortexa資料顯示，伊朗5月份的出口平均約為每日20.9萬桶，較4月的134萬桶和3月的近190萬桶大幅下降，這標誌著自2019年底至2020年初以來的最低水平。Vortexa分析師Claire Jungman表示：“主要驅動因素似乎包括霍爾木茲海峽周邊的局勢動盪、美國海軍針對進出伊朗港口的船舶實施的封鎖，以及船東、船運公司、保險公司和交易對手普遍不願讓船舶和船員暴露在當前的安全環境中。”另一家機構Kpler的資料顯示，降幅類似，但其將5月份出口量略微上調至每日26萬輛，仍為六年來的最低水平。"
+    },
+    {
+      "id": "te:markets:556579",
+      "time": "2026-06-05 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.89% — Top commodity gainers are Silver (1.89%), Platinum (1.42%) and Gold (0.98%). Biggest losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%)."
+    },
+    {
+      "id": "4918026",
+      "time": "2026-06-05 02:18:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨價格漲幅擴大至5%。因庫存增幅較小以及天氣轉暖的預測，有望創下自2月以來的最高收盤價。"
+    },
+    {
+      "id": "mkt:019e93dc-2a17-7cc6-8ab6-faa9c2ca6627",
+      "time": "2026-06-05 02:18:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi leader says movement ready to respond to any developments】Houthi leader Abdul-Malik al-Houthi said on April 4 the movement is prepared to respond to any developments and is maintaining full coordination with resistance forces over the situations in Lebanon and Palestine."
+    },
+    {
+      "id": "4918025",
+      "time": "2026-06-05 02:18:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯為什麼要攻打北約？"
+    },
+    {
+      "id": "mkt:019e93db-8614-7cc6-8ab6-f73632c5ea06",
+      "time": "2026-06-05 02:18:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Putin said he hopes all parties to the Iran conflict can find a solution."
+    },
+    {
+      "id": "mkt:019e93db-7b28-7cc6-8ab6-ee0d07ad299f",
+      "time": "2026-06-05 02:18:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose 5% as limited storage builds and expectations of warmer weather extended gains, putting contracts on track for their highest close since February."
+    },
+    {
+      "id": "4918024",
+      "time": "2026-06-05 02:17:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據肯尼迪中心一份發給員工的備忘錄：特朗普的名字必須在6月12日前從肯尼迪中心移除。"
+    },
+    {
+      "id": "4918023",
+      "time": "2026-06-05 02:17:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝稱已做好準備應對任何局勢發展】葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。他稱，胡塞武裝正就黎巴嫩和巴勒斯坦局勢，與各方抵抗力量保持全面協調。（央視新聞）"
+    },
     {
       "id": "4918022",
       "time": "2026-06-05 02:16:56",
@@ -9,6 +757,18 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：希望伊朗衝突各方能夠找到解決方案。"
+    },
+    {
+      "id": "te:markets:556578",
+      "time": "2026-06-05 02:16:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Stock Price Hits 21-month Low — McDonalds shares decreased to 271.97 USD, the lowest since August 2024. Over the past 4 weeks, McDonalds lost 4.58%, and in the last 12 months, it decreased 11.93%."
     },
     {
       "id": "mkt:019e93d9-9f06-7338-b9e8-4b9754295fe1",
@@ -72,6 +832,17 @@
         "市場"
       ],
       "text": "Rumble股價在午後交易中上漲1.3%，該公司已與Together AI簽署協議，部署基於英偉達布萊克韋爾（NVIDIA Blackwell）架構的人工智慧算力即服務。"
+    },
+    {
+      "id": "te:markets:556577",
+      "time": "2026-06-05 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Tumbles by 5.05% — Top commodity losers are Heating Oil (-5.05%), Crude Oil WTI (-4.23%), Gasoline (-3.61%) and Brent Crude Oil (-3.48%). Gains are led by Natural gas (4.45%), Methanol (0.87%) and Coking Coal (0.61%)."
     },
     {
       "id": "4918017",
@@ -319,6 +1090,17 @@
       "text": "【LME金屬期貨收盤漲跌不一】LME金屬期貨收盤漲跌不一。倫鋁收跌0.74%，報3670美元； 倫銅收漲0.96%，報13918美元； 倫鎳收跌0.96%，報18640美元； 倫鉛收跌0.25%，報2015.5美元； 倫錫收跌2.24%，報55950美元； 倫鋅收跌0.18%，報3597美元。"
     },
     {
+      "id": "te:markets:556576",
+      "time": "2026-06-05 02:04:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas is up by 5.02% — Natural gas increased 5.02% to 3.3753 USD/MMBtu"
+    },
+    {
       "id": "4918001",
       "time": "2026-06-05 02:04:27",
       "tags": [
@@ -545,6 +1327,18 @@
       "text": "俄羅斯總統普京：歐盟可在說服烏克蘭做出妥協方面發揮積極作用。"
     },
     {
+      "id": "te:markets:556575",
+      "time": "2026-06-05 01:48:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Coca-Cola Stock Price Hits 4-week Low — Coca-Cola shares decreased to 77.83 USD, the lowest since May 2026. Over the past 4 weeks, Coca-Cola lost 0.78%, and in the last 12 months, it increased 9.82%."
+    },
+    {
       "id": "4917982",
       "time": "2026-06-05 01:48:09",
       "tags": [
@@ -552,6 +1346,14 @@
         "國際"
       ],
       "text": "【舊金山聯儲行長稱貨幣政策處於良好狀態 但利率前景不明】舊金山聯儲行長瑪麗·戴利表示，當前貨幣政策處於良好狀態，但經濟面臨太多不確定性，因此難以判斷利率未來走向。“無論經濟如何發展，我們都做好了應對準備，”戴利週四在舊金山舉行的彭博科技大會上表示。“我認為對未來可能發生的情況給出更多前瞻性指引，最終可能會產生誤導，因為我們必須等待經濟形勢的發展。”外界普遍預計美聯儲官員將在6月16日至17日的下次議息會議上維持利率不變，這將是新任主席凱文·沃什主持下的首次會議。戴利還表示，儘管經濟資料尚未顯示人工智慧帶來明顯的生產力提升，但她依然看好這項技術的發展前景。“我們尚未看到廣泛的生產力提升，”戴利說。企業使用人工智慧所獲得的投資回報“仍有待顯現”，但企業對這項技術的熱情“極其高漲”。她說：“我相當看好。我看到了可能性，而且我聽到越來越多的人表示看到了初步回報，並真正意識到明年將是關鍵的一年。”"
+    },
+    {
+      "id": "4917981",
+      "time": "2026-06-05 01:47:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部表示，已將招生調查範圍擴大至另外15所醫學院。"
     },
     {
       "id": "mkt:019e93bf-4470-799e-8472-2dc2f61c5d37",
@@ -1607,6 +2409,18 @@
       "text": "俄羅斯總統普京：印美關係不會妨礙俄印關係。"
     },
     {
+      "id": "te:markets:556574",
+      "time": "2026-06-05 01:07:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Dow Rises to New Record — US stocks swung to trade mostly higher on Thursday as a pullback in oil prices softened inflationary risks, offsetting a pivot out of semiconductor companies after Broadcom released results. The S&P 500 rose 0.4% and the Dow gained over 900 points to a new record high. Despite repeated clashes, Israel and Lebanon signed a ceasefire that could pave the way for a US-Iran peace deal, lowering oil prices and bond yields. Banks and asset managers rebounded, with JPMorgan, Wells Fargo, and Morgan Stanley adding 4%, while Blackstone soared 8% despite capping private credit redemptions. In turn, the Nasdaq 100 fell 0.5% amid fresh selling for semiconductors, which have supported equity indices this year. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. Micron and AMD followed with losses of over 4%. Also, Crowdstrike also slipped 6% after posting its earnings."
+    },
+    {
       "id": "4917912",
       "time": "2026-06-05 01:05:05",
       "tags": [
@@ -1832,6 +2646,18 @@
       "text": "Fed officials Schmid and Daly are scheduled to speak in 10 minutes, speaking sequentially."
     },
     {
+      "id": "te:markets:556573",
+      "time": "2026-06-05 00:50:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Stock Price Hits 17-1/2-year High — Citigroup shares increased to 135.41 USD, the highest since November 2008. Over the past 4 weeks, Citigroup gained 5.77%, and in the last 12 months, it increased 76.6%."
+    },
+    {
       "id": "4917893",
       "time": "2026-06-05 00:49:48",
       "tags": [
@@ -1948,6 +2774,18 @@
       "text": "【公募機構對直銷業務“做減法”】昨日，中科沃土基金髮布關於關閉直銷網上交易平臺、微信服務號部分業務服務的公告。公告顯示，中科沃土基金將於6月27日起關閉直銷網上交易平臺和微信服務號“中科沃土基金”的開戶、認購、申購（含定期定額投資）、基金轉換業務，贖回、查詢、銷戶等業務仍可正常辦理。記者就相關情況採訪中科沃土基金，該公司相關人士回應稱：“本次對直銷網上交易平臺及微信服務號提供的業務服務進行調整，主要是基於公司自身業務發展的安排。”近年來，公募機構直銷業務“做減法”的案例並不少見。舉例來說，去年下半年以來，諾安基金、申萬菱信基金、金鷹基金等多家公募機構釋出公告，暫停或終止旗下App移動客戶端的運營及維護服務，將相關功能及服務遷移至公司官方網站、微信服務號等。深圳市排排網基金銷售有限責任公司公募產品經理朱潤康對記者分析稱，公募機構收縮直銷業務或出於三方面考量：一是運營成本高、投入產出失衡，尤其對中小機構而言，自建App的維護成本與低迷的使用者活躍度難以匹配；二是使用者獲取與留存困難，單一公司App的產品豐富度和便利性通常不及大型代銷平臺；三是資源約束下的戰略聚焦，在資源有限時，部分機構選擇優先保障投研等核心能力，將規模拓展委託給代銷渠道，便於集中精力和資源專注投資主業。"
     },
     {
+      "id": "te:markets:556572",
+      "time": "2026-06-05 00:38:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Rebound — European stocks closed firmly higher on Thursday as a pullback in oil prices limited the magnitude of pro-inflationary risks faced by the European corporate sector. The Euro STOXX 50 added 0.8% to 6,103 and the STOXX Europe 600 gained 0.5% to 624. Israel and Lebanon signed a ceasefire agreement, part of the precedent for the Iran and the US to lift their blockade on commercial vessels that has triggered shortage risks on energy commodities. Banks closed firmly higher with Santander, Deutsche Bank and UniCredit adding between 1.5% and 3%. Aerospace stocks were also higher, with Airbus gaining 4.6%. Outside the Eurozone, HSBC lost nearly 2% after reports indicated that authorities have prohibited some Mainland China clients from opening Hong-Kong based accounts."
+    },
+    {
       "id": "4917883",
       "time": "2026-06-05 00:36:51",
       "tags": [
@@ -2038,6 +2876,18 @@
       "text": "多倫多綜合股指上漲1.2%，突破週二創下的盤中歷史新高。"
     },
     {
+      "id": "te:markets:556571",
+      "time": "2026-06-05 00:24:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.88 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 11.58%, and in the last 12 months, it decreased 17.51%."
+    },
+    {
       "id": "4917872",
       "time": "2026-06-05 00:23:24",
       "tags": [
@@ -2102,6 +2952,18 @@
       "text": "A U.S. House lawmaker released a statement unveiling a draft bill to regulate artificial intelligence."
     },
     {
+      "id": "te:economy:556570",
+      "time": "2026-06-05 00:14:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Ease from 9-Month High — The average rate on a 30-year fixed-mortgage was at 6.48% in the first week of June, easing from the nine-month high of 6.53% in the previous week, according to data compiled by Freddie Mac. The pullback was consistent with the drop in long-term Treasury yields over the period as signs that the US is chasing an agreement with Iran to extend their ceasefire lowered prices of key energy commodities."
+    },
+    {
       "id": "4917867",
       "time": "2026-06-05 00:14:20",
       "tags": [
@@ -2128,12 +2990,48 @@
       "text": "市場訊息：美國眾議院議員公佈人工智慧監管法案草案。"
     },
     {
+      "id": "te:markets:556569",
+      "time": "2026-06-05 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.27% Higher — The FTSE MIB Index went up by 136 points or 0.27 percent on Thursday to close at 50174 points. The rise was led by Diasorin (7.20%), Finecobank (2.35%) and Azimut Holding (2.11%). On the downside, the weakerst performers were STMicroelectronics (-2.95%), Prysmian (-2.40%) and Tenaris (-0.87%)."
+    },
+    {
+      "id": "te:markets:556568",
+      "time": "2026-06-05 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.60% Higher — The DAX Index rose 149 points or 0.60 percent on Thursday to close at 24945 points. Leading the gains are SAP (5.81%), Qiagen NV (5.54%) and Fresenius Medical Care (4.78%). Top losers were Infineon (-3.68%), Continental (-2.40%) and RWE (-2.07%)."
+    },
+    {
       "id": "4917864",
       "time": "2026-06-05 00:10:34",
       "tags": [
         "市場"
       ],
       "text": "洲際交易所紐約可可期貨<CCC1>跌幅超3%，跌至每噸3933美元。"
+    },
+    {
+      "id": "te:markets:556567",
+      "time": "2026-06-05 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.15% Higher — The CAC 40 Index gained 94 points or 1.15 percent on Thursday to close at 8244 points. Gains were led by Capgemini (6.61%), Dassault Systemes (5.94%) and Eurofins Scientific SE (5.03%)."
     },
     {
       "id": "mkt:019e9365-ebfa-711f-ac52-90c5ede2b0ef",
@@ -2164,6 +3062,18 @@
         "國際"
       ],
       "text": "美國出口商向哥倫比亞出售了11.5萬噸玉米。"
+    },
+    {
+      "id": "te:markets:556566",
+      "time": "2026-06-05 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.13% Higher — The FTSE 100 Index went up by 14 points or 0.13 percent on Thursday to close at 10346 points. The rise was led by B&M European Value (6.19%), Relx (5.77%) and London Stock Exchange (5.38%). On the downside, the weakerst performers were Prudential (-7.34%), Standard Chartered (-3.18%) and Rio Tinto (-2.76%)."
     },
     {
       "id": "mkt:019e9362-ff61-711f-ac52-842548822063",
@@ -173870,853 +174780,6 @@
         "Impact bullish"
       ],
       "text": "Hang Seng Index futures night session closed up 0.6% at 24,995, trading 11 points below the cash index."
-    },
-    {
-      "id": "4905517",
-      "time": "2026-05-29 03:01:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美財長：阿曼稱目前沒有計劃徵收霍爾木茲海峽通行費 】美國財政部長貝森特28日在白宮記者會上說，阿曼駐美大使當天上午同他通電話時說，阿曼目前沒有任何計劃要徵收霍爾木茲海峽通行費。（新華社）"
-    },
-    {
-      "id": "4905516",
-      "time": "2026-05-29 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.61%，報24997.30點，低水8.86點。"
-    },
-    {
-      "id": "4905515",
-      "time": "2026-05-29 02:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：還推薦在本迪布焦病毒治療研究中，評估單克隆抗體與瑞德昔韋聯合療法。"
-    },
-    {
-      "id": "4905514",
-      "time": "2026-05-29 02:57:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：獨立專家建議，在邦迪布戈病毒的治療研究中，優先評估 MBP134、MAFTIVIMA、瑞德西韋。"
-    },
-    {
-      "id": "4905513",
-      "time": "2026-05-29 02:54:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【城堡證券：美股陷入“緊張式看漲” 預計行情仍有上行空間】城堡證券的Scott Rubner表示，儘管美國股市過去兩個月已上漲超過10%，但可能還會繼續走高。這位城堡證券股票及股票衍生品策略主管表示，隨著地緣政治情緒改善、市場波動率維持低位，以及大型科技股持續領漲，那些在此前大部分反彈過程中保持謹慎的投資者被迫重新考慮倉位。Rubner週四在致客戶報告中寫道：“市場討論的焦點，越來越從下行保護轉向場外還有多少現金、下一批增量買家會來自哪裡，以及系統性資金流是否還能繼續推動這輪上漲。”"
-    },
-    {
-      "id": "mkt:019e6fee-479f-7eef-a302-59e81141ca3b",
-      "time": "2026-05-29 02:52:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Bessent: Sanctions Relief Depends On Iran's Nuclear Concessions】Bessent said any U.S. easing of sanctions or asset unfreezing for Iran would depend on whether Tehran meets core conditions set by the Trump administration. He called U.S.-Iran talks a “multi-layered agreement” and said nothing would be put on the table until Iran made explicit commitments. Any sanctions relief would be calibrated to Iranian concessions on nuclear issues, including whether Iran hands over highly enriched uranium. He did not directly say whether the U.S. would unfreeze assets or provide cash. Bessent added the Trump administration is tightening restrictions on Iran's aviation sector, calling Iranian airlines illegal entities and saying the U.S. will not allow them to operate normally."
-    },
-    {
-      "id": "4905512",
-      "time": "2026-05-29 02:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：在這款紀念建國 250 週年的 250 美元紙幣上印上現任美國總統肖像，我認為此舉並無不妥。"
-    },
-    {
-      "id": "mkt:019e6fed-1d8e-7eef-a302-51850dd38827",
-      "time": "2026-05-29 02:51:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US Treasury Secretary Bessent Says TRUMP Will Not Accept 'Bad Iran Deal'】US Treasury Secretary Bessent said on May 28 that US and Iranian negotiating teams remain in talks, but TRUMP has set multiple \"red lines\" and will not accept a \"bad deal.\" Bessent said TRUMP prefers a peaceful settlement and that current US actions are \"defensive,\" but the administration will act if a peaceful agreement cannot be reached. TRUMP demands Iran hand over highly enriched uranium, forswear nuclear-weapon development, and restore free navigation through the Strait of Hormuz; Bessent said Oman told him it will not charge passage fees and warned countries that try to restrict navigation could face US sanctions."
-    },
-    {
-      "id": "4905511",
-      "time": "2026-05-29 02:50:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝森特：放鬆制裁取決於伊朗在核問題讓步程度】當被問及美國是否對伊朗解除部分制裁或解凍資產時，貝森特稱這將取決於伊朗是否滿足特朗普政府提出的核心條件。他說，美伊談判是一項“多層面的協議”，在伊朗明確作出相關承諾前，“任何事情都不會真正擺上桌面”。貝森特表示，任何制裁的放鬆都將與伊朗在核問題上的讓步程度相對應，包括是否移交高濃縮鈾。但他未直接回應美國是否會向伊朗解凍資金或提供現金支援。貝森特還表示，特朗普政府正繼續加強對伊朗航空體系的限制措施。他強調，伊朗航空公司“已經成為非法實體”，美國不會允許其繼續正常運營。（央視新聞）"
-    },
-    {
-      "id": "4905510",
-      "time": "2026-05-29 02:50:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美財長稱特朗普不會接受“糟糕的伊朗協議”】當地時間5月28日，美國財政部長貝森特在簡報會上表示，美國與伊朗談判團隊仍在持續磋商，但美國總統特朗普已明確劃定多項“紅線”，不會接受一項“糟糕協議”。貝森特表示，美國總統特朗普始終更傾向於達成和平協議，目前美國所有行動都屬於“防禦性質”，但若特朗普認為無法達成和平協議，美方也將作出相應決定。他說，特朗普要求伊朗必須移交高濃縮鈾、不得發展核武器，同時霍爾木茲海峽必須恢復自由開放航行。貝森特還透露，他當天已與阿曼駐美國大使通話，對方保證阿曼無意對霍爾木茲海峽徵收通行費。他警告稱，若相關國家試圖限制航行自由，可能面臨美國製裁。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6fec-2ee7-7eef-a302-4e6420a9ac00",
-      "time": "2026-05-29 02:50:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, will take part in a fireside chat at a conference hosted by Johns Hopkins Carey Business School in 10 minutes."
-    },
-    {
-      "id": "4905509",
-      "time": "2026-05-29 02:49:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國職業棒球大聯盟球隊老闆正式提議設定薪資上限。"
-    },
-    {
-      "id": "4905508",
-      "time": "2026-05-29 02:48:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶93.71美元，下跌58美分，跌幅0.62%。"
-    },
-    {
-      "id": "4905507",
-      "time": "2026-05-29 02:47:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "STELLIS AI：CEO Trent Gillespie 繼與亞馬遜 AI 合作後，在全美拓展運營式 AI 主題合作。"
-    },
-    {
-      "id": "4905506",
-      "time": "2026-05-29 02:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯油輪 “環球號” 載有 24.2 萬桶柴油，原定駛往古巴，目前已調轉航向，疑似改駛南美。"
-    },
-    {
-      "id": "mkt:019e6fe7-1765-7eef-a302-405387525c11",
-      "time": "2026-05-29 02:44:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Asked whether he had asked Fed chair WARSH at breakfast to cut rates, US Treasury Secretary BESSENT declined to answer, saying only that he has never asked Powell to do so."
-    },
-    {
-      "id": "4905505",
-      "time": "2026-05-29 02:44:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普總統始終傾向於達成和平協議。因此我們目前採取的所有行動均為防禦性質。但倘若總統認為無法促成和平協議，那麼軍事行動將會重啟。"
-    },
-    {
-      "id": "4905504",
-      "time": "2026-05-29 02:44:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：在與前美聯儲主席鮑威爾的41次早餐中，從未要求鮑威爾降低利率。相信新主席沃什會採取正確措施，以平衡通脹與增長。"
-    },
-    {
-      "id": "mkt:019e6fe6-342c-7eef-a302-3c40649d2b44",
-      "time": "2026-05-29 02:43:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "BESSENT said he never asked POWELL to lower interest rates during 41 breakfasts with him."
-    },
-    {
-      "id": "4905503",
-      "time": "2026-05-29 02:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩衛生部：以色列襲擊已造成3324人死亡】黎巴嫩衛生部28日通報，自3月2日以色列襲擊黎巴嫩以來，衝突已經導致3324人喪生，10027人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6fe5-79f6-7eef-a302-36a913c96b2a",
-      "time": "2026-05-29 02:42:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said any agreement with Iran would require the Strait of Hormuz to remain fully open, and any plan to levy transit fees on the strait is an \"invalid proposal\"."
-    },
-    {
-      "id": "4905502",
-      "time": "2026-05-29 02:42:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "有記者指出，美國財政部長斯科特・貝森特的發展軌跡與萬斯、魯比奧如出一轍，疑似有意日後參選美國總統。對此，貝森特闢謠： “我看他們實在是沒別的話題可聊了。”"
-    },
-    {
-      "id": "4905500",
-      "time": "2026-05-29 02:40:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我方對俄羅斯石油實施的制裁力度前所未有。"
-    },
-    {
-      "id": "mkt:019e6fe2-dc83-7eef-a302-2eb766ea7db3",
-      "time": "2026-05-29 02:39:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Treasury Secretary BESSENT met with new Fed Chair KEVIN WARSH for breakfast on Thursday."
-    },
-    {
-      "id": "te:markets:554598",
-      "time": "2026-05-29 02:39:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rebounds on US-Iran Diplomacy Hopes — The S&P/TSX Composite Index edged up to trade above 34,500 on Thursday, rebounding from earlier losses after reports said the US and Iran had reached an outline agreement to extend their ceasefire, pending approval from US President Trump. The development followed Iran’s attack on a US air base in response to US strikes on an alleged Iranian drone operation. Bond yields fell amid signs of progress toward a peace deal. Mining stocks rebounded as gold prices trimmed losses, with Agnico Eagle and Barrick gaining nearly 2%, while WPM rose more than 2.5%. Tech stocks also advanced, with Shopify jumping nearly 6% and Constellation Software adding over 3.5%, tracking gains in US hardware and software shares. UBS also reiterated its “neutral” rating on Shopify and maintained its $130 target price. Meanwhile, major banks traded lower despite strong quarterly results from RBC (-0.9%) and TD Bank (-0.2%)."
-    },
-    {
-      "id": "mkt:019e6fe2-00e7-7eef-a302-20dbe0779bf5",
-      "time": "2026-05-29 02:38:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said the Treasury is preparing a new $250 banknote featuring President Trump’s portrait."
-    },
-    {
-      "id": "mkt:019e6fe0-d8f4-7eef-a302-18df58f57da9",
-      "time": "2026-05-29 02:37:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said the United States is an AI superpower."
-    },
-    {
-      "id": "4905499",
-      "time": "2026-05-29 02:37:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，人工智慧初創企業GROQ正向現有投資者募資至多6.5億美元。"
-    },
-    {
-      "id": "4905498",
-      "time": "2026-05-29 02:37:00",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特透露，美國財政部正著手籌備一款印有特朗普總統頭像的250 美元新版紙幣。目前國會已有相關法案提案，擬允許在世人物肖像登上美國貨幣。“眼下參眾兩院均收到法案提案，擬修改第一項規定，讓在世的唐納德・J・特朗普得以登上 250 美元紙幣。”"
-    },
-    {
-      "id": "mkt:019e6fdf-ee2c-7eef-a302-1076cadb118e",
-      "time": "2026-05-29 02:36:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US Treasury Secretary BESSENT said Washington is using an executive order on artificial intelligence to balance innovation with security."
-    },
-    {
-      "id": "mkt:019e6fdf-b960-7eef-a302-0863e1317357",
-      "time": "2026-05-29 02:36:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "BESSENT said on the AI executive order he is working closely with AI labs to find solutions."
-    },
-    {
-      "id": "4905497",
-      "time": "2026-05-29 02:36:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國是人工智慧超級大國。"
-    },
-    {
-      "id": "4905496",
-      "time": "2026-05-29 02:35:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及人工智慧行政令：正與人工智慧實驗室緊密合作尋求解決方案。"
-    },
-    {
-      "id": "4905495",
-      "time": "2026-05-29 02:35:44",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特列出特朗普對美伊協議的三大條件：海峽、濃縮鈾、核武器】美國財政部長斯科特·貝森特表示，特朗普提出的與德黑蘭達成協議的三個條件是：伊朗開放霍爾木茲海峽，交出其濃縮鈾，並且不追求核武器。貝森特說：“搶在總統前面永遠是錯誤的，最終決定權在總統手中。”"
-    },
-    {
-      "id": "mkt:019e6fde-ad0a-7eef-a302-00f86c16b8b2",
-      "time": "2026-05-29 02:35:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ANTHROPIC Raises $65 Billion, Valued At $965 Billion, Surpassing OpenAI】ANTHROPIC PBC raised $65 billion in a new financing round at a $965 billion post-money valuation, exceeding OpenAI. The round was led by Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital and was finalised within weeks, signalling strong investor demand; earlier reports said the company, after receiving multiple proposals in late April, had been weighing whether to seek new funding above a $900 billion valuation and entered intensive talks earlier this month."
-    },
-    {
-      "id": "4905494",
-      "time": "2026-05-29 02:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "萬事達卡執行長：5 月消費支出表現平穩至小幅向好。"
-    },
-    {
-      "id": "4905493",
-      "time": "2026-05-29 02:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情人士稱伊朗方面尚未同意任何諒解備忘錄】當地時間5月28日，伊朗談判代表團媒體團隊成員賽義德·阿加盧表示，截至目前，伊朗方面尚未同意任何諒解備忘錄，也未向巴基斯坦方面的調解人確認已批准該備忘錄。此外，他明確表示，在與美國的談判過程中，伊朗並未在核問題上作出任何承諾。 (央視新聞)"
-    },
-    {
-      "id": "4905492",
-      "time": "2026-05-29 02:33:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談及對古巴制裁：此事取決於古巴政府。"
-    },
-    {
-      "id": "mkt:019e6fdc-7319-7eef-a301-f9309a9bc052",
-      "time": "2026-05-29 02:32:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night Session Main Contracts Close】As of the night session close at 02:30, SHFE main contracts: gold up 1.91% at 987 yuan/gram; silver up 2.71% at 18,429 yuan/kg; SC crude oil main contract down 0.61% at 591 yuan/barrel."
-    },
-    {
-      "id": "mkt:019e6fdc-6623-7eef-a301-f3de3f563683",
-      "time": "2026-05-29 02:32:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed up 2.12% at 983.5 yuan/gram in the May 28 (Thursday) evening session. Shanghai Gold Exchange Silver T+D closed up 3.49% at 18,380 yuan/kg."
-    },
-    {
-      "id": "4905491",
-      "time": "2026-05-29 02:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談伊朗問題：我們必須在對方之前達成協議。"
-    },
-    {
-      "id": "mkt:019e6fdc-30c6-7eef-a301-efac22123f59",
-      "time": "2026-05-29 02:32:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "BESSENT said the U.S. will continue defensive actions against Iran, but U.S. patience is not limitless."
-    },
-    {
-      "id": "4905490",
-      "time": "2026-05-29 02:32:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic新一輪融資後估值達9650億美元 超越OpenAI】人工智慧公司Anthropic PBC在新一輪融資中募資650億美元，投後估值達到9,650億美元，超過競爭對手OpenAI。這輪融資於週四宣佈，由Altimeter Capital、Dragoneer、Greenoaks和紅杉資本領投。這輪大規模融資在短短數週內敲定，顯示投資者對這家Claude開發商需求強勁。此前有報道稱，4月下旬，在收到多份融資提案後，Anthropic一直在權衡是否以超過9,000億美元的估值尋求新融資。隨後，這家人工智慧初創公司本月早些時候啟動深入談判。"
-    },
-    {
-      "id": "4905489",
-      "time": "2026-05-29 02:31:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：但對伊朗的耐心不會永遠持續下去。"
-    },
-    {
-      "id": "4905488",
-      "time": "2026-05-29 02:31:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收漲0.22美元，漲幅0.25%，報88.90美元/桶。NYMEX 6月天然氣期貨收報3.2850美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.1852美元/加侖，NYMEX 6月取暖油期貨收報3.6187美元/加侖。"
-    },
-    {
-      "id": "4905487",
-      "time": "2026-05-29 02:31:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將繼續在伊朗採取防禦行動。"
-    },
-    {
-      "id": "4905486",
-      "time": "2026-05-29 02:31:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談伊朗：我們一直很有耐心。"
-    },
-    {
-      "id": "te:markets:554597",
-      "time": "2026-05-29 02:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Increases by 1.94% — Top crypto gainer is XRP (1.94%). Biggest losers are Bitcoin (-1.18%), Binance (-1.11%) and Ether (-0.18%)."
-    },
-    {
-      "id": "4905485",
-      "time": "2026-05-29 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.61%，報590.60元人民幣/桶。滬金夜盤收漲1.91%，滬銀收漲2.71%。"
-    },
-    {
-      "id": "mkt:019e6fd9-4ba7-7eef-a301-e3af00f605aa",
-      "time": "2026-05-29 02:29:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Insiders Say Iran Has Not Agreed To Any Memorandum Of Understanding】On May 28 local time, Saeed Agalou, a member of Iran’s negotiation team media unit, said Iran has not agreed to any memorandum of understanding and has not told Pakistan’s mediator that it approved the draft. He said Iran has made no commitments on the nuclear issue in talks with the United States."
-    },
-    {
-      "id": "4905484",
-      "time": "2026-05-29 02:29:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【“全球治理之友小組”會議聯合公報】2026年5月28日，“全球治理之友小組”會議在紐約聯合國總部舉行，主題是“改革完善全球治理 攜手應對全球挑戰”。中共中央政治局委員、外交部長王毅出席會議並致辭。巴基斯坦副總理兼外長達爾、土庫曼副總理兼外長梅列多夫、古巴外長羅德里格斯、吉爾吉斯斯坦外長庫魯巴耶夫、辛巴威外長穆爾維拉、哈薩克第一副外長阿什克巴耶夫、柬埔寨外交部國務秘書帕裡德等60餘國代表與會。小組成員認為，當今世界進入動盪變革期，聯合國和多邊體系面臨的壓力與日俱增，全球治理赤字不斷擴大。各方歡迎中國國家主席習近平提出的全球治理倡議及其五大核心理念——奉行主權平等、遵守國際法治、踐行多邊主義、倡導以人為本、注重行動導向，讚賞全球治理倡議與聯合國憲章宗旨和原則一脈相承，旨在捍衛和踐行多邊主義，加強聯合國在國際事務中的核心作用。（新華社）"
-    },
-    {
-      "id": "4905483",
-      "time": "2026-05-29 02:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我認為這兩件事（中期選舉中取得好成績，並促成伊朗核協議）都可能實現。"
-    },
-    {
-      "id": "4905482",
-      "time": "2026-05-29 02:28:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們可以在中期選舉中取得好成績，並促成伊朗核協議的達成。"
-    },
-    {
-      "id": "4905481",
-      "time": "2026-05-29 02:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：最新一輪融資預計將用於擴充算力，以滿足市場對Claude日益增長的需求。"
-    },
-    {
-      "id": "4905480",
-      "time": "2026-05-29 02:27:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：最新一輪融資預計將推進安全與可解釋性領域的研究。"
-    },
-    {
-      "id": "4905479",
-      "time": "2026-05-29 02:27:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅出席“全球治理之友小組”會議】中共中央政治局委員、外交部長王毅28日在紐約聯合國總部出席“全球治理之友小組”會議。巴基斯坦、土庫曼、吉爾吉斯斯坦、古巴、辛巴威外長等60餘國代表出席。聯合國常務副秘書長阿明娜作通報。王毅在主旨發言中表示，習近平主席去年9月鄭重提出全球治理倡議，強調主權平等、國際法治、多邊主義、以人為本、行動導向五大核心理念。倡議已得到近160個國家和國際組織支援響應。“全球治理之友小組”在紐約、日內瓦、維也納三地相繼成立，成員數量達到60餘國。（新華社）"
-    },
-    {
-      "id": "mkt:019e6fd7-a29c-7eef-a301-d9c15d33f4f5",
-      "time": "2026-05-29 02:27:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "MSFT.O",
-        "GOOGL.O"
-      ],
-      "text": "【CBOE To Start Extended Hours For Select Single-Stock Options】The SEC approved CBOE’s plan to begin extended trading hours for select single-stock options on July 13, 2026. The initial rollout will cover roughly 20 highly liquid names, including all seven largest US tech stocks. CBOE also plans to launch 23x5 US stock trading on its EDGX exchange in December to broaden round‑the‑clock access. Eligibility for extended-hours options requires at least 150,000 contracts open interest, market cap above $50 bln and average daily share volume exceeding 10 mln."
-    },
-    {
-      "id": "em:jjsj_rbsj:202605293753180381",
-      "time": "2026-05-29 02:27:30",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "亞馬遜計劃將其旗艦AI服務上線SpaceX的Grok模型。"
-    },
-    {
-      "id": "4905478",
-      "time": "2026-05-29 02:27:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我今天沒見到特朗普。"
-    },
-    {
-      "id": "4905477",
-      "time": "2026-05-29 02:27:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：與所有人工智慧實驗室的合作都非常順利。"
-    },
-    {
-      "id": "4905476",
-      "time": "2026-05-29 02:26:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒否認美伊諒解備忘錄達成】據伊朗塔斯尼姆通訊社當地時間5月28日晚援引談判團隊知情人士訊息報道，伊朗與美國之間潛在的諒解備忘錄文字內容“尚未最終敲定”，也“未得到確認”。西方訊息源所謂“美伊諒解備忘錄已最終達成”的報道並不屬實。（CCTV國際時訊）"
-    },
-    {
-      "id": "4905475",
-      "time": "2026-05-29 02:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：沒有濃縮鈾（條款），就不可能達成伊朗核協議。"
-    },
-    {
-      "id": "mkt:019e6fd5-d6fe-7eef-a301-d71d0cdb8216",
-      "time": "2026-05-29 02:25:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) plans to offer SpaceX's Grok model on its flagship AI service."
-    },
-    {
-      "id": "4905474",
-      "time": "2026-05-29 02:25:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：沒有暢通的海峽，就不可能達成伊朗協議。"
-    },
-    {
-      "id": "4905473",
-      "time": "2026-05-29 02:25:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普政府做到了往屆各屆政府都未能實現的事。我們已促使伊朗就其核計劃展開談判，且伊朗或承諾不再發展核計劃。這在以往從未有過。"
-    },
-    {
-      "id": "te:markets:554595",
-      "time": "2026-05-29 02:25:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wool Rises by 2.87% — Top commodity gainers are Wool (2.87%), Coffee (1.50%) and Canola (1.34%). Biggest losers are Oat (-2.05%) and Cocoa (-1.67%)."
-    },
-    {
-      "id": "4905472",
-      "time": "2026-05-29 02:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特談伊朗問題：特朗普為協議劃定三項條件。"
-    },
-    {
-      "id": "4905471",
-      "time": "2026-05-29 02:24:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：不會對穆斯林朝聖者的航空旅行實施制裁。"
-    },
-    {
-      "id": "4905470",
-      "time": "2026-05-29 02:23:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特： 不會因宗教因素限制人員流動。"
-    },
-    {
-      "id": "4905469",
-      "time": "2026-05-29 02:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國將重回通脹下降時代。"
-    },
-    {
-      "id": "4905468",
-      "time": "2026-05-29 02:23:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們會渡過這段充滿挑戰的時期。"
-    },
-    {
-      "id": "mkt:019e6fd3-ad7f-7eef-a301-ca11e99be1e5",
-      "time": "2026-05-29 02:23:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BESSENT said he expects Fed Chair WARSH to take appropriate steps to balance inf and growth."
-    },
-    {
-      "id": "mkt:019e6fd3-8ede-7eef-a301-c7185d2f0993",
-      "time": "2026-05-29 02:23:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said on reports of a deal that the team has been in repeated contact, and that President Trump has made clear he has several red lines and will not accept a bad deal."
-    },
-    {
-      "id": "4905467",
-      "time": "2026-05-29 02:23:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：今日與新任美聯儲主席共進早餐。"
-    },
-    {
-      "id": "4905466",
-      "time": "2026-05-29 02:22:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：沃什上任，美聯儲迎來全新局面。"
-    },
-    {
-      "id": "mkt:019e6fd2-a303-7eef-a301-bde42800d95f",
-      "time": "2026-05-29 02:22:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TASNIM NEWS says reports from Western sources that an MoU between Iran and the US has been reached are inaccurate. Iran has not informed the Pakistani mediator that the text is final and will notify the Pakistani mediator and the public once it is finalized."
-    },
-    {
-      "id": "4905465",
-      "time": "2026-05-29 02:22:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "西南航空股價在執行長於投資者大會發表講話期間交投震盪，最新股價下跌約1.4%，報每股43.08美元。"
-    },
-    {
-      "id": "4905464",
-      "time": "2026-05-29 02:21:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：伊朗尚未告知巴基斯坦調停人協議文字已定稿，一旦文字完成定稿，伊朗將向巴基斯坦調停人和公眾公佈此事。"
-    },
-    {
-      "id": "mkt:019e6fd1-8ed4-7eef-a301-b0afab71f5c1",
-      "time": "2026-05-29 02:21:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said nearly 2,000 vessels are waiting to depart the Gulf and that supply on the other end of the oil market will be very ample."
-    },
-    {
-      "id": "4905463",
-      "time": "2026-05-29 02:20:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：西方訊息來源稱伊朗與美國已敲定諒解備忘錄的報道不實。"
-    },
-    {
-      "id": "te:markets:554594",
-      "time": "2026-05-29 02:20:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 2.22% — Top commodity gainers are Silver (2.22%), Copper (1.39%) and Gold (1.20%). Biggest loser is Lithium Carbonate (-0.85%)."
-    },
-    {
-      "id": "4905462",
-      "time": "2026-05-29 02:20:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：不會有央行數字貨幣。"
-    },
-    {
-      "id": "4905461",
-      "time": "2026-05-29 02:19:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引訊息人士接近談判團隊的訊息：潛在諒解備忘錄文字尚未最終敲定，也未得到確認。"
-    },
-    {
-      "id": "4905460",
-      "time": "2026-05-29 02:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已告知阿曼，其擬對霍爾木茲海峽收取通行費的計劃絕無可能實施 。"
-    },
-    {
-      "id": "mkt:019e6fd0-3cfa-7eef-a301-a8ac3f542f03",
-      "time": "2026-05-29 02:19:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TASNIM NEWS, citing negotiation-team insiders, said the text of a potential memorandum of understanding has not been finalized or confirmed."
-    },
-    {
-      "id": "4905459",
-      "time": "2026-05-29 02:19:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic計劃幾周內廣泛釋出可與Mythos媲美的人工智慧模型】Anthropic PBC計劃在幾周內廣泛釋出新的人工智慧模型，網路安全能力可與Mythos相媲美。Anthropic此前曾表示，Mythos過於危險，不適合向公眾開放。該公司週四稱，在開發“更強安全防護措施”方面取得“快速進展”，因此得以向所有客戶釋出具備Mythos級別能力的AI模型。Anthropic同時還發布了一款更擅長執行程式設計任務的，名為Opus 4.8的新模型。Anthropic此前表示，Mythos能夠“在使用者指示下，識別並利用所有主要作業系統和主流網路瀏覽器中的漏洞”。今年4月，鑑於全球擔心Mythos可能對關鍵系統構成新威脅，Anthropic透過名為Project Glasswing的計劃，將Mythos的使用者範圍限制在少數大型科技公司和華爾街企業。Anthropic週五表示，計劃與美國及其盟友政府合作，將Project Glasswing擴充套件至更多合作伙伴。公司還表示，打算更廣泛地開放類似Mythos的模型，但未透露具體時間表。"
-    },
-    {
-      "id": "mkt:019e6fcf-ab8f-7eef-a301-a2b2f02747df",
-      "time": "2026-05-29 02:19:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he spoke with Oman's ambassador Thursday morning; the ambassador assured there are no plans to levy transit fees on the strait."
-    },
-    {
-      "id": "4905458",
-      "time": "2026-05-29 02:18:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將優步科技的評級上調至“BBB+”，展望為正面。"
-    },
-    {
-      "id": "mkt:019e6fcf-5a23-7eef-a301-9aa472338e47",
-      "time": "2026-05-29 02:18:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBOE Global Markets plans to launch 23X5 U.S. equity trading on its CBOE EDGX exchange in December; about 20 stocks are expected to be available at launch, including the seven largest U.S. stocks."
-    },
-    {
-      "id": "4905457",
-      "time": "2026-05-29 02:18:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：在海峽開放之前，與伊朗的談判不會有任何進展。"
-    },
-    {
-      "id": "4905456",
-      "time": "2026-05-29 02:18:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談及伊朗制裁：不會提前披露協議內容。"
-    },
-    {
-      "id": "4905455",
-      "time": "2026-05-29 02:17:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：阿曼大使已保證，目前沒有對霍爾木茲海峽徵收通行費的計劃。"
     }
   ]
 }
