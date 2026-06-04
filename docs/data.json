@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-04 21:04:58",
+  "updated": "2026-06-04 21:09:02",
   "count": 19049,
   "items": [
+    {
+      "id": "4917598",
+      "time": "2026-06-04 21:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，哈尼塔北部地區已響起針對敵方軍機入侵的空襲警報。"
+    },
+    {
+      "id": "4917597",
+      "time": "2026-06-04 21:07:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Rocket Lab盤前股價上漲2%，此前該公司宣佈延長了其與美國國家地理空間情報局（NGA）的海事合同。"
+    },
+    {
+      "id": "mkt:019e92be-637c-7eec-b8aa-514e4f758f53",
+      "time": "2026-06-04 21:06:51",
+      "tags": [
+        "MKT News",
+        "LHA.DE",
+        "Impact bearish"
+      ],
+      "text": "Lufthansa said multiple employees were injured in a Boeing 787 landing-gear incident on a Frankfurt ramp and are receiving medical treatment."
+    },
+    {
+      "id": "4917596",
+      "time": "2026-06-04 21:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌宣佈在德克薩斯州格雷和羅伯茨縣新建一座資料中心並進行能源投資。"
+    },
+    {
+      "id": "mkt:019e92bd-e6fa-7eec-b8aa-4a4b7d5f0638",
+      "time": "2026-06-04 21:06:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) said it will build new data centers in Gray County and Roberts County, Texas, and will invest in energy projects."
+    },
+    {
+      "id": "4917595",
+      "time": "2026-06-04 21:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空：法蘭克福停機坪波音787起落架事故致多名員工受傷，目前正在接受治療。"
+    },
+    {
+      "id": "te:economy:556535",
+      "time": "2026-06-04 21:05:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Down as Oil Prices Fall — The yield on the US 10-year Treasury note fell about 4bps to 4.46% on Thursday, nearly reversing the 6bps increase recorded in the previous session. Treasury prices benefited from a decline in oil prices as hopes grew that a ceasefire agreement between Israel and Lebanon could pave the way for a broader deal with Iran. Despite the improvement in sentiment, uncertainty remains elevated and the situation continues to be highly fragile, with oil prices still well above pre-conflict levels. Investors also continue to price in the possibility of a Federal Reserve rate hike before year-end, potentially as early as October, as higher energy prices add to inflationary pressures. Meanwhile, recent labor market data have pointed to a resilient US economy, with employment conditions strengthening over the past two months. Friday's jobs report is expected to provide further insight into the underlying strength of the labor market and its implications for monetary policy."
+    },
+    {
+      "id": "4917594",
+      "time": "2026-06-04 21:04:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中歐（保亭）綠色數字創新合作區建設有序推進】中歐（保亭）綠色數字創新合作區，是海南建設國家生態文明試驗區的標誌性工程。合作區將建設寧遠起步區、加茂醫療健康產業園等重點片區，構建綠色低碳產業發展體系，發展綠色數字經濟，推動保亭經濟實現高質量發展。目前，寧遠起步區主路專案正在進行管廊結構、路基回填等施工；加茂醫療健康產業園專案正在進行主體結構、牆體砌築、室內裝修等施工。合作區各項建設有序推進。（新華社）"
+    },
     {
       "id": "4917593",
       "time": "2026-06-04 21:04:01",
@@ -175602,84 +175682,6 @@
         "國際"
       ],
       "text": "德國財政部長表示：歐洲必須致力於提升自身獨立性，且這項工作的推進速度必須快於目前。"
-    },
-    {
-      "id": "4904954",
-      "time": "2026-05-28 21:08:28",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”Nick Timiraos：4月份住房相關價格依然偏強，上漲0.53%】“美聯儲傳聲筒”Nick Timiraos：4月份住房相關價格依然偏強，上漲0.53%，推動同比漲幅從3月的3.0%升至3.2%。該指標在2025年4月曾為4.2%。"
-    },
-    {
-      "id": "te:economy:554510",
-      "time": "2026-05-28 21:08:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "10-Year Treasury Yield Hovers at 4.5% — The yield on the US 10-year Treasury note traded below 4.5% on Thursday, retreating from session highs of 4.53%, as investors continued to assess the evolving situation in the Middle East and conflicting signals surrounding a potential agreement between the US and Iran that could end the war and reopen the Strait of Hormuz. Meanwhile, both headline and core PCE inflation readings came in below expectations at 0.4% and 0.2% mom, respectively, although annual rates remained well above the Fed’s target, at 3.8% and 3.3%. Personal spending rose as expected in April, while Q1 GDP growth was revised lower. On the monetary policy front, Fed Vice Chair Jefferson warned that inflation risks remain tilted to the upside, while Minneapolis Fed President Kashkari said consumer prices are still “much too high”. Traders worry that higher energy prices stemming from the closure of the Strait of Hormuz could keep inflation elevated and force the Fed to maintain higher interest rates for longer."
-    },
-    {
-      "id": "4904953",
-      "time": "2026-05-28 21:08:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【總統選舉在即 哥倫比亞部署軍隊平息武裝衝突】哥倫比亞即將於本月31日舉行總統選舉，該國東南部農村地區日前卻再起武裝衝突。哥倫比亞軍方27日向當地部署軍隊，以平息衝突。哥倫比亞國防部長佩德羅·桑切斯27日在社交媒體上說，圍繞對販毒、勒索和其他非法生意的爭奪，從原反政府武裝“哥倫比亞革命武裝力量”（“哥武”）分裂出來的兩個非法武裝組織近日在瓜維亞雷省發生激烈衝突，造成多人死亡。軍隊已趕往現場控制局勢，並核實傷亡人數。（新華社）"
-    },
-    {
-      "id": "4904952",
-      "time": "2026-05-28 21:08:05",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：市場對美伊衝突日益表現出疲態】紐約梅隆的Bob Savage在一份報告中表示，市場正日益表現出疲態。這位市場宏觀策略主管表示，美伊軍事衝突再度升級、債券收益率上升以及偏緊縮的央行政策指引正對股市和固定收益資產構成壓力，同時投資者正在重新評估全球風險資產反彈的永續性。“各國央行日益關注由能源衝擊和更強勁增長驅動的通脹持續性，這強化了全球利率將在更長時間內維持高位的預期。“他表示，美伊再度發生襲擊事件推高了油價、美元和美國國債收益率，同時對霍爾木茲海峽供應受擾和戰略儲備下降的擔憂使能源市場保持波動。"
-    },
-    {
-      "id": "te:markets:554509",
-      "time": "2026-05-28 21:07:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Climbs on Renewed US-Iran Tensions — Brent crude oil futures rose toward $96 per barrel on Thursday after renewed attacks in the Persian Gulf increased concerns over energy supplies, while traders continued to watch for signs of progress in US-Iran peace talks that could reopen the Strait of Hormuz. The US said it destroyed several attack drones near the strait, while Kuwait reported intercepting a missile fired toward the country. Iran’s Revolutionary Guard said several ships attempted unauthorized entry into the Persian Gulf, with some forced to turn back, warning it would respond strongly to any disruption in Hormuz. Despite the rebound, oil prices remain sharply lower for the week and month as markets still expect a potential deal between Washington and Tehran. Negotiations remain difficult, with disagreements over Iran’s nuclear program and control of Hormuz. Meanwhile, US crude inventories fell by 2.8 million barrels last week according to the API."
-    },
-    {
-      "id": "4904951",
-      "time": "2026-05-28 21:06:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic在義大利米蘭開設辦公室。"
-    },
-    {
-      "id": "te:markets:554508",
-      "time": "2026-05-28 21:06:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Climbs on Renewed US-Iran Tensions — WTI crude oil futures rose 2% to $90.5 per barrel on Thursday after renewed attacks in the Persian Gulf increased concerns over energy supplies, while traders continued to watch for signs of progress in US Iran peace talks that could reopen the Strait of Hormuz. The US said it destroyed several attack drones near the strait, while Kuwait reported intercepting a missile fired toward the country. Iran’s Revolutionary Guard said several ships attempted unauthorized entry into the Persian Gulf, with some forced to turn back, warning it would respond strongly to any disruption in Hormuz. Despite the rebound, oil prices remain sharply lower for the week and month as markets still expect a potential deal between Washington and Tehran. Negotiations remain difficult, with disagreements over Iran’s nuclear program and control of Hormuz. Meanwhile, US crude inventories fell by 2.8 million barrels last week according to the API."
-    },
-    {
-      "id": "4904950",
-      "time": "2026-05-28 21:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非將基準利率上調25個基點至7%；預計為7.00%。"
     }
   ]
 }
