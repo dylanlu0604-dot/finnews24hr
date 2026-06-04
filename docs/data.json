@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-05 03:21:39",
-  "count": 18969,
+  "updated": "2026-06-05 03:25:31",
+  "count": 18970,
   "items": [
+    {
+      "id": "mkt:019e9418-43a0-755d-92d5-368ca6b1a2cf",
+      "time": "2026-06-05 03:24:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump issued a statement on coal."
+    },
+    {
+      "id": "4918085",
+      "time": "2026-06-05 03:24:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：LS 電力正洽談以超 40 億歐元收購法國電力集團美國可再生能源子業務。"
+    },
+    {
+      "id": "mkt:019e9416-ecb7-755d-92d5-2fca637135e0",
+      "time": "2026-06-05 03:23:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's foreign minister met with Algeria's energy minister to discuss strengthening cooperation in oil, gas and energy, including advancing joint projects and upgrading energy infrastructure."
+    },
     {
       "id": "te:economy:556583",
       "time": "2026-06-05 03:21:04",
@@ -174789,27 +174816,6 @@
         "國際"
       ],
       "text": "美聯儲巴爾金：人工智慧領域投資正對中性利率形成壓力。"
-    },
-    {
-      "id": "mkt:019e700c-7662-7eef-a302-8a0787b6f125",
-      "time": "2026-05-29 03:25:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "SHOIGU told Russian media on the 28th that Russian armed forces' strike operations targeting Kyiv may be launched at any time."
-    },
-    {
-      "id": "4905526",
-      "time": "2026-05-29 03:24:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：部分人工智慧相關領域顯現通脹壓力。"
     }
   ]
 }
