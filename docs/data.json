@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-05 01:50:22",
-  "count": 18940,
+  "updated": "2026-06-05 01:54:03",
+  "count": 18944,
   "items": [
+    {
+      "id": "4917986",
+      "time": "2026-06-05 01:53:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯出售其持有的巴什石油部分股份。"
+    },
+    {
+      "id": "mkt:019e93c3-ccc0-7009-b43c-c2975da4fc78",
+      "time": "2026-06-05 01:52:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Putin: control of Donbas not inconsistent with peace deal; says Russia controls Luhansk, 85% of Donetsk, 80% of Zaporizhzhia】In St. Petersburg on the 4th, Putin told heads of major global news agencies that controlling the Donbas and reaching a peace agreement with Ukraine are not mutually exclusive. He said Russia controls all of Luhansk, 85% of Donetsk and 80% of Zaporizhzhia."
+    },
+    {
+      "id": "4917985",
+      "time": "2026-06-05 01:51:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【普京：控制頓巴斯和與烏方達成和平協議不矛盾】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，控制頓巴斯地區和與烏克蘭達成和平協議並不矛盾。頓巴斯地區主要包括盧甘斯克和頓涅茨克兩地。普京表示，俄羅斯已經控制整個盧甘斯克地區、頓涅茨克地區85%的區域和扎波羅熱地區80%的區域。（新華社）"
+    },
+    {
+      "id": "mkt:1e111041-2ed1-42c4-9108-55f0ad1f5bef",
+      "time": "2026-06-05 01:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the EU can play a constructive role in pushing Ukraine to make concessions."
+    },
+    {
+      "id": "mkt:019e93c1-b71d-799e-8472-35fd7d2c0f0d",
+      "time": "2026-06-05 01:49:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Putin said Russia opposes the EU becoming a military bloc and described the prospect as worrisome."
+    },
+    {
+      "id": "4917984",
+      "time": "2026-06-05 01:49:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 俄羅斯反對歐盟發展成為軍事集團，這一趨勢令人擔憂。"
+    },
     {
       "id": "4917983",
       "time": "2026-06-05 01:49:16",
@@ -174526,23 +174586,6 @@
         "Importance 0"
       ],
       "text": "Canola Hits 4-week High — Canola increased to 768.00 CAD/T, the highest since April 2026. Over the past 4 weeks, Canola gained 0.43%, and in the last 12 months, it increased 6.44%."
-    },
-    {
-      "id": "4905424",
-      "time": "2026-05-29 01:53:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：Claude Opus 4.8 模型現已登陸亞馬遜雲科技。"
-    },
-    {
-      "id": "4905423",
-      "time": "2026-05-29 01:51:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空執行長表示：公司隨著時間推移，很可能會逐步拓展長途國際航線業務。"
     }
   ]
 }
