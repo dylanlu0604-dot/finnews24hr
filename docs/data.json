@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-04 14:41:22",
-  "count": 19046,
+  "updated": "2026-06-04 14:45:26",
+  "count": 19042,
   "items": [
+    {
+      "id": "mkt:019e9160-85a4-7113-83c8-95fd51cfcdb7",
+      "time": "2026-06-04 14:44:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foxconn said it will explore cooperation with SK Group on AI servers, data centers and energy solutions."
+    },
+    {
+      "id": "mkt:019e9160-784b-7113-83c8-8d479022640f",
+      "time": "2026-06-04 14:44:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Swiss May CPI unexpectedly soft; franc strength offsets energy-price impact】Swiss May consumer prices rose 0.6% YoY, unchanged from April and below economists' expectations, the Swiss Federal Statistical Office said. The print, the last inflation release before the Swiss National Bank's June 18 policy decision, keeps inflation well within the SNB's 0–2% target range. Data indicate a stronger franc appears to be offsetting higher energy costs. Economists currently expect no rate moves before 2028. Swiss National Bank chairman Martin, unlike euro-area peers preparing to raise rates, reiterated on Wednesday that energy-driven consumer price increases are likely temporary."
+    },
+    {
+      "id": "mkt:019e9160-5f94-7113-83c8-805cfc9dc2a2",
+      "time": "2026-06-04 14:44:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "SK Group said its chairman met with TSMC (TSM.N) CEO on Wednesday to discuss strengthening cooperation on high-bandwidth memory (HBM) development and next‑generation advanced packaging."
+    },
+    {
+      "id": "mkt:019e915f-222f-7113-83c8-7ece5231ae2c",
+      "time": "2026-06-04 14:43:11",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Hon Hai Precision Industry (Foxconn) said its chairman met SK Group's chairman and the two firms will deepen cooperation on AI infrastructure."
+    },
+    {
+      "id": "4916719",
+      "time": "2026-06-04 14:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滄州明珠等成立新材料公司】企查查APP顯示，近日，廣州明珠新材料有限公司成立，註冊資本12億元，經營範圍包含：新材料技術研發；塑膠製品銷售；塑膠製品製造；貨物進出口。企查查股權穿透顯示，該公司由滄州明珠等共同持股。"
+    },
+    {
+      "id": "te:markets:556387",
+      "time": "2026-06-04 14:42:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Pulls Back from Record Peak, Ends 1.7% Lower — The TAIEX, Taiwan’s benchmark stock index, dropped 782 points, or 1.7%, to close at 45,677 on Thursday, snapping a four-session winning streak, as traders took profits after the index hit a record high in the previous session. The broader index pulled back from the record peak of 46,459 reached a day earlier, after closing above the 46,000 level for the first time as optimism over AI investment continued to lift sentiment. The index tracked a fall on Wall Street overnight amid renewed escalation of the Middle East conflict. The index was mainly weighed down by electronic technology and producer manufacturing stocks. Electronic technology stocks shed 2.2%, with TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, falling 2.5% after gaining 1.7% on Wednesday. Other decliners included Delta Electronics (-1.2%), Hon Hai Precision (-5.2%), ASE Technology (-4.1%), and United Microelectronics (-4.2%)."
+    },
+    {
+      "id": "4916718",
+      "time": "2026-06-04 14:42:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳大學積體電路學院揭牌成立】深圳大學積體電路學院正式揭牌成立。本次揭牌是深大對接國家晶片產業戰略、服務粵港澳大灣區產業升級、最佳化“光電算一體化”學科佈局的重要戰略舉措。"
+    },
+    {
+      "id": "mkt:019e915d-9589-7cc0-ba27-db6e29cf9892",
+      "time": "2026-06-04 14:41:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "IM Motors said LS8 deliveries topped 6,000 units within six weeks of the start of deliveries."
+    },
     {
       "id": "te:economy:556386",
       "time": "2026-06-04 14:40:17",
@@ -175444,116 +175520,6 @@
         "Impact bearish"
       ],
       "text": "France April PPI MoM -2.1%; prior reading revised from 2.00% to 1.9%."
-    },
-    {
-      "id": "mkt:019e6d54-91ea-722b-8acb-7391c2210259",
-      "time": "2026-05-28 14:45:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France April PPI YoY 2.1%; prior figure revised from 0.20% to 0.0%."
-    },
-    {
-      "id": "4904060",
-      "time": "2026-05-28 14:45:14",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國4月PPI月率 -2.1%，前值由2.00%修正為1.9%。\n法國4月PPI年率 2.1%，前值由0.20%修正為0%。"
-    },
-    {
-      "id": "mkt:019e6d54-4aff-722b-8acb-6c8e4b30953c",
-      "time": "2026-05-28 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | PPI (YoY) (Apr) | actual 2.1% | previous 0.20%"
-    },
-    {
-      "id": "mkt:019e6d54-4afd-722b-8acb-66b0a9501db9",
-      "time": "2026-05-28 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | PPI (MoM) (Apr) | actual -2.1% | previous 2.00%"
-    },
-    {
-      "id": "mkt:019e6d53-b150-722b-8acb-58f5092fdbad",
-      "time": "2026-05-28 14:44:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Fourth Shenzhen–Hong Kong Financial Cooperation BOARD Convenes in Shenzhen】According to the Shenzhen Local Financial Regulatory Bureau, on May 27 Vice Mayor Luo Huanghao of the Shenzhen municipal government and Xu Zhengyu, director of the Hong Kong SAR Government Financial Services and the Treasury Bureau, jointly presided over the fourth meeting of the Shenzhen–Hong Kong Financial Cooperation BOARD in Shenzhen. The BOARD reviewed the latest developments in financial-market growth and cooperation measures across Shenzhen and Hong Kong, and discussed proposals to further strengthen financial linkages between the two jurisdictions."
-    },
-    {
-      "id": "4904059",
-      "time": "2026-05-28 14:43:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創A股成交額達300億元】5月28日下午，中際旭創A股成交額達300億元，現漲7.44%。"
-    },
-    {
-      "id": "4904058",
-      "time": "2026-05-28 14:43:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深港金融合作委員會第四次會議成功召開】據深圳市地方金融管理局訊息，5月27日，深圳市人民政府副市長羅晃浩和香港特別行政區政府財經事務及庫務局局長許正宇在深圳共同主持召開深港金融合作委員會第四次會議。委員會討論了深港兩地金融市場發展和金融合作措施的最新情況，並探討進一步加強兩地金融聯動的建議。"
-    },
-    {
-      "id": "4904057",
-      "time": "2026-05-28 14:43:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外媒：挪威王后因心臟問題入院治療】據挪威廣播公司援引挪威王室一份宣告報道，挪威王后索尼婭當地時間27日因心臟問題入院治療，被診斷患有心房顫動和心力衰竭。報道稱，該宣告表示，索尼婭將在醫院留院數日，接受檢查和觀察。（環球網）"
-    },
-    {
-      "id": "4904056",
-      "time": "2026-05-28 14:43:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲六國聯合發聲 反對歐盟碳排放標準】總檯記者獲悉，當地時間5月28日，保加利亞、捷克、希臘、波蘭、羅馬尼亞和斯洛伐克六國聯合發出警告，稱歐盟委員會計劃大幅削減免費二氧化碳排放配額，這可能導致水泥廠、鋼鐵廠和化工廠破產。其設定的排放限制，在技術上根本無法實現。這些國家警告稱，如果歐盟碳排放交易體系的相關機制不能立即變得更加現實，歐洲將面臨深度“去工業化”以及戰略自主能力喪失的風險。（央視新聞）"
-    },
-    {
-      "id": "4904055",
-      "time": "2026-05-28 14:42:28",
-      "tags": [
-        "觀點",
-        "A股"
-      ],
-      "text": "【長江證券劉元瑞：資本市場需“循光見遠” 長期主義是穿越週期的答案】5月28日，長江證券2026年中期策略會在武漢光谷舉行。長江證券黨委副書記、總裁劉元瑞在開幕致辭中表示，當前A股市場，以光通訊、半導體為代表的科技板塊交投活躍、產業鏈覆蓋廣泛、持續時間少見。但面對高景氣板塊估值不再便宜、低估值板塊景氣尚未驗證的局面，投資者更需“循光見遠”。“‘循光見遠’循的不是今天已經耀眼的光，而是那道在黑暗中就已被認定的方向之光。”劉元瑞指出，武漢光谷用五十年從一根光纖發展為萬億級產業，華為用十餘年在技術封鎖中實現晶片突破，其共同邏輯在於長期深耕。他呼籲投資者回歸價值本源：“那些最終穿越週期的回報，從來不來自追漲殺跌，而來自在別人還沒看見時就已經認定了方向，然後耐心等待。”"
-    },
-    {
-      "id": "4904054",
-      "time": "2026-05-28 14:41:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國海證券：維持恆瑞醫藥“買入”評級，創新&國際化雙輪驅動新成長】國海證券研報指出，恆瑞醫藥創新藥平臺兌現期，創新&國際化雙輪驅動新成長。瑞維魯胺挑戰標準療法恩扎盧胺，有望拓展適應症+提高指南推薦等級。Nectin-4ADC在研產品進度領先，公司預計SHR-A2102將於2028年上市。PSMA核藥HRS-4357的3期臨床進行中。ARPROTAC破解PC耐藥，產品已經進入1/2期臨床；HER3ADCSHR-A2009在肺癌一線可聯用EGFR-TKI提高獲益、二線可克服EGFR-TKI耐藥。瑞康曲妥珠單抗的二線肺癌註冊臨床資料與德曲妥珠單抗對比更優。C-MetADCSHR-1826為肺癌精準治療提供新的治療選擇。腫瘤支援賽道，TPO-RA海曲泊帕國內拓展CTIT適應症，海外3期臨床進行中。長效G-CSF製劑硫培非格司亭相對短效製劑優效，看好預防性用藥市場。磷羅拉匹坦帕洛諾司瓊長效止吐藥擁有超長半衰期，給藥依從性高。隨著公司創新藥商業化的推進和對外許可的收入提高，公司營業收入、歸母淨利潤有望快速增長，維持公司“買入”評級。"
-    },
-    {
-      "id": "4904053",
-      "time": "2026-05-28 14:41:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里Qoder推出Cloud Agents，Agent上線僅需1天】阿里Qoder上線全託管AI Agent執行平臺Cloud Agents，可提供Agent底座、模型服務及執行環境等全棧Agent能力，企業可透過API的方式直接呼叫，Agent上線時間從1個月縮短至1天。"
     }
   ]
 }
