@@ -1,7 +1,144 @@
 {
-  "updated": "2026-06-05 01:42:23",
-  "count": 18919,
+  "updated": "2026-06-05 01:46:15",
+  "count": 18931,
   "items": [
+    {
+      "id": "mkt:019e93bd-a925-7114-9155-6edf81f3bccd",
+      "time": "2026-06-05 01:45:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says the EU cannot act as a mediator in Ukraine negotiations because mediation requires neutrality."
+    },
+    {
+      "id": "mkt:019e93bd-54c4-7114-9155-66c45f7bd0b9",
+      "time": "2026-06-05 01:45:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Putin says Russia willing to hold talks with Ukraine at US base in Anchorage】On the 4th, Putin said Russia is fully prepared to hold peace talks with Ukraine at the US military base in Anchorage, Alaska. He said Russia is prepared to accept the compromise reached by Russian and US leaders at their Anchorage meeting last August, but Kyiv must agree; if Kyiv accepts the Anchorage compromise, the Russia-Ukraine conflict would end quickly."
+    },
+    {
+      "id": "4917974",
+      "time": "2026-06-05 01:44:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：2%的通脹目標易於傳達，美聯儲不應模糊這一核心表述。"
+    },
+    {
+      "id": "mkt:019e93bc-9872-7114-9155-5ed979eb5d82",
+      "time": "2026-06-05 01:44:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Schmid: The crux is whether the Fed needs to raise rates to 'suppress inf' and meet its inf target."
+    },
+    {
+      "id": "mkt:019e93bc-3acd-799e-8472-0efba2b9b194",
+      "time": "2026-06-05 01:44:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "On the 4th, Putin told heads of major international news agencies at the 29th St. Petersburg International Economic Forum that China is developing strongly and is playing an increasingly important role in the global economy, world politics and international affairs."
+    },
+    {
+      "id": "4917973",
+      "time": "2026-06-05 01:44:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【普京：俄方願在美國安克雷奇與烏方談判】俄羅斯總統普京4日說，俄方完全準備好並願意在美國阿拉斯加州安克雷奇市的美軍基地與烏克蘭進行和平談判。 普京表示，俄方準備接受俄美領導人去年8月在安克雷奇會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。(新華社)"
+    },
+    {
+      "id": "4917972",
+      "time": "2026-06-05 01:43:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙烏地阿拉伯計劃到2040年將磷肥產量提高兩倍】沙烏地阿拉伯計劃到2040年將該國的磷肥產量提高至目前的三倍。此前爆發的伊朗戰爭以及霍爾木茲海峽的實際關閉，引發了外界對未來供應安全性的擔憂。沙烏地阿拉伯國家工業發展中心（NIDC）執行長Saleh Al-Solami在俄羅斯舉行的聖彼得堡國際經濟論壇上表示，該國的目標是到2040年生產1800萬噸磷質作物營養素（磷肥），而目前這一數字僅為600萬噸。"
+    },
+    {
+      "id": "4917971",
+      "time": "2026-06-05 01:43:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國官方：藍源公司火箭爆炸事故後仍可參與太空發射專案競標。"
+    },
+    {
+      "id": "mkt:019e93bb-16a2-799e-8472-050343247c16",
+      "time": "2026-06-05 01:42:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Schmid: the key question is whether the Fed should continue to be patient on interest rates."
+    },
+    {
+      "id": "mkt:019e93bb-0c10-7114-9155-57292e5e5755",
+      "time": "2026-06-05 01:42:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin says strong personal ties between leaders underpin expansion of Russia‑China relations】On the 4th, meeting with heads of major global news agencies at the 29th St. Petersburg International Economic Forum, Putin said the good personal relationship between Russia's and China's heads of state provides a solid foundation for opening new prospects in bilateral ties."
+    },
+    {
+      "id": "4917970",
+      "time": "2026-06-05 01:42:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，中國發展強勁，在全球經濟、世界政治及國際事務中扮演著日益重要的角色。（新華社）"
+    },
+    {
+      "id": "4917969",
+      "time": "2026-06-05 01:42:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：問題在於美聯儲是否需要加息以“給當前局勢降溫”，並實現通脹目標。"
+    },
+    {
+      "id": "4917968",
+      "time": "2026-06-05 01:41:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：目前的核心問題是美聯儲是否應在利率問題上繼續保持耐心。"
+    },
     {
       "id": "4917967",
       "time": "2026-06-05 01:41:22",
@@ -10,6 +147,35 @@
         "國際"
       ],
       "text": "當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄中兩國元首的良好關係是推動俄中關係不斷開闢新前景的堅實基礎。（新華社）"
+    },
+    {
+      "id": "mkt:019e93b8-d54b-7114-9155-4c707de74c17",
+      "time": "2026-06-05 01:40:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Schmid said the biggest risk facing the economy currently is inflation."
+    },
+    {
+      "id": "mkt:019e93b8-d3b3-7114-9155-45e841137b9c",
+      "time": "2026-06-05 01:40:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Putin said Germany must decide whether to receive Russian gas via the Nord Stream pipeline; Russia is ready to resume supplies."
     },
     {
       "id": "4917966",
@@ -29,12 +195,30 @@
       "text": "美聯儲施密德：通脹是經濟面臨的最大風險。"
     },
     {
+      "id": "mkt:019e93b8-73f7-7114-9155-3961ec2b0f4d",
+      "time": "2026-06-05 01:39:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump accused Democrats of stealing votes in California and said he hopes Republicans are paying attention so they can ultimately pass the Protect American Voter Eligibility Act."
+    },
+    {
       "id": "4917964",
       "time": "2026-06-05 01:38:26",
       "tags": [
         "國際"
       ],
       "text": "俄羅斯總統普京：德國需就北溪管道的俄羅斯天然氣供應問題自行作出決定。我們已做好供應準備。"
+    },
+    {
+      "id": "mkt:019e93b6-e978-7114-9155-32bc84d55a2c",
+      "time": "2026-06-05 01:38:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fed official Schmid said most of the higher payments for energy are being recycled within the US economy; how long elevated oil prices persist is the key question and depends largely on political factors."
     },
     {
       "id": "mkt:019e93b5-7d00-7114-9155-294bbda933bd",
@@ -174279,55 +174463,6 @@
         "國際"
       ],
       "text": "【美墨啟動正式貿易談判，就汽車本土含量規則展開博弈】5月28日，美國和墨西哥的談判代表開始就修訂美國墨西哥加拿大貿易協議（USMCA）展開正式談判。華盛頓方面要求實施更嚴格的區域原產地規則，其中包括對在墨西哥組裝的轎車和卡車提出特定於美國的最低含量要求。兩名熟悉美國談判立場的知情人士透露，這一新標準已包含在修改USMCA的提案文字中。目前尚無法立即獲悉美國貿易代表辦公室（USTR）所要求的具體美國汽車含量百分比，但相比於現行 USMCA 為了獲得北美市場優惠准入而設定的含量要求，這一轉變意義重大。"
-    },
-    {
-      "id": "mkt:019e6fb1-7a2e-7eef-a301-5e7b56f88b65",
-      "time": "2026-05-29 01:46:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【EU Plans Chips Act Relaunch, Seeks €120 Billion By 2035 To Rebuild Semiconductor Industry】A draft shows the EU is relaunching the Chips Act to revive its struggling semiconductor sector, requiring about €120 billion (~$140 billion) in public-private investment by 2035. Chips Act 2.0 will emphasize demand-side measures to boost uptake of domestically produced chips after the 2023 law failed to expand EU market share. One major measure under consideration is a roughly €30 billion chip fab for AI semiconductors and advanced 3nm nodes, to be co-funded by the European Commission, member states and private firms. The Commission would also broker links between chipmakers and buyers in telecoms, defence and auto sectors so suppliers develop targeted technologies. The draft will be submitted to legislators next week and remains subject to change."
-    },
-    {
-      "id": "4905421",
-      "time": "2026-05-29 01:45:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會提起訴訟，阻止羅得島州對合約市場開展執法行動。"
-    },
-    {
-      "id": "4905420",
-      "time": "2026-05-29 01:44:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合太平洋鐵路公司：目前正與諾福克南方鐵路公司開展整合規劃，以便我們做好準備兌現交易收益；預計地面運輸委員會（STB）將於明年批准該合併交易。"
-    },
-    {
-      "id": "4905419",
-      "time": "2026-05-29 01:44:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國電力協會（EEI）行業組織表示，美國周度發電量同比上升5.2%。"
-    },
-    {
-      "id": "4905418",
-      "time": "2026-05-29 01:44:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "草案顯示，受伊朗局勢衝擊能源供應影響，歐盟擬要求各成員國，對違反甲烷排放法規的油氣企業暫緩處罰三年。 此舉源於美國政府及油氣行業組織的施壓，他們此前警告，該法規可能會影響歐洲的燃料供應保障能力。"
     }
   ]
 }
