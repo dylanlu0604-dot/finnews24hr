@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-05 06:08:23",
-  "count": 19034,
+  "updated": "2026-06-05 06:12:10",
+  "count": 19032,
   "items": [
+    {
+      "id": "4918206",
+      "time": "2026-06-05 06:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商密集釋出2026年度提質增效方案，錨定投行提質、控薪增效、分紅回饋三條主線】據統計，截至6月3日，已有16家上市券商披露2026年度“提質增效重回報”行動方案。從頭部券商到區域特色券商，各家方案在“建設一流投行”“壓實關鍵少數責任”“提升股東回報”三大方向上形成共識，且因資源稟賦差異走出了不同路徑。（上證報）"
+    },
     {
       "id": "mkt:019e94ab-5083-7cc8-bdee-f1222efabc61",
       "time": "2026-06-05 06:05:15",
@@ -175336,37 +175344,6 @@
         "其他"
       ],
       "text": "得州機動車管理局網站披露特斯拉自動駕駛計程車車隊具體規模： 特斯拉在得克薩斯州共有 42 輛車輛登記為自動駕駛計程車。Waymo 有 577 輛自動駕駛車輛在得克薩斯州完成登記，Avride 登記數量為 317 輛。"
-    },
-    {
-      "id": "mkt:019e70a4-a3fa-7eef-a304-1ccdf31aee0b",
-      "time": "2026-05-29 06:11:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran foreign ministry condemns US threats against Oman】Baghaei, Iran’s foreign ministry spokesman, sharply criticized recent US threats against Oman after US Treasury Secretary Bessent said Washington would \"actively\" impose sanctions if Oman assists Iran in establishing a toll system in the Strait of Hormuz. Bessent’s remarks have increased pressure from the Trump administration on the Gulf ally. Baghaei called the threats \"an attempt to extort an independent UN member state\" and \"further proof of the moral bankruptcy of the US governing and political system,\" described the sanction threats as \"illegal actions,\" and urged the international community to respond responsibly to prevent violations of international law becoming normalized."
-    },
-    {
-      "id": "mkt:019e70a3-376f-7eef-a304-150158c0d266",
-      "time": "2026-05-29 06:10:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Vance said the U.S. could still inflict a major setback on Tehran's nuclear program."
-    },
-    {
-      "id": "mkt:019e70a3-2359-7eef-a304-08197c4ab481",
-      "time": "2026-05-29 06:09:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CHINA FOREIGN MINISTER says Friends of Global Governance group coalesces five consensuses】CHINA FOREIGN MINISTER told the Friends of Global Governance meeting at UN headquarters in New York on the 28th that members have coalesced around five consensuses: advance democratization of international relations so all states, regardless of size or wealth, may choose systems and development paths and participate, decide and benefit equally in global governance; uphold the UN Charter and ensure equal, uniform application of international law and rules, opposing double standards and imposition; defend the UN’s central role by practising multilateralism, strengthening multilateral mechanisms and opposing unilateralism and power politics; reform and improve global governance to narrow the North‑South gap, share development gains and leave no country behind; and focus on practical problems, delivering concrete, visible outcomes to let global governance withstand scrutiny over time."
     }
   ]
 }
