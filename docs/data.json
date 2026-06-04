@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-05 04:52:27",
+  "updated": "2026-06-05 04:56:17",
   "count": 19043,
   "items": [
+    {
+      "id": "mkt:019e946a-1d7a-7cc8-bdee-99b193a15696",
+      "time": "2026-06-05 04:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's central bank market expectations survey projects GDP growth of 2.9% by end-2026, a 0.1 percentage-point upward revision from the prior forecast; inflation is projected at 30.5%."
+    },
+    {
+      "id": "4918175",
+      "time": "2026-06-05 04:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lululemon：進入二季度後，新品上市未能收穫預期的消費者反響。"
+    },
+    {
+      "id": "4918174",
+      "time": "2026-06-05 04:52:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行市場預期調查顯示，該國 2026 年全年通脹預期為 30.5%。"
+    },
     {
       "id": "mkt:019e9468-1897-7cc8-bdee-966bdbd1c463",
       "time": "2026-06-05 04:51:50",
@@ -175441,36 +175466,6 @@
         "國際"
       ],
       "text": "美國聯邦通訊委員會將美國廣播公司旗下電視臺牌照的到期日提前至 5 月 28 日。"
-    },
-    {
-      "id": "4905578",
-      "time": "2026-05-29 04:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊朗自南部地區向“特定目標”發射導彈】據伊朗媒體28日報道，伊朗武裝部隊當天晚間從該國南部地區向“特定目標”發射導彈，相關目標和行動細節目前尚未公佈。據報道，部分訊息源稱，波斯灣海域可能發生交火，但尚未得到正式確認。報道還稱，28日凌晨，在敵方襲擊阿巴斯港東部地區後，伊朗武裝部隊對發動襲擊的基地實施了打擊。（新華社）"
-    },
-    {
-      "id": "mkt:019e705d-2699-7eef-a303-a617b3e5bcac",
-      "time": "2026-05-29 04:53:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian state television, citing local officials, said a U.S. aircraft was destroyed near Bushehr, Iran; the report has not been confirmed by U.S. authorities."
-    },
-    {
-      "id": "4905577",
-      "time": "2026-05-29 04:53:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺援引當地官員訊息稱，一架美軍飛機在伊朗布什赫爾附近被擊落，美方暫未對此訊息予以證實。"
     }
   ]
 }
