@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-05 01:30:38",
-  "count": 18912,
+  "updated": "2026-06-05 01:34:24",
+  "count": 18922,
   "items": [
+    {
+      "id": "4917959",
+      "time": "2026-06-05 01:33:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：石油市場的核心問題在於高位價格將維持多久，而這本質上是一個政治抉擇。"
+    },
+    {
+      "id": "mkt:019e93b2-10bd-711f-ac53-cc2d9cfdf807",
+      "time": "2026-06-05 01:32:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "DALY: Productivity gains should reduce inf, but timing is critical."
+    },
+    {
+      "id": "4917958",
+      "time": "2026-06-05 01:32:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：民眾目前支付的更高能源價格，大部分都留存於美國經濟體系之內。"
+    },
+    {
+      "id": "mkt:019e93b1-dce2-711f-ac53-c57a04141d3c",
+      "time": "2026-06-05 01:32:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Schmid said data indicate the economy is running well."
+    },
+    {
+      "id": "mkt:019e93b1-9ffc-711f-ac53-bdb3d0bc739a",
+      "time": "2026-06-05 01:32:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Boston Fed: Iran war would lift inflation but have limited US labor-market impact】Boston Fed research, reported by Axios, finds an Iran-scale oil shock would materially boost inflation but have negligible effect on national employment. Researchers estimate a US–Iran conflict could lift oil prices about 33%—historically large but not unprecedented—and say the modern US economy is structurally better able to absorb that shock with far less employment damage than in the 1970s. They conclude that if energy supply disruptions pose limited employment risk, the Fed’s policy challenge shifts from managing stagflation to preventing renewed price pressures."
+    },
+    {
+      "id": "mkt:019e93b1-9ff5-711f-ac53-b2ef0755a5ba",
+      "time": "2026-06-05 01:32:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "DALY, when asked about the 5–10-year outlook, said artificial intelligence may lower inflation."
+    },
+    {
+      "id": "4917957",
+      "time": "2026-06-05 01:32:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：目前，人工智慧帶來通縮效應並非當務之急。"
+    },
+    {
+      "id": "4917956",
+      "time": "2026-06-05 01:31:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：貨幣政策決策著眼於未來12個月的經濟形勢。"
+    },
+    {
+      "id": "4917955",
+      "time": "2026-06-05 01:31:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：通脹水平依然過高，這場抗通脹鬥爭已經持續五年，美聯儲目前仍在摸索應對之道。"
+    },
+    {
+      "id": "4917954",
+      "time": "2026-06-05 01:31:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：生產率提升應為通縮創造條件；時機才是關鍵。"
+    },
+    {
+      "id": "4917953",
+      "time": "2026-06-05 01:31:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利在被問及對未來5到10年的展望時表示，人工智慧有可能拉低通脹。"
+    },
+    {
+      "id": "4917952",
+      "time": "2026-06-05 01:31:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：資料顯示美國經濟表現向好。"
+    },
     {
       "id": "mkt:019e93af-3d61-711f-ac53-ab682b5f3493",
       "time": "2026-06-05 01:29:54",
@@ -174210,22 +174341,6 @@
         "Importance 1"
       ],
       "text": "Danaher Stock Price Hits 4-week High — Danaher shares increased to 179.93 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 0.51%, and in the last 12 months, it decreased 5.64%."
-    },
-    {
-      "id": "4905403",
-      "time": "2026-05-29 01:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "薩克拉門託發起宣傳活動，爭取美國職業棒球大聯盟擴軍落戶。"
-    },
-    {
-      "id": "4905402",
-      "time": "2026-05-29 01:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，特朗普正面臨來自本黨成員及以色列總理本雅明・內塔尼亞胡的壓力，後者敦促其切勿簽署減輕對伊朗施壓的協議。 一位知情人士透露，特朗普正多方徵詢意見，確保協議 “足夠強硬”。他尤其強調，新協議必須優於其此前退出的 2015 年奧巴馬時期伊核協議，並能以此向外界宣傳。"
     }
   ]
 }
