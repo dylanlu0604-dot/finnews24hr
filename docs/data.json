@@ -1,7 +1,187 @@
 {
-  "updated": "2026-06-04 10:10:01",
-  "count": 19139,
+  "updated": "2026-06-04 10:14:03",
+  "count": 19142,
   "items": [
+    {
+      "id": "4916399",
+      "time": "2026-06-04 10:13:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌2%。"
+    },
+    {
+      "id": "4916398",
+      "time": "2026-06-04 10:12:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙政府提前啟動高溫防護機制】據西班牙方面3日訊息，為應對持續升溫帶來的健康風險，西班牙政府已啟動年度高溫防護計劃。資料顯示，受近日持續高溫影響，西班牙5月共計有101人死於高溫，其中大多數為老年人，主要來自西班牙北部地區。"
+    },
+    {
+      "id": "te:markets:556310",
+      "time": "2026-06-04 10:12:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Near Two-Month High — The dollar index traded around 99.4 on Thursday, remaining close to a two-month high as stronger-than-expected US labor market data reinforced expectations of tighter Federal Reserve policy. The latest ADP report showed private-sector employment increased by 122K in May, surpassing forecasts and marking the strongest reading since January 2025. Earlier this week, JOLTS data revealed that job openings rose in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further insight into labor market conditions. The dollar also continued to draw support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently assign an 85% probability to a quarter-point Fed rate hike by year-end, up from 60% a week earlier."
+    },
+    {
+      "id": "4916397",
+      "time": "2026-06-04 10:12:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾下跌0.4%，報兌美元跌至18015，創歷史新低。"
+    },
+    {
+      "id": "4916396",
+      "time": "2026-06-04 10:12:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "4916395",
+      "time": "2026-06-04 10:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：關於四方會談和訪印事宜尚未做出任何決定。"
+    },
+    {
+      "id": "mkt:019e9066-e04f-7cc0-ba22-23e92aeab4ef",
+      "time": "2026-06-04 10:11:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said the government and the Bank of Japan maintain close communication on economic and financial trends and will continue to do so."
+    },
+    {
+      "id": "4916394",
+      "time": "2026-06-04 10:11:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：日本政府與日本央行一直就經濟及金融趨勢保持密切溝通，未來也將繼續維持這一溝通機制。"
+    },
+    {
+      "id": "mkt:019e9065-e7c4-7cc0-ba22-1bcf67ed4ecd",
+      "time": "2026-06-04 10:10:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) CEO said customer prepayments have only partially eased substantial capex pressure."
+    },
+    {
+      "id": "mkt:019e9065-ddfa-7cc0-ba22-118a1d32474e",
+      "time": "2026-06-04 10:10:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's chief cabinet secretary Kihara said he expects the Bank of Japan to adopt appropriate monetary policy to achieve its price target sustainably and stably, while working closely with the government."
+    },
+    {
+      "id": "4916393",
+      "time": "2026-06-04 10:10:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔表示：預期日本央行將在與政府保持密切協作的前提下，實施恰當的貨幣政策，以可持續、穩定地實現其物價目標。"
+    },
+    {
+      "id": "mkt:019e9065-c39a-7cc0-ba22-0d1a10d3ee89",
+      "time": "2026-06-04 10:10:48",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "KIHARA said specific monetary policy tools are to be decided by the BANK OF JAPAN."
+    },
+    {
+      "id": "mkt:019e9065-aa81-7cc0-ba22-07a50be363ac",
+      "time": "2026-06-04 10:10:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chief Cabinet Secretary Kihara Minoru declined to comment on specific remarks by Bank of Japan Governor Ueda Kazuo."
+    },
+    {
+      "id": "mkt:019e9065-7d7e-7cc0-ba21-fefef6d91452",
+      "time": "2026-06-04 10:10:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSMC chief executive said employee profit-sharing rose 30% YoY, has no cap, and is expected to continue rising."
+    },
+    {
+      "id": "4916392",
+      "time": "2026-06-04 10:10:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：客戶預付款僅能部分緩解鉅額投資壓力。"
+    },
+    {
+      "id": "4916391",
+      "time": "2026-06-04 10:10:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：就日本央行行長植田和男的具體言論不予置評。"
+    },
+    {
+      "id": "mkt:019e9065-47e5-7cc0-ba21-f7f6d2cfad34",
+      "time": "2026-06-04 10:10:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "CSI300"
+      ],
+      "text": "【State Grid expects summer peak demand to exceed 1.3 billion kW, up about 6% YoY】State Grid said its operating area is forecast to see a peak load above 1.3 billion kilowatts this summer, roughly 6% higher YoY. To ensure grid security and reliable supply it is accelerating capacity builds, expanding market-based power trading and promoting efficient use of clean energy; 168 peak-summer priority projects are being fast-tracked."
+    },
+    {
+      "id": "mkt:019e9065-29d2-7cc0-ba21-e9ce99b611f1",
+      "time": "2026-06-04 10:10:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact mixed"
+      ],
+      "text": "TSMC (TSM.N) CEO: employee profit-sharing payouts to rise about 30% in 2024 and 2025; expects a further ~30% increase in 2026."
+    },
+    {
+      "id": "4916390",
+      "time": "2026-06-04 10:09:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電CEO：員工分紅年度漲幅30%不存在上限，預計分紅將持續增長。"
+    },
     {
       "id": "4916389",
       "time": "2026-06-04 10:09:21",
@@ -176115,145 +176295,6 @@
         "國際"
       ],
       "text": "【若美伊籤協議美將從以機場撤走軍機】以色列第12頻道電視臺5月27日報道稱，美國已告知以色列，如果與伊朗達成結束戰爭的協議，美國將“立即”撤走部署在以色列特拉維夫附近本-古裡安機場的美軍飛機。報道稱，一旦簽署協議，部署在該機場的所有美軍機都將在72小時內撤離至歐洲基地。但美軍飛機將“保持待命”，如果與伊朗的軍事衝突再度爆發，它們將“隨時返回”本-古裡安機場。本-古裡安機場是以色列主要國際機場。以色列交通部長發言人此前證實，以民航局長什扎卡伊向以交通部長雷格夫提交信函，要求撤走本-古裡安機場的美方軍機，原因是這些軍機嚴重擾亂了民航航班運營。"
-    },
-    {
-      "id": "mkt:019e6c5c-3d5b-7117-bd5e-9cd1f56d20fd",
-      "time": "2026-05-28 10:13:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Spot Gold Falls Below $4,400/oz】Spot gold fell below $4,400/oz for the first time since March 27, sliding more than $50 intraday and down about 1.25% on the day."
-    },
-    {
-      "id": "4903619",
-      "time": "2026-05-28 10:13:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九號公司與中創新航簽署戰略合作協議】據常州釋出，近日，九號公司與中創新航簽署戰略合作協議，雙方將圍繞高效能鋰電池在短交通領域的創新應用開展合作。"
-    },
-    {
-      "id": "4903618",
-      "time": "2026-05-28 10:13:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4400美元/盎司，日內跌1.27%。"
-    },
-    {
-      "id": "4903617",
-      "time": "2026-05-28 10:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡航空：紐西蘭航空與新航擴容的北冬季航班時刻表將於2026年10月底起執行，有待監管部門批准。"
-    },
-    {
-      "id": "4903616",
-      "time": "2026-05-28 10:13:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4430美元/盎司，日內跌1.15%。"
-    },
-    {
-      "id": "4903615",
-      "time": "2026-05-28 10:12:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡航空：紐西蘭航空與新航的聯盟自2026年10月底起，將把新加坡與紐西蘭之間的整體座位運力提升17%。"
-    },
-    {
-      "id": "4903614",
-      "time": "2026-05-28 10:12:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡航空和紐西蘭航空將於2026年北半球冬季航季推出新加坡往返克賴斯特徹奇的每週三班服務。"
-    },
-    {
-      "id": "4903613",
-      "time": "2026-05-28 10:11:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭航空將新增奧克蘭方向每週四班航班。"
-    },
-    {
-      "id": "4903612",
-      "time": "2026-05-28 10:11:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡航空：紐西蘭航空將在2026年北半球冬季航季拓展紐西蘭與新加坡之間的聯營航線網路。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605283752422842",
-      "time": "2026-05-28 10:11:35",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲古爾斯比表示，能源通脹持續時間超出預期。"
-    },
-    {
-      "id": "4903611",
-      "time": "2026-05-28 10:11:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭航空與新加坡航空擴容聯合航線網路，提升紐西蘭與新加坡之間的運能與通航連通性。"
-    },
-    {
-      "id": "4903610",
-      "time": "2026-05-28 10:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：力爭到2030年海洋創新藥產業增加值突破1300億元】5月28日，自然資源部召開5月例行新聞釋出會，釋出並解讀《關於加快海洋藥物和功能製品高質量發展的指導意見》。《指導意見》的工作目標是，力爭到2030年，多項海洋創新藥上市，產業增加值突破1300億元，創新能力和集聚水平顯著提升，綜合實力進入國際前列。"
-    },
-    {
-      "id": "4903609",
-      "time": "2026-05-28 10:10:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1841億元。"
-    },
-    {
-      "id": "4903608",
-      "time": "2026-05-28 10:10:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國科學家破解甘蔗增糖關鍵基因】中國熱帶農業科學院熱帶生物技術研究所聯合相關科研單位，透過構建面向多倍體作物的遺傳基礎解析框架，破解了甘蔗莖稈薄壁細胞的高糖儲存密碼。5月27日，相關論文成果在國際學術期刊《自然》線上發表。（新華社）"
-    },
-    {
-      "id": "4903607",
-      "time": "2026-05-28 10:10:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "4903606",
-      "time": "2026-05-28 10:10:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【奇瑞汽車在安徽成立犀電能源科技公司，註冊資本5億】天眼查App顯示，近日，安徽犀電能源科技有限公司成立，法定代表人為李中兵，註冊資本5億人民幣，經營範圍包括電池製造、電池銷售、儲能技術服務等，由奇瑞汽車股份有限公司全資持股。"
     }
   ]
 }
