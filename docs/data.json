@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-04 20:56:43",
-  "count": 19039,
+  "updated": "2026-06-04 21:01:01",
+  "count": 19037,
   "items": [
+    {
+      "id": "4917578",
+      "time": "2026-06-04 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4793.00元。"
+    },
+    {
+      "id": "4917577",
+      "time": "2026-06-04 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.62%，膠合板連續跌4.38%，鈀連續跌3.94%，多晶矽連續跌3.87%，燃料油連續跌2.76%。"
+    },
+    {
+      "id": "mkt:019e92b8-228d-7eec-b8aa-0ff70d1d7e26",
+      "time": "2026-06-04 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (May.29) | actual 748700000000B | previous 753800000000B"
+    },
+    {
+      "id": "4917576",
+      "time": "2026-06-04 20:57:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劍橋科技：完成配售1560萬股新H股 所得淨額約19.67億港元】劍橋科技公告稱，2026年6月4日，公司完成新增發行境外上市股份（H股），按每股126.66港元，向不少於六名承配人配發及發行1560萬股新H股，佔擴大後已發行H股總數約16.84%。配售所得款項總額約1.98億港元，淨額約1.97億港元，將80%用於核心元器件儲備，10%補充營運資金，10%用於一般企業用途。發行後，公司已發行股份總數由3.53億股增至3.68億股，控股股東及其一致行動人持股比例由10.34%被動稀釋至9.90%。"
+    },
+    {
+      "id": "4917575",
+      "time": "2026-06-04 20:57:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊戈爾：多名董事、高管減持計劃期限屆滿 共減持34.94萬股】伊戈爾公告稱，趙楠楠、柳景元等5名董事、高階管理人員減持計劃期限已屆滿。此次減持方式均為集中競價，合計減持349,400股，佔剔除回購專用賬戶中股份後總股本的比例為0.0833%，減持來源為股權激勵獲授股份。本次減持計劃的實施符合相關法律法規，且不會導致公司控制權發生變化，不會對公司治理結構、股權結構及持續經營產生重大影響。"
+    },
+    {
+      "id": "4917574",
+      "time": "2026-06-04 20:56:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，空中客車公司5月交付了81架飛機。"
+    },
+    {
+      "id": "mkt:019e92b4-efbc-7eec-b8aa-07b4d105cbe8",
+      "time": "2026-06-04 20:56:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【World Gold Council: Fed hikes could unexpectedly support gold】In a June 4 Gold Market Talk, the World Gold Council said rising inf pressure may force the Fed to hike, and that when hikes occur they can counterintuitively be supportive for gold. Historical data show gold rose in more than half of rate-hike episodes. The Council said the dollar’s influence on gold prices appears to outweigh rates; mid-cycle growth and yield convergence plus a trend toward diversification away from US assets have set the stage for potential dollar weakness. Structural demand from major consumers China and India and ongoing central bank buying — which are less sensitive to US rates — could provide further support for gold."
+    },
+    {
+      "id": "4917573",
+      "time": "2026-06-04 20:56:28",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【世界黃金協會：美聯儲加息可能意外利好黃金】世界黃金協會在6月4日釋出的黃金市場評論報告中寫道，展望未來，隨著通脹壓力上升，美聯儲可能需要加息。我們認為，當加息發生時，它可能會反直覺地有利於黃金。歷史資料表明：在超過50%的情況下，黃金在加息後表現積極。美元對黃金走勢的重要性似乎超過了利率。中期增長和收益率趨同，以及從美國資產分散投資的趨勢，已經為未來美元走弱鋪平了道路。其他因素也對黃金起到支撐作用：黃金消費大國中國、印度以及全球央行購金需求在結構性上對美國利率的敏感度較低，未來可能為黃金提供支撐。"
+    },
+    {
+      "id": "mkt:019e92b4-d5f5-7eec-b8a9-fb2fefe4188b",
+      "time": "2026-06-04 20:56:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "THYAO.IS",
+        "Impact bullish"
+      ],
+      "text": "Turkish Airlines has received foreign direct investment approval and can proceed with acquiring equity in Air Europa."
+    },
     {
       "id": "4917572",
       "time": "2026-06-04 20:55:54",
@@ -175476,101 +175564,6 @@
         "公司"
       ],
       "text": "【達威股份：公司目前暫無光刻膠領域的量產產品】達威股份5月28日在互動平臺稱，公司目前暫無光刻膠領域的量產產品。"
-    },
-    {
-      "id": "4904940",
-      "time": "2026-05-28 21:00:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【實測顯示6G終端原理樣機系統下行峰速可達10Gbps】中國電信研究院、中國電信股份有限公司湖北分公司聯合中信科行動通訊技術股份有限公司5月28日在武漢開展了6G終端原理樣機系統下行峰速測試。結果顯示，單臺終端下行峰值速率達到5Gbps，系統下行峰值速率達到10Gbps，實際驗證了6G技術在吞吐量和頻譜效率上的巨大潛力。（新華社）"
-    },
-    {
-      "id": "4904939",
-      "time": "2026-05-28 21:00:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國際儲備在5月22日當週降至7538億美元。"
-    },
-    {
-      "id": "4904938",
-      "time": "2026-05-28 21:00:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：搭載驍龍8至尊版的裝置預計將於今年下半年上市。"
-    },
-    {
-      "id": "4904937",
-      "time": "2026-05-28 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】鉑連續跌2.59%，集運指數歐線期貨連續漲2.37%，20號膠連續漲2.00%，碳酸鋰連續漲1.97%，尿素連續跌1.75%。"
-    },
-    {
-      "id": "4904936",
-      "time": "2026-05-28 20:59:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：推出全新入門級處理器驍龍C平臺。"
-    },
-    {
-      "id": "4904935",
-      "time": "2026-05-28 20:58:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：生產率增速加快會在長期內推高實際利率。"
-    },
-    {
-      "id": "te:economy:554506",
-      "time": "2026-05-28 20:58:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Revised Lower — US building permits increased 4.4% month-over-month to a seasonally adjusted annual rate of 1.423 million in April 2026, below the preliminary estimate of 1.442 million, revised figures showed. Multi-unit permits, including buildings with five or more units, surged 17.2% to 491,000, while single-family permits declined 1.6% to 881,000. Regionally, permits rose in the South (4.6% to 748,000), the Midwest (12.3% to 238,000), and the Northeast (15% to 130,000), but fell in the West (-5% to 307,000)."
-    },
-    {
-      "id": "4904934",
-      "time": "2026-05-28 20:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織斯里蘭卡特派團團長：在政策有力、改革到位的合作框架下，基線情景下斯里蘭卡債務具備可維持性。"
-    },
-    {
-      "id": "4904933",
-      "time": "2026-05-28 20:57:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織斯里蘭卡特派團團長：建議不要透過實施進口限制來維護經濟穩定。"
-    },
-    {
-      "id": "4904932",
-      "time": "2026-05-28 20:57:32",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國財長貝森特：美國財政部持續推進針對伊朗政權的強力經濟打擊行動】美國財長貝森特表示：美國財政部持續推進針對伊朗政權的強力經濟打擊行動。伊朗軍隊軍餉停發，警方人員缺勤怠工，哈爾克島已陷入停擺。伊朗經濟與貨幣正急劇崩盤。伊朗波斯灣海峽管理局形同虛設，財政部今日已對該機構實施制裁。我方警告各類企業及官方機構，不得向其繳納通行費，也不得假借援助名義變相支付相關費用。美國實施海上封鎖、構築嚴密防線，目前海上流通的伊朗原油量創下歷史低位。此外，我們還將全面限制伊朗各家航空公司使用停機位、獲取燃油以及開展機票銷售業務。唯有談判取得令人滿意的結果，這一頹勢才會終止。"
-    },
-    {
-      "id": "4904931",
-      "time": "2026-05-28 20:56:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨抹去早盤跌幅，轉為平盤。"
     }
   ]
 }
