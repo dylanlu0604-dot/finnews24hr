@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-04 10:14:03",
-  "count": 19142,
+  "updated": "2026-06-04 10:18:04",
+  "count": 19143,
   "items": [
+    {
+      "id": "4916405",
+      "time": "2026-06-04 10:15:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【檔案顯示特朗普政府多名官員持有SpaceX股份】據報道，財務披露檔案顯示，包括總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，特朗普政府10名官員申報持有SpaceX或xAI的權益。檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。此後，這些官員可能已出售其全部或部分持股，而未觸發額外披露要求。"
+    },
+    {
+      "id": "mkt:019e9069-cfbf-7cc0-ba22-51e51a20edea",
+      "time": "2026-06-04 10:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strong solar flare; NOAA issues geomagnetic storm warning】NASA said on the 3rd a strong solar flare peaked at 07:28 ET (19:28 Beijing) and was classified X1.0. NOAA has issued a strong geomagnetic storm warning, expected to persist through the 5th. The storm may disrupt communications, power grids, navigation, radio and satellite operations. Auroras could be visible across multiple northern US states and parts of the Midwest."
+    },
+    {
+      "id": "te:markets:556313",
+      "time": "2026-06-04 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indonesian Rupiah Depreciates by 0.34% — Top currency loser is Indonesian Rupiah (-0.34%). Gains are led by South Korean Won (0.29%), Japanese Yen (0.11%) and Chinese Yuan (0.06%)."
+    },
+    {
+      "id": "mkt:019e9069-9a50-7cc0-ba22-48e578c955a2",
+      "time": "2026-06-04 10:14:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's benchmark stock index extended losses to 1.5% at 5,849.862 points."
+    },
+    {
+      "id": "4916404",
+      "time": "2026-06-04 10:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【太陽爆發強烈耀斑 美機構釋出地磁暴預警】美國航空航天局3日表示，太陽當天爆發一次強烈耀斑。美國國家海洋和大氣管理局已釋出強地磁暴預警，預計相關影響將持續至5日。據介紹，此次耀斑於美國東部時間3日上午7時28分（北京時間3日19時28分）達到峰值。耀斑被歸類為X1.0級，其中X級為太陽耀斑中強度最高等級，其後的數字用於進一步說明其能量強度。"
+    },
+    {
+      "id": "mkt:019e9069-6b4d-7cc0-ba22-445add0217b2",
+      "time": "2026-06-04 10:14:48",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) CEO said Taiwan hosts the company’s best talent, its core R&D and its largest production base."
+    },
+    {
+      "id": "mkt:019e9069-211e-7cc0-ba22-3eca720e3840",
+      "time": "2026-06-04 10:14:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) CEO said global capacity expansion is primarily driven by customer demand and local government support."
+    },
+    {
+      "id": "4916403",
+      "time": "2026-06-04 10:14:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：臺灣地區匯聚了臺積電最頂尖的人才、核心研發部門以及最大的生產基地。"
+    },
+    {
+      "id": "mkt:019e9068-849f-7cc0-ba22-3709cac59555",
+      "time": "2026-06-04 10:13:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index fell as much as 2.00% intraday."
+    },
+    {
+      "id": "4916402",
+      "time": "2026-06-04 10:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指跌幅達1.5%，跌至5849.862點。"
+    },
+    {
+      "id": "4916401",
+      "time": "2026-06-04 10:13:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：臺灣地區仍是臺積電效率最高的製造基地。"
+    },
+    {
+      "id": "mkt:019e9068-5858-7cc0-ba22-2e662faaf288",
+      "time": "2026-06-04 10:13:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain activates annual heat-protection plan early】On the 3rd, Spanish authorities said the government has activated its annual heat-protection plan early to address health risks from sustained high temperatures. Officials reported 101 heat-related deaths in May, mostly elderly and concentrated in northern Spain."
+    },
+    {
+      "id": "4916400",
+      "time": "2026-06-04 10:13:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電執行長：全球產能擴張主要由客戶需求及地方政府支援驅動。"
+    },
     {
       "id": "4916399",
       "time": "2026-06-04 10:13:13",
@@ -176178,123 +176297,6 @@
         "Importance 1"
       ],
       "text": "South Korea’s 10Y Yield Rises After BoK Decision — South Korea’s 10-year government bond yield rose to around 4.16% in late May, moving back toward its highest level since November 2023, after the central bank held rates steady but signaled a more hawkish tilt. The Bank of Korea raised its inflation outlook for this year to 2.7%, up from 2.2% in February, citing higher energy costs following disruptions linked to the Iran conflict. It also lifted its 2026 growth forecast to 2.6% from 2%, reflecting a stronger-than-expected Q1 rebound driven by booming global demand tied to artificial intelligence. Against this backdrop, the central bank’s dot plot for policy rates six months ahead showed a clear hawkish shift, with two members projecting rates as high as 3.25% in risk scenarios. Most projections clustered around 3%, pointing to expectations of roughly two additional rate hikes over the coming half year."
-    },
-    {
-      "id": "mkt:019e6c5f-c034-7666-9cf1-925a88906cca",
-      "time": "2026-05-28 10:17:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【HarmonyOS Ecosystem Devices Exceed 1.3 Billion】At the OpenHarmony Developer Conference 2026 on May 28, Xie Shaofeng, chairman of the OpenAtom Open Source Foundation, said the OpenHarmony community’s codebase has surpassed 140 million lines and contributors exceed 13,000, supporting form factors including phones, tablets, PCs, TVs, wearables and industry intelligent terminals. A Huawei representative at the conference said cumulative HarmonyOS smart-hardware ecosystem device count has exceeded 1.3 billion units."
-    },
-    {
-      "id": "mkt:019e6c5f-93ca-7666-9cf1-8dc3f87aeff6",
-      "time": "2026-05-28 10:17:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "According to the Wall Street Journal, Meta Platforms (META.O) has begun rolling out subscription plans for Facebook, Instagram and WhatsApp, and is testing a new subscription service for users of its AI chatbot."
-    },
-    {
-      "id": "4903626",
-      "time": "2026-05-28 10:17:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【玻璃基板概念震盪回升 沃格光電3天2板續創歷史新高】玻璃基板概念日內震盪回升，沃格光電走出3天2板，續創歷史新高，三超新材、紅星發展、金瑞礦業、五方光電、安彩高科跟漲。"
-    },
-    {
-      "id": "te:markets:554247",
-      "time": "2026-05-28 10:17:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Trades Below $1,400 — Palladium futures fell below $1,400 per ounce, easing after a brief period of stabilization as investors assessed the inflationary impact of rising energy prices and growing expectations that interest rates may remain elevated for longer. Renewed US military strikes on Iranian targets near the Strait of Hormuz deepened concerns over global energy supply disruptions, pushing Brent crude up 2% to $96.15 per barrel and reinforcing expectations that major central banks may delay monetary easing. A stronger US dollar and higher Treasury yield outlook also weighed on sentiment toward non-yielding precious metals. Still, palladium continued to draw support from tight supply conditions, as ongoing production challenges in South Africa and uncertainty surrounding Russian exports kept supply concerns elevated. Despite recent weakness, palladium prices remain 42.87% higher than a year ago, although they have fallen 6.19% over the past month."
-    },
-    {
-      "id": "4903625",
-      "time": "2026-05-28 10:17:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德龍匯能：全資子公司深圳大有芯聯已完成工商登記註冊】德龍匯能(000593)透過互動易平臺表示，深圳大有芯聯投資有限公司系公司基於戰略規劃及未來經營發展需要而設立的全資子公司，已於2026年2月10日完成該子公司的工商登記註冊，註冊資本5000萬元。目前，該子公司尚處於設立後的初期階段。"
-    },
-    {
-      "id": "4903624",
-      "time": "2026-05-28 10:15:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鴻蒙生態裝置超13億臺】5月28日，在開源鴻蒙開發者大會2026上，開放原子開源基金會理事長謝少鋒表示，目前開源鴻蒙社群程式碼量突破1.4億行，貢獻者超過13000名，支援手機、平板、電腦、電視、穿戴及行業智慧終端等形態。此外，華為相關負責人在會上表示，鴻蒙智慧硬體生態裝置累計數已超過13億臺。"
-    },
-    {
-      "id": "4903623",
-      "time": "2026-05-28 10:15:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：半導體熱潮推動韓國經濟增長擴張。"
-    },
-    {
-      "id": "te:markets:554243",
-      "time": "2026-05-28 10:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.29% — Top currency loser is South Korean Won (-0.29%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
-    },
-    {
-      "id": "4903622",
-      "time": "2026-05-28 10:15:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：原油供應穩定需要時間恢復。"
-    },
-    {
-      "id": "mkt:019e6c5d-4a1b-7666-9cf1-809b6c587c7e",
-      "time": "2026-05-28 10:14:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02513.HK"
-      ],
-      "text": "Zhipu (02513.HK) rose nearly 4%, with its share price touching an intraday high of HK$1,500, extending its all-time record high."
-    },
-    {
-      "id": "4903621",
-      "time": "2026-05-28 10:14:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：中東戰爭的不確定性依然存在。"
-    },
-    {
-      "id": "4903620",
-      "time": "2026-05-28 10:14:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【若美伊籤協議美將從以機場撤走軍機】以色列第12頻道電視臺5月27日報道稱，美國已告知以色列，如果與伊朗達成結束戰爭的協議，美國將“立即”撤走部署在以色列特拉維夫附近本-古裡安機場的美軍飛機。報道稱，一旦簽署協議，部署在該機場的所有美軍機都將在72小時內撤離至歐洲基地。但美軍飛機將“保持待命”，如果與伊朗的軍事衝突再度爆發，它們將“隨時返回”本-古裡安機場。本-古裡安機場是以色列主要國際機場。以色列交通部長發言人此前證實，以民航局長什扎卡伊向以交通部長雷格夫提交信函，要求撤走本-古裡安機場的美方軍機，原因是這些軍機嚴重擾亂了民航航班運營。"
     }
   ]
 }
