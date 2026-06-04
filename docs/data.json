@@ -1,7 +1,172 @@
 {
-  "updated": "2026-06-04 23:04:48",
-  "count": 18930,
+  "updated": "2026-06-04 23:09:11",
+  "count": 18944,
   "items": [
+    {
+      "id": "4917776",
+      "time": "2026-06-04 23:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：惠普-法拉利車隊AI個人電腦將於2026年6月12日在美國上市，售價5599美元。"
+    },
+    {
+      "id": "4917775",
+      "time": "2026-06-04 23:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta ：Facebook上的創作者助手正在向美國、加拿大和印度的創作者推出。"
+    },
+    {
+      "id": "mkt:019e932c-d9b9-7ff8-893b-8b5761e94804",
+      "time": "2026-06-04 23:07:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O): Creator Assistant on Facebook is rolling out to creators in the U.S., Canada and India."
+    },
+    {
+      "id": "mkt:019e932c-89ed-7ff8-893b-84086634e8bd",
+      "time": "2026-06-04 23:06:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Meta Platforms (META.O) launched a Creator Assistant and expanded language support for Facebook's AI translation."
+    },
+    {
+      "id": "4917774",
+      "time": "2026-06-04 23:06:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織表示，其已加快與馬拉維就一項新的基金支援專案展開磋商，目標是“儘快”公佈相關訊息。"
+    },
+    {
+      "id": "te:markets:556555",
+      "time": "2026-06-04 23:06:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Natural Gas Prices Rise to 4-Month High — US natural gas futures rose past $3.3 per MMBtu, the highest in four months, amid no progress in supply from the Middle East and higher demand domestically. Israel and Lebanon continued to exchange strikes to strain their ceasefire, limiting the likelihood of an imminent agreement between the US and Iran that would lift the tanker blockade from the Persian Gulf. Exports of liquified natural gas from the region have slumped since the start of the war in March, driving European and Asian consumers to increase their dependency on US supplies. Consequently, the latest data from the EIA showed that US LNG exports rose to a record high of 573.5 billion cubic feet gaseous equivalent. Meanwhile, forecasts of higher temperatures in the US northeast increased the outlook of gas-intensive air conditioning, also lifting prices. Consistently, inventory in the US rose by 95 bcf, below forecasts of a sharper 101 bcf build."
+    },
+    {
+      "id": "4917773",
+      "time": "2026-06-04 23:06:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：匈牙利擬支援歐盟對俄製裁延期一年。"
+    },
+    {
+      "id": "4917772",
+      "time": "2026-06-04 23:05:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "Quantinuum納斯達克上市首發，開盤指示價為78美元，IPO發行價為60美元。"
+    },
+    {
+      "id": "mkt:019e932b-6ca9-7ff8-893b-7cc3af27e5a8",
+      "time": "2026-06-04 23:05:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Hungary will support the EU extending sanctions on Russia for one year."
+    },
+    {
+      "id": "4917771",
+      "time": "2026-06-04 23:05:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗相關衝突 “已得到遏制。”"
+    },
+    {
+      "id": "mkt:019e932b-48b0-7ff8-893b-775377d87e07",
+      "time": "2026-06-04 23:05:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent: Iran conflict \"has been paused\"."
+    },
+    {
+      "id": "mkt:019e932a-df51-7ff8-893b-68fdcb023292",
+      "time": "2026-06-04 23:05:10",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY again touched the 160.00 area, trading up 0.04% intraday."
+    },
+    {
+      "id": "mkt:019e932a-c37d-7ff8-893b-648ed1c7de86",
+      "time": "2026-06-04 23:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chairman of the Russian Fertilizer Producers Association said Russia's fertilizer trade lost roughly 15 mln tonnes between Feb and May; nitrogen fertilizer shortages could cut crop yields by 20–40%."
+    },
+    {
+      "id": "4917770",
+      "time": "2026-06-04 23:04:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織擬調整衣索比亞專案撥款撥付階段安排，將約2億美元撥付提前至2026年。"
+    },
+    {
+      "id": "4917769",
+      "time": "2026-06-04 23:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯化肥生產商協會主席：2 至 5 月俄羅斯化肥貿易量減少 1500 萬噸。氮肥短缺可能導致作物產量下降20%至40%。"
+    },
+    {
+      "id": "mkt:019e9329-e1c7-7ff8-893b-5d5759b17e3c",
+      "time": "2026-06-04 23:04:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the White House has asked Congress to advance fuel-tax measures."
+    },
+    {
+      "id": "mkt:019e9329-dd0a-7ff8-893b-53a1fc9668c9",
+      "time": "2026-06-04 23:03:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US Treasury Secretary Bessent said he is urging Congress to act to repeal the fuel tax."
+    },
     {
       "id": "4917768",
       "time": "2026-06-04 23:03:47",
@@ -9,6 +174,14 @@
         "國際"
       ],
       "text": "伊朗外交部長：將繼續支援巴勒斯坦的“抵抗”。"
+    },
+    {
+      "id": "mkt:019e9329-ba7e-7ff8-893b-4b88c25e9d23",
+      "time": "2026-06-04 23:03:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said Iran will continue to support Palestinian \"resistance\"."
     },
     {
       "id": "mkt:019e9329-0ab6-7ff8-893b-41f54df172fc",
@@ -174416,40 +174589,6 @@
         "國際"
       ],
       "text": "【巴勒斯坦男子稱被以軍鎖進棺材2周】近期，針對以色列對被扣押人員實施虐待行為的指控越來越多。據“今日俄羅斯”電視臺5月27日報道，一名名叫伊曼·納布漢的巴勒斯坦男子揭露稱，在他拒絕成為以色列線人後，他曾被以軍關在一個形似棺材的箱子里長達兩週多。納布漢說，在15天時間裡，他的手腳被牢牢捆住，吃的東西只能透過一個小洞遞入，需要上廁所時 只被允許出來一分鐘。（CCTV國際時訊）"
-    },
-    {
-      "id": "4905195",
-      "time": "2026-05-28 23:08:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【比特幣ETF資金流出加速】CoinGlass的資料顯示，週三比特幣ETF的資金流出量攀升至7.334億美元。該流出量較前一天增長逾一倍，成為今日比特幣價格下跌的推手。Arbeat Group的Khaled Guerbouz在一份報告中表示，這也是今年以來比特幣ETF出現的第二大資金流出。“隨著宏觀環境的變化，投資者情緒已經惡化，”Guerbouz說。倫敦證券交易所集團的資料顯示，比特幣下跌3.1%，至72,834美元。"
-    },
-    {
-      "id": "4905194",
-      "time": "2026-05-28 23:07:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍表示，在持續的多線衝突中，他們已經消滅了“近三分之一”的真主黨部隊。"
-    },
-    {
-      "id": "4905192",
-      "time": "2026-05-28 23:06:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "深圳傑成新能源科技股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。"
-    },
-    {
-      "id": "4905191",
-      "time": "2026-05-28 23:04:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國、墨西哥和加拿大將採取協同舉措，保障2026年 FIFA 世界盃期間預計到場的本國公民、訪客、球迷、運動員及遊客的安全。"
     }
   ]
 }
