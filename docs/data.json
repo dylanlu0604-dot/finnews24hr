@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-04 20:44:33",
-  "count": 19036,
+  "updated": "2026-06-04 20:48:34",
+  "count": 19039,
   "items": [
+    {
+      "id": "4917563",
+      "time": "2026-06-04 20:46:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "te:markets:556534",
+      "time": "2026-06-04 20:46:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Nears $1.35 on Middle East Ceasefire Hopes — The British pound rose toward $1.35, buoyed by optimism over a Middle East ceasefire. Israel and Lebanon’s agreement to halt hostilities raised hopes for broader de-escalation in the US-Israeli conflict with Iran, though Tehran denied progress in talks with Washington and clashes continued in Lebanon. Meanwhile, the Republican-led US House voted to halt military action against Iran, defying President Trump’s administration. On monetary policy, markets are pricing in nearly two Bank of England rate hikes this year, with the first expected in September, as policymakers balance rising inflation against early signs of a cooling labor market."
+    },
+    {
+      "id": "mkt:019e92aa-fff9-7eec-b8a9-da22bceb9c1b",
+      "time": "2026-06-04 20:45:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【High-end fiber preform prices up nearly 550%; short-term supply tightness seen persisting】Prices for A2-class high-end fiber preforms — the upstream rods that determine optical-fiber performance — have surged, rising from 22–30 yuan per equivalent core-km in early 2025 to about 160 yuan per equivalent core-km in 2026, an increase of nearly 550%. Preforms account for roughly 70% of profit allocation in China’s fiber-cable value chain. A2 preforms produce bend-insensitive fiber widely used in AI compute infrastructure and last-mile/FTTH deployments, driving current demand. Capacity expansion typically requires 18–24 months, so supply tightness is likely to persist in phases; firms with existing preform capacity are positioned as the main beneficiaries, while smaller manufacturers may face supply shortages, subcontracting and margin compression."
+    },
+    {
+      "id": "4917561",
+      "time": "2026-06-04 20:45:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國3D列印產業進入快速發展新階段】當前，隨著技術進步、出口增長以及應用場景的不斷擴大，我國3D列印正加快從實驗室走向工業生產和大眾消費市場，產業進入快速發展新階段。今年以來，消費級3D列印裝置憑藉價效比和易用性優勢，贏得了消費者的青睞。與印象中的“大塊頭”不同，這些裝置也就是微波爐的大小，可以放在書桌上，僅需簡單幾步，就能列印出自己的獨特設計，在海外家庭創客、小型工作室以及教育市場快速普及。與此同時，隨著列印效率、材料效能和裝置穩定性的全面提升，國產3D列印裝置應用場景正持續拓寬。在醫療領域，3D列印用在定製牙科修復、骨科植入物、助聽器、手術工具這些對“因人而異”要求很高的產品上；在航天領域，換熱器、噴注器等很多傳統工藝難以實現的內部結構，現在可以直接“列印出來”、一體成型，不僅效率更高、零件更輕，效能也更優。資料顯示，今年前四個月，我國3D列印裝置產量同比增長50.9%，出口量同比增長100.3%。目前，中國企業已佔據全球消費級3D列印裝置約90%的市場份額。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019e92aa-82d2-7eec-b8a9-d04478445700",
+      "time": "2026-06-04 20:45:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "【U.S. initial jobless claims rise to 225,000, highest since early February】Initial jobless claims for the week ended May 30 rose to 225,000, above expectations of 213,000 and a revised prior 212,000, the highest since the first week of February. The four-week moving average increased to 214,750 from 208,250. Continuing claims fell to 1,777,000, slightly below the 1,780,000 forecast. The uptick in initial claims suggests some softening in the labor market but remains at relatively low, stable levels. Note continuing claims carry a one-week reporting lag, so next week’s continuing-claims print will correspond to this week’s initial claims. U.S. equity futures mixed in premarket: Dow futures +1.0%, S&P 500 futures -0.22%, Nasdaq futures down >1%. Treasury yields declined: 2-yr 4.039% (-4.5bps), 10-yr 4.455% (-3.8bps), 30-yr 4.960% (-3.0bps)."
+    },
+    {
+      "id": "4917560",
+      "time": "2026-06-04 20:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及政府暫無申請新一輪 IMF 紓困專案的意向。"
+    },
+    {
+      "id": "4917559",
+      "time": "2026-06-04 20:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高階光纖預製棒價格漲幅近550% 業內人士：短期內光棒供給緊缺的情況仍會階段性固化】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。光棒可分為A、B、C三大類，其中，A2類光纖預製棒作為高階產品分類正出現爆發式需求。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。業內人士表示，光棒的擴產週期一般需要18至24個月，短期內，光棒供給緊缺的情況仍會階段性固化，擁有光棒產能的企業將成為本輪行情的最大受益方，中小廠商可能會面臨供應不足、接受代工、利潤擠壓等情況。 (央視財經)"
+    },
+    {
+      "id": "4917558",
+      "time": "2026-06-04 20:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一架直升機在波蘭南部墜毀 造成1人死亡】當地時間6月4日，波蘭警方表示，救援人員於當天早上在波蘭南部的盧博戈什奇山山坡發現了一架墜毀的直升機殘骸，並在現場發現一具遺體。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e92a9-b3e4-7eec-b8a9-c983cbe3ecc8",
+      "time": "2026-06-04 20:44:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "OPEC Secretary General said oil-sector investment should not be affected by one-off events."
+    },
+    {
+      "id": "4917557",
+      "time": "2026-06-04 20:43:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克秘書長表示：石油行業投資不應受一次性事件影響。"
+    },
+    {
+      "id": "4917556",
+      "time": "2026-06-04 20:43:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先鋒精科：加熱器等新品年內有望實現收入】先鋒精科近期在機構調研時表示，在新產品開發方面，公司在加熱器等半導體先進功能器件的研發上持續加大研發力度，發展進度按計劃進行，如驗證順利今年將實現收入。此外，公司表示，在目前AI算力發展趨勢下，在未來一段時期，擴產是主旋律，國產半導體裝置及零部件行業會迎來擴張期。公司目前在手訂單充足，2026年第一季度在手訂單量同比增長55%，考慮到產能擴充、產品交付、效率提升等因素，預計公司營業收入將逐步得到釋放提升。"
+    },
     {
       "id": "4917555",
       "time": "2026-06-04 20:43:34",
@@ -175469,86 +175575,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織斯里蘭卡特派團團長：斯里蘭卡的匯率靈活性對抵禦外部衝擊至關重要。"
-    },
-    {
-      "id": "4904918",
-      "time": "2026-05-28 20:48:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國上市企業一諾儀器到訪昌紅科技，交流光通訊相關業務】5月28日，昌紅科技公眾號披露，26日，INNO INSTRUMENT INC.（一諾儀器）團隊到訪昌紅科技坪山總部，雙方圍繞光通訊產業趨勢、關鍵部件研發及精密製造協同等議題進行交流。資料顯示，一諾儀器為韓國科斯達克上市企業，主要從事光通訊測試測量裝置業務，產品包括光纖熔接機、OTDR測試儀、光纖切割工具等。"
-    },
-    {
-      "id": "4904917",
-      "time": "2026-05-28 20:48:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【開拓藥業-B：董事會主席童友之增持0.5039%股份】開拓藥業－Ｂ公告，2026年4月2日至5月28日，董事會主席、執行董事兼行政總裁童友之博士透過其全資公司KT International Investment Limited於公開市場以約332萬港元、平均每股2.63港元、增持價格區間每股2.23港元至2.89港元，買入公司126.25萬股；並以約109萬港元行使2020年僱員激勵計劃授予的125萬份受限制股票單位。童博士本次合計增持251.25萬股，佔公司已發行股本約0.5039%。增持後公司公眾持股量仍符合要求，童博士不排除未來繼續增持。"
-    },
-    {
-      "id": "te:economy:554493",
-      "time": "2026-05-28 20:46:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Core PCE Price Index MoM",
-        "Importance 1"
-      ],
-      "text": "US Core PCE Prices Rise Less than Expected — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 0.2% from the previous month in April 2026, following a 0.3% increase in March, below market forecasts of 0.3%. From the previous year, the core PCE price index rose by an expected 3.3%, up from 3.2% in the prior month, remaining well above the Federal Reserve's 2% target."
-    },
-    {
-      "id": "te:economy:554492",
-      "time": "2026-05-28 20:46:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Real Personal Spending MoM",
-        "Importance 1"
-      ],
-      "text": "Real US Personal Spending Rises Just 0.1% in April — Inflation-adjusted US personal spending edged up 0.1% month-over-month in April 2026, slowing from an upwardly revised 0.3% increase in March, as consumers showed signs of more cautious demand. Spending on goods declined 0.1%, following a 0.8% rise in March, with motor vehicles and parts falling 1.1% (vs. +3.5% in March) and clothing and footwear dropping 0.9% (vs. -0.2%). Recreational goods and vehicles also saw a fifth consecutive monthly decline (-0.5% vs. -0.6%). Meanwhile, spending on services accelerated to 0.2% from 0.1%, driven by recreation services (1.1% vs. 0.2%), financial services and insurance (0.2% vs. 0.1%), food services and accommodations (0.2% vs. 0.0%), and healthcare (0.1% vs. 0.0%)."
-    },
-    {
-      "id": "te:economy:554490",
-      "time": "2026-05-28 20:46:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "PCE Price Index Monthly Change",
-        "Importance 2"
-      ],
-      "text": "US PCE Inflation Remains Elevated — The US PCE price increased 0.4% month-over-month in April 2026, less than market expectations of 0.5%, following a 0.7% jump in March, which was the sharpest gain since June 2022. Goods prices increased 0.7% (vs 1.4% in March), while services inflation was steady at 0.3%. The core PCE index, which excludes food and energy, increased 0.2% after a 0.3% gain in March. On an annual basis, headline PCE inflation accelerated for a second straight month to 3.8% from 3.5% in March, reaching its highest level since May 2023 and aligning with headline CPI inflation. Core PCE inflation edged higher to 3.3% from 3.2%, marking its highest reading since late 2023."
-    },
-    {
-      "id": "4904916",
-      "time": "2026-05-28 20:45:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織斯里蘭卡特派團團長：基金組織3%的增長預測是在最新加息前作出的，但目前來看仍合理。"
-    },
-    {
-      "id": "4904915",
-      "time": "2026-05-28 20:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織斯里蘭卡任務團團長：斯里蘭卡仍具備強勁的內部潛力，可實現國際貨幣基金組織設定的增長目標。"
-    },
-    {
-      "id": "te:economy:554489",
-      "time": "2026-05-28 20:45:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Personal Income",
-        "Importance 1"
-      ],
-      "text": "US Personal Income Stalls in April — US personal income was unchanged month-over-month in April 2026, falling short of market expectations for a 0.4% increase and following a slightly downwardly revised 0.5% gain in March. The flat reading was largely due to a $61.7 billion drop in farm proprietors’ income, reflecting lower payments under the Farmer Bridge Assistance Program after applications closed in mid-April. Proprietors’ income with inventory valuation and capital consumption adjustments also fell by $57.8 billion. The decline was partly offset by a $39.6 billion increase in compensation, including a $32.4 billion rise in wages and salaries. Private-sector wages and salaries increased by $28.5 billion, while government wages and salaries rose by $3.9 billion. Meanwhile, disposable personal income fell 0.1%, or $19.9 billion, after rising 0.5% in the previous month. Real disposable personal income declined 0.5%, deepening from an upwardly revised 0.2% decrease in March."
     }
   ]
 }
