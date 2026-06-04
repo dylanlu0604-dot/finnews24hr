@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-05 03:48:31",
-  "count": 18986,
+  "updated": "2026-06-05 03:52:24",
+  "count": 18987,
   "items": [
+    {
+      "id": "mkt:019e9431-1431-755d-92d5-c12a501c9486",
+      "time": "2026-06-05 03:51:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Lebanese Health Ministry said two Israeli strikes in eastern and southern Lebanon killed eight people."
+    },
+    {
+      "id": "mkt:019e942f-a124-755d-92d5-bb4c5c30c1c0",
+      "time": "2026-06-05 03:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【US media: Pentagon may cancel Tomahawk missile transfer to Germany over Russia escalation concerns】Politico reports the Pentagon is expected to cancel delivery of Tomahawk cruise missiles to Germany, citing US concerns that Moscow would view the shipment as an escalation, according to two European officials and one US official. German leaders warn non-delivery would void a Biden-era agreement and leave Berlin short of urgently needed defensive capability. US officials frame the move as part of a broader pullback within NATO that is straining long-standing partnerships. US Defense Secretary told Congress last month that replenishing munitions expended in the Iran conflict will take \"months to years.\""
+    },
+    {
+      "id": "mkt:019e942d-f5f5-755d-92d5-b68175c65f5f",
+      "time": "2026-06-05 03:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will build a walkway at the Lincoln Memorial."
+    },
     {
       "id": "mkt:019e942d-8838-755d-92d5-ab0f2aced8df",
       "time": "2026-06-05 03:47:52",
@@ -174969,25 +174999,6 @@
         "市場"
       ],
       "text": "【國際油價28日漲跌不一】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲22美分，收於每桶88.90美元，漲幅為0.25%；7月交貨的倫敦布倫特原油期貨價格下跌57美分，收於每桶93.71美元，跌幅為0.62%。"
-    },
-    {
-      "id": "4905539",
-      "time": "2026-05-29 03:52:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國加州檢察官Rob Bonta就2023年（至少）數百萬使用者資料問題而起訴基因檢測公司23andMe。"
-    },
-    {
-      "id": "4905538",
-      "time": "2026-05-29 03:49:04",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "尼康 CEO： 公司正與美國、亞洲多家主流晶片廠商洽談主力 ARF 光刻裝置的新訂單。"
     }
   ]
 }
