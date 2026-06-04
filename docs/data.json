@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-04 14:24:54",
+  "updated": "2026-06-04 14:29:29",
   "count": 19049,
   "items": [
+    {
+      "id": "4916694",
+      "time": "2026-06-04 14:27:42",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【特斯拉連續四個月蟬聯韓國進口車銷量冠軍】特斯拉5月份連續第四個月位居韓國進口車銷量榜首，主要得益於其Model Y車型的強勁銷售。據韓國汽車進口商與分銷商協會（KAIDA）統計，上個月新註冊的進口乘用車為29860輛，較去年同期的28189輛增長5.9%。特斯拉以10866輛的銷量位居榜首，自2月以來一直保持第一的位置。寶馬上個月銷量為6555輛，梅賽德斯-賓士以3553輛位列第三。比亞迪銷量為1032輛，排名第七。特斯拉Model Y以8762輛的銷量成為最暢銷進口車型。"
+    },
+    {
+      "id": "mkt:019e9150-ba6f-7cc0-ba27-80e94af206e2",
+      "time": "2026-06-04 14:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia spring wheat sowing slowest in 10 years; 7.1 mln ha sown as persistent rain leaves soils waterlogged】Persistent rain is delaying Russia's spring wheat sowing and could reduce harvests. Agriculture ministry estimates obtained via two local traders show about 7.1 mln ha sown as of May 26, down 12% YoY. The Russian Federal Service for Hydrometeorology and Environmental Monitoring says rainfall in key spring-crop areas, including the Volga region and Siberia, has been 60–118% above seasonal normals, leaving soils too wet for fieldwork and sowing."
+    },
+    {
+      "id": "4916693",
+      "time": "2026-06-04 14:26:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱Lovable將把谷歌雲服務使用規模提高至原有的5倍】谷歌與瑞典AI程式設計公司Lovable在當地時間週三宣佈擴大合作關係。雙方並未披露交易金額，但據知情人士透露，這項協議意味著Lovable的谷歌雲服務使用規模（包括AI相關服務）將擴大至原來的五倍。"
+    },
+    {
+      "id": "4916692",
+      "time": "2026-06-04 14:25:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車工程學會：預計2030年新能源車型在乘用車新車銷量中佔比超七成】在6月3日召開的第三十三屆中國汽車工程學會年會暨展覽會（SAECCE 2026）和汽車創新技術展（AITX）新聞釋出會上，中國汽車工程學會副理事長兼秘書長侯福深表示，“十五五”是我國汽車產業由規模擴張邁向全面高質量發展的關鍵階段。未來五年，產業將呈現電動化技術加速升級迭代、數智變革向全產業鏈拓展、中外汽車產業競合格局深度重塑等趨勢。預計到2030年，新能源車型在乘用車新車銷量中的佔比將超過70%，L3、L4級自動駕駛功能在乘用車新車中的搭載率將超過35%，我國汽車海外銷量將達到近1000萬輛，國際化將成為產業高質量發展重要增長極。"
+    },
+    {
+      "id": "4916691",
+      "time": "2026-06-04 14:25:02",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【投行Compass Point：比特幣熊市已經進入後期階段】美國投行Compass Point分析師Ed Engel分析稱，過去30天，26%的比特幣賣盤來自那些在比特幣價格高於90000美元時購買該代幣的投資者。他指出，這批頂級買家在整個熊市中一直表現出韌性，但隨著比特幣接近新的週期低點，他們最終還是屈服了。這讓他更加確信，比特幣的熊市已經進入後期階段。比特幣價格週四一度跌破62000美元，現反彈至64200美元上方。"
+    },
+    {
+      "id": "4916690",
+      "time": "2026-06-04 14:24:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鴻海與SK集團深化AI基礎設施合作】鴻海6月4日表示，董事長劉揚偉近日會見韓國SK集團會長崔泰源，雙方就全球AI產業發展進行探討，包括AI伺服器、AI資料中心及能源解決方案等領域的合作，以深化新世代AI基礎設施的競爭力。雙方亦針對機器人、能源管理與電池技術等領域進行交流。"
+    },
     {
       "id": "4916689",
       "time": "2026-06-04 14:23:37",
@@ -175515,59 +175567,6 @@
         "INTC.O"
       ],
       "text": "【ByteDance Said To Be Developing Custom CPU To Support AI Demand】People familiar with the matter said ByteDance is developing its own CPU to meet growing AI infrastructure demand, citing a surge in chip prices and prolonged supply shortages that have constrained the company’s expansion plans. The move highlights an industry shift into the \"inference\" phase of AI, which has materially increased CPU demand and precipitated shortages in recent months, the sources said. ByteDance plans to deploy the in‑house CPUs in its servers and data centers to support internal operations and to prepare for large‑scale rollouts of agent‑like products including the Coze platform. The company is pursuing two CPU architecture tracks — one Arm‑based and one based on the open‑source RISC‑V instruction set — to assess which design better suits its long‑term data center needs. ByteDance currently buys CPUs from Intel and AMD; both suppliers have hiked prices sharply in recent months, with QoQ increases of roughly 10%–35%, prompting the company to accelerate development of an internal alternative, the people said."
-    },
-    {
-      "id": "4904024",
-      "time": "2026-05-28 14:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月28日：“農產品批發價格200指數”比昨天下降0.02個點】據農業農村部監測，5月28日“農產品批發價格200指數”為113.22，比昨天下降0.02個點，“菜籃子”產品批發價格指數為113.28，比昨天下降0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.88元/公斤，比昨天上升0.9%；牛肉66.63元/公斤，比昨天上升0.3%；羊肉64.12元/公斤，比昨天上升0.5%；雞蛋9.77元/公斤，比昨天上升1.1%；白條雞17.04元/公斤，與昨天持平。重點監測的28種蔬菜平均價格為4.12元/公斤，比昨天下降0.5%；重點監測的6種水果平均價格為7.75元/公斤，比昨天上升1.0%。鯽魚20.07元/公斤，比昨天下降0.7%；鯉魚14.95元/公斤，比昨天上升0.1%；白鰱魚10.44元/公斤，比昨天下降1.2%；大帶魚40.58元/公斤，與昨天持平。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、洋白菜、蔥頭、大蔥和菠菜，幅度分別為4.6%、3.0%、2.7%、2.3%和2.0%；價格降幅前五名的是西瓜、萵筍、菠蘿、芹菜和西紅柿，幅度分別為5.6%、4.5%、3.8%、2.7%和2.6%。"
-    },
-    {
-      "id": "te:economy:554327",
-      "time": "2026-05-28 14:29:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Lithuania Retail Sales Growth at 3-Month High — Retail sales in Lithuania rose 8.9% year-on-year in April 2026 from an upwardly revised 6.7% in the previous month and marking the strongest growth since January. Sales growth accelerated in retail trade excluding automotive fuel (11.4% vs. 6.8% in March), non-food products (18.8% vs. 10.1%), mail-order and internet sales (34.6% vs. 21.1%), and non-specialized stores (25.2% vs. 18.3%). In specialized stores, retail activity also expanded for textiles, clothing, and footwear (7.6% vs. 6.1%), audio, video, hardware, furniture, and lighting (21.1% vs. 7.1%), information and communication goods (7.2% vs. 2.4%), and pharmaceuticals, medical goods, and cosmetics (13.1% vs. 9.0%). In contrast, sales growth slowed for food, alcoholic beverages, and tobacco (1.5% vs. 2.2%), while automotive fuel sales declined (-0.9% vs. 6.6%). On a monthly basis, retail activity eased 1.8% in April from an upwardly revised 3.7% in the previous period."
-    },
-    {
-      "id": "4904023",
-      "time": "2026-05-28 14:29:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“易中天”股價齊創歷史新高】中際旭創現漲超7%，新易盛、天孚通訊漲超4%，股價均重新整理歷史新高。"
-    },
-    {
-      "id": "4904022",
-      "time": "2026-05-28 14:27:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田汽車：4月全球汽車產量同比下滑0.8%，至276,895輛。"
-    },
-    {
-      "id": "4904021",
-      "time": "2026-05-28 14:27:24",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛公司將中航光電評級下調至中性；目標價37.50元人民幣。"
-    },
-    {
-      "id": "4904020",
-      "time": "2026-05-28 14:26:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來李斌談法拉利純電車Luce：不能只看第一眼 法拉利有自己的設計特點】5月28日，在蔚來ES9上市後的媒體採訪環節，針對近期法拉利首款純電汽車Luce的外觀設計爭議，蔚來創始人、董事長、CEO李斌表示，Luce的設計有其自身特點，不能只看第一眼，還要長期去看，“所以我相信他們也有很多自己的思考在背後”。"
     }
   ]
 }
