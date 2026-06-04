@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-05 06:38:42",
-  "count": 19038,
+  "updated": "2026-06-05 06:42:26",
+  "count": 19039,
   "items": [
+    {
+      "id": "4918221",
+      "time": "2026-06-05 06:41:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。"
+    },
+    {
+      "id": "te:markets:556597",
+      "time": "2026-06-05 06:40:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%)."
+    },
+    {
+      "id": "mkt:019e94ca-3c56-7cc8-bdef-220c1d2a892c",
+      "time": "2026-06-05 06:39:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site."
+    },
     {
       "id": "4918220",
       "time": "2026-06-05 06:36:12",
@@ -175369,25 +175398,6 @@
         "市場"
       ],
       "text": "【證券日報：A股券商板塊估值修復潛力凸顯】近日，券商密集召開中期策略會，集中釋放對下半年投資的判斷。對於自身板塊，一個清晰的共識已經形成，證券行業正站在投資價值重塑的關鍵節點，依託頭部券商業績超預期、行業政策紅利持續釋放、集中度加速提升等因素疊加，券商板塊估值修復潛力愈發凸顯。"
-    },
-    {
-      "id": "te:markets:554620",
-      "time": "2026-05-29 06:40:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wool Rises by 2.87% — Top commodity gainers are Wool (2.87%), Coffee (1.47%) and Canola (1.39%). Biggest losers are Cocoa (-1.67%) and Sugar (-1.62%)."
-    },
-    {
-      "id": "4905628",
-      "time": "2026-05-29 06:38:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI算力需求增加，多家公司加速佈局高階電子電路銅箔領域】隨著AI算力需求增加，產業鏈上游的高階電子電路銅箔正在經歷前所未有的技術迭代和升級。為了搶佔這一市場高地，多家A股上市公司已斥重資佈局，以HVLP（極低輪廓銅箔）、RTF（反轉銅箔）為代表的高階銅箔建設程序正全面加速。（中證報）"
     }
   ]
 }
