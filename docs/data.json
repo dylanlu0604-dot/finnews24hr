@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-05 05:15:28",
-  "count": 19046,
+  "updated": "2026-06-05 05:19:19",
+  "count": 19043,
   "items": [
+    {
+      "id": "4918185",
+      "time": "2026-06-05 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.16%，報15734點。"
+    },
     {
       "id": "4918184",
       "time": "2026-06-05 05:13:14",
@@ -175454,49 +175462,6 @@
         "XAUUSD"
       ],
       "text": "South Korea and the United States will hold high-level security talks on June 2-3, the South Korean foreign ministry said."
-    },
-    {
-      "id": "mkt:019e7074-b780-7eef-a303-b038f4d9fd7e",
-      "time": "2026-05-29 05:19:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranian armed forces fire warning shots at four vessels near Strait of Hormuz】On May 28 local time, Iranian armed forces fired warning shots at four non-compliant vessels near the Strait of Hormuz. Iranian sources say forces later that evening launched missiles from southern Iran at “specific targets”; the targets and operational details have not been released. Other sources report possible exchanges of fire in the Persian Gulf, but those reports remain unconfirmed."
-    },
-    {
-      "id": "4905590",
-      "time": "2026-05-29 05:16:42",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "觀點",
-        "其他"
-      ],
-      "text": "【5月29日美股成交額前20：微軟將於下週推出多款自研AI模型】週四美股成交額第3名微軟收高3.47%，成交193.03億美元。微軟將於下週在Build開發者大會上推出多款自研AI模型，重點包括一款程式碼專用模型，以提升GitHub Copilot的競爭力。目前該工具市場份額正被Cursor和Claude Code蠶食。此外，微軟還將釋出專攻語音轉寫、推理、影象生成等場景的模型。"
-    },
-    {
-      "id": "mkt:019e7072-4e12-7eef-a303-ab8aa9dc933f",
-      "time": "2026-05-29 05:16:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) shares rose 26% in after-hours trading."
-    },
-    {
-      "id": "4905589",
-      "time": "2026-05-29 05:15:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50夜期收漲0.04%，報15659點。"
     }
   ]
 }
