@@ -1,7 +1,649 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-05 02:17:20_
-_本檔包含 3591 則快訊，約 716522 字_
+_更新時間：2026-06-05 03:29:25_
+_本檔包含 3589 則快訊，約 716706 字_
+
+---
+
+### 2026-05-30 06:36:08  #國際
+
+【日媒：少子化和老齡化不斷加劇，日本人口5年下降300多萬】據日本共同社29日報道，日本總務省當天公佈的人口資料顯示，截至去年10月1日，包括外國人在內的日本總人口為1.2305億，連續15年下降。最新的日本總人口較2020年減少約309.7萬，降幅為2.5%，減少人數與降幅均創歷史新高。（環球網）
+
+---
+
+### 2026-05-30 06:35:47  #國際
+
+以色列北部拉響紅色警報。
+
+---
+
+### 2026-05-30 06:35:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Rises by 1.14% — Top commodity gainers are Lithium Carbonate (1.14%) and Gold (1.02%).
+
+---
+
+### 2026-05-30 06:33:28  #公司 #國際
+
+【美媒：中國產電動汽車“重返”加拿大】據彭博社28日報道，隨著中加電動汽車關稅配額協議正式落地，中國製造的電動汽車正開始運抵加拿大。據知情人士透露，數百輛特斯拉上海超級工廠生產的汽車近日已按低關稅機制運抵加拿大。彭博社追蹤的航運資料顯示，今年5月初從上海出發駛向加拿大的“Glovis Treasure”號汽車運輸船，也載有少量中國產蓮花豪華車型。此外，比亞迪的一名顧問上個月向彭博社透露，比亞迪正計劃與當地合作伙伴在加拿大開設約20家銷售門店。本月早些時候，隸屬於浙江吉利控股集團的蓮花跑車在中國社交媒體釋出了一段18輛Eletre車型駛上滾裝船的影片。該車型在加拿大的起售價為11.99萬加元（1加元約合4.8元人民幣）。影片配文寫道：“創中國電動汽車出口新紀錄：從蓮花汽車全球智慧工廠下線到實力出海加拿大，讓世界看見中國智造的力量。”（環球網）
+
+---
+
+### 2026-05-30 06:33:16  #國際
+
+【普京：亞美尼亞若入歐盟 得先算算經濟賬】俄羅斯總統普京29日表示，亞美尼亞在歐盟和歐亞經濟聯盟之間作選擇，純粹是經濟問題。如果放棄歐亞經濟聯盟成員國身份，亞美尼亞將失去大量優惠待遇。據克里姆林宮網站訊息，普京當天在哈薩克首都阿斯塔納舉行的記者會上說，如亞美尼亞退出歐亞經濟聯盟，將在市場準入、勞動力流動、標準認證、關稅稅率、物流費率和能源價格等方面失去所有優待，並將在涉俄服務貿易和資本投資等方面蒙受損失。普京說，根據專家測算，這可能導致亞美尼亞損失逾14%的國內生產總值。（新華社）
+
+---
+
+### 2026-05-30 06:32:45  #其他
+
+蘋果董事長Levinson售出5萬股蘋果股票。
+
+---
+
+### 2026-05-30 06:31:51  #市場 #國際
+
+【法媒：印度的軟肋，暴露了】法國《世界報》網站5月27日發表題為《中東戰爭暴露印度經濟諸多短板》的文章，作者是卡蘿勒·迪特里希。文章摘編如下： 種種跡象表明，印度經濟狀況不佳。印度政府此前一再宣稱要成為全球第三大經濟體，如今卻不得不正視現實。國際貨幣基金組織（IMF）4月底下調其在全球主要經濟體中的排名，印度滑落至第六位，位列英國之後。此次排名下滑，主因是盧比匯率的歷史性暴跌。由於IMF在進行排名時採用美元作為衡量基準，盧比貶值直接導致印度以美元計價的國內生產總值（GDP）大幅縮水。自2月28日美以聯合對伊朗發動攻勢以來，印度盧比對美元匯率已下跌近5%。 作為世界第三大石油進口國，印度首當其衝，承受著霍爾木茲海峽被封鎖所引發的後果。局勢已然十分嚴峻，印度總理莫迪不斷髮表警示言論，呼籲民眾做出犧牲，特別是限制出國旅行以及減少食用油的消耗。 外界普遍認為，印度自5月初推出的一系列緊縮政策還將持續下去。為了削減因油氣價格飆升而不斷膨脹的進口賬單，新德里當局首先對黃金進口徵收關稅，隨後又不得不上調成品油零售價格——這是該國四年來首次採取此類舉措。 （參考訊息）
+
+---
+
+### 2026-05-30 06:30:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Drops by 2.29% — Top commodity losers are Germany Natural Gas THE (-2.29%), Natural Gas EU (-1.99%), Gasoline (-1.74%), Crude Oil WTI (-1.28%) and Brent Crude Oil (-1.08%).
+
+---
+
+### 2026-05-30 06:30:12  #公司 #國際
+
+【日本公司釋出調查報告：近九成在華日企“沒有退出中國市場計劃”】受國際局勢與市場環境變化等因素影響，日本媒體高度關注日企“在華戰略調整”動向。為此，專注於為跨境企業在華業務提供支援服務的日本All Will公司28日釋出“日企在華市場戰略調查報告”。調查結果顯示：在中國市場銷售產品的日本企業中，近九成的海外業務經理表示，他們“沒有退出中國市場的計劃”。資料顯示，39.4%的受訪者表示“計劃維持目前的業務規模”，29.1%的受訪者表示“計劃縮小業務規模”，20.9%的受訪者“計劃擴大業務規模”，僅有9.7%的受訪者“計劃退出中國市場”。（環球網）
+
+---
+
+### 2026-05-30 06:29:50  #國際
+
+美國向貿易法院提交檔案，披露將就關稅退款裁決提起上訴的計劃。
+
+---
+
+### 2026-05-30 06:29:33  #國際
+
+美國將就法官要求大範圍退還特朗普時期關稅的裁決提起上訴。
+
+---
+
+### 2026-05-30 06:26:48  #國際
+
+【特朗普正式承認美國衛生部近期針對兒童疫苗做出的一項科學評估結果】白宮表示，美國總統特朗普簽署了一項行政命令，正式承認美國衛生與公眾服務部（HHS）近期針對兒童疫苗做出的一項科學評估結果，並將其作為聯邦政府的指導方針。根據該法令的文字顯示，該命令指示美國疾病控制與預防中心（CDC）及其免疫實踐諮詢委員會（ACIP）對衛生與公眾服務部的評估結果以及相關臨床資料進行審查，以此來更新針對兒童和青少年的疫苗接種日程表。
+
+---
+
+### 2026-05-30 06:21:32  #國際
+
+白宮官員：白宮戰情室會議已結束，整場會議時長約兩小時。特朗普總統只會達成有利於美國、且不觸碰其底線的協議。伊朗絕對不能擁有核武器。
+
+---
+
+### 2026-05-30 06:15:13  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Indian Rupee Increases by 0.99% — Top currency gainers are Indian Rupee (0.99%), New Zealand Dollar (0.91%), Swiss Franc (0.38%) and Euro (0.07%). Biggest losers are South Korean Won (-0.74%), Mexican Peso (-0.25%) and Dollar Index (-0.05%). Meanwhile, British Pound and Japanese Yen were little changed.
+
+---
+
+### 2026-05-30 06:14:47  #國際
+
+美國太空軍在火箭爆炸事件後仍繼續支援藍色起源。
+
+---
+
+### 2026-05-30 06:14:28  #公司 #國際
+
+美國太空軍授予藍色起源公司國家偵察局任務的未來發射合同。
+
+---
+
+### 2026-05-30 06:11:41  #國際
+
+美國國務卿馬可·魯比奧宣佈，敘利亞問題特使湯姆·巴拉克的頭銜即將到期，但他將繼續擔任美國駐土耳其大使。
+
+---
+
+### 2026-05-30 06:09:48  #國際
+
+美國地質調查局：大西洋中脊中部發生5.2級地震。
+
+---
+
+### 2026-05-30 06:08:10  #公司
+
+【英偉達微軟神秘預告】北京時間5月30日凌晨，微軟和英偉達幾乎同時在社交媒體上為一款即將於下週亮相的神秘新品造勢。 微軟執行副總裁、Windows和Surface硬體部門負責人帕萬·達武魯裡（Pavan Davuluri）釋出了一張疑似曲面屏邊緣的照片，配文稱“為開發者準備的新品即將到來”，期待與大家在下週的Build大會上見面。  與此同時，Windows和英偉達Geforce的官方賬號在同一時刻釋出了一模一樣的帖子，其中的內容相對淺顯易懂。
+
+---
+
+### 2026-05-30 06:06:23  #國際
+
+【美國在加勒比地區部署約1300名海軍陸戰隊員】當地時間29日，美國第24海軍陸戰隊遠征部隊通報，該部隊約1300名海軍陸戰隊員及相關人員已完成部署，接替此前執行任務的第22遠征部隊在加勒比地區執行任務。針對此次部署，美軍南方司令部已明確表示，該行動旨在威懾“敵對國家行為體”並瓦解那些有國家支援的販毒網路。（央視新聞）
+
+---
+
+### 2026-05-30 06:04:02  #國際
+
+【美國南方司令部司令與古巴軍方高階領導人會面】當地時間5月29日，美國南方司令部發表宣告表示，美國南方司令部司令弗朗西斯·多諾萬當日在古巴關塔那摩灣海軍基地的周邊區域，會見了古巴革命武裝力量部副部長兼總參謀長羅伯託·萊格拉·索托隆戈以及古巴軍方其他高階領導人，雙方就行動安全事務進行了簡短交流。此外，多諾萬還率隊對該海軍基地的周邊安全狀況進行了評估，並與基地官員探討了部隊防護、官兵及其家屬的安全保障，以及作戰戰備等相關議題。（央視新聞）
+
+---
+
+### 2026-05-30 06:03:41  #國際
+
+巴西財長就美國針對巴西黑幫作出的制裁決定表態：國家風險可能上升，外國直接投資或受威脅。
+
+---
+
+### 2026-05-30 06:02:53  #宏觀 #國際
+
+巴西財政部長就美國針對巴西黑幫的決定表態：此舉可能在多個領域產生宏觀經濟影響。
+
+---
+
+### 2026-05-30 06:02:19  #國際
+
+【美國法官裁定將特朗普名字從肯尼迪中心移除】美國哥倫比亞特區聯邦地區法院法官29日裁定將美國總統特朗普的名字從肯尼迪表演藝術中心移除，以及中止該中心關閉兩年以進行翻修的計劃。2025年12月，白宮宣佈肯尼迪中心更名為“特朗普-肯尼迪中心”。這一更名舉動遭到美國民主黨和肯尼迪家族強烈反對。俄亥俄州民主黨籍聯邦眾議員、肯尼迪中心董事會成員喬伊絲·貝蒂向法院提起訴訟，要求撤銷更名決定並移除特朗普的名字。今年2月，特朗普在社交媒體上宣佈，“特朗普-肯尼迪中心”將於7月起暫停演出運營大約兩年時間，以便進行翻新建設。哥倫比亞特區聯邦地區法院法官克里斯托弗·庫珀29日裁定，未經國會立法，不得更改肯尼迪中心名稱。庫珀在長達94頁的裁決書中寫道：“肯尼迪中心的組織章程明確規定，該中心應以肯尼迪總統的名字命名，董事會單方面不得更改其正式名稱或公共紀念館名稱。國會賦予肯尼迪中心這個名字，也只有國會才能更改它……法院認為，董事會單方面將肯尼迪中心更名在特朗普總統名下，超越其法定許可權”。（新華社）
+
+---
+
+### 2026-05-30 06:01:43  #國際
+
+美國克拉琳達區域醫療中心：預計於2025年12月15日前後，本中心發現網路內部分資料可能曾遭到未授權訪問。
+
+---
+
+### 2026-05-30 06:01:35  #國際
+
+白宮：特朗普的指令要求美國疾病控制與預防中心（CDC）及其免疫實踐諮詢委員會（ACIP）審查美國衛生與公眾服務部（HHS）的科學評估報告。
+
+---
+
+### 2026-05-30 06:01:27  #國際
+
+美國克拉琳達區域醫療中心發生資料安全事件，或危及部分個人資料的隱私安全。
+
+---
+
+### 2026-05-30 06:00:59  #國際
+
+白宮：特朗普簽署行政令，承認美國衛生與公眾服務部近期關於兒童疫苗的科學評估可作為聯邦政府的指導性參考資料。
+
+---
+
+### 2026-05-30 05:58:51  #國際
+
+【美伊各執一詞：特朗普“最終決定”未落地 伊朗駁斥“真假參半”】當地時間5月29日，圍繞美伊諒解備忘錄的博弈持續升溫。美國總統特朗普重申強硬立場並稱將“作出最終決定”，會後卻被曝無果而終；而伊朗方面則堅決否認達成協議，指美方言論“真假參半”，並重申對霍爾木茲海峽的管控權。專家指出，雙方各執一詞並非溝通不暢，而是旨在爭奪談判道德高地的“戰略模糊”博弈，這一僵局恐怕將持續到最後一刻。（央視新聞）
+
+---
+
+### 2026-05-30 05:57:53  #國際
+
+特朗普支援邁克·馬澤伊競選俄克拉荷馬州州長。
+
+---
+
+### 2026-05-30 05:56:54  #公司
+
+【百勝據悉正與LongRange就出售必勝客進行獨家談判】據知情人士透露，百勝餐飲集團正在與LongRange Capital就出售必勝客連鎖業務進行獨家談判。其中一位知情人士表示，LongRange近日與百勝進入獨家談判階段，擊敗了包括Sycamore Partners等其他競標者。知情人士透露，雙方正在就一項潛在協議進行深入磋商，該協議可能在幾周內達成。由於涉及未公開資訊，知情人士要求匿名。他們補充說，目前尚無法保證最終能夠達成協議。
+
+---
+
+### 2026-05-30 05:56:18  #國際
+
+巴西財長：巴西將與美國展開對話。
+
+---
+
+### 2026-05-30 05:56:08  #宏觀 #國際
+
+巴西財長：在美國出臺相關舉措後，巴西正考慮為本國企業提供援助。
+
+---
+
+### 2026-05-30 05:51:13  #國際
+
+白宮：特朗普已簽署備忘錄，批准國家安全投資領域工作人員的關鍵崗位薪酬授權。
+
+---
+
+### 2026-05-30 05:48:07  #國際
+
+特朗普支援帕姆·埃維特競選南卡羅來納州州長。
+
+---
+
+### 2026-05-30 05:45:47  #國際
+
+白宮：特朗普簽署行政令，取消了准入聯邦土地的過時限制。
+
+---
+
+### 2026-05-30 05:44:18  #市場 #國際
+
+週五（5月29日）紐約尾盤，美國10年期基準國債收益率跌1.18個基點，報4.4355%，本週（四個交易日）累跌12.23個基點，5月份累計上漲6.48個基點，整體衝高回落、交投於4.3140%-4.6853%區間、5月19日北京時間22:00過後逐步回撤。兩年期美債收益率跌1.64個基點，報4.0041%，本週累跌10.62個基點，5月份累漲13.51個基點，整體交投於3.8220%-4.1423%區間。
+
+---
+
+### 2026-05-30 05:41:20  #市場
+
+【巴西資產大跌拖累拉美市場，美伊和平談判成焦點】5月29日，大多數拉丁美洲資產走勢趨緩。投資者目前正死死盯住潛在的美伊和平協議，在由巴西領跌的拉美本土市場頹勢背景下，艱難權衡著地緣政治帶來的謹慎樂觀情緒。MSCI拉美貨幣指數基本持平，但全月有望錄得微幅上漲。相比之下，更廣泛的拉美股票指數則邁向2024年底以來最慘烈的單月下挫。巴西雷亞爾兌美元匯率基本持平，但全月表現已註定創下今年以來最差的單月成績。巴西基準股指（Bovespa）當日同樣下滑0.7%，為其鎖定2023年2月以來最陡峭的單月暴跌。
+
+---
+
+### 2026-05-30 05:36:36  #國際
+
+美國國家航空航天局（NASA）簽署約翰遜航天中心基礎設施建設合同。
+
+---
+
+### 2026-05-30 05:36:25  #公司
+
+英國石油董事長在罷免事件前與董事兼前執行長發生爭執。
+
+---
+
+### 2026-05-30 05:34:41  #公司 #國際
+
+各大航空公司呼籲特朗普政府不要限制國際航班。
+
+---
+
+### 2026-05-30 05:34:10  #其他
+
+墨西哥4月份預算赤字為2208億墨西哥比索。
+
+---
+
+### 2026-05-30 05:33:52  #公司 #國際
+
+【NBC：美國尚未證實伊朗在霍爾木茲海峽佈雷 】據美國全國廣播公司(NBC)援引兩名美國官員和一名知情人士報道，經過持續搜尋，美國軍方尚未證實伊朗在霍爾木茲海峽佈雷。知情人士表示，軍方搜查發現了一些可能為水雷的物體，但尚未有任何被確認。該知情人士說：“如果說有什麼的話，威脅遠低於我們此前的擔憂。”
+
+---
+
+### 2026-05-30 05:29:49  #國際
+
+特朗普：在我們不久前介入之前，肯尼迪中心這些年來已經虧損了數億美元。
+
+---
+
+### 2026-05-30 05:28:34  #國際
+
+美國軍方：與古巴軍方高階領導人的會面僅就作戰安全事務進行了簡短交流。
+
+---
+
+### 2026-05-30 05:28:03  #國際
+
+美國軍方：美軍指揮官多諾萬將軍週五與古巴軍方高階領導人舉行了會晤。
+
+---
+
+### 2026-05-30 05:26:46  #其他
+
+委內瑞拉代總統：啟用油氣資料中心，旨在提升石油產量。
+
+---
+
+### 2026-05-30 05:24:26  #公司 #國際
+
+【韓國鉅額AI獎金引發科技財富分配大論戰】三星電子超級工廠所在地韓國平澤市（二線港口城市）發生的一起勞資糾紛，凸顯了全球日益關注的核心議題：在人工智慧（AI）熱潮席捲全球的背景下，各方應如何分配其帶來的巨大利益。此前，由於員工威脅要舉行罷工，全球供應鏈一度面臨被切斷的風險。為了化解這場危機，這家晶片巨頭最終決定向其儲存晶片部門的部分全職員工發放高達40萬美元（約合三星平均年薪的四倍）的鉅額獎金。但是，這種分級的支付體系卻引發了新一輪的矛盾，導致部分員工產生了強烈的被剝奪感。這一事件也是全球關於AI對就業市場衝擊及如何公平分配技術紅利的大辯論縮影；目前，韓國及其他國家的政策制定者正在探索諸如“公民紅利”或主權財富基金等解決方案。
+
+---
+
+### 2026-05-30 05:23:34  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Weakens on Soft GDP Data — The Canadian dollar weakened past 1.378 per USD in late May as weak economic data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline and highlighting slowing domestic momentum. The data strengthened expectations that the BoC will keep interest rates unchanged, with markets broadly anticipating a hold at the June 10 meeting. Meanwhile, the Bank of Canada’s preferred core inflation measures slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The figures reinforced the central bank’s view that energy-driven inflation may prove temporary and further reduced the likelihood of additional rate hikes, weighing on the loonie.
+
+---
+
+### 2026-05-30 05:23:13  #國際
+
+特朗普：已指示商務部與國會作出必要安排，允許該機構完成全面徹底的交接。
+
+---
+
+### 2026-05-30 05:22:57  #國際
+
+特朗普：將與國會合作，把肯尼迪中心交還國會管理。
+
+---
+
+### 2026-05-30 05:17:47  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 0
+
+Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance.
+
+---
+
+### 2026-05-30 05:16:52  #國際
+
+【全球發展倡議主題研討會聚焦服務貿易促進高質量發展】中國常駐日內瓦代表團28日在瑞士日內瓦萬國宮舉辦“大力推動服務貿易，促進全球發展合作”全球發展倡議主題研討會。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德出席並致辭。來自聯合國貿易和發展會議等國際組織、各國常駐日內瓦代表團、有關研究機構和企業等140餘人出席。賈桂德表示，服務貿易是推動經濟轉型、支援發展中國家融入全球價值鏈的重要力量，是中方踐行全球發展倡議的重要領域。中方願依託日內瓦多邊平臺，推動全球發展倡議走深走實，圍繞服務貿易規則制定、數字創新、綠色轉型等與各方加強合作。（新華社）
+
+---
+
+### 2026-05-30 05:15:22  #市場
+
+富時A50期指連續夜盤收跌0.01%，報15762點。
+
+---
+
+### 2026-05-30 05:13:27  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance.
+
+---
+
+### 2026-05-30 05:12:59  #公司 #市場
+
+百勝餐飲集團盤後股價上漲3%，此前有報道稱其正就出售必勝客進行談判。
+
+---
+
+### 2026-05-30 05:10:46  #國際
+
+美國白宮管理與預算辦公室簽署函件，白宮更新《A-136 通告》。
+
+---
+
+### 2026-05-30 05:10:18  #公司
+
+百勝集團正就將必勝客出售給朗蘭奇集團展開獨家洽談。
+
+---
+
+### 2026-05-30 05:09:35  #國際
+
+美國國防部長赫格塞斯與泰國對口官員討論了繼續合作事宜。
+
+---
+
+### 2026-05-30 05:09:22  #市場
+
+週五（5月29日）紐約尾盤，標普500股指期貨最終漲0.18%，道指期貨漲0.66%，納斯達克100股指期貨漲0.33%。羅素2000股指期貨跌0.69%。
+
+---
+
+### 2026-05-30 05:09:12  #國際
+
+一名官員表示，美國多諾萬將軍與古巴軍官就作戰安全相關問題進行了簡短討論。
+
+---
+
+### 2026-05-30 05:09:02  #國際
+
+一名美國官員透露，美軍南方司令部司令多諾萬上將週五在關塔那摩灣美國海軍基地外圍與古巴軍方高階將領舉行了會面。
+
+---
+
+### 2026-05-30 05:07:53  #國際
+
+美國國防部長赫格塞斯會見了泰國國防部長。
+
+---
+
+### 2026-05-30 05:06:15  #公司 #市場
+
+巴塔哥尼亞黃金公司：2026年第一季度，Cap Oeste殘礦運營共產出390盎司黃金當量，售出432盎司黃金當量。
+
+---
+
+### 2026-05-30 05:04:16  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+BRL Strengthens Slightly on Strong GDP and Easing Oil Prices — The Brazilian real strengthened slightly to 5.03 per USD in late May as the US dollar softened and oil prices retreated. Signs emerged that the US and Iran may be closer to a formal agreement, with reports indicating that both countries have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz eased global inflation concerns and weighed on the dollar. Domestically, stronger-than-expected GDP data reinforced expectations that the BCB will maintain a hawkish stance. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from 0.3% in Q4 2025 and marking the strongest expansion in a year. The data supported expectations of higher-for-longer interest rates, boosting the attractiveness of Brazilian assets and underpinning demand for the real.
+
+---
+
+### 2026-05-30 05:03:28  #國際
+
+美國宣佈依據301 條款，對越南智慧財產權相關政策啟動調查。
+
+---
+
+### 2026-05-30 05:03:11  #國際
+
+美國貿易代表辦公室宣佈對越南展開301條款調查。
+
+---
+
+### 2026-05-30 05:03:04  #其他
+
+【塞爾維亞專家：期待塞中各領域合作邁向新高度】塞爾維亞總統武契奇對中國進行國事訪問期間，兩國達成廣泛共識並簽署多項合作檔案。對此，貝爾格萊德大學政治經濟學教授德拉加娜·米特羅維奇在接受總檯記者採訪時表示，塞中雙方發表的聯合宣告為兩國關係的未來指明瞭方向，簽署的多項合作檔案將有力推動雙邊各領域合作發展，期待兩國全面戰略伙伴關係邁向新高度。（央視新聞）
+
+---
+
+### 2026-05-30 04:59:43  #公司 #市場 #國際
+
+【5月30日美股成交額前20：戴爾獲美軍大單股價飆升逾30%】週五美股成交額第9名戴爾收高32.76%，成交173億美元。戴爾因AI伺服器業務爆發式增長及獲得一份97億美元的美國軍方新合同，股價暴漲。其一季度財報顯示，總營收達438億美元，同比增長88%，其中AI伺服器營收達161億美元，同比飆升757%。公司已將全年AI業務營收預期從500億上調至600億美元。這份為期五年的軍方合同旨在升級國防及情報機構的通訊系統，預計每年可節約開支約4.22億美元。
+
+---
+
+### 2026-05-30 04:59:41  #市場
+
+【現貨黃金週五漲1%，5月份累跌超1.6%】週五（5月29日）紐約尾盤，現貨黃金漲1.05%，報4542.39美元/盎司，整體持續走高、北京時間22:51出現一波加速上漲行情，本週累漲0.74%、V形反轉，5月份累跌1.62%，5月6-14日高位窄幅震盪、12日漲至4773.53美元，5月15-26日回撤至4550美元一線，5月28日跌至4366.74美元。COMEX黃金期貨本週累漲0.40%，報4574.50美元/盎司，5月份累跌2.27%。現貨白銀跌0.32%，報75.3636美元/盎司，本週累跌0.18%，5月份累漲2.23%。COMEX白銀期貨本週累跌0.73%，報75.640美元/盎司。COMEX銅期貨本週累漲0.14%，報6.3880美元/磅。
+
+---
+
+### 2026-05-30 04:57:56  #市場
+
+MSCI發展中國家（新興市場）股票指數漲1.6%，創歷史新高，5月份累計上漲9.5%。MSCI新興市場外匯指數漲0.2%，連續八個交易日走高、創2024年7月份以來最長連漲天數。
+
+---
+
+### 2026-05-30 04:57:40  #其他
+
+Kraken交易所：合格客戶將可交易數字資產，涵蓋比特幣、以太坊、索拉納、瑞波幣、卡爾達諾、鏈聯、狗狗幣、萊特幣與雪崩幣。
+
+---
+
+### 2026-05-30 04:56:57  #公司
+
+CoreWeave首席財務官Agrawal出售公司5508股股票。
+
+---
+
+### 2026-05-30 04:54:08  #其他
+
+英偉達董事Dabiri出售英偉達625股股票。
+
+---
+
+### 2026-05-30 04:53:17  #公司
+
+沃爾瑪前執行長McMillon出售19416股沃爾瑪股份。
+
+---
+
+### 2026-05-30 04:51:47  #其他
+
+巴西電力監管機構對 6 月電價啟動黃色預警。
+
+---
+
+### 2026-05-30 04:51:40  #國際
+
+阿米戈液化天然氣專案：已獲得美國能源部要求的自由貿易協定（FTA）與非自由貿易協定（非FTA）出口許可，以及墨西哥液化天然氣出口批准。
+
+---
+
+### 2026-05-30 04:50:26  #國際
+
+美國貿易代表辦公室： 《美墨加協定》 相關談判將於6月16日至17日在華盛頓繼續舉行；第三輪談判將於7月20日當週在墨西哥城舉辦。
+
+---
+
+### 2026-05-30 04:48:57  #國際
+
+加拿大蒙特利爾銀行（BMO）從瑞銀（UBS）挖來戴維·德斯科託，領導其資本市場與商業銀行部門的美國併購團隊。
+
+---
+
+### 2026-05-30 04:48:49  #國際
+
+美國貿易代表辦公室：談判代表就汽車原產地規則、鋼鐵鋁以及經濟安全相關優先議題展開了討論。
+
+---
+
+### 2026-05-30 04:48:40  #國際
+
+美國尚未證實伊朗在霍爾木茲海峽佈雷。
+
+---
+
+### 2026-05-30 04:47:09  #國際
+
+美國貿易代表辦公室：美國與墨西哥完成《美墨加協定》聯合審議首輪雙邊談判。
+
+---
+
+### 2026-05-30 04:46:56  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls as Strong GDP Boosts Hawkish BCB Bets — The Ibovespa lost 0.7% to close at 173,787 on Friday as stronger-than-expected GDP data reinforced the view that the current cycle of Selic rate cuts may be limited. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from a 0.3% expansion in Q4 2025 and marking the strongest quarterly growth since Q1 2025. The data strengthened expectations of a hawkish BCB, pushing bond yields higher and weighing on equities. Banks led losses, with Bradesco down 1.1% and Banco do Brasil shedding 1.5%. Petrobras fell 1.2% as oil prices retreated after a deal to extend the US-Iran ceasefire renewed hopes for an end to the Middle East conflict. Vale also lost 1.4% despite higher iron ore prices.
+
+---
+
+### 2026-05-30 04:45:57  #市場 #國際
+
+Kraken即將推出首個受美國商品期貨交易委員會（CFTC）監管、面向美國交易者的永續期貨產品。
+
+---
+
+### 2026-05-30 04:43:39  #國際
+
+【美財長貝森特暗示對伊制裁可能調整 取決於談判進展】美國財長斯科特·貝森特暗示，特朗普政府可以移除對伊朗的部分制裁，取決於當前與德黑蘭方面對峙局勢的進展情況。當被問及美國是否會維持對伊朗的金融和經濟封鎖時，貝森特回答說：“我們拭目以待。”他週五在加州Simi Valley舉行的里根國家經濟論壇發表演講後的問答環節中表示。貝森特表示：“任何措施的解除都將循序漸進”。他補充稱，任何包含放鬆制裁的協議都將包含“伊朗政權必須達到的里程碑”。他還表示，如果不能很快達成協議，政府可能加大制裁。
+
+---
+
+### 2026-05-30 04:40:59  #其他
+
+剛果民主共和國衛生部長：埃博拉疑似病例數已增至1028例。
+
+---
+
+### 2026-05-30 04:38:17  #其他
+
+穆迪關於馬裡的觀點：預計安全域性勢將持續極度脆弱。
+
+---
+
+### 2026-05-30 04:37:13  #市場
+
+【海外儲能需求崛起 鋰價傳導機制整體順暢】在衝上20.988萬元/噸的高點後，近期鋰價有所回撥。不過，截至5月29日收盤，鋰價年內漲幅仍超過42%。記者採訪獲悉，下游儲能需求持續火爆，為鋰價提供了堅實的基本面支撐。頭部儲能電池企業已處於滿產狀態，機構預計2026年全球儲能需求增速將超過50%。在鋰價高企的背景下，產業鏈透過價格聯動、下游直採等機制整體實現了順暢傳導，但中小廠商仍因議價能力不足而承受區域性摩擦。終端車企則已陸續提價，形成了成本傳導的閉環。（上證報）
+
+---
+
+### 2026-05-30 04:36:52  #其他
+
+穆迪調整馬裡主權評級展望至負面，維持CAA2評級不變。
+
+---
+
+### 2026-05-30 04:36:08  #公司
+
+【不管賺了賠了 內幕交易一律追責到底 】近日，浙江證監局披露了兩起內幕交易行政處罰案例，均指向利用內幕資訊提前減持避損行為。 兩起案件均圍繞上市公司財務資料更正這一內幕資訊展開。法定內幕資訊知情人黃寶安，獲悉資訊後快速賣出股票，避損約21.79萬元，最終被沒收違法所得並處70萬元罰款；高磊與知情人聯絡，控制私募基金賬戶拋售相關股票，交易避損金額876萬元，還以諮詢費名義非法獲利，監管沒收其全部違法所得，並處150萬元罰款，涉事私募基金主體同步被追責。 長期以來，不少投資者存在一種認知誤區，認為靠內幕訊息賺錢才是違法，提前賣出少虧不算事。這是對法律的嚴重誤讀。我國《證券法》明確禁止內幕交易，並未區分獲利型與避損型，二者均在嚴厲打擊範疇之內。（證券時報）
+
+---
+
+### 2026-05-30 04:35:51  #其他
+
+標普預計俄烏衝突不會升級至北約領土。
+
+---
+
+### 2026-05-30 04:35:20  #市場
+
+【密集遞表 新三板企業轉戰港股掀小高潮】5月27日，曾深耕新三板的國內頭部智慧家庭服務商華曦達登陸港交所。截至5月29日收盤，華曦達股價較發行價大漲89.02%，成為年內新三板轉板港股的標杆案例。 2026年以來，新三板企業赴港上市熱度不減，尤其在5月迎來多家企業密集遞表，包括金龍電機、華成電力、新榜資訊等。（證券時報）
+
+---
+
+### 2026-05-30 04:35:13  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.72% Higher — The Dow Jones Index gained 363 points or 0.72 percent on Friday to close at 51032 points. Gains were led by IBM (12.90%), Salesforce (8.46%) and Microsoft (5.45%). Biggest losers were Walmart (-2.61%), J&J (-2.41%) and Nike (-2.41%).
+
+---
+
+### 2026-05-30 04:34:37  #其他
+
+穆迪評級確認烏干達B3評級，維持穩定展望。
+
+---
+
+### 2026-05-30 04:34:21  #公司
+
+【逾百家機構調研強一股份 液冷板塊受關注】本週（5月25日至29日），上證指數跌1.08%，收於4068.57點，深證成指跌0.14%，收於15575.13點，創業板指本週收漲2.53%。 本週市場熱點眾多，科技板塊仍然備受關注。Wind資料顯示，本週共有約550家上市公司接受機構調研，光通訊、液冷、PCB（印製電路板）等概念板塊較受機構關注。強一股份、海泰新光、冰輪環境、滬電股份等熱點股接受較多機構調研。  （證券時報）
+
+---
+
+### 2026-05-30 04:33:47  #其他
+
+【需求旺盛業績亮眼 AI產業鏈高增長有後勁】AI大模型的爆發，催生出海量計算、儲存與互聯等需求，相關概念股成為資本市場的寵兒。不過，關於AI產業鏈是否存在泡沫的討論亦此起彼伏。在近日舉行的一場AI產業鏈研討會上，多位業內人士均認為，當前AI產業鏈具有業績高增長支撐，即便存在階段性過熱的跡象，產業高景氣度的趨勢也不會改變。（證券時報）
+
+---
+
+### 2026-05-30 04:33:18  #其他
+
+【險資密集加倉紅利股 繼續看好中國股市前景】今年以來，紅利股迎來險資集中增持。透過增配紅利資產提升股息貢獻，成為險資提升淨投資收益、對沖利率風險和穩固財務表現的重要路徑。記者在採訪中瞭解到，雖然權益配置進入歷史高位，險資依然看好中國股市前景，“高股息底倉+成長彈性賽道”的配置策略仍是保險行業較為有效的配置思路。（證券時報）
+
+---
+
+### 2026-05-30 04:33:12  #宏觀
+
+墨西哥財政部：4月財政餘額為逆差371.479億比索。
+
+---
+
+### 2026-05-30 04:32:17  #其他
+
+房地美：4月份抵押貸款相關投資組合的未償本金總餘額增加約20億美元。
+
+---
+
+### 2026-05-30 04:32:12  #其他
+
+房地美：4月份多戶住宅貸款拖欠率維持不變，為0.43%。
+
+---
+
+### 2026-05-30 04:31:51  #其他
+
+週五（5月29日），美股超大規模雲服務商（Hyperscalers）收漲1.28%，報105.80點，5月份累漲7.11%。
+
+---
+
+### 2026-05-30 04:31:40  #其他
+
+穆迪將EQT的評級展望調整為正面，並確認其Baa3評級。
+
+---
+
+### 2026-05-30 04:31:34  #資料
+
+房地美：4月抵押貸款組合總額按年率計算增長1.4%。
+
+---
+
+### 2026-05-30 04:31:27  #國際
+
+房地美：美國單戶住宅貸款逾期率從3月的0.60%降至4月的0.59%。
+
+---
+
+### 2026-05-30 04:31:00  #公司
+
+【獲准數量20只，融資規模279億元 可轉債年內發行高峰將至】6月1日，盛德轉債將啟動網上發行。這是上市公司年報分紅落定後，首隻啟動發行的可轉債。通合轉債緊隨其後，將在6月2日發行。資料顯示，目前獲得發行批文的可轉債數量已達20只，融資規模高達279億元。業內人士表示，目前可轉債市場仍處於供需錯配階段，6月有望迎來今年最大一波發行。其中，備受關注的中科曙光80億元可轉債發行專案已獲上交所稽核透過。（上證報）
+
+---
+
+### 2026-05-30 04:30:38  #公司
+
+【關注技術迭代與海外擴產 5月外資機構調研近150家A股公司】Wind資料顯示，5月，近150家A股上市公司迎來外資機構調研。這些公司涉及電子元件、電氣部件與裝置、積體電路等行業。本輪外資調研邏輯為：一方面，緊盯中國科創產業景氣度、核心技術迭代節奏，挖掘產業升級帶來的投資機會；另一方面，重點考察海外產能建設、跨境合作進展等情況，瞭解A股公司全球化成長新空間，梳理科技企業長期增長脈絡。（上證報）
+
+---
+
+### 2026-05-30 04:27:42  #市場
+
+福特汽車5月份累計上漲44.45%，創2009年4月份以來最大單月漲幅，報17.45美元。
 
 ---
 
@@ -21005,659 +21647,5 @@ U.S. Treasury updates Iran-related sanctions list.
 ### 2026-05-29 03:33:17  #其他
 
 空客與加拿大國防工業核心領域的多家戰略合作伙伴簽署協議。
-
----
-
-### 2026-05-29 03:26:45  #MKT News
-
-BARKIN: Some AI-related sectors are showing inf pressures.
-
----
-
-### 2026-05-29 03:25:31  #央行 #國際
-
-美聯儲巴爾金：人工智慧領域投資正對中性利率形成壓力。
-
----
-
-### 2026-05-29 03:25:25  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-SHOIGU told Russian media on the 28th that Russian armed forces' strike operations targeting Kyiv may be launched at any time.
-
----
-
-### 2026-05-29 03:24:29  #央行 #國際
-
-美聯儲巴爾金：部分人工智慧相關領域顯現通脹壓力。
-
----
-
-### 2026-05-29 03:20:52  #其他
-
-市場訊息：星巴克計劃加大人工智慧應用，提升運營效率。 將把 AI 使用情況納入技術崗位員工的獎金考核。
-
----
-
-### 2026-05-29 03:20:15  #國際
-
-【俄官員：針對基輔的打擊行動“隨時可能展開”】俄羅斯聯邦安全會議秘書紹伊古28日對俄媒表示，俄武裝部隊針對烏克蘭首都基輔的打擊行動“隨時可能展開”。紹伊古稱，俄方的所有行動均公開透明，俄方對此從不遮掩，“部分行動”還會提前發出預警。俄方已通知各國大使撤離基輔，這一警告“態度嚴肅、用意明確”，相關行動確實隨時可能實施。（新華社）
-
----
-
-### 2026-05-29 03:18:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish
-
-【MUSALEM Says He Favored Dropping 'Easing Bias' From Fed Policy Statement】MUSALEM said on Thursday that, like several Federal Reserve policymakers last month, he favored removing the 'easing bias' phrase from the post-meeting statement to preserve scope for rate increases. He said he supported this rate decision but that the 'easing bias' no longer fits the economic outlook and risk balance.
-
----
-
-### 2026-05-29 03:17:52  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7753元，較週三夜盤收盤漲40點。成交量395.49億美元。
-
----
-
-### 2026-05-29 03:15:14  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-BARKIN (Federal Reserve) said strong corporate earnings reduce incentives for layoffs.
-
----
-
-### 2026-05-29 03:12:35  #MKT News
-
-【UN Spokesperson Says Secretary-General's Office Remains Open To Israeli Delegation】After the UN recently added Israeli entities to a list of parties responsible for sexual violence in conflict, Israel's UN ambassador Danny Danon said on the 28th that Israel would "no longer be in contact" with the Secretary-General's office and cancelled planned visits by UN officials. At a regular briefing, Secretary-General spokesman Stephane Dujarric said the Secretary-General's office remains open to Israeli representatives.
-
----
-
-### 2026-05-29 03:12:17  #央行 #國際
-
-美聯儲巴爾金：  企業盈利向好，裁員意願不強。
-
----
-
-### 2026-05-29 03:10:33  #國際
-
-【聯合國秘書長發言人：秘書長辦公室仍然向以色列代表開放】針對聯合國近日將以色列相關機構列入“衝突中實施性暴力行為方”名單，以色列常駐聯合國代表丹尼·達農28日稱，以色列與聯合國秘書長辦公室“不再聯絡”，並取消安排聯合國官員訪以的計劃。秘書長發言人迪雅裡克當日在例行記者會上對此回應稱，秘書長的辦公室大門仍然向以色列代表開放。迪雅裡克表示，從秘書長的角度來說，無論在象徵意義上還是實際意義上，他的大門仍然向以色列代表開放，就像對其他會員國和觀察員國一樣。秘書長希望能與所有在聯合國大樓裡的代表進行對話和交流，包括所有獲准派駐聯合國的代表。（央視新聞）
-
----
-
-### 2026-05-29 03:07:54  #國際
-
-【伊朗媒體：伊美“諒解備忘錄”文字尚未定稿 】據伊朗媒體28日報道，一名接近伊朗談判團隊的訊息人士否認了部分西方媒體關於伊朗與美國“諒解備忘錄”文字已最終敲定的說法。該訊息人士向塔斯尼姆通訊社表示，有關文字已敲定、“僅等待雙方正式宣佈”的說法“不符合事實”，相關檔案截至目前“尚未最終確定”。訊息人士稱，伊朗方面尚未向巴基斯坦調解方正式確認文字已經敲定。該人士強調，如果協議文字最終敲定，伊方將正式通知巴方並向公眾公佈。在此之前，任何關於協議已最終完成的西方訊息源說法“均不具可信性”。（新華社）
-
----
-
-### 2026-05-29 03:07:13  #其他
-
-沃爾瑪：沃爾瑪 + 會員可享30 分鐘及以內配送服務，服務費 10 美元。
-
----
-
-### 2026-05-29 03:06:29  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-ICI: Money market fund assets rose to $7.785 trillion, the fourth consecutive week of growth.
-
----
-
-### 2026-05-29 03:04:02  #公司 #國際
-
-美國投資公司協會資料：貨幣市場基金規模增至 7.785 萬億美元，貨幣市場基金資產規模連續第四周增長。
-
----
-
-### 2026-05-29 03:03:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.6% at 24,995, trading 11 points below the cash index.
-
----
-
-### 2026-05-29 03:01:50  #宏觀 #國際
-
-【美財長：阿曼稱目前沒有計劃徵收霍爾木茲海峽通行費 】美國財政部長貝森特28日在白宮記者會上說，阿曼駐美大使當天上午同他通電話時說，阿曼目前沒有任何計劃要徵收霍爾木茲海峽通行費。（新華社）
-
----
-
-### 2026-05-29 03:00:02  #市場
-
-恒指期貨夜盤收漲0.61%，報24997.30點，低水8.86點。
-
----
-
-### 2026-05-29 02:58:02  #其他
-
-世界衛生組織：還推薦在本迪布焦病毒治療研究中，評估單克隆抗體與瑞德昔韋聯合療法。
-
----
-
-### 2026-05-29 02:57:47  #其他
-
-世界衛生組織：獨立專家建議，在邦迪布戈病毒的治療研究中，優先評估 MBP134、MAFTIVIMA、瑞德西韋。
-
----
-
-### 2026-05-29 02:54:31  #市場 #國際
-
-【城堡證券：美股陷入“緊張式看漲” 預計行情仍有上行空間】城堡證券的Scott Rubner表示，儘管美國股市過去兩個月已上漲超過10%，但可能還會繼續走高。這位城堡證券股票及股票衍生品策略主管表示，隨著地緣政治情緒改善、市場波動率維持低位，以及大型科技股持續領漲，那些在此前大部分反彈過程中保持謹慎的投資者被迫重新考慮倉位。Rubner週四在致客戶報告中寫道：“市場討論的焦點，越來越從下行保護轉向場外還有多少現金、下一批增量買家會來自哪裡，以及系統性資金流是否還能繼續推動這輪上漲。”
-
----
-
-### 2026-05-29 02:52:27  #MKT News #WTI #Impact bearish #Brent
-
-【Bessent: Sanctions Relief Depends On Iran's Nuclear Concessions】Bessent said any U.S. easing of sanctions or asset unfreezing for Iran would depend on whether Tehran meets core conditions set by the Trump administration. He called U.S.-Iran talks a “multi-layered agreement” and said nothing would be put on the table until Iran made explicit commitments. Any sanctions relief would be calibrated to Iranian concessions on nuclear issues, including whether Iran hands over highly enriched uranium. He did not directly say whether the U.S. would unfreeze assets or provide cash. Bessent added the Trump administration is tightening restrictions on Iran's aviation sector, calling Iranian airlines illegal entities and saying the U.S. will not allow them to operate normally.
-
----
-
-### 2026-05-29 02:51:55  #國際
-
-美國財長貝森特：在這款紀念建國 250 週年的 250 美元紙幣上印上現任美國總統肖像，我認為此舉並無不妥。
-
----
-
-### 2026-05-29 02:51:10  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【US Treasury Secretary Bessent Says TRUMP Will Not Accept 'Bad Iran Deal'】US Treasury Secretary Bessent said on May 28 that US and Iranian negotiating teams remain in talks, but TRUMP has set multiple "red lines" and will not accept a "bad deal." Bessent said TRUMP prefers a peaceful settlement and that current US actions are "defensive," but the administration will act if a peaceful agreement cannot be reached. TRUMP demands Iran hand over highly enriched uranium, forswear nuclear-weapon development, and restore free navigation through the Strait of Hormuz; Bessent said Oman told him it will not charge passage fees and warned countries that try to restrict navigation could face US sanctions.
-
----
-
-### 2026-05-29 02:50:31  #公司 #國際
-
-【貝森特：放鬆制裁取決於伊朗在核問題讓步程度】當被問及美國是否對伊朗解除部分制裁或解凍資產時，貝森特稱這將取決於伊朗是否滿足特朗普政府提出的核心條件。他說，美伊談判是一項“多層面的協議”，在伊朗明確作出相關承諾前，“任何事情都不會真正擺上桌面”。貝森特表示，任何制裁的放鬆都將與伊朗在核問題上的讓步程度相對應，包括是否移交高濃縮鈾。但他未直接回應美國是否會向伊朗解凍資金或提供現金支援。貝森特還表示，特朗普政府正繼續加強對伊朗航空體系的限制措施。他強調，伊朗航空公司“已經成為非法實體”，美國不會允許其繼續正常運營。（央視新聞）
-
----
-
-### 2026-05-29 02:50:19  #宏觀 #國際
-
-【美財長稱特朗普不會接受“糟糕的伊朗協議”】當地時間5月28日，美國財政部長貝森特在簡報會上表示，美國與伊朗談判團隊仍在持續磋商，但美國總統特朗普已明確劃定多項“紅線”，不會接受一項“糟糕協議”。貝森特表示，美國總統特朗普始終更傾向於達成和平協議，目前美國所有行動都屬於“防禦性質”，但若特朗普認為無法達成和平協議，美方也將作出相應決定。他說，特朗普要求伊朗必須移交高濃縮鈾、不得發展核武器，同時霍爾木茲海峽必須恢復自由開放航行。貝森特還透露，他當天已與阿曼駐美國大使通話，對方保證阿曼無意對霍爾木茲海峽徵收通行費。他警告稱，若相關國家試圖限制航行自由，可能面臨美國製裁。（央視新聞）
-
----
-
-### 2026-05-29 02:50:09  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Richmond Fed President Barkin, a 2027 FOMC voting member, will take part in a fireside chat at a conference hosted by Johns Hopkins Carey Business School in 10 minutes.
-
----
-
-### 2026-05-29 02:49:36  #國際
-
-美國職業棒球大聯盟球隊老闆正式提議設定薪資上限。
-
----
-
-### 2026-05-29 02:48:04  #市場
-
-布倫特原油期貨收於每桶93.71美元，下跌58美分，跌幅0.62%。
-
----
-
-### 2026-05-29 02:47:59  #公司
-
-STELLIS AI：CEO Trent Gillespie 繼與亞馬遜 AI 合作後，在全美拓展運營式 AI 主題合作。
-
----
-
-### 2026-05-29 02:45:12  #國際
-
-市場訊息：俄羅斯油輪 “環球號” 載有 24.2 萬桶柴油，原定駛往古巴，目前已調轉航向，疑似改駛南美。
-
----
-
-### 2026-05-29 02:44:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Asked whether he had asked Fed chair WARSH at breakfast to cut rates, US Treasury Secretary BESSENT declined to answer, saying only that he has never asked Powell to do so.
-
----
-
-### 2026-05-29 02:44:34  #國際
-
-美國財長貝森特：特朗普總統始終傾向於達成和平協議。因此我們目前採取的所有行動均為防禦性質。但倘若總統認為無法促成和平協議，那麼軍事行動將會重啟。
-
----
-
-### 2026-05-29 02:44:03  #央行 #國際
-
-美國財長貝森特：在與前美聯儲主席鮑威爾的41次早餐中，從未要求鮑威爾降低利率。相信新主席沃什會採取正確措施，以平衡通脹與增長。
-
----
-
-### 2026-05-29 02:43:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-BESSENT said he never asked POWELL to lower interest rates during 41 breakfasts with him.
-
----
-
-### 2026-05-29 02:43:13  #國際
-
-【黎巴嫩衛生部：以色列襲擊已造成3324人死亡】黎巴嫩衛生部28日通報，自3月2日以色列襲擊黎巴嫩以來，衝突已經導致3324人喪生，10027人受傷。（央視新聞）
-
----
-
-### 2026-05-29 02:42:50  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary BESSENT said any agreement with Iran would require the Strait of Hormuz to remain fully open, and any plan to levy transit fees on the strait is an "invalid proposal".
-
----
-
-### 2026-05-29 02:42:12  #宏觀 #國際
-
-有記者指出，美國財政部長斯科特・貝森特的發展軌跡與萬斯、魯比奧如出一轍，疑似有意日後參選美國總統。對此，貝森特闢謠： “我看他們實在是沒別的話題可聊了。”
-
----
-
-### 2026-05-29 02:40:35  #國際
-
-美國財長貝森特：我方對俄羅斯石油實施的制裁力度前所未有。
-
----
-
-### 2026-05-29 02:39:55  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Treasury Secretary BESSENT met with new Fed Chair KEVIN WARSH for breakfast on Thursday.
-
----
-
-### 2026-05-29 02:39:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rebounds on US-Iran Diplomacy Hopes — The S&P/TSX Composite Index edged up to trade above 34,500 on Thursday, rebounding from earlier losses after reports said the US and Iran had reached an outline agreement to extend their ceasefire, pending approval from US President Trump. The development followed Iran’s attack on a US air base in response to US strikes on an alleged Iranian drone operation. Bond yields fell amid signs of progress toward a peace deal. Mining stocks rebounded as gold prices trimmed losses, with Agnico Eagle and Barrick gaining nearly 2%, while WPM rose more than 2.5%. Tech stocks also advanced, with Shopify jumping nearly 6% and Constellation Software adding over 3.5%, tracking gains in US hardware and software shares. UBS also reiterated its “neutral” rating on Shopify and maintained its $130 target price. Meanwhile, major banks traded lower despite strong quarterly results from RBC (-0.9%) and TD Bank (-0.2%).
-
----
-
-### 2026-05-29 02:38:58  #MKT News #Market Themes #The Trump Trade
-
-U.S. Treasury Secretary BESSENT said the Treasury is preparing a new $250 banknote featuring President Trump’s portrait.
-
----
-
-### 2026-05-29 02:37:43  #MKT News #Market Themes #AI Revolution
-
-U.S. Treasury Secretary BESSENT said the United States is an AI superpower.
-
----
-
-### 2026-05-29 02:37:07  #其他
-
-訊息人士稱，人工智慧初創企業GROQ正向現有投資者募資至多6.5億美元。
-
----
-
-### 2026-05-29 02:37:00  #宏觀 #國際
-
-美國財長貝森特透露，美國財政部正著手籌備一款印有特朗普總統頭像的250 美元新版紙幣。目前國會已有相關法案提案，擬允許在世人物肖像登上美國貨幣。“眼下參眾兩院均收到法案提案，擬修改第一項規定，讓在世的唐納德・J・特朗普得以登上 250 美元紙幣。”
-
----
-
-### 2026-05-29 02:36:40  #MKT News #Market Themes #AI Revolution
-
-US Treasury Secretary BESSENT said Washington is using an executive order on artificial intelligence to balance innovation with security.
-
----
-
-### 2026-05-29 02:36:33  #MKT News #Market Themes #AI Revolution
-
-BESSENT said on the AI executive order he is working closely with AI labs to find solutions.
-
----
-
-### 2026-05-29 02:36:13  #國際
-
-美國財長貝森特：美國是人工智慧超級大國。
-
----
-
-### 2026-05-29 02:35:56  #宏觀 #國際
-
-美國財政部長貝森特談及人工智慧行政令：正與人工智慧實驗室緊密合作尋求解決方案。
-
----
-
-### 2026-05-29 02:35:44  #宏觀 #國際
-
-【貝森特列出特朗普對美伊協議的三大條件：海峽、濃縮鈾、核武器】美國財政部長斯科特·貝森特表示，特朗普提出的與德黑蘭達成協議的三個條件是：伊朗開放霍爾木茲海峽，交出其濃縮鈾，並且不追求核武器。貝森特說：“搶在總統前面永遠是錯誤的，最終決定權在總統手中。”
-
----
-
-### 2026-05-29 02:35:21  #MKT News #Important #Market Themes #AI Revolution
-
-【ANTHROPIC Raises $65 Billion, Valued At $965 Billion, Surpassing OpenAI】ANTHROPIC PBC raised $65 billion in a new financing round at a $965 billion post-money valuation, exceeding OpenAI. The round was led by Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital and was finalised within weeks, signalling strong investor demand; earlier reports said the company, after receiving multiple proposals in late April, had been weighing whether to seek new funding above a $900 billion valuation and entered intensive talks earlier this month.
-
----
-
-### 2026-05-29 02:33:43  #公司
-
-萬事達卡執行長：5 月消費支出表現平穩至小幅向好。
-
----
-
-### 2026-05-29 02:33:24  #國際
-
-【知情人士稱伊朗方面尚未同意任何諒解備忘錄】當地時間5月28日，伊朗談判代表團媒體團隊成員賽義德·阿加盧表示，截至目前，伊朗方面尚未同意任何諒解備忘錄，也未向巴基斯坦方面的調解人確認已批准該備忘錄。此外，他明確表示，在與美國的談判過程中，伊朗並未在核問題上作出任何承諾。 (央視新聞)
-
----
-
-### 2026-05-29 02:33:05  #國際
-
-美國財長貝森特談及對古巴制裁：此事取決於古巴政府。
-
----
-
-### 2026-05-29 02:32:58  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night Session Main Contracts Close】As of the night session close at 02:30, SHFE main contracts: gold up 1.91% at 987 yuan/gram; silver up 2.71% at 18,429 yuan/kg; SC crude oil main contract down 0.61% at 591 yuan/barrel.
-
----
-
-### 2026-05-29 02:32:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed up 2.12% at 983.5 yuan/gram in the May 28 (Thursday) evening session. Shanghai Gold Exchange Silver T+D closed up 3.49% at 18,380 yuan/kg.
-
----
-
-### 2026-05-29 02:32:43  #國際
-
-美國財長貝森特談伊朗問題：我們必須在對方之前達成協議。
-
----
-
-### 2026-05-29 02:32:41  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-BESSENT said the U.S. will continue defensive actions against Iran, but U.S. patience is not limitless.
-
----
-
-### 2026-05-29 02:32:07  #公司
-
-【Anthropic新一輪融資後估值達9650億美元 超越OpenAI】人工智慧公司Anthropic PBC在新一輪融資中募資650億美元，投後估值達到9,650億美元，超過競爭對手OpenAI。這輪融資於週四宣佈，由Altimeter Capital、Dragoneer、Greenoaks和紅杉資本領投。這輪大規模融資在短短數週內敲定，顯示投資者對這家Claude開發商需求強勁。此前有報道稱，4月下旬，在收到多份融資提案後，Anthropic一直在權衡是否以超過9,000億美元的估值尋求新融資。隨後，這家人工智慧初創公司本月早些時候啟動深入談判。
-
----
-
-### 2026-05-29 02:31:32  #國際
-
-美國財長貝森特：但對伊朗的耐心不會永遠持續下去。
-
----
-
-### 2026-05-29 02:31:23  #市場
-
-WTI 7月原油期貨收漲0.22美元，漲幅0.25%，報88.90美元/桶。NYMEX 6月天然氣期貨收報3.2850美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.1852美元/加侖，NYMEX 6月取暖油期貨收報3.6187美元/加侖。
-
----
-
-### 2026-05-29 02:31:18  #國際
-
-美國財長貝森特：將繼續在伊朗採取防禦行動。
-
----
-
-### 2026-05-29 02:31:09  #國際
-
-美國財長貝森特談伊朗：我們一直很有耐心。
-
----
-
-### 2026-05-29 02:30:16  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Increases by 1.94% — Top crypto gainer is XRP (1.94%). Biggest losers are Bitcoin (-1.18%), Binance (-1.11%) and Ether (-0.18%).
-
----
-
-### 2026-05-29 02:30:03  #市場
-
-上期所原油期貨夜盤收跌0.61%，報590.60元人民幣/桶。滬金夜盤收漲1.91%，滬銀收漲2.71%。
-
----
-
-### 2026-05-29 02:29:32  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Insiders Say Iran Has Not Agreed To Any Memorandum Of Understanding】On May 28 local time, Saeed Agalou, a member of Iran’s negotiation team media unit, said Iran has not agreed to any memorandum of understanding and has not told Pakistan’s mediator that it approved the draft. He said Iran has made no commitments on the nuclear issue in talks with the United States.
-
----
-
-### 2026-05-29 02:29:25  #宏觀 #國際
-
-【“全球治理之友小組”會議聯合公報】2026年5月28日，“全球治理之友小組”會議在紐約聯合國總部舉行，主題是“改革完善全球治理 攜手應對全球挑戰”。中共中央政治局委員、外交部長王毅出席會議並致辭。巴基斯坦副總理兼外長達爾、土庫曼副總理兼外長梅列多夫、古巴外長羅德里格斯、吉爾吉斯斯坦外長庫魯巴耶夫、辛巴威外長穆爾維拉、哈薩克第一副外長阿什克巴耶夫、柬埔寨外交部國務秘書帕裡德等60餘國代表與會。小組成員認為，當今世界進入動盪變革期，聯合國和多邊體系面臨的壓力與日俱增，全球治理赤字不斷擴大。各方歡迎中國國家主席習近平提出的全球治理倡議及其五大核心理念——奉行主權平等、遵守國際法治、踐行多邊主義、倡導以人為本、注重行動導向，讚賞全球治理倡議與聯合國憲章宗旨和原則一脈相承，旨在捍衛和踐行多邊主義，加強聯合國在國際事務中的核心作用。（新華社）
-
----
-
-### 2026-05-29 02:29:01  #國際
-
-美國財長貝森特：我認為這兩件事（中期選舉中取得好成績，並促成伊朗核協議）都可能實現。
-
----
-
-### 2026-05-29 02:28:27  #國際
-
-美國財長貝森特：我們可以在中期選舉中取得好成績，並促成伊朗核協議的達成。
-
----
-
-### 2026-05-29 02:28:08  #其他
-
-Anthropic：最新一輪融資預計將用於擴充算力，以滿足市場對Claude日益增長的需求。
-
----
-
-### 2026-05-29 02:27:57  #其他
-
-Anthropic：最新一輪融資預計將推進安全與可解釋性領域的研究。
-
----
-
-### 2026-05-29 02:27:49  #宏觀 #國際
-
-【王毅出席“全球治理之友小組”會議】中共中央政治局委員、外交部長王毅28日在紐約聯合國總部出席“全球治理之友小組”會議。巴基斯坦、土庫曼、吉爾吉斯斯坦、古巴、辛巴威外長等60餘國代表出席。聯合國常務副秘書長阿明娜作通報。王毅在主旨發言中表示，習近平主席去年9月鄭重提出全球治理倡議，強調主權平等、國際法治、多邊主義、以人為本、行動導向五大核心理念。倡議已得到近160個國家和國際組織支援響應。“全球治理之友小組”在紐約、日內瓦、維也納三地相繼成立，成員數量達到60餘國。（新華社）
-
----
-
-### 2026-05-29 02:27:43  #MKT News #Important #Market Themes #Magnificent 7 #AAPL.O #MSFT.O #GOOGL.O
-
-【CBOE To Start Extended Hours For Select Single-Stock Options】The SEC approved CBOE’s plan to begin extended trading hours for select single-stock options on July 13, 2026. The initial rollout will cover roughly 20 highly liquid names, including all seven largest US tech stocks. CBOE also plans to launch 23x5 US stock trading on its EDGX exchange in December to broaden round‑the‑clock access. Eligibility for extended-hours options requires at least 150,000 contracts open interest, market cap above $50 bln and average daily share volume exceeding 10 mln.
-
----
-
-### 2026-05-29 02:27:30  #經濟數據 #日本
-
-亞馬遜計劃將其旗艦AI服務上線SpaceX的Grok模型。
-
----
-
-### 2026-05-29 02:27:21  #國際
-
-美國財長貝森特：我今天沒見到特朗普。
-
----
-
-### 2026-05-29 02:27:10  #宏觀 #國際
-
-美國財政部長貝森特：與所有人工智慧實驗室的合作都非常順利。
-
----
-
-### 2026-05-29 02:26:24  #焦點 #國際
-
-【伊媒否認美伊諒解備忘錄達成】據伊朗塔斯尼姆通訊社當地時間5月28日晚援引談判團隊知情人士訊息報道，伊朗與美國之間潛在的諒解備忘錄文字內容“尚未最終敲定”，也“未得到確認”。西方訊息源所謂“美伊諒解備忘錄已最終達成”的報道並不屬實。（CCTV國際時訊）
-
----
-
-### 2026-05-29 02:26:11  #國際
-
-美國財長貝森特：沒有濃縮鈾（條款），就不可能達成伊朗核協議。
-
----
-
-### 2026-05-29 02:25:45  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon (AMZN.O) plans to offer SpaceX's Grok model on its flagship AI service.
-
----
-
-### 2026-05-29 02:25:28  #國際
-
-美國財長貝森特：沒有暢通的海峽，就不可能達成伊朗協議。
-
----
-
-### 2026-05-29 02:25:22  #國際
-
-美國財長貝森特：特朗普政府做到了往屆各屆政府都未能實現的事。我們已促使伊朗就其核計劃展開談判，且伊朗或承諾不再發展核計劃。這在以往從未有過。
-
----
-
-### 2026-05-29 02:25:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Wool Rises by 2.87% — Top commodity gainers are Wool (2.87%), Coffee (1.50%) and Canola (1.34%). Biggest losers are Oat (-2.05%) and Cocoa (-1.67%).
-
----
-
-### 2026-05-29 02:24:58  #國際
-
-貝森特談伊朗問題：特朗普為協議劃定三項條件。
-
----
-
-### 2026-05-29 02:24:41  #宏觀 #國際
-
-美國財政部長貝森特：不會對穆斯林朝聖者的航空旅行實施制裁。
-
----
-
-### 2026-05-29 02:23:57  #公司 #國際
-
-美國財長貝森特： 不會因宗教因素限制人員流動。
-
----
-
-### 2026-05-29 02:23:34  #國際
-
-美國財長貝森特：美國將重回通脹下降時代。
-
----
-
-### 2026-05-29 02:23:23  #國際
-
-美國財長貝森特：我們會渡過這段充滿挑戰的時期。
-
----
-
-### 2026-05-29 02:23:21  #MKT News
-
-BESSENT said he expects Fed Chair WARSH to take appropriate steps to balance inf and growth.
-
----
-
-### 2026-05-29 02:23:16  #MKT News
-
-U.S. Treasury Secretary BESSENT said on reports of a deal that the team has been in repeated contact, and that President Trump has made clear he has several red lines and will not accept a bad deal.
-
----
-
-### 2026-05-29 02:23:09  #央行 #國際
-
-美國財長貝森特：今日與新任美聯儲主席共進早餐。
-
----
-
-### 2026-05-29 02:22:58  #央行 #國際
-
-美國財長貝森特：沃什上任，美聯儲迎來全新局面。
-
----
-
-### 2026-05-29 02:22:15  #MKT News #Important
-
-TASNIM NEWS says reports from Western sources that an MoU between Iran and the US has been reached are inaccurate. Iran has not informed the Pakistani mediator that the text is final and will notify the Pakistani mediator and the public once it is finalized.
-
----
-
-### 2026-05-29 02:22:10  #公司 #市場
-
-西南航空股價在執行長於投資者大會發表講話期間交投震盪，最新股價下跌約1.4%，報每股43.08美元。
-
----
-
-### 2026-05-29 02:21:37  #國際
-
-伊朗塔斯尼姆通訊社：伊朗尚未告知巴基斯坦調停人協議文字已定稿，一旦文字完成定稿，伊朗將向巴基斯坦調停人和公眾公佈此事。
-
----
-
-### 2026-05-29 02:21:04  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary BESSENT said nearly 2,000 vessels are waiting to depart the Gulf and that supply on the other end of the oil market will be very ample.
-
----
-
-### 2026-05-29 02:20:38  #焦點 #國際
-
-伊朗塔斯尼姆通訊社：西方訊息來源稱伊朗與美國已敲定諒解備忘錄的報道不實。
-
----
-
-### 2026-05-29 02:20:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 2.22% — Top commodity gainers are Silver (2.22%), Copper (1.39%) and Gold (1.20%). Biggest loser is Lithium Carbonate (-0.85%).
-
----
-
-### 2026-05-29 02:20:05  #央行 #國際
-
-美國財長貝森特：不會有央行數字貨幣。
-
----
-
-### 2026-05-29 02:19:51  #國際
-
-伊朗塔斯尼姆通訊社援引訊息人士接近談判團隊的訊息：潛在諒解備忘錄文字尚未最終敲定，也未得到確認。
-
----
-
-### 2026-05-29 02:19:46  #國際
-
-美國財長貝森特：已告知阿曼，其擬對霍爾木茲海峽收取通行費的計劃絕無可能實施 。
-
----
-
-### 2026-05-29 02:19:38  #MKT News #Important
-
-TASNIM NEWS, citing negotiation-team insiders, said the text of a potential memorandum of understanding has not been finalized or confirmed.
-
----
-
-### 2026-05-29 02:19:28  #公司 #國際
-
-【Anthropic計劃幾周內廣泛釋出可與Mythos媲美的人工智慧模型】Anthropic PBC計劃在幾周內廣泛釋出新的人工智慧模型，網路安全能力可與Mythos相媲美。Anthropic此前曾表示，Mythos過於危險，不適合向公眾開放。該公司週四稱，在開發“更強安全防護措施”方面取得“快速進展”，因此得以向所有客戶釋出具備Mythos級別能力的AI模型。Anthropic同時還發布了一款更擅長執行程式設計任務的，名為Opus 4.8的新模型。Anthropic此前表示，Mythos能夠“在使用者指示下，識別並利用所有主要作業系統和主流網路瀏覽器中的漏洞”。今年4月，鑑於全球擔心Mythos可能對關鍵系統構成新威脅，Anthropic透過名為Project Glasswing的計劃，將Mythos的使用者範圍限制在少數大型科技公司和華爾街企業。Anthropic週五表示，計劃與美國及其盟友政府合作，將Project Glasswing擴充套件至更多合作伙伴。公司還表示，打算更廣泛地開放類似Mythos的模型，但未透露具體時間表。
-
----
-
-### 2026-05-29 02:19:01  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary Bessent said he spoke with Oman's ambassador Thursday morning; the ambassador assured there are no plans to levy transit fees on the strait.
-
----
-
-### 2026-05-29 02:18:46  #其他
-
-標普將優步科技的評級上調至“BBB+”，展望為正面。
-
----
-
-### 2026-05-29 02:18:40  #MKT News
-
-CBOE Global Markets plans to launch 23X5 U.S. equity trading on its CBOE EDGX exchange in December; about 20 stocks are expected to be available at launch, including the seven largest U.S. stocks.
-
----
-
-### 2026-05-29 02:18:23  #國際
-
-美國財長貝森特：在海峽開放之前，與伊朗的談判不會有任何進展。
-
----
-
-### 2026-05-29 02:18:16  #國際
-
-美國財長貝森特談及伊朗制裁：不會提前披露協議內容。
-
----
-
-### 2026-05-29 02:17:52  #焦點 #國際
-
-美國財長貝森特：阿曼大使已保證，目前沒有對霍爾木茲海峽徵收通行費的計劃。
 
 ---
