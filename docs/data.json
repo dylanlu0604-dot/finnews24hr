@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-04 09:38:10",
-  "count": 19157,
+  "updated": "2026-06-04 09:42:08",
+  "count": 19154,
   "items": [
+    {
+      "id": "4916329",
+      "time": "2026-06-04 09:40:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "儲存晶片板塊低開高走，大為股份衝擊漲停，江化微、雲漢芯城、太極實業、概倫電子、雅創電子均漲超5%。"
+    },
+    {
+      "id": "te:markets:556288",
+      "time": "2026-06-04 09:40:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slip on Middle East Risks — The benchmark KOSPI fell more than 1% to around 8,700 on Thursday, retreating from record highs and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Iran struck Kuwait International Airport and Israel signaled that it, together with the US, was prepared to launch further strikes against Iran if necessary, driving oil prices higher and raising inflation risks. The decline also reflected profit-taking following the index's extraordinary AI-driven rally, with investors turning cautious amid elevated market volatility and growing concerns about stretched valuations. Technology heavyweights Samsung Electronics (-0.6%) and SK Hynix (-3.0%) both traded lower, alongside Hyundai Motor (-3.4%), LG Energy Solution (-5.3%), LG Electronics (-15.0%), and Kia Corp (-3.1%). Still, losses were limited by chip-sector optimism after Goldman Sachs raised its 12-month KOSPI target to 12,000, citing robust AI-driven earnings growth."
+    },
+    {
+      "id": "4916328",
+      "time": "2026-06-04 09:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電CEO稱，出於成本考慮，未在生產中使用阿斯麥（ASML）的高數值孔徑（High-NA）EUV光刻機。"
+    },
+    {
+      "id": "4916327",
+      "time": "2026-06-04 09:40:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：關於削減消費稅的具體幅度尚未確定。"
+    },
+    {
+      "id": "mkt:019e9049-69e7-7003-8289-b954f80ab621",
+      "time": "2026-06-04 09:39:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Fudi Battery signs framework cooperation agreement with Meishan Xingmei Investment Group】June 2, 2026 — Meishan Xingmei Investment Group chairman Yang Dezhi visited Fudi Battery’s Pingshan headquarters and the two parties signed a framework strategic cooperation agreement. Fudi Deputy GM Zhao Tong and BYD Storage & New Batteries Division GM Yin Xueqin attended. The parties said they will expedite implementation, focusing on co-building a fast-charging replenishment network for heavy trucks, developing zero-carbon industrial parks, supporting power-battery supply chains, and advancing hard-carbon anode resource development."
+    },
+    {
+      "id": "4916326",
+      "time": "2026-06-04 09:39:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4827.00元。"
+    },
+    {
+      "id": "te:economy:556287",
+      "time": "2026-06-04 09:39:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "Australia Trade Balance Swings to Surplus — Australia posted a trade surplus of AUD 1.79 billion in April 2026, shifting from a downwardly revised AUD 1.02 billion deficit in the previous month and in line with market expectations. Exports grew 7.2% month-on-month to AUD 47.19 billion, after a downwardly revised 2.5% fall in March, mainly driven by metal ores. Meanwhile, imports rose 0.8% to AUD 45.40 billion, after a downwardly revised 12.2% surge in March."
+    },
+    {
+      "id": "4916325",
+      "time": "2026-06-04 09:38:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "工業氣體概念再度拉昇，中船特氣漲超15%，股價續創歷史新高，華特氣體、和遠氣體、三孚股份、廣鋼氣體、凱美特氣跟漲。"
+    },
+    {
+      "id": "4916324",
+      "time": "2026-06-04 09:38:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC概念反覆走強 雙星新材漲停】近期MLCC概念反覆走強，雙星新材漲停，宏達電子漲超15%，利和興、宏明電子、昀冢科技、潔美科技跟漲。"
+    },
+    {
+      "id": "4916323",
+      "time": "2026-06-04 09:38:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將考慮可接受水平的汽油補貼。"
+    },
     {
       "id": "4916322",
       "time": "2026-06-04 09:36:53",
@@ -55,6 +148,15 @@
         "市場"
       ],
       "text": "【電力板塊延續強勢 豫能控股2連板續創歷史新高】早盤電力板塊延續強勢，豫能控股2連板，續創歷史新高，廣西能源觸及漲停，百通能源、新中港、京能電力、西昌電力等跟漲。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606043759922838",
+      "time": "2026-06-04 09:35:01",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "國家統計局釋出5月下旬流通領域重要生產資料市場價格變動情況，據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年5月下旬與5月中旬相比，13種產品價格上漲，36種下降，1種持平。其中，生豬（外三元）上漲1.1%，液化石油氣跌6.1%。"
     },
     {
       "id": "mkt:019e9044-a1b0-7003-8289-b436bff4851e",
@@ -176273,126 +176375,6 @@
         "MKT News"
       ],
       "text": "【Where to Park Spare Cash? Money-Market Yield Tracker】LICAITONG Huoqi+ 7-day annualized yield ranged from a high of 1.2880% to a low of 0.7870%. WeChat Lingqiantong 7-day annualized yield ranged from 1.0350% to 1.0010%. Alipay Yu'e Bao 7-day annualized yield ranged from 1.0410% to 1.0000%."
-    },
-    {
-      "id": "4903537",
-      "time": "2026-05-28 09:41:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：金融穩定風險依然存在。"
-    },
-    {
-      "id": "4903536",
-      "time": "2026-05-28 09:41:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：中東戰爭加劇通脹壓力和不確定性。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605283752245522",
-      "time": "2026-05-28 09:41:36",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本財務大臣片山皋月：希望日本央行採取適當的貨幣政策】日本財務大臣片山皋月稱，希望日本央行採取適當的貨幣政策，在工資上漲的情況下，穩定、可持續地實現2%的價格目標。日本央行法要求在確保央行獨立性的同時，與政府保持充分溝通。"
-    },
-    {
-      "id": "4903535",
-      "time": "2026-05-28 09:41:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量1253億元。"
-    },
-    {
-      "id": "4903534",
-      "time": "2026-05-28 09:41:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "房地產板塊異動拉昇，天健集團直線漲停，津投城開漲超6%，萬通發展、京投發展、華麗家族、大龍地產跟漲。"
-    },
-    {
-      "id": "4903533",
-      "time": "2026-05-28 09:40:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯動科技在上海成立半導體技術公司】企查查APP顯示，近日，上海聯動半導體技術有限公司成立，註冊資本7000萬元，經營範圍包含：半導體器件專用裝置銷售；積體電路銷售；電子專用裝置銷售；電子元器件與機電元件裝置銷售等。企查查股權穿透顯示，該公司由聯動科技全資持股。"
-    },
-    {
-      "id": "4903532",
-      "time": "2026-05-28 09:39:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4903531",
-      "time": "2026-05-28 09:39:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石化等投資成立新能源汽車服務公司】企查查APP顯示，近日，舟山中泊新能源汽車服務有限公司成立，經營範圍包含：電動汽車充電基礎設施運營；新能源汽車換電設施銷售；電池銷售；集中式快速充電站；機動車充電銷售。企查查股權穿透顯示，該公司由中國石化旗下中國石化銷售股份有限公司等共同持股。"
-    },
-    {
-      "id": "4903530",
-      "time": "2026-05-28 09:39:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【墨芯人工智慧完成C輪近十億元融資， 下一代晶片SparsePrime®將於年內推出】5月28日，墨芯人工智慧宣佈，公司於近日正式完成C輪融資，金額近十億元人民幣。本輪融資匯聚了深創投、巖山科技、大灣區共同家園、力鼎資本、蘊盛資本等產業資本及市場化機構，凱旋創投、創享投資、盛景嘉成等多家老股東共同參與。同時，公司宣佈核心產品：全新一代計算卡SparsePrime®將於今年內正式推出。"
-    },
-    {
-      "id": "4903529",
-      "time": "2026-05-28 09:39:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【邁克生物與唯公科技戰略合作】據邁克生物訊息，5月27日，邁克生物與深圳唯公科技正式簽署《智慧化實驗室生態融合戰略合作協議》，雙方將整合核心技術優勢，共建智慧檢驗生態。"
-    },
-    {
-      "id": "4903528",
-      "time": "2026-05-28 09:39:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科學家揭示癌基因調控新機制及他汀類藥物靶向抑癌效果】從哈爾濱工業大學獲悉，該校生命科學和醫學學部胡穎教授團隊在癌症治療核心靶點——癌基因KRAS的調控機制研究中取得突破。這一成果於5月27日發表在國際學術期刊《細胞》上。"
-    },
-    {
-      "id": "mkt:019e6c3e-6fb4-788f-b184-f62e0f9cafdd",
-      "time": "2026-05-28 09:38:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOK: Two dissenting committee members called for a rate hike."
-    },
-    {
-      "id": "4903527",
-      "time": "2026-05-28 09:38:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華虹公司盤中漲超10%】A股華虹公司盤中漲10.15%，現報237.50元。"
-    },
-    {
-      "id": "mkt:019e6c3e-2707-7993-9518-cfb055e8bcdc",
-      "time": "2026-05-28 09:38:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "KATAYAMA, Japan's finance minister, said the Bank of Japan Act requires the BOJ to maintain full communication with the government while safeguarding the central bank's independence."
     }
   ]
 }
