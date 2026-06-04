@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-05 01:54:03",
-  "count": 18944,
+  "updated": "2026-06-05 01:57:55",
+  "count": 18949,
   "items": [
+    {
+      "id": "4917990",
+      "time": "2026-06-05 01:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：澤連斯基是否為合法總統應由律師界定。"
+    },
+    {
+      "id": "4917989",
+      "time": "2026-06-05 01:55:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【韓元一度創2009年3月以來新低】週四（6月4日），韓元兌美元最終漲0.17%，報1532.53韓元。北京時間08:19，韓元漲至1523.12，隨後持續走低，15:19加速下挫，16:06跌至1540.67韓元，跌穿3月31日底部1537.11、逼近2009年3月10日底部1562.50、以及當年3月6日底部1597.45。"
+    },
+    {
+      "id": "mkt:019e93c6-88b8-799e-8472-52457cb6f6f5",
+      "time": "2026-06-05 01:55:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax reported Russia has sold part of its stake in Bashneft."
+    },
+    {
+      "id": "4917988",
+      "time": "2026-06-05 01:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：與亞塞拜然的關係正朝著非常積極的方向發展，將與亞塞拜然總統阿利耶夫舉行會晤。"
+    },
+    {
+      "id": "mkt:019e93c5-9b1c-799e-8472-49fda938e6ea",
+      "time": "2026-06-05 01:54:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says relations with Azerbaijan are developing in a very positive direction and he will meet Azerbaijani President Aliyev."
+    },
+    {
+      "id": "4917987",
+      "time": "2026-06-05 01:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：亞塞拜然總統正致力於為與俄羅斯的戰略合作協議注入實質內容。"
+    },
+    {
+      "id": "mkt:019e93c5-192b-7009-b43c-c92720f7fa71",
+      "time": "2026-06-05 01:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Azerbaijan’s president is working to add substance to the strategic cooperation agreement with Russia."
+    },
     {
       "id": "4917986",
       "time": "2026-06-05 01:53:33",
@@ -174561,31 +174619,6 @@
         "國際"
       ],
       "text": "【古巴外長：古美雙邊談判沒有取得任何進展】當地時間5月28日，古巴外交部長布魯諾·羅德里格斯表示，古巴與美國之間的“雙邊談判沒有取得任何進展”。羅德里格斯表示，美方表現出了極大的前後不一和不負責任，“他們在會談中的表現是一回事，但官方人士不斷髮表的公開言論卻充滿敵意”。羅德里格斯強調，隨著美古兩國緊張局勢持續升級，如果遭到攻擊，古巴必須進行自衛。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6fba-4c54-7eef-a301-676e0a9a86ab",
-      "time": "2026-05-29 01:55:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon Web Services (AWS) said it will offer ANTHROPIC's latest OPUS model Claude Opus 4.8 on Amazon Bedrock and the AWS Claude platform."
-    },
-    {
-      "id": "te:markets:554592",
-      "time": "2026-05-29 01:54:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Canola Hits 4-week High — Canola increased to 768.00 CAD/T, the highest since April 2026. Over the past 4 weeks, Canola gained 0.43%, and in the last 12 months, it increased 6.44%."
     }
   ]
 }
