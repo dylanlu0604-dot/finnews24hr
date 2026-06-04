@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-05 04:15:45_
-_本檔包含 3582 則快訊，約 717612 字_
+_更新時間：2026-06-05 05:15:28_
+_本檔包含 3569 則快訊，約 718117 字_
+
+---
+
+### 2026-05-30 08:59:22  #MKT News
+
+U.S. Defense Secretary Hegseth said the U.S. is undertaking a historic mobilization of the defense industrial base’s manufacturing capacity.
+
+---
+
+### 2026-05-30 08:56:53  #其他
+
+【海關總署黨委理論學習中心組進行專題學習】會議強調，要深刻把握“十五五”我國發展環境面臨的深刻複雜變化，深入分析百年變局加速演進、新一輪科技革命和產業變革給海關工作帶來的機遇和挑戰，加快推進智慧海關建設和“智關強國”行動，聚焦監管查驗、風險甄別、通關便利化等關鍵環節，強化科技賦能，推動科技與業務深度融合，創新監管方式，提高監管效能。要持續最佳化口岸營商環境，用好“關企對話”等政策直達機制，幫助企業拓市場、增效益，助力高質量發展和高水平開放。要著力構建全鏈條風險防控體系，不斷提高穿透式監管的能力水平，確保“通得快”“管得好”，切實維護國門安全。各級黨委和黨員幹部要把學習貫徹習近平經濟思想與開展樹立和踐行正確政績觀學習教育結合起來，科學決策、真抓實幹，著力補齊海關現代化面臨的短板弱項，及時解決難點堵點卡點，確保取得實實在在的成效。
+
+---
+
+### 2026-05-30 08:52:27  #MKT News
+
+U.S. Defense Secretary Hegseth said he welcomed South Korea's pragmatic approach and leadership.
+
+---
+
+### 2026-05-30 08:50:54  #MKT News
+
+U.S. defense minister Hegseth said European allies have finally caught up on defense.
+
+---
+
+### 2026-05-30 08:50:19  #國際
+
+習近平同埃及總統塞西就中埃建交70週年互致賀電。 （新華社）
+
+---
+
+### 2026-05-30 08:49:17  #市場 #國際
+
+【上海航交所：原油運價高位下行】上海航交所：美國能源資訊署(EIA)公佈資料顯示，截至2026年5月22日當週，美國除卻戰略儲備的商業原油庫存減少332.7萬桶至4.42億桶，降幅0.75%。美國國內原油產量增加1.3萬桶至1371.5萬桶/日，原油出口減少116.4萬桶/日至444.0萬桶/日，進口521.2萬桶/日，較前一週減少80.4萬桶/日。原油產品四周平均供應量為2019.2萬桶/日，較去年同期增加1.48%。美國與伊朗初步討論一項為期60天的停火延期安排，伊朗可能在30天內清除霍爾木茲海峽相關水域中的水雷，從而恢復該海域正常航運秩序。不過，目前相關協議仍存在較大不確定性。美國總統特朗普尚未正式批准協議內容，雙方能否最終達成全面協議以及何時落地仍存在較大變數。隨著市場對於中東衝突升級風險的擔憂減弱，原油市場此前積累的大量風險溢價快速回落。本週布倫特原油期貨價格大幅下滑，週四報93.44美元/桶，較5月21日下跌10.81%。全球原油運輸市場VLCC型油輪運價小幅下跌。中國進口VLCC運輸市場運價高位下行。5月28日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報3972.70點，較5月21日下跌3.7%。
+
+---
+
+### 2026-05-30 08:48:55  #市場
+
+【上海航交所：煤炭供給收緊 綜合指數小幅上探】上海航交所：本週，隨著悶熱天氣增多，電廠日耗上升，庫存消耗加快，疊加山西煤礦安全事故引發預期產能供應收緊，推動產地煤價全面反彈，下游及貿易商採購積極，船東報價上調，運輸市場貨盤釋放增多，綜合指數小幅上探。5月29日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1313.93點，較上期上漲1.2%。
+
+---
+
+### 2026-05-30 08:48:46  #市場
+
+【上海航交所：運輸市場繼續向好 市場運價保持漲勢】上海航交所：本週，中國出口集裝箱運輸市場延續向好態勢，遠洋航線市場運價保持上漲走勢，綜合指數繼續上行。據國家統計局最新公佈的資料顯示，4月全國規模以上工業企業利潤增長24.7%，創2023年11月以來的最高水平，工業生產保持較快增長，帶動工業企業利潤增長加快，中國經濟展現出良好的增長態勢。5月29日，上海出口集裝箱綜合運價指數為2571.73點，較上期上漲15.9%。
+
+---
+
+### 2026-05-30 08:48:38  #市場
+
+【上海航交所：海岬型船市場運價創新高 遠東干散貨租金指數止跌回升】上海航交所：本週，國際幹散貨運輸市場各船型運價走勢各異，不過總體均處於高位，遠東干散貨日租金指數在大船支撐下止跌回升。海岬型船市場在澳大利亞鐵礦石貨盤強勁支撐下，運價再創新高。巴拿馬型船太平洋市場仍有部分煤炭貨盤，日租金相對穩定，糧食運價小幅下跌。超靈便型船市場需求不溫不火，日租金微跌。5月28日，上海航運交易所釋出的遠東干散貨租金指數為2635.93點，較上期上漲6.1%。
+
+---
+
+### 2026-05-30 08:42:19  #國際
+
+【國際電信聯盟標準化局副局長比萊爾·賈穆西到訪中國信通院座談交流】2026年5月27日下午，國際電信聯盟電信標準化局（ITU-T）副局長比萊爾·賈穆西（Bilel Jamoussi）到訪中國資訊通訊研究院（簡稱“中國信通院”）開展座談交流。工業和資訊化部科技司負責同志、我國參與ITU-T工作的專家骨幹30餘人參加會議。會議由中國信通院副院長魏亮主持。工業和資訊化部科技司負責同志表示，中國始終是標準國際化事業的堅定支持者，充分肯定ITU-T作為開放包容合作平臺的重要作用。中方願與各方一道，秉持互利共贏理念，持續深化在人工智慧、未來網路等前沿領域的務實合作，積極推動中國產業實踐與創新成果轉化為高質量國際標準提案，與全球夥伴共享經驗、互鑑互促，共同推動全球ICT標準化程序穩步向前。（中國信通院）
+
+---
+
+### 2026-05-30 08:41:48  #其他 #焦點 #國際
+
+【美軍稱在東太平洋打擊所謂“販毒船”致3人死亡】當地時間29日，美軍南方司令部透過社交媒體宣佈在東太平洋對一艘由“認定恐怖組織”操作的船隻實施打擊，3名“毒品恐怖分子”被擊斃。情報確認該船隻正沿東太平洋“已知的毒品販運路線”航行，並參與“毒品販執行動”。（央視新聞）
+
+---
+
+### 2026-05-30 08:40:53  #MKT News
+
+U.S. defense minister Hegseth said any hegemon-dominated Pacific would undermine the region's balance of power.
+
+---
+
+### 2026-05-30 08:40:53  #MKT News
+
+U.S. Defense Secretary Hegseth said the era of U.S. subsidies to wealthy countries is over.
+
+---
+
+### 2026-05-30 08:40:42  #其他
+
+【蜜雪冰城進軍大銀幕 《許願吧！雪王》立項備案】國家電影局5月29日釋出了2026年4月下全國電影劇本（梗概）備案、立項公示。本批次共159部影片獲准備案，其中故事影片100部、動畫影片32部。其中《許願吧！雪王》立項備案，標誌著蜜雪冰城正式進軍電影領域。該片編劇團隊包括林李、李洪甫、朱文菁、劉珮如四人，梗概講述了一個雪人把職場人變回小孩並帶到異世界冒險的故事。
+
+---
+
+### 2026-05-30 08:40:07  #國際
+
+美國總統特朗普：日漸式微的《紐約時報》正想方設法，對“反省池”的翻新工程大加指責。
+
+---
+
+### 2026-05-30 08:39:33  #其他
+
+【九典制藥：氟比洛芬凝膠貼膏獲批上市】近日，九典制藥氟比洛芬凝膠貼膏正式獲得國家藥品監督管理局頒發的藥品註冊批件，並順利透過仿製藥一致性評價。氟比洛芬凝膠貼膏為醫保乙類產品，是一種外用非甾體抗炎藥。其透過抑制環氧化酶活性、減少前列腺素合成，發揮鎮痛、抗炎及解熱功效，適用於骨關節炎、肩周炎、肌腱及腱鞘炎、外傷所致腫脹疼痛等常見疾病的鎮痛與消炎治療。
+
+---
+
+### 2026-05-30 08:38:25  #MKT News
+
+【U.S. Southern Command says strike on drug-smuggling vessel in eastern Pacific kills three】On May 29, U.S. Southern Command said that at the direction of Gen. Francis L. Donovan its Southern Spear joint task force carried out a lethal kinetic strike in the eastern Pacific on a vessel determined to be controlled by a designated terrorist organization. Intelligence showed the ship was transiting a known drug-smuggling route and engaged in narcotics trafficking. The strike killed three male members; U.S. forces reported no casualties. Southern Command said it will continue to apply systematic, comprehensive pressure on trafficking networks.
+
+---
+
+### 2026-05-30 08:37:00  #MKT News
+
+【Ecuador to cancel 'security tax' on Colombian imports from June 1, President Noboa says】Ecuador President Daniel Noboa said on May 29 the government will cancel the 'security tax' on Colombian products effective June 1. The levy was imposed Jan. 21 at 30% and was later raised to 100%, prompting Colombia to raise duties on Ecuadorian imports to 100% in retaliation. Quito had announced on May 4 it would cut the tax from 100% to 75% from June 1; the May 29 statement cancels the charge instead.
+
+---
+
+### 2026-05-30 08:34:58  #MKT News #Important
+
+U.S. MILITARY said it struck a vessel in the eastern Pacific, killing three people.
+
+---
+
+### 2026-05-30 08:34:39  #焦點 #國際
+
+美國軍方：已對東太平洋一艘船隻發動襲擊，造成三人死亡。
+
+---
+
+### 2026-05-30 08:33:40  #公司 #國際
+
+印尼貿易部發布公告稱，該國將毛棕櫚油參考價從此前的每噸 1049.58 美元下調至每噸 1029.51 美元。   參考價下調後，出口稅將降至每噸 148 美元。
+
+---
+
+### 2026-05-30 08:32:35  #其他
+
+【厄瓜多將取消對哥倫比亞產品徵收的“安全稅”】厄瓜多總統丹尼爾·諾沃亞當地時間29日宣佈，自6月1日起，將取消對哥倫比亞產品徵收的“安全稅”。今年年初以來，厄瓜多和哥倫比亞圍繞邊境安全等問題矛盾持續升級。1月21日，厄瓜多宣佈將對進口自哥倫比亞的商品徵收30%的“安全稅”。此後，厄“安全稅”稅率逐步上調至100%。作為回應，哥倫比亞政府此前也宣佈將對進口自厄瓜多的商品關稅稅率提高至100%。5月4日，厄瓜多政府稱將於6月1日對進口自哥倫比亞的商品徵收的“安全稅”稅率從100%下調至75%。（央視新聞）
+
+---
+
+### 2026-05-30 08:30:55  #其他
+
+【塞爾維亞前外長：期待塞中合作取得更多成果】塞爾維亞總統武契奇對中國進行國事訪問期間，兩國達成廣泛共識並簽署多項合作檔案。對此，塞爾維亞前外長伊萬·姆爾基奇在接受採訪時表示，中國的投資和合作有力地促進了塞爾維亞經濟社會發展，武契奇總統此次訪華進一步築牢兩國友誼，期待塞中各領域務實合作取得更多成果，推動雙邊關係邁向更高水平。（央視新聞）
+
+---
+
+### 2026-05-30 08:29:08  #MKT News #Important
+
+【MiniMax begins A-share IPO counseling with CITIC Securities】MiniMax Group Inc. signed a counseling agreement with CITIC Securities on May 29, 2026, formally initiating its A-share IPO process.
+
+---
+
+### 2026-05-30 08:28:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Lebanon-Israel talks fail; Israeli forces cross Litani River】Lebanese and Israeli military delegations failed to agree a ceasefire at US-mediated talks in Washington, Lebanese officials said early on the 30th. Prime Minister Netanyahu confirmed a major Israeli force has crossed the Litani River in southern Lebanon. Lebanese officials said their delegation repeatedly pressed for a ceasefire, which the Israeli delegation rejected; Israel also refused to withdraw from territory it occupies in Lebanon and insisted on the disarmament of Hezbollah. The US-mediated trilateral talks began at the Pentagon on the morning of the 29th Eastern Time and ended after more than nine hours.
+
+---
+
+### 2026-05-30 08:27:57  #公司 #市場
+
+【12只滯漲算力股獲融資客重倉】受益於科技板塊的走強，今年以來算力概念股整體表現強勢。根據萬得資料以及公開資訊，截至5月29日，74只算力概念股今年以來平均漲幅超過45%，翻倍股有8只。從融資資金來看，74只算力概念股最新（5月28日）融資餘額合計接近2126億元，較去年末增加近38%，民爆光電、光迅科技、潤澤科技等8家公司融資餘額增幅均超過100%。進一步來看，今年以來累計漲幅低於45%（跑輸算力概念股平均漲幅），且5月28日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有超穎電子、龍芯中科、優刻得-W。
+
+---
+
+### 2026-05-30 08:27:18  #國際
+
+【美國前司法部長承認愛潑斯坦案檔案公開過程中存在刪減錯誤】5月29日，美國前司法部長帕姆·邦迪在眾議院監督與問責委員會閉門問詢中表示，司法部在公佈傑弗裡·愛潑斯坦案相關檔案過程中存在“刪減錯誤”。據其所知，司法部已按照《愛潑斯坦檔案透明法》的要求公開所有應公開材料。她表示，自己並未直接負責全部審查工作，而是將監督職責交由時任副司法部長、現代理司法部長託德·布蘭奇負責。司法部始終致力於問責和透明度，如發現與愛潑斯坦及其關聯人員有關的犯罪證據，將依法採取行動。（央視）
+
+---
+
+### 2026-05-30 08:25:45  #公司
+
+【霍尼韋爾旗下量子計算公司 Quantinuum  擬擴大IPO規模】據報道，霍尼韋爾旗下量子計算公司Quantinuum考慮擴大IPO規模。據悉，該公司擬增加發行股份數量，並將發行價區間提高約10%，可能會使其目標融資額增加數億美元。
+
+---
+
+### 2026-05-30 08:24:51  #公司
+
+【週六福致歉】近日，深圳市市場監督管理局公佈的一則行政處罰書顯示，週六福珠寶股份有限公司因生產銷售抽檢不合格的足銀手鐲，被深圳市市監局處以罰款739.75元，並沒收違法所得231.17元。 5月29日，公眾號“週六福珠寶”釋出《關於足銀手鐲檢測情況說明》，就檢測結果做情況說明： 本次抽檢採用 GB/T18043-2013表面檢測方法，該方法針對飾品表層進行檢測，易受銀飾氧化、存放環境等因素影響。 因涉事單品僅進行表面檢測，未做破壞性檢測。但依據該國家標準（GB/T18043-2013）第 8.2條明確規定：表面檢測結果不能單獨作為產品質量不合格的判定依據。因此我司將同批次產品送至國家珠寶玉石首飾檢驗集團有限公司（NGTC）按國標 GB 11887-2012 進行破壞性檢測，結果合格。
+
+---
+
+### 2026-05-30 08:22:33  #MKT News
+
+【U.S. judge orders Trump name removed from Kennedy Center, blocks two-year closure】May 29 — A U.S. federal judge in Washington, D.C., ordered President Trump’s name removed from the Kennedy Center and enjoined a planned roughly two-year closure for renovations. The White House announced in December 2025 it would rename the venue the Trump-Kennedy Center; Rep. Joyce Beatty, an Ohio Democrat and Kennedy Center board member, sued to rescind the renaming. Trump had said in February the Trump-Kennedy Center would suspend performances from July for about two years to allow renovations.
+
+---
+
+### 2026-05-30 08:20:59  #公司 #觀點 #焦點
+
+【MiniMax啟動A股上市輔導】MiniMax Group已於2026年5月29日同中信證券簽署輔導協議，正式啟動A股IPO程序。
+
+---
+
+### 2026-05-30 08:18:58  #公司
+
+【商業載人航天穿越者完成Pre-A輪億元融資】近日，北京穿越者載人航天科技有限公司完成Pre-A輪億元融資。本輪由頭部網際網路戰投領投，上市公司探路者集團等產業資本跟投，老股東中天匯富、彬復資本持續加碼，光源資本擔任本輪獨家財務顧問。本輪融資資金將重點用於“穿越者壹號（CYZ1）”載人飛船核心系統研發、地面試驗驗證及關鍵技術攻關。
+
+---
+
+### 2026-05-30 08:15:15  #其他
+
+【航行警告 東海海域軍事訓練】據中國海事局網站訊息，浙江海事局釋出航行警告，5月30日19時30分至31日10時30分，東海部分海域進行軍事訓練，禁止駛入。
+
+---
+
+### 2026-05-30 08:12:13  #MKT News
+
+【US Treasury adds Iran-linked individuals, entities to sanctions list】On April 29 the U.S. Treasury said it added multiple Iran-linked individuals and entities to its sanctions list as part of "Operation Economic Fury" to step up economic pressure on Tehran. The Treasury’s Office of Foreign Assets Control, coordinating with the Commerce Department and the FBI’s Los Angeles office, targeted an Iran-based procurement network accused of "using false identities and defrauding U.S. firms" to procure goods for Iran’s Ministry of Defense and armed forces; OFAC named eight individuals and five entities in the action.
+
+---
+
+### 2026-05-30 08:09:12  #其他
+
+【北京今日最高氣溫可達35℃ 明日區域性有雷陣雨】週末兩天（5月30日至31日），北京炎熱不下線，其中今天最高氣溫可達35℃，天氣又熱又曬，公眾外出活動需注意及時補水降溫，謹防中暑。明天午後，北京西部、北部有分散性雷陣雨，需關注臨近預報。（央視新聞）
+
+---
+
+### 2026-05-30 08:06:51  #MKT News
+
+【China returns 10th batch of space-station science samples with Shenzhou-22】China returned the 10th batch of space-station science samples aboard Shenzhou-22 on April 29. Early on April 30, part of the payload arrived in Beijing and was handed to scientists. The shipment covers 23 experiments—9 life-science, 12 materials and 2 combustion—weighing about 41 kg. Life-science samples, including artificial embryos and brain organoids, were transferred to the Chinese Academy of Sciences Center for Space Application Engineering and Technology after inspection for follow-up research. Remaining materials and combustion samples will be delivered to Beijing with the Shenzhou-22 reentry capsule.
+
+---
+
+### 2026-05-30 08:04:10  #其他
+
+【中國空間站第十批科學實驗樣品返回並交付科學家】5月29日，中國空間站第十批空間科學實驗樣品隨神舟二十二號飛船順利返回。30日凌晨部分實驗樣品運抵北京，並交付科學家開展後續研究。這批返回的科學實驗樣品涉及生命科學類、材料類、燃燒類的23個實驗專案，包括9種生命實驗樣品，12種材料實驗樣品和2種燃燒實驗樣品，總重量約41公斤。目前，人工胚胎、腦類器官等生命類科學實驗樣品已轉運至中國科學院空間應用工程與技術中心。（央視新聞）
+
+---
+
+### 2026-05-30 08:03:07  #市場 #觀點 #其他 #焦點
+
+巴克萊：仍然認為2026年布倫特原油100美元/桶的價格預測存在上行風險。
+
+---
+
+### 2026-05-30 08:03:07  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
+
+Barclays still sees upside risk to its 2026 Brent crude forecast of $100/bbl.
+
+---
+
+### 2026-05-30 08:02:10  #公司 #市場
+
+【年內百餘隻基金產品下調費率讓利投資者】公募基金行業降費工作穩步推進。日前，工銀瑞信基金、華泰證券資產管理先後釋出公告，宣佈下調旗下基金產品相關費率。這是近期行業密集降費的縮影。據Wind資料統計，截至5月28日，年內已有百餘隻基金陸續下調管理費率或託管費率，產品型別覆蓋ETF（交易型開放式指數基金）、債券基金、貨幣基金等。（證券日報）
 
 ---
 
@@ -21302,329 +21542,5 @@ Dell (DELL.N) shares rose 26% in after-hours trading.
 ### 2026-05-29 05:15:44  #市場
 
 富時A50夜期收漲0.04%，報15659點。
-
----
-
-### 2026-05-29 05:14:10  #市場
-
-戴爾股價盤後漲超26%。
-
----
-
-### 2026-05-29 05:08:37  #公司 #國際
-
-開市客：受中東衝突推高油價影響，公司第三財季最後五週的銷量躋身歷史前五。
-
----
-
-### 2026-05-29 05:06:44  #市場
-
-週四（5月28日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7731元，較週三紐約尾盤漲59點，日內整體交投於6.7883-6.7711元區間。日線圖上，離岸人民幣逼近2023年2月2日頂部6.7057元、當年1月16日頂部6.6975元、以及2022年7月8日頂部6.6838元。
-
----
-
-### 2026-05-29 05:06:21  #公司
-
-開市客：公司已申請依據《國際緊急經濟權力法》退還關稅，預計兩至三個月內開始收到退款。
-
----
-
-### 2026-05-29 05:04:46  #公司
-
-戴爾營運長：公司目前與客戶開展的長期合作洽談，均為多年期合作性質。
-
----
-
-### 2026-05-29 05:03:44  #市場
-
-惠與（HPE）美股盤後漲9%。
-
----
-
-### 2026-05-29 05:02:56  #公司
-
-戴爾營運長： 公司下半年將面臨供應短缺問題，並非市場需求不足。
-
----
-
-### 2026-05-29 04:58:27  #市場
-
-戴爾美股盤後漲超22%。
-
----
-
-### 2026-05-29 04:57:48  #其他
-
-戴爾營運長：目前訂單儲備增速已超過歷史水平，這也讓我們有信心將本年度營收預期上調 270 億美元。
-
----
-
-### 2026-05-29 04:57:31  #公司 #國際
-
-美國聯邦通訊委員會將美國廣播公司旗下電視臺牌照的到期日提前至 5 月 28 日。
-
----
-
-### 2026-05-29 04:55:25  #國際
-
-【伊媒：伊朗自南部地區向“特定目標”發射導彈】據伊朗媒體28日報道，伊朗武裝部隊當天晚間從該國南部地區向“特定目標”發射導彈，相關目標和行動細節目前尚未公佈。據報道，部分訊息源稱，波斯灣海域可能發生交火，但尚未得到正式確認。報道還稱，28日凌晨，在敵方襲擊阿巴斯港東部地區後，伊朗武裝部隊對發動襲擊的基地實施了打擊。（新華社）
-
----
-
-### 2026-05-29 04:53:33  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Iranian state television, citing local officials, said a U.S. aircraft was destroyed near Bushehr, Iran; the report has not been confirmed by U.S. authorities.
-
----
-
-### 2026-05-29 04:53:19  #焦點 #國際
-
-伊朗國家電視臺援引當地官員訊息稱，一架美軍飛機在伊朗布什赫爾附近被擊落，美方暫未對此訊息予以證實。
-
----
-
-### 2026-05-29 04:52:12  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Iran military says it intercepted US drone near Bushehr】May 28 local time an Iranian military source confirmed the interception of an intruding US drone near Bushehr, saying defensive missiles were fired to engage the aircraft. Earlier the same day Iran’s armed forces said they launched missiles from the south at designated targets. Bushehr province hosts Iran’s only nuclear power plant, located roughly 300 km across the Gulf from Kuwait.
-
----
-
-### 2026-05-29 04:51:35  #國際
-
-【伊朗軍方稱在布什爾附近攔截一架美國無人機】當地時間5月28日獲悉，一位軍方訊息人士當天證實，在伊朗布什爾附近攔截了一架入侵的美國無人機。這位軍方訊息人士稱，攔截行動是透過向該無人機發射防禦導彈完成的。當天稍早前，據伊朗方面訊息，伊朗武裝部隊從南部地區向特定目標發射了導彈。伊朗南部布什爾省有該國唯一的核電站——布什爾核電站，其與科威特隔海相望，距離大約300公里。（央視新聞）
-
----
-
-### 2026-05-29 04:50:46  #公司
-
-【阿波羅擬籌 360 億美元債務，為 Anthropic 採購谷歌晶片】阿波羅全球管理與黑石集團正聯合多方投資者，推進這筆總額約 360 億美元的債務融資專案，資金將專項用於支援 Anthropic 完善 AI 基礎設施建設。 據知情人士透露，本次融資所得將用於收購谷歌定製晶片 TPU（張量處理單元），隨後由 Anthropic 租賃使用。參與晶片聯合研發的博通，將為該交易中絕大部分款項的支付提供兜底擔保。 這筆交易堪稱史上規模最大的私募信貸專案之一，同時也是目前體量最高的晶片領域債務融資。專案藉助博通的高信用評級，為 Anthropic 穩定供給算力。現階段，Anthropic 的估值已超越競爭對手 OpenAI。 整套晶片採購方案，由阿波羅與黑石牽頭透過債務交易落地。
-
----
-
-### 2026-05-29 04:50:19  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) CFO said excluding the impact of its AI portfolio, the company's gross-margin outlook is better than a quarter ago and full-year gross margins are expected to continue expanding.
-
----
-
-### 2026-05-29 04:50:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls on Selic Rate Outlook — The Ibovespa fell 0.4% to close at 175,063 on Thursday, pressured by expectations of higher interest rates. Brazil’s IGP-M rose 0.84% in May, slightly above forecasts, while Citi raised its year-end Selic rate projection to 13.75% from 13.25%. Meanwhile, the unemployment rate fell to 5.8% in the rolling quarter through April, below market expectations and the lowest reading for the period on record. Rate-sensitive stocks weighed on the index, with Itaú down 0.8% and Bradesco losing 0.6%. Petrobras also declined 0.7% on expectations of normalization of the oil flow in the Strait of Hormuz amid reports that the US and Iran agreed on a proposal to extend their ceasefire, pending approval from the US president.
-
----
-
-### 2026-05-29 04:49:55  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) CFO said customers continue to prioritize IT infrastructure demand and are increasingly focused on securing supply; expects this behavior to persist through the year.
-
----
-
-### 2026-05-29 04:49:27  #其他
-
-戴爾營運長： 客戶持續優先佈局資訊科技基礎設施，並愈發重視保障供應鏈穩定，預計該趨勢將貫穿全年。
-
----
-
-### 2026-05-29 04:48:38  #MKT News
-
-The Lebanese Health Ministry said Israeli strikes on Lebanon since March 2 have killed 3,324 people.
-
----
-
-### 2026-05-29 04:48:28  #公司
-
-阿波羅集團洽談 360 億美元債務融資方案，擬收購谷歌晶片業務並供應給 Anthropic。
-
----
-
-### 2026-05-29 04:46:05  #MKT News #WTI #Impact mixed #Brent
-
-【U.S. Treasury Secretary: US-Iran deal hinges on "what the president wants to do"】U.S. Treasury Secretary Bessent said at a WHITE HOUSE briefing on the 28th that whether the U.S. and Iran can reach a potential agreement depends on whether President Trump supports it. U.S. media earlier cited officials saying negotiating teams have broadly agreed on terms of a memorandum of understanding, subject to Trump’s final approval. Bessent declined repeated direct answers, saying teams have been exchanging consultations and “everything depends on what the president wants to do.” He listed Trump’s red lines: Iran must hand over its highly enriched uranium, must not develop nuclear weapons, and the Strait of Hormuz must remain open.
-
----
-
-### 2026-05-29 04:44:33  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) COO Jeff Clarke said the company has more than 5,000 AI Factory customers, with growth across new cloud providers, sovereign customers and enterprise clients.
-
----
-
-### 2026-05-29 04:44:06  #MKT News
-
-Canada's minister of intergovernmental affairs, Dominic LeBlanc, said he and colleagues have met with industry representatives and provincial and territorial officials in recent months to secure an agreement in the best interests of Canadian businesses and workers.
-
----
-
-### 2026-05-29 04:43:56  #MKT News
-
-Canada's minister of intergovernmental affairs Dominic LeBlanc said Ottawa is determined to continue negotiating with US and Mexican partners in the upcoming joint review of the United States-Mexico-Canada Agreement (USMCA).
-
----
-
-### 2026-05-29 04:42:25  #公司
-
-戴爾營運長： 公司 AI 工廠的客戶數量已突破 5000 家，新興雲服務商、主權機構及企業客戶均實現增長。
-
----
-
-### 2026-05-29 04:41:34  #其他
-
-戴爾營運長：市場需求持續高於供應，記憶體是主要產能制約因素。
-
----
-
-### 2026-05-29 04:41:23  #MKT News #DELL.N #Impact mixed
-
-Dell (DELL.N) COO Jeff Clarke said demand continues to outstrip supply, with memory the primary constraint.
-
----
-
-### 2026-05-29 04:40:48  #公司 #國際
-
-Snowflake收漲36%，創該公司美國IPO以來最佳單日表現。
-
----
-
-### 2026-05-29 04:39:57  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) COO Jeff Clarke said the company's AI order backlog hit a record $51.3 billion at quarter-end.
-
----
-
-### 2026-05-29 04:38:32  #宏觀 #國際
-
-【美財長：美伊能否達成協議取決於“總統想要怎麼做” 】美國財政部長貝森特28日在白宮記者會上表示，美國與伊朗能否達成潛在的協議取決於美總統特朗普是否支援該協議。據美國媒體當天早些時候援引美官員的話報道，美伊談判代表已就諒解備忘錄條款基本達成一致，有待特朗普最終批准。貝森特在記者會上沒有直接回答多次相關提問，而是稱“雙方團隊一直在進行往來磋商”，並強調“一切都取決於總統想要怎麼做”。貝森特說，特朗普有幾條明確的“紅線”，即伊朗必須交出其高濃縮鈾、伊朗不能發展核武器，以及霍爾木茲海峽必須保持開放。（新華社）
-
----
-
-### 2026-05-29 04:35:55  #MKT News
-
-Iranian state media said explosion sounds in Bushehr were caused by air-defence systems engaging aircraft.
-
----
-
-### 2026-05-29 04:35:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises on US-Iran Peace Hopes — The S&P/TSX Composite Index rose 0.3% to close at 34,517 on Thursday amid hopes of a US-Iran peace deal. Reports indicated that the two countries reached a preliminary agreement to extend their ceasefire, pending approval from US President Trump. The development followed Iran’s strike on a US air base in response to earlier US attacks on an alleged Iranian drone operation. Bond yields declined as prospects for easing tensions improved. Mining stocks rebounded as gold prices pared losses, with Agnico Eagle up 1.4%, Wheaton Precious Metals gaining 2.0%, and Barrick adding 0.8%. Tech shares also advanced, led by Shopify (+7.4%) and Constellation Software (+4.0%), tracking gains in US technology stocks. UBS reiterated its neutral rating on Shopify and maintained its $130 target price. Meanwhile, major banks traded mixed despite solid quarterly results from RBC (-0.4%) and TD Bank (+0.7%).
-
----
-
-### 2026-05-29 04:35:10  #國際
-
-據伊朗國家媒體： 爆炸聲源於防空部隊對空中目標實施攔截。
-
----
-
-### 2026-05-29 04:35:08  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.07% Higher — The Dow Jones Index went up by 36 points or 0.07 percent on Thursday to close at 50680 points. The rise was led by IBM (3.54%), Microsoft (3.48%) and Nike (3.02%). On the downside, the weakerst performers were Caterpillar (-2.50%), Travelers Companies (-1.82%) and Sherwin-Williams (-1.61%).
-
----
-
-### 2026-05-29 04:34:21  #公司 #其他 #焦點 #國際
-
-戴爾： 一季度 AI 伺服器積壓訂單達 513 億美元，此前預估為 453.3 億美元。
-
----
-
-### 2026-05-29 04:33:35  #公司
-
-據金融時報： 亞馬遜高階副總裁本週早些時候告知員工，該榜單設立初衷本是好的。
-
----
-
-### 2026-05-29 04:33:01  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
-
-Financial Times reports Amazon (AMZN.O) has scrapped an internal AI leaderboard to discourage employees from chasing usage scores.
-
----
-
-### 2026-05-29 04:32:56  #公司
-
-據金融時報：亞馬遜下架 AI 榜單，避免員工一味追求使用量評分。
-
----
-
-### 2026-05-29 04:31:29  #MKT News #Important #XAUUSD #Impact bullish #WTI #Brent
-
-Iranian state media reported explosions were heard in Bushehr.
-
----
-
-### 2026-05-29 04:31:16  #國際
-
-伊朗官方媒體稱，布什赫爾地區傳出爆炸聲。
-
----
-
-### 2026-05-29 04:31:03  #MKT News #US10Y #Impact bullish #DXY
-
-Foreign central banks net bought $12.829 bln of US bonds in the week to May 22, reversing net sales of $20.238 bln in the prior week.
-
----
-
-### 2026-05-29 04:30:57  #央行 #市場 #國際
-
-美國至5月22日當週外國央行持有美國國債 128.29億美元，前值-202.38億美元。
-
----
-
-### 2026-05-29 04:30:43  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (May.22) | actual 12829000000B | previous -20238000000B
-
----
-
-### 2026-05-29 04:25:57  #公司 #市場
-
-MongoDB Inc.（MDB）美股盤後V形反轉，目前漲14.09%。業績報告顯示，該公司預計全年營收29.2億-29.6億美元，原本預計28.6億-29億美元。
-
----
-
-### 2026-05-29 04:23:48  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-TRUMP, commenting on the Iran conflict, said we hold all the cards and that Iran has been defeated militarily.
-
----
-
-### 2026-05-29 04:22:55  #公司 #市場 #觀點 #國際
-
-【美國高盛集團測算顯示全球原油庫存逼近“百日警戒線”】近日有訊息披露，美國高盛集團測算顯示，全球原油庫存最早可能於5月底跌破相當於全球100天需求量的水平。高盛集團測算顯示，截至4月底，全球原油庫存約相當於全球101天需求量，預計5月底將降至98天。其中，透過衛星等手段可觀測的“可視庫存”預計僅剩73天需求量。訊息稱，目前每天只有少數船隻能夠透過霍爾木茲海峽，導致全球每天原油供應損失超1000萬桶。 (央視新聞)
-
----
-
-### 2026-05-29 04:22:43  #國際
-
-特朗普談伊朗：我們掌握所有牌，伊朗在軍事上已被擊敗。
-
----
-
-### 2026-05-29 04:22:07  #MKT News
-
-【Attack in Donetsk Kills Three】Russia-appointed Donetsk leader Pushilin said on social media on the 28th that Ukrainian armed forces struck vehicles carrying a water utility maintenance crew, killing three and seriously wounding one; doctors are attempting to save the wounded worker.
-
----
-
-### 2026-05-29 04:21:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Set New Records — US stocks closed at record highs on Thursday, with the S&P 500 rising 0.6% and the Nasdaq Composite gaining 0.9%, while the Dow Jones edged up 0.1%. A reported agreement between US and Iranian negotiators to extend the ceasefire and gradually restore energy flows from the Persian Gulf helped temper gains in oil prices. At the same time, tech stocks rallied on the heels of Snowflake's strong earnings outlook and an AI compute deal with Amazon. Shares of the software maker jumped 36% in its best day ever, lifting other software names. ServiceNow rose 6.5%, Palantir surged more than 8%, and Oracle gained over 6%, while Microsoft, Palo Alto Networks, and Atlassian each advanced at least 3%. Salesforce, however, edged lower (-0.8%) after issuing weak guidance.
-
----
-
-### 2026-05-29 04:17:25  #其他
-
-Gap一季度淨銷售35億美元，分析師預期35.2億美元。
-預計全年淨銷售將增長1%-2%，公司原本預計會增長2%-3%。
-預計全年調整後每股收益（EPS）大約為2.30-2.40美元，公司原本預計大約2.20-2.35美元。
-蓋普（GPS）美股盤後跌9.8。
-
----
-
-### 2026-05-29 04:16:41  #其他
-
-開市客第三季度每股收益4.93美元，上年同期4.28美元，預估4.91美元。
-每股收益4.93美元，上年同期4.28美元，預估4.91美元。
-總營收705.3億美元，同比+12%，預估696.2億美元。
-銷售淨額691.5億美元，同比+12%，預估683.4億美元。
 
 ---
