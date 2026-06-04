@@ -1,7 +1,231 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-05 05:15:28_
-_本檔包含 3569 則快訊，約 718117 字_
+_更新時間：2026-06-05 06:12:10_
+_本檔包含 3562 則快訊，約 717145 字_
+
+---
+
+### 2026-05-30 09:45:36  #國際
+
+【伊朗指責美方說法與協議文字不符】伊朗外交部發言人巴加埃5月29日晚發表宣告說，伊朗與美國之間的資訊交流仍在繼續，但尚未達成最終共識。伊朗法爾斯通訊社當天援引知情人士的話報道稱，協議文字按照 “以承諾換承諾”框架起草，目前正處於伊朗最終審批階段，尚未作出最終決定，然而美方卻發表與協議文字相悖的言論——在霍爾木茲海峽方面，美方聲稱伊朗有義務無償開放霍爾木茲海峽，但協議文字並無此類條款。伊朗強調，封鎖解除後將根據預先商定的安排開放海峽。在核材料方面，美方聲稱伊朗必須移除或銷燬其核材料，但知情人士強調，諒解備忘錄中沒有此類內容，且這種說法毫無根據。 （CCTV國際時訊）
+
+---
+
+### 2026-05-30 09:45:08  #其他
+
+【因工作變動，蔡朝暉、鄒廣不再擔任海南省副省長】5月29日，海南省七屆人大常委會第二十四次會議在海口閉幕。會議表決透過任免案。其中，因工作變動，決定免去：蔡朝暉的海南省人民政府副省長職務；鄒廣的海南省人民政府副省長職務；蔡朝暉的海南省公安廳廳長職務。（海南日報）
+
+---
+
+### 2026-05-30 09:42:45  #MKT News
+
+【Cuba, US agree to maintain military command-level communication】Cuba’s Revolutionary Armed Forces said Chief of the General Staff Roberto Legra Sotolongo met US Southern Command commander Donovan on the 29th to discuss security of the boundary area around the US naval base at Guantanamo Bay and agreed to maintain military command-level communications. US Southern Command had earlier posted that Donovan met senior Cuban military leaders near the base and held a brief exchange on military operational safety.
+
+---
+
+### 2026-05-30 09:39:35  #公司 #其他
+
+京東：今晚8點，京東618盛大開啟。
+
+---
+
+### 2026-05-30 09:36:20  #其他
+
+【湖北省委主要負責同志職務調整】日前，中共中央決定：關志鷗同志任湖北省委委員、常委、書記；王忠林同志不再擔任湖北省委書記、常委、委員職務，另有任用。（新華社）
+
+---
+
+### 2026-05-30 09:31:44  #其他
+
+古巴駐華盛頓大使館表示，美方此次高層會晤被視作積極進展。
+
+---
+
+### 2026-05-30 09:29:18  #MKT News
+
+U.S. Defense Secretary Hegseth said the U.S. has a very strong capability to resume hostilities if necessary.
+
+---
+
+### 2026-05-30 09:27:54  #其他
+
+【江西交警通報“小車高速路上別停貨車”：違法行為人已到案接受調查】5月29日，江西高速公安局四分局釋出警情通報：近日，網傳昌慄高速宜春萬載段一小型客車多次變道阻礙後方貨車通行，引發網民關注。經核查，該小型客車駕駛員陳某因與貨車駕駛員存在經濟糾紛，於5月29日凌晨3時47分許在高速公路上故意變道阻攔，將貨車別停。目前，違法行為人陳某已到案接受調查，案件正在進一步辦理中。
+
+---
+
+### 2026-05-30 09:26:16  #MKT News
+
+U.S. Defense Secretary Hegseth said any agreement reached with Iran would be a good deal.
+
+---
+
+### 2026-05-30 09:25:41  #國際
+
+【古巴：古美雙方同意保持兩軍指揮層面溝通】古巴革命武裝力量部29日通報，經雙方同意，古巴革命武裝力量總參謀長羅伯託·萊格拉·索托隆戈與美軍南方司令部司令多諾萬當天舉行會晤。雙方代表團討論了與關塔那摩海軍基地周邊分界區域安全有關的問題，並同意保持兩軍指揮層面的溝通。 當天早些時候，美軍南方司令部在其社交媒體釋出訊息，表示多諾萬當天在位於古巴關塔那摩的美海軍基地附近同古巴軍方高階將領舉行會晤，就“軍事行動安全事宜”進行簡短交流。 美國長期對古巴實施經濟、金融封鎖和貿易禁運。繼今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步加大對古巴施壓，實施石油封鎖。據美國媒體27日報道，美國在加勒比海針對古巴的軍事部署已經完成。同時，美古繼續進行對話，但沒有實質性進展。(新華社)
+
+---
+
+### 2026-05-30 09:25:08  #公司
+
+【中興通訊董事長方榕與國鐵集團董事長郭竹學舉行座談】據中興通訊訊息，5月27日，中興通訊股份有限公司董事長方榕一行到訪中國國家鐵路集團有限公司（簡稱“國鐵集團”），與國鐵集團黨組書記、董事長郭竹學舉行座談，雙方圍繞鐵路數智化升級、5G-R建設及“人工智慧+”等關鍵領域深入交流，共謀鐵路數智化發展新篇。
+
+---
+
+### 2026-05-30 09:25:05  #其他
+
+世界貿易組織：航運擁堵問題若持續，或將導致石油庫存下降，進而危及燃料安全、加劇市場緊張態勢，並削弱經濟抗風險能力。
+
+---
+
+### 2026-05-30 09:22:38  #其他
+
+【南方降雨將顯著減弱 北方炎熱持續多地或現高溫】未來三天（5月30日至6月1日），我國大部地區將以晴到多雲的天氣為主，適宜出行，但華南、雲南的部分地區仍有雨水“叨擾”，公眾外出需帶好雨具。同時，北方大部地區晴曬模式下炎熱持續，河北、內蒙古、東北的一些地方甚至將出現高溫天氣，需及時補水降溫，謹防中暑。（央視新聞）
+
+---
+
+### 2026-05-30 09:21:43  #公司
+
+【安徽省裝機容量最大電廠全面投產】5月29日，中國能建建築集團和華東院聯合總承包的淮南平圩電廠四期2×1000兆瓦超超臨界燃煤發電機組工程8號機組圓滿完成168小時滿負荷試執行，正式轉入商業運營，標誌著安徽省裝機容量最大電廠全面投產。
+
+---
+
+### 2026-05-30 09:19:36  #公司 #市場
+
+【AI重寫資本市場權力地圖 美股前十沒有一家傳統公司】AI正在重寫資本市場權力地圖。美股市值前十名已完全歸屬於科技與AI基礎設施的巨頭們。 當地時間5月29日收盤，美光科技股價繼續上漲，以1.1萬億美元市值持續超過伯克希爾並超越禮來，邁入美股市值前十。美股市值前十已經全部被科技與AI相關企業佔據：英偉達、微軟、蘋果、谷歌、亞馬遜、臺積電、博通、Meta、特斯拉，以及美光。 過去，美股市值前十始終會保留幾張“傳統經濟”的面孔，如伯克希爾、沃爾瑪、埃克森美孚、通用電氣等等。但現在銀行、零售、石油、保險、工業等傳統行業的代表企業，全部消失在市值前十之列。
+
+---
+
+### 2026-05-30 09:18:43  #公司
+
+【陝西神木一煤礦因“月原煤產量超核定10%”，被責令停產整頓】5月29日，陝西省榆林市能源局釋出責令神木市大柳塔鎮板定梁塔煤礦停產整頓的公告。公告指出，近日，在全市煤礦安全大排查工作期間，發現該礦存在重大隱患。依據《煤礦安全生產條例》之規定，榆林市能源局責令神木市大柳塔鎮板定梁塔煤礦停產整頓。一天前，即5月28日，榆林市安全生產委員會發布全市安全生產重大事故隱患掛牌督辦公告，稱為嚴格落實企業安全生產主體責任，進一步加大重大事故隱患排查治理力度，有效防範和遏制重特大事故發生，根據《榆林市安全生產委員會關於市級掛牌治理重大隱患的實施意見》，榆林市安委會決定，對神木市大柳塔鎮板定梁塔煤礦存在“月原煤產量大於核定（設計）生產能力的10%”重大事故隱患進行市級掛牌督辦。（澎湃新聞）
+
+---
+
+### 2026-05-30 09:17:31  #其他
+
+【國務院批覆：粵港澳遊艇自由行來了】5月29日，國務院批覆同意自即日起在粵港澳大灣區內地九市暫時調整實施《中華人民共和國海關事務擔保條例》、《中華人民共和國船舶登記條例》的有關規定，對經粵港澳大灣區內地九市指定口岸暫時入出內地且僅限在粵港澳大灣區內地九市自由行的港澳遊艇，實行免擔保和臨時船舶國籍登記政策。此前，廣東海事局曾釋出《粵港澳遊艇自由行實施方案（徵求意見稿）》公告，提及將創新實施港澳遊艇“兩套牌”管理模式，首批指定廣州南沙客運港口岸、深圳蛇口郵輪母港口岸等6個遊艇出入境口岸。如今，國務院的批覆讓粵港澳遊艇自由行迎來全新進展，未來港澳遊艇有望可直接駛入大灣區任意碼頭。（深圳特區報）
+
+---
+
+### 2026-05-30 09:17:07  #公司
+
+【北部灣港集團與中遠海運集團交流座談】5月29日，北部灣港集團在上海與中遠海運集團開展交流座談。雙方圍繞港口業務協同、航線拓展、多式聯運協作、平陸運河物流銜接等開展全方位、深層次探討，共推向海經濟提質增效。
+
+---
+
+### 2026-05-30 09:17:05  #市場
+
+【德國5月通脹率環比降至2.6%】德國聯邦統計局29日公佈的初步資料顯示，德國5月通脹率為2.6%，低於4月的2.9%。資料顯示，5月德國能源價格同比上漲6.6%，漲幅低於3月的7.2%和4月的10.1%。分析人士指出，能源價格漲幅回落與政府推出的臨時燃油補貼措施有關。自5月1日起，德國汽油和柴油稅每升下調約17歐分，為期兩個月。不過，德國交通部長帕特里克·施尼德日前表示，政府持續實施燃油補貼措施的財政空間有限，而相關成本上升最終將推高食品和日用品價格。（新華社）
+
+---
+
+### 2026-05-30 09:16:50  #市場
+
+【通脹壓力下 法國政府陷“保增長”和“控赤字”兩難境地】法國國家統計與經濟研究所29日公佈的資料顯示，法國5月份通脹率為2.4%，較上月上升0.2個百分點。物價上漲與經濟增長放緩並存，法國民眾生活成本壓力持續加大，法國政府也在“保增長”和“控赤字”之間陷入兩難。法國公眾輿論研究所近期民調顯示，42%的法國人已經開始削減食品和醫療等必要支出，包括減少購買肉類等價格相對較高的食品。對不少家庭而言，物價上漲帶來的影響，已經不僅體現在日常支出增加，也開始改變他們的消費習慣。（央視新聞）
+
+---
+
+### 2026-05-30 09:12:50  #MKT News
+
+US Defense Secretary Hegseth said the US still has global obligations, including preventing Iran from acquiring nuclear weapons.
+
+---
+
+### 2026-05-30 09:10:47  #MKT News
+
+【Chen Wenqing attends 14th International Meeting of Senior Representatives on Security Affairs in Moscow】On May 28, 2026, Chen Wenqing, a member of the CPC Politburo and secretary of the Central Political and Legal Affairs Commission, gave the keynote at the 14th International Meeting of Senior Representatives on Security Affairs in Moscow. He said the world has entered a new period of turbulence, citing a resurgence of hegemonism and Cold War thinking, headwinds to economic globalization and rising security risks from emerging technologies. Chen reiterated Xi Jinping’s Global Security Initiative, urging solidarity and win‑win approaches to address traditional and non‑traditional security threats, and said China is willing to deepen implementation of the initiative and work with other countries to build a community of shared future aimed at lasting peace and universal security.
+
+---
+
+### 2026-05-30 09:10:29  #國際
+
+【習近平同埃及總統塞西就中埃建交70週年互致賀電】5月30日，國家主席習近平同埃及總統塞西互致賀電，慶祝兩國建交70週年。
+
+習近平指出，埃及是最早同新中國建交的阿拉伯和非洲國家。建交70年來，無論國際和地區形勢如何變化，兩國始終相互尊重、平等相待、彼此信任、守望相助，中埃關係已經成為發展中國家友好相處、團結協作的典範和中阿、中非集體合作的樣板，正朝著構建面向新時代命運共同體的目標闊步前行。中埃兩國同為世界文明古國和全球南方重要成員，要從歷史中汲取智慧和力量，擔負起求和平、謀發展、促合作、揚正義的時代使命，為構建人類命運共同體注入強勁動力。
+
+習近平強調，我高度重視中埃關係發展，願同塞西總統一道努力，以建交70週年為新起點，賡續傳統友誼，加強各領域交流合作，推動中埃關係更具戰略引領力、發展聚合力、國際影響力，更好惠及兩國人民，為國際和地區和平與發展貢獻更大力量。
+
+塞西表示，埃中兩國在各個歷史時期都肩並肩站在一起。70年來，在兩國領導人的共同引領下，埃中關係持續發展。我對埃中關係取得的重要成就表示讚賞，期待同習近平主席一道，繼續推動雙邊關係取得更多豐碩成果，共同建設一個更加穩定、更有能力應對全球挑戰的多極世界，使各國能夠共享全面發展成果，共同實現和平與安全。（央視新聞）
+
+---
+
+### 2026-05-30 09:08:39  #行業 #公司
+
+【酒價內參5月30日價格釋出：古井貢古20領跌 總價創過去40天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價5月30日整體大幅下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9896元，較昨日下跌33元，創下過去40天以來新低。市場在此前低位震盪後再度明顯下探，終端交投情緒明顯降溫，核心單品的漲跌分化依然顯著。今日僅茅臺系兩款產品逆勢飄紅，其餘單品全線下跌，其中五種酒品的價格創過去一個月最低。
+
+今日白酒市場11大單品二漲九跌，輸家佔據絕對優勢。上漲方面，飛天茅臺漲幅居前，上漲3元/瓶，連續回落後開始小幅修復；精品茅臺小幅上漲1元/瓶。下跌方面，古井貢古20下跌8元/瓶；習酒君品與青花郎均下跌6元/瓶，其中前者再創月內新低，近一月價格中樞的下移幅度較大，後者遭遇三連陰，價格快速下探，再度失守700元關口，創下月新低；國窖1573下跌5元/瓶，再度回落至890元下方，創下月內最低紀錄；五糧液1618、青花汾20與洋河夢之藍M6+均下跌3元/瓶，其中1618創5月4日以來最大跌幅，價格回落至月內次低位；青花汾20續創月內新低；洋河夢之藍M6+再度失守600元大關；普五八代下跌2元/瓶，再創月內新低，近半個月其價格呈加速下探態勢；水晶劍南春下跌1元/瓶。
+
+---
+
+### 2026-05-30 09:05:16  #公司 #國際
+
+【歐足聯攜手阿里巴巴，達成多年戰略合作】5月29日晚，阿里巴巴集團與歐洲足球協會聯盟、UC3在匈牙利布達佩斯宣佈達成合作。阿里巴巴成為歐洲冠軍聯賽、歐足聯歐洲聯賽及歐足聯協會聯賽（2027/2028賽季至2032/2033賽季）以及2028年歐洲盃的官方獨家AI、雲端計算服務及電子商務合作伙伴。(阿里巴巴)
+
+---
+
+### 2026-05-30 09:02:55  #國際
+
+美國地質調查局：南桑威奇群島地區發生 5.0 級地震。
+
+---
+
+### 2026-05-30 09:02:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【Shanghai Shipping Exchange: transport market improves; freight rates continue rising】Shanghai Shipping Exchange said this week China’s export container transport market continued to improve, with ocean-route freight rates rising and its composite index climbing. The National Bureau of Statistics reported April profits at industrial enterprises above designated size rose 24.7% YoY, the strongest pace since Nov 2023, citing continued rapid industrial production that has accelerated corporate profit growth. On May 29 the Shanghai export container composite freight index stood at 2,571.73, up 15.9% from the previous reading.
+
+---
+
+### 2026-05-30 09:00:16  #MKT News #Market Themes #The Trump Trade
+
+US Secretary of Defense Hegseth said America First means engaging with realism and clearly defending the country's core national interests.
+
+---
+
+### 2026-05-30 09:00:07  #MKT News
+
+U.S. Defense Secretary Hegseth said the PENTAGON is advancing an America First, common-sense agenda.
+
+---
+
+### 2026-05-30 08:59:51  #MKT News
+
+US defense secretary Hegseth said the bold move was driven by strategic necessity.
+
+---
+
+### 2026-05-30 08:59:51  #MKT News
+
+U.S. Defense Secretary Hegseth said those who think they can continue to rely on the generosity of U.S. taxpayers should take note: those days are over.
+
+---
+
+### 2026-05-30 08:59:42  #MKT News
+
+U.S. Defense Secretary Hegseth said allies who refuse to assume responsibility will face a marked change in how we do business.
+
+---
+
+### 2026-05-30 08:59:37  #MKT News
+
+US Defense Secretary Hegseth said he will prioritize cooperating with "model" allies, selecting countries that are most capable, clear-headed and well-prepared.
+
+---
+
+### 2026-05-30 08:59:31  #MKT News #S&P500 #Impact bullish
+
+Defense Secretary Hegseth said President Trump will make a $1.5 trillion intergenerational defense investment this year.
+
+---
+
+### 2026-05-30 08:59:28  #MKT News
+
+U.S. Defense Secretary Hegseth urged allies and partners to raise defense spending to 3.5% of GDP.
+
+---
+
+### 2026-05-30 08:59:23  #MKT News #Market Regions #Japan & APAC
+
+U.S. Defense Secretary Hegseth said he has high expectations for Japan as a U.S. ally and urged coordinated action.
 
 ---
 
@@ -21284,263 +21508,5 @@ FX Updates: Brazilian Real Rises by 0.70% — Top currency gainers are Brazilian
 ### 2026-05-29 06:13:30  #其他
 
 得州機動車管理局網站披露特斯拉自動駕駛計程車車隊具體規模： 特斯拉在得克薩斯州共有 42 輛車輛登記為自動駕駛計程車。Waymo 有 577 輛自動駕駛車輛在得克薩斯州完成登記，Avride 登記數量為 317 輛。
-
----
-
-### 2026-05-29 06:11:38  #MKT News #WTI #Impact bullish #Brent
-
-【Iran foreign ministry condemns US threats against Oman】Baghaei, Iran’s foreign ministry spokesman, sharply criticized recent US threats against Oman after US Treasury Secretary Bessent said Washington would "actively" impose sanctions if Oman assists Iran in establishing a toll system in the Strait of Hormuz. Bessent’s remarks have increased pressure from the Trump administration on the Gulf ally. Baghaei called the threats "an attempt to extort an independent UN member state" and "further proof of the moral bankruptcy of the US governing and political system," described the sanction threats as "illegal actions," and urged the international community to respond responsibly to prevent violations of international law becoming normalized.
-
----
-
-### 2026-05-29 06:10:05  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Vance said the U.S. could still inflict a major setback on Tehran's nuclear program.
-
----
-
-### 2026-05-29 06:09:59  #MKT News
-
-【CHINA FOREIGN MINISTER says Friends of Global Governance group coalesces five consensuses】CHINA FOREIGN MINISTER told the Friends of Global Governance meeting at UN headquarters in New York on the 28th that members have coalesced around five consensuses: advance democratization of international relations so all states, regardless of size or wealth, may choose systems and development paths and participate, decide and benefit equally in global governance; uphold the UN Charter and ensure equal, uniform application of international law and rules, opposing double standards and imposition; defend the UN’s central role by practising multilateralism, strengthening multilateral mechanisms and opposing unilateralism and power politics; reform and improve global governance to narrow the North‑South gap, share development gains and leave no country behind; and focus on practical problems, delivering concrete, visible outcomes to let global governance withstand scrutiny over time.
-
----
-
-### 2026-05-29 06:06:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Al Jazeera reported an Israeli drone strike on a security checkpoint in southern Gaza that killed three people.
-
----
-
-### 2026-05-29 06:05:24  #國際
-
-【五角大樓信函曝光，美軍人員正淪為利用位置資料襲擊的目標】根據軍方官員收到的報告，部署在交戰區的美國軍隊正成為利用商用位置資料進行襲擊的目標。這生動地表明瞭全球監視經濟正在如何改變著戰場面貌。在美國俄勒岡州民主黨參議員Ron Wyden提供一封信函中，美國中央司令部（Centcom）表示，它已經“收到了多份威脅報告，內容涉及對手利用商業位置資料在戰區內針對或監視美軍人員”。這封傳送於4月14日的郵件並未提供更多具體細節，但中央司令部的管轄範圍包括海灣地區，而在該地區，美軍正因霍爾木茲海峽問題與伊朗軍隊展開對峙。
-
----
-
-### 2026-05-29 06:05:08  #資料
-
-澳新銀行：紐西蘭 5 月消費者信心指數環比上升 7.7%。
-
----
-
-### 2026-05-29 06:03:51  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #Gold
-
-U.S. officials say no U.S. aircraft were shot down near Bushehr, Iran, despite claims by Iranian state TV.
-
----
-
-### 2026-05-29 06:02:20  #國際
-
-美國官員：儘管伊朗國家電視臺宣稱有美軍戰機在布什爾附近被擊落，但實際並無美軍軍機遭擊落。
-
----
-
-### 2026-05-29 06:01:02  #其他 #焦點 #國際
-
-萬斯：美伊雙方正就部分措辭細節展開磋商。
-
----
-
-### 2026-05-29 06:00:52  #市場 #焦點
-
-現貨黃金突破4500美元/盎司，日內漲0.09%。
-
----
-
-### 2026-05-29 06:00:11  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為99.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為99.4%，累計加息25個基點的機率為0.6%。美聯儲到7月維持利率不變的機率為93%，累計加息25個基點的機率6.9%。
-
----
-
-### 2026-05-29 06:00:04  #市場 #焦點
-
-紐約期金突破4530美元/盎司，日內跌0.07%。
-
----
-
-### 2026-05-29 06:00:01  #公司 #國際
-
-【美石油巨頭：未來數週原油庫存將跌至低位 油價或暴漲】埃克森美孚週四預警，未來數週原油庫存將跌至歷史低位，進而推動油價暴漲、抑制市場需求。 埃克森美孚高階副總裁尼爾・查普曼在伯恩斯坦公司於紐約舉辦的會議上表示：“原油庫存正逼近前所未有的水平。” 他警示道：“庫存會降到極低的位置。至於這一極端低位會在兩週還是三週到來，尚存討論空間。但一旦抵達該節點，油價就會大幅飆升。” 這位高管稱，待未來幾周庫存觸頂歷史新低，現貨布倫特原油價格將漲至每桶150至160美元。“當油價攀升至一定水平，需求回落會重新讓市場迴歸平衡。” 國際能源署表示，伊朗封鎖霍爾木茲海峽至今，已造成市場原油供應缺口超10億桶，為史上最嚴重的原油供應中斷事件。查普曼稱，目前庫存暫時緩衝了衝擊，但這種局面難以為繼。
-
----
-
-### 2026-05-29 05:59:21  #國際
-
-萬斯：伊朗正秉持誠意開展談判。
-
----
-
-### 2026-05-29 05:57:43  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Interfax, citing the regional governor, reported Ukrainian drones struck energy infrastructure in Russia's Volgograd region.
-
----
-
-### 2026-05-29 05:56:32  #其他
-
-Meta 宣佈派發季度現金股息， 每股派發 0.53 美元季度現金股息，派息日為 2026 年 6 月 25 日。
-
----
-
-### 2026-05-29 05:56:26  #MKT News
-
-TASS, citing the regional governor, reported a drone attack in Russia's Volgograd region struck a residential building; no casualties reported.
-
----
-
-### 2026-05-29 05:56:06  #國際
-
-塔斯社援引州長訊息：俄羅斯伏爾加格勒州遭無人機襲擊，一棟居民樓被擊中，暫無人員傷亡。
-
----
-
-### 2026-05-29 05:53:49  #其他
-
-麥格理：上調小鵬ADR評級至跑贏大盤，之前持中性評級。
-
----
-
-### 2026-05-29 05:52:56  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance on Iran said no agreement has been reached yet but one is very close.
-
----
-
-### 2026-05-29 05:51:47  #焦點 #國際
-
-萬斯談伊朗問題：尚未達成協議，但我們已非常接近。
-
----
-
-### 2026-05-29 05:50:24  #公司 #市場 #國際
-
-【美國芝商所下調黃金與白銀期貨合約保證金】美國芝加哥商業交易所集團（CME Group）在週四的一份宣告中表示，在進行了“對市場波動的常規審查以確保充足的抵押品覆蓋率”後，已下調了其黃金和白銀期貨合約的保證金。黃金期貨的非高風險特徵（non-heightened risk profile）保證金將從6%下調至5%。黃金期貨的高風險特徵（HRP）初始保證金將從6.6%降至5.5%。白銀期貨的非高風險特徵（non-HRP）保證金將從11%下調至10%。白銀期貨的高風險特徵（HRP）初始保證金將從12.1%降至11%。鉑金（白金）和鈀金的保證金同樣有所下調。上述調整將於週五收盤後正式生效。
-
----
-
-### 2026-05-29 05:48:48  #公司 #市場 #國際
-
-美國芝加哥商業交易所集團（CME Group）：下調黃金期貨保證金。
-
----
-
-### 2026-05-29 05:48:32  #MKT News
-
-US Secretary of State Rubio said the State Department has designated Brazil's Red Command and First Capital Command as Specially Designated Global Terrorists, effective June 5.
-
----
-
-### 2026-05-29 05:43:32  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Iran’s Islamic Revolutionary Guard Corps said it launched a large-scale missile and drone strike on a US base in Kuwait this morning in retaliation for an attack on Abbas Port and that such operations will continue as a new routine; Iranian state media also reported Iran’s air defenses shot down a US drone near Bushehr. The US military said it intercepted five Iranian drones and struck Iranian military sites; US Treasury Secretary Bessent said Washington will maintain maximum pressure on Iran and has warned firms and states not to pay any proposed passage fees. Washington has added Iran’s Persian Gulf Strait Authority to its sanctions list and placed the UN special rapporteur for the West Bank and Gaza under sanctions. Iran warned it controls and manages the Strait of Hormuz, said it will decisively respond to any interference, and reported warning shots at four vessels near the strait; Gulf states condemned the Kuwait attack, with the UAE explicitly blaming Iran. Israel ordered the military to occupy 70% of Gaza and carried out strikes in Beirut reportedly aimed at Iranian militia commanders; the IDF detained five militants in Judea and Samaria. On negotiations, Iran says frozen assets must be released unconditionally; US and Iranian officials reportedly agreed on a memorandum of understanding that still requires final approval, while Tehran’s leadership has not formally endorsed any deal and Iran’s deputy foreign minister said it will not sign agreements contrary to national interests.
-
----
-
-### 2026-05-29 05:43:17  #其他
-
-王毅會見烏拉圭外長盧貝特金。（新華社）
-
----
-
-### 2026-05-29 05:38:29  #其他
-
-【世衛組織顧問：埃博拉藥物應僅限於臨床試驗使用】世衛組織（WHO）顧問表示，目前正在研發用於治療和預防埃博拉病毒感染的藥物，應當僅作為臨床試驗的一部分進行給藥。這意味著，眼下已經患病的人群，或者在接觸病毒後面臨患病風險的人群，可能無法直接獲得這些藥物。鑑於埃博拉疫情往往是零星暴發，且通常發生在偏遠地區，加之致死速度極快，研發埃博拉藥物一直以來都異常艱難。
-
----
-
-### 2026-05-29 05:36:13  #MKT News
-
-【China foreign minister meets Pakistan deputy prime minister and foreign minister Dar in New York】China foreign minister met Pakistan’s deputy prime minister and foreign minister Dar in New York on the 28th. Beijing described bilateral ties as comprehensive and all‑weather and said the two countries remain mutually trusting and supportive at bilateral, regional and international levels. China said it will follow leaders’ consensus to maintain high‑level contact, deepen political mutual trust, expand practical cooperation, strengthen Pakistan’s capacity for autonomous development and accelerate building a closer China‑Pakistan community of shared future.
-
----
-
-### 2026-05-29 05:35:59  #宏觀 #國際
-
-【王毅會見巴基斯坦副總理兼外長達爾】當地時間28日，中共中央政治局委員、外交部長王毅在紐約會見巴基斯坦副總理兼外長達爾。王毅表示，夏巴茲總理成功訪華，兩國領導人達成新的重要共識，將中巴命運共同體建設推上新水平。巴方積極參加此次安理會高階別會議和“全球治理之友小組”會議，同各方發出重振聯合國權威和核心地位、改革完善全球治理的共同聲音。巴方作為安理會非常任理事國，承擔起維護國際和平與安全的責任，中方對此表示讚賞。（新華社）
-
----
-
-### 2026-05-29 05:32:24  #公司
-
-【亞馬遜員工刷AI資料致算力成本激增 公司關閉使用量排行榜】亞馬遜近日關閉了一項內部AI使用量排行榜。此前員工為衝排名、刻意刷高AI呼叫量，導致公司算力成本激增。 據兩位知情人士透露，這家市值2.9萬億美元的科技巨頭本週通知員工，其內部服務“Kirorank”已下線。該工具原本用於給開發者平臺Kiro的使用者打分，分數完全基於其AI活動量。 下線原因是：部分員工為衝榜，濫用AI智慧體（可代使用者執行任務的自動程式），讓其執行大量無意義操作。亞馬遜高階副總裁戴夫・特雷韋爾本週對內稱，該排行榜初衷“良好”，但結果適得其反——員工瘋狂“刷token”、刻意誇大token消耗量，導致亞馬遜額外支出鉅額算力成本。 他告誡員工：“不要為了用AI而用AI。”
-
----
-
-### 2026-05-29 05:31:08  #國際
-
-美國國務卿魯比奧今日與肯亞總統通電話，討論了埃博拉疫情。
-
----
-
-### 2026-05-29 05:30:36  #MKT News
-
-US State Department says the US government plans to commit $13.5 mln to support Ebola prevention efforts in Kenya.
-
----
-
-### 2026-05-29 05:30:12  #宏觀 #國際
-
-美國國務院：美國政府計劃出資 1350 萬美元，用於支援肯亞開展埃博拉疫情防範工作。
-
----
-
-### 2026-05-29 05:27:20  #國際
-
-【歐盟制裁以色列極端定居者相關實體和個人】歐盟理事會28日發表宣告說，歐盟決定對以色列相關實體和個人實施制裁，理由是他們應對被以色列佔領的約旦河西岸地區巴勒斯坦人遭受的嚴重侵犯人權行為負責。宣告說，被列入制裁名單的4個實體和3名個人，涉及以色列極端主義定居者組織、支援定居者的組織及相關負責人。這些組織和個人透過建立或支援定居點前哨、推動拆除巴勒斯坦人資產、組織武裝志願者和提供物資支援等方式，加劇約旦河西岸暴力，導致巴勒斯坦社群被迫遷離、財產受損。（新華社）
-
----
-
-### 2026-05-29 05:23:55  #國際
-
-【美國消費者保護監管機構召回全國所有員工至華盛頓總部】一封電子郵件顯示，美國政府負責消費者金融保護的最高監管機構週三表示，將在今年晚些時候把全國幾乎所有員工重新分配到其華盛頓總部。這是特朗普政府在無法直接取締該機構的情況下，試圖對其進行弱化乃至實質性消減的最新舉措。 這一決定涉及約450名原本駐紮在消費者金融保護局（CFPB）前舊金山、亞特蘭大、芝加哥和紐約區域辦公室附近的員工。由於同時將取消遠端辦公安排，此舉很可能會加速該機構近期本已嚴峻的辭職潮。一年多來，總統特朗普領導的政府一直在法庭上進行訴訟，以期獲得解僱該機構絕大多數員工的授權，但迄今為止其計劃一直遭到阻職。
-
----
-
-### 2026-05-29 05:23:38  #其他
-
-【發行主體明顯增多 熊貓債年內發行規模突破1200億元】熊貓債是指境外機構在中國境內發行的、以人民幣計價的債券。今年以來，熊貓債市場快速擴容。Wind資料顯示，截至5月26日，2026年年內熊貓債發行規模已突破1200億元，發行主體覆蓋主權機構、多邊開發機構、跨國企業與科創企業。其中，一季度共新發45筆熊貓債、合計規模882.35億元，創下單季發行規模新高。（上證報）
-
----
-
-### 2026-05-29 05:22:25  #市場
-
-【“中國資產值得長期持有” 外資機構增配A股或迎來“黃金期”】隨著科技革命與產業變革加速演進，中國由於經濟韌性足、抗風險能力強、向新動能足，吸引外資機構持續增配中國資產。5月28日，在深交所舉辦的2026全球投資者大會上，與會嘉賓表示，中國經濟具有獨一無二的執行週期，中國市場在應對外部衝擊時表現出較強的穩定性，產生了持久吸引力。（上證報）
-
----
-
-### 2026-05-29 05:22:11  #國際
-
-韓國外交部：韓美將於6月2日至3日舉行高階別安全會談。
-
----
-
-### 2026-05-29 05:22:03  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-South Korea and the United States will hold high-level security talks on June 2-3, the South Korean foreign ministry said.
-
----
-
-### 2026-05-29 05:19:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iranian armed forces fire warning shots at four vessels near Strait of Hormuz】On May 28 local time, Iranian armed forces fired warning shots at four non-compliant vessels near the Strait of Hormuz. Iranian sources say forces later that evening launched missiles from southern Iran at “specific targets”; the targets and operational details have not been released. Other sources report possible exchanges of fire in the Persian Gulf, but those reports remain unconfirmed.
-
----
-
-### 2026-05-29 05:16:42  #公司 #資料 #市場 #觀點 #其他
-
-【5月29日美股成交額前20：微軟將於下週推出多款自研AI模型】週四美股成交額第3名微軟收高3.47%，成交193.03億美元。微軟將於下週在Build開發者大會上推出多款自研AI模型，重點包括一款程式碼專用模型，以提升GitHub Copilot的競爭力。目前該工具市場份額正被Cursor和Claude Code蠶食。此外，微軟還將釋出專攻語音轉寫、推理、影象生成等場景的模型。
-
----
-
-### 2026-05-29 05:16:39  #MKT News #Important #DELL.N #Impact bullish
-
-Dell (DELL.N) shares rose 26% in after-hours trading.
-
----
-
-### 2026-05-29 05:15:44  #市場
-
-富時A50夜期收漲0.04%，報15659點。
 
 ---

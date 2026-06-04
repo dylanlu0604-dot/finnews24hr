@@ -1,7 +1,190 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-05 05:15:28_
-_本檔包含 4168 則快訊，約 718147 字_
+_更新時間：2026-06-05 06:12:10_
+_本檔包含 4144 則快訊，約 717298 字_
+
+---
+
+### 2026-06-05 06:09:55  #其他
+
+【券商密集釋出2026年度提質增效方案，錨定投行提質、控薪增效、分紅回饋三條主線】據統計，截至6月3日，已有16家上市券商披露2026年度“提質增效重回報”行動方案。從頭部券商到區域特色券商，各家方案在“建設一流投行”“壓實關鍵少數責任”“提升股東回報”三大方向上形成共識，且因資源稟賦差異走出了不同路徑。（上證報）
+
+---
+
+### 2026-06-05 06:05:15  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index eases 0.11% to 99.419 at New York close】The dollar index (DXY) eased 0.11% to 99.419 at the New York close. EUR/USD 1.1614 (prev. 1.1598); GBP/USD 1.3425 (1.3416); USD/JPY 160.02 (160.03); USD/CHF 0.7892 (0.7924); USD/CAD 1.3899 (1.3895); USD/SEK 9.3737 (9.4065).
+
+---
+
+### 2026-06-05 06:04:18  #市場
+
+【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.419。截至紐約匯市尾市，1歐元兌換1.1614美元，高於前一交易日的1.1598美元；1英鎊兌換1.3425美元，高於前一交易日的1.3416美元。1美元兌換160.02日元，低於前一交易日的160.03日元；1美元兌換0.7892瑞士法郎，低於前一交易日的0.7924瑞士法郎；1美元兌換1.3899加元，高於前一交易日的1.3895加元；1美元兌換9.3737瑞典克朗，低於前一交易日的9.4065瑞典克朗。
+
+---
+
+### 2026-06-05 06:01:52  #公司 #市場 #國際
+
+【6月5日隔夜要聞一覽】
+1、美股週四收盤漲跌不一，道指上漲逾870點並創歷史新高。 道指漲874.86點，漲幅為1.73%，報51561.93點；納指跌23.02點，跌幅為0.09%，報26830.96點；標普500指數漲30.63點，漲幅為0.41%，報7584.32點。
+2、普京願在俄美會晤基礎上與烏談判，澤連斯基公開致信普京，提議舉行會晤。
+3、特朗普稱若達成協議，不排除與伊朗最高領袖會晤。
+4、伊朗外長阿拉格齊表示，伊朗此前已警告該地區各國，如果它們參與對伊朗的侵略，其境內的美國軍事基地將成為伊朗的合法打擊目標。
+5、瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。
+6、美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。
+7、伊朗最高領袖軍事顧問雷扎伊表示，如果以色列向黎巴嫩的達希耶方向推進，伊朗所有的導彈便會蓄勢待發。
+8、葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。
+9、巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。
+
+---
+
+### 2026-06-05 06:00:38  #市場 #焦點
+
+現貨白銀突破74美元/盎司，日內漲0.03%。
+
+---
+
+### 2026-06-05 06:00:19  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為96.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96.4%，累計降息25個基點的機率為3.6%。美聯儲到7月維持利率不變的機率為88.5%，累計加息25個基點的機率8.2%，累計降息25個基點的機率為3.2%。
+
+---
+
+### 2026-06-05 05:55:18  #其他
+
+中國地震臺網正式測定：06月05日05時49分在新疆阿克蘇地區庫車市（北緯41.31度，東經83.95度）發生3.6級地震，震源深度17千米。
+
+---
+
+### 2026-06-05 05:52:55  #MKT News
+
+U.S. President Trump said he will hold a celebration in Washington, D.C., on June 24 to mark the 250th anniversary of U.S. founding.
+
+---
+
+### 2026-06-05 05:50:16  #國際
+
+【哈馬斯高官與伊朗外長通話討論地區局勢 】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。宣告說，哈亞在通話中表示，以色列持續侵略和佔領加沙地帶，並阻撓停火協議執行。他重申巴勒斯坦各抵抗派別和巴勒斯坦人民的堅定立場，即繼續抵抗直至實現巴勒斯坦民族目標，特別是要結束以色列的侵略和佔領。宣告說，阿拉格齊在通話中讚揚巴勒斯坦人民和巴勒斯坦各抵抗派別面對以色列襲擊所展現出的頑強意志。他表示，伊朗將繼續奉行支援中東地區人民、特別是巴勒斯坦和黎巴嫩人民對抗以色列佔領和侵略這一原則性政策。（新華社）
+
+---
+
+### 2026-06-05 05:48:47  #其他
+
+訊息人士稱，SpaceX告知投行其IPO發行價定為每股135美元，不會變動。
+
+---
+
+### 2026-06-05 05:48:18  #國際
+
+【美國小企業招聘計劃降至2020年5月以來最低】美國獨立企業聯合會(NFIB)表示，美國小企業中，表示計劃新增招聘和表示難以填補職位空缺的企業佔比5月份雙雙降至六年低點。NFIB在週四釋出的報告中表示，經季節性調整後，9%的企業主計劃在未來三個月新增崗位，較4月份下降4個百分點；表示有職位空缺無法填補的企業佔比下降5個百分點至29%。這兩項指標均為2020年5月以來最低。
+
+---
+
+### 2026-06-05 05:47:21  #國際
+
+特朗普：將於6月24日晚7點在華盛頓特區舉行集會。
+
+---
+
+### 2026-06-05 05:46:17  #國際
+
+【以色列繼續空襲黎巴嫩 真主黨打死以軍士兵 】據黎巴嫩國家通訊社4日報道，以色列軍隊當天繼續對黎南部和東部貝卡谷地發動一系列空襲，造成至少9人死亡、數十人受傷。以色列軍方宣佈，一名以軍士兵在黎南部死於黎真主黨襲擊。黎通社報道，當天傷亡最嚴重的一起空襲發生在貝卡谷地索赫穆爾鎮，造成5人死亡、4人受傷。黎南部阿巴西耶鎮和邁阿魯卜鎮也遭以軍空襲，共造成4人死亡、2人受傷。報道說，以軍戰機和無人機當天還對黎南部另外幾地發動空襲，造成多人受傷，部分民用設施受損。（新華社）
+
+---
+
+### 2026-06-05 05:45:52  #MKT News
+
+Sources said SpaceX told investment banks its IPO is set at $135 a share and will not change.
+
+---
+
+### 2026-06-05 05:45:39  #國際
+
+【伊朗官員：若以色列向黎巴嫩達希耶方向推進將承受巨大代價】當地時間4日，伊朗最高領袖軍事顧問雷扎伊表示，如果以色列向黎巴嫩的達希耶方向推進，伊朗所有的導彈便會蓄勢待發。若真如此，伊朗將讓以色列承受巨大代價。此外他表示，霍爾木茲海峽是為貿易而開放，而非供軍事力量駐紮。如果美國聲稱支援貿易，那麼它就應當放棄軍事封鎖行徑。（央視新聞）
+
+---
+
+### 2026-06-05 05:45:27  #公司 #國際
+
+標普道瓊斯指數公司： 已就標普美國系列指數、道瓊斯全市場指數中巨型市值公司編制規則的潛在修訂開展市場徵詢。 標普 500、標普中型股 400 及標普小型股 600 的入選標準維持不變。
+
+---
+
+### 2026-06-05 05:44:12  #MKT News
+
+【Trump welcomes potential Putin–Zelenskiy meeting, says Russia and Ukraine will 'compromise'】At a White House event on the 4th, President Trump told reporters he would welcome a meeting between Russian President Putin and Ukrainian President Zelenskiy and said such a meeting would be "very good." He said progress toward talks owed 'to our push,' added Moscow and Kyiv would make compromises 'as I suggested,' and declined to disclose details.
+
+---
+
+### 2026-06-05 05:44:07  #國際
+
+【特朗普：樂見“普澤會”，俄烏會“妥協”】美國總統特朗普4日在白宮一場活動上對媒體說，俄羅斯總統普京和烏克蘭總統澤連斯基若能會面，將“非常好”。被問及澤連斯基當天公開致信普京提議在第三國舉行會晤時，特朗普說，他很高興看到兩國領導人似乎正在商討會面事宜，稱“這其中很大程度上歸功於我們的推動”。“如果他們能見上一面，那將是一件非常好的事。他們真該把這件事定下來。”特朗普還說，為結束俄烏衝突，俄烏雙方都會作出妥協，就像“我建議的那樣”。但他拒絕透露相關詳情。（新華社）
+
+---
+
+### 2026-06-05 05:36:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【International oil prices fell sharply on the 4th】At the close on the 4th, NYMEX July light sweet crude futures fell $2.98 to $93.04/bbl, down 3.10%. ICE Brent August futures fell $2.78 to $95.03/bbl, down 2.84%.
+
+---
+
+### 2026-06-05 05:34:11  #市場
+
+【國際油價4日顯著下跌】國際油價4日顯著下跌。 截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.98美元，收於每桶93.04美元，跌幅為3.10%；8月交貨的倫敦布倫特原油期貨價格下跌2.78美元，收於每桶95.03美元，跌幅為2.84%。(新華社)
+
+---
+
+### 2026-06-05 05:34:04  #公司
+
+谷歌：自 2026 至 2027 學年起，與猶他州教育委員會合作，在當地 K-12 中小學落地教育版 Gemini。
+
+---
+
+### 2026-06-05 05:33:12  #MKT News
+
+Fox News reported the Trump administration plans to issue a policy statement telling banks they may take customers' immigration status into account as one factor when evaluating ability to repay mortgages and credit-card debt.
+
+---
+
+### 2026-06-05 05:29:12  #國際
+
+市場訊息：美國將讓銀行業關注客戶的移民狀態。美國消費者金融保護局（CFPB）將於6月5日釋出銀行業政策。
+
+---
+
+### 2026-06-05 05:25:29  #央行 #國際
+
+特朗普的顧問納瓦羅：美聯儲不應該加息，那會造成供應衝擊並傳到至通脹。
+
+---
+
+### 2026-06-05 05:23:55  #公司
+
+標普道瓊斯指數公司計劃不對超大市值公司指數的入選資格期限做出任何調整。
+
+---
+
+### 2026-06-05 05:21:30  #其他
+
+標普道瓊斯指數：巨型市值股票指數入選視窗期暫無調整計劃。
+
+---
+
+### 2026-06-05 05:19:39  #國際
+
+據CNN：影片顯示，今年3月參與對伊朗軍事行動時發生火災的美國“福特”號航母，其損壞程度比海軍方面所說的要嚴重得多。
+
+---
+
+### 2026-06-05 05:19:38  #MKT News
+
+According to CNN, video footage shows the US carrier USS Ford, which suffered a fire in March during operations against Iran, appears more severely damaged than the US Navy has reported.
+
+---
+
+### 2026-06-05 05:15:20  #市場
+
+富時A50期指連續夜盤收漲0.16%，報15734點。
 
 ---
 
@@ -24766,323 +24949,5 @@ Brazilian President Lula has decided to attend the G7 summit.
 ### 2026-06-03 22:16:58  #MKT News
 
 Williams said the Federal Reserve does not have groupthink.
-
----
-
-### 2026-06-03 22:16:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Williams said the Fed does not plan to change public speaking arrangements under the new leadership.
-
----
-
-### 2026-06-03 22:16:50  #其他
-
-巴西總統盧拉：任何尋求關鍵礦產的人都必須與巴西政府對話。
-
----
-
-### 2026-06-03 22:16:42  #Trading Economics #Markets #commodity #Importance 0
-
-Wheat Hits 6-week Low — Wheat decreased to 595.00 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Wheat lost 5.34%, and in the last 12 months, it increased 9.69%.
-
----
-
-### 2026-06-03 22:16:36  #央行 #國際
-
-美聯儲威廉姆斯：美聯儲內部不存在群體盲從思維。
-
----
-
-### 2026-06-03 22:16:20  #MKT News
-
-Brazilian President Lula said any party seeking critical minerals must engage in talks with the Brazilian government.
-
----
-
-### 2026-06-03 22:16:13  #央行 #國際
-
-美聯儲威廉姆斯：在美聯儲新一屆領導層任職期間，我不計劃改變公開講話的工作安排。
-
----
-
-### 2026-06-03 22:15:27  #央行 #國際
-
-美聯儲威廉姆斯表示：沃什在當前充滿挑戰的時期非常專注於自身工作。
-
----
-
-### 2026-06-03 22:15:18  #MKT News #Brent #Impact bullish #WTI
-
-Rubio: Disagreements between Saudi Arabia and the UAE complicate U.S. efforts in Sudan.
-
----
-
-### 2026-06-03 22:15:16  #國際
-
-魯比奧：沙烏地阿拉伯和阿聯酋之間的分歧使美國在蘇丹問題上的努力變得更加複雜。
-
----
-
-### 2026-06-03 22:15:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Williams said Fed Chair Kevin Warsh is highly focused on his work amid a challenging period.
-
----
-
-### 2026-06-03 22:15:09  #其他
-
-【群聯潘健成：2027年儲存缺貨將比今年更嚴重】群聯執行長潘健成在近日採訪中表示，隨著AI資料中心、地端AI和AI PC逐步落地，儲存需求將持續擴大。目前產業最大問題已不是需求，而是供給無法滿足日益增長的需求。針對AI驅動的儲存需求增長，潘健成表示，全球AI使用者規模還在持續擴張，未來使用頻率同樣會迎來跨越式增長。現階段多數使用者每兩小時問一次AI，預計兩年之後單次使用間隔或將壓縮至十分鐘。當下人機互動大多依託文字內容實現，往後應用場景會逐步向影像和多模態應用發展，推動Token與各類資料量規模呈倍數增長。潘健成也指出，AI的發展一定需要DRAM和NAND Flash，且AI模型規模越大，對儲存容量需求也越高。企業投入大量資金購置GPU後，創造收入就會產生資料，即推動儲存需求。雖然各大原廠都持續擴充產能，但新增的產能仍遠追不上需求成長。預計供需吃緊的狀態短期內難以緩解，明年儲存缺貨情況將比今年更嚴重。
-
----
-
-### 2026-06-03 22:15:04  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams said core inflation still faces some downward pressure.
-
----
-
-### 2026-06-03 22:14:53  #國際
-
-巴西總統盧拉：如果美國不願購買巴西產品，我們將尋找其他貿易伙伴。
-
----
-
-### 2026-06-03 22:14:53  #Trading Economics #Economy #United States #Factory Orders #Importance 1
-
-US Durable Goods Orders Rise Most in 11 Months — US factory order surged 4.8% from the previous month to $662.7 billion in April of 2026, ahead of market expectations of 4.6% and extending the upwardly revised 1.8% increase in March, the most in 11 months. Durable goods orders jumped by 8% to $346.2 billion, aliging with results from comparable surveys as clients had front-loaded orders before the war in the Middle East could incrase prices further. Orders were higher for transportation (21.6% to $131.1 billion) due to a surge in nondefense aircraft orders (165.9% to $36.79 billion). Orders also rose for fabricated metal products (3.5% to $44.5 billion) and primary metals (2% to $29.5 billion). In turn, orders fell for computers and electronics (-0.7% to $29.7 billion). Nondurable goods orders rose by 1.4% to $316.5 billion.
-
----
-
-### 2026-06-03 22:14:50  #MKT News
-
-Brazilian President Lula said he will write again to U.S. President Trump and show them they are wrong.
-
----
-
-### 2026-06-03 22:14:41  #國際
-
-盧拉：我會讓特朗普知道他們錯了。
-
----
-
-### 2026-06-03 22:14:34  #央行 #國際
-
-美聯儲威廉姆斯：預計明年通脹將降低。我們距離中性利率並不遠。
-
----
-
-### 2026-06-03 22:14:31  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams said policymakers are not far from the neutral policy rate.
-
----
-
-### 2026-06-03 22:14:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams expects inflation to ease next year.
-
----
-
-### 2026-06-03 22:14:20  #央行 #國際
-
-美聯儲威廉姆斯：債券市場在政策觀點的判斷上非常依賴資料。
-
----
-
-### 2026-06-03 22:14:19  #MKT News
-
-US Secretary of State Rubio said he hopes the Israel-Lebanon meeting on Wednesday will produce a joint statement and an action plan.
-
----
-
-### 2026-06-03 22:14:13  #MKT News #RIVN.O #Impact bullish
-
-RIVIAN (RIVN.O) shares rose about 5% after AT&T said it will provide 5G connectivity for the R2 model.
-
----
-
-### 2026-06-03 22:14:12  #公司 #市場 #國際
-
-美國電動汽車公司Rivian(RIVN.O)股價上漲至5%，AT&T正在為R2車型提供5G連線服務。
-
----
-
-### 2026-06-03 22:14:09  #國際
-
-盧拉：美國必須尊重巴西的選舉，就像我們尊重他們的一樣。
-
----
-
-### 2026-06-03 22:13:57  #國際
-
-盧拉：我會再給特朗普寫一封信。
-
----
-
-### 2026-06-03 22:13:48  #國際
-
-魯比奧：希望週三的以色列-黎巴嫩會談能達成聯合宣告與行動計劃。
-
----
-
-### 2026-06-03 22:13:39  #其他
-
-【世衛組織總幹事呼籲建立長期醫療防禦機制 應對埃博拉疫情】世界衛生組織總幹事譚德塞在新聞釋出會上強調，控制埃博拉疫情只是時間問題，但真正的成功應在於預防未來的疫情。譚德塞表示，世衛組織在全力應對當前疫情的同時，將致力於協助當地政府建設和完善長期的醫療與人道主義服務體系，打破“頭痛醫頭”的迴圈。世衛組織5月17日宣佈，剛果（金）和烏干達出現的埃博拉疫情構成“國際關注的突發公共衛生事件”。本輪疫情由本迪布焦型埃博拉病毒引起，目前尚無獲批疫苗和特異性治療方法。
-
----
-
-### 2026-06-03 22:13:37  #市場 #央行 #國際
-
-【分析師：加息押注和美國經濟增長走強提振美元】施羅德投資分析師在一份報告中表示，在富有韌性的美國經濟增長以及對美聯儲將加息的預期不斷升溫的支撐下，美元前景有所改善。“儘管長期結構性擔憂依然存在，但相對更強勁的美國經濟增長和更高的利率差繼續在戰術上支撐該貨幣兌發達市場同行的表現。“施羅德投資將其對美元的看法從負面上調至中性。DXY美元指數上漲0.2%，至99.491的一週高點，在好於預期的ADP私營部門就業人數報告發布後擴大漲幅。
-
----
-
-### 2026-06-03 22:13:15  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed
-
-Federal Reserve's Williams said the bond market is highly data-dependent in forming views on policy.
-
----
-
-### 2026-06-03 22:12:52  #央行 #國際
-
-美聯儲威廉姆斯：對未來利率沒有明顯的方向。不認為前瞻指引特別有幫助。貨幣政策略顯緊縮。債券市場必須對貨幣政策得出自己的結論。
-
----
-
-### 2026-06-03 22:12:49  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y
-
-Fed's Williams said the bond market must draw its own conclusions about monetary policy.
-
----
-
-### 2026-06-03 22:12:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said if conditions change the Fed will need to respond.
-
----
-
-### 2026-06-03 22:12:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-Federal Reserve's Williams said monetary policy is slightly restrictive.
-
----
-
-### 2026-06-03 22:11:58  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said he does not think forward guidance is particularly helpful.
-
----
-
-### 2026-06-03 22:11:49  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said there is no clear direction for future interest rates.
-
----
-
-### 2026-06-03 22:11:45  #MKT News #Market Themes #The Trump Trade
-
-Brazilian President Lula said a recent meeting with US President Trump left him believing relations are improving and that he was surprised by a tariff proposal.
-
----
-
-### 2026-06-03 22:11:38  #其他
-
-加拿大文化部長：現在不是讓文化和娛樂變得更昂貴的時候。新的線上流媒體規則可能會導致家庭成本上升。
-
----
-
-### 2026-06-03 22:11:23  #MKT News
-
-Canada's culture minister said now is not the time to make culture and entertainment more expensive, warning new online streaming rules could raise household costs.
-
----
-
-### 2026-06-03 22:11:15  #國際
-
-盧拉：與美國的貿易談判尚未結束。
-
----
-
-### 2026-06-03 22:11:03  #其他
-
-加拿大文化部長要求廣播監管機構重新審查線上流媒體決定。
-
----
-
-### 2026-06-03 22:11:01  #MKT News
-
-Canada's culture minister has asked the broadcasting regulator to re-examine its decision on online streaming.
-
----
-
-### 2026-06-03 22:10:59  #公司 #國際
-
-【兩萬名40多歲中年人，高風險槓桿爆炒三星、SK海力士，人均投資22萬元】據韓聯社3日訊息，在持有三星電子和SK海力士單隻股票的槓桿ETF投資者中，40多歲的投資者成為最大群體，無論是在人數還是總投資額方面，均遙遙領先。 報道稱，一項分析顯示，透過彙總韓國投資證券、三星證券、KB證券和NH投資證券四大韓國主要券商的資料，對14種個股槓桿產品（不含兩種做空/反向產品）在為期四個交易日（5月27日至6月1日）內的投資者情況及投資金額進行統計。結果顯示，共有70850名投資者參與，總投資額達3.2755萬億韓元（約合人民幣145.43億元），人均投資金額為4623萬韓元（約合人民幣20.57萬元）。在這一總數中，40歲年齡段的投資者人數最多，為20489人，佔比28.9%。該年齡段投資者的總投資額也高達1.0225萬億韓元（約合人民幣45.50億元），佔比31.2%居於首位。（中新經緯）
-
----
-
-### 2026-06-03 22:10:42  #央行 #國際
-
-美聯儲威廉姆斯：通脹的上行風險已增加。
-
----
-
-### 2026-06-03 22:10:40  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-Fed's Williams says inf upside risks have increased.
-
----
-
-### 2026-06-03 22:10:31  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said the central bank will await developments in the latest tariff measures.
-
----
-
-### 2026-06-03 22:10:27  #央行 #國際
-
-美聯儲威廉姆斯：貨幣政策“正好”處於合適的位置，無需加息或降息。
-
----
-
-### 2026-06-03 22:10:21  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #US10Y #S&P500
-
-Fed's Williams: monetary policy is 'just right'; no need to raise or cut interest rates.
-
----
-
-### 2026-06-03 22:10:13  #其他
-
-威廉姆斯：新增關稅難以大幅拉動通脹。
-
----
-
-### 2026-06-03 22:09:41  #央行 #國際
-
-美聯儲威廉姆斯：最新關稅舉措的影響仍有待觀察。
-
----
-
-### 2026-06-03 22:09:23  #國際
-
-巴西總統盧拉：如果說誰應該加徵關稅的話，那應該是巴西對美國加徵。
-
----
-
-### 2026-06-03 22:09:12  #MKT News
-
-Brazilian President Lula said trade negotiations remain incomplete and that Brazil was surprised by the U.S. Trade Representative's tariff proposal.
-
----
-
-### 2026-06-03 22:08:57  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Brent
-
-Brazilian President Lula said if tariffs are to be imposed, they should be Brazil's on the US.
-
----
-
-### 2026-06-03 22:08:54  #國際
-
-巴西總統盧拉：我們對美國貿易代表辦公室的關稅提案感到意外，因為貿易談判尚未結束。
 
 ---
