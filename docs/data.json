@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-05 03:37:06",
-  "count": 18987,
+  "updated": "2026-06-05 03:40:51",
+  "count": 18988,
   "items": [
+    {
+      "id": "mkt:019e9426-2717-755d-92d5-a2584d6ac6ef",
+      "time": "2026-06-05 03:39:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Zelenskiy offers direct talks, proposes ceasefire and \"all-for-all\" prisoner swap in public letter to Putin】On the 4th (local time) Ukrainian President Zelenskiy sent a public letter to Russian President Putin proposing a direct meeting to seek an end to the conflict and to establish concrete security guarantees. Zelenskiy said Ukraine does not intend the war to continue and put forward a ceasefire negotiation plan: direct Ukraine‑Russia talks first, with the US, Europe and other parties joining later to support a security framework. He said Ukraine is prepared to implement a comprehensive ceasefire during negotiations and to pursue prisoner exchanges on an \"all-for-all\" basis. Kremlin press secretary Peskov said Putin has not yet read the letter."
+    },
+    {
+      "id": "4918101",
+      "time": "2026-06-05 03:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將建設2座新煤電廠並出口煤炭。將動用《國防生產法》來保留13座煤電廠。"
+    },
+    {
+      "id": "4918100",
+      "time": "2026-06-05 03:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部部長羅林斯： 在另行通知前，美國入境口岸將持續暫停受理來自墨西哥的牲畜入境。"
+    },
+    {
+      "id": "4918099",
+      "time": "2026-06-05 03:37:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Coinbase推出SpaceX上市前永續合約】SpaceX上市倒計時之際，Coinbase宣佈推出上市前永續合約產品，允許投資者在私營公司IPO前提前押注其未來市場表現。現貨加密貨幣交易持續低迷之際，交易所正試圖透過超級新股“Pre-IPO交易”開闢新增長點。"
+    },
+    {
+      "id": "4918098",
+      "time": "2026-06-05 03:37:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：汽車行業希望出臺法案限制車主的維修權。"
+    },
     {
       "id": "mkt:019e9422-6b55-755d-92d5-9bc4e8f19472",
       "time": "2026-06-05 03:35:43",
@@ -174960,40 +175007,6 @@
         "Brent"
       ],
       "text": "US issues general license permitting negotiations and execution of interim contracts for the sale of Lukoil International."
-    },
-    {
-      "id": "4905534",
-      "time": "2026-05-29 03:40:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "檔案顯示：迪士尼提前向美國聯邦通訊委員會提交 8 家美國廣播公司電視臺的牌照續期申請，並聲稱政府相關要求不合法。"
-    },
-    {
-      "id": "4905533",
-      "time": "2026-05-29 03:39:06",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部發布通用許可，准許開展部分交易，可洽談並簽訂涉及盧克石油國際相關資產的附條件銷售合同。"
-    },
-    {
-      "id": "mkt:019e7018-7502-7eef-a302-a19ddb75a1a4",
-      "time": "2026-05-29 03:38:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Treasury issued general licenses related to Russia."
-    },
-    {
-      "id": "mkt:019e7018-73a0-7eef-a302-98ddd2598ff8",
-      "time": "2026-05-29 03:38:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury updates Iran-related sanctions list."
     }
   ]
 }
