@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-05 04:00:12",
-  "count": 18992,
+  "updated": "2026-06-05 04:03:57",
+  "count": 18994,
   "items": [
+    {
+      "id": "4918120",
+      "time": "2026-06-05 04:03:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "KBW銀行指數收盤上漲3.7%，創2月份以來最高。"
+    },
+    {
+      "id": "4918119",
+      "time": "2026-06-05 04:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京與澤連斯基雙方都將做出妥協。"
+    },
+    {
+      "id": "mkt:019e943b-1cdf-755d-92d5-f3e99bd0bcf4",
+      "time": "2026-06-05 04:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said PULTE's appointment as acting director of national intelligence is a short-term arrangement and that he could be highly effective in the near term."
+    },
+    {
+      "id": "4918118",
+      "time": "2026-06-05 04:02:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團收漲7.5%，創2025年4月份以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019e943a-c9e8-755d-92d5-efc6a2adc6f4",
+      "time": "2026-06-05 04:02:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Investors' demand for clarity on Venezuela's measures to revive its oil-rich economy and restructure debt has prompted JP Morgan and Jefferies to arrange fact‑finding visits to Caracas. Jefferies executives visited this week and are considering a return in the coming weeks; JP Morgan is working to schedule a trip and may bring clients."
+    },
+    {
+      "id": "4918117",
+      "time": "2026-06-05 04:01:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及普爾特出任代理國家情報總監：該任命為臨時安排，短期內他大機率能高效履職。"
+    },
+    {
+      "id": "mkt:019e9439-df73-755d-92d5-e56ff51787d8",
+      "time": "2026-06-05 04:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the combined value of Fannie Mae and Freddie Mac could be as high as $1 trillion."
+    },
+    {
+      "id": "mkt:019e9439-cdcf-755d-92d5-dc68697c33b7",
+      "time": "2026-06-05 04:01:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AVGO.O",
+        "Impact bearish",
+        "MU.O",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: Dow hits record high; Broadcom tumbles over 12%】US stocks closed Thursday. Dow Jones Industrial Average rose about 1.7% to a record close; S&P 500 up 0.4%; Nasdaq Composite marginally lower. NVIDIA (NVDA.O) +~2%; Micron Technology (MU.O) -7.7%; Broadcom (AVGO.O) -over 12%. Nasdaq Golden Dragon China Index -0.6%; XPeng (XPEV.N) -3.5%."
+    },
+    {
+      "id": "4918116",
+      "time": "2026-06-05 04:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特不會長期擔任情報主管。"
+    },
+    {
+      "id": "4918115",
+      "time": "2026-06-05 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.73%，標普500指數漲0.41%，納指跌0.07%。黑石漲7.50%，休曼納漲6.80%，羅賓漢漲6.60%，Axon Enterprise漲6.59%，Ciena科技跌13.58%，博通跌12.59%。“七姐妹”方面：谷歌漲3.87%，英偉達漲1.92%，亞馬遜漲1.51%，Meta Platforms漲0.69%，蘋果漲0.34%，微軟漲0.19%，特斯拉跌1.24%。"
+    },
+    {
+      "id": "4918114",
+      "time": "2026-06-05 04:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及普爾特：他十分精明。房利美、房地美的價值可能有1萬億美元。"
+    },
+    {
+      "id": "4918113",
+      "time": "2026-06-05 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.53%】海天網路跌22.77%，中進醫療跌15.89%，逸仙電商跌12.07%，金生遊樂跌10.73%，1藥網跌10.27%。"
+    },
     {
       "id": "mkt:019e9438-34b1-755d-92d5-d058dcd44802",
       "time": "2026-06-05 03:59:31",
@@ -174938,103 +175048,6 @@
         "Nasdaq100"
       ],
       "text": "On Thursday, May 28, the Dow Jones Industrial Average closed up 24.69 points, or 0.05%, at 50,668.97. The S&P 500 closed up 43.31 points, or 0.58%, at 7,563.67. The Nasdaq Composite closed up 242.74 points, or 0.91%, at 26,917.47."
-    },
-    {
-      "id": "4905552",
-      "time": "2026-05-29 04:03:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美國網存美股盤後上漲18%，此前該公司釋出2027年營收預期超出預期。"
-    },
-    {
-      "id": "4905551",
-      "time": "2026-05-29 04:03:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "百思買收漲16%，創2020年以來最大單日漲幅。"
-    },
-    {
-      "id": "4905550",
-      "time": "2026-05-29 04:03:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Autodesk將按大約36億美元現金收購Maintainx。"
-    },
-    {
-      "id": "4905549",
-      "time": "2026-05-29 04:03:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.19%，在匯市尾市收於99.020。截至紐約匯市尾市，1歐元兌換1.1648美元，高於前一交易日的1.1629美元；1英鎊兌換1.3440美元，高於前一交易日的1.3430美元。1美元兌換159.26日元，低於前一交易日的159.51日元；1美元兌換0.7841瑞士法郎，低於前一交易日的0.7868瑞士法郎；1美元兌換1.3784加元，低於前一交易日的1.3835加元；1美元兌換9.2551瑞典克朗，低於前一交易日的9.2972瑞典克朗。"
-    },
-    {
-      "id": "mkt:019e702e-2bc0-7eef-a302-d315f468272c",
-      "time": "2026-05-29 04:02:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS reported Iran launched missiles from its southern region, reportedly firing warning shots at an enemy warship."
-    },
-    {
-      "id": "4905548",
-      "time": "2026-05-29 04:02:10",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "Okta一季度調整後每股收益（EPS）為0.91美元，分析師預期0.85美元。\n預計全年營收31.9億-32.1億美元，公司原本預計31.7億-31.9億美元。\n預計全年調整後EPS為3.79-3.87美元，公司原本預計3.74-3.82美元。\n預計二季度營收7.90億-7.94億美元，分析師預期7.915億美元。\n預計二季度調整後EPS為0.95-0.97美元，分析師預期0.96美元。"
-    },
-    {
-      "id": "4905547",
-      "time": "2026-05-29 04:01:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "新思科技股價收盤下跌8.6%，創2025年10月以來最大跌幅。"
-    },
-    {
-      "id": "4905546",
-      "time": "2026-05-29 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.05%，標普500指數漲0.58%，納指漲0.91%。美元樹漲17.87%，安捷倫科技漲16.90%，百思買漲15.80%，荷美爾漲12.55%，Axon Enterprise漲12.27%，羅賓漢漲11.36%。“七姐妹”方面：微軟漲3.46%，英偉達漲0.78%，亞馬遜漲0.77%，蘋果漲0.53%，特斯拉漲0.40%，谷歌漲0.34%，Meta Platforms跌0.02%。"
-    },
-    {
-      "id": "mkt:019e702c-e548-7eef-a302-cbe8d156273b",
-      "time": "2026-05-29 04:00:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【US Stocks Close: Major Indexes Up; Micron Slightly Pulls Back】U.S. equities closed higher: Dow +0.05%, S&P 500 +0.58%, Nasdaq +0.91%. Notable movers: Qualcomm (QCOM.O) +4.24%, Microsoft (MSFT.O) +3.47%, IBM (IBM.N) +3.53%, U.S. Rare Earths (USAR.O) +5.58%; Micron Technology (MU.O) -0.53%, Li Auto (LI.O) -1.52%."
-    },
-    {
-      "id": "mkt:019e702c-b8cb-7eef-a302-c3f74d67a143",
-      "time": "2026-05-29 04:00:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian outlet Fars News reports the missile's exact destination remains unclear."
     }
   ]
 }
