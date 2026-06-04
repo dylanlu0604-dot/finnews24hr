@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-04 22:52:11",
-  "count": 18917,
+  "updated": "2026-06-04 22:56:25",
+  "count": 18913,
   "items": [
+    {
+      "id": "mkt:019e9321-8db5-7ff8-893a-e297a0f358ed",
+      "time": "2026-06-04 22:55:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Financial Times reports Goldman Sachs expects SpaceX's AI-related revenue to grow 100-fold by 2030."
+    },
+    {
+      "id": "mkt:019e9321-503d-7ff8-893a-d84dfda91e51",
+      "time": "2026-06-04 22:54:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE tin 2607 fell 2.99% intraday to 428,230 yuan/ton; turnover about CNY 39.94 bln and open interest rose nearly 1,600 contracts, with heightened intraday volatility."
+    },
+    {
+      "id": "4917749",
+      "time": "2026-06-04 22:54:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛預計，到2030年太空探索技術公司（SpaceX）的人工智慧收入將激增100倍。"
+    },
     {
       "id": "mkt:019e931d-e9e0-7ff8-893a-d478b6efa76a",
       "time": "2026-06-04 22:51:11",
@@ -174243,72 +174274,6 @@
         "Importance 1"
       ],
       "text": "Oracle Stock Price Hits 19-week High — Oracle shares increased to 200.80 USD, the highest since January 2026. Over the past 4 weeks, Oracle gained 22.35%, and in the last 12 months, it increased 23.04%."
-    },
-    {
-      "id": "mkt:019e6f14-fcfa-7554-9184-c636ccfa7c34",
-      "time": "2026-05-28 22:55:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Runjian Co. Joins China‑ASEAN AI Cooperation Center; To Cooperate On Compute, Large Models, Token Services】May 26 — The China‑ASEAN Artificial Intelligence Application Cooperation Center enterprise alliance was established in Nanning, Guangxi. Runjian Co. was named an inaugural executive council member of the Smart Enterprise Alliance and signed a strategic cooperation agreement with the China‑ASEAN AI Application Cooperation Center. The partnership targets AI compute infrastructure, industry large‑model R&D, token services, ASEAN scenario applications and AI industry‑ecosystem development, aiming to build an AI industry cooperation hub for ASEAN."
-    },
-    {
-      "id": "4905181",
-      "time": "2026-05-28 22:54:43",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【5月28日增減持彙總】據不完全統計，5月28日盤後，力合科技、西典新能披露增持情況，包括美年健康、正邦科技、天津普林、聲迅股份、中國核建、瑞晨環保、立昂微、漢纜股份、信科移動、新致軟體、成大生物、莊園牧場、廣康生化、燕東微在內的14家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "4905180",
-      "time": "2026-05-28 22:54:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤建股份戰略簽約中國—東盟人工智慧應用合作中心 將圍繞Token服務等方向開展深度合作】5月26日，中國—東盟國家人工智慧應用合作中心企業聯盟（簡稱“智企聯”）在廣西南寧正式成立。潤建股份成功入選智企聯第一批執行理事單位，並與中國—東盟國家人工智慧應用合作中心簽署戰略合作協議，雙方將圍繞人工智慧算力基礎設施、行業大模型研發、Token服務、東盟場景應用、AI產業生態建設等方向開展深度合作，共同打造面向東盟的人工智慧產業合作新高地。"
-    },
-    {
-      "id": "te:economy:554553",
-      "time": "2026-05-28 22:54:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Drops Further — The yield on the 10-year US Treasury note fell to 4.46%, extending the drop from the 16-month high of 4.7% touched on May 20th as reports of an interim deal between the US and Iran limited the inflationary outlook. The US and Iran reportedly agreed to a 60-day memorandum of understanding that extends the current ceasefire and gradually restores the flow of tankers and commercial vessels through the Strait of Hormuz. Energy prices pared their rebound, easing inflationary concerns despite new data consolidating the surge in prices. PCE inflation rose to a 3-year high of 3.8% in April, while consumer spending remained relatively robust and jobless claims maintained their low level. Hawkish remarks by FOMC members also prevented a further drop in yields. Fed Vice Chair Jefferson warned that inflation risks remain tilted to the upside, while Minneapolis Fed President Kashkari said consumer prices are still “much too high”."
-    },
-    {
-      "id": "4905179",
-      "time": "2026-05-28 22:52:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI初創公司Groq據悉正為新實體籌集6.5億美元資金】據Axios週四報道，AI晶片製造商Groq公司（Groq Inc.）在與英偉達(NVDA.O)達成一項價值200億美元的許可協議後，正向現有投資者籌集高達6.5億美元的資金，用於成立一家新公司。這家被稱為“Groq2”的新公司據稱將轉型脫離晶片製造業務，轉而專注於構建“AI新雲”（AI neoclouds）服務。"
-    },
-    {
-      "id": "mkt:019e6f12-c1f7-7554-9184-bb4bf73473e2",
-      "time": "2026-05-28 22:52:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Groq Said to Seek $650m for New Entity】Axios reported on Thursday that AI chipmaker Groq Inc. is raising up to $650m from existing investors to form a new company, reportedly named Groq2, after striking a $20bn licensing deal with NVIDIA (NVDA.O). The new entity would pivot away from chip manufacturing to build AI neoclouds services."
-    },
-    {
-      "id": "4905178",
-      "time": "2026-05-28 22:52:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：上海仙工智慧科技股份有限公司向港交所提交上市申請書。"
     }
   ]
 }
