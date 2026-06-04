@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-04 15:14:24",
-  "count": 19044,
+  "updated": "2026-06-04 15:18:26",
+  "count": 19046,
   "items": [
+    {
+      "id": "mkt:019e917e-cb19-7ffc-b901-a7193d45df30",
+      "time": "2026-06-04 15:17:46",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raises Broadcom PT to $515 from $430."
+    },
+    {
+      "id": "4916767",
+      "time": "2026-06-04 15:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將博通目標股價從430美元上調至515美元。"
+    },
+    {
+      "id": "te:markets:556424",
+      "time": "2026-06-04 15:16:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.57% Lower — The Shangai Composite Index dropped 23 points or 0.57 percent on Thursday to close at 4061 points. Losses were led by Aluminum Corporation of China (-9.33%), China Molybdenum (-5.73%) and Huaneng (-4.60%). Offsetting the fall, top gainers were Shanghai Petrochemical (10.10%), Sanan Optoelectron (9.99%) and Avic Aviation Engine (3.68%)."
+    },
+    {
+      "id": "te:economy:556423",
+      "time": "2026-06-04 15:16:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Hungary Retail Sales Growth Slows in April — Retail sales in Hungary rose by 3.6% year-on-year in April 2026, easing from a slightly downwardly revised 8.1% increase in the previous month. This marked the softest growth in retail activity since January, largely driven by significantly slower increase in sales for automotive fuel (9.1% vs 20.6% in March). Turnover in the non-food sector also rose at a lesser extent (2.6% vs 8.4%), due to declines in textile, clothing and footwear (-2.7% vs 4.5%), books, newspapers, stationery (-0.8% vs -4.4%), and second-hand products (-4% vs 4.4%). Meanwhile, revenues increased further for food products (3.4% vs 2.8%), particularly for food-related mixed stores (5.2% vs 4.4%), which partially offset decrease in food, beverage and tobacco (-2.7% vs -2.5%). On a seasonally adjusted monthly basis, retail activity fell by 1.2% in April after rising 1.9% in March. For the first four months of the year, total retail sales exceeded the same period of the previous year by 4.8%."
+    },
+    {
+      "id": "mkt:019e917d-5f68-7ffc-b901-995b374f74da",
+      "time": "2026-06-04 15:16:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【China government bond futures midday close】China 2-year government bond futures (TS) most-active contract rose 0.01% at the midday close; 5-year (TF) rose 0.05%; 10-year (T) rose 0.07%; 30-year (TL) rose 0.27%."
+    },
+    {
+      "id": "te:economy:556421",
+      "time": "2026-06-04 15:16:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Inflation Slows in May — The annual inflation rate in the Czech Republic eased to 2.1% year-on-year in May 2026 from 2.5% in the previous month and came in slightly below market expectations of 2.3%, according to preliminary estimates. The slowdown was mainly due to softer price increases in alcoholic beverages and tobacco (3.7% vs 5.2% in April), goods (0.6% vs 1.1%), and services (4.7% vs 4.8%). At the same time, costs for food and soft drinks continued to decline (-1.9% vs -1.3%).In contrast, energy prices increased further (1.8% vs. 1.5%). On a monthly basis, consumer prices rose 0.1% in May 2026, slowing from a 0.5% increase in the previous month."
+    },
+    {
+      "id": "te:economy:556420",
+      "time": "2026-06-04 15:15:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Switzerland Jobless Rate Steady at 3.0% — Switzerland’s non-seasonally adjusted unemployment rate stood at 3.0% in May 2026, unchanged from April and above market expectations of 2.9%. The number of unemployed people fell by 2.6 thousand from the previous month to 140.2 thousand, although unemployment remained 9.6% higher than a year earlier. The decline in unemployment was broad-based across most cantons, with the sharpest decreases recorded in Graubünden (-13.7%), Freiburg (-4.8%), and Wallis (-4.4%). By sector, unemployment fell notably in construction (-6.5%) and hospitality (-5.4%), reflecting seasonal improvements in labor demand. Meanwhile, the number of unemployed workers in finance and insurance services increased by 0.8% from April and was 19.4% higher than a year earlier. Compared to May 2025, the unemployment rate was higher than the 2.7% recorded a year earlier. On a seasonally adjusted basis, the unemployment rate edged up to 3.1% from 3.0%."
+    },
+    {
+      "id": "mkt:019e917c-e7e0-7ffc-b901-9596fd8a27ef",
+      "time": "2026-06-04 15:15:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preview: State Council Information Office to brief on Urban Renewal 15th Five-Year Plan on June 8】The State Council Information Office will hold a routine policy briefing at 10:00 a.m. on Monday, June 8, 2026, to present the Urban Renewal 15th Five-Year Plan. Deputy Minister Qin Haixiang of the Ministry of Housing and Urban‑Rural Development and officials from the National Development and Reform Commission, the Ministry of Finance, and the Ministry of Natural Resources will introduce the plan and take questions."
+    },
+    {
+      "id": "4916766",
+      "time": "2026-06-04 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.27%， 10年期主力合約漲0.07%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4916765",
+      "time": "2026-06-04 15:14:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告】國務院新聞辦公室將於2026年6月8日（星期一）上午10時舉行國務院政策例行吹風會，請住房城鄉建設部副部長秦海翔和國家發展改革委、財政部、自然資源部有關負責人介紹《城市更新“十五五”規劃》有關情況，並答記者問。"
+    },
+    {
+      "id": "mkt:019e917b-330e-7ffc-b901-8cfe152213ff",
+      "time": "2026-06-04 15:13:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Sichuan governor Shi Xiaolin meets China Merchants Group general manager Shi Dai】Sichuan Governor Shi Xiaolin met in Chengdu with China Merchants Group General Manager Shi Dai to discuss new strategic cooperation under the 15th Five-Year Plan and the Chengdu–Chongqing twin-city economic circle. They agreed to leverage China Merchants' international, diversified central-SOE platform to pursue projects in technology commercialization, industrial upgrading, open-hub development, and urban renewal and residential construction, and to expand tech services. The parties will advance integration of transport corridors, logistics, communications and data networks, and coordinate five major financial initiatives to boost financing for the real economy, support Sichuan firms' outbound expansion, and expedite project implementation serving national strategy and Sichuan's high-quality development."
+    },
+    {
+      "id": "4916764",
+      "time": "2026-06-04 15:13:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【國金證券：首予長城汽車“買入”評級，2026年出口增長有望提速】國金證券研報指出，長城汽車2026年出口增長有望提速，差異化佈局開啟長期空間。2026年1-4月公司出口批發銷量18萬臺、同比增長46.7%，其中燃油車為主、佔比94%，短期來看在巴西工廠等產能爬坡、新車匯出加速、歐洲等區域渠道加速擴張下，歐洲、巴西、東盟、澳新等非俄市場將貢獻主要增量，同時俄羅斯市場有望迎來溫和復甦。長期來看，公司出口的核心優勢除了成熟的渠道網路、完善的產能佈局外，HEV、越野、皮卡等差異化產品品類在海外競爭格局及溢價能力更好，是公司未來出口最大的預期差來源，有望開啟長期空間。參考可比公司估值，考慮到公司出口持續亮眼增長、中高階車型加速放量，給予2026年15xPE，目標市值1897億元，對應目標價22.16元，首次覆蓋給予“買入”評級。"
+    },
     {
       "id": "4916763",
       "time": "2026-06-04 15:13:32",
@@ -175466,104 +175585,6 @@
         "MKT News"
       ],
       "text": "【Musk: SpaceX-ANTHROPIC Colossus AI Lease Initially Six Months】SpaceX CEO Elon Musk said on Thursday SpaceX only agreed to lease the Colossus AI training data-center cluster to ANTHROPIC for six months, but he added the agreement \"could\" be extended to years. \"SpaceX did not commit to renting Colossus for years, though that could indeed happen,\" Musk said. Earlier this year SpaceX reached a deal with ANTHROPIC under which ANTHROPIC would pay $1.25 bln per month to use the Colossus and Colossus II clusters in Memphis, Tennessee; that arrangement was reported as running through May 2029. In a regulatory filing last week SpaceX said both parties could terminate the agreement with 90 days' notice; that filing did not mention a six-month lease. Musk said the deal is a 180-day lease, after which either side can give 90 days' notice, \"We will not strand them, and will provide a reasonable exit plan, but if compute resources become extremely tight, I have said we may need at some point to reclaim those resources.\" SpaceX's IPO application shows the company's AI unit generated $818 mln of revenue in the March quarter and an operating loss of about $2.5 bln."
-    },
-    {
-      "id": "te:economy:554356",
-      "time": "2026-05-28 15:18:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Swedish Consumer Morale Improves in May — Sweden’s household confidence indicator rose to 92.4 in May 2026, picking up from a revised eight-month low of 91.7 in the previous month. Households became more optimistic about their finances over the next twelve months (7 vs 5 in April), while sentiment toward the broader Swedish economy remained unchanged (-23). Concerns about unemployment over the same period also eased (26 vs 32), and attitudes toward purchasing capital goods turned less pessimistic (-15 vs -17). On the other hand, expectations for personal savings in the coming year edged lower (46 vs 47). On prices, households expected lower inflation over the next twelve months (7.4% vs 7.5%), while their assessment of inflation over the past year moderated (10.2% vs 11.2%). Meanwhile, the variable mortgage interest rate is expected to stand at 3.8% over both the one- and two-year horizons, while the five-year expectation is slightly lower at 3.7%."
-    },
-    {
-      "id": "mkt:019e6d72-b4d3-722b-8acc-3382401efa93",
-      "time": "2026-05-28 15:18:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "【Defense Ministry Says Taiwan Independence And Taiwan Strait Peace Cannot Coexist】On the afternoon of May 28, at a regular press briefing, Ministry of National Defense spokesman Senior Colonel Jiang Bin answered reporters. He was asked to comment on remarks during US President TRUMP’s visit to China, in which TRUMP said he did not want Taiwan \"independence\" and that the US had no intention of fighting a war 9,500 miles for Taiwan, and on Democratic Progressive Party figure Lai Ching‑te’s claims that Taiwan will never be used as a bargaining chip, that he will \"defend the 'Republic of China' status quo\" and that there is no \"Taiwan independence\" issue. Jiang said \"Taiwan independence\" and peace in the Taiwan Strait are irreconcilable, and that safeguarding peace and stability in the Taiwan Strait is the largest common denominator between China and the US. He said Lai, who previously openly called himself a \"practical Taiwan independence activist,\" is now pretending there is no \"Taiwan independence\" issue as a rhetorical disguise after being harshly disproved by reality; this, Jiang said, shows that pursuing \"Taiwan independence\" has reached a dead end and that the illusion of \"seeking independence by relying on the US\" will ultimately be shattered."
-    },
-    {
-      "id": "mkt:019e6d72-9849-722b-8acc-2e94c0c375b0",
-      "time": "2026-05-28 15:18:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces: On Tuesday the IDF launched a strike in the Khan Younis area, killing Ihab Khrizim, the head of Hamas' core funds-transfer network. The operation also killed Mohammed al-Habash, a squad commander at Hamas' Production Headquarters."
-    },
-    {
-      "id": "4904123",
-      "time": "2026-05-28 15:17:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【豐田4月全球銷量連續3個月同比減少，面向中東地區出口大減91%】豐田汽車5月28日資料顯示，4月全球銷量比上年同期下滑3.1%至84.93萬輛，連續3個月同比減少。全球產量同比增加2.0%至83.20萬輛，連續2個月增加並創同月歷史新高。豐田4月從日本面向中東地區的汽車出口數量為2418輛，較上年同期大減91.7%。面向中東的出口量連續2個月下滑，降幅較3月的46.4%進一步擴大。"
-    },
-    {
-      "id": "4904122",
-      "time": "2026-05-28 15:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部回應賴清德稱沒有臺獨問題】5月28日下午，國防部舉行例行記者會，國防部新聞發言人蔣斌大校答記者問。 記者：據報道，美國總統特朗普訪華期間接受採訪時表示，不希望臺灣“獨立”，美方無意為臺灣遠渡9500英里打一場戰爭。賴清德狡辯稱臺灣永遠不會淪為交易籌碼，“捍衛‘中華民國’現狀”，“沒有‘臺獨’問題”。請問對此有何評論？ 蔣斌：“臺獨”與臺海和平水火不容，維護臺海和平穩定是中美雙方最大公約數。賴清德曾明目張膽自稱“務實臺獨工作者”，現在假惺惺地宣稱“沒有‘臺獨’問題”，這是其被現實狠狠打臉後變換話術的重新偽裝，也恰恰說明搞“臺獨”已是窮途末路，“倚美謀獨”幻想終將破滅。（國防部）"
-    },
-    {
-      "id": "4904120",
-      "time": "2026-05-28 15:16:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正業科技：目前暫無堆疊晶片封裝後內部無損檢測相關裝置】正業科技5月28日在互動平臺表示，公司目前暫無堆疊晶片封裝後內部無損檢測相關裝置，公司生產銷售的X-RAY檢測裝置主要應用於鋰電池內部缺陷無損檢測，並積極向電子製造等新行業領域拓展。"
-    },
-    {
-      "id": "mkt:019e6d71-2046-722b-8acc-21e9d3e5f5a5",
-      "time": "2026-05-28 15:16:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Govt Bond Futures Midday Close】At the midday close in China, 2-year govt bond futures (TS) most-active contract rose 0.02%, 5-year (TF) most-active contract rose 0.09%, 10-year (T) most-active contract rose 0.10%, and 30-year (TL) most-active contract rose 0.12%."
-    },
-    {
-      "id": "te:markets:554353",
-      "time": "2026-05-28 15:16:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.10% Higher — The Shangai Composite Index rose 4 points or 0.10 percent on Thursday to close at 4098 points. Leading the gains are Huaneng (4.93%), China Fortune (4.92%) and Datang Intl (2.33%). Top losers were Aluminum Corporation of China (-4.81%), Jiangsu Hengrui (-4.29%) and Yonghui Superstore (-4.27%)."
-    },
-    {
-      "id": "te:economy:554352",
-      "time": "2026-05-28 15:15:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Sweden Economic Sentiment Up Slightly — Sweden’s Economic Tendency Indicator edged up to 99.3 in May 2026 from a seventh-month low of 99.2 in April. Trade remains the only sector where sentiment is stronger than normal, primarily due to few firms reporting large inventories, while their assessments of sales volumes over the past three months and expectations for the coming three months are also stronger than normal. Meanwhile, consumer confidence was weaker than normal. The proportion of firms expecting to raise prices over the next three months increased relatively sharply and is now significantly above normal."
-    },
-    {
-      "id": "4904119",
-      "time": "2026-05-28 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.10%， 5年期主力合約漲0.09%， 2年期主力合約漲0.02%。"
     }
   ]
 }
