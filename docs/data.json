@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-05 02:09:42",
+  "updated": "2026-06-05 02:13:34",
   "count": 18967,
   "items": [
+    {
+      "id": "mkt:019e93d6-c8d4-7338-b9e8-2513a72e24c7",
+      "time": "2026-06-05 02:13:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the Ukraine crisis is localized, while the Iran crisis has global implications."
+    },
+    {
+      "id": "4918016",
+      "time": "2026-06-05 02:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：仍需說服烏克蘭。"
+    },
+    {
+      "id": "mkt:019e93d5-9059-7338-b9e8-1d4718cfe175",
+      "time": "2026-06-05 02:11:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Trump is sincerely seeking to resolve the Ukraine crisis."
+    },
+    {
+      "id": "4918015",
+      "time": "2026-06-05 02:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：特朗普的和平提議可成為與烏克蘭達成和平協議的基礎。"
+    },
+    {
+      "id": "4918014",
+      "time": "2026-06-05 02:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rumble：協議包含大規模部署英偉達 HGX B300 加速 GPU 叢集。"
+    },
+    {
+      "id": "4918013",
+      "time": "2026-06-05 02:11:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭危機是地區性危機，而伊朗危機是全球性危機。"
+    },
+    {
+      "id": "mkt:019e93d4-d4d8-7338-b9e8-14a09b1b485d",
+      "time": "2026-06-05 02:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said only God knows whether he will remain healthy to serve out his presidential term and that he has not considered the next election."
+    },
+    {
+      "id": "4918012",
+      "time": "2026-06-05 02:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：特朗普真心尋求解決烏克蘭危機。"
+    },
+    {
+      "id": "4918011",
+      "time": "2026-06-05 02:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rumble：已簽訂協議，承諾採購英偉達 HGX™B300 算力資源。"
+    },
+    {
+      "id": "4918010",
+      "time": "2026-06-05 02:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：現在談論 2030 年總統大選為時過早。"
+    },
+    {
+      "id": "4918009",
+      "time": "2026-06-05 02:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我不會去想下屆選舉的事。"
+    },
     {
       "id": "4918008",
       "time": "2026-06-05 02:08:50",
@@ -174687,101 +174775,6 @@
         "市場"
       ],
       "text": "週四（5月28日），韓元兌美元最終漲0.43%，報1493.48韓元。"
-    },
-    {
-      "id": "mkt:019e6fca-515c-7eef-a301-7bfdea64ec08",
-      "time": "2026-05-29 02:13:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC said its annualized revenue at the start of this month exceeded US$47 bln."
-    },
-    {
-      "id": "4905440",
-      "time": "2026-05-29 02:13:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿爾蒂米特資本領投 Anthropic 新一輪融資。"
-    },
-    {
-      "id": "4905439",
-      "time": "2026-05-29 02:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：石油（價格）將低於美國、以色列發動伊朗戰爭之前的水平。"
-    },
-    {
-      "id": "mkt:019e6fc9-d6c0-7eef-a301-7767402127eb",
-      "time": "2026-05-29 02:12:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC raised $65 billion in a Series H round, valuing the company at $965 billion post-money."
-    },
-    {
-      "id": "4905438",
-      "time": "2026-05-29 02:12:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：本輪主要投資者包括Baillie Gifford、黑石、布魯克菲爾德（Brookfield）、General Catalyst、淡馬錫（Temasek）及其他投資方。"
-    },
-    {
-      "id": "4905437",
-      "time": "2026-05-29 02:11:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic：我們的年化營收本月早些時候已突破470億美元。"
-    },
-    {
-      "id": "4905436",
-      "time": "2026-05-29 02:11:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "人工智慧創業公司Anthropic：融資還包括超大規模科技企業此前已承諾的150億美元投資，其中包含亞馬遜提供的50億美元。"
-    },
-    {
-      "id": "4905435",
-      "time": "2026-05-29 02:10:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：平均退稅額比去年高出11%"
-    },
-    {
-      "id": "4905434",
-      "time": "2026-05-29 02:10:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普賬戶將於7月4日上線。"
-    },
-    {
-      "id": "4905433",
-      "time": "2026-05-29 02:10:05",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "人工智慧公司Anthropic在H輪融資中籌得650億美元，投後估值達9650億美元。"
-    },
-    {
-      "id": "4905432",
-      "time": "2026-05-29 02:10:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "無人機製造商Unusual Machines Inc.（UMAC）維持超過68%的漲幅，持穩於盤中歷史新高32美元附近，報道稱，美國總統特朗普的政府考慮注資該公司，從而提高美國的產量、降低成本。"
     }
   ]
 }
