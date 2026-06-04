@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-04 12:31:53",
-  "count": 19029,
+  "updated": "2026-06-04 12:35:59",
+  "count": 19033,
   "items": [
+    {
+      "id": "4916565",
+      "time": "2026-06-04 12:34:45",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "據訊息人士透露，日本央行正在考慮在本月的貨幣政策會議上將政策利率上調0.25個百分點至1.0%。鑑於市場擔憂通脹上行風險，年底前進一步加息的可能性也依然存在。"
+    },
+    {
+      "id": "4916564",
+      "time": "2026-06-04 12:34:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4480美元/盎司，日內漲1.07%。"
+    },
+    {
+      "id": "4916563",
+      "time": "2026-06-04 12:34:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據稱日本央行正在考慮6月份加息，並有可能在2026年再次加息。"
+    },
+    {
+      "id": "4916562",
+      "time": "2026-06-04 12:34:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4510美元/盎司，日內漲0.96%。"
+    },
+    {
+      "id": "te:markets:556365",
+      "time": "2026-06-04 12:33:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Under Pressure Near 17-Year Low — The South Korean won traded around 1,530 per dollar, hovering near its weakest level since March 2009, as renewed Middle East tensions boosted oil prices and supported demand for the US dollar. Investors turned cautious amid reports that Iran struck Kuwait International Airport and Israel signaled readiness, alongside the US, to carry out further strikes if necessary. The escalation lifted Brent crude toward $98 per barrel, raising concerns over potential supply disruptions in the Gulf and worsening South Korea’s external balance given its heavy reliance on energy imports. The currency also faced pressure from sustained foreign equity outflows, with investors net selling about 2.5 trillion won in local shares. However, losses were partially contained after Finance Minister Koo Yun-cheol said authorities would take “immediate measures” to curb excessive FX volatility, reinforcing expectations of intervention as the won remained near psychologically important levels."
+    },
+    {
+      "id": "4916561",
+      "time": "2026-06-04 12:32:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4478.70美元/盎司。"
+    },
+    {
+      "id": "mkt:019e90e6-e613-7cc0-ba24-a608ffd33475",
+      "time": "2026-06-04 12:31:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold's intraday gain widened to 1.00%, trading at $4,478.61/oz."
+    },
+    {
+      "id": "4916560",
+      "time": "2026-06-04 12:31:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【臺積電CEO押注AI增長，暗示可能提高晶片價格】全球最大晶圓代工企業臺積電執行長週四表示，得益於人工智慧熱潮帶來的計算能力和先進半導體強勁需求，公司對未來幾年的增長充滿信心。魏哲家在臺灣北部新竹市舉行的臺積電年度股東大會上表示，儘管公司仍在持續關注零部件成本上漲的影響，但客戶對人工智慧的前景依然持樂觀態度。魏哲家表示：“我們持續觀察到，在消費性、企業級及主權級人工智慧應用中，人工智慧模型的採用率正不斷提升。”“這一趨勢正推動對更強計算能力的需求，進而支撐著對先進半導體晶片的強勁需求。”當被問及臺積電是否會向客戶提價時，魏哲家表示：“我很想這麼做……我們畢竟還是需要盈利的。”“我們不想像記憶體公司那樣突然提價。那不可持續。臺積電專注於長期、可持續的運營。我們不是那種公司。”"
+    },
     {
       "id": "te:markets:556364",
       "time": "2026-06-04 12:31:00",
@@ -175239,39 +175318,6 @@
         "Greater China"
       ],
       "text": "【NMPA Says Implementation Documents For Drug Market Exclusivity Period Are Being Drafted】At a May 28 regular press briefing, the Ministry of Natural Resources published and explained the Guiding Opinions on Accelerating High-Quality Development of Marine Drugs and Functional Products. On intellectual property protection, Yu Jiangyong, deputy director of the Drugs Registration Management Department at the National Medical Products Administration (NMPA), said the NMPA and the China National Intellectual Property Administration (CNIPA) have established an early-resolution mechanism for drug patent disputes. The newly revised Implementing Regulations of the PRC Drug Administration Law (the Regulations) further strengthen protection for drug trial data and establish a market exclusivity-period system for pediatric medicines and drugs for rare diseases. The Measures for the Protection of Drug Trial Data took effect simultaneously with the Regulations on May 15, and the Regulations’ specific implementation documents for the market exclusivity system are currently being intensively drafted. NMPA said these measures will further bolster IP protection for innovative drugs and stimulate firms’ innovation momentum in marine drug R&D."
-    },
-    {
-      "id": "4903874",
-      "time": "2026-05-28 12:34:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "以太坊下跌4.5%，報1968.05美元，創3月30日以來新低。"
-    },
-    {
-      "id": "4903873",
-      "time": "2026-05-28 12:34:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣下跌3.2%，至4月13日以來最低點72732.08美元。"
-    },
-    {
-      "id": "4903872",
-      "time": "2026-05-28 12:33:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田4月份對中東地區的汽車出口量同比暴跌 92%，僅售出 2418 輛。"
-    },
-    {
-      "id": "4903871",
-      "time": "2026-05-28 12:32:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【受中東衝突影響 豐田汽車銷量連續三月下滑】受中東衝突引發的供應鏈擾動波及，豐田汽車全球銷量連續第三個月同比走低，其對該地區的出口量銳減超九成。豐田週四公佈，4月含子公司大發汽車在內的全球銷量為902015輛，同比下降3.7%；同期產量則同比增長3.4%，達933685輛。相較於其他車企，豐田受此次衝突衝擊較小。儘管霍爾木茲海峽航運受阻，旗下工廠仍維持運轉。但若供應緊張局面持續、零部件出現短缺，豐田的抗風險能力將迎來考驗，也會凸顯全球車企對海灣地區零部件、原材料及能源供應的高度依賴。"
     }
   ]
 }
