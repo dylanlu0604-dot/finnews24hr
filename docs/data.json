@@ -1,7 +1,144 @@
 {
-  "updated": "2026-06-04 23:47:18",
-  "count": 18978,
+  "updated": "2026-06-04 23:51:18",
+  "count": 18988,
   "items": [
+    {
+      "id": "4917839",
+      "time": "2026-06-04 23:50:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：已做好應對任何情形的準備。"
+    },
+    {
+      "id": "mkt:019e9354-4d48-711f-ac52-28187b2a03c1",
+      "time": "2026-06-04 23:50:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "DALY: inf is currently concentrated in energy and food, which are pushing prices higher."
+    },
+    {
+      "id": "4917838",
+      "time": "2026-06-04 23:50:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：當前貨幣政策處於合適區間。"
+    },
+    {
+      "id": "mkt:019e9354-244d-711f-ac52-203d0e50fb3a",
+      "time": "2026-06-04 23:50:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Daly on the interest-rate path said the Fed does not know how the economy will evolve."
+    },
+    {
+      "id": "4917837",
+      "time": "2026-06-04 23:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "民主黨參議員要求貝森特對PSKY和WBD進行CFIUS審查。"
+    },
+    {
+      "id": "4917836",
+      "time": "2026-06-04 23:50:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：關於利率路徑問題，我們目前無法確定經濟將如何發展。"
+    },
+    {
+      "id": "mkt:019e9353-a8dc-711f-ac52-1addba48206f",
+      "time": "2026-06-04 23:49:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU Chamber of Commerce in China Q&A on EC's proposed European tech sovereignty package】The EU Chamber of Commerce in China said the European Commission's new European tech sovereignty package covers semiconductors, AI, cloud services, open-source technology and energy-sector digitalization. The chamber said the measures are closely relevant to Chinese firms operating in the EU and to Sino-EU digital trade, investment and cooperation. It urged stronger connectivity and cooperation between China and the EU — not market fragmentation or technological decoupling — to support innovation, industrial competitiveness and sustainable growth."
+    },
+    {
+      "id": "4917835",
+      "time": "2026-06-04 23:49:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟中國商會關於歐盟委員會提出“歐洲技術主權一攬子計劃”答記者問】歐盟中國商會注意到歐盟委員會最新提出的“歐洲技術主權一攬子計劃”，該計劃涵蓋半導體、人工智慧（AI）、雲服務、開源技術以及能源領域數字化等內容。這些舉措與廣大在歐中資企業的發展密切相關，也關係到中歐數字經濟領域的貿易、投資與合作前景。歐盟中國商會表示，當前，中歐作為全球兩大重要數字市場，更應加強互聯互通與合作，而非走向市場割裂和技術碎片化，以共同促進創新發展、產業競爭力提升和可持續增長。（CCCEU）"
+    },
+    {
+      "id": "mkt:019e9353-736b-711f-ac52-172ea0692859",
+      "time": "2026-06-04 23:49:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Daly said similarities to the 1990s do not mean this will be the 1990s."
+    },
+    {
+      "id": "4917834",
+      "time": "2026-06-04 23:49:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：我們當下情況與90年代存在相似之處，不代表會重演90年代走勢。"
+    },
+    {
+      "id": "4917833",
+      "time": "2026-06-04 23:49:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 6 月柴油期貨結算價報每噸 1079.50 美元。"
+    },
+    {
+      "id": "mkt:019e9352-26f5-711f-ac52-0f959327d627",
+      "time": "2026-06-04 23:48:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli military: Alarms sounded in northern Israel after Hezbollah fired multiple rockets at IDF soldiers operating in southern Lebanon."
+    },
+    {
+      "id": "4917832",
+      "time": "2026-06-04 23:47:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列軍方表示，真主黨向在黎巴嫩南部開展行動的以色列國防軍士兵發射多枚火箭彈，以色列北部已響起防空警報。"
+    },
+    {
+      "id": "4917831",
+      "time": "2026-06-04 23:46:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 7 月天然氣期貨收盤結算價報 117.93 便士 / 熱量單位。"
+    },
     {
       "id": "4917830",
       "time": "2026-06-04 23:46:28",
@@ -174893,44 +175030,6 @@
         "國際"
       ],
       "text": "【以軍稱已打死近三分之一黎巴嫩真主黨武裝人員】以色列國防軍發言人埃菲·德弗林當地時間28日表示，在近年來的多線作戰中，以軍已消滅了接近三分之一的黎巴嫩真主黨武裝力量。德弗林當天在北方司令部發布的一段影片宣告中說，自敵對行動升級以來，以軍已打死超過2500名黎真主黨武裝人員。德弗林稱黎真主黨大約擁有3萬名武裝人員，以軍已經打死其中近三分之一。德弗林還表示，以軍近期打擊了黎真主黨的區域指揮官和作戰人員，從而對其指揮與控制能力造成了重大打擊。（央視新聞）"
-    },
-    {
-      "id": "te:markets:554568",
-      "time": "2026-05-28 23:50:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Slips on Middle East Tensions — The CAC 40 fell 0.2% to close at 8,190 on Thursday, reversing gains from the previous session as investors turned cautious amid renewed US-Iran tensions. Oil prices rebounded after Iran said it had attacked a US air base in response to fresh US strikes, reviving stagflation fears and pushing global bond yields higher. Domestically, French producer prices rose 2.1% year-on-year in April 2026, accelerating sharply from a flat reading in March and marking the highest level since June 2023. Investors also looked ahead to Friday’s releases of France’s final Q1 GDP figures, inflation data, and payrolls report for further clues on the economic outlook. Financials weighed on the index, with BNP Paribas down 0.7% and AXA losing 2.1%. Other notable laggards included Sanofi (-1.4%) and Schneider Electric (-0.9%). Luxury stocks traded mixed, with LVMH down 0.5% while L'Oréal gained 0.5%. In contrast, industrial stocks advanced, with Airbus up 2.3% and Safran gaining 1.6%."
-    },
-    {
-      "id": "4905256",
-      "time": "2026-05-28 23:50:48",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價重返每盎司4,500美元上方，市場等待美伊談判突破】金價重返正值區域，期貨價格上漲0.6%，至每盎司4,508.80美元，與此同時，交易員正密切等待美伊談判取得突破，並評估最新的美國經濟資料。GDP資料顯示，第一季度美國經濟增速低於此前預期，不過美聯儲青睞的環比價格漲幅指標在4月份的增速也有所放緩。凱投宏觀的分析師表示：“4月份核心個人消費支出價格指數(PCE)不及預期的漲幅為美聯儲贏得了一些時間，使其可以觀望油價上漲將如何傳導至更廣泛的通脹壓力。”霍爾木茲海峽幾近關閉推高了能源價格，加劇了通脹，並引發了對利率將在更長時間內維持高位的擔憂，這通常會拖累黃金等無收益資產的前景。"
-    },
-    {
-      "id": "4905255",
-      "time": "2026-05-28 23:48:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡： 以色列不再僅僅是一個地區強國——它已經是全球強國。 為什麼是全球強國？因為我們擁有世界一流的技術。"
-    },
-    {
-      "id": "4905254",
-      "time": "2026-05-28 23:48:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍執行長表示，向資料中心提供天然氣發電可能成為其投資組合中的一個增長領域。"
     }
   ]
 }
