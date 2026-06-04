@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-04 21:12:55",
-  "count": 19037,
+  "updated": "2026-06-04 21:16:49",
+  "count": 19018,
   "items": [
+    {
+      "id": "4917608",
+      "time": "2026-06-04 21:16:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國天然氣期貨因天氣前景上漲】美國天然氣期貨在早盤交易中上漲，因更溫暖的天氣預報提振了未來幾周的需求預期。Tradition Energy的Gary Cunningham在一份報告中說：“第一個考驗可能會在明天和週末到來，屆時東北部的氣溫將再次攀升至90華氏度以上。“他補充說，即將到來的高溫預計將增加電力部門的天然氣需求，“並鞏固夏季剩餘時間的基本面“。"
+    },
+    {
+      "id": "mkt:019e92c5-b807-7eec-b8aa-7355beb938a3",
+      "time": "2026-06-04 21:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the U.S. Department of Homeland Security narrowed work-authorization eligibility for certain migrants."
+    },
+    {
+      "id": "4917607",
+      "time": "2026-06-04 21:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國土安全部擬收緊部分移民的就業資格准入標準。"
+    },
+    {
+      "id": "te:markets:556539",
+      "time": "2026-06-04 21:14:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Surges as Middle East Ceasefire Hopes Weigh on Dollar, Oil — Silver climbed above $74.5 per ounce on Thursday as hopes for a Middle East resolution weakened the dollar and oil prices, easing inflation and interest rate hike concerns. Israel and Lebanon’s ceasefire agreement to end hostilities raised hopes for a broader de-escalation in the US-Israeli conflict with Iran. Additionally, the Republican-led US House of Representatives passed a resolution to block President Donald Trump from continuing military action against Iran. However, uncertainty about the war’s end persists, and regional tensions remain elevated. Since the conflict began in late February, silver has lost about 20% as surging oil prices fueled inflation fears and increased the likelihood of higher interest rates."
+    },
+    {
+      "id": "4917606",
+      "time": "2026-06-04 21:13:58",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【分析：若英國央行不加息且政治風險上升，英鎊或將下跌】Monex Europe分析師在一份報告中表示，如果英國央行不加息且英國政治風險上升，英鎊未來幾個月可能會下跌。他們表示，近期疲軟的英國資料幾乎無法支援對今年加息的預期。“我們的觀點依然是，在2027年之前不太可能加息，而在今年年底前仍有降息的可能。“與此同時，如果安迪·伯納姆在6月18日的特別選舉中獲勝，從而得以重返議會，他可能會對英國首相斯塔默的領導地位發起挑戰。Monex預計，到秋季，英鎊兌美元和歐元將較目前的1.3455美元和1.1559歐元分別跌至1.32美元和1.11歐元。"
+    },
+    {
+      "id": "4917605",
+      "time": "2026-06-04 21:13:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rumble股價盤前上漲5.5%，此前該公司簽署了一份金額為2.7億美元的多年雲端計算客戶協議。"
+    },
+    {
+      "id": "te:markets:556538",
+      "time": "2026-06-04 21:13:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Eases But Hovers Close to 2-Month highs — The dollar index slipped to 99.2 on Thursday, snapping a three-session winning streak, as crude prices retreated after hopes increased that a ceasefire agreement between Israel and Lebanon could pave the way for a broader diplomatic deal with Iran. Despite the improvement in market sentiment, uncertainty remains elevated and the geopolitical situation continues to be highly fragile, with oil prices still significantly above pre-conflict levels and the greenback continuing to trade near two-month highs. Investors price in the possibility of a Fed interest rate hike before year-end, potentially as early as October, amid concerns that higher energy costs could fuel inflationary pressures. At the same time, recent labor market data have pointed to a resilient US economy, with employment conditions strengthening over the past two months. Friday's jobs report is expected to provide further clues about the health of the labor market and the outlook for monetary policy."
+    },
+    {
+      "id": "4917603",
+      "time": "2026-06-04 21:12:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在中東局勢升溫擔憂緩解之際，美債收益率和美元下跌】油價下跌拖累美債收益率和美元走低。原油價格下跌3%，因市場希望以色列和黎巴嫩的停火能促進與伊朗的談判，以重新開放霍爾木茲海峽。報道稱，美國總統特朗普希望維持與伊朗的停火，除非有美國軍人遇害，這緩解了對局勢升溫的擔憂。首次申請失業救濟人數從修正後的212,000人增至225,000人。機構調查的經濟學家平均預期為215,000人。第一季度生產率和勞動力成本增長低於預期。華爾街日報美元指數下跌0.2%。10年期美債收益率報4.455%，低於4.495%的隔夜高點。兩年期美債收益率從4.078%降至4.037%。"
+    },
     {
       "id": "te:markets:556536",
       "time": "2026-06-04 21:12:18",
@@ -175307,281 +175382,6 @@
         "Importance 1"
       ],
       "text": "Canada Weekly Earnings Growth Accelerates in March — Average weekly earnings of Canadian non-farm payroll employees rose 3.5% year-on-year to C$1,333 in March 2026, accelerating from a 2.8% increase in February. The strongest gains were recorded in utilities (9%), information and cultural industries (7%), and transportation and warehousing (6.2%). In contrast, earnings declined in forestry, logging and support activities (-2.4%), management of companies and enterprises (-0.8%), and real estate and rental and leasing (-9.2%). By province, the largest increases were seen in Nunavut (7.8%), Prince Edward Island (7.7%), and New Brunswick (6.7%). Meanwhile, average weekly hours worked stood at 33.4 hours, little changed from the previous month and down 0.3% from a year earlier."
-    },
-    {
-      "id": "mkt:019e6ebb-2ed3-7551-ba2a-ed576dd183a0",
-      "time": "2026-05-28 21:16:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "WILLIAMS: U.S. economy is robust and the underlying labor market is performing well."
-    },
-    {
-      "id": "mkt:019e6eba-e0f8-7000-951c-2cebe4993a32",
-      "time": "2026-05-28 21:16:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany's Finance Minister Klingbeil said achieving a more resilient Europe is more important to him than national interests."
-    },
-    {
-      "id": "te:economy:554513",
-      "time": "2026-05-28 21:16:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "South Africa Lifts Key Policy Rate as Predicted — The South African Reserve Bank raised its key repo rate by 25 bps to 7% on May 28, 2026, as widely expected, marking its first rate hike since 2023. Four of the six members of the MPC backed the decision, while two voted to hold. The committee said inflation risks had increased due to the Middle East crisis and warned that overlapping shocks could trigger second-round effects, justifying a monetary policy response to contain risks and bring inflation back to target. South Africa’s inflation rate climbed to 4% in April from 3.1% in March, now sitting at the upper end of the central bank’s target range. Overall, Inflation forecasts were raised to 4.4% for 2026 (from 3.7%) and to 3.7% for 2027 (from 3.3%). Regarding economic activity, the central bank lowered its growth forecasts for 2026 to 2.6% (vs 2.9%) and for 2027 to 2.8% (vs 3.2%). The policy statement was again accompanied by three alternative scenarios, all pointing to some additional monetary policy tightening."
-    },
-    {
-      "id": "mkt:019e6eba-698e-7000-951c-21fe5b57c6e4",
-      "time": "2026-05-28 21:16:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "WILLIAMS: Artificial intelligence will have a lasting impact on productivity."
-    },
-    {
-      "id": "4904976",
-      "time": "2026-05-28 21:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【分析：英國投資者因地緣政治不確定性提高政府債券配置比例】駿利亨德森的Portfolio Portrait報告顯示，在截至2月份的六個月裡，英國投資者提高了對政府債券的配置比例，試圖降低高度動盪的地緣政治環境帶來的風險。在截至2月份的六個月裡，政府債券的配置比例從截至2025年8月的六個月的39.5%增至42.6%。“高度不確定的宏觀經濟和地緣政治環境促使投資者在固定收益資產中尋求相對安全，“駿利亨德森的Matt Bullock在一份報告中表示。"
-    },
-    {
-      "id": "mkt:019e6eb9-b9b2-7000-951c-1e4aa05c75b8",
-      "time": "2026-05-28 21:15:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany's finance minister Klingbeil said he hopes an EU package on market integration and regulation will be passed this year."
-    },
-    {
-      "id": "4904975",
-      "time": "2026-05-28 21:15:02",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "德國財政部長表示，希望歐盟市場一體化與監管套餐能在今年獲得透過。"
-    },
-    {
-      "id": "mkt:019e6eb9-52f0-7000-951c-167099037e97",
-      "time": "2026-05-28 21:14:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "WILLIAMS: US dynamism has driven productivity gains."
-    },
-    {
-      "id": "4904974",
-      "time": "2026-05-28 21:14:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燦勤科技：股東詢價轉讓976.78萬股 轉讓價格為32.66元/股】燦勤科技公告，股東張家港聚晶企業管理合夥企業（有限合夥）和張家港薈瓷企業管理合夥企業（有限合夥）透過詢價轉讓方式轉讓了976.78萬股，轉讓價格為32.66元/股。轉讓後，聚晶管理、薈瓷管理及其一致行動人持股比例由70.39%減少至67.95%，持有公司權益比例變動觸及5%的整數倍。本次權益變動為股份減持，不會導致公司控股股東、實際控制人發生變化。"
-    },
-    {
-      "id": "4904973",
-      "time": "2026-05-28 21:14:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美國經濟活力是生產率提升的背後推動力。"
-    },
-    {
-      "id": "4904972",
-      "time": "2026-05-28 21:14:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美國生產率的部分增長早在人工智慧興起前就已出現。"
-    },
-    {
-      "id": "mkt:019e6eb9-4b30-7551-ba2a-e738611c469c",
-      "time": "2026-05-28 21:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WILLIAMS: Some of our productivity gains predate the rise of artificial intelligence."
-    },
-    {
-      "id": "4904971",
-      "time": "2026-05-28 21:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊媒體：“談判與停火期間，美方多次發動襲擊、破壞停火協議，如今還編造虛假說辭，企圖藉機挑起戰事。伊朗將採取域外反擊行動，所謂談判不過是美國再度上演的騙局。”"
-    },
-    {
-      "id": "mkt:019e6eb9-43b2-7551-ba2a-dfa0eed13e69",
-      "time": "2026-05-28 21:14:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Market Analysis: Market Fatigue Emerges After U.S.-Iran Escalation】BNY MELLON analyst Bob Savage said markets are showing rising fatigue as renewed U.S.-Iran military escalation, higher yields and hawkish central bank guidance pressure equities and fixed income. Investors are reassessing the durability of the global risk-asset rebound. Central banks' growing concern about the persistence of inf from an energy shock and firmer growth is reinforcing market expectations of higher-for-longer interest rates. The flare-up has lifted oil, the dollar and US govt bond yields; supply-disruption risk around the Strait of Hormuz and shrinking strategic reserves are keeping the energy complex volatile."
-    },
-    {
-      "id": "mkt:019e6eb9-4239-7551-ba2a-d7c50669eba9",
-      "time": "2026-05-28 21:14:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "02015.HK"
-      ],
-      "text": "【Li Auto Chairman Li Xiang Says Humanoid Robots Need At Least Three Years To Reach EV-Level Development】Li Auto (02015.HK) chairman Li Xiang said on the company's Q1 earnings call that humanoid robots will need at least three years to reach the development level of the electric-vehicle industry. He warned many technical problems remain and no consensus has emerged on development pathways. Li said startups, mid-size manufacturers and large firms will all enter the humanoid-robot race."
-    },
-    {
-      "id": "mkt:019e6eb8-f155-7551-ba2a-c9560c028f4b",
-      "time": "2026-05-28 21:14:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs president John Waldron said cybersecurity is a deep risk to markets and warrants vigilance."
-    },
-    {
-      "id": "mkt:019e6eb8-d9e7-7551-ba2a-c1129247fd5f",
-      "time": "2026-05-28 21:14:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A French Foreign Ministry spokesman said Europe’s participation as a negotiating party is essential because European interests are affected and Europe possesses multiple tools in the talks, notably sanctions."
-    },
-    {
-      "id": "mkt:019e6eb8-c0e5-7551-ba2a-bfa467d0a1fb",
-      "time": "2026-05-28 21:14:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Goldman Sachs President John Waldron said geopolitical supply shocks may intensify, and fiscal imbalances remain a major concern."
-    },
-    {
-      "id": "4904970",
-      "time": "2026-05-28 21:14:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大皇家銀行執行長表示，儲戶不會選擇不受監管的機構存放儲蓄；在當前複雜環境下，消費者會保持審慎。"
-    },
-    {
-      "id": "mkt:019e6eb8-bfa8-7551-ba2a-b69998511423",
-      "time": "2026-05-28 21:14:01",
-      "tags": [
-        "MKT News",
-        "XOM.O"
-      ],
-      "text": "An ExxonMobil executive said its Doha unit is \"basically operating normally\"."
-    },
-    {
-      "id": "4904969",
-      "time": "2026-05-28 21:13:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理想汽車李想：人形機器人達到電動汽車產業發展程度至少需要三年】理想汽車董事長李想今日在公司一季度財報電話會上表示，人形機器人想要達到電動汽車產業的發展程度，至少需要三年以上的時間，目前有非常多的技術問題有待攻克，且多方面技術路線仍未達成共識。李想同時表示，無論是創業公司、中廠還是大廠，均會進入到人形機器人賽道中。"
-    },
-    {
-      "id": "mkt:019e6eb8-3a7e-7551-ba2a-ae9f4a8036cd",
-      "time": "2026-05-28 21:13:31",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Goldman Sachs president John Waldron: inf may be the single largest risk factor."
-    },
-    {
-      "id": "4904968",
-      "time": "2026-05-28 21:13:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛沃爾德倫：財政失衡仍是重大問題。"
-    },
-    {
-      "id": "4904967",
-      "time": "2026-05-28 21:13:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：搭載Intel Arc G 系列處理器的手持系統，將從6月開始由OEM合作伙伴陸續推出。"
-    },
-    {
-      "id": "mkt:019e6eb7-deb1-7551-ba2a-a7a43b75223b",
-      "time": "2026-05-28 21:13:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Goldman Sachs President John Waldron said the labor market is actually quite resilient."
-    },
-    {
-      "id": "mkt:019e6eb7-d67d-7551-ba2a-9dc3712223fa",
-      "time": "2026-05-28 21:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A French Foreign Ministry spokesperson said Europe should avoid excessive focus on \"who will serve as mediator\" and instead concentrate on the substantive content of mediation with Russia."
-    },
-    {
-      "id": "4904966",
-      "time": "2026-05-28 21:12:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛營運長沃爾德倫：地緣政治供應衝擊可能進一步惡化。"
     }
   ]
 }
