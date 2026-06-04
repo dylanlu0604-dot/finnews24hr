@@ -1,0 +1,50 @@
+name: 📝 Convert data.json to NotebookLM markdown
+
+on:
+  schedule:
+    # Run every 30 minutes (offset from scrape.yml's */5 to reduce contention)
+    - cron: "15,45 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/json_to_md.py"
+      - ".github/workflows/json_to_md.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: json-to-md
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Convert data.json to markdown
+        run: python scripts/json_to_md.py
+
+      - name: Commit and push markdown
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add notebooklm/new01.md notebooklm/new02.md notebooklm/new03.md notebooklm/new04.md notebooklm/new05.md
+          if git diff --cached --quiet; then
+            echo "No markdown changes."
+          else
+            git commit -m "notebooklm: refresh new0[1-5].md [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
+            git pull --rebase origin main
+            git push
+          fi
