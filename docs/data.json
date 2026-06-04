@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-05 03:25:31",
-  "count": 18970,
+  "updated": "2026-06-05 03:29:25",
+  "count": 18971,
   "items": [
+    {
+      "id": "mkt:019e941a-e29f-755d-92d5-3dad14f0bdc0",
+      "time": "2026-06-05 03:27:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister says regional states must not allow US to use their territory to strike Iran】On the 4th (local time) Iran’s foreign minister said Tehran has warned regional states that if they participate in aggression against Iran, US military bases on their soil would become legitimate targets. He said Iran’s response is aimed at US bases, not at the territories of regional states, and that many regional countries oppose US use of their airspace and territory to strike Iran but the United States has nonetheless used those facilities to attack Iran."
+    },
+    {
+      "id": "4918087",
+      "time": "2026-06-05 03:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：波音考慮上調 737 機型產能。"
+    },
+    {
+      "id": "4918086",
+      "time": "2026-06-05 03:26:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：地區國家不應讓美國利用其領土攻擊伊朗】當地時間4日，伊朗外長阿拉格齊表示，伊朗此前已警告該地區各國，如果它們參與對伊朗的侵略，其境內的美國軍事基地將成為伊朗的合法打擊目標。阿拉格齊稱，伊朗的反擊針對的是美國軍事基地，而非該地區各國的領土。該地區許多國家反對美國利用其領空和領土攻擊伊朗，但不幸的是，美國卻利用這些設施攻擊伊朗。（央視新聞）"
+    },
     {
       "id": "mkt:019e9418-43a0-755d-92d5-368ca6b1a2cf",
       "time": "2026-06-05 03:24:38",
@@ -174799,23 +174827,6 @@
         "其他"
       ],
       "text": "空客與加拿大國防工業核心領域的多家戰略合作伙伴簽署協議。"
-    },
-    {
-      "id": "mkt:019e700d-b01f-7eef-a302-90d1992ffee3",
-      "time": "2026-05-29 03:26:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BARKIN: Some AI-related sectors are showing inf pressures."
-    },
-    {
-      "id": "4905527",
-      "time": "2026-05-29 03:25:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：人工智慧領域投資正對中性利率形成壓力。"
     }
   ]
 }
