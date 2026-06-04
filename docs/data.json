@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-05 04:07:41",
-  "count": 18996,
+  "updated": "2026-06-05 04:11:41",
+  "count": 19000,
   "items": [
+    {
+      "id": "4918128",
+      "time": "2026-06-05 04:10:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：倘若沒有美國的軍事援助與裝備，烏克蘭無法作戰。"
+    },
+    {
+      "id": "mkt:019e9441-8388-755d-92d6-2b9177476b79",
+      "time": "2026-06-05 04:09:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said you can face roughly four years' imprisonment in the U.S. for killing a bald eagle, yet wind turbines frequently knock them from the air with no consequences; he called that shameful."
+    },
+    {
+      "id": "mkt:019e9441-2c48-755d-92d6-26b7f40578c8",
+      "time": "2026-06-05 04:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Labour leader Burnham said he would stand in a Labour leadership contest to try to replace Keir Starmer as UK prime minister if a former cabinet minister mounts an internal challenge."
+    },
+    {
+      "id": "mkt:019e9441-13af-755d-92d6-1c63bed0f99a",
+      "time": "2026-06-05 04:09:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US money market fund assets reached a record $7.894 tln."
+    },
+    {
+      "id": "4918127",
+      "time": "2026-06-05 04:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已拍攝下被擊沉的伊朗艦船照片。"
+    },
+    {
+      "id": "4918126",
+      "time": "2026-06-05 04:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申，伊朗既沒有海軍，也沒有空軍。"
+    },
+    {
+      "id": "4918125",
+      "time": "2026-06-05 04:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們幾乎剷除了伊朗所有領導層。"
+    },
+    {
+      "id": "mkt:019e943f-d568-755d-92d6-12629ff2d127",
+      "time": "2026-06-05 04:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US does not need Europe's help in the Strait of Hormuz."
+    },
     {
       "id": "mkt:019e943f-3974-755d-92d6-0d84997f7c77",
       "time": "2026-06-05 04:07:11",
@@ -175014,48 +175089,6 @@
         "Brent"
       ],
       "text": "TASNIM NEWS reported sounds heard at sea were caused by warning-fire exchanges directed at vessels inside the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e7036-b43a-7eef-a302-f800dce32ae4",
-      "time": "2026-05-29 04:11:33",
-      "tags": [
-        "MKT News",
-        "DELL.O"
-      ],
-      "text": "Dell (DELL.N) expects fiscal 2027 second-quarter revenue of $44.0–45.0 billion."
-    },
-    {
-      "id": "mkt:019e7035-afc9-7eef-a302-f3f2233ab887",
-      "time": "2026-05-29 04:10:27",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell Technologies (DELL.N) FY2027 Q1 revenue $43.84 bln; year-ago $23.378 bln; market expected $35.408 bln."
-    },
-    {
-      "id": "te:markets:554600",
-      "time": "2026-05-29 04:10:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Dell Technologies earnings above expectations at 4.86 USD — Dell Technologies (DELL) released earnings per share at 4.86 USD, compared to market expectations of 2.86 USD."
-    },
-    {
-      "id": "mkt:019e7034-00d1-7eef-a302-ebd052b408a7",
-      "time": "2026-05-29 04:08:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "An i24 News senior Middle East correspondent reported that Iran’s non-official media said the IRGC Navy fired warning shots at four \"unauthorized vessels\" that attempted to transit the Strait of Hormuz without coordination."
     }
   ]
 }
