@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-05 06:12:10",
-  "count": 19032,
+  "updated": "2026-06-05 06:15:56",
+  "count": 19030,
   "items": [
+    {
+      "id": "te:markets:556593",
+      "time": "2026-06-05 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.32% — Top currency gainers are Brazilian Real (0.32%), Swiss Franc (0.32%), Mexican Peso (0.30%) and Euro (0.13%). Biggest loser is Dollar Index (-0.10%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
     {
       "id": "4918206",
       "time": "2026-06-05 06:09:55",
@@ -175315,35 +175326,6 @@
         "其他"
       ],
       "text": "戴爾股價漲幅擴大至35%。"
-    },
-    {
-      "id": "4905620",
-      "time": "2026-05-29 06:15:35",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "哥倫比亞礦業組織釋出宣告稱，紫金礦業旗下武裡蒂卡金礦遭遇致命襲擊。"
-    },
-    {
-      "id": "te:markets:554616",
-      "time": "2026-05-29 06:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Rises by 0.70% — Top currency gainers are Brazilian Real (0.70%), South Korean Won (0.58%), New Zealand Dollar (0.49%), Euro (0.22%), Japanese Yen (0.18%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.22%)."
-    },
-    {
-      "id": "4905619",
-      "time": "2026-05-29 06:13:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "得州機動車管理局網站披露特斯拉自動駕駛計程車車隊具體規模： 特斯拉在得克薩斯州共有 42 輛車輛登記為自動駕駛計程車。Waymo 有 577 輛自動駕駛車輛在得克薩斯州完成登記，Avride 登記數量為 317 輛。"
     }
   ]
 }
