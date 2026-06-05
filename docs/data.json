@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-05 10:15:16",
-  "count": 18969,
+  "updated": "2026-06-05 10:19:16",
+  "count": 18964,
   "items": [
+    {
+      "id": "mkt:019e9593-4327-766c-9543-b78212a09d24",
+      "time": "2026-06-05 10:18:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman's Mina Al Fahal oil terminal has suspended crude loadings after an explosion, sources said."
+    },
+    {
+      "id": "4918517",
+      "time": "2026-06-05 10:17:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指下跌1%，報5781.85點。"
+    },
+    {
+      "id": "4918516",
+      "time": "2026-06-05 10:16:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州省農業發展集團黨委書記蘆忠於接受審查調查】中央紀委國家監委網站6月5日通報，據貴州省紀委監委訊息：貴州省農業發展集團有限責任公司黨委書記、董事長蘆忠於涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4918515",
+      "time": "2026-06-05 10:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，阿曼在爆炸發生後暫停法赫勒港碼頭的原油裝船作業。"
+    },
+    {
+      "id": "4918514",
+      "time": "2026-06-05 10:15:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎總統稱停火獲批後24小時內可實施】根據美國、以色列和黎巴嫩6月3日的聯合宣告，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。對此，黎巴嫩總統奧恩4日表示，一旦獲得最終批准，黎以停火協議可在24小時內開始實施。奧恩表示，該協議是“最後一次機會”，並警告“如果錯失這一機會，各方都將承擔相應責任”。黎巴嫩真主黨領導人納伊姆·卡西姆4日表示，停火必須全面，不能將黎巴嫩南部與黎巴嫩其他地區區別對待。把解除真主黨武裝作為任何協議的基本目標，都意味著削弱黎巴嫩的力量，並對堅持抵抗的黎巴嫩人構成生存性威脅。"
+    },
+    {
+      "id": "te:markets:556670",
+      "time": "2026-06-05 10:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Drops by 0.96% — Top currency loser is South Korean Won (-0.96%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
     {
       "id": "4918513",
       "time": "2026-06-05 10:13:50",
@@ -174661,114 +174716,6 @@
         "其他"
       ],
       "text": "【阿里速賣通與巴西郵政簽署MOU，加速本地物流網路建設】5月28日，阿里旗下跨境電商平臺速賣通AliExpress與巴西郵政正式簽署諒解備忘錄（MOU），在巴西市場展開更深度的戰略合作，包括偏遠地區配送拓展、末端配送能力提升、消費者體驗最佳化等。"
-    },
-    {
-      "id": "te:markets:554690",
-      "time": "2026-05-29 10:19:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Holds Decline on US-Iran Deal — The dollar index hovered around 99 on Friday after weakening in the previous session, as reports that the US and Iran had reached a tentative peace agreement eased concerns over inflation and future interest rate hikes. Washington and Tehran are reportedly set to extend their ceasefire by 60 days and begin negotiations on Iran’s nuclear program, while also considering unrestricted shipments through the Strait of Hormuz. However, the report noted that President Donald Trump has not yet approved the proposed terms. Meanwhile, the latest US PCE price index data showed softer-than-expected inflation readings, helping calm fears that the recent energy shock would significantly worsen the inflation outlook. Even so, markets continue to expect the Federal Reserve to keep interest rates unchanged well into next year."
-    },
-    {
-      "id": "mkt:019e7187-1636-7ee0-99e1-27fcd9b65914",
-      "time": "2026-05-29 10:18:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jeff Bezos said all personnel involved in the Blue Origin incident have been confirmed safe."
-    },
-    {
-      "id": "mkt:019e7186-bd8e-7ee0-99e1-1fb060c31f8c",
-      "time": "2026-05-29 10:18:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Amazon founder Jeff Bezos, commenting on the Blue Origin incident, said the company will rebuild all necessary components and resume flights."
-    },
-    {
-      "id": "mkt:019e7186-98a3-7ee0-99e1-177884d96b01",
-      "time": "2026-05-29 10:18:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Amazon founder Jeff Bezos said of the Blue Origin incident that it is too early to determine the root cause but teams are working to identify it."
-    },
-    {
-      "id": "mkt:019e7186-0742-7ee0-99e1-0afc6fd1316b",
-      "time": "2026-05-29 10:17:49",
-      "tags": [
-        "MKT News",
-        "2330.TW",
-        "Impact bullish",
-        "2317.TW"
-      ],
-      "text": "Taiwan Weighted Index extended opening gains, rising 2.3% to 44,648.69. TSMC advanced 3.05%; Hon Hai gained 5.7%."
-    },
-    {
-      "id": "4905951",
-      "time": "2026-05-29 10:17:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯談藍色起源事故：凡是需要重建的我們都會重建，之後恢復飛行試驗。"
-    },
-    {
-      "id": "4905950",
-      "time": "2026-05-29 10:16:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大消費板塊持續走強 交大昂立等多股漲停】大消費板塊盤中持續走強，零售、食品飲料、服裝等方向均表現不俗，交大昂立、百大集團、九牧王、東百集團、寧波中百、步步高等多股漲停，西部牧業、中國中免、一致魔芋、酒鬼酒等漲逾5%。"
-    },
-    {
-      "id": "4905949",
-      "time": "2026-05-29 10:16:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟或將與Anthropic洽談獲取Mythos模型訪問許可權】據報道，歐盟委員會官員正計劃與Anthropic會面，以獲取有關該公司Mythos模型的更多資訊。自Anthropic透露該模型極度擅長尋找網路漏洞並可能構成重大網路安全風險以來，歐盟一直在推動獲取Mythos的訪問許可權。據知情人士透露，歐盟獲取Mythos訪問許可權的任何最終決定，可能都需要獲得美國政府的批准。"
-    },
-    {
-      "id": "4905948",
-      "time": "2026-05-29 10:15:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺積電股價上漲3.05%。"
-    },
-    {
-      "id": "4905947",
-      "time": "2026-05-29 10:15:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：所有人員均已清點完畢，安全無恙。"
-    },
-    {
-      "id": "te:markets:554689",
-      "time": "2026-05-29 10:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.29% — Top currency loser is South Korean Won (-0.29%). Gains are led by New Zealand Dollar (0.28%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
     }
   ]
 }
