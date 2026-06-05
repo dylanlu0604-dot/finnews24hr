@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-05 09:38:12",
-  "count": 18991,
+  "updated": "2026-06-05 09:41:55",
+  "count": 18988,
   "items": [
+    {
+      "id": "4918452",
+      "time": "2026-06-05 09:40:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海事分析公司：伊朗哈爾克島恢復原油裝載作業】總部位於英國的海事分析公司溫沃德4日釋出報告說，衛星圖片顯示，伊朗重要石油出口樞紐哈爾克島已恢復裝載作業。報告說，6月2日獲取的衛星影象顯示，一艘超大型油輪停靠在哈爾克島西部海上終端碼頭附近。這是自5月初該設施因疑似石油洩漏停運以來，第一艘確認靠泊的船隻。6月3日，西部泊位的超大型油輪與東部T型碼頭的一艘巴拿馬型油輪同時進行裝載作業。至4日，超大型油輪已完成裝油並離港，巴拿馬型油輪仍停泊在碼頭。溫沃德公司表示，兩個終端同時恢復服務表明，伊朗在積極恢復原油出口能力。（新華社）"
+    },
+    {
+      "id": "4918451",
+      "time": "2026-06-05 09:40:02",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【泰國尋求6月底前與美國達成貿易協議 目標關稅為10%】泰國正努力在6月底前與美國完成貿易談判。泰國商業部長素塔攀表示，泰國正尋求與美國達成互惠貿易協定，可能有助於將擬議的關稅稅率降低至10%。他表示，泰國仍有約25個懸而未決的問題需要解決，才能達成協議。政府將派遣貿易代表前往華盛頓，密切關注談判的最後階段。"
+    },
+    {
+      "id": "4918450",
+      "time": "2026-06-05 09:39:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量483億元。"
+    },
+    {
+      "id": "mkt:019e956f-cbc3-766c-9542-d5c31ee42dc3",
+      "time": "2026-06-05 09:39:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Retail cash yields snapshot: Licaitong, WeChat, Alipay】Licaitong (current + 7‑day annualized) ranged 0.7290%–1.2030%; WeChat Balance 7‑day annualized ranged 1.0010%–1.0340%; Alipay Yu'e Bao 7‑day annualized ranged 1.0000%–1.0430%."
+    },
+    {
+      "id": "mkt:019e956f-aa35-7cc8-bdf1-e434b5b4ab38",
+      "time": "2026-06-05 09:39:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share gaming sector climbed; Zhongqingbao hit the 20% daily up-limit, with Caesar Culture, Glacier Network, Yaoji Technology and 37 Interactive Entertainment also rising."
+    },
+    {
+      "id": "mkt:019e956e-e09d-7cc8-bdf1-dda542225d91",
+      "time": "2026-06-05 09:38:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed multiple senior Hamas security officials】The Israel Defense Forces and the Shin Bet said on the 4th that an evening airstrike in northern Gaza killed multiple senior members of Hamas’s security apparatus, including deputy security chief Hassan Labad and senior figures Asim Shubel, Abdullah Abu Kalub and Muhammad Abu Mak. Units from the IDF’s Southern Command remain deployed in the area and will continue operations to eliminate what the military called “direct threats.” Hamas has not yet commented."
+    },
+    {
+      "id": "4918449",
+      "time": "2026-06-05 09:38:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊走高，中青寶20cm漲停】遊戲板塊走高，中青寶20cm漲停，凱撒文化、冰川網路、姚記科技、三七互娛跟漲。"
+    },
+    {
+      "id": "4918448",
+      "time": "2026-06-05 09:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "大金重工香港上市首日股價跌至至每股59.05港元。"
+    },
+    {
+      "id": "4918447",
+      "time": "2026-06-05 09:38:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "te:markets:556652",
+      "time": "2026-06-05 09:37:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slide on Chip Selloff — The benchmark KOSPI declined nearly 5% to around 8,210 on Friday, extending losses for a second straight session and heading for its steepest weekly drop since late March amid a global semiconductor selloff. Chip stocks came under heavy pressure after disappointing results from Broadcom triggered a broad pullback in semiconductor shares worldwide. Sentiment was further pressured by escalating Middle East tensions after Hezbollah rejected a new ceasefire proposal in Lebanon and Israel signaled it would maintain its military presence, undermining efforts to advance a broader peace agreement involving Iran. This fueled risk aversion and concerns over potential disruptions to energy markets. Investors also continued to lock in profits following the market's recent record-setting rally, while foreign funds remained heavy net sellers. Samsung Electronics (-6.8%) and SK Hynix (-9.0%) led losses, alongside SK Square (-9.2%), Hyundai Motor (-6.6%), and LG Energy Solution (-3.2%)."
+    },
     {
       "id": "4918446",
       "time": "2026-06-05 09:37:20",
@@ -174833,123 +174928,6 @@
         "市場"
       ],
       "text": "【電力板塊繼續走強 深南電A等漲停】電力板塊繼續走強，深南電A、華電能源、粵電力A漲停，湖南發展、浙江新能、華電遼能、晉控電力等漲幅居前。"
-    },
-    {
-      "id": "4905872",
-      "time": "2026-05-29 09:41:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念再度走強 聯特科技漲超10%創歷史新高】CPO概念再度走強，聯特科技、凱格精機漲超10%，天孚通訊、安孚科技漲超7%，均創歷史新高，深科達、智立方、環旭電子、太辰光等跟漲。"
-    },
-    {
-      "id": "4905871",
-      "time": "2026-05-29 09:41:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海董事長稱對人工智慧帶來的增長動能抱有“極大信心”。"
-    },
-    {
-      "id": "mkt:019e7164-b4b3-7ee0-99e0-30673a79d736",
-      "time": "2026-05-29 09:41:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share lab-grown diamond sector remained active; Huanghe Xuanfeng recorded five limit-up hits in six sessions, Huifeng Diamond rose over 15%, and Sifangda, Zhongbing Hongjian and Liliang Diamond also gained."
-    },
-    {
-      "id": "4905870",
-      "time": "2026-05-29 09:40:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "據訊息人士透露，BASE POWER正在洽談以120億美元估值籌集資金。"
-    },
-    {
-      "id": "4905869",
-      "time": "2026-05-29 09:40:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.04%，成分股中，中芯國際跌4.54%，中科飛測跌4.01%，拓荊科技跌3.21%，芯聯整合跌3.45%。"
-    },
-    {
-      "id": "4905868",
-      "time": "2026-05-29 09:40:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先導科技集團旗下先導極星完成數千萬元Pre-A輪融資，茂晟資本獨家投資】近日，先導科技集團旗下核心空天業務平臺，安徽先導極星科技有限公司，完成由茂晟資本獨家投資的數千萬元Pre-A輪融資。本輪資金將按以下三個方向投入：星載產品批產、磷化銦（InP）高速ADC直採架構開發、協同拓展低空經濟場景應用與空天地一體化場景部署。目前公司已透過國內頭部商業衛星客戶一級供應商資質認證，核心產品進入批產交付節奏。"
-    },
-    {
-      "id": "4905867",
-      "time": "2026-05-29 09:40:09",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【SpaceX據悉將IPO估值目標下調至至少1.8萬億美元】據知情人士透露，SpaceX當前對首次公開募股(IPO)的目標估值至少為1.8萬億美元。上個月有報道稱，其目標估值逾2萬億美元。但知情人士透露，這家火箭、資料和人工智慧公司在與顧問和投資者磋商後，將目標估值下調。知情人士表示，IPO的發行規模和估值等細節通常會在定價前根據各方反饋調整。此前亦有知情人士透露，SpaceX計劃透過此次上市融資至多750億美元，將成為史上規模最大的IPO。據此前報道，SpaceX預計最早將於6月4日正式啟動IPO推介，並最早於6月11日定價。知情人士稱，交易時間線可能會推遲幾天。知情人士稱，相關討論仍在進行中，SpaceX可能會根據推介期間投資者的反饋，決定是否提高目標估值。"
-    },
-    {
-      "id": "4905866",
-      "time": "2026-05-29 09:39:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量362億元。"
-    },
-    {
-      "id": "4905865",
-      "time": "2026-05-29 09:39:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為手錶X1系列開售】5月29日，據華為終端訊息，華為超新星手錶X1系列今日開售。該產品搭載鴻蒙作業系統6，支援全球通訊，以及五天內無網/關機定位，在部分商場、機場、火車站等大型場館可顯示樓層和店鋪資訊，標準版售價1598元，Pro款售價2298元。"
-    },
-    {
-      "id": "mkt:019e7162-7444-7ee0-99e0-2d00f8f3f8a0",
-      "time": "2026-05-29 09:38:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02007.HK",
-        "Impact bullish",
-        "01918.HK",
-        "03883.HK"
-      ],
-      "text": "Hong Kong property developers rallied: COUNTRY GARDEN (02007.HK) rose over 18%, SUNAC CHINA (01918.HK) gained over 10%, China Aoyuan (03883.HK) added about 6% and China Vanke (02202.HK) rose about 5%."
-    },
-    {
-      "id": "mkt:019e7162-3203-7ee0-99e0-22a4f71ba0de",
-      "time": "2026-05-29 09:38:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NDRC deputy head meets Mozambique planning minister; vows to implement April cooperation accords, deepen BRI ties】May 26 — NDRC vice chairman Zhou Haibing met Mozambique’s Planning and Development Minister Vala to discuss Belt and Road cooperation, economic-development exchanges and the 15th Five-Year Plan. Zhou said the NDRC will strengthen communication and coordination to implement cooperation agreements signed during the Mozambican president’s April visit to China and to push for deeper, practical BRI and economic-development cooperation."
-    },
-    {
-      "id": "4905864",
-      "time": "2026-05-29 09:38:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【周海兵會見莫三比克規劃和發展部部長瓦拉】5月26日下午，國家發展改革委副主任周海兵在委內會見莫三比克規劃和發展部部長瓦拉，雙方就中莫共建“一帶一路”、經濟發展領域交流合作、“十五五”規劃等議題進行了交流。周海兵表示，長期以來，中莫關係蓬勃發展，傳統友誼歷久彌堅，務實合作成果豐碩。今年4月查波總統訪華期間，在兩國元首見證下，國家發展改革委與莫規劃和發展部簽署了有關合作檔案，進一步夯實雙方務實合作基礎。下一步，國家發展改革委願同莫方加強溝通協調，落實兩國元首共識，推動共建“一帶一路”、經濟發展領域交流等合作走深走實，為構建新時代中莫命運共同體作出貢獻。"
-    },
-    {
-      "id": "mkt:019e7161-cf47-7ee0-99e0-1da0d6833963",
-      "time": "2026-05-29 09:38:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yield snapshot for small cash balances】Tencent Licaitong (current+) 7-day annualized yield: 0.7830%–1.3080%. WeChat Wallet Lingqiantong 7-day annualized yield: 1.0030%–1.4100%. Alipay Yu’e Bao 7-day annualized yield: 1.0010%–1.0430%."
     }
   ]
 }
