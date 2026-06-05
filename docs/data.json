@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-06 00:30:04",
-  "count": 18756,
+  "updated": "2026-06-06 00:33:50",
+  "count": 18761,
   "items": [
+    {
+      "id": "te:markets:556995",
+      "time": "2026-06-06 00:32:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intel Stock Price Hits 4-week Low — Intel shares decreased to 102.36 USD, the lowest since May 2026. Over the past 4 weeks, Intel lost 9.08%, and in the last 12 months, it increased 412.21%."
+    },
+    {
+      "id": "mkt:019e98a0-d1b2-7665-8309-f08a96cefb16",
+      "time": "2026-06-06 00:32:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures fell below $4,350/oz, down 3.44% intraday."
+    },
+    {
+      "id": "mkt:019e98a0-b778-7665-8309-edb9b8a07020",
+      "time": "2026-06-06 00:32:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 2-year Treasury yield extended gains, up 13 bps to 4.17%."
+    },
+    {
+      "id": "4920223",
+      "time": "2026-06-06 00:31:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4350美元/盎司，日內跌3.44%。"
+    },
+    {
+      "id": "mkt:019e98a0-13d8-7665-8309-e3165c3197e6",
+      "time": "2026-06-06 00:31:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Two potential air leaks detected in ISS Russian Zvezda service module】Roscosmos confirmed on the 5th (local time) that two potential air leaks were detected in the International Space Station’s Russian Zvezda service module. The agency said the crew and station systems are not threatened. Russian cosmonauts have sealed the first leak and are preparing to seal the second."
+    },
+    {
+      "id": "mkt:019e989f-63a0-7665-8309-ddee3e4b6692",
+      "time": "2026-06-06 00:30:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $92/bbl, down 2.52% on the day."
+    },
+    {
+      "id": "4920222",
+      "time": "2026-06-06 00:30:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據Business Insider：埃隆·馬斯克計劃向歐洲最大科技公司的員工介紹SpaceX的Terafab晶片計劃，該專案被視為SpaceX在AI算力領域的一項重大技術押注。"
+    },
+    {
+      "id": "4920221",
+      "time": "2026-06-06 00:30:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至7%】費城半導體指數跌幅擴大至7%。英偉達股價下跌4.71%，臺積電股價下跌5.15%，博通股價下跌6.24%，美光科技股價下跌8.26%，超威半導體股價下跌8.62%，阿斯麥股價下跌4.62%。"
+    },
+    {
+      "id": "mkt:019e989e-a4fc-7665-8309-d74fbe5ac704",
+      "time": "2026-06-06 00:29:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bearish",
+        "ASML.O",
+        "TSM.N"
+      ],
+      "text": "Philadelphia Semiconductor Index fell as much as 7%. NVIDIA (NVDA.O) declined 4.5%, ASML (ASML.O) fell 4.65%, TSMC (TSM.N) fell 5.22%."
+    },
     {
       "id": "4920220",
       "time": "2026-06-06 00:28:21",
@@ -172698,47 +172799,6 @@
         "Brent"
       ],
       "text": "WTI and Brent crude briefly slipped about $0.60 a barrel."
-    },
-    {
-      "id": "4907647",
-      "time": "2026-05-30 00:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列國防軍稱打死4名哈馬斯成員】當地時間5月29日，以色列國防軍稱，在28日對加沙地帶的空襲中，打死了4名伊斯蘭抵抗組織（哈馬斯）成員。以軍稱，這4名哈馬斯成員對以軍構成直接威脅，故採取有針對性的方式將其打死，以消除威脅。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e7495-1199-7bb7-9964-49ec47370d15",
-      "time": "2026-05-30 00:33:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Senior Iranian source says Iran and the United States have reached a political consensus, but it is not yet final."
-    },
-    {
-      "id": "4907646",
-      "time": "2026-05-30 00:31:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 俄方將自行決定是否會見歐盟特使。"
-    },
-    {
-      "id": "mkt:019e7493-9d9a-7bb7-9964-4698dcbe7b5d",
-      "time": "2026-05-30 00:31:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Putin, referring to threats against Russia's Kaliningrad exclave, said Russia has the means to destroy anyone who attempts to threaten it."
     }
   ]
 }
