@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-06 01:20:56",
+  "updated": "2026-06-06 01:24:46",
   "count": 18756,
   "items": [
+    {
+      "id": "mkt:019e98d0-7701-7665-830a-c6ead4dbcdf8",
+      "time": "2026-06-06 01:24:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Several US states are preparing to file lawsuits seeking to block Paramount's acquisition of Warner Bros."
+    },
+    {
+      "id": "mkt:019e98d0-3881-7665-830a-bd38b6d36bef",
+      "time": "2026-06-06 01:24:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Adviser to Iran's supreme leader reiterates Iran, Oman sovereignty over Strait of Hormuz】An adviser to Iran's supreme leader told CNN that Iran and Oman have sovereignty over the Strait of Hormuz and will jointly manage the waterway, which previously handled about one-fifth of global oil and LNG shipments. He resisted calling proposed charges 'transit fees', saying Iran would impose maintenance fees to cover management costs rather than bear them alone."
+    },
+    {
+      "id": "mkt:019e98ce-0f57-7665-830a-b7868e0154a4",
+      "time": "2026-06-06 01:21:41",
+      "tags": [
+        "MKT News",
+        "EQIX.O",
+        "Impact bearish",
+        "DLR.O",
+        "CONE.O"
+      ],
+      "text": "Per NBC, Illinois Governor J.B. Pritzker will suspend tax incentives for data centers."
+    },
+    {
+      "id": "4920241",
+      "time": "2026-06-06 01:20:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "本週，ICE英國天然氣期貨累計上漲6.18%，週五（6月5日）歐市尾盤報117.640便士/千卡。TTF基準荷蘭天然氣期貨累漲8.87%，報48.759歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）累跌4.84%，報75.74歐元/噸。"
+    },
     {
       "id": "te:economy:556996",
       "time": "2026-06-06 01:20:19",
@@ -172707,41 +172747,6 @@
         "國際"
       ],
       "text": "據伊通社：伊朗表示仍在與美國繼續進行資訊交流。"
-    },
-    {
-      "id": "4907675",
-      "time": "2026-05-30 01:24:44",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：設定穩定幣發行限額無疑是可行方案。"
-    },
-    {
-      "id": "4907674",
-      "time": "2026-05-30 01:24:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔傳出爆炸聲】當地時間5月29日獲悉，烏克蘭首都基輔傳出爆炸聲。此前基輔拉響防空警報。（央視新聞）"
-    },
-    {
-      "id": "4907673",
-      "time": "2026-05-30 01:22:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：穩定幣相關提案將於夏季前提交。"
-    },
-    {
-      "id": "4907672",
-      "time": "2026-05-30 01:21:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：私人信貸領域已出現承壓跡象。"
     }
   ]
 }
