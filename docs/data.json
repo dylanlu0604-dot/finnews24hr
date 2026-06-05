@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-06 02:31:15",
-  "count": 18813,
+  "updated": "2026-06-06 02:35:09",
+  "count": 18818,
   "items": [
+    {
+      "id": "mkt:019e9910-1024-7665-830c-1f100c4d692c",
+      "time": "2026-06-06 02:33:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House says within 120 days the heads of the Department of Defense, the Office of the Director of National Intelligence and all agencies with intelligence community (IC) components will review and update procurement processes to ensure AI models are sourced from multiple vendors."
+    },
+    {
+      "id": "4920288",
+      "time": "2026-06-06 02:33:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4320美元/盎司，日內跌3.47%。"
+    },
+    {
+      "id": "mkt:019e990e-b41f-7665-830c-134da7c95f25",
+      "time": "2026-06-06 02:32:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session: front-month contracts close】At the 02:30 close, SHFE gold front-month contract fell 2.93% to 949 yuan/gram; SHFE silver front-month contract fell 7.43% to 16,454 yuan/kg; INE SC crude front-month contract fell 1.86% to 584 yuan/barrel."
+    },
+    {
+      "id": "te:markets:557003",
+      "time": "2026-06-06 02:32:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Texas Instruments Stock Price Hits 4-week Low — Texas Instruments shares decreased to 287.60 USD, the lowest since May 2026. Over the past 4 weeks, Texas Instruments lost 0.49%, and in the last 12 months, it increased 49.68%."
+    },
+    {
+      "id": "mkt:019e990e-94e5-7665-830c-0bf34192c72b",
+      "time": "2026-06-06 02:32:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: U.S. to issue updated directive on autonomous weapon systems within 90 days."
+    },
+    {
+      "id": "4920287",
+      "time": "2026-06-06 02:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收跌2.50美元，跌幅2.69%，報90.54美元/桶。NYMEX 7月天然氣期貨收報3.2290美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0459美元/加侖，NYMEX 7月取暖油期貨收報3.5874美元/加侖。"
+    },
+    {
+      "id": "4920286",
+      "time": "2026-06-06 02:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX 路演初期，該股 IPO 認購需求約達 750 億美元發行規模的兩倍。"
+    },
     {
       "id": "4920285",
       "time": "2026-06-06 02:30:43",
@@ -173274,29 +173343,6 @@
         "國際"
       ],
       "text": "世界貿易組織：國際能源署、國際貨幣基金組織、世界銀行與世貿組織舉行會議，商討應對中東局勢對能源、貿易及經濟造成的衝擊。"
-    },
-    {
-      "id": "mkt:019e7501-cdbe-7bb7-9965-5419df3f0d96",
-      "time": "2026-05-30 02:31:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract rose 1.61% to 996 yuan/gram, Shanghai silver main contract rose 0.64% to 18,323 yuan/kg, and SC crude oil main contract fell 1.61% to 580 yuan/barrel."
-    },
-    {
-      "id": "4907693",
-      "time": "2026-05-30 02:31:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收跌1.54美元，跌幅1.73%，報87.36美元/桶。NYMEX 6月天然氣期貨收報3.29美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.1267美元/加侖，NYMEX 6月取暖油期貨收報3.5373美元/加侖。"
     }
   ]
 }
