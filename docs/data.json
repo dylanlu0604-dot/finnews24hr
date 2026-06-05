@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-06 02:50:27",
-  "count": 18818,
+  "updated": "2026-06-06 02:54:24",
+  "count": 18819,
   "items": [
+    {
+      "id": "mkt:019e9921-6600-7665-830c-5fdad6754f6d",
+      "time": "2026-06-06 02:52:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX said Google may terminate the GPU-related agreement after a one-month cure period if compute capacity is not delivered by local time on Sept. 30, 2026."
+    },
+    {
+      "id": "mkt:019e991f-e818-7665-830c-556f797f7ac9",
+      "time": "2026-06-06 02:51:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US stocks extended declines; the Nasdaq Composite briefly fell more than 4%."
+    },
+    {
+      "id": "4920299",
+      "time": "2026-06-06 02:50:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：若未能在 2026 年 9 月 30 日前交付算力資源，谷歌可在一個月寬限期屆滿後終止這份 GPU 合作協議。"
+    },
+    {
+      "id": "4920298",
+      "time": "2026-06-06 02:50:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國際空間站暫停漏氣維修，宇航員結束避險】美國國家航空航天局新聞秘書貝薩妮·史蒂文斯5日表示，國際空間站俄羅斯艙段一處長期存在裂縫和漏氣問題的通道原定當天進行維修，但俄羅斯國家航天集團已暫停相關作業，以便進一步評估測量結果和相關資料。5名宇航員在維修期間進入停靠空間站的“龍”飛船避險，地面人員已通知他們結束避險狀態並返回空間站恢復正常工作。（新華社）"
+    },
     {
       "id": "4920297",
       "time": "2026-06-06 02:48:51",
@@ -173335,31 +173379,6 @@
         "US Economy"
       ],
       "text": "US Treasury Secretary Bessent said the US has recognized the necessity of increasing production capacity."
-    },
-    {
-      "id": "4907704",
-      "time": "2026-05-30 02:53:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：“美國已然醒悟”，認識到提升產能的必要性。"
-    },
-    {
-      "id": "mkt:019e7515-e840-7bb7-9965-8c1454e29990",
-      "time": "2026-05-30 02:53:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign ministry said the United States and Pakistan agreed to elevate and strengthen economic and trade ties, cultural cooperation and their partnership on counterterrorism and security."
-    },
-    {
-      "id": "mkt:019e7513-a2e1-7bb7-9965-8262e23f7749",
-      "time": "2026-05-30 02:51:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US media: Trump has not decided on any new agreement with Iran】The New York Times reports senior US officials said Trump's roughly two-hour situation-room meeting produced no decision on a new agreement with Iran. The Trump administration says a deal is near but key issues remain under discussion, including the unfreezing of Iranian funds."
     }
   ]
 }
