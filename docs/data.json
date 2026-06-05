@@ -1,7 +1,201 @@
 {
-  "updated": "2026-06-05 14:44:09",
-  "count": 18932,
+  "updated": "2026-06-05 14:48:16",
+  "count": 18925,
   "items": [
+    {
+      "id": "mkt:019e9689-960d-7ff7-b579-b15b527cfdb0",
+      "time": "2026-06-05 14:47:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing Production (YoY) (Apr) | actual 2.5% | previous 1.60%"
+    },
+    {
+      "id": "mkt:019e9689-842b-7ff7-b579-ac62c1308197",
+      "time": "2026-06-05 14:47:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing Production (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 1.20%"
+    },
+    {
+      "id": "mkt:019e9689-4be9-7ff7-b579-a0f1bc447127",
+      "time": "2026-06-05 14:46:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France current account deficit narrowed to EUR 0.2 bln in April from EUR 8.2 bln in the prior month."
+    },
+    {
+      "id": "mkt:019e9688-d92b-7ff7-b579-99f7b5dff119",
+      "time": "2026-06-05 14:46:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Current Account (Apr) | actual -200000000B | previous -8200000000B"
+    },
+    {
+      "id": "mkt:019e9688-82b7-7ff7-b579-92935bc20c9a",
+      "time": "2026-06-05 14:46:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France April industrial production MoM +0.1% (consensus -0.2%); prior +1.0%."
+    },
+    {
+      "id": "mkt:019e9688-651c-7ff7-b579-8ad266dded7a",
+      "time": "2026-06-05 14:46:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France Apr exports €54.585 bln; previous reading revised to €52.933 bln from €52.459 bln."
+    },
+    {
+      "id": "mkt:019e9688-64a7-7ff7-b579-82c4cf89ed39",
+      "time": "2026-06-05 14:46:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Industrial Production (MoM) (Apr) | actual 0.1% | consensus -0.2% | previous 1.00%"
+    },
+    {
+      "id": "mkt:019e9688-4057-7ff7-b579-72fa7a1bf551",
+      "time": "2026-06-05 14:46:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Exports (Apr) | actual 54585000000B | previous 52459000000B"
+    },
+    {
+      "id": "mkt:019e9688-1b90-7ff7-b579-68eb8eef265e",
+      "time": "2026-06-05 14:45:57",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "France April imports €60.225bn, prior €59.323bn."
+    },
+    {
+      "id": "mkt:019e9687-e8c8-7ff7-b579-678f77607cb8",
+      "time": "2026-06-05 14:45:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Imports (Apr) | actual 60225000000B | previous 59323000000B"
+    },
+    {
+      "id": "mkt:019e9687-c55a-7ff7-b579-5e3325a2346f",
+      "time": "2026-06-05 14:45:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France April trade deficit narrowed to EUR 5.64 bln from a EUR 6.864 bln deficit previously."
+    },
+    {
+      "id": "4918912",
+      "time": "2026-06-05 14:45:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李斌名下易車通文化傳媒公司擬登出】天眼查經營風險資訊顯示，近日，北京易車通文化傳媒有限公司新增一則簡易登出公告，公告期為5月29日至6月18日。該公司成立於2008年3月，法定代表人為李斌，註冊資本1000萬人民幣，經營範圍包括設計、製作、代理、釋出廣告等，由李斌、林芝利創資訊科技有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019e9687-94f4-7ff7-b579-572f202c2e80",
+      "time": "2026-06-05 14:45:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Trade Balance (Apr) | actual -5640000000B | previous -6864000000B"
+    },
+    {
+      "id": "4918911",
+      "time": "2026-06-05 14:45:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國4月經常帳 -2億歐元，前值 -12億歐元。"
+    },
+    {
+      "id": "4918910",
+      "time": "2026-06-05 14:45:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國4月貿易帳 -56.4億歐元，前值 -68.64億歐元。"
+    },
+    {
+      "id": "4918909",
+      "time": "2026-06-05 14:44:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同緬甸外長丁貌瑞會談】6月5日，中共中央政治局委員、外交部長王毅在北京同緬甸外長丁貌瑞舉行會談。王毅表示，中緬建交76年來，兩國堅定奉行共同倡導的和平共處五項原則，同甘共苦，守望相助，樹立了國與國之間友好交往的典範。2020年習近平主席歷史性訪緬，推動中緬關係進入構建命運共同體的新時期。今年是緬新政府施政第一年。中方願同緬方加強高層交往，增進政治互信，深化戰略合作，推動中緬命運共同體建設取得更多務實成果，助力緬甸加快發展振興。(新華社)"
+    },
+    {
+      "id": "4918908",
+      "time": "2026-06-05 14:44:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美孚宣告：天貓百億補貼等渠道機油未授權，無法保證質量】近日，在社交媒體上，有消費者發帖吐槽，“在某電商平臺上購買的美孚機油竟是三無產品”、“之前買了一瓶金美孚040，今天才加進去，倒出來第一感覺怎麼那麼稀，像水一樣。”近日，埃克森美孚（中國）投資有限公司在京東美孚官方旗艦店、天貓美孚官方旗艦店釋出宣告稱，天貓百億補貼頻道、蘇寧易購官方旗艦店等渠道銷售的美孚1號經典表現、美孚1號勁擎表現、銀美、速霸等產品，均非埃克森美孚官方授權的銷售渠道供應。宣告強調，該公司未授權任何二級經銷商，凡透過非授權渠道銷售的產品，埃克森美孚無法就其正品來源及質量作出任何保證。（新浪科技）"
+    },
+    {
+      "id": "mkt:019e9686-48ca-7ff7-b579-49c9ff626925",
+      "time": "2026-06-05 14:44:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of India governor said the central bank is not currently considering proposals to monetize gold."
+    },
+    {
+      "id": "4918907",
+      "time": "2026-06-05 14:43:41",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：目前並未審議任何黃金貨幣化提案。"
+    },
     {
       "id": "4918906",
       "time": "2026-06-05 14:43:29",
@@ -174180,277 +174374,6 @@
         "公司"
       ],
       "text": "【遠景能源在濟南成立智儲新能源公司】企查查APP顯示，近日，濟南遠嶼智儲新能源有限公司成立，經營範圍包含：新興能源技術研發；儲能技術服務；新能源原動裝置製造；新能源原動裝置銷售；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由遠景能源有限公司全資持股。"
-    },
-    {
-      "id": "4906349",
-      "time": "2026-05-29 14:48:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞拓美妝董事長黃東照去世，享年72歲】5月29日，“亞拓美妝”微信公眾號釋出訃告：公司董事長黃東照於2026年5月27日05時00分在家中與世長辭，享年72歲。"
-    },
-    {
-      "id": "mkt:019e727d-2096-711c-8b41-5580c8fc207c",
-      "time": "2026-05-29 14:47:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "Sci-Tech Innovation Board 50 (STAR 50) fell 6% as selling broadened; fewer than 10 constituents advanced. Xinlian Jicheng, HuGui Industry and Tianyue Advanced led declines."
-    },
-    {
-      "id": "4906348",
-      "time": "2026-05-29 14:47:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【李在明視察投票站】環球網援引韓聯社5月29日報道，在韓國地方選舉提前投票開始之際，韓國總統李在明與夫人一同前往一處投票站並完成投票。韓媒稱，李在明此行是為了鼓勵民眾積極參加選舉，提高投票率。"
-    },
-    {
-      "id": "mkt:019e727c-da98-711c-8b41-4b7a58c3de6c",
-      "time": "2026-05-29 14:47:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France May harmonised CPI (HICP) preliminary m/m +0.1% vs +0.3% est; prior +1.20%."
-    },
-    {
-      "id": "mkt:019e727c-9cdc-711c-8b41-437fe457e25c",
-      "time": "2026-05-29 14:46:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France Q1 GDP final YoY 0.9% vs 1.1% expected; prior 1.1%."
-    },
-    {
-      "id": "mkt:019e727c-5947-711c-8b41-387c0347b368",
-      "time": "2026-05-29 14:46:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | GDP Rate Final (YoY) (Q1) | actual 0.9% | consensus 1.10% | previous 1.10%"
-    },
-    {
-      "id": "mkt:019e727c-56f2-711c-8b41-2bba7e2eaff9",
-      "time": "2026-05-29 14:46:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France May preliminary CPI YoY 2.4% vs 2.5% expected; prior 2.2%."
-    },
-    {
-      "id": "mkt:019e727c-550e-711c-8b41-269432a35d75",
-      "time": "2026-05-29 14:46:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "France May CPI preliminary MoM +0.1% (consensus +0.3%), prior +1.0%."
-    },
-    {
-      "id": "4906347",
-      "time": "2026-05-29 14:46:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報1059.00元。"
-    },
-    {
-      "id": "4906346",
-      "time": "2026-05-29 14:46:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【I.T 集團拿下潮牌Off-White中國大陸及港澳臺地區獨家經銷權】香港時尚零售商I.T 集團獲 Off-White官方授權，自 2026 春夏系列起，成為該品牌在中國大陸及港澳臺地區的獨家經銷商，全面負責其在該區域的業務發展及運營管理。Off-White由曾任路易威登男裝創意總監的Virgil Abloh創立，曾在LVMH集團的支援下快速發展，後因創始人去世及品牌戰略調整，於2022年被LVMH集團出售。I.T 集團為買手製零售商，Off-White已進入其線上線下的集合店銷售。I.T 集團還為Off-White開設獨立品牌門店，最新一家日前在香港利園Lee Gardens開業。"
-    },
-    {
-      "id": "4906345",
-      "time": "2026-05-29 14:46:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3016億元。"
-    },
-    {
-      "id": "mkt:019e727b-e1bf-711c-8b41-1eb94deca219",
-      "time": "2026-05-29 14:46:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Former BOJ board member says June rate hike crucial or policy will lag inflation】Former Bank of Japan policy board member Sakurai, who served 2016–21, said the BOJ is likely to raise rates next month and that the meeting will determine whether policymakers avoid falling behind inflation. He warned that failing to hike risks missing a tightening window and, given sustained uncertainty from the Iran conflict, could force an indefinite delay of further increases. The yen is trading near levels seen during last month’s official intervention, raising the risk that higher import costs will push inflation up. Tokyo CPI, a BOJ focus, rose 1.3% YoY in May—below forecasts and the smallest gain in four years—largely due to a temporary Tokyo water-bill cut; Sakurai called the print a technical distortion and said core inflation could reaccelerate later this year. Political risk remains: Sanae Takaichi is viewed as a potential restraint on tightening, but Sakurai said Bessent’s recent visit, which signaled broad support for further hikes, may allow political actors to defer to the BOJ’s judgment."
-    },
-    {
-      "id": "4906344",
-      "time": "2026-05-29 14:46:12",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【能源成本加劇，法國通脹率升至逾兩年高點】受伊朗戰事影響，能源價格持續上漲，導致法國本月通脹率攀升至兩年多來的最高水平，這讓歐洲央行料將在6月會議上進行自2023年以來的首次加息。去年底之前，歐元區幾大主要經濟體的同比通脹率一直呈下降趨勢，法國1月份的同比通脹率曾降至0.4%。然而，在霍爾木茲海峽被關閉導致石油和天然氣價格走高後，3月份通脹率大幅攀升。根據法國國家統計及經濟研究局(Insee)週五公佈的歐盟調和資料，法國5月份消費者物價同比上漲2.8%，同比通脹率較4月份的2.5%有所加快。這是自2024年2月以來的最高水平，使其進一步偏離歐洲央行2%的目標。Insee表示，同比能源通脹率從4月份的14.3%升至16.8%，同時服務價格漲幅略有加快。在物價加速上漲之前，Insee的消費者信心指數在5月份降至三年低點，法國的商業景氣度也出現下滑。"
-    },
-    {
-      "id": "mkt:019e727b-7d1f-711c-8b41-1599585e712f",
-      "time": "2026-05-29 14:45:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France April household consumption expenditure YoY -0.4% (est -0.3%; prior 0.5%)."
-    },
-    {
-      "id": "mkt:019e727b-54bd-711c-8b41-0fb6e6e903e8",
-      "time": "2026-05-29 14:45:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Household Consumption Spending (YoY) (Apr) | actual -0.4% | consensus -0.30% | previous 0.50%"
-    },
-    {
-      "id": "4906343",
-      "time": "2026-05-29 14:45:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第六次參加智博會，楊元慶：聯想算是地道“天津人”】5月28日下午訊息，於天津舉辦的2026世界智慧產業博覽會（簡稱：智博會）上，聯想第六次參加智博會，聯想集團董事長兼CEO楊元慶出席開幕式並分享指出，“聯想算是地道的天津人，驀然回首在這已經落地發展超過10週年，2015年在京津冀協同發展的戰略指引下，聯想將天津確立為北京之外的重要戰略支點，我們制定了一個總部、兩個園區、四個中心的發展戰略，十年間聯想在天津的發展連續登上了新臺階，已經實現了三個‘千人百億’計劃，且每次都提前超額達成。”（新浪科技）"
-    },
-    {
-      "id": "te:economy:554787",
-      "time": "2026-05-29 14:45:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Hungary Producer Inflation Slows in April — Producer prices in Hungary increased by 0.3% year-on-year in April 2026, easing from a 1.2% rise in the previous month. Prices declined in non-domestic output (-0.5% vs 1.3% in March), while domestic output prices rose (2.2% vs 1.2%). By sector, manufacturing costs fell further (-1.1% vs -0.2%), particularly in transport equipment, machinery and equipment, electrical equipment, and food products, beverages and tobacco products. Costs also moderated in electricity, gas, steam and air conditioning supply (8% vs 8.4%), as well as in water collection, treatment, and supply (2.2% vs 4.1%). In contrast, price growth continued in mining and quarrying (1.4% vs 0.1%). On a monthly basis, producer prices declined by 1.3% in April after a 3.9% increase in the prior period."
-    },
-    {
-      "id": "4906342",
-      "time": "2026-05-29 14:45:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國4月家庭消費支出月率 -0.5%，預期-0.1%，前值由0.70%修正為0.9%。法國第一季度GDP季率終值 -0.1%，預期0.00%，前值0.00%。法國5月調和CPI年率初值 2.8%，預期2.90%，前值2.50%。"
-    },
-    {
-      "id": "mkt:019e727a-e70d-711c-8b41-0626fdb53084",
-      "time": "2026-05-29 14:45:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "France April household consumption expenditure MoM -0.5% (expected -0.1%); March revised to 0.9% from 0.7%."
-    },
-    {
-      "id": "mkt:019e727a-e702-711c-8b40-fd4cf41097b3",
-      "time": "2026-05-29 14:45:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France Q1 GDP final QoQ -0.1% vs expected 0.0%; previously 0.0%."
-    },
-    {
-      "id": "mkt:019e727a-e702-711c-8b40-f0691901fb65",
-      "time": "2026-05-29 14:45:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "France May harmonized CPI (HICP) preliminary YoY 2.8% vs 2.9% expected; April 2.5%."
-    },
-    {
-      "id": "4906341",
-      "time": "2026-05-29 14:45:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達6.03%，成分股中，芯聯整合跌11.25%，滬矽產業跌10.88%，天嶽先進跌10.72%，中芯國際跌9.42%。"
-    },
-    {
-      "id": "mkt:019e727a-b73a-711c-8b40-ee456e5ae75d",
-      "time": "2026-05-29 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | GDP Rate Final (QoQ) (Q1) | actual -0.1% | consensus 0.00% | previous 0.00%"
-    },
-    {
-      "id": "mkt:019e727a-a4bc-711c-8b40-e248f74c6cfa",
-      "time": "2026-05-29 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Household Consumption Spending (MoM) (Apr) | actual -0.5% | consensus -0.1% | previous 0.70%"
-    },
-    {
-      "id": "mkt:019e727a-8471-711c-8b40-dcb1beec861a",
-      "time": "2026-05-29 14:44:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "601238.SS",
-        "Impact bullish"
-      ],
-      "text": "【QiJing launches pre-sale for first model GT7】May 29 — QiJing opened pre-sales for its first model, the GT7. The car, produced through deep technical integration between Huawei’s QianKun unit and GAC, is equipped with Huawei’s next‑generation dual‑optical‑path image‑grade lidar, QianKun ADS 5 intelligent driving system, a HarmonyOS cockpit, and the QianKun Chitu platform."
-    },
-    {
-      "id": "4906340",
-      "time": "2026-05-29 14:44:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【啟境品牌首款車型啟境GT7正式開啟預售】5月29日，啟境品牌首款車型啟境GT7正式開啟預售，該車為華為乾崑與廣汽全棧技術深度融合的產品，搭載華為新一代雙光路影象級鐳射雷達、華為乾崑智駕ADS 5、鴻蒙座艙體系、華為乾崑赤兔平臺等。"
     }
   ]
 }
