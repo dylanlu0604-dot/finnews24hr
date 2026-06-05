@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-06 02:35:09",
-  "count": 18818,
+  "updated": "2026-06-06 02:39:01",
+  "count": 18812,
   "items": [
+    {
+      "id": "mkt:019e9912-eb0e-7665-830c-25e7384e0628",
+      "time": "2026-06-06 02:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say demand for SpaceX IPO subscriptions is about twice the initial $75 billion roadshow target."
+    },
+    {
+      "id": "4920290",
+      "time": "2026-06-06 02:36:09",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "受就業資料提振市場押注美聯儲加息影響，現貨黃金回吐年內全部漲幅。"
+    },
+    {
+      "id": "4920289",
+      "time": "2026-06-06 02:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：美國國家安全體系研發及應用人工智慧技術時，不得利用其管控言論自由、植入意識形態偏見，或是開展未經授權及非法監視活動。"
+    },
     {
       "id": "mkt:019e9910-1024-7665-830c-1f100c4d692c",
       "time": "2026-06-06 02:33:46",
@@ -173262,87 +173289,6 @@
         "Important"
       ],
       "text": "Washington Post reports US officials said Trump has ended a Situation Room meeting on an Iran memorandum of understanding."
-    },
-    {
-      "id": "mkt:019e7507-8475-7bb7-9965-69ea3a8f21e1",
-      "time": "2026-05-30 02:38:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTO: If shipping through the Strait of Hormuz does not return to normal, falling oil inventories would pose risks to fuel security, market conditions and economic resilience."
-    },
-    {
-      "id": "mkt:019e7507-5a17-7bb7-9965-604aef5653f0",
-      "time": "2026-05-30 02:37:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Tasnim News Agency reported Iran's air-defence systems shot down U.S. and Israeli small drones near Qeshm Island."
-    },
-    {
-      "id": "4907699",
-      "time": "2026-05-30 02:37:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界貿易組織：若航運無法恢復正常，石油庫存持續消耗將給燃料安全、市場形勢及經濟韌性帶來風險。"
-    },
-    {
-      "id": "4907698",
-      "time": "2026-05-30 02:36:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界貿易組織： 國際貨幣基金組織、國際能源署、世界銀行探討相關方案，擬透過多邊與雙邊舉措進一步強化協同支援。"
-    },
-    {
-      "id": "4907697",
-      "time": "2026-05-30 02:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧與黎巴嫩總統通了電話。"
-    },
-    {
-      "id": "4907696",
-      "time": "2026-05-30 02:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部：墨美完成《美墨加協定》首輪複審。"
-    },
-    {
-      "id": "4907695",
-      "time": "2026-05-30 02:35:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：伊朗稱擊落一架美以聯合無人機。"
-    },
-    {
-      "id": "mkt:019e7505-0b4b-7bb7-9965-588778c7a3aa",
-      "time": "2026-05-30 02:35:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "WTO says it joined the IEA, IMF and World Bank in a meeting to discuss responses to the Middle East war’s impact on energy markets, trade flows and the global economy."
-    },
-    {
-      "id": "4907694",
-      "time": "2026-05-30 02:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界貿易組織：國際能源署、國際貨幣基金組織、世界銀行與世貿組織舉行會議，商討應對中東局勢對能源、貿易及經濟造成的衝擊。"
     }
   ]
 }
