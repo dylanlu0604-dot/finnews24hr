@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-06 01:13:14",
-  "count": 18762,
+  "updated": "2026-06-06 01:17:10",
+  "count": 18758,
   "items": [
+    {
+      "id": "4920240",
+      "time": "2026-06-06 01:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（6月5日），美聯儲隔夜逆回購協議（RRP）使用規模為7.61億美元（交易對手5家），上個交易日報11.22億美元。"
+    },
+    {
+      "id": "mkt:019e98c8-e11a-7665-830a-a14856ee885e",
+      "time": "2026-06-06 01:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official says Iranian World Cup players have been issued visas to enter the U.S."
+    },
+    {
+      "id": "4920239",
+      "time": "2026-06-06 01:15:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：伊朗世界盃足球隊球員已獲批赴美簽證。"
+    },
+    {
+      "id": "mkt:019e98c6-17ce-7665-830a-994cf656e574",
+      "time": "2026-06-06 01:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported Russian President Putin met with former German Chancellor Gerhard Schroder."
+    },
     {
       "id": "mkt:019e98c4-776a-7665-830a-926e7837f221",
       "time": "2026-06-06 01:11:12",
@@ -172722,90 +172755,6 @@
         "國際"
       ],
       "text": "週五（5月29日），美聯儲隔夜逆回購協議（RRP）使用規模為116.77億美元（交易對手11家），上個交易日報11.63億美元。"
-    },
-    {
-      "id": "mkt:019e74bd-39da-7bb7-9964-db686c7899b6",
-      "time": "2026-05-30 01:16:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Daly said productivity gains are an important channel for growth and can enable firms to expand payrolls."
-    },
-    {
-      "id": "4907668",
-      "time": "2026-05-30 01:16:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：英國各大銀行並未接入 Mythos 系統，英國銀行可使用其他模型。"
-    },
-    {
-      "id": "4907667",
-      "time": "2026-05-30 01:15:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：生產率提升是拉動經濟增長的重要途徑，也能讓企業吸納更多勞動力。"
-    },
-    {
-      "id": "mkt:019e74bb-b737-7bb7-9964-d6c79a645868",
-      "time": "2026-05-30 01:15:19",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Daly said restoring price stability is vital but should not come at the expense of the economy."
-    },
-    {
-      "id": "4907666",
-      "time": "2026-05-30 01:15:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：美聯儲務必恢復物價穩定，但不能以損害經濟為代價。"
-    },
-    {
-      "id": "4907665",
-      "time": "2026-05-30 01:14:08",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【貝萊德削減模型投資組合的股票持倉 對股市超額回報持謹慎看法】隨著美國股市在強勁的財報季後飆升至創紀錄高位，貝萊德著手削減其2200億美元模型投資組合業務中的股票持倉。投資展望報告顯示，這家全球最大資產管理公司已將股票超配比例從3%下調至1%。資料顯示，這一調整在週四引發貝萊德旗下各類ETF之間數十億美元的資金流動。貝萊德Target Allocation ETF模型投資組合系列的首席投資組合經理Michael Gates撰文指出，此舉是在美國企業經歷“劃時代財報季”之後做出的。他表示，強勁的業績、蓬勃發展的生產力以及穩健的經濟環境在近幾周將標普500指數推升至歷史新高，抵消了伊朗戰爭以及美聯儲今年降息預期退潮造成的負面影響。但他同時警告，如今越來越難期待股市繼續取得超額回報，市場已經消化了利好因素，而“我們認為未來避開潛在風險的路徑正在變窄”。Gates表示，貝萊德對股市依然充滿信心，將繼續維持押注企業利潤增長、人工智慧以及政府支出的倉位。"
-    },
-    {
-      "id": "mkt:019e74ba-6ccc-7bb7-9964-cbfaede97a11",
-      "time": "2026-05-30 01:13:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Foreign Ministry spokesman Baghaei said management of the Strait of Hormuz must be decided by Iran and Oman, and that no agreement with the U.S. has been reached to date."
-    },
-    {
-      "id": "4907664",
-      "time": "2026-05-30 01:13:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃： 目前伊朗與美國尚未達成任何最終協議。"
     }
   ]
 }
