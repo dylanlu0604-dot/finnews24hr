@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-05 22:32:05",
-  "count": 18705,
+  "updated": "2026-06-05 22:35:53",
+  "count": 18709,
   "items": [
+    {
+      "id": "4920076",
+      "time": "2026-06-05 22:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官裁定特朗普政府禁止39個國家民眾獲得庇護、工作許可、綠卡及公民身份申請最終裁決的政策無效。"
+    },
+    {
+      "id": "mkt:019e9835-221d-7665-8306-8277e0ea1b37",
+      "time": "2026-06-05 22:34:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold hit an intraday low of $4,350/oz, down 2.81%."
+    },
+    {
+      "id": "te:markets:556955",
+      "time": "2026-06-05 22:34:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Drops on Friday, Heads for Weekly Gain — Brent crude oil futures fell to below $94 per barrel on Friday, extending a 2.8% fall in the previous session, as investors looked for signs of progress in US-Iran negotiations while uncertainty persisted over a ceasefire between Israel and Lebanon. President Donald Trump said talks with Tehran were progressing well, despite Iran-backed Hezbollah rejecting a US-brokered ceasefire proposal. Brent remains nearly 3% higher for the week after renewed clashes between US and Iranian forces dampened hopes for a deal that could restore flows through the Strait of Hormuz. Trump has since struck a more optimistic tone, saying the strait could reopen quickly if Iran agrees to a memorandum of understanding to halt hostilities. However, little concrete progress has emerged, with Israel’s continued operations in Lebanon remaining a key obstacle. Elsewhere, loadings at Oman’s Mina Al Fahal export terminal were temporarily delayed following an explosion, although operations later resumed."
+    },
+    {
+      "id": "mkt:019e9834-a526-7665-8306-7ad43bc304c2",
+      "time": "2026-06-05 22:34:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US President Trump said the just‑released jobs report was very strong and that stocks should rise rather than fall, adding this has been the case over the past 200 years and that economic growth does not mean inflation."
+    },
+    {
+      "id": "4920075",
+      "time": "2026-06-05 22:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：增長並不意味著通貨膨脹。"
+    },
+    {
+      "id": "4920074",
+      "time": "2026-06-05 22:33:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：就業報告“出色”，股市應該上漲，而不是下跌。"
+    },
+    {
+      "id": "4920073",
+      "time": "2026-06-05 22:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：就業報告很棒。"
+    },
+    {
+      "id": "4920072",
+      "time": "2026-06-05 22:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君出席第24次中國—東盟海關署長磋商會並訪問柬埔寨】6月2日至4日，孫梅君率團出席第24次中國—東盟海關署長磋商會，同東盟方聯合主席汶萊皇家海關與消費稅署代理署長阿齊茲爾共同主持會議，就實施智慧海關合作伙伴計劃，擴大原產地電子聯網和AEO互認，加強中國與東盟成員國海關事務互聯互通，推動跨境貿易數字化智慧化轉型，進一步提高通關便利化和貿易安全水平等領域開展務實討論，並達成合作共識，會議釋出《第24次中國—東盟海關署長磋商會聯合新聞宣告》。（海關釋出）"
+    },
+    {
+      "id": "te:markets:556954",
+      "time": "2026-06-05 22:32:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls, But Heads for Weekly Gain — WTI crude oil futures fell toward $91 per barrel on Friday, extending a 3.1% fall in the previous session, as investors looked for signs of progress in US-Iran negotiations while uncertainty persisted over a ceasefire between Israel and Lebanon. President Donald Trump said talks with Tehran were progressing well, despite Iran-backed Hezbollah rejecting a US-brokered ceasefire proposal. Oil prices remain more than 4% higher for the week after renewed clashes between US and Iranian forces dampened hopes for a deal that could restore flows through the Strait of Hormuz. Trump has since struck a more optimistic tone, saying the strait could reopen quickly if Iran agrees to a memorandum of understanding to halt hostilities. However, little concrete progress has emerged, with Israel’s continued operations in Lebanon remaining a key obstacle. Elsewhere, loadings at Oman’s Mina Al Fahal export terminal were temporarily delayed following an explosion, although operations later resumed."
+    },
+    {
+      "id": "mkt:019e9832-c25b-7665-8306-74d5174097c7",
+      "time": "2026-06-05 22:32:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's cash budget deficit widened to 252.28 billion Turkish lira in May."
+    },
     {
       "id": "mkt:019e9832-4aac-7665-8306-6e89937b58f7",
       "time": "2026-06-05 22:31:33",
@@ -172208,73 +172306,6 @@
         "其他"
       ],
       "text": "【中國－蘇利南建交50週年招待會在京舉行】5月28日，中國人民對外友好協會與蘇利南駐華使館在京共同舉辦慶祝中國－蘇利南建交50週年招待會。（新華社）"
-    },
-    {
-      "id": "te:markets:555014",
-      "time": "2026-05-29 22:34:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Salesforce Stock Price Hits 5-week High — Salesforce shares increased to 190.36 USD, the highest since April 2026. Over the past 4 weeks, Salesforce Inc gained 7.64%, and in the last 12 months, it decreased 28.4%."
-    },
-    {
-      "id": "mkt:019e7427-f03e-7eef-a0f1-3a27974e3087",
-      "time": "2026-05-29 22:33:54",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran supreme leader military adviser says Iran will force US to end maritime blockade】Mohsen Rezaei, military adviser to Iran's supreme leader, said on May 29 local time that Iran will force the United States to end a maritime blockade — by negotiation or, if resisted, by direct action. He added that despite pressure Iran's economic future is bright and hopeful."
-    },
-    {
-      "id": "mkt:019e7427-9ead-7eef-a0f1-3517ef8d8ba5",
-      "time": "2026-05-29 22:33:33",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Wall Street Journal reports the U.S. government has proposed in talks with Mexico to revise the USMCA by raising the required U.S.-content threshold above the current 75%."
-    },
-    {
-      "id": "4907509",
-      "time": "2026-05-29 22:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受伊朗戰事波及的大型油輪中，已有四分之一成功駛出海峽】在伊朗戰事爆發之初滯留在波斯灣內的非伊朗籍大型油輪中，已有約有四分之一的油輪透過緩慢且隱秘的方式逐漸脫困，成功駛離該海域。據媒體彙編的航運資料顯示，在2月28日衝突爆發、霍爾木茲海峽實際上處於封閉狀態後，共有109艘大型船隻（即載運能力在70萬桶及以上的船隻）受困；如今，其中已有29艘成功穿越了這一戰略咽喉要道。儘管這些已流出的貨物僅佔海灣內仍滯留的原油及成品油總量的極小一部分，但在全球市場庫存緩衝正以創紀錄的速度縮減的大背景下，這些貨物一經流出便迅速被市場搶購一空。此外，鑑於許多船隻為規避風險而關閉了位置廣播裝置，實際成功撤離的船隻數量很可能還要高於上述統計數字。"
-    },
-    {
-      "id": "mkt:019e7427-7f7a-7eef-a0f1-2c122363c97c",
-      "time": "2026-05-29 22:33:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【About a quarter of large tankers stranded by Iran conflict have exited the Strait of Hormuz】Bloomberg shipping data show that of 109 large tankers (>=700,000 barrels) trapped in the Persian Gulf after the Feb. 28 outbreak and the effective closure of the Strait of Hormuz, 29 — roughly one quarter — have since made slow, covert departures and transited the strait. Those cargoes account for only a small portion of oil and refined products still held in the Gulf, but were rapidly bought up as global inventory buffers are shrinking at a record pace. Many vessels have been operating with AIS transponders off, so the true number of successful evacuations is likely higher."
-    },
-    {
-      "id": "4907508",
-      "time": "2026-05-29 22:32:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國政府這項涉及美墨加協定重構談判、與墨西哥磋商的提案，還將尋求把美國本土增加值佔比從現行北美原產地規則要求的75%進一步提高。"
     }
   ]
 }
