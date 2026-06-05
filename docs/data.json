@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-06 00:33:50",
-  "count": 18761,
+  "updated": "2026-06-06 00:37:47",
+  "count": 18762,
   "items": [
+    {
+      "id": "4920225",
+      "time": "2026-06-06 00:36:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：批准擬向紐西蘭出售 MH-60R 多用途直升機及相關配套裝備，預估合同金額 15 億美元。"
+    },
+    {
+      "id": "mkt:019e98a3-cbf6-7665-830a-049d3dd84e12",
+      "time": "2026-06-06 00:35:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved sale of MK 54 torpedoes to New Zealand; estimated deal value $69 mln."
+    },
+    {
+      "id": "4920224",
+      "time": "2026-06-06 00:35:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國國務院：批准擬向紐西蘭出售 MK 54 魚雷，預估交易額 6900 萬美元。"
+    },
+    {
+      "id": "mkt:019e98a3-0d2e-7665-8309-ff7d667899db",
+      "time": "2026-06-06 00:34:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "New York copper futures slid 4.00% intraday to $6.2735 per lb."
+    },
     {
       "id": "te:markets:556995",
       "time": "2026-06-06 00:32:41",
@@ -172770,35 +172807,6 @@
         "公司"
       ],
       "text": "智利國家銅業公司（Codelco）一季度銅產量27.2萬噸。一季度營收50.3億美元，EBITDA為21.4億美元。"
-    },
-    {
-      "id": "4907649",
-      "time": "2026-05-30 00:36:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "用英文翻譯“智利國家銅業公司（Codelco）：一季度稅前利潤達8.25億美元。”"
-    },
-    {
-      "id": "4907648",
-      "time": "2026-05-30 00:34:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階訊息人士：美國總統特朗普關於伊朗高度濃縮鈾庫存的說法不屬實。德黑蘭與華盛頓之間可能的諒解備忘錄不涉及任何與核相關的問題。伊朗與美國之間已達成政治共識，但尚未最終確定。"
-    },
-    {
-      "id": "mkt:019e7495-ca7f-7bb7-9964-528d493ec12d",
-      "time": "2026-05-30 00:33:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude briefly slipped about $0.60 a barrel."
     }
   ]
 }
