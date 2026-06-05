@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-05 08:27:34",
-  "count": 19006,
+  "updated": "2026-06-05 08:31:26",
+  "count": 19005,
   "items": [
+    {
+      "id": "4918348",
+      "time": "2026-06-05 08:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本財務大臣：減免食品消費稅所需財源不會依賴新增發債】日本財務大臣片山皋月重申，政府已決定，針對食品的臨時性消費稅下調將不會依賴額外發債來籌措資金。片山皋月對記者表示，一個工作小組正在研究多種財源方案，包括審查冗餘補貼和稅收措施，以及利用非稅收入；不過她補充稱，目前尚未作出最終決定。片山皋月還表示，政府已做好準備，必要時可隨時就匯率波動作出適當應對。"
+    },
+    {
+      "id": "4918347",
+      "time": "2026-06-05 08:27:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國務卿魯比奧將於美國東部時間週五上午 9:30 與菲律賓外交部長會面。"
+    },
     {
       "id": "4918346",
       "time": "2026-06-05 08:26:52",
@@ -106,6 +122,18 @@
         "國際"
       ],
       "text": "【韓國產業通商部長稱美國重申對韓關稅不會高於去年協議水平】韓國產業通商部長金正官週四在與美國商務部長霍華德·盧特尼克會談後表示，美國再次向韓國保證，對韓國徵收的關稅不會超過去年雙邊關稅協議中商定的水平。金正官在社交媒體文稱，盧特尼克在視訊會議中確認了這一點。"
+    },
+    {
+      "id": "te:economy:556625",
+      "time": "2026-06-05 08:19:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sri Lanka",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Sri Lanka Tourist Arrivals Recover in May — The number of foreign tourist arrivals in Sri Lanka grew by 9.65% year-on-year to 145,745 in May 2026, after a 22.3% slump in the previous month. This marked the highest number of arrivals in three months, with India remaining the top source market, contributing 60,342 visitors and accounting for 42% of total arrivals, continuing its strong position as the leading inbound tourism driver for the island. This was followed by the UK (6%), China (6%), Germany (5%), and Australia (4%). Sri Lanka has set an ambitious target of 3 million arrivals for 2026, after missing the goal last year. Despite a decline of tourist arrivals in the prior months due to the Middle East war conflict, a recovery has been observed with a total of 134,530 tourists visiting the country in the first five months of the year, noting a resurgence in tourist arrivals."
     },
     {
       "id": "4918338",
@@ -469,6 +497,17 @@
       "text": "日本財務大臣片山皋月：匯率由市場決定。日本和美國在外匯事務上保持著密切溝通。"
     },
     {
+      "id": "te:markets:556618",
+      "time": "2026-06-05 08:04:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies on Middle East Peace Hopes — Gold steadied above $4,450 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, gold remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates."
+    },
+    {
       "id": "4918310",
       "time": "2026-06-05 08:04:42",
       "tags": [
@@ -577,6 +616,18 @@
         "宏觀"
       ],
       "text": "【市場監管總局公佈傳統工藝市場“打假清源”典型案例 】記者6月4日獲悉，2026年以來，市場監管部門以珠寶玉石、貴金屬飾品、紅木製品等傳統工藝品為重點，開展“打假清源”專項行動，依法查辦了一批違法違規案件。國家市場監督管理總局當日對外公佈了一批典型案例。"
+    },
+    {
+      "id": "te:economy:556613",
+      "time": "2026-06-05 07:59:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Foreign Exchange Reserves",
+        "Importance 2"
+      ],
+      "text": "Japan Forex Reserves Hit 10-Month Low — Japan’s foreign reserves fell by USD 77.11 billion to USD 1.31 trillion at the end of May 2026 from USD 1.38 trillion in the previous month, reaching their lowest level since July last year. Foreign currency reserves declined to USD 1.09 trillion, consisting of USD 931.68 billion in securities and USD 162.24 billion in deposits. Of the deposits, USD 161.80 billion were held with foreign central banks and the BIS, while deposits with banks headquartered in Japan totaled USD 410 million. The IMF reserve position stood at USD 11.51 billion, SDR holdings were valued at USD 60.89 billion, and gold reserves amounted to USD 123.65 billion. Other reserve assets totaled USD 15.91 billion, while other foreign currency assets stood at USD 34.50 billion. The sharp decline likely reflected Japan's large-scale yen-buying intervention during the month. The Ministry of Finance recently confirmed that authorities spent a record of JPY 11.7 trillion supporting the currency between late April to May 28."
     },
     {
       "id": "4918298",
@@ -885,6 +936,18 @@
       "text": "紐約期金失守4490美元/盎司，日內跌0.33%。"
     },
     {
+      "id": "te:economy:556608",
+      "time": "2026-06-05 07:37:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Household Spending",
+        "Importance 1"
+      ],
+      "text": "Japan Personal Spending Falls the Least in 5 Months — Household spending in Japan dropped 0.5% yoy in April 2026, easing from a 2.9% decline in the prior month and beating market expectations for a 1.5% fall. While this marked the fifth straight month of contraction, it was also the mildest decline in the sequence, suggesting that easing inflationary pressures may be helping to support consumer spending. Expenditure on food fell at a slower pace, (-0.5% vs -2.9% in March) while spending increasing for transport and communication (7.5% vs -16.8%), housing (7.6% vs 15.3%), furniture and household goods (19.0% vs 5.5%), healthcare (6.7% vs 20.1%), and culture and recreation (6.3% vs 4.6%). In contrast, outlays weakened further on clothing and footwear (-10.9% vs -2.6%) and utilities (-8.6% vs -3.2%). Education spending also shrank, down 19.4% after a 2.1% increase in March. On a seasonally adjusted monthly basis, household expenditure rose 1.6%, rebounding from a 1.3% fall in March and exceeding forecasts of a 0.8% increase."
+    },
+    {
       "id": "mkt:019e94ff-9850-7cc8-bdef-a4a1f6c20e50",
       "time": "2026-06-05 07:37:19",
       "tags": [
@@ -896,6 +959,18 @@
         "USDJPY"
       ],
       "text": "South Korea's finance minister said authorities will take appropriate measures if exchange-rate volatility intensifies or infary pressures worsen."
+    },
+    {
+      "id": "te:economy:556607",
+      "time": "2026-06-05 07:36:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Wage Growth",
+        "Importance 2"
+      ],
+      "text": "Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month."
     },
     {
       "id": "4918268",
@@ -961,6 +1036,17 @@
       "text": "【A股限售股解禁一覽：241.97億元市值限售股今日解禁】Wind資料顯示，週五（6月5日），共有16家公司限售股解禁，合計解禁量為4.8億股，按最新收盤價計算，合計解禁市值為241.97億元。從解禁量來看，3家公司解禁股數超千萬股。中策橡膠、中科儀、崑崙萬維解禁量居前，解禁股數分別為4.18億股、2154.53萬股、1838.69萬股。從解禁市值來看，3家公司解禁市值超億元。中策橡膠、中科儀、優優綠能解禁市值居前，解禁市值分別為191.94億元、19.7億元、15.32億元。從解禁股數佔總股本比例來看，2家公司解禁比例超10%。中策橡膠、優優綠能、中科儀解禁比例居前，解禁比例分別為47.75%、20.94%、9.63%。"
     },
     {
+      "id": "te:markets:556606",
+      "time": "2026-06-05 07:32:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline on Diplomatic Hopes — Brent crude futures traded near $95 per barrel on Friday after losing nearly 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the international oil benchmark is still up more than 4% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities."
+    },
+    {
       "id": "4918263",
       "time": "2026-06-05 07:32:05",
       "tags": [
@@ -968,6 +1054,17 @@
         "國際"
       ],
       "text": "韓國財政部長具允哲：政府正在提高警惕應對。要警惕金融和外匯市場波動加劇以及民生需求增長。"
+    },
+    {
+      "id": "te:markets:556605",
+      "time": "2026-06-05 07:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline on Diplomatic Hopes — WTI crude futures held below $93 per barrel on Friday after losing more than 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the US oil benchmark is still up more than 6% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities."
     },
     {
       "id": "4918262",
@@ -174968,98 +175065,6 @@
         "市場"
       ],
       "text": "五年期日本國債收益率下跌1.5個基點，至1.890%。"
-    },
-    {
-      "id": "4905750",
-      "time": "2026-05-29 08:30:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【歐盟制裁以色列定居者和哈馬斯】歐盟理事會當地時間5月28日發表宣告說，決定對4個以色列相關實體和3名個人實施制裁，理由是他們應對被以色列佔領的約旦河西岸地區巴勒斯坦人遭受的嚴重侵犯人權行為負責。被列入制裁的實體和個人涉及以色列極端主義定居者組織、支援定居者的組織及相關負責人。 歐盟理事會當天還決定擴大針對哈馬斯和傑哈德的限制性措施適用範圍，將10名哈馬斯政治局成員列入制裁名單。"
-    },
-    {
-      "id": "4905749",
-      "time": "2026-05-29 08:30:18",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價下跌，受對美伊可能達成協議的樂觀情緒影響】亞洲早盤油價下跌，受對美伊可能達成協議的樂觀情緒影響，該協議可能會緩解對供應中斷的擔憂。美國財政部長貝森特週四表示，兩國已接近達成一項平息衝突的協議，不過總統特朗普尚未簽字批准。此前一名美國官員表示，兩國接近達成一項為期60天的協議，包括在頭30天內相互解除在霍爾木茲海峽的封鎖。該海峽是一條關鍵水道，全球五分之一的石油通常經由該水道運輸。美、布兩油日內均跌超1%，現分別報90.13美元/桶和91.47美元/桶。"
-    },
-    {
-      "id": "mkt:019e7122-a941-7ee0-99de-9bfecf8b42f9",
-      "time": "2026-05-29 08:29:17",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: lower volumes, higher prices accelerate profit and revenue growth】CITIC Securities says April industrial firms posted new highs in both profit and revenue growth. Price gains and margin improvement—anchored by a stronger-than-expected PPI recovery—are the main drivers, while a weak volume recovery is dragging. State-owned and joint-stock firms led profit gains; foreign-funded firms’ profit growth slowed marginally. By sector, upstream profits surged, midstream profit share rose and downstream profits ticked up; coal, nonferrous metals, computer & communications and chemical raw materials outperformed, with coal showing marked margin recovery. Firms’ inventory restocking intentions are rising, but the report flags risks from shifts in external demand and from raw-material price increases weighing on production expansion and medium-to-long-term profits."
-    },
-    {
-      "id": "4905748",
-      "time": "2026-05-29 08:29:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓華海洋株式會社：獲得3760億韓元訂單。"
-    },
-    {
-      "id": "mkt:019e7122-87f0-7ee0-99de-924e7c9106da",
-      "time": "2026-05-29 08:29:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 10-year bond yield fell 3.5 bps to 2.66%."
-    },
-    {
-      "id": "4905747",
-      "time": "2026-05-29 08:29:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌3.5個基點，至2.66%。"
-    },
-    {
-      "id": "4905746",
-      "time": "2026-05-29 08:28:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天奧電子：公司時頻裝置未涉及時間微縮技術】天奧電子5月29日在互動平臺表示，公司時頻裝置未涉及時間微縮技術。"
-    },
-    {
-      "id": "4905745",
-      "time": "2026-05-29 08:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國紐倫堡市市長率團訪蓉，聚焦生物醫藥與醫療機器人合作】據成都商報，5月28日，德國紐倫堡市市長馬庫斯·柯尼希（Marcus König）率團訪問成都。當天下午，代表團參訪成都天府國際生物城文化中心，並與成都博恩思醫學機器人有限公司相關負責人進行座談，圍繞生物醫藥、醫療機器人及產業合作等內容展開交流。其間，柯尼希市長現場操作體驗博恩思醫學機器人，雙方還互贈禮物。據瞭解，代表團此次訪蓉時間為5月28日至31日。這也是柯尼希市長首次正式訪華。"
-    },
-    {
-      "id": "4905744",
-      "time": "2026-05-29 08:28:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "博泰車聯稱與英偉達在美國舉行了戰略合作簽約儀式及相關交流活動。"
-    },
-    {
-      "id": "mkt:019e7121-3fe6-7ee0-99de-8d6ee85eb567",
-      "time": "2026-05-29 08:27:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude both fell more than 1% intraday, trading at $90.13/bbl and $91.47/bbl respectively."
     }
   ]
 }
