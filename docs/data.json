@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-05 11:14:49",
-  "count": 18969,
+  "updated": "2026-06-05 11:18:40",
+  "count": 18966,
   "items": [
+    {
+      "id": "mkt:019e95c7-ca43-766c-9545-1fcfd4a61a29",
+      "time": "2026-06-05 11:15:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rallied intraday, gaining over 7%."
+    },
+    {
+      "id": "mkt:019e95c6-ebd3-766c-9545-169216dea275",
+      "time": "2026-06-05 11:15:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish",
+        "WTI",
+        "Copper"
+      ],
+      "text": "【CITIC Securities: AI-related goods to drive China's 2026 trade growth】CITIC Securities says AI-related goods could become a new engine for China’s foreign trade in 2026. Citing the WTO March Global Trade Outlook, which raised its 2026 global trade volume YoY forecast to 1.9% from 0.5% on faster AI-related capex, the report expects China’s exports and imports to grow about 13.2% and 15.5% YoY in 2026. Higher underlying energy prices and related incremental demand for green products are seen as additional support; the report anticipates China’s trade surplus will remain sizable for the year."
+    },
+    {
+      "id": "4918602",
+      "time": "2026-06-05 11:15:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "本田：1-5月在中國的終端汽車累計銷量為173,344輛，同比下降32.5%。"
+    },
+    {
+      "id": "4918601",
+      "time": "2026-06-05 11:14:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達7.01%，成分股中，戈碧迦漲25.46%，同惠電子漲19.34%，天力複合漲18.23%，星圖測控漲16.05%。"
+    },
+    {
+      "id": "4918600",
+      "time": "2026-06-05 11:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "日立即將獲准接入 Claude Mythos。"
+    },
     {
       "id": "mkt:019e95c4-bf76-766c-9545-0ed78bebc45b",
       "time": "2026-06-05 11:12:39",
@@ -174731,81 +174784,6 @@
         "焦點"
       ],
       "text": "A股中國中免漲停，現報60.24元。"
-    },
-    {
-      "id": "4906042",
-      "time": "2026-05-29 11:18:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：使用者在登入和建立賬戶時可能會遇到問題。"
-    },
-    {
-      "id": "4906041",
-      "time": "2026-05-29 11:18:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博彙股份與中石油潤滑油合作持續深化】據博彙股份訊息，近日，公司董事長金碧華、總經理王律一行與中國石油潤滑油公司總經理張建新及核心團隊舉行會談。雙方圍繞新品研發、技術協同、業務拓展以及供應強化等議題展開深入交流，並達成相關共識。雙方重點探討了如何在現有合作框架下，不斷豐富產品品類、提升技術附加值，進而高質量擴大業務合作規模。"
-    },
-    {
-      "id": "4906040",
-      "time": "2026-05-29 11:17:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【段永平再捐1萬股茅臺】據江西安福縣政府官微“美好安福”，5月26日，“安福縣段永平教育專項基金”捐贈儀式在南昌順利舉行。知名企業家、投資家段永平向安福縣慈善會無償捐贈所持貴州茅臺酒股份有限公司股票1萬股，專項支援安福教育事業發展。此次捐贈的1萬股茅臺股票，將作為“安福縣段永平教育專項基金”長期保留基金，以股票年度分紅、股息等派生權益作為專項基金可使用資金，持續、穩定、長期助力安福教育提質、勵教獎學、助學育才。 事實上，這已經是段永平第二次捐出茅臺股票，去年11月，段永平向江西水利電力大學教育發展基金會無償捐贈其持有的貴州茅臺股票壹萬股，以父母名義設立教育專項基金。"
-    },
-    {
-      "id": "te:economy:554713",
-      "time": "2026-05-29 11:17:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Singapore Producer Prices Post Historical High — Singapore’s domestic supply price index jumped 31.6% year-on-year in April 2026 from an upwardly revised 26.7% in the previous month. This marked the highest reading since records began in January 1975. Costs increased in beverages and tobacco (3.8% vs 2.6% in March), crude materials excluding fuels (9.8% vs 8.5%), mineral fuels, lubricants, and related materials (79.3% vs 70.8%), animal and vegetable oils, fats, and waxes (1.5% vs 1.2%), chemical and chemical products (21.4% vs 4.4%), manufactured goods (3.6% vs 3%), and machinery and transport equipment (20.4% vs 16.4%). Additionally, prices declined at a slower pace for food and live animals (-2.7% vs -3.2%). Meanwhile, inflation eased for miscellaneous manufactured articles (7.1% vs 10.3%). On a monthly basis, the index rose 3.1% in April, following an upwardly revised 21% jump in March."
-    },
-    {
-      "id": "4906039",
-      "time": "2026-05-29 11:15:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國債期貨全線轉漲】國債期貨全線轉漲，30年期主力合約漲0.07%，10年期主力合約漲0.09%，5年期主力合約漲0.07%，2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "mkt:019e71ba-dbae-7ee0-99e2-53cbe9c4b6f7",
-      "time": "2026-05-29 11:15:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DownDetector data showed users reporting issues with OpenAI."
-    },
-    {
-      "id": "mkt:019e71ba-bbf2-7ee0-99e2-4a5f9c36981b",
-      "time": "2026-05-29 11:15:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Paul Chan: China's Ministry of Finance has issued renminbi sovereign bonds in Hong Kong for 18 consecutive years, cumulative issuance exceeds 460 billion yuan】China's Ministry of Finance has issued renminbi sovereign bonds in Hong Kong for 18 consecutive years, with cumulative issuance exceeding 460 billion yuan. Hong Kong is attracting more offshore issuers and expanding the offshore renminbi bond market: Guangdong and Hainan have issued green and blue bonds in Hong Kong, and the Indonesian government and Kazakhstan Development Bank have issued renminbi bonds there, boosting market depth, breadth and international participation. Hong Kong has ranked first in Asia for green bond issuance for eight consecutive years, accounting for roughly 40% of the region's green bond volume."
-    },
-    {
-      "id": "4906038",
-      "time": "2026-05-29 11:15:07",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【陳茂波：國家財政部已連續18年在香港發行人民幣國債，累計發行總額超過4,600億元】香港特別行政區財政司司長陳茂波今日（五月二十九日）出席中華人民共和國財政部2026年人民幣綠色主權債券發行儀式時表示，國家財政部已連續18年在香港發行人民幣國債，累計發行總額超過4,600億元人民幣，為國際投資者提供了安全可靠、回報穩定的人民幣投資選項。與此同時，香港亦積極吸引更多海內外發行人來港發行“點心債”：從廣東省、海南省在港發行綠色及藍色債券，到印尼政府和哈薩克開發銀行先後在港發行人民幣債券，離岸人民幣債券市場的規模持續擴大，深度與廣度不斷提升，國際參與度越見積極。事實上，香港已連續八年位居亞洲綠色債券發行額首位，是亞洲領先的綠色金融中心，區內市場佔有率約達四成。"
     }
   ]
 }
