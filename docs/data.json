@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-06 02:42:51",
-  "count": 18812,
+  "updated": "2026-06-06 02:46:36",
+  "count": 18817,
   "items": [
+    {
+      "id": "mkt:019e991b-4098-7665-830c-3964f1b7a7e5",
+      "time": "2026-06-06 02:46:00",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "【Sources: Several U.S. states weighing lawsuits to block Paramount Global’s proposed Warner Bros. Discovery deal】Several U.S. state attorneys general are drafting a complaint to challenge Paramount Global’s proposed $110 bln acquisition of Warner Bros. Discovery (WBD.O), people familiar with the matter said. Roughly 10 states, led by California, are preparing potential antitrust litigation and discussing procedures to file this month, though no final decision has been made on filing or which states will join. Most participating AGs are Democrats, but at least two Republican attorneys general are involved. Officials have met with Paramount and deal opponents and requested sworn statements or testimony that could be used in litigation."
+    },
+    {
+      "id": "4920295",
+      "time": "2026-06-06 02:45:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.00%，現報51045.730點；納指跌3.82%，現報25805.325點；標普500指數跌2.25%，現報7413.540點。"
+    },
+    {
+      "id": "4920294",
+      "time": "2026-06-06 02:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX： 合作方同意自 10 月起至 2029 年 6 月，每月支付 9.2 億美元。"
+    },
+    {
+      "id": "4920293",
+      "time": "2026-06-06 02:44:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4340美元/盎司，日內跌3.66%。"
+    },
+    {
+      "id": "te:markets:557004",
+      "time": "2026-06-06 02:43:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Bitcoin Hits 19-month Low — The Bitcoin touched 59850.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 26.41%, and in the last 12 months, it decreased 42.6%."
+    },
+    {
+      "id": "4920292",
+      "time": "2026-06-06 02:43:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX ：與谷歌達成雲服務合作協議，合作協議包含 11 萬片英偉達 GPU、配套 CPU 及記憶體。"
+    },
+    {
+      "id": "mkt:019e9918-3dfa-7665-830c-31303770e2c4",
+      "time": "2026-06-06 02:42:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell to $68/oz, down 7.96% intraday."
+    },
     {
       "id": "4920291",
       "time": "2026-06-06 02:42:14",
@@ -173273,31 +173341,6 @@
         "市場"
       ],
       "text": "原油小幅拉昇。"
-    },
-    {
-      "id": "mkt:019e750f-00fc-7bb7-9965-7fd76d5f1ffd",
-      "time": "2026-05-30 02:46:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude futures settled at $92.05/bbl, down $1.66 or 1.77%."
-    },
-    {
-      "id": "te:markets:555054",
-      "time": "2026-05-30 02:45:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Progressive Stock Price Hits 26-month Low — Progressive shares decreased to 191.74 USD, the lowest since March 2024. Over the past 4 weeks, Progressive lost 4.66%, and in the last 12 months, it decreased 32.65%."
     }
   ]
 }
