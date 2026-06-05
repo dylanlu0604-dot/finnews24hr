@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-05 15:16:54",
-  "count": 18916,
+  "updated": "2026-06-05 15:20:47",
+  "count": 18918,
   "items": [
+    {
+      "id": "mkt:019e96a7-5b32-711f-98a8-0c32398a771e",
+      "time": "2026-06-05 15:20:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: COMEX gold futures technicals remain bearish】RHB analyst Joseph Chai says daily-chart technicals for COMEX gold futures remain bearish. A recent bullish candlestick shows a minor pause in selling pressure, but the overall bias is still to the downside. Futures prices remain below the 20-day and 50-day simple moving averages."
+    },
+    {
+      "id": "mkt:019e96a7-3496-711f-98a8-068ed373aeab",
+      "time": "2026-06-05 15:20:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Foreign Ministry said top party and state leaders of China and North Korea will exchange views on bilateral relations and issues of mutual concern."
+    },
+    {
+      "id": "4918976",
+      "time": "2026-06-05 15:19:56",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部回應西媒稱AI中美爭霸】6月5日，外交部發言人毛寧主持例行記者會。 有記者提問，我們注意到，近期西方媒體有觀點認為，全球AI競賽進入了“中美爭霸”，或將加劇科技領域的陣營對抗。同時，中美科技企業在通用大模型機器人等領域最近也落地了多個合作專案，不少業界人士呼籲兩國在AI方面開展合作。請問中方如何看待上述動向？ 毛寧表示，人工智慧正在深刻改變生產生活方式，是人類需要共同面對的新課題。人工智慧不是大國的專利，更不應滑向競爭對抗。中方始終堅持人工智慧以人為本、開放包容。我們提出全球人工智慧治理倡議，連續8年舉行世界人工智慧大會，倡議成立世界人工智慧合作組織，核心就是透過對話凝聚共識、深化合作，打造開放、平等、公平、非歧視的人工智慧發展環境。 今年7月，中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待以本次大會為契機，同各方深入交流對話，加強人工智慧全球治理，推動人工智慧服務全人類。（北青報）"
+    },
+    {
+      "id": "4918975",
+      "time": "2026-06-05 15:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中朝兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見】6月5日，外交部發言人毛寧主持例行記者會。日本廣播協會（NHK）提問，中方今天釋出了習近平主席訪問朝鮮的訊息，請問外交部能否分享具體日程安排？中朝首腦會談及什麼話題？中方對此訪問有何期待？毛寧介紹，此次訪問是習近平總書記時隔7年再次對朝鮮進行國事訪問。訪問期間，兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見。毛寧表示，近年來在習近平總書記和金正恩總書記的戰略引領下，中朝傳統友好合作關係持續健康穩定發展，為兩國和兩國人民帶來實實在在的利益。今年是《中朝友好合作互助條約》簽訂65週年，雙方將以此訪為契機，推動中朝關係與時俱進，取得更大發展，增進兩國人民的福祉，為地區乃至世界的和平穩定和發展繁榮作出更大的貢獻。“訪問的具體情況，我們會及時釋出訊息，你可以保持關注。”毛寧說。（澎湃新聞）"
+    },
+    {
+      "id": "4918974",
+      "time": "2026-06-05 15:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黃巖島有一不明結構物消失？外交部：中國在島上開展活動是主權國家正當權利】6月5日，外交部發言人毛寧主持例行記者會。路透社記者提問，昨天路透社報道稱，衛星影象顯示黃巖島的一個不明結構物消失了，外交部能否提供更多資訊？對此，毛寧表示：“黃巖島是中國的固有領土，中國對黃巖島及其附近海域擁有無可爭辯的主權。中國在黃巖島開展包括科考在內的任何活動，都是主權國家的正當權利。”（澎湃新聞）"
+    },
+    {
+      "id": "4918973",
+      "time": "2026-06-05 15:18:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：我們將推進實施銀行自營交易貸款相關規則。"
+    },
+    {
+      "id": "4918972",
+      "time": "2026-06-05 15:18:27",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【報告：紐商所黃金期貨的看跌技術形態依然完好】RHB Retail Research的Joseph Chai在一份報告中表示，根據日線圖，紐商所黃金期貨的看跌技術形態看起來依然完好。該分析師表示，儘管最新的看漲K線形態表明拋售壓力正在“稍作喘息“，但整體技術形態依然看跌。Chai指出，該期貨仍低於20日和50日簡單移動平均線。該分析師補充說，預計該大宗商品的最近支撐位在每盎司4,400美元，而初步阻力位在每盎司4,650美元。現貨黃金下跌0.4%，報每盎司4,457.36美元。"
+    },
+    {
+      "id": "4918971",
+      "time": "2026-06-05 15:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛彼迎CEO計劃創辦一家新的人工智慧公司】據多位知情人士稱，愛彼迎執行長Brian Chesky正在籌建一家新的人工智慧(AI)實驗室，這標誌著他首次涉足全球AI競賽。知情人士表示，Chesky計劃創辦一家AI公司以開發人工智慧模型，並正在考慮將重點放在使用者互動和設計上。由於相關資訊未公開，知情人士不願具名。其中一位知情人士稱，他目前正處於為該實驗室融資的早期階段，具體細節仍可能發生變化。Chesky和愛彼迎的代表均未予置評。"
+    },
+    {
+      "id": "mkt:019e96a4-f8fd-711f-98a7-f9d4404289c8",
+      "time": "2026-06-05 15:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli airstrikes on Tyre in southern Lebanon kill seven】Lebanese Civil Defense said on the morning of the 5th (local time) that Israeli Defense Forces airstrikes on Tyre between the night of the 4th and early hours of the 5th killed seven."
+    },
+    {
+      "id": "4918970",
+      "time": "2026-06-05 15:16:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊黎南部城市提爾 致7人死亡】黎巴嫩民防部門當地時間5日上午宣佈，4日晚至5日凌晨以色列國防軍空襲黎巴嫩南部城市提爾，造成7人死亡。（央視新聞）"
+    },
     {
       "id": "mkt:019e96a3-bba9-711f-98a7-f05e19129ef2",
       "time": "2026-06-05 15:16:13",
@@ -174219,80 +174308,6 @@
         "Importance 1"
       ],
       "text": "Taiwan Stocks Mark 2nd Monthly Gain, End at Record High — The TAIEX, Taiwan’s benchmark stock index, climbed 1,097 points, or 2.5%, to close at 44,733 on Friday, erasing losses from the previous session, primarily supported by gains in electronic technology and technology services stocks. The broader index hit a new record high, surpassing the 44,000 level for the second time after closing at 44,257 on Wednesday, amid optimism over AI demand. A rally on Wall Street overnight also lifted sentiment, buoyed by the extended US-Iran ceasefire. Electronic technology stocks rose 2.7%, while technology services stocks surged 5.9%. Taiwan Semiconductor Manufacturing Company (TSMC), the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, advanced 2.6%, while Delta Electronics and Hon Hai Precision Industry climbed 2.3% and 9.0%, respectively. For the month, the index jumped 5.8%, marking its second straight monthly gain, supported by strong AI demand."
-    },
-    {
-      "id": "4906418",
-      "time": "2026-05-29 15:20:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局週五表示，克萊斯勒母公司斯泰蘭蒂斯因側面安全氣囊可能無法正常彈出，將在美國召回419,035輛汽車。"
-    },
-    {
-      "id": "4906417",
-      "time": "2026-05-29 15:20:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰人壽：目前避險比例35.6% 五年內維持在約30%以上。"
-    },
-    {
-      "id": "4906416",
-      "time": "2026-05-29 15:20:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "國泰金控：旗下證券與期貨子公司正規劃增資。"
-    },
-    {
-      "id": "4906415",
-      "time": "2026-05-29 15:20:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰金控：沒有因為人工智慧(AI)的運用而計劃裁員。"
-    },
-    {
-      "id": "4906414",
-      "time": "2026-05-29 15:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯暫停銷售亞美尼亞傑爾穆克礦泉水。"
-    },
-    {
-      "id": "4906413",
-      "time": "2026-05-29 15:18:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受對伊朗樂觀情緒提振，歐洲股指上漲】歐洲藍籌股指上漲，因市場重新燃起對重新開放霍爾木茲海峽的協議接近達成的樂觀情緒。航空和旅遊股領漲，同時整個歐洲大陸的銀行股也走高。歐洲斯托克600指數上漲0.3%。德國能源密集型的DAX微升0.2%。德國商業銀行上漲1.2%，不過與AI基礎設施相關的西門子能源下跌2.1%。在巴黎，法國CAC 40指數上漲0.5%，其中法國興業銀行領漲，漲幅為1.9%。該指數中的汽車製造商也上漲，其中Stellantis上漲1.8%。隨著石油巨頭股價下跌拖累礦業和工業股的漲幅，英國富時100指數微漲0.1%。銀行股推動義大利富時MIB指數和西班牙IBEX 35指數分別上漲0.5%和0.9%。"
-    },
-    {
-      "id": "te:economy:554812",
-      "time": "2026-05-29 15:17:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Swiss KOF Economic Barometer Little-Changed in May — Switzerland’s KOF Economic Barometer came in at 98.0 in May 2026, slightly up from a revised 97.8 and matching market expectations. The reading signals a subdued economic outlook. On the production side, manufacturing indicators face pressure, partly offset by positive trends in financial and insurance services. On the demand side, foreign demand shows improvement, while private consumption indicators decline."
-    },
-    {
-      "id": "mkt:019e7297-e681-7aa7-a782-b64e2658fe85",
-      "time": "2026-05-29 15:16:57",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara Minoru said the government’s position remains to take appropriate action on the exchange rate."
     }
   ]
 }
