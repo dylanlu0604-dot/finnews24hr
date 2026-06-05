@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06 01:05:34",
-  "count": 18772,
+  "updated": "2026-06-06 01:09:20",
+  "count": 18767,
   "items": [
+    {
+      "id": "4920238",
+      "time": "2026-06-06 01:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數（VIX）飆升至兩週以來高位，最新上漲 3.32 點，報 18.72。"
+    },
+    {
+      "id": "4920237",
+      "time": "2026-06-06 01:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京同德國前總理格哈德・施羅德舉行會晤。"
+    },
     {
       "id": "4920236",
       "time": "2026-06-06 01:02:48",
@@ -172834,79 +172850,6 @@
         "MKT News"
       ],
       "text": "Federal Reserve Governor Daly said she does not expect AI to cause widespread unemployment or large-scale job losses."
-    },
-    {
-      "id": "te:economy:555049",
-      "time": "2026-05-30 01:08:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jun 1st — The ongoing conflict between the US and Iran will set the pace for global markets after reports of progress in a deal that includes restoring trade through the Strait of Hormuz. On the data front, the US will have its labor data week, headlined by the jobs report but also featuring results from the JOLTS, the ADP report, and Challenger job cuts. In turn, the ISM PMIs will unveil fresh leading signals in an uncertain period of the US economy. China will join the US in releasing key PMI data, both industry and the official NBS gauges. In Europe, the Eurozone will release its May inflation rate and April retail sales. Elsewhere, Australia, India, and Turkey will release their GDPs, and India will set its interest rate. On the political front, the US will see primary elections across the country. Earnings by Broadcom, Palo Alto Networks, and Crowdstrike will add to details on the AI economy."
-    },
-    {
-      "id": "mkt:019e74b4-9cb3-7bb7-9964-b7a686cb0013",
-      "time": "2026-05-30 01:07:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Fed's Daly expects artificial intelligence to boost productivity growth and says positive signs are emerging."
-    },
-    {
-      "id": "4907660",
-      "time": "2026-05-30 01:07:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利： 並未看到人工智慧引發大規模失業或勞動力崗位被取代的情況。"
-    },
-    {
-      "id": "4907659",
-      "time": "2026-05-30 01:07:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利： 人工智慧正顯現出提振生產率增長的初步向好跡象。"
-    },
-    {
-      "id": "mkt:019e74b3-f47d-7bb7-9964-ad2a754e1fad",
-      "time": "2026-05-30 01:06:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Daly said regulatory barriers are the primary obstacle to realizing sustained productivity gains from artificial intelligence."
-    },
-    {
-      "id": "4907658",
-      "time": "2026-05-30 01:06:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：人工智慧已顯現出推動生產率增長的積極跡象。"
-    },
-    {
-      "id": "4907657",
-      "time": "2026-05-30 01:06:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：人工智慧實現可持續生產率增長的障礙主要來自監管層面。"
     }
   ]
 }
