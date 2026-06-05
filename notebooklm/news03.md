@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 06:10:39_
-_本檔包含 3980 則快訊，約 700871 字_
+_更新時間：2026-06-06 06:41:02_
+_本檔包含 3988 則快訊，約 700193 字_
+
+---
+
+### 2026-06-03 20:09:12  #其他
+
+美軍方高層表示，這一調整將讓北約防務計劃“更貼合實際”，並確保不會過度依賴美軍兵力。
+
+---
+
+### 2026-06-03 20:08:57  #MKT News #Market Themes #Chip Wars #Market Regions #Europe & UK #STM.PA #Impact bullish #IFX.DE #EURUSD
+
+EU proposes granting data centers using EU-made chips priority grid access and reduced network usage charges. The chip proposal aims to boost demand for domestically manufactured semiconductors.
+
+---
+
+### 2026-06-03 20:08:46  #公司
+
+【貝因美：實際控制人擬變更為金華市國資委】貝因美(002570.SZ)公告稱，公司實際控制人謝宏透過控股股東小貝大美控股控制公司12.28%股份，其中98.85%被質押或凍結。根據重整計劃，重整投資人金華臻合將透過收購小貝大美控股100%股權及一致行動人金華元恆持股，合計控制公司13.35%股份。完成後，公司實際控制人將變更為金華市國資委。金華臻合等承諾股份鎖定期60個月，且36個月內不質押股份。本次權益變動尚需國資監管機構批准，存在不確定性。
+
+---
+
+### 2026-06-03 20:08:34  #市場 #觀點
+
+Shake Shack股價盤前下跌1%，此前摩根士丹利將其股票評級下調至“持平”。
+
+---
+
+### 2026-06-03 20:08:33  #MKT News
+
+US European Command said the US government has notified NATO allies it will make "appropriately scaled adjustments" to its contribution to the NATO force model.
+
+---
+
+### 2026-06-03 20:08:01  #國際
+
+歐盟要求成員國排查雲服務供應商的主權風險。
+
+---
+
+### 2026-06-03 20:07:48  #國際
+
+歐盟：歐洲議會與歐洲聯盟理事會將就提案展開談判。
+
+---
+
+### 2026-06-03 20:07:41  #國際
+
+美國歐洲司令部表示，美國政府已告知北約盟國，美方將對其向北約部隊模型提供的出資進行“規模合理化調整”。
+
+---
+
+### 2026-06-03 20:07:38  #國際
+
+歐盟：一攬子計劃包含《晶片法案2.0》與《雲與人工智慧發展法案》。
+
+---
+
+### 2026-06-03 20:07:30  #焦點 #國際
+
+歐盟官員在推進技術主權程序中，鼓勵在歐盟境內擴建資料中心。
+
+---
+
+### 2026-06-03 20:07:25  #MKT News #Important #Market Regions #Europe & UK #DAX #Impact bullish #EURUSD
+
+European Commission announces measures to support EU cloud service providers, semiconductor manufacturers and AI companies.
+
+---
+
+### 2026-06-03 20:07:14  #國際
+
+歐盟科技主管表示，歐盟雲計劃很可能將大型科技企業排除在關鍵性公共招標之外。
+
+---
+
+### 2026-06-03 20:07:11  #國際
+
+歐盟委員會宣佈多項舉措，扶持歐盟雲服務提供商、晶片製造商與人工智慧企業發展。
+
+---
+
+### 2026-06-03 20:07:09  #MKT News
+
+Spanish prime minister Sanchez said he opposes setting up migrant processing centres outside the EU, calling them useless.
+
+---
+
+### 2026-06-03 20:07:07  #國際
+
+歐盟晶片提案旨在提振對本土晶片的需求。
+
+---
+
+### 2026-06-03 20:07:04  #焦點 #國際
+
+歐盟提議對使用歐盟製造晶片的資料中心給予優先電網接入權，並降低其電網費用。
+
+---
+
+### 2026-06-03 20:07:00  #央行 #國際
+
+【ADP公佈前，美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-03 20:06:28  #公司
+
+【何小鵬闢謠加價2萬插隊提車，已增開模具提升GX產能】小鵬集團董事長、CEO何小鵬在直播中稱，針對小鵬GX熱銷導致提車週期延長，網上流傳“加價2萬能插隊提車”說法是謠言。他強調小鵬不會採取加價插隊提車的做法，小鵬GX的交付順序嚴格按照使用者下單的順序。針對小鵬GX上市兩週後的持續熱銷，何小鵬來到生產GX車型的工廠直播，回應使用者對交付進展的關切。據悉，目前小鵬已成立“專項督戰小組”，全力督促GX供應鏈提拉產能。針對關鍵零部件緊急增開模具以穩步提產。（新浪科技）
+
+---
+
+### 2026-06-03 20:06:04  #公司
+
+【鼎捷數智：持股5%以上股東擬減持不超0.99%股份】鼎捷數智公告稱，持股12.37%的大股東富士康工業網際網路股份有限公司，計劃自2026年6月29日至9月28日，以集中競價交易方式減持不超269.98萬股，佔公司總股本比例不超0.99%。減持系基於工業富聯自身資金規劃與安排所需，股份來源為2020年協議轉讓受讓。本次減持計劃實施不會導致公司控制權變更，是否實施存在不確定性。
+
+---
+
+### 2026-06-03 20:06:01  #MKT News #Market Regions #Europe & UK #UCG.MI #Impact bearish #CBK.DE
+
+An internal memo showed Commerzbank questioned its takeover offer for UniCredit as relations between the two soured.
+
+---
+
+### 2026-06-03 20:05:48  #公司
+
+【華為聯合天津港釋出新一代港口智慧水平運輸系統解決方案】6月2日，以“共創共享，促進一體化發展；互聯互通，服務雙迴圈戰略”為主題的第五屆世界一流港口多式聯運大會在天津開幕。大會期間，華為聯合天津港（集團）有限公司（簡稱“天津港集團”）釋出新一代港口智慧水平運輸系統解決方案，旨在為智慧港口建設築牢數字化底座，助力傳統碼頭透過混行方式，實現平滑自動化轉型和升級。
+
+---
+
+### 2026-06-03 20:05:34  #公司
+
+【中順潔柔：調整回購股份方案 回購資金總額提至1.5億元-2.5億元】中順潔柔(002511.SZ)公告稱，公司調整回購股份方案，將回購資金總額由“不低於6000萬元，不超過1.2億元”調整至“不低於1.5億元，不超過2.5億元”。截至公告日，公司已累計回購股份1516萬股，佔公司總股本約1.18%。
+
+---
+
+### 2026-06-03 20:05:28  #其他
+
+科威特方面稱，週三截獲了13枚導彈和17架無人機。
+
+---
+
+### 2026-06-03 20:05:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's Defense Ministry said it intercepted 13 missiles and 17 drones originating from Iran.
+
+---
+
+### 2026-06-03 20:05:16  #其他
+
+德國商業銀行備忘錄對義大利裕信銀行的投標提出質疑，雙方關係日漸緊張。
+
+---
+
+### 2026-06-03 20:05:04  #MKT News #Important #DXY #Impact mixed #US10Y
+
+US May ADP private payrolls due in 10 minutes.
+
+---
+
+### 2026-06-03 20:05:02  #其他
+
+西部資料股東擬置換約 8.584 億美元 2028 到期高階可轉換債券。
+
+---
+
+### 2026-06-03 20:04:14  #公司
+
+【奧普光電：控股股東長春光機所擬減持不超過1%股份】奧普光電公告，控股股東中國科學院長春光學精密機械與物理研究所持有公司股份9935.4784萬股，佔公司總股本41.40%，計劃自2026年6月26日至2026年9月23日，以集中競價方式減持不超過240萬股（不超過公司總股本的1%）。減持原因為自身資金需求，減持價格根據市場價格確定。
 
 ---
 
@@ -23854,125 +24022,5 @@ Mediterranean Shipping Company said it is a neutral commercial carrier with no l
 ### 2026-06-02 18:52:42  #公司 #市場
 
 【雅化集團：擬申請廣州期貨交易所氫氧化鋰指定交割廠庫】雅化集團(002497)6月2日公告，公司董事會審議透過議案，同意公司向廣州期貨交易所申請氫氧化鋰指定交割廠庫的資質，授權公司經營管理層向廣期所提交申請材料，並具體辦理相關事宜。公司本次申請廣州期貨交易所氫氧化鋰指定交割廠庫有利於公司將現貨市場、期貨市場、交割廠庫三者有機結合，進一步增強公司的抗風險能力和市場競爭力，將對公司未來拓展業務渠道和提高盈利水平產生積極作用。
-
----
-
-### 2026-06-02 18:52:31  #公司 #國際
-
-地中海航運公司表示，本公司是中立商業航運承運人，與美國或以色列無任何隸屬關係，對這些無端襲擊深表關切。
-
----
-
-### 2026-06-02 18:52:21  #其他
-
-【北京今年汛期降水總量和強降水日數預計偏多】在6月2日舉行的北京市2026年防汛準備工作新聞釋出會上，北京氣象部門介紹，據預測，今年汛期北京降水總量和強降水日數預計偏多。
-
----
-
-### 2026-06-02 18:51:50  #MKT News
-
-Mediterranean Shipping Company said local media reported Iran's Islamic Revolutionary Guard Corps (IRGC) claimed responsibility for the attack.
-
----
-
-### 2026-06-02 18:51:13  #MKT News
-
-Mediterranean Shipping Company (MSC) said all crew aboard vessel SARISKA V are safe.
-
----
-
-### 2026-06-02 18:51:10  #公司
-
-地中海航運公司：“薩里斯卡V”號貨輪全體船員均安全無恙；在伊拉克烏姆卡斯爾港遭到兩枚炮彈襲擊。伊朗伊斯蘭革命衛隊（IRGC）已宣稱對此次襲擊負責。
-
----
-
-### 2026-06-02 18:50:57  #MKT News
-
-Mediterranean Shipping Company (MSC) said on Monday the vessel SARISKA V was struck by two shells at Iraq's Umm Qasr port.
-
----
-
-### 2026-06-02 18:50:41  #國際
-
-拜耳表示將反對美國多地區訴訟司法小組（JPML）作出的有條件轉移令，該命令並非終局命令。
-
----
-
-### 2026-06-02 18:50:40  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-Israel's defense minister Katz said if attacks on northern Israel resume, Israel will strike suburbs of Beirut, Lebanon, and that the United States has "approved" the policy to target those suburbs.
-
----
-
-### 2026-06-02 18:50:26  #其他
-
-巴基斯坦 5 月水泥總銷量同比下滑 21% 至 380 萬噸。
-
----
-
-### 2026-06-02 18:50:22  #公司
-
-【大唐發電：股價短期波動大 提示二級市場交易風險】大唐發電公告稱，2026年6月2日，公司股票價格漲幅9.68%，5月27日至6月2日累計漲幅28.21%，偏離大盤和行業指數；五個交易日換手率較高；截至6月2日，市淨率4.61倍，高於行業平均。5月6日至6月2日，股價累計漲幅達120.67%，已釋出多次異常波動及風險提示公告。公司目前生產經營正常，以火力發電為主，新能源發電營收佔比約9.23%，尚無已投運算電協同專案。提醒投資者注意交易風險，審慎決策。
-
----
-
-### 2026-06-02 18:50:02  #公司 #國際
-
-根據美國證券交易委員會（SEC）披露檔案，谷歌母公司Alphabet擬發售最多價值400億美元的A類股和C類股。
-
----
-
-### 2026-06-02 18:49:42  #其他
-
-拜耳：有充分理由相信，該集體訴訟和解案件應當發回密蘇里州法院重審。
-
----
-
-### 2026-06-02 18:49:15  #國際
-
-以色列稱美國已認可其打擊貝魯特郊區的作戰方針。
-
----
-
-### 2026-06-02 18:49:07  #焦點 #國際
-
-以色列方面表示，若北部再度遭到炮擊，以方將打擊貝魯特郊區。
-
----
-
-### 2026-06-02 18:48:41  #市場 #觀點
-
-【花旗：削老鋪黃金目標價至700港元兼下調盈測 618表現疲弱】花旗釋出研報稱，老鋪黃金今年5月的銷售額預計將受節日促銷帶動而超過4月，但觀察到天貓“618”活動至今的表現較預期弱，可能是由於高溢價導致對價格敏感的客戶流失。該行指出，由於2月漲價後金價走軟，老鋪黃金相對於傳統金飾商的溢價已超過55%，高於2024年前約30%及2025年約10%的水平。基於預測2027財年市盈率15倍，該行將老鋪黃金目標價由1162港元大幅下調至700港元，維持“買入”評級。
-
----
-
-### 2026-06-02 18:48:33  #國際
-
-伊朗將面向亞洲的6月輕質原油定價定為較阿曼/迪拜均價升水13美元/桶。
-
----
-
-### 2026-06-02 18:48:28  #市場 #央行 #國際
-
-【機構：歐元區服務業通脹回升證實內部價格壓力】德國復興信貸銀行的Dirk Schumacher在一份報告中表示，能源價格衝擊和持續高企的內部價格壓力相結合，為歐洲央行本月加息鋪平了道路。歐元區5月份通脹率較4月份的3.0%升至3.2%。能源價格的持續上漲將通脹推至9月份以來的最高水平，但儘管這在普遍預期之中，服務業通脹也有所回升，較3.0%升至5月份的3.5%。他表示，服務業通脹的回升證實，4月份服務業通脹的下降完全是由於日曆效應。
-
----
-
-### 2026-06-02 18:47:53  #公司
-
-【兆易創新：出資4億元參與的私募基金完成備案】兆易創新公告，公司於2026年3月3日董事會審議透過以自有資金出資4億元認購上海石溪兆易智芯創業投資合夥企業（有限合夥）的基金份額。2026年6月2日，公司收到管理人通知，該基金已在中國證券投資基金業協會完成備案手續，並取得《私募投資基金備案證明》，備案日期為2026年6月1日，備案編碼SAMA40。
-
----
-
-### 2026-06-02 18:47:49  #其他
-
-【《規劃》提出到2030年糧食等重要農產品供給保障能力穩步提升 糧食綜合生產能力達到1.45萬億斤左右】農業農村部、國家發展改革委負責人就《加快農業農村現代化“十五五”規劃》答記者問。《規劃》統籌考慮發展基礎、支撐條件、現實需要，圍繞推動基本實現農業現代化、農村基本具備現代生活條件取得重大進展，科學設定目標指標，提出到2030年糧食等重要農產品供給保障能力穩步提升，糧食綜合生產能力達到1.45萬億斤左右，糧食安全根基持續夯實；農業質量效益和競爭力不斷提高，農業及相關產業增加值達到25.8萬億元；脫貧攻堅成果持續鞏固拓展，常態化防止返貧致貧機制更加完善；農業科技自立自強水平大幅提高，發展農業新質生產力取得重大突破，農業科技進步貢獻率達到67%；把農業建成現代化大產業取得重要進展，農民收入持續較快增長，城鄉居民收入比持續縮小；宜居宜業和美鄉村加快建設，農村基礎設施完備度、公共服務便利度、人居環境舒適度逐步提高；城鄉融合發展實現新突破，基本公共服務均等化水平明顯提升，農村改革紮實推進，農業農村高質量發展取得顯著成效。（農民日報）
-
----
-
-### 2026-06-02 18:47:25  #MKT News
-
-【Plan targets steady rise in supply capacity for grain and key farm products by 2030; grain production capacity ~1.45 trillion jin (~725 mln tonnes)】China’s Accelerate Agricultural and Rural Modernization plan sets 2030 targets: steady improvement in supply security for grain and other key farm products, with comprehensive grain production capacity around 1.45 trillion jin (≈725 million tonnes). It targets agricultural and related industry value-added of 25.8 trillion yuan and raises the agricultural science and technology progress contribution rate to 67%, aiming for major breakthroughs in new productive forces and greater agri‑tech self‑reliance. The plan also seeks sustained farm income growth and a narrower urban–rural income ratio, consolidation of poverty‑alleviation gains with improved anti‑return‑to‑poverty mechanisms, and accelerated construction of modern large‑scale agriculture plus upgraded rural infrastructure and public services.
 
 ---

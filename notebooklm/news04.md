@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 06:10:39_
-_本檔包含 3610 則快訊，約 700201 字_
+_更新時間：2026-06-06 06:41:02_
+_本檔包含 3603 則快訊，約 700022 字_
+
+---
+
+### 2026-06-02 18:52:31  #公司 #國際
+
+地中海航運公司表示，本公司是中立商業航運承運人，與美國或以色列無任何隸屬關係，對這些無端襲擊深表關切。
+
+---
+
+### 2026-06-02 18:52:21  #其他
+
+【北京今年汛期降水總量和強降水日數預計偏多】在6月2日舉行的北京市2026年防汛準備工作新聞釋出會上，北京氣象部門介紹，據預測，今年汛期北京降水總量和強降水日數預計偏多。
+
+---
+
+### 2026-06-02 18:51:50  #MKT News
+
+Mediterranean Shipping Company said local media reported Iran's Islamic Revolutionary Guard Corps (IRGC) claimed responsibility for the attack.
+
+---
+
+### 2026-06-02 18:51:13  #MKT News
+
+Mediterranean Shipping Company (MSC) said all crew aboard vessel SARISKA V are safe.
+
+---
+
+### 2026-06-02 18:51:10  #公司
+
+地中海航運公司：“薩里斯卡V”號貨輪全體船員均安全無恙；在伊拉克烏姆卡斯爾港遭到兩枚炮彈襲擊。伊朗伊斯蘭革命衛隊（IRGC）已宣稱對此次襲擊負責。
+
+---
+
+### 2026-06-02 18:50:57  #MKT News
+
+Mediterranean Shipping Company (MSC) said on Monday the vessel SARISKA V was struck by two shells at Iraq's Umm Qasr port.
+
+---
+
+### 2026-06-02 18:50:41  #國際
+
+拜耳表示將反對美國多地區訴訟司法小組（JPML）作出的有條件轉移令，該命令並非終局命令。
+
+---
+
+### 2026-06-02 18:50:40  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
+
+Israel's defense minister Katz said if attacks on northern Israel resume, Israel will strike suburbs of Beirut, Lebanon, and that the United States has "approved" the policy to target those suburbs.
+
+---
+
+### 2026-06-02 18:50:26  #其他
+
+巴基斯坦 5 月水泥總銷量同比下滑 21% 至 380 萬噸。
+
+---
+
+### 2026-06-02 18:50:22  #公司
+
+【大唐發電：股價短期波動大 提示二級市場交易風險】大唐發電公告稱，2026年6月2日，公司股票價格漲幅9.68%，5月27日至6月2日累計漲幅28.21%，偏離大盤和行業指數；五個交易日換手率較高；截至6月2日，市淨率4.61倍，高於行業平均。5月6日至6月2日，股價累計漲幅達120.67%，已釋出多次異常波動及風險提示公告。公司目前生產經營正常，以火力發電為主，新能源發電營收佔比約9.23%，尚無已投運算電協同專案。提醒投資者注意交易風險，審慎決策。
+
+---
+
+### 2026-06-02 18:50:02  #公司 #國際
+
+根據美國證券交易委員會（SEC）披露檔案，谷歌母公司Alphabet擬發售最多價值400億美元的A類股和C類股。
+
+---
+
+### 2026-06-02 18:49:42  #其他
+
+拜耳：有充分理由相信，該集體訴訟和解案件應當發回密蘇里州法院重審。
+
+---
+
+### 2026-06-02 18:49:15  #國際
+
+以色列稱美國已認可其打擊貝魯特郊區的作戰方針。
+
+---
+
+### 2026-06-02 18:49:07  #焦點 #國際
+
+以色列方面表示，若北部再度遭到炮擊，以方將打擊貝魯特郊區。
+
+---
+
+### 2026-06-02 18:48:41  #市場 #觀點
+
+【花旗：削老鋪黃金目標價至700港元兼下調盈測 618表現疲弱】花旗釋出研報稱，老鋪黃金今年5月的銷售額預計將受節日促銷帶動而超過4月，但觀察到天貓“618”活動至今的表現較預期弱，可能是由於高溢價導致對價格敏感的客戶流失。該行指出，由於2月漲價後金價走軟，老鋪黃金相對於傳統金飾商的溢價已超過55%，高於2024年前約30%及2025年約10%的水平。基於預測2027財年市盈率15倍，該行將老鋪黃金目標價由1162港元大幅下調至700港元，維持“買入”評級。
+
+---
+
+### 2026-06-02 18:48:33  #國際
+
+伊朗將面向亞洲的6月輕質原油定價定為較阿曼/迪拜均價升水13美元/桶。
+
+---
+
+### 2026-06-02 18:48:28  #市場 #央行 #國際
+
+【機構：歐元區服務業通脹回升證實內部價格壓力】德國復興信貸銀行的Dirk Schumacher在一份報告中表示，能源價格衝擊和持續高企的內部價格壓力相結合，為歐洲央行本月加息鋪平了道路。歐元區5月份通脹率較4月份的3.0%升至3.2%。能源價格的持續上漲將通脹推至9月份以來的最高水平，但儘管這在普遍預期之中，服務業通脹也有所回升，較3.0%升至5月份的3.5%。他表示，服務業通脹的回升證實，4月份服務業通脹的下降完全是由於日曆效應。
+
+---
+
+### 2026-06-02 18:47:53  #公司
+
+【兆易創新：出資4億元參與的私募基金完成備案】兆易創新公告，公司於2026年3月3日董事會審議透過以自有資金出資4億元認購上海石溪兆易智芯創業投資合夥企業（有限合夥）的基金份額。2026年6月2日，公司收到管理人通知，該基金已在中國證券投資基金業協會完成備案手續，並取得《私募投資基金備案證明》，備案日期為2026年6月1日，備案編碼SAMA40。
+
+---
+
+### 2026-06-02 18:47:49  #其他
+
+【《規劃》提出到2030年糧食等重要農產品供給保障能力穩步提升 糧食綜合生產能力達到1.45萬億斤左右】農業農村部、國家發展改革委負責人就《加快農業農村現代化“十五五”規劃》答記者問。《規劃》統籌考慮發展基礎、支撐條件、現實需要，圍繞推動基本實現農業現代化、農村基本具備現代生活條件取得重大進展，科學設定目標指標，提出到2030年糧食等重要農產品供給保障能力穩步提升，糧食綜合生產能力達到1.45萬億斤左右，糧食安全根基持續夯實；農業質量效益和競爭力不斷提高，農業及相關產業增加值達到25.8萬億元；脫貧攻堅成果持續鞏固拓展，常態化防止返貧致貧機制更加完善；農業科技自立自強水平大幅提高，發展農業新質生產力取得重大突破，農業科技進步貢獻率達到67%；把農業建成現代化大產業取得重要進展，農民收入持續較快增長，城鄉居民收入比持續縮小；宜居宜業和美鄉村加快建設，農村基礎設施完備度、公共服務便利度、人居環境舒適度逐步提高；城鄉融合發展實現新突破，基本公共服務均等化水平明顯提升，農村改革紮實推進，農業農村高質量發展取得顯著成效。（農民日報）
+
+---
+
+### 2026-06-02 18:47:25  #MKT News
+
+【Plan targets steady rise in supply capacity for grain and key farm products by 2030; grain production capacity ~1.45 trillion jin (~725 mln tonnes)】China’s Accelerate Agricultural and Rural Modernization plan sets 2030 targets: steady improvement in supply security for grain and other key farm products, with comprehensive grain production capacity around 1.45 trillion jin (≈725 million tonnes). It targets agricultural and related industry value-added of 25.8 trillion yuan and raises the agricultural science and technology progress contribution rate to 67%, aiming for major breakthroughs in new productive forces and greater agri‑tech self‑reliance. The plan also seeks sustained farm income growth and a narrower urban–rural income ratio, consolidation of poverty‑alleviation gains with improved anti‑return‑to‑poverty mechanisms, and accelerated construction of modern large‑scale agriculture plus upgraded rural infrastructure and public services.
 
 ---
 
@@ -21607,167 +21727,5 @@ Hungary's central bank said it will continue implementing a strengthened, stabil
 ### 2026-06-01 17:47:54  #國際
 
 以色列國防軍：以色列北部多個地區響起警報。
-
----
-
-### 2026-06-01 17:47:53  #MKT News
-
-Saudi Foreign Ministry strongly condemns Iran's repeated, egregious attacks on Kuwait.
-
----
-
-### 2026-06-01 17:47:31  #公司
-
-【瑞德智慧：控股股東及一致行動人持股比例增至38.05%】瑞德智慧公告稱，2025年11月1日至2026年5月29日，因公司登出部分回購股份及實施2025年度權益分派導致的差異化轉增股本，公司總股本由101,952,000股變為129,788,866股。控股股東、實際控制人汪軍及其一致行動人潘衛明、佛山市瑞翔投資有限公司合計持股數由37,989,400股增至49,386,220股，合計持股比例由37.26%增至38.05%，被動觸及1%整數倍。本次權益變動不觸及要約收購，不影響公司控制權和持續經營。
-
----
-
-### 2026-06-01 17:47:07  #MKT News #EURUSD
-
-Hungary's central bank said it will be a constructive partner to the government in meeting conditions for euro entry.
-
----
-
-### 2026-06-01 17:47:03  #央行 #其他
-
-匈牙利央行：將成為政府滿足歐元入盟條件過程中的建設性夥伴。
-
----
-
-### 2026-06-01 17:46:56  #MKT News #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
-
-【Iran says US and Israel colluding to seize Middle East energy, territory】Mohsen Rezaee, military adviser to Iran’s supreme leader, said the core of the Middle East dispute is land and energy. He said Israel aims to seize territory while the United States seeks to grab oil, calling that the shared interest behind US‑Israel collusion. Rezaee added both countries believe Iran must be overturned to establish a new regional order.
-
----
-
-### 2026-06-01 17:46:51  #公司
-
-【鼎泰高科：股東詢價轉讓初步定價270.55元/股】鼎泰高科(301377.SZ)公告稱，根據2026年6月1日詢價申購情況，初步確定的本次詢價轉讓價格為270.55元/股。本次詢價轉讓不透過集中競價交易或大宗交易方式進行，不屬於透過二級市場減持。受讓方透過詢價轉讓受讓的股份，在受讓後6個月內不得轉讓。參與報價的機構投資者48家，有效認購倍數為1.99倍，初步確定受讓方29家，擬受讓股份10,285,323股。
-
----
-
-### 2026-06-01 17:46:42  #國際
-
-【歐盟官員：儘管資金投入增加 歐洲國家仍無法擴大國防工業規模】歐盟負責防務的高階官員庫比柳斯表示，儘管對國防工業資金投入有所增加，歐洲國家仍無法擴大該行業的規模。
-
----
-
-### 2026-06-01 17:46:29  #國際
-
-【伊朗說美以勾結掠奪中東能源和土地】伊朗最高領袖軍事顧問穆赫辛·雷扎伊近日在接受總檯報道員專訪時表示，中東局勢的核心無非兩大要素，土地與能源。以色列意在侵佔領土，美國則一心掠奪石油，這便是“美以勾結的共同利益點”。而且兩國都認為，如果想在中東建立新秩序，就必須扳倒伊朗。（CCTV國際時訊）
-
----
-
-### 2026-06-01 17:46:05  #公司
-
-【歐科億：格林美詢價轉讓873.3萬股】歐科億公告，股東格林美股份有限公司透過詢價轉讓方式減持公司股票873.3萬股，佔公司總股本的5.50%。本次轉讓價格為96.45元/股。轉讓後，格林美持有公司股份比例由10.48%減少至4.91%，持有公司權益比例降至5%以下。此次權益變動不會導致公司控股股東、實際控制人發生變化。
-
----
-
-### 2026-06-01 17:45:21  #MKT News
-
-Hungary's prime minister Magyar said he respects central bank independence.
-
----
-
-### 2026-06-01 17:45:17  #公司
-
-【國聯股份等在北京成立新數智科技公司 註冊資本1000萬】天眼查App顯示，近日，北京海洋多多數智科技有限公司成立，法定代表人為紀靜靜，註冊資本1000萬人民幣，經營範圍包括海洋生物活性物質提取、純化、合成技術研發等，由聯達盛（北京）數智科技中心（有限合夥）、北京海洋多多科技發展中心（有限合夥）、國聯股份（603613）共同持股。
-
----
-
-### 2026-06-01 17:45:16  #央行 #其他
-
-匈牙利總理：將央行視為戰略合作伙伴，尊重央行獨立性。
-
----
-
-### 2026-06-01 17:44:59  #公司
-
-【智譜入股馭馴網路科技公司】天眼查App顯示，近日，上海馭馴網路科技有限公司發生工商變更，新增智譜AI旗下北京智譜未來科技有限公司、韓旭為股東，同時註冊資本由100萬人民幣增至約115.9萬人民幣。該公司成立於2026年3月，法定代表人為熊典，經營範圍包括計算機軟硬體及輔助裝置批發、計算機軟硬體及輔助裝置零售、工業控制計算機及系統銷售等。股東資訊顯示，該公司現由上海馭馴華清科技中心（有限合夥）、上海智網合言科技中心（有限合夥）及上述新增股東等共同持股。
-
----
-
-### 2026-06-01 17:44:55  #其他
-
-【晶科科技嵐縣光伏專案競配成功】近日，山西省2026年第一批競爭性配置風電、光伏發電保障性併網專案評審結果公示，晶科科技嵐縣晶能100MW光伏發電專案順利入選，該專案是呂梁市本批唯一中選專案，屬典型的山地光伏電站。專案投運後，年均上網電量逾1.5億kWh，年等效滿負荷執行小時數約為1546.11h，相當於節約標準煤約4.65萬噸，減少二氧化碳排放約12.74萬噸。
-
----
-
-### 2026-06-01 17:44:48  #公司
-
-【ST喜臨門：控股股東及其一致行動人預重整申請獲法院受理】ST喜臨門公告，紹興市越城區人民法院決定受理公司控股股東華易智慧製造及其一致行動人華瀚投資的預重整申請，並選定浙江越光律師事務所為預重整階段管理人。華易智慧製造持有公司股份8479.97萬股，佔總股本23.03%，其中75.37%被質押，100.00%被凍結。華瀚投資持有公司股份3680.8萬股，佔總股本9.99%，其中77.18%被質押，100.00%被凍結。本次預重整是否影響公司控制權存在不確定性。
-
----
-
-### 2026-06-01 17:44:46  #公司
-
-【盛幫股份：終止籌劃收購無錫沃可60%股權】盛幫股份公告，公司原計劃以現金方式收購無錫沃可發動機降噪部件有限公司60%股權，以拓展海外市場。但由於交易各方未能就核心條款和交易細節達成一致，決定終止本次重大資產重組事項。公司承諾自公告披露之日起至少一個月內不再籌劃重大資產重組。
-
----
-
-### 2026-06-01 17:44:38  #MKT News
-
-Hungarian Prime Minister Magyar said he views the Hungarian central bank as a strategic partner.
-
----
-
-### 2026-06-01 17:44:29  #央行 #其他
-
-匈牙利總理：已與匈牙利央行行長舉行了富有建設性的會談。
-
----
-
-### 2026-06-01 17:44:20  #MKT News #Commodities #Energy #Market Regions #Europe & UK
-
-Ukraine's prime minister said Kyiv and Lithuania have agreed to secure long-term LNG capacity via Lithuania's Klaipėda port.
-
----
-
-### 2026-06-01 17:44:10  #MKT News
-
-Hungary's prime minister magyar said maintaining forint stability is crucial.
-
----
-
-### 2026-06-01 17:44:08  #MKT News #Market Regions #Europe & UK
-
-Hungary's Prime Minister Magyar said he held constructive talks with Hungarian central bank governor Varga.
-
----
-
-### 2026-06-01 17:44:06  #其他
-
-匈牙利總理：福林穩定是重中之重。
-
----
-
-### 2026-06-01 17:43:58  #國際
-
-烏克蘭總理稱，烏克蘭與立陶宛已就透過克萊佩達港獲得長期液化天然氣運力達成協議。
-
----
-
-### 2026-06-01 17:43:53  #國際
-
-據以色列i24News：加利利地區大範圍區域已啟動紅色警報。
-
----
-
-### 2026-06-01 17:43:49  #國際
-
-市場訊息：幣安（Binance)將面向非美國地區使用者推出美股交易服務。
-
----
-
-### 2026-06-01 17:43:47  #MKT News
-
-i24News reports Red Alert sirens activated across large parts of Israel's Galilee region.
-
----
-
-### 2026-06-01 17:43:35  #其他
-
-【國家資料局：以完善的資料工程驅動具身智慧發展】《中國證券報》1日刊發文章《國家資料局：以完善的資料工程驅動具身智慧發展》。文章稱，國家資料局5月31日訊息，國家資料局局長劉烈宏日前在2026世界智慧產業博覽會上表示，高質量資料集是具身智慧“感知-決策-執行”的重要基礎，要以完善的資料工程驅動具身智慧的發展，深入開展系統性實踐。今年以來，高質量資料集領域政策動態頗多，圍繞高質量資料集的產業生態正在成型。專家表示，高質量資料集建設已逐步從“倡導建設”邁向“按標準建設、按機制試點、按體系推進”，產業發展有望進一步提速。（新華社）
 
 ---
