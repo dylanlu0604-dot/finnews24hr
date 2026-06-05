@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-06 02:08:13",
-  "count": 18792,
+  "updated": "2026-06-06 02:11:58",
+  "count": 18793,
   "items": [
+    {
+      "id": "4920271",
+      "time": "2026-06-06 02:10:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部資料：俄 1 至 5 月財政赤字達 6 萬億盧布（上月統計值為 5.9 萬億盧布）。"
+    },
+    {
+      "id": "mkt:019e98f8-44d6-7665-830b-a1c37117b6b3",
+      "time": "2026-06-06 02:07:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's oil ministry said cleanup work at two damaged refining facilities at South Pars is about 60% complete."
+    },
     {
       "id": "mkt:019e98f8-1b9b-7665-830b-9f0c657beefd",
       "time": "2026-06-06 02:07:37",
@@ -173078,14 +173097,6 @@
         "XAUUSD"
       ],
       "text": "Mehr News Agency reported Iran activated air defenses near Qeshm Island."
-    },
-    {
-      "id": "4907687",
-      "time": "2026-05-30 02:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗Qeshm Island周邊發生防空活動。（伊朗媒體Mehr）"
     }
   ]
 }
