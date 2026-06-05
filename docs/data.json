@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-06 02:39:01",
+  "updated": "2026-06-06 02:42:51",
   "count": 18812,
   "items": [
+    {
+      "id": "4920291",
+      "time": "2026-06-06 02:42:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守68美元/盎司，日內跌7.93%。"
+    },
+    {
+      "id": "mkt:019e9915-2eee-7665-830c-2d60db89da25",
+      "time": "2026-06-06 02:39:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Spot gold erased all of its year-to-date gains after U.S. employment data strengthened market expectations for Fed rate hikes."
+    },
     {
       "id": "mkt:019e9912-eb0e-7665-830c-25e7384e0628",
       "time": "2026-06-06 02:36:54",
@@ -173271,24 +173298,6 @@
         "Importance 1"
       ],
       "text": "Progressive Stock Price Hits 26-month Low — Progressive shares decreased to 191.74 USD, the lowest since March 2024. Over the past 4 weeks, Progressive lost 4.66%, and in the last 12 months, it decreased 32.65%."
-    },
-    {
-      "id": "4907700",
-      "time": "2026-05-30 02:41:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據華盛頓郵報：美國官員稱，特朗普在戰情室關於伊朗諒解備忘錄的會議已經結束。"
-    },
-    {
-      "id": "mkt:019e750a-df2c-7bb7-9965-705957e21445",
-      "time": "2026-05-30 02:41:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Washington Post reports US officials said Trump has ended a Situation Room meeting on an Iran memorandum of understanding."
     }
   ]
 }
