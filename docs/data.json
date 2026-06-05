@@ -1,7 +1,165 @@
 {
-  "updated": "2026-06-05 15:12:58",
-  "count": 18910,
+  "updated": "2026-06-05 15:16:54",
+  "count": 18916,
   "items": [
+    {
+      "id": "mkt:019e96a3-bba9-711f-98a7-f05e19129ef2",
+      "time": "2026-06-05 15:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】Midday close: China government bond futures main contracts — 2-year TS down 0.01%, 5-year TF down 0.02%, 10-year T down 0.05%, 30-year TL down 0.27%."
+    },
+    {
+      "id": "te:markets:556781",
+      "time": "2026-06-05 15:16:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.77% Lower — The Shangai Composite Index fell 31 points or 0.77 percent on Friday to close at 4026 points. Leading the losses are Datang Intl (-9.31%), Zhejiang Zheneng (-4.17%) and Huaneng (-4.00%). Top gainers were Shanghai Petrochemical (4.73%), China International (3.71%) and Sany Heavy Industry (2.81%)."
+    },
+    {
+      "id": "mkt:019e96a3-2132-711f-98a7-eda28858da27",
+      "time": "2026-06-05 15:15:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "A local governor said Russian strikes on Ukraine's Kyiv region killed four people."
+    },
+    {
+      "id": "4918969",
+      "time": "2026-06-05 15:15:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Sensex指數轉跌，當前跌幅0.1%，報74311.31點。"
+    },
+    {
+      "id": "4918968",
+      "time": "2026-06-05 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.27%， 10年期主力合約跌0.05%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4918967",
+      "time": "2026-06-05 15:14:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【姚順雨入職半年，騰訊高管：他對於元寶和混元帶來了巨大價值】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生現場回應了騰訊為什麼會選擇姚順雨，以及姚順雨入職半年來對騰訊AI帶來了哪些改變？湯道生表示，“他在這個領域是很有影響力的專家，在他來之前我們溝通也充分感受到了他的專業，確實是對於AI的認知跟我們過去很多不一樣，他的到來對於元寶和混元帶來了巨大的價值。”湯道生透露，“其實我們之前訓練的很多資料是不夠高質量的，所以他到來之後早期做了很多工作，就是把資料質量提質，包括砍掉很多貌似可以堆量的，但實際對模型沒有太大幫助的（資料），很多的決策就會做得更加到位，他做了很多化繁為簡的事情，元寶和混元過去半年的進展比過去更長的時間進步了更多，毫無疑問他（姚順雨）有非常大的功勞。”（新浪科技）"
+    },
+    {
+      "id": "4918966",
+      "time": "2026-06-05 15:14:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國中央選舉管理委員會委員長表示，因部分選區地方選舉出現選票短缺問題，他將辭職。"
+    },
+    {
+      "id": "4918965",
+      "time": "2026-06-05 15:14:32",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【583億天量成交 中際旭創今日成交額躋身A股歷史第四】今日，CPO板塊龍頭中際旭創放量大跌，截至收盤，該股跌幅達7.81%，創下今年2月2日以來的最大單日跌幅。與此同時，其全天成交額高達583.25億元，不僅重新整理了上市以來的歷史紀錄，也在今日A股成交額榜單中高居首位。縱觀A股歷史，這一成交額位列第四，超越了新易盛今年4月創下的紀錄，僅次於東方財富、中國石油與中國平安。目前，中際旭創股價收報1179.99元，在全市場個股中位居第五位，再度低於貴州茅臺。"
+    },
+    {
+      "id": "mkt:019e96a2-0d16-711f-98a7-e29ed762a899",
+      "time": "2026-06-05 15:14:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Wingtech sues Nexperia Netherlands】Wingtech Technology has filed a lawsuit in China alleging improper interference by Nexperia Netherlands; the Dongguan Intermediate People’s Court in Guangdong has accepted the case, Nexperia China said."
+    },
+    {
+      "id": "4918964",
+      "time": "2026-06-05 15:14:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【因安全帶緊急鎖止可能失效，起亞在美召回逾6000輛2027款Telluride車型】6月5日，美國國家公路交通安全管理局（NHTSA）公告顯示，起亞北美公司正在申請召回部分2027款Telluride和Telluride混動版汽車，潛在受影響的車輛總數為6264輛。本次召回的核心原因在於，受影響車輛的駕駛員安全帶“緊急鎖止收卷器”可能會發生非預期鎖死，導致安全帶織帶無法正常拉出。在車輛不幸發生碰撞時，無法正常拉伸延伸的安全帶將無法有效約束車內人員，從而顯著增加乘員的受傷風險。"
+    },
+    {
+      "id": "4918963",
+      "time": "2026-06-05 15:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔州州長稱，俄羅斯的襲擊已造成四人死亡。"
+    },
+    {
+      "id": "4918962",
+      "time": "2026-06-05 15:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南辰溪縣籃協主席酒後直播發表不當言論被免職】湖南懷化市籃球協會6月5日釋出關於張昌華不當言論處理情況的通報：6月4日晚，懷化市籃球協會副主席張昌華在網路直播期間，因酒後言行失範，發表不當言論，傷害兩地球迷情感，對懷化籃球運動形象造成不良負面影響。在此，向株洲全體參賽球員、株洲籃球界及懷化、株洲廣大球迷致以最誠摯的歉意。免去張昌華懷化市籃球協會副主席職務，責令辰溪縣籃球協會免去其辰溪縣籃協主席職務，自本通報印發之日起生效。將張昌華納入2026年度懷化市各級官方主辦籃球賽事觀賽黑名單，禁止其透過線上、線下渠道申購相關賽事門票進入賽事場館觀賽。"
+    },
+    {
+      "id": "4918961",
+      "time": "2026-06-05 15:12:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市因科技股拋售大幅下挫 創下3月以來最差單週表現】韓國股市週五大幅下挫，創下自3月底以來最大單週跌幅，因全球科技股回撥及美伊和談陷入僵局，嚴重打擊了投資者的風險偏好。韓元兌美元匯率跌至2009年以來最低水平。韓國基準KOSPI指數收盤下跌478.82點，跌幅5.54%，報8160.59點，創下自5月15日以來最大單日百分比跌幅。本週累計下跌3.7%。盤中KOSPI指數一度下跌6.96%，觸發\"側車\"交易暫停機制。晶片製造商三星電子下跌6.4%，同行SK海力士下跌9.9%。這兩家晶片製造商近期不斷改寫全球股市排名，推動KOSPI指數在過去一年內上漲超過200%。韓元兌美元匯率今年迄今已下跌近7%，報收於1美元兌1,539.1韓元，當日下跌0.46%，此前盤中一度觸及2009年3月以來最低水平1,549.1韓元。"
+    },
+    {
+      "id": "te:economy:556778",
+      "time": "2026-06-05 15:12:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Wholesale Prices YoY",
+        "Importance 1"
+      ],
+      "text": "Austria Wholesale Prices Post Strongest Rise Since 2023 — Wholesale prices in Austria rose by 6.9% year-on-year in May 2026, accelerating from a 6.7% rise in the previous month and marking the strongest annual gain since February 2023. The increase was primarily driven by price increases for plastics and rubber in primary forms (53.1%), other liquid and gaseous fuels and related products (44.9%), and motor spirit (30.1%). Additional upward pressure came from higher prices for non-iron metals (16.9%), information and communication equipment (15.5%), waste and scrap (14.7%), other machinery and equipment (11.7%), watches and jewellery (11.4%), solid fuels (10.5%), and iron and steel (10.1%). On a monthly basis, wholesale prices edged up 0.1% in May, slowing from a 1.1% increase in the previous month."
+    },
+    {
+      "id": "te:markets:556777",
+      "time": "2026-06-05 15:12:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Head for Sharp Weekly Gain — European natural gas futures rose above €49 per megawatt hour and were on track for a weekly gain of nearly 7%, amid a stalemate in US–Iran talks. There has been little sign of progress in negotiations, while a renewed flare-up in fighting has heightened uncertainty. The rejection of a US-brokered ceasefire proposal by Iran-backed Hezbollah has further complicated efforts to de-escalate regional tensions. As a deal remains elusive, markets are increasingly worried that disruptions to energy shipments from the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter."
+    },
+    {
+      "id": "4918960",
+      "time": "2026-06-05 15:12:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：以伊戰爭期間以色列秘密駐軍亞塞拜然，搭建前沿對伊作戰據點】四名知情人士透露，在以色列與伊朗交戰期間，以色列向亞塞拜然秘密部署精銳作戰與情報部隊，以此作為遍佈中東多地隱秘據點網路的一環，依託該網路開展針對伊朗的各類軍事行動。兩名訊息源稱，以軍駐紮在亞塞拜然南部多處點位，緊鄰伊朗北部國境，最近處距離伊朗城市大不里士僅約96公里，而大不里士正是以色列在戰爭中空襲過的目標城市。另外兩名知情人士表示，以色列還向上述區域派駐特種突擊部隊，執行情報蒐集與無人機作戰任務；藉由亞塞拜然前沿陣地，以色列在戰時得以近距離窺探伊朗北部全境軍情。據悉，以色列在亞塞拜然的秘密駐軍，是以方在中東多國佈設的多處軍事支點之一。亞塞拜然駐美國大使館宣告稱：“我方堅決駁斥有關亞塞拜然領土被用作針對第三國軍事行動據點的不實傳言。”"
+    },
+    {
+      "id": "4918959",
+      "time": "2026-06-05 15:12:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中控技術收盤價創歷史新高】6月5日，中控技術(688777)收盤上漲13.1%，收盤價報100元/股，創歷史新高（前復權）。"
+    },
     {
       "id": "4918958",
       "time": "2026-06-05 15:11:54",
@@ -174135,114 +174293,6 @@
         "DXY"
       ],
       "text": "Japan's Chief Cabinet Secretary Kihara Minoru said the government’s position remains to take appropriate action on the exchange rate."
-    },
-    {
-      "id": "te:economy:554811",
-      "time": "2026-05-29 15:16:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Austria Producer Prices Rise at Fastest Pace in Nearly 3 Years — Producer prices in Austria increased 1.9% year-on-year in April 2026, after a flat reading in March. This was the highest reading since May 2023, driven mainly by a sharp rise in intermediate goods prices (3.8% vs 1.2% in March). Energy costs rose 2.0%, rebounding from a 1.7% drop in the previous month and marking the first increase in nearly three years. Prices for capital goods increased 0.4%, following a 0.2% rise, while consumer goods prices rose 0.6%, slowing from a 0.8% advance. On a monthly basis, the PPI rose 0.9%, easing from a 1.4% increase in March, as higher prices in the manufacture of chemicals and chemical products (11.3%) and basic metals (3.5%) were partly offset by declines in electricity, gas, steam and air conditioning supply (-1.7%) and in the manufacture of computer, electronic and optical products (-0.1%)."
-    },
-    {
-      "id": "4906412",
-      "time": "2026-05-29 15:16:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華中能源監管局組織召開雅湖、金永直流輸電工程配套電源建設工作座談會】華中能源監管局會同四川能源監管辦強化協同監管，共同組織召開雅湖、金永直流輸電工程配套電源建設工作座談會，四川省能源局和雅礱江流域水電開發有限公司、華電金沙江上游水電開發有限公司參加會議。會議指出，雅湖直流和金永直流是國家“西電東送”戰略的重要組成部分，是最佳化全國電力流向、提升跨區域電力調配能力的關鍵舉措。會議強調，各有關單位要發揮合力、協同推進配套電源建設。發電企業要落實電源建設主體責任，行業主管部門要加強統籌協調和要素保障，監管機構要健全跟蹤督導機制，進一步落實全國電力流向最佳化佈局推進會部署要求。"
-    },
-    {
-      "id": "mkt:019e7297-6d8d-7aa7-a782-af99516f1841",
-      "time": "2026-05-29 15:16:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China bond futures midday close】2-year bond futures (TS) main contract up 0.01% at midday close; 5-year (TF) +0.07%, 10-year (T) +0.09%, 30-year (TL) +0.20%."
-    },
-    {
-      "id": "te:markets:554810",
-      "time": "2026-05-29 15:16:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.64% Lower — The Shangai Composite Index fell 26 points or 0.64 percent on Friday to close at 4072 points. Leading the losses are Sanan Optoelectron (-7.24%), Avic Aviation Engine (-5.64%) and Shanghai Electric (-4.74%). Top gainers were Huaneng (10.05%), China International (9.02%) and Datang Intl (7.25%)."
-    },
-    {
-      "id": "4906411",
-      "time": "2026-05-29 15:15:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：政府的立場始終是針對外匯走勢採取適當行動。"
-    },
-    {
-      "id": "4906410",
-      "time": "2026-05-29 15:15:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.20%， 10年期主力合約漲0.09%， 5年期主力合約漲0.07%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:019e7295-116f-7aa7-a782-a0ed372d3b68",
-      "time": "2026-05-29 15:13:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Chief Cabinet Secretary Kihara Minoru said he is deeply concerned about speculative FX volatility."
-    },
-    {
-      "id": "te:economy:554807",
-      "time": "2026-05-29 15:13:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Spain Inflation Rate Unexpectedly Holds Steady at 3.2% — Spain’s annual inflation rate stood at 3.2% in May 2026, matching April's reading and below the expected 3.4%, preliminary data showed. Transport and recreational, sporting and cultural activities generated upward pressure on prices, but this was offset by declines in clothing and footwear and stable food and non-alcoholic beverages prices relative to the same period last year. The core inflation rate, which excludes volatile items such as food and energy, ticked higher to 2.9% from 2.8% in the prior month. Meanwhile, the EU-harmonized annual rate rose further to 3.6%, a new high since June 2024, up from 3.5% in April and in line with expectations."
-    },
-    {
-      "id": "te:economy:554806",
-      "time": "2026-05-29 15:13:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Monthly GDP YoY",
-        "Importance 1"
-      ],
-      "text": "Georgia GDP Growth Slows to 6-Month Low — Georgia’s economy expanded by 6.2% year-on-year in April 2026, easing from 10.7% growth recorded in the previous month. This marked the softest economic growth since last October, but remained supported by solid activity across several key sectors. Manufacturing, information and communication, transportation and storage, wholesale and retail trade, and financial and insurance activities were the main contributors to growth. In contrast, declines were registered in construction as well as mining and quarrying activities. Over the first four months of 2026, economic activity averaged at 8.3%. External trade trends remained favorable, with exports rising 21.1% year-on-year to $2.44 billion in January-April, while imports declined 4.9% to $5.69 billion."
-    },
-    {
-      "id": "mkt:019e7294-b61c-7aa7-a782-98bc2eff0f88",
-      "time": "2026-05-29 15:13:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara declined to comment on the level of the exchange rate or on intervention."
-    },
-    {
-      "id": "4906409",
-      "time": "2026-05-29 15:13:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：對投機性匯率波動感到極度擔憂。"
     }
   ]
 }
