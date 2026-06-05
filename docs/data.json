@@ -1,7 +1,153 @@
 {
-  "updated": "2026-06-05 14:18:30",
-  "count": 18923,
+  "updated": "2026-06-05 14:22:25",
+  "count": 18926,
   "items": [
+    {
+      "id": "4918872",
+      "time": "2026-06-05 14:21:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4875.480點；恒生指數現跌1.231%。"
+    },
+    {
+      "id": "te:markets:556753",
+      "time": "2026-06-05 14:21:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.3807 USD/Lbs"
+    },
+    {
+      "id": "mkt:019e9671-4a2a-7ff7-b578-a51f2e86e8d1",
+      "time": "2026-06-05 14:21:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Institutional forecasts for U.S. May unemployment rate (prior 4.3%)】Consensus clustered at 4.3% (Refinitiv 4.3%). Danske Bank is the low outlier at 4.2%; Sparta Securities, Capital Economics, Oxford Economics, Pantheon Macroeconomics, Standard Chartered, TD Securities and Wells Fargo sit at 4.4%. Major banks forecasting 4.3% include ANZ, ABN AMRO Bank, BNP Paribas SA, Barclays, BofA, Citigroup, Commerzbank, Daiwa Capital, DekaBank, Deutsche Bank, Goldman Sachs, Helaba, HSBC, ING, JP Morgan, Jefferies, Mizuho, Morgan Stanley, Nomura, UBS and Lianxin Bank."
+    },
+    {
+      "id": "mkt:019e9670-a39f-7ff7-b578-9ea27b55140c",
+      "time": "2026-06-05 14:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 62.60 points (0.72%) at 8,623.50 on Friday, June 5."
+    },
+    {
+      "id": "mkt:019e9670-9cb4-7ff7-b578-94e8e5119571",
+      "time": "2026-06-05 14:20:22",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus booked 379 orders in May and delivered 81 aircraft. Year-to-date 2026 deliveries stand at 262 aircraft."
+    },
+    {
+      "id": "4918871",
+      "time": "2026-06-05 14:19:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "一名政府官員表示，泰國消費者保護委員會將就電池相關起火事件，將沃爾沃汽車泰國當地分公司告上法庭。"
+    },
+    {
+      "id": "te:markets:556752",
+      "time": "2026-06-05 14:19:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Zijin Mining Stock Price Hits 10-week Low — Zijin Mining shares decreased to 29.88 CNY, the lowest since March 2026. Over the past 4 weeks, Zijin Mining Group lost 12.63%, and in the last 12 months, it increased 64.77%."
+    },
+    {
+      "id": "4918870",
+      "time": "2026-06-05 14:19:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【對話騰訊湯道生：WorkBuddy等AI智慧體還在投入階段，未設商業化目標】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生談及AI產品定價問題時表示，“不好點評其他廠商的降價策略，但是行業大趨勢肯定是希望token推理成本在不斷降低，同時也有一些特別難的問題，需要更大的模型，當然這個成本就會高，大家的定價策略也會有所不同。”騰訊對於AI智慧體產品是否設定了商業化目標？湯道生回應表示，“對於WorkBuddy這樣的AI智慧體，我們現在還是投入階段，所以並沒有給團隊設定商業化目標的KPI，不過同時我們也收到大量企業的客戶的反饋，都對它們很感興趣，在企業的場景裡有很多商業化的模式，有點像幾年前的騰訊會議，它既有一些to c的屬性，也有一些獨立屬性，我們會充分的發揮好它這個獨立的能力，來來搭建一個可持續發展的服務體系。”（新浪科技）"
+    },
+    {
+      "id": "mkt:019e966f-7cb0-7ff7-b578-8f7e295e81ab",
+      "time": "2026-06-05 14:19:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver 2608 slid 3.41% to 17,236 yuan/kg. Turnover about 167.986 bln yuan; open interest rose nearly 9,600 contracts amid increased intraday volatility."
+    },
+    {
+      "id": "mkt:019e966f-52c2-7ff7-b578-864ea11794a4",
+      "time": "2026-06-05 14:18:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 1.00% intraday, slipping below $4,430/oz."
+    },
+    {
+      "id": "4918869",
+      "time": "2026-06-05 14:18:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4430美元/盎司，日內跌1.01%。"
+    },
+    {
+      "id": "4918868",
+      "time": "2026-06-05 14:18:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4430.03美元/盎司。"
+    },
+    {
+      "id": "4918867",
+      "time": "2026-06-05 14:18:18",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【報告：菲律賓央行6月加息可能依然有望進行】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管5月份通脹資料較為疲軟，但菲律賓央行6月份的加息似乎依然有望進行。該分析師表示，由於運輸成本下降，整體通脹有所降溫。不過她表示，食品通脹繼續推動整體價格上漲，並且似乎越來越廣泛地蔓延到大米以外的領域。她補充說，隨著化肥價格高企拖累負擔能力並推高非大米食品價格，通脹前景的風險依然堅定地偏向上行。荷蘭國際集團維持對菲律賓2026年消費者通脹率平均同比為5.8%的預測。該機構預計6月份將加息25個基點，如果美伊衝突沒有顯示出明顯的降溫進展且油價保持高位，則有可能加息50個基點。"
+    },
+    {
+      "id": "4918866",
+      "time": "2026-06-05 14:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空計劃將飛往迪拜的航班增至每日五班。"
+    },
+    {
+      "id": "4918865",
+      "time": "2026-06-05 14:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列要求黎巴嫩南部三個城鎮的居民撤離。"
+    },
     {
       "id": "4918864",
       "time": "2026-06-05 14:17:41",
@@ -174244,128 +174390,6 @@
         "國際"
       ],
       "text": "美聯儲卡什卡利：無論在最好還是最壞的情況下，都存在長期通貨膨脹的風險。"
-    },
-    {
-      "id": "4906309",
-      "time": "2026-05-29 14:21:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福晶科技：法拉第旋光片已透過部分客戶認證並實現供貨 整體處於產能爬坡期】福晶科技近日接受機構調研時表示，作為光隔離器的關鍵材料，法拉第旋光片受益於下游高速光模組產業快速發展，市場需求旺盛。該產品已透過部分客戶認證並實現供貨，2025年度該項業務營收佔比尚不及1%，整體處於產能爬坡期。後續公司將結合市場需求、客戶訂單狀況及自身實際情況，統籌規劃產能佈局。"
-    },
-    {
-      "id": "mkt:019e7264-ca09-711c-8b40-47c7a6dfbade",
-      "time": "2026-05-29 14:21:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 closed up 116.80 points, or 1.36%, at 8,709.70 on Friday, May 29."
-    },
-    {
-      "id": "4906308",
-      "time": "2026-05-29 14:21:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濟民可信注射用兩性黴素B脂質體透過土耳其官方GMP審計】5月29日，濟民可信集團宣佈，旗下江西艾施特製藥有限公司凍乾粉針劑生產線及核心產品注射用兩性黴素B脂質體，順利透過土耳其藥品和醫療器材局（TİTCK）GMP符合性檢查，被授予GMP證書。"
-    },
-    {
-      "id": "4906307",
-      "time": "2026-05-29 14:21:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“熱穹頂”不散 歐洲多地重新整理五月最高氣溫紀錄】受“熱穹頂”效應影響，歐洲多地27日和28日繼續遭受高溫天氣炙烤。義大利首都羅馬釋出紅色高溫預警；葡萄牙和法國多地重新整理最高氣溫紀錄。（新華社）"
-    },
-    {
-      "id": "mkt:019e7264-60af-711c-8b40-3fbefcf1fa12",
-      "time": "2026-05-29 14:20:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve's Kashkari said data still makes him more concerned about inflation risks."
-    },
-    {
-      "id": "mkt:019e7264-19d4-711c-8b40-34dac1287a72",
-      "time": "2026-05-29 14:20:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli Defense Forces said the Israeli Air Force intercepted a suspicious aerial object after alarms sounded earlier in the Misgav Am and Margaliot areas. The alarms were triggered under standard procedures."
-    },
-    {
-      "id": "4906306",
-      "time": "2026-05-29 14:19:39",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國家發改委價格成本和認證中心赴瑞達國際開展新能源調研】5月20日，國家發改委價格成本和認證中心副主任成鋼同志帶隊赴湖南衡陽瑞達國際集團有限公司調研，雙方圍繞固態鉛儲能專案建設運營情況進行了交流。湖南省發展和改革委員會、湖南省能源局、國鐵新能源發展（北京）有限公司相關負責同志及中心新能源價格成本處有關同志參加調研。"
-    },
-    {
-      "id": "mkt:019e7263-4087-711c-8b40-28e82e42c9c7",
-      "time": "2026-05-29 14:19:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares continued to slide: Shanghai Composite Index down 1%, Shenzhen Composite Index down over 2%, ChiNext Index down 2.44%; more than 3,900 stocks fell."
-    },
-    {
-      "id": "em:qqyh_mlc:202605293754331818",
-      "time": "2026-05-29 14:19:19",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲卡什卡利表示，在4月PCE通脹資料出爐後，斷言需立即加息還為時過早。"
-    },
-    {
-      "id": "4906305",
-      "time": "2026-05-29 14:19:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新易盛成交額超200億元】5月29日下午，新易盛成交額超200億元，現跌1.3%。"
-    },
-    {
-      "id": "4906304",
-      "time": "2026-05-29 14:19:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：仍需進一步關注通脹風險。"
-    },
-    {
-      "id": "mkt:019e7262-8977-711c-8b40-213fb257b0e1",
-      "time": "2026-05-29 14:18:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed's Kashkari said it's too early to conclude April PCE inflation readings mean an immediate rate hike is needed."
     }
   ]
 }
