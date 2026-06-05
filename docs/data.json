@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-05 22:35:53",
-  "count": 18709,
+  "updated": "2026-06-05 22:40:04",
+  "count": 18707,
   "items": [
+    {
+      "id": "mkt:019e9839-0526-7665-8306-99601eb07ebd",
+      "time": "2026-06-05 22:38:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows Microsoft (MSFT.O) said Reid Hoffman will remain a director until the 2026 annual shareholders' meeting and will not seek re-election at that meeting."
+    },
+    {
+      "id": "4920080",
+      "time": "2026-06-05 22:38:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4350美元/盎司，日內跌2.82%。"
+    },
+    {
+      "id": "4920079",
+      "time": "2026-06-05 22:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：REID HOFFMAN將留任微軟董事直至2026年年度股東大會。"
+    },
+    {
+      "id": "4920078",
+      "time": "2026-06-05 22:37:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利中央銀行以平均每盎司906.52智利比索的價格賣出6100萬美元外匯遠期合約。"
+    },
+    {
+      "id": "mkt:019e9837-4fbb-7665-8306-91cd9b3cb859",
+      "time": "2026-06-05 22:37:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. federal judge set aside a Trump administration policy that suspended final decisions on asylum claims, employment authorization, green-card and naturalization applications for nationals of 39 countries."
+    },
+    {
+      "id": "mkt:019e9836-b345-7665-8306-8f87bf50eaab",
+      "time": "2026-06-05 22:36:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market reports say SpaceX's IPO is oversubscribed, with subscription orders exceeding the shares available for issuance."
+    },
+    {
+      "id": "4920077",
+      "time": "2026-06-05 22:35:23",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "市場訊息：SpaceX首次公開募股（IPO）獲得的認購訂單已超過可供發行的股票數量。"
+    },
     {
       "id": "4920076",
       "time": "2026-06-05 22:35:10",
@@ -107,6 +165,14 @@
         "MKT News"
       ],
       "text": "German Chancellor Merz said Germany is willing to hold talks with Moscow, but what is missing is Putin's willingness."
+    },
+    {
+      "id": "4920071",
+      "time": "2026-06-05 22:29:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：FCA對Euro Exchange Securities UK Limited提出合規要求，法院已任命臨時管理人。"
     },
     {
       "id": "4920070",
@@ -172215,97 +172281,6 @@
         "國際"
       ],
       "text": "【科技股飆升提振市場情緒，美國股票基金迎來周度資金流入】5月27日當週，由於與人工智慧（AI）相關的科技股飆升提振了市場情緒，美國股票基金吸引了資金流入，不過市場對美國與伊朗和平談判的擔憂仍令投資者的購買行為有所剋制。根據倫敦證券交易所集團（LSEG）旗下理柏（Lipper）的資料，投資者淨買入19.7億美元的美國股票基金，而此前一週則為淨賣出120億美元。"
-    },
-    {
-      "id": "4907516",
-      "time": "2026-05-29 22:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智利4月銅產量同比驟降14%，製造業產出同樣下滑】智利國家統計局（INE）表示，全球最大的銅生產國智利4月份的銅產量同比大幅下降13.8%。官方資料顯示，智利當月的銅產量從去年同期的46.4056萬噸降至39.9954萬噸。這一降幅主要是由於採礦業面臨著“去年同期的高對比基數，以及該行業幾家主要企業的礦石品位（含銅量）出現下降”。"
-    },
-    {
-      "id": "4907515",
-      "time": "2026-05-29 22:39:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國要求，依據《美墨加協定》生產的汽車，其零部件美國本土佔比至少達 50%】據知情人士透露，特朗普政府擬修改《美墨加協定》，要求汽車零部件及原材料中半數產自美國，方可享受協定規定的低關稅待遇。該新規將大幅提高《美墨加協定》框架下汽車的美國本土零部件價值佔比要求。目前協定僅規定車輛原材料需有四分之三產自北美地區，並未單獨設定美國本土含量標準。這份新提案是為《美墨加協定》修訂談判預先擬定的。該協定由特朗普在 2020 年簽署，今年將接受審議。本週美國代表團已前往墨西哥城，與墨西哥政府就該協定展開首輪正式磋商。"
-    },
-    {
-      "id": "4907514",
-      "time": "2026-05-29 22:38:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家資料局黨組書記、局長劉烈宏赴廣州市開展調研】5月18日至20日，國家資料局黨組書記、局長劉烈宏一行赴廣東省廣州市，圍繞行業高質量資料集、資料基礎設施建設等情況進行調研。劉烈宏先後到廣州網際網路法院、琶洲模方、廣州國家實驗室、樹根科技、廣汽集團、南航集團等開展實地調研。劉烈宏指出，廣州積極拓展資料要素價值釋放的實踐和路徑，在推進司法、生物健康、工業製造等領域高質量資料集建設，賦能人工智慧行業模型高質量發展，加快資料編織等新技術在資料基礎設施建設中應用落地，提升設施效能等方面紮實開展工作，取得了良好的階段性成效。劉烈宏強調，要深入推進資料要素市場化配置改革，堅持“人工智慧+”到哪裡，高質量資料集就建設到哪裡，不斷提升高質量資料集供給能力。要以海量資料應用場景為牽引，搭建資料可管、可控、可計量的流通利用環境，為資料要素價值釋放提供基礎底座。（國家資料局）"
-    },
-    {
-      "id": "4907513",
-      "time": "2026-05-29 22:37:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "奧地利外交部長表示，因俄方近期升級局勢，她已召見俄羅斯駐維也納大使，並稱 “歐洲不會被嚇倒”。"
-    },
-    {
-      "id": "te:markets:555016",
-      "time": "2026-05-29 22:37:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rises on Ceasefire Hopes but Heads for 2% Monthly Drop — Gold climbed for a second straight session to $4,530 an ounce on Friday after reports that the US and Iran may extend their ceasefire. However, prices remained on track for a 2% monthly decline, pressured by inflation concerns and expectations of prolonged higher interest rates. Negotiations to end the three-month war continued, with reports of a tentative 60-day ceasefire extension to allow formal talks, though President Trump has yet to approve the agreement. Despite potential progress, bullion faced headwinds as disruptions to shipping and energy infrastructure could keep oil prices elevated, maintaining a cautious stance from the Federal Reserve. US inflation data this month showed the fastest rise in three years in April, reinforcing expectations that the Fed will keep rates unchanged well into 2027. Elsewhere, gold demand in India stayed weak due to high prices and import duties, while premiums in top consumer China narrowed amid cautious market sentiment."
-    },
-    {
-      "id": "4907512",
-      "time": "2026-05-29 22:37:28",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【聯合國人權高專呼籲加強兒童網路保護】聯合國人權事務高階專員沃爾克·圖爾克29日呼籲各國政府和科技公司採取更有力措施，為兒童打造更加安全的網路環境，並強調要進行有效的監管、監督和問責。圖爾克在一份宣告中說：“數字世界將兒童與學習、社群和創造力連線起來，同時也使他們的安全、隱私和福祉面臨切實風險。”他指出，兒童面臨的網路危害並非不可避免，它們源於那些破壞安全性的設計選擇和商業行為，例如無限滾動、內容自動播放以及應用程式的持續通知等成癮性設計功能。“加強對兒童在網路環境中的保護是一項緊迫的優先事項，我們要確保這項工作不僅要做成，而且要做對。”圖爾克說。針對部分國家出臺法規限制兒童和青少年群體使用社交媒體的做法，圖爾克表示，相關措施並不能一勞永逸地解決問題。為了有效保護兒童，政府和企業需要採取更廣泛行動，確保網路平臺在設計之初就將安全性納入考量，實施資料保護，對造成傷害的人進行問責，並使兒童的權利和需求始終得到充分尊重。他還指出，無論採取何種規定，都應避免無意中造成進一步傷害。例如，年齡驗證操作不當不僅可能達不到預期目的，還會危及兒童和成年人的隱私等。聯合國人權事務高階專員辦事處當天還發布“正確保障兒童網路安全”的十項指導原則，相關建議措施包括在年齡驗證流程中設定保障機制，強制進行兒童權利影響評估等。（新華社）"
-    },
-    {
-      "id": "4907511",
-      "time": "2026-05-29 22:36:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗和阿曼外長通話 討論了雙邊關係和地區局勢】伊朗外交部稱，伊朗外長阿拉格齊和阿曼外長阿布賽義德今天透過電話討論了雙邊關係和地區局勢。伊朗外長表示，與美國達成最終協議取決於美國方面停止其過度要求和變化多端的立場，並強調伊朗在追求合法權益和正當利益方面是認真的和堅定的。阿拉格齊讚揚阿曼在與地區和平與安全相關問題上的原則性和負責任的立場，同時對美國對阿曼的威脅言論表示譴責，並指出，阿曼和伊朗為在霍爾木茲海安全和順暢的航運管理所採取的負責任措施是基於國際法規則，並符合全球社會的利益。伊朗外長還譴責以色列在黎巴嫩和被佔領的巴勒斯坦的罪行，強調地區國家、伊斯蘭合作組織和聯合國在採取緊急行動以制止對黎巴嫩的侵略和持續的種族滅絕方面的道德和法律責任。"
-    },
-    {
-      "id": "mkt:019e742a-7fb1-7eef-a0f1-462f6145f226",
-      "time": "2026-05-29 22:36:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Iran, Oman foreign ministers speak by phone on bilateral ties and regional security】Iran's foreign ministry said Iran's foreign minister and Oman's foreign minister spoke by phone on bilateral relations and the regional situation. Iran said any final agreement with the US depends on Washington ending what it called excessive, shifting demands and stressed Iran's firmness in defending its legitimate rights and interests. It praised Oman's principled, responsible stance on regional peace, condemned US threats to Oman, and said measures taken by Iran and Oman to secure the Strait of Hormuz and ensure smooth shipping are based on international law and serve global interests. Iran also condemned Israeli actions in Lebanon and the occupied Palestinian territories and urged regional states, the OIC and the UN to take urgent action to stop the aggression and ongoing genocide."
-    },
-    {
-      "id": "te:economy:555015",
-      "time": "2026-05-29 22:36:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Sri Lanka Trade Deficit Hits Record High — Sri Lanka’s trade deficit widened to $1.38 billion in April 2026, the largest gap since records began in 2002 and up 27% from a year earlier. Goods imports surged 45.7% year-on-year to $2.46 billion, driven by a 149.9% jump in fuel imports to $886 million amid soaring global oil prices linked to the Middle East conflict and higher import volumes. Motor vehicle imports also totaled $208 million. Meanwhile, exports increased 10.9% to $1.07 billion. In the first four months of 2026, the trade deficit widened to $3.7 billion from $2.3 billion in the same period of 2025."
-    },
-    {
-      "id": "4907510",
-      "time": "2026-05-29 22:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國－蘇利南建交50週年招待會在京舉行】5月28日，中國人民對外友好協會與蘇利南駐華使館在京共同舉辦慶祝中國－蘇利南建交50週年招待會。（新華社）"
     }
   ]
 }
