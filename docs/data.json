@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-06 01:17:10",
-  "count": 18758,
+  "updated": "2026-06-06 01:20:56",
+  "count": 18756,
   "items": [
+    {
+      "id": "te:economy:556996",
+      "time": "2026-06-06 01:20:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica Deflation Eases in May — Costa Rica's consumer prices fell 0.97% year-on-year in May 2026, following a 1.64% decline in April, extending the country's deflationary trend. The decrease was mainly driven by lower prices for food (-3.89%), clothing and footwear (-2.69%), housing and utilities (-1.20%), furniture and household services (-2.04%), information and communication (-0.96%), and insurance and financial services (-0.55%). Meanwhile, the largest price increases were recorded in education (2.75%), alcoholic beverages and tobacco (2.21%), and healthcare (1.72%). On a monthly basis, consumer prices rose 0.27% in May, reversing a 0.04% decline in April."
+    },
+    {
+      "id": "mkt:019e98cb-1dde-7665-830a-a97dc618c45a",
+      "time": "2026-06-06 01:18:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $761 million from five counterparties in fixed-rate reverse repo operations."
+    },
     {
       "id": "4920240",
       "time": "2026-06-06 01:16:29",
@@ -172720,41 +172742,6 @@
         "其他"
       ],
       "text": "英國央行行長貝利：私人信貸領域已出現承壓跡象。"
-    },
-    {
-      "id": "mkt:019e74c0-5099-7bb7-9964-e18836989244",
-      "time": "2026-05-30 01:20:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England Governor Bailey said the second phase of Glasswing has not yet started."
-    },
-    {
-      "id": "4907671",
-      "time": "2026-05-30 01:19:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：應對網路風險必須採取國際協作方式。"
-    },
-    {
-      "id": "4907670",
-      "time": "2026-05-30 01:18:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：Glasswing 第二階段尚未啟動。"
-    },
-    {
-      "id": "4907669",
-      "time": "2026-05-30 01:18:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（5月29日），美聯儲隔夜逆回購協議（RRP）使用規模為116.77億美元（交易對手11家），上個交易日報11.63億美元。"
     }
   ]
 }
