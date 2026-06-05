@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-06 04:01:09",
-  "count": 18800,
+  "updated": "2026-06-06 04:05:00",
+  "count": 18796,
   "items": [
+    {
+      "id": "4920363",
+      "time": "2026-06-06 04:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普維持瑞典主權信用評級 AAA/A-1+，評級展望穩定。"
+    },
+    {
+      "id": "4920362",
+      "time": "2026-06-06 04:03:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克蘇萊曼尼亞傳出爆炸聲。"
+    },
+    {
+      "id": "4920361",
+      "time": "2026-06-06 04:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "半導體指數收盤下跌10%，創2020年3月以來最大跌幅。"
+    },
+    {
+      "id": "4920360",
+      "time": "2026-06-06 04:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "寶潔股價收盤上漲4.1%，創下自2024年1月以來最佳單日表現。"
+    },
+    {
+      "id": "te:markets:557008",
+      "time": "2026-06-06 04:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Rout Drags US Stocks Sharply Lower — US stocks fell sharply on Friday as a steep selloff in semiconductor shares rattled markets. The Nasdaq dropped more than 4%, marking its worst session since April 2025, while the S&P 500 lost 2.6%. The Dow Jones declined 1.4% after reaching a record high the previous day. Chipmakers led the retreat, with Broadcom falling more than 7% following a double-digit decline on Thursday. Marvell Technology and Micron Technology plunged about 12% and 11%, respectively, while Intel and AMD lost more than 9% and 10%. The weakness came after stronger-than-expected jobs data showed the US economy added 172,000 positions in May, far exceeding forecasts. The report pushed Treasury yields higher, with the 10-year yield rising above 4.5% and the 30-year yield topping 5%, fueling concerns that elevated borrowing costs could weigh on economic growth and investment. For the week, the S&P 500 fell more than 2%, while the Nasdaq lost around 4%."
+    },
+    {
+      "id": "4920359",
+      "time": "2026-06-06 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.35%，標普500指數跌2.64%，納指跌4.10%。邁威爾科技跌15.89%，Arm Holdings跌12.75%，美光跌12.46%，泰瑞達跌12.16%，英特爾跌11.51%。“七姐妹”方面：谷歌跌0.86%，蘋果跌1.09%，微軟跌2.57%，亞馬遜跌2.98%，Meta Platforms跌5.53%，英偉達跌5.93%，特斯拉跌6.59%。"
+    },
     {
       "id": "4920358",
       "time": "2026-06-06 04:00:39",
@@ -173147,107 +173200,6 @@
         "其他"
       ],
       "text": "標普：確認南非外幣評級“BB”，本幣評級“BB+”；展望維持正面。"
-    },
-    {
-      "id": "4907790",
-      "time": "2026-05-30 04:04:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認南非評級；展望正面。"
-    },
-    {
-      "id": "mkt:019e7556-a31e-7bb7-9966-8d7e150ddcf4",
-      "time": "2026-05-30 04:04:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "May 29 (Friday) — U.S. equities closed higher: the Dow Jones Industrial Average rose 363.49 points (+0.72%) to 51,032.46; the S&P 500 gained 16.45 points (+0.22%) to 7,580.08; the Nasdaq Composite added 55.15 points (+0.20%) to 26,972.62."
-    },
-    {
-      "id": "mkt:019e7556-6dc1-7bb7-9966-87fb531e31da",
-      "time": "2026-05-30 04:04:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "S&P affirms Hungary's BBB-/A-3 sovereign ratings; outlook negative. S&P affirms Lithuania's A/A-1 sovereign ratings; outlook stable."
-    },
-    {
-      "id": "4907789",
-      "time": "2026-05-30 04:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認立陶宛“A/A-1”評級；展望穩定。"
-    },
-    {
-      "id": "te:markets:555057",
-      "time": "2026-05-30 04:03:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Post Strong Monthly Gains — US equities rose to record highs on Friday as markets gauged the sustainability of the AI rally and assessed the outlook of oil supply from the Middle East and its impact on inflation. The S&P 500 and Nasdaq each rose 0.2%, while the Dow Jones gained 0.8%. On a monthly basis, the Nasdaq jumped around 8%, the S&P 500 advanced 5%, and the Dow rose 2%. Reports indicated yesterday that the US and Iran have agreed to a 60-day memorandum that would extend the ongoing ceasefire and start the progress of restoring vessel flows through the Strait of Hormuz, although President Trump has not yet signed-off on the deal. Energy prices and bond yields retreated to deliver broad, although muted, support to the stock market. The financial and consumer defensive sectors were cautiously higher. Microsoft gained 5.4% and Oracle rose over 10%, with AI software supported by a new investment round in Anthropic. Also, Dell surged over 30% as its AI server business boosted its latest guidance."
-    },
-    {
-      "id": "4907788",
-      "time": "2026-05-30 04:02:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認匈牙利“BBB-/A-3”評級；展望負面。"
-    },
-    {
-      "id": "4907787",
-      "time": "2026-05-30 04:02:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "AST SPACEMOBILE 股票下跌 15%，創下自 2 月 12 日以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:019e7554-c84c-7bb7-9966-7891031c24c3",
-      "time": "2026-05-30 04:02:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Star Stocks",
-        "Alibaba",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "IBM.N"
-      ],
-      "text": "【US close: S&P 500 posts ninth straight weekly gain; major indexes tick higher】US stocks closed modestly higher on Friday: Dow Jones Industrial Average +0.72% (preliminary), S&P 500 +0.22%, Nasdaq Composite +0.20%. IBM (IBM.N) rose more than 12%, Oracle (ORCL.N) gained over 10% and Qualcomm (QCOM.O) climbed over 3%. The Nasdaq Golden Dragon China Index was flat; Baidu (BIDU.O) +2.4%, Alibaba (BABA.N) -1.5%. For the month the S&P 500 advanced 5.15%, the Nasdaq 8.36% and the Dow 2.78%. The S&P 500 extended its weekly winning streak to nine weeks, the longest run since December 2023."
-    },
-    {
-      "id": "4907786",
-      "time": "2026-05-30 04:02:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "蓋璞股價收跌16%，創近一年來最大跌幅，此前該公司下調了業績預期。"
-    },
-    {
-      "id": "4907785",
-      "time": "2026-05-30 04:01:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數錄得連續第九週上漲，為2023年12月以來最長連漲週期。"
     }
   ]
 }
