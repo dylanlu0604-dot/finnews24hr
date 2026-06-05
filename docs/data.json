@@ -1,7 +1,212 @@
 {
-  "updated": "2026-06-05 15:58:11",
-  "count": 18842,
+  "updated": "2026-06-05 16:02:21",
+  "count": 18839,
   "items": [
+    {
+      "id": "te:markets:556822",
+      "time": "2026-06-05 16:01:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ticks Lower — The FTSE MIB fell slightly around 50,000 on Friday, following a modest gain in the previous session, with tech-related stocks leading the index lower. This comes as investor enthusiasm for artificial intelligence eased after a weaker-than-expected earnings report from Broadcom. Leading the losses were STMicroelectronics, down more than 3%, and Prysmian, which declined 1%. These were partially offset by gains in most heavyweight financials, including Mediobanca (+1.1%), Bper Banca (+0.5%), Unipol Gruppo (+0.9%), Banca Mediolanum (+0.9%), FinecoBank (+1%), and Banca Monte dei Paschi di Siena (+1.2%). Meanwhile, the benchmark index is set for a small weekly increase after a volatile week. The swings were driven by shifting Middle East developments, including an escalation of hostilities in the region and stalled US-Iran negotiations."
+    },
+    {
+      "id": "4919066",
+      "time": "2026-06-05 16:01:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "烏克蘭央行表示，截至6月1日，烏克蘭外匯儲備為457億美元。"
+    },
+    {
+      "id": "mkt:019e96cc-fc20-711f-98a9-13d6f1eed3ba",
+      "time": "2026-06-05 16:01:00",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange stocks: nickel unchanged; tin +260 t; zinc -950 t; lead -2,175 t; copper -750 t; aluminium -2,000 t."
+    },
+    {
+      "id": "4919065",
+      "time": "2026-06-05 16:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500迷你股指期貨下跌0.6%，納斯達克100股指期貨下跌1.13%，道瓊斯股指期貨持平。"
+    },
+    {
+      "id": "4919064",
+      "time": "2026-06-05 16:00:45",
+      "tags": [
+        "宏觀",
+        "行業",
+        "焦點"
+      ],
+      "text": "【國務院食安辦成立工作組督導查處“望奎雙匯豬肉抗生素超標問題”】針對近日媒體反映的“望奎雙匯豬肉抗生素超標問題”，國務院食安辦高度重視，會同公安部、農業農村部、市場監管總局成立工作組，赴實地督促指導核查處置工作，嚴肅查處違法違規行為，切實守牢食用農產品質量安全底線。（市說新語）"
+    },
+    {
+      "id": "mkt:019e96cc-8c3c-711f-98a9-0e2d17c992bb",
+      "time": "2026-06-05 16:00:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "288.HK",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "China's State Council Food Safety Office has set up a working group to oversee investigation and enforcement of antibiotic residues above legal limits in pork linked to Shuanghui in Wangkui."
+    },
+    {
+      "id": "4919063",
+      "time": "2026-06-05 16:00:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Lululemon股價盤前跌超11%】Lululemon股價盤前跌超11%，因公司下調全年營收指引。"
+    },
+    {
+      "id": "mkt:019e96cc-5570-711f-98a9-04f131ed8262",
+      "time": "2026-06-05 16:00:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan May seasonally adjusted CPI MoM 0.26%, prior 0.47%."
+    },
+    {
+      "id": "mkt:019e96cc-5250-711f-98a8-fb9a2e2502cc",
+      "time": "2026-06-05 16:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | CPI (MoM) (May) | actual 0.26% | previous 0.47%"
+    },
+    {
+      "id": "mkt:019e96cc-2971-711f-98a8-f40d8cbd4426",
+      "time": "2026-06-05 16:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN, citing unnamed sources, reports Israeli special forces were deployed to Azerbaijan during the war with Iran as part of a network of covert bases across the Middle East to facilitate operations against Iran."
+    },
+    {
+      "id": "mkt:019e96cc-1315-711f-98a8-ed013463ab40",
+      "time": "2026-06-05 16:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan May consumer price index (not seasonally adjusted) up 2.2% YoY, vs 2.1% expected and 1.74% in April."
+    },
+    {
+      "id": "mkt:019e96cb-e2a9-711f-98a8-e070b1a41e72",
+      "time": "2026-06-05 16:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | CPI (YoY) (May) | actual 2.2% | consensus 2.1% | previous 1.74%"
+    },
+    {
+      "id": "te:markets:556820",
+      "time": "2026-06-05 15:59:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Rises as Markets Anticipate ECB Tightening — The euro climbed further above $1.16 as investors prepared for a likely European Central Bank interest rate hike next week, while maintaining cautious optimism about a potential Middle East resolution. Markets now price in a near-certain 25-basis-point ECB rate increase at the June 11 meeting, with two or possibly three hikes expected this year. This follows data showing euro-area inflation hit 3.2% in May, its highest in over two and a half years, with core and services inflation accelerating, signaling broadening price pressures beyond energy. However, uncertainty remains as policymakers balance high inflation with sluggish economic growth. ECB hawk Isabel Schnabel cautioned on Monday that it is premature to specify the number of rate hikes needed. Meanwhile, US-Iran negotiations continued, and military clashes between Lebanon and Israel persisted despite a pending US-brokered ceasefire."
+    },
+    {
+      "id": "4919062",
+      "time": "2026-06-05 15:58:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：Vera Rubin是英偉達穩住高市佔率的關鍵】摩根士丹利分析師約瑟夫・摩爾團隊更新英偉達評級報告：當前英偉達AI晶片市佔率約85%，近兩年來份額未見流失。摩爾在研報中寫道：Vera Rubin平臺是英偉達維繫超高市場份額的核心抓手。 分析師表示，英偉達自研CPU並非為填補行業CPU缺貨缺口，產品從底層架構就是面向AI算力負載定製。 英偉達給出本年度伺服器CPU營收200億美元指引，該數值對標行業頭部廠商，釋出之初市場普遍存疑；但機構調研頭部大客戶後確認，該產品線潛在出貨體量空間龐大。 大摩維持英偉達增持（買入）評級，目標價288美元，定價邏輯為2027年加權每股收益13.08美元、對應22倍市盈率。 摩爾認為，對標AMD、博通、英特爾等同賽道算力晶片企業，英偉達當前估值存在折價；但受超高市佔率與高毛利率約束，短期內估值進一步抬升空間有限。"
+    },
+    {
+      "id": "4919061",
+      "time": "2026-06-05 15:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國港灣中標象牙海岸阿比讓油服碼頭專案】6月5日，據中國港灣訊息，中國港灣於近日中標象牙海岸阿比讓油氣服務碼頭專案。專案位於象牙海岸阿比讓市AZITO工業區，主要建設內容包括新建300米油氣服務碼頭、8.2公頃陸域形成及地基處理工程、碼頭前沿及航道疏浚工程，以及道路、堆場、水電通訊和導助航等附屬設施。"
+    },
+    {
+      "id": "4919060",
+      "time": "2026-06-05 15:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普拆除提供氣候與洪水關鍵資料的海洋觀測裝置】特朗普政府決定拆除價值3.86億美元的聯邦海洋觀測網路的大部分設施，這將使科學家失去一個不可替代的資料來源，而這些資料原本用於瞭解氣候變化如何影響關鍵洋流和海洋生態系統，以及如何加劇沿海洪水風險。“沒有其他系統具備這種全面性，”美國國家海洋和大氣管理局(National Oceanic and Atmospheric Administration)前代理首席科學家、現任海洋基金會(Ocean Foundation)高階研究員克雷格·麥克萊恩(Craig McLean)表示。他指出，其他監測網路雖能提供有價值的資訊，但僅能呈現整體監測資料的“零星片段”。"
+    },
+    {
+      "id": "4919059",
+      "time": "2026-06-05 15:57:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：股市泡沫程度創2008年以來新高，但尚未過熱】花旗熊市預警指標顯示，全球股市當前泡沫化程度達到2008年全球金融危機之後峰值，但整體仍未陷入過熱狀態。由貝婭塔・曼泰牽頭的花旗研究團隊撰文表示，儘管全球股指逼近歷史高位，但該行熊市清單指標（BMC）並未釋放市場過度狂熱的訊號。因此策略師維持股市偏多觀點，不過倘若該指標進一步惡化，將不再建議逢低佈局。"
+    },
+    {
+      "id": "4919058",
+      "time": "2026-06-05 15:57:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日產汽車敲定多款中國量產車型海外投放路線】6月5日，日產汽車宣佈Navara Pro插電式混合動力皮卡和全新Primera純電轎車亮相菲律賓國際車展。兩款新車均為日產汽車從中國出口的車型。據日產汽車介紹，在整車出口規劃中，日產汽車已敲定多款中國量產車型的海外投放路線。N7將出口拉丁美洲、東南亞市場，鋒坦Frontier Pro則將出口至拉美、東南亞與中東區域。此外，NX8和其它車型也計劃出口至全球特定市場。"
+    },
+    {
+      "id": "4919057",
+      "time": "2026-06-05 15:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯源通訊：2025年度定增獲深交所終止稽核】匯源通訊公告，公司於2026年5月31日召開第十三屆董事會第九次會議，決定終止2025年度向特定物件發行股票事項，並向深交所申請撤回相關申請檔案。2026年6月5日，公司收到深交所出具的《關於終止對四川匯源光通訊股份有限公司申請向特定物件發行股票稽核的決定》。根據相關規定，深交所決定終止對公司申請向特定物件發行股票的稽核。"
+    },
+    {
+      "id": "mkt:019e96c9-0be4-711f-98a8-dc53b33e7db6",
+      "time": "2026-06-05 15:56:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "Alphabet",
+        "Amazon",
+        "Meta Platforms",
+        "Microsoft",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Foxconn May sales surge 39.6%; AI servers overtake smartphones as top revenue source】Foxconn's May sales rose 39.6% YoY to NT$859.4bn; two-month sales reached NT$1.69tln (US$53.6bn). Analysts' consensus projects Q2 revenue up about 32% YoY. Foxconn, a major assembler of NVIDIA accelerator servers and Apple iPhone/MacBook units, said its AI-server business is expected to expand sharply by 2026; server assembly has overtaken smartphones over the past year to become its largest revenue contributor, reflecting a global AI data-center buildout. Alphabet, Amazon, Meta and Microsoft have committed roughly US$725bn to AI spending this year, supporting demand, though concerns over potential overcapacity and AI monetization persist."
+    },
+    {
+      "id": "4919056",
+      "time": "2026-06-05 15:56:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德勤：印度國債減稅舉措將使外資組合投資者收益提升20%】德勤印度合夥人拉傑什・H・甘地表示，印度取消境外投資者投資本國國債相關稅費的政策，將幫助外資組合投資者（FPI）投資回報率提升15%至20%。他稱，該政策將拉大印度主權債券相對他國債券的投資收益差值，進一步提升印度債市的投資吸引力。此前稅費是印度納入全球債券指數的主要阻礙，此次減稅也讓印度被納入相關指數的實際意義大幅提升。僅投資國債的境外組合投資者無需再履行報稅等涉稅申報義務。中長期來看，本次減稅有望緩解印度盧比的匯率下行壓力。"
+    },
     {
       "id": "4919055",
       "time": "2026-06-05 15:55:56",
@@ -173375,224 +173580,6 @@
         "宏觀"
       ],
       "text": "【市場監管總局：構建行為更加規範、執行更加有序、安全更有保障的嬰幼兒輔助食品市場環境】市場監管總局印發《嬰幼兒輔助食品安全監管“守護成長”提升行動工作方案》。其中提出，到2026年底，取得以下階段性成效：推動嬰幼兒輔助食品生產經營企業安全意識進一步加強、制度機制進一步健全、防控能力進一步提升、安全水平進一步得到保障；構建行為更加規範、執行更加有序、安全更有保障的嬰幼兒輔助食品市場環境。全面核查屬地嬰幼兒輔助食品生產企業的生產條件是否持續合規，重點核查廠房佈局、生產工藝、裝置設施、管理制度等專案是否持續符合《嬰幼兒輔助食品生產許可審查細則》要求，督促企業及時整改存在的問題。省級市場監管部門要嚴格按照《食品生產許可管理辦法》的規定，核發嬰幼兒輔助食品生產許可。嚴格生產許可延續，對抽檢不合格、檢查有問題的企業，做好生產許可與日常監管銜接，確保查明原因、整改到位、安全可控。"
-    },
-    {
-      "id": "mkt:019e72c1-4bd6-7dd4-ae47-c64c2ddcd81f",
-      "time": "2026-05-29 16:02:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Cyberspace Administration launches two-month drive to curb malicious online hype of enterprise-related information】May 29 — The Cyberspace Administration of China issued a notice launching a nationwide, two-month campaign titled “Clean and Optimise the Business Network Environment: Tackle Malicious Hype of Enterprise-related Information.” The campaign will swiftly and strictly clear and dispose of maliciously hyped or infringing enterprise-related content and accounts, require websites and platforms to fulfil their primary responsibilities, strengthen enterprise-information content management mechanisms, and intensify handling of infringing information to optimise the online business environment and safeguard healthy enterprise development."
-    },
-    {
-      "id": "4906560",
-      "time": "2026-05-29 16:01:42",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【整治惡意炒作涉企資訊 中央網信辦啟動專項行動】5月29日，中央網信辦釋出關於開展“清朗·最佳化營商網路環境整治惡意炒作涉企資訊”專項行動的通知。即日起，在全國範圍內啟動為期2個月的“清朗·最佳化營商網路環境 整治惡意炒作涉企資訊”專項行動。透過專項行動，集中整治惡意炒作涉企侵權資訊亂象，從嚴從快清理處置涉企侵權資訊、賬號，督促網站平臺紮實履行主體責任，健全涉企資訊內容管理機制，加大涉企侵權資訊處置力度，進一步最佳化營商網路環境，護航企業健康發展。"
-    },
-    {
-      "id": "4906559",
-      "time": "2026-05-29 16:01:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500 E-迷你股指期貨上漲0.1%，納斯達克100股指期貨持平，道指期貨上漲0.1%。"
-    },
-    {
-      "id": "4906558",
-      "time": "2026-05-29 16:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前多數下跌，理想汽車跌3%】美股中概股盤前多數下跌，貝殼漲1%，百度漲0.6%，攜程跌0.2%，拼多多跌0.3%，京東、阿里巴巴跌1%，蔚來跌2%，理想汽車跌3%。"
-    },
-    {
-      "id": "4906557",
-      "time": "2026-05-29 16:01:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數下跌，亞馬遜跌0.7%】美股大型科技股盤前多數下跌，微軟、英偉達漲0.4%，Meta、特斯拉、谷歌A跌0.2%，蘋果跌0.3%，亞馬遜跌0.7%。"
-    },
-    {
-      "id": "4906556",
-      "time": "2026-05-29 16:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江商學院：5月中國企業經營狀況指數小幅回落至50.5%】5月中國企業經營狀況指數（BCI ）錄得50.5，較4月的50.8小幅回落。"
-    },
-    {
-      "id": "4906555",
-      "time": "2026-05-29 16:01:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商局資本投資有限責任公司原副總經理馮紅濤接受監察調查】中央紀委國家監委網站5月29日通報，據中央紀委國家監委駐招商局集團紀檢監察組、廣東省紀委監委訊息：招商局資本投資有限責任公司原副總經理馮紅濤涉嫌嚴重違法，目前正接受中央紀委國家監委駐招商局集團紀檢監察組和廣東省中山市監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:019e72c0-6dd9-7002-9af4-d4d733cd027e",
-      "time": "2026-05-29 16:01:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Italy unemployment rate 5.1% in April, vs 5.3% expected and 5.2% prior — down 10 bps from prior and 20 bps below expectations."
-    },
-    {
-      "id": "4906554",
-      "time": "2026-05-29 16:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "網信辦：關於開展“清朗·最佳化營商網路環境 整治惡意炒作涉企資訊”專項行動。"
-    },
-    {
-      "id": "mkt:019e72c0-401c-7002-9af4-ca683f2e973b",
-      "time": "2026-05-29 16:01:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Unemployment Rate Flash (Apr) | actual 5.1% | consensus 5.30% | previous 5.20%"
-    },
-    {
-      "id": "4906553",
-      "time": "2026-05-29 16:00:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "戴爾美股盤前大漲逾39%，公司Q1營收增長88%，AI收入暴增757%，全年指引大幅上調。"
-    },
-    {
-      "id": "te:markets:554855",
-      "time": "2026-05-29 16:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Rises by 1.24% — Top commodity gainers are Natural Gas EU (1.24%), Natural Gas UK (1.02%) and Natural gas (0.83%). Biggest losers are Crude Oil WTI (-0.21%) and Brent Crude Oil (-0.09%)."
-    },
-    {
-      "id": "4906552",
-      "time": "2026-05-29 15:59:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【劉慶峰：有信心，訊飛AI眼鏡會成為每個人眼前的超級助理】5月29日下午訊息，於天津舉辦的2026世界智慧產業博覽會上，科大訊飛董事長劉慶峰重點提及了公司近期釋出的AI智慧眼鏡，並表態道：“我們有信心，它會成為每個人眼前的超級助理，有了最好的人機對話系統，人們可以把很多設想的能力變成現實。”（新浪科技）"
-    },
-    {
-      "id": "4906551",
-      "time": "2026-05-29 15:59:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國醫藥：子公司卡絡磺鈉注射液透過仿製藥一致性評價】中國醫藥公告稱，下屬全資子公司康力藥業收到國家藥監局核准簽發的三份卡絡磺鈉注射液《藥品補充申請批准通知書》，該藥品透過仿製藥質量和療效一致性評價。該藥品用於多種出血疾病，截至公告披露日，累計投入約492萬元。2025年中國三大終端六大市場銷售額約1279萬元，康力藥業當年未銷售該藥品。透過一致性評價有助於提升競爭力、拓展份額，但受不確定因素影響，藥品未來銷售可能不達預期。"
-    },
-    {
-      "id": "4906550",
-      "time": "2026-05-29 15:59:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商港口：2026年短期公司債券（第一期）6月1日起深交所上市】招商港口公告稱，公司2026年面向專業投資者公開發行短期公司債券（第一期）符合深交所債券上市條件，將於2026年6月1日起在深交所上市，面向專業投資者中的機構投資者交易。債券簡稱“26招港D1”，程式碼524813.SZ，發行總額10億元，期限190天，票面年利率1.32%，到期一次性還本付息，到期日為2026年12月2日。"
-    },
-    {
-      "id": "4906549",
-      "time": "2026-05-29 15:59:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天海電子：擬以4.94億元募集資金置換預先投入自籌資金】天海電子公告稱，公司首次公開發行股票募集資金總額21.48億元，扣除發行費用後，實際募集資金淨額為20.06億元。截至2026年5月13日，公司以自籌資金預先投入募投專案4.79億元，已用自籌資金支付發行費用1519.73萬元。公司決定以募集資金置換預先投入募投專案及已支付發行費用的自籌資金，置換金額合計4.94億元。"
-    },
-    {
-      "id": "mkt:019e72be-8ee9-7002-9af4-c35566c097f6",
-      "time": "2026-05-29 15:59:11",
-      "tags": [
-        "MKT News",
-        "TM.N",
-        "Impact bearish"
-      ],
-      "text": "【Toyota pauses development of next-generation Lexus EV】Toyota has paused development of the next-generation Lexus electric vehicle amid weak demand and the removal of US subsidies and is conducting a wider review of new projects. The LF‑ZC, originally targeted for a mid-2027 launch, was to include integrated die-casting and a lower-cost, faster-charging battery; Toyota said those technologies will be applied to other models. The move highlights automakers recalibrating electrification plans as EV demand growth slows and policy incentives become less certain. Toyota initially aimed for a 2026 production model; a spokesperson declined to comment on revised timing, though earlier reports said the schedule has been pushed to next year."
-    },
-    {
-      "id": "4906548",
-      "time": "2026-05-29 15:58:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天元智慧：子公司500萬元認購私募基金12.25%份額】天元智慧公告稱，公司全資子公司澤煜未來與普通合夥人金拓資本等簽署合夥協議，以自有資金500萬元認購深圳星拓智神創業投資合夥企業12.25%份額。基金規模4083萬元，存續期為2026年5月25日至2036年5月25日，投資範圍為北京星河動力航天科技股份有限公司股權投資專案。本次投資未達審議標準，不構成關聯交易和重大資產重組，但基金未完成備案，存在收益不及預期風險。"
-    },
-    {
-      "id": "te:markets:554853",
-      "time": "2026-05-29 15:58:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE Edges Up, Set for Monthly Gain — The FTSE 100 edged slightly higher on Friday and remained on track for another monthly gain, rising 0.6% in May after a 2% increase in April, though the index is still around 4.4% below levels seen before the war began. Sentiment was supported by positive developments in the Middle East after reports that the US and Iran agreed to extend their ceasefire by 60 days, pending approval from President Donald Trump. Oil prices moved lower on expectations that the truce could hold. AstraZeneca gained around 1% after its blockbuster drug Imfinzi received US approval for the treatment of early bladder cancer. Defence stocks also advanced, with BAE Systems up 0.9% and Rolls Royce gaining 1.1%. Among banks, Lloyds and Barclays rose 0.7% and 1.2% respectively, while HSBC edged lower. Unilever also declined, while BAT dropped more than 1.5% and GSK fell over 0.5%."
-    },
-    {
-      "id": "4906547",
-      "time": "2026-05-29 15:58:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST康佳A、*ST康佳B：連續12個月累計訴訟仲裁金額7.37億元】*ST康佳A、*ST康佳B公告稱，截至公告披露日，公司及控股公司連續十二個月內新發生累計訴訟、仲裁金額合計7.37億元，佔公司最近一期經審計淨資產絕對值的12.12%。其中，作為原告或申請人的訴訟、仲裁金額為151.77萬元；作為被告或被申請人、第三人的訴訟、仲裁金額為7.36億元。部分訴訟案件未判決，尚無法判斷對公司利潤的影響，公司將密切關注進展並及時披露。"
-    },
-    {
-      "id": "4906546",
-      "time": "2026-05-29 15:58:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【廣州“十五五”規劃綱要：拓展多元化投融資渠道。積極盤活存量資產】廣州市國民經濟和社會發展第十五個五年規劃綱要釋出。其中提出，拓展多元化投融資渠道。積極盤活存量資產，聚焦使用者付費，規範實施政府和社會資本合作（PPP）新機制，加快推動存量資產透過發行基礎設施領域不動產投資信託基金（REITs）、產權轉讓、資產重組等方式進行盤活。加快推動超甲級和甲級商務樓宇、酒店、商業綜合體等優質專案申報發行商業不動產投資信託基金。積極爭取超長期特別國債、中央預算內投資、地方政府專項債券、新型政策性金融工具等各類政策性資金，最佳化中央政策性資金管理機制，加強專款專用、專戶管理，提高專案資金支付比例。強化財政與金融協同，持續加強投債貸聯動，促進投資效益不斷提升。"
-    },
-    {
-      "id": "4906545",
-      "time": "2026-05-29 15:58:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【橫店影視：電影《火遮眼》已定檔6月11日在全國上映】橫店影視5月29日在互動平臺表示，電影《火遮眼》已定檔2026年6月11日在全國上映。"
-    },
-    {
-      "id": "4906544",
-      "time": "2026-05-29 15:58:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國寶安：下屬子公司大地和被法院受理破產清算申請】中國寶安公告稱，下屬子公司大地和近日收到寶安區法院的《民事裁定書》，法院裁定受理申請人對大地和提出的破產清算申請。公司持有大地和52.12%股權，其2025年營收7790.87萬元，淨虧損4402.53萬元。公司已對大地和股權投資及相關應收款項計提減值準備，該事項預計不會對公司當期利潤及淨資產產生超出已計提減值準備範圍的新增重大不利影響。"
-    },
-    {
-      "id": "te:economy:554852",
-      "time": "2026-05-29 15:58:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Private Investment",
-        "Importance 0"
-      ],
-      "text": "Thailand Private Investment Weakens Further in April — Private investment in Thailand tumbled by 5.0% month-on-month in April 2026, deepening from a 3.5% decline in the previous month. It marked the steepest decline since December 2023, driven primarily by private vehicle and machinery and equipment index. The downturn was mainly driven by weaker investment in private vehicles and machinery and equipment. However, several components of investment activity remained relatively resilient with imports of machinery and equipment and domestic sales of machinery and equipment also posted gains. In addition, private construction investment rose during the month, supported by continued activity in both residential and infrastructure-related projects."
     }
   ]
 }
