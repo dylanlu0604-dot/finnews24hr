@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-05 17:21:24_
-_本檔包含 3814 則快訊，約 699685 字_
+_更新時間：2026-06-05 17:29:41_
+_本檔包含 3816 則快訊，約 699273 字_
+
+---
+
+### 2026-06-05 17:28:41  #MKT News #Star Stocks #Tencent #00700.HK #Impact bullish
+
+Per HKEX filing, Tencent Holdings (00700.HK) bought back 1.1 mln shares on June 5 at a cost of HKD 500.4 mln.
+
+---
+
+### 2026-06-05 17:28:40  #央行 #其他
+
+【央行副行長陸磊出席加勒比開發銀行2026年年會】6月3日至4日，中國人民銀行副行長陸磊出席在巴哈馬舉行的加勒比開發銀行2026年年會，並代表區外非借款成員國在開幕式上致辭。參會各方就加勒比地區轉型和未來發展等議題進行交流。會議期間，陸磊會見了加勒比開發銀行行長丹尼爾·貝斯特，就加強雙邊合作等議題交換了意見。
+
+---
+
+### 2026-06-05 17:27:09  #其他
+
+【SEMI：一季度全球半導體裝置出貨金額同比增長14%】SEMI最新報告顯示，2026年第一季度全球半導體裝置出貨金額同比增長14%，達到365.5億美元，環比增長1%。創紀錄的季度銷售額由持續的AI相關投資驅動，包括支援先進邏輯晶片、DRAM和先進封裝的產能擴張和技術升級。
+
+---
+
+### 2026-06-05 17:26:58  #公司
+
+【三孚股份：控股股東已減持1%】三孚股份公告，控股股東唐山元亨科技有限公司原擬2026年3月9日至6月8日以集中競價減持不超382.6萬股、大宗交易不超765.2萬股。截止2026年6月5日已透過競價減持382萬股，佔總股本1%，未透過大宗減持，計劃完成。減持後持股9714.43萬股，佔25.3889%。成交均價50.55～52.82元/股，金額2億元。
+
+---
+
+### 2026-06-05 17:26:54  #公司
+
+【神州高鐵：為子公司提供9000萬元授信擔保】神州高鐵公告稱，公司近期為子公司提供合計9000萬元授信擔保。其中，為新聯鐵與光大銀行開展業務擔保8000萬元；為武漢利德與中信銀行、農業銀行開展業務分別擔保5000萬元、4000萬元；為南京拓控與招商銀行開展業務擔保3000萬元。截至公告披露日，公司累計擔保額度26.6億元，佔最近一期經審計淨資產121.60%；對外擔保餘額9.88億元，佔比45.17%，無逾期及涉訴擔保。
+
+---
+
+### 2026-06-05 17:26:45  #公司
+
+騰訊6月5日回購價值5.004億港元的股份。
+
+---
+
+### 2026-06-05 17:26:32  #國際
+
+烏克蘭無人機指揮官：烏克蘭無人機襲擊了位於馬裡烏波爾、別爾江斯克港口及俄羅斯佔領區沿海水域的五艘船隻。
+
+---
+
+### 2026-06-05 17:26:28  #公司
+
+【智元機器人、傑克科技在杭州成立具身智慧公司 註冊資本500萬】天眼查App顯示，6月5日，艾圖智元具身智慧科技（杭州）有限公司成立，法定代表人為張瀚文，註冊資本500萬人民幣，經營範圍包括軟體開發、智慧機器人的研發、智慧機器人銷售等，由智元機器人關聯公司智元創新（上海）科技股份有限公司、傑克科技（603337）旗下艾圖（浙江）智慧縫製科技有限公司共同持股。
+
+---
+
+### 2026-06-05 17:26:11  #公司
+
+【苑東生物：首次回購0.0251%公司股份，已支付207.09萬元】苑東生物公告，2026年6月5日，公司透過集中競價交易方式首次回購公司股份4.43萬股，佔公司總股本的比例為0.0251%，購買的最高價為46.89元/股、最低價為46.46元/股，成交總金額為207.09萬元（不含印花稅、交易佣金等交易費用）。
+
+---
+
+### 2026-06-05 17:25:42  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+A Ukrainian drone commander said Ukrainian drones struck five vessels at Mariupol and Berdiansk ports and in coastal waters of Russian-occupied areas.
+
+---
+
+### 2026-06-05 17:25:12  #公司
+
+【恆銀科技：王偉減持0.0077%，張雲峰未減持】恆銀科技公告，公司董事、執行總裁張雲峰持股104.58萬股，佔0.2009%，原計劃於2026年3月5日至2026年6月5日以集中競價方式減持不超過0.0502%，最終未減持；副總裁兼財務負責人王偉持股54.63萬股，佔0.1050%，期間於2026年5月8日集中競價減持40000股，減持價格9.13元/股，金額36.52萬元，佔總股本0.0077%，計劃已屆滿。
+
+---
+
+### 2026-06-05 17:25:05  #公司
+
+【中際聯合：為子公司中際香港1億元綜合授信提供擔保】中際聯合公告稱，為滿足全資子公司中際香港生產經營及業務發展的資金需要，其向招商銀行申請1億元綜合授信，公司為其提供連帶責任保證，不收取擔保費用和反擔保。該事項已透過公司第五屆董事會第一次會議審議，無需提交股東會。截至公告披露日，公司及全資子公司對外擔保總額4.1億元（含本次），佔2025年度經審計淨資產的13.95%，無逾期對外擔保情形。
+
+---
+
+### 2026-06-05 17:24:49  #公司
+
+【*ST八鋼：擬將持有的焦煤集團100%股權協議轉讓至八鋼公司】*ST八鋼公告，擬將持有的新疆焦煤（集團）有限責任公司100%股權協議轉讓至新疆八一鋼鐵集團有限公司，轉讓金額為13.6億元。本次交易構成關聯交易，未構成重大資產重組。
+
+---
+
+### 2026-06-05 17:24:16  #國際
+
+巴林大使：俄羅斯與海灣阿拉伯國家合作委員會部長級會議可能於10月在莫斯科舉行。
+
+---
+
+### 2026-06-05 17:24:05  #MKT News
+
+【State Council appoints Ding Xiangqun as director of National Financial Regulatory Administration】The State Council appointed Ding Xiangqun as director of the National Financial Regulatory Administration. It also named Liu Sushe vice minister of culture and tourism and Hong Zongming vice minister of veterans affairs. The State Council removed Liu Sushe as deputy director of the National Development and Reform Commission; Chen Jiachang as vice minister of science and technology; Ma Feixiong as vice minister of veterans affairs; Zhang Yuzhuo as director of the State-owned Assets Supervision and Administration Commission (SASAC); and Han Dong as deputy director of the National Radio and Television Administration.
+
+---
+
+### 2026-06-05 17:24:03  #MKT News
+
+Bahrain's ambassador said a Russia-Gulf Cooperation Council ministerial meeting may be held in Moscow in October.
+
+---
+
+### 2026-06-05 17:24:02  #宏觀
+
+【國務院任免國家工作人員：丁向群任國家金融監督管理總局局長】國務院任免國家工作人員。任命劉蘇社為文化和旅遊部副部長；任命洪宗明為退役軍人事務部副部長；任命丁向群（女）為國家金融監督管理總局局長。免去劉蘇社的國家發展和改革委員會副主任職務；免去陳家昌的科學技術部副部長職務；免去馬飛雄的退役軍人事務部副部長職務；免去張玉卓的國務院國有資產監督管理委員會主任職務；免去韓冬的國家廣播電視總局副局長職務。（澎湃）
+
+---
+
+### 2026-06-05 17:23:27  #公司
+
+【禾川科技：股東晴川投資擬詢價轉讓604.05萬股股份】禾川科技(688320.SH)公告稱，公司股東晴川投資擬透過詢價轉讓方式轉讓604.05萬股股份，佔公司總股本的4.00%。轉讓原因為自身資金需求，受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓後6個月內不得轉讓。本次詢價轉讓不透過集中競價或大宗交易方式進行，不屬於二級市場減持。
+
+---
+
+### 2026-06-05 17:23:26  #國際
+
+【追覓掃地機總裁孟佳：不懼怕與科沃斯及石頭的競爭，少做國內市場是因為價格競爭激烈】6月5日下午訊息，今日，追覓科技掃地機事業部全球總裁孟佳與新浪科技等媒體進行對話。提及“追覓深耕海外市場，在國內佔有率不如科沃斯及石頭是否因為畏懼競爭”，孟佳正面回應道：“絕對不是這樣，我們不懼怕任何競爭。追覓之所以一開始就錨定全球化戰略，是因為高度會比其他市場更高，全球的使用者更多、容量更大。”他表示：“如果（追覓）能在歐洲和北美等地獲得成功，我們在任何地方都可以成功，所以追覓不會懼怕在任何的地方競爭。只不過，我們不會把所有的精力放在國內，因為相對來說收益比較低。國內目前可能更多面臨價格的激烈競爭。”（新浪科技）
+
+---
+
+### 2026-06-05 17:23:12  #Trading Economics #Economy #Euro Area #GDP Annual Growth Rate #Importance 1
+
+Eurozone GDP Annual Growth Rate Revised Lower in Q1 — The Eurozone economy expanded 0.3% yoy in Q1 2026, well below the previously estimated 0.8% and down from 1.2% in Q4 2025. This marks the weakest expansion since Q4 2023, reflecting pressures from tight energy supplies and higher inflation linked to the Middle East conflict. There was a sharp slowdown in gross fixed capital formation (0.3% vs 3.3% in Q4), alongside a decline in exports (-0.9% vs 2.1%). Household consumption also moderated (1.1% vs 1.3%), while government spending accelerated (2.3% vs 1.5%). Imports increased at a slower pace (1.9% vs 3.8%). At the country level, Ireland saw a sharp contraction (-16.8% vs 2.9% in Q4), while Germany posted the weakest growth among major economies at 0.3% (vs 0.4%). Growth also slowed in France (0.9% vs 1.1%) and Italy (0.8% vs 0.9%), whereas Spain slightly outperformed (2.7% vs 2.6%). On a quarterly basis, Eurozone GDP contracted by 0.2%, marking the first decline since 2022 and the steepest drop since the pandemic-era downturn in 2020.
+
+---
+
+### 2026-06-05 17:23:00  #公司
+
+【寧波港：5月預計完成集裝箱吞吐量458.7萬標準箱，同比增長1.3%】寧波港(601018)6月5日公告，2026年5月份，寧波舟山港股份有限公司預計完成集裝箱吞吐量458.7萬標準箱，同比增長1.3%；預計完成貨物吞吐量9590萬噸，同比下降10.9%。
+
+---
+
+### 2026-06-05 17:22:48  #其他
+
+【2026 IPC CEMAC電子製造年會將於9月登陸上海】2026 IPC CEMAC電子製造年會將於9月17日至18日在上海舉辦。大會圍繞先進封裝與電子互連、電子裝聯與高可靠性、數字化與智慧製造、綠色製造與可持續發展四大板塊，期間將集中釋出新標準、行業研究報告與智慧製造示範線成果等。
+
+---
+
+### 2026-06-05 17:21:10  #其他
+
+訊息人士稱，蘇格蘭政府正在與投資者接洽，為首次債券發行做準備。
+
+---
+
+### 2026-06-05 17:21:07  #MKT News
+
+Sources said the Scottish government is in talks with investors as it prepares for a debut bond issuance.
 
 ---
 
@@ -22853,137 +22997,5 @@ Russia's Deputy Prime Minister Novak said the oil market has not yet fully refle
 ### 2026-06-04 15:20:53  #MKT News #WTI #Impact bullish #Brent
 
 Russian Deputy Prime Minister Novak said Russia's oil production has fallen year-to-date due to unplanned refinery maintenance.
-
----
-
-### 2026-06-04 15:20:46  #公司
-
-【晨豐科技在瀋陽成立能源公司，註冊資本1.4億元】企查查APP顯示，近日，北網新能（瀋陽）能源有限公司成立，法定代表人為劉餘，註冊資本為1.4億元，經營範圍包含：煤製品製造；儲能技術服務；太陽能發電技術服務；發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由晨豐科技旗下北網新能（遼寧）能源有限公司全資持股。
-
----
-
-### 2026-06-04 15:20:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-NOVAK says Russia expects to meet its OPEC+ oil production quota this year.
-
----
-
-### 2026-06-04 15:20:35  #國際
-
-俄羅斯諾瓦克表示，由於煉油廠出現“計劃外維修”，石油產量低於年初水平。
-
----
-
-### 2026-06-04 15:20:30  #其他
-
-諾瓦克：目前約有1200萬桶/日的石油未能投放至市場。
-
----
-
-### 2026-06-04 15:20:26  #其他
-
-諾瓦克：歐佩克+成員國產能核算工作將於年底前完成。
-
----
-
-### 2026-06-04 15:20:24  #其他
-
-諾瓦克：全球石油市場正經歷一場罕見危機，即便是在二十世紀也未曾出現過。
-
----
-
-### 2026-06-04 15:20:21  #國際
-
-諾瓦克：俄羅斯預計今年將達到歐佩克+石油生產配額要求。
-
----
-
-### 2026-06-04 15:20:16  #國際
-
-諾瓦克：由於煉油廠發生計劃外維修，俄羅斯當前石油產量低於今年年初水平。
-
----
-
-### 2026-06-04 15:20:13  #國際
-
-諾瓦克：俄羅斯將在必要時考慮實施柴油出口禁令。
-
----
-
-### 2026-06-04 15:19:51  #MKT News #Market Regions #Greater China
-
-【China to bar entry of certain New Zealand MPs after Taiwan visit, foreign ministry says】CHINA said at a regular press briefing on June 4 that, after several New Zealand MPs visited Taiwan despite Beijing’s objections, it has decided under PRC law to impose entry bans and other measures on the individuals for violating the One China principle and interfering in China’s internal affairs. The ministry warned relevant persons to respect Chinese sovereignty and said those who overstep on the Taiwan issue will pay a price.
-
----
-
-### 2026-06-04 15:19:25  #行業 #焦點 #國際
-
-【歐盟內部有觀點認為應對華“去風險”，外交部回應】今天（4日），外交部發言人毛寧主持例行記者會。有記者提問，日前歐委會全體會議討論對華關係，有觀點認為中歐貿易和投資狀況“不可持續”，歐盟應對華“去風險”。外界預計6月中旬，歐盟將借G7和歐盟夏季峰會推出新的對華貿易限制工具。但同時我們也注意到，中國歐盟商會最新的調查報告顯示，68%的歐洲企業選擇堅守或擴大在華業務，近1/3的企業將進一步深化在中國的本土化佈局，“去風險”似乎並未成為歐洲企業的實際選擇。發言人如何看待這種現象？毛寧表示，越來越多的歐洲企業選擇深耕中國、擴大在華業務，這本身就是對所謂“去風險”最有力的回應。中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。毛寧指出，50多年來，中歐年貿易額增長了300多倍，相互雙向投資接近2600億美元，充分說明中歐合作動力強勁，前景廣闊。貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。（外交部）
-
----
-
-### 2026-06-04 15:18:56  #焦點 #國際
-
-【外交部：希望歐方客觀理性看待中歐經貿關係】外交部發言人毛寧6月4日在例行記者會上回答有關中歐經貿關係的提問時說，貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。毛寧表示，中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。越來越多的歐洲企業選擇深耕中國，擴大在華業務，這本身就是對所謂“去風險”最有力的回應。（新華社）
-
----
-
-### 2026-06-04 15:18:48  #MKT News #Important #Market Regions #Europe & UK
-
-China's Foreign Ministry said it hopes the EU will view China-EU economic and trade relations objectively and rationally, Xinhua.
-
----
-
-### 2026-06-04 15:18:23  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10-Year Yield Falls on Tax Relief Hopes — The yield on India’s 10-year G-Sec fell to around 6.9%, trimming recent gains as reports of tax relief for foreign debt investors lifted demand for sovereign bonds. Sentiment improved after reports that the government may scrap capital gains tax on foreign portfolio investments in government securities. The move comes as foreign investors have purchased about $1.4 billion of Indian bonds this year while pulling nearly $28 billion from equities. The proposal could also remove the current 12.5% capital gains tax and 20% withholding tax on foreign bond investments. Still, gains were capped ahead of the Reserve Bank of India's policy decision on Friday, with some analysts now expecting a 25-basis-point rate hike amid mounting inflation risks. Meanwhile, Brent crude slipped 0.9% to $96.97 per barrel following a ceasefire agreement between Israel and Lebanon, though prices remained elevated above $95, keeping pressure on the inflation outlook.
-
----
-
-### 2026-06-04 15:18:12  #公司
-
-【瀘州老窖集團等在成都成立新合夥企業 出資額約1.45億】天眼查App顯示，近日，成都市華格展益企業管理合夥企業（有限合夥）成立，執行事務合夥人為金惠紅湖（深圳）企業管理有限公司，出資額約1.45億人民幣，經營範圍包括企業管理、企業管理諮詢、資訊諮詢服務等。合夥人資訊顯示，該合夥企業由瀘州老窖集團旗下四川金舵投資有限責任公司、深圳市崇恆科技有限公司、金惠紅湖（深圳）企業管理有限公司共同出資。
-
----
-
-### 2026-06-04 15:18:08  #國際
-
-【外交部：臺灣問題上踩線越界必將付出代價】今天（4日），外交部發言人毛寧主持例行記者會。 美聯社記者提問，第一，中方為何禁止部分紐西蘭議員的入境？這個禁令的時限是一年嗎？第二，“五眼聯盟”國家情報機構指責中方利用網上的求職平臺招募情報人員，發言人對此有何評論？ 毛寧表示，近期，紐西蘭個別議員不顧中方的嚴重關切和堅決反對，執意竄訪中國臺灣地區，違反一箇中國原則，干涉中國內政。根據中華人民共和國相關法律，中方決定對有關人員採取禁止入境等措施。 她強調，一箇中國原則是國際社會的普遍共識和國際關係基本準則，也是中新關係的政治基礎。我們奉勸有關人員切實尊重中國主權和領土完整，嚴格恪守一箇中國原則，在臺灣問題上踩線越界必將付出代價。 關於“五眼聯盟”，毛寧表示，作為全球最大的情報合作聯盟，“五眼聯盟”長期以來在世界各地開展大規模系統性的間諜活動，這樣一個組織卻指責所謂“中國間諜威脅”，這本身就很諷刺。（北京日報）
-
----
-
-### 2026-06-04 15:17:57  #國際
-
-【外交部：希望德方能夠恪守一箇中國原則】今天（4日），外交部發言人毛寧主持例行記者會。 德新社記者提問，5月時有德國議員“訪問”了臺灣，請問中方會禁止德國和其他國家“訪問”臺灣的議員進入中國嗎？ 毛寧表示，臺灣是中國的一部分，一箇中國原則是國際社會的普遍共識，也是國際關係的基本準則，同樣是中德關係的政治基礎。 “我們希望德方能夠恪守一箇中國原則，不要借臺灣問題干涉中國內政。”毛寧說，“我剛剛已經說了，在臺灣問題上踩踏紅線一定會付出代價”。（北京日報）
-
----
-
-### 2026-06-04 15:17:46  #MKT News #AVGO.O #Impact bullish
-
-Deutsche Bank raises Broadcom PT to $515 from $430.
-
----
-
-### 2026-06-04 15:17:38  #國際
-
-【無視法院禁令 美國繼續在肯亞建埃博拉隔離設施】儘管肯亞法院兩次下令暫停、當地民眾強烈反對，美國位於肯亞萊基皮亞空軍基地的埃博拉疫情隔離設施建設仍在繼續。據路透社3日報道，肯亞法院5月底首次下令暫停隔離設施建設。然而，禁令下達後，仍有3架美軍運輸機在萊基皮亞空軍基地降落。一名不願透露姓名的美國官員稱，飛機運來了技術裝置以及數十名醫生、工程師、實驗室專家和建築工人，暫時還未運入患者。（新華社）
-
----
-
-### 2026-06-04 15:16:47  #其他
-
-德意志銀行將博通目標股價從430美元上調至515美元。
-
----
-
-### 2026-06-04 15:16:17  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.57% Lower — The Shangai Composite Index dropped 23 points or 0.57 percent on Thursday to close at 4061 points. Losses were led by Aluminum Corporation of China (-9.33%), China Molybdenum (-5.73%) and Huaneng (-4.60%). Offsetting the fall, top gainers were Shanghai Petrochemical (10.10%), Sanan Optoelectron (9.99%) and Avic Aviation Engine (3.68%).
-
----
-
-### 2026-06-04 15:16:17  #Trading Economics #Economy #Hungary #Retail Sales YoY #Importance 1
-
-Hungary Retail Sales Growth Slows in April — Retail sales in Hungary rose by 3.6% year-on-year in April 2026, easing from a slightly downwardly revised 8.1% increase in the previous month. This marked the softest growth in retail activity since January, largely driven by significantly slower increase in sales for automotive fuel (9.1% vs 20.6% in March). Turnover in the non-food sector also rose at a lesser extent (2.6% vs 8.4%), due to declines in textile, clothing and footwear (-2.7% vs 4.5%), books, newspapers, stationery (-0.8% vs -4.4%), and second-hand products (-4% vs 4.4%). Meanwhile, revenues increased further for food products (3.4% vs 2.8%), particularly for food-related mixed stores (5.2% vs 4.4%), which partially offset decrease in food, beverage and tobacco (-2.7% vs -2.5%). On a seasonally adjusted monthly basis, retail activity fell by 1.2% in April after rising 1.9% in March. For the first four months of the year, total retail sales exceeded the same period of the previous year by 4.8%.
 
 ---

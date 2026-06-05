@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-05 17:21:24_
-_本檔包含 3908 則快訊，約 699096 字_
+_更新時間：2026-06-05 17:29:41_
+_本檔包含 3903 則快訊，約 699159 字_
+
+---
+
+### 2026-06-04 15:20:46  #公司
+
+【晨豐科技在瀋陽成立能源公司，註冊資本1.4億元】企查查APP顯示，近日，北網新能（瀋陽）能源有限公司成立，法定代表人為劉餘，註冊資本為1.4億元，經營範圍包含：煤製品製造；儲能技術服務；太陽能發電技術服務；發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由晨豐科技旗下北網新能（遼寧）能源有限公司全資持股。
+
+---
+
+### 2026-06-04 15:20:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+NOVAK says Russia expects to meet its OPEC+ oil production quota this year.
+
+---
+
+### 2026-06-04 15:20:35  #國際
+
+俄羅斯諾瓦克表示，由於煉油廠出現“計劃外維修”，石油產量低於年初水平。
+
+---
+
+### 2026-06-04 15:20:30  #其他
+
+諾瓦克：目前約有1200萬桶/日的石油未能投放至市場。
+
+---
+
+### 2026-06-04 15:20:26  #其他
+
+諾瓦克：歐佩克+成員國產能核算工作將於年底前完成。
+
+---
+
+### 2026-06-04 15:20:24  #其他
+
+諾瓦克：全球石油市場正經歷一場罕見危機，即便是在二十世紀也未曾出現過。
+
+---
+
+### 2026-06-04 15:20:21  #國際
+
+諾瓦克：俄羅斯預計今年將達到歐佩克+石油生產配額要求。
+
+---
+
+### 2026-06-04 15:20:16  #國際
+
+諾瓦克：由於煉油廠發生計劃外維修，俄羅斯當前石油產量低於今年年初水平。
+
+---
+
+### 2026-06-04 15:20:13  #國際
+
+諾瓦克：俄羅斯將在必要時考慮實施柴油出口禁令。
+
+---
+
+### 2026-06-04 15:19:51  #MKT News #Market Regions #Greater China
+
+【China to bar entry of certain New Zealand MPs after Taiwan visit, foreign ministry says】CHINA said at a regular press briefing on June 4 that, after several New Zealand MPs visited Taiwan despite Beijing’s objections, it has decided under PRC law to impose entry bans and other measures on the individuals for violating the One China principle and interfering in China’s internal affairs. The ministry warned relevant persons to respect Chinese sovereignty and said those who overstep on the Taiwan issue will pay a price.
+
+---
+
+### 2026-06-04 15:19:25  #行業 #焦點 #國際
+
+【歐盟內部有觀點認為應對華“去風險”，外交部回應】今天（4日），外交部發言人毛寧主持例行記者會。有記者提問，日前歐委會全體會議討論對華關係，有觀點認為中歐貿易和投資狀況“不可持續”，歐盟應對華“去風險”。外界預計6月中旬，歐盟將借G7和歐盟夏季峰會推出新的對華貿易限制工具。但同時我們也注意到，中國歐盟商會最新的調查報告顯示，68%的歐洲企業選擇堅守或擴大在華業務，近1/3的企業將進一步深化在中國的本土化佈局，“去風險”似乎並未成為歐洲企業的實際選擇。發言人如何看待這種現象？毛寧表示，越來越多的歐洲企業選擇深耕中國、擴大在華業務，這本身就是對所謂“去風險”最有力的回應。中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。毛寧指出，50多年來，中歐年貿易額增長了300多倍，相互雙向投資接近2600億美元，充分說明中歐合作動力強勁，前景廣闊。貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。（外交部）
+
+---
+
+### 2026-06-04 15:18:56  #焦點 #國際
+
+【外交部：希望歐方客觀理性看待中歐經貿關係】外交部發言人毛寧6月4日在例行記者會上回答有關中歐經貿關係的提問時說，貿易保護主義違背經濟規律，損人不利己。希望歐方客觀理性看待中歐經貿關係，同中方一道壓縮問題清單，做大合作蛋糕，實現互利共贏。毛寧表示，中歐經貿合作源於共同利益，本質上是比較優勢和市場競爭共同作用的結果。優勢互補不是風險，利益融合也不是威脅。越來越多的歐洲企業選擇深耕中國，擴大在華業務，這本身就是對所謂“去風險”最有力的回應。（新華社）
+
+---
+
+### 2026-06-04 15:18:48  #MKT News #Important #Market Regions #Europe & UK
+
+China's Foreign Ministry said it hopes the EU will view China-EU economic and trade relations objectively and rationally, Xinhua.
+
+---
+
+### 2026-06-04 15:18:23  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10-Year Yield Falls on Tax Relief Hopes — The yield on India’s 10-year G-Sec fell to around 6.9%, trimming recent gains as reports of tax relief for foreign debt investors lifted demand for sovereign bonds. Sentiment improved after reports that the government may scrap capital gains tax on foreign portfolio investments in government securities. The move comes as foreign investors have purchased about $1.4 billion of Indian bonds this year while pulling nearly $28 billion from equities. The proposal could also remove the current 12.5% capital gains tax and 20% withholding tax on foreign bond investments. Still, gains were capped ahead of the Reserve Bank of India's policy decision on Friday, with some analysts now expecting a 25-basis-point rate hike amid mounting inflation risks. Meanwhile, Brent crude slipped 0.9% to $96.97 per barrel following a ceasefire agreement between Israel and Lebanon, though prices remained elevated above $95, keeping pressure on the inflation outlook.
+
+---
+
+### 2026-06-04 15:18:12  #公司
+
+【瀘州老窖集團等在成都成立新合夥企業 出資額約1.45億】天眼查App顯示，近日，成都市華格展益企業管理合夥企業（有限合夥）成立，執行事務合夥人為金惠紅湖（深圳）企業管理有限公司，出資額約1.45億人民幣，經營範圍包括企業管理、企業管理諮詢、資訊諮詢服務等。合夥人資訊顯示，該合夥企業由瀘州老窖集團旗下四川金舵投資有限責任公司、深圳市崇恆科技有限公司、金惠紅湖（深圳）企業管理有限公司共同出資。
+
+---
+
+### 2026-06-04 15:18:08  #國際
+
+【外交部：臺灣問題上踩線越界必將付出代價】今天（4日），外交部發言人毛寧主持例行記者會。 美聯社記者提問，第一，中方為何禁止部分紐西蘭議員的入境？這個禁令的時限是一年嗎？第二，“五眼聯盟”國家情報機構指責中方利用網上的求職平臺招募情報人員，發言人對此有何評論？ 毛寧表示，近期，紐西蘭個別議員不顧中方的嚴重關切和堅決反對，執意竄訪中國臺灣地區，違反一箇中國原則，干涉中國內政。根據中華人民共和國相關法律，中方決定對有關人員採取禁止入境等措施。 她強調，一箇中國原則是國際社會的普遍共識和國際關係基本準則，也是中新關係的政治基礎。我們奉勸有關人員切實尊重中國主權和領土完整，嚴格恪守一箇中國原則，在臺灣問題上踩線越界必將付出代價。 關於“五眼聯盟”，毛寧表示，作為全球最大的情報合作聯盟，“五眼聯盟”長期以來在世界各地開展大規模系統性的間諜活動，這樣一個組織卻指責所謂“中國間諜威脅”，這本身就很諷刺。（北京日報）
+
+---
+
+### 2026-06-04 15:17:57  #國際
+
+【外交部：希望德方能夠恪守一箇中國原則】今天（4日），外交部發言人毛寧主持例行記者會。 德新社記者提問，5月時有德國議員“訪問”了臺灣，請問中方會禁止德國和其他國家“訪問”臺灣的議員進入中國嗎？ 毛寧表示，臺灣是中國的一部分，一箇中國原則是國際社會的普遍共識，也是國際關係的基本準則，同樣是中德關係的政治基礎。 “我們希望德方能夠恪守一箇中國原則，不要借臺灣問題干涉中國內政。”毛寧說，“我剛剛已經說了，在臺灣問題上踩踏紅線一定會付出代價”。（北京日報）
+
+---
+
+### 2026-06-04 15:17:46  #MKT News #AVGO.O #Impact bullish
+
+Deutsche Bank raises Broadcom PT to $515 from $430.
+
+---
+
+### 2026-06-04 15:17:38  #國際
+
+【無視法院禁令 美國繼續在肯亞建埃博拉隔離設施】儘管肯亞法院兩次下令暫停、當地民眾強烈反對，美國位於肯亞萊基皮亞空軍基地的埃博拉疫情隔離設施建設仍在繼續。據路透社3日報道，肯亞法院5月底首次下令暫停隔離設施建設。然而，禁令下達後，仍有3架美軍運輸機在萊基皮亞空軍基地降落。一名不願透露姓名的美國官員稱，飛機運來了技術裝置以及數十名醫生、工程師、實驗室專家和建築工人，暫時還未運入患者。（新華社）
+
+---
+
+### 2026-06-04 15:16:47  #其他
+
+德意志銀行將博通目標股價從430美元上調至515美元。
+
+---
+
+### 2026-06-04 15:16:17  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.57% Lower — The Shangai Composite Index dropped 23 points or 0.57 percent on Thursday to close at 4061 points. Losses were led by Aluminum Corporation of China (-9.33%), China Molybdenum (-5.73%) and Huaneng (-4.60%). Offsetting the fall, top gainers were Shanghai Petrochemical (10.10%), Sanan Optoelectron (9.99%) and Avic Aviation Engine (3.68%).
+
+---
+
+### 2026-06-04 15:16:17  #Trading Economics #Economy #Hungary #Retail Sales YoY #Importance 1
+
+Hungary Retail Sales Growth Slows in April — Retail sales in Hungary rose by 3.6% year-on-year in April 2026, easing from a slightly downwardly revised 8.1% increase in the previous month. This marked the softest growth in retail activity since January, largely driven by significantly slower increase in sales for automotive fuel (9.1% vs 20.6% in March). Turnover in the non-food sector also rose at a lesser extent (2.6% vs 8.4%), due to declines in textile, clothing and footwear (-2.7% vs 4.5%), books, newspapers, stationery (-0.8% vs -4.4%), and second-hand products (-4% vs 4.4%). Meanwhile, revenues increased further for food products (3.4% vs 2.8%), particularly for food-related mixed stores (5.2% vs 4.4%), which partially offset decrease in food, beverage and tobacco (-2.7% vs -2.5%). On a seasonally adjusted monthly basis, retail activity fell by 1.2% in April after rising 1.9% in March. For the first four months of the year, total retail sales exceeded the same period of the previous year by 4.8%.
 
 ---
 
@@ -23364,167 +23496,5 @@ Japanese government bond yields continued to rise; the 2-year JGB yield climbed 
 ### 2026-06-03 14:06:49  #公司 #觀點
 
 【大摩：重申小鵬集團“增持”評級，實體AI相關倡議將成重新評級的催化劑】摩根士丹利發表研報指，小鵬集團旗下GX車型成為吸引投資者的關鍵證明點，關注管理層能否掌握下半年的產品節奏、有效執行海外擴張以及非汽車業務的計劃。小鵬汽車計劃在下半年推出G9L及MONA L03/L05，將有助於減少季節性銷量波動。該行對由GX及其他車型週期所帶動的復甦前景仍持樂觀態度，相信在行業整體走勢疲軟的背景下，銷售持續增長應可提升盈利可預測性，並支撐後續股價表現。該行重申對小鵬的“增持”評級，目標價96港元，實體AI的相關倡議將成為重新評級的催化劑。
-
----
-
-### 2026-06-03 14:06:18  #公司 #市場 #觀點 #國際
-
-【機構稱科技景氣與產業趨勢未改，A500ETF南方（159352）近五日獲1.19億元淨申購】6月3日，A股主要指數均上漲，截至發稿，A500ETF南方（159352）漲幅1.26%，成交額26.53億元。資金流向方面，近五日獲得1.19億元淨申購，最新規模303億元。華泰證券表示，6月進入中美財報真空期、美國通脹存在超預期可能，短期或存在風格再平衡的需求，但AI產業趨勢仍在、增量資金仍有基礎，AI或仍為中期主線。銀河證券認為，從市場層面來看，市場交易擁擠度已處於相對高位，不排除部分資金獲利了結、投資者分歧加大的可能，市場或進入“震盪整固+內部分化”階段。但交易擁擠僅為階段性情緒特徵，並非行情反轉的核心訊號，行情走向仍取決於產業景氣能否持續。本輪交易擁擠度背後，是景氣度向科技、高階製造等方向集中的體現。因此，科技景氣與產業趨勢未改，具備業績支撐的龍頭或將持續受益，有望成為穿越當前高位震盪格局的關鍵抓手。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。
-
----
-
-### 2026-06-03 14:05:51  #其他
-
-百度首席財務官：預計晶片業務部門將在2026年內在港上市。
-
----
-
-### 2026-06-03 14:05:49  #Trading Economics #Economy #Russia #Composite PMI #Importance 1
-
-Russia Composite PMI Inches Higher — Russia’s S&P Global Composite PMI edged up to 49.2 in May 2026 from 49.1 in April, marking its highest reading since February. Despite the slight improvement, the index remained below the 50 threshold, signaling a continued contraction in private-sector activity.
-
----
-
-### 2026-06-03 14:05:42  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #BIDU.O #Impact bullish
-
-Baidu (BIDU.O) CFO said the company’s chip unit is expected to list in Hong Kong before 2026.
-
----
-
-### 2026-06-03 14:05:40  #市場 #國際
-
-日本10年期國債收益率升至2.640%。
-
----
-
-### 2026-06-03 14:05:14  #MKT News #Market Themes #AI Revolution #BIDU.O #Impact bullish
-
-Baidu (BIDU.O) CFO said the company expects robust AI-driven revenue growth over the next several quarters.
-
----
-
-### 2026-06-03 14:04:49  #其他
-
-百度首席財務官：預計未來幾個季度人工智慧將推動營收實現穩健增長。
-
----
-
-### 2026-06-03 14:04:37  #國際
-
-【伊朗議員稱“美國人只懂武力”，呼籲對美採取更強硬行動】據伊朗塔斯尼姆通訊社報道，伊朗議員呼籲對美國採取更強硬行動，稱“美國人只懂得使用武力”。伊朗國家安全與外交政策委員會成員埃斯梅爾·科薩里呼籲對美國的侵略行為作出更強烈的反應，稱美國的舉動源於他們的“撒旦心態”。
-
----
-
-### 2026-06-03 14:04:33  #公司
-
-【油氣開採及服務板塊走高，科力股份漲超9%】油氣開採及服務板塊走高，科力股份漲超9%，通源石油漲超7%，潛能恆信、中曼石油、中國海油跟漲。
-
----
-
-### 2026-06-03 14:04:32  #Trading Economics #Economy #Russia #Services PMI #Importance 1
-
-Russia Services PMI Hits 8-Month Low — The S&P Global Russia Services PMI declined to 48.7 in May 2026 from 49.7 in the previous month, marking the third consecutive month of contraction in the sector. The latest reading also marked the steepest contraction since last September, driven by declines in output and a sharper fall in new sales. In line with lower new orders, firms reduced employment, with the pace of job shedding easing to its slowest level in three months.
-
----
-
-### 2026-06-03 14:04:13  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Iran lawmaker says Americans 'only understand force', urges tougher action against US】State media reported that Esmaeil Kowsari, a member of Iran's National Security and Foreign Policy Commission, urged stronger responses to US 'aggression', saying US actions stem from a 'Satanic mindset' and that "Americans only understand force."
-
----
-
-### 2026-06-03 14:03:31  #其他
-
-【教育部：“陽光志願”資訊服務系統將最佳化升級】2026年全國統一高考將於6月7日開考。記者從教育部獲悉，為加強志願填報服務，教育部將強化部省兩級協同聯動，最佳化升級“陽光志願”資訊服務系統，指導各地廣泛開展線上線下志願填報諮詢活動。充分發揮中學主渠道作用，加強基層招考工作人員和中學班主任政策培訓，指導有關省份面向欠發達地區縣中學深入開展“陽光志願”幫扶行動，推動志願填報公益服務下沉到基層一線，助力更多學子圓夢高考。（央視新聞）
-
----
-
-### 2026-06-03 14:02:37  #市場
-
-歐元斯托克50指數期貨下跌0.33%，德國DAX指數期貨下跌0.31%，富時指數期貨下跌0.09%。
-
----
-
-### 2026-06-03 14:02:27  #其他
-
-【教育部：打擊各類涉考違法犯罪活動 防範高科技舞弊】2026年全國統一高考將於6月7日開考。高考在即，教育部會同國家教育統一考試工作部際聯席會議成員單位，將指導各地以更高標準規範管理，全力保障安全平穩。要求各地嚴格落實考試安全主體責任，精心做好本行政區域內考試組織、環境治理、考風考紀建設等各項工作，構建覆蓋預防、指揮、處置、善後等全鏈條安全責任體系。指導各地深化考生誠信考試教育，進一步強化人防、物防、技防等措施，加強標準化考點建設，升級“智慧安檢門”，提高對手機、智慧眼鏡等違規物品檢出率，嚴格入場安檢規範，強化考場監考巡考，積極推動智慧巡查巡檢，織牢織密考試安全防護網。（央視新聞）
-
----
-
-### 2026-06-03 14:02:14  #其他
-
-【教育部：嚴禁炒作“高考狀元”“升學率” 糾治奢華錄取通知書】2026年全國統一高考將於6月7日開考，教育部會同國家教育統一考試工作部際聯席會議成員單位，全力為高考營造良好氛圍。指導各地各校嚴格落實高校招生宣傳工作紀律要求，嚴禁虛假宣傳、違規承諾，嚴禁以任何形式炒作“高考狀元”“高分考生”“升學率”。推動高校錄取通知書迴歸“一頁紙”，堅決糾治奢華錄取通知書、新生禮盒等不良風氣。（央視新聞）
-
----
-
-### 2026-06-03 14:01:29  #MKT News #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-share internet finance names tumbled: Yinzhijie slid more than 10%, with Huijin Technology, Huibo Yuntong, Anshuo Information, Huijin Shares and Ying Shisheng also weakening.
-
----
-
-### 2026-06-03 14:01:17  #公司
-
-諾和諾德公司：WEGOVY®減肥藥在阿聯酋上市，諾和諾德擴大全球肥胖症治療服務覆蓋範圍。
-
----
-
-### 2026-06-03 14:00:46  #公司
-
-【互聯金融概念午後下挫 銀之傑跌超10%】午後互聯金融概念震盪下挫，銀之傑跌超10%，匯金科技、慧博雲通、安碩資訊、匯金股份、贏時勝等跟跌。
-
----
-
-### 2026-06-03 14:00:46  #MKT News
-
-【12.9 mln register for China's 2026 national college entrance exam (Gaokao)】The Ministry of Education said 12.9 million candidates registered for the 2026 national college entrance exam, which begins on June 7. The ministry will again issue braille exam papers for blind candidates (the 13th consecutive year since 2014) and will guide local authorities to provide reasonable accommodations for more than 14,000 disabled candidates.
-
----
-
-### 2026-06-03 14:00:17  #公司 #國際
-
-【齊向東：AI革命對網路安全產業是重大利好 將為創新頭部廠商帶來千億級增量市場】全國工商聯副主席、奇安信集團董事長齊向東在第八屆北京網路安全大會（BCS 2026）上表示，AI革命對網路安全產業是重大利好，但當前中美網路安全產業規模相差高達12倍，AI時代的攻防失衡正引爆實戰安全、資料安全與全棧安全三類剛需。他強調，單純依靠提升漏洞挖掘能力或原生AI安全能力都無法拉平攻防失衡，唯一共識是：政企客戶必須緊急加速網路安全升級改造，追平差距。這是AI時代的必然選擇，也將為創新頭部廠商帶來千億級增量市場。
-
----
-
-### 2026-06-03 13:59:59  #其他
-
-【2026年全國高考報名人數為1290萬人】記者從教育部獲悉，2026年全國高考報名人數為1290萬人。2026年全國統一高考將於6月7日開考。今年，教育部門將繼續為盲人考生專門命制盲文試卷，這是自2014年起，連續13年為盲人考生在高考中提供盲文試卷。此外，教育部還將指導各地為1.4萬餘名殘障考生參加考試提供合理便利。(央視新聞)
-
----
-
-### 2026-06-03 13:59:49  #央行
-
-【渣打銀行（香港）將接入跨境支付通 香港三大發鈔行全部接入】近日有使用者反饋，在使用跨境支付通進行南向轉賬時，渣打銀行（香港）出現在了收款行可選名單中。針對這一情況，記者今日向渣打銀行（香港）求證，得到回應“本行即將推出‘跨境支付通’服務，現正進行最後測試。客戶可留意稍後於本行網站的公佈。”中國央行與香港金管局於去年6月聯合推出“跨境支付通”服務，便於內地與香港兩地居民進行即時小額跨境匯款。但公開資訊顯示，渣打銀行（香港）未出現在首批以及後續更新的參與機構名單中。此番接入，意味著香港三大發鈔行已經全部接入這一系統。（財聯社）
-
----
-
-### 2026-06-03 13:59:07  #公司
-
-嘉吉公司將投資5600萬歐元擴建比利時工廠。
-
----
-
-### 2026-06-03 13:57:52  #MKT News #Market Regions #Emerging Markets
-
-Philippine stock index rose 2%.
-
----
-
-### 2026-06-03 13:57:46  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Kuwait International Airport suspends takeoffs and landings after drone attack】Kuwait Civil Aviation Authority said on the morning of June 3 Terminal 1 at Kuwait International Airport was heavily damaged in a “hostile” drone attack, injuring multiple people on site. The authority has suspended takeoffs and landings at the airport and activated an emergency plan. A spokesman for the Kuwait Defense Ministry called the drone strike “an act of Iranian aggression”, saying the military is closely monitoring the situation with relevant agencies and is prepared to take all necessary measures to safeguard national security and stability.
-
----
-
-### 2026-06-03 13:57:17  #市場 #國際
-
-菲律賓股市指數上漲2%至6033.66點。
-
----
-
-### 2026-06-03 13:57:03  #國際
-
-【科威特國際機場因襲擊暫停起降】科威特民航總局今天（6月3日）上午釋出訊息稱，科威特國際機場1號航站樓在當天早間的“敵對”無人機襲擊中被嚴重損毀，襲擊還造成現場多人受傷。受此影響，民航部門已暫停在科威特國際機場的飛機起降，並啟動了應急計劃。科威特國防部發言人在一份宣告中稱無人機襲擊是“伊朗的侵略行徑”，並強調科威特軍方正在與相關部門密切關注相關局勢，並已做好充分準備應對事態變化，確保將採取一切必要措施維護國家安全與穩定。
 
 ---
