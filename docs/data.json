@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-05 23:20:20",
-  "count": 18718,
+  "updated": "2026-06-05 23:24:36",
+  "count": 18730,
   "items": [
+    {
+      "id": "mkt:019e9861-bf8d-7665-8308-300a0d4e13f4",
+      "time": "2026-06-05 23:23:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq 100 decline widened to 2.5%."
+    },
+    {
+      "id": "4920152",
+      "time": "2026-06-05 23:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 烏克蘭的襲擊對俄羅斯造成了一定損失。"
+    },
+    {
+      "id": "mkt:019e9861-90b0-7665-8308-2f2db9d41dcb",
+      "time": "2026-06-05 23:23:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Ukraine's attacks have inflicted some damage on Russia."
+    },
+    {
+      "id": "mkt:019e9861-5cb0-7665-8308-267d833b1414",
+      "time": "2026-06-05 23:22:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the core issues between Russia and Ukraine should be resolved by the two parties themselves; other parties may create conditions and act as guarantors."
+    },
+    {
+      "id": "te:markets:556967",
+      "time": "2026-06-05 23:22:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Nvidia Stock Price Hits 4-week Low — Nvidia shares decreased to 208.59 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation gained 0.41%, and in the last 12 months, it increased 47.25%."
+    },
+    {
+      "id": "mkt:019e9860-53f4-7665-8308-1c89962d0e8f",
+      "time": "2026-06-05 23:21:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On the eve of Peru's presidential election, the Peruvian sol fell more than 1% against the dollar and the country's main stock index dropped over 4%."
+    },
+    {
+      "id": "te:markets:556966",
+      "time": "2026-06-05 23:21:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Ease from Over 16-Week High — US natural gas futures fell about 2% to $3.255/MMBtu, pulling back from a more than 16-week high reached in the previous session. LNG export demand softened as average gas flows to the nine major US export terminals declined to 16.4 billion cubic feet per day so far in June from 17.1 bcfd in May, largely due to seasonal maintenance at facilities including Golden Pass and Freeport LNG in Texas. Despite the drop in exports, weather forecasts point to above-normal temperatures through June 20, likely increasing gas consumption for power generation as cooling demand rises. On the supply side, output in the Lower 48 states averaged 108.8 bcfd so far this month, down from 109.7 bcfd in May. Analysts noted that mild spring weather allowed inventories to build at a faster pace than usual, although recent production declines likely narrowed the storage surplus to around 5% above normal from roughly 6% a week earlier. For the week, natural gas prices are down more than 1%."
+    },
+    {
+      "id": "mkt:019e985f-e2a4-7665-8308-15dc6a25f9d6",
+      "time": "2026-06-05 23:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States, Mexico and Canada are expected to be unable to complete renewal of the US-Mexico-Canada Agreement (USMCA) before July 1. The USMCA will remain in force during the ongoing review process even if the July 1 date is missed."
+    },
+    {
+      "id": "te:markets:556965",
+      "time": "2026-06-05 23:21:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.21% — Palladium decreased 5.21% to 1265.5 USD/t.oz"
+    },
+    {
+      "id": "4920151",
+      "time": "2026-06-05 23:20:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌5%，現報1266.50美元/盎司。"
+    },
+    {
+      "id": "4920150",
+      "time": "2026-06-05 23:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國、墨西哥、加拿大或將無法在 7 月 1 日完成《美墨加協定》的續約工作。 《美墨加協定》在持續複審期間，7 月 1 日後協議仍繼續生效。"
+    },
+    {
+      "id": "4920149",
+      "time": "2026-06-05 23:20:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯主要股指跌幅超4%。"
+    },
+    {
+      "id": "mkt:019e985e-a380-7665-8308-0f9e39c4d143",
+      "time": "2026-06-05 23:19:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Hammack: Near-term rate hike may be appropriate】Fed governor Hammack said the labor market appears broadly balanced and a near-term rate hike may be appropriate. She said she does not overemphasize any single data point but that today’s jobs report, with unemployment at 4.3%, is broadly consistent with her definition of full employment. Given uncertainty in the outlook, holding rates steady is reasonable for now, but if recent trends persist policy may need to act soon. Remarks largely repeat comments she made on June 2."
+    },
+    {
+      "id": "mkt:019e985e-a1f4-7665-8308-027f7f22a4e1",
+      "time": "2026-06-05 23:19:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "FITCH on South Africa: expects the Middle East war to raise inflation, but says the fiscal impact is currently manageable."
+    },
+    {
+      "id": "4920148",
+      "time": "2026-06-05 23:19:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：我沒有同澤連斯基會面的理由。"
+    },
     {
       "id": "mkt:019e985e-83e0-7665-8307-ff79366e1806",
       "time": "2026-06-05 23:19:51",
@@ -172306,41 +172448,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）資料顯示，3 月美國原油及油品日供應量降至 2038 萬桶，為 2025 年 11 月以來新低。"
-    },
-    {
-      "id": "mkt:019e7456-4ab6-7bb7-9963-1704168f818d",
-      "time": "2026-05-29 23:24:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEC is advancing the repeal of Biden-era climate risk disclosure rules."
-    },
-    {
-      "id": "mkt:019e7454-3548-7bb7-9963-0bfa7068bd76",
-      "time": "2026-05-29 23:22:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "European bond yields fell; Germany's 10-year yield dropped to its lowest since April 8, down 3 bps intraday to 2.927%."
-    },
-    {
-      "id": "te:economy:555031",
-      "time": "2026-05-29 23:22:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Jobless Rate Unchanged at 8.8% — Colombia’s national unemployment rate stood at 8.8% in April 2026, unchanged from the previous month and in line with forecasts. The unemployment rate for women was 10.9%, compared with 7.1% for men, resulting in a gender gap of 3.8 percentage points. In the country’s 13 main cities and metropolitan areas, the unemployment rate also stood at 8.8%. The number of unemployed people nationwide increased by 67,000 from a year earlier, a 3% rise, mainly driven by smaller urban areas and rural centers, where unemployment rose 8%. During the February-April 2026 rolling quarter, the national unemployment rate averaged 8.9%."
     }
   ]
 }
