@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-05 11:05:46",
-  "count": 18971,
+  "updated": "2026-06-05 11:10:46",
+  "count": 18969,
   "items": [
+    {
+      "id": "mkt:019e95c1-31ad-766c-9544-e7d349e42fd0",
+      "time": "2026-06-05 11:08:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【UBS: Foreign demand for China assets rising, substantial room to increase allocations】UBS says global active managers’ China equity allocations have recovered from a Q4 2024 trough of about 5% to roughly 7%, well below a c.15% peak in 2021 and implying sizable scope for further allocation increases. UBS points to improving earnings as the chief support: A-share aggregate profit growth in Q1 rose by more than 7 percentage points, and UBS has lifted its full‑year A‑share earnings growth forecast to 11%. UBS research also flags the renminbi as this year’s most fundamentally supported core currency, forecasting c.3–4% appreciation versus major currencies, which should provide an additional incentive for offshore investors to buy A‑shares."
+    },
+    {
+      "id": "4918592",
+      "time": "2026-06-05 11:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智源清華合作成果登上Science，腦科學多模態基礎模型Brainμ為技術支撐】6月4日，北京智源人工智慧研究院與清華大學聯合開展的研究相關成果“Memory Reactivation Underlies Experience-Dependent Adaptive Regulation of Sleep”在國際學術期刊《科學》（Science）發表。研究表明，睡眠中的記憶重啟用參與調控睡眠動態，為理解“記憶-睡眠”雙向作用機制提供了新的實驗證據。作為本研究中的資料分析的技術支撐，智源研究院AI+神經科學團隊研發的腦科學多模態基礎模型Brainμ0，為研究中的記憶-睡眠多模態資料分析、輔助科學家假設驗證、睡眠狀態識別等關鍵分析環節提供了支撐。"
+    },
+    {
+      "id": "4918591",
+      "time": "2026-06-05 11:07:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部：5月通脹環比回落，因柴油、肉類價格走低。"
+    },
+    {
+      "id": "4918590",
+      "time": "2026-06-05 11:07:20",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "泰國5月消費者物價指數（CPI）環比上漲0.17%。"
+    },
+    {
+      "id": "mkt:019e95bf-3fdc-766c-9544-dfb7864b6f5f",
+      "time": "2026-06-05 11:06:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact mixed"
+      ],
+      "text": "【Tencent EVP Tang Daosheng acknowledges uneven pace across business lines, open to external feedback】At an AI industry summit Tang Daosheng, Tencent’s senior executive vice president, acknowledged that speed varies across the company’s complex organization, with some business lines faster than others, and said the firm welcomes external criticism and suggestions. He said he believes models will continue to iterate as user demand evolves and new product forms emerge, and noted Tencent reacted relatively quickly to the Longxia wave earlier this year."
+    },
+    {
+      "id": "4918589",
+      "time": "2026-06-05 11:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湯道生回應\"騰訊慢了\"：承認業務線快慢不一 接受外界提醒和建議】在騰訊AI產業峰會現場，針對外界“騰訊慢了”的批判，騰訊集團高階執行副總裁湯道生作出回應，其承認在複雜組織中不同業務線速度不一，有快有慢，也有失敗與探索，對外界批評與提醒持開放態度並接受建議。湯道生表示：\"在這樣的一個長跑，我相信模型會不斷迭代，使用者的需求也在不斷變化，也會有新的產品形態出現，我覺得我們今年年初對龍蝦這一波熱潮也反應比較快。\""
+    },
+    {
+      "id": "4918588",
+      "time": "2026-06-05 11:05:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報72.38美元/盎司。"
+    },
     {
       "id": "4918587",
       "time": "2026-06-05 11:04:54",
@@ -174735,86 +174803,6 @@
         "其他"
       ],
       "text": "MELIUS RESEARCH將戴爾目標股價從380美元上調至565美元。"
-    },
-    {
-      "id": "mkt:019e71b6-2574-7ee0-99e2-3abe785a39a4",
-      "time": "2026-05-29 11:10:20",
-      "tags": [
-        "MKT News",
-        "000799.SZ",
-        "Impact bullish"
-      ],
-      "text": "A-share baijiu sector continued to rally; Jiugui Liquor hit limit-up, while Jinshiyuan, Wushang Group, Yingjia Gongjiu and Kuaijishan also advanced."
-    },
-    {
-      "id": "4906026",
-      "time": "2026-05-29 11:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美司法部對指控特朗普性侵的女作家展開調查】美國媒體28日援引訊息人士的話報道說，美司法部對曾指控美國總統特朗普性侵的女作家珍妮·卡羅爾展開調查。美聯社報道說，一名知情人士透露，司法部已展開調查，以查明卡羅爾是否在針對特朗普提起的民事訴訟中作偽證。報道說，卡羅爾2022年曾在一份證詞中表示，她的訴訟沒有獲得任何外部資金。但後來有訊息透露，一家位於芝加哥的組織曾資助卡羅爾案。特朗普的律師在民事訴訟中指責卡羅爾隱瞞了這一資訊，稱這讓人質疑該案是否出於政治動機。（新華社）"
-    },
-    {
-      "id": "mkt:019e71b4-ad1a-7ee0-99e2-37118a56bba8",
-      "time": "2026-05-29 11:08:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wuhan residential plot sold at 31% premium】May 29 — A residential plot in Wuchang District, Wuhan, drew at least 10 bidders and was won by Poly Real Estate after 33 bidding rounds for 802.2 mln yuan. The implied floor price was 21,111 yuan/sq m and the premium was 31.04%. The floor price is a record high for residential land in Wuchang District."
-    },
-    {
-      "id": "mkt:019e71b4-8309-7ee0-99e2-2886482e4172",
-      "time": "2026-05-29 11:08:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China to help South Asian exporters expand access to Chinese market, MOFCOM says】MOFCOM vice minister Yan Dong told a State Council press briefing that China has taken multiple steps to help South Asian countries expand exports to China: granting preferential tariff treatment to some countries; promoting South Asian specialty products; using trade fairs and e‑commerce platforms to market those products; and providing export-capacity assistance."
-    },
-    {
-      "id": "4906025",
-      "time": "2026-05-29 11:08:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達60億港元。"
-    },
-    {
-      "id": "4906024",
-      "time": "2026-05-29 11:08:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【城堡證券預計美伊達成協議機率較高，稱投資者低估市場全面反彈可能性】據報道，城堡證券表示，投資者可能低估了霍爾木茲海峽“及時\"重新開放所引發市場全面反彈的可能性。該行策略師Frank Flight稱，美伊達成恢復海峽航運的協議可能性相當大。Flight預計，如果海峽在7月底前全面恢復開放，10年期美國國債收益率可能下降超過12個基點，標普500指數上漲1.7%，美元下跌0.5%。"
-    },
-    {
-      "id": "mkt:019e71b3-709d-7ee0-99e2-2611eb53808c",
-      "time": "2026-05-29 11:07:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Iceland to hold referendum on resuming EU accession talks】Iceland's parliament on the 28th approved a resolution to hold a national referendum on Aug. 29 to decide whether to resume EU accession negotiations. If voters back restarting talks, the government will notify the EU and formal negotiations could resume; any final accession agreement would face a separate referendum. Iceland applied to join the EU in 2009, suspended talks in 2013 and subsequently halted them, but the European Commission says the application has not been formally withdrawn."
-    },
-    {
-      "id": "4906023",
-      "time": "2026-05-29 11:07:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢1宗宅地溢價超31%成交】5月29日，武漢武昌區1宗宅地出讓，該地塊吸引了至少十家競買人參與競價，經過33輪競價，最終由保利置業以總價8.022億元競得，成交樓面價21111元/㎡，溢價率31.04%。該成交樓面價創武昌區宅地成交樓面價新高。"
-    },
-    {
-      "id": "4906022",
-      "time": "2026-05-29 11:06:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "PIPER SANDLER將戴爾科技公司目標價從167美元上調至497美元。"
     }
   ]
 }
