@@ -1,7 +1,168 @@
 {
-  "updated": "2026-06-05 09:26:41",
-  "count": 18975,
+  "updated": "2026-06-05 09:30:28",
+  "count": 18977,
   "items": [
+    {
+      "id": "mkt:019e9566-8a50-7cc8-bdf1-76ded38eafc6",
+      "time": "2026-06-05 09:29:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Philippines May inf slows as U.S.-Iran ceasefire hopes weigh on fuel】Philippine consumer price inf eased to 6.8% YoY in May from 7.2% in April, below the 7.8% median survey and the PHILIPPINE C.BANK's prior 7.1%-7.9% projection for May. Preliminary extension of a U.S.-Iran ceasefire has pushed global energy prices down, easing imported fuel pressure for the Philippines, which sources over 90% of its oil from the Middle East. PHILIPPINE C.BANK governor Eli Remolona said policymakers will closely monitor incoming inf data ahead of the June 18 meeting to decide whether a policy rate increase is needed."
+    },
+    {
+      "id": "4918423",
+      "time": "2026-06-05 09:29:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球評級：美團面臨補貼帶來的利潤率風險。"
+    },
+    {
+      "id": "mkt:019e9565-ca89-7cc8-bdf1-6d6aada93c02",
+      "time": "2026-06-05 09:28:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share memory-chip sector opened lower; Jiangbolong fell more than 5%, GigaDevice Semiconductor dropped over 4%, and Hua Hong Semiconductor and Demingli also declined."
+    },
+    {
+      "id": "mkt:019e9565-70ee-7cc8-bdf1-66ad27afe0fb",
+      "time": "2026-06-05 09:28:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Broadcom CEO says AI growth potential outstrips M&A, forecasts over $100bn AI revenue in FY2027】Broadcom CEO Hock Tan told the Bloomberg Technology conference in San Francisco that the company has shifted focus from M&A to artificial intelligence because AI offers stronger growth potential. He said AI revenue is surging, reducing the appeal of external deals and that acquisitions are disruptive to Broadcom and its customers. Tan described demand for AI infrastructure as nearly insatiable. Broadcom, which sells networking chips and custom accelerators used to develop and run AI models, now expects the AI business to generate more than $100 billion in revenue in fiscal 2027."
+    },
+    {
+      "id": "mkt:019e9565-6cce-7cc8-bdf1-58ad006a0566",
+      "time": "2026-06-05 09:28:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Details of Apple's first OLED MacBook Pro leak; may be named MacBook Ultra】Market research firm projects the hybrid OLED notebook-panel market could reach USD 4bln by 2026, driven by expected demand for Apple’s next-generation OLED MacBook Pro, possibly named MacBook Ultra, which would be Apple’s first MacBook Pro with an OLED display. Analysts say Apple’s adoption should boost notebook OLED panel revenue and prompt other makers to shift to similar designs. Forecasts put hybrid OLED at 12.6% of global OLED notebook shipments in 2026, rising to 89.5% by 2033."
+    },
+    {
+      "id": "mkt:019e9565-30ec-7cc8-bdf1-53f903395f9e",
+      "time": "2026-06-05 09:28:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "01119.HK",
+        "Impact bullish",
+        "00772.HK",
+        "02498.HK"
+      ],
+      "text": "Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained."
+    },
+    {
+      "id": "te:markets:556644",
+      "time": "2026-06-05 09:28:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May."
+    },
+    {
+      "id": "mkt:019e9564-a19f-7cc8-bdf1-4910c054fb88",
+      "time": "2026-06-05 09:27:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share innovative drug sector opened higher; Meinuohua gained over 4%, Hanyu Pharmaceutical rose more than 2%; Hengrui Medicine, Aimeike and Chengdu Xiandao also advanced."
+    },
+    {
+      "id": "4918422",
+      "time": "2026-06-05 09:27:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "創新藥板塊多股高開，美諾華漲超4%，翰宇藥業漲超2%，恆瑞醫藥、愛美客、成都先導等跟漲。"
+    },
+    {
+      "id": "mkt:019e9564-626d-7cc8-bdf1-47ee41463b6b",
+      "time": "2026-06-05 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened down 12.95 points (-0.32%) at 4,044.83 on Friday, June 5; Shenzhen Composite Index opened down 65.88 points (-0.42%) at 15,595.70; CSI 300 Index opened down 17.78 points (-0.36%) at 4,886.96; ChiNext Index opened down 8.93 points (-0.22%) at 4,079.95; STAR 50 Index opened down 31.53 points (-1.81%) at 1,706.53."
+    },
+    {
+      "id": "mkt:019e9563-bb7e-7cc8-bdf1-3cbd4696d3eb",
+      "time": "2026-06-05 09:26:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell back below $4,450/oz, down 0.58% intraday."
+    },
+    {
+      "id": "4918421",
+      "time": "2026-06-05 09:26:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤澤科技成立兩家科技發展公司】企查查APP顯示，近日，河北潤弘科技發展有限公司、河北潤嘉科技發展有限公司成立，註冊資本均為1000萬元，經營範圍均包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，二者皆由潤澤科技間接全資持股。"
+    },
+    {
+      "id": "4918420",
+      "time": "2026-06-05 09:26:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4450美元/盎司，日內跌0.57%。"
+    },
+    {
+      "id": "4918419",
+      "time": "2026-06-05 09:26:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元貶值1%。"
+    },
+    {
+      "id": "4918418",
+      "time": "2026-06-05 09:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國尋求在6月前與美國達成貿易協議，目標關稅為10%。"
+    },
     {
       "id": "4918417",
       "time": "2026-06-05 09:25:25",
@@ -174655,130 +174816,6 @@
         "公司"
       ],
       "text": "【百濟神州宣佈安泰適獲批用於小細胞肺癌二線治療】百濟神州今日宣佈，由百濟神州與安進公司（Amgen）共同負責開發和商業化的首個且目前唯一獲批的靶向DLL3和CD3的雙特異性T細胞銜接器（TCE）抗體安泰適®（注射用塔拉妥單抗）獲得國家藥品監督管理局（NMPA）批准，用於既往接受過1種系統性治療（包括含鉑化療）失敗的廣泛期小細胞肺癌（ES-SCLC）成人患者。"
-    },
-    {
-      "id": "4905847",
-      "time": "2026-05-29 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.39%， 滬深300指數期貨連續漲0.37%， 中證500指數期貨連續漲0.29%， 上證50指數期貨連續漲0.27%。"
-    },
-    {
-      "id": "4905846",
-      "time": "2026-05-29 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.22%， 10年期主力合約跌0.05%， 5年期主力合約跌0.02%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4905845",
-      "time": "2026-05-29 09:29:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.09%。春23轉債、立訊轉債、金05轉債、泰坦轉債、惠城轉債漲幅居前，分別漲6.97%、5.45%、2.64%、2.37%、2.27%。聯瑞轉債、宙邦轉債、華特轉債、三房轉債、甬矽轉債跌幅居前，分別跌2.01%、1.79%、1.17%、0.99%、0.97%。"
-    },
-    {
-      "id": "mkt:019e7159-a988-7ee0-99df-d3325b16027d",
-      "time": "2026-05-29 09:29:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share lab-grown diamond sector opened higher; Sifangda rose over 13% at the open, Huanghe Xuanfeng climbed over 9%, Huifeng Diamond and Chujiang New Materials also advanced."
-    },
-    {
-      "id": "4905844",
-      "time": "2026-05-29 09:29:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將百思買評級下調至中性；目標價 86 美元。"
-    },
-    {
-      "id": "4905843",
-      "time": "2026-05-29 09:28:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【培育鑽石板塊高開，四方達高開超13%】培育鑽石板塊高開，四方達高開超13%，黃河旋風高開超9%。"
-    },
-    {
-      "id": "4905842",
-      "time": "2026-05-29 09:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：美伊接近達成初步意向 仍有細節待敲定】對於有訊息稱“美國與伊朗談判代表已就延長停火60天及啟動伊朗核問題談判達成初步共識，但目前仍需等待美國總統特朗普批准該份諒解備忘錄”，美國副總統萬斯當地時間5月28日對媒體表示，“談判正取得進展，但還有很多細節亟待敲定。”萬斯稱，“還沒成，但我們非常接近了。”他還強調，任何協議都“必須包含核查機制，以確保伊朗履約”。（央視）"
-    },
-    {
-      "id": "mkt:019e7158-0365-7ee0-99df-cc247e3eb494",
-      "time": "2026-05-29 09:27:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000300.SS",
-        "Impact bullish",
-        "000001.SS",
-        "399001.SZ"
-      ],
-      "text": "At the open on May 29 (Fri), China's Shanghai Composite Index was 4,110.52, up 11.89 points or 0.29%; Shenzhen Composite Index was 15,957.12, up 95.22 points or 0.60%; CSI 300 Index was 4,937.51, up 23.30 points or 0.47%; China ChiNext Index was 4,141.91, up 16.84 points or 0.41%; China STAR 50 Index was 1,850.27, up 6.02 points or 0.33%."
-    },
-    {
-      "id": "4905841",
-      "time": "2026-05-29 09:27:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AI伺服器概念集體高開 新亞電子一字漲停】早盤AI伺服器概念集體高開，新亞電子一字漲停，華勤技術、浪潮資訊、廣合科技、工業富聯均漲超5%。"
-    },
-    {
-      "id": "mkt:019e7157-da08-7ee0-99df-c1400a642036",
-      "time": "2026-05-29 09:27:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY 30.0 bln drain via reverse repos today; CNY 104.4 bln net drain for week】PBOC conducted CNY 123.0 bln of 7-day reverse repos today; CNY 153.0 bln of 7-day reverse repos matured, producing a net daily withdrawal of CNY 30.0 bln. For the week the PBOC executed CNY 908.9 bln of reverse repos; with CNY 500.0 bln of 1‑year MLF and CNY 304.5 bln of reverse repos maturing, the net weekly withdrawal was CNY 104.4 bln."
-    },
-    {
-      "id": "mkt:019e7157-9184-7ee0-99df-b91d8377506a",
-      "time": "2026-05-29 09:27:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Chip Wars",
-        "002594.SZ",
-        "Impact bullish",
-        "01211.HK"
-      ],
-      "text": "BYD shares rose across A- and H-listings; A-shares gained over 3% and H-shares (01211.HK) rose more than 2%. The company said it launched a self-developed 4nm autonomous-driving chip, Xuanji A3, which it describes as China’s first 4nm AD chip and said it supports L3 and L4 autonomous driving."
-    },
-    {
-      "id": "4905840",
-      "time": "2026-05-29 09:26:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "比亞迪AH股齊漲，比亞迪A股漲超3%，比亞迪股份(01211.HK)H股漲超2%；公司日前釋出自研4nm製程智駕晶片璇璣A3，這是中國首款4nm智駕晶片，支援L3、L4自動駕駛。"
-    },
-    {
-      "id": "4905839",
-      "time": "2026-05-29 09:26:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧相關個股走強 深演智慧漲近13%】截至發稿，深演智慧(02723.HK)漲12.86%，壁仞科技(06082.HK)漲5.29%，迅策(03317.HK)漲2.71%，MINIMAX-W(00100.HK)漲2.69%。"
     }
   ]
 }
