@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-06 01:36:23",
-  "count": 18759,
+  "updated": "2026-06-06 01:40:20",
+  "count": 18760,
   "items": [
+    {
+      "id": "4920247",
+      "time": "2026-06-06 01:39:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國在墨西哥貿易談判中要求出臺更嚴苛的汽車零部件准入規則。"
+    },
+    {
+      "id": "mkt:019e98dd-b9b5-7665-830a-fd8735d7342e",
+      "time": "2026-06-06 01:38:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wall Street Journal: Trump says he urged acting DNI Bill Pulte to cut ODNI staff】According to the Wall Street Journal, President Trump said he has privately urged acting director of national intelligence Bill Pulte to begin large-scale layoffs to drive a reorganization of the U.S. intelligence community. Trump said he told Pulte he believes the Office of the Director of National Intelligence, which oversees 18 federal intelligence agencies and departments, is 'not necessary, or too large.' He added 'I want it smaller; I think there are a lot of people in there who shouldn't be there.' When asked whether he was calling for Pulte to fire employees, Trump said he wanted Pulte to 'start the process' and that a permanent nominee should continue the effort."
+    },
     {
       "id": "4920246",
       "time": "2026-06-06 01:35:09",
@@ -172768,18 +172785,6 @@
         "公司"
       ],
       "text": "市場訊息：環球音樂集團董事會拒絕潘興廣場的主動收購提案。"
-    },
-    {
-      "id": "mkt:019e74d2-2215-7bb7-9965-0fce033e74c2",
-      "time": "2026-05-30 01:39:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Intercontinental Exchange data: week to May 26, speculative net long positions in Brent crude fell by 56,568 contracts to 278,720 contracts."
     }
   ]
 }
