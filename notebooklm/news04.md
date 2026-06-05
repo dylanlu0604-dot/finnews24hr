@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 04:43:04_
-_本檔包含 3612 則快訊，約 700942 字_
+_更新時間：2026-06-06 05:43:39_
+_本檔包含 3613 則快訊，約 700837 字_
+
+---
+
+### 2026-06-02 18:43:05  #其他
+
+蒙特利爾銀行將聯邦快遞目標股價從410美元下調至340美元。
+
+---
+
+### 2026-06-02 18:41:19  #MKT News #APSEZ.NS #Impact bullish
+
+India's Adani Ports said cargo throughput rose 16% in May, while container throughput rose 17%.
+
+---
+
+### 2026-06-02 18:40:35  #其他
+
+阿達尼港口：2026年5月貨運量為4830萬噸，同比增長16%。
+
+---
+
+### 2026-06-02 18:40:31  #市場
+
+阿達尼港口 5 月集裝箱吞吐量同比上漲 17%。
+
+---
+
+### 2026-06-02 18:40:08  #其他
+
+【香港樓市裡投資客身影增多，買家急了】香港樓市熱度持續。在剛剛過去週末，港資開發商新鴻基旗下一專案的第四輪推售再度即日沽清。香港中原地產資料顯示，今年5月份，一手市場交投活躍，全月錄得近2100宗成交，已連續三個月突破二千宗水平。香港樓市被啟用，一方面是積壓的香港本地剛需終於得到釋放，另一方面是內地買家提供了支撐。同時，內地買家的積極態度也增強了香港購房者的信心。多重因素作用下，“遲買更貴”的心態出現，促使買家入市的步伐加快。業內認為，當下的香港樓市已沒有辣招的束縛，疊加港府人才等政策的推動，香港住宅市場有望保持強勁的增長勢頭。（第一財經）
+
+---
+
+### 2026-06-02 18:39:44  #MKT News #Market Regions #Emerging Markets
+
+Indian government says the revised Wholesale Price Index (WPI) and a new Producer Price Index (PPI) are scheduled for release on June 15.
+
+---
+
+### 2026-06-02 18:39:42  #國際
+
+印度政府：修訂後的批發價格指數及全新生產者價格指數定於6月15日釋出。
+
+---
+
+### 2026-06-02 18:39:32  #公司 #市場
+
+【*ST清越：股票交易異常波動 存在重大違法退市風險】*ST清越公告稱，公司股票在2026年6月1日、2日收盤價格漲幅偏離值累計達30%，屬異常波動。公司於5月8日收到中國證監會《行政處罰事先告知書》，可能觸及重大違法行為，5月12日起被實施退市風險警示；4月30日因2025年度財務報告內部控制被出具否定意見審計報告，被實施其他風險警示。截至6月2日，公司、控股股東及實控人不存在應披露未披露重大資訊，目前生產經營未變，相關風險未消除，提醒投資者注意風險。
+
+---
+
+### 2026-06-02 18:39:25  #其他
+
+【阿富汗帕爾萬省一客車翻車 致8死16傷】當地時間6月2日，阿富汗帕爾萬省警方發言人表示，該省一輛客車當天上午在行駛過程中偏離道路、發生翻車事故，導致包括4名兒童在內8人死亡，另有16人受傷。（央視新聞）
+
+---
+
+### 2026-06-02 18:38:54  #其他
+
+【全線通水 平陸運河邁入通航衝刺階段】平陸運河工程全線通水，標誌著這一重大水利工程進入通航的關鍵階段。工程的推進對於區域經濟發展、交通運輸以及水資源管理具有重要意義。相關部門正加快施工進度，確保專案按計劃順利實施，為後續通航和運營奠定堅實基礎。（新華社）
+
+---
+
+### 2026-06-02 18:38:04  #公司 #市場 #國際
+
+【SK集團會長崔泰源：海力士計劃五年內將晶圓產能擴充一倍】6月2日，韓國SK集團會長崔泰源在臺北電腦展現場對媒體透露，旗下的儲存晶片公司SK海力士計劃五年內將晶圓產能翻番。英偉達、高通、英特爾、SK海力士等全球頂尖科技企業高管齊聚本次展會。崔泰源曾在3月預警，全球晶圓緊缺局面或將延續至2030年。崔泰源同時表示，企業需要深化在臺合作佈局，合作物件不能僅侷限於全球第一大晶圓代工廠臺積電。他還提到，希望SK海力士能成為英偉達Vera Rubin算力系統的主力高頻寬記憶體（HBM）供貨商。（澎湃）
+
+---
+
+### 2026-06-02 18:37:49  #MKT News #Market Regions #Europe & UK
+
+European Council President Costa said Albania has made rapid, concrete progress toward EU accession and urged further advancement of enlargement as the EU prepares for the EU–Western Balkans summit this Friday.
+
+---
+
+### 2026-06-02 18:37:41  #國際
+
+印度：莫迪將與羅德里格斯舉行雙邊會談。
+
+---
+
+### 2026-06-02 18:37:04  #公司
+
+【比亞迪計劃年底前建成2萬座超充站】深圳市深汕特別合作區產業投資促進大會召開。比亞迪副總裁羅忠良在會上表示，公司計劃今年年底前建成2萬座超充站。截至5月底，已建成超6150座，其中深圳149座。
+
+---
+
+### 2026-06-02 18:36:49  #公司
+
+【昊海生科：控股子公司三焦點人工晶狀體產品獲醫療器械註冊證】昊海生科公告稱，公司控股子公司河南賽美視生物科技有限公司近日收到國家藥監局頒發的三焦點人工晶狀體產品《醫療器械註冊證》，註冊證有效期為2026年6月1日至2031年5月31日。該產品適用於成人白內障患者無晶體眼的視力矯正。此產品採用獨家專利技術，完善了公司在高階多焦點人工晶狀體領域佈局，但尚未形成銷售，不會對近期業績產生重大影響，未來銷售情況有不確定性。
+
+---
+
+### 2026-06-02 18:36:15  #公司 #觀點
+
+花旗集團將慧與科技目標價從39美元上調至70美元；富國銀行將惠普目標價從26美元上調至67美元。
+
+---
+
+### 2026-06-02 18:35:54  #MKT News
+
+India's foreign ministry said Venezuela's interim president Rodriguez will visit India from June 3 to 7.
+
+---
+
+### 2026-06-02 18:35:52  #公司
+
+【昊海生科：控股子公司三焦點人工晶狀體產品獲得醫療器械註冊證】昊海生科公告，控股子公司河南賽美視生物科技有限公司於近日收到國家藥品監督管理局頒發的三焦點人工晶狀體產品的《中華人民共和國醫療器械註冊證》。該產品適用於成人白內障患者無晶體眼的視力矯正，註冊證有效期為2026年6月1日至2031年5月31日。本產品採用獨家專利技術，定製化每一級衍射環的高度與光能分佈，並採用精準濾波技術，進一步提升視覺質量和光能利用率。
+
+---
+
+### 2026-06-02 18:35:44  #國際
+
+【以方澄清特朗普與內塔尼亞胡通話相關報道】據以色列i24News記者報道，以色列總理內塔尼亞胡團隊一位高階官員透露，關於深夜內塔尼亞胡-特朗普通話的Axios報道不準確。特朗普並未就監禁問題發表個人評論，也未稱內塔尼亞胡在全球受憎恨。相反，通話緊張的焦點在於社交媒體上的相互矛盾資訊：特朗普認為內塔尼亞胡暗示戰爭仍在全面進行，而內塔尼亞胡則認為特朗普暗示全面停火。特朗普確實提到，捍衛以色列的全球地位十分困難，並可能引發仇恨。最終，通話以達成理解結束：只要以色列本土不受攻擊，將暫緩對貝魯特的打擊。
+
+---
+
+### 2026-06-02 18:35:21  #MKT News
+
+【China cycling user base surpasses 130 mln; cycling gear sales surge, folding-bike production and sales robust】Data show China’s cycling user base has exceeded 130 mln. The expanding rider population has lifted demand for cycling equipment. Store checks indicate sport-bike sales are steady while cycling gear has emerged as a new growth driver; design-focused helmets, gloves and cycling apparel are particularly strong sellers. Domestic cycling-equipment patent filings total 1,058, with design and utility-model patents accounting for 88.1%.
+
+---
+
+### 2026-06-02 18:34:52  #宏觀 #市場
+
+【財政部發行2026年記賬式貼現（三十三期）國債】（一）品種。本期國債為期限28天的貼現債。 （二）發行數量。本期國債競爭性招標面值總額200億元，進行甲類成員追加投標。 （三）發行價格。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。 （四）本息兌付日期。本期國債自2026年6月4日開始計息，於2026年7月2日（節假日順延）按面值償還。
+
+---
+
+### 2026-06-02 18:34:46  #MKT News #HPQ.N #Impact bullish
+
+Wells Fargo raised its price target on HP Inc. (HPQ.N) to $67 from $26.
+
+---
+
+### 2026-06-02 18:34:38  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Israeli official says Axios report on Netanyahu-Trump call inaccurate】An i24News reporter cited a senior member of Prime Minister Netanyahu’s team saying Axios’s late-night report on the Netanyahu-Trump call is inaccurate. The official said Trump did not comment personally on the detention issue nor describe Netanyahu as globally despised. The call’s tension centered on conflicting social-media messages: Trump believed Netanyahu implied the war remained fully underway, while Netanyahu interpreted Trump as signaling a full ceasefire. Trump reportedly said defending Israel’s global standing is difficult and could provoke hatred. The call ended with an understanding that strikes on Beirut would be suspended so long as Israeli territory is not attacked.
+
+---
+
+### 2026-06-02 18:34:33  #國際
+
+委內瑞拉臨時總統德爾茜·羅德里格斯將於6月3日至7日訪問印度。
+
+---
+
+### 2026-06-02 18:34:24  #國際
+
+【日本防衛省：以沖繩為前沿強化“戰時醫療”體制】日本防衛省相關負責人表示，防衛省正以沖繩為前沿，強化“戰時醫療”體制建設，推進多家自衛隊醫院擴充病床、強化醫療功能、構建醫療後送體制等。防衛省將宮古島、石垣島、與那國島等設想為前沿地區，正構建從前線救護、野戰醫院、那霸醫院向九州和本州地區轉運的醫療後送體制。（央視新聞）
+
+---
+
+### 2026-06-02 18:34:20  #其他
+
+【豆包回應DeepSeek降價】6月2日，騰訊雲宣佈：為持續降低使用者使用成本，騰訊雲智慧體開發平臺將於北京時間2026年6月3日00:00對DeepSeek-V4系列模型價格進行下調，最高降幅達97.5%。 對此，豆包表示：同行降價挺好呀，行業捲起來大家都受益，我們安心做好日常使用者體驗就完事啦。對於使用者流失問題，豆包並不擔心，認為雙方使用者需求並不一致。 就在前一天，有媒體報道，豆包預計將在6月下旬正式上線付費內容。5月初公佈的豆包訂閱服務宣告上曾披露三檔訂閱價格：標準版連續包月每月68元（連續包年688元）、加強版連續包月每月200元（連續包年2048元）、專業版連續包月每月500元（連續包年5088元）。
+
+---
+
+### 2026-06-02 18:32:54  #其他
+
+【“揚子江”輪在滬交付 高效綠色改裝助力全球船舶低碳升級】6月2日，全球最大獨立集裝箱船東Seaspan 10K系列甲醇雙燃料改裝專案首制船“SEASPAN YANGTZE”（“揚子江”輪），在上海中遠海運重工提前完成全部改造工程，順利交付運營。這是企業交付的全球最大獨立集裝箱船東首個甲醇雙燃料EPC（設計、採購、建造）總包專案，標誌著我國船舶工業在綠色船舶改裝領域從服務國內客戶邁向接軌國際高階船東的跨越。（央視新聞）
+
+---
+
+### 2026-06-02 18:32:41  #公司
+
+【雲鼎科技：董事徐加利增持0.0015%股份】雲鼎科技公告，於2026年6月2日，公司董事徐加利透過集中競價增持公司股份10000股，增持均價9.67元/股，佔公司總股本0.0015%，增持前持股0股，佔比0.00%，增持後持股10000股，佔比0.0015%，資金來源為個人自有資金，目前暫無後續增持計劃。
+
+---
+
+### 2026-06-02 18:32:19  #公司 #市場 #觀點
+
+【山東黃金：子公司擬參與股權交易 確認7.05億元公允價值變動損失】山東黃金公告稱，2026年6月2日，公司子公司山金金控擬參與東吳證券收購東海證券股權交易，擬出售其持有的14.13%的股份，對應262,198,067股，轉讓價格為19.45億元。經初步測算，山金金控將對持有的東海證券18.71%股份確認公允價值變動損失約7.05億元，預計減少公司2026年度利潤總額7.05億元。本次交易尚需多項審批，存在不確定性。
+
+---
+
+### 2026-06-02 18:32:13  #MKT News #Commodities #Industrial Metals
+
+【Huifeng Diamond "30CM" hits daily limit; company says unaware if products used for diamond heat sinks】June 2 — Huifeng Diamond shares tied to 30CM jumped to the daily trading limit amid a broad rally in the lab-grown diamond sector. The company said the industry is in a recovery phase and has enacted two price increases since 2026, raising prices roughly 5–15%. It warned tungsten, a key material in machine components for producing lab-grown diamonds, has risen notably since last year and is increasing equipment procurement costs. The recent sector surge is largely driven by market talk that diamond heat sinks could displace copper and aluminum in high-power, high-energy AI applications, and some leading AI firms are trialing diamond heat sinks; Huifeng said it does not sell directly to end customers and does not know whether its products are used in those applications.
+
+---
+
+### 2026-06-02 18:31:34  #公司 #觀點
+
+【東吳證券：擬收購東海證券83.68%股份 交易作價115.19億元】東吳證券(601555.SH)公告稱，擬發行股份及支付現金購買常州投資集團有限公司等60名交易對方持有的東海證券83.68%的股份，交易作價115.19億元。
+
+---
+
+### 2026-06-02 18:31:11  #公司 #市場
+
+【惠豐鑽石“30CM”漲停，公司回應：對產品是否應用到金剛石散熱領域不知情】6月2日，培育鑽石板塊大漲。Wind資料顯示，截至6月2日收盤，Wind培育鑽石指數漲幅達到6.08%，惠豐鑽石股價收報80.6元/股，收盤漲幅達到30%。對於股價大漲，惠豐鑽石方面獨家回應中國證券報·中證金牛座記者稱，培育鑽石行業處於復甦週期，2026年以來，行業已經進行了兩次調價，價格漲幅約為5%到15%。此外，去年以來，鎢價出現了較為明顯的上漲，而鎢是製作培育鑽石的機器生產裝置重要零部件所用材料，因此鎢價上漲對於培育鑽石採購裝置的成本有一定影響。近期培育鑽石板塊大漲的主要原因和市場上所說的金剛石有望替代銅、鋁等材料用於高功率、高耗能產品有關。“金剛石作為散熱材料有望逐步進入AI賽道，一些頭部AI廠商已經在嘗試使用金剛石生產的散熱片。但是，公司並不直接對接客戶，也不知道公司所生產的產品是否應用到這些領域。”惠豐鑽石方面告訴記者。（中證金牛座）
+
+---
+
+### 2026-06-02 18:30:12  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.64% Higher — The SENSEX Index went up by 476 points or 0.64 percent on Tuesday to close at 74744 points. The rise was led by Tata Consultancy (6.74%), Infosys (5.49%) and HCL Tech (4.15%). On the downside, the weakerst performers were NTPC (-2.98%), Axis Bank (-1.76%) and Power Grid (-1.45%).
 
 ---
 
@@ -21589,197 +21787,5 @@ i24News reports Red Alert sirens activated across large parts of Israel's Galile
 ### 2026-06-01 17:39:27  #MKT News
 
 【Tianjin launches enforcement campaign on real estate transactions and brokerage market】Tianjin's municipal housing and urban‑rural development commission and municipal market supervision commission have instructed district housing and market regulators to carry out an about two‑month enforcement campaign to restore order in real‑estate transactions and the brokerage market. The campaign will focus on high‑complaint issues, intensify enforcement against false advertising and improper or illegal brokerage charges, and strengthen information sharing, case referrals and joint enforcement. Authorities will promptly handle violations in accordance with law to deter misconduct, protect consumers’ legal rights and help resolve market disputes to support stable development of Tianjin’s real estate market.
-
----
-
-### 2026-06-01 17:38:40  #MKT News
-
-【9 IPO applications accepted last week】May 25-31: Chinese exchanges accepted nine IPO applications for review — Shanghai Stock Exchange main board 1; STAR Market 3; Shenzhen ChiNext 4; Beijing Stock Exchange 1. As of May 31, 44 IPO applications have been accepted year-to-date.
-
----
-
-### 2026-06-01 17:38:14  #其他
-
-【上週新增IPO企業受理9家】據上交所企業上市服務，本期（5月25日—5月31日）新增9家受理企業，其中上交所主機板1家，科創板3家。深交所創業板4家，北交所1家。截至5月31日，今年新增44家受理企業。
-
----
-
-### 2026-06-01 17:37:16  #MKT News #0175.HK #Impact bullish
-
-Geely Auto reported May total vehicle sales of 237,637 units, up about 1% year-on-year.
-
----
-
-### 2026-06-01 17:37:15  #MKT News #Commodities #Energy
-
-South African government announced wholesale diesel prices for June will be cut by up to 324.96 cents per litre.
-
----
-
-### 2026-06-01 17:37:00  #其他
-
-南非政府：6月全國批發柴油價格每升最多下調324.96分。
-
----
-
-### 2026-06-01 17:36:40  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Bund Yields Rise as US-Iran Tensions Boost Oil — German 10-year Bund yields climbed back to 2.98% at the start of June, rebounding from two-month lows touched last week, as oil prices surged amid escalating US-Iran tensions. Both nations continued exchanging strikes, with Iran targeting a US airbase linked to an attack on a Sirik Island telecommunications tower, while both sides invoked "self-defense." Over the weekend, they exchanged proposals to revise a draft deal to extend the ceasefire and reopen the Strait of Hormuz, though progress remained unclear. Economically, German retail sales fell in April for a fourth consecutive month, though the decline was slightly less than expected. Markets now await the Eurozone inflation report this week, after May data showed EU-harmonized inflation accelerated in France, Italy, and Spain, while Germany saw a slowdown. ECB minutes also revealed some policymakers would have backed an April rate hike, reinforcing expectations of a 25-basis-point increase at the June 11 meeting.
-
----
-
-### 2026-06-01 17:36:19  #其他
-
-吉利汽車：5月插電式混動汽車銷量56722輛。5月純電動汽車銷量 76633輛。
-
----
-
-### 2026-06-01 17:36:04  #MKT News #Commodities #Energy
-
-South African government said petrol prices will rise by 143 cents per litre in June.
-
----
-
-### 2026-06-01 17:36:02  #MKT News #Commodities #Energy
-
-【India's largest coal miner reports output decline as inventories top 100 mln t】India's largest coal miner said in a filing on Monday that May production fell nearly 12% and output since April is down about 11% YoY, even as sustained heat pushed power demand to new highs. Exports rose only 1%. Unsold inventories have stayed above 100 mln t over the past year, constraining production as demand lags supply. The company said the drop in output during peak months highlights challenges from energy-market diversification and that its former near-monopoly is being eroded by new state and private producers taking market share.
-
----
-
-### 2026-06-01 17:36:00  #其他
-
-吉利汽車：5月汽車銷量237637輛。較去年同期增長約1%。
-
----
-
-### 2026-06-01 17:35:57  #Trading Economics #Economy #Pakistan #Producer Prices Change #Importance 1
-
-Pakistan Wholesale Inflation Slows in May — Wholesale price inflation in Pakistan eased to 12.71% year-on-year in May 2026 from 13.57% in the previous month. Prices slowed in agriculture, forestry, and fishery (0.96% vs 2.77% in April), ores, minerals, and utilities (8.48% vs 8.62%), and other transportable goods (36.08% vs 39.95%). Meanwhile, costs rose in food, beverages, tobacco, textiles, and leather products (6.87% vs 5.41%), particularly leather products (16.11% vs 0.26%). Inflation in metal products, machinery, and equipment also picked up (5.22% vs 3.90%). On a monthly basis, wholesale prices declined to 0.75% in May from 5.07% in the preceding period.
-
----
-
-### 2026-06-01 17:35:43  #其他
-
-南非政府：6月汽油零售價格每升上調143分。
-
----
-
-### 2026-06-01 17:35:39  #MKT News
-
-【Iran says it foiled six-member terrorist cell】On the 1st, Iran's intelligence agency said it dismantled a six-member terrorist cell operating inside the country. The group purchased weapons and ammunition and manufactured bombs with intent to attack security installations and military centers. Members were arrested in a southern Iranian city by intelligence forces.
-
----
-
-### 2026-06-01 17:35:37  #國際
-
-【伊朗情報機構宣佈搗毀一恐怖分子團伙】當地時間1日，伊朗情報機構宣佈，搗毀一個在伊朗境內活動的6人恐怖分子團伙。該團伙購買武器彈藥並製造了炸彈，企圖對伊朗安全設施、軍事中心等目標發動襲擊。該團伙在伊朗南部一個城市被情報部門逮捕。（央視新聞）
-
----
-
-### 2026-06-01 17:35:27  #公司
-
-挪威天然氣輸送公司GASSCO：Oseberg油田6月3日至6月6日發生計劃外停機，日輸氣量減少1050萬立方米。
-
----
-
-### 2026-06-01 17:35:13  #MKT News
-
-HKEX filing shows Goldman Sachs Group's short position in Bilibili (09626.HK) fell to 3.97% on May 27 from 4.54%.
-
----
-
-### 2026-06-01 17:35:07  #公司 #市場
-
-【ST雲動：股票連續2日漲幅偏離值達12.89% 不存在未披露重大事項】ST雲動公告稱，公司股票於2026年5月29日及6月1日連續2個交易日收盤價格漲幅累計偏離值達到12.89%，屬於股票交易異常波動。經核實，公司前期披露資訊無需更正補充，未發現可能影響股價的未公開重大資訊，生產經營正常，不存在應披露而未披露的重大事項，異常波動期間相關方未買賣公司股票。此外，公司提示，股票交易於4月28日起被疊加實施其他風險警示，相關訴訟仲裁尚無新進展。
-
----
-
-### 2026-06-01 17:35:03  #公司
-
-【海螺水泥：首次回購0.0113%公司股份，已支付的總金額為人民幣 1207.94萬元】海螺水泥公告，2026年 6月 1日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購 A 股股份 60萬股，佔公司總股本的比例為 0.0113%，回購最高價格人民幣 20.33元/股，回購最低價格人民幣 20元/股，已支付的總金額為人民幣 1207.94萬元（不含交易費用）。
-
----
-
-### 2026-06-01 17:35:01  #公司
-
-【ST萬邦：公司股票被實施其他風險警示及相關整改進展】ST萬邦公告稱，2025年度公司內部控制被出具否定意見審計報告，股票被深交所實施其他風險警示，若下一年度內部控制仍被出具無法表示意見或否定意見，股票將被實施退市風險警示。公司採取了一系列措施，包括5月7日成立“合規內控整改專項工作小組”，與審計機構核查相關問題，對關鍵財務環節自查整改，擬定專項合規培訓計劃等。目前公司生產經營正常，將持續披露進展及風險。
-
----
-
-### 2026-06-01 17:34:51  #MKT News #00300.HK
-
-HKEX filing shows UBS's long position in Midea Group (00300.HK) H shares fell to 6.26% on May 26 from 7.02%; its short position declined to 3.60% from 4.36%.
-
----
-
-### 2026-06-01 17:34:39  #宏觀
-
-【天津：部署開展房地產交易和中介市場秩序整治工作】天津市住房城鄉建設委會同市市場監管委組織各區住建和市場監管部門召開專題會議，部署開展房地產交易和中介市場秩序整治工作。按照工作安排，計劃利用2個月左右時間，聚焦人民群眾反映強烈的難點和痛點問題，加大房地產市場秩序整治力度，打擊房地產領域虛假宣傳營銷、經紀服務違規收費等違法違規行為，切實維護人民群眾合法權益。這期間，市住房城鄉建設委會同市市場監管委將組織各區完善資訊共享、線索移送、聯合執法等工作機制，周密部署安排，對涉及違法違規行為依法及時處理，形成有效震懾，推動房地產市場領域矛盾化解提質增效，促進房地產市場平穩健康發展。
-
----
-
-### 2026-06-01 17:34:29  #公司
-
-【妙可藍多：高階管理人員共增持142.33萬元】妙可藍多公告，公司副總經理王宇新先生、副總經理劉揚先生、副總經理李輝先生以及副總經理付學飛先生於2026年5月29日至6月1日期間，透過上海證券交易所集中競價交易系統增持公司股份共計75,000股，佔公司總股本的0.0147%，增持金額共計人民幣1,423,263.00元。
-
----
-
-### 2026-06-01 17:34:27  #觀點
-
-據港交所披露：高盛於5月27日將所持嗶哩嗶哩的空頭頭寸從4.54%下調至3.97%。
-
----
-
-### 2026-06-01 17:34:11  #公司 #國際
-
-俄羅斯國家原子能公司負責人：我們將商議聯合發聲，就此次襲擊向歐洲各國領導人表明立場。
-
----
-
-### 2026-06-01 17:34:01  #公司
-
-瑞銀集團於5月26日將其持有的美的集團H股多頭倉位從7.02%降至6.26%。
-
----
-
-### 2026-06-01 17:33:28  #國際
-
-【以極右翼部長被曝“強拍”羞辱影片 或為選舉作秀】以色列軍方近期攔截試圖駛往巴勒斯坦加沙地帶的“全球堅韌船隊”，並扣押大量活動人士。以國家安全部部長、極右翼政客本-格維爾隨後釋出羞辱被扣人員的影片，引發國際社會廣泛批評。以色列媒體5月31日披露本-格維爾拍攝羞辱影片的更多細節，顯示他當時不顧阻攔、強行登船並拍攝影片。有媒體認為，本-格維爾事後毫無歉意，其高調作秀或與即將舉行的新一屆議會選舉有關。（新華社）
-
----
-
-### 2026-06-01 17:33:02  #市場 #焦點
-
-紐約期金失守4520美元/盎司，日內跌1.59%。
-
----
-
-### 2026-06-01 17:32:34  #MKT News #Star Stocks #Alibaba #Tencent #Xiaomi #9988.HK #Impact mixed #0700.HK #Impact bullish #1810.HK #Impact bearish
-
-Southbound flows net bought CNY 4.657 bln today. Via Shanghai–Hong Kong Stock Connect, Akeso and Alibaba were net bought HKD 1.706 bln and HKD 579m; Xiaomi was the largest net seller at HKD 353m. Via Shenzhen–Hong Kong Stock Connect, Akeso and Tencent were net bought HKD 1.001 bln and HKD 551m; Alibaba was the largest net seller at HKD 482m.
-
----
-
-### 2026-06-01 17:32:16  #其他
-
-西門子：西門子與合作伙伴開發專為英偉達人工智慧資料中心打造的參考架構。
-
----
-
-### 2026-06-01 17:31:50  #其他
-
-【成都：城鎮職工基本養老保險滿3年可在中心城區落戶】成都市人民政府網站釋出關於在四川天府新區直管區、成都高新區和中心城區實行合法穩定就業和居住落戶的通知。通知稱，持有四川天府新區直管區、成都高新區、錦江區、青羊區、金牛區、武侯區、成華區、龍泉驛區、青白江區、新都區、溫江區、雙流區、郫都區、新津區有效期內居住證，在成都市行政區域內按照國家和省、市相關規定連續繳納城鎮職工基本養老保險3年及以上的人員，可申請落戶。
-
----
-
-### 2026-06-01 17:31:45  #國際
-
-市場訊息：伊朗革命衛隊海軍發出警告，將攔截霍爾木茲海峽內所有 “違法” 船隻。
-
----
-
-### 2026-06-01 17:31:29  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Rebound as US-Iran Tensions Lift Oil Prices — UK 10-year gilt yields rose to 4.85% at the start of June, rebounding from over one-month lows at the end of May, as oil prices surged amid escalating US-Iran tensions. Both nations continued exchanging strikes, with Iran claiming it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, while both sides cited "self-defense." Over the weekend, they exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. The geopolitical uncertainty has led investors to modestly increase expectations for further Bank of England rate hikes this year. Economically, UK house prices fell 0.6% in May, according to Nationwide, a sharper decline than the expected 0.1% and the largest monthly drop since June 2025, driven by weakening consumer confidence and the Iran conflict’s impact on energy prices.
 
 ---

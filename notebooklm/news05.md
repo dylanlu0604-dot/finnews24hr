@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 04:43:04_
-_本檔包含 3392 則快訊，約 700083 字_
+_更新時間：2026-06-06 05:43:39_
+_本檔包含 3376 則快訊，約 699595 字_
+
+---
+
+### 2026-06-01 17:38:40  #MKT News
+
+【9 IPO applications accepted last week】May 25-31: Chinese exchanges accepted nine IPO applications for review — Shanghai Stock Exchange main board 1; STAR Market 3; Shenzhen ChiNext 4; Beijing Stock Exchange 1. As of May 31, 44 IPO applications have been accepted year-to-date.
+
+---
+
+### 2026-06-01 17:38:14  #其他
+
+【上週新增IPO企業受理9家】據上交所企業上市服務，本期（5月25日—5月31日）新增9家受理企業，其中上交所主機板1家，科創板3家。深交所創業板4家，北交所1家。截至5月31日，今年新增44家受理企業。
+
+---
+
+### 2026-06-01 17:37:16  #MKT News #0175.HK #Impact bullish
+
+Geely Auto reported May total vehicle sales of 237,637 units, up about 1% year-on-year.
+
+---
+
+### 2026-06-01 17:37:15  #MKT News #Commodities #Energy
+
+South African government announced wholesale diesel prices for June will be cut by up to 324.96 cents per litre.
+
+---
+
+### 2026-06-01 17:37:00  #其他
+
+南非政府：6月全國批發柴油價格每升最多下調324.96分。
+
+---
+
+### 2026-06-01 17:36:40  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Bund Yields Rise as US-Iran Tensions Boost Oil — German 10-year Bund yields climbed back to 2.98% at the start of June, rebounding from two-month lows touched last week, as oil prices surged amid escalating US-Iran tensions. Both nations continued exchanging strikes, with Iran targeting a US airbase linked to an attack on a Sirik Island telecommunications tower, while both sides invoked "self-defense." Over the weekend, they exchanged proposals to revise a draft deal to extend the ceasefire and reopen the Strait of Hormuz, though progress remained unclear. Economically, German retail sales fell in April for a fourth consecutive month, though the decline was slightly less than expected. Markets now await the Eurozone inflation report this week, after May data showed EU-harmonized inflation accelerated in France, Italy, and Spain, while Germany saw a slowdown. ECB minutes also revealed some policymakers would have backed an April rate hike, reinforcing expectations of a 25-basis-point increase at the June 11 meeting.
+
+---
+
+### 2026-06-01 17:36:19  #其他
+
+吉利汽車：5月插電式混動汽車銷量56722輛。5月純電動汽車銷量 76633輛。
+
+---
+
+### 2026-06-01 17:36:04  #MKT News #Commodities #Energy
+
+South African government said petrol prices will rise by 143 cents per litre in June.
+
+---
+
+### 2026-06-01 17:36:02  #MKT News #Commodities #Energy
+
+【India's largest coal miner reports output decline as inventories top 100 mln t】India's largest coal miner said in a filing on Monday that May production fell nearly 12% and output since April is down about 11% YoY, even as sustained heat pushed power demand to new highs. Exports rose only 1%. Unsold inventories have stayed above 100 mln t over the past year, constraining production as demand lags supply. The company said the drop in output during peak months highlights challenges from energy-market diversification and that its former near-monopoly is being eroded by new state and private producers taking market share.
+
+---
+
+### 2026-06-01 17:36:00  #其他
+
+吉利汽車：5月汽車銷量237637輛。較去年同期增長約1%。
+
+---
+
+### 2026-06-01 17:35:57  #Trading Economics #Economy #Pakistan #Producer Prices Change #Importance 1
+
+Pakistan Wholesale Inflation Slows in May — Wholesale price inflation in Pakistan eased to 12.71% year-on-year in May 2026 from 13.57% in the previous month. Prices slowed in agriculture, forestry, and fishery (0.96% vs 2.77% in April), ores, minerals, and utilities (8.48% vs 8.62%), and other transportable goods (36.08% vs 39.95%). Meanwhile, costs rose in food, beverages, tobacco, textiles, and leather products (6.87% vs 5.41%), particularly leather products (16.11% vs 0.26%). Inflation in metal products, machinery, and equipment also picked up (5.22% vs 3.90%). On a monthly basis, wholesale prices declined to 0.75% in May from 5.07% in the preceding period.
+
+---
+
+### 2026-06-01 17:35:43  #其他
+
+南非政府：6月汽油零售價格每升上調143分。
+
+---
+
+### 2026-06-01 17:35:39  #MKT News
+
+【Iran says it foiled six-member terrorist cell】On the 1st, Iran's intelligence agency said it dismantled a six-member terrorist cell operating inside the country. The group purchased weapons and ammunition and manufactured bombs with intent to attack security installations and military centers. Members were arrested in a southern Iranian city by intelligence forces.
+
+---
+
+### 2026-06-01 17:35:37  #國際
+
+【伊朗情報機構宣佈搗毀一恐怖分子團伙】當地時間1日，伊朗情報機構宣佈，搗毀一個在伊朗境內活動的6人恐怖分子團伙。該團伙購買武器彈藥並製造了炸彈，企圖對伊朗安全設施、軍事中心等目標發動襲擊。該團伙在伊朗南部一個城市被情報部門逮捕。（央視新聞）
+
+---
+
+### 2026-06-01 17:35:27  #公司
+
+挪威天然氣輸送公司GASSCO：Oseberg油田6月3日至6月6日發生計劃外停機，日輸氣量減少1050萬立方米。
+
+---
+
+### 2026-06-01 17:35:13  #MKT News
+
+HKEX filing shows Goldman Sachs Group's short position in Bilibili (09626.HK) fell to 3.97% on May 27 from 4.54%.
+
+---
+
+### 2026-06-01 17:35:07  #公司 #市場
+
+【ST雲動：股票連續2日漲幅偏離值達12.89% 不存在未披露重大事項】ST雲動公告稱，公司股票於2026年5月29日及6月1日連續2個交易日收盤價格漲幅累計偏離值達到12.89%，屬於股票交易異常波動。經核實，公司前期披露資訊無需更正補充，未發現可能影響股價的未公開重大資訊，生產經營正常，不存在應披露而未披露的重大事項，異常波動期間相關方未買賣公司股票。此外，公司提示，股票交易於4月28日起被疊加實施其他風險警示，相關訴訟仲裁尚無新進展。
+
+---
+
+### 2026-06-01 17:35:03  #公司
+
+【海螺水泥：首次回購0.0113%公司股份，已支付的總金額為人民幣 1207.94萬元】海螺水泥公告，2026年 6月 1日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購 A 股股份 60萬股，佔公司總股本的比例為 0.0113%，回購最高價格人民幣 20.33元/股，回購最低價格人民幣 20元/股，已支付的總金額為人民幣 1207.94萬元（不含交易費用）。
+
+---
+
+### 2026-06-01 17:35:01  #公司
+
+【ST萬邦：公司股票被實施其他風險警示及相關整改進展】ST萬邦公告稱，2025年度公司內部控制被出具否定意見審計報告，股票被深交所實施其他風險警示，若下一年度內部控制仍被出具無法表示意見或否定意見，股票將被實施退市風險警示。公司採取了一系列措施，包括5月7日成立“合規內控整改專項工作小組”，與審計機構核查相關問題，對關鍵財務環節自查整改，擬定專項合規培訓計劃等。目前公司生產經營正常，將持續披露進展及風險。
+
+---
+
+### 2026-06-01 17:34:51  #MKT News #00300.HK
+
+HKEX filing shows UBS's long position in Midea Group (00300.HK) H shares fell to 6.26% on May 26 from 7.02%; its short position declined to 3.60% from 4.36%.
+
+---
+
+### 2026-06-01 17:34:39  #宏觀
+
+【天津：部署開展房地產交易和中介市場秩序整治工作】天津市住房城鄉建設委會同市市場監管委組織各區住建和市場監管部門召開專題會議，部署開展房地產交易和中介市場秩序整治工作。按照工作安排，計劃利用2個月左右時間，聚焦人民群眾反映強烈的難點和痛點問題，加大房地產市場秩序整治力度，打擊房地產領域虛假宣傳營銷、經紀服務違規收費等違法違規行為，切實維護人民群眾合法權益。這期間，市住房城鄉建設委會同市市場監管委將組織各區完善資訊共享、線索移送、聯合執法等工作機制，周密部署安排，對涉及違法違規行為依法及時處理，形成有效震懾，推動房地產市場領域矛盾化解提質增效，促進房地產市場平穩健康發展。
+
+---
+
+### 2026-06-01 17:34:29  #公司
+
+【妙可藍多：高階管理人員共增持142.33萬元】妙可藍多公告，公司副總經理王宇新先生、副總經理劉揚先生、副總經理李輝先生以及副總經理付學飛先生於2026年5月29日至6月1日期間，透過上海證券交易所集中競價交易系統增持公司股份共計75,000股，佔公司總股本的0.0147%，增持金額共計人民幣1,423,263.00元。
+
+---
+
+### 2026-06-01 17:34:27  #觀點
+
+據港交所披露：高盛於5月27日將所持嗶哩嗶哩的空頭頭寸從4.54%下調至3.97%。
+
+---
+
+### 2026-06-01 17:34:11  #公司 #國際
+
+俄羅斯國家原子能公司負責人：我們將商議聯合發聲，就此次襲擊向歐洲各國領導人表明立場。
+
+---
+
+### 2026-06-01 17:34:01  #公司
+
+瑞銀集團於5月26日將其持有的美的集團H股多頭倉位從7.02%降至6.26%。
+
+---
+
+### 2026-06-01 17:33:28  #國際
+
+【以極右翼部長被曝“強拍”羞辱影片 或為選舉作秀】以色列軍方近期攔截試圖駛往巴勒斯坦加沙地帶的“全球堅韌船隊”，並扣押大量活動人士。以國家安全部部長、極右翼政客本-格維爾隨後釋出羞辱被扣人員的影片，引發國際社會廣泛批評。以色列媒體5月31日披露本-格維爾拍攝羞辱影片的更多細節，顯示他當時不顧阻攔、強行登船並拍攝影片。有媒體認為，本-格維爾事後毫無歉意，其高調作秀或與即將舉行的新一屆議會選舉有關。（新華社）
+
+---
+
+### 2026-06-01 17:33:02  #市場 #焦點
+
+紐約期金失守4520美元/盎司，日內跌1.59%。
+
+---
+
+### 2026-06-01 17:32:34  #MKT News #Star Stocks #Alibaba #Tencent #Xiaomi #9988.HK #Impact mixed #0700.HK #Impact bullish #1810.HK #Impact bearish
+
+Southbound flows net bought CNY 4.657 bln today. Via Shanghai–Hong Kong Stock Connect, Akeso and Alibaba were net bought HKD 1.706 bln and HKD 579m; Xiaomi was the largest net seller at HKD 353m. Via Shenzhen–Hong Kong Stock Connect, Akeso and Tencent were net bought HKD 1.001 bln and HKD 551m; Alibaba was the largest net seller at HKD 482m.
+
+---
+
+### 2026-06-01 17:32:16  #其他
+
+西門子：西門子與合作伙伴開發專為英偉達人工智慧資料中心打造的參考架構。
+
+---
+
+### 2026-06-01 17:31:50  #其他
+
+【成都：城鎮職工基本養老保險滿3年可在中心城區落戶】成都市人民政府網站釋出關於在四川天府新區直管區、成都高新區和中心城區實行合法穩定就業和居住落戶的通知。通知稱，持有四川天府新區直管區、成都高新區、錦江區、青羊區、金牛區、武侯區、成華區、龍泉驛區、青白江區、新都區、溫江區、雙流區、郫都區、新津區有效期內居住證，在成都市行政區域內按照國家和省、市相關規定連續繳納城鎮職工基本養老保險3年及以上的人員，可申請落戶。
+
+---
+
+### 2026-06-01 17:31:45  #國際
+
+市場訊息：伊朗革命衛隊海軍發出警告，將攔截霍爾木茲海峽內所有 “違法” 船隻。
+
+---
+
+### 2026-06-01 17:31:29  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Rebound as US-Iran Tensions Lift Oil Prices — UK 10-year gilt yields rose to 4.85% at the start of June, rebounding from over one-month lows at the end of May, as oil prices surged amid escalating US-Iran tensions. Both nations continued exchanging strikes, with Iran claiming it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, while both sides cited "self-defense." Over the weekend, they exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. The geopolitical uncertainty has led investors to modestly increase expectations for further Bank of England rate hikes this year. Economically, UK house prices fell 0.6% in May, according to Nationwide, a sharper decline than the expected 0.1% and the largest monthly drop since June 2025, driven by weakening consumer confidence and the Iran conflict’s impact on energy prices.
 
 ---
 
@@ -20223,293 +20415,5 @@ FX Updates: Indian Rupee Increases by 0.99% — Top currency gainers are Indian 
 ### 2026-05-30 05:44:18  #市場 #國際
 
 週五（5月29日）紐約尾盤，美國10年期基準國債收益率跌1.18個基點，報4.4355%，本週（四個交易日）累跌12.23個基點，5月份累計上漲6.48個基點，整體衝高回落、交投於4.3140%-4.6853%區間、5月19日北京時間22:00過後逐步回撤。兩年期美債收益率跌1.64個基點，報4.0041%，本週累跌10.62個基點，5月份累漲13.51個基點，整體交投於3.8220%-4.1423%區間。
-
----
-
-### 2026-05-30 05:41:20  #市場
-
-【巴西資產大跌拖累拉美市場，美伊和平談判成焦點】5月29日，大多數拉丁美洲資產走勢趨緩。投資者目前正死死盯住潛在的美伊和平協議，在由巴西領跌的拉美本土市場頹勢背景下，艱難權衡著地緣政治帶來的謹慎樂觀情緒。MSCI拉美貨幣指數基本持平，但全月有望錄得微幅上漲。相比之下，更廣泛的拉美股票指數則邁向2024年底以來最慘烈的單月下挫。巴西雷亞爾兌美元匯率基本持平，但全月表現已註定創下今年以來最差的單月成績。巴西基準股指（Bovespa）當日同樣下滑0.7%，為其鎖定2023年2月以來最陡峭的單月暴跌。
-
----
-
-### 2026-05-30 05:36:36  #國際
-
-美國國家航空航天局（NASA）簽署約翰遜航天中心基礎設施建設合同。
-
----
-
-### 2026-05-30 05:36:25  #公司
-
-英國石油董事長在罷免事件前與董事兼前執行長發生爭執。
-
----
-
-### 2026-05-30 05:34:41  #公司 #國際
-
-各大航空公司呼籲特朗普政府不要限制國際航班。
-
----
-
-### 2026-05-30 05:34:10  #其他
-
-墨西哥4月份預算赤字為2208億墨西哥比索。
-
----
-
-### 2026-05-30 05:33:52  #公司 #國際
-
-【NBC：美國尚未證實伊朗在霍爾木茲海峽佈雷 】據美國全國廣播公司(NBC)援引兩名美國官員和一名知情人士報道，經過持續搜尋，美國軍方尚未證實伊朗在霍爾木茲海峽佈雷。知情人士表示，軍方搜查發現了一些可能為水雷的物體，但尚未有任何被確認。該知情人士說：“如果說有什麼的話，威脅遠低於我們此前的擔憂。”
-
----
-
-### 2026-05-30 05:29:49  #國際
-
-特朗普：在我們不久前介入之前，肯尼迪中心這些年來已經虧損了數億美元。
-
----
-
-### 2026-05-30 05:28:34  #國際
-
-美國軍方：與古巴軍方高階領導人的會面僅就作戰安全事務進行了簡短交流。
-
----
-
-### 2026-05-30 05:28:03  #國際
-
-美國軍方：美軍指揮官多諾萬將軍週五與古巴軍方高階領導人舉行了會晤。
-
----
-
-### 2026-05-30 05:26:46  #其他
-
-委內瑞拉代總統：啟用油氣資料中心，旨在提升石油產量。
-
----
-
-### 2026-05-30 05:24:26  #公司 #國際
-
-【韓國鉅額AI獎金引發科技財富分配大論戰】三星電子超級工廠所在地韓國平澤市（二線港口城市）發生的一起勞資糾紛，凸顯了全球日益關注的核心議題：在人工智慧（AI）熱潮席捲全球的背景下，各方應如何分配其帶來的巨大利益。此前，由於員工威脅要舉行罷工，全球供應鏈一度面臨被切斷的風險。為了化解這場危機，這家晶片巨頭最終決定向其儲存晶片部門的部分全職員工發放高達40萬美元（約合三星平均年薪的四倍）的鉅額獎金。但是，這種分級的支付體系卻引發了新一輪的矛盾，導致部分員工產生了強烈的被剝奪感。這一事件也是全球關於AI對就業市場衝擊及如何公平分配技術紅利的大辯論縮影；目前，韓國及其他國家的政策制定者正在探索諸如“公民紅利”或主權財富基金等解決方案。
-
----
-
-### 2026-05-30 05:23:34  #Trading Economics #Markets #Canada #Currency #Importance 1
-
-Canadian Dollar Weakens on Soft GDP Data — The Canadian dollar weakened past 1.378 per USD in late May as weak economic data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline and highlighting slowing domestic momentum. The data strengthened expectations that the BoC will keep interest rates unchanged, with markets broadly anticipating a hold at the June 10 meeting. Meanwhile, the Bank of Canada’s preferred core inflation measures slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The figures reinforced the central bank’s view that energy-driven inflation may prove temporary and further reduced the likelihood of additional rate hikes, weighing on the loonie.
-
----
-
-### 2026-05-30 05:23:13  #國際
-
-特朗普：已指示商務部與國會作出必要安排，允許該機構完成全面徹底的交接。
-
----
-
-### 2026-05-30 05:22:57  #國際
-
-特朗普：將與國會合作，把肯尼迪中心交還國會管理。
-
----
-
-### 2026-05-30 05:17:47  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 0
-
-Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance.
-
----
-
-### 2026-05-30 05:16:52  #國際
-
-【全球發展倡議主題研討會聚焦服務貿易促進高質量發展】中國常駐日內瓦代表團28日在瑞士日內瓦萬國宮舉辦“大力推動服務貿易，促進全球發展合作”全球發展倡議主題研討會。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德出席並致辭。來自聯合國貿易和發展會議等國際組織、各國常駐日內瓦代表團、有關研究機構和企業等140餘人出席。賈桂德表示，服務貿易是推動經濟轉型、支援發展中國家融入全球價值鏈的重要力量，是中方踐行全球發展倡議的重要領域。中方願依託日內瓦多邊平臺，推動全球發展倡議走深走實，圍繞服務貿易規則制定、數字創新、綠色轉型等與各方加強合作。（新華社）
-
----
-
-### 2026-05-30 05:15:22  #市場
-
-富時A50期指連續夜盤收跌0.01%，報15762點。
-
----
-
-### 2026-05-30 05:13:27  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
-
-Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance.
-
----
-
-### 2026-05-30 05:12:59  #公司 #市場
-
-百勝餐飲集團盤後股價上漲3%，此前有報道稱其正就出售必勝客進行談判。
-
----
-
-### 2026-05-30 05:10:46  #國際
-
-美國白宮管理與預算辦公室簽署函件，白宮更新《A-136 通告》。
-
----
-
-### 2026-05-30 05:10:18  #公司
-
-百勝集團正就將必勝客出售給朗蘭奇集團展開獨家洽談。
-
----
-
-### 2026-05-30 05:09:35  #國際
-
-美國國防部長赫格塞斯與泰國對口官員討論了繼續合作事宜。
-
----
-
-### 2026-05-30 05:09:22  #市場
-
-週五（5月29日）紐約尾盤，標普500股指期貨最終漲0.18%，道指期貨漲0.66%，納斯達克100股指期貨漲0.33%。羅素2000股指期貨跌0.69%。
-
----
-
-### 2026-05-30 05:09:12  #國際
-
-一名官員表示，美國多諾萬將軍與古巴軍官就作戰安全相關問題進行了簡短討論。
-
----
-
-### 2026-05-30 05:09:02  #國際
-
-一名美國官員透露，美軍南方司令部司令多諾萬上將週五在關塔那摩灣美國海軍基地外圍與古巴軍方高階將領舉行了會面。
-
----
-
-### 2026-05-30 05:07:53  #國際
-
-美國國防部長赫格塞斯會見了泰國國防部長。
-
----
-
-### 2026-05-30 05:06:15  #公司 #市場
-
-巴塔哥尼亞黃金公司：2026年第一季度，Cap Oeste殘礦運營共產出390盎司黃金當量，售出432盎司黃金當量。
-
----
-
-### 2026-05-30 05:04:16  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-BRL Strengthens Slightly on Strong GDP and Easing Oil Prices — The Brazilian real strengthened slightly to 5.03 per USD in late May as the US dollar softened and oil prices retreated. Signs emerged that the US and Iran may be closer to a formal agreement, with reports indicating that both countries have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz eased global inflation concerns and weighed on the dollar. Domestically, stronger-than-expected GDP data reinforced expectations that the BCB will maintain a hawkish stance. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from 0.3% in Q4 2025 and marking the strongest expansion in a year. The data supported expectations of higher-for-longer interest rates, boosting the attractiveness of Brazilian assets and underpinning demand for the real.
-
----
-
-### 2026-05-30 05:03:28  #國際
-
-美國宣佈依據301 條款，對越南智慧財產權相關政策啟動調查。
-
----
-
-### 2026-05-30 05:03:11  #國際
-
-美國貿易代表辦公室宣佈對越南展開301條款調查。
-
----
-
-### 2026-05-30 05:03:04  #其他
-
-【塞爾維亞專家：期待塞中各領域合作邁向新高度】塞爾維亞總統武契奇對中國進行國事訪問期間，兩國達成廣泛共識並簽署多項合作檔案。對此，貝爾格萊德大學政治經濟學教授德拉加娜·米特羅維奇在接受總檯記者採訪時表示，塞中雙方發表的聯合宣告為兩國關係的未來指明瞭方向，簽署的多項合作檔案將有力推動雙邊各領域合作發展，期待兩國全面戰略伙伴關係邁向新高度。（央視新聞）
-
----
-
-### 2026-05-30 04:59:43  #公司 #市場 #國際
-
-【5月30日美股成交額前20：戴爾獲美軍大單股價飆升逾30%】週五美股成交額第9名戴爾收高32.76%，成交173億美元。戴爾因AI伺服器業務爆發式增長及獲得一份97億美元的美國軍方新合同，股價暴漲。其一季度財報顯示，總營收達438億美元，同比增長88%，其中AI伺服器營收達161億美元，同比飆升757%。公司已將全年AI業務營收預期從500億上調至600億美元。這份為期五年的軍方合同旨在升級國防及情報機構的通訊系統，預計每年可節約開支約4.22億美元。
-
----
-
-### 2026-05-30 04:59:41  #市場
-
-【現貨黃金週五漲1%，5月份累跌超1.6%】週五（5月29日）紐約尾盤，現貨黃金漲1.05%，報4542.39美元/盎司，整體持續走高、北京時間22:51出現一波加速上漲行情，本週累漲0.74%、V形反轉，5月份累跌1.62%，5月6-14日高位窄幅震盪、12日漲至4773.53美元，5月15-26日回撤至4550美元一線，5月28日跌至4366.74美元。COMEX黃金期貨本週累漲0.40%，報4574.50美元/盎司，5月份累跌2.27%。現貨白銀跌0.32%，報75.3636美元/盎司，本週累跌0.18%，5月份累漲2.23%。COMEX白銀期貨本週累跌0.73%，報75.640美元/盎司。COMEX銅期貨本週累漲0.14%，報6.3880美元/磅。
-
----
-
-### 2026-05-30 04:57:56  #市場
-
-MSCI發展中國家（新興市場）股票指數漲1.6%，創歷史新高，5月份累計上漲9.5%。MSCI新興市場外匯指數漲0.2%，連續八個交易日走高、創2024年7月份以來最長連漲天數。
-
----
-
-### 2026-05-30 04:57:40  #其他
-
-Kraken交易所：合格客戶將可交易數字資產，涵蓋比特幣、以太坊、索拉納、瑞波幣、卡爾達諾、鏈聯、狗狗幣、萊特幣與雪崩幣。
-
----
-
-### 2026-05-30 04:56:57  #公司
-
-CoreWeave首席財務官Agrawal出售公司5508股股票。
-
----
-
-### 2026-05-30 04:54:08  #其他
-
-英偉達董事Dabiri出售英偉達625股股票。
-
----
-
-### 2026-05-30 04:53:17  #公司
-
-沃爾瑪前執行長McMillon出售19416股沃爾瑪股份。
-
----
-
-### 2026-05-30 04:51:47  #其他
-
-巴西電力監管機構對 6 月電價啟動黃色預警。
-
----
-
-### 2026-05-30 04:51:40  #國際
-
-阿米戈液化天然氣專案：已獲得美國能源部要求的自由貿易協定（FTA）與非自由貿易協定（非FTA）出口許可，以及墨西哥液化天然氣出口批准。
-
----
-
-### 2026-05-30 04:50:26  #國際
-
-美國貿易代表辦公室： 《美墨加協定》 相關談判將於6月16日至17日在華盛頓繼續舉行；第三輪談判將於7月20日當週在墨西哥城舉辦。
-
----
-
-### 2026-05-30 04:48:57  #國際
-
-加拿大蒙特利爾銀行（BMO）從瑞銀（UBS）挖來戴維·德斯科託，領導其資本市場與商業銀行部門的美國併購團隊。
-
----
-
-### 2026-05-30 04:48:49  #國際
-
-美國貿易代表辦公室：談判代表就汽車原產地規則、鋼鐵鋁以及經濟安全相關優先議題展開了討論。
-
----
-
-### 2026-05-30 04:48:40  #國際
-
-美國尚未證實伊朗在霍爾木茲海峽佈雷。
-
----
-
-### 2026-05-30 04:47:09  #國際
-
-美國貿易代表辦公室：美國與墨西哥完成《美墨加協定》聯合審議首輪雙邊談判。
-
----
-
-### 2026-05-30 04:46:56  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls as Strong GDP Boosts Hawkish BCB Bets — The Ibovespa lost 0.7% to close at 173,787 on Friday as stronger-than-expected GDP data reinforced the view that the current cycle of Selic rate cuts may be limited. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from a 0.3% expansion in Q4 2025 and marking the strongest quarterly growth since Q1 2025. The data strengthened expectations of a hawkish BCB, pushing bond yields higher and weighing on equities. Banks led losses, with Bradesco down 1.1% and Banco do Brasil shedding 1.5%. Petrobras fell 1.2% as oil prices retreated after a deal to extend the US-Iran ceasefire renewed hopes for an end to the Middle East conflict. Vale also lost 1.4% despite higher iron ore prices.
-
----
-
-### 2026-05-30 04:45:57  #市場 #國際
-
-Kraken即將推出首個受美國商品期貨交易委員會（CFTC）監管、面向美國交易者的永續期貨產品。
-
----
-
-### 2026-05-30 04:43:39  #國際
-
-【美財長貝森特暗示對伊制裁可能調整 取決於談判進展】美國財長斯科特·貝森特暗示，特朗普政府可以移除對伊朗的部分制裁，取決於當前與德黑蘭方面對峙局勢的進展情況。當被問及美國是否會維持對伊朗的金融和經濟封鎖時，貝森特回答說：“我們拭目以待。”他週五在加州Simi Valley舉行的里根國家經濟論壇發表演講後的問答環節中表示。貝森特表示：“任何措施的解除都將循序漸進”。他補充稱，任何包含放鬆制裁的協議都將包含“伊朗政權必須達到的里程碑”。他還表示，如果不能很快達成協議，政府可能加大制裁。
 
 ---
