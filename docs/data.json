@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-05 23:16:30",
-  "count": 18708,
+  "updated": "2026-06-05 23:20:20",
+  "count": 18718,
   "items": [
+    {
+      "id": "mkt:019e985e-83e0-7665-8307-ff79366e1806",
+      "time": "2026-06-05 23:19:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin urged Russian forces: \"Brothers, continue fighting.\""
+    },
+    {
+      "id": "4920147",
+      "time": "2026-06-05 23:19:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京向俄軍將士喊話：兄弟們，恪盡職守。"
+    },
+    {
+      "id": "mkt:019e985e-0c62-7665-8307-f21cfacadf4e",
+      "time": "2026-06-05 23:19:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH expects South Africa's debt-to-GDP ratio to rise again at a moderate pace in FY2028."
+    },
+    {
+      "id": "4920146",
+      "time": "2026-06-05 23:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽點評南非：中東戰事或將推升通脹，但目前對財政層面的影響可控。"
+    },
+    {
+      "id": "mkt:019e985d-e52b-7665-8307-e939ff4f9c11",
+      "time": "2026-06-05 23:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch expects President Ramaphosa to remain in office despite South Africa establishing an impeachment committee in May 2026."
+    },
+    {
+      "id": "4920145",
+      "time": "2026-06-05 23:18:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【賽力斯位元組聯手造車】由賽力斯集團參股的重慶賽豆科技有限公司將於6月9日晚釋出全新汽車品牌。記者瞭解到，這是賽豆科技和位元組跳動旗下火山引擎深度合作的汽車品牌，將探索AI定義汽車的無限可能。此前媒體報道稱，賽豆科技與位元組跳動旗下的火山引擎深度合作，首款車型預計今年內推出，或為介於SUV和轎車之間的跨界車，推純電和增程雙動力。相關車型主要與火山引擎合作車機互動大模型，智駕方案或與元戎啟行合作。（新京報）"
+    },
+    {
+      "id": "mkt:019e985c-9c4c-7665-8307-e54c60e9ea6e",
+      "time": "2026-06-05 23:17:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "688017.SS",
+        "Impact bullish"
+      ],
+      "text": "【SERES, ByteDance partner to build cars】Chongqing Saidou Technology, part-owned by SERES Group, will unveil a new car brand on June 9 in a deep collaboration with ByteDance’s Volcano Engine to develop AI-defined vehicles. The first model is expected within the year and is positioned as a crossover between an SUV and a sedan, offering battery-electric and range-extended powertrains. The vehicle will integrate Volcano Engine’s in-car interactive large model; autonomous-driving hardware/software may be supplied in partnership with Yuanrong Qixing."
+    },
+    {
+      "id": "4920144",
+      "time": "2026-06-05 23:17:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計未來兩年南非債務率將企穩在 GDP 的 80% 左右。將南非評級上調至“BB”；展望穩定。此次評級上調主要反映南非在審慎財政管理和財政整合方面的良好記錄。"
+    },
+    {
+      "id": "mkt:019e985c-3615-7665-8307-d9f01ec0f73d",
+      "time": "2026-06-05 23:17:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fitch: This rating upgrade mainly reflects South Africa's strong record of prudent fiscal management and fiscal consolidation."
+    },
+    {
+      "id": "mkt:019e985b-f8a7-7665-8307-d78603176a54",
+      "time": "2026-06-05 23:17:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Putin said there is no point in meeting Zelensky at present."
+    },
+    {
+      "id": "mkt:019e985b-db49-7665-8307-ca51523b8f5c",
+      "time": "2026-06-05 23:16:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Zelenskiy requested a meeting but he saw no reason to meet and said a durable peace agreement is needed."
+    },
+    {
+      "id": "4920143",
+      "time": "2026-06-05 23:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 澤連斯基提出了會面請求，但我認為暫無會晤必要，我們需要能實現持久和平的相關協議。"
+    },
+    {
+      "id": "mkt:019e985b-8ed5-7665-8307-c0410cfdecb5",
+      "time": "2026-06-05 23:16:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 7% intraday to $68.70/oz; New York silver futures fell 7% to $68.79/oz."
+    },
+    {
+      "id": "mkt:019e985b-34ee-7665-8307-bf1bb43439e5",
+      "time": "2026-06-05 23:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH upgraded South Africa's sovereign rating to BB; outlook stable."
+    },
+    {
+      "id": "4920141",
+      "time": "2026-06-05 23:15:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌7%，現報68.77美元/盎司。"
+    },
+    {
+      "id": "4920140",
+      "time": "2026-06-05 23:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌7%，現報68.68美元/盎司。"
+    },
     {
       "id": "mkt:019e985a-921d-7665-8307-b57365d683ef",
       "time": "2026-06-05 23:15:32",
@@ -172197,63 +172341,6 @@
         "Importance 1"
       ],
       "text": "Colombia Jobless Rate Unchanged at 8.8% — Colombia’s national unemployment rate stood at 8.8% in April 2026, unchanged from the previous month and in line with forecasts. The unemployment rate for women was 10.9%, compared with 7.1% for men, resulting in a gender gap of 3.8 percentage points. In the country’s 13 main cities and metropolitan areas, the unemployment rate also stood at 8.8%. The number of unemployed people nationwide increased by 67,000 from a year earlier, a 3% rise, mainly driven by smaller urban areas and rural centers, where unemployment rose 8%. During the February-April 2026 rolling quarter, the national unemployment rate averaged 8.9%."
-    },
-    {
-      "id": "mkt:019e7451-a580-7bb7-9963-00439457f30c",
-      "time": "2026-05-29 23:19:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "TTE.PA",
-        "Impact mixed"
-      ],
-      "text": "TotalEnergies CEO said it remains unclear whether, after Jan. 1, 2027, the company can legally commercialize gas from Russia's Yamal LNG project, noting EU rules are open to multiple interpretations."
-    },
-    {
-      "id": "4907586",
-      "time": "2026-05-29 23:18:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "力拓ADR股價上漲幅度高達1.8%。"
-    },
-    {
-      "id": "4907585",
-      "time": "2026-05-29 23:18:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱將開會敲定伊朗協議最終方案，歐元區債券收益率應聲下行。"
-    },
-    {
-      "id": "4907584",
-      "time": "2026-05-29 23:18:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "道達爾能源執行長：目前從法律層面仍無法確定，2027 年 1 月 1 日後公司能否將亞馬爾專案的俄羅斯液化天然氣投入商業化運營，歐盟相關法規存在多種解讀。"
-    },
-    {
-      "id": "4907583",
-      "time": "2026-05-29 23:17:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "力拓：擴建專案將於 2026 年底完成，年產能將增加 16 萬噸，升至 22 萬噸。"
-    },
-    {
-      "id": "mkt:019e744f-7ed7-7bb7-9962-f9773fe9f1d3",
-      "time": "2026-05-29 23:17:06",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Ukraine's SBU says it struck a gas terminal at Tanliuk port in southern Russia."
     }
   ]
 }
