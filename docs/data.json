@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-06 05:21:05",
-  "count": 18787,
+  "updated": "2026-06-06 05:24:49",
+  "count": 18784,
   "items": [
+    {
+      "id": "4920422",
+      "time": "2026-06-06 05:22:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週五（6月5日），彭博電動汽車價格回報指數跌4.10%，報3776.20點，北京時間08:00開盤以來持續下挫，16:00-20:00（美國非農就業報告發布之前）持穩於3860點上方，本週累計下跌5.88%，6月3日08:00高開至4108.09點，隨後持續走低。"
+    },
     {
       "id": "4920421",
       "time": "2026-06-06 05:19:51",
@@ -173120,43 +173129,6 @@
         "其他"
       ],
       "text": "委內瑞拉代總統：啟用油氣資料中心，旨在提升石油產量。"
-    },
-    {
-      "id": "4907869",
-      "time": "2026-05-30 05:24:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國鉅額AI獎金引發科技財富分配大論戰】三星電子超級工廠所在地韓國平澤市（二線港口城市）發生的一起勞資糾紛，凸顯了全球日益關注的核心議題：在人工智慧（AI）熱潮席捲全球的背景下，各方應如何分配其帶來的巨大利益。此前，由於員工威脅要舉行罷工，全球供應鏈一度面臨被切斷的風險。為了化解這場危機，這家晶片巨頭最終決定向其儲存晶片部門的部分全職員工發放高達40萬美元（約合三星平均年薪的四倍）的鉅額獎金。但是，這種分級的支付體系卻引發了新一輪的矛盾，導致部分員工產生了強烈的被剝奪感。這一事件也是全球關於AI對就業市場衝擊及如何公平分配技術紅利的大辯論縮影；目前，韓國及其他國家的政策制定者正在探索諸如“公民紅利”或主權財富基金等解決方案。"
-    },
-    {
-      "id": "te:markets:555066",
-      "time": "2026-05-30 05:23:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Weakens on Soft GDP Data — The Canadian dollar weakened past 1.378 per USD in late May as weak economic data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline and highlighting slowing domestic momentum. The data strengthened expectations that the BoC will keep interest rates unchanged, with markets broadly anticipating a hold at the June 10 meeting. Meanwhile, the Bank of Canada’s preferred core inflation measures slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The figures reinforced the central bank’s view that energy-driven inflation may prove temporary and further reduced the likelihood of additional rate hikes, weighing on the loonie."
-    },
-    {
-      "id": "4907868",
-      "time": "2026-05-30 05:23:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已指示商務部與國會作出必要安排，允許該機構完成全面徹底的交接。"
-    },
-    {
-      "id": "4907867",
-      "time": "2026-05-30 05:22:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將與國會合作，把肯尼迪中心交還國會管理。"
     }
   ]
 }
