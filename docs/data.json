@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-06 00:49:50",
-  "count": 18769,
+  "updated": "2026-06-06 00:53:46",
+  "count": 18772,
   "items": [
+    {
+      "id": "4920232",
+      "time": "2026-06-06 00:52:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。"
+    },
+    {
+      "id": "4920231",
+      "time": "2026-06-06 00:52:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：批准擬向義大利出售兩棲突擊車及相關配套裝備，交易金額 3060 萬美元。"
+    },
+    {
+      "id": "mkt:019e98b2-fcd6-7665-830a-4cbdc48c0282",
+      "time": "2026-06-06 00:52:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The IAEA said on the incident at the ZAPORIZHZHIA NUCLEAR PLANT that Director General GROSSI urged all parties to exercise maximum military restraint and fully comply with the ceasefire agreement."
+    },
+    {
+      "id": "mkt:019e98b1-7b39-7665-830a-4390f942d0e7",
+      "time": "2026-06-06 00:50:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russian President Putin said drones attacked a shelter in St. Petersburg, striking some targets."
+    },
+    {
+      "id": "mkt:019e98b1-4f8a-7665-830a-3af996fcba26",
+      "time": "2026-06-06 00:50:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "IAEA: Ukraine has notified the agency it remains committed to observing the ceasefire agreement brokered by the IAEA following a serious incident at the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "mkt:019e98b1-2116-7665-830a-34c65addf269",
+      "time": "2026-06-06 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. oil rig count for week through June 5 due in 10 minutes."
+    },
     {
       "id": "mkt:019e98af-c3b7-7665-830a-2f5ab37c75a6",
       "time": "2026-06-06 00:48:36",
@@ -172847,34 +172913,6 @@
         "Importance 0"
       ],
       "text": "Corn Hits 6-week Low — Corn decreased to 446.75 USd/BU, the lowest since April 2026. Over the past 4 weeks, Corn lost 3.84%, and in the last 12 months, it increased 0.66%."
-    },
-    {
-      "id": "4907653",
-      "time": "2026-05-30 00:53:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌66美元，報13636美元/噸。LME期鋁收漲7美元，報3666美元/噸。LME期鋅收跌11美元，報3540美元/噸。LME期鉛收跌2美元，報2016美元/噸。LME期鎳收跌39美元，報19062美元/噸。LME期錫收漲339美元，報55418美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019e74a6-ccfd-7bb7-9964-60e6c34b7761",
-      "time": "2026-05-30 00:52:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Norwegian PM Støre seeks closer communication with China on AI and global issues】Norwegian Prime Minister Jonas Gahr Støre said on May 29 in Oslo he expects closer communication with China on global issues, including artificial intelligence, describing China as a major economy and a constructive participant in international affairs. Støre said Norway wants to maintain exchanges and pursue cooperation with China across political and economic areas."
-    },
-    {
-      "id": "mkt:019e74a4-b5a5-7bb7-9964-5ba6e361effc",
-      "time": "2026-05-30 00:50:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "U.S. total oil rig count for the week to May 29 due in 10 minutes."
     }
   ]
 }
