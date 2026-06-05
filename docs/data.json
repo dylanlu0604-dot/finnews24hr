@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-05 13:22:35",
+  "updated": "2026-06-05 13:26:48",
   "count": 18961,
   "items": [
+    {
+      "id": "mkt:019e963e-d3c6-7228-acb2-273d80f2a18b",
+      "time": "2026-06-05 13:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Atomic Energy Agency said technical staff from both sides will begin repairs in the coming days on a 750 kV Dnipro power line damaged by the war."
+    },
+    {
+      "id": "4918777",
+      "time": "2026-06-05 13:25:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【3D列印概念午後拉昇 多隻個股漲停】3D列印概念午後拉昇，家聯科技、科力爾等多隻個股漲停，銀寶山新、大富科技、東方精工等大漲。"
+    },
+    {
+      "id": "mkt:019e963e-09d3-7bb6-b211-7554c27b15c2",
+      "time": "2026-06-05 13:25:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "IAEA: ceasefire paves way for repairs to critical power lines to avert threat of a nuclear accident."
+    },
+    {
+      "id": "mkt:019e963d-b196-7bb6-b211-6d13a9637176",
+      "time": "2026-06-05 13:24:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IAEA said a local ceasefire it facilitated was implemented today on the frontline near the ZAPORIZHZHIA NUCLEAR PLANT."
+    },
+    {
+      "id": "mkt:019e963d-4236-7bb6-b211-6303236a3422",
+      "time": "2026-06-05 13:24:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225"
+      ],
+      "text": "【Japan digital minister warns of becoming 'AI colony' if it falls behind; bill would allow use of sensitive personal data without consent】Japan digital minister Matsumoto warned on Friday that the country risks becoming an \"AI colony\" if it cannot keep pace with rapid AI development. He defended a government bill to amend the Personal Data Protection Law to permit AI developers to use personal records, including medical and criminal data, for model training without individual consent, saying the change is intended to prevent Japan from falling behind. Opposition parties have raised data-leak and privacy risks."
+    },
+    {
+      "id": "mkt:019e963b-ba18-7228-acb2-03ca846720cc",
+      "time": "2026-06-05 13:22:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for digital transformation warned that Japan risks becoming an \"AI colony\" if it fails to keep pace with AI development."
+    },
+    {
+      "id": "4918776",
+      "time": "2026-06-05 13:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本數字化大臣：日本若跟不上AI技術發展步伐，恐將淪為“AI殖民地”】日本數字化大臣松本尚週五警告稱，如果日本無法跟上AI技術的快速發展步伐，在AI時代可能會淪為一種新型殖民主義的受害者。“我希望許多日本民眾能夠意識到，我們必須推進AI發展，否則最終將淪為‘AI殖民地’，”松本尚表示。松本是在為一項法案辯護時發出這一警告的。該法案擬修訂日本的個人資料保護法，允許AI開發者在未經個人同意的情況下，使用包括醫療和犯罪記錄在內的資料來訓練模型。他在記者會上表示：“此次修訂的重點在於，隨著AI發展日新月異，日本絕不能落後。”部分在野黨以資料洩露風險為由，對政府起草的該法案表示擔憂。"
+    },
     {
       "id": "mkt:019e963a-baf9-7228-acb1-fa5bfe6bf7a3",
       "time": "2026-06-05 13:21:31",
@@ -174713,71 +174785,6 @@
         "其他"
       ],
       "text": "【北京：穩步推進靈活就業人員參加住房公積金制度】《中共北京市委北京市人民政府關於推動城市高質量發展的實施意見》日前釋出，其中明確，大力推進“好房子”建設；穩步推進靈活就業人員參加住房公積金制度。 《實施意見》由十部分、30條內容構成。總體要求提出，到2030年，國際一流的和諧宜居之都建設取得顯著成效；到2035年，國際一流的和諧宜居之都初步建成。"
-    },
-    {
-      "id": "4906210",
-      "time": "2026-05-29 13:25:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張國華與中國石化集團董事長侯啟軍一行舉行工作座談】據雄安釋出，5月27日，中國石化集團董事長、黨組書記侯啟軍一行到雄安新區考察調研。河北省委常委，雄安新區黨工委書記、管委會主任張國華與侯啟軍一行舉行工作座談，並出席簽約儀式。張國華表示，希望中國石化一如既往地支援雄安，進一步加大在雄安的佈局力度，推動更多具有前瞻性的創新示範專案和業務板塊落地雄安。雄安將持續完善創新支援政策，全力做好服務保障工作，為企業在雄安高質量發展營造良好環境。侯啟軍表示，中國石化將圍繞構建“一基兩翼三鏈四新”產業新格局，進一步深化與雄安在綠色能源、科技創新、產業發展、金融資本等領域的務實合作。座談會後，中石化新星新能源公司與中國雄安集團簽署《戰略合作協議》，攜手深耕綠色能源領域。"
-    },
-    {
-      "id": "4906209",
-      "time": "2026-05-29 13:24:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念午後回暖 興森科技封漲停】午後PCB概念表現回暖，興森科技封漲停，中富電路漲超10%，德福科技、明陽電路、寶鼎科技、生益科技漲幅靠前。"
-    },
-    {
-      "id": "4906208",
-      "time": "2026-05-29 13:24:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【政企聯動發放多重補貼 重慶購車利好再“加碼”】據重慶日報，日前，2026購在中國·愛尚重慶——“心動渝悅·樂購山城”消費嘉年華啟動，聚焦購物、餐飲、汽車、親子娛樂等多元消費領域，推出系列惠民促消費舉措。其中，汽車消費板塊加碼，圍繞報廢更新、置換更新、購新車、買二手車推出多層級購新補貼。同時疊加車企、平臺禮遇，全方位釋放汽車消費潛力。據悉，今年重慶市針對個人消費者推出汽車報廢更新、置換更新及新車、二手車購新補貼。報廢舊車併購買新能源乘用車，按新車價12%補貼，最高2萬元；置換更新購買新能源車，按8%補貼，最高1.5萬元。購買新車按車價分檔補貼，最高8000元；購買二手乘用車按發票金額1.5%補貼，最高4000元。"
-    },
-    {
-      "id": "mkt:019e7230-4e17-711c-8b3e-531fb692d9af",
-      "time": "2026-05-29 13:23:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CSI 300 index futures (IF) main contract rose to 4,900, up 0.78% intraday."
-    },
-    {
-      "id": "mkt:019e7230-2645-711c-8b3e-485b0f497ac6",
-      "time": "2026-05-29 13:23:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "Zhipu (02513.HK) rose over 17% to HK$1,900, hitting a market value of HK$847 billion."
-    },
-    {
-      "id": "4906207",
-      "time": "2026-05-29 13:22:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱汽車執行長表示：目前暫無調整股權結構的重大計劃，我們與日產保持著良好的合作關係。"
-    },
-    {
-      "id": "4906206",
-      "time": "2026-05-29 13:22:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股大模型概念股持續拉昇，智譜漲超17%】港股大模型概念股持續拉昇，智譜漲超17%，MINIMAX-W漲超6%。"
     }
   ]
 }
