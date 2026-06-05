@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-06 03:38:29",
-  "count": 18808,
+  "updated": "2026-06-06 03:42:16",
+  "count": 18806,
   "items": [
+    {
+      "id": "mkt:019e994e-6012-7665-830d-2021fe172f6a",
+      "time": "2026-06-06 03:41:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: speculative net-long positions in WTI crude futures rose 12,530 contracts to 103,693 in the week ended June 2."
+    },
+    {
+      "id": "4920345",
+      "time": "2026-06-06 03:41:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守68美元/盎司，日內跌8.08%。"
+    },
+    {
+      "id": "4920344",
+      "time": "2026-06-06 03:41:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌8%，現報68.02美元/盎司。"
+    },
+    {
+      "id": "mkt:019e994b-deae-7665-830d-1fbebd73848d",
+      "time": "2026-06-06 03:39:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said AI will deliver growth faster than past innovations."
+    },
+    {
+      "id": "mkt:019e994b-cf19-7665-830d-13892f0a7e1e",
+      "time": "2026-06-06 03:39:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: For the week ended June 2, speculative net long positions in COMEX silver futures rose by 188 contracts to 10,433 contracts."
+    },
+    {
+      "id": "4920343",
+      "time": "2026-06-06 03:38:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海關與邊境保護局：鋁、鋼、銅全新關稅制度將於 6 月 8 日正式生效。"
+    },
+    {
+      "id": "4920342",
+      "time": "2026-06-06 03:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體表示，美國尚未向伊朗足球隊參加世界盃的部分技術及行政工作人員發放簽證。"
+    },
     {
       "id": "4920341",
       "time": "2026-06-06 03:37:43",
@@ -173225,100 +173289,6 @@
         "Impact bullish"
       ],
       "text": "CFTC: In the week to May 26, speculators cut net short positions in U.S. 2-year Treasury futures by 305,000 contracts to 1,255,246 and cut net shorts in U.S. 10-year Treasury futures by 60,098 contracts to 787,954."
-    },
-    {
-      "id": "mkt:019e7541-99ad-7bb7-9966-3caae874f24d",
-      "time": "2026-05-30 03:41:30",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "The CFTC said speculators increased net short positions in U.S. Treasury futures by 20,577 contracts to 199,251 in the week to May 26."
-    },
-    {
-      "id": "mkt:019e7541-1c4f-7bb7-9966-33ae432db413",
-      "time": "2026-05-30 03:40:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "CFTC: For the week to May 26, speculative net long positions in COMEX copper futures fell by 3,025 contracts to 71,974 contracts."
-    },
-    {
-      "id": "mkt:019e7540-a27b-7bb7-9966-2d343a9d7353",
-      "time": "2026-05-30 03:40:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC: Speculative net-short positions in natural gas on NYMEX and ICE rose by 39,397 contracts in the week to May 26, to 41,422 contracts."
-    },
-    {
-      "id": "mkt:019e7540-3e34-7bb7-9966-205bf96b3780",
-      "time": "2026-05-30 03:40:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "CFTC: COMEX silver speculative net long positions fell 1,517 contracts to 10,244 in the week ended May 26."
-    },
-    {
-      "id": "4907766",
-      "time": "2026-05-30 03:39:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "知情人士稱，斯通裡奇對德文能源馬塞勒斯資產的收購要約將採用美國油氣領域有史以來規模最大的資產支援證券融資來提供資金。德文能源收到了資產管理公司斯通裡奇發出的收購要約，對方擬以約80億美元收購其所持馬塞勒斯頁岩區資產。"
-    },
-    {
-      "id": "mkt:019e753f-f6e9-7bb7-9966-18100c80a103",
-      "time": "2026-05-30 03:39:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission (CFTC) data: For the week ended May 26, speculative net long positions in COMEX gold rose by 2,544 contracts to 96,931."
-    },
-    {
-      "id": "mkt:019e753f-8d29-7bb7-9966-111f8f6f2b03",
-      "time": "2026-05-30 03:39:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US Commodity Futures Trading Commission (CFTC): for the week to May 26 crude oil speculators cut WTI net-long positions by 19,186 contracts to 91,163."
-    },
-    {
-      "id": "4907765",
-      "time": "2026-05-30 03:39:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價29日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.54美元，收於每桶87.36美元，跌幅為1.73%；7月交貨的倫敦布倫特原油期貨價格下跌1.66美元，收於每桶92.05美元，跌幅為1.77%。"
-    },
-    {
-      "id": "4907764",
-      "time": "2026-05-30 03:38:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據SEC檔案顯示，埃克森美孚股東以71.2%的贊成票批准公司遷址註冊至得克薩斯州。"
     }
   ]
 }
