@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-05 16:49:03",
-  "count": 18826,
+  "updated": "2026-06-05 16:53:06",
+  "count": 18819,
   "items": [
+    {
+      "id": "mkt:019e96fb-c67b-711f-98aa-982df97f5f69",
+      "time": "2026-06-05 16:52:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China domestic air fuel surcharge cut effective today】Airlines said tickets sold from today for China domestic routes will carry lower fuel surcharges. New rates: routes 800 km or less: RMB80 per segment (down RMB10); routes over 800 km: RMB150 per segment (down RMB20)."
+    },
+    {
+      "id": "mkt:019e96fb-9541-711f-98aa-9662632622df",
+      "time": "2026-06-05 16:52:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "NIO.N",
+        "Impact bullish"
+      ],
+      "text": "【GigaDevice and NIO sign strategic cooperation agreement】June 5 — Chinese chipmaker GigaDevice and EV maker NIO signed a strategic cooperation agreement to jointly leverage their chip-design and vehicle-manufacturing expertise to advance co-development of automotive-grade chips and next-generation E/E architecture."
+    },
+    {
+      "id": "4919215",
+      "time": "2026-06-05 16:52:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新與蔚來達成戰略合作】6月5日，兆易創新與蔚來簽署戰略合作協議。根據合作協議，雙方將充分發揮各自在晶片設計與整車製造領域的專長，共同推進車規級晶片及下一代電子電氣架構的協同研發。"
+    },
+    {
+      "id": "4919214",
+      "time": "2026-06-05 16:52:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST返利：公司股票將於6月9日撤銷退市風險警示】*ST返利公告，公司股票將於2026年6月9日撤銷退市風險警示。公司股票自2026年6月8日起停牌一天，復牌後證券簡稱為“返利科技”，日漲跌幅限制由5%變為10%。因公司2024年度經審計的淨利潤為負，且扣除與主營業務無關的業務收入和不具備商業實質的收入後的營業收入低於3億元，公司股票自2025年4月28日起被實施退市風險警示。公司2025年度經審計的利潤總額、歸屬於上市公司股東的淨利潤、歸屬於上市公司股東的扣除非經常性損益後的淨利潤分別為-6720.41萬元、-6332.78萬元、-4976.14萬元；扣除與主營業務無關的業務收入和不具備商業實質的收入後的營業收入為4.86億元，報告期末經審計的歸屬於上市公司股東的淨資產為3.96億元，公司股票觸及的退市風險警示情形已消除。"
+    },
+    {
+      "id": "4919213",
+      "time": "2026-06-05 16:51:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司：安達曼區塊第三口勘探井發現天然氣。"
+    },
+    {
+      "id": "4919212",
+      "time": "2026-06-05 16:51:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工商銀行在海口成立租賃公司】天眼查App顯示，近日，海闊十三號（海口）租賃有限公司成立，法定代表人為劉鑫，註冊資本10萬人民幣，經營範圍為金融租賃公司在境內保稅地區設立專案公司開展融資租賃業務。股東資訊顯示，該公司由工商銀行（601398）旗下工銀租賃（海南）有限公司全資持股。"
+    },
+    {
+      "id": "4919211",
+      "time": "2026-06-05 16:50:34",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【今日起國內航線燃油附加費下調】記者從多家航空公司瞭解到，今天起銷售的國內航線客票燃油附加費下調。調整後的標準為：800公里（含）以下航線燃油附加費每航段為人民幣80元，800公里以上航線燃油附加費每航段為人民幣150元，分別下調10元、20元。 （央視財經）"
+    },
+    {
+      "id": "mkt:019e96f9-c7ec-711f-98aa-8e334bbc0ad7",
+      "time": "2026-06-05 16:50:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【CSRC approves seven firms for qualified foreign investor status】June 5 — The China Securities Regulatory Commission published the roster of qualified foreign investors, saying it approved seven firms in May 2026 for qualified foreign investor status: Jia Yu Holdings Co., Ltd., Hafite Capital Ltd., Shitong Financial Private Ltd., Kaixi Investment Co., Ltd., Yichuang Global Asset Management Private Ltd., Fudi Wealth Management (Hong Kong) Ltd., and Bozhi Group Ltd."
+    },
+    {
+      "id": "4919210",
+      "time": "2026-06-05 16:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國參議院大多數支援為移民和海關執法局及邊境巡邏提供700億美元的額外資金，投票仍在進行中。"
+    },
+    {
+      "id": "mkt:019e96f9-b741-711f-98aa-8492fc8428c8",
+      "time": "2026-06-05 16:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Euro area final Q1 seasonally adjusted employment change (QoQ) and revised Q1 GDP growth (YoY) to be released in 10 minutes."
+    },
+    {
+      "id": "mkt:019e96f9-b4ef-711f-98aa-7810623158b3",
+      "time": "2026-06-05 16:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A majority in the U.S. Senate supports providing an additional $70 billion to U.S. Immigration and Customs Enforcement and Border Patrol; the vote is still underway."
+    },
+    {
+      "id": "4919209",
+      "time": "2026-06-05 16:49:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "Aperam股價下跌 3.7% 。"
+    },
+    {
+      "id": "mkt:019e96f9-1e4c-711f-98aa-756d64e1e9ff",
+      "time": "2026-06-05 16:49:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dreame insider: local government conducting routine checks】June 5 — An insider at Dreame Technology said a municipal authority in the Yangtze River Delta asked firms to report whether they have cooperated with Dreame. Dreame contacted the Changzhou Development and Reform Commission, which described the request as a routine check; the company said it has not received any formal notice and has not issued an official comment."
+    },
+    {
+      "id": "4919208",
+      "time": "2026-06-05 16:49:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【追覓內部人士回應：地方政府只是常規檢查】針對目前長三角某市轄區要求統計轄區內企業與追覓科技已展開合作情況訊息，追覓內部人士回應表示，問過常州市發改委，只是常規檢查，他們也未收到任何通知。截止發稿，追覓官方對此訊息暫無回應。（介面）"
+    },
     {
       "id": "4919207",
       "time": "2026-06-05 16:47:45",
@@ -173266,185 +173396,6 @@
         "公司"
       ],
       "text": "【萬科：2026年聚焦化險與發展兩大任務全力行動】萬科5月29日舉行2025年度股東會。會上，萬科管理層表示，目前萬科面臨的困難仍然很大，經營層面尚未有實質性改善，債務和流動性依然承壓。2026年將繼續聚焦化險與發展兩大任務，從三個方面推進相關工作：一是持續做好改革化險工作；二是狠抓經營，堅決完成全年住房交付任務，系統性梳理與盤活存量資源，聚焦重點城市與主營業務，有序退出非主業投資；三是強化管控，持續最佳化公司治理體系。"
-    },
-    {
-      "id": "mkt:019e72ef-d49d-7112-aebc-2e9f67566b7e",
-      "time": "2026-05-29 16:52:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Securities Index Co. updates CSI industry classifications】China Securities Index Co. will adjust CSI industry classifications for certain listed companies based on their 2025 annual reports and recent business developments. Changes take effect after market close on June 12, 2026."
-    },
-    {
-      "id": "4906721",
-      "time": "2026-05-29 16:52:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL智家：涉及訴訟二審維持原判 決定是否再審待定】TCL智家公告稱，公司此前起訴控股子公司奧馬冰箱，請求判決奧馬冰箱章程部分條款無效，一審被駁回。2026年1月公司上訴，近日收到中山中院二審判決書，駁回上訴請求，維持原判。本次訴訟對公司本期或期後利潤暫無影響，不影響公司對奧馬冰箱的控制權和合並範圍。公司將結合律師意見決定是否申請再審，法院是否決定再審及審理時長存在不確定性。"
-    },
-    {
-      "id": "4906719",
-      "time": "2026-05-29 16:52:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國銀行旗下公司在北京成立新公司】天眼查App顯示，近日，芯能二號租賃（北京）有限公司成立，法定代表人為陳慶海，註冊資本2萬人民幣，經營範圍為融資租賃業務。股東資訊顯示，該公司由中國銀行旗下中銀金融租賃有限公司全資持股。"
-    },
-    {
-      "id": "4906718",
-      "time": "2026-05-29 16:52:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【外資機構：中國市場憑韌性與活力吸引全球資本】據中國證監會最新資料，今年以來，外資持續流入A股市場，截至目前境外投資者持有A股流通市值已超4萬億元。中國市場為何對全球投資者具有持續的吸引力？5月28日至29日，在深圳證券交易所2026全球投資者大會上，多家外資機構對此展開熱議。 參會外資機構普遍認為，憑藉穩定的宏觀政策、超大規模市場優勢與強勁創新動能，中國的發展活力與產業韌性持續釋放。同時，伴隨一系列改革舉措落地見效，中國資本市場生態持續最佳化，為全球資金佈局提供機遇。 瑞銀全球金融市場部中國主管房東明表示，在地緣政治等不確定因素影響下，中國股市、債市和人民幣資產執行穩健，成為全球資產重要的“避風港”。(新華社)"
-    },
-    {
-      "id": "4906717",
-      "time": "2026-05-29 16:52:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【9家房企爭奪、競價112輪，保利置業溢價40.04%拿下浦東新區地塊】5月29日，介面新聞獲悉，在上海年內第四批次土拍次日，保利置業以總價34.88億元、40.04%溢價率拿下浦東新區Z000302單元14-03e、14-04a地塊，成交樓板價8.2萬元/平方米。據瞭解，該地塊是四批次報名房企數量第二的地塊，吸引來陸家嘴集團、保利置業、中海地產、建發房產、金茂、中建八局、綠城、招商蛇口&南山、華潤置地&越秀等9位競買人參拍。地塊起始總價約24.91億元，起始樓板價約5.86萬元/平方米，現場歷經112輪激烈競價和競高品質建設後，由保利置業收入囊中。公開資料顯示，該地塊出讓宗地面積約17138平方米，地上計容建築面積約42509平方米，容積率2.48，建築高度70米。具體來看，14-03e地塊為普通商品住宅地塊，出讓面積約16465平方米，容積率2.5，起始樓面價約59960元/平方米；14-04a地塊為商業用地，容積率2.0，建築限高15米。"
-    },
-    {
-      "id": "mkt:019e72ef-4bb6-7112-aebc-273b3efa05fe",
-      "time": "2026-05-29 16:52:25",
-      "tags": [
-        "MKT News",
-        "000002.SZ",
-        "Impact bullish",
-        "2202.HK"
-      ],
-      "text": "【Vanke: 31 asset deals signed this year, total 11.3 bln yuan】At its 2025 annual meeting Vanke said it completed 31 large asset transactions across office, retail, apartment and hotel sectors, signing a total of 11.3 bln yuan. The company said it exited its ice-and-snow business in 2025 and, with partner CITIC Jinshi, set up a housing-rental fund to acquire the Xiamen Boyu Yuan'er–Haiwan Community project in a 2.6 bln yuan deal, marking a pre-REITs breakthrough in long-term rental apartments."
-    },
-    {
-      "id": "4906716",
-      "time": "2026-05-29 16:52:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "證監會同意江蘇展芯半導體技術股份有限公司首次公開發行股票並在創業板上市的註冊申請。"
-    },
-    {
-      "id": "mkt:019e72ee-9534-7112-aebc-1fb5c7145c6a",
-      "time": "2026-05-29 16:51:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000002.SZ",
-        "Impact bullish"
-      ],
-      "text": "【Vanke says it repaid 33.21 bln yuan of publicly issued bonds as of March 2026】At its 2025 annual shareholders’ meeting, Vanke said it had repaid 33.21 bln yuan of publicly issued bonds as of March 2026. Excluding shareholder loans, the group completed 28.0 bln yuan of new issuance and refinancing in 2025 and cut the blended cost of outstanding financing to 3.02%, down 85 bps year‑on‑year. Six public bond extension proposals, including 22 Vanke MTN0004 and 22 Vanke MTN005, were approved by bondholder meetings. On balance-sheet optimization, Vanke said it activated and optimized 33.85 bln yuan of existing inventory and added equivalent new capacity in 2025, acquiring 23 projects; 18 newly launched projects reached an investment conversion rate of 84%, with six projects acquired and opened the same year achieving 100% conversion."
-    },
-    {
-      "id": "4906715",
-      "time": "2026-05-29 16:51:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯成股份：公司於2026年5月29日向香港聯交所遞交H股發行並上市申請】匯成股份公告，公司已於2026年5月29日向香港聯交所遞交了發行境外上市外資股（H股）並在香港聯交所主機板掛牌上市的申請，並於同日在香港聯交所網站刊登了申請資料。該申請資料為草擬版本，可能適時作出更新和修訂。本次H股發行並上市的認購物件僅限於符合相關條件的境外投資者及依據中國相關法律法規有權進行境外證券投資的境內合格投資者。"
-    },
-    {
-      "id": "4906714",
-      "time": "2026-05-29 16:50:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【得利斯：證券事務代表何廣亮因個人原因辭職】得利斯公告稱，公司董事會近日收到證券事務代表何廣亮的書面辭職報告，其因個人原因申請辭職，報告自送達董事會之日起生效，辭職後將不在公司及子公司任職。截至公告披露日，何廣亮未持股，無應履行而未履行的承諾事項。公司董事會將盡快聘任符合資格人員擔任該職。"
-    },
-    {
-      "id": "4906713",
-      "time": "2026-05-29 16:50:32",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "【貴州籌劃建設全省天然氣資源交易中心】記者近日調研瞭解到，貴州正在籌劃建設全省天然氣資源交易中心。有知情人士表示，“這個事還在初步階段，各方在溝通協商中。”（中證報）"
-    },
-    {
-      "id": "4906712",
-      "time": "2026-05-29 16:50:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農夫山泉在伊犁成立新公司 註冊資本1000萬】天眼查App顯示，近日，農夫山泉天山（伊犁）飲料有限公司成立，法定代表人為饒明紅，註冊資本1000萬人民幣，經營範圍包括食品銷售、塑膠製品製造、食用農產品初加工等。股東資訊顯示，該公司由農夫山泉（09633.HK）全資持股。"
-    },
-    {
-      "id": "4906711",
-      "time": "2026-05-29 16:49:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【清源股份：以自有資金認繳出資2000萬元設立私募基金】清源股份公告，公司作為有限合夥人以自有資金認繳出資2000萬元，佔共青城金木智創創業投資合夥企業（有限合夥）的比例為18.63%。該投資基金已完成工商登記手續和中國證券投資基金業協會備案手續。基金為私募股權投資基金/創業投資基金，經營範圍為一般專案：以私募基金從事股權投資、投資管理、資產管理等活動，創業投資（限投資未上市企業）。公司本次投資可能面臨投資回收期較長的風險。"
-    },
-    {
-      "id": "4906710",
-      "time": "2026-05-29 16:49:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "AST SpaceMobile股價盤前下跌10.1%，此前該股已連續11個交易日上漲。"
-    },
-    {
-      "id": "4906709",
-      "time": "2026-05-29 16:49:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙元科技：552.24萬股限售股6月8日上市流通】雙元科技公告稱，本次上市流通的限售股為首次公開發行部分限售股，涉及2名股東，限售期36個月，數量為5,522,391股，佔公司總股本9.34%，將於2026年6月8日起上市流通。其中，杭州豐泉匯投資管理合夥企業（有限合夥）5,217,391股，寧波和歆實業投資合夥企業（有限合夥）305,000股。保薦機構認為，本次限售股份上市流通符合相關要求，對該事項無異議。"
-    },
-    {
-      "id": "4906708",
-      "time": "2026-05-29 16:49:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國西電：擬收購西電常變10%股權並增資2億元】中國西電公告稱，公司第五屆董事會第十次會議審議透過多項議案。同意以非公開協議方式收購江蘇華鵬持有的西電常變10%股權，交易完成後將持有其100%股權；收購完成後，公司將向西電常變增資2億元。此外，會議還透過了經理層成員任期考核指標及2025年度內控體系工作報告的議案。"
-    },
-    {
-      "id": "4906707",
-      "time": "2026-05-29 16:49:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST長方：股票被實施其他風險警示 債務逾期2.12億元】ST長方公告稱，2025年1月13日起，因控股子公司康銘盛虛增利潤和應收賬款，導致2020年、2021年年度報告存在虛假記載，公司股票交易被實施其他風險警示。公司已採取規範整改等措施，2022 - 2024年度財務報告均被出具無保留意見審計報告。2026年3月27日，債權人申請對公司重整及預重整，截至公告披露日，未收到法院受理檔案，且能否達成庭外重組方案也不確定。此外，公司債務逾期金額合計2.12億元，佔2025年度經審計淨資產的231.32%。"
-    },
-    {
-      "id": "4906706",
-      "time": "2026-05-29 16:49:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆威機電：2025年度A股權益分派，每10股派3.85元】兆威機電公告稱，2025年度A股權益分派方案已獲2026年5月22日股東會審議透過。以現有A股總股本240,815,950股為基數，每10股派3.85元現金（含稅），共派發現金紅利102,980,839.50元（含稅），不送紅股、不轉增股本。股權登記日為2026年6月5日，除權除息日為6月8日。部分A股股份及股東現金紅利由公司自行派發。此外，相關股東最低減持價格、股票期權行權價格將相應調整。"
-    },
-    {
-      "id": "mkt:019e72ec-93e0-7112-aebc-1727dd39065f",
-      "time": "2026-05-29 16:49:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell below $75/oz, down 0.86% intraday."
-    },
-    {
-      "id": "4906705",
-      "time": "2026-05-29 16:49:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正泰電器：2025年度擬派發現金紅利12.77億元】正泰電器公告稱，公司2025年度權益分派方案經2026年5月18日的2025年年度股東會審議透過。以實施權益分派股權登記日登記的可參與利潤分配的總股本（扣除回購專用證券賬戶持有股數）為基數，向全體股東每股分配現金股利0.60元（含稅）。截至公告披露日，公司總股本21.49億股，扣除回購專用證券賬戶已回購股份2083.96萬股，本次實際參與分配的股本數為21.28億股，合計派發現金紅利1.28億元（含稅）。股權登記日為2026年6月4日，除權（息）日和現金紅利發放日為6月5日。"
-    },
-    {
-      "id": "4906704",
-      "time": "2026-05-29 16:49:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨白銀失守75美元/盎司】現貨白銀失守75美元/盎司，日內跌0.85%。"
     }
   ]
 }
