@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-06 03:53:30",
-  "count": 18796,
+  "updated": "2026-06-06 03:57:20",
+  "count": 18799,
   "items": [
+    {
+      "id": "mkt:019e995b-c837-7665-830d-5bcc786db110",
+      "time": "2026-06-06 03:56:29",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CFTC: In the week to June 2, speculative traders increased net short positions in CBOT U.S. 2-year Treasury futures by 94,942 contracts to 1,350,188; U.S. 5-year net shorts rose 46,091 to 1,369,218; U.S. 10-year net shorts rose 41,621 to 829,575; ultra-long Treasury futures net shorts rose 27,868 to 287,710."
+    },
+    {
+      "id": "4920353",
+      "time": "2026-06-06 03:56:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會(CFTC)：截至6月2日當週，投機者將CBOT美國2年期國債期貨淨空頭持倉增加94,942手至1,350,188手，美國5年期國債期貨淨空頭持倉增加46,091手至1,369,218手，美國10年期國債期貨淨空頭持倉增加41,621手至829,575手，超長期國債期貨淨空頭持倉增加27,868手至287,710手。"
+    },
+    {
+      "id": "4920352",
+      "time": "2026-06-06 03:56:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數5日上漲】美元指數5日上漲。 衡量美元對六種主要貨幣的美元指數當天上漲0.65%，在匯市尾市收於100.07。 截至紐約匯市尾市，1歐元兌換1.15美元，低於前一交易日的1.16美元；1英鎊兌換1.33美元，低於前一交易日的1.34美元。 1美元兌換160.17日元，高於前一交易日的160.02日元；1美元兌換0.7962瑞士法郎，高於前一交易日的0.7892瑞士法郎；1美元兌換1.39加元，高於前一交易日的1.39加元；1美元兌換9.47瑞典克朗，高於前一交易日的9.37瑞典克朗。(新華社)"
+    },
+    {
+      "id": "4920350",
+      "time": "2026-06-06 03:54:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價5日下跌】國際油價5日下跌。 截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.5美元，收於每桶90.54美元，跌幅為2.69%；8月交貨的倫敦布倫特原油期貨價格下跌1.94美元，收於每桶93.09美元，跌幅為2.04%。(新華社)"
+    },
+    {
+      "id": "mkt:019e9959-49bc-7665-830d-53eb86e2284b",
+      "time": "2026-06-06 03:53:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week to June 2, combined NYMEX and ICE natural gas futures net short positions fell 25,529 contracts to 15,892 contracts."
+    },
     {
       "id": "mkt:019e9958-547b-7665-830d-485cbcb06e7c",
       "time": "2026-06-06 03:52:43",
@@ -173191,23 +173239,6 @@
         "Impact bullish"
       ],
       "text": "【US media: Qatar-held funds a final sticking point in US-Iran interim deal】New York Post reports one of the remaining obstacles to a US-Iran interim peace agreement is whether $6bn held in escrow by Qatar can be released in phases. It remains unclear when the US and Iran will sign a final memorandum of understanding; a government official said talks are at their closest point to an agreement."
-    },
-    {
-      "id": "4907780",
-      "time": "2026-05-30 03:56:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【白宮就美伊協議前景釋放矛盾訊號 市場聚焦特朗普週末有何動作】白宮一直就與伊朗達成協議的前景發出相互矛盾的訊號，凸顯出美國總統唐納德·特朗普難以找到途徑結束這場已進入第四個月的衝突。週五這一模式仍在延續。特朗普週五在社交媒體發帖稱，他準備就延長脆弱停火的初步協議做出“最終決定”。然而幾小時後，據報道，特朗普結束了戰情室會議，但未做出任何決定。不過，投資者仍面臨預期因特朗普再度轉向而落空的風險。位於華盛頓的諮詢公司ClearView Energy Partners董事總經理Kevin Book表示，目前存在一種“不確定性折價”，市場正面臨“步入週末不知道總統又會作何發言”的挑戰。"
-    },
-    {
-      "id": "4907779",
-      "time": "2026-05-30 03:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美伊協議的最終癥結之一是卡達代管資金能否分階段解凍】據報道，一項美伊臨時和平協議的最終癥結之一，是卡達代管的資金能否分階段解凍。該備忘錄旨在重新開放霍爾木茲海峽供國際航運通行，同時為第二輪談判留出更多時間，以解決約1000 磅高濃縮鈾的去向問題。相關資金不會直接交付給伊朗，而是用於採購食品與醫療物資，再送往這個飽受制裁與動盪困擾的國家。資金將分批釋放，前提是伊朗滿足一系列關鍵條件，包括開放海峽並清除水雷。據悉，卡達目前代管著 60 億美元。目前尚不清楚美伊雙方何時能敲定這份諒解備忘錄，但一名政府官員表示，兩國如今的談判進展已是有史以來最接近達成協議的階段。"
     }
   ]
 }
