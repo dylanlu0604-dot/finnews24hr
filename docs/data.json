@@ -1,7 +1,164 @@
 {
-  "updated": "2026-06-05 20:04:57",
-  "count": 18574,
+  "updated": "2026-06-05 20:09:02",
+  "count": 18570,
   "items": [
+    {
+      "id": "mkt:019e97af-3400-7bb5-8c78-c0b35a178c9c",
+      "time": "2026-06-05 20:08:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Commerzbank: ECB would need markedly stronger tightening signal to lift euro】Commerzbank says the ECB would need to signal tightening that exceeds market expectations to trigger a sizable euro rebound. Markets currently price just under three hikes this year, making a large euro rally challenging. The ECB could hike next Thursday and may hint at a second move, but a materially stronger signal would require fresh forecasts showing a notable rise in inf risks — which Commerzbank views as unlikely. An end to the Iran war would offer a larger upside to the euro even if the ECB continues to tighten."
+    },
+    {
+      "id": "4919746",
+      "time": "2026-06-05 20:08:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京將就澤連斯基的信函作出評述。"
+    },
+    {
+      "id": "4919744",
+      "time": "2026-06-05 20:07:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德商銀行：歐洲央行需要發出強烈的加息訊號以提振歐元】德國商業銀行的Michael Pfister在一份報告中表示，歐洲央行需要在週四發出訊號，表明其加息力度可能超過市場預期，才能使歐元大幅反彈。“考慮到今年預計將有略少於三次的加息，這將是非常具有挑戰性的。”他說，歐洲央行可能會在週四加息，並可能暗示第二次加息。然而他表示，更強烈的加息訊號將需要新的預測來顯示通脹風險顯著增加，而這似乎不太可能。他說，結束伊朗戰爭將對歐元提供更大的提振，與此同時歐洲央行仍可能加息。歐元上漲0.3%，至1.1640美元。"
+    },
+    {
+      "id": "4919743",
+      "time": "2026-06-05 20:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告顯示我國生態環境質量持續改善】6月5日是世界環境日。生態環境部當天在廣州對外發布的《2025中國生態環境狀況公報》顯示，2025年，全國生態環境質量持續改善，環境安全形勢保持穩定。“十四五”期間，主要汙染物排放總量持續下降，生態環境保持改善態勢、向好趨勢。公報顯示，我國環境空氣質量持續向好。地級及以上城市環境空氣細顆粒物（PM2.5）平均濃度為28微克/立方米，比2024年下降4.4%。全國環境空氣質量達標城市共246個，比2024年增加24個。“十四五”期間，全國城市環境空氣PM2.5濃度累計下降20%，重汙染天數減少25%。"
+    },
+    {
+      "id": "mkt:019e97ad-d390-7bb5-8c78-b82f2cb7f655",
+      "time": "2026-06-05 20:06:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "World Trade Organization (WTO) says the negative impact of the Middle East conflict on trade may be partly offset by a surge in demand for electronic components linked to AI investment."
+    },
+    {
+      "id": "4919742",
+      "time": "2026-06-05 20:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界貿易組織：中東衝突的負面影響，或已被人工智慧投資相關電子元件需求激增部分抵消。"
+    },
+    {
+      "id": "4919741",
+      "time": "2026-06-05 20:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週1家上市公司釋出可轉債預案，融資總規模達30.0億元】Wind資料統計顯示，本週（6月1日-6月5日）1家上市公司釋出可轉債預案，中谷物流擬發行30.0億元可轉債。此外，本週還有2只可轉債釋出發行公告，發行總規模達22.09億元。其中，翔26轉債、迪威轉債發行規模分別為13.01億元、9.08億元。"
+    },
+    {
+      "id": "4919740",
+      "time": "2026-06-05 20:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客5月交付81架飛機。"
+    },
+    {
+      "id": "4919739",
+      "time": "2026-06-05 20:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界貿易組織：儘管受中東衝突影響，2026年上半年全球貨物貿易仍展現韌性，但增長已顯現放緩苗頭  。"
+    },
+    {
+      "id": "mkt:019e97ac-a1b1-7bb5-8c78-b74e0324abd6",
+      "time": "2026-06-05 20:05:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTO: Global merchandise trade showed resilience in 1H2026 despite disruptions from the Middle East conflict, but signs of slowing growth may be emerging."
+    },
+    {
+      "id": "4919738",
+      "time": "2026-06-05 20:05:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客1-5月交付飛機262架。"
+    },
+    {
+      "id": "4919737",
+      "time": "2026-06-05 20:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客5月新增訂單總額為379架 。"
+    },
+    {
+      "id": "4919736",
+      "time": "2026-06-05 20:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "杜克能源：肯塔基州東本德電站專案投入最高達 3340 萬美元。"
+    },
+    {
+      "id": "mkt:019e97ab-f3fb-7bb5-8c78-acd3f6989e95",
+      "time": "2026-06-05 20:04:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DUK.O",
+        "Impact bullish"
+      ],
+      "text": "Duke Energy said the DOE will provide funding for coal-fired power projects in Kentucky and North Carolina."
+    },
+    {
+      "id": "4919734",
+      "time": "2026-06-05 20:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST天山：5月活畜銷售收入同比增加584.63%】*ST天山(300313)6月5日公告，公司2026年5月銷售活畜441頭，銷售收入414.88萬元。活畜銷量環比增加687.50%，收入環比增加637.31%；銷量同比增加1533.33%，收入同比增加584.63%。"
+    },
+    {
+      "id": "4919733",
+      "time": "2026-06-05 20:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔鋼鐵：英國子公司將保障客戶訂單需求履約。"
+    },
+    {
+      "id": "4919732",
+      "time": "2026-06-05 20:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "世貿組織貿易景氣指數預示全球貿易小幅放緩。"
+    },
+    {
+      "id": "4919731",
+      "time": "2026-06-05 20:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾與日立將在代工工具、量子計算、能源最佳化、定製矽片、邊緣人工智慧應用及工廠自動化領域開展合作。"
+    },
     {
       "id": "mkt:019e97aa-a041-7bb5-8c78-a5aaeb960d82",
       "time": "2026-06-05 20:03:22",
@@ -170767,194 +170924,6 @@
         "公司"
       ],
       "text": "【聯合光電：子公司2025年業績未達承諾但暫不補償】聯合光電公告稱，2024年公司透過支付現金及增資方式取得子公司西安微普65%股權。根據協議，承諾方承諾西安微普2024 - 2026年累積扣非歸母淨利潤分別不低於600萬元、1300萬元、2100萬元。2024 - 2025年，西安微普累積扣非歸母淨利潤1267.39萬元，完成率97.49%，未達承諾但不低於80%，暫不補償。業績未達承諾因2025年銷售、管理和研發費用同比增幅大，致淨利潤低於目標。公司將持續關注業績進展並依約執行相關事項。"
-    },
-    {
-      "id": "4907228",
-      "time": "2026-05-29 20:08:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：匈牙利在短短几周內推動了期待已久的改革。"
-    },
-    {
-      "id": "4907227",
-      "time": "2026-05-29 20:08:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：匈牙利發出強烈訊號，表明該國正開啟新篇章。"
-    },
-    {
-      "id": "4907226",
-      "time": "2026-05-29 20:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“中國航天深空探月”VR展在蒙古國開展】“中國航天深空探月”虛擬現實（VR）展29日在烏蘭巴托中國文化中心正式開展。來自蒙古國多所中小學的100餘名師生來到現場，沉浸式體驗中國深空探測和探月科技的魅力。 本次展覽融合了人工智慧（AI）與擴充套件現實（XR）等技術，全景式呈現中國深空探測和探月成果，為觀眾打造一場跨越時空的“月球之旅”。師生們戴上VR裝置後，彷彿置身浩瀚宇宙，在沉浸式場景中探索月球地貌、體驗月面行走，並透過與虛擬的“中國熊貓”非玩家角色互動交流，在趣味體驗中學習航天知識，感受科技與文化融合帶來的魅力。（新華社）"
-    },
-    {
-      "id": "4907225",
-      "time": "2026-05-29 20:08:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟馮德萊恩：匈牙利已同意未來保障歐盟資金安全。"
-    },
-    {
-      "id": "4907224",
-      "time": "2026-05-29 20:07:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "德國財政部：尋求對大型加密貨幣服務提供商及穩定幣實施歐盟層面監管。"
-    },
-    {
-      "id": "4907223",
-      "time": "2026-05-29 20:07:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣田集團：持股5%以上股東1200萬股股份將被司法拍賣】廣田集團公告稱，公司持股5%以上股東廣田控股集團有限公司持有的120,000,000股股份（佔其及其一致行動人所持股份比例的15.67%，佔公司總股本的3.20%）將被司法拍賣，拍賣時間為2026年6月22日至23日。截至公告披露日，廣田控股及其一致行動人累計被凍結股份765,694,098股，累計質押股份765,691,524股。本次拍賣不會導致公司控制權變更，結果存在不確定性。"
-    },
-    {
-      "id": "4907222",
-      "time": "2026-05-29 20:07:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL科技：擬8.45億元收購子公司2.37%少數股權】TCL科技公告稱，公司擬以8.45億元現金收購寰宇一號等交易對方合計持有的子公司中環領先12,782.8649萬股股份，佔其總股本的2.37%。本次交易構成關聯交易，已透過公司董事會審議，無需提交股東會。截至2025年12月31日，中環領先總資產343.90億元，總負債126.93億元，淨資產216.97億元，2025年營收57.61億元，淨虧損1.24億元。本次交易預計不會對公司財務狀況產生重大不利影響。"
-    },
-    {
-      "id": "4907221",
-      "time": "2026-05-29 20:07:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "德國財政部：將在保留國家監管的前提下削減跨境基金壁壘。"
-    },
-    {
-      "id": "4907220",
-      "time": "2026-05-29 20:07:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：匈牙利政府行動迅速。匈牙利亟需推進結構性改革。"
-    },
-    {
-      "id": "te:economy:554959",
-      "time": "2026-05-29 20:07:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Germany’s Inflation Eases to 2.6% in May — Germany’s consumer price inflation slowed to 2.6% year-over-year in May 2026, down from an over two-year high of 2.9% in April and slightly below market expectations, according to preliminary data. Despite the decline, inflation remains above the ECB’s 2% target. Goods inflation fell to 2.2% from 2.9%, driven by easing energy (6.6% vs. 10.1%) and food (0.4% vs. 1.2%) price pressures. However, services inflation accelerated to 3.1%, rebounding from a three-and-a-half-year low of 2.8% in April. Core inflation, excluding food and energy, rose to 2.5%, up from a five-year low. Meanwhile, the EU-harmonized annual inflation rate also eased to 2.7% from 2.9%."
-    },
-    {
-      "id": "4907219",
-      "time": "2026-05-29 20:06:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮科科技：公司被訴1.36億元】榮科科技公告，公司作為被告之一，承擔連帶保證責任，涉案金額為原告主張的貸款本金1億元及相應利息、罰息等合計1.36億元。公司部分銀行賬戶被凍結2249.81萬元。本次訴訟案件及賬戶凍結事項不會對公司的正常生產經營活動產生重大不利影響。"
-    },
-    {
-      "id": "4907218",
-      "time": "2026-05-29 20:06:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃蘭特：旗下eVTOL完成國內首次有人駕駛轉換飛行】5月29日，記者從沃蘭特航空瞭解到，該公司在四川自貢蘭田機場圓滿完成了旗下VE25-100的國內首次有人駕駛轉換飛行。"
-    },
-    {
-      "id": "4907217",
-      "time": "2026-05-29 20:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西第一季度GDP環比增長1.1%，高於預期的1.0%。"
-    },
-    {
-      "id": "mkt:019e73a0-d00b-7dd3-937d-3bc8c5011567",
-      "time": "2026-05-29 20:06:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President Von der Leyen said Hungary's government acted swiftly."
-    },
-    {
-      "id": "mkt:019e73a0-ce97-7dd3-937d-3768c644c617",
-      "time": "2026-05-29 20:06:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany’s finance ministry said the plan is a key step toward achieving a Capital Markets Union."
-    },
-    {
-      "id": "4907216",
-      "time": "2026-05-29 20:05:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "德國財政部：該方案是邁向資本市場聯盟的關鍵一步。"
-    },
-    {
-      "id": "4907215",
-      "time": "2026-05-29 20:05:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SoFi Technologies美股盤前漲超10%】SoFi Technologies美股盤前漲超10%，現報18.71美元。"
-    },
-    {
-      "id": "mkt:019e73a0-2867-7dd3-937d-2d0d64bb95fd",
-      "time": "2026-05-29 20:05:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "German Finance Ministry: finance ministers of the six largest EU economies agreed a common position on market integration and regulatory proposals."
-    },
-    {
-      "id": "4907214",
-      "time": "2026-05-29 20:05:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山高環能：擬5000萬元收購衡陽桑德65%股權】山高環能公告，公司擬透過下屬公司山高十方以現金方式向山東淄建購買衡陽桑德凱天再生資源科技有限公司65%股權，交易價格為5000萬元。此前公司參與該股權司法拍賣，山東淄建以5531.57萬元競得，後經協商確定本次交易價格。目標公司2025年度營業收入2799.84萬元，淨利潤998.68萬元。本次收購尚需經衡陽市城市管理局報備同意。"
-    },
-    {
-      "id": "mkt:019e739f-fc58-7dd3-937d-20b909f7a78b",
-      "time": "2026-05-29 20:05:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President Ursula von der Leyen said she had felt a strong wind of change in Hungary."
-    },
-    {
-      "id": "4907213",
-      "time": "2026-05-29 20:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：感受到匈牙利變革的強勁之風。"
-    },
-    {
-      "id": "4907212",
-      "time": "2026-05-29 20:04:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST創興：收到股票終止上市決定，退市整理期6月8日起】*ST創興公告，公司於2026年5月29日收到上海證券交易所《關於上海創興資源開發股份有限公司股票終止上市的決定》，上交所決定終止公司股票上市。公司股票進入退市整理期的起始日為2026年6月8日，交易期限為15個交易日，預計最後交易日期為2026年6月29日。退市整理期間股票繼續在風險警示板交易，首個交易日無漲跌幅限制，其他交易日漲跌幅限制為10%。公司股票終止上市後將轉入全國中小企業股份轉讓系統進行股份轉讓。"
     }
   ]
 }
