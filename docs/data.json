@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-06 02:11:58",
-  "count": 18793,
+  "updated": "2026-06-06 02:15:49",
+  "count": 18800,
   "items": [
+    {
+      "id": "te:markets:556999",
+      "time": "2026-06-06 02:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 3.58% — Top commodity losers are Natural gas (-3.58%), Crude Oil WTI (-3.04%), Methanol (-2.71%) and Brent Crude Oil (-2.06%). Gains are led by Coking Coal (1.01%)."
+    },
+    {
+      "id": "mkt:019e98ff-0a88-7665-830b-b420d63e0762",
+      "time": "2026-06-06 02:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says the U.S. will provide about $38 million in additional funding for Ebola response efforts."
+    },
+    {
+      "id": "te:markets:556998",
+      "time": "2026-06-06 02:14:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Meta Stock Price Hits 8-week Low — Meta shares decreased to 592.23 USD, the lowest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 1.81%, and in the last 12 months, it decreased 13.75%."
+    },
+    {
+      "id": "4920276",
+      "time": "2026-06-06 02:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta考慮股權融資數十億美元。"
+    },
+    {
+      "id": "4920274",
+      "time": "2026-06-06 02:13:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其一艘漁船在黑海遭到襲擊，一人喪生。"
+    },
+    {
+      "id": "4920273",
+      "time": "2026-06-06 02:13:14",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務院公告：美方宣佈追加近 3800 萬美元資金，用於該部門持續推進的埃博拉疫情應對工作。"
+    },
+    {
+      "id": "4920272",
+      "time": "2026-06-06 02:12:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Revolut 正考慮以 1150 億美元估值開展股權二次出售。"
+    },
+    {
+      "id": "mkt:019e98fc-d95d-7665-830b-ac09e3623de6",
+      "time": "2026-06-06 02:12:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's finance ministry said the Jan–May budget deficit was 2.6% of GDP, up from 2.5% a month earlier; the deficit amounted to 6 trillion roubles versus 5.9 trillion roubles previously."
+    },
+    {
+      "id": "te:markets:556997",
+      "time": "2026-06-06 02:11:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 4-week Low — Tesla shares decreased to 393.53 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 1.28%, and in the last 12 months, it increased 33.37%."
+    },
     {
       "id": "4920271",
       "time": "2026-06-06 02:10:21",
@@ -173073,30 +173158,6 @@
         "國際"
       ],
       "text": "美國內政部長伯格姆：即將與特朗普會面。"
-    },
-    {
-      "id": "te:markets:555051",
-      "time": "2026-05-30 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Germany Natural Gas THE Drops by 2.29% — Top commodity losers are Germany Natural Gas THE (-2.29%), Crude Oil WTI (-1.80%), Natural Gas EU (-1.77%) and Brent Crude Oil (-1.60%)."
-    },
-    {
-      "id": "mkt:019e74ef-d907-7bb7-9965-31d0d23cb9f6",
-      "time": "2026-05-30 02:12:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reported Iran activated air defenses near Qeshm Island."
     }
   ]
 }
