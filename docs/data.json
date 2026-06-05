@@ -1,7 +1,166 @@
 {
-  "updated": "2026-06-05 22:20:07",
-  "count": 18689,
+  "updated": "2026-06-05 22:23:59",
+  "count": 18697,
   "items": [
+    {
+      "id": "te:markets:556948",
+      "time": "2026-06-05 22:23:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sanofi Stock Price Hits 4-week High — Sanofi shares increased to 78.03 EUR, the highest since May 2026. Over the past 4 weeks, Sanofi gained 4.45%, and in the last 12 months, it decreased 11.82%."
+    },
+    {
+      "id": "mkt:019e982a-8efd-7665-8306-1d5f90f82ed3",
+      "time": "2026-06-05 22:23:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Hammack said it may soon be time to adjust interest rates."
+    },
+    {
+      "id": "4920056",
+      "time": "2026-06-05 22:22:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌 1%，報 111284.00 點。"
+    },
+    {
+      "id": "4920055",
+      "time": "2026-06-05 22:22:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報16707.00元。"
+    },
+    {
+      "id": "4920054",
+      "time": "2026-06-05 22:22:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌2.58%。"
+    },
+    {
+      "id": "4920053",
+      "time": "2026-06-05 22:22:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守69美元/盎司，日內跌6.59%。"
+    },
+    {
+      "id": "4920052",
+      "time": "2026-06-05 22:22:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克表示，目前維持利率穩定是合理的，但如果近期趨勢持續下去，很快就適宜採取行動對抗高通脹。"
+    },
+    {
+      "id": "mkt:019e9829-e2cc-7665-8306-1390463d6262",
+      "time": "2026-06-05 22:22:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack said the jobs report confirms the labor market is broadly balanced."
+    },
+    {
+      "id": "4920051",
+      "time": "2026-06-05 22:22:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：或很快適宜啟動利率調整。"
+    },
+    {
+      "id": "4920050",
+      "time": "2026-06-05 22:21:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中國AI眼鏡海外賣爆了】2026年被稱為AI眼鏡“爆發元年”，Meta、三星、蘋果等國際巨頭加速入局。從年初至今，中國企業的出貨量呈現高速增長態勢。廣東深圳一家AI眼鏡企業負責人告訴記者，他們的產品100%銷往海外，主力市場為美國、日本、中東地區以及歐洲部分國家。今年以來，智慧眼鏡新品釋出格外密集。阿里、華為、雷鳥創新、科大訊飛等企業紛紛釋出新品。目前，中國智慧眼鏡線上在售品牌數量已達356個。預計2026年全球智慧眼鏡市場出貨量將突破2368.7萬臺，其中中國智慧眼鏡市場出貨量將突破491.5萬臺。（央視財經）"
+    },
+    {
+      "id": "mkt:019e9828-ea49-7665-8306-0fd6e8d7eee1",
+      "time": "2026-06-05 22:21:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz said EU enlargement in the Western Balkans serves strategic interests."
+    },
+    {
+      "id": "4920049",
+      "time": "2026-06-05 22:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度部長：印美可能在7月前執行中期貿易協定】印度商業和工業部部長Piyush Goyal表示，印度和美國可能會在下個月執行一項中期貿易協定。“到下個月中旬左右，我們應該能夠執行一個非常有活力的第一階段（第一批）協定，”該協定將使印度獲得超越其競爭對手的優惠准入條件。“我們正在快速推進以解決所有未決問題，”，預計本月底還將有一個來自美國的“更高層級的代表團”訪問印度。"
+    },
+    {
+      "id": "mkt:019e9828-76a5-7665-8306-00bba51c482b",
+      "time": "2026-06-05 22:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said he wants Western Balkan countries to become EU members as soon as possible and that a gradual accession process will begin."
+    },
+    {
+      "id": "4920048",
+      "time": "2026-06-05 22:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理梅爾茨：我們希望西巴爾幹國家儘快加入歐盟；我們現在將啟動漸進入盟程序。"
+    },
+    {
+      "id": "4920047",
+      "time": "2026-06-05 22:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：歐盟擴容西巴爾幹符合戰略利益。"
+    },
+    {
+      "id": "4920046",
+      "time": "2026-06-05 22:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國《歐盟能源監管機制》（REMIT）披露：自2026年6月5日上午7:00至2026年6月6日下午4:00，阿特威克儲氣設施計劃停運抽採，每日26吉瓦時的抽採量將無法供應。"
+    },
+    {
+      "id": "4920045",
+      "time": "2026-06-05 22:19:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：6月6日官方美元對盧布匯率定為1美元兌換73.4689盧布（前值為1美元兌換74.2956盧布）。"
+    },
     {
       "id": "mkt:019e9826-e7d4-7665-8305-ffc6c1f65f74",
       "time": "2026-06-05 22:19:04",
@@ -172043,98 +172202,6 @@
         "國際"
       ],
       "text": "【伊朗議長：伊朗將透過導彈而非對話使對方讓步】伊朗伊斯蘭議會議長卡利巴夫29日在社交媒體發文稱，伊朗將透過導彈而非對話使對方讓步。卡利巴夫說：“我們不透過對話贏得讓步，而是透過導彈；我們不相信保證或言辭，行動才是衡量標準。”（新華社）"
-    },
-    {
-      "id": "mkt:019e741e-aff0-7eef-a0f0-f2b84ea6ccfd",
-      "time": "2026-05-29 22:23:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Russell 2000 falls more than 1%."
-    },
-    {
-      "id": "4907496",
-      "time": "2026-05-29 22:23:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "羅素2000指數下跌1.1%。"
-    },
-    {
-      "id": "mkt:019e741e-021d-7eef-a0f0-e939b45a7b4e",
-      "time": "2026-05-29 22:23:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "AVGO.O",
-        "Impact bullish",
-        "GOOGL.O"
-      ],
-      "text": "【Apollo, Blackstone lining up roughly $36bln debt for ANTHROPIC to buy Google TPUs】Apollo Global Management and Blackstone are bringing in investors for about $36 billion of debt financing to fund acquisition of Google-customized TPU (tensor processing unit) chips for ANTHROPIC, sources said. Broadcom, which helped develop the chips for Google, will guarantee most of the proceeds; the chips would be bought and then leased to ANTHROPIC. The structure aims to use Broadcom’s credit profile to back compute financing and, if completed, would be among the largest private-credit transactions and the biggest chip-financing debt deals to date."
-    },
-    {
-      "id": "4907495",
-      "time": "2026-05-29 22:22:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌TPU或迎空前大單 私募巨頭正為Anthropic籌劃鉅額晶片融資】最新訊息顯示，私募巨頭阿波羅全球管理（Apollo Global Management）與黑石集團正在為一項規模約360億美元的債務融資交易引入更多投資者，以幫助Anthropic構建其人工智慧基礎設施。知情人士透露，這筆債務融資將用於購買谷歌定製的TPU（張量處理單元）晶片，隨後由Anthropic進行租賃使用。協助谷歌開發該晶片的博通，將為這筆交易的大部分款項提供擔保。此舉有望成為史上規模最大的私募信貸交易之一，同時也可能是迄今最大的一筆晶片融資債務交易。該方案旨在藉助博通的信用資質，為Anthropic提供算力支援。"
-    },
-    {
-      "id": "4907494",
-      "time": "2026-05-29 22:22:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖軍事顧問：伊朗將迫使美國結束海上封鎖】當地時間5月29日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊在接受採訪時表示，伊朗將迫使美國結束海上封鎖；可以透過談判，如果對方抵抗，則透過直接行動。他還表示，儘管面臨壓力，伊朗經濟的未來是光明和充滿希望的。（央視新聞）"
-    },
-    {
-      "id": "4907493",
-      "time": "2026-05-29 22:21:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀髮經濟規模有望突破30萬億元】伴隨“銀髮浪潮”席捲而來，我國正加速步入老齡化社會，銀髮經濟持續升溫。民政部等19部門聯合印發的《關於支援老年人社會參與 推動實現老有所為的指導意見》提出，要創造適合老年人的多樣化、個性化就業崗位，為老年人提供優質高效的就業和職業發展服務。這也悄然開啟了老年人就業的全新空間。近期上海一家商場廣發“英雄帖”，專門招聘適齡的老年人。這次“銀齡新職”面向50-75歲的銀髮族，開放了沙龍講師、商場體驗官和樂活攝影師3個崗位。不到20天，報名人數就突破百人，最終篩選出31人參加面試。如今在上海，越來越多的老人，在退休後開闢新領域，找到了新的生活舞臺。75歲的曹一民，退休後招募老年人組建交響樂團，每次演出演員收入在1000-1500元；八段錦老師朱豐芹，退休後把愛好練出名堂，八段錦課程十分搶手，月入5000-8000元。專家表示，新發展理念下，老年群體不再是簡單的“負擔係數”，而是一座蘊藏著巨大潛能的人力資源寶庫。截至2025年底，我國60歲及以上老年人口達3.2億，預計到2035年超過4億，銀髮經濟規模有望突破30萬億元。展望未來，隨著銀髮經濟持續壯大、社會觀念不斷更新、制度保障日益健全，老年人的晚年生活將擁有更多元的選擇，真正讓“夕陽紅”紅起來。（央視財經）"
-    },
-    {
-      "id": "mkt:019e741c-3d6f-7eef-a0f0-e2f893e160ad",
-      "time": "2026-05-29 22:21:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TotalEnergies CEO said the oil market imbalance could persist until 2027 due to inventory demand."
-    },
-    {
-      "id": "4907492",
-      "time": "2026-05-29 22:20:26",
-      "tags": [
-        "公司",
-        "兩會"
-      ],
-      "text": "【貴州省委書記徐麟、省長李炳軍及省政協主席趙永清會見上市公司考察團一行】5月29日，貴州省委書記徐麟，省委副書記、省長李炳軍，省政協主席趙永清在貴陽會見上市公司考察團一行。徐麟、李炳軍對考察團一行表示歡迎和感謝。他們說，全省上下正認真貫徹落實習近平總書記考察貴州重要講話精神和黨中央決策部署，堅持以高質量發展統攬全域性，深入實施強化比較優勢戰略，大抓產業、主攻工業，經濟增長的“含金量”“含新量”“含綠量”不斷提升，高質量發展其效已顯、投資貴州正當其時。希望大家多多關注貴州，加大投資佈局，落地更多優質專案。貴州將竭誠為廣大企業在貴發展創造良好環境，實現互利共贏。（貴州改革）"
-    },
-    {
-      "id": "4907491",
-      "time": "2026-05-29 22:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界衛生組織：歐盟與世衛組織擴大行動規模，應對剛果民主共和國與烏干達的埃博拉疫情。"
     }
   ]
 }
