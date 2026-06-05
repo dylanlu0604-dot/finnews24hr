@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-06 03:14:21",
-  "count": 18831,
+  "updated": "2026-06-06 03:18:12",
+  "count": 18828,
   "items": [
+    {
+      "id": "4920320",
+      "time": "2026-06-06 03:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：此次埃博拉疫情的應對工作可能需要動用與2014-2016年西非埃博拉疫情規模相當的資源。"
+    },
+    {
+      "id": "4920319",
+      "time": "2026-06-06 03:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列偵測到從黎巴嫩方向向以色列北部發起導彈發射。對峙沿線區域或將很快拉響警報，警報覆蓋全域城市。"
+    },
+    {
+      "id": "mkt:019e9935-e34c-7665-830c-b56bcc46c4a9",
+      "time": "2026-06-06 03:15:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【U.S. jobs data lifts rate-hike bets; gold retreats, erases YTD gains】Strong U.S. employment data boosted Fed rate-hike expectations and pressured gold, which erased its year-to-date gains. In the U.S. session, spot gold fell about 3.5% and broke below $4320/oz. U.S. Treasury yields and the dollar both rose. A tight labor market leaves Fed officials room to tighten further, while Middle East tensions lifted energy prices. Rising rates typically weigh on non-yielding precious metals."
+    },
     {
       "id": "mkt:019e9934-6d4b-7665-830c-adaf0c9f4165",
       "time": "2026-06-06 03:13:30",
@@ -173450,54 +173486,6 @@
         "國際"
       ],
       "text": "美國財長貝森特： 油價上漲給普通家庭帶來的月均支出增加不足 200 美元。"
-    },
-    {
-      "id": "mkt:019e752b-6db8-7bb7-9965-c321858c512e",
-      "time": "2026-05-30 03:17:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Space Force signed a $4.16 bln contract with SpaceX to develop a space-based moving-target indication capability for airborne platforms."
-    },
-    {
-      "id": "4907719",
-      "time": "2026-05-30 03:16:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國太空軍：已向SpaceX授予一份價值41.6億美元的合同，用於開展天基機載移動目標指示專案。"
-    },
-    {
-      "id": "4907718",
-      "time": "2026-05-30 03:14:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們認為伊朗每月涉嫌侵吞 4 億至 5 億美元資金。"
-    },
-    {
-      "id": "mkt:019e7529-3409-7bb7-9965-bc7655691be8",
-      "time": "2026-05-30 03:14:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge ruled Trump is barred, for now, from renaming the Kennedy Center or closing it on grounds of renovation."
-    },
-    {
-      "id": "4907717",
-      "time": "2026-05-30 03:14:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數29日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於98.902。截至紐約匯市尾市，1歐元兌換1.1664美元，高於前一交易日的1.1648美元；1英鎊兌換1.3461美元，高於前一交易日的1.3440美元。1美元兌換159.26日元，高於前一交易日的159.26日元；1美元兌換0.7811瑞士法郎，低於前一交易日的0.7841瑞士法郎；1美元兌換1.3797加元，高於前一交易日的1.3784加元；1美元兌換9.2338瑞典克朗，低於前一交易日的9.2551瑞典克朗。"
-    },
-    {
-      "id": "4907716",
-      "time": "2026-05-30 03:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已查扣價值約 10 億美元的伊朗加密貨幣資產。"
     }
   ]
 }
