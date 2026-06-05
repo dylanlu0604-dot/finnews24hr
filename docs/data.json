@@ -1,7 +1,506 @@
 {
-  "updated": "2026-06-05 14:22:25",
-  "count": 18926,
+  "updated": "2026-06-05 14:44:09",
+  "count": 18932,
   "items": [
+    {
+      "id": "4918906",
+      "time": "2026-06-05 14:43:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：暫無對外國貨幣非居民（FCNR）存款流入設定具體目標。"
+    },
+    {
+      "id": "mkt:019e9685-9b54-7ff7-b579-464c1467e4c5",
+      "time": "2026-06-05 14:43:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Shanghai Composite Index fell more than 1% at the close; Shenzhen Composite Index fell 2.5%; ChiNext Index fell more than 3.6%."
+    },
+    {
+      "id": "4918905",
+      "time": "2026-06-05 14:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星巴克即飲首款能量飲料上線：康師傅代工助陣，開售即斷貨】星巴克即飲業務於6月在山姆會員店首發全新能量飲料，正式切入功能性提神賽道。新品命名為“星巴克能量飲料冰爽百香果味”，主打健康化概念，採用低糖0脂配方，零售價為69.9元/箱（18瓶×228ml），約合3.8元/瓶。目前該產品在山姆App已顯示斷貨。據瞭解，該款產品的委託方是上海康領食品有限公司，受委託加工方為蘇州頂津食品有限公司。天眼查顯示，這兩家公司的控股股為均為康師傅飲品投資（中國）有限公司（以下簡稱：康師傅）。"
+    },
+    {
+      "id": "4918904",
+      "time": "2026-06-05 14:42:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.00%，現報4017.062點；深證成指跌2.56%，現報15259.900點；創業板指跌3.62%，現報3940.747點。"
+    },
+    {
+      "id": "4918903",
+      "time": "2026-06-05 14:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曝英偉達重啟顯示卡計劃】訊息人士稍早前爆料稱，NVIDIA（英偉達）的GeForceRTX50系列顯示卡SUPER中期更新計劃正從此前的“冬眠”中甦醒，重回正軌。本次中期更新將包括12GB視訊記憶體版本的60級產品，命名有可能是RTX506012GB或RTX5060SUPER12GB。其認為NVIDIA總有辦法在當前的儲存危機中找到SUPER顯示卡所需的視訊記憶體供應，並將其與GPU核心捆綁向下遊AIC合作伙伴銷售。"
+    },
+    {
+      "id": "4918902",
+      "time": "2026-06-05 14:38:22",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國瘋狂全球搶銅】近期，美國貿易商掀起瘋狂搶銅潮。截至5月29日，紐約商品交易所（COMEX）銅庫存已高達約64.02萬噸，創歷史新高。高盛測算，美國以外市場銅供應缺口猛增至64萬噸。同樣是銅，一邊在美國倉庫裡堆滿，一邊在非美國地區供不應求。當少數大國用關稅預期製造跨市場價差、吸引全球銅資源向美國集中，其他國家正在為其政策不確定性買單。（中新網）"
+    },
+    {
+      "id": "4918901",
+      "time": "2026-06-05 14:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額達300億元】6月5日下午，新易盛成交額達300億元，現跌4.32%。"
+    },
+    {
+      "id": "mkt:019e967f-fea1-7ff7-b579-3a931271ad93",
+      "time": "2026-06-05 14:37:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said he will remain vigilant if inflation becomes broad-based."
+    },
+    {
+      "id": "4918900",
+      "time": "2026-06-05 14:37:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：若通脹出現普遍化趨勢，我們將保持警惕。"
+    },
+    {
+      "id": "mkt:019e967f-82de-7ff7-b579-335dbfe1b02c",
+      "time": "2026-06-05 14:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said the inf target should be met over time and it is not advisable to take action on every deviation."
+    },
+    {
+      "id": "4918899",
+      "time": "2026-06-05 14:35:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》】為進一步加強中央專項彩票公益金支援地方社會公益事業發展資金管理，提高資金使用效益，根據財政預算管理規定和彩票管理制度要求，結合相關管理實踐，財政部修訂完善並印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》。"
+    },
+    {
+      "id": "mkt:019e967e-59f2-7ff7-b579-2aa10af1bf8a",
+      "time": "2026-06-05 14:35:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBI governor says inflation target has not been shelved."
+    },
+    {
+      "id": "mkt:019e967e-2e83-7ff7-b579-20bbdd37a2fe",
+      "time": "2026-06-05 14:35:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said he expects inflows from external commercial borrowings and other measures to remain healthy."
+    },
+    {
+      "id": "mkt:019e967e-2c3a-7ff7-b579-1c6358dd2086",
+      "time": "2026-06-05 14:35:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Zhongji Xuchuang recorded turnover of 50 bln yuan; shares trading down 7.89%."
+    },
+    {
+      "id": "4918898",
+      "time": "2026-06-05 14:35:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月5日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，6月5日“農產品批發價格200指數”為113.50，比昨天上升0.03個點，“菜籃子”產品批發價格指數為113.59，比昨天上升0.04個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.73元/公斤，與昨天持平；牛肉66.76元/公斤，比昨天上升0.4%；羊肉64.23元/公斤，比昨天上升1.0%；雞蛋10.56元/公斤，比昨天上升0.8%；白條雞17.32元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.28元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.56元/公斤，比昨天下降0.3%。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.93元/公斤，比昨天上升0.5%；白鰱魚10.49元/公斤，比昨天上升0.4%；大帶魚40.63元/公斤，比昨天上升0.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、芹菜、蓮藕、菠菜和冬瓜，幅度分別為4.1%、2.1%、1.9%、1.6%和1.5%；價格降幅前五名的是西紅柿、黃瓜、西葫蘆、花鰱魚和蔥頭，幅度分別為2.4%、2.4%、2.3%、1.9%和1.7%。"
+    },
+    {
+      "id": "mkt:019e967e-14c0-7ff7-b579-15186f7cb7c8",
+      "time": "2026-06-05 14:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "France's April trade balance and industrial production (MoM) due in 10 minutes."
+    },
+    {
+      "id": "mkt:019e967d-b88c-7ff7-b579-0f3107168ab7",
+      "time": "2026-06-05 14:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says cash reserve ratio (CRR) and statutory liquidity ratio (SLR) requirements will be waived for foreign-currency non-resident term deposits."
+    },
+    {
+      "id": "4918897",
+      "time": "2026-06-05 14:34:34",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【中際旭創成交額達500億元】中際旭創成交額達500億元，現跌7.89%。"
+    },
+    {
+      "id": "mkt:019e967d-14a7-7ff7-b579-00b02e5a5f22",
+      "time": "2026-06-05 14:34:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI 300 index futures (IF) main contract fell as much as 2.00% intraday, trading at 4,773.0 points."
+    },
+    {
+      "id": "4918896",
+      "time": "2026-06-05 14:33:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：預計歐洲央行及其他措施將帶來充裕資金流入。"
+    },
+    {
+      "id": "4918895",
+      "time": "2026-06-05 14:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度登記百度一鏡logo作品著作權】天眼查智慧財產權資訊顯示，近日，北京百度網訊科技有限公司登記“百度一鏡logo”作品著作權，作品類別為美術，此前，百度線上網路技術（北京）有限公司已申請註冊多枚“百度一鏡”商標，國際分類包括科學儀器、社會服務等，當前商標狀態均為等待實質審查。 北京百度網訊科技有限公司成立於2001年6月，法定代表人為梁志祥，註冊資本約134.2億人民幣，經營範圍包括計算機軟硬體及輔助裝置零售、計算機軟硬體及輔助裝置批發、軟體開發等，由李彥宏、崔珊珊共同持股。 公開資料顯示，百度一鏡是百度推出的全場景數字人平臺，前身為“慧播星”，於近期在百度Create大會上完成品牌戰略升級，並同步釋出百度一鏡海外版。"
+    },
+    {
+      "id": "mkt:019e967c-83b6-7ff7-b578-ffe7ab80cfc9",
+      "time": "2026-06-05 14:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says details of foreign-exchange measures will be released shortly."
+    },
+    {
+      "id": "4918894",
+      "time": "2026-06-05 14:33:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：將免徵外幣非居民定期存款的現金準備金率與法定流動性比率要求。"
+    },
+    {
+      "id": "mkt:019e967b-ea70-7ff7-b578-f1489828e62b",
+      "time": "2026-06-05 14:32:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Optical-fiber prices surge as high‑purity quartz sand tightens on AI demand】AI compute infrastructure demand has triggered a new round of optical‑fiber price increases, lifting prices for high‑purity quartz sand used in fiber production. High‑end 6N‑grade and above quartz sand is particularly tight, with mainstream market quotes for fiber‑use high‑purity sand at 48,000–55,000 yuan/ton. High‑purity quartz sand is used across preform manufacture and fiber drawing and in fiber‑grade quartz tubes and furnace components. The demand boost mainly benefits firms with 6N‑level production capability; downstream processing adheres to market pricing and remains sensitive to cost, supply and broader market conditions. Domestic self‑sufficiency for 6N+ material is low, keeping near‑term supply tight."
+    },
+    {
+      "id": "4918893",
+      "time": "2026-06-05 14:31:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【恒生電子釋出6.0 AI生態架構】6月5日，在2026恒生證券行業合作伙伴峰會上，恒生電子總裁範徑武正式釋出了恒生面向AI時代的LIGHT 6.0技術架構——AI生態架構。目前，證券行業已全面邁入數智化階段。據瞭解，6.0 AI生態架構以“四層遞進、開放共建”為核心理念，構建了從基礎設施到核心業務系統的完整技術體系。"
+    },
+    {
+      "id": "4918892",
+      "time": "2026-06-05 14:31:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收低】日經225指數收跌1.31%，報66588.12點；韓國KOSPI指數收跌5.54%，報8160.59點。"
+    },
+    {
+      "id": "4918891",
+      "time": "2026-06-05 14:31:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【阿曼石油開發公司稱其重要石油出口港運營正常】當地時間5日上午，阿曼石油開發公司釋出通告稱，位於首都馬斯喀特的法赫勒港“運營正常”。當天早些時候，有訊息稱法赫勒港發生爆炸，導致石油裝載作業暫停。但截至目前，阿曼官方尚未證實相關訊息。法赫勒港是阿曼最重要的石油出口港口之一。阿曼石油開發公司總部以及多家重要煉油設施均設於這裡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e967a-502e-7ff7-b578-e8b03bbc315d",
+      "time": "2026-06-05 14:30:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 closed down 882.57 points on Friday, June 5, a 1.31% decline, at 66,588.12."
+    },
+    {
+      "id": "4918890",
+      "time": "2026-06-05 14:30:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤澤科技據悉尋求200港元貸款用於香港資料中心專案】據知情人士透露，潤澤智算科技集團股份有限公司正尋求約200億港元（26億美元）貸款，用於建設中國香港最大的計算機設施。知情人士說，潤澤科技正與多家銀行就一筆一年貸款進行初步洽談，可能採取銀團貸款或多筆雙邊融資的形式，以支援其位於香港北部新界的資料中心專案開發。他們補充說，與貸款方的洽談尚處於初步階段，可能會有所變化。"
+    },
+    {
+      "id": "mkt:019e9679-9ed6-7ff7-b578-e4f7052cde83",
+      "time": "2026-06-05 14:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 Index fell more than 4% at the close, led by chip supply-chain names including Daquan Energy, Baiwei Storage, Shengyi Electronics, Montage Technology and Xinyuan Technology."
+    },
+    {
+      "id": "4918889",
+      "time": "2026-06-05 14:29:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "宣告顯示，澳大利亞AirTrunk公司計劃到2030年在印度投資300億澳元，用於擴建資料中心。"
+    },
+    {
+      "id": "4918888",
+      "time": "2026-06-05 14:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國郵政內蒙古自治區分公司原副總經理蘭利厚接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、內蒙古自治區紀委監委訊息：中國郵政集團有限公司內蒙古自治區分公司原黨委委員、副總經理蘭利厚涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和內蒙古自治區包頭市監委監察調查。"
+    },
+    {
+      "id": "4918887",
+      "time": "2026-06-05 14:29:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖價格狂飆 高純石英砂因供需偏緊而“身價”上漲】受AI算力基礎設施建設驅動，光纖光纜行業迎來新一輪漲價潮。作為光纖製造中必不可少的一員，高純石英砂尤其是高階產品，因供需偏緊而“身價”上漲。“高純石英砂應用在光棒製備多個環節，且光纖生產中還用到光纖級石英套管、爐芯管、石英管這些配套產品。”一位從事石英制品加工的企業負責人表示，目前光纖產業對高純石英砂市場的拉動作用正在顯現，利好主要集中在具備高階6N級砂生產能力的企業。下游加工環節則遵循市場化定價，受成本、供需及市場環境多重因素影響。據中國粉體網資料，當前光纖用高純砂市場主流報價在4.8萬元/噸至5.5萬元/噸。6N級以上高純石英砂國產自給率偏低，供應緊張。據悉，石英系光纖的生產製備主要分為預製棒製備、光纖拉絲兩大核心工序，高純石英砂貫穿兩大工序。 (上證報)"
+    },
+    {
+      "id": "mkt:019e9678-4d16-7ff7-b578-d844ec5516ce",
+      "time": "2026-06-05 14:28:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "French transport minister says France will not face fuel shortages this summer."
+    },
+    {
+      "id": "4918886",
+      "time": "2026-06-05 14:28:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4.02%，成分股中，大全能源跌9.26%，佰維儲存跌8.70%，XD生益電跌8.39%，瀾起科技跌7.83%。"
+    },
+    {
+      "id": "4918885",
+      "time": "2026-06-05 14:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國交通部長：今夏法國不會出現燃料短缺。"
+    },
+    {
+      "id": "4918884",
+      "time": "2026-06-05 14:28:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額超200億元】6月5日下午，兆易創新成交額超200億元，現跌6.89%。"
+    },
+    {
+      "id": "4918883",
+      "time": "2026-06-05 14:28:12",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【報告：受印度央行措施影響，印度盧比波動性料將緩解】Religare Broking的Ajit Mishra在一封電子郵件中表示，受印度央行措施影響，印度盧比的波動性料將緩解。該研究部高階副總裁指出，印度央行已經“採取了吸引外資的果斷措施“，例如取消符合條件的外國投資者投資政府債券的資本利得稅。Mishra補充說，對於盧比而言，這些措施表明“在全球石油衝擊和持續的外資拋售壓力之際，錨定預期並降低波動性的明確意圖“。倫敦證券交易所集團資料顯示，美元下跌0.4%，報95.3850盧比。"
+    },
+    {
+      "id": "mkt:019e9677-c3f3-7ff7-b578-d3a58a8eb56f",
+      "time": "2026-06-05 14:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wolant founder: commercial passenger eVTOL in early incubation; economic validation expected H2】Wolant Aviation founder and CEO Dong Ming said the company is pursuing accelerated R&D to reach a global top-two or top-one technology position this year but warned the commercial passenger eVTOL sector remains in an early incubation phase with no mature mass-production products; industry closed-loop likely 5–10 years out. Wolant has de-emphasized non-binding LOIs and is prioritizing confirmed orders and delivery execution. The company plans to deliver 5–10 aircraft over this year and next and to begin economic viability testing between H2 this year and H1 next year to assess product profitability and value across the supply chain."
+    },
+    {
+      "id": "mkt:019e9677-9f3f-7ff7-b578-ccdad82d2306",
+      "time": "2026-06-05 14:28:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French transport minister says there are no major concerns over aviation fuel and gasoline supplies in France."
+    },
+    {
+      "id": "4918882",
+      "time": "2026-06-05 14:27:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【首創期貨：油價暴跌後小幅反彈】繼續關注中東局勢。真主黨領導人納伊姆·卡西姆週四明確拒絕了以色列與黎巴嫩政府週三達成的停火協議，表示該組織並未參與停火談判，因此不會接受相關協議。這一表態使得美伊戰爭短期內結束的前景變得黯淡，因為伊朗已將黎巴嫩停火作為和美國達成任何和平協議的先決條件。伊朗甚至暗示，如果以色列繼續在黎巴嫩發動軍事行動，德黑蘭不排除直接介入衝突。這意味著美國試圖透過黎巴嫩停火來推動美伊談判的關鍵一步遭遇重大挫折，市場對中東地區能源供應安全的擔憂重新升溫。油價跌勢已成，但美伊談判仍有反覆，下行不會順利。建議反彈做空。（首創期貨）"
+    },
+    {
+      "id": "4918881",
+      "time": "2026-06-05 14:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋4月份M3貨幣供應量同比增長17.6%。"
+    },
+    {
+      "id": "mkt:019e9676-924a-7ff7-b578-c4e6217a5aca",
+      "time": "2026-06-05 14:26:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Strait blockade deepens European winter storage fears; Asian competition may tighten supplies】European gas prices were set to finish the week higher as renewed Middle East fighting and uncertainty over a US‑Iran peace deal pressured sentiment. European benchmark gas futures rose up to 1.3% on Friday and are nearly 7% higher since last Friday, on track for their first weekly gain in three weeks. Talks to reopen the Strait of Hormuz have made little progress; the waterway has been effectively closed since the conflict began. Violence has resumed and Iran‑backed Hezbollah rejected a US‑brokered Lebanon ceasefire, undermining hopes for de‑escalation. European storage is only slightly above 41%, raising concern about winter refill. If the Hormuz blockade persists, summer competition with Asian buyers for seaborne LNG could intensify and tighten supplies."
+    },
+    {
+      "id": "mkt:019e9676-7abc-7ddc-b2bc-e6a3c392b127",
+      "time": "2026-06-05 14:26:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Oil Development Company says Mina al-Fahal port is operating normally."
+    },
+    {
+      "id": "4918880",
+      "time": "2026-06-05 14:26:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國交通部長表示：我國航空燃油與汽油供應不存在重大問題。"
+    },
+    {
+      "id": "4918879",
+      "time": "2026-06-05 14:25:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音回應“豆包誤判蘑菇導致使用者中毒”：AI目前還在發展階段，豆包也在不斷提升識別準確性】位元組跳動副總裁李亮在微博發文談“有關豆包誤判蘑菇導致使用者中毒”的事情，稱：使用者使用豆包拍照識別從小區摘到的蘑菇時，豆包識別為“雞腿菇”，同時給該使用者的回覆中明確提示：“極容易和劇毒的大青褶傘混淆，誤食會引發嚴重的胃腸炎症狀”，“如果這幾朵蘑菇是野外採摘的，強烈建議不要食用”，並表示“野生蘑菇的辨別風險極高，僅憑圖片無法100%排除有毒相似種的可能”等。李亮表示，AI目前還在發展階段，豆包也在不斷提升識別準確性，涉及類似人身安全的問題，建議大家，AI的回答僅供參考，請務必多方諮詢求證，以免造成傷害。另外也提醒大家，小區裡摘到的蘑菇或其他果類，即使它們本身無毒，也可能有農藥等其他情況，也強烈不建議大家食用。"
+    },
+    {
+      "id": "4918878",
+      "time": "2026-06-05 14:25:25",
+      "tags": [],
+      "text": "三大股指尾盤跌幅擴大，創業板指跌3％，深證成指跌超2％，滬指現跌0.6％。"
+    },
+    {
+      "id": "mkt:019e9674-6248-7ddc-b2bc-d8cfbe7e03e5",
+      "time": "2026-06-05 14:24:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share benchmarks widened losses into the close: Shenzhen Composite fell more than 2%, ChiNext dropped nearly 3%, and the Shanghai Composite was down 0.64%."
+    },
+    {
+      "id": "4918877",
+      "time": "2026-06-05 14:24:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.00%，現報3966.192點；上證指數跌0.70%，現報4029.247點；深證成指跌2.11%，現報15330.845點。"
+    },
+    {
+      "id": "4918876",
+      "time": "2026-06-05 14:23:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【沃蘭特創始人：商用客運eVTOL現處早期醞釀階段，下半年有望啟動經濟性驗證工作】“沃蘭特爭取今年透過快速的研製過程，（技術方面）能達到全球前二甚至第一的狀態，這是我們努力的目標。”近日，國內商用客運eVTOL（電動垂直起降航空器）沃蘭特航空創始人兼執行長董明，在接受媒體採訪時作出上述表述。談及當前的融資環境變化，董明觀察到，低空經濟領域投資人的行業認知正持續深化、投資信心也越來越高，背後依託的是行業與公司商業化確定性的不斷提升。資本市場出資主體也發生明顯變遷，投資主力從早期天使機構，過渡至地方國資平臺，現階段民營市場化資本入局活躍度顯著提升。進入2026年，低空行業共識高度統一，這是eVTOL主機廠適航取證和商業化的關鍵之年，將決定未來5至10年的競爭格局，多數企業已將加速適航取證列為年度核心目標。今年3月，沃蘭特方面也向記者透露，有望於2027年上半年完成適航取證。（澎湃新聞）"
+    },
+    {
+      "id": "4918875",
+      "time": "2026-06-05 14:23:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報15347.955點；上證指數跌0.62%，現報4032.797點；創業板指跌2.89%，現報3970.840點。"
+    },
+    {
+      "id": "mkt:019e9672-7960-7ff7-b578-ad4df31bf88e",
+      "time": "2026-06-05 14:22:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01347.HK",
+        "Impact bearish",
+        "00981.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng TECH Index slid more than 2% in afternoon trade; Huahong Semiconductor (01347.HK) fell over 7% and SMIC (00981.HK) dropped over 6%. Hang Seng Index was down about 1.2%."
+    },
+    {
+      "id": "4918874",
+      "time": "2026-06-05 14:22:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊跌幅擴大，豫能控股觸及跌停】電力板塊跌幅擴大，豫能控股、廣西能源雙雙觸及跌停。"
+    },
+    {
+      "id": "4918873",
+      "time": "2026-06-05 14:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼國家通訊社表示，米納阿勒法哈爾煉油廠運營一切正常。"
+    },
     {
       "id": "4918872",
       "time": "2026-06-05 14:21:30",
@@ -173952,444 +174451,6 @@
         "其他"
       ],
       "text": "【啟境品牌首款車型啟境GT7正式開啟預售】5月29日，啟境品牌首款車型啟境GT7正式開啟預售，該車為華為乾崑與廣汽全棧技術深度融合的產品，搭載華為新一代雙光路影象級鐳射雷達、華為乾崑智駕ADS 5、鴻蒙座艙體系、華為乾崑赤兔平臺等。"
-    },
-    {
-      "id": "4906339",
-      "time": "2026-05-29 14:43:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【智利等五國計劃合作打擊跨國有組織犯罪】智利、阿根廷、秘魯、玻利維亞和厄瓜多五國政府代表28日在智利首都聖地亞哥出席由智外交部主辦的高階別安全會議，並共同簽署一份檔案，約定加強地區協同，合作打擊跨國有組織犯罪。當天簽署的檔名為《聖地亞哥打擊跨國有組織犯罪區域承諾書》。根據智外交部發布的承諾書文字，各方決定成立由相關主管機構組成的工作組，制定聯合行動計劃，重點推進安全、金融與稅務情報、移民與邊境管控等領域合作。（新華社）"
-    },
-    {
-      "id": "mkt:019e7277-0101-711c-8b40-d718af23b14a",
-      "time": "2026-05-29 14:41:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IATA: Global air passenger demand down 3.4% in April 2026】IATA reported April 2026 global air passenger demand (RPKs) fell 3.4% YoY. Excluding the Middle East, demand rose 1.2% YoY. Available seat kilometres (ASKs) fell 2.9% YoY. Load factor was 83.1%, down 0.4 percentage points versus April 2025."
-    },
-    {
-      "id": "4906338",
-      "time": "2026-05-29 14:40:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三麗鷗株式會社：本公司一名董事總經理因兼任美國子公司執行長，從該美國子公司獲取多項收益，具體為獨立於本公司既定薪酬之外另行支付的收益。"
-    },
-    {
-      "id": "mkt:019e7276-9aad-711c-8b40-ce60344a20f9",
-      "time": "2026-05-29 14:40:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.1-magnitude earthquake offshore southern Peru - USGS】USGS reported a 5.1-magnitude earthquake offshore southern Peru at local time May 29 00:32. Epicenter 18.416°S, 71.460°W, about 86 km south of Ilo province, Moquegua region; depth 10 km. No casualties or damage reported."
-    },
-    {
-      "id": "4906337",
-      "time": "2026-05-29 14:40:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "哈薩克：4月份黃金儲備增至1139萬盎司，庫存價值為526.9億美元，而截至3月底為517.7億美元。"
-    },
-    {
-      "id": "4906336",
-      "time": "2026-05-29 14:40:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【網紅陳震成立馳創文化傳媒公司】天眼查App顯示，近日，北京馳創文化傳媒有限公司成立，法定代表人為李逸晢，註冊資本100萬人民幣，經營範圍包括組織文化藝術交流活動、網際網路銷售、廣告發布等，由北京格銳馳廣告傳媒有限公司全資持股，後者由網紅陳震持股54%。"
-    },
-    {
-      "id": "4906335",
-      "time": "2026-05-29 14:39:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月29日：“農產品批發價格200指數”比昨天下降0.02個點】據農業農村部監測，5月29日“農產品批發價格200指數”為113.20，比昨天下降0.02個點，“菜籃子”產品批發價格指數為113.25，比昨天下降0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.86元/公斤，比昨天下降0.1%；牛肉66.60元/公斤，與昨天持平；羊肉64.05元/公斤，比昨天下降0.1%；雞蛋9.84元/公斤，比昨天上升0.7%；白條雞16.89元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.18元/公斤，比昨天上升1.5%；重點監測的6種水果平均價格為7.68元/公斤，比昨天下降0.9%。鯽魚20.10元/公斤，比昨天上升0.1%；鯉魚14.75元/公斤，比昨天下降1.3%；白鰱魚10.48元/公斤，比昨天上升0.4%；大帶魚40.37元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蔥頭、黃瓜、萵筍、西瓜和西葫蘆，幅度分別為4.3%、4.1%、4.0%、3.3%和3.1%；價格降幅前五名的是巨峰葡萄、鯉魚、南瓜、花鰱魚和鴨梨，幅度分別為3.7%、1.3%、1.1%、1.0%和0.9%。"
-    },
-    {
-      "id": "4906334",
-      "time": "2026-05-29 14:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【秘魯南部附近海域發生5.1級地震】據美國地質調查局報告，當地時間5月29日0時32分，秘魯南部附近海域發生5.1級地震，震中位於南緯18.416度、西經71.460度，距莫克瓜大區伊洛省以南約86公里，震源深度10公里。目前暫無人員傷亡和財產損失報告。（央視新聞）"
-    },
-    {
-      "id": "4906333",
-      "time": "2026-05-29 14:38:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【國際航協：今年4月航空客運需求下降3.4%】國際航協今日釋出2026年4月全球航空客運需求定期資料，航空客運總需求（按照RPK收入客公里計算）同比下降3.4%。剔除中東地區後，需求增長1.2%。總運力（按照ASK可用座公里計算）同比下降2.9%。4月載客率83.1%，同比2025年4月下降0.4個百分點。國際航協理事長威利·沃爾什（Willie Walsh）表示：“受地區戰事衝擊，中東航空公司需求暴跌46.6%，並拖累整體需求下降3.4%。航空運輸形勢仍在劇烈波動中。4月航空燃油價格翻了一倍以上，推動機票價格上漲。遠期排班資料顯示未來數月運力供給將縮減，表明航空公司正在平衡高燃油成本與疲軟需求之間的關係。”"
-    },
-    {
-      "id": "4906332",
-      "time": "2026-05-29 14:37:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量2919億元。"
-    },
-    {
-      "id": "mkt:019e7273-6460-711c-8b40-c73e00ab6f16",
-      "time": "2026-05-29 14:37:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Led by chip stocks, South Korea's KOSPI has risen 28% month-to-date."
-    },
-    {
-      "id": "4906331",
-      "time": "2026-05-29 14:36:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中芯國際A股成交額達200億元】5月29日下午，中芯國際A股成交額達200億元，現跌8.43%。"
-    },
-    {
-      "id": "mkt:019e7272-7618-711c-8b40-bb53d60cb4cf",
-      "time": "2026-05-29 14:36:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "French foreign minister said France has asked prosecutors to investigate the treatment of French nationals aboard the recent Gaza flotilla."
-    },
-    {
-      "id": "4906329",
-      "time": "2026-05-29 14:35:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽高域工廠首機下線】5月29日，廣汽高域在廣州市黃埔區的工廠正式落成，新一款多旋翼產品首臺下線。這標誌著該機型脫離原型機研發階段，邁入了工業化量產、適航取證與商業化落地並行的新週期。 第一財經記者在工廠現場瞭解到，該工廠的產線復材車間採用航空10萬級潔淨度標準，實現碳纖維零部件精密製造；總裝車間創新引入工業化生產的“脈動式生產線”，定位精度達±0.1mm（毫米），柔性產線可快速擴充套件提升產能。產線融合航空安全標準與汽車生產工藝，設計年產能達100臺，搭建起零部件配套、整機裝配、效能檢測、成品交付的全流程智慧製造體系。（第一財經）"
-    },
-    {
-      "id": "mkt:019e7271-fe1d-711c-8b40-b172a407b61d",
-      "time": "2026-05-29 14:35:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan says it underestimated rice supply-demand and failed to deploy reserves as prices surge】Japan approved its 2025 agricultural white paper on May 29, saying the government underestimated domestic rice supply-demand and did not promptly release reserve rice, contributing to a price surge that began in summer 2024. The paper said officials assumed population decline would lower rice demand and therefore did not actively monitor market circulation. Panic buying over earthquake risk and heat-related poor harvests also helped push prices higher. Rice commodity prices rose 67.5% in 2024, the largest increase since comparable data began in 1971; average supermarket 5 kg retail prices exceeded 4,000 yen (about 170 yuan)."
-    },
-    {
-      "id": "mkt:019e7271-8f0f-711c-8b40-a95098c81b77",
-      "time": "2026-05-29 14:35:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "France Q1 final annualized GDP and May preliminary CPI (MoM) due in 10 minutes."
-    },
-    {
-      "id": "4906328",
-      "time": "2026-05-29 14:34:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海格通訊與巴基斯坦國家電信公司簽署合作備忘錄】據海格通訊訊息，5月24日，中國—巴基斯坦B2B投資峰會在杭州舉行。海格通訊(002465)受邀參會，並與巴基斯坦國家電信公司（NTC）成功簽署諒解備忘錄（MOU）。"
-    },
-    {
-      "id": "4906327",
-      "time": "2026-05-29 14:34:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長表示，法國已要求檢察官調查近期加沙船隊事件中法國公民所受待遇。"
-    },
-    {
-      "id": "mkt:019e7270-ceea-711c-8b40-a4decc30a5a1",
-      "time": "2026-05-29 14:34:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian president says he will not accept any spillover from Russia's military operations in Ukraine affecting Romanian citizens."
-    },
-    {
-      "id": "4906326",
-      "time": "2026-05-29 14:33:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田工業公司將於6月1日從東京證券交易所主市場摘牌。"
-    },
-    {
-      "id": "mkt:019e726f-306f-711c-8b40-9d42a4e8318a",
-      "time": "2026-05-29 14:32:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ISO approves China-led revisions to ISO 20022 Parts 5 and 7 (2026)】May 29 — ISO has approved and published China-led revisions to the international payment messaging standard: ISO 20022-5:2026 (Conceptual interoperability and reverse engineering) and ISO 20022-7:2026 (Registration). The updates, developed with input from experts across 17 countries and six international financial institutions (over 50 experts), are intended to improve financial services efficiency and facilitate cross-border transactions, providing technical support for a more open international financial system."
-    },
-    {
-      "id": "mkt:019e726f-2e5d-711c-8b40-917996f61ec3",
-      "time": "2026-05-29 14:32:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan, South Korea stocks rally; Japan's Nikkei posts record closing high】Japan's Nikkei 225 closed May 29 up 1,669.55 points (+2.58%) at 66,362.67, a record closing high. South Korea's KOSPI closed up 289.64 points (+3.54%) at 8,474.93."
-    },
-    {
-      "id": "mkt:019e726e-b10b-711c-8b40-880eddc6fd3b",
-      "time": "2026-05-29 14:31:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "IFX.DE",
-        "Impact bullish"
-      ],
-      "text": "【Infineon to raise prices again in July】Infineon told customers and partners it will increase prices on select power-semiconductor products effective July 1. This is the company's second price rise this year, after an initial increase in April 2026. Infineon cited higher value-chain costs—energy, raw materials, transport and services—linked to geopolitical tensions, and demand for its product mix running faster than it expected several months ago."
-    },
-    {
-      "id": "4906325",
-      "time": "2026-05-29 14:31:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲2.53%，報66329.50點。韓國綜指收漲3.54%，報8474.93點。"
-    },
-    {
-      "id": "4906324",
-      "time": "2026-05-29 14:31:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英飛凌將於7月再度提價】近日，全球功率半導體廠商英飛凌向客戶與合作伙伴表示，將自7月1日起調整部分產品價格。這是繼2026年4月首輪提價之後，該公司年內的第二次價格上調。對於本次調價的理由，英飛凌解釋主要有兩點：一方面源自地緣政治緊張局勢所帶來的影響。這正導致整體價值鏈中的各項成本不斷上升，涵蓋能源、原材料、運輸及服務等領域。另一方面，公司產品組合的需求正快速攀升，且增長幅度遠超數月前的預期水平。"
-    },
-    {
-      "id": "4906323",
-      "time": "2026-05-29 14:31:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【羅馬尼亞稱俄無人機在該國墜毀致兩人受傷】羅馬尼亞國防部29日釋出新聞公報稱，一架俄羅斯無人機在羅馬尼亞一棟公寓樓墜毀並引發火災，致兩人受傷。羅國防部稱，28日晚至29日凌晨，俄羅斯對烏克蘭發動了無人機襲擊，事發地點靠近羅馬尼亞邊境。一架無人機侵入了羅馬尼亞領空，被雷達系統一直追蹤至加拉茨市南部區域。隨後，該無人機墜毀在一棟公寓樓的屋頂上並引發火災。（新華社）"
-    },
-    {
-      "id": "mkt:019e726d-ac25-711c-8b40-8751ff14cd8f",
-      "time": "2026-05-29 14:30:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【Guangdong Jan–Apr industrial output of enterprises above designated size +3.9% YoY】Industrial output of Guangdong enterprises above designated size rose 3.9% YoY in Jan–Apr. By sector, mining +16.3% YoY, manufacturing +3.3%, and electricity/heat/gas/water production and supply +6.0%; power and heat production and supply expanded 10.1% YoY, 0.7 ppt faster than Q1. By industry, computer, communications and other electronic equipment manufacturing +12.7%; electrical machinery and equipment +3.4% (battery manufacturing +12.8%); special-purpose equipment +8.1%; chemical raw materials and chemical products +5.3%. High‑tech product output led gains: industrial robots +32.3%, 3D printers +57.0%, integrated circuits +30.8%, memory/storage chips +50.8%. Selected consumer durables: household refrigerators +19.5%, washing machines +14.8%."
-    },
-    {
-      "id": "mkt:019e726d-975d-711c-8b40-7ec2d9380c6a",
-      "time": "2026-05-29 14:30:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian president has asked the foreign ministry to immediately propose a package of measures on relations with Russia to respond to an extremely serious situation."
-    },
-    {
-      "id": "4906322",
-      "time": "2026-05-29 14:30:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：現在就斷定美聯儲短期內需要升息還為時過早。"
-    },
-    {
-      "id": "4906321",
-      "time": "2026-05-29 14:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國牽頭修訂的金融業通用報文方案國際標準正式釋出】記者今天（5月29日）瞭解到，我國牽頭修訂的國際標準《金融服務 金融業通用報文方案 第5部分：概念互操作性和反向工程》（ISO 20022-5:2026）和《金融服務 金融業通用報文方案 第7部分：註冊》（ISO 20022-7:2026）經國際標準化組織（ISO）批准釋出。（央視新聞）"
-    },
-    {
-      "id": "te:markets:554779",
-      "time": "2026-05-29 14:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.68% Higher — The Nikkei 225 Index gained 1731 points or 2.68 percent on Friday to close at 66424 points. Gains were led by Sumco (19.95%), Murata Manufacturing (16.70%) and Taiyo Yuden (14.45%)."
-    },
-    {
-      "id": "4906320",
-      "time": "2026-05-29 14:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達300億元】中際旭創成交額達300億元，現跌3.38%。"
-    },
-    {
-      "id": "4906319",
-      "time": "2026-05-29 14:29:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "羅馬尼亞總統表示，他已要求外交部立即出臺一系列對俄關係相關措施，措施力度需與當前極為嚴峻的局勢相稱。"
-    },
-    {
-      "id": "mkt:019e726c-ba64-711c-8b40-753d96b62640",
-      "time": "2026-05-29 14:29:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian prime minister said the country will sign a contract within hours to acquire an anti-drone defense system under the \"European Security Action\" plan."
-    },
-    {
-      "id": "4906318",
-      "time": "2026-05-29 14:29:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告：紐商所黃金期貨可能正上演逆勢反彈】RHB Retail Research的Aiman Kamil Bin Ahmad Shauqi在一份研究報告中表示，從日線圖來看，紐商所黃金期貨可能正上演逆勢反彈。該分析師指出，該期貨週四暫停了下跌趨勢，且拋售壓力已經減弱。不過該分析師表示，該期貨的交易價格仍低於20日和50日簡單移動平均線，且相對強弱指標仍低於50%的臨界值。基於看跌的技術形態，該大宗商品的反彈可能是短暫的，隨後將出現下行價格走勢。該分析師補充說，第一阻力位定在每盎司4,650美元，而初步支撐位在每盎司4,400美元。現貨黃金上漲0.5%，報每盎司4,519.46美元。"
-    },
-    {
-      "id": "4906317",
-      "time": "2026-05-29 14:28:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：1—4月份全省規模以上工業增加值同比增長3.9%】據“廣東統計”公眾號訊息，1—4月份，全省規模以上工業增加值同比增長3.9%。分門類看，採礦業增加值增長16.3%，製造業增長3.3%，電力、熱力、燃氣及水生產和供應業增長6.0%。分行業看，計算機、通訊和其他電子裝置製造業增長12.7%，保持兩位數快速增長；電氣機械和器材製造業增長3.4%，其中電池製造業增長12.8%；電力、熱力生產和供應業增長10.1%，增速比一季度提高0.7個百分點；專用裝置製造業、化學原料和化學制品製造業分別增長8.1%、5.3%。分產品看，高技術產品增勢良好，工業機器人、3D列印裝置、積體電路、儲存晶片產品產量分別增長32.3%、57.0%、30.8%、50.8%；部分家電類產品保持較快增長，家用電冰箱、家用洗衣機產品產量分別增長19.5%、14.8%。"
-    },
-    {
-      "id": "4906316",
-      "time": "2026-05-29 14:28:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "即將卸任的羅馬尼亞總理博洛詹表示，羅馬尼亞將在數小時內簽署協議，根據“安全願景”（SAFE）機制獲得反無人機防禦系統。"
-    },
-    {
-      "id": "mkt:019e7269-a72c-711c-8b40-688f115f82c0",
-      "time": "2026-05-29 14:26:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Romania summoned Russia's ambassador, the foreign minister said."
-    },
-    {
-      "id": "mkt:019e7268-a121-711c-8b40-6025d20d6194",
-      "time": "2026-05-29 14:25:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Romania's president said the drone incident is unprecedented and called for coordinated domestic and international responses."
-    },
-    {
-      "id": "te:economy:554776",
-      "time": "2026-05-29 14:25:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "GDP Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Sweden Economy Shrinks in Q1 — The Swedish economy contracted by 0.2% quarter-on-quarter in the first quarter of 2026, confirming preliminary estimates and exceeding market expectations of a 0.1% fall. This followed a revised 0.8% expansion in the previous quarter and marked the first contraction in a year. Government spending declined (-2.1% vs 2.7% in Q4), while gross fixed capital formation also dropped (-2.3% vs 4.5%), largely due to lower investment in buildings and constructions. Net trade also contributed negatively, as imports (2.5% vs 0.2%) rose more than exports (2.2% vs -0.8%). Meanwhile, household consumption continued to rise (0.6% vs 0.6%). On an annual basis, GDP rose by 2%, revised up from an initial estimate of 1.6% but falling short of market forecasts of a 2.3% increase. Annual growth matched the pace recorded in the previous quarter."
-    },
-    {
-      "id": "4906314",
-      "time": "2026-05-29 14:25:11",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "智譜(02513.HK)日內大漲20%，股價現報1943港元/股，市值超8650億港元，本月累漲超125%。"
-    },
-    {
-      "id": "mkt:019e7268-6c61-711c-8b40-5a715c8ce87c",
-      "time": "2026-05-29 14:25:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "Zhipu (02513.HK) surged about 20% intraday to HK$1,943 per share, lifting market capitalization above HK$865 billion; the stock is up more than 125% this month."
-    },
-    {
-      "id": "mkt:019e7268-53d7-711c-8b40-56441161a672",
-      "time": "2026-05-29 14:25:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French foreign minister summoned Russia's ambassador on Friday to discuss a Russian drone incident in Romania."
-    },
-    {
-      "id": "4906313",
-      "time": "2026-05-29 14:24:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外長巴羅已於週五就俄羅斯無人機進入羅馬尼亞事件召見俄羅斯大使。"
-    },
-    {
-      "id": "4906312",
-      "time": "2026-05-29 14:24:28",
-      "tags": [
-        "宏觀",
-        "資料",
-        "觀點"
-      ],
-      "text": "【為何前4月工業利潤大漲企業所得稅收入下滑？】國家統計局近日釋出的資料顯示，今年前4個月全國規模以上工業企業實現利潤總額約2.4萬億元，同比增長18.2%。根據財政部資料，今年前4個月，企業所得稅收入約1.7萬億元，同比下降0.5%。 為何今年前4個月工業企業利潤總額大漲，但與企業利潤直接相關的企業所得稅收入增速卻略有下降，兩者增速相差18.7個百分點？ 記者整理過去十年的全國規模以上工業企業利潤總額增速和企業所得稅收入增速發現，兩者增速走勢相近，體現了兩個資料關聯密切。製造業等工業企業，貢獻了大量稅收，而企業所得稅徵稅跟企業利潤十分緊密。但每年兩者增速並不一致，工業企業利潤波動幅度更大，企業所得稅收入增速波動幅度相對小。（第一財經）"
-    },
-    {
-      "id": "mkt:019e7267-11cd-711c-8b40-4a41f1e12109",
-      "time": "2026-05-29 14:23:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "01211.HK",
-        "Impact bullish"
-      ],
-      "text": "【CLSA: BYD launches new intelligent driving solution and in-house chip, maintains high-conviction Outperform】CLSA said BYD (01211.HK) unveiled a new-generation intelligent driving solution centered on God’sEye 5.0 and a new autonomous-driving framework. Two elements surprised markets: a safety-fallback guarantee for all models equipped with God’sEye 5.0 and BYD’s self-developed Xuanji A3 chip. CLSA said the package reinforces BYD’s tech lead, could support a H2 sales recovery, and that BYD’s vertical integration should give it more room amid intensifying price competition; the bank also sees visible overseas and high-end growth. CLSA maintained a HK$130 target price and a high-conviction Outperform rating."
-    },
-    {
-      "id": "4906311",
-      "time": "2026-05-29 14:23:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【矽業分會：期貨小幅回暖，現貨整體持穩】據矽業分會，本週工業矽市場呈現“期貨小幅反彈、現貨整體持穩”的格局。受宏觀情緒回暖及煤炭價格反彈帶動，期貨價格重心小幅上移；現貨市場則延續平穩態勢，各規格報價均未出現明顯波動。"
-    },
-    {
-      "id": "4906310",
-      "time": "2026-05-29 14:22:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：無論在最好還是最壞的情況下，都存在長期通貨膨脹的風險。"
     }
   ]
 }
