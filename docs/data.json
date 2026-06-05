@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-05 21:05:34",
-  "count": 18661,
+  "updated": "2026-06-05 21:09:31",
+  "count": 18663,
   "items": [
+    {
+      "id": "4919893",
+      "time": "2026-06-05 21:08:20",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國就業資料超預期後英國國債收益率上升】在強於預期的美國就業資料公佈後，英國國債收益率追隨美國國債收益率的走勢上升。美國5月份非農就業人數增加17.2萬人，高於《華爾街日報》調查的經濟學家平均預期的增加8萬個新工作崗位。該資料增加了美聯儲在年底前加息的可能性，導致美國國債收益率攀升。Tradeweb資料顯示，資料公佈後，10年期英國國債收益率上升2.7個基點，最新報4.912%。10年期美國國債收益率上升5.5個基點，至4.532%。"
+    },
+    {
+      "id": "te:economy:556919",
+      "time": "2026-06-05 21:07:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Mexico Consumer Confidence at Lowest Since 2022 — Mexico’s Consumer Confidence Index fell 0.7 points to 43.5 in May 2026 from April, reaching its lowest level since December 2022 as households grew more pessimistic about current and future economic conditions. All five components of the index declined during the month. The sharpest decreases were recorded in perceptions of the country's economic outlook over the next 12 months, which fell 1.6 points to 43.3, and assessments of the current national economic situation, down 1.0 point to 37.3. Confidence in current household finances declined 0.7 points to 50.2, while willingness to purchase durable goods fell by the same margin to 28.6. Expectations for household finances over the next year also weakened, slipping 0.3 points to 57.5. Compared with May 2025, consumer confidence was 3.4 points lower."
+    },
+    {
+      "id": "mkt:019e97e5-a3e8-7fff-a931-6eae3f0a7f90",
+      "time": "2026-06-05 21:07:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Huawei Cloud, 20-plus model vendors unveil ecosystem cooperation plan】Huawei Cloud opened its INSPIRE creators conference in Shanghai and unveiled an ecosystem cooperation plan with more than 20 model vendors, naming partners including Baidu, iFlytek Spark, Zhipu, Meituan LongCat, Stepfun, DeepSeek, Minimax and Kimi. The initiative, titled Hundreds of Models, Thousands of Scenarios — Cloud Convergence for Win‑Win, intends to jointly build a systematic commercial ecosystem for model deployment and go‑to‑market cooperation."
+    },
+    {
+      "id": "4919891",
+      "time": "2026-06-05 21:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲聯合20餘家模型廠商釋出生態合作計劃】6月5日，華為雲INSPIRE創想者大會在上海西岸國際會展中心開幕。會上，華為雲聯合智譜、DeepSeek、Minimax、Kimi、階躍星辰、百度、美團LongCat、訊飛星火、愛詩科技、生數科技等20餘家TOP模型廠商，釋出“百模千態，雲聚共贏”生態合作計劃，共建系統化商業生態。"
+    },
+    {
+      "id": "4919890",
+      "time": "2026-06-05 21:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "受美國就業報告影響，新興市場貨幣指數跌至日內低點。"
+    },
+    {
+      "id": "mkt:019e97e3-0f1b-7fff-a931-651da1550b20",
+      "time": "2026-06-05 21:05:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Emerging-market currency index hit an intraday low."
+    },
     {
       "id": "4919889",
       "time": "2026-06-05 21:04:51",
@@ -171838,39 +171898,6 @@
         "Important"
       ],
       "text": "Missile alert issued across Russia's Ural region."
-    },
-    {
-      "id": "4907363",
-      "time": "2026-05-29 21:09:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "碧桂園：截至2026年4月30日，違約債務新增18.78億元人民幣。"
-    },
-    {
-      "id": "4907362",
-      "time": "2026-05-29 21:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "碧桂園：截至2026年4月30日，新增涉及訴訟案件共11起，涉案金額合計14.52億元人民幣。"
-    },
-    {
-      "id": "4907361",
-      "time": "2026-05-29 21:08:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯整個烏拉爾聯邦區釋出導彈警報。"
-    },
-    {
-      "id": "4907360",
-      "time": "2026-05-29 21:07:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "波蘭副財政部長表示：2026年總融資需求的資金到位比例約為56%。"
     }
   ]
 }
