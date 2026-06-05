@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-06 05:36:04",
-  "count": 18787,
+  "updated": "2026-06-06 05:39:51",
+  "count": 18796,
   "items": [
+    {
+      "id": "mkt:019e99b9-bd02-7665-830e-120eb91b311f",
+      "time": "2026-06-06 05:39:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Elon Musk erred previously but is now his friend."
+    },
+    {
+      "id": "mkt:019e99b9-b670-7665-830e-0ac0cd1ac7f4",
+      "time": "2026-06-06 05:39:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: Musk is smart 80% of the time and terrible 20% of the time."
+    },
+    {
+      "id": "mkt:019e99b9-54f3-7665-830e-0714a2bd2a7e",
+      "time": "2026-06-06 05:38:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Trump says he is planning measures targeting the energy and fertilizer sectors."
+    },
+    {
+      "id": "4920432",
+      "time": "2026-06-06 05:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我並不怎麼看好西班牙。"
+    },
+    {
+      "id": "4920431",
+      "time": "2026-06-06 05:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Netflix任命Jay Hoag為董事會主席，自年度股東大會起生效。"
+    },
+    {
+      "id": "4920430",
+      "time": "2026-06-06 05:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：董事會完成對尼泊爾的審議，批准發放4290萬美元貸款。"
+    },
+    {
+      "id": "mkt:019e99b7-edfd-7665-830d-ffe5fd29a57b",
+      "time": "2026-06-06 05:37:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: economic growth will actually curb inf."
+    },
+    {
+      "id": "4920429",
+      "time": "2026-06-06 05:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正朝著完成和批准農業法案的目標穩步前進。"
+    },
+    {
+      "id": "mkt:019e99b7-8b80-7665-830d-f36a2550eee7",
+      "time": "2026-06-06 05:36:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said markets should rise when economic data is strong."
+    },
+    {
+      "id": "4920428",
+      "time": "2026-06-06 05:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國司法部週五通報，美軍扣押一艘超大型油輪，美方稱該船隸屬於伊朗 “幽靈船隊”，涉嫌運輸遭制裁的伊朗原油。"
+    },
+    {
+      "id": "4920427",
+      "time": "2026-06-06 05:36:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗衝突結束後，我們準備“大幹一場”。"
+    },
     {
       "id": "mkt:019e99b6-5815-7665-830d-efd670fd8973",
       "time": "2026-06-06 05:35:24",
@@ -173152,22 +173248,6 @@
         "市場"
       ],
       "text": "【巴西資產大跌拖累拉美市場，美伊和平談判成焦點】5月29日，大多數拉丁美洲資產走勢趨緩。投資者目前正死死盯住潛在的美伊和平協議，在由巴西領跌的拉美本土市場頹勢背景下，艱難權衡著地緣政治帶來的謹慎樂觀情緒。MSCI拉美貨幣指數基本持平，但全月有望錄得微幅上漲。相比之下，更廣泛的拉美股票指數則邁向2024年底以來最慘烈的單月下挫。巴西雷亞爾兌美元匯率基本持平，但全月表現已註定創下今年以來最差的單月成績。巴西基準股指（Bovespa）當日同樣下滑0.7%，為其鎖定2023年2月以來最陡峭的單月暴跌。"
-    },
-    {
-      "id": "4907878",
-      "time": "2026-05-30 05:36:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局（NASA）簽署約翰遜航天中心基礎設施建設合同。"
-    },
-    {
-      "id": "4907877",
-      "time": "2026-05-30 05:36:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油董事長在罷免事件前與董事兼前執行長發生爭執。"
     }
   ]
 }
