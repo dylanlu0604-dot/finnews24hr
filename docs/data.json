@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-05 23:00:19",
-  "count": 18701,
+  "updated": "2026-06-05 23:04:18",
+  "count": 18704,
   "items": [
+    {
+      "id": "4920120",
+      "time": "2026-06-05 23:03:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析師：英偉達70%以上的利潤率在2030年前高枕無憂】達維森公司（DA Davidson）技術研究主管Gil Luria表示，英偉達的利潤率在2030年之前都相對安全，因為超大規模雲服務商超大規模雲服務商（Hyperscalers）在採購用於支援人工智慧（AI）資料中心的晶片時，幾乎沒有其他替代方案。“他們基本上、幾乎完全還在依賴英偉達的晶片。這使得英偉達保持在75%左右的毛利率顯得相對穩固。”"
+    },
+    {
+      "id": "4920119",
+      "time": "2026-06-05 23:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預估 2026 年全年全球原油供應均值將高於需求。"
+    },
+    {
+      "id": "mkt:019e984e-d298-7665-8307-470b90276631",
+      "time": "2026-06-05 23:02:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH expects the oil market to return to surplus in September 2026."
+    },
+    {
+      "id": "4920118",
+      "time": "2026-06-05 23:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計 2026 年 9 月起原油市場重回供應過剩格局。"
+    },
+    {
+      "id": "mkt:019e984d-ba89-7665-8307-3c3c64dc0272",
+      "time": "2026-06-05 23:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A NASA spokesperson said the agency has instructed the crew aboard the Dragon spacecraft to resume planned operations on the International Space Station."
+    },
+    {
+      "id": "mkt:019e984d-9e84-7665-8307-324dfe1c8659",
+      "time": "2026-06-05 23:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA said it will work with Russia's state space corporation Roscosmos to develop a joint plan to resolve a leak and has instructed crew who had sheltered inside the Dragon spacecraft to end their shelter-in-place procedure."
+    },
+    {
+      "id": "mkt:019e984d-7ad4-7665-8307-293b913a217b",
+      "time": "2026-06-05 23:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "At the 23:00 close, China’s main futures contracts were mostly lower. Synthetic rubber led losses, down over 2%; 20# rubber fell nearly 2%. Styrene (EB) and ethylene glycol (EG) dropped more than 1%; palm oil, soda ash and PVC declined about 1%. On the upside, japonica rice rose nearly 2%; coking coal and asphalt gained over 1%, and PTA was up around 1%."
+    },
+    {
+      "id": "mkt:019e984c-f6ca-7665-8307-2602b6922221",
+      "time": "2026-06-05 23:00:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fitch says oil markets will return to surplus once the Strait of Hormuz reopens."
+    },
+    {
+      "id": "mkt:019e984c-ddca-7665-8307-1a4abff34b2b",
+      "time": "2026-06-05 23:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: 28 of 34 economists expect the BOC to keep the overnight rate at 2.25% through end-2026; in the April 26 survey, 33 of 41 economists held that view."
+    },
+    {
+      "id": "4920117",
+      "time": "2026-06-05 23:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：霍爾木茲港重新開放後，石油市場將再次出現供應過剩。"
+    },
+    {
+      "id": "4920116",
+      "time": "2026-06-05 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】20號膠連續跌2.02%，粳米連續漲1.98%，焦煤連續漲1.73%，天然橡膠連續跌1.59%，瀝青連續漲1.13%。"
+    },
+    {
+      "id": "te:markets:556959",
+      "time": "2026-06-05 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 1.37% — Top currency losers are South Korean Won (-1.37%), Brazilian Real (-1.13%), Norwegian Krone (-0.83%), Euro (-0.44%), British Pound (-0.29%) and Japanese Yen (-0.15%). Gains are led by Indian Rupee (0.61%) and Dollar Index (0.39%)."
+    },
+    {
+      "id": "mkt:019e984c-1683-7665-8307-12baf0834705",
+      "time": "2026-06-05 22:59:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: all 33 economists polled expect the BOC to hold the overnight rate at 2.25% on June 10."
+    },
     {
       "id": "4920115",
       "time": "2026-06-05 22:59:18",
@@ -172089,108 +172210,6 @@
         "國際"
       ],
       "text": "英國《金融時報》援引監管機構訊息：哈薩克提議接收伊朗的鈾儲備。"
-    },
-    {
-      "id": "4907561",
-      "time": "2026-05-29 23:04:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：將與越南避免匯率操縱。"
-    },
-    {
-      "id": "4907560",
-      "time": "2026-05-29 23:03:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普就結束伊朗戰事提出條件】美國總統特朗普29日說，伊朗必須同意永遠不擁有核武器。霍爾木茲海峽必須立即開放，雙向通行無阻，不收取任何通行費。所有水雷必須予以清除。（新華社）"
-    },
-    {
-      "id": "mkt:019e7442-9ec7-7eef-a0f1-f67bf8cb21f5",
-      "time": "2026-05-29 23:02:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Trump says he will convene White House Situation Room meeting to make final decision on Iran】Trump said on social media on the 29th he will soon convene a meeting in the White House Situation Room to make a final decision on the Iran conflict."
-    },
-    {
-      "id": "mkt:019e7442-3f00-7eef-a0f1-ebbf442c3618",
-      "time": "2026-05-29 23:02:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump says he will make 'final decision' on Iran; Axios reads comment as hint of approval】President Trump said Iran must agree never to possess nuclear weapons and demanded the Strait of Hormuz be reopened immediately without transit fees. He said all sea mines, if any, will be cleared; the U.S. has used mine-countermeasure ships to detonate many and Iran will be responsible for clearing or detonating any remaining mines. Trump said ships held under a U.S. naval blockade may depart now that the blockade is lifted. He said enriched material buried after a U.S. B-2 strike 11 months ago will be excavated and destroyed by the U.S. in close coordination with Iran and the IAEA, and that no funds will be exchanged until further notice. Trump said he is heading to the situation room to make a final decision; Axios interprets the comments as suggesting he may imminently approve an Iran nuclear agreement."
-    },
-    {
-      "id": "mkt:019e7442-12fd-7eef-a0f1-e3f834caf894",
-      "time": "2026-05-29 23:02:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reporter Barak Ravid reported Trump hinted he may soon approve a deal with Iran."
-    },
-    {
-      "id": "4907559",
-      "time": "2026-05-29 23:02:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普說即將開會就伊朗戰事作出最終決定】美國總統特朗普29日在社交媒體發文說，他即將在白宮戰情室開會，就伊朗戰事作出最終決定。（新華社）"
-    },
-    {
-      "id": "4907558",
-      "time": "2026-05-29 23:01:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4570美元/盎司，日內漲1.66%。"
-    },
-    {
-      "id": "4907557",
-      "time": "2026-05-29 23:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "全球基金於5月29日淨賣出價值2111億盧比的印度股票。"
-    },
-    {
-      "id": "mkt:019e7440-f66c-7eef-a0f1-de210e35f2e3",
-      "time": "2026-05-29 23:01:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "As of the 23:00 close, China's main futures contracts were mixed: plastics rose over 1%, while coke and coking coal gained about 1%. Soybean No.1 fell more than 2%; pulp, low-sulfur fuel oil (LU) and styrene (EB) dropped over 1%."
-    },
-    {
-      "id": "mkt:019e7440-bd93-7eef-a0f1-d6fed4cb94f8",
-      "time": "2026-05-29 23:00:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said no exchange of funds will take place until further notice."
     }
   ]
 }
