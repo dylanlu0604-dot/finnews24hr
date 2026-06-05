@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-05 10:19:16",
-  "count": 18964,
+  "updated": "2026-06-05 10:23:14",
+  "count": 18965,
   "items": [
+    {
+      "id": "4918521",
+      "time": "2026-06-05 10:21:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.05%，成分股中，戈碧迦漲14.31%，同惠電子漲11.97%，民士達漲8.94%，星圖測控漲8.70%。"
+    },
+    {
+      "id": "mkt:019e9595-7145-766c-9543-c7ad7727df17",
+      "time": "2026-06-05 10:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Israeli forces struck a tent shelter in Khan Younis, Gaza, killing one person."
+    },
+    {
+      "id": "mkt:019e9594-ec5b-766c-9543-ba5867c1f8d8",
+      "time": "2026-06-05 10:20:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Huawei Cloud unveils AICS Lingqu compute cluster, Agentic AI stack】At the 2026 Huawei Cloud INSPIRE Creators Conference, Huawei director and Huawei Cloud CEO Zhou Yuefeng announced four Agentic AI products: the AICS Lingqu intelligent compute cluster, AMS Agentic memory storage solution, CCE VolcanoNext integrated scheduling platform, and the AgentSphere runtime environment. AICS Lingqu is built on an ultra‑high‑bandwidth Lingqu network, supports up to 100,000‑card cluster scale with peak compute of 200 EFLOPS, reduces token‑generation latency to under 10 ms, delivers about 5 million tokens/sec per 1,000 cards, and offers online service availability of 99.95%."
+    },
+    {
+      "id": "4918520",
+      "time": "2026-06-05 10:19:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為雲釋出AICS靈衢智算叢集等Agentic AI新品】在2026華為雲INSPIRE創想者大會上，華為公司董事、華為雲CEO周躍峰釋出AICS靈衢智算叢集、AMS Agentic記憶儲存解決方案、CCE VolcanoNext通智一體化排程、及Agent執行環境AgentSphere四大新品。其中，AICS靈衢智算叢集基於超大頻寬靈衢網路，支援10萬卡級叢集規模，總算力高達200EFLOPS，並將Token生成時延降低到10毫秒以內，千卡每秒吞吐達到500萬Tokens，線上服務可用性高達99.95%，打造極致效率的Token工廠。"
+    },
+    {
+      "id": "4918519",
+      "time": "2026-06-05 10:19:45",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【SpaceX據悉將其IPO的日本融資目標提高至25億美元】SpaceX已將其在日本發行股票的計劃籌集金額增加了四分之一，這表明日本散戶投資者的需求強勁。據監管檔案披露，SpaceX目前正尋求從日本投資者那裡籌集至多25億美元的資金，高於上週披露的20 億美元。檔案顯示，日本投資者獲配1480萬至1850萬股A類股，初步定價為每股135美元。日本部分的認購登記將於本週五開始，持續至下週晚些時候。"
+    },
+    {
+      "id": "4918518",
+      "time": "2026-06-05 10:19:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光刻機概念延續強勢 新萊應材、南大光電雙雙漲超10%】光刻機概念延續昨日強勢，新萊應材、南大光電漲超10%，江化微、蘇大維格、晶瑞電材、亞威股份、上海新陽跟漲。"
+    },
     {
       "id": "mkt:019e9593-4327-766c-9543-b78212a09d24",
       "time": "2026-06-05 10:18:36",
@@ -174670,52 +174723,6 @@
         "國際"
       ],
       "text": "印尼盾兌美元匯率下跌約0.5%，至17,860的歷史新低。"
-    },
-    {
-      "id": "4905955",
-      "time": "2026-05-29 10:23:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2651億元。"
-    },
-    {
-      "id": "4905954",
-      "time": "2026-05-29 10:22:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英特爾擴產EMIB封裝產能 推進大規模材料、零部件、裝置採購訂單】英特爾正大規模投資先進半導體封裝，加速其晶圓代工業務復興。據28日業界訊息，英特爾目前正面向全球供應鏈合作伙伴推進大規模“材料、零部件、裝置”採購訂單，多項供應合同已簽訂完成。一位熟悉內情的業內人士表示，“目前先進封裝裝置投資規模達數萬億韓元。”此次投資重點聚焦於擴大“EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多晶片互連橋）”產能。英特爾目前還在推進EMIB技術升級，包括在橋接結構中引入矽通孔（TSV）技術的“EMIB-T”，以及融合玻璃基板的封裝方案等。 (ETNews)"
-    },
-    {
-      "id": "te:markets:554693",
-      "time": "2026-05-29 10:21:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Korean Won Remains Under Pressure — The South Korean won weakened to around 1,500 per dollar on Friday, reversing gains from the previous session. Investors continued to weigh South Korea’s slowing domestic economy and persistent capital outflows despite improving global risk sentiment tied to easing Middle East tensions. Market optimism strengthened after reports indicated that the United States and Iran were moving toward extending their ceasefire arrangement for 60 days while resuming negotiations over Tehran’s nuclear program. Oil prices also eased, with Brent crude falling about 0.4% to near $93 per barrel. At the same time, the US dollar weakened broadly against major developed-market currencies, while Treasury yields declined across the curve during the previous session. Markets also monitored the government’s new reshoring initiative aimed at encouraging overseas Korean firms to return home through broader incentives and more flexible subsidy support for strategic industries."
-    },
-    {
-      "id": "4905953",
-      "time": "2026-05-29 10:21:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲1%至6191.40點。"
-    },
-    {
-      "id": "4905952",
-      "time": "2026-05-29 10:20:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里速賣通與巴西郵政簽署MOU，加速本地物流網路建設】5月28日，阿里旗下跨境電商平臺速賣通AliExpress與巴西郵政正式簽署諒解備忘錄（MOU），在巴西市場展開更深度的戰略合作，包括偏遠地區配送拓展、末端配送能力提升、消費者體驗最佳化等。"
     }
   ]
 }
