@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-05 17:13:26",
-  "count": 18807,
+  "updated": "2026-06-05 17:17:23",
+  "count": 18803,
   "items": [
+    {
+      "id": "mkt:019e9712-17bc-7bb5-8c75-380849308b46",
+      "time": "2026-06-05 17:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council urges multiple channels to broaden funding for private equity and venture capital funds】The State Council General Office issued guidance to strengthen supervision, prevent risks and promote high‑quality development of private investment funds. It directs expanding funding channels for private equity and venture capital, cultivating patient capital and deepening its integration with technological innovation, and further smoothing diversified exit channels. The guidance instructs priority support in registration and filing for PE and VC funds that invest early, invest small, invest long and target hard‑tech, and for M&A funds consolidating key core technologies and strategic emerging industries. It requires better implementation of laws and policies for differentiated regulation of VC funds and the strengthening of leading VC institutions. The State Council’s securities regulator and the National Development and Reform Commission will further optimise venture‑fund information sharing."
+    },
+    {
+      "id": "4919285",
+      "time": "2026-06-05 17:16:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬矽產業：股東國家大基金5月6日至6月4日累計減持3%股份 減持計劃已實施完畢】滬矽產業(688126.SH)公告稱，公司股東國家積體電路產業投資基金股份有限公司於2026年5月6日至6月4日期間，透過集中競價和大宗交易方式累計減持公司股份9915.07萬股，佔公司總股本的3%，減持總金額約26.26億元。減持計劃已實施完畢，當前持股比例為12.49%。"
+    },
+    {
+      "id": "4919283",
+      "time": "2026-06-05 17:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗已通知巴基斯坦，伊方接受將其部分鈾庫存轉移至一個經其同意的第三國。"
+    },
+    {
+      "id": "mkt:019e9710-8e00-7bb5-8c75-3636fff3b35e",
+      "time": "2026-06-05 17:15:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say Iran has informed Pakistan it accepts transferring part of its uranium stockpile to a third country approved by Iran."
+    },
+    {
+      "id": "mkt:019e970f-faeb-7bb5-8c75-289309d0008f",
+      "time": "2026-06-05 17:14:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude fell nearly $1 intraday; WTI at $93.59/bbl, Brent at $93.36/bbl."
+    },
+    {
+      "id": "4919282",
+      "time": "2026-06-05 17:14:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國辦：引導私募證券基金為中長期資金最佳化資產配置提供多元化支援】國務院辦公廳釋出關於加強監管防範風險促進私募投資基金高質量發展的指導意見。意見指出，引導私募證券基金為中長期資金最佳化資產配置提供多元化支援。培育母基金等機構投資者。豐富投資策略和產品型別，滿足居民在財富管理、資產配置等方面的需求。引導私募證券基金管理人提升治理水平和風險防控能力。"
+    },
+    {
+      "id": "mkt:019e970f-db5f-7bb5-8c75-267769fafe92",
+      "time": "2026-06-05 17:14:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【CSRC to draw up three-year action plan to implement Guiding Opinions on private funds】A CSRC spokesperson said the General Office of the State Council’s Guiding Opinions on strengthening supervision to prevent risks and promote high-quality development of private investment funds is the directional, foundational document in the sector’s 1+N+X framework. The CSRC will implement Central and State Council decisions, draft and execute a three-year action plan to put the Guiding Opinions into effect, and coordinate with macro policy bodies, state-asset and industry supervisors, financial regulators, public security and local governments to tighten responsibilities and ensure measures are implemented."
+    },
+    {
+      "id": "4919281",
+      "time": "2026-06-05 17:14:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會：下一步將制定落實《指導意見》的三年行動方案】中國證監會新聞發言人就《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》答記者問。《指導意見》是私募基金領域“1+N+X”制度體系中的方向性、基礎性檔案。下一步，中國證監會將堅決貫徹黨中央、國務院決策部署，制定落實《指導意見》的三年行動方案，並積極會同宏觀政策部門、國資及行業主管部門、金融管理部門、公安機關、地方政府等，進一步增強責任意識，密切協作形成合力，推動各項任務、工作落地見效。"
+    },
+    {
+      "id": "te:economy:556859",
+      "time": "2026-06-05 17:13:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Eurozone Economy Contracts 0.2% in Q1 2026 — The Eurozone economy shrank by 0.2% in the first quarter of 2026, revised down from an initially reported 0.1% growth, according to final EUROSTAT data. This marks the first contraction since Q4 2022 and the sharpest decline since mid-2020, driven by a significant downward revision to Ireland’s GDP, which plummeted 12.1% in Q1, and a smaller contraction in France (-0.1%). Among major Eurozone economies, Spain led with 0.6% growth, while Germany and Italy each expanded by 0.3%, and the Netherlands grew by 0.1%. The weak performance reflects pressures from tight energy supplies, rising inflation tied to the Middle East conflict, and the European Central Bank’s preparations for monetary tightening. On the expenditure side, net trade and inventory changes subtracted 0.3 and 0.1 percentage points from GDP, respectively, while fixed investment fell by 0.3%. Household consumption and government spending also slowed, growing by just 0.2% and 0.5%."
+    },
+    {
+      "id": "4919280",
+      "time": "2026-06-05 17:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈新發展：企業級DRAM儲存產品已實現量產和批次交付】盈新發展(000620.SZ)釋出投資者關係活動記錄表公告，公司企業級DRAM儲存產品主要應用於伺服器和資料中心，已實現量產和批次交付。公司企業級業務正處於加速擴張階段，考慮到雲服務廠商對供應商的技術實力、產品可靠性、交付能力、服務質量等要求極高，且測試認證週期較長，具體情況請以公司資訊披露為準。長興半導體聚焦於半導體儲存應用產品的全鏈條能力建設，同時具備晶片設計（隨身碟）、韌體演算法開發、封裝測試、模組製造的全棧能力，為市場提供消費級、工規級儲存晶片以及行業儲存軟硬體應用解決方案。"
+    },
+    {
+      "id": "4919279",
+      "time": "2026-06-05 17:13:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小鵬回應山東車輛起火】6月5日，小鵬闢謠發文：網傳山東平度小鵬汽車起火相關報道，我司第一時間排查分析事發地車輛資料，未發現車輛熱失控相關資訊。"
+    },
+    {
+      "id": "4919278",
+      "time": "2026-06-05 17:13:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬孚生物職工代表董事康可人辭職】6月5日，萬孚生物釋出公告稱，康可人因個人原因申請辭去公司職工代表董事職務，辭職後不再擔任公司任何職務。康可人原定職工代表董事任期為2025年12月29日至2027年6月13日。"
+    },
+    {
+      "id": "4919277",
+      "time": "2026-06-05 17:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳涉宅用地樓面單價紀錄被重新整理 保利置業57.72億摘取南山粵海街道地塊】深圳誕生了新“地王”。深圳今日出讓一宗位於南山區粵海街道的地塊，該地塊為二類居住用地，土地面積14116平方米，容積率3.76，起始價23.02億元。6家房企經過300輪競價，該地塊最終被保利置業以57.72億元的價格競得，成交樓面價108680元/平方米，溢價率達150.74%。據中指院資料，該成交價重新整理深圳涉宅用地樓面價紀錄。"
+    },
+    {
+      "id": "te:markets:556858",
+      "time": "2026-06-05 17:13:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in France Hit 4-week High — FR40 increased to 8287.00 Index Points, the highest since May 2026. Over the past 4 weeks, France Stock Market Index (FR40) lost 0.37%, and in the last 12 months, it increased 5.94%."
+    },
+    {
+      "id": "4919276",
+      "time": "2026-06-05 17:13:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會：當前我國私募基金行業還存在一些問題 部分國資基金偏離功能定位】中國證監會新聞發言人就《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》答。本次出臺《指導意見》的背景：受多方面因素影響，當前我國私募基金行業還存在一些問題，制約了私募基金更好發揮作用。行業大而不強，募資結構失衡，部分國資基金偏離功能定位，募投管退各環節均有短板。一些行業機構質量不高，個別甚至成為違法犯罪工具。行業風險仍時有發生，並與其他領域交叉傳導。這些問題的產生，一方面是因為私募基金行業在我國發展時間較短，各方認識、監管理念仍處於不斷調整、適應的過程中；另一方面也有法律法規體系不健全、監管手段和力度不足、部際央地監管協作不夠順暢、市場化約束機制未有效發揮作用等原因。經過較長時間的探索，頂層設計方向日益清晰。"
+    },
+    {
+      "id": "4919275",
+      "time": "2026-06-05 17:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證監會：加強私募基金監管有利於及時清除害群之馬，避免劣幣驅逐良幣】中國證監會高度重視私募基金監管工作，持續加大對私募違法違規行為的打擊力度，2023年至2026年一季度，對1805傢俬募基金管理人及相關主體採取行政監管措施，對97傢俬募基金管理人及相關主體進行行政處罰，將86條涉嫌犯罪線索移送公安機關；中國證券投資基金業協會共登出5444傢俬募基金管理人登記。加強監管和防範風險並不是目的，而是手段，最終還是為了推動行業高質量發展。加強私募基金監管有利於及時清除害群之馬，避免劣幣驅逐良幣，為私募基金行業規範發展創造良好的環境；也有利於督促私募基金管理人充分履行信義義務，保護投資者合法權益，維護投資者信心，為私募基金行業長期規範發展奠定基礎。"
+    },
     {
       "id": "mkt:019e970e-2d67-7bb5-8c75-1e94b2d880b9",
       "time": "2026-06-05 17:12:29",
@@ -173088,195 +173232,6 @@
         "其他"
       ],
       "text": "英國央行行長貝利：能夠容忍通脹暫時高於目標。"
-    },
-    {
-      "id": "4906804",
-      "time": "2026-05-29 17:17:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百度上線AI應用開發產品“秒噠APP” iOS版】百度的AI應用開發產品“秒噠APP”iOS版本於5月27日正式上線。這是秒噠系統進化至3.0版本後，除PC端與安卓版本APP外的另一個新入口，進一步拓寬了使用場景。（Tech星球）"
-    },
-    {
-      "id": "mkt:019e7305-cfed-7dd6-96ca-b15746c4522d",
-      "time": "2026-05-29 17:17:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold jumped nearly $20 intraday to $4,530/oz, up 0.76% on the day."
-    },
-    {
-      "id": "4906803",
-      "time": "2026-05-29 17:16:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：剛果民主共和國已報告906例埃博拉疑似病例，其中包括223例正在調查的疑似死亡病例。"
-    },
-    {
-      "id": "4906802",
-      "time": "2026-05-29 17:16:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST金花：股票被實施其他風險警示 已採取多項整改措施】ST金花公告稱，因2025年度財務報告內部控制審計被出具否定意見，公司股票於2026年4月30日起被實施其他風險警示。公司已採取多項整改措施，包括歸還涉及款項及資金佔用費、更正會計差錯、開展專項培訓、強化監管職能、完善內控流程等。若連續2個會計年度的財務報告內部控制被出具否定意見，公司股票將被實施退市風險警示，提醒投資者注意風險。"
-    },
-    {
-      "id": "mkt:019e7305-4360-7aa0-9e10-e8cad30b69a4",
-      "time": "2026-05-29 17:16:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHO says the Democratic Republic of the Congo has reported 906 suspected Ebola cases, including 223 suspected deaths currently under investigation."
-    },
-    {
-      "id": "te:economy:554905",
-      "time": "2026-05-29 17:16:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Iceland Economy Returns to Growth in Q1 — Iceland’s economy expanded 2.7% year-on-year in the first quarter of 2026, rebounding from a 0.6% contraction in the previous quarter. Net trade contributed positively to GDP, with exports rising 1% after a 5% decline, as services growth accelerated (6.9% vs 4.3%) and goods exports declined at a slower pace (-3.9% vs -13.3%). Meanwhile, imports fell further by 8% following a 4.2% decline. At the same time, gross capital formation contracted less sharply (-12% vs -12.5%), while changes in inventories rose 1.1% after stagnating in Q4 2025. In contrast, government spending growth eased to 0.8% from 1.1%, while consumer spending slowed to 2.2% from 5.5%. On a seasonally adjusted quarterly basis, GDP jumped 3.7%, recovering from a 0.8% contraction in the preceding period."
-    },
-    {
-      "id": "4906801",
-      "time": "2026-05-29 17:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國一移民拘留中心被指“條件惡劣” 抗議者與警方激烈對峙】近日，美國新澤西州一處移民與海關執法局拘留中心附近，抗議者與警方爆發激烈衝突。數月來，該拘留中心屢次被曝“非人道”對待被拘者，包括提供腐爛變質的食物、醫療服務嚴重匱乏等。（新華社）"
-    },
-    {
-      "id": "mkt:019e7304-f290-7aa0-9e10-e606577d6603",
-      "time": "2026-05-29 17:16:04",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said economic activity and labour market conditions are influencing second-round effects."
-    },
-    {
-      "id": "4906800",
-      "time": "2026-05-29 17:15:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濟南市委原常委孫斌嚴重違紀違法被開除黨籍和公職】山東省紀委監委29日通報，經山東省委批准，山東省紀委監委對濟南市委原常委，濟南高新技術產業開發區黨工委原書記、管委會原主任孫斌嚴重違紀違法問題進行了立案審查調查。 經查，孫斌喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，違規收受消費卡，接受可能影響公正執行公務的宴請；違背組織原則，隱瞞不報個人有關事項，在幹部選拔任用工作中違規為他人謀取利益；違反廉潔紀律，向管理和服務物件放貸獲取大額回報；違規干預和插手市場經濟活動；將黨和人民賦予的公權力異化為謀取私利的工具，大肆收錢斂財，利用職務便利為他人在工程專案承攬、企業經營等方面謀利，並非法收受鉅額財物。 孫斌嚴重違反黨的政治紀律、組織紀律、廉潔紀律和工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予孫斌開除黨籍處分；由山東省監委給予其開除公職處分；終止其濟南市第十二次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。（新華社）"
-    },
-    {
-      "id": "4906799",
-      "time": "2026-05-29 17:14:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貝利：維持利率不變是主動決策。"
-    },
-    {
-      "id": "mkt:019e7303-985c-7dd6-96ca-afa02102216a",
-      "time": "2026-05-29 17:14:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of England Governor Bailey said the decision to hold interest rates unchanged was an 'active choice'."
-    },
-    {
-      "id": "4906798",
-      "time": "2026-05-29 17:14:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【京東方A跌停，三機構淨買入3.83億元，深股通淨買入1.59億元】京東方A今日跌停，換手率9.98%，成交額191.36億元。龍虎榜資料顯示，深股通買入8.2億元，賣出6.61億元，淨買入1.59億元；三家機構買入9.9億元，賣出6.08億元，淨買入3.83億元；遊資“溫州幫”位列賣五席位，淨賣出1.12億元。上榜席位全天買入22.1億元，賣出18.1億元，合計淨買入4億元。"
-    },
-    {
-      "id": "4906797",
-      "time": "2026-05-29 17:14:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貝利：經濟活動與勞動力市場抑制第二輪通脹效應。"
-    },
-    {
-      "id": "mkt:019e7303-51e0-7dd6-96ca-a153c0ac988e",
-      "time": "2026-05-29 17:14:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Bank of England Governor Bailey said the Bank can tolerate inflation temporarily above target."
-    },
-    {
-      "id": "4906796",
-      "time": "2026-05-29 17:13:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4530美元/盎司，日內漲0.77%。"
-    },
-    {
-      "id": "4906795",
-      "time": "2026-05-29 17:13:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通在中國平安H股的持股比例於5月26日從7.86%升至8.30%】香港交易所資訊顯示，摩根大通在中國平安H股的持股比例於5月26日從7.86%升至8.30%，購買的平均股價為60.7562港元。"
-    },
-    {
-      "id": "4906794",
-      "time": "2026-05-29 17:13:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4560美元/盎司，日內漲0.63%。"
-    },
-    {
-      "id": "mkt:019e7302-dbf6-7dd6-96ca-9f5cbc722a83",
-      "time": "2026-05-29 17:13:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Russian Defence Ministry said Russian forces captured two settlements in Ukraine's Kharkiv region and two in Dnipropetrovsk region."
-    },
-    {
-      "id": "4906793",
-      "time": "2026-05-29 17:13:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿斯麥美股盤前漲超2%】阿斯麥美股盤前漲超2%，現報1638.08美元。"
-    },
-    {
-      "id": "4906792",
-      "time": "2026-05-29 17:13:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，俄軍在烏克蘭哈爾科夫地區攻佔兩處定居點，在第聶伯羅彼得羅夫斯克州攻佔兩處定居點。"
     }
   ]
 }
