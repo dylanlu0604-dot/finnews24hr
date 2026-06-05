@@ -1,7 +1,310 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-05 07:38:17_
-_本檔包含 3568 則快訊，約 715781 字_
+_更新時間：2026-06-05 08:08:20_
+_本檔包含 3552 則快訊，約 715492 字_
+
+---
+
+### 2026-05-30 15:23:15  #國際
+
+尚比亞稱兩例疑似埃博拉病例檢測結果均為陰性，目前已加強篩查工作。
+
+---
+
+### 2026-05-30 15:18:09  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+【CITIC Securities: Firmly bullish on Tesla robot and supply‑chain firms】CITIC Securities says WIPO has published a new batch of Tesla robot patents and identifies a dexterous hand as a recent core upgrade. With appearance and patent details disclosed, the firm judges the V3 design close to finalization and views Tesla as approaching volume production. It cites Tesla’s combination of large‑model AI capabilities and scale manufacturing and is firmly bullish on the Tesla robot and its supply‑chain firms.
+
+---
+
+### 2026-05-30 15:18:05  #國際
+
+以色列空襲黎巴嫩南部納巴蒂耶。
+
+---
+
+### 2026-05-30 15:14:37  #公司
+
+【機器人即將承包你的飛機餐，希夕智慧CEO：1-2個月內就能吃到，配餐準確率99.99%】近日，上海希夕智慧科技有限責任公司宣佈成立合資公司希暘九曜，以航食場景為切入點，推動食品類具身方案在航空產業中的應用落地。據悉，該方案已在國內頭部航司場景推進落地，另有多家國際航司正開展合作對接。希夕智慧聯合創始人及CEO毛梁表示，未來1-2個月內公眾將見到由機器人配製的餐食。毛梁向記者介紹，目前機器人配餐的整體效率已經遠超人工，配餐準確率可以達到99.99%。（澎湃新聞）
+
+---
+
+### 2026-05-30 15:13:31  #其他
+
+【總投資10億元，錦瑞汽車智慧裝備製造總部基地專案落地合肥】5月29日，錦瑞汽車智慧裝備製造總部基地專案簽約儀式在合肥市肥西縣舉行。該專案總投資10億元，佔地面積約140畝，計劃建設模具車間、智慧裝配車間、熱管理系統部件生產車間、精密注塑車間以及實驗中心。
+
+---
+
+### 2026-05-30 15:12:24  #公司
+
+【廣汽資本完成對領偉創新投資】廣汽資本5月30日宣佈，已完成對領偉創新智慧系統（浙江）有限公司（下稱領偉創新）的投資。據介紹，領偉創新已進入廣汽集團核心供應鏈，為廣汽埃安、廣汽昊鉑核心車型配套非晶定子鐵芯。
+
+---
+
+### 2026-05-30 15:11:57  #市場 #國際 #原創
+
+【印度財政部稱零售通脹或加速攀升，受季風降水不足及燃料價格上漲影響】印度財政部週六釋出報告稱，受近期燃油漲價、季風降雨不及往年充沛影響，加上中東衝突持續導致能源供應受阻，印度零售通脹可能上升。報告稱，霍爾木茲海峽中斷的持續時間仍然是影響印度外部經濟和物價前景的“最關鍵因素”。上游價格壓力急劇上升，加上近期燃油價格上漲，意味著未來幾個月，運輸、能源和食品相關成本的上漲將逐步傳導至零售通脹。報告指出，降雨量嚴重不足加上當前的地緣政治局勢，可能導致食品價格上漲，進而削弱農村需求和整體經濟增長。
+
+---
+
+### 2026-05-30 15:10:22  #公司 #國際
+
+美國國家公路交通安全管理局（NHTSA）：日產北美公司正在召回51598輛汽車，車輛顯示屏會出現區域性黑屏或完全黑屏的情況，無法顯示車速、警示燈等關鍵安全資訊，會提升碰撞事故風險。
+
+---
+
+### 2026-05-30 15:03:52  #公司 #國際
+
+【美國石油巨頭稱今夏油價大機率走高】在投資機構伯恩斯坦公司舉辦的會議上，美國石油巨頭雪佛龍公司執行長邁克·沃思稱，受伊朗局勢影響，全球原油庫存不斷下降，未來兩個月油價大機率走高。英國《金融時報》報道說，沃思的發言折射出普遍憂慮：即便衝突各方敲定停戰協議，戰事對能源價格的負面影響仍會持續數月。此外，據美國有線電視新聞網28日報道，受中東地緣衝突持續影響，美國戰略石油儲備正以近年來罕見速度下降，商業原油庫存也處於低位。 (央視財經)
+
+---
+
+### 2026-05-30 15:02:20  #MKT News
+
+【One month after Shenzhen property tweak, new and resale home sales rise 33% YoY】Shenzhen’s property-policy package marked one month. On April 29 the city eased purchase limits by district and raised housing provident fund loan caps. Industry watchers say May normally cools after a March–April spring uptick, but Shenzhen diverged this year. Beike Research Institute monitoring through May 27 shows May new-home residential transactions at 3,970 units (+51% YoY), resale transactions at 5,006 units (+21% YoY) and combined residential transactions at 8,976 units (+33% YoY).
+
+---
+
+### 2026-05-30 15:01:21  #其他
+
+【武漢公積金髮布最新通知 靈活就業貸款看齊單位職工】“武漢公積金”微信公眾號5月29日釋出最新通知，靈活就業人員住房公積金繳存使用政策迎來全面最佳化升級。此次調整大幅提升靈活就業人員的貸款權益。貸款額度計算公式中的倍數由10倍調整為20倍，繳存係數與單位職工公積金政策實現統一；允許使用公積金貸款購買家庭第二套住房，並參照單位職工政策申請商轉公貸款。貸款基本條件從“按協議繳存（留存）滿12個月”最佳化為“貸款申請日距有效協議簽訂後首次繳存的時間間隔不少於12個月”，進一步降低貸款門檻。
+
+---
+
+### 2026-05-30 14:58:23  #其他
+
+【生物製造迎來“超級風口” 合成生物學大科學裝置重大突破】在深圳光明科學城，全球首個合成生物學重大科技基礎設施已正式對全球開放使用。這座投資7.22億元的合成生物學設施，徹底顛覆了生命科學傳統的勞動密集型研究模式，把實驗效率直接提升10倍！中國科學院深圳先進技術研究院院長、定量合成生物學全國重點實驗室主任劉陳立在《對話》中表示，原來需要一年完成的研究，現在一個月就能出結果。更震撼的是，這裡一個功能島就能替代幾十個博士後的研發工作量。初創企業再也不用投入巨資買裝置、建實驗室、招團隊，只要“拎腦入駐”，帶著想法和資金租用功能島，就能開啟生物技術創業，催生了生物科技產業的全新模態。 (央視財經)
+
+---
+
+### 2026-05-30 14:58:01  #國際
+
+【國際組織警告：中東戰事若持續 今夏或現能源短缺】國際能源署、國際貨幣基金組織、世界銀行和世界貿易組織29日警告，如果霍爾木茲海峽航運不能恢復正常，全球能源儲備快速消耗，在夏季用能高峰期將面臨能源短缺的風險。（新華社）
+
+---
+
+### 2026-05-30 14:54:48  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
+
+【Suzhou Jan-Apr 2026 economic update】Jan-Apr: industrial value-added at enterprises above designated size rose 9.8% YoY. Total industrial output of those firms was RMB 1.613 trillion, up 7.3% YoY. Of 34 industrial categories, 27 expanded (79.4% breadth); 16 posted >8% growth, indicating continued upgrading of manufacturing. Output of high-tech firms above designated size was RMB 916.5 billion, +11.7% YoY; aerospace manufacturing +23.1%, electronic and communications equipment +20.0%, pharmaceutical manufacturing +12.1%, instrument manufacturing +14.6%. Production of emerging electronic and new-energy products accelerated: smartphones +8.5% YoY, integrated circuits +18.1%, optoelectronic devices +18.2%, lithium-ion batteries +46.3%.
+
+---
+
+### 2026-05-30 14:54:15  #其他
+
+【深圳樓市新政滿月 一二手房成交同比增33%】深圳樓市新政滿月。4月29日，深圳釋出樓市最佳化新政，核心措施包括分割槽鬆綁限購、提高公積金貸款額度等。在業內人士看來，3月、4月樓市“小陽春”後，5月市場交易通常會慣性回落，但深圳樓市今年的情況有所不同。據深圳貝殼研究院監測，截至5月27日，今年5月深圳新房住宅成交量為3970套，較去年同期增長51%；二手房住宅成交量達到5006套，同比增長21%；一二手住宅合計成交8976套，同比增長33%。
+
+---
+
+### 2026-05-30 14:46:24  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli forces issued evacuation warnings to residents of four towns in southern Lebanon and the Bekaa Valley.
+
+---
+
+### 2026-05-30 14:44:17  #其他
+
+【蘇州：1—4月規模以上工業增加值同比增長9.8%】蘇州市統計局釋出資料，1—4月，蘇州市規模以上工業增加值同比增長9.8%。規模以上工業總產值16126.5億元，同比增長7.3%。34個工業行業大類中，有27個行業產值同比增長，行業增長面達79.4%，其中16個行業產值增速超8%。製造業高階化持續推進。規模以上高新技術產業產值9164.6億元，同比增長11.7%，其中航空航天製造業、電子及通訊裝置製造業、醫藥製造業、儀器儀表製造業產值分別增長23.1%、20.0%、12.1%和14.6%。新興電子產品、新能源產品產量快速增長。智慧手機、積體電路、光電子器件、鋰離子電池產品產量同比分別增長8.5%、18.1%、18.2%和46.3%。
+
+---
+
+### 2026-05-30 14:44:06  #經濟數據 #中國
+
+【蘇州：1—4月規模以上工業增加值同比增長9.8%】蘇州市統計局釋出資料，1—4月，蘇州市規模以上工業增加值同比增長9.8%。規模以上工業總產值16126.5億元，同比增長7.3%。34個工業行業大類中，有27個行業產值同比增長，行業增長面達79.4%，其中16個行業產值增速超8%。製造業高階化持續推進。
+
+---
+
+### 2026-05-30 14:41:24  #國際
+
+印度：財政和貨幣政策應對措施需要靈活。
+
+---
+
+### 2026-05-30 14:35:15  #其他
+
+【青海省黃南州人民政府原黨組成員、副州長尼瑪才仁被雙開】據青海省紀委監委訊息：經中共青海省委批准，青海省紀委監委對黃南州人民政府原黨組成員、副州長尼瑪才仁嚴重違紀違法問題進行了立案審查調查。
+
+---
+
+### 2026-05-30 14:32:02  #國際
+
+【俄外交部稱已召回駐亞美尼亞大使】當地時間5月30日，俄羅斯外交部發布訊息稱，因亞美尼亞領導層加速與歐盟靠攏，俄方已召回駐亞美尼亞大使返回莫斯科進行磋商。（央視新聞）
+
+---
+
+### 2026-05-30 14:31:50  #其他
+
+【倍杰特小洞銻礦專案建設用地獲省級批覆】近日，倍杰特旗下大豪礦業西疇縣小洞銻礦採選工程專案用地，順利取得雲南省自然資源廳農用地轉用及建設用地批覆，標誌著該專案合法合規落地取得關鍵性突破，為全面開工建設奠定堅實基礎。小洞銻礦保有銻金屬量約3.49萬噸，平均品位3.13%。專案建成投產後，預計年產出銻金屬3000噸，將顯著提升區域銻資源供給能力，補強國內戰略性礦產資源儲備。
+
+---
+
+### 2026-05-30 14:30:21  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Bloomberg, citing a person familiar with the matter, reports Iran's ballistic missile strike on a Kuwaiti airbase lightly injured several U.S. citizens and severely damaged two U.S. MQ-9 Reaper drones.
+
+---
+
+### 2026-05-30 14:30:20  #MKT News
+
+【Iran prepares grand funeral for slain former supreme leader Ali Khamenei】AFP reported May 29 that Iranian state media said authorities are preparing a "grand" funeral for the country’s slain former supreme leader Ali Khamenei. The burial had been long delayed amid Iran’s war with the US and Israel; timing remains uncertain. Iran’s state TV, citing Islamic Propaganda Coordination Council head Mohsen Mahammadi, said a special headquarters has been set up and government departments are making arrangements. Khamenei, who led Iran for more than 30 years, was killed in the first wave of US‑Israeli strikes that began Feb. 28. His son and successor, Mujtaba Khamenei, was wounded in the attack and has not appeared publicly since taking office.
+
+---
+
+### 2026-05-30 14:28:11  #國際
+
+【伊朗準備為阿里·哈梅內伊舉行盛大葬禮】據法新社5月29日報道，伊朗官方媒體29日報道稱，伊朗當局正在為該國被殺害的前最高領袖阿里·哈梅內伊籌備一場“盛大”的葬禮。此前，由於伊朗同美國和以色列的戰爭，該葬禮被長期推遲。儘管具體時間尚不確定，但伊朗國家電視臺援引伊斯蘭宣傳協調委員會負責人穆赫辛·馬哈茂迪的話報道說，“已成立專門總部為葬禮做準備，各部門目前正在籌備和安排”。領導伊朗30多年之久的阿里·哈梅內伊，在2月28日開始的第一波美以襲擊中遇害。他的兒子兼繼任者穆傑塔巴·哈梅內伊在襲擊中也受了傷，自上任以來未曾公開露面。 (參考訊息)
+
+---
+
+### 2026-05-30 14:25:40  #公司
+
+【東方電氣集團與中國稀土集團舉行會談】據東方電氣集團訊息，5月30日，中國稀土集團黨委副書記、董事、總經理李志輝率隊訪問東方電氣集團，東方電氣集團黨組書記、董事長羅乾宜接待李志輝一行，雙方圍繞服務國家戰略、推動產業協同與科技創新進行深入交流。羅乾宜表示，中國稀土集團是國家戰略資源保障的核心力量，雙方在材料領域合作基礎良好、前景廣闊，希望在新材料開發、前沿技術聯合攻關等方面加強戰略協同，更好服務保障國家能源安全和戰略資源安全。
+
+---
+
+### 2026-05-30 14:24:59  #國際
+
+印度：通脹前景需保持警惕。
+
+---
+
+### 2026-05-30 14:24:51  #國際
+
+印度：近期經濟前景謹慎樂觀。
+
+---
+
+### 2026-05-30 14:24:41  #國際
+
+印度：生態活動放緩或將對需求構成阻力。
+
+---
+
+### 2026-05-30 14:24:27  #國際
+
+印度經濟分析報告：需求狀況持續保持韌性。
+
+---
+
+### 2026-05-30 14:22:55  #MKT News
+
+【A Letter to Grandma box office exceeds 1.3 bln yuan】Lighthouse Professional real-time data shows the film A Letter to Grandma surpassed 1.3 billion yuan in box office as of May 30, 14:12.
+
+---
+
+### 2026-05-30 14:18:16  #國際
+
+【聯合國：黎巴嫩南部關鍵援助通道因衝突受阻】聯合國秘書長古特雷斯的發言人迪雅裡克29日表示，聯合國駐黎巴嫩臨時部隊（聯黎部隊）觀察到以色列國防軍在聯黎部隊的行動區內繼續展開密集的空中和地面活動，其中還包括在利塔尼河以北的活動。迪雅裡克表示，聯合國人道主義事務協調廳報告稱，目前，黎巴嫩部分地區的人道主義准入和應急響應能力嚴重受限。在黎南部的奈拜提耶，襲擊據稱影響了一條關鍵道路，這條道路是醫療轉運、援助人員通行以及獲取基本物資和服務的關鍵通道。（央視新聞）
+
+---
+
+### 2026-05-30 14:17:27  #國際
+
+【美防長喊話盟友：多造軍艦】美國防長“香會”現場喊話盟友：少辦“香會” ，多造軍艦，我們可不允許你們搭便車。會場一片沉默。（中新網）
+
+---
+
+### 2026-05-30 14:15:08  #公司 #其他
+
+馬斯克：Grok Build進展神速。（注：GrokBuild是馬斯克旗下xAI於2026年5月推出的終端AI程式設計智慧體，主打“一句話自主交付整個專案”，直接對標Claude Code與OpenAI Codex）
+
+---
+
+### 2026-05-30 14:14:00  #其他
+
+據燈塔專業版，截至5月30日，大麥娛樂出品的影片《給阿嬤的情書》票房突破13億。
+
+---
+
+### 2026-05-30 14:13:38  #公司 #市場 #國際
+
+【超導磁體測試設施投入執行 高增長潛力概念股出爐】據新華社訊息，位於法國南部的國際熱核聚變實驗堆（ITER）組織5月28日宣佈，其超導磁體低溫測試設施已投入執行。據介紹，ITER的磁體系統將是世界上規模最大、整合度最高的磁體系統。ITER是由歐盟、中國、俄羅斯、美國等方共同參與建造的“人造太陽”裝置，該專案旨在模擬太陽發光發熱的核聚變過程，探索受控核聚變技術商業化可行性。據證券時報·資料寶統計，目前有50餘家上市公司佈局可控核聚變產業。估值水平來看，截至5月29日收盤，滾動市盈率低於30倍的可控核聚變概念股有11只。其中4股滾動市盈率低於20倍，分別是久立特材、海陸重工、中泰股份、浙富控股。未來增長潛力方面，可控核聚變概念股中，根據5家以上機構一致預測，今明兩年淨利潤增速均有望超20%的有11只。以最新收盤價與年內高點相比，這11只概念股中，6股回撤幅度超20%，分別是中泰股份、斯瑞新材、杭氧股份、應流股份、許繼電氣、東方電氣。
+
+---
+
+### 2026-05-30 14:11:46  #市場 #國際
+
+【印度國家證券交易所將延長股票衍生品交易收盤時間】印度國家證券交易所宣佈，自8月3日起，在現貨股票收盤競價機制落地後，股票衍生品常規交易收盤時間延後10分鐘，調整至15:40。該交易所週五在官網釋出通告稱，所有交易日的現貨股票收盤競價時段為15:15至15:35。此項競價機制初期僅覆蓋有衍生品合約對應的個股。股票衍生品常規交易將於15:40收盤，交易修改操作可延續至16:15。補充說明：印度現貨股票交易時段仍為9:15至15:30。交易所表示，衍生品收盤價計算規則保持不變，依舊採用15:10至15:40期間的成交量加權平均價。
+
+---
+
+### 2026-05-30 14:09:29  #國際
+
+【黎總統呼籲各方盡最大努力達成停火】根據黎巴嫩總統府5月29日釋出的訊息，黎巴嫩總統奧恩與美國國務卿魯比奧通電話，雙方就黎巴嫩以及周邊地區局勢進行討論。奧恩在通話中強調了停火的必要性，並呼籲各方盡最大努力達成停火。奧恩指出，停火是開展下一步行動的必要前提，也是為解決各項懸而未決問題創造條件的必要步驟。當前，以色列與黎巴嫩真主黨自4月中旬開始的停火已經名存實亡。以軍持續以真主黨違反停火協議為由對黎巴嫩多地發動襲擊。（CCTV國際時訊）
+
+---
+
+### 2026-05-30 14:08:28  #其他
+
+【委文化部副部長：希望繼續發展同中國的友誼】委內瑞拉文化部副部長米凱亞斯·菲格羅亞29日表示，希望繼續發展同中國的友誼。 菲格羅亞當天在委首都加拉加斯舉行的第二屆“目光交匯 中拉（委）相牽”短影片大賽啟動儀式上說，這正是委中友好、交流互鑑的體現，旨在長久維護雙邊關係。（新華社）
+
+---
+
+### 2026-05-30 14:05:51  #其他
+
+【官方通報D1804次列車受電弓遭異物擊打臨時停車】據@桂林火車站 ，5月30日9時19分，因貴廣客專鐘山西至恭城間，列車受電弓受異物擊打，導致裝置故障，D1804次列車臨時停車，部分途經該區段的列車晚點執行。鐵路部門第一時間啟動應急預案，及時開啟臨停列車車門通風，備用列車預計11時30分左右趕至故障地點進行轉運。由此給您帶來不便，鐵路部門深表歉意。
+
+---
+
+### 2026-05-30 14:05:19  #公司
+
+【豐田回應將中止雷克薩斯下一代純電轎車開發】近日有訊息稱，豐田將中止高檔車品牌“雷克薩斯”純電動轎車“LF-ZC”的量產車型開發。豐田方面回應稱，該資訊屬實，本次車型開發中止的原因是“考慮到市場需求的變化，對公司整體車輛開發專案進行調整的一部分”。豐田還強調，公司只是調整了部分車輛的開發規劃，並不代表放棄BEV（純電動汽車）。（第一財經）
+
+---
+
+### 2026-05-30 14:02:50  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japan Defence Ministry machinery orders hit ¥2.69 tln in FY25; triple over five years】Japan Cabinet Office data show the Japan Defence Ministry’s machinery manufacturing orders reached ¥2.69 tln in FY25, about three times the level five years earlier and nearly half of government public-demand orders for FY25 (¥5.53 tln). The increase was driven by higher orders for surface-to-air missiles and aircraft.
+
+---
+
+### 2026-05-30 14:00:20  #國際
+
+【今日特朗普要聞】
+1、美伊談判博弈持續僵持，特朗普稱將對相關諒解備忘錄作出最終決定，但暫無落地結果。伊朗方面駁斥美方相關言論真假參半，否認達成協議並重申對霍爾木茲海峽的管控權。
+2、特朗普表態伊朗必須永久放棄研發、擁有核武器及核彈，同時要求伊朗全面開放霍爾木茲海峽、清除海峽內所有爆炸裝置。特朗普稱美方已銷燬大量海峽水雷，海上封鎖正式解除。
+3、白宮兩小時戰情室會議落幕，白宮表示特朗普僅會簽署符合美國利益、不觸碰美方底線的協議，堅決禁止伊朗擁有核武器。
+4、特朗普政府將對美貿易法院的關稅退稅裁決提起上訴，質疑涉事法官職權，該裁決要求海關重新核算其緊急狀態權力下徵收的非法進口稅。
+5、特朗普近 18 億美元 “反武器化” 專項基金引發白宮內部擔憂，幕僚商議是否叫停該基金，以換取下月移民執法法案通關。十餘名共和黨參議員私下施壓撤銷該基金，聯邦法院已下令暫停基金籌備工作，特朗普尚未同意撤項。
+6、白宮確認特朗普已簽署備忘錄，批准國家安全投資領域關鍵崗位工作人員的薪酬授權。
+7、白宮公佈特朗普醫生備忘錄，確認特朗普整體身體狀態極佳，各項身體機能表現強勁，小腿腫脹症狀較 2025 年有所好轉，完全勝任履職工作。
+8、特朗普簽署行政命令，正式認可美國衛生部兒童疫苗科學評估結果，並要求疾控中心等機構據此更新青少年疫苗接種日程。
+9、美國聯邦法官裁定，未經國會立法不得更名肯尼迪中心，正式移除特朗普相關冠名，同時叫停中心兩年翻修關閉計劃。
+
+---
+
+### 2026-05-30 13:41:35  #國際
+
+【中方敦促安理會及時調整或解除南蘇丹制裁】中國常駐聯合國副代表孫磊29日在安理會表決南蘇丹制裁授權延期決議草案後作解釋性發言，敦促安理會在條件成熟時及時調整或解除有關制裁。他說，表決的決議草案總體為技術性延期，但原有制裁決議對南蘇丹過度施壓，案文多處表述有失平衡，中方對相關內容一直持保留意見，因此投了棄權票。安理會對南蘇丹實施武器禁運已近8年，制約南蘇丹政府加強保護平民、維護國內穩定等能力。解除武器禁運是南蘇丹及地區國家的一貫訴求，中方呼籲安理會重視非洲強烈呼聲和正當關切，在條件成熟時及時調整或解除有關制裁，避免將制裁作為施壓甚至干涉內政的政治工具。中方一貫主張，制裁是手段不是目的，安理會應積極幫助當事國為最終解除制裁而努力。（新華社）
+
+---
+
+### 2026-05-30 13:38:46  #其他
+
+【深圳原創基礎軟體取得新突破】近日，由深圳計算科學研究院自主研發的崖山資料庫系統分散式版本成功透過中國資訊保安測評中心“安全可靠測評”認證。在本批次透過最高等級測評的產品中，該系統作為新型研發機構的高質量轉化成果，是唯一實現“從原創理論到核心系統全棧自研”完整閉環的本土資料庫。（深圳釋出）
+
+---
+
+### 2026-05-30 13:34:36  #公司
+
+【指數調樣背後有何考量？業內人士：應理性看待資本市場指數調樣】市場專家指出，指數調整依據的是特定時點的客觀指標，不影響後續公司基本面的真實走向。指數化投資的基本邏輯是承認市場定價相對有效，其實是長期投資、價值投資的代表。從個股股價來說，其本質上反映公司基本面變化，與是否納入或調出指數並無直接因果關係。從較長時間維度看，個股股價表現取決於公司自身經營狀況和基本面支撐。（證券時報）
+
+---
+
+### 2026-05-30 13:34:13  #其他
+
+【天津發布超智數三個百億億級融合裝置平臺】5月29日，2026世界智慧產業博覽會期間，人工智慧創新與太空數智設施發展交流會在天開高教科創園舉行。會上，超智數三個百億億級融合裝置平臺正式釋出。該平臺整合了國家超級計算天津中心的天河新一代百億億次超算系統、國產自主的百億億次智算系統，以及天津超算中心的百億億位元組資料大規模儲存管理能力，標誌著我國在超算、智算與資料深度融合領域取得重大突破，為全球算力融合發展提供了“中國方案”和示範樣板。
+
+---
+
+### 2026-05-30 13:30:34  #公司
+
+【檸季被傳擬收購哈根達斯中國門店，公司相關負責人回應】近日，有訊息稱，新茶飲品牌檸季檸檬茶正就收購哈根達斯中國門店業務一事進行洽談。 據南方都市報5月29日報道，檸季相關負責人就此回應稱，關於網傳的相關資訊，現階段暫不透露。哈根達斯母公司通用磨坊中國相關負責人以及通用磨坊全球總部，目前未就此事作出回應。
+
+---
+
+### 2026-05-30 13:27:26  #國際
+
+【伊朗對科威特的空軍基地發動導彈襲擊 數名美國人員受傷】就在唐納德·特朗普考慮一項延長美伊停火的協議之際，伊朗於過去24小時內向一個科威特空軍基地發射了一枚彈道導彈，造成數名美國人員輕傷，並嚴重損壞了兩架MQ-9“死神”攻擊無人機。據一位直接知情人士透露，科威特防空部隊攔截了這枚Fateh-110導彈，但墜落的碎片擊中了阿里·薩利姆空軍基地。該人稱，約有五人受了輕傷，裡面既有承包商也有現役人員。一架“死神”無人機被摧毀，至少還有一架嚴重受損。這種無人機每架造價約3000萬美元。美國中央司令部未立即回應置評請求。
 
 ---
 
@@ -21103,395 +21406,5 @@ Australia's S&P/ASX 200 opened 66.10 points higher, up 0.77% at 8,659.00 on Frid
 ### 2026-05-29 08:08:30  #公司
 
 【野村高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍】根據一份關於下月年度股東會的通知，在截至3月31日的財年中，野村控股八位高管平均獲得9.21億日元（約580萬美元）的薪酬，去年同期為6.57億日元。上述高管的總薪酬達到創紀錄的74億日元，比前一年增長60%。該公司高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍。
-
----
-
-### 2026-05-29 08:08:19  #國際
-
-【美財長稱美伊協議取決於特朗普 】美國財長貝森特當地時間5月28日主持白宮例行記者會。對美國媒體當天報道稱“美國和伊朗談判代表已就諒解備忘錄條款基本達成一致，有待美國總統特朗普最終批准”，貝森特沒有直接回答相關提問，只是稱“雙方團隊一直在進行往來磋商”，並強調“一切都取決於（特朗普）總統想要怎麼做”。貝森特稱，特朗普有幾條明確的“紅線”，即“伊朗必須交出其高濃縮鈾”、“伊朗不能發展核武器”，以及“霍爾木茲海峽必須保持開放”。 （ CCTV國際時訊 ）
-
----
-
-### 2026-05-29 08:08:11  #MKT News
-
-US Secretary of State Rubio to meet Pakistan’s deputy prime minister and foreign minister on Friday.
-
----
-
-### 2026-05-29 08:06:46  #央行 #市場 #觀點
-
-【中信證券：預計存款增長強於貸款的趨勢將維持】中信證券研報指出，我們認為，本輪資金寬鬆主要是存款高增與信貸偏弱驅動的“自發式寬鬆”，一方面結匯迴流疊加居民存款搬家共同推升非銀存款與流動性寬鬆，另一方面實體貸款投放走弱，導致部分流動性“淤積”在銀行間市場。展望未來，我們預計存款增長強於貸款的趨勢將維持，在央行適度調控流動性的背景下，資金有望維持相對寬鬆狀態。
-
----
-
-### 2026-05-29 08:06:37  #MKT News #9984.T #Impact bullish
-
-SoftBank Group shares rose 6.5%.
-
----
-
-### 2026-05-29 08:06:10  #其他
-
-【瑞士火車站持刀襲擊定性恐襲 嫌疑人更多細節披露 】瑞士蘇黎世州安全主管馬里奧·費爾28日在新聞釋出會上說，當天早些時候在蘇黎世附近的溫特圖爾火車站發生的持刀襲擊事件是“恐怖主義行為”。同時，警方公佈了嫌疑人身份更多細節。據警方最新訊息，襲擊已造成3人受傷，其中一人重傷。襲擊發生後，嫌疑人隨即被捕。警方表示，嫌疑人1994年出生於瑞士，擁有瑞士和土耳其雙重國籍。他於2024年移居土耳其，並於2026年5月返回瑞士。他此前已被警方記錄在案，曾因違反涉極端組織“伊斯蘭國”的法令而被指控。
-
----
-
-### 2026-05-29 08:04:57  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Gains Amid US-Iran Peace Optimism — Gold steadied near $4,500 an ounce on Friday after recovering in the previous session, as reports of a preliminary agreement between the US and Iran eased concerns over inflation and interest rate. Washington and Tehran are reportedly set to extend their ceasefire by 60 days and begin talks over Iran’s nuclear program, while also considering unrestricted shipping through the Strait of Hormuz. Still, the report noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance said it remains too early to determine whether or when a deal with Iran could be finalized. Gold has faced strong selling pressure since late February as the surge in oil prices triggered by the Iran conflict fueled inflation worries and strengthened expectations for tighter monetary policy. Meanwhile, the US Federal Reserve is widely expected to keep interest rates unchanged this year, although policymakers continue to warn about persistent inflation risks.
-
----
-
-### 2026-05-29 08:04:47  #國際
-
-市場訊息：美國國務卿魯比奧將於週五會見巴基斯坦副總理和外交部長。
-
----
-
-### 2026-05-29 08:04:20  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-JAPAN'S NIKKEI INDEX was up 1.00% intraday.
-
----
-
-### 2026-05-29 08:04:09  #其他
-
-【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報65435.09點。
-
----
-
-### 2026-05-29 08:03:57  #公司
-
-軟銀集團股票因買單過剩暫未交易。
-
----
-
-### 2026-05-29 08:03:41  #其他
-
-豐田：因市場放緩取消原定 2027 年推出的電動汽車研發專案。
-
----
-
-### 2026-05-29 08:02:40  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics shares rose more than 4%.
-
----
-
-### 2026-05-29 08:02:18  #公司 #市場
-
-三星電子股價上漲超4%。
-
----
-
-### 2026-05-29 08:01:42  #MKT News #Market Regions #Japan & APAC
-
-Japan's April vehicle production fell 2.4% MoM, government data showed.
-
----
-
-### 2026-05-29 08:01:20  #市場
-
-日經指數開盤上漲0.7%，報65133.97點，電子股領漲。
-
----
-
-### 2026-05-29 08:01:14  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【South Korea, Japan stocks open higher】South Korea's KOSPI climbed to 8,400, up 2.64% intraday. JAPAN'S NIKKEI INDEX surpassed 65,000, up 0.72%.
-
----
-
-### 2026-05-29 08:00:47  #公司
-
-【德祥地產：與榮聯科技圍繞AI算力基礎設施達成戰略合作】德祥地產5月29日在港交所公告，公司正積極推動將既有傳統資產能力與AI算力基礎設施建設進行戰略協同之整體佈局，並持續最佳化資產組合，董事會認為，公司在以上方面已取得重大實質性突破。於5月19日，公司已分別簽署首份人工智慧算力技術服務合同並與榮聯科技訂立了戰略合作框架協議。依據戰略協議，公司與榮聯科技(002642)一致同意圍繞AI算力基礎設施全生命週期展開深度產業協同，採取“短期輕資產前置部署、中期資產架接組合、長期重資產共建”的三步走戰略。
-
----
-
-### 2026-05-29 08:00:43  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲2.4%，至8384.31點。
-
----
-
-### 2026-05-29 07:59:44  #其他
-
-【智慧賦能千行百業 200多項新技術、新成果亮相智博會】2026世界智慧產業博覽會昨天在天津開幕，本屆智博會集中釋出200餘項新標準、新產品、新技術。各類智慧新技術、新成果集中亮相，人工智慧持續融入各行各業，賦能產業升級與民生髮展。為集中展示智慧產業最新成果，本屆展會特別設定了前沿科技成果釋出活動，近百項涵蓋智慧城市、智慧生活等前沿領域的科技成果在現場進行分享。據統計，2025年，我國人工智慧核心產業規模超過1.2萬億元，企業超過6200家，人工智慧正加速與千行百業深度融合。
-
----
-
-### 2026-05-29 07:59:17  #公司
-
-必和必拓集團：若礦區發生工會停工行動，我們已制定完善的應急計劃。
-
----
-
-### 2026-05-29 07:59:09  #公司
-
-必和必拓集團：仍將聚焦於持續開展建設性磋商溝通，以達成維持行業領先薪資與用工條件的結果。
-
----
-
-### 2026-05-29 07:58:39  #公司
-
-必和必拓集團：正就新企業協議與港口運營團隊展開談判。
-
----
-
-### 2026-05-29 07:58:25  #MKT News #Macro & Rates #USDJPY #Impact mixed #DXY #Impact bearish
-
-【Tokyo inflation cools again, complicating BANK OF JAPAN rate path】Tokyo May core CPI unexpectedly slowed to 1.3% YoY, the slowest in four years and below consensus 1.5%, marking a sixth consecutive monthly deceleration, the Statistics Bureau said. The BOJ's preferred core‑core CPI (ex fresh food and energy) rose 1.6% YoY. That gauge — adjusted to remove subsidy distortions and last year’s volatile food base effects — is seen as a cleaner measure of underlying price trends. The softer Tokyo inflation complicates BANK OF JAPAN policy communication and leaves the timing of any near‑term rate move uncertain; officials may still seek to justify tightening as early as next month.
-
----
-
-### 2026-05-29 07:57:15  #國際
-
-【美媒：達拉斯市一公寓樓燃氣爆炸至少造成1死4傷 】據美國媒體報道，美國得克薩斯州達拉斯市一棟兩層公寓樓28日發生燃氣爆炸，已造成至少1人死亡、4人受傷。達拉斯消防救援部門官員說，樓內共有23人，目前至少11人失蹤，搜救工作正在進行。
-
----
-
-### 2026-05-29 07:56:39  #國際
-
-日本財務大臣片山皋月：我無法回答有關擬議對食品徵收1%消費稅的假設性問題。
-
----
-
-### 2026-05-29 07:55:13  #其他
-
-片山皋月：應對匯市走勢的立場沒有改變。
-
----
-
-### 2026-05-29 07:55:03  #Trading Economics #Economy #Japan #Retail Sales YoY #Importance 2
-
-Japan Retail Sales Growth Hits 1-Year Peak — Retail sales in Japan grew 2.1% year-on-year in April 2026, following a downwardly revised 1.4% rise in the previous month and surpassing market expectations for a 1.3% gain. It was the fastest increase since April 2025, supported by government efforts, including a stimulus package aimed at boosting consumption and easing price pressures.
-
----
-
-### 2026-05-29 07:54:58  #MKT News #Market Themes #The Trump Trade
-
-【Treasury says $250 Trump note designed; issuance needs congressional approval】U.S. Treasury Secretary Bessent told reporters at the WHITE HOUSE the Treasury has completed the design for a $250 note bearing President Trump’s portrait, but issuance requires Congress to amend a law that currently prohibits living persons on U.S. currency; the Treasury is prepared pending legislative authorization.
-
----
-
-### 2026-05-29 07:54:37  #宏觀 #國際
-
-【特朗普肖像紀念鈔已設計完成 只等國會“放行” 】美國財政部長貝森特28日表示，美財政部就發行印有總統特朗普肖像、面值250美元的紀念鈔已做好準備，包括完成了紙幣設計工作，但該紀念鈔最終能否發行取決於國會授權。貝森特在白宮回答記者提問時說，美國現行法律禁止貨幣上印製在世人士頭像，因此需國會眾議院透過一項法案以修改此規定，“以便讓在世人士，比如特朗普，能夠出現在250美元的鈔票上”。他說，“這一切都取決於國會”，但財政部必須預先做好準備，“我們已經設計出了這款紙幣”。當天早些時候，《華盛頓郵報》報道說，財政部司庫布蘭登·比奇敦促隸屬該部的“印鈔廠”美國印刷局加快印製一款有特朗普肖像、面值250美元的紙幣。報道還稱，印刷局前局長帕特里夏·索利梅內因拒絕加快該款新幣發行程序而被調離崗位。
-
----
-
-### 2026-05-29 07:53:51  #國際
-
-日本財務大臣片山皋月：若匯率出現投機性波動，可以採取大膽行動。
-
----
-
-### 2026-05-29 07:53:49  #Trading Economics #Economy #Japan #Industrial Production Mom #Importance 1
-
-Japan Industrial Output Unexpectedly Rises — Japan’s industrial production rose 0.8% mom in April 2026, reversing a 0.4% drop in the prior month and defying market forecasts for a 0.9% decline. It was the first rise since January, amid resilient overseas demand and a recovery in domestic manufacturing activity, although escalating Middle East tensions continued to pose risks to supply chains and energy costs.
-
----
-
-### 2026-05-29 07:53:32  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Japan's finance minister Katayama declined to comment on whether authorities have intervened.
-
----
-
-### 2026-05-29 07:53:14  #MKT News #USDJPY #Impact mixed
-
-Japan's finance minister Katayama said, when asked about FX intervention, that authorities could take decisive action to counter market volatility.
-
----
-
-### 2026-05-29 07:53:13  #觀點
-
-【中信建投：資本市場改革深化下 券商“科創屬性”價值重估】中信建投證券研報稱，2025年以來科創板“1+6”改革、創業板深化改革相繼落地，兩大板塊錯位發展格局形成，成為A股科創企業融資核心陣地。券商科創屬性主要來自投行保薦承銷、雙創IPO跟投及直投、私募業務，截至2026年5月26日，頭部及特色券商跟投累計浮盈達90.91億元。當前非銀板塊估值處於歷史偏低區間，改革紅利持續釋放疊加科創業務業績兌現，板塊配置價值凸顯，建議關注頭部券商及科創特色鮮明的中型券商。
-
----
-
-### 2026-05-29 07:52:58  #觀點
-
-【中信建投家電2026年中期投資策略：白電板塊當前股息率處於歷史高位 配置價值凸顯】中信建投證券家電2026年中期投資策略指出，國補政策帶來的景氣錯期正為白電投資提供“擊球區”，白電板塊當前股息率處於歷史高位，配置價值顯著凸顯。短期行業景氣受國補退坡、高基數效應、海外需求結構分化等因素階段性壓制，但上述擾動均非長期結構性矛盾，伴隨基數回落、龍頭份額持續提升、新興市場韌性顯現，行業景氣有望逐步修復。在充沛現金流、高分紅與回購支撐下，白電龍頭具備穩定股東回報與估值修復空間，是當前市場中兼具防禦性與彈性的優質配置方向。
-
----
-
-### 2026-05-29 07:51:20  #國際
-
-日本財務大臣片山：不對是否已實施干預置評。
-
----
-
-### 2026-05-29 07:51:11  #經濟數據 #日本
-
-日本4月份零售額同比增長2.1%，預估為1.3%。
-
----
-
-### 2026-05-29 07:51:09  #MKT News
-
-Japan retail sales, April: ¥13.217 trillion, down from ¥14.306 trillion in the prior month.
-
----
-
-### 2026-05-29 07:51:02  #國際
-
-日本財務大臣片山皋月在被問及外匯干預問題時表示，我們已表示可在市場波動時採取果斷行動。
-
----
-
-### 2026-05-29 07:51:01  #MKT News #Economic Calendar #Important
-
-Japan | Retail Sales (Apr) | actual 13217000000000T | previous 14306000000000T
-
----
-
-### 2026-05-29 07:50:53  #經濟數據 #日本
-
-日本4月份工業產值同比增長2.3%，預估0.7%。
-
----
-
-### 2026-05-29 07:50:48  #MKT News #Market Regions #Japan & APAC
-
-Japan April inventories MoM -0.2% (prior -1.8%).
-
----
-
-### 2026-05-29 07:50:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Set for Steep Monthly Loss — Brent crude futures fell toward $93 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The international oil benchmark has dropped nearly 15% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief.
-
----
-
-### 2026-05-29 07:50:42  #MKT News #Economic Calendar #Important
-
-Japan | Inventory (MoM) (Apr) | actual -0.2% | previous -1.8%
-
----
-
-### 2026-05-29 07:50:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
-
-Japan April seasonally adjusted retail sales MoM 1.3% vs expected 0.4%; March revised to 1.0% from 1.3%.
-
----
-
-### 2026-05-29 07:50:27  #國際
-
-日本4月零售銷售同比 2.1%，預期 1.3%，前值 1.7%。日本4月零售銷售環比 1.3%，預期 0.4%，前值 1.3%。
-
----
-
-### 2026-05-29 07:50:26  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
-
-Japan April industrial production YoY preliminary 2.3% (exp 0.7%, prev 2.4%).
-
----
-
-### 2026-05-29 07:50:25  #MKT News #Economic Calendar #Important
-
-Japan | Retail Sales SA (MoM) (Apr) | actual 1.3% | consensus 0.40% | previous 1.30%
-
----
-
-### 2026-05-29 07:50:22  #國際
-
-日本4月工業產出同比初值 2.3%，預期 0.7%，前值 2.4%。日本4月工業產出環比初值 0.8%，預期 -0.6%，前值 -0.4%。
-
----
-
-### 2026-05-29 07:50:19  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Flash (YoY) (Apr) | actual 2.3% | consensus 0.70% | previous 2.40%
-
----
-
-### 2026-05-29 07:50:14  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
-
-Japan April industrial production preliminary MoM +0.8% vs -0.6% expected; prior -0.4%.
-
----
-
-### 2026-05-29 07:50:13  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan April retail sales YoY 2.1% vs expected 1.3%; March revised to 1.4% from 1.7%.
-
----
-
-### 2026-05-29 07:50:07  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Flash (MoM) (Apr) | actual 0.8% | consensus -0.60% | previous -0.40%
-
----
-
-### 2026-05-29 07:50:06  #MKT News #Economic Calendar #Important
-
-Japan | Retail sales (YoY) (Apr) | actual 2.1% | consensus 1.30% | previous 1.70%
-
----
-
-### 2026-05-29 07:49:46  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Set for Steep Monthly Loss — WTI crude futures fell toward $88 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The US oil benchmark has dropped more than 12% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief.
-
----
-
-### 2026-05-29 07:47:43  #國際
-
-【颱風“薔薇”強度逐漸增強 向臺灣以東洋麵靠近】今年第6號颱風“薔薇”（熱帶風暴級）的中心5月29日早晨5點位於菲律賓馬尼拉偏東方向約1440公里的洋麵上，即北緯14.6度、東經134.4度，中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為200至400公里。預計，“薔薇”將以每小時20至25公里的速度向西北方向移動，強度逐漸增強，並向臺灣以東洋麵靠近。
-
----
-
-### 2026-05-29 07:46:41  #資料 #市場 #央行 #國際
-
-【東京通脹再度放緩 日本央行加息之路遇阻】東京核心通脹指標意外降至四年新低，讓日本央行決策者陷入兩難，即便計劃最早於下月加息，也難以找到充分依據。日本總務省週五公佈資料，5 月東京地區不含生鮮食品的核心消費者物價指數（CPI）同比上漲 1.3%，該資料已連續六個月回落，且低於媒體經濟學家調查中的絕大多數預期。與此同時，剔除生鮮食品與能源的核心核心 CPI（日本央行重點關注的潛在通脹指標）同比上漲 1.6%。這一指標剔除了補貼政策帶來的干擾，以及去年物價大幅波動造成的基數偏差，能更客觀地反映真實物價走勢。東京整體 CPI 同比上漲 1.4%。東京物價資料被視作日本全國通脹走勢的先行風向標。加工食品價格同比漲幅收窄，加之水費大幅下調，拖累整體消費者物價指數（CPI）走低。受首相高市早苗推出的汽油補貼政策影響，能源價格持續回落。高市早苗計劃很快向國會提交追加預算，以延續該項補貼措施。
-
----
-
-### 2026-05-29 07:46:03  #市場 #國際
-
-指標10年期日本國債期貨早盤上漲0.29點。
-
----
-
-### 2026-05-29 07:45:35  #市場 #國際
-
-日本日經平均指數期貨在早盤交易中上漲1.9%。
-
----
-
-### 2026-05-29 07:45:00  #宏觀 #市場 #國際
-
-【日經指數或因美伊和平協議希望而上漲】得益於對美伊和平協議的持續希望，日本股市可能會上漲。美國財政部長斯科特·貝森特週四表示，兩國即將達成平息戰爭的協議。新加坡交易所的日經指數期貨上漲1.9%，至65770點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週四下跌0.5%，至64693.12點。
-
----
-
-### 2026-05-29 07:44:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,490/oz, down 0.14% intraday.
-
----
-
-### 2026-05-29 07:44:07  #其他
-
-【老年旅客淡季火車票優惠今起實施】在5月29日至6月30日期間，年滿60週歲及以上的旅客，在每週一中午到週五中午時段出行，可以享受動車組列車執行票價九折的優惠，以及普通常旅客會員3倍積分優惠。
-
----
-
-### 2026-05-29 07:41:30  #宏觀 #資料 #市場 #央行 #國際
-
-【東京消費者通脹仍低於日本央行目標 中東局勢影響未能改變這一態勢】受中東衝突推高油價影響，日本政府出臺能源補貼政策對沖物價壓力，東京都市圈居民通脹率依舊低於央行設定的2%目標。日本政府週五公佈資料顯示，5月東京核心CPI（不含生鮮食品）同比上漲1.3%。該資料低於4月1.5%的同比漲幅，也低於資訊機構Quick對經濟學家調查得出的1.5%預期值。東京物價資料被視作日本全國物價走勢的先行指標。日本東京地區5月核心-核心CPI同比上升1.6%，創2024年9月以來最低增速。儘管目前各項政策舉措有效抑制了通脹，但日本政策制定者愈發擔憂，油價走高或進一步推升國核心心通脹水平。業內人士表示，長期通脹環境下，日本企業對漲價的接受度提升，或將逐步把上漲的成本轉嫁給消費者。部分經濟學家預測，日本央行將在6月的下次議息會議上，把政策利率從當前的0.75%上調至1.0%。
-
----
-
-### 2026-05-29 07:38:48  #市場 #國際
-
-【城堡證券：美股陷入“緊張式看漲”，預計行情仍有上行空間】據報道，城堡證券股票及股票衍生品策略主管Scott Rubner表示，儘管美國股市過去兩個月已上漲超過10%，但可能還會繼續走高。Rubner稱，隨著地緣政治情緒改善、市場波動率維持低位，以及大型科技股持續領漲，那些在此前大部分反彈過程中保持謹慎的投資者被迫重新考慮倉位。
-
----
-
-### 2026-05-29 07:38:40  #公司 #市場
-
-【中證報：銀行持續拓展積存金業務並不意味相關風險消散】延長夜盤交易時間、推出“0費率”階段性優惠、與網際網路機構展開合作……近期，國際金價震盪下跌，市場投資情緒有所降溫。在此背景下，部分銀行開始對積存金業務進行調整，透過降低費率、最佳化服務來提高客戶活躍度。銀行持續拓展積存金業務並不意味著相關風險消散。一些追高入場的投資者遭遇較大幅度虧損。有投資者表示，自己分批購入的積存金已虧損超過10%。工商銀行、興業銀行、招商銀行等多家銀行在釋出積存金業務調整公告時強調，黃金價格可能因突發政策、市場情緒變化或國際事件等因素出現短期劇烈波動，進而導致黃金賬戶持倉市值快速變化。投資者應結合自身財務狀況及風險承受能力，合理控制倉位，提高風險防範意識。
 
 ---
