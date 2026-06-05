@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 00:57:51",
-  "count": 18774,
+  "updated": "2026-06-06 01:01:38",
+  "count": 18772,
   "items": [
+    {
+      "id": "4920234",
+      "time": "2026-06-06 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌2.07%，滬銅收跌1.84%，滬鋁收跌0.76%，滬鋅收跌0.60%，滬鉛收跌0.03%，滬鎳收跌0.31%，滬錫收跌5.27%。氧化鋁夜盤收漲0.65%，鋁合金收跌0.61%。不鏽鋼夜盤收跌0.14%。"
+    },
     {
       "id": "mkt:019e98b5-7bf6-7665-830a-5fa6867d0056",
       "time": "2026-06-06 00:54:50",
@@ -172898,34 +172906,6 @@
         "Important"
       ],
       "text": "United States | Weekly Total Oil Rig Count (May.29) | actual 429 | previous 425"
-    },
-    {
-      "id": "mkt:019e74af-1ceb-7bb7-9964-755c4be9c434",
-      "time": "2026-05-30 01:01:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US natural gas rig count for the week to May 29: 125 rigs, unchanged from the prior week."
-    },
-    {
-      "id": "mkt:019e74ae-cdf8-7bb7-9964-6bc3ef2ac351",
-      "time": "2026-05-30 01:01:13",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (May.29) | actual 125 | previous 125"
-    },
-    {
-      "id": "4907654",
-      "time": "2026-05-30 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.38%，滬銅收跌0.39%，滬鋁收跌0.31%，滬鋅收跌0.86%，滬鉛收跌0.06%，滬鎳收跌0.80%，滬錫收跌0.27%。氧化鋁夜盤收平，鋁合金收跌0.28%。不鏽鋼夜盤收跌0.74%。"
     }
   ]
 }
