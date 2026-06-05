@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-05 10:46:20",
-  "count": 18959,
+  "updated": "2026-06-05 10:50:02",
+  "count": 18958,
   "items": [
+    {
+      "id": "4918564",
+      "time": "2026-06-05 10:49:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度擬在新計劃中上調沼氣價格並增加補貼。"
+    },
+    {
+      "id": "te:markets:556680",
+      "time": "2026-06-05 10:48:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Stocks Remain Under Pressure as MSCI Review Looms — Indonesia’s IDX Composite slumped 116 points, or 2.0%, to 5,724 in early Friday trade, extending losses for a third session and hovering near its weakest level since May 2021. Sentiment was hit by softer U.S. futures after Wall Street’s mixed close, with the Dow at a record high but the Nasdaq lagging as traders rotated out of tech stocks. Domestic pressures compounded the slide. Foreign investors have booked net sales of over IDR 67 trillion this year, underscoring persistent outflows. Concerns also mounted over speculation that MSCI could downgrade Indonesia to Frontier Market status ahead of its June 19 review. The benchmark is on track for a seventh weekly fall, down about 6% this week and 33% ytd, making it the worst performer among more than 90 major global indices. Selling was broad-based, led by financials, transport, industrials, and infrastructure. Perusahaan Gas Negara sank 9.4%, followed by Pantai Indah Kapuk Dua (-8.5%), Adaro Andalan (-7.5%), and Sentul City (-6.3%)."
+    },
+    {
+      "id": "4918563",
+      "time": "2026-06-05 10:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼部長：美國新關稅及豁免政策將為印尼經濟注入增長動力】印尼經濟統籌部長艾爾朗加(Airlangga Hartarto)週五表示，美國對印尼出口產品加徵的10%關稅，加上預計對部分關鍵產品給予的豁免，或有助於刺激經濟增長。艾爾朗加是在巴黎經合組織會議期間與美國貿易代表格里爾會晤後發表上述宣告的。艾爾朗加表示，印尼在“301條款調查”下提出的18項產品豁免請求很可能會獲得批准，但未提供具體細節。“這些戰略舉措無疑將為印尼工業帶來巨大的經濟刺激，降低出口成本，並提升我國主要大宗商品在美國國內市場的競爭力，”艾爾朗加表示。"
+    },
+    {
+      "id": "mkt:019e95ae-1260-766c-9544-69bbddc258f8",
+      "time": "2026-06-05 10:47:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Guterres welcomes Lebanon-Israel ceasefire】UN Secretary-General Guterres welcomed the announced Lebanon‑Israel ceasefire and urged all parties to fully respect the agreement and comply with international law. He called on Hezbollah and other non-state actors to accept Lebanese government authority, urged Israel to respect Lebanon's sovereignty and withdraw its forces, and said the UN supports diplomatic efforts to reinforce the ceasefire and implement UN Security Council Resolution 1701 while negotiations continue toward lasting peace and stability."
+    },
+    {
+      "id": "mkt:019e95ad-bdd0-766c-9544-66fca1084ba8",
+      "time": "2026-06-05 10:47:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share consumer-electronics components and assembly sector popped in a short-lived rally; Shuobaide and Yidong Electronics jumped over 10%, while Xinhao Optoelectronics, Gongda Acoustic, Haosheng Electronics, Helin Micro‑Nano and Furong Technology also advanced."
+    },
+    {
+      "id": "4918562",
+      "time": "2026-06-05 10:46:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達6％，成分股中，星圖測控漲19％，天力複合漲16％，戈碧迦漲14％，同惠電子漲13％。"
+    },
+    {
+      "id": "4918561",
+      "time": "2026-06-05 10:45:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬深兩市成交額突破1.5萬億元。"
+    },
     {
       "id": "4918560",
       "time": "2026-06-05 10:45:26",
@@ -174605,82 +174673,6 @@
         "Greater China"
       ],
       "text": "【CCPIT opposes EU cybersecurity law revision as contravening WTO rules】China Council for the Promotion of International Trade (CCPIT) said at a May 29 press briefing it firmly opposes the EU draft cybersecurity law’s proposal to introduce “non-technical risk” factors that link companies of specific national origin to cybersecurity risk and exclude them from critical infrastructure supply chains. CCPIT urged EU legislators to seek business and industry association input, keep rules technology-neutral and risk-based, delete or substantially amend country-targeted discriminatory provisions, and carefully assess impacts on China‑EU commercial ties, EU industry development and global supply-chain stability."
-    },
-    {
-      "id": "4906003",
-      "time": "2026-05-29 10:49:46",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【堅決反對違背世貿組織基本規則 貿促會回應歐盟《網路安全法》修訂草案】今天（5月29日）上午，中國貿促會舉行新聞釋出會。釋出會上，中國貿促會新聞發言人對近期歐盟正推進出臺《網路安全法》禁止中國企業參與歐關鍵基礎設施建設作出回應。中國貿促會新聞發言人表示，我們注意到歐盟正在推進《網路安全法》修訂草案，對草案引入“非技術風險”因素，將特定國家、特定國別背景企業與網路安全風險直接掛鉤，將其排除出歐盟相關供應鏈的做法表示堅決反對。中國國際商會已代表中國工商界向歐方提交評論意見，認為草案存在明顯不合理之處。一方面，“非技術風險”“網路安全關切國家”“高風險供應商”等概念認定標準模糊，不符合現代法治所要求的法律明確性、程式透明性和可預期性。另一方面，對特定國家供應商實施市場準入限制、存量裝置替換、認證資格排除等措施，明顯超過維護網路安全所必要的限度，與世貿組織基本規則、國際服務貿易承諾及投資保護規則相沖突。從產業和工商合作層面看，若以泛化的安全理由全面排除特定國家供應商，不僅將損害包括中國企業在內的其他相關市場主體的正當合法權益，也將削弱歐盟市場開放、公平、可預期的營商環境。歐盟企業將面臨成本上升、採購選擇減少、供應鏈穩定性下降、技術適配週期拉長等實際壓力，最終成本也將傳導至歐盟消費者和公共服務體系。據不完全統計，該法若實施，受到影響的對歐投資將超過數千億歐元，受到影響的在歐就業將數以萬計。我們呼籲歐方在後續立法過程中充分聽取企業、行業協會等各方意見，堅持技術中立和風險導向原則，刪除或實質性修改具有國別指向和歧視性的規則安排，審慎評估草案對中歐工商合作、歐盟自身產業發展和全球供應鏈穩定的影響。中國企業是歐洲數字化轉型、綠色轉型和產業升級的重要合作伙伴，中國工商界願與歐方共同推動網路安全治理和數字經濟發展，維護開放、公平、非歧視的市場環境，共同保障全球產業鏈供應鏈穩定暢通。（央視新聞）"
-    },
-    {
-      "id": "4906002",
-      "time": "2026-05-29 10:49:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "鴻海董事長劉揚偉在股東大會上表示，如果沒有黑天鵝事件發生，公司下半年的業績應該會相當不錯。目前記憶體短缺主要影響低端產品，對鴻海客戶的高階產品影響有限。"
-    },
-    {
-      "id": "te:markets:554707",
-      "time": "2026-05-29 10:49:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Set for Second Monthly Gain — The offshore yuan steadied around 6.76 per dollar on Friday, hovering near its strongest level since February 2023, bolstered by reports of an extended ceasefire agreement between the US and Iran. Both sides agreed to prolong the truce for another 60 days to allow further negotiations over Tehran’s nuclear program, although US President Donald Trump has yet to formally approve the arrangement. Meanwhile, China’s currency has drawn additional support from the global AI investment boom, which has fueled demand for Chinese technology exports and eased concerns in Beijing over yuan appreciation. For the month, the yuan remains on track for a second consecutive monthly gain despite continued weaker-than-expected daily midpoint fixings from the People's Bank of China, as investors navigated rapidly shifting developments surrounding the Iran conflict while also assessing progress following the meeting between Presidents Donald Trump and Xi Jinping earlier this month."
-    },
-    {
-      "id": "mkt:019e71a0-fe35-7ee0-99e1-de03a39dbbfc",
-      "time": "2026-05-29 10:47:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "09992.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Pop Mart (09992.HK) rose more than 8% intraday after closing nearly 5% higher yesterday. HKEX disclosed that prominent investor Duan Yongping has taken a reported stake in Pop Mart; his latest holding is valued at over HK$11.7 billion HKD."
-    },
-    {
-      "id": "mkt:019e71a0-f2f7-7ee0-99e1-d016aa312d88",
-      "time": "2026-05-29 10:47:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA: Blue Origin incident did not affect U.S. air traffic."
-    },
-    {
-      "id": "4906001",
-      "time": "2026-05-29 10:46:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪天神之眼智慧駕駛搭載速騰聚創超千線鐳射雷達】5月28日，比亞迪舉行“敢為”智慧化戰略釋出會，天神之眼智慧駕駛體系成為市場焦點。據供應鏈資訊確認，本次釋出會相關高階智駕方案所搭載的鐳射雷達方案均來自速騰聚創。"
-    },
-    {
-      "id": "mkt:019e71a0-7d28-7ee0-99e1-cb3b74d72f86",
-      "time": "2026-05-29 10:46:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK"
-      ],
-      "text": "【BYD's Tianshen Eye ADAS to use RoboSense lidar with over 1,000 lines】On May 28 BYD unveiled its Tianshen Eye intelligent driving system as part of a smart-vehicle strategy. Supply-chain sources say the high-level driving solutions shown are all equipped with RoboSense lidar units rated at more than 1,000 lines."
-    },
-    {
-      "id": "mkt:019e71a0-7af8-7ee0-99e1-c677ac77130f",
-      "time": "2026-05-29 10:46:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA: Blue Origin test was not within FAA-permitted activities."
     }
   ]
 }
