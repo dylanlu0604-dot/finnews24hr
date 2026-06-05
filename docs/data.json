@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-05 23:12:27",
-  "count": 18707,
+  "updated": "2026-06-05 23:16:30",
+  "count": 18708,
   "items": [
+    {
+      "id": "mkt:019e985a-921d-7665-8307-b57365d683ef",
+      "time": "2026-06-05 23:15:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said a Russian businessman met with Zelenskiy in Kyiv."
+    },
+    {
+      "id": "te:economy:556963",
+      "time": "2026-06-05 23:15:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jun 8th — Any potential break from the prolonged impasse between Iran and the US will dictate global markets next week, as elevated energy prices continue to make central banks heed inflationary risks. The US is due to release its consumer and producer inflation figures, the final price gauge before this month's Federal Reserve decision, in addition to existing home sales and the trade balance. Likewise, trade data and inflation prints are also awaited in China. Meanwhile, the European Central Bank and the Bank of Canada will set their monetary policy. The UK will release April's GDP and join Germany in posting trade balances and industrial production. Elsewhere, Australia will release industry leading indicators and Brazil, Mexico, and Russia should unveil their CPIs. On the corporate front, SpaceX will undergo what is likely to be the largest IPO on record. Additionally, OPEC+ will vote on the cartel's output quota in their first meeting without the UAE."
+    },
+    {
+      "id": "4920139",
+      "time": "2026-06-05 23:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 一名俄羅斯商人在基輔會見了烏克蘭總統澤連斯基。"
+    },
+    {
+      "id": "te:markets:556961",
+      "time": "2026-06-05 23:14:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Prices at 2024-Lows — Arabica coffee futures continued to ease to trade slightly below $2.50 per pound, a fresh low since November 2024, pressured by prospects of robust supply. The Brazilian harvest remains in focus, with fieldwork reportedly progressing well under dry and hot conditions, supporting the flow of new beans. This reinforced expectations of a bumper crop this season. In its latest report, the USDA projected Brazil’s 2026/27 crop at a record 71.9 million bags, up 14% from 2025/26 and above the 2020/21 level. This figure is notably higher than Conab’s official estimate of 66.7 million bags. The arabica crop is forecast at 47.5 million bags, up 25% year-on-year and near record levels seen in 2018 and 2020, marking the end of a five-year period of weaker production due to adverse weather conditions. Separately, Rabobank raised its 2026/27 global coffee surplus estimate to 9.5 million bags from 7.0 million, including 5.9 million bags of arabica."
+    },
+    {
+      "id": "te:markets:556960",
+      "time": "2026-06-05 23:14:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Berkshire Hathaway Stock Price Hits 11-week High — Berkshire Hathaway shares increased to 489.47 USD, the highest since March 2026. Over the past 4 weeks, Berkshire Hathaway gained 4.16%, and in the last 12 months, it decreased 0.84%."
+    },
+    {
+      "id": "mkt:019e9859-37d4-7665-8307-af77882855e5",
+      "time": "2026-06-05 23:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Ukraine was wrong to disclose the content of their negotiations."
+    },
+    {
+      "id": "4920138",
+      "time": "2026-06-05 23:13:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 烏克蘭將我們之間的會談公之於眾的做法不妥。"
+    },
+    {
+      "id": "mkt:019e9858-9c1f-7665-8307-a399bbb1765e",
+      "time": "2026-06-05 23:13:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said he is grateful to Trump but that some work remains to be done."
+    },
+    {
+      "id": "4920137",
+      "time": "2026-06-05 23:13:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我感謝特朗普，但仍有諸多事宜有待推進。"
+    },
+    {
+      "id": "mkt:019e9858-455a-7665-8307-9812512c0a73",
+      "time": "2026-06-05 23:12:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he did not understand why Ukraine would not want the Trump administration to serve as guarantor for peace talks."
+    },
+    {
+      "id": "4920136",
+      "time": "2026-06-05 23:12:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將多艘油輪列入涉伊朗制裁清單。"
+    },
+    {
+      "id": "mkt:019e9857-e3af-7665-8307-9655fbf692aa",
+      "time": "2026-06-05 23:12:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The US will add multiple oil tankers to an Iran-related sanctions list."
+    },
+    {
+      "id": "4920135",
+      "time": "2026-06-05 23:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 我無法理解烏克蘭為何不願讓特朗普政府充當和平談判的擔保方。"
+    },
+    {
+      "id": "4920134",
+      "time": "2026-06-05 23:11:59",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【外交部發言人就美國宣佈制裁古巴國家主席等答記者問 】外交部發言人5日就美國宣佈制裁古巴國家主席等答記者問。\n有記者問：美國財政部4日釋出公告，宣佈將古巴國家主席迪亞斯-卡內爾等人及同其相關的實體和個人列入制裁名單，包括迪亞斯-卡內爾夫婦和繼子、古巴革命領導人勞爾·卡斯特羅的兒子和孫子等。古國家主席迪亞斯-卡內爾回應稱，美此舉旨在強化對古封鎖，古將堅決抵抗帝國主義侵略。古巴外交部稱美新一輪制裁是“經濟侵略”行為，並以此為藉口採取更危險的行動，包括對古巴發動軍事侵略。中方對此有何評論？\n發言人說，美方變本加厲，升級對古封鎖制裁，公然列名古巴領導人，再次暴露恃強凌弱的霸權霸道霸凌嘴臉，中方對此堅決反對。古巴穩定是國際社會的普遍期待，搞亂古巴最終也將反噬自身。中方敦促美方立即停止對古巴的封鎖和任何形式的脅迫施壓，停止侵犯古巴人民的生存權、發展權。中方將一如既往堅定支援古巴維護國家主權和安全，反對外來干涉。（新華社）"
+    },
     {
       "id": "4920133",
       "time": "2026-06-05 23:11:28",
@@ -172126,127 +172254,6 @@
         "DXY"
       ],
       "text": "Ukraine's SBU says it struck a gas terminal at Tanliuk port in southern Russia."
-    },
-    {
-      "id": "4907582",
-      "time": "2026-05-29 23:16:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭安全域性稱，已襲擊俄羅斯位於捷姆留克港南部的天然氣碼頭。"
-    },
-    {
-      "id": "mkt:019e744e-a41c-7bb7-9962-f7020eeadb02",
-      "time": "2026-05-29 23:16:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Treasury said the United States and Vietnam will disclose FX data and view FX intervention as appropriate during periods of market volatility."
-    },
-    {
-      "id": "4907581",
-      "time": "2026-05-29 23:16:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元上漲 1%，觸及日內高點 0.5994，創 3 月以來新高。"
-    },
-    {
-      "id": "4907580",
-      "time": "2026-05-29 23:15:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1366.12美元/盎司。"
-    },
-    {
-      "id": "4907579",
-      "time": "2026-05-29 23:15:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死哈馬斯加沙旅副指揮官】以色列國防軍和以色列國家安全總局（辛貝特）29日發表聯合宣告說，以軍和辛貝特27日在對加沙地帶北部的打擊中，打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）軍事分支加沙旅副指揮官伊馬德·哈桑·侯賽因·阿斯利姆。宣告說，阿斯利姆曾在2023年10月7日指揮武裝人員突襲以色列。（新華社）"
-    },
-    {
-      "id": "4907578",
-      "time": "2026-05-29 23:14:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣佈向鋁業投資 1 億加元。"
-    },
-    {
-      "id": "mkt:019e744c-ff47-7bb7-9962-e860f5df053f",
-      "time": "2026-05-29 23:14:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International crude continues to slide; WTI falls below $89】WTI fell below $89 per barrel for the first time since April 21, down 2.27% on the day. Brent traded at $89.8 per barrel, down 2.8%."
-    },
-    {
-      "id": "4907577",
-      "time": "2026-05-29 23:14:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守90美元/桶，日內跌2.97%。"
-    },
-    {
-      "id": "mkt:019e744c-acff-7bb7-9962-e6e1777a68c0",
-      "time": "2026-05-29 23:14:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump says U.S. and Iran reached agreement on nuclear issue and secondary matters outside Strait of Hormuz】Trump said on the 29th the U.S. and Iran have reached an agreement on Iran’s nuclear issue and on secondary matters outside passage through the Strait of Hormuz."
-    },
-    {
-      "id": "4907576",
-      "time": "2026-05-29 23:13:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗和阿曼外長討論霍爾木茲海峽管理問題】伊朗外長阿拉格齊29日與阿曼外交大臣巴德爾通電話後在社交媒體發文說，他們討論了霍爾木茲海峽未來的管理問題，稱兩國將共同對抗任何威脅。阿拉格齊說，他與巴德爾討論了“霍爾木茲海峽及其未來在主權責任和國際法框架內的管理問題”。在此次“富有建設性”的通話中，“我表達了伊朗聲援阿曼，共同對抗任何威脅的立場”。阿拉格齊還說，在霍爾木茲海峽管理問題上，“我們歡迎所有鄰國參與磋商”。（新華社）"
-    },
-    {
-      "id": "te:economy:555030",
-      "time": "2026-05-29 23:13:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Canada’s Budget Deficit Widens in March — Canada’s federal budget deficit expanded to CAD 29.7 billion in March 2026, up from CAD 23.9 billion in the same month a year earlier. The budgetary deficit before net actuarial losses, excluding the impact of amortizing pension and employee benefit plan revaluations, narrowed to CAD 20.6 billion from CAD 23.5 billion in March 2025. Net actuarial losses surged by 240.7%, primarily due to the accelerated amortization of losses from amendments to employee future benefit plans in 2025-26. Meanwhile, program expenses excluding actuarial losses fell by 1.9%, driven by lower direct costs following savings from benefit plan amendments announced in Budget 2025. Revenues increased by 1.1%, supported by higher personal and corporate income tax receipts, other revenues, and customs import duties tied to countermeasures against US tariffs."
-    },
-    {
-      "id": "4907575",
-      "time": "2026-05-29 23:13:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1410.00美元/盎司。"
-    },
-    {
-      "id": "4907574",
-      "time": "2026-05-29 23:12:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普說美伊就核問題和霍爾木茲海峽以外次要事項達成一致】美國總統特朗普29日說，美國和伊朗就伊朗核問題和霍爾木茲海峽通行以外的次要事項已達成一致。（新華社）"
     }
   ]
 }
