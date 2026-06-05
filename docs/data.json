@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-06 05:28:38",
-  "count": 18781,
+  "updated": "2026-06-06 05:32:18",
+  "count": 18786,
   "items": [
+    {
+      "id": "4920425",
+      "time": "2026-06-06 05:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：馬斯克之前有過一段不愉快的經歷，但現在他是我朋友。"
+    },
+    {
+      "id": "mkt:019e99b1-4cb0-7665-830d-d185e746491d",
+      "time": "2026-06-06 05:29:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.65% to 100.068 on the 5th】Dollar index (DXY) rose 0.65% to 100.068 at the New York close on the 5th. EUR/USD 1.1523, down from 1.1614 in the previous session; GBP/USD 1.3337, down from 1.3425. USD/JPY 160.17, up from 160.02; USD/CHF 0.7962, up from 0.7892; USD/CAD 1.3949, up from 1.3899; USD/SEK 9.4735, up from 9.3737."
+    },
+    {
+      "id": "4920424",
+      "time": "2026-06-06 05:29:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：埃隆·馬斯克80%的時候很聰明，20%的時候很糟糕。"
+    },
+    {
+      "id": "4920423",
+      "time": "2026-06-06 05:29:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥西南部近海地區發生5.4級地震】根據歐洲-地中海地震中心報告，當地時間5日14時55分，墨西哥西南部格雷羅州近海地區發生5.4級地震，震源深度32公里。目前暫無人員傷亡及財產損失報告。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e99b0-cfee-7665-830d-cfcab1fefbfd",
+      "time": "2026-06-06 05:29:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall on the 5th】NYMEX July WTI fell $2.50 to $90.54/bbl (-2.69%); ICE Brent August fell $1.94 to $93.09/bbl (-2.04%) at the close on the 5th."
+    },
+    {
+      "id": "mkt:019e99b0-35d8-7665-830d-c4f442e124f7",
+      "time": "2026-06-06 05:28:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said ensuring uninterrupted oil flows through the Strait of Hormuz, to help lower gasoline and diesel prices, requires reaching a solution with Iran."
+    },
     {
       "id": "4920422",
       "time": "2026-06-06 05:22:32",
@@ -173097,14 +173160,6 @@
         "國際"
       ],
       "text": "【NBC：美國尚未證實伊朗在霍爾木茲海峽佈雷 】據美國全國廣播公司(NBC)援引兩名美國官員和一名知情人士報道，經過持續搜尋，美國軍方尚未證實伊朗在霍爾木茲海峽佈雷。知情人士表示，軍方搜查發現了一些可能為水雷的物體，但尚未有任何被確認。該知情人士說：“如果說有什麼的話，威脅遠低於我們此前的擔憂。”"
-    },
-    {
-      "id": "4907873",
-      "time": "2026-05-30 05:29:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：在我們不久前介入之前，肯尼迪中心這些年來已經虧損了數億美元。"
     }
   ]
 }
