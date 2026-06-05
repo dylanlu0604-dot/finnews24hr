@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-05 22:56:09",
-  "count": 18702,
+  "updated": "2026-06-05 23:00:19",
+  "count": 18701,
   "items": [
+    {
+      "id": "4920115",
+      "time": "2026-06-05 22:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國宇航局發言人：美國宇航局已指令“龍”飛船上的航天員返回國際空間站，按原定計劃開展工作。"
+    },
+    {
+      "id": "4920114",
+      "time": "2026-06-05 22:59:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航天局發言人表示：期待與俄羅斯航天集團合作，以協作方式解決洩漏問題。"
+    },
+    {
+      "id": "4920113",
+      "time": "2026-06-05 22:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局發言人：鑑於目前情況，美國國家航空航天局已指示“龍”飛船內的航天員結束避險程式。"
+    },
+    {
+      "id": "4920112",
+      "time": "2026-06-05 22:58:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "受訪的34位經濟學家中有28位表示，加拿大央行將在2026年底前將隔夜利率維持在2.25%；4月26日的調查中，該比例為41位受訪者中的33位。"
+    },
+    {
+      "id": "4920111",
+      "time": "2026-06-05 22:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "媒體受訪的全部33名經濟學家均表示，加拿大銀行將於6月10日將隔夜利率維持在2.25%不變。"
+    },
+    {
+      "id": "te:markets:556957",
+      "time": "2026-06-05 22:58:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Swing Lower — European equity indices were due to close lower on Friday amid the prolonged impasse between the US and Iran and the outlook of higher rates by major central banks. The Euro STOXX 50 fell 0.4% to 6,080 and the STOXX Europe 600 pared gains to close below the flatline at 624. The ECB is due to raise its interest rates next week after updated data reflected relatively steady growth in the main Eurozone economies, save for Ireland, which had a swing in flows for multinational companies pressure the bloc's GDP. In turn, expectations of a Fed hike this year gained ground after amid strong US jobs report and little hopes of a significant recovery in energy prices. AI infrastructure stocks sank further after the muted outlook for Broadcom triggered a pivot out of the sector. Infineon, Adyen, and Nokia fell over 7%. In turn, UniCredit, BBVA, and ING dropped around 1% each. Both the Euro STOXX 50 and STOXX Europe 600 were due to close the week with muted changes."
+    },
+    {
+      "id": "4920110",
+      "time": "2026-06-05 22:58:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航天局發言人：俄羅斯航天集團已暫停週五在星辰號服務艙轉移通道內開展的結構維修工作。"
+    },
+    {
+      "id": "te:markets:556956",
+      "time": "2026-06-05 22:58:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Stock Price Hits 4-week High — Parker-Hannifin shares increased to 895.67 USD, the highest since May 2026. Over the past 4 weeks, Parker -Hannifin lost 0.83%, and in the last 12 months, it increased 33.35%."
+    },
+    {
+      "id": "4920109",
+      "time": "2026-06-05 22:57:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【香港黃金產業集團：媒體報道的純利目標不構成盈利預測】香港黃金產業集團釋出澄清公告，針對網際網路上一篇關於公司未來10年發展戰略規劃的文章，特別澄清其中提到的純利目標並非基於任何財務期間的預期或估計財務業績，也非香港聯合交易所有限公司證券上市規則項下的盈利預測。公司強調，純利目標的達成受限於廣泛因素，可能超出集團的控制範圍，無法保證實現。"
+    },
+    {
+      "id": "mkt:019e9849-95fa-7665-8307-0a3b04ce02b6",
+      "time": "2026-06-05 22:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's vice-presidential candidate said the conservative presidential candidate will attract private capital into Colombia."
+    },
+    {
+      "id": "4920107",
+      "time": "2026-06-05 22:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞副總統候選人表示，哥倫比亞保守派總統候選人承諾將撤銷現行石油政策。"
+    },
+    {
+      "id": "mkt:019e9849-1a81-7665-8307-04b57d9453b8",
+      "time": "2026-06-05 22:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's vice-presidential candidate said the conservative presidential candidate has pledged to roll back existing oil policy."
+    },
+    {
+      "id": "mkt:019e9848-532c-7665-8306-fc500a06b2eb",
+      "time": "2026-06-05 22:55:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. preparing IAEA resolution to condemn Iran; could complicate U.S.-Iran talks】U.S. diplomats are preparing a draft resolution to condemn Iran for presentation at next week’s 35-member IAEA board meeting, but the text has not been formally circulated, sources said. The step could complicate ongoing U.S.-Iran negotiations; Iran has historically responded to board resolutions by escalating nuclear activities or reducing cooperation with the agency, creating near-term geopolitical and market risk. Russia’s permanent IAEA representative warned the move could 'anger Iran.' The IAEA last passed a resolution on Iran in November requiring Iran to 'immediately' explain its enriched-uranium stockpile and the status of bombed nuclear facilities; Iran has not complied."
+    },
+    {
+      "id": "4920105",
+      "time": "2026-06-05 22:55:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第四屆鏈博會首批進境展品通關】6月5日，北京海關為第四屆中國國際供應鏈促進博覽會完成展會備案並辦理首批進境展品通關手續。來自法國空客公司的兩架1:20飛機模型和宣傳資料，透過“一體化通關”和“暫準進口單證冊（ATA）”兩種方式同步辦理了通關手續。據悉，第四屆鏈博會將於6月22日至6月26日在北京中國國際展覽中心（順義館）舉辦，已有來自85個國家、地區和國際組織的676家中外鏈主企業、專精特新企業和行業機構確認參展。（新華社）"
+    },
     {
       "id": "4920104",
       "time": "2026-06-05 22:54:01",
@@ -172063,155 +172191,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said no exchange of funds will take place until further notice."
-    },
-    {
-      "id": "te:markets:555020",
-      "time": "2026-05-29 23:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Increases by 1.28% — Top currency gainers are Indian Rupee (1.28%), New Zealand Dollar (0.89%), Australian Dollar (0.44%), British Pound (0.25%) and Euro (0.17%). Biggest losers are South Korean Won (-0.48%) and Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "mkt:019e7440-0c37-7eef-a0f1-cf8fca2ea15d",
-      "time": "2026-05-29 23:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filing shows Zhizu Wulian Technology Group Co., Ltd. has submitted an application to list on HKEX."
-    },
-    {
-      "id": "mkt:019e7440-0b13-7eef-a0f1-c1b055b4fc30",
-      "time": "2026-05-29 23:00:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump said ships stranded in the Strait of Hormuz may begin to return."
-    },
-    {
-      "id": "4907556",
-      "time": "2026-05-29 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】豆一連續跌2.01%，紙漿連續跌1.17%，低硫燃料油連續跌1.14%，苯乙烯連續跌1.12%，焦炭連續漲0.89%。"
-    },
-    {
-      "id": "4907555",
-      "time": "2026-05-29 22:59:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "新興市場貨幣指數觸及盤中高點。"
-    },
-    {
-      "id": "mkt:019e743f-a9cb-7eef-a0f1-bcd21c4ab66a",
-      "time": "2026-05-29 22:59:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "EM FX index hits intraday high."
-    },
-    {
-      "id": "4907554",
-      "time": "2026-05-29 22:59:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐菲律賓大使館對於中國公民反映在菲被羈押期間有關問題的反饋說明】5月29日，據中國駐菲律賓大使館公眾號訊息，近日，有不具名的中國公民透過社交媒體反映菲監獄羈押條件惡劣，衛生與醫療條件差；在押人員遣返流程繁瑣，費用高昂；甚至有中國公民在羈押期間不幸離世。我館對上述情況高度重視，迅速進行了解核實，查詢確認涉事監獄。根據菲方通報，一名涉離岸博彩（POGO）被羈押的中國公民5月28日在菲移民局監獄突然離世，原因待查。我館即向菲方提出嚴正交涉，要求對中國公民死亡情況展開全面調查，如存在管理責任或過失，應嚴肅追究處理。同時，聯絡死者家屬，協助處理善後事宜。中國駐菲使領館一貫高度重視保護在菲中國公民的安全和合法權益。如有中國公民在菲被羈押，我們均要求菲方及時通報案情，儘快安排領事探視，改善羈押條件，並盡力協助在押中國公民解決實際困難。我館將持續深入踐行“外交為民”宗旨，用心用情用力為同胞服務。我館將敦促菲方依法公正辦案，並就加快對涉案中國公民遣返程序及降低相關費用等問題繼續做菲方工作，全力保護在菲中國公民的安全與正當合法權益。中國外交部和駐菲使領館領事保護與協助熱線24小時無休，中國公民如遇緊急情況，可隨時聯絡。使領館再次提醒在菲中國公民嚴格遵守當地法律，切實維護自身安全；如已逾期居留或被羈押，請循正規渠道辦理遣返手續，並關注案件法律程式，謹防被“黑中介”坑騙。"
-    },
-    {
-      "id": "mkt:019e743e-6262-7eef-a0f1-b4d83da7be84",
-      "time": "2026-05-29 22:58:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fire at Russia's Tamlyuk port has been extinguished."
-    },
-    {
-      "id": "te:markets:555019",
-      "time": "2026-05-29 22:58:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Dollar Hits 4-week Low — The Hong Kong Dollar touched 7.84 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.06%, and in the last 12 months, it decreased 0.05%."
-    },
-    {
-      "id": "mkt:019e743d-ddfc-7eef-a0f1-a827d03bb6dd",
-      "time": "2026-05-29 22:57:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Trump said the US will coordinate with Iran and the IAEA to excavate uranium deposits and destroy them."
-    },
-    {
-      "id": "mkt:019e743d-a410-7eef-a0f1-a13fabd3df7d",
-      "time": "2026-05-29 22:57:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iran's uranium will be dug out by the U.S."
-    },
-    {
-      "id": "4907553",
-      "time": "2026-05-29 22:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國證券交易委員會提議撤銷氣候相關資訊披露規則。"
-    },
-    {
-      "id": "mkt:019e743d-27fd-7eef-a0f1-9e1ab476a592",
-      "time": "2026-05-29 22:57:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Zhejiang Laifu Harmonic Drive Transmission Co Ltd has filed for a Hong Kong listing, according to an HKEX filing."
-    },
-    {
-      "id": "4907552",
-      "time": "2026-05-29 22:56:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【標普：德國通脹走軟令歐洲央行未來加息存在變數】標普全球市場財智的Timo Klein在一份報告中表示，在5月份資料弱於預期之後，德國通脹率目前更有可能在2026年底達到3.5%左右的峰值，而不是4.0%。5月份整體通脹率從4月份的2.9%降至2.6%。“雖然燃油稅退稅是一個關鍵因素，但食品、酒店和餐廳價格也意外下行，“他說。Klein表示，雖然歐洲央行料將在6月份的下一次會議上收緊貨幣政策，但在7月份後續加息25個基點的預期則不太確定。他補充說，進一步的舉措將取決於中東戰爭以及即將公佈的歐元區5月和6月通脹資料。"
-    },
-    {
-      "id": "mkt:019e743c-ac60-7eef-a0f1-961b5ce48b03",
-      "time": "2026-05-29 22:56:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said the maritime blockade will be lifted."
     }
   ]
 }
