@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-06 05:09:43",
-  "count": 18780,
+  "updated": "2026-06-06 05:13:29",
+  "count": 18779,
   "items": [
+    {
+      "id": "4920411",
+      "time": "2026-06-06 05:11:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大對待我們農民太苛刻了。"
+    },
+    {
+      "id": "4920410",
+      "time": "2026-06-06 05:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗戰事：這算不上一場大規模戰爭，只是軍事衝突，屬於演練性質。"
+    },
+    {
+      "id": "4920409",
+      "time": "2026-06-06 05:09:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國國務院在國務卿魯比奧主導下向伊朗世界盃代表隊核發簽證，附帶嚴苛監管措施。"
+    },
     {
       "id": "4920408",
       "time": "2026-06-06 05:08:20",
@@ -173066,43 +173091,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.01%，報15762點。"
-    },
-    {
-      "id": "te:economy:555064",
-      "time": "2026-05-30 05:13:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance."
-    },
-    {
-      "id": "4907864",
-      "time": "2026-05-30 05:12:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百勝餐飲集團盤後股價上漲3%，此前有報道稱其正就出售必勝客進行談判。"
-    },
-    {
-      "id": "4907863",
-      "time": "2026-05-30 05:10:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮管理與預算辦公室簽署函件，白宮更新《A-136 通告》。"
-    },
-    {
-      "id": "4907862",
-      "time": "2026-05-30 05:10:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "百勝集團正就將必勝客出售給朗蘭奇集團展開獨家洽談。"
     }
   ]
 }
