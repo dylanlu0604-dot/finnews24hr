@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-06 01:24:46",
-  "count": 18756,
+  "updated": "2026-06-06 01:28:39",
+  "count": 18759,
   "items": [
+    {
+      "id": "mkt:019e98d3-3a6a-7665-830a-d78d3b6bd0bf",
+      "time": "2026-06-06 01:27:20",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bearish"
+      ],
+      "text": "Paramount (PSKY.O) shares dropped sharply, down more than 4%."
+    },
+    {
+      "id": "4920243",
+      "time": "2026-06-06 01:24:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國多個州正準備提起訴訟，以阻止派拉蒙收購華納兄弟。"
+    },
+    {
+      "id": "mkt:019e98d0-dfa0-7665-830a-cfb569eaa20a",
+      "time": "2026-06-06 01:24:45",
+      "tags": [
+        "MKT News",
+        "WBD.O"
+      ],
+      "text": "Warner Bros. Discovery (WBD.O) shares fell 1.4%."
+    },
     {
       "id": "mkt:019e98d0-7701-7665-830a-c6ead4dbcdf8",
       "time": "2026-06-06 01:24:19",
@@ -9,6 +36,14 @@
         "MKT News"
       ],
       "text": "Several US states are preparing to file lawsuits seeking to block Paramount's acquisition of Warner Bros."
+    },
+    {
+      "id": "4920242",
+      "time": "2026-06-06 01:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "華納兄弟股價快速下挫，跌幅 1.3%。"
     },
     {
       "id": "mkt:019e98d0-3881-7665-830a-bd38b6d36bef",
@@ -172739,14 +172774,6 @@
         "MKT News"
       ],
       "text": "Financial Times reported Bank of England Governor Bailey said a ceasefire in the Middle East would still bring uncertainty."
-    },
-    {
-      "id": "4907676",
-      "time": "2026-05-30 01:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊通社：伊朗表示仍在與美國繼續進行資訊交流。"
     }
   ]
 }
