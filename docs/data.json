@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-06 04:05:00",
-  "count": 18796,
+  "updated": "2026-06-06 04:08:50",
+  "count": 18797,
   "items": [
+    {
+      "id": "mkt:019e9966-882e-7665-830d-854a24a1e3c3",
+      "time": "2026-06-06 04:08:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "S&P 500 snapped a nine-week winning streak."
+    },
+    {
+      "id": "4920366",
+      "time": "2026-06-06 04:06:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "市場訊息：受愛潑斯坦相關風波影響後，高盛執行長挽留 公司首席法律顧問留任。"
+    },
+    {
+      "id": "mkt:019e9964-7250-7665-830d-7e88ac6d82d8",
+      "time": "2026-06-06 04:05:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities on June 5: Dow Jones Industrial Average fell 695.15 points (-1.35%) to 50,866.78 at the close; S&P 500 dropped 200.63 points (-2.65%) to 7,383.68; Nasdaq Composite slid 1,121.53 points (-4.18%) to 25,709.43."
+    },
+    {
+      "id": "mkt:019e9964-683c-7665-830d-7519e7800d71",
+      "time": "2026-06-06 04:05:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bearish",
+        "INTC.O",
+        "AVGO.O"
+      ],
+      "text": "【US close: Nasdaq down >4%; most semiconductor stocks fall】US stocks closed Friday with the Dow down 1.35%, the S&P 500 down 2.65% and the Nasdaq down 4.18%. Semiconductors led losses: the Philadelphia Semiconductor Index widened to about a 10% decline at the close. NVIDIA (NVDA) fell >6%, TSMC (TSM) dropped 6.68%, Broadcom (AVGO) fell nearly 8% and Intel (INTC) slid >11%. The Nasdaq Golden Dragon China Index fell 3.56%."
+    },
+    {
+      "id": "4920365",
+      "time": "2026-06-06 04:05:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500終結九連漲走勢。"
+    },
+    {
+      "id": "4920364",
+      "time": "2026-06-06 04:05:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國消費者借貸再度強勁增加 創2022年以來最大連續兩月增幅】美國消費者借款4月再次強勁增加，創下2022年底以來最大的連續兩月增幅。美聯儲週五公佈的資料顯示，4月未償信貸總額增加207億美元，3月修正後為增加222億美元。接受媒體調查的經濟學家預估中值為增加177億美元。汽車貸款和學費貸款等非迴圈信貸4月增加91億美元。信用卡和其他迴圈信貸未償餘額增加116億美元。該報告不包括抵押貸款。隨著汽油價格上漲對收入造成更大擠壓，許多美國人正面臨額外財務壓力。儘管勞動力市場動能似乎正在增強，但工資增長正在放緩，這可能促使一些消費者舉債或依靠儲蓄來維持支出。對於揹負信用卡未清償餘額的美國人來說，這些賬戶的高利率可能構成相當大的財務負擔。最新可獲得資料顯示，截至2月，被收取利息得信用卡賬戶平均利率為21.5%。借款人短期內也不太可能獲得任何緩解。目前預計美聯儲將在年底前加息，以應對戰爭推動的通脹回升。"
+    },
     {
       "id": "4920363",
       "time": "2026-06-06 04:04:30",
@@ -173158,48 +173230,6 @@
         "國際"
       ],
       "text": "城堡集團針對美國證券交易委員會批准某交易平臺的異議申訴失敗。"
-    },
-    {
-      "id": "4907794",
-      "time": "2026-05-30 04:07:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員向半島電視臺表示，美方談判人員毫無道德底線，且不斷變更訴求。"
-    },
-    {
-      "id": "4907793",
-      "time": "2026-05-30 04:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認拉脫維亞“A/A-1”評級；展望穩定。"
-    },
-    {
-      "id": "4907792",
-      "time": "2026-05-30 04:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技行業ETF收漲超2.2%，領跑美股行業ETF，5月半導體ETF累漲超66%】週五（5月29日），科技行業ETF收漲2.23%，全球科技股指數ETF、網路股指數ETF至少漲1.61%，半導體ETF則收跌0.15%，可選消費ETF跌0.97%，能源業ETF跌1.11%。1-5月，半導體ETF累漲66.31%，全球科技股指數ETF、科技行業ETF、能源業ETF至少漲26.79%，醫療業ETF則累跌3.05%，金融業ETF跌5.34%。"
-    },
-    {
-      "id": "mkt:019e7557-45c0-7bb7-9966-95fbf1583d94",
-      "time": "2026-05-30 04:05:14",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) shares closed up nearly 33%."
-    },
-    {
-      "id": "4907791",
-      "time": "2026-05-30 04:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認南非外幣評級“BB”，本幣評級“BB+”；展望維持正面。"
     }
   ]
 }
