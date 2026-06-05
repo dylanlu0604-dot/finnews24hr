@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-05 23:08:14",
-  "count": 18704,
+  "updated": "2026-06-05 23:12:27",
+  "count": 18707,
   "items": [
+    {
+      "id": "4920133",
+      "time": "2026-06-05 23:11:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美石油行業警告：未來幾周內全球能源價格可能飆升】美國石油行業高管警告稱，霍爾木茲海峽航運受阻導致的原油短缺持續削減石油庫存，未來幾周全球能源價格可能飆升。美國能源資訊局報告指出，美國商業石油庫存減少800萬桶，目前比近五年平均低3%。美國政府釋放戰略石油儲備後，其規模逼近2023年7月低點。航空燃油價格高企，美國航司計劃兩個月後暫停部分國內航線，尤其是進出加州的航線。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9856-a35d-7665-8307-880b6060a7f6",
+      "time": "2026-06-05 23:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Zelensky mentioned his age, but what matters is not age but the ability to perform the job."
+    },
+    {
+      "id": "mkt:019e9856-65a0-7665-8307-853b7f488499",
+      "time": "2026-06-05 23:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he had read Zelensky's letter."
+    },
+    {
+      "id": "4920132",
+      "time": "2026-06-05 23:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 他提及了我的年齡，但關鍵不在於年紀，而在於處事能力。"
+    },
+    {
+      "id": "4920131",
+      "time": "2026-06-05 23:10:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我粗略翻閱了澤連斯基的信函。"
+    },
+    {
+      "id": "4920130",
+      "time": "2026-06-05 23:10:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1280.54美元/盎司。"
+    },
+    {
+      "id": "4920129",
+      "time": "2026-06-05 23:09:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯：烏軍違反停火協議襲擊扎波羅熱核電站】俄羅斯國家原子能公司執行長利哈喬夫5日在聖彼得堡對當地媒體說，烏克蘭武裝部隊當天對扎波羅熱核電站發動了無人機襲擊，造成3名工程師和5名俄軍士兵受傷。 利哈喬夫稱，烏軍第一次發動襲擊是在莫斯科時間12時15分，目標是正在核電站進行搶修的俄國家原子能公司專家；第二次襲擊發生在13時15分，烏軍利用無人機向俄國防部排雷小組投擲了一枚彈藥。 5日上午8時許，國際原子能機構在社交媒體上發文說，由其斡旋達成的俄羅斯與烏克蘭在扎波羅熱核電站附近戰線區域性停火協議當天生效。此次臨時停火旨在修復核電站重要輸電線路，防止核事故發生。 俄國防部當天在社交平臺發文稱，烏軍襲擊扎波羅熱核電站就發生在停火協議生效後的最初幾小時內。 利哈喬夫指出，烏軍每天密集的空襲對整個歐洲的核安全構成了切實、而非“潛在”的威脅。俄方已就烏克蘭違反停火協議提請國際原子能機構予以關注，俄方將採取一切措施保障民眾安全。(新華社)"
+    },
+    {
+      "id": "4920128",
+      "time": "2026-06-05 23:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩： 黑山有望在 2028 年前加入歐盟。"
+    },
+    {
+      "id": "mkt:019e9854-7994-7665-8307-79255a7e9c5c",
+      "time": "2026-06-05 23:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury announced new Iran-related sanctions."
+    },
+    {
+      "id": "4920127",
+      "time": "2026-06-05 23:08:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布涉伊朗相關制裁名單。"
+    },
+    {
+      "id": "mkt:019e9853-d50a-7665-8307-77fdde3063ff",
+      "time": "2026-06-05 23:08:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Fitch: Strait of Hormuz reopening would return oil market to surplus】Fitch says the Strait of Hormuz closure caused a logistics-driven supply shock but has not altered the market’s underlying trajectory. Assuming the strait reopens around end‑July (implying a five‑month closure), Fitch’s baseline expects rapid regional production recovery, strong non‑OPEC supply growth and potentially more aggressive OPEC policy to push the market back into surplus in Q4 2026 and weigh on prices; the house forecasts 2026 Brent at $87/bbl. Timing is highly uncertain, creating binary price risk; current gains reflect a temporary logistics shock rather than permanent loss of production capacity, and Brent should drop sharply from March–July highs after reopening."
+    },
     {
       "id": "4920126",
       "time": "2026-06-05 23:07:14",
@@ -172147,86 +172247,6 @@
         "國際"
       ],
       "text": "【特朗普說美伊就核問題和霍爾木茲海峽以外次要事項達成一致】美國總統特朗普29日說，美國和伊朗就伊朗核問題和霍爾木茲海峽通行以外的次要事項已達成一致。（新華社）"
-    },
-    {
-      "id": "4907573",
-      "time": "2026-05-29 23:11:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4590美元/盎司，日內漲2.13%。"
-    },
-    {
-      "id": "4907572",
-      "time": "2026-05-29 23:11:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲2%，現報4623.12美元/盎司。"
-    },
-    {
-      "id": "te:economy:555029",
-      "time": "2026-05-29 23:10:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 7-week Low — Germany 10 Year Government Bond Yield decreased to 2.93%, the lowest since April 2026. Over the past 4 weeks, Germany 10Y Bond Yield lost 9.92 basis points, and in the last 12 months, it increased 42.25 basis points."
-    },
-    {
-      "id": "4907571",
-      "time": "2026-05-29 23:10:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普說伊朗濃縮鈾材料將被挖出銷燬】美國總統特朗普29日說，伊朗濃縮鈾材料將由美國與伊朗以及國際原子能機構密切協調配合，從被炸燬的伊朗核設施挖出並銷燬。在另行通知之前，不涉及任何金錢交換。（新華社）"
-    },
-    {
-      "id": "mkt:019e7449-870c-7bb7-9962-d905e567368b",
-      "time": "2026-05-29 23:10:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude continued to weaken in short-term trade, trading at $89.05/bbl, down 2.21%; Brent crude down 2.5%."
-    },
-    {
-      "id": "mkt:019e7449-49de-7bb7-9962-d4f14462aa02",
-      "time": "2026-05-29 23:10:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump lays out conditions to end hostilities with Iran】President Trump said on the 29th that Iran must agree never to possess nuclear weapons; the Strait of Hormuz must be reopened immediately to two-way, unimpeded passage with no transit fees; and all sea mines must be cleared."
-    },
-    {
-      "id": "mkt:019e7447-b9bd-7bb7-9962-cb64393dac60",
-      "time": "2026-05-29 23:08:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Kazakhstan willing to store Iran’s near‑weapons‑grade uranium if US‑Tehran deal reached】IAEA director Grossi said Kazakhstan has signalled willingness to receive and store Iran’s near‑weapons‑grade enriched uranium — roughly 440 kg enriched as much as 60% — provided Washington and Tehran reach an agreement on Iran’s nuclear programme. Grossi said he raised the issue after meeting Kazakh President Tokayev in Astana. The fate of that stockpile remains one of the thorniest items in back‑channel talks aimed at ending hostilities involving Iran; former president Trump had previously demanded the material be moved out of Iran."
-    },
-    {
-      "id": "4907570",
-      "time": "2026-05-29 23:08:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲2%，現報4587.46美元/盎司。"
     }
   ]
 }
