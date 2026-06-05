@@ -1,7 +1,165 @@
 {
-  "updated": "2026-06-05 20:48:51",
-  "count": 18653,
+  "updated": "2026-06-05 20:52:48",
+  "count": 18665,
   "items": [
+    {
+      "id": "mkt:019e97d7-1dac-7fff-a930-aa34c9dd0b57",
+      "time": "2026-06-05 20:51:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD slipped below 1.16, down 0.08% intraday."
+    },
+    {
+      "id": "4919855",
+      "time": "2026-06-05 20:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰拉帕克能源園區獲美國能源部1850萬美元撥款，用於西弗吉尼亞州發電與碳捕捉專案。"
+    },
+    {
+      "id": "mkt:019e97d6-c1d1-7fff-a930-a511650d42d0",
+      "time": "2026-06-05 20:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Uganda's Ministry of Health reported three new confirmed Ebola cases."
+    },
+    {
+      "id": "4919854",
+      "time": "2026-06-05 20:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心官員：合作伙伴為抗擊埃博拉作出的認捐總額為3.158億美元。"
+    },
+    {
+      "id": "4919853",
+      "time": "2026-06-05 20:50:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST正平：提示股票交易及多項經營風險】*ST正平公告稱，公司股票短期內劇烈波動，4月28日至5月12日累計漲幅24.16%，5月13日至6月3日跌幅16.44%，交易風險高。公司尚未回覆上交所2025年年報問詢函，撤銷退市風險警示結果不確定；2025年末經審計淨資產5049.42萬元，不排除後續調整為負；礦產資源開採能力不足、採礦權可能被凍結；預重整申請能否受理、債權申報準確性和完整性均存重大不確定性。"
+    },
+    {
+      "id": "mkt:019e97d6-2160-7fff-a930-9b5002fc0bee",
+      "time": "2026-06-05 20:50:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC says fines will be allocated to harmed investors to the extent practicable."
+    },
+    {
+      "id": "te:markets:556912",
+      "time": "2026-06-05 20:50:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Heads for Over 2% Weekly Loss — Gold prices fell below $4,450 per ounce on Friday, on track for a weekly decline of over 2%, as a stronger-than-expected US jobs report and ongoing Middle East uncertainty kept inflation and interest rate concerns in focus. The May jobs report revealed the US economy added 172,000 jobs, significantly above the forecasted 85,000, while the unemployment rate held steady at 4.3% and annual wage growth moderated to 3.4%, in line with expectations. This prompted investors to increase bets on a Federal Reserve interest rate hike, with markets now pricing in a quarter-point increase by year-end. Meanwhile, investors closely monitored developments in the Middle East, where US President Donald Trump stated that peace negotiations were nearing their final stage. However, Iran’s Foreign Minister dismissed any meaningful progress, and Iran-backed Hezbollah rejected a US-mediated ceasefire proposal."
+    },
+    {
+      "id": "4919852",
+      "time": "2026-06-05 20:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月非農就業增幅低於十年曆史預測區間下限。"
+    },
+    {
+      "id": "mkt:019e97d5-b196-7fff-a930-938b7455f803",
+      "time": "2026-06-05 20:50:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Securities and Exchange Commission ordered Franklin Templeton affiliate Western Asset Management Company (WAMCO) to pay a $100m civil penalty for failing to prevent misconduct by its former co-chief investment officer; WAMCO will administer the SEC fair fund."
+    },
+    {
+      "id": "4919851",
+      "time": "2026-06-05 20:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國失業率變動落入《華爾街日報》10年期歷史預測區間內。"
+    },
+    {
+      "id": "4919850",
+      "time": "2026-06-05 20:49:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會：WAMCO 負責管理公平賠償基金。"
+    },
+    {
+      "id": "te:markets:556910",
+      "time": "2026-06-05 20:48:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower after NFP — Futures tracking US equities inched down on Friday after a strong jobs report consolidated the outlook of restrictive interest rates, while chip producers extended their selloff. Contracts for the S&P 500 and the Nasdaq 100 fell 0.5% and 1.3%, respectively, while the Dow hovered near the flatline at a record high. The US added a net 172K jobs in May, well above estimates. Markets increased bets of a rate hike by the Fed this year as a strong labor market adds leeway for the Fed to fight inflationary risks as the standstill between Iran and the US maintain the surge in energy prices. Banks and defensive stocks pared premarket gains but remained in the green to support the Dow, with Visa and J&J gaining less than 1%. In turn, Broadcom was 2% down to extend the 13% slump from last session after missing guidance estimates. Micron slumped 4% and Nvidia lost 2%. S&P Dow Jones denied the fast entry for SpaceX into its indices ahead of its IPO next week, expected to be the largest in history."
+    },
+    {
+      "id": "4919849",
+      "time": "2026-06-05 20:48:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【多地出臺購房補貼新政 業內：相關政策研究和制定要精細化】近段時間以來，加大購房補貼力度成為多地樓市政策的新著力點。中指研究院的資料顯示，今年前5個月全國各省市（縣）出臺政策超430條。從政策方向上看，涉及最佳化限制性政策、調整公積金貸款、發放購房補貼、完善城市更新相關配套政策等內容。多位購房者表示，期待更多降低購房壓力的新政策，包括房貸利率和交易稅費能夠進一步下調、發放購房補貼等。廣東省住房政策研究中心首席研究員李宇嘉提出，購房補貼政策可能存在一些問題。例如補貼可能導致後續的需求提前釋放，而不是產生增量需求，導致補貼一停，銷售態勢就恢復到常態。如果補貼一直延續下去，暫不論地方財力支援。即便有財政實力，但對於市場來說，就認為是新常態，自然也不會因為有補貼而加速購房。此外，補貼還要選擇時機，也要精細化研究，哪些人群對補貼政策比較敏感，有針對性設計補貼發放範圍。“總之，政策研究和制定要精細化，將寶貴的財政資金用在刀刃上。”（證券時報）"
+    },
+    {
+      "id": "mkt:019e97d4-112b-7fff-a930-8dc3291a4660",
+      "time": "2026-06-05 20:48:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Multiple regions expand home-purchase subsidies; industry urges finer policy design】Several Chinese regions have stepped up home-purchase subsidies. China Index Academy says provinces, cities and counties issued more than 430 housing-related measures in the first five months of the year. Measures broadly include easing restrictive policies, adjusting housing provident fund loans, issuing purchase subsidies and strengthening urban renewal support. Homebuyers are seeking further relief such as lower mortgage rates, reduced transaction taxes and direct subsidies. Li Yujia, chief researcher at the Guangdong Provincial Housing Policy Research Center, warns subsidies can front-load demand rather than create net new demand, and sales may revert once subsidies end; if subsidies become permanent markets may treat them as the new normal and they will no longer accelerate buying. She says timing and targeted design are critical to direct scarce fiscal resources to subsidy-sensitive groups."
+    },
+    {
+      "id": "mkt:019e97d3-cb40-7fff-a930-80f998d42731",
+      "time": "2026-06-05 20:48:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports Lebanese President Aoun said Iran is using Lebanon as a bargaining chip in negotiations with the US."
+    },
+    {
+      "id": "4919848",
+      "time": "2026-06-05 20:48:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統約瑟夫·奧恩：伊朗正將黎巴嫩用作其與美國談判的籌碼。"
+    },
+    {
+      "id": "4919847",
+      "time": "2026-06-05 20:47:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鹽田港：公司經營業務不包括冷鏈物流】鹽田港(000088)6月5日在業績說明會上表示，公司經營業務不包括冷鏈物流。"
+    },
+    {
+      "id": "4919846",
+      "time": "2026-06-05 20:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會：富蘭克林旗下WAMCO將支付1億美元民事罰款。"
+    },
     {
       "id": "4919845",
       "time": "2026-06-05 20:47:48",
@@ -171756,60 +171914,6 @@
         "Impact bearish"
       ],
       "text": "【S&P 500 posts \"two-sigma\" rally; quick money may be exhausted】S&P 500 has returned to record highs after a >19% surge in 41 trading days from the March low, but the pace of gains has materially slowed, DataTrek Research says. DataTrek describes the rebound as approaching a two-sigma move—about two standard deviations above any 100‑day average return—which could indicate momentum-driven \"quick money\" is largely spent. The firm warns investors to prepare for a slower, choppier US summer, with consolidation or range-bound trading likely, Jessica Rabe wrote."
-    },
-    {
-      "id": "4907323",
-      "time": "2026-05-29 20:51:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Simkus：6月後可能需要第二次加息】歐洲央行管理委員會成員Gediminas Simkus在接受採訪時表示，在市場普遍預期的6月加息之後，歐洲央行可能不得不再度加息。“有第二次加息行動的可能性更大，”他在週五發表的訪談中說，“但我認為我們現在還無法確定（第二次加息）會發生在7月、9月還是10月。”這番言論是迄今為止關於歐洲央行利率路徑最為鷹派的表態之一。此前，儘管Simkus的大多數同事都暗示下個月可能加息，但普遍拒絕推測此後的政策走向。他的觀點與市場預期一致，目前市場已完全消化了今年加息兩次的預期。"
-    },
-    {
-      "id": "4907322",
-      "time": "2026-05-29 20:50:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵傳媒收到證券虛假陳述案件保險賠付款1894.61萬元】粵傳媒5月29日晚釋出公告，公司此前向保險公司投保了責任保險，因公司收購上海香榭麗廣告傳媒股份有限公司引發證券虛假陳述責任糾紛系列訴訟案件，公司依規向保險公司提起理賠申請。近日，公司收到保險公司支付的保險賠付款，金額合計1894.61萬元。"
-    },
-    {
-      "id": "4907321",
-      "time": "2026-05-29 20:50:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【G95首都地區環線高速公路天津段開工建設】記者從天津市交通運輸委獲悉，29日，G95首都地區環線高速公路（塘承高速至津冀界段）專案正式開工建設。 G95首都地區環線高速是國家高速公路網重要組成部分，是京津冀協同發展、交通一體化，助力現代化首都都市圈建設的重要戰略通道。此次開工的天津段，是G95首都環線最後拼圖的關鍵部分。（新華社）"
-    },
-    {
-      "id": "mkt:019e73c8-7b7c-7335-9b3a-6974b049f813",
-      "time": "2026-05-29 20:49:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "The Indian government said it will publish a Wholesale Price Index using 2022-23 as the new base year starting June 15."
-    },
-    {
-      "id": "4907320",
-      "time": "2026-05-29 20:49:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：印度將於6月15日起釋出以2022-23年為新基年的批發價格指數。"
-    },
-    {
-      "id": "mkt:019e73c8-1be1-7992-a427-ea406c74454a",
-      "time": "2026-05-29 20:49:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.O"
-      ],
-      "text": "Chevron CEO Mike Wirth said the company currently has six chartered vessels operating in the Persian Gulf."
     }
   ]
 }
