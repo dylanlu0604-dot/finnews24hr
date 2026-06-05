@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 01:01:38_
-_本檔包含 3927 則快訊，約 699191 字_
+_更新時間：2026-06-06 01:40:20_
+_本檔包含 3930 則快訊，約 699137 字_
+
+---
+
+### 2026-06-03 18:45:56  #MKT News #Important #Market Themes #Chip Wars #AI Revolution #MRVL.O #Impact bullish #AMD.O #ASML.O
+
+【Four firms hit $1tn market cap in H1; Jensen Huang names MARVELL a dark horse】First-time entrants to the $1tn market-cap club in H1: Walmart hit $1tn on Feb. 3 on e‑commerce growth, customer expansion and digitalisation; Samsung Electronics reached $1tn on May 6, driven by AI-chip demand; Micron’s market cap crossed $1tn on May 26 after UBS raised its PT from $535 to $1,625; SK Hynix surpassed $1tn on May 27, becoming Korea’s second $1tn company after Samsung. Notable near‑term candidates: MARVELL — Jensen Huang flagged it at Computex and its stock jumped more than 30% in one day; AMD — one step from $1tn, Street consensus expects H2 AI‑chip shipments could push it over this year; ASML — Europe’s most likely $1tn candidate, market cap >$650bn and a core equipment supplier for the AI cycle.
+
+---
+
+### 2026-06-03 18:45:47  #市場
+
+美敦力：預計受地緣政治環境變化影響，27財年每股收益將因燃料與運輸成本上漲面臨約1個百分點的不利拖累。
+
+---
+
+### 2026-06-03 18:45:43  #其他
+
+美敦力2027財年攤薄後每股收益預期為6.06美元，營收預期為383.7億美元。
+
+---
+
+### 2026-06-03 18:45:30  #公司 #國際
+
+美國另類資產管理公司第六街（Sixth Street）據悉即將達成協議，向大宗商品市場情報平臺Kpler投資逾10億美元。
+
+---
+
+### 2026-06-03 18:45:24  #其他
+
+美敦力：27財年第一季度股息上調至每股0.72美元。
+
+---
+
+### 2026-06-03 18:45:19  #國際
+
+特朗普：我的認知測試成績非常好。
+
+---
+
+### 2026-06-03 18:45:15  #MKT News
+
+U.S. President Trump said he performed perfectly on a cognitive test.
+
+---
+
+### 2026-06-03 18:44:33  #其他
+
+【強降雨持續 貴州釋出地質災害風險橙色預警】據貴州省氣象臺最新氣象預報顯示，6月3日15時30分至4日20時，貴州省中南部地區將出現雷雨天氣，黔東南州中南部、黔南州中南部、黔西南州、六盤水市、安順市、畢節市西部等地區局地將出現以短時強降水為主的強對流天氣，最大小時雨量可達60～80毫米，西部地區的部分鄉鎮伴有雷暴大風或冰雹，最大陣風9～10級，最大冰雹直徑10～20毫米。
+
+---
+
+### 2026-06-03 18:44:16  #公司
+
+【匯綠生態：持股5%以上股東質押307萬股股份】匯綠生態公告稱，公司持股5%以上股東寧波匯寧於2026年6月2日及6月3日辦理股票質押業務，累計質押307萬股，佔其所持股份2.46%，佔公司總股本0.39%，質押用途為自身資金需求。截至公告披露日，寧波匯寧及其一致行動人累計質押4796萬股，佔其所持股份13.54%，佔公司總股本6.11%。目前，寧波匯寧股份不存在平倉風險，質押風險可控。
+
+---
+
+### 2026-06-03 18:44:07  #公司
+
+維多集團：波斯灣煉油廠產能下降約300萬桶/日。
+
+---
+
+### 2026-06-03 18:43:48  #MKT News
+
+【China mass-produces rocket propellant tank bottoms; production cycle cut >90%】Dalian University of Technology’s School of Mechanical Engineering team used an internationally first “ultra-low temperature forming” process to mass-produce integrated propellant-tank bottoms over 2 m in diameter, shortening manufacturing cycles by more than 90%. The metal panels are 4 mm thick with a smooth finish; despite their thinness they must withstand launch vibration, shock and support hundreds of tonnes of propellant. The university says the breakthrough could lower costs and raise launch cadence efficiency for commercial space operators.
+
+---
+
+### 2026-06-03 18:43:15  #其他
+
+【應急管理部針對江西、湖南、貴州啟動國家地質災害四級應急響應】據氣象部門預測，6月3日-5日，江西中北部、湖南中部、貴州中南部等部分地區有大到暴雨過程，局地有大暴雨。應急管理部和自然資源部開展聯合會商研判，江西東北部、湖南中部、貴州西部區域性地區發生地質災害的風險較高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於6月3日針對江西、湖南、貴州啟動國家地質災害四級應急響應。應急管理部要求，相關強降水地區要密切監視雨情汛情和地質災害災情險情，落實部門協同聯動工作機制，壓實地方防範應對主體責任，加強會商研判和預警響應聯動，預置前置救援力量、物資、裝備，強化巡查排查和監測預警，果斷組織轉移避險，切實做好地質災害防範應對工作。
+
+---
+
+### 2026-06-03 18:42:37  #公司
+
+【惠泰醫療：控股子公司取得兩項醫療器械註冊證】惠泰醫療公告，控股子公司深圳皓影醫療科技有限公司取得兩項醫療器械註冊證。產品名稱為血管內超聲診斷裝置和一次性使用血管內超聲診斷導管，註冊分類均為第三類有源醫療器械，註冊證編號分別為國械注準20263061139和國械注準20263061140。上述產品均為國家藥品監督管理局批准的創新醫療器械。
+
+---
+
+### 2026-06-03 18:42:36  #其他
+
+【我國火箭推進劑貯箱箱底實現量產 製作週期大幅縮短】最近，大連理工大學機械學院高效能精密成形團隊，基於國際首創的“超低溫成形技術”，成功實現了直徑超2米的光板整體推進劑貯箱箱底的量產，將製造週期縮短了90%以上，有望為商業航天的高頻次發射降本增效。（央視新聞）
+
+---
+
+### 2026-06-03 18:42:14  #公司
+
+【鑫磊股份：股東鴻聖投資擬減持1.1763%股份】鑫磊股份公告，鴻聖投資持股739.67萬股（佔4.7056%），擬於2026年5月28日至8月27日以集中競價或大宗交易方式減持不超184.91萬股（佔1.1763%）。2026年6月2日，其以50.48元/股大宗交易向鍾千紅轉讓39.05萬股，佔0.2484%；轉讓後鴻聖投資持股700.62萬股，佔4.5912%，鍾千紅直接持股39.05萬股，佔0.2559%。本次一致行動人內部轉讓不觸及要約收購，不影響公司控制權。
+
+---
+
+### 2026-06-03 18:42:09  #公司 #市場
+
+【三環集團：H股發行獲中國證監會備案，擬發行不超過1.49億股】三環集團公告，公司此前正申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市。公司於近日收到中國證監會出具的備案通知書，公司擬發行不超過1.49億股境外上市普通股並在香港聯交所上市。公司本次發行H股並上市尚需取得香港證券及期貨事務監察委員會和香港聯交所等相關監管機構的批准，該事項仍存在不確定性。
+
+---
+
+### 2026-06-03 18:41:44  #公司
+
+【晶盛機電：改變部分募集資金用途 投資半導體裝備精密零部件智慧化生產專案等新專案】晶盛機電(300316.SZ)公告稱，公司董事會同意將“12英寸積體電路大矽片裝置測試實驗線專案”募集資金投資總額調整為1.78億元，並將剩餘募集資金及已終止專案剩餘募集資金合計8.61億元(含利息及理財收益)投資於新專案“半導體裝備精密零部件智慧化生產專案”和“高階半導體裝置碳化矽零部件產業化專案”。該事項尚需提交股東會審議。
+
+---
+
+### 2026-06-03 18:41:35  #國際
+
+特朗普：萬斯與魯比奧搭檔參選將所向披靡。他們關係良好。
+
+---
+
+### 2026-06-03 18:41:24  #MKT News
+
+Trump said he believes acting US Attorney General Blanche will serve as attorney general.
+
+---
+
+### 2026-06-03 18:41:16  #MKT News #Market Themes #The Trump Trade
+
+President Trump said Federal Housing Finance Agency director and acting head of the National Intelligence Agency Puert is very talented.
+
+---
+
+### 2026-06-03 18:40:26  #國際
+
+特朗普：我認為布蘭奇會成為司法部長。
+
+---
+
+### 2026-06-03 18:39:59  #國際
+
+特朗普：普爾特非常有才華。
+
+---
+
+### 2026-06-03 18:39:32  #其他
+
+烏茲別克4月份貿易逆差擴大至82.18億美元。
+
+---
+
+### 2026-06-03 18:39:29  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【New York Post: Trump signals willingness to meet Iran's supreme leader Mujtaba Khamenei】The New York Post reports President Trump told Pod Force One on Wednesday he expects to meet Iran's supreme leader Mujtaba Khamenei, saying the leaders have "gotten along pretty well" despite stalled peace talks. Asked if a meeting was possible, Trump said: "Yes, I'd like to meet him. We may meet at some point, depending on how things progress." The paper flagged the shift in tone after Trump previously called Khamenei a "lightweight" and an "unacceptable choice" to lead Iran.
+
+---
+
+### 2026-06-03 18:39:22  #國際
+
+印度尼西亞總檢察長辦公室：三名國家營養署前官員因涉嫌違反免費午餐計劃的管理規定被捕。
+
+---
+
+### 2026-06-03 18:39:15  #公司
+
+【黃仁勳向億萬富豪家族宣傳AI投資驚人回報 稱只有“瘋狂”的人才會質疑】英偉達執行長黃仁勳大力宣揚押注AI熱潮所能帶來的“驚人”回報，試圖打消市場對於AI鉅額投入以及其長期盈利能力的持續擔憂。這位英偉達聯合創始人本週大部分時間都在臺北國際電腦展上積極宣傳AI將如何徹底改變經濟和社會。週二晚間，他還抽空向數百名來自金融機構和家族辦公室的代表發表講話。作為一名億萬富翁，黃仁勳表示，只有“瘋狂”的人才會質疑AI投資的回報率，因為這項技術已經創造了數萬億美元的價值。
+
+---
+
+### 2026-06-03 18:38:59  #國際
+
+美國地質調查局（USGS）：萬那杜海域發生 5.6 級地震。
+
+---
+
+### 2026-06-03 18:38:32  #國際
+
+【特朗普：一旦伊朗戰爭結束，美國汽油價格就會下降】美國總統特朗普在週三播出的播客採訪中表示，一旦伊朗衝突結束，美國的汽油價格就會下降，而且目前的通脹水平並非“很高”。“我們的通脹並不嚴重。你看，如果排除汽油和能源價格，我們通脹很輕微，”特朗普在播客中說道。
+
+---
+
+### 2026-06-03 18:38:22  #公司
+
+【協鑫能科牛曙斌：“四化”多維解決方案應對新能源消納難等瓶頸】6月2日，協鑫能科副總裁牛曙斌在接受記者採訪時表示，近年來，國內新能源裝機規模持續高速擴容，新能源消納難、能源系統執行復雜等問題日益凸顯，成為制約新型電力系統建設、“雙碳”戰略落地的核心瓶頸。對此，牛曙斌提出“四化”發展思路，在場景化、規模化發展層面，行業需深度精準挖掘光伏多元應用場景，依託土地高效利用、光伏建築一體化等創新模式，最大化提升光伏立體化面積利用率，同時，以規模化專案落地為核心，持續提升新能源就地消納能力。在市場化改革層面，全面依託電力市場化機制，打通綠電交易、儲能調峰、負荷聚合等多元交易通道，充分啟用源、網、荷、儲全鏈條資源活力，以市場化手段精準最佳化能源資源配置。在金融化賦能層面，行業需深化能源與綠色金融的深度融合，依託各類綠色金融工具賦能零碳專案，有效降低新能源專案投融資成本。
 
 ---
 
@@ -23497,161 +23671,5 @@ The head of the IEA's oil division said a further IEA-coordinated emergency rele
 ### 2026-06-02 17:52:24  #MKT News #Market Themes #AI Revolution
 
 【SoftBank plans $300 mln investment in robotics startup Agile Robots】German industrial-robotics startup Agile Robots is in talks with investors including SoftBank Group to raise about $800 mln. Sources say SoftBank is negotiating to commit more than $300 mln and previously took part in Agile Robots' seed round; talks are at an early stage and final amount and terms may change. Investors are prioritizing companies that apply AI in real-world manufacturing, logistics and engineering use cases. PitchBook data show global investment in the sector more than doubled in 2025 to $27.6 bln.
-
----
-
-### 2026-06-02 17:52:20  #公司
-
-【東鵬飲料：5月A股實施轉增並回購609.47萬股】東鵬飲料公告稱，2026年5月，公司A股實施2025年度利潤分配方案，按每10股轉增3股的基準進行資本化發行，增加156,003,900股。同時，於5月18日至28日期間回購6,094,651股A股並持作庫存股份。本月底，A股已發行股份總數達676,016,900股。此外，H股本月無變動，已發行股份總數為44,755,700股，公眾持股量市值為100.14億港元，佔比6.2%。
-
----
-
-### 2026-06-02 17:52:13  #公司
-
-【*ST東珠：控股股東部分股份質押及解除質押】*ST東珠公告稱，2026年6月2日，控股股東席惠明將1967萬股質押給北京銀行無錫分行，佔其持股12.95%、公司總股本4.41%，為上市公司融資提供擔保；同日解除1967萬股質押。截至公告披露日，席惠明累計質押7517萬股，佔其持股49.50%、公司總股本16.85%。席惠明及其一致行動人累計質押9717萬股，佔其所持股份47.23%、公司總股本21.78%。未來一年內到期質押股份9717萬股，風險可控，不會影響公司控制權。
-
----
-
-### 2026-06-02 17:51:59  #MKT News #Important
-
-Bahrain's Interior Ministry said it is banning citizens from traveling to Iran and Iraq due to current security tensions.
-
----
-
-### 2026-06-02 17:51:58  #公司
-
-【寧波能源：5月對外擔保1.16億元 累計擔保近90億元】寧波能源公告稱，近日公司簽訂擔保協議，為科豐熱電、甬德環境和金通租賃提供合計1.16億元連帶責任保證。截至公告披露日，公司對三者擔保餘額分別為7868.36萬元、3554.80萬元、92631.46萬元。此外，因擬發行不超20億元超短期融資券，公司為開投集團提供20億元反擔保，目前未發生反擔保金額。截至公告日，公司及控股子公司對外擔保總額89.53億元，佔最近一期經審計淨資產的162.36%，無逾期擔保。
-
----
-
-### 2026-06-02 17:51:46  #公司
-
-【位元組Seed架構調整：周暢管理範圍擴大，具身業務納入核心】位元組跳動多模態負責人周暢管理範圍再次擴大，原由李航負責的 Seed Robotics 團隊已向周暢彙報月餘，李航現以顧問身份負責學術合作方向。位元組也正在招聘具身智慧技術負責人，負責機器人業務整體規劃，職級定位為 L8，對標阿里 P10-P11，將向周暢彙報。該崗位候選人主要來自頭部具身智慧創業公司技術負責人。（晚點）
-
----
-
-### 2026-06-02 17:51:39  #公司
-
-【金力永磁：獨立非執行董事徐風因個人原因辭職】金力永磁公告稱，6月2日，公司董事會收到獨立非執行董事徐風的書面辭職報告，其因個人原因，申請辭去相關職務。因辭職將致獨立董事人數少於董事會成員三分之一，徐風將履職至股東會選出新的獨立董事。截至公告日，徐風未持有公司A股，持有H股30,000股，原定任期至2027年6月5日。其離任不會對公司產生不利影響，公司將盡快完成補選工作。
-
----
-
-### 2026-06-02 17:51:20  #焦點 #國際
-
-巴林：因當前安全域性勢緊張，巴林禁止本國公民前往伊朗和伊拉克旅行。
-
----
-
-### 2026-06-02 17:50:59  #其他
-
-【四維圖新與中交協深化合作 共推大件運輸行業數智化升級】近日，中國交通運輸協會副會長畢見平一行到四維圖新大廈考察調研，雙方就時空AI技術賦能大件運輸高質量發展舉行座談交流。座談期間，四維圖新展示了時空AI、高精度地圖與數字孿生在大件運輸領域的創新成果，協會介紹了行業規劃與資訊化方向，雙方就技術協同、標準共建、生態共建達成一致。未來，雙方將以此次合作為契機，攜手推進全國大件數字路網“一張圖”建設，完善跨區域協同審批與安全監管機制，共同打造行業數智化示範工程，推動大件運輸行業向高效化、合規化、智慧化方向升級。
-
----
-
-### 2026-06-02 17:50:50  #國際
-
-市場訊息：泰國總理阿努廷已指示有關部門就臨時蝦類進口禁令問題與馬來西亞展開緊急磋商。
-
----
-
-### 2026-06-02 17:50:39  #MKT News
-
-Malaysia's national news agency said Thai Prime Minister Anutin has instructed relevant departments to hold emergency consultations with Malaysia over a temporary shrimp import ban.
-
----
-
-### 2026-06-02 17:50:04  #Trading Economics #Economy #South Africa #Business Confidence #Importance 1
-
-South Africa Business Sentiment Weakens in Q2 — The RMB/BER business confidence index in South Africa fell by 8 points to 39 in Q2 2026, the lowest since Q3 2025, reversing the prior two quarters of improvement and moving just below its long-term average of 40. This is the lowest level since Q3 2025, as businesses faced renewed pressure from the Middle East war, which clouded the outlook for inflation and interest rates. All sectors recorded declines, led by consumer-related industries. “Businesses have had to adjust quickly to a less-supportive outlook, which weighed on sentiment across most sectors,” said Isaah Mhlanga, chief economist at RMB. “Many respondents indicated that uncertainty had increased and that clients had become more cautious about spending and investment decisions.”, he added.
-
----
-
-### 2026-06-02 17:49:47  #其他
-
-世界衛生組織：烏干達已確診9例埃博拉病例，另有1例相關死亡。
-
----
-
-### 2026-06-02 17:49:27  #國際
-
-【2026年美加墨世界盃將部署AI技術以改善賽事體驗】據歐洲新聞電視臺報道，2026年美加墨世界盃將部署AI等新技術來改善比賽和觀賽體驗。具體而言，官方用球將內建500Hz運動感測器晶片，可每秒採集500次資料，以實時追蹤球速、軌跡，輔助越位、手球、點球等關鍵判罰。此外，賽場將為所有1248名球員建立AI數字分身，以輔助裁判快速還原比賽場景。
-
----
-
-### 2026-06-02 17:49:16  #其他
-
-【四川釋出20個重點場景專案 總投資超3000億元】6月2日，由四川省發展改革委會同省級有關部門主辦的四川省重點場景專案推介活動在成都舉行，會上集中釋出了20個重點應用場景專案。具體來看，專案共有兩大類，一類是水風光氫多能互補綜合應用場景等3個綜合性場景專案，另一類是先進核能與核技術應用全產業鏈創新融合重大應用場景示範專案等17個高價值應用場景專案。據介紹，20個重點場景專案總投資超3000億元。
-
----
-
-### 2026-06-02 17:49:12  #公司
-
-【南模生物：董事王津津擬減持0.0032%】南模生物公告，截至本公告披露日，職工代表董事王津津直接持有公司股份10000股，佔公司總股本0.0128%，來源於2025年限制性股票激勵計劃取得的無限售條件流通股。因個人資金需要，其計劃透過集中競價交易方式減持不超過2500股，佔公司總股本0.0032%。減持期間為本公告披露之日起15個交易日後的3個月內，具體為2026年6月25日～2026年9月24日，減持價格將按照減持實施時的市場價格確定。
-
----
-
-### 2026-06-02 17:48:21  #其他
-
-世界衛生組織：剛果民主共和國已有41例埃博拉死亡病例，另有6例康復。
-
----
-
-### 2026-06-02 17:47:20  #其他
-
-【四川省住房和城鄉建設廳副廳長程剛接受審查調查】據四川省紀委監委訊息：四川省住房和城鄉建設廳黨組成員、副廳長程剛涉嫌嚴重違紀違法，主動投案，目前正接受四川省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-02 17:46:49  #公司
-
-據上交所官網顯示，蘇州華太電子技術股份有限公司科創板IPO稽核狀態變更為“已問詢”。
-
----
-
-### 2026-06-02 17:46:40  #MKT News #Market Regions #Greater China
-
-Shanghai Stock Exchange website shows Suzhou Huatai Electronic Technology Co., Ltd.'s STAR Market IPO review status changed to "inquiry issued".
-
----
-
-### 2026-06-02 17:46:31  #公司
-
-【大秦鐵路：完成15億元股份回購 6月3日將登出股份】大秦鐵路公告稱，公司已完成股份回購，實際累計回購2.84億股，佔總股本的1.41%，回購金額14.99億元，回購價4.96-5.78元/股。公司將於6月3日登出所回購股份，總股本將由201.47億股減至198.63億股，控股股東及其一致行動人持股比例將被動增至50.06%。
-
----
-
-### 2026-06-02 17:46:06  #公司
-
-【萬達集團在山東成立能源公司】天眼查App顯示，近日，山東鴻盛能源發展有限公司成立，法定代表人為盧增寶，註冊資本1000萬人民幣，經營範圍包括新興能源技術研發、煤炭及製品銷售、環境保護專用裝置銷售等。股東資訊顯示，該公司由萬達控股集團有限公司全資持股。
-
----
-
-### 2026-06-02 17:46:04  #MKT News
-
-【Xibaipo Power Phase IV Unit 7 auxiliary power system energized on first attempt】Xibaipo Power Phase IV Unit 7 auxiliary power system was energized successfully on first attempt. Electrical parameters are normal and protection and monitoring signals are operating correctly. The energization covered the 500 kV expansion bus, expansion string switchgear, standby transformer main equipment, the unit high-voltage bus and associated protection and control systems. This follows handover of the main plant and placement of the generator stator, marking another construction milestone for the project.
-
----
-
-### 2026-06-02 17:45:57  #公司
-
-【上海誼眾：股東減持259.40萬股 佔總股本1.255%】上海誼眾公告稱，股東李峰、李循、許越香與公司董事李端構成一致行動人關係。2026年2月5日-6月2日，三人透過大宗交易、集中競價方式減持公司股份259.40萬股，佔總股本1.255%。其中，李峰減持37.14萬股，減持金額2222.65萬元；李循減持117.84萬股，減持金額6403.44萬元；許越香減持104.43萬股，減持金額5923.99萬元，已完成減持計劃。
-
----
-
-### 2026-06-02 17:45:55  #公司
-
-【中國稀土集團等在安遠成立新公司 註冊資本1.2億】天眼查App顯示，近日，中稀（安遠）稀土新材料有限公司成立，法定代表人為廖小都，註冊資本1.2億人民幣，經營範圍包括稀土功能材料銷售、稀有稀土金屬冶煉、高效能有色金屬及合金材料銷售等。股東資訊顯示，該公司由中國稀土集團旗下中稀江西稀土有限公司、江西明達功能材料有限責任公司共同持股。
-
----
-
-### 2026-06-02 17:45:49  #公司
-
-【聯芸科技：向特定物件發行A股股票申請獲上交所受理】聯芸科技(688449)6月2日公告，公司於6月2日收到上海證券交易所（簡稱“上交所”）出具的《關於受理聯芸科技（杭州）股份有限公司科創板上市公司發行證券申請的通知》，上交所依據相關規定對公司報送的科創板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。
-
----
-
-### 2026-06-02 17:45:34  #公司 #市場
-
-【納指科技ETF景順：二級市場交易溢價 6月3日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月2日收盤價為2.845元，收盤時基金份額參考淨值為2.3466元。為保護投資者利益，基金於6月3日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月3日溢價幅度未有效回落，基金有權採取進一步停牌措施。
 
 ---

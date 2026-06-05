@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 01:01:38_
-_本檔包含 3581 則快訊，約 699281 字_
+_更新時間：2026-06-06 01:40:20_
+_本檔包含 3590 則快訊，約 698918 字_
+
+---
+
+### 2026-06-02 17:52:20  #公司
+
+【東鵬飲料：5月A股實施轉增並回購609.47萬股】東鵬飲料公告稱，2026年5月，公司A股實施2025年度利潤分配方案，按每10股轉增3股的基準進行資本化發行，增加156,003,900股。同時，於5月18日至28日期間回購6,094,651股A股並持作庫存股份。本月底，A股已發行股份總數達676,016,900股。此外，H股本月無變動，已發行股份總數為44,755,700股，公眾持股量市值為100.14億港元，佔比6.2%。
+
+---
+
+### 2026-06-02 17:52:13  #公司
+
+【*ST東珠：控股股東部分股份質押及解除質押】*ST東珠公告稱，2026年6月2日，控股股東席惠明將1967萬股質押給北京銀行無錫分行，佔其持股12.95%、公司總股本4.41%，為上市公司融資提供擔保；同日解除1967萬股質押。截至公告披露日，席惠明累計質押7517萬股，佔其持股49.50%、公司總股本16.85%。席惠明及其一致行動人累計質押9717萬股，佔其所持股份47.23%、公司總股本21.78%。未來一年內到期質押股份9717萬股，風險可控，不會影響公司控制權。
+
+---
+
+### 2026-06-02 17:51:59  #MKT News #Important
+
+Bahrain's Interior Ministry said it is banning citizens from traveling to Iran and Iraq due to current security tensions.
+
+---
+
+### 2026-06-02 17:51:58  #公司
+
+【寧波能源：5月對外擔保1.16億元 累計擔保近90億元】寧波能源公告稱，近日公司簽訂擔保協議，為科豐熱電、甬德環境和金通租賃提供合計1.16億元連帶責任保證。截至公告披露日，公司對三者擔保餘額分別為7868.36萬元、3554.80萬元、92631.46萬元。此外，因擬發行不超20億元超短期融資券，公司為開投集團提供20億元反擔保，目前未發生反擔保金額。截至公告日，公司及控股子公司對外擔保總額89.53億元，佔最近一期經審計淨資產的162.36%，無逾期擔保。
+
+---
+
+### 2026-06-02 17:51:46  #公司
+
+【位元組Seed架構調整：周暢管理範圍擴大，具身業務納入核心】位元組跳動多模態負責人周暢管理範圍再次擴大，原由李航負責的 Seed Robotics 團隊已向周暢彙報月餘，李航現以顧問身份負責學術合作方向。位元組也正在招聘具身智慧技術負責人，負責機器人業務整體規劃，職級定位為 L8，對標阿里 P10-P11，將向周暢彙報。該崗位候選人主要來自頭部具身智慧創業公司技術負責人。（晚點）
+
+---
+
+### 2026-06-02 17:51:39  #公司
+
+【金力永磁：獨立非執行董事徐風因個人原因辭職】金力永磁公告稱，6月2日，公司董事會收到獨立非執行董事徐風的書面辭職報告，其因個人原因，申請辭去相關職務。因辭職將致獨立董事人數少於董事會成員三分之一，徐風將履職至股東會選出新的獨立董事。截至公告日，徐風未持有公司A股，持有H股30,000股，原定任期至2027年6月5日。其離任不會對公司產生不利影響，公司將盡快完成補選工作。
+
+---
+
+### 2026-06-02 17:51:20  #焦點 #國際
+
+巴林：因當前安全域性勢緊張，巴林禁止本國公民前往伊朗和伊拉克旅行。
+
+---
+
+### 2026-06-02 17:50:59  #其他
+
+【四維圖新與中交協深化合作 共推大件運輸行業數智化升級】近日，中國交通運輸協會副會長畢見平一行到四維圖新大廈考察調研，雙方就時空AI技術賦能大件運輸高質量發展舉行座談交流。座談期間，四維圖新展示了時空AI、高精度地圖與數字孿生在大件運輸領域的創新成果，協會介紹了行業規劃與資訊化方向，雙方就技術協同、標準共建、生態共建達成一致。未來，雙方將以此次合作為契機，攜手推進全國大件數字路網“一張圖”建設，完善跨區域協同審批與安全監管機制，共同打造行業數智化示範工程，推動大件運輸行業向高效化、合規化、智慧化方向升級。
+
+---
+
+### 2026-06-02 17:50:50  #國際
+
+市場訊息：泰國總理阿努廷已指示有關部門就臨時蝦類進口禁令問題與馬來西亞展開緊急磋商。
+
+---
+
+### 2026-06-02 17:50:39  #MKT News
+
+Malaysia's national news agency said Thai Prime Minister Anutin has instructed relevant departments to hold emergency consultations with Malaysia over a temporary shrimp import ban.
+
+---
+
+### 2026-06-02 17:50:04  #Trading Economics #Economy #South Africa #Business Confidence #Importance 1
+
+South Africa Business Sentiment Weakens in Q2 — The RMB/BER business confidence index in South Africa fell by 8 points to 39 in Q2 2026, the lowest since Q3 2025, reversing the prior two quarters of improvement and moving just below its long-term average of 40. This is the lowest level since Q3 2025, as businesses faced renewed pressure from the Middle East war, which clouded the outlook for inflation and interest rates. All sectors recorded declines, led by consumer-related industries. “Businesses have had to adjust quickly to a less-supportive outlook, which weighed on sentiment across most sectors,” said Isaah Mhlanga, chief economist at RMB. “Many respondents indicated that uncertainty had increased and that clients had become more cautious about spending and investment decisions.”, he added.
+
+---
+
+### 2026-06-02 17:49:47  #其他
+
+世界衛生組織：烏干達已確診9例埃博拉病例，另有1例相關死亡。
+
+---
+
+### 2026-06-02 17:49:27  #國際
+
+【2026年美加墨世界盃將部署AI技術以改善賽事體驗】據歐洲新聞電視臺報道，2026年美加墨世界盃將部署AI等新技術來改善比賽和觀賽體驗。具體而言，官方用球將內建500Hz運動感測器晶片，可每秒採集500次資料，以實時追蹤球速、軌跡，輔助越位、手球、點球等關鍵判罰。此外，賽場將為所有1248名球員建立AI數字分身，以輔助裁判快速還原比賽場景。
+
+---
+
+### 2026-06-02 17:49:16  #其他
+
+【四川釋出20個重點場景專案 總投資超3000億元】6月2日，由四川省發展改革委會同省級有關部門主辦的四川省重點場景專案推介活動在成都舉行，會上集中釋出了20個重點應用場景專案。具體來看，專案共有兩大類，一類是水風光氫多能互補綜合應用場景等3個綜合性場景專案，另一類是先進核能與核技術應用全產業鏈創新融合重大應用場景示範專案等17個高價值應用場景專案。據介紹，20個重點場景專案總投資超3000億元。
+
+---
+
+### 2026-06-02 17:49:12  #公司
+
+【南模生物：董事王津津擬減持0.0032%】南模生物公告，截至本公告披露日，職工代表董事王津津直接持有公司股份10000股，佔公司總股本0.0128%，來源於2025年限制性股票激勵計劃取得的無限售條件流通股。因個人資金需要，其計劃透過集中競價交易方式減持不超過2500股，佔公司總股本0.0032%。減持期間為本公告披露之日起15個交易日後的3個月內，具體為2026年6月25日～2026年9月24日，減持價格將按照減持實施時的市場價格確定。
+
+---
+
+### 2026-06-02 17:48:21  #其他
+
+世界衛生組織：剛果民主共和國已有41例埃博拉死亡病例，另有6例康復。
+
+---
+
+### 2026-06-02 17:47:20  #其他
+
+【四川省住房和城鄉建設廳副廳長程剛接受審查調查】據四川省紀委監委訊息：四川省住房和城鄉建設廳黨組成員、副廳長程剛涉嫌嚴重違紀違法，主動投案，目前正接受四川省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-02 17:46:49  #公司
+
+據上交所官網顯示，蘇州華太電子技術股份有限公司科創板IPO稽核狀態變更為“已問詢”。
+
+---
+
+### 2026-06-02 17:46:40  #MKT News #Market Regions #Greater China
+
+Shanghai Stock Exchange website shows Suzhou Huatai Electronic Technology Co., Ltd.'s STAR Market IPO review status changed to "inquiry issued".
+
+---
+
+### 2026-06-02 17:46:31  #公司
+
+【大秦鐵路：完成15億元股份回購 6月3日將登出股份】大秦鐵路公告稱，公司已完成股份回購，實際累計回購2.84億股，佔總股本的1.41%，回購金額14.99億元，回購價4.96-5.78元/股。公司將於6月3日登出所回購股份，總股本將由201.47億股減至198.63億股，控股股東及其一致行動人持股比例將被動增至50.06%。
+
+---
+
+### 2026-06-02 17:46:06  #公司
+
+【萬達集團在山東成立能源公司】天眼查App顯示，近日，山東鴻盛能源發展有限公司成立，法定代表人為盧增寶，註冊資本1000萬人民幣，經營範圍包括新興能源技術研發、煤炭及製品銷售、環境保護專用裝置銷售等。股東資訊顯示，該公司由萬達控股集團有限公司全資持股。
+
+---
+
+### 2026-06-02 17:46:04  #MKT News
+
+【Xibaipo Power Phase IV Unit 7 auxiliary power system energized on first attempt】Xibaipo Power Phase IV Unit 7 auxiliary power system was energized successfully on first attempt. Electrical parameters are normal and protection and monitoring signals are operating correctly. The energization covered the 500 kV expansion bus, expansion string switchgear, standby transformer main equipment, the unit high-voltage bus and associated protection and control systems. This follows handover of the main plant and placement of the generator stator, marking another construction milestone for the project.
+
+---
+
+### 2026-06-02 17:45:57  #公司
+
+【上海誼眾：股東減持259.40萬股 佔總股本1.255%】上海誼眾公告稱，股東李峰、李循、許越香與公司董事李端構成一致行動人關係。2026年2月5日-6月2日，三人透過大宗交易、集中競價方式減持公司股份259.40萬股，佔總股本1.255%。其中，李峰減持37.14萬股，減持金額2222.65萬元；李循減持117.84萬股，減持金額6403.44萬元；許越香減持104.43萬股，減持金額5923.99萬元，已完成減持計劃。
+
+---
+
+### 2026-06-02 17:45:55  #公司
+
+【中國稀土集團等在安遠成立新公司 註冊資本1.2億】天眼查App顯示，近日，中稀（安遠）稀土新材料有限公司成立，法定代表人為廖小都，註冊資本1.2億人民幣，經營範圍包括稀土功能材料銷售、稀有稀土金屬冶煉、高效能有色金屬及合金材料銷售等。股東資訊顯示，該公司由中國稀土集團旗下中稀江西稀土有限公司、江西明達功能材料有限責任公司共同持股。
+
+---
+
+### 2026-06-02 17:45:49  #公司
+
+【聯芸科技：向特定物件發行A股股票申請獲上交所受理】聯芸科技(688449)6月2日公告，公司於6月2日收到上海證券交易所（簡稱“上交所”）出具的《關於受理聯芸科技（杭州）股份有限公司科創板上市公司發行證券申請的通知》，上交所依據相關規定對公司報送的科創板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。
+
+---
+
+### 2026-06-02 17:45:34  #公司 #市場
+
+【納指科技ETF景順：二級市場交易溢價 6月3日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月2日收盤價為2.845元，收盤時基金份額參考淨值為2.3466元。為保護投資者利益，基金於6月3日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月3日溢價幅度未有效回落，基金有權採取進一步停牌措施。
 
 ---
 
@@ -21498,107 +21654,5 @@ Eurozone | Unemployment Rate (Apr) | actual 6.3% | consensus 6.20% | previous 6.
 ### 2026-06-01 16:59:34  #公司
 
 【奧瑞德：持股5%以上股東6080萬股將被二次司法拍賣】奧瑞德公告稱，持股5%以上大股東左洪波、褚淑霞為一致行動人，合計持有公司17027.17萬股。左洪波持有的6080萬股公司限售股將於2026年6月12日10:00至6月13日10:00進行第二次司法拍賣，佔其與一致行動人所持股份的35.71%，佔公司股份總數的2.21%，該股份已被司法輪候凍結。第一次拍賣已流拍，本次拍賣結果仍不確定，不會導致公司控制權變更，也不影響持續經營。
-
----
-
-### 2026-06-01 16:59:25  #公司
-
-【新華製藥：獲得碳酸司維拉姆幹混懸劑藥品註冊證書】新華製藥公告稱，近日收到國家藥監局核准簽發的碳酸司維拉姆幹混懸劑《藥品註冊證書》，規格為0.8g、2.4g。本品用於控制慢性腎臟病成人患者的高磷血癥，屬醫保目錄（2025年版）乙類品種。2025年中國公立醫療機構司維拉姆相關製劑銷售額約7.5億元。該藥品獲批豐富了公司製劑產品系列，提升綜合競爭力，但藥品銷售受政策、市場等因素影響，存在不確定性。
-
----
-
-### 2026-06-01 16:58:54  #其他
-
-【全國出口機器人1/4深圳造】據深圳海關統計，今年前4月，深圳機器人產業海外市場拓展步伐加快，各類單獨列名的機器人合計出口額達40.3億元，佔全國25.5%。全國出口機器人每4元產值，就有1元來自“深圳造”，產品銷往全球100多個國家和地區。（南方+）
-
----
-
-### 2026-06-01 16:58:23  #公司
-
-【翠微股份：董事、總經理陶清懋因工作調動離任】翠微股份公告稱，公司董事會於2026年6月1日收到董事、總經理陶清懋書面辭職報告，其因工作調動，申請辭去相關職務，辭職後不再擔任公司任何職務。原定任期至2028年9月14日，辭職報告自董事會收到之日起生效，未導致董事會成員低於法定最低人數，不影響公司正常執行。公司將按程式完成後續董事補選及總經理聘任工作。
-
----
-
-### 2026-06-01 16:57:54  #公司
-
-迪拜媒體辦公室：迪拜環球港務集團的此項投資是在之前已承諾投入的7.6億美元基礎上追加的。
-
----
-
-### 2026-06-01 16:57:52  #公司
-
-迪拜媒體辦公室：迪拜環球港務集團將投資1億美元擴建多明尼加共和國物流產能。
-
----
-
-### 2026-06-01 16:57:39  #其他
-
-【以軍要求黎巴嫩南部多地居民緊急撤離】以軍阿語發言人阿德拉伊6月1日在社交媒體先後釋出兩份緊急警告，要求黎巴嫩南部九個村鎮的居民立即撤離。以軍稱，因黎巴嫩真主黨“違反停火協議”，以軍將在相關區域採取軍事行動。以軍要求部分地區居民撤離至距村鎮至少1公里的空曠區域，並要求部分地區居民前往宰赫拉尼河以北地區。以軍同時警告稱，任何靠近黎巴嫩真主黨成員、設施或武器裝備的人都將有“生命危險”。（央視新聞）
-
----
-
-### 2026-06-01 16:57:32  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【IDF orders emergency evacuations in multiple southern Lebanon towns】IDF Arabic-language spokesman Adraee posted two emergency warnings on social media on June 1, ordering residents of nine towns and villages in southern Lebanon to evacuate immediately. The IDF said it would carry out military operations in the areas after HEZBOLLAH "violated the ceasefire." Residents in some zones were told to move to open areas at least 1 km from their towns; others were instructed to relocate north of the Zahrani River. The IDF warned anyone approaching HEZBOLLAH members, facilities or weapons would face "life-threatening danger."
-
----
-
-### 2026-06-01 16:57:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign ministry: Iranian forces struck back at US "aggression"】Iran's foreign ministry said on June 1 Iranian armed forces struck back at a US "aggressive action", calling the US move a violation of the ceasefire and saying Iran hit "the source" of the aggression. Spokesperson BAGHAEI said US-Iran talks are being conducted amid high suspicion and distrust, with intermediated messaging similarly mistrusted; Washington has repeatedly shifted positions, made new or contradictory demands and released conflicting information via media, which is delaying the process. He said there have been no negotiations on nuclear-related details to date and current talks are focused on ending the war.
-
----
-
-### 2026-06-01 16:57:00  #公司
-
-【和泰機電：2025年年度權益分派方案實施 每10股派3.12元】和泰機電公告稱，公司2025年年度權益分派方案已獲2026年4月17日股東會審議透過，以現有總股本65,570,800股為基數，向全體股東每10股派發現金股利3.12元（含稅），不送紅股、不以資本公積金轉增股本。股權登記日為2026年6月5日，除權除息日為6月8日。此外，實際控制人等相關股東承諾減持價格相應調整為42.78元/股，限制性股票回購價格也將調整。
-
----
-
-### 2026-06-01 16:56:21  #國際
-
-【伊朗外交部：伊朗武裝部隊回擊美軍“侵略行動”】伊朗外交部發言人巴加埃6月1日說，美軍對伊朗的“侵略行動”違反停火協議，伊朗武裝部隊予以回擊，伊方打擊了“美國侵略行動的源頭”。 巴加埃表示，伊美談判在高度猜疑和不信任的氛圍中進行，透過中間人的資訊傳遞也在同樣的不信任氛圍中進行。美方不斷改變立場，提出新的或相互矛盾的要求，並透過媒體釋放相互矛盾的資訊，談判程序在這種情況下自然會被拖延。 巴加埃還說，現階段並未就核問題相關事項的細節進行任何談判，現階段談判重點在於結束戰爭。 當天早些時候，伊朗伊斯蘭革命衛隊公共關係部門發表宣告稱，在美軍對伊朗一處通訊塔發動“侵略”後，革命衛隊對“侵略源頭”的美軍空軍基地進行打擊，並“摧毀了預定目標”。科威特方面同日表示，科威特防空系統攔截了“敵方”導彈和無人機。(新華社)
-
----
-
-### 2026-06-01 16:55:45  #其他
-
-【成都：加快全國一體化算力網路成渝國家樞紐節點和天府資料中心叢集建設】中共成都市委、成都市人民政府釋出《關於加快建設全國先進製造業基地的意見》，意見提出，強化人工智慧賦能。加快行業高質量資料集建設，推進智慧晶片、行業大模型、智慧體等研發和產業化應用，加速人工智慧賦能千行百業。加快新一代智慧終端和智慧體在設計、中試、生產、服務、運營全環節落地應用，推進工業全要素智慧化發展，培育智慧原生新業態新模式，發展一批智慧原生企業。加快全國一體化算力網路成渝國家樞紐節點和天府資料中心叢集建設，提升規模以上工業企業智改數轉水平，打造一批智慧工廠和智慧供應鏈。
-
----
-
-### 2026-06-01 16:55:39  #國際
-
-【中方對南美五國實施免籤政策一週年，8.1萬人次南美旅客經上海入境】5月31日，中方對巴西、阿根廷、智利、秘魯、烏拉圭五國實施免籤政策迎來一週年。一年來，政策紅利持續釋放，南美旅客來華熱情高漲。記者從上海邊檢總站獲悉，自2025年6月1日至2026年5月31日，共有8.1萬人次南美五國旅客經上海口岸入境，同比增長50.5%。其中，利用免籤政策入境的旅客佔比近七成，免籤已成為拉動入境遊市場的強勁引擎。（上觀）
-
----
-
-### 2026-06-01 16:55:29  #MKT News #Market Themes #Chip Wars
-
-【Chengdu launches manufacturing quality drive to build chips, high-end displays, smart vehicles, innovative drugs and aircraft】Chengdu municipal party committee and government issued guidance to accelerate building a national advanced manufacturing base, pledging to develop a portfolio of flagship products. The plan advances Chengdu as a demonstration city for the national consumer-goods "three-product" strategy, targeting green food, digital cultural & creative goods and smart home to cultivate branded and hit consumer items. It will implement a Manufacturing Excellence Quality Program to develop future chips, high-end screens, smart vehicles, innovative drugs and aircraft, and a Basic Capability Upgrade Program focused on core machine tools, advanced materials and industrial software, with support for first-of-a-kind equipment, initial batch materials and first-release software products.
-
----
-
-### 2026-06-01 16:55:09  #公司
-
-【光正眼科：3470萬元轉讓子公司51%股權完成工商變更】光正眼科公告稱，公司此前擬以3470萬元向陳明惠轉讓控股子公司中景利華51%股權，該議案已獲董事會和股東會透過。近日，中景利華完成股權轉讓工商變更登記，換髮新營業執照，同時完成稅務、銀行等相關資訊變更。轉讓完成後，公司不再持有中景利華股權，其不再納入公司財務報表合併範圍。股權結構上，陳明惠持股升至85.3%，蘇歡持股14.7%。
-
----
-
-### 2026-06-01 16:54:06  #其他
-
-【成都：實施製造業卓越質量工程，打造未來芯、高階屏、智慧車、創新藥、航空器等產業名品、終端產品】中共成都市委、成都市人民政府釋出《關於加快建設全國先進製造業基地的意見》，意見提出，打造一批標誌性產品。推進國家消費品工業“三品”戰略示範城市建設，聚焦綠色食品、數字文創、智慧家居等特色領域，培育一批時尚單品、爆款產品。實施製造業卓越質量工程，打造未來芯、高階屏、智慧車、創新藥、航空器等產業名品、終端產品。實施基礎能力提升工程，聚焦工業母機、先進材料、工業軟體等領域，研製推廣一批首臺（套）裝備、首批次材料、首版次軟體產品。
-
----
-
-### 2026-06-01 16:53:38  #MKT News #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bullish #SSE Composite #Copper
-
-【Chengdu to accelerate AI, low‑altitude economy and green hydrogen under advanced-manufacturing plan】Chengdu Municipal Party Committee and Chengdu Municipal Government issued Opinions on accelerating construction of a national advanced manufacturing base, instructing an industrial-innovation program to speed development of artificial intelligence, the low‑altitude economy (drones and urban air mobility) and green hydrogen. The plan directs upgrades to support industries including integrated circuits, new displays and aerospace, and calls for capacity enhancement in intelligent connected vehicles, rail transit and biomedicine to cultivate new industrial pillars and build manufacturing clusters.
-
----
-
-### 2026-06-01 16:53:31  #公司 #國際
-
-【長春高新：子公司注射用GenSci136境外生產藥品註冊臨床試驗申請獲得批准】長春高新公告，子公司金賽藥業收到美國食品藥品監督管理局關於同意GenSci136開展臨床試驗的批准檔案。注射用GenSci136是金賽藥業自主研發的B細胞成熟抗原（BCMA）三聚體融合蛋白，BAFF/APRIL雙靶點拮抗劑，擬用於治療重症肌無力（MG）。MG是獲得性神經肌肉接頭傳遞障礙的自身免疫性疾病，可累及全身骨骼肌，當眼外肌受累時，臨床表現為對稱或非對稱性上瞼下垂和（或）複視，是MG最常見的首發症狀。
 
 ---

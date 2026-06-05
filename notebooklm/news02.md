@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 01:01:38_
-_本檔包含 3852 則快訊，約 699161 字_
+_更新時間：2026-06-06 01:40:20_
+_本檔包含 3844 則快訊，約 699333 字_
+
+---
+
+### 2026-06-04 20:45:53  #國際
+
+【美國假日周首次申請失業救濟人數升至22.5萬人】上週美國失業救濟金申請人數升至2月以來的最高水平，這可能反映了陣亡將士紀念日假期前後資料的波動性。根據美國勞工部週四公佈的資料，截至5月30日當週，首次申請失業救濟人數增加1.3萬人，至22.5萬人。持續申請人數在此前一週降至178萬人。該報告涵蓋的時段包含陣亡將士紀念日，且與部分學校的夏休開始時間相吻合。據彭博對經濟學家的調查顯示，市場對初請失業金人數的預估中值為21.5萬。
+
+---
+
+### 2026-06-04 20:45:39  #MKT News #Market Regions #Greater China
+
+【High-end fiber preform prices up nearly 550%; short-term supply tightness seen persisting】Prices for A2-class high-end fiber preforms — the upstream rods that determine optical-fiber performance — have surged, rising from 22–30 yuan per equivalent core-km in early 2025 to about 160 yuan per equivalent core-km in 2026, an increase of nearly 550%. Preforms account for roughly 70% of profit allocation in China’s fiber-cable value chain. A2 preforms produce bend-insensitive fiber widely used in AI compute infrastructure and last-mile/FTTH deployments, driving current demand. Capacity expansion typically requires 18–24 months, so supply tightness is likely to persist in phases; firms with existing preform capacity are positioned as the main beneficiaries, while smaller manufacturers may face supply shortages, subcontracting and margin compression.
+
+---
+
+### 2026-06-04 20:45:16  #其他
+
+【我國3D列印產業進入快速發展新階段】當前，隨著技術進步、出口增長以及應用場景的不斷擴大，我國3D列印正加快從實驗室走向工業生產和大眾消費市場，產業進入快速發展新階段。今年以來，消費級3D列印裝置憑藉價效比和易用性優勢，贏得了消費者的青睞。與印象中的“大塊頭”不同，這些裝置也就是微波爐的大小，可以放在書桌上，僅需簡單幾步，就能列印出自己的獨特設計，在海外家庭創客、小型工作室以及教育市場快速普及。與此同時，隨著列印效率、材料效能和裝置穩定性的全面提升，國產3D列印裝置應用場景正持續拓寬。在醫療領域，3D列印用在定製牙科修復、骨科植入物、助聽器、手術工具這些對“因人而異”要求很高的產品上；在航天領域，換熱器、噴注器等很多傳統工藝難以實現的內部結構，現在可以直接“列印出來”、一體成型，不僅效率更高、零件更輕，效能也更優。資料顯示，今年前四個月，我國3D列印裝置產量同比增長50.9%，出口量同比增長100.3%。目前，中國企業已佔據全球消費級3D列印裝置約90%的市場份額。 (央視新聞)
+
+---
+
+### 2026-06-04 20:45:08  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #Dow
+
+【U.S. initial jobless claims rise to 225,000, highest since early February】Initial jobless claims for the week ended May 30 rose to 225,000, above expectations of 213,000 and a revised prior 212,000, the highest since the first week of February. The four-week moving average increased to 214,750 from 208,250. Continuing claims fell to 1,777,000, slightly below the 1,780,000 forecast. The uptick in initial claims suggests some softening in the labor market but remains at relatively low, stable levels. Note continuing claims carry a one-week reporting lag, so next week’s continuing-claims print will correspond to this week’s initial claims. U.S. equity futures mixed in premarket: Dow futures +1.0%, S&P 500 futures -0.22%, Nasdaq futures down >1%. Treasury yields declined: 2-yr 4.039% (-4.5bps), 10-yr 4.455% (-3.8bps), 30-yr 4.960% (-3.0bps).
+
+---
+
+### 2026-06-04 20:44:59  #國際
+
+埃及總理：埃及政府暫無申請新一輪 IMF 紓困專案的意向。
+
+---
+
+### 2026-06-04 20:44:18  #其他
+
+【高階光纖預製棒價格漲幅近550% 業內人士：短期內光棒供給緊缺的情況仍會階段性固化】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。光棒可分為A、B、C三大類，其中，A2類光纖預製棒作為高階產品分類正出現爆發式需求。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。業內人士表示，光棒的擴產週期一般需要18至24個月，短期內，光棒供給緊缺的情況仍會階段性固化，擁有光棒產能的企業將成為本輪行情的最大受益方，中小廠商可能會面臨供應不足、接受代工、利潤擠壓等情況。 (央視財經)
+
+---
+
+### 2026-06-04 20:44:15  #國際
+
+【一架直升機在波蘭南部墜毀 造成1人死亡】當地時間6月4日，波蘭警方表示，救援人員於當天早上在波蘭南部的盧博戈什奇山山坡發現了一架墜毀的直升機殘骸，並在現場發現一具遺體。（央視新聞）
+
+---
+
+### 2026-06-04 20:44:15  #MKT News #Commodities #Energy #WTI #Brent
+
+OPEC Secretary General said oil-sector investment should not be affected by one-off events.
+
+---
+
+### 2026-06-04 20:43:55  #其他
+
+歐佩克秘書長表示：石油行業投資不應受一次性事件影響。
+
+---
+
+### 2026-06-04 20:43:50  #公司
+
+【先鋒精科：加熱器等新品年內有望實現收入】先鋒精科近期在機構調研時表示，在新產品開發方面，公司在加熱器等半導體先進功能器件的研發上持續加大研發力度，發展進度按計劃進行，如驗證順利今年將實現收入。此外，公司表示，在目前AI算力發展趨勢下，在未來一段時期，擴產是主旋律，國產半導體裝置及零部件行業會迎來擴張期。公司目前在手訂單充足，2026年第一季度在手訂單量同比增長55%，考慮到產能擴充、產品交付、效率提升等因素，預計公司營業收入將逐步得到釋放提升。
+
+---
+
+### 2026-06-04 20:43:34  #其他
+
+【空缺半月，交行普惠金融部總經理到崗】交通銀行普惠金融事業部（鄉村振興金融部）總經理已由交通銀行湖南省分行原黨委書記、行長劉鵬濤接任。劉鵬濤長期從事商業銀行零售金融業務，具有豐富的管理經驗。在湖南省分行行長任上，他對科技金融有獨到見解。近期，監管部門對普惠金融的導向從“規模驅動”轉向“質量優先”，普惠金融業務面臨調整期，商業銀行需重新設定KPI，穩住資產質量。（21世紀經濟報道）
+
+---
+
+### 2026-06-04 20:43:22  #公司
+
+【拓山重工：控股股東及一致行動人擬減持不超2.81%股份】拓山重工公告稱，控股股東、實際控制人徐楊順及其一致行動人徐建風、遊亦云擬自2026年6月30日至9月29日，透過集中競價及大宗交易方式減持不超210萬股，即不超公司總股本的2.81%。其中，徐楊順擬減持不超161.55萬股，佔比2.16%；徐建風擬減持不超32.31萬股，佔比0.43%；遊亦云擬減持不超16.14萬股，佔比0.22%。本次減持因個人資金需求，實施存在不確定性。
+
+---
+
+### 2026-06-04 20:43:14  #公司
+
+【通富微電：向特定物件發行股票提交註冊稿申請檔案】通富微電公告稱，公司向特定物件發行股票的申請於2026年6月3日獲深交所上市稽核中心稽核透過。公司會同中介機構更新了募集說明書等申請檔案，並已披露。本次發行尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性。公司將及時披露進展，提醒投資者注意風險。
+
+---
+
+### 2026-06-04 20:42:57  #國際
+
+印尼總統發言人：目前沒有替換現任財長的計劃。
+
+---
+
+### 2026-06-04 20:42:18  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+OPEC secretary general said the organization still sees strong oil demand growth and will not change its estimates.
+
+---
+
+### 2026-06-04 20:41:59  #其他
+
+石油輸出國組織（歐佩克）秘書長表示：我們仍預計石油需求將保持強勁增長，不會調整我們的需求增長預期。
+
+---
+
+### 2026-06-04 20:41:32  #公司 #觀點
+
+【銀華基金：增加華鑫證券、中金公司為旗下部分基金代銷機構】銀華基金公告稱，自2026年6月5日起，增加華鑫證券為旗下28只基金的場內申購贖回代辦券商，增加中金公司為銀華中證農業主題交易型開放式指數證券投資基金的場內申購贖回代辦券商。投資者可透過相關公司客服電話、網址諮詢詳情。基金管理人提醒留意投資風險。
+
+---
+
+### 2026-06-04 20:41:31  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #INTC.O #Impact bullish
+
+【Shenzhen Yiyatong named Intel 2026 solutions aggregator】Shenzhen Yiyatong Supply Chain Co. said it upgraded strategic cooperation with Intel and was appointed an Intel 2026 solutions aggregator. Under the qualification, Yiyatong is authorized to distribute Intel’s full range of chips and to supply Intel-ecosystem OEM/ODM customized finished products.
+
+---
+
+### 2026-06-04 20:41:21  #其他
+
+瑞銀將C3.ai目標價從9美元上調至12美元，此前C3.ai公佈的季度收益和銷售額均超出預期。
+
+---
+
+### 2026-06-04 20:41:10  #國際
+
+華納兄弟探索：已於2026年6月4日簽訂第一留置權信貸協議。根據美國證券交易委員會 filing 檔案，其信貸協議包含130億美元及17.17億歐元的七年定期貸款。
+
+---
+
+### 2026-06-04 20:40:13  #MKT News
+
+【South Korea's Democratic Party wins 12 of 16 local governor/mayoral posts; Oh Se-hoon re-elected Seoul mayor】South Korea's ruling Democratic Party captured 12 of 16 provincial governor and metropolitan mayor posts, according to results released on the 4th. The opposition People Power Party won four jurisdictions — Seoul, Daegu, North Gyeongsang and South Gyeongsang — with Oh Se-hoon re-elected as Seoul mayor. Parliamentary by-elections held on the 3rd returned Democratic Party candidates in 9 of 14 seats; the People Power Party won four seats; independent and former People Power leader Han Dong-hoon won one seat.
 
 ---
 
@@ -23026,179 +23152,5 @@ Weiduo Energy Group's Bahrain regional head of research said Persian Gulf refine
 ### 2026-06-03 18:45:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 【New York Post: Trump admits he called Netanyahu 'crazy'】In a Pod Force One interview, President Trump confirmed he told Israeli Prime Minister Netanyahu on Monday that he was "crazy," but said they "work very well together" and that he "likes" Netanyahu. Trump said he is frustrated by Israel's repeated clashes with Lebanon and warned Israeli strikes against Hezbollah risk jeopardizing U.S.–Iran peace talks because Iran insists Israel stop attacks on Hezbollah before any agreement. He added, "I am a wartime president and Netanyahu is a wartime prime minister."
-
----
-
-### 2026-06-03 18:45:56  #MKT News #Important #Market Themes #Chip Wars #AI Revolution #MRVL.O #Impact bullish #AMD.O #ASML.O
-
-【Four firms hit $1tn market cap in H1; Jensen Huang names MARVELL a dark horse】First-time entrants to the $1tn market-cap club in H1: Walmart hit $1tn on Feb. 3 on e‑commerce growth, customer expansion and digitalisation; Samsung Electronics reached $1tn on May 6, driven by AI-chip demand; Micron’s market cap crossed $1tn on May 26 after UBS raised its PT from $535 to $1,625; SK Hynix surpassed $1tn on May 27, becoming Korea’s second $1tn company after Samsung. Notable near‑term candidates: MARVELL — Jensen Huang flagged it at Computex and its stock jumped more than 30% in one day; AMD — one step from $1tn, Street consensus expects H2 AI‑chip shipments could push it over this year; ASML — Europe’s most likely $1tn candidate, market cap >$650bn and a core equipment supplier for the AI cycle.
-
----
-
-### 2026-06-03 18:45:47  #市場
-
-美敦力：預計受地緣政治環境變化影響，27財年每股收益將因燃料與運輸成本上漲面臨約1個百分點的不利拖累。
-
----
-
-### 2026-06-03 18:45:43  #其他
-
-美敦力2027財年攤薄後每股收益預期為6.06美元，營收預期為383.7億美元。
-
----
-
-### 2026-06-03 18:45:30  #公司 #國際
-
-美國另類資產管理公司第六街（Sixth Street）據悉即將達成協議，向大宗商品市場情報平臺Kpler投資逾10億美元。
-
----
-
-### 2026-06-03 18:45:24  #其他
-
-美敦力：27財年第一季度股息上調至每股0.72美元。
-
----
-
-### 2026-06-03 18:45:19  #國際
-
-特朗普：我的認知測試成績非常好。
-
----
-
-### 2026-06-03 18:45:15  #MKT News
-
-U.S. President Trump said he performed perfectly on a cognitive test.
-
----
-
-### 2026-06-03 18:44:33  #其他
-
-【強降雨持續 貴州釋出地質災害風險橙色預警】據貴州省氣象臺最新氣象預報顯示，6月3日15時30分至4日20時，貴州省中南部地區將出現雷雨天氣，黔東南州中南部、黔南州中南部、黔西南州、六盤水市、安順市、畢節市西部等地區局地將出現以短時強降水為主的強對流天氣，最大小時雨量可達60～80毫米，西部地區的部分鄉鎮伴有雷暴大風或冰雹，最大陣風9～10級，最大冰雹直徑10～20毫米。
-
----
-
-### 2026-06-03 18:44:16  #公司
-
-【匯綠生態：持股5%以上股東質押307萬股股份】匯綠生態公告稱，公司持股5%以上股東寧波匯寧於2026年6月2日及6月3日辦理股票質押業務，累計質押307萬股，佔其所持股份2.46%，佔公司總股本0.39%，質押用途為自身資金需求。截至公告披露日，寧波匯寧及其一致行動人累計質押4796萬股，佔其所持股份13.54%，佔公司總股本6.11%。目前，寧波匯寧股份不存在平倉風險，質押風險可控。
-
----
-
-### 2026-06-03 18:44:07  #公司
-
-維多集團：波斯灣煉油廠產能下降約300萬桶/日。
-
----
-
-### 2026-06-03 18:43:48  #MKT News
-
-【China mass-produces rocket propellant tank bottoms; production cycle cut >90%】Dalian University of Technology’s School of Mechanical Engineering team used an internationally first “ultra-low temperature forming” process to mass-produce integrated propellant-tank bottoms over 2 m in diameter, shortening manufacturing cycles by more than 90%. The metal panels are 4 mm thick with a smooth finish; despite their thinness they must withstand launch vibration, shock and support hundreds of tonnes of propellant. The university says the breakthrough could lower costs and raise launch cadence efficiency for commercial space operators.
-
----
-
-### 2026-06-03 18:43:15  #其他
-
-【應急管理部針對江西、湖南、貴州啟動國家地質災害四級應急響應】據氣象部門預測，6月3日-5日，江西中北部、湖南中部、貴州中南部等部分地區有大到暴雨過程，局地有大暴雨。應急管理部和自然資源部開展聯合會商研判，江西東北部、湖南中部、貴州西部區域性地區發生地質災害的風險較高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於6月3日針對江西、湖南、貴州啟動國家地質災害四級應急響應。應急管理部要求，相關強降水地區要密切監視雨情汛情和地質災害災情險情，落實部門協同聯動工作機制，壓實地方防範應對主體責任，加強會商研判和預警響應聯動，預置前置救援力量、物資、裝備，強化巡查排查和監測預警，果斷組織轉移避險，切實做好地質災害防範應對工作。
-
----
-
-### 2026-06-03 18:42:37  #公司
-
-【惠泰醫療：控股子公司取得兩項醫療器械註冊證】惠泰醫療公告，控股子公司深圳皓影醫療科技有限公司取得兩項醫療器械註冊證。產品名稱為血管內超聲診斷裝置和一次性使用血管內超聲診斷導管，註冊分類均為第三類有源醫療器械，註冊證編號分別為國械注準20263061139和國械注準20263061140。上述產品均為國家藥品監督管理局批准的創新醫療器械。
-
----
-
-### 2026-06-03 18:42:36  #其他
-
-【我國火箭推進劑貯箱箱底實現量產 製作週期大幅縮短】最近，大連理工大學機械學院高效能精密成形團隊，基於國際首創的“超低溫成形技術”，成功實現了直徑超2米的光板整體推進劑貯箱箱底的量產，將製造週期縮短了90%以上，有望為商業航天的高頻次發射降本增效。（央視新聞）
-
----
-
-### 2026-06-03 18:42:14  #公司
-
-【鑫磊股份：股東鴻聖投資擬減持1.1763%股份】鑫磊股份公告，鴻聖投資持股739.67萬股（佔4.7056%），擬於2026年5月28日至8月27日以集中競價或大宗交易方式減持不超184.91萬股（佔1.1763%）。2026年6月2日，其以50.48元/股大宗交易向鍾千紅轉讓39.05萬股，佔0.2484%；轉讓後鴻聖投資持股700.62萬股，佔4.5912%，鍾千紅直接持股39.05萬股，佔0.2559%。本次一致行動人內部轉讓不觸及要約收購，不影響公司控制權。
-
----
-
-### 2026-06-03 18:42:09  #公司 #市場
-
-【三環集團：H股發行獲中國證監會備案，擬發行不超過1.49億股】三環集團公告，公司此前正申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市。公司於近日收到中國證監會出具的備案通知書，公司擬發行不超過1.49億股境外上市普通股並在香港聯交所上市。公司本次發行H股並上市尚需取得香港證券及期貨事務監察委員會和香港聯交所等相關監管機構的批准，該事項仍存在不確定性。
-
----
-
-### 2026-06-03 18:41:44  #公司
-
-【晶盛機電：改變部分募集資金用途 投資半導體裝備精密零部件智慧化生產專案等新專案】晶盛機電(300316.SZ)公告稱，公司董事會同意將“12英寸積體電路大矽片裝置測試實驗線專案”募集資金投資總額調整為1.78億元，並將剩餘募集資金及已終止專案剩餘募集資金合計8.61億元(含利息及理財收益)投資於新專案“半導體裝備精密零部件智慧化生產專案”和“高階半導體裝置碳化矽零部件產業化專案”。該事項尚需提交股東會審議。
-
----
-
-### 2026-06-03 18:41:35  #國際
-
-特朗普：萬斯與魯比奧搭檔參選將所向披靡。他們關係良好。
-
----
-
-### 2026-06-03 18:41:24  #MKT News
-
-Trump said he believes acting US Attorney General Blanche will serve as attorney general.
-
----
-
-### 2026-06-03 18:41:16  #MKT News #Market Themes #The Trump Trade
-
-President Trump said Federal Housing Finance Agency director and acting head of the National Intelligence Agency Puert is very talented.
-
----
-
-### 2026-06-03 18:40:26  #國際
-
-特朗普：我認為布蘭奇會成為司法部長。
-
----
-
-### 2026-06-03 18:39:59  #國際
-
-特朗普：普爾特非常有才華。
-
----
-
-### 2026-06-03 18:39:32  #其他
-
-烏茲別克4月份貿易逆差擴大至82.18億美元。
-
----
-
-### 2026-06-03 18:39:29  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【New York Post: Trump signals willingness to meet Iran's supreme leader Mujtaba Khamenei】The New York Post reports President Trump told Pod Force One on Wednesday he expects to meet Iran's supreme leader Mujtaba Khamenei, saying the leaders have "gotten along pretty well" despite stalled peace talks. Asked if a meeting was possible, Trump said: "Yes, I'd like to meet him. We may meet at some point, depending on how things progress." The paper flagged the shift in tone after Trump previously called Khamenei a "lightweight" and an "unacceptable choice" to lead Iran.
-
----
-
-### 2026-06-03 18:39:22  #國際
-
-印度尼西亞總檢察長辦公室：三名國家營養署前官員因涉嫌違反免費午餐計劃的管理規定被捕。
-
----
-
-### 2026-06-03 18:39:15  #公司
-
-【黃仁勳向億萬富豪家族宣傳AI投資驚人回報 稱只有“瘋狂”的人才會質疑】英偉達執行長黃仁勳大力宣揚押注AI熱潮所能帶來的“驚人”回報，試圖打消市場對於AI鉅額投入以及其長期盈利能力的持續擔憂。這位英偉達聯合創始人本週大部分時間都在臺北國際電腦展上積極宣傳AI將如何徹底改變經濟和社會。週二晚間，他還抽空向數百名來自金融機構和家族辦公室的代表發表講話。作為一名億萬富翁，黃仁勳表示，只有“瘋狂”的人才會質疑AI投資的回報率，因為這項技術已經創造了數萬億美元的價值。
-
----
-
-### 2026-06-03 18:38:59  #國際
-
-美國地質調查局（USGS）：萬那杜海域發生 5.6 級地震。
-
----
-
-### 2026-06-03 18:38:32  #國際
-
-【特朗普：一旦伊朗戰爭結束，美國汽油價格就會下降】美國總統特朗普在週三播出的播客採訪中表示，一旦伊朗衝突結束，美國的汽油價格就會下降，而且目前的通脹水平並非“很高”。“我們的通脹並不嚴重。你看，如果排除汽油和能源價格，我們通脹很輕微，”特朗普在播客中說道。
-
----
-
-### 2026-06-03 18:38:22  #公司
-
-【協鑫能科牛曙斌：“四化”多維解決方案應對新能源消納難等瓶頸】6月2日，協鑫能科副總裁牛曙斌在接受記者採訪時表示，近年來，國內新能源裝機規模持續高速擴容，新能源消納難、能源系統執行復雜等問題日益凸顯，成為制約新型電力系統建設、“雙碳”戰略落地的核心瓶頸。對此，牛曙斌提出“四化”發展思路，在場景化、規模化發展層面，行業需深度精準挖掘光伏多元應用場景，依託土地高效利用、光伏建築一體化等創新模式，最大化提升光伏立體化面積利用率，同時，以規模化專案落地為核心，持續提升新能源就地消納能力。在市場化改革層面，全面依託電力市場化機制，打通綠電交易、儲能調峰、負荷聚合等多元交易通道，充分啟用源、網、荷、儲全鏈條資源活力，以市場化手段精準最佳化能源資源配置。在金融化賦能層面，行業需深化能源與綠色金融的深度融合，依託各類綠色金融工具賦能零碳專案，有效降低新能源專案投融資成本。
 
 ---

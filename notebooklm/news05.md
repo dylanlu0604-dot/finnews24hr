@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 01:01:38_
-_本檔包含 3501 則快訊，約 699073 字_
+_更新時間：2026-06-06 01:40:20_
+_本檔包含 3472 則快訊，約 699140 字_
+
+---
+
+### 2026-06-01 16:59:25  #公司
+
+【新華製藥：獲得碳酸司維拉姆幹混懸劑藥品註冊證書】新華製藥公告稱，近日收到國家藥監局核准簽發的碳酸司維拉姆幹混懸劑《藥品註冊證書》，規格為0.8g、2.4g。本品用於控制慢性腎臟病成人患者的高磷血癥，屬醫保目錄（2025年版）乙類品種。2025年中國公立醫療機構司維拉姆相關製劑銷售額約7.5億元。該藥品獲批豐富了公司製劑產品系列，提升綜合競爭力，但藥品銷售受政策、市場等因素影響，存在不確定性。
+
+---
+
+### 2026-06-01 16:58:54  #其他
+
+【全國出口機器人1/4深圳造】據深圳海關統計，今年前4月，深圳機器人產業海外市場拓展步伐加快，各類單獨列名的機器人合計出口額達40.3億元，佔全國25.5%。全國出口機器人每4元產值，就有1元來自“深圳造”，產品銷往全球100多個國家和地區。（南方+）
+
+---
+
+### 2026-06-01 16:58:23  #公司
+
+【翠微股份：董事、總經理陶清懋因工作調動離任】翠微股份公告稱，公司董事會於2026年6月1日收到董事、總經理陶清懋書面辭職報告，其因工作調動，申請辭去相關職務，辭職後不再擔任公司任何職務。原定任期至2028年9月14日，辭職報告自董事會收到之日起生效，未導致董事會成員低於法定最低人數，不影響公司正常執行。公司將按程式完成後續董事補選及總經理聘任工作。
+
+---
+
+### 2026-06-01 16:57:54  #公司
+
+迪拜媒體辦公室：迪拜環球港務集團的此項投資是在之前已承諾投入的7.6億美元基礎上追加的。
+
+---
+
+### 2026-06-01 16:57:52  #公司
+
+迪拜媒體辦公室：迪拜環球港務集團將投資1億美元擴建多明尼加共和國物流產能。
+
+---
+
+### 2026-06-01 16:57:39  #其他
+
+【以軍要求黎巴嫩南部多地居民緊急撤離】以軍阿語發言人阿德拉伊6月1日在社交媒體先後釋出兩份緊急警告，要求黎巴嫩南部九個村鎮的居民立即撤離。以軍稱，因黎巴嫩真主黨“違反停火協議”，以軍將在相關區域採取軍事行動。以軍要求部分地區居民撤離至距村鎮至少1公里的空曠區域，並要求部分地區居民前往宰赫拉尼河以北地區。以軍同時警告稱，任何靠近黎巴嫩真主黨成員、設施或武器裝備的人都將有“生命危險”。（央視新聞）
+
+---
+
+### 2026-06-01 16:57:32  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【IDF orders emergency evacuations in multiple southern Lebanon towns】IDF Arabic-language spokesman Adraee posted two emergency warnings on social media on June 1, ordering residents of nine towns and villages in southern Lebanon to evacuate immediately. The IDF said it would carry out military operations in the areas after HEZBOLLAH "violated the ceasefire." Residents in some zones were told to move to open areas at least 1 km from their towns; others were instructed to relocate north of the Zahrani River. The IDF warned anyone approaching HEZBOLLAH members, facilities or weapons would face "life-threatening danger."
+
+---
+
+### 2026-06-01 16:57:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign ministry: Iranian forces struck back at US "aggression"】Iran's foreign ministry said on June 1 Iranian armed forces struck back at a US "aggressive action", calling the US move a violation of the ceasefire and saying Iran hit "the source" of the aggression. Spokesperson BAGHAEI said US-Iran talks are being conducted amid high suspicion and distrust, with intermediated messaging similarly mistrusted; Washington has repeatedly shifted positions, made new or contradictory demands and released conflicting information via media, which is delaying the process. He said there have been no negotiations on nuclear-related details to date and current talks are focused on ending the war.
+
+---
+
+### 2026-06-01 16:57:00  #公司
+
+【和泰機電：2025年年度權益分派方案實施 每10股派3.12元】和泰機電公告稱，公司2025年年度權益分派方案已獲2026年4月17日股東會審議透過，以現有總股本65,570,800股為基數，向全體股東每10股派發現金股利3.12元（含稅），不送紅股、不以資本公積金轉增股本。股權登記日為2026年6月5日，除權除息日為6月8日。此外，實際控制人等相關股東承諾減持價格相應調整為42.78元/股，限制性股票回購價格也將調整。
+
+---
+
+### 2026-06-01 16:56:21  #國際
+
+【伊朗外交部：伊朗武裝部隊回擊美軍“侵略行動”】伊朗外交部發言人巴加埃6月1日說，美軍對伊朗的“侵略行動”違反停火協議，伊朗武裝部隊予以回擊，伊方打擊了“美國侵略行動的源頭”。 巴加埃表示，伊美談判在高度猜疑和不信任的氛圍中進行，透過中間人的資訊傳遞也在同樣的不信任氛圍中進行。美方不斷改變立場，提出新的或相互矛盾的要求，並透過媒體釋放相互矛盾的資訊，談判程序在這種情況下自然會被拖延。 巴加埃還說，現階段並未就核問題相關事項的細節進行任何談判，現階段談判重點在於結束戰爭。 當天早些時候，伊朗伊斯蘭革命衛隊公共關係部門發表宣告稱，在美軍對伊朗一處通訊塔發動“侵略”後，革命衛隊對“侵略源頭”的美軍空軍基地進行打擊，並“摧毀了預定目標”。科威特方面同日表示，科威特防空系統攔截了“敵方”導彈和無人機。(新華社)
+
+---
+
+### 2026-06-01 16:55:45  #其他
+
+【成都：加快全國一體化算力網路成渝國家樞紐節點和天府資料中心叢集建設】中共成都市委、成都市人民政府釋出《關於加快建設全國先進製造業基地的意見》，意見提出，強化人工智慧賦能。加快行業高質量資料集建設，推進智慧晶片、行業大模型、智慧體等研發和產業化應用，加速人工智慧賦能千行百業。加快新一代智慧終端和智慧體在設計、中試、生產、服務、運營全環節落地應用，推進工業全要素智慧化發展，培育智慧原生新業態新模式，發展一批智慧原生企業。加快全國一體化算力網路成渝國家樞紐節點和天府資料中心叢集建設，提升規模以上工業企業智改數轉水平，打造一批智慧工廠和智慧供應鏈。
+
+---
+
+### 2026-06-01 16:55:39  #國際
+
+【中方對南美五國實施免籤政策一週年，8.1萬人次南美旅客經上海入境】5月31日，中方對巴西、阿根廷、智利、秘魯、烏拉圭五國實施免籤政策迎來一週年。一年來，政策紅利持續釋放，南美旅客來華熱情高漲。記者從上海邊檢總站獲悉，自2025年6月1日至2026年5月31日，共有8.1萬人次南美五國旅客經上海口岸入境，同比增長50.5%。其中，利用免籤政策入境的旅客佔比近七成，免籤已成為拉動入境遊市場的強勁引擎。（上觀）
+
+---
+
+### 2026-06-01 16:55:29  #MKT News #Market Themes #Chip Wars
+
+【Chengdu launches manufacturing quality drive to build chips, high-end displays, smart vehicles, innovative drugs and aircraft】Chengdu municipal party committee and government issued guidance to accelerate building a national advanced manufacturing base, pledging to develop a portfolio of flagship products. The plan advances Chengdu as a demonstration city for the national consumer-goods "three-product" strategy, targeting green food, digital cultural & creative goods and smart home to cultivate branded and hit consumer items. It will implement a Manufacturing Excellence Quality Program to develop future chips, high-end screens, smart vehicles, innovative drugs and aircraft, and a Basic Capability Upgrade Program focused on core machine tools, advanced materials and industrial software, with support for first-of-a-kind equipment, initial batch materials and first-release software products.
+
+---
+
+### 2026-06-01 16:55:09  #公司
+
+【光正眼科：3470萬元轉讓子公司51%股權完成工商變更】光正眼科公告稱，公司此前擬以3470萬元向陳明惠轉讓控股子公司中景利華51%股權，該議案已獲董事會和股東會透過。近日，中景利華完成股權轉讓工商變更登記，換髮新營業執照，同時完成稅務、銀行等相關資訊變更。轉讓完成後，公司不再持有中景利華股權，其不再納入公司財務報表合併範圍。股權結構上，陳明惠持股升至85.3%，蘇歡持股14.7%。
+
+---
+
+### 2026-06-01 16:54:06  #其他
+
+【成都：實施製造業卓越質量工程，打造未來芯、高階屏、智慧車、創新藥、航空器等產業名品、終端產品】中共成都市委、成都市人民政府釋出《關於加快建設全國先進製造業基地的意見》，意見提出，打造一批標誌性產品。推進國家消費品工業“三品”戰略示範城市建設，聚焦綠色食品、數字文創、智慧家居等特色領域，培育一批時尚單品、爆款產品。實施製造業卓越質量工程，打造未來芯、高階屏、智慧車、創新藥、航空器等產業名品、終端產品。實施基礎能力提升工程，聚焦工業母機、先進材料、工業軟體等領域，研製推廣一批首臺（套）裝備、首批次材料、首版次軟體產品。
+
+---
+
+### 2026-06-01 16:53:38  #MKT News #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bullish #SSE Composite #Copper
+
+【Chengdu to accelerate AI, low‑altitude economy and green hydrogen under advanced-manufacturing plan】Chengdu Municipal Party Committee and Chengdu Municipal Government issued Opinions on accelerating construction of a national advanced manufacturing base, instructing an industrial-innovation program to speed development of artificial intelligence, the low‑altitude economy (drones and urban air mobility) and green hydrogen. The plan directs upgrades to support industries including integrated circuits, new displays and aerospace, and calls for capacity enhancement in intelligent connected vehicles, rail transit and biomedicine to cultivate new industrial pillars and build manufacturing clusters.
+
+---
+
+### 2026-06-01 16:53:31  #公司 #國際
+
+【長春高新：子公司注射用GenSci136境外生產藥品註冊臨床試驗申請獲得批准】長春高新公告，子公司金賽藥業收到美國食品藥品監督管理局關於同意GenSci136開展臨床試驗的批准檔案。注射用GenSci136是金賽藥業自主研發的B細胞成熟抗原（BCMA）三聚體融合蛋白，BAFF/APRIL雙靶點拮抗劑，擬用於治療重症肌無力（MG）。MG是獲得性神經肌肉接頭傳遞障礙的自身免疫性疾病，可累及全身骨骼肌，當眼外肌受累時，臨床表現為對稱或非對稱性上瞼下垂和（或）複視，是MG最常見的首發症狀。
 
 ---
 
@@ -20884,283 +20986,5 @@ Universal Music Group rejected Bill Ackman’s $64 billion takeover offer, sayin
 ### 2026-05-30 01:45:39  #公司
 
 市場訊息：環球音樂集團董事會拒絕潘興廣場的主動收購提案。
-
----
-
-### 2026-05-30 01:39:48  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Intercontinental Exchange data: week to May 26, speculative net long positions in Brent crude fell by 56,568 contracts to 278,720 contracts.
-
----
-
-### 2026-05-30 01:35:24  #國際
-
-歐盟：對哈馬斯及巴勒斯坦伊斯蘭聖戰組織實施新一輪制裁。
-
----
-
-### 2026-05-30 01:35:05  #MKT News #Market Regions #Europe & UK
-
-EU to impose further sanctions on Hamas and Palestinian Islamic Jihad.
-
----
-
-### 2026-05-30 01:34:55  #MKT News
-
-According to the Financial Times, BANK OF ENGLAND'S governor BAILEY said a 60-day ceasefire would help address the issue but would not fully resolve it.
-
----
-
-### 2026-05-30 01:32:03  #公司 #國際
-
-美國銀行分析師將戴爾財報形容為“歷史性”，並預計其股價最高漲至500美元。
-
----
-
-### 2026-05-30 01:31:48  #央行 #其他
-
-英國央行行長貝利：停火仍會帶來不確定性。暫停60天會有所幫助，但無法徹底解決問題。
-
----
-
-### 2026-05-30 01:31:47  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $11.677 bln from 11 counterparties in a fixed-rate reverse repo operation.
-
----
-
-### 2026-05-30 01:31:31  #MKT News
-
-Financial Times reported Bank of England Governor Bailey said a ceasefire in the Middle East would still bring uncertainty.
-
----
-
-### 2026-05-30 01:24:53  #國際
-
-據伊通社：伊朗表示仍在與美國繼續進行資訊交流。
-
----
-
-### 2026-05-30 01:24:44  #央行 #其他
-
-英國央行行長貝利：設定穩定幣發行限額無疑是可行方案。
-
----
-
-### 2026-05-30 01:24:02  #國際
-
-【烏克蘭首都基輔傳出爆炸聲】當地時間5月29日獲悉，烏克蘭首都基輔傳出爆炸聲。此前基輔拉響防空警報。（央視新聞）
-
----
-
-### 2026-05-30 01:22:47  #央行 #其他
-
-英國央行行長貝利：穩定幣相關提案將於夏季前提交。
-
----
-
-### 2026-05-30 01:21:42  #央行 #其他
-
-英國央行行長貝利：私人信貸領域已出現承壓跡象。
-
----
-
-### 2026-05-30 01:20:20  #MKT News
-
-Bank of England Governor Bailey said the second phase of Glasswing has not yet started.
-
----
-
-### 2026-05-30 01:19:12  #央行 #其他
-
-英國央行行長貝利：應對網路風險必須採取國際協作方式。
-
----
-
-### 2026-05-30 01:18:56  #央行 #其他
-
-英國央行行長貝利：Glasswing 第二階段尚未啟動。
-
----
-
-### 2026-05-30 01:18:10  #央行 #國際
-
-週五（5月29日），美聯儲隔夜逆回購協議（RRP）使用規模為116.77億美元（交易對手11家），上個交易日報11.63億美元。
-
----
-
-### 2026-05-30 01:16:58  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish
-
-Daly said productivity gains are an important channel for growth and can enable firms to expand payrolls.
-
----
-
-### 2026-05-30 01:16:09  #央行 #其他
-
-英國央行行長貝利：英國各大銀行並未接入 Mythos 系統，英國銀行可使用其他模型。
-
----
-
-### 2026-05-30 01:15:26  #央行 #國際
-
-美聯儲戴利：生產率提升是拉動經濟增長的重要途徑，也能讓企業吸納更多勞動力。
-
----
-
-### 2026-05-30 01:15:19  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-Daly said restoring price stability is vital but should not come at the expense of the economy.
-
----
-
-### 2026-05-30 01:15:06  #央行 #國際
-
-美聯儲戴利：美聯儲務必恢復物價穩定，但不能以損害經濟為代價。
-
----
-
-### 2026-05-30 01:14:08  #公司 #市場 #央行 #國際
-
-【貝萊德削減模型投資組合的股票持倉 對股市超額回報持謹慎看法】隨著美國股市在強勁的財報季後飆升至創紀錄高位，貝萊德著手削減其2200億美元模型投資組合業務中的股票持倉。投資展望報告顯示，這家全球最大資產管理公司已將股票超配比例從3%下調至1%。資料顯示，這一調整在週四引發貝萊德旗下各類ETF之間數十億美元的資金流動。貝萊德Target Allocation ETF模型投資組合系列的首席投資組合經理Michael Gates撰文指出，此舉是在美國企業經歷“劃時代財報季”之後做出的。他表示，強勁的業績、蓬勃發展的生產力以及穩健的經濟環境在近幾周將標普500指數推升至歷史新高，抵消了伊朗戰爭以及美聯儲今年降息預期退潮造成的負面影響。但他同時警告，如今越來越難期待股市繼續取得超額回報，市場已經消化了利好因素，而“我們認為未來避開潛在風險的路徑正在變窄”。Gates表示，貝萊德對股市依然充滿信心，將繼續維持押注企業利潤增長、人工智慧以及政府支出的倉位。
-
----
-
-### 2026-05-30 01:13:55  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iran's Foreign Ministry spokesman Baghaei said management of the Strait of Hormuz must be decided by Iran and Oman, and that no agreement with the U.S. has been reached to date.
-
----
-
-### 2026-05-30 01:13:17  #焦點 #國際
-
-伊朗外交部發言人巴加埃： 目前伊朗與美國尚未達成任何最終協議。
-
----
-
-### 2026-05-30 01:13:04  #國際
-
-伊朗外交部發言人巴加埃： 霍爾木茲海峽的管控事宜應由伊朗和阿曼共同商定。
-
----
-
-### 2026-05-30 01:11:52  #其他
-
-路透社調查：市場預計哥倫比亞 2027 年末通脹率升至 5%，此前調查預期為 4.80%。市場預計哥倫比亞 2026 年末通脹率升至 6.50%，此前調查預期為 6.40%。
-
----
-
-### 2026-05-30 01:10:47  #MKT News #Important
-
-Baghaei, Iranian foreign ministry spokesperson, said currently Iran is focused on ending the war and is not negotiating its nuclear program.
-
----
-
-### 2026-05-30 01:10:29  #Trading Economics #Markets #Ireland #stocks #Importance 0
-
-Medtronic Stock Price Hits 30-month Low — Medtronic shares decreased to 74.40 USD, the lowest since November 2023. Over the past 4 weeks, Medtronic lost 8.1%, and in the last 12 months, it decreased 10.4%.
-
----
-
-### 2026-05-30 01:10:23  #焦點 #國際
-
-伊朗外交部發言人巴加埃接受國家電視臺採訪時表示：現階段我們的重心是結束戰事，不會就伊朗核計劃展開談判。
-
----
-
-### 2026-05-30 01:10:22  #MKT News
-
-Federal Reserve Governor Daly said she does not expect AI to cause widespread unemployment or large-scale job losses.
-
----
-
-### 2026-05-30 01:08:42  #Trading Economics #Economy #United States #Calendar #Importance 2
-
-Week Ahead - Jun 1st — The ongoing conflict between the US and Iran will set the pace for global markets after reports of progress in a deal that includes restoring trade through the Strait of Hormuz. On the data front, the US will have its labor data week, headlined by the jobs report but also featuring results from the JOLTS, the ADP report, and Challenger job cuts. In turn, the ISM PMIs will unveil fresh leading signals in an uncertain period of the US economy. China will join the US in releasing key PMI data, both industry and the official NBS gauges. In Europe, the Eurozone will release its May inflation rate and April retail sales. Elsewhere, Australia, India, and Turkey will release their GDPs, and India will set its interest rate. On the political front, the US will see primary elections across the country. Earnings by Broadcom, Palo Alto Networks, and Crowdstrike will add to details on the AI economy.
-
----
-
-### 2026-05-30 01:07:28  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bullish #Nasdaq100
-
-Fed's Daly expects artificial intelligence to boost productivity growth and says positive signs are emerging.
-
----
-
-### 2026-05-30 01:07:14  #央行 #國際
-
-美聯儲戴利： 並未看到人工智慧引發大規模失業或勞動力崗位被取代的情況。
-
----
-
-### 2026-05-30 01:07:01  #央行 #國際
-
-美聯儲戴利： 人工智慧正顯現出提振生產率增長的初步向好跡象。
-
----
-
-### 2026-05-30 01:06:51  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Daly said regulatory barriers are the primary obstacle to realizing sustained productivity gains from artificial intelligence.
-
----
-
-### 2026-05-30 01:06:44  #央行 #國際
-
-美聯儲戴利：人工智慧已顯現出推動生產率增長的積極跡象。
-
----
-
-### 2026-05-30 01:06:27  #央行 #國際
-
-美聯儲戴利：人工智慧實現可持續生產率增長的障礙主要來自監管層面。
-
----
-
-### 2026-05-30 01:05:16  #MKT News
-
-{"title":"Putin says there are reasons to believe Russia-Ukraine conflict may be nearing an end","content":"Xinhua on 29 cited President Putin saying there are reasons to believe the Russia-Ukraine conflict may be nearing an end, but with fighting continuing no specific end date can be set. He said Russian strikes on the Kyiv region were in response to Ukrainian attacks on Luhansk and that Russian forces are launching an offensive across the special military operation zone. Putin called European politicians' talk of preparing to fight Russia "nonsense", saying Russia has not and does not threaten European states but any location posing a direct military threat to Russia would be a "legitimate target.""}
-
----
-
-### 2026-05-30 01:04:24  #國際
-
-【普京：有理由認為俄烏衝突臨近收尾】據今日俄羅斯通訊社29日援引俄總統普京的話報道，從特別軍事行動戰場形勢來看，有理由認為俄烏衝突臨近收尾，但在交戰持續的現狀下，無法劃定俄烏衝突的具體結束時限。普京說，俄方對基輔地區實施打擊，是對烏軍襲擊盧甘斯克地區的回應，俄軍正在特別軍事行動區域全線發起攻勢。普京還說，歐洲政客關於準備與俄作戰的言論是“無稽之談”，俄方過去和現在都沒有威脅歐洲國家，但所有對俄方構成直接軍事威脅的地方都會是“合法目標”。普京當天結束對哈薩克國事訪問後，在記者會談及俄烏衝突時作上述表態。（新華社）
-
----
-
-### 2026-05-30 01:02:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Baker Hughes oilfield services said U.S. drillers added oil and gas rigs for a sixth consecutive week.
-
----
-
-### 2026-05-30 01:02:16  #MKT News #WTI #Impact bearish #Brent
-
-US total rig count for week ending May 29: 562 rigs, up from 558 the prior week.
-
----
-
-### 2026-05-30 01:02:02  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Rig Count (May.29) | actual 562 | previous 558
-
----
-
-### 2026-05-30 01:01:50  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US total oil rigs 429 in the week to May 29, vs. 425 the prior week.
-
----
-
-### 2026-05-30 01:01:48  #焦點 #國際
-
-美國5月29日當週總鑽井數 562，前值 558。
-美國5月29日當週天然氣鑽井數 125，前值 125。
-美國5月29日當週石油鑽井數 429，前值 425。
-
----
-
-### 2026-05-30 01:01:42  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Oil Rig Count (May.29) | actual 429 | previous 425
 
 ---
