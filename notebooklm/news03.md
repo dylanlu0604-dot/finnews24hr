@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 07:11:14_
-_本檔包含 3986 則快訊，約 700111 字_
+_更新時間：2026-06-06 07:40:46_
+_本檔包含 3994 則快訊，約 700093 字_
+
+---
+
+### 2026-06-03 20:16:42  #國際
+
+美國稀土：得克薩斯州圓頂稀土礦計劃於2028年實現商業化生產。
+
+---
+
+### 2026-06-03 20:16:32  #國際
+
+ADP：美國 5 月服務業新增就業 11.4 萬人。
+
+---
+
+### 2026-06-03 20:16:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+ADP chief economist Nela Richardson said May's hiring growth was broader than in recent years. With the summer hiring season underway, the labor market continues to show persistent growth momentum.
+
+---
+
+### 2026-06-03 20:16:04  #公司
+
+塞爾維亞能源部長表示，匈牙利莫爾石油集團（MOL）正尋求延長談判期限，以最終完成對塞爾維亞石油工業公司（NIS）的收購事宜。
+
+---
+
+### 2026-06-03 20:16:01  #公司 #國際
+
+美國稀土公司與美國商務部敲定最終協議，獲得最高16億美元資金支援，以推進美國領先稀土價值鏈建設。
+
+---
+
+### 2026-06-03 20:15:55  #國際
+
+美國稀土專案相關協議包含最高2.77億美元聯邦資金，以及《晶片法案》項下13億美元貸款。
+
+---
+
+### 2026-06-03 20:15:49  #公司 #國際
+
+美國稀土公司將向美國商務部發行1610萬股股票及1760萬份認股權證。
+
+---
+
+### 2026-06-03 20:15:47  #其他
+
+【杭州上演“搶地”大戰：4宗宅地收金46億，最高溢價率超60%】6月3日，杭州2026年第10批次土拍舉行，共出讓4宗涉宅地塊，分別位於上城區九堡、西湖區雙橋、錢塘區下沙金沙湖及東部灣新城，總成交額46.2億元，平均溢價率41.9%，市場熱度持續高漲。（新京報）
+
+---
+
+### 2026-06-03 20:15:27  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+【US ADP private payrolls +122k in May, largest since Jan last year】US May ADP private payrolls rose 122,000, the largest monthly increase since January last year.
+
+---
+
+### 2026-06-03 20:15:24  #經濟數據 #美國
+
+美國5月ADP就業人數為增加12.2萬人，預期11.7萬人，前值10.9萬人。
+
+---
+
+### 2026-06-03 20:15:21  #國際
+
+ADP資料顯示，美國製造業崗位增加8000個。
+
+---
+
+### 2026-06-03 20:15:08  #國際
+
+美國5月ADP就業人數 12.2萬人，預期11.7萬人，前值10.9萬人。
+
+---
+
+### 2026-06-03 20:15:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+US May ADP private payrolls +122k vs +117k expected; April +109k.
+
+---
+
+### 2026-06-03 20:15:05  #MKT News #Market Regions #Greater China #000002.SZ #Impact bullish #600048.SS #CSI300
+
+【Hangzhou land auction sees fierce bidding; four residential sites fetch 4.62 bln yuan, top premium above 60%】June 3 — Hangzhou's 10th 2026 land sale auctioned four residential parcels in Jiubao (Shangcheng), Shuangqiao (Xihu), Xiasha Jinsha Lake (Qiantang) and Eastern Bay New City for a total of 4.62 billion yuan. Average premium was 41.9% and the highest premium exceeded 60%, indicating sustained market heat.
+
+---
+
+### 2026-06-03 20:15:00  #MKT News #Economic Calendar #Important
+
+United States | ADP Employment Change (May) | actual 122000K | consensus 117000K | previous 109000K
 
 ---
 
@@ -23968,47 +24058,5 @@ Kia U.S. May vehicle sales 80,502 units vs 79,007 a year earlier, up 1.9% YoY.
 ### 2026-06-02 18:59:17  #公司 #市場
 
 【方大集團：A股股票交易異常波動 一季度營收7.29億元】方大集團公告稱，公司A股股票交易價格在2026年6月1日、6月2日連續兩個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司未發現需更正補充的前期披露資訊，目前經營及內外部環境未變，控股股東和實控人無應披露未披露重大事項，異常波動期間也無買賣公司股票情形。2026年一季度，公司營收7.29億元，淨利潤2820.13萬元，業績有所下降。此外，公司6月2日披露的A股回購方案存在實施、終止及股份授出等風險。
-
----
-
-### 2026-06-02 18:59:05  #MKT News #Macro & Rates #US Economy #005380.KS #Impact bullish
-
-Hyundai Motor Co.'s U.S. May sales were 87,468 units, up 3% YoY.
-
----
-
-### 2026-06-02 18:58:59  #MKT News #Brent #Impact bullish #WTI
-
-Colombian oil workers' union announced a 24-hour strike.
-
----
-
-### 2026-06-02 18:58:46  #公司 #國際
-
-能源諮詢公司ExPro表示，烏克蘭五月份電力進口量下降29%。
-
----
-
-### 2026-06-02 18:58:30  #公司 #國際
-
-現代汽車美國公司 5 月銷量 87468 臺，同比增長 3%。
-
----
-
-### 2026-06-02 18:58:15  #公司
-
-【芯動聯科：電子院及微電子院擬合計減持不超過2.987%股份】芯動聯科公告，股東北方電子研究院有限公司（簡稱電子院）持有公司2.7275%股份，一致行動人安徽北方微電子研究院集團有限公司（簡稱微電子院）持有13.4407%股份。電子院基於自身資金需求，擬於2026年6月25日至2026年9月24日透過集中競價或大宗交易減持不超過400萬股（佔0.9957%）；微電子院擬同期減持不超過800萬股（佔1.9913%）。
-
----
-
-### 2026-06-02 18:58:13  #國際
-
-過去一小時內，以色列軍方對黎巴嫩南部至少 8 座城鎮實施多輪空襲。
-
----
-
-### 2026-06-02 18:57:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Ease — The yield on the US 10-year Treasury note edged down to 4.43% on Tuesday as a modest retreat in oil prices offered some relief, although sentiment remained sensitive to developments in the Middle East. US President Trump said Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were ongoing. On Monday, borrowing costs had risen after Iran’s Tasnim news agency reported that Iranian negotiators were pausing talks with the US following Israeli strikes in Lebanon, with Tehran also reportedly considering a full closure of the Strait of Hormuz. Investors are now awaiting key labour market data later this week, including the US jobs report, which is expected to help shape expectations for Federal Reserve policy under the new chair, Kevin Warsh. Traders are currently pricing in around 17 basis points of rate hikes by year-end, implying roughly a 70% probability of a 25bps increase, with a full hike priced in by March 2027.
 
 ---

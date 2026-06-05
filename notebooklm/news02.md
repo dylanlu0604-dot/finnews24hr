@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 07:11:14_
-_本檔包含 3849 則快訊，約 700199 字_
+_更新時間：2026-06-06 07:40:46_
+_本檔包含 3841 則快訊，約 699891 字_
+
+---
+
+### 2026-06-04 23:00:02  #市場
+
+【夜盤期貨收盤】棕櫚油連續跌2.33%，液化石油氣連續跌1.93%，燃料油連續跌1.71%，低硫燃料油連續跌1.62%，豆二連續跌1.57%。
+
+---
+
+### 2026-06-04 22:59:24  #觀點 #國際
+
+【新華時評：日本炒作“周邊威脅”難掩禍心】新華社刊發評論文章指出，近日，日本媒體披露了日本2026年版《防衛白皮書》概要。不出所料，這份新版白皮書老調重彈，繼續大肆渲染所謂“周邊安全威脅”。劇本可謂毫無新意，反倒將其借危謀武、擴軍備戰的危險圖謀暴露得更加清楚。明眼人一看便知，在亞太地區，那個不斷渲染“威脅”的國家，才是地區和平穩定最大的威脅。亞太地區渴望和平發展，絕不能淪為地緣博弈的角鬥場。日本右翼勢力應認清時代大勢，正視並深刻反省侵略歷史，停止以渲染所謂“周邊威脅”為藉口推進“再軍事化”。倘若執迷不悟，繼續沉迷於編造“中國威脅論”的謊言，執意在“新型軍國主義”的窮途末路上狂奔，日本不僅無法獲得真正的安全，還將為破壞地區和平穩定承擔應有的罪責、付出應有的代價。
+
+---
+
+### 2026-06-04 22:59:07  #公司
+
+據港交所檔案：陝西麥科奧特醫藥科技股份有限公司 - B透過港交所上市聆訊。
+
+---
+
+### 2026-06-04 22:59:00  #MKT News #Market Regions #Greater China
+
+According to HKEX filings, Shaanxi Maike Aote Medical Technology Co., Ltd. - B cleared its HKEX listing hearing.
+
+---
+
+### 2026-06-04 22:58:03  #觀點
+
+摩根士丹利將Centene目標價從50.00美元上調至57.00美元，評級維持在中性。
+
+---
+
+### 2026-06-04 22:57:19  #行業 #公司 #觀點 #焦點 #國際
+
+【高盛預測：SpaceX人工智慧業務2030年營收將暴漲100倍】牽頭承銷投行高盛給出預測資料顯示，SpaceX想要在首次公開募股時實現1.78萬億美元估值，核心依託其人工智慧板塊到2030年營收暴漲約100倍。 這家華爾街投行在向潛在投資方推介專案時披露的測算報告顯示：SpaceX人工智慧業務營收將從2025年的32億美元，飆升至2030年的3220億美元；公司整體營收預計從去年的187億美元增至2030年的4740億美元。 高盛這份激進預測，折射出當前科技巨頭大舉押注人工智慧的投資熱潮，而該熱潮也推動美股接連重新整理歷史高點。隨著SpaceX正式開啟IPO路演，投行向資管機構口頭分享了這套盈利測算模型，本次IPO募資上限可達860億美元。知情人士確認高盛營收測算：SpaceX人工智慧板塊2026年營收同比大增388%至156億美元，2027年進一步攀升至345億美元。 SpaceX與高盛均未就相關問詢置評。
+
+---
+
+### 2026-06-04 22:57:07  #MKT News
+
+Interfax said a drone attack in St. Petersburg did not affect Russian President Putin's schedule.
 
 ---
 
@@ -23089,95 +23131,5 @@ ADP report: May YoY pay growth for continuing employees held at 4.4%. Pay growth
 ### 2026-06-03 20:16:58  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
 
 ADP report: U.S. private payrolls rose by 122,000 in May. Eight of 10 major industry groups recorded gains and hiring occurred across all employer-size classes.
-
----
-
-### 2026-06-03 20:16:42  #國際
-
-美國稀土：得克薩斯州圓頂稀土礦計劃於2028年實現商業化生產。
-
----
-
-### 2026-06-03 20:16:32  #國際
-
-ADP：美國 5 月服務業新增就業 11.4 萬人。
-
----
-
-### 2026-06-03 20:16:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-ADP chief economist Nela Richardson said May's hiring growth was broader than in recent years. With the summer hiring season underway, the labor market continues to show persistent growth momentum.
-
----
-
-### 2026-06-03 20:16:04  #公司
-
-塞爾維亞能源部長表示，匈牙利莫爾石油集團（MOL）正尋求延長談判期限，以最終完成對塞爾維亞石油工業公司（NIS）的收購事宜。
-
----
-
-### 2026-06-03 20:16:01  #公司 #國際
-
-美國稀土公司與美國商務部敲定最終協議，獲得最高16億美元資金支援，以推進美國領先稀土價值鏈建設。
-
----
-
-### 2026-06-03 20:15:55  #國際
-
-美國稀土專案相關協議包含最高2.77億美元聯邦資金，以及《晶片法案》項下13億美元貸款。
-
----
-
-### 2026-06-03 20:15:49  #公司 #國際
-
-美國稀土公司將向美國商務部發行1610萬股股票及1760萬份認股權證。
-
----
-
-### 2026-06-03 20:15:47  #其他
-
-【杭州上演“搶地”大戰：4宗宅地收金46億，最高溢價率超60%】6月3日，杭州2026年第10批次土拍舉行，共出讓4宗涉宅地塊，分別位於上城區九堡、西湖區雙橋、錢塘區下沙金沙湖及東部灣新城，總成交額46.2億元，平均溢價率41.9%，市場熱度持續高漲。（新京報）
-
----
-
-### 2026-06-03 20:15:27  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
-
-【US ADP private payrolls +122k in May, largest since Jan last year】US May ADP private payrolls rose 122,000, the largest monthly increase since January last year.
-
----
-
-### 2026-06-03 20:15:24  #經濟數據 #美國
-
-美國5月ADP就業人數為增加12.2萬人，預期11.7萬人，前值10.9萬人。
-
----
-
-### 2026-06-03 20:15:21  #國際
-
-ADP資料顯示，美國製造業崗位增加8000個。
-
----
-
-### 2026-06-03 20:15:08  #國際
-
-美國5月ADP就業人數 12.2萬人，預期11.7萬人，前值10.9萬人。
-
----
-
-### 2026-06-03 20:15:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-US May ADP private payrolls +122k vs +117k expected; April +109k.
-
----
-
-### 2026-06-03 20:15:05  #MKT News #Market Regions #Greater China #000002.SZ #Impact bullish #600048.SS #CSI300
-
-【Hangzhou land auction sees fierce bidding; four residential sites fetch 4.62 bln yuan, top premium above 60%】June 3 — Hangzhou's 10th 2026 land sale auctioned four residential parcels in Jiubao (Shangcheng), Shuangqiao (Xihu), Xiasha Jinsha Lake (Qiantang) and Eastern Bay New City for a total of 4.62 billion yuan. Average premium was 41.9% and the highest premium exceeded 60%, indicating sustained market heat.
-
----
-
-### 2026-06-03 20:15:00  #MKT News #Economic Calendar #Important
-
-United States | ADP Employment Change (May) | actual 122000K | consensus 117000K | previous 109000K
 
 ---

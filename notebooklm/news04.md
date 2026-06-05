@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 07:11:14_
-_本檔包含 3606 則快訊，約 700398 字_
+_更新時間：2026-06-06 07:40:46_
+_本檔包含 3600 則快訊，約 699988 字_
+
+---
+
+### 2026-06-02 18:59:05  #MKT News #Macro & Rates #US Economy #005380.KS #Impact bullish
+
+Hyundai Motor Co.'s U.S. May sales were 87,468 units, up 3% YoY.
+
+---
+
+### 2026-06-02 18:58:59  #MKT News #Brent #Impact bullish #WTI
+
+Colombian oil workers' union announced a 24-hour strike.
+
+---
+
+### 2026-06-02 18:58:46  #公司 #國際
+
+能源諮詢公司ExPro表示，烏克蘭五月份電力進口量下降29%。
+
+---
+
+### 2026-06-02 18:58:30  #公司 #國際
+
+現代汽車美國公司 5 月銷量 87468 臺，同比增長 3%。
+
+---
+
+### 2026-06-02 18:58:15  #公司
+
+【芯動聯科：電子院及微電子院擬合計減持不超過2.987%股份】芯動聯科公告，股東北方電子研究院有限公司（簡稱電子院）持有公司2.7275%股份，一致行動人安徽北方微電子研究院集團有限公司（簡稱微電子院）持有13.4407%股份。電子院基於自身資金需求，擬於2026年6月25日至2026年9月24日透過集中競價或大宗交易減持不超過400萬股（佔0.9957%）；微電子院擬同期減持不超過800萬股（佔1.9913%）。
+
+---
+
+### 2026-06-02 18:58:13  #國際
+
+過去一小時內，以色列軍方對黎巴嫩南部至少 8 座城鎮實施多輪空襲。
+
+---
+
+### 2026-06-02 18:57:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+Treasury Yields Ease — The yield on the US 10-year Treasury note edged down to 4.43% on Tuesday as a modest retreat in oil prices offered some relief, although sentiment remained sensitive to developments in the Middle East. US President Trump said Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were ongoing. On Monday, borrowing costs had risen after Iran’s Tasnim news agency reported that Iranian negotiators were pausing talks with the US following Israeli strikes in Lebanon, with Tehran also reportedly considering a full closure of the Strait of Hormuz. Investors are now awaiting key labour market data later this week, including the US jobs report, which is expected to help shape expectations for Federal Reserve policy under the new chair, Kevin Warsh. Traders are currently pricing in around 17 basis points of rate hikes by year-end, implying roughly a 70% probability of a 25bps increase, with a full hike priced in by March 2027.
 
 ---
 
@@ -21667,83 +21709,5 @@ India's trade minister said agreements with the US will take into account legal 
 ### 2026-06-01 17:54:43  #公司
 
 【湖南發展：發行1.07億股股份購買資產】湖南發展公告，公司以發行1.07億股股份及支付6.81億元現金方式購買銅灣水電90%股權、清水塘水電90%股權、筱溪水電88%股權及高灘水電85%股權。發行價格為7.76元/股，新增股份均為限售流通股。本次交易完成後，公司總股本增加至5.71億股，社會公眾股持股比例仍超過10%。募集配套資金不超過8億元，將用於支付現金對價、補充流動資金等。新增股份上市日期為2026年6月3日。
-
----
-
-### 2026-06-01 17:54:41  #國際
-
-印度貿易部長：印美貿易協定的大部分內容已敲定，雙方僅就餘下少數細節進行了討論。
-
----
-
-### 2026-06-01 17:54:32  #MKT News
-
-India's trade minister said most of an agreement with the United States has been reached; both sides are discussing a small number of final details.
-
----
-
-### 2026-06-01 17:54:29  #公司
-
-【同力股份：擬回購不超過2億元股份】同力股份公告，擬以集中競價交易方式回購公司股份，回購資金總額區間為1億-2億，回購價格不超過20元/股。
-
----
-
-### 2026-06-01 17:54:17  #公司
-
-【ST易聯眾：股票繼續被實施其他風險警示 違規事項處理有進展】ST易聯眾公告稱，公司曾為原實控人張曦及其關聯方提供違規擔保、借款，致股票被實施其他風險警示。截至公告披露日，相關仲裁已終局裁決、訴訟已終審判決，公司均無需承擔連帶清償責任，再審申請也被駁回。公司已完善印章管理制度，整改內控重大缺陷。公司經營正常，將每月披露進展，目前尚未收到證監會立案結論性意見，提醒投資者關注指定媒體資訊。
-
----
-
-### 2026-06-01 17:54:13  #MKT News
-
-India's trade minister says India and the United States are working to finalize the first-phase elements of a bilateral trade agreement.
-
----
-
-### 2026-06-01 17:54:03  #國際
-
-印度貿易部長：印美目標敲定雙邊協定的第一階段協議。
-
----
-
-### 2026-06-01 17:53:47  #MKT News
-
-India's trade minister said India and the US will hold trade talks on June 2-4.
-
----
-
-### 2026-06-01 17:53:42  #國際
-
-印度貿易部長：印美兩國將於6月2日至4日舉行貿易談判。
-
----
-
-### 2026-06-01 17:53:33  #其他
-
-【《山東省地名管理條例》將於7月起施行，提出保護“甲骨文地名”】近日，《山東省地名管理條例》（以下簡稱“《條例》”）經山東省十四屆人大常委會第二十四次會議表決透過，將於2026年7月1日起施行。其中，《條例》第二十條明確提出：縣級以上人民政府應當加強地名文化遺產保護，按照有關規定開展古城（邑）、古縣、古鎮、古村、古街巷、甲骨文地名、著名山川地名、近現代重要地名等文化遺產的認定和保護工作。符合條件的地名文化遺產，應當依法列入非物質文化遺產保護範圍。（澎湃）
-
----
-
-### 2026-06-01 17:53:13  #MKT News #Market Regions #Emerging Markets
-
-India's commerce minister said India aims to achieve US$1 trillion in total exports in the current fiscal year.
-
----
-
-### 2026-06-01 17:52:57  #國際
-
-印度貿易部長：印度計劃在本財年實現1萬億美元出口總額。
-
----
-
-### 2026-06-01 17:52:53  #公司 #市場 #焦點
-
-【春秋電子：公司目前與戴爾合作的機型中不涉及AIPC產品】春秋電子釋出異動公告，公司股票交易於2026年5月29日、6月1日連續兩個交易日內日收盤價格漲幅偏離值累計超過20%。近期，公司關注到市場出現關於“戴爾將推英偉達Arm架構AIPC”、“戴爾AI伺服器需求大增，股價大幅提升”及“機器人業務”的傳聞，為維護投資者利益，避免市場誤判，現就相關情況澄清如下：戴爾是公司客戶之一，公司為其提供膝上型電腦結構件產品,公司目前與戴爾合作的機型中不涉及上述AIPC產品。公司目前無規模化機器人業務及量產產品。
-
----
-
-### 2026-06-01 17:52:34  #觀點
-
-【工信部電子資訊司組織赴青海省調研並召開2026年二季度電子資訊製造業發展形勢座談會】工業和資訊化部電子資訊司有關負責同志近日帶隊赴青海省開展產業發展形勢調研。中國電子資訊產業發展研究院、中國電子電路行業協會相關同志參加調研。會上，中國電子資訊產業發展研究院、中國資訊通訊研究院、中國計算機行業協會、中國半導體行業協會、中國電子電路行業協會、中國化學與物理電源行業協會以及中信證券參會代表圍繞2026年二季度電子資訊製造業產業發展基本情況、產業亮點及熱點、面臨問題等進行了深入討論，並對2026年三季度及全年趨勢做出分析預判，提出下一步工作措施建議。會議強調，電子資訊製造業規模大、技術迭代快、引領性強，對於工業經濟穩增長具有重要支撐作用。地方主管部門要加強電子資訊製造業發展經驗交流與借鑑，強化有為政府和有效市場銜接，進一步發揮行業協會在產業發展形勢監測與產業轉移承接等方面的溝通橋樑作用。要保持產業發展的定力和耐心，加強產業發展總體謀劃與生態建設，不斷提高對於產業發展規律的認知，提升產業轉移承接效能，更好釋放西北地區資源潛能，在保障電子資訊產業鏈供應鏈安全和產業高階化、智慧化、綠色化轉型升級中貢獻力量。
 
 ---
