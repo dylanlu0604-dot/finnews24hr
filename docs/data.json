@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-06 01:09:20",
-  "count": 18767,
+  "updated": "2026-06-06 01:13:14",
+  "count": 18762,
   "items": [
+    {
+      "id": "mkt:019e98c4-776a-7665-830a-926e7837f221",
+      "time": "2026-06-06 01:11:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "VIX jumps to highest in over two weeks, up 3.32 points at 18.72."
+    },
     {
       "id": "4920238",
       "time": "2026-06-06 01:06:36",
@@ -172796,60 +172806,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人巴加埃： 目前伊朗與美國尚未達成任何最終協議。"
-    },
-    {
-      "id": "4907663",
-      "time": "2026-05-30 01:13:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃： 霍爾木茲海峽的管控事宜應由伊朗和阿曼共同商定。"
-    },
-    {
-      "id": "4907662",
-      "time": "2026-05-30 01:11:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透社調查：市場預計哥倫比亞 2027 年末通脹率升至 5%，此前調查預期為 4.80%。市場預計哥倫比亞 2026 年末通脹率升至 6.50%，此前調查預期為 6.40%。"
-    },
-    {
-      "id": "mkt:019e74b7-9223-7dd4-af1d-00d251a597db",
-      "time": "2026-05-30 01:10:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Baghaei, Iranian foreign ministry spokesperson, said currently Iran is focused on ending the war and is not negotiating its nuclear program."
-    },
-    {
-      "id": "te:markets:555050",
-      "time": "2026-05-30 01:10:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Ireland",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Medtronic Stock Price Hits 30-month Low — Medtronic shares decreased to 74.40 USD, the lowest since November 2023. Over the past 4 weeks, Medtronic lost 8.1%, and in the last 12 months, it decreased 10.4%."
-    },
-    {
-      "id": "4907661",
-      "time": "2026-05-30 01:10:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃接受國家電視臺採訪時表示：現階段我們的重心是結束戰事，不會就伊朗核計劃展開談判。"
-    },
-    {
-      "id": "mkt:019e74b7-2d86-7bb7-9964-bc3265e29961",
-      "time": "2026-05-30 01:10:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Governor Daly said she does not expect AI to cause widespread unemployment or large-scale job losses."
     }
   ]
 }
