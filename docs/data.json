@@ -1,7 +1,150 @@
 {
-  "updated": "2026-06-05 22:44:05",
-  "count": 18704,
+  "updated": "2026-06-05 22:48:10",
+  "count": 18713,
   "items": [
+    {
+      "id": "4920097",
+      "time": "2026-06-05 22:47:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯航天集團表示，首個洩漏點已封堵。"
+    },
+    {
+      "id": "4920095",
+      "time": "2026-06-05 22:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：深圳曦華科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019e983f-d161-7665-8306-d16d393b15d8",
+      "time": "2026-06-05 22:46:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Shenzhen Xihua Technology Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "4920094",
+      "time": "2026-06-05 22:46:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元/美元日內跌幅達0.5%，報1.155。"
+    },
+    {
+      "id": "4920093",
+      "time": "2026-06-05 22:46:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "交易商稱，韓國製造業集團買入了約5萬至6萬噸豆粕。"
+    },
+    {
+      "id": "mkt:019e983f-7d1b-7665-8306-ceffe1b644cf",
+      "time": "2026-06-05 22:45:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): Hoffman's decision is unrelated to any disagreements with the company over operations, policies or business practices."
+    },
+    {
+      "id": "4920092",
+      "time": "2026-06-05 22:45:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯航天集團表示，國際空間站專家檢測到氧氣洩漏。"
+    },
+    {
+      "id": "4920091",
+      "time": "2026-06-05 22:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1293.65美元/盎司。"
+    },
+    {
+      "id": "4920090",
+      "time": "2026-06-05 22:44:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "外交人士週五表示，美國正準備在下週國際原子能機構（IAEA）理事會會議召開前提出一項譴責伊朗的決議草案，此舉可能使美國與伊朗之間更廣泛的談判複雜化。"
+    },
+    {
+      "id": "mkt:019e983e-2e47-7665-8306-c7c01701726c",
+      "time": "2026-06-05 22:44:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "EUR/USD down more than 0.50% intraday, trading at 1.1552."
+    },
+    {
+      "id": "4920089",
+      "time": "2026-06-05 22:44:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4370美元/盎司，日內跌3.00%。"
+    },
+    {
+      "id": "4920088",
+      "time": "2026-06-05 22:44:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌3%，現報4369.78美元/盎司。"
+    },
+    {
+      "id": "mkt:019e983e-2086-7665-8306-bcb4efe2f5a2",
+      "time": "2026-06-05 22:44:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Diplomatic sources said on Friday the US is preparing a draft IAEA board resolution condemning Iran ahead of next week’s meeting, a move that could complicate broader US-Iran negotiations."
+    },
+    {
+      "id": "4920087",
+      "time": "2026-06-05 22:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：南京擎天全稅通訊息科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019e983d-9ce7-7665-8306-b7a9258f6ed9",
+      "time": "2026-06-05 22:43:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an HKEX filing, Nanjing Qingtian Quanshuitong Information Technology Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "4920086",
+      "time": "2026-06-05 22:43:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【哈塞特稱市場押注美聯儲加息“錯得離譜”】美國白宮國家經濟委員會主任凱文·哈塞特表示，投資者將美國5月強勁的就業報告解讀為美聯儲今年必須加息的訊號，這種判斷是錯誤的。當被問及市場對美聯儲加息的定價時，哈塞特表示：“我認為這種看法錯得離譜。”哈塞特指出：“你需要關注的是油價衝擊對核心通脹的影響，而歷史表明，這種衝擊是暫時的，不會導致持續的通脹。”他“給美聯儲的建議”是密切關注各項資料。他說：“你們將會看到，在供給側大幅擴張的情況下，經濟可以實現高增長，而不會出現失控的通脹。”"
+    },
     {
       "id": "4920085",
       "time": "2026-06-05 22:42:54",
@@ -172191,68 +172334,6 @@
         "其他"
       ],
       "text": "【廣西六燕河變黑水河，職能部門踢皮球，當地通報】據廣西廣播電視臺5月28日報道，流經玉林市玉州區、陸川縣的六燕河本是沿岸村莊數百畝良田的灌溉水源，但近年來水體常年發黑發臭，魚蝦絕跡，成了臭名昭著的黑水河。村民們反映，多年來他們多次向政府部門反映，但收效甚微。記者調查發現，上游工業園大量汙水去向不明，上下游各部門“踢皮球”——均強調汙染不在本轄區內。5月29日晚，陸川縣、玉州區六燕河整治工作專班釋出通報稱，針對媒體報道六燕河水汙染問題，陸川縣、玉州區迅速組建聯合整治工作組，開展沿岸汙染源排查和環境整治工作。下一步，兩地將加強跨區域協同聯動，加快完善區域汙水處理設施及管網建設，健全長效管護機制，共同維護好六燕河水生態環境。"
-    },
-    {
-      "id": "4907529",
-      "time": "2026-05-29 22:46:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍執行長表示，委內瑞拉必須減稅以吸引投資。"
-    },
-    {
-      "id": "mkt:019e7433-7e94-7eef-a0f1-59fd9376bea8",
-      "time": "2026-05-29 22:46:32",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "The Nasdaq-100 index turned negative intraday after earlier rising 0.8%."
-    },
-    {
-      "id": "4907528",
-      "time": "2026-05-29 22:46:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【法國連續七年成為外國直接投資在歐洲的首選地】國際諮詢企業安永公司近日釋出的《2026年歐洲投資吸引力調查報告》顯示，法國2025年連續第七年成為外國直接投資在歐洲的首選目的地。 報告說，法國2025年共吸引852個外國投資專案，領先於英國的730個和德國的548個。其中，工業投資專案354個，佔比42%，顯示法國繼續保持歐洲製造業投資領先地位。軟體及資訊科技服務、國防和低碳能源等行業成為支撐法國投資吸引力的重要領域。 不過，歐洲整體投資吸引力仍承壓。報告指出，2025年歐洲吸引的外國直接投資專案數量下降7%，成為全球國際投資降幅最大的地區之一。 另據法國商務投資署此前釋出的報告，2025年中國進一步鞏固了作為法國重要經濟合作伙伴的地位，在對法投資來源國中位居前列，在亞洲國家中保持首位。從投資專案數量及創造或維持就業崗位數量看，中國投資均表現突出。(新華社)"
-    },
-    {
-      "id": "4907527",
-      "time": "2026-05-29 22:46:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "現行《美墨加協定》要求，北美乘用車40%的核心零部件必須產自美國或加拿大，皮卡的這一比例要求為45%。"
-    },
-    {
-      "id": "4907526",
-      "time": "2026-05-29 22:45:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌，抹去了此前0.8%的漲幅。"
-    },
-    {
-      "id": "te:markets:555017",
-      "time": "2026-05-29 22:45:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Dips Below $75 but Set for Near 1% Monthly Gain — Silver fell below $75 an ounce on Friday but remained on track for a near 1% monthly gain, as investors balanced reports of a potential US-Iran ceasefire extension against persistent inflation concerns and expectations of prolonged higher interest rates. Negotiations to end the three-month war continued, with reports of a tentative 60-day ceasefire extension awaiting President Trump’s approval. However, disruptions to shipping and energy infrastructure could keep oil prices elevated, maintaining the Federal Reserve’s cautious stance. US inflation data this month showed the fastest rise in three years in April, reinforcing expectations that the Fed will keep rates unchanged well into 2027. UBS recently revised down its silver supply deficit forecast to 60–70 million ounces from 300 million ounces and cut its full-year investment demand outlook to 300 million ounces from over 400 million ounces."
-    },
-    {
-      "id": "4907525",
-      "time": "2026-05-29 22:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國新增 31 例麻疹確診病例，今年累計達 1983 例。"
     }
   ]
 }
