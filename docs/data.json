@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-06 05:17:17",
-  "count": 18782,
+  "updated": "2026-06-06 05:21:05",
+  "count": 18787,
   "items": [
+    {
+      "id": "4920421",
+      "time": "2026-06-06 05:19:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅全球管理公司與黑石集團已為Anthropic敲定一筆350億美元的融資計劃，用於擴建該公司的人工智慧基礎設施。"
+    },
+    {
+      "id": "4920420",
+      "time": "2026-06-06 05:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大食品檢驗局：將對從美國受影響地區輸入加拿大的牲畜（包括馬）實施臨時進口限制。"
+    },
+    {
+      "id": "4920419",
+      "time": "2026-06-06 05:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "POOL CORP, CAMPBELL'S 將被剔除出標普 500 指數。"
+    },
+    {
+      "id": "4920418",
+      "time": "2026-06-06 05:17:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "偉創力因納入標普 500 指數，股價上漲 3.3%。"
+    },
+    {
+      "id": "4920417",
+      "time": "2026-06-06 05:17:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美滿電子美股盤後漲5%，該公司將被納入標普500指數。"
+    },
+    {
+      "id": "4920416",
+      "time": "2026-06-06 05:16:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "標普道瓊斯指數宣佈調整美國相關指數編制規則，美滿電子與偉創力即將納入標普 500 指數成分股。"
+    },
     {
       "id": "te:markets:557012",
       "time": "2026-06-06 05:16:09",
@@ -173107,18 +173157,6 @@
         "國際"
       ],
       "text": "特朗普：將與國會合作，把肯尼迪中心交還國會管理。"
-    },
-    {
-      "id": "te:economy:555065",
-      "time": "2026-05-30 05:17:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance."
     }
   ]
 }
