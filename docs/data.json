@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-05 13:39:00",
-  "count": 18953,
+  "updated": "2026-06-05 13:42:57",
+  "count": 18951,
   "items": [
+    {
+      "id": "4918804",
+      "time": "2026-06-05 13:41:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【並行科技等新設匯光智算投資合夥企業】企查查APP顯示，近日，深圳市匯光智算投資合夥企業（有限合夥）成立，經營範圍包含：以自有資金從事投資活動；資訊諮詢服務（不含許可類資訊諮詢服務）；企業管理諮詢等。企查查股權穿透顯示，該企業由並行科技全資子公司深圳市並行科技有限公司等共同出資。"
+    },
+    {
+      "id": "te:economy:556739",
+      "time": "2026-06-05 13:40:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Estonia Inflation Rate at 4-Month High — The annual inflation rate in Estonia rose to 3.7% in May 2026 from 3.4% in the previous month. This marked the highest reading since January, as prices increased faster for housing (5.4% vs 3.7% in April), transport (10.4% vs 9.2%), recreation and culture (4.2% vs 1.5%), information and communication (1.7% vs 1.0%), and restaurants and accommodation services (3.2% vs 3.1%). At the same time, deflation eased in clothing and footwear (-3.9% vs -4.3%) and insurance and financial services (-11.1% vs -11.8%). In contrast, inflation moderated in food and non-alcoholic beverages (0.9% vs 2.6%), alcohol and tobacco (8.1% vs 8.3%), household goods (1.5% vs 1.9%), miscellaneous goods and services (4.1% vs 4.7%), health (2.7% vs 2.8%), and education (5.3% vs 5.4%). On a monthly basis, consumer prices eased to 0.4% in May, following a 0.8% gain in April."
+    },
+    {
+      "id": "mkt:019e964b-b8a0-7aa9-a389-89cca94e05d8",
+      "time": "2026-06-05 13:40:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's NIFTY Financial Services index rose 1.2%."
+    },
+    {
+      "id": "4918803",
+      "time": "2026-06-05 13:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度Nifty 50指數漲0.3%。"
+    },
+    {
+      "id": "mkt:019e964b-21d9-7aa9-a389-80d3fe30be5c",
+      "time": "2026-06-05 13:39:25",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share memory chip sector slid sharply; Shenghe Jingwei fell over 8%, while Jiangbolong, Baiwei Storage, Demingli, Shannon Xinchuang and Xiechuang Data also declined."
+    },
+    {
+      "id": "4918802",
+      "time": "2026-06-05 13:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【儲存晶片板塊震盪下挫，盛合晶微跌超8%】儲存晶片板塊震盪下挫，盛合晶微跌超8%，江波龍、佰維儲存、德明利、夏農芯創、協創資料紛紛下挫。"
+    },
     {
       "id": "4918801",
       "time": "2026-06-05 13:38:08",
@@ -174637,95 +174695,6 @@
         "國際"
       ],
       "text": "印度儲備銀行：在2025-26財年，以印度盧比進行的貿易計價與結算中，出口計價規模增長6.5%，進口計價規模增長9.5%。"
-    },
-    {
-      "id": "4906244",
-      "time": "2026-05-29 13:42:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2022年8月至2025年7月期間，以印度盧比計價的進出口總額複合年增速分別為20.9%和12.7%。"
-    },
-    {
-      "id": "mkt:019e7241-04a7-7ccf-9a8f-12659e3b57e4",
-      "time": "2026-05-29 13:42:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "06809.HK",
-        "Impact bearish",
-        "03986.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong chip stocks fell: Montage Technology (06809.HK) down 9.5%, GigaDevice (03986.HK), Shanghai Fudan Microelectronics (01385.HK) and Horizon Robotics (09660.HK) fell more than 7%, while SMIC (00981.HK) and Hua Hong Semiconductor (01347.HK) dropped over 5%."
-    },
-    {
-      "id": "mkt:019e7240-3fc5-7ccf-9a8f-0c18a5f04d9c",
-      "time": "2026-05-29 13:41:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian foreign ministry spokesman strongly condemned Israeli strikes on southern and eastern Lebanon, saying they caused numerous civilian deaths and injuries and damaged infrastructure and residences."
-    },
-    {
-      "id": "4906243",
-      "time": "2026-05-29 13:40:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股創新藥概念股拉昇，信達生物漲超12%】港股創新藥概念股拉昇，信達生物漲超12%，石藥集團漲超6%，榮昌生物漲近6%，諾誠健華漲超4%。"
-    },
-    {
-      "id": "te:markets:554751",
-      "time": "2026-05-29 13:40:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Posts Weekly Gain, Ends 0.3% Higher — The NZX 50 rose 38 points, or 0.3%, to close at 13,245 on Friday, erasing losses from the previous session and marking its highest level since May 7, as a rally on Wall Street overnight lifted sentiment, buoyed by the extended US-Iran ceasefire. Fresh data also supported sentiment, as consumer mood improved from a near three-year low in April, while business morale returned to positive territory in May. However, traders continued to assess comments from Anna Breman, Governor of the RBNZ, who said today that the Official Cash Rate is likely to rise sooner and more sharply than previously indicated. Most sectors traded in the green, including real estate, industrials, consumer discretionary, and utilities. Among the top gainers were Skellerup Holdings (3.9%), Mainfreight (3.4%), Briscoe Group (6.1%), Fletcher Building (1.3%), and Freightways Group (1.2%). For the month, the index rose 2.0% after being flat in the previous month. The market will be closed on Monday for a holiday."
-    },
-    {
-      "id": "4906242",
-      "time": "2026-05-29 13:40:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴外長：古美對話“沒有進展”】古巴外交部長羅德里格斯28日在社交媒體上轉發了美國媒體對他的採訪報道，他在採訪中說，古美對話“沒有進展”。羅德里格斯在採訪中說，美方表現出“極大地反覆無常和不負責任”，“他們在會談中的表現是一回事，但美國官員不斷髮表的公開言論卻充滿敵意”。羅德里格斯說，美國特朗普政府今年1月的行政令對古巴實施了殘酷的燃料供應封鎖，已對古巴民眾造成“越來越嚴重的後果”，導致停電以及食品和醫療物資短缺，古巴人民正在遭受“集體懲罰”。羅德里格斯還點名批評美國國務卿魯比奧，稱其“不斷撒謊”且“似乎資訊非常匱乏”，試圖挑起美國與古巴之間的軍事對抗，並將美國對古敵對政策和封鎖給古巴帶來的後果及人道主義傷害歸咎於古巴政府。羅德里格斯說，古巴不存在任何外國軍事基地，也不存在外國軍事人員。唯一例外是美國在關塔那摩設立的海軍基地。古巴認為該基地是非法的，違背古巴人民的意願，是美國對古巴軍事佔領的產物。羅德里格斯說，古巴將盡一切可能避免軍事升級，但將捍衛自身獨立。如果古巴遭到攻擊，將不得不進行自衛。兩國之間的戰爭將引發一場人道主義災難。"
-    },
-    {
-      "id": "4906241",
-      "time": "2026-05-29 13:39:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達90億港元。"
-    },
-    {
-      "id": "mkt:019e723e-4fa4-7ccf-9a8f-04996199ebc4",
-      "time": "2026-05-29 13:39:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "China's STAR 50 index fell more than 4% as semiconductor stocks weakened; Xinlian Integration plunged over 9% and SMIC fell over 7%."
     }
   ]
 }
