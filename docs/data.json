@@ -1,7 +1,354 @@
 {
-  "updated": "2026-06-06 01:40:20",
-  "count": 18760,
+  "updated": "2026-06-06 02:04:20",
+  "count": 18787,
   "items": [
+    {
+      "id": "mkt:019e98f4-ab52-7665-830b-7d36384ecbf9",
+      "time": "2026-06-06 02:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said planned IPOs for Fannie Mae and Freddie Mac are not ruled out, but there is no need to rush to proceed."
+    },
+    {
+      "id": "mkt:019e98f4-aa0f-7665-830b-75864a3b2b21",
+      "time": "2026-06-06 02:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosatom said Ukrainian drones struck engineers carrying out demining and power-line repairs around the Zaporizhzhia nuclear plant, wounding three people, two seriously."
+    },
+    {
+      "id": "mkt:019e98f4-a9b3-7665-830b-6846d2df47d2",
+      "time": "2026-06-06 02:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say California and New York are among the states preparing to sue to block the Paramount deal."
+    },
+    {
+      "id": "4920268",
+      "time": "2026-06-06 02:01:30",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "花旗調研：預計墨西哥 2026 年消費者物價指數（CPI）為 4.35%，此前預期值 4.30%。"
+    },
+    {
+      "id": "4920267",
+      "time": "2026-06-06 01:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正篩選五名人選角逐國家情報總監一職。"
+    },
+    {
+      "id": "4920266",
+      "time": "2026-06-06 01:59:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司：烏克蘭無人機襲擊了正在扎波羅熱核電站周邊開展排雷與搶修受損輸電線路作業的工程人員，造成三名軍人受傷，其中兩人傷勢危重。"
+    },
+    {
+      "id": "mkt:019e98f0-2244-7665-830b-63104201780d",
+      "time": "2026-06-06 01:58:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump: With U.S. help, large volumes of oil are being shipped through the Strait of Hormuz."
+    },
+    {
+      "id": "4920265",
+      "time": "2026-06-06 01:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：房利美、房地美的首次公開募股方案並未被排除，但暫不急於推進。"
+    },
+    {
+      "id": "4920264",
+      "time": "2026-06-06 01:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：得益於美方協助，大量原油經由霍爾木茲海峽外運。"
+    },
+    {
+      "id": "mkt:019e98ee-021f-7665-830b-5c415c3a8fb6",
+      "time": "2026-06-06 01:56:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said large volumes of oil are entering the United States."
+    },
+    {
+      "id": "mkt:019e98ed-9a7a-7665-830b-53f2b4f343ae",
+      "time": "2026-06-06 01:56:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "President Trump said he will meet with artificial intelligence firms soon; they may visit the White House next week."
+    },
+    {
+      "id": "mkt:019e98ed-86d5-7665-830b-4818b6de1de0",
+      "time": "2026-06-06 01:56:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE: For the week ended June 2, speculative net long diesel positions fell by 1,808 contracts to 52,000 contracts."
+    },
+    {
+      "id": "4920263",
+      "time": "2026-06-06 01:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大量原油正源源不斷流入美國。"
+    },
+    {
+      "id": "4920262",
+      "time": "2026-06-06 01:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正研究美國民眾如何從人工智慧發展中獲益。"
+    },
+    {
+      "id": "mkt:019e98ec-bfe3-7665-830b-44c51f504c4f",
+      "time": "2026-06-06 01:55:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE: Speculative net long positions in Brent crude fell by 26,220 contracts to 252,500 in the week to June 2."
+    },
+    {
+      "id": "4920261",
+      "time": "2026-06-06 01:55:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：6月2日當週，投機者所持ICE布倫特原油淨多頭頭寸減少26,220手合約，至252,500手合約，創最近18周新低。"
+    },
+    {
+      "id": "4920260",
+      "time": "2026-06-06 01:54:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國政企人工智慧合作這一構想頗具參考價值。"
+    },
+    {
+      "id": "mkt:019e98eb-bce2-7665-830b-3863c025acb5",
+      "time": "2026-06-06 01:54:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI"
+      ],
+      "text": "President Trump said people had expected oil prices to be higher."
+    },
+    {
+      "id": "4920259",
+      "time": "2026-06-06 01:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：各大頭部人工智慧企業代表將到訪白宮，時間大機率定在下週。"
+    },
+    {
+      "id": "4920258",
+      "time": "2026-06-06 01:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：近期將安排與人工智慧企業舉行會談。"
+    },
+    {
+      "id": "4920257",
+      "time": "2026-06-06 01:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：此前市場普遍認為原油桶價將會走高。"
+    },
+    {
+      "id": "mkt:019e98eb-0a86-7665-830b-31d44f25c610",
+      "time": "2026-06-06 01:53:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump reiterated that Iran will not have nuclear weapons."
+    },
+    {
+      "id": "mkt:019e98ea-753b-7665-830b-2b37d61888f5",
+      "time": "2026-06-06 01:52:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said on gasoline prices that we have many options."
+    },
+    {
+      "id": "mkt:019e98ea-3d84-7665-830b-2213e96872a9",
+      "time": "2026-06-06 01:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he would not mind whether Federal Reserve chair Kevin Warsh cuts interest rates."
+    },
+    {
+      "id": "4920256",
+      "time": "2026-06-06 01:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗不會擁有核武器。"
+    },
+    {
+      "id": "4920255",
+      "time": "2026-06-06 01:51:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及汽油價格：我們擁有大量替代能源方案。"
+    },
+    {
+      "id": "mkt:019e98e8-1d2b-7665-830b-1fde1c705cd5",
+      "time": "2026-06-06 01:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey will speak in 10 minutes."
+    },
+    {
+      "id": "4920254",
+      "time": "2026-06-06 01:49:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：嘉吉正談判將金屬業務出售給麥格理】據五位知情訊息人士透露，全球大宗商品貿易巨頭嘉吉公司（Cargill）正在進行談判，計劃將其金屬業務部門出售給麥格理集團（Macquarie Group）。此舉旨在讓這家全球貿易巨頭更專注於其核心的食品和農業主業。 一份2024年內部備忘錄顯示，嘉吉公司執行長Brian Sikes曾明確表示：“從核心來看，我們一直以來都是一家食品和農業公司。”如果這筆潛在的出售交易最終達成分拆，這也將不是嘉吉與麥格理之間的首次資產重組。2017年，嘉吉就曾將其包含原油及石油產品在內的石油業務全部出售給了這家澳大利亞投資銀行。"
+    },
+    {
+      "id": "4920253",
+      "time": "2026-06-06 01:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達累計確診19例埃博拉病例 多為輸入病例 】烏干達衛生部5日在社交媒體平臺釋出訊息說，該國新增3例埃博拉確診病例，累計確診病例增至19例。（新華社）"
+    },
+    {
+      "id": "4920252",
+      "time": "2026-06-06 01:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果PULTE裁員，我不會介意。"
+    },
+    {
+      "id": "mkt:019e98e5-7c47-7665-830b-1637238014fd",
+      "time": "2026-06-06 01:47:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he will leave the decision on interest-rate cuts to Federal Reserve Chair Kevin Warsh at the October meeting."
+    },
+    {
+      "id": "4920251",
+      "time": "2026-06-06 01:45:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：是否降息交由沃什在 10 月議息會議定奪。"
+    },
+    {
+      "id": "4920250",
+      "time": "2026-06-06 01:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲黎巴嫩南部致至少13人死亡】據黎巴嫩國家通訊社5日報道，以色列軍隊當天對黎巴嫩南部多地發動空襲，造成至少13人死亡、15人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019e98e3-2a0a-7665-830b-091524ae6f3f",
+      "time": "2026-06-06 01:44:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Trump says he hopes to see lower interest rates."
+    },
+    {
+      "id": "4920249",
+      "time": "2026-06-06 01:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望看到利率下調。"
+    },
+    {
+      "id": "4920248",
+      "time": "2026-06-06 01:42:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌6%，現報1254.56美元/盎司。"
+    },
+    {
+      "id": "mkt:019e98e0-27b2-7665-830b-00530860b456",
+      "time": "2026-06-06 01:41:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Financial Times reports the US is pressing Mexico for stricter market-access rules for auto parts in ongoing trade talks."
+    },
     {
       "id": "4920247",
       "time": "2026-06-06 01:39:28",
@@ -172693,98 +173040,6 @@
         "國際"
       ],
       "text": "【德意志銀行上調10年期美國國債收益率預期 相信美聯儲已經完成降息】德意志銀行利率策略師上調了今年年底的10年期美國國債收益率預期，理由是預計如今由主席凱文·沃什領導的美聯儲官員已經結束降息。德意志銀行包括Matthew Raskin和Steven Zeng在內的策略師團隊預計，10年期美國國債收益率到12月份將升至4.70%的峰值，高於週五約4.45%的水平，而4.45%也是該行此前預測的年末水平。這些策略師在週五的一份報告中寫道：“這一變化反映出我們修正後的基準觀點，即美聯儲已結束降息，並將在預測期內按長期名義中性利率維持利率不變。”這一變化與市場對未來數月美聯儲政策路徑持續進行的鷹派重估相一致，原因是伊朗戰爭推高能源價格，並打亂了通脹前景。自2月份衝突開始以來，10年期美國國債收益率已上漲約50個基點。"
-    },
-    {
-      "id": "mkt:019e74e8-88bb-7bb7-9965-2bf69a6f1ef6",
-      "time": "2026-05-30 02:04:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM says it will conduct operations near the Strait of Hormuz】CENTCOM said on May 29 it will conduct operations near the Strait of Hormuz and, citing self‑defense, may strike vessels involved in or supporting the laying of sea mines. CENTCOM said Iran is still attempting to obstruct demining and safe transit, and any vessel found participating in minelaying could be targeted. It added U.S. forces are continuing maritime blockade measures against Iran and, as of May 29, had forced 115 commercial vessels to alter course."
-    },
-    {
-      "id": "4907685",
-      "time": "2026-05-30 02:02:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱將在霍爾木茲海峽附近開展軍事行動】當地時間5月29日，美國中央司令部警告稱，將在霍爾木茲海峽附近開展軍事行動，並以自衛名義打擊參與或支援佈設水雷的船隻。美國中央司令部透過聯合海事資訊中心釋出通告稱，伊朗仍在試圖阻礙霍爾木茲海峽的掃雷行動和安全通航，任何被發現參與佈雷活動的船隻都可能成為美軍打擊目標。與此同時，美軍表示仍在執行針對伊朗的海上封鎖措施。截至5月29日，已迫使115艘商業船隻改變航向。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e74e6-2eff-7bb7-9965-26a920c57af7",
-      "time": "2026-05-30 02:01:42",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "【Bank of England Governor Bailey: 60-day US‑Israel‑Iran ceasefire would still leave uncertainty, not an immediate path to rate cuts】Bank of England Governor Bailey warned a proposed 60-day ceasefire in the US‑Israel‑Iran conflict would still leave meaningful uncertainty and would not immediately clear the way for rate cuts. He said a near-complete agreement would not alter his basic assessment of the conflict’s risks to the UK economy; US officials have said the deal is close. Bailey said a 60-day pause might help but ‘‘does not solve the problem’’ and leaves uncertainty over what happens after the period. He added he has not ruled out a scenario in which energy prices fall quickly without feeding into core inflation, but the Bank would need greater confidence that such a shock would be short‑lived before easing policy."
-    },
-    {
-      "id": "4907684",
-      "time": "2026-05-30 01:59:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【藍色起源火箭爆炸後，美國航天概念股紛紛下跌】5月28日，藍色起源公司（Blue Origin）的“新格倫”（New Glenn）火箭在美國佛羅里達州的一個發射場進行測試時發生劇烈爆炸並化為巨大火球。受此事件影響，美國航天相關概念股5月29日普遍走低。卡曼控股（Karman Holdings）下跌11%，Rocket Lab下跌4.1%，Voyager Technologies下跌5.2%，Intuitive Machines下跌6.6%，Redwire下跌6.9%，AST SpaceMobile下跌14%。"
-    },
-    {
-      "id": "mkt:019e74e4-5b0b-7bb7-9965-1b1db9b36a75",
-      "time": "2026-05-30 01:59:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry: talks with US ongoing, no final consensus】On May 29, Iran foreign ministry spokesman BAGHAEI said exchanges with the United States are continuing but no final consensus has been reached. He said Western parties should not use language such as \"must\" when discussing Iran and that Iran will decide based on the interests and rights of its people. On the Strait of Hormuz he said the waterway lies within the territorial waters of Iran and Oman, and that Iran and Oman must establish a mechanism to both protect coastal states’ interests and national security and to reassure the international community on navigation safety."
-    },
-    {
-      "id": "4907683",
-      "time": "2026-05-30 01:58:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊美交流仍在繼續 尚未達成最終共識】當地時間5月29日晚，伊朗外交部發言人巴加埃對外表示，伊朗與美國之間的交流仍在繼續，但尚未達成最終共識。巴加埃還表示，西方任何一方在談論伊朗時，都不能使用“必須”這種語言。伊朗只會根據伊朗人民的利益和權利自行做決定。在涉及霍爾木茲海峽通航的問題上，巴加埃表示，霍爾木茲海峽位於伊朗和阿曼的領海範圍內，伊朗和阿曼必須採取機制，既保護作為沿海國家的自身利益和國家安全，也向國際社會保證該航道的航運安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e74db-d21a-7bb7-9965-15ef06462829",
-      "time": "2026-05-30 01:50:23",
-      "tags": [
-        "MKT News",
-        "UMG.AS",
-        "Impact mixed"
-      ],
-      "text": "Universal Music Group rejected Bill Ackman’s $64 billion takeover offer, saying the bid materially undervalued the company."
-    },
-    {
-      "id": "4907682",
-      "time": "2026-05-30 01:47:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "環球音樂集團：拒絕潘興廣場的提案，原因是該提案嚴重低估公司價值，且無法創造更優收益。"
-    },
-    {
-      "id": "4907681",
-      "time": "2026-05-30 01:45:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐亞經濟聯盟四國：亞美尼亞應公投決定是走是留】俄羅斯總統普京、哈薩克總統託卡耶夫、白俄羅斯總統盧卡申科、吉爾吉斯斯坦總統扎帕羅夫29日釋出聯合宣告說，亞美尼亞應儘快就加入歐盟或是留在歐亞經濟聯盟舉行公民投票。俄羅斯克里姆林宮官網登載的宣告說，亞美尼亞籌備加入歐盟將給歐亞經濟聯盟成員國的經濟安全帶來“重大風險”，須防範成員國因此蒙受經濟損失。（新華社）"
-    },
-    {
-      "id": "4907680",
-      "time": "2026-05-30 01:45:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：環球音樂集團董事會拒絕潘興廣場的主動收購提案。"
     }
   ]
 }
