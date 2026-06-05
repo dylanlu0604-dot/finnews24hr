@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-05 13:50:49",
-  "count": 18954,
+  "updated": "2026-06-05 13:54:49",
+  "count": 18951,
   "items": [
+    {
+      "id": "4918822",
+      "time": "2026-06-05 13:53:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塞爾維亞能源部長表示，塞爾維亞已與俄羅斯天然氣工業股份公司達成協議，將天然氣供應期限延長三個月。"
+    },
+    {
+      "id": "mkt:019e9657-0452-7ff7-b578-2e6463153427",
+      "time": "2026-06-05 13:52:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "MU.O"
+      ],
+      "text": "【NVIDIA's Huang says SK Hynix, Samsung, Micron certified to mass‑produce HBM4】NVIDIA CEO Jensen Huang said SK Hynix, Samsung Electronics and Micron Technology have been certified to supply NVIDIA’s latest high‑bandwidth memory, HBM4, and can begin mass production for the company’s AI accelerators. Huang said all three vendors are in production and competing to support NVIDIA’s Vera Rubin accelerator. The firms dominate the global compute‑memory semiconductor market."
+    },
+    {
+      "id": "4918821",
+      "time": "2026-06-05 13:52:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：SK海力士、三星、美光已透過認證，將量產最新AI記憶體】英偉達CEO黃仁勳表示，三大記憶體晶片製造商已獲准為英偉達AI加速器供應最先進的高頻寬產品。這一決定意味著SK海力士、三星電子和美光科技可開始量產並供應HBM4，即用於英偉達AI加速器的最新一代晶片。這三家企業主導著全球計算用儲存半導體市場，此前一直在激烈爭奪該業務份額。黃仁勳在抵達首爾進行為期數日的訪問時告訴記者：“三家供應商均已透過認證。”他補充道：“三家企業都已投產，都在競相支援Vera Rubin。”Vera Rubin是英偉達最新AI晶片。"
+    },
+    {
+      "id": "4918820",
+      "time": "2026-06-05 13:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米機器人團隊拿下雙料冠軍 雷軍官宣小米機器人努力方向】雷軍微博稱：小米機器人團隊，在最近兩大國際賽事中拿下雙料冠軍，而且，大幅領先第二名。 1. CVPR 2026 Workshops中，小米匿名參賽模型「my16」，以40.89%成功率位列總榜第一，是本屆唯一突破40%的模型。 2. ICRA 2026 WBC中，小米機器人綜合得分99.2分（接近滿分），整體成功率94%，領先第二名10個百分點。 小米機器人的努力方向，就是讓機器人真正走進物理世界，幹實際的活。"
+    },
+    {
+      "id": "4918819",
+      "time": "2026-06-05 13:51:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌5%，現報13730.00元。"
+    },
+    {
+      "id": "mkt:019e9655-ce39-7ff7-b578-20a4f4657d98",
+      "time": "2026-06-05 13:51:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei Cloud CEO Zhou Yuefeng: Prioritizes productivity gains over tokens revenue and consumption】Against an industry focus on MaaS revenue and token-usage metrics, Huawei Cloud CEO Zhou Yuefeng said the cloud unit prioritizes productivity improvements from Tokens over total token revenue or consumption. He noted Huawei Cloud is built on domestically sourced compute and, given constrained domestic compute supply, will not compete with peers on raw compute scale. Consequently, Huawei Cloud de-emphasizes topline and token-consumption KPIs and is focusing on developing a second compute plane rather than pursuing sentiment-driven value."
+    },
+    {
+      "id": "4918818",
+      "time": "2026-06-05 13:50:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為雲CEO周躍峰：相比Tokens收入和消耗總量，更看重生產力提升】6月5日，華為公司董事、華為雲CEO周躍峰在接受媒體採訪時表示，在當下雲廠商都極其重視MaaS（模型即服務）收入、考核Tokens用量的背景下，華為雲更看重的是Tokens帶來的生產力提升。他提到，華為雲背後是國產化算力，在國產化算力的能力和供應相對有限的情況下，華為雲不會拿算力規模來和其他廠商做比較。因此，華為雲不太在乎收入總量和Tokens的消耗指標，核心目標是發展第二個算力平面，而非情緒價值。"
+    },
     {
       "id": "mkt:019e9654-e94c-7ff7-b578-195badd5036e",
       "time": "2026-06-05 13:50:07",
@@ -174599,99 +174668,6 @@
         "Impact bullish"
       ],
       "text": "Chinese A-share bank stocks extended gains: Chongqing Bank rose more than 4%, Ningbo Bank climbed over 3%, with Changsha Bank, Qingdao Bank and Industrial Bank also advancing."
-    },
-    {
-      "id": "4906258",
-      "time": "2026-05-29 13:54:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科：預計其資料中心業務將實現強勁增長，到2027年該業務的市場份額將達10%至15%。"
-    },
-    {
-      "id": "mkt:019e724c-12c4-711c-8b3f-07715d51bf05",
-      "time": "2026-05-29 13:54:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian military said drones briefly penetrated airspace and flew at altitudes below radar detection capability."
-    },
-    {
-      "id": "4906257",
-      "time": "2026-05-29 13:54:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科：將依客戶需求，支援臺積電的CoWos封裝解決方案與英特爾的EMIB封裝解決方案。"
-    },
-    {
-      "id": "mkt:019e724b-ac58-711c-8b3e-ff9f48299eab",
-      "time": "2026-05-29 13:53:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "CSI 500 index futures (IC) main contract fell below 8,300 points, down 2.07% intraday."
-    },
-    {
-      "id": "4906256",
-      "time": "2026-05-29 13:53:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科：目標2027年從AI晶片業務獲得至多120億美元營收。"
-    },
-    {
-      "id": "4906255",
-      "time": "2026-05-29 13:53:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀跌超5%，成交額超130億元。"
-    },
-    {
-      "id": "mkt:019e724b-2065-711c-8b3e-f21cee974552",
-      "time": "2026-05-29 13:53:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Romanian military said that after an April drone incident it has redeployed radars and ground air-defense systems near Galati, but Friday's defenses did not perform effectively."
-    },
-    {
-      "id": "mkt:019e724b-1f05-711c-8b3e-ec5d80f0256b",
-      "time": "2026-05-29 13:53:06",
-      "tags": [
-        "MKT News",
-        "688256.SS",
-        "Impact bearish"
-      ],
-      "text": "Cambricon fell over 5% as turnover exceeded 13.0 billion yuan."
-    },
-    {
-      "id": "4906254",
-      "time": "2026-05-29 13:51:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞軍方：四月無人機事件後，雷達和陸基防空系統已部署至加拉茨附近，但它們週五並未發揮效用。"
-    },
-    {
-      "id": "mkt:019e7249-dec0-711c-8b3e-e401612a7603",
-      "time": "2026-05-29 13:51:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian General Maksim said a drone remained in Romania for four minutes."
     }
   ]
 }
