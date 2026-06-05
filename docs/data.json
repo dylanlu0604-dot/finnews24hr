@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-06 05:13:29",
-  "count": 18779,
+  "updated": "2026-06-06 05:17:17",
+  "count": 18782,
   "items": [
+    {
+      "id": "te:markets:557012",
+      "time": "2026-06-06 05:16:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Higher Yields Weigh — The Ibovespa fell 0.8% to close at 169,019 on Friday as higher bond yields, fading expectations of monetary easing, and escalating hostilities in the Middle East weighed on sentiment. Iran-backed Hezbollah rejected a new Lebanon ceasefire proposal, while Israel said it would not withdraw its troops, undermining US diplomatic efforts with Iran. Meanwhile, stronger-than-expected US payrolls data pushed Treasury yields higher and reinforced expectations that the Federal Reserve may keep interest rates elevated for longer, magnifying gains in Brazilian rate futures. UBS also turned less constructive on Brazilian assets as prospects for aggressive Selic cuts faded, citing stronger domestic activity, higher oil prices linked to the Iran conflict, and persistent inflation pressures. Banco do Brasil fell 1.8%, while B3 lost 0.7%. Vale dropped 3.8% amid lower iron ore prices, and Petrobras declined 0.9%, tracking a pullback in international oil prices."
+    },
+    {
+      "id": "4920415",
+      "time": "2026-06-06 05:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.68%，報15308點。"
+    },
+    {
+      "id": "4920414",
+      "time": "2026-06-06 05:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：要保障霍爾木茲海峽有足夠輸油量以壓低汽油和柴油價格，最終仍需要透過與伊朗達成決議來實現。"
+    },
+    {
+      "id": "4920413",
+      "time": "2026-06-06 05:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及能源與化肥領域：正在籌劃相關舉措。"
+    },
+    {
+      "id": "4920412",
+      "time": "2026-06-06 05:13:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚過去兩個月就業資料向上修正。"
+    },
     {
       "id": "4920411",
       "time": "2026-06-06 05:11:48",
@@ -173075,22 +173119,6 @@
         "Importance 0"
       ],
       "text": "Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance."
-    },
-    {
-      "id": "4907866",
-      "time": "2026-05-30 05:16:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球發展倡議主題研討會聚焦服務貿易促進高質量發展】中國常駐日內瓦代表團28日在瑞士日內瓦萬國宮舉辦“大力推動服務貿易，促進全球發展合作”全球發展倡議主題研討會。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德出席並致辭。來自聯合國貿易和發展會議等國際組織、各國常駐日內瓦代表團、有關研究機構和企業等140餘人出席。賈桂德表示，服務貿易是推動經濟轉型、支援發展中國家融入全球價值鏈的重要力量，是中方踐行全球發展倡議的重要領域。中方願依託日內瓦多邊平臺，推動全球發展倡議走深走實，圍繞服務貿易規則制定、數字創新、綠色轉型等與各方加強合作。（新華社）"
-    },
-    {
-      "id": "4907865",
-      "time": "2026-05-30 05:15:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.01%，報15762點。"
     }
   ]
 }
