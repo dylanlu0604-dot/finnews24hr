@@ -1,7 +1,148 @@
 {
-  "updated": "2026-06-05 13:30:48",
-  "count": 18967,
+  "updated": "2026-06-05 13:34:58",
+  "count": 18964,
   "items": [
+    {
+      "id": "4918796",
+      "time": "2026-06-05 13:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊將阿斯麥目標股價從1575歐元上調至1900歐元。"
+    },
+    {
+      "id": "4918795",
+      "time": "2026-06-05 13:33:34",
+      "tags": [],
+      "text": "創業板指跌超2％，科創50指數跌超3％。半導體晶片、電腦硬體跌幅居前。"
+    },
+    {
+      "id": "mkt:019e9645-b2c1-7228-acb2-518242d92fc1",
+      "time": "2026-06-05 13:33:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's prime minister Takaichi said she is closely monitoring indicators and market trends."
+    },
+    {
+      "id": "4918794",
+      "time": "2026-06-05 13:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報72.46美元/盎司。"
+    },
+    {
+      "id": "mkt:019e9644-7868-7bb8-bb4b-8588b37e5147",
+      "time": "2026-06-05 13:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Roundup: Institutional forecasts for US May nonfarm payrolls (seasonally adjusted; prior +115k)】Institutional forecasts for May US nonfarm payrolls range from +50k to +125k. Moody’s Analytics, Pantheon Macro, UniCredit and Deutsche Bank at +50k; Goldman Sachs, Citi and TD Securities at +60k; Morgan Stanley +65k; JP Morgan +75k; UBS and Bank of America +95k; Jefferies and Societe Generale +125k. Reuters expectation +85k."
+    },
+    {
+      "id": "4918793",
+      "time": "2026-06-05 13:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港按揭證券有限公司：2025年淨虧損1.09億港元 同比降73.92%】香港按揭證券有限公司公佈了2025年全年業績，年內淨虧損1.09億港元，相較2024年淨虧損4.18億港元降73.92%。業績改善來自外匯基金存款的收入上升，加上物業市場復甦令安老按揭業務受益，以及淨利息收入及持有的美元現金及債務投資所產生的重估收益增加。"
+    },
+    {
+      "id": "mkt:019e9644-1a9a-7228-acb2-40ce2b1f326e",
+      "time": "2026-06-05 13:31:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong Mortgage Securities Ltd reports 2025 net loss HK$109m, down 73.92% YoY】Hong Kong Mortgage Securities Ltd reported a 2025 net loss of HK$109m, a 73.92% decline from a HK$418m loss in 2024. Improvement was driven by higher income from Exchange Fund deposits, a property-market recovery that boosted its reverse-mortgage business, and increased net interest income plus revaluation gains on held US-dollar cash and debt investments."
+    },
+    {
+      "id": "4918792",
+      "time": "2026-06-05 13:31:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST絕味等在杭州投資成立數智科技公司】企查查APP顯示，近日，杭州御德泰數智科技有限公司成立，法定代表人為鄭御喆，註冊資本為500萬元，經營範圍包含：數字技術服務；品牌管理；諮詢策劃服務；企業形象策劃；資訊系統整合服務；餐飲管理等。企查查股權穿透顯示，該公司由ST絕味、超智謀略管理諮詢（上海）有限公司、上海今焰數字科技有限公司、蔣欣共同持股。"
+    },
+    {
+      "id": "mkt:019e9643-867f-7bb8-bb4b-7055aa3e1fae",
+      "time": "2026-06-05 13:31:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract fell 2.00% intraday to 17,484.00 yuan/kg."
+    },
+    {
+      "id": "4918791",
+      "time": "2026-06-05 13:31:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.04%，成分股中，佰維儲存跌7.22%，大全能源跌6.86%，盛美上海跌6.55%，瀾起科技跌6.13%。"
+    },
+    {
+      "id": "4918790",
+      "time": "2026-06-05 13:30:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌1%至4,854.53點。"
+    },
+    {
+      "id": "4918789",
+      "time": "2026-06-05 13:30:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柯力感測等成立電子科技公司】企查查APP顯示，近日，廣東柯樂電子科技有限公司成立，法定代表人為範汝前，經營範圍包含：電子專用材料研發；電子專用材料製造；鐳射打標加工；電力電子元器件製造；積體電路晶片及產品製造等。企查查股權穿透顯示，該公司由柯力感測旗下廣東華柯力固技術有限公司、佛山市吉良企業管理有限公司等共同持股。"
+    },
+    {
+      "id": "4918788",
+      "time": "2026-06-05 13:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：密切關注各項指標和市場趨勢。"
+    },
+    {
+      "id": "4918787",
+      "time": "2026-06-05 13:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1465.00元。"
+    },
+    {
+      "id": "4918786",
+      "time": "2026-06-05 13:30:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【香港恒生指數跌超1%跌破25000點】香港恒生指數跌超1%，跌破25000點。蒙牛乳業、中芯國際跌超6%，聯想集團、比亞迪電子、滙豐控股、友邦保險跌逾3%。"
+    },
+    {
+      "id": "te:markets:556737",
+      "time": "2026-06-05 13:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.37% — Top crypto losers are XRP (-2.37%), Ether (-2.06%), Binance (-1.17%) and Bitcoin (-0.54%)."
+    },
     {
       "id": "4918785",
       "time": "2026-06-05 13:29:53",
@@ -174679,172 +174820,6 @@
         "其他"
       ],
       "text": "臺灣證交所加權股價指數收高2.5%報44,732.94。"
-    },
-    {
-      "id": "mkt:019e723a-7c79-7666-8763-f0fa2038504e",
-      "time": "2026-05-29 13:34:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India says India’s economic outlook for 2026-27 remains positive."
-    },
-    {
-      "id": "4906229",
-      "time": "2026-05-29 13:34:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026-27年度通脹大機率維持在目標區間內。"
-    },
-    {
-      "id": "4906228",
-      "time": "2026-05-29 13:34:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026-27財年實際國內生產總值增速預計為6.9%，風險偏下行。"
-    },
-    {
-      "id": "4906227",
-      "time": "2026-05-29 13:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：地緣政治緊張局勢令通脹面臨上行風險。"
-    },
-    {
-      "id": "4906226",
-      "time": "2026-05-29 13:32:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：落實與主要貿易伙伴的貿易協定將為印度經濟增長提供進一步動力。"
-    },
-    {
-      "id": "4906225",
-      "time": "2026-05-29 13:32:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃爾沃EX90與ES90正式上市】5月29日，沃爾沃汽車旗下全新純電旗艦車型EX90與ES90正式上市，均基於SPA2原生純電架構打造。價格方面，純電旗艦SUV EX90售價45.99萬元起，純電旗艦轎車 ES90售價38.99萬元起。"
-    },
-    {
-      "id": "mkt:019e7238-82f5-7666-8763-eb9467f9bd5a",
-      "time": "2026-05-29 13:32:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share liquid-cooled server concept stocks showed localized weakness; Feilong Co. hit the daily down limit, while Yingweike, Tongfei Co. and Nanxin Technology were among the biggest losers."
-    },
-    {
-      "id": "mkt:019e7238-3481-7666-8763-e217e83b1e93",
-      "time": "2026-05-29 13:32:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "【Norway presses EU to lift Arctic oil and gas drilling ban】Norway is pressing the European Union to rescind a proposed ban on new oil and gas drilling in the Arctic, saying the region holds nearly two‑thirds of its hydrocarbon resources. The EU plans to publish a new Arctic policy by end‑September; Norwegian politicians, civil servants and industry and environmental lobbyists are lobbying Brussels. Norway, not an EU member but Western Europe’s largest oil and gas exporter, says its continental shelf meets about 30% of EU and UK gas demand, and recent threats to supplies via the Strait of Hormuz have bolstered its case for keeping Arctic development options open. Critics say the Arctic is warming three to four times faster than the global average and is particularly vulnerable to exploration, and that expanding drilling would impede the energy transition; they argue short‑term supply pressures do not justify opening the Arctic."
-    },
-    {
-      "id": "4906224",
-      "time": "2026-05-29 13:32:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：日本並未改變反俄政策】俄羅斯外交部發言人扎哈羅娃28日在例行記者會上表示，儘管日本經濟代表團正在訪問俄羅斯，但日方並未改變反俄政策。扎哈羅娃說，俄方從未阻礙俄日商界之間的交流，但商界交流必須務實且互利。儘管日本經濟代表團正在莫斯科訪問，但日本對俄立場沒有任何改變，日本當局依然支援烏克蘭政府，並表示將繼續對俄保持制裁壓力。扎哈羅娃說，日方將對俄合作與烏克蘭局勢掛鉤，這種做法毫無道理。由於日本政府的不友好政策，俄日關係目前處於前所未有的低谷。只有日方放棄反俄政策，兩國關係才能恢復正常。（新華社）"
-    },
-    {
-      "id": "4906223",
-      "time": "2026-05-29 13:32:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2025-26財年流通紙幣的價值與數量分別增長11.9%和10.5%。"
-    },
-    {
-      "id": "mkt:019e7238-0194-711c-8b3e-65de13551e53",
-      "time": "2026-05-29 13:32:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kazakhstan's energy ministry said maintenance at the Kashagan oilfield is expected to be postponed until 2027."
-    },
-    {
-      "id": "4906222",
-      "time": "2026-05-29 13:32:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：西亞衝突持續，或在2026-2027財年給印度經濟帶來下行風險。"
-    },
-    {
-      "id": "4906221",
-      "time": "2026-05-29 13:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026財年淨收入為2.87萬億盧比，2025財年為2.69萬億盧比。"
-    },
-    {
-      "id": "4906220",
-      "time": "2026-05-29 13:31:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念股區域性走低，飛龍股份觸及跌停】液冷伺服器概念股區域性走低，飛龍股份觸及跌停，英維克、同飛股份、南芯科技跌幅居前。"
-    },
-    {
-      "id": "4906219",
-      "time": "2026-05-29 13:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克能源部：卡沙甘油田的維護工作預計將推遲至2027年。"
-    },
-    {
-      "id": "4906218",
-      "time": "2026-05-29 13:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026財年外國證券利息收入為1.08萬億盧比，上年為9700.7億盧比。"
-    },
-    {
-      "id": "4906217",
-      "time": "2026-05-29 13:31:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026財年外匯交易匯兌收益為1.69萬億盧比，2025財年該項收益為1.11萬億盧比。"
-    },
-    {
-      "id": "4906216",
-      "time": "2026-05-29 13:31:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026-27財年印度經濟前景仍保持向好。"
-    },
-    {
-      "id": "4906215",
-      "time": "2026-05-29 13:31:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "使用者報告顯示 Xbox 網路出現問題。"
     }
   ]
 }
