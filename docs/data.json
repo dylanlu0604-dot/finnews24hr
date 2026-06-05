@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-06 03:42:16",
-  "count": 18806,
+  "updated": "2026-06-06 03:46:00",
+  "count": 18802,
   "items": [
+    {
+      "id": "mkt:019e994e-d0ab-7665-830d-321745704c09",
+      "time": "2026-06-06 03:42:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell below $68/oz, down 8.08% intraday."
+    },
+    {
+      "id": "mkt:019e994e-725d-7665-830d-2e17d4e7f627",
+      "time": "2026-06-06 03:41:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reports the US has not yet issued World Cup visas to some technical and administrative staff of Iran's national football team."
+    },
     {
       "id": "mkt:019e994e-6012-7665-830d-2021fe172f6a",
       "time": "2026-06-06 03:41:50",
@@ -173234,61 +173252,6 @@
         "C.O"
       ],
       "text": "Sources say OpenAI has held talks with multiple banks, including Citigroup and JP Morgan, about an upcoming IPO."
-    },
-    {
-      "id": "4907770",
-      "time": "2026-05-30 03:45:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "德文能源股價隨成交量激增上揚，最新上漲0.9%，突破44美元。"
-    },
-    {
-      "id": "4907769",
-      "time": "2026-05-30 03:44:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普推遲就伊朗相關協議作最終決定】據美國《紐約時報》29日援引一名不願透露姓名的政府高階官員的話報道，美國總統特朗普當天在白宮戰情室同其助手們的會議持續約兩個小時，但並未就與伊朗的協議作出“最終決定”。 (新華社)"
-    },
-    {
-      "id": "mkt:019e7544-34b0-7bb7-9966-4e16a231d6e1",
-      "time": "2026-05-30 03:44:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shenzhou-21 crew arrive safely in Beijing】The crew that completed the Shenzhou-21 manned flight mission arrived safely in Beijing by plane on May 30, 2026, Beijing time, the China Manned Space Engineering Office said."
-    },
-    {
-      "id": "4907768",
-      "time": "2026-05-30 03:44:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【戴蒙在愈演愈烈的加密法案爭端中猛烈抨擊Coinbase的CEO】摩根大通CEO戴蒙痛斥Coinbase Global Inc.執行長Brian Armstrong在“胡扯”（full of sh-t），並誓言將對正在國會推進的數字資產立法予以反擊。爭論的核心在於加密貨幣交易所是否可以對穩定幣支付利息。加密貨幣公司正尋求提供收益率，而銀行則辯稱，這會使穩定幣類似於高收益存款，卻缺乏傳統的監管保障。銀行機構“絕不接受”目前版本的所謂《清晰度法案》（Clarity Act），該法案此前一直是銀行業與加密貨幣行業之間爭端的焦點。"
-    },
-    {
-      "id": "4907767",
-      "time": "2026-05-30 03:43:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面表示，該國格什姆島防空系統已啟動，應對來襲無人機。"
-    },
-    {
-      "id": "mkt:019e7542-b7c4-7bb7-9966-4126c1fe90d6",
-      "time": "2026-05-30 03:42:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC: In the week to May 26, speculators cut net short positions in U.S. 2-year Treasury futures by 305,000 contracts to 1,255,246 and cut net shorts in U.S. 10-year Treasury futures by 60,098 contracts to 787,954."
     }
   ]
 }
