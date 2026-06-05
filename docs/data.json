@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-06 04:08:50",
+  "updated": "2026-06-06 04:12:37",
   "count": 18797,
   "items": [
+    {
+      "id": "mkt:019e9969-c58d-7665-830d-906ca51184e8",
+      "time": "2026-06-06 04:11:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【FT: Meta weighing equity sale to raise hundreds of billions to fund AI push】Meta Platforms (META.O) is considering an equity offering that could raise hundreds of billions of dollars to fund CEO Mark Zuckerberg’s AI expansion, the Financial Times reports. Executives are exploring “innovative” financing as Meta plans to boost AI-related capital expenditure to as much as $145 billion this year and increase it further through 2027. The discussions accelerated after Alphabet’s record $85 billion stock sale this week, which was upsized by $5 billion amid strong demand. Meta has not hired banks and may not proceed; no final decision has been made."
+    },
+    {
+      "id": "mkt:019e9967-137f-7665-830d-8a66a027789f",
+      "time": "2026-06-06 04:08:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military said nearly 1,000 commercial vessels transited the Strait of Hormuz over the past two months."
+    },
     {
       "id": "mkt:019e9966-882e-7665-830d-854a24a1e3c3",
       "time": "2026-06-06 04:08:13",
@@ -173213,23 +173236,6 @@
         "國際"
       ],
       "text": "美聯儲：美國上週銀行存款19.285萬億美元，之前一週19.279萬億美元。"
-    },
-    {
-      "id": "4907796",
-      "time": "2026-05-30 04:10:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數的11個板塊普遍收跌，日用消費品板塊收跌2%，電信板塊跌1.7%，能源板塊跌1.07%，可選消費板塊跌1.05%，金融板塊則收漲0.56%，資訊科技/科技板塊漲1.87%。"
-    },
-    {
-      "id": "4907795",
-      "time": "2026-05-30 04:10:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "城堡集團針對美國證券交易委員會批准某交易平臺的異議申訴失敗。"
     }
   ]
 }
