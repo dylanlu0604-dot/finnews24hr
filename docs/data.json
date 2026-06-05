@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-05 14:10:35",
-  "count": 18928,
+  "updated": "2026-06-05 14:14:28",
+  "count": 18920,
   "items": [
+    {
+      "id": "4918851",
+      "time": "2026-06-05 14:13:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國政府將為煤電和煤炭專案提供資金支援】美國總統特朗普4日在白宮宣佈，美國政府將提供數億美元資金，支援本國燃煤發電廠擴大產能、改造升級，以及建設新的煤炭出口基礎設施。 美國能源部當天釋出公告說，將依據《國防生產法》向12個燃煤發電專案和一個煤炭海運出口碼頭專案提供高達5億美元的資金支援。這些專案旨在提升美國煤炭開採價值鏈、保障基本負荷發電的可靠性，以及增強關鍵能源基礎設施韌性。公告顯示，位於加利福尼亞州奧克蘭的出口終端設施每年可以處理超過1000萬噸的大宗商品。 能源部當天還宣佈，將提供3.5億美元資金支援4個選定的煤炭現代化和可靠性專案，以加強燃煤發電能力、提升電網可靠性、強化戰略效能源基礎設施。這些專案包括在阿拉斯加州和西弗吉尼亞州分別新建一個煤電廠、升級改造位於波多黎各瓜亞馬的一個煤電廠，以及重啟位於馬里蘭州、已於2024年停運的一個煤電廠。 特朗普再次當選總統後繼續採取支援煤炭行業發展的政策，上任以來簽署了多項旨在擴大煤炭開採和燃煤發電能力的行政令。(新華社)"
+    },
+    {
+      "id": "te:economy:556745",
+      "time": "2026-06-05 14:13:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "House Price Index YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Prices Rise Less Than Expected: Halifax — The Halifax House Price Index showed UK house prices rose 0.5% year-on-year in May 2026, below the expected 1.0% increase and following a 0.4% gain in April. The average UK house price stood at £298,806. On a monthly basis, prices fell 0.1%, matching the decline recorded in April and contrasting with forecasts of a 0.1% increase. Amanda Bryden, Head of Mortgages at Halifax, noted that uncertainty surrounding developments in the Middle East and higher inflation expectations have kept borrowing costs elevated despite recent mortgage rate cuts, weighing on affordability and demand. Still, housing market activity has remained resilient, with transaction levels holding relatively steady. Regionally, Northern Ireland recorded the strongest annual house price growth at 7.8%, followed by Scotland (3.8%), the North East (3.1%), and the North West (3.0%). By contrast, prices fell in the South East (-2.1%) and London (-1.5%)."
+    },
+    {
+      "id": "4918850",
+      "time": "2026-06-05 14:13:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，報8625.10點。"
+    },
+    {
+      "id": "4918848",
+      "time": "2026-06-05 14:12:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東6000多萬畝小麥開始大面積收穫】記者從山東省人民政府新聞辦公室5日上午召開的新聞釋出會上獲悉，目前，山東6000多萬畝小麥正從南到北、由西向東陸續開鐮，進入大面積收穫階段。據介紹，山東小麥種植面積常年穩定在6000萬畝以上，位居全國第二；小麥產量約佔山東全年糧食總產量的一半。（新華社）"
+    },
+    {
+      "id": "4918847",
+      "time": "2026-06-05 14:12:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌3%，現報1004.00元。"
+    },
+    {
+      "id": "mkt:019e9669-7afe-7ff7-b578-6c52e9e22ca0",
+      "time": "2026-06-05 14:12:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean police probe Polymarket users as Asian expansion meets regulatory headwinds】South Korean police have opened a probe into Polymarket users suspected of illegal gambling, the Gangwon Provincial Police Department cyber investigation unit said, acting on a request from the National Police Agency. The unit said the investigation targets domestic users rather than the prediction-market platform itself, underscoring growing regulatory scrutiny as Polymarket expands in Asia."
+    },
+    {
+      "id": "4918846",
+      "time": "2026-06-05 14:12:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守72美元/盎司，日內跌2.55%。"
+    },
+    {
+      "id": "4918845",
+      "time": "2026-06-05 14:12:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4755.00元。"
+    },
+    {
+      "id": "4918844",
+      "time": "2026-06-05 14:11:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量2417億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606053761863820",
+      "time": "2026-06-05 14:11:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲內部分歧加劇：抗通脹為首要任務 年內加息重回政策選項】近日，多位美聯儲官員相繼發表講話。儘管官員們普遍認同將通脹恢復至2%目標是首要任務，但在利率路徑判斷、風險側重及政策溝通策略上呈現出顯著差異，反映出央行在應對能源衝擊、人工智慧投資熱潮及財政可持續性等多重變數時的審慎與博弈。"
+    },
     {
       "id": "4918843",
       "time": "2026-06-05 14:08:59",
@@ -174273,173 +174363,6 @@
         "US10Y"
       ],
       "text": "Federal Reserve's Kashkari said the war in Iran makes the future path of monetary policy unclear."
-    },
-    {
-      "id": "4906295",
-      "time": "2026-05-29 14:14:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【里昂：續予比亞迪“高確信跑贏大市”評級，看好海外及高階增長具可見度】里昂發表研報指，比亞迪釋出配備天神之眼5.0的新一代智慧駕駛解決方案及全新自動駕駛框架。該行指出，在比亞迪公佈眾多的技術細節中，有兩項令市場感到驚喜，包括為所有搭載天神之眼5.0的車型，提供安全兜底保障，及比亞迪推出自研的璇璣A3晶片。該行認為這次的智慧駕駛解決方案進一步彰顯比亞迪領先的技術實力，並有助於推動公司下半年銷量復甦。該行預期比亞迪的垂直整合模式將在愈發激烈的價格戰環境中提供更大的餘地，並看好海外及高階增長具可見度。該行維持公司H股目標價130港元，續予“高確信跑贏大市”評級。"
-    },
-    {
-      "id": "te:economy:554760",
-      "time": "2026-05-29 14:14:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "Norway Retail Sales Rebound in April — Retail sales in Norway rose by 0.3% month-over-month in April 2026, rebounding from a 0.1% decline in the previous month. Sales recovered for automotive fuel (1.1% vs -8.8% in March), non-specialized stores (1.7% vs -1.9%), and trade not in stores, stalls, or markets (0.3% vs -0.5%). In addition, sales growth accelerated for other household equipment (1.7% vs 0.5%). On the other hand, sales increased at a softer pace for food and beverages (0.5% vs 1.2%) and cultural and recreational goods (1.3% vs 3.4%), while it slipped for both ICT equipment (-1.5% vs 3.4%) and other goods (-0.2% vs 2.9%). On a yearly basis, retail sales increased by 0.9% in April, edging up from a downwardly revised and near one-year low of 0.8% in the previous month."
-    },
-    {
-      "id": "4906294",
-      "time": "2026-05-29 14:13:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：伊朗戰爭令通脹前景蒙上陰影。"
-    },
-    {
-      "id": "te:markets:554759",
-      "time": "2026-05-29 14:13:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Heads for Third Monthly Loss as Key Data Looms — The rupiah hovered near IDR 17,870 per U.S. dollar on Friday after briefly touching a record low of 17,970 in the prior session. Sentiment steadied as the U.S. dollar index eased on reports of a tentative U.S.–Iran peace deal, tempering fears of inflation and further Fed hikes. Still, caution lingered ahead of May inflation and April trade data due next week. Risks are building as energy costs rise, while March exports shrank and imports stayed weak, underscoring external fragility. Concerns also persist over new rules requiring exporters to retain proceeds locally, with traders doubtful the measure will meaningfully lift foreign reserves since funds remain under exporter control. The rupiah is on track for a third straight monthly drop, down nearly 3% in May and 6.6% year-to-date, ranking among Asia’s weakest alongside the Indian rupee and Philippine peso. Fiscal strains and capital outflows continue to weigh despite Bank Indonesia’s mid-May rate hikes and other stabilisation efforts."
-    },
-    {
-      "id": "te:economy:554758",
-      "time": "2026-05-29 14:13:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Sweden Household Lending Growth Steady at 3% — The annual growth rate of lending to Swedish households remained at 3.0% in April 2026, unchanged from March, and holding at its highest level since January 2023. Housing loans, which accounted for 83% of total household lending, grew by 3.1%, while consumer loans, representing around 6% of household lending, increased by 1.5%. Lending to non-financial corporations also went up 3.1%. Meanwhile, the average floating mortgage rate rose to 2.81% in April from 2.65% in March. The average fixed rate on new housing loans with maturities between one and five years increased to 3.29% from 3.02% in the previous month, while the average interest rate on new mortgage agreements climbed to 2.88%. On the funding side, household deposits totaled SEK 2,941 billion, with 74% held in demand accounts, amounting to SEK 2,190 billion."
-    },
-    {
-      "id": "mkt:019e725d-813d-711c-8b3f-eb3238a7f389",
-      "time": "2026-05-29 14:13:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "A former Bank of Japan Policy Board member said the BOJ may raise interest rates in June."
-    },
-    {
-      "id": "4906293",
-      "time": "2026-05-29 14:13:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲1.6%，至8731.70點。"
-    },
-    {
-      "id": "mkt:019e725d-7c13-711c-8b3f-e44846efdc80",
-      "time": "2026-05-29 14:13:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ming‑Chi Kuo: Sunny Optical sees several new positive trends】Ming‑Chi Kuo of TF International says a supply‑chain survey shows Sunny Optical is gaining multiple market‑positive trends: it is leveraging existing optical expertise to enter AI‑server co‑packaged optics (CPO) and silicon‑photonics coupling components; it has secured orders for optical parts for OpenAI devices; and it has two positive Apple developments — it is becoming a new camera‑module (CCM) supplier with expected iPhone CCM orders in 2028, and it won high‑priced variable‑aperture lenses for a 2H26 iPhone model that will account for roughly 50% of the relevant lens mix."
-    },
-    {
-      "id": "4906292",
-      "time": "2026-05-29 14:12:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【生態環境部回應野豬進城頻發】29日，生態環境部召開5月例行新聞釋出會，生態環境部自然生態保護司司長張玉軍表示，近期，部分地區接連出現了野豬“進城”、狼吃羊，甚至熊虎傷人等事件，引發了社會關注。客觀而言，出現這一現象的根源在於野生動物棲息地破碎化、食物鏈結構仍然不夠完整、區域性種群失衡，以及動物與人的生活空間重疊等。對此，生態環境部推動四方面的舉措：第一是加強保護，主動預防；第二是科學監測，分類施策；第三是健全機制，壓實責任；第四是完善補償制度，兜好民生底線。（中國新聞網）"
-    },
-    {
-      "id": "4906291",
-      "time": "2026-05-29 14:12:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萬孚生物與廣醫三院簽約 共建妊娠高血壓與子癇前期篩查防控中心】據萬孚生物訊息，近日，萬孚生物與廣州醫科大學附屬第三醫院（簡稱“廣醫三院”）正式舉行“妊娠高血壓與子癇前期篩查防控中心”專案簽約儀式。雙方將圍繞母嬰健康領域開展深度合作，共同推動子癇前期篩查與防控體系建設。"
-    },
-    {
-      "id": "mkt:019e725c-ed23-711c-8b3f-de2492185f8d",
-      "time": "2026-05-29 14:12:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kenya's High Court ordered the temporary suspension, under an agreement with the US, of any arrangements made with the US or other foreign entities that would allow people exposed to or infected with Ebola to enter Kenya."
-    },
-    {
-      "id": "4906290",
-      "time": "2026-05-29 14:12:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【舜宇光學科技漲超10%】舜宇光學科技(02382.HK)漲超10%，成交額近30億港元。訊息面上，天風國際郭明錤發文稱，最新的供應鏈調查顯示，舜宇光學迎來數個新正向趨勢：1. 利用既有光學技術優勢，準備進入 AI 伺服器 CPO / 矽光（矽光）耦合元件；2. OpenAI 裝置光學零元件訂單；3. 兩個 Apple 訂單正向趨勢：1) 成為 Apple 新 CCM 供應商，並預計在 2028 年取得 ；iPhone CCM訂單、2) 取得用於 2H26 新款 iPhone 的高單價可變光圈鏡頭，比重近50%。"
-    },
-    {
-      "id": "mkt:019e725c-42d4-711c-8b3f-d11f15ecd8cd",
-      "time": "2026-05-29 14:11:48",
-      "tags": [
-        "MKT News",
-        "02382.HK",
-        "Impact bullish"
-      ],
-      "text": "Sunny Optical Technology (02382.HK) shares jumped more than 10% on turnover near HK$3.0 bln."
-    },
-    {
-      "id": "mkt:019e725c-3d72-711c-8b3f-c9d6ce735fab",
-      "time": "2026-05-29 14:11:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Ecology and Environment links wild animal urban incursions to habitat fragmentation, unveils four measures】At a May 29 regular briefing, Zhang Yujun, director-general of the Department of Natural Ecological Protection at the Ministry of Ecology and Environment, said a recent surge in wild boars entering cities, wolves predating sheep and isolated bear and tiger attacks stems from habitat fragmentation, incomplete food chains, local population imbalances and overlapping human-animal living space. The ministry outlined four responses: strengthen protection and proactive prevention; implement scientific monitoring and targeted measures; improve mechanisms and tighten responsibility enforcement; and完善 the compensation system to safeguard basic livelihoods."
-    },
-    {
-      "id": "4906289",
-      "time": "2026-05-29 14:11:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳南坪快速路起火事故監控曝光：特斯拉與掛車發生碰撞，掛車再撞公交車】深圳南坪快速路起火事故監控畫面曝光。路過車輛記錄儀顯示，一輛特斯拉汽車與一輛掛車在道路左側發生碰撞後，掛車二次碰撞右側公交車，不久隔音棚被引燃。此前，當地官方通報，現場無人員受傷被困。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019e725b-ccf6-711c-8b3f-c2c6f0408e15",
-      "time": "2026-05-29 14:11:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Japan's 30-year government bond yield fell 5bp to 3.915%."
-    },
-    {
-      "id": "4906288",
-      "time": "2026-05-29 14:11:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌5個基點，至3.915%。"
-    },
-    {
-      "id": "4906287",
-      "time": "2026-05-29 14:10:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首批AI訓推晶片國家級安全測評結果披露 測評機構：分批次進行 一年兩次受理期】中國資訊保安測評中心與國家保密科技測評中心5月26日聯合釋出公告，將9款國產人工智慧訓練推理晶片納入“安全可靠等級”I級認證體系，這也是我國首次在安全可靠認證框架下設立專門的AI晶片品類。不過，在測評名單中，未見寒武紀、崑崙芯、燧原科技等企業的產品，引發市場關注。記者致電寒武紀董秘辦表明採訪來意後，接線人員表示後續會有對接人聯絡，但截至發稿尚未獲有效回應。記者以投資者身份致電寒武紀董秘辦，接線工作人員表示，具體情況以測評方的標準與回覆為準。崑崙芯、燧原科技方面亦未對此進行回應。記者撥打中國資訊保安測評中心產品測評諮詢電話，接線工作人員表示，上述測評分批次進行，一年固定兩個受理期。 (每經)"
     }
   ]
 }
