@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-05 17:17:23",
-  "count": 18803,
+  "updated": "2026-06-05 17:21:24",
+  "count": 18792,
   "items": [
+    {
+      "id": "4919292",
+      "time": "2026-06-05 17:20:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天貓等在杭州成立網路科技公司】天眼查App顯示，近日，杭州濱橙網路科技有限公司成立，法定代表人為張宇帆，註冊資本300萬人民幣，經營範圍包括資訊系統整合服務、化妝品零售、網際網路銷售等。股東資訊顯示，該公司由浙江天貓技術有限公司旗下杭州天貓校園技術服務有限公司全資持股。"
+    },
+    {
+      "id": "4919291",
+      "time": "2026-06-05 17:19:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中礦資源奈米比亞楚梅布冶煉廠二期多金屬回收專案開工】中礦資源集團股份有限公司董事長、總裁王平衛赴中礦資源奈米比亞楚梅布冶煉廠有限公司（以下簡稱“楚梅布冶煉廠”）調研指導，實地考察專案建設進展，並就下一階段生產經營作出部署。隨著楚梅布冶煉廠二期多金屬回收專案正式動工，楚梅布冶煉廠正加速從傳統冶煉向綠色、迴圈、高附加值的綜合資源回收基地轉型。"
+    },
+    {
+      "id": "4919290",
+      "time": "2026-06-05 17:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【坦博爾港股IPO獲中國證監會備案】中國證監會國際合作司釋出關於坦博爾集團股份有限公司境外發行上市及境內未上市股份“全流通”備案通知書，公司擬發行不超過64,133,200股境外上市普通股並在香港聯合交易所上市。公司5名股東擬將所持合計167,300,000股境內未上市股份轉為境外上市股份，並在香港聯合交易所上市流通。"
+    },
+    {
+      "id": "4919289",
+      "time": "2026-06-05 17:18:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "香港交易所資訊顯示，摩根士丹利在美的集團H股的持股比例於06月02日從5.02%降至4.99%。"
+    },
+    {
+      "id": "mkt:019e9713-4b58-7bb5-8c75-45a01f2a4ab2",
+      "time": "2026-06-05 17:18:04",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【State Council bars using private funds to improperly raise debt to resolve liabilities or dispose troubled firms】The State Council General Office issued guidance requiring provincial-level and directly administered municipal governments where private fund managers are registered to lead risk resolution, coordinating with the State Council securities regulator and other agencies. Local authorities must swiftly inventory exposures and adopt market-based, rule-of-law risk-resolution plans covering asset recovery, asset verification and distributions/returns, and avoid creating expectations of public-resource support. Risk handling should be conducted within local mechanisms with active cooperation from the securities regulator and its local offices, including enforcement and penalties. Where one ultimate controller oversees multiple private fund managers across regions, lead responsibility will, in principle, follow: headquarters registration location, core enterprise corporate income tax payment location, then senior management personal income tax payment location. The guidance explicitly forbids using private funds to improperly incur debt to resolve liabilities or to dispose of troubled companies, to prevent new risk points."
+    },
+    {
+      "id": "4919288",
+      "time": "2026-06-05 17:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天準科技：全資子公司擬擇機出售長光辰芯不超過152.21萬股股票】天準科技(688003.SH)公告稱，公司全資子公司新加坡天準擬擇機出售其持有的長光辰芯股票不超過152.21萬股(佔其總股本不超過0.34%)，預計交易金額約1.29億元，賬面成本為5313.80萬元。"
+    },
+    {
+      "id": "4919287",
+      "time": "2026-06-05 17:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 匈牙利將改組匈牙利開發銀行（MFB），以獲取歐盟資金。"
+    },
+    {
+      "id": "4919286",
+      "time": "2026-06-05 17:16:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑤芯微港股IPO獲中國證監會備案】中國證監會國際合作司釋出關於瑤芯微（上海）電子科技股份有限公司境外發行上市及境內未上市股份“全流通”備案通知書，公司擬發行不超過34,584,500股境外上市普通股並在香港聯合交易所上市。公司46名股東擬將所持合計170,416,540股境內未上市股份轉為境外上市股份，並在香港聯合交易所上市流通。"
+    },
     {
       "id": "mkt:019e9712-17bc-7bb5-8c75-380849308b46",
       "time": "2026-06-05 17:16:45",
@@ -173054,184 +173123,6 @@
         "市場"
       ],
       "text": "新加坡海峽時報指數收盤上漲 1%，報 5037.86 點。"
-    },
-    {
-      "id": "4906818",
-      "time": "2026-05-29 17:21:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萬科：今年已啟動食品、教育等非主業的退出或剝離】萬科5月29日舉行2025年度股東會。萬科管理層表示，在資產處置方面，繼剝離冰雪業務後，今年已啟動食品板塊、教育板塊等其他非主業的退出或剝離。在開發業務層面持續推進“城市聚焦”，在加快存量資源資產盤活的基礎上，向經濟實力強、人口吸引力高和行業空間較大的主要城市和板塊進一步聚焦。此外，萬科稱2026年仍會大力推進大宗交易工作，目前多個重點城市的意向交易已取得一定進展。"
-    },
-    {
-      "id": "4906817",
-      "time": "2026-05-29 17:20:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【三星電子、SK海力士屢創新高觸發意外拋售 今年合計淨流出資金達586億美元】全球投資者今年瘋狂湧入三星電子和SK海力士股票交易，推動這兩隻記憶體股分別上漲了147%和245%，但飆升的股價給一些基金帶來了意想不到的麻煩。由於這兩家公司股價屢創新高，已經觸及了一些基金單隻股票持倉比例上限10%的限制，迫使這些基金拋售這兩隻股票。蘇黎世的GAM投資管理公司和新加坡的Jupiter資產管理公司據悉正是觸發此類拋售的公司之一，其已經無奈調整了投資組合。這一被迫拋售無疑凸顯了當前記憶體市場的擁擠程度，也可能進一步加大波動性。截至週四，全球投資者淨拋售了價值636億美元的韓國股票，這是自1999年有資料以來最大的單月拋售量。其中，三星和SK海力士今年合計淨流出資金達586億美元。"
-    },
-    {
-      "id": "mkt:019e7309-6a36-7dd6-96ca-e3a6b8ab67f4",
-      "time": "2026-05-29 17:20:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's 5G base stations exceed 5.009 million at end-April】MIIT data show China had 5.009 million 5G base stations at end-April, a net increase of 171,000 since end-2023, accounting for 38.7% of mobile base stations, 0.5 ppt higher than Q1. 5G mobile subscriptions reached 1.262 bln, a net add of 57.58 mln since end-2023, representing 68.7% of mobile subscribers."
-    },
-    {
-      "id": "mkt:019e7309-69ea-7dd6-96ca-da6f35dc1a82",
-      "time": "2026-05-29 17:20:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Hungary's prime minister magyar said he will meet the European Commission president at 1pm and reach a political agreement on EU funds."
-    },
-    {
-      "id": "4906816",
-      "time": "2026-05-29 17:20:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理：將於下午1點與歐盟委員會主席會晤，將就歐盟資金問題達成政治協議。"
-    },
-    {
-      "id": "4906815",
-      "time": "2026-05-29 17:20:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守91美元/桶，日內跌1.88%。"
-    },
-    {
-      "id": "4906814",
-      "time": "2026-05-29 17:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翔港科技：擬發行可轉換公司債券募集資金不超過4.78億元】翔港科技公告，公司擬向不特定物件發行可轉換公司債券募集資金不超過4.78億元，扣除發行費用後的募集資金淨額將用於翔港科技彩盒包裝擴產專案、翔港科技研發中心升級專案及補充流動資金。"
-    },
-    {
-      "id": "mkt:019e7308-5112-7dd6-96ca-d5490d09fb78",
-      "time": "2026-05-29 17:19:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US DOJ probes Reid Hoffman-linked group over funding of lawsuit against Trump】The US Department of Justice has opened an investigation into American Future Republic, a group linked to billionaire Reid Hoffman, after it partially funded writer E. Jean Carroll’s lawsuit against President Trump, a person familiar with the matter said. The probe, led by the U.S. Attorney’s Office in Chicago, is examining possible money laundering and obstruction of justice related to the group’s payment of Carroll’s legal fees in the case in which she accused Trump of sexual assault and defamation and prevailed. Investigators are reviewing whether Carroll gave false testimony in 2022 about the source of the suit’s funding; Carroll is not a target of the probe, the source said."
-    },
-    {
-      "id": "4906813",
-      "time": "2026-05-29 17:19:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【涉嫌資助針對特朗普的訴訟 美國一億萬富翁關聯團體遭到調查】一位知情人士週四透露，美國司法部已對一個與億萬富翁裡德·霍夫曼（Reid Hoffman）有關聯的團體展開調查，起因是該團體部分資助了作家E·簡·卡羅爾（E. Jean Carroll）針對美國總統特朗普提起的訴訟。訊息人士透露，這項調查由美國芝加哥聯邦檢察官辦公室主導，重點關注這個名叫“美國未來共和國”（American Future Republic）的團體可能涉及的洗錢及妨礙司法公正行為。該團體承擔了卡羅爾的部分法律費用開支，這些費用與她指控特朗普性侵和誹謗並最終勝訴的案件有關。訊息人士表示，調查正在審查卡羅爾是否在2022年的一次證詞中就其訴訟資金來源作偽證。雖然調查正在審查資金來源，但卡羅爾並非調查的重點。"
-    },
-    {
-      "id": "4906812",
-      "time": "2026-05-29 17:19:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報87.08美元/桶。"
-    },
-    {
-      "id": "4906810",
-      "time": "2026-05-29 17:18:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST海利：控股子公司收購湖南澤爾頓新材料有限公司股權事項存在不確定性】*ST海利5月29日釋出股票交易異動公告稱，公司日常經營情況一切正常，市場環境及行業政策未發生重大調整，生產成本和銷售等情況未發生大幅波動，內部生產經營秩序正常。公司於2026年5月28日召開第五屆董事會第二十一次會議，審議透過了《關於控股子公司收購湖南澤爾頓新材料有限公司股權的議案》，該交易尚未完成，相關資產的交割、過戶等事項是否能最終順利完成存在不確定性，後續整合工作是否順利完成存在不確定性風險，因此實際對公司業績的影響存在不確定性，且後續存在業績不達預期和商譽減值風險。"
-    },
-    {
-      "id": "mkt:019e7307-9bd4-7aa0-9e11-05f42569c1a1",
-      "time": "2026-05-29 17:18:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude slid to $91/barrel, down 1.55% on the day."
-    },
-    {
-      "id": "4906809",
-      "time": "2026-05-29 17:18:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國夏糧收穫過兩成】記者29日從農業農村部瞭解到，全國夏糧收穫過兩成。農業農村部有關負責人表示，去年各地千方百計應對罕見秋季連陰雨影響，穩住了冬小麥面積，追回了苗情。據農業農村部農情排程顯示，截至5月28日，全國夏糧收穫過兩成，冬小麥收穫已近兩成，其中西南接近尾聲、長江中下游過八成，黃淮海即將開始大面積收穫。全國冬油菜收穫過九成，進入掃尾階段。夏糧包括夏收的穀物、豆類和薯類。其中夏收穀物主要包括小麥、大麥等；夏收豆類主要包括蠶豆、豌豆和胡豆；薯類包括馬鈴薯和甘薯。（新華社）"
-    },
-    {
-      "id": "4906808",
-      "time": "2026-05-29 17:18:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：剛果民主共和國共報告125例埃博拉確診病例，其中伊圖裡、北基伍和南基伍地區有17例確診死亡病例，另有16例確診病例為醫護人員。"
-    },
-    {
-      "id": "4906807",
-      "time": "2026-05-29 17:17:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-4月全國國有及國有控股企業經濟執行情況】1-4月，全國國有及國有控股企業營業總收入同比下降0.5%，利潤總額同比增長1.9%。具體資料為：營業總收入262700.9億元，利潤總額13741.7億元。應交稅費同比增長3.9%，達到21179.4億元。4月末，國有企業資產負債率65.5%，同比上升0.4個百分點。（新華社）"
-    },
-    {
-      "id": "4906806",
-      "time": "2026-05-29 17:17:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貝利：持續的間接影響可能令消費者物價指數維持在目標水平上方。"
-    },
-    {
-      "id": "mkt:019e7306-984d-7dd6-96ca-c39ffaff1e69",
-      "time": "2026-05-29 17:17:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Bank of England Governor Bailey said economic weakness and uncertainty from the Iran war mean temporarily tolerating inflation above target is an appropriate policy trade‑off."
-    },
-    {
-      "id": "mkt:019e7306-5af9-7aa0-9e10-f4e6275f8afb",
-      "time": "2026-05-29 17:17:32",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said tolerance for inflation running temporarily above target would be reduced if signs of second-round effects emerge."
-    },
-    {
-      "id": "4906805",
-      "time": "2026-05-29 17:17:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：能夠容忍通脹暫時高於目標。"
     }
   ]
 }
