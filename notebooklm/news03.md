@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 05:43:39_
-_本檔包含 3966 則快訊，約 699487 字_
+_更新時間：2026-06-06 06:10:39_
+_本檔包含 3980 則快訊，約 700871 字_
+
+---
+
+### 2026-06-03 20:04:03  #其他
+
+DIGI POWER X：斥資 3500 萬美元採購英偉達 VERA RUBIN 平臺。
+
+---
+
+### 2026-06-03 20:03:30  #國際
+
+以色列國防軍稱攔截兩枚從黎巴嫩射向以色列的來襲彈藥。
+
+---
+
+### 2026-06-03 20:03:16  #公司
+
+【漳發新能源：福勇漁業分散式光伏專案順利併網】據漳州發展訊息，近日，由福建漳發新能源投資有限公司投資建設的東山縣福勇漁業製品有限公司分散式光伏發電專案，順利實現全容量併網發電，專案坐落於漳州市東山縣康美鎮，依託福勇漁業廠房屋面資源，總裝機容量約1.37MWp，專案已正式建成並投入運營，年均發電量可達158.6萬度。
+
+---
+
+### 2026-06-03 20:03:14  #其他
+
+【PayPal：中國企業出海迎來全球增長新機遇】PayPal中國商戶交流會在廣州舉行。在會上PayPal分享了出海趨勢以及最新市場洞察：近年來，中國企業出海已從“尋找增量市場”逐步邁向“構建全球化經營能力”的新階段。
+
+---
+
+### 2026-06-03 20:03:00  #其他
+
+DIGI POWER X ：將動用庫存現金為收購英偉達維拉·魯賓專案出資。
+
+---
+
+### 2026-06-03 20:02:53  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+The Israeli Defense Forces said the Israeli Air Force intercepted two missiles fired from Lebanon into Israeli territory after alerts sounded in the Misgav Am area.
+
+---
+
+### 2026-06-03 20:02:19  #公司
+
+【遼港集團與招商檢測簽署戰略合作框架協議，將在商品車檢測認證及跨境物流配套服務等領域開展合作】“遼寧港口”微信公眾號6月3日訊息，6月3日下午，遼港集團與招商檢測在遼港集團總部簽署戰略合作框架協議。根據協議內容，雙方將在商品車檢測認證及跨境物流配套服務等七個領域開展戰略合作，持續拓寬合作廣度、挖掘合作深度，推動雙方實現高效協同、共贏發展。
+
+---
+
+### 2026-06-03 20:02:17  #MKT News #Market Regions #Greater China #02026.HK #Impact bullish
+
+Pony.ai-W (02026.HK): The company’s Class A ordinary shares listed and traded on HKEX have been added to the Shanghai–Hong Kong Stock Connect eligible securities list, effective June 4, 2026.
+
+---
+
+### 2026-06-03 20:02:13  #公司
+
+小馬智行-W(02026.HK)：本公司於港交所上市及買賣的A類普通股已獲納入滬港通合資格證券名單，自2026年6月4日起生效。
+
+---
+
+### 2026-06-03 20:02:11  #其他
+
+波羅的海乾散貨指數跌2.53%，至3124點。
+
+---
+
+### 2026-06-03 20:02:05  #其他
+
+洲際交易所加入Anthropic的“玻璃翼專案” 。
+
+---
+
+### 2026-06-03 20:01:58  #MKT News
+
+Intercontinental Exchange has joined ANTHROPIC's Glasswing project, market sources said.
+
+---
+
+### 2026-06-03 20:01:38  #市場
+
+【部分蛋白粉產品漲價幅度達30%】近日，得物App價格趨勢圖獲取的資料顯示，多個運動營養品牌的蛋白粉產品近一年均出現明顯價格上調。如康位元全系列產品漲幅顯著，1500g香草味乳清蛋白粉從去年的202元漲至目前的269元，漲幅達33%；FoYes 5磅裝抹茶味乳清蛋白粉，從今年2月的499元上漲至599元，短短四個月價格上漲100元。
+
+---
+
+### 2026-06-03 20:01:34  #其他
+
+網捷、思科推出安全、可擴充套件且輕量化的人工智慧解決方案。
+
+---
+
+### 2026-06-03 20:01:34  #MKT News
+
+Baltic Dry Index fell 2.53% to 3,124.
+
+---
+
+### 2026-06-03 20:01:29  #國際
+
+【SpaceX IPO前，特朗普政府官員持有數百萬美元股票】SpaceX的IPO很可能會讓本就財力雄厚的特朗普政府變得更加富有。根據這些官員們最新的公開財務申報內容，從特使史蒂夫·威特科夫到小企業管理局局長凱利·洛弗勒等十名官員均披露了他們在SpaceX或xAI中的財務利益關係。根據去年的披露資訊，美國聯邦工作人員持有的SpaceX或xAI股票總價值至少為990萬美元，且最高可達4380萬美元。此後，這些官員可以出售全部或部分持有的股票，而無需觸發額外的披露要求。
+
+---
+
+### 2026-06-03 20:01:17  #其他
+
+COTALITY：紐西蘭房價指數環比5月保持不變。
+
+---
+
+### 2026-06-03 20:01:07  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D fell 0.61% at the open of the June 3 evening session to 973.24 yuan/gram; Silver T+D fell 0.11% to 18,000.0 yuan/kg.
+
+---
+
+### 2026-06-03 20:01:01  #其他
+
+荷蘭合作銀行預計，2026/27年度全球咖啡供應過剩規模將擴大。
+
+---
+
+### 2026-06-03 20:00:57  #MKT News #Important
+
+Ten U.S. officials, including a U.S. special envoy and the Small Business Administration administrator, disclosed financial interests in Elon Musk’s SpaceX or xAI in newly filed public financial disclosures.
+
+---
+
+### 2026-06-03 20:00:53  #公司
+
+【羅曼股份：擬定增募資不超過2.93億元用於智慧算力叢集建設及運營專案】羅曼股份公告，公司2026年度以簡易程式向特定物件發行股票預案已獲董事會審議透過，尚需經上海證券交易所稽核透過及中國證監會作出予以註冊決定。本次發行物件為不超過35名特定投資者，募集資金總額不超過2.93億元（含本數），扣除發行費用後擬全部用於“智慧算力叢集建設及運營專案”，專案總投資2.96億元。發行價格不低於定價基準日前20個交易日股票交易均價的80%，發行股票數量不超過發行前總股本的30%，限售期為6個月。
+
+---
+
+### 2026-06-03 20:00:15  #其他
+
+埃森哲：AlphaSense年度經常性收入（ARR）突破6億美元，宣佈完成3.5億美元融資，估值達75億美元。
+
+---
+
+### 2026-06-03 20:00:12  #MKT News
+
+【Ahead of likely SpaceX IPO, Trump administration officials disclose $9.9–43.8 mln in SpaceX and XAI holdings】Ahead of a likely SpaceX IPO, ten Trump administration officials—including envoy Steve Witkoff and SBA head Kelly Loeffler—have disclosed financial ties to SpaceX or XAI. Last year’s filings show federal staff holdings in SpaceX or XAI total at least $9.9 mln and up to $43.8 mln. Filers could sell all or part of their stakes later without triggering additional disclosure requirements.
+
+---
+
+### 2026-06-03 20:00:10  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Hold Near Record — Futures tracking US equity indices were muted on Wednesday, holding close to records as optimism around the AI economy offset concerns around the prolonged impasse between Iran and the US. Contracts for the S&P 500, Dow, and Nasdaq 100 were near the flatline. Energy prices rose further to maintain pro-inflationary risks and lingering bets that the Federal Reserve is due for a rate hike this year, with reports of strikes between Iran and GCC hosting US bases exchanging strikes overnight. Still, bullish bets on AI demand and soaring orders for AI infrastructure continued to support the sector, resulting in another session of Nasdaq outperformance. Marvell surged 15% premarket to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Also, Meta added around 1% to halt its losses this week. Meanwhile, Macy's was 3% higher premarket after beating earnings estimates and upgrading their forecasts.
 
 ---
 
@@ -23830,65 +23974,5 @@ Israel's defense minister Katz said if attacks on northern Israel resume, Israel
 ### 2026-06-02 18:47:25  #MKT News
 
 【Plan targets steady rise in supply capacity for grain and key farm products by 2030; grain production capacity ~1.45 trillion jin (~725 mln tonnes)】China’s Accelerate Agricultural and Rural Modernization plan sets 2030 targets: steady improvement in supply security for grain and other key farm products, with comprehensive grain production capacity around 1.45 trillion jin (≈725 million tonnes). It targets agricultural and related industry value-added of 25.8 trillion yuan and raises the agricultural science and technology progress contribution rate to 67%, aiming for major breakthroughs in new productive forces and greater agri‑tech self‑reliance. The plan also seeks sustained farm income growth and a narrower urban–rural income ratio, consolidation of poverty‑alleviation gains with improved anti‑return‑to‑poverty mechanisms, and accelerated construction of modern large‑scale agriculture plus upgraded rural infrastructure and public services.
-
----
-
-### 2026-06-02 18:47:20  #公司
-
-【奧瑞德：擬再出資5000萬元對北京超摩進行增資】奧瑞德(600666)6月2日公告，2026年3月，公司與其他10家主體對北京超摩科技有限公司（簡稱“北京超摩”）進行增資，增資總額3.05億元，其中公司出資8000萬元。近日，公司擬與相關方簽署《確認函》，公司將再出資5000萬元對北京超摩進行增資。綜上，公司累計出資1.3億元對北京超摩進行增資，交割完成後，公司將持有北京超摩9.9617%的股權。
-
----
-
-### 2026-06-02 18:46:31  #其他
-
-【上海交大：今年本科招生將大幅增加 新增“機器人工程”等五個專業】上海交大舉行2026年本科招生新聞釋出會，介紹今年招生計劃、紅杉書院拔尖人才培養等。新聞釋出會上，上海交大教務處副處長、招生辦主任關漢南介紹，‌為響應國家“優本擴容”的號召，今年上海交大在本科的招生計劃上將大幅增加，投放了更多硬核科技的專業和“特班”招生。學校今年獲批增設“心理學”“機器人工程”“資料科學與大資料技術”“海洋智慧與無人技術”“具身智慧”5個本科專業，都將於2026年起招生。
-
----
-
-### 2026-06-02 18:46:13  #公司
-
-【金龍汽車：控股股東擬首次增持0.8億元至1.5億元】金龍汽車公告，截至2026年6月2日，控股股東福汽集團首次透過集中競價增持31萬股，金額422.19萬元，佔公司總股本0.0432%。根據已披露計劃，福汽集團擬於2026年5月22日～2026年11月21日繼續增持，金額0.8億元（含）～1.5億元（含），增持比例不超過公司總股本的2%。目前累計增持數量31萬股，金額422.19萬元，佔0.0432%。
-
----
-
-### 2026-06-02 18:46:08  #國際
-
-巴林內政部已禁止公民前往伊朗和伊拉克，理由是“當前安全域性勢的持續緊張”。
-
----
-
-### 2026-06-02 18:46:02  #公司
-
-【因上市國企廈門路橋資訊造假案，容誠會計師事務所被罰沒近350萬元】近日，廈門證監局官網釋出行政處罰決定書，容誠會計師事務所（簡稱“容誠所”）因在廈門路橋資訊股份有限公司（簡稱“路橋資訊”）2023年、2024年年報審計中未勤勉盡責，連續兩年出具存在虛假記載的審計報告，被廈門證監局追責，容誠所被罰沒近350萬元。（澎湃）
-
----
-
-### 2026-06-02 18:45:41  #其他
-
-【上海制定生活垃圾分類提質增效三年行動計劃】記者從2日舉行的上海市人民政府新聞釋出會上獲悉，上海制定了《上海市生活垃圾分類提質增效三年行動計劃（2026—2028年）》。據介紹，此次制定的三年行動計劃主要目標是：到2028年，生活垃圾回收利用率超48%，低價值可回收物佔可回收物總量25%以上，溼垃圾分出量佔比超35%、分出純淨度達95%左右。上海市人民政府副秘書長張玉鑫介紹，上海計劃用三年時間集中實施一系列政策舉措，進一步鞏固生活垃圾分類工作成果，推動綠色低碳轉型發展。為此，圍繞推動源頭減量、提升分類實效、健全回收體系、強化共建共治、完善管理機制等方面制定18項重點任務。（新華社）
-
----
-
-### 2026-06-02 18:45:19  #公司
-
-【銀寶山新：股東布拉德已減持0.61%股份】銀寶山新公告，持股5%以上股東淮安布拉德投資發展有限公司於2026/5/14-2026/6/2透過大宗交易減持300萬股，減持均價7.37元/股，佔總股本0.61%，減持計劃已實施完畢；減持後持股4564.76萬股，佔總股本9.21%；此前預披計劃期限為2026年4月30日至2026年7月29日，擬減持股份數量及比例均未突破原計劃上限。
-
----
-
-### 2026-06-02 18:45:00  #公司 #市場
-
-【美滿電子盤前大漲26% 黃仁勳稱其市值將突破萬億美元】英偉達執行長黃仁勳預言美滿電子科技將成為下一家市值突破 1 萬億美元的半導體及網路裝置企業，市值為當前估值的五倍以上，受此提振，美滿電子週二盤前股價大漲 26%。美滿電子今年股價累計漲幅達 158%，這家總部位於加州聖克拉拉的企業當前市值 1920 億美元。若開盤後漲幅得以維持，將創下該公司 2023 年 5 月以來最大單日盤中漲幅。
-
----
-
-### 2026-06-02 18:44:44  #公司
-
-【新易盛：預計公司矽光方案產品的佔比將持續提升】新易盛釋出投資者關係活動記錄表公告，根據目前行業發展趨勢及產品迭代情況，預計公司矽光方案產品的佔比將持續提升，今年矽光產品佔比相比去年已有較大幅度提升，矽光產品已是公司主流產品，公司已與主流Fab廠家建立合作關係並針對未來的產能需求提前進行規劃，以保障矽光產品的供應。
-
----
-
-### 2026-06-02 18:44:11  #Trading Economics #Economy #Greece #Loan Growth #Importance 1
-
-Greece Credit Growth at Over 1-1/2-Year Low — Total credit extended to the Greek economy rose by 3.9% year-on-year in April 2026, the smallest increase since September 2024, following an upwardly revised 4.5% advance in the prior month. Credit to the private sector decreased to 6.8% from 7.7% in the previous month. The monthly net flow of credit was negative by €1,216 million, compared with a positive net flow of €2,409 million in the previous month. At the same time, credit to the general government fell by 0.7% in April, following a 0.8% decrease in the prior month. The monthly net flow of bank credit to the general government was positive by €135 million, compared with a positive net flow of €1,124 million in the previous month.
 
 ---

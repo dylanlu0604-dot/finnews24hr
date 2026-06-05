@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 05:43:39_
-_本檔包含 3852 則快訊，約 701123 字_
+_更新時間：2026-06-06 06:10:39_
+_本檔包含 3854 則快訊，約 700715 字_
+
+---
+
+### 2026-06-04 22:31:27  #MKT News
+
+HKEX filings show Guangdong Dingtai High‑Tech Technology Co., Ltd. has filed a listing application with HKEX.
+
+---
+
+### 2026-06-04 22:30:21  #MKT News #Important #Commodities #Energy
+
+EIA weekly natural gas storage (week ended May 29): U.S. working gas in storage 2,578 bcf, up 95 bcf from the prior week, down 3 bcf YoY (-0.1%), and 138 bcf above the 5‑year average (+5.7%).
+
+---
+
+### 2026-06-04 22:30:15  #焦點 #國際
+
+EIA天然氣報告：截至5月29日當週，美國天然氣庫存總量為25780億立方英尺，較此前一週增加950億立方英尺，較去年同期減少30億立方英尺，同比降幅0.1%，同時較5年均值高1380億立方英尺，增幅5.7%。
+
+---
+
+### 2026-06-04 22:30:13  #MKT News #Important #Commodities #Energy
+
+U.S. EIA natural gas storage injection for the week to May 29: 95 bcf vs. consensus 101 bcf; prior 92 bcf.
+
+---
+
+### 2026-06-04 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Natural Gas Storage Change (May.29) | actual 95000000000B | consensus 101000000000B | previous 92000000000B
+
+---
+
+### 2026-06-04 22:29:09  #國際
+
+【美國國會眾議院3日透過一項決議，旨在限制美國總統特朗普對伊朗採取軍事行動的權力】美國國會眾議院3日透過一項決議，要求美總統結束對伊朗的軍事行動，並在今後對伊朗軍事行動前必須獲得國會授權。當天眾議院表決結果為215票贊成、208票反對。有4名共和黨籍眾議員與民主黨人一起對決議投了贊成票。依據美國憲法，只有國會能授權發動戰爭。針對2月底美國對伊朗發起軍事行動，多名民主黨議員此前抨擊行動未經國會授權，當屬“違法”。據美國媒體報道，由於決議還需參議院透過、美國總統簽字才能生效，本次眾議院投票結果更具象徵意義。不過，路透社稱，此次投票反映出部分共和黨人對特朗普處理這場衝突的方式感到不安，這也標誌著在戰事持續三個多月後，兩黨罕見地攜手合作，共同限制總統的戰爭權力。在此之前，三項戰爭權力決議在眾議院均以微弱劣勢被否決。（央視新聞）
+
+---
+
+### 2026-06-04 22:28:24  #市場
+
+INNIO股票預計開盤價為每股27.10美元，IPO發行價為27美元。
+
+---
+
+### 2026-06-04 22:28:12  #公司 #市場 #國際
+
+【美國電池創業公司Solidion Technology開盤暴漲超500%】美國電池創業公司Solidion Technology開盤暴漲超500%，訊息面上，Solidion Technology週四釋出新聞稿稱，在極端氣候電池技術領域取得專利突破，著力於佈局低軌道AI資料中心、永久月球基地等熱門太空概念。
+
+---
+
+### 2026-06-04 22:26:37  #其他
+
+市場訊息：大金香港 IPO 公開發售部分超額認購約 134 倍。
+
+---
+
+### 2026-06-04 22:25:37  #其他
+
+民主黨參議員懷登將有關萊昂・布萊克與愛潑斯坦關聯的調查結論移交眾議院相關委員會。
+
+---
+
+### 2026-06-04 22:25:02  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow #Nasdaq100 #Impact bearish
+
+S&P 500 has turned positive; Dow up 1.5%, Nasdaq down 0.6%.
+
+---
+
+### 2026-06-04 22:24:40  #MKT News #Macro & Rates #US Economy
+
+US Treasury Secretary Bessent said Americans received $325 billion in tax relief this quarter.
+
+---
+
+### 2026-06-04 22:24:26  #市場
+
+標普500指數轉漲。
+
+---
+
+### 2026-06-04 22:24:16  #國際
+
+貝森特稱美國民眾本納稅季合計獲 3250 億美元稅收減免。
+
+---
+
+### 2026-06-04 22:24:04  #其他
+
+【2026年廣西“人工智慧＋製造”大會暨發展對接活動在南寧舉行】據廣西日報，6月4日，2026年廣西“人工智慧＋製造”大會暨發展對接活動在南寧舉行。活動現場釋出了《廣西和各市“人工智慧+製造”診斷報告》、廣西“人工智慧+製造”十大引領應用場景和需求清單；簽約一批重點專案，涵蓋智慧工廠建設、工業大模型應用等領域；有關專家學者、企業代表作經驗交流。
+
+---
+
+### 2026-06-04 22:23:28  #公司
+
+加皇資本市場維持霍尼韋爾買入評級，維持目標價268美元。
+
+---
+
+### 2026-06-04 22:23:07  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants
+
+【State Grid Liaoning Power, Huawei unveil end-to-end optical communications network pilot】China Electric Power News reported June 4 that State Grid Liaoning Power and Huawei unveiled at the 2026 Energy Network Communication Innovation Application Conference the world’s first power-sector end-to-end optical communications network pilot. The pilot spans four core scenarios—mainnet fgOTN, high-isolation PON for distribution, all-optical smart substations and low-voltage HPLC—delivering a replicable, end-to-end communications target-network solution for new power systems and offering a China model for global grid-network upgrades.
+
+---
+
+### 2026-06-04 22:22:47  #MKT News
+
+U.S. Treasury Secretary Bessent reiterated he could not comment on a settlement between U.S. President Trump and the IRS.
+
+---
+
+### 2026-06-04 22:22:45  #國際
+
+美國財長貝森特重申，無法對美國總統特朗普與國稅局的和解問題發表評論。
+
+---
+
+### 2026-06-04 22:22:41  #其他
+
+【國網遼寧電力與華為聯合打造端到端光通訊網】據中國電力報，6月4日，國網遼寧電力聯合華為宣佈，雙方聯合打造的全球首個電力端到端光通訊網樣板點已在2026能源網路通訊創新應用大會上正式揭牌。該樣板點覆蓋主網fgOTN、配網高隔離PON、全光智慧變電站、低壓HPLC四大核心場景，形成可複製的新型電力系統通訊目標網完整方案，為全球電力行業通訊網升級提供了“中國樣板”。
+
+---
+
+### 2026-06-04 22:22:36  #國際
+
+市場訊息：前美國國家安全顧問博爾頓就處理敏感國家安全檔案不當一事達成認罪協議。
+
+---
+
+### 2026-06-04 22:22:32  #MKT News
+
+Former US national security adviser Bolton has reached a plea agreement over mishandling sensitive national security documents.
+
+---
+
+### 2026-06-04 22:21:28  #其他
+
+【招商策略：預計ETF的流出將會放緩，融資仍是主要增量資金】招商策略研報指出，上週可跟蹤資金延續淨流出，其中融資資金持續淨流入，ETF流出速度邊際放緩。展望後市，預計ETF的流出將會放緩，融資仍是主要增量資金，風格方面成長、價值風格將相對均衡，不會出現大的風格切換。
+
+---
+
+### 2026-06-04 22:21:14  #市場
+
+【報告：CrowdStrike第一財季業績好壞參半】瑞銀分析師在一份研究報告中表示，CrowdStrike第一財季業績不及預期。在淨增年度經常性收入為2.56億美元、低於投資者預期，“且2%的超預期幅度遠低於過去幾個季度相當穩定的10%以上的超預期節奏“的背景下，瑞銀的分析師表示，從現在開始，主要的爭論將圍繞未來的“超預期節奏“。瑞銀的分析師稱，儘管如此，管理層談到了創紀錄的業務管線，並大幅上調了第二財季/全年的淨增年度經常性收入(NNARR)預期。他們補充說，預計Anthropic的Mythos最終將成為網路安全支出的有利因素。瑞銀維持其買入評級，並將目標價從525美元上調至790美元。CrowdStrike股價下跌7%，至693.97美元。
+
+---
+
+### 2026-06-04 22:20:55  #市場
+
+霍尼韋爾股價轉跌，下跌1.1%。
+
+---
+
+### 2026-06-04 22:20:48  #MKT News
+
+U.S. Treasury Secretary Bessent reiterated his testimony from Wednesday's Senate hearing during a House hearing.
 
 ---
 
@@ -23053,149 +23209,5 @@ US May ADP private payrolls due in 10 minutes.
 ### 2026-06-03 20:04:14  #公司
 
 【奧普光電：控股股東長春光機所擬減持不超過1%股份】奧普光電公告，控股股東中國科學院長春光學精密機械與物理研究所持有公司股份9935.4784萬股，佔公司總股本41.40%，計劃自2026年6月26日至2026年9月23日，以集中競價方式減持不超過240萬股（不超過公司總股本的1%）。減持原因為自身資金需求，減持價格根據市場價格確定。
-
----
-
-### 2026-06-03 20:04:03  #其他
-
-DIGI POWER X：斥資 3500 萬美元採購英偉達 VERA RUBIN 平臺。
-
----
-
-### 2026-06-03 20:03:30  #國際
-
-以色列國防軍稱攔截兩枚從黎巴嫩射向以色列的來襲彈藥。
-
----
-
-### 2026-06-03 20:03:16  #公司
-
-【漳發新能源：福勇漁業分散式光伏專案順利併網】據漳州發展訊息，近日，由福建漳發新能源投資有限公司投資建設的東山縣福勇漁業製品有限公司分散式光伏發電專案，順利實現全容量併網發電，專案坐落於漳州市東山縣康美鎮，依託福勇漁業廠房屋面資源，總裝機容量約1.37MWp，專案已正式建成並投入運營，年均發電量可達158.6萬度。
-
----
-
-### 2026-06-03 20:03:14  #其他
-
-【PayPal：中國企業出海迎來全球增長新機遇】PayPal中國商戶交流會在廣州舉行。在會上PayPal分享了出海趨勢以及最新市場洞察：近年來，中國企業出海已從“尋找增量市場”逐步邁向“構建全球化經營能力”的新階段。
-
----
-
-### 2026-06-03 20:03:00  #其他
-
-DIGI POWER X ：將動用庫存現金為收購英偉達維拉·魯賓專案出資。
-
----
-
-### 2026-06-03 20:02:53  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-The Israeli Defense Forces said the Israeli Air Force intercepted two missiles fired from Lebanon into Israeli territory after alerts sounded in the Misgav Am area.
-
----
-
-### 2026-06-03 20:02:19  #公司
-
-【遼港集團與招商檢測簽署戰略合作框架協議，將在商品車檢測認證及跨境物流配套服務等領域開展合作】“遼寧港口”微信公眾號6月3日訊息，6月3日下午，遼港集團與招商檢測在遼港集團總部簽署戰略合作框架協議。根據協議內容，雙方將在商品車檢測認證及跨境物流配套服務等七個領域開展戰略合作，持續拓寬合作廣度、挖掘合作深度，推動雙方實現高效協同、共贏發展。
-
----
-
-### 2026-06-03 20:02:17  #MKT News #Market Regions #Greater China #02026.HK #Impact bullish
-
-Pony.ai-W (02026.HK): The company’s Class A ordinary shares listed and traded on HKEX have been added to the Shanghai–Hong Kong Stock Connect eligible securities list, effective June 4, 2026.
-
----
-
-### 2026-06-03 20:02:13  #公司
-
-小馬智行-W(02026.HK)：本公司於港交所上市及買賣的A類普通股已獲納入滬港通合資格證券名單，自2026年6月4日起生效。
-
----
-
-### 2026-06-03 20:02:11  #其他
-
-波羅的海乾散貨指數跌2.53%，至3124點。
-
----
-
-### 2026-06-03 20:02:05  #其他
-
-洲際交易所加入Anthropic的“玻璃翼專案” 。
-
----
-
-### 2026-06-03 20:01:58  #MKT News
-
-Intercontinental Exchange has joined ANTHROPIC's Glasswing project, market sources said.
-
----
-
-### 2026-06-03 20:01:38  #市場
-
-【部分蛋白粉產品漲價幅度達30%】近日，得物App價格趨勢圖獲取的資料顯示，多個運動營養品牌的蛋白粉產品近一年均出現明顯價格上調。如康位元全系列產品漲幅顯著，1500g香草味乳清蛋白粉從去年的202元漲至目前的269元，漲幅達33%；FoYes 5磅裝抹茶味乳清蛋白粉，從今年2月的499元上漲至599元，短短四個月價格上漲100元。
-
----
-
-### 2026-06-03 20:01:34  #其他
-
-網捷、思科推出安全、可擴充套件且輕量化的人工智慧解決方案。
-
----
-
-### 2026-06-03 20:01:34  #MKT News
-
-Baltic Dry Index fell 2.53% to 3,124.
-
----
-
-### 2026-06-03 20:01:29  #國際
-
-【SpaceX IPO前，特朗普政府官員持有數百萬美元股票】SpaceX的IPO很可能會讓本就財力雄厚的特朗普政府變得更加富有。根據這些官員們最新的公開財務申報內容，從特使史蒂夫·威特科夫到小企業管理局局長凱利·洛弗勒等十名官員均披露了他們在SpaceX或xAI中的財務利益關係。根據去年的披露資訊，美國聯邦工作人員持有的SpaceX或xAI股票總價值至少為990萬美元，且最高可達4380萬美元。此後，這些官員可以出售全部或部分持有的股票，而無需觸發額外的披露要求。
-
----
-
-### 2026-06-03 20:01:17  #其他
-
-COTALITY：紐西蘭房價指數環比5月保持不變。
-
----
-
-### 2026-06-03 20:01:07  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange Gold T+D fell 0.61% at the open of the June 3 evening session to 973.24 yuan/gram; Silver T+D fell 0.11% to 18,000.0 yuan/kg.
-
----
-
-### 2026-06-03 20:01:01  #其他
-
-荷蘭合作銀行預計，2026/27年度全球咖啡供應過剩規模將擴大。
-
----
-
-### 2026-06-03 20:00:57  #MKT News #Important
-
-Ten U.S. officials, including a U.S. special envoy and the Small Business Administration administrator, disclosed financial interests in Elon Musk’s SpaceX or xAI in newly filed public financial disclosures.
-
----
-
-### 2026-06-03 20:00:53  #公司
-
-【羅曼股份：擬定增募資不超過2.93億元用於智慧算力叢集建設及運營專案】羅曼股份公告，公司2026年度以簡易程式向特定物件發行股票預案已獲董事會審議透過，尚需經上海證券交易所稽核透過及中國證監會作出予以註冊決定。本次發行物件為不超過35名特定投資者，募集資金總額不超過2.93億元（含本數），扣除發行費用後擬全部用於“智慧算力叢集建設及運營專案”，專案總投資2.96億元。發行價格不低於定價基準日前20個交易日股票交易均價的80%，發行股票數量不超過發行前總股本的30%，限售期為6個月。
-
----
-
-### 2026-06-03 20:00:15  #其他
-
-埃森哲：AlphaSense年度經常性收入（ARR）突破6億美元，宣佈完成3.5億美元融資，估值達75億美元。
-
----
-
-### 2026-06-03 20:00:12  #MKT News
-
-【Ahead of likely SpaceX IPO, Trump administration officials disclose $9.9–43.8 mln in SpaceX and XAI holdings】Ahead of a likely SpaceX IPO, ten Trump administration officials—including envoy Steve Witkoff and SBA head Kelly Loeffler—have disclosed financial ties to SpaceX or XAI. Last year’s filings show federal staff holdings in SpaceX or XAI total at least $9.9 mln and up to $43.8 mln. Filers could sell all or part of their stakes later without triggering additional disclosure requirements.
-
----
-
-### 2026-06-03 20:00:10  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Hold Near Record — Futures tracking US equity indices were muted on Wednesday, holding close to records as optimism around the AI economy offset concerns around the prolonged impasse between Iran and the US. Contracts for the S&P 500, Dow, and Nasdaq 100 were near the flatline. Energy prices rose further to maintain pro-inflationary risks and lingering bets that the Federal Reserve is due for a rate hike this year, with reports of strikes between Iran and GCC hosting US bases exchanging strikes overnight. Still, bullish bets on AI demand and soaring orders for AI infrastructure continued to support the sector, resulting in another session of Nasdaq outperformance. Marvell surged 15% premarket to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Also, Meta added around 1% to halt its losses this week. Meanwhile, Macy's was 3% higher premarket after beating earnings estimates and upgrading their forecasts.
 
 ---

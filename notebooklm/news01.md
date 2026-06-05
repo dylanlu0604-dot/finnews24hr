@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 05:43:39_
-_本檔包含 3992 則快訊，約 700337 字_
+_更新時間：2026-06-06 06:10:39_
+_本檔包含 3994 則快訊，約 700581 字_
+
+---
+
+### 2026-06-06 06:09:55  #國際
+
+【以軍在約旦河西岸打死一名巴勒斯坦嬰兒】以色列軍隊5日在約旦河西岸南部希伯倫市向一輛汽車開槍，導致一名7個月大的巴勒斯坦嬰兒傷重不治。 據巴勒斯坦通訊社報道，遇難嬰兒及其父母來自伯利恆市，事發時正前往希伯倫探親。嬰兒的父母在襲擊事件中受輕傷。 以色列國防軍發表宣告稱，以軍當天在希伯倫執行任務時“發現一輛汽車正加速朝他們駛來”，一名以軍士兵向車輛數次單發射擊，導致3名巴勒斯坦人受傷。初步調查顯示，受傷人員均為平民。事件調查結果將交由以方相關部門審查。（新華社）
+
+---
+
+### 2026-06-06 06:07:39  #MKT News #WTI #Impact bullish #Brent
+
+CNN cited a US official saying Iran launched multiple drones toward the Strait of Hormuz; the US military shot down at least three.
+
+---
+
+### 2026-06-06 06:06:19  #MKT News
+
+【Han Zheng meets Putin in St. Petersburg】June 5, 2026, St. Petersburg — Chinese Vice President Han Zheng met Russian President Putin. Han said China and Russia are important constructive forces for maintaining global strategic stability and improving global governance. He described high-level China‑Russia ties as necessary for each country’s development and their responsibility to promote world peace and stability, and said China expects to strengthen coordination with Russia to advance a more just and reasonable global governance system.
+
+---
+
+### 2026-06-06 06:06:06  #國際
+
+市場訊息：美方官員在 X 平臺發文稱有伊朗無人機駛向霍爾木茲海峽。
+
+---
+
+### 2026-06-06 06:04:51  #國際
+
+市場訊息：美方擊落至少 3 架駛向霍爾木茲海峽的伊朗無人機。
+
+---
+
+### 2026-06-06 06:04:26  #MKT News #WTI #Impact mixed
+
+Trump said most of Iran's drone factories, launch sites and missile-manufacturing facilities have been destroyed.
+
+---
+
+### 2026-06-06 06:03:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Trump said U.S. forces have thoroughly destroyed their military in the conflicts to date, but Iran still retains some missiles and drones.
+
+---
+
+### 2026-06-06 06:03:15  #國際
+
+伊朗半官方媒體否認哈爾克島傳來爆炸聲的相關報道，稱該訊息不實。
+
+---
+
+### 2026-06-06 06:03:05  #MKT News
+
+US President Trump said Iran has no choice, but it will take some time.
+
+---
+
+### 2026-06-06 06:02:18  #MKT News
+
+President Trump said Iran's leaders have not agreed to end the current war with the United States because they are "tough" and "arrogant", but that ultimately "they have no choice" and must reach an agreement.
+
+---
+
+### 2026-06-06 06:02:02  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為96%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96%，累計降息25個基點的機率為4%。美聯儲到7月維持利率不變的機率為82.3%，累計加息25個基點的機率14.4%，累計降息25個基點的機率為3.4%。
+
+---
+
+### 2026-06-06 06:01:17  #焦點 #國際
+
+【韓正會見俄羅斯總統普京】當地時間2026年6月5日，國家副主席韓正在聖彼得堡會見俄羅斯總統普京。 韓正首先轉達習近平主席對普京總統的親切問候和良好祝願。韓正表示，中俄關系能夠在變亂交織的國際形勢中保持穩定堅韌，關鍵在於習近平主席和普京總統的領航掌舵。不久前，兩國元首在北京成功舉行會晤，就雙邊關係和各領域合作達成新的重要共識。中方願同俄方落實好兩國元首重要共識，持續鞏固政治互信，拓展務實合作，密切國際協作，不斷豐富中俄關系的時代內涵。 韓正表示，中國和俄羅斯都是維護全球戰略穩定、完善全球治理的重要建設性力量。高水平的中俄關系不僅是兩國發展振興的必然要求，也是雙方對促進世界和平穩定發展肩負的時代責任。中方期待同俄方加強協調配合，推動構建更加公正合理的全球治理體系。 普京請韓正轉達對習近平主席的誠摯問候，歡迎韓正來俄羅斯出席第二十九屆聖彼得堡國際經濟論壇。普京表示，俄中關係正處於前所未有的高水平。不久前，我成功訪華並同習近平主席就廣泛議題深入交換意見，明確了雙方未來合作方向。今年兩國將共同慶祝《俄中睦鄰友好合作條約》簽署25週年並開啟“俄中教育年”。俄方願同中方堅定不移深化政治互信與睦鄰友好，推進各領域交流合作，以俄中關係的確定性為世界和平發展貢獻穩定性。(新華社)
+
+---
+
+### 2026-06-06 06:00:14  #國際
+
+特朗普：未來 90 天內，農民將會迎來諸多利好。
+
+---
+
+### 2026-06-06 06:00:08  #國際
+
+特朗普：我們正和委內瑞拉開展規模可觀的石油貿易。
+
+---
+
+### 2026-06-06 05:59:43  #國際
+
+特朗普：我們正在了結在伊朗懸而未決的遺留問題。
+
+---
+
+### 2026-06-06 05:59:05  #國際
+
+市場訊息：以色列情報部門指控美國副總統萬斯向土耳其總統埃爾多安洩露了摩薩德藉助庫爾德武裝打擊伊朗的行動計劃。 據稱埃爾多安以庫爾德武裝盤踞土邊境觸碰其紅線為由，施壓特朗普否決該項行動。
+
+---
+
+### 2026-06-06 05:56:04  #國際
+
+【美國麻疹確診病例連續兩年超兩千】美國疾病控制和預防中心5日公佈的資料顯示，2026年美國麻疹確診病例數已達2030例，連續第二年超過2000例。 該機構稱，截至目前，2026年已報告30起新的麻疹疫情，約93%的確診病例與疫情暴發有關。約72%的病例發生在20歲以下人群中。2026年的住院率約為6%，低於2025年的11%。 此外，該機構稱約92%的病例發生在未接種麻疹疫苗或疫苗接種情況不明的人群中。 2025年，美國共報告2288例麻疹確診病例，為自2000年該國宣佈消除麻疹以來的最高年度紀錄，也是30多年來報告病例數最多的一年。2025年，美國有3例麻疹死亡病例。(新華社)
+
+---
+
+### 2026-06-06 05:52:43  #市場 #國際
+
+週五（6月5日）紐約尾盤，美國10年期基準國債收益率漲5.74個基點，報4.5303%，北京時間20:29（非農就業報告發布前60秒）下挫至4.46%下方，資料釋出時飆升至4.52%一線，本週累計上漲9.49個基點，交投於4.4217%-4.5522%區間。兩年期美債收益率漲10.39個基點，報4.1470%，資料釋出前持穩於4.04%，隨後拉昇至4.10%附近，本週累漲14.30個基點，交投於4.0041%-4.1762%區間。
+
+---
+
+### 2026-06-06 05:52:21  #其他
+
+【模里西斯針對埃博拉疫情加強入境限制】模里西斯5日公佈內閣會議決定，暫時禁止在過去21天內有剛果（金）、烏干達或南蘇丹旅行史的外國公民入境。所有前往模里西斯的航空及海運旅客須在登機或登船前填寫“綜合旅行表”和“健康申報表”。對出現埃博拉病毒感染症狀的旅客，將立即實施隔離並進行臨床評估。（新華社）
+
+---
+
+### 2026-06-06 05:51:41  #公司 #國際
+
+【美國能源部長：美國正洽談在加州設立石油儲備相關事宜】美國能源部長賴特本週五透露，特朗普政府正就落地加州石油儲備專案開展實質性磋商。該專案落地後既能完善加州石油基建，也會掣肘加州民主黨州長加文・紐瑟姆縮減本土化石燃料使用規模的施政計劃。相關媒體拿到一份 6 月 2 日的檔案，檔案由坐擁加州近海三座石油鑽井平臺的薩布林近海石油公司法務團隊遞交至美國能源部。檔案顯示，該企業提議在西海岸建設戰略石油儲備基地，此舉 “一方面是響應特朗普政府的問詢，另一方面也是配合公司與國防部持續推進的油氣保供洽談，旨在保障加州油氣供給”。賴特在採訪中證實，相關儲備設施專案正處於商討階段，但未披露具體細節。
+
+---
+
+### 2026-06-06 05:47:31  #國際
+
+特朗普：伊朗多數防空力量已遭摧毀，但仍保有作戰能力。
+
+---
+
+### 2026-06-06 05:47:26  #MKT News #NFLX.O
+
+SEC filing shows Netflix (NFLX.O) appointed Jay Hoag as board chair, effective from the annual meeting.
+
+---
+
+### 2026-06-06 05:46:54  #國際
+
+美國能源部長賴特：美國正考量在加利福尼亞州籌建石油儲備庫。
+
+---
+
+### 2026-06-06 05:45:46  #國際
+
+特朗普：我們掌握伊朗無人機工廠的具體位置。
+
+---
+
+### 2026-06-06 05:45:19  #國際
+
+特朗普談及相關協議：伊朗別無選擇，只是還需要一點時間。
+
+---
+
+### 2026-06-06 05:44:16  #國際
+
+特朗普談及伊朗遲遲不願達成協議的緣由：這件事對伊朗而言難度極大。
+
+---
+
+### 2026-06-06 05:44:07  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. President Trump says Iran holds 21% to 22% of missiles.
+
+---
+
+### 2026-06-06 05:44:01  #國際
+
+特朗普：伊朗還有一些導彈，我們知道它們在哪兒。
 
 ---
 
@@ -23952,161 +24120,5 @@ Russia may extend the policy requiring exporters to sell foreign-currency earnin
 ### 2026-06-04 22:32:04  #公司
 
 據港交所檔案：廣東鼎泰高科技術股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-04 22:31:27  #MKT News
-
-HKEX filings show Guangdong Dingtai High‑Tech Technology Co., Ltd. has filed a listing application with HKEX.
-
----
-
-### 2026-06-04 22:30:21  #MKT News #Important #Commodities #Energy
-
-EIA weekly natural gas storage (week ended May 29): U.S. working gas in storage 2,578 bcf, up 95 bcf from the prior week, down 3 bcf YoY (-0.1%), and 138 bcf above the 5‑year average (+5.7%).
-
----
-
-### 2026-06-04 22:30:15  #焦點 #國際
-
-EIA天然氣報告：截至5月29日當週，美國天然氣庫存總量為25780億立方英尺，較此前一週增加950億立方英尺，較去年同期減少30億立方英尺，同比降幅0.1%，同時較5年均值高1380億立方英尺，增幅5.7%。
-
----
-
-### 2026-06-04 22:30:13  #MKT News #Important #Commodities #Energy
-
-U.S. EIA natural gas storage injection for the week to May 29: 95 bcf vs. consensus 101 bcf; prior 92 bcf.
-
----
-
-### 2026-06-04 22:30:01  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Natural Gas Storage Change (May.29) | actual 95000000000B | consensus 101000000000B | previous 92000000000B
-
----
-
-### 2026-06-04 22:29:09  #國際
-
-【美國國會眾議院3日透過一項決議，旨在限制美國總統特朗普對伊朗採取軍事行動的權力】美國國會眾議院3日透過一項決議，要求美總統結束對伊朗的軍事行動，並在今後對伊朗軍事行動前必須獲得國會授權。當天眾議院表決結果為215票贊成、208票反對。有4名共和黨籍眾議員與民主黨人一起對決議投了贊成票。依據美國憲法，只有國會能授權發動戰爭。針對2月底美國對伊朗發起軍事行動，多名民主黨議員此前抨擊行動未經國會授權，當屬“違法”。據美國媒體報道，由於決議還需參議院透過、美國總統簽字才能生效，本次眾議院投票結果更具象徵意義。不過，路透社稱，此次投票反映出部分共和黨人對特朗普處理這場衝突的方式感到不安，這也標誌著在戰事持續三個多月後，兩黨罕見地攜手合作，共同限制總統的戰爭權力。在此之前，三項戰爭權力決議在眾議院均以微弱劣勢被否決。（央視新聞）
-
----
-
-### 2026-06-04 22:28:24  #市場
-
-INNIO股票預計開盤價為每股27.10美元，IPO發行價為27美元。
-
----
-
-### 2026-06-04 22:28:12  #公司 #市場 #國際
-
-【美國電池創業公司Solidion Technology開盤暴漲超500%】美國電池創業公司Solidion Technology開盤暴漲超500%，訊息面上，Solidion Technology週四釋出新聞稿稱，在極端氣候電池技術領域取得專利突破，著力於佈局低軌道AI資料中心、永久月球基地等熱門太空概念。
-
----
-
-### 2026-06-04 22:26:37  #其他
-
-市場訊息：大金香港 IPO 公開發售部分超額認購約 134 倍。
-
----
-
-### 2026-06-04 22:25:37  #其他
-
-民主黨參議員懷登將有關萊昂・布萊克與愛潑斯坦關聯的調查結論移交眾議院相關委員會。
-
----
-
-### 2026-06-04 22:25:02  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow #Nasdaq100 #Impact bearish
-
-S&P 500 has turned positive; Dow up 1.5%, Nasdaq down 0.6%.
-
----
-
-### 2026-06-04 22:24:40  #MKT News #Macro & Rates #US Economy
-
-US Treasury Secretary Bessent said Americans received $325 billion in tax relief this quarter.
-
----
-
-### 2026-06-04 22:24:26  #市場
-
-標普500指數轉漲。
-
----
-
-### 2026-06-04 22:24:16  #國際
-
-貝森特稱美國民眾本納稅季合計獲 3250 億美元稅收減免。
-
----
-
-### 2026-06-04 22:24:04  #其他
-
-【2026年廣西“人工智慧＋製造”大會暨發展對接活動在南寧舉行】據廣西日報，6月4日，2026年廣西“人工智慧＋製造”大會暨發展對接活動在南寧舉行。活動現場釋出了《廣西和各市“人工智慧+製造”診斷報告》、廣西“人工智慧+製造”十大引領應用場景和需求清單；簽約一批重點專案，涵蓋智慧工廠建設、工業大模型應用等領域；有關專家學者、企業代表作經驗交流。
-
----
-
-### 2026-06-04 22:23:28  #公司
-
-加皇資本市場維持霍尼韋爾買入評級，維持目標價268美元。
-
----
-
-### 2026-06-04 22:23:07  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants
-
-【State Grid Liaoning Power, Huawei unveil end-to-end optical communications network pilot】China Electric Power News reported June 4 that State Grid Liaoning Power and Huawei unveiled at the 2026 Energy Network Communication Innovation Application Conference the world’s first power-sector end-to-end optical communications network pilot. The pilot spans four core scenarios—mainnet fgOTN, high-isolation PON for distribution, all-optical smart substations and low-voltage HPLC—delivering a replicable, end-to-end communications target-network solution for new power systems and offering a China model for global grid-network upgrades.
-
----
-
-### 2026-06-04 22:22:47  #MKT News
-
-U.S. Treasury Secretary Bessent reiterated he could not comment on a settlement between U.S. President Trump and the IRS.
-
----
-
-### 2026-06-04 22:22:45  #國際
-
-美國財長貝森特重申，無法對美國總統特朗普與國稅局的和解問題發表評論。
-
----
-
-### 2026-06-04 22:22:41  #其他
-
-【國網遼寧電力與華為聯合打造端到端光通訊網】據中國電力報，6月4日，國網遼寧電力聯合華為宣佈，雙方聯合打造的全球首個電力端到端光通訊網樣板點已在2026能源網路通訊創新應用大會上正式揭牌。該樣板點覆蓋主網fgOTN、配網高隔離PON、全光智慧變電站、低壓HPLC四大核心場景，形成可複製的新型電力系統通訊目標網完整方案，為全球電力行業通訊網升級提供了“中國樣板”。
-
----
-
-### 2026-06-04 22:22:36  #國際
-
-市場訊息：前美國國家安全顧問博爾頓就處理敏感國家安全檔案不當一事達成認罪協議。
-
----
-
-### 2026-06-04 22:22:32  #MKT News
-
-Former US national security adviser Bolton has reached a plea agreement over mishandling sensitive national security documents.
-
----
-
-### 2026-06-04 22:21:28  #其他
-
-【招商策略：預計ETF的流出將會放緩，融資仍是主要增量資金】招商策略研報指出，上週可跟蹤資金延續淨流出，其中融資資金持續淨流入，ETF流出速度邊際放緩。展望後市，預計ETF的流出將會放緩，融資仍是主要增量資金，風格方面成長、價值風格將相對均衡，不會出現大的風格切換。
-
----
-
-### 2026-06-04 22:21:14  #市場
-
-【報告：CrowdStrike第一財季業績好壞參半】瑞銀分析師在一份研究報告中表示，CrowdStrike第一財季業績不及預期。在淨增年度經常性收入為2.56億美元、低於投資者預期，“且2%的超預期幅度遠低於過去幾個季度相當穩定的10%以上的超預期節奏“的背景下，瑞銀的分析師表示，從現在開始，主要的爭論將圍繞未來的“超預期節奏“。瑞銀的分析師稱，儘管如此，管理層談到了創紀錄的業務管線，並大幅上調了第二財季/全年的淨增年度經常性收入(NNARR)預期。他們補充說，預計Anthropic的Mythos最終將成為網路安全支出的有利因素。瑞銀維持其買入評級，並將目標價從525美元上調至790美元。CrowdStrike股價下跌7%，至693.97美元。
-
----
-
-### 2026-06-04 22:20:55  #市場
-
-霍尼韋爾股價轉跌，下跌1.1%。
-
----
-
-### 2026-06-04 22:20:48  #MKT News
-
-U.S. Treasury Secretary Bessent reiterated his testimony from Wednesday's Senate hearing during a House hearing.
 
 ---
