@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-05 13:34:58",
-  "count": 18964,
+  "updated": "2026-06-05 13:39:00",
+  "count": 18953,
   "items": [
+    {
+      "id": "4918801",
+      "time": "2026-06-05 13:38:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜油連續主力合約日內跌3%，現報10013.00元。"
+    },
+    {
+      "id": "4918800",
+      "time": "2026-06-05 13:37:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報13880.00元。"
+    },
+    {
+      "id": "te:markets:556738",
+      "time": "2026-06-05 13:36:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 8-week Low — SHANGHAI 50 decreased to 2881.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Shanghai 50 lost 4.75%, and in the last 12 months, it increased 7.21%."
+    },
+    {
+      "id": "4918799",
+      "time": "2026-06-05 13:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【VIVO申請註冊VIVOClaw商標】天眼查智慧財產權資訊顯示，近日，VIVO關聯公司維沃行動通訊有限公司申請註冊“vivoClaw”商標，國際分類為網站服務，當前商標狀態均為等待實質審查。該公司成立於2010年6月，法定代表人為施玉堅，註冊資本6500萬人民幣，經營範圍包括移動終端裝置製造、通訊裝置製造、音響裝置製造等，由維沃控股有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019e9647-85f5-7aa9-a389-7bad56473935",
+      "time": "2026-06-05 13:35:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed down 606.52 points, or 1.33%, at 45,070.94 on Friday, June 5."
+    },
+    {
+      "id": "4918798",
+      "time": "2026-06-05 13:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：我認為我們需要在與市場的溝通中更加謹慎。"
+    },
+    {
+      "id": "mkt:019e9647-4ef4-7aa9-a389-71a321c42ef3",
+      "time": "2026-06-05 13:35:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver slid more than $0.40 intraday, down over 2% on the day to $72.21/oz."
+    },
+    {
+      "id": "4918797",
+      "time": "2026-06-05 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低1.3%報45,070.94。"
+    },
     {
       "id": "4918796",
       "time": "2026-06-05 13:33:46",
@@ -174653,173 +174726,6 @@
         "XAUUSD"
       ],
       "text": "China's STAR 50 index fell more than 4% as semiconductor stocks weakened; Xinlian Integration plunged over 9% and SMIC fell over 7%."
-    },
-    {
-      "id": "4906240",
-      "time": "2026-05-29 13:38:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達4.01%，成分股中，芯聯整合跌9.02%，天嶽先進跌8.36%，滬矽產業跌8.13%，中芯國際跌7.22%。"
-    },
-    {
-      "id": "mkt:019e723d-b8f0-7ccf-9a8e-fe109a1dbecb",
-      "time": "2026-05-29 13:38:27",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Local authorities said a fire broke out at a seaport in Russia's Krasnodar region, caused by a drone attack."
-    },
-    {
-      "id": "4906239",
-      "time": "2026-05-29 13:38:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度儲備銀行：擬選定應用場景啟動雙邊央行數字貨幣試點，深化多邊專案合作參與度。"
-    },
-    {
-      "id": "mkt:019e723d-6cd6-711c-8b3e-8d1ed7af3f8f",
-      "time": "2026-05-29 13:38:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share innovative drug sector ticked higher after volatile trading. Shutaishen hit a 20% limit-up; Jinyao Pharmaceutical had earlier hit limit-up. Baili Tianheng, Betta Pharmaceuticals, Jinbo Biotech, Nanjing Xinbai and Tongrentang also advanced."
-    },
-    {
-      "id": "4906238",
-      "time": "2026-05-29 13:38:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯克拉斯諾達爾地區一海港遭無人機襲擊後發生火災。"
-    },
-    {
-      "id": "4906237",
-      "time": "2026-05-29 13:37:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：將透過吸納更多資料服務提供商與放貸機構接入，來擴大統一貸款介面（ULI）的應用規模。"
-    },
-    {
-      "id": "4906236",
-      "time": "2026-05-29 13:37:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行將優先考慮客戶保護和強大的信貸生態系統。"
-    },
-    {
-      "id": "mkt:019e723d-5608-711c-8b3e-877a1677ed80",
-      "time": "2026-05-29 13:37:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Removal of spent fuel from Fukushima Daiichi Unit 2 to begin next month】Tokyo Electric Power Company (TEPCO) said on the 28th (local) it will begin removing remaining spent fuel from the Unit 2 spent fuel pool at Fukushima Daiichi in early next month. The operation is expected to take more than two years and TEPCO said it will proceed cautiously. Units 1–3 suffered core meltdowns after the March 11, 2011 earthquake and tsunami, producing about 880 tonnes of highly radioactive core debris; removal of that debris is viewed as the biggest challenge in decommissioning Fukushima Daiichi."
-    },
-    {
-      "id": "mkt:019e723c-a965-7666-8764-0dab2d5e2b58",
-      "time": "2026-05-29 13:37:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says it needs to continuously assess evolving developments in an uncertain global environment to calibrate appropriate policy responses."
-    },
-    {
-      "id": "4906235",
-      "time": "2026-05-29 13:37:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：計劃擴大中央銀行數字貨幣試點範圍，將直接福利轉移計劃下的新應用場景納入其中。"
-    },
-    {
-      "id": "4906234",
-      "time": "2026-05-29 13:37:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【福島第一核電站2號機組乏燃料移出作業將於下月啟動】日本東京電力公司當地時間28日宣佈，將從下個月上旬開始，啟動福島第一核電站2號機組燃料池中搬出剩餘乏燃料的工作。該計劃預計耗時兩年以上完成，東京電力表示將“謹慎推進作業”。"
-    },
-    {
-      "id": "4906233",
-      "time": "2026-05-29 13:36:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：國內金融體系擁有充足的緩衝資金。"
-    },
-    {
-      "id": "4906232",
-      "time": "2026-05-29 13:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：2026-27年度監管工作重點為提前識別新發風險。"
-    },
-    {
-      "id": "4906231",
-      "time": "2026-05-29 13:36:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：全球緊張局勢對企業盈利構成短期風險。"
-    },
-    {
-      "id": "mkt:019e723a-df39-711c-8b3e-74c491836112",
-      "time": "2026-05-29 13:35:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says inflation in 2026-27 is expected to be in line with its target."
-    },
-    {
-      "id": "mkt:019e723a-dda9-711c-8b3e-687e50f572e6",
-      "time": "2026-05-29 13:35:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index closed up 1,096.5 points, or 2.51%, at 44,732.94 on Friday, May 29."
-    },
-    {
-      "id": "mkt:019e723a-c398-7666-8764-024a9a6d2191",
-      "time": "2026-05-29 13:35:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says it will implement trade agreements with major trading partners to further boost India's economic growth."
-    },
-    {
-      "id": "mkt:019e723a-ae0b-7666-8763-f9b64f3f0b80",
-      "time": "2026-05-29 13:35:08",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Reserve Bank of India said a sustained West Asia conflict could pose a downside risk to the Indian economy in 2026-27."
-    },
-    {
-      "id": "4906230",
-      "time": "2026-05-29 13:35:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高2.5%報44,732.94。"
     }
   ]
 }
