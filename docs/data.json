@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-06 03:57:20",
-  "count": 18799,
+  "updated": "2026-06-06 04:01:09",
+  "count": 18800,
   "items": [
+    {
+      "id": "4920358",
+      "time": "2026-06-06 04:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "本週，標普500指數累跌約2.4%，道指累跌約0.1%，納指累跌約4.3%，半導體指數累跌約3.2%，銀行指數漲2.8%，科技股七巨頭指數跌4.5%，儲存晶片指數跌5.4%，軟體先驅指數跌5%、AI贏家指數跌5.2%，超大規模雲服務商指數跌5.9%，加密貨幣指數跌13.5%。非農就業報告發布當天，標普500指數初步收跌2.5%，科技板塊跌5.3%，可選消費、原材料板塊跌超2%，日用消費品板塊漲1.7%。納斯達克100指數初步收跌4.6%，成分股中，美滿科技跌14.6%，Arm控股跌12.7%，美光、英特爾、閃迪、AMD、西部資料、高通跌超10%，特許通訊等漲超2%。思科跌6.2%，英偉達跌5.7%，領跌道指成分股，可口可樂漲3.7%，寶潔漲4%。費城半導體指數收跌10%。"
+    },
+    {
+      "id": "4920357",
+      "time": "2026-06-06 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌3.47%】海天網路跌20.06%，億航跌14.41%，中進醫療跌13.64%，逸仙電商跌13.19%，億咖通科技跌12.50%。"
+    },
+    {
+      "id": "4920356",
+      "time": "2026-06-06 03:59:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "費城半導體指數跌幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019e995e-6e58-7665-830d-6849a7335f60",
+      "time": "2026-06-06 03:59:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) extended losses to 10%."
+    },
+    {
+      "id": "4920355",
+      "time": "2026-06-06 03:59:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：至6月2日當週，美國投機者將標普500指數CME淨空頭持倉增加38,113手至485,582手，股票基金經理將標普500指數CME淨多頭持倉減少23,807手至985,207手。"
+    },
+    {
+      "id": "4920354",
+      "time": "2026-06-06 03:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍通報：過去兩個月近千艘商船駛過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019e995d-d251-7665-830d-67f81310c4bb",
+      "time": "2026-06-06 03:58:43",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CFTC: In the week to June 2, US speculative traders increased net short positions in S&P 500 futures on CME by 38,113 contracts to 485,582, while asset managers trimmed net long positions by 23,807 contracts to 985,207."
+    },
     {
       "id": "mkt:019e995b-c837-7665-830d-5bcc786db110",
       "time": "2026-06-06 03:56:29",
@@ -173180,65 +173248,6 @@
         "市場"
       ],
       "text": "標普500指數錄得連續第九週上漲，為2023年12月以來最長連漲週期。"
-    },
-    {
-      "id": "4907784",
-      "time": "2026-05-30 04:01:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "REPLIMUNE股價收盤上漲86%，創2025年10月以來最大漲幅。"
-    },
-    {
-      "id": "4907783",
-      "time": "2026-05-30 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.72%，標普500指數漲0.22%，納指漲0.25%。戴爾漲32.64%，美國網存漲22.26%，Atlassian漲15.47%，現在服務漲14.60%，IBM漲12.91%，慧與漲12.80%。“七姐妹”方面：微軟漲5.39%，蘋果跌0.12%，Meta Platforms跌0.40%，英偉達跌1.14%，亞馬遜跌1.20%，特斯拉跌1.48%，谷歌跌2.52%。"
-    },
-    {
-      "id": "4907782",
-      "time": "2026-05-30 04:00:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "5月份，標普累漲約5.3%，道指累漲2.7%，納指累漲8.3%。"
-    },
-    {
-      "id": "4907781",
-      "time": "2026-05-30 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.01%】億咖通科技漲13.33%，Tims中國漲7.57%，海天網路漲7.21%，360數科漲4.49%，名創優品漲3.18%。"
-    },
-    {
-      "id": "te:markets:555056",
-      "time": "2026-05-30 03:59:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Falls on Friday, Logs Monthly Loss — WTI crude oil futures fell 1.1% to below $88 per barrel on Friday, the lowest in roughly six weeks, ending May down 16.2%. The move followed reports that the US and Iran have reached a preliminary agreement to extend a ceasefire and ease restrictions on shipping through the Strait of Hormuz, although President Donald Trump has not yet approved the deal and Iranian state media said it has not been finalized. The potential agreement has raised expectations of an eventual end to the US-Israeli war in Iran and a reopening of the Strait of Hormuz, a critical route for about one-fifth of global oil and LNG flows. Analysts warn that any recovery in flows would likely be slow, as mines would need clearing, damaged infrastructure repaired and shut-in production restarted, with tanker delays also limiting supply restoration."
-    },
-    {
-      "id": "mkt:019e7551-5e87-7bb7-9966-74ba49fcbe0e",
-      "time": "2026-05-30 03:58:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【US media: Qatar-held funds a final sticking point in US-Iran interim deal】New York Post reports one of the remaining obstacles to a US-Iran interim peace agreement is whether $6bn held in escrow by Qatar can be released in phases. It remains unclear when the US and Iran will sign a final memorandum of understanding; a government official said talks are at their closest point to an agreement."
     }
   ]
 }
