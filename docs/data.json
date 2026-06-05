@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-05 08:08:20",
-  "count": 19008,
+  "updated": "2026-06-05 08:12:13",
+  "count": 19011,
   "items": [
+    {
+      "id": "4918326",
+      "time": "2026-06-05 08:11:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：我的經濟政策旨在提升日本的經濟實力，而非操縱匯率。"
+    },
+    {
+      "id": "4918325",
+      "time": "2026-06-05 08:11:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：投資策略將有助於維持日元信心。"
+    },
+    {
+      "id": "4918324",
+      "time": "2026-06-05 08:10:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上升1個基點，至3.890%。"
+    },
+    {
+      "id": "mkt:019e951e-2122-7cc8-bdf0-092ffe2a6186",
+      "time": "2026-06-05 08:10:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange triggered a KOSPI circuit breaker after KOSPI 200 futures fell 5%; program trading was suspended for 5 minutes."
+    },
+    {
+      "id": "4918323",
+      "time": "2026-06-05 08:10:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大；最新報8216.32點，下跌4.9%。"
+    },
+    {
+      "id": "mkt:019e951d-bf87-7cc8-bdf0-000379b720eb",
+      "time": "2026-06-05 08:10:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open on Friday, June 5, Australia's S&P/ASX 200 fell 37.6 points, or 0.43%, to 8,648.5."
+    },
+    {
+      "id": "4918322",
+      "time": "2026-06-05 08:09:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4460美元/盎司，日內跌0.34%。"
+    },
+    {
+      "id": "4918321",
+      "time": "2026-06-05 08:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據日本放送協會（NHK）報道，日本計劃對老化核電站進行改造翻新，以提升電力供應能力。"
+    },
+    {
+      "id": "4918320",
+      "time": "2026-06-05 08:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元最新成交價為160。"
+    },
+    {
+      "id": "4918319",
+      "time": "2026-06-05 08:08:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國交易所因KOSPI 200期貨下跌5%而啟動KOSPI的熔斷機制，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "mkt:019e951c-5a14-7cc8-bdef-fd1141be9fec",
+      "time": "2026-06-05 08:08:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "TAKAICHI, Japan's prime minister, said yen depreciation has both advantages and disadvantages."
+    },
+    {
+      "id": "mkt:019e951c-0760-7cc8-bdef-f1b5b822fe87",
+      "time": "2026-06-05 08:08:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said yen volatility has been very high since the Iran war began in February, with speculative trading accounting for much of the movement."
+    },
+    {
+      "id": "4918318",
+      "time": "2026-06-05 08:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：自2月伊朗局勢升級以來，外匯波動率一直處於極高水平，投機性交易在日元的波動中佔了很大比重。"
+    },
     {
       "id": "mkt:019e951b-b6b7-7cc8-bdef-e9ad5a4e40f7",
       "time": "2026-06-05 08:08:01",
@@ -174987,93 +175104,6 @@
         "其他"
       ],
       "text": "【銀河證券：AI驅動下資料中心向Token超級工廠轉型】銀河證券研報認為，Token是AI大模型處理資訊的最小單元，可精準計量算力、視訊記憶體與電力消耗，作為AI算力經濟的價值載體，堪稱AI時代“水電煤”與核心生產要素，推動資料中心成為Token規模化生產的智慧工廠。Token生成速度與硬體效能高度相關，硬體成為Token經濟增長的核心驅動力。AI驅動下資料中心向Token超級工廠轉型，帶動PCB、被動元件等核心元器件全面升級。"
-    },
-    {
-      "id": "4905721",
-      "time": "2026-05-29 08:11:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "據羅馬尼亞本地電視臺報道，羅馬尼亞境內發現一架未攜帶炸藥的無人機。"
-    },
-    {
-      "id": "4905720",
-      "time": "2026-05-29 08:11:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：委內瑞拉反動派領袖馬查多尋求與委內瑞拉臨時領導人進行談判。"
-    },
-    {
-      "id": "mkt:019e7112-79f6-7ee0-99de-49be8b06d90f",
-      "time": "2026-05-29 08:11:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Local television reported Romania discovered a drone that was not carrying explosives."
-    },
-    {
-      "id": "4905719",
-      "time": "2026-05-29 08:10:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價延續漲勢，早盤上漲6.5%。市場分析稱軟銀股價上漲的催化劑來自OpenAI的IPO和400億美元的再融資。"
-    },
-    {
-      "id": "mkt:019e7111-78e6-7ee0-99de-43aa31247e69",
-      "time": "2026-05-29 08:10:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 66.10 points higher, up 0.77% at 8,659.00 on Friday, May 29."
-    },
-    {
-      "id": "mkt:019e7110-d0da-7ee0-99de-3d85788052d1",
-      "time": "2026-05-29 08:09:47",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan's finance minister Katayama says Tokyo may take decisive action on FX volatility】Japan's finance minister Katayama said on Friday the government can take decisive action against foreign-exchange market volatility and is prepared to intervene if there are volatile or speculative moves. The yen is approaching the 160 per dollar psychological level. The Ministry of Finance will publish FX intervention data since the end of April on Friday; sources say Tokyo has intervened multiple times since late April."
-    },
-    {
-      "id": "4905718",
-      "time": "2026-05-29 08:08:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲5.8%，報31.7萬韓元。"
-    },
-    {
-      "id": "4905717",
-      "time": "2026-05-29 08:08:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數上漲0.8%，報8661.0點。"
-    },
-    {
-      "id": "mkt:019e710f-c226-7ee0-99de-35f9a438b012",
-      "time": "2026-05-29 08:08:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Deposit growth expected to outpace loans】CITIC Securities says the current easing is mainly deposit-driven — a “self‑generated” easing: FX settlement inflows and household deposit shifts have boosted non‑bank deposits and loosened liquidity, while weaker corporate lending has left liquidity pooling in the interbank market. It expects deposit growth to continue outpacing loan growth and, with the PBOC conducting moderate liquidity management, overall funding is likely to remain relatively loose."
-    },
-    {
-      "id": "4905716",
-      "time": "2026-05-29 08:08:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【野村高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍】根據一份關於下月年度股東會的通知，在截至3月31日的財年中，野村控股八位高管平均獲得9.21億日元（約580萬美元）的薪酬，去年同期為6.57億日元。上述高管的總薪酬達到創紀錄的74億日元，比前一年增長60%。該公司高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍。"
     }
   ]
 }
