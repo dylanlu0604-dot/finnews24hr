@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-05 21:13:25",
+  "updated": "2026-06-05 21:17:30",
   "count": 18662,
   "items": [
+    {
+      "id": "4919906",
+      "time": "2026-06-05 21:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "全球基金6月5日淨賣出878億印度盧比的印度股票。"
+    },
+    {
+      "id": "mkt:019e97ec-cd33-7fff-a931-a6756bbca46d",
+      "time": "2026-06-05 21:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian defence minister said the radar system deployed near the port of Constanta can detect high-altitude metallic objects."
+    },
+    {
+      "id": "mkt:019e97ec-b6db-7fff-a931-98bc41a90651",
+      "time": "2026-06-05 21:15:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【US May nonfarm payrolls: key takeaways】US May nonfarm payrolls +172k vs consensus 85k. Mar–Apr payrolls revised up a combined 93k, reversing prior downgrades. Three-month employment gain is the strongest in over two years; hiring breadth widened, with both new hires and rehires contributing and payrolls surpassing the employment-growth breakeven. Market pricing: markets are now fully pricing a 25bp Fed rate hike by year-end. Market comment: the print removes the near-term case for Fed cuts; officials arguing for cuts would look out of step, and a few more prints like this could warrant multiple hikes."
+    },
+    {
+      "id": "mkt:019e97ec-7784-7fff-a931-9365489efa72",
+      "time": "2026-06-05 21:15:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council director Hassett said the Federal Reserve should not raise rates and there is room to cut; the Fed has fallen behind the curve and substantial scope for rate reductions remains."
+    },
+    {
+      "id": "4919905",
+      "time": "2026-06-05 21:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部長表示，烏克蘭已通報無人機自毀時間安排。"
+    },
+    {
+      "id": "4919904",
+      "time": "2026-06-05 21:14:51",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”：非農報告說明短期內降息的理由已基本不復存在】“美聯儲傳聲筒”Nick Timiraos：今年春季招聘活動重新加速，將為那些擔憂通脹、並認為當前利率水平過低、無法抑制新一輪價格壓力的美聯儲官員提供更多依據。這份就業報告不會徹底解決美聯儲今年晚些時候應在多大程度上考慮加息的爭論，但它確實進一步說明，短期內降息的理由已經基本不復存在。"
+    },
+    {
+      "id": "mkt:019e97ec-11cc-7fff-a931-887a2a05cdd8",
+      "time": "2026-06-05 21:14:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【TIMIRAOS: Nonfarm payrolls report indicates near-term case for rate cuts has largely disappeared】TIMIRAOS said a reacceleration in spring hiring strengthens the case for Fed officials worried about inf and who view current rates as too low to curb a new round of price pressures. He said the jobs report will not settle the debate over the extent of further tightening later this year, but it further reduces the near-term case for rate cuts."
+    },
+    {
+      "id": "4919903",
+      "time": "2026-06-05 21:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國和寮國將發表關於構建新時代全天候中老命運共同體的聯合宣告。（新華社）"
+    },
+    {
+      "id": "4919902",
+      "time": "2026-06-05 21:14:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國防部長表示，康斯坦察港附近的現有雷達能夠探測到高空飛行的金屬物體。"
+    },
+    {
+      "id": "4919901",
+      "time": "2026-06-05 21:14:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：美聯儲不應加息，後續仍存在降息空間。"
+    },
+    {
+      "id": "4919900",
+      "time": "2026-06-05 21:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞松科技：擬定增募資不超7.84億元 用於高精高速六軸機器人產業化專案等】瑞松科技(688090.SH)公告稱，公司董事會審議透過向特定物件發行A股股票預案，擬募集資金不超過7.84億元，用於高精高速六軸機器人產業化專案、總部及研發中心升級專案、補充流動資金及償還銀行貸款。"
+    },
+    {
+      "id": "4919899",
+      "time": "2026-06-05 21:13:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，希臘計劃對加密貨幣徵收資本利得稅。"
+    },
+    {
+      "id": "4919898",
+      "time": "2026-06-05 21:12:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本補充預算案將致財政收支轉為赤字】日本國會5日透過2026財年（2026年4月至2027年3月）補充預算案。受此影響，日本政府原本預計實現盈餘的基礎財政收支轉為赤字。根據預算案，補充預算總額約為3.11萬億日元（1美元約合160日元），其中約2.5萬億日元為“應對中東局勢預備費”。相關預算財源全部透過發行赤字國債籌措。（新華社）"
+    },
     {
       "id": "mkt:019e97ea-36d5-7fff-a931-8387898eb83a",
       "time": "2026-06-05 21:12:45",
@@ -171760,138 +171892,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲保爾森：貨幣政策具有適度限制性 處於適當水平】美聯儲保爾森稱，通脹壓力對經濟造成了影響，貨幣政策具有適度限制性，處於適當水平；目前的通脹過高，甚至在戰爭開始之前就已經過高。"
-    },
-    {
-      "id": "4907374",
-      "time": "2026-05-29 21:17:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森：美國經濟正朝著持續溫和增長的軌道執行。"
-    },
-    {
-      "id": "mkt:019e73e1-c13f-7eef-a0ef-3342dc19cfeb",
-      "time": "2026-05-29 21:17:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official Paulson said monetary policy is moderately restrictive and at an appropriate level."
-    },
-    {
-      "id": "4907373",
-      "time": "2026-05-29 21:17:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "美聯保爾森表示：通脹水平過高，即便在衝突爆發前通脹就已經居高不下。"
-    },
-    {
-      "id": "4907372",
-      "time": "2026-05-29 21:16:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森表示：貨幣政策目前處於輕度限制性水平，定位恰當。"
-    },
-    {
-      "id": "mkt:019e73e1-7fec-7eef-a0ef-28a6175c4036",
-      "time": "2026-05-29 21:16:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed's Paulson: firms are finding it difficult to plan for the future."
-    },
-    {
-      "id": "4907371",
-      "time": "2026-05-29 21:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列軍隊越過黎巴嫩的利塔尼河。"
-    },
-    {
-      "id": "mkt:019e73e1-125f-7eef-a0ef-22fdb0c57b2f",
-      "time": "2026-05-29 21:16:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Prime Minister NETANYAHU said Israeli forces crossed the Litani River in Lebanon."
-    },
-    {
-      "id": "4907370",
-      "time": "2026-05-29 21:16:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森：通脹壓力對經濟造成了影響。企業目前難以規劃未來。"
-    },
-    {
-      "id": "mkt:019e73e0-b365-7eef-a0ef-18e787df217d",
-      "time": "2026-05-29 21:16:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Fed's Paulson said inf pressures have affected the economy."
-    },
-    {
-      "id": "4907369",
-      "time": "2026-05-29 21:15:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部譴責美國對阿曼的威脅性言論】伊朗外交部發言人巴加埃29日發表宣告，強烈譴責美國對阿曼蘇丹國的威脅性言論，稱其“企圖勒索一個獨立的聯合國會員國”。巴加埃說，以毫無根據的藉口威脅對阿曼實施制裁是“絕對非法的”，違反了《聯合國憲章》和國際法的基本原則。他敦促國際社會對此類行為作出負責任的回應，以防止違反國際法的行為日益常態化。（新華社）"
-    },
-    {
-      "id": "4907368",
-      "time": "2026-05-29 21:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局釋出草案指南，擬減少抗癌藥物的動物實驗。"
-    },
-    {
-      "id": "4907367",
-      "time": "2026-05-29 21:14:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元自研世界模型GE 2.0獲WorldArena世界模型總分冠軍】5月29日，具身智慧領域榜單WorldArena Track1（世界模型感知與動作響應賽道）最新評測結果揭曉，智元自研的世界模型Genie Envisioner-Sim 2.0（GE 2.0）登頂榜首。"
-    },
-    {
-      "id": "te:economy:554985",
-      "time": "2026-05-29 21:13:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Chile Industrial Output Falls in April — Chile’s industrial production fell 4.7% year-on-year in April 2026, following a 3.4% contraction in the previous month. The decline was mainly driven by mining activity, as the mining production index dropped 9.0% due to a 12.6% contraction in metallic mining. Copper extraction and processing fell 13.8%, reflecting a high comparison base and lower ore grades at major producers. Manufacturing output also weakened, declining 2.5%, largely due to a 7.7% drop in food production. In contrast, utilities output rose 0.9%, supported by a 2.3% increase in electricity generation. On a monthly basis, industrial production edged down 0.2%."
     }
   ]
 }
