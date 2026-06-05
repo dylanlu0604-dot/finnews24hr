@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-05 10:57:51",
+  "updated": "2026-06-05 11:01:48",
   "count": 18962,
   "items": [
+    {
+      "id": "mkt:019e95b9-ccb0-766c-9544-b63ff9d65b9d",
+      "time": "2026-06-05 11:00:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang's Korea visit: first stop reportedly T1 esports cafe】NVIDIA CEO Jensen Huang will visit South Korea on the 5th, entering via Gimpo Airport at about 1:00pm local time. He is scheduled for consecutive meetings with major Korean corporate leaders; his first public stop will be T1’s Seoul “T1 Base Camp” esports café, where he will meet the T1 League of Legends starting five — captain Faker (Lee Sang‑hyeok), Doran, Oner, Peyz and Keria — and discuss measures to activate the esports industry."
+    },
+    {
+      "id": "te:markets:556685",
+      "time": "2026-06-05 11:00:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Drops on Middle East Uncertainty — Silver fell below $73 an ounce on Friday and was set for a weekly decline of nearly 4%, pressured by ongoing uncertainty in the Middle East that kept inflation risks and interest rate concerns in focus. President Donald Trump said peace negotiations were approaching their final stage and is reportedly reluctant to re-enter full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the discussions. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, adding to doubts over efforts to de-escalate regional hostilities. The prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, reinforcing concerns about inflation and the risk of higher interest rates."
+    },
+    {
+      "id": "4918577",
+      "time": "2026-06-05 11:00:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【加強公平競爭 《中國反壟斷執法年度報告（2025）》釋出】市場監管總局（國家反壟斷局）釋出《中國反壟斷執法年度報告（2025）》，報告指出，2025年市場監管總局在反壟斷監管執法領域持續發力，全年立案市場壟斷案件20件，辦結22件，罰沒款合計6.53億元；穩步提升經營者集中監管質效，全年審結經營者集中706件，同比增長9.8%；加力破除地方保護和市場分割，出臺《公平競爭審查條例實施辦法》，加強公平競爭審查源頭把關，全年各級市場監管部門審查政策措施近6萬件。"
+    },
+    {
+      "id": "te:markets:556684",
+      "time": "2026-06-05 10:59:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slips on Middle East Uncertainty — Gold fell below $4,450 an ounce on Friday and was set for a weekly decline of more than 2%, pressured by ongoing uncertainty in the Middle East that kept inflation risks and interest rate concerns in focus. President Donald Trump said peace negotiations were approaching their final stage and is reportedly reluctant to re-enter full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the discussions. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, adding to doubts over efforts to de-escalate regional hostilities. The prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, reinforcing concerns about inflation and the risk of higher interest rates."
+    },
+    {
+      "id": "4918576",
+      "time": "2026-06-05 10:59:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳訪韓首站據悉選在T1網咖】英偉達執行長黃仁勳將於5日訪問韓國，並接連會見韓國國內主要企業領袖。 據英偉達及資訊科技IT業界5日訊息，黃仁勳CEO將於當日下午1點左右透過金浦機場入境。 據悉，黃仁勳CEO將在機場簡要發表入境感言，並進行問答環節。 抵達韓國後，黃仁勳CEO的首個目的地是電競戰隊T1運營的網咖。 據遊戲界透露，黃仁勳CEO將於當日下午到訪位於首爾市內的網咖“T1 Base Camp”，與T1英雄聯盟戰隊全員會面。 據悉，包括T1隊長Faker李相赫在內，Doran、Oner、Peyz、Keria等戰隊首發5人將悉數出席本次會面。 黃仁勳CEO預計將在現場與選手及戰隊相關人員進行交流，並就啟用電子競技產業的方案展開討論。"
+    },
+    {
+      "id": "mkt:019e95b7-bcda-766c-9544-af727f4bea94",
+      "time": "2026-06-05 10:58:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share photovoltaic sector strengthened; Dier Laser jumped over 10%, with Gaocen, Aotewei, Laplace, Jinchen and Maiwei also advancing."
+    },
+    {
+      "id": "mkt:019e95b7-a15f-766c-9544-a70fe6babb3b",
+      "time": "2026-06-05 10:58:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's benchmark stock index extended losses, falling 2.4%."
+    },
+    {
+      "id": "4918575",
+      "time": "2026-06-05 10:57:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉檢測能力提升 24小時能出結果】剛果（金）衛生部長坎巴4日在首都金沙薩說，該國埃博拉疫情應對工作正在加快推進，現在送檢樣本能夠在24小時內得出檢測結果。目前剛果（金）檢測能力“幾乎達到100%”。 坎巴在當天舉行的新聞釋出會上說，剛果（金）本輪本迪布焦型埃博拉疫情累計確診病例升至381例，其中死亡63例。目前約有233名患者正在住院，其中包括正在隔離等待檢測結果的疑似患者以及確診後接受治療的患者。 坎巴表示，疫情目前仍限於剛果（金）東部伊圖裡省、北基伍省和南基伍省這3個省，其他地區尚未報告埃博拉病例。目前尚無獲批用於本迪布焦型埃博拉病毒的疫苗，相關候選疫苗仍處於研究階段。 坎巴說，沒有疫苗並不意味著患者不能康復，及時接受醫療機構的支援性治療能夠降低死亡風險。目前剛果（金）已有7名患者康復。所謂康復是指患者不再出現症狀，且間隔兩天的兩次檢測結果均為陰性。 此外，烏干達衛生部4日說，該國新增1例埃博拉確診病例，累計報告確診病例升至16例。 世界衛生組織非洲區域主任賈納比4日線上上記者會上說，本輪疫情表明區域協作不是可選項，而是必要條件。世衛組織駐剛果（金）代表安妮·安西亞則表示，本輪疫情應對仍處於早期階段，目前對疫情走勢作出精確預測還為時過早。(新華社)"
+    },
+    {
+      "id": "4918574",
+      "time": "2026-06-05 10:57:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指下跌2.4%，報5697.168點。"
+    },
+    {
+      "id": "te:economy:556683",
+      "time": "2026-06-05 10:57:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Stays Near 2-Week Lows — Australia’s 10-year government bond yield traded above 4.9%, but stayed near two-week lows as markets continued to assess diplomatic efforts in the Middle East, while the Reserve Bank signaled a wait-and-see approach. The central bank has already delivered three hikes this year, and Governor Michele Bullock said the rate increases are starting to filter through the economy. However, she reiterated that inflation remains elevated and policymakers will remain alert to persistent price pressures. Markets expect the RBA to stand pat in June, with about a 50% odds of another hike in August and full pricing for a move by December. Investors now await further clues on the policy outlook, with Deputy Governor Andrew Hauser due to speak later today. Meanwhile, ceasefire negotiations in the Middle East conflict appeared uncertain, with conflicting signals from Washington and Tehran. Prospects are further complicated as Iran-backed Hezbollah rejected a US-brokered truce proposal in Lebanon."
+    },
     {
       "id": "4918573",
       "time": "2026-06-05 10:56:07",
@@ -174627,100 +174732,6 @@
         "焦點"
       ],
       "text": "華塑控股盤中跌停，上演“天地板”，現報5.16元，成交額12.84億元。"
-    },
-    {
-      "id": "mkt:019e71ae-58d8-7ee0-99e2-11ff5b5a1c5d",
-      "time": "2026-05-29 11:01:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China CSI 1000 index futures (IM) front contract fell 2.00% intraday to 8,369.6 points."
-    },
-    {
-      "id": "4906017",
-      "time": "2026-05-29 11:01:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華塑控股上演“天地板”】華塑控股盤中跌停，上演“天地板”，現報5.16元，成交額12.68億元。"
-    },
-    {
-      "id": "4906016",
-      "time": "2026-05-29 11:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省濟南市委原常委孫斌被雙開】經查，孫斌喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，違規收受消費卡，接受可能影響公正執行公務的宴請；違背組織原則，隱瞞不報個人有關事項，在幹部選拔任用工作中違規為他人謀取利益；違反廉潔紀律，向管理和服務物件放貸獲取大額回報；違規干預和插手市場經濟活動；將黨和人民賦予的公權力異化為謀取私利的工具，大肆收錢斂財，利用職務便利為他人在工程專案承攬、企業經營等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "4906015",
-      "time": "2026-05-29 11:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國商業貿易部代表團一行到訪中工國際】據中工國際訊息，近日，中工國際副總經理閆海祿在下屬企業中國中元，接待了英國商業貿易部健康醫療副主任邁克·麥考特及英國國王學院醫院NHS基金會信託基金代表團一行。雙方圍繞醫院規劃設計、工程建設、運維管理及國際醫療產業合作等議題，開展深入溝通與務實交流。"
-    },
-    {
-      "id": "4906014",
-      "time": "2026-05-29 11:00:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局批准釋出血管晶片國家標準】市場監管總局批准釋出推薦性國家標準《血管晶片通用技術要求》。該標準將於2027年5月1日起正式實施，標誌著我國器官晶片標準體系建設取得重要進展。血管系統是藥物遞送與疾病進展的核心通道。血管晶片透過微流控技術在體外構建三維脈管網路，可動態模擬血管灌注、屏障功能及生化代謝等生理過程，已成為創新藥物研發、毒理評估及生物製造等領域的新型生產工具。《血管晶片通用技術要求》主要規定了三方面內容。一是界定了血管晶片的術語，為行業建立統一認知基準。二是對晶片外觀、細胞來源、元件效能、生物效能等作出規範，明確生物相容性、組織形態、屏障功能、細胞活性和功能表徵等關鍵評價指標。三是劃定了透光率、密封性、工作溫度耐受性等相應指標檢測方法，為質量評價提供可操作指引。"
-    },
-    {
-      "id": "mkt:019e71ac-b35b-7ee0-99e2-0e236e1f16f4",
-      "time": "2026-05-29 11:00:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Census shows Japan population 123.0 mln in 2025, down 2.5% over five years】Japan's Ministry of Internal Affairs and Communications released preliminary census data on May 29. As of Oct. 1, 2025, Japan's total population, including foreign residents, stood at 123.0 mln, down about 3.097 mln (2.5%) from the 2020 census. This is the third consecutive decline since 2015 and the largest drop."
-    },
-    {
-      "id": "mkt:019e71ac-9a46-7ee0-99e2-03d538e7a78b",
-      "time": "2026-05-29 10:59:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China urges citizens to avoid non-essential travel to DRC after WHO raises Ebola risk】May 17 WHO declared the Bundibugyo ebolavirus outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern; on May 22 WHO raised the national risk level to very high. DRC has reported more than 900 suspected cases. The Chinese Foreign Ministry and China’s embassy in the DRC advised citizens to avoid non-essential travel and warned against entering Ebola-affected areas including Ituri and North Kivu provinces. They urged people in the DRC and neighboring countries to avoid contact with wild animals and suspected patients, seek medical care or assistance from Chinese medical teams for symptoms such as fever, vomiting, diarrhea, abdominal pain or bleeding, and to report relevant symptoms to flight crews or port/border staff when returning to China."
-    },
-    {
-      "id": "mkt:019e71ac-7af9-7ee0-99e1-fb7bca52d9db",
-      "time": "2026-05-29 10:59:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Industrial metals poised for largest monthly gain in four months】LMEX, which tracks six main LME metals, is up 5.5% month-to-date as of Thursday—the biggest monthly rise since January. Macquarie warns sulfur supply, a key feedstock for copper, has tightened due to the war, raising the risk of output cuts in the Democratic Republic of Congo. Macquarie strategist Alice Fox wrote that even if the US and Iran reach a deal, clearing the Persian Gulf sulfur shipping backlog will take long enough to likely push the copper market to a production-cutting tipping point. She estimates up to 94,000 tonnes of DRC copper output per month could be at risk, with partial cuts possibly announced as early as July."
-    },
-    {
-      "id": "mkt:019e71ab-8c09-7ee0-99e1-f0e58eb07afe",
-      "time": "2026-05-29 10:58:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Wingtech says Nexperia China has largely completed independent operating system】Wingtech chairman Yang Mu told the 2026 Jiwei Conference that Nexperia China has largely completed construction of an independent operating system. Core management, R&D and marketing teams are based in China and have full operational decision-making authority, enabling close alignment with Chinese high-end manufacturing demand and rapid response to global markets. He said capacity and delivery are steadily recovering, upstream stages have entered deep, multi-platform and multi-product cooperation with multiple Chinese partners, suppliers are mutually complementary to maximize capacity across the full industrial chain, and a multi-node, multi-source stable supply model has been implemented."
-    },
-    {
-      "id": "4906013",
-      "time": "2026-05-29 10:58:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部和中國駐剛果（金）使館提醒中國公民近期謹慎前往剛果（金）】5月17日，世界衛生組織宣佈，剛果（金）的本迪布焦型埃博拉病毒疫情構成“國際關注的突發公共衛生事件”。22日，世界衛生組織將剛果（金）本國疫情風險等級上調至“極高風險”。目前，剛果（金）已報告超過900例疑似病例。外交部和中國駐剛果（金）使館提醒中國公民近期謹慎前往剛果（金），非必要不前往。在剛及周邊國家同胞切勿前往剛伊圖裡省、北基伍省等埃博拉疫區，避免接觸野生動物、可疑病人，降低感染風險。出現發熱、嘔吐、腹瀉、腹痛、出血等症狀時，及時就醫或尋求中國醫療隊幫助。回國途中如出現相關症狀，請主動向機組、口岸工作人員報告。（新華社）"
     }
   ]
 }
