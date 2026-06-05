@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-06 03:34:52",
-  "count": 18815,
+  "updated": "2026-06-06 03:38:29",
+  "count": 18808,
   "items": [
+    {
+      "id": "4920341",
+      "time": "2026-06-06 03:37:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：人工智慧對經濟增長的傳導速度將快於以往各類創新成果。"
+    },
+    {
+      "id": "mkt:019e994a-94a0-7665-830d-096e57889772",
+      "time": "2026-06-06 03:37:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "The CFTC said speculative net long positions in COMEX gold futures rose by 14,409 contracts to 111,341 in the week to June 2."
+    },
+    {
+      "id": "4920340",
+      "time": "2026-06-06 03:36:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "比特幣挖礦公司CleanSpark價跌幅收窄至10%，此前曾一度下跌16%。"
+    },
+    {
+      "id": "4920339",
+      "time": "2026-06-06 03:34:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：6月2日當週，投機者所持COMEX黃金淨多頭頭寸增加14,410手合約，至111,341手合約，創18周新高。投機者所持NYMEX WTI原油淨多頭頭寸增加8,497手合約，至124,259手合約。"
+    },
     {
       "id": "te:economy:557005",
       "time": "2026-06-06 03:29:19",
@@ -173280,115 +173319,6 @@
         "公司"
       ],
       "text": "根據SEC檔案顯示，埃克森美孚股東以71.2%的贊成票批准公司遷址註冊至得克薩斯州。"
-    },
-    {
-      "id": "mkt:019e753e-8f96-7bb7-9966-0e02d98c4cc6",
-      "time": "2026-05-30 03:38:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said if necessary the U.S. has further options to act on Iran."
-    },
-    {
-      "id": "mkt:019e753e-5c9b-7bb7-9966-02b09e82c9fa",
-      "time": "2026-05-30 03:38:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "When asked about a blockade on Iran, U.S. Treasury Secretary Bessent said any lifting of measures would be phased. He outlined three scenarios for Iran: reaching an agreement, failing to reach an agreement, or military action."
-    },
-    {
-      "id": "4907763",
-      "time": "2026-05-30 03:37:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神舟二十一號航天員乘組平安抵京】據中國載人航天工程辦公室訊息，圓滿完成神舟二十一號載人飛行任務的航天員乘組，於北京時間2026年5月30日乘坐飛機平安抵達北京。空間站應用與發展階段飛行任務總指揮部有關領導及成員到機場迎接。3名航天員抵京後將進入隔離恢復期，接受全面的醫學檢查和健康評估，並安排休養。之後，將在京與新聞媒體集體見面。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e753d-9e3a-7bb7-9965-fa76fc73dae2",
-      "time": "2026-05-30 03:37:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent, asked how to maintain the U.S. dollar's reserve-currency status, said the situation has not changed."
-    },
-    {
-      "id": "4907762",
-      "time": "2026-05-30 03:36:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【庫存見底 現貨升水飆升 鋁市場供應短缺日益加重】由於霍爾木茲海峽關閉導致供應受阻，鋁市場短缺現象正日益加劇，導致鋁現貨價格飆升，且交易所庫存大幅下滑。海灣地區佔到全球鋁供應量的近10%，因此伊朗戰爭令全球鋁買家受到嚴重衝擊。儘管圍繞緊張局勢得到解決的樂觀情緒重新升溫，但霍爾木茲海峽長期關閉以及該地區冶煉廠遭到直接襲擊，已促使外界警告鋁行業將面臨數十年來最嚴重的短缺。週五出現了新的供應緊張跡象，倫敦金屬交易所鋁現貨價格較三個月期貨升水飆升至每噸97美元，達到2007年以來最高水平。現貨升水是供應不足以滿足需求的典型跡象，而近期價差飆升之際，倫敦金屬交易所可隨時提取的庫存正接近歷史低位。"
-    },
-    {
-      "id": "mkt:019e753d-2f2c-7bb7-9965-f631cd12b470",
-      "time": "2026-05-30 03:36:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "US Treasury Secretary Bessent said he never favored Walsh. Trump has decided to appoint Walsh as Federal Reserve chair."
-    },
-    {
-      "id": "mkt:019e753c-b33e-7bb7-9965-e8db2002db91",
-      "time": "2026-05-30 03:36:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said interest rates peaked the day before Fed Chair Kevin Warsh was sworn in."
-    },
-    {
-      "id": "mkt:019e753c-5fdc-7bb7-9965-e3eb0b09d4bf",
-      "time": "2026-05-30 03:35:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US Treasury Secretary Bessent said there is misunderstanding about what a strong dollar implies, and that a strong dollar means doing the right thing for the economy."
-    },
-    {
-      "id": "4907761",
-      "time": "2026-05-30 03:35:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：可推出部分舉措以援助伊朗民眾。"
-    },
-    {
-      "id": "4907760",
-      "time": "2026-05-30 03:35:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團：花旗銀行北美總行已獲得蓋亞那銀行的監管批准，可在喬治敦設立代表處。"
-    },
-    {
-      "id": "4907759",
-      "time": "2026-05-30 03:35:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：必要情況下，我們還可針對伊朗採取進一步舉措。"
     }
   ]
 }
