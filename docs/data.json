@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-05 22:52:02",
-  "count": 18715,
+  "updated": "2026-06-05 22:56:09",
+  "count": 18702,
   "items": [
+    {
+      "id": "4920104",
+      "time": "2026-06-05 22:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局在一份宣告中表示，自7月3日起，透過新巴拿馬型船閘的船舶最大允許吃水深度將為15.09米。"
+    },
+    {
+      "id": "4920103",
+      "time": "2026-06-05 22:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼國會高層人士：印尼政府始終堅定奉行一箇中國原則】印度尼西亞國會主管外交、國防、情報事務的第一委員會副主席戴夫·拉克索諾日前在接受新華社記者採訪時表示，印尼政府堅定奉行一箇中國原則，這一立場多年來始終如一，載於印尼政府的官方立場檔案中，並在印尼總統普拉博沃2024年11月對華進行國事訪問期間兩國共同發表的《中華人民共和國和印度尼西亞共和國關於推進全面戰略伙伴關係和中印尼命運共同體建設的聯合宣告》中得到重申。 戴夫·拉克索諾強調，印尼將繼續堅持相互尊重、互不干涉、和平共處的原則同中國及其他夥伴合作，推動本地區乃至更廣範圍內的和平、穩定與合作。（新華社）"
+    },
+    {
+      "id": "4920102",
+      "time": "2026-06-05 22:53:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳開通至尼泊爾加德滿都航線】6月5日4時7分，從尼泊爾首都加德滿都飛來的喜馬拉雅航空航班飛抵深圳寶安國際機場，機上近100名旅客在深圳機場邊檢站的高效保障下，全部快速入境。6時11分，載有近160名旅客後，該航班飛回尼泊爾。該航線是深圳機場今年新開通的第二條國際客運航線，也是繼開通馬爾地夫航線後的第二條南亞航線。（新華社）"
+    },
     {
       "id": "4920101",
       "time": "2026-06-05 22:50:45",
@@ -172188,170 +172212,6 @@
         "The Trump Trade"
       ],
       "text": "US President Trump said the maritime blockade will be lifted."
-    },
-    {
-      "id": "mkt:019e743c-3dbc-7eef-a0f1-8fabf119d4d3",
-      "time": "2026-05-29 22:56:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said Iran will complete clearing or detonating remaining sea mines."
-    },
-    {
-      "id": "4907551",
-      "time": "2026-05-29 22:55:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普就伊朗談判發表評論後，美國國債繼續上漲。"
-    },
-    {
-      "id": "4907550",
-      "time": "2026-05-29 22:55:40",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：日本外匯干預可能對美國國債產生影響】荷蘭國際集團的Chris Turner在一份報告中表示，日本央行可能會採取進一步干預措施，以遏制日圓兌美元的任何跌勢，這將對美國國債產生影響。他表示，日本政府部門出售美國國債，似乎是為了給外匯干預提供資金。”2024年日本持有的美國國債減少了約1,000億美元——與當年的外匯干預金額大致相符。“他表示，如果美元再次突破160日圓關口，日本可能會進行干預。他稱，日本擁有超過1萬億美元的外匯儲備，儘管該國不想為了捍衛日圓而損失其中20%-30%的儲備。日本財務省週五表示，在4月28日至5月27日期間，日本在外匯干預上花費了約736.9億美元。"
-    },
-    {
-      "id": "mkt:019e743b-d9a1-7eef-a0f1-8563bffc1bf3",
-      "time": "2026-05-29 22:55:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasuries extended gains; the dollar index (DXY) slid to an intraday low, trading at 98.8."
-    },
-    {
-      "id": "mkt:019e743b-40df-7eef-a0f1-7ca280be02fb",
-      "time": "2026-05-29 22:54:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Trump expected to propose USMCA change to raise US content in autos】The Wall Street Journal reports the Trump administration is expected to propose amending the US-Mexico-Canada Agreement (USMCA) to require at least 50% of auto parts and raw materials by dollar value be sourced from the United States as a condition for USMCA preferential tariff treatment. The change would materially raise the US-specific content requirement versus current USMCA rules, which require 75% North American content but include no US-only sourcing mandate."
-    },
-    {
-      "id": "4907549",
-      "time": "2026-05-29 22:54:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯捷姆留克港火災已被撲滅。"
-    },
-    {
-      "id": "mkt:019e743a-e9fb-7eef-a0f1-7237fe62dabf",
-      "time": "2026-05-29 22:54:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rallied intraday to $4,560/oz, up 1.43% on the day. New York futures climbed above $4,600/oz, rising 1.49% on the day."
-    },
-    {
-      "id": "mkt:019e743a-8d1e-7eef-a0f1-6b6cb9ff1b46",
-      "time": "2026-05-29 22:54:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said all sea mines, if present, will be cleared; we have detonated and cleared many such mines."
-    },
-    {
-      "id": "4907547",
-      "time": "2026-05-29 22:53:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4600美元/盎司，日內漲1.49%。"
-    },
-    {
-      "id": "4907546",
-      "time": "2026-05-29 22:53:35",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "彭博美元即期指數跌至日內低點。"
-    },
-    {
-      "id": "mkt:019e7439-ebc7-7eef-a0f1-6402f575bf2d",
-      "time": "2026-05-29 22:53:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "President Trump said he will convene a meeting to finalize U.S. policy on Iran, demanded Tehran agree never to possess nuclear weapons or bombs, and said the Strait of Hormuz must be reopened immediately with no transit fees."
-    },
-    {
-      "id": "4907541",
-      "time": "2026-05-29 22:53:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：伊朗必須承諾永遠不研發、擁有核武器及核彈】特朗普：伊朗必須承諾永遠不研發、擁有核武器及核彈。霍爾木茲海峽須立即全面開放，雙向航運完全通行無阻、不得收取任何通行費。海峽內若存有水雷（爆炸裝置），須全部清除。我方已動用先進掃雷艇，透過引爆方式銷燬了大量水雷；剩餘水雷數量已然不多，伊朗須立即完成全部剩餘水雷的清除或引爆工作。此前因我方實施規模空前的海上封鎖而滯留海峽的船隻，如今封鎖正式解除，各船即可啟程返航！11 個月前，我方 B-2 隱形轟炸機發動強力打擊，致使山體近乎坍塌，高濃縮核材料（也被稱作 “核塵埃”）被深埋於地下。美方將聯合伊朗伊斯蘭共和國以及國際原子能機構，共同開挖這批深埋的核材料並予以徹底銷燬。在另行通知前，各方暫不進行資金往來。其餘次要事項均已達成共識。我即刻前往戰情室作出最終裁定。感謝各方對此事的關注！"
-    },
-    {
-      "id": "4907540",
-      "time": "2026-05-29 22:52:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽須立即全面開放，不得收取通行費。"
-    },
-    {
-      "id": "4907539",
-      "time": "2026-05-29 22:52:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4590美元/盎司，日內漲1.27%。"
-    },
-    {
-      "id": "4907538",
-      "time": "2026-05-29 22:52:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗必須承諾永遠不研發、擁有核武器及核彈。"
-    },
-    {
-      "id": "4907537",
-      "time": "2026-05-29 22:52:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：現在將開會，對伊朗問題做出最終決定。"
     }
   ]
 }
