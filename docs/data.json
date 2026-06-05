@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-05 15:08:57",
-  "count": 18916,
+  "updated": "2026-06-05 15:12:58",
+  "count": 18910,
   "items": [
+    {
+      "id": "4918958",
+      "time": "2026-06-05 15:11:54",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【聞泰科技起訴安世荷蘭】6月5日，據安世中國訊息，安世聞泰科技針對安世荷蘭的不當干預，正式在中國啟動法律程式，案件已被司法機關受理。據安世中國介紹，聞泰科技已向廣東省東莞市中級人民法院起訴安世荷蘭，法院已立案。"
+    },
+    {
+      "id": "4918957",
+      "time": "2026-06-05 15:09:46",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "富時中國A50指數期貨走低，跌超2%。"
+    },
+    {
+      "id": "mkt:019e969d-b9b1-7334-81d2-c8f1fded8471",
+      "time": "2026-06-05 15:09:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 2%."
+    },
+    {
+      "id": "4918956",
+      "time": "2026-06-05 15:09:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉：外匯儲備項下黃金持有量小幅增加。"
+    },
+    {
+      "id": "mkt:019e969d-9468-711f-98a7-ddee210bba4f",
+      "time": "2026-06-05 15:09:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of India governor says gold holdings in FX reserves have edged up slightly."
+    },
+    {
+      "id": "4918955",
+      "time": "2026-06-05 15:09:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列在兩伊戰爭期間向亞塞拜然派兵。"
+    },
     {
       "id": "mkt:019e969c-9c19-711f-98a7-d371f99e4009",
       "time": "2026-06-05 15:08:26",
@@ -174176,113 +174243,6 @@
         "國際"
       ],
       "text": "日本內閣官房長官：對投機性匯率波動感到極度擔憂。"
-    },
-    {
-      "id": "4906408",
-      "time": "2026-05-29 15:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：不會就匯率水平、干預事宜置評。"
-    },
-    {
-      "id": "4906407",
-      "time": "2026-05-29 15:12:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【諾和諾德：印度批准維格維用於青少年群體】諾和諾德印度公司回應稱，印度中央藥品標準管控局已批准爆款減肥藥Wegovy上市，適用人群為12週歲及以上、體重超60公斤（132磅）的青少年。該企業表示，兒童肥胖問題日益嚴峻，已成為一大公共健康難題，且會帶來長期健康隱患；該藥物的使用須由醫護人員評估判定。藥企同時指出，這款藥物針對青少年的用藥劑量與售價將和成人版本保持一致。"
-    },
-    {
-      "id": "mkt:019e7292-c6bd-7aa7-a782-976a9d1a36fb",
-      "time": "2026-05-29 15:11:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU high representative for foreign affairs and security policy Kallas said Moscow must not be allowed to brazenly violate European airspace after a drone incident in Romania."
-    },
-    {
-      "id": "mkt:019e7292-9c31-7aa7-a782-8d1ea6462096",
-      "time": "2026-05-29 15:11:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rivers above flood-warning levels in China 50% higher than five-year average since flood season began】At a Ministry of Water Resources briefing, year-to-date accumulated precipitation across China was 170 mm, about 5% above the seasonal norm. Major rivers remain broadly stable, but 146 rivers in 18 provinces have exceeded flood-warning levels since the flood season began — roughly 50% above the five-year same-period average of 96, with most cases in small- and medium-sized rivers. From June 1 China entered full flood season and the south has moved into its main flood period. The ministry said it will intensify duty rostering, early warning and flood response for small- and medium-sized rivers and ensure safety of water infrastructure."
-    },
-    {
-      "id": "mkt:019e7292-8d64-7aa7-a782-8397b643edd9",
-      "time": "2026-05-29 15:11:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MSCI rebalancing effective; multiple stocks swing sharply in closing auction】Several stocks swung sharply in the close auction: Shengyi Technology, Baiwei Storage, AMEC, Kingsoft Office, Guanghe Technology and Jiangbolong rallied over 2%, while O-Film, Roborock and Bull Group fell more than 2%. MSCI on May 13 published its May 2026 quarterly index review; changes take effect after the close on May 29. The MSCI China Index will add 22 stocks, including Guangku Technology, Yangtze Optical Fibre and Shengke Communication, and remove 24 stocks, including NetEase Cloud Music, O-Film, Goodix Technology, Meitu and Bull Group."
-    },
-    {
-      "id": "4906406",
-      "time": "2026-05-29 15:11:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "諾和諾德表示，印度已批准Wegovy用於青少年。"
-    },
-    {
-      "id": "4906405",
-      "time": "2026-05-29 15:10:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【入汛以來全國超警河流明顯偏多 較近五年同期均值多五成】記者從水利部今天舉行的“水旱災害防禦工作情況”新聞通氣會上瞭解到，今年以來，全國累計面雨量170毫米，較常年同期偏多5%。入汛以來，全國大江大河汛情總體平穩，有18個省份146條河流發生超警以上洪水，較近五年同期均值（96條）偏多五成，其中大部為中小河流。6月1日起，我國將全面進入汛期，南方地區進入主汛期。水利部門將加強值守、預警，加強中小河流洪水應對，確保水利工程安全度汛。（央視新聞）"
-    },
-    {
-      "id": "4906404",
-      "time": "2026-05-29 15:10:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大商所：增加線型低密度聚乙烯、聚丙烯品種交割品牌】5月29日，大連商品交易所釋出公告，根據《大連商品交易所合成樹脂期貨交割品牌工作辦法》等有關規定，經研究決定：增加陝西延長中煤榆林能源化工股份有限公司的“大陸”牌為線型低密度聚乙烯品種交割品牌。增加陝西延長石油延安能源化工有限責任公司、陝西延長石油（集團）有限責任公司延安煉油廠和陝西延長石油（集團）有限責任公司延安石油化工廠的“大陸”牌為聚丙烯品種交割品牌。上述事項自即日起生效。"
-    },
-    {
-      "id": "mkt:019e7291-96e1-7aa7-a782-7c1c8a3c1854",
-      "time": "2026-05-29 15:10:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ling Ji attends China-Germany business roundtable and speaks】May 28 — Ling Ji, vice minister and deputy representative for international trade negotiations, attended and spoke at a China-Germany business roundtable in Guangzhou with visiting German Federal Minister for Economic Affairs and Energy Lai Xie and Guangdong provincial standing committee member and vice governor Zhang Guozhi."
-    },
-    {
-      "id": "4906403",
-      "time": "2026-05-29 15:09:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【凌激出席中德經濟界圓桌會並致辭】據商務部官網，5月28日，凌激副部長兼國際貿易談判副代表在廣州與來華訪問的德國聯邦經濟和能源部部長賴歇，以及廣東省委常委、副省長張國智共同出席中德經濟界圓桌會並致辭。"
-    },
-    {
-      "id": "te:markets:554805",
-      "time": "2026-05-29 15:09:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Rolls-Royce Stock Price Hits 12-week High — Rolls-Royce shares increased to 1330.00 GBp, the highest since March 2026. Over the past 4 weeks, Rolls-Royce gained 12.35%, and in the last 12 months, it increased 53.31%."
-    },
-    {
-      "id": "4906402",
-      "time": "2026-05-29 15:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國累計建成寧靜小區3272個】生態環境部等11個部委和單位釋出的《中國噪聲汙染防治報告（2026）》顯示，全國累計建成寧靜小區3272個，惠及居民超過240萬戶。生態環境部新聞發言人裴曉菲在29日的新聞釋出會上介紹了這一情況。報告顯示，2025年，全國城市聲環境質量總體良好，聲環境功能區晝間達標率為93.3%，夜間達標率為87.8%。（新華社）"
     }
   ]
 }
