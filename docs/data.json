@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-06 02:46:36",
-  "count": 18817,
+  "updated": "2026-06-06 02:50:27",
+  "count": 18818,
   "items": [
+    {
+      "id": "4920297",
+      "time": "2026-06-06 02:48:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌4.00%，現報25757.377點；道指跌1.15%，現報50969.012點；標普500指數跌2.43%，現報7399.930點。"
+    },
+    {
+      "id": "mkt:019e991c-f2f5-7665-830c-4aed2f81176c",
+      "time": "2026-06-06 02:47:51",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "SEC filing shows SpaceX signed a cloud services agreement with Google on June 5, 2026 to secure cloud compute capacity."
+    },
+    {
+      "id": "mkt:019e991c-9784-7665-830c-417d623870fb",
+      "time": "2026-06-06 02:47:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Market sources said SpaceX has struck a cloud-services agreement with Google (GOOG.O) covering 110,000 NVIDIA GPUs plus CPUs and memory."
+    },
+    {
+      "id": "4920296",
+      "time": "2026-06-06 02:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂股價漲幅擴大至5.1%，有望創下2020年以來最佳單日表現。"
+    },
     {
       "id": "mkt:019e991b-4098-7665-830c-3964f1b7a7e5",
       "time": "2026-06-06 02:46:00",
@@ -173317,30 +173360,6 @@
         "Important"
       ],
       "text": "【US media: Trump has not decided on any new agreement with Iran】The New York Times reports senior US officials said Trump's roughly two-hour situation-room meeting produced no decision on a new agreement with Iran. The Trump administration says a deal is near but key issues remain under discussion, including the unfreezing of Iranian funds."
-    },
-    {
-      "id": "4907703",
-      "time": "2026-05-30 02:50:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據紐約時報：據一位不願具名的美國政府高階官員透露，特朗普尚未就與伊朗達成新協議作出任何決定。"
-    },
-    {
-      "id": "4907702",
-      "time": "2026-05-30 02:48:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院裁定：美國法官下令特朗普政府移除肯尼迪中心建築上特朗普的姓名。"
-    },
-    {
-      "id": "4907701",
-      "time": "2026-05-30 02:47:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "原油小幅拉昇。"
     }
   ]
 }
