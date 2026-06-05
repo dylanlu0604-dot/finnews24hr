@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-05 20:56:49",
-  "count": 18653,
+  "updated": "2026-06-05 21:01:32",
+  "count": 18644,
   "items": [
+    {
+      "id": "4919874",
+      "time": "2026-06-05 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲1%，現報1465.00元。"
+    },
+    {
+      "id": "4919873",
+      "time": "2026-06-05 21:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯與烏克蘭交換370名被俘軍人】俄羅斯國防部5日在社交媒體上發文說，185名俄軍被俘人員當天從烏克蘭控制區返回。作為交換，俄方也向烏方移交了185名被俘人員。阿拉伯聯合大公國在此次行動中參與調解。俄方人員目前正在白俄羅斯接受醫療救治和心理疏導，之後將返回俄羅斯。烏克蘭總統澤連斯基5日在社交媒體發文說，185名烏克蘭軍人以及1名烏平民當天返回烏克蘭，這些軍人來自烏武裝部隊、國民警衛隊和國家邊防局。 (新華社)"
+    },
+    {
+      "id": "4919872",
+      "time": "2026-06-05 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】膠合板連續跌4.38%，白銀連續跌3.36%，紅棗連續跌3.25%，錫連續跌3.23%，鈀連續跌2.43%。"
+    },
+    {
+      "id": "4919871",
+      "time": "2026-06-05 21:00:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內跌1.68%。"
+    },
+    {
+      "id": "mkt:019e97de-08de-7fff-a931-18559df9e529",
+      "time": "2026-06-05 20:59:31",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY has broken above 160, trading at 160.20, up 0.06% intraday."
+    },
+    {
+      "id": "4919870",
+      "time": "2026-06-05 20:59:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國詞元全球爆單】詞元出海，即依託國內智算中心，以應用程式介面向境外使用者輸出大模型推理算力。今年以來，伴隨海外AI需求激增，這項數字出海業務迎來高速增長。在廣東汕頭，當地外貿新業態正依託一個個看不見的數字詞元蓬勃興起。依託“來數加工”政策試點，海外使用者發起的大模型使用請求，可透過合規鏈路進入試驗區，在當地資料中心完成智慧運算和詞元消耗後，再經由海底光纜把運算結果傳回海外使用者終端。自從今年4月底全流程測試落地後，廣東汕頭詞元跨境呼叫規模迎來爆發式上漲。有公司負責人介紹，現在每天詞元出海量超過了100億，還在不斷增加。依託詞元出海新業態，在廣東，不少企業搶抓數字貿易紅利，持續向海外輸出AI算力服務。（央視財經）"
+    },
+    {
+      "id": "4919869",
+      "time": "2026-06-05 20:59:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4410美元/盎司，日內跌1.49%。"
+    },
+    {
+      "id": "mkt:019e97dd-5cd4-7fff-a931-152ad8b2f7d9",
+      "time": "2026-06-05 20:58:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold fell further after U.S. nonfarm payrolls, sliding about $40 intraday to $4,409.73 per ounce. The dollar index (DXY) rose 14 points to 99.56, its highest level since April."
+    },
+    {
+      "id": "mkt:019e97dd-3d8f-7fff-a931-097df3899f68",
+      "time": "2026-06-05 20:58:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【May nonfarm payrolls lift odds of Fed December hike to 65%】May nonfarm payrolls far exceeded expectations, driving US interest rate futures to raise bets on a Federal Reserve hike in December. LSEG data show the futures market now prices a 65% probability of a December rate increase, up from 48% before the report. Markets still broadly expect the Fed to keep the policy rate at 3.50–3.75% at the June meeting. Stronger-than-expected jobs data point to a resilient US labor market, lowering near-term rate-cut odds and increasing the probability investors assign to a future restart of hikes to counter inflationary pressure."
+    },
+    {
+      "id": "4919868",
+      "time": "2026-06-05 20:57:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元升破160關口，最新上漲0.06%，報160.140。"
+    },
+    {
+      "id": "4919867",
+      "time": "2026-06-05 20:57:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "波札那正與阿聯酋和阿曼展開磋商，希望藉助兩國協助這個鑽石資源豐富的國家從英美集團手中收購戴比爾斯的“戰略性”股權。"
+    },
+    {
+      "id": "mkt:019e97dc-3221-7fff-a931-00cc60db521c",
+      "time": "2026-06-05 20:57:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "The US 2-year/10-year Treasury yield spread narrowed to 38.5 bps, the flattest level since March."
+    },
+    {
+      "id": "4919866",
+      "time": "2026-06-05 20:57:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期與十年期國債收益率差達到38.5個基點，為今年3月以來最平坦水平。"
+    },
+    {
+      "id": "4919865",
+      "time": "2026-06-05 20:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博美元指數延續漲勢，創 4 月 8 日以來新高。"
+    },
+    {
+      "id": "mkt:019e97db-d60e-7fff-a930-f9b340cc59e9",
+      "time": "2026-06-05 20:57:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Canadian 2-year government bond yield rose 10 bps intraday to 2.90%."
+    },
+    {
+      "id": "mkt:019e97db-d18b-7fff-a930-f535d6bb95dc",
+      "time": "2026-06-05 20:57:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says Ukrainian drone struck technicians at Zaporizhzhia nuclear plant】On the 5th (local time) Rosatom CEO Alexey Likhachev said a drone launched by Ukrainian armed forces struck Rosatom specialists conducting restoration work at the Zaporizhzhia nuclear plant. Three engineers were wounded, two seriously. Likhachev said the attack occurred during an active ceasefire and urged the IAEA to note Ukraine's violation; he had earlier said a temporary ceasefire had begun in the plant area. Ukraine did not immediately comment."
+    },
+    {
+      "id": "mkt:019e97db-2f74-7fff-a930-ed355f6809ea",
+      "time": "2026-06-05 20:56:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Market sources: Hillhouse Investment is nearing completion of its equity acquisition of Goldman Sachs-backed LRQA Group."
+    },
     {
       "id": "4919864",
       "time": "2026-06-05 20:56:04",
@@ -171526,270 +171697,6 @@
         "國際"
       ],
       "text": "美聯儲鮑曼：忽略戰爭對通脹造成的暫時影響是合適的。"
-    },
-    {
-      "id": "4907354",
-      "time": "2026-05-29 21:01:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張陸、武飛、張洪章全部順利出艙】神舟二十二號載人飛船返回艙成功著陸。神舟二十一號航天員張陸、武飛、張洪章全部順利出艙。（央視新聞）"
-    },
-    {
-      "id": "4907353",
-      "time": "2026-05-29 21:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：羅馬尼亞關閉俄領館 俄方將反制】俄羅斯外交部發言人扎哈羅娃5月29日表示，針對羅馬尼亞關閉俄羅斯駐康斯坦察總領館並宣佈俄總領事為“不受歡迎的人”，俄方將很快採取反制措施。扎哈羅娃還表示，西方國家炒作羅馬尼亞無人機事件，是為了轉移人們的注意力。俄聯邦安全會議副主席梅德韋傑夫當天指出，應先查清無人機歸屬。他認為，歐盟國家本身就是俄烏衝突的直接參與方，沒有資格就此事件指責俄方。（央視新聞）"
-    },
-    {
-      "id": "4907352",
-      "time": "2026-05-29 21:00:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會批准西班牙最高90億歐元的國家援助，用於保障電力供應安全。"
-    },
-    {
-      "id": "mkt:019e73d2-7880-7eef-a0ee-e3ec52b7bb0f",
-      "time": "2026-05-29 21:00:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "European Commission approved up to €9 billion in Spanish state aid to secure electricity supply."
-    },
-    {
-      "id": "mkt:019e73d2-412d-7eef-a0ee-de7a15a9071a",
-      "time": "2026-05-29 21:00:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Night session opened: China's main domestic futures contracts were mostly lower. SC crude oil, Soybean No.1 and styrene (EB) fell over 1%; glass and Shanghai gold rose nearly 1%."
-    },
-    {
-      "id": "4907351",
-      "time": "2026-05-29 21:00:12",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【丹麥養老基金將SpaceX列入黑名單：治理狀況堪憂 估值嚴重過高】丹麥養老基金AkademikerPension已決定將SpaceX列入其“排除名單”，理由是對該公司的治理狀況存在擔憂。此時正值SpaceX籌備IPO，並尋求達到至少 1.8萬億美元的估值。據知情人士透露，該公司計劃籌集高達750億美元的資金，若取得成功，這將成為史上規模最大的IPO。AkademikerPension管理著約250億美元的資產，此前曾出於可持續性方面的考量，將特斯拉(TSLA.O)和美國國債列入排除名單。該基金表示，其迴避SpaceX的“首要原因”與ESG（環境、社會與治理）因素有關，“尤其是該公司在治理事務上表現得極其糟糕。”該養老基金還補充道：“話雖如此，如果我們評估認為SpaceX代表著一個極具吸引力的投資機會，那麼從投資回報的角度來看，我們就無法為這一決定提供正當理由。”“然而，作為長期投資者，我們的觀點是，該公司的估值也已嚴重過高。”"
-    },
-    {
-      "id": "mkt:019e73d2-2bff-7eef-a0ee-d38b0774d80a",
-      "time": "2026-05-29 21:00:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman to speak in ten minutes."
-    },
-    {
-      "id": "4907350",
-      "time": "2026-05-29 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】雞蛋連續漲2.66%，上海原油連續跌1.80%，尿素連續跌1.72%，集運指數歐線期貨連續漲1.63%，矽鐵連續跌1.55%。"
-    },
-    {
-      "id": "4907349",
-      "time": "2026-05-29 20:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩官方訊息人士表示，軍事代表團於昨天（星期四）在五角大樓與美國團隊舉行了準備會議。參與談判的軍事代表團由6名軍官組成，將提出改進停火監督委員會機制的方案。"
-    },
-    {
-      "id": "mkt:ab9e6749-067a-432e-9721-c948d1405d40",
-      "time": "2026-05-29 20:59:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Foreign Ministry spokeswoman Zakharova said all accusations of Russian involvement in the Romania drone incident are unfounded."
-    },
-    {
-      "id": "mkt:139ba6c2-a5b2-4cab-9d47-0e4031b73ecd",
-      "time": "2026-05-29 20:59:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Danish pension fund AkademikerPension blacklists SpaceX over governance, calls IPO valuation 'seriously overvalued'】AkademikerPension has added SpaceX to its exclusion list, citing governance-related ESG concerns. The decision comes as SpaceX readies an IPO targeting at least a $1.8 tln valuation and reportedly seeks to raise up to $75 bln, which would be the largest IPO on record if completed. AkademikerPension, with about $25 bln in AUM and a history of excluding Tesla (TSLA.O) and US Treasuries on sustainability grounds, said governance is its primary reason for avoidance and that, while it would consider investing if risk-adjusted returns justified it, the company's valuation is already \"seriously overvalued.\""
-    },
-    {
-      "id": "mkt:96b34cf4-3477-4271-83b5-6c299974bbcc",
-      "time": "2026-05-29 20:59:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited Lebanese officials saying a six-officer military delegation held a preparatory meeting with a US team at the Pentagon on Thursday and will propose measures to improve the ceasefire monitoring committee mechanism."
-    },
-    {
-      "id": "4907348",
-      "time": "2026-05-29 20:59:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航天員張洪章順利出艙】神舟二十二號載人飛船返回艙成功著陸。神舟二十一號航天員張洪章出艙。（央視新聞）"
-    },
-    {
-      "id": "4907347",
-      "time": "2026-05-29 20:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄外交部發言人：所有針對俄羅斯捲入羅馬尼亞無人機事件的指控都毫無根據。"
-    },
-    {
-      "id": "te:markets:554980",
-      "time": "2026-05-29 20:58:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Rise on Likely US-Iran Ceasefire Extension — Futures tracking the S&P/TSX Composite Index edged up on Friday as a deal to extend the US-Iran ceasefire renewed hopes for an end to the Middle East conflict, while investors also assessed GDP data. The US and Iran agreed on Thursday to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, although the deal still requires approval from US President Donald Trump. Oil prices retreated, pushing bond yields lower as energy-driven inflation concerns eased, supporting banks and the broader index amid reduced worries over higher borrowing costs. Meanwhile, Canadian GDP stalled in the first quarter of 2026, matching the 0.2% contraction recorded in the final quarter of 2025. The data reinforced expectations of a dovish Bank of Canada and added further downward pressure on bond yields. Gold prices also edged higher, supporting mining stocks."
-    },
-    {
-      "id": "em:qqyh_mlc:202605293754685184",
-      "time": "2026-05-29 20:58:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲鮑曼稱，剔除一次性因素後，通脹率略高於2%。"
-    },
-    {
-      "id": "4907345",
-      "time": "2026-05-29 20:58:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【土耳其證實該國一艘貨船在黑海遭無人機襲擊】當地時間5月29日，土耳其外交部發表宣告稱，28日晚，一艘土耳其所有、懸掛萬那杜國旗的幹散貨船，在從烏克蘭敖德薩港前往土耳其途中遭到無人機襲擊。襲擊導致船上兩名土耳其籍船員受輕傷。土耳其駐敖德薩總領事館目前正密切跟蹤受傷公民狀況。宣告強調，近期黑海局勢出現衝突升級態勢，給該地區帶來風險與威脅，並可能對土耳其產生負面影響。土方已在各個層面向相關各方表達關切，重申警告各方避免採取可能導致戰爭失控升級的舉措。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e73d0-c1f1-7992-a428-28f719ca98c6",
-      "time": "2026-05-29 20:58:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman said employment is more stable but still shows signs of fragility."
-    },
-    {
-      "id": "te:economy:554978",
-      "time": "2026-05-29 20:58:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Africa Trade Surplus Shrinks in April — South Africa's trade surplus narrowed to ZAR 15.2 billion in April 2026 from a downwardly revised ZAR 30.2 billion in the previous month, as a sharp rise in imports outpaced export growth. Imports soared 11.8% to ZAR 175 billion, largely due to a 76% jump in purchases of mineral products, alongside a 5% increase in machinery & electronics. Conversely, declines were seen for precious metals & stones (-21%); textiles (-17%) and original equipment components (-10%). Meanwhile, exports rose 1.8% to ZAR 191 billion, driven by a 30% surge in precious metals and stones, which offset weaker shipments of vegetable products (-15%), chemicals (-14%), mineral products (-5%) and transport equipment (-5%)."
-    },
-    {
-      "id": "mkt:019e73d0-1aae-7992-a428-21fda6b3ce2d",
-      "time": "2026-05-29 20:57:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Bowman supported retaining a dovish policy tilt in the April FOMC statement."
-    },
-    {
-      "id": "4907344",
-      "time": "2026-05-29 20:57:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：剔除一次性因素後，通脹率略高於2%。"
-    },
-    {
-      "id": "mkt:019e73cf-ca94-7882-80ff-1d5b7f862872",
-      "time": "2026-05-29 20:57:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "【Hong Kong insurance regulator says it will continue to crack down on improper cross‑border sales, maintains contact with Mainland China ministries】Hong Kong’s insurance regulator told investors it remains in close contact with Mainland China ministries on regulatory issues including illegal cross‑border sales. Under current rules, life insurance sales must be completed in Hong Kong and licensed Hong Kong insurance intermediaries are prohibited from soliciting business in the mainland. Principals (insurers, brokers or agencies) must implement effective internal controls to ensure intermediaries act lawfully. Since 2016, additional supervisory requirements obligate mainland purchasers to sign an Important Information Declaration, require all sales and policy documents to be signed in Hong Kong, and require insurers to collect supporting evidence (eg, entry records) proving the customer was physically in Hong Kong at application."
-    },
-    {
-      "id": "4907343",
-      "time": "2026-05-29 20:57:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界超級摩托車錦標賽阿拉貢站：“張雪機車”位列超級杆位賽第二名】在剛剛結束的2026世界超級摩托車錦標賽（WSBK）阿拉貢站WorldSSP組別比賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯位列超級杆位賽第二名。 （央視新聞）"
-    },
-    {
-      "id": "mkt:019e73cf-4c84-7882-80ff-1003faeb7d9e",
-      "time": "2026-05-29 20:57:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve Governor Bowman said the Fed was correct to keep a dovish tilt in its April 29 policy statement."
-    },
-    {
-      "id": "mkt:019e73cf-46ec-7882-80ff-08c4129af0a4",
-      "time": "2026-05-29 20:56:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fed governor Bowman said she is optimistic that an end to the war would ease energy prices."
-    },
-    {
-      "id": "mkt:019e73cf-468e-7882-80ff-0628a2ab3c99",
-      "time": "2026-05-29 20:56:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "WTI"
-      ],
-      "text": "Fed Governor BOWMAN said the longer the Middle East conflict persists, the greater the upside risk to inflation."
     }
   ]
 }
