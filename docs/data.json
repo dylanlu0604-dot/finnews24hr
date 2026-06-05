@@ -1,7 +1,188 @@
 {
-  "updated": "2026-06-05 20:52:48",
-  "count": 18665,
+  "updated": "2026-06-05 20:56:49",
+  "count": 18653,
   "items": [
+    {
+      "id": "4919864",
+      "time": "2026-06-05 20:56:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "加拿大兩年期國債收益率當日上行 10 個基點，報 2.90%。"
+    },
+    {
+      "id": "4919863",
+      "time": "2026-06-05 20:55:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱扎波羅熱核電站維修人員遭烏軍無人機襲擊】當地時間5日，俄羅斯國家原子能公司執行長利哈喬夫表示，一架無人機襲擊了正在扎波羅熱核電站進行恢復工作的俄羅斯國家原子能公司專家。據悉，3名工程師在扎波羅熱核電站進行恢復工作時遭到烏克蘭武裝部隊襲擊受傷，其中2人傷勢嚴重。利哈喬夫指出，此次襲擊是在停火制度生效期間發生的。他呼籲國際原子能機構關注烏克蘭方面違反扎波羅熱核電站停火制度的行為。當天稍早時，利哈喬夫曾表示，扎波羅熱核電站地區已開始實行臨時停火。烏方對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e97da-9ee7-7fff-a930-e1804150d753",
+      "time": "2026-06-05 20:55:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Several more NFP prints like this would make multiple rate hikes the baseline】Institutional analyst Jersey on US nonfarm payrolls: the labor market is hard to describe as anything but strong. For the interest-rate market, risks tilt toward further hikes and away from cuts. Kevin Walsh says he would find it difficult to persuade other FOMC members to lower rates. We do not expect an immediate hike, but if several more payroll prints like this occur, multiple rate hikes become our baseline scenario."
+    },
+    {
+      "id": "4919862",
+      "time": "2026-06-05 20:55:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4440美元/盎司，日內跌1.45%。"
+    },
+    {
+      "id": "mkt:019e97da-7ceb-7fff-a930-d884509bc80e",
+      "time": "2026-06-05 20:55:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 2-year Treasury yield rose to 4.147%, the highest level since Feb 2025."
+    },
+    {
+      "id": "4919861",
+      "time": "2026-06-05 20:54:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4420美元/盎司，日內跌1.24%。"
+    },
+    {
+      "id": "4919860",
+      "time": "2026-06-05 20:54:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世貿組織：中東衝突與能源高價壓力下 商品貿易保持韌性】世界貿易組織5日釋出的《貨物貿易晴雨表》顯示，儘管中東衝突持續及能源價格高企對貿易構成壓力，2026年上半年全球商品貿易仍保持韌性。當前晴雨表指數為101.7，高於基準值100，表明貿易量仍處於趨勢水平之上。資料顯示，與人工智慧投資相關的電子元件需求強勁增長，電子元件指數升至105.5，成為支撐貿易的重要動力。與此同時，空運和集裝箱運輸指數均保持擴張態勢。世貿組織預計，在基準情景下，2026年全球商品貿易增長1.9%；若高能源價格持續，增速或降至1.4%，而人工智慧投資有望額外推動增長0.5個百分點。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e97d9-5857-7fff-a930-d2a232b976a3",
+      "time": "2026-06-05 20:54:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 2-year Treasury yield rose 10bp intraday to a year-to-date high."
+    },
+    {
+      "id": "te:markets:556915",
+      "time": "2026-06-05 20:54:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Tumbles Toward 4% Weekly Loss — Silver prices fell to $72 per ounce on Friday, heading for a weekly decline of over 4%, as a stronger-than-expected US jobs report and ongoing Middle East uncertainty kept inflation and interest rate concerns in focus. The May jobs report showed the US economy added 172,000 jobs, far exceeding the forecasted 85,000, while the unemployment rate remained at 4.3% and annual wage growth eased to 3.4%, matching expectations. This led investors to bet on a Federal Reserve interest rate hike, with markets pricing in a quarter-point increase by year-end. Investors also tracked Middle East developments, where US President Donald Trump said peace negotiations were nearing their final stage. However, Iran’s Foreign Minister dismissed any meaningful progress, and Iran-backed Hezbollah rejected a US-mediated ceasefire proposal."
+    },
+    {
+      "id": "mkt:019e97d9-2ab0-7fff-a930-cdfe2a1914a8",
+      "time": "2026-06-05 20:54:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Monthly withdrawals, wider uses for centrally managed housing provident fund】On June 5 the Central State Organs Housing Provident Fund Management Center issued a notice expanding withdrawal and use rules. Employees buying owner-occupied housing may withdraw monthly. Withdrawals are prioritized for purchases of first ordinary homes and second upgraded homes; purchases of a third or subsequent property are also eligible to apply for withdrawals. Employees buying owner-occupied housing in the province of their non-Beijing household registration (or ancestral home) may apply to withdraw. From June 5, 2026, amounts previously withdrawn for rent can, when applying for a housing provident fund personal loan, be merged and counted toward the provident fund account balance."
+    },
+    {
+      "id": "4919859",
+      "time": "2026-06-05 20:53:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率日內上漲10個基點，至2026年到期國債收益率高位。"
+    },
+    {
+      "id": "mkt:019e97d8-c70d-7fff-a930-c7a89db9dc2f",
+      "time": "2026-06-05 20:53:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【CNBC: US May job gains broadened】CNBC reports BLS data Friday showed US May payroll gains unexpectedly strong as the labor market continued to expand, with job growth broadening across sectors. Leisure & hospitality added 70,000 jobs versus a past-year monthly average of 14,000, the largest increase; local government payrolls rose by 55,000. Healthcare added 35,000 jobs, roughly in line with historical averages; social assistance added 12,000. Fed officials have grown more upbeat on the labor market and are shifting focus toward persistent inf; sustained inf pressure has largely ruled out further Fed rate cuts."
+    },
+    {
+      "id": "mkt:019e97d8-ba23-7fff-a930-b8863069527d",
+      "time": "2026-06-05 20:53:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell $50 intraday to $4,425.52/oz, down 1.12% on the day. New York gold futures touched $4,450/oz, down 1.23% intraday."
+    },
+    {
+      "id": "4919858",
+      "time": "2026-06-05 20:53:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【可按月提取、擴大使用範圍，國管公積金提取有兩大變化】6月5日，中央國家機關住房資金管理中心釋出關於最佳化中央國家機關住房公積金提取使用政策的通知。具體內容如下：\n\n為貫徹落實黨中央、國務院關於推動房地產高質量發展的決策部署，樹立和踐行正確政績觀，積極推進“高效辦成一件事”，助力職工解決剛性和改善性住房需求，現就最佳化中央國家機關住房公積金提取使用政策通知如下：\n\n一、最佳化住房公積金提取頻次\n\n職工購買自住住房的，可按月提取住房公積金。基於各類購房提取情形，職工自主確定提取頻次，透過中央國家機關住房資金管理中心（以下簡稱資金中心）網上業務大廳、微信公眾號自助辦理。確有需要的，可到經辦銀行網點辦理。\n\n二、擴大住房公積金使用範圍\n\n重點支援提取住房公積金用於首套普通住房和第二套改善型住房消費。購買第3套及以上住房的，可申請提取住房公積金。\n在北京市外的戶籍地（或原籍）所在省（自治區、直轄市）購買自住住房的，可申請提取住房公積金。\n2026年6月5日後，因租房提取住房公積金的，在申請住房公積金個人住房貸款時，提取資金金額可合併計入住房公積金賬戶餘額。\n三、加強住房公積金信用管理\n\n職工提取使用住房公積金，應當嚴格遵守告知承諾制。對於違規提取行為，一經發現，將被計入住房公積金信用記錄，相關職工和單位的住房公積金權益將在規定期限內受到限制。"
+    },
+    {
+      "id": "mkt:019e97d8-3ac0-7fff-a930-b1e095674f97",
+      "time": "2026-06-05 20:53:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkey's major banks index fell 3%."
+    },
+    {
+      "id": "4919857",
+      "time": "2026-06-05 20:52:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4450美元/盎司，日內跌1.25%。"
+    },
+    {
+      "id": "4919856",
+      "time": "2026-06-05 20:52:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛施德：補繳稅款及滯納金合計3.08億元】愛施德(002416)6月5日公告，公司近期依據國家稅收法律法規的要求，對涉稅事項開展自查。經自查，公司需補繳企業所得稅稅款及滯納金合計3.08億元。截至本公告披露日，上述稅款及滯納金已全部繳納完畢，本次補繳稅款事項不涉及行政處罰。本次補繳稅款事項不會影響公司的正常經營。"
+    },
     {
       "id": "mkt:019e97d7-1dac-7fff-a930-aa34c9dd0b57",
       "time": "2026-06-05 20:51:56",
@@ -171609,311 +171790,6 @@
         "WTI"
       ],
       "text": "Fed Governor BOWMAN said the longer the Middle East conflict persists, the greater the upside risk to inflation."
-    },
-    {
-      "id": "mkt:019e73cf-3c1c-7882-80fe-f8352ea24e48",
-      "time": "2026-05-29 20:56:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Bowman said a sustained energy shock will put upward pressure on inflation later this year."
-    },
-    {
-      "id": "4907342",
-      "time": "2026-05-29 20:56:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【利通電子：股票交易嚴重異常波動 提示多項風險】利通電子公告稱，4月14日至5月29日連續30個交易日內，公司股票收盤價格漲幅偏離值累計達200%，屬嚴重異常波動，且多次觸及異常波動情形。經自查，公司經營正常，無應披露未披露重大資訊，暫無“token分成”業務實施計劃。部分董高減持計劃正進行中，117.90萬股股權激勵限售股已上市流通。公司提示算力業務、業績增速下滑、資產負債率較高及股價脫離基本面等風險，提醒投資者注意交易風險。"
-    },
-    {
-      "id": "mkt:019e73ce-ec07-7992-a428-18b4f24e2db4",
-      "time": "2026-05-29 20:56:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman said she hopes for a clearer read on the economic impact of the war."
-    },
-    {
-      "id": "mkt:019e73ce-c8c1-7992-a428-17f54a375f0e",
-      "time": "2026-05-29 20:56:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Fed Governor Bowman said responding to a temporary energy shock could drag on the economy."
-    },
-    {
-      "id": "4907341",
-      "time": "2026-05-29 20:56:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：美聯儲在4月29日政策宣告中維持寬鬆傾向是正確之舉。"
-    },
-    {
-      "id": "4907340",
-      "time": "2026-05-29 20:56:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：降通脹程序已陷入停滯。"
-    },
-    {
-      "id": "mkt:019e73ce-a471-7882-80fe-e579706c22e2",
-      "time": "2026-05-29 20:56:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman said it is still too early to assess the economic impact of the Middle East war."
-    },
-    {
-      "id": "4907339",
-      "time": "2026-05-29 20:56:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：美國經濟在就業市場脆弱的背景下仍保持韌性。"
-    },
-    {
-      "id": "mkt:019e73ce-8dd8-7882-80fe-daec2a722571",
-      "time": "2026-05-29 20:56:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Federal Reserve Governor Bowman said the US economy remains resilient despite a fragile labor market."
-    },
-    {
-      "id": "4907338",
-      "time": "2026-05-29 20:56:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：中東戰爭持續時間越久，通脹面臨的風險就越大。"
-    },
-    {
-      "id": "4907337",
-      "time": "2026-05-29 20:56:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：能源衝擊持續將在今年晚些時候推高通脹壓力。"
-    },
-    {
-      "id": "mkt:019e73ce-8be3-7992-a428-02f9a7193959",
-      "time": "2026-05-29 20:56:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed governor Bowman said progress in reducing inflation has stalled."
-    },
-    {
-      "id": "mkt:019e73ce-6f5f-7992-a427-f9a04126281c",
-      "time": "2026-05-29 20:56:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Governor Bowman said the Fed's current \"moderately tight\" policy aims to boost employment and reduce inflation."
-    },
-    {
-      "id": "em:qqyh_mlc:202605293754684956",
-      "time": "2026-05-29 20:56:06",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲鮑曼在4月份的FOMC宣告中支援維持寬鬆政策傾向。"
-    },
-    {
-      "id": "mkt:019e73ce-596a-7882-80fe-ce37e958d2e1",
-      "time": "2026-05-29 20:56:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Governor Bowman said she would consider adjusting the Fed's policy outlook if war-driven inflation were to broaden."
-    },
-    {
-      "id": "4907336",
-      "time": "2026-05-29 20:56:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事鮑曼：對暫時效能源衝擊做出應對可能拖累經濟。"
-    },
-    {
-      "id": "4907335",
-      "time": "2026-05-29 20:55:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事鮑曼表示，她對俄烏戰爭結束將緩解能源價格持樂觀態度。"
-    },
-    {
-      "id": "4907334",
-      "time": "2026-05-29 20:55:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：目前判斷中東戰爭對經濟的影響仍為時過早。"
-    },
-    {
-      "id": "mkt:019e73ce-088b-7992-a427-f0a871fe63f1",
-      "time": "2026-05-29 20:55:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed Governor Bowman said the Fed can look through energy shocks if it maintains credibility in monetary policy."
-    },
-    {
-      "id": "4907333",
-      "time": "2026-05-29 20:55:37",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲理事鮑曼：美聯儲如果在貨幣政策上保持可信度，可以忽視能源衝擊。"
-    },
-    {
-      "id": "4907332",
-      "time": "2026-05-29 20:55:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事鮑曼表示，如果通脹受戰爭推動進一步擴大，她將考慮調整政策展望。"
-    },
-    {
-      "id": "4907331",
-      "time": "2026-05-29 20:54:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【香港保監局回應跨境投保：繼續打擊市場不當行為 和內地相關部委一直保持溝通】近日，中國證監會針對非法跨境證券期貨基金業務活動的整治行動受到廣泛關注，也引發部分中國內地投保人對購買香港保險合規性的擔憂。市場上也不乏關於“跨境保險會否成為下一個更嚴監管及整治領域”的討論。針對內地居民購買港險合規性問題，香港保險業監管局於5月29日獨家回覆記者稱，香港保監局和內地相關部委一直保持密切聯絡，就包括違規跨境銷售在內的監管議題進行溝通。在現行法規下，香港人壽保險的整個銷售流程必須在香港境內進行，而香港的持牌保險中介人亦不得在內地招攬保險業務。主事人（即保險公司、保險經紀公司或保險代理機構）有責任制定和實施有效的內部管控程式，以確保中介人合法合規地進行受規管活動。上述回覆提到，就內地人士來港投保事宜，香港保監局自2016年起已實施額外監管要求，特別規定內地人士來港投保時須另行簽署一份“重要資料宣告”，以確保保單的整個銷售過程必須在香港境內進行，且所有投保檔案亦必須在香港境內簽署。除此之外，保險公司亦須收集相關佐證檔案（例如入境檔案記錄等），以證明該內地客戶在投保時確實身處香港。 (第一財經)"
-    },
-    {
-      "id": "4907329",
-      "time": "2026-05-29 20:54:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱撒旅業：海航旅遊及其一致行動人持股比例增加至11.30% 觸及1%的整數倍】凱撒旅業公告，公司持股5%以上股東海航旅遊集團有限公司及其一致行動人易生金服控股集團有限公司、易生支付有限公司、天津易生小額貸款有限公司累計受償公司股份589.84萬股，佔公司總股本的0.37%。變動後，海航旅遊及其一致行動人持有公司股份佔公司已發行股份的比例由10.93%增加至11.30%，變動觸及1%的整數倍。"
-    },
-    {
-      "id": "4907328",
-      "time": "2026-05-29 20:54:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗議長稱靠導彈爭取權利】伊朗伊斯蘭議會議長卡利巴夫今天（5月29日）在社交媒體平臺發文指出，伊朗“不是靠乞求，而是靠導彈來爭取權利；在談判桌上，我們只是在向他們（ 美國）闡明這一點”。卡利巴夫說，伊朗“對（美國的）保證和空話毫不信任”，認為“唯有其行動才是衡量標準”，“在對方採取行動之前，我們絕不會採取行動”。卡利巴夫還強調，“任何協議的贏家，都是那個為協議達成後的第二天做好了更好備戰準備的一方。”（CCTV國際時訊）"
-    },
-    {
-      "id": "4907327",
-      "time": "2026-05-29 20:54:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "神舟二十一號航天員武飛已經出艙。他是我國目前執行過飛行任務的最年輕航天員。（新華社）"
-    },
-    {
-      "id": "4907326",
-      "time": "2026-05-29 20:53:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【標普500指數出現“雙西格瑪”級別漲幅 未來恐難賺“快錢”】標普500指數已重返歷史新高，但毫無疑問，華爾街過去兩個月那波令人驚歎的凌厲漲勢已顯著放緩。該基準指數在短短41個交易日內，便從3月份的低點飆升了超過19%。DataTrek Research的分析師將此輪反彈形容為已逼近“雙西格瑪”（two sigma）級別的漲幅，這意味著其漲幅已偏離任意100天平均回報率的兩個標準差。這可能預示著眼下的“快錢”已經賺完；投資者應做好準備，迎接美國夏季期間市場更為緩慢的震盪上行——甚至可能是區間震盪的行情。DataTrek公司的分析師Jessica Rabe在一份報告中寫道：“歷史經驗表明，標普指數可能將在此處進入盤整期，其上漲步伐預計將大幅放緩。”"
-    },
-    {
-      "id": "4907325",
-      "time": "2026-05-29 20:53:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬隆光電：釋出重組草案，擬以23.25億元收購中控資訊100%股份】萬隆光電公告，公司擬透過發行股份及支付現金方式購買杭州匯格企業管理合夥企業（有限合夥）、浙江正泰電器股份有限公司等17名交易對方合計持有的浙江中控資訊產業股份有限公司100%股份，交易價格為23.25億元。同時，公司擬向實際控制人付小銅先生髮行股份募集配套資金。本次交易構成關聯交易，且構成《重組管理辦法》第十二條規定的重大資產重組，但不構成重組上市。"
-    },
-    {
-      "id": "4907324",
-      "time": "2026-05-29 20:53:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《網際網路資訊內容多渠道分發服務管理規定》答記者問】四、問：《規定》對設立執行網際網路資訊內容多渠道分發服務提出了哪些要求？答：《規定》對設立執行網際網路資訊內容多渠道分發服務提出了明確要求。一是規定網際網路資訊內容多渠道分發服務機構應當依法辦理經營主體登記，並依法取得相應行政許可；應當設立資訊內容管理負責人，配備相應的內容管理團隊並制定相關規則。二是明確平臺資訊服務提供者應當及時與透過本平臺提供網際網路資訊內容多渠道分發服務的機構簽訂入駐協議，依法依約進行核驗，並將入駐情況報所在地省級網信部門備案。三是要求平臺資訊服務提供者根據法律、行政法規和國家有關規定，在平臺規則中明確網際網路資訊內容多渠道分發服務規範，建立分類分級管理制度，並採取相應管理措施防範資訊保安風險。四是規定平臺資訊服務提供者應當要求機構註冊後臺管理賬號，加強對簽約網際網路使用者公眾賬號的管理，以顯著方式展示簽約網際網路使用者公眾賬號所屬網際網路資訊內容多渠道分發服務機構名稱，並依法依約加強對機構服務活動的規範。五是要求網際網路資訊內容多渠道分發服務機構與網際網路使用者公眾賬號生產運營者簽訂服務協議時依法核實其身份；為網際網路使用者公眾賬號生產運營者提供製作、複製、釋出、傳播網際網路資訊內容相關服務的，還應當在服務協議中明確網際網路資訊內容管理責任，並依法依約履行資訊保安管理義務。六是明確平臺資訊服務提供者應當建立相關投訴、舉報通道並及時受理、處理。（中國網信辦）"
-    },
-    {
-      "id": "mkt:019e73cc-06b2-7882-80fe-c51a42638dc2",
-      "time": "2026-05-29 20:53:31",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【S&P 500 posts \"two-sigma\" rally; quick money may be exhausted】S&P 500 has returned to record highs after a >19% surge in 41 trading days from the March low, but the pace of gains has materially slowed, DataTrek Research says. DataTrek describes the rebound as approaching a two-sigma move—about two standard deviations above any 100‑day average return—which could indicate momentum-driven \"quick money\" is largely spent. The firm warns investors to prepare for a slower, choppier US summer, with consolidation or range-bound trading likely, Jessica Rabe wrote."
     }
   ]
 }
