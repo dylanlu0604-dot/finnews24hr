@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-06 02:27:32",
-  "count": 18808,
+  "updated": "2026-06-06 02:31:15",
+  "count": 18813,
   "items": [
+    {
+      "id": "4920285",
+      "time": "2026-06-06 02:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：國防部、國家情報總監辦公室以及下設情報機構的各部門負責人須在 120 天內審議並修訂採購流程，確保可接入多家供應商提供的人工智慧模型。"
+    },
+    {
+      "id": "mkt:019e990d-41d3-7665-830c-01c1f1780780",
+      "time": "2026-06-06 02:30:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 2.49% at 947.77 yuan/gram in the evening session on June 5 (Friday). Shanghai Gold Exchange silver T+D closed down 6.49% at 16,420 yuan/kg."
+    },
+    {
+      "id": "mkt:019e990d-05fa-7665-830b-fc650f7f62f5",
+      "time": "2026-06-06 02:30:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "US stocks extended losses: Nasdaq down 3.6%, S&P 500 down 2.16%, Dow Jones Industrial Average down 1.0%."
+    },
+    {
+      "id": "mkt:019e990c-ee27-7665-830b-f366e062cdde",
+      "time": "2026-06-06 02:30:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "White House: President Trump signed a directive on developing AI capabilities for national security."
+    },
+    {
+      "id": "te:markets:557002",
+      "time": "2026-06-06 02:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Sinks by 11.55% — Top crypto losers are Ether (-11.55%), Binance (-5.79%) and Bitcoin (-5.70%)."
+    },
+    {
+      "id": "4920284",
+      "time": "2026-06-06 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.86%，報584.10元人民幣/桶。滬金夜盤收跌2.93%，滬銀收跌7.43%。"
+    },
+    {
+      "id": "4920283",
+      "time": "2026-06-06 02:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios： 美國要求核領域專家待命，以備伊核相關談判啟動。 美國官員表示，田納西州的會面並不代表相關協議即將落地。"
+    },
+    {
+      "id": "4920282",
+      "time": "2026-06-06 02:28:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：美國將在 90 日內釋出武器系統自主化相關指令的修訂檔案。"
+    },
     {
       "id": "4920281",
       "time": "2026-06-06 02:26:21",
@@ -173217,37 +173297,6 @@
         "市場"
       ],
       "text": "WTI 7月原油期貨收跌1.54美元，跌幅1.73%，報87.36美元/桶。NYMEX 6月天然氣期貨收報3.29美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.1267美元/加侖，NYMEX 6月取暖油期貨收報3.5373美元/加侖。"
-    },
-    {
-      "id": "mkt:019e7501-03f6-7bb7-9965-491ab2f54c1c",
-      "time": "2026-05-30 02:31:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $87.36 a barrel, down $1.54, or 1.73%."
-    },
-    {
-      "id": "4907692",
-      "time": "2026-05-30 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.61%，報580.30元人民幣/桶。滬金夜盤收漲1.61%，滬銀收漲0.64%。"
-    },
-    {
-      "id": "mkt:019e74ff-4265-7bb7-9965-4639ff06cf92",
-      "time": "2026-05-30 02:29:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Interior Secretary Bergum said the oil market can trust President Trump will strike a great deal."
     }
   ]
 }
