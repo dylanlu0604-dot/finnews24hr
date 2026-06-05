@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-05 15:28:40",
-  "count": 18913,
+  "updated": "2026-06-05 15:32:37",
+  "count": 18909,
   "items": [
+    {
+      "id": "te:markets:556800",
+      "time": "2026-06-05 15:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.18% Lower — The FTSE 100 Index is dropping 18 points. Leading the losses are Prudential (-2.26%), Halma (-2.09%) and Scottish Mortgage (-1.95%). Top gainers were J Sainsbury (2.10%), Smith & Nephew (1.52%) and Land Securities (1.36%)."
+    },
+    {
+      "id": "4918999",
+      "time": "2026-06-05 15:31:46",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "鴻海5月銷售額8,594億元新臺幣，同比增長36%。"
+    },
+    {
+      "id": "mkt:019e96b1-a3f9-711f-98a8-62b988999851",
+      "time": "2026-06-05 15:31:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude down 1.00% intraday at $93.54 per barrel; Brent crude down 0.86% at $93.55 per barrel."
+    },
+    {
+      "id": "te:markets:556798",
+      "time": "2026-06-05 15:31:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.56% Lower — The DAX Index is losing 139 points. Losses were led by Infineon (-4.77%), Siemens (-1.10%) and Siemens Energy (-0.89%). Offsetting the fall, top gainers were Scout24 (2.01%), Hannover Rueck (1.07%) and Symrise (1.06%)."
+    },
+    {
+      "id": "mkt:019e96b0-ef18-711f-98a8-5c3e621cb2f6",
+      "time": "2026-06-05 15:30:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Broadcom results trigger AI exuberance warning; U.S. nonfarm payrolls could prompt trimming of AI bets】Emerging-market assets fell for a third straight session, led by South Korea after Broadcom reported AI-chip sales that missed overheated expectations. The MSCI Emerging Markets index dropped 1.7% to 1,728.66; the KOSPI plunged as much as 7% intraday on Friday. Samsung Electronics and SK Hynix were among the heaviest decliners; the two account for more than half of KOSPI market value. After two weeks of gains, EM equities and currencies look set to post a weekly loss. Saxo Markets strategist Charu Chanana said Broadcom is a trigger that exposed oversized AI expectations and warned small disappointments can prompt sharp re‑ratings; a stronger-than-expected U.S. nonfarm payrolls print could provide another pretext for investors to trim AI positions."
+    },
+    {
+      "id": "4918998",
+      "time": "2026-06-05 15:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林省人民防空辦公室原黨組書記王湧慧接受審查調查】中央紀委國家監委網站6月5日通報，據吉林省紀委監委訊息：吉林省人民防空辦公室原黨組書記、主任王湧慧涉嫌嚴重違紀違法，目前正接受吉林省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019e96b0-d74b-711f-98a8-55d23b190f2a",
+      "time": "2026-06-05 15:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed down 0.02% at 974.3 yuan/gram on Friday, June 5; Silver T+D closed down 1.25% at 17,520 yuan/kg."
+    },
+    {
+      "id": "4918997",
+      "time": "2026-06-05 15:30:28",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【印度尼西亞對中國武鋼集團有限公司熱軋板卷徵收臨時反傾銷稅】近日，印尼財政部發布2026年第32號公告，決定對武漢鋼鐵有限公司生產的鐵或非合金鋼熱軋板卷徵收17.50%臨時反傾銷稅。措施自公告發布5日後生效，有效期為6個月。"
+    },
+    {
+      "id": "4918996",
+      "time": "2026-06-05 15:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【普惠加拿大與北京探索者航空簽署PT6A發動機採購總協議】6月5日，據普拉特惠特尼訊息，普惠加拿大與北京探索者航空於近日簽署PT6A發動機採購總協議，將為其天行者YM-16單發渦槳飛機提供動力。普惠介紹，目前中國有約450臺PT6A發動機在役，用於多種通航渦槳飛機，包括賽斯納大篷車、達荷大棕熊100以及皮拉圖斯PC-12飛機等。"
+    },
+    {
+      "id": "mkt:019e96b0-99a8-711f-98a8-4bd0ecea8055",
+      "time": "2026-06-05 15:30:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【HKMA forms tokenized-bond expert group to advance application and scaling in Hong Kong】The Hong Kong Monetary Authority said it has established an expert group of industry association representatives, financial institutions, law firms, financial market infrastructure and technology providers to advance the application and scaling of tokenized bonds in Hong Kong. Building on the HKMA’s prior tokenized-bond work, the group will examine policy measures, market practices and innovation to support market development."
+    },
+    {
+      "id": "te:markets:556797",
+      "time": "2026-06-05 15:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens Unchanged — The CAC 40 Index is up by 0.4 points or 0.00 percent on Friday. Top gainers are Pernod Ricard (1.82%), Kering (1.22%) and Carrefour (1.12%). Biggest losses came from ArcelorMittal (-2.74%), Schneider Electric (-2.43%) and STMicroelectronics (-2.39%)."
+    },
+    {
+      "id": "4918995",
+      "time": "2026-06-05 15:29:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報92.10美元/桶。"
+    },
+    {
+      "id": "4918994",
+      "time": "2026-06-05 15:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦儲蓄銀行行長格列夫：全球油價大機率將維持高位至今年年底。"
+    },
+    {
+      "id": "mkt:019e96af-1b3e-711f-98a8-402ec9aca611",
+      "time": "2026-06-05 15:28:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty Metal index fell 1.8%."
+    },
+    {
+      "id": "4918993",
+      "time": "2026-06-05 15:28:17",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【嘉美包裝跌停，俞浩手機關機】6月5日，嘉美包裝（002969.SZ）收報16.79元/股，下跌9.97%。該公司股票在披露控股權變更完成的公告後復牌，開盤大漲7%，收盤跌停。前一日晚間，該公司釋出公告，蘇州逐越鴻智科技發展合夥企業（有限合夥）發起的部分要約收購已完成全部股份清算過戶手續，持股比例升至45.01%，正式成為公司控股股東，逐越鴻智於2025年9月註冊設立，實際控制人為追覓科技創始人俞浩。今日，俞浩微博顯示被禁言。市場訊息稱，某市轄區正在要求統計轄區內企業與追覓科技已開展合作的情況，包括但不限於：合作專案、總體規模、資金投入、財政及國資投入情況、目前經營情況等。該地方人士回應媒體稱，系市裡統一部署，其所在區域初排下來沒有相關的情況。第一財經電話聯絡俞浩，提示已關機；追覓公關人士對相關問題未予回覆；常州市發改委工業處回覆稱對於網傳排查訊息“不瞭解情況”。（第一財經）"
+    },
+    {
+      "id": "4918992",
+      "time": "2026-06-05 15:28:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神馬電力成立複合新材料公司】企查查APP顯示，近日，江蘇神馬複合新材料有限公司成立，註冊資本4000萬元，經營範圍包含：新材料技術研發；輸配電及控制裝置製造；智慧輸配電及控制裝置銷售；機械電氣裝置銷售等。企查查股權穿透顯示，該公司由神馬電力全資持股。"
+    },
+    {
+      "id": "4918991",
+      "time": "2026-06-05 15:28:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯聯邦儲蓄銀行行長格列夫：預計年底盧布兌美元匯率將在84-85比1區間。"
+    },
     {
       "id": "4918990",
       "time": "2026-06-05 15:27:52",
@@ -174049,210 +174225,6 @@
         "宏觀"
       ],
       "text": "【文旅部等7部門：支援有條件的地方完善多語種導覽、離境退稅等入境旅遊服務】文化和旅遊部辦公廳、中央宣傳部辦公廳、工業和資訊化部辦公廳、教育部辦公廳、國務院國資委辦公廳、國家文物局辦公室、全國總工會辦公廳釋出《關於弘揚工業文化 保護工業遺產 發展工業旅遊的通知》。其中提到，提升工業旅遊服務品質。加強工業旅遊專業導遊、講解員培養，全面提升導覽講解的業務水平和接待能力。推動工業旅遊標準化、規範化發展。推動工業旅遊場所設施適旅化升級。鼓勵有條件的工業企業合理規劃遊覽空間和線路，豐富實景觀摩、實操體驗和數字模擬等遊覽內容。突出旅遊配套設施實用性，因地制宜設定解說標識、文創購物、衛生餐飲和停車充電等配套設施。加強工業旅遊點與城市公共交通網路銜接，完善交通接駁場站、旅遊專線車、停車場等服務保障。支援有條件的地方完善多語種導覽、離境退稅等入境旅遊服務。"
-    },
-    {
-      "id": "mkt:019e72a6-2839-7aa7-a783-231613f9e23f",
-      "time": "2026-05-29 15:32:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Sweden's Riksbank said in its Financial Stability Report that a prolonged war raises the risk of simultaneous rises in inf and interest rates while the economy weakens."
-    },
-    {
-      "id": "4906448",
-      "time": "2026-05-29 15:32:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行金融穩定報告：逆週期緩衝資本率維持不變，保持在2%的正向中性水平。"
-    },
-    {
-      "id": "te:markets:554825",
-      "time": "2026-05-29 15:32:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.09% Higher — The FTSE 100 Index is gaining 10 points or 0.09 percent on Friday. Leading the gains are Endeavour (1.70%), Unite Group (1.66%) and Rolls-Royce (1.61%). Top losers are B&M European Value (-2.51%), British American Tobacco (-1.81%) and Pearson (-1.49%)."
-    },
-    {
-      "id": "mkt:019e72a5-cddc-7aa7-a783-1997f78e737b",
-      "time": "2026-05-29 15:32:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Seven departments promote factory tours, urge aerospace, shipbuilding, auto and robotics makers to open sites】Seven departments including the Ministry of Culture and Tourism issued guidance to develop industrial tourism and industrial heritage sites, explicitly promoting factory tours. The notice encourages aerospace, shipbuilding, automotive, robotics and other equipment manufacturers, plus textile/apparel, arts & crafts, food processing and e-commerce logistics firms, to innovate visitor offerings—production-process viewing, simulated operations, hands-on experiences, product customization and themed visitor factories—provided production safety and confidentiality requirements are met. It also calls to expand smart industrial tourism by deploying BeiDou, AI, ultra‑HD video, virtual reality, autonomous driving and other digital technologies to create immersive, intelligent visitor experiences."
-    },
-    {
-      "id": "mkt:019e72a5-936b-7aa7-a783-16c9c18e8319",
-      "time": "2026-05-29 15:31:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Riksbank financial stability report says Middle East war poses a risk to financial stability."
-    },
-    {
-      "id": "4906447",
-      "time": "2026-05-29 15:31:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "初步計劃顯示，7月份奈及利亞四種主要原油品級的出口量預計平均為84.7萬桶/日，而6月份為82.7萬桶/日。"
-    },
-    {
-      "id": "4906446",
-      "time": "2026-05-29 15:31:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行金融穩定報告：金融體系執行良好，但不確定性高企。"
-    },
-    {
-      "id": "4906445",
-      "time": "2026-05-29 15:31:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：截至5月22日泰國淨遠期頭寸為223億美元，截至5月15日為221億美元。"
-    },
-    {
-      "id": "4906444",
-      "time": "2026-05-29 15:31:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行金融穩定報告：瑞典初始態勢向好，但銀行體系存在結構性風險。"
-    },
-    {
-      "id": "4906443",
-      "time": "2026-05-29 15:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：嚴正告誡日本右翼勢力傾聽正義呼聲】5月28日至29日，上海交通大學與侵華日軍南京大屠殺遇難同胞紀念館舉辦紀念東京審判開庭80週年國際研討會。對此，外交部發言人毛寧29日在例行記者會上答問時表示，東京審判審的是人類良知，判的是歷史公正。面對當前日本“新型軍國主義”成勢為患，重溫東京審判的背景結論和原則更具現實意義。“我們願同全世界愛好和平的國家和人民一道，堅決抵制任何企圖為侵略翻案的行徑，嚴正告誡日本右翼勢力傾聽正義呼聲，不要在‘新型軍國主義’的窮途末路上狂奔。殷鑑不遠，破壞和平，挑戰公理良知，必將再次遭到歷史的清算和正義的審判。”（新華社）"
-    },
-    {
-      "id": "te:markets:554824",
-      "time": "2026-05-29 15:31:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.13% Lower — The DAX Index is losing 33 points. Losses were led by Siemens Energy (-2.36%), Bayer (-0.85%) and Deutsche Boerse (-0.60%). Offsetting the fall, top gainers were Zalando (2.68%), Airbus (2.01%) and Deutsche Bank (1.35%)."
-    },
-    {
-      "id": "4906442",
-      "time": "2026-05-29 15:31:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行金融穩定報告：戰爭持續時間越久，通脹、利率上升與經濟走弱同時發生的風險就越大。"
-    },
-    {
-      "id": "mkt:019e72a4-cb4b-7aa7-a783-09c369715f86",
-      "time": "2026-05-29 15:31:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Preliminary schedules indicate Nigeria's exports of its four main crude grades are projected to average 847,000 b/d in July, up from 827,000 b/d in June."
-    },
-    {
-      "id": "4906441",
-      "time": "2026-05-29 15:30:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "瑞典央行金融穩定報告：中東局勢衝突給金融穩定帶來風險。"
-    },
-    {
-      "id": "4906440",
-      "time": "2026-05-29 15:30:48",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【文旅部等7部門：大力發展“工廠遊” 鼓勵航空航天、船舶、汽車、機器人等裝備製造】文化和旅遊部辦公廳、中央宣傳部辦公廳、工業和資訊化部辦公廳、教育部辦公廳、國務院國資委辦公廳、國家文物局辦公室、全國總工會辦公廳釋出《關於弘揚工業文化 保護工業遺產 發展工業旅遊的通知》。其中提到，豐富工業旅遊產品供給。積極發展工業遺產遊，鼓勵以創意設計、業態植入、風貌改造等方式活化利用工業遺址，發展工業旅遊新場景新業態新模式。大力發展“工廠遊”，鼓勵航空航天、船舶、汽車、機器人等裝備製造，紡織服裝、工藝美術、食品加工等消費品工業，電商物流等領域企業在確保安全生產和保密要求前提下，創新推出生產流程觀摩、模擬操作、手作體驗、產品定製等專案，打造主題鮮明的觀光工廠。有序拓展工業智慧遊，支援運用北斗、人工智慧、超高畫質影片、虛擬現實、自動駕駛等數字技術和裝置，打造沉浸式、智慧化工業旅遊體驗。支援工業旅遊場所發展主題商業、沉浸式體驗、特色市集等業態，打造“工業旅遊+”消費場景。鼓勵各地推出一批具有地域和行業特色的優質工業旅遊線路和品牌。鼓勵工業企業透過工業旅遊加強產品宣傳，擴大產品銷售，做強企業品牌。"
-    },
-    {
-      "id": "mkt:019e72a4-1c5b-7aa7-a783-0461e0e227e3",
-      "time": "2026-05-29 15:30:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【China responds to reports of Canadian warship in Taiwan Strait】Asked about reports that a Canadian warship had been dispatched to the Taiwan Strait, CHINA said it respects states' navigation rights under international law but firmly opposes any country invoking freedom of navigation to undermine China’s sovereignty and security."
-    },
-    {
-      "id": "te:markets:554823",
-      "time": "2026-05-29 15:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.58% Higher — The CAC 40 Index is up by 48 points or 0.58 percent on Friday. Top gainers are Airbus (2.04%), Societe Generale (1.61%) and Safran (1.52%). Biggest losses came from Capgemini (-0.40%), ENGIE (-0.19%) and STMicroelectronics (-0.15%)."
-    },
-    {
-      "id": "4906439",
-      "time": "2026-05-29 15:29:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部回應加拿大軍艦派至臺灣海峽】今日，外交部發言人毛寧主持例行記者會。有記者問：有報道稱一艘加拿大軍艦被派遣至臺灣海峽執行任務。外交部能否對此予以確認？毛寧表示，中方尊重各國依據國際法享有的航行權利，同時堅決反對任何國家以航行自由為名，損害中國的主權和安全。（央視新聞）"
-    },
-    {
-      "id": "4906438",
-      "time": "2026-05-29 15:29:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：日本和美國仍在安排Mythos的獲取事宜。"
-    },
-    {
-      "id": "4906437",
-      "time": "2026-05-29 15:28:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上期所同意甘肅國通大宗商品供應鏈管理股份有限公司增加氧化鋁期貨庫容至10萬噸】上期所公告，根據《上海期貨交易所交割庫管理辦法》等有關規定，經研究決定：同意甘肅國通大宗商品供應鏈管理股份有限公司位於甘肅省蘭州市蘭州新區山丹河街968號的存放點增加氧化鋁期貨核定庫容，由5萬噸增加至10萬噸。"
-    },
-    {
-      "id": "mkt:019e72a2-a72f-7aa7-a782-fd500228828a",
-      "time": "2026-05-29 15:28:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US designates two Brazilian criminal groups as terrorist organisations; CHINA reiterates non‑interference】May 29 — At a regular briefing CHINA noted reports that on May 28 President Trump designated two criminal organisations in Brazil as terrorist groups. Brazil protested, calling the move interference in its domestic affairs. US Secretary of State Rubio said the US is committed to dismantling the groups, which have long been targets of Brazilian law enforcement. CHINA reiterated its longstanding principle of non‑interference in other countries’ internal affairs."
     }
   ]
 }
