@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-06 05:02:15",
-  "count": 18774,
+  "updated": "2026-06-06 05:05:56",
+  "count": 18778,
   "items": [
+    {
+      "id": "4920401",
+      "time": "2026-06-06 05:04:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普誇讚就業資料。"
+    },
+    {
+      "id": "4920400",
+      "time": "2026-06-06 05:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認匈牙利評級為“BBB”，展望為負面。"
+    },
+    {
+      "id": "4920399",
+      "time": "2026-06-06 05:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持亞塞拜然“BBB-”評級，展望穩定。"
+    },
+    {
+      "id": "4920398",
+      "time": "2026-06-06 05:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認愛沙尼亞評級為“A+”，展望穩定。"
+    },
+    {
+      "id": "4920397",
+      "time": "2026-06-06 05:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國撤軍後，化肥價格將會下降。"
+    },
+    {
+      "id": "4920396",
+      "time": "2026-06-06 05:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國撤出伊朗後，石油和汽油價格將會下降。"
+    },
+    {
+      "id": "4920395",
+      "time": "2026-06-06 05:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將很快離開伊朗。"
+    },
+    {
+      "id": "4920394",
+      "time": "2026-06-06 05:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對伊朗採取強硬手段比用“”紙筆”更容易。"
+    },
     {
       "id": "4920393",
       "time": "2026-06-06 05:01:26",
@@ -173022,42 +173086,6 @@
         "市場"
       ],
       "text": "巴塔哥尼亞黃金公司：2026年第一季度，Cap Oeste殘礦運營共產出390盎司黃金當量，售出432盎司黃金當量。"
-    },
-    {
-      "id": "te:markets:555062",
-      "time": "2026-05-30 05:04:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "BRL Strengthens Slightly on Strong GDP and Easing Oil Prices — The Brazilian real strengthened slightly to 5.03 per USD in late May as the US dollar softened and oil prices retreated. Signs emerged that the US and Iran may be closer to a formal agreement, with reports indicating that both countries have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz eased global inflation concerns and weighed on the dollar. Domestically, stronger-than-expected GDP data reinforced expectations that the BCB will maintain a hawkish stance. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from 0.3% in Q4 2025 and marking the strongest expansion in a year. The data supported expectations of higher-for-longer interest rates, boosting the attractiveness of Brazilian assets and underpinning demand for the real."
-    },
-    {
-      "id": "4907855",
-      "time": "2026-05-30 05:03:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宣佈依據301 條款，對越南智慧財產權相關政策啟動調查。"
-    },
-    {
-      "id": "4907854",
-      "time": "2026-05-30 05:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室宣佈對越南展開301條款調查。"
-    },
-    {
-      "id": "4907853",
-      "time": "2026-05-30 05:03:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞爾維亞專家：期待塞中各領域合作邁向新高度】塞爾維亞總統武契奇對中國進行國事訪問期間，兩國達成廣泛共識並簽署多項合作檔案。對此，貝爾格萊德大學政治經濟學教授德拉加娜·米特羅維奇在接受總檯記者採訪時表示，塞中雙方發表的聯合宣告為兩國關係的未來指明瞭方向，簽署的多項合作檔案將有力推動雙邊各領域合作發展，期待兩國全面戰略伙伴關係邁向新高度。（央視新聞）"
     }
   ]
 }
