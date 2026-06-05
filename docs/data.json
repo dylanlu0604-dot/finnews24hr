@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-06 06:03:06",
-  "count": 18801,
+  "updated": "2026-06-06 06:06:52",
+  "count": 18807,
   "items": [
+    {
+      "id": "mkt:019e99d2-a5ea-7665-830e-499cb460279c",
+      "time": "2026-06-06 06:06:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng meets Putin in St. Petersburg】June 5, 2026, St. Petersburg — Chinese Vice President Han Zheng met Russian President Putin. Han said China and Russia are important constructive forces for maintaining global strategic stability and improving global governance. He described high-level China‑Russia ties as necessary for each country’s development and their responsibility to promote world peace and stability, and said China expects to strengthen coordination with Russia to advance a more just and reasonable global governance system."
+    },
+    {
+      "id": "4920456",
+      "time": "2026-06-06 06:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美方官員在 X 平臺發文稱有伊朗無人機駛向霍爾木茲海峽。"
+    },
+    {
+      "id": "4920454",
+      "time": "2026-06-06 06:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美方擊落至少 3 架駛向霍爾木茲海峽的伊朗無人機。"
+    },
+    {
+      "id": "mkt:019e99d0-eccf-7665-830e-431ffddd8b3b",
+      "time": "2026-06-06 06:04:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Trump said most of Iran's drone factories, launch sites and missile-manufacturing facilities have been destroyed."
+    },
+    {
+      "id": "mkt:019e99d0-63c9-7665-830e-3c3244820682",
+      "time": "2026-06-06 06:03:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said U.S. forces have thoroughly destroyed their military in the conflicts to date, but Iran still retains some missiles and drones."
+    },
+    {
+      "id": "4920453",
+      "time": "2026-06-06 06:03:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方媒體否認哈爾克島傳來爆炸聲的相關報道，稱該訊息不實。"
+    },
+    {
+      "id": "mkt:019e99cf-b002-7665-830e-36834f316bf2",
+      "time": "2026-06-06 06:03:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran has no choice, but it will take some time."
+    },
+    {
+      "id": "mkt:019e99ce-f975-7665-830e-281c863c8f70",
+      "time": "2026-06-06 06:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran's leaders have not agreed to end the current war with the United States because they are \"tough\" and \"arrogant\", but that ultimately \"they have no choice\" and must reach an agreement."
+    },
+    {
+      "id": "4920452",
+      "time": "2026-06-06 06:02:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月維持利率不變的機率為96%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96%，累計降息25個基點的機率為4%。美聯儲到7月維持利率不變的機率為82.3%，累計加息25個基點的機率14.4%，累計降息25個基點的機率為3.4%。"
+    },
     {
       "id": "4920451",
       "time": "2026-06-06 06:01:17",
@@ -173274,30 +173353,6 @@
         "公司"
       ],
       "text": "【英偉達微軟神秘預告】北京時間5月30日凌晨，微軟和英偉達幾乎同時在社交媒體上為一款即將於下週亮相的神秘新品造勢。 微軟執行副總裁、Windows和Surface硬體部門負責人帕萬·達武魯裡（Pavan Davuluri）釋出了一張疑似曲面屏邊緣的照片，配文稱“為開發者準備的新品即將到來”，期待與大家在下週的Build大會上見面。  與此同時，Windows和英偉達Geforce的官方賬號在同一時刻釋出了一模一樣的帖子，其中的內容相對淺顯易懂。"
-    },
-    {
-      "id": "4907897",
-      "time": "2026-05-30 06:06:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國在加勒比地區部署約1300名海軍陸戰隊員】當地時間29日，美國第24海軍陸戰隊遠征部隊通報，該部隊約1300名海軍陸戰隊員及相關人員已完成部署，接替此前執行任務的第22遠征部隊在加勒比地區執行任務。針對此次部署，美軍南方司令部已明確表示，該行動旨在威懾“敵對國家行為體”並瓦解那些有國家支援的販毒網路。（央視新聞）"
-    },
-    {
-      "id": "4907896",
-      "time": "2026-05-30 06:04:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國南方司令部司令與古巴軍方高階領導人會面】當地時間5月29日，美國南方司令部發表宣告表示，美國南方司令部司令弗朗西斯·多諾萬當日在古巴關塔那摩灣海軍基地的周邊區域，會見了古巴革命武裝力量部副部長兼總參謀長羅伯託·萊格拉·索托隆戈以及古巴軍方其他高階領導人，雙方就行動安全事務進行了簡短交流。此外，多諾萬還率隊對該海軍基地的周邊安全狀況進行了評估，並與基地官員探討了部隊防護、官兵及其家屬的安全保障，以及作戰戰備等相關議題。（央視新聞）"
-    },
-    {
-      "id": "4907895",
-      "time": "2026-05-30 06:03:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西財長就美國針對巴西黑幫作出的制裁決定表態：國家風險可能上升，外國直接投資或受威脅。"
     }
   ]
 }
