@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-06 04:24:01",
-  "count": 18794,
+  "updated": "2026-06-06 04:27:51",
+  "count": 18786,
   "items": [
+    {
+      "id": "mkt:019e9975-988b-7665-830d-b1a779e3713a",
+      "time": "2026-06-06 04:24:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "【Google signs deal to buy compute from SpaceX at $920 mln/month】Google has agreed to pay SpaceX $920 million per month for cloud compute capacity under a contract running from October through June 2029, SpaceX said in a filing on Friday. The agreement covers roughly 110,000 NVIDIA GPUs plus CPUs, memory and related components; capacity will be ramped up before September with fees adjusted downward during the ramp. If SpaceX fails to deliver the agreed GPU quantities by Sept. 30, 2026, Google may terminate the contract, subject to a one-month cure period. Either party may also terminate the agreement with 90 days' notice."
+    },
     {
       "id": "4920371",
       "time": "2026-06-06 04:22:17",
@@ -173132,85 +173147,6 @@
         "公司"
       ],
       "text": "【關注技術迭代與海外擴產 5月外資機構調研近150家A股公司】Wind資料顯示，5月，近150家A股上市公司迎來外資機構調研。這些公司涉及電子元件、電氣部件與裝置、積體電路等行業。本輪外資調研邏輯為：一方面，緊盯中國科創產業景氣度、核心技術迭代節奏，挖掘產業升級帶來的投資機會；另一方面，重點考察海外產能建設、跨境合作進展等情況，瞭解A股公司全球化成長新空間，梳理科技企業長期增長脈絡。（上證報）"
-    },
-    {
-      "id": "4907815",
-      "time": "2026-05-30 04:27:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特汽車5月份累計上漲44.45%，創2009年4月份以來最大單月漲幅，報17.45美元。"
-    },
-    {
-      "id": "4907814",
-      "time": "2026-05-30 04:27:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投證券楊驥：消費板塊邊際改善顯著 白酒或迎十年一遇週期大底】近日，中信建投證券食飲行業首席分析師楊驥在“上證·首席講壇”發表演講並接受上海證券報記者專訪時表示，2026年消費板塊正迎來邊際改善。面對食飲新消費浪潮，行業呈現出零售渠道變革、大眾品供給端創新、白酒“一路向C”三大特徵。當下應該跳出傳統的經濟和地產週期需求研究框架，透過創新性提供優質供給、發掘新需求，或依託新渠道創造市場新增量。當前，零售渠道的深刻變革正在重構消費行業的上下游結構與價值鏈，相關板塊蘊含的投資機會值得關注。（上證報）"
-    },
-    {
-      "id": "4907813",
-      "time": "2026-05-30 04:27:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一架美軍MQ-9“死神”無人機在葉門馬裡卜省墜毀】一名葉門軍方官員29日稱，一架美軍MQ-9型“死神”無人機當天在葉門東北部的馬裡卜省被擊落後墜毀。這名不願透露姓名的軍官表示，事件發生在馬裡卜省西北部地區。這架無人機被擊落前正在該省上空飛行。他還暗示，此次擊落行動由胡塞武裝實施。（新華社）"
-    },
-    {
-      "id": "4907812",
-      "time": "2026-05-30 04:27:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【境外子公司不是“合規孤島” 券商跨境展業須合規先行】34家內地券商、36家境外子公司、1.94萬億港元總資產……一組資料勾勒出內地券商出海版圖，也折射出跨境經營下合規治理面臨的現實挑戰。。上海證監局近期向光大證券出具警示函，讓行業潛藏的治理短板浮出水面：境外子公司並非獨立於母公司治理體系之外的“合規孤島”，但部分券商的決策程式與合規審查未能實現跨境同步。2024年以來，從人員任職管控到風險指標體系，監管處罰密集指向母、子公司治理的漏洞。行業發展方向已然明朗。近期八部門跨境整治方案落地，穿透式監管從境內直抵境外。跨境展業的模糊地帶加速消弭，“外部整治，內部提質”的行業新邏輯已然確立。（上證報）"
-    },
-    {
-      "id": "4907811",
-      "time": "2026-05-30 04:26:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【高溫提前疊加算力負荷高增 電力板塊或迎來業績與估值雙重提升】5月29日收盤，Wind火電概念指數漲幅超過4%，晉控電力、深南電A、華能國際、粵電力A、華電能源、華能蒙電等多股漲停。近20日，Wind火電概念指數累計漲幅超過22%。分析人士稱，電力板塊持續走強，核心緣於高溫前置推升用電負荷、資料中心用電剛性擴張、政策與市場預期共振。（上證報）"
-    },
-    {
-      "id": "te:markets:555058",
-      "time": "2026-05-30 04:26:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Weak GDP Fuels Dovish BoC Bets — The S&P/TSX Composite Index rose 0.7% to close at 34,759 on Friday as weak GDP data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline. The data strengthened expectations that the BoC will not rise rates soon, with markets broadly anticipating a hold at the June 10 meeting. Expectations of a dovish BoC, and progress toward a US-Iran peace deal pushed bond yields lower and eased concerns about higher borrowing costs. Both parts agreed to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, although the deal still requires approval from US President Trump. In finance, RBC was up 1.5% and Great-West Lifeco gained 1%. Gold prices rose for a second consecutive session, lifting miners such as Agnico Eagle (+3.2%) and WPM (+3.3%). Tech stocks also outperformed, with Shopify rising 3.8% and Celestica surging 10.2%."
-    },
-    {
-      "id": "4907810",
-      "time": "2026-05-30 04:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公募新發規模破五千億元 主動權益類基金爆款頻現】截至5月29日，今年以來已成立了191只主動權益類基金，發行規模合計為1741.86億元。而據統計，2025年共成立了318只主動權益類基金，發行規模合計為1662.63億元。僅將近5個月時間，主動權益類基金髮行規模便已超過2025年全年水平（上證報）"
-    },
-    {
-      "id": "4907809",
-      "time": "2026-05-30 04:25:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬深300等指數進行上半年定期調樣 樣本新質生產力含量持續提升】5月29日，中證指數有限公司宣佈將調整滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本，此次調整為指數樣本的定期例行調整，定期調整方案將於6月12日收市後正式生效。本次樣本調整後，資訊科技、通訊服務與工業等行業樣本數量及權重普遍上升，A系列指數較傳統寬基指數行業配比更加均衡，新質生產力含量進一步提升，有助於指數發揮服務國家戰略、引導資源配置的作用。（上證報）"
-    },
-    {
-      "id": "4907808",
-      "time": "2026-05-30 04:24:45",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【全球投資者大會“熱”出新高度，透露哪些訊號？】“ESG強制資訊披露是基準，運用這一共同語言工具，能夠加深上市公司與投資者的相互理解。”荷蘭匯盈資產投資亞洲有限公司亞太區責任投資及盡職治理主管德巴尼克·巴蘇（Debanik Basu）在會上說。摩根士丹利（亞洲）中國區在岸股權業務主管、摩根士丹利期貨（中國）有限公司董事長沈黎在大會期間接受上海證券報等媒體採訪時表示，“AI+科技”的新質生產力成為經濟增長的中長期驅動力，中國2026年在AI方面的投資有望實現近20%的同比增長、達到近9000億元；中國先進製造在新能源汽車、電池、光伏、AI硬體方面遙遙領先，出口在全球的份額到2030年有望升至16.5%。這些都給中國資本市場打下了堅實的基本面基礎。（上證報）"
     }
   ]
 }
