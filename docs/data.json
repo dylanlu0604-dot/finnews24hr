@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-05 09:53:14",
+  "updated": "2026-06-05 09:57:06",
   "count": 18978,
   "items": [
+    {
+      "id": "mkt:019e957f-0727-766c-9543-4bb639d357c7",
+      "time": "2026-06-05 09:56:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share fiber-optic sector rallied after volatile trading: FiberHome, Sanfu and Tefa Information hit daily limit-up; Wutong Holdings rose over 10%; Far East, Yongding and Yangtze Optical Fibre and Cable were among the top gainers."
+    },
+    {
+      "id": "4918480",
+      "time": "2026-06-05 09:56:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光纖概念震盪拉昇，烽火通訊、三孚股份、特發資訊漲停，吳通控股漲超10%，遠東股份、永鼎股份、長飛光纖漲幅居前。"
+    },
+    {
+      "id": "4918479",
+      "time": "2026-06-05 09:55:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光學光電子板塊短線拉昇】光學光電子板塊短線拉昇，維信諾、沃格光電漲停，戈碧迦漲超10%，聯創電子、冠捷科技、緯達光電、聯得裝備、隆利科技等跟漲。"
+    },
+    {
+      "id": "4918478",
+      "time": "2026-06-05 09:55:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.12%，成分股中，戈碧迦漲11.87%，星圖測控漲6.49%，同惠電子漲6.39%，富士達漲5.84%。"
+    },
+    {
+      "id": "4918477",
+      "time": "2026-06-05 09:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技部組織召開2026年全國科技監督工作會】科技部十司6月1日至3日在廣州市組織召開2026年全國科技監督工作會。科技部黨組成員、副部長邱勇出席會議並就進一步推動科技監督體系建設，加強科技專案監督、科研誠信建設和科技倫理治理等提出要求。"
+    },
+    {
+      "id": "mkt:019e957d-b38c-766c-9543-46603af10763",
+      "time": "2026-06-05 09:55:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shenzhen team trains 1.6 trillion-parameter AI model on domestic Ascend 910C cluster】A Shenzhen Hetao College AI training-platform team, with Harbin Institute of Technology (Shenzhen), Shenzhen Institute of Big Data and Huawei groups, using the Shenzhen Zhicheng AI compute platform and a domestic Ascend 910C AI compute cluster, completed full-parameter training of the 1.6 trillion-parameter model DeepSeek-V4-Pro. The exercise is a rare instance globally of a third-party team completing training at this scale on a domestic compute platform, yielding operational experience and supporting the claim that domestic AI chips can sustain world-class, very large-parameter model training. The team emphasized that running inference on existing models and conducting from-scratch full-parameter training are distinct technical stages with materially different hardware requirements; the results indicate domestic AI compute can handle top-tier training workloads and that the technical path is feasible."
+    },
+    {
+      "id": "4918476",
+      "time": "2026-06-05 09:54:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳國產晶片成功訓練萬億級AI大模型】近日，深圳河套學院Al訓練平臺專案團隊，聯合哈爾濱工業大學(深圳)、深圳市大資料研究院、華為有關團隊，協同深智城AI算力平臺，面向國產算力大模型訓練開展聯合攻關。依託昇騰910C國產AI算力叢集，完成1.6萬億引數大模型DeepSeek-V4-Pro全引數後訓練。此次實踐為全球第三方機構在國產算力平臺上完成該級別模型訓練的相關探索積累了重要經驗，也印證了國產AI晶片可支撐世界級超大引數模型訓練工作。從技術應用角度來看，呼叫已有模型開展業務推理，與從零完成模型全引數訓練分屬不同技術環節，二者在技術難度、硬體要求上存在明顯區別。本次試驗結果表明，國產AI算力已可承擔頂級大模型訓練任務，相關技術路徑具備可行性。（深圳釋出）"
+    },
+    {
+      "id": "4918475",
+      "time": "2026-06-05 09:54:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀘州老窖集團等在成都新設企管合夥企業】企查查APP顯示，近日，成都市華格展益企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；企業管理諮詢；資訊諮詢服務（不含許可類資訊諮詢服務）；企業總部管理。企查查股權穿透顯示，該企業由瀘州老窖集團有限責任公司旗下四川金舵投資有限責任公司等共同出資。"
+    },
+    {
+      "id": "4918474",
+      "time": "2026-06-05 09:53:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大股指持續回升，滬指率先翻紅，深證成指跌幅收窄至0.7%。"
+    },
+    {
+      "id": "mkt:019e957c-69c4-766c-9543-3844e4c5fdbf",
+      "time": "2026-06-05 09:53:39",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact mixed",
+        "CSI300"
+      ],
+      "text": "China's three major A-share indices continued to recover; the Shanghai Composite turned positive first, while the Shenzhen Composite pared losses to 0.7%."
+    },
+    {
+      "id": "mkt:019e957c-1d3b-766c-9543-3362a3dd4247",
+      "time": "2026-06-05 09:53:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share glass-substrate theme remained active; Woge Photonics neared the daily limit and hit a fresh record high. Gebijia, Kaisheng Technology, Three Gorges New Materials, Wufang Optoelectronics and Caihong Shares led gains."
+    },
     {
       "id": "4918473",
       "time": "2026-06-05 09:52:44",
@@ -174738,110 +174838,6 @@
         "觀點"
       ],
       "text": "券商股集體走強，中信建投大漲9%，錦龍股份、中信證券、廣發證券、國金證券、中原證券跟漲。"
-    },
-    {
-      "id": "mkt:019e7172-ee88-7ee0-99e0-b7a0a6349545",
-      "time": "2026-05-29 09:56:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong AI-application stocks rallied: 02723.HK rose over 30%, 02513.HK rose more than 10%, and MINIMAX-W (00100.HK) gained about 6%."
-    },
-    {
-      "id": "te:markets:554680",
-      "time": "2026-05-29 09:56:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Surge to Fresh Peak — The benchmark KOSPI jumped 2.22% to around 8,367 on Friday, reaching fresh record highs after briefly retreating as investor appetite improved on easing geopolitical tensions in the Middle East. Optimism grew after reports said the United States and Iran agreed to extend their ceasefire framework and resume talks on Tehran’s nuclear program. Support also came from Wall Street, where major US indexes closed at record highs overnight, led by gains in the S&P 500 and Nasdaq. Gains in Seoul were driven largely by technology and automobile stocks, with heavyweight shares such as Samsung Electronics (+4.17%), SK Hynix (+2.10%), Hyundai Motor (+5.61%), and Kia Corp (+1.83%) advancing strongly. Separately, Investors also monitored fresh economic data, as South Korea’s industrial production unexpectedly fell 0.7% in April while retail sales slumped 3.6%, marking the steepest decline since July 2020."
-    },
-    {
-      "id": "4905905",
-      "time": "2026-05-29 09:56:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1547億元。"
-    },
-    {
-      "id": "mkt:019e7171-f9d7-7ee0-99e0-aa9b9565f20b",
-      "time": "2026-05-29 09:55:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06030.HK",
-        "Impact bullish"
-      ],
-      "text": "CITIC Securities (06030.HK) rose more than 8% intraday after saying it will issue H-shares to CITIC Financial Holdings to raise 16.0 billion yuan; CITIC Financial will fully subscribe in cash at HK$23.13 per share."
-    },
-    {
-      "id": "4905904",
-      "time": "2026-05-29 09:55:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型概念股拉昇，智譜漲超10%，MINIMAX-W漲超6%。"
-    },
-    {
-      "id": "4905903",
-      "time": "2026-05-29 09:55:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南方電網電力負荷連續四天創新高 ，季節性規律被打破】來自南方電網的資料顯示，5月25日-28日，南方電網電力負荷連續四天創出新高，最高達2.75億千瓦。 5月28日，廣東電網創年內第二次新高，達1.7億千瓦，廣州、深圳用電負荷今年首創新高。27日，廣西電網電力負荷年內第五次創新高。 今年以來，南方電網全網及廣東、廣西、雲南、貴州、海南五省（區）電力負荷超20次創新高，打破2020年至2025年年度峰值集中在六、七月的季節性規律。目前，南方電網經營區域電力供應平穩有序。 本輪負荷新高呈現“時間提前、晚峰衝高”的鮮明特徵。中國南方電力排程控制中心運營策劃處經理李智勇分析，今年華南高溫天氣前置，提前啟用全域製冷負荷，疊加工業生產穩產滿產、民生消費持續旺盛，多重因素共振推動用電負荷提前突破極值。（一財）"
-    },
-    {
-      "id": "te:economy:554679",
-      "time": "2026-05-29 09:54:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "New Zealand Business Confidence Improves — New Zealand’s ANZ Business Outlook Index climbed to 10.0 in May from -10.0 in the previous month, marking a notable rebound in confidence, though still subdued compared with pre-conflict levels. Firms’ own activity outlook strengthened (25.6 vs 19.6), while past activity eased slightly (14.8 vs 16.9). Forward indicators improved: export intentions surged (11.5 vs 1.1), profit expectations turned positive (2.0 vs -13.3), investment intentions picked up (5.8 vs 3.3), and employment intentions returned to positive territory (3.4 vs -2.7). Wage growth expectations were steady (2.48% vs 2.41%). Pricing intentions (56.7 vs 57.7) and cost pressures (90.4 unchanged) suggested inflation pressures remained high. Credit availability improved modestly (-17.5 vs -21.5), while inflation expectations eased (3.63% vs 3.81%). Sector sentiment was mixed, with residential construction flat (11.8) but commercial construction weakening sharply (13.5 vs 27.0)."
-    },
-    {
-      "id": "4905902",
-      "time": "2026-05-29 09:54:42",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【港股證券股拉昇，中信證券一度漲超8%】港股證券股拉昇，中信證券一度漲超8%，中信建投證券漲超6%，弘業期貨、國泰海通、中州證券跟漲。"
-    },
-    {
-      "id": "4905901",
-      "time": "2026-05-29 09:54:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農尚環境等成立科技公司，含AI及積體電路晶片業務】企查查APP顯示，近日，廣州芯策道源科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧基礎資源與技術平臺；積體電路晶片及產品銷售。企查查股權穿透顯示，該公司由農尚環境等共同持股。"
-    },
-    {
-      "id": "4905900",
-      "time": "2026-05-29 09:54:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "小鵬汽車股價下跌2.9%，報64.40港元，"
-    },
-    {
-      "id": "4905899",
-      "time": "2026-05-29 09:53:37",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【商業連鎖板塊走強 寧波中百等漲停】商業連鎖板塊走強，寧波中百、茂業商業、中央商場漲停，步步高、東百集團、百大集團等漲幅居前。"
     }
   ]
 }
