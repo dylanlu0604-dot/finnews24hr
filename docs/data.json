@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-06 00:53:46",
-  "count": 18772,
+  "updated": "2026-06-06 00:57:51",
+  "count": 18774,
   "items": [
+    {
+      "id": "mkt:019e98b5-7bf6-7665-830a-5fa6867d0056",
+      "time": "2026-06-06 00:54:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved a possible foreign military sale to Italy of amphibious assault vehicles and related equipment worth about $30.6 million."
+    },
+    {
+      "id": "4920233",
+      "time": "2026-06-06 00:54:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。LME期鉛收跌12美元，報2005美元/噸。LME期鎳收跌108美元，報18581美元/噸。LME期錫收跌2809美元，報52935美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019e98b4-2227-7665-830a-558813bfadf5",
+      "time": "2026-06-06 00:53:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department said it has approved a possible arms sale to South Korea of Joint Direct Attack Munitions (JDAMs) valued at about $106 million."
+    },
     {
       "id": "4920232",
       "time": "2026-06-06 00:52:43",
@@ -172902,17 +172926,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收跌0.38%，滬銅收跌0.39%，滬鋁收跌0.31%，滬鋅收跌0.86%，滬鉛收跌0.06%，滬鎳收跌0.80%，滬錫收跌0.27%。氧化鋁夜盤收平，鋁合金收跌0.28%。不鏽鋼夜盤收跌0.74%。"
-    },
-    {
-      "id": "te:markets:555048",
-      "time": "2026-05-30 00:54:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Corn Hits 6-week Low — Corn decreased to 446.75 USd/BU, the lowest since April 2026. Over the past 4 weeks, Corn lost 3.84%, and in the last 12 months, it increased 0.66%."
     }
   ]
 }
