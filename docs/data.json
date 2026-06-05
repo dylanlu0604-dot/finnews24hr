@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-06 05:32:18",
-  "count": 18786,
+  "updated": "2026-06-06 05:36:04",
+  "count": 18787,
   "items": [
+    {
+      "id": "mkt:019e99b6-5815-7665-830d-efd670fd8973",
+      "time": "2026-06-06 05:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump praised U.S. jobs data."
+    },
+    {
+      "id": "4920426",
+      "time": "2026-06-06 05:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：已嘗試就該州煉油產能緊張問題與加州州長紐森展開合作。"
+    },
+    {
+      "id": "mkt:019e99b5-a59a-7665-830d-e5fb2d0dcfe2",
+      "time": "2026-06-06 05:34:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "DOE Secretary Wright said he has sought to work with California Governor Newsom to resolve the state's refining crisis."
+    },
+    {
+      "id": "mkt:019e99b4-0cca-7665-830d-da825e919452",
+      "time": "2026-06-06 05:32:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.4-magnitude earthquake off southwestern Mexico】The European-Mediterranean Seismological Centre (EMSC) said a 5.4-magnitude quake struck offshore Guerrero state at 14:55 local time on the 5th, at a depth of 32 km. No casualties or damage have been reported."
+    },
     {
       "id": "4920425",
       "time": "2026-06-06 05:29:58",
@@ -173134,32 +173168,6 @@
         "公司"
       ],
       "text": "英國石油董事長在罷免事件前與董事兼前執行長發生爭執。"
-    },
-    {
-      "id": "4907876",
-      "time": "2026-05-30 05:34:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "各大航空公司呼籲特朗普政府不要限制國際航班。"
-    },
-    {
-      "id": "4907875",
-      "time": "2026-05-30 05:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥4月份預算赤字為2208億墨西哥比索。"
-    },
-    {
-      "id": "4907874",
-      "time": "2026-05-30 05:33:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【NBC：美國尚未證實伊朗在霍爾木茲海峽佈雷 】據美國全國廣播公司(NBC)援引兩名美國官員和一名知情人士報道，經過持續搜尋，美國軍方尚未證實伊朗在霍爾木茲海峽佈雷。知情人士表示，軍方搜查發現了一些可能為水雷的物體，但尚未有任何被確認。該知情人士說：“如果說有什麼的話，威脅遠低於我們此前的擔憂。”"
     }
   ]
 }
