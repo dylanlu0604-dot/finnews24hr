@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-06 00:25:57",
-  "count": 18755,
+  "updated": "2026-06-06 00:30:04",
+  "count": 18756,
   "items": [
+    {
+      "id": "4920220",
+      "time": "2026-06-06 00:28:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率於美國非農日漲超3個基點，本週累漲超16個基點】週五（6月5日）歐市尾盤，德國10年期國債收益率上漲1.6個基點，報3.038%，美國非農就業報告發布時從3.028%拉昇至3.046%，本週累計上漲10.1個基點，交投於2.946%-3.051%區間，過半時間交投於3.030%附近。兩年期德債收益率漲3.1個基點，報2.692%，本週累漲16.3個基點，交投於2.571%-2.697%區間；30年期德債收益率漲0.7個基點，報3.571%，本週累漲7.1個基點。2/10年期德債收益率利差跌1.383個基點，報+34.432個基點，本週累跌6.264個基點。"
+    },
+    {
+      "id": "mkt:019e989d-1ded-7665-8309-ca32213bf8f5",
+      "time": "2026-06-06 00:28:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "Business Insider reports Elon Musk plans to present SpaceX's Terafab chip program to employees of Europe's largest tech company; the program is viewed as a major SpaceX technology bet on AI compute."
+    },
+    {
+      "id": "4920219",
+      "time": "2026-06-06 00:27:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌3.29%。"
+    },
+    {
+      "id": "mkt:019e989b-c244-7665-8309-c055ac3afac9",
+      "time": "2026-06-06 00:26:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell 3.00% intraday to $91.62/bbl."
+    },
+    {
+      "id": "4920218",
+      "time": "2026-06-06 00:25:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌2.16%。"
+    },
+    {
+      "id": "4920217",
+      "time": "2026-06-06 00:25:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 2 年期國債收益率延續上行走勢，上漲 13 個基點至 4.17%。"
+    },
     {
       "id": "4920216",
       "time": "2026-06-06 00:23:45",
@@ -172679,47 +172739,6 @@
         "DXY"
       ],
       "text": "Putin, referring to threats against Russia's Kaliningrad exclave, said Russia has the means to destroy anyone who attempts to threaten it."
-    },
-    {
-      "id": "4907645",
-      "time": "2026-05-30 00:30:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：是否與俄羅斯展開談判，決定權在歐洲方面。"
-    },
-    {
-      "id": "mkt:019e7491-e8c8-7bb7-9964-3c2456e58329",
-      "time": "2026-05-30 00:29:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian sources said Trump’s claim that Iran holds stocks of highly enriched uranium is untrue. Any potential memorandum of understanding between Tehran and Washington would not cover nuclear issues."
-    },
-    {
-      "id": "4907644",
-      "time": "2026-05-30 00:29:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：檔案顯示， Meta 旗下 MCI 追蹤工具可捕獲發往美國員工的境外資料。"
-    },
-    {
-      "id": "4907643",
-      "time": "2026-05-30 00:27:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯擁有一切手段，足以擊潰任何膽敢進犯的勢力。"
-    },
-    {
-      "id": "4907642",
-      "time": "2026-05-30 00:26:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【MiniMax Group Inc.啟動上市輔導】據證監會官網顯示，MiniMax Group Inc.於2026年5月29日正式啟動上市輔導，中信證券擔任輔導機構。"
     }
   ]
 }
