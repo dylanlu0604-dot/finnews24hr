@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-06 01:01:38",
+  "updated": "2026-06-06 01:05:34",
   "count": 18772,
   "items": [
+    {
+      "id": "4920236",
+      "time": "2026-06-06 01:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯資料：美國油氣鑽井平臺數量連續第七週環比增加。"
+    },
+    {
+      "id": "mkt:019e98bb-fbf2-7665-830a-88dc5f858c94",
+      "time": "2026-06-06 01:01:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas rig count stood at 124 in the week to June 5, down from 125 the prior week."
+    },
+    {
+      "id": "mkt:019e98bb-f737-7665-830a-864fb6eafeda",
+      "time": "2026-06-06 01:01:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for the week to June 5: 563 rigs, compared with 562 the prior week."
+    },
+    {
+      "id": "mkt:019e98bb-e935-7665-830a-7ec2098007b8",
+      "time": "2026-06-06 01:01:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.5) | actual 124 | previous 125"
+    },
+    {
+      "id": "mkt:019e98bb-b1aa-7665-830a-77bbf1053d17",
+      "time": "2026-06-06 01:01:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jun.5) | actual 563 | previous 562"
+    },
+    {
+      "id": "mkt:019e98bb-8cf1-7665-830a-6fe8c03db594",
+      "time": "2026-06-06 01:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count rose to 431 in the week to June 5 from 429 the prior week."
+    },
+    {
+      "id": "mkt:019e98bb-707f-7665-830a-62dbe9acc38e",
+      "time": "2026-06-06 01:01:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jun.5) | actual 431 | previous 429"
+    },
+    {
+      "id": "4920235",
+      "time": "2026-06-06 01:01:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國6月5日當週總鑽井數 563，前值 562。\n美國6月5日當週石油鑽井數 431，前值 429。\n美國6月5日當週天然氣鑽井數 124，前值 125。"
+    },
     {
       "id": "4920234",
       "time": "2026-06-06 01:00:03",
@@ -172823,89 +172907,6 @@
         "國際"
       ],
       "text": "美聯儲戴利：人工智慧實現可持續生產率增長的障礙主要來自監管層面。"
-    },
-    {
-      "id": "mkt:019e74b2-93c5-7bb7-9964-a4651ba17c93",
-      "time": "2026-05-30 01:05:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "{\"title\":\"Putin says there are reasons to believe Russia-Ukraine conflict may be nearing an end\",\"content\":\"Xinhua on 29 cited President Putin saying there are reasons to believe the Russia-Ukraine conflict may be nearing an end, but with fighting continuing no specific end date can be set. He said Russian strikes on the Kyiv region were in response to Ukrainian attacks on Luhansk and that Russian forces are launching an offensive across the special military operation zone. Putin called European politicians' talk of preparing to fight Russia \"nonsense\", saying Russia has not and does not threaten European states but any location posing a direct military threat to Russia would be a \"legitimate target.\"\"}"
-    },
-    {
-      "id": "4907656",
-      "time": "2026-05-30 01:04:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：有理由認為俄烏衝突臨近收尾】據今日俄羅斯通訊社29日援引俄總統普京的話報道，從特別軍事行動戰場形勢來看，有理由認為俄烏衝突臨近收尾，但在交戰持續的現狀下，無法劃定俄烏衝突的具體結束時限。普京說，俄方對基輔地區實施打擊，是對烏軍襲擊盧甘斯克地區的回應，俄軍正在特別軍事行動區域全線發起攻勢。普京還說，歐洲政客關於準備與俄作戰的言論是“無稽之談”，俄方過去和現在都沒有威脅歐洲國家，但所有對俄方構成直接軍事威脅的地方都會是“合法目標”。普京當天結束對哈薩克國事訪問後，在記者會談及俄烏衝突時作上述表態。（新華社）"
-    },
-    {
-      "id": "mkt:019e74b0-12d0-7bb7-9964-99dfe8993a62",
-      "time": "2026-05-30 01:02:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes oilfield services said U.S. drillers added oil and gas rigs for a sixth consecutive week."
-    },
-    {
-      "id": "mkt:019e74af-d9b8-7bb7-9964-915d73a48531",
-      "time": "2026-05-30 01:02:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total rig count for week ending May 29: 562 rigs, up from 558 the prior week."
-    },
-    {
-      "id": "mkt:019e74af-af71-7bb7-9964-8a122eddd1da",
-      "time": "2026-05-30 01:02:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (May.29) | actual 562 | previous 558"
-    },
-    {
-      "id": "mkt:019e74af-6ea2-7bb7-9964-80176a6161c7",
-      "time": "2026-05-30 01:01:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total oil rigs 429 in the week to May 29, vs. 425 the prior week."
-    },
-    {
-      "id": "4907655",
-      "time": "2026-05-30 01:01:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國5月29日當週總鑽井數 562，前值 558。\n美國5月29日當週天然氣鑽井數 125，前值 125。\n美國5月29日當週石油鑽井數 429，前值 425。"
-    },
-    {
-      "id": "mkt:019e74af-4a50-7bb7-9964-7c09fda6e0af",
-      "time": "2026-05-30 01:01:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (May.29) | actual 429 | previous 425"
     }
   ]
 }
