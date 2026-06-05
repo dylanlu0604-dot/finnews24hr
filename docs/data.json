@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-05 22:28:16",
-  "count": 18703,
+  "updated": "2026-06-05 22:32:05",
+  "count": 18705,
   "items": [
+    {
+      "id": "mkt:019e9832-4aac-7665-8306-6e89937b58f7",
+      "time": "2026-06-05 22:31:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said Germany is willing to hold talks with Moscow, but what is missing is Putin's willingness."
+    },
+    {
+      "id": "4920070",
+      "time": "2026-06-05 22:29:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【途牛：第一季度盈利66.6萬元，同比扭虧為盈】途牛披露2026年第一季度業績報告。報告期內途牛淨收入約1.33億元（人民幣，下同），同比增長12.8%；歸屬於公司普通股東的淨利潤約66.6萬元，同比扭虧為盈。"
+    },
+    {
+      "id": "mkt:019e982f-f05b-7665-8306-63af0d0b8fd9",
+      "time": "2026-06-05 22:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz said he will meet Ukrainian President Zelenskiy on Sunday under the E3 format (Germany, France and the UK)."
+    },
+    {
+      "id": "4920069",
+      "time": "2026-06-05 22:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理談及與莫斯科的談判：我們對對話持開放態度，缺失的是普京的談判意願。"
+    },
+    {
+      "id": "mkt:019e982f-c48f-7665-8306-58a0d8b082fb",
+      "time": "2026-06-05 22:28:47",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish",
+        "WTI",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Baltic Dry Index down 7.5% this week as Capesize and Panamax rates fall】The Baltic Dry Index fell on Friday as Capesize and Panamax freight rates declined. The BDI dropped 56 points, or 1.8%, to 2,981, down 7.5% for the week. The Capesize index fell 147 points, or 2.9%, to 4,893, sliding 11.1% on the week; Capesize average daily earnings fell US$1,333 to US$40,871. The Panamax index fell 18 points to 2,236, down 4.6% for the week; Panamax daily earnings fell US$164 to US$20,121. The Supramax index rose 4 points to 1,588, up 1.2% for the week."
+    },
+    {
+      "id": "4920068",
+      "time": "2026-06-05 22:28:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠地外灘全球定製中心揭牌，規劃面積約1萬平方米】綠地外灘全球定製中心揭牌暨集中籤約儀式正式舉行。首批多個行業的領軍企業及知名頭部定製品牌簽約入駐。綠地集團董事長、總裁張玉良表示，綠地外灘全球定製中心是綠地深度融入上海城市發展、精準對接消費升級趨勢、全力服務國際消費中心城市建設的重要實踐。"
+    },
+    {
+      "id": "mkt:019e982f-97ab-7665-8306-5229593a8337",
+      "time": "2026-06-05 22:28:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG approved $900 mln financing for an Iraqi transport project."
+    },
+    {
+      "id": "4920067",
+      "time": "2026-06-05 22:28:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：我們將於週日以E3機制（德國、法國和英國）與烏克蘭總統澤連斯基舉行會晤。"
+    },
+    {
+      "id": "mkt:019e982e-ff11-7665-8306-4bc5ee8d4872",
+      "time": "2026-06-05 22:27:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said it has rerouted 129 commercial vessels in the Strait of Hormuz and rendered six vessels unable to navigate."
+    },
+    {
+      "id": "4920066",
+      "time": "2026-06-05 22:27:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行批准向伊拉克交通專案提供9億美元融資。"
+    },
+    {
+      "id": "4920065",
+      "time": "2026-06-05 22:27:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國天然氣期貨回吐部分漲幅】美國天然氣期貨走低，此前兩個交易日曾因更炎熱的天氣預報以及低於平均水平的周度庫存注入報告而上漲。EBW Analytics的Eli Rubin在一份報告中表示，庫存資料似乎對亨利港和紐約商交所期貨尤為有利，因為中南部地區的庫存比上年同期低410億立方英尺。“區域供應持續收緊——即使沒有高溫天氣——到初夏可能仍是紐約商交所天然氣的一個支撐因素。”7月交割的天然氣期貨下跌1.7%，報每百萬英熱單位3.278美元。"
+    },
     {
       "id": "mkt:019e982e-76ac-7665-8306-44606e7eb9a3",
       "time": "2026-06-05 22:27:20",
@@ -172176,95 +172275,6 @@
         "國際"
       ],
       "text": "市場訊息：美國政府這項涉及美墨加協定重構談判、與墨西哥磋商的提案，還將尋求把美國本土增加值佔比從現行北美原產地規則要求的75%進一步提高。"
-    },
-    {
-      "id": "mkt:019e7425-7b49-7eef-a0f1-227af02f855f",
-      "time": "2026-05-29 22:31:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SHFE silver 2608 reversed intraday gains to losses, now down 0.75% at 18,063 yuan/kg."
-    },
-    {
-      "id": "mkt:019e7425-711f-7eef-a0f1-1e2eebf28ebf",
-      "time": "2026-05-29 22:31:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "JP Morgan expects LME zinc to trade in a high range of $3,400–3,500 per tonne for the remainder of 2026."
-    },
-    {
-      "id": "mkt:019e7425-1e78-7eef-a0f1-17b676c28b16",
-      "time": "2026-05-29 22:30:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "WSJ reports the Trump administration seeks a USMCA rule requiring at least 50% of vehicles produced under the pact to be manufactured in the United States."
-    },
-    {
-      "id": "4907507",
-      "time": "2026-05-29 22:30:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "IBM股價大漲9%，創3個月新高，本月累計大漲25%。"
-    },
-    {
-      "id": "mkt:019e7424-ab9a-7eef-a0f1-0dd331347159",
-      "time": "2026-05-29 22:30:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russia's Ural Federal District activates first-ever 'missile danger' mode】On May 29 local time the Russian president's envoy to the Ural Federal District announced the district had activated 'missile danger' mode for the first time. Emergency services and civil-defense units have been placed on high alert."
-    },
-    {
-      "id": "4907506",
-      "time": "2026-05-29 22:30:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國要求，依據《美墨加協定》生產的汽車，其零部件美國本土佔比至少達 50%。"
-    },
-    {
-      "id": "4907505",
-      "time": "2026-05-29 22:29:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通表示，預計2026年剩餘時間裡，倫敦金屬交易所（LME）鋅價平均將維持在每噸3400-3500美元的區間，符合“持續高位”的判斷。"
-    },
-    {
-      "id": "4907504",
-      "time": "2026-05-29 22:29:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯烏拉爾聯邦區首次釋出導彈預警】當地時間5月29日，俄羅斯總統駐烏拉爾聯邦區全權代表若加宣佈，整個烏拉爾聯邦區範圍內首次啟動“導彈危險”模式。相關應急部門已進入高度戒備。（央視新聞）"
-    },
-    {
-      "id": "4907503",
-      "time": "2026-05-29 22:28:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Palantir股價創七週新高，現漲7.3%。"
     }
   ]
 }
