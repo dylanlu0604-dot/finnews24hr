@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-05 20:36:55",
-  "count": 18601,
+  "updated": "2026-06-05 20:40:43",
+  "count": 18643,
   "items": [
+    {
+      "id": "te:economy:556900",
+      "time": "2026-06-05 20:39:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Canada Job Growth Far Exceeds Forecasts — Employment in Canada rose by 88,000 in May 2026, a 0.4% increase from April, the highest since December 2024 and well above market expectations for a gain of 10,000. The rebound followed a net loss of 112,000 jobs during the first four months of the year. Employment increased among both private-sector workers (+56,000) and public-sector employees (+20,000). Full-time employment climbed by 154,000, while part-time positions declined by 66,000 and self-employment was little changed. Job gains were concentrated in construction (+27,000), information, culture and recreation (+19,000), transportation and warehousing (+19,000), and accommodation and food services (+17,000). In contrast, wholesale and retail trade shed 35,000 jobs. Regionally, employment increased in Ontario, British Columbia, Alberta, and Prince Edward Island, while Saskatchewan recorded a decline. The employment rate rose 0.2 percentage points to 60.7%."
+    },
+    {
+      "id": "4919830",
+      "time": "2026-06-05 20:39:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【江蘇省政府召開重大專案建設和投資專題排程會 劉小濤主持並講話】近日，江蘇省政府召開重大專案建設和投資專題排程會，深入貫徹習近平總書記對江蘇工作重要講話精神，認真落實黨中央、國務院關於深入挖掘內需潛力、因地制宜發展新質生產力及加強“六張網”規劃建設的決策部署，按照省委要求，推動重大專案加快建設、有效投資持續擴大。省長劉小濤主持會議並講話。會上，各設區市作投資工作情況彙報，省有關部門向各市反饋需省裡協調解決事項的辦理進展情況。劉小濤指出，各地各部門要牢固樹立和踐行正確政績觀，充分發揮重大專案關鍵性、引領性和支撐性作用，既抓好當下、又著眼長遠，全力以赴抓專案、擴投資、穩增長。謀深謀實“六張網”規劃建設，推動優質企業增資擴產、傳統優勢產業轉型升級，鼓勵‌外資利潤再投資，形成更多新的增長點。多措並舉盤活存量資產資源，加力推進城市更新，抓實民生專案運維管理。加快新興產業和未來產業前瞻佈局，因地制宜謀劃儲備一批能級高、效益好的重大專案，確保專案梯次推進、接續有力。不斷穩定市場預期、提振發展信心，鼓勵引導民間資本參與重大專案建設。（微訊江蘇）"
+    },
+    {
+      "id": "mkt:019e97cb-0ab4-7fff-a930-300790c62e37",
+      "time": "2026-06-05 20:38:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Markets currently price a Fed rate hike for January next year; market-implied timing assessed before the US nonfarm payrolls release points to March next year."
+    },
+    {
+      "id": "4919829",
+      "time": "2026-06-05 20:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國5月非農就業人數增幅超出所有經濟學家預期 前兩個月資料有所上修】美國5月非農就業人數增幅超過所有預期，失業率維持不變，這提供了迄今最明確的訊號，顯示勞動力市場可能正在擺脫長期招聘疲弱的局面。美國勞工統計局週五公佈的資料顯示，5月非農就業人數增加17.2萬，前兩個月資料被上修。這也是兩年多來最強的三個月增幅。失業率維持在4.3%不變，平均時薪上升0.3%。"
+    },
+    {
+      "id": "4919828",
+      "time": "2026-06-05 20:38:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數期貨跌至盤中低點。"
+    },
+    {
+      "id": "4919827",
+      "time": "2026-06-05 20:37:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受強勁的美國就業報告影響，新興市場貨幣指數下跌。"
+    },
+    {
+      "id": "4919826",
+      "time": "2026-06-05 20:37:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【非農公佈後 美聯儲6月維持利率不變的機率小幅上升】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96.6%（非農公佈前為96.4%），累計降息25個基點的機率為3.4%。美聯儲到7月維持利率不變的機率為90.6%，累計加息25個基點的機率6.2%，累計降息25個基點的機率為3.2%。"
+    },
+    {
+      "id": "4919825",
+      "time": "2026-06-05 20:37:11",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員計價押注美聯儲在 1 月加息，此前市場預期為 3 月。"
+    },
+    {
+      "id": "4919824",
+      "time": "2026-06-05 20:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心：當前埃博拉疫情為有記錄以來第四嚴重，稱其“態勢非常嚴峻”。"
+    },
+    {
+      "id": "te:markets:556898",
+      "time": "2026-06-05 20:36:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Set for Weekly Gain — The dollar index steadied near 99.4 on Friday and remained on track for a weekly gain as persistent uncertainty in the Middle East continued to support demand for safe-haven assets. President Donald Trump said peace negotiations were nearing their final stage and appeared reluctant to escalate tensions with Iran despite recent military confrontations. However, Iranian Foreign Minister Abbas Araghchi stated that talks had produced no meaningful progress, while Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon. In the US, the economy added 172,000 jobs in May, well above expectations of 85,000, and the unemployment rate held at 4.3%. The resilient labor market reinforced expectations that the Federal Reserve may need to keep policy tight or even consider further rate increases as policymakers grapple with inflationary pressures linked to higher energy prices."
+    },
+    {
+      "id": "4919823",
+      "time": "2026-06-05 20:36:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司執行長利哈喬夫5日說，烏克蘭武裝部隊當天對扎波羅熱核電站發動了無人機襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:019e97c8-aa6c-7fff-a930-2e2eb5293703",
+      "time": "2026-06-05 20:36:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Following US and Canadian jobs data, Canada’s 2-year government bond yield rose 9.1bp to 2.903%."
+    },
+    {
+      "id": "te:economy:556897",
+      "time": "2026-06-05 20:36:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Canada Unemployment Rate Unexpectedly Falls — The unemployment rate in Canada fell to 6.6% in May of 2026 from 6.9% in the previous month, the lowest since January and firmly below market expectations that it would remain at 6.9%. The result reflected some fresh resilience in the Canadian labor market after concerns that high energy prices, restrictive interest rates, and tariff exchanges with the US would hamper the domestic job market. The number of unemployed people fell by 84,000 to 1,482,400, with reductions seen for both core aged women and core aged men. In the meantime, net employment surged by 87,800 to 21,121,500, well above market expectations of a 10,000 increase to mark the sharpest job growth since December of 2024. A large portion of the gain in net employment was through job gains on the unemployed population, as the labor force participation rate remained unchanged from the previous month at 65%."
+    },
     {
       "id": "4919822",
       "time": "2026-06-05 20:35:55",
@@ -9,6 +140,17 @@
         "市場"
       ],
       "text": "就業資料公佈後，加拿大兩年期國債收益率上升9.1個基點，至2.903%。"
+    },
+    {
+      "id": "mkt:019e97c8-5162-7fff-a930-24f815328cb4",
+      "time": "2026-06-05 20:35:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Housing and Urban-Rural Development opens public consultation on draft Housing Provident Fund regulations】The Ministry of Housing and Urban-Rural Development published a draft revision to the Housing Provident Fund Management Regulations for public comment. The draft allows employees to withdraw balances from their provident fund accounts where they: pay rent; purchase, build, renovate, or major-repair owner-occupied housing; repay mortgage principal and interest; fund home renovations up to a prescribed limit; pay property-management fees for owner-occupied housing; retire or leave employment for retirement; become fully incapacitated and have employment terminated; emigrate for settlement abroad; or under other housing-consumption circumstances approved by the State Council."
     },
     {
       "id": "4919821",
@@ -39,12 +181,34 @@
       "text": "US Unemployment Stable at 4.3% in May — The US unemployment rate remained at 4.3% in May 2026, matching market expectations. The number of unemployed decreased by 66,000 to 7.31 million, while total employment increased by 149,000 to 162.77 million. The labor force grew by 83,000 to 170.08 million, with the participation rate unchanged at 61.8%, its lowest since October 2021. The employment rate inched up to 59.2% from a four-year low of 59.1%. The broader U-6 unemployment rate, which includes discouraged and underemployed workers, fell to 8.1% from 8.2%."
     },
     {
+      "id": "mkt:47eeeb82-989f-4719-b08a-7913104a8dcc",
+      "time": "2026-06-05 20:35:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. interest-rate futures show markets still price the Fed to keep rates unchanged at its June policy meeting."
+    },
+    {
       "id": "4919819",
       "time": "2026-06-05 20:35:31",
       "tags": [
         "公司"
       ],
       "text": "【寧德時代與中鋼協啟動鋼鐵行業兩項新能源團標】近日，“鋼鐵行業能源轉型研討會暨產業融合之旅——鋼鐵企業走進寧德時代”活動在江蘇溧陽舉行。在此次活動中，寧德時代與中國鋼鐵工業協會聯合寶武集團、鞍鋼集團等8家行業重點單位啟動了鋼鐵行業儲能與內燃機車電動化團體標準工作。其分別為《鋼鐵行業內燃機車動力鋰電池改造技術規範》與《鋼鐵行業預製艙式鋰離子電池儲能系統技術規範》。"
+    },
+    {
+      "id": "mkt:019e97c8-0941-7bb5-8c7a-76112cbb7dec",
+      "time": "2026-06-05 20:35:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Germany 2-year government bond yield rose 2 bps to 2.68% after US nonfarm payrolls."
     },
     {
       "id": "4919818",
@@ -83,6 +247,15 @@
       "text": "阿波羅全球管理：26 財年目標實現利差相關收益同比增長 10%。"
     },
     {
+      "id": "mkt:702a73f3-2e22-459e-bb90-407708669458",
+      "time": "2026-06-05 20:34:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US interest-rate futures priced a 63% probability of a Fed rate hike in December, up from 48%."
+    },
+    {
       "id": "4919814",
       "time": "2026-06-05 20:34:08",
       "tags": [
@@ -92,6 +265,15 @@
       "text": "美國經濟資料公佈後，德國兩年期國債收益率小幅走高，最新上漲2個基點，報2.68%。"
     },
     {
+      "id": "em:qqyh_mlc:202606053762161694",
+      "time": "2026-06-05 20:34:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【交易員加深美聯儲進一步收緊貨幣政策的預期】美國5月就業資料公佈後，交易員加深了美聯儲進一步收緊貨幣政策的預期。"
+    },
+    {
       "id": "em:jjsj_mgsj:202606053762160827",
       "time": "2026-06-05 20:33:58",
       "tags": [
@@ -99,6 +281,18 @@
         "美國"
       ],
       "text": "【美國5月份平均時薪環比增長0.3%】美國5月份平均時薪環比增長0.3%，預估增長0.3%。"
+    },
+    {
+      "id": "mkt:019e97c6-ee70-7bb5-8c7a-6735473d33f0",
+      "time": "2026-06-05 20:33:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield rose after employment data, up 4.7 bps to 4.524%. The 2-year Treasury yield climbed 5.6 bps to 4.105%."
     },
     {
       "id": "4919813",
@@ -123,6 +317,19 @@
       "text": "US Wages Growth Matches Estimates at 0.3% — Average hourly earnings for all employees on US private nonfarm payrolls rose by 12 cents, or 0.3%, over a month to $37.53 in May 2026, following a 0.2% increase in April, matching market forecasts. In May, average hourly earnings of private-sector production and nonsupervisory employees rose by 8 cents, or 0.2%, to $32.31. Over the year, average hourly earnings have increased by 3.4% in May, down from a 3.6% advance in the prior month, also in line with analysts' estimates."
     },
     {
+      "id": "mkt:019e97c6-e2f7-7bb5-8c7a-5bf87b9c4ec4",
+      "time": "2026-06-05 20:33:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 and Nasdaq 100 futures extended losses after the release of US nonfarm payrolls."
+    },
+    {
       "id": "4919812",
       "time": "2026-06-05 20:33:05",
       "tags": [
@@ -131,12 +338,45 @@
       "text": "【美國勞工統計局：3-4月非農就業新增人數合計上修9.3萬人】美國勞工統計局：3月份非農新增就業人數從萬人上修至21.4萬人；4月份非農新增就業人數從11.5萬人上修至17.9萬人。修正後，3月和4月新增就業人數合計較修正前高9.3萬人。失業率保持在4.3%，自2025年7月以來一直維持在4.3%至4.5%的窄幅區間內。失業總人數為730萬。就業增長主要集中在休閒和餐飲、地方政府以及醫療保健行業，而金融活動領域的就業則有所下降。"
     },
     {
+      "id": "mkt:019e97c5-e862-7bb5-8c7a-57d839bdba4f",
+      "time": "2026-06-05 20:32:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Following the US nonfarm payrolls release, markets priced in further Fed tightening."
+    },
+    {
       "id": "4919811",
       "time": "2026-06-05 20:32:31",
       "tags": [
         "市場"
       ],
       "text": "加元受國內就業崗位增長提振，兌美元上漲0.3%，報1加元兌1.3868美元。"
+    },
+    {
+      "id": "mkt:019e97c5-dd5c-7bb5-8c7a-4a6d42603775",
+      "time": "2026-06-05 20:32:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【US BLS revises March-April nonfarm payrolls up by 93,000】US Bureau of Labor Statistics revised March nonfarm payrolls to 214,000 and April to 179,000. April was revised up from 115,000; the combined upward revision for March and April is 93,000 versus prior estimates."
     },
     {
       "id": "4919810",
@@ -187,6 +427,17 @@
       "text": "現貨黃金在美國就業資料公佈後擴大跌幅，最新下跌0.6%，報每盎司4448.02美元。"
     },
     {
+      "id": "mkt:019e97c5-3a77-7bb5-8c7a-41c98af3345b",
+      "time": "2026-06-05 20:31:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: unemployment rate held at 4.3%, remaining in a narrow 4.3%-4.5% range since July 2025. Total unemployed: 7.3 million."
+    },
+    {
       "id": "4919806",
       "time": "2026-06-05 20:31:55",
       "tags": [
@@ -194,6 +445,23 @@
         "國際"
       ],
       "text": "美國兩年期國債收益率最新上漲5.6個基點，報4.105%。"
+    },
+    {
+      "id": "mkt:019e97c4-ea77-7bb5-8c7a-3bae85353b5f",
+      "time": "2026-06-05 20:31:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US Bureau of Labor Statistics: job gains were concentrated in leisure and hospitality, local government and health care; employment in financial activities declined."
     },
     {
       "id": "4919805",
@@ -256,6 +524,19 @@
       "text": "【加拿大5月失業率6.6% 預期6.9%】加拿大5月失業率6.6%，預期6.9%，前值6.9%。"
     },
     {
+      "id": "mkt:019e97c4-cd2d-7bb5-8c7a-355b2f4eb883",
+      "time": "2026-06-05 20:31:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell nearly $20 intraday to $4,447.73/oz."
+    },
+    {
       "id": "em:jjsj_mgsj:202606053762151872",
       "time": "2026-06-05 20:31:18",
       "tags": [
@@ -273,6 +554,38 @@
       "text": "非農就業遠超預期，美元指數DXY短線走高15點，現報99.36。"
     },
     {
+      "id": "mkt:019e97c4-c476-7bb5-8c7a-2e2b4719212c",
+      "time": "2026-06-05 20:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US nonfarm payrolls far exceeded expectations; dollar index (DXY) jumped 15 points intraday to 99.36."
+    },
+    {
+      "id": "mkt:019e97c4-c034-7bb5-8c7a-24d7025ed684",
+      "time": "2026-06-05 20:30:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US May seasonally adjusted manufacturing payrolls +7,000 vs. +2,000 expected; April revised to 0 from -2,000."
+    },
+    {
       "id": "4919798",
       "time": "2026-06-05 20:30:54",
       "tags": [
@@ -280,6 +593,60 @@
         "國際"
       ],
       "text": "5月新增就業人數超過預期後，美國國債價格暴跌。"
+    },
+    {
+      "id": "mkt:019e97c4-bfd7-7bb5-8c7a-1d3175a062cf",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US May unemployment rate holds at 4.3% as expected】US unemployment rate for May held at 4.3% for a second consecutive month, matching market expectations."
+    },
+    {
+      "id": "mkt:753ffc25-fa37-4b0c-add5-d96dd39e44ae",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US May unemployment rate 4.3% (consensus 4.3%, prior 4.3%)."
+    },
+    {
+      "id": "mkt:cfc11220-ca7c-467b-a115-3bfad1fc250c",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US average hourly earnings, May m/m 0.3% (consensus 0.30%; prior 0.20%)."
+    },
+    {
+      "id": "mkt:1e6d0a11-dd9e-4ae2-998b-e11570bd01d5",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. private‑sector nonfarm payrolls +120,000 in May vs consensus +85,000; April revised up from +123,000 to +177,000."
+    },
+    {
+      "id": "mkt:a258f7c5-3447-4158-b77d-ca9f83428e50",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【U.S. May nonfarm payrolls beat expectations】U.S. seasonally adjusted nonfarm payrolls rose by 172,000 in May, above the market consensus of 85,000."
+    },
+    {
+      "id": "mkt:508b112b-b1a0-462b-ab93-d781d9230f05",
+      "time": "2026-06-05 20:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US May labor force participation rate 61.8% (consensus 61.8%; April 61.80%)."
     },
     {
       "id": "4919797",
@@ -290,6 +657,64 @@
       "text": "加拿大5月就業人數 8.78萬人，預期1萬人，前值-1.77萬人。\n加拿大5月失業率 6.6%，預期6.90%，前值6.90%。"
     },
     {
+      "id": "mkt:20c6ae9b-5c5a-40fc-a43a-a38f5acc6287",
+      "time": "2026-06-05 20:30:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US May seasonally adjusted nonfarm payrolls rose 172,000 versus 85,000 expected; April revised up to 179,000 from 115,000."
+    },
+    {
+      "id": "mkt:caa31abc-14a4-46b7-a367-7e1845138784",
+      "time": "2026-06-05 20:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US average weekly hours (May) 34.3; expected 34.3; prior 34.3."
+    },
+    {
+      "id": "mkt:a3e10604-136e-4e78-b1ab-0637d13e414c",
+      "time": "2026-06-05 20:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. May seasonally adjusted government payrolls +52,000; April revised from -8,000 to +2,000."
+    },
+    {
+      "id": "mkt:9b9d57b9-ec8a-48d3-8604-76e8151c3b56",
+      "time": "2026-06-05 20:30:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US average hourly earnings YoY for May 3.4% (consensus 3.4%, prior 3.6%)."
+    },
+    {
+      "id": "mkt:af801340-b171-47a1-aaff-983ccaf13e59",
+      "time": "2026-06-05 20:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May part-time employment -66.2k; prior +29.0k."
+    },
+    {
+      "id": "mkt:51fa755e-9eba-4203-8eb8-48e37ce174cd",
+      "time": "2026-06-05 20:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US U-6 unemployment rate 8.1% in May, prior 8.20%."
+    },
+    {
+      "id": "mkt:7dd4e86e-cca8-4e6c-bb52-45755cdc1b04",
+      "time": "2026-06-05 20:30:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May unemployment rate 6.6% vs consensus 6.9%; prior 6.9%."
+    },
+    {
       "id": "em:jjsj_mgsj:202606053762151034",
       "time": "2026-06-05 20:30:35",
       "tags": [
@@ -297,6 +722,23 @@
         "美國"
       ],
       "text": "美國5月非農就業人數增加17.2萬人，預估為增加8.8萬，前值為增加11.5萬。"
+    },
+    {
+      "id": "mkt:a86c4982-6746-42a8-8045-d56f3d6b15ce",
+      "time": "2026-06-05 20:30:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May labour force participation rate 65.0% (expected 65.1%, prior 65.0%)."
+    },
+    {
+      "id": "mkt:5e97e3f9-5279-4003-a2e5-651c2e9c7788",
+      "time": "2026-06-05 20:30:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Canada May employment +87.8k vs +10k expected; April revised to -17.7k."
     },
     {
       "id": "4919796",
@@ -318,6 +760,18 @@
       "text": "【美國4月失業率為4.3% 連續第二個月持穩】美國4月失業率為4.3%，連續第二個月持穩；預期4.3%，前值4.3%。"
     },
     {
+      "id": "mkt:019e97c3-693c-7bb5-8c79-df3cf145a24c",
+      "time": "2026-06-05 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Canada May full-time employment +154,000; prior -46,700."
+    },
+    {
       "id": "4919795",
       "time": "2026-06-05 20:30:09",
       "tags": [
@@ -328,12 +782,161 @@
       "text": "【美國5月非農高於預期】美國5月季調後非農就業人口 17.2萬人，預期8.5萬人，前值由11.5萬人修正為17.9萬人。"
     },
     {
+      "id": "mkt:019e97c3-524a-7bb5-8c79-b78215f11403",
+      "time": "2026-06-05 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Labour Force Participation Rate (May) | actual 61.8% | consensus 61.8% | previous 61.80%"
+    },
+    {
+      "id": "mkt:019e97c3-5127-7bb5-8c79-a301537893d5",
+      "time": "2026-06-05 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | U6 Unemployment Rate (May) | actual 8.1% | previous 8.20%"
+    },
+    {
+      "id": "mkt:019e97c3-566f-7bb5-8c79-d54e66a731ae",
+      "time": "2026-06-05 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unemployment Rate (May) | actual 4.3% | consensus 4.30% | previous 4.30%"
+    },
+    {
+      "id": "mkt:019e97c3-559c-7bb5-8c79-cfb524be0e7d",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (YoY) (May) | actual 3.4% | consensus 3.4% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019e97c3-5419-7bb5-8c79-c0203d2161b5",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (MoM) (May) | actual 0.3% | consensus 0.30% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019e97c3-4f26-7bb5-8c79-812917f7bbc4",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Workweek (May) | actual 34.3 | consensus 34.3 | previous 34.3"
+    },
+    {
+      "id": "mkt:019e97c3-4f26-7bb5-8c79-7c16b86456b9",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Government Employment SA (May) | actual 52000K | previous -8000K"
+    },
+    {
+      "id": "mkt:019e97c3-4ec8-7bb5-8c79-7180ec1da158",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Private Nonfarm Payroll Employment (May) | actual 120000K | consensus 85000K | previous 123000K"
+    },
+    {
+      "id": "mkt:019e97c3-51e5-7bb5-8c79-acfea1223d57",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Employment SA (May) | actual 7000K | consensus 2000K | previous -2000K"
+    },
+    {
+      "id": "mkt:019e97c3-53ac-7bb5-8c79-b99b3add920a",
+      "time": "2026-06-05 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Nonfarm Payroll Employment (May) | actual 172000K | consensus 85000K | previous 115000K"
+    },
+    {
       "id": "4919794",
       "time": "2026-06-05 20:30:01",
       "tags": [
         "其他"
       ],
       "text": "世界衛生組織與非洲疾控中心推出耗資 5.18 億美元的埃博拉防控新方案。"
+    },
+    {
+      "id": "mkt:019e97c3-0688-7bb5-8c79-5b7845972f67",
+      "time": "2026-06-05 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Part Time (May) | actual -66200K | previous 29000K"
+    },
+    {
+      "id": "mkt:019e97c3-0687-7bb5-8c79-5154269d7eff",
+      "time": "2026-06-05 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Labor Force Participation Rate (May) | actual 65% | consensus 65.10% | previous 65.00%"
+    },
+    {
+      "id": "mkt:019e97c3-0527-7bb5-8c79-44eec510d884",
+      "time": "2026-06-05 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change (May) | actual 87800K | consensus 10000K | previous -17700K"
+    },
+    {
+      "id": "mkt:019e97c3-054d-7bb5-8c79-498b5009c9ed",
+      "time": "2026-06-05 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Full Time (May) | actual 154000K | previous -46700K"
+    },
+    {
+      "id": "mkt:019e97c3-0523-7bb5-8c79-39b430b7d304",
+      "time": "2026-06-05 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Unemployment Rate (May) | actual 6.6% | consensus 6.90% | previous 6.90%"
     },
     {
       "id": "4919793",
@@ -171095,149 +171698,6 @@
         "公司"
       ],
       "text": "【中富通：擬向金融機構申請不超24億元授信額度】中富通公告稱，公司於2026年5月29日召開會議，審議透過向相關金融機構申請總額不超24億元授信額度的議案，有效期自2025年度股東會審議透過之日起至2026年度股東會召開之日。本次申請尚需提交公司股東會審議。董事會提請股東會授權董事長陳融潔在決議有效期內，可對授信金融機構、額度等作適當調整並確定具體授信業務及擔保事項。"
-    },
-    {
-      "id": "te:economy:554968",
-      "time": "2026-05-29 20:40:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Monthly GDP MoM",
-        "Importance 1"
-      ],
-      "text": "Canada GDP Set to Rebound in April — The Canadian economy likely expanded 0.4% month-over-month in April 2026, the most since January 2025, recovering from a 0.1% drop in March, according to preliminary estimates. In March, the GDP shrank for the first time in five months, mainly driven by a 0.8% contraction in goods-producing industries. Oil and gas extraction decreased 2% and oil and gas extraction (except oil sands) was down 2.3%, the largest drop in over a year, as lower crude petroleum extraction in the Western provinces and Atlantic Canada contributed to the decline. Lower natural gas extraction further contributed. In addition, the construction sector was down 0.6% and retail trade contracted 0.6% while wholesale trade rose 1.8%, to mark the largest back-to-back monthly growth rates in over four years."
-    },
-    {
-      "id": "4907306",
-      "time": "2026-05-29 20:40:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST太和：股票終止上市，6月8日進入退市整理期交易15個交易日】*ST太和公告，公司於2026年5月29日收到上海證券交易所《關於上海太和水科技發展股份有限公司股票終止上市的決定》，因公司2025年度淨利潤為負且營業收入低於3億元，內部控制被出具否定意見的審計報告，觸及終止上市條件，上交所決定終止公司股票上市。公司股票將於2026年6月8日進入退市整理期，交易期限為15個交易日，預計最後交易日期為2026年6月29日，首個交易日無漲跌幅限制，其他交易日漲跌幅限制為10%。退市整理期屆滿後5個交易日內上交所將予以摘牌，公司股票將轉入全國中小企業股份轉讓系統進行股份轉讓。"
-    },
-    {
-      "id": "4907305",
-      "time": "2026-05-29 20:40:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨轉跌。"
-    },
-    {
-      "id": "4907304",
-      "time": "2026-05-29 20:39:39",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "【加拿大自2020年以來首次陷入“技術性衰退”】由於企業和政府支出的疲軟導致第一季度經濟出現小幅萎縮，加拿大經濟步入“技術性衰退”。加拿大統計局週五報告稱，今年前三個月，加拿大實際國內生產總值（GDP）按年率計算下降了0.1%。在此之前，第四季度已出現1%的萎縮——這一資料較該機構此前報告的0.6%降幅進行了下修。第一季度出人意料的經濟下滑，與此前預測人士的預期形成了鮮明反差。彭博社調查的經濟學家此前普遍預計，加拿大第一季度經濟將按年率增長1.5%，這一預期也與加拿大央行的預測相吻合。加拿大上一次錄得連續兩個季度負增長是在2020年新冠疫情期間。而在那之前出現這種情況是在2015年油價低迷時期。"
-    },
-    {
-      "id": "mkt:019e73bf-3ad2-7664-a098-0d591a1cd43b",
-      "time": "2026-05-29 20:39:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnam's top leader said the country will consistently adhere to its defense policy and will not join military alliances aimed at other countries."
-    },
-    {
-      "id": "4907303",
-      "time": "2026-05-29 20:39:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國航天員又重新整理一個紀錄】神舟二十一號航天員乘組於2025年11月1日進駐中國空間站，3名航天員在軌駐留210天，重新整理了中國航天員單個乘組在軌駐留最長紀錄。 (央視新聞)"
-    },
-    {
-      "id": "4907302",
-      "time": "2026-05-29 20:39:10",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲。截至發稿，道指期貨漲0.29%，標普500指數期貨漲0.16%，納指期貨漲0.06%。\n②德國DAX指數漲0.00%，英國富時100指數漲0.19%，法國CAC40指數漲0.63%，歐洲斯托克50指數漲0.39%。\n③WTI原油跌1.38%，報87.67美元/桶。布倫特原油跌1.61%，報91.21美元/桶。\n④美伊據悉商定延長休戰60天，協議有待特朗普批准。\n⑤美聯儲穆薩勒姆警告：別指望AI能解決通脹問題，加息大門不可關閉。\n⑥埃克森美孚：石油庫存逼近歷史最低位! 霍爾木茲海峽再不開，油價或踏向新一輪狂飆。\n⑦戴爾盤前飆升超40%，戴爾2027財年第一財季(截至2026年5月1日)實現營收438億美元，同比增長88%，創歷史新高，且超出分析師最樂觀預期整整21%。\n⑧IBM盤前續漲5.7%，擬投資100億美元加碼量子計算賽道。\n⑨高通美股盤前漲超5%。"
-    },
-    {
-      "id": "te:economy:554967",
-      "time": "2026-05-29 20:39:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "GDP Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Canada GDP Unexpectedly Stalls — The Canadian GDP stalled in the first quarter of 2026, holding the 0.2% contraction from the last quarter of 2025, and contrasting with market expectations that it would expand by 0.3%. Consumption expenditure inched higher by 0.2%, slowing from the 0.7% jump in the previous period, with household consumption rising by 0.4% to offset a 0.2% drop in government expenditure. In turn, gross fixed capital formation contracted by 1.1%, the first drop in one year. In turn, the GDP was pressured significantly by a 2.9% increase in imports, particularly for gold and scrap metal. Meanwhile, exports fell by 0.1% despite the surging oil and gas prices during March due to the outbreak of war in the Middle East. Much of the gold imported, in addition to manufactured goods were added to inventory, preventing a second contraction in the Canadian GDP. In annualized terms, Canada's GDP inched lower by 0.1%."
-    },
-    {
-      "id": "te:economy:554966",
-      "time": "2026-05-29 20:39:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Wholesale Inventories",
-        "Importance 1"
-      ],
-      "text": "US Wholesale Inventory Growth Slows in April — US wholesale inventories advanced by 0.5% month-over-month to $938.6 billion in April 2026, following an upwardly revised 1.5% increase in March and compared with market forecasts for a 0.6% rise. This marked the third consecutive monthly increase in wholesale inventories, but the pace moderated from March, which saw the strongest growth since August 2022. Stocks of durable goods rose by 0.9%, after a 0.5% increase in March, while those of nondurables decreased by 0.2%, after a 3.2% advance in the prior month. On a yearly basis, wholesale inventories rose by 3.4%."
-    },
-    {
-      "id": "4907301",
-      "time": "2026-05-29 20:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理表示，希望獲得相關保障，確保烏克蘭境內匈牙利族民眾的合法權益得到維護。"
-    },
-    {
-      "id": "4907300",
-      "time": "2026-05-29 20:38:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方航空：擬向重慶航空增資45億元，持股比例將升至91.47%】南方航空公告，公司擬以貨幣方式向控股子公司重慶航空增資45億元，其中44.26億元計入註冊資本，7377.05萬元計入資本公積。本次增資事項已獲公司第十屆董事會第十六次會議審議透過，無需提交股東會審議。增資後公司對重慶航空持股比例將由60%升至91.47%，重慶交投持股比例降至8.53%。增資資金為公司自有資金，不構成關聯交易及重大資產重組。"
-    },
-    {
-      "id": "4907299",
-      "time": "2026-05-29 20:38:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "奧地利外交部長召見俄羅斯大使。"
-    },
-    {
-      "id": "4907298",
-      "time": "2026-05-29 20:38:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理表示，歐盟資金髮放與烏克蘭入盟談判不存在關聯。"
-    },
-    {
-      "id": "4907297",
-      "time": "2026-05-29 20:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長：不相信任何保證或言辭 只有行動才是衡量標準】伊朗議會議長卡利巴夫表示，我們獲取讓步不是透過對話，而是透過導彈；在談判中，我們只是讓對方“明白情況”。他指出，我們不相信任何保證或言辭；只有行動才是衡量標準。在對方行動之前，我們不會採取任何行動。他補充說，任何協議的勝者，是那些在協議達成後的第二天就為戰爭做好更充分準備的人。"
-    },
-    {
-      "id": "4907296",
-      "time": "2026-05-29 20:37:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST葫蘆娃：控股股東質押2400萬股股份用於償還債務】ST葫蘆娃公告稱，公司控股股東葫蘆娃投資於5月28日質押2400萬股，佔其持股16.76%，佔公司總股本6.00%，質押融資資金用於償還債務。截至公告披露日，葫蘆娃投資持有公司1.43億股，佔總股本35.79%，累計質押1.12億股，佔其持股78.37%。控股股東及其一致行動人合計持有2.78億股，佔總股本69.36%，累計質押1.40億股，佔其持股50.50%，佔公司總股本35.03%。"
-    },
-    {
-      "id": "4907295",
-      "time": "2026-05-29 20:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【分析師：日本匯市干預規模驚人，但選錯時機恐讓巨資打水漂】分析師Justin Low表示，日本4月至5月期間匯市干預規模為11.7萬億日元，這是一個相當驚人的數字，這一次的規模超過了2022和2024年裡任何單一時期的干預規模。這種支出金額無疑意味著他們在最近的干預行動中並未手軟。問題在於，時機選擇相當不利，這使得市場能夠更猛烈地進行反向推升。首先，自美伊衝突開始以來，所有基本面因素都對日元極為不利。其次，干預的時機並非最佳，因為他們選擇在5月初日本市場假期期間進行。在流動性較低的時期不採取行動，聽起來可能違反直覺，但其中存在一定的微妙之處。干預的重點與其說是資金，不如說是訊號傳遞。需要有足夠多的市場參與者接收到這個訊號並將其放大，從而形成“不該與日本財務省對著幹”的共識。否則，如果沒有足夠的流動性來傳導，這個訊號就可能丟失。最終，在交易者看來，它可能被當作噪音而非真正的前瞻性訊號而忽略掉。"
     }
   ]
 }
