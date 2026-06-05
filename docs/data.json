@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-05 08:39:13",
-  "count": 19006,
+  "updated": "2026-06-05 08:43:04",
+  "count": 19003,
   "items": [
+    {
+      "id": "mkt:019e953b-1c4a-7cc8-bdf0-59a2d97702a9",
+      "time": "2026-06-05 08:42:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs."
+    },
+    {
+      "id": "4918356",
+      "time": "2026-06-05 08:41:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。"
+    },
     {
       "id": "4918355",
       "time": "2026-06-05 08:38:23",
@@ -175032,52 +175051,6 @@
         "國際"
       ],
       "text": "【現代摩比斯股價上漲11% 】韓國現代摩比斯（Hyundai Mobis）股價上漲11%。現代摩比斯作為機器人零部件製造商，尤金投資證券將其目標股價上調至91萬韓元。目前，現代摩比斯是現代汽車集團的核心零部件供應商，主要為現代、起亞、捷尼賽思三大集團品牌供貨。"
-    },
-    {
-      "id": "4905760",
-      "time": "2026-05-29 08:41:44",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【市場分析：東京通脹放緩料難改變日本央行加息方向】東京核心通脹指標意外跌至四年低位，雖令央行表態陷入兩難，但大機率不會打亂其下月啟動加息的計劃。日本總務省週五資料顯示，5月東京不含生鮮食品的核心CPI同比上漲1.3%，該指標已連續六個月回落。日本央行官員擔憂伊朗局勢會推高物價，這也為其在6月15日至16日的下一輪議息會議上加息提供了空間。據隔夜指數掉期資料，截至週五早盤，交易市場預計此次會議加息機率約為77%。"
-    },
-    {
-      "id": "mkt:019e712d-be00-7ee0-99de-b4f16444cc2d",
-      "time": "2026-05-29 08:41:23",
-      "tags": [
-        "MKT News",
-        "066570.KS",
-        "Impact bullish"
-      ],
-      "text": "LG Electronics shares surged 24%."
-    },
-    {
-      "id": "4905759",
-      "time": "2026-05-29 08:41:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "弘陽服務集團有限公司在香港暫停交易。"
-    },
-    {
-      "id": "mkt:019e712d-8494-7ee0-99de-ad305df4b249",
-      "time": "2026-05-29 08:41:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【USHAKOV says US unlikely to immediately approve Ukraine request for additional air-defence systems and missiles】USHAKOV said on the 28th the United States is unlikely to immediately accede to Ukraine's request for additional air-defence systems and missiles; he added it remains doubtful the US will \"immediately satisfy\" Zelenskiy's weapons request and that Zelenskiy has likely written to Washington several times. Separately, the US State Department on the 21st approved a $108.1m sale of equipment to support operation of Hawk air-defence missile systems."
-    },
-    {
-      "id": "em:jjsj_rbsj:202605293753448813",
-      "time": "2026-05-29 08:41:00",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【普查顯示日本人口過去五年中減少了2.5%】據日本總務省釋出的人口普查結果，截至2025年10月1日，日本人口約為1.231億，比2020年減少2.5%。人口減少約310萬。東京和沖繩是僅有的兩個人口增長的都道府縣，分別增長了1.4%和0.1%。"
     }
   ]
 }
