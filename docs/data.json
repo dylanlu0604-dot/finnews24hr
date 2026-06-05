@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-05 23:24:36",
-  "count": 18730,
+  "updated": "2026-06-05 23:28:43",
+  "count": 18735,
   "items": [
+    {
+      "id": "4920157",
+      "time": "2026-06-05 23:27:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 俄羅斯達成既定目標之時，烏克蘭境內的軍事行動便會結束。"
+    },
+    {
+      "id": "4920156",
+      "time": "2026-06-05 23:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳用電負荷九天三創歷史新高 折射經濟蓬勃發展】南方電網深圳供電局資料顯示，6月5日12點24分，深圳電網用電負荷達2525.03萬千瓦，這已是九天（上週四到本週五）第三次創下歷史新高。據瞭解，今年深圳高溫天氣前置，疊加工業生產穩中向好、數字經濟蓬勃發展、民生消費持續旺盛，多重因素共同推動電力負荷提前突破極值，由此帶動用電量穩步增長。（新華社）"
+    },
+    {
+      "id": "4920155",
+      "time": "2026-06-05 23:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯為保障經濟穩健發展，正主動引導經濟適度放緩。"
+    },
+    {
+      "id": "mkt:019e9864-ec66-7665-8308-51a96d1e2093",
+      "time": "2026-06-05 23:26:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin said Russia is deliberately slowing the economy to preserve its healthy development."
+    },
+    {
+      "id": "mkt:019e9863-431c-7665-8308-4ae737c06bf0",
+      "time": "2026-06-05 23:24:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he believes Russia will be attractive to investors."
+    },
+    {
+      "id": "mkt:019e9862-d28b-7665-8308-4176448ecccf",
+      "time": "2026-06-05 23:24:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said he does not see any short-term threat to the Russian economy."
+    },
+    {
+      "id": "mkt:019e9862-c54a-7665-8308-3afe9617028e",
+      "time": "2026-06-05 23:24:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fox News reported U.S. Energy Secretary wright said the U.S. will refill the Strategic Petroleum Reserve with 40 mln barrels of crude once the conflict with Iran ends."
+    },
+    {
+      "id": "4920154",
+      "time": "2026-06-05 23:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 我們沒有看到經濟面臨威脅，我們相信俄羅斯對投資仍具備吸引力。"
+    },
+    {
+      "id": "4920153",
+      "time": "2026-06-05 23:23:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長賴特： 伊朗衝突結束後，美國將向戰略石油儲備（SPR）增補 4000 萬桶原油。"
+    },
     {
       "id": "mkt:019e9861-bf8d-7665-8308-300a0d4e13f4",
       "time": "2026-06-05 23:23:20",
@@ -172411,43 +172493,6 @@
         "國際"
       ],
       "text": "【美對伊朗軍事行動花費超955億美元】從今年2月28日，美國和以色列發動針對伊朗的軍事行動，至今已逾90天。雖然衝突按下“暫停鍵”，但持續的軍事部署令美軍仍消耗巨大。據獨立研究網站“伊朗戰爭成本追蹤網”公佈的實時資料顯示，截至目前，美國在對伊朗的軍事行動中已花費超過955億美元。該統計基於美國國防部向國會提交的一份報告，該報告顯示衝突爆發後，頭6天美軍支出為113億美元，此後日均支出預計約為10億美元。該網站統計了美軍部署的人員、戰艦、後勤補給及其他附帶性支出所需的費用。（ CCTV國際時訊 ）"
-    },
-    {
-      "id": "4907590",
-      "time": "2026-05-29 23:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：3 月美國汽油日供應量增至 885 萬桶，創 2025 年 10 月以來新高。"
-    },
-    {
-      "id": "mkt:019e7457-7ae8-7bb7-9963-1a4fb562b9a8",
-      "time": "2026-05-29 23:25:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【EU to unfreeze €16.4bln for Hungary】The European Commission will unfreeze €16.4bln in EU funds for Hungary, von der Leyen said on the 29th. The package includes €10.0bln from NextGenerationEU, €4.2bln tied to cohesion-fund conditions and €2.2bln released after progress on university autonomy. Von der Leyen said the commission and Hungary reached agreement on rule-of-law and anti-corruption steps; Hungary has agreed to join the European Public Prosecutor’s Office, strengthen anti-corruption bodies and amend public procurement law. Prime Minister Magyar said the funds equal about 13% of Hungary’s annual budget and will be used for SMEs, transport, healthcare, education, energy infrastructure and digital technology."
-    },
-    {
-      "id": "4907588",
-      "time": "2026-05-29 23:25:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟將解凍匈牙利164億歐元歐盟資金】歐盟委員會主席馮德萊恩29日說，歐盟將解凍屬於匈牙利的164億歐元歐盟資金。馮德萊恩在同匈牙利總理毛焦爾·彼得會談後舉行的聯合記者會上說，這164億歐元包括“下一代歐盟”計劃的100億歐元、與凝聚基金條件相關的42億歐元，以及因匈牙利在高校自主權方面取得進展而釋放的22億歐元。馮德萊恩說，匈牙利新政府和歐盟委員會就應對腐敗和法治方面的問題達成一致。匈牙利已決定加入歐洲檢察官辦公室，以保障歐盟資金安全，同時同意加強廉政機構權力、修訂公共採購法等。毛焦爾表示，這筆資金相當於匈牙利政府年度預算的約13%，將被用於支援中小企業、交通、醫療、教育、能源基礎設施和數字技術發展等領域。（新華社）"
-    },
-    {
-      "id": "4907587",
-      "time": "2026-05-29 23:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，3 月美國原油及油品日供應量降至 2038 萬桶，為 2025 年 11 月以來新低。"
     }
   ]
 }
