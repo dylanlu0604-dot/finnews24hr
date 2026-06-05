@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-05 22:15:48",
-  "count": 18681,
+  "updated": "2026-06-05 22:20:07",
+  "count": 18689,
   "items": [
+    {
+      "id": "mkt:019e9826-e7d4-7665-8305-ffc6c1f65f74",
+      "time": "2026-06-05 22:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England monetary policy committee member Dhingra said she has no strong view on the trade-off between weak employment and price pressures."
+    },
+    {
+      "id": "te:economy:556944",
+      "time": "2026-06-05 22:19:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Canada Economic Activity Rises the Most in 8 Months — Canada’s Ivey PMI rose further to 58.2 in May 2026 from 57.7 in the prior month and overshooting market forecasts of 55. The latest data signaled a faster expansion in economic activity compared to April, marking the steepest increase since September 2025. The employment index eased to 54.3 from 54.7 in April, but still indicative of robust job growth, while the supplier deliveries index rose to 44.7 from 44.3. Meanwhile, the inventories index dropped to 47.9 from 56.5; and price pressures heated up, with the prices Index rising to 78 from 76.6."
+    },
+    {
+      "id": "4920044",
+      "time": "2026-06-05 22:18:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員丁格拉：對於就業疲軟與物價壓力之間的權衡暫無明確傾向。"
+    },
+    {
+      "id": "mkt:019e9826-a838-7665-8305-f004635cda71",
+      "time": "2026-06-05 22:18:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Shanghai tin 2607 futures slid further intraday, down 5.02% at 405,320 yuan/ton; trading turnover topped 36 billion yuan. Open interest rose by about 400 contracts as intraday volatility widened."
+    },
+    {
+      "id": "4920043",
+      "time": "2026-06-05 22:18:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【41條綜合改革試點經驗舉措將獲推廣】據國家發展改革委，上海浦東新區、深圳、廈門綜合改革試點取得積極成效，41條創新舉措和經驗做法將向全國或有條件的地區推廣，主要包括：建立人工智慧應用場景清單制度、創新離境退稅退付模式、實行居住證持有人基本公共服務精細化供給等。"
+    },
+    {
+      "id": "mkt:019e9826-59bc-7665-8305-e9f5607cd434",
+      "time": "2026-06-05 22:18:30",
+      "tags": [
+        "MKT News",
+        "FNMA.O",
+        "Impact bearish"
+      ],
+      "text": "Fannie Mae shares reversed into a decline after earlier intraday gains of up to 10%."
+    },
+    {
+      "id": "4920042",
+      "time": "2026-06-05 22:18:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "房利美轉跌。"
+    },
+    {
+      "id": "mkt:019e9825-d35c-7665-8305-e4457234519a",
+      "time": "2026-06-05 22:17:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME aluminium down 2.00% intraday, trading at $3,593.74/ton."
+    },
+    {
+      "id": "mkt:019e9825-c792-7665-8305-de2f3fa30485",
+      "time": "2026-06-05 22:17:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Glenmede: Fed's constraint on rate cuts remains inflation, not employment】Jason Pride, head of investment strategy and research at Glenmede, said the Fed’s decision framework is unchanged: the constraint on cutting rates remains inf rather than employment. Though the labor market has not accelerated, it is more resilient than unrevised data suggest, lowering the urgency for Fed action on employment. Investors should expect the Fed to hold rates at the next meeting and watch whether post-ceasefire energy relief measures begin to pull down headline inf."
+    },
+    {
+      "id": "4920041",
+      "time": "2026-06-05 22:17:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報405410.00元。"
+    },
+    {
+      "id": "mkt:019e9825-6725-7665-8305-d5c97f447222",
+      "time": "2026-06-05 22:17:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai Futures Exchange's most-active silver contract extended losses, down more than 5.33% to 16,826 yuan/kg."
+    },
+    {
+      "id": "4920040",
+      "time": "2026-06-05 22:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：菲律賓馬尼託西北偏北 7 公里處發生 5.3 級地震。"
+    },
+    {
+      "id": "4920039",
+      "time": "2026-06-05 22:16:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行Exane將Lululemon評級從中性下調至表現不佳。"
+    },
+    {
+      "id": "mkt:019e9824-9e80-7665-8305-c80aa748242c",
+      "time": "2026-06-05 22:16:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-U.S. General Aviation Industry Exchange Held in Chongqing】June 5 — A China-U.S. general aviation industry exchange convened in Chongqing with more than 150 representatives from Chinese and U.S. agencies and companies. U.S. participants included Sikorsky, Textron, Textron Aviation, Bell Helicopter, Bosch audiovisual systems and Lycoming Engines. Discussions focused on industry development trends, commercialization of application scenarios, emergency rescue and safety systems, integration of general aviation with cultural-tourism consumption, and professional talent training, and explored industry-chain collaborative innovation and practical project cooperation."
+    },
+    {
+      "id": "4920038",
+      "time": "2026-06-05 22:15:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中美（重慶）通用航空行業交流會在重慶舉辦】6月5日，中美（重慶）通用航空行業交流會在重慶舉辦，中美有關機構和企業代表150餘人參會。交流會上，西銳飛機、德事隆集團、德事隆航空、貝爾直升機、博世視聽系統、萊康明發動機等多家美國頭部通航企業代表，同中方主管部門及業內企業嘉賓，圍繞行業前沿發展趨勢、應用場景創新落地、應急救援與安全保障體系搭建、通航產業與文旅消費融合、專業人才培養等議題展開深入交流，就產業鏈協同創新、務實專案落地等合作潛力進行研討。本次交流會系中美企業合作對接專案（CMP）首場通用航空專項對接活動，由中國貿促會產業促進部、美國駐華大使館商務處共同主辦，重慶市交通運輸委員會、重慶市貿促會承辦，旨在推動中美企業在通用航空和低空經濟領域開展務實交流與對接合作。"
+    },
+    {
+      "id": "4920037",
+      "time": "2026-06-05 22:15:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《住房公積金管理條例（修訂徵求意見稿）》 修訂的主要思路】6月5日，住房城鄉建設部就《住房公積金管理條例（修訂徵求意見稿）》向社會公開徵求意見。此次《條例》修訂，最主要的思路，就是讓住房公積金制度更好滿足繳存人不同階段的多元化住房消費需求。一是從“購房”、“租房”拓展到“修房”、“養房”，讓資金用途更豐富。二是把廣大靈活就業人員納入制度覆蓋範圍，讓受益群體更廣泛。三是推動互認互貸，加強數字化建設，讓資金使用更便捷。四是強化風險管理，防範騙提騙貸，讓資金執行更安全。（中國房地產報）"
+    },
+    {
+      "id": "4920036",
+      "time": "2026-06-05 22:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面報道稱，烏克蘭基輔及多個地區釋出空襲警報。"
+    },
+    {
+      "id": "mkt:019e9823-9b53-7665-8305-c05951a5dc5b",
+      "time": "2026-06-05 22:15:30",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England MPC member DHINGRA said it is difficult to say how he will make future rate decisions; they will depend on energy prices."
+    },
     {
       "id": "4920035",
       "time": "2026-06-05 22:14:55",
@@ -171964,99 +172135,6 @@
         "國際"
       ],
       "text": "世界衛生組織：歐盟與世衛組織擴大行動規模，應對剛果民主共和國與烏干達的埃博拉疫情。"
-    },
-    {
-      "id": "4907490",
-      "time": "2026-05-29 22:19:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源執行長：受儲備補庫需求影響，原油供需失衡局面或將持續至 2027 年。"
-    },
-    {
-      "id": "4907489",
-      "time": "2026-05-29 22:18:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長與阿曼外交大臣通話 討論霍爾木茲海峽未來管理問題】當地時間5月29日，伊朗外長阿拉格齊在社交平臺表示，他同阿曼外交大臣巴德爾通話，雙方討論了霍爾木茲海峽及其未來管理問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e7419-184c-7eef-a0f0-d8109d962ff7",
-      "time": "2026-05-29 22:17:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Beijing Development and Reform Commission holds forum with private tech firms】Beijing Municipal Development and Reform Commission held a forum with eight private technology firms on May 29. Party Secretary and Director Yang Xiuling said Beijing will aim to become a world-class tech innovation source during the 15th Five-Year Plan period, further strengthen two trillion-yuan-scale industry clusters—new-generation information technology and pharmaceuticals & healthcare—and cultivate two additional trillion-yuan clusters in artificial intelligence and green advanced energy/low-carbon environmental protection. She urged private tech companies to leverage Beijing’s science, talent and innovation resources and align with the capital’s high-quality development agenda."
-    },
-    {
-      "id": "4907488",
-      "time": "2026-05-29 22:17:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告：油價繼續走低，受美伊有望達成協議的希望影響】原油期貨擴大跌幅，因市場預期開放霍爾木茲海峽的協議可能很快達成。BOK Financial的Dennis Kissler在一份報告中說：“在和平協議正在醞釀之際，關於週末將有更多石油運輸透過該海峽的預期正持續對油價施壓。“他說：“儘管全球原油供應依然緊張，但對供應長期緊張的擔憂正繼續從價格曲線中消除。“在今日7月合約到期前，西得州中質油下跌1.7%，至每桶87.40美元，布倫特原油下跌1.7%，至每桶92.12美元。"
-    },
-    {
-      "id": "4907487",
-      "time": "2026-05-29 22:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市發展和改革委員會召開科技創新領域民營企業座談會】5月29日上午，北京市發展和改革委員會黨組書記、主任楊秀玲主持召開科技創新領域民營企業座談會，圍繞當前經濟形勢和“十五五”開篇佈局，聽取民海生物、星河動力、易動宇航、九章雲極、世紀互聯、星動紀元、海博思創、安世亞太等8家民營企業的意見建議。楊秀玲表示，“十五五”時期，北京市將努力打造世界級科技創新策源地，進一步做強新一代資訊科技、醫藥健康這2個萬億級產業叢集，新培育人工智慧、綠色先進能源和低碳環保產業2個萬億級產業叢集，為科技創新企業在京發展提供良好的產業創新生態和發展環境。希望企業家們繼續堅定發展信心，用好用足北京科技、人才、創新等優勢資源，積極融入首都高質量發展大局。"
-    },
-    {
-      "id": "4907486",
-      "time": "2026-05-29 22:16:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：上海果納半導體技術股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019e7418-08e2-7eef-a0f0-d352416aebba",
-      "time": "2026-05-29 22:16:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "An HKEX filing shows Shanghai Guona Semiconductor Technology Co. submitted a listing application to HKEX."
-    },
-    {
-      "id": "4907485",
-      "time": "2026-05-29 22:16:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月29日增減持彙總】據不完全統計，5月29日盤後，東方盛虹披露增持情況，包括恆基達鑫、三利譜、海泰新光、生益科技、永輝超市、方正證券、滬矽產業、科遠智慧、騰遠鈷業、金太陽、天瑞儀器在內的11家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "te:markets:555012",
-      "time": "2026-05-29 22:16:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Near 2-Week Lows, Still on Track for Monthly Gain — The dollar index was little changed at 99 on Friday, close to two-week lows, but was on track to end the May month about 1% higher, as investors continued to monitor developments in the Middle East. Signs have emerged that the US and Iran may be closer than ever to reaching an agreement, with recent reports indicating that both countries have reached a preliminary understanding to extend a ceasefire by 60 days and begin discussions over the future of Tehran’s nuclear program, although President Trump has yet to formally endorse the terms. Oil prices have declined, helping to ease inflationary pressures. Data released on Thursday showed that both headline and core PCE monthly inflation came in below expectations although annual readings remained well above the Fed’s target at 3.8% and 3.3%. Investors currently expect the Fed to keep the federal funds rate unchanged through year-end, though markets still assign roughly a 46% probability to a rate hike in December."
-    },
-    {
-      "id": "4907484",
-      "time": "2026-05-29 22:16:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【標普500指數有望錄得罕見九周連漲】有關停火協議可能為中東衝突畫上句號的希望，推動美國股市邁向罕見的周線連漲紀錄，人工智慧交易熱潮也為市場帶來提振。標普500指數自戰爭引發的低點已反彈近20%，有望實現連續第九週上漲，為2023年12月以來最長連漲週期。自1985年以來，這種罕見走勢僅出現過幾次。週五，該指數小幅走高，徘徊在紀錄高位附近。"
     }
   ]
 }
