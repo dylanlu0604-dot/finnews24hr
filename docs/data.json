@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-06 03:10:28",
+  "updated": "2026-06-06 03:14:21",
   "count": 18831,
   "items": [
+    {
+      "id": "mkt:019e9934-6d4b-7665-830c-adaf0c9f4165",
+      "time": "2026-06-06 03:13:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A CDC official said CDC models show that, without strong public-health interventions, an Ebola outbreak on the scale of 2014-2016 remains possible. The official said urgent permission to enter is needed to contain the Ebola outbreak in the Democratic Republic of Congo and prevent it reaching or exceeding the scale of the 2014 West Africa epidemic."
+    },
+    {
+      "id": "4920318",
+      "time": "2026-06-06 03:12:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至4.5%。"
+    },
+    {
+      "id": "4920317",
+      "time": "2026-06-06 03:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX與谷歌達成每月9.2億美元的雲服務協議】SpaceX和谷歌達成雲服務協議。根據該協議，谷歌同意從2026年10月到2029年6月每月向SpaceX支付9.2億美元。提供的計算能力包括約11萬個英偉達GPU、CPU、記憶體和其他相關元件。相關算力在9月之前將逐步提升，費用會相應降低。如果SpaceX未能在2026年9月30日前交付約定數量的GPU，在一個月寬限期之後，谷歌可以選擇立即終止協議，或接受已交付的GPU數量，並相應按比例減少月費。在2026年12月31日之後，任一方均可提前90天通知終止協議。谷歌將保留其內容、人工智慧模型及相關資料的所有權與智慧財產權。"
+    },
+    {
+      "id": "4920316",
+      "time": "2026-06-06 03:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：急需通行便利，以減緩剛果（金）埃博拉疫情的蔓延，防止疫情規模達到甚至超過2014年西非埃博拉暴發的水平。"
+    },
+    {
+      "id": "4920315",
+      "time": "2026-06-06 03:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：若不採取強有力的公共衛生干預措施，疾控中心的模型分析顯示，西非重現2014至2016年規模的埃博拉疫情是有可能的。"
+    },
     {
       "id": "4920314",
       "time": "2026-06-06 03:09:06",
@@ -173458,51 +173498,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：已查扣價值約 10 億美元的伊朗加密貨幣資產。"
-    },
-    {
-      "id": "4907715",
-      "time": "2026-05-30 03:13:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "OCULIS HOLDING美國股價放量下跌，在該公司公佈三期藥物研究結果後，股價最新下跌23.4%，報每股22.71美元。"
-    },
-    {
-      "id": "mkt:019e7527-124e-7bb7-9965-b3d7cb06b7ec",
-      "time": "2026-05-30 03:12:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent says he believes 40% to 50% of Iran's military have not been paid."
-    },
-    {
-      "id": "mkt:019e7526-96f1-7bb7-9965-aa9300d910c7",
-      "time": "2026-05-30 03:12:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said Iran's inflation rate could exceed 200%."
-    },
-    {
-      "id": "mkt:019e7526-7462-7bb7-9965-a7eac9650fa4",
-      "time": "2026-05-30 03:11:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Treasury Secretary Bessent said President Trump is explicitly seeking free and open passage through the Strait of Hormuz."
-    },
-    {
-      "id": "4907714",
-      "time": "2026-05-30 03:10:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默考慮大舉舉債，為國防開支提供資金。"
     }
   ]
 }
