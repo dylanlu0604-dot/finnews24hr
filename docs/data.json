@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-05 13:46:48",
-  "count": 18958,
+  "updated": "2026-06-05 13:50:49",
+  "count": 18954,
   "items": [
+    {
+      "id": "mkt:019e9654-e94c-7ff7-b578-195badd5036e",
+      "time": "2026-06-05 13:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WFP: Middle East crisis could put 45 million at risk of hunger】WFP acting executive director warned the Middle East crisis is spilling into global food security by pushing up energy and food prices; if it persists about 45 million people could face hunger. He cited rising food and fuel costs and chronic underfunding of humanitarian and development aid; with East Africa entering planting and rainy seasons, fertilizer shortages and higher operating costs could cut output and tighten supplies over the next 6-9 months, and the crisis’ long-term impact on food security may be more severe."
+    },
+    {
+      "id": "mkt:019e9654-dde1-7ff7-b578-12fb89504052",
+      "time": "2026-06-05 13:50:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share commercial space sector rose amid afternoon volatility; Zhongtian Rocket hit the daily limit, while Xinwei Telecom, Aerospace Electronics, CETC Lantian and Tongyu Communications also advanced."
+    },
+    {
+      "id": "mkt:019e9654-dc79-7ff7-b578-08736fd8987e",
+      "time": "2026-06-05 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD"
+      ],
+      "text": "UK May Halifax seasonally adjusted house price index MoM due in 10 minutes."
+    },
+    {
+      "id": "4918817",
+      "time": "2026-06-05 13:49:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商業航天板塊震盪上揚，中天火箭觸及漲停】商業航天板塊震盪上揚，中天火箭觸及漲停，信維通訊、航天電子、電科藍天、通宇通訊跟漲。"
+    },
+    {
+      "id": "4918816",
+      "time": "2026-06-05 13:47:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太坊跌破1700美元。"
+    },
+    {
+      "id": "4918815",
+      "time": "2026-06-05 13:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南裕能增資至8.4億 增幅約11%】天眼查App顯示，近日，湖南裕能（301358）發生工商變更，註冊資本由約7.6億人民幣增至約8.4億人民幣，增幅約11%。 該公司成立於2016年6月，法定代表人為譚新喬，經營範圍包括電子專用材料研發、電子專用材料製造、電子專用材料銷售等，由湘潭電化集團有限公司、上海津晟新材料科技有限公司、寧德時代（300750）等共同持股。"
+    },
     {
       "id": "mkt:019e9650-a022-7ff7-b578-01ac7e0f30f5",
       "time": "2026-06-05 13:45:25",
@@ -174642,116 +174692,6 @@
         "MKT News"
       ],
       "text": "Romanian General Maksim said a drone remained in Romania for four minutes."
-    },
-    {
-      "id": "mkt:019e7248-699c-711c-8b3e-d9417fb5a07b",
-      "time": "2026-05-29 13:50:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "2026 FOMC voting member and Minneapolis Fed President Neel Kashkari will speak at Korea University in ten minutes."
-    },
-    {
-      "id": "mkt:019e7247-d851-711c-8b3e-d43d87b24871",
-      "time": "2026-05-29 13:49:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan April construction orders YoY -32.3% vs -14.4% prior."
-    },
-    {
-      "id": "mkt:019e7247-cc27-711c-8b3e-cd36c0a1388a",
-      "time": "2026-05-29 13:49:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said preliminary reports indicate air‑raid sirens sounded in the Misgav Am area; details are being verified."
-    },
-    {
-      "id": "4906253",
-      "time": "2026-05-29 13:49:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：其雲服務已於25日/26日以試點模式上線，目前已有9家機構完成接入。"
-    },
-    {
-      "id": "mkt:019e7247-b479-711c-8b3e-c601a14b3a72",
-      "time": "2026-05-29 13:49:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Construction Orders (YoY) (Apr) | actual -32.3% | previous -14.4%"
-    },
-    {
-      "id": "mkt:019e7246-c4f1-711c-8b3e-bb80a89ca5c9",
-      "time": "2026-05-29 13:48:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "European Commission President von der Leyen said the EU will continue to bolster security and deterrence, particularly on its eastern border, while maintaining pressure on Russia."
-    },
-    {
-      "id": "4906252",
-      "time": "2026-05-29 13:47:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩：我們正在籌備針對俄羅斯的第21輪制裁方案。"
-    },
-    {
-      "id": "mkt:019e7245-8621-711c-8b3e-b1ad5612f81f",
-      "time": "2026-05-29 13:46:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "EU Commission President VON DER LEYEN said the EU is preparing a 21st package of sanctions on Russia."
-    },
-    {
-      "id": "mkt:019e7245-6ad2-711c-8b3e-ada0413f59ee",
-      "time": "2026-05-29 13:46:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "EU Commission President Von der Leyen said the drone incident in Romania shows Russia's 'war of aggression' has once again crossed a red line."
-    },
-    {
-      "id": "4906251",
-      "time": "2026-05-29 13:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "肯亞高等法院阻止美國在肯亞設立埃博拉隔離設施。"
     }
   ]
 }
