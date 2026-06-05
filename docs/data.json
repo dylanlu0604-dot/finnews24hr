@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-05 08:46:49",
-  "count": 18998,
+  "updated": "2026-06-05 08:50:30",
+  "count": 18995,
   "items": [
+    {
+      "id": "4918366",
+      "time": "2026-06-05 08:49:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬機器人核心產品一號位施曉鑫6月初主動離職】小鵬機器人產品規劃高階總監施曉鑫已於6月初正式離職。從入職到離場，施曉鑫在小鵬機器人完整履職1675天，橫跨鵬行智慧整合、團隊併入小鵬集團、IRON人形機器人從原型迭代至量產籌備全週期，是小鵬人形產品體系從0到1搭建的標杆元老。關於施曉鑫的下一步去向，目前尚不明確。多位信源透露，施曉鑫現階段無求職意向。知情人士稱，施曉鑫已婉拒多家頭部機器人企業和造車新勢力的邀約，短期暫停職場擇業，優先休整。(36氪)"
+    },
+    {
+      "id": "4918364",
+      "time": "2026-06-05 08:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高階光棒價格漲幅近550% 擁有光棒產能的企業或成本輪行情最大受益方】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。"
+    },
+    {
+      "id": "4918363",
+      "time": "2026-06-05 08:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中天科技與隆基綠能戰略合作簽約】記者獲悉，6月3日，SNEC展會現場，中天科技與隆基綠能舉行戰略合作簽約儀式。根據協議，雙方將推動儲能板塊整合業務及光伏板塊封裝膠膜產品領域的雙向賦能，攜手開拓新能源產業融合共贏的新路徑。"
+    },
+    {
+      "id": "4918362",
+      "time": "2026-06-05 08:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱襲擊加沙北部哈馬斯安全機構成員】當地時間4日，以色列國防軍與國家安全總局（辛貝特）發表聯合宣告稱，以軍對加沙地帶北部發動空襲，打死多名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）安全機構的高階成員。以方稱，這些人員近期正試圖重建哈馬斯並策劃針對以色列的襲擊，此次打擊旨在消除“迫在眉睫的威脅”。對此，哈馬斯方面暫未作出回應。"
+    },
+    {
+      "id": "4918361",
+      "time": "2026-06-05 08:48:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國槓桿ETF面臨下行超跌風險】韓國綜合股價指數（KOSPI）週五大跌不單是博通帶動科技股普跌所致，還源於單一標的槓桿 ETF 集中去槓桿。人工智慧熱潮疊加高頻寬儲存晶片緊缺，令韓國成為年內全球表現最優的主要股票市場。但散戶投資狂熱催生了規模龐大的個股槓桿 ETF。這類產品的資金流動或將形成負反饋迴圈，一旦科技股上漲行情止步，會加劇市場回撥幅度。相較走勢穩健的美股，韓國股市波動率已逼近歷史高位。波動率具備均值迴歸屬性，當前這種單邊上行走勢實屬罕見。核心誘因之一便是掛鉤韓綜指、三星電子與 SK 海力士的槓桿 ETF 規模激增。此類產品本身就容易放大波動（因其需要動用兩倍或三倍名義本金跟隨股價變動調倉），同時其風控避險需求也成為推升波動的關鍵因素。邏輯十分直白：若韓綜指暴跌 50%，兩倍槓桿韓綜指 ETF 淨值將直接歸零。因此槓桿 ETF 會持續對沖暴跌風險、增持波動率頭寸，進而抬升韓國全市場波動率水平。"
+    },
+    {
+      "id": "mkt:019e953f-fae5-7cc8-bdf0-6fedac742d41",
+      "time": "2026-06-05 08:47:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jane Street plans proprietary data center】Jane Street, the Wall Street quantitative trading firm, plans to build a proprietary data center and is seeking financing. The firm is in early-stage talks with technology, cryptocurrency and financial-sector firms; capacity and site have not been decided, sources said."
+    },
+    {
+      "id": "mkt:019e953f-d5e8-7cc8-bdf0-63f4f9739679",
+      "time": "2026-06-05 08:47:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai and Shenzhen margin balances rise CNY6.566 bln】As of June 4, Shanghai Stock Exchange margin financing stood at CNY1.476743 tln, up CNY2.499 bln from the previous trading day; Shenzhen Stock Exchange at CNY1.414148 tln, up CNY4.067 bln. Combined margin balances were CNY2.890891 tln, up CNY6.566 bln."
+    },
+    {
+      "id": "4918360",
+      "time": "2026-06-05 08:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加65.66億元】截至6月4日，上交所融資餘額報14767.43億元，較前一交易日增加24.99億元；深交所融資餘額報14141.48億元，較前一交易日增加40.67億元；兩市合計28908.91億元，較前一交易日增加65.66億元。"
+    },
     {
       "id": "4918359",
       "time": "2026-06-05 08:46:10",
@@ -174910,102 +174982,6 @@
         "公司"
       ],
       "text": "【中遠海控等在重慶成立供應鏈新公司】企查查APP顯示，近日，重慶中遠海運集運供應鏈有限公司成立，註冊資本3億元，經營範圍包含：集中式快速充電站；電動汽車充電基礎設施運營；集裝箱維修等。企查查股權穿透顯示，該公司由中遠海控全資子公司中遠海運集裝箱運輸有限公司等共同持股。"
-    },
-    {
-      "id": "4905776",
-      "time": "2026-05-29 08:50:08",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：全球原油市場風險攀升，天然氣價格或將走高】中信建投研報表示，全球原油市場風險急劇升高，能源與糧食通脹雙向蔓延。國際三大LNG主產國供應收緊，全球天然氣市場看漲情緒升溫。卡達受襲致LNG出口設施受損、修復週期長達數年，美國LNG生產線集中進入檢修季導致出口量下滑，澳大利亞多個LNG專案爆發罷工擾動供應；疊加夏季發電用氣高峰將至，東北亞、歐洲LNG現貨價格已大漲10%，市場預計氣價或將持續震盪走高。"
-    },
-    {
-      "id": "4905775",
-      "time": "2026-05-29 08:49:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：本輪消費復甦的核心特徵預計是“供給側出清先於需求端復甦”】中信證券消費行業2026年下半年投資策略指出，科技板塊擁擠度創新高、“反內卷”政策從供給側結構性改革向內需刺激躍遷、低利率時代正式開啟——三重訊號交匯之下，研報認為當下並非“消費vs.科技”的二元選擇，而是構建槓鈴型組合的必要再平衡。本輪消費復甦的核心特徵預計是“供給側出清先於需求端復甦”，整體呈現溫和、分化、依賴個股alpha的格局。維持短看拐點，長重結構的觀點：短期仍以供給邏輯先行，包括庫存去化、競爭緩和等帶來的頭部企業率先回暖有望繼續，同時期待或有的政策催化或經濟超預期下的整體beta機會。長期配置堅守結構：新產品、新技術、新渠道、新市場是長期主線。"
-    },
-    {
-      "id": "4905774",
-      "time": "2026-05-29 08:49:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田：計劃將從LF-ZC專案中獲得的技術訣竅與技術轉移至其他整車專案。"
-    },
-    {
-      "id": "4905773",
-      "time": "2026-05-29 08:49:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田：取消該專案並不意味著我們放棄開發下一代純電動汽車。"
-    },
-    {
-      "id": "mkt:019e7134-e22d-7ee0-99de-c7378606ef84",
-      "time": "2026-05-29 08:49:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CITIC Securities: Core feature of this consumption recovery likely 'supply-side clearing before demand recovery'】CITIC Securities' consumer-sector 2026 H2 strategy says three signals—record tech crowding, policy tilt from supply-side reform to demand stimulus (so‑called 'anti‑involution' measures), and the onset of a low‑rate era—combine to favor a barbell rebalancing rather than a binary consumption vs. tech trade. The firm expects the current consumption recovery to be driven by supply‑side clearing ahead of demand recovery, producing a mild, uneven upswing reliant on stock‑specific alpha. Near term, supply dynamics—inventory destocking and eased competition—should let market leaders rebound first; policy catalysts or stronger‑than‑expected growth could create broader beta opportunities. Long term, maintain structural allocation to new products, technologies, channels and markets."
-    },
-    {
-      "id": "4905772",
-      "time": "2026-05-29 08:49:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田：在對全公司整車開發專案進行稽核後，決定取消雷克薩斯LF-ZC專案。"
-    },
-    {
-      "id": "4905771",
-      "time": "2026-05-29 08:48:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月29日價格釋出：古井貢古20領跌 總價跌至近三天低點】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價5月29日整體小幅走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9929元，較昨日小幅下跌8元，跌至近三天最低點。市場在前一日低位整理後再度回落，終端交投情緒整體仍顯平淡，但核心單品的漲跌分化依然顯著。今日白酒市場11大單品四漲五跌兩平，輸家略佔上風。上漲方面，精品茅臺漲幅居前，上漲5元/瓶，創下5月19日以來日漲幅之最；國窖1573上漲4元/瓶，重返890元上方；五糧液1618與習酒君品均小幅上漲1元/瓶。下跌方面，古井貢古20跌幅居前，下跌8元/瓶，連續兩天大漲後顯著回撥；青花郎下跌7元/瓶，回落至700元關口；青花汾20下跌2元/瓶，創月內新低；普五八代與水晶劍南春均下跌1元/瓶，其中前者亦再創月內新低。飛天茅臺與洋河夢之藍M6+的價格環比保持不變。"
-    },
-    {
-      "id": "4905770",
-      "time": "2026-05-29 08:48:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德克薩斯州坐擁特斯拉 但新能源汽車充電樁數量不足】在特斯拉總部所處的德克薩斯州，新能源汽車銷量持續增長。根據德克薩斯州機動車輛管理局的資料，截至2026年5月，該州新能源汽車註冊量已超過48.6萬輛，比2025年初增長40%。這一增長主要得益於特斯拉的銷量拉動，而低電價也提供了助力。然而，該州新能源汽車發展的拼圖仍缺失關鍵一塊。 根據彭博新能源財經對全球30個主要城市的最新分析，德克薩斯州最大的幾個城市缺乏充足的快充充電站。例如，休斯敦的超快充充電站密度約為美國領先城市舊金山的七分之一，僅為全球平均水平的三分之一。達拉斯的情況也僅略好一些。"
-    },
-    {
-      "id": "te:markets:554658",
-      "time": "2026-05-29 08:47:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady as Markets Monitor Iran Talks — US stock futures were mostly flat on Friday as investors looked for official confirmation regarding ongoing negotiations between the US and Iran. Reports suggested that both countries had reached a preliminary agreement to extend their ceasefire by 60 days and launch discussions over Iran’s nuclear program, while potentially permitting unrestricted shipments through the Strait of Hormuz. On the corporate front, Dell surged nearly 40% in extended trading after beating market forecasts and delivering a strong outlook fueled by AI-driven growth in data center demand. During Thursday’s regular session, the S&P 500 and Nasdaq Composite advanced 0.58% and 0.91%, respectively, with both indexes closing at fresh record highs. The Dow Jones also edged up 0.05%. Gains were led by the health care, technology and consumer discretionary sectors, while utilities, consumer staples and real estate underperformed."
-    },
-    {
-      "id": "4905769",
-      "time": "2026-05-29 08:46:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日增加56.17億元】截至5月28日，上交所融資餘額報14895.53億元，較前一交易日增加35.47億元；深交所融資餘額報14220.17億元，較前一交易日增加20.70億元；兩市合計29115.70億元，較前一交易日增加56.17億元。"
-    },
-    {
-      "id": "4905768",
-      "time": "2026-05-29 08:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【雲頂新耀：耐賦康23項最新研究成果將亮相第63屆歐洲腎臟協會大會】雲頂新耀今日宣佈，耐賦康®（布地奈德腸溶膠囊，NEFECON®）將在第63屆歐洲腎臟協會大會（ERA 2026）上展示23項最新研究成果，包含11項口頭報告和12項電子壁報。ERA 2026歐洲腎臟協會將於當地時間2026年6月3日至6日在英國格拉斯哥舉行。本次公佈的研究成果中有21項來自中國的真實世界研究，涵蓋對因治療、儘早治療、長期治療、不同慢性腎臟病（CKD）分期管理以及難治性IgA腎病等多個關鍵維度。"
     }
   ]
 }
