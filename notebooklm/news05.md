@@ -1,7 +1,264 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 02:50:27_
-_本檔包含 3459 則快訊，約 699668 字_
+_更新時間：2026-06-06 03:49:45_
+_本檔包含 3403 則快訊，約 700635 字_
+
+---
+
+### 2026-06-01 17:14:05  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Iran parliament speaker Ghalibaf accuses US of breaching ceasefire via maritime blockade, enabling Israeli strikes on Lebanon】On June 1 Iran's parliament speaker Ghalibaf posted on social media accusing Israel of heavy attacks on Lebanon and the United States of violating the ceasefire by imposing a maritime blockade and permitting Israeli escalation. He wrote: Any choice has a price; debts will be repaid sooner or later; everything will be settled.
+
+---
+
+### 2026-06-01 17:14:00  #其他
+
+【長征十二號乙遙一運載火箭發射成功】北京時間2026年6月1日16時40分，長征十二號乙遙一運載火箭在東風商業航天創新試驗區發射升空，將搭載的千帆極軌08組衛星順利送入預定軌道，飛行試驗任務取得圓滿成功。（央視新聞）
+
+---
+
+### 2026-06-01 17:13:59  #MKT News #Market Themes #China EV Leaders
+
+【Lantu Auto May deliveries 13,003 units, up 30% YoY】June 1 — Lantu Auto reported May deliveries of 13,003 vehicles, up 30% YoY; cumulative Jan–May deliveries 62,041 vehicles, up 35% YoY.
+
+---
+
+### 2026-06-01 17:13:41  #公司
+
+【桂發祥：首次出售已回購股份10.65萬股】桂發祥公告，2026年6月1日，公司以集中競價方式首次出售已回購股份10.65萬股，佔公司總股本2.01億股的0.05%，最高成交價為10.54元/股，最低成交價為10.5元/股，出售均價為10.51元/股，本次出售成交總額為111.95萬元（不含交易費用）。
+
+---
+
+### 2026-06-01 17:13:37  #公司
+
+【大博醫療：累計回購105.86萬股】大博醫療公告，截至2026年5月31日，公司透過回購專用證券賬戶以集中競價交易方式累計回購公司股份105.86萬股，佔公司總股本的0.2557%，其中最高成交價為42元/股，最低成交價為39.91元/股，成交總金額為人民幣4346.32萬元（不含交易費用）。
+
+---
+
+### 2026-06-01 17:13:34  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
+
+South Africa Factory Activity Growth Cools: Absa — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) fell to 50.8 in May 2026 from 52.6 in the prior month, pointing to a second consecutive month of expansion, albeit significantly below April’s robust increase. The slowdown reflected fading demand brought forward in April, weaker new orders, and higher input costs driven by a softer rand and rising oil prices. Production moved back into contraction, with the index falling to 43.5 from 52.8. New sales orders also declined, slipping to 44.6 from 52.9. The index tracking expected business conditions in six months rose to 52.9 from 47.4 in the prior month.
+
+---
+
+### 2026-06-01 17:13:31  #公司
+
+【亞通精工：全資子公司亞通重灌中標8.6億元神東煤炭專案】亞通精工公告，全資子公司亞通重灌收到國家能源集團國際工程諮詢有限公司傳送的《中標通知書》，在神東煤炭大柳塔煤礦、寸草塔煤礦輔助運輸專業化服務公開招標專案中，亞通重灌被確定為第001標段的中標人，中標金額為8.6億元。專案服務期5年，服務期屆滿或結算金額達到合同總價時，合同自動終止。
+
+---
+
+### 2026-06-01 17:12:44  #市場 #觀點
+
+【美股投機情緒湧動 嘉信理財策略師建議及時止盈】近期，在AI熱潮的驅動下，美股迭創新高。然而，一位華爾街策略師警告投資者稱，眼下或許到了該獲利了結的時候了。嘉信理財（Charles Schwab）旗下嘉信理財金融研究中心的首席投資策略師Liz Ann Sonders日前指出，隨著美股不斷創下新高，投資者中出現了她所稱的“賭場式行為”。這位策略師鼓勵投資者重新平衡他們的投資組合，以避免陷入持倉集中度過高的風險陷阱。“我一直非常關注賭博與投資之間日漸模糊的界限，以及我們在市場上看到的一些賭場式行為。毫無疑問，目前市場中投機情緒正在湧動。”Sonder表示。
+
+---
+
+### 2026-06-01 17:11:59  #公司
+
+【芯源微：控股子公司收到3522萬元政府補助】芯源微(688037)6月1日公告，控股子公司上海芯源微企業發展有限公司於近日收到單筆政府補助款項3522萬元，為與收益相關的政府補助。
+
+---
+
+### 2026-06-01 17:11:39  #公司 #國際
+
+市場訊息：CSG旗下Federal公司表示，已簽署一項協議，允許美國陸軍將其專利Peak Alloy彈殼技術用於多種彈藥筒和武器系統。
+
+---
+
+### 2026-06-01 17:11:03  #MKT News #Market Themes #AI Revolution #EURUSD #Impact bullish #DAX
+
+【Macron says France has secured about €93 bln in foreign investment commitments】President Macron announced at the Choose France summit that foreign investors have pledged about €93 bln (~$108 bln), with the bulk tied to a SoftBank Group commitment. SoftBank has pledged up to €75 bln to build AI data-center capacity in France, with an initial €45 bln tranche aimed at delivering 31 GW in northern France by 2031; SoftBank calls it its largest AI investment in Europe. Macron said he personally helped negotiate the deal during a visit to Japan.
+
+---
+
+### 2026-06-01 17:10:59  #國際
+
+【美政府以外星人網站風格包裝ICE抓捕行動】據德國《柏林日報》網站5月31日報道，美國政府釋出了一個網站，以科幻電影的視覺元素來包裝其驅逐出境政策。在“aliens.gov”這個白宮官方網站的子頁面下，移民與海關執法局（ICE）的抓捕行動被呈現得如同追捕外星人一般。在該網站首頁的星空背景下，綠色滾動文字寫道：“他們行走在我們中間。”這些文字稱，60年來美國政府一直保守著一個秘密：“外星人”生活在社群，每天都與民眾互動。他們並非“小綠人”，而是數百萬非法移民。英文“Alien”一詞既指外星人，也指外國人。該頁面用一個實時資料面板展示ICE的抓捕人數。網站釋出時，這一數字已超過310萬。一張所謂的“外星人抓捕地圖”記錄了該機構在全美各地的行動。此外，還有一份近3000頁的移民管制事件清單。該網站還連結了一個線上表格，公民可以透過該表格直接向ICE舉報“可疑”人員。頁面底部稱，被捕人員將被“安全送回原籍地”。（參考訊息）
+
+---
+
+### 2026-06-01 17:10:57  #公司 #國際
+
+【馬克龍稱法國已獲得約930億歐元的外國投資承諾】法國總統馬克龍在“選擇法國”峰會上宣佈了930億歐元（約合1080億美元）的外國投資計劃，其中大部分資金來自軟銀集團的一項投資承諾。軟銀將投入高達750億歐元的資金，在法國建設50億瓦的人工智慧資料中心容量。今年早些時候，馬克龍訪問日本時親自參與了這筆交易的協商，當時他力推日本作為歐洲人工智慧基礎設施的頂級樞紐。軟銀的首輪投資將達450億歐元——這正是馬克龍所提及的930億歐元中的金額——其目標是在2031年之前在法國北部建成31吉瓦的AI資料中心容量。軟銀稱該專案是其在歐洲最大的AI投資專案。“這就是法國具有吸引力的切實證據，”馬克龍說道。“這正是多年來努力成果的見證。”
+
+---
+
+### 2026-06-01 17:10:53  #國際
+
+【伊朗議長指責美未遵守停火協議】伊朗伊斯蘭議會議長卡利巴夫今天（6月1日）在社交媒體平臺發文強調，“（美國對伊朗的）海上封鎖，以及以色列‘種族滅絕政權’對黎巴嫩的戰爭罪行不斷升級，均充分表明美國並未遵守停火協議。” 卡利巴夫在帖文中指出，“一念抉擇，皆有代價；欠下的債，總要償還。萬事終將各得其所。” （CCTV國際時訊）
+
+---
+
+### 2026-06-01 17:10:44  #其他
+
+【全國出口機器人1/4深圳造】據深圳海關統計，今年前4月，深圳機器人產業海外市場拓展步伐加快，各類單獨列名的機器人合計出口額達40.3億元，佔全國25.5%。全國出口機器人每4元產值，就有1元來自“深圳造”，產品銷往全球100多個國家和地區。
+
+---
+
+### 2026-06-01 17:10:25  #公司
+
+【千禾味業釋出未來三年股東回報規劃 每年度現金分紅總額佔淨利潤比例不低於90%】千禾味業(603027)6月1日釋出未來三年（2026-2028年度）股東分紅回報規劃，在保證公司正常經營和業務發展的前提下，將以現金分紅為主要形式向投資者提供回報。千禾味業計劃，每年度進行至少一次現金分紅，且年度現金分紅總額佔該年度淨利潤的比例不低於90%。千禾味業表示，此舉綜合考慮了公司所處發展階段及發展規劃、盈利能力、現金流狀況、社會資金成本及外部融資環境等因素，並充分考慮了公司股東特別是中小股東和獨立董事的意見和訴求。
+
+---
+
+### 2026-06-01 17:10:20  #MKT News
+
+TASS reported the Russian Defence Ministry said Russian forces have taken control of Tykhonivka in Ukraine's Donetsk region.
+
+---
+
+### 2026-06-01 17:10:09  #國際
+
+市場訊息 ：俄羅斯國防部稱，俄軍已攻佔烏克蘭頓涅茨克地區的季霍尼夫卡。
+
+---
+
+### 2026-06-01 17:09:43  #MKT News #Important
+
+【Yushu Technology cleared for STAR Market IPO】June 1 — The Shanghai Stock Exchange listing review committee, at its 31st meeting of 2026, determined that Yushu Technology Co., Ltd.'s initial public offering meets issuance, listing and information-disclosure requirements for listing on the STAR Market.
+
+---
+
+### 2026-06-01 17:09:15  #公司 #其他
+
+嵐圖汽車：2026年5月交付13003輛，同比增長30%；2026年1-5月累計交付62041輛，同比增長35%。
+
+---
+
+### 2026-06-01 17:09:13  #公司 #焦點 #A股
+
+【宇樹科技科創板IPO過會】6月1日，上交所上市稽核委員會召開2026年第31次上市稽核委員會審議會議，審議結果顯示，宇樹科技股份有限公司首發符合發行條件、上市條件和資訊披露要求。
+
+---
+
+### 2026-06-01 17:09:05  #Trading Economics #Economy #Nigeria #Composite PMI #Importance 1
+
+Nigeria Private Sector Activity Rises to 9-Month High — The Stanbic IBTC Bank Nigeria PMI rose to 54.1 in May 2026 from 52.4 in April, signaling the strongest improvement in private sector business conditions since August 2025. The increase was driven by sharper growth in both output and new orders. Stronger demand prompted firms to increase purchasing activity and inventories, while supplier performance improved due to prompt payments, better vendor coordination, and improved road conditions. Employment also continued to increase, although hiring growth remained modest despite sustained job creation over the past year. On the price front, higher fuel costs linked to the Middle East conflict continued to lift input and selling prices, although both input cost and output price inflation eased to multi-month lows. Business confidence remained positive on expansion and product-launch plans, though sentiment slipped to a one-year low amid persistent cost pressures and economic uncertainty.
+
+---
+
+### 2026-06-01 17:08:51  #MKT News #Market Regions #Emerging Markets #Brent #Impact bullish #WTI
+
+【Pakistan inflation at two-year high as Iran war lifts energy costs】Pakistan inflation rose to a two-year high after the Iran war pushed up energy import costs, the Pakistan Bureau of Statistics said. Headline CPI was up 11.7% YoY in May. Higher energy prices are amplifying inflation and balance-of-payments pressure for Asian fuel importers, prompting emergency measures to stabilize the currency and limit economic fallout. The State Bank of Pakistan raised rates in April — its first hike in three years — and will review policy at a meeting on June 15. Government data show gasoline and diesel prices are about 48% and 38% above pre-war levels.
+
+---
+
+### 2026-06-01 17:08:43  #公司
+
+【博拓生物：首次回購0.2898%公司股份，累計已回購金額1642.97萬元】博拓生物公告，截至2026年5月31日，公司暫未實施股份回購。2026年6月1日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購公司股份43.28萬股，佔公司總股本1.49億股的比例為0.2898%，回購成交的最高價為38元/股，最低價為37.79元/股，成交總金額為1642.97萬元（含交易佣金及交易費用）。
+
+---
+
+### 2026-06-01 17:08:34  #MKT News #Star Stocks #Tencent #00700.HK #Impact bullish
+
+HKEX filing shows Tencent Holdings (00700.HK) repurchased 1.1m shares on June 1, spending HK$500.7m.
+
+---
+
+### 2026-06-01 17:08:20  #公司
+
+港交所檔案：騰訊6月1日斥資約5億零70萬港元回購110萬股股份。
+
+---
+
+### 2026-06-01 17:07:44  #經濟數據 #英國
+
+【PMI資料顯示英國製造業的強勁增長或只是曇花一現】一項重要調查發現，英國製造業活動以四年來最快速度擴張，原因是企業趕在中東衝突引發的價格上漲和供應鏈緊張之前提前採購和備貨。標普全球公佈的資料顯示，英國5月製造業採購經理人指數(PMI)升至53.9，略高於前月的53.7。PMI高於50表明製造業處於擴張狀態。不過，標普指出，此輪增長可能難以持續，因為主要動力來自企業提前下單。
+
+---
+
+### 2026-06-01 17:07:39  #市場
+
+英偉達推出新晶片後，Arm Holdings在美上市的股價盤前大漲12.4%。
+
+---
+
+### 2026-06-01 17:07:24  #公司
+
+【泰林生物：變更獨立董事，葉樹明接任董明】泰林生物公告稱，原獨立董事董明因連續任職屆滿六年，於2026年6月1日起正式辭職，辭任後不再擔任公司任何職務，且未持股、無未履行承諾。公司於6月1日召開的2026年第一次臨時股東會審議透過，補選葉樹明為公司第四屆董事會獨立董事，同時擔任董事會審計委員會和戰略委員會成員，任期至第四屆董事會任期屆滿。
+
+---
+
+### 2026-06-01 17:07:16  #MKT News
+
+An arbitral tribunal dismissed all of Rwanda’s claims against the UK over a deal to host an immigration processing centre.
+
+---
+
+### 2026-06-01 17:07:14  #公司 #市場
+
+【標普資訊科技LOF：提示二級市場交易價格溢價風險】標普資訊科技LOF公告稱，2026年6月1日，本基金二級市場收盤價為7.445元，截至5月28日，基金份額淨值為6.7659元，二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。提醒投資者密切關注溢價風險，審慎投資。若6月2日溢價幅度未有效回落，基金有權申請臨時停牌等措施。目前基金運作正常，無應披露未披露資訊。
+
+---
+
+### 2026-06-01 17:07:12  #其他
+
+【江蘇一地最佳化調整房地產政策】關於進一步促進淮安市房地產市場健康發展的四條舉措顯示，為進一步促進房地產市場健康發展，將淮安市房地產政策做如下最佳化調整：
+一、繼續實施新建商品住房購房補貼。對購買新建商品住房的，給予購房總價2%的補貼。
+二、實施新來淮人員購房補貼。對新來淮留淮創業就業和生活的人員，購買新建商品住房的，給予購房總價3%的補貼。
+三、實施賣舊買新購房補貼。對出售自有商品住房，在政策實施期間重新購買新建商品住房的（賣房、買房時間不超過6個月），給予購房總價3%的補貼。
+四、進一步最佳化住房公積金政策。1.階段性加大對新市民、青年人、留淮人才購房支援力度，購買本市新建商品住房的新市民、青年人、留淮人才，可連續5年提取本人及其配偶、父母、子女的住房公積金賬戶餘額，可連續12個月享受住房公積金貸款利息50%的補貼；2.階段性降低住房公積金貸款首付款比例至15%；3.階段性最佳化住房套數執行標準；4.階段性擴大商轉公貸款支援範圍；5.階段性放寬還款年齡上限至70週歲；6.支援提取住房公積金支付契稅、住宅專項維修資金；7.擴大償還購房貸款本息提取人範圍。
+第一、二、三條措施自2026年6月1日施行至2026年12月31日。第四條政策中階段性政策自2026年6月1日施行至2026年12月31日，其他政策自2026年6月1日施行，如有新的相關政策，按新政策執行。
+
+---
+
+### 2026-06-01 17:07:07  #公司 #市場
+
+【納斯達克100ETF大成：二級市場價格溢價 6月2日停牌後復牌】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月1日收盤價為1.930元，收盤時基金份額參考淨值為1.7275元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取臨時停牌等措施。目前基金運作正常，無應披露未披露資訊。
+
+---
+
+### 2026-06-01 17:07:05  #公司 #市場
+
+【亞太精選ETF南方：提示二級市場交易價格溢價風險】亞太精選ETF南方公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月1日，收盤價為1.969元，收盤時基金份額參考淨值為1.8446元。若6月2日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金跟蹤富時亞太精選指數，投資者可在二級市場交易或申贖，需關注產品風險，謹慎投資。
+
+---
+
+### 2026-06-01 17:06:49  #其他
+
+市場訊息：仲裁法院駁回盧安達針對英國提出的、與移民中轉樞紐協議相關的全部訴求。
+
+---
+
+### 2026-06-01 17:06:36  #公司 #市場
+
+【納指ETF匯添富：二級市場價格溢價 2日停牌後復牌】納指ETF匯添富公告稱，2026年6月1日，基金二級市場收盤價2.519元，收盤時基金份額參考淨值（IOPV）為2.2544元，交易價格明顯高於淨值，出現較大幅度溢價。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。
+
+---
+
+### 2026-06-01 17:06:31  #公司
+
+【海利得：擬1.5億元—3億元回購股份】海利得(002206)6月1日公告，公司擬以1.5億元—3億元回購股份，用於實施股權激勵或員工持股計劃。回購價格不超過6.5元/股。
+
+---
+
+### 2026-06-01 17:06:18  #兩會
+
+【王光謙會見第十屆中法青年領導者論壇代表】全國政協副主席王光謙1日在京會見第十屆中法青年領導者論壇代表。王光謙表示，中法關係的未來在青年，雙方要以兩國元首重要共識為引領，加強青年交流，拉緊兩國人民友好紐帶，推進中法全面戰略伙伴關係不斷向前發展。（新華社）
+
+---
+
+### 2026-06-01 17:06:04  #公司 #市場
+
+【納指ETF嘉實：二級市場交易價格溢價 6月2日停牌後復牌】納指ETF嘉實公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月1日收盤價2.200元，收盤時基金份額參考淨值1.9380元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
+
+---
+
+### 2026-06-01 17:06:02  #公司 #市場
+
+【港美網際網路LOF：二級市場交易價格溢價 提醒投資者注意風險】港美網際網路LOF公告稱，2026年6月1日，本基金二級市場收盤價為2.336元，截至5月28日，基金份額淨值為2.0517元，二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。提醒投資者密切關注溢價風險，審慎投資。若6月2日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露資訊。
+
+---
+
+### 2026-06-01 17:05:58  #MKT News
+
+GF Nasdaq ETF to suspend trading from market open on June 2, 2026; trading will resume at 10:30 on June 2, 2026.
+
+---
+
+### 2026-06-01 17:05:56  #公司 #市場
+
+【納指ETF廣發：二級市場價格溢價 6月2日停牌後復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月1日收盤價為1.7640元，收盤時基金份額參考淨值為1.5487元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。
 
 ---
 
@@ -20320,593 +20577,5 @@ The New York Times reports timing for a US-Iran memorandum of understanding rema
 ### 2026-05-30 03:49:51  #其他
 
 紐約郵報： 卡達所持資金問題成為最後幾大分歧點之一。
-
----
-
-### 2026-05-30 03:48:54  #MKT News
-
-【Iranian forces shoot down hostile small drone near Qeshm Island】On the evening of May 29 local time, Iran’s army air defense units detected and engaged a hostile small unmanned aerial vehicle near Qeshm Island, successfully shooting it down and destroying it.
-
----
-
-### 2026-05-30 03:48:50  #國際
-
-洲際交易所歐洲分部：截至5月26日，羅布斯塔咖啡投機者將淨多頭頭寸削減2350手至13447手；可可投機商將淨空頭頭寸削減1477手，至2021手。
-
----
-
-### 2026-05-30 03:48:39  #市場 #國際
-
-洲際交易所歐洲期貨分部：截至5月26日，飼料小麥投機商將淨多頭頭寸增加90手，至476手；截至5月26日，原糖投機者將淨多頭頭寸增加364手，至23685手。
-
----
-
-### 2026-05-30 03:48:24  #國際
-
-【伊朗軍方在格什姆島附近擊落敵對小型無人機】總檯記者當地時間5月29日晚自伊朗方面獲悉，伊朗陸軍防空部隊在監測到敵方小型無人機後，在格什姆島附近立即實施打擊併成功將其擊落摧毀。（央視新聞）
-
----
-
-### 2026-05-30 03:48:10  #MKT News #JPM.O #Impact bullish #C.O
-
-Sources say OpenAI has held talks with multiple banks, including Citigroup and JP Morgan, about an upcoming IPO.
-
----
-
-### 2026-05-30 03:45:48  #市場
-
-德文能源股價隨成交量激增上揚，最新上漲0.9%，突破44美元。
-
----
-
-### 2026-05-30 03:44:38  #焦點 #國際
-
-【特朗普推遲就伊朗相關協議作最終決定】據美國《紐約時報》29日援引一名不願透露姓名的政府高階官員的話報道，美國總統特朗普當天在白宮戰情室同其助手們的會議持續約兩個小時，但並未就與伊朗的協議作出“最終決定”。 (新華社)
-
----
-
-### 2026-05-30 03:44:24  #MKT News #Market Regions #Greater China
-
-【Shenzhou-21 crew arrive safely in Beijing】The crew that completed the Shenzhou-21 manned flight mission arrived safely in Beijing by plane on May 30, 2026, Beijing time, the China Manned Space Engineering Office said.
-
----
-
-### 2026-05-30 03:44:01  #公司 #觀點
-
-【戴蒙在愈演愈烈的加密法案爭端中猛烈抨擊Coinbase的CEO】摩根大通CEO戴蒙痛斥Coinbase Global Inc.執行長Brian Armstrong在“胡扯”（full of sh-t），並誓言將對正在國會推進的數字資產立法予以反擊。爭論的核心在於加密貨幣交易所是否可以對穩定幣支付利息。加密貨幣公司正尋求提供收益率，而銀行則辯稱，這會使穩定幣類似於高收益存款，卻缺乏傳統的監管保障。銀行機構“絕不接受”目前版本的所謂《清晰度法案》（Clarity Act），該法案此前一直是銀行業與加密貨幣行業之間爭端的焦點。
-
----
-
-### 2026-05-30 03:43:14  #國際
-
-伊朗方面表示，該國格什姆島防空系統已啟動，應對來襲無人機。
-
----
-
-### 2026-05-30 03:42:43  #MKT News #Macro & Rates #US10Y #Impact bullish
-
-CFTC: In the week to May 26, speculators cut net short positions in U.S. 2-year Treasury futures by 305,000 contracts to 1,255,246 and cut net shorts in U.S. 10-year Treasury futures by 60,098 contracts to 787,954.
-
----
-
-### 2026-05-30 03:41:30  #MKT News #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
-
-The CFTC said speculators increased net short positions in U.S. Treasury futures by 20,577 contracts to 199,251 in the week to May 26.
-
----
-
-### 2026-05-30 03:40:59  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-CFTC: For the week to May 26, speculative net long positions in COMEX copper futures fell by 3,025 contracts to 71,974 contracts.
-
----
-
-### 2026-05-30 03:40:30  #MKT News #Commodities #Energy
-
-CFTC: Speculative net-short positions in natural gas on NYMEX and ICE rose by 39,397 contracts in the week to May 26, to 41,422 contracts.
-
----
-
-### 2026-05-30 03:40:04  #MKT News #Commodities #Precious Metals
-
-CFTC: COMEX silver speculative net long positions fell 1,517 contracts to 10,244 in the week ended May 26.
-
----
-
-### 2026-05-30 03:39:50  #公司 #國際
-
-知情人士稱，斯通裡奇對德文能源馬塞勒斯資產的收購要約將採用美國油氣領域有史以來規模最大的資產支援證券融資來提供資金。德文能源收到了資產管理公司斯通裡奇發出的收購要約，對方擬以約80億美元收購其所持馬塞勒斯頁岩區資產。
-
----
-
-### 2026-05-30 03:39:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-U.S. Commodity Futures Trading Commission (CFTC) data: For the week ended May 26, speculative net long positions in COMEX gold rose by 2,544 contracts to 96,931.
-
----
-
-### 2026-05-30 03:39:18  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-US Commodity Futures Trading Commission (CFTC): for the week to May 26 crude oil speculators cut WTI net-long positions by 19,186 contracts to 91,163.
-
----
-
-### 2026-05-30 03:39:06  #市場
-
-【國際油價29日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.54美元，收於每桶87.36美元，跌幅為1.73%；7月交貨的倫敦布倫特原油期貨價格下跌1.66美元，收於每桶92.05美元，跌幅為1.77%。
-
----
-
-### 2026-05-30 03:38:31  #公司
-
-根據SEC檔案顯示，埃克森美孚股東以71.2%的贊成票批准公司遷址註冊至得克薩斯州。
-
----
-
-### 2026-05-30 03:38:14  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said if necessary the U.S. has further options to act on Iran.
-
----
-
-### 2026-05-30 03:38:01  #MKT News #WTI #Impact mixed #Brent
-
-When asked about a blockade on Iran, U.S. Treasury Secretary Bessent said any lifting of measures would be phased. He outlined three scenarios for Iran: reaching an agreement, failing to reach an agreement, or military action.
-
----
-
-### 2026-05-30 03:37:17  #其他
-
-【神舟二十一號航天員乘組平安抵京】據中國載人航天工程辦公室訊息，圓滿完成神舟二十一號載人飛行任務的航天員乘組，於北京時間2026年5月30日乘坐飛機平安抵達北京。空間站應用與發展階段飛行任務總指揮部有關領導及成員到機場迎接。3名航天員抵京後將進入隔離恢復期，接受全面的醫學檢查和健康評估，並安排休養。之後，將在京與新聞媒體集體見面。（央視新聞）
-
----
-
-### 2026-05-30 03:37:12  #MKT News
-
-U.S. Treasury Secretary Bessent, asked how to maintain the U.S. dollar's reserve-currency status, said the situation has not changed.
-
----
-
-### 2026-05-30 03:36:54  #市場 #國際
-
-【庫存見底 現貨升水飆升 鋁市場供應短缺日益加重】由於霍爾木茲海峽關閉導致供應受阻，鋁市場短缺現象正日益加劇，導致鋁現貨價格飆升，且交易所庫存大幅下滑。海灣地區佔到全球鋁供應量的近10%，因此伊朗戰爭令全球鋁買家受到嚴重衝擊。儘管圍繞緊張局勢得到解決的樂觀情緒重新升溫，但霍爾木茲海峽長期關閉以及該地區冶煉廠遭到直接襲擊，已促使外界警告鋁行業將面臨數十年來最嚴重的短缺。週五出現了新的供應緊張跡象，倫敦金屬交易所鋁現貨價格較三個月期貨升水飆升至每噸97美元，達到2007年以來最高水平。現貨升水是供應不足以滿足需求的典型跡象，而近期價差飆升之際，倫敦金屬交易所可隨時提取的庫存正接近歷史低位。
-
----
-
-### 2026-05-30 03:36:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-US Treasury Secretary Bessent said he never favored Walsh. Trump has decided to appoint Walsh as Federal Reserve chair.
-
----
-
-### 2026-05-30 03:36:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-U.S. Treasury Secretary Bessent said interest rates peaked the day before Fed Chair Kevin Warsh was sworn in.
-
----
-
-### 2026-05-30 03:35:51  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
-
-US Treasury Secretary Bessent said there is misunderstanding about what a strong dollar implies, and that a strong dollar means doing the right thing for the economy.
-
----
-
-### 2026-05-30 03:35:33  #國際
-
-美國財長貝森特：可推出部分舉措以援助伊朗民眾。
-
----
-
-### 2026-05-30 03:35:22  #公司 #觀點
-
-花旗集團：花旗銀行北美總行已獲得蓋亞那銀行的監管批准，可在喬治敦設立代表處。
-
----
-
-### 2026-05-30 03:35:16  #國際
-
-美國財長貝森特：必要情況下，我們還可針對伊朗採取進一步舉措。
-
----
-
-### 2026-05-30 03:34:49  #國際
-
-被問及對伊朗封鎖的問題時，貝森特表示：任何解除措施都會逐步推進。
-
----
-
-### 2026-05-30 03:34:14  #國際
-
-美國財長貝森特：伊核協議存在三種可能性——達成協議、談判破裂，或是採取軍事行動。
-
----
-
-### 2026-05-30 03:33:36  #國際
-
-美國財長貝森特：美方自停火以來採取的所有行動均屬防禦性質。
-
----
-
-### 2026-05-30 03:33:16  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，芝加哥期貨交易所（CBOT）小麥投機客將淨空頭持倉增加6772手，至58261手；洲際交易所（ICE）咖啡投機者將淨多頭頭寸削減138手，至8416手；洲際交易所（ICE）原糖投機客將淨空頭頭寸增加13031手，至117144手；洲際交易所（ICE）可可投機者將淨空頭頭寸增加1374手，至26539手；洲際交易所（ICE）棉花市場投機者將淨多頭頭寸削減1143手，至68171手。
-
----
-
-### 2026-05-30 03:32:52  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月26日的當周，日元淨空頭頭寸為114,667張合約；英鎊淨空頭持倉為61,398手合約；歐元淨多頭頭寸為29,426手合約；瑞郎淨空頭頭寸為-35,140張合約。
-
----
-
-### 2026-05-30 03:32:24  #觀點
-
-摩根大通股價漲幅擴大至0.6%。
-
----
-
-### 2026-05-30 03:32:19  #國際
-
-針對就美元維持儲備貨幣地位相關問題的提問， 美國財長貝森特表示情況未發生任何變化。
-
----
-
-### 2026-05-30 03:31:58  #市場 #觀點
-
-摩根大通股價上漲；據稱OPENAI正在考慮將其納入IPO計劃。
-
----
-
-### 2026-05-30 03:31:51  #市場 #國際
-
-美國財長貝森特：美元走強，說明經濟政策行之有效。
-
----
-
-### 2026-05-30 03:31:34  #國際
-
-美國財長貝森特：人們對強美元的含義存在誤解
-
----
-
-### 2026-05-30 03:31:04  #市場 #焦點 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示：截至5月26日當週，原油投機者將西得克薩斯中質原油（WTI）淨多頭頭寸削減19186手，至91163手。
-
----
-
-### 2026-05-30 03:30:56  #國際
-
-美國財長貝森特：利率在沃什宣誓就職前一天達到峰值。
-
----
-
-### 2026-05-30 03:30:47  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，投機客將芝加哥期貨交易所（CBOT）美國兩年期國債期貨的淨空頭頭寸削減305591手，至1255246手；投機者在截至5月26日當週將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸削減60,098手，至787,954手；投機客將芝加哥期貨交易所（CBOT）美國5年期國債期貨的淨空頭頭寸削減27389手，至1323127手。
-
----
-
-### 2026-05-30 03:30:31  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，投機者將芝加哥期貨交易所（CBOT）美國超長期國債期貨淨空頭頭寸增加5378手，至259842手。
-
----
-
-### 2026-05-30 03:30:28  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示：截至5月26日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸增加20577手，至199251手。
-
----
-
-### 2026-05-30 03:30:20  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，芝加哥期貨交易所（CBOT）大豆投機者將淨多頭頭寸削減16211手，至91566手。
-
----
-
-### 2026-05-30 03:30:15  #央行 #國際
-
-貝森特：特朗普已敲定由沃什出任美聯儲主席。
-
----
-
-### 2026-05-30 03:29:57  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主流天然氣市場的投機客將淨空頭頭寸增加39397手，至41422手。
-
----
-
-### 2026-05-30 03:29:53  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減1517手，至10244手。
-
----
-
-### 2026-05-30 03:29:51  #市場 #焦點 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加2544手，至96931手。
-
----
-
-### 2026-05-30 03:29:48  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）銅投機性頭寸將淨多頭頭寸削減3025手，至71974手。
-
----
-
-### 2026-05-30 03:29:46  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，股票基金投機客將芝加哥商業交易所（CME）標普500淨空頭頭寸增加63,334手，至447,470手。
-
----
-
-### 2026-05-30 03:29:43  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，股票基金經理將芝商所標準普爾500指數淨多頭頭寸增加3488手，至1009014手。
-
----
-
-### 2026-05-30 03:29:36  #國際
-
-美國財長貝森特：我從未為凱文・沃什暗中偏袒、施加影響。
-
----
-
-### 2026-05-30 03:29:30  #公司 #觀點
-
-據悉 OpenAI 正商議將花旗集團、摩根大通納入 IPO 承銷團隊。
-
----
-
-### 2026-05-30 03:29:26  #央行 #國際
-
-貝森特：將看到美聯儲更加專注、更具信譽。
-
----
-
-### 2026-05-30 03:29:07  #央行 #國際
-
-貝森特談美聯儲：我認為美聯儲將進一步聚焦政策可信度，並重塑公信力。
-
----
-
-### 2026-05-30 03:29:01  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月26日當週，比特幣淨多頭頭寸為2282手合約。
-
----
-
-### 2026-05-30 03:28:44  #央行 #國際
-
-貝森特談及美聯儲：我們將回歸問責制的基本原則。
-
----
-
-### 2026-05-30 03:28:29  #國際
-
-美國財長貝森特：完全贊同沃什取消前瞻性指引的舉措。
-
----
-
-### 2026-05-30 03:28:01  #央行 #國際
-
-美國財長貝森特：昨日與凱文・沃什在美聯儲共進早餐。
-
----
-
-### 2026-05-30 03:27:07  #其他 #焦點
-
-神舟二十一號航天員乘組乘飛機平安抵達北京。（新華社）
-
----
-
-### 2026-05-30 03:26:20  #公司
-
-由 EQT 支援的 Statera 公司據悉考慮出售英國電池及天然氣相關資產。
-
----
-
-### 2026-05-30 03:25:49  #國際
-
-美國財長貝森特： 特朗普形象將鑄於錢幣之上。
-
----
-
-### 2026-05-30 03:24:40  #MKT News
-
-U.S. Treasury Secretary Bessent said he expects real wage growth to resume once the war ends.
-
----
-
-### 2026-05-30 03:24:22  #MKT News
-
-U.S. Treasury Secretary Bessent said Trump should appear on a $250 bill.
-
----
-
-### 2026-05-30 03:23:19  #國際
-
-貝森特：特朗普的頭像應該印在250美元面值的鈔票上。
-
----
-
-### 2026-05-30 03:21:33  #國際
-
-美國國務卿魯比奧和土庫曼外交部長討論了能源、安全和商業問題。
-
----
-
-### 2026-05-30 03:21:10  #國際
-
-美國財長貝森特： 戰事結束後，實際薪資有望恢復增長。
-
----
-
-### 2026-05-30 03:20:57  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary Bessent said household gasoline expenditures rose by less than $200 a month.
-
----
-
-### 2026-05-30 03:20:29  #國際
-
-市場訊息：美國國務卿魯比奧會見了土庫曼外交部長。
-
----
-
-### 2026-05-30 03:20:16  #市場 #國際
-
-美國財長貝森特： 油價上漲給普通家庭帶來的月均支出增加不足 200 美元。
-
----
-
-### 2026-05-30 03:17:20  #MKT News
-
-US Space Force signed a $4.16 bln contract with SpaceX to develop a space-based moving-target indication capability for airborne platforms.
-
----
-
-### 2026-05-30 03:16:19  #國際
-
-美國太空軍：已向SpaceX授予一份價值41.6億美元的合同，用於開展天基機載移動目標指示專案。
-
----
-
-### 2026-05-30 03:14:54  #國際
-
-美國財長貝森特：我們認為伊朗每月涉嫌侵吞 4 億至 5 億美元資金。
-
----
-
-### 2026-05-30 03:14:54  #MKT News
-
-A U.S. judge ruled Trump is barred, for now, from renaming the Kennedy Center or closing it on grounds of renovation.
-
----
-
-### 2026-05-30 03:14:45  #市場
-
-【美元指數29日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於98.902。截至紐約匯市尾市，1歐元兌換1.1664美元，高於前一交易日的1.1648美元；1英鎊兌換1.3461美元，高於前一交易日的1.3440美元。1美元兌換159.26日元，高於前一交易日的159.26日元；1美元兌換0.7811瑞士法郎，低於前一交易日的0.7841瑞士法郎；1美元兌換1.3797加元，高於前一交易日的1.3784加元；1美元兌換9.2338瑞典克朗，低於前一交易日的9.2551瑞典克朗。
-
----
-
-### 2026-05-30 03:14:27  #國際
-
-美國財長貝森特：已查扣價值約 10 億美元的伊朗加密貨幣資產。
-
----
-
-### 2026-05-30 03:13:35  #公司 #市場 #國際
-
-OCULIS HOLDING美國股價放量下跌，在該公司公佈三期藥物研究結果後，股價最新下跌23.4%，報每股22.71美元。
-
----
-
-### 2026-05-30 03:12:35  #MKT News
-
-U.S. Treasury Secretary Bessent says he believes 40% to 50% of Iran's military have not been paid.
-
----
-
-### 2026-05-30 03:12:03  #MKT News
-
-US Treasury Secretary Bessent said Iran's inflation rate could exceed 200%.
-
----
-
-### 2026-05-30 03:11:54  #MKT News #WTI #Impact bearish #Brent
-
-US Treasury Secretary Bessent said President Trump is explicitly seeking free and open passage through the Strait of Hormuz.
-
----
-
-### 2026-05-30 03:10:39  #其他
-
-英國首相斯塔默考慮大舉舉債，為國防開支提供資金。
-
----
-
-### 2026-05-30 03:09:59  #國際
-
-美國財長貝森特：據推測，伊朗約四到五成軍人未領到軍餉。
-
----
-
-### 2026-05-30 03:09:42  #國際
-
-美國財長貝森特：伊朗通脹率或已突破 200%。
-
----
-
-### 2026-05-30 03:08:37  #國際
-
-美國財長貝森特：特朗普明確尋求自由、開放地進入霍爾木茲海峽。
-
----
-
-### 2026-05-30 03:07:30  #國際
-
-【法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新為由將其關閉】一名聯邦法官週五裁定，禁止美國總統特朗普將其姓名新增到肯尼迪中心的名稱中。該法官還暫時阻止了這座位於華盛頓特區的文化地標建築因翻新工程而關閉兩年。法官在華盛頓特區聯邦地區法院的裁決書中寫道：“肯尼迪中心的組織法明確規定，該中心應以肯尼迪總統的名字命名，不能僅憑董事會的單方面決定而冠以任何其他正式名稱或作為公共紀念物。”“國會賦予了肯尼迪中心這個名字，也只有國會才能更改它。”
-
----
-
-### 2026-05-30 03:05:35  #市場 #國際
-
-訊息稱美國尚未就伊朗問題做出決定，受此影響，美國國債漲幅收窄。
-
----
-
-### 2026-05-30 03:05:17  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7663元，較週四夜盤收盤漲90點。成交量404.88億美元。
-
----
-
-### 2026-05-30 03:04:03  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures rose 0.44% in the night session to 25,098, closing at an 84-point discount to the cash index.
-
----
-
-### 2026-05-30 03:03:49  #其他
-
-加拿大總理辦公室釋出總理與利奧教皇通話紀要。
-
----
-
-### 2026-05-30 03:01:05  #市場 #國際
-
-美國農業部資料：4 月農業投入品價格同比上漲 9.8%；農產品銷售價格同比下降 1.8%。
-
----
-
-### 2026-05-30 03:00:02  #市場
-
-恒指期貨夜盤收漲0.48%，報25109.88點，低水72.51點。
-
----
-
-### 2026-05-30 02:54:51  #MKT News #Macro & Rates #US Economy
-
-US Treasury Secretary Bessent said the US has recognized the necessity of increasing production capacity.
-
----
-
-### 2026-05-30 02:53:50  #國際
-
-美國財長貝森特：“美國已然醒悟”，認識到提升產能的必要性。
-
----
-
-### 2026-05-30 02:53:50  #MKT News
-
-Pakistan's foreign ministry said the United States and Pakistan agreed to elevate and strengthen economic and trade ties, cultural cooperation and their partnership on counterterrorism and security.
-
----
-
-### 2026-05-30 02:51:21  #MKT News #Important
-
-【US media: Trump has not decided on any new agreement with Iran】The New York Times reports senior US officials said Trump's roughly two-hour situation-room meeting produced no decision on a new agreement with Iran. The Trump administration says a deal is near but key issues remain under discussion, including the unfreezing of Iranian funds.
 
 ---
