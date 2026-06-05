@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-05 21:17:30",
-  "count": 18662,
+  "updated": "2026-06-05 21:21:27",
+  "count": 18663,
   "items": [
+    {
+      "id": "4919912",
+      "time": "2026-06-05 21:20:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【海運艙位一艙難求 航運巨頭集中調價】近期，國際航運價格持續走高。集運指數（歐線）期貨主力合約，自4月下旬以來累計漲幅超50%，此外，馬士基、達飛等頭部航運企業集中釋出調價通知，多條航線艙位緊缺。江蘇蘇州一家國際貨代公司負責人介紹，近期無論是歐洲航線、南美航線還是東南亞航線運價均出現不同程度的上漲，而且這輪海運價格上漲速度之快、漲幅之大較為罕見。6、7月份是傳統的海運旺季，各條航線艙位都比較緊缺，有的甚至出現了一艙難求的現象。業內人士表示，本輪海運價格上漲主要是中東地緣擾動抬升航運成本，全球分工細化與地緣避險催生持續補庫需求。此外，海外備貨需求集中釋放，歐美開啟下半年消費旺季前置備貨週期，貨量的激增導致艙位供需快速收緊。對於下半年的海運價格走勢，目前並不明朗。（央視財經）"
+    },
+    {
+      "id": "mkt:019e97ef-c60d-7fff-a931-b88e4630e37b",
+      "time": "2026-06-05 21:18:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "CENTCOM says an Iranian attack on US vessels would violate the ceasefire agreement."
+    },
+    {
+      "id": "4919910",
+      "time": "2026-06-05 21:18:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：如果伊朗攻擊美國船隻，將違反停火協議。"
+    },
+    {
+      "id": "mkt:019e97ef-96ff-7fff-a931-b577fd96d797",
+      "time": "2026-06-05 21:18:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Inflation Near Unemployment Rate; Fed May Be Behind Curve】Brandywine Global portfolio manager Chen said strong US nonfarm payrolls point to a recovering labor market and that the Fed should refocus on inflation. Inflation is now roughly on par with the unemployment rate (May unemployment 4.3%), suggesting the Fed may be behind the curve. Inflation swaps show traders expect July CPI to top 4.2% and to moderate to about 3.8% by the first quarter."
+    },
+    {
+      "id": "mkt:019e97ef-6d90-7fff-a931-ab9816cfc48d",
+      "time": "2026-06-05 21:18:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CENTCOM denied reports that Iran attacked or fired on U.S. naval vessels, saying U.S. forces continue to enforce the blockade."
+    },
+    {
+      "id": "4919909",
+      "time": "2026-06-05 21:18:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際移民組織：海地暴力升級致150萬人流離失所】國際移民組織駐海地負責人格雷瓜爾·古德斯坦5日在日內瓦舉行的記者會上說，受不斷升級的暴力事件影響，海地境內流離失所者已達150萬人。（新華社）"
+    },
+    {
+      "id": "4919908",
+      "time": "2026-06-05 21:17:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部稱，美軍繼續執行封鎖措施。"
+    },
+    {
+      "id": "4919907",
+      "time": "2026-06-05 21:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港將發行龍舟主題特別郵票推廣非物質文化遺產】香港郵政日前宣佈，將於6月18日推出以“非物質文化遺產——大澳端午龍舟遊湧”為主題的特別郵票。大澳端午龍舟遊湧於2011年列入第三批國家級非物質文化遺產代表性專案名錄，並於2017年成為首批列入香港非物質文化遺產代表作名錄的專案。香港郵政將發行一套四枚郵票、兩款郵票小型張和相關郵品，推廣這項香港非物質文化遺產，讓大眾瞭解本地傳統的精髓。（新華社）"
+    },
+    {
+      "id": "em:qqyh_mlc:202606053762228967",
+      "time": "2026-06-05 21:16:36",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國白宮經濟顧問：美聯儲不應該加息 還有降息空間】美國白宮經濟顧問哈塞特表示，美聯儲不應該加息，還有降息空間。"
+    },
     {
       "id": "4919906",
       "time": "2026-06-05 21:16:23",
@@ -240,6 +329,14 @@
         "AI Revolution"
       ],
       "text": "【Huawei Cloud, 20-plus model vendors unveil ecosystem cooperation plan】Huawei Cloud opened its INSPIRE creators conference in Shanghai and unveiled an ecosystem cooperation plan with more than 20 model vendors, naming partners including Baidu, iFlytek Spark, Zhipu, Meituan LongCat, Stepfun, DeepSeek, Minimax and Kimi. The initiative, titled Hundreds of Models, Thousands of Scenarios — Cloud Convergence for Win‑Win, intends to jointly build a systematic commercial ecosystem for model deployment and go‑to‑market cooperation."
+    },
+    {
+      "id": "4919892",
+      "time": "2026-06-05 21:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省委常委會召開會議】6月5日，貴州省委常委會召開會議，會議強調，要堅決貫徹落實習近平總書記關於安全生產的重要指示精神，時刻繃緊安全生產這根弦，按照黨中央決策部署，堅持人民至上、生命至上，縱深推進安全生產治本攻堅三年行動，重拳出擊“打非治違”。要壓實責任、狠抓落實，緊盯礦山、煙花爆竹、交通運輸、旅遊、建築施工、危化品、消防等重點行業領域，加強全鏈條、穿透式監管，切實提升隱患排查整治質效，堅決守住不發生重特大事故的底線。當前正值汛期，要強化監測預警和應急值守，堅決落實各項務實管用的硬措施，強化山洪、地質災害等防範應對，科學果斷組織避險轉移，確保全省安全度汛。（貴州改革）"
     },
     {
       "id": "4919891",
@@ -171793,105 +171890,6 @@
         "國際"
       ],
       "text": "美聯儲保爾森：受多重因素推動，通脹水平仍過高。"
-    },
-    {
-      "id": "mkt:019e73e4-545c-7eef-a0ef-5eacfa183945",
-      "time": "2026-05-29 21:19:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UBS is cutting several hundred jobs as it continues integrating Credit Suisse."
-    },
-    {
-      "id": "4907377",
-      "time": "2026-05-29 21:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：瑞銀在持續整合瑞信過程中裁員數百人。"
-    },
-    {
-      "id": "mkt:019e73e3-f267-7eef-a0ef-53e22f9644e6",
-      "time": "2026-05-29 21:19:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y"
-      ],
-      "text": "A Federal Reserve official said the unemployment rate is close to full employment."
-    },
-    {
-      "id": "mkt:019e73e3-c9bb-7eef-a0ef-4bf771408a72",
-      "time": "2026-05-29 21:19:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed's Paulson says rising uncertainty has left households and firms cautious about the economic outlook."
-    },
-    {
-      "id": "4907376",
-      "time": "2026-05-29 21:19:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森：不確定性下家庭與企業對經濟前景持謹慎態度。"
-    },
-    {
-      "id": "4907375",
-      "time": "2026-05-29 21:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國向東帝汶捐贈藥械】中國－東帝汶兩國藥械捐贈儀式29日在位於東帝汶首都帝力的國立醫院舉行。此次捐贈物品涵蓋臨床藥品及醫療裝置，將有效緩解國立醫院部分醫療物資短缺問題，進一步提升醫院診療能力和醫療服務水平。（新華社）"
-    },
-    {
-      "id": "mkt:019e73e2-7626-7eef-a0ef-47e8ba9e53f4",
-      "time": "2026-05-29 21:17:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "S&P500",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's Paulson said consumer spending is rising but growth is slowing."
-    },
-    {
-      "id": "mkt:019e73e2-0fed-7eef-a0ef-3c2952925543",
-      "time": "2026-05-29 21:17:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's Paulson said current inflation is too high and was already too high even before the war began."
-    },
-    {
-      "id": "em:qqyh_mlc:202605293754696248",
-      "time": "2026-05-29 21:17:30",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲保爾森：貨幣政策具有適度限制性 處於適當水平】美聯儲保爾森稱，通脹壓力對經濟造成了影響，貨幣政策具有適度限制性，處於適當水平；目前的通脹過高，甚至在戰爭開始之前就已經過高。"
     }
   ]
 }
