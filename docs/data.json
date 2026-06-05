@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-06 01:32:34",
-  "count": 18760,
+  "updated": "2026-06-06 01:36:23",
+  "count": 18759,
   "items": [
+    {
+      "id": "4920246",
+      "time": "2026-06-06 01:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "洲際交易所歐洲分部持倉報告（COT）：截至 6 月 2 日，白糖投機客淨多頭頭寸增持 3394 手，淨多持倉升至 27079 手。"
+    },
+    {
+      "id": "mkt:019e98d9-833f-7665-830a-f5bf43abaa9f",
+      "time": "2026-06-06 01:34:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. Senator Warren urged NVIDIA (NVDA.O) president to attend a hearing on June 11, market sources said."
+    },
     {
       "id": "mkt:019e98d7-4daf-7665-830a-ec44db5a35ba",
       "time": "2026-06-06 01:31:47",
@@ -172759,32 +172780,6 @@
         "Impact bearish"
       ],
       "text": "Intercontinental Exchange data: week to May 26, speculative net long positions in Brent crude fell by 56,568 contracts to 278,720 contracts."
-    },
-    {
-      "id": "4907679",
-      "time": "2026-05-30 01:35:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟：對哈馬斯及巴勒斯坦伊斯蘭聖戰組織實施新一輪制裁。"
-    },
-    {
-      "id": "mkt:019e74cd-d2f9-7bb7-9965-0046438df837",
-      "time": "2026-05-30 01:35:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU to impose further sanctions on Hamas and Palestinian Islamic Jihad."
-    },
-    {
-      "id": "mkt:019e74cd-a70b-7bb7-9964-fd9cd1150f93",
-      "time": "2026-05-30 01:34:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Financial Times, BANK OF ENGLAND'S governor BAILEY said a 60-day ceasefire would help address the issue but would not fully resolve it."
     }
   ]
 }
