@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 01:40:20_
-_本檔包含 3590 則快訊，約 698918 字_
+_更新時間：2026-06-06 02:50:27_
+_本檔包含 3603 則快訊，約 699945 字_
+
+---
+
+### 2026-06-02 18:02:49  #公司
+
+【銀川釋出公告：取消楊尚斌、王雪面試資格】近日，寧夏銀川市金鳳區釋出公告稱，在該區2026年事業單位公開招聘中，金鳳區第三十八小學小學體育教師崗位（崗位程式碼：30125）、銀川市第三十二中學初中部初中體育教師崗位（崗位程式碼：30148）存在個別人員違規組織圍報行為。（央視新聞）
+
+---
+
+### 2026-06-02 18:02:06  #市場 #觀點
+
+博通美股盤前漲超7%，摩根士丹利維持博通買入評級，並將目標價從470美元上調至485美元。
+
+---
+
+### 2026-06-02 18:01:41  #公司 #市場
+
+【天洋新材：股票交易異常波動 2025年度業績虧損】天洋新材公告稱，公司股票於2026年5月29日、6月1日、6月2日連續三個交易日內收盤價格漲幅偏離值累計超20%，累計換手率18.58%，屬異常波動。經自查，公司目前生產經營正常，控股股東及實控人不存在應披露而未披露的重大資訊。2025年度歸屬於上市公司股東的淨利潤為-2.44億元，扣非後為-2.49億元。公司提醒投資者注意交易風險。
+
+---
+
+### 2026-06-02 18:01:14  #市場 #國際
+
+印度盧比收盤下跌0.3%，報1美元兌換95.2650盧比；前收盤價為94.99。
+
+---
+
+### 2026-06-02 18:00:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【India's May fuel exports hit near four-year low as domestic supply prioritized】India's fuel exports in May fell to their lowest level in nearly four years as authorities prioritized domestic supply through supply-security measures amid the Iran crisis and refinery maintenance cut shipments, Kpler data showed. Exports of diesel, gasoline and jet fuel averaged about 878,000 bpd in May, the lowest since October 2022 and down 31% YoY.
+
+---
+
+### 2026-06-02 18:00:38  #公司
+
+【佳禾智慧：簽訂募集資金三方監管協議 專戶金額7.34億元】佳禾智慧公告稱，公司2024年1月4日發行可轉換公司債券，募集資金淨額9.94億元。2025年8月，公司將原募投專案變更為“收購BD KG全部有限合夥權益、BD GmbH全部股份及BD KG的股東借款”，並將原募投專案尚未投入的7.04億元及利息等用於新募投專案。經董事會批准，公司、保薦機構招商證券與中信銀行東莞分行簽署《募集資金三方監管協議》，專戶金額7.34億元，用於新募投專案。原募投專案專戶將登出，子公司相關協議正在簽署中。
+
+---
+
+### 2026-06-02 18:00:28  #MKT News
+
+ECB executive board member cipellone said Europe must act cautiously to bolster the euro's international role, and that enhancement will not occur automatically.
+
+---
+
+### 2026-06-02 18:00:25  #其他
+
+【中央巡視工作領導小組辦公室原主任黎曉宏被查】中央巡視工作領導小組辦公室原主任黎曉宏涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）
+
+---
+
+### 2026-06-02 17:59:43  #MKT News #WTI #Impact bullish #Brent
+
+IEA oil division head says emergency releases of oil reserves are only a stopgap and cannot resolve oil supply problems.
+
+---
+
+### 2026-06-02 17:59:39  #其他
+
+國際能源署石油部門主管：緊急釋放石油庫存只是權宜之計，無法解決石油供應問題。
+
+---
+
+### 2026-06-02 17:58:55  #其他
+
+【山東：舉辦一批品牌賽事，打造“好運山東”體育品牌】山東省人民政府印發《推進服務業擴能提質實施方案》，其中提出，創新發展體育服務。推動賽事經濟、冰雪經濟等高質量發展，舉辦一批品牌賽事，打造“好運山東”體育品牌。實施群眾身邊體育運動空間擴容計劃，加強健身步道、戶外運動目的地建設，佈局更多百姓家門口“小而美”場地設施。到2030年，體育產業總規模超過8500億元。
+
+---
+
+### 2026-06-02 17:58:45  #其他
+
+【甘肅完善生態補償機制促進流域協同治理】記者從甘肅省政府新聞辦公室2日召開的新聞釋出會上獲悉，甘肅持續完善流域生態補償機制，在跨省橫向生態補償中，探索將特徵汙染物改善狀況作為補償資金核算的重要依據。甘肅省生態環境廳副廳長薛蕾介紹，2025年，甘肅省相關部門制定印發《關於進一步健全橫向生態保護補償機制的實施方案》，堅持左右岸、上下游統籌謀劃推進，加快建立完善黃河、長江、內陸河流域省內、省際橫向生態補償機制。（新華社）
+
+---
+
+### 2026-06-02 17:58:36  #市場
+
+【英偉達美股盤前漲超2%】英偉達美股盤前漲超2%，現報228.85美元。
+
+---
+
+### 2026-06-02 17:58:20  #公司
+
+【上海加快OPC企業集聚發展】記者從2日舉行的2026上海超級個體（OPC）經濟大會獲悉，上海透過發放算力券、模型券、語料券，以及推出先用後付、免申即享的Token補貼等政策，加快OPC企業集聚發展，目前上海全市已招引OPC企業（“一人公司”）超過600家。在人工智慧逐漸賦能千行百業的當下，OPC企業在多個垂直細分領域快速崛起。上海自貿試驗區臨港新片區是國內較早提出OPC發展的地區之一，2025年8月就釋出了相關政策，推出“超級個體288行動”，打造了空間、政策、資本、人才等關鍵要素集於一體的創新生態。（新華社）
+
+---
+
+### 2026-06-02 17:58:17  #其他
+
+【山東：實施零售業創新提升、農村電商高質量發展工程】山東省人民政府印發《推進服務業擴能提質實施方案》，其中提出，增加優質居民服務供給。健全社群便民服務體系，創新社群整合服務模式。推行電子版“居家上門服務證”，拓展整理收納、健康照護等到家服務，打造30家“潮享新家政體驗中心”。實施零售業創新提升、農村電商高質量發展工程，培育即時配送、無人配送等新業態。到2030年，建成1500個以上便民生活圈。
+
+---
+
+### 2026-06-02 17:58:12  #MKT News #Market Regions #Europe & UK
+
+European Bank for Reconstruction and Development president said government support to mitigate the impact of the Iran war must be targeted and temporary.
+
+---
+
+### 2026-06-02 17:58:08  #公司 #觀點
+
+【中信建投：間接全資附屬公司發行票據 全資子公司提供14.59億元擔保】中信建投公告稱，公司間接全資附屬公司CSCIF Hong Kong Limited於2026年6月2日完成中票計劃項下兩筆票據發行，本金合計14億元。全資子公司中信建投國際為其提供無條件及不可撤銷的連帶責任保證擔保，擔保金額14.59億元，無反擔保。截至公告日，公司及控股子公司實際擔保金額524.05億元，佔最近一期經審計淨資產的44.00%，無逾期擔保情況。本次擔保在授權範圍內，風險可控。
+
+---
+
+### 2026-06-02 17:58:00  #其他
+
+【我國進一步健全城市社群衛生服務體系】國家衛生健康委6月2日公佈《關於進一步健全城市社群衛生服務體系 提升服務能力的通知》明確，到2030年，基本實現建制街道社群衛生服務中心全覆蓋，社群衛生服務機構基礎設施條件明顯改善，數智化服務有序推進，服務能力全面提升。通知從實現社群衛生服務中心全覆蓋、織密織牢社群衛生服務網路、強化人員配備和培訓、根據需要拓展功能提升能力、擴大藥品配備、探索區級醫院與社群衛生服務機構一體化管理、做好人員下沉派駐、加強數智化賦能等八方面提出主要任務。（新華社）
+
+---
+
+### 2026-06-02 17:57:55  #公司
+
+【3連板中央商場：2025年12月31日資產負債率為97.12%】中央商場(600280.SH)釋出風險提示公告，根據立信會計師事務所（特殊普通合夥）出具的2025年審計報告，公司2025年12月31日資產負債率為97.12%，合併報表未分配利潤為-13.19億元，實收股本為11.28億元，未彌補虧損金額超過實收股本總額三分之一。
+
+---
+
+### 2026-06-02 17:57:51  #MKT News #Market Regions #Emerging Markets
+
+EBRD president said the bank will lower GDP growth forecasts for the EBRD region and raise inflation forecasts.
+
+---
+
+### 2026-06-02 17:57:45  #公司 #市場
+
+【嘉欣絲綢：股票交易異常波動 不存在應披露未披露事項】嘉欣絲綢公告稱，公司股票在2026年6月1日、2日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共傳媒報道未公開重大資訊，近期經營正常，控股股東及實控人無應披露而未披露的重大事項，且在異常波動期間未買賣公司股票。另外，2026年一季度營收12.87億元，同比增長7.91%，淨利潤5490.83萬元，同比增長10.95%。
+
+---
+
+### 2026-06-02 17:57:34  #國際
+
+歐洲復興開發銀行行長：緩解伊朗戰爭影響的政府支援必須精準定向、期限臨時。
+
+---
+
+### 2026-06-02 17:57:28  #國際
+
+歐洲復興開發銀行行長表示，歐投行將下調其業務覆蓋區域的經濟增長預測，同時上調通脹預期。
+
+---
+
+### 2026-06-02 17:57:09  #公司 #市場 #觀點 #國際
+
+【花旗：美國科技股因過度看漲而面臨風險】據花旗集團策略師稱，美國科技股的過度看漲倉位正使投資者面臨行情反轉的風險。包括大衛·查韋在內的花旗團隊表示，對人工智慧主題的持續熱情已將看漲市場押注推至極限，這使得納斯達克100指數尤其容易受到衝擊。“在該指數中進行集中多頭投資‘會增加因任何負面因素出現獲利了結和長期平倉的可能性’，市場下行風險正在加大。”自3月下旬觸底以來，標準普爾500指數上漲了20%，而納斯達克100指數更是飆升了33%。根據動量指標，在過去近六週的時間裡，納斯達克100指數一直處於超買狀態。
+
+---
+
+### 2026-06-02 17:56:56  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Head of the IEA's oil division said the Strait of Hormuz could take 6-8 months to reopen at best, as of today.
+
+---
+
+### 2026-06-02 17:56:55  #國際
+
+【以軍對黎南部奈拜提耶市居民發出撤離令】當地時間2日，以軍向黎巴嫩奈拜提耶市的居民發出緊急警告，要求其儘快撤離到宰赫拉尼河以北地區。以軍稱，鑑於黎真主黨“違反停火協議”，以軍將採取打擊行動。以方1日發表宣告說，已下令以軍對貝魯特代希耶地區的黎巴嫩真主黨目標發動空襲，並藉由社交媒體警告當地居民儘快撤離。伊朗伊斯蘭議會議長、伊美談判伊方代表團團長卡利巴夫當天在社交媒體上表示，如果以方繼續在黎巴嫩推進軍事行動，伊朗不僅會停止當前與美國的談判程序，還將“站出來對抗以色列”。同日，美國總統特朗普與以色列總理內塔尼亞胡通話，就以色列在黎巴嫩的軍事升級行動表示“強烈不滿”。（央視新聞）
+
+---
+
+### 2026-06-02 17:56:45  #MKT News #Market Themes #AI Revolution #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+【CITIGROUP: U.S. tech stocks face risk from excessive bullish positioning】CITIGROUP strategists including David Chave say excessive bullish positioning in U.S. tech, driven by ongoing AI enthusiasm, has pushed long bets to extremes and leaves the Nasdaq 100 particularly exposed. "Concentrated long exposure in the index 'increases the likelihood of profit-taking and long-covering on any negative catalyst', raising downside risk," they said. Since late March the S&P 500 has risen about 20% and the Nasdaq 100 about 33%; momentum indicators show the Nasdaq 100 has been overbought for nearly six weeks.
+
+---
+
+### 2026-06-02 17:56:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+The head of the IEA's oil division said that of a roughly 400 mln-barrel release plan about half has already entered the market and the remainder will be released later.
+
+---
+
+### 2026-06-02 17:56:11  #其他
+
+國際能源署石油市場負責人：4億桶儲備釋放中已有約半數進入市場，剩餘半數仍將陸續投放。
+
+---
+
+### 2026-06-02 17:56:00  #MKT News #Commodities #Energy #WTI
+
+The head of the IEA's oil division said a further IEA-coordinated emergency release of oil stocks is possible, but it was not discussed today.
+
+---
+
+### 2026-06-02 17:55:59  #其他
+
+國際能源署石油事務主管：再度協調釋放緊急石油儲備存在可能性，但目前尚未就此展開討論。
+
+---
+
+### 2026-06-02 17:55:47  #公司
+
+【東安動力：擬1504.86萬元掛牌轉讓德州閒置房產及土地】東安動力公告稱，為盤活存量資產，聚焦主業，公司擬以掛牌出售方式轉讓位於山東德州的閒置房產及土地，首次掛牌價1504.86萬元。若首次掛牌未徵集到受讓方，延期或降價後重新掛牌，新底價不低於評估結果的90%。本次交易不構成關聯和重大資產重組，但尚需股東會審議，能否達成交易存在不確定性。截至2025年8月31日，該資產賬面淨值731.69萬元，評估增值701.52萬元，增值率95.88%。
+
+---
+
+### 2026-06-02 17:55:35  #其他
+
+國際能源署石油部門負責人：霍爾木茲海峽重新開放，從當前情況來看，最佳場景下也需要6至8個月時間。
+
+---
+
+### 2026-06-02 17:55:20  #其他
+
+【山東：到2030年服務業增加值力爭達7.2萬億元】山東省人民政府印發《推進服務業擴能提質實施方案》，其中提出，到2030年，全省服務業規模壯大、結構最佳化、能級躍升，高質量發展邁上新臺階，增加值達到7.2萬億元、年均增長5.2%以上，總量、增量佔全國服務業的比重穩步提高，為更好發揮經濟大省“挑大樑”作用做出更大貢獻。
+
+---
+
+### 2026-06-02 17:54:22  #公司 #市場
+
+【贊宇科技：股價異常波動 多項增持及回購計劃在推進】贊宇科技公告稱，公司股票於2026年5月29日至6月2日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司及相關方無應披露未披露重大事項，異常波動期間控股股東等無買賣公司股票情形。公司子公司杜庫達破產裁定上訴結果未決；董監高累計增持792.20萬元，增持計劃尚在實施；控股股東及一致行動人累計增持671.60萬元，佔總股本1.31%，增持計劃在推進；公司擬1億-2億元回購股份，尚未實施。
+
+---
+
+### 2026-06-02 17:54:16  #公司
+
+【東安動力：5月發動機銷量22038臺，同比下降25.44%】東安動力公告，2026年5月發動機產量31030臺，同比下降8.83%，銷量22038臺，同比下降25.44%；本年累計產量16.8萬臺，同比下降9.69%，累計銷量16.11萬臺，同比下降9.79%。變速器產量5271臺，同比下降78.84%，銷量10705臺，同比下降45.00%；本年累計產量46694臺，同比下降46.88%，累計銷量50142臺，同比下降31.96%。
+
+---
+
+### 2026-06-02 17:54:13  #其他
+
+【寮國國家主席點贊中國智造】寮國人革黨中央總書記、國家主席通倫今天（6月2日）抵達浙江杭州，開始對中國進行為期五天的國事訪問。今天（6月2日）下午，通倫在杭州參訪了科技企業，點贊中國科技。（CCTV國際時訊）
+
+---
+
+### 2026-06-02 17:53:49  #公司
+
+【勝藍股份：公司中標Infra2.0整機櫃高速線纜部件-Cable Box專案】勝藍股份公告，近日收到某客戶相關專案的中標通知，確認公司為該客戶Infra2.0整機櫃高速線纜部件-Cable Box專案的中標單位。
+
+---
+
+### 2026-06-02 17:53:45  #公司
+
+【粵電力A：控股股東因可交換債券換股被動減持1.11%股份】粵電力A公告稱，截至2026年6月1日，控股股東廣東能源集團發行的“25粵能源EB”可交換債券持有人累計換股5825.2405萬股，導致廣東能源集團及其全資子公司對公司合計直接持股比例由69.41%被動降至68.30%，權益變動比例跨越1%。本次變動不會導致控股股東或實控人變更，換股期內，廣東能源集團持股可能因換股減少，但仍為控股股東。
+
+---
+
+### 2026-06-02 17:53:39  #公司 #國際
+
+【東方雨虹：擬5.42億元收購印尼兩公司55%股權 提請股東會審議】東方雨虹公告稱，公司第九屆董事會第八次會議審議透過相關議案，控股子公司印尼東方雨虹擬合計出資約14.26萬億印尼盧比（約5.42億元人民幣），分別以增資及股權收購方式取得PT Inter Aneka Lestari Kimia 55%股權，以股權收購方式取得PT Adhi Cakra Utama Mulia 55%股權。本次交易尚需提請2026年第二次臨時股東會審議批准。公司定於6月18日召開該次股東會對議案進行審議。
+
+---
+
+### 2026-06-02 17:52:54  #國際
+
+【日媒：日本防衛省正以沖繩為前沿強化“戰時醫療”體制】據日本《赤旗報》2日援引防衛省相關負責人的話報道，日本防衛省正以沖繩為前沿，強化“戰時醫療”體制建設，推進多家自衛隊醫院擴充病床、強化醫療功能、構建醫療後送體制等。報道說，防衛省已在2026年度預算中列入強化自衛隊醫院功能的相關經費。其中，位於沖繩縣的自衛隊那霸醫院計劃重建病房，將病床數由50張增至緊急事態下的200張。該醫院還計劃新設麻醉科和精神科，以應對重傷人員轉運以及戰場環境下自衛隊員可能出現的心理創傷等問題。（新華社）
+
+---
+
+### 2026-06-02 17:52:24  #MKT News #Market Themes #AI Revolution
+
+【SoftBank plans $300 mln investment in robotics startup Agile Robots】German industrial-robotics startup Agile Robots is in talks with investors including SoftBank Group to raise about $800 mln. Sources say SoftBank is negotiating to commit more than $300 mln and previously took part in Agile Robots' seed round; talks are at an early stage and final amount and terms may change. Investors are prioritizing companies that apply AI in real-world manufacturing, logistics and engineering use cases. PitchBook data show global investment in the sector more than doubled in 2025 to $27.6 bln.
 
 ---
 
@@ -21480,179 +21732,5 @@ GF Nasdaq ETF to suspend trading from market open on June 2, 2026; trading will 
 ### 2026-06-01 17:05:56  #公司 #市場
 
 【納指ETF廣發：二級市場價格溢價 6月2日停牌後復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月1日收盤價為1.7640元，收盤時基金份額參考淨值為1.5487元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-06-01 17:05:52  #Trading Economics #Economy #Kazakhstan #Inflation Rate #Importance 0
-
-Kazakhstan Inflation Falls to Over a Year Low — The annual inflation rate in Kazakhstan eased to 10.4% in May 2026, the lowest level since March 2025, down from 10.6% in April. Price growth slowed for food products (10.7% vs 11.3% in April), driven by softer increases in cereals (6.4% vs 7.2%), bread and bakery products (8.2% vs 9.0%), and meat and poultry (18.0% vs 18.4%). Meanwhile, non-food products inflation stood at 11.7%, unchanged from April. Within non-food products, prices rose at a softer pace for paid services (8.7% vs 8.9%) and gasoline (16.0% vs 16.1%), while inflation picked up for housing maintenance and services (6.2% vs 5.6%). On a monthly basis, consumer prices rose 0.7%, easing slightly from a 0.8% increase in April.
-
----
-
-### 2026-06-01 17:05:51  #公司 #市場
-
-【標普500ETF華夏：提示二級市場交易價格溢價風險】標普500ETF華夏公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月1日，收盤價為1.971元，收盤時基金份額參考淨值為1.8680元。若6月2日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金管理人提醒投資者關注溢價風險，審慎投資。目前基金運作正常，無應披露而未披露的重大資訊。
-
----
-
-### 2026-06-01 17:05:39  #公司 #市場
-
-【標普500ETF國泰：二級市場交易價格溢價 提醒投資者注意風險】標普500ETF國泰公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月1日，收盤價為2.039元，收盤時基金份額參考淨值為1.9193元。提醒投資者密切關注溢價風險，審慎投資。若6月2日溢價幅度未有效回落，基金有權採取臨時停牌等措施警示風險。此外，基金跟蹤標普500指數，投資者交易還面臨多種風險，目前基金運作正常且無應披露未披露資訊。
-
----
-
-### 2026-06-01 17:05:37  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #QCOM.O #Impact bearish #INTC.O #AMD.O
-
-After NVIDIA unveiled a PC chip, Qualcomm (QCOM.O) fell 5.8% in premarket trading, Intel (INTC.O) dropped 3.3% and AMD (AMD.O) slid 3%.
-
----
-
-### 2026-06-01 17:05:24  #MKT News
-
-HuaAn Nasdaq ETF will be halted from market open on June 2, 2026; trading will resume at 10:30 on June 2, 2026.
-
----
-
-### 2026-06-01 17:05:15  #公司 #市場 #國際
-
-【美國50ETF匯添富：提示二級市場交易價格溢價風險】美國50ETF匯添富公告稱，2026年6月1日，本基金二級市場收盤價為1.675元，收盤時基金份額參考淨值（IOPV）為1.5807元，交易價格明顯高於淨值，出現較大幅度溢價。提醒投資者關注溢價風險，審慎投資。若6月2日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-06-01 17:05:11  #MKT News #Market Themes #AI Revolution
-
-【ByteDance launches Coze 3.0 AI agent platform】June 1 — ByteDance launched version 3.0 of its AI agent platform Coze. Coze 3.0 adds multi-user, multi-agent collaboration, industry skill packs for finance, social media, healthcare, legal and research, and features one-click loading and multi-device sync. It also supports one-click integration with Claude Code, Codex CLI and Openclaw.
-
----
-
-### 2026-06-01 17:05:06  #其他
-
-【位元組跳動AI Agent平臺釦子Coze正式上線3.0全新版本】6月1日，位元組跳動旗下AI Agent平臺釦子（Coze）3.0全新版本正式上線。據瞭解，釦子3.0全新版本支援多人多Agent協作、金融、自媒體、醫療、法律、科研等行業技能包，以及一鍵載入、多端同步等。同時，Claude Code、Codex CLI、Openclaw等可一鍵接入。
-
----
-
-### 2026-06-01 17:04:58  #MKT News
-
-Dacheng Nasdaq-100 ETF: trading will be suspended at market open on June 2, 2026 and will resume at 10:30 a.m. on June 2, 2026.
-
----
-
-### 2026-06-01 17:04:35  #公司 #市場
-
-【納斯達克100ETF招商：二級市場價格溢價 6月2日停牌後復牌】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月1日收盤價為2.474元，基金份額參考淨值為2.2224元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露資訊。
-
----
-
-### 2026-06-01 17:04:30  #公司 #市場
-
-【納斯達克ETF華安：交易價格溢價 6月2日停牌半小時】納斯達克ETF華安公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月1日收盤價為2.605元，收盤時基金份額參考淨值為2.3427元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。目前基金運作正常，無應披露而未披露的重大資訊。
-
----
-
-### 2026-06-01 17:04:12  #Trading Economics #Economy #Euro area #Inflation Expectations #Importance 1
-
-Euro Area Consumer Inflation Expectations Unchanged in April — Eurozone median inflation expectations for the next 12 months were steady at 4% in April 2026, the same as in March and staying at 2023-highs. Consumers expected the price of their home to increase by 3.7% over the next 12 months, which was unchanged from March and expectations for mortgage interest rates also remained unchanged. In addition, expectations for inflation three years ahead decreased to 2.9% from 3% and inflation expectations for five years ahead remained unchanged at 2.4%. Meanwhile, economic growth expectations for the next 12 months became more negative, decreasing to -2.2% from -2.1%. By contrast, expectations for the unemployment rate 12 months ahead decreased to 11.2% from 11.3% in March. In addition, consumers’ nominal income growth expectations over the next 12 months decreased to 0.8% in April from 1.2% in March.
-
----
-
-### 2026-06-01 17:03:57  #公司 #市場
-
-【納指科技ETF景順：二級市場溢價，6月2日停牌至10:30復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月1日收盤價2.809元，收盤時基金份額參考淨值為2.3170元。為保護投資者利益，基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取進一步措施警示風險。
-
----
-
-### 2026-06-01 17:03:46  #市場
-
-英偉達推出PC晶片後，高通盤前股價下跌5.8%。
-
----
-
-### 2026-06-01 17:03:40  #市場
-
-英特爾股價盤前下跌3.3%，超威半導體股價盤前下跌3%。
-
----
-
-### 2026-06-01 17:02:47  #MKT News
-
-【Mingnayang delivers world's first mass-production line for low-altitude aircraft】Mingnayang Intelligent Technology (Jiangsu) Co., based in Changzhou Wujin National Hi‑tech Zone, has delivered the world’s first mass-production line for low-altitude aircraft and become the core equipment supplier to a leading domestic flying‑car manufacturer.
-
----
-
-### 2026-06-01 17:02:34  #國際
-
-歐盟以每噸78.2歐元的價格拍賣319.9萬噸現貨碳排放配額。
-
----
-
-### 2026-06-01 17:02:14  #公司
-
-【金風科技：截至5月31日累計回購A、H股金額分別達1.33億元、2076.53萬港元】金風科技公告稱，截至2026年5月31日，公司A股回購累計回購股份567.11萬股，約佔總股本的0.13%，最高成交價24元/股，最低23.33元/股，成交總金額1.33億元；H股回購累計回購股份151萬股，約佔總股本的0.0357%，最高成交價14.51港元/股，最低13.64港元/股，成交總金額2076.53萬港元。後續將按計劃實施回購並依規披露。
-
----
-
-### 2026-06-01 17:02:11  #MKT News
-
-【Russia suspends veterinary certification for Armenian live fish and fish products from June 2, except two firms】Russia's Federal Service for Veterinary and Phytosanitary Surveillance said on June 1 it will suspend veterinary certification of Armenian live fish and fish-product exports to Russia from June 2, except for two firms that passed inspection. Inspectors checked Armenian fish processors and rainbow trout farms May 21-27; roughly half of targeted companies refused inspection and the agency described results as unsatisfactory. The two approved producers may export to Russia only under ongoing laboratory safety monitoring. The agency on May 30 also restricted imports of Armenian fruit and vegetables.
-
----
-
-### 2026-06-01 17:01:56  #其他
-
-市場訊息：莫德納與流行病防範創新聯盟擴大戰略協作，推進研發針對本迪布焦埃博拉病毒的潛在疫苗。
-
----
-
-### 2026-06-01 17:00:59  #市場
-
-【機構：合約價快速上漲，1Q26 DRAM產業營收季增81%】根據TrendForce集邦諮詢最新儲存器產業調查，2026年第一季因一般型DRAM(Conventional DRAM)合約價加速上漲，季增幅度高達93-98%，激勵產業整體營收季成長81%，達970億美元。隨著AI應用由大型語言模型(LLM)訓練逐步轉至AI推理，雲端服務供應商(CSP)資料中心建設重點也從AI Server延伸至通用型Server，帶動儲存器採購需求由HBM3e、LPDDR5X及高容量RDIMM，擴大至各容量規格的RDIMM產品。
-
----
-
-### 2026-06-01 17:00:44  #公司
-
-【銘納陽成功交付全球首條低空飛行器量產產線】據常州釋出，近日，位於常州市武進國家高新區的銘納陽智慧科技（江蘇）股份有限公司（簡稱“銘納陽”）成功交付全球首條低空飛行器量產產線，成為國內某頭部飛行汽車企業的核心裝備供應商。
-
----
-
-### 2026-06-01 17:00:23  #經濟數據 #歐元區
-
-【歐元區4月失業率6.3% 預期6.2%】歐元區4月失業率6.3%，預期6.2%，前值由6.2%修正為6.3%。
-
----
-
-### 2026-06-01 17:00:16  #其他
-
-歐元區4月失業率 6.3%，預期 6.2%，前值 6.2%。
-
----
-
-### 2026-06-01 17:00:14  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-Eurozone unemployment rate 6.3% in April, vs 6.2% expected; March reading revised up to 6.3% from 6.2%.
-
----
-
-### 2026-06-01 17:00:13  #國際
-
-【俄獸植局：亞美尼亞須暫停對俄出口活魚及魚產品認證】當地時間6月1日，俄羅斯聯邦獸醫和植物檢疫監督局釋出通報稱，除兩家已透過檢查的企業外，亞美尼亞須自6月2日起暫停對俄出口活魚及魚產品的獸醫認證工作。俄羅斯聯邦獸醫和植物檢疫監督局表示，該機構的檢查人員於5月21日至27日對亞美尼亞魚類加工企業及虹鱒養殖場進行了檢查。一半受檢企業拒絕接受檢查，檢查結果不盡如人意。該局稱，獲准進口的兩家企業產品將在接受實驗室安全指標監測的前提下對俄出口。（央視新聞）
-
----
-
-### 2026-06-01 17:00:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.41% — Top currency losers are New Zealand Dollar (-0.41%), Turkish Lira (-0.38%), Swiss Franc (-0.28%) and Japanese Yen (-0.11%). Gains are led by Brazilian Real (0.38%), British Pound (0.13%) and Dollar Index (0.07%). Meanwhile Euro was little changed.
-
----
-
-### 2026-06-01 17:00:00  #MKT News #Economic Calendar #Important
-
-Eurozone | Unemployment Rate (Apr) | actual 6.3% | consensus 6.20% | previous 6.20%
-
----
-
-### 2026-06-01 16:59:34  #公司
-
-【奧瑞德：持股5%以上股東6080萬股將被二次司法拍賣】奧瑞德公告稱，持股5%以上大股東左洪波、褚淑霞為一致行動人，合計持有公司17027.17萬股。左洪波持有的6080萬股公司限售股將於2026年6月12日10:00至6月13日10:00進行第二次司法拍賣，佔其與一致行動人所持股份的35.71%，佔公司股份總數的2.21%，該股份已被司法輪候凍結。第一次拍賣已流拍，本次拍賣結果仍不確定，不會導致公司控制權變更，也不影響持續經營。
 
 ---
