@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-05 08:12:13",
-  "count": 19011,
+  "updated": "2026-06-05 08:16:07",
+  "count": 19009,
   "items": [
+    {
+      "id": "mkt:019e9522-b571-7cc8-bdf0-2db345e838bc",
+      "time": "2026-06-05 08:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei, citing Japan’s Ministry of Finance data published June 5, reports Japan’s foreign-exchange reserves were $1.306 trillion (about ¥209 trillion) at end‑May, down 5.6% from end‑April — the largest recorded monthly decline, reflecting government FX intervention."
+    },
+    {
+      "id": "4918332",
+      "time": "2026-06-05 08:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，6月5日至6月6日，每日13時30分至15時30分，南海部分海域進行火箭發射，禁止駛入。"
+    },
+    {
+      "id": "4918331",
+      "time": "2026-06-05 08:14:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5％，至8207.09點。三星跌6.5%，SK海力士跌超8%。"
+    },
+    {
+      "id": "mkt:019e9521-afe3-7cc8-bdf0-277779a9331f",
+      "time": "2026-06-05 08:14:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "Nasdaq100"
+      ],
+      "text": "【KOSPI plunges 5%】KOSPI extended losses to 5%, with Samsung Electronics down 6.5% and SK Hynix off more than 8%. Nasdaq futures fell nearly 1%, and major chip stocks were broadly lower in U.S. after-hours trade."
+    },
+    {
+      "id": "4918330",
+      "time": "2026-06-05 08:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨跌幅擴大，下跌0.9%；標普500期貨下跌0.44%。"
+    },
+    {
+      "id": "mkt:019e951f-dde6-7cc8-bdf0-1b02005a920e",
+      "time": "2026-06-05 08:12:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Punchbowl reports the U.S. House passed a package providing aid to Ukraine and imposing sanctions on Russia."
+    },
+    {
+      "id": "4918328",
+      "time": "2026-06-05 08:12:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華爾街預計到2030年SpaceX的人工智慧業務收入將增長100倍】華爾街研究分析師告訴SpaceX首次公開募股(IPO)的潛在投資者，模型預計該公司人工智慧(AI)部門收入將在本十年末增長100倍，以此來證明1.8萬億美元的目標估值是合理的。據一位知情人士透露，Evercore ISI研究分析師預計，SpaceX的AI部門到2031年銷售額將達到7550億美元，遠高於去年的32億美元。知情人士還表示，研究團隊預計到2031年的總收入將超過1萬億美元，而2025年的收入為187億美元。由於資訊尚未公開，知情人士要求匿名。"
+    },
+    {
+      "id": "4918327",
+      "time": "2026-06-05 08:11:54",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信建投：多使用者綠電直連政策釋出 促進新能源就地消納】中信建投研報認為，近期，國家發改委及能源局聯合釋出《有序推動多使用者綠電直連發展有關事項的通知》。多使用者綠電直連是指風電、太陽能發電、生物質發電等新能源發電不直接接入公共電網，透過專用線路和變電設施向多個使用者供給綠電，實現供給電量清晰溯源和分配的模式。《通知》明確新建負荷、存量負荷（單使用者綠電直連專案、綠電需求使用者以及零碳園區、增量配電網等）均可開展多使用者綠電直連。同時，《通知》支援尚未開展電網接入工程建設的新能源發電專案，以及因新能源消納受限等原因無法併網的新能源發電專案開展多使用者綠電直連，為其開闢電力消納通道。總體來看，多使用者綠電直連降低了綠電直連專案的開展門檻，促進新能源就近就地消納，降低棄風棄光壓力。"
+    },
+    {
+      "id": "mkt:019e951f-2660-7cc8-bdf0-13c810347be9",
+      "time": "2026-06-05 08:11:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Prime Minister Takaichi said her economic policy is intended to strengthen Japan's economic capacity and is not aimed at manipulating the yen."
+    },
     {
       "id": "4918326",
       "time": "2026-06-05 08:11:23",
@@ -175000,110 +175086,6 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei index opened higher and climbed further, extending gains to 2%."
-    },
-    {
-      "id": "4905729",
-      "time": "2026-05-29 08:15:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞電視臺報道，馬拉穆列什縣巴謝斯蒂地區發現一架無人機，目前該區域已被封鎖管控。"
-    },
-    {
-      "id": "te:markets:554653",
-      "time": "2026-05-29 08:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsubishi Stock Price Hits 4-week Low — Mitsubishi shares decreased to 5001.00 JPY, the lowest since May 2026. Over the past 4 weeks, Mitsubishi gained 0.36%, and in the last 12 months, it increased 70.63%."
-    },
-    {
-      "id": "4905728",
-      "time": "2026-05-29 08:15:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【怡和據悉考慮出售更多資產 以進行業務轉型】據知情人士透露，怡和控股有限公司正考慮出售更多資產，以進行全面改革，將這家企業集團轉型為一家專注於高增長領域的投資公司。"
-    },
-    {
-      "id": "4905727",
-      "time": "2026-05-29 08:14:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "畢馬威澳大利亞分部表示，在舉報人調查“未達要求”後，執行長與審計部門主管已辭職。"
-    },
-    {
-      "id": "mkt:019e7115-27d6-7ee0-99de-59858d70efd0",
-      "time": "2026-05-29 08:14:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UN spokesperson says UN reviewing reports of 60‑day US‑Iran memorandum; expresses concern over latest exchanges】UN spokesperson Stephane Dujarric said on the 28th the UN is reviewing reports that the US and Iran have reached a 60‑day memorandum of understanding. The UN expressed concern about the latest US‑Iran exchanges, urged both parties to comply with the ceasefire arrangement, and reiterated a call to restore freedom of navigation through the Strait of Hormuz. UN Secretary‑General António Guterres has warned sustained disruption to traffic in the Strait would have serious global economic consequences and called for a toll‑free, open Strait of Hormuz."
-    },
-    {
-      "id": "4905726",
-      "time": "2026-05-29 08:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "2025年日本人口為1.2305億，較2020年下降2.5%。"
-    },
-    {
-      "id": "4905725",
-      "time": "2026-05-29 08:14:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國Kakao公司釋出宣告稱，工會提出的獎金訴求成企業沉重負擔。"
-    },
-    {
-      "id": "mkt:019e7114-9422-7ee0-99de-571e4e964381",
-      "time": "2026-05-29 08:13:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Copper",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Galaxy Securities: AI drives data centers into token super-factories】Galaxy Securities research says tokens are the minimal processing unit for large AI models and can precisely meter compute, VRAM and power consumption. As the value carrier of the AI compute economy, tokens are likened to the ‘water, electricity and coal’ of the AI era and a core production input, enabling data centers to become smart factories for large‑scale token production. Token generation speed is highly correlated with hardware performance, making hardware the primary growth driver of the token economy. The AI-driven shift will accelerate comprehensive upgrades of core components, including PCBs and passive components."
-    },
-    {
-      "id": "4905724",
-      "time": "2026-05-29 08:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國秘書長發言人：對美伊最新交火表示關切與擔憂】針對有訊息稱美國與伊朗已達成一份有效期60天的諒解備忘錄，聯合國秘書長發言人迪雅裡克28日表示，聯合國方面正在瞭解相關內容。他表示，聯合國對美伊最新的交火表示關切與擔憂，鼓勵美伊遵守停火協議，並重申希望霍爾木茲海峽恢復航行自由。聯合國秘書長古特雷斯此前表示，霍爾木茲海峽通航持續受阻將對全球經濟造成嚴重後果，他呼籲維持一個不收費的、自由通航的霍爾木茲海峽。"
-    },
-    {
-      "id": "4905723",
-      "time": "2026-05-29 08:13:16",
-      "tags": [
-        "公司",
-        "資料",
-        "觀點"
-      ],
-      "text": "【中信證券：“量減價增”帶來利潤營收雙提速】中信證券研報表示，4月工業企業利潤和營業收入增速均創新高，結構上，國有和股份制企業利潤增速較快，外資企業利潤增速邊際回落。工業企業“量-價”分化但無礙利潤修復整體上行，其中“價”和“利潤率”改善支撐利潤增速上升，PPI的超預期修復是核心原因，而受制於需求和投資的影響，“量”的弱修復形成拖累。行業層面，上游利潤增速大幅上行，下游利潤增速邊際回升，中游利潤佔比進一步上行，其中“煤炭、有色、計算機通訊、化學原料”等行業領漲，煤炭行業利潤邊際修復顯著。展望未來，前期觀望情緒比較濃，目前企業補庫意願出現抬升，後續仍需關注外需環境的變化，以及原材料漲價對企業生產擴張意願和利潤的中長期影響。"
-    },
-    {
-      "id": "4905722",
-      "time": "2026-05-29 08:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：AI驅動下資料中心向Token超級工廠轉型】銀河證券研報認為，Token是AI大模型處理資訊的最小單元，可精準計量算力、視訊記憶體與電力消耗，作為AI算力經濟的價值載體，堪稱AI時代“水電煤”與核心生產要素，推動資料中心成為Token規模化生產的智慧工廠。Token生成速度與硬體效能高度相關，硬體成為Token經濟增長的核心驅動力。AI驅動下資料中心向Token超級工廠轉型，帶動PCB、被動元件等核心元器件全面升級。"
     }
   ]
 }
