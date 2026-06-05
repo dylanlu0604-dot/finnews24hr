@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-05 21:09:31",
-  "count": 18663,
+  "updated": "2026-06-05 21:13:25",
+  "count": 18662,
   "items": [
+    {
+      "id": "mkt:019e97ea-36d5-7fff-a931-8387898eb83a",
+      "time": "2026-06-05 21:12:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT, director of the White House National Economic Council, said the Federal Reserve can monitor inflation developments and remain on the sidelines before taking any action."
+    },
+    {
+      "id": "4919897",
+      "time": "2026-06-05 21:12:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部長表示，烏克蘭通報無人機漂流向羅馬尼亞，使得官方得以在無人機自爆前疏散該區域人員。"
+    },
+    {
+      "id": "4919896",
+      "time": "2026-06-05 21:12:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈西特：美聯儲可靜觀通脹走勢，暫緩落地政策動作。"
+    },
+    {
+      "id": "4919895",
+      "time": "2026-06-05 21:11:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國白宮：就業資料非常出色！"
+    },
+    {
+      "id": "mkt:019e97e8-f8b1-7fff-a931-7e62fc5b81ca",
+      "time": "2026-06-05 21:11:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "White House says U.S. jobs data were very strong."
+    },
+    {
+      "id": "4919894",
+      "time": "2026-06-05 21:11:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "Nick Timiraos：美聯儲在4月FOMC議息宣告中維持寬鬆傾向。市場爭論重心已然越過是否轉向中性立場，轉而聚焦兩點：最早或7月轉向緊縮立場；何時撤銷2025年預防性降息。"
+    },
+    {
+      "id": "mkt:019e97e8-cfbf-7fff-a931-713def7c26f5",
+      "time": "2026-06-05 21:11:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal reports U.S. leisure and hospitality payrolls rose by 70,000 in May; hiring tied to World Cup events may have been a contributing factor."
+    },
     {
       "id": "4919893",
       "time": "2026-06-05 21:08:20",
@@ -171817,87 +171892,6 @@
         "Importance 1"
       ],
       "text": "Chile Industrial Output Falls in April — Chile’s industrial production fell 4.7% year-on-year in April 2026, following a 3.4% contraction in the previous month. The decline was mainly driven by mining activity, as the mining production index dropped 9.0% due to a 12.6% contraction in metallic mining. Copper extraction and processing fell 13.8%, reflecting a high comparison base and lower ore grades at major producers. Manufacturing output also weakened, declining 2.5%, largely due to a 7.7% drop in food production. In contrast, utilities output rose 0.9%, supported by a 2.3% increase in electricity generation. On a monthly basis, industrial production edged down 0.2%."
-    },
-    {
-      "id": "te:economy:554984",
-      "time": "2026-05-29 21:12:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Chile Retail Sales Rise 4.1% YoY in April — Retail sales in Chile increased 4.1% year-on-year in April 2026, slowing from a downwardly revised 4.5% rise in March. The most significant contributions came from sales of miscellaneous consumer goods (6.8%), new light motor vehicles (15.6%), and motor vehicle spare parts, tires, and accessories (10%). Compared to the previous month, retail sales declined 0.5%, the biggest drop since July last year, following an upwardly revised 0.3% rise in March."
-    },
-    {
-      "id": "4907366",
-      "time": "2026-05-29 21:11:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度表示，印度儲備銀行與越南達成數字支付及創新合作協議。"
-    },
-    {
-      "id": "4907365",
-      "time": "2026-05-29 21:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市政府原參事曹清堯嚴重違紀違法被開除黨籍和公職：結交政治騙子】經查，曹清堯喪失理想信念，背棄初心使命，對黨不忠誠不老實，結交政治騙子，對抗組織審查；罔顧中央八項規定精神，違規收受禮金，接受可能影響公正執行公務的宴請；無視組織原則，在組織函詢時不如實說明問題；廉潔底線失守，利用職權為親屬承攬業務謀利；違規干預和插手工程專案承發包；貪慾膨脹，公器私用，大搞權錢交易，利用職務上的便利為他人在工程承攬、企業經營等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202605293754693936",
-      "time": "2026-05-29 21:11:09",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委拉德夫：行動太晚的成本可能超過提前行動的成本】歐洲央行管委拉德夫稱，貨幣政策不能僅僅是經濟防禦，行動太晚的成本可能超過提前行動的成本。"
-    },
-    {
-      "id": "4907364",
-      "time": "2026-05-29 21:10:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委拉德夫：行動太晚的成本可能超過提前行動的成本。貨幣政策並非經濟領域的唯一應對手段。"
-    },
-    {
-      "id": "mkt:019e73db-76a3-7eef-a0ef-14ac1f89c67e",
-      "time": "2026-05-29 21:10:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Radev said the cost of acting too late may exceed the cost of acting early."
-    },
-    {
-      "id": "mkt:019e73db-750d-7eef-a0ef-0b95f0cc9bae",
-      "time": "2026-05-29 21:10:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Radev said monetary policy cannot be merely defensive for the economy."
-    },
-    {
-      "id": "mkt:019e73da-eb58-7eef-a0ef-06f7f2faae43",
-      "time": "2026-05-29 21:09:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Missile alert issued across Russia's Ural region."
     }
   ]
 }
