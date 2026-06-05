@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-06 02:19:44",
-  "count": 18807,
+  "updated": "2026-06-06 02:23:38",
+  "count": 18805,
   "items": [
+    {
+      "id": "4920280",
+      "time": "2026-06-06 02:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "據Axios：威特科夫與庫什納週四前往田納西州國家實驗室，同核能專家舉行會晤。"
+    },
+    {
+      "id": "te:markets:557000",
+      "time": "2026-06-06 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Tumbles by 7.39% — Top commodity losers are Silver (-7.39%), Platinum (-6.31%), Copper (-4.13%) and Gold (-3.32%)."
+    },
     {
       "id": "mkt:019e9902-afef-7665-830b-df7f69ed28a4",
       "time": "2026-06-06 02:19:10",
@@ -173197,42 +173216,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Drops by 4.83% — Top commodity losers are Cocoa (-4.83%) and Oat (-3.46%). Gains are led by Rubber (2.79%) and Sugar (1%)."
-    },
-    {
-      "id": "4907691",
-      "time": "2026-05-30 02:21:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯格姆：石油市場可以相信特朗普會達成一項很棒的協議。"
-    },
-    {
-      "id": "mkt:019e74f8-7ee1-7bb7-9965-3e98e1aec24d",
-      "time": "2026-05-30 02:21:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US Interior Secretary Bergum said he will meet with Trump; the meeting could yield significant announcements."
-    },
-    {
-      "id": "4907690",
-      "time": "2026-05-30 02:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯格姆：石油市場相信特朗普將促成一份有利協議。"
-    },
-    {
-      "id": "te:markets:555052",
-      "time": "2026-05-30 02:20:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Gold Gains by 1.40% — Top commodity gainers are Gold (1.40%) and Lithium Carbonate (1.14%). Biggest loser is Copper (-0.52%)."
     }
   ]
 }
