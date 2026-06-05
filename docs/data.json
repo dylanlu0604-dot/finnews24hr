@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-05 09:41:55",
-  "count": 18988,
+  "updated": "2026-06-05 09:45:37",
+  "count": 18991,
   "items": [
+    {
+      "id": "te:markets:556657",
+      "time": "2026-06-05 09:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 6-week Low — China Mobile shares decreased to 82.30 HKD, the lowest since April 2026. Over the past 4 weeks, China Mobile lost 1.85%, and in the last 12 months, it decreased 7.74%."
+    },
+    {
+      "id": "4918461",
+      "time": "2026-06-05 09:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正週五表示，日本政府已向晶片製造商Rapidus追加投資1500億日元。"
+    },
+    {
+      "id": "mkt:019e9573-aaaf-766c-9542-fe61b4de98c6",
+      "time": "2026-06-05 09:44:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share fiber-optic sector jumped intraday; Dingtong Technology up >13%, Qiuguan Cable up >12%. Changguang Huaxin, Ligong Guangke, Yangtze Optical Fibre & Cable, Jiuzhiyang and Hengtong Optic‑Electric also advanced."
+    },
+    {
+      "id": "mkt:019e9573-8eb2-766c-9542-f430dc71e9c8",
+      "time": "2026-06-05 09:43:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share coal sector showed localized strength: Dayou Energy posted a fifth consecutive daily limit-up; Antai Group a second. Guanghui Energy, Baotailong and Pingmei Coal also climbed."
+    },
+    {
+      "id": "4918460",
+      "time": "2026-06-05 09:43:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊短線拉昇，鼎通科技漲超13%】光纖概念板塊短線拉昇，鼎通科技漲超13%，球冠電纜漲超12%，長光華芯、理工光科、長飛光纖、久之洋、亨通光電等跟漲。"
+    },
+    {
+      "id": "4918459",
+      "time": "2026-06-05 09:43:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：經濟與財政政策並非用以干預匯率。"
+    },
+    {
+      "id": "mkt:019e9572-6c87-766c-9542-ebcd462efac9",
+      "time": "2026-06-05 09:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's ambassador to US Xie Feng meets Biocom CEO to discuss U.S.-China biopharma SME cooperation】June 3, 2026 — China's ambassador to the United States Xie Feng met Scott, president and CEO of Biocom (California Life Sciences Association), and exchanged views on U.S.-China cooperation in the biopharmaceutical industry, with emphasis on collaboration among small and medium-sized enterprises."
+    },
+    {
+      "id": "4918458",
+      "time": "2026-06-05 09:42:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【謝鋒大使會見美國加州生命科學產業協會總裁兼執行長斯科特】2026年6月3日，中國駐美國大使謝鋒會見美國加州生命科學產業協會（Biocom）總裁兼執行長斯科特，雙方就中美生物醫藥產業特別是相關中小企業合作等交換意見。（中國駐美國大使館）"
+    },
+    {
+      "id": "4918457",
+      "time": "2026-06-05 09:42:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6G概念震盪拉昇 武漢凡谷漲停】6G概念震盪拉昇，武漢凡谷漲停，盛路通訊、中興通訊、創遠信科跟漲。"
+    },
+    {
+      "id": "4918456",
+      "time": "2026-06-05 09:41:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超級電容板塊下挫，金時科技觸及跌停】超級電容板塊下挫，金時科技觸及跌停，元力股份、新築股份、宏達電子、風華高科、東方鉭業跟跌。"
+    },
+    {
+      "id": "mkt:019e9571-9468-766c-9542-e304492908ef",
+      "time": "2026-06-05 09:41:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share energy-storage sector opened weak: Yongguan New Materials and Jinshi Technology hit daily limit-downs, Zhongjing Electronics fell about 8%, while Hongxin Electronics and Shengquan Group also slid."
+    },
+    {
+      "id": "mkt:019e9571-867a-7cc8-bdf1-f1ae0d797b6d",
+      "time": "2026-06-05 09:41:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Windward says Iran's Kharg Island resumes crude loading】UK-based maritime analytics firm Windward said satellite images show Iran's Kharg Island has resumed crude loading. Images from June 2 show a VLCC berthed near the west offshore terminal — the first confirmed docking since the facility halted operations in early May after a suspected oil leak. On June 3 a VLCC at the west berth and a Panamax at the east T-shaped jetty were simultaneously loading; by June 4 the VLCC had completed loading and departed while the Panamax remained alongside. Windward said dual-terminal activity suggests Iran is actively restoring export capacity. The firm also reported sustained high activity by the Islamic Revolutionary Guard Corps (IRGC) small fast boats across the Strait of Hormuz, indicating continued elevated readiness to support Iranian-linked shipping."
+    },
+    {
+      "id": "4918455",
+      "time": "2026-06-05 09:41:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭板塊區域性走強 大有能源5連板】煤炭板塊區域性走強，大有能源5連板，安泰集團2連板，廣匯能源、寶泰隆、平煤股份跟漲。"
+    },
     {
       "id": "4918452",
       "time": "2026-06-05 09:40:39",
@@ -174836,98 +174961,6 @@
         "MKT News"
       ],
       "text": "【Sources: SpaceX lowers IPO target to at least $1.8 trillion】Sources say Elon Musk’s SpaceX is seeking an IPO valuation of at least $1.8 trillion, down from earlier reports of $2.0 trillion after consultations with advisers and investors. The company could begin its roadshow as soon as June 4 and price as early as June 11, though the timetable, deal size and valuation remain subject to investor feedback and may shift; SpaceX could raise its target during the roadshow. Prospectus shows 2025 revenue of $18.7 billion (2024: $14.0 billion) and a swing from a $791 million profit in 2024 to a $4.94 billion loss in 2025. In February SpaceX announced acquisition of XAI; that deal had implied about a $1.0 trillion valuation for SpaceX and $250 billion for XAI."
-    },
-    {
-      "id": "4905878",
-      "time": "2026-05-29 09:45:35",
-      "tags": [
-        "公司",
-        "原創"
-      ],
-      "text": "【鴻海董事長稱對人工智慧帶來的增長勢頭“充滿信心”】鴻海集團董事長劉揚偉週五表示，由於人工智慧需求激增，他對公司的增長勢頭“充滿信心”。作為英偉達最大的伺服器製造商和蘋果 最大的iPhone組裝商，該公司本月報告稱，受全球對AI產品需求強勁的推動，其第一季度利潤較去年同期增長19%，超出市場預期。劉揚偉在年度股東大會上表示，人工智慧依然備受追捧，今年各大雲服務提供商的資本支出已超過7,000億美元。“他們的資本支出就是我們的市場。這一數字已達7,000億美元，預計明年可能達到1萬億美元。這讓我們對未來的增長勢頭充滿信心，”他說。"
-    },
-    {
-      "id": "mkt:019e7167-fbb7-7ee0-99e0-5114a16d7e5b",
-      "time": "2026-05-29 09:44:58",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share coal sector extended gains; Huadian Energy and Heduan Intelligent hit daily trading limits, while Linzhou Heavy Machinery, Antai Group and Shanghai Energy also advanced."
-    },
-    {
-      "id": "4905877",
-      "time": "2026-05-29 09:44:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1%至8,679點。"
-    },
-    {
-      "id": "mkt:019e7167-6d22-7ee0-99e0-4c4fbde8bbbc",
-      "time": "2026-05-29 09:44:21",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "China A-share department-store and retail sector briefly rallied; Central Department Store hit the daily limit. Bubugao, Ningbo Zhongbai, Zhongbai Group, Yonghui Superstores and Hongqi Chain all advanced."
-    },
-    {
-      "id": "4905876",
-      "time": "2026-05-29 09:44:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【短劇概念盤初活躍 引力傳媒漲停】早盤短劇概念活躍，引力傳媒漲停，歡瑞世紀、天地線上、百納千成、元隆雅圖等跟漲。"
-    },
-    {
-      "id": "4905875",
-      "time": "2026-05-29 09:43:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【周海兵會見德國聯邦經濟和能源部部長賴歇】5月27日上午，國家發展改革委副主任周海兵在委內會見德國聯邦經濟和能源部部長賴歇。雙方就“十五五”規劃、中德宏觀經濟形勢、中德氣候變化及綠色轉型對話機制、中德中歐經濟關係等議題進行了交流。周海兵表示，“十五五”時期，中方將繼續深入推進高質量發展，堅定不移擴大高水平對外開放，加快經濟社會發展全面綠色轉型。中方願同德方堅持把握開放合作正確方向，不斷把共同利益蛋糕做大做強，攜手推動兩國務實合作邁上新臺階。中方歡迎和鼓勵德國企業繼續深耕中國市場，持續擴大對華合作，提升合作水平，共享中國發展的紅利。"
-    },
-    {
-      "id": "mkt:019e7166-54a0-7ee0-99e0-4687e2a117ff",
-      "time": "2026-05-29 09:43:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "EURUSD"
-      ],
-      "text": "【Zhou Haibing meets Germany's Federal Minister for Economic Affairs and Energy Lai Xie】On May 27 National Development and Reform Commission vice‑chair Zhou Haibing met with Germany's Federal Minister for Economic Affairs and Energy Lai Xie. They discussed China’s 15th Five‑Year Plan, Sino‑German macroeconomic trends, a China‑Germany climate and green‑transition dialogue mechanism, and China‑EU economic ties. Zhou said that during the 15th Five‑Year Plan period China will continue to pursue high‑quality development, steadfastly expand high‑level opening‑up and accelerate a comprehensive green transition, and welcomed German firms to deepen their presence in China, expand cooperation and share in China’s growth dividends."
-    },
-    {
-      "id": "mkt:019e7165-b75b-7ee0-99e0-3b76c69cd396",
-      "time": "2026-05-29 09:42:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's April private-sector lending data not yet released."
-    },
-    {
-      "id": "4905874",
-      "time": "2026-05-29 09:42:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【網路安全公司SentinelOne將裁員約8%，加大對AI等領域投資】網路安全公司SentinelOne當地時間5月28日宣佈將裁員約8%，以加大對人工智慧、資料和雲端計算等增長領域的投資。"
-    },
-    {
-      "id": "4905873",
-      "time": "2026-05-29 09:42:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊繼續走強 深南電A等漲停】電力板塊繼續走強，深南電A、華電能源、粵電力A漲停，湖南發展、浙江新能、華電遼能、晉控電力等漲幅居前。"
     }
   ]
 }
