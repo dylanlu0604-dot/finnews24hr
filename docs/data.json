@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-05 16:53:06",
-  "count": 18819,
+  "updated": "2026-06-05 16:56:56",
+  "count": 18810,
   "items": [
+    {
+      "id": "mkt:019e96ff-5ff9-711f-98aa-be164c9d5dbf",
+      "time": "2026-06-05 16:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SFC and HKMA publish joint consultation summary on amending Clearing Rules for OTC derivatives trading】The SFC and HKMA published a joint consultation summary on proposed amendments to OTC derivatives trading requirements under the Clearing Rules. Citing broad market support, both agencies will commence the legislative process to introduce the proposed changes and plan to implement them from March 1, 2027, the proposed start date for the new calculation period."
+    },
+    {
+      "id": "4919225",
+      "time": "2026-06-05 16:55:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty金屬指數下跌2%。"
+    },
+    {
+      "id": "mkt:019e96fe-b3ef-711f-98aa-b2b5b473cc25",
+      "time": "2026-06-05 16:55:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty Metal index fell 2%."
+    },
+    {
+      "id": "4919224",
+      "time": "2026-06-05 16:55:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達Vera Rubin NVL72被曝“降級”，SOCAMM記憶體容量可能腰斬】據報道，SemiAnalysis最新報告稱，英偉達正在對其下一代Vera Rubin NVL72機架系統的記憶體配置進行調整，Vera CPU原本192GB SOCAMM方案，或將“砍半”至96GB。"
+    },
+    {
+      "id": "4919223",
+      "time": "2026-06-05 16:55:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會核准7家機構合格境外投資者資格】證監會公佈合格境外投資者名錄。2026年5月，證監會核准嘉玉控股有限責任公司、哈菲特資本有限公司、世通金融私人有限公司、凱希投資有限責任公司、怡創全球資產管理私人有限公司、富地財富管理（香港）有限公司和博致集團有限公司合格境外投資者資格。"
+    },
+    {
+      "id": "4919222",
+      "time": "2026-06-05 16:54:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：在康斯坦察港發生爆炸後，羅馬尼亞海岸又發現了三架海上無人機。"
+    },
+    {
+      "id": "4919221",
+      "time": "2026-06-05 16:54:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士DRAM中長期擴產計劃曝光】據報道，SK海力士已向主要合作企業分享了其在2030年至2031年間將DRAM晶圓產能擴大至目前兩倍水平的中長期擴產計劃。值得注意的是，這一計劃的籌備時間早於英偉達CEO黃仁勳在COMPUTEX展會現場寫下“請多生產（Please make more）”的舉動。報道稱，約兩個月前，SK海力士的採購部門及龍仁半導體叢集負責人已開始向核心供應商通報這項基於晶圓投入量的產能擴張規劃。該計劃的核心目標是：將目前每月約55萬張的DRAM月產能，提升至2030年的100萬張左右。"
+    },
+    {
+      "id": "4919220",
+      "time": "2026-06-05 16:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安泰科：5月銻市場冷淡，價格偏弱執行】據安泰科銻品報價顯示，國內銻錠（99.65%）價格在5月初為158000-161000元/噸，5月末下降至145000-149000元/噸。海外銻價同樣下調，國際銻錠（99.65%）價格在5月初為26500-27300美元/噸，5月末下降到26000-26500美元/噸。5月國內銻價整體呈現加速下行態勢，主因是國內需求持續偏弱。據市場人士反饋，本月國內成交冷淡情況超出預期，詢單量稀少，下游阻燃劑及光伏玻璃兩大核心領域採購意願低迷，導致上游庫存逐漸積累，市場壓力不斷加大。供應端方面，上游冶煉廠挺價情緒明顯減弱。"
+    },
+    {
+      "id": "mkt:019e96fd-8f1c-711f-98aa-aa30f13d594c",
+      "time": "2026-06-05 16:54:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian outlet Digi24, citing sources, reported that three maritime drones were found off the Romanian coast following an explosion at the Port of Constanta."
+    },
+    {
+      "id": "4919219",
+      "time": "2026-06-05 16:54:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科興牽頭共建“前沿技術與新型疫苗藥物北京市重點實驗室”】近日，北京市科學技術委員會、中關村科技園區管理委員會公佈2026年北京市重點實驗室認定名單。由科興牽頭，中國科學院生物物理研究所、中國科學院過程工程研究所共建的“前沿技術與新型疫苗藥物北京市重點實驗室”透過認定。該實驗室聚焦新發突發傳染病防控關鍵核心技術，重點圍繞新型抗原的AI輔助設計與研發、新型疫苗佐劑與遞送系統開發、新發突發傳染病疫苗研製與產業化三個方向，構建“AI驅動技術攻關+快速響應+產業轉化”的全鏈條創新體系。"
+    },
+    {
+      "id": "4919218",
+      "time": "2026-06-05 16:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯泰蘭蒂斯集團：擴大地熱能的應用，將其作為工業供暖與製冷的低碳解決方案。"
+    },
+    {
+      "id": "mkt:019e96fc-acf7-711f-98aa-a2575415fb1b",
+      "time": "2026-06-05 16:53:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Senate passed a bill to fund immigrant deportation operations through 2029 and sent it to the House for consideration."
+    },
+    {
+      "id": "4919217",
+      "time": "2026-06-05 16:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯泰蘭蒂斯(STLA.N)：正在歐洲擴大脫碳能源佈局，太陽能裝置已覆蓋三分之二的製造工廠。計劃在20個廠區部署電池儲能系統，其中7座工廠預計將於2026年前投入運營。"
+    },
+    {
+      "id": "4919216",
+      "time": "2026-06-05 16:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院透過了將移民驅逐出境撥款延續至2029年的法案，已提交眾議院審議。"
+    },
     {
       "id": "mkt:019e96fb-c67b-711f-98aa-982df97f5f69",
       "time": "2026-06-05 16:52:23",
@@ -173199,203 +173314,6 @@
         "市場"
       ],
       "text": "【博士眼鏡：“博士轉債”轉股價格調整為21.54元/股】博士眼鏡公告稱，公司向不特定物件發行可轉換公司債券37500.00萬元，期限6年，已於2026年4月7日在深交所掛牌交易。根據相關規定，“博士轉債”轉股價格由30.43元/股調整為21.54元/股，自2026年5月29日生效。本次轉股價格調整符合約定，未對公司日常經營及償債能力構成影響。"
-    },
-    {
-      "id": "4906739",
-      "time": "2026-05-29 16:56:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【眾鑫股份：加拿大“雙反”終裁 對業績無重大不利影響】眾鑫股份公告稱，2026年5月28日（加拿大時間），加拿大調查機關對原產自中國的熱成型模製纖維餐具作出“雙反”終裁，公司及子公司廣西華寶反補貼稅率分別為9.9%和5.7%，反傾銷稅率分別為111.0%和120.5%。2024年10月1日至2025年9月20日，公司及子公司出口加拿大該類餐具銷售額1.09億元，涉案產品銷售額0.55億元。泰國工廠有產能且具備供貨能力，“雙反”不會對業績產生重大不利影響，但影響國內產能利用率。公司將最佳化佈局、篩選市場應對。"
-    },
-    {
-      "id": "4906738",
-      "time": "2026-05-29 16:56:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST熊貓：公司股票於6月1日進入退市整理期交易】*ST熊貓公告稱，公司於2026年5月22日收到上交所終止其股票上市的決定，股票於6月1日進入退市整理期交易，預計最後交易日期為6月22日。退市整理期為15個交易日，首個交易日無價格漲跌幅限制，此後每日漲跌幅限制為10%。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間，公司將不籌劃或實施重大資產重組事宜。公司提醒投資者及時了結相關業務，注意投資風險。"
-    },
-    {
-      "id": "4906737",
-      "time": "2026-05-29 16:56:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利元亨：鋰電池產業化專案預定可使用狀態時間延至2026年8月】利元亨公告稱，公司於2026年5月29日召開董事會，審議透過將可轉換公司債券募集資金投資專案“鋰電池前中段專機及整線成套裝備產業化專案”達到預定可使用狀態時間，由2026年5月延長至2026年8月。截至公告披露日，專案地上主體建築施工及外牆外立面裝修已完成，廠房內部精裝等工程在持續開展，暫未完全具備可使用狀態的全部條件。本次延期未改變募投內容等，不影響正常經營，符合公司長期規劃。"
-    },
-    {
-      "id": "4906736",
-      "time": "2026-05-29 16:56:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電建：2026年1-4月新籤合同額3707.74億元 同比降4.07%】中國電建公告稱，2026年1月至4月，公司新籤專案2726個，新籤合同金額3707.74億元，同比下降4.07%。其中，能源電力業務新籤合同額2461.61億元，同比增長7.71%；水資源與環境業務新籤合同額356.32億元，同比下降33.35%；城市建設與基礎設施業務新籤合同額779.72億元，同比下降19.81%；其他業務新籤合同額110.09億元，同比增長51.75%。"
-    },
-    {
-      "id": "4906735",
-      "time": "2026-05-29 16:56:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：印度石油公司從西非、中東購入500萬桶原油】貿易訊息人士週五透露，印度國有煉油企業印度石油公司本週透過招標，採購了500萬桶來自西非及中東地區的原油。訊息稱，該公司購入安哥拉基桑傑與內姆巴原油，將運往帕拉迪普煉油廠。印度石油公司還從埃克森美孚採購奈及利亞烏桑原油、從摩科瑞採購阿聯酋阿布扎比穆爾班原油，這批油品將發往瓦迪納爾煉油廠。此外，該公司亦從道達爾能源旗下貿易子公司道達爾貿易購入穆爾班原油，運往金奈煉油廠。訊息補充，這批西非原油較即期布倫特原油現貨溢價約每桶4美元；穆爾班原油價格則與即期布倫特原油持平，或小幅溢價。"
-    },
-    {
-      "id": "mkt:019e72f2-dce1-7112-aebc-4ae55ffc8349",
-      "time": "2026-05-29 16:56:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The South Korean won fell more than 1% against the US dollar intraday."
-    },
-    {
-      "id": "4906734",
-      "time": "2026-05-29 16:56:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元跌1%。"
-    },
-    {
-      "id": "mkt:019e72f2-8812-7112-aebc-43536f685b1e",
-      "time": "2026-05-29 16:55:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CSRC approved Jiangsu Zhanchip Semiconductor Technology Co., Ltd.'s registration for an initial public offering and listing on the ChiNext board."
-    },
-    {
-      "id": "4906733",
-      "time": "2026-05-29 16:55:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬凱新材：已收購浙江耀瑞興新材料有限公司100%股權】萬凱新材公告，公司已於2026年4月25日召開第三屆董事會第二次會議、2026年5月19日召開2025年年度股東會，審議透過了《關於收購浙江耀瑞興新材料有限公司100%股權暨關聯交易的議案》。同意公司以自有資金收購關聯方浙江正凱集團有限公司持有的浙江耀瑞興新材料有限公司100%股權。近期，耀瑞興已完成本次收購的工商變更登記手續，並取得了由海寧市市場監督管理局換髮的營業執照。經交易雙方確認，本次股權收購事宜所約定的交割條件均已滿足，本次交易已完成交割，耀瑞興成為公司的全資子公司。"
-    },
-    {
-      "id": "4906732",
-      "time": "2026-05-29 16:55:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普瑞眼科：控股股東質押190萬股用於融資】普瑞眼科公告稱，近日控股股東普瑞投資將190萬股（佔其所持股份比例3.54%，佔公司總股本比例1.27%）質押給杭州銀行股份有限公司上海分行，質押起始日為2026年5月28日，到期日為辦理解除質押手續止，質押用途為融資。截至公告披露日，控股股東及其一致行動人累計質押股份3415.4萬股，佔其所持股份比例43.33%，佔公司總股本比例22.83%。目前控股股東及其一致行動人資信良好，質押股份無平倉風險，不會致公司實控權變更，對公司經營無重大影響。"
-    },
-    {
-      "id": "mkt:019e72f2-3a3c-7112-aebc-38d47c169d9d",
-      "time": "2026-05-29 16:55:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Foreign institutions: Chinese market draws global capital on resilience and dynamism】CSRC data show foreign capital has continued flowing into A-shares YTD; foreign-held A-share free-float market value exceeds CNY4 trillion. At the Shenzhen Stock Exchange Global Investors Conference (May 28-29), foreign fund managers pointed to stable macro policy, China’s large market scale and strong innovation momentum, and reform measures that are improving the capital-market ecosystem and creating allocation opportunities. UBS’s head of China, Global Financial Markets, Fang Dongming, said that amid geopolitical uncertainty Chinese equities, bonds and RMB assets have traded resiliently and serve as an important safe haven for global capital."
-    },
-    {
-      "id": "te:economy:554893",
-      "time": "2026-05-29 16:55:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kenya",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Kenya Inflation Rate Hits Near 2-1/2-Year High — The annual inflation rate in Kenya quickened further to 6.7% in May 2026, the highest since January 2024, from 5.6% in the prior month. Inflation was driven by higher prices in transport (16.5% vs 10% in April), food and non-alcoholic beverages (9.4% vs 8.8%) and housing, water, electricity, gas and other fuels (3.4% vs 2.4%). Kenya raised fuel prices in April and May, as global energy costs surged following the US-Israel conflict with Iran."
-    },
-    {
-      "id": "4906731",
-      "time": "2026-05-29 16:55:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博遷新材：股東申揚投資減持261.6萬股 佔總股本1%】博遷新材公告稱，2026年5月25日至28日，股東寧波申揚創業投資合夥企業（有限合夥）透過集中競價和大宗交易方式減持公司股份261.6萬股，佔公司股份總數的1.00%。本次權益變動後，資訊披露義務人廣弘元和申揚投資合計持有公司無限售條件流通股總數為6540萬股，佔公司總股本的25.00%。本次權益變動不會導致公司控股股東、實際控制人發生變化，也不存在損害上市公司及其他股東利益的情形。截至報告書籤署日，申揚投資尚未實施完成減持計劃，未來12個月暫無明確增減持計劃。"
-    },
-    {
-      "id": "4906730",
-      "time": "2026-05-29 16:55:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海汽配：選舉董事長並聘任多名高管】上海汽配公告稱，公司於2026年5月29日召開第四屆董事會第一次會議，選舉張朝暉為董事長，張朝暉、ANG HOCK GUAN（洪福源）等分別任董事會各專門委員會委員。同時，聘任王遊沼為總經理，戴明、徐雯為副總經理，高明為財務總監，李改任董事會秘書，任期均至第四屆董事會任期屆滿。"
-    },
-    {
-      "id": "4906729",
-      "time": "2026-05-29 16:55:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀河電子：收到江蘇證監局警示函】銀河電子公告，公司及相關人員收到江蘇證監局警示函。警示函指出，銀河電子全資子公司合肥同智機電控制技術有限公司、同智機電原法定代表人張紅犯單位行賄罪，反映出公司在規範運作、內部控制等方面存在缺陷。同時，公司相關年度的內部控制自我評價報告也未指出上述內部控制缺陷，相關資訊披露不準確。銀河電子的上述行為違反了《上市公司資訊披露管理辦法》和《企業內部控制基本規範》等規定，張紅繫上述違規行為的主要責任人。"
-    },
-    {
-      "id": "4906728",
-      "time": "2026-05-29 16:55:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方盛虹：控股股東及一致行動人擬增持9.8-19.6億元， 持股比例升至69.03%】東方盛虹公告，自2026年4月17日起6個月內，控股股東江蘇盛虹科技及一致行動人盛虹蘇州擬以集中競價、大宗交易方式增持公司A股，合計金額不低於人民幣9.8億元且不超過人民幣19.6億元。截至2026年5月28日，增持已完成6361.57萬股，佔公司總股本0.96%。本次增持後，盛虹科技及其一致行動人合計持股45.64億股，佔公司總股本69.03%，權益變動觸及1%整數倍。"
-    },
-    {
-      "id": "4906727",
-      "time": "2026-05-29 16:54:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所：渣打銀行5月28日在其他交易所以1470萬英鎊回購總計75萬股。"
-    },
-    {
-      "id": "4906726",
-      "time": "2026-05-29 16:54:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京山區防洪減災“一張圖”上線 1223個險村納入智慧預警系統】近日，北京市山區防洪減災“一張圖”系統上線試執行，並開通京辦、京通App及PC端多渠道入口，面向市、區、鄉鎮、村四級使用者提供扁平化山洪監測預報預警服務，全面提升基層洪澇風險研判與應急處置能力。山區防洪減災“一張圖”立足跨區域聯動響應、跨部門資訊共享、完善人員避險轉移預案等，建立了覆蓋北京全市1223個山洪險村、93個鄉鎮、352條山洪溝道、35條河道及80座水庫的“一張圖”，貫通市、區、鎮、村四級監測預報預警體系，實現“預警到村、責任到人、轉移有據”。（央視新聞）"
-    },
-    {
-      "id": "4906725",
-      "time": "2026-05-29 16:54:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：國際香精香料公司擬以 40 億美元向 CVC 資本出售食品配料業務，交易已進入收尾階段。國際香精香料公司或於近日宣佈達成交易。"
-    },
-    {
-      "id": "mkt:019e72f1-2b89-7112-aebc-31bc11abbb5a",
-      "time": "2026-05-29 16:54:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vanke: 2026 to focus on risk resolution and development】At its May 29, 2025 annual shareholders' meeting, Vanke said it still faces significant challenges: operating performance has not materially improved and debt and liquidity remain under pressure. For 2026 the company will prioritize risk resolution and development, advancing three measures: continue reform-driven risk mitigation; tighten operations to ensure full-year housing deliveries, systematically review and monetize existing assets, focus on key cities and core businesses and orderly exit non-core investments; and strengthen controls while further optimizing corporate governance."
-    },
-    {
-      "id": "4906724",
-      "time": "2026-05-29 16:53:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長春高新：甲磺酸亮丙瑞林注射液（6M）上市申請獲得受理】長春高新公告，近日，控股子公司金賽藥業收到國家藥品監督管理局核准簽發的《受理通知書》，甲磺酸亮丙瑞林注射液（6M）境外生產藥品註冊上市許可申請獲得受理。該藥品為一種促性腺激素釋放激素激動劑（GnRHa）長效製劑，適應症為乳腺癌。此次申報上市是基於一項在中國絕經前乳腺癌患者中開展的關鍵臨床研究（GenSci093-301），主要終點為給藥後第4周至第48週期間血清雌二醇（E2）維持在絕經後水平的患者比例。研究結果表明，甲磺酸亮丙瑞林注射液（6M）對比抑那通®11.25mg（3M）在抑制E2至絕經水平方面效果相當。在實現相同治療療效的前提下，6M製劑將給藥間隔從12周延長至24周，顯著減少患者注射頻率，提高治療依從性，展現出明確的臨床優勢。"
-    },
-    {
-      "id": "4906723",
-      "time": "2026-05-29 16:53:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福萊蒽特：擬設立全資子公司杭州寰卓數字科技有限公司，認繳出資總額為人民幣3億元】福萊蒽特公告，公司擬設立全資子公司杭州寰卓數字科技有限公司，認繳出資總額為人民幣3億元，公司擬使用自有資金認繳出資人民幣3億元，佔杭州寰卓認繳出資比例的100%。本次投資設立全資子公司符合公司戰略規劃及經營發展的需要，對公司長遠發展和公司效益將產生積極影響。"
-    },
-    {
-      "id": "4906722",
-      "time": "2026-05-29 16:53:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬科：2026年聚焦化險與發展兩大任務全力行動】萬科5月29日舉行2025年度股東會。會上，萬科管理層表示，目前萬科面臨的困難仍然很大，經營層面尚未有實質性改善，債務和流動性依然承壓。2026年將繼續聚焦化險與發展兩大任務，從三個方面推進相關工作：一是持續做好改革化險工作；二是狠抓經營，堅決完成全年住房交付任務，系統性梳理與盤活存量資源，聚焦重點城市與主營業務，有序退出非主業投資；三是強化管控，持續最佳化公司治理體系。"
     }
   ]
 }
