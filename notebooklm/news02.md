@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 06:41:02_
-_本檔包含 3842 則快訊，約 700085 字_
+_更新時間：2026-06-06 07:11:14_
+_本檔包含 3849 則快訊，約 700199 字_
+
+---
+
+### 2026-06-04 22:56:44  #國際
+
+市場訊息：無人機襲擊聖彼得堡未影響普京日程。
+
+---
+
+### 2026-06-04 22:55:10  #MKT News #Important #Market Themes #AI Revolution
+
+Financial Times reports Goldman Sachs expects SpaceX's AI-related revenue to grow 100-fold by 2030.
+
+---
+
+### 2026-06-04 22:54:54  #MKT News #Important #Commodities #Industrial Metals
+
+SHFE tin 2607 fell 2.99% intraday to 428,230 yuan/ton; turnover about CNY 39.94 bln and open interest rose nearly 1,600 contracts, with heightened intraday volatility.
+
+---
+
+### 2026-06-04 22:54:22  #公司 #觀點
+
+高盛預計，到2030年太空探索技術公司（SpaceX）的人工智慧收入將激增100倍。
+
+---
+
+### 2026-06-04 22:51:11  #MKT News #Market Themes #The Trump Trade
+
+U.S. Treasury Secretary Bessent said Trump's investment manager has decision-making authority over trades.
+
+---
+
+### 2026-06-04 22:50:27  #MKT News
+
+U.S. Treasury Secretary Bessent said Trump’s investments are managed entirely by third parties.
+
+---
+
+### 2026-06-04 22:49:57  #國際
+
+貝森特：特朗普的投資經理對交易擁有決定權。
+
+---
+
+### 2026-06-04 22:49:10  #國際
+
+貝森特：特朗普的投資完全由第三方管理。
+
+---
+
+### 2026-06-04 22:49:01  #其他
+
+克拉肯交易所官網宣告：已獲悉 Arbitrum 網路上USDC存取款出現延遲問題。
+
+---
+
+### 2026-06-04 22:48:01  #其他 #國際
+
+【世衛組織說不安全食品每年導致超8億人患病】世界衛生組織4日釋出的2026年版食源性疾病估計資料顯示，不安全食品每年導致全球約8.66億人患病和150萬人死亡，5歲以下兒童因不安全食品患病的風險是年齡較大兒童和成人的約3倍。（央視新聞）
+
+---
+
+### 2026-06-04 22:47:25  #公司
+
+【全球最大直驅型漂浮式海上風電機組示範工程建設正式啟動】6月4日，由中國華能集團有限公司牽頭建設的全球單機容量最大的17兆瓦直驅型漂浮式海上風電機組“睿風號”示範工程在廣東陽江正式啟動，標誌著我國在深遠海風電核心技術攻關與工程化應用上邁出關鍵一步。啟動會上，同步簽訂了華能海上風電原創技術策源地廣東示範基地戰略合作伙伴多方合作協議，併為“華能海上風電原創技術策源地廣東示範基地”與“海上風電規劃設計與智慧運維廣東省工程研究中心（籌）”揭牌，釋出了中國華能海上風電原創技術策源地工作成果及廣東示範基地工作計劃。
+
+---
+
+### 2026-06-04 22:47:09  #國際
+
+市場訊息：美國賓夕法尼亞州公共事業委員會批准了PPL費率案件和解協議。
+
+---
+
+### 2026-06-04 22:46:18  #國際
+
+【駐泰國使館發言人：泰緬兩國正在籌建應對河流汙染的聯合工作組，準備開展聯合調查】中國駐泰國大使館發言人答記者問。問：據媒體報道，近日泰北一些團體圍繞湄公河支流汙染問題開展系列活動，並公開發聲請中方參與有關活動，請問中方對此有何回應？答：我們注意到了相關報道。有關水域是泰緬跨境河流，據瞭解，泰緬兩國正在籌建應對河流汙染的聯合工作組，準備開展聯合調查，相信會有科學的、負責任的結果。保護湄公河生態環境是湄公河流域各國的共同責任，中國政府一貫高度重視生態環境保護，不僅在國內堅持綠色發展，也要求“走出去”的中國企業高度重視環保和合規，絕不以犧牲當地環境為代價換取經濟利益，任何違規操作都將依法依規嚴肅處理。中國駐泰國大使張建衛剛剛結束對清萊的訪問，其間就中泰合作及雙方關心的問題同有關方面交換意見，中國駐泰使館、駐清邁總領館將會繼續同泰北方面加強溝通交流，促進務實合作。
+
+---
+
+### 2026-06-04 22:45:43  #公司
+
+【中國能建葛洲壩集團與西藏開投集團深化合作】6月4日，中國能建葛洲壩集團黨委書記、董事長譚華在拉薩與西藏開發投資集團有限公司黨委書記、董事長祁騰武座談，就深化水利水電、抽水蓄能、風光新能源、科技創新、人才交流等領域戰略合作，加快推動重點專案落地深入交流，並達成廣泛共識。
+
+---
+
+### 2026-06-04 22:45:01  #其他
+
+靛藍航空（IndiGo）：受影響航線自 2026 年 10 月 1 日起恢復售票。
+
+---
+
+### 2026-06-04 22:44:06  #市場
+
+LIQUIDIA股價迅速上漲至18%，創歷史新高。
+
+---
+
+### 2026-06-04 22:42:08  #央行 #其他
+
+捷克央行董事會成員：本月我們將在維持利率不變與加息之間做抉擇，我目前暫不公開明確觀點。
+
+---
+
+### 2026-06-04 22:41:09  #央行 #國際
+
+【里士滿聯儲行長：未觀察到美國勞動力市場再度出現用工緊張】里士滿聯儲行長湯姆·巴爾金表示，美國勞動力市場目前顯現出平衡狀態，沒有觀察到整體用工需求出現增長。“我沒有看到就業市場出現任何變化。”巴爾金在弗吉尼亞州勞登縣出席一場演講活動後對記者表示。他指出，技術工種和醫療保健領域表現出需求上升的跡象，但總體而言，就業市場並不緊張他表示，在僱主中，“我沒有看到我稱之為泡沫、緊張的這類擔憂”。
 
 ---
 
@@ -23071,71 +23179,5 @@ US May ADP private payrolls +122k vs +117k expected; April +109k.
 ### 2026-06-03 20:15:00  #MKT News #Economic Calendar #Important
 
 United States | ADP Employment Change (May) | actual 122000K | consensus 117000K | previous 109000K
-
----
-
-### 2026-06-03 20:14:13  #市場 #國際
-
-【美國前眾議員異常押注被Kalshi舉報】知情人士訊息稱，預測市場運營商Kalshi在監測到異常交易行為後，已向前美國司法部舉報前聯邦眾議員喬治・桑托斯。報道稱，桑托斯此前多次表態將出席2月24日特朗普總統的國情諮文演講，卻反向下注押注自己不會到場。報道補充，卡爾希同時已將該筆異常交易上報美國聯邦監管機構 —— 商品期貨交易委員會（CFTC）。
-
----
-
-### 2026-06-03 20:11:59  #宏觀 #國際
-
-【歐盟提出一系列措施，試圖減少對美國技術基礎設施的依賴】歐盟正在提出一系列措施，旨在增強自身的技術能力，減少對來自美國等其他國家的科技巨頭的依賴。歐盟委員會提出了一個所謂的“技術主權”方案，其中包含一系列針對各類技術基礎設施的政策，涵蓋從半導體到雲服務、資料中心以及人工智慧等多個領域。這些提案需要由歐洲議會和歐盟理事會進行協商後才能獲得批准。在這一提案出臺之際，歐盟官員對歐盟在關鍵技術方面的依賴狀況表示了擔憂，這些技術對於驅動裝置、保障重要基礎設施執行以及儲存敏感資料至關重要，而這些技術正越來越多地依賴於非歐盟企業。
-
----
-
-### 2026-06-03 20:11:46  #國際
-
-Kalshi 預測交易所就喬治・桑托斯在預測市場的投注行為向美國檢方提起舉報。
-
----
-
-### 2026-06-03 20:11:38  #公司 #市場 #觀點
-
-摩根士丹利將百勝餐飲集團股票評級上調至“增持”後，其盤前股價上漲約2%。
-
----
-
-### 2026-06-03 20:11:32  #MKT News #Market Themes #Chip Wars #AI Revolution #The Trump Trade #DXY #Impact bullish #EURUSD #Impact bearish #DAX
-
-【EU proposes "tech sovereignty" package to cut reliance on US tech infrastructure】The European Commission has proposed a "tech sovereignty" package to bolster EU tech capabilities and reduce dependence on non-EU tech giants, covering semiconductors, cloud services, data centers and artificial intelligence. The measures require negotiation and approval by the European Parliament and EU Council. EU officials warned that critical technologies for devices, infrastructure operation and sensitive data storage are increasingly reliant on non-EU firms, and said renewed US-EU tariff and geopolitical tensions during a second Trump term have intensified the urgency for greater independence.
-
----
-
-### 2026-06-03 20:11:20  #其他
-
-蘋果開發者中心落地擴建柏林站點。
-
----
-
-### 2026-06-03 20:10:35  #其他
-
-Gopuff與CO和SpaceX AI宣佈推出由生成式人工智慧驅動的個人購物服務，可在數分鐘內完成訂單預測並配送。
-
----
-
-### 2026-06-03 20:10:29  #MKT News
-
-U.S. European Command says European allies and Canada can bolster support by deploying manned and unmanned aircraft and providing naval vessels.
-
----
-
-### 2026-06-03 20:10:15  #MKT News
-
-U.S. European Command said the adjustment will make NATO defense plans "more realistic" and ensure they are not overly reliant on U.S. forces.
-
----
-
-### 2026-06-03 20:10:09  #國際
-
-美軍高層表示，歐洲盟友及加拿大可增派有人駕駛航空器、無人機與海軍艦艇參與行動。
-
----
-
-### 2026-06-03 20:09:15  #MKT News #Market Regions #Europe & UK #MSFT.O #Impact bearish #AMZN.O #GOOGL.O
-
-EU technology chief says the EU cloud computing plan is likely to exclude large tech companies from key public procurement tenders.
 
 ---

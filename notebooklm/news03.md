@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 06:41:02_
-_本檔包含 3988 則快訊，約 700193 字_
+_更新時間：2026-06-06 07:11:14_
+_本檔包含 3986 則快訊，約 700111 字_
+
+---
+
+### 2026-06-03 20:14:13  #市場 #國際
+
+【美國前眾議員異常押注被Kalshi舉報】知情人士訊息稱，預測市場運營商Kalshi在監測到異常交易行為後，已向前美國司法部舉報前聯邦眾議員喬治・桑托斯。報道稱，桑托斯此前多次表態將出席2月24日特朗普總統的國情諮文演講，卻反向下注押注自己不會到場。報道補充，卡爾希同時已將該筆異常交易上報美國聯邦監管機構 —— 商品期貨交易委員會（CFTC）。
+
+---
+
+### 2026-06-03 20:11:59  #宏觀 #國際
+
+【歐盟提出一系列措施，試圖減少對美國技術基礎設施的依賴】歐盟正在提出一系列措施，旨在增強自身的技術能力，減少對來自美國等其他國家的科技巨頭的依賴。歐盟委員會提出了一個所謂的“技術主權”方案，其中包含一系列針對各類技術基礎設施的政策，涵蓋從半導體到雲服務、資料中心以及人工智慧等多個領域。這些提案需要由歐洲議會和歐盟理事會進行協商後才能獲得批准。在這一提案出臺之際，歐盟官員對歐盟在關鍵技術方面的依賴狀況表示了擔憂，這些技術對於驅動裝置、保障重要基礎設施執行以及儲存敏感資料至關重要，而這些技術正越來越多地依賴於非歐盟企業。
+
+---
+
+### 2026-06-03 20:11:46  #國際
+
+Kalshi 預測交易所就喬治・桑托斯在預測市場的投注行為向美國檢方提起舉報。
+
+---
+
+### 2026-06-03 20:11:38  #公司 #市場 #觀點
+
+摩根士丹利將百勝餐飲集團股票評級上調至“增持”後，其盤前股價上漲約2%。
+
+---
+
+### 2026-06-03 20:11:32  #MKT News #Market Themes #Chip Wars #AI Revolution #The Trump Trade #DXY #Impact bullish #EURUSD #Impact bearish #DAX
+
+【EU proposes "tech sovereignty" package to cut reliance on US tech infrastructure】The European Commission has proposed a "tech sovereignty" package to bolster EU tech capabilities and reduce dependence on non-EU tech giants, covering semiconductors, cloud services, data centers and artificial intelligence. The measures require negotiation and approval by the European Parliament and EU Council. EU officials warned that critical technologies for devices, infrastructure operation and sensitive data storage are increasingly reliant on non-EU firms, and said renewed US-EU tariff and geopolitical tensions during a second Trump term have intensified the urgency for greater independence.
+
+---
+
+### 2026-06-03 20:11:20  #其他
+
+蘋果開發者中心落地擴建柏林站點。
+
+---
+
+### 2026-06-03 20:10:35  #其他
+
+Gopuff與CO和SpaceX AI宣佈推出由生成式人工智慧驅動的個人購物服務，可在數分鐘內完成訂單預測並配送。
+
+---
+
+### 2026-06-03 20:10:29  #MKT News
+
+U.S. European Command says European allies and Canada can bolster support by deploying manned and unmanned aircraft and providing naval vessels.
+
+---
+
+### 2026-06-03 20:10:15  #MKT News
+
+U.S. European Command said the adjustment will make NATO defense plans "more realistic" and ensure they are not overly reliant on U.S. forces.
+
+---
+
+### 2026-06-03 20:10:09  #國際
+
+美軍高層表示，歐洲盟友及加拿大可增派有人駕駛航空器、無人機與海軍艦艇參與行動。
+
+---
+
+### 2026-06-03 20:09:15  #MKT News #Market Regions #Europe & UK #MSFT.O #Impact bearish #AMZN.O #GOOGL.O
+
+EU technology chief says the EU cloud computing plan is likely to exclude large tech companies from key public procurement tenders.
 
 ---
 
@@ -23944,83 +24010,5 @@ Colombian oil workers' union announced a 24-hour strike.
 ### 2026-06-02 18:57:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 Treasury Yields Ease — The yield on the US 10-year Treasury note edged down to 4.43% on Tuesday as a modest retreat in oil prices offered some relief, although sentiment remained sensitive to developments in the Middle East. US President Trump said Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were ongoing. On Monday, borrowing costs had risen after Iran’s Tasnim news agency reported that Iranian negotiators were pausing talks with the US following Israeli strikes in Lebanon, with Tehran also reportedly considering a full closure of the Strait of Hormuz. Investors are now awaiting key labour market data later this week, including the US jobs report, which is expected to help shape expectations for Federal Reserve policy under the new chair, Kevin Warsh. Traders are currently pricing in around 17 basis points of rate hikes by year-end, implying roughly a 70% probability of a 25bps increase, with a full hike priced in by March 2027.
-
----
-
-### 2026-06-02 18:56:23  #MKT News
-
-Brussels Airport: airspace will be closed from 14:15 on Tuesday due to an unannounced strike.
-
----
-
-### 2026-06-02 18:56:23  #其他
-
-布魯塞爾機場預警：本週二 14:15 起空域關停。
-
----
-
-### 2026-06-02 18:56:05  #公司
-
-【呈和科技：全資子公司擬投資不超13億元建設高頻高速電子材料及高階助劑專案】呈和科技公告，公司全資子公司廣東呈和電子材料有限公司擬在廣東省東莞市投資建設高頻高速電子材料及高階助劑專案，專案總投資額不超過13億元（含土地出讓金、建築物、構築物及附屬設施、裝置投資等），資金來源包括但不限於募集資金、自有資金、銀行貸款。專案規劃聚苯醚樹脂2500噸、高頻高速阻燃劑2500噸、高階合成水滑石20000噸，總用地面積14.1萬平方米。本次投資已獲公司第三屆董事會第十七次會議審議透過，無需提交股東會審議。
-
----
-
-### 2026-06-02 18:55:32  #國際
-
-伊朗方面訊息：霍爾木茲海峽全天候核發船舶通航許可；全球船東與船長可隨時登入波斯灣航道管理局系統，申請霍爾木茲海峽通航。系統稽核申請，審批透過後簽發通行許可證。
-
----
-
-### 2026-06-02 18:55:10  #公司
-
-【龍迅股份披露一季度業績說明會情況：回應車載晶片進展等投資者關注焦點】龍迅股份公告顯示，在一季度業績說明會的預徵集問答環節，車載業務成為投資者關注焦點。對此，龍迅股份方面表示，截至目前，公司已有22款車載晶片透過AEC-Q100（車規級積體電路可靠性測試標準）的Grade 2或Grade 3認證，較此前披露的20顆進一步擴容，但暫時沒有產品透過Grade 1認證。龍迅股份方面還表示，2026年一季度，龍迅股份順利透過ISO 26262：2018功能安全管理體系認證，標誌著公司車載晶片研發、管控全流程的安全能力達到國際頂尖水平，可滿足智慧座艙、ADAS（輔助駕駛）等核心車載場景的嚴苛安全要求。（每經）
-
----
-
-### 2026-06-02 18:54:46  #國際
-
-iTraxx歐洲交叉信貸指數跌至258個基點，創三個月新低。
-
----
-
-### 2026-06-02 18:54:35  #公司 #觀點
-
-花旗集團將西部資料目標股價從500美元上調至685美元。
-
----
-
-### 2026-06-02 18:54:24  #宏觀 #兩會
-
-【王滬寧與歐美同學會（中國留學人員聯誼會）第九屆理事會會長會成員座談】中共中央政治局常委、全國政協主席王滬寧2日在京與歐美同學會（中國留學人員聯誼會）第九屆理事會會長會成員座談，並會見歐美同學會（中國留學人員聯誼會）第二次全國會員代表大會代表。他表示，要深入貫徹落實黨的二十屆四中全會精神，貫徹落實習近平總書記在歐美同學會成立100週年慶祝大會上的重要講話精神和致歐美同學會成立110週年重要賀信精神，弘揚優良傳統，積極擔當作為，推動留學報國事業取得更大發展和成績。（新華社）
-
----
-
-### 2026-06-02 18:54:08  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #S&P500 #EURUSD
-
-S&P GLOBAL MARKET INTELLIGENCE: iTraxx Europe Crossover index fell to 258 bps, a three-month low.
-
----
-
-### 2026-06-02 18:53:14  #公司
-
-【千里科技：5月汽車整車生產8921輛、銷售8210輛】千里科技公告，2026年5月汽車整車生產8921輛，同比增減36.14%，銷售8210輛，同比增減2.10%；其中燃油汽車生產8597輛，同比增減60.15%，銷售7358輛，同比增減60.73%；新能源汽車生產324輛，同比下降72.66%，銷售852輛，同比下降75.40%。本年累計整車生產35458輛，同比增減95.10%，銷售35186輛，同比增減22.92%。
-
----
-
-### 2026-06-02 18:53:07  #公司
-
-【陝西商洛市融資擔保有限公司董事長席建軍接受審查調查】據秦風網，商洛市融資擔保有限公司董事長席建軍涉嫌嚴重違紀違法，目前正接受商洛市紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-02 18:52:45  #MKT News
-
-Mediterranean Shipping Company said it is a neutral commercial carrier with no links to the US or Israel and is deeply concerned about these unprovoked attacks.
-
----
-
-### 2026-06-02 18:52:42  #公司 #市場
-
-【雅化集團：擬申請廣州期貨交易所氫氧化鋰指定交割廠庫】雅化集團(002497)6月2日公告，公司董事會審議透過議案，同意公司向廣州期貨交易所申請氫氧化鋰指定交割廠庫的資質，授權公司經營管理層向廣期所提交申請材料，並具體辦理相關事宜。公司本次申請廣州期貨交易所氫氧化鋰指定交割廠庫有利於公司將現貨市場、期貨市場、交割廠庫三者有機結合，進一步增強公司的抗風險能力和市場競爭力，將對公司未來拓展業務渠道和提高盈利水平產生積極作用。
 
 ---
