@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-06 03:49:45",
-  "count": 18800,
+  "updated": "2026-06-06 03:53:30",
+  "count": 18796,
   "items": [
+    {
+      "id": "mkt:019e9958-547b-7665-830d-485cbcb06e7c",
+      "time": "2026-06-06 03:52:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to June 2, speculative net long positions in COMEX copper futures rose by 5,156 contracts to 77,131 contracts."
+    },
+    {
+      "id": "mkt:019e9957-548a-7665-830d-43d40f9787d7",
+      "time": "2026-06-06 03:51:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "U.S. Customs and Border Protection said a new tariff regime on aluminum, steel and copper will take effect on June 8."
+    },
+    {
+      "id": "te:markets:557007",
+      "time": "2026-06-06 03:51:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Slips to $93 — Brent crude oil futures slid 2% to around $93 per barrel on Friday as markets focused on signs of weaker global demand and the lack of a breakthrough in negotiations between Washington and Tehran. Although President Trump maintained that discussions with Iran are progressing, tensions remain elevated, with disagreements over Lebanon continuing to complicate efforts to secure a broader agreement. Concerns about consumption also weighed on prices after Chinese crude imports fell to their lowest level in ten years, reflecting reduced refinery activity and softer demand. Several analysts now expect global oil demand growth to slow significantly this year. Earlier gains driven by fears of prolonged disruptions in the Strait of Hormuz have faded somewhat, though uncertainty over the region remains high. In Oman, operations at the Mina Al Fahal export terminal were briefly disrupted by an explosion before resuming."
+    },
+    {
+      "id": "te:markets:557006",
+      "time": "2026-06-06 03:49:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "WTI Falls as Iran Talks Stall and Demand Weakens — WTI crude oil futures slid 3% to around $90.3 per barrel on Friday as markets focused on signs of weaker global demand and the lack of a breakthrough in negotiations between Washington and Tehran. Although President Trump maintained that discussions with Iran are progressing, tensions remain elevated, with disagreements over Lebanon continuing to complicate efforts to secure a broader agreement. Concerns about consumption also weighed on prices after Chinese crude imports fell to their lowest level in ten years, reflecting reduced refinery activity and softer demand. Several analysts now expect global oil demand growth to slow significantly this year. Earlier gains driven by fears of prolonged disruptions in the Strait of Hormuz have faded somewhat, though uncertainty over the region remains high. In Oman, operations at the Mina Al Fahal export terminal were briefly disrupted by an explosion before resuming."
+    },
     {
       "id": "mkt:019e9953-faca-7665-830d-3b697c5fe863",
       "time": "2026-06-06 03:47:58",
@@ -173162,80 +173208,6 @@
         "國際"
       ],
       "text": "【報道：美伊協議的最終癥結之一是卡達代管資金能否分階段解凍】據報道，一項美伊臨時和平協議的最終癥結之一，是卡達代管的資金能否分階段解凍。該備忘錄旨在重新開放霍爾木茲海峽供國際航運通行，同時為第二輪談判留出更多時間，以解決約1000 磅高濃縮鈾的去向問題。相關資金不會直接交付給伊朗，而是用於採購食品與醫療物資，再送往這個飽受制裁與動盪困擾的國家。資金將分批釋放，前提是伊朗滿足一系列關鍵條件，包括開放海峽並清除水雷。據悉，卡達目前代管著 60 億美元。目前尚不清楚美伊雙方何時能敲定這份諒解備忘錄，但一名政府官員表示，兩國如今的談判進展已是有史以來最接近達成協議的階段。"
-    },
-    {
-      "id": "4907778",
-      "time": "2026-05-30 03:52:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "英特爾股價跌至盤中低點，英偉達股價轉跌。"
-    },
-    {
-      "id": "mkt:019e754b-cfb6-7bb7-9966-6d4073323aee",
-      "time": "2026-05-30 03:52:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "New York Post reports this is the closest the US and Iran have yet come to finalizing a memorandum of understanding."
-    },
-    {
-      "id": "te:economy:555055",
-      "time": "2026-05-30 03:52:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Uruguay Trade Deficit Widens Sharply in April — Uruguay’s trade deficit widened to $430.8 million in April 2026 from $130.2 million a year earlier. Imports rose 5.5% year-on-year to $1.15 billion, driven by an 11.3% increase in consumer goods purchases, including a 20.4% jump in vehicle imports. Imports of intermediate goods rose 4.8%, led by a 12.8% increase in food and beverage products. In contrast, capital goods imports fell 7.1%, weighed down by a 19.5% decline in transport equipment purchases. Meanwhile, exports increased 8.2% to $719.8 million, supported by a 14.1% rise in primary product shipments and a 6.1% increase in manufacturing exports. Sales of utilities, however, plunged 47.8%."
-    },
-    {
-      "id": "mkt:019e754a-b352-7bb7-9966-679b202d1011",
-      "time": "2026-05-30 03:51:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The New York Times reports timing for a US-Iran memorandum of understanding remains unclear."
-    },
-    {
-      "id": "4907777",
-      "time": "2026-05-30 03:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約郵報：這是美伊兩國迄今為止最接近最終敲定諒解備忘錄的一次。"
-    },
-    {
-      "id": "4907776",
-      "time": "2026-05-30 03:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭國防部表示，芬蘭將向烏克蘭提供新一輪防務援助，總價值約 1.28 億歐元，這也是芬蘭對烏克蘭防務的又一筆大額支援。"
-    },
-    {
-      "id": "4907775",
-      "time": "2026-05-30 03:50:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，尚不清楚美國和伊朗何時最終敲定諒解備忘錄。"
-    },
-    {
-      "id": "4907774",
-      "time": "2026-05-30 03:49:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約郵報： 卡達所持資金問題成為最後幾大分歧點之一。"
     }
   ]
 }
