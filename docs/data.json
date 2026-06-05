@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-05 08:31:26",
+  "updated": "2026-06-05 08:35:20",
   "count": 19005,
   "items": [
+    {
+      "id": "mkt:019e9533-ea4e-7cc8-bdf0-4cabe0f47799",
+      "time": "2026-06-05 08:34:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin says Russia and Ukraine should say \"Thank God it's over\" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say \"Thank God it's over\"."
+    },
+    {
+      "id": "te:markets:556626",
+      "time": "2026-06-05 08:32:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slip Ahead of Key Jobs Data — US stock futures declined on Friday as investors awaited the release of the May employment report for fresh insight into labor market conditions and the likely path of Federal Reserve policy. Uncertainty also lingered on Wall Street as the fragile ceasefire between the US and Iran held amid reports of stalled negotiations, despite President Donald Trump’s insistence that talks are nearing completion. On the corporate front, shares of Lululemon Athletica tumbled more than 11% in extended trading after the athleisure retailer cut its full-year earnings and revenue forecasts. During Thursday’s regular session, the Dow Jones surged 1.73% to a fresh record high, led by gains in healthcare and financial stocks. The S&P 500 advanced 0.41%, while the tech-heavy Nasdaq Composite slipped 0.09% as a weak outlook from Broadcom weighed on AI-related shares."
+    },
+    {
+      "id": "4918350",
+      "time": "2026-06-05 08:31:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：科創板“1+6”改革成效顯著 生態形成良性閉環】中信證券研報認為，回顧“1+6”改革一週年，投融資生態已形成良性閉環，在融資、併購、企業生態等多維度助力相關企業的高效發展。當前節點來看，改革已跨過制度宣示階段，進入生態驗證階段，後續值得關注的是盈利轉化能力及業績兌現能力等中長期趨勢，進行線路的驗證及反哺。分賽道來看，細分賽道的政策傳導已經呈現出清晰梯度，生物醫藥率先完成驗證，人工智慧正在加速接棒，良好的發展態勢正在推動科創板從“試驗田”真正走向“示範田”。"
+    },
+    {
+      "id": "4918349",
+      "time": "2026-06-05 08:30:53",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國股市此前領跑全球大漲行情現裂痕，股指大跌】規模達4.9萬億美元的韓國股市在一輪領跑全球的上漲行情後開始顯露承壓跡象。韓國綜合股價指數（Kospi）週五早盤最大跌幅達6.4%，三星電子、SK海力士跌幅均超7%，極端跌幅凸顯股指波動加劇。受期貨大跌拖累，韓國交易所一度暫停韓綜指程式化賣單。截至本週四，韓綜指年內漲幅超100%，但行情高度集中於兩大晶片龍頭股，一旦人工智慧題材行情降溫，大盤極易快速走弱。散戶入場熱度同步回落，融資融券規模高企還面臨韓國央行加息帶來的平倉風險。分析師表示，主打放大單日漲跌幅的槓桿型ETF普及，或將進一步放大行情回撥幅度。首爾 Eugene資產管理首席投資官Ha SeokKeun稱：“相較於基本面走弱，當前我更擔憂市場持倉過熱。未來一至兩個月，市場大機率進入高波動的盤整休整階段。”市場結構分化是核心隱憂。韓國交易所資料顯示，受人工智慧晶片需求提振的三星電子與SK海力士合計佔到韓國綜合指數（Kospi）權重的54%，在5月日均成交額中佔比近五成；韓綜指今年近七成漲幅均由這兩家企業貢獻。"
+    },
     {
       "id": "4918348",
       "time": "2026-06-05 08:28:36",
@@ -175031,40 +175070,6 @@
         "國際"
       ],
       "text": "【澳大利亞液化天然氣工會將伊西斯專案罷工推遲至6月2日】工會發言人表示，因雙方仍在繼續談判，Inpex Corp旗下伊西斯（ Ichthys ）液化天然氣出口專案的近海聯盟工會成員，將把受法律保護的勞工行動推遲至6月2日。該工會正為伊西斯海上氣田及陸上廠區的員工爭取加薪與改善工作待遇。注：伊西斯專案液化天然氣產量約佔全球總產量的2%，年出口產能約930萬噸，產品主要銷往日本。"
-    },
-    {
-      "id": "4905754",
-      "time": "2026-05-29 08:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李殿勳在武漢市調研工業母機產業】據湖北日報，5月28日上午，湖北省委副書記、省長李殿勳在武漢東湖新技術開發區調研工業母機產業時強調，要主動順應全球產業變革高階化、智慧化、綠色化、融合化、國際化發展大勢，充分發揮湖北科教資源、產業基礎、市場空間等比較優勢，堅持需求牽引和創新驅動，更加精準有效推動全省工業母機產業高質量發展，加快構建體現湖北優勢的現代化產業體系。調研中，李殿勳聽取了全省工業母機產業發展情況彙報。他強調，工業母機技術創新與產業升級是我國工業經濟轉型升級與高質量發展的基礎支撐，要堅持需求牽引和創新驅動，聚焦關鍵核心技術攻關、重點應用場景開放、首臺套技術裝備推廣、人工智慧與工業母機融合等重點，以培育世界一流企業、創造世界一流產品為目標，以換道超車為策略，進一步加強資源整合、政策支援和服務保障，大力支援省內相關企業開展產品技術創新、商業模式創新和經營管理創新，重構全省工業母機供給體系和能力；要以完善產業鏈條為重點，緊盯產業短板弱項，更大力度面向全球開展精準招商，推動更多創新資源和產業資源在湖北集聚；要以最佳化產業生態為根本保障，著眼更好解決產業發展所需的“陽光、土壤、空氣和水分”問題，努力打造“產業鏈、創新鏈、人才鏈、資金鍊”深度融合的國內外一流產業創新生態，為全省工業母機產業快速健康發展提供根本保障。"
-    },
-    {
-      "id": "4905753",
-      "time": "2026-05-29 08:34:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓華海洋獲得價值3759億日元的訂單，將建造1艘LNG運輸船。"
-    },
-    {
-      "id": "4905752",
-      "time": "2026-05-29 08:32:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟與烏克蘭已達成900億歐元貸款協議】歐盟委員會發布公告稱，歐盟委員會與烏克蘭方面近日正式透過了向烏克蘭提供900億歐元貸款的相關協議和諒解備忘錄，首批資金預計於6月啟動撥付。據烏克蘭方面28日訊息，烏克蘭最高拉達議會當天批准了接收歐盟向烏克蘭提供900億歐元貸款的法案。烏財政部長馬爾琴科說，資金分配方面，600億歐元將用於提升烏克蘭國防工業潛力，另有300億歐元用於支援財政預算。歐洲理事會主席科斯塔4月23日已在社交媒體證實該貸款獲批事宜。（央視新聞）"
-    },
-    {
-      "id": "4905751",
-      "time": "2026-05-29 08:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "五年期日本國債收益率下跌1.5個基點，至1.890%。"
     }
   ]
 }
