@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-05 09:49:32",
-  "count": 18980,
+  "updated": "2026-06-05 09:53:14",
+  "count": 18978,
   "items": [
+    {
+      "id": "4918473",
+      "time": "2026-06-05 09:52:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念反覆活躍 沃格光電逼近漲停再創歷史新高】玻璃基板概念反覆活躍，沃格光電逼近漲停，再創歷史新高，戈碧迦、凱盛科技、三峽新材、五方光電、彩虹股份漲幅靠前。"
+    },
+    {
+      "id": "mkt:019e957b-3333-766c-9543-29d7dd1457c9",
+      "time": "2026-06-05 09:52:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Philippine stock index rose more than 1%."
+    },
+    {
+      "id": "4918472",
+      "time": "2026-06-05 09:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東面向港澳主體頒發首張資料智慧財產權證書】近日，澳門麥芽科技有限公司“容器模擬環境執行引數資料集”，在廣東資料智慧財產權存證登記平臺成功辦理並獲頒資料智慧財產權登記證書，這是全國首個港澳經營主體透過跨境登記方式在粵獲得資料智慧財產權登記，這標誌著粵港澳大灣區在資料要素合規確權與跨境流動方面實現重要突破。（廣東省市監局）"
+    },
+    {
+      "id": "4918471",
+      "time": "2026-06-05 09:50:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航運板塊逆勢走強 鳳凰航運漲停】早盤航運板塊逆勢走強，鳳凰航運漲停，寧波海運、中遠海控、安通控股、國航遠洋跟漲。"
+    },
+    {
+      "id": "4918470",
+      "time": "2026-06-05 09:50:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4918469",
+      "time": "2026-06-05 09:50:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指上漲 1.1%，報 5975.59 點。"
+    },
+    {
+      "id": "mkt:019e9579-68a3-766c-9543-23c941aa8e30",
+      "time": "2026-06-05 09:50:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601628.SS",
+        "Impact bullish",
+        "601336.SS",
+        "601318.SS"
+      ],
+      "text": "A-share insurance sector rose; China Life gained over 5%, New China Life Insurance climbed over 4%; PICC, Ping An and CPIC also traded higher."
+    },
+    {
+      "id": "4918468",
+      "time": "2026-06-05 09:49:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來：FF已向洛杉磯一家知名醫療機構完成Master人形機器人交付，標誌著FF EAI機器人首次落地醫療健康應用場景。此次交付物件為Wonderful Life Dental Group Los Angeles，機器人將主要應用於該機構在醫療健康場景下的前臺接待相關職能，包括患者簽到、預約查詢、接待協助與導覽指引等。"
+    },
+    {
+      "id": "mkt:019e9578-af4b-766c-9543-1c6eed2183b6",
+      "time": "2026-06-05 09:49:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A Norwegian union said it reached a wage agreement for oil workers and will not stage strike action."
+    },
+    {
+      "id": "mkt:019e9578-6a04-766c-9543-14333b5b6cd1",
+      "time": "2026-06-05 09:49:12",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Prime Minister Sanae Takaichi said Japan's economic and fiscal policies are not intended to intervene in the FX market."
+    },
+    {
+      "id": "4918467",
+      "time": "2026-06-05 09:49:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.13%，成分股中，戈碧迦漲7.68%，星圖測控漲5.46%，富士達漲5.29%，天力複合漲4.15%。"
+    },
     {
       "id": "4918466",
       "time": "2026-06-05 09:48:53",
@@ -174736,129 +174842,6 @@
         "焦點"
       ],
       "text": "【商業連鎖板塊走強 寧波中百等漲停】商業連鎖板塊走強，寧波中百、茂業商業、中央商場漲停，步步高、東百集團、百大集團等漲幅居前。"
-    },
-    {
-      "id": "mkt:019e716f-2878-7ee0-99e0-a1e2faca8fc1",
-      "time": "2026-05-29 09:52:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Blue Origin ignition fails during static-fire test; no injuries】Blue Origin said on May 28 an ignition failure occurred during a static-fire (hot-fire) test; all personnel were reported safe. Blue Origin is the U.S. space company founded by Amazon founder Jeff Bezos."
-    },
-    {
-      "id": "4905898",
-      "time": "2026-05-29 09:52:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳透露登上空軍一號細節】英偉達公司執行長黃仁勳25日在接受媒體訪問時，披露了隨特朗普訪華的更多幕後細節。 黃仁勳說：“特朗普總統早上給我打電話，他當時並不知道我原本不去，然後他堅持讓我上飛機一起去，所以我就匆忙收拾了一下。他是在準備出發時給我打的電話，他以為我在華盛頓特區，可以直接登上‘空軍一號’，但其實我當時在（美國）西海岸，所以他跟我說，那就在阿拉斯加跟他會合，於是我就飛到阿拉斯加，登上‘空軍一號’然後去了中國。”（CCTV4）"
-    },
-    {
-      "id": "mkt:019e716d-d495-7ee0-99e0-9f5c8ca5b6d9",
-      "time": "2026-05-29 09:51:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China urges dialogue to resolve Ukraine crisis】China's deputy UN envoy Sun Lei told an emergency UN Security Council session on the 28th that Beijing urges the parties to exercise maximum restraint, agree a ceasefire and resolve the crisis through dialogue and negotiations. He said ground fighting has recently escalated with new civilian casualties, and urged strict compliance with international humanitarian law, an end to attacks on civilians and civilian infrastructure, and steps to de‑escalate. China said it supports all efforts aimed at peace, called for parties to resume contact and demonstrate political will to address each other's legitimate security concerns, and urged pursuit of a comprehensive, lasting, legally binding peace agreement consistent with the UN Charter."
-    },
-    {
-      "id": "mkt:019e716d-ca28-7ee0-99e0-97f9742af9c5",
-      "time": "2026-05-29 09:51:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600519.SS",
-        "Impact bullish"
-      ],
-      "text": "China A-share baijiu sector rallied. Guangdong Mingzhu jumped over 8%, Guizhou Moutai rose more than 2%; Litong Technology, Jiugui Liquor, Jinshiyuan and Shuijingfang also gained."
-    },
-    {
-      "id": "4905897",
-      "time": "2026-05-29 09:51:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【藍色起源公司點火測試出現故障】貝索斯旗下的美國航天企業藍色起源公司當地時間5月28日證實，在一次熱火測試（靜態點火測試）中發生故障，所有人員均已確認安全。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4905896",
-      "time": "2026-05-29 09:50:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東望時代成立新材料研究公司】企查查APP顯示，近日，浙江東望新材料研究有限公司成立，經營範圍包含：新型膜材料銷售；電子專用材料銷售；合成材料銷售；工程塑膠及合成樹脂銷售等。企查查股權穿透顯示，該公司由東望時代全資持股。"
-    },
-    {
-      "id": "4905895",
-      "time": "2026-05-29 09:50:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.11%，成分股中，天嶽先進跌3.66%，中芯國際跌5.32%，芯聯整合跌4.23%，石頭科技跌4.75%。"
-    },
-    {
-      "id": "4905894",
-      "time": "2026-05-29 09:50:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4905893",
-      "time": "2026-05-29 09:50:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊持續走高 萬科A等多股漲停】房地產板塊持續走高，萬科A、綠地控股、上實發展漲停，此前香江控股5連板，陽光股份、光大嘉寶漲停，華髮股份、金融街、榮盛發展、金地集團、保利發展等跟漲。"
-    },
-    {
-      "id": "mkt:019e716c-c46a-7ee0-99e0-8e36c3a86061",
-      "time": "2026-05-29 09:50:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【South Korea to free private oil stocks by halving mandatory reserves to 20 days】South Korea will ease mandatory private-sector oil stock requirements from 40 days to 20 days, effective from the 29th, releasing oil equivalent to 20 days’ consumption, a Ministry of Trade, Industry and Energy official said on the 28th. Seoul has not decided to tap state oil reserves and will keep them as a last-resort tool. The move is intended to fulfil a commitment to the International Energy Agency."
-    },
-    {
-      "id": "4905892",
-      "time": "2026-05-29 09:49:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股內房股拉昇 碧桂園漲超38%】港股內房股拉昇，碧桂園漲超38%，融創中國漲超20%，萬科企業、龍湖集團、融信中國等跟漲。"
-    },
-    {
-      "id": "mkt:019e716c-3e0a-7ee0-99e0-80f3323b3f51",
-      "time": "2026-05-29 09:49:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "Mainland A-share indices turned lower; the Shenzhen Composite Index fell 0.24% and the ChiNext Index dropped 0.37%, with BC battery and lithography equipment sectors leading losses."
-    },
-    {
-      "id": "4905891",
-      "time": "2026-05-29 09:49:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股三大股指悉數翻綠，深證成指跌0.24%，創業板指跌0.37%，BC電池板塊、光刻機板塊跌幅居前。"
     }
   ]
 }
