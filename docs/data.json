@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-06 03:06:36",
-  "count": 18832,
+  "updated": "2026-06-06 03:10:28",
+  "count": 18831,
   "items": [
+    {
+      "id": "4920314",
+      "time": "2026-06-06 03:09:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至2.5%。"
+    },
+    {
+      "id": "mkt:019e992f-c892-7665-830c-a1c13fe2c093",
+      "time": "2026-06-06 03:08:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Sources: Trump, Iran differ on timeline to dilute enriched uranium and on frozen funds release】AXIOS reports Witkoff and Kushner reached agreement with Iran last week on a 60‑day memorandum covering a ceasefire extension, reopening the Strait of Hormuz, allowing Iran to sell oil, and negotiations on Iran’s enriched‑uranium stockpile and future enrichment limits. Trump requested two edits to the text; Iran will submit its own changes. The U.S. is awaiting Iran’s formal response; sources say differences are relatively small. Key outstanding issues: Trump insists any final deal include a 60‑day window to dilute Iran’s enriched uranium, while Iran seeks 90 days; and there is disagreement over the amount and timing of releasing frozen Iranian assets — U.S. says funds would be released after a final agreement and specific implementation steps, Iran seeks partial immediate release. If talks move to a second phase, the nuclear expert team that met with Witkoff and Kushner would need to plan disposition of Iranian nuclear material, further enrichment limits, and verification arrangements."
+    },
+    {
+      "id": "mkt:019e992e-2e9e-7665-830c-9e7a1a37d608",
+      "time": "2026-06-06 03:06:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Forbes reports AI programming startup Lovable is in fundraising talks, seeking a valuation of about USD 12 bln."
+    },
     {
       "id": "mkt:019e992c-bd42-7665-830c-93c3e3f82c03",
       "time": "2026-06-06 03:05:06",
@@ -173473,38 +173503,6 @@
         "其他"
       ],
       "text": "英國首相斯塔默考慮大舉舉債，為國防開支提供資金。"
-    },
-    {
-      "id": "4907713",
-      "time": "2026-05-30 03:09:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：據推測，伊朗約四到五成軍人未領到軍餉。"
-    },
-    {
-      "id": "4907712",
-      "time": "2026-05-30 03:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗通脹率或已突破 200%。"
-    },
-    {
-      "id": "4907711",
-      "time": "2026-05-30 03:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普明確尋求自由、開放地進入霍爾木茲海峽。"
-    },
-    {
-      "id": "4907710",
-      "time": "2026-05-30 03:07:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新為由將其關閉】一名聯邦法官週五裁定，禁止美國總統特朗普將其姓名新增到肯尼迪中心的名稱中。該法官還暫時阻止了這座位於華盛頓特區的文化地標建築因翻新工程而關閉兩年。法官在華盛頓特區聯邦地區法院的裁決書中寫道：“肯尼迪中心的組織法明確規定，該中心應以肯尼迪總統的名字命名，不能僅憑董事會的單方面決定而冠以任何其他正式名稱或作為公共紀念物。”“國會賦予了肯尼迪中心這個名字，也只有國會才能更改它。”"
     }
   ]
 }
