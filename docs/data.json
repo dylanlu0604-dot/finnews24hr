@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-06 09:01:02",
-  "count": 18774,
+  "updated": "2026-06-06 09:04:55",
+  "count": 18775,
   "items": [
+    {
+      "id": "mkt:019e9a74-d089-7665-830e-89eb465ff5c5",
+      "time": "2026-06-06 09:03:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait says it is responding to 'enemy' missile and drone attacks】Kuwait's military said on the 6th its air defence forces were responding to 'enemy' missile and drone attacks; explosions heard were caused by interceptions by Kuwait's air defence systems."
+    },
+    {
+      "id": "4920593",
+      "time": "2026-06-06 09:02:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【科威特：正應對“敵方”導彈和無人機攻擊】科威特軍方6日發表宣告說，科威特防空部隊正在應對“敵方”導彈和無人機攻擊。如聽到爆炸聲，系科威特防空系統攔截攻擊所致。（新華社）"
+    },
+    {
+      "id": "4920587",
+      "time": "2026-06-06 09:00:47",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【酒價內參6月6日價格釋出：青花郎五糧液普五八代領漲 總價止跌回升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月6日整體明顯回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9888元，較昨日溫和上漲12元，結束此前連續下探態勢。市場在前一日大幅走弱後出現修復，終端交投情緒略有回暖，核心單品的漲跌分化度依然顯著。\n\n今日白酒市場11大單品七漲四跌，贏家佔據明顯上風。上漲方面，青花郎漲幅居前，上漲8元/瓶，重返690元上方；五糧液普五八代上漲7元/瓶，結束此前連續四日下跌的頹勢強勢反彈；青花汾20與水晶劍南春均上漲3元/瓶，後者回補昨日全部跌幅，重回月內次高位；精品茅臺上漲2元/瓶；飛天茅臺與洋河夢之藍M6+均小幅上漲1元/瓶。下跌方面，習酒君品的跌幅居前，下跌7元/瓶，連續兩日明顯回落，價格回落至月內次低位；國窖1573下跌3元/瓶，已連續三日走低，創下月內最低價格紀錄；古井貢古20下跌2元/瓶；五糧液1618小幅下跌1元/瓶。"
+    },
     {
       "id": "4920570",
       "time": "2026-06-06 08:58:16",
@@ -173082,28 +173112,6 @@
         "國際"
       ],
       "text": "【歐足聯攜手阿里巴巴，達成多年戰略合作】5月29日晚，阿里巴巴集團與歐洲足球協會聯盟、UC3在匈牙利布達佩斯宣佈達成合作。阿里巴巴成為歐洲冠軍聯賽、歐足聯歐洲聯賽及歐足聯協會聯賽（2027/2028賽季至2032/2033賽季）以及2028年歐洲盃的官方獨家AI、雲端計算服務及電子商務合作伙伴。(阿里巴巴)"
-    },
-    {
-      "id": "4907981",
-      "time": "2026-05-30 09:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：南桑威奇群島地區發生 5.0 級地震。"
-    },
-    {
-      "id": "mkt:019e7667-8b12-7bb7-9967-5617efc29f59",
-      "time": "2026-05-30 09:02:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Shanghai Shipping Exchange: transport market improves; freight rates continue rising】Shanghai Shipping Exchange said this week China’s export container transport market continued to improve, with ocean-route freight rates rising and its composite index climbing. The National Bureau of Statistics reported April profits at industrial enterprises above designated size rose 24.7% YoY, the strongest pace since Nov 2023, citing continued rapid industrial production that has accelerated corporate profit growth. On May 29 the Shanghai export container composite freight index stood at 2,571.73, up 15.9% from the previous reading."
     }
   ]
 }
