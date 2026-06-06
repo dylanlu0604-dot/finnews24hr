@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-07 00:39:12",
-  "count": 18793,
+  "updated": "2026-06-07 00:43:14",
+  "count": 18795,
   "items": [
+    {
+      "id": "mkt:019e9dcf-f760-7665-8313-a32051a06865",
+      "time": "2026-06-07 00:41:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait News Agency said Kuwait's foreign ministry condemned an attack by Israeli forces on a Lebanese army patrol that caused casualties among Lebanese troops."
+    },
+    {
+      "id": "mkt:019e9dcd-4e35-7665-8313-9983865dc11d",
+      "time": "2026-06-07 00:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Pakistan's interior minister has arrived in Tehran and is to meet Iranian officials, including Foreign Minister Araghchi."
+    },
+    {
+      "id": "4921361",
+      "time": "2026-06-07 00:38:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦內政部長納克維抵達伊朗。"
+    },
     {
       "id": "mkt:019e9dcc-3698-7665-8313-978b7ea75a39",
       "time": "2026-06-07 00:37:46",
@@ -173449,14 +173476,6 @@
         "國際"
       ],
       "text": "真主黨：我方使用導彈打擊了以色列敵軍位於納哈里亞定居點的軍事設施。"
-    },
-    {
-      "id": "mkt:019e79c1-e97b-7bb7-996a-87dedb9cdd95",
-      "time": "2026-05-31 00:40:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HEZBOLLAH fires rockets at multiple towns in northern Israel, IDF says】The Israel Defense Forces said on May 30 that HEZBOLLAH launched rockets at multiple towns in northern Israel. Some rockets were intercepted and others fell in open areas with no casualties. The IDF said HEZBOLLAH fired a “large number” of rockets overnight; one rocket struck and exploded in Kiryat Shmona, damaging a building but causing no injuries. Remaining rockets were intercepted by Israeli air defenses."
     }
   ]
 }
