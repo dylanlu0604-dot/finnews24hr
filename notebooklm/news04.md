@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 10:34:54_
-_本檔包含 3580 則快訊，約 699839 字_
+_更新時間：2026-06-06 11:25:05_
+_本檔包含 3570 則快訊，約 699993 字_
+
+---
+
+### 2026-06-02 19:50:12  #其他
+
+【長安啟源再次回應A07追尾事故：事故車無鐳射雷達，光照不足或無法探測障礙物】針對濟廣高速“10·2”長安啟源A07追尾重型半掛車致3死交通事故，長安啟源官方6月1日再次回應，就該事故車輛的硬體配置及輔助駕駛系統的適用場景作出進一步說明。在回應中，長安啟源方面明確，事故車輛為長安啟源A07的2024款車型，搭載了上一代的IACC（整合式自適應巡航）系統，且該車沒有搭載鐳射雷達。對於該系統在複雜環境下的實際探測能力，長安啟源官方提示，IACC適合在高速公路或路況良好的道路上使用。若遇到天氣惡劣或視線不佳，如雨、霧、沙塵、光照不足等情況，系統可能無法探測到前方障礙物並做出有效響應。（新黃河）
+
+---
+
+### 2026-06-02 19:49:57  #國際
+
+【伊朗稱過去24小時24艘船透過霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍2日表示，過去24小時內共有24艘船隻在獲得相關許可後，經革命衛隊協調並在其提供安全保障的情況下透過霍爾木茲海峽。
+
+---
+
+### 2026-06-02 19:49:34  #宏觀 #公司 #資料
+
+【Meta在全球範圍擴大青少年內容管控】Meta 週二披露，正對旗下 Instagram、臉書、Messenger 全球青少年賬號擴容內容管控設定，保障未成年使用者獲取適配其年齡段的使用體驗；當下各大社交平臺因兒童身心健康與安全問題正面臨日趨嚴苛的監管審視。該管控方案去年 10 月率先在部分國家落地，初衷是阻隔未成年人接觸不適宜內容。Meta 同時在 Instagram 上線一項新功能，豐富青少年瀏覽內容品類，避免其反覆刷到同類主題內容。今年 4 月，Meta 向投資者警示，歐美多國圍繞青少年社交產品問題出臺的監管及訴訟阻力，或對公司經營與財務業績造成重大負面影響。在一起標誌性訴訟中，洛杉磯陪審團於 3 月 25 日裁定 Meta 與谷歌母公司 Alphabet 存在過失，認定二者旗下社交平臺產品設計損害未成年人身心健康，並向一名自述幼時沉迷社交媒體的 20 歲女性原告合計賠付 600 萬美元。
+
+---
+
+### 2026-06-02 19:48:58  #央行 #國際
+
+【瑞士央行行長：未設定具體匯率目標 干預匯市意願增強】瑞士央行行長施萊格爾表示，該行並未設定具體的匯率目標。他重申了央行的立場，即其對瑞郎匯率進行干預的意願有所增強。他表示：“瑞士央行透過設定央行政策利率來確保適當的貨幣環境，並在必要時還會採取其他措施，比如干預外匯市場。但瑞士央行並不追求匯率目標。由於中東局勢的惡化，瑞郎面臨升值壓力，導致央行干預匯市意願增強。”
+
+---
+
+### 2026-06-02 19:48:51  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+【Swiss National Bank chairman Schlegel: no explicit FX target; greater readiness to intervene】Swiss National Bank chairman Schlegel said the SNB has not set and is not pursuing a specific exchange-rate target, but its willingness to intervene in FX markets has increased. He said the bank uses its policy rate to secure appropriate monetary conditions and will employ other measures, including FX intervention if necessary, as deteriorating Middle East tensions are putting upward pressure on the Swiss franc.
+
+---
+
+### 2026-06-02 19:48:20  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+A UK trade union said members employed by Bilfinger on North Sea assets operated by Ithaca Energy will strike in June over a pay dispute.
+
+---
+
+### 2026-06-02 19:47:55  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Ease from Records — US equity futures eased from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. Contracts for the S&P 500 and Nasdaq 100 only inched down, but those for the Dow fell by over 200 points. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged nearly 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company.
+
+---
+
+### 2026-06-02 19:47:46  #其他
+
+【T1000級小絲束碳纖維實現量產】中國石化6月2日宣佈，中國石化上海石化聯合上海石油化工研究院成功攻克溼法T1000級高效能碳纖維關鍵技術，並實現批次化生產，標誌著中國石化在高效能碳纖維領域取得里程碑式突破，將為我國關鍵領域發展提供材料支撐。（新華社）
+
+---
+
+### 2026-06-02 19:47:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Magyar: If anti-corruption measures create a level playing field, more German investment will flow into Hungary.
+
+---
+
+### 2026-06-02 19:47:41  #公司
+
+英國團結工會：受僱於比爾芬格公司、在伊薩卡能源運營的北海資產專案工作的團結工會會員，將在6月就薪酬糾紛發起罷工。
+
+---
+
+### 2026-06-02 19:47:16  #公司
+
+英國團結工會：比爾芬格公司的海上作業工人將因薪資糾紛發起罷工。
+
+---
+
+### 2026-06-02 19:46:20  #國際
+
+【紐西蘭防長涉核言論引發爭議，總理拉克森最新表態：將繼續堅持無核立場】據美國彭博社、紐西蘭廣播電臺等媒體報道，在紐西蘭國防部長克里斯·彭克稱就該國的無核立場進行討論將“有所助益”的言論引發爭議後，紐西蘭總理拉克森2日表示，紐西蘭將繼續堅持無核立場。（環球網）
+
+---
+
+### 2026-06-02 19:46:02  #市場
+
+【美股雲端計算服務商股盤前走強】美股雲端計算服務商NEBIUS盤前再度走強，現拉昇漲超6%，該股昨天大漲超14%，股價勢創歷史新高；CoreWeave盤前漲超4%，昨天收漲近14%。
+
+---
+
+### 2026-06-02 19:45:35  #MKT News
+
+【Zhanjiang maritime agency issues navigation warning for live-fire in South China Sea, June 3-4】Zhanjiang Maritime Safety Administration issued a navigation warning: parts of the South China Sea will conduct live-fire exercises June 3–4, daily 08:00–17:00; entry into the designated areas is prohibited.
+
+---
+
+### 2026-06-02 19:45:27  #公司
+
+【艾布魯：特定股東擬合計減持公司不超1.23%股份】艾布魯(301259)6月2日公告，特定股東熊燕、鄧朝暉、吳學愚計劃15個交易日後的3個月內，以集中競價交易方式合計減持公司股份不超過191.55萬股（佔公司總股本比例1.23%）。
+
+---
+
+### 2026-06-02 19:45:14  #其他
+
+【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，6月3日至4日，每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-06-02 19:44:34  #公司
+
+【羅平鋅電：全資子公司向榮礦業收到現場處理措施決定書】羅平鋅電公告稱，近日，其全資子公司向榮礦業收到普定縣應急管理局出具的《現場處理措施決定書》。檢查發現向榮礦業存在尾礦堆高超越壩頂、貯存尾礦超設計庫容，且《安全生產許可證》有效期屆滿等重大隱患。應急管理局責令其立即停止作業。目前向榮礦業選礦廠和尾礦庫已停產，若後續處理或整改緩慢，或無法辦理許可證延續，將對公司自產原料生產造成不利影響。公司將協助整改並辦理手續，促進其儘快復產。
+
+---
+
+### 2026-06-02 19:43:49  #MKT News
+
+Crimean regional leader said President Putin has personally taken charge of and is overseeing the peninsula's gasoline shortage, and urged residents to remain patient and calm.
+
+---
+
+### 2026-06-02 19:43:29  #公司
+
+【瀚藍環境：擬發行股份及支付現金收購粵豐環保100%股權，控股股東將變更為南海控股，持股比例將達19.61%】瀚藍環境公告，公司擬透過發行股份及支付現金方式購買廣東南海上市公司高質量發展股權投資基金合夥企業（有限合夥）100%財產份額，並以現金購買臻達發展有限公司持有的粵豐環保電力有限公司7.22%股份，最終實現對粵豐環保100%控股；同時擬向不超過35名特定投資者發行股份募集配套資金不超過12億元。本次交易對價合計29.98億元，其中股份支付比例43.21%，現金支付比例56.79%。交易完成後，公司控股股東由供水集團變更為南海控股，實際控制人仍為南海國資局。本次交易尚需公司股東大會審議及有權監管機構批准。
+
+---
+
+### 2026-06-02 19:43:09  #MKT News
+
+Magyar said he was optimistic they could resolve the issue and open a new chapter in Ukraine-Hungary relations.
+
+---
+
+### 2026-06-02 19:42:47  #其他
+
+俄控克里米亞地區負責人敦促半島民眾在汽油短缺期間保持耐心與冷靜。
+
+---
+
+### 2026-06-02 19:42:46  #MKT News
+
+Hungarian Prime Minister Magyar said he is prepared to meet Ukrainian President Zelenskiy early next week if technical talks on ethnic minority rights conclude this week.
+
+---
+
+### 2026-06-02 19:42:40  #國際
+
+俄控克里米亞地區負責人表示，普京總統已將該半島的汽油短缺問題親自督辦。
+
+---
+
+### 2026-06-02 19:42:10  #宏觀
+
+【劉國中在河北調研時強調 毫不放鬆抓好“三夏”生產 紮實有效開展常態化監測幫扶】中共中央政治局委員、國務院副總理劉國中1日至2日到河北調研。他強調，要深入學習貫徹習近平總書記關於“三農”工作的重要指示批示精神，按照黨中央、國務院部署，毫不放鬆抓好“三夏”生產，夯實全年糧食豐收基礎，紮實有效開展常態化監測幫扶，持續鞏固拓展脫貧攻堅成果，為鄉村全面振興、經濟社會高質量發展打下堅實基礎。（新華社）
+
+---
+
+### 2026-06-02 19:41:56  #國際
+
+匈牙利總理毛焦爾表示，如果少數族裔權利的技術性談判能在本週結束，我已準備好於下週初與澤連斯基總統會面。
+
+---
+
+### 2026-06-02 19:41:35  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Russian Defence Ministry said it struck defence-industrial facilities in multiple regions of Ukraine.
+
+---
+
+### 2026-06-02 19:40:48  #MKT News
+
+Abu Dhabi Ports has agreed to buy Brazilian terminal operator CLI for more than AED 3 billion, market sources said.
+
+---
+
+### 2026-06-02 19:40:40  #MKT News #Market Regions #Europe & UK
+
+【Ren Hongbin meets UK–China Trade Association chairman Wu Sitian】Ren Hongbin, chairman of the China Council for the Promotion of International Trade, met in Beijing on June 2 with Wu Sitian, chairman of the UK–China Trade Association, and CEO Peter Bai. They discussed boosting China‑UK business engagement, strengthening institutional cooperation, facilitating bilateral investment and third‑market joint projects, and deepening cross‑border industrial‑chain and supply‑chain cooperation.
 
 ---
 
@@ -21361,233 +21529,5 @@ A European Commission spokesperson said negotiations with ANTHROPIC are moving i
 ### 2026-06-01 18:54:03  #市場
 
 【油價下跌，為啥黃金還不漲？】北京師範大學教授、盤古智庫學術委員會秘書長萬喆告訴中新經緯，當前金油比約在40至50之間，顯著高於長期歷史均值，表明市場雖已脫離極端風險狀態，但避險需求依然較高。萬喆認為，金油比下行反映了市場邏輯的轉變。過去幾年，金油比從約16倍飆升至70倍以上，主要受地緣衝突催生的避險需求推動。她強調，油價與金價之間並不存在必然的負相關關係。“傳統邏輯中，如果油價下跌源於經濟衰退預期，避險情緒會推升金價。但當前觸發因素不同：前期地緣衝突導致油價異常上漲，隨著危機緩解，油價自然回落；金價未漲甚至下跌，同樣是危機緩釋的結果。”萬喆說。（中新經緯）
-
----
-
-### 2026-06-01 18:53:37  #公司
-
-【天溯計量：以資本公積金向全體股東每10股轉增4股】天溯計量公告，公司2025年年度權益分派方案為：以總股本6521.74萬股為基數，向全體股東每10股派發現金股利人民幣6元，合計派發現金股利人民幣3913.04萬元；同時，以資本公積金每10股轉增4股，預計轉增股本2608.7萬股，轉增後公司總股本將增加至9130.43萬股。股權登記日為2026年6月5日，除權除息日為2026年6月8日。
-
----
-
-### 2026-06-01 18:53:26  #其他
-
-【京東健康與寶寶樹簽署深度合作協議】據“京東健康黑板報”，5月31日，京東健康與寶寶樹正式簽署深度合作協議，雙方將圍繞兒童健康服務生態，實現內容、服務與產品的全面融合。
-
----
-
-### 2026-06-01 18:53:03  #公司
-
-【雲中馬：持股5%以上股東擬減持不超2.93%股份】雲中馬公告稱，因自身資金需求，持股5.11%的股東雲中馬合夥擬透過大宗交易減持不超2656325股，即不超總股本的1.93%；持股5.34%的股東弘悅私募擬透過集中競價減持不超1375142股，即不超總股本的1.00%。減持期間為6月24日至9月23日，減持價格依市場價格而定。本次減持計劃存在多種不確定性，不會影響公司治理與經營。
-
----
-
-### 2026-06-01 18:53:00  #公司 #市場
-
-【中央商場：股價異常波動 一季度營收降20.39%淨虧損699.23萬元】中央商場公告稱，公司股票2026年5月29日、6月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司、控股股東及實控人不存在應披露未披露重大資訊，目前生產經營正常。2026年一季度，公司營收51500.62萬元，同比下滑20.39%，淨虧損699.23萬元。2025年末資產負債率97.12%，未彌補虧損超實收股本總額三分之一。實控人祝義財及其控制的公司持股質押凍結比例均為100%。
-
----
-
-### 2026-06-01 18:52:54  #MKT News
-
-Brazil's finance minister Durigan said interest rates need to be cut, saying the current cost of capital is too high.
-
----
-
-### 2026-06-01 18:52:27  #MKT News
-
-Brazil's Finance Minister Durigan said GDP growth has exceeded expectations since 2023 and that Brazil must improve its fiscal position.
-
----
-
-### 2026-06-01 18:52:12  #其他
-
-COSTCO WHOLESALE被DA DAVIDSON列入最佳供應商名單。
-
----
-
-### 2026-06-01 18:51:16  #其他
-
-富國銀行將ARM目標股價從255美元上調至410美元。
-
----
-
-### 2026-06-01 18:51:11  #MKT News #MSI.O #Impact mixed
-
-Motorola Solutions will acquire counter-drone leader D-Fend Solutions; transaction expected to close in Q4.
-
----
-
-### 2026-06-01 18:50:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Chevron-led Tengiz Venture operations are close to normal; Tengizchevroil has resumed crude production after last week’s outage.
-
----
-
-### 2026-06-01 18:50:31  #公司
-
-摩托羅拉將以15億美元收購D-Fend解決方案公司。
-
----
-
-### 2026-06-01 18:50:24  #其他
-
-摩托羅拉系統將收購反無人機系統行業領軍企業D-Fend Solutions。
-
----
-
-### 2026-06-01 18:50:06  #公司
-
-【皖通科技：定增募資總額由6億元下調至5.4億元】皖通科技公告，公司2025年度向特定物件發行股票方案進行調整，擬從原募集資金總額6億元中扣除財務性投資金額6000萬元，將募集資金總額下調至5.4億元。發行股票數量由不超過8379.89萬股相應下調至不超過7541.9萬股。發行物件為西藏騰雲投資管理有限公司和北京景源薈智企業管理諮詢合夥企業（有限合夥），募集資金扣除發行費用後全部用於補充流動資金。本次調整已獲公司第七屆董事會第六次會議審議透過，尚需深圳證券交易所稽核透過及中國證監會同意註冊。
-
----
-
-### 2026-06-01 18:49:56  #其他
-
-非洲開發銀行行長：法國正推動增持非洲工業發展轉型署股權，這是非洲金融發展舉措的一部分。
-
----
-
-### 2026-06-01 18:49:42  #其他
-
-由雪佛龍主導的田吉茲合資專案運營負荷即將恢復至正常水平。
-
----
-
-### 2026-06-01 18:48:31  #市場 #國際
-
-印度SENSEX30指數收盤跌0.68%，報74267.34點。
-
----
-
-### 2026-06-01 18:48:02  #公司
-
-【新金路：實際控制人劉江東提前終止減持計劃】新金路公告，公司第一大股東、實際控制人、董事長劉江東原擬自2026年3月21日披露日起15個交易日後的3個月內，以集中競價方式減持不超過648.54萬股、大宗交易方式減持不超過648.54萬股，合計不超過1297.09萬股，佔公司總股本2%；近日其資金需求已解決，決定提前終止減持計劃，迄今未實施任何減持。劉江東仍持有5375.3萬股，佔8.29%；一致行動人四川金海馬實業有限公司持有4907.84萬股，佔7.57%；雙方合計持股1.03億股，佔15.86%。
-
----
-
-### 2026-06-01 18:48:00  #其他
-
-斯洛伐克1月至5月預算赤字31億歐元。
-
----
-
-### 2026-06-01 18:47:55  #公司
-
-【創新醫療：擬以5000萬元-1億元回購公司股份】創新醫療公告，擬以5000萬元-1億元回購公司股份，回購價格不超過20元/股。預計回購股份數量約為250萬股-500萬股，約佔公司已發行總股本的0.57%-1.13%。
-
----
-
-### 2026-06-01 18:47:48  #公司
-
-【中國中鐵：截至2026年5月末累計回購金額7.1億元】中國中鐵公告，公司此前披露擬以不低於8億元、不超過16億元回購公司A股股份，回購價格上限8.5元/股，回購股份將全部登出並減少註冊資本。截至2026年5月31日，公司透過集中競價交易累計回購股份1.36億股，佔公司總股本0.5498%，成交最高價5.75元/股，最低價4.87元/股，成交總金額7.1億元（不含交易費用）。
-
----
-
-### 2026-06-01 18:46:55  #公司
-
-【退市國化：控股股東中國文化產業發展集團完成增持3.86%股份】退市國化公告，公司控股股東中國文化產業發展集團有限公司已完成增持計劃，於2026年6月1日透過集中競價累計增持1693.13萬股，佔總股本3.86%，耗資4085.31萬元；增持前持股1.15億股，佔26.13%；增持後持股1.32億股，佔29.99%。此前計劃增持比例為不少於2%、不超過3.86%。
-
----
-
-### 2026-06-01 18:46:28  #MKT News #Market Regions #Emerging Markets
-
-Brazil finance minister Durigan said he will contact US officials this week to better understand the reasons the US designated Brazilian gangs as terrorist organizations.
-
----
-
-### 2026-06-01 18:46:27  #MKT News #Market Regions #Greater China
-
-Great Wall Motor said May vehicle sales totaled 100,399 units, down 1.79% YoY; cumulative January-May sales 475,815 units, up 3.64% YoY.
-
----
-
-### 2026-06-01 18:45:49  #市場
-
-【甲骨文美股盤前漲超4%】甲骨文美股盤前漲超4%，現報234.67美元。
-
----
-
-### 2026-06-01 18:45:36  #國際
-
-標普全球評級：經紀存款在歐洲銀行業中仍屬次要業務。
-
----
-
-### 2026-06-01 18:45:29  #公司
-
-【長城汽車：5月銷量10.04萬臺，同比下降1.79%】長城汽車公告，2026年5月產量11.04萬臺，去年同期10.19萬臺，同比增長8.38%；銷量10.04萬臺，去年同期10.22萬臺，同比下降1.79%。本年累計產量50.66萬臺，同比增長9.52%；累計銷量47.58萬臺，同比增長3.64%。5月海外銷售50688臺，1-5月累計銷售23.13萬臺；5月新能源車銷售30447臺，1-5月累計銷售11萬臺。
-
----
-
-### 2026-06-01 18:45:02  #MKT News #Important #Market Regions #Wall Street (US) #IBM.N #Impact bullish
-
-US-listed IBM (IBM.N) shares rose more than 10% in premarket trading.
-
----
-
-### 2026-06-01 18:44:35  #公司
-
-【科源製藥：濟南安富創業投資合夥企業擬轉讓531萬股，佔總股本4.90%】科源製藥公告，濟南安富創業投資合夥企業（有限合夥）計劃轉讓531萬股，佔公司總股本4.90%。此次轉讓不透過集中競價或大宗交易，受讓方為機構投資者。濟南安富創業投資合夥企業目前持有630萬股，佔總股本5.82%。轉讓原因為自身資金需求。
-
----
-
-### 2026-06-01 18:44:13  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Falls for 4th Session — India’s BSE Sensex gave up early gains to close about 0.7% down at 74,267 on Monday, marking the fourth straight session of declines. Uncertainty over a potential US–Iran deal, ongoing Middle East tensions, and continued foreign outflows, weighed on sentiment. Investors also looked ahead to four-day India–US talks on an interim trade pact starting today, aimed at finalizing details of the framework agreed in February, while caution prevailed ahead of the RBI’s monetary policy decision later this week and key GDP data. Meanwhile, India's manufacturing sector recorded stronger growth in May, with final figures surpassing flash estimates. Most sectors saw losses, particularly FMGC stocks, financials and autos. Meanwhile, stocks in IT sector and metal sector witnessed buying. Hindustan Unilever, ITC, NTPC, M&M, Kotak Bank and Bajaj Finance were the top losers, down between 1.7%-2.8%. Tech Mahindra, Infosys and TCS were the standout performers, rising 3.8%, 3.7% and 2%, respectively.
-
----
-
-### 2026-06-01 18:43:04  #公司
-
-【廣安愛眾：控股孫公司400MW奇台風電專案正式進入商業執行】廣安愛眾公告，控股孫公司奇臺縣恆眾新能源發電有限公司投資建設的400MW奇台風電專案已完成電網安全穩定執行要求的各項測試工作，於2026年6月1日正式進入商業執行。
-
----
-
-### 2026-06-01 18:43:00  #市場 #焦點
-
-【IBM美股盤前漲超10%】IBM美股盤前漲超10%，現報327.86美元。
-
----
-
-### 2026-06-01 18:42:54  #公司
-
-【海南礦業：發行股份收購洛陽豐瑞氟業的申請獲上交所受理】海南礦業公告，公司發行股份及支付現金購買資產並募集配套資金暨關聯交易的申請檔案已獲得上海證券交易所受理。公司擬透過發行股份及支付現金方式向王中喜、王琛和上海柏帝投資管理有限公司購買其合計持有的洛陽豐瑞氟業有限公司69.90%股權，並向不超過35名符合條件的特定投資者發行股份募集配套資金。
-
----
-
-### 2026-06-01 18:42:01  #公司 #觀點
-
-【咸亨國際：股東高盛亞洲戰略及咸亨集團擬合計減持不超3.6142%股份】咸亨國際(605056.SH)公告稱，股東高盛亞洲戰略計劃以集中競價及大宗交易方式減持不超過1070.65萬股，佔公司總股本的2.6152%；股東咸亨集團計劃以集中競價方式減持不超過409.00萬股，佔公司總股本的0.9990%。減持期間為公告披露之日起15個交易日後的3個月內，減持原因為自身資金需求。
-
----
-
-### 2026-06-01 18:41:18  #市場
-
-星座能源（Constellation Energy）宣佈配股後，其股價盤前下跌1.6%。
-
----
-
-### 2026-06-01 18:41:12  #國際
-
-巴西財長：政府將竭盡全力避免美國行動對環境造成影響。
-
----
-
-### 2026-06-01 18:40:53  #國際
-
-【塞普勒斯簽署防務協議 獲得歐盟融資支援】當地時間1日，塞普勒斯正式簽署歐盟“歐洲安全行動”相關協議，成為第六個加入該機制的歐盟成員國。歐盟理事會去年5月正式批准設立“歐洲安全行動”工具，為成員國採購安全與防務武器裝備提供總額達1500億歐元的金融支援。“歐洲安全行動”以利率優惠的長期貸款形式向有需求的歐盟成員國提供資金支援，35%的貸款可用於採購歐洲以外地區生產的武器零部件。（央視新聞）
-
----
-
-### 2026-06-01 18:40:29  #公司
-
-【友發集團：擬6.72億元收購滄州隆泰迪53%股權】友發集團公告，擬以現金交易方式使用自有資金向王春建、李金剛、孫麗與仉新鋼收購其持有的滄州隆泰迪53%股權，交易總金額為人民幣6.72億元。本次交易已經公司2026年6月1日召開的第五屆董事會第三十一次會議審議透過，無需提交公司股東會審議。本次交易不構成關聯交易，也不構成《上市公司重大資產重組管理辦法》規定的重大資產重組，本次交易實施不存在重大法律障礙。
-
----
-
-### 2026-06-01 18:40:20  #公司
-
-【唯特偶：股東杜宣減持觸及1%及5%整數倍，持股比例降至10%】唯特偶公告，持股5%以上股東杜宣因公司權益分派、股票期權激勵行權被動稀釋及主動減持，自2022年9月29日至2026年5月29日，持股比例由11.26%降至10.00%，觸及1%及5%整數倍。其中，杜宣於2026年5月22日至5月29日透過集中競價和大宗交易方式合計減持206.41萬股（佔總股本1.14%），被動稀釋0.12%。此前杜宣計劃自2026年5月22日至8月21日減持不超過373.56萬股（佔總股本3.00%），本次減持計劃尚未實施完畢。
 
 ---

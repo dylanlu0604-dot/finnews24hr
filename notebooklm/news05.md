@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 10:34:54_
-_本檔包含 3410 則快訊，約 699517 字_
+_更新時間：2026-06-06 11:25:05_
+_本檔包含 3422 則快訊，約 699812 字_
+
+---
+
+### 2026-06-01 18:53:37  #公司
+
+【天溯計量：以資本公積金向全體股東每10股轉增4股】天溯計量公告，公司2025年年度權益分派方案為：以總股本6521.74萬股為基數，向全體股東每10股派發現金股利人民幣6元，合計派發現金股利人民幣3913.04萬元；同時，以資本公積金每10股轉增4股，預計轉增股本2608.7萬股，轉增後公司總股本將增加至9130.43萬股。股權登記日為2026年6月5日，除權除息日為2026年6月8日。
+
+---
+
+### 2026-06-01 18:53:26  #其他
+
+【京東健康與寶寶樹簽署深度合作協議】據“京東健康黑板報”，5月31日，京東健康與寶寶樹正式簽署深度合作協議，雙方將圍繞兒童健康服務生態，實現內容、服務與產品的全面融合。
+
+---
+
+### 2026-06-01 18:53:03  #公司
+
+【雲中馬：持股5%以上股東擬減持不超2.93%股份】雲中馬公告稱，因自身資金需求，持股5.11%的股東雲中馬合夥擬透過大宗交易減持不超2656325股，即不超總股本的1.93%；持股5.34%的股東弘悅私募擬透過集中競價減持不超1375142股，即不超總股本的1.00%。減持期間為6月24日至9月23日，減持價格依市場價格而定。本次減持計劃存在多種不確定性，不會影響公司治理與經營。
+
+---
+
+### 2026-06-01 18:53:00  #公司 #市場
+
+【中央商場：股價異常波動 一季度營收降20.39%淨虧損699.23萬元】中央商場公告稱，公司股票2026年5月29日、6月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司、控股股東及實控人不存在應披露未披露重大資訊，目前生產經營正常。2026年一季度，公司營收51500.62萬元，同比下滑20.39%，淨虧損699.23萬元。2025年末資產負債率97.12%，未彌補虧損超實收股本總額三分之一。實控人祝義財及其控制的公司持股質押凍結比例均為100%。
+
+---
+
+### 2026-06-01 18:52:54  #MKT News
+
+Brazil's finance minister Durigan said interest rates need to be cut, saying the current cost of capital is too high.
+
+---
+
+### 2026-06-01 18:52:27  #MKT News
+
+Brazil's Finance Minister Durigan said GDP growth has exceeded expectations since 2023 and that Brazil must improve its fiscal position.
+
+---
+
+### 2026-06-01 18:52:12  #其他
+
+COSTCO WHOLESALE被DA DAVIDSON列入最佳供應商名單。
+
+---
+
+### 2026-06-01 18:51:16  #其他
+
+富國銀行將ARM目標股價從255美元上調至410美元。
+
+---
+
+### 2026-06-01 18:51:11  #MKT News #MSI.O #Impact mixed
+
+Motorola Solutions will acquire counter-drone leader D-Fend Solutions; transaction expected to close in Q4.
+
+---
+
+### 2026-06-01 18:50:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Chevron-led Tengiz Venture operations are close to normal; Tengizchevroil has resumed crude production after last week’s outage.
+
+---
+
+### 2026-06-01 18:50:31  #公司
+
+摩托羅拉將以15億美元收購D-Fend解決方案公司。
+
+---
+
+### 2026-06-01 18:50:24  #其他
+
+摩托羅拉系統將收購反無人機系統行業領軍企業D-Fend Solutions。
+
+---
+
+### 2026-06-01 18:50:06  #公司
+
+【皖通科技：定增募資總額由6億元下調至5.4億元】皖通科技公告，公司2025年度向特定物件發行股票方案進行調整，擬從原募集資金總額6億元中扣除財務性投資金額6000萬元，將募集資金總額下調至5.4億元。發行股票數量由不超過8379.89萬股相應下調至不超過7541.9萬股。發行物件為西藏騰雲投資管理有限公司和北京景源薈智企業管理諮詢合夥企業（有限合夥），募集資金扣除發行費用後全部用於補充流動資金。本次調整已獲公司第七屆董事會第六次會議審議透過，尚需深圳證券交易所稽核透過及中國證監會同意註冊。
+
+---
+
+### 2026-06-01 18:49:56  #其他
+
+非洲開發銀行行長：法國正推動增持非洲工業發展轉型署股權，這是非洲金融發展舉措的一部分。
+
+---
+
+### 2026-06-01 18:49:42  #其他
+
+由雪佛龍主導的田吉茲合資專案運營負荷即將恢復至正常水平。
+
+---
+
+### 2026-06-01 18:48:31  #市場 #國際
+
+印度SENSEX30指數收盤跌0.68%，報74267.34點。
+
+---
+
+### 2026-06-01 18:48:02  #公司
+
+【新金路：實際控制人劉江東提前終止減持計劃】新金路公告，公司第一大股東、實際控制人、董事長劉江東原擬自2026年3月21日披露日起15個交易日後的3個月內，以集中競價方式減持不超過648.54萬股、大宗交易方式減持不超過648.54萬股，合計不超過1297.09萬股，佔公司總股本2%；近日其資金需求已解決，決定提前終止減持計劃，迄今未實施任何減持。劉江東仍持有5375.3萬股，佔8.29%；一致行動人四川金海馬實業有限公司持有4907.84萬股，佔7.57%；雙方合計持股1.03億股，佔15.86%。
+
+---
+
+### 2026-06-01 18:48:00  #其他
+
+斯洛伐克1月至5月預算赤字31億歐元。
+
+---
+
+### 2026-06-01 18:47:55  #公司
+
+【創新醫療：擬以5000萬元-1億元回購公司股份】創新醫療公告，擬以5000萬元-1億元回購公司股份，回購價格不超過20元/股。預計回購股份數量約為250萬股-500萬股，約佔公司已發行總股本的0.57%-1.13%。
+
+---
+
+### 2026-06-01 18:47:48  #公司
+
+【中國中鐵：截至2026年5月末累計回購金額7.1億元】中國中鐵公告，公司此前披露擬以不低於8億元、不超過16億元回購公司A股股份，回購價格上限8.5元/股，回購股份將全部登出並減少註冊資本。截至2026年5月31日，公司透過集中競價交易累計回購股份1.36億股，佔公司總股本0.5498%，成交最高價5.75元/股，最低價4.87元/股，成交總金額7.1億元（不含交易費用）。
+
+---
+
+### 2026-06-01 18:46:55  #公司
+
+【退市國化：控股股東中國文化產業發展集團完成增持3.86%股份】退市國化公告，公司控股股東中國文化產業發展集團有限公司已完成增持計劃，於2026年6月1日透過集中競價累計增持1693.13萬股，佔總股本3.86%，耗資4085.31萬元；增持前持股1.15億股，佔26.13%；增持後持股1.32億股，佔29.99%。此前計劃增持比例為不少於2%、不超過3.86%。
+
+---
+
+### 2026-06-01 18:46:28  #MKT News #Market Regions #Emerging Markets
+
+Brazil finance minister Durigan said he will contact US officials this week to better understand the reasons the US designated Brazilian gangs as terrorist organizations.
+
+---
+
+### 2026-06-01 18:46:27  #MKT News #Market Regions #Greater China
+
+Great Wall Motor said May vehicle sales totaled 100,399 units, down 1.79% YoY; cumulative January-May sales 475,815 units, up 3.64% YoY.
+
+---
+
+### 2026-06-01 18:45:49  #市場
+
+【甲骨文美股盤前漲超4%】甲骨文美股盤前漲超4%，現報234.67美元。
+
+---
+
+### 2026-06-01 18:45:36  #國際
+
+標普全球評級：經紀存款在歐洲銀行業中仍屬次要業務。
+
+---
+
+### 2026-06-01 18:45:29  #公司
+
+【長城汽車：5月銷量10.04萬臺，同比下降1.79%】長城汽車公告，2026年5月產量11.04萬臺，去年同期10.19萬臺，同比增長8.38%；銷量10.04萬臺，去年同期10.22萬臺，同比下降1.79%。本年累計產量50.66萬臺，同比增長9.52%；累計銷量47.58萬臺，同比增長3.64%。5月海外銷售50688臺，1-5月累計銷售23.13萬臺；5月新能源車銷售30447臺，1-5月累計銷售11萬臺。
+
+---
+
+### 2026-06-01 18:45:02  #MKT News #Important #Market Regions #Wall Street (US) #IBM.N #Impact bullish
+
+US-listed IBM (IBM.N) shares rose more than 10% in premarket trading.
+
+---
+
+### 2026-06-01 18:44:35  #公司
+
+【科源製藥：濟南安富創業投資合夥企業擬轉讓531萬股，佔總股本4.90%】科源製藥公告，濟南安富創業投資合夥企業（有限合夥）計劃轉讓531萬股，佔公司總股本4.90%。此次轉讓不透過集中競價或大宗交易，受讓方為機構投資者。濟南安富創業投資合夥企業目前持有630萬股，佔總股本5.82%。轉讓原因為自身資金需求。
+
+---
+
+### 2026-06-01 18:44:13  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Falls for 4th Session — India’s BSE Sensex gave up early gains to close about 0.7% down at 74,267 on Monday, marking the fourth straight session of declines. Uncertainty over a potential US–Iran deal, ongoing Middle East tensions, and continued foreign outflows, weighed on sentiment. Investors also looked ahead to four-day India–US talks on an interim trade pact starting today, aimed at finalizing details of the framework agreed in February, while caution prevailed ahead of the RBI’s monetary policy decision later this week and key GDP data. Meanwhile, India's manufacturing sector recorded stronger growth in May, with final figures surpassing flash estimates. Most sectors saw losses, particularly FMGC stocks, financials and autos. Meanwhile, stocks in IT sector and metal sector witnessed buying. Hindustan Unilever, ITC, NTPC, M&M, Kotak Bank and Bajaj Finance were the top losers, down between 1.7%-2.8%. Tech Mahindra, Infosys and TCS were the standout performers, rising 3.8%, 3.7% and 2%, respectively.
+
+---
+
+### 2026-06-01 18:43:04  #公司
+
+【廣安愛眾：控股孫公司400MW奇台風電專案正式進入商業執行】廣安愛眾公告，控股孫公司奇臺縣恆眾新能源發電有限公司投資建設的400MW奇台風電專案已完成電網安全穩定執行要求的各項測試工作，於2026年6月1日正式進入商業執行。
+
+---
+
+### 2026-06-01 18:43:00  #市場 #焦點
+
+【IBM美股盤前漲超10%】IBM美股盤前漲超10%，現報327.86美元。
+
+---
+
+### 2026-06-01 18:42:54  #公司
+
+【海南礦業：發行股份收購洛陽豐瑞氟業的申請獲上交所受理】海南礦業公告，公司發行股份及支付現金購買資產並募集配套資金暨關聯交易的申請檔案已獲得上海證券交易所受理。公司擬透過發行股份及支付現金方式向王中喜、王琛和上海柏帝投資管理有限公司購買其合計持有的洛陽豐瑞氟業有限公司69.90%股權，並向不超過35名符合條件的特定投資者發行股份募集配套資金。
+
+---
+
+### 2026-06-01 18:42:01  #公司 #觀點
+
+【咸亨國際：股東高盛亞洲戰略及咸亨集團擬合計減持不超3.6142%股份】咸亨國際(605056.SH)公告稱，股東高盛亞洲戰略計劃以集中競價及大宗交易方式減持不超過1070.65萬股，佔公司總股本的2.6152%；股東咸亨集團計劃以集中競價方式減持不超過409.00萬股，佔公司總股本的0.9990%。減持期間為公告披露之日起15個交易日後的3個月內，減持原因為自身資金需求。
+
+---
+
+### 2026-06-01 18:41:18  #市場
+
+星座能源（Constellation Energy）宣佈配股後，其股價盤前下跌1.6%。
+
+---
+
+### 2026-06-01 18:41:12  #國際
+
+巴西財長：政府將竭盡全力避免美國行動對環境造成影響。
+
+---
+
+### 2026-06-01 18:40:53  #國際
+
+【塞普勒斯簽署防務協議 獲得歐盟融資支援】當地時間1日，塞普勒斯正式簽署歐盟“歐洲安全行動”相關協議，成為第六個加入該機制的歐盟成員國。歐盟理事會去年5月正式批准設立“歐洲安全行動”工具，為成員國採購安全與防務武器裝備提供總額達1500億歐元的金融支援。“歐洲安全行動”以利率優惠的長期貸款形式向有需求的歐盟成員國提供資金支援，35%的貸款可用於採購歐洲以外地區生產的武器零部件。（央視新聞）
+
+---
+
+### 2026-06-01 18:40:29  #公司
+
+【友發集團：擬6.72億元收購滄州隆泰迪53%股權】友發集團公告，擬以現金交易方式使用自有資金向王春建、李金剛、孫麗與仉新鋼收購其持有的滄州隆泰迪53%股權，交易總金額為人民幣6.72億元。本次交易已經公司2026年6月1日召開的第五屆董事會第三十一次會議審議透過，無需提交公司股東會審議。本次交易不構成關聯交易，也不構成《上市公司重大資產重組管理辦法》規定的重大資產重組，本次交易實施不存在重大法律障礙。
+
+---
+
+### 2026-06-01 18:40:20  #公司
+
+【唯特偶：股東杜宣減持觸及1%及5%整數倍，持股比例降至10%】唯特偶公告，持股5%以上股東杜宣因公司權益分派、股票期權激勵行權被動稀釋及主動減持，自2022年9月29日至2026年5月29日，持股比例由11.26%降至10.00%，觸及1%及5%整數倍。其中，杜宣於2026年5月22日至5月29日透過集中競價和大宗交易方式合計減持206.41萬股（佔總股本1.14%），被動稀釋0.12%。此前杜宣計劃自2026年5月22日至8月21日減持不超過373.56萬股（佔總股本3.00%），本次減持計劃尚未實施完畢。
 
 ---
 
@@ -20427,161 +20655,5 @@ Iran has begun supplying liquefied petroleum gas (LPG) to Pakistan via its rail 
 ### 2026-05-30 11:27:49  #其他
 
 北約軍事總司令：美方在軍事層面並無異動。
-
----
-
-### 2026-05-30 11:24:39  #其他
-
-【集採百元一盒藥 藥店竟賣3960元】2026年，第十一批國家藥品集採落地後，多款高價藥大幅降價。然而記者接到患者反映，在內蒙古呼和浩特的藥店，一盒集採的馬來酸阿伐曲泊帕片竟然售價高達3960元，而同規格藥品在全國多地藥店及線上平臺僅售百元左右，價差近40倍。記者走訪周邊多家藥店發現，同廠家同規格的馬來酸阿伐曲泊帕片，單片價格均在9元左右，價格與3960元每盒，單片藥價格高達396元的價格相差甚遠。（央視新聞）
-
----
-
-### 2026-05-30 11:24:36  #焦點 #國際
-
-【美防長：美中相互尊重和溝通對維護世界和平具有重要意義】當地時間30日，在香格里拉對話會第一次全體會議中，美國國防部長赫格塞思發表演講。他在回答中國軍事科學院專家提問時表示，美國與中國的相互尊重和溝通對維護地區乃至世界和平具有重要意義。赫格塞思說：“我認為雙方是相互尊重的，對彼此的能力與實力都有所認知，並認識到在當今世界，美中兩國該如何最有效地合作。我想向在座各位保證，這種互信是真實存在的，我認為這是實質性的，而且對於該地區乃至世界的和平歷史而言，這都具有深遠意義。”（央視新聞）
-
----
-
-### 2026-05-30 11:21:37  #其他
-
-【總投資超6億元 天津發布2025年度人工智慧十大應用標杆場景】5月29日，2026世界智慧產業博覽會期間，人工智慧創新與太空數智設施發展交流會在天開園舉行。會上，天津市2025年度人工智慧十大應用標杆場景正式釋出，涵蓋科研、製造、醫療、康養、教育、農業、治理、交通、文旅9大領域，總投資額超6億元。
-
----
-
-### 2026-05-30 11:19:22  #國際
-
-【贍養負擔重 日本“鰥寡離婚”增多】隨著日本老齡化日益嚴重，越來越多的日本人在配偶去世後還辦理“離婚”手續，即“死後離婚”。 所謂“死後離婚”，並非與去世的配偶離婚，而是與配偶的父母斷絕關係。《日本經濟新聞》28日報道，“死後離婚”數量自2015年開始上升，2017年達到4895起，隨後幾年緩慢減少，但2024年又達到4027起的小高峰。 （觀察者網）
-
----
-
-### 2026-05-30 11:14:06  #其他
-
-【麒麟軟體釋出兩款全新作業系統】5月29日，麒麟軟體在2026世界智慧產業博覽會上，釋出了麒麟工業作業系統V10、麒麟100智聯作業系統兩款全新產品，同時銀河麒麟端側智慧體“Kylinbot”也首次公開亮相，全方位展示了麒麟軟體在牽引AI前沿技術、打造先進計算算力底座方面的最新成果。
-
----
-
-### 2026-05-30 11:07:20  #MKT News
-
-A White House memorandum says President Trump is in excellent health, with heart, lungs, nervous system and overall bodily function assessed as robust.
-
----
-
-### 2026-05-30 11:07:12  #MKT News
-
-A White House memo shows President Trump continues to receive all appropriate preventive screenings and immunizations.
-
----
-
-### 2026-05-30 11:06:59  #國際
-
-白宮備忘錄：特朗普總統身體仍保持極佳健康狀態，心臟、肺部、神經功能及整體身體機能均表現強勁。
-
----
-
-### 2026-05-30 11:06:21  #國際
-
-白宮備忘錄：特朗普總統已及時完成所有合規預防性篩查與疫苗接種。
-
----
-
-### 2026-05-30 11:06:11  #MKT News
-
-White House memo shows President Trump underwent his annual physical on May 26, 2026.
-
----
-
-### 2026-05-30 11:03:42  #其他
-
-【林紅紅已任中國國際貿易促進委員會副會長】中國國際貿易促進委員會網站近日更新後顯示，林紅紅已任中國國際貿易促進委員會副會長、黨組成員。
-
----
-
-### 2026-05-30 11:01:50  #國際
-
-【印尼化肥產量盈餘 多國接觸採購計劃】印度尼西亞總統普拉博沃·蘇比延多近日表示，由於國內化肥產量出現盈餘，澳大利亞、印度、巴西和菲律賓等國已就採購印尼化肥與印尼方面接觸或達成初步意向。 訊息稱，澳大利亞已率先從印尼進口4.725萬噸尿素，金額約6000億印尼盾（約合2.3億元人民幣），並納入總量25萬噸的供貨框架協議，後續規模有望進一步擴大至50萬噸，印度方面亦提出約50萬噸化肥採購需求。
-
----
-
-### 2026-05-30 11:00:41  #其他
-
-【工信部裝備工業發展中心主任瞿國春：我國高階裝備產業國際競爭力顯著提升】5月30日，工業和資訊化部裝備工業發展中心主任瞿國春在2026裝備強國論壇上表示，經過十年發展，我國高階裝備產業的“跟跑在提速、並跑逐步增多、領跑加速湧現”，處於世界領先和世界先進水平的重點領域數量佔比達到60.8%，產業規模佔裝備製造業總體規模超過六成，高階裝備產業國際競爭力顯著提升。其中，智慧網聯新能源汽車、軌道交通裝備、電力裝備、資訊通訊裝置、新能源裝備、航天裝備、高技術船舶與海外工程裝備已處於世界領先地位，工程機械、建材裝備、計算機裝備等領域處於世界先進地位，工業母機、農機裝備、航空裝備、機器人、儀器儀表、半導體裝置、生物醫藥裝備等領域仍存差距。
-
----
-
-### 2026-05-30 10:58:18  #公司
-
-阿達尼集團：法律糾紛塵埃落定，公司可全力邁入下一發展階段。
-
----
-
-### 2026-05-30 10:56:31  #公司 #市場 #國際
-
-【韓國個股槓桿ETF引爆市場】27日，韓國首次推出個股槓桿ETF。16只掛鉤三星電子和SK海力士的2倍槓桿及反向ETF在韓國股市掛牌交易。隨著大量槓桿資金集中湧入，本週韓國股市震盪加劇，走出了“過山車”行情。資料顯示，相關產品上市首日，合計資產規模就達到了4.3萬億韓元。截至28日收盤，這一數字進一步攀升至5.02萬億韓元，約合人民幣225億元。此類個股槓桿ETF此前在韓國一直被明令禁止。如今一經推出，便吸引了大量散戶投資者踴躍參與。業內人士分析稱，韓國股市的這場槓桿熱潮，正是火爆的AI算力需求與金融投機情緒的一次劇烈碰撞。投資者在追求收益放大的同時，更應高度警惕高槓杆背後潛藏的疊加風險。（央視財經）
-
----
-
-### 2026-05-30 10:56:11  #公司
-
-【鞍鋼鋼軌產品透過RC+CRCC認證】據鞍鋼集團訊息，近日，鞍鋼鋼軌產品透過國推鐵路產品RC+CRCC認證，標誌著該類產品的技術效能、質量管控、全流程執行體系全面達到國家級鐵路產品准入標準，為進一步拓展鐵路市場、提升鞍鋼鋼軌品牌競爭力奠定了堅實基礎。
-
----
-
-### 2026-05-30 10:56:02  #MKT News #300750.SZ #Impact bullish
-
-【CATL chief scientist Wu Kai: sodium‑ion batteries to reach mass production this year; next focus lithium‑air R&D】Wu Kai, chief scientist at CATL and an academician of the Chinese Academy of Engineering, said CATL will put a series of sodium‑ion battery products into mass production this year, noting sodium‑ion batteries use more abundant, lower‑cost raw materials than lithium‑ion batteries. He said CATL will next focus on lithium‑air battery R&D; lithium‑air uses a lithium anode and ambient oxygen as the cathode reactant, offers ultra‑high theoretical energy density, and will be a focal point in next‑generation global battery competition.
-
----
-
-### 2026-05-30 10:51:22  #國際
-
-【受中東戰事波及 日本乙烯工廠開工率創新低】由於霍爾木茲海峽航運遇阻嚴重影響日本石油及其重要衍生品石腦油進口，日本4月乙烯工廠開工率創有可比資料以來新低。（新華社）
-
----
-
-### 2026-05-30 10:50:14  #MKT News #Market Regions #Greater China
-
-【State Council approves Hong Kong, Macau yachts' intra‑GBA free navigation】May 29 — The State Council approved immediate, temporary adjustments to the implementation of the Regulations on Customs Affairs Guarantees and the Regulations on Ship Registration to allow Hong Kong and Macau yachts to enter and exit the mainland via designated ports in the nine mainland Guangdong–Hong Kong–Macao Greater Bay Area cities without a customs guarantee and to obtain temporary vessel nationality registration, provided they remain limited to travel within those nine mainland GBA cities.
-
----
-
-### 2026-05-30 10:50:11  #其他
-
-【湖南衡陽通報“裝載氫氟酸罐車發生追尾危化品洩漏”：無人員傷亡】“衡陽釋出”訊息，湖南衡陽南嶽區應急管理局通報，5月30日7時24分，南嶽區南嶽鎮X051衡山路（高速連線線高架橋紅綠燈處），從江西九江運往衡陽的裝載氫氟酸罐車發生追尾，導致危化品洩漏，無人員傷亡。事故發生後，衡陽市立即啟動應急響應，市區兩級主要領導迅速趕赴現場，組織相關部門、專家及南嶽區對洩漏的危化品開展應急處置，對事故路段部分車道封閉，疏散周邊群眾，同時加強環境監測，全力確保環境安全。
-
----
-
-### 2026-05-30 10:49:16  #其他
-
-阿達尼企業將於6月24日舉行年度股東大會。
-
----
-
-### 2026-05-30 10:49:08  #公司
-
-【丹麥養老基金稱SpaceX被“嚴重高估”】據報道，丹麥“學界養老基金”（AkademikerPension）首席投資官安德斯·謝爾德（Anders Schelde）5月29日表示，SpaceX不僅被“嚴重高估”，而且還存在“災難性的公司治理結構”。SpaceX當前對IPO的目標估值至少為1.8萬億美元。
-
----
-
-### 2026-05-30 10:46:25  #焦點 #國際
-
-白宮釋出特朗普醫生的備忘錄：特朗普身體健康，能夠履行所有職責；沒有動脈阻塞或異常情況；小腿輕微腫脹，程度較2025年有所好轉。
-
----
-
-### 2026-05-30 10:45:25  #國際
-
-【盧拉：巴西將自行打擊有組織犯罪 拒絕外國干預】巴西總統盧拉當地時間29日表示，他對美國宣佈將巴西兩大犯罪團伙列為“外國恐怖組織”，並稱可以進行干預感到非常失望。盧拉表示，對巴西社會而言這些犯罪團伙是恐怖分子，但巴西會自行打擊有組織犯罪，無需美國干預，巴西不接受被當成“孩子”對待。當天巴西總統府釋出宣告強調，國家主權不容談判，巴西內政拒絕任何形式的外部干涉。（央視新聞）
-
----
-
-### 2026-05-30 10:41:09  #市場 #國際
-
-【亞洲大米價格5月飆升20%，戰爭與天氣威脅產量】亞洲大米價格在5月份創下近二十年來最大單月漲幅。由於天氣風險以及戰爭導致的能源和化肥成本飆升威脅到產量，未來價格可能進一步上漲。作為亞洲基準的泰國白米價格在5月份上漲了20%，這是自2008年有資料以來的最大月度漲幅。芝加哥期貨交易所的大米期貨價格本月也上漲了15%。惠譽解決方案旗下機構BMI的大宗商品分析師王彬鴻表示，價格將繼續走高。預計厄爾尼諾現象可能給亞洲部分地區帶來更炎熱、更乾燥的天氣，將進一步推高大米價格。
-
----
-
-### 2026-05-30 10:41:01  #MKT News
-
-【Asian rice prices jump 20% in May; war-driven input costs and El Nifio risk further upside】Asian rice prices surged in May, with Thailand white rice—the regional benchmark—up 20%, the largest monthly rise since 2008. Chicago Board of Trade rice futures gained about 15% this month. Drivers cited include weather risk and war-driven spikes in energy and fertilizer costs that threaten output and could push prices higher. Wang Binhong, commodity analyst at BMI (Fitch Solutions), said prices will continue to rise. Forecasts for El Nifio to bring hotter, drier conditions in parts of Asia would add further upward pressure.
 
 ---

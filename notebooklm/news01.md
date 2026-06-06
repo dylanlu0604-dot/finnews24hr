@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 10:34:54_
-_本檔包含 3892 則快訊，約 699708 字_
+_更新時間：2026-06-06 11:25:05_
+_本檔包含 3870 則快訊，約 700109 字_
+
+---
+
+### 2026-06-06 11:22:58  #國際
+
+【黎真主黨領導人斥停火是幌子】黎巴嫩、以色列、美國三方代表6月3日在華盛頓發表聯合宣告宣佈，黎以同意停火，前提是黎巴嫩真主黨徹底停止攻擊，並完全撤離利塔尼河以南地區，但連日來，以色列軍隊在黎巴嫩南部的軍事襲擊行動並未停息。黎巴嫩真主黨領導人納伊姆·卡西姆6月5日表示，當前的停火協議草案實際上是一份旨在消滅一部分黎巴嫩人民並使其餘民眾屈服的路線圖，將安全議程置於所謂“停火”的幌子之下，單方面要求黎真主黨停火和撤出利塔尼河南部地區，卻縱容以軍的侵略，無異於投降與戰敗。（CCTV國際時訊）
+
+---
+
+### 2026-06-06 11:22:28  #其他
+
+【廣州5月一二手住宅網籤超1.7萬套】剛過去的5月份，廣州一二手住宅一共網籤超1.7萬套。當中一手住宅網籤環比增25%，同比增15%；二手住宅網籤套數同比增加超8%。（南方都市報）
+
+---
+
+### 2026-06-06 11:16:17  #MKT News
+
+【Hubei safety office reports 23 fireworks cases, most involve illegal storage and operations】Hubei provincial safety office on June 6 published 23 typical cases from a full‑chain crackdown on illegal and noncompliant fireworks and firecrackers. Unlike prior confiscation‑and‑fine responses, most offenders in these cases received administrative detention of 2–10 days. Public security, emergency management and market regulators conducted joint enforcement and rolled out a 'five‑batch' rectification programme under the special enforcement campaign to tackle entrenched industry problems, uncover safety hazards and deter offenders' sense of impunity.
+
+---
+
+### 2026-06-06 11:12:43  #其他
+
+【湖北省安委辦通報23起煙花爆竹典型案例，多涉非法儲存經營】據湖北省應急管理廳公眾號“湖北應急管理”6月6日訊息，近日，湖北省安委辦集中通報了23起煙花爆竹全鏈條“打非治違”典型案例。與以往“沒收加罰款”不同，此次通報釋放出了極其嚴厲的懲戒訊號：在這23起案件中，絕大多數違法行為人均被公安機關依法處以2至10日不等的行政拘留。（澎湃）
+
+---
+
+### 2026-06-06 11:10:02  #其他
+
+【瑞幸咖啡“去冰”到手僅半杯?客服：空餘量會補齊，以門店實際製作為準】近日，有消費者反映在瑞幸咖啡下單超大杯拿鐵並選擇“去冰”後，到手飲品僅勉強過半杯。關於去冰的問題，瑞幸咖啡官方客服向新浪財經解釋稱，部分飲品支援去冰，去冰情況以門店實際製作為準，“若產品支援去冰，咖啡師製作時不再新增冰塊。飲品中空餘容量會採用產品主要原料補齊。由於少了冰塊稀釋，去冰款的口感和常規冰飲會略有區別。”另外，在瑞幸咖啡的點單介面底部也有小字作詳細解釋：大杯杯體容量約450ml，特大杯杯體容量約553ml，超大杯杯體容量約596ml。產品型別、屬性、手工操作等存在差異，“飲品容量以實際情況為準”。
+
+---
+
+### 2026-06-06 11:07:34  #MKT News
+
+【Russian presidential aide Ushakov says US has downgraded Ukraine issue】Russian presidential aide Ushakov said on the 5th at the 29th St. Petersburg International Economic Forum that the US has placed the Ukraine issue “in a secondary position,” to some extent withdrawing from what he called an issue “vital to Russia, irrelevant to the US.” He said Washington is currently prioritizing Iran and that, relative to the Biden administration, the Trump administration’s related policies show “minor adjustments.”
+
+---
+
+### 2026-06-06 11:05:55  #國際
+
+市場訊息：北約盟國磋商擬承諾向烏克蘭提供 700 億歐元軍事援助 。
+
+---
+
+### 2026-06-06 11:02:32  #其他
+
+【貴州省安順市委原書記楊昌鵬被查】據貴州省紀委監委訊息：貴州省安順市委原書記楊昌鵬涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-06 11:00:31  #市場
+
+【機構：預估6月電視與筆電面板價格持平，顯示器面板部分尺寸上漲】6月5日，TrendForce集邦諮詢公佈了6月面板價格趨勢預測：2026年6月，電視、筆電面板價格預計繼續持穩，顯示器面板價格保持漲勢。進入6月份，在提前備貨動能逐步趨緩下，MNT（顯示器）面板需求有開始下滑的跡象，加上電視面板價格走勢已轉為持平態勢，儘管面板廠仍想要持續維持MNT面板價格的全面上漲，但實際上要維持前幾個月漲幅的難度開始增加，在全尺寸產品上也難以看到全面上漲的態勢。目前預估6月份MNT面板價格走勢，23.8英寸FHD預估上漲0.2美元，27英寸FHD預估上漲0.1美元，其餘尺寸與規格皆轉為持平態勢。進入6月份，伴隨著CPU到貨，品牌客戶對筆電面板的需求稍有提升，因此6月份的筆電面板需求仍在穩定水平。不過就算在此情況下，面板廠商在平衡與品牌客戶關係的同時，也在擔憂下半年需求下滑的風險。為保持出貨動能的穩定，廠商普遍採取穩健的價格策略。因此目前預估6月份筆電面板價格走勢仍呈現全面持平的態勢。
+
+---
+
+### 2026-06-06 10:56:15  #其他
+
+【剛果（金）衛生部：埃博拉疫情仍存在社群傳播】剛果（金）衛生部5日釋出報告說，截至4日，剛果（金）本輪埃博拉疫情累計確診病例升至452例，82例死亡。報告說，4日在伊圖裡省和北基伍省報告71例新增確診病例，這表明本輪疫情仍存在快速、持續的社群傳播。 報告顯示，目前共有258名患者處於隔離或住院治療狀態，累計8人治癒。（新華社）
+
+---
+
+### 2026-06-06 10:53:41  #其他
+
+牙買加能源部長：牙買加全島遭遇停電。
+
+---
+
+### 2026-06-06 10:52:22  #其他
+
+【廣東A級納稅人近百萬戶 創歷史新高】廣東2025年度納稅繳費信用評價結果近日正式出爐：廣東地區(不含深圳)參評戶數達543萬戶，較上年增加87萬戶，同比增長19%；其中A級納稅人達95.4萬戶，同比增長115.80%，創歷史新高。（中新網）
+
+---
+
+### 2026-06-06 10:51:55  #公司
+
+【農銀匯理基金迎新“掌門人”：44歲孫建坤出任總經理，程昆因工作變動離任】農銀匯理基金管理有限公司公告稱，程昆因工作變動離任公司總經理職位，由孫建坤接任公司總經理一職，任職日期為2026年6月5日。事實上，此番總經理變更此前早有鋪墊。今年3月，農銀匯理基金公告稱，總經理程昆因近期參加集中培訓無法履職，公司董事會決定暫由董事長黃濤代行總經理職務，任職日期為3月13日。據悉，程昆將回歸農行總行。
+
+---
+
+### 2026-06-06 10:50:39  #國際
+
+印尼財長：印尼的財政狀況良好。
+
+---
+
+### 2026-06-06 10:50:38  #MKT News #Market Themes #AI Revolution
+
+【Chinese team identifies neural mechanism linking memory reactivation to sleep dynamics】Researchers at the Beijing Academy of Artificial Intelligence (BAAI) and Tsinghua University report that memory reactivation during sleep helps regulate sleep dynamics, providing experimental evidence of bidirectional memory–sleep interactions; the study is published in Science. BAAI said it has developed Brainμ0, a multimodal foundational model aimed at unifying heterogeneous, high-throughput, long-duration neural data, and will continue advancing the Brainμ series to integrate AI with cross-scale basic neuroscience research.
+
+---
+
+### 2026-06-06 10:47:06  #焦點 #國際
+
+【美軍稱伊朗7枚導彈射向科威特巴林】美軍中央司令部最新發宣告稱，美國東部時間6月5日（北京時間6月6日），美軍攔截了伊朗向霍爾木茲海峽及海灣鄰國發射的多枚彈道導彈和無人機。 宣告稱，伊朗向科威特和巴林發射了7枚彈道導彈。初步評估顯示，伊朗發射的7枚導彈中有6枚被攔截，第7枚偏離了預定目標。目前暫無美軍人員傷亡的報告，伊朗方面關於“擊中駐巴林美軍第五艦隊總部”的說法“是虛假的”。 宣告還稱，數小時前，美軍擊落了4架伊朗發射的、飛向霍爾木茲海峽的單向攻擊無人機——“這些攻擊無人機對地區海上交通構成了直接威脅。隨後，美軍對伊朗位於戈魯克和格什姆島的沿海監視雷達站發動了打擊，以防禦進一步的海上襲擊”。 宣告稱，美軍中央司令部部隊“繼續保持高度警惕，並做好持續應對伊朗無端侵略、實施自衛的準備”。（CCTV國際時訊）
+
+---
+
+### 2026-06-06 10:43:34  #央行 #國際
+
+印尼央行：將加強共同努力穩定印尼盾匯率。
+
+---
+
+### 2026-06-06 10:42:48  #MKT News #Market Themes #AI Revolution
+
+【China launches Langya 2.0 global ocean forecasting AI model】China's Institute of Oceanology at the Chinese Academy of Sciences released Langya 2.0 on June 6. The in-house, AI-driven large-scale model is designed to forecast global ocean phenomena and provide technological support for marine disaster prevention and reduction and for shipping safety.
+
+---
+
+### 2026-06-06 10:41:40  #宏觀 #其他
+
+【產品碳足跡核查機構認可制度釋出實施】記者今天瞭解到，經市場監管總局（國家認監委）批准，中國合格評定國家認可委員會（CNAS）近日釋出實施產品碳足跡核查機構認可制度。該制度對產品碳足跡核查機構的基本資格、人員能力、核查活動規範性以及獲得認可的程式作出規定。該制度實施後，將進一步規範產品碳足跡核查機構行為，提升產品碳足跡資料質量，助力健全我國產品碳足跡管理制度。（央視新聞）
+
+---
+
+### 2026-06-06 10:39:50  #其他
+
+【算得更快更準 全球海洋現象智慧預報大模型“琅琊”2.0釋出】今天（6月6日），由中國科學院海洋研究所自主研發的全球海洋現象智慧預報大模型——“琅琊”2.0釋出。該海洋預報大模型將為海洋防災減災、航運安全保障等提供智慧化科技支撐。全球海洋預報過去依賴數值模式，透過將海洋運動過程轉化為數值方程，並進行大規模計算得出結果。這種模式相對來說精度低，計算成本大，更新頻率低。智慧預報大模型主要解決兩個問題，一個是算得更快，一個是算得更準。（央視新聞）
+
+---
+
+### 2026-06-06 10:38:30  #MKT News #Market Themes #China Tech Giants #XPEV.O #Impact bearish
+
+【Xpeng senior robot product director said to have left; insider says progress 'smooth'】June 5 — Market reports say Xpeng senior director of robot product planning Shi Xiaoxin formally left in early June. Shi, who served 1,675 days, led the build-out of Xpeng’s humanoid product system and oversaw Pengxing Intelligent’s integration, team transfer into Xpeng Group and the Iron humanoid robot’s move from prototype to mass-production preparation. The departure has raised market concern over Iron’s mass-production timeline. An Xpeng insider said, “not sure (Shi) about the situation, our progress is going smoothly.”
+
+---
+
+### 2026-06-06 10:36:47  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #1211.HK
+
+【Rumors BYD humanoid robot "Yao Shun Yu" to be internally deployed 20,000 units this year; BYD denies】BYD said online reports that its in-house humanoid robot codenamed "Yao Shun Yu"—including claims the seventh-generation prototype is being tested at Shenzhen and Changsha, about 150 units are in operation, and the company aims to deploy 20,000 units internally this year—are not true. Earlier, BYD Executive Vice President Li Ke had said BYD is developing humanoid robots.
+
+---
+
+### 2026-06-06 10:35:51  #其他
+
+【中國鐵建中標深圳最大高鐵站 合同金額超64億元】近日，中國鐵建所屬中鐵建設、中鐵城建中標新建深圳西麗站及相關工程，合同金額超過64億元，施工內容主要包含主站房及東廣場高架層以上鋼結構及金屬屋面、屋頂和交通樞紐絲帶公園等。該專案是國家級“站—產—城”融合發展試點工程，深圳“五主五輔”鐵路客運樞紐核心工程，建成後將形成“4高鐵+2城際+4地鐵”多層次軌道交通組網布局，年傳送量規劃為7800萬人次，成為深圳市最大的高鐵樞紐與綜合軌道交通換乘中心。全線投用後，深圳至中山、廣州、東莞、惠州、深汕等大灣區城市出行壓縮至20分鐘到1小時，對深圳加快打造國家鐵路樞紐城市、增強粵港澳大灣區核心引擎功能具備重要支撐作用。
+
+---
+
+### 2026-06-06 10:35:46  #公司 #市場
+
+【英偉達新品被指記憶體容量“縮水”海內外儲存股應聲重挫】2026年以來，儲存上市公司市值不斷創新高，市場正在嘗試將儲存資產從傳統“週期股”轉變為“AI時代核心基礎設施資產”。在此估值切換視窗，海外調研機構SemiAnalysis一則關於英偉達新一代Vera Rubin AI伺服器平臺的記憶體降配、成本下降的研報，引發海內外儲存概念股集體回撥。據業內分析，本次報告中所指降配僅限於CPU側系統記憶體，與GPU算力核心並無關係，這是基於英偉達兼顧供應鏈、功耗、成本的多重戰略選擇。 (證券時報)
 
 ---
 
@@ -23261,281 +23405,5 @@ Federal Reserve data for the week of June 3: US non-seasonally adjusted commerci
 ### 2026-06-05 00:57:16  #MKT News #Commodities #Energy
 
 TASNIM NEWS reports Iran and Russia have signed a memorandum of understanding worth $25 bln to cooperate on nuclear energy. Iran's ambassador to Moscow said cooperation on major nuclear projects is expanding.
-
----
-
-### 2026-06-05 00:54:34  #國際
-
-特朗普：希望今年夏天簽署一項兩黨共同支援的大學體育法案。
-
----
-
-### 2026-06-05 00:54:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary Bessent said future waivers for Russian oil will be reviewed and approved on a country-by-country basis, and that such waivers help lower energy prices.
-
----
-
-### 2026-06-05 00:53:47  #國際
-
-特朗普：我敦促國會透過關於大學體育的最終法案。
-
----
-
-### 2026-06-05 00:53:39  #國際
-
-俄羅斯總統普京：俄羅斯與哈薩克的關係發展非常順利，正“蒸蒸日上”，但在所有議題上的討論卻總是激烈。
-
----
-
-### 2026-06-05 00:53:28  #公司 #市場
-
-【機構：Strategy出售比特幣繼續拖累價格】Strategy確認出售32個比特幣，這仍然是比特幣價格的一個壓力點——即使這只是該公司持有的比特幣儲備的一小部分。CoinMarketCap的資料顯示，Strategy仍持有超過84.3萬個比特幣，遠遠超過第二大儲備者Twenty One Capital持有的4.3萬多個比特幣。即便如此，此次出售還是讓投資者感到緊張。Grayscale Research的Zach Pandl在一份報告中表示：“全球最大的比特幣持有者之一的策略轉變，已經拖累了市場情緒。”Strategy負責人Michael Saylor一直主張大舉買入並持有比特幣。今日後市，比特幣下跌1.8%，至63,790美元。
-
----
-
-### 2026-06-05 00:53:28  #MKT News
-
-Putin said Russia's ties with Kazakhstan are developing smoothly and are "thriving," but discussions on every issue remain heated.
-
----
-
-### 2026-06-05 00:52:35  #市場
-
-倫敦金屬交易所三月期鈷收盤持平，報價每噸 56290 美元。
-
----
-
-### 2026-06-05 00:52:23  #其他
-
-倫敦金屬交易所三月期鋅收跌 22 美元，報每噸 3588 美元。
-
----
-
-### 2026-06-05 00:52:07  #MKT News
-
-U.S. Treasury Secretary Bessent said the current administration's stance toward Russia is tougher than that of any prior administration.
-
----
-
-### 2026-06-05 00:52:04  #其他
-
-倫敦金屬交易所三月期錫收跌 1664 美元，報每噸 55744 美元。
-
----
-
-### 2026-06-05 00:51:57  #國際
-
-以色列國防軍：以色列國防軍和以色列安全域性在週四深夜，在加沙地帶北部發動突襲，擊斃了哈馬斯“總安全機構”的高階成員。
-
----
-
-### 2026-06-05 00:51:51  #MKT News
-
-The Israel Defense Forces and Shin Bet conducted a late-night raid in the northern Gaza Strip on Thursday, killing a senior member of Hamas's General Security Organization.
-
----
-
-### 2026-06-05 00:51:50  #其他
-
-倫敦金屬交易所三月期鎳收跌 182 美元，報每噸 18689 美元。
-
----
-
-### 2026-06-05 00:51:32  #其他
-
-倫敦金屬交易所三月期銅收漲 107 美元，報每噸 13932 美元。
-
----
-
-### 2026-06-05 00:51:27  #其他
-
-倫敦金屬交易所三月期鋁收跌 38 美元，報每噸 3666 美元。
-
----
-
-### 2026-06-05 00:50:09  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed officials Schmid and Daly are scheduled to speak in 10 minutes, speaking sequentially.
-
----
-
-### 2026-06-05 00:50:09  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Citigroup Stock Price Hits 17-1/2-year High — Citigroup shares increased to 135.41 USD, the highest since November 2008. Over the past 4 weeks, Citigroup gained 5.77%, and in the last 12 months, it increased 76.6%.
-
----
-
-### 2026-06-05 00:49:48  #國際
-
-美國財長貝森特：傾向後續豁免措施將採取國別定製模式。
-
----
-
-### 2026-06-05 00:49:17  #市場 #國際
-
-【美國上週抵押貸款利率小幅下跌】上週，美國抵押貸款利率略有下降，因為賣家難以找到願意接受其報價的買家。據房地美資料，30年期固定貸款利率均值從6.53%降至6.48%。而一年前的同期，該利率為6.85%。隨著伊朗戰爭引發的經濟不確定性推高通脹預期，並導致住房貸款利率居高不下，銷售旺季正面臨高昂借貸成本的壓力。庫存增長速度超過需求，導致全國各地許多賣家難以吸引買家出價。Redfin房產經紀人Patricia Ammann表示，房價上漲的勢頭已不如五年前，因為高昂的汽油價格和生活成本的上升，使得潛在買家更不願推高房價。
-
----
-
-### 2026-06-05 00:49:14  #國際
-
-美國財長貝森特：俄羅斯石油豁免政策壓低了整體能源價格。
-
----
-
-### 2026-06-05 00:48:48  #國際
-
-美國財長貝森特：本屆政府對俄立場強硬程度超歷屆政府。
-
----
-
-### 2026-06-05 00:48:17  #MKT News #Macro & Rates #US10Y #Impact bullish #XAUUSD #S&P500 #Impact mixed
-
-【US mortgage rates ease slightly last week】US mortgage rates edged down last week as sellers struggled to find buyers, Freddie Mac data showed. The average 30-year fixed rate fell to 6.48% from 6.53% the prior week and 6.85% a year earlier. Uncertainty from the Iran conflict has lifted inf expectations and kept borrowing costs elevated, putting the peak selling season under pressure. Nationwide inventory growth is outpacing demand, leaving many sellers unable to attract bids, and high fuel and living costs are dampening buyers’ willingness to push prices, Redfin said.
-
----
-
-### 2026-06-05 00:48:10  #其他
-
-【巴克萊調查：固定收益投資者中使用AI最多的是對沖基金】巴克萊一項調查顯示，固定收益投資者中使用AI最多的是對沖基金，主要應用於研究和分析，而非交易和執行。這家英國銀行援引5月對400多家買方投資機構進行的調查稱，超過70%的對沖基金每天都會使用AI，而純多頭基金及資產所有者則相對落後，使用AI的比例分別為49%和38%。“我們認為，這種差距反映了不同的運營模式。對沖基金奉行節奏更快、換手率更高的策略，在這些策略中，速度與資訊處理能力對於獲取超額收益至關重要，”由Zornitsa Todorova和Andrea Diaz Lafuente牽頭的分析師團隊在報告中寫道。“相比之下，資產所有者的投資週期更長、流程更為結構化，因此對AI的採用過程也更為漸進。而純多頭基金則介於兩者之間，”他們寫道。其餘受訪者大多報告稱會定期使用AI。調查顯示市場正處於向AI過渡的階段，“對AI的使用不再是實驗性的，但尚未完全融入其中。”調查顯示，AI創造的大部分價值體現在研究、證券選擇和分析方面，而在投資組合構建或交易執行方面的滲透率極低。他們表示，AI目前主要扮演著“輔助投資者判斷的支援性角色”。對沖基金是AI應用最為領先的機構。證券篩選是最成熟的應用場景，在對沖基金和純多頭基金的受訪反饋中佔比達25%至26%，在資產所有者中佔比為20%。受訪者認為，AI最大的優勢之一是能夠大規模處理資料並加快決策速度。調查同時顯示，安全性和資料隱私是AI獲得更廣泛應用的主要制約因素。
-
----
-
-### 2026-06-05 00:47:07  #MKT News #Macro & Rates
-
-U.S. Treasury Secretary Bessent said he hopes today’s jobs-market data have been released and that he has not yet been briefed on tomorrow’s employment figures.
-
----
-
-### 2026-06-05 00:42:57  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
-
-Nasdaq narrows losses, down 0.12%.
-
----
-
-### 2026-06-05 00:42:52  #其他
-
-阿根廷經濟部長表示，13億美元天然氣管道專案、2.08億美元鋰專案已獲批享受稅收優惠機制。
-
----
-
-### 2026-06-05 00:41:04  #市場
-
-納斯達克指數跌幅收窄，最新下跌0.15%。
-
----
-
-### 2026-06-05 00:40:32  #國際
-
-美國財長貝森特：並不提前掌握明日將要釋出的非農就業資料。
-
----
-
-### 2026-06-05 00:40:13  #國際
-
-美國財長貝森特向眾議院小組委員會表態：我原本希望非農就業資料於今日出爐。
-
----
-
-### 2026-06-05 00:38:30  #公司
-
-【公募機構對直銷業務“做減法”】昨日，中科沃土基金髮布關於關閉直銷網上交易平臺、微信服務號部分業務服務的公告。公告顯示，中科沃土基金將於6月27日起關閉直銷網上交易平臺和微信服務號“中科沃土基金”的開戶、認購、申購（含定期定額投資）、基金轉換業務，贖回、查詢、銷戶等業務仍可正常辦理。記者就相關情況採訪中科沃土基金，該公司相關人士回應稱：“本次對直銷網上交易平臺及微信服務號提供的業務服務進行調整，主要是基於公司自身業務發展的安排。”近年來，公募機構直銷業務“做減法”的案例並不少見。舉例來說，去年下半年以來，諾安基金、申萬菱信基金、金鷹基金等多家公募機構釋出公告，暫停或終止旗下App移動客戶端的運營及維護服務，將相關功能及服務遷移至公司官方網站、微信服務號等。深圳市排排網基金銷售有限責任公司公募產品經理朱潤康對記者分析稱，公募機構收縮直銷業務或出於三方面考量：一是運營成本高、投入產出失衡，尤其對中小機構而言，自建App的維護成本與低迷的使用者活躍度難以匹配；二是使用者獲取與留存困難，單一公司App的產品豐富度和便利性通常不及大型代銷平臺；三是資源約束下的戰略聚焦，在資源有限時，部分機構選擇優先保障投研等核心能力，將規模拓展委託給代銷渠道，便於集中精力和資源專注投資主業。
-
----
-
-### 2026-06-05 00:38:11  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
-
-European Stocks Rebound — European stocks closed firmly higher on Thursday as a pullback in oil prices limited the magnitude of pro-inflationary risks faced by the European corporate sector. The Euro STOXX 50 added 0.8% to 6,103 and the STOXX Europe 600 gained 0.5% to 624. Israel and Lebanon signed a ceasefire agreement, part of the precedent for the Iran and the US to lift their blockade on commercial vessels that has triggered shortage risks on energy commodities. Banks closed firmly higher with Santander, Deutsche Bank and UniCredit adding between 1.5% and 3%. Aerospace stocks were also higher, with Airbus gaining 4.6%. Outside the Eurozone, HSBC lost nearly 2% after reports indicated that authorities have prohibited some Mainland China clients from opening Hong-Kong based accounts.
-
----
-
-### 2026-06-05 00:36:51  #其他
-
-市場訊息：哥倫比亞總統候選人塞佩達對哥倫比亞叫停修憲的決議表示讚許。
-
----
-
-### 2026-06-05 00:31:30  #市場 #央行 #國際
-
-【歐洲債市：歐洲政府債券小幅上漲 油價回落緩解通脹擔憂】歐洲政府債券小幅上漲，因為油價下跌緩解了市場對通脹風險的擔憂，促使交易員削減對歐洲央行年內加息的押注。德國國債收益率全線下跌約1個基點；兩年期德國國債收益率跌至2.66%，市場對美伊接近達成和平協議的樂觀預期推動油價下跌近3%。英國國債跑贏德國國債，英國兩年期國債收益率下跌4個基點至4.33%。短端收益率跌幅更大，推動收益率曲線牛市趨陡。交易員目前預計歐洲央行年內加息約66個基點，低於前一日預計的69個基點；市場已完全消化歐洲央行下週加息的預期。市場預計英國央行年內加息46個基點，低於週三預期的52個基點。投資者等待英國央行行長安德魯·貝利以及政策制定者Swati Dhingra週五的講話。市場：德國國債收益率跌1個基點，至3.03%。德國國債期貨漲4個基點，至125.63。義大利10年期國債收益率變化不大，報3.77%。義大利-德國國債利差擴大1個基點，至75個基點。法國10年期國債收益率變化不大，報3.67%。10年期英國國債收益率跌3個基點，至4.90%。
-
----
-
-### 2026-06-05 00:30:11  #其他
-
-中國地震臺網正式測定：06月05日00時19分在新疆伊犁州霍爾果斯市（北緯44.55度，東經80.54度）發生4.8級地震，震源深度17千米。
-
----
-
-### 2026-06-05 00:29:50  #其他
-
-英國國防部公佈三名直升機訓練失事遇難飛行員身份。
-
----
-
-### 2026-06-05 00:29:38  #其他
-
-市場訊息：前墨西哥總統支援現墨西哥總統辛鮑姆。
-
----
-
-### 2026-06-05 00:29:04  #市場
-
-INNIO在納斯達克上市首日開盤價為31美元，高於其27美元的首次公開發行價格。
-
----
-
-### 2026-06-05 00:27:29  #國際
-
-市場訊息：日本經濟產業省將於週五釋出修訂版方針草案。
-
----
-
-### 2026-06-05 00:26:41  #國際
-
-市場訊息：日本計劃至 2040 年代替換至多 5 座核反應堆。
-
----
-
-### 2026-06-05 00:25:18  #其他
-
-納斯達克100指數跌幅收窄至0.5%。
-
----
-
-### 2026-06-05 00:24:38  #國際
-
-歐洲地中海地震中心（EMSC）：哈薩克與新疆邊境地區發生5.8級地震。
-
----
-
-### 2026-06-05 00:24:14  #市場
-
-多倫多綜合股指上漲1.2%，突破週二創下的盤中歷史新高。
-
----
-
-### 2026-06-05 00:24:07  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.88 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 11.58%, and in the last 12 months, it decreased 17.51%.
-
----
-
-### 2026-06-05 00:23:24  #央行 #國際
-
-市場訊息：波士頓聯儲表示，伊朗戰爭對美國勞動力市場的衝擊預計有限。
-
----
-
-### 2026-06-05 00:23:16  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Axios reports the Boston Fed said the Iran war is expected to have only a limited impact on the U.S. labor market.
-
----
-
-### 2026-06-05 00:23:00  #其他 #焦點
-
-中國地震臺網自動測定：06月05日00時19分在新疆伊犁州霍爾果斯市附近（北緯44.52度，東經80.54度）發生5.0級左右地震，最終結果以正式速報為準。
 
 ---

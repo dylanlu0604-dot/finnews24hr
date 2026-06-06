@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 10:34:54_
-_本檔包含 3974 則快訊，約 699066 字_
+_更新時間：2026-06-06 11:25:05_
+_本檔包含 3974 則快訊，約 699202 字_
+
+---
+
+### 2026-06-03 21:14:20  #公司
+
+市場訊息：太空探索技術公司（SpaceX）計劃在首次公開募股中發行 5.556 億股股票 。
+
+---
+
+### 2026-06-03 21:12:54  #MKT News #Brent #Impact bullish #WTI
+
+Kuwait's Foreign Ministry said it will reduce the size of Iran's diplomatic mission in Kuwait following related attacks.
+
+---
+
+### 2026-06-03 21:12:26  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait's foreign ministry summoned Iran's chargé d'affaires and declared two Iranian diplomats persona non grata, citing "ongoing aggression".
+
+---
+
+### 2026-06-03 21:12:24  #其他
+
+【總投資300億元打造GW級綠電直連資料中心叢集 萬國資料與烏蘭察布市政府簽署戰略合作協議】6月3日，萬國資料與烏蘭察布市人民政府正式簽署戰略合作協議。根據規劃，萬國資料將於未來五年在烏蘭察布投資超過300億元，打造多個高密度資料中心園區和GW級資料中心園區，滿足智算客戶不同型別的業務部署需求，透過綠電直連、綠電交易等方式實現80%以上綠電覆蓋，形成規模化零碳資料中心叢集。
+
+---
+
+### 2026-06-03 21:12:15  #觀點
+
+【摩根士丹利即將開放萬億資管業務介面 接入各類人工智慧智慧體】摩根士丹利很快將向數千家企業的人工智慧智慧體開放旗下一條核心財富管理業務通道，這也是華爾街大型投行中較早對外接入第三方AI工具平臺的案例。 摩根士丹利職場業務首席產品官馬克·米切爾介紹，本次落地後，客戶側自主AI智慧體可繞開面向自然人設計的傳統軟體互動介面，直接從券商股權管理平臺ShareWorks、Equity Edge調取資料與分析結論。 米切爾表示：“在我們預判的未來業態中，企業客戶將不再手動登入ShareWorks與Equity Edge系統。” 取而代之的是，客戶在企業內網環境部署基於智慧體AI的工具，全程由AI程式自動對接摩根士丹利後臺平臺。 目前該行已向少量合作客戶開放試點接入許可權，計劃最晚於明年全面落地，覆蓋其3400家企業託管客戶。
+
+---
+
+### 2026-06-03 21:11:58  #國際
+
+科威特外交部：科威特傳召伊朗駐科代辦，因“持續侵略行為”宣佈兩名伊朗外交官為不受歡迎人物。
+
+---
+
+### 2026-06-03 21:11:39  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Approaches March-Lows — Gold prices fell below $4,500 per ounce on Wednesday, edging closer to the March lows touched last week, as expectations grew that central banks may need to adopt a more hawkish stance and keep interest rates higher for longer. Sentiment was also weighed by continued uncertainty over a US-Iran agreement to end the conflict. At the same time, oil prices extended their gains, further stoking concerns about inflationary pressures. In the US, recent labor market data point to an acceleration in employment growth, consistent with earlier ADP and JOLTS reports. As a result, markets now ECB is expected to raise borrowing costs next week, with traders also pricing in another 25-basis-point hike in September. Although gold is typically viewed as a hedge against inflation, it tends to lose appeal as a non-yielding asset when interest rates are high.
+
+---
+
+### 2026-06-03 21:11:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Poland's central bank governor Glapinski said unrealised gains on the central bank's gold reserves were about PLN153 bln.
+
+---
+
+### 2026-06-03 21:11:04  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Poland's central bank governor Glapinski confirmed a gold reserves target of 700 tonnes.
+
+---
+
+### 2026-06-03 21:10:43  #公司
+
+【貴州六盤水農商行獲批籌建】6月3日，國家金融監督管理總局貴州監管局官網披露了關於籌建貴州六盤水農村商業銀行股份有限公司（以下簡稱“貴州六盤水農商銀行”）的批覆，同意籌建貴州六盤水農商銀行。（中國證券報）
+
+---
+
+### 2026-06-03 21:10:40  #MKT News
+
+Polish central bank governor Glapinski said the country's gold reserves rose to 613 tonnes.
+
+---
+
+### 2026-06-03 21:10:06  #央行 #市場 #國際
+
+波蘭央行格拉平斯基：波蘭黃金儲備增至613噸。
+
+---
+
+### 2026-06-03 21:10:05  #MKT News
+
+Fox News: U.S. House Majority Leader Steve Scalise said he does not know what the outcome of the Iran war-powers vote will be and that many now believe the conflict is moving toward a peaceful outcome.
+
+---
+
+### 2026-06-03 21:09:32  #MKT News
+
+【BDI falls as capesize and panamax rates slide】Baltic Dry Index (BDI) fell 81 pts (2.5%) to 3,124 on Wednesday, pressured by weaker capesize and panamax rates. Capesize index dropped 206 pts (3.8%) to 5,253; capesize daily earnings fell $1,870 to $44,138. Panamax index declined 31 pts to 2,290; panamax daily earnings fell $282 to $20,607. Supramax index rose 6 pts to 1,583.
+
+---
+
+### 2026-06-03 21:09:29  #國際
+
+美國農業部表示，2026/27年度將向韓國出售13.6萬噸玉米。
+
+---
+
+### 2026-06-03 21:09:05  #其他
+
+市場訊息：英國西南部海軍直升機墜毀事件造成三人遇難。
+
+---
+
+### 2026-06-03 21:09:00  #觀點
+
+市場訊息： 摩根士丹利擬啟用智慧代理調取股票交易平臺資料 。
+
+---
+
+### 2026-06-03 21:08:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Ease After Record High — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday after the benchmark reached a record high in the previous session, as a fresh exchange of strikes between the US and Iran dampened hopes for a peace deal. Oil prices rose amid renewed doubts over the prospects of an agreement that could reopen the Strait of Hormuz, reviving concerns about energy-driven inflation and higher borrowing costs. Meanwhile, gold prices declined, pressuring mining stocks. In corporate news, Shopify announced that its board had approved an additional $3 billion share repurchase program. On the trade front, Canada's minister responsible for Canada-US trade, Dominic LeBlanc, said talks with US officials on the review of the countries' free trade agreement were constructive, though he provided few details on the discussions.
+
+---
+
+### 2026-06-03 21:08:46  #MKT News #Market Themes #AI Revolution #MS.O
+
+CNBC reports Morgan Stanley will allow AI agents to extract data from its equities platform.
+
+---
+
+### 2026-06-03 21:08:28  #國際
+
+市場訊息：美國眾議院多數黨領袖斯卡利斯就伊朗戰爭權力表決表示，我不知道結果將如何，現在有很多人認為（這場戰爭）正朝著和平方向發展。
+
+---
+
+### 2026-06-03 21:08:11  #市場 #國際
+
+【油價因美伊最新軍事交火而上漲】在美國和伊朗進一步交火後，原油期貨連續第三個交易日上漲，這讓人們對很快達成重新開放霍爾木茲海峽的協議的可能性產生更多懷疑。Ritterbusch & Associates在一份報告中表示，最新一輪襲擊增加了風險溢價，並使停火“幾乎毫無意義“。該機構補充說，整個夏季油價仍有望保持高位，“特別是考慮到美國總統特朗普的最新言論，即美國對霍爾木茲海峽的封鎖可能會持續到勞工節“。西得州中質油上漲2.5%，報每桶96.13美元；布倫特原油上漲2.3%，報每桶98.19美元。
+
+---
+
+### 2026-06-03 21:07:34  #國際
+
+英國外交、聯邦及發展事務部不再建議除必要事務外完全避免前往約旦，但仍建議不要前往距離敘利亞邊境3公里以內的地區。
+
+---
+
+### 2026-06-03 21:07:16  #MKT News
+
+The UK's Foreign, Commonwealth and Development Office said it no longer advises avoiding all but essential travel to Jordan, but continues to advise against travel to areas within 3 km of the Syrian border.
+
+---
+
+### 2026-06-03 21:07:01  #其他
+
+萊茵金屬：交易將於第四季度完成交割，仍需滿足若干前提條件。
+
+---
+
+### 2026-06-03 21:06:11  #其他
+
+路透調查：巴西雷亞爾未來6個月將貶值3.7%，至1美元兌5.20雷亞爾；未來12個月將貶值5.5%，至1美元兌5.30雷亞爾，5月調查時的預期為1美元兌5.25雷亞爾。墨西哥比索未來12個月將貶值3.6%，至1美元兌17.92比索，5月調查時的預期為1美元兌17.87比索。
+
+---
+
+### 2026-06-03 21:06:01  #MKT News #Market Regions #Emerging Markets #USDBRL #Impact bullish #USDMXN #DXY
+
+REUTERS SURVEY: The Brazilian real is expected to weaken 3.7% over six months to 1 USD = 5.20 BRL and 5.5% over 12 months to 1 USD = 5.30 BRL (May survey: 1 USD = 5.25 BRL). The Mexican peso is expected to weaken 3.6% over 12 months to 1 USD = 17.92 MXN (May survey: 17.87).
+
+---
+
+### 2026-06-03 21:05:47  #國際
+
+【阿曼外交部對針對巴林和科威特的襲擊表示譴責】阿曼外交部發布宣告，對針對巴林王國和科威特的襲擊表示譴責和強烈抗議，重申堅決反對任何可能破壞地區安全與穩定的軍事行為，特別是針對民用和關鍵設施的攻擊，這構成了對國際法的侵犯，並威脅到平民的安全。 阿曼還表示對巴林王國和科威特的全力支援，支援它們為維護自身安全與穩定、保護主權和領土完整所採取的措施。 阿曼重申呼籲各方保持克制，避免升級，尋求對話和外交手段來解決危機與爭端，以促進地區安全與穩定，避免地區進一步緊張和負面影響。
+
+---
+
+### 2026-06-03 21:05:35  #MKT News
+
+【Oman foreign ministry condemns attacks on Bahrain and Kuwait】Oman's foreign ministry issued a statement condemning and strongly protesting attacks on the Kingdom of Bahrain and Kuwait. It reiterated opposition to any military action that could undermine regional security and stability, particularly strikes on civilian and critical infrastructure, calling such acts violations of international law and a threat to civilian safety. Oman expressed full support for Bahrain and Kuwait in safeguarding their security, sovereignty and territorial integrity, and urged all parties to exercise restraint, avoid escalation and seek dialogue and diplomacy to resolve the crisis and prevent further regional tension.
 
 ---
 
@@ -23779,173 +23947,5 @@ Russia's Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkh
 ### 2026-06-02 19:50:53  #MKT News #INTC.O #Impact bullish #Nasdaq100
 
 【Intel CEO Chen Liwu says CPU demand rising, supply constrained】June 2, at Computex Taipei Intel CEO Chen Liwu said CPU demand is increasing while supply is constrained; over the past four weeks multiple company CEOs have called requesting more CPUs, which he called an opportunity for Intel. He added Intel has made significant progress in its wafer foundry business and is engaging many potential customers.
-
----
-
-### 2026-06-02 19:50:12  #其他
-
-【長安啟源再次回應A07追尾事故：事故車無鐳射雷達，光照不足或無法探測障礙物】針對濟廣高速“10·2”長安啟源A07追尾重型半掛車致3死交通事故，長安啟源官方6月1日再次回應，就該事故車輛的硬體配置及輔助駕駛系統的適用場景作出進一步說明。在回應中，長安啟源方面明確，事故車輛為長安啟源A07的2024款車型，搭載了上一代的IACC（整合式自適應巡航）系統，且該車沒有搭載鐳射雷達。對於該系統在複雜環境下的實際探測能力，長安啟源官方提示，IACC適合在高速公路或路況良好的道路上使用。若遇到天氣惡劣或視線不佳，如雨、霧、沙塵、光照不足等情況，系統可能無法探測到前方障礙物並做出有效響應。（新黃河）
-
----
-
-### 2026-06-02 19:49:57  #國際
-
-【伊朗稱過去24小時24艘船透過霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍2日表示，過去24小時內共有24艘船隻在獲得相關許可後，經革命衛隊協調並在其提供安全保障的情況下透過霍爾木茲海峽。
-
----
-
-### 2026-06-02 19:49:34  #宏觀 #公司 #資料
-
-【Meta在全球範圍擴大青少年內容管控】Meta 週二披露，正對旗下 Instagram、臉書、Messenger 全球青少年賬號擴容內容管控設定，保障未成年使用者獲取適配其年齡段的使用體驗；當下各大社交平臺因兒童身心健康與安全問題正面臨日趨嚴苛的監管審視。該管控方案去年 10 月率先在部分國家落地，初衷是阻隔未成年人接觸不適宜內容。Meta 同時在 Instagram 上線一項新功能，豐富青少年瀏覽內容品類，避免其反覆刷到同類主題內容。今年 4 月，Meta 向投資者警示，歐美多國圍繞青少年社交產品問題出臺的監管及訴訟阻力，或對公司經營與財務業績造成重大負面影響。在一起標誌性訴訟中，洛杉磯陪審團於 3 月 25 日裁定 Meta 與谷歌母公司 Alphabet 存在過失，認定二者旗下社交平臺產品設計損害未成年人身心健康，並向一名自述幼時沉迷社交媒體的 20 歲女性原告合計賠付 600 萬美元。
-
----
-
-### 2026-06-02 19:48:58  #央行 #國際
-
-【瑞士央行行長：未設定具體匯率目標 干預匯市意願增強】瑞士央行行長施萊格爾表示，該行並未設定具體的匯率目標。他重申了央行的立場，即其對瑞郎匯率進行干預的意願有所增強。他表示：“瑞士央行透過設定央行政策利率來確保適當的貨幣環境，並在必要時還會採取其他措施，比如干預外匯市場。但瑞士央行並不追求匯率目標。由於中東局勢的惡化，瑞郎面臨升值壓力，導致央行干預匯市意願增強。”
-
----
-
-### 2026-06-02 19:48:51  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-【Swiss National Bank chairman Schlegel: no explicit FX target; greater readiness to intervene】Swiss National Bank chairman Schlegel said the SNB has not set and is not pursuing a specific exchange-rate target, but its willingness to intervene in FX markets has increased. He said the bank uses its policy rate to secure appropriate monetary conditions and will employ other measures, including FX intervention if necessary, as deteriorating Middle East tensions are putting upward pressure on the Swiss franc.
-
----
-
-### 2026-06-02 19:48:20  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-A UK trade union said members employed by Bilfinger on North Sea assets operated by Ithaca Energy will strike in June over a pay dispute.
-
----
-
-### 2026-06-02 19:47:55  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Ease from Records — US equity futures eased from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. Contracts for the S&P 500 and Nasdaq 100 only inched down, but those for the Dow fell by over 200 points. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged nearly 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company.
-
----
-
-### 2026-06-02 19:47:46  #其他
-
-【T1000級小絲束碳纖維實現量產】中國石化6月2日宣佈，中國石化上海石化聯合上海石油化工研究院成功攻克溼法T1000級高效能碳纖維關鍵技術，並實現批次化生產，標誌著中國石化在高效能碳纖維領域取得里程碑式突破，將為我國關鍵領域發展提供材料支撐。（新華社）
-
----
-
-### 2026-06-02 19:47:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Magyar: If anti-corruption measures create a level playing field, more German investment will flow into Hungary.
-
----
-
-### 2026-06-02 19:47:41  #公司
-
-英國團結工會：受僱於比爾芬格公司、在伊薩卡能源運營的北海資產專案工作的團結工會會員，將在6月就薪酬糾紛發起罷工。
-
----
-
-### 2026-06-02 19:47:16  #公司
-
-英國團結工會：比爾芬格公司的海上作業工人將因薪資糾紛發起罷工。
-
----
-
-### 2026-06-02 19:46:20  #國際
-
-【紐西蘭防長涉核言論引發爭議，總理拉克森最新表態：將繼續堅持無核立場】據美國彭博社、紐西蘭廣播電臺等媒體報道，在紐西蘭國防部長克里斯·彭克稱就該國的無核立場進行討論將“有所助益”的言論引發爭議後，紐西蘭總理拉克森2日表示，紐西蘭將繼續堅持無核立場。（環球網）
-
----
-
-### 2026-06-02 19:46:02  #市場
-
-【美股雲端計算服務商股盤前走強】美股雲端計算服務商NEBIUS盤前再度走強，現拉昇漲超6%，該股昨天大漲超14%，股價勢創歷史新高；CoreWeave盤前漲超4%，昨天收漲近14%。
-
----
-
-### 2026-06-02 19:45:35  #MKT News
-
-【Zhanjiang maritime agency issues navigation warning for live-fire in South China Sea, June 3-4】Zhanjiang Maritime Safety Administration issued a navigation warning: parts of the South China Sea will conduct live-fire exercises June 3–4, daily 08:00–17:00; entry into the designated areas is prohibited.
-
----
-
-### 2026-06-02 19:45:27  #公司
-
-【艾布魯：特定股東擬合計減持公司不超1.23%股份】艾布魯(301259)6月2日公告，特定股東熊燕、鄧朝暉、吳學愚計劃15個交易日後的3個月內，以集中競價交易方式合計減持公司股份不超過191.55萬股（佔公司總股本比例1.23%）。
-
----
-
-### 2026-06-02 19:45:14  #其他
-
-【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，6月3日至4日，每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-06-02 19:44:34  #公司
-
-【羅平鋅電：全資子公司向榮礦業收到現場處理措施決定書】羅平鋅電公告稱，近日，其全資子公司向榮礦業收到普定縣應急管理局出具的《現場處理措施決定書》。檢查發現向榮礦業存在尾礦堆高超越壩頂、貯存尾礦超設計庫容，且《安全生產許可證》有效期屆滿等重大隱患。應急管理局責令其立即停止作業。目前向榮礦業選礦廠和尾礦庫已停產，若後續處理或整改緩慢，或無法辦理許可證延續，將對公司自產原料生產造成不利影響。公司將協助整改並辦理手續，促進其儘快復產。
-
----
-
-### 2026-06-02 19:43:49  #MKT News
-
-Crimean regional leader said President Putin has personally taken charge of and is overseeing the peninsula's gasoline shortage, and urged residents to remain patient and calm.
-
----
-
-### 2026-06-02 19:43:29  #公司
-
-【瀚藍環境：擬發行股份及支付現金收購粵豐環保100%股權，控股股東將變更為南海控股，持股比例將達19.61%】瀚藍環境公告，公司擬透過發行股份及支付現金方式購買廣東南海上市公司高質量發展股權投資基金合夥企業（有限合夥）100%財產份額，並以現金購買臻達發展有限公司持有的粵豐環保電力有限公司7.22%股份，最終實現對粵豐環保100%控股；同時擬向不超過35名特定投資者發行股份募集配套資金不超過12億元。本次交易對價合計29.98億元，其中股份支付比例43.21%，現金支付比例56.79%。交易完成後，公司控股股東由供水集團變更為南海控股，實際控制人仍為南海國資局。本次交易尚需公司股東大會審議及有權監管機構批准。
-
----
-
-### 2026-06-02 19:43:09  #MKT News
-
-Magyar said he was optimistic they could resolve the issue and open a new chapter in Ukraine-Hungary relations.
-
----
-
-### 2026-06-02 19:42:47  #其他
-
-俄控克里米亞地區負責人敦促半島民眾在汽油短缺期間保持耐心與冷靜。
-
----
-
-### 2026-06-02 19:42:46  #MKT News
-
-Hungarian Prime Minister Magyar said he is prepared to meet Ukrainian President Zelenskiy early next week if technical talks on ethnic minority rights conclude this week.
-
----
-
-### 2026-06-02 19:42:40  #國際
-
-俄控克里米亞地區負責人表示，普京總統已將該半島的汽油短缺問題親自督辦。
-
----
-
-### 2026-06-02 19:42:10  #宏觀
-
-【劉國中在河北調研時強調 毫不放鬆抓好“三夏”生產 紮實有效開展常態化監測幫扶】中共中央政治局委員、國務院副總理劉國中1日至2日到河北調研。他強調，要深入學習貫徹習近平總書記關於“三農”工作的重要指示批示精神，按照黨中央、國務院部署，毫不放鬆抓好“三夏”生產，夯實全年糧食豐收基礎，紮實有效開展常態化監測幫扶，持續鞏固拓展脫貧攻堅成果，為鄉村全面振興、經濟社會高質量發展打下堅實基礎。（新華社）
-
----
-
-### 2026-06-02 19:41:56  #國際
-
-匈牙利總理毛焦爾表示，如果少數族裔權利的技術性談判能在本週結束，我已準備好於下週初與澤連斯基總統會面。
-
----
-
-### 2026-06-02 19:41:35  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Russian Defence Ministry said it struck defence-industrial facilities in multiple regions of Ukraine.
-
----
-
-### 2026-06-02 19:40:48  #MKT News
-
-Abu Dhabi Ports has agreed to buy Brazilian terminal operator CLI for more than AED 3 billion, market sources said.
-
----
-
-### 2026-06-02 19:40:40  #MKT News #Market Regions #Europe & UK
-
-【Ren Hongbin meets UK–China Trade Association chairman Wu Sitian】Ren Hongbin, chairman of the China Council for the Promotion of International Trade, met in Beijing on June 2 with Wu Sitian, chairman of the UK–China Trade Association, and CEO Peter Bai. They discussed boosting China‑UK business engagement, strengthening institutional cooperation, facilitating bilateral investment and third‑market joint projects, and deepening cross‑border industrial‑chain and supply‑chain cooperation.
 
 ---
