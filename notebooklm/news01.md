@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:03:56_
-_本檔包含 3656 則快訊，約 701053 字_
+_更新時間：2026-06-07 02:38:41_
+_本檔包含 3656 則快訊，約 701322 字_
+
+---
+
+### 2026-06-07 02:24:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IDF says killed Hamas commander in southern Gaza】The Israel Defense Forces said a nighttime airstrike in southern Gaza on June 6 killed a Hamas military commander. The IDF said the commander had planned multiple recent attacks on Israeli forces and posed a direct threat to IDF deployments. Hamas did not immediately respond.
+
+---
+
+### 2026-06-07 02:24:02  #國際
+
+【以軍稱在加沙南部打死一名哈馬斯指揮官】當地時間6日，以色列國防軍表示，以軍當天夜間在加沙地帶南部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的一名軍事指揮官。以軍表示，該指揮官在衝突期間以及最近幾天參與策劃多起針對以軍部隊的襲擊行動，對以軍在當地的部署構成直接威脅。對此，哈馬斯方面暫無回應。（央視新聞）
+
+---
+
+### 2026-06-07 02:21:45  #國際
+
+【伊朗媒體：哈爾克島附近居民聽到爆炸聲】據多家伊朗媒體報道，伊朗哈爾克島附近的居民6日晚稱聽到強烈爆炸聲。（新華社）
+
+---
+
+### 2026-06-07 02:20:24  #國際
+
+伊朗國家電視臺：今日一艘船隻未與伊朗方面協調，試圖通行霍爾木茲海峽，隨即遭到襲擾。另有三艘船隻在收到伊朗警告後返航。
+
+---
+
+### 2026-06-07 02:19:44  #國際
+
+【以軍稱打擊黎巴嫩南部約150處真主黨目標】當地時間6日，以色列國防軍表示，在5日、6日兩天，以軍在黎巴嫩南部對約150處真主黨武裝基礎設施實施空襲和火力打擊。以軍稱，打擊目標包括武器儲存點、指揮中心、火箭發射裝置以及其他用於開展軍事行動的設施。以軍表示，這些設施被真主黨用於策劃和實施針對以軍部隊的襲擊。（央視新聞）
+
+---
+
+### 2026-06-07 02:17:41  #MKT News #WTI #Brent
+
+TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions.
+
+---
+
+### 2026-06-07 02:16:13  #國際
+
+伊朗塔斯尼姆通訊社表示，哈爾克島聽到的爆炸聲與受控彈藥銷燬爆破有關。
+
+---
+
+### 2026-06-07 02:14:13  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Fars news agency reported explosions were heard near Kharg Island.
+
+---
+
+### 2026-06-07 02:14:07  #國際
+
+克里姆林宮：烏克蘭特別軍事行動的結果對華盛頓已變得清楚。
+
+---
+
+### 2026-06-07 02:13:54  #國際
+
+【巴勒斯坦官方機構：以方5月在約旦河西岸實施超1600起襲擊】巴勒斯坦官方機構“巴勒斯坦隔離牆和定居點抵抗委員會”6月6日釋出月度報告稱，今年5月份，以色列軍隊和以色列猶太人定居者在約旦河西岸共實施1659起襲擊事件。巴方表示，襲擊呈系統性升級趨勢，嚴重影響當地居民生活和農業生產。（央視新聞）
+
+---
+
+### 2026-06-07 02:13:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Global oil inventories at risky lows; another price spike could hit markets and economy】With no agreement restoring passage through the Strait of Hormuz, global oil inventories have fallen to dangerously low levels. JP Morgan warns that unless transit is normalized, oil could surge again in late June. U.S. crude stocks have declined for eight straight weeks to their lowest since Feb 2024. Analysts say the second-round price shock risk stems from the depletion of buffer stocks rather than a formal closure; investors see the Strait as a persistent geopolitical bottleneck and expect prices to remain above $70 even if tensions ease. Higher oil is a modest headwind for U.S. growth but poses greater inflationary risk for Europe and Asia; if crude averaged $120/bbl for a year, growth in the U.S. could slow by roughly 0.4 percentage point.
+
+---
+
+### 2026-06-07 02:13:15  #國際
+
+伊朗法爾斯通訊社稱，哈格島附近聽到爆炸聲。
+
+---
+
+### 2026-06-07 02:12:03  #公司 #焦點
+
+谷歌為安卓系統推出AI虛假來電檢測功能，應對日益增多的電信詐騙。
+
+---
+
+### 2026-06-07 02:11:51  #其他 #焦點
+
+微軟警告稱，Claude Code 存在漏洞，可能導致GitHub賬號憑證洩露。
+
+---
+
+### 2026-06-07 02:07:21  #國際
+
+真主黨襲擊了黎巴嫩南部納巴蒂耶省亞穆爾·沙基夫鎮附近的一輛以色列軍用車輛。
+
+---
+
+### 2026-06-07 02:07:19  #MKT News
+
+HEZBOLLAH attacked an Israeli military target near the town of Yakhmour Shakif in Nabatieh, southern Lebanon.
 
 ---
 
@@ -21987,101 +22083,5 @@ Sri Lanka Tourist Arrivals Recover in May — The number of foreign tourist arri
 ### 2026-06-05 08:17:39  #市場 #國際
 
 【創紀錄干預匯市後 日本5月份持有外國證券的金額大減近760億美元】在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。截至5月底，外匯儲備總額降至1.09萬億美元。外幣存款基本持平，為1620億美元。日本先前公佈的資料顯示，在截至5月28日的一個月內，動用了創紀錄的11.73萬億日元(734億美元)來干預外匯市場。一位知情人士證實，在日元兌美元匯率跌至160.72後，當局在4月30日買入了日元，市場也普遍猜測隨後幾天又進行了多輪買入日元的操作。
-
----
-
-### 2026-06-05 08:16:58  #公司 #市場 #國際
-
-【韓國股市一度重挫5% 晶片股隨美國同業下滑】韓國Kospi指數一度暴跌5%，連續第二天走低，在隔夜美國晶片股下跌後，韓國相關業者股價也走低。SK海力士、三星電子和SK Square領跌。美國晶片股指數週四收跌2.2%，其中美光科技下跌7.7%。韓國小盤股Kosdaq指數一度下跌2.9%。週五早盤，韓國股市成為亞洲跌幅最大的股市，MSCI亞太指數下跌約1%。
-
----
-
-### 2026-06-05 08:16:17  #市場 #焦點
-
-紐約期金失守4480美元/盎司，日內跌0.56%。
-
----
-
-### 2026-06-05 08:16:06  #市場 #國際
-
-歐洲斯托克50指數期貨下跌0.1%，德國DAX指數期貨下跌0.4%，富時指數期貨上漲0.1%。
-
----
-
-### 2026-06-05 08:15:40  #MKT News
-
-Nikkei, citing Japan’s Ministry of Finance data published June 5, reports Japan’s foreign-exchange reserves were $1.306 trillion (about ¥209 trillion) at end‑May, down 5.6% from end‑April — the largest recorded monthly decline, reflecting government FX intervention.
-
----
-
-### 2026-06-05 08:15:16  #其他
-
-【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，6月5日至6月6日，每日13時30分至15時30分，南海部分海域進行火箭發射，禁止駛入。
-
----
-
-### 2026-06-05 08:14:35  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌5％，至8207.09點。三星跌6.5%，SK海力士跌超8%。
-
----
-
-### 2026-06-05 08:14:33  #MKT News #Important #005930.KS #Impact bearish #000660.KS #Nasdaq100
-
-【KOSPI plunges 5%】KOSPI extended losses to 5%, with Samsung Electronics down 6.5% and SK Hynix off more than 8%. Nasdaq futures fell nearly 1%, and major chip stocks were broadly lower in U.S. after-hours trade.
-
----
-
-### 2026-06-05 08:13:10  #市場
-
-納斯達克期貨跌幅擴大，下跌0.9%；標普500期貨下跌0.44%。
-
----
-
-### 2026-06-05 08:12:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Punchbowl reports the U.S. House passed a package providing aid to Ukraine and imposing sanctions on Russia.
-
----
-
-### 2026-06-05 08:12:29  #公司
-
-【華爾街預計到2030年SpaceX的人工智慧業務收入將增長100倍】華爾街研究分析師告訴SpaceX首次公開募股(IPO)的潛在投資者，模型預計該公司人工智慧(AI)部門收入將在本十年末增長100倍，以此來證明1.8萬億美元的目標估值是合理的。據一位知情人士透露，Evercore ISI研究分析師預計，SpaceX的AI部門到2031年銷售額將達到7550億美元，遠高於去年的32億美元。知情人士還表示，研究團隊預計到2031年的總收入將超過1萬億美元，而2025年的收入為187億美元。由於資訊尚未公開，知情人士要求匿名。
-
----
-
-### 2026-06-05 08:11:54  #宏觀 #觀點
-
-【中信建投：多使用者綠電直連政策釋出 促進新能源就地消納】中信建投研報認為，近期，國家發改委及能源局聯合釋出《有序推動多使用者綠電直連發展有關事項的通知》。多使用者綠電直連是指風電、太陽能發電、生物質發電等新能源發電不直接接入公共電網，透過專用線路和變電設施向多個使用者供給綠電，實現供給電量清晰溯源和分配的模式。《通知》明確新建負荷、存量負荷（單使用者綠電直連專案、綠電需求使用者以及零碳園區、增量配電網等）均可開展多使用者綠電直連。同時，《通知》支援尚未開展電網接入工程建設的新能源發電專案，以及因新能源消納受限等原因無法併網的新能源發電專案開展多使用者綠電直連，為其開闢電力消納通道。總體來看，多使用者綠電直連降低了綠電直連專案的開展門檻，促進新能源就近就地消納，降低棄風棄光壓力。
-
----
-
-### 2026-06-05 08:11:43  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Prime Minister Takaichi said her economic policy is intended to strengthen Japan's economic capacity and is not aimed at manipulating the yen.
-
----
-
-### 2026-06-05 08:11:23  #國際
-
-日本首相高市早苗：我的經濟政策旨在提升日本的經濟實力，而非操縱匯率。
-
----
-
-### 2026-06-05 08:11:16  #國際
-
-日本首相高市早苗：投資策略將有助於維持日元信心。
-
----
-
-### 2026-06-05 08:10:52  #市場 #國際
-
-30年期日本國債收益率上升1個基點，至3.890%。
-
----
-
-### 2026-06-05 08:10:39  #MKT News #Important
-
-Korea Exchange triggered a KOSPI circuit breaker after KOSPI 200 futures fell 5%; program trading was suspended for 5 minutes.
 
 ---

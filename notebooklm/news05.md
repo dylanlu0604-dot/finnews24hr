@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:03:56_
-_本檔包含 3517 則快訊，約 700815 字_
+_更新時間：2026-06-07 02:38:41_
+_本檔包含 3513 則快訊，約 701145 字_
+
+---
+
+### 2026-06-01 21:20:02  #Trading Economics #Markets #Commodity #Importance 0
+
+Lithium Holds Retreat from 2-Year High — Lithium carbonate prices in China were near CNY 180,000 per tonne, below the two-year high of CNY 200,500 from May 13th as higher prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027.
 
 ---
 
@@ -21206,35 +21212,5 @@ Al Jazeera reported the Israeli Interior Ministry said it will close schools in 
 ### 2026-05-31 02:39:51  #其他
 
 【我國成功發射衛星網際網路技術試驗衛星】5月31日02時07分，我國在西昌衛星發射中心使用長征二號丁運載火箭，成功將衛星網際網路技術試驗衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 衛星網際網路技術試驗衛星主要用於開展手機寬頻直連衛星、天地網路融合等技術試驗驗證。 這次任務是長征系列運載火箭的第646次飛行。（新華社）
-
----
-
-### 2026-05-31 02:38:28  #國際
-
-自6月1日起，印度調整燃油出口暴利稅。
-
----
-
-### 2026-05-31 02:36:21  #國際
-
-【美軍稱向一艘試圖駛向伊朗船隻發射“地獄火”導彈】當地時間5月30日，美軍中央司令部發表宣告稱，5月29日，美軍在阿曼灣執行封鎖措施時，打擊一艘試圖駛向伊朗港口的甘比亞籍船隻。宣告稱，美軍在國際水域監測到“Lian Star”號貨船正駛向阿曼灣沿岸的一處伊朗港口，美軍隨即向該船發出20多次警告，並告知其此舉已違反美國的封鎖令。在船員未遵守指令後，一架美軍飛機向該船發動機艙發射“地獄火”導彈，使該船停止駛向伊朗。美軍中央司令部稱，在與伊朗停火仍然有效的情況下，美軍已打擊5艘商業船隻，並改道116艘船隻，以全面執行封鎖措施。（央視新聞）
-
----
-
-### 2026-05-31 02:27:51  #國際
-
-【伊朗稱對霍爾木茲海峽航運實施全面管理】據伊朗邁赫爾通訊社30日報道，伊朗武裝部隊哈塔姆安比亞中央總部說，伊朗對霍爾木茲海峽航運實施全面管理，所有商業船舶、油輪及其他民用船隻須按照指定航線航行，並提前獲得伊朗伊斯蘭革命衛隊海軍許可。伊朗武裝部隊哈塔姆安比亞中央總部說，鑑於霍爾木茲海峽航道管理具有統一性，所有船舶必須遵守伊方制定的通行規定，任何違反相關規定的行為都可能對其航行安全造成嚴重影響。該總部同時警告稱，任何外國軍艦如試圖干預霍爾木茲海峽管理事務或阻礙海上交通秩序，伊朗武裝力量將採取相應行動。（新華社）
-
----
-
-### 2026-05-31 02:19:32  #國際
-
-美國聯邦調查局將“反科技極端主義”定性為國內安全威脅，並加大對人工智慧基礎設施的聯邦扶持力度。
-
----
-
-### 2026-05-31 02:06:46  #國際
-
-【美軍發射導彈攔截船隻，實施對伊朗相關航道管控】美國中央司令部發布宣告稱，5月29日，一架美軍戰機向一艘駛往伊朗港口的甘比亞籍船隻的輪機艙發射地獄火導彈，致使該船失去航行能力。中央司令部表示，部署在阿曼灣的美軍部隊完成了此次攔截行動。
 
 ---

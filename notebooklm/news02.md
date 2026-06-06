@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:03:56_
-_本檔包含 3959 則快訊，約 700850 字_
+_更新時間：2026-06-07 02:38:41_
+_本檔包含 3960 則快訊，約 701360 字_
+
+---
+
+### 2026-06-05 08:16:58  #公司 #市場 #國際
+
+【韓國股市一度重挫5% 晶片股隨美國同業下滑】韓國Kospi指數一度暴跌5%，連續第二天走低，在隔夜美國晶片股下跌後，韓國相關業者股價也走低。SK海力士、三星電子和SK Square領跌。美國晶片股指數週四收跌2.2%，其中美光科技下跌7.7%。韓國小盤股Kosdaq指數一度下跌2.9%。週五早盤，韓國股市成為亞洲跌幅最大的股市，MSCI亞太指數下跌約1%。
+
+---
+
+### 2026-06-05 08:16:17  #市場 #焦點
+
+紐約期金失守4480美元/盎司，日內跌0.56%。
+
+---
+
+### 2026-06-05 08:16:06  #市場 #國際
+
+歐洲斯托克50指數期貨下跌0.1%，德國DAX指數期貨下跌0.4%，富時指數期貨上漲0.1%。
+
+---
+
+### 2026-06-05 08:15:40  #MKT News
+
+Nikkei, citing Japan’s Ministry of Finance data published June 5, reports Japan’s foreign-exchange reserves were $1.306 trillion (about ¥209 trillion) at end‑May, down 5.6% from end‑April — the largest recorded monthly decline, reflecting government FX intervention.
+
+---
+
+### 2026-06-05 08:15:16  #其他
+
+【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，6月5日至6月6日，每日13時30分至15時30分，南海部分海域進行火箭發射，禁止駛入。
+
+---
+
+### 2026-06-05 08:14:35  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌5％，至8207.09點。三星跌6.5%，SK海力士跌超8%。
+
+---
+
+### 2026-06-05 08:14:33  #MKT News #Important #005930.KS #Impact bearish #000660.KS #Nasdaq100
+
+【KOSPI plunges 5%】KOSPI extended losses to 5%, with Samsung Electronics down 6.5% and SK Hynix off more than 8%. Nasdaq futures fell nearly 1%, and major chip stocks were broadly lower in U.S. after-hours trade.
+
+---
+
+### 2026-06-05 08:13:10  #市場
+
+納斯達克期貨跌幅擴大，下跌0.9%；標普500期貨下跌0.44%。
+
+---
+
+### 2026-06-05 08:12:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Punchbowl reports the U.S. House passed a package providing aid to Ukraine and imposing sanctions on Russia.
+
+---
+
+### 2026-06-05 08:12:29  #公司
+
+【華爾街預計到2030年SpaceX的人工智慧業務收入將增長100倍】華爾街研究分析師告訴SpaceX首次公開募股(IPO)的潛在投資者，模型預計該公司人工智慧(AI)部門收入將在本十年末增長100倍，以此來證明1.8萬億美元的目標估值是合理的。據一位知情人士透露，Evercore ISI研究分析師預計，SpaceX的AI部門到2031年銷售額將達到7550億美元，遠高於去年的32億美元。知情人士還表示，研究團隊預計到2031年的總收入將超過1萬億美元，而2025年的收入為187億美元。由於資訊尚未公開，知情人士要求匿名。
+
+---
+
+### 2026-06-05 08:11:54  #宏觀 #觀點
+
+【中信建投：多使用者綠電直連政策釋出 促進新能源就地消納】中信建投研報認為，近期，國家發改委及能源局聯合釋出《有序推動多使用者綠電直連發展有關事項的通知》。多使用者綠電直連是指風電、太陽能發電、生物質發電等新能源發電不直接接入公共電網，透過專用線路和變電設施向多個使用者供給綠電，實現供給電量清晰溯源和分配的模式。《通知》明確新建負荷、存量負荷（單使用者綠電直連專案、綠電需求使用者以及零碳園區、增量配電網等）均可開展多使用者綠電直連。同時，《通知》支援尚未開展電網接入工程建設的新能源發電專案，以及因新能源消納受限等原因無法併網的新能源發電專案開展多使用者綠電直連，為其開闢電力消納通道。總體來看，多使用者綠電直連降低了綠電直連專案的開展門檻，促進新能源就近就地消納，降低棄風棄光壓力。
+
+---
+
+### 2026-06-05 08:11:43  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+Prime Minister Takaichi said her economic policy is intended to strengthen Japan's economic capacity and is not aimed at manipulating the yen.
+
+---
+
+### 2026-06-05 08:11:23  #國際
+
+日本首相高市早苗：我的經濟政策旨在提升日本的經濟實力，而非操縱匯率。
+
+---
+
+### 2026-06-05 08:11:16  #國際
+
+日本首相高市早苗：投資策略將有助於維持日元信心。
+
+---
+
+### 2026-06-05 08:10:52  #市場 #國際
+
+30年期日本國債收益率上升1個基點，至3.890%。
+
+---
+
+### 2026-06-05 08:10:39  #MKT News #Important
+
+Korea Exchange triggered a KOSPI circuit breaker after KOSPI 200 futures fell 5%; program trading was suspended for 5 minutes.
 
 ---
 
@@ -23780,95 +23876,5 @@ The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 
 ### 2026-06-04 00:11:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 The DAX Index Closes 1.31% Lower — The DAX Index dropped 328 points or 1.31 percent on Wednesday to close at 24796 points. Losses were led by SAP (-4.31%), Deutsche Bank (-3.65%) and HeidelbergCement (-3.44%).
-
----
-
-### 2026-06-04 00:11:04  #MKT News #Market Themes #AI Revolution #GOOG.O
-
-Google (GOOG.O) said eligible US Google AI Ultra subscribers aged 18 and over can access DreamBeans on Android and iOS starting today.
-
----
-
-### 2026-06-04 00:10:26  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet
-
-Google (GOOG.O): DreamBeans uses personal intelligence to connect information across Google apps to construct story content.
-
----
-
-### 2026-06-04 00:10:15  #其他
-
-巴西基準股指博維斯帕指數 (.BVSP) 跌幅進一步擴大，最新跌幅超 2%。
-
----
-
-### 2026-06-04 00:10:15  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.61% Lower — The CAC 40 Index decreased 50 points or 0.61 percent on Wednesday to close at 8159 points. The decline was led by Stellantis NV (-3.95%), Kering (-3.64%) and Capgemini (-3.04%). On the upside, the strongest performers were Veolia (2.19%), Air Liquide (1.90%) and TotalEnergies SE (1.49%).
-
----
-
-### 2026-06-04 00:09:58  #觀點
-
-摩根大通挖角前高盛原油銷售高管，加碼能源業務佈局。
-
----
-
-### 2026-06-04 00:09:30  #國際
-
-美國財長貝森特：美國鑄幣局已著手籌備鋅質 5 美分硬幣。
-
----
-
-### 2026-06-04 00:09:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Google (GOOG.O): Google Labs launches DreamBeans.
-
----
-
-### 2026-06-04 00:09:15  #公司
-
-谷歌：DreamBeans 依託個人智慧技術，打通谷歌各類應用資料並整理生成內容摘要。
-
----
-
-### 2026-06-04 00:08:33  #公司
-
-谷歌旗下 Google Labs 推出 DreamBeans 產品。
-
----
-
-### 2026-06-04 00:07:53  #MKT News #Commodities #Precious Metals
-
-Spot platinum falls more than 3% to $1,872.60/oz.
-
----
-
-### 2026-06-04 00:07:24  #其他
-
-現貨鉑金大跌超 3%，報每盎司 1872.60 美元。
-
----
-
-### 2026-06-04 00:07:16  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index fell 32 points or 0.30 percent on Wednesday to close at 10342 points. Leading the losses are Intermediate Capital (-5.36%), WPP (-4.85%) and Burberry (-3.68%). Top gainers were B&M European Value (14.66%), Bunzl (4.38%) and SSE (3.79%).
-
----
-
-### 2026-06-04 00:06:35  #國際
-
-俄羅斯 4 月建築業產值同比下滑 5%。
-
----
-
-### 2026-06-04 00:06:26  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
-
-{"title":"","content":"U.S. Trade Representative GREER said the Turnberry Agreement provision imposing a 15% tariff on EU goods "the agreement stands; an agreement is an agreement"."}
-
----
-
-### 2026-06-04 00:06:10  #公司 #國際
-
-谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。
 
 ---

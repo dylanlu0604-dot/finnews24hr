@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:03:56_
-_本檔包含 4020 則快訊，約 700962 字_
+_更新時間：2026-06-07 02:38:41_
+_本檔包含 4026 則快訊，約 701037 字_
+
+---
+
+### 2026-06-04 00:11:04  #MKT News #Market Themes #AI Revolution #GOOG.O
+
+Google (GOOG.O) said eligible US Google AI Ultra subscribers aged 18 and over can access DreamBeans on Android and iOS starting today.
+
+---
+
+### 2026-06-04 00:10:26  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet
+
+Google (GOOG.O): DreamBeans uses personal intelligence to connect information across Google apps to construct story content.
+
+---
+
+### 2026-06-04 00:10:15  #其他
+
+巴西基準股指博維斯帕指數 (.BVSP) 跌幅進一步擴大，最新跌幅超 2%。
+
+---
+
+### 2026-06-04 00:10:15  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.61% Lower — The CAC 40 Index decreased 50 points or 0.61 percent on Wednesday to close at 8159 points. The decline was led by Stellantis NV (-3.95%), Kering (-3.64%) and Capgemini (-3.04%). On the upside, the strongest performers were Veolia (2.19%), Air Liquide (1.90%) and TotalEnergies SE (1.49%).
+
+---
+
+### 2026-06-04 00:09:58  #觀點
+
+摩根大通挖角前高盛原油銷售高管，加碼能源業務佈局。
+
+---
+
+### 2026-06-04 00:09:30  #國際
+
+美國財長貝森特：美國鑄幣局已著手籌備鋅質 5 美分硬幣。
+
+---
+
+### 2026-06-04 00:09:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O): Google Labs launches DreamBeans.
+
+---
+
+### 2026-06-04 00:09:15  #公司
+
+谷歌：DreamBeans 依託個人智慧技術，打通谷歌各類應用資料並整理生成內容摘要。
+
+---
+
+### 2026-06-04 00:08:33  #公司
+
+谷歌旗下 Google Labs 推出 DreamBeans 產品。
+
+---
+
+### 2026-06-04 00:07:53  #MKT News #Commodities #Precious Metals
+
+Spot platinum falls more than 3% to $1,872.60/oz.
+
+---
+
+### 2026-06-04 00:07:24  #其他
+
+現貨鉑金大跌超 3%，報每盎司 1872.60 美元。
+
+---
+
+### 2026-06-04 00:07:16  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index fell 32 points or 0.30 percent on Wednesday to close at 10342 points. Leading the losses are Intermediate Capital (-5.36%), WPP (-4.85%) and Burberry (-3.68%). Top gainers were B&M European Value (14.66%), Bunzl (4.38%) and SSE (3.79%).
+
+---
+
+### 2026-06-04 00:06:35  #國際
+
+俄羅斯 4 月建築業產值同比下滑 5%。
+
+---
+
+### 2026-06-04 00:06:26  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
+
+{"title":"","content":"U.S. Trade Representative GREER said the Turnberry Agreement provision imposing a 15% tariff on EU goods "the agreement stands; an agreement is an agreement"."}
+
+---
+
+### 2026-06-04 00:06:10  #公司 #國際
+
+谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。
 
 ---
 
@@ -24165,59 +24255,5 @@ Bailey said the Bank of England places very low weight on preliminary employment
 ### 2026-06-02 22:40:38  #MKT News #GBPUSD #Impact bullish
 
 Bank of England Governor Bailey said the Labour Force Survey participation rate has returned to pre-pandemic levels.
-
----
-
-### 2026-06-02 22:40:00  #MKT News
-
-The New York Times reports the US government is considering imposing political tests on billions of dollars in federal grants.
-
----
-
-### 2026-06-02 22:39:16  #MKT News
-
-Norway's finance minister said the country's monitoring of Russian activity forms part of the US defence system.
-
----
-
-### 2026-06-02 22:38:59  #其他
-
-【哈工大科研團隊發現T細胞啟用抗癌新機制】記者從哈爾濱工業大學獲悉，該校生命科學和醫學學部黃志偉教授團隊取得研究突破，發現一種命名為“4B1”的新型抗體，能在高效啟用T細胞殺死腫瘤的同時，僅引發極低的炎症因子釋放。這一成果為開發既強效又安全的下一代抗癌藥物提供了全新思路，相關論文6月2日發表於國際學術期刊《Vita》。（新華社）
-
----
-
-### 2026-06-02 22:38:51  #MKT News #Market Regions #Europe & UK
-
-Bank of England Governor BAILEY said the ONS is taking the right steps but needs to do more.
-
----
-
-### 2026-06-02 22:38:38  #央行 #其他
-
-英國央行行長貝利：勞動力調查（LFS）參與率已回升至新冠疫情前水平。
-
----
-
-### 2026-06-02 22:38:05  #國際
-
-美國國務卿魯比奧：美國需防範市場出現風險蔓延的可能性。
-
----
-
-### 2026-06-02 22:38:04  #MKT News #Macro & Rates #US Economy
-
-Rubio said the US must avoid "contagion" risk in markets.
-
----
-
-### 2026-06-02 22:37:58  #MKT News #Market Themes #China EV Leaders #1211.HK #Impact bullish
-
-【BYD plans to build 20,000 fast-charging stations by end-2026】At a June 2 investment conference in the Shenshan Special Cooperation Zone, BYD vice president Luo Zhongliang said the company has launched its "Flash Charge China" strategy and plans to build 20,000 fast-charging stations by end-2026. He said BYD's Shenshan industrial park Phase I is fully ramped, Phase II output is rising, and Phases III–IV entered production last year; BYD's second-generation Blade battery, released in March, is being produced at Shenshan.
-
----
-
-### 2026-06-02 22:37:14  #MKT News
-
-【Iran discloses burial site for late Supreme Leader Ali Khamenei】State news agency said the late Supreme Leader Ali Khamenei will be interred at the Imam Reza shrine in Mashhad, citing his expressed wishes and his family's recommendation.
 
 ---

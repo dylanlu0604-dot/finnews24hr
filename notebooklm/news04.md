@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:03:56_
-_本檔包含 3641 則快訊，約 700987 字_
+_更新時間：2026-06-07 02:38:41_
+_本檔包含 3649 則快訊，約 701325 字_
+
+---
+
+### 2026-06-02 22:40:00  #MKT News
+
+The New York Times reports the US government is considering imposing political tests on billions of dollars in federal grants.
+
+---
+
+### 2026-06-02 22:39:16  #MKT News
+
+Norway's finance minister said the country's monitoring of Russian activity forms part of the US defence system.
+
+---
+
+### 2026-06-02 22:38:59  #其他
+
+【哈工大科研團隊發現T細胞啟用抗癌新機制】記者從哈爾濱工業大學獲悉，該校生命科學和醫學學部黃志偉教授團隊取得研究突破，發現一種命名為“4B1”的新型抗體，能在高效啟用T細胞殺死腫瘤的同時，僅引發極低的炎症因子釋放。這一成果為開發既強效又安全的下一代抗癌藥物提供了全新思路，相關論文6月2日發表於國際學術期刊《Vita》。（新華社）
+
+---
+
+### 2026-06-02 22:38:51  #MKT News #Market Regions #Europe & UK
+
+Bank of England Governor BAILEY said the ONS is taking the right steps but needs to do more.
+
+---
+
+### 2026-06-02 22:38:38  #央行 #其他
+
+英國央行行長貝利：勞動力調查（LFS）參與率已回升至新冠疫情前水平。
+
+---
+
+### 2026-06-02 22:38:05  #國際
+
+美國國務卿魯比奧：美國需防範市場出現風險蔓延的可能性。
+
+---
+
+### 2026-06-02 22:38:04  #MKT News #Macro & Rates #US Economy
+
+Rubio said the US must avoid "contagion" risk in markets.
+
+---
+
+### 2026-06-02 22:37:58  #MKT News #Market Themes #China EV Leaders #1211.HK #Impact bullish
+
+【BYD plans to build 20,000 fast-charging stations by end-2026】At a June 2 investment conference in the Shenshan Special Cooperation Zone, BYD vice president Luo Zhongliang said the company has launched its "Flash Charge China" strategy and plans to build 20,000 fast-charging stations by end-2026. He said BYD's Shenshan industrial park Phase I is fully ramped, Phase II output is rising, and Phases III–IV entered production last year; BYD's second-generation Blade battery, released in March, is being produced at Shenshan.
+
+---
+
+### 2026-06-02 22:37:14  #MKT News
+
+【Iran discloses burial site for late Supreme Leader Ali Khamenei】State news agency said the late Supreme Leader Ali Khamenei will be interred at the Imam Reza shrine in Mashhad, citing his expressed wishes and his family's recommendation.
 
 ---
 
@@ -21937,11 +21991,5 @@ Reports said U.S. Treasuries extended losses after Iran halted communications wi
 ### 2026-06-01 21:20:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran suspends mediator-led U.S. talks, orders full blockade of Strait of Hormuz】Iranian state media said Tehran has suspended mediator-led negotiations and document exchanges with the United States, citing Israeli strikes on Lebanon and ceasefire violations across multiple fronts. Iran and the Axis of Resistance said they will fully block the Strait of Hormuz and open other fronts, including the Mandeb Strait, to punish Israel and its supporters. Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from occupied areas in Lebanon before talks resume; Iran said it will not negotiate until those conditions are met.
-
----
-
-### 2026-06-01 21:20:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Lithium Holds Retreat from 2-Year High — Lithium carbonate prices in China were near CNY 180,000 per tonne, below the two-year high of CNY 200,500 from May 13th as higher prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027.
 
 ---
