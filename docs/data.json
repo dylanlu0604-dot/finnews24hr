@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-06 19:35:44",
-  "count": 18782,
+  "updated": "2026-06-06 19:39:33",
+  "count": 18785,
   "items": [
+    {
+      "id": "mkt:019e9cba-8205-7665-8312-7f4441a536b4",
+      "time": "2026-06-06 19:38:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council Secretary-General: member states' security is indivisible."
+    },
+    {
+      "id": "mkt:019e9cba-09a4-7665-8312-767c791eb29d",
+      "time": "2026-06-06 19:38:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry said the UAE fully supports Bahrain and backs all measures to safeguard its security and stability."
+    },
+    {
+      "id": "mkt:019e9cb9-717e-7665-8312-6979e48f5fb8",
+      "time": "2026-06-06 19:37:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry strongly condemned Iran's terrorist attacks on Kuwait and Bahrain, including missile and drone strikes."
+    },
+    {
+      "id": "mkt:019e9cb8-dbe6-7665-8312-61d490b137d8",
+      "time": "2026-06-06 19:37:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's military said it struck an oil depot and an oil terminal in Russia's Leningrad region."
+    },
+    {
+      "id": "4921264",
+      "time": "2026-06-06 19:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱襲擊了俄羅斯列寧格勒州的石油倉庫和石油碼頭。"
+    },
+    {
+      "id": "4921263",
+      "time": "2026-06-06 19:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【官方回應湘雅二醫院專案招標爭議】湖南省發展和改革委員會6月6日釋出通報：針對媒體反映的“湘雅二醫院國家緊急醫學救援基地建設工程”招標有關問題，湖南省委、省政府高度重視，已成立由湖南省發展和改革委員會牽頭，湖南省住房和城鄉建設廳、湖南省公共資源交易中心、長沙市有關部門等參加的聯合調查組，對相關情況開展全面深入調查，調查結果將及時向社會公佈。"
+    },
     {
       "id": "4921262",
       "time": "2026-06-06 19:33:34",
@@ -173321,35 +173377,6 @@
         "宏觀"
       ],
       "text": "【全國安全生產視訊會議在京召開 張國清出席會議並講話】全國安全生產視訊會議5月30日在京召開。中共中央政治局委員、國務院副總理張國清出席會議並講話，中共中央書記處書記、國務委員王小洪主持會議。張國清強調，要深入學習貫徹習近平總書記重要指示批示精神，落實李強總理批示要求，針對近期重特大事故暴露出的突出問題，嚴肅警示各地深刻汲取教訓，切實提升隱患排查整治質效，進一步從嚴從實狠抓安全生產工作。要查清查透事故原因和責任，較真碰硬直擊深層次問題，把血的教訓轉化為常態化、長效化的安全治理措施。要堅決從嚴落實安全生產責任，眼睛向下再向下，切實把安全責任層層傳導壓實到基層末梢。要提升監管的專業性和穿透力，完善重大事故隱患判定標準，加強進場監管、下井監管、全方位監管，強化上級對下級風險隱患整治整改工作的監督，確保整治整改真實、到位。要突出礦山、煙花爆竹、危化等重點行業領域，重拳嚴打隱蔽工作面、安全監控造假、煙花爆竹企業“四超兩改”等違法違規行為，加強行刑銜接，強化警示震懾，全力穩控安全生產形勢。（新華社）"
-    },
-    {
-      "id": "mkt:019e78ae-894f-7bb7-9969-94197b8126f9",
-      "time": "2026-05-30 19:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Epstein victims accuse U.S. Justice Department of dereliction of duty】May 29 — Former U.S. attorney general Pam Bondi attended a closed-door congressional hearing on the Epstein case. Democratic Rep. Robert Garcia said Bondi told lawmakers the probe was led by acting attorney general Branch and effectively \"passed the buck\" to Branch. Several Epstein victims told the panel they view the Justice Department's failures as deliberate dereliction of duty, alleging Bondi and Branch broke the law and demanding full accountability."
-    },
-    {
-      "id": "4908273",
-      "time": "2026-05-30 19:37:56",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【李強對安全生產工作作出重要批示強調 堅決貫徹落實習近平總書記關於安全生產的重要指示精神 切實維護人民群眾生命財產安全和社會大局穩定】全國安全生產視訊會議5月30日在京召開。中共中央政治局常委、國務院總理李強日前對做好安全生產工作作出重要批示。批示指出：今年以來，部分地方和行業領域安全事故多發頻發，給人民群眾生命財產造成重大損失，教訓極為深刻。各地區各部門要堅決貫徹落實習近平總書記關於安全生產的重要指示精神，按照黨中央決策部署，堅持人民至上、生命至上，縱深推進安全生產治本攻堅三年行動，提升風險隱患排查質效，嚴肅查處安全生產非法違法和弄虛作假等行為，有力發揮震懾遏制效果。要始終把弦繃緊，堅持防微杜漸，加強礦山、煙花爆竹、交通運輸、工程施工等重點行業領域全鏈條、穿透式安全監管和治理，下大力氣解決安全生產領域深層次矛盾問題，壓實責任、狠抓落實，堅決遏制重特大事故多發勢頭。當前正值汛期，防汛救災形勢嚴峻複雜，要堅決克服麻痺思想，加強監測預警、會商研判和應急準備，築牢事故災害防線，提高搶險救援能力，切實維護人民群眾生命財產安全和社會大局穩定。（新華社）"
-    },
-    {
-      "id": "mkt:019e78ac-faee-7bb7-9969-8ffd36ef2a04",
-      "time": "2026-05-30 19:37:42",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact bullish",
-        "JPM.O",
-        "GS.O"
-      ],
-      "text": "【OpenAI in talks with Citigroup, JP Morgan on IPO participation】People familiar with the matter say OpenAI has discussed potential participation in its upcoming IPO with Citigroup and JP Morgan. Those banks could join Goldman Sachs and Morgan Stanley on the deal, but discussions are non-binding and do not guarantee involvement; other investment banks may also participate."
     }
   ]
 }
