@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:05:11_
-_本檔包含 4035 則快訊，約 700666 字_
+_更新時間：2026-06-06 23:40:33_
+_本檔包含 4040 則快訊，約 700812 字_
+
+---
+
+### 2026-06-03 23:40:06  #國際
+
+美國財長貝森特：就交易相關事宜而言，國會首先需要釐清自身權責、整頓內部規範。
+
+---
+
+### 2026-06-03 23:39:46  #國際
+
+美國財長貝森特：顯而易見，特朗普聘用了外部管理人代為開展交易。
+
+---
+
+### 2026-06-03 23:39:29  #國際
+
+伊朗外長：任何敵對行徑都將遭到我方迅速且果斷的回擊。
+
+---
+
+### 2026-06-03 23:39:07  #焦點 #國際
+
+伊朗外長：我方武裝力量正針對美方獲准使用、用於襲擊民用航運且破壞停火協議的相關據點實施自衛打擊。
+
+---
+
+### 2026-06-03 23:38:48  #國際
+
+美國財長貝森特：特朗普並未參與高頻交易。
+
+---
+
+### 2026-06-03 23:37:10  #MKT News #JEF.O #Impact bullish
+
+【Short SpaceX? Investors flock to JEFFERIES after bank absent from IPO syndicate】Hedge funds that did not invest in SpaceX are contacting JEFFERIES to explore arranging short positions after the IPO, and some bearish investors and senior JEFFERIES managers view the non‑participation as an opportunity, according to people familiar with the matter. As the largest U.S. bank excluded from the 23‑bank underwriting group, JEFFERIES is uniquely positioned to facilitate such trades; lawyers and compliance teams typically flag conflicts when different divisions take opposite client positions, and if any underwriters were to engage in shorting, Elon Musk’s reaction would be unpredictable.
 
 ---
 
@@ -24303,11 +24339,5 @@ Norway's finance minister says a framework is needed to develop the industry.
 ### 2026-06-02 22:17:44  #Trading Economics #Economy #United States #Job Quits #Importance 1
 
 US Job Quits Fall in April — The number of job quits in the US fell to 2.977 million in April 2026 from the downwardly revised 3.160 million in March and below 3.144 million a year ago. It was the lowest reading since mid-2020. The quits rate edged down to 1.9% from 2.0%, marking its lowest reading since 2020 and signaling fewer workers voluntarily leaving their jobs. The number of quits declined primarily in retail trade (-48,000); professional and business services (-31,000); transportation, warehousing, and utilities (-30,000); health care and social assistance (-23,000) and finance & insurance (-22,000). Quits fell across most regions, with declines in the Northeast (-94,000), Midwest (-57,000), and South (-37,000), while the West registered a marginal increase of 5,000.
-
----
-
-### 2026-06-02 22:17:38  #MKT News
-
-【Zhuhai proposes wider housing provident fund withdrawals】Zhuhai Housing Provident Fund Management Center published a public consultation on a notice from the Zhuhai Housing Provident Fund Management C.BANK proposing changes to provident fund withdrawal and use rules. The draft proposes adding withdrawals for urban renewal projects and for renovation of owner-occupied housing to meet residents’ demand for improved living conditions. The center said expanding the fund’s applicable scope would significantly enhance inclusiveness and resident benefits, support urban renewal and renovation withdrawals, improve system effectiveness and help contributors move from "secure housing" to "better housing".
 
 ---

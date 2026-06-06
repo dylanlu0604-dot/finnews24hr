@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:05:11_
-_本檔包含 3948 則快訊，約 700275 字_
+_更新時間：2026-06-06 23:40:33_
+_本檔包含 3954 則快訊，約 701024 字_
+
+---
+
+### 2026-06-05 07:45:40  #市場 #國際
+
+基準10年期日本國債期貨早盤上漲0.06個點。
+
+---
+
+### 2026-06-05 07:45:35  #市場 #國際
+
+日本日經平均指數期貨早盤下跌0.7%。
+
+---
+
+### 2026-06-05 07:45:31  #其他
+
+【不拼網速側重廣覆蓋 6G將帶來三大產業機遇】6月4日，工業和資訊化部發文開展6G創新發展部省協同試點專項行動，通知要求加強新型終端、晶片器件、作業系統、商業航天等6G關聯產業培育。此前，5月8日，工業和資訊化部批覆6GHz頻段（6425—7125MHz）作為6G試驗頻率，我國6G開始走進真實場景。6G政策東風勁吹，產業駛入發展快車道。專家指出，6G發展將不再單純拼網速，而是更側重廣覆蓋。6G將帶來多媒體寬頻、6G與AI結合、大規模物聯網三大主要發展機遇，其中，與AI結合，將是6G最重要的市場機會。
+
+---
+
+### 2026-06-05 07:45:07  #國際
+
+日本財務大臣片山：始終做好準備，在必要時對外匯市場採取適當應對措施。
+
+---
+
+### 2026-06-05 07:44:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's finance minister Katayama said she remains prepared to take appropriate measures in the foreign-exchange market as needed.
+
+---
+
+### 2026-06-05 07:44:51  #國際
+
+塔吉特：因微生物汙染問題召回Up&Up品牌嬰兒溼巾，此次召回是在美國食品藥品監督管理局知情情況下開展的。
+
+---
+
+### 2026-06-05 07:44:39  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama Satsuki said she will not comment on exchange-rate levels.
+
+---
+
+### 2026-06-05 07:44:17  #國際
+
+日本財務大臣片山：不對匯率水平置評。
+
+---
+
+### 2026-06-05 07:43:57  #公司
+
+【證券日報：比亞迪正在開發人形機器人】近日，比亞迪股份有限公司（以下簡稱“比亞迪”）執行副總裁李柯公開表示，比亞迪正在開發人形機器人。“機器人的競爭在於誰有最強的製造能力、軟體能力和硬體能力，而汽車相關AI能力可以移植到機器人上。”更早之前，比亞迪已經在人才上進行佈局。2024年底，比亞迪具身智慧研究團隊釋出招聘簡章，招聘高階演算法工程師、高階結構工程師、高階模擬工程師等。比亞迪還透過入股人形機器人企業的方式切入人形機器人賽道。2025年4月份，比亞迪成功入股人形機器人公司帕西尼感知科技（深圳）有限公司，目前為其第二大股東，持股比例為7.95%。除比亞迪外，包括小鵬、廣汽集團在內的不少車企也在加快佈局人形機器人領域，試圖打造新的利潤增長點。
+
+---
+
+### 2026-06-05 07:43:07  #國際
+
+【伊朗說將同阿曼規範管理霍爾木茲海峽】伊朗外交部長阿拉格齊4日表示，伊朗將同阿曼一道，依據國際法標準來規範管理霍爾木茲海峽。伊朗法爾斯通訊社援引阿拉格齊的話報道，伊朗將就此與海灣地區國家進行磋商，但最終決定權歸伊朗和阿曼。阿拉格齊還說，伊朗掌握大量證據，證明美國和以色列利用阿聯酋領空和領土襲擊伊朗。他表示，阿聯酋與以色列有外交關係，兩國之間政治、經貿和經濟聯絡非常密切，有檔案和證據表明，阿聯酋也參與了針對伊朗的部分軍事行動。（新華社）
+
+---
+
+### 2026-06-05 07:42:14  #國際
+
+日本財務大臣片山皋月：消費稅減免的方向尚未確定。
+
+---
+
+### 2026-06-05 07:42:04  #市場 #觀點
+
+【國金證券：鋰電6月排產景氣維持高位】國金證券研報稱，鋰電6月排產景氣維持高位，環增1%～6%，同增49%～66%。2026年1～6月，電池/正極/負極/隔膜/電解液預排產累計同比分別增長46%/49%/47%/53%/59%，其中電解液、電池同比均超60%。整體看，6月鋰電產業鏈排產在5月明顯回升後的高基數上繼續增長，短期節奏由快速拉昇轉向高位平穩，反映下游需求韌性持續向好、產業鏈景氣度仍處高位。5月鋰電產業鏈價格延續結構性分化，整體表現為上游成本支撐仍強、中下游漲價傳導偏弱。價格上漲主要來自供給擾動和原料成本抬升，鋰鹽、鎳鹽及磷系材料表現相對較強；需求端雖有電池、儲能及三元排產支撐，但更多體現為剛需託底，並未帶動全鏈條順暢漲價。因此，正極、電解液等中游環節價格多為小幅上移，漲幅明顯弱於上游原料。相反，供給恢復較快或庫存壓力較大的環節繼續承壓，DMC及低硫石油焦價格回落。整體看，5月鋰電產業鏈價格分化仍是主線。
 
 ---
 
@@ -23768,41 +23840,5 @@ Iranian Foreign Minister Araghchi said Iranian armed forces are conducting self-
 ### 2026-06-03 23:40:18  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Falls on Wednesday — The FTSE 100 fell 0.3% on Wednesday, as rising oil prices and renewed concerns over US-Iran negotiations weighed on sentiment. With little fresh progress reported in the talks, escalating tensions in the Middle East added to market uncertainty. US forces intercepted Iranian missiles and drones targeting neighboring countries and later struck a command center inside Iran in response. Banks, miners and defence stocks were mostly weaker, while oil majors provided some support, with Shell and BP rising between 1.7% and 1.9%. B&M European Value Retail surged more than 14% after reporting lower annual profits but continued growth in like-for-like sales across its UK and France operations, with total revenue also supported by new store openings. Meanwhile, Howden Joinery gained more than 3.5% after agreeing to acquire DIY Kitchens in a deal valuing the business at £390 million.
-
----
-
-### 2026-06-03 23:40:06  #國際
-
-美國財長貝森特：就交易相關事宜而言，國會首先需要釐清自身權責、整頓內部規範。
-
----
-
-### 2026-06-03 23:39:46  #國際
-
-美國財長貝森特：顯而易見，特朗普聘用了外部管理人代為開展交易。
-
----
-
-### 2026-06-03 23:39:29  #國際
-
-伊朗外長：任何敵對行徑都將遭到我方迅速且果斷的回擊。
-
----
-
-### 2026-06-03 23:39:07  #焦點 #國際
-
-伊朗外長：我方武裝力量正針對美方獲准使用、用於襲擊民用航運且破壞停火協議的相關據點實施自衛打擊。
-
----
-
-### 2026-06-03 23:38:48  #國際
-
-美國財長貝森特：特朗普並未參與高頻交易。
-
----
-
-### 2026-06-03 23:37:10  #MKT News #JEF.O #Impact bullish
-
-【Short SpaceX? Investors flock to JEFFERIES after bank absent from IPO syndicate】Hedge funds that did not invest in SpaceX are contacting JEFFERIES to explore arranging short positions after the IPO, and some bearish investors and senior JEFFERIES managers view the non‑participation as an opportunity, according to people familiar with the matter. As the largest U.S. bank excluded from the 23‑bank underwriting group, JEFFERIES is uniquely positioned to facilitate such trades; lawyers and compliance teams typically flag conflicts when different divisions take opposite client positions, and if any underwriters were to engage in shorting, Elon Musk’s reaction would be unpredictable.
 
 ---

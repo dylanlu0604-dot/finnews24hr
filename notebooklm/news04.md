@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:05:11_
-_本檔包含 3650 則快訊，約 700465 字_
+_更新時間：2026-06-06 23:40:33_
+_本檔包含 3642 則快訊，約 700238 字_
+
+---
+
+### 2026-06-02 22:17:38  #MKT News
+
+【Zhuhai proposes wider housing provident fund withdrawals】Zhuhai Housing Provident Fund Management Center published a public consultation on a notice from the Zhuhai Housing Provident Fund Management C.BANK proposing changes to provident fund withdrawal and use rules. The draft proposes adding withdrawals for urban renewal projects and for renovation of owner-occupied housing to meet residents’ demand for improved living conditions. The center said expanding the fund’s applicable scope would significantly enhance inclusiveness and resident benefits, support urban renewal and renovation withdrawals, improve system effectiveness and help contributors move from "secure housing" to "better housing".
 
 ---
 
@@ -21952,59 +21958,5 @@ The International Labour Organization said it has rescinded the appointment of i
 ### 2026-06-01 21:02:46  #MKT News
 
 【Quantinuum raises IPO target to $1.46 bln】Quantinuum has increased its IPO size to about $1.46 bln, raising the share count to 26.5 mln and setting a $53-$55 per share range, according to an SEC filing. The company had previously proposed about 21 mln shares at $45-$50. The deal implies an equity value of roughly $14.3 bln. Pricing is expected after the NYSE close on Wednesday, with trading to begin the following day.
-
----
-
-### 2026-06-01 21:02:42  #公司
-
-【旺山旺水：財務部疏忽使用全球發售所得款項】旺山旺水釋出補充公告，集團財務部在2026年1月進行第二項認購時，未能注意到相關賬戶中的自有資金不足以支付全部認購金額，錯誤地使用了全球發售所得款項。公司已採取補救措施，包括提供培訓課程、實施新規程等，確保未來資金使用合規。
-
----
-
-### 2026-06-01 21:02:28  #其他
-
-據貓眼專業版資料，截至6月1日21時，2026六一檔票房0.73億，《給阿嬤的情書》成六一檔票房冠軍。
-
----
-
-### 2026-06-01 21:02:10  #公司
-
-【三豐智慧：暫未開展人形機器人相關業務】三豐智慧(300276)6月1日於互動平臺表示，目前，公司暫未開展人形機器人相關業務。
-
----
-
-### 2026-06-01 21:02:01  #MKT News #Market Themes #Chip Wars #MRVL.O #Impact bullish
-
-MARVELL (MRVL.O) announced the launch of a 102.4 Tbps switch.
-
----
-
-### 2026-06-01 21:01:53  #其他
-
-People 擬以每股 48.30 美元現金收購米高梅度假村。
-
----
-
-### 2026-06-01 21:01:36  #MKT News #WTI #Impact bearish #Brent
-
-Iranian President PEZESHKIAN said Iran will take all measures to restore maritime traffic through the Strait of Hormuz and ensure the waterway's stability and security.
-
----
-
-### 2026-06-01 21:01:34  #其他
-
-【伊拉克南部港口附近一船隻發生爆炸 未造成人員傷亡】當地時間6月1日，伊拉克南部港口官員稱，一艘懸掛巴拿馬國旗的巨型船隻在伊拉克南部烏姆蓋斯爾港附近發生爆炸。初步資訊顯示爆炸事件由船上機械故障引起，事件未造成人員傷亡。（央視新聞）
-
----
-
-### 2026-06-01 21:01:18  #國際
-
-斯堪尼亞強化歐洲電動卡車產能佈局。
-
----
-
-### 2026-06-01 21:01:11  #市場
-
-【經濟學家：英國潛在首相挑戰者在即將到來的選舉中獲勝或將打擊英鎊】Ebury經濟學家Enrique Diaz-Alvarez在一份報告中表示，如果英國工黨潛在領導人挑戰者安迪·伯納姆在即將舉行的特別選舉中獲勝，英鎊可能會下跌。伯納姆最近重申了他對英國財政規則的承諾。Diaz-Alvarez說，然而，伯納姆必須贏得6月18日的選舉才能正式挑戰首相基爾·斯塔默的領導地位，這場選舉對英鎊來說仍然至關重要。他表示，伯納姆的獲勝將為英鎊“開啟一些下行空間”，因為他傾向於更大規模的財政擴張，這可能會導致英國國債發行量增加。英鎊持平於1.3464美元。歐元下跌0.2%，至0.8647英鎊。
 
 ---
