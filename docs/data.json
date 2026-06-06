@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-07 00:35:13",
-  "count": 18791,
+  "updated": "2026-06-07 00:39:12",
+  "count": 18793,
   "items": [
+    {
+      "id": "mkt:019e9dcc-3698-7665-8313-978b7ea75a39",
+      "time": "2026-06-07 00:37:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Trump chief AI adviser Krishnan to leave White House at month-end】Sources say tech investor Sriram Krishnan, the architect of the Trump administration’s pro-industry AI policy, plans to leave the White House at month-end to found an external organization aimed at influencing technology policy. Krishnan helped design the administration’s AI Action Plan, which proposed easing regulation of new technologies and accelerating a nationwide data-center buildout, and he assisted in drafting an executive order to limit state-level AI regulation. But advanced models such as Anthropic’s Mythos have shown the ability to find software security vulnerabilities, raising senior government concerns about cyberattack risk and prompting some officials to reassess the administration’s deregulatory course."
+    },
+    {
+      "id": "4921360",
+      "time": "2026-06-07 00:37:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部再次強烈譴責伊朗發起惡意襲擊、公然侵犯巴林及科威特兩國主權的行為，指出此類舉動對地區與國際安全構成威脅。"
+    },
+    {
+      "id": "4921359",
+      "time": "2026-06-07 00:36:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【國際航空運輸協會副總裁：因伊朗戰爭推遲噴氣式飛機訂單將使中東航空公司付出高昂代價】國際航空運輸協會（IATA）一位副總裁週六表示，由於伊朗戰爭引發的不確定性和航空燃油價格上漲而推遲客機訂單，對中東航空公司而言並非明智之舉，因為這一決定從長遠來看可能代價高昂。負責非洲和中東地區的區域副總裁卡米爾·阿瓦迪表示，他不認為這場戰爭及成本上升會影響中東航空公司的飛機訂單。該地區航空公司是波音公司和空客公司的主要客戶。他指出，鑑於飛機交付週期漫長，推遲訂單“並非明智之舉，因為推遲將帶來額外成本”。"
+    },
     {
       "id": "4921358",
       "time": "2026-06-07 00:34:34",
@@ -173429,14 +173457,6 @@
         "MKT News"
       ],
       "text": "【HEZBOLLAH fires rockets at multiple towns in northern Israel, IDF says】The Israel Defense Forces said on May 30 that HEZBOLLAH launched rockets at multiple towns in northern Israel. Some rockets were intercepted and others fell in open areas with no casualties. The IDF said HEZBOLLAH fired a “large number” of rockets overnight; one rocket struck and exploded in Kiryat Shmona, damaging a building but causing no injuries. Remaining rockets were intercepted by Israeli air defenses."
-    },
-    {
-      "id": "mkt:019e79bf-832a-7bb7-996a-7c02f7ebde69",
-      "time": "2026-05-31 00:37:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Multiple artists withdraw from Freedom 250 concerts; Trump may replace events with rally and speech】President Trump said Saturday he is considering cancelling a series of concerts planned to mark the United States' 250th anniversary after multiple performers withdrew, and replacing them with a speech and rally. Poison frontman Bret Michaels was the fifth musician to pull out on Friday. The Freedom 250 concerts were scheduled June 25–July 10 on the National Mall; Trump posted on his social platform that he may host a speech and rally instead."
     }
   ]
 }
