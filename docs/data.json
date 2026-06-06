@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-06 13:32:21",
+  "updated": "2026-06-06 13:36:22",
   "count": 18786,
   "items": [
+    {
+      "id": "mkt:019e9b6b-b9e8-7665-8310-0d8a4fae40d3",
+      "time": "2026-06-06 13:33:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【China Energy signs financing master agreement for 372 MW Songon gas-turbine project in Côte d'Ivoire】On June 1 China Energy Engineering Corp's Songon project company signed a financing master agreement with a syndicate of 11 banks and multilateral institutions led by Standard Chartered, South Africa's Standard Bank, Pan‑African Bank and Atlantic Bank to fund the 372 MW Songon gas‑turbine project in Côte d'Ivoire. Total investment is about €659m; the project is backed by China Energy's Haitou unit. The plant carries a 35‑year concession and is expected to produce roughly 2.8 bln kWh a year. China Energy said the deal is the first instance of a China-backed African project financing being led exclusively by an international syndicate."
+    },
+    {
+      "id": "4921129",
+      "time": "2026-06-06 13:32:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市解除分割槽雷雨大風橙色預警訊號】雷暴雲團已減弱移出，風力逐漸減弱，深圳市氣象臺2026年06月06日13時27分解除大鵬灣和大亞灣雷雨大風橙色預警訊號。"
+    },
     {
       "id": "4921128",
       "time": "2026-06-06 13:30:28",
@@ -173292,22 +173312,6 @@
         "其他"
       ],
       "text": "【深圳原創基礎軟體取得新突破】近日，由深圳計算科學研究院自主研發的崖山資料庫系統分散式版本成功透過中國資訊保安測評中心“安全可靠測評”認證。在本批次透過最高等級測評的產品中，該系統作為新型研發機構的高質量轉化成果，是唯一實現“從原創理論到核心系統全棧自研”完整閉環的本土資料庫。（深圳釋出）"
-    },
-    {
-      "id": "4908109",
-      "time": "2026-05-30 13:34:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【指數調樣背後有何考量？業內人士：應理性看待資本市場指數調樣】市場專家指出，指數調整依據的是特定時點的客觀指標，不影響後續公司基本面的真實走向。指數化投資的基本邏輯是承認市場定價相對有效，其實是長期投資、價值投資的代表。從個股股價來說，其本質上反映公司基本面變化，與是否納入或調出指數並無直接因果關係。從較長時間維度看，個股股價表現取決於公司自身經營狀況和基本面支撐。（證券時報）"
-    },
-    {
-      "id": "4908108",
-      "time": "2026-05-30 13:34:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津發布超智數三個百億億級融合裝置平臺】5月29日，2026世界智慧產業博覽會期間，人工智慧創新與太空數智設施發展交流會在天開高教科創園舉行。會上，超智數三個百億億級融合裝置平臺正式釋出。該平臺整合了國家超級計算天津中心的天河新一代百億億次超算系統、國產自主的百億億次智算系統，以及天津超算中心的百億億位元組資料大規模儲存管理能力，標誌著我國在超算、智算與資料深度融合領域取得重大突破，為全球算力融合發展提供了“中國方案”和示範樣板。"
     }
   ]
 }
