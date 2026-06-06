@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-06 21:33:58",
+  "updated": "2026-06-06 21:38:06",
   "count": 18769,
   "items": [
+    {
+      "id": "mkt:019e9d26-09b9-7665-8312-f4636d3d56c8",
+      "time": "2026-06-06 21:36:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kaiyue Motorcycles denies online rumors of funding collapse, rescue pleas to Zhang Xue and takeover of his 36% stake】Kaiyue Motorcycles said on its official WeChat account on June 6 that recent online allegations — that its funding chain has broken and it faces imminent bankruptcy; that it repeatedly sought rescue from Zhang Xue; that sales plunged about 30% prompting Chairman Yan Kai to seek Zhang's help; and that the company absorbed Zhang Xue’s 36% stake — are fabricated and malicious. The company said the claims are baseless, have damaged its brand and Chairman Yan's reputation, harmed vehicle owners and dealers, and disrupted normal market order."
+    },
     {
       "id": "4921292",
       "time": "2026-06-06 21:31:19",
@@ -173226,14 +173236,6 @@
         "國際"
       ],
       "text": "美國公佈赫格塞思與澳大利亞副總理兼國防部長馬爾斯的會談結果：美國將加快澳大利亞基地的基礎設施專案建設。"
-    },
-    {
-      "id": "mkt:019e7918-1f9d-7bb7-996a-1b648aa3ffa9",
-      "time": "2026-05-30 21:34:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Since this morning local time, 25 alerts have sounded in northern Israel."
     }
   ]
 }
