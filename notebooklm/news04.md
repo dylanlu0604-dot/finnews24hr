@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 17:28:45_
-_本檔包含 3633 則快訊，約 702936 字_
+_更新時間：2026-06-06 18:22:22_
+_本檔包含 3641 則快訊，約 703036 字_
+
+---
+
+### 2026-06-02 21:32:32  #市場
+
+博通股價大漲5%，創下歷史新高。
+
+---
+
+### 2026-06-02 21:32:08  #其他
+
+MARVELL股價飆升18%，創下3月6日以來最大單日漲幅，並重新整理紀錄。
+
+---
+
+### 2026-06-02 21:31:56  #公司 #市場
+
+Alphabet股價下跌3.6%，因公司計劃為人工智慧業務目標募資800億美元。
+
+---
+
+### 2026-06-02 21:31:55  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Netflix Stock Price Hits 13-week Low — Netflix shares decreased to 85.09 USD, the lowest since February 2026. Over the past 4 weeks, Netflix lost 5.78%, and in the last 12 months, it decreased 29.65%.
+
+---
+
+### 2026-06-02 21:31:36  #國際
+
+【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。 當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。 歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。 歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）
+
+---
+
+### 2026-06-02 21:31:32  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+June 2 (Tue) open: Dow Jones Industrial Average down 96.15 pts (-0.19%) at 50,982.73; S&P 500 down 13.24 pts (-0.17%) at 7,586.72; Nasdaq Composite down 69.78 pts (-0.26%) at 27,017.03.
+
+---
+
+### 2026-06-02 21:31:09  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Arista Networks Stock Price Hits 4-week High — Arista Networks shares increased to 172.92 USD, the highest since May 2026. Over the past 4 weeks, Arista Networks lost 0.83%, and in the last 12 months, it increased 90.68%.
+
+---
+
+### 2026-06-02 21:31:09  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #MRVL.O #Impact bullish #STM.O #AVGO.O
+
+【U.S. stocks open lower; Marvell jumps 16%】At the open, the Dow fell 0.4%, the S&P 500 was down 0.18% and the Nasdaq slipped 0.2%. NVIDIA (NVDA.O) rose 0.6% after saying its Spectrum‑X Ethernet silicon photonics technology is now in full production. Marvell Technology (MRVL.O) jumped 16%; Jensen Huang said he sees it as a potential next trillion‑dollar company. Broadcom (AVGO.O) gained 5% after Morgan Stanley maintained a buy rating and raised its price target. STMicroelectronics climbed 10% after raising its full‑year data center revenue guidance.
+
+---
+
+### 2026-06-02 21:31:03  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，中進醫療漲17.62%，禾賽科技漲6.50%，理想汽車漲6.95%，摯文集團漲3.59%，阿里巴巴漲5.26%。
+
+---
+
+### 2026-06-02 21:30:55  #MKT News
+
+【Baltic Dry Index falls as larger-vessel rates decline】The Baltic Dry Index fell on Tuesday as Capesize and Panamax rates weakened. The BDI dropped 17 points, or 0.53%, to 3,205. The Capesize index fell 37 points, or 0.7%, to 5,459; Capesize daily earnings declined $338 to $46,008. The Panamax index fell 23 points to 2,321; Panamax daily earnings dropped $206 to $20,889. The Supramax index rose 7 points to 1,577.
+
+---
+
+### 2026-06-02 21:30:45  #市場 #焦點
+
+【美股開盤：三大股指齊跌】道指跌0.41%，標普500指數跌0.18%，納指跌0.23%。Atlassian跌7.63%，財捷跌6.34%，Strategy跌5.46%，Carvana Co.跌5.07%，The Trade Desk跌4.57%，工時公司跌4.47%。“七姐妹”方面：英偉達漲0.86%，特斯拉漲0.82%，蘋果漲0.40%，Meta Platforms漲0.34%，亞馬遜跌1.33%，微軟跌2.68%，谷歌跌2.72%。
+
+---
+
+### 2026-06-02 21:30:42  #其他
+
+【航行警告！渤海執行軍事任務】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月3日0時至6日24時，渤海部分海域開展軍事行動，禁止駛入。
+
+---
+
+### 2026-06-02 21:30:41  #MKT News
+
+【China's first central-local co-built embodied engineering robotics innovation center begins operations】June 1 in Chengdu: Zhicheng Ruijin Robot Technology Co. Ltd opened and the Engineering Embodied Intelligent-Scenario Alliance was signed and unveiled, marking the launch of the country's first central-local co-built embodied engineering robotics innovation center in physical operation. Zhicheng Ruijin is one of a series of “Zhicheng” firms set up by PowerChina's Chengdu Institute to develop strategic emerging industries; it was formed by the Chengdu Institute together with the Chengdu Humanoid Robot Innovation Center, Hydropower Seventh Bureau and Jinjiang Development Group.
+
+---
+
+### 2026-06-02 21:30:40  #MKT News
+
+【Navigation warning: military operations close parts of Bohai Sea】Qinhuangdao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed to navigation for military operations from June 3 00:00 to June 6 24:00 local time; entry is prohibited.
+
+---
+
+### 2026-06-02 21:30:17  #公司
+
+【全國首家央地共建具身工程機器人創新中心實體運營】據中國電建訊息，6月1日，智成睿錦機器人科技有限公司（以下簡稱“智成睿錦”）在成都正式開業，工程具身智慧場景聯盟同步簽約揭牌。這意味著全國首家央地共建具身智慧工程機器人創新中心實體運營載體落地執行。智成睿錦是中國電建所屬成都院佈局戰略性新興產業成立的系列“智成”公司之一，由成都院牽頭，聯合成都人形機器人創新中心、水電七局、錦江發展集團共同組建。
+
+---
+
+### 2026-06-02 21:30:16  #MKT News
+
+【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively.
+
+---
+
+### 2026-06-02 21:30:16  #MKT News #Market Regions #Greater China
+
+【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively.
+
+---
+
+### 2026-06-02 21:30:08  #市場
+
+【Abivax美股盤前跌超40%】Abivax美股盤前跌超40%，現報77.8美元。
+
+---
+
+### 2026-06-02 21:30:04  #其他
+
+法國稱 美方就分行業關稅展開談判至關重要。
+
+---
+
+### 2026-06-02 21:29:55  #MKT News #DXY #Impact bearish #XAUUSD #Copper #Impact bullish
+
+Canada sent formal letters to Mexico and the United States to launch a review of the United States–Mexico–Canada Agreement (USMCA), saying talks with the United States to resolve sectoral tariffs will be crucial.
+
+---
+
+### 2026-06-02 21:29:34  #資料 #國際
+
+美國農業信心指數5月降至119。
+
+---
+
+### 2026-06-02 21:29:31  #MKT News #Commodities #Energy
+
+Vito Energy Group's Bahrain head said the risk of a U.S. ban on crude oil or refined product exports is extremely low.
+
+---
+
+### 2026-06-02 21:29:20  #其他
+
+巴西財長：上午11點召開關於第301條的會議。
+
+---
+
+### 2026-06-02 21:28:55  #國際
+
+加拿大已就《美墨加協定》（USMCA）審議啟動事宜向墨西哥和美國發出正式信函，加方稱與美方就解決行業關稅問題展開磋商至關重要。
+
+---
+
+### 2026-06-02 21:28:46  #國際
+
+【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）
+
+---
+
+### 2026-06-02 21:28:20  #公司 #國際
+
+維多公司巴林負責人湯姆·貝克：認為美國原油或成品油出口禁令的風險極低。
+
+---
+
+### 2026-06-02 21:28:15  #MKT News
+
+Canada’s prime minister Carney said the country proposes extending the US‑Mexico‑Canada Agreement (USMCA) for 16 years.
+
+---
+
+### 2026-06-02 21:27:39  #其他
+
+加拿大提議將《美墨加協定》（USMCA）續期 16 年。
+
+---
+
+### 2026-06-02 21:27:28  #其他
+
+維多利亞的秘密高管在電話會議上表示：預計第二季度關稅影響約為1500萬美元。
+
+---
+
+### 2026-06-02 21:27:06  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Governor Hammack said the unemployment rate remains the best single gauge of the labor market and that the labor market is broadly in balance.
+
+---
+
+### 2026-06-02 21:25:38  #央行 #國際
+
+美聯儲哈馬克：失業率仍是衡量就業市場的最佳單一指標。
+
+---
+
+### 2026-06-02 21:25:12  #MKT News
+
+Purdue University: U.S. farmer confidence fell in May.
+
+---
+
+### 2026-06-02 21:25:10  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+Oil exports from Russia's western ports rose 15% MoM in May after drone strikes disrupted refinery operations, sources said.
+
+---
+
+### 2026-06-02 21:24:36  #MKT News
+
+【Israel, Lebanon hold fourth round of talks in Washington】Israeli sources said the fourth round of Israel-Lebanon talks took place in Washington on the 2nd (local time).
+
+---
+
+### 2026-06-02 21:24:35  #國際
+
+訊息人士稱，無人機襲擊擾亂煉油活動後，俄羅斯5月西部港口石油出口環比增長15%。
+
+---
+
+### 2026-06-02 21:24:24  #資料 #國際
+
+普渡大學：美國農民信心指數在5月份走低。
+
+---
+
+### 2026-06-02 21:24:04  #國際
+
+【以黎在華盛頓舉行第四輪會談】當地時間2日，總檯記者自以色列方面獲悉，以色列-黎巴嫩第四輪會談在美國華盛頓舉行。（央視新聞）
+
+---
+
+### 2026-06-02 21:22:59  #MKT News
+
+Bank of Israel Governor Yaron signaled he may accelerate rate cuts as inflation expectations fall.
+
+---
+
+### 2026-06-02 21:22:57  #其他
+
+卡尼：加拿大產汽車美本土零部件平均佔比已達 50%。
+
+---
+
+### 2026-06-02 21:22:51  #MKT News #Market Themes #AI Revolution
+
+Federal Reserve's Hammack said he is optimistic that AI will complement workers.
+
+---
+
+### 2026-06-02 21:22:30  #其他
+
+【長治市沁源縣委書記趙永進接受省紀委監委紀律審查和監察調查】據山西省紀委監委網站訊息，長治市沁源縣委書記趙永進涉嫌嚴重違紀違法，目前正接受省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-02 21:22:02  #MKT News #Important
+
+i24News reports Israeli and Lebanese officials are holding a fourth round of talks in Washington, D.C.
 
 ---
 
@@ -21712,209 +21964,5 @@ IMF says Brazil's economy has shown marked resilience to multiple shocks. It exp
 ### 2026-06-01 20:03:21  #Trading Economics #Economy #India #Government Budget Value #Importance 1
 
 India’s Fiscal Deficit Doubles in April 2026 Amid Oil Price Surge — India’s fiscal deficit widened sharply to INR 3.6 trillion in April 2026, the first month of the 2026-27 fiscal year, nearly doubling from INR 1.9 trillion a year earlier. As a net energy importer, the country faces rising fuel subsidy costs due to soaring oil prices tied to the ongoing Middle East conflict. For the 2025-26 fiscal year, the deficit reached INR 15.2 trillion, down from INR 15.8 trillion the prior year, equating to 97.5% of the government’s revised estimates. This figure was better than the INR 15.7 trillion target, or 4.4% of GDP.
-
----
-
-### 2026-06-01 20:03:15  #市場
-
-美高梅度假村股價盤前大漲8%。
-
----
-
-### 2026-06-01 20:02:28  #MKT News #Market Regions #Greater China
-
-【Aisino unit wins Sinopec Guangdong IT contract for fuel-card payment terminals】Aisino unit Aitewell Electronic Technology (Beijing) Co. won an IT contract from Sinopec Sales Co.'s Guangdong Petroleum branch to supply and implement multi-function fuel-card payment terminals.
-
----
-
-### 2026-06-01 20:02:25  #其他
-
-【Strategy首次披露出售比特幣 賣出32枚BTC套現250萬美元】監管檔案披露，MicroStrategy（現以Strategy品牌運營）曾出售32枚比特幣，總價值約250萬美元。按披露資料計算，平均出售價格約為77,135美元/枚BTC。
-
----
-
-### 2026-06-01 20:02:22  #央行 #國際
-
-【鮑威爾說美聯儲決策不考慮政黨利益】美聯儲前主席鮑威爾當地時間5月31日表示，在美聯儲就職的也是人，大家並不完美，也會犯錯，但美聯儲會承認錯誤並及時調整方向。他還強調，美聯儲做決策時只會基於對經濟的最佳分析，而不會考慮任何政黨或政治家的利益。鮑威爾作為美聯儲主席的任期於今年5月15日到期，目前他繼續留任美聯儲理事。儘管鮑威爾在美國總統特朗普第一任期受提名就任，但特朗普第二任期以來，他因貨幣政策多次遭特朗普公開指責。 (CCTV國際時訊)
-
----
-
-### 2026-06-01 20:02:18  #MKT News #AMC.N #Impact bullish
-
-AMC (AMC.N) said global cinema attendance in May reached its highest level since 2019.
-
----
-
-### 2026-06-01 20:02:03  #公司
-
-People Inc.正準備發出收購要約，收購賭場巨頭美高梅國際酒店集團，對其估值超過180億美元。
-
----
-
-### 2026-06-01 20:01:48  #央行 #美聯儲
-
-【鮑威爾說美聯儲決策不考慮政黨利益】美聯儲前主席鮑威爾當地時間5月31日表示，在美聯儲就職的也是人，大家並不完美，也會犯錯，但美聯儲會承認錯誤並及時調整方向。他還強調，美聯儲做決策時只會基於對經濟的最佳分析，而不會考慮任何政黨或政治家的利益。
-
----
-
-### 2026-06-01 20:01:42  #公司
-
-【宏潤建設：公司中標深藍航天液體火箭試驗基地工程建設專案 暫定中標金額5億元】宏潤建設公告，公司於近日收到中標通知書，深藍航天液體火箭試驗基地工程建設專案由公司中標承建，暫定工程中標總價人民幣5億元，其中一期工程合同暫定金額人民幣2億元，二期工程合同暫定金額人民幣3億元。專案業主方為江蘇深藍航天有限公司，專案承包方式為施工總承包模式，暫定工期900日曆天。專案內容及規模為試驗基地的土建工程、道路工程、水電綜合管網等全部施工圖紙內容。公司與業主方不存在任何關聯關係。本工程的中標有利於進一步提升公司拓展和參與相關業務的市場競爭力和市場份額。該工程暫定中標金額佔公司2025年度營業收入的8.70%，對公司2026年度及未來財務狀況和經營成果無重大影響。
-
----
-
-### 2026-06-01 20:01:16  #公司
-
-【航天資訊所屬艾體威爾中標中國石化廣東石油分公司資訊化專案】近日，航天資訊所屬艾體威爾電子技術（北京）有限公司中標中國石化銷售股份有限公司廣東石油分公司加油卡多功能支付終端資訊化專案。
-
----
-
-### 2026-06-01 20:01:16  #MKT News #Star Stocks #Alibaba
-
-【Alibaba Assets, PowerChina Real Estate sign strategic cooperation on reviving commercial and office assets】Alibaba Assets and PowerChina Real Estate signed a strategic cooperation agreement at PowerChina’s Beijing headquarters, announcing a deep partnership to jointly explore new approaches to unlocking value and operating existing commercial and office assets.
-
----
-
-### 2026-06-01 20:01:14  #公司
-
-【阿里資產與中國電建地產戰略簽約】6月1日，阿里資產與中國電建地產戰略合作簽約儀式在北京中國電建集團總部舉行。雙方正式宣佈達成深度戰略合作，將共同探索存量時代下商辦資產盤活與運營的新路徑。
-
----
-
-### 2026-06-01 20:00:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-CoreWeave (CRWV.O) completed industry-first enablement and validation of NVIDIA's Vera Rubin NVL72 platform.
-
----
-
-### 2026-06-01 20:00:36  #資料
-
-加拿大至5月29日全國經濟信心指數 50.7，前值51.7。
-
----
-
-### 2026-06-01 20:00:23  #MKT News
-
-Canada national economic confidence index fell to 50.7 as of May 29 from 51.7 previously.
-
----
-
-### 2026-06-01 20:00:17  #MKT News #Economic Calendar #Important
-
-Canada | National Economic Confidence Index (May.29) | actual 50.7 | previous 51.7
-
----
-
-### 2026-06-01 19:59:59  #其他
-
-據農業諮詢機構AGRURAL資料，截至上週四，巴西中南部地區2026年第二季玉米收割完成面積佔總種植面積的2.4%。
-
----
-
-### 2026-06-01 19:59:40  #國際
-
-歐盟代表卡婭・卡拉斯： 巴基斯坦一直是美國與伊朗之間的主要斡旋方。巴方的外交努力多次避免雙方再度爆發全面戰爭，歐洲各界對此高度認可與讚賞。得益於巴方的支援，目前各方迎來微妙的外交契機，有望延長停火協議並重新開放霍爾木茲海峽。
-
----
-
-### 2026-06-01 19:59:23  #公司 #國際
-
-【亞威股份：擬投資Haco歐洲公司80%股份及美國公司49%股份】亞威股份公告，公司擬與比利時工業機械和機床製造商Haco NV開展股權和技術合作，雙方已簽署《投資意向書》。根據意向書，亞威將以收購部分股權及增資方式投資Haco歐洲公司，投資完成後持有其80%股份；以增資方式投資Haco美國公司，投資完成後持有其49%股份。同時，雙方將簽署技術轉讓協議，由Haco向亞威轉讓業務相關技術，技術轉讓與股權投資交割同步完成。本次交易尚處於初步意向階段，具體交易方案、金額等將在盡職調查、審計評估後確定。
-
----
-
-### 2026-06-01 19:59:06  #公司
-
-博塔斯管道公司、亞塞拜然國家石油公司、道達爾能源、阿聯酋阿布扎比國家石油公司簽署亞塞拜然天然氣輸送合作協議。
-
----
-
-### 2026-06-01 19:58:29  #公司 #觀點 #國際
-
-【摩根士丹利：HawkEye 360遙遙領先於競爭對手】摩根士丹利分析師表示，HawkEye 360的射頻資料遙遙領先於競爭對手所能提供的資料；這些分析師首次覆蓋該股，給予增持評級，目標價為41美元。摩根士丹利的分析師表示：“我們認為，Hawk經過多年收集而建立的豐富發射源資料庫和完善的處理演算法，提供了深厚的競爭護城河。該公司的資料收集價格相對容易接受。其資料分析附加功能為其終端市場提供了差異化情報，從而創造了對其產品的強勁需求。”此外，摩根士丹利的分析師表示，由於該公司的產品未被列為機密，它可以從盟國政府客戶和美國軍方部分領域獲得業務，而無需高階別的安全許可。
-
----
-
-### 2026-06-01 19:58:05  #MKT News
-
-【INFevo completes tens-of-millions-of-yuan angel round】June 1 — JingTai Technology said its deep-incubated AI biotech unit INFevo completed an angel round of several tens of millions of yuan, with participation from Shunwei Capital, Sequoia China and Songhe Capital.
-
----
-
-### 2026-06-01 19:57:54  #MKT News
-
-Lebanon's president said negotiations do not constitute surrender but are the least-cost route to prevent war with Israel. He said Israel did not "assist" in enforcing the ceasefire, and that disarming southern areas will take time as the Lebanese army carries out its duties.
-
----
-
-### 2026-06-01 19:57:38  #MKT News
-
-【Guangdong heat to persist; power-supply pressure remains acute】Since May 27 China’s Guangdong grid has set three record peak loads this year, reaching 173.67 GW (1.7367×10^8 kW), up 5.3% from last year’s peak and making Guangdong the first Chinese province to top 170 GW this year. Multiple cities logged fresh highs. Guangzhou’s grid hit consecutive peaks on May 28 and 29 at 25.946 GW (25.946×10^6 kW), 3.33% above last year’s high. Recent heavy rain has not dented the heat; demand remains strong and ensuring power supply will remain a significant challenge.
-
----
-
-### 2026-06-01 19:57:29  #宏觀 #公司 #市場 #國際
-
-【在對美伊衝突的擔憂之際，比特幣下跌】IG的Chris Beauchamp在一份報告中表示，隨著美國扣押伊朗加密貨幣資產打擊了市場情緒，比特幣正面臨壓力。財政部長斯科特·貝森特上週五表示，美國已經扣押了約10億美元的伊朗加密資產，這是在“經濟狂怒”行動下擠壓伊朗收入來源的努力的一部分。Beauchamp說：“在一個加密貨幣難以保持其曾經擁有的關注度的世界裡，這樣的訊息幾乎沒有幫助。”他說，對比特幣的另一個威脅是，鑑於霍爾木茲海峽持續關閉和原油庫存下降，近期由人工智慧推動的美股漲勢是否會逆轉。倫敦證券交易所集團的資料顯示，比特幣下跌1.4%，至72,607美元。
-
----
-
-### 2026-06-01 19:57:00  #公司
-
-伯恩斯坦將戴爾科技集團的目標股價從每股280美元上調至每股500美元。
-
----
-
-### 2026-06-01 19:56:49  #其他
-
-Rapid7重申第二季度及全年財務指引。
-
----
-
-### 2026-06-01 19:56:36  #MKT News #Commodities #Energy
-
-Turkey's state pipeline company, Azerbaijan's state oil company SOCAR, TotalEnergies and Abu Dhabi National Oil Company (ADNOC) signed an agreement on Azerbaijani gas supplies. Turkey will receive 33 bcm/year from Azerbaijan starting in 2029.
-
----
-
-### 2026-06-01 19:55:57  #MKT News #DAL.N #Impact bullish #LUV.N
-
-MORGAN STANLEY raises PT for Delta Air Lines (DAL.N) to $105 from $90 and for Southwest Airlines (LUV.N) to $60 from $55.
-
----
-
-### 2026-06-01 19:55:54  #其他
-
-【山西安監加碼 煤焦供需偏緊轉向】山西安監全面升級，焦煤供給迅速收緊。目前，長治、呂梁、晉中、臨汾等主產區啟動拉網式安全檢查，沁源地區25座煤礦（產能2560萬噸）全面停產核查，長治地區嚴格安監檢查（自查+督查）到7月底，該地區主產優質主焦煤、瘦煤等焦煤資源。根據Mysteel最新調研結果顯示，5月23日以來山西停產煉焦煤礦數量共計130座。截至5月29日上午已復產18座，涉及產能2530萬噸;仍處於停產狀態煤礦共計112座，產能共計1.22億噸。 (廣發期貨)
-
----
-
-### 2026-06-01 19:55:43  #觀點
-
-摩根士丹利將戴爾股票評級從低配上調至持平，將其目標股價從170.00美元上調至448.00美元。
-
----
-
-### 2026-06-01 19:55:31  #MKT News #Important #DELL.O #Impact bullish
-
-Morgan Stanley raises target price on Dell (DELL.N) to $448 from $170.
-
----
-
-### 2026-06-01 19:54:37  #其他
-
-【無界進化完成數千萬元天使輪融資】6月1日，晶泰科技宣佈，其深度孵化的AI生物企業——無界進化（INFevo）已完成數千萬元天使輪融資，由順為資本、紅杉中國與松禾資本共同參與。
-
----
-
-### 2026-06-01 19:53:53  #其他
-
-【多地搶灘太空算力 全球萬億美元級市場待挖掘】北京成立太空智算研究院，天津組建太空數智基礎設施聯合攻關體，上海成立太空算力產業生態夥伴計劃……近段時間，各地太空算力領域動作不斷，產業加快發展。工業和資訊化部也表示，支援開展太空算力技術前瞻性研究，有序推動太空算力產業發展。當前，太空算力處於技術突破與產業佈局的關鍵視窗期。盤古智庫高階研究員吳琦表示，人工智慧帶動算力需求激增，地面算力面臨能耗、散熱瓶頸，太空算力憑藉太陽能供電和廣域覆蓋成為未來方向。機構預測到2030年，全球太空經濟市場規模將超過萬億美元，太空算力商業前景廣闊。業內專家指出，太空算力是繼通訊導航遙感之後的新一代天基資訊服務能力，融合航天、能源、計算與人工智慧等領域，已成為大國科技競爭以及商業航天發展的新賽道，更是支撐數字中國建設和數字經濟高質量發展的新引擎，正在引領新一輪科技革命。 (第一財經)
-
----
-
-### 2026-06-01 19:53:45  #MKT News #Star Stocks #JD.com
-
-【Zhiyuan to open first offline store in Shanghai on June 13】Zhiyuan will open its first JD-linked offline store on June 13 at 3509 Caobao Road, Minhang District, Shanghai. The store is positioned as a prototype for integrated retail-complex deployment and will operate a full-chain, robot-led model from front-end sales to back-end operations, aiming to let robots "sell themselves"; it will feature four modules: Lingxi guided shopping, a cyber performance showcase, a maker/education space and an intelligent logistics hub.
 
 ---

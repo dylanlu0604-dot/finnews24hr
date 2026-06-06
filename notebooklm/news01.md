@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 17:28:45_
-_本檔包含 3621 則快訊，約 703048 字_
+_更新時間：2026-06-06 18:22:22_
+_本檔包含 3610 則快訊，約 703187 字_
+
+---
+
+### 2026-06-06 18:20:19  #MKT News #Important #Market Themes #AI Revolution
+
+【Sources: U.S. government weighing equity stakes in major AI firms】U.S. reporting on June 6 cited three people with knowledge saying senior U.S. officials have held preliminary talks with large U.S. AI companies about the government taking equity stakes. Sources said Sam Altman, CEO of OpenAI, has regularly discussed the idea with senior officials since President Trump's second term began; he first raised the concept to Trump in early 2025 and has recently revisited it as a way to broaden public distribution of AI-related economic gains. Discussions have centered on firms voluntarily transferring shares to the government, with investment returns that could be used for public purposes; the proposal is still being developed and specifics remain undecided.
+
+---
+
+### 2026-06-06 18:18:59  #國際
+
+【關於談判，伊朗高官表示“球”在美方腳下】伊朗最高領袖軍事顧問穆赫辛·雷扎伊5日表示，美國與伊朗能否達成協議，取決於美國政府是否同意解凍伊朗240億美元遭凍結資產。他同時警告，美方若重啟軍事行動，將“邁向一條黑暗道路”。雷扎伊當天在伊朗首都德黑蘭接受美國有線電視新聞網(CNN)記者專訪時說：“談判正陷入僵局，（美國總統）特朗普必須打破僵局。主動權在他手裡。”(新華社)
+
+---
+
+### 2026-06-06 18:18:21  #其他
+
+科威特方面通報：已處置三起殘骸墜落事件，其中兩起引發火情。
+
+---
+
+### 2026-06-06 18:16:59  #公司 #國際
+
+【知情人士：美國政府考慮入股人工智慧企業】據美國方面6月6日訊息，三名知情人士透露，美國政府高階官員已與美國大型人工智慧企業進行了初步討論，探討政府入股這些企業的可能性。知情人士表示，自美國總統特朗普第二個任期開始，美國開放人工智慧研究中心執行長奧爾特曼就定期與政府高階官員討論這一構想。奧爾特曼在2025年初首次向特朗普提出相關概念，並在最近幾周再次與政府高階官員進行討論，將其視為一種向公眾更廣泛地分配人工智慧相關經濟效益的方式。據悉，討論的重點在於讓這些企業“自願將股份轉讓給政府”，投資回報隨後可用於公共用途。不過，相關計劃仍在籌備中，且具體細節尚未確定。（央視新聞）
+
+---
+
+### 2026-06-06 18:16:15  #其他
+
+【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月6日18時聯合釋出橙色山洪災害氣象預警：預計，6月6日20時至6月7日20時，重慶東南部、貴州東北部等地部分地區發生山洪災害可能性較大（黃色預警），其中，貴州東北部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-06-06 18:11:16  #MKT News
+
+Bahrain Defence Force General Command said deliberate use of missiles and drones targeting civilians and private property is a serious violation of international humanitarian law.
+
+---
+
+### 2026-06-06 18:09:27  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Bahrain's military said it intercepted three missiles and multiple drones from Iran.
+
+---
+
+### 2026-06-06 18:05:42  #國際
+
+巴林軍方稱其攔截了來自伊朗的三枚導彈及多架無人機。
+
+---
+
+### 2026-06-06 17:53:54  #公司
+
+【三峽集團首個無人機智慧巡檢管理體系投入執行】“三峽小微”公眾號訊息，近日，三峽集團首個無人機智慧巡檢管理體系在內蒙古投入執行，首批覆蓋12座新能源場站，總裝機640萬千瓦，實現無人機統一管控、統籌排程、智慧診斷、閉環消缺。該套體系的落地，標誌著三峽集團在新能源場站規模化智慧運維方面邁出關鍵一步，為國內新能源場站集約化巡檢提供了實踐樣板。
+
+---
+
+### 2026-06-06 17:53:36  #公司
+
+【可同時裝六架飛機 我國新型滾裝船今天下水】今天，我國建造的用於運輸飛機部件的滾裝船在中船集團武昌造船廠順利下水。這艘船交付後，將主要用於飛機部件的運輸。據介紹，這艘船在下水後將在碼頭完成發動機、螺旋槳、電力系統等裝置的功能試驗。計劃今年11月正式交付，交付後將主要用於跨大西洋的飛機部件運輸工作。（央視）
+
+---
+
+### 2026-06-06 17:49:12  #國際
+
+【以國防部稱就“誤擊”黎軍車輛事件展開調查】以色列國防部發表宣告稱：“今天早些時候，以色列國防軍在黎巴嫩泰布尼特地區附近發現一輛可疑車輛正向以色列國防軍士兵駛來。該車輛當時正穿過一個已撤離的活躍戰區。以色列國防軍此前已收到確鑿情報，稱真主黨將從該區域向以色列國防軍士兵開火。其他情報和作戰資訊表明，真主黨在該地區開展了大量恐怖活動。在發現該車輛後，鑑於有確鑿情報表明真主黨將在該地區開火，且該車輛對以色列國防軍士兵構成威脅，以色列國防軍對該車輛進行了打擊。初步調查顯示，車內有兩名黎巴嫩軍隊軍官和一名士兵。該事件正在調查中。需要強調的是，該地區是活躍戰區，在該區域的任何行動都必須與以色列國防軍協調。以色列國防軍正在對該事件進行調查，並將從中吸取教訓。以色列國防軍的行動目標是打擊真主黨恐怖組織，而不是黎巴嫩軍隊。”
+
+---
+
+### 2026-06-06 17:48:18  #MKT News
+
+Israel Defense Forces (IDF) said preliminary reports indicate air-raid sirens warning of suspected enemy aircraft infiltration sounded in the Even Menachem and Shomera areas.
+
+---
+
+### 2026-06-06 17:47:33  #MKT News
+
+Saudi outlet Alhadath cited sources saying Iran has requested a three-month negotiation period to discuss details of nuclear documents.
+
+---
+
+### 2026-06-06 17:46:36  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+【Wuxi to prioritize AIDC, Token frontiers; compile tiered project lists and set up promotion mechanisms】Wuxi municipal party secretary Du Xiaogang chaired a city meeting on June 6 on integrated circuits (AI) industry development. The city directed concentrated project support across design, manufacturing, packaging & testing, and equipment and materials, prioritizing frontier tracks including AIDC and Token. Officials will compile tiered, categorized project lists, establish formal promotion mechanisms, and intensify regular monitoring, linked services and targeted support for key and benchmark projects. Wuxi will deepen coordination with listed companies, industry leaders, research institutes and investment firms to align with industry trends and accelerate deployment of quality incremental projects.
+
+---
+
+### 2026-06-06 17:44:10  #公司
+
+【無錫：聚焦AIDC、Token等前沿賽道 分層分類梳理專案清單、建立推進機制】據無錫日報訊息，6月6日，無錫市委書記杜小剛主持召開全市積體電路（人工智慧）產業發展專題推進會。會議強調，要夯實專案支撐。緊盯設計、製造、封測和裝備材料等重點環節，聚焦AIDC、Token等前沿賽道，分層分類梳理專案清單、建立推進機制，強化對重點專案特別是標杆專案的常態排程、掛鉤服務、精準支援。同時，密切與上市公司、龍頭企業、科研院所、投資機構等對接，把握行業趨勢、精準切入賽道，共同落地更多優質增量專案。
+
+---
+
+### 2026-06-06 17:43:35  #MKT News
+
+Kuwait's Foreign Ministry reiterated that Kuwait reserves the right to take all necessary measures to safeguard national security, defend territorial integrity, protect critical infrastructure and respond to any aggression or threats.
+
+---
+
+### 2026-06-06 17:42:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's foreign ministry strongly condemned Iran's repeated hostile acts of aggression, particularly today's pre-dawn attack.
+
+---
+
+### 2026-06-06 17:42:27  #公司
+
+【安陽鋼鐵：與安徽中鋼聯新材料等簽約先進合金材料新專案】據安陽鋼鐵公眾號訊息，6月6日，河南鋼鐵集團黨委常委、副總經理、‌安陽鋼鐵股份有限公司‌黨委書記、董事長程官江和安陽高新區黨工委委員、管委會副主任田建濱一同前往六安市，與安徽中鋼聯新材料有限公司董事長呂林舉行了先進合金材料暨複合板專案簽約儀式。此次簽約標誌著三方強強聯合、政企協同的新材料產業化專案正式落地，將進一步補齊先進合金複合材料產業鏈短板，助力安陽鋼鐵產業向高階化、精細化轉型升級。
+
+---
+
+### 2026-06-06 17:41:39  #MKT News
+
+Al Arabiya TV, citing sources, said Pakistan's interior minister will travel to Iran to discuss ways to reach a US-Iran memorandum of understanding.
+
+---
+
+### 2026-06-06 17:40:51  #MKT News
+
+Al Arabiya cited sources saying messages between the US and Iran were relayed via Iraqi Foreign Minister al-Alaki and US Middle East envoy Witkoff.
+
+---
+
+### 2026-06-06 17:39:40  #國際
+
+阿拉伯訊息人士稱，特朗普告知調解人員，他不會進行超過60天的談判，並要求伊朗迅速作出回應。
+
+---
+
+### 2026-06-06 17:39:36  #MKT News #WTI #Impact bullish #XAUUSD
+
+Al Arabiya TV, citing Arab sources, said Trump told mediators he would not engage in negotiations lasting more than 60 days and pressed Iran to respond swiftly.
+
+---
+
+### 2026-06-06 17:38:00  #MKT News #Market Regions #Greater China
+
+【Lüliang convenes meeting to tighten coal-mine safety responsibilities】June 5 — Lüliang, Shanxi held a meeting to tighten local responsibility for coal-mine safety, assess current safety conditions and deploy priority tasks. The city ordered implementation of the Lüliang coal-mine safety responsibility implementation checklist (trial) and mandated three tiers of meetings — local authorities, supervisory agencies and company principals — to reinforce warning education, tiered management, clarify responsibilities and key control points, and ensure tasks are executed. Counties must produce action plans; functional departments must enforce the directives at every enterprise and require firms to issue work plans and fulfill tasks. City and county authorities will jointly intensify supervision of checklist and meeting compliance, and use the provincial coal-mine safety risk rectification campaign to resolutely crack down on illegal operators and to investigate and punish dereliction of duty, including public officials who act as “protective umbrellas.”
+
+---
+
+### 2026-06-06 17:36:20  #其他
+
+【北京市委常委會召開會議，堅決擁護黨中央決定，以更高標準、更實舉措推進全面從嚴治黨】6月6日下午，市委常委會召開會議，通報魏小東涉嫌嚴重違紀違法接受中央紀委國家監委紀律審查和監察調查的有關情況。市委書記尹力主持會議。 會議指出，中央紀委國家監委對魏小東涉嫌嚴重違紀違法進行紀律審查和監察調查，充分體現了以習近平同志為核心的黨中央堅持黨要管黨、全面從嚴治黨的堅定決心，充分彰顯了我們黨勇於自我革命、永葆先進性和純潔性的堅強意志，充分釋放了反腐敗無禁區、全覆蓋、零容忍的強烈訊號。北京市委堅決擁護黨中央決定。全市各級黨組織和廣大黨員幹部要堅決把思想和行動統一到黨中央決定精神上來，深刻汲取教訓、引以為戒、警鐘長鳴，以更高標準、更實舉措推進全面從嚴治黨，以實際行動堅定擁護“兩個確立”、堅決做到“兩個維護”。（北京日報）
+
+---
+
+### 2026-06-06 17:34:25  #MKT News
+
+Israeli military says incident is under review.
+
+---
+
+### 2026-06-06 17:34:18  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli military says it has seen signs Hezbollah will fire on its troops from the same area.
+
+---
+
+### 2026-06-06 17:34:08  #國際
+
+以色列軍方表示，已獲情報顯示真主黨將從同一區域向以軍士兵開火。
+
+---
+
+### 2026-06-06 17:33:59  #MKT News
+
+Israeli military says preliminary probe indicates two Lebanese army officers and one soldier were inside the vehicle.
+
+---
+
+### 2026-06-06 17:33:50  #MKT News
+
+Israeli military said it struck a vehicle in southern Lebanon after identifying a threat to its troops.
+
+---
+
+### 2026-06-06 17:33:23  #國際
+
+以色列軍方表示，在識別出"對其部隊的威脅"後，空襲了黎巴嫩南部的一輛車輛。初步調查顯示，黎巴嫩陸軍的兩名軍官和一名士兵當時在該車輛內。
+
+---
+
+### 2026-06-06 17:30:33  #宏觀
+
+【山西呂梁市召開進一步壓實煤礦安全生產屬地責任專題會議：以最嚴肅的態度、最嚴厲的措施、最嚴實的作風抓好安全工作】山西呂梁市召開進一步壓實煤礦安全生產屬地責任專題會議。市委書記李雲峰指出，要堅決徹底地落實習近平總書記重要指示精神，認真落實國務院、省委省政府關於安全生產的各項部署，把抓好安全生產作為體現政治態度、政治能力、政治擔當的重要檢驗，作為踐行“兩個至上”的重要檢驗，作為衡量樹立和踐行正確政績觀學習教育成效的重要檢驗，深刻汲取長治沁源留神峪煤礦瓦斯爆炸事故慘痛教訓，把“隱患就是事故”的理念真正刻進腦子裡、落實到行動上，以最嚴肅的態度、最嚴厲的措施、最嚴實的作風抓好安全工作。李雲峰強調，要以全省煤礦安全風險隱患專項整治行動為契機，堅決徹底打擊違法違規企業，嚴肅查處失職瀆職，甚至充當“保護傘”的公職人員，有力發揮震懾遏制效果。
+
+---
+
+### 2026-06-06 17:30:20  #公司 #國際
+
+【馬克龍加速佈局法國科技版圖，一週吸金超1100億歐元】過去一週，馬克龍的科技雄心獲得了空前的資本支援。透過“選擇法國”投資峰會，馬克龍本週吸引了超過1100億歐元的AI和資料中心投資意向。此外，據OpenAI向CNBC透露，馬克龍還邀請了阿爾特曼出席即將在法國舉行的七國集團峰會。分析認為，馬克龍密集向科技行業領袖遊說，體現出他希望提升法國AI實力的決心。但這些專案能否真正落地，仍取決於法國能否加快審批，並縮短資料中心接入電網的時間。馬克龍表示，速度和簡化流程是關鍵。有分析人士稱，馬克龍可能會採取“巴黎聖母院模式”，借鑑2019年巴黎聖母院火災後快速重建的經驗。不過，由於馬克龍無法參加2027年總統大選，相關機制能否延續，仍存在不確定性。（央視財經）
 
 ---
 
@@ -21651,272 +21843,5 @@ Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are
 ### 2026-06-05 06:18:02  #國際
 
 【普京：需要說服烏方相信俄羅斯同意妥協】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方同意在烏克蘭問題上作出妥協，但需要說服烏方相信這一點。普京表示，俄羅斯不反對烏克蘭加入歐盟，但反對歐盟變成一個軍事聯盟。歐盟可以為解決烏克蘭問題發揮積極作用，但方式應該是說服烏克蘭接受妥協方案，而不是向烏克蘭提供武器。普京說，俄方希望與烏方“合法代表”簽署檔案，俄烏達成的協議將是一份具有歷史意義的檔案。他表示，烏克蘭舉行總統選舉非常重要。（新華社）
-
----
-
-### 2026-06-05 06:17:42  #其他
-
-【ETF座次重新洗牌 資金“換擋”重塑市場生態 】6月3日，易方達基金憑藉6185.19億元的ETF管理規模問鼎市場，坐上境內ETF基金管理人的“頭把交椅”。在當前ETF管理規模排名前十的基金管理人中，除易方達基金外，國泰基金、廣發基金、博時基金、華安基金的最新位次相比年初均有提升。當資金邏輯從全市場貝塔配置轉向細分行業阿爾法收益挖掘，業內人士認為，境內ETF市場生態正發生全方位重構，未來前瞻佈局細分賽道、提高精細化運作程度、夯實產品流動性壁壘、搭建多元化產品矩陣、完善機構定製與投顧生態等將成為ETF競爭的重要方向。（中證報）
-
----
-
-### 2026-06-05 06:16:48  #其他
-
-【前5個月基金新開戶數近160萬，基金經理對後市普遍持樂觀態度】隨著公募基金賺錢效應的持續顯現，投資者對基金的關注度也在不斷升溫。上交所資料顯示，今年前5個月基金新開戶數近160萬，同比增長超過20%。從近期基金髮行情況看，權益與“固收+”產品均接連出現爆款。站在當前時點，機構對後市普遍持樂觀態度。（上證報）
-
----
-
-### 2026-06-05 06:16:44  #市場
-
-【機構前瞻下半年資本市場新趨勢：改革強根基 資金增活力 工具提質效】多家機構近期密集釋出對2026年下半年資本市場趨勢的展望報告。機構人士認為，資本市場改革已從頂層規劃的“施工圖”階段，逐步轉向政策措施落地的“實景圖”攻堅階段。 下半年，政策層面，創業板改革、再融資一攬子措施等重磅舉措進一步深化落實，有望持續拓展直接融資服務實體經濟的邊界；資金層面，長線資金入市機制不斷完善；產品層面，期貨、衍生品等工具箱進一步備齊，更好發揮資本市場在最佳化資源配置、服務實體經濟等方面的積極作用。總體來看，資本市場正邁向“質效提升”新階段。（中證報）
-
----
-
-### 2026-06-05 06:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.32% — Top currency gainers are Brazilian Real (0.32%), Swiss Franc (0.32%), Mexican Peso (0.30%) and Euro (0.13%). Biggest loser is Dollar Index (-0.10%). Meanwhile, British Pound and Japanese Yen were little changed.
-
----
-
-### 2026-06-05 06:09:55  #其他
-
-【券商密集釋出2026年度提質增效方案，錨定投行提質、控薪增效、分紅回饋三條主線】據統計，截至6月3日，已有16家上市券商披露2026年度“提質增效重回報”行動方案。從頭部券商到區域特色券商，各家方案在“建設一流投行”“壓實關鍵少數責任”“提升股東回報”三大方向上形成共識，且因資源稟賦差異走出了不同路徑。（上證報）
-
----
-
-### 2026-06-05 06:05:15  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index eases 0.11% to 99.419 at New York close】The dollar index (DXY) eased 0.11% to 99.419 at the New York close. EUR/USD 1.1614 (prev. 1.1598); GBP/USD 1.3425 (1.3416); USD/JPY 160.02 (160.03); USD/CHF 0.7892 (0.7924); USD/CAD 1.3899 (1.3895); USD/SEK 9.3737 (9.4065).
-
----
-
-### 2026-06-05 06:04:18  #市場
-
-【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.419。截至紐約匯市尾市，1歐元兌換1.1614美元，高於前一交易日的1.1598美元；1英鎊兌換1.3425美元，高於前一交易日的1.3416美元。1美元兌換160.02日元，低於前一交易日的160.03日元；1美元兌換0.7892瑞士法郎，低於前一交易日的0.7924瑞士法郎；1美元兌換1.3899加元，高於前一交易日的1.3895加元；1美元兌換9.3737瑞典克朗，低於前一交易日的9.4065瑞典克朗。
-
----
-
-### 2026-06-05 06:01:52  #公司 #市場 #國際
-
-【6月5日隔夜要聞一覽】
-1、美股週四收盤漲跌不一，道指上漲逾870點並創歷史新高。 道指漲874.86點，漲幅為1.73%，報51561.93點；納指跌23.02點，跌幅為0.09%，報26830.96點；標普500指數漲30.63點，漲幅為0.41%，報7584.32點。
-2、普京願在俄美會晤基礎上與烏談判，澤連斯基公開致信普京，提議舉行會晤。
-3、特朗普稱若達成協議，不排除與伊朗最高領袖會晤。
-4、伊朗外長阿拉格齊表示，伊朗此前已警告該地區各國，如果它們參與對伊朗的侵略，其境內的美國軍事基地將成為伊朗的合法打擊目標。
-5、瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。
-6、美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。
-7、伊朗最高領袖軍事顧問雷扎伊表示，如果以色列向黎巴嫩的達希耶方向推進，伊朗所有的導彈便會蓄勢待發。
-8、葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。
-9、巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。
-
----
-
-### 2026-06-05 06:00:38  #市場 #焦點
-
-現貨白銀突破74美元/盎司，日內漲0.03%。
-
----
-
-### 2026-06-05 06:00:19  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為96.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96.4%，累計降息25個基點的機率為3.6%。美聯儲到7月維持利率不變的機率為88.5%，累計加息25個基點的機率8.2%，累計降息25個基點的機率為3.2%。
-
----
-
-### 2026-06-05 05:55:18  #其他
-
-中國地震臺網正式測定：06月05日05時49分在新疆阿克蘇地區庫車市（北緯41.31度，東經83.95度）發生3.6級地震，震源深度17千米。
-
----
-
-### 2026-06-05 05:52:55  #MKT News
-
-U.S. President Trump said he will hold a celebration in Washington, D.C., on June 24 to mark the 250th anniversary of U.S. founding.
-
----
-
-### 2026-06-05 05:50:16  #國際
-
-【哈馬斯高官與伊朗外長通話討論地區局勢 】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。宣告說，哈亞在通話中表示，以色列持續侵略和佔領加沙地帶，並阻撓停火協議執行。他重申巴勒斯坦各抵抗派別和巴勒斯坦人民的堅定立場，即繼續抵抗直至實現巴勒斯坦民族目標，特別是要結束以色列的侵略和佔領。宣告說，阿拉格齊在通話中讚揚巴勒斯坦人民和巴勒斯坦各抵抗派別面對以色列襲擊所展現出的頑強意志。他表示，伊朗將繼續奉行支援中東地區人民、特別是巴勒斯坦和黎巴嫩人民對抗以色列佔領和侵略這一原則性政策。（新華社）
-
----
-
-### 2026-06-05 05:48:47  #其他
-
-訊息人士稱，SpaceX告知投行其IPO發行價定為每股135美元，不會變動。
-
----
-
-### 2026-06-05 05:48:18  #國際
-
-【美國小企業招聘計劃降至2020年5月以來最低】美國獨立企業聯合會(NFIB)表示，美國小企業中，表示計劃新增招聘和表示難以填補職位空缺的企業佔比5月份雙雙降至六年低點。NFIB在週四釋出的報告中表示，經季節性調整後，9%的企業主計劃在未來三個月新增崗位，較4月份下降4個百分點；表示有職位空缺無法填補的企業佔比下降5個百分點至29%。這兩項指標均為2020年5月以來最低。
-
----
-
-### 2026-06-05 05:47:21  #國際
-
-特朗普：將於6月24日晚7點在華盛頓特區舉行集會。
-
----
-
-### 2026-06-05 05:46:17  #國際
-
-【以色列繼續空襲黎巴嫩 真主黨打死以軍士兵 】據黎巴嫩國家通訊社4日報道，以色列軍隊當天繼續對黎南部和東部貝卡谷地發動一系列空襲，造成至少9人死亡、數十人受傷。以色列軍方宣佈，一名以軍士兵在黎南部死於黎真主黨襲擊。黎通社報道，當天傷亡最嚴重的一起空襲發生在貝卡谷地索赫穆爾鎮，造成5人死亡、4人受傷。黎南部阿巴西耶鎮和邁阿魯卜鎮也遭以軍空襲，共造成4人死亡、2人受傷。報道說，以軍戰機和無人機當天還對黎南部另外幾地發動空襲，造成多人受傷，部分民用設施受損。（新華社）
-
----
-
-### 2026-06-05 05:45:52  #MKT News
-
-Sources said SpaceX told investment banks its IPO is set at $135 a share and will not change.
-
----
-
-### 2026-06-05 05:45:39  #國際
-
-【伊朗官員：若以色列向黎巴嫩達希耶方向推進將承受巨大代價】當地時間4日，伊朗最高領袖軍事顧問雷扎伊表示，如果以色列向黎巴嫩的達希耶方向推進，伊朗所有的導彈便會蓄勢待發。若真如此，伊朗將讓以色列承受巨大代價。此外他表示，霍爾木茲海峽是為貿易而開放，而非供軍事力量駐紮。如果美國聲稱支援貿易，那麼它就應當放棄軍事封鎖行徑。（央視新聞）
-
----
-
-### 2026-06-05 05:45:27  #公司 #國際
-
-標普道瓊斯指數公司： 已就標普美國系列指數、道瓊斯全市場指數中巨型市值公司編制規則的潛在修訂開展市場徵詢。 標普 500、標普中型股 400 及標普小型股 600 的入選標準維持不變。
-
----
-
-### 2026-06-05 05:44:12  #MKT News
-
-【Trump welcomes potential Putin–Zelenskiy meeting, says Russia and Ukraine will 'compromise'】At a White House event on the 4th, President Trump told reporters he would welcome a meeting between Russian President Putin and Ukrainian President Zelenskiy and said such a meeting would be "very good." He said progress toward talks owed 'to our push,' added Moscow and Kyiv would make compromises 'as I suggested,' and declined to disclose details.
-
----
-
-### 2026-06-05 05:44:07  #國際
-
-【特朗普：樂見“普澤會”，俄烏會“妥協”】美國總統特朗普4日在白宮一場活動上對媒體說，俄羅斯總統普京和烏克蘭總統澤連斯基若能會面，將“非常好”。被問及澤連斯基當天公開致信普京提議在第三國舉行會晤時，特朗普說，他很高興看到兩國領導人似乎正在商討會面事宜，稱“這其中很大程度上歸功於我們的推動”。“如果他們能見上一面，那將是一件非常好的事。他們真該把這件事定下來。”特朗普還說，為結束俄烏衝突，俄烏雙方都會作出妥協，就像“我建議的那樣”。但他拒絕透露相關詳情。（新華社）
-
----
-
-### 2026-06-05 05:36:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices fell sharply on the 4th】At the close on the 4th, NYMEX July light sweet crude futures fell $2.98 to $93.04/bbl, down 3.10%. ICE Brent August futures fell $2.78 to $95.03/bbl, down 2.84%.
-
----
-
-### 2026-06-05 05:34:11  #市場
-
-【國際油價4日顯著下跌】國際油價4日顯著下跌。 截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.98美元，收於每桶93.04美元，跌幅為3.10%；8月交貨的倫敦布倫特原油期貨價格下跌2.78美元，收於每桶95.03美元，跌幅為2.84%。(新華社)
-
----
-
-### 2026-06-05 05:34:04  #公司
-
-谷歌：自 2026 至 2027 學年起，與猶他州教育委員會合作，在當地 K-12 中小學落地教育版 Gemini。
-
----
-
-### 2026-06-05 05:33:12  #MKT News
-
-Fox News reported the Trump administration plans to issue a policy statement telling banks they may take customers' immigration status into account as one factor when evaluating ability to repay mortgages and credit-card debt.
-
----
-
-### 2026-06-05 05:29:12  #國際
-
-市場訊息：美國將讓銀行業關注客戶的移民狀態。美國消費者金融保護局（CFPB）將於6月5日釋出銀行業政策。
-
----
-
-### 2026-06-05 05:25:29  #央行 #國際
-
-特朗普的顧問納瓦羅：美聯儲不應該加息，那會造成供應衝擊並傳到至通脹。
-
----
-
-### 2026-06-05 05:23:55  #公司
-
-標普道瓊斯指數公司計劃不對超大市值公司指數的入選資格期限做出任何調整。
-
----
-
-### 2026-06-05 05:21:30  #其他
-
-標普道瓊斯指數：巨型市值股票指數入選視窗期暫無調整計劃。
-
----
-
-### 2026-06-05 05:19:39  #國際
-
-據CNN：影片顯示，今年3月參與對伊朗軍事行動時發生火災的美國“福特”號航母，其損壞程度比海軍方面所說的要嚴重得多。
-
----
-
-### 2026-06-05 05:19:38  #MKT News
-
-According to CNN, video footage shows the US carrier USS Ford, which suffered a fire in March during operations against Iran, appears more severely damaged than the US Navy has reported.
-
----
-
-### 2026-06-05 05:15:20  #市場
-
-富時A50期指連續夜盤收漲0.16%，報15734點。
-
----
-
-### 2026-06-05 05:13:14  #其他
-
-Lululemon： 受關稅成本走高及持續投入費用影響，預計第二季度毛利率同比下滑約 410 個基點。
-
----
-
-### 2026-06-05 05:12:09  #宏觀 #國際
-
-美國國務院：魯比奧同玻利維亞總統舉行了會談。魯比奧在會晤期間重申，美國堅定致力於扶持玻利維亞民主以及政府。
-
----
-
-### 2026-06-05 05:11:54  #MKT News
-
-State Department: U.S. Secretary of State Rubio spoke with Bolivian President Paz.
-
----
-
-### 2026-06-05 05:11:01  #宏觀 #國際
-
-美國國務院：魯比奧在與帕斯會談時表示，美國正加大對玻利維亞的緊急援助力度，並加碼後勤行動支援。
-
----
-
-### 2026-06-05 05:09:03  #MKT News
-
-【US adds Cuban president Díaz-Canel to sanctions list】The US Treasury’s Office of Foreign Assets Control said on the 4th it added Cuban President Miguel Díaz-Canel, his wife and the son of revolutionary leader Raúl Castro, among others, to its sanctions list.
-
----
-
-### 2026-06-05 05:08:59  #宏觀 #國際
-
-【美方將古巴國家主席列入制裁名單】美國財政部外國資產控制辦公室4日釋出的訊息顯示，美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。（新華社）
-
----
-
-### 2026-06-05 05:05:33  #市場
-
-週四（6月4日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7769元，較週三紐約尾盤漲34點，日內整體交投於6.7803-6.7701元區間。
-
----
-
-### 2026-06-05 05:04:47  #公司
-
-【Anthropic呼籲全球暫緩前沿AI研發】Anthropic公司呼籲各大頂尖人工智慧實驗室考慮放緩研發步伐，並指出AI系統的演進速度極快，可能很快就能在無需人類干預的情況下實現自我改進，而這種能力恐將引發重大的社會風險。Anthropic週四在一篇部落格文章中披露了內部資料，詳實記錄了其最先進的模型正以何等驚人的速度實現效能提升。文章指出，AI模型的進步似乎正朝著“遞迴式自我改進”的方向邁進，即AI系統能夠在無需人類干預的情況下實現自主最佳化。文章稱：“我們認為，如果世界可以選擇放緩或暫時中止前沿人工智慧的研發，以使社會結構和相關研究能夠跟上技術發展的步伐，這對世界是有益的。”文章提議達成一項全球協議，明確如何可能放緩人工智慧的研發速度，並建立一種機制來驗證競爭對手是否遵守該協議。
-
----
-
-### 2026-06-05 05:04:36  #國際
-
-【美國法官罕見公開回應關稅案，警告稱上訴可能衝擊退稅程序】一位美國貿易法官採取了罕見的行動，親自回應特朗普政府對他有關退還1660億美元關稅的裁定提出的上訴。這些關稅此前已被最高法院裁定為非法。這名法官在回應中稱政府提交的檔案措辭“花哨”，並對其法律立場提出質疑。在6月3日公開的一封信函中，法官Richard Eaton指出，如果司法部成功請求上訴法院立即介入，可能會對目前的一個線上退稅系統產生不利影響。該系統迄今為止已處理了至少850億美元的退稅。
-
----
-
-### 2026-06-05 05:01:57  #MKT News #Important #Market Themes #AI Revolution
-
-【Anthropic calls for global pause in frontier AI development】Anthropic on Thursday urged leading AI labs to consider slowing frontier AI development, saying rapid model advances could soon enable autonomous self‑improvement without human intervention and create major societal risk. In a blog post releasing internal data, Anthropic documented swift performance gains in its top models and said progress appears to be moving toward “recursive self‑improvement.” The company proposed a global agreement to slow frontier AI work and a mechanism to verify competitors’ compliance, arguing a pause would allow social institutions and related research to catch up.
 
 ---

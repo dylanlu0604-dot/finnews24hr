@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 17:28:45_
-_本檔包含 3490 則快訊，約 702046 字_
+_更新時間：2026-06-06 18:22:22_
+_本檔包含 3495 則快訊，約 702880 字_
+
+---
+
+### 2026-06-01 20:03:15  #市場
+
+美高梅度假村股價盤前大漲8%。
+
+---
+
+### 2026-06-01 20:02:28  #MKT News #Market Regions #Greater China
+
+【Aisino unit wins Sinopec Guangdong IT contract for fuel-card payment terminals】Aisino unit Aitewell Electronic Technology (Beijing) Co. won an IT contract from Sinopec Sales Co.'s Guangdong Petroleum branch to supply and implement multi-function fuel-card payment terminals.
+
+---
+
+### 2026-06-01 20:02:25  #其他
+
+【Strategy首次披露出售比特幣 賣出32枚BTC套現250萬美元】監管檔案披露，MicroStrategy（現以Strategy品牌運營）曾出售32枚比特幣，總價值約250萬美元。按披露資料計算，平均出售價格約為77,135美元/枚BTC。
+
+---
+
+### 2026-06-01 20:02:22  #央行 #國際
+
+【鮑威爾說美聯儲決策不考慮政黨利益】美聯儲前主席鮑威爾當地時間5月31日表示，在美聯儲就職的也是人，大家並不完美，也會犯錯，但美聯儲會承認錯誤並及時調整方向。他還強調，美聯儲做決策時只會基於對經濟的最佳分析，而不會考慮任何政黨或政治家的利益。鮑威爾作為美聯儲主席的任期於今年5月15日到期，目前他繼續留任美聯儲理事。儘管鮑威爾在美國總統特朗普第一任期受提名就任，但特朗普第二任期以來，他因貨幣政策多次遭特朗普公開指責。 (CCTV國際時訊)
+
+---
+
+### 2026-06-01 20:02:18  #MKT News #AMC.N #Impact bullish
+
+AMC (AMC.N) said global cinema attendance in May reached its highest level since 2019.
+
+---
+
+### 2026-06-01 20:02:03  #公司
+
+People Inc.正準備發出收購要約，收購賭場巨頭美高梅國際酒店集團，對其估值超過180億美元。
+
+---
+
+### 2026-06-01 20:01:48  #央行 #美聯儲
+
+【鮑威爾說美聯儲決策不考慮政黨利益】美聯儲前主席鮑威爾當地時間5月31日表示，在美聯儲就職的也是人，大家並不完美，也會犯錯，但美聯儲會承認錯誤並及時調整方向。他還強調，美聯儲做決策時只會基於對經濟的最佳分析，而不會考慮任何政黨或政治家的利益。
+
+---
+
+### 2026-06-01 20:01:42  #公司
+
+【宏潤建設：公司中標深藍航天液體火箭試驗基地工程建設專案 暫定中標金額5億元】宏潤建設公告，公司於近日收到中標通知書，深藍航天液體火箭試驗基地工程建設專案由公司中標承建，暫定工程中標總價人民幣5億元，其中一期工程合同暫定金額人民幣2億元，二期工程合同暫定金額人民幣3億元。專案業主方為江蘇深藍航天有限公司，專案承包方式為施工總承包模式，暫定工期900日曆天。專案內容及規模為試驗基地的土建工程、道路工程、水電綜合管網等全部施工圖紙內容。公司與業主方不存在任何關聯關係。本工程的中標有利於進一步提升公司拓展和參與相關業務的市場競爭力和市場份額。該工程暫定中標金額佔公司2025年度營業收入的8.70%，對公司2026年度及未來財務狀況和經營成果無重大影響。
+
+---
+
+### 2026-06-01 20:01:16  #公司
+
+【航天資訊所屬艾體威爾中標中國石化廣東石油分公司資訊化專案】近日，航天資訊所屬艾體威爾電子技術（北京）有限公司中標中國石化銷售股份有限公司廣東石油分公司加油卡多功能支付終端資訊化專案。
+
+---
+
+### 2026-06-01 20:01:16  #MKT News #Star Stocks #Alibaba
+
+【Alibaba Assets, PowerChina Real Estate sign strategic cooperation on reviving commercial and office assets】Alibaba Assets and PowerChina Real Estate signed a strategic cooperation agreement at PowerChina’s Beijing headquarters, announcing a deep partnership to jointly explore new approaches to unlocking value and operating existing commercial and office assets.
+
+---
+
+### 2026-06-01 20:01:14  #公司
+
+【阿里資產與中國電建地產戰略簽約】6月1日，阿里資產與中國電建地產戰略合作簽約儀式在北京中國電建集團總部舉行。雙方正式宣佈達成深度戰略合作，將共同探索存量時代下商辦資產盤活與運營的新路徑。
+
+---
+
+### 2026-06-01 20:00:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+CoreWeave (CRWV.O) completed industry-first enablement and validation of NVIDIA's Vera Rubin NVL72 platform.
+
+---
+
+### 2026-06-01 20:00:36  #資料
+
+加拿大至5月29日全國經濟信心指數 50.7，前值51.7。
+
+---
+
+### 2026-06-01 20:00:23  #MKT News
+
+Canada national economic confidence index fell to 50.7 as of May 29 from 51.7 previously.
+
+---
+
+### 2026-06-01 20:00:17  #MKT News #Economic Calendar #Important
+
+Canada | National Economic Confidence Index (May.29) | actual 50.7 | previous 51.7
+
+---
+
+### 2026-06-01 19:59:59  #其他
+
+據農業諮詢機構AGRURAL資料，截至上週四，巴西中南部地區2026年第二季玉米收割完成面積佔總種植面積的2.4%。
+
+---
+
+### 2026-06-01 19:59:40  #國際
+
+歐盟代表卡婭・卡拉斯： 巴基斯坦一直是美國與伊朗之間的主要斡旋方。巴方的外交努力多次避免雙方再度爆發全面戰爭，歐洲各界對此高度認可與讚賞。得益於巴方的支援，目前各方迎來微妙的外交契機，有望延長停火協議並重新開放霍爾木茲海峽。
+
+---
+
+### 2026-06-01 19:59:23  #公司 #國際
+
+【亞威股份：擬投資Haco歐洲公司80%股份及美國公司49%股份】亞威股份公告，公司擬與比利時工業機械和機床製造商Haco NV開展股權和技術合作，雙方已簽署《投資意向書》。根據意向書，亞威將以收購部分股權及增資方式投資Haco歐洲公司，投資完成後持有其80%股份；以增資方式投資Haco美國公司，投資完成後持有其49%股份。同時，雙方將簽署技術轉讓協議，由Haco向亞威轉讓業務相關技術，技術轉讓與股權投資交割同步完成。本次交易尚處於初步意向階段，具體交易方案、金額等將在盡職調查、審計評估後確定。
+
+---
+
+### 2026-06-01 19:59:06  #公司
+
+博塔斯管道公司、亞塞拜然國家石油公司、道達爾能源、阿聯酋阿布扎比國家石油公司簽署亞塞拜然天然氣輸送合作協議。
+
+---
+
+### 2026-06-01 19:58:29  #公司 #觀點 #國際
+
+【摩根士丹利：HawkEye 360遙遙領先於競爭對手】摩根士丹利分析師表示，HawkEye 360的射頻資料遙遙領先於競爭對手所能提供的資料；這些分析師首次覆蓋該股，給予增持評級，目標價為41美元。摩根士丹利的分析師表示：“我們認為，Hawk經過多年收集而建立的豐富發射源資料庫和完善的處理演算法，提供了深厚的競爭護城河。該公司的資料收集價格相對容易接受。其資料分析附加功能為其終端市場提供了差異化情報，從而創造了對其產品的強勁需求。”此外，摩根士丹利的分析師表示，由於該公司的產品未被列為機密，它可以從盟國政府客戶和美國軍方部分領域獲得業務，而無需高階別的安全許可。
+
+---
+
+### 2026-06-01 19:58:05  #MKT News
+
+【INFevo completes tens-of-millions-of-yuan angel round】June 1 — JingTai Technology said its deep-incubated AI biotech unit INFevo completed an angel round of several tens of millions of yuan, with participation from Shunwei Capital, Sequoia China and Songhe Capital.
+
+---
+
+### 2026-06-01 19:57:54  #MKT News
+
+Lebanon's president said negotiations do not constitute surrender but are the least-cost route to prevent war with Israel. He said Israel did not "assist" in enforcing the ceasefire, and that disarming southern areas will take time as the Lebanese army carries out its duties.
+
+---
+
+### 2026-06-01 19:57:38  #MKT News
+
+【Guangdong heat to persist; power-supply pressure remains acute】Since May 27 China’s Guangdong grid has set three record peak loads this year, reaching 173.67 GW (1.7367×10^8 kW), up 5.3% from last year’s peak and making Guangdong the first Chinese province to top 170 GW this year. Multiple cities logged fresh highs. Guangzhou’s grid hit consecutive peaks on May 28 and 29 at 25.946 GW (25.946×10^6 kW), 3.33% above last year’s high. Recent heavy rain has not dented the heat; demand remains strong and ensuring power supply will remain a significant challenge.
+
+---
+
+### 2026-06-01 19:57:29  #宏觀 #公司 #市場 #國際
+
+【在對美伊衝突的擔憂之際，比特幣下跌】IG的Chris Beauchamp在一份報告中表示，隨著美國扣押伊朗加密貨幣資產打擊了市場情緒，比特幣正面臨壓力。財政部長斯科特·貝森特上週五表示，美國已經扣押了約10億美元的伊朗加密資產，這是在“經濟狂怒”行動下擠壓伊朗收入來源的努力的一部分。Beauchamp說：“在一個加密貨幣難以保持其曾經擁有的關注度的世界裡，這樣的訊息幾乎沒有幫助。”他說，對比特幣的另一個威脅是，鑑於霍爾木茲海峽持續關閉和原油庫存下降，近期由人工智慧推動的美股漲勢是否會逆轉。倫敦證券交易所集團的資料顯示，比特幣下跌1.4%，至72,607美元。
+
+---
+
+### 2026-06-01 19:57:00  #公司
+
+伯恩斯坦將戴爾科技集團的目標股價從每股280美元上調至每股500美元。
+
+---
+
+### 2026-06-01 19:56:49  #其他
+
+Rapid7重申第二季度及全年財務指引。
+
+---
+
+### 2026-06-01 19:56:36  #MKT News #Commodities #Energy
+
+Turkey's state pipeline company, Azerbaijan's state oil company SOCAR, TotalEnergies and Abu Dhabi National Oil Company (ADNOC) signed an agreement on Azerbaijani gas supplies. Turkey will receive 33 bcm/year from Azerbaijan starting in 2029.
+
+---
+
+### 2026-06-01 19:55:57  #MKT News #DAL.N #Impact bullish #LUV.N
+
+MORGAN STANLEY raises PT for Delta Air Lines (DAL.N) to $105 from $90 and for Southwest Airlines (LUV.N) to $60 from $55.
+
+---
+
+### 2026-06-01 19:55:54  #其他
+
+【山西安監加碼 煤焦供需偏緊轉向】山西安監全面升級，焦煤供給迅速收緊。目前，長治、呂梁、晉中、臨汾等主產區啟動拉網式安全檢查，沁源地區25座煤礦（產能2560萬噸）全面停產核查，長治地區嚴格安監檢查（自查+督查）到7月底，該地區主產優質主焦煤、瘦煤等焦煤資源。根據Mysteel最新調研結果顯示，5月23日以來山西停產煉焦煤礦數量共計130座。截至5月29日上午已復產18座，涉及產能2530萬噸;仍處於停產狀態煤礦共計112座，產能共計1.22億噸。 (廣發期貨)
+
+---
+
+### 2026-06-01 19:55:43  #觀點
+
+摩根士丹利將戴爾股票評級從低配上調至持平，將其目標股價從170.00美元上調至448.00美元。
+
+---
+
+### 2026-06-01 19:55:31  #MKT News #Important #DELL.O #Impact bullish
+
+Morgan Stanley raises target price on Dell (DELL.N) to $448 from $170.
+
+---
+
+### 2026-06-01 19:54:37  #其他
+
+【無界進化完成數千萬元天使輪融資】6月1日，晶泰科技宣佈，其深度孵化的AI生物企業——無界進化（INFevo）已完成數千萬元天使輪融資，由順為資本、紅杉中國與松禾資本共同參與。
+
+---
+
+### 2026-06-01 19:53:53  #其他
+
+【多地搶灘太空算力 全球萬億美元級市場待挖掘】北京成立太空智算研究院，天津組建太空數智基礎設施聯合攻關體，上海成立太空算力產業生態夥伴計劃……近段時間，各地太空算力領域動作不斷，產業加快發展。工業和資訊化部也表示，支援開展太空算力技術前瞻性研究，有序推動太空算力產業發展。當前，太空算力處於技術突破與產業佈局的關鍵視窗期。盤古智庫高階研究員吳琦表示，人工智慧帶動算力需求激增，地面算力面臨能耗、散熱瓶頸，太空算力憑藉太陽能供電和廣域覆蓋成為未來方向。機構預測到2030年，全球太空經濟市場規模將超過萬億美元，太空算力商業前景廣闊。業內專家指出，太空算力是繼通訊導航遙感之後的新一代天基資訊服務能力，融合航天、能源、計算與人工智慧等領域，已成為大國科技競爭以及商業航天發展的新賽道，更是支撐數字中國建設和數字經濟高質量發展的新引擎，正在引領新一輪科技革命。 (第一財經)
+
+---
+
+### 2026-06-01 19:53:45  #MKT News #Star Stocks #JD.com
+
+【Zhiyuan to open first offline store in Shanghai on June 13】Zhiyuan will open its first JD-linked offline store on June 13 at 3509 Caobao Road, Minhang District, Shanghai. The store is positioned as a prototype for integrated retail-complex deployment and will operate a full-chain, robot-led model from front-end sales to back-end operations, aiming to let robots "sell themselves"; it will feature four modules: Lingxi guided shopping, a cyber performance showcase, a maker/education space and an intelligent logistics hub.
 
 ---
 
@@ -20880,179 +21084,5 @@ Fars News Agency reports 20 vessels transited the Strait of Hormuz in the past 2
 ### 2026-05-30 18:22:34  #其他
 
 【呼和浩特一藥店高價銷售集採藥被約談，藥店員工最新回應：該藥品已調至89.9元，不過暫時缺貨】據央視新聞報道，日前，有患者反映，在內蒙古呼和浩特的京遠大藥房，一盒集採價格應為百餘元的馬來酸阿伐曲泊帕片，在該藥店售價卻高達3960元。此事被曝光後，當地醫保部門已對涉事藥店主要負責人進行約談，市場監管部門已行政立案。5月30日下午，記者聯絡京遠大藥房，一名店員向記者表示，藥店目前仍在營業，正在市場監管部門的監督下整改，該藥品售價已調至89.9元每盒，不過目前暫時沒有貨。（極目新聞）
-
----
-
-### 2026-05-30 18:20:14  #MKT News
-
-【Next week lock-up expiries total 56.7 bln yuan】Next week (June 1-5) 41 Chinese stocks will see lock-up expiries totaling 1.853 billion shares, worth 56.68 billion yuan at the latest close. Five stocks have expiry values above 2.2 billion yuan; Zhongce Rubber is largest with 418 million shares unlocking, valued at 19.415 billion yuan, primarily IPO original-shareholder restricted shares. Four stocks have unlock ratios above 30%; Hangtian Huanyu, Zhongce Rubber and Guqi Rongcai lead at 76.28%, 47.75% and 34.39% respectively.
-
----
-
-### 2026-05-30 18:19:08  #公司 #市場
-
-【下週解禁市值超560億元】據統計，下週（6月1日至5日）將有41股解禁，合計解禁數量為18.53億股，按照最新收盤價計算，合計解禁市值566.83億元。5股解禁市值均超22億元。其中中策橡膠解禁市值最高，下週將有4.18億股上市流通，本次解禁主要為首發原股東限售股份，解禁市值為194.15億元。從解禁比例來看，4股解禁比例超30%，其中航天環宇、中策橡膠和古麒絨材的解禁比例居前，分別為76.28%、47.75%和34.39%。
-
----
-
-### 2026-05-30 18:19:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The Israeli military said it is conducting strikes on Hezbollah targets after Hezbollah violated a ceasefire agreement.
-
----
-
-### 2026-05-30 18:17:31  #其他
-
-市場訊息：Anthropico 將未經授權的二級平臺數量減少了一半。
-
----
-
-### 2026-05-30 18:16:56  #國際
-
-以色列軍方：向黎巴嫩南部Al-Marwaniyah、AL-LUBYA、MIDOUN、ANSARIYAH、ZAFTA 和 TAFFAHATA居民發出立即疏散警告。
-
----
-
-### 2026-05-30 18:15:53  #公司
-
-【飛行時代首款增程全傾轉eVTOL產品獲34架意向訂單】5月29日，飛行時代自主研發的首款2.5噸級增程全傾轉eVTOL產品F2500，在2026世界智慧產業博覽會上完成全球首發。首發儀式現場，飛行時代與沙特Saudi Arabia Elephant Innovation Digital Economy Industry Group Co., Ltd.、瀟湘之翼、青島信暢空間簽署意向採購訂單34架。同時，公司與天津港保稅區、中國民航大學、北航天目山實驗室、陝直集團等簽訂戰略合作協議。
-
----
-
-### 2026-05-30 18:11:05  #公司
-
-貝恩資本最早可能在本週完成對Vitabiotics的收購，對該公司的估值為9億英鎊。
-
----
-
-### 2026-05-30 18:10:13  #其他
-
-市場訊息：貝恩資本將達成協議收購Vitabiotics。
-
----
-
-### 2026-05-30 18:09:19  #MKT News #WTI #Impact bullish #Brent
-
-UK Maritime Trade Operations (UKMTO) said the maritime security threat level in the Strait of Hormuz remains at an extremely severe level due to a blockade.
-
----
-
-### 2026-05-30 18:06:54  #其他
-
-英國海上貿易行動局：受封鎖影響，霍爾木茲海峽的海上安全威脅等級仍處於極高戒備狀態。
-
----
-
-### 2026-05-30 18:05:02  #其他
-
-【德國慕尼黑機場恢復運營 曾因疑似無人機活動短暫停運】當地時間5月30日上午，德國慕尼黑機場因疑似發現無人機一度暫停執行，約一小時後恢復正常。德國聯邦警察發言人證實，兩名飛行員當天報告發現可疑飛行物，相關情況可能涉及無人機。出於安全考慮，安全部門在與航空管制機構協商後，於當日9時左右關閉機場兩條起降跑道，暫停了機場所有航班起降。機場方面表示，事件發生後，相關部門立即展開核查，並出動警用直升機進行搜尋。經檢查未發現可疑目標，機場於當地時間10時05分左右解除限制措施，恢復航班起降。機場發言人表示，德國聯邦警察認為此次事件不存在現實安全威脅。
-
----
-
-### 2026-05-30 18:01:00  #宏觀
-
-【全國個體勞動者第六次代表大會在京召開】5月30日，全國個體勞動者第六次代表大會在北京召開。會議指出，近年來，中國個體勞動者協會始終堅持以習近平新時代中國特色社會主義思想為指導，貫徹落實習近平總書記致全國個體勞動者第五次代表大會賀信精神，在市場監管總局黨組堅強領導下，團結帶領全國個私協會系統真抓實幹、攻堅克難，為促進民營經濟健康發展、高質量發展作出了積極貢獻。會議強調，各級個私協會要深入踐行習近平總書記賀信精神，切實發揮橋樑紐帶作用，當好政策法規的普及者、深化改革的推動者、能力素質的提升者、黨的建設的組織者，堅持政治引領，圍繞中心工作，提升服務效能，夯實自身建設，團結引導廣大個體勞動者在高質量發展中展現新擔當。會議審議透過第五屆理事會工作報告，進行理事會換屆選舉，並明確今後五年目標任務和工作重點。束為當選中國個體勞動者協會第六屆理事會會長，吳海峰、杜林亞、鄧會燕、李志明、何冠聰、張子玉、金罕崗、桂勇、黃海清、程文文當選副會長，吳海峰兼任秘書長。中國個體勞動者協會會員代表、理事候選人近300人出席會議。（市場監管總局）
-
----
-
-### 2026-05-30 18:00:22  #MKT News #XAUUSD #Impact bullish #DXY
-
-The Israeli military said it intercepted a rocket launched from Lebanon; air-raid sirens sounded across multiple locations in northern Israel.
-
----
-
-### 2026-05-30 17:54:48  #MKT News #DXY #Impact bullish #Brent #XAUUSD #Impact mixed
-
-【Ukraine aligns with EU sanctions on Russia, targets 120 individuals and entities】Ukraine’s presidential press service said President Zelensky signed two decrees implementing National Security and Defense Council measures aligned with the EU’s 20th sanctions package. The measures target 120 individuals and related entities in key Russian economic sectors. Russia has not yet responded.
-
----
-
-### 2026-05-30 17:54:45  #其他
-
-黎巴嫩總統府：黎巴嫩方面在華盛頓會議上重申了其將優先實現停火的承諾。
-
----
-
-### 2026-05-30 17:54:02  #國際
-
-【烏克蘭同步歐盟對俄製裁 涉及120名個人及實體】當地時間30日，烏克蘭總統新聞處釋出訊息稱，澤連斯基簽署兩項總統令，正式施行烏克蘭國家安全與國防委員會同步歐盟制裁的相關舉措，本輪制裁共計涉及120名個人及相關組織。據瞭解，本次制裁依託歐盟第20輪制裁方案，重點針對俄羅斯關鍵經濟領域。目前俄羅斯方面對此暫無回應。4月23日，歐盟理事會批准第20輪對俄製裁方案，制裁名單中新增46艘船舶以及120名個人及實體。
-
----
-
-### 2026-05-30 17:53:31  #國際
-
-黎巴嫩總統府：總統正評估黎巴嫩、美國和以色列軍事代表團與以色列總理在華盛頓舉行的會晤。
-
----
-
-### 2026-05-30 17:51:26  #其他
-
-【珠海邊檢總站年內查驗量破億 “刷臉”通關漸成主流】5月30日，珠海邊檢總站年內查驗出入境人員已突破1億人次大關，較去年提前了16天。其中，查驗內地赴港澳遊旅客和港澳居民入出境數量分別達5500萬和4200萬人次，同比分別增長超9%和10%，粵港澳大灣區“硬聯通”與“軟聯通”協同提速，三地“一小時生活圈”加速形成。截至目前，珠海邊檢總站年內已保障超1800萬人次旅客使用該模式通關，平均每5名出入境人員中就有1人選擇“刷臉”通關。
-
----
-
-### 2026-05-30 17:49:00  #國際
-
-【菲防長為躲避中方記者提問，從酒店後廚繞行離開】5月30日，第23屆香格里拉對話會現場，菲律賓防長為躲避中方記者正常提問，更換路線從酒店後廚繞道離開。菲方記者在社交媒體發帖稱“巧妙地”繞過了等候的中國記者。（玉淵譚天）
-
----
-
-### 2026-05-30 17:46:43  #國際
-
-以軍對加沙地帶中部代爾拜拉赫發動的襲擊已造成1人死亡，另有多人受傷。（央視新聞）
-
----
-
-### 2026-05-30 17:46:13  #國際
-
-【伊朗官員說美國第3次背叛外交】伊朗最高領袖軍事顧問穆赫辛·雷扎伊今天（5月30日）在社交媒體發文稱，“正如預料的那樣，美國總統正在第三次背叛外交。透過繼續實施海上封鎖並提出過分要求，他證明他並非談判之人，而是在追求其他目標。”（CCTV國際時訊）
-
----
-
-### 2026-05-30 17:41:04  #公司
-
-【中際旭創：網傳“光互聯論壇”及“中際旭創董事長演講”內容為虛假資訊】中際旭創5月30日釋出官方宣告稱，部分網路媒體、自媒體和社交媒體平臺傳播人為捏造的題為《中際旭創董事長2026光互聯論壇（5.28上海）演講全文》的文章及相關內容。此文全文皆為杜撰的虛假內容，公司及董事長劉聖從未發表此文中提及的內容，此文與公司無關並完全不代表公司及董事長劉聖立場。敬請廣大投資者理性投資，不信謠、不傳謠、不造謠、切勿輕信各類不實傳言，以公司公告為準，避免因虛假資訊帶來的影響。
-
----
-
-### 2026-05-30 17:40:43  #國際
-
-【美媒：一名美軍士兵在駐日基地被發現死亡，死因正在調查中】據美國《星條旗報》報道，駐日美軍橫田基地第374空運聯隊當地時間5月30日在社交媒體上宣佈，駐紮在該基地的一名美空軍士兵於當天早上被宣佈死亡。駐日美軍橫田基地 資料圖 圖源：《星條旗報》該聯隊表示，該士兵被發現時已失去意識，後被宣佈死亡，其死因正在調查中。（環球網）
-
----
-
-### 2026-05-30 17:37:13  #國際
-
-以色列北部多個地區響起防空警報。（CCTV國際時訊）
-
----
-
-### 2026-05-30 17:34:59  #其他
-
-官方通報紹興一博物館青銅劍疑似拼接。（新華社）
-
----
-
-### 2026-05-30 17:32:55  #其他
-
-【德國多特蒙德市中心發生槍擊事件 至少2人受傷】德國警方當地時間5月30日證實，多特蒙德市中心29日晚間發生槍擊事件，造成至少2人受傷。根據目前掌握的資訊，兩名傷者均無生命危險。事發後，大批警力在當地展開行動並持續至深夜。目前案件仍在調查中，警方表示將於稍後公佈更多資訊。
-
----
-
-### 2026-05-30 17:32:19  #宏觀
-
-【全國先進個體工商戶表彰大會在京召開】5月30日，全國先進個體工商戶表彰大會在北京召開。市場監管總局黨組書記、局長羅文出席會議並講話。總局黨組成員、副局長束為出席會議並宣讀表彰決定。總局黨組成員、副局長柳軍主持會議。會議指出，“十四五”時期，市場監管部門和各級個私協會堅決貫徹落實習近平總書記重要指示批示精神，促進個體工商戶發展政策環境不斷最佳化，發展動能更加強勁。服務保障精準有效，創新活力持續釋放。黨建引領全面加強，社會價值充分彰顯。會議強調，當前，個體工商戶發展迎來前所未有的政策紅利和時代機遇，各項扶持舉措密集出臺，發展環境持續最佳化。與此同時，市場格局、經營業態、民生需求也在發生深刻變化，對服務保障、監管規範、黨建引領等工作提出新的更高要求。要主動識變、應變、求變，精準研判形勢、明確發力方向，促進個體工商戶穩步發展、提質增效。會議要求，要根據“十五五”規劃要求，緊扣中央部署，主動履職擔當，努力為個體工商戶發展創造良好環境，強化政策供給，深化精準幫扶，加強工作協同。中國個體勞動者協會要做好黨和政府聯絡廣大個體工商戶的橋樑紐帶，拓展服務的廣度和深度，堅持守正創新推動事業發展。
-
----
-
-### 2026-05-30 17:29:53  #國際
-
-伊朗邊防警察局長表示，在伊朗西北部西亞塞拜然省查爾多蘭邊境，伊朗邊防衛兵與被當局描述為“武裝團體”的成員發生衝突，導致兩人死亡。
-
----
-
-### 2026-05-30 17:28:46  #MKT News
-
-【Euroclear appeals after Moscow arbitration orders immediate ~€200bn payment to Russian central bank】Euroclear has appealed to the Moscow arbitration court against a ruling ordering immediate compensation to the Russian central bank, sources said. A first-instance judgment on May 15 ordered Euroclear to pay about €200 billion to the Russian central bank to compensate for losses from frozen assets; on May 26 the court granted Russia's request to make the judgment immediately enforceable.
 
 ---

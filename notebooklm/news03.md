@@ -1,7 +1,354 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 17:28:45_
-_本檔包含 4030 則快訊，約 702522 字_
+_更新時間：2026-06-06 18:22:22_
+_本檔包含 4045 則快訊，約 702344 字_
+
+---
+
+### 2026-06-03 22:39:58  #國際
+
+內塔尼亞胡：伊朗目前內部裂痕巨大。
+
+---
+
+### 2026-06-03 22:39:47  #其他
+
+貝森特：我們面臨支出和增長問題。任期結束時赤字佔GDP比重有可能低於4%。
+
+---
+
+### 2026-06-03 22:39:07  #其他
+
+內塔尼亞胡：這場戰爭結束後，各國都會爭相開發新的能源來源與供應路線。
+
+---
+
+### 2026-06-03 22:38:30  #MKT News #Important
+
+Israeli Prime Minister Netanyahu said Israel 'removed' about 20 Iranian nuclear scientists.
+
+---
+
+### 2026-06-03 22:38:06  #焦點 #國際
+
+內塔尼亞胡：我們“除掉”了大約20名伊朗核科學家。
+
+---
+
+### 2026-06-03 22:38:00  #MKT News #US10Y #Impact bearish
+
+Bridgewater Associates founder Ray Dalio said bond investments have underperformed.
+
+---
+
+### 2026-06-03 22:37:48  #國際
+
+惠譽：就全球機場展望而言，即便霍爾木茲海峽實際處於關閉狀態，預計歐洲的燃油儲備也足以覆蓋夏季月份需求。
+
+---
+
+### 2026-06-03 22:37:41  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Prime Minister Netanyahu said Israel is prepared to resume full-scale escalation; the decision rests with Trump.
+
+---
+
+### 2026-06-03 22:37:33  #國際
+
+內塔尼亞胡：伊朗尚未同意運出核材料，但目前壓力正在不斷累積。
+
+---
+
+### 2026-06-03 22:37:24  #國際
+
+美國至5月29日當週EIA原油產量引伸需求資料 2124.3萬桶/日，前值1940.2萬桶/日。美國至5月29日當週EIA車用汽油總產量引伸需求資料 952.91萬桶/日，前值1005.64萬桶/日。
+
+---
+
+### 2026-06-03 22:37:16  #MKT News #WTI #Impact bearish #Brent
+
+U.S. EIA implied demand for distillate fuel was 5.0864 mln b/d in the week to May 29, down from 5.51 mln b/d the prior week.
+
+---
+
+### 2026-06-03 22:37:09  #公司 #國際
+
+美國聯邦貿易委員會公告：美國聯邦貿易委員會已向多家企業發出警告函，要求其遵守《刪除法案》（TAKE IT DOWN Act）。
+
+---
+
+### 2026-06-03 22:37:08  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA motor gasoline supplied, week ended May 29: 9.5291 mln b/d; prior 10.0564 mln b/d.
+
+---
+
+### 2026-06-03 22:37:07  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Fuel Implied Demand (May.29) | actual 5086400M | previous 5510000M
+
+---
+
+### 2026-06-03 22:36:57  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Motor Gasoline Implied Demand (May.29) | actual 9529100M | previous 10056400M
+
+---
+
+### 2026-06-03 22:36:55  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA implied crude oil demand for the week to May 29 rose to 21.243 mln b/d from 19.402 mln b/d the previous week.
+
+---
+
+### 2026-06-03 22:36:46  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Implied Demand (May.29) | actual 21243000M | previous 19402000M
+
+---
+
+### 2026-06-03 22:36:29  #國際
+
+美國能源部：美國乙醇庫存下降1.4%至2460.6萬桶。
+
+---
+
+### 2026-06-03 22:36:14  #國際
+
+美國能源資訊署（EIA）資料顯示，上週美國戰略石油儲備（SPR）原油庫存降至2024年1月以來最低水平。
+
+---
+
+### 2026-06-03 22:36:05  #國際
+
+惠譽評級因地緣衝突（伊朗戰事）引發運營擾動，將全球機場行業展望下調至「惡化」。
+
+---
+
+### 2026-06-03 22:35:55  #國際
+
+內塔尼亞胡：我和特朗普大約每兩天會談一次。
+
+---
+
+### 2026-06-03 22:35:49  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA crude inventories fell 7.974 mln bbl in the week to May 29, the largest weekly drop since the week of Feb. 13, 2026, and the sixth consecutive weekly decline.
+
+---
+
+### 2026-06-03 22:35:42  #國際
+
+【科威特外交部要求兩名伊朗駐科外交人員離境】當地時間3日，科威特外交部召見伊朗駐科威特大使館代辦，並向其提交了有關反對伊朗持續對科實施“敵對行為”的備忘錄。科威特外交部表示，決定縮減伊朗駐科威特使館的人員數量，並宣佈兩名伊朗駐科外交人員為“不受歡迎的人”，限其在24小時內離開科威特。（央視新聞）
+
+---
+
+### 2026-06-03 22:35:01  #國際
+
+內塔尼亞胡：特朗普希望以外交途徑解決戰事，應當給他一個機會。
+
+---
+
+### 2026-06-03 22:34:45  #其他
+
+達利歐表示，債券一直是一項糟糕的投資。
+
+---
+
+### 2026-06-03 22:34:31  #國際
+
+內塔尼亞胡：出於船舶安全風險，特朗普無法僅憑一己之力打通霍爾木茲海峽。
+
+---
+
+### 2026-06-03 22:34:19  #其他
+
+內塔尼亞胡：霍爾木茲海峽開通具備軍事層面可行性。
+
+---
+
+### 2026-06-03 22:34:11  #MKT News #Important
+
+EIA data shows the U.S. Strategic Petroleum Reserve fell 7.993 mln barrels in the week ending May 29 to 357.1 mln barrels, a 2.19% decline and the lowest level since the week of Jan. 19, 2024.
+
+---
+
+### 2026-06-03 22:34:09  #國際
+
+內塔尼亞胡：針對伊朗襲擊科威特、巴林一事，伊朗清楚恢復全面軍事行動是總統的決定。
+
+---
+
+### 2026-06-03 22:33:25  #國際
+
+內塔尼亞胡：若需軍事升級，將交由特朗普定奪。
+
+---
+
+### 2026-06-03 22:33:12  #焦點 #國際
+
+內塔尼亞胡：如有需要，以色列與美國軍隊已做好對伊朗行動的準備。
+
+---
+
+### 2026-06-03 22:32:37  #MKT News #Important #WTI #Impact bullish #Brent
+
+【U.S. EIA weekly extremes — week ended May 29, 2026】U.S. EIA crude inventories fell in the week ended May 29 by the largest amount since the week of Feb. 13, 2026. U.S. Strategic Petroleum Reserve stocks for the week ended May 29 were the lowest since the week of Jan. 19, 2024. U.S. commercial crude inventories excluding the SPR for the week ended May 29 were the lowest since the week of Feb. 13, 2026. U.S. commercial crude imports excluding the SPR for the week ended May 29 were the highest since the week of Mar. 27, 2026. U.S. EIA refined product inventories increased in the week ended May 29 by the largest amount since the week of Mar. 20, 2026. U.S. EIA gasoline inventories rose in the week ended May 29 by the largest amount since the week of Jan. 16, 2026, ending a 15-week decline.
+
+---
+
+### 2026-06-03 22:32:33  #其他
+
+魯比奧：俄烏協議前景不明朗。
+
+---
+
+### 2026-06-03 22:32:15  #宏觀 #國際
+
+美國財長貝森特在聽證會上宣稱：並沒有提前知道總統特朗普會起訴（財政部下轄）國稅局（IRS）。
+
+---
+
+### 2026-06-03 22:32:06  #國際
+
+【以軍空襲加沙地帶中部 致2人死亡】總檯記者當地時間3日從巴勒斯坦方面獲悉，以軍當天對加沙地帶中部邁加齊難民營發動空襲，造成兩人死亡、4人受傷。以色列方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-03 22:31:22  #其他
+
+【劉非調研具身智慧產業發展情況：深化體制機制創新 統籌整合各方資源 推動具身智慧產業發展走在前作示範】據杭州釋出，3日下午，浙江省委常委、杭州市委書記劉非專題調研具身智慧產業發展情況。他強調，要推進國家人工智慧應用中試基地（具身智慧）體制機制創新，統籌整合各方資源，更好發揮企業創新主體作用，促進具身智慧技術研發和產業應用高效協同，推動具身智慧產業發展走在前、作示範，為加快建設人工智慧創新發展第一城提供有力支撐。
+
+---
+
+### 2026-06-03 22:31:04  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Caterpillar Stock Price Hits All-time High — Caterpillar shares increased to an all-time high of 931.35 USD. Over the past 4 weeks, Caterpillar gained 6.41%, and in the last 12 months, it increased 166.46%.
+
+---
+
+### 2026-06-03 22:31:03  #國際
+
+【美國當週EIA庫存資料六大看點一覽】1. EIA報告：05月29日當週美國原油出口增加143.4萬桶/日至587.4萬桶/日。
+2. EIA報告：05月29日當週美國國內原油產量減少0.8萬桶至1370.7萬桶/日。
+3. EIA報告：除卻戰略儲備的商業原油庫存減少797.4萬桶至4.34億桶，降幅1.81%。
+4. EIA報告：美國原油產品四周平均供應量為2040.4萬桶/日，較去年同期增加3.0%。
+5. EIA報告：05月29日當週美國戰略石油儲備（SPR）庫存減少799.3萬桶至3.571億桶，降幅2.19%。
+6. EIA報告：05月29日當週美國除卻戰略儲備的商業原油進口639.7萬桶/日，較前一週增加118.5萬桶/日。
+
+---
+
+### 2026-06-03 22:30:40  #MKT News #WTI #Impact bullish
+
+U.S. EIA crude oil imports for the week to May 29 decreased by 249,000 barrels; prior week +360,000 barrels.
+
+---
+
+### 2026-06-03 22:30:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US EIA heating oil inventories for the week to May 29: 255,000 barrels; previous week 306,000 barrels.
+
+---
+
+### 2026-06-03 22:30:39  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+US EIA Strategic Petroleum Reserve inventories fell 7.993 mln barrels in the week to May 29, versus a 9.063 mln-barrel draw in the prior week.
+
+---
+
+### 2026-06-03 22:30:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA finished petroleum product imports 626,000 b/d in the week to May 29, versus -128,000 b/d previously.
+
+---
+
+### 2026-06-03 22:30:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA gasoline production fell 515,000 b/d in the week to May 29; prior week +600,000 b/d.
+
+---
+
+### 2026-06-03 22:30:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA refined product inventories rose 1.502 mln bbl in the week to May 29, vs. an expected 0.319 mln bbl draw and a prior 2.107 mln bbl draw.
+
+---
+
+### 2026-06-03 22:30:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA: crude oil brought online in week to May 29 -90,000 b/d; prior +652,000 b/d.
+
+---
+
+### 2026-06-03 22:30:23  #MKT News #Commodities #Energy
+
+U.S. EIA reformulated gasoline stocks fell 7,000 barrels in the week to May 29, after no change in the prior week.
+
+---
+
+### 2026-06-03 22:30:23  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+EIA: U.S. refinery utilization rate for the week to May 29 was 94.7%, versus 94.8% expected and 94.5% previously.
+
+---
+
+### 2026-06-03 22:30:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA: refinery production of petroleum products 98,000 b/d in the week to May 29, up from 76,000 b/d the prior week.
+
+---
+
+### 2026-06-03 22:30:17  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA gasoline inventories for the week to May 29 rose 3.364 mln barrels vs. an expected draw of 0.513 mln barrels; prior week was a draw of 2.572 mln barrels.
+
+---
+
+### 2026-06-03 22:30:13  #國際
+
+美國能源資訊署稱，原油庫存下降797萬桶。
+
+---
+
+### 2026-06-03 22:30:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+U.S. EIA Cushing, Oklahoma crude stocks fell 583,000 barrels in the week to May 29; prior week drawdown was 2,794,000 barrels.
+
+---
+
+### 2026-06-03 22:30:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA crude inventories fell 7.974 mln barrels in the week to May 29, versus an expected draw of 4.007 mln and a prior draw of 3.327 mln.
+
+---
+
+### 2026-06-03 22:30:05  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Refinery Utilization Rates (May.29) | actual 94.7% | consensus 94.8% | previous 94.5%
+
+---
+
+### 2026-06-03 22:30:03  #MKT News #Economic Calendar #Important
+
+United States | EIA Strategic Petroleum Reserve Stocks Change (May.29) | actual -7993000M | previous -9063000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Distillate Production Change (May.29) | actual 98000M | previous 76000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Gasoline Production (May.29) | actual -515000M | previous 600000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Input Into Refineries Change (May.29) | actual -90000M | previous 652000M
 
 ---
 
@@ -24022,257 +24369,5 @@ Amazon Stock Price Hits 5-week Low — Amazon shares decreased to 255.01 USD, th
 ### 2026-06-02 21:32:41  #市場 #焦點
 
 納斯達克中國金龍指數漲超2%，中進醫療漲16.01%，理想汽車漲6.60%，禾賽科技漲6.14%，世紀互聯漲5.28%，阿里巴巴漲4.78%。
-
----
-
-### 2026-06-02 21:32:32  #市場
-
-博通股價大漲5%，創下歷史新高。
-
----
-
-### 2026-06-02 21:32:08  #其他
-
-MARVELL股價飆升18%，創下3月6日以來最大單日漲幅，並重新整理紀錄。
-
----
-
-### 2026-06-02 21:31:56  #公司 #市場
-
-Alphabet股價下跌3.6%，因公司計劃為人工智慧業務目標募資800億美元。
-
----
-
-### 2026-06-02 21:31:55  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Netflix Stock Price Hits 13-week Low — Netflix shares decreased to 85.09 USD, the lowest since February 2026. Over the past 4 weeks, Netflix lost 5.78%, and in the last 12 months, it decreased 29.65%.
-
----
-
-### 2026-06-02 21:31:36  #國際
-
-【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。 當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。 歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。 歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）
-
----
-
-### 2026-06-02 21:31:32  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-June 2 (Tue) open: Dow Jones Industrial Average down 96.15 pts (-0.19%) at 50,982.73; S&P 500 down 13.24 pts (-0.17%) at 7,586.72; Nasdaq Composite down 69.78 pts (-0.26%) at 27,017.03.
-
----
-
-### 2026-06-02 21:31:09  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Arista Networks Stock Price Hits 4-week High — Arista Networks shares increased to 172.92 USD, the highest since May 2026. Over the past 4 weeks, Arista Networks lost 0.83%, and in the last 12 months, it increased 90.68%.
-
----
-
-### 2026-06-02 21:31:09  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #MRVL.O #Impact bullish #STM.O #AVGO.O
-
-【U.S. stocks open lower; Marvell jumps 16%】At the open, the Dow fell 0.4%, the S&P 500 was down 0.18% and the Nasdaq slipped 0.2%. NVIDIA (NVDA.O) rose 0.6% after saying its Spectrum‑X Ethernet silicon photonics technology is now in full production. Marvell Technology (MRVL.O) jumped 16%; Jensen Huang said he sees it as a potential next trillion‑dollar company. Broadcom (AVGO.O) gained 5% after Morgan Stanley maintained a buy rating and raised its price target. STMicroelectronics climbed 10% after raising its full‑year data center revenue guidance.
-
----
-
-### 2026-06-02 21:31:03  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，中進醫療漲17.62%，禾賽科技漲6.50%，理想汽車漲6.95%，摯文集團漲3.59%，阿里巴巴漲5.26%。
-
----
-
-### 2026-06-02 21:30:55  #MKT News
-
-【Baltic Dry Index falls as larger-vessel rates decline】The Baltic Dry Index fell on Tuesday as Capesize and Panamax rates weakened. The BDI dropped 17 points, or 0.53%, to 3,205. The Capesize index fell 37 points, or 0.7%, to 5,459; Capesize daily earnings declined $338 to $46,008. The Panamax index fell 23 points to 2,321; Panamax daily earnings dropped $206 to $20,889. The Supramax index rose 7 points to 1,577.
-
----
-
-### 2026-06-02 21:30:45  #市場 #焦點
-
-【美股開盤：三大股指齊跌】道指跌0.41%，標普500指數跌0.18%，納指跌0.23%。Atlassian跌7.63%，財捷跌6.34%，Strategy跌5.46%，Carvana Co.跌5.07%，The Trade Desk跌4.57%，工時公司跌4.47%。“七姐妹”方面：英偉達漲0.86%，特斯拉漲0.82%，蘋果漲0.40%，Meta Platforms漲0.34%，亞馬遜跌1.33%，微軟跌2.68%，谷歌跌2.72%。
-
----
-
-### 2026-06-02 21:30:42  #其他
-
-【航行警告！渤海執行軍事任務】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月3日0時至6日24時，渤海部分海域開展軍事行動，禁止駛入。
-
----
-
-### 2026-06-02 21:30:41  #MKT News
-
-【China's first central-local co-built embodied engineering robotics innovation center begins operations】June 1 in Chengdu: Zhicheng Ruijin Robot Technology Co. Ltd opened and the Engineering Embodied Intelligent-Scenario Alliance was signed and unveiled, marking the launch of the country's first central-local co-built embodied engineering robotics innovation center in physical operation. Zhicheng Ruijin is one of a series of “Zhicheng” firms set up by PowerChina's Chengdu Institute to develop strategic emerging industries; it was formed by the Chengdu Institute together with the Chengdu Humanoid Robot Innovation Center, Hydropower Seventh Bureau and Jinjiang Development Group.
-
----
-
-### 2026-06-02 21:30:40  #MKT News
-
-【Navigation warning: military operations close parts of Bohai Sea】Qinhuangdao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed to navigation for military operations from June 3 00:00 to June 6 24:00 local time; entry is prohibited.
-
----
-
-### 2026-06-02 21:30:17  #公司
-
-【全國首家央地共建具身工程機器人創新中心實體運營】據中國電建訊息，6月1日，智成睿錦機器人科技有限公司（以下簡稱“智成睿錦”）在成都正式開業，工程具身智慧場景聯盟同步簽約揭牌。這意味著全國首家央地共建具身智慧工程機器人創新中心實體運營載體落地執行。智成睿錦是中國電建所屬成都院佈局戰略性新興產業成立的系列“智成”公司之一，由成都院牽頭，聯合成都人形機器人創新中心、水電七局、錦江發展集團共同組建。
-
----
-
-### 2026-06-02 21:30:16  #MKT News
-
-【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively.
-
----
-
-### 2026-06-02 21:30:16  #MKT News #Market Regions #Greater China
-
-【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively.
-
----
-
-### 2026-06-02 21:30:08  #市場
-
-【Abivax美股盤前跌超40%】Abivax美股盤前跌超40%，現報77.8美元。
-
----
-
-### 2026-06-02 21:30:04  #其他
-
-法國稱 美方就分行業關稅展開談判至關重要。
-
----
-
-### 2026-06-02 21:29:55  #MKT News #DXY #Impact bearish #XAUUSD #Copper #Impact bullish
-
-Canada sent formal letters to Mexico and the United States to launch a review of the United States–Mexico–Canada Agreement (USMCA), saying talks with the United States to resolve sectoral tariffs will be crucial.
-
----
-
-### 2026-06-02 21:29:34  #資料 #國際
-
-美國農業信心指數5月降至119。
-
----
-
-### 2026-06-02 21:29:31  #MKT News #Commodities #Energy
-
-Vito Energy Group's Bahrain head said the risk of a U.S. ban on crude oil or refined product exports is extremely low.
-
----
-
-### 2026-06-02 21:29:20  #其他
-
-巴西財長：上午11點召開關於第301條的會議。
-
----
-
-### 2026-06-02 21:28:55  #國際
-
-加拿大已就《美墨加協定》（USMCA）審議啟動事宜向墨西哥和美國發出正式信函，加方稱與美方就解決行業關稅問題展開磋商至關重要。
-
----
-
-### 2026-06-02 21:28:46  #國際
-
-【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）
-
----
-
-### 2026-06-02 21:28:20  #公司 #國際
-
-維多公司巴林負責人湯姆·貝克：認為美國原油或成品油出口禁令的風險極低。
-
----
-
-### 2026-06-02 21:28:15  #MKT News
-
-Canada’s prime minister Carney said the country proposes extending the US‑Mexico‑Canada Agreement (USMCA) for 16 years.
-
----
-
-### 2026-06-02 21:27:39  #其他
-
-加拿大提議將《美墨加協定》（USMCA）續期 16 年。
-
----
-
-### 2026-06-02 21:27:28  #其他
-
-維多利亞的秘密高管在電話會議上表示：預計第二季度關稅影響約為1500萬美元。
-
----
-
-### 2026-06-02 21:27:06  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Hammack said the unemployment rate remains the best single gauge of the labor market and that the labor market is broadly in balance.
-
----
-
-### 2026-06-02 21:25:38  #央行 #國際
-
-美聯儲哈馬克：失業率仍是衡量就業市場的最佳單一指標。
-
----
-
-### 2026-06-02 21:25:12  #MKT News
-
-Purdue University: U.S. farmer confidence fell in May.
-
----
-
-### 2026-06-02 21:25:10  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Oil exports from Russia's western ports rose 15% MoM in May after drone strikes disrupted refinery operations, sources said.
-
----
-
-### 2026-06-02 21:24:36  #MKT News
-
-【Israel, Lebanon hold fourth round of talks in Washington】Israeli sources said the fourth round of Israel-Lebanon talks took place in Washington on the 2nd (local time).
-
----
-
-### 2026-06-02 21:24:35  #國際
-
-訊息人士稱，無人機襲擊擾亂煉油活動後，俄羅斯5月西部港口石油出口環比增長15%。
-
----
-
-### 2026-06-02 21:24:24  #資料 #國際
-
-普渡大學：美國農民信心指數在5月份走低。
-
----
-
-### 2026-06-02 21:24:04  #國際
-
-【以黎在華盛頓舉行第四輪會談】當地時間2日，總檯記者自以色列方面獲悉，以色列-黎巴嫩第四輪會談在美國華盛頓舉行。（央視新聞）
-
----
-
-### 2026-06-02 21:22:59  #MKT News
-
-Bank of Israel Governor Yaron signaled he may accelerate rate cuts as inflation expectations fall.
-
----
-
-### 2026-06-02 21:22:57  #其他
-
-卡尼：加拿大產汽車美本土零部件平均佔比已達 50%。
-
----
-
-### 2026-06-02 21:22:51  #MKT News #Market Themes #AI Revolution
-
-Federal Reserve's Hammack said he is optimistic that AI will complement workers.
-
----
-
-### 2026-06-02 21:22:30  #其他
-
-【長治市沁源縣委書記趙永進接受省紀委監委紀律審查和監察調查】據山西省紀委監委網站訊息，長治市沁源縣委書記趙永進涉嫌嚴重違紀違法，目前正接受省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-02 21:22:02  #MKT News #Important
-
-i24News reports Israeli and Lebanese officials are holding a fourth round of talks in Washington, D.C.
 
 ---
