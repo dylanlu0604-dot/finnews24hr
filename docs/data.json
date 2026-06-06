@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-07 04:56:08",
-  "count": 18831,
+  "updated": "2026-06-07 04:59:58",
+  "count": 18830,
   "items": [
+    {
+      "id": "4921456",
+      "time": "2026-06-07 04:57:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度石油公司官網訊息，該公司已將德里地區每罐14.2公斤裝液化石油氣（LPG）的價格上調29盧比，上調後價格為每罐942盧比。"
+    },
     {
       "id": "mkt:019e9eb2-8031-7665-8314-d2a110041fa2",
       "time": "2026-06-07 04:49:18",
@@ -173764,22 +173773,6 @@
         "國際"
       ],
       "text": "以色列軍方在約旦河西岸佔領區展開密集突襲，猶太定居者的襲擊行為也愈發頻繁。"
-    },
-    {
-      "id": "mkt:019e7aae-5436-7bb7-996b-a1cfb890c39e",
-      "time": "2026-05-31 04:58:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran negotiator says proposed US deal not final; includes exit clause】Iranian negotiator Saeed Ajorlou said Tehran has not approved the final draft of a proposed agreement with the US; as of Friday night the text remained unapproved though differences were minimal. He said approval would trigger a 60‑day detailed negotiation phase. The draft contains 14 main clauses, each with annexes requiring further negotiation. Ajorlou said enforcement mechanisms—particularly access to Iranian assets and counterpart compliance—are more important than the text itself. The proposal includes a clause allowing Iran to withdraw if the other side fails to meet commitments; cited triggers include breach of a ceasefire, denial of access to Iranian funds, or failure to lift a maritime blockade. He added Iran could reconsider entering the 60‑day talks if initial commitments are not implemented."
-    },
-    {
-      "id": "4908467",
-      "time": "2026-05-31 04:56:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度下調汽油、柴油及航空煤油出口關稅】印度政府週六釋出宣告稱，自6月1日起的兩週週期內，該國將下調汽油、柴油及航空煤油的出口關稅。宣告顯示，汽油出口關稅定為每升1.5盧比（約合0.0158美元），柴油出口關稅為每升13.5盧比，航空煤油出口關稅則為每升9.5盧比。出口關稅每兩週調整一次，調整依據為上一輪稽核週期內原油、汽油、柴油及航空煤油的國際均價。面向國內市場銷售的汽油、柴油，現行消費稅稅率維持不變。"
     }
   ]
 }
