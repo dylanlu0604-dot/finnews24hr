@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-06 10:19:32",
+  "updated": "2026-06-06 10:23:19",
   "count": 18771,
   "items": [
+    {
+      "id": "mkt:019e9aba-e0c7-7665-830f-3576b5cfc6ae",
+      "time": "2026-06-06 10:19:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says it intercepted Iranian missiles and drones】June 4 — U.S. Central Command said it intercepted multiple ballistic missiles and drones Iran fired toward the Strait of Hormuz and neighboring Gulf states. CENTCOM said it had earlier shot down four one‑way attack drones aimed at the Strait of Hormuz that posed a direct threat to maritime traffic. To deter further maritime attacks, U.S. forces struck Iranian coastal surveillance radar sites on Goruk and Qeshm islands. Preliminary assessment: six launched missiles were intercepted; a seventh failed to hit its intended target. No U.S. casualties reported; CENTCOM rejected Iran’s claim that it struck U.S. Fifth Fleet headquarters in Bahrain. Forces remain on high alert and ready to act in self‑defense."
+    },
+    {
+      "id": "4920840",
+      "time": "2026-06-06 10:19:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊釋出宣告稱：作為對美軍打擊伊朗波斯灣相關設施的報復，伊方已使用彈道導彈襲擊位於科威特與巴林的美軍基地。"
+    },
     {
       "id": "4920839",
       "time": "2026-06-06 10:18:53",
@@ -173133,24 +173155,6 @@
         "MKT News"
       ],
       "text": "【Canada's Prime Minister Carney meets China foreign minister】In Ottawa on the 29th (local time), Canada's Prime Minister Carney met China's foreign minister. The China foreign minister conveyed greetings from Chinese leadership, said Carney's visit to China was successful and that bilateral ties have been reset and are back on track. Both sides agreed to build a new-type strategic partnership to guide bilateral development; China said the turnaround serves both countries' interests, that there are no fundamental conflicts and significant room for cooperation. China expressed willingness to respect Canada, seek common ground while reserving differences, strengthen communication and deepen cooperation to promote healthy, stable and sustainable bilateral relations. Both parties pledged to uphold multilateralism, international law and strategic autonomy, and to support free trade and an open global economy."
-    },
-    {
-      "id": "4908037",
-      "time": "2026-05-30 10:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【致敬科技工作者 第四屆全國創新爭先獎獲獎名單揭曉】今年5月30日是第十個全國科技工作者日。今天上午，主場活動暨第四屆全國創新爭先獎表彰大會在京舉行。活動現場宣讀了第四屆全國創新爭先獎表彰決定，為獲獎團隊及個人舉行了頒獎儀式。唐智勇、桂海潮等代表全國創新爭先獎獲獎者、“最美科技工作者”，透過現場分享或影片連線等方式講述科研故事，展現科技工作者風采。（央視新聞）"
-    },
-    {
-      "id": "4908036",
-      "time": "2026-05-30 10:21:16",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【王毅會見加拿大前總理克雷蒂安】當地時間29日，中共中央政治局委員、外交部長王毅在渥太華會見加拿大前總理克雷蒂安。王毅轉達中國領導人的親切問候，表示你是具有戰略眼光的資深政治家，也是中國人民的老朋友。擔任總理期間，開創了中加關係的黃金時期，此後一直為中加友好事業奔走，中方對此始終銘記。中加關係實現轉圜，符合兩國人民期待。兩國完全可以成為相互成就、共同發展的夥伴。中方期待同加方一道，落實好兩國領導人重要共識，共同推動中加新型戰略伙伴關係向前發展。（新華社）"
     }
   ]
 }
