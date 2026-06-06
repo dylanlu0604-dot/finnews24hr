@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 16:38:58_
-_本檔包含 4048 則快訊，約 702823 字_
+_更新時間：2026-06-06 17:28:45_
+_本檔包含 4030 則快訊，約 702522 字_
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Petroleum Products Imports Change (May.29) | actual 626000M | previous -128000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Imports Change (May.29) | actual -249000M | previous 360000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Heating Oil Stocks Change (May.29) | actual 255000M | previous 306000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Stocks Change (May.29) | actual 1502000M | consensus -319000M | previous -2107000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (May.29) | actual -7000M | previous 0M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Gasoline Stocks Change (May.29) | actual 3364000M | consensus -513000M | previous -2572000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Cushing Crude Oil Stocks Change (May.29) | actual -583000M | previous -2794000M
+
+---
+
+### 2026-06-03 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Stocks Change (May.29) | actual -7974000M | consensus -4007000M | previous -3327000M
+
+---
+
+### 2026-06-03 22:29:55  #公司
+
+法航荷航集團執行長：今夏過後燃油成本走勢 “無法完全預判”。
+
+---
+
+### 2026-06-03 22:28:42  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel has never been stronger and Iran has never been weaker, crediting the US-Israel partnership.
+
+---
+
+### 2026-06-03 22:28:33  #國際
+
+內塔尼亞胡：得益於美以夥伴關係，以色列從未像如今這般強大，伊朗也從未像如今這般弱勢。
+
+---
+
+### 2026-06-03 22:28:20  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+At least three people were killed in Kramatorsk, Ukraine, in strikes launched by Russia, the regional governor said.
+
+---
+
+### 2026-06-03 22:27:50  #國際
+
+內塔尼亞胡：伊朗局勢尚未結束，但伊朗已被削弱。
+
+---
+
+### 2026-06-03 22:27:10  #國際
+
+烏克蘭州長稱，俄羅斯的襲擊在克拉馬托爾斯克造成至少三人死亡。
+
+---
+
+### 2026-06-03 22:27:09  #MKT News
+
+Israeli Prime Minister Netanyahu said Iran's regime has become much weaker.
+
+---
+
+### 2026-06-03 22:26:55  #MKT News
+
+【First major capacity upgrade on Laos section of China-Laos railway since opening】Construction has started on an expansion and renovation at Moding station on the Laos section of the China-Laos railway, the first large-scale capacity upgrade there since the line opened in December 2021. The project is designed to raise border-station train dispatch and cross-border freight handling capacity. Work will proceed in phased, prioritized stages. The Lao-China Railway Company is coordinating the Luang Prabang maintenance center, Vientiane operations center, China Railway Eighth Bureau and China Railway Electrification Bureau to ensure efficient, orderly delivery.
+
+---
+
+### 2026-06-03 22:26:38  #國際
+
+內塔尼亞胡：伊朗政權“弱了很多”。
+
+---
+
+### 2026-06-03 22:26:01  #MKT News #FNMA.O #Impact bearish
+
+Fannie Mae shares fell sharply, down 7.5%.
+
+---
+
+### 2026-06-03 22:25:51  #市場 #國際
+
+芝商所：液化天然氣推動了美國天然氣期貨在歐洲的交易量增長。
+
+---
+
+### 2026-06-03 22:25:37  #市場
+
+房利美股價迅速下跌，跌幅達7.5%。
+
+---
+
+### 2026-06-03 22:25:25  #國際
+
+【波蘭稱已向美防長提議在波新建美軍永久基地】當地時間3日，波蘭副總理兼國防部長瓦迪斯瓦夫·科西尼亞克－卡梅什在社交媒體平臺發文表示，他已向美國國防部長赫格塞思正式提議在波蘭建立一個新的永久性美軍基地。科西尼亞克－卡梅什強調，美國對波蘭安全的承諾並未減弱，相反，它可能會“變得更堅定”。（央視新聞）
+
+---
+
+### 2026-06-03 22:25:12  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is fighting an enemy intent on destroying the state.
+
+---
+
+### 2026-06-03 22:24:59  #其他
+
+【中老鐵路開通以來寮國段首次大規模擴能改造】近日，中老鐵路寮國段磨丁站正式開啟改擴建施工。這是中老鐵路自2021年12月通車運營以來，寮國段內首次大規模擴能改造，將有效提升口岸車站接發列車與跨境貨運集散能力。
+
+---
+
+### 2026-06-03 22:24:58  #MKT News
+
+U.S. Treasury Secretary Bessent declined to comment further on the settlement in Trump's tax case.
+
+---
+
+### 2026-06-03 22:24:54  #國際
+
+以色列總理內塔尼亞胡：當我們與伊朗及其代理人作鬥爭時，我們是在為美國和歐洲而戰。
+
+---
+
+### 2026-06-03 22:24:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister Netanyahu said fighting Iran and its proxies is a fight for the United States and Europe.
+
+---
+
+### 2026-06-03 22:24:50  #國際
+
+貝森特：不再就特朗普涉稅案件和解事宜進一步置評。
+
+---
+
+### 2026-06-03 22:24:37  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact mixed
+
+【Alphabet continues equity and multi-currency debt binge despite >$120bn cash】Alphabet has accelerated financing via bonds and a planned equity raise to fund AI infrastructure. Key moves: Feb — multi-currency bond issuance including a rare 100‑year sterling bond, a heavily subscribed $20bn US‑dollar deal, and a Swiss franc issue; May — €9bn and C$8.5bn bonds (~$17bn) plus JPY 576.5bn (~$3.6bn), a record for a non‑Japanese issuer; June — announced a planned $80bn equity raise with a $10bn directed placement to Berkshire Hathaway. The company had issued over $85bn of bonds in the prior year before the equity plan. Drivers: management cites huge AI capex — FY2026 capex guidance of $180–190bn and materially higher 2027 spending — that operating cash flow alone cannot cover; a shift from light‑asset to capital‑intensive builds (data centers, custom TPUs) requiring large upfront cash; and balance‑sheet management — despite >$120bn cash, some is earmarked for employee tax liabilities and the firm is preserving dividend/repurchase commitments and credit metrics, prompting equity issuance. Financing profile and use of proceeds: maturities span 3 years to 100 years, issuance across six major currencies (USD, EUR, GBP, JPY et al.) to reduce single‑market rate risk and lock long‑dated, low‑cost funding; proceeds targeted almost entirely at AI infrastructure, data centers, TPU/GPU clusters and Google Cloud expansion.
+
+---
+
+### 2026-06-03 22:24:30  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is seeking to weaken Hezbollah to enable a free Lebanon to emerge.
+
+---
+
+### 2026-06-03 22:24:28  #國際
+
+內塔尼亞胡：特朗普清楚黎巴嫩被真主黨 “挾持為人質”。
+
+---
+
+### 2026-06-03 22:24:18  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli Prime Minister Netanyahu said Trump understands Lebanon has been hijacked by Hezbollah.
+
+---
+
+### 2026-06-03 22:24:07  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Al Arabiya cited a US source saying the next few hours will be decisive for Lebanon-Israel negotiations. If talks make major progress, US Secretary of State Rubio is expected to participate in the talks. Both sides are holding intensive contacts to secure final approval of a ceasefire plan.
+
+---
+
+### 2026-06-03 22:24:05  #國際
+
+據沙烏地阿拉伯阿拉比亞電視臺：一位美國訊息人士稱，未來數小時將對黎巴嫩與以色列談判的前景起決定性作用。如果談判取得重大進展，美國國務卿魯比奧預計將參與談判。目前雙方正展開密集接觸，以爭取就停火方案達成最終批准。
+
+---
+
+### 2026-06-03 22:23:56  #其他
+
+貝森特就民主黨議員懷登之子與愛潑斯坦會面一事向懷登發難。
+
+---
+
+### 2026-06-03 22:22:59  #國際
+
+【印度餐廳火災致18名外國人死亡】據印度媒體3日報道，印度首都新德里馬爾維亞納加爾地區一家餐廳3日早晨發生的火災已造成21人死亡，其中包括18名外國公民。報道稱，遇難外國公民來自孟加拉國、奈及利亞、莫三比克和賴比瑞亞等國。火災還造成40餘人受傷，傷者已被送往當地醫院進行治療。 (新華社)
+
+---
+
+### 2026-06-03 22:22:39  #其他
+
+貝森特抨擊參議院委員會民主黨領袖RON WYDEN。
+
+---
+
+### 2026-06-03 22:21:21  #國際
+
+美國財長貝森特：每新增一條規則，（美國）政府就取消129條規則。
+
+---
+
+### 2026-06-03 22:21:19  #MKT News #DXY #Impact bullish #WTI #S&P500 #Impact mixed
+
+【ISM: U.S. services activity expanded in May】ISM's May services PMI rose to 54.5 from 53.6 in April, beating expectations. New orders continued to expand. The supplier deliveries index fell from April but stayed above 50 for an 18th straight month, signaling ongoing delivery slowdowns. The prices index climbed to its highest since August 2022; diesel, gasoline, crude oil and related commodities were most frequently cited for price increases. The employment index contracted for a third month; ISM chair Steve Miller said respondents frequently reported hiring freezes or not backfilling vacancies, though most industries reported month-to-month employment was steady.
+
+---
+
+### 2026-06-03 22:21:17  #公司 #資料 #市場 #國際
+
+【ISM：美國5月服務業活動繼續擴張】美國供應管理協會（ISM）調查發現，美國服務業活動在5月份的增長超過預期。5月ISM服務業PMI為54.5，而4月份為53.6。新訂單指數上月繼續擴張。與此同時，供應商交貨指數較4月份有所下降。該指數已是連續第18個月處於擴張區間，這表明供應商交貨速度放緩。價格指數升至2022年8月以來的最高水平。5月份，柴油、汽油、石油和相關大宗商品再次成為最常被提及價格上漲的品類。與此同時，就業指數連續第三個月萎縮。ISM主席史蒂夫·米勒表示：“受訪者頻頻表示，所在公司已凍結招聘或不再填補空缺職位，但大多數行業報告稱，月度就業人數保持平穩。”。
 
 ---
 
@@ -24040,347 +24274,5 @@ Federal Reserve's Hammack said he is optimistic that AI will complement workers.
 ### 2026-06-02 21:22:02  #MKT News #Important
 
 i24News reports Israeli and Lebanese officials are holding a fourth round of talks in Washington, D.C.
-
----
-
-### 2026-06-02 21:21:46  #其他
-
-哈馬克對人工智慧將作為勞動者的補充工具持樂觀態度。
-
----
-
-### 2026-06-02 21:21:39  #國際
-
-波蘭移動支付系統Blik在進入羅馬尼亞、斯洛伐克後，計劃進軍歐元區。
-
----
-
-### 2026-06-02 21:21:31  #央行 #國際
-
-以色列央行行長亞龍暗示，因通脹預期下調，降息步伐或將加快。
-
----
-
-### 2026-06-02 21:21:16  #公司
-
-萊茵金屬股份公司（RHEINMETALL AG）：目前已投放資金2600萬美元，剩餘投資計劃於今年晚些時候落地。
-
----
-
-### 2026-06-02 21:21:01  #MKT News
-
-Canada's Prime Minister Carney said the auto industry's 50% U.S. local-content rule is currently under consultation.
-
----
-
-### 2026-06-02 21:20:50  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #S&P500
-
-Federal Reserve's HAMMACK said inf may require policy support to reach 2%.
-
----
-
-### 2026-06-02 21:20:34  #國際
-
-市場訊息：美國海灣地區取代波斯海灣地區成為燃料供應的搖擺者。
-
----
-
-### 2026-06-02 21:20:24  #MKT News
-
-CARNEY said Canada has made some progress on trade issues with the United States.
-
----
-
-### 2026-06-02 21:20:21  #央行 #國際
-
-美聯儲哈馬克：或需政策發力才能令通脹回落至 2% 目標。
-
----
-
-### 2026-06-02 21:20:13  #國際
-
-加拿大總理卡尼表示，加拿大在與美國存在的部分貿易問題上正取得進展。
-
----
-
-### 2026-06-02 21:19:46  #央行 #國際
-
-美聯儲哈馬克：通脹水平居高不下、仍存上行壓力且呈現全域普漲態勢。
-
----
-
-### 2026-06-02 21:19:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's HAMMACK said the central bank is weighing multiple scenarios tied to a war lasting longer than expected.
-
----
-
-### 2026-06-02 21:19:19  #國際
-
-美國總統特朗普2日在社交媒體上發文說，任命普爾特為代理國家情報總監。（新華社）
-
----
-
-### 2026-06-02 21:18:49  #MKT News #ORCL.N #Impact bullish
-
-UBS raised its Oracle (ORCL.N) target price to $285 from $250.
-
----
-
-### 2026-06-02 21:18:40  #其他
-
-瑞銀將甲骨文目標股價從250美元上調至285美元。
-
----
-
-### 2026-06-02 21:18:34  #MKT News #DXY #Impact bullish
-
-Canadian prime minister Carney said slower population growth is weighing on GDP.
-
----
-
-### 2026-06-02 21:18:28  #MKT News
-
-Canada's prime minister Carney said investment has shown some volatility.
-
----
-
-### 2026-06-02 21:18:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed official Hammack said the main concern is that inflation remains too high and is still rising.
-
----
-
-### 2026-06-02 21:18:21  #國際
-
-美國食品藥品監督管理局：指南草案支援涵蓋基因組編輯療法在內的多種細胞與基因治療產品開發。
-
----
-
-### 2026-06-02 21:18:18  #MKT News #GBPUSD #Impact bearish
-
-Carney says he sees some softness.
-
----
-
-### 2026-06-02 21:18:15  #市場
-
-LME倫銅向上觸及14000美元/噸，最新報14000.0美元/噸，日內上漲1.21%。
-
----
-
-### 2026-06-02 21:18:11  #MKT News
-
-Canada's Prime Minister Carney said some economic data will be uneven.
-
----
-
-### 2026-06-02 21:18:10  #其他
-
-卡尼表示，當前投資活動的走勢仍存在一些其他波動。
-
----
-
-### 2026-06-02 21:17:49  #央行 #國際
-
-美聯儲哈馬克：主要擔憂是通脹水平過高且仍在上升。
-
----
-
-### 2026-06-02 21:17:39  #MKT News #Important
-
-【Iranian media: Iran-U.S. information exchange halted for days】Fars News cites a source saying information exchanges between Iran and the U.S. have been halted for at least several days, despite Western media and officials portraying communications as normal. The exchanges, intended to produce a preliminary memorandum of understanding, have been interrupted; the source said Trump’s claim last night that negotiations are progressing rapidly contrasts with the situation, and that Iran’s last message to the U.S., concerning Lebanon, has attracted wide international attention.
-
----
-
-### 2026-06-02 21:17:33  #國際
-
-【伊媒：伊美之間的資訊交流已中斷數日】據伊朗媒體Fars News報道，一位知情人士透露，儘管一些西方媒體和官員試圖將伊美國之間的資訊交流過程描述為正常狀態，但目前雙方沒有在進行資訊交流。伊朗與美國之間旨在達成初步諒解備忘錄的資訊交流已經中斷了至少數日。雖然昨晚特朗普聲稱與伊朗的談判進展迅速，但該訊息人士強調，伊朗發給美國的最後一條訊息是關於黎巴嫩的，該訊息引起了國際社會的廣泛關注。
-
----
-
-### 2026-06-02 21:17:31  #國際
-
-美國食品藥品監督管理局釋出指南草案，助力加速細胞與基因療法惠及患者。
-
----
-
-### 2026-06-02 21:17:14  #其他
-
-加拿大總理卡尼表示，部分經濟資料將表現參差。
-
----
-
-### 2026-06-02 21:17:14  #MKT News #Commodities #Industrial Metals
-
-U.S. Department of Energy (DOE) announces $134 million in funding for two rare-earth projects.
-
----
-
-### 2026-06-02 21:17:06  #國際
-
-美國萊茵金屬將對美國六家生產設施合計投資4100萬美元。
-
----
-
-### 2026-06-02 21:16:55  #MKT News #CBK.DE #Impact bullish #UCG.MI #Impact mixed
-
-UniCredit's stake in Commerzbank, including shares accepted under the offer, totals 34.35%.
-
----
-
-### 2026-06-02 21:16:35  #國際
-
-美國能源部宣佈撥款1.34億美元用於兩個稀土專案。
-
----
-
-### 2026-06-02 21:16:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed official Hammack said he has not yet seen the war affect consumer spending.
-
----
-
-### 2026-06-02 21:16:25  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #WTI
-
-Federal Reserve official Hammack said contacts say even if the war ends quickly it will still cause lasting disruptions.
-
----
-
-### 2026-06-02 21:16:17  #央行 #國際
-
-美聯儲哈馬克：尚未看到戰爭對消費者支出產生影響。
-
----
-
-### 2026-06-02 21:16:11  #市場 #國際
-
-【兒基會：世界各地兒童受人道主義供應鏈阻斷嚴重影響】據央視新聞，聯合國兒童基金會全球運輸和物流部門負責人讓-塞德里克·梅烏斯2日在日內瓦例行記者會上表示，自2月28日美國-以色列-伊朗緊張局勢升級以來，世界各地兒童受到全球人道主義供應鏈阻斷的嚴重影響。梅烏斯說，中東局勢升級近100天裡，全球供應鏈持續擁堵，如今繞行好望角的航線航運時間增加了2到4周，中東航線的空運能力趨於緊張，非洲及其他地區相繼出現港口擁堵。梅烏斯介紹說，僅涉及兒童的人道主義物資運輸和物流成本的上漲就造成巨大影響，運輸成本增加意味著用於兒童所需救生物資的資金減少。例如，在奈及利亞，為一個針對1200萬兒童的脊髓灰質炎疫苗接種專案而重新安排注射器運輸路線，額外花費了20萬美元，運輸成本增加了56%。梅烏斯表示，聯合國兒童基金會全球運輸和物流部門目前正在啟用空運、陸運和海運的替代路線，提前採購物資，實現供應商多元化，並推進本地化物資生產。
-
----
-
-### 2026-06-02 21:15:58  #其他
-
-萬事達卡任命薩欽·梅赫拉為首席商務官，2026年8月3日生效。
-
----
-
-### 2026-06-02 21:15:38  #公司 #國際
-
-【Anthropic正在為全球額外150家機構提供Mythos的訪問許可權】Anthropic正在允許全球150家額外的機構使用Mythos這款人工智慧模型。該模型旨在發現網路安全漏洞，而Anthropic公司曾表示，將其公開給公眾存在太大的風險。Anthropic計劃於週二公佈使用者數量的增加情況，屆時擁有訪問許可權的使用者總數將約為200個。該公司表示，這些新機構分佈在15個國家，涉及電力、醫療保健和通訊等行業。儘管Anthropic未透露其具體名稱，但該公司表示，其中包含一些生產關鍵程式設計程式碼的公司和非營利組織。此前有知情人士稱，歐盟的網路安全機構將獲得該軟體的訪問許可權。
-
----
-
-### 2026-06-02 21:15:33  #央行 #國際
-
-美聯儲哈馬克：目前正在評估俄烏衝突持續時間長於預期的多種情景。
-
----
-
-### 2026-06-02 21:15:23  #其他
-
-萬事達卡宣佈高管層人事調整，以推進戰略落地並支撐持續增長。
-
----
-
-### 2026-06-02 21:15:00  #公司
-
-裕寶銀行報告稱，德國商業銀行要約股份的接受量約佔股本及表決權的7.58%。
-
----
-
-### 2026-06-02 21:14:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Weiduo Energy Group's Bahrain head said global inventories cannot be drawn down indefinitely; if demand recovers, oil prices will rise further, and the only way to stop that would be demand destruction.
-
----
-
-### 2026-06-02 21:14:32  #MKT News
-
-Iran's latest message to the United States was "a clear message regarding Lebanon," Iranian outlet Fars News, citing sources, said.
-
----
-
-### 2026-06-02 21:14:15  #MKT News #Market Regions #Greater China
-
-【China commissions world's first S+C+L three-band ultra-low-loss multi-core optical cable in Qingdao】China has commissioned the world's first S+C+L three-band ultra-low-loss multi-core optical cable line in Qingdao, Shandong. The domestically designed route, led by China Mobile with industry partners, combines space-division multiplexing with multi-band fusion to exceed conventional fiber transmission capacity limits and has entered commercial deployment. China Mobile said the project resolved core technical bottlenecks and represents a key commercialization milestone, offering a new technical solution for compute interconnects and ultra-high-bandwidth transmission.
-
----
-
-### 2026-06-02 21:14:11  #其他
-
-【今年以來廣東“以舊換新”“優品購”帶動消費超1300億元】記者2日從2026年廣東省端午及暑期假日促消費新聞釋出會上獲悉，今年以來，廣東省商務廳牽頭組織開展消費品以舊換新和“廣東優品購”活動，合計帶動消費超過1300億元。廣東省商務廳二級巡視員黃欣表示，在消費品以舊換新方面，廣東省按全國統一標準實施汽車、家電、數碼和智慧產品補貼政策，將更多代表新質生產力的產品納入補貼範圍，新增智慧門鎖、智慧印表機、智慧顯示屏、智慧馬桶、適老化呼吸輔助醫療器械、數碼相機等6類消費品以舊換新地方自主補貼品類。（中新網）
-
----
-
-### 2026-06-02 21:14:04  #國際
-
-伊朗法爾斯通訊社援引訊息人士訊息：伊朗向美方傳遞的最新訊息是“關於黎巴嫩的明確表態”。
-
----
-
-### 2026-06-02 21:14:02  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
-
-Fed official Hammack said high-income Americans continue to fare well economically, while low-income households remain under strain.
-
----
-
-### 2026-06-02 21:13:56  #MKT News #Market Themes #AI Revolution
-
-【Anthropic expands Mythos access to 150 more institutions】Anthropic is granting 150 additional institutions worldwide access to Mythos, its AI model for identifying cybersecurity vulnerabilities, bringing total access to about 200 when the company reports the increase on Tuesday. The new users span 15 countries and include organizations in power, healthcare and telecommunications; Anthropic said the cohort includes firms and non-profits that produce critical programming code but did not identify them. Anthropic has said public release of Mythos carries significant risk; separate reports say the EU cybersecurity agency will receive access.
-
----
-
-### 2026-06-02 21:13:50  #央行 #國際
-
-美聯儲哈馬克：低收入家庭正面臨財務困境。
-
----
-
-### 2026-06-02 21:13:44  #其他
-
-Coinbase：出資佈局推進穩定幣現金管理業務。
-
----
-
-### 2026-06-02 21:13:37  #公司 #國際
-
-印度信實集團：多國汽油需求下滑 5%。
-
----
-
-### 2026-06-02 21:13:34  #央行 #國際
-
-美聯儲哈馬克：美國高收入群體的經濟狀況仍保持良好。
-
----
-
-### 2026-06-02 21:13:18  #其他
-
-維多巴林分部負責人湯姆·貝克：全球庫存不可能一直消耗下去，唯一的解決辦法將是需求破壞。
-
----
-
-### 2026-06-02 21:13:02  #國際
-
-知情人士表示，伊朗和美國之間關於所謂德黑蘭與華盛頓初步諒解備忘錄的訊息交流已暫停至少幾天。
-
----
-
-### 2026-06-02 21:12:59  #MKT News #Important
-
-Fars News, citing informed sources, reports that information exchange between Iran and the United States on a preliminary memorandum of understanding has been suspended for at least several days.
-
----
-
-### 2026-06-02 21:12:55  #其他
-
-【中國抗疫醫療專家組抵達剛果（金）支援埃博拉防控】援剛果（金）中國抗疫醫療首批專家組2日抵達剛果（金）首都金沙薩，專家組將在剛開展為期三個月的對外醫療援助，支援當地埃博拉疫情防控工作。剛果（金）衛生部代表盧庫·馬留斯在機場歡迎專家組到來。他表示，在剛埃博拉疫情防控處於關鍵階段之際，中國派遣抗疫醫療專家組來剛，是對剛政府和人民的及時、有力支援。他期待專家組此行進一步增強剛方疫情防控和醫療救治能力，為早日控制並結束疫情發揮積極作用。（新華社）
-
----
-
-### 2026-06-02 21:12:39  #其他
-
-【我國光通訊技術實現重要突破 全球首條三波段超低損耗多芯光纜線路正式開通】全球首條S+C+L三波段（短波段+常規通訊波段+長波段）超低損多芯光纜線路近日在山東青島正式建成開通。這條新型光纜線路突破傳統光纖的傳輸容量極限，標誌著我國空間多工光纖與多波段融合技術邁入商用化新階段，為智慧時代算力互聯、超大頻寬傳輸提供了全新技術方案。三波段指通訊光訊號的S波段（短波段）+C波段（常規通訊波段）+L波段（長波段），是AI算力、全光網路、5G-A/6G的核心升級方向。
 
 ---
