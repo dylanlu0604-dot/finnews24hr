@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-07 02:11:45",
-  "count": 18794,
+  "updated": "2026-06-07 02:15:39",
+  "count": 18801,
   "items": [
+    {
+      "id": "mkt:019e9e24-8377-7665-8314-164090925da4",
+      "time": "2026-06-07 02:14:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Fars news agency reported explosions were heard near Kharg Island."
+    },
+    {
+      "id": "4921396",
+      "time": "2026-06-07 02:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：烏克蘭特別軍事行動的結果對華盛頓已變得清楚。"
+    },
+    {
+      "id": "4921395",
+      "time": "2026-06-07 02:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦官方機構：以方5月在約旦河西岸實施超1600起襲擊】巴勒斯坦官方機構“巴勒斯坦隔離牆和定居點抵抗委員會”6月6日釋出月度報告稱，今年5月份，以色列軍隊和以色列猶太人定居者在約旦河西岸共實施1659起襲擊事件。巴方表示，襲擊呈系統性升級趨勢，嚴重影響當地居民生活和農業生產。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9e24-2b81-7665-8314-0aaa4e827a0f",
+      "time": "2026-06-07 02:13:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil inventories at risky lows; another price spike could hit markets and economy】With no agreement restoring passage through the Strait of Hormuz, global oil inventories have fallen to dangerously low levels. JP Morgan warns that unless transit is normalized, oil could surge again in late June. U.S. crude stocks have declined for eight straight weeks to their lowest since Feb 2024. Analysts say the second-round price shock risk stems from the depletion of buffer stocks rather than a formal closure; investors see the Strait as a persistent geopolitical bottleneck and expect prices to remain above $70 even if tensions ease. Higher oil is a modest headwind for U.S. growth but poses greater inflationary risk for Europe and Asia; if crude averaged $120/bbl for a year, growth in the U.S. could slow by roughly 0.4 percentage point."
+    },
+    {
+      "id": "4921394",
+      "time": "2026-06-07 02:13:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社稱，哈格島附近聽到爆炸聲。"
+    },
+    {
+      "id": "4921393",
+      "time": "2026-06-07 02:12:03",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌為安卓系統推出AI虛假來電檢測功能，應對日益增多的電信詐騙。"
+    },
+    {
+      "id": "4921392",
+      "time": "2026-06-07 02:11:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟警告稱，Claude Code 存在漏洞，可能導致GitHub賬號憑證洩露。"
+    },
     {
       "id": "4921391",
       "time": "2026-06-07 02:07:21",
