@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 18:22:22_
-_本檔包含 4045 則快訊，約 702344 字_
+_更新時間：2026-06-06 19:09:09_
+_本檔包含 4061 則快訊，約 702391 字_
+
+---
+
+### 2026-06-03 22:48:12  #其他
+
+安克創新科技重新遞交港股上市申請。
+
+---
+
+### 2026-06-03 22:48:04  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+NETANYAHU said Israel must decide when to act in Gaza and will determine with the Peace Committee what action to take.
+
+---
+
+### 2026-06-03 22:47:43  #MKT News #DAL.O
+
+Delta Air Lines executive says recent Blue Origin incident will not affect the airline's plan to deploy onboard Wi-Fi in 2028.
+
+---
+
+### 2026-06-03 22:47:28  #MKT News
+
+Israeli Prime Minister NETANYAHU said he believes Iran's internal fractures will spread and the regime will eventually collapse.
+
+---
+
+### 2026-06-03 22:47:25  #市場 #央行 #國際
+
+【美聯儲威廉姆斯：目前無需上調或下調利率】美聯儲威廉姆斯表示，目前美國的貨幣政策已處於良好狀態，但他認為未來利率走勢並無明顯方向可循。“貨幣政策目前的設定完全恰當。我認為目前無需上調或下調利率，”威廉姆斯表示。“而且我也認為未來我們不會朝著某個明確的方向發展，”他補充道。今年到目前為止，美聯儲一直維持著利率不變。然而，政策制定者們在面對能源價格飆升的情況下，對於應對通貨膨脹應採取何種措施的問題上產生了分歧。一些官員警告稱，如果霍爾木茲海峽的航運流量不能很快恢復，那麼很快可能就需要加息了。美聯儲青睞通脹指標在4月份較上年同期上漲了3.8%，這是自2023年以來的最大漲幅。目前的失業率維持在4.3%，一些美聯儲官員將這一水平描述為接近充分就業的狀態。
+
+---
+
+### 2026-06-03 22:47:18  #國際
+
+以色列總理內塔尼亞胡：特朗普希望與伊朗當前政權達成協議，但這並不意味著他希望政權繼續存在。
+
+---
+
+### 2026-06-03 22:47:13  #MKT News
+
+Israeli Prime Minister Netanyahu said, regarding civilian deaths, that civilians are warned to evacuate ahead of military operations.
+
+---
+
+### 2026-06-03 22:47:08  #公司
+
+奧多比（Adobe）瞄準內部人選瓦德瓦尼、查克拉瓦蒂接任執行長一職。  微軟高管拉曼納曾洽談出任奧多比執行長一職，但最終放棄競聘。 奧多比考慮外部候選人，聘請海德思哲獵頭公司。
+
+---
+
+### 2026-06-03 22:46:54  #MKT News #Important
+
+Israeli Prime Minister Netanyahu said Trump wants a deal with Iran’s current regime, but that does not mean he wants the regime to remain in power.
+
+---
+
+### 2026-06-03 22:46:36  #MKT News #WTI #Impact bullish
+
+Israeli Prime Minister Netanyahu said Iran currently has significant internal fractures.
+
+---
+
+### 2026-06-03 22:46:21  #MKT News #MSFT.O #ADBE.O
+
+Market sources: Microsoft (MSFT.O) executive Ramanana discussed the possibility of becoming Adobe CEO but ultimately declined to pursue the role.
+
+---
+
+### 2026-06-03 22:46:00  #其他
+
+內塔尼亞胡：經過兩年半的戰事，我國貨幣如今處於有史以來最強勁的水平，出口額也已飆升至歷史新高。
+
+---
+
+### 2026-06-03 22:45:47  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #S&P500 #Impact bullish #DXY
+
+【Fed's Williams says no need to raise or cut rates now】Fed's Williams said current monetary policy settings are appropriate and he sees no need now to raise or cut rates, adding he does not see a clear directional path for future policy. The Fed has kept rates unchanged so far this year, but officials are divided after an energy-driven jump in prices; some warn that if shipping through the Strait of Hormuz does not recover quickly, a rate hike could be needed soon. The Fed-favored inflation gauge rose 3.8% YoY in April, the largest increase since 2023. Unemployment is 4.3%, which some officials describe as near full employment.
+
+---
+
+### 2026-06-03 22:45:09  #MKT News #DXY #Impact bearish #WTI #S&P500 #Impact bullish
+
+Israeli Prime Minister Netanyahu said Israel has weakened Hamas and that Hamas now holds less territory than before.
+
+---
+
+### 2026-06-03 22:45:01  #國際
+
+內塔尼亞胡：我們將自行決定何時在加沙採取行動，行動規模也將與安全內閣磋商後決定。
+
+---
+
+### 2026-06-03 22:44:55  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500 #XAUUSD #Impact bullish
+
+Bridgewater founder Ray Dalio said the AI bubble will eventually burst.
+
+---
+
+### 2026-06-03 22:44:42  #其他
+
+內塔尼亞胡稱正 “逐步逼近” 哈馬斯。
+
+---
+
+### 2026-06-03 22:44:24  #其他
+
+達利歐表示人工智慧泡沫最終會破裂。
+
+---
+
+### 2026-06-03 22:43:33  #央行 #國際
+
+美國聯邦儲備委員會主席凱文·沃什已聘請保羅·溫弗裡和丹尼爾·海爾擔任臨時顧問，在美聯儲協助其工作。
+
+---
+
+### 2026-06-03 22:43:23  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish
+
+U.S. Treasury Secretary Bessent said the deficit-to-GDP ratio could fall below 4% by the end of his term.
+
+---
+
+### 2026-06-03 22:43:20  #其他
+
+貝森特：週六於舊金山會晤多家頭部大模型實驗室。
+
+---
+
+### 2026-06-03 22:43:19  #MKT News
+
+US Treasury Secretary Bessent said the US faces spending and growth problems.
+
+---
+
+### 2026-06-03 22:43:12  #MKT News
+
+Israeli Prime Minister Netanyahu said regime change will not occur at a time of our choosing.
+
+---
+
+### 2026-06-03 22:43:07  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel must help the Iranian people overthrow this regime.
+
+---
+
+### 2026-06-03 22:42:58  #MKT News
+
+Israel's prime minister Netanyahu said Iran has not agreed to withdraw nuclear material.
+
+---
+
+### 2026-06-03 22:42:52  #其他
+
+達美航空高管：藍色起源近期事故不會影響該航司2028年機上WiFi部署時間表。
+
+---
+
+### 2026-06-03 22:42:40  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
+
+Nasdaq-100 index turns positive.
+
+---
+
+### 2026-06-03 22:42:26  #國際
+
+據知情人士透露，Quantinuum美國IPO獲得超過20倍認購。
+
+---
+
+### 2026-06-03 22:42:17  #MKT News
+
+Prime Minister NETANYAHU said the new agreement will not be a replica of the Iran nuclear deal and should result in a better accord.
+
+---
+
+### 2026-06-03 22:42:08  #市場
+
+納斯達克100指數轉漲。
+
+---
+
+### 2026-06-03 22:41:53  #其他
+
+達利歐表示，所有偉大的技術變革都會產生泡沫。
+
+---
+
+### 2026-06-03 22:41:33  #其他
+
+國際貨幣基金組織：第五次審查將向衣索比亞提供約4.68億美元資金。
+
+---
+
+### 2026-06-03 22:41:18  #MKT News
+
+NETANYAHU: We are working to achieve the same goal.
+
+---
+
+### 2026-06-03 22:40:48  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+US Secretary of State Rubio says prospects for a Russia-Ukraine agreement are not optimistic.
+
+---
+
+### 2026-06-03 22:40:41  #MKT News
+
+Israeli Prime Minister NETANYAHU says he speaks with Trump roughly every two days.
+
+---
+
+### 2026-06-03 22:40:34  #公司
+
+【勁仔食品：擬5000萬元-1億元回購公司股份】勁仔食品6月3日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於5000萬元且不超過1億元。回購價格不超過16元/股。回購股份將用於登出並減少註冊資本。回購期限為自公司股東會審議透過本次回購方案之日起不超過12個月。
+
+---
+
+### 2026-06-03 22:40:27  #國際
+
+內塔尼亞胡：伊朗尚未同意撤出核材料。
+
+---
+
+### 2026-06-03 22:40:07  #國際
+
+內塔尼亞胡：我相信這些裂痕最終會蔓延開來，（伊朗）政權將會倒臺。
+
+---
+
+### 2026-06-03 22:40:04  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
+
+US Crude Oil Inventories Fall More than Expected — US crude inventories fell by 7.974 million barrels in the week ended May 29, the most since February and exceeding expectations for a 4 million barrel draw. Also, stocks at the Cushing, Oklahoma hub decreased by 583 thousand barrels. Refinery activity went down, with crude runs falling by 90,000 barrels per day. On the other hand, gasoline inventories rose by 3.364 million barrels, compared with forecasts for a 0.3 million barrel decline. Distillate stocks, including diesel and heating oil, increased by 1.502 million barrels, versus expectations for a 0.3 million barrel draw. Net US crude imports fell by 249 thousand barrels per day over the week.
 
 ---
 
@@ -24231,143 +24465,5 @@ Ned Davis Research raised its S&P 500 year-end 2026 target to 7,950.
 ### 2026-06-02 21:38:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
 
 Financial Times reports Abu Dhabi National Oil Company (ADNOC) is prioritizing a refined‑products pipeline that would bypass the Strait of Hormuz. The project would resemble the U.S. Colonial pipeline and be capable of switching shipments among different refined product types.
-
----
-
-### 2026-06-02 21:37:48  #公司 #市場
-
-微芯科技股價上漲4%，此前公司釋出了預測報告，稱其在2026年資料中心收入將增長65%。
-
----
-
-### 2026-06-02 21:37:27  #國際
-
-基輔官員：截至目前已有81人受傷。
-
----
-
-### 2026-06-02 21:36:39  #公司
-
-市場訊息：阿布扎比國家石油公司計劃建設一條繞過霍爾木茲海峽的石油產品管道。
-
----
-
-### 2026-06-02 21:36:32  #公司 #觀點
-
-【SpaceX要求壓低IPO承銷費率 但投行仍有望分食5億美元收入】馬斯克旗下SpaceX正在與經手其IPO的華爾街投行談判，希望支付極低的費率。不過，即便收費標準大幅壓低，負責此次上市的銀行仍有望從這場創紀錄的IPO中獲得約5億美元收入。馬斯克旗下這家航天與人工智慧集團計劃於本月進行IPO，目標募資規模750億美元，據知情人士透露，目前該公司正爭取將承銷費率壓低至0.75%以下。儘管這一費率遠低於通常水平，但仍將成為這些負責安排此次IPO的華爾街銀行歷史上最賺錢的上市專案之一。作為本次IPO的牽頭行，高盛集團和摩根士丹利預計將從承銷費用中獲得比其他21家參與券商更大的份額。知情人士表示，上述數字僅反映SpaceX支付的基礎承銷費用，並未包含可能額外發放的獎勵性費用。由於討論尚未公開資訊，知情人士要求匿名。SpaceX、高盛和摩根士丹利的發言人均拒絕對此置評。
-
----
-
-### 2026-06-02 21:36:25  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Financial Times reports Abu Dhabi National Oil Company (ADNOC) plans to build a pipeline to bypass the Strait of Hormuz for refined petroleum products.
-
----
-
-### 2026-06-02 21:36:02  #MKT News #Dow #Impact bullish
-
-Dow Jones Industrial Average turned higher, trading up 0.25%.
-
----
-
-### 2026-06-02 21:35:45  #市場
-
-NUBANK股價下跌10%，創2025年4月以來最大跌幅。
-
----
-
-### 2026-06-02 21:34:45  #市場
-
-道指轉漲，盤初曾下跌約0.2%。
-
----
-
-### 2026-06-02 21:34:28  #MKT News #Macro & Rates
-
-Polish central bank left its main interest rate unchanged at 3.75%.
-
----
-
-### 2026-06-02 21:34:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Ease from Records — US stocks inched down from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. The S&P 500, Nasdaq 100, and Dow were slightly under the flatline. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Nike and IBM were both close to 3% lower. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company.
-
----
-
-### 2026-06-02 21:34:06  #MKT News
-
-【BSE-listed Liujin Technology dismisses CFO and company secretary after becoming uncontactable】Beijing Stock Exchange-listed Beijing Liujin Suiyue Media Technology Co. said on June 2 it has dismissed Xu Wenhai, its finance head and company secretary who participated in the firm's listing, after he became uncontactable and could not perform his duties. Xu left before his term expired. The company said he holds no company shares, is not on the list of persons subject to joint disciplinary measures for dishonesty, and has no outstanding commitments.
-
----
-
-### 2026-06-02 21:34:04  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) opened down 3.6%, its largest decline since March 26.
-
----
-
-### 2026-06-02 21:34:02  #市場
-
-SHAKE SHACK一度下跌10%，創2023年11月以來的最低水平。
-
----
-
-### 2026-06-02 21:33:54  #Trading Economics #Economy #Singapore #Manufacturing PMI #Importance 1
-
-Singapore Manufacturing PMI Rises to 5-Month High — Singapore’s Manufacturing PMI rose to 51.0 in May 2026 from 50.7 in April, marking its highest reading since December 2024 and extending the sector’s expansion streak to ten consecutive months. The improvement was driven by stronger growth in new orders, export demand, factory output, input purchases, and employment. The future business expectations index remained in expansion territory for a seventh straight month, pointing to continued optimism among manufacturers. The electronics sector, which accounts for around 40% of Singapore’s manufacturing output, also strengthened, with its PMI rising to 51.9 and extending its growth streak to twelve months. Despite the positive momentum, firms continued to face rising input costs and supply-chain constraints, as supplier delivery times lengthened for a fifth consecutive month. Still, growing order backlogs and improving business sentiment suggested manufacturers remained cautiously optimistic about near-term growth prospects.
-
----
-
-### 2026-06-02 21:33:53  #央行 #國際
-
-波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。
-
----
-
-### 2026-06-02 21:33:52  #MKT News #Market Themes #Chip Wars #MRVL.O #Impact bullish
-
-MARVELL (MRVL.O) shares rose 20% to a record high; Jensen Huang said the company will become the next trillion-dollar company.
-
----
-
-### 2026-06-02 21:33:30  #公司 #市場
-
-英偉達執行長黃仁勳稱美滿電子為下一個萬億美元市值公司後，美滿電子科技股價大漲20%，創下歷史新高。
-
----
-
-### 2026-06-02 21:33:17  #其他
-
-維多利亞的秘密飆升45%，創紀錄新高。
-
----
-
-### 2026-06-02 21:33:15  #MKT News #AVGO.O #Impact bullish
-
-Broadcom Inc (AVGO.O) shares rose 5% to a record high.
-
----
-
-### 2026-06-02 21:33:01  #MKT News #Important #Star Stocks #Alibaba #JD.com #Market Themes #China EV Leaders #BABA.N #Impact bullish #LI.O #JD.O
-
-NASDAQ Golden Dragon China Index rose 2%; Li Auto (LI.O) climbed over 6%, Alibaba (BABA.N) rose 5%, and XPeng (XPEV.N) and JD.com (JD.O) gained more than 4%.
-
----
-
-### 2026-06-02 21:32:53  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Amazon Stock Price Hits 5-week Low — Amazon shares decreased to 255.01 USD, the lowest since April 2026. Over the past 4 weeks, Amazon lost 5.57%, and in the last 12 months, it increased 24.32%.
-
----
-
-### 2026-06-02 21:32:43  #其他
-
-慧與（HPE）股價暴漲 36%，創歷史最大單日漲幅。
-
----
-
-### 2026-06-02 21:32:41  #市場 #焦點
-
-納斯達克中國金龍指數漲超2%，中進醫療漲16.01%，理想汽車漲6.60%，禾賽科技漲6.14%，世紀互聯漲5.28%，阿里巴巴漲4.78%。
 
 ---

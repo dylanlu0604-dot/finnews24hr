@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 18:22:22_
-_本檔包含 4018 則快訊，約 703457 字_
+_更新時間：2026-06-06 19:09:09_
+_本檔包含 3991 則快訊，約 702310 字_
+
+---
+
+### 2026-06-05 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are Naphtha (-5.04%), Heating Oil (-4.72%), Crude Oil WTI (-3.40%) and Brent Crude Oil (-2.72%). Gains are led by Natural gas (4.37%), Methanol (0.87%) and Coking Coal (0.61%).
+
+---
+
+### 2026-06-05 06:30:14  #其他
+
+華爾街預計，SpaceX的AI收入到2030年將增長100倍。
+
+---
+
+### 2026-06-05 06:27:20  #公司
+
+【透視年內債市信披監管措施：緊盯關鍵主體，全鏈條、穿透式深化】今年以來，已有近40家債券發行人因資訊披露違法違規被交易所採取監管措施，涉及逾期披露、遺漏披露、錯誤披露、虛假披露等問題。梳理發現，從拖延披露財報，到篡改募集資金使用資料、系統性財務造假，債券發行人違法違規手法日趨多元。針對債市信披亂象，監管部門依據違法違規頻次、情節輕重實施梯度處置：“柔性”警示與“剛性”處分並舉；落實“公司+個人”雙罰機制，追責鏈條穿透至發行人內部的“關鍵少數”；同時，連帶處罰會計師事務所等中介機構，壓實“看門人”職責。（上證報）
+
+---
+
+### 2026-06-05 06:26:31  #MKT News #SPCX.O #Impact bullish #Nasdaq100 #S&P500
+
+【Sources: SpaceX sets IPO offer price at $135 a share】Sources said SpaceX (SPCX.O) has informed banks handling its $75 billion IPO that it will use an offer price of $135 a share, disclosed in a revised filing on Wednesday. The move indicates founder Elon Musk’s intent to control pricing for what would be the largest IPO on record, though sources cautioned the price could change before trading begins. SpaceX began its roadshow on Thursday; underwriters will collect investor feedback and typically set the final price at a pre-listing meeting. Sources described demand as extremely strong. The company expects shares to start trading on June 12.
+
+---
+
+### 2026-06-05 06:24:56  #公司 #國際
+
+【厄爾尼諾帶來豐水預期，南方水電公司迎景氣行情】近日，國家氣候中心確認，赤道中東太平洋5月步入厄爾尼諾狀態，專家預判夏秋季大機率演化成中等及以上強度事件，我國南澇北旱氣候機率抬升。豐水預期催化水電板塊年內漲幅顯著分化，部分上市公司釋出的一季度發電資料，已驗證流域來水實質性改善。多家券商研報預測，南方水電板塊具備配置價值，北方高溫將推動相關區域夏季火電發電量和動力煤需求提升。（上證報）
+
+---
+
+### 2026-06-05 06:24:53  #市場 #焦點
+
+現貨黃金突破4480美元/盎司，日內漲0.09%。
+
+---
+
+### 2026-06-05 06:21:21  #其他
+
+【高溫與算電協同助力 A股電力板塊投資價值升溫 】一邊是國內高溫天氣持續提升電力需求，一邊是算電協同概念越發受到市場認可，近期電力板塊表現活躍，市場關注度不斷升溫。在業內機構看來，今年氣候變化導致的高溫將帶動迎峰度夏期間用電需求增長，與此同時，市場對國產晶片算力預期提升或帶動用電量加速增長，催生行業投資機會。展望後市，煤電板塊有望在高溫天氣下率先受益，沿海地區現貨電價提升及算電協同加速發展等因素將進一步推動公用事業板塊二級市場的表現，綠電、水電、核電等細分方向的投資價值同樣值得關注。（中證報）
+
+---
+
+### 2026-06-05 06:20:31  #公司 #國際
+
+美國：Antares Nuclear（安泰雷斯核能公司）的Mark-0已成功完成演示。
+
+---
+
+### 2026-06-05 06:19:31  #公司 #觀點
+
+【核心驅動力並未動搖 五大券商把脈A股下半年機遇 】進入年中時點，各大券商機構對於A股下半年行情走勢的研判陸續出爐，相關內容成為投資者提前佈局、捕捉市場機遇的重要參考。就在近期，國泰海通、中信證券、中金公司、華泰證券、中信建投等多家頭部券商陸續釋出2026年A股中期策略報告，受到市場各方重視。在前述券商看來，當前推動本輪市場上行、中國資產重估的核心驅動力並未發生根本性動搖，市場整體估值合理，但部分高估值板塊需警惕出現波動風險；對於AI主線，當前全球AI革命處於景氣度持續擴散而非全面泡沫化的階段。就後市佈局而言，新興科技、優勢製造以及具備估值修復潛力的部分傳統行業是值得把握的主線，通訊裝置、高階裝備、電力裝置與新能源、工程機械、創新藥等品種受到青睞。（中證報）
+
+---
+
+### 2026-06-05 06:18:39  #市場
+
+【聰明錢提前佈局AI 上游環節部分基礎材料成新寵 】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。Wind資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中證報）
+
+---
+
+### 2026-06-05 06:18:03  #MKT News
+
+【Putin says Russia must persuade Kyiv it is willing to compromise】Russian President Putin told heads of major news agencies in St. Petersburg on April 4 that Russia is prepared to make compromises on Ukraine but must first convince Kyiv this is the case. He said Russia does not oppose Ukraine joining the EU but opposes the EU becoming a military alliance. Putin said the EU could play a constructive role by persuading Kyiv to accept a compromise rather than supplying weapons. He added Russia wants to sign any agreement with Ukraine's "legitimate representatives" and said holding presidential elections in Ukraine is very important.
+
+---
+
+### 2026-06-05 06:18:02  #國際
+
+【普京：需要說服烏方相信俄羅斯同意妥協】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方同意在烏克蘭問題上作出妥協，但需要說服烏方相信這一點。普京表示，俄羅斯不反對烏克蘭加入歐盟，但反對歐盟變成一個軍事聯盟。歐盟可以為解決烏克蘭問題發揮積極作用，但方式應該是說服烏克蘭接受妥協方案，而不是向烏克蘭提供武器。普京說，俄方希望與烏方“合法代表”簽署檔案，俄烏達成的協議將是一份具有歷史意義的檔案。他表示，烏克蘭舉行總統選舉非常重要。（新華社）
 
 ---
 
@@ -23954,239 +24026,5 @@ Prime Minister Netanyahu said the war has demonstrated Israel's technological st
 ### 2026-06-03 22:48:25  #MKT News
 
 Prime Minister Netanyahu said after two-and-a-half years of war Israel's currency is at its strongest level in history and exports are surging.
-
----
-
-### 2026-06-03 22:48:12  #其他
-
-安克創新科技重新遞交港股上市申請。
-
----
-
-### 2026-06-03 22:48:04  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-NETANYAHU said Israel must decide when to act in Gaza and will determine with the Peace Committee what action to take.
-
----
-
-### 2026-06-03 22:47:43  #MKT News #DAL.O
-
-Delta Air Lines executive says recent Blue Origin incident will not affect the airline's plan to deploy onboard Wi-Fi in 2028.
-
----
-
-### 2026-06-03 22:47:28  #MKT News
-
-Israeli Prime Minister NETANYAHU said he believes Iran's internal fractures will spread and the regime will eventually collapse.
-
----
-
-### 2026-06-03 22:47:25  #市場 #央行 #國際
-
-【美聯儲威廉姆斯：目前無需上調或下調利率】美聯儲威廉姆斯表示，目前美國的貨幣政策已處於良好狀態，但他認為未來利率走勢並無明顯方向可循。“貨幣政策目前的設定完全恰當。我認為目前無需上調或下調利率，”威廉姆斯表示。“而且我也認為未來我們不會朝著某個明確的方向發展，”他補充道。今年到目前為止，美聯儲一直維持著利率不變。然而，政策制定者們在面對能源價格飆升的情況下，對於應對通貨膨脹應採取何種措施的問題上產生了分歧。一些官員警告稱，如果霍爾木茲海峽的航運流量不能很快恢復，那麼很快可能就需要加息了。美聯儲青睞通脹指標在4月份較上年同期上漲了3.8%，這是自2023年以來的最大漲幅。目前的失業率維持在4.3%，一些美聯儲官員將這一水平描述為接近充分就業的狀態。
-
----
-
-### 2026-06-03 22:47:18  #國際
-
-以色列總理內塔尼亞胡：特朗普希望與伊朗當前政權達成協議，但這並不意味著他希望政權繼續存在。
-
----
-
-### 2026-06-03 22:47:13  #MKT News
-
-Israeli Prime Minister Netanyahu said, regarding civilian deaths, that civilians are warned to evacuate ahead of military operations.
-
----
-
-### 2026-06-03 22:47:08  #公司
-
-奧多比（Adobe）瞄準內部人選瓦德瓦尼、查克拉瓦蒂接任執行長一職。  微軟高管拉曼納曾洽談出任奧多比執行長一職，但最終放棄競聘。 奧多比考慮外部候選人，聘請海德思哲獵頭公司。
-
----
-
-### 2026-06-03 22:46:54  #MKT News #Important
-
-Israeli Prime Minister Netanyahu said Trump wants a deal with Iran’s current regime, but that does not mean he wants the regime to remain in power.
-
----
-
-### 2026-06-03 22:46:36  #MKT News #WTI #Impact bullish
-
-Israeli Prime Minister Netanyahu said Iran currently has significant internal fractures.
-
----
-
-### 2026-06-03 22:46:21  #MKT News #MSFT.O #ADBE.O
-
-Market sources: Microsoft (MSFT.O) executive Ramanana discussed the possibility of becoming Adobe CEO but ultimately declined to pursue the role.
-
----
-
-### 2026-06-03 22:46:00  #其他
-
-內塔尼亞胡：經過兩年半的戰事，我國貨幣如今處於有史以來最強勁的水平，出口額也已飆升至歷史新高。
-
----
-
-### 2026-06-03 22:45:47  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #S&P500 #Impact bullish #DXY
-
-【Fed's Williams says no need to raise or cut rates now】Fed's Williams said current monetary policy settings are appropriate and he sees no need now to raise or cut rates, adding he does not see a clear directional path for future policy. The Fed has kept rates unchanged so far this year, but officials are divided after an energy-driven jump in prices; some warn that if shipping through the Strait of Hormuz does not recover quickly, a rate hike could be needed soon. The Fed-favored inflation gauge rose 3.8% YoY in April, the largest increase since 2023. Unemployment is 4.3%, which some officials describe as near full employment.
-
----
-
-### 2026-06-03 22:45:09  #MKT News #DXY #Impact bearish #WTI #S&P500 #Impact bullish
-
-Israeli Prime Minister Netanyahu said Israel has weakened Hamas and that Hamas now holds less territory than before.
-
----
-
-### 2026-06-03 22:45:01  #國際
-
-內塔尼亞胡：我們將自行決定何時在加沙採取行動，行動規模也將與安全內閣磋商後決定。
-
----
-
-### 2026-06-03 22:44:55  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500 #XAUUSD #Impact bullish
-
-Bridgewater founder Ray Dalio said the AI bubble will eventually burst.
-
----
-
-### 2026-06-03 22:44:42  #其他
-
-內塔尼亞胡稱正 “逐步逼近” 哈馬斯。
-
----
-
-### 2026-06-03 22:44:24  #其他
-
-達利歐表示人工智慧泡沫最終會破裂。
-
----
-
-### 2026-06-03 22:43:33  #央行 #國際
-
-美國聯邦儲備委員會主席凱文·沃什已聘請保羅·溫弗裡和丹尼爾·海爾擔任臨時顧問，在美聯儲協助其工作。
-
----
-
-### 2026-06-03 22:43:23  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish
-
-U.S. Treasury Secretary Bessent said the deficit-to-GDP ratio could fall below 4% by the end of his term.
-
----
-
-### 2026-06-03 22:43:20  #其他
-
-貝森特：週六於舊金山會晤多家頭部大模型實驗室。
-
----
-
-### 2026-06-03 22:43:19  #MKT News
-
-US Treasury Secretary Bessent said the US faces spending and growth problems.
-
----
-
-### 2026-06-03 22:43:12  #MKT News
-
-Israeli Prime Minister Netanyahu said regime change will not occur at a time of our choosing.
-
----
-
-### 2026-06-03 22:43:07  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel must help the Iranian people overthrow this regime.
-
----
-
-### 2026-06-03 22:42:58  #MKT News
-
-Israel's prime minister Netanyahu said Iran has not agreed to withdraw nuclear material.
-
----
-
-### 2026-06-03 22:42:52  #其他
-
-達美航空高管：藍色起源近期事故不會影響該航司2028年機上WiFi部署時間表。
-
----
-
-### 2026-06-03 22:42:40  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq-100 index turns positive.
-
----
-
-### 2026-06-03 22:42:26  #國際
-
-據知情人士透露，Quantinuum美國IPO獲得超過20倍認購。
-
----
-
-### 2026-06-03 22:42:17  #MKT News
-
-Prime Minister NETANYAHU said the new agreement will not be a replica of the Iran nuclear deal and should result in a better accord.
-
----
-
-### 2026-06-03 22:42:08  #市場
-
-納斯達克100指數轉漲。
-
----
-
-### 2026-06-03 22:41:53  #其他
-
-達利歐表示，所有偉大的技術變革都會產生泡沫。
-
----
-
-### 2026-06-03 22:41:33  #其他
-
-國際貨幣基金組織：第五次審查將向衣索比亞提供約4.68億美元資金。
-
----
-
-### 2026-06-03 22:41:18  #MKT News
-
-NETANYAHU: We are working to achieve the same goal.
-
----
-
-### 2026-06-03 22:40:48  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-US Secretary of State Rubio says prospects for a Russia-Ukraine agreement are not optimistic.
-
----
-
-### 2026-06-03 22:40:41  #MKT News
-
-Israeli Prime Minister NETANYAHU says he speaks with Trump roughly every two days.
-
----
-
-### 2026-06-03 22:40:34  #公司
-
-【勁仔食品：擬5000萬元-1億元回購公司股份】勁仔食品6月3日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於5000萬元且不超過1億元。回購價格不超過16元/股。回購股份將用於登出並減少註冊資本。回購期限為自公司股東會審議透過本次回購方案之日起不超過12個月。
-
----
-
-### 2026-06-03 22:40:27  #國際
-
-內塔尼亞胡：伊朗尚未同意撤出核材料。
-
----
-
-### 2026-06-03 22:40:07  #國際
-
-內塔尼亞胡：我相信這些裂痕最終會蔓延開來，（伊朗）政權將會倒臺。
-
----
-
-### 2026-06-03 22:40:04  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
-
-US Crude Oil Inventories Fall More than Expected — US crude inventories fell by 7.974 million barrels in the week ended May 29, the most since February and exceeding expectations for a 4 million barrel draw. Also, stocks at the Cushing, Oklahoma hub decreased by 583 thousand barrels. Refinery activity went down, with crude runs falling by 90,000 barrels per day. On the other hand, gasoline inventories rose by 3.364 million barrels, compared with forecasts for a 0.3 million barrel decline. Distillate stocks, including diesel and heating oil, increased by 1.502 million barrels, versus expectations for a 0.3 million barrel draw. Net US crude imports fell by 249 thousand barrels per day over the week.
 
 ---

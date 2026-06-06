@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 18:22:22_
-_本檔包含 3495 則快訊，約 702880 字_
+_更新時間：2026-06-06 19:09:09_
+_本檔包含 3490 則快訊，約 702278 字_
+
+---
+
+### 2026-06-01 20:11:13  #MKT News
+
+India-Myanmar joint statement: Prime Minister MODI expressed support for Myanmar-led efforts to achieve peace, stability and national reconciliation.
+
+---
+
+### 2026-06-01 20:11:12  #宏觀 #焦點
+
+【6月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.《求是》雜誌發表習近平總書記重要文章《前瞻佈局和發展未來產業》； 2.【新思想引領新徵程】傳承紅色基因增長知識本領 在新徵程上跑好歷史接力賽； 3.韓正會見巴西外長； 4.【“十五五”開好局起好步】譜寫中原大地推進中國式現代化新篇章 重慶打造新時代西部大開發重要戰略支點； 5.全國共有少先隊員1.12億名； 6.我國推進兒童友好建設城鄉全覆蓋； 7.今年以來我國製造業高階化智慧化轉型加速； 8.【在希望的田野上】科技賦能夏收夏種 助力糧食穩產豐收； 9.我國全面進入汛期； 10.全國人大常委會啟動職業教育法執法檢查； 11.國內聯播快訊： （1）2026年國家醫保藥品目錄調整工作正式啟動； （2）最高檢釋出《未成年人檢察工作白皮書（2025）》； （3）《供水條例》今起施行； （4）網路餐飲新規今起施行； （5）《商業秘密保護規定》今起施行； （6）長征十二號乙遙一運載火箭發射成功； （7）哈伊高鐵開行首趟動車組測試列車； （8）廣州—烏魯木齊—法蘭克福新航線今日首航； （9）新疆獨庫公路開啟今年季節性通行； （10）2026年全國糧食和物資儲備科技活動周今天啟動； （11）2026年中央廣播電視總檯“六一”晚會今晚播出； 12.美稱打擊霍爾木茲海峽附近伊朗軍事目標 伊稱打擊美空軍基地以回應侵略 伊稱在確認權益得到保障前不會批准任何協議 美稱協議將明確禁止伊朗擁核； 13.國際聯播快訊： （1）以升級在黎軍事行動 多方批評； （2）國際原子能機構稱必須停止襲擊核設施； （3）盧卡申科警告對白軍事攻擊將致嚴重後果； （4）墨西哥總統指責美干涉墨內政； （5）英首相稱英最大鐵路運營商收歸國有； （6）颱風來襲 日本多地航班取消供電中斷。
+
+---
+
+### 2026-06-01 20:11:04  #公司 #市場
+
+【鉑科新材：擬發行H股股票並在香港聯交所主機板掛牌上市】鉑科新材公告，公司於2026年6月1日召開第四屆董事會第十七次會議，審議透過《關於公司發行H股股票並在香港聯合交易所有限公司上市的議案》《關於公司發行H股股票並在香港聯合交易所有限公司上市方案的議案》等議案。公司正在籌劃發行境外上市外資股（H股）股票並在香港聯合交易所有限公司主機板掛牌上市，旨在滿足業務發展需要，推進國際化戰略，提升國際品牌形象及在全球市場的綜合競爭實力，拓寬多元化融資渠道，助力公司提升整體競爭力並實現高質量發展。本次H股發行上市具體細節尚未確定，尚需提交公司股東會審議，並經中國證券監督管理委員會備案、取得香港聯交所和香港證券及期貨事務監察委員會核准。
+
+---
+
+### 2026-06-01 20:10:57  #其他
+
+資料編纂機構挪威機動車公路運輸局（OFV）表示，5月份特斯拉在挪威的新車註冊量同比增長28.7%。
+
+---
+
+### 2026-06-01 20:10:47  #其他
+
+【李家超率團正式展開中亞之行】香港特區行政長官李家超率領的 70 人外訪代表團今日（6月1日）在哈薩克正式展開訪問行程。這是本屆特區政府規模最大的一次外訪代表團，匯聚了香港與內地各行業精英。 香港代表來自主要商會、金融及專業服務、基建、地產、能源、創科、傳媒等領域；內地代表則涵蓋創科、製藥、高階製造、汽車產業等板塊。 李家超表示，代表團將共同探索中亞的無限潛力，深入瞭解這個充滿活力的新興市場，在跨領域的交流中碰撞思想，在優勢互補中實現共贏。相信這次旅程一定會收穫滿滿，為香港、內地與中亞地區長期經貿合作開啟新篇章。（大灣區之聲）
+
+---
+
+### 2026-06-01 20:09:30  #其他
+
+【王琳已任烏魯木齊市委書記】據新疆日報報道，新疆維吾爾自治區黨委書記陳小江、自治區主席艾爾肯·吐尼亞孜6月1日深入烏魯木齊市和昌吉回族自治州，就全區推進“人工智慧+”工作開展調研並召開座談會。座談會上，陳小江、艾爾肯·吐尼亞孜同自治區和中央駐疆有關單位負責同志、烏魯木齊市和昌吉州有關同志、人工智慧科技企業代表等深入交流，研究推進“人工智慧+”工作。自治區黨委常委、烏魯木齊市委書記王琳，昌吉州黨委主要負責同志，自治區推進“人工智慧+”工作領導小組辦公室有關負責同志分別作了工作彙報，有關企業提交書面材料，提出工作建議。上述資訊顯示，王琳已任烏魯木齊市委書記。
+
+---
+
+### 2026-06-01 20:09:00  #國際
+
+印度-緬甸聯合宣告：印度與緬甸同意促進並深化雙邊貿易，包括透過盧比-緬元結算機制開展合作。
+
+---
+
+### 2026-06-01 20:08:47  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【CENTCOM says U.S. forces intercepted two Iranian ballistic missiles aimed at troops in Kuwait】CENTCOM said on social media that at 11:00 p.m. ET yesterday U.S. forces successfully intercepted two Iranian ballistic missiles aimed at U.S. troops in Kuwait. Both missiles were promptly shot down and there were no U.S. casualties reported.
+
+---
+
+### 2026-06-01 20:08:16  #市場
+
+Strategy美股盤前跌幅擴大至5%。
+
+---
+
+### 2026-06-01 20:07:52  #國際
+
+美國中央司令部：美國東部時間昨晚 23 時，美軍成功攔截兩枚瞄準科威特境內美軍基地的伊朗彈道導彈。導彈被當即攔截，美方人員無人傷亡。美國中央司令部將保持高度戒備，持續防範伊朗方面的襲擊、保護駐軍安全，並維護當前停火局面。
+
+---
+
+### 2026-06-01 20:07:31  #公司
+
+【退市觀典：股票退市整理期剩餘5個交易日 期滿將終止上市】退市觀典公告稱，公司於2026年5月11日收到上交所終止公司股票上市的決定，股票於5月19日進入退市整理期，預計最後交易日期為6月8日。截至6月1日已交易10個交易日，剩餘5個交易日。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間公司不籌劃或實施重大資產重組，提醒投資者了結相關業務，提前辦理司法續凍手續。
+
+---
+
+### 2026-06-01 20:07:30  #公司
+
+【王興：外賣行業競爭趨於理性，長期UE將回到合理水平】在美團2026年第一季度業績電話會上，美團CEO王興表示，外賣行業整體的補貼逐漸趨於理性，競爭正在重新聚焦運營效率和使用者體驗，這種轉變凸顯了美團的優勢。“即便我們逐步縮減補貼，平臺使用者依舊保持健康增長，使用者粘性也持續增強，我們在中高客單價外賣賽道的地位進一步鞏固。”王興表示，此前一輪非理性競爭證明了一件事，單純依靠補貼拉動訂單增長的模式難以為繼。我們預計競爭會更加理性，尤其是在監管的引導下，我們相信外賣業務的長期UE將回到合理水平。（新浪科技）
+
+---
+
+### 2026-06-01 20:07:21  #其他
+
+賽富時：本次交易預計於 2027 財年第三季度完成交割。
+
+---
+
+### 2026-06-01 20:07:02  #其他
+
+賽富時簽署收購 Contentful 的最終協議，交易細節未披露。
+
+---
+
+### 2026-06-01 20:06:59  #公司 #國際
+
+【涉5億歐元可疑交易調查 Wise股價暴跌11%】數字彙款巨頭Wise(WSE.US)因涉嫌約 5 億歐元的可疑交易在比利時接受調查，訊息傳出後，Wise的股價暴跌，截至發稿，該股跌11.35%。據報道，比利時檢察官正在調查該公司，因為他們擔心該公司的賬戶已被犯罪分子用於洗錢，包括欺詐、腐敗和販毒所得。據稱，該調查於 2025 年啟動。檢察官正在調查該公司在歐洲 30 多個國家是否存在違反反洗錢法規的跡象，調查預計很快就會結束。
+
+---
+
+### 2026-06-01 20:06:33  #公司 #國際
+
+索韋康諮詢公司：預計俄羅斯2025-2026年度小麥出口量將為4680萬噸。
+
+---
+
+### 2026-06-01 20:06:11  #公司
+
+西門子：馬庫斯·格拉布邁爾出任電氣產品事業部執行長。
+
+---
+
+### 2026-06-01 20:05:36  #其他
+
+AMC影院創下自2019年以來5月份全球最高觀影人次紀錄。
+
+---
+
+### 2026-06-01 20:05:28  #公司 #市場 #國際
+
+【IBM股價大漲 此前一段特朗普提及該股票的舊影片在網上流傳】IBM股價盤前一度大漲15%，週末期間，一段唐納德·特朗普在去年12月某活動上稱讚IBM執行長並討論該公司股票的影片在社交媒體上再次流傳。在該影片片段中，特朗普表示IBM執行長Arvind Krishna已將“股價從相當低的位置帶到了非常不錯的水平”。
+
+---
+
+### 2026-06-01 20:05:27  #MKT News
+
+【Shenlan Auto May global deliveries 33,243 units, +30% YoY】Shenlan Auto said on June 1 its May 2026 global deliveries were 33,243 units, up 30% YoY. Jan–May cumulative global deliveries were 130,531 units, up 15% YoY.
+
+---
+
+### 2026-06-01 20:04:54  #公司
+
+【中國證券業協會召開託管結算與財務會計專業委員會主任委員（擴大）會議】近日，中國證券業協會託管結算與財務會計專業委員會主任委員（擴大）會議在上海召開。會議圍繞資料資產價值評估、財務數智化轉型、行業稅務問題研究、賬戶管理功能最佳化、開放式基金結算運營等重點工作開展研討交流。會議強調，委員會要持續推動行業重點領域自律規則研究和標準建設，著力解決行業稅務及實務難題，進一步引導證券公司規範私募基金託管業務，促進行業更好發揮財務管理功能。
+
+---
+
+### 2026-06-01 20:04:48  #MKT News
+
+i24News reported red-alert sirens were activated across multiple locations in northern Israel, including Metula, Kiryat Shmona, Kfar Yuval, Tel Hai and Kfar Giladi.
+
+---
+
+### 2026-06-01 20:04:32  #MKT News
+
+IMF: Given heightened uncertainty and energy-driven inf pressures, it is necessary for Brazil to maintain flexibility on any further policy measures.
+
+---
+
+### 2026-06-01 20:04:29  #MKT News #Market Regions #Emerging Markets
+
+IMF said Brazil's central bank appropriately cut interest rates in March and April, consistent with the inflation-targeting framework.
+
+---
+
+### 2026-06-01 20:04:15  #MKT News #Market Regions #Emerging Markets
+
+IMF says Brazil's economy has shown marked resilience to multiple shocks. It expects growth to slow in 2025, recover in 2026 and firm to about 2.5% over the medium term.
+
+---
+
+### 2026-06-01 20:04:07  #其他
+
+【深藍汽車5月全球銷量33243輛，同比增長30%】6月1日，深藍汽車公佈，2026年5月全球銷量33243輛，同比增長30%。1-5月全球累計銷售130531輛，同比增長15%。
+
+---
+
+### 2026-06-01 20:03:42  #其他
+
+國際貨幣基金組織（IMF）表示：巴西經濟增長在2025年放緩後，預計將於2026年復甦，並在中期回升至約2.5%。
+
+---
+
+### 2026-06-01 20:03:26  #其他
+
+國際貨幣基金組織：面對多重衝擊，巴西經濟仍保持了出色的韌性。
+
+---
+
+### 2026-06-01 20:03:21  #Trading Economics #Economy #India #Government Budget Value #Importance 1
+
+India’s Fiscal Deficit Doubles in April 2026 Amid Oil Price Surge — India’s fiscal deficit widened sharply to INR 3.6 trillion in April 2026, the first month of the 2026-27 fiscal year, nearly doubling from INR 1.9 trillion a year earlier. As a net energy importer, the country faces rising fuel subsidy costs due to soaring oil prices tied to the ongoing Middle East conflict. For the 2025-26 fiscal year, the deficit reached INR 15.2 trillion, down from INR 15.8 trillion the prior year, equating to 97.5% of the government’s revised estimates. This figure was better than the INR 15.7 trillion target, or 4.4% of GDP.
 
 ---
 
@@ -20880,209 +21054,5 @@ Ukrainian President Zelenskiy said Ukrainian forces struck Russian oil facilitie
 ### 2026-05-30 19:09:17  #國際
 
 美國國防部長赫格塞思：特朗普總統不會簽署任何協議，除非協議對我國有利。
-
----
-
-### 2026-05-30 19:08:26  #其他
-
-阿聯酋建議其公民不要前往烏干達、剛果和南蘇丹旅行。
-
----
-
-### 2026-05-30 19:08:03  #國際
-
-澤連斯基稱，烏克蘭軍方襲擊了俄羅斯距離烏克蘭邊境500公里的阿爾馬維爾石油設施。
-
----
-
-### 2026-05-30 19:06:47  #MKT News
-
-India will temporarily suspend import duties on cotton from June 1 through Oct. 31.
-
----
-
-### 2026-05-30 19:06:40  #國際
-
-【美軍稱針對伊朗港口的海上封鎖仍在持續】美國海軍中央司令部航運指導與聯絡組織（NCAGS）30日釋出航運警告稱，目前針對伊朗港口的海上封鎖措施仍在執行，相關限制覆蓋波斯灣、霍爾木茲海峽、阿曼灣及北阿拉伯海部分割槽域。當天，聯合海事資訊中心（JMIC）也釋出最新航運安全通告稱，上述海域海事安全威脅等級維持在“嚴重”級別，並提醒船東、運營商和船員密切關注地區安全形勢變化。（央視新聞）
-
----
-
-### 2026-05-30 19:05:15  #國際
-
-印度自6月1日起暫時免除棉花進口關稅，豁免政策有效期至10月31日。
-
----
-
-### 2026-05-30 19:01:22  #國際
-
-【美國防部長稱對伊朗的海上封鎖仍然有效】美國國防部長皮特·赫格塞思表示，對伊朗的海上封鎖仍然有效，並警告德黑蘭，如果外交努力未能達成阻止伊朗獲得核武器的協議，華盛頓準備再次動用武力。赫格塞思在新加坡表示：“封鎖仍然有效。”他還補充說，在與美國夥伴的會談中，霍爾木茲海峽問題被反覆提及。他表示，無論最終結果是達成協議還是繼續施壓，都必須確保霍爾木茲海峽暢通無阻，不設任何通行費。
-
----
-
-### 2026-05-30 19:01:11  #其他
-
-【張雪機車阿拉貢站第8】在剛剛結束的2026世界超級摩托車錦標賽（WSBK）阿拉貢站WorldSSP組別第一回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯位列第8。（新華社）
-
----
-
-### 2026-05-30 19:00:02  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israeli PM NETANYAHU orders control of about 70% of Gaza; Hamas condemns】On the 30th, Hamas spokesman Hazem Qassem condemned Israeli Prime Minister NETANYAHU’s statement that Israel will control roughly 70% of the Gaza Strip and called on international bodies to force Israel to comply with ceasefire terms. NETANYAHU said on the 28th that Israel has fully controlled 60% of Gaza and he has ordered expansion of control to about 70%.
-
----
-
-### 2026-05-30 18:59:09  #國際
-
-【以總理下令控制加沙地帶七成區域 哈馬斯發聲譴責】當地時間30日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告，譴責以色列總理聲稱將控制加沙地帶70%範圍的言論，呼籲相關國際機構採取行動，強制以色列遵守停火協議條款。以色列總理內塔尼亞胡28日在一場活動中表示，以色列已經完全控制了加沙地帶60%的領土，他已下令將控制範圍擴大至約70%。內塔尼亞胡當天在被佔領的約旦河西岸出席活動時談及以色列正在多地作戰。
-
----
-
-### 2026-05-30 18:55:10  #其他
-
-【8個名字帶州城市GDP過萬億】我國有眾多名字帶州的城市，其中，43個帶“州”的設區市中，江蘇和浙江最多，各有5個，安徽、廣東、廣西各有4個，福建、湖北各有3個。這7個省份合計共有28個帶州的城市，佔比達65%。 根據記者統計，43個名字帶“州”設區市的GDP達到了26.9萬億，佔全國比重的19.2%。43個帶州設區市GDP均超過千億大關，其中，有8個帶州設區市的GDP過萬億，分別是廣州、蘇州、杭州、鄭州、福州、泉州、常州和溫州。（一財）
-
----
-
-### 2026-05-30 18:54:25  #宏觀
-
-【粵港澳遊艇自由行要來了 香港特區政府表示歡迎】香港特區政府今日（30日）歡迎國務院的公佈，同意對經粵港澳大灣區內地九市指定口岸暫時入出內地且僅限在粵港澳大灣區內地九市自由行的港澳遊艇，實行免擔保和臨時船舶國籍登記政策。 特區政府運輸及物流局發言人表示，粵港澳三地一直致力推動粵港澳遊艇互訪。就此，海事處、廣東海事局和澳門海事及水務局三方成立的粵港澳遊艇自由行工作小組一直積極磋商相關便利措施，以推動粵港澳遊艇自由行系統的建設。新政策下的免擔保措施將大幅減輕港澳遊艇船主在辦理跨境手續時的經濟負擔；臨時船舶國籍登記措施容許港澳遊艇在不影響原有船舶登記的情況下，獲發內地臨時船舶國籍證書，在大灣區內地九市水域可自由航行。 與此同時，海事處正積極與廣東海事局協調“北艇南下”的便利措施。細節待確定後適時公佈。 發言人表示，海事處將繼續與廣東省相關部門及澳門海事及水務局保持緊密溝通，就“港艇北上”和“北艇南下”的便利措施不斷檢視和最佳化，為本地遊艇經濟的發展構建一個健康、可持續且具競爭力的環境。（大灣區之聲）
-
----
-
-### 2026-05-30 18:53:42  #國際
-
-【伊朗議員稱即將批准“對霍爾木茲海峽管理和主權”的法案】伊朗議員阿里雷扎·薩利米表示，伊朗議會即將批准一項法案，正式確立伊朗伊斯蘭共和國對霍爾木茲海峽的管理和主權。他告訴伊朗學生通訊社（ISNA），這項關於“行使伊朗伊斯蘭共和國對霍爾木茲海峽的管理和主權”的法案即將獲得透過並生效。他表示，整個霍爾木茲海峽位於伊朗和阿曼的領海內，只有這兩個國家才能決定如何管理該海峽。
-
----
-
-### 2026-05-30 18:52:27  #其他
-
-【廣州南站：因貴廣客專裝置故障影響臨時停運列車免費退改簽】5月30日，據@廣州南車站 訊息，受貴廣客專鐘山西至恭城間供電裝置故障影響，今天（5月30日）由廣州南站開往大理的G2976次、開往巫山的G2250次、開往桂林北的G3746次旅客列車臨時停運。鐵路部門提示，已購買今天相關停運列車車票的旅客，可透過鐵路12306（含手機客戶端）、自助售取票機、車站視窗辦理退票、改簽業務，均不收取手續費。
-
----
-
-### 2026-05-30 18:51:26  #MKT News #WTI #Impact bullish #Brent
-
-UK maritime authorities said the US blockade of Iranian ports is being strictly enforced. Masters of vessels operating near the Strait of Hormuz must declare they have no intention of calling at Iranian ports. Ships that disobey US Navy orders in the Strait will face danger.
-
----
-
-### 2026-05-30 18:50:36  #MKT News
-
-【China Rare Earth Group GM Li Zhihui meets Dongfang Electric chairman Luo Qianyi】May 30 in Sichuan, China Rare Earth Group GM Li Zhihui met Dongfang Electric chairman Luo Qianyi to discuss industrial coordination and joint technology development. Both expressed intent to deepen cooperation on new-materials development, frontier-tech joint R&D, rare-earth permanent magnet applications and domestic substitution to help safeguard China’s energy and strategic resource security.
-
----
-
-### 2026-05-30 18:49:34  #國際
-
-英國海事管理局：霍爾木茲海峽附近海域的船長必須表明其無意駛往伊朗港口。
-
----
-
-### 2026-05-30 18:48:27  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
-
-【China's first green full-stack AI compute platform launches in Hohhot】May 30 — China's first green full-stack AI compute platform went live in the Hohhot area of the Inner Mongolia Free Trade Zone, filling a regional gap by offering the area's first one-stop trading services for compute, models and tokens.
-
----
-
-### 2026-05-30 18:47:52  #國際
-
-【印尼布羅莫火山一車輛發生交通事故 已致2死3傷】5月30日，一輛旅遊吉普車在印尼著名旅遊景區布羅莫火山地區發生交通事故，造成2人死亡、3人受傷。
-
----
-
-### 2026-05-30 18:47:35  #其他
-
-【全國首個綠色算力全棧AI平臺在呼和浩特正式上線】5月30日，全國首個綠色算力全棧AI平臺在內蒙古自貿試驗區呼和浩特片區正式上線執行，填補了區域一站式算力模型詞元綜合服務交易的空白。平臺全面相容國產晶片與主流算力架構，首批接入三大通訊運營商及頭部科技廠商的十餘款主流模型。根據使用者需求，平臺可整合全國接入節點的通算、智算、超算等多元算力資源，透過智慧排程演算法實現算力資源的彈性分配、高效排程、經濟供給，為使用者提供便捷易用、低碳綠色、質優價宜的詞元（Token）交易服務。
-
----
-
-### 2026-05-30 18:47:03  #國際
-
-印度稱與越南的布拉莫斯導彈交易已最終敲定。
-
----
-
-### 2026-05-30 18:45:47  #公司
-
-阿達尼能源公司：批准任命阿肖克·賈格蒂亞為首席財務官。
-
----
-
-### 2026-05-30 18:45:23  #公司
-
-阿達尼能源公司：昆賈爾·梅塔辭去首席財務官職務。
-
----
-
-### 2026-05-30 18:44:06  #國際
-
-過去24小時內，20艘船在伊朗海軍的協調下透過了霍爾木茲海峽。（伊朗法爾斯通訊社）
-
----
-
-### 2026-05-30 18:42:49  #MKT News
-
-Fars News Agency reports 20 vessels transited the Strait of Hormuz in the past 24 hours, coordinated by the Iranian navy.
-
----
-
-### 2026-05-30 18:42:28  #其他
-
-【眾擎機器人深圳智慧製造基地啟用】5月29日，眾擎機器人宣佈，眾擎智慧製造（深圳紅花嶺）基地正式啟用，旗下旗艦款全尺寸人形機器人T800首批次產機型同步下線。
-
----
-
-### 2026-05-30 18:39:07  #央行 #其他
-
-英國央行貨幣政策委員會委員凱瑟琳·曼恩：通脹“大緩和”時期已結束。
-
----
-
-### 2026-05-30 18:33:42  #國際
-
-【以軍向黎巴嫩南部多個村鎮居民釋出緊急撤離警告】當地時間30日，以色列國防軍針對黎巴嫩南部多個村鎮的居民釋出緊急撤離警告，稱由於黎真主黨違反停火協議，以軍將對其採取“強力軍事行動”。根據以軍阿拉伯語發言人釋出的宣告，此次撤離令涉及馬爾瓦尼耶、盧比耶、安薩里耶、齊夫塔以及塔法赫塔等村鎮。以軍在宣告中指責黎真主黨破壞了停火協議，稱以軍因此“被迫對其採取強有力的軍事行動”。以軍警告稱，任何靠近真主黨武裝人員、軍事設施及武器的人員都將面臨生命危險。
-
----
-
-### 2026-05-30 18:33:08  #其他
-
-赫格賽思和小泉討論了進一步提高導彈產量的問題。
-
----
-
-### 2026-05-30 18:32:29  #國際
-
-美國國防部長赫格賽思在新加坡會見了日本防衛大臣小泉進次郎。
-
----
-
-### 2026-05-30 18:30:17  #國際 #原創
-
-【高盛模型預測西班牙隊是本屆世界盃奪冠最大熱門】根據高盛週五釋出的一個模型預測，西班牙是2026年世界盃的奪冠熱門，領先於法國、阿根廷和巴西。該模型使用了各隊的歷史表現和排名資料。本屆世界盃賽事將於 6 月 11 日至 7 月 19 日在美國、墨西哥和加拿大舉行，該模型預測西班牙有 26% 的機會奪冠，法國以19%位居第二，衛冕冠軍阿根廷以14%緊隨其後，巴西以8%位列第四，英格蘭以5%位列第五。高盛表示，其預測主要基於球隊的Elo等級分（一種最初用於國際象棋，後經調整應用於足球的競技水平排名系統），並結合了進攻天賦、近期勢頭、心態和地理位置等其他因素。高盛表示，其預測結果與博彩公司的賠率基本一致，但英格蘭隊獲勝的機率低於博彩市場的預期。
-
----
-
-### 2026-05-30 18:28:55  #MKT News #Market Themes #China EV Leaders
-
-【Geely again consolidates assisted‑driving team; company declines to comment】Geely is moving a several‑hundred‑strong assisted‑driving team from its Geely Research Institute into the Qianli Technology group, sources say. Under the initial plan the team will transfer into Qianli Zhijia’s joint venture with Zeekr, Qianli Haohan, to handle bespoke development and mass‑production delivery for Geely models, while Qianli Zhijia focuses on core R&D. Some research‑institute staff have received employment contract transfer notices. Geely declined to comment.
-
----
-
-### 2026-05-30 18:28:52  #公司
-
-【吉利集團再度整合智駕團隊，公司：不予回應】據悉，吉利中央研究院數百人規模的輔助駕駛團隊，將在近期被整體整合入千里科技體系。按照初步方案，該團隊將平移至千里智駕與極氪的合資公司“千里浩瀚”，專職負責吉利車型的定製化開發與量產交付，千里智駕本身則聚焦主線技術研發，目前研究院已有人收到合同轉移通知。吉利公司回覆稱，就此事不予回應。（中證金牛座）
-
----
-
-### 2026-05-30 18:23:49  #國際
-
-【馬來西亞彭亨州發生交通事故，涉及多輛巴士】當地時間5月30日，馬來西亞彭亨州雲頂地區發生交通事故，涉及多輛巴士。目前暫無人員傷亡情況報告。（央視新聞）
-
----
-
-### 2026-05-30 18:22:34  #其他
-
-【呼和浩特一藥店高價銷售集採藥被約談，藥店員工最新回應：該藥品已調至89.9元，不過暫時缺貨】據央視新聞報道，日前，有患者反映，在內蒙古呼和浩特的京遠大藥房，一盒集採價格應為百餘元的馬來酸阿伐曲泊帕片，在該藥店售價卻高達3960元。此事被曝光後，當地醫保部門已對涉事藥店主要負責人進行約談，市場監管部門已行政立案。5月30日下午，記者聯絡京遠大藥房，一名店員向記者表示，藥店目前仍在營業，正在市場監管部門的監督下整改，該藥品售價已調至89.9元每盒，不過目前暫時沒有貨。（極目新聞）
 
 ---

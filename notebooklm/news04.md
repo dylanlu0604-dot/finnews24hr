@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 18:22:22_
-_本檔包含 3641 則快訊，約 703036 字_
+_更新時間：2026-06-06 19:09:09_
+_本檔包含 3635 則快訊，約 702100 字_
+
+---
+
+### 2026-06-02 21:37:48  #公司 #市場
+
+微芯科技股價上漲4%，此前公司釋出了預測報告，稱其在2026年資料中心收入將增長65%。
+
+---
+
+### 2026-06-02 21:37:27  #國際
+
+基輔官員：截至目前已有81人受傷。
+
+---
+
+### 2026-06-02 21:36:39  #公司
+
+市場訊息：阿布扎比國家石油公司計劃建設一條繞過霍爾木茲海峽的石油產品管道。
+
+---
+
+### 2026-06-02 21:36:32  #公司 #觀點
+
+【SpaceX要求壓低IPO承銷費率 但投行仍有望分食5億美元收入】馬斯克旗下SpaceX正在與經手其IPO的華爾街投行談判，希望支付極低的費率。不過，即便收費標準大幅壓低，負責此次上市的銀行仍有望從這場創紀錄的IPO中獲得約5億美元收入。馬斯克旗下這家航天與人工智慧集團計劃於本月進行IPO，目標募資規模750億美元，據知情人士透露，目前該公司正爭取將承銷費率壓低至0.75%以下。儘管這一費率遠低於通常水平，但仍將成為這些負責安排此次IPO的華爾街銀行歷史上最賺錢的上市專案之一。作為本次IPO的牽頭行，高盛集團和摩根士丹利預計將從承銷費用中獲得比其他21家參與券商更大的份額。知情人士表示，上述數字僅反映SpaceX支付的基礎承銷費用，並未包含可能額外發放的獎勵性費用。由於討論尚未公開資訊，知情人士要求匿名。SpaceX、高盛和摩根士丹利的發言人均拒絕對此置評。
+
+---
+
+### 2026-06-02 21:36:25  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Financial Times reports Abu Dhabi National Oil Company (ADNOC) plans to build a pipeline to bypass the Strait of Hormuz for refined petroleum products.
+
+---
+
+### 2026-06-02 21:36:02  #MKT News #Dow #Impact bullish
+
+Dow Jones Industrial Average turned higher, trading up 0.25%.
+
+---
+
+### 2026-06-02 21:35:45  #市場
+
+NUBANK股價下跌10%，創2025年4月以來最大跌幅。
+
+---
+
+### 2026-06-02 21:34:45  #市場
+
+道指轉漲，盤初曾下跌約0.2%。
+
+---
+
+### 2026-06-02 21:34:28  #MKT News #Macro & Rates
+
+Polish central bank left its main interest rate unchanged at 3.75%.
+
+---
+
+### 2026-06-02 21:34:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Ease from Records — US stocks inched down from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. The S&P 500, Nasdaq 100, and Dow were slightly under the flatline. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Nike and IBM were both close to 3% lower. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company.
+
+---
+
+### 2026-06-02 21:34:06  #MKT News
+
+【BSE-listed Liujin Technology dismisses CFO and company secretary after becoming uncontactable】Beijing Stock Exchange-listed Beijing Liujin Suiyue Media Technology Co. said on June 2 it has dismissed Xu Wenhai, its finance head and company secretary who participated in the firm's listing, after he became uncontactable and could not perform his duties. Xu left before his term expired. The company said he holds no company shares, is not on the list of persons subject to joint disciplinary measures for dishonesty, and has no outstanding commitments.
+
+---
+
+### 2026-06-02 21:34:04  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) opened down 3.6%, its largest decline since March 26.
+
+---
+
+### 2026-06-02 21:34:02  #市場
+
+SHAKE SHACK一度下跌10%，創2023年11月以來的最低水平。
+
+---
+
+### 2026-06-02 21:33:54  #Trading Economics #Economy #Singapore #Manufacturing PMI #Importance 1
+
+Singapore Manufacturing PMI Rises to 5-Month High — Singapore’s Manufacturing PMI rose to 51.0 in May 2026 from 50.7 in April, marking its highest reading since December 2024 and extending the sector’s expansion streak to ten consecutive months. The improvement was driven by stronger growth in new orders, export demand, factory output, input purchases, and employment. The future business expectations index remained in expansion territory for a seventh straight month, pointing to continued optimism among manufacturers. The electronics sector, which accounts for around 40% of Singapore’s manufacturing output, also strengthened, with its PMI rising to 51.9 and extending its growth streak to twelve months. Despite the positive momentum, firms continued to face rising input costs and supply-chain constraints, as supplier delivery times lengthened for a fifth consecutive month. Still, growing order backlogs and improving business sentiment suggested manufacturers remained cautiously optimistic about near-term growth prospects.
+
+---
+
+### 2026-06-02 21:33:53  #央行 #國際
+
+波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。
+
+---
+
+### 2026-06-02 21:33:52  #MKT News #Market Themes #Chip Wars #MRVL.O #Impact bullish
+
+MARVELL (MRVL.O) shares rose 20% to a record high; Jensen Huang said the company will become the next trillion-dollar company.
+
+---
+
+### 2026-06-02 21:33:30  #公司 #市場
+
+英偉達執行長黃仁勳稱美滿電子為下一個萬億美元市值公司後，美滿電子科技股價大漲20%，創下歷史新高。
+
+---
+
+### 2026-06-02 21:33:17  #其他
+
+維多利亞的秘密飆升45%，創紀錄新高。
+
+---
+
+### 2026-06-02 21:33:15  #MKT News #AVGO.O #Impact bullish
+
+Broadcom Inc (AVGO.O) shares rose 5% to a record high.
+
+---
+
+### 2026-06-02 21:33:01  #MKT News #Important #Star Stocks #Alibaba #JD.com #Market Themes #China EV Leaders #BABA.N #Impact bullish #LI.O #JD.O
+
+NASDAQ Golden Dragon China Index rose 2%; Li Auto (LI.O) climbed over 6%, Alibaba (BABA.N) rose 5%, and XPeng (XPEV.N) and JD.com (JD.O) gained more than 4%.
+
+---
+
+### 2026-06-02 21:32:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Amazon Stock Price Hits 5-week Low — Amazon shares decreased to 255.01 USD, the lowest since April 2026. Over the past 4 weeks, Amazon lost 5.57%, and in the last 12 months, it increased 24.32%.
+
+---
+
+### 2026-06-02 21:32:43  #其他
+
+慧與（HPE）股價暴漲 36%，創歷史最大單日漲幅。
+
+---
+
+### 2026-06-02 21:32:41  #市場 #焦點
+
+納斯達克中國金龍指數漲超2%，中進醫療漲16.01%，理想汽車漲6.60%，禾賽科技漲6.14%，世紀互聯漲5.28%，阿里巴巴漲4.78%。
 
 ---
 
@@ -21790,179 +21928,5 @@ Norwegian statistics agency OFV said Tesla's new-car registrations in Norway ros
 ### 2026-06-01 20:11:38  #市場
 
 美高梅度假村盤前大漲 10.2%。
-
----
-
-### 2026-06-01 20:11:13  #MKT News
-
-India-Myanmar joint statement: Prime Minister MODI expressed support for Myanmar-led efforts to achieve peace, stability and national reconciliation.
-
----
-
-### 2026-06-01 20:11:12  #宏觀 #焦點
-
-【6月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.《求是》雜誌發表習近平總書記重要文章《前瞻佈局和發展未來產業》； 2.【新思想引領新徵程】傳承紅色基因增長知識本領 在新徵程上跑好歷史接力賽； 3.韓正會見巴西外長； 4.【“十五五”開好局起好步】譜寫中原大地推進中國式現代化新篇章 重慶打造新時代西部大開發重要戰略支點； 5.全國共有少先隊員1.12億名； 6.我國推進兒童友好建設城鄉全覆蓋； 7.今年以來我國製造業高階化智慧化轉型加速； 8.【在希望的田野上】科技賦能夏收夏種 助力糧食穩產豐收； 9.我國全面進入汛期； 10.全國人大常委會啟動職業教育法執法檢查； 11.國內聯播快訊： （1）2026年國家醫保藥品目錄調整工作正式啟動； （2）最高檢釋出《未成年人檢察工作白皮書（2025）》； （3）《供水條例》今起施行； （4）網路餐飲新規今起施行； （5）《商業秘密保護規定》今起施行； （6）長征十二號乙遙一運載火箭發射成功； （7）哈伊高鐵開行首趟動車組測試列車； （8）廣州—烏魯木齊—法蘭克福新航線今日首航； （9）新疆獨庫公路開啟今年季節性通行； （10）2026年全國糧食和物資儲備科技活動周今天啟動； （11）2026年中央廣播電視總檯“六一”晚會今晚播出； 12.美稱打擊霍爾木茲海峽附近伊朗軍事目標 伊稱打擊美空軍基地以回應侵略 伊稱在確認權益得到保障前不會批准任何協議 美稱協議將明確禁止伊朗擁核； 13.國際聯播快訊： （1）以升級在黎軍事行動 多方批評； （2）國際原子能機構稱必須停止襲擊核設施； （3）盧卡申科警告對白軍事攻擊將致嚴重後果； （4）墨西哥總統指責美干涉墨內政； （5）英首相稱英最大鐵路運營商收歸國有； （6）颱風來襲 日本多地航班取消供電中斷。
-
----
-
-### 2026-06-01 20:11:04  #公司 #市場
-
-【鉑科新材：擬發行H股股票並在香港聯交所主機板掛牌上市】鉑科新材公告，公司於2026年6月1日召開第四屆董事會第十七次會議，審議透過《關於公司發行H股股票並在香港聯合交易所有限公司上市的議案》《關於公司發行H股股票並在香港聯合交易所有限公司上市方案的議案》等議案。公司正在籌劃發行境外上市外資股（H股）股票並在香港聯合交易所有限公司主機板掛牌上市，旨在滿足業務發展需要，推進國際化戰略，提升國際品牌形象及在全球市場的綜合競爭實力，拓寬多元化融資渠道，助力公司提升整體競爭力並實現高質量發展。本次H股發行上市具體細節尚未確定，尚需提交公司股東會審議，並經中國證券監督管理委員會備案、取得香港聯交所和香港證券及期貨事務監察委員會核准。
-
----
-
-### 2026-06-01 20:10:57  #其他
-
-資料編纂機構挪威機動車公路運輸局（OFV）表示，5月份特斯拉在挪威的新車註冊量同比增長28.7%。
-
----
-
-### 2026-06-01 20:10:47  #其他
-
-【李家超率團正式展開中亞之行】香港特區行政長官李家超率領的 70 人外訪代表團今日（6月1日）在哈薩克正式展開訪問行程。這是本屆特區政府規模最大的一次外訪代表團，匯聚了香港與內地各行業精英。 香港代表來自主要商會、金融及專業服務、基建、地產、能源、創科、傳媒等領域；內地代表則涵蓋創科、製藥、高階製造、汽車產業等板塊。 李家超表示，代表團將共同探索中亞的無限潛力，深入瞭解這個充滿活力的新興市場，在跨領域的交流中碰撞思想，在優勢互補中實現共贏。相信這次旅程一定會收穫滿滿，為香港、內地與中亞地區長期經貿合作開啟新篇章。（大灣區之聲）
-
----
-
-### 2026-06-01 20:09:30  #其他
-
-【王琳已任烏魯木齊市委書記】據新疆日報報道，新疆維吾爾自治區黨委書記陳小江、自治區主席艾爾肯·吐尼亞孜6月1日深入烏魯木齊市和昌吉回族自治州，就全區推進“人工智慧+”工作開展調研並召開座談會。座談會上，陳小江、艾爾肯·吐尼亞孜同自治區和中央駐疆有關單位負責同志、烏魯木齊市和昌吉州有關同志、人工智慧科技企業代表等深入交流，研究推進“人工智慧+”工作。自治區黨委常委、烏魯木齊市委書記王琳，昌吉州黨委主要負責同志，自治區推進“人工智慧+”工作領導小組辦公室有關負責同志分別作了工作彙報，有關企業提交書面材料，提出工作建議。上述資訊顯示，王琳已任烏魯木齊市委書記。
-
----
-
-### 2026-06-01 20:09:00  #國際
-
-印度-緬甸聯合宣告：印度與緬甸同意促進並深化雙邊貿易，包括透過盧比-緬元結算機制開展合作。
-
----
-
-### 2026-06-01 20:08:47  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【CENTCOM says U.S. forces intercepted two Iranian ballistic missiles aimed at troops in Kuwait】CENTCOM said on social media that at 11:00 p.m. ET yesterday U.S. forces successfully intercepted two Iranian ballistic missiles aimed at U.S. troops in Kuwait. Both missiles were promptly shot down and there were no U.S. casualties reported.
-
----
-
-### 2026-06-01 20:08:16  #市場
-
-Strategy美股盤前跌幅擴大至5%。
-
----
-
-### 2026-06-01 20:07:52  #國際
-
-美國中央司令部：美國東部時間昨晚 23 時，美軍成功攔截兩枚瞄準科威特境內美軍基地的伊朗彈道導彈。導彈被當即攔截，美方人員無人傷亡。美國中央司令部將保持高度戒備，持續防範伊朗方面的襲擊、保護駐軍安全，並維護當前停火局面。
-
----
-
-### 2026-06-01 20:07:31  #公司
-
-【退市觀典：股票退市整理期剩餘5個交易日 期滿將終止上市】退市觀典公告稱，公司於2026年5月11日收到上交所終止公司股票上市的決定，股票於5月19日進入退市整理期，預計最後交易日期為6月8日。截至6月1日已交易10個交易日，剩餘5個交易日。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間公司不籌劃或實施重大資產重組，提醒投資者了結相關業務，提前辦理司法續凍手續。
-
----
-
-### 2026-06-01 20:07:30  #公司
-
-【王興：外賣行業競爭趨於理性，長期UE將回到合理水平】在美團2026年第一季度業績電話會上，美團CEO王興表示，外賣行業整體的補貼逐漸趨於理性，競爭正在重新聚焦運營效率和使用者體驗，這種轉變凸顯了美團的優勢。“即便我們逐步縮減補貼，平臺使用者依舊保持健康增長，使用者粘性也持續增強，我們在中高客單價外賣賽道的地位進一步鞏固。”王興表示，此前一輪非理性競爭證明了一件事，單純依靠補貼拉動訂單增長的模式難以為繼。我們預計競爭會更加理性，尤其是在監管的引導下，我們相信外賣業務的長期UE將回到合理水平。（新浪科技）
-
----
-
-### 2026-06-01 20:07:21  #其他
-
-賽富時：本次交易預計於 2027 財年第三季度完成交割。
-
----
-
-### 2026-06-01 20:07:02  #其他
-
-賽富時簽署收購 Contentful 的最終協議，交易細節未披露。
-
----
-
-### 2026-06-01 20:06:59  #公司 #國際
-
-【涉5億歐元可疑交易調查 Wise股價暴跌11%】數字彙款巨頭Wise(WSE.US)因涉嫌約 5 億歐元的可疑交易在比利時接受調查，訊息傳出後，Wise的股價暴跌，截至發稿，該股跌11.35%。據報道，比利時檢察官正在調查該公司，因為他們擔心該公司的賬戶已被犯罪分子用於洗錢，包括欺詐、腐敗和販毒所得。據稱，該調查於 2025 年啟動。檢察官正在調查該公司在歐洲 30 多個國家是否存在違反反洗錢法規的跡象，調查預計很快就會結束。
-
----
-
-### 2026-06-01 20:06:33  #公司 #國際
-
-索韋康諮詢公司：預計俄羅斯2025-2026年度小麥出口量將為4680萬噸。
-
----
-
-### 2026-06-01 20:06:11  #公司
-
-西門子：馬庫斯·格拉布邁爾出任電氣產品事業部執行長。
-
----
-
-### 2026-06-01 20:05:36  #其他
-
-AMC影院創下自2019年以來5月份全球最高觀影人次紀錄。
-
----
-
-### 2026-06-01 20:05:28  #公司 #市場 #國際
-
-【IBM股價大漲 此前一段特朗普提及該股票的舊影片在網上流傳】IBM股價盤前一度大漲15%，週末期間，一段唐納德·特朗普在去年12月某活動上稱讚IBM執行長並討論該公司股票的影片在社交媒體上再次流傳。在該影片片段中，特朗普表示IBM執行長Arvind Krishna已將“股價從相當低的位置帶到了非常不錯的水平”。
-
----
-
-### 2026-06-01 20:05:27  #MKT News
-
-【Shenlan Auto May global deliveries 33,243 units, +30% YoY】Shenlan Auto said on June 1 its May 2026 global deliveries were 33,243 units, up 30% YoY. Jan–May cumulative global deliveries were 130,531 units, up 15% YoY.
-
----
-
-### 2026-06-01 20:04:54  #公司
-
-【中國證券業協會召開託管結算與財務會計專業委員會主任委員（擴大）會議】近日，中國證券業協會託管結算與財務會計專業委員會主任委員（擴大）會議在上海召開。會議圍繞資料資產價值評估、財務數智化轉型、行業稅務問題研究、賬戶管理功能最佳化、開放式基金結算運營等重點工作開展研討交流。會議強調，委員會要持續推動行業重點領域自律規則研究和標準建設，著力解決行業稅務及實務難題，進一步引導證券公司規範私募基金託管業務，促進行業更好發揮財務管理功能。
-
----
-
-### 2026-06-01 20:04:48  #MKT News
-
-i24News reported red-alert sirens were activated across multiple locations in northern Israel, including Metula, Kiryat Shmona, Kfar Yuval, Tel Hai and Kfar Giladi.
-
----
-
-### 2026-06-01 20:04:32  #MKT News
-
-IMF: Given heightened uncertainty and energy-driven inf pressures, it is necessary for Brazil to maintain flexibility on any further policy measures.
-
----
-
-### 2026-06-01 20:04:29  #MKT News #Market Regions #Emerging Markets
-
-IMF said Brazil's central bank appropriately cut interest rates in March and April, consistent with the inflation-targeting framework.
-
----
-
-### 2026-06-01 20:04:15  #MKT News #Market Regions #Emerging Markets
-
-IMF says Brazil's economy has shown marked resilience to multiple shocks. It expects growth to slow in 2025, recover in 2026 and firm to about 2.5% over the medium term.
-
----
-
-### 2026-06-01 20:04:07  #其他
-
-【深藍汽車5月全球銷量33243輛，同比增長30%】6月1日，深藍汽車公佈，2026年5月全球銷量33243輛，同比增長30%。1-5月全球累計銷售130531輛，同比增長15%。
-
----
-
-### 2026-06-01 20:03:42  #其他
-
-國際貨幣基金組織（IMF）表示：巴西經濟增長在2025年放緩後，預計將於2026年復甦，並在中期回升至約2.5%。
-
----
-
-### 2026-06-01 20:03:26  #其他
-
-國際貨幣基金組織：面對多重衝擊，巴西經濟仍保持了出色的韌性。
-
----
-
-### 2026-06-01 20:03:21  #Trading Economics #Economy #India #Government Budget Value #Importance 1
-
-India’s Fiscal Deficit Doubles in April 2026 Amid Oil Price Surge — India’s fiscal deficit widened sharply to INR 3.6 trillion in April 2026, the first month of the 2026-27 fiscal year, nearly doubling from INR 1.9 trillion a year earlier. As a net energy importer, the country faces rising fuel subsidy costs due to soaring oil prices tied to the ongoing Middle East conflict. For the 2025-26 fiscal year, the deficit reached INR 15.2 trillion, down from INR 15.8 trillion the prior year, equating to 97.5% of the government’s revised estimates. This figure was better than the INR 15.7 trillion target, or 4.4% of GDP.
 
 ---

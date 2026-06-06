@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 18:22:22_
-_本檔包含 3610 則快訊，約 703187 字_
+_更新時間：2026-06-06 19:09:09_
+_本檔包含 3614 則快訊，約 702379 字_
+
+---
+
+### 2026-06-06 19:07:19  #國際
+
+【黎巴嫩總統譴責以色列襲擊黎政府軍巡邏隊】黎巴嫩總統奧恩6日發表宣告，強烈譴責以軍當天襲擊黎南部一支黎政府軍巡邏隊，導致2名軍官和1名士兵死亡。當天早些時候，黎巴嫩軍方發表宣告說，以軍對黎南部奈拜提耶地區一輛軍車發動了空襲，造成數名軍人死亡。奧恩表示，這一襲擊行為嚴重侵犯黎巴嫩主權，公然違反國際法和國際準則，是以方持續升級局勢行為的一部分。黎巴嫩將堅定捍衛自身利益，決不讓步。（新華社）
+
+---
+
+### 2026-06-06 19:06:39  #國際
+
+【歐盟計劃降低清潔能源稅收，以期削減電費賬單】由於高昂的能源成本持續拖累該地區的經濟，歐盟正計劃降低可再生能源的稅收，並提升電力系統的靈活性。檔案草案顯示，歐盟委員會計劃下個月提議一項新規，設定智慧電錶普及目標，並實施旨在推廣清潔能源的稅收改革。
+
+---
+
+### 2026-06-06 19:01:29  #國際
+
+訊息人士：歐盟已將7月7日定為對派拉蒙-華納交易進行初步審查的最後期限。
+
+---
+
+### 2026-06-06 19:00:47  #公司 #國際
+
+據知情人士透露，派拉蒙已做好必要時進行資產剝離的準備，願意出售兒童頻道以換取歐盟對其收購華納兄弟探索公司交易的批准。
+
+---
+
+### 2026-06-06 18:58:28  #國際
+
+以色列無人機襲擊黎巴嫩南部城市提爾以東的阿爾霍什地區。
+
+---
+
+### 2026-06-06 18:57:27  #MKT News
+
+【Iran deputy foreign minister says any US MoU must free at least 50% of frozen Iranian assets】Iran’s deputy foreign minister for legal and international affairs, Kazem Gharibabadi, said any memorandum of understanding with the US must include immediate release of at least 50% of Iran’s frozen financial assets. He said the remainder should be unfrozen within one to two months after signing and described the assets as belonging to Iran and illegally frozen by the US, making their release a core condition. Gharibabadi added that technical and financial implementation details will be negotiated during a 60‑day execution period after the MoU is signed, and Tehran will only regard drafts as final if its interests and concerns are fully addressed.
+
+---
+
+### 2026-06-06 18:57:04  #其他
+
+【今年前5個月浙江“義甬舟”海鐵聯運發運量同比增長80.83%】6月6日，浙江省義烏市市場發展委公佈的最新資料顯示，今年前5個月，浙江中歐班列(義新歐)發運超10.9萬標箱、同比增長1.2%；“義甬舟”海鐵聯運發運超7.1萬重箱、同比增長80.83%。
+
+---
+
+### 2026-06-06 18:51:24  #公司 #國際
+
+【美國海上封鎖已使伊朗損失近60億美元石油收入】 最新航運資料顯示，由於美國海軍對伊朗港口的持續封鎖，伊朗5月的原油出口已跌至6年來的最低水平。根據貿易資料分析公司Kpler的資料，伊朗5月的原油和凝析油出口量已降至不足平均每日30萬桶，這是自2019年末至2020年初以來的最低水平。在美國實施海上封鎖前，這一數字一度接近平均每日200萬桶。資料顯示，伊朗原油售價通常高於每桶90美元，偶爾超過每桶100美元。以每桶90美元的保守價格估算，伊朗5月的原油日均出口收入約為2700萬美元，5月的總收入約為8.37億美元。這一數字較此前2個月的水平大幅下降。3月，伊朗原油出口量為平均每日184萬桶，日均出口收入估計為1.656億美元，3月總計約51.3億美元。4月，伊朗原油出口量為平均134萬桶/日，日均收入約1.206億美元，當月收入約36.2億美元。半島電視臺指出，若伊朗預期每月原油出口收入能達到3月份的收入水平，那麼該國在4月和5月已經損失了約58億美元。（澎湃新聞）
+
+---
+
+### 2026-06-06 18:46:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fars News quoted the Hormozgan provincial government saying Hormuz Port may hear explosions over the next four days as authorities clear unexploded ordnance.
+
+---
+
+### 2026-06-06 18:32:31  #其他
+
+黎巴嫩總理表示：黎巴嫩北部克拉亞特機場航班運營即將恢復。
+
+---
+
+### 2026-06-06 18:29:39  #MKT News
+
+Saudi Foreign Ministry said it supports Bahrain and Kuwait taking measures to safeguard security.
+
+---
+
+### 2026-06-06 18:29:05  #國際
+
+巴基斯坦訊息人士稱：巴內政部長今天訪問伊朗，將向伊朗最高領袖轉達巴基斯坦的資訊。
+
+---
+
+### 2026-06-06 18:26:27  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Saudi Arabia condemns Iran's attacks on Bahrain and Kuwait.
+
+---
+
+### 2026-06-06 18:24:52  #國際
+
+黎真主黨：以色列針對黎巴嫩軍隊的行動是一項蓄意犯罪，是當局無視國家主權並做出無端讓步的產物。
+
+---
+
+### 2026-06-06 18:23:40  #其他
+
+立陶宛執政聯盟分裂，社會民主黨尋求新的合作伙伴。
+
+---
+
+### 2026-06-06 18:22:24  #MKT News
+
+Kuwait fire brigade said it received two reports of fires, both caused by falling debris (shrapnel).
 
 ---
 
@@ -21771,77 +21867,5 @@ Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of 
 ### 2026-06-05 06:32:19  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
 
 【CME CEO expresses serious concern over new "perpetual futures"】CME CEO Terry Duffy said he is "very concerned" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, "I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts."
-
----
-
-### 2026-06-05 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are Naphtha (-5.04%), Heating Oil (-4.72%), Crude Oil WTI (-3.40%) and Brent Crude Oil (-2.72%). Gains are led by Natural gas (4.37%), Methanol (0.87%) and Coking Coal (0.61%).
-
----
-
-### 2026-06-05 06:30:14  #其他
-
-華爾街預計，SpaceX的AI收入到2030年將增長100倍。
-
----
-
-### 2026-06-05 06:27:20  #公司
-
-【透視年內債市信披監管措施：緊盯關鍵主體，全鏈條、穿透式深化】今年以來，已有近40家債券發行人因資訊披露違法違規被交易所採取監管措施，涉及逾期披露、遺漏披露、錯誤披露、虛假披露等問題。梳理發現，從拖延披露財報，到篡改募集資金使用資料、系統性財務造假，債券發行人違法違規手法日趨多元。針對債市信披亂象，監管部門依據違法違規頻次、情節輕重實施梯度處置：“柔性”警示與“剛性”處分並舉；落實“公司+個人”雙罰機制，追責鏈條穿透至發行人內部的“關鍵少數”；同時，連帶處罰會計師事務所等中介機構，壓實“看門人”職責。（上證報）
-
----
-
-### 2026-06-05 06:26:31  #MKT News #SPCX.O #Impact bullish #Nasdaq100 #S&P500
-
-【Sources: SpaceX sets IPO offer price at $135 a share】Sources said SpaceX (SPCX.O) has informed banks handling its $75 billion IPO that it will use an offer price of $135 a share, disclosed in a revised filing on Wednesday. The move indicates founder Elon Musk’s intent to control pricing for what would be the largest IPO on record, though sources cautioned the price could change before trading begins. SpaceX began its roadshow on Thursday; underwriters will collect investor feedback and typically set the final price at a pre-listing meeting. Sources described demand as extremely strong. The company expects shares to start trading on June 12.
-
----
-
-### 2026-06-05 06:24:56  #公司 #國際
-
-【厄爾尼諾帶來豐水預期，南方水電公司迎景氣行情】近日，國家氣候中心確認，赤道中東太平洋5月步入厄爾尼諾狀態，專家預判夏秋季大機率演化成中等及以上強度事件，我國南澇北旱氣候機率抬升。豐水預期催化水電板塊年內漲幅顯著分化，部分上市公司釋出的一季度發電資料，已驗證流域來水實質性改善。多家券商研報預測，南方水電板塊具備配置價值，北方高溫將推動相關區域夏季火電發電量和動力煤需求提升。（上證報）
-
----
-
-### 2026-06-05 06:24:53  #市場 #焦點
-
-現貨黃金突破4480美元/盎司，日內漲0.09%。
-
----
-
-### 2026-06-05 06:21:21  #其他
-
-【高溫與算電協同助力 A股電力板塊投資價值升溫 】一邊是國內高溫天氣持續提升電力需求，一邊是算電協同概念越發受到市場認可，近期電力板塊表現活躍，市場關注度不斷升溫。在業內機構看來，今年氣候變化導致的高溫將帶動迎峰度夏期間用電需求增長，與此同時，市場對國產晶片算力預期提升或帶動用電量加速增長，催生行業投資機會。展望後市，煤電板塊有望在高溫天氣下率先受益，沿海地區現貨電價提升及算電協同加速發展等因素將進一步推動公用事業板塊二級市場的表現，綠電、水電、核電等細分方向的投資價值同樣值得關注。（中證報）
-
----
-
-### 2026-06-05 06:20:31  #公司 #國際
-
-美國：Antares Nuclear（安泰雷斯核能公司）的Mark-0已成功完成演示。
-
----
-
-### 2026-06-05 06:19:31  #公司 #觀點
-
-【核心驅動力並未動搖 五大券商把脈A股下半年機遇 】進入年中時點，各大券商機構對於A股下半年行情走勢的研判陸續出爐，相關內容成為投資者提前佈局、捕捉市場機遇的重要參考。就在近期，國泰海通、中信證券、中金公司、華泰證券、中信建投等多家頭部券商陸續釋出2026年A股中期策略報告，受到市場各方重視。在前述券商看來，當前推動本輪市場上行、中國資產重估的核心驅動力並未發生根本性動搖，市場整體估值合理，但部分高估值板塊需警惕出現波動風險；對於AI主線，當前全球AI革命處於景氣度持續擴散而非全面泡沫化的階段。就後市佈局而言，新興科技、優勢製造以及具備估值修復潛力的部分傳統行業是值得把握的主線，通訊裝置、高階裝備、電力裝置與新能源、工程機械、創新藥等品種受到青睞。（中證報）
-
----
-
-### 2026-06-05 06:18:39  #市場
-
-【聰明錢提前佈局AI 上游環節部分基礎材料成新寵 】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。Wind資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中證報）
-
----
-
-### 2026-06-05 06:18:03  #MKT News
-
-【Putin says Russia must persuade Kyiv it is willing to compromise】Russian President Putin told heads of major news agencies in St. Petersburg on April 4 that Russia is prepared to make compromises on Ukraine but must first convince Kyiv this is the case. He said Russia does not oppose Ukraine joining the EU but opposes the EU becoming a military alliance. Putin said the EU could play a constructive role by persuading Kyiv to accept a compromise rather than supplying weapons. He added Russia wants to sign any agreement with Ukraine's "legitimate representatives" and said holding presidential elections in Ukraine is very important.
-
----
-
-### 2026-06-05 06:18:02  #國際
-
-【普京：需要說服烏方相信俄羅斯同意妥協】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方同意在烏克蘭問題上作出妥協，但需要說服烏方相信這一點。普京表示，俄羅斯不反對烏克蘭加入歐盟，但反對歐盟變成一個軍事聯盟。歐盟可以為解決烏克蘭問題發揮積極作用，但方式應該是說服烏克蘭接受妥協方案，而不是向烏克蘭提供武器。普京說，俄方希望與烏方“合法代表”簽署檔案，俄烏達成的協議將是一份具有歷史意義的檔案。他表示，烏克蘭舉行總統選舉非常重要。（新華社）
 
 ---
