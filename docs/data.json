@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-06 20:37:42",
-  "count": 18768,
+  "updated": "2026-06-06 21:06:23",
+  "count": 18771,
   "items": [
+    {
+      "id": "4921286",
+      "time": "2026-06-06 21:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：接受司美格魯肽2毫克治療的患者中，60.5%在1年後體重減輕≥5%，接受替拉帕肽治療的患者中，55.3%在1年後體重減輕≥5%。"
+    },
+    {
+      "id": "4921285",
+      "time": "2026-06-06 21:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：接受司美格魯肽2毫克治療的患者中，74.7%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標；接受替拉帕肽治療的患者中，75.1%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標。"
+    },
+    {
+      "id": "4921284",
+      "time": "2026-06-06 21:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東召開2026年全省大灣區辦工作會議】據廣東省發展改革委訊息，6月5日，2026年全省大灣區辦工作會議在廣州召開。會議傳達中央區域協調發展領導小組第四次全體會議和省推進粵港澳大灣區建設領導小組第十一次會議精神，全面總結近年來我省推進粵港澳大灣區建設的工作成效，研究部署下一階段重點任務。會議要求，要聚焦重大戰略任務，攜手港澳推動大灣區建設再上新臺階。一是持續深化產業科技合作，構建雙向互動的科創合作體系，推動粵港澳三地協同育才引才用才，加快建設具有國際競爭力的現代化產業體系，培育國際競爭合作新優勢。二是持續強化全方位互聯互通，不斷完善基礎設施高效網際網路絡，深化規則銜接機制對接，加快構建宜居宜業宜遊優質生活圈，有效提升大灣區市場一體化水平。三是持續建強重大合作平臺，準確把握平臺功能定位，充分發揮平臺試驗示範作用，因地制宜與港澳探索共建特色合作平臺，“以點帶面”引領粵港澳全面合作。四是持續深化大灣區內地九市內涵式發展，堅持機制先行、最佳化要素配置、注重兩岸融合，率先探索彰顯灣區特色的城市群發展路徑。"
+    },
+    {
+      "id": "4921283",
+      "time": "2026-06-06 20:57:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，美國需為其“非法行動”造成的一切後果以及局勢進一步升級承擔全部責任。"
+    },
+    {
+      "id": "4921282",
+      "time": "2026-06-06 20:56:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，多次違反停火協議的行為表明美國無意緩和局勢。"
+    },
+    {
+      "id": "mkt:019e9d00-f978-7665-8312-d9404c87c1e1",
+      "time": "2026-06-06 20:55:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry condemns US strikes on Sirik region and Qeshm Island as ceasefire violations】Iran's foreign ministry condemned U.S. military strikes on radar and coastal surveillance facilities in the Sirik region and Qeshm Island, calling them a blatant violation of the ceasefire and an act of military aggression against Iran's sovereignty and territorial integrity. The ministry said repeated U.S. breaches indicate Washington is not seeking de‑escalation, warn that such risky actions endanger regional security, and assign responsibility for any consequences or escalation to the U.S. It affirmed Iran's inherent right of self‑defense and said it will use all available capabilities and resources to defend its sovereignty, security and national interests."
+    },
+    {
+      "id": "4921281",
+      "time": "2026-06-06 20:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，美國對錫裡克地區和格什姆島的雷達及海岸監視設施發動的襲擊違反了4月8日的停火協議。"
+    },
+    {
+      "id": "mkt:019e9cfd-0c48-7665-8312-d6b127eb4ae7",
+      "time": "2026-06-06 20:51:29",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "RIA reported that a fire at an oil refinery in Russia's Tyumen region has been extinguished."
+    },
+    {
+      "id": "4921280",
+      "time": "2026-06-06 20:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯秋明州煉油廠大火已被撲滅。"
+    },
     {
       "id": "4921279",
       "time": "2026-06-06 20:34:57",
@@ -173182,56 +173259,6 @@
         "原創"
       ],
       "text": "【伯克希爾哈撒韋股票今年迄今跑輸標普500指數16.3%】受熱門科技股推動，標普500指數5月份上漲5.1%，週五收盤創下歷史新高。與之形成鮮明對比的是，伯克希爾哈撒韋公司股價當月基本持平。因此，伯克希爾被廣泛持有的B類股今年迄今已落後標普500指數16.3個百分點，為今年以來最大差值。在3月底，伯克希爾哈撒韋股票僅以1.8個百分點的微弱優勢領先於標普500指數。自那以來，標普500指數在4月和5月飆升超過35%，而伯克希爾哈撒韋股價卻下跌了近11%。22V Research的圖表分析顯示，伯克希爾哈撒韋相對於標普500指數的相對錶現已跌至2007年以來的最低水平。"
-    },
-    {
-      "id": "mkt:019e78f2-46ac-7bb7-9969-fc6d071a5282",
-      "time": "2026-05-30 20:53:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China National Gold Group general manager Yin Changbo meets JD Group CEO Sandy Ran Xu】On May 28, China National Gold Group party secretary, director and general manager Yin Changbo met at the group's headquarters with JD Group SEC vice‑chair and CEO Sandy Ran Xu and his delegation. Yin said China Gold is willing to deepen strategic coordination with JD in digital centralized procurement and supply‑chain management, gold and jewelry sales and brand marketing, digital transformation and technology enablement, logistics, warehousing and security controls, and employee services and corporate culture. Sandy Ran Xu said JD is willing to pursue full‑scope, deep, high‑level cooperation with China Gold on jewelry retail, centralized procurement, supply‑chain construction, warehousing and logistics, and overseas business."
-    },
-    {
-      "id": "4908318",
-      "time": "2026-05-30 20:48:40",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中國黃金集團總經理殷長波會見京東集團CEO許冉一行】5月28日上午，中國黃金集團有限公司黨委副書記、董事、總經理殷長波在集團總部會見了京東集團SEC副主席、京東集團CEO許冉一行。殷長波指出，下一步，中國黃金願與京東集團深化戰略層面協同，在數字化集中採購與供應鏈管理、黃金珠寶銷售與品牌營銷、數字化轉型與科技賦能、物流倉儲與安全管控、員工服務與企業文化建設等方面開展廣泛合作。許冉表示，京東與中金珠寶自2012年開展合作以來，在黃金珠寶零售領域一直保持著密切合作，京東願在黃金珠寶零售、集中採購、供應鏈建設、倉儲物流及海外業務等領域與中國黃金開展全方位、深層次、高水平合作。"
-    },
-    {
-      "id": "4908317",
-      "time": "2026-05-30 20:45:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米：MiMo-V2.5實現五大核心突破，降價後仍能實現收支平衡】5月30日，小米MiMo大模型團隊表示，首次完整公開MiMo-V2.5系列大模型API永久降價背後的技術路徑。MiMO-V2.5實現了KVCache 雙池+SWA-aware 字首樹等五大核心突破，降價後仍能維持收支平衡。MiMo對開發者生態的投入持續加碼。日前推出的百萬億Token創造者激勵計劃，總申請人數超54萬人，累計發放100萬億免費Token，摺合人民幣超6500萬元。"
-    },
-    {
-      "id": "4908315",
-      "time": "2026-05-30 20:43:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度臨時免除棉花進口關稅，以助力紡織業】印度政府週六表示，印度已臨時取消棉花進口關稅，以增加其龐大紡織業的原料供應。政府在一份宣告中表示，這一臨時豁免舉措將於6月1日至10月30日期間取消現行11%的進口關稅，此舉預計將降低整個紡織和服裝行業的投入成本。印度政府表示，該措施預計將透過改善棉花供應，來為國內紡織製造商（特別是中小企業）提供支援。由於伊朗衝突導致供應鏈中斷，印度紡織業與其他行業一樣，正面臨著投入成本上升的壓力。"
-    },
-    {
-      "id": "4908314",
-      "time": "2026-05-30 20:41:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：我們剛剛攔截了一架從黎巴嫩向以色列北部梅圖拉地區發射的無人機。"
-    },
-    {
-      "id": "mkt:019e78e4-8d2e-7bb7-9969-f095a9ed7cc5",
-      "time": "2026-05-30 20:38:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese PLA delegation head responds to US defense secretary Hegseth's Shangri-La remarks】At the Shangri-La Dialogue, US defense secretary Hegseth referred to the recent US-China leaders' meeting and its consensus. Meng Xiangqing, head of a Chinese PLA expert delegation, said the summit drew strong attention at Shangri-La and underscored that stable US‑China ties matter for regional stability and global peace. He said China expects both sides to implement the leaders' consensus and to guide military-to-military relations toward a healthy, stable and sustainable trajectory."
     }
   ]
 }
