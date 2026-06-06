@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-06 18:06:40",
-  "count": 18812,
+  "updated": "2026-06-06 18:10:38",
+  "count": 18810,
   "items": [
+    {
+      "id": "mkt:019e9c68-b3fe-7665-8312-13c0b5d08f57",
+      "time": "2026-06-06 18:09:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Bahrain's military said it intercepted three missiles and multiple drones from Iran."
+    },
     {
       "id": "4921239",
       "time": "2026-06-06 18:05:42",
@@ -173581,33 +173594,6 @@
         "公司"
       ],
       "text": "貝恩資本最早可能在本週完成對Vitabiotics的收購，對該公司的估值為9億英鎊。"
-    },
-    {
-      "id": "4908224",
-      "time": "2026-05-30 18:10:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：貝恩資本將達成協議收購Vitabiotics。"
-    },
-    {
-      "id": "mkt:019e785c-0fb4-7bb7-9969-193831352de9",
-      "time": "2026-05-30 18:09:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said the maritime security threat level in the Strait of Hormuz remains at an extremely severe level due to a blockade."
-    },
-    {
-      "id": "4908223",
-      "time": "2026-05-30 18:06:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動局：受封鎖影響，霍爾木茲海峽的海上安全威脅等級仍處於極高戒備狀態。"
     }
   ]
 }
