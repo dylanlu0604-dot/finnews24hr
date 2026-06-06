@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 13:32:21_
-_本檔包含 4012 則快訊，約 701434 字_
+_更新時間：2026-06-06 14:08:13_
+_本檔包含 4014 則快訊，約 702119 字_
+
+---
+
+### 2026-06-03 21:48:24  #市場 #焦點
+
+PVC連續主力合約日內跌1%，現報4876.00元。
+
+---
+
+### 2026-06-03 21:48:16  #MKT News
+
+Alphabet (GOOG.O) said daily token processing recently exceeded 3 trillion.
+
+---
+
+### 2026-06-03 21:47:54  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+Alphabet (GOOG.O) cloud-business order backlog nearly doubled q/q to more than $460 billion.
+
+---
+
+### 2026-06-03 21:47:50  #其他
+
+Alphabet(GOOG.O)：雲業務訂單積壓較上一季度幾乎翻倍，超過4,600億美元。
+
+---
+
+### 2026-06-03 21:47:25  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #EURUSD #Impact bullish
+
+S&P Global: Price increases have constrained business activity and sales growth. Employment fell at the fastest pace in six years. Business optimism slipped to its lowest level since Oct 2022.
+
+---
+
+### 2026-06-03 21:47:11  #國際
+
+德國經濟部就美國關稅勞工權益相關舉措表態：我們歡迎三方談判就歐盟落實該協定達成的政治共識，並支援歐盟相關法規儘快生效。
+
+---
+
+### 2026-06-03 21:46:55  #MKT News #XLV #Impact bullish #XLB #XLY #Impact bearish
+
+S&P Global said U.S. healthcare was the best-performing sector in May. Consumer goods and materials sectors posted strong output growth, while consumer services activity contracted again.
+
+---
+
+### 2026-06-03 21:46:44  #宏觀 #國際
+
+德國經濟部就美國以勞工權益為由出臺關稅措施表態：我們堅持特恩貝里協議。
+
+---
+
+### 2026-06-03 21:46:37  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+ALPHABET (GOOG.O): Q1 order-processing speed accelerated sharply; expects to confirm more than 50% of backlog within 24 months.
+
+---
+
+### 2026-06-03 21:46:33  #其他
+
+【總投資近65億元 重慶15個綠色低碳環保專案集中籤約】6月3日，在長壽舉行的第二屆重慶綠色低碳環保產業推介會現場，15個重點專案集中籤約，簽約總金額近65億元，涵蓋固廢資源化利用、綠色能源供給、再生資源迴圈、高階綠色製造、智慧市政建設、特色生態產業等多個領域。其中，AI+固廢智慧化全連續低溫熱解技術專案總投資5億元，將在兩江新區建設年處理14萬噸混合廢舊塑膠的低溫無氧熱解樣板工廠，透過自研核心技術將廢塑膠轉化為高價值能源產品，實現無廢水、廢渣、二噁英排放。（上游）
+
+---
+
+### 2026-06-03 21:45:22  #經濟數據 #美國
+
+【美國5月標普全球服務業PMI終值50.7 前值50.9】美國5月標普全球服務業PMI終值50.7，前值50.9。
+
+---
+
+### 2026-06-03 21:45:21  #資料 #國際
+
+美國5月標普全球服務業PMI終值 50.7，前值50.9；美國5月標普全球綜合PMI終值 51.5，前值51.7。
+
+---
+
+### 2026-06-03 21:45:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #S&P500
+
+US May S&P Global Services PMI (final) 50.7, prior 50.9.
+
+---
+
+### 2026-06-03 21:45:07  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish
+
+US May S&P Global Composite PMI, final 51.5; prior 51.7.
+
+---
+
+### 2026-06-03 21:45:07  #MKT News #Commodities #Energy
+
+Sources said that after maintenance Russia's oil exports to Hungary and Slovakia via the Druzhba pipeline returned to normal in May at 165,000 bpd.
+
+---
+
+### 2026-06-03 21:45:05  #國際
+
+訊息人士稱，經德魯日巴輸油管道輸往匈牙利、斯洛伐克的俄羅斯石油在管道維護完成後，已於5月恢復正常，日均輸油量為16.5萬桶。
+
+---
+
+### 2026-06-03 21:45:02  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Tops $97 — Brent crude oil futures rose more than 1% to above $97 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles.
+
+---
+
+### 2026-06-03 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Markit Services PMI Final (May) | actual 50.7 | previous 50.9
+
+---
+
+### 2026-06-03 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Composite PMI Final (May) | actual 51.5 | previous 51.7
+
+---
+
+### 2026-06-03 21:44:52  #市場 #焦點
+
+現貨黃金失守4430美元/盎司，日內跌1.30%。
+
+---
+
+### 2026-06-03 21:44:52  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Alphabet (GOOG.O): monthly tokens processed across products and platforms reached 3.2 quadrillion; AI Overview monthly active users topped 2.5 billion.
+
+---
+
+### 2026-06-03 21:44:51  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+Russell 2000 fell 1.1%.
+
+---
+
+### 2026-06-03 21:44:30  #市場 #焦點
+
+紐約期金失守4460美元/盎司，日內跌1.35%。
+
+---
+
+### 2026-06-03 21:44:29  #國際
+
+市場訊息： 特朗普擬對貿易伙伴加徵 10%–12.5% 關稅的方案正穩步推進。
+
+---
+
+### 2026-06-03 21:44:02  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell $20 intraday to $4,434.72/oz. Spot silver dropped 2.00% intraday to $73.62/oz. New York silver futures slipped below $74/oz, down 2.09% on the day.
+
+---
+
+### 2026-06-03 21:44:01  #Trading Economics #Markets #Commodity #Importance 2
+
+WTI Crude Oil Prices Rise for 3rd Session — WTI crude oil futures rose more than 1% to around $95 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles.
+
+---
+
+### 2026-06-03 21:43:42  #MKT News #Important #Commodities #Precious Metals
+
+Shanghai silver most-active contract fell as much as 2.00% intraday, last at 17,836.00 yuan/kg.
+
+---
+
+### 2026-06-03 21:43:26  #其他
+
+Meta：推出元商業智慧體，使用者可直接在WhatsApp上更便捷地查詢商家。
+
+---
+
+### 2026-06-03 21:43:12  #其他
+
+【京東開源JoyAI-Echo長音影片生成框架】6月3日，京東推出JoyAI-Echo長音影片生成框架。據介紹，框架引入智慧“導演助理”——Director Agent，並內建了一個專門的記憶庫，能在多鏡頭生成過程中，持續儲存並呼叫角色的外觀特徵和說話人音色資訊。JoyAI-Echo的程式碼與權重已全部開源。
+
+---
+
+### 2026-06-03 21:43:09  #市場
+
+鈀金期貨日內跌3%，現報1350.45美元/盎司。
 
 ---
 
@@ -23998,173 +24178,5 @@ Kweichow Moutai adjusted its proposed 2025 per-share cash dividend to 28.02423 y
 ### 2026-06-02 20:33:23  #公司
 
 【中國航材：子公司獲得霍尼韋爾波音飛機新一代慣性導航儀中國獨家分銷權】5月26日，首屆MRO及航材供應鏈展在北京首都國際會展中心開幕，中航材華順航空資源服務（北京）有限公司（下稱“中航材華順”）在現場與霍尼韋爾航空航天集團完成簽約。簽約儀式上，中航材華順獲得霍尼韋爾波音飛機新一代慣性導航儀中國獨家分銷權，將全權負責該產品在國內的分銷保障。中航材華順作為中國航材集團旗下核心子公司，專注航空運輸裝置銷售、航材供應鏈保障等領域。
-
----
-
-### 2026-06-02 20:33:09  #國際
-
-【英媒：美國考慮在更多北約歐洲國家部署核武器】據英國《金融時報》2日報道，美國正在考慮是否在更多北約歐洲國家部署核武器，以此向盟友表明其不會削弱對歐洲的安全保障。報道援引多名知情人士的話報道說，美國有意在現有6個部署了可攜帶核武器的“雙重能力”戰機的國家基礎上增加部署地點，相關討論正在北約內部進行。包括波羅的海國家在內的北約東翼國家有意讓美國在這些國家境內部署“雙重能力”戰機基地。（新華社）
-
----
-
-### 2026-06-02 20:32:12  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #WTI
-
-Federal Reserve official Hammack said a sharp energy shock poses a significant challenge for monetary policy.
-
----
-
-### 2026-06-02 20:32:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Fed's Hammack says unemployment rate is close to full-employment levels.
-
----
-
-### 2026-06-02 20:32:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-Fed's Hammack said waiting until high inflation becomes entrenched and clearly visible in the economy before acting would be risky.
-
----
-
-### 2026-06-02 20:32:03  #國際
-
-特朗普在與內塔尼亞胡的通話中，就黎巴嫩局勢升級問題辱罵了他。
-
----
-
-### 2026-06-02 20:32:00  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve's Hammack said if the inf trend does not cool, the Fed may need to act 'as soon as possible'.
-
----
-
-### 2026-06-02 20:31:54  #其他
-
-【上海市委書記陳吉寧走訪重點企業並開展現場辦公】據上海釋出，上海市委書記陳吉寧今天（6月2日）下午結合服務企業機制，在走訪重點企業、開展現場辦公時指出，要持續最佳化營商環境，強化服務意識，深化政企對接，支援企業更好發揮自身優勢，把握產業發展機遇，做強做優主業，更加深度參與構建創新生態和產業生態、提升產業鏈供應鏈安全韌性水平，攜手打造世界級產業叢集，更好與上海現代化建設和高質量發展同頻共振、合作共贏。
-
----
-
-### 2026-06-02 20:31:40  #央行 #美聯儲
-
-【美聯儲哈瑪克：目前維持利率穩定是合理的】美聯儲哈瑪克稱，目前維持利率穩定是合理的。如果高通脹持續，可能需要更大幅度的調整；更擔憂通脹持續高企的風險，經濟面臨多種因素推動通脹上升。如果通脹趨勢不降溫，美聯儲可能需要“儘快”採取行動。
-
----
-
-### 2026-06-02 20:31:39  #央行 #國際
-
-【美聯儲哈馬克：受經濟前景不確定性影響，現階段維持利率不變是合理之舉】克利夫蘭聯邦儲備銀行行長貝絲・哈馬克表示，受經濟前景不確定性影響，現階段維持利率不變是合理之舉，但美聯儲官員或需很快採取行動，以抑制居高不下的通脹。相較於表現穩健的勞動力市場，哈馬克更擔憂通脹問題：美國通脹已連續五年高於美聯儲 2% 的政策目標。哈馬克週二在克利夫蘭一場活動的預先發言稿中表態：“就當前而言，鑑於經濟前景充滿變數，維持利率不變合乎情理。但倘若近期經濟資料走勢延續現狀，美聯儲或很快需要動用貨幣政策，應對通脹持續走高帶來的不斷加劇的風險。”自美伊衝突再度推升通脹壓力以來，越來越多美聯儲政策制定者表態，美聯儲應當釋放可加息的政策訊號。4 月美聯儲議息會議上，哈馬克與另外兩名官員投下反對票，對會後宣告中暗示美聯儲後續或將重啟降息的措辭提出異議。
-
----
-
-### 2026-06-02 20:31:34  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed's HAMMACK said the economy faces multiple factors pushing inflation higher.
-
----
-
-### 2026-06-02 20:31:16  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-HAMMACK said he is increasingly concerned about the risk of persistently high inf.
-
----
-
-### 2026-06-02 20:31:14  #其他
-
-蔚來ES9正式上市並開啟交付，整車購買48.9萬元起。
-
----
-
-### 2026-06-02 20:30:56  #MKT News #Important
-
-Federal Reserve official Hammack said holding rates steady is appropriate for now; if high inflation persists, larger rate hikes could be required.
-
----
-
-### 2026-06-02 20:30:55  #公司
-
-【Token超市來了 買算力就像買水電一樣方便了】當前，Token的呼叫量正迎來爆發式增長。國家資料局資料顯示，我國日均Token呼叫量已從2024年初的1000億躍升至2026年3月的140萬億。Token正成為智慧時代的新型“硬通貨”。最近，江蘇無錫上線城市級“Token超市”，把AI服務從“賣算力”變成“賣能力”，讓企業用AI更簡單、更省錢。過去，企業想用AI，基本得自建機房、買高階顯示卡、招演算法工程師，加上託管、電費和運維，一年費用超百萬。而這個“Token超市”，就像水電錶一樣按用量收費，一站式呼叫多種大模型，連線企業、高校和科研機構，串起算力、模型和應用生態。對小微企業來說，變化很直觀。一家本地智慧安防企業，用上Token超市後，研發效率猛增、成本大降。企業負責人表示：“接入token超市之後，公司軟體開發費用每月不到1萬，研發和人員的成本大約縮減了50%，而且開發效率提高了80%。以前覺得在產品裡嵌入AI是大廠才做得起的事，現在呼叫幾個介面就可以了。” （央視財經）
-
----
-
-### 2026-06-02 20:30:30  #國際
-
-【以色列總理揚言伊朗政權將覆滅】以色列總理內塔尼亞胡今天（6月2日）在以色列情報和特勤局（摩薩德）新任局長宣誓就職儀式上發表講話，揚言“伊朗政權終將覆滅”。內塔尼亞胡稱，“所有圖謀‘加害’以色列的人，都應知道其‘詭計”必將落空，將付出的代價極為沉重——而伊朗已經付出極其慘重的代價，其政權的根基已然動搖，再也無法回到從前。” （CCTV國際時訊）
-
----
-
-### 2026-06-02 20:30:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish
-
-Fed's Hammack: labor-market data point to stability.
-
----
-
-### 2026-06-02 20:30:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-Federal Reserve's HAMMACK says firmly committed to returning inf to 2%.
-
----
-
-### 2026-06-02 20:30:15  #央行 #國際
-
-美聯儲哈馬克：當前維持利率不變具備合理性。
-
----
-
-### 2026-06-02 20:29:57  #公司
-
-【長華化學：擬發行股票募集資金不超2.98億元用於高效能多元醇建設專案及償還銀行借款】長華化學公告，擬以簡易程式向特定物件發行股票募集資金不超過2.98億元，扣除相關發行費用後的募集資金淨額將全部用於高效能多元醇建設專案及償還銀行借款。其中，高效能多元醇建設專案擬使用募集資金2.18億元，償還銀行借款擬使用募集資金8000萬元。
-
----
-
-### 2026-06-02 20:29:52  #宏觀
-
-【我國將培育壯大農業新興產業和未來產業】國務院2日對外公佈的《加快農業農村現代化“十五五”規劃》將因地制宜發展農業新質生產力擺在更加突出的戰略位置，並首次提出培育壯大農業領域新興產業和未來產業。規劃提出農業科技發展目標：“十五五”期間，我國農業科技自立自強水平大幅提高，發展農業新質生產力取得重大突破，農業科技進步貢獻率達到67%。農業農村部有關負責人表示，“十五五”期間，農業農村部將著力推動智慧設計育種、新能源農機、農業低空經濟、農業生物製造、新型食品等更多先導性產業規模化發展；有針對性謀劃實施農機裝備高質量發展、農業生物製造提升、“人工智慧+農業”等行動，支撐農業新質生產力發展。同時，注重政策支援保障，創新提出落實鼓勵科技創新稅收政策；落實涉農首臺（套）、首批次應用政策，鼓勵地方探索實施涉農首版次應用政策等。（新華社）
-
----
-
-### 2026-06-02 20:29:10  #央行 #國際
-
-歐洲央行雷恩：歐洲央行正籌備 6 月保護性加息。
-
----
-
-### 2026-06-02 20:28:17  #市場
-
-倫敦金屬交易所（LME）三個月期鋅漲至每噸3,635美元，為2022年8月以來最高，日內上漲1.6%。
-
----
-
-### 2026-06-02 20:28:08  #MKT News #Important #Commodities #Industrial Metals
-
-LME three-month zinc rose to $3,635 a tonne, the highest since Aug 2022, up 1.6% on the day.
-
----
-
-### 2026-06-02 20:27:48  #Trading Economics #Markets #commodity #Importance 0
-
-Zinc Hits Near 4-year High — Zinc increased to 3635.00 USD/T, the highest since August 2022. Over the past 4 weeks, Zinc gained 7.83%, and in the last 12 months, it increased 34.39%.
-
----
-
-### 2026-06-02 20:27:47  #國際
-
-黎巴嫩稱，以色列週一在醫院附近發動襲擊，造成4人死亡，127人受傷。
-
----
-
-### 2026-06-02 20:27:37  #公司
-
-【長高電新：首次回購公司股份80萬股，佔公司總股本的0.13%】長高電新公告，2026年6月2日，公司首次透過股份回購專用證券賬戶以集中競價方式回購公司股份80萬股，佔公司總股本的0.13%，回購股份的最高成交價為11.3元/股，最低成交價為11.05元/股，成交金額891.39萬元（不含交易費用）。
-
----
-
-### 2026-06-02 20:26:34  #公司
-
-【四川九洲：控股股東一致行動人及部分董高擬合計增持不超過617.5萬股】四川九洲公告，控股股東一致行動人四川九洲創業投資有限責任公司及公司部分董事、高階管理人員計劃自2026年6月3日至2026年12月2日，透過集中競價交易方式增持公司股份，合計增持數量不低於508.75萬股且不超過617.5萬股（含）。本次增持計劃不設定價格區間，將根據市場情況擇機實施。
-
----
-
-### 2026-06-02 20:26:32  #公司
-
-雀巢執行長：儘管出生率正在下降，但我認為營養領域仍是我們開展創新的充滿機遇的領域。
 
 ---

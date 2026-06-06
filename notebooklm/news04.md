@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 13:32:21_
-_本檔包含 3565 則快訊，約 701929 字_
+_更新時間：2026-06-06 14:08:13_
+_本檔包含 3585 則快訊，約 702481 字_
+
+---
+
+### 2026-06-02 20:33:09  #國際
+
+【英媒：美國考慮在更多北約歐洲國家部署核武器】據英國《金融時報》2日報道，美國正在考慮是否在更多北約歐洲國家部署核武器，以此向盟友表明其不會削弱對歐洲的安全保障。報道援引多名知情人士的話報道說，美國有意在現有6個部署了可攜帶核武器的“雙重能力”戰機的國家基礎上增加部署地點，相關討論正在北約內部進行。包括波羅的海國家在內的北約東翼國家有意讓美國在這些國家境內部署“雙重能力”戰機基地。（新華社）
+
+---
+
+### 2026-06-02 20:32:12  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #WTI
+
+Federal Reserve official Hammack said a sharp energy shock poses a significant challenge for monetary policy.
+
+---
+
+### 2026-06-02 20:32:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Fed's Hammack says unemployment rate is close to full-employment levels.
+
+---
+
+### 2026-06-02 20:32:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
+
+Fed's Hammack said waiting until high inflation becomes entrenched and clearly visible in the economy before acting would be risky.
+
+---
+
+### 2026-06-02 20:32:03  #國際
+
+特朗普在與內塔尼亞胡的通話中，就黎巴嫩局勢升級問題辱罵了他。
+
+---
+
+### 2026-06-02 20:32:00  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve's Hammack said if the inf trend does not cool, the Fed may need to act 'as soon as possible'.
+
+---
+
+### 2026-06-02 20:31:54  #其他
+
+【上海市委書記陳吉寧走訪重點企業並開展現場辦公】據上海釋出，上海市委書記陳吉寧今天（6月2日）下午結合服務企業機制，在走訪重點企業、開展現場辦公時指出，要持續最佳化營商環境，強化服務意識，深化政企對接，支援企業更好發揮自身優勢，把握產業發展機遇，做強做優主業，更加深度參與構建創新生態和產業生態、提升產業鏈供應鏈安全韌性水平，攜手打造世界級產業叢集，更好與上海現代化建設和高質量發展同頻共振、合作共贏。
+
+---
+
+### 2026-06-02 20:31:40  #央行 #美聯儲
+
+【美聯儲哈瑪克：目前維持利率穩定是合理的】美聯儲哈瑪克稱，目前維持利率穩定是合理的。如果高通脹持續，可能需要更大幅度的調整；更擔憂通脹持續高企的風險，經濟面臨多種因素推動通脹上升。如果通脹趨勢不降溫，美聯儲可能需要“儘快”採取行動。
+
+---
+
+### 2026-06-02 20:31:39  #央行 #國際
+
+【美聯儲哈馬克：受經濟前景不確定性影響，現階段維持利率不變是合理之舉】克利夫蘭聯邦儲備銀行行長貝絲・哈馬克表示，受經濟前景不確定性影響，現階段維持利率不變是合理之舉，但美聯儲官員或需很快採取行動，以抑制居高不下的通脹。相較於表現穩健的勞動力市場，哈馬克更擔憂通脹問題：美國通脹已連續五年高於美聯儲 2% 的政策目標。哈馬克週二在克利夫蘭一場活動的預先發言稿中表態：“就當前而言，鑑於經濟前景充滿變數，維持利率不變合乎情理。但倘若近期經濟資料走勢延續現狀，美聯儲或很快需要動用貨幣政策，應對通脹持續走高帶來的不斷加劇的風險。”自美伊衝突再度推升通脹壓力以來，越來越多美聯儲政策制定者表態，美聯儲應當釋放可加息的政策訊號。4 月美聯儲議息會議上，哈馬克與另外兩名官員投下反對票，對會後宣告中暗示美聯儲後續或將重啟降息的措辭提出異議。
+
+---
+
+### 2026-06-02 20:31:34  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+Fed's HAMMACK said the economy faces multiple factors pushing inflation higher.
+
+---
+
+### 2026-06-02 20:31:16  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+HAMMACK said he is increasingly concerned about the risk of persistently high inf.
+
+---
+
+### 2026-06-02 20:31:14  #其他
+
+蔚來ES9正式上市並開啟交付，整車購買48.9萬元起。
+
+---
+
+### 2026-06-02 20:30:56  #MKT News #Important
+
+Federal Reserve official Hammack said holding rates steady is appropriate for now; if high inflation persists, larger rate hikes could be required.
+
+---
+
+### 2026-06-02 20:30:55  #公司
+
+【Token超市來了 買算力就像買水電一樣方便了】當前，Token的呼叫量正迎來爆發式增長。國家資料局資料顯示，我國日均Token呼叫量已從2024年初的1000億躍升至2026年3月的140萬億。Token正成為智慧時代的新型“硬通貨”。最近，江蘇無錫上線城市級“Token超市”，把AI服務從“賣算力”變成“賣能力”，讓企業用AI更簡單、更省錢。過去，企業想用AI，基本得自建機房、買高階顯示卡、招演算法工程師，加上託管、電費和運維，一年費用超百萬。而這個“Token超市”，就像水電錶一樣按用量收費，一站式呼叫多種大模型，連線企業、高校和科研機構，串起算力、模型和應用生態。對小微企業來說，變化很直觀。一家本地智慧安防企業，用上Token超市後，研發效率猛增、成本大降。企業負責人表示：“接入token超市之後，公司軟體開發費用每月不到1萬，研發和人員的成本大約縮減了50%，而且開發效率提高了80%。以前覺得在產品裡嵌入AI是大廠才做得起的事，現在呼叫幾個介面就可以了。” （央視財經）
+
+---
+
+### 2026-06-02 20:30:30  #國際
+
+【以色列總理揚言伊朗政權將覆滅】以色列總理內塔尼亞胡今天（6月2日）在以色列情報和特勤局（摩薩德）新任局長宣誓就職儀式上發表講話，揚言“伊朗政權終將覆滅”。內塔尼亞胡稱，“所有圖謀‘加害’以色列的人，都應知道其‘詭計”必將落空，將付出的代價極為沉重——而伊朗已經付出極其慘重的代價，其政權的根基已然動搖，再也無法回到從前。” （CCTV國際時訊）
+
+---
+
+### 2026-06-02 20:30:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish
+
+Fed's Hammack: labor-market data point to stability.
+
+---
+
+### 2026-06-02 20:30:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
+
+Federal Reserve's HAMMACK says firmly committed to returning inf to 2%.
+
+---
+
+### 2026-06-02 20:30:15  #央行 #國際
+
+美聯儲哈馬克：當前維持利率不變具備合理性。
+
+---
+
+### 2026-06-02 20:29:57  #公司
+
+【長華化學：擬發行股票募集資金不超2.98億元用於高效能多元醇建設專案及償還銀行借款】長華化學公告，擬以簡易程式向特定物件發行股票募集資金不超過2.98億元，扣除相關發行費用後的募集資金淨額將全部用於高效能多元醇建設專案及償還銀行借款。其中，高效能多元醇建設專案擬使用募集資金2.18億元，償還銀行借款擬使用募集資金8000萬元。
+
+---
+
+### 2026-06-02 20:29:52  #宏觀
+
+【我國將培育壯大農業新興產業和未來產業】國務院2日對外公佈的《加快農業農村現代化“十五五”規劃》將因地制宜發展農業新質生產力擺在更加突出的戰略位置，並首次提出培育壯大農業領域新興產業和未來產業。規劃提出農業科技發展目標：“十五五”期間，我國農業科技自立自強水平大幅提高，發展農業新質生產力取得重大突破，農業科技進步貢獻率達到67%。農業農村部有關負責人表示，“十五五”期間，農業農村部將著力推動智慧設計育種、新能源農機、農業低空經濟、農業生物製造、新型食品等更多先導性產業規模化發展；有針對性謀劃實施農機裝備高質量發展、農業生物製造提升、“人工智慧+農業”等行動，支撐農業新質生產力發展。同時，注重政策支援保障，創新提出落實鼓勵科技創新稅收政策；落實涉農首臺（套）、首批次應用政策，鼓勵地方探索實施涉農首版次應用政策等。（新華社）
+
+---
+
+### 2026-06-02 20:29:10  #央行 #國際
+
+歐洲央行雷恩：歐洲央行正籌備 6 月保護性加息。
+
+---
+
+### 2026-06-02 20:28:17  #市場
+
+倫敦金屬交易所（LME）三個月期鋅漲至每噸3,635美元，為2022年8月以來最高，日內上漲1.6%。
+
+---
+
+### 2026-06-02 20:28:08  #MKT News #Important #Commodities #Industrial Metals
+
+LME three-month zinc rose to $3,635 a tonne, the highest since Aug 2022, up 1.6% on the day.
+
+---
+
+### 2026-06-02 20:27:48  #Trading Economics #Markets #commodity #Importance 0
+
+Zinc Hits Near 4-year High — Zinc increased to 3635.00 USD/T, the highest since August 2022. Over the past 4 weeks, Zinc gained 7.83%, and in the last 12 months, it increased 34.39%.
+
+---
+
+### 2026-06-02 20:27:47  #國際
+
+黎巴嫩稱，以色列週一在醫院附近發動襲擊，造成4人死亡，127人受傷。
+
+---
+
+### 2026-06-02 20:27:37  #公司
+
+【長高電新：首次回購公司股份80萬股，佔公司總股本的0.13%】長高電新公告，2026年6月2日，公司首次透過股份回購專用證券賬戶以集中競價方式回購公司股份80萬股，佔公司總股本的0.13%，回購股份的最高成交價為11.3元/股，最低成交價為11.05元/股，成交金額891.39萬元（不含交易費用）。
+
+---
+
+### 2026-06-02 20:26:34  #公司
+
+【四川九洲：控股股東一致行動人及部分董高擬合計增持不超過617.5萬股】四川九洲公告，控股股東一致行動人四川九洲創業投資有限責任公司及公司部分董事、高階管理人員計劃自2026年6月3日至2026年12月2日，透過集中競價交易方式增持公司股份，合計增持數量不低於508.75萬股且不超過617.5萬股（含）。本次增持計劃不設定價格區間，將根據市場情況擇機實施。
+
+---
+
+### 2026-06-02 20:26:32  #公司
+
+雀巢執行長：儘管出生率正在下降，但我認為營養領域仍是我們開展創新的充滿機遇的領域。
 
 ---
 
@@ -21460,53 +21628,5 @@ Qualcomm (QCOM.O) U.S. premarket decline widened to about 10%.
 ### 2026-06-01 19:14:26  #Trading Economics #Economy #Spain #Total Vehicle Sales #Importance 1
 
 Spain’s May Car Sales Dip 0.8%, but EVs Surge 18% — Spain’s new car sales fell 0.8% year-on-year to 111,894 units in May 2026, driven by a 10% drop in rental channel sales after Easter stockpiling and summer season preparations. However, private and business sales rose by 4.5% and 0.9%, respectively. Electric vehicles (BEVs and PHEVs) continued their strong growth, with sales jumping 18% to 25,790 units, accounting for 23.1% of the market. Year-to-date, total vehicle sales reached 519,531 units, a 5.9% increase from 2025, while EV sales soared 43.6% to 111,380 units, representing 21.4% of the market, 6 percentage points above the 2025 target.
-
----
-
-### 2026-06-01 19:14:20  #公司 #市場
-
-【華能國際：股票異常波動 一季度淨利潤同比降9.83%】華能國際公告稱，公司A股股票於2026年5月28日、5月29日和6月1日連續三個交易日收盤價格漲幅偏離值累計超20%，構成異常波動。2026年第一季度，公司淨利潤44.84億元，較上年同期下降9.83%，主要因境內發電量和平均上網結算電價同比下降及燃料成本下降綜合影響。經自查，公司生產經營正常，不存在應披露未披露重大事項。提醒投資者理性決策，審慎投資。
-
----
-
-### 2026-06-01 19:14:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Sugar Futures on The Rise — Sugar futures in the US rose to around 14.4 US cents, up from one-month-lows of 13.9 US cents hit on May 28, supported by higher oil prices that encourage cane diversion to ethanol production and may tighten supply. At the same time, the market remains attentive to climate risks from a potential El Niño event, which could impact global sugar production in the coming months. Expectations are that it may curb precipitation in Brazil, India, and Thailand, the world’s three largest sugar producers. Supporting this view, India’s weather office projected monsoon rainfall at 90% of the long-term average for June–September, down from 92% in April. Meanwhile, Unica reported a strong increase in sugar production in Brazil’s Center-South region, with output in April 2026/27 rising 55.3% year-on-year to 2.475 million tons.
-
----
-
-### 2026-06-01 19:13:27  #公司
-
-【安集科技：多名股東減持計劃到期未減持】安集科技公告，董事長王淑敏持股89682股，佔0.0512%；董事兼總經理張明持股13.42萬股，佔0.0767%；職工董事楊遜持股12.22萬股，佔0.0699%；副總經理王雨春持股97801股，佔0.0559%；財務負責人劉榮持股14282股，佔0.0082%。在2026年3月2日至2026年6月1日減持計劃期內，上述人員均未減持，減持數量均為0股，原計劃最大減持比例0.0192%，本次減持計劃已到期終止。
-
----
-
-### 2026-06-01 19:12:59  #公司
-
-【格林美：預計本次出售歐科億股票可實現投資收益約6.9億元】格林美(002340.SZ)公告稱，公司已透過上海證券交易所交易系統以詢價轉讓方式出售歐科億股票8,732,993股，成交金額為8.42億元。本次出售完成後，公司仍持有歐科億股票7,790,507股，佔其總股本的4.91%。預計本次交易可實現投資收益約6.9億元，對公司財務狀況、經營成果及現金流將產生積極影響。
-
----
-
-### 2026-06-01 19:12:55  #公司
-
-【瑞立科密：發行股份購買資產的股份發行價格調整為45.45元/股】瑞立科密公告，公司擬發行股份購買程毅先生持有的武漢瑞立科德斯汽車電子有限責任公司16%股權。因實施2025年年度權益分派，本次交易的股份發行價格將由46元/股調整為45.45元/股。2025年年度權益分派方案為以總股本1.8億股為基數，向全體股東每10股派發現金紅利5.56元（含稅），共計派發現金紅利1億元。
-
----
-
-### 2026-06-01 19:12:52  #公司 #市場
-
-【深南電A：不涉及算力業務】６月１日，深南電A公告，公司A股股票連續兩個交易日（2026年5月29日、6月1日）日收盤價格漲幅偏離值累計達到20%以上，根據《深圳證券交易所交易規則》等相關規定，屬於股票交易的異常波動情形。公司股票價格短期波動較大，敬請廣大投資者注意二級市場交易風險，審慎決策，理性投資。公司主營業務為電力生產銷售及綜合能源服務，不涉及算力業務。2025年公司營業收入主要來源仍為電力生產銷售，佔營業收入比重69.58%，獨立儲能專案佔營業收入比重14.85%。公司目前生產經營狀況正常，主營業務及內外部經營環境未發生重大變化。
-
----
-
-### 2026-06-01 19:11:48  #其他
-
-【“限制網約車司機駕駛時間”是對新規的誤讀】《機動車駕駛人疲勞駕駛認定規則》6月1日起實施。連日來，“限制網約車司機駕駛時間”等解讀在網上流傳甚廣，還有不少駕駛員擔心行駛途中哪怕打個哈欠都要被處罰。其實只要認真研讀認定規則，就會發現這些是誤讀。首先必須明確，這項認定規則適用於交通事故調查。認定規則屬於國家公共安全行業標準，對適用範圍進行了規定，即“適用於道路交通事故調查處理環節對機動車駕駛人疲勞駕駛行為的認定”。也就是說，認定規則是為了在發生交通事故後準確認定事故原因，規範事故中疲勞駕駛調查認定工作而制定的技術標準。其次，這項認定規則不涉及網約車、計程車。公安部交管局明確，認定規則中的“客運機動車駕駛人”指從事道路旅客運輸（即班車客運、包車客運、旅遊客運）經營活動的駕駛員，不涉及出租汽車（含網約車）等經營活動。這意味著，所謂“限制網約車司機駕駛時間”純屬捕風捉影。此外，認定規則對於貨車駕駛人連續駕駛時間沒有特別規定，適用機動車的一般規定。（澎湃）
-
----
-
-### 2026-06-01 19:11:37  #MKT News #Market Regions #Greater China
-
-【China NRTA says May 'AI-altered' video cleanup removed 8,000+ illegal videos】The National Radio and Television Administration (NRTA) said the special remediation of "AI-altered" videos launched in January 2026 has been effective and, from Feb. 1, is being continued under a normalized, institutionalized long‑term mechanism. The NRTA instructed major online audiovisual platforms to deepen implementation of platform responsibilities and strengthen daily screening, prioritizing removal of illegal AI-altered material derived from the Four Great Classical Novels, historical and revolutionary subjects, and heroic figures, and to clear various cult animations. Several major platforms reported May results: they removed more than 8,000 illegal videos and took action against over 20 violating accounts.
 
 ---

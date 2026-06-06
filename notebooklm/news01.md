@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 13:32:21_
-_本檔包含 3755 則快訊，約 701558 字_
+_更新時間：2026-06-06 14:08:13_
+_本檔包含 3740 則快訊，約 702191 字_
+
+---
+
+### 2026-06-06 14:06:43  #MKT News
+
+【Yonyou launches BIP Super Edition on Huawei Cloud dedicated cloud solution】Yonyou announced on June 6 at Huawei Cloud’s INSPIRE 2026 conference in Shanghai that it and Huawei Cloud have jointly launched the Yonyou BIP Super Edition on Huawei Cloud dedicated cloud solution, offering full‑stack, self‑developed, secure and trusted integrated capabilities to support enterprise digital transformation and global operations.
+
+---
+
+### 2026-06-06 14:05:49  #其他
+
+【用友BIP超級版On華為雲專屬雲解決方案發布】據用友訊息，6月6日，INSPIRE 2026 華為雲創想者大會在上海西岸國際會展中心舉辦。用友BIP超級版與華為雲聯合釋出用友BIP超級版On華為雲專屬雲解決方案，以全棧自研、安全可信的一體化能力，為企業數智化轉型與全球化運營提供新路徑。
+
+---
+
+### 2026-06-06 14:05:34  #國際
+
+據知情人士透露，一位名叫戴維·J·拉什的美國中央情報局（CIA）前高官，涉嫌偽造了一個高度機密的情報專案，並以此為幌子，將數百萬美元資金轉移供個人使用，他的家中被搜出價值逾4000萬美元的金條。
+
+---
+
+### 2026-06-06 14:04:42  #國際
+
+市場訊息：特朗普正在為情報總監一職面試兩名候選人。
+
+---
+
+### 2026-06-06 14:04:26  #MKT News #XAUUSD
+
+The Washington Post, citing people familiar with the matter, reports a former CIA senior official identified as David J. Lash is accused of fabricating a highly classified intelligence program and using it as a front to divert millions of dollars for personal use. Investigators seized more than $40 million in gold bars from his home.
+
+---
+
+### 2026-06-06 14:04:16  #國際
+
+特朗普：普爾特“不會在那裡待太久”。
+
+---
+
+### 2026-06-06 14:03:13  #國際
+
+以色列國防軍：針對敵方飛行器侵入澤拉伊特（Zerait）地區發出警報後，監測到一架無人機在以色列國防軍於黎巴嫩南部開展行動的區域附近墜落。該飛行器未進入以色列領土，未造成人員傷亡。
+
+---
+
+### 2026-06-06 14:02:59  #國際
+
+市場訊息：特朗普敦促新任情報局長解僱情報人員。
+
+---
+
+### 2026-06-06 14:01:54  #MKT News
+
+Israel Defense Forces said it monitored a drone crash near the area where it was operating in southern Lebanon after issuing an alert over hostile aircraft intrusion into the Zerait region; the drone did not enter Israeli territory and caused no casualties.
+
+---
+
+### 2026-06-06 14:00:42  #國際
+
+據伊朗半官方的塔斯尼姆通訊社報道，伊朗國家足球隊的所有球員都已獲得參加即將到來的國際足聯世界盃的美國簽證，但一些工作人員和官員被拒絕入境。被拒絕簽證的人員包括國家隊主管、球隊分析師和多名伊朗足球協會官員，其中包括媒體工作人員、安保人員和外交部代表。據塔斯尼姆通訊社報道，由於仍在努力為他們爭取美國簽證，預計這些人仍將隨國家隊前往墨西哥。
+
+---
+
+### 2026-06-06 13:57:03  #公司
+
+【安科生物：全球首款CD7 CAR-T兒童適應症一期臨床啟動】據安科生物訊息，復發難治T淋巴母細胞白血病/淋巴瘤是兒童血液腫瘤中極具侵襲性的惡性疾病。患兒在常規化療、造血幹細胞移植失敗後，臨床可選方案寥寥。6月4日，安科生物參股公司博生吉醫藥自主研發的全球首款進入臨床階段的靶向CD7自體CAR-T產品PA3-17兒童適應症臨床試驗啟動會在組長單位中國醫學科學院血液病醫院（血液學研究所）召開，專案正式進入Ⅰ期臨床籌備階段，中國原創細胞治療在兒童血液病領域迎來突破。
+
+---
+
+### 2026-06-06 13:53:42  #其他
+
+·【全國首例盲人腦機介面復明成功】湖南長沙湘雅醫院成功用侵入式腦機介面，使一名女性失明患者重獲光明，患者已能精準識別地面的黑色路線自行行走。（重慶廣電）
+
+---
+
+### 2026-06-06 13:50:19  #國際
+
+【美得州因蟲害進入“災難狀態” 聯邦機構被批應對不力】美國“新大陸螺旋蠅蛆病”再起，檢出病牛的得克薩斯州5日進入“災難狀態”。不少牧場主批評美國聯邦政府應對不力。目前，美方著手投放絕育雄蠅並出動嗅探犬在重要區域巡查。專家表示，能否奏效尚待觀察。得州薩瓦拉縣一頭牛犢3日檢出新大陸螺旋蠅蛆，美國農業部5日確認在得州距第一頭病牛所在地約9公里的一處牧場發現第二頭病牛。得州州長格雷格·阿博特5日宣佈得州進入“災難狀態”，要求聯邦政府加快建設一處絕育雄蠅繁育工廠。
+
+---
+
+### 2026-06-06 13:49:29  #國際
+
+【扎哈羅娃駁斥拉夫羅夫辭職傳聞】據俄新社6月6日報道，俄羅斯外交部發言人瑪麗亞·扎哈羅娃在聖彼得堡國際經濟論壇期間駁斥了有關俄外長謝爾蓋·拉夫羅夫打算辭職的傳聞。報道稱，扎哈羅娃在接受採訪時表示：“（他是）一名傑出的外交官與領導者，一直在為國家利益履職盡責，其工作成果就連敵人都心生豔羨。”扎哈羅娃指出，有關俄外長即將卸任的傳言是對俄不友好勢力散佈的，該傳言與事實不符。（參考訊息）
+
+---
+
+### 2026-06-06 13:48:27  #MKT News
+
+【Putin urges government to restore steady growth from next year by boosting investment】President Putin told the St. Petersburg International Economic Forum the government’s task is to work from next year to restore steady economic growth, and that a condition for this is higher investment and launching a new investment cycle. He said real investment rose nearly 38% in 2021–24 but fell last year, and that investment growth will be a key metric for government performance. Putin said balanced growth should rely on domestic demand and require keeping the downward trend in inflation; inflation has slowed markedly and is expected at about 5.2% this year. He added Russia must not be closed off: the state should ensure domestic production of critical goods and strengthen infrastructure while continuing cooperation and cross‑border projects with foreign partners.
+
+---
+
+### 2026-06-06 13:47:49  #國際
+
+【普京要求俄政府從明年起促使經濟恢復平穩增長】俄羅斯總統普京5日在第29屆聖彼得堡國際經濟論壇全體會議上說，俄政府任務是從明年起努力促使本國經濟恢復平穩增長，完成這項任務的條件之一是增加投資並啟動新的投資週期。 普京說，2021年至2024年，俄羅斯獲得的實際投資增長近38%，但去年該資料下滑。啟動新投資週期是政府經濟部門的一項關鍵任務，投資增長是衡量其工作成效的重要指標。他還說，為使經濟均衡增長，需依託內需並維持通脹率繼續下降。目前，俄通脹已顯著放緩，預計今年的通脹率接近5.2%。 普京強調，一個強大的主權國家不能封閉。俄既要自主生產至關重要的產品，加強基礎設施建設，同時還要與外國夥伴加強往來、開展協作、推進跨境合作專案。 普京還說，俄將繼續落實公路、鐵路運力提升計劃，發展基於本國技術的高鐵網路；還要提高海港吞吐能力，將跨北極運輸走廊打造成“運輸大動脈”；發展俄商用船隊和破冰船隊，建造各類油輪和其他各級船舶，使俄商船總載重噸位躋身世界前十。(新華社)
+
+---
+
+### 2026-06-06 13:47:45  #國際
+
+【特朗普稱只有中美能從伊朗廢墟中取出濃縮鈾】美國和伊朗的談判陷入僵局，雙方在濃縮鈾處置方式上依然存在分歧。據美國福克斯新聞網6月5日報道，美國總統特朗普堅持要求伊朗放棄濃縮鈾庫存。他宣稱，美國去年的空襲對伊朗核設施造成“嚴重打擊”，只有美國和中國有能力取出廢墟中的濃縮鈾。 （觀察者網）
+
+---
+
+### 2026-06-06 13:43:48  #國際
+
+【俄稱聖彼得堡市遭大規模無人機襲擊】總檯記者當地時間6日獲悉，俄羅斯聖彼得堡市市長別格洛夫稱，該市當天遭到大規模軍用無人機襲擊，建議市民不要外出，並告知行動網路可能中斷。列寧格勒州州長德羅茲堅科當天凌晨3時59分發布無人機危險預警，並於7時31分通報稱該州上空已有86架無人機被擊落。（央視新聞）
+
+---
+
+### 2026-06-06 13:43:45  #MKT News #Important
+
+【Russia says St. Petersburg hit by large-scale military drone attack】St. Petersburg mayor Beglov said the city was struck by a large-scale military drone attack, urged residents to stay indoors and warned mobile networks could be disrupted. Leningrad Oblast governor Drozdenko issued a drone-danger alert at 03:59 and at 07:31 reported 86 drones had been shot down over the region.
+
+---
+
+### 2026-06-06 13:43:02  #國際
+
+【白宮：伊朗國足已獲得簽證】美國白宮官員5日說，參加2026美加墨世界盃的伊朗國家足球隊已獲得美國簽證，此時距伊朗隊15日在美國洛杉磯的首場比賽僅剩10天。路透社5日報道，針對伊朗駐墨西哥大使阿布勒法茲勒·帕桑迪德4日關於伊朗隊尚未收到美國簽證的說法，一名白宮官員說，伊朗隊的美國簽證已獲批。（新華社）
+
+---
+
+### 2026-06-06 13:41:50  #MKT News
+
+【Zakharova denies reports that Lavrov plans to resign】RIA reported on June 6 that Russian Foreign Ministry spokeswoman Maria Zakharova, speaking at the St. Petersburg International Economic Forum, denied reports that Foreign Minister Sergey Lavrov intends to resign. Zakharova called Lavrov an outstanding diplomat and leader who has served the national interest, saying his results are envied even by enemies, and described the resignation rumours as spread by unfriendly forces and false.
+
+---
+
+### 2026-06-06 13:40:51  #其他
+
+【中央安全生產考核巡查組曝光】近日，2026年度中央安全生產考核巡查季度明查暗訪工作啟動，各考核巡查組聚焦消防、危化品生產領域安全生產工作，分赴各地開展明查暗訪。記者跟隨工作組檢查人員密集場所消防安全發現，部分商業樓、養老院內部空間未做防火分隔，火災隱患突出。（央視新聞）
+
+---
+
+### 2026-06-06 13:38:08  #其他
+
+【多地臨時調整上下班時間緩解交通壓力】2026年全國高考將於6月7日開始舉行。由於6月8日是星期一，9日是星期二，多地黨政機關單位近期下發通知臨時調整上班時間或作息時間。（澎湃）
+
+---
+
+### 2026-06-06 13:37:43  #國際
+
+市場訊息：週五，洛杉磯附近的索菲體育場工作人員投票贊成舉行罷工以爭取加薪，而一週後這座場館將承辦美國男足的首場世界盃賽事。
+
+---
+
+### 2026-06-06 13:33:08  #MKT News #Commodities #Energy #Market Regions #Emerging Markets
+
+【China Energy signs financing master agreement for 372 MW Songon gas-turbine project in Côte d'Ivoire】On June 1 China Energy Engineering Corp's Songon project company signed a financing master agreement with a syndicate of 11 banks and multilateral institutions led by Standard Chartered, South Africa's Standard Bank, Pan‑African Bank and Atlantic Bank to fund the 372 MW Songon gas‑turbine project in Côte d'Ivoire. Total investment is about €659m; the project is backed by China Energy's Haitou unit. The plant carries a 35‑year concession and is expected to produce roughly 2.8 bln kWh a year. China Energy said the deal is the first instance of a China-backed African project financing being led exclusively by an international syndicate.
+
+---
+
+### 2026-06-06 13:32:43  #其他
+
+【深圳市解除分割槽雷雨大風橙色預警訊號】雷暴雲團已減弱移出，風力逐漸減弱，深圳市氣象臺2026年06月06日13時27分解除大鵬灣和大亞灣雷雨大風橙色預警訊號。
 
 ---
 
@@ -22476,251 +22632,5 @@ According to The Information, Goldman Sachs forecasts SpaceX’s cumulative cash
 ### 2026-06-05 02:34:14  #焦點 #國際
 
 烏克蘭總統澤連斯基：烏克蘭已準備好談判期間停火。
-
----
-
-### 2026-06-05 02:33:12  #國際
-
-烏克蘭總統澤連斯基在致普京信函中寫道：戰事該畫上句號了，抉擇如今在你一方。
-
----
-
-### 2026-06-05 02:32:45  #宏觀 #國際
-
-【普京：俄方願在安克雷奇會晤基礎上與烏方談判】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京表示，俄方準備接受俄美領導人去年8月在美國阿拉斯加州安克雷奇市會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。普京認為，由於國內政治局勢，烏克蘭還沒有做好達成協議的準備。（央視新聞）
-
----
-
-### 2026-06-05 02:32:41  #MKT News
-
-Ukrainian President Zelenskiy urged Russian President Putin to end the war.
-
----
-
-### 2026-06-05 02:32:32  #MKT News
-
-ZELENSKIY published an open letter to Putin saying Russian forces cannot capture the Donetsk region this year.
-
----
-
-### 2026-06-05 02:32:23  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night session main contracts close】As of the 02:30 close, SHFE most-active gold contract rose 0.43% to 980 yuan/gram; SHFE most-active silver contract rose 0.73% to 17,976 yuan/kg; SC crude oil most-active contract fell 2.17% to 595 yuan/barrel.
-
----
-
-### 2026-06-05 02:32:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 0.22% at 976.65 yuan/gram in the evening session on June 4 (Thursday). Shanghai Gold Exchange silver T+D closed up 1.08% at 17,933.0 yuan/kg.
-
----
-
-### 2026-06-05 02:31:43  #國際
-
-烏克蘭總統澤連斯基在致普京的信中表示，俄軍今年無法佔領頓涅茨克地區。
-
----
-
-### 2026-06-05 02:31:26  #市場
-
-WTI 7月原油期貨收跌2.98美元，跌幅3.10%，報93.04美元/桶。NYMEX 7月天然氣期貨收報3.3360美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0383美元/加侖，NYMEX 7月取暖油期貨收報3.6738美元/加侖。
-
----
-
-### 2026-06-05 02:30:54  #其他
-
-JANE STREET 因算力緊缺，規劃新建資料中心。
-
----
-
-### 2026-06-05 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Drops by 2.40% — Top crypto losers are Binance (-2.40%), Ether (-2.25%), XRP (-2.24%) and Bitcoin (-0.36%).
-
----
-
-### 2026-06-05 02:30:02  #市場
-
-上期所原油期貨夜盤收跌2.17%，報595.10元人民幣/桶。滬金夜盤收漲0.43%，滬銀收漲0.73%。
-
----
-
-### 2026-06-05 02:29:53  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Realty Income Stock Price Hits 5-week Low — Realty Income shares decreased to 320.50 USD, the lowest since April 2026. Over the past 4 weeks, Realty Income lost 2.96%, and in the last 12 months, it decreased 12.39%.
-
----
-
-### 2026-06-05 02:28:45  #國際
-
-烏克蘭總統澤連斯基提議同普京舉行會晤以結束戰事。
-
----
-
-### 2026-06-05 02:27:55  #MKT News
-
-U.S. Treasury Secretary Bessent said when asked whether tariffs have driven price increases, the effect is negligible.
-
----
-
-### 2026-06-05 02:26:05  #國際
-
-美國財長貝森特被問及關稅是否推高物價時，表示影響微乎其微。
-
----
-
-### 2026-06-05 02:25:24  #公司 #國際
-
-美國食品藥品監督管理局（FDA）：器械與放射健康中心（CDRH）釋出緊急預警，提示公眾因sulet公司胰島素泵可能存在高風險問題。
-
----
-
-### 2026-06-05 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Drops by 3.51% — Top commodity losers are Cocoa (-3.51%) and Cotton (-2.43%). Gains are led by Wool (1.55%) and Lumber (1.51%).
-
----
-
-### 2026-06-05 02:22:16  #MKT News
-
-Russian President Putin: Why would Russia attack NATO?
-
----
-
-### 2026-06-05 02:21:43  #MKT News #Commodities #WTI #Impact bullish #Brent
-
-【Data show Iran's oil exports fall to six-year low】Shipping data and analysts show Iran's crude and condensate exports in May fell to their lowest level in at least six years amid a US Navy blockade. Vortexa put May flows at about 209,000 b/d, down from 1.34m b/d in April and nearly 1.9m b/d in March, the weakest since late 2019–early 2020. Vortexa analyst Claire Jungman said the main drivers appear to include unrest around the Strait of Hormuz, US Navy restrictions on vessels entering and leaving Iranian ports, and broad reluctance by owners, operators, insurers and trading counterparties to expose ships and crews to the current security environment. Kpler showed a similar drop, estimating May exports at roughly 260,000 b/d, still a six-year low.
-
----
-
-### 2026-06-05 02:21:39  #公司 #國際
-
-【資料顯示：伊朗石油出口降至六年來的最低水平】據航運資料和分析人士的報告，由於美國海軍封鎖，伊朗5月份原油和凝析油出口量降至至少六年來的最低水平，日均出口量遠低於30萬桶。據Vortexa資料顯示，伊朗5月份的出口平均約為每日20.9萬桶，較4月的134萬桶和3月的近190萬桶大幅下降，這標誌著自2019年底至2020年初以來的最低水平。Vortexa分析師Claire Jungman表示：“主要驅動因素似乎包括霍爾木茲海峽周邊的局勢動盪、美國海軍針對進出伊朗港口的船舶實施的封鎖，以及船東、船運公司、保險公司和交易對手普遍不願讓船舶和船員暴露在當前的安全環境中。”另一家機構Kpler的資料顯示，降幅類似，但其將5月份出口量略微上調至每日26萬輛，仍為六年來的最低水平。
-
----
-
-### 2026-06-05 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 1.89% — Top commodity gainers are Silver (1.89%), Platinum (1.42%) and Gold (0.98%). Biggest losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%).
-
----
-
-### 2026-06-05 02:18:58  #市場 #國際
-
-美國天然氣期貨價格漲幅擴大至5%。因庫存增幅較小以及天氣轉暖的預測，有望創下自2月以來的最高收盤價。
-
----
-
-### 2026-06-05 02:18:55  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Houthi leader says movement ready to respond to any developments】Houthi leader Abdul-Malik al-Houthi said on April 4 the movement is prepared to respond to any developments and is maintaining full coordination with resistance forces over the situations in Lebanon and Palestine.
-
----
-
-### 2026-06-05 02:18:29  #國際
-
-俄羅斯總統普京：俄羅斯為什麼要攻打北約？
-
----
-
-### 2026-06-05 02:18:17  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Putin said he hopes all parties to the Iran conflict can find a solution.
-
----
-
-### 2026-06-05 02:18:14  #MKT News #Important #Commodities #Energy
-
-U.S. natural gas futures rose 5% as limited storage builds and expectations of warmer weather extended gains, putting contracts on track for their highest close since February.
-
----
-
-### 2026-06-05 02:17:50  #國際
-
-據肯尼迪中心一份發給員工的備忘錄：特朗普的名字必須在6月12日前從肯尼迪中心移除。
-
----
-
-### 2026-06-05 02:17:16  #焦點 #國際
-
-【胡塞武裝稱已做好準備應對任何局勢發展】葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。他稱，胡塞武裝正就黎巴嫩和巴勒斯坦局勢，與各方抵抗力量保持全面協調。（央視新聞）
-
----
-
-### 2026-06-05 02:16:56  #國際
-
-俄羅斯總統普京：希望伊朗衝突各方能夠找到解決方案。
-
----
-
-### 2026-06-05 02:16:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-McDonalds Stock Price Hits 21-month Low — McDonalds shares decreased to 271.97 USD, the lowest since August 2024. Over the past 4 weeks, McDonalds lost 4.58%, and in the last 12 months, it decreased 11.93%.
-
----
-
-### 2026-06-05 02:16:09  #MKT News
-
-Putin said Russia maintains a relationship of trust with Iran and can help advance resolution of the crisis.
-
----
-
-### 2026-06-05 02:16:08  #國際
-
-市場訊息：美國官員表示，自4月8日與伊朗達成停火協議以來，已有約1000艘船隻透過霍爾木茲海峽。
-
----
-
-### 2026-06-05 02:16:04  #MKT News #WTI #Impact bearish #Brent
-
-U.S. officials told Al Jazeera that roughly 1,000 vessels have transited the Strait of Hormuz since a ceasefire with Iran was reached on April 8.
-
----
-
-### 2026-06-05 02:15:59  #其他
-
-市場訊息：領英正採取舉措清理低質量、AI 批次生成的灌水內容。
-
----
-
-### 2026-06-05 02:15:20  #國際
-
-市場訊息：美國官員表示，霍爾木茲海峽的航運通道保持暢通，但是否透過該海峽由船隻自行決定。
-
----
-
-### 2026-06-05 02:15:17  #MKT News #WTI #Impact bearish #Brent
-
-Al Jazeera cited US officials saying the Strait of Hormuz shipping lanes remain open, but transit is at vessels' discretion.
-
----
-
-### 2026-06-05 02:15:09  #公司 #市場
-
-Rumble股價在午後交易中上漲1.3%，該公司已與Together AI簽署協議，部署基於英偉達布萊克韋爾（NVIDIA Blackwell）架構的人工智慧算力即服務。
-
----
-
-### 2026-06-05 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Tumbles by 5.05% — Top commodity losers are Heating Oil (-5.05%), Crude Oil WTI (-4.23%), Gasoline (-3.61%) and Brent Crude Oil (-3.48%). Gains are led by Natural gas (4.45%), Methanol (0.87%) and Coking Coal (0.61%).
-
----
-
-### 2026-06-05 02:14:55  #國際
-
-俄羅斯總統普京：俄羅斯與伊朗關係互信，我們有能力助力化解危機。
-
----
-
-### 2026-06-05 02:14:27  #MKT News
-
-Putin said US President Trump’s peace proposal could serve as a basis for a peace agreement with Ukraine, but Trump still needs to persuade Kyiv.
-
----
-
-### 2026-06-05 02:14:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD #Impact mixed
-
-Al Jazeera cited U.S. officials saying the ceasefire agreement with Iran remains in effect, but the U.S. will continue to protect its forces and impose a blockade on Iranian ports.
 
 ---

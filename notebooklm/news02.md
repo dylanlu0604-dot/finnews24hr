@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 13:32:21_
-_本檔包含 3994 則快訊，約 701316 字_
+_更新時間：2026-06-06 14:08:13_
+_本檔包含 4005 則快訊，約 702314 字_
+
+---
+
+### 2026-06-05 02:33:12  #國際
+
+烏克蘭總統澤連斯基在致普京信函中寫道：戰事該畫上句號了，抉擇如今在你一方。
+
+---
+
+### 2026-06-05 02:32:45  #宏觀 #國際
+
+【普京：俄方願在安克雷奇會晤基礎上與烏方談判】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京表示，俄方準備接受俄美領導人去年8月在美國阿拉斯加州安克雷奇市會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。普京認為，由於國內政治局勢，烏克蘭還沒有做好達成協議的準備。（央視新聞）
+
+---
+
+### 2026-06-05 02:32:41  #MKT News
+
+Ukrainian President Zelenskiy urged Russian President Putin to end the war.
+
+---
+
+### 2026-06-05 02:32:32  #MKT News
+
+ZELENSKIY published an open letter to Putin saying Russian forces cannot capture the Donetsk region this year.
+
+---
+
+### 2026-06-05 02:32:23  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】As of the 02:30 close, SHFE most-active gold contract rose 0.43% to 980 yuan/gram; SHFE most-active silver contract rose 0.73% to 17,976 yuan/kg; SC crude oil most-active contract fell 2.17% to 595 yuan/barrel.
+
+---
+
+### 2026-06-05 02:32:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.22% at 976.65 yuan/gram in the evening session on June 4 (Thursday). Shanghai Gold Exchange silver T+D closed up 1.08% at 17,933.0 yuan/kg.
+
+---
+
+### 2026-06-05 02:31:43  #國際
+
+烏克蘭總統澤連斯基在致普京的信中表示，俄軍今年無法佔領頓涅茨克地區。
+
+---
+
+### 2026-06-05 02:31:26  #市場
+
+WTI 7月原油期貨收跌2.98美元，跌幅3.10%，報93.04美元/桶。NYMEX 7月天然氣期貨收報3.3360美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0383美元/加侖，NYMEX 7月取暖油期貨收報3.6738美元/加侖。
+
+---
+
+### 2026-06-05 02:30:54  #其他
+
+JANE STREET 因算力緊缺，規劃新建資料中心。
+
+---
+
+### 2026-06-05 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Drops by 2.40% — Top crypto losers are Binance (-2.40%), Ether (-2.25%), XRP (-2.24%) and Bitcoin (-0.36%).
+
+---
+
+### 2026-06-05 02:30:02  #市場
+
+上期所原油期貨夜盤收跌2.17%，報595.10元人民幣/桶。滬金夜盤收漲0.43%，滬銀收漲0.73%。
+
+---
+
+### 2026-06-05 02:29:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Realty Income Stock Price Hits 5-week Low — Realty Income shares decreased to 320.50 USD, the lowest since April 2026. Over the past 4 weeks, Realty Income lost 2.96%, and in the last 12 months, it decreased 12.39%.
+
+---
+
+### 2026-06-05 02:28:45  #國際
+
+烏克蘭總統澤連斯基提議同普京舉行會晤以結束戰事。
+
+---
+
+### 2026-06-05 02:27:55  #MKT News
+
+U.S. Treasury Secretary Bessent said when asked whether tariffs have driven price increases, the effect is negligible.
+
+---
+
+### 2026-06-05 02:26:05  #國際
+
+美國財長貝森特被問及關稅是否推高物價時，表示影響微乎其微。
+
+---
+
+### 2026-06-05 02:25:24  #公司 #國際
+
+美國食品藥品監督管理局（FDA）：器械與放射健康中心（CDRH）釋出緊急預警，提示公眾因sulet公司胰島素泵可能存在高風險問題。
+
+---
+
+### 2026-06-05 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Drops by 3.51% — Top commodity losers are Cocoa (-3.51%) and Cotton (-2.43%). Gains are led by Wool (1.55%) and Lumber (1.51%).
+
+---
+
+### 2026-06-05 02:22:16  #MKT News
+
+Russian President Putin: Why would Russia attack NATO?
+
+---
+
+### 2026-06-05 02:21:43  #MKT News #Commodities #WTI #Impact bullish #Brent
+
+【Data show Iran's oil exports fall to six-year low】Shipping data and analysts show Iran's crude and condensate exports in May fell to their lowest level in at least six years amid a US Navy blockade. Vortexa put May flows at about 209,000 b/d, down from 1.34m b/d in April and nearly 1.9m b/d in March, the weakest since late 2019–early 2020. Vortexa analyst Claire Jungman said the main drivers appear to include unrest around the Strait of Hormuz, US Navy restrictions on vessels entering and leaving Iranian ports, and broad reluctance by owners, operators, insurers and trading counterparties to expose ships and crews to the current security environment. Kpler showed a similar drop, estimating May exports at roughly 260,000 b/d, still a six-year low.
+
+---
+
+### 2026-06-05 02:21:39  #公司 #國際
+
+【資料顯示：伊朗石油出口降至六年來的最低水平】據航運資料和分析人士的報告，由於美國海軍封鎖，伊朗5月份原油和凝析油出口量降至至少六年來的最低水平，日均出口量遠低於30萬桶。據Vortexa資料顯示，伊朗5月份的出口平均約為每日20.9萬桶，較4月的134萬桶和3月的近190萬桶大幅下降，這標誌著自2019年底至2020年初以來的最低水平。Vortexa分析師Claire Jungman表示：“主要驅動因素似乎包括霍爾木茲海峽周邊的局勢動盪、美國海軍針對進出伊朗港口的船舶實施的封鎖，以及船東、船運公司、保險公司和交易對手普遍不願讓船舶和船員暴露在當前的安全環境中。”另一家機構Kpler的資料顯示，降幅類似，但其將5月份出口量略微上調至每日26萬輛，仍為六年來的最低水平。
+
+---
+
+### 2026-06-05 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 1.89% — Top commodity gainers are Silver (1.89%), Platinum (1.42%) and Gold (0.98%). Biggest losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%).
+
+---
+
+### 2026-06-05 02:18:58  #市場 #國際
+
+美國天然氣期貨價格漲幅擴大至5%。因庫存增幅較小以及天氣轉暖的預測，有望創下自2月以來的最高收盤價。
+
+---
+
+### 2026-06-05 02:18:55  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthi leader says movement ready to respond to any developments】Houthi leader Abdul-Malik al-Houthi said on April 4 the movement is prepared to respond to any developments and is maintaining full coordination with resistance forces over the situations in Lebanon and Palestine.
+
+---
+
+### 2026-06-05 02:18:29  #國際
+
+俄羅斯總統普京：俄羅斯為什麼要攻打北約？
+
+---
+
+### 2026-06-05 02:18:17  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Putin said he hopes all parties to the Iran conflict can find a solution.
+
+---
+
+### 2026-06-05 02:18:14  #MKT News #Important #Commodities #Energy
+
+U.S. natural gas futures rose 5% as limited storage builds and expectations of warmer weather extended gains, putting contracts on track for their highest close since February.
+
+---
+
+### 2026-06-05 02:17:50  #國際
+
+據肯尼迪中心一份發給員工的備忘錄：特朗普的名字必須在6月12日前從肯尼迪中心移除。
+
+---
+
+### 2026-06-05 02:17:16  #焦點 #國際
+
+【胡塞武裝稱已做好準備應對任何局勢發展】葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。他稱，胡塞武裝正就黎巴嫩和巴勒斯坦局勢，與各方抵抗力量保持全面協調。（央視新聞）
+
+---
+
+### 2026-06-05 02:16:56  #國際
+
+俄羅斯總統普京：希望伊朗衝突各方能夠找到解決方案。
+
+---
+
+### 2026-06-05 02:16:29  #Trading Economics #Markets #United States #stocks #Importance 1
+
+McDonalds Stock Price Hits 21-month Low — McDonalds shares decreased to 271.97 USD, the lowest since August 2024. Over the past 4 weeks, McDonalds lost 4.58%, and in the last 12 months, it decreased 11.93%.
+
+---
+
+### 2026-06-05 02:16:09  #MKT News
+
+Putin said Russia maintains a relationship of trust with Iran and can help advance resolution of the crisis.
+
+---
+
+### 2026-06-05 02:16:08  #國際
+
+市場訊息：美國官員表示，自4月8日與伊朗達成停火協議以來，已有約1000艘船隻透過霍爾木茲海峽。
+
+---
+
+### 2026-06-05 02:16:04  #MKT News #WTI #Impact bearish #Brent
+
+U.S. officials told Al Jazeera that roughly 1,000 vessels have transited the Strait of Hormuz since a ceasefire with Iran was reached on April 8.
+
+---
+
+### 2026-06-05 02:15:59  #其他
+
+市場訊息：領英正採取舉措清理低質量、AI 批次生成的灌水內容。
+
+---
+
+### 2026-06-05 02:15:20  #國際
+
+市場訊息：美國官員表示，霍爾木茲海峽的航運通道保持暢通，但是否透過該海峽由船隻自行決定。
+
+---
+
+### 2026-06-05 02:15:17  #MKT News #WTI #Impact bearish #Brent
+
+Al Jazeera cited US officials saying the Strait of Hormuz shipping lanes remain open, but transit is at vessels' discretion.
+
+---
+
+### 2026-06-05 02:15:09  #公司 #市場
+
+Rumble股價在午後交易中上漲1.3%，該公司已與Together AI簽署協議，部署基於英偉達布萊克韋爾（NVIDIA Blackwell）架構的人工智慧算力即服務。
+
+---
+
+### 2026-06-05 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Heating Oil Tumbles by 5.05% — Top commodity losers are Heating Oil (-5.05%), Crude Oil WTI (-4.23%), Gasoline (-3.61%) and Brent Crude Oil (-3.48%). Gains are led by Natural gas (4.45%), Methanol (0.87%) and Coking Coal (0.61%).
+
+---
+
+### 2026-06-05 02:14:55  #國際
+
+俄羅斯總統普京：俄羅斯與伊朗關係互信，我們有能力助力化解危機。
+
+---
+
+### 2026-06-05 02:14:27  #MKT News
+
+Putin said US President Trump’s peace proposal could serve as a basis for a peace agreement with Ukraine, but Trump still needs to persuade Kyiv.
+
+---
+
+### 2026-06-05 02:14:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD #Impact mixed
+
+Al Jazeera cited U.S. officials saying the ceasefire agreement with Iran remains in effect, but the U.S. will continue to protect its forces and impose a blockade on Iranian ports.
 
 ---
 
@@ -23860,185 +24106,5 @@ Alphabet：近期每日處理的Token數量已超過3萬億。
 ### 2026-06-03 21:49:08  #MKT News #Market Themes #AI Revolution #Star Stocks #JD.com
 
 【JD.com open-sources JoyAI-Echo long-form audio-video generation framework】June 3 — JD.com open-sourced JoyAI-Echo, a framework for generating long-form audio-video. The framework introduces an AI DirectorAgent and a built-in memory module that persistently stores and recalls character appearance features and speaker timbre across multi-shot generation.
-
----
-
-### 2026-06-03 21:48:24  #市場 #焦點
-
-PVC連續主力合約日內跌1%，現報4876.00元。
-
----
-
-### 2026-06-03 21:48:16  #MKT News
-
-Alphabet (GOOG.O) said daily token processing recently exceeded 3 trillion.
-
----
-
-### 2026-06-03 21:47:54  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-Alphabet (GOOG.O) cloud-business order backlog nearly doubled q/q to more than $460 billion.
-
----
-
-### 2026-06-03 21:47:50  #其他
-
-Alphabet(GOOG.O)：雲業務訂單積壓較上一季度幾乎翻倍，超過4,600億美元。
-
----
-
-### 2026-06-03 21:47:25  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #EURUSD #Impact bullish
-
-S&P Global: Price increases have constrained business activity and sales growth. Employment fell at the fastest pace in six years. Business optimism slipped to its lowest level since Oct 2022.
-
----
-
-### 2026-06-03 21:47:11  #國際
-
-德國經濟部就美國關稅勞工權益相關舉措表態：我們歡迎三方談判就歐盟落實該協定達成的政治共識，並支援歐盟相關法規儘快生效。
-
----
-
-### 2026-06-03 21:46:55  #MKT News #XLV #Impact bullish #XLB #XLY #Impact bearish
-
-S&P Global said U.S. healthcare was the best-performing sector in May. Consumer goods and materials sectors posted strong output growth, while consumer services activity contracted again.
-
----
-
-### 2026-06-03 21:46:44  #宏觀 #國際
-
-德國經濟部就美國以勞工權益為由出臺關稅措施表態：我們堅持特恩貝里協議。
-
----
-
-### 2026-06-03 21:46:37  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-ALPHABET (GOOG.O): Q1 order-processing speed accelerated sharply; expects to confirm more than 50% of backlog within 24 months.
-
----
-
-### 2026-06-03 21:46:33  #其他
-
-【總投資近65億元 重慶15個綠色低碳環保專案集中籤約】6月3日，在長壽舉行的第二屆重慶綠色低碳環保產業推介會現場，15個重點專案集中籤約，簽約總金額近65億元，涵蓋固廢資源化利用、綠色能源供給、再生資源迴圈、高階綠色製造、智慧市政建設、特色生態產業等多個領域。其中，AI+固廢智慧化全連續低溫熱解技術專案總投資5億元，將在兩江新區建設年處理14萬噸混合廢舊塑膠的低溫無氧熱解樣板工廠，透過自研核心技術將廢塑膠轉化為高價值能源產品，實現無廢水、廢渣、二噁英排放。（上游）
-
----
-
-### 2026-06-03 21:45:22  #經濟數據 #美國
-
-【美國5月標普全球服務業PMI終值50.7 前值50.9】美國5月標普全球服務業PMI終值50.7，前值50.9。
-
----
-
-### 2026-06-03 21:45:21  #資料 #國際
-
-美國5月標普全球服務業PMI終值 50.7，前值50.9；美國5月標普全球綜合PMI終值 51.5，前值51.7。
-
----
-
-### 2026-06-03 21:45:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #S&P500
-
-US May S&P Global Services PMI (final) 50.7, prior 50.9.
-
----
-
-### 2026-06-03 21:45:07  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish
-
-US May S&P Global Composite PMI, final 51.5; prior 51.7.
-
----
-
-### 2026-06-03 21:45:07  #MKT News #Commodities #Energy
-
-Sources said that after maintenance Russia's oil exports to Hungary and Slovakia via the Druzhba pipeline returned to normal in May at 165,000 bpd.
-
----
-
-### 2026-06-03 21:45:05  #國際
-
-訊息人士稱，經德魯日巴輸油管道輸往匈牙利、斯洛伐克的俄羅斯石油在管道維護完成後，已於5月恢復正常，日均輸油量為16.5萬桶。
-
----
-
-### 2026-06-03 21:45:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Tops $97 — Brent crude oil futures rose more than 1% to above $97 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles.
-
----
-
-### 2026-06-03 21:45:00  #MKT News #Economic Calendar #Important
-
-United States | Markit Services PMI Final (May) | actual 50.7 | previous 50.9
-
----
-
-### 2026-06-03 21:45:00  #MKT News #Economic Calendar #Important
-
-United States | Composite PMI Final (May) | actual 51.5 | previous 51.7
-
----
-
-### 2026-06-03 21:44:52  #市場 #焦點
-
-現貨黃金失守4430美元/盎司，日內跌1.30%。
-
----
-
-### 2026-06-03 21:44:52  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Alphabet (GOOG.O): monthly tokens processed across products and platforms reached 3.2 quadrillion; AI Overview monthly active users topped 2.5 billion.
-
----
-
-### 2026-06-03 21:44:51  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-Russell 2000 fell 1.1%.
-
----
-
-### 2026-06-03 21:44:30  #市場 #焦點
-
-紐約期金失守4460美元/盎司，日內跌1.35%。
-
----
-
-### 2026-06-03 21:44:29  #國際
-
-市場訊息： 特朗普擬對貿易伙伴加徵 10%–12.5% 關稅的方案正穩步推進。
-
----
-
-### 2026-06-03 21:44:02  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell $20 intraday to $4,434.72/oz. Spot silver dropped 2.00% intraday to $73.62/oz. New York silver futures slipped below $74/oz, down 2.09% on the day.
-
----
-
-### 2026-06-03 21:44:01  #Trading Economics #Markets #Commodity #Importance 2
-
-WTI Crude Oil Prices Rise for 3rd Session — WTI crude oil futures rose more than 1% to around $95 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles.
-
----
-
-### 2026-06-03 21:43:42  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver most-active contract fell as much as 2.00% intraday, last at 17,836.00 yuan/kg.
-
----
-
-### 2026-06-03 21:43:26  #其他
-
-Meta：推出元商業智慧體，使用者可直接在WhatsApp上更便捷地查詢商家。
-
----
-
-### 2026-06-03 21:43:12  #其他
-
-【京東開源JoyAI-Echo長音影片生成框架】6月3日，京東推出JoyAI-Echo長音影片生成框架。據介紹，框架引入智慧“導演助理”——Director Agent，並內建了一個專門的記憶庫，能在多鏡頭生成過程中，持續儲存並呼叫角色的外觀特徵和說話人音色資訊。JoyAI-Echo的程式碼與權重已全部開源。
-
----
-
-### 2026-06-03 21:43:09  #市場
-
-鈀金期貨日內跌3%，現報1350.45美元/盎司。
 
 ---
