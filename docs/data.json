@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-06 18:45:49",
-  "count": 18802,
+  "updated": "2026-06-06 18:49:36",
+  "count": 18798,
   "items": [
+    {
+      "id": "mkt:019e9c8a-9a07-7665-8312-459a66ca8d71",
+      "time": "2026-06-06 18:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News quoted the Hormozgan provincial government saying Hormuz Port may hear explosions over the next four days as authorities clear unexploded ordnance."
+    },
     {
       "id": "4921247",
       "time": "2026-06-06 18:32:31",
@@ -173485,50 +173497,6 @@
         "MKT News"
       ],
       "text": "【China Rare Earth Group GM Li Zhihui meets Dongfang Electric chairman Luo Qianyi】May 30 in Sichuan, China Rare Earth Group GM Li Zhihui met Dongfang Electric chairman Luo Qianyi to discuss industrial coordination and joint technology development. Both expressed intent to deepen cooperation on new-materials development, frontier-tech joint R&D, rare-earth permanent magnet applications and domestic substitution to help safeguard China’s energy and strategic resource security."
-    },
-    {
-      "id": "4908246",
-      "time": "2026-05-30 18:49:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國海事管理局：霍爾木茲海峽附近海域的船長必須表明其無意駛往伊朗港口。"
-    },
-    {
-      "id": "mkt:019e787f-e40e-7bb7-9969-424b9519744c",
-      "time": "2026-05-30 18:48:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's first green full-stack AI compute platform launches in Hohhot】May 30 — China's first green full-stack AI compute platform went live in the Hohhot area of the Inner Mongolia Free Trade Zone, filling a regional gap by offering the area's first one-stop trading services for compute, models and tokens."
-    },
-    {
-      "id": "4908245",
-      "time": "2026-05-30 18:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼布羅莫火山一車輛發生交通事故 已致2死3傷】5月30日，一輛旅遊吉普車在印尼著名旅遊景區布羅莫火山地區發生交通事故，造成2人死亡、3人受傷。"
-    },
-    {
-      "id": "4908244",
-      "time": "2026-05-30 18:47:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首個綠色算力全棧AI平臺在呼和浩特正式上線】5月30日，全國首個綠色算力全棧AI平臺在內蒙古自貿試驗區呼和浩特片區正式上線執行，填補了區域一站式算力模型詞元綜合服務交易的空白。平臺全面相容國產晶片與主流算力架構，首批接入三大通訊運營商及頭部科技廠商的十餘款主流模型。根據使用者需求，平臺可整合全國接入節點的通算、智算、超算等多元算力資源，透過智慧排程演算法實現算力資源的彈性分配、高效排程、經濟供給，為使用者提供便捷易用、低碳綠色、質優價宜的詞元（Token）交易服務。"
-    },
-    {
-      "id": "4908243",
-      "time": "2026-05-30 18:47:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度稱與越南的布拉莫斯導彈交易已最終敲定。"
     }
   ]
 }
