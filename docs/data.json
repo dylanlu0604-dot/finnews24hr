@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06 22:02:45",
-  "count": 18779,
+  "updated": "2026-06-06 22:06:32",
+  "count": 18781,
   "items": [
+    {
+      "id": "mkt:019e9d41-53d1-7665-8313-0f661823373c",
+      "time": "2026-06-06 22:06:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran delegation: Attacks on nuclear facilities must not be normalized】At a special meeting of the IAEA Board of Governors, Iran's delegation condemned US and Israeli attacks on Iranian nuclear facilities, called for a zero-tolerance policy toward such actions and threats, and warned that normalizing attacks on peaceful nuclear facilities would severely jeopardize the international non-proliferation regime and security."
+    },
+    {
+      "id": "4921308",
+      "time": "2026-06-06 22:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織：剛果（金）和烏干達累計報告471例埃博拉病例】當地時間6日，世界衛生組織公佈的最新資料顯示，截至目前，剛果（金）和烏干達兩國累計報告471例埃博拉病例，其中84人死亡。僅過去一天時間，兩國新增約100例病例和20例死亡病例，疫情蔓延速度引發廣泛關注。"
+    },
     {
       "id": "4921307",
       "time": "2026-06-06 22:00:52",
