@@ -1,7 +1,463 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 15:40:06_
-_本檔包含 4034 則快訊，約 703452 字_
+_更新時間：2026-06-06 16:38:58_
+_本檔包含 4034 則快訊，約 702849 字_
+
+---
+
+### 2026-06-05 04:31:33  #國際
+
+特朗普：將與印度達成相關協議，（美國）與印度關係良好。
+
+---
+
+### 2026-06-05 04:31:24  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (May.29) | actual -32686000000B | previous 12829000000B
+
+---
+
+### 2026-06-05 04:31:17  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #USDJPY
+
+U.S. President Trump said the United States will reach a trade deal with India.
+
+---
+
+### 2026-06-05 04:30:30  #國際
+
+特朗普談及印度貿易協議：沒錯，我們已經敲定了。印度多年來一直在佔美國的便宜。
+
+---
+
+### 2026-06-05 04:28:38  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the US will win both militarily and on paper.
+
+---
+
+### 2026-06-05 04:28:29  #國際
+
+特朗普：人工智慧對醫療行業來說將是巨大的福音。
+
+---
+
+### 2026-06-05 04:28:15  #MKT News #WTI #Impact bearish #Brent
+
+U.S. President Trump, on Iran, said the public will eventually know the agreement's contents and that its main provision is immediate reopening of the strait.
+
+---
+
+### 2026-06-05 04:28:04  #國際
+
+特朗普：無論訴諸軍事手段還是透過紙面協議，我們都將取勝。
+
+---
+
+### 2026-06-05 04:27:44  #國際
+
+特朗普談及伊朗：協議核心條款為（伊朗）不得擁有核武器。
+
+---
+
+### 2026-06-05 04:27:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+US President Trump said the US will take corresponding action against anyone who approaches Iranian nuclear facilities.
+
+---
+
+### 2026-06-05 04:27:19  #國際
+
+特朗普談及伊朗：協議核心內容之一是海峽立即通航。
+
+---
+
+### 2026-06-05 04:27:05  #國際
+
+特朗普談及伊朗：相關協議內容，後續將會揭曉。
+
+---
+
+### 2026-06-05 04:26:32  #MKT News #XAUUSD #Impact bullish #WTI
+
+Trump says the U.S. is using satellites to monitor Iran's nuclear facilities.
+
+---
+
+### 2026-06-05 04:25:06  #國際
+
+特朗普：若能會見伊朗最高領袖，將很榮幸。
+
+---
+
+### 2026-06-05 04:24:31  #MKT News #Commodities #Energy
+
+Asked whether he would seize Iran's uranium stockpile, Trump said he would not repeat the weak stance of former US President Carter.
+
+---
+
+### 2026-06-05 04:24:01  #國際
+
+特朗普：我們有強大的攝像頭監控伊朗的鈾。
+
+---
+
+### 2026-06-05 04:23:02  #MKT News
+
+US President Trump said he has not considered covert operations to seize Iran's uranium and that there is no need to recover Iran's nuclear debris because it is buried.
+
+---
+
+### 2026-06-05 04:22:50  #MKT News
+
+President Trump said he does not want to meet Iran's Supreme Leader, but would do so if necessary to reach an agreement.
+
+---
+
+### 2026-06-05 04:22:22  #國際
+
+特朗普談及伊朗問題：倘若要達成協議，我們可以會面磋商。
+
+---
+
+### 2026-06-05 04:22:06  #國際
+
+特朗普談伊朗：我不想見伊朗最高領袖。
+
+---
+
+### 2026-06-05 04:21:52  #國際
+
+特朗普： 暫不考慮採取秘密行動奪取伊朗鈾原料。沒有理由去獲取伊朗的核塵埃，它已經被掩埋。
+
+---
+
+### 2026-06-05 04:21:08  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+President Trump said the US does not need a deal with Iran and can obtain Iran's enriched uranium.
+
+---
+
+### 2026-06-05 04:21:05  #MKT News
+
+U.S. Treasury said on its website it has sanctioned Cuban President Miguel Díaz.
+
+---
+
+### 2026-06-05 04:20:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said the United States will take control of Iran's nuclear stockpile.
+
+---
+
+### 2026-06-05 04:20:15  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Trump says an agreement is likely to be reached to ensure Iran remains free of nuclear weapons.
+
+---
+
+### 2026-06-05 04:19:52  #國際
+
+特朗普談及伊朗： 我們不必透過和伊朗簽署協議，就能拿到伊朗的濃縮鈾。
+
+---
+
+### 2026-06-05 04:18:53  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Dow Closes at New High — The Dow Jones surged 875 points on Thursday to close at a record high, while the S&P 500 gained 0.4%. The Nasdaq underperformed, edging 0.1% lower as investors rotated out of technology stocks and into other sectors. Health care, financials, communication services, and real estate led the market higher. Notable gainers included JPMorgan Chase (+3.3%), Visa (+2.5%), Johnson & Johnson (+4.6%), UnitedHealth Group (+5.2%), and Goldman Sachs (+4.9%). In contrast, tech stocks were the weakest performers. Broadcom plunged 12.6% as its forecast for AI-chip revenue fell short of most expectations. Advanced Micro Devices and Micron Technology also declined, falling 3.6% and 7.7%, respectively. Meanwhile, investors continued to monitor developments in the Middle East. Reports of a conditional ceasefire between Israel and Lebanon raised hopes that a broader agreement involving Iran could be reached, contributing to a decline in oil prices.
+
+---
+
+### 2026-06-05 04:18:45  #MKT News
+
+【Switzerland to deploy about 4,000 troops to border during G7 summit in France】Swiss federal government said on June 4 it will deploy about 4,000 armed forces personnel to border areas near the G7 summit venue. The G7 and several other leaders will meet June 15-17 in Evian-les-Bains on the French shore of Lake Geneva; the venue’s proximity to Switzerland has strained cantonal security in Geneva, Vaud and Valais. The Federal Council and parliament approved the troop reinforcement to support cantonal security forces.
+
+---
+
+### 2026-06-05 04:18:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US Energy Secretary Wright said Democrats' green-energy policies pose a greater threat to US energy prices than the Iran conflict and have pushed energy costs far more than that dispute.
+
+---
+
+### 2026-06-05 04:18:02  #公司
+
+【瑞士將在G7法國峰會期間向毗鄰邊境派兵四千】瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。 瑞士政府說，6月15日至17日，七國集團成員及其他一些國家的領導人將在日內瓦湖南岸的埃維昂萊班（又稱依雲小鎮）舉行會議。由於會址位於瑞士邊境附近，日內瓦州、沃州和瓦萊州三州的州級安全部隊面臨著嚴峻挑戰，瑞士聯邦委員會和議會為此批准增派軍隊支援。 瑞士政府說，軍事人員將在會議期間負責保護日內瓦機場等敏感基礎設施，併為邊境安全提供支援。空軍將加強空中警戒力量，並在國際合作下，在6月10日13時至18日3時執行空域限制措施，包括部署反無人機系統。 法國埃維昂萊班與位於日內瓦湖北岸、素有“奧林匹克之都”稱號的瑞士洛桑隔湖相望。洛桑與日內瓦相距僅60餘公里。2003年，八國集團峰會在埃維昂萊班舉行時，日內瓦和洛桑發生嚴重騷亂。(新華社)
+
+---
+
+### 2026-06-05 04:17:53  #國際
+
+特朗普：我們會得到伊朗的核塵埃。
+
+---
+
+### 2026-06-05 04:17:39  #國際
+
+特朗普：（被問及在處理伊朗問題時是否考慮了美國國內的反應）不，我只是做我認為正確的事。
+
+---
+
+### 2026-06-05 04:17:32  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+U.S. President Trump reiterated that negotiations with Iran are progressing smoothly.
+
+---
+
+### 2026-06-05 04:16:48  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President Trump, asked whether he had considered domestic reaction in handling Iran, said he had not and was just doing what he thought was right.
+
+---
+
+### 2026-06-05 04:16:29  #國際
+
+特朗普：與內塔尼亞胡談了黎巴嫩問題。
+
+---
+
+### 2026-06-05 04:16:19  #國際
+
+特朗普稱伊朗相關談判進展順利。
+
+---
+
+### 2026-06-05 04:16:14  #國際
+
+美國能源部長賴特：委內瑞拉石油出口相比美軍強行擄走總統馬杜羅時高出三倍。
+
+---
+
+### 2026-06-05 04:15:48  #國際
+
+特朗普：若我們達成協議，伊朗就不會擁有核武器。
+
+---
+
+### 2026-06-05 04:15:14  #國際
+
+特朗普重申伊朗不能擁有核武器。
+
+---
+
+### 2026-06-05 04:15:09  #MKT News
+
+President Trump on Iran: They cannot have nuclear weapons.
+
+---
+
+### 2026-06-05 04:14:40  #MKT News
+
+U.S. President Trump said that without U.S. military support, Ukraine would be unable to continue fighting.
+
+---
+
+### 2026-06-05 04:14:02  #國際
+
+特朗普談及委內瑞拉：雙邊關係進展喜人。
+
+---
+
+### 2026-06-05 04:13:48  #國際
+
+美國對古巴總統實施制裁。
+
+---
+
+### 2026-06-05 04:13:35  #MKT News
+
+U.S. President Trump said he believes progress has been made on Lebanon.
+
+---
+
+### 2026-06-05 04:13:17  #國際
+
+特朗普談及黎巴嫩：認為相關事態取得了進展。
+
+---
+
+### 2026-06-05 04:13:08  #MKT News
+
+US President Trump said he had communicated with Hezbollah on Lebanon.
+
+---
+
+### 2026-06-05 04:13:02  #國際
+
+特朗普：以色列-黎巴嫩衝突與伊朗問題息息相關。
+
+---
+
+### 2026-06-05 04:12:50  #國際
+
+特朗普談及黎巴嫩：黎巴嫩若能迎來和平，對該國而言是件好事。
+
+---
+
+### 2026-06-05 04:12:50  #MKT News
+
+President Trump said Iran still has some missiles remaining, but the number is small.
+
+---
+
+### 2026-06-05 04:12:46  #MKT News
+
+U.S. President Trump said he expects developments in Lebanon and that some peace there would be a good thing.
+
+---
+
+### 2026-06-05 04:12:37  #國際
+
+特朗普：真主黨主動聯絡了我們。
+
+---
+
+### 2026-06-05 04:12:28  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Trump on Iran: If they kill US forces, that would be sufficient justification to restart hostilities.
+
+---
+
+### 2026-06-05 04:12:12  #國際
+
+特朗普：倘若伊朗造成美軍人員陣亡，那便是重啟衝突的正當理由。
+
+---
+
+### 2026-06-05 04:12:07  #MKT News #Market Regions #Wall Street (US) #Market Themes #The Trump Trade #FNMA.O #Impact bullish #FMCC.O
+
+Fannie Mae and Freddie Mac shares rose 6% on the U.S. OTC market; Trump said the firms could be worth as much as $1 trillion.
+
+---
+
+### 2026-06-05 04:12:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said on Iran that all 159 of their ships have sunk to the seabed and that we have photographed them there.
+
+---
+
+### 2026-06-05 04:11:48  #國際
+
+特朗普：伊朗還剩少量導彈，但所剩無幾。
+
+---
+
+### 2026-06-05 04:10:56  #國際
+
+特朗普：倘若沒有美國的軍事援助與裝備，烏克蘭無法作戰。
+
+---
+
+### 2026-06-05 04:09:41  #MKT News
+
+President Trump said you can face roughly four years' imprisonment in the U.S. for killing a bald eagle, yet wind turbines frequently knock them from the air with no consequences; he called that shameful.
+
+---
+
+### 2026-06-05 04:09:19  #MKT News
+
+Labour leader Burnham said he would stand in a Labour leadership contest to try to replace Keir Starmer as UK prime minister if a former cabinet minister mounts an internal challenge.
+
+---
+
+### 2026-06-05 04:09:13  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+US money market fund assets reached a record $7.894 tln.
+
+---
+
+### 2026-06-05 04:08:48  #國際
+
+特朗普：已拍攝下被擊沉的伊朗艦船照片。
+
+---
+
+### 2026-06-05 04:08:15  #國際
+
+特朗普重申，伊朗既沒有海軍，也沒有空軍。
+
+---
+
+### 2026-06-05 04:07:56  #國際
+
+特朗普：我們幾乎剷除了伊朗所有領導層。
+
+---
+
+### 2026-06-05 04:07:51  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said the US does not need Europe's help in the Strait of Hormuz.
+
+---
+
+### 2026-06-05 04:07:11  #MKT News #LULU.O #Impact bullish
+
+Lululemon (LULU.O) Q1 revenue $2.50 bln, above IBES consensus $2.43 bln.
+
+---
+
+### 2026-06-05 04:07:03  #公司 #國際
+
+美國投資公司協會（ICI）：美國貨幣市場資產7.894萬億美元，創歷史新高。
+
+---
+
+### 2026-06-05 04:06:44  #國際
+
+特朗普：霍爾木茲海峽問題不需要歐洲的幫助。
+
+---
+
+### 2026-06-05 04:05:58  #其他
+
+DocuSign預計二季度營收8.65億-8.69億美元，分析師預期8.66億美元。
+
+---
+
+### 2026-06-05 04:05:33  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact bearish
+
+U.S. equity close, June 4 (Thursday): Dow Jones Industrial Average +875.05 points (1.73 pct) to 51,562.12; S&P 500 +30.65 points (0.41 pct) to 7,584.33; Nasdaq Composite -23.02 points (0.09 pct) to 26,830.96.
+
+---
+
+### 2026-06-05 04:05:22  #其他
+
+Lululemon給出本財年淨營收指引區間 110 億至 111.5 億美元，此前指引為 113.5 億至 115 億美元。
+
+---
+
+### 2026-06-05 04:03:50  #MKT News
+
+US President Trump said on the Ukraine conflict that they need to make some compromises.
+
+---
+
+### 2026-06-05 04:03:17  #市場
+
+KBW銀行指數收盤上漲3.7%，創2月份以來最高。
+
+---
+
+### 2026-06-05 04:02:56  #國際
+
+特朗普：普京與澤連斯基雙方都將做出妥協。
+
+---
+
+### 2026-06-05 04:02:42  #MKT News
+
+Trump said PULTE's appointment as acting director of national intelligence is a short-term arrangement and that he could be highly effective in the near term.
+
+---
+
+### 2026-06-05 04:02:31  #公司
+
+黑石集團收漲7.5%，創2025年4月份以來最大單日漲幅。
+
+---
+
+### 2026-06-05 04:02:21  #MKT News #Commodities #Energy
+
+Investors' demand for clarity on Venezuela's measures to revive its oil-rich economy and restructure debt has prompted JP Morgan and Jefferies to arrange fact‑finding visits to Caracas. Jefferies executives visited this week and are considering a return in the coming weeks; JP Morgan is working to schedule a trip and may bring clients.
 
 ---
 
@@ -23824,461 +24280,5 @@ Al Arabiya cited a US source saying the next few hours will be decisive for Leba
 ### 2026-06-03 22:21:17  #公司 #資料 #市場 #國際
 
 【ISM：美國5月服務業活動繼續擴張】美國供應管理協會（ISM）調查發現，美國服務業活動在5月份的增長超過預期。5月ISM服務業PMI為54.5，而4月份為53.6。新訂單指數上月繼續擴張。與此同時，供應商交貨指數較4月份有所下降。該指數已是連續第18個月處於擴張區間，這表明供應商交貨速度放緩。價格指數升至2022年8月以來的最高水平。5月份，柴油、汽油、石油和相關大宗商品再次成為最常被提及價格上漲的品類。與此同時，就業指數連續第三個月萎縮。ISM主席史蒂夫·米勒表示：“受訪者頻頻表示，所在公司已凍結招聘或不再填補空缺職位，但大多數行業報告稱，月度就業人數保持平穩。”。
-
----
-
-### 2026-06-03 22:21:17  #MKT News
-
-U.S. Treasury Secretary Bessent said the government cancels 129 rules for every one new rule it adds.
-
----
-
-### 2026-06-03 22:21:05  #MKT News
-
-Israeli Prime Minister NETANYAHU said many armed personnel targeting Israel are based in Beirut.
-
----
-
-### 2026-06-03 22:20:50  #其他
-
-日產：可能計劃在2027財年在其工廠生產奇瑞汽車。
-
----
-
-### 2026-06-03 22:20:36  #國際
-
-內塔尼亞胡談及真主黨：許多針對以色列的襲擊者都身在貝魯特。
-
----
-
-### 2026-06-03 22:20:24  #國際
-
-以色列總理內塔尼亞胡：需要對黎巴嫩進行非軍事化。
-
----
-
-### 2026-06-03 22:20:22  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli Prime Minister Netanyahu said Lebanon needs to be demilitarized.
-
----
-
-### 2026-06-03 22:20:18  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Rubio, US secretary of state, said the US government considers Iran possessing nuclear weapons a more serious problem.
-
----
-
-### 2026-06-03 22:20:09  #其他
-
-日產：桑德蘭工廠仍將由日產全資擁有。
-
----
-
-### 2026-06-03 22:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-U.S. EIA weekly crude inventory, Cushing hub crude stocks and Strategic Petroleum Reserve levels for the week to May 29 due in 10 minutes.
-
----
-
-### 2026-06-03 22:20:02  #MKT News
-
-Netanyahu said Trump has voiced positive comments about Netanyahu's judicial trial.
-
----
-
-### 2026-06-03 22:19:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-American Express Stock Price Hits 8-week Low — American Express shares decreased to 302.89 USD, the lowest since April 2026. Over the past 4 weeks, American Express lost 4.91%, and in the last 12 months, it increased 2.57%.
-
----
-
-### 2026-06-03 22:19:36  #國際
-
-魯比奧：政府認為擁有核武器的伊朗更糟糕。
-
----
-
-### 2026-06-03 22:19:28  #MKT News
-
-U.S. Secretary of State Rubio said Trump is aware of the economic consequences of a war with Iran.
-
----
-
-### 2026-06-03 22:19:20  #國際
-
-以色列總理內塔尼亞胡：特朗普是以色列在白宮“最偉大的朋友”。
-
----
-
-### 2026-06-03 22:19:18  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY #Impact mixed
-
-US Treasury Secretary Bessent said Trump's tax reform bill avoided more than $5 tln of tax increases.
-
----
-
-### 2026-06-03 22:19:12  #國際
-
-魯比奧：特朗普知悉伊朗戰爭的經濟後果。
-
----
-
-### 2026-06-03 22:19:09  #MKT News
-
-Netanyahu said Trump is Israel's "greatest friend in the White House."
-
----
-
-### 2026-06-03 22:19:03  #公司
-
-【巴克萊質疑“SaaS末日論”：AI收入增長或主要來自勞動力市場】過去一年，華爾街關於人工智慧（AI）最流行的投資邏輯之一，就是所謂的“SaaS末日論”。隨著ChatGPT、Claude等大模型快速普及，越來越多投資者開始擔心，傳統軟體公司賴以生存的軟體訂閱模式將被AI取代。無論是程式碼開發、客服管理還是企業辦公，越來越多工作正在由AI完成，市場甚至出現了“軟體將成為AI的附屬品”的觀點。然而，巴克萊在其最新研報中指出，從目前AI行業已經達到的收入規模來看，這套邏輯解釋不通。僅靠蠶食軟體市場遠遠無法支撐AI的增長。AI真正爭奪的物件，或許並不是軟體預算，而是規模更大的勞動力預算。
-
----
-
-### 2026-06-03 22:18:58  #國際
-
-以色列總理內塔尼亞胡：與特朗普的關係沒有變化。需要找到從伊朗獲取核材料的方法。
-
----
-
-### 2026-06-03 22:18:44  #國際
-
-貝森特：特朗普稅改法案避免了超 5 萬億美元的增稅落地。
-
----
-
-### 2026-06-03 22:18:34  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
-
-Prime Minister Netanyahu said Israel needs to find ways to obtain nuclear material from Iran.
-
----
-
-### 2026-06-03 22:18:22  #MKT News #Market Themes #The Trump Trade
-
-Israeli Prime Minister Netanyahu said his relationship with Trump has not changed.
-
----
-
-### 2026-06-03 22:18:12  #MKT News
-
-Israeli Prime Minister NETANYAHU said tactical differences sometimes arise, but they will be resolved.
-
----
-
-### 2026-06-03 22:18:02  #MKT News #Important
-
-Israeli Prime Minister NETANYAHU said he and Trump have reached agreement on key issues concerning Iran.
-
----
-
-### 2026-06-03 22:17:52  #國際
-
-以色列總理內塔尼亞胡：希望關注伊朗核計劃。
-
----
-
-### 2026-06-03 22:17:44  #其他
-
-內塔尼亞胡：我們有時會存在戰術分歧，但我們會解決這些分歧。
-
----
-
-### 2026-06-03 22:17:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Israeli Prime Minister Netanyahu said attention should be focused on Iran's nuclear program.
-
----
-
-### 2026-06-03 22:17:43  #MKT News
-
-Israel's prime minister Netanyahu said he will not elaborate on comments Trump made during their phone call.
-
----
-
-### 2026-06-03 22:17:24  #公司 #市場
-
-【機構：本週儲存現貨行情暫時平穩，但需求端延續疲軟難有改觀】在經歷原廠合約價連續兩季度大幅攀升之後，原廠業績和股價接連屢創歷史紀錄，三星、SK海力士與美光市值均已突破1萬億美元大關，尤其三星已躋身全球市值前十行列。而今年下半年，在AI算力需求的絕對主導下，儲存漲價的核心驅動力依然強勁，加上原廠錨定與核心客戶簽訂未來幾年的長期供貨協定，盈利可預見性大增，原廠經營利潤將再上新臺階。儘管受制於儲存成本徒增、終端產品定價走高、品牌競爭加劇等多重因素，下半年手機、PC等應用市場需求進一步轉弱在所難免，但伺服器市場需求具備很強的剛性支撐，下半年儲存價格仍有一定的上漲動能，手機、PC儲存價格被動跟漲，漲幅逐季縮窄，整體呈現量縮價漲趨勢。（CFM快閃記憶體市場）
-
----
-
-### 2026-06-03 22:17:24  #國際
-
-以色列總理內塔尼亞胡：我與特朗普在伊朗問題的核心議題上意見一致。
-
----
-
-### 2026-06-03 22:17:17  #公司
-
-【中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖接受審查調查】據中國鐵路青藏集團有限公司紀委、西寧市湟中區監委訊息：中國鐵路青藏集團有限公司原總工程師兼供電部部長李巖涉嫌嚴重違紀違法，目前正接受中國鐵路青藏集團有限公司紀委紀律審查和西寧市湟中區監委監察調查。
-
----
-
-### 2026-06-03 22:17:11  #其他
-
-巴西總統盧拉：已決定出席G7峰會。
-
----
-
-### 2026-06-03 22:17:02  #MKT News
-
-Brazilian President Lula has decided to attend the G7 summit.
-
----
-
-### 2026-06-03 22:16:58  #MKT News
-
-Williams said the Federal Reserve does not have groupthink.
-
----
-
-### 2026-06-03 22:16:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Williams said the Fed does not plan to change public speaking arrangements under the new leadership.
-
----
-
-### 2026-06-03 22:16:50  #其他
-
-巴西總統盧拉：任何尋求關鍵礦產的人都必須與巴西政府對話。
-
----
-
-### 2026-06-03 22:16:42  #Trading Economics #Markets #commodity #Importance 0
-
-Wheat Hits 6-week Low — Wheat decreased to 595.00 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Wheat lost 5.34%, and in the last 12 months, it increased 9.69%.
-
----
-
-### 2026-06-03 22:16:36  #央行 #國際
-
-美聯儲威廉姆斯：美聯儲內部不存在群體盲從思維。
-
----
-
-### 2026-06-03 22:16:20  #MKT News
-
-Brazilian President Lula said any party seeking critical minerals must engage in talks with the Brazilian government.
-
----
-
-### 2026-06-03 22:16:13  #央行 #國際
-
-美聯儲威廉姆斯：在美聯儲新一屆領導層任職期間，我不計劃改變公開講話的工作安排。
-
----
-
-### 2026-06-03 22:15:27  #央行 #國際
-
-美聯儲威廉姆斯表示：沃什在當前充滿挑戰的時期非常專注於自身工作。
-
----
-
-### 2026-06-03 22:15:18  #MKT News #Brent #Impact bullish #WTI
-
-Rubio: Disagreements between Saudi Arabia and the UAE complicate U.S. efforts in Sudan.
-
----
-
-### 2026-06-03 22:15:16  #國際
-
-魯比奧：沙烏地阿拉伯和阿聯酋之間的分歧使美國在蘇丹問題上的努力變得更加複雜。
-
----
-
-### 2026-06-03 22:15:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Williams said Fed Chair Kevin Warsh is highly focused on his work amid a challenging period.
-
----
-
-### 2026-06-03 22:15:09  #其他
-
-【群聯潘健成：2027年儲存缺貨將比今年更嚴重】群聯執行長潘健成在近日採訪中表示，隨著AI資料中心、地端AI和AI PC逐步落地，儲存需求將持續擴大。目前產業最大問題已不是需求，而是供給無法滿足日益增長的需求。針對AI驅動的儲存需求增長，潘健成表示，全球AI使用者規模還在持續擴張，未來使用頻率同樣會迎來跨越式增長。現階段多數使用者每兩小時問一次AI，預計兩年之後單次使用間隔或將壓縮至十分鐘。當下人機互動大多依託文字內容實現，往後應用場景會逐步向影像和多模態應用發展，推動Token與各類資料量規模呈倍數增長。潘健成也指出，AI的發展一定需要DRAM和NAND Flash，且AI模型規模越大，對儲存容量需求也越高。企業投入大量資金購置GPU後，創造收入就會產生資料，即推動儲存需求。雖然各大原廠都持續擴充產能，但新增的產能仍遠追不上需求成長。預計供需吃緊的狀態短期內難以緩解，明年儲存缺貨情況將比今年更嚴重。
-
----
-
-### 2026-06-03 22:15:04  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams said core inflation still faces some downward pressure.
-
----
-
-### 2026-06-03 22:14:53  #國際
-
-巴西總統盧拉：如果美國不願購買巴西產品，我們將尋找其他貿易伙伴。
-
----
-
-### 2026-06-03 22:14:53  #Trading Economics #Economy #United States #Factory Orders #Importance 1
-
-US Durable Goods Orders Rise Most in 11 Months — US factory order surged 4.8% from the previous month to $662.7 billion in April of 2026, ahead of market expectations of 4.6% and extending the upwardly revised 1.8% increase in March, the most in 11 months. Durable goods orders jumped by 8% to $346.2 billion, aliging with results from comparable surveys as clients had front-loaded orders before the war in the Middle East could incrase prices further. Orders were higher for transportation (21.6% to $131.1 billion) due to a surge in nondefense aircraft orders (165.9% to $36.79 billion). Orders also rose for fabricated metal products (3.5% to $44.5 billion) and primary metals (2% to $29.5 billion). In turn, orders fell for computers and electronics (-0.7% to $29.7 billion). Nondurable goods orders rose by 1.4% to $316.5 billion.
-
----
-
-### 2026-06-03 22:14:50  #MKT News
-
-Brazilian President Lula said he will write again to U.S. President Trump and show them they are wrong.
-
----
-
-### 2026-06-03 22:14:41  #國際
-
-盧拉：我會讓特朗普知道他們錯了。
-
----
-
-### 2026-06-03 22:14:34  #央行 #國際
-
-美聯儲威廉姆斯：預計明年通脹將降低。我們距離中性利率並不遠。
-
----
-
-### 2026-06-03 22:14:31  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams said policymakers are not far from the neutral policy rate.
-
----
-
-### 2026-06-03 22:14:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-Fed's Williams expects inflation to ease next year.
-
----
-
-### 2026-06-03 22:14:20  #央行 #國際
-
-美聯儲威廉姆斯：債券市場在政策觀點的判斷上非常依賴資料。
-
----
-
-### 2026-06-03 22:14:19  #MKT News
-
-US Secretary of State Rubio said he hopes the Israel-Lebanon meeting on Wednesday will produce a joint statement and an action plan.
-
----
-
-### 2026-06-03 22:14:13  #MKT News #RIVN.O #Impact bullish
-
-RIVIAN (RIVN.O) shares rose about 5% after AT&T said it will provide 5G connectivity for the R2 model.
-
----
-
-### 2026-06-03 22:14:12  #公司 #市場 #國際
-
-美國電動汽車公司Rivian(RIVN.O)股價上漲至5%，AT&T正在為R2車型提供5G連線服務。
-
----
-
-### 2026-06-03 22:14:09  #國際
-
-盧拉：美國必須尊重巴西的選舉，就像我們尊重他們的一樣。
-
----
-
-### 2026-06-03 22:13:57  #國際
-
-盧拉：我會再給特朗普寫一封信。
-
----
-
-### 2026-06-03 22:13:48  #國際
-
-魯比奧：希望週三的以色列-黎巴嫩會談能達成聯合宣告與行動計劃。
-
----
-
-### 2026-06-03 22:13:39  #其他
-
-【世衛組織總幹事呼籲建立長期醫療防禦機制 應對埃博拉疫情】世界衛生組織總幹事譚德塞在新聞釋出會上強調，控制埃博拉疫情只是時間問題，但真正的成功應在於預防未來的疫情。譚德塞表示，世衛組織在全力應對當前疫情的同時，將致力於協助當地政府建設和完善長期的醫療與人道主義服務體系，打破“頭痛醫頭”的迴圈。世衛組織5月17日宣佈，剛果（金）和烏干達出現的埃博拉疫情構成“國際關注的突發公共衛生事件”。本輪疫情由本迪布焦型埃博拉病毒引起，目前尚無獲批疫苗和特異性治療方法。
-
----
-
-### 2026-06-03 22:13:37  #市場 #央行 #國際
-
-【分析師：加息押注和美國經濟增長走強提振美元】施羅德投資分析師在一份報告中表示，在富有韌性的美國經濟增長以及對美聯儲將加息的預期不斷升溫的支撐下，美元前景有所改善。“儘管長期結構性擔憂依然存在，但相對更強勁的美國經濟增長和更高的利率差繼續在戰術上支撐該貨幣兌發達市場同行的表現。“施羅德投資將其對美元的看法從負面上調至中性。DXY美元指數上漲0.2%，至99.491的一週高點，在好於預期的ADP私營部門就業人數報告發布後擴大漲幅。
-
----
-
-### 2026-06-03 22:13:15  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed
-
-Federal Reserve's Williams said the bond market is highly data-dependent in forming views on policy.
-
----
-
-### 2026-06-03 22:12:52  #央行 #國際
-
-美聯儲威廉姆斯：對未來利率沒有明顯的方向。不認為前瞻指引特別有幫助。貨幣政策略顯緊縮。債券市場必須對貨幣政策得出自己的結論。
-
----
-
-### 2026-06-03 22:12:49  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y
-
-Fed's Williams said the bond market must draw its own conclusions about monetary policy.
-
----
-
-### 2026-06-03 22:12:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said if conditions change the Fed will need to respond.
-
----
-
-### 2026-06-03 22:12:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-Federal Reserve's Williams said monetary policy is slightly restrictive.
-
----
-
-### 2026-06-03 22:11:58  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said he does not think forward guidance is particularly helpful.
-
----
-
-### 2026-06-03 22:11:49  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Williams said there is no clear direction for future interest rates.
-
----
-
-### 2026-06-03 22:11:45  #MKT News #Market Themes #The Trump Trade
-
-Brazilian President Lula said a recent meeting with US President Trump left him believing relations are improving and that he was surprised by a tariff proposal.
-
----
-
-### 2026-06-03 22:11:38  #其他
-
-加拿大文化部長：現在不是讓文化和娛樂變得更昂貴的時候。新的線上流媒體規則可能會導致家庭成本上升。
-
----
-
-### 2026-06-03 22:11:23  #MKT News
-
-Canada's culture minister said now is not the time to make culture and entertainment more expensive, warning new online streaming rules could raise household costs.
-
----
-
-### 2026-06-03 22:11:15  #國際
-
-盧拉：與美國的貿易談判尚未結束。
-
----
-
-### 2026-06-03 22:11:03  #其他
-
-加拿大文化部長要求廣播監管機構重新審查線上流媒體決定。
-
----
-
-### 2026-06-03 22:11:01  #MKT News
-
-Canada's culture minister has asked the broadcasting regulator to re-examine its decision on online streaming.
-
----
-
-### 2026-06-03 22:10:59  #公司 #國際
-
-【兩萬名40多歲中年人，高風險槓桿爆炒三星、SK海力士，人均投資22萬元】據韓聯社3日訊息，在持有三星電子和SK海力士單隻股票的槓桿ETF投資者中，40多歲的投資者成為最大群體，無論是在人數還是總投資額方面，均遙遙領先。 報道稱，一項分析顯示，透過彙總韓國投資證券、三星證券、KB證券和NH投資證券四大韓國主要券商的資料，對14種個股槓桿產品（不含兩種做空/反向產品）在為期四個交易日（5月27日至6月1日）內的投資者情況及投資金額進行統計。結果顯示，共有70850名投資者參與，總投資額達3.2755萬億韓元（約合人民幣145.43億元），人均投資金額為4623萬韓元（約合人民幣20.57萬元）。在這一總數中，40歲年齡段的投資者人數最多，為20489人，佔比28.9%。該年齡段投資者的總投資額也高達1.0225萬億韓元（約合人民幣45.50億元），佔比31.2%居於首位。（中新經緯）
 
 ---
