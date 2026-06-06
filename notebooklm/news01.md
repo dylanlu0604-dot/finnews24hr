@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 03:45:38_
-_本檔包含 3675 則快訊，約 701739 字_
+_更新時間：2026-06-07 04:26:51_
+_本檔包含 3677 則快訊，約 702123 字_
+
+---
+
+### 2026-06-07 04:23:45  #公司 #國際
+
+美國銀行維持英偉達買入評級，在與公司管理層溝通後，將目標價定為350美元。
+
+---
+
+### 2026-06-07 04:23:03  #國際
+
+【美以伊戰爭爆發100天】今天（6月7日），是美以伊戰爭爆發第100天。自今年2月28日美國和以色列大規模空襲伊朗、伊朗展開反擊開始，激烈的軍事衝突持續了40天。儘管隨後臨時停火協議達成，美國與伊朗在巴基斯坦的斡旋下舉行了首輪談判，但截至目前，第二輪談判遲遲未能舉行。據在伊朗的總檯記者觀察，當前伊美之間圍繞談判分歧仍存，且雙方之間始終缺乏互信。而以色列升級黎巴嫩局勢、攪局談判，以及伊美之間圍繞霍爾木茲海峽的軍事摩擦頻繁發生，都使和平前景愈發不明朗。接下來美以伊是實現真正的和平，還是會爆發新一輪衝突？都是未知數。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 04:17:49  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+【ECB set to raise rates 25bp next week, leading G7 response to Iran-war inflation】With the Iran war fuelling global inflation, the ECB is expected to raise policy rates by 25bp next week, making it the first major G7 central bank to tighten. Markets price at least one further hike this year. By contrast, the BOC may hold, and the Fed and BoE are seen likely to remain on hold this month as they assess the conflict’s impact. ECB officials say the move aims to prevent inflation becoming entrenched, but further tightening will weigh on an already-weak euro-area economy. ECB President Lagarde may signal next steps at the post-decision press conference. The ECB will publish quarterly economic projections that model alternative energy-shock scenarios.
+
+---
+
+### 2026-06-07 04:17:35  #國際
+
+沙烏地阿拉伯譴責以色列持續對黎巴嫩發動襲擊。
+
+---
+
+### 2026-06-07 04:17:23  #公司
+
+捷藍航空執行長在里約舉行的國際航空運輸協會年會上表態，對於行業整合一事，一切皆有可能。
+
+---
+
+### 2026-06-07 04:14:12  #國際
+
+以色列摩薩德一名前高層官員透露，以色列曾制定一份多階段行動計劃，該計劃原本有望推翻伊朗現政權。但在美國決定結束戰事之後，這份方案在收尾階段被叫停。 他稱計劃的部分環節已付諸實施，並期待後續階段最終能獲批推進。
+
+---
+
+### 2026-06-07 04:03:26  #央行 #國際
+
+【歐洲央行領跑G7鷹派陣營 加息箭在弦上】歐元區即將迎來加息，歐洲央行由此成為伊朗戰爭引發全球緊縮浪潮的先鋒。市場預計該行下週四將加息25個基點，這將是當前最引人注目的政策動作 —— 發達經濟體中，此前僅澳大利亞、挪威等小型央行採取過類似舉措。美國總統特朗普對伊朗發動軍事打擊，引發能源價格劇烈震盪。歐洲央行此舉旨在遏制2023年以來最高通脹率固化風險。
+
+---
+
+### 2026-06-07 04:03:06  #MKT News #WTI #Impact bearish #Brent
+
+【Pakistan interior minister arrives in Tehran to mediate Iran–US tensions】Pakistan Interior Minister Naqvi arrived in Tehran on the 6th and is expected to hold talks with Iranian officials. The visit is aimed at mediating and easing tensions between Iran and the United States; Naqvi is scheduled to meet Foreign Minister Abbas Araghchi on the 7th.
+
+---
+
+### 2026-06-07 04:02:17  #MKT News #Market Regions #Emerging Markets
+
+【Iran, Pakistan interior ministers meet; agree to raise annual trade target to $10bln】On the evening of the 6th local time, Iranian Interior Minister Momeni met visiting Pakistani Interior Minister Nakevi. Momeni said the visit will focus on bilateral issues including border security, counternarcotics and counterterrorism, and that both sides agreed to raise annual bilateral trade from $3bln to $10bln. Momeni said Iran welcomes Pakistan’s positive role in easing Iran‑US tensions. Nakevi said Iran and Pakistan have brotherly ties and delivered a special letter to Iran’s Supreme Leader from Pakistan’s army chief Munir and Prime Minister Sharif; he added, I consider this message very important. I hope everything goes smoothly and the crisis ends soon.
+
+---
+
+### 2026-06-07 04:02:14  #國際
+
+【俄國防部稱13小時內攔截並擊落300多架烏無人機】俄羅斯國防部6日晚間通報稱，當地時間7時至20時，俄防空系統在別爾哥羅德州、布良斯克州和莫斯科州等多個地區攔截並擊落339架烏克蘭無人機。（新華社）
+
+---
+
+### 2026-06-07 03:59:50  #國際
+
+【伊朗與巴基斯坦兩國內政部長會面 討論地區局勢等問題】當地時間6日晚，伊朗內政部長莫梅尼會見了到訪的巴基斯坦內政部長納克維。莫梅尼表示，巴基斯坦內政部長此次訪問的部分內容將聚焦雙邊問題，包括邊境安全、禁毒和反恐。此外，雙方在經濟領域決定將兩國間的年度貿易額從30億美元提高到100億美元。莫梅尼稱，伊朗讚賞巴基斯坦在緩和伊朗與美國緊張關係方面發揮的積極作用。納克維表示，伊朗和巴基斯坦有著兄弟般的關係，希望在巴基斯坦官員的努力下，地區危機能夠儘快結束。本次訪問是為了向伊朗最高領袖穆傑塔巴遞交巴基斯坦陸軍參謀長穆尼爾和總理謝里夫關於當前局勢的特別信函。納克維提到，“我認為這條資訊非常重要。希望一切順利，危機早日結束。”（央視新聞）
+
+---
+
+### 2026-06-07 03:57:26  #國際
+
+以色列通報北部地區發現敵方飛行器入侵。
+
+---
+
+### 2026-06-07 03:56:58  #國際
+
+【伊朗已故最高領袖的前顧問：伊朗絕不會放棄核計劃】伊朗已故最高領袖前顧問穆罕默德・賈瓦德・拉里賈尼表示，伊朗無需巴基斯坦出面斡旋伊美關係，伊朗議會議長卡利巴夫此次前往伊斯蘭堡是一次代價慘重的失誤。拉里賈尼稱：“巴基斯坦總理為人友善，但我們並不需要他從中撮合伊美談判，他應當認清斡旋的邊界。倘若伊朗有意與美方對話，我們會自行推進，無需第三方調停。”現任伊朗基礎科學研究院院長的拉里賈尼還表示，民眾大可放心，伊朗絕不會放棄本國核計劃。
+
+---
+
+### 2026-06-07 03:52:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【IDF says two soldiers killed during operations in southern Lebanon】The Israel Defense Forces said on the 6th that two soldiers recently died while operating in southern Lebanon. A captain wounded in a Hezbollah drone strike on the night of the 4th died in hospital on the morning of the 6th. Separately, a soldier died on the 5th from an apparent accidental weapons discharge while on duty in southern Lebanon.
+
+---
+
+### 2026-06-07 03:51:42  #國際
+
+【以軍稱兩名士兵在黎巴嫩南部執行任務期間死亡】當地時間6日，以色列國防軍證實，有兩名以軍士兵近日在黎巴嫩南部執行任務期間死亡。以軍稱，一名以軍上尉此前在4日夜間遭真主黨無人機襲擊受重傷，被送醫後於6日早晨不治身亡。另一起事件發生在5日，一名以軍士兵在黎巴嫩南部執行任務期間疑似武器意外走火死亡。（央視新聞）
+
+---
+
+### 2026-06-07 03:46:08  #國際
+
+卡達譴責以色列襲擊黎巴嫩軍隊，稱此舉是危險的局勢升級，也是對黎巴嫩主權的公然侵犯。
 
 ---
 
@@ -22113,89 +22209,5 @@ Japanese Shares Extend Decline on Tech Weakness — The Nikkei 225 Index fell 1.
 ### 2026-06-05 08:47:38  #MKT News
 
 【Jane Street plans proprietary data center】Jane Street, the Wall Street quantitative trading firm, plans to build a proprietary data center and is seeking financing. The firm is in early-stage talks with technology, cryptocurrency and financial-sector firms; capacity and site have not been decided, sources said.
-
----
-
-### 2026-06-05 08:47:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Shanghai and Shenzhen margin balances rise CNY6.566 bln】As of June 4, Shanghai Stock Exchange margin financing stood at CNY1.476743 tln, up CNY2.499 bln from the previous trading day; Shenzhen Stock Exchange at CNY1.414148 tln, up CNY4.067 bln. Combined margin balances were CNY2.890891 tln, up CNY6.566 bln.
-
----
-
-### 2026-06-05 08:47:17  #其他
-
-【兩市融資餘額增加65.66億元】截至6月4日，上交所融資餘額報14767.43億元，較前一交易日增加24.99億元；深交所融資餘額報14141.48億元，較前一交易日增加40.67億元；兩市合計28908.91億元，較前一交易日增加65.66億元。
-
----
-
-### 2026-06-05 08:46:10  #公司
-
-【國產燃機訂單取得突破 產能嚴重不足 概念股年內整體衝高回落】週四（6月4日），燃氣輪機概念股突然爆發。據悉，燃氣輪機概念股爆發，主要受大訂單公佈影響，印證產業的高度景氣。6月4日，國內知名燃氣輪機廠商中船廣瀚燃機（簡稱“廣瀚燃機”）宣佈，其國產型號燃氣輪機訂單突破100臺。東方證券表示，本次以廣瀚燃機為代表的訂單突破，是我國中小型燃氣輪機從樣機研製到小批次試用，再到規模化商業化量產的重要里程碑節點。在嚴重供不應求的局面下，燃氣輪機價格看漲。據證券時報·資料寶統計，燃氣輪機相關概念股有近20只，年內整體呈現衝高回落走勢，傑瑞股份、中國動力、濰柴動力等表現較好。
-
----
-
-### 2026-06-05 08:45:08  #其他
-
-【開源後端平臺Supabase融資5億美元，投後估值105億美元】當地時間6月4日，開源後端平臺（BaaS）Supabase宣佈完成5億美元F輪融資，投後估值達105億美元。本輪融資由GIC領投，其他投資者包括Accel、Y Combinator、Craft、Felicis、Coatue和金融科技創企Stripe。
-
----
-
-### 2026-06-05 08:44:28  #國際
-
-【澤連斯基提議會晤 普京重申願意和談】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。澤連斯基表示，烏俄領導人在俄首都莫斯科或烏首都基輔會晤都不合適，但可以在瑞士、土耳其或阿拉伯國家會晤，這些國家有接待外國領導人“解決戰爭與和平問題”的傳統。俄總統新聞秘書佩斯科夫回應說，克里姆林宮方面已經看到澤連斯基的公開信，稍後會向普京彙報。他表示，澤連斯基如果想要談判，隨時可以來莫斯科談。當天稍早時候，普京在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京說，俄羅斯同意按照安克雷奇會晤達成的方案，在烏克蘭問題上作出妥協，但前提是烏克蘭也準備這樣做。另據俄方訊息稱，澤連斯基釋出致普京公開信後，瑞士、土耳其訊息人士均透露，這兩國都願意舉辦俄烏領導人會晤。（央視）
-
----
-
-### 2026-06-05 08:42:19  #MKT News #Important #Market Themes #AI Revolution
-
-【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs.
-
----
-
-### 2026-06-05 08:41:08  #觀點
-
-【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。
-
----
-
-### 2026-06-05 08:38:23  #市場 #國際
-
-日本財務省官員：5月外匯儲備降幅為2000年有統計資料以來最大。注：在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。
-
----
-
-### 2026-06-05 08:37:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan's Ministry of Finance official said May's decline in foreign exchange reserves was the largest since 2000.
-
----
-
-### 2026-06-05 08:37:22  #觀點
-
-【中信證券：預計AI相關商品將成為我國外貿增長的新引擎】中信證券研報認為，展望2026年全年，根據WTO最新發布的《全球貿易展望（3月版）》，受益於AI相關的資本開支快速增長，相關商品出口需求也實現高增，其上修了2026年全球貿易量同比增速預測，讀數從0.5%上調至1.9%。基於此，我們預計AI相關商品將成為我國外貿增長的新引擎，疊加傳統能源價格中樞抬升及其驅動的綠色產品增量需求，我國2026年的進出口均有望維持高景氣，預計全年出口和進口同比增速或達13.2%和15.5%左右，對應的貿易順差規模仍有望保持較高規模。
-
----
-
-### 2026-06-05 08:35:53  #國際
-
-【特朗普稱對伊朗無論如何都會贏】美國總統特朗普當地時間6月4日在白宮對媒體表示，美國無需同伊朗達成協議，就能透過派兵進入伊朗獲取其濃縮鈾庫存，但他“不喜歡這個主意”。特朗普表示，在對伊朗問題上，他覺得目前“做得很好”。特朗普強調，“美國終將會贏，無論如何都會贏——要麼在紙面（協議）上贏，要麼在軍事上贏。”（CCTV國際時訊）
-
----
-
-### 2026-06-05 08:35:19  #公司 #國際
-
-【谷歌將在美國得州新建資料中心和能源設施】當地時間6月4日，谷歌和Intersect宣佈將在美國得州建設Meitner能源中心，該中心將包括一座新的資料中心以及配套的能源發電設施。
-
----
-
-### 2026-06-05 08:34:46  #國際
-
-【普京稱待衝突結束俄烏應說謝天謝地 】當地時間4日，俄羅斯總統普京在聖彼得堡會見全球主要通訊社負責人時，就俄烏衝突作出多項表態。談及衝突結束時俄烏應對彼此說什麼時，普京表示，至少應該說一句：“謝天謝地，一切都結束了”。
-
----
-
-### 2026-06-05 08:34:27  #MKT News
-
-【Putin says Russia and Ukraine should say "Thank God it's over" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say "Thank God it's over".
 
 ---

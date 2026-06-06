@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 03:45:38_
-_本檔包含 3957 則快訊，約 702036 字_
+_更新時間：2026-06-07 04:26:51_
+_本檔包含 3947 則快訊，約 702087 字_
+
+---
+
+### 2026-06-05 08:47:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Shanghai and Shenzhen margin balances rise CNY6.566 bln】As of June 4, Shanghai Stock Exchange margin financing stood at CNY1.476743 tln, up CNY2.499 bln from the previous trading day; Shenzhen Stock Exchange at CNY1.414148 tln, up CNY4.067 bln. Combined margin balances were CNY2.890891 tln, up CNY6.566 bln.
+
+---
+
+### 2026-06-05 08:47:17  #其他
+
+【兩市融資餘額增加65.66億元】截至6月4日，上交所融資餘額報14767.43億元，較前一交易日增加24.99億元；深交所融資餘額報14141.48億元，較前一交易日增加40.67億元；兩市合計28908.91億元，較前一交易日增加65.66億元。
+
+---
+
+### 2026-06-05 08:46:10  #公司
+
+【國產燃機訂單取得突破 產能嚴重不足 概念股年內整體衝高回落】週四（6月4日），燃氣輪機概念股突然爆發。據悉，燃氣輪機概念股爆發，主要受大訂單公佈影響，印證產業的高度景氣。6月4日，國內知名燃氣輪機廠商中船廣瀚燃機（簡稱“廣瀚燃機”）宣佈，其國產型號燃氣輪機訂單突破100臺。東方證券表示，本次以廣瀚燃機為代表的訂單突破，是我國中小型燃氣輪機從樣機研製到小批次試用，再到規模化商業化量產的重要里程碑節點。在嚴重供不應求的局面下，燃氣輪機價格看漲。據證券時報·資料寶統計，燃氣輪機相關概念股有近20只，年內整體呈現衝高回落走勢，傑瑞股份、中國動力、濰柴動力等表現較好。
+
+---
+
+### 2026-06-05 08:45:08  #其他
+
+【開源後端平臺Supabase融資5億美元，投後估值105億美元】當地時間6月4日，開源後端平臺（BaaS）Supabase宣佈完成5億美元F輪融資，投後估值達105億美元。本輪融資由GIC領投，其他投資者包括Accel、Y Combinator、Craft、Felicis、Coatue和金融科技創企Stripe。
+
+---
+
+### 2026-06-05 08:44:28  #國際
+
+【澤連斯基提議會晤 普京重申願意和談】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。澤連斯基表示，烏俄領導人在俄首都莫斯科或烏首都基輔會晤都不合適，但可以在瑞士、土耳其或阿拉伯國家會晤，這些國家有接待外國領導人“解決戰爭與和平問題”的傳統。俄總統新聞秘書佩斯科夫回應說，克里姆林宮方面已經看到澤連斯基的公開信，稍後會向普京彙報。他表示，澤連斯基如果想要談判，隨時可以來莫斯科談。當天稍早時候，普京在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京說，俄羅斯同意按照安克雷奇會晤達成的方案，在烏克蘭問題上作出妥協，但前提是烏克蘭也準備這樣做。另據俄方訊息稱，澤連斯基釋出致普京公開信後，瑞士、土耳其訊息人士均透露，這兩國都願意舉辦俄烏領導人會晤。（央視）
+
+---
+
+### 2026-06-05 08:42:19  #MKT News #Important #Market Themes #AI Revolution
+
+【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs.
+
+---
+
+### 2026-06-05 08:41:08  #觀點
+
+【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。
+
+---
+
+### 2026-06-05 08:38:23  #市場 #國際
+
+日本財務省官員：5月外匯儲備降幅為2000年有統計資料以來最大。注：在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。
+
+---
+
+### 2026-06-05 08:37:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's Ministry of Finance official said May's decline in foreign exchange reserves was the largest since 2000.
+
+---
+
+### 2026-06-05 08:37:22  #觀點
+
+【中信證券：預計AI相關商品將成為我國外貿增長的新引擎】中信證券研報認為，展望2026年全年，根據WTO最新發布的《全球貿易展望（3月版）》，受益於AI相關的資本開支快速增長，相關商品出口需求也實現高增，其上修了2026年全球貿易量同比增速預測，讀數從0.5%上調至1.9%。基於此，我們預計AI相關商品將成為我國外貿增長的新引擎，疊加傳統能源價格中樞抬升及其驅動的綠色產品增量需求，我國2026年的進出口均有望維持高景氣，預計全年出口和進口同比增速或達13.2%和15.5%左右，對應的貿易順差規模仍有望保持較高規模。
+
+---
+
+### 2026-06-05 08:35:53  #國際
+
+【特朗普稱對伊朗無論如何都會贏】美國總統特朗普當地時間6月4日在白宮對媒體表示，美國無需同伊朗達成協議，就能透過派兵進入伊朗獲取其濃縮鈾庫存，但他“不喜歡這個主意”。特朗普表示，在對伊朗問題上，他覺得目前“做得很好”。特朗普強調，“美國終將會贏，無論如何都會贏——要麼在紙面（協議）上贏，要麼在軍事上贏。”（CCTV國際時訊）
+
+---
+
+### 2026-06-05 08:35:19  #公司 #國際
+
+【谷歌將在美國得州新建資料中心和能源設施】當地時間6月4日，谷歌和Intersect宣佈將在美國得州建設Meitner能源中心，該中心將包括一座新的資料中心以及配套的能源發電設施。
+
+---
+
+### 2026-06-05 08:34:46  #國際
+
+【普京稱待衝突結束俄烏應說謝天謝地 】當地時間4日，俄羅斯總統普京在聖彼得堡會見全球主要通訊社負責人時，就俄烏衝突作出多項表態。談及衝突結束時俄烏應對彼此說什麼時，普京表示，至少應該說一句：“謝天謝地，一切都結束了”。
+
+---
+
+### 2026-06-05 08:34:27  #MKT News
+
+【Putin says Russia and Ukraine should say "Thank God it's over" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say "Thank God it's over".
 
 ---
 
@@ -23714,149 +23798,5 @@ Sky News Arabia, citing Lebanese sources, said the current US-hosted round of Le
 ### 2026-06-04 00:55:37  #MKT News
 
 Israel Defense Forces said over the past 24 hours it continued strikes on Hezbollah and its infrastructure in southern Lebanon.
-
----
-
-### 2026-06-04 00:55:12  #國際
-
-真主黨就黎巴嫩、以色列相關事宜發表表態： 將重創以色列， 繼續保衛黎巴嫩境內己方民眾與領土。
-
----
-
-### 2026-06-04 00:55:12  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-The IDF said soldiers in a nighttime operation in southern Lebanon discovered and searched a Hezbollah weapons storage site holding large quantities of arms, then used explosives to destroy more than 20 Hezbollah facilities in the area within minutes.
-
----
-
-### 2026-06-04 00:52:51  #央行 #國際
-
-美聯儲關注銀行信貸以及非銀機構的私募信貸違約情況。
-
----
-
-### 2026-06-04 00:52:34  #其他
-
-LME期銅收跌216美元，報13825美元/噸。LME期鋁收跌49美元，報3704美元/噸。LME期鋅收跌31美元，報3610美元/噸。
-
----
-
-### 2026-06-04 00:51:52  #國際
-
-【美軍稱對伊朗的海上封鎖已使125艘商船改變航向】當地時間3日，美軍中央司令部稱，美軍正在阿拉伯海執行針對伊朗的海上封鎖行動。截至當天，美軍已使125艘商業船隻改變航向，並使6艘不遵守封鎖要求的船隻失去行動能力。美軍中央司令部稱，正在阿拉伯海巡邏的“拉斐爾·佩拉爾塔”號導彈驅逐艦持續監控過往商船，以執行美國針對伊朗的海上封鎖措施。（央視新聞）
-
----
-
-### 2026-06-04 00:48:59  #MKT News
-
-At a public hearing, Texas County voted 4-1 to establish a SpaceX reinvestment zone.
-
----
-
-### 2026-06-04 00:48:14  #其他
-
-標普將埃克森美孚的展望從穩定調整為正面。
-
----
-
-### 2026-06-04 00:47:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi outlet Alhadath cited Lebanese sources saying HEZBOLLAH and the Amal Movement plan to demand Israeli withdrawal after a ceasefire is reached.
-
----
-
-### 2026-06-04 00:45:59  #MKT News
-
-Lebanese sources say Hezbollah and the Amal Movement's demands are currently limited to a sea, land and air ceasefire.
-
----
-
-### 2026-06-04 00:44:52  #公司 #國際
-
-【SpaceX上市料讓特朗普班底身家再增 披露檔案顯示多名官員持有股份】據報道，SpaceX的首次公開募股很可能會讓特朗普政府班底變得更加富裕。根據這些官員最近一次公開的財務披露檔案，從總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，10名官員申報持有馬斯克火箭公司SpaceX或xAI的權益。披露檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。
-
----
-
-### 2026-06-04 00:44:07  #國際
-
-得克薩斯州動物衛生委員會稱，該州尚未確診螺旋蛆病例。 得州議員稱取自得克薩斯州犢牛身上的疑似螺旋蛆樣本已送往美國農業部實驗室檢測。
-
----
-
-### 2026-06-04 00:43:30  #國際
-
-交易商稱：美國出現未經證實的食肉螺旋蛆病例，衝擊肉牛市場。
-
----
-
-### 2026-06-04 00:41:53  #市場
-
-【英國中長期國債收益率漲約7個基點】週三（6月3日）歐市尾盤，英國10年期國債收益率漲7.2個基點，報4.931%，北京時間15:00跳空高開之後，主要持穩於4.9%關口附近，23:00以來加速上漲。兩年期英債收益率漲6.1個基點，報4.372%。30年期英債收益率漲6.9個基點，50年期英債收益率漲7.4個基點。2/10年期英債收益率利差漲0.936個基點，報+55.790個基點。
-
----
-
-### 2026-06-04 00:40:02  #國際
-
-據伊朗媒體Fars News：伊朗議會議長卡利巴夫表示，針對伊朗的無代價威脅時代已經結束。任何侵略行為都將遭到令人遺憾的回應。
-
----
-
-### 2026-06-04 00:39:53  #MKT News
-
-Fars News reported Iran's parliament speaker Ghalibaf said the era of cost-free threats against Iran is over and any act of aggression will be met with a regrettable response.
-
----
-
-### 2026-06-04 00:37:50  #國際
-
-美國財長貝森特出席的參議院財政委員會聽證會已結束。
-
----
-
-### 2026-06-04 00:37:21  #MKT News
-
-U.S. Secretary of State Rubio said President Trump will attend the next NATO leaders' summit.
-
----
-
-### 2026-06-04 00:37:17  #國際
-
-美國國務卿魯比奧：特朗普將出席下一屆北約國家元首會議。
-
----
-
-### 2026-06-04 00:35:43  #央行 #國際
-
-【紐約聯儲行長：未來利率路徑無明顯方向 不太擔心通脹持續】紐約聯儲行長約翰·威廉姆斯表示，美國的貨幣政策目前處於恰當位置，未來的利率路徑並無明顯方向。“貨幣政策目前正處於完全恰當的位置，我認為沒有加息或降息的必要，”威廉姆斯週三在接受採訪時表示，“我也看不出我們未來會朝哪個方向前進。”美聯儲決策者預計將於6月16日至17日在華盛頓召開會議。在新任主席凱文·沃什的主持下，預計他們將討論是否修改會後宣告措辭。許多官員希望刪除宣告中暗示下一步行動仍可能是降息的措辭。威廉姆斯指出，通脹依然居高不下，能源價格、關稅以及與AI相關的投資構成物價上行壓力。不過他也表示，服務通脹出現“相當大程度”的放緩。
-
----
-
-### 2026-06-04 00:35:06  #Trading Economics #Markets #United States #currency #Importance 1
-
-Dollar Index Hits 8-week High — DXY increased to 99.54, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.18%, and in the last 12 months, it increased 0.76%.
-
----
-
-### 2026-06-04 00:35:03  #公司
-
-杜克能源CEO：資料中心將壓低用電費率成本，利率漲幅低於通脹增速。
-
----
-
-### 2026-06-04 00:33:48  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-A UK Foreign Office spokesperson said London summoned the Russian ambassador today, condemning last week’s Russian violation of NATO airspace and the strike on a residential building in Romania as reckless and dangerous. The spokesperson added Russia’s continued bombing inside Ukraine shows a disregard for civilian life and said the UK firmly supports Ukraine, Romania and all NATO allies.
-
----
-
-### 2026-06-04 00:32:35  #MKT News
-
-Germany's foreign minister said it is well known that Russia opposes Germany's seat on the UN Security Council.
-
----
-
-### 2026-06-04 00:31:48  #MKT News
-
-【Russian Defence Ministry says nuclear submarine launched cruise missile during exercise】On June 3 the Russian Defence Ministry said the Northern Fleet nuclear submarine Arkhangelsk launched a "Gao Manao" cruise missile during live-fire training in the Barents Sea, striking a simulated enemy ship more than 200 km away; monitoring showed a successful hit. The ministry said the Kola Bay flotilla imposed navigation and flight restrictions in the area ahead of the test for safety.
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 03:45:38_
-_本檔包含 3639 則快訊，約 701688 字_
+_更新時間：2026-06-07 04:26:51_
+_本檔包含 3645 則快訊，約 701972 字_
+
+---
+
+### 2026-06-02 23:01:21  #MKT News
+
+Denmark's central bank said it did not intervene in the foreign exchange market in May.
+
+---
+
+### 2026-06-02 23:01:14  #MKT News
+
+Market sources: Despite doubts about the prospects of an $1.8 billion fund, President Trump will still be granted an audit exemption.
+
+---
+
+### 2026-06-02 23:01:12  #MKT News #WTI #Impact bullish #Brent
+
+【Vitol says Europe, US underestimating oil supply shortfall】Vitol’s Middle East senior managers said many Western governments remain insufficiently aware of tightening global oil supply after the Strait of Hormuz was blocked. Vitol board member Tom Baker said, “In Europe and the US everyone seems oblivious and are just carrying on as normal.” Crude has risen toward $100/bbl while refined products—gasoline, diesel and jet fuel—have posted larger price gains and volatility, depressing demand in many developing countries, notably parts of Asia and Africa. Vitol estimates global oil demand will decline by about 4 mln b/d. Some buyers have delayed purchases hoping the Iran-related conflict will be resolved and push prices lower.
+
+---
+
+### 2026-06-02 23:01:11  #國際
+
+市場資訊：即便18億美元基金存疑，特朗普仍將獲得審計豁免權。
+
+---
+
+### 2026-06-02 23:00:46  #MKT News #Market Regions #Europe & UK
+
+Bank of England Governor Bailey said the central bank is moving along a preset path toward an equilibrium level of reserves and that this could be achieved within one to two years.
+
+---
+
+### 2026-06-02 23:00:18  #其他
+
+英國衛生安全域性（UKHSA）：英國境內確診安第斯漢坦病毒病例的接觸者自我隔離期現已縮短至42天。
+
+---
+
+### 2026-06-02 23:00:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 0.60% — Top currency gainers are Brazilian Real (0.60%), Mexican Peso (0.53%), Australian Dollar (0.36%), British Pound (0.13%) and Euro (0.10%). Biggest losers are Japanese Yen (-0.13%) and Dollar Index (-0.08%).
+
+---
+
+### 2026-06-02 23:00:02  #市場
+
+【夜盤期貨收盤】瀝青連續跌2.27%，20號膠連續漲1.66%，燃料油連續跌1.20%，液化石油氣連續跌0.94%，PVC連續跌0.93%。
+
+---
+
+### 2026-06-02 23:00:00  #國際
+
+巴西總統盧拉：我與特朗普在華盛頓的會晤很成功，這惹惱了博索納羅家族。
+
+---
+
+### 2026-06-02 22:57:51  #Trading Economics #Markets #Commodity #Importance 2
+
+WTI Wavers as Markets Assess US-Iran Peace Prospects — WTI crude oil futures fluctuated around $92 per barrel on Tuesday after surging 5.5% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week.
+
+---
+
+### 2026-06-02 22:57:32  #市場
+
+【阿斯麥股價續刷記錄新高 總市值報6500億美元】阿斯麥股價上漲4.3%，報1698.53美元/股，續刷記錄新高，總市值報6546億美元。
+
+---
+
+### 2026-06-02 22:57:14  #MKT News
+
+Bank of England Governor Bailey said not all AI-related stocks will be winners.
 
 ---
 
@@ -21895,41 +21967,5 @@ IBM (IBM.N) shares opened 8.7% higher, on track to reach a record high.
 ### 2026-06-01 21:33:02  #市場
 
 IBM股價開盤上漲8.7%。
-
----
-
-### 2026-06-01 21:33:01  #MKT News
-
-【EU urges Israel to halt military escalation in Lebanon】At a Brussels briefing on June 1, the EU called on Israel to stop military escalation in Lebanon and to respect Lebanese sovereignty and territorial integrity, urging continued diplomatic efforts to secure long-term stability. On UNIFIL’s authorization, which expires end-2026, the EU said it is studying a new EU security and defense mission to help Lebanon strengthen state control and border security.
-
----
-
-### 2026-06-01 21:32:36  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Prices Dip on Inflation Fears — Gold prices erased early gains to trade at $4,470 per ounce in the first June session, approaching late-March lows. Rising oil prices, fueled by fresh Iran-US strikes, heightened inflation concerns and reinforced expectations that central banks will maintain tighter monetary policies for longer. Iran claimed it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, with both sides invoking "self-defense." Over the weekend, the parties exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention shifts to upcoming US jobs data and remarks from Federal Reserve officials due later this week. Meanwhile, Fed Governor Jerome Powell, in his first comments since his chair term ended on May 15, warned about the risks of a politicized Federal Reserve.
-
----
-
-### 2026-06-01 21:32:07  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，海天網路漲108.43%，聲網漲5.37%，億咖通科技漲4.24%，小鵬汽車漲5.71%，金山雲漲5.54%。
-
----
-
-### 2026-06-01 21:31:59  #MKT News #Important #QCOM.O #Impact bearish
-
-Qualcomm (QCOM.O) opened more than 6% lower.
-
----
-
-### 2026-06-01 21:31:50  #宏觀
-
-【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。調研組隨機抽取泉州市、廈門市的外賣商戶、養老服務機構、旅遊市場商家，現場調研網路餐飲食品安全治理、養老服務突出問題整治、旅遊行業強制消費問題糾治等情況，對發現的問題進行督促整改。要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。（市說新語）
-
----
-
-### 2026-06-01 21:31:23  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish #ARM.O #MU.O
-
-【US majors open lower; NVIDIA rises after Arm-based RTX Spark PC tie-up】US stocks opened lower on fresh Middle East developments: Dow -0.3%, S&P 500 -0.2%, Nasdaq -0.19%. NVIDIA (NVDA.O) rose 2.7% and Microsoft (MSFT.O) gained 3% after the pair unveiled an Arm‑architecture RTX Spark PC chip; NVIDIA said it is entering the PC CPU market. Arm (ARM.O) jumped 8.8%, Intel (INTC.O) fell 6.6%. Storage names rallied: Micron Technology (MU.O) gained over 5%, its share price topped $1,000, and SanDisk (SNDK.O) rose 3.4%.
 
 ---

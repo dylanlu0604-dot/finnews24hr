@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 03:45:38_
-_本檔包含 3537 則快訊，約 701672 字_
+_更新時間：2026-06-07 04:26:51_
+_本檔包含 3533 則快訊，約 702042 字_
+
+---
+
+### 2026-06-01 21:33:01  #MKT News
+
+【EU urges Israel to halt military escalation in Lebanon】At a Brussels briefing on June 1, the EU called on Israel to stop military escalation in Lebanon and to respect Lebanese sovereignty and territorial integrity, urging continued diplomatic efforts to secure long-term stability. On UNIFIL’s authorization, which expires end-2026, the EU said it is studying a new EU security and defense mission to help Lebanon strengthen state control and border security.
+
+---
+
+### 2026-06-01 21:32:36  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Prices Dip on Inflation Fears — Gold prices erased early gains to trade at $4,470 per ounce in the first June session, approaching late-March lows. Rising oil prices, fueled by fresh Iran-US strikes, heightened inflation concerns and reinforced expectations that central banks will maintain tighter monetary policies for longer. Iran claimed it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, with both sides invoking "self-defense." Over the weekend, the parties exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention shifts to upcoming US jobs data and remarks from Federal Reserve officials due later this week. Meanwhile, Fed Governor Jerome Powell, in his first comments since his chair term ended on May 15, warned about the risks of a politicized Federal Reserve.
+
+---
+
+### 2026-06-01 21:32:07  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，海天網路漲108.43%，聲網漲5.37%，億咖通科技漲4.24%，小鵬汽車漲5.71%，金山雲漲5.54%。
+
+---
+
+### 2026-06-01 21:31:59  #MKT News #Important #QCOM.O #Impact bearish
+
+Qualcomm (QCOM.O) opened more than 6% lower.
+
+---
+
+### 2026-06-01 21:31:50  #宏觀
+
+【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。調研組隨機抽取泉州市、廈門市的外賣商戶、養老服務機構、旅遊市場商家，現場調研網路餐飲食品安全治理、養老服務突出問題整治、旅遊行業強制消費問題糾治等情況，對發現的問題進行督促整改。要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。（市說新語）
+
+---
+
+### 2026-06-01 21:31:23  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish #ARM.O #MU.O
+
+【US majors open lower; NVIDIA rises after Arm-based RTX Spark PC tie-up】US stocks opened lower on fresh Middle East developments: Dow -0.3%, S&P 500 -0.2%, Nasdaq -0.19%. NVIDIA (NVDA.O) rose 2.7% and Microsoft (MSFT.O) gained 3% after the pair unveiled an Arm‑architecture RTX Spark PC chip; NVIDIA said it is entering the PC CPU market. Arm (ARM.O) jumped 8.8%, Intel (INTC.O) fell 6.6%. Storage names rallied: Micron Technology (MU.O) gained over 5%, its share price topped $1,000, and SanDisk (SNDK.O) rose 3.4%.
 
 ---
 
@@ -21296,65 +21332,5 @@ The IAEA said it had been informed that the Zaporizhzhia nuclear plant was struc
 ### 2026-05-31 04:30:34  #MKT News #WTI #Impact bullish #Brent #DXY
 
 【Iran says it has imposed comprehensive control on Strait of Hormuz shipping】On the 30th, the Hatam al-Anbiya Central Headquarters of Iran's armed forces said Iran has imposed comprehensive control over shipping in the Strait of Hormuz; all commercial vessels, tankers and other civilian ships must follow designated routes and obtain prior permission from the Islamic Revolutionary Guard Corps (IRGC) Navy.
-
----
-
-### 2026-05-31 04:26:40  #宏觀 #公司 #國際
-
-【特朗普政府似淡化綠卡政策調整帶來的影響】在遭到強烈反對後，特朗普政府正試圖淡化近期移民政策調整帶來的影響與波及範圍。此前這項新政引發擔憂，數十萬名綠卡申請者或將被迫離開美國，前往境外繼續辦理申請手續。上週，美國公民及移民服務局釋出新規指引。官方稱，新規將取消大批移民境內申請綠卡（美國永久居留身份）的途徑，申請人必須返回原籍國，前往當地美國領事館完成全部流程。這份備忘錄大幅收緊了 “身份調整” 流程。原本，由美國僱主或親屬擔保申請綠卡的移民，可留在美國境內等候審批。新規出臺前，美國公民及移民服務局一名發言人表示：“臨時居留在美國、想要申請綠卡的人員，均須返回原籍國遞交申請，特殊情況除外。”該公告引發移民群體、商業團體及移民律師的恐慌。他們擔心，新政會迫使數十萬人離境。加之特朗普政府已對多個國家實施嚴格的出入境限制，部分人可能就此滯留海外。但週末，美國國土安全部發布宣告，弱化了這份綠卡新規的管控力度，稱上週出臺的備忘錄只是重申美國長期沿用的法律與政策。國土安全部表示：“對於所有合法、合規且符合申請條件的外籍人士，本政策不會阻礙其取得綠卡。” 該部門稱，這份指引僅會讓一部分不符合酌情優待資格的申請人，轉至海外美國國務院機構辦理，而非在美國境內向移民局遞交申請。國土安全部週六表態：“本政策對遵紀守法、資質優異的申請者及專業技術人員不會產生明顯影響。這類外籍人士符合美國國家利益，能為美國創造經濟價值，仍將享有相關酌情優待。”
-
----
-
-### 2026-05-31 04:10:27  #國際
-
-以色列衛生部表示，由於真主黨持續發射火箭彈與無人機，以色列本土前線指揮部收緊了北部地區管控，納哈里亞市的加利利醫療中心已將診療工作轉移至地下防護設施開展。
-
----
-
-### 2026-05-31 04:10:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces said after an alert in the Rosh Hanikra area it detected a suspicious airborne target entering Israeli airspace from Lebanon.
-
----
-
-### 2026-05-31 04:01:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Channel 15, citing sources, said Israel-Lebanon talks held at the Pentagon produced no progress.
-
----
-
-### 2026-05-31 03:59:44  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Hezbollah launches drone and missile strikes on northern Israel】Foreign media reported Saturday that Hezbollah launched a heavy drone-and-missile attack on northern Israel, striking multiple sites in the Galilee region. Initial salvoes included at least eight missiles toward Israeli positions, with one impact reported in Kiryat Shmona. Hezbollah said it carried out 22 operations against Israeli positions and equipment in the past 24 hours, calling them reprisals for Israeli strikes on civilian areas. The Israeli army confirmed rockets were fired into western Galilee, saying several were intercepted and the remainder fell in open ground with no casualties. Fighting in southern Lebanon has reignited this week and Israel has resumed strikes on southern Beirut suburbs.
-
----
-
-### 2026-05-31 03:52:29  #國際
-
-日本、美國、菲律賓將於9月舉辦投資論壇，助力馬尼拉人工智慧中心建設。
-
----
-
-### 2026-05-31 03:48:54  #國際
-
-【美國馬薩諸塞州東部地區傳出巨響，原因不明】據美國媒體30日報道，美國東北部馬薩諸塞州東部多地當天午後有居民報告聽到一巨大聲響，目前聲響來源尚不明確，暫無危險報告。報道說，馬薩諸塞州沃特敦市警方在社交媒體上說，當地接到大量居民報告，稱聽到一聲巨響。而且，在該州東部多地都能聽到這聲巨響，來源不明，目前沒有危險報告。在馬薩諸塞州南邊羅得島州的考文垂鎮，也有居民說聽到巨響。當地警方表示，尚未收到任何損壞或本地事故報告。（新華社）
-
----
-
-### 2026-05-31 03:46:57  #國際
-
-真主黨發動大規模導彈襲擊以色列北部，展開報復行動。
-
----
-
-### 2026-05-31 03:46:07  #國際
-
-以色列國防軍表示，真主黨從黎巴嫩向謝莫納地區發射兩枚火箭彈，均已被攔截，暫無人員傷亡報告。
-
----
-
-### 2026-05-31 03:46:00  #國際
-
-以色列無人機襲擊黎巴嫩南部傑布希特地區，造成一名醫護人員身亡。
 
 ---

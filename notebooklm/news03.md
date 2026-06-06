@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 03:45:38_
-_本檔包含 4006 則快訊，約 701397 字_
+_更新時間：2026-06-07 04:26:51_
+_本檔包含 4018 則快訊，約 702003 字_
+
+---
+
+### 2026-06-04 00:55:12  #國際
+
+真主黨就黎巴嫩、以色列相關事宜發表表態： 將重創以色列， 繼續保衛黎巴嫩境內己方民眾與領土。
+
+---
+
+### 2026-06-04 00:55:12  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+The IDF said soldiers in a nighttime operation in southern Lebanon discovered and searched a Hezbollah weapons storage site holding large quantities of arms, then used explosives to destroy more than 20 Hezbollah facilities in the area within minutes.
+
+---
+
+### 2026-06-04 00:52:51  #央行 #國際
+
+美聯儲關注銀行信貸以及非銀機構的私募信貸違約情況。
+
+---
+
+### 2026-06-04 00:52:34  #其他
+
+LME期銅收跌216美元，報13825美元/噸。LME期鋁收跌49美元，報3704美元/噸。LME期鋅收跌31美元，報3610美元/噸。
+
+---
+
+### 2026-06-04 00:51:52  #國際
+
+【美軍稱對伊朗的海上封鎖已使125艘商船改變航向】當地時間3日，美軍中央司令部稱，美軍正在阿拉伯海執行針對伊朗的海上封鎖行動。截至當天，美軍已使125艘商業船隻改變航向，並使6艘不遵守封鎖要求的船隻失去行動能力。美軍中央司令部稱，正在阿拉伯海巡邏的“拉斐爾·佩拉爾塔”號導彈驅逐艦持續監控過往商船，以執行美國針對伊朗的海上封鎖措施。（央視新聞）
+
+---
+
+### 2026-06-04 00:48:59  #MKT News
+
+At a public hearing, Texas County voted 4-1 to establish a SpaceX reinvestment zone.
+
+---
+
+### 2026-06-04 00:48:14  #其他
+
+標普將埃克森美孚的展望從穩定調整為正面。
+
+---
+
+### 2026-06-04 00:47:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi outlet Alhadath cited Lebanese sources saying HEZBOLLAH and the Amal Movement plan to demand Israeli withdrawal after a ceasefire is reached.
+
+---
+
+### 2026-06-04 00:45:59  #MKT News
+
+Lebanese sources say Hezbollah and the Amal Movement's demands are currently limited to a sea, land and air ceasefire.
+
+---
+
+### 2026-06-04 00:44:52  #公司 #國際
+
+【SpaceX上市料讓特朗普班底身家再增 披露檔案顯示多名官員持有股份】據報道，SpaceX的首次公開募股很可能會讓特朗普政府班底變得更加富裕。根據這些官員最近一次公開的財務披露檔案，從總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，10名官員申報持有馬斯克火箭公司SpaceX或xAI的權益。披露檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。
+
+---
+
+### 2026-06-04 00:44:07  #國際
+
+得克薩斯州動物衛生委員會稱，該州尚未確診螺旋蛆病例。 得州議員稱取自得克薩斯州犢牛身上的疑似螺旋蛆樣本已送往美國農業部實驗室檢測。
+
+---
+
+### 2026-06-04 00:43:30  #國際
+
+交易商稱：美國出現未經證實的食肉螺旋蛆病例，衝擊肉牛市場。
+
+---
+
+### 2026-06-04 00:41:53  #市場
+
+【英國中長期國債收益率漲約7個基點】週三（6月3日）歐市尾盤，英國10年期國債收益率漲7.2個基點，報4.931%，北京時間15:00跳空高開之後，主要持穩於4.9%關口附近，23:00以來加速上漲。兩年期英債收益率漲6.1個基點，報4.372%。30年期英債收益率漲6.9個基點，50年期英債收益率漲7.4個基點。2/10年期英債收益率利差漲0.936個基點，報+55.790個基點。
+
+---
+
+### 2026-06-04 00:40:02  #國際
+
+據伊朗媒體Fars News：伊朗議會議長卡利巴夫表示，針對伊朗的無代價威脅時代已經結束。任何侵略行為都將遭到令人遺憾的回應。
+
+---
+
+### 2026-06-04 00:39:53  #MKT News
+
+Fars News reported Iran's parliament speaker Ghalibaf said the era of cost-free threats against Iran is over and any act of aggression will be met with a regrettable response.
+
+---
+
+### 2026-06-04 00:37:50  #國際
+
+美國財長貝森特出席的參議院財政委員會聽證會已結束。
+
+---
+
+### 2026-06-04 00:37:21  #MKT News
+
+U.S. Secretary of State Rubio said President Trump will attend the next NATO leaders' summit.
+
+---
+
+### 2026-06-04 00:37:17  #國際
+
+美國國務卿魯比奧：特朗普將出席下一屆北約國家元首會議。
+
+---
+
+### 2026-06-04 00:35:43  #央行 #國際
+
+【紐約聯儲行長：未來利率路徑無明顯方向 不太擔心通脹持續】紐約聯儲行長約翰·威廉姆斯表示，美國的貨幣政策目前處於恰當位置，未來的利率路徑並無明顯方向。“貨幣政策目前正處於完全恰當的位置，我認為沒有加息或降息的必要，”威廉姆斯週三在接受採訪時表示，“我也看不出我們未來會朝哪個方向前進。”美聯儲決策者預計將於6月16日至17日在華盛頓召開會議。在新任主席凱文·沃什的主持下，預計他們將討論是否修改會後宣告措辭。許多官員希望刪除宣告中暗示下一步行動仍可能是降息的措辭。威廉姆斯指出，通脹依然居高不下，能源價格、關稅以及與AI相關的投資構成物價上行壓力。不過他也表示，服務通脹出現“相當大程度”的放緩。
+
+---
+
+### 2026-06-04 00:35:06  #Trading Economics #Markets #United States #currency #Importance 1
+
+Dollar Index Hits 8-week High — DXY increased to 99.54, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.18%, and in the last 12 months, it increased 0.76%.
+
+---
+
+### 2026-06-04 00:35:03  #公司
+
+杜克能源CEO：資料中心將壓低用電費率成本，利率漲幅低於通脹增速。
+
+---
+
+### 2026-06-04 00:33:48  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+A UK Foreign Office spokesperson said London summoned the Russian ambassador today, condemning last week’s Russian violation of NATO airspace and the strike on a residential building in Romania as reckless and dangerous. The spokesperson added Russia’s continued bombing inside Ukraine shows a disregard for civilian life and said the UK firmly supports Ukraine, Romania and all NATO allies.
+
+---
+
+### 2026-06-04 00:32:35  #MKT News
+
+Germany's foreign minister said it is well known that Russia opposes Germany's seat on the UN Security Council.
+
+---
+
+### 2026-06-04 00:31:48  #MKT News
+
+【Russian Defence Ministry says nuclear submarine launched cruise missile during exercise】On June 3 the Russian Defence Ministry said the Northern Fleet nuclear submarine Arkhangelsk launched a "Gao Manao" cruise missile during live-fire training in the Barents Sea, striking a simulated enemy ship more than 200 km away; monitoring showed a successful hit. The ministry said the Kola Bay flotilla imposed navigation and flight restrictions in the area ahead of the test for safety.
 
 ---
 
@@ -24063,77 +24207,5 @@ German foreign minister said he is confident Germany can strengthen the UN Secur
 ### 2026-06-02 23:01:25  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Volatile as Markets Assess US-Iran Peace Prospects — Brent crude oil futures fluctuated around $95 per barrel on Tuesday after surging 4.2% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week.
-
----
-
-### 2026-06-02 23:01:21  #MKT News
-
-Denmark's central bank said it did not intervene in the foreign exchange market in May.
-
----
-
-### 2026-06-02 23:01:14  #MKT News
-
-Market sources: Despite doubts about the prospects of an $1.8 billion fund, President Trump will still be granted an audit exemption.
-
----
-
-### 2026-06-02 23:01:12  #MKT News #WTI #Impact bullish #Brent
-
-【Vitol says Europe, US underestimating oil supply shortfall】Vitol’s Middle East senior managers said many Western governments remain insufficiently aware of tightening global oil supply after the Strait of Hormuz was blocked. Vitol board member Tom Baker said, “In Europe and the US everyone seems oblivious and are just carrying on as normal.” Crude has risen toward $100/bbl while refined products—gasoline, diesel and jet fuel—have posted larger price gains and volatility, depressing demand in many developing countries, notably parts of Asia and Africa. Vitol estimates global oil demand will decline by about 4 mln b/d. Some buyers have delayed purchases hoping the Iran-related conflict will be resolved and push prices lower.
-
----
-
-### 2026-06-02 23:01:11  #國際
-
-市場資訊：即便18億美元基金存疑，特朗普仍將獲得審計豁免權。
-
----
-
-### 2026-06-02 23:00:46  #MKT News #Market Regions #Europe & UK
-
-Bank of England Governor Bailey said the central bank is moving along a preset path toward an equilibrium level of reserves and that this could be achieved within one to two years.
-
----
-
-### 2026-06-02 23:00:18  #其他
-
-英國衛生安全域性（UKHSA）：英國境內確診安第斯漢坦病毒病例的接觸者自我隔離期現已縮短至42天。
-
----
-
-### 2026-06-02 23:00:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.60% — Top currency gainers are Brazilian Real (0.60%), Mexican Peso (0.53%), Australian Dollar (0.36%), British Pound (0.13%) and Euro (0.10%). Biggest losers are Japanese Yen (-0.13%) and Dollar Index (-0.08%).
-
----
-
-### 2026-06-02 23:00:02  #市場
-
-【夜盤期貨收盤】瀝青連續跌2.27%，20號膠連續漲1.66%，燃料油連續跌1.20%，液化石油氣連續跌0.94%，PVC連續跌0.93%。
-
----
-
-### 2026-06-02 23:00:00  #國際
-
-巴西總統盧拉：我與特朗普在華盛頓的會晤很成功，這惹惱了博索納羅家族。
-
----
-
-### 2026-06-02 22:57:51  #Trading Economics #Markets #Commodity #Importance 2
-
-WTI Wavers as Markets Assess US-Iran Peace Prospects — WTI crude oil futures fluctuated around $92 per barrel on Tuesday after surging 5.5% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week.
-
----
-
-### 2026-06-02 22:57:32  #市場
-
-【阿斯麥股價續刷記錄新高 總市值報6500億美元】阿斯麥股價上漲4.3%，報1698.53美元/股，續刷記錄新高，總市值報6546億美元。
-
----
-
-### 2026-06-02 22:57:14  #MKT News
-
-Bank of England Governor Bailey said not all AI-related stocks will be winners.
 
 ---
