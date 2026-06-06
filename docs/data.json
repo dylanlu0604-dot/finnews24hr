@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-07 00:07:14",
-  "count": 18782,
+  "updated": "2026-06-07 00:11:26",
+  "count": 18785,
   "items": [
+    {
+      "id": "mkt:019e9db3-3606-7665-8313-6c05208a5a15",
+      "time": "2026-06-07 00:10:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel shelled the Bargaz Valley in the Hasbaya area of southern Lebanon."
+    },
+    {
+      "id": "4921350",
+      "time": "2026-06-07 00:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思在諾曼底登陸紀念日演講中將移民問題比作入侵，並指出這給歐洲帶來安全隱患。"
+    },
+    {
+      "id": "mkt:019e9db2-da22-7665-8313-61be009ac8ed",
+      "time": "2026-06-07 00:10:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli strikes across Gaza cause multiple casualties】On the 6th (local time) Israeli forces struck multiple locations across the Gaza Strip, killing at least seven Palestinian civilians and wounding others. An evening strike on tents sheltering displaced people in western Gaza City killed six—including two women—and wounded at least 15, most of them children."
+    },
+    {
+      "id": "mkt:019e9db1-79c0-7665-8313-5e2d8b54866e",
+      "time": "2026-06-07 00:08:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Fed Governor Barr warns easing Wall Street bank rules raises future risk】Fed Governor Michael Barr criticized recent rollbacks easing limits on bank lending, saying proposals have substantially weakened bank oversight and that vulnerabilities from looser rules may not be visible now but could accumulate over several years and cause serious economic damage. He said Trump-era officials loosened capital requirements, narrowed the regulatory perimeter and facilitated competition between traditional banks and private-credit firms. Barr warned that weaker capital, liquidity and supervisory standards would raise the risk of bank stress; while banks need room to support economic innovation, history shows profit-driven innovation without adequate safeguards can create excessive risk that, if realized, threatens firms, households and the broader economy."
+    },
+    {
+      "id": "mkt:019e9daf-a5ef-7665-8313-5131274ccdd6",
+      "time": "2026-06-07 00:06:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Federal Reserve Vice Chair for Supervision Michael Barr warned that loosening regulatory rules for Wall Street banks could create risks."
+    },
     {
       "id": "4921349",
       "time": "2026-06-07 00:05:38",
@@ -173331,25 +173384,6 @@
         "國際"
       ],
       "text": "特朗普：我將不在“自由250”音樂會上演出，改為在華盛頓特區同一地點的競選集會上發表演講。"
-    },
-    {
-      "id": "4908402",
-      "time": "2026-05-31 00:11:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩衛生部：自3月2日以來，以色列對黎巴嫩發動的襲擊已造成3371人遇難、10129人受傷。"
-    },
-    {
-      "id": "mkt:019e79a4-0af0-7bb7-996a-67203db01a47",
-      "time": "2026-05-31 00:07:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Defense Secretary Hegeseth said the Strait of Hormuz should be fully open and free, with vessels from all countries allowed to transit."
     }
   ]
 }
