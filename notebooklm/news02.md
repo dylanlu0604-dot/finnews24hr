@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:35:13_
-_本檔包含 3952 則快訊，約 700848 字_
+_更新時間：2026-06-07 01:06:42_
+_本檔包含 3958 則快訊，約 701019 字_
+
+---
+
+### 2026-06-05 08:04:42  #市場
+
+SK海力士股價下跌7%。
+
+---
+
+### 2026-06-05 08:04:00  #市場 #國際
+
+日本日經平均股價下跌1.06%，報66755.06點。
+
+---
+
+### 2026-06-05 08:03:28  #公司 #觀點
+
+【華泰證券：保險業盈利反彈臨近，重視二季報投資機會】華泰證券研報表示，如果6月市場表現穩定，二季度或成為保險行業今年盈利表現最亮眼的一個季度。估計上市各保險公司2Q26的稅前利潤（中位數）有望同比增長23%-171%，相較於1Q26 30%-50%的下滑明顯反彈。今年以來，保險板塊受一季度市場波動和盈利下滑，以及二季度以來較為極致的結構性市場行情影響，股價普遍下行10%-30%。PB（MRQ）估值已經較年初高點有大約兩成左右的下降，估值安全邊際顯現，對二季度可能的盈利反彈反應不多，盈利與估值反差的張力不斷累積。負債端仍然保持良好增長勢頭，行業基本面依然堅實。隨著二季度臨近結束，業績反彈有望成為市場重新審視保險行業價值的重要催化劑，建議重視二季報投資機會。
+
+---
+
+### 2026-06-05 08:03:03  #公司 #市場 #國際
+
+受三星、SK海力士股價下跌影響，韓國綜合股價指數（KOSPI）暴跌4.3%。
+
+---
+
+### 2026-06-05 08:02:18  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bearish #000660.KS #Nikkei 225
+
+【South Korea stocks open sharply lower】South Korea's KOSPI opened down 372.6 points (-4.31%) at 8,266.81. Samsung Electronics -5%, SK Hynix -7%. Japan's Nikkei 225 opened down 486.82 points (-0.72%) at 66,983.87.
+
+---
+
+### 2026-06-05 08:01:41  #公司 #市場
+
+三星電子股價下跌5%。
+
+---
+
+### 2026-06-05 08:01:33  #市場 #國際
+
+韓國綜合股價指數下跌4%，至8291.15點。
+
+---
+
+### 2026-06-05 08:01:25  #市場
+
+首爾股市綜合股價指數（KOSPI）下跌4%。
+
+---
+
+### 2026-06-05 08:01:13  #其他
+
+【查獲數千份假證、近6000枚假章 公安部公佈5起典型案例】黨政機關、企事業單位官方網站是資訊公開、便民服務的重要視窗，也是群眾信任的權威資訊來源和辦事渠道。一些不法人員為謀取非法利益，透過“以假亂真”手段仿冒假冒官方網站，從事虛假認證、製售假證、網路詐騙、竊取個人資訊等各類違法犯罪活動，嚴重擾亂社會公共秩序，損害人民群眾合法權益。 公安機關網安部門針對仿冒假冒網站違法犯罪，始終保持高壓嚴打態勢，依法偵辦查處一批非法利用資訊網路搭建仿冒假冒網站違法犯罪案件。今日，公安部網安局公佈5起仿冒假冒網站違法犯罪典型案例。
+
+---
+
+### 2026-06-05 08:00:38  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌3.7%，至8323.20點。
+
+---
+
+### 2026-06-05 08:00:16  #市場
+
+【日韓股市開盤】日經225指數上午開盤報67115.00點，跌幅0.53％。韓國綜合股價指數（KOSPI）開盤下跌3.7％，至8323.20點。
+
+---
+
+### 2026-06-05 07:59:25  #宏觀
+
+【市場監管總局公佈傳統工藝市場“打假清源”典型案例 】記者6月4日獲悉，2026年以來，市場監管部門以珠寶玉石、貴金屬飾品、紅木製品等傳統工藝品為重點，開展“打假清源”專項行動，依法查辦了一批違法違規案件。國家市場監督管理總局當日對外公佈了一批典型案例。
+
+---
+
+### 2026-06-05 07:59:05  #Trading Economics #Economy #Japan #Foreign Exchange Reserves #Importance 2
+
+Japan Forex Reserves Hit 10-Month Low — Japan’s foreign reserves fell by USD 77.11 billion to USD 1.31 trillion at the end of May 2026 from USD 1.38 trillion in the previous month, reaching their lowest level since July last year. Foreign currency reserves declined to USD 1.09 trillion, consisting of USD 931.68 billion in securities and USD 162.24 billion in deposits. Of the deposits, USD 161.80 billion were held with foreign central banks and the BIS, while deposits with banks headquartered in Japan totaled USD 410 million. The IMF reserve position stood at USD 11.51 billion, SDR holdings were valued at USD 60.89 billion, and gold reserves amounted to USD 123.65 billion. Other reserve assets totaled USD 15.91 billion, while other foreign currency assets stood at USD 34.50 billion. The sharp decline likely reflected Japan's large-scale yen-buying intervention during the month. The Ministry of Finance recently confirmed that authorities spent a record of JPY 11.7 trillion supporting the currency between late April to May 28.
+
+---
+
+### 2026-06-05 07:58:29  #公司 #國際
+
+【巴克萊稱AI還不會取代信貸對沖基金交易員 僅7%投資人預期大裁員】巴克萊銀行一項調查顯示，避險基金與資產管理公司在投資全球信貸市場時愈來愈多使用AI，但至少目前而言，這項技術尚未取代人類交易員。調查發現，AI已經超越實驗性、零散應用的階段，在各類投資人之間逐步普及。不過，其主要用途仍集中於研究、證券篩選及分析，扮演的是輔助角色，而非取代人類判斷。策略師Zornitsa Todorova和Andrea Diaz Lafuente在週四的一份報告中寫道，整體而言，AI料將重塑角色與工作流程，而非在短期內大幅削減人力。他們指出，主流觀點認為，在員工人數基本上保持穩定的前提下，生產力會更高。巴克萊銀行上個月調查北美、歐洲、中東和非洲以及亞洲410位買方機構投資人，僅7%的受訪者預計會出現大規模裁員。
+
+---
+
+### 2026-06-05 07:58:05  #公司 #國際
+
+【特朗普就“維修權”爭議與汽車行業代表舉行會晤】美國總統唐納德·特朗普週四表示，他已與汽車行業的高層領導會面，討論了關於“維修權”立法的持續爭議。特朗普會見了通用汽車執行長瑪麗·巴拉、福特汽車高階執行官安德魯·弗裡克，以及全美汽車經銷商協會和汽車創新聯盟的高層官員，共和黨參議員、前汽車經銷商伯尼·莫雷諾也出席了會議。福特公司證實參加了此次會議，而汽車行業組織則拒絕置評。通用汽車公司未回應置評請求。“昨天我們約見了汽車行業代表。他們不希望人們修理自己的車。我說‘這太奇怪了！’”特朗普表示。“他們有種規定：不允許任何人修理自己的車。”多年來，汽車行業一直與獨立維修店及其他團體就新車維修權問題爭執不休。美國汽車維修服務市場年產值約為2,000億美元。上週美國眾議院一個委員會透過的立法將把現有的行業諒解備忘錄寫入法律，並賦予聯邦貿易委員會執行這些協議的權力。
 
 ---
 
@@ -23774,59 +23864,5 @@ U.S. Trade Representative Greer said the U.S. and the EU are committed to comply
 ### 2026-06-03 23:57:29  #國際
 
 【中國駐菲律賓大使館：再次提醒在菲律賓中國公民和企業加強安全防範】近段時間，菲律賓軍隊和執法部門針對在菲中國公民和企業的盤查滋擾以及選擇性執法頻發，在菲中國公民和企業面臨的安全風險上升。駐菲律賓使領館再次提醒在菲中國公民和企業密切關注當地形勢，切實加強安全防範，嚴格遵守當地法律法規，合法從業，合規經營，不從事與入境目的或簽證種類不符的活動，並避免逾期居留。如遇緊急情況，請及時聯絡使領館。（中國駐菲律賓大使館微信公眾號）
-
----
-
-### 2026-06-03 23:57:05  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls on Tariff Threats and Middle East Tensions — The CAC 40 fell 0.7% to close at 8,150 on Wednesday, tracking broader European losses as investors weighed uncertainty surrounding the US-Iran conflict and fresh US tariff threats. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased. Financials weakened, with BNP Paribas down 1.3% and AXA losing 1.9%. Luxury shares also came under pressure, with LVMH shedding 3% and L'Oréal falling 2.2%. Airbus lost 2%, Safran retreated 1.4%, and Stellantis dropped 4% despite announcing new investments in France.
-
----
-
-### 2026-06-03 23:56:37  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary Bessent said the U.S. has all the ingredients for a very strong economy.
-
----
-
-### 2026-06-03 23:56:06  #國際
-
-美國財長貝森特：經濟具備實現強勁增長的全部有利條件。
-
----
-
-### 2026-06-03 23:52:17  #公司
-
-【新安潔：董事長魏延田被留置時間延長三個月】新安潔公告，收到董事長魏延田家屬轉達的《延長留置時間通知書》，重慶市綦江區監察委員會決定延長魏延田留置時間三個月，延長期間為2026年5月27日至2026年8月27日。目前公司生產經營正常，董事長職責暫由副董事長王光強代為履行，其他董監高均正常履職。
-
----
-
-### 2026-06-03 23:51:21  #國際
-
-【法國總理：以色列應停止在黎巴嫩軍事行動】法國總理勒科爾尼3日在法國國民議會接受議員質詢時表示，以色列應停止在黎巴嫩境內的軍事行動和結束對黎非法佔領。勒科爾尼說，以色列繼續在黎巴嫩作戰“沒有正當理由”，長遠看有損以色列自身安全利益。他強調說：“破壞本就脆弱的停火不可接受。”勒科爾尼說，黎巴嫩問題對當前美伊談判有著“直接影響”。要為結束伊朗戰事尋求全面解決方案，就“不能拋開黎巴嫩問題不談”。（新華社）
-
----
-
-### 2026-06-03 23:50:55  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Dips on Middle East Conflict and US Tariffs — The FTSE MIB fell 1.1% to close at 50,038 on Wednesday as renewed tensions in the Middle East and fresh US tariff threats weighed on sentiment. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased and the BTP-Bund spread widened. Financials led losses, with UniCredit and Intesa Sanpaolo down 1.9%, while MPS and BPER fell 2.1%. Luxury shares also weakened, with Ferrari losing 2.4% and Moncler down 2%. Stellantis shed 4% after denying it had committed to producing one million vehicles annually in Italy.
-
----
-
-### 2026-06-03 23:48:50  #MKT News
-
-U.S. Treasury Secretary Bessent said individuals who illegally evade taxes should be investigated.
-
----
-
-### 2026-06-03 23:48:20  #國際
-
-美國財長貝森特：沒錯，非法逃稅人員理應接受調查。
-
----
-
-### 2026-06-03 23:48:01  #MKT News
-
-【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council as non-permanent members】On the 3rd the UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council. One non‑permanent seat remains to be filled.
 
 ---

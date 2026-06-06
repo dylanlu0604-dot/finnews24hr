@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:35:13_
-_本檔包含 3657 則快訊，約 701000 字_
+_更新時間：2026-06-07 01:06:42_
+_本檔包含 3657 則快訊，約 701418 字_
+
+---
+
+### 2026-06-02 22:29:00  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq 100 futures quickly turned negative.
+
+---
+
+### 2026-06-02 22:28:56  #央行 #其他
+
+英國央行貝利談及人工智慧：當前市場定價隱含所有人都能從AI行情中獲益的樂觀預期。
+
+---
+
+### 2026-06-02 22:28:45  #MKT News #Important
+
+Coking coal futures (contract 2609) reversed into gains, up 1.39% at 1,387.5 yuan/ton; trading value ~27.679 bln yuan. Open interest rose about 32.1k contracts intraday, signaling notable position build. Coke futures (contract 2609) rose 1.51% to 2,015.5 yuan/ton; trading value ~1.809 bln yuan and open interest climbed nearly 1.5k contracts, with volume and OI increasing in tandem.
+
+---
+
+### 2026-06-02 22:28:34  #焦點 #國際
+
+美國國務卿魯比奧：伊朗相關協議或於今日、明日或下週落地。
+
+---
+
+### 2026-06-02 22:28:21  #MKT News #Important
+
+US Secretary of State Rubio said an Iran agreement could be reached today, tomorrow or next week.
+
+---
+
+### 2026-06-02 22:28:18  #MKT News
+
+Bank of England Governor Bailey said markets may be overly optimistic about AI's pass-through effects.
+
+---
+
+### 2026-06-02 22:27:55  #MKT News
+
+Egypt's Ministry of Supply said the government approved a mechanism allowing sugar to be listed and traded on the commodities market.
+
+---
+
+### 2026-06-02 22:27:49  #其他
+
+Alphabet(GOOG.O)股價跌幅從此前的4.8%收窄至1.6%。
+
+---
+
+### 2026-06-02 22:27:40  #其他
+
+納斯達克100指數轉跌。
+
+---
+
+### 2026-06-02 22:27:30  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) shares trimmed losses to 1.6% from an earlier 4.8%.
+
+---
+
+### 2026-06-02 22:27:24  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Halts Slide — The yield on the 10-year US Treasury note rose was above 4.45% on Tuesday, halting the slide that bottomed at a three-week low in the prior week as the latest economic data favored restrictive policy by the Federal Reserve. The JOLTS indicated that job openings were well above expectations at their highest in over one year in April, consistent with robust labor data for the period in muted levels of jobless claims. On top of that, manufacturing activity was also above expectations in May per the ISM PMI, while prices continued to surge. Rate futures continued to show a portion of the market positioned for a rate hike by the Federal Reserve this year, even though the new FOMC Chairman Kevin Warsh had previously advocated for lower rates. The hawkish outlook for the central bank also persisted despite oil prices remaining below their peaks, as the continuous impasse between Iran and the US delayed expectations of restored energy supply from the region.
+
+---
+
+### 2026-06-02 22:27:17  #MKT News #Important #WTI #Impact bearish #Brent
+
+U.S. Secretary of State Rubio said Iran may have agreed to negotiate some elements of its nuclear program it previously refused to discuss.
+
+---
+
+### 2026-06-02 22:27:10  #國際
+
+美國國務卿魯比奧：伊朗有可能已經同意就其核計劃中一些此前拒絕在談判中提及的內容進行磋商。
+
+---
+
+### 2026-06-02 22:26:44  #焦點 #國際
+
+美國國務卿魯比奧：我們正在與伊朗進行談判。
+
+---
+
+### 2026-06-02 22:26:38  #MKT News
+
+Senate Republican leader Thune, asked about Trump's appointment of Pulte as acting director of national intelligence, said the U.S. does not need a weaponized director of national intelligence.
 
 ---
 
@@ -21949,104 +22039,5 @@ Iran's negotiating team will stop engaging in dialogue and text exchanges via in
 ### 2026-06-01 21:12:09  #公司 #市場
 
 【媒體大鱷巴里·迪勒正籌劃出價收購博彩業巨頭美高梅度假村 估值超180億美元】巴里·迪勒旗下商業集團人物公司（People） 正籌備收購博彩巨頭美高梅度假村，本次交易估值超180億美元。 目前收購方案仍在最終敲定階段，存在延期或終止的可能。若交易落地，這將是迪勒對原IAC集團完成重組後，又一次重大戰略轉向。 人物公司計劃以每股48.30美元的現金價格，收購美高梅度假村剩餘73.9%的股份。 該報價較美高梅度假村上週五收盤價溢價近10.6%，較其過去90日成交量加權平均價高出30%。
-
----
-
-### 2026-06-01 21:12:02  #其他
-
-英國石油發言人確認內部通知：英國石油天然氣與低碳業務首席林豐源將離職。
-
----
-
-### 2026-06-01 21:11:55  #其他
-
-保加利亞擬上調債務上限，以發行 38 億歐元新增債券。
-
----
-
-### 2026-06-01 21:11:36  #市場 #焦點
-
-現貨黃金失守4490美元/盎司，日內跌1.10%。
-
----
-
-### 2026-06-01 21:11:27  #公司
-
-【惠豐鑽石高導熱粉體專案投產】6月1日，惠豐鑽石在惠豐數智產業園（二期）舉行高導熱金剛石粉體正式投產儀式。專案規模化投產後，年產可達20噸高導熱金剛石複合材料及粉體的產能規模，將有力支撐公司“2245”戰略中高導熱金剛石及HPHT工藝板塊的產能與技術佈局。
-
----
-
-### 2026-06-01 21:10:43  #國際
-
-【無人戰車、機器人衝鋒陷陣 俄烏戰場畫風大變】據美國《防務新聞》週刊網站報道，烏克蘭將在2026年上半年簽訂2.5萬輛無人地面車輛的合同，是2025年總數的兩倍多。烏國防部正在將所有前線後勤的任務，從士兵轉移到機器人上。事實上，除了後勤任務，地面機器人也實際參與到了一線作戰行動當中。事實上，在俄烏長達四年的衝突當中，其他形式的機器人應用已經呈現規模化。在烏克蘭，無人地面運輸車常常被用於前線補給任務，自主和人工智慧無人機則執行精確打擊和偵察任務。有媒體評論說，俄烏衝突已經把烏克蘭變成了一個大型的前沿武器試驗場，人形機器人等無人裝備的部署，將引發諸多倫理擔憂，特別是在生死攸關的戰鬥中、人工智慧裝備的自主決策許可權問題。而不少美國企業為了佔得先機，不惜進行更大膽的嘗試。（央視網）
-
----
-
-### 2026-06-01 21:10:43  #市場 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨齊漲，道指期貨漲0.27%，標普500指數期貨漲0.22%，納指期貨漲0.20%。
-②德國DAX指數漲0.66%，英國富時100指數跌0.18%，法國CAC40指數漲0.46%，歐洲斯托克50指數漲0.43%。
-③WTI原油漲2.72%，報89.74美元/桶。布倫特原油漲2.16%，報93.09美元/桶。
-④美伊相互發動軍事打擊，伊稱在確認權益得到保障前不會批准任何協議，美稱協議將明確禁止伊朗擁核。
-⑤白宮經濟顧問預測：一兩個月內石油運輸將恢復透過霍爾木茲海峽。
-⑥智慧手機市場或現創紀錄出貨萎縮。 儲存超級週期之下，等待消費電子的是“至暗時刻”。
-⑦IBM股價盤前漲超14.5%，IBM最新公佈一項總規模超過100億美元的量子計算投資計劃，多家投行上調其目標價。
-⑧高通盤前跌超9%，英偉達此前宣佈推出PC端“超級晶片”，與蘋果、高通、英特爾及AMD展開正面角逐。
-⑨Arm美股盤前漲幅進一步擴大至12%。英偉達進軍Windows系統個人電腦市場，將執行基於Arm的微軟Windows系統。
-
----
-
-### 2026-06-01 21:10:05  #國際
-
-以色列北部加利利地區拉響紅色警報及無人機入侵預警，這是該區域 20 分鐘內第二次響起警報。
-
----
-
-### 2026-06-01 21:09:50  #MKT News
-
-UK government released a second tranche of documents on Peter Mandelson’s appointment as ambassador to the United States.
-
----
-
-### 2026-06-01 21:09:23  #公司
-
-【雙元科技：北京元程式增持股份至5%】雙元科技公告稱，6月1日，資訊披露義務人北京元程式資產管理有限公司透過上交所繫統以集中競價交易方式增持公司股份425,223股。本次權益變動後，其持股數量達2,957,135股，佔總股本比例從4.28%升至5.00%。增持資金為自有資金，股份不存在權利限制。未來12個月內，不排除繼續增減持可能，將依法履行信披義務。
-
----
-
-### 2026-06-01 21:09:18  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #USDJPY
-
-The Colombian peso strengthened 3.5% to 3,560 pesos per US dollar after first-round presidential election results were announced.
-
----
-
-### 2026-06-01 21:08:56  #市場 #國際
-
-美國天然氣期貨日內下跌3.00%，現報3.191美元/百萬英熱。
-
----
-
-### 2026-06-01 21:08:50  #MKT News #Commodities #Energy
-
-U.S. natural gas futures fell 3.00% intraday to $3.191/MMBtu.
-
----
-
-### 2026-06-01 21:08:48  #國際
-
-英國政府公佈了彼得·曼德爾森出任美國大使相關檔案的第二批批次檔案。
-
----
-
-### 2026-06-01 21:08:43  #MKT News #DBX.O #Impact bullish
-
-Dropbox (DBX.O) announced a $900 mln share repurchase program.
-
----
-
-### 2026-06-01 21:08:19  #市場
-
-【瑞銀：未來幾年英國國債收益率或將居高不下甚至上升】瑞銀經濟學家迪恩·特納在一份報告中表示，遠期利率表明，未來幾年英國國債收益率可能居高不下，甚至進一步上升。他表示，收益率上升意味著償債成本增加，“可能很快成為一個令人頭疼的問題”。特納指出，英國的債務存量超過GDP的90%，且政府赤字居高不下。然而，從全球範圍來看，在公共財政的可持續性方面，英國“既不是處境最好的，也不是最差的”。Tradeweb的資料顯示，10年期英國國債收益率最新上漲2個基點，至4.826%。
 
 ---

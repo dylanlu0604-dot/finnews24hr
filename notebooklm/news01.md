@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:35:13_
-_本檔包含 3646 則快訊，約 701225 字_
+_更新時間：2026-06-07 01:06:42_
+_本檔包含 3652 則快訊，約 701509 字_
+
+---
+
+### 2026-06-07 01:04:57  #國際
+
+諾和諾德將在2026年美國糖尿病協會年會上，公佈減肥藥Wegovy針對多種心臟代謝疾病療效的最新研究資料。
+
+---
+
+### 2026-06-07 01:04:20  #國際
+
+特朗普政府劃撥7億美元聯邦資金，扶持美國燃煤電廠，保障人工智慧相關電網穩定執行。
+
+---
+
+### 2026-06-07 01:03:50  #國際
+
+受美國參議院議程安排導致立法程序延後影響，《清晰度法案》的透過機率降至60%。
+
+---
+
+### 2026-06-07 01:01:59  #焦點 #國際
+
+印度搗毀H-1B簽證造假團伙，有關部門查獲超10萬份偽造學歷證書。
+
+---
+
+### 2026-06-07 01:01:45  #國際
+
+以色列國防軍稱，以軍週末對黎巴嫩南部150處真主黨目標實施打擊，其中包括武器庫與指揮中心。
+
+---
+
+### 2026-06-07 00:59:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH said it fired rockets at an Israeli military concentration in Al-Bayda in southern Lebanon.
+
+---
+
+### 2026-06-07 00:59:01  #國際
+
+真主黨：我方發射火箭彈，打擊了黎巴嫩南部拜亞達鎮的以色列敵方集結人員。
+
+---
+
+### 2026-06-07 00:59:01  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+HEZBOLLAH said it used a submersible drone to strike a concentration of Israeli forces in al-Qantara in southern Lebanon.
+
+---
+
+### 2026-06-07 00:58:57  #國際
+
+真主黨：我方使用俯衝無人機襲擊了黎巴嫩南部坎塔拉鎮的以色列敵方集結點。
+
+---
+
+### 2026-06-07 00:58:35  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【IDF says it struck about 150 Hezbollah targets in southern Lebanon over weekend】The Israel Defense Forces said it struck roughly 150 Hezbollah infrastructure targets in southern Lebanon over the weekend, including weapons storage sites, command centers and rocket launchers. The IDF said those facilities were used by Hezbollah to prepare and carry out terrorist attacks against Israeli soldiers.
+
+---
+
+### 2026-06-07 00:56:53  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+The Israeli military said it had not ordered a halt to demolitions of villages in southern Lebanon and is continuing to destroy related military infrastructure.
+
+---
+
+### 2026-06-07 00:53:12  #國際
+
+【巴基斯坦內政部長抵達德黑蘭 將與伊朗官員會面】當地時間6日晚，巴基斯坦內政部長納克維抵達伊朗首都德黑蘭。在本次訪問期間，他將與伊朗外長在內的官員會面並進行磋商。（央視新聞）
+
+---
+
+### 2026-06-07 00:49:35  #國際
+
+【巴基斯坦內政部長抵達德黑蘭】巴基斯坦內政部長穆赫辛・納克維已抵達德黑蘭，計劃會見伊朗外交部長阿拉格齊。納克維此行前曾面見巴基斯坦總理夏巴茲・謝里夫，並接到了有關伊美談判相關事宜的指示。
+
+---
+
+### 2026-06-07 00:48:41  #國際
+
+【美國林務局擬開放數百萬英畝土地供越野車輛通行】美國農業部部長布魯克·羅林斯收到一份政令草案，內容顯示特朗普政府計劃允許越野車輛駛入數百萬英畝的國家森林公園。今年5月29日，特朗普已簽署決定，廢除兩項實施數十年的行政令。此前這兩項政令一直保護包括多數國家公園在內的公共土地，禁止全地形車、越野摩托車等各類越野車輛進入。此次新規是上述舉措的配套政策。一份未標註日期的農業部部長備忘錄檔案要求美國林務局，梳理各國家森林公園內此前封閉的道路、步道、區域、簡易機場與水域，評估是否可全年向休閒活動開放。備忘錄還規定，林務局已向國會提議劃定為荒野保護區的區域，將即刻允許越野車輛通行。目前，這類區域大多參照保護區標準管理，禁止全地形車駛入。僅這一項調整，就將影響約500萬英畝土地，主要分佈在愛達荷州與蒙大拿州。備忘錄中寫道：“2026年是美國獨立250週年，我們應當展現本國珍貴的自然瑰寶，確保所有美國人都能在這片壯美的土地上休閒遊玩。”美國農業部發言人邁克爾·阿布德發表宣告稱，部門致力於保障民眾在合理合規的前提下使用、享用公共土地，同時切實做好自然資源管護工作。這兩項放寬越野車輛准入的政策，是特朗普政府一系列舉措的組成部分。本屆政府有意弱化公共土地的生態保護導向，轉而推動休閒產業與經濟活動發展。
+
+---
+
+### 2026-06-07 00:46:43  #國際
+
+美國擬開放數百萬英畝土地供越野車輛通行。
+
+---
+
+### 2026-06-07 00:41:52  #MKT News #XAUUSD #Impact bullish #Brent
+
+Kuwait News Agency said Kuwait's foreign ministry condemned an attack by Israeli forces on a Lebanese army patrol that caused casualties among Lebanese troops.
+
+---
+
+### 2026-06-07 00:38:58  #MKT News
+
+TASNIM NEWS reports Pakistan's interior minister has arrived in Tehran and is to meet Iranian officials, including Foreign Minister Araghchi.
+
+---
+
+### 2026-06-07 00:38:31  #國際
+
+巴基斯坦內政部長納克維抵達伊朗。
+
+---
+
+### 2026-06-07 00:37:46  #MKT News #Market Themes #AI Revolution
+
+【Trump chief AI adviser Krishnan to leave White House at month-end】Sources say tech investor Sriram Krishnan, the architect of the Trump administration’s pro-industry AI policy, plans to leave the White House at month-end to found an external organization aimed at influencing technology policy. Krishnan helped design the administration’s AI Action Plan, which proposed easing regulation of new technologies and accelerating a nationwide data-center buildout, and he assisted in drafting an executive order to limit state-level AI regulation. But advanced models such as Anthropic’s Mythos have shown the ability to find software security vulnerabilities, raising senior government concerns about cyberattack risk and prompting some officials to reassess the administration’s deregulatory course.
+
+---
+
+### 2026-06-07 00:37:26  #國際
+
+沙特外交部再次強烈譴責伊朗發起惡意襲擊、公然侵犯巴林及科威特兩國主權的行為，指出此類舉動對地區與國際安全構成威脅。
+
+---
+
+### 2026-06-07 00:36:26  #公司 #市場 #國際
+
+【國際航空運輸協會副總裁：因伊朗戰爭推遲噴氣式飛機訂單將使中東航空公司付出高昂代價】國際航空運輸協會（IATA）一位副總裁週六表示，由於伊朗戰爭引發的不確定性和航空燃油價格上漲而推遲客機訂單，對中東航空公司而言並非明智之舉，因為這一決定從長遠來看可能代價高昂。負責非洲和中東地區的區域副總裁卡米爾·阿瓦迪表示，他不認為這場戰爭及成本上升會影響中東航空公司的飛機訂單。該地區航空公司是波音公司和空客公司的主要客戶。他指出，鑑於飛機交付週期漫長，推遲訂單“並非明智之舉，因為推遲將帶來額外成本”。
 
 ---
 
@@ -21933,95 +22059,5 @@ Japan's finance minister Katayama said the Middle East conflict and oil-price vo
 ### 2026-06-05 08:04:54  #Trading Economics #Markets #Commodity #Importance 2
 
 Gold Steadies on Middle East Peace Hopes — Gold steadied above $4,450 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, gold remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
-
----
-
-### 2026-06-05 08:04:42  #市場
-
-SK海力士股價下跌7%。
-
----
-
-### 2026-06-05 08:04:00  #市場 #國際
-
-日本日經平均股價下跌1.06%，報66755.06點。
-
----
-
-### 2026-06-05 08:03:28  #公司 #觀點
-
-【華泰證券：保險業盈利反彈臨近，重視二季報投資機會】華泰證券研報表示，如果6月市場表現穩定，二季度或成為保險行業今年盈利表現最亮眼的一個季度。估計上市各保險公司2Q26的稅前利潤（中位數）有望同比增長23%-171%，相較於1Q26 30%-50%的下滑明顯反彈。今年以來，保險板塊受一季度市場波動和盈利下滑，以及二季度以來較為極致的結構性市場行情影響，股價普遍下行10%-30%。PB（MRQ）估值已經較年初高點有大約兩成左右的下降，估值安全邊際顯現，對二季度可能的盈利反彈反應不多，盈利與估值反差的張力不斷累積。負債端仍然保持良好增長勢頭，行業基本面依然堅實。隨著二季度臨近結束，業績反彈有望成為市場重新審視保險行業價值的重要催化劑，建議重視二季報投資機會。
-
----
-
-### 2026-06-05 08:03:03  #公司 #市場 #國際
-
-受三星、SK海力士股價下跌影響，韓國綜合股價指數（KOSPI）暴跌4.3%。
-
----
-
-### 2026-06-05 08:02:18  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bearish #000660.KS #Nikkei 225
-
-【South Korea stocks open sharply lower】South Korea's KOSPI opened down 372.6 points (-4.31%) at 8,266.81. Samsung Electronics -5%, SK Hynix -7%. Japan's Nikkei 225 opened down 486.82 points (-0.72%) at 66,983.87.
-
----
-
-### 2026-06-05 08:01:41  #公司 #市場
-
-三星電子股價下跌5%。
-
----
-
-### 2026-06-05 08:01:33  #市場 #國際
-
-韓國綜合股價指數下跌4%，至8291.15點。
-
----
-
-### 2026-06-05 08:01:25  #市場
-
-首爾股市綜合股價指數（KOSPI）下跌4%。
-
----
-
-### 2026-06-05 08:01:13  #其他
-
-【查獲數千份假證、近6000枚假章 公安部公佈5起典型案例】黨政機關、企事業單位官方網站是資訊公開、便民服務的重要視窗，也是群眾信任的權威資訊來源和辦事渠道。一些不法人員為謀取非法利益，透過“以假亂真”手段仿冒假冒官方網站，從事虛假認證、製售假證、網路詐騙、竊取個人資訊等各類違法犯罪活動，嚴重擾亂社會公共秩序，損害人民群眾合法權益。 公安機關網安部門針對仿冒假冒網站違法犯罪，始終保持高壓嚴打態勢，依法偵辦查處一批非法利用資訊網路搭建仿冒假冒網站違法犯罪案件。今日，公安部網安局公佈5起仿冒假冒網站違法犯罪典型案例。
-
----
-
-### 2026-06-05 08:00:38  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌3.7%，至8323.20點。
-
----
-
-### 2026-06-05 08:00:16  #市場
-
-【日韓股市開盤】日經225指數上午開盤報67115.00點，跌幅0.53％。韓國綜合股價指數（KOSPI）開盤下跌3.7％，至8323.20點。
-
----
-
-### 2026-06-05 07:59:25  #宏觀
-
-【市場監管總局公佈傳統工藝市場“打假清源”典型案例 】記者6月4日獲悉，2026年以來，市場監管部門以珠寶玉石、貴金屬飾品、紅木製品等傳統工藝品為重點，開展“打假清源”專項行動，依法查辦了一批違法違規案件。國家市場監督管理總局當日對外公佈了一批典型案例。
-
----
-
-### 2026-06-05 07:59:05  #Trading Economics #Economy #Japan #Foreign Exchange Reserves #Importance 2
-
-Japan Forex Reserves Hit 10-Month Low — Japan’s foreign reserves fell by USD 77.11 billion to USD 1.31 trillion at the end of May 2026 from USD 1.38 trillion in the previous month, reaching their lowest level since July last year. Foreign currency reserves declined to USD 1.09 trillion, consisting of USD 931.68 billion in securities and USD 162.24 billion in deposits. Of the deposits, USD 161.80 billion were held with foreign central banks and the BIS, while deposits with banks headquartered in Japan totaled USD 410 million. The IMF reserve position stood at USD 11.51 billion, SDR holdings were valued at USD 60.89 billion, and gold reserves amounted to USD 123.65 billion. Other reserve assets totaled USD 15.91 billion, while other foreign currency assets stood at USD 34.50 billion. The sharp decline likely reflected Japan's large-scale yen-buying intervention during the month. The Ministry of Finance recently confirmed that authorities spent a record of JPY 11.7 trillion supporting the currency between late April to May 28.
-
----
-
-### 2026-06-05 07:58:29  #公司 #國際
-
-【巴克萊稱AI還不會取代信貸對沖基金交易員 僅7%投資人預期大裁員】巴克萊銀行一項調查顯示，避險基金與資產管理公司在投資全球信貸市場時愈來愈多使用AI，但至少目前而言，這項技術尚未取代人類交易員。調查發現，AI已經超越實驗性、零散應用的階段，在各類投資人之間逐步普及。不過，其主要用途仍集中於研究、證券篩選及分析，扮演的是輔助角色，而非取代人類判斷。策略師Zornitsa Todorova和Andrea Diaz Lafuente在週四的一份報告中寫道，整體而言，AI料將重塑角色與工作流程，而非在短期內大幅削減人力。他們指出，主流觀點認為，在員工人數基本上保持穩定的前提下，生產力會更高。巴克萊銀行上個月調查北美、歐洲、中東和非洲以及亞洲410位買方機構投資人，僅7%的受訪者預計會出現大規模裁員。
-
----
-
-### 2026-06-05 07:58:05  #公司 #國際
-
-【特朗普就“維修權”爭議與汽車行業代表舉行會晤】美國總統唐納德·特朗普週四表示，他已與汽車行業的高層領導會面，討論了關於“維修權”立法的持續爭議。特朗普會見了通用汽車執行長瑪麗·巴拉、福特汽車高階執行官安德魯·弗裡克，以及全美汽車經銷商協會和汽車創新聯盟的高層官員，共和黨參議員、前汽車經銷商伯尼·莫雷諾也出席了會議。福特公司證實參加了此次會議，而汽車行業組織則拒絕置評。通用汽車公司未回應置評請求。“昨天我們約見了汽車行業代表。他們不希望人們修理自己的車。我說‘這太奇怪了！’”特朗普表示。“他們有種規定：不允許任何人修理自己的車。”多年來，汽車行業一直與獨立維修店及其他團體就新車維修權問題爭執不休。美國汽車維修服務市場年產值約為2,000億美元。上週美國眾議院一個委員會透過的立法將把現有的行業諒解備忘錄寫入法律，並賦予聯邦貿易委員會執行這些協議的權力。
 
 ---

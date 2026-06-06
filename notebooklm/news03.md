@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:35:13_
-_本檔包含 4029 則快訊，約 700853 字_
+_更新時間：2026-06-07 01:06:42_
+_本檔包含 4023 則快訊，約 701284 字_
+
+---
+
+### 2026-06-03 23:57:05  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls on Tariff Threats and Middle East Tensions — The CAC 40 fell 0.7% to close at 8,150 on Wednesday, tracking broader European losses as investors weighed uncertainty surrounding the US-Iran conflict and fresh US tariff threats. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased. Financials weakened, with BNP Paribas down 1.3% and AXA losing 1.9%. Luxury shares also came under pressure, with LVMH shedding 3% and L'Oréal falling 2.2%. Airbus lost 2%, Safran retreated 1.4%, and Stellantis dropped 4% despite announcing new investments in France.
+
+---
+
+### 2026-06-03 23:56:37  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary Bessent said the U.S. has all the ingredients for a very strong economy.
+
+---
+
+### 2026-06-03 23:56:06  #國際
+
+美國財長貝森特：經濟具備實現強勁增長的全部有利條件。
+
+---
+
+### 2026-06-03 23:52:17  #公司
+
+【新安潔：董事長魏延田被留置時間延長三個月】新安潔公告，收到董事長魏延田家屬轉達的《延長留置時間通知書》，重慶市綦江區監察委員會決定延長魏延田留置時間三個月，延長期間為2026年5月27日至2026年8月27日。目前公司生產經營正常，董事長職責暫由副董事長王光強代為履行，其他董監高均正常履職。
+
+---
+
+### 2026-06-03 23:51:21  #國際
+
+【法國總理：以色列應停止在黎巴嫩軍事行動】法國總理勒科爾尼3日在法國國民議會接受議員質詢時表示，以色列應停止在黎巴嫩境內的軍事行動和結束對黎非法佔領。勒科爾尼說，以色列繼續在黎巴嫩作戰“沒有正當理由”，長遠看有損以色列自身安全利益。他強調說：“破壞本就脆弱的停火不可接受。”勒科爾尼說，黎巴嫩問題對當前美伊談判有著“直接影響”。要為結束伊朗戰事尋求全面解決方案，就“不能拋開黎巴嫩問題不談”。（新華社）
+
+---
+
+### 2026-06-03 23:50:55  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Dips on Middle East Conflict and US Tariffs — The FTSE MIB fell 1.1% to close at 50,038 on Wednesday as renewed tensions in the Middle East and fresh US tariff threats weighed on sentiment. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased and the BTP-Bund spread widened. Financials led losses, with UniCredit and Intesa Sanpaolo down 1.9%, while MPS and BPER fell 2.1%. Luxury shares also weakened, with Ferrari losing 2.4% and Moncler down 2%. Stellantis shed 4% after denying it had committed to producing one million vehicles annually in Italy.
+
+---
+
+### 2026-06-03 23:48:50  #MKT News
+
+U.S. Treasury Secretary Bessent said individuals who illegally evade taxes should be investigated.
+
+---
+
+### 2026-06-03 23:48:20  #國際
+
+美國財長貝森特：沒錯，非法逃稅人員理應接受調查。
+
+---
+
+### 2026-06-03 23:48:01  #MKT News
+
+【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council as non-permanent members】On the 3rd the UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council. One non‑permanent seat remains to be filled.
 
 ---
 
@@ -24183,95 +24237,5 @@ Bank of England Governor Bailey said the current energy shock is far less severe
 ### 2026-06-02 22:29:22  #其他
 
 挪威財政大臣：挪威主權財富基金體量過於龐大，資產配置已無處避險。
-
----
-
-### 2026-06-02 22:29:00  #MKT News #Nasdaq100 #Impact bearish
-
-Nasdaq 100 futures quickly turned negative.
-
----
-
-### 2026-06-02 22:28:56  #央行 #其他
-
-英國央行貝利談及人工智慧：當前市場定價隱含所有人都能從AI行情中獲益的樂觀預期。
-
----
-
-### 2026-06-02 22:28:45  #MKT News #Important
-
-Coking coal futures (contract 2609) reversed into gains, up 1.39% at 1,387.5 yuan/ton; trading value ~27.679 bln yuan. Open interest rose about 32.1k contracts intraday, signaling notable position build. Coke futures (contract 2609) rose 1.51% to 2,015.5 yuan/ton; trading value ~1.809 bln yuan and open interest climbed nearly 1.5k contracts, with volume and OI increasing in tandem.
-
----
-
-### 2026-06-02 22:28:34  #焦點 #國際
-
-美國國務卿魯比奧：伊朗相關協議或於今日、明日或下週落地。
-
----
-
-### 2026-06-02 22:28:21  #MKT News #Important
-
-US Secretary of State Rubio said an Iran agreement could be reached today, tomorrow or next week.
-
----
-
-### 2026-06-02 22:28:18  #MKT News
-
-Bank of England Governor Bailey said markets may be overly optimistic about AI's pass-through effects.
-
----
-
-### 2026-06-02 22:27:55  #MKT News
-
-Egypt's Ministry of Supply said the government approved a mechanism allowing sugar to be listed and traded on the commodities market.
-
----
-
-### 2026-06-02 22:27:49  #其他
-
-Alphabet(GOOG.O)股價跌幅從此前的4.8%收窄至1.6%。
-
----
-
-### 2026-06-02 22:27:40  #其他
-
-納斯達克100指數轉跌。
-
----
-
-### 2026-06-02 22:27:30  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) shares trimmed losses to 1.6% from an earlier 4.8%.
-
----
-
-### 2026-06-02 22:27:24  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Halts Slide — The yield on the 10-year US Treasury note rose was above 4.45% on Tuesday, halting the slide that bottomed at a three-week low in the prior week as the latest economic data favored restrictive policy by the Federal Reserve. The JOLTS indicated that job openings were well above expectations at their highest in over one year in April, consistent with robust labor data for the period in muted levels of jobless claims. On top of that, manufacturing activity was also above expectations in May per the ISM PMI, while prices continued to surge. Rate futures continued to show a portion of the market positioned for a rate hike by the Federal Reserve this year, even though the new FOMC Chairman Kevin Warsh had previously advocated for lower rates. The hawkish outlook for the central bank also persisted despite oil prices remaining below their peaks, as the continuous impasse between Iran and the US delayed expectations of restored energy supply from the region.
-
----
-
-### 2026-06-02 22:27:17  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. Secretary of State Rubio said Iran may have agreed to negotiate some elements of its nuclear program it previously refused to discuss.
-
----
-
-### 2026-06-02 22:27:10  #國際
-
-美國國務卿魯比奧：伊朗有可能已經同意就其核計劃中一些此前拒絕在談判中提及的內容進行磋商。
-
----
-
-### 2026-06-02 22:26:44  #焦點 #國際
-
-美國國務卿魯比奧：我們正在與伊朗進行談判。
-
----
-
-### 2026-06-02 22:26:38  #MKT News
-
-Senate Republican leader Thune, asked about Trump's appointment of Pulte as acting director of national intelligence, said the U.S. does not need a weaponized director of national intelligence.
 
 ---
