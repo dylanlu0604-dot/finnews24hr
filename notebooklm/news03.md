@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:07:14_
-_本檔包含 4034 則快訊，約 700754 字_
+_更新時間：2026-06-07 00:35:13_
+_本檔包含 4029 則快訊，約 700853 字_
+
+---
+
+### 2026-06-03 23:47:42  #其他
+
+卡夫亨氏：力求避免漲價，計劃在 2026 年自行消化約八成通脹成本。
+
+---
+
+### 2026-06-03 23:46:39  #國際
+
+惠譽評級：隨著歐洲各國增加國防開支，德國經濟有望從中獲益。
+
+---
+
+### 2026-06-03 23:46:18  #其他
+
+聯合國大會3日選舉奧地利、葡萄牙、千里達及托巴哥、辛巴威為聯合國安理會非常任理事國。尚有一個非常任理事國待選出。（新華社）
+
+---
+
+### 2026-06-03 23:46:11  #MKT News
+
+NHC: Tropical depression strengthened into the first tropical storm of the 2026 eastern Pacific hurricane season.
+
+---
+
+### 2026-06-03 23:45:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #EURUSD
+
+FITCH says the German economy will benefit from increased European defence spending.
+
+---
+
+### 2026-06-03 23:45:38  #Trading Economics #Markets #United States #stocks #Importance 1
+
+T-Mobile Us Stock Price Hits 22-month Low — T-Mobile Us shares decreased to 180.82 USD, the lowest since July 2024. Over the past 4 weeks, T-Mobile Us lost 6.94%, and in the last 12 months, it decreased 25.23%.
+
+---
+
+### 2026-06-03 23:45:26  #公司
+
+【三安光電：金剛石熱沉基板已向客戶小批次出貨】三安光電在互動平臺表示，在熱沉散熱領域，公司生產的碳化矽襯底已向行業頭部客戶送樣驗證，金剛石熱沉基板已向客戶小批次出貨。
+
+---
+
+### 2026-06-03 23:44:53  #國際
+
+美國國家颶風中心（NHC）：熱帶低壓增強，發展成為 2026 年東太平洋颶風季首個熱帶風暴。
+
+---
+
+### 2026-06-03 23:44:23  #其他
+
+【位元組跳動旗下AI聊天機器人豆包擬推出付費專業版】據在微信公眾號釋出的宣告，位元組跳動旗下AI聊天機器人豆包擬推出付費專業版，以滿足專業人群的生產力需求。 專業版將包含軟體開發、資料分析、專業設計、流程自動化、金融分析、科學研究等專業服務。對於使用者日常使用的豆包功能，包含搜尋問答、寫作生圖、以及語音和影片對話等，將保持目前的免費服務，並繼續為免費使用者提供新的模型、能力和更好的體驗。專業版的服務，也將在一定額度內免費。專業版目前還在測試階段，正式上線時會透過官方渠道釋出完整資訊。
+
+---
+
+### 2026-06-03 23:43:04  #MKT News
+
+Bahrain said it had arrested 15 Iran-linked field operatives.
+
+---
+
+### 2026-06-03 23:42:26  #國際
+
+美國財長貝森特向沃倫表示，國會應當自查議員自身的證券交易行為。
+
+---
+
+### 2026-06-03 23:42:24  #MKT News
+
+U.S. Treasury Secretary Bessent said Congress should pay attention to its members' trading activity.
+
+---
+
+### 2026-06-03 23:41:58  #MKT News
+
+Democratic Senator Warren pressed U.S. Treasury Secretary Bessent, asking whether the SEC should investigate Trump's trades.
+
+---
+
+### 2026-06-03 23:41:42  #公司 #觀點
+
+【Quantinuum IPO據稱獲得逾20倍的超額認購】知情人士透露，Quantinuum Inc.的首次公開募股獲得逾20倍的超額認購，預計將於週三晚些時候將價格定在已經上調後的區間上方。據知情人士透露，霍尼韋爾國際公司持股的這家量子計算公司的IPO吸引了單純做多投資者的大量認購需求。預計股票將於週四在紐約證券交易所開始交易，股票程式碼為QNT。摩根大通、摩根士丹利、富瑞金融集團和Evercore公司等機構均參與了此次發行。
+
+---
+
+### 2026-06-03 23:41:27  #MKT News
+
+U.S. Treasury Secretary Bessent said Congress needs to sort out its internal affairs before addressing trade.
+
+---
+
+### 2026-06-03 23:41:18  #MKT News #Market Themes #The Trump Trade
+
+U.S. Treasury Secretary Bessent said it is clear Trump has outside managers executing trades.
 
 ---
 
@@ -24177,131 +24273,5 @@ U.S. Secretary of State Rubio said Iran may have agreed to negotiate some elemen
 ### 2026-06-02 22:26:38  #MKT News
 
 Senate Republican leader Thune, asked about Trump's appointment of Pulte as acting director of national intelligence, said the U.S. does not need a weaponized director of national intelligence.
-
----
-
-### 2026-06-02 22:26:34  #MKT News #Important #WTI #Impact mixed #Brent #XAUUSD
-
-U.S. Secretary of State Rubio said the U.S. is negotiating with Iran.
-
----
-
-### 2026-06-02 22:26:31  #國際
-
-魯比奧：我們（美國）仍然是世界上唯一的全球超級大國，但如果這種力量不被用來保護那些締造它的人、那些它本應保護的人，那麼這一切都毫無意義。
-
----
-
-### 2026-06-02 22:26:23  #MKT News
-
-US Secretary of State Rubio: Iran's conventional defensive capabilities have been significantly degraded.
-
----
-
-### 2026-06-02 22:26:14  #市場 #焦點
-
-焦煤連續主力合約日內漲1%，現報1382.50元。
-
----
-
-### 2026-06-02 22:26:10  #市場 #焦點
-
-比特幣跌破68000美元，日內跌4.92%。
-
----
-
-### 2026-06-02 22:25:50  #國際
-
-美國國務卿魯比奧：我們認為我們的預算將會經歷一些變化，我們的外交政策完全專注於美國的國家利益。
-
----
-
-### 2026-06-02 22:25:19  #國際
-
-魯比奧稱：伊朗的常規防禦能力已遭到大幅削弱。
-
----
-
-### 2026-06-02 22:24:59  #國際
-
-美國國務卿魯比奧：伊朗仍擁有大量無人機。
-
----
-
-### 2026-06-02 22:24:54  #MKT News #Market Regions #Europe & UK #S&P500 #Impact bearish
-
-Bank of England Governor Bailey said equity markets and credit spreads pose risks.
-
----
-
-### 2026-06-02 22:24:45  #央行 #其他
-
-英國央行行長貝利：股票市場、信用利差方面存在風險。
-
----
-
-### 2026-06-02 22:24:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. Secretary of State Rubio said Iran still possesses a large number of drones.
-
----
-
-### 2026-06-02 22:24:33  #MKT News
-
-Cisco (CSCO.O) shares rose 5%, extending gains to a fresh record high and lifting market capitalization above $500 billion for the first time.
-
----
-
-### 2026-06-02 22:24:22  #其他
-
-挪威財政大臣：此前的倫理監管框架引發了非預期的副作用。
-
----
-
-### 2026-06-02 22:23:30  #市場
-
-受對英交貨量下降影響，瑞士4月黃金出口下滑20%。
-
----
-
-### 2026-06-02 22:23:23  #其他
-
-【思科總市值首次突破5000億美元】思科股價漲幅擴大至5%，續刷記錄新高，總市值首次突破5000億美元。
-
----
-
-### 2026-06-02 22:22:55  #MKT News
-
-U.S. Secretary of State Rubio said foreign policy is entirely focused on U.S. national interests.
-
----
-
-### 2026-06-02 22:22:29  #其他
-
-德國勞工局：德國2026年或將面臨超80億歐元赤字。
-
----
-
-### 2026-06-02 22:22:26  #MKT News #Macro & Rates #US Economy
-
-U.S. Secretary of State Rubio said the U.S. budget is expected to undergo some changes.
-
----
-
-### 2026-06-02 22:22:26  #MKT News
-
-Norwegian finance minister says the sovereign wealth fund continues to operate under its ethical framework.
-
----
-
-### 2026-06-02 22:21:32  #MKT News
-
-Bank of England governor Bailey said the public must be convinced the 2% inf target is credible.
-
----
-
-### 2026-06-02 22:21:30  #公司 #市場 #國際
-
-【Quantinuum上市在即，量子計算概念股普漲，漲勢將“波及”同行】隨著霍尼韋爾支援的Quantinuum公司首次公開募股（IPO）的臨近，市場對它的期待不斷升溫，量子計算相關公司的股價也隨之集體大漲。IonQ股價漲4.2%。其他上漲的量子計算股票還包括：Rigetti Computing最高漲幅達6.3%，D-Wave最高漲幅達7.3%；Infleqtion Inc.最高漲幅更是達到了12%。IBM（計劃在未來五年內投資超過100億美元以鞏固其在量子計算領域的領先地位）在週二的交易中股價暫時持平；近期，一段將近六個月前唐納德·特朗普盛讚該公司執行長的影片在網路上廣泛流傳，受此影響，IBM的股價此前曾經歷了一波大漲。
 
 ---

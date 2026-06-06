@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:07:14_
-_本檔包含 3643 則快訊，約 700446 字_
+_更新時間：2026-06-07 00:35:13_
+_本檔包含 3657 則快訊，約 701000 字_
+
+---
+
+### 2026-06-02 22:26:34  #MKT News #Important #WTI #Impact mixed #Brent #XAUUSD
+
+U.S. Secretary of State Rubio said the U.S. is negotiating with Iran.
+
+---
+
+### 2026-06-02 22:26:31  #國際
+
+魯比奧：我們（美國）仍然是世界上唯一的全球超級大國，但如果這種力量不被用來保護那些締造它的人、那些它本應保護的人，那麼這一切都毫無意義。
+
+---
+
+### 2026-06-02 22:26:23  #MKT News
+
+US Secretary of State Rubio: Iran's conventional defensive capabilities have been significantly degraded.
+
+---
+
+### 2026-06-02 22:26:14  #市場 #焦點
+
+焦煤連續主力合約日內漲1%，現報1382.50元。
+
+---
+
+### 2026-06-02 22:26:10  #市場 #焦點
+
+比特幣跌破68000美元，日內跌4.92%。
+
+---
+
+### 2026-06-02 22:25:50  #國際
+
+美國國務卿魯比奧：我們認為我們的預算將會經歷一些變化，我們的外交政策完全專注於美國的國家利益。
+
+---
+
+### 2026-06-02 22:25:19  #國際
+
+魯比奧稱：伊朗的常規防禦能力已遭到大幅削弱。
+
+---
+
+### 2026-06-02 22:24:59  #國際
+
+美國國務卿魯比奧：伊朗仍擁有大量無人機。
+
+---
+
+### 2026-06-02 22:24:54  #MKT News #Market Regions #Europe & UK #S&P500 #Impact bearish
+
+Bank of England Governor Bailey said equity markets and credit spreads pose risks.
+
+---
+
+### 2026-06-02 22:24:45  #央行 #其他
+
+英國央行行長貝利：股票市場、信用利差方面存在風險。
+
+---
+
+### 2026-06-02 22:24:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. Secretary of State Rubio said Iran still possesses a large number of drones.
+
+---
+
+### 2026-06-02 22:24:33  #MKT News
+
+Cisco (CSCO.O) shares rose 5%, extending gains to a fresh record high and lifting market capitalization above $500 billion for the first time.
+
+---
+
+### 2026-06-02 22:24:22  #其他
+
+挪威財政大臣：此前的倫理監管框架引發了非預期的副作用。
+
+---
+
+### 2026-06-02 22:23:30  #市場
+
+受對英交貨量下降影響，瑞士4月黃金出口下滑20%。
+
+---
+
+### 2026-06-02 22:23:23  #其他
+
+【思科總市值首次突破5000億美元】思科股價漲幅擴大至5%，續刷記錄新高，總市值首次突破5000億美元。
+
+---
+
+### 2026-06-02 22:22:55  #MKT News
+
+U.S. Secretary of State Rubio said foreign policy is entirely focused on U.S. national interests.
+
+---
+
+### 2026-06-02 22:22:29  #其他
+
+德國勞工局：德國2026年或將面臨超80億歐元赤字。
+
+---
+
+### 2026-06-02 22:22:26  #MKT News #Macro & Rates #US Economy
+
+U.S. Secretary of State Rubio said the U.S. budget is expected to undergo some changes.
+
+---
+
+### 2026-06-02 22:22:26  #MKT News
+
+Norwegian finance minister says the sovereign wealth fund continues to operate under its ethical framework.
+
+---
+
+### 2026-06-02 22:21:32  #MKT News
+
+Bank of England governor Bailey said the public must be convinced the 2% inf target is credible.
+
+---
+
+### 2026-06-02 22:21:30  #公司 #市場 #國際
+
+【Quantinuum上市在即，量子計算概念股普漲，漲勢將“波及”同行】隨著霍尼韋爾支援的Quantinuum公司首次公開募股（IPO）的臨近，市場對它的期待不斷升溫，量子計算相關公司的股價也隨之集體大漲。IonQ股價漲4.2%。其他上漲的量子計算股票還包括：Rigetti Computing最高漲幅達6.3%，D-Wave最高漲幅達7.3%；Infleqtion Inc.最高漲幅更是達到了12%。IBM（計劃在未來五年內投資超過100億美元以鞏固其在量子計算領域的領先地位）在週二的交易中股價暫時持平；近期，一段將近六個月前唐納德·特朗普盛讚該公司執行長的影片在網路上廣泛流傳，受此影響，IBM的股價此前曾經歷了一波大漲。
 
 ---
 
@@ -21922,47 +22048,5 @@ Dropbox (DBX.O) announced a $900 mln share repurchase program.
 ### 2026-06-01 21:08:19  #市場
 
 【瑞銀：未來幾年英國國債收益率或將居高不下甚至上升】瑞銀經濟學家迪恩·特納在一份報告中表示，遠期利率表明，未來幾年英國國債收益率可能居高不下，甚至進一步上升。他表示，收益率上升意味著償債成本增加，“可能很快成為一個令人頭疼的問題”。特納指出，英國的債務存量超過GDP的90%，且政府赤字居高不下。然而，從全球範圍來看，在公共財政的可持續性方面，英國“既不是處境最好的，也不是最差的”。Tradeweb的資料顯示，10年期英國國債收益率最新上漲2個基點，至4.826%。
-
----
-
-### 2026-06-01 21:07:13  #MKT News
-
-The International Labour Organization said U.S. official Sheng Li will not assume the post of deputy director-general in July as previously planned.
-
----
-
-### 2026-06-01 21:07:01  #市場 #國際
-
-【日本雞肉價格創新高 炸雞店和烤串店成本激增】日本媒體1日報道，一項最新調查顯示，日本雞肉價格近期持續上漲，創2003年開始相關統計以來新高。不少炸雞店、烤串店經營成本激增，生意受到影響。日本農林水產省5月11日至13日對全國470家店鋪開展食品價格動向調查，結果顯示雞腿肉平均零售價為每100克154日元（約合6.5元人民幣），較往年高出14%，為2003年8月有可比資料以來的最高值。日本農畜產業振興機構分析，本輪雞肉漲價主要原因包括高致病性禽流感導致產量減少、進口量下降等。此外，日元貶值導致飼料成本增加、燃料費上漲等也被視為推高雞肉價格的原因。按日本媒體說法，由於上述漲價因素短期內無法改變，預計日本雞肉價格未來一段時間仍將處於高位。許多炸雞店和烤串店的經營者表示，由於進貨成本增加，他們不得不選擇上調菜品價格，或將部分雞肉類菜品下架。即便如此，部分餐飲企業仍利潤微薄，難以為繼。 (新華社)
-
----
-
-### 2026-06-01 21:06:51  #國際
-
-國際勞工組織表示，美國官員Sheng Li不會按此前預期在7月就任副總幹事一職。
-
----
-
-### 2026-06-01 21:06:27  #公司
-
-【華研精機：實控人包賀林擬減持1%股份】華研精機公告，控股股東、實際控制人之一兼董事長包賀林直接持股3429.32萬股，佔28.58%；合計持股4286.65萬股，佔35.72%。其擬於2026年6月24日至2026年9月23日，透過集中競價減持不超過120萬股，佔公司總股本1%，股份來源為首次公開發行前已發行股份，減持原因為個人資金需求。
-
----
-
-### 2026-06-01 21:05:55  #其他
-
-Live Nation將收購Dale Play Live的多數股權。
-
----
-
-### 2026-06-01 21:05:09  #MKT News
-
-The International Labour Organization said it has rescinded the appointment of its deputy director-general, citing delayed payments by the United States.
-
----
-
-### 2026-06-01 21:04:29  #焦點 #國際
-
-國際勞工組織稱，因美國拖欠會費遲遲未補繳，已決定撤銷該組織副總幹事一職的任命。
 
 ---

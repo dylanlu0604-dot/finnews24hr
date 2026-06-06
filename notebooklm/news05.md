@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:07:14_
-_本檔包含 3508 則快訊，約 700595 字_
+_更新時間：2026-06-07 00:35:13_
+_本檔包含 3507 則快訊，約 700776 字_
+
+---
+
+### 2026-06-01 21:07:13  #MKT News
+
+The International Labour Organization said U.S. official Sheng Li will not assume the post of deputy director-general in July as previously planned.
+
+---
+
+### 2026-06-01 21:07:01  #市場 #國際
+
+【日本雞肉價格創新高 炸雞店和烤串店成本激增】日本媒體1日報道，一項最新調查顯示，日本雞肉價格近期持續上漲，創2003年開始相關統計以來新高。不少炸雞店、烤串店經營成本激增，生意受到影響。日本農林水產省5月11日至13日對全國470家店鋪開展食品價格動向調查，結果顯示雞腿肉平均零售價為每100克154日元（約合6.5元人民幣），較往年高出14%，為2003年8月有可比資料以來的最高值。日本農畜產業振興機構分析，本輪雞肉漲價主要原因包括高致病性禽流感導致產量減少、進口量下降等。此外，日元貶值導致飼料成本增加、燃料費上漲等也被視為推高雞肉價格的原因。按日本媒體說法，由於上述漲價因素短期內無法改變，預計日本雞肉價格未來一段時間仍將處於高位。許多炸雞店和烤串店的經營者表示，由於進貨成本增加，他們不得不選擇上調菜品價格，或將部分雞肉類菜品下架。即便如此，部分餐飲企業仍利潤微薄，難以為繼。 (新華社)
+
+---
+
+### 2026-06-01 21:06:51  #國際
+
+國際勞工組織表示，美國官員Sheng Li不會按此前預期在7月就任副總幹事一職。
+
+---
+
+### 2026-06-01 21:06:27  #公司
+
+【華研精機：實控人包賀林擬減持1%股份】華研精機公告，控股股東、實際控制人之一兼董事長包賀林直接持股3429.32萬股，佔28.58%；合計持股4286.65萬股，佔35.72%。其擬於2026年6月24日至2026年9月23日，透過集中競價減持不超過120萬股，佔公司總股本1%，股份來源為首次公開發行前已發行股份，減持原因為個人資金需求。
+
+---
+
+### 2026-06-01 21:05:55  #其他
+
+Live Nation將收購Dale Play Live的多數股權。
+
+---
+
+### 2026-06-01 21:05:09  #MKT News
+
+The International Labour Organization said it has rescinded the appointment of its deputy director-general, citing delayed payments by the United States.
+
+---
+
+### 2026-06-01 21:04:29  #焦點 #國際
+
+國際勞工組織稱，因美國拖欠會費遲遲未補繳，已決定撤銷該組織副總幹事一職的任命。
 
 ---
 
@@ -21125,53 +21167,5 @@ SpaceX's Falcon 9 launched 24 Starlink satellites from California.
 ### 2026-05-31 00:37:34  #MKT News
 
 【Multiple artists withdraw from Freedom 250 concerts; Trump may replace events with rally and speech】President Trump said Saturday he is considering cancelling a series of concerts planned to mark the United States' 250th anniversary after multiple performers withdrew, and replacing them with a speech and rally. Poison frontman Bret Michaels was the fifth musician to pull out on Friday. The Freedom 250 concerts were scheduled June 25–July 10 on the National Mall; Trump posted on his social platform that he may host a speech and rally instead.
-
----
-
-### 2026-05-31 00:33:28  #國際
-
-美國證券交易委員會指控得克薩斯州居民內森·富勒涉嫌涉案金額達1230萬美元的加密貨幣投資詐騙案。
-
----
-
-### 2026-05-31 00:28:29  #國際
-
-【霍爾木茲海峽船舶通行量上升 船東稱美軍就航路資訊提供指引】船東們對霍爾木茲海峽航運恢復增長愈發樂觀。在美國提供的航行資訊支援下，本週有更多船隻駛離這一水道。至少兩家不具名船東表示與美軍保持聯絡，後者向他們提供了透過該水道的最佳航行建議。美國中央司令部發言人表示，美軍並未為船隻提供護航，但仍持續向該地區商船提供建議。一名知情人士表示，一支船隊在航行過程中曾遭疑似伊朗快艇接近，隨後突然出現的直升機驅離了這些快艇，使得該知情人士所在船隻得以繼續遠離霍爾木茲海峽。
-
----
-
-### 2026-05-31 00:27:18  #國際
-
-以色列本土前線指揮部訊息，上加利利多地拉響防空警報，預警火箭彈來襲。
-
----
-
-### 2026-05-31 00:26:42  #MKT News
-
-Al Jazeera reported Israel's interior ministry said rocket alerts sounded across multiple areas of the Galilee Heights.
-
----
-
-### 2026-05-31 00:15:28  #MKT News
-
-President Trump said he will not perform at the "Freedom 250" concert but will speak at a campaign rally at the same Washington, D.C. venue.
-
----
-
-### 2026-05-31 00:12:14  #國際
-
-特朗普：我將不在“自由250”音樂會上演出，改為在華盛頓特區同一地點的競選集會上發表演講。
-
----
-
-### 2026-05-31 00:11:01  #國際
-
-黎巴嫩衛生部：自3月2日以來，以色列對黎巴嫩發動的襲擊已造成3371人遇難、10129人受傷。
-
----
-
-### 2026-05-31 00:07:34  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Defense Secretary Hegeseth said the Strait of Hormuz should be fully open and free, with vessels from all countries allowed to transit.
 
 ---

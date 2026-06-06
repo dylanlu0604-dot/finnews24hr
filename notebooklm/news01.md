@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 00:07:14_
-_本檔包含 3641 則快訊，約 700759 字_
+_更新時間：2026-06-07 00:35:13_
+_本檔包含 3646 則快訊，約 701225 字_
+
+---
+
+### 2026-06-07 00:34:34  #國際
+
+Meta在哥倫比亞與菲律賓上線USDC創作者支付專案，由使用者自行承擔代幣兌換與資產託管工作。
+
+---
+
+### 2026-06-07 00:34:21  #觀點
+
+高盛在其數字資產平臺GS DAP上，推出首支基於區塊鏈、面向機構投資者的不動產代幣化基金。
+
+---
+
+### 2026-06-07 00:32:12  #國際
+
+德國總理默茨： 如果我們在歐洲團結一致，我們將是世界上最大、最成功的經濟區之一。 最好的年份並非在我們身後。美好的年份在前方等待著我們。
+
+---
+
+### 2026-06-07 00:32:02  #國際
+
+伊朗世界盃代表隊已從土耳其啟程前往墨西哥，隊伍將駐紮在蒂華納備戰賽事。此前有訊息稱美國拒絕為部分隨行工作人員發放簽證，雙方由此產生外交分歧。
+
+---
+
+### 2026-06-07 00:31:36  #MKT News
+
+Saudi outlet alhadath reports Pakistan's interior minister has arrived in Iran.
+
+---
+
+### 2026-06-07 00:29:29  #國際
+
+【白宮人工智慧政策顧問斯里拉姆·克里希南即將離任】特朗普政府首席人工智慧政策顧問斯里拉姆·克里希南計劃於6月底離任。兩位知情人士透露，克里希南已商議在卸任後創辦一家政策研究機構。其中一人稱，該機構將配備工程師，為特朗普政府的白宮人工智慧計劃提供支援。白宮發言人尚未就此置評請求作出即時回應。
+
+---
+
+### 2026-06-07 00:29:14  #MKT News #Market Themes #AI Revolution
+
+The Information reports White House senior AI policy advisor Krishnan will depart.
+
+---
+
+### 2026-06-07 00:27:39  #國際
+
+市場資訊：克里希南已探討過成立一家政策機構來支援特朗普政府。
+
+---
+
+### 2026-06-07 00:27:26  #其他
+
+白宮人工智慧政策顧問克里希南將卸任。
+
+---
+
+### 2026-06-07 00:27:18  #MKT News
+
+The Information reported that Krishnan, a senior AI policy adviser at the White House Office of Science and Technology Policy, has discussed creating a policy office to support the Trump administration.
+
+---
+
+### 2026-06-07 00:20:55  #央行 #其他
+
+舊金山聯儲主席戴利表示，2027年將是人工智慧提振生產效率的關鍵考驗之年。
+
+---
+
+### 2026-06-07 00:12:46  #MKT News #Macro & Rates #US Economy
+
+Trump retweeted a White House social-media post on employment data saying, 'Jobs, jobs, jobs. Data don't lie.'
+
+---
+
+### 2026-06-07 00:10:28  #MKT News
+
+Israel shelled the Bargaz Valley in the Hasbaya area of southern Lebanon.
+
+---
+
+### 2026-06-07 00:10:23  #國際
+
+美國國防部長赫格塞思在諾曼底登陸紀念日演講中將移民問題比作入侵，並指出這給歐洲帶來安全隱患。
+
+---
+
+### 2026-06-07 00:10:04  #MKT News
+
+【Israeli strikes across Gaza cause multiple casualties】On the 6th (local time) Israeli forces struck multiple locations across the Gaza Strip, killing at least seven Palestinian civilians and wounding others. An evening strike on tents sheltering displaced people in western Gaza City killed six—including two women—and wounded at least 15, most of them children.
+
+---
+
+### 2026-06-07 00:08:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY
+
+【Fed Governor Barr warns easing Wall Street bank rules raises future risk】Fed Governor Michael Barr criticized recent rollbacks easing limits on bank lending, saying proposals have substantially weakened bank oversight and that vulnerabilities from looser rules may not be visible now but could accumulate over several years and cause serious economic damage. He said Trump-era officials loosened capital requirements, narrowed the regulatory perimeter and facilitated competition between traditional banks and private-credit firms. Barr warned that weaker capital, liquidity and supervisory standards would raise the risk of bank stress; while banks need room to support economic innovation, history shows profit-driven innovation without adequate safeguards can create excessive risk that, if realized, threatens firms, households and the broader economy.
+
+---
+
+### 2026-06-07 00:06:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact mixed #XAUUSD #DXY
+
+Federal Reserve Vice Chair for Supervision Michael Barr warned that loosening regulatory rules for Wall Street banks could create risks.
 
 ---
 
@@ -21921,77 +22023,5 @@ Japan Forex Reserves Hit 10-Month Low — Japan’s foreign reserves fell by USD
 ### 2026-06-05 07:58:05  #公司 #國際
 
 【特朗普就“維修權”爭議與汽車行業代表舉行會晤】美國總統唐納德·特朗普週四表示，他已與汽車行業的高層領導會面，討論了關於“維修權”立法的持續爭議。特朗普會見了通用汽車執行長瑪麗·巴拉、福特汽車高階執行官安德魯·弗裡克，以及全美汽車經銷商協會和汽車創新聯盟的高層官員，共和黨參議員、前汽車經銷商伯尼·莫雷諾也出席了會議。福特公司證實參加了此次會議，而汽車行業組織則拒絕置評。通用汽車公司未回應置評請求。“昨天我們約見了汽車行業代表。他們不希望人們修理自己的車。我說‘這太奇怪了！’”特朗普表示。“他們有種規定：不允許任何人修理自己的車。”多年來，汽車行業一直與獨立維修店及其他團體就新車維修權問題爭執不休。美國汽車維修服務市場年產值約為2,000億美元。上週美國眾議院一個委員會透過的立法將把現有的行業諒解備忘錄寫入法律，並賦予聯邦貿易委員會執行這些協議的權力。
-
----
-
-### 2026-06-05 07:55:53  #公司 #市場 #國際
-
-【標普重申現有規則 SpaceX暫無法提前納入美國基準股指】標普全球表示，不會改變其主要指數的納入標準，這給馬斯克 旗下的SpaceX公司帶來了一記重擊，因為這實際上排除了這起有史以來規模最大的IPO能迅速進入基準標普500指數的可能性。馬斯克在多方面重寫了SpaceX的IPO攻略，包括計劃讓散戶投資者在配售中發揮更大作用、推動儘早納入指數，以及構建治理結構以保持創始人對公司的強力控制。該公司計劃籌集750億美元，目標估值達1.75萬億美元，這將使其躋身美國上市企業市值前十之列，儘管其可供交易的股份僅佔極小一部分。但標普表示，“不應僅基於市值就豁免財務可行性、運營年限以及IWF（可投資權重係數）等要求”。根據標普未作修改的規則之一，企業要被納入標普500指數，必須在最近一個季度以及最近四個季度的累計業績中，依據公認會計原則實現盈利。儘管SpaceX的營收增長了33%至186.7億美元，但2025年仍錄得49.4億美元的淨虧損。納斯達克已做出調整 ，這將使SpaceX、Anthropic及其他新上市的超大市值公司更容易加入其納斯達克100指數。一旦SpaceX加入該指數，納斯達克100指數基金將被迫購入大量公開流通的SpaceX股票。
-
----
-
-### 2026-06-05 07:55:22  #觀點
-
-【華泰證券：光模組裝置或迎量升價增拐點】華泰證券研報表示，AI算力需求持續增長驅動高速光模組加速放量，同時1.6T/3.2T高速率升級及CPO等技術迭代推動光模組封裝複雜度與效能要求持續提升，帶動上游裝置行業進入“量增+價升”共振階段。光模組裝置市場迎增長加速拐點，看好產業鏈相關企業發展。
-
----
-
-### 2026-06-05 07:55:10  #公司
-
-【振華科技：公司目前整體鉭電容產能10億隻】振華科技(000733)在互動平臺表示，公司目前整體鉭電容產能10億隻，公司持續緊跟市場需求與技術發展，對現有產線進行智慧化升級改造與效能提升，以穩步釋放潛在產能。公司民用鉭電容主要應用在伺服器領域、低壓電路保護領域、民用爆破領域和智慧三表領域；薄膜電容、超級電容、鋁電容及MLCC主要應用於軌道交通領域和超算領域，整體民用業務佔比不大。
-
----
-
-### 2026-06-05 07:54:20  #其他
-
-【中國航運韌性為全球供應鏈穩定注入信心 】6月2日至5日，第四屆天津國際航運產業博覽會召開，聚焦航運智慧化、綠色化、國際化，以及全球供應鏈安全穩定，搭建國際航運合作與創新成果展示平臺，吸引超400家企業參展。中外與會嘉賓認為，中國的航運韌性為全球供應鏈穩定注入了信心。  資料顯示，中國國際航運量佔全球比重近三分之一，航運服務網路覆蓋全球。中國已經建成世界最大的港口叢集，港口貨物吞吐量連續20多年位居世界第一。 上海國際航運研究中心資訊長徐凱表示，中國航運的韌性，是硬核基礎設施、完整產業體系、技術創新能力和深度全球化佈局共同作用的結果。這種韌性不僅保障了中國自身外貿的穩定發展，更為動盪中的全球供應鏈提供了難能可貴的確定性。（新華社）
-
----
-
-### 2026-06-05 07:53:00  #國際
-
-【澤連斯基提議會晤 普京重申願意和談 】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。
-
----
-
-### 2026-06-05 07:53:00  #市場 #焦點
-
-WTI原油突破93美元/桶，日內跌0.04%。
-
----
-
-### 2026-06-05 07:51:02  #國際
-
-日本財務大臣片山皋月：消費稅減免的方向尚未確定。不會依靠舉債來為食品消費稅減擴音供資金。
-
----
-
-### 2026-06-05 07:50:37  #經濟數據 #日本
-
-日本5月外匯儲備13059億美元，前值13830億美元。
-
----
-
-### 2026-06-05 07:50:28  #國際
-
-日本財務省：截至5月末日本外匯儲備規模為13058.74億美元，4月末為13829.81億美元。
-
----
-
-### 2026-06-05 07:50:10  #MKT News #USDJPY #Impact bullish #DXY #XAUUSD #Impact bearish
-
-Japan's foreign exchange reserves were $1,305.9 bln in May, down from $1,383.0 bln in April.
-
----
-
-### 2026-06-05 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Foreign Exchange Reserves (May) | actual 1305900000000B | previous 1383000000000B
-
----
-
-### 2026-06-05 07:49:18  #資料 #央行 #國際
-
-【機構：美國就業資料或為美元兌日元提供看漲催化劑】StoneX的Matt Simpson在評論中表示，將於今天晚些時候公佈的美國就業資料可能為美元兌日元提供看漲催化劑。這位高階市場分析師指出，非農就業報告“在過去兩個月均意外上行“。他說，此外，“在美國供應管理學會調查改善，且服務業採購經理人指數(PMI)中的支付價格分項僅微幅上升的背景下，就業增長可能會繼續支援美聯儲在更長時間內維持高利率的敘事，甚至重新引發圍繞加息的討論。”Simpson補充說：“這將在週末前為美元兌日元提供看漲催化劑。“
 
 ---
