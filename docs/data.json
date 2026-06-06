@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-07 00:58:53",
-  "count": 18796,
+  "updated": "2026-06-07 01:02:46",
+  "count": 18803,
   "items": [
+    {
+      "id": "4921369",
+      "time": "2026-06-07 01:01:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度搗毀H-1B簽證造假團伙，有關部門查獲超10萬份偽造學歷證書。"
+    },
+    {
+      "id": "4921368",
+      "time": "2026-06-07 01:01:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，以軍週末對黎巴嫩南部150處真主黨目標實施打擊，其中包括武器庫與指揮中心。"
+    },
+    {
+      "id": "mkt:019e9ddf-df78-7665-8313-c0c0c8b0e4d7",
+      "time": "2026-06-07 00:59:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH said it fired rockets at an Israeli military concentration in Al-Bayda in southern Lebanon."
+    },
+    {
+      "id": "4921367",
+      "time": "2026-06-07 00:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨：我方發射火箭彈，打擊了黎巴嫩南部拜亞達鎮的以色列敵方集結人員。"
+    },
+    {
+      "id": "mkt:019e9ddf-aaa7-7665-8313-be9c882627e7",
+      "time": "2026-06-07 00:59:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "HEZBOLLAH said it used a submersible drone to strike a concentration of Israeli forces in al-Qantara in southern Lebanon."
+    },
+    {
+      "id": "4921366",
+      "time": "2026-06-07 00:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨：我方使用俯衝無人機襲擊了黎巴嫩南部坎塔拉鎮的以色列敵方集結點。"
+    },
+    {
+      "id": "mkt:019e9ddf-43fc-7665-8313-b248606bffb1",
+      "time": "2026-06-07 00:58:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IDF says it struck about 150 Hezbollah targets in southern Lebanon over weekend】The Israel Defense Forces said it struck roughly 150 Hezbollah infrastructure targets in southern Lebanon over the weekend, including weapons storage sites, command centers and rocket launchers. The IDF said those facilities were used by Hezbollah to prepare and carry out terrorist attacks against Israeli soldiers."
+    },
     {
       "id": "mkt:019e9ddd-b638-7665-8313-aa605fc2a64d",
       "time": "2026-06-07 00:56:53",
