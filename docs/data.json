@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-06 16:30:57",
-  "count": 18811,
+  "updated": "2026-06-06 16:35:05",
+  "count": 18814,
   "items": [
+    {
+      "id": "mkt:019e9c11-168d-7665-8311-52d1b61fe345",
+      "time": "2026-06-06 16:33:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "LAVROV said Russia's oil production fell by 1.5 mln b/d during the OPEC+ production-cut period."
+    },
+    {
+      "id": "mkt:019e9c0e-8127-7665-8311-4de3104aa23f",
+      "time": "2026-06-06 16:30:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lavrov said Russia will ensure the restoration of rights for Russian speakers in Ukraine and called that a precondition for a long-term settlement."
+    },
+    {
+      "id": "mkt:019e9c0e-5f24-7665-8311-42272c438935",
+      "time": "2026-06-06 16:30:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukrainian forces struck an oil depot in Russia's Krasnodar region and a military base near St. Petersburg."
+    },
     {
       "id": "mkt:019e9c0b-9872-7665-8311-3aaa1da113a0",
       "time": "2026-06-06 16:27:46",
