@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 20:26:02",
-  "count": 18772,
+  "updated": "2026-06-06 20:29:54",
+  "count": 18771,
   "items": [
+    {
+      "id": "mkt:019e9ce7-8799-7665-8312-c5c1076c2376",
+      "time": "2026-06-06 20:27:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict."
+    },
     {
       "id": "4921278",
       "time": "2026-06-06 20:25:15",
@@ -173249,22 +173257,6 @@
         "MKT News"
       ],
       "text": "Lebanese military says two soldiers were wounded in an Israeli airstrike."
-    },
-    {
-      "id": "4908308",
-      "time": "2026-05-30 20:29:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其將股票賣空禁令延長至6月12日。"
-    },
-    {
-      "id": "4908307",
-      "time": "2026-05-30 20:29:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：烏方將重點強化反彈道導彈防禦能力建設】烏克蘭總統澤連斯基在社交媒體發文表示，烏克蘭方面已召開專項工作會議，明確了未來數週外交與防務領域的核心優先工作事項。澤連斯基表示，本次會議確定的重點工作包含四大核心方向，分別是保障防空裝備供應、推進無人機生產與跨境供應合作、落實人道主義人員交換工作，以及爭取國際社會對烏克蘭能源領域的新增支援。澤連斯基稱，烏克蘭持續與美國及歐洲合作伙伴保持常態化溝通，並已全面梳理當前防空系統供應情況與相關合作協議的落地進度。下一階段，烏方將重點強化反彈道導彈防禦能力建設，推進與歐盟等合作方對接，敲定無人機生產、供應相關雙邊檔案，落實歐盟“無人機協議”，同時籌備多項涉外會晤。與此同時，烏方將穩步推進已達成的人道主義人員交換協議落地執行，積極對接具備斡旋能力的合作方，確保相關工作有序開展。"
     }
   ]
 }
