@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-07 02:15:39",
-  "count": 18801,
+  "updated": "2026-06-07 02:19:33",
+  "count": 18803,
   "items": [
+    {
+      "id": "mkt:019e9e27-b0b1-7665-8314-1fa39cf0a6a8",
+      "time": "2026-06-07 02:17:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions."
+    },
+    {
+      "id": "4921397",
+      "time": "2026-06-07 02:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社表示，哈爾克島聽到的爆炸聲與受控彈藥銷燬爆破有關。"
+    },
     {
       "id": "mkt:019e9e24-8377-7665-8314-164090925da4",
       "time": "2026-06-07 02:14:13",
