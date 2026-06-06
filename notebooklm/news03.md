@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:54:07_
-_本檔包含 4021 則快訊，約 701028 字_
+_更新時間：2026-06-07 03:45:38_
+_本檔包含 4006 則快訊，約 701397 字_
+
+---
+
+### 2026-06-04 00:29:00  #MKT News #Market Regions #Europe & UK
+
+【France says it has detained captain of Russian tanker intercepted by navy】The prosecutor’s office in Brest said on the 3rd that the captain of a Russian oil tanker intercepted earlier by the French navy has been held since the 2nd. The maritime gendarmerie carried out the detention. The Russian national is accused of commanding a vessel not flying a flag and refusing to cooperate with law enforcement at sea; he faces up to one year in prison and a €150,000 fine, and the vessel may be seized. The shipowner’s identity is still being verified.
+
+---
+
+### 2026-06-04 00:27:36  #其他
+
+潘興廣場拋售環球音樂約 8060 萬股股票。
+
+---
+
+### 2026-06-04 00:26:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran foreign minister: any hostile act will be met with immediate, decisive response】On the 3rd (local time) Iran's foreign minister said any hostile action would receive an immediate, decisive response. He said Iranian armed forces conduct defensive strikes within the framework of lawful self‑defense to counter US use of bases to attack Iranian civilian vessels and violations of a ceasefire. He added that objectives the US has failed to achieve by sanctions and war will not be achieved through further war.
+
+---
+
+### 2026-06-04 00:25:49  #國際
+
+【伊朗外長：任何敵對行為都將遭到立刻和果斷回應】當地時間3日，伊朗外長阿拉格齊表示，任何敵對行動都將遭到立即和果斷的回應。伊朗武裝部隊在合法自衛權框架內進行防禦性反擊，以對抗美國利用其基地攻擊伊朗民用船隻和違反停火協議的行為。阿拉格齊強調，美國透過制裁和戰爭未能實現的目標，也絕不會透過更多的戰爭來實現。（央視新聞）
+
+---
+
+### 2026-06-04 00:25:32  #國際
+
+【法國稱羈押了被海軍攔截的俄羅斯油輪船長】法國西北部沿海城市佈雷斯特檢察官辦公室3日說，法國海軍日前攔截的俄羅斯油輪船長2日起被羈押。 檢察官辦公室表示，法國海事憲兵隊執行了羈押任務。被羈押船長為俄羅斯籍，被指控所指揮的船舶未懸掛旗幟，以及在海上拒不配合執法等，他可能面臨一年監禁和15萬歐元罰款，船舶也可能被沒收。船東身份還在核實中。 法國總統馬克龍6月1日在社交媒體發文說，法國海軍5月31日在大西洋海域攔截了一艘從俄羅斯駛出的油輪。他說，上述行動在大西洋國際海域進行，獲得英國等多個夥伴國家配合，行動嚴格遵守海洋領域相關國際法。另據法媒報道，這艘油輪被歐盟、美國和英國制裁。 俄羅斯總統新聞秘書佩斯科夫同日說，法國軍方扣押俄羅斯油輪是非法的，這樣的行為“近乎國際海盜行徑”。(新華社)
+
+---
+
+### 2026-06-04 00:24:47  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+US stocks extended losses; the Nasdaq fell 1.00%.
+
+---
+
+### 2026-06-04 00:24:40  #MKT News
+
+Pakistan deputy prime minister's office said the fiscal 2026-27 budget will be released on Wednesday, June 10, 2026.
+
+---
+
+### 2026-06-04 00:24:30  #國際
+
+美國財長貝森特：企業減稅並非無償讓利，此舉能夠擴充產能。
+
+---
+
+### 2026-06-04 00:24:23  #市場
+
+鈀金期貨日內跌4%，現報1335.56美元/盎司。
+
+---
+
+### 2026-06-04 00:24:17  #市場 #焦點
+
+納指跌1.01%，現報26821.178點；道指跌0.88%，現報50857.488點；標普500指數跌0.66%，現報7559.390點。
+
+---
+
+### 2026-06-04 00:21:19  #其他
+
+巴基斯坦副總理辦公室：2026 至 2027 財年預算將於 2026 年 6 月 10 日（週三）公佈。
+
+---
+
+### 2026-06-04 00:21:09  #其他
+
+市場訊息：Point72資產管理規模在5月份增長2%，1-5月累計增長10.5%。
+
+---
+
+### 2026-06-04 00:20:49  #國際
+
+美國財長貝森特： 很多球隊出現更衣室爭執後，反而能在賽場贏球。昨日與普爾特交流順暢，希望延續當前良好勢頭。
+
+---
+
+### 2026-06-04 00:20:34  #MKT News
+
+【Russian Defence Ministry says Northern Fleet nuclear submarine fired cruise missile during Barents Sea exercise】On June 3, the Russian Defence Ministry said Northern Fleet nuclear submarine Arkhangelsk launched a Gaomanao cruise missile during live-fire training in the Barents Sea. The ministry said the missile struck a simulated enemy ship more than 200 km away and monitoring data confirmed a successful hit. The Kola Bay flotilla imposed navigation and flight restrictions on the relevant sea areas ahead of the test for safety.
+
+---
+
+### 2026-06-04 00:19:34  #國際
+
+美國財長貝森特：去年夏季，我告訴聯邦住房金融局（FHFA）局長Pulte“我會踹他屁股”。
+
+---
+
+### 2026-06-04 00:19:10  #國際
+
+【俄國防部稱核潛艇訓練時發射一枚巡航導彈】當地時間6月3日，俄羅斯國防部通報稱，北方艦隊“阿爾漢格爾斯克”號核潛艇在巴倫支海舉行實戰訓練期間，成功發射一枚“縞瑪瑙”巡航導彈。通報稱，打擊目標為距離200多公里外的“模擬敵方艦船”。監控資料顯示已成功命中目標。通報稱，為保障安全，科拉灣分艦隊在導彈試射前已對相關海域實施了通航與飛行管制。（央視新聞）
+
+---
+
+### 2026-06-04 00:17:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes on Negative Note — The DAX 40 closed about 1.3% down at 24,812 on Wednesday, reversing yesterday's advance, amid fading hopes of a quick resolution to the Middle East conflict and possible new tariffs from the Trump administration. Hostilities flared up, while conflicting signals over the status of negotiations kept investors on edge. Meanwhile, the US administration vowed to impose a 10%-12.5% tariff on its top trading partners, including the EU and the UK, over alleged links to goods produced with forced labour. Scout24 and SAP were the top losers among stocks, falling 5% and 4.3%. Deutsche Bank dropped 3.7% after CFO Raja Akram signalled that provisions for bad loans in the June quarter could exceed analysts’ expectations.
+
+---
+
+### 2026-06-04 00:15:56  #公司
+
+【達利歐稱人工智慧泡沫終將破裂 投資兌現時往往會刺破泡沫】億萬富豪投資人瑞·達利歐表示，火熱的人工智慧市場已顯現出泡沫跡象，而這一泡沫最終會破裂。這位橋水基金創始人週三在接受採訪時說：“所有重大的科技變革都會催生泡沫。沒有人能把握得恰到好處。你要麼投入大量資金去搶佔市場份額，不去擔心是否投得過多；要麼投入不足，結果失去市場份額。”達利歐表示，泡沫往往會在投資需要兌現回報時破裂。他提到市場對於AI公司盈利能力的擔憂。他說：“刺破泡沫的過程，就是把財富轉化為現金的過程。”他還表示，當下由AI驅動的市場“正沿著這樣的路徑演進，儘管這是一項了不起的技術”。
 
 ---
 
@@ -24027,203 +24135,5 @@ WTI Wavers as Markets Assess US-Iran Peace Prospects — WTI crude oil futures f
 ### 2026-06-02 22:57:14  #MKT News
 
 Bank of England Governor Bailey said not all AI-related stocks will be winners.
-
----
-
-### 2026-06-02 22:56:50  #MKT News
-
-Brazilian President Lula said that since his last meeting with Trump, U.S. and Brazilian trade negotiators have met three times and have not yet reached an agreement.
-
----
-
-### 2026-06-02 22:56:36  #MKT News #Market Themes #The Trump Trade
-
-Brazilian President Lula said he told Trump that the United States does not run a trade deficit with Brazil.
-
----
-
-### 2026-06-02 22:56:30  #國際
-
-巴西總統盧拉：已經向特朗普表明，巴西與美國之間不存在貿易逆差。
-
----
-
-### 2026-06-02 22:55:40  #國際
-
-巴西總統盧拉：自上次我與特朗普會晤以來，美巴兩國貿易談判代表已舉行了三輪會談；迄今為止尚未達成任何協議。
-
----
-
-### 2026-06-02 22:54:32  #MKT News
-
-Brazilian President Lula said he told U.S. President Trump that U.S. Secretary of State Rubio is hostile to Latin America and does not like Brazil.
-
----
-
-### 2026-06-02 22:54:24  #國際
-
-巴西總統盧拉：美國國務卿魯比奧是反拉美派，我已經告訴特朗普，魯比奧不喜歡巴西。
-
----
-
-### 2026-06-02 22:54:15  #MKT News
-
-Norwegian finance minister says active management could pose risks to Norway's sovereign wealth fund.
-
----
-
-### 2026-06-02 22:53:41  #國際
-
-烏克蘭總統澤連斯基：“國防部總局局長奧列格・伊萬申科提交了一份報告。內容涉及俄羅斯導彈生產相關細節：生產設施、射程、產能規模、關鍵零部件與裝置的供應鏈路，以及協助俄羅斯規避制裁的境外個人和企業。我方正擬定反制舉措的更新方案，既由烏方自主落地，也會同盟友協同實施。持續加碼對俄施壓至關重要。”
-
----
-
-### 2026-06-02 22:51:17  #國際
-
-美國國務卿魯比奧：美國不會因伊朗重新開放霍爾木茲海峽而解除制裁。
-
----
-
-### 2026-06-02 22:50:44  #公司 #資料 #國際
-
-【今年亞馬遜會員日提前至六月舉行】亞馬遜週二官宣：2026年亞馬遜會員日（Prime Day）定於6月23日至26日舉辦。 這家電商巨頭今年將大促檔期較往年提前，會員日以往慣例在7月開啟。往年會員日促銷多以輕奢、非必需消費品為主，但近年消費者選購重心逐步轉向剛需日用品。亞馬遜透露，生鮮與居家必需品將是今年大促的主推品類。 這一調整合乎市場形勢：密歇根大學資料顯示，受經濟環境承壓影響，5月美國消費者信心指數跌至歷史低位。
-
----
-
-### 2026-06-02 22:50:21  #國際
-
-美國國務卿魯比奧：阿曼與伊朗“眉來眼去”，試圖控制霍爾木茲海峽。
-
----
-
-### 2026-06-02 22:49:54  #公司
-
-【秋田微：電子紙產品實現小批次出貨】秋田微(300939)6月2日在機構調研時表示，公司已具備電子紙產品量產能力，並實現了小批次出貨。
-
----
-
-### 2026-06-02 22:49:33  #國際
-
-美國國務卿魯比奧：談判的首要條件是伊朗開放霍爾木茲海峽。
-
----
-
-### 2026-06-02 22:49:30  #MKT News #WTI #Impact bullish #Brent
-
-US Secretary of State Rubio: Iran will not receive sanctions relief solely for reopening the Strait of Hormuz.
-
----
-
-### 2026-06-02 22:49:23  #國際
-
-美國國務卿魯比奧：伊朗還必須承諾就高濃縮鈾的處置問題開展具體談判。
-
----
-
-### 2026-06-02 22:49:22  #MKT News
-
-U.S. Secretary of State Rubio said any easing of sanctions on Iran would be conditional on meeting specified requirements.
-
----
-
-### 2026-06-02 22:49:12  #MKT News
-
-Rubio said Iran must commit to concrete negotiations on the disposal of highly enriched uranium.
-
----
-
-### 2026-06-02 22:49:02  #國際
-
-美國國務卿魯比奧：伊朗正在攻擊商業船隻，伊朗已在霍爾木茲海峽的大部分割槽域進行了佈雷，伊朗表示在停火生效時將開放霍爾木茲海峽，但他們並沒有這樣做。對伊朗的任何制裁解除都以符合條件為前提。
-
----
-
-### 2026-06-02 22:48:44  #MKT News #WTI #Impact bullish #Brent
-
-US Secretary of State Rubio said the primary condition for negotiations is that Iran open the Strait of Hormuz.
-
----
-
-### 2026-06-02 22:48:30  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Secretary of State Rubio said Oman has had "ambiguous" contacts with Iran aimed at controlling the Strait of Hormuz.
-
----
-
-### 2026-06-02 22:48:06  #其他
-
-突尼西亞銀行工會：突尼西亞銀行從業人員計劃於6月舉行為期三天的罷工。
-
----
-
-### 2026-06-02 22:47:59  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Secretary of State Rubio said Iran has laid mines across much of the Strait of Hormuz.
-
----
-
-### 2026-06-02 22:47:42  #MKT News
-
-The union said bank workers in Tunisia plan a three-day strike in June.
-
----
-
-### 2026-06-02 22:47:37  #MKT News
-
-Bank of England Governor Bailey said maintaining the labour supply is necessary to support economic growth.
-
----
-
-### 2026-06-02 22:47:36  #MKT News #Market Themes #China Tech Giants
-
-【Huawei Digital Energy and GCL Group agree to deepen compute-electricity collaboration】On June 2, 2026 at the 19th International Photovoltaic and Smart Energy & Storage and Battery Conference in Shanghai, GCL Group chairman Zhu Gongshan met Huawei director and Huawei Digital Energy president Hou Jinlong; the parties agreed to deepen compute-electricity collaboration and reached several important understandings.
-
----
-
-### 2026-06-02 22:47:34  #國際
-
-美國國務卿魯比奧：伊朗必須非常明確地宣佈霍爾木茲海峽現已開放。
-
----
-
-### 2026-06-02 22:47:10  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Secretary of State Rubio says Iran is attacking commercial vessels.
-
----
-
-### 2026-06-02 22:47:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Secretary of State Rubio said Iran pledged to open the Strait of Hormuz once a ceasefire took effect, but it has not.
-
----
-
-### 2026-06-02 22:47:07  #央行 #其他
-
-英國央行行長貝利：需保障勞動力供給以拉動經濟增長。
-
----
-
-### 2026-06-02 22:46:57  #MKT News
-
-U.S. Secretary of State Rubio said Iran must reopen the Strait of Hormuz.
-
----
-
-### 2026-06-02 22:46:50  #公司
-
-【華為數字能源與協鑫集團達成重要共識】6月2日，在第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會期間，協鑫集團董事長朱共山與華為董事、華為數字能源總裁侯金龍在上海會晤。雙方圍繞強強聯合深入推進算電協同合作展開交流，並達成多項重要共識。
-
----
-
-### 2026-06-02 22:46:03  #公司
-
-【裕信銀行：對德國商業銀行的收購要約將使其直接持股比例推高至34%】最新檔案顯示，義大利裕信銀行對德國商業銀行發起的收購要約已獲得足夠多投資者的接受；一旦完成股份過戶，裕信銀行將持有其34%的股份。這一接受率表明，儘管該要約的隱含價值低於德國商業銀行目前的市場價格，但至少有一些投資者對該提議表示出興趣。裕信銀行已經實現了其既定目標，即透過提出收購更多股份的要約，來在未來機會出現時創造選擇權。
-
----
-
-### 2026-06-02 22:45:19  #市場 #國際
-
-【大量精煉銅或流入美國】6月伊始，紐約銅與倫敦銅期貨延續上行趨勢。據路透社報道，由於美國可能在6月底決定是否對精煉銅加徵進口關稅，引發市場緊張情緒，美國貿易商開始提前備貨，疊加市場套利操作再度升溫等因素，推動全球銅市進入高位博弈階段。今天（2日），國際銅價繼續走高。資料顯示，截至6月1日收盤，紐約商品交易所銅期貨主力合約價格在近一個月的時間裡累計漲幅達10%，同一時期內，倫敦金屬交易所三個月銅期貨價格的累計漲幅約為6.5%。（央視財經）
 
 ---

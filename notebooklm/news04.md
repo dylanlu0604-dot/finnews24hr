@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:54:07_
-_本檔包含 3635 則快訊，約 701088 字_
+_更新時間：2026-06-07 03:45:38_
+_本檔包含 3639 則快訊，約 701688 字_
+
+---
+
+### 2026-06-02 22:56:50  #MKT News
+
+Brazilian President Lula said that since his last meeting with Trump, U.S. and Brazilian trade negotiators have met three times and have not yet reached an agreement.
+
+---
+
+### 2026-06-02 22:56:36  #MKT News #Market Themes #The Trump Trade
+
+Brazilian President Lula said he told Trump that the United States does not run a trade deficit with Brazil.
+
+---
+
+### 2026-06-02 22:56:30  #國際
+
+巴西總統盧拉：已經向特朗普表明，巴西與美國之間不存在貿易逆差。
+
+---
+
+### 2026-06-02 22:55:40  #國際
+
+巴西總統盧拉：自上次我與特朗普會晤以來，美巴兩國貿易談判代表已舉行了三輪會談；迄今為止尚未達成任何協議。
+
+---
+
+### 2026-06-02 22:54:32  #MKT News
+
+Brazilian President Lula said he told U.S. President Trump that U.S. Secretary of State Rubio is hostile to Latin America and does not like Brazil.
+
+---
+
+### 2026-06-02 22:54:24  #國際
+
+巴西總統盧拉：美國國務卿魯比奧是反拉美派，我已經告訴特朗普，魯比奧不喜歡巴西。
+
+---
+
+### 2026-06-02 22:54:15  #MKT News
+
+Norwegian finance minister says active management could pose risks to Norway's sovereign wealth fund.
+
+---
+
+### 2026-06-02 22:53:41  #國際
+
+烏克蘭總統澤連斯基：“國防部總局局長奧列格・伊萬申科提交了一份報告。內容涉及俄羅斯導彈生產相關細節：生產設施、射程、產能規模、關鍵零部件與裝置的供應鏈路，以及協助俄羅斯規避制裁的境外個人和企業。我方正擬定反制舉措的更新方案，既由烏方自主落地，也會同盟友協同實施。持續加碼對俄施壓至關重要。”
+
+---
+
+### 2026-06-02 22:51:17  #國際
+
+美國國務卿魯比奧：美國不會因伊朗重新開放霍爾木茲海峽而解除制裁。
+
+---
+
+### 2026-06-02 22:50:44  #公司 #資料 #國際
+
+【今年亞馬遜會員日提前至六月舉行】亞馬遜週二官宣：2026年亞馬遜會員日（Prime Day）定於6月23日至26日舉辦。 這家電商巨頭今年將大促檔期較往年提前，會員日以往慣例在7月開啟。往年會員日促銷多以輕奢、非必需消費品為主，但近年消費者選購重心逐步轉向剛需日用品。亞馬遜透露，生鮮與居家必需品將是今年大促的主推品類。 這一調整合乎市場形勢：密歇根大學資料顯示，受經濟環境承壓影響，5月美國消費者信心指數跌至歷史低位。
+
+---
+
+### 2026-06-02 22:50:21  #國際
+
+美國國務卿魯比奧：阿曼與伊朗“眉來眼去”，試圖控制霍爾木茲海峽。
+
+---
+
+### 2026-06-02 22:49:54  #公司
+
+【秋田微：電子紙產品實現小批次出貨】秋田微(300939)6月2日在機構調研時表示，公司已具備電子紙產品量產能力，並實現了小批次出貨。
+
+---
+
+### 2026-06-02 22:49:33  #國際
+
+美國國務卿魯比奧：談判的首要條件是伊朗開放霍爾木茲海峽。
+
+---
+
+### 2026-06-02 22:49:30  #MKT News #WTI #Impact bullish #Brent
+
+US Secretary of State Rubio: Iran will not receive sanctions relief solely for reopening the Strait of Hormuz.
+
+---
+
+### 2026-06-02 22:49:23  #國際
+
+美國國務卿魯比奧：伊朗還必須承諾就高濃縮鈾的處置問題開展具體談判。
+
+---
+
+### 2026-06-02 22:49:22  #MKT News
+
+U.S. Secretary of State Rubio said any easing of sanctions on Iran would be conditional on meeting specified requirements.
+
+---
+
+### 2026-06-02 22:49:12  #MKT News
+
+Rubio said Iran must commit to concrete negotiations on the disposal of highly enriched uranium.
+
+---
+
+### 2026-06-02 22:49:02  #國際
+
+美國國務卿魯比奧：伊朗正在攻擊商業船隻，伊朗已在霍爾木茲海峽的大部分割槽域進行了佈雷，伊朗表示在停火生效時將開放霍爾木茲海峽，但他們並沒有這樣做。對伊朗的任何制裁解除都以符合條件為前提。
+
+---
+
+### 2026-06-02 22:48:44  #MKT News #WTI #Impact bullish #Brent
+
+US Secretary of State Rubio said the primary condition for negotiations is that Iran open the Strait of Hormuz.
+
+---
+
+### 2026-06-02 22:48:30  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Secretary of State Rubio said Oman has had "ambiguous" contacts with Iran aimed at controlling the Strait of Hormuz.
+
+---
+
+### 2026-06-02 22:48:06  #其他
+
+突尼西亞銀行工會：突尼西亞銀行從業人員計劃於6月舉行為期三天的罷工。
+
+---
+
+### 2026-06-02 22:47:59  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Secretary of State Rubio said Iran has laid mines across much of the Strait of Hormuz.
+
+---
+
+### 2026-06-02 22:47:42  #MKT News
+
+The union said bank workers in Tunisia plan a three-day strike in June.
+
+---
+
+### 2026-06-02 22:47:37  #MKT News
+
+Bank of England Governor Bailey said maintaining the labour supply is necessary to support economic growth.
+
+---
+
+### 2026-06-02 22:47:36  #MKT News #Market Themes #China Tech Giants
+
+【Huawei Digital Energy and GCL Group agree to deepen compute-electricity collaboration】On June 2, 2026 at the 19th International Photovoltaic and Smart Energy & Storage and Battery Conference in Shanghai, GCL Group chairman Zhu Gongshan met Huawei director and Huawei Digital Energy president Hou Jinlong; the parties agreed to deepen compute-electricity collaboration and reached several important understandings.
+
+---
+
+### 2026-06-02 22:47:34  #國際
+
+美國國務卿魯比奧：伊朗必須非常明確地宣佈霍爾木茲海峽現已開放。
+
+---
+
+### 2026-06-02 22:47:10  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Secretary of State Rubio says Iran is attacking commercial vessels.
+
+---
+
+### 2026-06-02 22:47:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Secretary of State Rubio said Iran pledged to open the Strait of Hormuz once a ceasefire took effect, but it has not.
+
+---
+
+### 2026-06-02 22:47:07  #央行 #其他
+
+英國央行行長貝利：需保障勞動力供給以拉動經濟增長。
+
+---
+
+### 2026-06-02 22:46:57  #MKT News
+
+U.S. Secretary of State Rubio said Iran must reopen the Strait of Hormuz.
+
+---
+
+### 2026-06-02 22:46:50  #公司
+
+【華為數字能源與協鑫集團達成重要共識】6月2日，在第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會期間，協鑫集團董事長朱共山與華為董事、華為數字能源總裁侯金龍在上海會晤。雙方圍繞強強聯合深入推進算電協同合作展開交流，並達成多項重要共識。
+
+---
+
+### 2026-06-02 22:46:03  #公司
+
+【裕信銀行：對德國商業銀行的收購要約將使其直接持股比例推高至34%】最新檔案顯示，義大利裕信銀行對德國商業銀行發起的收購要約已獲得足夠多投資者的接受；一旦完成股份過戶，裕信銀行將持有其34%的股份。這一接受率表明，儘管該要約的隱含價值低於德國商業銀行目前的市場價格，但至少有一些投資者對該提議表示出興趣。裕信銀行已經實現了其既定目標，即透過提出收購更多股份的要約，來在未來機會出現時創造選擇權。
+
+---
+
+### 2026-06-02 22:45:19  #市場 #國際
+
+【大量精煉銅或流入美國】6月伊始，紐約銅與倫敦銅期貨延續上行趨勢。據路透社報道，由於美國可能在6月底決定是否對精煉銅加徵進口關稅，引發市場緊張情緒，美國貿易商開始提前備貨，疊加市場套利操作再度升溫等因素，推動全球銅市進入高位博弈階段。今天（2日），國際銅價繼續走高。資料顯示，截至6月1日收盤，紐約商品交易所銅期貨主力合約價格在近一個月的時間裡累計漲幅達10%，同一時期內，倫敦金屬交易所三個月銅期貨價格的累計漲幅約為6.5%。（央視財經）
 
 ---
 
@@ -21733,179 +21931,5 @@ Qualcomm (QCOM.O) opened more than 6% lower.
 ### 2026-06-01 21:31:23  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish #ARM.O #MU.O
 
 【US majors open lower; NVIDIA rises after Arm-based RTX Spark PC tie-up】US stocks opened lower on fresh Middle East developments: Dow -0.3%, S&P 500 -0.2%, Nasdaq -0.19%. NVIDIA (NVDA.O) rose 2.7% and Microsoft (MSFT.O) gained 3% after the pair unveiled an Arm‑architecture RTX Spark PC chip; NVIDIA said it is entering the PC CPU market. Arm (ARM.O) jumped 8.8%, Intel (INTC.O) fell 6.6%. Storage names rallied: Micron Technology (MU.O) gained over 5%, its share price topped $1,000, and SanDisk (SNDK.O) rose 3.4%.
-
----
-
-### 2026-06-01 21:31:21  #市場
-
-英偉達股價開盤上漲3%，ARM ADR上漲12%。
-
----
-
-### 2026-06-01 21:31:14  #市場
-
-高通股價開盤下跌7.6%，英特爾下跌6.7%，AMD下跌3.8%。
-
----
-
-### 2026-06-01 21:31:11  #市場 #焦點
-
-紐約期金失守4490美元/盎司，日內跌2.27%。
-
----
-
-### 2026-06-01 21:30:46  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指跌0.38%，標普500指數跌0.16%，納指持平。Strategy跌8.23%，高通跌7.33%，Coinbase Global跌6.46%，美高梅漲11.31%，Arm Holdings漲10.35%，現在服務漲8.94%。“七姐妹”方面：微軟漲2.82%，英偉達漲2.48%，Meta Platforms漲0.11%，蘋果跌0.89%，谷歌跌1.30%，特斯拉跌2.02%，亞馬遜跌2.16%。
-
----
-
-### 2026-06-01 21:30:31  #市場
-
-美高梅度假村股價開盤上漲11%。
-
----
-
-### 2026-06-01 21:30:24  #其他
-
-沙特同時強調，應依據相關國際公約，維護黎巴嫩主權、保護黎巴嫩民眾安全。
-
----
-
-### 2026-06-01 21:30:21  #國際
-
-沙特呼籲國際社會履行職責，制止此類侵略行徑，終止以色列企圖向黎巴嫩境內擴張的軍事行動。
-
----
-
-### 2026-06-01 21:30:13  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Shopify Stock Price Hits 4-week High — Shopify shares increased to 168.80 CAD, the highest since May 2026. Over the past 4 weeks, Shopify Inc gained 1.53%, and in the last 12 months, it increased 14.16%.
-
----
-
-### 2026-06-01 21:30:08  #其他
-
-加拿大5月標普全球製造業採購經理人指數 52.9，前值53.3。
-
----
-
-### 2026-06-01 21:30:08  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Adobe Systems Stock Price Hits 11-week High — Adobe Systems shares increased to 271.39 USD, the highest since March 2026. Over the past 4 weeks, Adobe Systems gained 5.33%, and in the last 12 months, it decreased 37.55%.
-
----
-
-### 2026-06-01 21:30:07  #MKT News #Macro & Rates
-
-Canada's S&P Global manufacturing PMI eased to 52.9 in May from 53.3 in April.
-
----
-
-### 2026-06-01 21:30:03  #公司
-
-通用動力公司將斥資2億美元在德克薩斯州建設彈藥廠。
-
----
-
-### 2026-06-01 21:30:00  #MKT News #Economic Calendar #Important
-
-Canada | RBC Manufacturing PMI (May) | actual 52.9 | previous 53.3
-
----
-
-### 2026-06-01 21:29:52  #焦點 #國際
-
-【伊媒稱伊朗停止與美交換資訊】據伊朗塔斯尼姆通訊社今天（6月1日）報道，鑑於以色列在黎巴嫩的戰爭罪行持續升級，考慮到黎巴嫩停火是伊美停火的先決條件之一，伊朗談判團隊停止“透過調解人與美國方面進行對話和文字交換”。此外據報道，地區抵抗陣線和伊朗已制定計劃，要徹底封鎖霍爾木茲海峽，並啟動包括曼德海峽在內的其他戰線，以懲罰以色列及其支持者。（CCTV國際時訊）
-
----
-
-### 2026-06-01 21:29:09  #其他
-
-美元兌日元USD/JPY升至一個月高點159.68。
-
----
-
-### 2026-06-01 21:29:02  #MKT News #USDJPY #Impact bullish
-
-USD/JPY rose to a one-month high of 159.68.
-
----
-
-### 2026-06-01 21:28:33  #其他
-
-英國政府稱已申請核查曼德爾森的私人手機。
-
----
-
-### 2026-06-01 21:28:10  #市場
-
-BESI、ASMI、AMS OSRAM、愛思強和Siltronic股價跌幅在2.7%至4.7%之間，而X-FAB和Soitec股價分別下跌6.2%和13.5%。
-
----
-
-### 2026-06-01 21:28:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【US military confirms Iran-launched missiles intercepted targeting US base in Kuwait; no casualties】US Central Command said on June 1 that at about 23:00 ET on May 31 (11:00 Beijing time on June 1) US forces successfully intercepted two Iran-launched ballistic missiles aimed at US bases in Kuwait. No US personnel were injured.
-
----
-
-### 2026-06-01 21:27:52  #Trading Economics #Markets #commodity #Importance 0
-
-Coffee Hits 18-month Low — Coffee decreased to 262.75 USd/Lbs, the lowest since November 2024. Over the past 4 weeks, Coffee lost 7.82%, and in the last 12 months, it decreased 23.31%.
-
----
-
-### 2026-06-01 21:27:41  #國際
-
-【美軍證實駐科威特基地遭伊朗襲擊稱無人員傷亡】美軍中央司令部6月1日在社交媒體發文稱，美國東部時間5月31日23時（北京時間6月1日11時）許，美軍成功攔截兩枚伊朗發射的、目標是駐科威特美軍基地的彈道導彈。此事未造成美軍人員傷亡。 科威特全國6月1日響起警報，科威特軍方隨後稱攔截“敵方”導彈和無人機襲擊。科威特外交部同日在社交媒體上發表宣告，譴責“伊朗針對科威特領土實施的”多次襲擊。 5月28日，科威特稱遭伊朗導彈和無人機襲擊。伊朗當時回應稱，作為對美軍襲擊阿巴斯港的回應，伊朗對發動襲擊的美軍基地進行了打擊。美國媒體5月31日報道稱，伊朗的襲擊造成4名美軍士兵和3名承包商人員輕傷。(新華社)
-
----
-
-### 2026-06-01 21:27:18  #國際
-
-【伊朗稱將確保日本船隻更加順暢地透過霍爾木茲海峽】根據在X平臺釋出的訊息，伊朗總統佩澤希齊揚表示，伊朗將確保日本船隻能夠“更加順暢且不受干擾地”透過霍爾木茲海峽。上述表態是在與日本首相通話期間作出的。佩澤希齊揚稱，伊朗已做好充分準備，為海上航運和船舶通行提供便利。他表示，當前面臨的主要問題源於美國對伊朗航運和貿易施加的限制與障礙。
-
----
-
-### 2026-06-01 21:27:16  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures jumped 6.00% intraday to $92.61/bbl.
-
----
-
-### 2026-06-01 21:27:04  #MKT News #Important #EURUSD #DXY
-
-Market pricing shows expectations of a 25bp ECB rate hike in June are fully priced in, the first time this has been the case since May 4.
-
----
-
-### 2026-06-01 21:27:02  #市場 #焦點
-
-布倫特原油突破96美元/桶，日內漲5.36%。
-
----
-
-### 2026-06-01 21:26:57  #市場
-
-彭博美元現貨指數一度上漲0.3%；紐西蘭元和瑞士法郎領跌G-10貨幣。
-
----
-
-### 2026-06-01 21:26:41  #公司
-
-【東陽光：控股子公司簽署100億元至120億元算力服務採購合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與B公司簽署《算力服務採購合同》，合同預計總金額區間為人民幣100億元至120億元。
-
----
-
-### 2026-06-01 21:26:23  #央行 #歐洲央行
-
-【交易員已充分消化歐洲央行6月加息25個基點的預期】交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。
-
----
-
-### 2026-06-01 21:26:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-SC Shanghai crude main contract rose 4.00% intraday to 608.20 yuan/barrel.
 
 ---

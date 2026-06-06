@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:54:07_
-_本檔包含 3528 則快訊，約 701125 字_
+_更新時間：2026-06-07 03:45:38_
+_本檔包含 3537 則快訊，約 701672 字_
+
+---
+
+### 2026-06-01 21:31:21  #市場
+
+英偉達股價開盤上漲3%，ARM ADR上漲12%。
+
+---
+
+### 2026-06-01 21:31:14  #市場
+
+高通股價開盤下跌7.6%，英特爾下跌6.7%，AMD下跌3.8%。
+
+---
+
+### 2026-06-01 21:31:11  #市場 #焦點
+
+紐約期金失守4490美元/盎司，日內跌2.27%。
+
+---
+
+### 2026-06-01 21:30:46  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.38%，標普500指數跌0.16%，納指持平。Strategy跌8.23%，高通跌7.33%，Coinbase Global跌6.46%，美高梅漲11.31%，Arm Holdings漲10.35%，現在服務漲8.94%。“七姐妹”方面：微軟漲2.82%，英偉達漲2.48%，Meta Platforms漲0.11%，蘋果跌0.89%，谷歌跌1.30%，特斯拉跌2.02%，亞馬遜跌2.16%。
+
+---
+
+### 2026-06-01 21:30:31  #市場
+
+美高梅度假村股價開盤上漲11%。
+
+---
+
+### 2026-06-01 21:30:24  #其他
+
+沙特同時強調，應依據相關國際公約，維護黎巴嫩主權、保護黎巴嫩民眾安全。
+
+---
+
+### 2026-06-01 21:30:21  #國際
+
+沙特呼籲國際社會履行職責，制止此類侵略行徑，終止以色列企圖向黎巴嫩境內擴張的軍事行動。
+
+---
+
+### 2026-06-01 21:30:13  #Trading Economics #Markets #Canada #stocks #Importance 1
+
+Shopify Stock Price Hits 4-week High — Shopify shares increased to 168.80 CAD, the highest since May 2026. Over the past 4 weeks, Shopify Inc gained 1.53%, and in the last 12 months, it increased 14.16%.
+
+---
+
+### 2026-06-01 21:30:08  #其他
+
+加拿大5月標普全球製造業採購經理人指數 52.9，前值53.3。
+
+---
+
+### 2026-06-01 21:30:08  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Adobe Systems Stock Price Hits 11-week High — Adobe Systems shares increased to 271.39 USD, the highest since March 2026. Over the past 4 weeks, Adobe Systems gained 5.33%, and in the last 12 months, it decreased 37.55%.
+
+---
+
+### 2026-06-01 21:30:07  #MKT News #Macro & Rates
+
+Canada's S&P Global manufacturing PMI eased to 52.9 in May from 53.3 in April.
+
+---
+
+### 2026-06-01 21:30:03  #公司
+
+通用動力公司將斥資2億美元在德克薩斯州建設彈藥廠。
+
+---
+
+### 2026-06-01 21:30:00  #MKT News #Economic Calendar #Important
+
+Canada | RBC Manufacturing PMI (May) | actual 52.9 | previous 53.3
+
+---
+
+### 2026-06-01 21:29:52  #焦點 #國際
+
+【伊媒稱伊朗停止與美交換資訊】據伊朗塔斯尼姆通訊社今天（6月1日）報道，鑑於以色列在黎巴嫩的戰爭罪行持續升級，考慮到黎巴嫩停火是伊美停火的先決條件之一，伊朗談判團隊停止“透過調解人與美國方面進行對話和文字交換”。此外據報道，地區抵抗陣線和伊朗已制定計劃，要徹底封鎖霍爾木茲海峽，並啟動包括曼德海峽在內的其他戰線，以懲罰以色列及其支持者。（CCTV國際時訊）
+
+---
+
+### 2026-06-01 21:29:09  #其他
+
+美元兌日元USD/JPY升至一個月高點159.68。
+
+---
+
+### 2026-06-01 21:29:02  #MKT News #USDJPY #Impact bullish
+
+USD/JPY rose to a one-month high of 159.68.
+
+---
+
+### 2026-06-01 21:28:33  #其他
+
+英國政府稱已申請核查曼德爾森的私人手機。
+
+---
+
+### 2026-06-01 21:28:10  #市場
+
+BESI、ASMI、AMS OSRAM、愛思強和Siltronic股價跌幅在2.7%至4.7%之間，而X-FAB和Soitec股價分別下跌6.2%和13.5%。
+
+---
+
+### 2026-06-01 21:28:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【US military confirms Iran-launched missiles intercepted targeting US base in Kuwait; no casualties】US Central Command said on June 1 that at about 23:00 ET on May 31 (11:00 Beijing time on June 1) US forces successfully intercepted two Iran-launched ballistic missiles aimed at US bases in Kuwait. No US personnel were injured.
+
+---
+
+### 2026-06-01 21:27:52  #Trading Economics #Markets #commodity #Importance 0
+
+Coffee Hits 18-month Low — Coffee decreased to 262.75 USd/Lbs, the lowest since November 2024. Over the past 4 weeks, Coffee lost 7.82%, and in the last 12 months, it decreased 23.31%.
+
+---
+
+### 2026-06-01 21:27:41  #國際
+
+【美軍證實駐科威特基地遭伊朗襲擊稱無人員傷亡】美軍中央司令部6月1日在社交媒體發文稱，美國東部時間5月31日23時（北京時間6月1日11時）許，美軍成功攔截兩枚伊朗發射的、目標是駐科威特美軍基地的彈道導彈。此事未造成美軍人員傷亡。 科威特全國6月1日響起警報，科威特軍方隨後稱攔截“敵方”導彈和無人機襲擊。科威特外交部同日在社交媒體上發表宣告，譴責“伊朗針對科威特領土實施的”多次襲擊。 5月28日，科威特稱遭伊朗導彈和無人機襲擊。伊朗當時回應稱，作為對美軍襲擊阿巴斯港的回應，伊朗對發動襲擊的美軍基地進行了打擊。美國媒體5月31日報道稱，伊朗的襲擊造成4名美軍士兵和3名承包商人員輕傷。(新華社)
+
+---
+
+### 2026-06-01 21:27:18  #國際
+
+【伊朗稱將確保日本船隻更加順暢地透過霍爾木茲海峽】根據在X平臺釋出的訊息，伊朗總統佩澤希齊揚表示，伊朗將確保日本船隻能夠“更加順暢且不受干擾地”透過霍爾木茲海峽。上述表態是在與日本首相通話期間作出的。佩澤希齊揚稱，伊朗已做好充分準備，為海上航運和船舶通行提供便利。他表示，當前面臨的主要問題源於美國對伊朗航運和貿易施加的限制與障礙。
+
+---
+
+### 2026-06-01 21:27:16  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures jumped 6.00% intraday to $92.61/bbl.
+
+---
+
+### 2026-06-01 21:27:04  #MKT News #Important #EURUSD #DXY
+
+Market pricing shows expectations of a 25bp ECB rate hike in June are fully priced in, the first time this has been the case since May 4.
+
+---
+
+### 2026-06-01 21:27:02  #市場 #焦點
+
+布倫特原油突破96美元/桶，日內漲5.36%。
+
+---
+
+### 2026-06-01 21:26:57  #市場
+
+彭博美元現貨指數一度上漲0.3%；紐西蘭元和瑞士法郎領跌G-10貨幣。
+
+---
+
+### 2026-06-01 21:26:41  #公司
+
+【東陽光：控股子公司簽署100億元至120億元算力服務採購合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與B公司簽署《算力服務採購合同》，合同預計總金額區間為人民幣100億元至120億元。
+
+---
+
+### 2026-06-01 21:26:23  #央行 #歐洲央行
+
+【交易員已充分消化歐洲央行6月加息25個基點的預期】交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。
+
+---
+
+### 2026-06-01 21:26:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+SC Shanghai crude main contract rose 4.00% intraday to 608.20 yuan/barrel.
 
 ---
 
@@ -21182,125 +21356,5 @@ Israel's Channel 15, citing sources, said Israel-Lebanon talks held at the Penta
 ### 2026-05-31 03:46:00  #國際
 
 以色列無人機襲擊黎巴嫩南部傑布希特地區，造成一名醫護人員身亡。
-
----
-
-### 2026-05-31 03:39:38  #MKT News
-
-Indian government says current excise duty rates on petrol and diesel for domestic consumption remain unchanged.
-
----
-
-### 2026-05-31 03:37:16  #MKT News #Brent #Impact mixed #WTI
-
-【Iran official says maritime blockade will eventually end】On May 30 local time, Ebrahim Rezaei, spokesman for Iran's parliamentary National Security and Foreign Policy Committee, said the maritime blockade of Iran "will eventually end, either through negotiations or military action."
-
----
-
-### 2026-05-31 03:37:03  #國際
-
-印度政府：供國內消費的汽油與柴油現行消費稅率保持不變。
-
----
-
-### 2026-05-31 03:35:22  #國際
-
-印度政府：自6月1日起，航空渦輪燃料（ATF）出口的特別額外消費稅（SAED）稅率將定為每升9.5盧比，僅針對該稅種徵收。
-
----
-
-### 2026-05-31 03:34:37  #國際
-
-印度政府：自6月1日起，柴油出口關稅稅率將定為每升13.5盧比。
-
----
-
-### 2026-05-31 03:34:34  #MKT News #WTI #Impact bullish #Brent
-
-Indian government said diesel export duty will be 13.5 rupees per litre from June 1.
-
----
-
-### 2026-05-31 03:33:52  #國際
-
-印度政府：自6月1日起，汽油出口關稅將定為每公升1.5盧比。
-
----
-
-### 2026-05-31 03:33:52  #MKT News
-
-Indian government says petrol export duty will be 1.5 rupees per litre, effective June 1.
-
----
-
-### 2026-05-31 03:32:27  #焦點 #國際
-
-【伊朗官員：對伊朗的海上封鎖終將結束】當地時間5月30日，伊朗議會國家安全與外交政策委員會發言人易卜拉欣·雷扎伊表示，對伊朗的海上封鎖“終將結束，無論是透過談判還是軍事行動”。（央視新聞）
-
----
-
-### 2026-05-31 03:31:26  #MKT News
-
-Saudi outlet Alhadath reports the Gaza Strip administrative committee urged mediators to pressure parties to begin the second phase of the ceasefire agreement.
-
----
-
-### 2026-05-31 03:26:08  #國際
-
-【點球大戰勝阿森納 巴黎聖日耳曼蟬聯歐冠冠軍】當地時間5月30日晚，2025-26賽季歐冠決賽落下帷幕。衛冕冠軍巴黎聖日耳曼與英超冠軍阿森納鏖戰120分鐘戰成1:1平。點球大戰中，巴黎聖日耳曼4:3戰勝阿森納蟬聯歐冠冠軍，捧起象徵歐洲俱樂部足球最高榮譽的“大耳朵杯”。本場決賽吸引了來自世界各地數萬名球迷現場觀戰。（央視新聞）
-
----
-
-### 2026-05-31 03:24:31  #國際
-
-伊朗議員、前外交部長馬努切赫爾・穆塔基週六接受國家電視臺採訪時表示，美國毫無跡象願意接受伊朗提出的條件，伊美雙方達成協議的前景不容樂觀。
-
----
-
-### 2026-05-31 03:23:54  #國際
-
-以色列對黎巴嫩南部西頓區的巴塞里亞鎮發動空襲。
-
----
-
-### 2026-05-31 03:19:22  #國際
-
-【美伊在霍爾木茲海峽持續博弈 阿曼面臨“選邊”壓力】圍繞霍爾木茲海峽通行問題，美國和伊朗博弈持續。伊朗外長阿拉格齊當地時間5月29日表示，他向阿曼外交大臣巴德爾表達了伊方主張共同應對任何威脅的立場。阿曼外交部表示，雙方同意將依據各自在其領海範圍內的責任，保障霍爾木茲海峽航行自由與安全，並維護地區利益。而美國財長貝森特28日說，阿曼已保證不會徵收霍爾木茲海峽通行費。
-
----
-
-### 2026-05-31 03:16:16  #MKT News
-
-IDF says preliminary reports indicate alerts were triggered for suspected hostile aircraft penetration near Rosh Hanikra.
-
----
-
-### 2026-05-31 03:11:00  #MKT News #Market Themes #AI Revolution #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-【SoftBank to commit up to €75 billion to build AI compute cluster network in France】SoftBank Group has committed up to €75 billion to build a large AI compute-cluster network in France to support what it said will be Europe’s largest data-center project. The commitment is SoftBank’s largest AI investment outside the United States and is timed to coincide with President Macron’s Choose France summit next week. Sources said the deal was agreed soon after Macron dined with SoftBank founder Masayoshi Son in Tokyo in early April.
-
----
-
-### 2026-05-31 03:04:21  #MKT News
-
-Israel Defense Forces said two rockets launched from Lebanon by Hezbollah were intercepted over the Kiryat Shmona area.
-
----
-
-### 2026-05-31 03:02:16  #其他
-
-巴黎聖日耳曼在點球大戰中擊敗阿森納，奪得歐冠足球決賽冠軍。
-
----
-
-### 2026-05-31 02:59:38  #國際
-
-以色列本土前線指揮部：梅圖拉及周邊地區已拉響防空警報。
-
----
-
-### 2026-05-31 02:57:52  #其他
-
-真主黨：截至目前，敵方始終未能攻佔黎巴嫩南部的祖塔爾·沙爾基耶、亞馬爾·沙基夫與德拜因三地。
 
 ---

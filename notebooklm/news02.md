@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:54:07_
-_本檔包含 3958 則快訊，約 700570 字_
+_更新時間：2026-06-07 03:45:38_
+_本檔包含 3957 則快訊，約 702036 字_
+
+---
+
+### 2026-06-05 08:32:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Slip Ahead of Key Jobs Data — US stock futures declined on Friday as investors awaited the release of the May employment report for fresh insight into labor market conditions and the likely path of Federal Reserve policy. Uncertainty also lingered on Wall Street as the fragile ceasefire between the US and Iran held amid reports of stalled negotiations, despite President Donald Trump’s insistence that talks are nearing completion. On the corporate front, shares of Lululemon Athletica tumbled more than 11% in extended trading after the athleisure retailer cut its full-year earnings and revenue forecasts. During Thursday’s regular session, the Dow Jones surged 1.73% to a fresh record high, led by gains in healthcare and financial stocks. The S&P 500 advanced 0.41%, while the tech-heavy Nasdaq Composite slipped 0.09% as a weak outlook from Broadcom weighed on AI-related shares.
+
+---
+
+### 2026-06-05 08:31:27  #觀點
+
+【中信證券：科創板“1+6”改革成效顯著 生態形成良性閉環】中信證券研報認為，回顧“1+6”改革一週年，投融資生態已形成良性閉環，在融資、併購、企業生態等多維度助力相關企業的高效發展。當前節點來看，改革已跨過制度宣示階段，進入生態驗證階段，後續值得關注的是盈利轉化能力及業績兌現能力等中長期趨勢，進行線路的驗證及反哺。分賽道來看，細分賽道的政策傳導已經呈現出清晰梯度，生物醫藥率先完成驗證，人工智慧正在加速接棒，良好的發展態勢正在推動科創板從“試驗田”真正走向“示範田”。
+
+---
+
+### 2026-06-05 08:30:53  #公司 #市場 #央行 #國際
+
+【韓國股市此前領跑全球大漲行情現裂痕，股指大跌】規模達4.9萬億美元的韓國股市在一輪領跑全球的上漲行情後開始顯露承壓跡象。韓國綜合股價指數（Kospi）週五早盤最大跌幅達6.4%，三星電子、SK海力士跌幅均超7%，極端跌幅凸顯股指波動加劇。受期貨大跌拖累，韓國交易所一度暫停韓綜指程式化賣單。截至本週四，韓綜指年內漲幅超100%，但行情高度集中於兩大晶片龍頭股，一旦人工智慧題材行情降溫，大盤極易快速走弱。散戶入場熱度同步回落，融資融券規模高企還面臨韓國央行加息帶來的平倉風險。分析師表示，主打放大單日漲跌幅的槓桿型ETF普及，或將進一步放大行情回撥幅度。首爾 Eugene資產管理首席投資官Ha SeokKeun稱：“相較於基本面走弱，當前我更擔憂市場持倉過熱。未來一至兩個月，市場大機率進入高波動的盤整休整階段。”市場結構分化是核心隱憂。韓國交易所資料顯示，受人工智慧晶片需求提振的三星電子與SK海力士合計佔到韓國綜合指數（Kospi）權重的54%，在5月日均成交額中佔比近五成；韓綜指今年近七成漲幅均由這兩家企業貢獻。
+
+---
+
+### 2026-06-05 08:28:36  #國際
+
+【日本財務大臣：減免食品消費稅所需財源不會依賴新增發債】日本財務大臣片山皋月重申，政府已決定，針對食品的臨時性消費稅下調將不會依賴額外發債來籌措資金。片山皋月對記者表示，一個工作小組正在研究多種財源方案，包括審查冗餘補貼和稅收措施，以及利用非稅收入；不過她補充稱，目前尚未作出最終決定。片山皋月還表示，政府已做好準備，必要時可隨時就匯率波動作出適當應對。
+
+---
+
+### 2026-06-05 08:27:30  #國際
+
+市場訊息：美國國務卿魯比奧將於美國東部時間週五上午 9:30 與菲律賓外交部長會面。
+
+---
+
+### 2026-06-05 08:26:52  #市場 #央行 #國際
+
+【凱投宏觀：日本工資增長進一步鞏固日本央行加息理由】凱投宏觀表示，工資持續強勁增長為日本央行本月恢復緊縮政策開了綠燈。初步估計資料顯示，4月份勞動者現金收入增長加速。經濟學家Abhijit Surya表示，這一加速反映了獎金和加班費的增加，但常規收入增長保持在三十多年來的最強勁水平。誠然，日本央行強調的一項替代性指標顯示基本工資增速略有放緩，但該增速明顯強於去年的平均水平。在失業率處於低位且企業報告勞動力短缺的背景下，工資壓力可能保持在高位。而且正如植田和男所說，這些短缺應會支援工資和物價“在相互作用中溫和上漲“。在凱投宏觀看來，本月加息25個基點幾乎是板上釘釘的事。
+
+---
+
+### 2026-06-05 08:25:48  #市場 #國際
+
+【調查：未來一年加元有望走強，關鍵在美墨加協定審查取得進展】路透公佈的一項調查顯示，只要加拿大國內經濟復甦，且北美貿易協定的審查取得進展，未來一年加元兌美元將走強。在5月29日至6月3日進行的調查中，31位外匯分析師的預測中值顯示，未來三個月加元/美元將升值1.4%，升至1.37加元，即72.99美分。這略低於上月調查預測的1.3667。最新調查預測12個月後，加元/美元將上漲3.7%至1.3400，而此前預測為1.3433。負責加美貿易事務的部長 勒布朗（Dominic LeBlanc）週二在華盛頓表示，加拿大與美國就《美墨加協定》的審查舉行了一次積極的會談。BMO資本市場加拿大利率及宏觀策略師 Benjamin Reitzes表示：“美墨加協定談判需取得進展並最終達成協議，加元才能實現持久走強。”“在此之前，加元將面臨挑戰，因為經濟仍受不確定性的壓力，且美伊局勢的頭條新聞正令市場劇烈波動，”他稱。
+
+---
+
+### 2026-06-05 08:25:32  #MKT News #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #USDJPY #Impact mixed
+
+【Japan likely sold overseas securities to fund FX intervention】Japan's holdings of overseas securities fell $75.6 billion in May from April, implying the government sold foreign assets, including US Treasuries, to help finance last month's record foreign-exchange intervention. Finance Ministry data showed foreign reserves dropped to $1.09 trillion at end-May, while foreign-currency deposits — another potential funding source — were largely unchanged at $162 billion. Separately, intervention in the month through May 28 totaled a record ¥11.73 trillion (about $73.4 billion).
+
+---
+
+### 2026-06-05 08:24:48  #市場
+
+【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.5%，道瓊斯指數期貨跌0.1%。
+
+---
+
+### 2026-06-05 08:23:36  #市場 #國際
+
+【日經指數下跌1.6%，受晶片股拖累】在中東衝突的不確定性和華爾街科技股隔夜下跌的情況下，日本股市走低。日經指數下跌1.6%，報66396.46點。晶片股領跌。瑞薩電子下跌5.1%，東京電子下跌5.3%，愛德萬測試下跌4.3%。投資者正密切關注與伊朗戰爭相關的進展，以及日本政府為應對能源價格上漲和日元走弱而採取的任何措施。
+
+---
+
+### 2026-06-05 08:23:08  #觀點
+
+【開源證券：白酒底部佈局，大眾品把握三條主線】開源證券釋出食品飲料板塊2026年中期投資策略稱，白酒板塊已接近週期底部，全年復甦節奏應是前低後高。建議佈局強品牌、穩動銷、渠道健康的高階及次高階龍頭。大眾品板塊估值處於合理區間，疊加基本面持續改善，具備較高配置價值，建議圍繞三條主線佈局優質標的：一是尋找短期收入修復彈性明確的機會，二是尋找產業週期有望觸底反轉的機會，三是餐飲行業持續修復，帶動餐飲供應鏈需求提升。（第一財經）
+
+---
+
+### 2026-06-05 08:22:35  #央行 #公司
+
+【證券日報：央行連續第4個月縮量續做3個月期買斷式逆回購 業界普遍認為並不代表貨幣政策轉向】央行日前公佈6月5日開展5000億元買斷式逆回購操作，期限為3個月。由於本月有8000億元3個月期買斷式逆回購到期，因此3個月期買斷式逆回購將實現淨回籠3000億元。這也是央行連續第4個月縮量續做3個月期買斷式逆回購。同一天，央行公告，根據公開市場業務一級交易商的需求，7天期逆回購操作量為零。業界普遍認為，中國人民銀行近期的“收水”操作，更多屬於“削峰填谷”性質，並不代表貨幣政策轉向。東方金誠首席宏觀分析師王青表示，逆回購操作量連續兩個交易日為零，主要是金融機構缺乏這方面的資金需求。這可能主要源於短期內政府債券發行未持續顯著放量，信貸投放處於溫和狀態，商業銀行向中國人民銀行的融資需求下降。在出口偏強、物價水平回升，以及部分城市房地產市場回暖等背景下，當前宏觀政策保持定力，財政支出、信貸投放都比較溫和，這也是當前銀行體系流動性偏松的主要原因。這也釋放出中國人民銀行穩定資金面、避免主要市場利率過度向下偏離政策利率、防範資金空轉的訊號，有助於穩定市場預期。
+
+---
+
+### 2026-06-05 08:22:22  #MKT News #Important #000660.KS #Impact bearish
+
+South Korean equities extended losses; KOSPI down 6% and SK Hynix off 9%.
+
+---
+
+### 2026-06-05 08:22:05  #焦點 #國際
+
+韓國綜合股價指數（KOSPI）跌幅擴大至6%，晶片製造商股價暴跌。
+
+---
+
+### 2026-06-05 08:21:09  #MKT News
+
+The U.S. Department of Health and Human Services confirmed Americans at high risk of Ebola exposure will receive experimental treatment.
+
+---
+
+### 2026-06-05 08:19:30  #國際
+
+【韓國產業通商部長稱美國重申對韓關稅不會高於去年協議水平】韓國產業通商部長金正官週四在與美國商務部長霍華德·盧特尼克會談後表示，美國再次向韓國保證，對韓國徵收的關稅不會超過去年雙邊關稅協議中商定的水平。金正官在社交媒體文稱，盧特尼克在視訊會議中確認了這一點。
+
+---
+
+### 2026-06-05 08:19:16  #Trading Economics #Economy #Sri Lanka #Tourist Arrivals #Importance 1
+
+Sri Lanka Tourist Arrivals Recover in May — The number of foreign tourist arrivals in Sri Lanka grew by 9.65% year-on-year to 145,745 in May 2026, after a 22.3% slump in the previous month. This marked the highest number of arrivals in three months, with India remaining the top source market, contributing 60,342 visitors and accounting for 42% of total arrivals, continuing its strong position as the leading inbound tourism driver for the island. This was followed by the UK (6%), China (6%), Germany (5%), and Australia (4%). Sri Lanka has set an ambitious target of 3 million arrivals for 2026, after missing the goal last year. Despite a decline of tourist arrivals in the prior months due to the Middle East war conflict, a recovery has been observed with a total of 134,530 tourists visiting the country in the first five months of the year, noting a resurgence in tourist arrivals.
 
 ---
 
@@ -23756,113 +23858,5 @@ Germany's foreign minister said it is well known that Russia opposes Germany's s
 ### 2026-06-04 00:31:48  #MKT News
 
 【Russian Defence Ministry says nuclear submarine launched cruise missile during exercise】On June 3 the Russian Defence Ministry said the Northern Fleet nuclear submarine Arkhangelsk launched a "Gao Manao" cruise missile during live-fire training in the Barents Sea, striking a simulated enemy ship more than 200 km away; monitoring showed a successful hit. The ministry said the Kola Bay flotilla imposed navigation and flight restrictions in the area ahead of the test for safety.
-
----
-
-### 2026-06-04 00:29:00  #MKT News #Market Regions #Europe & UK
-
-【France says it has detained captain of Russian tanker intercepted by navy】The prosecutor’s office in Brest said on the 3rd that the captain of a Russian oil tanker intercepted earlier by the French navy has been held since the 2nd. The maritime gendarmerie carried out the detention. The Russian national is accused of commanding a vessel not flying a flag and refusing to cooperate with law enforcement at sea; he faces up to one year in prison and a €150,000 fine, and the vessel may be seized. The shipowner’s identity is still being verified.
-
----
-
-### 2026-06-04 00:27:36  #其他
-
-潘興廣場拋售環球音樂約 8060 萬股股票。
-
----
-
-### 2026-06-04 00:26:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran foreign minister: any hostile act will be met with immediate, decisive response】On the 3rd (local time) Iran's foreign minister said any hostile action would receive an immediate, decisive response. He said Iranian armed forces conduct defensive strikes within the framework of lawful self‑defense to counter US use of bases to attack Iranian civilian vessels and violations of a ceasefire. He added that objectives the US has failed to achieve by sanctions and war will not be achieved through further war.
-
----
-
-### 2026-06-04 00:25:49  #國際
-
-【伊朗外長：任何敵對行為都將遭到立刻和果斷回應】當地時間3日，伊朗外長阿拉格齊表示，任何敵對行動都將遭到立即和果斷的回應。伊朗武裝部隊在合法自衛權框架內進行防禦性反擊，以對抗美國利用其基地攻擊伊朗民用船隻和違反停火協議的行為。阿拉格齊強調，美國透過制裁和戰爭未能實現的目標，也絕不會透過更多的戰爭來實現。（央視新聞）
-
----
-
-### 2026-06-04 00:25:32  #國際
-
-【法國稱羈押了被海軍攔截的俄羅斯油輪船長】法國西北部沿海城市佈雷斯特檢察官辦公室3日說，法國海軍日前攔截的俄羅斯油輪船長2日起被羈押。 檢察官辦公室表示，法國海事憲兵隊執行了羈押任務。被羈押船長為俄羅斯籍，被指控所指揮的船舶未懸掛旗幟，以及在海上拒不配合執法等，他可能面臨一年監禁和15萬歐元罰款，船舶也可能被沒收。船東身份還在核實中。 法國總統馬克龍6月1日在社交媒體發文說，法國海軍5月31日在大西洋海域攔截了一艘從俄羅斯駛出的油輪。他說，上述行動在大西洋國際海域進行，獲得英國等多個夥伴國家配合，行動嚴格遵守海洋領域相關國際法。另據法媒報道，這艘油輪被歐盟、美國和英國制裁。 俄羅斯總統新聞秘書佩斯科夫同日說，法國軍方扣押俄羅斯油輪是非法的，這樣的行為“近乎國際海盜行徑”。(新華社)
-
----
-
-### 2026-06-04 00:24:47  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
-
-US stocks extended losses; the Nasdaq fell 1.00%.
-
----
-
-### 2026-06-04 00:24:40  #MKT News
-
-Pakistan deputy prime minister's office said the fiscal 2026-27 budget will be released on Wednesday, June 10, 2026.
-
----
-
-### 2026-06-04 00:24:30  #國際
-
-美國財長貝森特：企業減稅並非無償讓利，此舉能夠擴充產能。
-
----
-
-### 2026-06-04 00:24:23  #市場
-
-鈀金期貨日內跌4%，現報1335.56美元/盎司。
-
----
-
-### 2026-06-04 00:24:17  #市場 #焦點
-
-納指跌1.01%，現報26821.178點；道指跌0.88%，現報50857.488點；標普500指數跌0.66%，現報7559.390點。
-
----
-
-### 2026-06-04 00:21:19  #其他
-
-巴基斯坦副總理辦公室：2026 至 2027 財年預算將於 2026 年 6 月 10 日（週三）公佈。
-
----
-
-### 2026-06-04 00:21:09  #其他
-
-市場訊息：Point72資產管理規模在5月份增長2%，1-5月累計增長10.5%。
-
----
-
-### 2026-06-04 00:20:49  #國際
-
-美國財長貝森特： 很多球隊出現更衣室爭執後，反而能在賽場贏球。昨日與普爾特交流順暢，希望延續當前良好勢頭。
-
----
-
-### 2026-06-04 00:20:34  #MKT News
-
-【Russian Defence Ministry says Northern Fleet nuclear submarine fired cruise missile during Barents Sea exercise】On June 3, the Russian Defence Ministry said Northern Fleet nuclear submarine Arkhangelsk launched a Gaomanao cruise missile during live-fire training in the Barents Sea. The ministry said the missile struck a simulated enemy ship more than 200 km away and monitoring data confirmed a successful hit. The Kola Bay flotilla imposed navigation and flight restrictions on the relevant sea areas ahead of the test for safety.
-
----
-
-### 2026-06-04 00:19:34  #國際
-
-美國財長貝森特：去年夏季，我告訴聯邦住房金融局（FHFA）局長Pulte“我會踹他屁股”。
-
----
-
-### 2026-06-04 00:19:10  #國際
-
-【俄國防部稱核潛艇訓練時發射一枚巡航導彈】當地時間6月3日，俄羅斯國防部通報稱，北方艦隊“阿爾漢格爾斯克”號核潛艇在巴倫支海舉行實戰訓練期間，成功發射一枚“縞瑪瑙”巡航導彈。通報稱，打擊目標為距離200多公里外的“模擬敵方艦船”。監控資料顯示已成功命中目標。通報稱，為保障安全，科拉灣分艦隊在導彈試射前已對相關海域實施了通航與飛行管制。（央視新聞）
-
----
-
-### 2026-06-04 00:17:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes on Negative Note — The DAX 40 closed about 1.3% down at 24,812 on Wednesday, reversing yesterday's advance, amid fading hopes of a quick resolution to the Middle East conflict and possible new tariffs from the Trump administration. Hostilities flared up, while conflicting signals over the status of negotiations kept investors on edge. Meanwhile, the US administration vowed to impose a 10%-12.5% tariff on its top trading partners, including the EU and the UK, over alleged links to goods produced with forced labour. Scout24 and SAP were the top losers among stocks, falling 5% and 4.3%. Deutsche Bank dropped 3.7% after CFO Raja Akram signalled that provisions for bad loans in the June quarter could exceed analysts’ expectations.
-
----
-
-### 2026-06-04 00:15:56  #公司
-
-【達利歐稱人工智慧泡沫終將破裂 投資兌現時往往會刺破泡沫】億萬富豪投資人瑞·達利歐表示，火熱的人工智慧市場已顯現出泡沫跡象，而這一泡沫最終會破裂。這位橋水基金創始人週三在接受採訪時說：“所有重大的科技變革都會催生泡沫。沒有人能把握得恰到好處。你要麼投入大量資金去搶佔市場份額，不去擔心是否投得過多；要麼投入不足，結果失去市場份額。”達利歐表示，泡沫往往會在投資需要兌現回報時破裂。他提到市場對於AI公司盈利能力的擔憂。他說：“刺破泡沫的過程，就是把財富轉化為現金的過程。”他還表示，當下由AI驅動的市場“正沿著這樣的路徑演進，儘管這是一項了不起的技術”。
 
 ---
