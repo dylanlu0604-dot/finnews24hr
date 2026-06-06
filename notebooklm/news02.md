@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:03:49_
-_本檔包含 3940 則快訊，約 702054 字_
+_更新時間：2026-06-07 05:34:05_
+_本檔包含 3935 則快訊，約 701631 字_
+
+---
+
+### 2026-06-05 08:53:10  #公司 #市場
+
+【深圳華強：目前電子元器件產業景氣度高企 大部分元器件價格在上漲】深圳華強(000062)6月4日在機構調研時表示，目前電子元器件產業景氣度高企，是處於通脹期的產業之一，產業各環節（包括原材料、設計、晶圓代工和封測等）的價格都在上漲，大部分元器件的價格也在上漲。公司作為本土電子元器件分銷龍頭企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。公司將充分把握產業景氣度高企的機遇，推動業務持續高質量發展。
 
 ---
 
@@ -23720,41 +23726,5 @@ Iranian outlet Fars News, citing a member of Tehran’s negotiation team, said t
 ### 2026-06-04 01:14:42  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Ease Further — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and the Dow lost more than 0.5%. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, AI infrastructure stocks were resilient. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade. Broadcom was slightly higher ahead of its earnings after the bell.
-
----
-
-### 2026-06-04 01:13:59  #國際
-
-伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員表態：我方不會簽署一份漠視黎巴嫩利益的協議。
-
----
-
-### 2026-06-04 01:13:07  #焦點 #國際
-
-伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員的話：伊斯蘭堡首輪談判未能取得成果，原因是伊朗拒絕開展核談判。
-
----
-
-### 2026-06-04 01:10:05  #焦點 #國際
-
-伊朗法爾斯通訊社援引伊朗談判團媒體組成員訊息：相關談判仍在推進，尚未作出最終決議。
-
----
-
-### 2026-06-04 01:09:59  #MKT News #Important
-
-Iranian media Fars News, citing a member of Tehran's negotiating team, said talks are ongoing and no final decision has been made.
-
----
-
-### 2026-06-04 01:09:37  #MKT News
-
-Market sources say Anthropic has selected Morgan Stanley and Goldman Sachs to co-lead its IPO, with JPMorgan joining the syndicate.
-
----
-
-### 2026-06-04 01:08:07  #焦點 #國際
-
-【伊媒：伊朗方面概述與美國達成協議的四階段計劃】據伊朗媒體Fars News，伊朗方面概述了與美國達成協議的四階段計劃。第一階段側重於全面停止所有戰線的軍事行動，包括伊朗、美國以及抵抗軸心；第二階段的核心是針對四個關鍵問題的落實措施，包括：霍爾木茲海峽及相關機制、解除封鎖、取消石油限制和制裁，以及解凍部分伊朗資產；第三階段將在客觀且可核查的措施落實後，啟動更廣泛的關於制裁和核問題的談判；第四階段涉及成立一個監督委員會，以監督協議的執行並跟蹤各方履約情況。
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:03:49_
-_本檔包含 3641 則快訊，約 702135 字_
+_更新時間：2026-06-07 05:34:05_
+_本檔包含 3647 則快訊，約 702949 字_
+
+---
+
+### 2026-06-02 23:08:55  #公司 #國際
+
+【中俄智庫高階論壇在莫斯科舉辦】中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年之際，中俄智庫高階論壇1日至2日在莫斯科舉辦。來自中俄兩國政府、學術界及相關機構的200餘名代表共話兩國友好交往與戰略協作歷史，就中俄深化戰略協作對構建公正世界秩序的重要性等議題展開討論。中國社會科學院院長高翔1日在論壇開幕式影片致辭中表示，中俄兩國共同倡導世界多極化，構建新型國際關係，推動建設更加公正合理的全球治理體系，為維護全球戰略穩定貢獻重要力量。中俄雙方要繼續以聯合國、上海合作組織、金磚國家合作機制、二十國集團等平臺為抓手，攜手推動平等有序的世界多極化、普惠包容的經濟全球化，為改革完善全球治理體系貢獻自身力量；要秉持互利共贏原則，深化中國“十五五”規劃同俄羅斯2030年前發展戰略對接，為兩國經濟社會高質量發展注入源源不斷的動力。（新華社）
+
+---
+
+### 2026-06-02 23:08:30  #市場
+
+歐元區債券收益率下跌，交易員權衡美伊談判前景。
+
+---
+
+### 2026-06-02 23:07:56  #其他
+
+英國貨幣政策委員會成員格林：迅速調整利率是有好處的，而且調整的時機與調整的力度同樣重要。
+
+---
+
+### 2026-06-02 23:06:39  #MKT News
+
+New Zealand Global Dairy Trade price index for the period to May 26 fell 0.6% (previous +0.6%).
+
+---
+
+### 2026-06-02 23:06:31  #MKT News #Economic Calendar #Important
+
+New Zealand | Global Dairy Trade Price Index (MoM) (May.26) | actual -0.6% | previous 0.6%
+
+---
+
+### 2026-06-02 23:06:25  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England MPC member Greene said the ongoing conflict has strengthened the case for rate increases and the Bank may need to tighten monetary policy in the coming weeks or months.
 
 ---
 

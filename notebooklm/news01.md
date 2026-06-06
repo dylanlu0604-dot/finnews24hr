@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:03:49_
-_本檔包含 3690 則快訊，約 702334 字_
+_更新時間：2026-06-07 05:34:05_
+_本檔包含 3696 則快訊，約 703081 字_
+
+---
+
+### 2026-06-07 05:28:59  #MKT News #BA.O
+
+Boeing's services executives said they are seeking to cut costs by improving efficiency through data analytics.
+
+---
+
+### 2026-06-07 05:28:54  #MKT News #BA.O #Impact bearish
+
+A senior executive at Boeing's services unit said cockpit-window supply is below expectations and could delay aircraft deliveries.
+
+---
+
+### 2026-06-07 05:28:48  #MKT News #BA.O #Impact bullish
+
+A Boeing services executive said flight hours across most regions continue to show moderate-to-healthy growth.
+
+---
+
+### 2026-06-07 05:27:44  #公司
+
+波音服務部門高管表示，由於運用了分析技術，公司正尋求透過提升效率來削減成本。
+
+---
+
+### 2026-06-07 05:27:31  #其他
+
+波音服務部門高管表示，多數地區的飛行小時數仍保持溫和至良好增長。
+
+---
+
+### 2026-06-07 05:27:27  #其他
+
+波音服務部門高管表示，駕駛艙風擋供應目前低於預期水平，可能導致交付延誤。
+
+---
+
+### 2026-06-07 05:19:43  #MKT News
+
+【Iran says national team must enter, exit US on match days】Iran’s ambassador to Mexico, Pasandide, said the national football team has been told it must enter and leave US territory on match days during the World Cup. Citing a US and Israeli war on Tehran, Pasandide said the team is now based in Mexico instead of the originally planned Tucson, Arizona; visa rules allow morning entry but require same‑day departure. Iran has three group matches in the US, scheduled in Los Angeles and Seattle.
 
 ---
 
@@ -22281,11 +22323,5 @@ South Korean won fell to its weakest since March 2009, trading at 1,541.4 per U.
 ### 2026-06-05 08:55:06  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, silver remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
-
----
-
-### 2026-06-05 08:53:10  #公司 #市場
-
-【深圳華強：目前電子元器件產業景氣度高企 大部分元器件價格在上漲】深圳華強(000062)6月4日在機構調研時表示，目前電子元器件產業景氣度高企，是處於通脹期的產業之一，產業各環節（包括原材料、設計、晶圓代工和封測等）的價格都在上漲，大部分元器件的價格也在上漲。公司作為本土電子元器件分銷龍頭企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。公司將充分把握產業景氣度高企的機遇，推動業務持續高質量發展。
 
 ---

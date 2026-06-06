@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:03:49_
-_本檔包含 3549 則快訊，約 702080 字_
+_更新時間：2026-06-07 05:34:05_
+_本檔包含 3546 則快訊，約 701403 字_
 
 ---
 
@@ -21410,23 +21410,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 ### 2026-05-31 05:35:00  #公司 #市場 #國際
 
 預測平臺Kalshi公司起訴明尼蘇達州，試圖推翻該州針對預測市場的重罪禁令，稱其與美國商品期貨交易委員會的管轄許可權相沖突。
-
----
-
-### 2026-05-31 05:32:32  #國際
-
-美國與墨西哥完成首輪雙邊貿易談判，核心議題是修訂《北美自由貿易協定》。
-
----
-
-### 2026-05-31 05:23:35  #其他
-
-阿曼國防部在今天早些時候釋出了一則警報，此前在霍爾木茲海峽阿曼領海內發現一枚疑似海軍水雷，該警報建議與可疑物體保持安全距離，並向當局報告。
-
----
-
-### 2026-05-31 05:19:51  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #US10Y
-
-【US May jobs report due next week expected to show solid gains; unemployment to hold at 4.3%】Bloomberg median economists project May unemployment at 4.3% and nonfarm payrolls up 89,000. That would lift the three-month average job gain to the highest in over a year and reignite debate about accelerating hiring. Forecasts point to continued strength in healthcare, a rebound in construction and leisure & hospitality partly aided by warmer weather, and a potential manufacturing jobs uplift as consumers stockpile goods ahead of possible price spikes from an Iran conflict.
 
 ---
