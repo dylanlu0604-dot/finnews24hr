@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-07 01:59:58",
-  "count": 18794,
+  "updated": "2026-06-07 02:03:56",
+  "count": 18793,
   "items": [
+    {
+      "id": "mkt:019e9e19-f81c-7665-8313-fc6b98224deb",
+      "time": "2026-06-07 02:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council (GCC) labor ministers' coordination meeting."
+    },
+    {
+      "id": "4921390",
+      "time": "2026-06-07 02:01:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 十年之後，巴拉克·侯賽因·奧巴馬圖書館將全面落成並正式投入使用。"
+    },
     {
       "id": "4921389",
       "time": "2026-06-07 01:58:18",
@@ -173431,35 +173447,6 @@
         "國際"
       ],
       "text": "【美軍發射導彈攔截船隻，實施對伊朗相關航道管控】美國中央司令部發布宣告稱，5月29日，一架美軍戰機向一艘駛往伊朗港口的甘比亞籍船隻的輪機艙發射地獄火導彈，致使該船失去航行能力。中央司令部表示，部署在阿曼灣的美軍部隊完成了此次攔截行動。"
-    },
-    {
-      "id": "4908433",
-      "time": "2026-05-31 02:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：導彈擊中拒不配合船隻的輪機艙。"
-    },
-    {
-      "id": "mkt:019e7a0b-edb4-7bb7-996a-fd69451903dc",
-      "time": "2026-05-31 02:01:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israeli military radio confirmed Hezbollah fired 30 missiles over the past few hours into northern Israeli-held areas, striking Safed, Nahariya, Karmiel and Meron."
-    },
-    {
-      "id": "4908432",
-      "time": "2026-05-31 02:00:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一艘甘比亞籍船隻試圖駛向伊朗港口，美軍戰機發射地獄火導彈，迫使該船隻失去航行能力。"
     }
   ]
 }
