@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-07 01:06:42",
-  "count": 18802,
+  "updated": "2026-06-07 01:10:32",
+  "count": 18803,
   "items": [
+    {
+      "id": "4921373",
+      "time": "2026-06-07 01:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國經濟學人雜誌：印度女性生育率已降至每名女性約2.0，低於2.1的人口更替水平，預計該國人口將在未來數十年內開始下降。過去印度家庭普遍生育6至11個孩子，如今大多隻選擇生育一到兩個，不少家庭僅生育一胎。"
+    },
+    {
+      "id": "mkt:019e9de6-8461-7665-8313-cca5012ceff2",
+      "time": "2026-06-07 01:06:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Saudi state TV reported an Israeli military commander said Hezbollah cannot be disarmed unless Israel fully occupies Lebanon."
+    },
     {
       "id": "4921372",
       "time": "2026-06-07 01:04:57",
@@ -173525,18 +173545,6 @@
         "DXY"
       ],
       "text": "Israeli Channel 12 reports Hezbollah has struck Israeli civilian infrastructure for the first time."
-    },
-    {
-      "id": "mkt:019e79dd-872a-7bb7-996a-aa52f7a0829b",
-      "time": "2026-05-31 01:10:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel's Channel 12 reported Hezbollah launched more than 100 rockets and drones."
     }
   ]
 }
