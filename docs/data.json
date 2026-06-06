@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-06 15:23:44",
+  "updated": "2026-06-06 15:27:43",
   "count": 18806,
   "items": [
+    {
+      "id": "mkt:019e9bd2-4742-7665-8310-9eb6133e8c8d",
+      "time": "2026-06-06 15:25:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwait suspended air traffic after an Iranian attack and has resumed flights."
+    },
+    {
+      "id": "4921181",
+      "time": "2026-06-06 15:25:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特國家通訊社：科威特空中交通伊朗襲擊暫停後現已恢復。"
+    },
+    {
+      "id": "4921180",
+      "time": "2026-06-06 15:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩軍方稱以軍空襲黎南部致其軍官及士兵死亡】當地時間6日上午，黎巴嫩軍方稱，以色列國防軍在一次對黎巴嫩南部的空襲中，擊中黎軍方一輛軍車，造成一名軍官以及數名士兵死亡。黎巴嫩軍方表示，黎軍歷來避免捲入真主黨與以色列之間的衝突，也沒有在當前的衝突中與以色列國防軍交戰。"
+    },
     {
       "id": "4921179",
       "time": "2026-06-06 15:17:37",
@@ -173468,32 +173496,6 @@
         "公司"
       ],
       "text": "【王興興獲全國創新爭先獎狀】5月30日，正值第十個全國科技工作者日。據“中國科協之聲”訊息，人力資源社會保障部、中國科協、科技部、國務院國資委近日聯合開展第四屆全國創新爭先獎評選，決定表彰一批先進集體和先進個人，分別頒發全國創新爭先獎牌、獎章或獎狀。 宇樹科技創始人王興興位列第四屆全國創新爭先獎狀獲獎者名單。 王興興出生於1990年，宇樹科技創始人、CEO。被稱為“杭州六小龍”之一的宇樹科技成立於2016年8月，註冊資本約3.64億人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、工業機器人制造等。（長安街知事）"
-    },
-    {
-      "id": "mkt:019e77c6-0c8c-7bb7-9968-5e6aaa216f83",
-      "time": "2026-05-30 15:25:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Wuhan housing fund expands loan rights for flexible-employment contributors】Wuhan housing provident fund said on May 29 on its official WeChat account that it has fully upgraded contribution and loan rules for flexible‑employment participants, substantially boosting their mortgage rights. Key changes: the loan‑amount multiplier used in the calculation formula is raised from 10x to 20x; the contribution coefficient is aligned with that for unit (employed) staff; flexible‑employment borrowers may use provident‑fund loans to buy a family’s second home and may apply for commercial‑to‑provident‑fund loan conversion under the same rules as unit employees. The basic loan eligibility test is relaxed from “contributions held under agreement for 12 months” to a requirement that at least 12 months elapse between the loan application date and the first contribution after an effective agreement, lowering the loan threshold."
-    },
-    {
-      "id": "4908149",
-      "time": "2026-05-30 15:25:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄官方稱，烏克蘭無人機襲擊了俄羅斯南部一處港口及一座油庫。"
-    },
-    {
-      "id": "4908148",
-      "time": "2026-05-30 15:24:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【邵東一水庫隧洞施工事故致3死】邵東應急管理局釋出：5月29日20時50分左右，資水犬木塘水庫工程邵峰乾渠Ⅱ標土地嶺隧洞出口頂管施工段發生人員被困事故。接報後，消防、應急、水利、衛健等部門和施工單位迅速趕赴現場展開救援。至5月30日2時06分，3名被困人員全部搜救出洞，後經全力搶救無效死亡。目前，善後處置和事故調查工作正在有序進行中。"
     }
   ]
 }
