@@ -1,7 +1,207 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:09:09_
-_本檔包含 3490 則快訊，約 702278 字_
+_更新時間：2026-06-06 19:43:29_
+_本檔包含 3495 則快訊，約 701744 字_
+
+---
+
+### 2026-06-01 20:24:13  #公司 #國際
+
+回聲星暫緩支付利息，等待來自美國電話電報公司的交易款項到賬。
+
+---
+
+### 2026-06-01 20:23:44  #國際
+
+敘利亞外交部譴責伊朗對科威特的襲擊。
+
+---
+
+### 2026-06-01 20:23:22  #其他
+
+【上海：發展壯大一批新興支柱產業 超前佈局未來產業】上海市長龔正6月1日主持召開市政府常務會議，會議原則同意《上海市加快推進新型工業化 構建現代化產業體系“十五五”規劃》並指出，要加快構建以先進製造業為骨幹的現代化產業體系，奮力在推進新型工業化中勇為尖兵、走在前列。要堅持雙向發力，夯實產業發展根基。積極推動汽車、鋼鐵、石化等傳統支柱產業最佳化提升、向價值鏈高階延伸，強化三大先導產業戰略引領作用，發展壯大一批新興支柱產業，超前佈局未來產業。要堅持創新引領，鍛造產業競爭優勢。加快新技術攻關突破、新產品研發應用、新場景培育開放，支援科技成果高效轉化和產業化，讓更多“科技之花”結出“產業之果”。要堅持智慧化、綠色化、融合化轉型，促進產業轉型升級。強化示範引領，完善評價體系，最佳化服務保障，為全市經濟高質量發展提供更加強勁的工業支撐。
+
+---
+
+### 2026-06-01 20:22:46  #市場
+
+【機構：美元在對美伊可能達成協議的樂觀與懷疑之間徘徊】荷蘭合作銀行的Jane Foley在一份報告中表示，對於美伊之間可能達成的和平協議，美元似乎在樂觀與懷疑之間徘徊。“自3月底以來，投資者在進行市場交易時似乎認為最壞的情況不太可能發生。”她表示，然而，霍爾木茲海峽關閉的時間越長，經濟損失就越大，對可能達成協議的樂觀情緒最終將枯竭。她說，市場對有關協議的具體訊息正變得越來越不耐煩。她表示，如果不結束戰爭，歐元兌美元將難以實現有意義的反彈。歐元下跌0.1%，至1.1644美元。DXY美元指數上漲0.2%，至99.078。
+
+---
+
+### 2026-06-01 20:21:59  #公司
+
+【美團：“小美”與騰訊“元寶”的合作將於近期上線】美團一季度財報電話會上，王興表示，美團AI助手“小美”與騰訊元寶的合作將於近期上線。屆時，使用者可直接在“元寶”中輸入訴求，透過“小美”呼叫外賣等本地生活服務。
+
+---
+
+### 2026-06-01 20:21:52  #MKT News #Market Themes #AI Revolution #Star Stocks #Meituan #Tencent #0700.HK #Impact bullish
+
+【Meituan says AI assistant Xiaomei will integrate with Tencent's Yuanbao soon】On Meituan's Q1 results call, CEO Wang Xing said the company's AI assistant Xiaomei will be integrated into Tencent's Yuanbao in the near term. Users will be able to input requests inside Yuanbao and have Xiaomei invoke Meituan delivery and other local services.
+
+---
+
+### 2026-06-01 20:21:36  #公司
+
+【ST朗源：公司股票將於6月3日起撤銷其他風險警示 股票交易的日漲跌幅限制仍為20%】ST朗源公告，公司撤銷其他風險警示的申請已獲得深圳證券交易所稽核同意。公司股票將於2026年6月2日停牌一天，2026年6月3日開市起復牌並撤銷其他風險警示。自2026年6月3日開市起，公司證券簡稱由“ST朗源”變更為“朗源股份”，證券程式碼仍為“300175”，股票交易的日漲跌幅限制仍為20%。
+
+---
+
+### 2026-06-01 20:21:34  #公司
+
+【抖音嚴打網路黑灰產：今年已配合相關部門抓獲犯罪嫌疑人162名】6月1日，記者獲悉，抖音釋出《抖音關於深入打擊網路黑灰產的公告》稱，今年以來，抖音已配合相關部門抓獲黑灰產犯罪嫌疑人162名。公告顯示，隨著平臺治理深入，黑灰產對抗呈現出跨境作案、高隱蔽性、組織化等複雜特徵。一些不法團伙利用跨平臺多級跳轉、VPN等技術工具、隱晦暗語，不斷變換違規方式，在站內站外實施色情賭博導流、賬號買賣及代解封、虛假流量等違法違規行為。對此，抖音表示持續加強識別研判，嚴肅處置違規內容及賬號，針對違法犯罪的行為，依法固定證據並上報主管部門。
+
+---
+
+### 2026-06-01 20:20:56  #宏觀
+
+【八部門聯合發文做強海洋保健食品產業】市場監管總局、國家藥監局、自然資源部等八部門近日聯合印發關於加快海洋藥物和功能製品高質量發展的指導意見，將海洋保健食品、海洋藥物、海洋生物材料等作為重點突破領域，推動海洋產業高質量發展。根據指導意見，市場監管總局在嚴格保健食品註冊備案監管、保障產品質量安全基礎上，聚焦抗氧化、改善記憶、緩解體力疲勞等市場需求旺盛的保健功能，支援科研機構、行業企業依託現代生物技術推動海洋保健食品產業提質升級，加快推進海洋保健食品新原料、新功能開發應用，重點支援新功能海洋保健食品研製，更好滿足人民群眾健康需求。（新華社）
+
+---
+
+### 2026-06-01 20:20:38  #市場 #國際
+
+【法國巴黎銀行：亞洲科技股超級週期遠未見頂】法國巴黎銀行表示，至少在短期內，在估值支撐下，科技股超級週期依然是亞洲市場中唯一具有高確定性的盈利增長故事。“現在就斷言科技股週期已經見頂還為時過早，可能最早也要等到2027年上半年才會出現這一擔憂。”該行亞太區現貨股票研究主管William Bratton在一份報告中寫道。如果剔除科技和能源板塊，過去一個季度亞洲市場的整體遠期盈利預期僅提高了1%。中東衝突引發的能源價格上漲，正持續對內需導向型板塊構成壓力。
+
+---
+
+### 2026-06-01 20:19:58  #其他
+
+【一批兒童相關國家標準釋出】“六一”國際兒童節到來，國家市場監督管理總局近日釋出一批兒童相關國家標準，涉及毛絨玩具、電動童車、兒童傘具、未成年人上網等方面，從兒童用品到網路環境全面升級技術要求，多層次築牢兒童安全防護屏障。
+
+在毛絨玩具方面，《毛絨、布制玩具》（GB/T 9832—2026）國家標準覆蓋兒童日常高頻接觸的玩偶、公仔、抱枕等全品類毛絨、布制玩具，新增甲醛、pH值、色牢度、異味等健康安全指標，嚴格管控零件脫落、縫線開裂等物理機械風險。同時，細化外觀品質、填充物均勻度、清潔保養指引等要求，使產品兼顧安全性與使用體驗。
+
+在電動童車方面，《電動童車通用技術條件》（GB/T 32441—2026）國家標準適用於14歲以下兒童使用的非道路電池驅動玩具車輛，聚焦充電欠保護、耐用性不足等問題，明確續航時長、遙控效能、轉向操作力、充電防護、導線強度等要求，強化產品疲勞耐久與整體機械強度，並對車速超8公里/時的產品增設檔位鎖定保護，有效防範結構及部件失效帶來的安全隱患。
+
+在兒童傘具方面，《兒童傘通用技術要求》（GB/T 28477—2026）國家標準適用於3歲至14歲兒童使用的傘具，最佳化傘面強度、開合力度與底座穩定性等基礎效能，明確開關耐久性、抗風能力與部件牢固度，規範防紫外線標註標識，提升反光可視性，保障兒童戶外使用安全。
+
+在未成年人上網方面，《網路安全技術 移動網際網路未成年人模式技術要求》（GB/T 47694—2026）國家標準針對網路不良資訊侵擾、上網成癮、個人資訊洩露、誘導消費等風險，明確手機終端、上網軟體、應用下載平臺中未成年人專屬防護模式的技術要求，助力未成年人安全健康上網。（新華社）
+
+---
+
+### 2026-06-01 20:19:40  #公司
+
+【有研復材：擬投資1.5億元建設先進金屬基複合材料產業化專案一期】有研復材公告，公司擬實施2026年度投資計劃，計劃投資“有研金屬複合材料（廊坊）有限公司先進金屬基複合材料產業化專案”一期，投資金額為1.5億元。該專案為續建專案，主要用於推進先進金屬基複合材料產業化落地，滿足公司發展戰略規劃和生產經營需要。專案已於2026年3月1日開始進行施工準備工作，目前工程按計劃有序推進。本次投資旨在提升公司產業化能力和綜合競爭力。
+
+---
+
+### 2026-06-01 20:18:58  #央行 #國際
+
+埃及央行：埃及 7 月至次年 3 月勞工僑匯達 349 億美元。
+
+---
+
+### 2026-06-01 20:18:16  #公司 #市場 #國際
+
+【燃油漲價，印度多家航空公司大幅削減航班】由於航空燃油成本上漲和旅行需求疲軟，印度航空公司、靛藍航空公司和印度航空快運公司決定自1日起大幅削減國內航班。此前，這些航空公司已削減部分國際航班。
+
+---
+
+### 2026-06-01 20:17:52  #市場
+
+Coinbase Global股價盤前下跌4%，Strategy Asset股價下跌5.8%。
+
+---
+
+### 2026-06-01 20:17:21  #公司 #市場 #觀點
+
+【摩根大通交易員對投機型科技股持懷疑態度】由安德魯·泰勒領導的摩根大通市場情報部門指出，在經歷瞭如此迅猛的上漲之後，鑑於潛在收益率仍有可能高舉不下，投資者理應“對科技股中那些風險較高的個股保持警惕”。泰勒主張轉向該行業中更具知名度的公司，尤其是在債券收益率上升的情況下，因為這可能會對規模較小且虧損的公司造成最大影響。他補充道，那些規模較大、盈利狀況較好的科技股進行的股票回購活動“有助於推動向優質企業的轉型。”
+
+---
+
+### 2026-06-01 20:17:06  #MKT News #Nasdaq100 #Impact bearish #S&P500 #Impact mixed
+
+【JP Morgan traders wary of speculative tech names】Goldman Sachs' basket of unprofitable tech stocks rose 27% in May, outperforming the Nasdaq-100 by 17 percentage points and posting its best monthly performance since November 2020. The basket is up 57% year-to-date vs. an 11% gain for the S&P 500. JP Morgan Market Intelligence, led by Andrew Taylor, warns investors to be cautious on higher-risk tech names after the rapid rally and recommends rotating into larger, better-known firms; rising bond yields could hurt smaller, loss-making companies most. Share buybacks by larger, profitable techs are aiding a shift toward quality.
+
+---
+
+### 2026-06-01 20:16:25  #市場
+
+南非主要股指下跌 1.1%，報 113422.00 點。
+
+---
+
+### 2026-06-01 20:15:21  #公司 #國際
+
+【檔案：歐盟雲端計算新規將限制亞馬遜、微軟、谷歌參與戰略性招標專案】相關檔案顯示，歐盟計劃為關鍵公共採購專案中的雲端計算服務設立嚴格准入標準，此舉或將把亞馬遜、微軟、谷歌三大美國科技企業排除在相關專案之外。 該提案是歐盟委員會《雲端計算與人工智慧發展法案》的組成部分。歐盟數字事務負責人亨娜·維爾庫寧將於週三正式公佈這套法案及配套政策，核心目標是降低歐洲對美國科技的依賴。 這份此前未對外披露的提案仍有可能在最終階段作出調整。提案新增非價格類強制評標標準，要求專案優先選用歐盟本土研發的軟硬體產品，這將進一步對美國大型科技企業形成限制。 歐盟委員會未就方案細節置評，但表示這套科技自主配套政策，“對於提升歐洲本土技術實力、增強區域競爭力與安全保障能力至關重要”。（環球市場播報）
+
+---
+
+### 2026-06-01 20:15:18  #公司 #市場
+
+加密概念股盤前下跌，比特幣跌至一個多月低位。riot遊戲平臺股價下跌2.9%；Hut 8 Mining美股上市股份下跌1.5%；Marathon Digital Holdings股價下跌2.6%。
+
+---
+
+### 2026-06-01 20:15:08  #國際
+
+B·萊利投資銀行首次覆蓋美國稀土，給予買入評級，目標價為28美元。
+
+---
+
+### 2026-06-01 20:14:48  #國際
+
+歐盟各國衛生部長將於週五召開埃博拉疫情緊急會議。
+
+---
+
+### 2026-06-01 20:14:14  #MKT News
+
+RUSSIAN CENBANK deputy governor said export revenues are rising faster than ruble appreciation, leaving exporters in a positive position.
+
+---
+
+### 2026-06-01 20:14:07  #MKT News
+
+【Wondershare: Wanxing Drama Studio user base and revenue ramping since March; retention and repeat purchases strong】Wondershare Technology said its Wanxing Drama Studio is in a phase of rapid product iteration alongside market rollout. Since the product opened in March, user numbers and revenue have ramped quickly, drawing leading webcomic-drama producers including Lingman, Zhangwan and Xinshijue, plus numerous mid- to lower-tier professional creators. The company reported strong user retention and repeat-purchase metrics.
+
+---
+
+### 2026-06-01 20:14:06  #央行 #國際
+
+俄羅斯央行副行長：出口收入增速快於盧布升值幅度，因此出口商所處境況向好。
+
+---
+
+### 2026-06-01 20:13:20  #其他
+
+【萬興科技：萬興劇廠使用者規模及收入均快速起量 使用者留存及復購表現良好】萬興科技(300624)6月1日在互動易平臺表示，旗下萬興劇廠目前處於產品快速迭代與市場推廣並行推進階段，3月產品正式開放以來，使用者規模及收入均快速起量，已吸引包括靈漫、掌玩、心視覺等頭部漫劇製作團隊及大量中腰部專業創作者入駐，使用者留存及復購表現良好。
+
+---
+
+### 2026-06-01 20:12:41  #MKT News
+
+India and Myanmar agreed to promote and strengthen bilateral trade, including advancing trade flows via a rupee–kyat settlement mechanism.
+
+---
+
+### 2026-06-01 20:12:30  #其他
+
+WOLFSPEED 成立專屬資料中心解決方案團隊。
+
+---
+
+### 2026-06-01 20:12:24  #市場 #焦點
+
+比特幣跌破72000美元，日內跌2.31%。
+
+---
+
+### 2026-06-01 20:12:09  #其他
+
+WOLFSPEED ：矽谷設立專屬資料中心團隊。
+
+---
+
+### 2026-06-01 20:11:51  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Norwegian statistics agency OFV said Tesla's new-car registrations in Norway rose 28.7% year-on-year in May.
+
+---
+
+### 2026-06-01 20:11:38  #市場
+
+美高梅度假村盤前大漲 10.2%。
 
 ---
 
@@ -20892,167 +21092,5 @@ Oman Maritime Security Centre warned vessels to remain vigilant after suspected 
 ### 2026-05-30 19:43:42  #MKT News
 
 【Beijing Space Intelligent Computing Research Institute established in Yizhuang】Beijing Space Intelligent Computing Research Institute was registered in the Beijing Economic‑Technological Development Area (Yizhuang). The institute will target key common technologies — onboard compute chips, inter‑satellite laser communications, space power and thermal management, integrated space‑ground networks and space security standards — and will build an end‑to‑end service chain covering R&D, pilot verification, on‑orbit testing and commercialization. It plans to complete development and launch of a first test satellite by 2028 and to network multiple test satellites to trial‑operate a space‑ground integrated intelligent computing network.
-
----
-
-### 2026-05-30 19:42:10  #國際
-
-澤連斯基：支援烏克蘭能源領域的新決定，正敲定能源領域決策的細節。
-
----
-
-### 2026-05-30 19:41:33  #MKT News
-
-Lebanese presidency says the president is stepping up communications to curb Israeli attacks.
-
----
-
-### 2026-05-30 19:40:43  #其他
-
-【南開大學通報論文資料存疑問題】針對南開校教師陳某相關論文資料存疑的問題，學校第一時間成立由校內外專家組成的調查組，嚴肅認真開展深入核查，對涉及的學術問題進行評議，有關情況通報如下。 受質疑論文“Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance”，2024年4月在《Nature Cancer》期刊正式發表。論文第一作者鄭某，為生命科學學院在站博士後。通訊作者陳某，為生命科學學院教授、院長。通訊作者胡某，為統計與資料科學學院教授。 調查組透過查驗實驗資料、訪談相關人員等，確認該論文被質疑的14張圖表所涉實驗資料處理由鄭某完成。其中，11張圖表的部分資料處理未進行準確量化，而是由估算完成；2張圖片為資料重複使用；1張圖片為資料貼上錯誤；上述情況存在學術不端行為。陳某、胡某對實驗資料和論文質量存在不同程度的失察失管，未盡到通訊作者對論文資料真實性的應盡責任。 依據《事業單位工作人員處分規定》《科研失信行為調查處理規則》等有關規定，學校對相關人員處理如下：解除鄭某與學校聘用關係。免去陳某生命科學學院院長職務，降低專業技術崗位等級，取消其在崗位聘用、工資晉級、職務晉升、科研專案申報、評獎評優等資格24個月。對胡某予以誡勉處理。
-
----
-
-### 2026-05-30 19:40:03  #國際
-
-烏克蘭總統澤連斯基：未來幾周的優先事項包括與歐盟達成無人機協議。
-
----
-
-### 2026-05-30 19:39:41  #宏觀
-
-【全國安全生產視訊會議在京召開 張國清出席會議並講話】全國安全生產視訊會議5月30日在京召開。中共中央政治局委員、國務院副總理張國清出席會議並講話，中共中央書記處書記、國務委員王小洪主持會議。張國清強調，要深入學習貫徹習近平總書記重要指示批示精神，落實李強總理批示要求，針對近期重特大事故暴露出的突出問題，嚴肅警示各地深刻汲取教訓，切實提升隱患排查整治質效，進一步從嚴從實狠抓安全生產工作。要查清查透事故原因和責任，較真碰硬直擊深層次問題，把血的教訓轉化為常態化、長效化的安全治理措施。要堅決從嚴落實安全生產責任，眼睛向下再向下，切實把安全責任層層傳導壓實到基層末梢。要提升監管的專業性和穿透力，完善重大事故隱患判定標準，加強進場監管、下井監管、全方位監管，強化上級對下級風險隱患整治整改工作的監督，確保整治整改真實、到位。要突出礦山、煙花爆竹、危化等重點行業領域，重拳嚴打隱蔽工作面、安全監控造假、煙花爆竹企業“四超兩改”等違法違規行為，加強行刑銜接，強化警示震懾，全力穩控安全生產形勢。（新華社）
-
----
-
-### 2026-05-30 19:39:24  #MKT News
-
-【Epstein victims accuse U.S. Justice Department of dereliction of duty】May 29 — Former U.S. attorney general Pam Bondi attended a closed-door congressional hearing on the Epstein case. Democratic Rep. Robert Garcia said Bondi told lawmakers the probe was led by acting attorney general Branch and effectively "passed the buck" to Branch. Several Epstein victims told the panel they view the Justice Department's failures as deliberate dereliction of duty, alleging Bondi and Branch broke the law and demanding full accountability.
-
----
-
-### 2026-05-30 19:37:56  #宏觀 #焦點
-
-【李強對安全生產工作作出重要批示強調 堅決貫徹落實習近平總書記關於安全生產的重要指示精神 切實維護人民群眾生命財產安全和社會大局穩定】全國安全生產視訊會議5月30日在京召開。中共中央政治局常委、國務院總理李強日前對做好安全生產工作作出重要批示。批示指出：今年以來，部分地方和行業領域安全事故多發頻發，給人民群眾生命財產造成重大損失，教訓極為深刻。各地區各部門要堅決貫徹落實習近平總書記關於安全生產的重要指示精神，按照黨中央決策部署，堅持人民至上、生命至上，縱深推進安全生產治本攻堅三年行動，提升風險隱患排查質效，嚴肅查處安全生產非法違法和弄虛作假等行為，有力發揮震懾遏制效果。要始終把弦繃緊，堅持防微杜漸，加強礦山、煙花爆竹、交通運輸、工程施工等重點行業領域全鏈條、穿透式安全監管和治理，下大力氣解決安全生產領域深層次矛盾問題，壓實責任、狠抓落實，堅決遏制重特大事故多發勢頭。當前正值汛期，防汛救災形勢嚴峻複雜，要堅決克服麻痺思想，加強監測預警、會商研判和應急準備，築牢事故災害防線，提高搶險救援能力，切實維護人民群眾生命財產安全和社會大局穩定。（新華社）
-
----
-
-### 2026-05-30 19:37:42  #MKT News #C.O #Impact bullish #JPM.O #GS.O
-
-【OpenAI in talks with Citigroup, JP Morgan on IPO participation】People familiar with the matter say OpenAI has discussed potential participation in its upcoming IPO with Citigroup and JP Morgan. Those banks could join Goldman Sachs and Morgan Stanley on the deal, but discussions are non-binding and do not guarantee involvement; other investment banks may also participate.
-
----
-
-### 2026-05-30 19:35:11  #國際
-
-以色列軍方：我們攔截了一架從黎巴嫩發射、目標是以色列北部的無人機，一個可疑的空中目標墜落在邊境附近，沒有造成人員傷亡。
-
----
-
-### 2026-05-30 19:33:09  #MKT News
-
-【Baotou launches hydrogen two-wheeler R&D test pilot】May 30, Baotou — A pilot demonstration for hydrogen-powered two-wheelers launched, putting 1,000 Northern Rare Earth-developed "Xixiao Hydrogen" rare-earth hydrogen scooters into public, municipal and convenience-service operation. The scooters use a self-developed rare-earth solid-state hydrogen-storage alloy with low-pressure solid-state hydrogen storage and include an intelligent monitoring platform that tracks pressure, temperature and other safety metrics in real time. Northern Rare Earth plans phased, batch rollouts to reach a cumulative 10,000 demonstration vehicles.
-
----
-
-### 2026-05-30 19:32:51  #公司 #國際 #原創
-
-【OpenAI據悉討論將花旗和摩根大通納入IPO承銷商名單】據知情人士稱，OpenAI已與花旗集團、摩根大通等銀行討論了參與其即將到來的IPO的事宜。訊息人士稱，花旗集團、摩根大通可能加入高盛集團、摩根士丹利的行列，一同籌備這一上市交易。OpenAI確定承銷商名單，將使其離IPO更近一步。據此前報道，這家ChatGPT的開發公司料將在幾周內以保密形式提交IPO檔案。知情人士稱，與花旗集團和摩根大通磋商，不代表它們最後一定會參與此次IPO。他們還補充說，其他投資銀行也可能最終參與進來。
-
----
-
-### 2026-05-30 19:31:24  #國際
-
-美國地質調查局：葉門基爾米亞西北偏北195公里處發生5.0級地震。
-
----
-
-### 2026-05-30 19:26:50  #公司 #國際
-
-【智元機器人合夥人姚卯青：今年上半年智元海外收入佔比已近20%】在BEYOND Expo 2026上，智元機器人合夥人、具身業務部總裁姚卯青採訪中透露，未來海外收入將成為公司業績的很大一塊。去年全年海外收入貢獻佔比不到10%。今年上半年的話，這個數字已經接近20%。其中，北美、歐洲、日韓是公司計劃未來進行大規模突破的市場。
-
----
-
-### 2026-05-30 19:26:31  #其他
-
-伊拉克真主黨旅：我們拒絕繳械，準備從那些決定放棄的人手中接收他們的無人機和導彈。
-
----
-
-### 2026-05-30 19:25:14  #MKT News #WTI #Impact bullish #Brent
-
-Iraq's Kataib Hezbollah said it refuses to disarm.
-
----
-
-### 2026-05-30 19:23:13  #其他
-
-【包頭市氫能兩輪車科研測試試點示範專案啟動】5月30日，包頭市氫能兩輪車科研測試試點示範專案啟動儀式舉行，1000輛北方稀土自主研發的“稀小氫”稀土氫能兩輪車面向市民大眾、公共場景及便民領域投入示範運營。據悉，“稀小氫”稀土氫能兩輪車，搭載自研稀土固態儲氫合金核心材料，採用低壓固態儲氫技術，儲氫壓力低，並配備智慧化監控平臺，實時監測壓力、溫度等關鍵指標。北方稀土將採取“分批投放、逐步推廣、穩步擴面”的推進模式，逐步完成累計10000輛示範車輛的投放落地。
-
----
-
-### 2026-05-30 19:21:23  #MKT News #Star Stocks #Xiaomi #Market Themes #AI Revolution #1810.HK #Impact mixed
-
-【Xiaomi details full‑stack inference optimizations for MiMo‑V2.5 models】May 30 — Xiaomi published end‑to‑end inference optimizations for the MiMo‑V2.5 series. The firm said its Hybrid SWA+MoE+multimodal architecture was paired with a systematic rebuild of the inference stack — KVCache management, tiered and prefix caching, scheduling and the prefill/decode pipeline. Xiaomi reported KVCache storage is compressed to roughly 1/7 of comparable solutions, materially lowering inference cost in long‑sequence scenarios and providing the technical basis for the price cut. Xiaomi permanently cut MiMo‑V2.5 API prices on May 27, with discounts up to 99% and no differentiation by input length.
-
----
-
-### 2026-05-30 19:20:43  #公司
-
-【10名車主訴特斯拉FSD欺詐案近日開庭，索賠金額數百萬元】近日，一起針對特斯拉FSD（完全自動駕駛）功能的集體訴訟案在北京市大興區人民法院一審開庭。5月29日，記者從原告律師處獲悉，10名中國車主以虛假宣傳、消費欺詐為由，將特斯拉告上法庭，索賠金額合計395萬餘元。特斯拉方對此案暫無回應。據原告律師稱，庭審中雙方聚焦特斯拉FSD功能是否達到其宣傳的“完全自動駕駛能力”舉證辯論。原告方認為，被告明知其宣傳的“完全自動駕駛”功能未獲中國監管部門批准，無法實現其宣傳的核心功能，並隱瞞硬體技術缺陷，進行誤導性宣傳，誘使原告購買，其行為符合欺詐的構成要件。被告特斯拉方則主張FSD功能“現在已經實現”或“部分實現”，並稱後續功能仍在研發中。（新京報）
-
----
-
-### 2026-05-30 19:19:35  #公司
-
-【紫光股份旗下新華三集團與中國通訊服務浙江公司簽署戰略合作協議】5月29日，紫光股份旗下新華三集團與中國通訊服務浙江公司在杭州舉行戰略合作簽約儀式。雙方將圍繞基礎設施服務、智算中心建設、DICT協同發展、低空經濟合作、海外市場拓展、產學研成果轉化等領域開展戰略合作。
-
----
-
-### 2026-05-30 19:17:58  #其他
-
-【北京太空智算研究院在北京亦莊成立】近日，北京太空智算研究院在北京經濟技術開發區註冊成立。研究院將圍繞星載算力晶片、星間鐳射通訊、太空能源與散熱、天地一體化網路及空間安全標準等方向開展關鍵共性技術攻關，搭建覆蓋技術研發、中試驗證、在軌測試到成果轉化的全鏈條服務體系，並計劃於2028年前完成首發試驗星研製與發射。未來，研究院將進行多顆試驗星組網，實現“天地一體化智算網”試運營。
-
----
-
-### 2026-05-30 19:17:54  #其他
-
-【小米MiMo首次公開模型推理系統全鏈路最佳化技術細節】5月30日，小米正式公開MiMo-V2.5系列模型的推理系統全鏈路最佳化方案。據小米方面介紹，團隊圍繞Hybrid SWA+MoE+多模態的複合架構，系統性重構了從KVCache管理、分級快取、字首快取到排程策略與Prefill/Decode鏈路的完整推理棧，KVCache儲存壓縮至同級方案的約1/7，在長序列場景下推理成本大幅下降——這是本次降價的核心技術基礎。5月27日，MiMo-V2.5系列API完成永久降價，最高降幅達99%，不區分輸入長度。
-
----
-
-### 2026-05-30 19:12:21  #國際
-
-【中方說日本沒有資格談國際防務合作】今天（5月30日），中國人民解放軍專家學者代表團團長、國防大學孟祥青教授出席香格里拉對話會第一場平行分組會議“如何管理對戰略穩定的威脅”並發表講話。他表示，今年是遠東國際軍事法庭開庭80週年。這場正義審判把日本軍國主義的滔天罪行永遠釘在了歷史恥辱柱上，也奠定了戰後國際秩序的重要法理基石。然而今天，仍有一些勢力公然美化戰爭罪行，宣揚錯誤二戰史觀，妄圖挑戰東京審判定論，為侵略歷史翻案，甚至已經做出實際行動突破戰後和平體制約束。一個沒有徹底清算軍國主義遺毒的國家，有沒有資格在國際場合大談防務合作？能不能贏得國際社會、尤其是曾經被它侵略過的亞洲國家的信任？我深表懷疑。殷鑑不遠，今天的世界又處在新的十字路口，我們必須警惕任何軍國主義思潮藉機復活，切實維護二戰成果和戰後國際秩序。（CCTV國際時訊）
-
----
-
-### 2026-05-30 19:11:11  #國際
-
-以色列後方戰線：上加利利地區梅圖拉和馬斯加夫阿姆響起空襲警報，因偵測到來自黎巴嫩的無人機滲透。
-
----
-
-### 2026-05-30 19:10:51  #國際
-
-赫格塞思：與伊朗方面的會談富有成效，總統決心阻止德黑蘭獲得核武器。
-
----
-
-### 2026-05-30 19:10:20  #國際
-
-美國國防部長赫格塞思：我們對伊朗的目標沒有改變。
-
----
-
-### 2026-05-30 19:09:27  #MKT News #Commodities #Energy
-
-Ukrainian President Zelenskiy said Ukrainian forces struck Russian oil facilities in Armavir, about 500 km from the Ukrainian border.
-
----
-
-### 2026-05-30 19:09:17  #國際
-
-美國國防部長赫格塞思：特朗普總統不會簽署任何協議，除非協議對我國有利。
 
 ---

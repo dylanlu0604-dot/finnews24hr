@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:09:09_
-_本檔包含 4061 則快訊，約 702391 字_
+_更新時間：2026-06-06 19:43:29_
+_本檔包含 4073 則快訊，約 701888 字_
+
+---
+
+### 2026-06-03 22:58:48  #MKT News #Market Regions #Greater China
+
+According to HKEX filings, Shenzhen Xingyuan Material Technology Co., Ltd. has cleared its listing hearing.
+
+---
+
+### 2026-06-03 22:58:42  #其他
+
+貝森特：資金一旦撥付出去，想要追回難度極大。
+
+---
+
+### 2026-06-03 22:58:35  #其他
+
+貝森特：財政預算每年預估至少存在 5000 億美元欺詐款項。
+
+---
+
+### 2026-06-03 22:58:18  #市場 #國際
+
+【華爾街知名科技股多頭Ives：準備好爆米花 SpaceX上市將是分水嶺事件】Wedbush Securities的Dan Ives表示，SpaceX的首次公開募股將是一場“分水嶺事件”，不僅會打破紀錄，也將為隨後OpenAI和Anthropic PBC的IPO奠定基調。這位全球科技研究主管兼資深股票分析師週三表示：“把爆米花準備好吧：SpaceX、OpenAI、Anthropic，未來幾個月會非常有看頭。”他還說，這將是“對市場具有歷史意義”的事件。圍繞這些IPO的熱情，正在廣泛傳導至科技板塊，而科技股正是推動美國主要股指創出新高的重要力量。截至週二，以科技股為主的納斯達克100指數今年已上漲21%，漲幅幾乎是標普500指數的兩倍。
+
+---
+
+### 2026-06-03 22:57:59  #MKT News
+
+Reserve Bank of India says QR-code-based cross-border merchant payment link between India and Cambodia has gone live.
+
+---
+
+### 2026-06-03 22:57:28  #國際
+
+印度儲備銀行：印度與柬埔寨推出掃碼跨境商戶支付支付系統互聯互通專案。
+
+---
+
+### 2026-06-03 22:57:18  #國際
+
+【澤連斯基稱願即刻與普京展開直接談判】當地時間3日，烏克蘭總統澤連斯基稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基強調談判的緊迫性，稱烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題。他表示，烏方希望依託兩國最高層級直接對話，加速止戰程序。對於這一表態，俄羅斯方面暫無回應。（央視新聞）
+
+---
+
+### 2026-06-03 22:56:41  #公司
+
+紐約州總檢察長因反壟斷相關問題調查康帕斯公司。
+
+---
+
+### 2026-06-03 22:55:53  #其他
+
+達美航空高管：儘管全球局勢存在不確定性，需求依然強勁。企業客戶、高階艙及經濟艙的需求均有所上升。
+
+---
+
+### 2026-06-03 22:55:47  #宏觀 #國際
+
+【策略師：美國新關稅對歐洲市場毫無影響】Panmure Liberum策略師Joachim Klement寫道，新提議的10%的美國關稅對歐洲出口商沒有任何改變。Klement說：“這對歐洲市場來說毫無影響，因為臨時的10%關稅已被永久性的10%關稅所取代。對出口商來說，其實沒有任何改變。“對歐洲和英國出口商新提議的關稅，是在另一項臨時的10%關稅料將於7月底到期之前出臺的。美國貿易代表賈米森·格里爾表示，徵收這些關稅是因為對強迫勞動的擔憂。Klement說：“徵收關稅的理由表面上看起來很荒謬，因為歐洲的反奴隸制法律比美國更嚴格。”
+
+---
+
+### 2026-06-03 22:55:43  #MKT News
+
+A Delta Air Lines executive said demand remains strong despite global uncertainty, with corporate bookings and both premium and economy cabin demand rising.
+
+---
+
+### 2026-06-03 22:54:16  #MKT News #ADBE.O
+
+Adobe (ADBE.O) is considering two internal leaders and several external AI specialists for the CEO role, market sources said.
+
+---
+
+### 2026-06-03 22:53:55  #國際
+
+貝森特：美國民眾正處在艱難時期，（我們）將渡過難關。
+
+---
+
+### 2026-06-03 22:53:55  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+U.S. Treasury Secretary Bessent said inflation will be a "short-term fluctuation".
+
+---
+
+### 2026-06-03 22:53:39  #其他
+
+貝森特：通脹只會是短期小幅衝高。
+
+---
+
+### 2026-06-03 22:53:38  #MKT News
+
+Israeli Prime Minister Netanyahu said he hopes Iran’s leadership will deliver a real future for the country.
+
+---
+
+### 2026-06-03 22:53:25  #MKT News
+
+Prime Minister Netanyahu said rating agencies have not given Israel a top credit rating because of geopolitical risk.
+
+---
+
+### 2026-06-03 22:53:12  #市場
+
+COMPASS INC.股價跌至盤中低點6.1%。
+
+---
+
+### 2026-06-03 22:52:57  #國際
+
+美國國務卿魯比奧：伊朗正在以針對地區目標的襲擊來回應霍爾木茲海峽的通航行動。
+
+---
+
+### 2026-06-03 22:52:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Secretary of State Rubio said Iran is responding to transit operations in the Strait of Hormuz with attacks on regional targets.
+
+---
+
+### 2026-06-03 22:52:40  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary Bessent said Americans face a period of challenge and must overcome it.
+
+---
+
+### 2026-06-03 22:52:38  #國際
+
+墨西哥經濟部表示，未來45天內將就違反《美墨加協定》規則的貨物裝運事宜與美國貿易代表辦公室舉行正式會談。
+
+---
+
+### 2026-06-03 22:52:35  #國際
+
+內塔尼亞胡：評級機構稱，受地緣政治風險影響，以色列未獲得最高評級。
+
+---
+
+### 2026-06-03 22:52:26  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Secretary of State Rubio said U.S. forces are protecting commercial vessels transiting the Strait of Hormuz.
+
+---
+
+### 2026-06-03 22:51:40  #國際
+
+魯比奧：美國軍隊正在保護穿越霍爾木茲海峽的商船。
+
+---
+
+### 2026-06-03 22:51:40  #MKT News
+
+Israeli Prime Minister Netanyahu said he hopes the United States and Israel will invest on equal terms and share investment returns.
+
+---
+
+### 2026-06-03 22:51:29  #其他
+
+墨西哥經濟部表示，擬議中的關稅還將豁免汽車、鋼鐵與鋁品類。
+
+---
+
+### 2026-06-03 22:51:27  #MKT News
+
+Israeli Prime Minister Netanyahu said he believes Israel has matured.
+
+---
+
+### 2026-06-03 22:51:21  #國際
+
+以色列總理內塔尼亞胡：以色列吸引了大量投資。由於戰爭，以色列科技崛起，中東及周邊國家表示“我們想與您合作”。我們希望將與美國的關係從援助轉變為夥伴關係。我希望立即開始轉變。希望美以雙方對等投資，共享投資收益。
+
+---
+
+### 2026-06-03 22:51:07  #MKT News
+
+Israeli Prime Minister Netanyahu said he wants to shift relations with the United States from aid to partnership and wants the transition to begin immediately.
+
+---
+
+### 2026-06-03 22:50:53  #MKT News
+
+【Netanyahu: war has accelerated Israel's tech rise; regional states seek cooperation】Prime Minister Netanyahu said the war has accelerated the rise of Israel's technology sector and that Middle Eastern and neighboring states have approached Israel saying "we want to cooperate with you."
+
+---
+
+### 2026-06-03 22:50:36  #國際
+
+墨西哥經濟部在一份宣告中表示，符合《美墨加協定》規則的貿易將可豁免美國擬議中與強迫勞動相關的關稅。
+
+---
+
+### 2026-06-03 22:50:25  #其他
+
+【英國皇家海軍直升機墜毀致3人死亡】英國國防部3日在社交媒體上釋出訊息說，當天早些時候發生的英國皇家海軍直升機墜毀事件已造成3名英國皇家海軍成員死亡。據英國媒體此前報道，3日凌晨4時左右，一架英國皇家海軍直升機在訓練演習過程中墜入英國德文郡的田野，事發地位於兩個皇家海軍的空軍基地之間，靠近一處用於訓練直升機機組人員的戰鬥營。英國首相斯塔默在當天議會下院的首相質詢環節中說，他已注意到這起事件，“對於涉事人員家屬而言，這將是一段極其令人擔憂的時期，我們將盡快公佈更多資訊”。（新華社）
+
+---
+
+### 2026-06-03 22:50:16  #MKT News
+
+Prime Minister NETANYAHU says Israel has attracted substantial investment inflows.
+
+---
+
+### 2026-06-03 22:49:55  #國際
+
+內塔尼亞胡：以色列新領導層的更迭將由民眾來決定。
+
+---
+
+### 2026-06-03 22:49:24  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is ready to accept new leadership whenever the public decides.
+
+---
+
+### 2026-06-03 22:49:22  #MKT News #Market Regions #Europe & UK #Market Themes #AI Revolution #ASML.AS #Impact bullish
+
+【ASML becomes Europe's most valuable company on record】Investors buying stocks tied to AI data-center builds have driven ASML up about 60% YTD. On Wednesday ASML rose as much as 2.3% to a market capitalization near $674 billion, overtaking Novo Nordisk's June 2024 record to become the largest company by market value in European history. ASML is the Stoxx 50's second-best performer YTD, though a number of semiconductor peers have outperformed, roughly doubling in price.
+
+---
+
+### 2026-06-03 22:49:18  #公司 #市場 #國際
+
+【阿斯麥成為歐洲有史以來市值最高的公司】投資者紛紛搶購那些與人工智慧資料中心建設相關的股票，阿斯麥今年迄今已經暴漲60%。週三，阿斯麥公司的股價上漲了多達2.3%，使其市值達到了約6740億美元，成為歐洲有史以來市值最高的公司，超過了丹麥製藥公司諾和諾德在2024年6月創下的紀錄。阿斯麥今年在歐洲斯托克50指數中表現位居第二，但其表現卻遜於一系列半導體股票，其價格已上漲近一倍。
+
+---
+
+### 2026-06-03 22:49:12  #市場 #觀點
+
+【大摩：預期記憶體供應緊張最少持續兩至三年，美光目標價看高至1050美元】摩根士丹利發表報告，上調美光及閃迪收入及盈利預測，將美光目標價由520美元大幅上調至1050美元，閃迪目標價由1100美元上調至1750美元，評級同為“增持”。大摩稱，記憶體晶片股在2025年表現強勁，並在2026年繼續引領市場，但該行認為這波強勁表現尚未結束。大摩稱，記憶體短缺並無快速解決方案。這將推動記憶體供應緊張的狀況持續兩至三年(或更長)。短缺在DRAM中最為嚴峻，但NAND Flash亦然。該行認為兩者股價可繼續跑贏大市，因為基於近期預測的倍數仍然合理(兩者2027財年預估市盈率均低於10倍)，且大規模股票回購可能於2027年啟動、專用AI記憶體合約價格談判走高，以及閃迪在資料中心市場的滲透率提高。在此背景下，市場對新的多年期供應協議關注甚多，該行認為長期協議應被視為“高增長持續更久”前景的結果而非原因，並且證明了超大型企業有意在未來幾年繼續擴大記憶體採購，並視承諾為確保供應的必要條件。該行認為市場將獎勵這種隱含的持續性，但該行最關注的仍是供需狀況。
+
+---
+
+### 2026-06-03 22:48:54  #MKT News
+
+Israeli Prime Minister Netanyahu: The market is not wrong.
+
+---
+
+### 2026-06-03 22:48:46  #MKT News
+
+Prime Minister Netanyahu said the war has demonstrated Israel's technological strength, not only on the battlefield but also on the civilian front.
+
+---
+
+### 2026-06-03 22:48:31  #其他
+
+內塔尼亞胡：“市場並沒有錯”。
+
+---
+
+### 2026-06-03 22:48:25  #MKT News
+
+Prime Minister Netanyahu said after two-and-a-half years of war Israel's currency is at its strongest level in history and exports are surging.
 
 ---
 
@@ -24279,191 +24537,5 @@ Dangote CEO says refinery is operating at full capacity.
 ### 2026-06-02 21:50:15  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
 
 Dangote CEO says the company will add 700,000 b/d of refining capacity by end-2028.
-
----
-
-### 2026-06-02 21:50:08  #MKT News #Important #Market Regions #Europe & UK #Macro & Rates #US Economy #GBPUSD #Impact mixed #DXY #US10Y
-
-Bank of England Governor Bailey is due to appear before the House of Lords in 10 minutes; U.S. April JOLTS job openings are scheduled for release in 10 minutes.
-
----
-
-### 2026-06-02 21:49:43  #宏觀
-
-【江蘇蘇州公積金新政實施 上調貸款額度擴大公積金互助提取範圍】江蘇蘇州自6月1日起正式實施新一輪公積金新政，透過上調貸款最高額度、擴大公積金互助提取範圍等多方面最佳化舉措，進一步降低消費者購房綜合成本。新政落地首日，一早在蘇州多家住房公積金管理服務大廳，記者看到不少市民前來諮詢、辦理貸款申請等業務，視窗辦理量較平日有明顯攀升。此次新政大幅提高公積金貸款限額，個人公積金最高貸款額度從原先的120萬元調整為150萬元，家庭公積金最高貸款額度從原先的150萬元調整為200萬元。 新政還設定多項額度上浮規則，例如購買新建商品現房，貸款額度上浮50%；購買二星級及以上綠色建築，額度上浮20%；符合條件的消費者還可疊加享受。新政還拓寬公積金家庭互助使用範圍，支援父母、子女直系親屬之間共用公積金支付購房首付、共同辦理貸款、分攤月供。本次出臺新政自6月1日起正式執行，有效期兩年。新政上線首日，蘇州全市共受理公積金貸款申請近400筆，業務辦理量和市民諮詢熱度持續走高。 (央視財經)
-
----
-
-### 2026-06-02 21:48:21  #MKT News
-
-Sky News reports sales of SpaceX shares via intermediaries including Hargreaves Lansdown may total up to $2 bln.
-
----
-
-### 2026-06-02 21:48:06  #其他
-
-市場訊息：透過Hargreaves Lansdown等中介平臺出售的SpaceX股份規模可能高達20億美元。
-
----
-
-### 2026-06-02 21:48:00  #MKT News
-
-【Iran to hold funerals for late Supreme Leader Ali Khamenei in three cities】State media reported Iran will hold funeral ceremonies for late Supreme Leader Ali Khamenei in Tehran, Qom and Mashhad.
-
----
-
-### 2026-06-02 21:47:54  #國際
-
-【伊朗將在三座城市為哈梅內伊舉辦葬禮】據伊朗伊斯蘭共和國通訊社2日報道，伊朗將在德黑蘭、庫姆和馬什哈德三座城市為伊朗已故最高領袖阿里·哈梅內伊舉辦葬禮。（新華社）
-
----
-
-### 2026-06-02 21:47:44  #MKT News #Market Themes #AI Revolution
-
-Japan's finance minister Katayama said the government and some financial institutions will be granted access to Anthropic's Mythos model.
-
----
-
-### 2026-06-02 21:47:33  #公司 #國際
-
-日本財務大臣：日本政府及部分金融機構將獲得Anthropic公司Mythos大模型訪問許可權。
-
----
-
-### 2026-06-02 21:47:25  #其他
-
-市場訊息：馬斯克旗下SpaceX計劃在其IPO中加入面向英國零售投資者的配售。
-
----
-
-### 2026-06-02 21:47:13  #國際
-
-以色列外交部：誰都不願自己的孩子僅有 15 秒時間逃往防空洞。真主黨是挾持整個黎巴嫩的恐怖組織。 我們必將守護本國孩童安全。
-
----
-
-### 2026-06-02 21:47:09  #MKT News
-
-Sky News reports SpaceX, owned by Elon Musk, plans to include an allocation for UK retail investors in its IPO.
-
----
-
-### 2026-06-02 21:46:53  #MKT News #Market Themes #China EV Leaders
-
-【SAIC Motor to build first European EV plant in Spain】Galicia regional government said SAIC Motor will invest an initial €200m to build its first European electric-vehicle factory in Ferrol, A Coruña. The plant is targeted to produce 120,000 vehicles a year and is expected to create more than 2,300 jobs. Construction is slated to begin in 2027 with commercial operation targeted by end-2028. The project includes an industrial zone near the local port for vehicle assembly and shipment.
-
----
-
-### 2026-06-02 21:46:44  #國際
-
-真主黨宣告：為保衛黎巴嫩及其民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成殉難者與多名平民傷亡的行徑，伊斯蘭抵抗運動武裝人員在東扎烏塔爾鎮東南郊，對以軍第二輛尼米拉軍用車輛實施打擊，命中目標屬實。
-
----
-
-### 2026-06-02 21:46:31  #MKT News
-
-Hezbollah said it struck and confirmed a hit on the Israeli military's second Nimra vehicle on the southeast outskirts of Zawatar al-Sharqiya at 08:10 on June 2, 2026.
-
----
-
-### 2026-06-02 21:46:03  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Citigroup Stock Price Hits 5-week High — Citigroup shares increased to 131.97 USD, the highest since April 2026. Over the past 4 weeks, Citigroup gained 4.98%, and in the last 12 months, it increased 74%.
-
----
-
-### 2026-06-02 21:45:47  #公司 #國際
-
-【上汽集團將在西班牙建設其歐洲首家電動汽車工廠】西班牙加利西亞自治區政府日前宣佈，中國上汽集團將在加利西亞建設其在歐洲的首家電動汽車工廠。加利西亞自治區政府主席魯埃達1日對媒體表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。工廠將於2027年開工建設，目標是在2028年年底前投入運營。（新華社）
-
----
-
-### 2026-06-02 21:45:24  #市場 #國際
-
-【可可價格上漲 因美國港口庫存下降預示供應緊張】紐約可可期貨五個交易日以來首次上漲，美國庫存下降釋放出短期供應趨緊的訊號。紐約市場成交最活躍的可可期貨合約一度上漲7.8%，倫敦市場可可期貨一度上漲7.3%。ICE資料顯示，截至週一，美國港口經過認證的可可庫存已降至29萬袋以下，較上週五減少逾50%。市場高度關注這項庫存資料，因為它反映的是可用於期貨合約到期交割的受監管實物供應規模。
-
----
-
-### 2026-06-02 21:44:55  #市場
-
-【國內市場煉焦煤偏強執行 焦企近期仍有第六輪提漲預期】2日國內市場煉焦煤偏強執行。供應方面，煤礦復產節奏緩慢，部分已復產的礦點產量仍低於停產前水平，資源持續偏緊，各煤種價格普遍上漲。今日呂梁離石市場主流煤種價格上漲150元/噸，其中低硫主焦煤（A11、S1、V23、G80，強度70以上）出廠價含稅現金報1750元/噸。需求方面，部分鋼廠已接受焦炭第五輪漲價，預計6月3日落地；焦企近期仍有第六輪提漲預期。當前鐵水產量維持在241萬噸，鋼廠開工率保持高位，對焦煤的剛需支撐較強。綜合來看，預計短期煉焦煤市場將延續偏強執行，後續需要關注煤礦安全檢查的實際持續時間與復產進度。
-
----
-
-### 2026-06-02 21:44:37  #其他
-
-市場訊息：與馬斯克有關聯的WIT TECH LLC在計劃建設晶片工廠之前已收購得克薩斯州6000英畝的土地。
-
----
-
-### 2026-06-02 21:44:36  #MKT News #Market Themes #Chip Wars
-
-Market sources: WIT TECH LLC, linked to Elon Musk, has acquired about 6,000 acres in Texas ahead of plans to build a semiconductor factory.
-
----
-
-### 2026-06-02 21:44:28  #其他
-
-Strategy下挫6.6%，跌至逾一個月以來的低點。
-
----
-
-### 2026-06-02 21:43:40  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【UAE plans refined-products pipeline to bypass Strait of Hormuz】The UAE is planning its first multi-fuel refined-products pipeline to keep exports of gasoline, diesel and jet fuel flowing if the Strait of Hormuz is shut, ADNOC vice president Philippe Khoury said. Abu Dhabi already routes crude from Habshan to Fujairah via an existing pipeline with a 1.5 mln b/d cap and has relied on it since the conflict began; Fujairah port has faced repeated attacks that have disrupted exports. ADNOC is building a second crude pipeline due early next year that will double Fujairah throughput to about 3.0 mln b/d. The proposed products pipeline would be switchable between fuel types, operating like the US Colonial pipeline.
-
----
-
-### 2026-06-02 21:43:19  #其他
-
-【海南自貿港封關後首架“零關稅”飛機通關】近日，一架全新空客A321neo飛機從德國漢堡起飛，經停烏茲別克塔什干後，順利飛抵海口美蘭國際機場並完成通關。
-
----
-
-### 2026-06-02 21:41:49  #行業 #公司 #焦點 #國際
-
-【阿布扎比國家石油公司擬在阿聯酋新建輸油管線，繞開霍爾木茲海峽】阿聯酋正規劃本國首條多品類成品油輸送管線，即便霍爾木茲海峽航道受阻，汽油、柴油與航空煤油仍可依託該管線實現出口。 阿布扎比國家石油公司（ADNOC）貿易業務執行副總裁菲利普·胡裡於週二透露，公司計劃修建一條成品油管線，實現運輸路線繞開霍爾木茲海峽。霍爾木茲海峽是全球關鍵能源貿易通道，自三個月前相關戰事爆發後，海峽通航受到大幅限制。中東各產油國紛紛籌建配套基建，降低伊朗對自身原油出口通道的牽制。胡裡表示，阿布扎比國家石油公司正投入大量資源最佳化供應鏈與配套體系，預判危機或將長期延續，以此保障公司能夠高效、具備成本優勢地持續向全球客戶供貨。
-
----
-
-### 2026-06-02 21:41:08  #其他
-
-【審批提速，可轉債市場或將迎來密集發行視窗期】隨著再融資政策落地見效、稽核節奏持續提速，疊加前期存量轉債集中贖回退市帶來的供給缺口填補需求，可轉債市場正式開啟密集發行週期。自6月1日以來，盛德轉債、通合轉債先後啟動網上發行，6月4日，迪威轉債也將啟動發行，可轉債的發行速度正在加快。值得一提的是，當前已獲稽核透過的可轉債數量達30只，募資金額超過480億元，為階段性發行奠定堅實基礎。分析人士指出，隨著審批提速、儲備專案集中落地，可轉債市場有望進入年度密集發行視窗期。充裕的新券供給將重塑市場供需結構，啟用市場活力，持續最佳化轉債市場生態。（證券時報）
-
----
-
-### 2026-06-02 21:40:04  #Trading Economics #Markets #commodity #Importance 0
-
-Soybeans Hits 5-week Low — Soybeans decreased to 1167.00 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Soybeans lost 3.26%, and in the last 12 months, it increased 12.24%.
-
----
-
-### 2026-06-02 21:40:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 104 points or 0.20 percent on Tuesday. Gains are led by Caterpillar (3.54%), Cisco Systems (3.14%) and Goldman Sachs (1.82%). Biggest losers are Salesforce (-4.55%), Microsoft (-2.97%) and Amazon (-2.36%).
-
----
-
-### 2026-06-02 21:39:29  #市場
-
-Ned Davis Research將2026年年底標普500指數目標上調至7950點。
-
----
-
-### 2026-06-02 21:39:28  #MKT News #S&P500 #Impact bullish
-
-Ned Davis Research raised its S&P 500 year-end 2026 target to 7,950.
-
----
-
-### 2026-06-02 21:38:26  #公司 #國際
-
-市場訊息：知情人士表示，經霍爾木茲海峽繞行的成品油管道將成為阿布扎比國家石油公司下一步的重點專案。該管道將類似於美國的哥倫比亞管道等其他成品油管道，可在不同型別的成品油之間切換運輸。
-
----
-
-### 2026-06-02 21:38:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
-
-Financial Times reports Abu Dhabi National Oil Company (ADNOC) is prioritizing a refined‑products pipeline that would bypass the Strait of Hormuz. The project would resemble the U.S. Colonial pipeline and be capable of switching shipments among different refined product types.
 
 ---

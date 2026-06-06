@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:09:09_
-_本檔包含 3614 則快訊，約 702379 字_
+_更新時間：2026-06-06 19:43:29_
+_本檔包含 3614 則快訊，約 701876 字_
+
+---
+
+### 2026-06-06 19:42:47  #其他
+
+海灣合作委員會秘書長：巴林和科威特的安全是海灣合作委員會成員國安全不可分割的一部分。
+
+---
+
+### 2026-06-06 19:41:24  #國際
+
+【中蒙“草原夥伴-2026”陸軍聯合訓練舉行結束儀式】中蒙“草原夥伴-2026”陸軍聯合訓練結束儀式6日在內蒙古某聯合訓練基地舉行。結束儀式前，雙方組織開展實兵實彈演練。聯訓期間，中蒙參訓官兵開展了多輪模擬推演與實兵合練。中方官兵圍繞防化偵察洗消、有人無人協同進攻、裝備搶修與戰場救護等課目進行示範，蒙方官兵現場觀摩並體驗了無人機、機器狼操控及機械外骨骼穿戴等內容。此外，雙方還組織了拔河、籃球等軍事競技比賽和多元文化交流活動，在並肩戰鬥中深化了互信與友誼。據瞭解，蒙方參訓部隊將於6月10日前全部撤離。（新華社）
+
+---
+
+### 2026-06-06 19:40:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Gulf Cooperation Council secretary-general said Iran's continued terrorist activity demonstrates its intent to undermine security.
+
+---
+
+### 2026-06-06 19:40:36  #MKT News #Market Regions #Greater China
+
+【Authorities probe tender dispute for Xiangya Second Hospital project】Hunan Development and Reform Commission said on June 6 that, responding to media reports of irregularities in the tender for the Xiangya Second Hospital national emergency medical rescue base construction project, the Hunan provincial party committee and provincial government have formed a joint investigation team led by the Hunan DRC and including the Hunan Department of Housing and Urban‑Rural Development, the Hunan Public Resources Trading Center and Changsha city departments. The team will carry out a comprehensive investigation and publish results promptly.
+
+---
+
+### 2026-06-06 19:40:05  #MKT News
+
+Lebanese media Al-Akhbar reported Hezbollah fighters have shifted tactics, concentrating strikes on Israeli military command and communications centers rather than conducting attrition attacks on Israeli forces.
+
+---
+
+### 2026-06-06 19:39:24  #MKT News
+
+Saudi outlet Alhadath reports Gulf Cooperation Council interior ministers convened an emergency meeting.
+
+---
+
+### 2026-06-06 19:38:47  #MKT News
+
+Gulf Cooperation Council Secretary-General: member states' security is indivisible.
+
+---
+
+### 2026-06-06 19:38:18  #MKT News
+
+UAE Foreign Ministry said the UAE fully supports Bahrain and backs all measures to safeguard its security and stability.
+
+---
+
+### 2026-06-06 19:37:39  #MKT News #Brent #Impact bullish #XAUUSD
+
+UAE foreign ministry strongly condemned Iran's terrorist attacks on Kuwait and Bahrain, including missile and drone strikes.
+
+---
+
+### 2026-06-06 19:37:01  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Ukraine's military said it struck an oil depot and an oil terminal in Russia's Leningrad region.
+
+---
+
+### 2026-06-06 19:36:56  #國際
+
+烏克蘭軍方稱襲擊了俄羅斯列寧格勒州的石油倉庫和石油碼頭。
+
+---
+
+### 2026-06-06 19:36:21  #其他
+
+【官方回應湘雅二醫院專案招標爭議】湖南省發展和改革委員會6月6日釋出通報：針對媒體反映的“湘雅二醫院國家緊急醫學救援基地建設工程”招標有關問題，湖南省委、省政府高度重視，已成立由湖南省發展和改革委員會牽頭，湖南省住房和城鄉建設廳、湖南省公共資源交易中心、長沙市有關部門等參加的聯合調查組，對相關情況開展全面深入調查，調查結果將及時向社會公佈。
+
+---
+
+### 2026-06-06 19:33:34  #國際
+
+【俄總統新聞秘書：達成特別軍事行動目標至關重要】俄羅斯總統新聞秘書佩斯科夫6日在第29屆聖彼得堡國際經濟論壇期間表示，就烏克蘭問題，達成特別軍事行動目標、實現自身利益對俄羅斯而言至關重要。佩斯科夫表示，俄羅斯從未對美國“永久解決複雜問題”的能力抱有幻想。他說，美國追求自身國家利益，俄方尊重這一點，但俄羅斯“也有自己的利益”。佩斯科夫還就當前俄美關係表示，美國認為必須先解決烏克蘭問題，然後才能開展同俄羅斯的經濟和文化等合作，但俄方不認同這種觀點。“一旦美國真正準備好恢復俄美關係，我們就會作出回應。”（新華社）
+
+---
+
+### 2026-06-06 19:27:39  #其他
+
+【內蒙古日均完成生態建設7萬多畝】記者從內蒙古自治區林業和草原局獲悉，今年以來，內蒙古全力打好“三北”工程攻堅戰，集中資源力量在黃河“幾字彎”等重點治理區實施一批重點工程。前5個月，內蒙古已完成生態建設1148.41萬畝，日均完成7.6萬畝。（新華社）
+
+---
+
+### 2026-06-06 19:26:15  #國際
+
+【2026年聖彼得堡國際經濟論壇期間簽署價值6.6萬億盧布協議】俄羅斯聖彼得堡國際經濟論壇組委會執行秘書科比亞科夫表示，在2026年聖彼得堡國際經濟論壇期間簽署了價值6.6萬億盧布的協議。據他介紹，來自142個國家的來賓參與了今年論壇的活動。科比亞科夫說：“（對論壇）展現出了濃厚興趣。與會者總數達到2.45萬人。”第29屆聖彼得堡國際經濟論壇於6月3日至6日舉行。
+
+---
+
+### 2026-06-06 19:25:57  #MKT News
+
+【Agreements worth 6.6 trillion rubles signed at 2026 St. Petersburg International Economic Forum】Agreements totaling 6.6 trillion rubles were signed during the 2026 St. Petersburg International Economic Forum, the forum's executive secretary Kobyakov said. The event ran June 3-6 and drew about 24,500 participants from 142 countries.
+
+---
+
+### 2026-06-06 19:18:28  #國際
+
+黎巴嫩議會議長：今日針對黎軍的襲擊絕非以色列試圖辯解的失誤或意外。
+
+---
+
+### 2026-06-06 19:16:53  #其他
+
+【華電能源：富拉爾基發電廠2×660MW“上大壓小”熱電聯產機組專案開工】據“華電能源”公眾號訊息，6月6日，黑龍江華電富拉爾基發電廠2×660MW“上大壓小”熱電聯產機組專案舉行開工奠基儀式。該專案立足原廠址改擴建，總投資59.6億元。專案建成投產後，新機組將替代原有6×200MW機組，擔負向齊齊哈爾中心城區2280萬平方米供熱任務，為城區冬季民生採暖提供清潔穩定熱源。
+
+---
+
+### 2026-06-06 19:16:48  #國際
+
+【美方召集核專家會議為美伊核談判做準備】據美國阿克西奧斯新聞網站5日報道，美國總統特朗普的特使威特科夫和特朗普的女婿庫什納4日與一批美國技術專家會晤，為可能進行的美伊核談判做準備。特朗普政府正試圖與伊朗達成一份諒解備忘錄，並後續就伊朗核問題進行進一步談判。阿克西奧斯新聞網站援引美國和中東地區訊息人士說法報道，威特科夫和庫什納在位於田納西州的美國能源部下屬橡樹嶺國家實驗室與美國技術專家會商，這並不意味著諒解備忘錄即將達成，但表明相關談判進入關鍵階段，美方希望為後續核談判“做好準備”。兩名美國官員說，美方新近組建一個有大約100名專家的技術團隊，他們都是美國“頂尖核專家”，其中不少人在伊朗戰事爆發前參加了特朗普政府與伊朗之間的核談判，“知道如何處理相關技術問題”。（新華社）
+
+---
+
+### 2026-06-06 19:14:43  #國際
+
+【俄總統顧問：美國正試圖退出烏克蘭問題談判】俄羅斯總統顧問安東·科比亞科夫6月6日表示，美國正試圖退出烏克蘭問題談判，因為美方意識到特別軍事行動的結局將對俄羅斯有利。科比亞科夫在聖彼得堡國際經濟論壇閉幕新聞釋出會上，對美國國務卿魯比奧日前稱俄烏和平前景“不樂觀”的言論作出上述回應。（央視新聞）
+
+---
+
+### 2026-06-06 19:10:31  #公司
+
+【上海生物醫藥企業國際化發展協會成立 已有會員單位50家】由上海市生物醫藥科技產業促進中心與中國生物製藥發起的上海生物醫藥企業國際化發展協會（籌）正式揭牌成立，這是國內首個聚焦生物醫藥國際化發展的專業化社會團體，為醫藥企業高質量“走出去”提供全鏈條支撐。目前，協會已吸納會員單位超50家，覆蓋生物醫藥全產業鏈，包括恆瑞醫藥、信達生物、石藥集團、百濟神州、復星醫藥等一眾行業頭部企業，也包括亞虹醫藥、馴鹿生物、美迪西、再鼎醫藥、DIA國際藥物資訊協會等企業、機構涵蓋研發、臨床、註冊、商業化、專業服務等各個領域，將形成以上海為核心、輻射全國的全方位覆蓋格局，對會員實現從藥物研發到商業化落地的全鏈條賦能。 (澎湃新聞)
+
+---
+
+### 2026-06-06 19:10:12  #MKT News
+
+Saudi outlet Alhadath, citing senior sources, reports Pakistan's interior minister traveled to Iran carrying a special message from Pakistan's military commander for Iran's supreme leader.
 
 ---
 
@@ -21712,160 +21844,5 @@ NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading arou
 ### 2026-06-05 06:56:27  #公司 #觀點
 
 【華爾街預計：SpaceX旗下AI業務收入到2030年將飆升100倍】研究分析師預計，到本年代末（2030年底），SpaceX的人工智慧（AI）部門收入將增長100倍，從而為其高達1.8萬億美元的目標估值提供合理支撐。投行Evercore ISI的研究分析師預計，SpaceX的AI部門銷售額到2031年將達到7550億美元，而去年這一數字僅為32億美元。高盛團隊預計，該公司的自由現金流在2029年達到-1050億美元的低谷後，到2031年將轉正並超過720億美元。
-
----
-
-### 2026-06-05 06:55:59  #國際
-
-【烏拉圭宣佈對中國公民免籤】烏拉圭外交部長盧貝特金4日宣佈，這一南美國家將對中國公民免籤。（新華社）
-
----
-
-### 2026-06-05 06:52:37  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、資料標註員、無人駕駛集控員、新型創業主體……新質生產力孕育就業新機遇（經濟新方位·新質生產力創造就業新空間）
-2、前4月規上電子資訊製造業利潤總額增長超1倍
-3、堅定向數智化、綠色化、標準化發展（專家點評）
-4、網路餐飲專項抽檢不合格率2.3%
-5、國內成品油價格下調
-6、外交部——希望歐方客觀理性看待中歐經貿關係
-7、中國香港和哈薩克深化多領域務實合作
-8、從訂單迴流透視“逆勢增長”（人民時評）
-9、截至4月底，累計實際投資85.7億美元 江蘇吸引德國企業加碼投資（大資料觀察·投資中國）
-10、兩部門部署在雲霄直流開展輸電權市場化交易
-11、浙江杭州芯模社群培育新質生產力 助力一人公司長成超級團隊（經濟聚焦）
-12、推動綠色科技從實驗室走向消費市場（感言·發展壯大民營經濟）
-13、東風汽車一體化壓鑄裝置快速投產 從“百件拼焊”到“一體成型”
-14、前5月我國新開國際航空貨運航線80條
-15、北京去年涉企非現場檢查量佔比提升至70.6%
-16、市場監管總局釋出《2025年特殊食品安全形勢報告》今年將開展特殊食品安全監管專項行動
-17、重慶出臺青年創業促進條例
-18、2025年交易額增長22.8%，預計到2030年有望升至4100億美元——東南亞電商經濟釋放增長新動能（國際視點）
-19、德國新能源汽車市場加速擴大 多款中國品牌電動汽車受當地消費者青睞。
-
----
-
-### 2026-06-05 06:52:26  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“推進中國式現代化，要把水資源問題考慮進去”（總書記的人民情懷）
-2、在新徵程上更好弘揚偉大建黨精神（牢記初心使命 奮進復興征程）
-3、今日右玉綠生金（樹立和踐行正確政績觀·一線見聞）
-4、貫城河復湧記。
-
----
-
-### 2026-06-05 06:52:10  #其他
-
-馬斯克：為此我們需要資金。
-
----
-
-### 2026-06-05 06:49:39  #公司 #觀點
-
-馬斯克告訴摩根大通CEO戴蒙：我們進入一個快速增長的新階段。
-
----
-
-### 2026-06-05 06:48:38  #MKT News
-
-【Cuban president responds to U.S. sanctions】Cuban President Miguel Díaz-Canel posted on social media on the 4th responding to new U.S. measures. He said the U.S. president had issued fresh threats and that the U.S. Treasury had added additional Cuban leaders, organizations and companies to what he called an illegal sanctions list, measures he described as aimed at tightening the blockade and harming the Cuban people. Díaz-Canel vowed the actions would be met by Cuba’s determination to prepare for the worst and resist what he termed an imperialist offensive.
-
----
-
-### 2026-06-05 06:47:09  #公司 #國際
-
-據NOTUS： 美國政府已就收購頭部人工智慧企業股份事宜開展磋商。
-
----
-
-### 2026-06-05 06:46:35  #宏觀 #國際
-
-【古巴國家主席回應遭美製裁】古巴國家主席迪亞斯-卡內爾當地時間4日在社交媒體平臺發文，回應遭美國製裁一事。迪亞斯-卡內爾在文中指出：美國總統再次發表針對古巴的威脅性言論；與此同時，美國財政部將更多古巴領導人、組織和企業列入其非法的制裁名單。這些措施旨在加強對古巴的封鎖，並加劇古巴與美國之間的衝突態勢。這種政治上的盲目，疊加了過去幾周針對古巴的強制性脅迫措施，其目的就是為了傷害古巴人民。美國政府的侵略與卑劣行徑，必將碰壁於古巴應對最壞局面、抵抗帝國主義攻勢的決心。美國財政部外國資產控制辦公室稍早前釋出的訊息顯示，美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。（CCTV國際時訊）
-
----
-
-### 2026-06-05 06:45:52  #公司 #國際
-
-市場訊息：OpenAI 執行長山姆·奧特曼就政府持股事宜與特朗普展開磋商。
-
----
-
-### 2026-06-05 06:45:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Business Insider reports Google (GOOG.O) is quietly cutting staff in its cloud unit.
-
----
-
-### 2026-06-05 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 3.61% — Top crypto losers are Binance (-3.61%), XRP (-3.54%), Ether (-2.92%) and Bitcoin (-0.91%).
-
----
-
-### 2026-06-05 06:45:12  #公司
-
-市場訊息：谷歌正悄然裁減雲端計算部門員工。
-
----
-
-### 2026-06-05 06:43:57  #其他
-
-【報道：巴基斯坦規劃建戰略石油儲備，正與中國、沙特、科威特等國談判】一名巴基斯坦政府官員告訴《日經亞洲評論》：“巴基斯坦計劃初期建立滿足45天需求的石油儲備，未來可逐步提升至90天。”這名官員透露，巴能源部計劃採用多模式的戰略石油儲備體系，包括國家支援的應急庫存、行業強制性庫存以及保稅商業倉儲。在上述儲備體系中，保稅商業倉儲引發討論。這指的是在海關監管下的儲存設施，進口石油或其他燃料可在此儲存，供國內外貿易商再出口，無需立即繳納關稅和稅費，一旦發生緊急情況，這些儲存的燃料可用於巴基斯坦國內。《日經亞洲評論》引述另一位知情政府官員的話報道稱，巴基斯坦正在與沙烏地阿拉伯、科威特、卡達、阿聯酋和中國談判，計劃在巴基斯坦境內建立保稅終端。“瓜達爾港可以成為此類終端建設的選址之一”，該官員表示。（環球網）
-
----
-
-### 2026-06-05 06:42:10  #國際
-
-市場訊息：美國多家銀行計劃在 2027 年上半年上線代幣化存款網路；由多家商業銀行共同持股的清算所將負責該網路運營。
-
----
-
-### 2026-06-05 06:41:10  #觀點
-
-市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。
-
----
-
-### 2026-06-05 06:40:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%).
-
----
-
-### 2026-06-05 06:39:02  #MKT News #Commodities #Energy
-
-【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site.
-
----
-
-### 2026-06-05 06:36:12  #其他
-
-馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。
-
----
-
-### 2026-06-05 06:36:03  #MKT News
-
-Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms.
-
----
-
-### 2026-06-05 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%).
-
----
-
-### 2026-06-05 06:35:12  #MKT News
-
-Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x.
-
----
-
-### 2026-06-05 06:32:19  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
-
-【CME CEO expresses serious concern over new "perpetual futures"】CME CEO Terry Duffy said he is "very concerned" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, "I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts."
 
 ---

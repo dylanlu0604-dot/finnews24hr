@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:09:09_
-_本檔包含 3635 則快訊，約 702100 字_
+_更新時間：2026-06-06 19:43:29_
+_本檔包含 3634 則快訊，約 701941 字_
+
+---
+
+### 2026-06-02 21:50:08  #MKT News #Important #Market Regions #Europe & UK #Macro & Rates #US Economy #GBPUSD #Impact mixed #DXY #US10Y
+
+Bank of England Governor Bailey is due to appear before the House of Lords in 10 minutes; U.S. April JOLTS job openings are scheduled for release in 10 minutes.
+
+---
+
+### 2026-06-02 21:49:43  #宏觀
+
+【江蘇蘇州公積金新政實施 上調貸款額度擴大公積金互助提取範圍】江蘇蘇州自6月1日起正式實施新一輪公積金新政，透過上調貸款最高額度、擴大公積金互助提取範圍等多方面最佳化舉措，進一步降低消費者購房綜合成本。新政落地首日，一早在蘇州多家住房公積金管理服務大廳，記者看到不少市民前來諮詢、辦理貸款申請等業務，視窗辦理量較平日有明顯攀升。此次新政大幅提高公積金貸款限額，個人公積金最高貸款額度從原先的120萬元調整為150萬元，家庭公積金最高貸款額度從原先的150萬元調整為200萬元。 新政還設定多項額度上浮規則，例如購買新建商品現房，貸款額度上浮50%；購買二星級及以上綠色建築，額度上浮20%；符合條件的消費者還可疊加享受。新政還拓寬公積金家庭互助使用範圍，支援父母、子女直系親屬之間共用公積金支付購房首付、共同辦理貸款、分攤月供。本次出臺新政自6月1日起正式執行，有效期兩年。新政上線首日，蘇州全市共受理公積金貸款申請近400筆，業務辦理量和市民諮詢熱度持續走高。 (央視財經)
+
+---
+
+### 2026-06-02 21:48:21  #MKT News
+
+Sky News reports sales of SpaceX shares via intermediaries including Hargreaves Lansdown may total up to $2 bln.
+
+---
+
+### 2026-06-02 21:48:06  #其他
+
+市場訊息：透過Hargreaves Lansdown等中介平臺出售的SpaceX股份規模可能高達20億美元。
+
+---
+
+### 2026-06-02 21:48:00  #MKT News
+
+【Iran to hold funerals for late Supreme Leader Ali Khamenei in three cities】State media reported Iran will hold funeral ceremonies for late Supreme Leader Ali Khamenei in Tehran, Qom and Mashhad.
+
+---
+
+### 2026-06-02 21:47:54  #國際
+
+【伊朗將在三座城市為哈梅內伊舉辦葬禮】據伊朗伊斯蘭共和國通訊社2日報道，伊朗將在德黑蘭、庫姆和馬什哈德三座城市為伊朗已故最高領袖阿里·哈梅內伊舉辦葬禮。（新華社）
+
+---
+
+### 2026-06-02 21:47:44  #MKT News #Market Themes #AI Revolution
+
+Japan's finance minister Katayama said the government and some financial institutions will be granted access to Anthropic's Mythos model.
+
+---
+
+### 2026-06-02 21:47:33  #公司 #國際
+
+日本財務大臣：日本政府及部分金融機構將獲得Anthropic公司Mythos大模型訪問許可權。
+
+---
+
+### 2026-06-02 21:47:25  #其他
+
+市場訊息：馬斯克旗下SpaceX計劃在其IPO中加入面向英國零售投資者的配售。
+
+---
+
+### 2026-06-02 21:47:13  #國際
+
+以色列外交部：誰都不願自己的孩子僅有 15 秒時間逃往防空洞。真主黨是挾持整個黎巴嫩的恐怖組織。 我們必將守護本國孩童安全。
+
+---
+
+### 2026-06-02 21:47:09  #MKT News
+
+Sky News reports SpaceX, owned by Elon Musk, plans to include an allocation for UK retail investors in its IPO.
+
+---
+
+### 2026-06-02 21:46:53  #MKT News #Market Themes #China EV Leaders
+
+【SAIC Motor to build first European EV plant in Spain】Galicia regional government said SAIC Motor will invest an initial €200m to build its first European electric-vehicle factory in Ferrol, A Coruña. The plant is targeted to produce 120,000 vehicles a year and is expected to create more than 2,300 jobs. Construction is slated to begin in 2027 with commercial operation targeted by end-2028. The project includes an industrial zone near the local port for vehicle assembly and shipment.
+
+---
+
+### 2026-06-02 21:46:44  #國際
+
+真主黨宣告：為保衛黎巴嫩及其民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成殉難者與多名平民傷亡的行徑，伊斯蘭抵抗運動武裝人員在東扎烏塔爾鎮東南郊，對以軍第二輛尼米拉軍用車輛實施打擊，命中目標屬實。
+
+---
+
+### 2026-06-02 21:46:31  #MKT News
+
+Hezbollah said it struck and confirmed a hit on the Israeli military's second Nimra vehicle on the southeast outskirts of Zawatar al-Sharqiya at 08:10 on June 2, 2026.
+
+---
+
+### 2026-06-02 21:46:03  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Citigroup Stock Price Hits 5-week High — Citigroup shares increased to 131.97 USD, the highest since April 2026. Over the past 4 weeks, Citigroup gained 4.98%, and in the last 12 months, it increased 74%.
+
+---
+
+### 2026-06-02 21:45:47  #公司 #國際
+
+【上汽集團將在西班牙建設其歐洲首家電動汽車工廠】西班牙加利西亞自治區政府日前宣佈，中國上汽集團將在加利西亞建設其在歐洲的首家電動汽車工廠。加利西亞自治區政府主席魯埃達1日對媒體表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。工廠將於2027年開工建設，目標是在2028年年底前投入運營。（新華社）
+
+---
+
+### 2026-06-02 21:45:24  #市場 #國際
+
+【可可價格上漲 因美國港口庫存下降預示供應緊張】紐約可可期貨五個交易日以來首次上漲，美國庫存下降釋放出短期供應趨緊的訊號。紐約市場成交最活躍的可可期貨合約一度上漲7.8%，倫敦市場可可期貨一度上漲7.3%。ICE資料顯示，截至週一，美國港口經過認證的可可庫存已降至29萬袋以下，較上週五減少逾50%。市場高度關注這項庫存資料，因為它反映的是可用於期貨合約到期交割的受監管實物供應規模。
+
+---
+
+### 2026-06-02 21:44:55  #市場
+
+【國內市場煉焦煤偏強執行 焦企近期仍有第六輪提漲預期】2日國內市場煉焦煤偏強執行。供應方面，煤礦復產節奏緩慢，部分已復產的礦點產量仍低於停產前水平，資源持續偏緊，各煤種價格普遍上漲。今日呂梁離石市場主流煤種價格上漲150元/噸，其中低硫主焦煤（A11、S1、V23、G80，強度70以上）出廠價含稅現金報1750元/噸。需求方面，部分鋼廠已接受焦炭第五輪漲價，預計6月3日落地；焦企近期仍有第六輪提漲預期。當前鐵水產量維持在241萬噸，鋼廠開工率保持高位，對焦煤的剛需支撐較強。綜合來看，預計短期煉焦煤市場將延續偏強執行，後續需要關注煤礦安全檢查的實際持續時間與復產進度。
+
+---
+
+### 2026-06-02 21:44:37  #其他
+
+市場訊息：與馬斯克有關聯的WIT TECH LLC在計劃建設晶片工廠之前已收購得克薩斯州6000英畝的土地。
+
+---
+
+### 2026-06-02 21:44:36  #MKT News #Market Themes #Chip Wars
+
+Market sources: WIT TECH LLC, linked to Elon Musk, has acquired about 6,000 acres in Texas ahead of plans to build a semiconductor factory.
+
+---
+
+### 2026-06-02 21:44:28  #其他
+
+Strategy下挫6.6%，跌至逾一個月以來的低點。
+
+---
+
+### 2026-06-02 21:43:40  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+【UAE plans refined-products pipeline to bypass Strait of Hormuz】The UAE is planning its first multi-fuel refined-products pipeline to keep exports of gasoline, diesel and jet fuel flowing if the Strait of Hormuz is shut, ADNOC vice president Philippe Khoury said. Abu Dhabi already routes crude from Habshan to Fujairah via an existing pipeline with a 1.5 mln b/d cap and has relied on it since the conflict began; Fujairah port has faced repeated attacks that have disrupted exports. ADNOC is building a second crude pipeline due early next year that will double Fujairah throughput to about 3.0 mln b/d. The proposed products pipeline would be switchable between fuel types, operating like the US Colonial pipeline.
+
+---
+
+### 2026-06-02 21:43:19  #其他
+
+【海南自貿港封關後首架“零關稅”飛機通關】近日，一架全新空客A321neo飛機從德國漢堡起飛，經停烏茲別克塔什干後，順利飛抵海口美蘭國際機場並完成通關。
+
+---
+
+### 2026-06-02 21:41:49  #行業 #公司 #焦點 #國際
+
+【阿布扎比國家石油公司擬在阿聯酋新建輸油管線，繞開霍爾木茲海峽】阿聯酋正規劃本國首條多品類成品油輸送管線，即便霍爾木茲海峽航道受阻，汽油、柴油與航空煤油仍可依託該管線實現出口。 阿布扎比國家石油公司（ADNOC）貿易業務執行副總裁菲利普·胡裡於週二透露，公司計劃修建一條成品油管線，實現運輸路線繞開霍爾木茲海峽。霍爾木茲海峽是全球關鍵能源貿易通道，自三個月前相關戰事爆發後，海峽通航受到大幅限制。中東各產油國紛紛籌建配套基建，降低伊朗對自身原油出口通道的牽制。胡裡表示，阿布扎比國家石油公司正投入大量資源最佳化供應鏈與配套體系，預判危機或將長期延續，以此保障公司能夠高效、具備成本優勢地持續向全球客戶供貨。
+
+---
+
+### 2026-06-02 21:41:08  #其他
+
+【審批提速，可轉債市場或將迎來密集發行視窗期】隨著再融資政策落地見效、稽核節奏持續提速，疊加前期存量轉債集中贖回退市帶來的供給缺口填補需求，可轉債市場正式開啟密集發行週期。自6月1日以來，盛德轉債、通合轉債先後啟動網上發行，6月4日，迪威轉債也將啟動發行，可轉債的發行速度正在加快。值得一提的是，當前已獲稽核透過的可轉債數量達30只，募資金額超過480億元，為階段性發行奠定堅實基礎。分析人士指出，隨著審批提速、儲備專案集中落地，可轉債市場有望進入年度密集發行視窗期。充裕的新券供給將重塑市場供需結構，啟用市場活力，持續最佳化轉債市場生態。（證券時報）
+
+---
+
+### 2026-06-02 21:40:04  #Trading Economics #Markets #commodity #Importance 0
+
+Soybeans Hits 5-week Low — Soybeans decreased to 1167.00 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Soybeans lost 3.26%, and in the last 12 months, it increased 12.24%.
+
+---
+
+### 2026-06-02 21:40:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 104 points or 0.20 percent on Tuesday. Gains are led by Caterpillar (3.54%), Cisco Systems (3.14%) and Goldman Sachs (1.82%). Biggest losers are Salesforce (-4.55%), Microsoft (-2.97%) and Amazon (-2.36%).
+
+---
+
+### 2026-06-02 21:39:29  #市場
+
+Ned Davis Research將2026年年底標普500指數目標上調至7950點。
+
+---
+
+### 2026-06-02 21:39:28  #MKT News #S&P500 #Impact bullish
+
+Ned Davis Research raised its S&P 500 year-end 2026 target to 7,950.
+
+---
+
+### 2026-06-02 21:38:26  #公司 #國際
+
+市場訊息：知情人士表示，經霍爾木茲海峽繞行的成品油管道將成為阿布扎比國家石油公司下一步的重點專案。該管道將類似於美國的哥倫比亞管道等其他成品油管道，可在不同型別的成品油之間切換運輸。
+
+---
+
+### 2026-06-02 21:38:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
+
+Financial Times reports Abu Dhabi National Oil Company (ADNOC) is prioritizing a refined‑products pipeline that would bypass the Strait of Hormuz. The project would resemble the U.S. Colonial pipeline and be capable of switching shipments among different refined product types.
 
 ---
 
@@ -21728,205 +21914,5 @@ The Israel Defense Forces said that after air-raid sirens were triggered across 
 ### 2026-06-01 20:24:41  #公司
 
 【美團電話會：預期Q2外賣UE會明顯好於Q1】美團一季度財報電話會上，美團管理層表示，隨著餐飲外賣行業補貼持續最佳化，外賣競爭正逐步轉向以效率和體驗為核心的階段。一季度以來，美團進一步鞏固了在中高價值外賣訂單市場的領先地位，繼續擴大與同類平臺在UE上的領先優勢。若競爭環境保持理性，疊加二季度旺季效應，預期Q2外賣UE會明顯好於Q1。美團CEO王興表示：“相信隨著監管的持續引導，行業競爭將逐步迴歸理性。我們有信心持續保持在運營效率上的領先優勢，確保在行業中保持長期、穩固的競爭力。我們也相信我們的長期UE會迴歸到合理水平。”
-
----
-
-### 2026-06-01 20:24:13  #公司 #國際
-
-回聲星暫緩支付利息，等待來自美國電話電報公司的交易款項到賬。
-
----
-
-### 2026-06-01 20:23:44  #國際
-
-敘利亞外交部譴責伊朗對科威特的襲擊。
-
----
-
-### 2026-06-01 20:23:22  #其他
-
-【上海：發展壯大一批新興支柱產業 超前佈局未來產業】上海市長龔正6月1日主持召開市政府常務會議，會議原則同意《上海市加快推進新型工業化 構建現代化產業體系“十五五”規劃》並指出，要加快構建以先進製造業為骨幹的現代化產業體系，奮力在推進新型工業化中勇為尖兵、走在前列。要堅持雙向發力，夯實產業發展根基。積極推動汽車、鋼鐵、石化等傳統支柱產業最佳化提升、向價值鏈高階延伸，強化三大先導產業戰略引領作用，發展壯大一批新興支柱產業，超前佈局未來產業。要堅持創新引領，鍛造產業競爭優勢。加快新技術攻關突破、新產品研發應用、新場景培育開放，支援科技成果高效轉化和產業化，讓更多“科技之花”結出“產業之果”。要堅持智慧化、綠色化、融合化轉型，促進產業轉型升級。強化示範引領，完善評價體系，最佳化服務保障，為全市經濟高質量發展提供更加強勁的工業支撐。
-
----
-
-### 2026-06-01 20:22:46  #市場
-
-【機構：美元在對美伊可能達成協議的樂觀與懷疑之間徘徊】荷蘭合作銀行的Jane Foley在一份報告中表示，對於美伊之間可能達成的和平協議，美元似乎在樂觀與懷疑之間徘徊。“自3月底以來，投資者在進行市場交易時似乎認為最壞的情況不太可能發生。”她表示，然而，霍爾木茲海峽關閉的時間越長，經濟損失就越大，對可能達成協議的樂觀情緒最終將枯竭。她說，市場對有關協議的具體訊息正變得越來越不耐煩。她表示，如果不結束戰爭，歐元兌美元將難以實現有意義的反彈。歐元下跌0.1%，至1.1644美元。DXY美元指數上漲0.2%，至99.078。
-
----
-
-### 2026-06-01 20:21:59  #公司
-
-【美團：“小美”與騰訊“元寶”的合作將於近期上線】美團一季度財報電話會上，王興表示，美團AI助手“小美”與騰訊元寶的合作將於近期上線。屆時，使用者可直接在“元寶”中輸入訴求，透過“小美”呼叫外賣等本地生活服務。
-
----
-
-### 2026-06-01 20:21:52  #MKT News #Market Themes #AI Revolution #Star Stocks #Meituan #Tencent #0700.HK #Impact bullish
-
-【Meituan says AI assistant Xiaomei will integrate with Tencent's Yuanbao soon】On Meituan's Q1 results call, CEO Wang Xing said the company's AI assistant Xiaomei will be integrated into Tencent's Yuanbao in the near term. Users will be able to input requests inside Yuanbao and have Xiaomei invoke Meituan delivery and other local services.
-
----
-
-### 2026-06-01 20:21:36  #公司
-
-【ST朗源：公司股票將於6月3日起撤銷其他風險警示 股票交易的日漲跌幅限制仍為20%】ST朗源公告，公司撤銷其他風險警示的申請已獲得深圳證券交易所稽核同意。公司股票將於2026年6月2日停牌一天，2026年6月3日開市起復牌並撤銷其他風險警示。自2026年6月3日開市起，公司證券簡稱由“ST朗源”變更為“朗源股份”，證券程式碼仍為“300175”，股票交易的日漲跌幅限制仍為20%。
-
----
-
-### 2026-06-01 20:21:34  #公司
-
-【抖音嚴打網路黑灰產：今年已配合相關部門抓獲犯罪嫌疑人162名】6月1日，記者獲悉，抖音釋出《抖音關於深入打擊網路黑灰產的公告》稱，今年以來，抖音已配合相關部門抓獲黑灰產犯罪嫌疑人162名。公告顯示，隨著平臺治理深入，黑灰產對抗呈現出跨境作案、高隱蔽性、組織化等複雜特徵。一些不法團伙利用跨平臺多級跳轉、VPN等技術工具、隱晦暗語，不斷變換違規方式，在站內站外實施色情賭博導流、賬號買賣及代解封、虛假流量等違法違規行為。對此，抖音表示持續加強識別研判，嚴肅處置違規內容及賬號，針對違法犯罪的行為，依法固定證據並上報主管部門。
-
----
-
-### 2026-06-01 20:20:56  #宏觀
-
-【八部門聯合發文做強海洋保健食品產業】市場監管總局、國家藥監局、自然資源部等八部門近日聯合印發關於加快海洋藥物和功能製品高質量發展的指導意見，將海洋保健食品、海洋藥物、海洋生物材料等作為重點突破領域，推動海洋產業高質量發展。根據指導意見，市場監管總局在嚴格保健食品註冊備案監管、保障產品質量安全基礎上，聚焦抗氧化、改善記憶、緩解體力疲勞等市場需求旺盛的保健功能，支援科研機構、行業企業依託現代生物技術推動海洋保健食品產業提質升級，加快推進海洋保健食品新原料、新功能開發應用，重點支援新功能海洋保健食品研製，更好滿足人民群眾健康需求。（新華社）
-
----
-
-### 2026-06-01 20:20:38  #市場 #國際
-
-【法國巴黎銀行：亞洲科技股超級週期遠未見頂】法國巴黎銀行表示，至少在短期內，在估值支撐下，科技股超級週期依然是亞洲市場中唯一具有高確定性的盈利增長故事。“現在就斷言科技股週期已經見頂還為時過早，可能最早也要等到2027年上半年才會出現這一擔憂。”該行亞太區現貨股票研究主管William Bratton在一份報告中寫道。如果剔除科技和能源板塊，過去一個季度亞洲市場的整體遠期盈利預期僅提高了1%。中東衝突引發的能源價格上漲，正持續對內需導向型板塊構成壓力。
-
----
-
-### 2026-06-01 20:19:58  #其他
-
-【一批兒童相關國家標準釋出】“六一”國際兒童節到來，國家市場監督管理總局近日釋出一批兒童相關國家標準，涉及毛絨玩具、電動童車、兒童傘具、未成年人上網等方面，從兒童用品到網路環境全面升級技術要求，多層次築牢兒童安全防護屏障。
-
-在毛絨玩具方面，《毛絨、布制玩具》（GB/T 9832—2026）國家標準覆蓋兒童日常高頻接觸的玩偶、公仔、抱枕等全品類毛絨、布制玩具，新增甲醛、pH值、色牢度、異味等健康安全指標，嚴格管控零件脫落、縫線開裂等物理機械風險。同時，細化外觀品質、填充物均勻度、清潔保養指引等要求，使產品兼顧安全性與使用體驗。
-
-在電動童車方面，《電動童車通用技術條件》（GB/T 32441—2026）國家標準適用於14歲以下兒童使用的非道路電池驅動玩具車輛，聚焦充電欠保護、耐用性不足等問題，明確續航時長、遙控效能、轉向操作力、充電防護、導線強度等要求，強化產品疲勞耐久與整體機械強度，並對車速超8公里/時的產品增設檔位鎖定保護，有效防範結構及部件失效帶來的安全隱患。
-
-在兒童傘具方面，《兒童傘通用技術要求》（GB/T 28477—2026）國家標準適用於3歲至14歲兒童使用的傘具，最佳化傘面強度、開合力度與底座穩定性等基礎效能，明確開關耐久性、抗風能力與部件牢固度，規範防紫外線標註標識，提升反光可視性，保障兒童戶外使用安全。
-
-在未成年人上網方面，《網路安全技術 移動網際網路未成年人模式技術要求》（GB/T 47694—2026）國家標準針對網路不良資訊侵擾、上網成癮、個人資訊洩露、誘導消費等風險，明確手機終端、上網軟體、應用下載平臺中未成年人專屬防護模式的技術要求，助力未成年人安全健康上網。（新華社）
-
----
-
-### 2026-06-01 20:19:40  #公司
-
-【有研復材：擬投資1.5億元建設先進金屬基複合材料產業化專案一期】有研復材公告，公司擬實施2026年度投資計劃，計劃投資“有研金屬複合材料（廊坊）有限公司先進金屬基複合材料產業化專案”一期，投資金額為1.5億元。該專案為續建專案，主要用於推進先進金屬基複合材料產業化落地，滿足公司發展戰略規劃和生產經營需要。專案已於2026年3月1日開始進行施工準備工作，目前工程按計劃有序推進。本次投資旨在提升公司產業化能力和綜合競爭力。
-
----
-
-### 2026-06-01 20:18:58  #央行 #國際
-
-埃及央行：埃及 7 月至次年 3 月勞工僑匯達 349 億美元。
-
----
-
-### 2026-06-01 20:18:16  #公司 #市場 #國際
-
-【燃油漲價，印度多家航空公司大幅削減航班】由於航空燃油成本上漲和旅行需求疲軟，印度航空公司、靛藍航空公司和印度航空快運公司決定自1日起大幅削減國內航班。此前，這些航空公司已削減部分國際航班。
-
----
-
-### 2026-06-01 20:17:52  #市場
-
-Coinbase Global股價盤前下跌4%，Strategy Asset股價下跌5.8%。
-
----
-
-### 2026-06-01 20:17:21  #公司 #市場 #觀點
-
-【摩根大通交易員對投機型科技股持懷疑態度】由安德魯·泰勒領導的摩根大通市場情報部門指出，在經歷瞭如此迅猛的上漲之後，鑑於潛在收益率仍有可能高舉不下，投資者理應“對科技股中那些風險較高的個股保持警惕”。泰勒主張轉向該行業中更具知名度的公司，尤其是在債券收益率上升的情況下，因為這可能會對規模較小且虧損的公司造成最大影響。他補充道，那些規模較大、盈利狀況較好的科技股進行的股票回購活動“有助於推動向優質企業的轉型。”
-
----
-
-### 2026-06-01 20:17:06  #MKT News #Nasdaq100 #Impact bearish #S&P500 #Impact mixed
-
-【JP Morgan traders wary of speculative tech names】Goldman Sachs' basket of unprofitable tech stocks rose 27% in May, outperforming the Nasdaq-100 by 17 percentage points and posting its best monthly performance since November 2020. The basket is up 57% year-to-date vs. an 11% gain for the S&P 500. JP Morgan Market Intelligence, led by Andrew Taylor, warns investors to be cautious on higher-risk tech names after the rapid rally and recommends rotating into larger, better-known firms; rising bond yields could hurt smaller, loss-making companies most. Share buybacks by larger, profitable techs are aiding a shift toward quality.
-
----
-
-### 2026-06-01 20:16:25  #市場
-
-南非主要股指下跌 1.1%，報 113422.00 點。
-
----
-
-### 2026-06-01 20:15:21  #公司 #國際
-
-【檔案：歐盟雲端計算新規將限制亞馬遜、微軟、谷歌參與戰略性招標專案】相關檔案顯示，歐盟計劃為關鍵公共採購專案中的雲端計算服務設立嚴格准入標準，此舉或將把亞馬遜、微軟、谷歌三大美國科技企業排除在相關專案之外。 該提案是歐盟委員會《雲端計算與人工智慧發展法案》的組成部分。歐盟數字事務負責人亨娜·維爾庫寧將於週三正式公佈這套法案及配套政策，核心目標是降低歐洲對美國科技的依賴。 這份此前未對外披露的提案仍有可能在最終階段作出調整。提案新增非價格類強制評標標準，要求專案優先選用歐盟本土研發的軟硬體產品，這將進一步對美國大型科技企業形成限制。 歐盟委員會未就方案細節置評，但表示這套科技自主配套政策，“對於提升歐洲本土技術實力、增強區域競爭力與安全保障能力至關重要”。（環球市場播報）
-
----
-
-### 2026-06-01 20:15:18  #公司 #市場
-
-加密概念股盤前下跌，比特幣跌至一個多月低位。riot遊戲平臺股價下跌2.9%；Hut 8 Mining美股上市股份下跌1.5%；Marathon Digital Holdings股價下跌2.6%。
-
----
-
-### 2026-06-01 20:15:08  #國際
-
-B·萊利投資銀行首次覆蓋美國稀土，給予買入評級，目標價為28美元。
-
----
-
-### 2026-06-01 20:14:48  #國際
-
-歐盟各國衛生部長將於週五召開埃博拉疫情緊急會議。
-
----
-
-### 2026-06-01 20:14:14  #MKT News
-
-RUSSIAN CENBANK deputy governor said export revenues are rising faster than ruble appreciation, leaving exporters in a positive position.
-
----
-
-### 2026-06-01 20:14:07  #MKT News
-
-【Wondershare: Wanxing Drama Studio user base and revenue ramping since March; retention and repeat purchases strong】Wondershare Technology said its Wanxing Drama Studio is in a phase of rapid product iteration alongside market rollout. Since the product opened in March, user numbers and revenue have ramped quickly, drawing leading webcomic-drama producers including Lingman, Zhangwan and Xinshijue, plus numerous mid- to lower-tier professional creators. The company reported strong user retention and repeat-purchase metrics.
-
----
-
-### 2026-06-01 20:14:06  #央行 #國際
-
-俄羅斯央行副行長：出口收入增速快於盧布升值幅度，因此出口商所處境況向好。
-
----
-
-### 2026-06-01 20:13:20  #其他
-
-【萬興科技：萬興劇廠使用者規模及收入均快速起量 使用者留存及復購表現良好】萬興科技(300624)6月1日在互動易平臺表示，旗下萬興劇廠目前處於產品快速迭代與市場推廣並行推進階段，3月產品正式開放以來，使用者規模及收入均快速起量，已吸引包括靈漫、掌玩、心視覺等頭部漫劇製作團隊及大量中腰部專業創作者入駐，使用者留存及復購表現良好。
-
----
-
-### 2026-06-01 20:12:41  #MKT News
-
-India and Myanmar agreed to promote and strengthen bilateral trade, including advancing trade flows via a rupee–kyat settlement mechanism.
-
----
-
-### 2026-06-01 20:12:30  #其他
-
-WOLFSPEED 成立專屬資料中心解決方案團隊。
-
----
-
-### 2026-06-01 20:12:24  #市場 #焦點
-
-比特幣跌破72000美元，日內跌2.31%。
-
----
-
-### 2026-06-01 20:12:09  #其他
-
-WOLFSPEED ：矽谷設立專屬資料中心團隊。
-
----
-
-### 2026-06-01 20:11:51  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Norwegian statistics agency OFV said Tesla's new-car registrations in Norway rose 28.7% year-on-year in May.
-
----
-
-### 2026-06-01 20:11:38  #市場
-
-美高梅度假村盤前大漲 10.2%。
 
 ---

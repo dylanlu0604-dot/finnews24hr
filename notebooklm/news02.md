@@ -1,7 +1,162 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:09:09_
-_本檔包含 3991 則快訊，約 702310 字_
+_更新時間：2026-06-06 19:43:29_
+_本檔包含 3970 則快訊，約 701846 字_
+
+---
+
+### 2026-06-05 06:55:59  #國際
+
+【烏拉圭宣佈對中國公民免籤】烏拉圭外交部長盧貝特金4日宣佈，這一南美國家將對中國公民免籤。（新華社）
+
+---
+
+### 2026-06-05 06:52:37  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、資料標註員、無人駕駛集控員、新型創業主體……新質生產力孕育就業新機遇（經濟新方位·新質生產力創造就業新空間）
+2、前4月規上電子資訊製造業利潤總額增長超1倍
+3、堅定向數智化、綠色化、標準化發展（專家點評）
+4、網路餐飲專項抽檢不合格率2.3%
+5、國內成品油價格下調
+6、外交部——希望歐方客觀理性看待中歐經貿關係
+7、中國香港和哈薩克深化多領域務實合作
+8、從訂單迴流透視“逆勢增長”（人民時評）
+9、截至4月底，累計實際投資85.7億美元 江蘇吸引德國企業加碼投資（大資料觀察·投資中國）
+10、兩部門部署在雲霄直流開展輸電權市場化交易
+11、浙江杭州芯模社群培育新質生產力 助力一人公司長成超級團隊（經濟聚焦）
+12、推動綠色科技從實驗室走向消費市場（感言·發展壯大民營經濟）
+13、東風汽車一體化壓鑄裝置快速投產 從“百件拼焊”到“一體成型”
+14、前5月我國新開國際航空貨運航線80條
+15、北京去年涉企非現場檢查量佔比提升至70.6%
+16、市場監管總局釋出《2025年特殊食品安全形勢報告》今年將開展特殊食品安全監管專項行動
+17、重慶出臺青年創業促進條例
+18、2025年交易額增長22.8%，預計到2030年有望升至4100億美元——東南亞電商經濟釋放增長新動能（國際視點）
+19、德國新能源汽車市場加速擴大 多款中國品牌電動汽車受當地消費者青睞。
+
+---
+
+### 2026-06-05 06:52:26  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“推進中國式現代化，要把水資源問題考慮進去”（總書記的人民情懷）
+2、在新徵程上更好弘揚偉大建黨精神（牢記初心使命 奮進復興征程）
+3、今日右玉綠生金（樹立和踐行正確政績觀·一線見聞）
+4、貫城河復湧記。
+
+---
+
+### 2026-06-05 06:52:10  #其他
+
+馬斯克：為此我們需要資金。
+
+---
+
+### 2026-06-05 06:49:39  #公司 #觀點
+
+馬斯克告訴摩根大通CEO戴蒙：我們進入一個快速增長的新階段。
+
+---
+
+### 2026-06-05 06:48:38  #MKT News
+
+【Cuban president responds to U.S. sanctions】Cuban President Miguel Díaz-Canel posted on social media on the 4th responding to new U.S. measures. He said the U.S. president had issued fresh threats and that the U.S. Treasury had added additional Cuban leaders, organizations and companies to what he called an illegal sanctions list, measures he described as aimed at tightening the blockade and harming the Cuban people. Díaz-Canel vowed the actions would be met by Cuba’s determination to prepare for the worst and resist what he termed an imperialist offensive.
+
+---
+
+### 2026-06-05 06:47:09  #公司 #國際
+
+據NOTUS： 美國政府已就收購頭部人工智慧企業股份事宜開展磋商。
+
+---
+
+### 2026-06-05 06:46:35  #宏觀 #國際
+
+【古巴國家主席回應遭美製裁】古巴國家主席迪亞斯-卡內爾當地時間4日在社交媒體平臺發文，回應遭美國製裁一事。迪亞斯-卡內爾在文中指出：美國總統再次發表針對古巴的威脅性言論；與此同時，美國財政部將更多古巴領導人、組織和企業列入其非法的制裁名單。這些措施旨在加強對古巴的封鎖，並加劇古巴與美國之間的衝突態勢。這種政治上的盲目，疊加了過去幾周針對古巴的強制性脅迫措施，其目的就是為了傷害古巴人民。美國政府的侵略與卑劣行徑，必將碰壁於古巴應對最壞局面、抵抗帝國主義攻勢的決心。美國財政部外國資產控制辦公室稍早前釋出的訊息顯示，美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。（CCTV國際時訊）
+
+---
+
+### 2026-06-05 06:45:52  #公司 #國際
+
+市場訊息：OpenAI 執行長山姆·奧特曼就政府持股事宜與特朗普展開磋商。
+
+---
+
+### 2026-06-05 06:45:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Business Insider reports Google (GOOG.O) is quietly cutting staff in its cloud unit.
+
+---
+
+### 2026-06-05 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 3.61% — Top crypto losers are Binance (-3.61%), XRP (-3.54%), Ether (-2.92%) and Bitcoin (-0.91%).
+
+---
+
+### 2026-06-05 06:45:12  #公司
+
+市場訊息：谷歌正悄然裁減雲端計算部門員工。
+
+---
+
+### 2026-06-05 06:43:57  #其他
+
+【報道：巴基斯坦規劃建戰略石油儲備，正與中國、沙特、科威特等國談判】一名巴基斯坦政府官員告訴《日經亞洲評論》：“巴基斯坦計劃初期建立滿足45天需求的石油儲備，未來可逐步提升至90天。”這名官員透露，巴能源部計劃採用多模式的戰略石油儲備體系，包括國家支援的應急庫存、行業強制性庫存以及保稅商業倉儲。在上述儲備體系中，保稅商業倉儲引發討論。這指的是在海關監管下的儲存設施，進口石油或其他燃料可在此儲存，供國內外貿易商再出口，無需立即繳納關稅和稅費，一旦發生緊急情況，這些儲存的燃料可用於巴基斯坦國內。《日經亞洲評論》引述另一位知情政府官員的話報道稱，巴基斯坦正在與沙烏地阿拉伯、科威特、卡達、阿聯酋和中國談判，計劃在巴基斯坦境內建立保稅終端。“瓜達爾港可以成為此類終端建設的選址之一”，該官員表示。（環球網）
+
+---
+
+### 2026-06-05 06:42:10  #國際
+
+市場訊息：美國多家銀行計劃在 2027 年上半年上線代幣化存款網路；由多家商業銀行共同持股的清算所將負責該網路運營。
+
+---
+
+### 2026-06-05 06:41:10  #觀點
+
+市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。
+
+---
+
+### 2026-06-05 06:40:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%).
+
+---
+
+### 2026-06-05 06:39:02  #MKT News #Commodities #Energy
+
+【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site.
+
+---
+
+### 2026-06-05 06:36:12  #其他
+
+馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。
+
+---
+
+### 2026-06-05 06:36:03  #MKT News
+
+Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms.
+
+---
+
+### 2026-06-05 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%).
+
+---
+
+### 2026-06-05 06:35:12  #MKT News
+
+Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x.
+
+---
+
+### 2026-06-05 06:32:19  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
+
+【CME CEO expresses serious concern over new "perpetual futures"】CME CEO Terry Duffy said he is "very concerned" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, "I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts."
 
 ---
 
@@ -23768,263 +23923,5 @@ HKEX documents show Anker Innovations Technology Co Ltd has submitted a listing 
 ### 2026-06-03 22:58:48  #公司
 
 據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。
-
----
-
-### 2026-06-03 22:58:48  #MKT News #Market Regions #Greater China
-
-According to HKEX filings, Shenzhen Xingyuan Material Technology Co., Ltd. has cleared its listing hearing.
-
----
-
-### 2026-06-03 22:58:42  #其他
-
-貝森特：資金一旦撥付出去，想要追回難度極大。
-
----
-
-### 2026-06-03 22:58:35  #其他
-
-貝森特：財政預算每年預估至少存在 5000 億美元欺詐款項。
-
----
-
-### 2026-06-03 22:58:18  #市場 #國際
-
-【華爾街知名科技股多頭Ives：準備好爆米花 SpaceX上市將是分水嶺事件】Wedbush Securities的Dan Ives表示，SpaceX的首次公開募股將是一場“分水嶺事件”，不僅會打破紀錄，也將為隨後OpenAI和Anthropic PBC的IPO奠定基調。這位全球科技研究主管兼資深股票分析師週三表示：“把爆米花準備好吧：SpaceX、OpenAI、Anthropic，未來幾個月會非常有看頭。”他還說，這將是“對市場具有歷史意義”的事件。圍繞這些IPO的熱情，正在廣泛傳導至科技板塊，而科技股正是推動美國主要股指創出新高的重要力量。截至週二，以科技股為主的納斯達克100指數今年已上漲21%，漲幅幾乎是標普500指數的兩倍。
-
----
-
-### 2026-06-03 22:57:59  #MKT News
-
-Reserve Bank of India says QR-code-based cross-border merchant payment link between India and Cambodia has gone live.
-
----
-
-### 2026-06-03 22:57:28  #國際
-
-印度儲備銀行：印度與柬埔寨推出掃碼跨境商戶支付支付系統互聯互通專案。
-
----
-
-### 2026-06-03 22:57:18  #國際
-
-【澤連斯基稱願即刻與普京展開直接談判】當地時間3日，烏克蘭總統澤連斯基稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基強調談判的緊迫性，稱烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題。他表示，烏方希望依託兩國最高層級直接對話，加速止戰程序。對於這一表態，俄羅斯方面暫無回應。（央視新聞）
-
----
-
-### 2026-06-03 22:56:41  #公司
-
-紐約州總檢察長因反壟斷相關問題調查康帕斯公司。
-
----
-
-### 2026-06-03 22:55:53  #其他
-
-達美航空高管：儘管全球局勢存在不確定性，需求依然強勁。企業客戶、高階艙及經濟艙的需求均有所上升。
-
----
-
-### 2026-06-03 22:55:47  #宏觀 #國際
-
-【策略師：美國新關稅對歐洲市場毫無影響】Panmure Liberum策略師Joachim Klement寫道，新提議的10%的美國關稅對歐洲出口商沒有任何改變。Klement說：“這對歐洲市場來說毫無影響，因為臨時的10%關稅已被永久性的10%關稅所取代。對出口商來說，其實沒有任何改變。“對歐洲和英國出口商新提議的關稅，是在另一項臨時的10%關稅料將於7月底到期之前出臺的。美國貿易代表賈米森·格里爾表示，徵收這些關稅是因為對強迫勞動的擔憂。Klement說：“徵收關稅的理由表面上看起來很荒謬，因為歐洲的反奴隸制法律比美國更嚴格。”
-
----
-
-### 2026-06-03 22:55:43  #MKT News
-
-A Delta Air Lines executive said demand remains strong despite global uncertainty, with corporate bookings and both premium and economy cabin demand rising.
-
----
-
-### 2026-06-03 22:54:16  #MKT News #ADBE.O
-
-Adobe (ADBE.O) is considering two internal leaders and several external AI specialists for the CEO role, market sources said.
-
----
-
-### 2026-06-03 22:53:55  #國際
-
-貝森特：美國民眾正處在艱難時期，（我們）將渡過難關。
-
----
-
-### 2026-06-03 22:53:55  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-U.S. Treasury Secretary Bessent said inflation will be a "short-term fluctuation".
-
----
-
-### 2026-06-03 22:53:39  #其他
-
-貝森特：通脹只會是短期小幅衝高。
-
----
-
-### 2026-06-03 22:53:38  #MKT News
-
-Israeli Prime Minister Netanyahu said he hopes Iran’s leadership will deliver a real future for the country.
-
----
-
-### 2026-06-03 22:53:25  #MKT News
-
-Prime Minister Netanyahu said rating agencies have not given Israel a top credit rating because of geopolitical risk.
-
----
-
-### 2026-06-03 22:53:12  #市場
-
-COMPASS INC.股價跌至盤中低點6.1%。
-
----
-
-### 2026-06-03 22:52:57  #國際
-
-美國國務卿魯比奧：伊朗正在以針對地區目標的襲擊來回應霍爾木茲海峽的通航行動。
-
----
-
-### 2026-06-03 22:52:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Secretary of State Rubio said Iran is responding to transit operations in the Strait of Hormuz with attacks on regional targets.
-
----
-
-### 2026-06-03 22:52:40  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary Bessent said Americans face a period of challenge and must overcome it.
-
----
-
-### 2026-06-03 22:52:38  #國際
-
-墨西哥經濟部表示，未來45天內將就違反《美墨加協定》規則的貨物裝運事宜與美國貿易代表辦公室舉行正式會談。
-
----
-
-### 2026-06-03 22:52:35  #國際
-
-內塔尼亞胡：評級機構稱，受地緣政治風險影響，以色列未獲得最高評級。
-
----
-
-### 2026-06-03 22:52:26  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Secretary of State Rubio said U.S. forces are protecting commercial vessels transiting the Strait of Hormuz.
-
----
-
-### 2026-06-03 22:51:40  #國際
-
-魯比奧：美國軍隊正在保護穿越霍爾木茲海峽的商船。
-
----
-
-### 2026-06-03 22:51:40  #MKT News
-
-Israeli Prime Minister Netanyahu said he hopes the United States and Israel will invest on equal terms and share investment returns.
-
----
-
-### 2026-06-03 22:51:29  #其他
-
-墨西哥經濟部表示，擬議中的關稅還將豁免汽車、鋼鐵與鋁品類。
-
----
-
-### 2026-06-03 22:51:27  #MKT News
-
-Israeli Prime Minister Netanyahu said he believes Israel has matured.
-
----
-
-### 2026-06-03 22:51:21  #國際
-
-以色列總理內塔尼亞胡：以色列吸引了大量投資。由於戰爭，以色列科技崛起，中東及周邊國家表示“我們想與您合作”。我們希望將與美國的關係從援助轉變為夥伴關係。我希望立即開始轉變。希望美以雙方對等投資，共享投資收益。
-
----
-
-### 2026-06-03 22:51:07  #MKT News
-
-Israeli Prime Minister Netanyahu said he wants to shift relations with the United States from aid to partnership and wants the transition to begin immediately.
-
----
-
-### 2026-06-03 22:50:53  #MKT News
-
-【Netanyahu: war has accelerated Israel's tech rise; regional states seek cooperation】Prime Minister Netanyahu said the war has accelerated the rise of Israel's technology sector and that Middle Eastern and neighboring states have approached Israel saying "we want to cooperate with you."
-
----
-
-### 2026-06-03 22:50:36  #國際
-
-墨西哥經濟部在一份宣告中表示，符合《美墨加協定》規則的貿易將可豁免美國擬議中與強迫勞動相關的關稅。
-
----
-
-### 2026-06-03 22:50:25  #其他
-
-【英國皇家海軍直升機墜毀致3人死亡】英國國防部3日在社交媒體上釋出訊息說，當天早些時候發生的英國皇家海軍直升機墜毀事件已造成3名英國皇家海軍成員死亡。據英國媒體此前報道，3日凌晨4時左右，一架英國皇家海軍直升機在訓練演習過程中墜入英國德文郡的田野，事發地位於兩個皇家海軍的空軍基地之間，靠近一處用於訓練直升機機組人員的戰鬥營。英國首相斯塔默在當天議會下院的首相質詢環節中說，他已注意到這起事件，“對於涉事人員家屬而言，這將是一段極其令人擔憂的時期，我們將盡快公佈更多資訊”。（新華社）
-
----
-
-### 2026-06-03 22:50:16  #MKT News
-
-Prime Minister NETANYAHU says Israel has attracted substantial investment inflows.
-
----
-
-### 2026-06-03 22:49:55  #國際
-
-內塔尼亞胡：以色列新領導層的更迭將由民眾來決定。
-
----
-
-### 2026-06-03 22:49:24  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel is ready to accept new leadership whenever the public decides.
-
----
-
-### 2026-06-03 22:49:22  #MKT News #Market Regions #Europe & UK #Market Themes #AI Revolution #ASML.AS #Impact bullish
-
-【ASML becomes Europe's most valuable company on record】Investors buying stocks tied to AI data-center builds have driven ASML up about 60% YTD. On Wednesday ASML rose as much as 2.3% to a market capitalization near $674 billion, overtaking Novo Nordisk's June 2024 record to become the largest company by market value in European history. ASML is the Stoxx 50's second-best performer YTD, though a number of semiconductor peers have outperformed, roughly doubling in price.
-
----
-
-### 2026-06-03 22:49:18  #公司 #市場 #國際
-
-【阿斯麥成為歐洲有史以來市值最高的公司】投資者紛紛搶購那些與人工智慧資料中心建設相關的股票，阿斯麥今年迄今已經暴漲60%。週三，阿斯麥公司的股價上漲了多達2.3%，使其市值達到了約6740億美元，成為歐洲有史以來市值最高的公司，超過了丹麥製藥公司諾和諾德在2024年6月創下的紀錄。阿斯麥今年在歐洲斯托克50指數中表現位居第二，但其表現卻遜於一系列半導體股票，其價格已上漲近一倍。
-
----
-
-### 2026-06-03 22:49:12  #市場 #觀點
-
-【大摩：預期記憶體供應緊張最少持續兩至三年，美光目標價看高至1050美元】摩根士丹利發表報告，上調美光及閃迪收入及盈利預測，將美光目標價由520美元大幅上調至1050美元，閃迪目標價由1100美元上調至1750美元，評級同為“增持”。大摩稱，記憶體晶片股在2025年表現強勁，並在2026年繼續引領市場，但該行認為這波強勁表現尚未結束。大摩稱，記憶體短缺並無快速解決方案。這將推動記憶體供應緊張的狀況持續兩至三年(或更長)。短缺在DRAM中最為嚴峻，但NAND Flash亦然。該行認為兩者股價可繼續跑贏大市，因為基於近期預測的倍數仍然合理(兩者2027財年預估市盈率均低於10倍)，且大規模股票回購可能於2027年啟動、專用AI記憶體合約價格談判走高，以及閃迪在資料中心市場的滲透率提高。在此背景下，市場對新的多年期供應協議關注甚多，該行認為長期協議應被視為“高增長持續更久”前景的結果而非原因，並且證明了超大型企業有意在未來幾年繼續擴大記憶體採購，並視承諾為確保供應的必要條件。該行認為市場將獎勵這種隱含的持續性，但該行最關注的仍是供需狀況。
-
----
-
-### 2026-06-03 22:48:54  #MKT News
-
-Israeli Prime Minister Netanyahu: The market is not wrong.
-
----
-
-### 2026-06-03 22:48:46  #MKT News
-
-Prime Minister Netanyahu said the war has demonstrated Israel's technological strength, not only on the battlefield but also on the civilian front.
-
----
-
-### 2026-06-03 22:48:31  #其他
-
-內塔尼亞胡：“市場並沒有錯”。
-
----
-
-### 2026-06-03 22:48:25  #MKT News
-
-Prime Minister Netanyahu said after two-and-a-half years of war Israel's currency is at its strongest level in history and exports are surging.
 
 ---
