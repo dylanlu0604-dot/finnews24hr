@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-06 21:54:15",
-  "count": 18772,
+  "updated": "2026-06-06 21:58:16",
+  "count": 18779,
   "items": [
+    {
+      "id": "4921306",
+      "time": "2026-06-06 21:55:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，停飛機隊佔比已從最高20%降至不足5%。"
+    },
+    {
+      "id": "mkt:019e9d37-cbcc-7665-8313-01574dbe4bdc",
+      "time": "2026-06-06 21:55:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Air New Zealand CEO says the airline plans to buy jet fuel in Singapore in FY2027 at about $150/barrel."
+    },
+    {
+      "id": "4921305",
+      "time": "2026-06-06 21:55:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，供應商一直難以預估發動機維修及交付問題的解決時間線。"
+    },
+    {
+      "id": "4921304",
+      "time": "2026-06-06 21:55:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，若燃油價格維持高位，該航空公司將聚焦成本管控、票價調整，並整合航班運力。"
+    },
+    {
+      "id": "mkt:019e9d37-a59d-7665-8312-f839e191d122",
+      "time": "2026-06-06 21:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Air New Zealand CEO said the airline has offset only 25%-40% of the impact from higher fuel costs through hedging and fare increases."
+    },
+    {
+      "id": "4921303",
+      "time": "2026-06-06 21:55:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，大部分飛機將在未來兩到三個月內恢復執飛。"
+    },
+    {
+      "id": "4921302",
+      "time": "2026-06-06 21:55:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，波音、羅爾斯·羅伊斯及普惠提供的賠償僅抵消了部分經濟損失。"
+    },
+    {
+      "id": "4921301",
+      "time": "2026-06-06 21:55:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，該航空公司已經完成兩輪漲價，或考慮進一步採取戰術性提價。"
+    },
+    {
+      "id": "4921300",
+      "time": "2026-06-06 21:55:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，該航空公司並未面臨燃油供應短缺問題，價格衝擊才是主要挑戰。"
+    },
+    {
+      "id": "4921299",
+      "time": "2026-06-06 21:54:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，預計不會透過資本市場募資補充流動性。"
+    },
+    {
+      "id": "4921298",
+      "time": "2026-06-06 21:54:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紐西蘭航空執行長表示，該航司僅透過套期保值和票價上漲抵消了25%-40%的燃油成本衝擊。"
+    },
+    {
+      "id": "4921297",
+      "time": "2026-06-06 21:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭航空執行長表示，該航空公司計劃在2027財年將新加坡航空燃油價格控制在每桶150美元左右。"
+    },
     {
       "id": "4921296",
       "time": "2026-06-06 21:51:25",
@@ -173214,52 +173313,6 @@
         "國際"
       ],
       "text": "【首隻印尼出生大熊貓正式公開亮相】記者今天（5月30日）從印度尼西亞野生動物園獲悉，2025年底在印尼出生的首隻大熊貓幼崽“里奧”當天首次正式與公眾見面，吸引眾多遊客前來參觀。它的父母是旅居印尼的大熊貓“彩陶”和“湖春”。 “里奧”於2025年11月27日在印尼野生動物園出生， “里奧”的出生填補了印尼大熊貓人工繁育的空白，也標誌著中國與印尼大熊貓保護合作取得重要成果。印尼總統普拉博沃為其取名“薩特里奧·維拉塔馬”，暱稱“里奧”，意為“勇敢而高貴的騎士”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e792c-84f3-7bb7-996a-35ffe6bf887e",
-      "time": "2026-05-30 21:57:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【GalaxyVS AI virtual screening platform launched in Tianjin to accelerate innovative drug development】GalaxyVS, an AI virtual screening platform for ultra-large-scale drug discovery, was officially launched in Tianjin today. Built on the new-generation Tianhe supercomputing system, the platform can probe a near-100-billion synthesizable compound space and implements an end-to-end stack covering molecular representation, vector retrieval, diversity control, affinity re-ranking and large-scale task scheduling. The platform is positioned to provide a high-efficiency, high-precision, scalable foundational tool for innovative drug R&D and was developed by an AI biomed team led by Meng Xiangfei, chief scientist at the National Supercomputing Center in Tianjin, and Lan Yanyan, professor at Tsinghua University’s Institute for Intelligent Industry."
-    },
-    {
-      "id": "mkt:019e792b-160b-7bb7-996a-2a2dc4ee0f60",
-      "time": "2026-05-30 21:55:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "HEZBOLLAH said it fired rockets at an Israeli military concentration east of the outskirts of Ghanduriya in southern Lebanon."
-    },
-    {
-      "id": "4908351",
-      "time": "2026-05-30 21:55:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞指責厄瓜多宣佈取消關稅是對哥總統選舉的“蓄意干涉”。"
-    },
-    {
-      "id": "mkt:019e792a-b927-7bb7-996a-2102a6234eea",
-      "time": "2026-05-30 21:55:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 12 reports Lebanon fired five missiles toward Safed in northern Israel; one was intercepted and four fell in open areas."
-    },
-    {
-      "id": "4908349",
-      "time": "2026-05-30 21:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【面向超大規模藥物發現的人工智慧虛擬篩選平臺——GalaxyVS正式釋出】30日，面向超大規模藥物發現的人工智慧虛擬篩選平臺——GalaxyVS正式釋出。平臺依託新一代天河超級計算系統，面向近千億級可合成化合物空間，構建了覆蓋分子表徵、向量檢索、多樣性控制、親和力重排序和大規模任務排程的端到端技術體系，為創新藥物研發提供了高效率、高精度、可擴充套件的新型基礎平臺。（新華社）"
     }
   ]
 }
