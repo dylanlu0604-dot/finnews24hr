@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-06 14:04:20",
-  "count": 18800,
+  "updated": "2026-06-06 14:08:13",
+  "count": 18804,
   "items": [
+    {
+      "id": "mkt:019e9b8a-7986-7665-8310-39bdf9e1a86c",
+      "time": "2026-06-06 14:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yonyou launches BIP Super Edition on Huawei Cloud dedicated cloud solution】Yonyou announced on June 6 at Huawei Cloud’s INSPIRE 2026 conference in Shanghai that it and Huawei Cloud have jointly launched the Yonyou BIP Super Edition on Huawei Cloud dedicated cloud solution, offering full‑stack, self‑developed, secure and trusted integrated capabilities to support enterprise digital transformation and global operations."
+    },
+    {
+      "id": "4921147",
+      "time": "2026-06-06 14:05:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【用友BIP超級版On華為雲專屬雲解決方案發布】據用友訊息，6月6日，INSPIRE 2026 華為雲創想者大會在上海西岸國際會展中心舉辦。用友BIP超級版與華為雲聯合釋出用友BIP超級版On華為雲專屬雲解決方案，以全棧自研、安全可信的一體化能力，為企業數智化轉型與全球化運營提供新路徑。"
+    },
+    {
+      "id": "4921146",
+      "time": "2026-06-06 14:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，一位名叫戴維·J·拉什的美國中央情報局（CIA）前高官，涉嫌偽造了一個高度機密的情報專案，並以此為幌子，將數百萬美元資金轉移供個人使用，他的家中被搜出價值逾4000萬美元的金條。"
+    },
+    {
+      "id": "4921145",
+      "time": "2026-06-06 14:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普正在為情報總監一職面試兩名候選人。"
+    },
+    {
+      "id": "mkt:019e9b88-6201-7665-8310-3026fe7c9a86",
+      "time": "2026-06-06 14:04:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD"
+      ],
+      "text": "The Washington Post, citing people familiar with the matter, reports a former CIA senior official identified as David J. Lash is accused of fabricating a highly classified intelligence program and using it as a front to divert millions of dollars for personal use. Investigators seized more than $40 million in gold bars from his home."
+    },
+    {
+      "id": "4921144",
+      "time": "2026-06-06 14:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特“不會在那裡待太久”。"
+    },
     {
       "id": "4921143",
       "time": "2026-06-06 14:03:13",
@@ -173405,22 +173454,6 @@
         "其他"
       ],
       "text": "【委文化部副部長：希望繼續發展同中國的友誼】委內瑞拉文化部副部長米凱亞斯·菲格羅亞29日表示，希望繼續發展同中國的友誼。 菲格羅亞當天在委首都加拉加斯舉行的第二屆“目光交匯 中拉（委）相牽”短影片大賽啟動儀式上說，這正是委中友好、交流互鑑的體現，旨在長久維護雙邊關係。（新華社）"
-    },
-    {
-      "id": "4908114",
-      "time": "2026-05-30 14:05:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【官方通報D1804次列車受電弓遭異物擊打臨時停車】據@桂林火車站 ，5月30日9時19分，因貴廣客專鐘山西至恭城間，列車受電弓受異物擊打，導致裝置故障，D1804次列車臨時停車，部分途經該區段的列車晚點執行。鐵路部門第一時間啟動應急預案，及時開啟臨停列車車門通風，備用列車預計11時30分左右趕至故障地點進行轉運。由此給您帶來不便，鐵路部門深表歉意。"
-    },
-    {
-      "id": "4908113",
-      "time": "2026-05-30 14:05:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豐田回應將中止雷克薩斯下一代純電轎車開發】近日有訊息稱，豐田將中止高檔車品牌“雷克薩斯”純電動轎車“LF-ZC”的量產車型開發。豐田方面回應稱，該資訊屬實，本次車型開發中止的原因是“考慮到市場需求的變化，對公司整體車輛開發專案進行調整的一部分”。豐田還強調，公司只是調整了部分車輛的開發規劃，並不代表放棄BEV（純電動汽車）。（第一財經）"
     }
   ]
 }
