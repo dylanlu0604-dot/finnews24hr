@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 07:40:46_
-_本檔包含 3841 則快訊，約 699891 字_
+_更新時間：2026-06-06 07:55:36_
+_本檔包含 3841 則快訊，約 699841 字_
+
+---
+
+### 2026-06-04 23:00:50  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+IMF: Fed policy should be adjusted carefully in response to incoming data; clear Federal Reserve communication will remain essential.
+
+---
+
+### 2026-06-04 23:00:47  #國際
+
+國際貨幣基金組織：伊朗戰事已導致原油日產量減少1400萬桶，油價將取決於霍爾木茲海峽能否恢復通航。
+
+---
+
+### 2026-06-04 23:00:42  #國際
+
+國際貨幣基金組織：預計7月石油儲備將降至75億桶的五年低位，而伊朗戰爭爆發前的石油儲備為80億桶。
+
+---
+
+### 2026-06-04 23:00:38  #其他
+
+國際貨幣基金組織表示，阿根廷已接近達成2026年末國際儲備淨額目標；該目標仍低於原定於2025年末實現的目標水平。
+
+---
+
+### 2026-06-04 23:00:30  #其他
+
+國際貨幣基金組織表示，原定於6月15日當週對塞內加爾進行的訪問將照常進行，以繼續與該國當局開展技術討論。
+
+---
+
+### 2026-06-04 23:00:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swedish Krona Increases by 0.56% — Top currency gainers are Swedish Krona (0.56%), Swiss Franc (0.50%), Polish Zloty (0.40%), Euro (0.28%) and British Pound (0.19%). Biggest loser is Dollar Index (-0.22%). Meanwhile Japanese Yen was little changed.
 
 ---
 
@@ -23095,41 +23131,5 @@ USA Rare Earth (USAR.O) reached a final agreement with the U.S. Commerce Departm
 ### 2026-06-03 20:18:10  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
 
 US Private Sector Job Growth Tops Forecasts Again — Private businesses in the US added a net 122,000 jobs in May 2026, a new high since January 2025, compared to a downwardly revised 105,000 in April and above forecasts of 117,000. "Hiring was more broad-based in May than we've seen in the last few years. The labor market continues to show sustained momentum going into the summer hiring season", according to Dr. Nela Richardson Chief Economist, ADP. Job gains occured in education and health services (57K), trade, transportation, and utilities (36K), professional and business services (11K), leisure and hospitality (8K), construction (8K), financial activities (7K) and manufacturing (3K). In contrast, the natural resources and mining sector shed 3K jobs and information lost 9K. Meanwhile, companies with fewer than 50 employees added 67K new hires, those with 500 or more added 40K and medium-sized firms contributed 17K. Annual pay growth for those staying in their jobs stayed at 4.4% while for job-switchers it edge higher to 6.6%.
-
----
-
-### 2026-06-03 20:17:58  #公司
-
-【國科天成：股東大數成長減持計劃完成，累計減持2.36%股份】國科天成公告，大數成長已完成減持計劃，原計劃減持不超過538.28萬股（3%）。2026年5月25日至2026年6月2日透過集中競價減持64.2萬股、均價62.36元/股，透過大宗交易減持358.85萬股、均價59.32元/股，合計減持423.05萬股，佔總股本2.36%，持股比例由4.18%降至1.82%。
-
----
-
-### 2026-06-03 20:17:55  #市場 #國際
-
-10年期美國國債收益率最新上漲2.8個基點，報4.483%。
-
----
-
-### 2026-06-03 20:17:32  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-US Treasury yields rose modestly after ADP employment data; the 10-year Treasury yield climbed 2.8 bps to 4.483%.
-
----
-
-### 2026-06-03 20:17:14  #公司 #國際
-
-美國稀土公司擬將年產1萬噸重稀土金屬及合金的產能回遷本土。
-
----
-
-### 2026-06-03 20:17:12  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #US10Y #Impact bearish
-
-ADP report: May YoY pay growth for continuing employees held at 4.4%. Pay growth for job switchers eased to 6.5% from 6.6% in April.
-
----
-
-### 2026-06-03 20:16:58  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
-
-ADP report: U.S. private payrolls rose by 122,000 in May. Eight of 10 major industry groups recorded gains and hiring occurred across all employer-size classes.
 
 ---
