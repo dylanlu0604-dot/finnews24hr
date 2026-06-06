@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06 11:05:45",
-  "count": 18774,
+  "updated": "2026-06-06 11:09:34",
+  "count": 18771,
   "items": [
+    {
+      "id": "mkt:019e9ae6-71a2-7665-830f-77dcac99e2bd",
+      "time": "2026-06-06 11:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian presidential aide Ushakov says US has downgraded Ukraine issue】Russian presidential aide Ushakov said on the 5th at the 29th St. Petersburg International Economic Forum that the US has placed the Ukraine issue “in a secondary position,” to some extent withdrawing from what he called an issue “vital to Russia, irrelevant to the US.” He said Washington is currently prioritizing Iran and that, relative to the Biden administration, the Trump administration’s related policies show “minor adjustments.”"
+    },
+    {
+      "id": "4921006",
+      "time": "2026-06-06 11:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：北約盟國磋商擬承諾向烏克蘭提供 700 億歐元軍事援助 。"
+    },
     {
       "id": "4920998",
       "time": "2026-06-06 11:02:32",
@@ -173164,46 +173180,6 @@
         "其他"
       ],
       "text": "【麒麟軟體釋出兩款全新作業系統】5月29日，麒麟軟體在2026世界智慧產業博覽會上，釋出了麒麟工業作業系統V10、麒麟100智聯作業系統兩款全新產品，同時銀河麒麟端側智慧體“Kylinbot”也首次公開亮相，全方位展示了麒麟軟體在牽引AI前沿技術、打造先進計算算力底座方面的最新成果。"
-    },
-    {
-      "id": "mkt:019e76d9-bd7b-7bb7-9967-cb7c6584c977",
-      "time": "2026-05-30 11:07:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A White House memorandum says President Trump is in excellent health, with heart, lungs, nervous system and overall bodily function assessed as robust."
-    },
-    {
-      "id": "mkt:019e76d9-996f-7bb7-9967-c1311ebd6d8a",
-      "time": "2026-05-30 11:07:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A White House memo shows President Trump continues to receive all appropriate preventive screenings and immunizations."
-    },
-    {
-      "id": "4908061",
-      "time": "2026-05-30 11:06:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮備忘錄：特朗普總統身體仍保持極佳健康狀態，心臟、肺部、神經功能及整體身體機能均表現強勁。"
-    },
-    {
-      "id": "4908060",
-      "time": "2026-05-30 11:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮備忘錄：特朗普總統已及時完成所有合規預防性篩查與疫苗接種。"
-    },
-    {
-      "id": "mkt:019e76d8-acf8-7bb7-9967-b90cb9485b24",
-      "time": "2026-05-30 11:06:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House memo shows President Trump underwent his annual physical on May 26, 2026."
     }
   ]
 }
