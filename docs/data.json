@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-06 16:27:04",
-  "count": 18812,
+  "updated": "2026-06-06 16:30:57",
+  "count": 18811,
   "items": [
+    {
+      "id": "mkt:019e9c0b-9872-7665-8311-3aaa1da113a0",
+      "time": "2026-06-06 16:27:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Rosneft CEO Sechin said prolonged tensions in the Strait of Hormuz will clearly weaken long-term oil demand."
+    },
+    {
+      "id": "mkt:019e9c0a-be6c-7665-8311-3548e3c52879",
+      "time": "2026-06-06 16:26:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Rosneft CEO Sechin said sanctions have reduced Russian oil production, while most OPEC+ members increased output under the OPEC+ agreement."
+    },
     {
       "id": "4921209",
       "time": "2026-06-06 16:25:32",
@@ -173561,30 +173587,6 @@
         "國際"
       ],
       "text": "伊朗南呼羅珊省宣佈沒收了34名叛國者的財產。"
-    },
-    {
-      "id": "4908180",
-      "time": "2026-05-30 16:30:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國救援人員：救援人員從寮國被洪水淹沒的洞穴中救出四名受困人員。"
-    },
-    {
-      "id": "4908179",
-      "time": "2026-05-30 16:29:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "慕尼黑機場發言人：已恢復航班起降。"
-    },
-    {
-      "id": "4908178",
-      "time": "2026-05-30 16:27:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇州：1—4月全市規模以上工業增加值同比增長9.8%】據蘇州釋出，2026年1—4月蘇州市經濟執行情況公佈，1—4月，全市規模以上工業增加值同比增長9.8%。規模以上工業總產值16126.5億元，同比增長7.3%。34個工業行業大類中，有27個行業產值同比增長，行業增長面達79.4%，其中16個行業產值增速超8%。製造業高階化持續推進。規模以上高新技術產業產值9164.6億元，同比增長11.7%，其中航空航天製造業、電子及通訊裝置製造業、醫藥製造業、儀器儀表製造業產值分別增長23.1%、20.0%、12.1%和14.6%。新興電子產品、新能源產品產量快速增長。智慧手機、積體電路、光電子器件、鋰離子電池產品產量同比分別增長8.5%、18.1%、18.2%和46.3%。"
     }
   ]
 }
