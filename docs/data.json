@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-06 10:42:34",
+  "updated": "2026-06-06 10:46:28",
   "count": 18777,
   "items": [
+    {
+      "id": "4920928",
+      "time": "2026-06-06 10:43:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：將加強共同努力穩定印尼盾匯率。"
+    },
+    {
+      "id": "mkt:019e9acf-c5bc-7665-830f-60a59c2965a6",
+      "time": "2026-06-06 10:42:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China launches Langya 2.0 global ocean forecasting AI model】China's Institute of Oceanology at the Chinese Academy of Sciences released Langya 2.0 on June 6. The in-house, AI-driven large-scale model is designed to forecast global ocean phenomena and provide technological support for marine disaster prevention and reduction and for shipping safety."
+    },
     {
       "id": "4920927",
       "time": "2026-06-06 10:41:40",
@@ -173212,23 +173231,6 @@
         "公司"
       ],
       "text": "【丹麥養老基金稱SpaceX被“嚴重高估”】據報道，丹麥“學界養老基金”（AkademikerPension）首席投資官安德斯·謝爾德（Anders Schelde）5月29日表示，SpaceX不僅被“嚴重高估”，而且還存在“災難性的公司治理結構”。SpaceX當前對IPO的目標估值至少為1.8萬億美元。"
-    },
-    {
-      "id": "4908048",
-      "time": "2026-05-30 10:46:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "白宮釋出特朗普醫生的備忘錄：特朗普身體健康，能夠履行所有職責；沒有動脈阻塞或異常情況；小腿輕微腫脹，程度較2025年有所好轉。"
-    },
-    {
-      "id": "4908046",
-      "time": "2026-05-30 10:45:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【盧拉：巴西將自行打擊有組織犯罪 拒絕外國干預】巴西總統盧拉當地時間29日表示，他對美國宣佈將巴西兩大犯罪團伙列為“外國恐怖組織”，並稱可以進行干預感到非常失望。盧拉表示，對巴西社會而言這些犯罪團伙是恐怖分子，但巴西會自行打擊有組織犯罪，無需美國干預，巴西不接受被當成“孩子”對待。當天巴西總統府釋出宣告強調，國家主權不容談判，巴西內政拒絕任何形式的外部干涉。（央視新聞）"
     }
   ]
 }
