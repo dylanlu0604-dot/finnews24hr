@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06 10:54:09",
-  "count": 18777,
+  "updated": "2026-06-06 10:58:01",
+  "count": 18776,
   "items": [
+    {
+      "id": "4920980",
+      "time": "2026-06-06 10:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）衛生部：埃博拉疫情仍存在社群傳播】剛果（金）衛生部5日釋出報告說，截至4日，剛果（金）本輪埃博拉疫情累計確診病例升至452例，82例死亡。報告說，4日在伊圖裡省和北基伍省報告71例新增確診病例，這表明本輪疫情仍存在快速、持續的社群傳播。 報告顯示，目前共有258名患者處於隔離或住院治療狀態，累計8人治癒。（新華社）"
+    },
+    {
+      "id": "4920967",
+      "time": "2026-06-06 10:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "牙買加能源部長：牙買加全島遭遇停電。"
+    },
     {
       "id": "4920965",
       "time": "2026-06-06 10:52:22",
@@ -173204,34 +173220,6 @@
         "公司"
       ],
       "text": "阿達尼集團：法律糾紛塵埃落定，公司可全力邁入下一發展階段。"
-    },
-    {
-      "id": "4908054",
-      "time": "2026-05-30 10:56:31",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國個股槓桿ETF引爆市場】27日，韓國首次推出個股槓桿ETF。16只掛鉤三星電子和SK海力士的2倍槓桿及反向ETF在韓國股市掛牌交易。隨著大量槓桿資金集中湧入，本週韓國股市震盪加劇，走出了“過山車”行情。資料顯示，相關產品上市首日，合計資產規模就達到了4.3萬億韓元。截至28日收盤，這一數字進一步攀升至5.02萬億韓元，約合人民幣225億元。此類個股槓桿ETF此前在韓國一直被明令禁止。如今一經推出，便吸引了大量散戶投資者踴躍參與。業內人士分析稱，韓國股市的這場槓桿熱潮，正是火爆的AI算力需求與金融投機情緒的一次劇烈碰撞。投資者在追求收益放大的同時，更應高度警惕高槓杆背後潛藏的疊加風險。（央視財經）"
-    },
-    {
-      "id": "4908053",
-      "time": "2026-05-30 10:56:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鞍鋼鋼軌產品透過RC+CRCC認證】據鞍鋼集團訊息，近日，鞍鋼鋼軌產品透過國推鐵路產品RC+CRCC認證，標誌著該類產品的技術效能、質量管控、全流程執行體系全面達到國家級鐵路產品准入標準，為進一步拓展鐵路市場、提升鞍鋼鋼軌品牌競爭力奠定了堅實基礎。"
-    },
-    {
-      "id": "mkt:019e76cf-6155-7bb7-9967-b01f0aa4b950",
-      "time": "2026-05-30 10:56:02",
-      "tags": [
-        "MKT News",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL chief scientist Wu Kai: sodium‑ion batteries to reach mass production this year; next focus lithium‑air R&D】Wu Kai, chief scientist at CATL and an academician of the Chinese Academy of Engineering, said CATL will put a series of sodium‑ion battery products into mass production this year, noting sodium‑ion batteries use more abundant, lower‑cost raw materials than lithium‑ion batteries. He said CATL will next focus on lithium‑air battery R&D; lithium‑air uses a lithium anode and ambient oxygen as the cathode reactant, offers ultra‑high theoretical energy density, and will be a focal point in next‑generation global battery competition."
     }
   ]
 }
