@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06 20:06:30",
-  "count": 18781,
+  "updated": "2026-06-06 20:10:25",
+  "count": 18780,
   "items": [
     {
       "id": "4921276",
@@ -173342,15 +173342,6 @@
         "Impact bullish"
       ],
       "text": "Axios reports the first Windows PCs powered by NVIDIA (NVDA.O) chips will debut next week."
-    },
-    {
-      "id": "4908295",
-      "time": "2026-05-30 20:08:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：首款搭載英偉達晶片的Windows PC將於下週亮相。"
     }
   ]
 }
