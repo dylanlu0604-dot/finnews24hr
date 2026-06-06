@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 20:14:19",
-  "count": 18776,
+  "updated": "2026-06-06 20:18:14",
+  "count": 18775,
   "items": [
+    {
+      "id": "mkt:019e9cde-0e85-7665-8312-bf2443da4e69",
+      "time": "2026-06-06 20:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China launches maritime traffic enforcement operation in eastern waters off Taiwan】June 6 — China’s Ministry of Transport launched a special maritime traffic law‑enforcement operation in the eastern waters off Taiwan, deploying the Fujian and Guangdong maritime administrations, the East China Sea Navigation Protection Center and the East China Sea Rescue Bureau. The operation is intended to assert Chinese maritime administrative jurisdiction, strengthen deep‑sea patrol and key‑waters traffic control, and safeguard maritime traffic safety and national rights. Beijing said the action responds to Japan and the Philippines’ unilateral initiation of sea‑boundary delimitation talks east of Taiwan, which it described as a serious infringement on China’s territorial sovereignty and maritime rights."
+    },
     {
       "id": "4921277",
       "time": "2026-06-06 20:11:35",
@@ -173282,22 +173290,6 @@
         "國際"
       ],
       "text": "韓國和日本據悉將於6月7日舉行聯合搜救演習，為9年來首次。"
-    },
-    {
-      "id": "4908301",
-      "time": "2026-05-30 20:16:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊朗議會將透過霍爾木茲海峽“主權管轄”計劃】據伊朗媒體30日報道，伊朗議會主席團成員薩利米表示，伊朗對霍爾木茲海峽“實施主權管轄”的計劃即將在議會獲得批准，並有望以永久性法律的形式獲得透過。據伊朗學生通訊社報道，薩利米說，只有伊朗和阿曼有權就霍爾木茲海峽的管理方式作出決定。伊朗方面已與阿曼展開溝通，阿曼方面也表達了初步同意，相關方案有望在近期敲定。（新華社）"
-    },
-    {
-      "id": "4908300",
-      "time": "2026-05-30 20:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國國防部長與日本防衛大臣在新加坡舉行會談。"
     }
   ]
 }
