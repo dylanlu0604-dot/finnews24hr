@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-07 01:40:18",
-  "count": 18797,
+  "updated": "2026-06-07 01:44:20",
+  "count": 18799,
   "items": [
+    {
+      "id": "4921384",
+      "time": "2026-06-07 01:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：巴勒斯坦各派別開羅會議已結束。各方在相關議題上立場存在分歧，計劃於今日再度與調解方舉行會談。"
+    },
+    {
+      "id": "mkt:019e9e07-8699-7665-8313-f2edd62adf9b",
+      "time": "2026-06-07 01:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian sources said a Cairo meeting of Palestinian factions has ended and a follow-up meeting with mediators is planned for today; parties remain divided on the issues under discussion."
+    },
+    {
+      "id": "mkt:019e9e07-3c05-7665-8313-e96c90e4796b",
+      "time": "2026-06-07 01:42:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian sources said a Cairo meeting of Palestinian factions focused on weapons."
+    },
+    {
+      "id": "4921383",
+      "time": "2026-06-07 01:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：巴勒斯坦各派別開羅會議圍繞包含15項內容的《姆拉德諾夫檔案》展開討論。"
+    },
+    {
+      "id": "mkt:019e9e06-e31c-7665-8313-e10d553fc854",
+      "time": "2026-06-07 01:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian sources said at a Cairo meeting of Palestinian factions discussion centered on the 15-point Mladenov document."
+    },
+    {
+      "id": "4921382",
+      "time": "2026-06-07 01:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：巴勒斯坦各派別在開羅舉行的會議，重點討論了武器相關議題。"
+    },
     {
       "id": "4921381",
       "time": "2026-06-07 01:39:35",
@@ -173462,38 +173510,6 @@
         "國際"
       ],
       "text": "伊朗國家電視臺稱，已獲取伊美雙方諒解備忘錄的非官方文字。"
-    },
-    {
-      "id": "4908423",
-      "time": "2026-05-31 01:42:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國法官下令審查特朗普與國稅局訴訟和解協議】美國佛羅里達州一名美國法官表示，將審查美國司法部與特朗普之間的一項和解協議，該協議旨在解決特朗普針對美國國稅局（IRS）提起的100億美元訴訟。此舉加大了對這項飽受批評協議的審查力度。特朗普此前因指控其稅務記錄遭不當處理並洩露給媒體，而對自己的政府提起訴訟。根據擬議的和解協議，將設立一筆近18億美元的基金，用於補償因政治“武器化”而受害的人士。美國地區法官凱瑟琳·威廉姆斯週五要求特朗普的律師在6月12日前，對35名退休聯邦法官提交的一份動議作出回應。這些退休法官稱，該和解協議“是串通的產物，本身就是對法院的欺詐”，並要求法院就以下問題作出說明：鑑於該訴訟被指系特朗普與政府“合謀欺騙”的結果，本案是否應重新審理。"
-    },
-    {
-      "id": "mkt:019e79fa-3f57-7bb7-996a-e55af5a86ef6",
-      "time": "2026-05-31 01:41:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli radio reported Prime Minister Netanyahu proposed expanding cabinet control over Gaza, but no decision has been taken."
-    },
-    {
-      "id": "4908422",
-      "time": "2026-05-31 01:40:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：內塔尼亞胡已在內閣會議上提議擴大對加沙地帶的管控範圍，目前尚未作出最終決議。"
-    },
-    {
-      "id": "mkt:019e79f9-2cd3-7bb7-996a-df8d82755ba1",
-      "time": "2026-05-31 01:40:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Sun reports that if Burnham becomes prime minister, former deputy prime minister Rayner is expected to be brought back into the cabinet."
     }
   ]
 }
