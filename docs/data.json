@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-07 01:22:23",
-  "count": 18805,
+  "updated": "2026-06-07 01:40:18",
+  "count": 18797,
   "items": [
+    {
+      "id": "4921381",
+      "time": "2026-06-07 01:39:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來製藥以德國醫療改革為由，將在德投資削減五成，並把資金轉向美國生產領域。"
+    },
+    {
+      "id": "mkt:019e9e04-cea4-7665-8313-d919f73a3a9f",
+      "time": "2026-06-07 01:39:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi television reported a Lebanese military source saying Lebanese officers are undergoing training in Pakistan, and that Lebanese Army commander Haikal will discuss the army’s military needs with Islamabad during his visit."
+    },
+    {
+      "id": "4921380",
+      "time": "2026-06-07 01:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯靈頓北方聖太菲鐵路：現場人員正趕赴事發地點開展評估；目前主幹線軌道的預計恢復通行時間尚未確定。"
+    },
+    {
+      "id": "4921379",
+      "time": "2026-06-07 01:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伯靈頓北方聖太菲鐵路：美國中部夏令時6月6日上午9點58分，我方收到初步報告，艾奧瓦州得梅因市附近發生路基沖毀事故，已對幹線軌道造成影響。"
+    },
+    {
+      "id": "4921378",
+      "time": "2026-06-07 01:28:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【五角大樓：以色列帶來的間諜威脅持續加劇】美國近期多份情報報告指出，以色列情報機構持續監聽負責斡旋美伊和平協議的美方談判人員，以色列帶來的整體反間諜風險也隨之攀升，引發美方擔憂。美以雙方長期以來都心知肚明，彼此一直在開展針對對方的情報活動，且對此選擇默許。但多名美國官員表示，以色列近期加緊打探美方在伊核談判中的立場，此舉已然越界。相關報告提到，以色列加大了對多名美國高階官員的監聽力度，其中包括特朗普政府首席談判代表史蒂夫·維特科夫、五角大樓首席政策官員埃爾布里奇·A·科爾比，以及科爾比的主要副手之一邁克爾·P·迪米諾四世。美國國防情報局聯合其他軍事情報部門撰寫了另一份報告，內容回溯至數年前的相關事件。報告稱，近幾周美方將以色列造成的反間諜威脅等級從“高風險”上調至最高的“危急”級別。這份檔案也得到了美國國防反間諜與安全域性的協助編撰，其中詳細列舉了以色列針對美軍人員及政府官員開展的各類間諜活動。當前局勢本就高度敏感，上述報告以及美方對以色列間諜活動的擔憂進一步升溫。美以兩國正聯手應對伊朗，雙方如今的軍事協作緊密程度前所未有，以色列軍官與美方人員在美國中央司令部並肩工作。美軍向以色列方面共享了大量戰術與作戰情報。但美國高階官員透露，以色列試圖摸清特朗普政府在和平談判中的策略以及不斷變化的立場。"
+    },
     {
       "id": "4921377",
       "time": "2026-06-07 01:20:49",
@@ -173453,115 +173494,6 @@
         "MKT News"
       ],
       "text": "The Sun reports that if Burnham becomes prime minister, former deputy prime minister Rayner is expected to be brought back into the cabinet."
-    },
-    {
-      "id": "4908421",
-      "time": "2026-05-31 01:39:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：倘若安迪·伯納姆出任英國首相，前副首相安吉拉·雷納預計將重返內閣。"
-    },
-    {
-      "id": "mkt:019e79f8-57f2-7bb7-996a-d70079ae7f75",
-      "time": "2026-05-31 01:39:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The Sun reports that if Andy Burnham is elected mayor of Greater Manchester, he is expected to carry out a major cabinet reshuffle."
-    },
-    {
-      "id": "mkt:019e79f7-fa7c-7bb7-996a-c89951a4d774",
-      "time": "2026-05-31 01:39:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Sun reports Greater Manchester Mayor Andy Burnham is considering naming current Home Secretary Shabana Mahmood as his Chancellor of the Exchequer if he becomes prime minister. Burnham and his team have begun drawing up plans for the first month of a potential premiership."
-    },
-    {
-      "id": "4908420",
-      "time": "2026-05-31 01:38:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【扎波羅熱核電站：烏方無人機攻擊6號機組電機房】扎波羅熱核電站主管部門30日透過社交媒體釋出訊息說，烏克蘭一架無人機當天攻擊了該核電站6號發電機組的一座電機房，所幸未造成人員傷亡和嚴重破壞。訊息說，目前這座核電站所有系統執行正常，站內各操作規程未被擾亂，電站區域及其監測區的輻射水平正常。電站專業人員正對遇襲位置進行勘察，局勢已被完全控制。（新華社）"
-    },
-    {
-      "id": "4908419",
-      "time": "2026-05-31 01:37:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場資訊：若英國大曼徹斯特市長安迪·伯納姆成功入主唐寧街，預計他將對內閣展開全面改組。"
-    },
-    {
-      "id": "4908418",
-      "time": "2026-05-31 01:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國大曼徹斯特市市長安迪·伯納姆及其團隊已開始草擬他出任首相後首月的施政計劃。"
-    },
-    {
-      "id": "mkt:019e79f5-a778-7bb7-996a-c155cf2e8468",
-      "time": "2026-05-31 01:36:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Sun reports Andy Burnham is considering calling a snap general election if elected UK prime minister."
-    },
-    {
-      "id": "4908417",
-      "time": "2026-05-31 01:35:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國大曼徹斯特市市長安迪·伯納姆正在籌謀，若其能成為英國首相，將任命內政大臣莎巴娜·馬哈茂德出任財政大臣。"
-    },
-    {
-      "id": "4908416",
-      "time": "2026-05-31 01:34:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國大曼徹斯特市長安迪·伯納姆考慮，如果自己出任首相，將提前舉行大選。"
-    },
-    {
-      "id": "4908415",
-      "time": "2026-05-31 01:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方表示，霍爾木茲海峽暫未發現水雷。"
-    },
-    {
-      "id": "4908414",
-      "time": "2026-05-31 01:26:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哥倫比亞將取消對厄瓜多的貿易反制措施】當地時間5月30日，哥倫比亞外交部發表宣告稱，為回應厄瓜多政府此前宣佈將停止對哥商品徵收“安全稅”，哥方將取消對厄瓜多採取的貿易反制措施，推動雙邊經貿關係恢復正常化。本月29日，厄瓜多總統諾沃亞宣佈，自6月1日起取消對哥倫比亞商品徵收的“安全稅”。今年年初以來，厄瓜多和哥倫比亞圍繞邊境安全等問題矛盾持續升級。1月21日，厄瓜多宣佈將對進口自哥倫比亞的商品徵收30%的“安全稅”。此後，厄“安全稅”稅率逐步上調至100%。作為回應，哥倫比亞政府此前也宣佈將對進口自厄瓜多的商品關稅稅率提高至100%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e79ec-2859-7bb7-996a-bd77671adc15",
-      "time": "2026-05-31 01:26:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "American Automobile Association said the U.S. national average retail gasoline price on the 30th was $4.35/gal, down $0.04 from the prior day and $0.17 from a week earlier, and still 46% above levels before the Iran conflict."
-    },
-    {
-      "id": "4908413",
-      "time": "2026-05-31 01:23:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府正在撤銷針對永久居留申請的新規定。"
     }
   ]
 }
