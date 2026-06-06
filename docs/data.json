@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-06 08:33:48",
+  "updated": "2026-06-06 08:37:30",
   "count": 18786,
   "items": [
+    {
+      "id": "mkt:019e9a5c-4489-7665-830e-699188c07084",
+      "time": "2026-06-06 08:36:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Explosions heard in Iran's Sirik near Strait of Hormuz, state broadcaster says】State broadcaster IRIB reported several explosions in the Sirik area on Iran’s Strait of Hormuz coast at about 02:30 local time on the 6th; no official confirmation of the source or further details."
+    },
+    {
+      "id": "4920507",
+      "time": "2026-06-06 08:36:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上銀基金總經理個人原因離任 下一站仍在公募】今日，上銀基金髮布高階管理人員變更公告，因個人原因，公司董事兼總經理尉遲平離任。公告提到，公司董事會已就新任總經理人選作出相關安排，在新任總經理聘任相關流程完成之前，暫由公司副總經理王稼秋代為履行總經理職責。資料顯示，尉遲平自2022年底任公司總經理，任職3年多以來，上銀基金資管規模增加88.78%至今年一季度末的2889億元，主要是固收類產品規模增長帶動。尉遲平接下來的去向仍是華東地區一家公募。"
+    },
+    {
+      "id": "4920506",
+      "time": "2026-06-06 08:35:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺報道，當地時間6日凌晨2時30分左右，霍爾木茲海峽沿岸的錫裡克地區傳出數聲爆炸聲。目前尚無官方訊息確認爆炸聲的來源或其他詳情。（新華社）"
+    },
     {
       "id": "4920505",
       "time": "2026-06-06 08:32:14",
@@ -173165,32 +173194,6 @@
         "MKT News"
       ],
       "text": "【U.S. Southern Command says strike on drug-smuggling vessel in eastern Pacific kills three】On May 29, U.S. Southern Command said that at the direction of Gen. Francis L. Donovan its Southern Spear joint task force carried out a lethal kinetic strike in the eastern Pacific on a vessel determined to be controlled by a designated terrorist organization. Intelligence showed the ship was transiting a known drug-smuggling route and engaged in narcotics trafficking. The strike killed three male members; U.S. forces reported no casualties. Southern Command said it will continue to apply systematic, comprehensive pressure on trafficking networks."
-    },
-    {
-      "id": "mkt:019e7650-164c-7bb7-9966-d221a1ec8b22",
-      "time": "2026-05-30 08:37:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ecuador to cancel 'security tax' on Colombian imports from June 1, President Noboa says】Ecuador President Daniel Noboa said on May 29 the government will cancel the 'security tax' on Colombian products effective June 1. The levy was imposed Jan. 21 at 30% and was later raised to 100%, prompting Colombia to raise duties on Ecuadorian imports to 100% in retaliation. Quito had announced on May 4 it would cut the tax from 100% to 75% from June 1; the May 29 statement cancels the charge instead."
-    },
-    {
-      "id": "mkt:019e764e-3a5e-7bb7-9966-cfcaebca644b",
-      "time": "2026-05-30 08:34:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. MILITARY said it struck a vessel in the eastern Pacific, killing three people."
-    },
-    {
-      "id": "4907966",
-      "time": "2026-05-30 08:34:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方：已對東太平洋一艘船隻發動襲擊，造成三人死亡。"
     }
   ]
 }
