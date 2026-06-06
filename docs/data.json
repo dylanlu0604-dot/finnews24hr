@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 05:18:53",
+  "updated": "2026-06-07 05:22:40",
   "count": 18831,
   "items": [
+    {
+      "id": "mkt:019e9ece-580b-7665-8314-e53ae7ee7fc6",
+      "time": "2026-06-07 05:19:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says national team must enter, exit US on match days】Iran’s ambassador to Mexico, Pasandide, said the national football team has been told it must enter and leave US territory on match days during the World Cup. Citing a US and Israeli war on Tehran, Pasandide said the team is now based in Mexico instead of the originally planned Tucson, Arizona; visa rules allow morning entry but require same‑day departure. Iran has three group matches in the US, scheduled in Los Angeles and Seattle."
+    },
     {
       "id": "mkt:019e9ebd-b1ea-7665-8314-da96af1e7d59",
       "time": "2026-06-07 05:01:32",
@@ -173767,21 +173775,6 @@
         "其他"
       ],
       "text": "阿曼國防部在今天早些時候釋出了一則警報，此前在霍爾木茲海峽阿曼領海內發現一枚疑似海軍水雷，該警報建議與可疑物體保持安全距離，並向當局報告。"
-    },
-    {
-      "id": "mkt:019e7ac1-f1b6-7bb7-996b-aff3a6d90ac5",
-      "time": "2026-05-31 05:19:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【US May jobs report due next week expected to show solid gains; unemployment to hold at 4.3%】Bloomberg median economists project May unemployment at 4.3% and nonfarm payrolls up 89,000. That would lift the three-month average job gain to the highest in over a year and reignite debate about accelerating hiring. Forecasts point to continued strength in healthcare, a rebound in construction and leisure & hospitality partly aided by warmer weather, and a potential manufacturing jobs uplift as consumers stockpile goods ahead of possible price spikes from an Iran conflict."
     }
   ]
 }
