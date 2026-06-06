@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-06 18:26:21",
+  "updated": "2026-06-06 18:30:20",
   "count": 18810,
   "items": [
+    {
+      "id": "mkt:019e9c7b-3100-7665-8312-3ac36d5d7527",
+      "time": "2026-06-06 18:29:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Foreign Ministry said it supports Bahrain and Kuwait taking measures to safeguard security."
+    },
+    {
+      "id": "4921246",
+      "time": "2026-06-06 18:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦訊息人士稱：巴內政部長今天訪問伊朗，將向伊朗最高領袖轉達巴基斯坦的資訊。"
+    },
+    {
+      "id": "mkt:019e9c78-41d9-7665-8312-3672665466e6",
+      "time": "2026-06-06 18:26:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi Arabia condemns Iran's attacks on Bahrain and Kuwait."
+    },
     {
       "id": "4921245",
       "time": "2026-06-06 18:24:52",
@@ -173566,33 +173594,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格賽思在新加坡會見了日本防衛大臣小泉進次郎。"
-    },
-    {
-      "id": "4908233",
-      "time": "2026-05-30 18:30:17",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【高盛模型預測西班牙隊是本屆世界盃奪冠最大熱門】根據高盛週五釋出的一個模型預測，西班牙是2026年世界盃的奪冠熱門，領先於法國、阿根廷和巴西。該模型使用了各隊的歷史表現和排名資料。本屆世界盃賽事將於 6 月 11 日至 7 月 19 日在美國、墨西哥和加拿大舉行，該模型預測西班牙有 26% 的機會奪冠，法國以19%位居第二，衛冕冠軍阿根廷以14%緊隨其後，巴西以8%位列第四，英格蘭以5%位列第五。高盛表示，其預測主要基於球隊的Elo等級分（一種最初用於國際象棋，後經調整應用於足球的競技水平排名系統），並結合了進攻天賦、近期勢頭、心態和地理位置等其他因素。高盛表示，其預測結果與博彩公司的賠率基本一致，但英格蘭隊獲勝的機率低於博彩市場的預期。"
-    },
-    {
-      "id": "mkt:019e786d-feee-7bb7-9969-34f49b19fe85",
-      "time": "2026-05-30 18:28:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Geely again consolidates assisted‑driving team; company declines to comment】Geely is moving a several‑hundred‑strong assisted‑driving team from its Geely Research Institute into the Qianli Technology group, sources say. Under the initial plan the team will transfer into Qianli Zhijia’s joint venture with Zeekr, Qianli Haohan, to handle bespoke development and mass‑production delivery for Geely models, while Qianli Zhijia focuses on core R&D. Some research‑institute staff have received employment contract transfer notices. Geely declined to comment."
-    },
-    {
-      "id": "4908232",
-      "time": "2026-05-30 18:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利集團再度整合智駕團隊，公司：不予回應】據悉，吉利中央研究院數百人規模的輔助駕駛團隊，將在近期被整體整合入千里科技體系。按照初步方案，該團隊將平移至千里智駕與極氪的合資公司“千里浩瀚”，專職負責吉利車型的定製化開發與量產交付，千里智駕本身則聚焦主線技術研發，目前研究院已有人收到合同轉移通知。吉利公司回覆稱，就此事不予回應。（中證金牛座）"
     }
   ]
 }
