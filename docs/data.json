@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-07 01:48:17",
-  "count": 18800,
+  "updated": "2026-06-07 01:52:10",
+  "count": 18796,
   "items": [
+    {
+      "id": "4921388",
+      "time": "2026-06-07 01:48:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會議長助理阿里·尼克扎德：我們已封鎖霍爾木茲海峽，必要時也會封鎖曼德海峽。"
+    },
     {
       "id": "4921387",
       "time": "2026-06-07 01:47:03",
@@ -173477,48 +173486,6 @@
         "Impact bearish"
       ],
       "text": "【Zaporizhzhia nuclear plant: Ukrainian drone strikes unit 6 generator motor room】Local time May 30, the plant operator said on social media a Ukrainian drone attacked the motor room of the unit 6 generator. No casualties and no significant damage were reported. All plant systems remain operational, operational procedures were not disrupted, and radiation levels inside the plant and its monitoring zone are normal. Plant specialists are inspecting the impact site and say the situation is fully under control."
-    },
-    {
-      "id": "4908430",
-      "time": "2026-05-31 01:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：諒解備忘錄草案仍在審議與談判階段。"
-    },
-    {
-      "id": "4908429",
-      "time": "2026-05-31 01:50:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：諒解備忘錄顯示，美方承諾協助伊朗解凍120億美元資產。"
-    },
-    {
-      "id": "4908428",
-      "time": "2026-05-31 01:49:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏克蘭稱俄軍襲擊鐵路機車致人員傷亡】烏克蘭社群、領土和基礎設施發展部30日在社交媒體釋出訊息說，俄軍無人機當天襲擊扎波羅熱地區一列柴油機車，造成一名司機死亡。隨後發生的第二次襲擊導致當地一列電力機車受損。 烏克蘭鐵路公司當天也釋出訊息說，俄軍襲擊扎波羅熱地區的鐵路基礎設施及車輛，一列電力機車和一列柴油機車受損，造成一名機車司機死亡、兩名工作人員受傷。（新華社）"
-    },
-    {
-      "id": "4908427",
-      "time": "2026-05-31 01:49:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊朗將負責制定霍爾木茲海峽的通航路線及通行費用標準。"
-    },
-    {
-      "id": "4908426",
-      "time": "2026-05-31 01:48:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺表示，其已拿到伊朗與美國諒解備忘錄的非官方文字。根據內容，伊朗有權判定霍爾木茲海峽過往船隻的屬性。"
     }
   ]
 }
