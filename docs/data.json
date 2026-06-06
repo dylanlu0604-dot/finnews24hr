@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-06 13:04:13",
-  "count": 18783,
+  "updated": "2026-06-06 13:08:19",
+  "count": 18784,
   "items": [
+    {
+      "id": "4921117",
+      "time": "2026-06-06 13:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉曉豔當選基金業協會兼職會長】6月6日，中國證券投資基金業協會第四屆會員代表大會舉行，劉曉豔當選中國證券投資基金業協會第四屆理事會兼職會長。 資料顯示，劉曉豔博士，現任易方達基金董事長，公司創始團隊成員，2011年10月至2025年3月任公司總經理，擁有32年證券行業從業經驗。（新浪證券）"
+    },
+    {
+      "id": "4921116",
+      "time": "2026-06-06 13:03:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天博智慧定於6月12日上會】上海證券交易所上市稽核委員會定於2026年6月12日召開2026年第36次上市稽核委員會審議會議，審議天博智慧科技（山東）股份有限公司（首發）。"
+    },
     {
       "id": "mkt:019e9b50-9a8a-7665-830f-f550ad858934",
       "time": "2026-06-06 13:03:31",
@@ -173269,17 +173285,6 @@
         "國際"
       ],
       "text": "【美國防長談中美元首會晤，回應中方提問】5月30日，在第二十三屆香格里拉對話會第一場全體會議上，美國國防部長赫格塞思回答中方參會代表提問時表示，希望與中國防務部門開展更多對話。 當天，赫格塞思作大會發言。他提到了兩週前隨美國總統特朗普訪華的經歷，表示自己見證了兩國元首長達數小時的坦誠對話，並認為這具有歷史意義。他還提到，美中可以在利益相符的領域達成互利合作。 在隨後的現場答問環節，中國人民解放軍專家學者代表團成員、軍事科學院趙蔚彬大校提問說，在特朗普總統訪華期間，中美元首同意將構建“中美建設性戰略穩定關係”作為兩國關係的新定位。這將為中美兩軍關係發展帶來怎樣的影響？作為美國防長，您將如何以務實舉措落實兩國元首達成的共識？ 赫格塞思表示，美中兩國元首為雙方關係的發展劃定了框架，體現了高層交往的重要性。美中關係的新定位對於世界和平而言非常重要。美中之間相互尊重，對於地區和全球的安全穩定具有實質作用和重要意義。 赫格塞思說，這種尊重也體現在美中兩軍之間，雙方將擴大交流機會。他期待與中國防務部門開展更多對話，加強在具體操作層面的溝通。（中新社）"
-    },
-    {
-      "id": "mkt:019e7745-d427-7bb7-9968-0001331b534c",
-      "time": "2026-05-30 13:05:25",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Central SOEs form technology commercialization consortium in Beijing】A technology commercialization consortium for central state-owned enterprises was launched in Beijing on May 30. Guided by the State-owned Assets Supervision and Administration Commission (SASAC) and led by National Energy Group, the consortium aims to align with national strategic priorities and accelerate commercialization by promoting deep integration of technological and industrial innovation and creating a one-stop, full-chain technology commercialization service system. All central SOEs are co-builders; the initiative also draws in research institutes, universities, upstream and downstream industry players and innovative private firms."
     }
   ]
 }
