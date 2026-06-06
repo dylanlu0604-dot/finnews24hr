@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-07 03:49:28",
-  "count": 18811,
+  "updated": "2026-06-07 03:53:20",
+  "count": 18812,
   "items": [
+    {
+      "id": "mkt:019e9e7e-9611-7665-8314-88d289632436",
+      "time": "2026-06-07 03:52:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【IDF says two soldiers killed during operations in southern Lebanon】The Israel Defense Forces said on the 6th that two soldiers recently died while operating in southern Lebanon. A captain wounded in a Hezbollah drone strike on the night of the 4th died in hospital on the morning of the 6th. Separately, a soldier died on the 5th from an apparent accidental weapons discharge while on duty in southern Lebanon."
+    },
+    {
+      "id": "4921431",
+      "time": "2026-06-07 03:51:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱兩名士兵在黎巴嫩南部執行任務期間死亡】當地時間6日，以色列國防軍證實，有兩名以軍士兵近日在黎巴嫩南部執行任務期間死亡。以軍稱，一名以軍上尉此前在4日夜間遭真主黨無人機襲擊受重傷，被送醫後於6日早晨不治身亡。另一起事件發生在5日，一名以軍士兵在黎巴嫩南部執行任務期間疑似武器意外走火死亡。（央視新聞）"
+    },
     {
       "id": "4921430",
       "time": "2026-06-07 03:46:08",
@@ -173605,14 +173625,6 @@
         "Brent"
       ],
       "text": "【Hezbollah launches drone and missile strikes on northern Israel】Foreign media reported Saturday that Hezbollah launched a heavy drone-and-missile attack on northern Israel, striking multiple sites in the Galilee region. Initial salvoes included at least eight missiles toward Israeli positions, with one impact reported in Kiryat Shmona. Hezbollah said it carried out 22 operations against Israeli positions and equipment in the past 24 hours, calling them reprisals for Israeli strikes on civilian areas. The Israeli army confirmed rockets were fired into western Galilee, saying several were intercepted and the remainder fell in open ground with no casualties. Fighting in southern Lebanon has reignited this week and Israel has resumed strikes on southern Beirut suburbs."
-    },
-    {
-      "id": "4908459",
-      "time": "2026-05-31 03:52:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本、美國、菲律賓將於9月舉辦投資論壇，助力馬尼拉人工智慧中心建設。"
     }
   ]
 }
