@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:40:33_
-_本檔包含 4040 則快訊，約 700812 字_
+_更新時間：2026-06-07 00:07:14_
+_本檔包含 4034 則快訊，約 700754 字_
+
+---
+
+### 2026-06-03 23:41:05  #MKT News #Market Themes #The Trump Trade
+
+U.S. Treasury Secretary Bessent said Trump did not participate in high-frequency trading.
+
+---
+
+### 2026-06-03 23:40:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+Iranian Foreign Minister Araghchi said Iranian armed forces are conducting self-defence strikes on targets the US has been permitted to use that have been employed to attack civilian vessels and undermine a ceasefire. He warned any "hostile" action will be met with an immediate and decisive response.
+
+---
+
+### 2026-06-03 23:40:18  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls on Wednesday — The FTSE 100 fell 0.3% on Wednesday, as rising oil prices and renewed concerns over US-Iran negotiations weighed on sentiment. With little fresh progress reported in the talks, escalating tensions in the Middle East added to market uncertainty. US forces intercepted Iranian missiles and drones targeting neighboring countries and later struck a command center inside Iran in response. Banks, miners and defence stocks were mostly weaker, while oil majors provided some support, with Shell and BP rising between 1.7% and 1.9%. B&M European Value Retail surged more than 14% after reporting lower annual profits but continued growth in like-for-like sales across its UK and France operations, with total revenue also supported by new store openings. Meanwhile, Howden Joinery gained more than 3.5% after agreeing to acquire DIY Kitchens in a deal valuing the business at £390 million.
 
 ---
 
@@ -24285,59 +24303,5 @@ Bank of England governor Bailey said the public must be convinced the 2% inf tar
 ### 2026-06-02 22:21:30  #公司 #市場 #國際
 
 【Quantinuum上市在即，量子計算概念股普漲，漲勢將“波及”同行】隨著霍尼韋爾支援的Quantinuum公司首次公開募股（IPO）的臨近，市場對它的期待不斷升溫，量子計算相關公司的股價也隨之集體大漲。IonQ股價漲4.2%。其他上漲的量子計算股票還包括：Rigetti Computing最高漲幅達6.3%，D-Wave最高漲幅達7.3%；Infleqtion Inc.最高漲幅更是達到了12%。IBM（計劃在未來五年內投資超過100億美元以鞏固其在量子計算領域的領先地位）在週二的交易中股價暫時持平；近期，一段將近六個月前唐納德·特朗普盛讚該公司執行長的影片在網路上廣泛流傳，受此影響，IBM的股價此前曾經歷了一波大漲。
-
----
-
-### 2026-06-02 22:21:15  #其他
-
-挪威財政大臣：從歷史經驗來看，各國政府很難精準遴選出具備競爭力的優勢產業。
-
----
-
-### 2026-06-02 22:20:59  #央行 #其他
-
-英國央行行長貝利：我們必須讓公眾相信，2%的通脹目標是切實可行的。
-
----
-
-### 2026-06-02 22:20:47  #MKT News
-
-Norway's finance minister said governments have historically been poor at picking industry winners.
-
----
-
-### 2026-06-02 22:20:32  #其他
-
-前北約秘書長斯托爾滕貝格：需搭建配套框架以推進軍工產業發展。
-
----
-
-### 2026-06-02 22:20:04  #MKT News
-
-Norway's finance minister says a framework is needed to develop the industry.
-
----
-
-### 2026-06-02 22:18:54  #公司
-
-兩名訊息人士透露，英國軍方已開始使用SpaceX公司的“星盾”（Starshield）專案。
-
----
-
-### 2026-06-02 22:18:15  #公司 #國際
-
-【孫正義重登亞洲首富】6月2日，福布斯實時富豪榜單顯示，軟銀集團創始人兼CEO孫正義身家攀升至1007億美元，一舉超越印度安巴尼、阿達尼等富豪，時隔十餘年再度登頂亞洲首富寶座。
-
----
-
-### 2026-06-02 22:17:44  #其他
-
-【杜祥琬院士宣告：從未參與也未委託任何單位將核技術應用於垃圾焚燒】杜祥琬表示，“近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了‘無廢城市’試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。”（澎湃）
-
----
-
-### 2026-06-02 22:17:44  #Trading Economics #Economy #United States #Job Quits #Importance 1
-
-US Job Quits Fall in April — The number of job quits in the US fell to 2.977 million in April 2026 from the downwardly revised 3.160 million in March and below 3.144 million a year ago. It was the lowest reading since mid-2020. The quits rate edged down to 1.9% from 2.0%, marking its lowest reading since 2020 and signaling fewer workers voluntarily leaving their jobs. The number of quits declined primarily in retail trade (-48,000); professional and business services (-31,000); transportation, warehousing, and utilities (-30,000); health care and social assistance (-23,000) and finance & insurance (-22,000). Quits fell across most regions, with declines in the Northeast (-94,000), Midwest (-57,000), and South (-37,000), while the West registered a marginal increase of 5,000.
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:40:33_
-_本檔包含 3954 則快訊，約 701024 字_
+_更新時間：2026-06-07 00:07:14_
+_本檔包含 3956 則快訊，約 700544 字_
+
+---
+
+### 2026-06-05 07:48:28  #觀點
+
+【中信建投：港股本輪主升浪正在確立 網際網路與AI平臺仍是第一主線】中信建投研報表示，港股行情正由前期估值和情緒修復，轉向盈利驗證與風險偏好改善共同驅動的新階段。配置上，網際網路與AI平臺仍是第一主線，高流動性科技龍頭適合作為主升階段核心倉位；創新藥和新消費繼續提供彈性，但都需要從主題交易轉向業績兌現，精選龍頭和高景氣標的；紅利資產迴歸底倉屬性，重在分紅可持續性和現金流質量；港股新股則關注AI、機器人、智慧汽車、創新藥和新消費等稀缺方向。
+
+---
+
+### 2026-06-05 07:48:18  #國際
+
+【普京說俄中是天然的夥伴】俄羅斯總統普京當地時間4日在聖彼得堡會見全球主要通訊社負責人時表示，中國發展強勁，在全球經濟、世界政治及國際事務中扮演著日益重要的角色。俄羅斯對此不只是觀望，更是與中國攜手深化合作。普京說，俄羅斯和中國是天然的夥伴。兩國2001年簽署的《俄中睦鄰友好合作條約》更是為全方位各領域雙邊合作築牢根基、創造前提條件，如今的成果便是印證。
+
+---
+
+### 2026-06-05 07:47:59  #其他
+
+【河南多地以科技賦能助力“三夏”生產】智慧農機自動作業、“雲端”賦能科學排程、線上指揮搶抓農時……記者近日在河南多地採訪瞭解到，在當下農忙時節，河南正以科技賦能“三夏”生產，助力糧食穩產豐收。據瞭解，河南農機雲平臺對接農機數量超過13.8萬臺，其中收穫類農機7萬餘臺。透過“雲端”賦能，有關部門能根據小麥成熟度，科學排程農機，有序組織收穫。（新華社）
+
+---
+
+### 2026-06-05 07:47:44  #國際
+
+【印尼中蘇拉威西省東北部海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月5日6時28分，印尼中蘇拉威西省東北方向70公里海域發生5.6級地震，震源深度91公里。預計不會有海嘯風險。
+
+---
+
+### 2026-06-05 07:46:06  #市場 #國際
+
+【在中東局勢存在不確定性之際，日經指數或將下跌】隨著中東衝突的不確定性持續存在，日本股市或將下跌。新加坡交易所的日經指數期貨下跌0.4%，至67395點。隔夜科技股的下跌也可能拖累市場。投資者正關注伊朗戰爭的發展及其對能源和石化產品價格的影響。日經指數週四下跌1.4%，至67470.69點。
 
 ---
 
@@ -23822,23 +23852,5 @@ U.S. Treasury Secretary Bessent said Congress needs to sort out its internal aff
 ### 2026-06-03 23:41:18  #MKT News #Market Themes #The Trump Trade
 
 U.S. Treasury Secretary Bessent said it is clear Trump has outside managers executing trades.
-
----
-
-### 2026-06-03 23:41:05  #MKT News #Market Themes #The Trump Trade
-
-U.S. Treasury Secretary Bessent said Trump did not participate in high-frequency trading.
-
----
-
-### 2026-06-03 23:40:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Iranian Foreign Minister Araghchi said Iranian armed forces are conducting self-defence strikes on targets the US has been permitted to use that have been employed to attack civilian vessels and undermine a ceasefire. He warned any "hostile" action will be met with an immediate and decisive response.
-
----
-
-### 2026-06-03 23:40:18  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Wednesday — The FTSE 100 fell 0.3% on Wednesday, as rising oil prices and renewed concerns over US-Iran negotiations weighed on sentiment. With little fresh progress reported in the talks, escalating tensions in the Middle East added to market uncertainty. US forces intercepted Iranian missiles and drones targeting neighboring countries and later struck a command center inside Iran in response. Banks, miners and defence stocks were mostly weaker, while oil majors provided some support, with Shell and BP rising between 1.7% and 1.9%. B&M European Value Retail surged more than 14% after reporting lower annual profits but continued growth in like-for-like sales across its UK and France operations, with total revenue also supported by new store openings. Meanwhile, Howden Joinery gained more than 3.5% after agreeing to acquire DIY Kitchens in a deal valuing the business at £390 million.
 
 ---

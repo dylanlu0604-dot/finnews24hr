@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 23:40:33_
-_本檔包含 3642 則快訊，約 700238 字_
+_更新時間：2026-06-07 00:07:14_
+_本檔包含 3643 則快訊，約 700446 字_
+
+---
+
+### 2026-06-02 22:21:15  #其他
+
+挪威財政大臣：從歷史經驗來看，各國政府很難精準遴選出具備競爭力的優勢產業。
+
+---
+
+### 2026-06-02 22:20:59  #央行 #其他
+
+英國央行行長貝利：我們必須讓公眾相信，2%的通脹目標是切實可行的。
+
+---
+
+### 2026-06-02 22:20:47  #MKT News
+
+Norway's finance minister said governments have historically been poor at picking industry winners.
+
+---
+
+### 2026-06-02 22:20:32  #其他
+
+前北約秘書長斯托爾滕貝格：需搭建配套框架以推進軍工產業發展。
+
+---
+
+### 2026-06-02 22:20:04  #MKT News
+
+Norway's finance minister says a framework is needed to develop the industry.
+
+---
+
+### 2026-06-02 22:18:54  #公司
+
+兩名訊息人士透露，英國軍方已開始使用SpaceX公司的“星盾”（Starshield）專案。
+
+---
+
+### 2026-06-02 22:18:15  #公司 #國際
+
+【孫正義重登亞洲首富】6月2日，福布斯實時富豪榜單顯示，軟銀集團創始人兼CEO孫正義身家攀升至1007億美元，一舉超越印度安巴尼、阿達尼等富豪，時隔十餘年再度登頂亞洲首富寶座。
+
+---
+
+### 2026-06-02 22:17:44  #其他
+
+【杜祥琬院士宣告：從未參與也未委託任何單位將核技術應用於垃圾焚燒】杜祥琬表示，“近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了‘無廢城市’試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。”（澎湃）
+
+---
+
+### 2026-06-02 22:17:44  #Trading Economics #Economy #United States #Job Quits #Importance 1
+
+US Job Quits Fall in April — The number of job quits in the US fell to 2.977 million in April 2026 from the downwardly revised 3.160 million in March and below 3.144 million a year ago. It was the lowest reading since mid-2020. The quits rate edged down to 1.9% from 2.0%, marking its lowest reading since 2020 and signaling fewer workers voluntarily leaving their jobs. The number of quits declined primarily in retail trade (-48,000); professional and business services (-31,000); transportation, warehousing, and utilities (-30,000); health care and social assistance (-23,000) and finance & insurance (-22,000). Quits fell across most regions, with declines in the Northeast (-94,000), Midwest (-57,000), and South (-37,000), while the West registered a marginal increase of 5,000.
 
 ---
 
@@ -21910,53 +21964,5 @@ The International Labour Organization said it has rescinded the appointment of i
 ### 2026-06-01 21:04:29  #焦點 #國際
 
 國際勞工組織稱，因美國拖欠會費遲遲未補繳，已決定撤銷該組織副總幹事一職的任命。
-
----
-
-### 2026-06-01 21:04:09  #公司
-
-【順鈉股份：與伊頓在800V資料中心電源及變壓器相關業務上暫無合作】順鈉股份(000533)6月1日於互動平臺表示，目前公司與伊頓在800V資料中心電源、變壓器相關業務上，暫無合作或者供貨關係。
-
----
-
-### 2026-06-01 21:04:06  #市場
-
-受大選結果影響，哥倫比亞比索大漲 3.1%，互換合約價格大幅下跌。
-
----
-
-### 2026-06-01 21:03:33  #其他
-
-【武漢商學院原黨委書記劉志輝接受審查調查】據湖北省紀委監委訊息：武漢商學院原黨委書記劉志輝涉嫌嚴重違紀違法，目前正接受湖北省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-01 21:03:12  #其他
-
-瑞銀將露露樂檬目標價從176美元下調至153美元。
-
----
-
-### 2026-06-01 21:03:05  #公司
-
-【長征十二號乙火箭首飛成功 助力星座組網】6月1日，長征十二號乙遙一運載火箭在東風商業航天創新試驗區發射升空，將搭載的千帆極軌08組衛星順利送入預定軌道，飛行試驗任務取得圓滿成功。長征十二號乙運載火箭是中國航天科技集團商業火箭有限公司抓總研製的新一代單芯級四米級可重複使用運載火箭，主要面向我國大規模網際網路星座組網等商業發射需求。（新華社）
-
----
-
-### 2026-06-01 21:02:52  #其他
-
-美滿電子推出 102.4 太位元每秒交換機。
-
----
-
-### 2026-06-01 21:02:46  #MKT News
-
-【Explosion on Panama-flagged vessel near Umm Qasr port; no casualties reported】On June 1 local time, a port official said a Panama-flagged vessel exploded near Umm Qasr port in southern Iraq. Initial reports indicate the blast was caused by a mechanical failure aboard the ship; no casualties were reported.
-
----
-
-### 2026-06-01 21:02:46  #MKT News
-
-【Quantinuum raises IPO target to $1.46 bln】Quantinuum has increased its IPO size to about $1.46 bln, raising the share count to 26.5 mln and setting a $53-$55 per share range, according to an SEC filing. The company had previously proposed about 21 mln shares at $45-$50. The deal implies an equity value of roughly $14.3 bln. Pricing is expected after the NYSE close on Wednesday, with trading to begin the following day.
 
 ---
