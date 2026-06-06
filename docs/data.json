@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-06 08:56:43",
-  "count": 18783,
+  "updated": "2026-06-06 09:01:02",
+  "count": 18774,
   "items": [
+    {
+      "id": "4920570",
+      "time": "2026-06-06 08:58:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【行業景氣成長週期開啟 多家公司MLCC產品穩步爬坡】近期，多家研究機構對於MLCC（多層陶瓷電容器‌）給出了一致的高景氣度預期。在業內看來，MLCC或面臨著與儲存同樣的市場格局，行業供給逐漸趨緊，庫存水平持續下降，未來半年MLCC價格上漲的確定性正在提高。受益於多重利好的刺激，全球MLCC概念股今年以來走勢極其強勁。截至6月5日，A股市場中的風華高科、潔美科技、三環集團等今年累計漲幅均翻倍；全球MLCC絕對龍頭——日本村田製作所今年以來累計漲幅也超過200%。從A股市場來看，截至當前，佈局MLCC的概念股有20餘隻，包括風華高科、潔美科技、昀冢科技等上、下游核心標的。從機構調研情況來看，截至6月5日，今年以來獲得10家及以上機構調研的MLCC概念股有15只，廈門鎢業、風華高科及國瓷材料均獲得120餘家機構調研。透過投資者關係互動平臺披露的資訊，據記者不完全梳理，目前已有多家公司（或旗下子公司）明確MLCC產品已進行交付或實現產能爬坡，包括信維通訊、斯迪克、宏明電子等9家公司。"
+    },
     {
       "id": "4920563",
       "time": "2026-06-06 08:56:04",
@@ -48,6 +58,14 @@
         "Commodities"
       ],
       "text": "【Egg prices surge in China’s rainy season as capacity cuts, low stocks tighten supply】Contrary to the usual rainy-season decline, Chinese egg prices have risen since mid-April. The main 2607 egg futures contract rallied to 4,485 yuan/500 kg on June 4, the highest since late July 2024, while national wholesale spot prices are over 30% above April 9. Market participants cite 2025 industry losses driving capacity withdrawal, low inventories, festival restocking and speculative fund flows as the primary drivers. In the near term supply tightness is unlikely to fully reverse and prices may remain elevated, though upside volatility at high levels is a growing risk."
+    },
+    {
+      "id": "4920516",
+      "time": "2026-06-06 08:45:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【百億級算力合作大單密集現身 產業邏輯解讀】近期資本市場湧現百億級算力合作大單，各類企業紛紛跨界進入算力賽道。根據中國信通院資料，2026年一季度國內算力租賃市場規模達到680億元，預計全年將突破2600億元。算力行業被視為數字時代的高階寫字樓租賃生意，企業鉅額投入建設機房和設施，再出租算力資源以獲取收益。然而，算力行業門檻高、資金壓力大，許多跨界企業面臨財務成本吞噬利潤的風險。此外，部分合作協議為預估總量，實際營收仍需觀察。算力市場需求巨大，但行業發展仍需提質增效。(央視新聞)"
     },
     {
       "id": "mkt:019e9a62-4522-7665-830e-74cff143ca97",
@@ -173086,100 +173104,6 @@
         "CNH"
       ],
       "text": "【Shanghai Shipping Exchange: transport market improves; freight rates continue rising】Shanghai Shipping Exchange said this week China’s export container transport market continued to improve, with ocean-route freight rates rising and its composite index climbing. The National Bureau of Statistics reported April profits at industrial enterprises above designated size rose 24.7% YoY, the strongest pace since Nov 2023, citing continued rapid industrial production that has accelerated corporate profit growth. On May 29 the Shanghai export container composite freight index stood at 2,571.73, up 15.9% from the previous reading."
-    },
-    {
-      "id": "mkt:019e7665-745f-7bb7-9967-4fd7a4e4c57c",
-      "time": "2026-05-30 09:00:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US Secretary of Defense Hegseth said America First means engaging with realism and clearly defending the country's core national interests."
-    },
-    {
-      "id": "mkt:019e7665-46e6-7bb7-9967-41afec5aa186",
-      "time": "2026-05-30 09:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said the PENTAGON is advancing an America First, common-sense agenda."
-    },
-    {
-      "id": "mkt:019e7665-135e-7bb7-9967-3b5198b3f9ee",
-      "time": "2026-05-30 08:59:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US defense secretary Hegseth said the bold move was driven by strategic necessity."
-    },
-    {
-      "id": "mkt:019e7665-135b-7bb7-9967-36e8b0c509dc",
-      "time": "2026-05-30 08:59:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said those who think they can continue to rely on the generosity of U.S. taxpayers should take note: those days are over."
-    },
-    {
-      "id": "mkt:019e7664-dd58-7bb7-9967-2cf4edbce79d",
-      "time": "2026-05-30 08:59:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said allies who refuse to assume responsibility will face a marked change in how we do business."
-    },
-    {
-      "id": "mkt:019e7664-cb5b-7bb7-9967-244da6a7c140",
-      "time": "2026-05-30 08:59:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Defense Secretary Hegseth said he will prioritize cooperating with \"model\" allies, selecting countries that are most capable, clear-headed and well-prepared."
-    },
-    {
-      "id": "mkt:019e7664-b27a-7bb7-9967-1ab4ef33734b",
-      "time": "2026-05-30 08:59:31",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Defense Secretary Hegseth said President Trump will make a $1.5 trillion intergenerational defense investment this year."
-    },
-    {
-      "id": "mkt:019e7664-a9da-7bb7-9967-10021a2d3d30",
-      "time": "2026-05-30 08:59:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth urged allies and partners to raise defense spending to 3.5% of GDP."
-    },
-    {
-      "id": "mkt:019e7664-92f8-7bb7-9967-0e72bbc83786",
-      "time": "2026-05-30 08:59:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said he has high expectations for Japan as a U.S. ally and urged coordinated action."
-    },
-    {
-      "id": "mkt:019e7664-9172-7bb7-9967-00df31c6989f",
-      "time": "2026-05-30 08:59:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said the U.S. is undertaking a historic mobilization of the defense industrial base’s manufacturing capacity."
-    },
-    {
-      "id": "4907980",
-      "time": "2026-05-30 08:56:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關總署黨委理論學習中心組進行專題學習】會議強調，要深刻把握“十五五”我國發展環境面臨的深刻複雜變化，深入分析百年變局加速演進、新一輪科技革命和產業變革給海關工作帶來的機遇和挑戰，加快推進智慧海關建設和“智關強國”行動，聚焦監管查驗、風險甄別、通關便利化等關鍵環節，強化科技賦能，推動科技與業務深度融合，創新監管方式，提高監管效能。要持續最佳化口岸營商環境，用好“關企對話”等政策直達機制，幫助企業拓市場、增效益，助力高質量發展和高水平開放。要著力構建全鏈條風險防控體系，不斷提高穿透式監管的能力水平，確保“通得快”“管得好”，切實維護國門安全。各級黨委和黨員幹部要把學習貫徹習近平經濟思想與開展樹立和踐行正確政績觀學習教育結合起來，科學決策、真抓實幹，著力補齊海關現代化面臨的短板弱項，及時解決難點堵點卡點，確保取得實實在在的成效。"
     }
   ]
 }
