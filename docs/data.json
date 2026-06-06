@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-06 08:14:27",
-  "count": 18793,
+  "updated": "2026-06-06 08:18:20",
+  "count": 18794,
   "items": [
+    {
+      "id": "4920501",
+      "time": "2026-06-06 08:17:50",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【知情人士：SpaceX為創紀錄IPO預留面向散戶的配售份額】SpaceX正籌備巨型企業IPO史上規模空前的散戶配售方案，埃隆・馬斯克計劃在本次發售股本中，拿出最高四分之一額度向個人投資者開放認購。 多位知情人士透露，這位億萬富豪掌門人希望從上市伊始，就讓中小散戶成為該公司的重要持股群體，這也契合馬斯克長期偏愛普通散戶、優先華爾街機構資金的一貫思路。 其中一名知情人士表示：“馬斯克的核心理念就是拓寬投資准入門檻，這也是他堅持引入散戶參與的原因。”SpaceX於週四上線IPO專屬官網，稱散戶參與具備重要意義，並引導全球投資者透過SoFi、Robinhood、E*Trade、Schwab、Fidelity五家券商申購新股。"
+    },
+    {
+      "id": "mkt:019e9a49-a73f-7665-830e-665b49a4e37a",
+      "time": "2026-06-06 08:16:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he will quickly end conflict with Iran】Trump said at a Wisconsin campaign event on the 5th he would quickly end military hostilities with Iran to remove a key driver of elevated prices. With the midterm elections approaching, US public opinion widely attributes higher oil prices and rising living costs to the US-Iran conflict, putting pressure on Republican electoral prospects."
+    },
     {
       "id": "4920500",
       "time": "2026-06-06 08:12:50",
@@ -173242,14 +173263,6 @@
         "公司"
       ],
       "text": "【商業載人航天穿越者完成Pre-A輪億元融資】近日，北京穿越者載人航天科技有限公司完成Pre-A輪億元融資。本輪由頭部網際網路戰投領投，上市公司探路者集團等產業資本跟投，老股東中天匯富、彬復資本持續加碼，光源資本擔任本輪獨家財務顧問。本輪融資資金將重點用於“穿越者壹號（CYZ1）”載人飛船核心系統研發、地面試驗驗證及關鍵技術攻關。"
-    },
-    {
-      "id": "4907956",
-      "time": "2026-05-30 08:15:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告 東海海域軍事訓練】據中國海事局網站訊息，浙江海事局釋出航行警告，5月30日19時30分至31日10時30分，東海部分海域進行軍事訓練，禁止駛入。"
     }
   ]
 }
