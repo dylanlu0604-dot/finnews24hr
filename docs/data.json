@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-07 03:34:26",
-  "count": 18814,
+  "updated": "2026-06-07 03:38:08",
+  "count": 18811,
   "items": [
+    {
+      "id": "4921426",
+      "time": "2026-06-07 03:36:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓正出席中國－白俄羅斯產業與投資合作論壇並致辭】當地時間2026年6月6日，國家副主席韓正在明斯克出席中國－白俄羅斯產業與投資合作論壇開幕式並致辭。韓正說，習近平主席指出，中國和白俄羅斯是真朋友、好夥伴。近年來，在習近平主席和盧卡申科總統的戰略引領下，兩國關係持續高水平發展，經貿投資合作亮點紛呈，展現出蓬勃生機和強大活力。2025年中白雙邊貿易額是建交之初的近150倍。兩國元首親自關注、親自推動的中白工業園入駐企業達到178家，有力帶動當地經濟社會發展，成果惠及兩國人民。中方願繼續同白方以誠相待、以信相交，積極落實兩國元首重要共識，推動中白全天候全面戰略伙伴關係高水平發展，更好惠及兩國人民。（新華社）"
+    },
+    {
+      "id": "mkt:019e9e6e-3136-7665-8314-7200a57dee40",
+      "time": "2026-06-07 03:34:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng meets Belarus First Deputy Prime Minister Snopkov】On June 6, 2026 in Minsk, Vice President Han Zheng met Belarus First Deputy Prime Minister Snopkov. Han said China and Belarus have strong economic complementarity and broad scope for cooperation, and China is willing to deepen alignment of development strategies to build a higher‑level, more resilient and more sustainable win‑win development space."
+    },
     {
       "id": "4921425",
       "time": "2026-06-07 03:33:08",
@@ -173588,52 +173604,6 @@
         "MKT News"
       ],
       "text": "Indian government says current excise duty rates on petrol and diesel for domestic consumption remain unchanged."
-    },
-    {
-      "id": "mkt:019e7a64-0831-7bb7-996b-59448860f3cd",
-      "time": "2026-05-31 03:37:16",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Iran official says maritime blockade will eventually end】On May 30 local time, Ebrahim Rezaei, spokesman for Iran's parliamentary National Security and Foreign Policy Committee, said the maritime blockade of Iran \"will eventually end, either through negotiations or military action.\""
-    },
-    {
-      "id": "4908454",
-      "time": "2026-05-31 03:37:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：供國內消費的汽油與柴油現行消費稅率保持不變。"
-    },
-    {
-      "id": "4908453",
-      "time": "2026-05-31 03:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：自6月1日起，航空渦輪燃料（ATF）出口的特別額外消費稅（SAED）稅率將定為每升9.5盧比，僅針對該稅種徵收。"
-    },
-    {
-      "id": "4908452",
-      "time": "2026-05-31 03:34:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：自6月1日起，柴油出口關稅稅率將定為每升13.5盧比。"
-    },
-    {
-      "id": "mkt:019e7a61-8e9a-7bb7-996b-54bbcd179964",
-      "time": "2026-05-31 03:34:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Indian government said diesel export duty will be 13.5 rupees per litre from June 1."
     }
   ]
 }
