@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:38:41_
-_本檔包含 3656 則快訊，約 701322 字_
+_更新時間：2026-06-07 02:54:07_
+_本檔包含 3667 則快訊，約 702041 字_
+
+---
+
+### 2026-06-07 02:53:13  #國際
+
+【俄稱控制烏一處居民點 烏稱打擊俄多地目標】當地時間6日，俄羅斯國防部稱，俄軍已控制哈爾科夫州的舍甫琴科居民點，並打擊了烏克蘭的153個區域。包括遠端無人機的生產、儲存、發射場地，燃料、交通和港口基礎設施，以及烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落13枚制導航空炸彈、4枚“海馬斯”火箭彈和911架固定翼無人機。烏克蘭武裝部隊總參謀部6日稱，烏軍襲擊了俄軍人員集結區、無人機控制點和火炮系統等目標。同一天，烏克蘭總統澤連斯基稱，烏無人機飛抵俄聖彼得堡地區，打擊了俄海軍軍火庫及喀琅施塔得軍事基地。此外，烏無人機還打擊了俄南部克拉斯諾達爾地區的一處儲油基地。（央視新聞）
+
+---
+
+### 2026-06-07 02:52:30  #其他
+
+剛果方面表示，埃博拉確診病例已增至488例。
+
+---
+
+### 2026-06-07 02:52:26  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukraine foreign minister Kuleba said Russian forces attacked two civilian search-and-rescue vessels in Ukrainian waters, causing casualties.
+
+---
+
+### 2026-06-07 02:52:20  #國際
+
+烏克蘭副總理庫列巴：俄羅斯武裝部隊襲擊了烏克蘭水域的兩艘民用搜救船，造成人員受傷。
+
+---
+
+### 2026-06-07 02:50:46  #國際
+
+特朗普政府對伊朗最大加密貨幣交易所實施制裁，此舉標誌著美方進一步加大力度，試圖破壞伊朗脫離正規銀行體系運轉所依託的金融架構。
+
+---
+
+### 2026-06-07 02:49:54  #MKT News
+
+TASNIM NEWS: Iraq's prime minister said he plans a formal visit to the United States in the near term, accompanied by a delegation of Iraqi businessmen and entrepreneurs.
+
+---
+
+### 2026-06-07 02:49:22  #國際
+
+日本將菲律賓列為石油儲備援助的首要物件。
+
+---
+
+### 2026-06-07 02:47:22  #國際
+
+【以軍空襲加沙城致6死15傷】據巴勒斯坦通訊社6日報道，以色列軍隊當天空襲加沙城西部一處容納流離失所者的臨時帳篷區，造成包括兩名婦女在內的6人死亡，另有15人受傷。以軍尚未對此發表回應。（新華社）
+
+---
+
+### 2026-06-07 02:45:19  #MKT News #Commodities #Energy
+
+India will raise the retail price of 14.2 kg domestic LPG cylinders by 29 rupees per cylinder, the Economic Times cited the Press Trust of India.
+
+---
+
+### 2026-06-07 02:45:14  #國際
+
+伊朗核問題負責人：布什爾核電站連續第三年躋身全球效率與安全綜合排名前十，其收益已達到建設成本的五倍。
+
+---
+
+### 2026-06-07 02:44:51  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+Israel's Channel 12 reports Israeli military fatalities since the ceasefire with Lebanon have risen to 16.
+
+---
+
+### 2026-06-07 02:44:27  #國際
+
+印度國內烹飪用氣液化石油氣（LPG）價格上調，每罐14.2千克裝氣瓶漲價29盧比。
+
+---
+
+### 2026-06-07 02:44:16  #MKT News
+
+Iranian Students' News Agency said Iran's interior minister received a letter from Pakistan's army chief Asim Munir addressed to Iran's Supreme Leader.
+
+---
+
+### 2026-06-07 02:43:28  #國際
+
+伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。
 
 ---
 
@@ -22065,23 +22149,5 @@ The U.S. Department of Health and Human Services confirmed Americans at high ris
 ### 2026-06-05 08:19:16  #Trading Economics #Economy #Sri Lanka #Tourist Arrivals #Importance 1
 
 Sri Lanka Tourist Arrivals Recover in May — The number of foreign tourist arrivals in Sri Lanka grew by 9.65% year-on-year to 145,745 in May 2026, after a 22.3% slump in the previous month. This marked the highest number of arrivals in three months, with India remaining the top source market, contributing 60,342 visitors and accounting for 42% of total arrivals, continuing its strong position as the leading inbound tourism driver for the island. This was followed by the UK (6%), China (6%), Germany (5%), and Australia (4%). Sri Lanka has set an ambitious target of 3 million arrivals for 2026, after missing the goal last year. Despite a decline of tourist arrivals in the prior months due to the Middle East war conflict, a recovery has been observed with a total of 134,530 tourists visiting the country in the first five months of the year, noting a resurgence in tourist arrivals.
-
----
-
-### 2026-06-05 08:19:05  #觀點
-
-【中信建投：金剛石散熱持續迭代，金剛石熱沉片、金剛石銅複合材料商業化落地最快】中信建投研報認為，算力產業持續擴容帶動晶片整合度與功率密度大幅提升，高熱流密度下傳統銅基散熱材料已達瓶頸。金剛石熱導率遠超銅、銀、矽、碳化矽等材料，是突破高階晶片散熱瓶頸的關鍵方向。目前金剛石散熱材料包括金剛石基複合材料、單晶金剛石、多晶金剛石三大路線，技術路線尚未完全定型，其中金剛石銅複合材料兼顧效能與成本，產業化節奏領先。應用上包含金剛石襯底、金剛石熱沉片、金剛石微通道散熱形態，金剛石熱沉片、金剛石銅複合材料商業化落地最快，國內外廠商已有相關產品。金剛石正從傳統磨料、培育鑽石延展至半導體、大功率器件導熱等功能性材料，AI算力增長正持續開啟超高導熱金剛石材料的增長空間，重點關注產業量產、客戶認證進度。
-
----
-
-### 2026-06-05 08:18:41  #其他
-
-海力士股價跌幅進一步擴大；最新報209.8萬韓元，跌幅8.7%。
-
----
-
-### 2026-06-05 08:17:39  #市場 #國際
-
-【創紀錄干預匯市後 日本5月份持有外國證券的金額大減近760億美元】在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。截至5月底，外匯儲備總額降至1.09萬億美元。外幣存款基本持平，為1620億美元。日本先前公佈的資料顯示，在截至5月28日的一個月內，動用了創紀錄的11.73萬億日元(734億美元)來干預外匯市場。一位知情人士證實，在日元兌美元匯率跌至160.72後，當局在4月30日買入了日元，市場也普遍猜測隨後幾天又進行了多輪買入日元的操作。
 
 ---

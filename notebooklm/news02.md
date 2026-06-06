@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:38:41_
-_本檔包含 3960 則快訊，約 701360 字_
+_更新時間：2026-06-07 02:54:07_
+_本檔包含 3958 則快訊，約 700570 字_
+
+---
+
+### 2026-06-05 08:19:05  #觀點
+
+【中信建投：金剛石散熱持續迭代，金剛石熱沉片、金剛石銅複合材料商業化落地最快】中信建投研報認為，算力產業持續擴容帶動晶片整合度與功率密度大幅提升，高熱流密度下傳統銅基散熱材料已達瓶頸。金剛石熱導率遠超銅、銀、矽、碳化矽等材料，是突破高階晶片散熱瓶頸的關鍵方向。目前金剛石散熱材料包括金剛石基複合材料、單晶金剛石、多晶金剛石三大路線，技術路線尚未完全定型，其中金剛石銅複合材料兼顧效能與成本，產業化節奏領先。應用上包含金剛石襯底、金剛石熱沉片、金剛石微通道散熱形態，金剛石熱沉片、金剛石銅複合材料商業化落地最快，國內外廠商已有相關產品。金剛石正從傳統磨料、培育鑽石延展至半導體、大功率器件導熱等功能性材料，AI算力增長正持續開啟超高導熱金剛石材料的增長空間，重點關注產業量產、客戶認證進度。
+
+---
+
+### 2026-06-05 08:18:41  #其他
+
+海力士股價跌幅進一步擴大；最新報209.8萬韓元，跌幅8.7%。
+
+---
+
+### 2026-06-05 08:17:39  #市場 #國際
+
+【創紀錄干預匯市後 日本5月份持有外國證券的金額大減近760億美元】在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。截至5月底，外匯儲備總額降至1.09萬億美元。外幣存款基本持平，為1620億美元。日本先前公佈的資料顯示，在截至5月28日的一個月內，動用了創紀錄的11.73萬億日元(734億美元)來干預外匯市場。一位知情人士證實，在日元兌美元匯率跌至160.72後，當局在4月30日買入了日元，市場也普遍猜測隨後幾天又進行了多輪買入日元的操作。
 
 ---
 
@@ -23846,35 +23864,5 @@ DAX Finishes on Negative Note — The DAX 40 closed about 1.3% down at 24,812 on
 ### 2026-06-04 00:15:56  #公司
 
 【達利歐稱人工智慧泡沫終將破裂 投資兌現時往往會刺破泡沫】億萬富豪投資人瑞·達利歐表示，火熱的人工智慧市場已顯現出泡沫跡象，而這一泡沫最終會破裂。這位橋水基金創始人週三在接受採訪時說：“所有重大的科技變革都會催生泡沫。沒有人能把握得恰到好處。你要麼投入大量資金去搶佔市場份額，不去擔心是否投得過多；要麼投入不足，結果失去市場份額。”達利歐表示，泡沫往往會在投資需要兌現回報時破裂。他提到市場對於AI公司盈利能力的擔憂。他說：“刺破泡沫的過程，就是把財富轉化為現金的過程。”他還表示，當下由AI驅動的市場“正沿著這樣的路徑演進，儘管這是一項了不起的技術”。
-
----
-
-### 2026-06-04 00:14:07  #MKT News
-
-【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council non‑permanent seats】The UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council; one seat remains to be decided in a second ballot between the Philippines and Kyrgyzstan. Germany failed to win a 2027–28 non‑permanent seat. Terms for the newly elected members run Jan. 1, 2027–Dec. 31, 2028.
-
----
-
-### 2026-06-04 00:13:52  #公司
-
-霍尼韋爾高管預計，到2030年，配備該公司HTF7000發動機的飛機數量將以約9%的年複合增長率增長。
-
----
-
-### 2026-06-04 00:13:09  #MKT News #Important
-
-【Rubio says US military operation against Iran has ended】On the 3rd at a House Appropriations Committee hearing, US Secretary of State Rubio said the US military campaign against Iran, "Operation Epic Fury," has ended and that the US "has achieved victory." Rubio said the US is no longer striking targets inside Iran because the operation has concluded, and added that while US and Israeli actions have significantly degraded Iranian military capability, Iran still retains some drone and maritime combat capabilities.
-
----
-
-### 2026-06-04 00:12:15  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 1.07 percent on Wednesday to close at 50038 points. Leading the losses are Stellantis N.V. (-3.98%), Amplifon (-3.20%) and Leonardo SpA (-2.71%).
-
----
-
-### 2026-06-04 00:11:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 1.31% Lower — The DAX Index dropped 328 points or 1.31 percent on Wednesday to close at 24796 points. Losses were led by SAP (-4.31%), Deutsche Bank (-3.65%) and HeidelbergCement (-3.44%).
 
 ---

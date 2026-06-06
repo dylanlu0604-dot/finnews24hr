@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:38:41_
-_本檔包含 3513 則快訊，約 701145 字_
+_更新時間：2026-06-07 02:54:07_
+_本檔包含 3528 則快訊，約 701125 字_
+
+---
+
+### 2026-06-01 21:26:03  #市場 #焦點
+
+上海原油連續主力合約日內漲4%，現報608.20元。
+
+---
+
+### 2026-06-01 21:25:55  #國際
+
+烏克蘭農業遊說團體UCAB表示，烏克蘭5月農產品出口較4月下降8.6%，至520萬噸。
+
+---
+
+### 2026-06-01 21:25:16  #央行 #國際
+
+交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。
+
+---
+
+### 2026-06-01 21:25:06  #市場
+
+WTI原油日內漲6%，現報92.62美元/桶。
+
+---
+
+### 2026-06-01 21:24:36  #市場
+
+布倫特原油日內漲5%，現報95.69美元/桶。
+
+---
+
+### 2026-06-01 21:23:53  #MKT News #DXY #Impact bullish
+
+DXY rose to an intraday high of 99.23 on reports that Iran halted communications with the US.
+
+---
+
+### 2026-06-01 21:23:37  #公司 #市場
+
+蘇黎世機場股份公司股價下跌2.9%。
+
+---
+
+### 2026-06-01 21:23:27  #觀點
+
+加皇資本市場將Meta Platforms目標價維持在810.00美元。
+
+---
+
+### 2026-06-01 21:23:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,470/oz, down 1.54% on the day.
+
+---
+
+### 2026-06-01 21:23:11  #其他
+
+美元創下日內新高。
+
+---
+
+### 2026-06-01 21:22:56  #公司 #市場
+
+法蘭克福機場管理集團股價下跌3.2%。
+
+---
+
+### 2026-06-01 21:22:44  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Main crude futures contracts rose in short-term trade: SC crude up 3.25% at 603.8 yuan/bbl; low-sulfur fuel oil (LU) up 2.76% at 4,773 yuan/tonne; fuel oil up 2.24% at 3,924 yuan/tonne; bitumen up 3.21% at 4,373 yuan/tonne.
+
+---
+
+### 2026-06-01 21:22:15  #市場 #焦點
+
+現貨黃金失守4470美元/盎司，日內跌1.56%。
+
+---
+
+### 2026-06-01 21:21:38  #MKT News #Important
+
+WTI crude futures jumped about 5% intraday to $91.74/bbl.
+
+---
+
+### 2026-06-01 21:21:38  #市場 #焦點
+
+WTI原油突破92美元/桶，日內漲5.31%。
+
+---
+
+### 2026-06-01 21:21:36  #市場 #焦點
+
+紐約期金失守4500美元/盎司，日內跌2.03%。
+
+---
+
+### 2026-06-01 21:21:34  #市場
+
+紐約期金日內跌2%，現報4501.08美元/盎司。
+
+---
+
+### 2026-06-01 21:21:33  #市場 #焦點
+
+布倫特原油突破95美元/桶，日內漲4.44%。
+
+---
+
+### 2026-06-01 21:21:33  #市場 #焦點
+
+甲醇連續主力合約日內漲3%，現報2910.00元。
+
+---
+
+### 2026-06-01 21:21:28  #MKT News
+
+Saudi Arabia condemned Israel's 'aggression' against Lebanon, SPA said.
+
+---
+
+### 2026-06-01 21:21:09  #國際
+
+沙烏地阿拉伯譴責以色列對黎巴嫩實施侵略行為。
+
+---
+
+### 2026-06-01 21:20:47  #市場 #焦點
+
+WTI原油日內漲5%，現報91.74美元/桶。
+
+---
+
+### 2026-06-01 21:20:38  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Reports said U.S. Treasuries extended losses after Iran halted communications with the U.S.
+
+---
+
+### 2026-06-01 21:20:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran suspends mediator-led U.S. talks, orders full blockade of Strait of Hormuz】Iranian state media said Tehran has suspended mediator-led negotiations and document exchanges with the United States, citing Israeli strikes on Lebanon and ceasefire violations across multiple fronts. Iran and the Axis of Resistance said they will fully block the Strait of Hormuz and open other fronts, including the Mandeb Strait, to punish Israel and its supporters. Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from occupied areas in Lebanon before talks resume; Iran said it will not negotiate until those conditions are met.
 
 ---
 
@@ -21158,59 +21302,5 @@ Israel Defense Forces said two rockets launched from Lebanon by Hezbollah were i
 ### 2026-05-31 02:57:52  #其他
 
 真主黨：截至目前，敵方始終未能攻佔黎巴嫩南部的祖塔爾·沙爾基耶、亞馬爾·沙基夫與德拜因三地。
-
----
-
-### 2026-05-31 02:49:33  #MKT News
-
-Israel Defense Forces: preliminary reports indicate sirens sounded across multiple areas in northern Israel; details are being reviewed.
-
----
-
-### 2026-05-31 02:49:16  #MKT News #9984.T #Impact bullish
-
-SoftBank has pledged €75 bln to build what it says will be Europe’s largest AI facility in France, the Financial Times reports.
-
----
-
-### 2026-05-31 02:47:30  #國際
-
-【軟銀承諾斥資750億歐元在法國建設人工智慧設施】軟銀承諾最高投入750億歐元，在法國打造大型人工智慧計算叢集網路，該專案將成為歐洲規模最大的資料中心工程。這也是軟銀在美國以外完成的單筆最大規模人工智慧投資。知情人士稱，今年4月初法國總統馬克龍與孫正義在東京共進晚餐後，雙方迅速敲定了此項合作。軟銀首期將牽頭投入450億歐元，計劃到2031年在上法蘭西大區建成3.1吉瓦的算力規模，後續還規劃新增2吉瓦算力。專案核心設施之一落地敦刻爾克，軟銀將與施耐德電氣攜手，在此打造人工智慧基礎設施與機器人制造中心。該區位地理位置優越，可輻射倫敦、布魯塞爾、阿姆斯特丹等地的客戶。整個專案規劃總算力達5吉瓦，若全部落成，軟銀的總投資額將達到約750億歐元。
-
----
-
-### 2026-05-31 02:42:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian state television said Iran has obtained an informal text of a memorandum of understanding with the United States. The text says it would give Iran the right to determine the nature of vessels in the Strait of Hormuz and to set transit routes and fees.
-
----
-
-### 2026-05-31 02:42:02  #MKT News
-
-Al Jazeera reported the Israeli Interior Ministry said it will close schools in northern border areas, including Mellon and Nahariya, and impose restrictions on public gatherings.
-
----
-
-### 2026-05-31 02:41:15  #其他
-
-軟銀承諾出資750億歐元，在法國建設人工智慧設施。
-
----
-
-### 2026-05-31 02:41:07  #國際
-
-特朗普將擔任6月24日開幕的美國大型州博覽會主講嘉賓。
-
----
-
-### 2026-05-31 02:40:21  #MKT News
-
-【China launches satellite internet technology test satellite】China launched a satellite internet technology test satellite on May 31 at 02:07 from the Xichang Satellite Launch Center aboard a Long March 2D rocket; the satellite reached its designated orbit and the mission was declared successful. The satellite will test direct-to-device mobile broadband and space-to-ground network integration. The launch was the 646th flight of the Long March series of carrier rockets.
-
----
-
-### 2026-05-31 02:39:51  #其他
-
-【我國成功發射衛星網際網路技術試驗衛星】5月31日02時07分，我國在西昌衛星發射中心使用長征二號丁運載火箭，成功將衛星網際網路技術試驗衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 衛星網際網路技術試驗衛星主要用於開展手機寬頻直連衛星、天地網路融合等技術試驗驗證。 這次任務是長征系列運載火箭的第646次飛行。（新華社）
 
 ---

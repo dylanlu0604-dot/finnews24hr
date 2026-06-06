@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:38:41_
-_本檔包含 4026 則快訊，約 701037 字_
+_更新時間：2026-06-07 02:54:07_
+_本檔包含 4021 則快訊，約 701028 字_
+
+---
+
+### 2026-06-04 00:14:07  #MKT News
+
+【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council non‑permanent seats】The UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council; one seat remains to be decided in a second ballot between the Philippines and Kyrgyzstan. Germany failed to win a 2027–28 non‑permanent seat. Terms for the newly elected members run Jan. 1, 2027–Dec. 31, 2028.
+
+---
+
+### 2026-06-04 00:13:52  #公司
+
+霍尼韋爾高管預計，到2030年，配備該公司HTF7000發動機的飛機數量將以約9%的年複合增長率增長。
+
+---
+
+### 2026-06-04 00:13:09  #MKT News #Important
+
+【Rubio says US military operation against Iran has ended】On the 3rd at a House Appropriations Committee hearing, US Secretary of State Rubio said the US military campaign against Iran, "Operation Epic Fury," has ended and that the US "has achieved victory." Rubio said the US is no longer striking targets inside Iran because the operation has concluded, and added that while US and Israeli actions have significantly degraded Iranian military capability, Iran still retains some drone and maritime combat capabilities.
+
+---
+
+### 2026-06-04 00:12:15  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 1.07 percent on Wednesday to close at 50038 points. Leading the losses are Stellantis N.V. (-3.98%), Amplifon (-3.20%) and Leonardo SpA (-2.71%).
+
+---
+
+### 2026-06-04 00:11:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 1.31% Lower — The DAX Index dropped 328 points or 1.31 percent on Wednesday to close at 24796 points. Losses were led by SAP (-4.31%), Deutsche Bank (-3.65%) and HeidelbergCement (-3.44%).
 
 ---
 
@@ -24195,65 +24225,5 @@ U.S. Secretary of State Rubio said Iran must reopen the Strait of Hormuz.
 ### 2026-06-02 22:45:19  #市場 #國際
 
 【大量精煉銅或流入美國】6月伊始，紐約銅與倫敦銅期貨延續上行趨勢。據路透社報道，由於美國可能在6月底決定是否對精煉銅加徵進口關稅，引發市場緊張情緒，美國貿易商開始提前備貨，疊加市場套利操作再度升溫等因素，推動全球銅市進入高位博弈階段。今天（2日），國際銅價繼續走高。資料顯示，截至6月1日收盤，紐約商品交易所銅期貨主力合約價格在近一個月的時間裡累計漲幅達10%，同一時期內，倫敦金屬交易所三個月銅期貨價格的累計漲幅約為6.5%。（央視財經）
-
----
-
-### 2026-06-02 22:43:20  #央行 #其他
-
-英國央行行長貝利警告稱，並非所有人工智慧概念股都會成為贏家。
-
----
-
-### 2026-06-02 22:42:10  #國際
-
-市場訊息：美國政府正考慮對數十億美元聯邦撥款設定政治測試。
-
----
-
-### 2026-06-02 22:41:54  #央行 #其他
-
-英國央行行長貝利：月度國內生產總值（GDP）資料的可靠性存疑。
-
----
-
-### 2026-06-02 22:41:48  #MKT News #GBPUSD #Impact bearish
-
-Bank of England Governor Bailey said the reliability of monthly GDP data is questionable.
-
----
-
-### 2026-06-02 22:41:33  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-【Unitree says NVIDIA-backed H2+ humanoid robot to debut in H2】NVIDIA CEO Jensen Huang announced a collaboration with Unitree Robotics on a humanoid reference design named H2+. At a June 2 media visit to its Hangzhou facility, Unitree said H2+ is built on NVIDIA’s compute platform, delivers higher compute performance than prior models and will debut in H2 this year.
-
----
-
-### 2026-06-02 22:41:29  #其他
-
-【柳州螺螄粉全球圈粉 地方特產帶飛千億量級產業鏈】2025年，柳州螺螄粉全產業鏈營收近千億元，預包裝產品遠銷全球40多個國家和地區。從風味獨特的街邊小吃，蛻變為標準化生產、規模化運營的工業化美食，柳州螺螄粉產業在高速擴容的同時，行業同質化競爭加劇，不少企業陷入增長瓶頸。轉型生產冰鮮螺螄粉，成為破局關鍵。為匹配冰鮮螺螄粉“多物料一體化”包裝需求，裝置服務商定製開發產線，包裝環節效率提升了70%。吉林是我國野山參核心產區，2025年人參產業綜合產值突破1000億元。過去，參農靠天吃飯，種質雜亂、產量不穩、品質參差不齊，好資源難以轉化為產業優勢。吉林農業大學團隊，深耕人參育種近30年，篩選保育優良品系。當地已培育審定32個人參優良品種，搭建“企業+合作社+參農”繁育聯盟，讓人參種植從“憑經驗”轉向“靠標準”。螺螄粉、野山參都是傳統的地方特色產業，如今，現代服務業為它們的發展注入了新能量。產業一線的實踐證明，服務業既能紓困破局、雪中送炭，也能提質增效、錦上添花。定製化、精細化的現代服務業，將助力全國各地大量的特色產業破局成長、行穩致遠。（央視財經）
-
----
-
-### 2026-06-02 22:41:23  #宏觀 #公司 #國際
-
-【宇樹回應與英偉達合作機器人：下半年新產品亮相】日前，英偉達執行長黃仁勳宣佈，英偉達已與宇樹科技合作，推出新一代人形機器人參考設計“H2+”。6月2日，由國務院新聞辦公室組織的“外媒看中國”活動走進浙江杭州，中外媒體一同來到位於杭州市濱江區的宇樹科技進行採訪。圍繞前述廣泛關注的話題，宇樹科技工作人員表示，新的“H2+”機器人基於英偉達的算力平臺研發，會比之前機器人的算力水平更好，新產品將於今年下半年亮相。（新京報）
-
----
-
-### 2026-06-02 22:41:13  #MKT News
-
-Bailey said the Bank of England places very low weight on preliminary employment data.
-
----
-
-### 2026-06-02 22:40:55  #央行 #國際
-
-英國央行行長貝利：初值非農就業資料參考價值有限。
-
----
-
-### 2026-06-02 22:40:38  #MKT News #GBPUSD #Impact bullish
-
-Bank of England Governor Bailey said the Labour Force Survey participation rate has returned to pre-pandemic levels.
 
 ---

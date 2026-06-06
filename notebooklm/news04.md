@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 02:38:41_
-_本檔包含 3649 則快訊，約 701325 字_
+_更新時間：2026-06-07 02:54:07_
+_本檔包含 3635 則快訊，約 701088 字_
+
+---
+
+### 2026-06-02 22:43:20  #央行 #其他
+
+英國央行行長貝利警告稱，並非所有人工智慧概念股都會成為贏家。
+
+---
+
+### 2026-06-02 22:42:10  #國際
+
+市場訊息：美國政府正考慮對數十億美元聯邦撥款設定政治測試。
+
+---
+
+### 2026-06-02 22:41:54  #央行 #其他
+
+英國央行行長貝利：月度國內生產總值（GDP）資料的可靠性存疑。
+
+---
+
+### 2026-06-02 22:41:48  #MKT News #GBPUSD #Impact bearish
+
+Bank of England Governor Bailey said the reliability of monthly GDP data is questionable.
+
+---
+
+### 2026-06-02 22:41:33  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+【Unitree says NVIDIA-backed H2+ humanoid robot to debut in H2】NVIDIA CEO Jensen Huang announced a collaboration with Unitree Robotics on a humanoid reference design named H2+. At a June 2 media visit to its Hangzhou facility, Unitree said H2+ is built on NVIDIA’s compute platform, delivers higher compute performance than prior models and will debut in H2 this year.
+
+---
+
+### 2026-06-02 22:41:29  #其他
+
+【柳州螺螄粉全球圈粉 地方特產帶飛千億量級產業鏈】2025年，柳州螺螄粉全產業鏈營收近千億元，預包裝產品遠銷全球40多個國家和地區。從風味獨特的街邊小吃，蛻變為標準化生產、規模化運營的工業化美食，柳州螺螄粉產業在高速擴容的同時，行業同質化競爭加劇，不少企業陷入增長瓶頸。轉型生產冰鮮螺螄粉，成為破局關鍵。為匹配冰鮮螺螄粉“多物料一體化”包裝需求，裝置服務商定製開發產線，包裝環節效率提升了70%。吉林是我國野山參核心產區，2025年人參產業綜合產值突破1000億元。過去，參農靠天吃飯，種質雜亂、產量不穩、品質參差不齊，好資源難以轉化為產業優勢。吉林農業大學團隊，深耕人參育種近30年，篩選保育優良品系。當地已培育審定32個人參優良品種，搭建“企業+合作社+參農”繁育聯盟，讓人參種植從“憑經驗”轉向“靠標準”。螺螄粉、野山參都是傳統的地方特色產業，如今，現代服務業為它們的發展注入了新能量。產業一線的實踐證明，服務業既能紓困破局、雪中送炭，也能提質增效、錦上添花。定製化、精細化的現代服務業，將助力全國各地大量的特色產業破局成長、行穩致遠。（央視財經）
+
+---
+
+### 2026-06-02 22:41:23  #宏觀 #公司 #國際
+
+【宇樹回應與英偉達合作機器人：下半年新產品亮相】日前，英偉達執行長黃仁勳宣佈，英偉達已與宇樹科技合作，推出新一代人形機器人參考設計“H2+”。6月2日，由國務院新聞辦公室組織的“外媒看中國”活動走進浙江杭州，中外媒體一同來到位於杭州市濱江區的宇樹科技進行採訪。圍繞前述廣泛關注的話題，宇樹科技工作人員表示，新的“H2+”機器人基於英偉達的算力平臺研發，會比之前機器人的算力水平更好，新產品將於今年下半年亮相。（新京報）
+
+---
+
+### 2026-06-02 22:41:13  #MKT News
+
+Bailey said the Bank of England places very low weight on preliminary employment data.
+
+---
+
+### 2026-06-02 22:40:55  #央行 #國際
+
+英國央行行長貝利：初值非農就業資料參考價值有限。
+
+---
+
+### 2026-06-02 22:40:38  #MKT News #GBPUSD #Impact bullish
+
+Bank of England Governor Bailey said the Labour Force Survey participation rate has returned to pre-pandemic levels.
 
 ---
 
@@ -21847,149 +21907,5 @@ Market pricing shows expectations of a 25bp ECB rate hike in June are fully pric
 ### 2026-06-01 21:26:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
 
 SC Shanghai crude main contract rose 4.00% intraday to 608.20 yuan/barrel.
-
----
-
-### 2026-06-01 21:26:03  #市場 #焦點
-
-上海原油連續主力合約日內漲4%，現報608.20元。
-
----
-
-### 2026-06-01 21:25:55  #國際
-
-烏克蘭農業遊說團體UCAB表示，烏克蘭5月農產品出口較4月下降8.6%，至520萬噸。
-
----
-
-### 2026-06-01 21:25:16  #央行 #國際
-
-交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。
-
----
-
-### 2026-06-01 21:25:06  #市場
-
-WTI原油日內漲6%，現報92.62美元/桶。
-
----
-
-### 2026-06-01 21:24:36  #市場
-
-布倫特原油日內漲5%，現報95.69美元/桶。
-
----
-
-### 2026-06-01 21:23:53  #MKT News #DXY #Impact bullish
-
-DXY rose to an intraday high of 99.23 on reports that Iran halted communications with the US.
-
----
-
-### 2026-06-01 21:23:37  #公司 #市場
-
-蘇黎世機場股份公司股價下跌2.9%。
-
----
-
-### 2026-06-01 21:23:27  #觀點
-
-加皇資本市場將Meta Platforms目標價維持在810.00美元。
-
----
-
-### 2026-06-01 21:23:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,470/oz, down 1.54% on the day.
-
----
-
-### 2026-06-01 21:23:11  #其他
-
-美元創下日內新高。
-
----
-
-### 2026-06-01 21:22:56  #公司 #市場
-
-法蘭克福機場管理集團股價下跌3.2%。
-
----
-
-### 2026-06-01 21:22:44  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Main crude futures contracts rose in short-term trade: SC crude up 3.25% at 603.8 yuan/bbl; low-sulfur fuel oil (LU) up 2.76% at 4,773 yuan/tonne; fuel oil up 2.24% at 3,924 yuan/tonne; bitumen up 3.21% at 4,373 yuan/tonne.
-
----
-
-### 2026-06-01 21:22:15  #市場 #焦點
-
-現貨黃金失守4470美元/盎司，日內跌1.56%。
-
----
-
-### 2026-06-01 21:21:38  #MKT News #Important
-
-WTI crude futures jumped about 5% intraday to $91.74/bbl.
-
----
-
-### 2026-06-01 21:21:38  #市場 #焦點
-
-WTI原油突破92美元/桶，日內漲5.31%。
-
----
-
-### 2026-06-01 21:21:36  #市場 #焦點
-
-紐約期金失守4500美元/盎司，日內跌2.03%。
-
----
-
-### 2026-06-01 21:21:34  #市場
-
-紐約期金日內跌2%，現報4501.08美元/盎司。
-
----
-
-### 2026-06-01 21:21:33  #市場 #焦點
-
-布倫特原油突破95美元/桶，日內漲4.44%。
-
----
-
-### 2026-06-01 21:21:33  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報2910.00元。
-
----
-
-### 2026-06-01 21:21:28  #MKT News
-
-Saudi Arabia condemned Israel's 'aggression' against Lebanon, SPA said.
-
----
-
-### 2026-06-01 21:21:09  #國際
-
-沙烏地阿拉伯譴責以色列對黎巴嫩實施侵略行為。
-
----
-
-### 2026-06-01 21:20:47  #市場 #焦點
-
-WTI原油日內漲5%，現報91.74美元/桶。
-
----
-
-### 2026-06-01 21:20:38  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Reports said U.S. Treasuries extended losses after Iran halted communications with the U.S.
-
----
-
-### 2026-06-01 21:20:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran suspends mediator-led U.S. talks, orders full blockade of Strait of Hormuz】Iranian state media said Tehran has suspended mediator-led negotiations and document exchanges with the United States, citing Israeli strikes on Lebanon and ceasefire violations across multiple fronts. Iran and the Axis of Resistance said they will fully block the Strait of Hormuz and open other fronts, including the Mandeb Strait, to punish Israel and its supporters. Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from occupied areas in Lebanon before talks resume; Iran said it will not negotiate until those conditions are met.
 
 ---
