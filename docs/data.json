@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-07 04:00:36",
-  "count": 18814,
+  "updated": "2026-06-07 04:04:28",
+  "count": 18817,
   "items": [
+    {
+      "id": "4921436",
+      "time": "2026-06-07 04:03:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行領跑G7鷹派陣營 加息箭在弦上】歐元區即將迎來加息，歐洲央行由此成為伊朗戰爭引發全球緊縮浪潮的先鋒。市場預計該行下週四將加息25個基點，這將是當前最引人注目的政策動作 —— 發達經濟體中，此前僅澳大利亞、挪威等小型央行採取過類似舉措。美國總統特朗普對伊朗發動軍事打擊，引發能源價格劇烈震盪。歐洲央行此舉旨在遏制2023年以來最高通脹率固化風險。"
+    },
+    {
+      "id": "mkt:019e9e88-3172-7665-8314-9a1a85f97d0b",
+      "time": "2026-06-07 04:03:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pakistan interior minister arrives in Tehran to mediate Iran–US tensions】Pakistan Interior Minister Naqvi arrived in Tehran on the 6th and is expected to hold talks with Iranian officials. The visit is aimed at mediating and easing tensions between Iran and the United States; Naqvi is scheduled to meet Foreign Minister Abbas Araghchi on the 7th."
+    },
+    {
+      "id": "mkt:019e9e87-7536-7665-8314-967e300dd533",
+      "time": "2026-06-07 04:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Iran, Pakistan interior ministers meet; agree to raise annual trade target to $10bln】On the evening of the 6th local time, Iranian Interior Minister Momeni met visiting Pakistani Interior Minister Nakevi. Momeni said the visit will focus on bilateral issues including border security, counternarcotics and counterterrorism, and that both sides agreed to raise annual bilateral trade from $3bln to $10bln. Momeni said Iran welcomes Pakistan’s positive role in easing Iran‑US tensions. Nakevi said Iran and Pakistan have brotherly ties and delivered a special letter to Iran’s Supreme Leader from Pakistan’s army chief Munir and Prime Minister Sharif; he added, I consider this message very important. I hope everything goes smoothly and the crisis ends soon."
+    },
+    {
+      "id": "4921435",
+      "time": "2026-06-07 04:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部稱13小時內攔截並擊落300多架烏無人機】俄羅斯國防部6日晚間通報稱，當地時間7時至20時，俄防空系統在別爾哥羅德州、布良斯克州和莫斯科州等多個地區攔截並擊落339架烏克蘭無人機。（新華社）"
+    },
     {
       "id": "4921434",
       "time": "2026-06-07 03:59:50",
@@ -173625,18 +173663,6 @@
         "DXY"
       ],
       "text": "Israel Defense Forces said after an alert in the Rosh Hanikra area it detected a suspicious airborne target entering Israeli airspace from Lebanon."
-    },
-    {
-      "id": "mkt:019e7a79-fbb2-7bb7-996b-7717b424b874",
-      "time": "2026-05-31 04:01:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Channel 15, citing sources, said Israel-Lebanon talks held at the Pentagon produced no progress."
     }
   ]
 }
