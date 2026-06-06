@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-07 00:11:26",
-  "count": 18785,
+  "updated": "2026-06-07 00:15:32",
+  "count": 18784,
   "items": [
+    {
+      "id": "mkt:019e9db5-53fc-7665-8313-7693411e127d",
+      "time": "2026-06-07 00:12:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump retweeted a White House social-media post on employment data saying, 'Jobs, jobs, jobs. Data don't lie.'"
+    },
     {
       "id": "mkt:019e9db3-3606-7665-8313-6c05208a5a15",
       "time": "2026-06-07 00:10:28",
@@ -173368,22 +173378,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera reported Israel's interior ministry said rocket alerts sounded across multiple areas of the Galilee Heights."
-    },
-    {
-      "id": "mkt:019e79ab-4712-7bb7-996a-6fb5b52eca62",
-      "time": "2026-05-31 00:15:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will not perform at the \"Freedom 250\" concert but will speak at a campaign rally at the same Washington, D.C. venue."
-    },
-    {
-      "id": "4908403",
-      "time": "2026-05-31 00:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我將不在“自由250”音樂會上演出，改為在華盛頓特區同一地點的競選集會上發表演講。"
     }
   ]
 }
