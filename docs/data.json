@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-06 17:09:25",
-  "count": 18809,
+  "updated": "2026-06-06 17:13:18",
+  "count": 18808,
   "items": [
+    {
+      "id": "mkt:019e9c32-f27c-7665-8311-9e9d78b214b8",
+      "time": "2026-06-06 17:10:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wuxi to expand wafer manufacturing, boost advanced packaging and testing, pivot to equipment and materials and target emerging fields】Wuxi held a city-level meeting on integrated circuit and AI industry development, calling for urgent action to seize AI opportunities by expanding wafer manufacturing, upgrading advanced packaging and testing, pivoting toward equipment and materials, pursuing breakthroughs in high-end design and R&D in emerging fields to accelerate high-quality growth of the city's IC and AI sectors."
+    },
+    {
+      "id": "mkt:019e9c32-049b-7665-8311-97f5867c94d4",
+      "time": "2026-06-06 17:09:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA reports Russia says it has captured Shevchenkove in Ukraine's Kharkiv region."
+    },
     {
       "id": "4921225",
       "time": "2026-06-06 17:08:48",
@@ -173552,37 +173570,6 @@
         "CNH"
       ],
       "text": "【CPCA's Cui Dongshu: China ~31% of global car sales in Jan-Apr 2026】CPCA secretary-general Cui Dongshu said global auto sales in 2025 were 96.89 mln units, up 6% YoY. World sales in April 2026 were 7.99 mln, up 4% YoY; Jan–Apr 2026 totaled 30.96 mln, up 1% YoY. Early-year growth was weak as the US and China posted relative declines. China’s share of global auto sales fell to 30.9% in Jan–Apr 2026 from 35.4% in 2025, a decline Cui attributes largely to Spring Festival timing. He said policy stimulus effects are re-emerging and China’s auto market is expected to gradually strengthen from H2."
-    },
-    {
-      "id": "em:jjsj_zgsj:202605303755067294",
-      "time": "2026-05-30 17:12:09",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【乘聯分會崔東樹：2026年1-4月中國佔世界汽車份額31%】5月30日，乘聯分會秘書長崔東樹發文表示，2025年全球汽車銷量9689萬臺，同比增長6%。2026年4月的世界汽車銷量達到799萬臺，同比增4%。2026年1-4月世界汽車銷量達到3096萬臺，同比增1%。"
-    },
-    {
-      "id": "4908203",
-      "time": "2026-05-30 17:11:47",
-      "tags": [
-        "行業",
-        "市場",
-        "國際"
-      ],
-      "text": "【乘聯分會崔東樹：2026年1-4月中國佔世界汽車份額31%】5月30日，乘聯分會秘書長崔東樹發文表示，2025年全球汽車銷量9689萬臺，同比增長6%。2026年4月的世界汽車銷量達到799萬臺，同比增4%。2026年1-4月世界汽車銷量達到3096萬臺，同比增1%。隨著美國、中國車市的年初相對負增長，2026年1-4月世界車市銷量增長不強。2025年中國達到世界汽車的35.4%的份額；2026年初的中國份額30.9%，年初較低是春節因素的異常體現。隨著政策刺激效果逐步恢復顯現，下半年開始中國車市預計逐步走強。"
-    },
-    {
-      "id": "mkt:019e7825-43a7-7bb7-9968-f3ec6a2caa66",
-      "time": "2026-05-30 17:09:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Sources: Iran strike on U.S. base in Kuwait lightly wounds several U.S. personnel】U.S. sources on the 30th said Iran fired ballistic missiles at a U.S. air base in Kuwait, lightly injuring several U.S. personnel. Kuwaiti air defenses intercepted missiles identified as Conqueror-110, but debris fell on Ali Al Salem Air Base, destroying one MQ-9 Reaper and severely damaging another. U.S. Central Command did not immediately comment on the anonymous account; CENTCOM had on the 28th accused Iran of firing missiles into Kuwait. Iran said the strike was retaliation for a U.S. attack on Abbas Port."
     }
   ]
 }
