@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-06 10:23:19",
-  "count": 18771,
+  "updated": "2026-06-06 10:27:14",
+  "count": 18773,
   "items": [
+    {
+      "id": "mkt:019e9ac0-1f91-7665-830f-3df42c5953c8",
+      "time": "2026-06-06 10:25:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the United States would be held responsible if US \"hooligan\" actions continue and lead to a full closure of the Strait of Hormuz and disruption to oil and gas exports."
+    },
+    {
+      "id": "em:qqyh_mlc:202606063762533714",
+      "time": "2026-06-06 10:23:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：5月非農再超預期推升美聯儲加息必要性】華泰證券研報稱，2026年5月美國新增非農就業17.2萬，高於彭博一致預期的8.5萬，前兩個月累計上修9.3萬；5月失業率、勞動參與率分別維持在4.3%、61.8%，均符合預期（彭博一致預期，下同）；小時工資環比增速邊際上行0.1pp至0.3%，同比回落0.2pp至3.4%，符合預期；每週工作時長維持在34.3小時。5月新增非農大幅超預期，顯著高於0—5萬的均衡水平，失業率也處於相對低位，市場對美聯儲年內加息定價顯著升溫。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606063762533714",
+      "time": "2026-06-06 10:23:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【華泰證券：5月非農再超預期推升美聯儲加息必要性】華泰證券研報稱，2026年5月美國新增非農就業17.2萬，高於彭博一致預期的8.5萬，前兩個月累計上修9.3萬；5月失業率、勞動參與率分別維持在4.3%、61.8%，均符合預期（彭博一致預期，下同）；小時工資環比增速邊際上行0.1pp至0.3%，同比回落0.2pp至3.4%，符合預期；每週工作時長維持在34.3小時。5月新增非農大幅超預期，顯著高於0—5萬的均衡水平，失業率也處於相對低位，市場對美聯儲年內加息定價顯著升溫。"
+    },
+    {
+      "id": "4920846",
+      "time": "2026-06-06 10:23:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊（IRGC）在一份宣告中表示，如果美國繼續“滋事”，霍爾木茲海峽將完全切斷油氣出口，美國需對由此產生的一切後果負責。"
+    },
     {
       "id": "mkt:019e9aba-e0c7-7665-830f-3576b5cfc6ae",
       "time": "2026-06-06 10:19:58",
@@ -173139,22 +173178,6 @@
         "其他"
       ],
       "text": "【成渝中線高鐵全線鋪軌工程啟動，通車後成都至重慶50分鐘可達】今天（5月30日），成渝中線高鐵將在簡陽往樂至方向啟動鋪軌工作，這也標誌著成渝中線高鐵正式進入全線鋪軌階段。成渝中線高鐵線路起於成都樞紐成都站，最終引入重慶北站，正線全長約292公里，設計時速350公里。成渝中線高鐵建成通車後，成都至重慶50分鐘可達，將進一步推動成渝地區路網結構最佳化與雙城經濟圈發展。"
-    },
-    {
-      "id": "4908038",
-      "time": "2026-05-30 10:26:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“張雪機車”車手德比斯獲阿拉貢站排位賽第二名】2026世界超級摩托車錦標賽阿拉貢站29日展開首個比賽日的角逐。中國摩托車製造商“張雪機車”車手德比斯在WorldSSP組別的排位賽中獲得第二名，將在一天後的正賽首回合中頭排發車。（新華社）"
-    },
-    {
-      "id": "mkt:019e76b1-df98-7bb7-9967-98259d14d6fb",
-      "time": "2026-05-30 10:23:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada's Prime Minister Carney meets China foreign minister】In Ottawa on the 29th (local time), Canada's Prime Minister Carney met China's foreign minister. The China foreign minister conveyed greetings from Chinese leadership, said Carney's visit to China was successful and that bilateral ties have been reset and are back on track. Both sides agreed to build a new-type strategic partnership to guide bilateral development; China said the turnaround serves both countries' interests, that there are no fundamental conflicts and significant room for cooperation. China expressed willingness to respect Canada, seek common ground while reserving differences, strengthen communication and deepen cooperation to promote healthy, stable and sustainable bilateral relations. Both parties pledged to uphold multilateralism, international law and strategic autonomy, and to support free trade and an open global economy."
     }
   ]
 }
