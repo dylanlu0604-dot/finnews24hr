@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 21:14:27_
-_本檔包含 4036 則快訊，約 699946 字_
+_更新時間：2026-06-06 22:14:36_
+_本檔包含 4035 則快訊，約 700318 字_
+
+---
+
+### 2026-06-03 23:29:24  #國際
+
+【伊朗議會要員：停止所有戰線戰爭是伊美談判首要內容】當地時間3日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，停止所有戰線的戰爭是伊朗與美國談判的首要內容，伊朗絕不允許美國和以色列破壞地區“抵抗陣線”的團結。阿齊茲表示，伊朗堅信“抵抗陣線”能獲得勝利，並相信只要共同努力，“摧毀以色列這一最終目標就能夠實現。（央視新聞）
+
+---
+
+### 2026-06-03 23:28:38  #焦點 #國際
+
+以色列國防軍負責人稱以軍在黎巴嫩沒有停火協議。
+
+---
+
+### 2026-06-03 23:25:53  #MKT News
+
+【Kuwait International Airport resumes operations; Bahrain and UAE airports operating normally】Kuwait Civil Aviation Authority said Kuwait International Airport, hit in a pre-dawn attack on June 3, has resumed flight operations after damage assessments and safety measures. Flights at terminals T4 and T5 operated by Kuwait Airways and Peninsula Airways have resumed. Xinhua reported Bahrain International Airport and major UAE airports in Dubai and Abu Dhabi were operating normally on June 3; only flights to Kuwait experienced delays or cancellations.
+
+---
+
+### 2026-06-03 23:25:10  #國際
+
+美國：新增金屬關稅有效期至 2027 年 12 月 31 日。
+
+---
+
+### 2026-06-03 23:24:46  #公司
+
+【科威特國際機場恢復執行 巴林和阿聯酋機場執行正常 】科威特民航總局3日釋出的資訊顯示，當天凌晨遭襲的科威特國際機場已恢復航班執行。另據新華社記者瞭解，巴林國際機場和阿聯酋主要機場3日執行正常。科威特民航總局說，在完成損毀評估並採取措施確保安全後，在科威特國際機場T4和T5航站樓運營的科威特航空公司和半島航空公司的航班已恢復執行。另據瞭解，巴林國際機場和阿聯酋迪拜、阿布扎比兩地的機場3日正常執行，僅飛往科威特的航班受到影響，出現延誤或取消的情況。（新華社）
+
+---
+
+### 2026-06-03 23:24:18  #MKT News
+
+【Netanyahu says he and Trump agree on major Iran issues】Prime Minister Netanyahu said in an interview on the 3rd he and US President Trump have reached agreement on major issues regarding Iran. He acknowledged occasional tactical differences with the US government but said they can be resolved.
+
+---
+
+### 2026-06-03 23:23:06  #國際
+
+【內塔尼亞胡稱與特朗普在伊朗相關主要問題上達成一致】當地時間3日，以色列總理內塔尼亞胡在接受採訪時表示，他與美國總統特朗普“在關於伊朗的主要問題上達成了一致”。內塔尼亞胡同時透露，他有時會與美國政府產生“戰術上的分歧”，但他強調雙方“能夠妥善解決這些問題”。（央視新聞）
+
+---
+
+### 2026-06-03 23:22:08  #MKT News #LLY.N
+
+Eli Lilly (LLY.N) CEO says the company will halve its planned €2.3 bln investment in Germany.
+
+---
+
+### 2026-06-03 23:21:59  #國際
+
+【美國稱將調整其對北約部隊的貢獻】美軍歐洲司令部3日在其官網發文說，美國國防部官員已通知盟友，美國將根據2026年國防戰略以及國防部對“北約3.0”的願景，調整其對北約部隊的貢獻。 北約歐洲盟軍最高司令格林克維奇表示，美方已明確指出，北約在兵力上過度依賴美軍，這點必須改變。北約盟友日益具備獨立部署和保衛聯盟的軍事能力，美國相關調整將確保北約不再過度依賴美軍力量。此外，鑑於存在多戰區同時爆發衝突的潛在可能，相關調整勢在必行。 格林克維奇還說，歐洲盟國和加拿大應在有人和無人駕駛航空器以及海軍艦艇兩個領域承擔更多責任。 美國五角大樓官員5月1日說，正計劃從德國撤出約5000名美軍人員。美國總統特朗普2日表示，美國從德國撤軍人數將“大大超過”5000人。特朗普21日又在社交媒體上發文說，美國將向波蘭增派5000名士兵，但未說明增兵詳情。(新華社)
+
+---
+
+### 2026-06-03 23:21:49  #國際
+
+美國給予歐盟、英國、韓國及其他相關方金屬關稅豁免待遇。
+
+---
+
+### 2026-06-03 23:21:34  #公司
+
+禮來執行長：禮來將原計劃投向德國的 23 億歐元投資額縮減一半。
+
+---
+
+### 2026-06-03 23:21:32  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Boeing Stock Price Hits 8-week Low — Boeing shares decreased to 213.91 USD, the lowest since April 2026. Over the past 4 weeks, Boeing lost 3.24%, and in the last 12 months, it increased 1.01%.
+
+---
+
+### 2026-06-03 23:20:44  #公司
+
+【債市疑似“烏龍指”，農發行：取消發行】6月2日，中國農業發展銀行續發的一筆政策性金融債，中標利率異常偏低，疑似發生“烏龍”事件。6月3日，農發行釋出公告，取消該期債券發行承銷額度。(中國證券報)
+
+---
+
+### 2026-06-03 23:20:34  #國際
+
+【美銀將迎4000名新人 打破人工智慧引發的失業恐慌】儘管AI及其他技術工具正在取代部分工作崗位，並切斷了許多傳統職業路徑，美國銀行仍在繼續招聘。下週，將有2000名暑期實習生以及另外2000名來自高校的全職新員工進入美國銀行的辦公大樓。據該銀行全球人才主管Josh Bronstein介紹，他們將入職八大業務板塊中的各類崗位，涵蓋消費者銀行、投資銀行和企業銀行等領域。“對我們來說，這是一個重要的領導力人才輸送管道，我們透過它引進廣泛的人才群體，讓他們能夠來到這裡並與我們共同實現長期的職業成長，”Bronstein在接受採訪時表示，“雖然技術進步確實導致部分工作內容發生了變化，但這並不意味著我們對校園招聘的總體需求有所改變。”
+
+---
+
+### 2026-06-03 23:20:12  #國際
+
+【澤連斯基：現有資金可充分保障烏軍裝備與作戰需求】當地時間6月3日，烏克蘭總統澤連斯基在與北約秘書長呂特聯合舉行的新聞釋出會上表示，烏克蘭每年投入450億至500億美元用於武器生產。澤連斯基坦言，烏克蘭現有資金可充分保障烏軍裝備與作戰需求。他強調，烏方將長期穩定維持足額資金投入，既要持續保障武器量產、供應，支撐軍隊日常運轉，也將立足長遠制定資金保障規劃，為國防軍力建設提供持續性支撐。（央視新聞）
+
+---
+
+### 2026-06-03 23:19:47  #MKT News
+
+【Zelenskiy: current funds sufficient to meet Ukrainian military equipment and operational needs】At a June 3 joint press briefing with NATO Secretary-General Rutte, Zelenskiy said Ukraine spends about $45–50 billion a year on weapons production and that existing funds are sufficient to meet the armed forces’ equipment and operational needs. He said Kyiv will maintain sustained, adequate funding to support weapons mass production and supply, daily military operations, and long-term financing plans for defence force development.
+
+---
+
+### 2026-06-03 23:18:16  #焦點 #國際
+
+美國新增銅、鋼、鋁產品關稅將於 6 月 8 日凌晨 0 時 01 分正式生效。
+
+---
+
+### 2026-06-03 23:17:23  #國際
+
+美國發布鋁、鋼、銅關稅相關檔案。
+
+---
+
+### 2026-06-03 23:16:23  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said as of June 3 its forces had guided 125 commercial vessels to alter course and rendered 6 vessels inoperable.
+
+---
+
+### 2026-06-03 23:15:49  #其他
+
+美軍稱已在霍爾木茲海峽排程 125 艘船隻變更航線。
+
+---
+
+### 2026-06-03 23:15:34  #其他
+
+巴西財長：將持續採取舉措，緩解戰事對物價造成的衝擊。
+
+---
+
+### 2026-06-03 23:13:55  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary Bessent said he intends to keep the fiscal deficit-to-GDP ratio at about 3.x%.
+
+---
+
+### 2026-06-03 23:13:47  #其他
+
+巴西財長：巴西 2026 年二季度經濟表現將再度超市場預期。
+
+---
+
+### 2026-06-03 23:13:39  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+【Foreign long-term investors boost allocations to Chinese hard tech】Several global financial institutions have raised China outlooks and increased allocations to Chinese technology firms, accelerating onshore investment. MSCI has formally added 19 A-shares to the MSCI China Index, concentrated in optical communications, computing power and high-end manufacturing, which eases foreign access to these names. Foreign holdings of A-share free-float market value exceed 4 trillion yuan and year‑to‑date inflows have been steady via various channels. Investment banks including Morgan Stanley and Deutsche Bank have recently lifted their 2026 China GDP forecasts; many cite China’s core competitiveness in tech innovation as the main rationale for increasing exposure.
+
+---
+
+### 2026-06-03 23:13:34  #MKT News
+
+FITCH monitoring shows Italy's residential mortgage market remains stable and housing supply remains ample.
+
+---
+
+### 2026-06-03 23:13:29  #市場
+
+德國10年期國債收益率漲5個基點，重新整理5月22日以來高位至3.03%。
+
+---
+
+### 2026-06-03 23:13:24  #MKT News #Macro & Rates #DAX #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+Germany's 10-year bond yield rose 5bps to 3.03%, the highest since May 22.
+
+---
+
+### 2026-06-03 23:13:19  #Trading Economics #Economy #Colombia #Manufacturing PMI #Importance 0
+
+Colombia Manufacturing PMI Hits Five-Month High — Colombia's Davivienda Manufacturing PMI rose to 51.8 in May 2026 from 50.8 in April, marking the highest reading since December 2025 and signaling a stronger expansion in factory activity. Resilient demand supported modest increases in both output and new orders, helping production return to growth. Manufacturers also increased staffing levels for a second consecutive month, supported by improved expectations for future output. Business confidence rose to a three-month high. Firms boosted purchases of raw materials and semi-finished goods to strengthen inventories, while input cost inflation accelerated to its highest level in 38 months. Output prices continued to rise at a historically elevated pace, although the rate eased to its weakest this year. Meanwhile, supplier delivery times lengthened to the greatest extent since September 2024, stocks of purchases and finished goods declined for a third straight month, and outstanding business volumes fell for the fourth consecutive month.
 
 ---
 
@@ -24141,179 +24309,5 @@ Local governor said enemy forces attacked Dnipro again, causing a fire; authorit
 ### 2026-06-02 22:15:01  #公司
 
 【雅居樂集團：1-5月預售金額合計為約29.8億元】雅居樂集團6月2日晚間公告，截至2026年5月31日止五個月，集團連同集團合營公司及聯營公司以及雅居樂專案的預售金額合計為約人民幣29.8億元而對應建築面積為約28.1萬平方米；平均價為每平方米人民幣10,634元。
-
----
-
-### 2026-06-02 22:14:58  #公司
-
-【閱文戰略投資藝畫開天28.22%股權 代價約為4億元】6月2日晚間訊息，閱文集團釋出關聯交易公告。公告顯示，閱文將戰略投資藝畫開天28.22%股權，代價約為人民幣4億元。公告發布日，閱文持有藝畫開天約31.48%股權，本次股權轉讓完成後持股比例將增至59.7%。
-
----
-
-### 2026-06-02 22:14:53  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England Governor BAILEY said policymakers cannot wait for conclusive evidence of second-round effects before taking action.
-
----
-
-### 2026-06-02 22:14:47  #Trading Economics #Economy #United States #Economic Optimism Index #Importance 2
-
-Consumer Optimism Stuck Near Multi-Month Lows — The RealClearMarkets/TIPP Economic Optimism Index edged down to 42.5 in June 2026 from 42.6 in May, falling short of expectations for a rise to 44.5 and marking a third consecutive month near April’s lows. The reading suggests consumer sentiment remains stuck at subdued levels rather than showing signs of recovery. The index has now remained below the neutral 50 threshold for ten straight months, indicating persistent pessimism among Americans. The Six-Month Economic Outlook component fell 1.9% to 37.1, its weakest level since June 2024, reflecting growing concerns about the economy’s near-term prospects. Meanwhile, the Personal Financial Outlook slipped marginally to 50.1 from 50.3, remaining the only component close to neutral territory. In contrast, confidence in Federal Economic Policies improved slightly, rising to 40.2 from 39.8.
-
----
-
-### 2026-06-02 22:14:40  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【US April JOLTS job openings rise to highest in nearly two years】US JOLTS job openings rose to 7.62 mln in April from 6.89 mln in March, the highest in nearly two years, with professional and business services contributing nearly all of the increase. Hires fell to 5.12 mln, partly offsetting March’s jump, while layoffs declined to 1.69 mln, indicating a resilient labor market despite corporate pressure from higher energy costs linked to the Iran war. Openings remain well below the pandemic reopening peak, but the stabilization in labor demand versus near‑zero employment growth in 2025 may weaken the case for rate cuts and Fed officials are increasingly discussing the possibility of further hikes.
-
----
-
-### 2026-06-02 22:14:34  #央行 #其他
-
-英國央行行長貝利：無法坐等第二輪通脹傳導影響的確鑿實證落地。
-
----
-
-### 2026-06-02 22:14:10  #其他
-
-前北約秘書長斯托爾滕貝格：需做出相關妥協以擴充防務開支。
-
----
-
-### 2026-06-02 22:14:05  #Trading Economics #Markets #commodity #Importance 0
-
-Copper Hits All-time High — Copper increased to an all-time high of 6.65 USD/Lbs. Over the past 4 weeks, Copper gained 14.75%, and in the last 12 months, it increased 37.52%.
-
----
-
-### 2026-06-02 22:14:03  #MKT News
-
-Norway's finance minister says compromises are needed to strengthen defence.
-
----
-
-### 2026-06-02 22:13:51  #MKT News #S&P500 #Impact bullish
-
-S&P 500 turned positive.
-
----
-
-### 2026-06-02 22:13:23  #國際
-
-荷蘭財政大臣：已向歐盟表示不要放鬆預算規則。
-
----
-
-### 2026-06-02 22:13:10  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-Bank of England Governor Bailey said doubts remain over trade and technology as drivers of growth.
-
----
-
-### 2026-06-02 22:13:08  #其他
-
-【珠海公積金提取使用範圍擬擴大】珠海市住房公積金管理中心2日透過市政府官網開展最佳化住房公積金提取使用政策意見徵集。珠海或將增設城市更新提取和裝修自住住房提取事項，以滿足居民改善居住條件的需求。該中心對正在研究的政策進行了說明，指出擴大公積金提取適用範圍，能夠顯著增強制度的普惠性和惠民性，支援城市更新改造和裝修提取，提升制度效能，幫助繳存職工實現“安居”到“優居”的轉變。
-
----
-
-### 2026-06-02 22:13:03  #其他
-
-【中國氣象局與湖北省政府召開“十五五”時期協同共建工作座談會 湖北省委副書記李殿勳、中國氣象局黨組書記陳振林出席會議並講話】6月2日，湖北省政府與中國氣象局在武漢召開“十五五”時期協同共建工作座談會。湖北省委副書記、省長李殿勳，中國氣象局黨組書記、局長陳振林出席並講話。李殿勳向中國氣象局長期以來給予湖北工作的關心支援表示感謝。他說，氣象工作關係生命安全、生產發展、生活富裕、生態良好，影響重大，作用獨特。當前，我國發展進入新的歷史方位，社會主要矛盾與總體供需格局都發生了重大複雜變化，需要我們主動應對經濟社會高質量發展面臨的新挑戰，有效回應人民群眾對高品質生活的新需求，加速重構現代氣象供給體系和能力，不斷提高氣象服務供給的質量、效率和公信力。近年來，湖北省與中國氣象局持續深化省部協同共建，各方面合作取得明顯成效。進入“十五五”時期，希望雙方進一步秉持科學理念，創新合作方式，聚焦“長江流域氣象中心能力建設工程、極端天氣監測預警能力提升工程、華中區域人工影響天氣指揮工程、基層臺站能力提升工程”和“綠色低碳發展氣象支撐行動”、“政策與投入保障機制”等協同共建重點事項，進一步深化平臺共建、人才共享、創新協同與工作聯動，持續提升現代氣象“為經濟發展科學賦能、為社會治理提質增效、為人民生活造福避害”的技術支撐能力與綜合服務水平，為湖北加快建成中部地區崛起的重要戰略支點，為推動長江經濟帶高質量發展作出新的更大貢獻。（中國氣象局）
-
----
-
-### 2026-06-02 22:12:49  #央行 #其他
-
-英國央行行長貝利：經濟增長動力存疑，聚焦貿易與科技兩大領域。
-
----
-
-### 2026-06-02 22:12:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-CME Stock Price Hits 15-month Low — CME shares decreased to 247.40 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 14.52%, and in the last 12 months, it decreased 14.64%.
-
----
-
-### 2026-06-02 22:12:39  #MKT News #Market Regions #EURUSD
-
-Dutch finance minister said the Netherlands has told the EU not to relax budget rules.
-
----
-
-### 2026-06-02 22:12:03  #MKT News #FULC.O #Impact bearish #ABVX.O
-
-Nasdaq Biotechnology Index fell 2.6% after Fulcrum Therapeutics shares and Abivax ADRs plunged following release of trial results.
-
----
-
-### 2026-06-02 22:11:26  #市場 #國際
-
-納斯達克生物科技指數下跌2.6%，富爾坎製藥與ABIVAX美國存託憑證公佈臨床試驗結果後股價雙雙重挫。
-
----
-
-### 2026-06-02 22:11:09  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises as Banks and Vale Post Gains — The Ibovespa gained over 0.5% to trade above 173,000 on Tuesday, supported by gains in banking, mining, and utility stocks. Itaú and Bradesco both added 1%, while Auren and Sabesp advanced more than 1.5%. Vale rose over 2% as iron ore prices increased. Investors continued to assess the US proposal to impose an additional 25% tariff on a range of Brazilian imports. Members of President Lula’s administration believe a negotiated solution can be reached before the measure takes effect, with expectations that discussions between the two countries will advance in the coming weeks despite a US report alleging unfair trade practices by Brazil. On the geopolitical front, US President Trump said talks with Iran were ongoing, although tensions between Israel and Lebanon continued to cloud prospects for a broader regional agreement. Petrobras, meanwhile, shed nearly 2% as oil prices pulled back from recent highs.
-
----
-
-### 2026-06-02 22:10:49  #其他
-
-丹麥首相：丹麥新政府將降低企業稅率。
-
----
-
-### 2026-06-02 22:10:38  #MKT News #Market Regions #Europe & UK
-
-Danish Prime Minister says the new government will lower corporate tax rates.
-
----
-
-### 2026-06-02 22:10:17  #MKT News #Market Regions #Europe & UK
-
-Bank of England Governor Bailey said the outlook is for slower growth rather than a recession.
-
----
-
-### 2026-06-02 22:10:00  #MKT News
-
-Bank of England Governor BAILEY said future events will become highly unpredictable.
-
----
-
-### 2026-06-02 22:09:41  #央行 #其他
-
-英國央行行長貝利：通脹超標完全是海灣地區事件造成的。
-
----
-
-### 2026-06-02 22:09:26  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD
-
-Bank of England Governor Bailey said the inflation overshoot is entirely attributable to developments in the Gulf.
-
----
-
-### 2026-06-02 22:09:08  #其他
-
-【長城基金高階宏觀策略研究員汪立：市場上行的內在支撐邏輯仍在】短期性因素的調整，暫未打斷市場上行趨勢。長城基金高階宏觀策略研究員汪立表示，資本市場發展的政策態度清晰，通脹風險與緊縮預期有望下降以及中國增長預期提振共同作用下，市場上行的內在支撐邏輯仍在。投資方向上，投資寬度變大，新經濟看高成長、製造關注全球龍頭、傳統也有望迎來有修復，具體關注新興科技、優勢製造以及傳統修復等三個方面。
-
----
-
-### 2026-06-02 22:08:50  #央行 #其他
-
-英國央行行長貝利：政策制定者面臨增長與通脹的權衡。
-
----
-
-### 2026-06-02 22:08:50  #MKT News #Market Regions #Europe & UK
-
-Bank of England Governor Bailey said policymakers face a trade-off between growth and inflation.
-
----
-
-### 2026-06-02 22:08:39  #其他
-
-前北約秘書長斯托爾滕貝格：北約戰備狀態達已經數十年新高。
 
 ---

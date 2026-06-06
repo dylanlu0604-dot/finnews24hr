@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 21:14:27_
-_本檔包含 3643 則快訊，約 700468 字_
+_更新時間：2026-06-06 22:14:36_
+_本檔包含 3647 則快訊，約 700426 字_
+
+---
+
+### 2026-06-02 22:14:58  #公司
+
+【閱文戰略投資藝畫開天28.22%股權 代價約為4億元】6月2日晚間訊息，閱文集團釋出關聯交易公告。公告顯示，閱文將戰略投資藝畫開天28.22%股權，代價約為人民幣4億元。公告發布日，閱文持有藝畫開天約31.48%股權，本次股權轉讓完成後持股比例將增至59.7%。
+
+---
+
+### 2026-06-02 22:14:53  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England Governor BAILEY said policymakers cannot wait for conclusive evidence of second-round effects before taking action.
+
+---
+
+### 2026-06-02 22:14:47  #Trading Economics #Economy #United States #Economic Optimism Index #Importance 2
+
+Consumer Optimism Stuck Near Multi-Month Lows — The RealClearMarkets/TIPP Economic Optimism Index edged down to 42.5 in June 2026 from 42.6 in May, falling short of expectations for a rise to 44.5 and marking a third consecutive month near April’s lows. The reading suggests consumer sentiment remains stuck at subdued levels rather than showing signs of recovery. The index has now remained below the neutral 50 threshold for ten straight months, indicating persistent pessimism among Americans. The Six-Month Economic Outlook component fell 1.9% to 37.1, its weakest level since June 2024, reflecting growing concerns about the economy’s near-term prospects. Meanwhile, the Personal Financial Outlook slipped marginally to 50.1 from 50.3, remaining the only component close to neutral territory. In contrast, confidence in Federal Economic Policies improved slightly, rising to 40.2 from 39.8.
+
+---
+
+### 2026-06-02 22:14:40  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【US April JOLTS job openings rise to highest in nearly two years】US JOLTS job openings rose to 7.62 mln in April from 6.89 mln in March, the highest in nearly two years, with professional and business services contributing nearly all of the increase. Hires fell to 5.12 mln, partly offsetting March’s jump, while layoffs declined to 1.69 mln, indicating a resilient labor market despite corporate pressure from higher energy costs linked to the Iran war. Openings remain well below the pandemic reopening peak, but the stabilization in labor demand versus near‑zero employment growth in 2025 may weaken the case for rate cuts and Fed officials are increasingly discussing the possibility of further hikes.
+
+---
+
+### 2026-06-02 22:14:34  #央行 #其他
+
+英國央行行長貝利：無法坐等第二輪通脹傳導影響的確鑿實證落地。
+
+---
+
+### 2026-06-02 22:14:10  #其他
+
+前北約秘書長斯托爾滕貝格：需做出相關妥協以擴充防務開支。
+
+---
+
+### 2026-06-02 22:14:05  #Trading Economics #Markets #commodity #Importance 0
+
+Copper Hits All-time High — Copper increased to an all-time high of 6.65 USD/Lbs. Over the past 4 weeks, Copper gained 14.75%, and in the last 12 months, it increased 37.52%.
+
+---
+
+### 2026-06-02 22:14:03  #MKT News
+
+Norway's finance minister says compromises are needed to strengthen defence.
+
+---
+
+### 2026-06-02 22:13:51  #MKT News #S&P500 #Impact bullish
+
+S&P 500 turned positive.
+
+---
+
+### 2026-06-02 22:13:23  #國際
+
+荷蘭財政大臣：已向歐盟表示不要放鬆預算規則。
+
+---
+
+### 2026-06-02 22:13:10  #MKT News #GBPUSD #Impact bearish #FTSE100
+
+Bank of England Governor Bailey said doubts remain over trade and technology as drivers of growth.
+
+---
+
+### 2026-06-02 22:13:08  #其他
+
+【珠海公積金提取使用範圍擬擴大】珠海市住房公積金管理中心2日透過市政府官網開展最佳化住房公積金提取使用政策意見徵集。珠海或將增設城市更新提取和裝修自住住房提取事項，以滿足居民改善居住條件的需求。該中心對正在研究的政策進行了說明，指出擴大公積金提取適用範圍，能夠顯著增強制度的普惠性和惠民性，支援城市更新改造和裝修提取，提升制度效能，幫助繳存職工實現“安居”到“優居”的轉變。
+
+---
+
+### 2026-06-02 22:13:03  #其他
+
+【中國氣象局與湖北省政府召開“十五五”時期協同共建工作座談會 湖北省委副書記李殿勳、中國氣象局黨組書記陳振林出席會議並講話】6月2日，湖北省政府與中國氣象局在武漢召開“十五五”時期協同共建工作座談會。湖北省委副書記、省長李殿勳，中國氣象局黨組書記、局長陳振林出席並講話。李殿勳向中國氣象局長期以來給予湖北工作的關心支援表示感謝。他說，氣象工作關係生命安全、生產發展、生活富裕、生態良好，影響重大，作用獨特。當前，我國發展進入新的歷史方位，社會主要矛盾與總體供需格局都發生了重大複雜變化，需要我們主動應對經濟社會高質量發展面臨的新挑戰，有效回應人民群眾對高品質生活的新需求，加速重構現代氣象供給體系和能力，不斷提高氣象服務供給的質量、效率和公信力。近年來，湖北省與中國氣象局持續深化省部協同共建，各方面合作取得明顯成效。進入“十五五”時期，希望雙方進一步秉持科學理念，創新合作方式，聚焦“長江流域氣象中心能力建設工程、極端天氣監測預警能力提升工程、華中區域人工影響天氣指揮工程、基層臺站能力提升工程”和“綠色低碳發展氣象支撐行動”、“政策與投入保障機制”等協同共建重點事項，進一步深化平臺共建、人才共享、創新協同與工作聯動，持續提升現代氣象“為經濟發展科學賦能、為社會治理提質增效、為人民生活造福避害”的技術支撐能力與綜合服務水平，為湖北加快建成中部地區崛起的重要戰略支點，為推動長江經濟帶高質量發展作出新的更大貢獻。（中國氣象局）
+
+---
+
+### 2026-06-02 22:12:49  #央行 #其他
+
+英國央行行長貝利：經濟增長動力存疑，聚焦貿易與科技兩大領域。
+
+---
+
+### 2026-06-02 22:12:45  #Trading Economics #Markets #United States #stocks #Importance 1
+
+CME Stock Price Hits 15-month Low — CME shares decreased to 247.40 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 14.52%, and in the last 12 months, it decreased 14.64%.
+
+---
+
+### 2026-06-02 22:12:39  #MKT News #Market Regions #EURUSD
+
+Dutch finance minister said the Netherlands has told the EU not to relax budget rules.
+
+---
+
+### 2026-06-02 22:12:03  #MKT News #FULC.O #Impact bearish #ABVX.O
+
+Nasdaq Biotechnology Index fell 2.6% after Fulcrum Therapeutics shares and Abivax ADRs plunged following release of trial results.
+
+---
+
+### 2026-06-02 22:11:26  #市場 #國際
+
+納斯達克生物科技指數下跌2.6%，富爾坎製藥與ABIVAX美國存託憑證公佈臨床試驗結果後股價雙雙重挫。
+
+---
+
+### 2026-06-02 22:11:09  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises as Banks and Vale Post Gains — The Ibovespa gained over 0.5% to trade above 173,000 on Tuesday, supported by gains in banking, mining, and utility stocks. Itaú and Bradesco both added 1%, while Auren and Sabesp advanced more than 1.5%. Vale rose over 2% as iron ore prices increased. Investors continued to assess the US proposal to impose an additional 25% tariff on a range of Brazilian imports. Members of President Lula’s administration believe a negotiated solution can be reached before the measure takes effect, with expectations that discussions between the two countries will advance in the coming weeks despite a US report alleging unfair trade practices by Brazil. On the geopolitical front, US President Trump said talks with Iran were ongoing, although tensions between Israel and Lebanon continued to cloud prospects for a broader regional agreement. Petrobras, meanwhile, shed nearly 2% as oil prices pulled back from recent highs.
+
+---
+
+### 2026-06-02 22:10:49  #其他
+
+丹麥首相：丹麥新政府將降低企業稅率。
+
+---
+
+### 2026-06-02 22:10:38  #MKT News #Market Regions #Europe & UK
+
+Danish Prime Minister says the new government will lower corporate tax rates.
+
+---
+
+### 2026-06-02 22:10:17  #MKT News #Market Regions #Europe & UK
+
+Bank of England Governor Bailey said the outlook is for slower growth rather than a recession.
+
+---
+
+### 2026-06-02 22:10:00  #MKT News
+
+Bank of England Governor BAILEY said future events will become highly unpredictable.
+
+---
+
+### 2026-06-02 22:09:41  #央行 #其他
+
+英國央行行長貝利：通脹超標完全是海灣地區事件造成的。
+
+---
+
+### 2026-06-02 22:09:26  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD
+
+Bank of England Governor Bailey said the inflation overshoot is entirely attributable to developments in the Gulf.
+
+---
+
+### 2026-06-02 22:09:08  #其他
+
+【長城基金高階宏觀策略研究員汪立：市場上行的內在支撐邏輯仍在】短期性因素的調整，暫未打斷市場上行趨勢。長城基金高階宏觀策略研究員汪立表示，資本市場發展的政策態度清晰，通脹風險與緊縮預期有望下降以及中國增長預期提振共同作用下，市場上行的內在支撐邏輯仍在。投資方向上，投資寬度變大，新經濟看高成長、製造關注全球龍頭、傳統也有望迎來有修復，具體關注新興科技、優勢製造以及傳統修復等三個方面。
+
+---
+
+### 2026-06-02 22:08:50  #央行 #其他
+
+英國央行行長貝利：政策制定者面臨增長與通脹的權衡。
+
+---
+
+### 2026-06-02 22:08:50  #MKT News #Market Regions #Europe & UK
+
+Bank of England Governor Bailey said policymakers face a trade-off between growth and inflation.
+
+---
+
+### 2026-06-02 22:08:39  #其他
+
+前北約秘書長斯托爾滕貝格：北約戰備狀態達已經數十年新高。
 
 ---
 
@@ -21818,155 +21992,5 @@ According to Iranian state media, President Pezeshkian told Japan's prime minist
 ### 2026-06-01 20:57:23  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
 
 Chile's Economic Activity Contracts Most Since 2023 — Chile’s IMACEC economic activity index fell 1.2% year-on-year in April 2026, following a 0.2% decline in the previous month and marking the sharpest contraction since March 2023. The downturn was driven by a 5.4% drop in goods-producing sectors, as mining output plunged 11.8% and industrial activity slipped 0.4%. In contrast, trade expanded 2.1%, while services activity edged up 0.8%. On a monthly basis, the IMACEC fell 4.8%, reversing part of the 15.1% surge recorded in March.
-
----
-
-### 2026-06-01 20:56:49  #市場 #國際
-
-【原油期貨上漲，美伊尚未達成協議】隨著週末過去，美國和伊朗仍未達成協議，且雙方發生交火，原油期貨走高。“儘管雙方交換了修改後的提議，但缺乏明確的突破以及該地區再次發生的事件加劇了人們的擔憂，即影響霍爾木茲海峽的限制措施可能會比此前預期的持續更長時間，”Tickmill的Joseph Dahrieh在一份報告中表示。“雖然成功達成協議最終可能有助於壓低價格，但航線的重新開放和能源供應的正常化可能會是漸進的。”西得州中質油上漲2.9%，報每桶89.90美元；布倫特原油上漲2.3%，至93.23美元。
-
----
-
-### 2026-06-01 20:56:30  #國際
-
-全球基金6月1日淨賣出391億印度盧比的印度股票。
-
----
-
-### 2026-06-01 20:56:13  #MKT News
-
-The Commission for Air Quality Management (CAQM) said Delhi recorded its cleanest Jan–May air quality in nearly eight years excluding 2020, with the average AQI improving to 211.
-
----
-
-### 2026-06-01 20:54:58  #公司 #市場
-
-【打破“只買不賣”慣例 Strategy出售所持部分比特幣】全球最大的比特幣企業級持有者Strategy Inc.出售了約250萬美元的比特幣，這是該公司自2022年以來首次減持這一加密貨幣。聯合創始人Michael Saylor上個月在公司季度業績電話會上已暗示未來存在出售比特幣的可能性。這與他多年來反覆向股東保證“不會出售所持比特幣”的立場相比，是一次顯著轉變。Strategy表示，未來出售比特幣將成為其更有策略地管理和積累比特幣資產的一部分。公司認為，此類交易不僅可能帶來稅務上的好處，也有助於在數字資產長期熊市環境下更靈活地增持比特幣。儘管進行了減持，Strategy目前仍持有價值約610億美元比特幣。Strategy股價盤前下跌約5%，比特幣價格則下跌約2%至7.2萬美元左右。
-
----
-
-### 2026-06-01 20:54:32  #其他
-
-市場訊息：以太坊的質押比例達到32.4%，創下歷史新高。
-
----
-
-### 2026-06-01 20:54:18  #公司
-
-星座能源集團宣佈，1100萬股二次增發已完成定價，每股價格為281美元。
-
----
-
-### 2026-06-01 20:54:13  #市場 #央行 #國際
-
-【機構：即使伊朗戰爭結束，歐元的反彈潛力似乎也有限】荷蘭合作銀行的Jane Foley在一份報告中表示，伊朗戰爭的結束和霍爾木茲海峽的重新開放將使歐元兌美元回升，但上升空間可能有限。“雖然美聯儲10月份的降息應會使歐元在下半年呈上升趨勢，但我們預計[歐元兌美元]在此期間不會獲得顯著的上漲動力。”她說，市場已經充分反映了歐洲央行在此期間加息兩次的預期，而歐元區經濟增長面臨的阻力意味著歐元今年可能難以達到1.20美元。歐元下跌0.1%，至1.1646美元。
-
----
-
-### 2026-06-01 20:54:01  #公司 #市場
-
-【智迪科技：擬1.52億元收購豐旭國際100%股權】智迪科技(301503.SZ)公告稱，公司擬以自有或自籌資金1.52億元購買豐旭國際投資有限公司100%股權，交易完成後豐旭國際成為公司全資子公司，其子公司越南豐旭成為全資孫公司。本次交易旨在推進國際化戰略，規避越南子公司租金上漲風險，增強運營穩定性。
-
----
-
-### 2026-06-01 20:53:56  #其他
-
-據阿拉伯電視臺訊息，一艘巴拿馬籍大型油輪在伊拉克領海航行期間爆炸。
-
----
-
-### 2026-06-01 20:53:51  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【IRGC releases video showing destruction of US MQ-1 drone】Local time June 1, the Islamic Revolutionary Guard Corps (IRGC) released video showing its air-defence system destroying a US military MQ-1 drone. The footage did not show the timing of the incident; Iran said on May 31 it had shot down a drone of that model. Despite ongoing US‑Iran talks, the two sides have exchanged fire near the Persian Gulf multiple times recently, keeping regional tensions and uncertainty elevated.
-
----
-
-### 2026-06-01 20:53:22  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
-
-【Meituan CEO: Competition returning to rationality; expects Q2 takeout unit economics to improve】Meituan released Q1 results. Management said as food-delivery subsidies are pared back, competition is shifting toward efficiency and user experience. If competition remains rational and Q2 seasonality holds, the company expects Q2 takeout unit economics (UE) to be materially stronger than Q1. CEO Wang Xing said ongoing regulatory guidance should help restore rational competition; Meituan is confident it can maintain an operational-efficiency lead and that its long-term UE will return to a reasonable level.
-
----
-
-### 2026-06-01 20:53:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Al Arabiya TV, citing sources, said a Panama-flagged large oil tanker exploded while operating in Iraqi territorial waters.
-
----
-
-### 2026-06-01 20:52:58  #MKT News #Market Regions #Greater China
-
-Zhixiang Biotech (Suzhou) Co., Ltd filed a listing application with HKEX, according to an exchange filing.
-
----
-
-### 2026-06-01 20:52:53  #公司
-
-據港交所檔案：智享生物（蘇州）股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-01 20:52:36  #國際
-
-伊朗表示將確保日本船隻“更”便捷地透過其領海。
-
----
-
-### 2026-06-01 20:51:27  #國際
-
-【伊朗伊斯蘭革命衛隊釋出摧毀美軍無人機的影片】當地時間6月1日，伊朗伊斯蘭革命衛隊釋出其防空系統摧毀美軍MQ-1無人機的相關影片。影片未顯示事件發生的具體時間，但當地時間5月31日，伊朗稱其擊落一架該型號無人機。近期，儘管伊美談判程序持續，但雙方在波斯灣區域附近多次發生交火，地區局勢仍呈現緊張和不確定性。（央視新聞）
-
----
-
-### 2026-06-01 20:50:15  #公司
-
-【霍尼韋爾宣佈其自動化業務與航空航天業務將分別啟用新品牌標識】6月1日，霍尼韋爾宣佈其自動化業務與航空航天業務將分別啟用全新品牌標識 —— 霍尼韋爾科技（Honeywell Technologies）與霍尼韋爾航空航天（Honeywell Aerospace）。隨著航空航天業務完成分拆，霍尼韋爾科技與霍尼韋爾航空航天將於2026年6月29日成為兩家獨立上市公司。
-
----
-
-### 2026-06-01 20:50:12  #國際
-
-歐盟監管機構表示，Prosus兌現承諾的截止日期已獲延長，其仍需全面履行其對歐盟反壟斷監管機構作出的、關於出售其Delivery Hero股權的承諾。
-
----
-
-### 2026-06-01 20:49:49  #公司 #國際
-
-土耳其國有公司Botas正在與俄羅斯天然氣工業股份公司就延長進口合同事宜進行談判。
-
----
-
-### 2026-06-01 20:49:41  #MKT News
-
-Israeli broadcaster i24News reported a fourth red-alert air-raid siren in northern Israel within the past hour.
-
----
-
-### 2026-06-01 20:49:35  #國際
-
-【2026上海“絲路雲品”直播電商周正式啟動】6月1日下午，“絲路雲品”選品會暨2026上海“絲路雲品”直播電商周啟動儀式在虹橋國際中央商務區舉行。上海市商務委員會副主任周嵐、虹橋國際中央商務區管委會副主任王新出席啟動儀式並致辭；參加啟動儀式的還有相關區商務部門、行業組織、重點電商企業、“絲路電商”國家館、貿易促進機構及媒體代表等。啟動儀式上，企業代表釋出了“絲路雲品”非洲好物節、燃情拉美文旅節、美食美酒節、家居生活節、時尚美妝節等5個重點活動，參與活動的商品包含食品、酒飲、咖啡、水果生鮮、餐飲外賣、時尚美妝、手工藝品、家居生活等眾多品類，覆蓋非洲、拉丁美洲、中東、南亞、東南亞、歐洲等20多個國家，為消費者帶來更豐富、更多元、更有趣味的國際消費體驗。（上海商務）
-
----
-
-### 2026-06-01 20:49:29  #國際
-
-以色列國防軍：北部區域拉響防空警報，預警敵方飛行器來襲。
-
----
-
-### 2026-06-01 20:49:17  #公司
-
-【存量公募基金今起調整基準，業內人士：不會引發基金調倉】6月1日，包括易方達、華夏、富國基金在內的首批基金公司正式開啟旗下公募基金調整業績比較基準的序幕。從涉及的基金型別和數量上看，此次共有195只存量基金調整業績比較基準，涵蓋股票型、混合型、債券型、FOF、QDII等多種型別。在公募基金批次調整業績比較基準之際，市場上也有擔憂調整基準引發基金調倉的聲音傳出。此次公募基金修改業績基準秉持“儘量調整基準而不調倉”的原則，這也意味著調了基準的基金不需要調倉，而不是調了基準導致調倉。事實上，調整基準只是為了讓基準更精準地反映產品的投資運作特點，幫助投資者更有效率地篩選基金。（中國基金報）
-
----
-
-### 2026-06-01 20:49:11  #MKT News
-
-【195 Chinese public funds begin performance benchmark changes; industry says no rebalancing expected】From June 1, a first group of fund houses including E Fund, ChinaAMC and Fullgoal began revising performance benchmarks for 195 existing publicly offered funds, covering equity, hybrid, bond, FOF and QDII products. Industry participants say the adjustments follow a principle of altering benchmarks rather than holdings and are unlikely to trigger widespread portfolio rebalancing; the revisions are intended to make benchmarks more accurately reflect funds' investment profiles and help investors screen funds more efficiently.
-
----
-
-### 2026-06-01 20:48:57  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Higher on AI Optimism — Futures tracking the S&P/TSX Composite Index edged up on Monday as enthusiasm around AI helped offset uncertainty surrounding prospects for a peace deal between the US and Iran. Canadian tech stocks are set to track gains on Wall Street after Nvidia unveiled a new advanced processor designed for PCs, further fueling optimism about AI-driven growth. The launch added to strong momentum in technology shares that has helped equity markets withstand headwinds from the Iran conflict in recent weeks. Meanwhile, hopes for an imminent peace agreement in the Middle East were tempered by another exchange of military strikes between the two sides. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher, which pressured financial stocks. Gold prices also declined, weighing on mining shares.
 
 ---

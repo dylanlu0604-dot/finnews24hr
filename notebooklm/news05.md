@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 21:14:27_
-_本檔包含 3517 則快訊，約 699943 字_
+_更新時間：2026-06-06 22:14:36_
+_本檔包含 3521 則快訊，約 700415 字_
+
+---
+
+### 2026-06-01 20:56:49  #市場 #國際
+
+【原油期貨上漲，美伊尚未達成協議】隨著週末過去，美國和伊朗仍未達成協議，且雙方發生交火，原油期貨走高。“儘管雙方交換了修改後的提議，但缺乏明確的突破以及該地區再次發生的事件加劇了人們的擔憂，即影響霍爾木茲海峽的限制措施可能會比此前預期的持續更長時間，”Tickmill的Joseph Dahrieh在一份報告中表示。“雖然成功達成協議最終可能有助於壓低價格，但航線的重新開放和能源供應的正常化可能會是漸進的。”西得州中質油上漲2.9%，報每桶89.90美元；布倫特原油上漲2.3%，至93.23美元。
+
+---
+
+### 2026-06-01 20:56:30  #國際
+
+全球基金6月1日淨賣出391億印度盧比的印度股票。
+
+---
+
+### 2026-06-01 20:56:13  #MKT News
+
+The Commission for Air Quality Management (CAQM) said Delhi recorded its cleanest Jan–May air quality in nearly eight years excluding 2020, with the average AQI improving to 211.
+
+---
+
+### 2026-06-01 20:54:58  #公司 #市場
+
+【打破“只買不賣”慣例 Strategy出售所持部分比特幣】全球最大的比特幣企業級持有者Strategy Inc.出售了約250萬美元的比特幣，這是該公司自2022年以來首次減持這一加密貨幣。聯合創始人Michael Saylor上個月在公司季度業績電話會上已暗示未來存在出售比特幣的可能性。這與他多年來反覆向股東保證“不會出售所持比特幣”的立場相比，是一次顯著轉變。Strategy表示，未來出售比特幣將成為其更有策略地管理和積累比特幣資產的一部分。公司認為，此類交易不僅可能帶來稅務上的好處，也有助於在數字資產長期熊市環境下更靈活地增持比特幣。儘管進行了減持，Strategy目前仍持有價值約610億美元比特幣。Strategy股價盤前下跌約5%，比特幣價格則下跌約2%至7.2萬美元左右。
+
+---
+
+### 2026-06-01 20:54:32  #其他
+
+市場訊息：以太坊的質押比例達到32.4%，創下歷史新高。
+
+---
+
+### 2026-06-01 20:54:18  #公司
+
+星座能源集團宣佈，1100萬股二次增發已完成定價，每股價格為281美元。
+
+---
+
+### 2026-06-01 20:54:13  #市場 #央行 #國際
+
+【機構：即使伊朗戰爭結束，歐元的反彈潛力似乎也有限】荷蘭合作銀行的Jane Foley在一份報告中表示，伊朗戰爭的結束和霍爾木茲海峽的重新開放將使歐元兌美元回升，但上升空間可能有限。“雖然美聯儲10月份的降息應會使歐元在下半年呈上升趨勢，但我們預計[歐元兌美元]在此期間不會獲得顯著的上漲動力。”她說，市場已經充分反映了歐洲央行在此期間加息兩次的預期，而歐元區經濟增長面臨的阻力意味著歐元今年可能難以達到1.20美元。歐元下跌0.1%，至1.1646美元。
+
+---
+
+### 2026-06-01 20:54:01  #公司 #市場
+
+【智迪科技：擬1.52億元收購豐旭國際100%股權】智迪科技(301503.SZ)公告稱，公司擬以自有或自籌資金1.52億元購買豐旭國際投資有限公司100%股權，交易完成後豐旭國際成為公司全資子公司，其子公司越南豐旭成為全資孫公司。本次交易旨在推進國際化戰略，規避越南子公司租金上漲風險，增強運營穩定性。
+
+---
+
+### 2026-06-01 20:53:56  #其他
+
+據阿拉伯電視臺訊息，一艘巴拿馬籍大型油輪在伊拉克領海航行期間爆炸。
+
+---
+
+### 2026-06-01 20:53:51  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【IRGC releases video showing destruction of US MQ-1 drone】Local time June 1, the Islamic Revolutionary Guard Corps (IRGC) released video showing its air-defence system destroying a US military MQ-1 drone. The footage did not show the timing of the incident; Iran said on May 31 it had shot down a drone of that model. Despite ongoing US‑Iran talks, the two sides have exchanged fire near the Persian Gulf multiple times recently, keeping regional tensions and uncertainty elevated.
+
+---
+
+### 2026-06-01 20:53:22  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
+
+【Meituan CEO: Competition returning to rationality; expects Q2 takeout unit economics to improve】Meituan released Q1 results. Management said as food-delivery subsidies are pared back, competition is shifting toward efficiency and user experience. If competition remains rational and Q2 seasonality holds, the company expects Q2 takeout unit economics (UE) to be materially stronger than Q1. CEO Wang Xing said ongoing regulatory guidance should help restore rational competition; Meituan is confident it can maintain an operational-efficiency lead and that its long-term UE will return to a reasonable level.
+
+---
+
+### 2026-06-01 20:53:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Al Arabiya TV, citing sources, said a Panama-flagged large oil tanker exploded while operating in Iraqi territorial waters.
+
+---
+
+### 2026-06-01 20:52:58  #MKT News #Market Regions #Greater China
+
+Zhixiang Biotech (Suzhou) Co., Ltd filed a listing application with HKEX, according to an exchange filing.
+
+---
+
+### 2026-06-01 20:52:53  #公司
+
+據港交所檔案：智享生物（蘇州）股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-01 20:52:36  #國際
+
+伊朗表示將確保日本船隻“更”便捷地透過其領海。
+
+---
+
+### 2026-06-01 20:51:27  #國際
+
+【伊朗伊斯蘭革命衛隊釋出摧毀美軍無人機的影片】當地時間6月1日，伊朗伊斯蘭革命衛隊釋出其防空系統摧毀美軍MQ-1無人機的相關影片。影片未顯示事件發生的具體時間，但當地時間5月31日，伊朗稱其擊落一架該型號無人機。近期，儘管伊美談判程序持續，但雙方在波斯灣區域附近多次發生交火，地區局勢仍呈現緊張和不確定性。（央視新聞）
+
+---
+
+### 2026-06-01 20:50:15  #公司
+
+【霍尼韋爾宣佈其自動化業務與航空航天業務將分別啟用新品牌標識】6月1日，霍尼韋爾宣佈其自動化業務與航空航天業務將分別啟用全新品牌標識 —— 霍尼韋爾科技（Honeywell Technologies）與霍尼韋爾航空航天（Honeywell Aerospace）。隨著航空航天業務完成分拆，霍尼韋爾科技與霍尼韋爾航空航天將於2026年6月29日成為兩家獨立上市公司。
+
+---
+
+### 2026-06-01 20:50:12  #國際
+
+歐盟監管機構表示，Prosus兌現承諾的截止日期已獲延長，其仍需全面履行其對歐盟反壟斷監管機構作出的、關於出售其Delivery Hero股權的承諾。
+
+---
+
+### 2026-06-01 20:49:49  #公司 #國際
+
+土耳其國有公司Botas正在與俄羅斯天然氣工業股份公司就延長進口合同事宜進行談判。
+
+---
+
+### 2026-06-01 20:49:41  #MKT News
+
+Israeli broadcaster i24News reported a fourth red-alert air-raid siren in northern Israel within the past hour.
+
+---
+
+### 2026-06-01 20:49:35  #國際
+
+【2026上海“絲路雲品”直播電商周正式啟動】6月1日下午，“絲路雲品”選品會暨2026上海“絲路雲品”直播電商周啟動儀式在虹橋國際中央商務區舉行。上海市商務委員會副主任周嵐、虹橋國際中央商務區管委會副主任王新出席啟動儀式並致辭；參加啟動儀式的還有相關區商務部門、行業組織、重點電商企業、“絲路電商”國家館、貿易促進機構及媒體代表等。啟動儀式上，企業代表釋出了“絲路雲品”非洲好物節、燃情拉美文旅節、美食美酒節、家居生活節、時尚美妝節等5個重點活動，參與活動的商品包含食品、酒飲、咖啡、水果生鮮、餐飲外賣、時尚美妝、手工藝品、家居生活等眾多品類，覆蓋非洲、拉丁美洲、中東、南亞、東南亞、歐洲等20多個國家，為消費者帶來更豐富、更多元、更有趣味的國際消費體驗。（上海商務）
+
+---
+
+### 2026-06-01 20:49:29  #國際
+
+以色列國防軍：北部區域拉響防空警報，預警敵方飛行器來襲。
+
+---
+
+### 2026-06-01 20:49:17  #公司
+
+【存量公募基金今起調整基準，業內人士：不會引發基金調倉】6月1日，包括易方達、華夏、富國基金在內的首批基金公司正式開啟旗下公募基金調整業績比較基準的序幕。從涉及的基金型別和數量上看，此次共有195只存量基金調整業績比較基準，涵蓋股票型、混合型、債券型、FOF、QDII等多種型別。在公募基金批次調整業績比較基準之際，市場上也有擔憂調整基準引發基金調倉的聲音傳出。此次公募基金修改業績基準秉持“儘量調整基準而不調倉”的原則，這也意味著調了基準的基金不需要調倉，而不是調了基準導致調倉。事實上，調整基準只是為了讓基準更精準地反映產品的投資運作特點，幫助投資者更有效率地篩選基金。（中國基金報）
+
+---
+
+### 2026-06-01 20:49:11  #MKT News
+
+【195 Chinese public funds begin performance benchmark changes; industry says no rebalancing expected】From June 1, a first group of fund houses including E Fund, ChinaAMC and Fullgoal began revising performance benchmarks for 195 existing publicly offered funds, covering equity, hybrid, bond, FOF and QDII products. Industry participants say the adjustments follow a principle of altering benchmarks rather than holdings and are unlikely to trigger widespread portfolio rebalancing; the revisions are intended to make benchmarks more accurately reflect funds' investment profiles and help investors screen funds more efficiently.
+
+---
+
+### 2026-06-01 20:48:57  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Higher on AI Optimism — Futures tracking the S&P/TSX Composite Index edged up on Monday as enthusiasm around AI helped offset uncertainty surrounding prospects for a peace deal between the US and Iran. Canadian tech stocks are set to track gains on Wall Street after Nvidia unveiled a new advanced processor designed for PCs, further fueling optimism about AI-driven growth. The launch added to strong momentum in technology shares that has helped equity markets withstand headwinds from the Iran conflict in recent weeks. Meanwhile, hopes for an imminent peace agreement in the Middle East were tempered by another exchange of military strikes between the two sides. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher, which pressured financial stocks. Gold prices also declined, weighing on mining shares.
 
 ---
 
@@ -21098,131 +21248,5 @@ Israeli Army Radio reported Nahariya was attacked by five missiles; some were in
 ### 2026-05-30 22:16:52  #國際
 
 【聯合海上資訊中心：美軍仍在封鎖伊朗港口】英國海上貿易行動辦公室30日釋出聯合海上資訊中心的一份通報稱，美軍針對伊朗港口的封鎖目前仍在實施，嚴禁船隻進出伊朗港口。聯合海上資訊中心是一個多國海軍諮詢機構，由美國主導。通報還警告說，針對拒絕服從封鎖指令的船隻，美軍將開火使其失去航行能力或進行摧毀。美國總統特朗普29日在社交媒體上說，對伊朗的海上封鎖“即將被解除”。
-
----
-
-### 2026-05-30 22:14:23  #國際
-
-以色列軍方：我們探測到多枚從黎巴嫩向北部發射的火箭彈，攔截了其中一些，其餘的則落在了空曠地帶。
-
----
-
-### 2026-05-30 22:13:56  #其他
-
-【北京新開設三個社保國際化示範服務視窗】為滿足在京外籍人員日益上升的社保服務需求，北京市人力資源和社會保障局近日在東城區、西城區和朝陽區的社保經辦大廳分別設立“社會保險國際化示範服務視窗”，為在京外籍人士提供參保、查詢、退休、清算等社保服務。 下一步，北京市人社部門將發揮首都先行示範優勢，深耕涉外社保服務和國際交流合作工作，實現首都涉外社保服務標準統一、全域覆蓋、同質高效，為北京國際交往中心建設提供堅實保障。（新華社）
-
----
-
-### 2026-05-30 22:13:20  #MKT News #Market Regions #Japan & APAC
-
-According to Kyodo, Japan and South Korea will resume joint search-and-rescue exercises next month, the first such drills in about nine years.
-
----
-
-### 2026-05-30 22:12:18  #公司
-
-【華為與光明科學城公司、深圳先進院簽署產學研協同創新合作備忘錄】5月29日下午，深圳市光明科學城發展建設有限公司、中國科學院深圳先進技術研究院與華為技術有限公司簽署產學研協同創新合作備忘錄。根據備忘錄，三方將建立長期穩定合作關係，共同搭建“光明科學城生態+合成生物科研+ICT”協同創新體系，推動合成生物學與人工智慧、智算算力深度融合，加速基礎科研創新能力提升及成果轉化。
-
----
-
-### 2026-05-30 22:12:07  #其他
-
-【《廣東省低空經濟發展條例（徵求意見稿）》公開徵求意見】廣東省發展改革委公開徵求《廣東省低空經濟發展條例（徵求意見稿）》意見，《條例》聚焦制約廣東省低空經濟發展的突出瓶頸問題，靶向施策、精準發力，有針對性地作出制度安排。針對空域開放不足，構建低空空域協同執行機制，提高空域使用效能；針對基礎設施不完善，強調基礎設施建設方案編制、運營管理、改造改建等關鍵環節；針對安全監管不足，強化飛行活動監督管理、落實低空安全責任；針對應用場景受限，按照有關分類拓展低空經濟應用場景，有序探索推廣新型低空經濟應用場景。
-
----
-
-### 2026-05-30 22:10:14  #其他
-
-【神舟二十一號乘組重新整理中國航天員單個乘組在軌駐留最長紀錄】5月29日20時11分，神舟二十二號飛船返回艙準確著陸在東風著陸場預定區域，神舟二十一號乘組三名航天員張陸、武飛、張洪章結束近7個月的太空駐留，重新整理中國航天員單個乘組在軌駐留時長紀錄。乘組在軌期間，完成了多項空間科學實驗，實現多個首次突破，包括首次實現小鼠空間密閉在軌飼養、在軌生成低缺陷硒化銦晶體等。此外，乘組還進行了三次出艙活動，張陸個人出艙次數重新整理中國航天員紀錄。返回前，乘組換乘神舟二十二號飛船進行匹配性測試，併成功攜帶41.14公斤實驗樣品返回地球。（央視新聞）
-
----
-
-### 2026-05-30 22:02:09  #國際
-
-【首隻印尼出生大熊貓正式公開亮相】記者今天（5月30日）從印度尼西亞野生動物園獲悉，2025年底在印尼出生的首隻大熊貓幼崽“里奧”當天首次正式與公眾見面，吸引眾多遊客前來參觀。它的父母是旅居印尼的大熊貓“彩陶”和“湖春”。 “里奧”於2025年11月27日在印尼野生動物園出生， “里奧”的出生填補了印尼大熊貓人工繁育的空白，也標誌著中國與印尼大熊貓保護合作取得重要成果。印尼總統普拉博沃為其取名“薩特里奧·維拉塔馬”，暱稱“里奧”，意為“勇敢而高貴的騎士”。（CCTV國際時訊）
-
----
-
-### 2026-05-30 21:57:00  #MKT News #Market Themes #AI Revolution
-
-【GalaxyVS AI virtual screening platform launched in Tianjin to accelerate innovative drug development】GalaxyVS, an AI virtual screening platform for ultra-large-scale drug discovery, was officially launched in Tianjin today. Built on the new-generation Tianhe supercomputing system, the platform can probe a near-100-billion synthesizable compound space and implements an end-to-end stack covering molecular representation, vector retrieval, diversity control, affinity re-ranking and large-scale task scheduling. The platform is positioned to provide a high-efficiency, high-precision, scalable foundational tool for innovative drug R&D and was developed by an AI biomed team led by Meng Xiangfei, chief scientist at the National Supercomputing Center in Tianjin, and Lan Yanyan, professor at Tsinghua University’s Institute for Intelligent Industry.
-
----
-
-### 2026-05-30 21:55:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-HEZBOLLAH said it fired rockets at an Israeli military concentration east of the outskirts of Ghanduriya in southern Lebanon.
-
----
-
-### 2026-05-30 21:55:09  #其他
-
-哥倫比亞指責厄瓜多宣佈取消關稅是對哥總統選舉的“蓄意干涉”。
-
----
-
-### 2026-05-30 21:55:03  #MKT News
-
-Israel's Channel 12 reports Lebanon fired five missiles toward Safed in northern Israel; one was intercepted and four fell in open areas.
-
----
-
-### 2026-05-30 21:54:19  #其他
-
-【面向超大規模藥物發現的人工智慧虛擬篩選平臺——GalaxyVS正式釋出】30日，面向超大規模藥物發現的人工智慧虛擬篩選平臺——GalaxyVS正式釋出。平臺依託新一代天河超級計算系統，面向近千億級可合成化合物空間，構建了覆蓋分子表徵、向量檢索、多樣性控制、親和力重排序和大規模任務排程的端到端技術體系，為創新藥物研發提供了高效率、高精度、可擴充套件的新型基礎平臺。（新華社）
-
----
-
-### 2026-05-30 21:43:59  #國際
-
-美國公佈赫格塞思與澳大利亞副總理兼國防部長馬爾斯的會談結果：美國將加快澳大利亞基地的基礎設施專案建設。
-
----
-
-### 2026-05-30 21:34:44  #MKT News
-
-Since this morning local time, 25 alerts have sounded in northern Israel.
-
----
-
-### 2026-05-30 21:33:44  #其他
-
-【杭州濱江區警察協會：“杭州濱江區網紅餐廳坍塌、造成多人受傷”等不實傳言系使用AI編造】5月30日，杭州市濱江區警察協會官方微博@平安濱江 通報：近日，網上出現“杭州濱江區網紅餐廳坍塌、造成多人受傷”等不實傳言，引發部分網民關注。經查，該資訊系違法行為人使用AI工作編造後釋出的虛假資訊。目前，警方已依法對該違法人員作出行政拘留三日的處罰，相關造謠資訊也已全部清理刪除。
-
----
-
-### 2026-05-30 21:32:34  #宏觀
-
-【“十五五”時期北京將前瞻佈局未來產業】中國國務院新聞辦公室30日舉行中外記者見面會。北京市委常委、副市長靳偉在會上表示，“十五五”時期北京將加快實現數字經濟和綠色經濟“雙標杆”引領，培育壯大戰略性產業和前瞻佈局未來產業。 靳偉表示，北京將以智慧化為驅動，以綠色化為重要導向，用好資料這個最新、最活躍的生產要素，促進實體經濟與數字經濟深度融合，加快綠色技術的創新和推廣應用，發展壯大綠色經濟。 靳偉介紹，戰略性產業方面，北京將進一步提升新一代資訊科技、醫藥健康兩個萬億級產業叢集的國際競爭力；力爭把人工智慧和綠色低碳兩個產業培育成新的萬億級產業叢集；將推動積體電路、機器人和智慧製造、智慧網聯汽車、空天技術、新材料、新型安全應急等一批千億級產業叢集邁向更高水平。未來產業方面，將超前佈局新賽道，推動6G、腦機介面、量子、生物製造等領域實現核心技術突破和規模化應用。 靳偉提到，北京還將最佳化提升生產性服務業、生活性服務業和現代農業三類產業。重點是鞏固提升金融業發展優勢，做強做大科技服務業，提高商務服務業國際化水平；加強教育、健康、養老、托育、家政等優質服務供給，強化質量品牌建設；推動現代農業向科技創新驅動轉型。（中新社）
-
----
-
-### 2026-05-30 21:30:12  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Increases by 4.63% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 4.63% increase.
-
----
-
-### 2026-05-30 21:26:32  #MKT News #Star Stocks #NVIDIA #Microsoft #Market Themes #AI Revolution #Magnificent 7
-
-【2B-parameter Zhiyuan Robotics model tops World Arena, outperforms NVIDIA flagship】Zhiyuan Robotics' in-house world model Genie Envisioner-Sim 2.0 (GE 2.0) placed first on the global World Arena benchmark's "perception and action response" leaderboard. GE 2.0 competed directly with NVIDIA's DreamDojo and the Tsinghua–Stanford Ctrl-World team and, per disclosed technical documents, delivered superior results while using only 2 billion parameters—outperforming larger flagship models from NVIDIA and Microsoft. The vendor says the outcome demonstrates lightweight models' competitiveness for humanoid-robot applications.
-
----
-
-### 2026-05-30 21:21:03  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Al Jazeera reports 10 rockets fired from Lebanon into northern Israel.
-
----
-
-### 2026-05-30 21:16:41  #其他
-
-【20億小引數趕超英偉達旗艦模型 上海世界模型“裸考”登頂國際權威榜單】從智元機器人獲悉，旗下自研世界模型Genie Envisioner-Sim 2.0（簡稱GE 2.0）憑藉優異的綜合表現，在全球世界模型評測基準World Arena（世界競技場）“感知與動作響應”榜單中位列第一。本次智元GE 2.0參與的是“感知與動作響應”賽道評測，與英偉達最新模型DreamDojo、清華聯合斯坦福的Ctrl-World團隊等國內外AI頂尖團隊直接競爭並最終奪冠。記者從披露的技術文件中獲悉，GE 2.0僅用20億（2B）引數的模型，結果比英偉達、微軟等超大引數的旗艦模型效果更優秀，也驗證了在人形機器人應用方面，輕量化模型的適配性不遜於超大引數模型。 (上觀新聞)
-
----
-
-### 2026-05-30 21:16:14  #國際
-
-【美國人形機器人被曝已投入俄烏戰場 軍事專家：基本不能打仗】據美媒報道，美國基礎未來工業公司已於2月在烏克蘭部署兩臺“幻影”MK-1人形機器人，用於執行偵察任務。該機器人可攜帶40kg載荷，包括手槍、霰彈槍和M-16步槍等。該公司已與美軍簽訂1800萬美元訂單，計劃2027年底前生產5萬臺。軍事專家介紹，從外形和設計理念看，美國幻影MK-1人形機器人基本上不能打仗。（央視網）
 
 ---

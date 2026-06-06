@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 21:14:27_
-_本檔包含 3617 則快訊，約 700483 字_
+_更新時間：2026-06-06 22:14:36_
+_本檔包含 3619 則快訊，約 700688 字_
+
+---
+
+### 2026-06-06 22:12:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI #Impact mixed
+
+【Israel military says investigating strike on Lebanese army vehicle】Israel Defense Forces (IDF) said on the 6th it struck a Lebanese Armed Forces (LAF) vehicle in southern Lebanon and is investigating. The IDF said it detected a "suspicious vehicle" approaching its troops in the Taibnit area, which it described as an "active combat zone," and had intelligence Hezbollah planned to fire from that area. Citing that intelligence and a perceived threat to soldiers, the IDF struck the vehicle. Preliminary checks found two LAF officers and one soldier inside; the investigation is ongoing. The IDF said its operational target was Hezbollah, not the Lebanese army.
+
+---
+
+### 2026-06-06 22:11:18  #國際
+
+布蘭奇：很榮幸特朗普邀請我擔任常任司法部長。
+
+---
+
+### 2026-06-06 22:07:54  #其他
+
+【值得買科技聯合華為雲釋出“值數Matrix” 推動AI能力在品牌信任經營場景落地】據“值得買科技”公眾號訊息，6月5日至6日，華為雲INSPIRE創想者大會在上海舉行。此次大會上，值得買科技攜手華為雲，聯合釋出面向AI時代的智慧營銷解決方案——值數Matrix全渠道內容可見性矩陣，標誌著雙方合作進一步從基礎設施和業務協同，延展至行業解決方案共建。該產品整合監測、受眾、議題、聲譽、洞察和執行六項能力，幫助品牌識別真實使用者問題、驗證品牌事實表達、發現跨渠道誤讀，並推動內容修復、複測和資產沉澱，幫助AI時代的品牌從“被看見”走向“被理解”，從一次性傳播走向可持續的信任經營。
+
+---
+
+### 2026-06-06 22:06:04  #MKT News
+
+【Iran delegation: Attacks on nuclear facilities must not be normalized】At a special meeting of the IAEA Board of Governors, Iran's delegation condemned US and Israeli attacks on Iranian nuclear facilities, called for a zero-tolerance policy toward such actions and threats, and warned that normalizing attacks on peaceful nuclear facilities would severely jeopardize the international non-proliferation regime and security.
+
+---
+
+### 2026-06-06 22:04:12  #其他
+
+【世衛組織：剛果（金）和烏干達累計報告471例埃博拉病例】當地時間6日，世界衛生組織公佈的最新資料顯示，截至目前，剛果（金）和烏干達兩國累計報告471例埃博拉病例，其中84人死亡。僅過去一天時間，兩國新增約100例病例和20例死亡病例，疫情蔓延速度引發廣泛關注。
+
+---
+
+### 2026-06-06 22:00:52  #其他
+
+【有企業交船期排至2030年 今年已註冊超1000家船舶製造企業】2026年造船行業延續高景氣態勢，新造船訂單持續放量，多家企業手持訂單飽滿，部分船廠交船期已排至2030年。2026年我國已註冊船舶製造相關企業超1000家。資料顯示，2016年以來，我國船舶製造相關企業累計註冊約1.8萬家。2025年全年註冊量同比增加18.6%至2566家。
+
+---
+
+### 2026-06-06 21:55:40  #公司
+
+紐西蘭航空執行長表示，停飛機隊佔比已從最高20%降至不足5%。
+
+---
+
+### 2026-06-06 21:55:39  #MKT News #Commodities #Energy
+
+Air New Zealand CEO says the airline plans to buy jet fuel in Singapore in FY2027 at about $150/barrel.
+
+---
+
+### 2026-06-06 21:55:36  #公司
+
+紐西蘭航空執行長表示，供應商一直難以預估發動機維修及交付問題的解決時間線。
+
+---
+
+### 2026-06-06 21:55:31  #公司
+
+紐西蘭航空執行長表示，若燃油價格維持高位，該航空公司將聚焦成本管控、票價調整，並整合航班運力。
+
+---
+
+### 2026-06-06 21:55:30  #MKT News
+
+Air New Zealand CEO said the airline has offset only 25%-40% of the impact from higher fuel costs through hedging and fare increases.
+
+---
+
+### 2026-06-06 21:55:24  #公司
+
+紐西蘭航空執行長表示，大部分飛機將在未來兩到三個月內恢復執飛。
+
+---
+
+### 2026-06-06 21:55:19  #公司
+
+紐西蘭航空執行長表示，波音、羅爾斯·羅伊斯及普惠提供的賠償僅抵消了部分經濟損失。
+
+---
+
+### 2026-06-06 21:55:12  #公司
+
+紐西蘭航空執行長表示，該航空公司已經完成兩輪漲價，或考慮進一步採取戰術性提價。
+
+---
+
+### 2026-06-06 21:55:04  #公司
+
+紐西蘭航空執行長表示，該航空公司並未面臨燃油供應短缺問題，價格衝擊才是主要挑戰。
+
+---
+
+### 2026-06-06 21:54:58  #公司
+
+紐西蘭航空執行長表示，預計不會透過資本市場募資補充流動性。
+
+---
+
+### 2026-06-06 21:54:41  #公司 #市場
+
+紐西蘭航空執行長表示，該航司僅透過套期保值和票價上漲抵消了25%-40%的燃油成本衝擊。
+
+---
+
+### 2026-06-06 21:54:37  #公司
+
+紐西蘭航空執行長表示，該航空公司計劃在2027財年將新加坡航空燃油價格控制在每桶150美元左右。
+
+---
+
+### 2026-06-06 21:51:25  #國際
+
+【韓正會見白俄羅斯總理圖爾欽】當地時間2026年6月6日，國家副主席韓正在明斯克會見白俄羅斯總理圖爾欽。韓正表示，中白友好源遠流長、歷久彌堅。近年來，在習近平主席和盧卡申科總統戰略引領下，中白關係保持高水平執行，各領域合作高質量推進，為兩國人民帶來實實在在的福祉。中方願同白方共同落實兩國元首重要共識，加強戰略溝通，賡續傳統友好，深化互利合作，推動中白關係不斷向前發展。韓正表示，白俄羅斯是中國全天候全面戰略伙伴。中方發展對白關係、深化對白合作的決心堅定不移，將一如既往支援白方維護主權、安全和發展利益。雙方要以高質量共建“一帶一路”合作為引領，更好發揮中白政府間合作委員會等機制作用，紮實推進中白工業園等重點合作專案，不斷打造合作新亮點。中方支援白方在國際事務中發揮更大作用，願同白方在多邊機制和國際組織中密切協調配合，共同踐行真正的多邊主義，維護全球南方共同利益，為動盪的世界注入寶貴的確定性。（新華社）
+
+---
+
+### 2026-06-06 21:50:09  #其他
+
+扎波羅熱核電站稱供電已恢復。
+
+---
+
+### 2026-06-06 21:50:02  #公司
+
+英國零售大亨邁克·阿什利旗下弗雷澤集團考慮出價5億英鎊收購Metrocentre。
+
+---
+
+### 2026-06-06 21:46:50  #公司
+
+【小鵬集團再拓摩洛哥、突尼西亞市場，北非“戰略鐵三角”成型】 2026年，小鵬集團在北非市場取得關鍵性佈局突破。繼埃及之後，小鵬正式拓展至摩洛哥與突尼西亞，形成以埃及、摩洛哥、突尼西亞為核心的北非“戰略鐵三角”。與此同時，小鵬在北非規模最大的銷售服務中心——佔地2500㎡的突尼西亞銷售服務中心正式投入運營，標誌其在北非的本土化服務體系進一步完善。在埃及市場，小鵬G6、G9連續多月領跑當地高階純電SUV細分市場，“產品+服務+渠道”一體化出海模式得到驗證，為摩洛哥、突尼西亞的快速佈局提供了可參考的運營經驗。（小鵬汽車微信公號）
+
+---
+
+### 2026-06-06 21:36:16  #MKT News #Market Regions #Greater China
+
+【Kaiyue Motorcycles denies online rumors of funding collapse, rescue pleas to Zhang Xue and takeover of his 36% stake】Kaiyue Motorcycles said on its official WeChat account on June 6 that recent online allegations — that its funding chain has broken and it faces imminent bankruptcy; that it repeatedly sought rescue from Zhang Xue; that sales plunged about 30% prompting Chairman Yan Kai to seek Zhang's help; and that the company absorbed Zhang Xue’s 36% stake — are fabricated and malicious. The company said the claims are baseless, have damaged its brand and Chairman Yan's reputation, harmed vehicle owners and dealers, and disrupted normal market order.
+
+---
+
+### 2026-06-06 21:31:19  #公司 #國際
+
+【黃仁勳脫口秀錄製畫面曝光：與劉在石跨界對話，還跳起了舞】英偉達CEO黃仁勳拍了拍韓國“國民主持人”劉在石的肩膀，兩人談笑風生。 這是韓國脫口秀綜藝節目《劉在街頭》今日在社交媒體上公佈的節目錄制畫面。在綜藝節目攝像機前，黃仁勳依舊身穿標誌性的黑色皮夾克，與主持人劉在石面對面暢談，現場氣氛十分輕鬆。 當Netflix動畫電影《K-Pop: 獵魔女團》中虛擬女團Huntrix演唱的《Golden》歌聲響起時，黃仁勳更是興奮地揮動手臂，即興跳起舞來。“昨天沒去的KTV，今天補上。”
+
+---
+
+### 2026-06-06 21:30:58  #公司
+
+【賽意資訊戰略投資七號智算 健全企業全棧AI業務佈局】近日，賽意資訊與廣東七號智算技術有限公司簽署戰略投資協議，並已完成工商股權變更登記，公司正式成為七號智算在冊股東。此次戰略落地，意在整合全鏈路算力資源，打造公司“工業智算—工業大模型—工業智慧應用”三層架構發展路線，進一步健全企業全棧AI業務佈局。
+
+---
+
+### 2026-06-06 21:30:04  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 1.22% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.22% decrease.
+
+---
+
+### 2026-06-06 21:27:55  #其他
+
+【軟通動力聯合華為、青島港釋出智慧港口解決方案】6月5日，2026華為雲INSPIRE創想者大會中，軟通動力聯合華為、青島港正式釋出智慧港口安全生產聯合解決方案。
+
+---
+
+### 2026-06-06 21:23:12  #公司
+
+空客有望獲得北歐航空集團(SAS)的一筆寬體客機訂單，後者正在考慮採購15至20架左右的飛機。
+
+---
+
+### 2026-06-06 21:18:18  #國際
+
+【伊朗足協：多名國家隊隨隊成員未獲簽證 美國違背國際體育規則】據伊朗國家通訊社6日報道，伊朗足球協會就多名國家隊隨隊成員未獲美國簽證一事發表宣告，指出美國作為2026年美加墨世界盃東道主，透過有歧視性和針對性的方式對待伊朗國家足球隊，製造了不公平、不平等的環境，此舉是對體育的嚴重政治干預。伊朗足協在宣告中稱：“世界盃開賽前夕，美國政府以不符合體育精神且完全出於政治動機的決定，拒絕向伊朗國家足球隊重要的管理和行政人員發放簽證，該決定違背國際體育規則。對此，伊朗足球協會已透過國際足聯（FIFA）進行交涉，FIFA作為主管機構，有責任持續跟進，直至完成相關人員的簽證辦理工作。”
+
+---
+
+### 2026-06-06 21:18:17  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【US media: Israel set up bases in multiple countries around Iran】CNN, citing multiple unnamed sources, reported on June 5 that Israel had established bases in several countries around Iran to support operations against Tehran. The report says Israel and the US secretly established multiple sites in Azerbaijan weeks before the Feb. 28 strike on Iran; the closest site was about 90 km from Iran’s northwestern city of Tabriz. Dozens of Israeli personnel — special forces, heliborne units and intelligence staff — were deployed to collect Iranian military intelligence, conduct search-and-rescue for downed aircrew and provide early warning for missile launches.
+
+---
+
+### 2026-06-06 21:17:49  #國際
+
+【伊朗外交部譴責美軍多次違反停火協議】當地時間6日，伊朗外交部發表宣告，強烈譴責美國軍隊當日凌晨對伊朗南部錫裡克地區和格什姆島的雷達和海岸監視設施發動軍事襲擊。這些設施的任務是保護伊朗邊境安全和國際水道航運安全。此次襲擊公然違反了停火協議，是對伊朗國家主權和領土完整的軍事侵略。宣告表示，此次行動是美國對伊朗持續敵對和挑釁行為的又一例證，表明美國完全無視國際法基本原則和《聯合國憲章》。伊朗強大的武裝力量，在固有的合法自衛權框架內，以高度警惕、堅定決心和權威，對這一侵略行為作出了相稱且有效的回應，挫敗了此次侵略策劃者的圖謀。宣告稱，美國一再違反停火協議，再次證明該國不僅沒有緩和緊張局勢、重回穩定軌道的意願，而且其冒險行徑也對地區安全構成嚴重威脅。美國政府將對這些非法行徑的一切後果以及任何可能的緊張局勢升級負全部責任。伊朗外交部強調，根據《聯合國憲章》，伊朗擁有固有的合法自衛權，並將竭盡全力捍衛國家主權、安全和利益。伊朗外交部強烈呼籲本地區各國恪守睦鄰友好原則，並堅持國際法基本原則，即不得允許侵略者利用地區國家領土和設施策劃並實施針對伊朗的侵略行動。伊朗外交部呼籲聯合國秘書長、安理會及其他相關國際機構應立即應對美國持續公然違反停火協議和非法行徑，並防止這些威脅地區及國際和平與安全的行為日益常態化。
 
 ---
 
@@ -584,6 +770,12 @@ Israeli military said it struck a vehicle in southern Lebanon after identifying 
 ### 2026-06-06 17:33:23  #國際
 
 以色列軍方表示，在識別出"對其部隊的威脅"後，空襲了黎巴嫩南部的一輛車輛。初步調查顯示，黎巴嫩陸軍的兩名軍官和一名士兵當時在該車輛內。
+
+---
+
+### 2026-06-06 17:32:40  #國際
+
+市場訊息：美國未向參加2026美加墨世界盃的伊朗國家足球隊的超過12名支援團隊成員、教練、體能訓練師、分析師、醫療團隊成員以及一些管理人員發放簽證。
 
 ---
 
@@ -21669,185 +21861,5 @@ South Korea's finance minister said authorities will take appropriate measures i
 ### 2026-06-05 07:36:49  #Trading Economics #Economy #Japan #Wage Growth #Importance 2
 
 Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month.
-
----
-
-### 2026-06-05 07:36:00  #市場 #國際
-
-【在中東事態發展喜憂參半之際，油價小幅走低】在中東事態發展喜憂參半之際，油價在早盤交易中小幅走低。澳新銀行研究部分析師在一份研究報告中稱，一方面，“以色列和黎巴嫩宣佈停火，這讓人們燃起希望，認為伊朗與美國達成協議的關鍵條件之一已經滿足。“然而，另一方面，“幾乎沒有跡象表明雙方的關係正在拉近，“澳新銀行研究部的分析師表示。澳新銀行研究部的分析師指出，美國總統特朗普表示談判已進入最後階段，但伊朗外交部長Araghchi表示談判已經停滯。近月西得州中質油期貨下跌0.2%，報每桶92.84美元。
-
----
-
-### 2026-06-05 07:36:00  #央行 #中國央行
-
-【央行連續縮量續做3個月期買斷式逆回購】昨日，中國人民銀行釋出公開市場買斷式逆回購招標公告。由於本月有8000億元3個月期買斷式逆回購到期，因此在開展上述操作後，3個月期買斷式逆回購將實現淨回籠3000億元。這也是中國人民銀行連續第4個月縮量續做3個月期買斷式逆回購。
-
----
-
-### 2026-06-05 07:34:52  #宏觀 #國際
-
-韓國財政部：若匯率波動加劇、通脹壓力惡化，將採取應對措施。
-
----
-
-### 2026-06-05 07:34:05  #市場 #央行 #國際
-
-【日本實際工資連續第四個月上漲 為日央行加息提供支撐】日本勞動者實際工資連續第四個月走高，創下四年以來最長連漲週期，利好日本央行本月加息。日本厚生勞動省週五公佈資料：剔除通脹後的實際工資同比上漲1.9%，較上月修正值1.4%進一步提速，高於經濟學家預期的1.7%，創下2021年末以來最長月度連增紀錄。名義薪資同比增長3.5%，同樣超出市場一致預期的3.1%。基本工資漲幅3.4%；日本央行重點跟蹤、規避抽樣偏差的全職員工薪資指標上漲2.6%，兩項資料均體現薪資基本面走強。薪資資料出爐之際，日本央行正籌備6月15日至16日的貨幣政策會議，市場普遍預計央行理事會將上調基準利率25個基點。薪資穩步增長預示內需韌性充足，進一步支撐貨幣政策迴歸常態化。知情人士本週透露，日本監管機構將在本次議息會議上考量加息事宜，同時研討2026年後續階段進一步加息的空間。
-
----
-
-### 2026-06-05 07:33:21  #其他
-
-【廣西南寧暴雨橙色預警訊號提升為紅色】廣西南寧市氣象臺5日5時30分將暴雨橙色預警訊號提升為紅色：青秀區伶俐、長塘鎮已出現暴雨，3小時內青秀區將出現大暴雨，注意防範。
-
----
-
-### 2026-06-05 07:32:42  #經濟數據 #日本
-
-日本4月加班工資同比增長4.2%，前值1.9%。
-
----
-
-### 2026-06-05 07:32:18  #公司 #市場
-
-【A股限售股解禁一覽：241.97億元市值限售股今日解禁】Wind資料顯示，週五（6月5日），共有16家公司限售股解禁，合計解禁量為4.8億股，按最新收盤價計算，合計解禁市值為241.97億元。從解禁量來看，3家公司解禁股數超千萬股。中策橡膠、中科儀、崑崙萬維解禁量居前，解禁股數分別為4.18億股、2154.53萬股、1838.69萬股。從解禁市值來看，3家公司解禁市值超億元。中策橡膠、中科儀、優優綠能解禁市值居前，解禁市值分別為191.94億元、19.7億元、15.32億元。從解禁股數佔總股本比例來看，2家公司解禁比例超10%。中策橡膠、優優綠能、中科儀解禁比例居前，解禁比例分別為47.75%、20.94%、9.63%。
-
----
-
-### 2026-06-05 07:32:17  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Decline on Diplomatic Hopes — Brent crude futures traded near $95 per barrel on Friday after losing nearly 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the international oil benchmark is still up more than 4% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities.
-
----
-
-### 2026-06-05 07:32:05  #宏觀 #國際
-
-韓國財政部長具允哲：政府正在提高警惕應對。要警惕金融和外匯市場波動加劇以及民生需求增長。
-
----
-
-### 2026-06-05 07:31:06  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Decline on Diplomatic Hopes — WTI crude futures held below $93 per barrel on Friday after losing more than 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the US oil benchmark is still up more than 6% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities.
-
----
-
-### 2026-06-05 07:31:05  #市場 #國際
-
-日本4月經通脹調整後的實際工資同比上漲1.9%。
-
----
-
-### 2026-06-05 07:30:51  #經濟數據 #日本
-
-日本4月所有家庭支出同比下降0.5%，預期-1.5%，前值-2.90%。
-
----
-
-### 2026-06-05 07:30:30  #國際
-
-日本政府公佈資料顯示，4月家庭支出同比下降0.5%，此前調查的預期為下降1.5%。
-
----
-
-### 2026-06-05 07:30:14  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan April total household spending up 1.6% MoM vs 0.8% expected; March -1.3%.
-
----
-
-### 2026-06-05 07:30:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
-
-Japan April labor cash earnings YoY 3.5% vs 3.1% expected; prior revised to 3.1% from 2.7%.
-
----
-
-### 2026-06-05 07:30:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan April total household spending YoY -0.5% (exp -1.5%), prior -2.9%.
-
----
-
-### 2026-06-05 07:30:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan April overtime pay YoY +4.2%, up from +1.9% previously.
-
----
-
-### 2026-06-05 07:30:07  #MKT News #Economic Calendar #Important
-
-Japan | Expenditures for Two-or-more-person Households (MoM) (Apr) | actual 1.6% | consensus 0.8% | previous -1.3%
-
----
-
-### 2026-06-05 07:30:01  #MKT News #Economic Calendar #Important
-
-Japan | Expenditures for Two-or-more-person Households (YoY) (Apr) | actual -0.5% | consensus -1.5% | previous -2.90%
-
----
-
-### 2026-06-05 07:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Cash Earnings (YoY) (Apr) | actual 3.5% | consensus 3.1% | previous 2.70%
-
----
-
-### 2026-06-05 07:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Overtime Earnings (YoY) (Apr) | actual 4.2% | previous 1.9%
-
----
-
-### 2026-06-05 07:29:50  #其他
-
-【前5個月基金新開戶數近160萬 基金經理對後市普遍持樂觀態度】隨著公募基金賺錢效應的持續顯現，投資者對基金的關注度也在不斷升溫。上交所資料顯示，今年前5個月基金新開戶數近160萬，同比增長超過20%。從近期基金髮行情況看，權益與“固收+”產品均接連出現爆款。站在當前時點，機構對後市普遍持樂觀態度。（上海證券報）
-
----
-
-### 2026-06-05 07:29:11  #國際
-
-韓國表示，外匯和金融市場波動性加劇。
-
----
-
-### 2026-06-05 07:27:43  #公司 #國際
-
-【美國就收購OpenAI等多家人工智慧公司股份舉行了初步討論】NOTUS援引三位知情人士報道，美國高階官員已與多家大型人工智慧公司進行初步討論，探討聯邦政府收購這些公司部分股份的可能性。報道稱，自特朗普開啟第二個任期以來，OpenAI執行長Sam Altman曾與特朗普政府高階官員定期討論過這一想法。據報道，Altman早在2025年初就直接向特朗普提出了這一概念；最近幾周，他又與高階官員再次討論了此事。討論的重點在於由這些公司自願向政府讓渡股份。投資回報可用於公共用途，例如向所有美國家庭發放股息。白宮發言人拒絕就此事發表評論。
-
----
-
-### 2026-06-05 07:26:04  #其他
-
-【北京晴天線上氣溫回升 今夜至明天將有降雨降溫】今天（6月5日）白天，北京以晴到多雲為主，氣溫回升到28℃，但後半夜到明天白天將出現明顯降雨、降溫過程，其中房山、大興、通州降雨相對明顯，公眾外出需注意防雨添衣。昨天白天，北京出現雷陣雨天氣，並伴有短時強降水和7級左右短時大風，局地出現冰雹。監測顯示，昨天7時至16時，全市平均降水量為1.8毫米。（央視）
-
----
-
-### 2026-06-05 07:25:17  #其他
-
-【多家民營銀行中長期限定存產品下架】曾以較高利率吸引儲戶的民營銀行，近期密集收縮中長期限存款業務。繼五年期大額存單隱退後，整存整取的三年期及五年期定期存款也開始下架，多數銀行的中長期限存款年利率步入“1字頭”區間。在淨息差持續承壓、資產端收益率走低的背景下，民營銀行主動壓降高成本負債。（中國證券報）
-
----
-
-### 2026-06-05 07:24:23  #市場
-
-【聰明錢提前佈局AI上游環節 部分基礎材料成新寵】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中國證券報）
-
----
-
-### 2026-06-05 07:24:20  #市場
-
-【前5個月私募證券產品備案量同比增長近50%】據證券日報，今年以來，私募證券產品備案數量顯著增長。私募排排網最新統計資料顯示，前5個月，全市場累計備案私募證券產品6530只（含自主發行及投顧產品，下同），較去年同期的4378只增長49.15%。股票策略繼續擔當備案主力。伴隨A股市場交易活躍度穩步抬升，前5個月，全市場合計備案的股票策略私募產品達4222只，同比增長51.11%，佔全部備案私募證券產品的比重接近65%。其中，指數增強策略成為股票策略私募產品中的增長亮點，備案熱度持續走高。前5個月，全市場合計備案指數增強私募產品1603只，同比大增73.30%，佔股票策略備案總量的37.97%。
-
----
-
-### 2026-06-05 07:24:12  #公司
-
-【谷歌正在其雲部門悄悄進行裁員】兩名知情人士對媒體表示，過去兩週在Google Cloud任職的員工已遭裁員。知情人士稱，谷歌旗下頂級安全部門之一、定期釋出駭客研究報告的威脅情報小組（Threat Intelligence Group）昨日也受到影響。一些員工已在LinkedIn上發文談及裁員情況。他們補充稱，此次裁員並不限於該部門，還波及谷歌2022年收購的網路安全公司Mandiant以及Google Cloud內的其他團隊。尚不清楚具體有多少人受到影響，以及為何此時進行裁員。其中一名知情人士表示，在某個案中，谷歌以有必要將資源重新投入人工智慧等增長領域為由，為其裁員舉措辯護。谷歌一名發言人表示，公司“會定期評估內部架構，以確保我們能以最佳狀態應對客戶與產業不斷變化的需求”。
-
----
-
-### 2026-06-05 07:23:22  #國際
-
-【法院裁定落地，肯尼迪中心將撤下特朗普冠名】據兩名知情人士透露，坐落於華盛頓的肯尼迪表演藝術中心於週四下達工作指令，要求工作人員遵照聯邦法院判決，從場館相關標識中撤除唐納德・特朗普的名字。這份由約翰・F・肯尼迪中心法務總監簽發的內部備忘錄，標誌著該機構正式著手撤銷去年特朗普主導的更名操作。上週特朗普表態，受本次法院裁決影響，他正下令由所屬政府推動，將肯尼迪中心的全部運營管理權完整移交美國國會。 哥倫比亞特區聯邦地區法院法官克里斯托弗·庫珀於5月29日裁定，肯尼迪中心董事會此前將場館更名為“特朗普-肯尼迪中心”屬於越權行為，要求移除所有相關標識。
 
 ---
