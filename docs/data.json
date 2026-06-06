@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-06 15:31:48",
-  "count": 18806,
+  "updated": "2026-06-06 15:35:51",
+  "count": 18809,
   "items": [
+    {
+      "id": "mkt:019e9bdb-56f7-7665-8310-ac60b7c72390",
+      "time": "2026-06-06 15:35:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Rosneft CEO Sechin said OPEC+ has lost some of its potential following the UAE’s withdrawal."
+    },
+    {
+      "id": "4921184",
+      "time": "2026-06-06 15:34:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯石油公司執行長謝欽：OPEC+在阿聯酋退出後喪失了部分影響力。"
+    },
+    {
+      "id": "4921183",
+      "time": "2026-06-06 15:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：烏軍一艘無人艇在羅馬尼亞港口附近爆炸】據路透社報道，烏克蘭軍隊一艘無人艇當地時間5日在羅馬尼亞黑海港口城市康斯坦察附近自爆，未造成人員傷亡。據報道，烏克蘭海軍指責俄羅斯採用電子戰手段干擾了無人艇，使其失去控制。烏方稱已聯絡羅馬尼亞方面發出警告，以避免人員傷亡。事件發生後，俄羅斯駐羅馬尼亞大使館同日表示，俄方沒有參與此次事件，無人艇不屬於俄羅斯。（環球網）"
+    },
+    {
+      "id": "mkt:019e9bd9-f532-7665-8310-a24879c06dd9",
+      "time": "2026-06-06 15:33:32",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【RBNZ official Breman says protectionism remains main risk for New Zealand】RBNZ official Breman said protectionism remains New Zealand’s principal risk, though some encouraging signs may blunt the impact of rising protectionism and weaker global cooperation. She said many countries are resisting the trend. Since the latest Middle East conflict, New Zealand has concluded a free trade agreement with India and signed a special pact with Singapore committing to continue mutual exports even during crises. The RBNZ has warned that persistent global trade-policy uncertainty clouds the international outlook; policymakers say higher trade barriers could slow trading partners’ activity, weigh on export demand and delay domestic recovery."
+    },
     {
       "id": "4921182",
       "time": "2026-06-06 15:31:01",
@@ -173488,14 +173528,6 @@
         "國際"
       ],
       "text": "【美國“選區版圖戰”升級 路易斯安那州拆分民主黨控制選區】當地時間29日，美國路易斯安那州參議院透過一份新的國會選區版圖法案，拆分了一個目前由民主黨控制、非洲裔選民佔多數的選區。隨後該州共和黨籍州長傑夫·蘭德里將法案簽署生效。分析稱，隨著中期選舉的臨近，美國共和、民主兩黨圍繞重劃選區的爭鬥也將愈演愈烈。"
-    },
-    {
-      "id": "4908151",
-      "time": "2026-05-30 15:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【財躍星辰AI小財神V1.4更新上線4大核心功能，全面提升投資體驗】5月30日，AI小財神正式釋出V1.4時代級重大版本更新。AI小財神V1.4大版本正式釋出。本次更新重點上線探索Tab（專家廣場+訂閱/精選）、知識庫、深度研究（DR）、Cashclaw全新形態、快問快答四大核心模組，同時配套上線統一會員體系與全新行情資訊，全面提升投資體驗。"
     }
   ]
 }
