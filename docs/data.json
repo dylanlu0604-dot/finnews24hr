@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 19:55:00",
+  "updated": "2026-06-06 19:58:45",
   "count": 18776,
   "items": [
+    {
+      "id": "4921270",
+      "time": "2026-06-06 19:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
     {
       "id": "4921269",
       "time": "2026-06-06 19:51:34",
@@ -173295,16 +173303,6 @@
         "市場"
       ],
       "text": "本週大盤主力資金累計淨流入-3457.67億元，電力、通訊裝置板塊淨流入居前，個股新易盛、工業富聯淨流入最多。"
-    },
-    {
-      "id": "mkt:019e78bd-32e9-7bb7-9969-c0d52b68e246",
-      "time": "2026-05-30 19:55:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's Ministry of Agriculture mobilizes to seize sunny windows and accelerate summer grain harvest】China's Ministry of Agriculture and Rural Affairs said summer grain is entering large-scale harvest in the Huang-Huai-Hai main producing region and has directed local authorities to seize favorable weather windows, optimize deployment of combines, organize cross-region mechanized harvesting, strengthen logistical and service support, and aim to harvest each area as it matures."
     }
   ]
 }
