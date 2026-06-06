@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 04:26:51_
-_本檔包含 3947 則快訊，約 702087 字_
+_更新時間：2026-06-07 05:03:49_
+_本檔包含 3940 則快訊，約 702054 字_
+
+---
+
+### 2026-06-05 08:52:34  #市場 #國際
+
+10年期日本政府債券收益率下跌1.5個基點，至2.655%。
+
+---
+
+### 2026-06-05 08:51:23  #公司 #國際
+
+【市場分析：加密貨幣ETF熱潮對投資者而言存在隱患】過去兩年半里，加密貨幣ETF的繁榮為投資者提供了更多購買數字資產的途徑。但選擇變多未必總是好事。投資者面臨的問題在於，許多新基金不僅收費較高，而且有些基金未能吸引到足夠資金的話還面臨清盤風險。美國監管機構於2024年1月批准投資於單一加密貨幣的現貨加密貨幣基金，自那以來，資產管理公司已推出130只基金，並吸引了數百億美元資產。Morningstar Direct的資料顯示，資產管理公司正競相複製這一成功，目前有155只數字資產ETF正在籌備中。但投資者的需求依然集中在貝萊德和富達投資等主要發行商推出的低成本比特幣和以太幣產品上，導致許多較新的產品難以吸引到可觀的資產或達到生存門檻。分析師警告稱，多達三分之一的加密貨幣ETF可能會在兩年內關閉，給投資者帶來意外的麻煩。基金清盤會迫使投資者平倉，這可能會觸發資本利得稅，並可能促使他們在往往動盪的市場環境中尋找替代敞口。“當一隻基金關閉時，就會被清盤，”FactSet全球基金分析總監伊麗莎白.卡什納(Elisabeth Kashner)表示。“基金經理會賣出頭寸，將所有資產變現，然後這些現金會以類似於派發股息的方式發放給客戶。”
+
+---
+
+### 2026-06-05 08:50:31  #公司
+
+【藥明生物：新加坡CRDMO中心模組化生物製劑生產廠主體結構封頂】藥明生物宣佈已完成新加坡CRDMO中心模組化生物製劑生產廠的主體結構封頂。該製劑廠按照國際市場最新、最嚴格標準設計建造，建成後將成為公司核心製劑生產基地，預計每年可生產約1億支預充針和西林瓶。
+
+---
+
+### 2026-06-05 08:50:18  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Extend Decline on Tech Weakness — The Nikkei 225 Index fell 1.5% to below 66,500 on Friday, extending the previous session’s losses as technology and artificial intelligence-related stocks continued to face selling pressure. Sentiment in the sector remained weak after a disappointing outlook from Broadcom reignited concerns about the AI trade. Investors also remained cautious amid the fragile ceasefire between the US and Iran and reports of stalled negotiations, despite President Donald Trump’s assurances that discussions are in their final stages. On the domestic front, data showed Japan’s real wages rose for a fourth consecutive month, strengthening expectations that the Bank of Japan could raise interest rates later this month. Technology stocks led the decline, with losses from Kioxia Holdings (-2.1%), SoftBank Group (-1%), Tokyo Electron (-5.6%), Murata Manufacturing (-2.2%) and Advantest (-4.4%).
+
+---
+
+### 2026-06-05 08:49:16  #公司
+
+【小鵬機器人核心產品一號位施曉鑫6月初主動離職】小鵬機器人產品規劃高階總監施曉鑫已於6月初正式離職。從入職到離場，施曉鑫在小鵬機器人完整履職1675天，橫跨鵬行智慧整合、團隊併入小鵬集團、IRON人形機器人從原型迭代至量產籌備全週期，是小鵬人形產品體系從0到1搭建的標杆元老。關於施曉鑫的下一步去向，目前尚不明確。多位信源透露，施曉鑫現階段無求職意向。知情人士稱，施曉鑫已婉拒多家頭部機器人企業和造車新勢力的邀約，短期暫停職場擇業，優先休整。(36氪)
+
+---
+
+### 2026-06-05 08:48:33  #其他
+
+【高階光棒價格漲幅近550% 擁有光棒產能的企業或成本輪行情最大受益方】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。
+
+---
+
+### 2026-06-05 08:48:22  #其他
+
+【中天科技與隆基綠能戰略合作簽約】記者獲悉，6月3日，SNEC展會現場，中天科技與隆基綠能舉行戰略合作簽約儀式。根據協議，雙方將推動儲能板塊整合業務及光伏板塊封裝膠膜產品領域的雙向賦能，攜手開拓新能源產業融合共贏的新路徑。
+
+---
+
+### 2026-06-05 08:48:20  #國際
+
+【以軍稱襲擊加沙北部哈馬斯安全機構成員】當地時間4日，以色列國防軍與國家安全總局（辛貝特）發表聯合宣告稱，以軍對加沙地帶北部發動空襲，打死多名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）安全機構的高階成員。以方稱，這些人員近期正試圖重建哈馬斯並策劃針對以色列的襲擊，此次打擊旨在消除“迫在眉睫的威脅”。對此，哈馬斯方面暫未作出回應。
+
+---
+
+### 2026-06-05 08:48:02  #公司 #市場 #國際
+
+【韓國槓桿ETF面臨下行超跌風險】韓國綜合股價指數（KOSPI）週五大跌不單是博通帶動科技股普跌所致，還源於單一標的槓桿 ETF 集中去槓桿。人工智慧熱潮疊加高頻寬儲存晶片緊缺，令韓國成為年內全球表現最優的主要股票市場。但散戶投資狂熱催生了規模龐大的個股槓桿 ETF。這類產品的資金流動或將形成負反饋迴圈，一旦科技股上漲行情止步，會加劇市場回撥幅度。相較走勢穩健的美股，韓國股市波動率已逼近歷史高位。波動率具備均值迴歸屬性，當前這種單邊上行走勢實屬罕見。核心誘因之一便是掛鉤韓綜指、三星電子與 SK 海力士的槓桿 ETF 規模激增。此類產品本身就容易放大波動（因其需要動用兩倍或三倍名義本金跟隨股價變動調倉），同時其風控避險需求也成為推升波動的關鍵因素。邏輯十分直白：若韓綜指暴跌 50%，兩倍槓桿韓綜指 ETF 淨值將直接歸零。因此槓桿 ETF 會持續對沖暴跌風險、增持波動率頭寸，進而抬升韓國全市場波動率水平。
+
+---
+
+### 2026-06-05 08:47:38  #MKT News
+
+【Jane Street plans proprietary data center】Jane Street, the Wall Street quantitative trading firm, plans to build a proprietary data center and is seeking financing. The firm is in early-stage talks with technology, cryptocurrency and financial-sector firms; capacity and site have not been decided, sources said.
 
 ---
 
@@ -23696,107 +23756,5 @@ Market sources say Anthropic has selected Morgan Stanley and Goldman Sachs to co
 ### 2026-06-04 01:08:07  #焦點 #國際
 
 【伊媒：伊朗方面概述與美國達成協議的四階段計劃】據伊朗媒體Fars News，伊朗方面概述了與美國達成協議的四階段計劃。第一階段側重於全面停止所有戰線的軍事行動，包括伊朗、美國以及抵抗軸心；第二階段的核心是針對四個關鍵問題的落實措施，包括：霍爾木茲海峽及相關機制、解除封鎖、取消石油限制和制裁，以及解凍部分伊朗資產；第三階段將在客觀且可核查的措施落實後，啟動更廣泛的關於制裁和核問題的談判；第四階段涉及成立一個監督委員會，以監督協議的執行並跟蹤各方履約情況。
-
----
-
-### 2026-06-04 01:07:41  #公司 #國際
-
-【特朗普政府調整進口銅關稅規則 放寬美國銅的含量要求】特朗普政府調整美國進口銅產品關稅規則，使進口商更容易獲得與美國本土生產金屬相關的優惠待遇。根據週三刊登在《聯邦公報》上的一項公告，美國政府調整了鋁、鋼、銅進口關稅規則。公告維持部分銅產品50%的關稅稅率不變，但下調了被認定為100%使用美國銅原料的產品標準。此前，一項產品若要被認定為美國製造，其銅含量中至少95%必須在美國境內完成冶煉和鑄造。如今這一門檻已降至85%。該公告還擴大了產品覆蓋範圍，將部分電導體和電纜產品納入適用232條款關稅的商品名單。
-
----
-
-### 2026-06-04 01:06:31  #其他
-
-吉爾吉斯斯坦當選 2027 至 2028 年度聯合國安理會非常任理事國，系第五個獲選國家。
-
----
-
-### 2026-06-04 01:06:23  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Fars News: Iran outlines four-phase plan for deal with US】Fars News reported Iran outlined a four-phase plan toward an agreement with the United States. Phase 1 calls for a comprehensive cessation of military operations on all fronts, covering Iran, US forces and the Axis of Resistance. Phase 2 focuses on implementing four items: arrangements for the Strait of Hormuz and related mechanisms, lifting blockades, removal of oil restrictions and sanctions, and unfreezing some Iranian assets. Phase 3 would open broader negotiations on sanctions and nuclear issues once objective, verifiable measures are implemented. Phase 4 would establish a supervisory committee to monitor implementation and track parties' compliance.
-
----
-
-### 2026-06-04 01:04:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Rebounds from 6-Week Low — US gasoline futures for delivery in the New York Harbor were above $3.15 per gallon, rebounding from the six-week low of $3 touched on May 29th as the prolonged conflict in the Middle East extended the supply halt of oil and refined product from the region. Iran launched strikes against Bahrain and Kuwait after stating it would cut communication with mediatiors aiming for an agreement with the US, while the US hit Iranian targets. The developments prolonged the naval blockade by both countries that prevents the flows of tankers through the Strait of Hormuz, which sees one fifth of global consumption. In turn, US gasoline inventory rebounded by over 3 million barrels in the last week of May following 15 consecutive weeks of decline. Still, an 8 million barrel draw in private crude oil inventories, in addition to an 8 million barrel draw in the SPR, limited the respite in refined product supply.
-
----
-
-### 2026-06-04 01:03:43  #公司 #觀點 #焦點 #國際
-
-市場訊息：Anthropic 選定摩根士丹利、高盛擔任 IPO 聯席保薦承銷商。
-
----
-
-### 2026-06-04 01:01:52  #焦點 #國際
-
-據伊朗媒體Fars News：伊朗方面概述了與美國達成的四階段協議計劃。
-
----
-
-### 2026-06-04 01:01:38  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran's Fars News reported Tehran has outlined a four-stage agreement plan with the United States.
-
----
-
-### 2026-06-04 01:01:06  #宏觀 #公司 #國際
-
-OpenAI 執行長山姆·奧特曼將在華盛頓出訪期間反對美國擬出臺的 AI 模型上線審批提案。
-
----
-
-### 2026-06-04 01:00:27  #觀點 #央行 #國際
-
-摩根士丹利：對外匯市場而言，6月份的FOMC貨幣政策會議（凱文·沃什就任美聯儲主席之後的首次利率決議）是一個關鍵風險。
-
----
-
-### 2026-06-04 01:00:01  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌1.05%，滬銅收跌0.95%，滬鋁收跌1.14%，滬鋅收跌0.59%，滬鉛收跌0.87%，滬鎳收跌1.94%，滬錫收跌0.68%。氧化鋁夜盤收跌0.07%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.89%。
-
----
-
-### 2026-06-04 00:59:54  #國際
-
-據天空新聞阿拉伯頻道：黎巴嫩訊息人士表示，黎巴嫩和以色列在目前在美國舉行的本輪談判未取得實質性進展。本輪談判中不會宣佈黎巴嫩與以色列之間的聯合意向宣告。
-
----
-
-### 2026-06-04 00:59:14  #公司
-
-加拿大航空CEO： 目前公司沒有任何一架飛機因普惠 GTF 發動機故障停場。 待空客擬推出的加長版 A220 客機引數定稿後，公司將研判機型規格並評估其航程效能。
-
----
-
-### 2026-06-04 00:58:42  #MKT News
-
-Sky News Arabia reports Lebanese sources say no joint intent statement between Lebanon and Israel will be announced in this round of talks.
-
----
-
-### 2026-06-04 00:58:39  #公司
-
-加拿大航空CEO：空客 A321XLR 機型交付延期問題仍存在供應鏈體系阻滯。
-
----
-
-### 2026-06-04 00:57:54  #MKT News #Commodities #Energy
-
-Colombia's Cerrejon coal mine has resumed operations and its force majeure declaration has been lifted, a statement said.
-
----
-
-### 2026-06-04 00:57:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent #Impact mixed
-
-Sky News Arabia, citing Lebanese sources, said the current US-hosted round of Lebanon-Israel talks has produced no substantive progress.
-
----
-
-### 2026-06-04 00:55:37  #MKT News
-
-Israel Defense Forces said over the past 24 hours it continued strikes on Hezbollah and its infrastructure in southern Lebanon.
 
 ---

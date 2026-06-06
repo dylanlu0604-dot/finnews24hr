@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 04:26:51_
-_本檔包含 4018 則快訊，約 702003 字_
+_更新時間：2026-06-07 05:03:49_
+_本檔包含 4011 則快訊，約 702106 字_
+
+---
+
+### 2026-06-04 01:07:41  #公司 #國際
+
+【特朗普政府調整進口銅關稅規則 放寬美國銅的含量要求】特朗普政府調整美國進口銅產品關稅規則，使進口商更容易獲得與美國本土生產金屬相關的優惠待遇。根據週三刊登在《聯邦公報》上的一項公告，美國政府調整了鋁、鋼、銅進口關稅規則。公告維持部分銅產品50%的關稅稅率不變，但下調了被認定為100%使用美國銅原料的產品標準。此前，一項產品若要被認定為美國製造，其銅含量中至少95%必須在美國境內完成冶煉和鑄造。如今這一門檻已降至85%。該公告還擴大了產品覆蓋範圍，將部分電導體和電纜產品納入適用232條款關稅的商品名單。
+
+---
+
+### 2026-06-04 01:06:31  #其他
+
+吉爾吉斯斯坦當選 2027 至 2028 年度聯合國安理會非常任理事國，系第五個獲選國家。
+
+---
+
+### 2026-06-04 01:06:23  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Fars News: Iran outlines four-phase plan for deal with US】Fars News reported Iran outlined a four-phase plan toward an agreement with the United States. Phase 1 calls for a comprehensive cessation of military operations on all fronts, covering Iran, US forces and the Axis of Resistance. Phase 2 focuses on implementing four items: arrangements for the Strait of Hormuz and related mechanisms, lifting blockades, removal of oil restrictions and sanctions, and unfreezing some Iranian assets. Phase 3 would open broader negotiations on sanctions and nuclear issues once objective, verifiable measures are implemented. Phase 4 would establish a supervisory committee to monitor implementation and track parties' compliance.
+
+---
+
+### 2026-06-04 01:04:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Rebounds from 6-Week Low — US gasoline futures for delivery in the New York Harbor were above $3.15 per gallon, rebounding from the six-week low of $3 touched on May 29th as the prolonged conflict in the Middle East extended the supply halt of oil and refined product from the region. Iran launched strikes against Bahrain and Kuwait after stating it would cut communication with mediatiors aiming for an agreement with the US, while the US hit Iranian targets. The developments prolonged the naval blockade by both countries that prevents the flows of tankers through the Strait of Hormuz, which sees one fifth of global consumption. In turn, US gasoline inventory rebounded by over 3 million barrels in the last week of May following 15 consecutive weeks of decline. Still, an 8 million barrel draw in private crude oil inventories, in addition to an 8 million barrel draw in the SPR, limited the respite in refined product supply.
+
+---
+
+### 2026-06-04 01:03:43  #公司 #觀點 #焦點 #國際
+
+市場訊息：Anthropic 選定摩根士丹利、高盛擔任 IPO 聯席保薦承銷商。
+
+---
+
+### 2026-06-04 01:01:52  #焦點 #國際
+
+據伊朗媒體Fars News：伊朗方面概述了與美國達成的四階段協議計劃。
+
+---
+
+### 2026-06-04 01:01:38  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's Fars News reported Tehran has outlined a four-stage agreement plan with the United States.
+
+---
+
+### 2026-06-04 01:01:06  #宏觀 #公司 #國際
+
+OpenAI 執行長山姆·奧特曼將在華盛頓出訪期間反對美國擬出臺的 AI 模型上線審批提案。
+
+---
+
+### 2026-06-04 01:00:27  #觀點 #央行 #國際
+
+摩根士丹利：對外匯市場而言，6月份的FOMC貨幣政策會議（凱文·沃什就任美聯儲主席之後的首次利率決議）是一個關鍵風險。
+
+---
+
+### 2026-06-04 01:00:01  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌1.05%，滬銅收跌0.95%，滬鋁收跌1.14%，滬鋅收跌0.59%，滬鉛收跌0.87%，滬鎳收跌1.94%，滬錫收跌0.68%。氧化鋁夜盤收跌0.07%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.89%。
+
+---
+
+### 2026-06-04 00:59:54  #國際
+
+據天空新聞阿拉伯頻道：黎巴嫩訊息人士表示，黎巴嫩和以色列在目前在美國舉行的本輪談判未取得實質性進展。本輪談判中不會宣佈黎巴嫩與以色列之間的聯合意向宣告。
+
+---
+
+### 2026-06-04 00:59:14  #公司
+
+加拿大航空CEO： 目前公司沒有任何一架飛機因普惠 GTF 發動機故障停場。 待空客擬推出的加長版 A220 客機引數定稿後，公司將研判機型規格並評估其航程效能。
+
+---
+
+### 2026-06-04 00:58:42  #MKT News
+
+Sky News Arabia reports Lebanese sources say no joint intent statement between Lebanon and Israel will be announced in this round of talks.
+
+---
+
+### 2026-06-04 00:58:39  #公司
+
+加拿大航空CEO：空客 A321XLR 機型交付延期問題仍存在供應鏈體系阻滯。
+
+---
+
+### 2026-06-04 00:57:54  #MKT News #Commodities #Energy
+
+Colombia's Cerrejon coal mine has resumed operations and its force majeure declaration has been lifted, a statement said.
+
+---
+
+### 2026-06-04 00:57:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent #Impact mixed
+
+Sky News Arabia, citing Lebanese sources, said the current US-hosted round of Lebanon-Israel talks has produced no substantive progress.
+
+---
+
+### 2026-06-04 00:55:37  #MKT News
+
+Israel Defense Forces said over the past 24 hours it continued strikes on Hezbollah and its infrastructure in southern Lebanon.
 
 ---
 
@@ -24063,149 +24165,5 @@ New Zealand | Global Dairy Trade Price Index (MoM) (May.26) | actual -0.6% | pre
 ### 2026-06-02 23:06:25  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
 
 Bank of England MPC member Greene said the ongoing conflict has strengthened the case for rate increases and the Bank may need to tighten monetary policy in the coming weeks or months.
-
----
-
-### 2026-06-02 23:06:06  #其他 #焦點
-
-英國貨幣政策委員會委員格林：隨著衝突持續，加息理由愈發充分，未來數週或數月可能有必要收緊貨幣政策。
-
----
-
-### 2026-06-02 23:06:03  #市場
-
-紐西蘭運營的全球乳製品貿易價格指數下跌0.6%，平均售價為每噸4021美元。
-
----
-
-### 2026-06-02 23:05:50  #公司 #市場 #國際
-
-【房利美和房地美下挫 FHFA局長身兼代理情報總監引發質疑】房利美和房地美普通股週二下跌，此前特朗普任命聯邦住房金融局(FHFA)局長Bill Pulte擔任代理國家情報總監。Pulte缺乏國安方面背景，預計他在擔任代理國家情報總監的同時將繼續兼任FHFA局長以及房利美和房地美董事長。房利美和房地美股價週二均下跌逾3%，兩家公司股價今年累計跌幅均超過30%。
-
----
-
-### 2026-06-02 23:05:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Secretary of State Rubio said there are signs Iran's supreme leader is, to some extent, increasingly taking an active role in related affairs. He also said there are signs the supreme leader remains alive.
-
----
-
-### 2026-06-02 23:05:19  #其他
-
-英格蘭銀行貨幣政策委員會委員格林：儘早採取利率行動存在益處，應對的速度可以說和幅度同等重要。
-
----
-
-### 2026-06-02 23:05:01  #其他
-
-英國貨幣政策委員會成員格林：即便通脹最終並非持續高企，採取行動的風險也遠不及不作為的風險嚴重。
-
----
-
-### 2026-06-02 23:04:54  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100 #Impact mixed
-
-Bank of England Governor Bailey said the labour market is slowing due to insufficient hiring.
-
----
-
-### 2026-06-02 23:04:51  #焦點 #國際
-
-美國國務卿魯比奧：有跡象表明，伊朗最高領袖正逐步加大對相關事務的介入程度。
-
----
-
-### 2026-06-02 23:04:43  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England MPC member Greene said acting on interest rates sooner would be beneficial; the speed of the response may be as important as the size of the move.
-
----
-
-### 2026-06-02 23:04:41  #其他
-
-英格蘭銀行貨幣政策委員會委員格林：相較於產出穩定，我給物價穩定賦予了相對更高的權重。
-
----
-
-### 2026-06-02 23:04:31  #其他
-
-英國貨幣政策委員會成員格林：不採取行動的風險比採取行動的風險更嚴重。
-
----
-
-### 2026-06-02 23:04:16  #其他
-
-英國貨幣政策委員會成員格林：不能指望市場收緊替我們完成政策工作。
-
----
-
-### 2026-06-02 23:04:07  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England MPC member Greene said the risk of acting is lower than the risk of not acting.
-
----
-
-### 2026-06-02 23:04:00  #國際
-
-巴西總統盧拉：特朗普政府曾對巴西商品加徵關稅。
-
----
-
-### 2026-06-02 23:03:56  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-Bank of England MPC member Greene said that under the Bank of England's scenario B, larger second‑round effects from energy prices would necessitate higher interest rates.
-
----
-
-### 2026-06-02 23:03:46  #MKT News #Macro & Rates
-
-Bank of England MPC member Greene said the central bank cannot rely solely on a steepening yield curve to achieve its policy objectives.
-
----
-
-### 2026-06-02 23:03:25  #央行 #其他
-
-英國貨幣政策委員會成員格林：若能源價格走勢與英國央行情景B一致，但第二輪效應更顯著，則需要加息。
-
----
-
-### 2026-06-02 23:03:10  #其他 #焦點
-
-聯合國大會2日選舉孟加拉國外長卡利勒·拉赫曼為第81屆聯大主席。拉赫曼將於今年9月就職，任期一年。
-
----
-
-### 2026-06-02 23:02:29  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England monetary policy committee member Greene said UK households and firms may be more sensitive to rising inf than previously.
-
----
-
-### 2026-06-02 23:02:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England monetary policy committee member Greene said the case for raising the Bank's key rate is strengthening.
-
----
-
-### 2026-06-02 23:02:10  #其他
-
-英國貨幣政策委員會委員格林：英國家庭與企業對通脹上升的敏感度可以說高於以往時期。
-
----
-
-### 2026-06-02 23:01:41  #MKT News
-
-Lula said he learned during negotiations about a 25% tariff.
-
----
-
-### 2026-06-02 23:01:34  #MKT News
-
-German foreign minister said he is confident Germany can strengthen the UN Security Council and the United Nations.
-
----
-
-### 2026-06-02 23:01:25  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Volatile as Markets Assess US-Iran Peace Prospects — Brent crude oil futures fluctuated around $95 per barrel on Tuesday after surging 4.2% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week.
 
 ---

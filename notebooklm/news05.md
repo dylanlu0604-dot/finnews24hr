@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 04:26:51_
-_本檔包含 3533 則快訊，約 702042 字_
+_更新時間：2026-06-07 05:03:49_
+_本檔包含 3549 則快訊，約 702080 字_
+
+---
+
+### 2026-06-01 21:38:40  #市場
+
+ARM股價上漲16%，報409美元/股，總市值報4356億美元。
+
+---
+
+### 2026-06-01 21:38:33  #公司
+
+【蓮花控股：持股5%以上股東減持1774.83萬股 持股比例降至8.31%】蓮花控股公告稱，公司於2026年6月1日收到持股5%以上股東周口中控投資有限公司出具的回函，周口中控於2026年5月25日透過集中競價方式減持公司股份1774.83萬股，佔公司總股本的0.99%。其持有公司股份數量由1.67億股減至1.49億股，佔公司總股本比例由9.30%降至8.31%，觸及1%的整數倍。本次減持不觸及要約收購，不會導致公司控股股東、實際控制人變化，也不會對公司治理及經營產生重大影響。
+
+---
+
+### 2026-06-01 21:38:02  #公司
+
+AST太空移動公司股價跌6.5%，此前德意志銀行將其評級從“買入”下調至“持有”。
+
+---
+
+### 2026-06-01 21:37:55  #市場
+
+Constellation Energy在完成31億美元二次發行定價後，股價下跌5%。
+
+---
+
+### 2026-06-01 21:37:14  #MKT News
+
+European oil and gas stocks rose 1%.
+
+---
+
+### 2026-06-01 21:37:10  #國際
+
+惠譽確認歐洲委員會開發銀行評級為“AAA”，展望穩定。
+
+---
+
+### 2026-06-01 21:37:08  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Ease from Records — US stocks fell from record highs on Monday as conflicting signals regarding the war in the Middle East lifted energy prices and worsened the macroeconomic scenario for the corporate sector. The S&P 500 and Nasdaq 100 inched lower while the Dow fell 150 points. Iran stated that it is halting talks with the US until Israel ceases attacks in Gaza, shortly after new strikes between Iran and GCC members, despite US President Trump stating that dialogue with Tehran was promising. Traditional economic sectors in the Dow were penalized with JPMorgan and Visa dropping up to 1%. Still, strong signals from the AI economy continued to support chip and software stocks. Nvidia advanced over 2% premarket after it announced its new RTX Spark Superchip to mark its entry in the PC market, rivaling AMD and Intel, which plunged around 5% each. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft and Oracle jumping 4% each.
+
+---
+
+### 2026-06-01 21:37:04  #市場 #國際
+
+歐洲油氣股指上漲1%。
+
+---
+
+### 2026-06-01 21:36:56  #公司 #市場
+
+英偉達股價上漲3.6%，該公司推出個人電腦晶片，將人工智慧直接引入個人電腦。
+
+---
+
+### 2026-06-01 21:36:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) up 3.6%.
+
+---
+
+### 2026-06-01 21:36:25  #其他
+
+【宇樹科技體驗館亞洲首店來了 宇樹科技四足機器人9997元起】5月31日，國內知名機器人企業宇樹科技設立的具身智慧體驗館在上海開業，這也是宇樹科技線上下推出體驗+購物的亞洲首店。門店室內面積約100平方米，主要銷售機器人、機器狗、熊貓“皮膚”以及健身棒等產品。消費者可以體驗最新款機器人。據介紹，四足機器人的價格是9997元起，人形機器人R1是29999元起，G1是85000元起。（央視財經）
+
+---
+
+### 2026-06-01 21:36:08  #公司
+
+【美迪凱：公司已成功切入三星的供應鏈體系】美迪凱近日接受機構調研時表示，公司透過收購海碩力光電技術（蘇州）有限公司和INNOWAVE VIETNAM CO.,LTD兩家公司100%股權，已成功切入三星的供應鏈體系。目前手機攝像模組用軟膜濾光片持續量產中，功率晶片的晶圓級封測業務也已進入產品驗證。
+
+---
+
+### 2026-06-01 21:36:00  #MKT News #NZDUSD #Impact bearish #DXY #Impact bullish
+
+NZD/USD fell 1% intraday to a low of 0.5927.
+
+---
+
+### 2026-06-01 21:35:36  #市場
+
+紐西蘭元兌美元下跌 1%，跌至盤中低點 0.5927。
+
+---
+
+### 2026-06-01 21:35:14  #MKT News #Market Regions #Wall Street (US) #DELL.N #Impact bullish
+
+Dell (DELL.N) climbed nearly 7% in early trading.
+
+---
+
+### 2026-06-01 21:35:13  #其他
+
+戴爾盤初漲近7%。
+
+---
+
+### 2026-06-01 21:35:04  #MKT News #Important #Macro & Rates #DXY #Impact mixed #US10Y #S&P500
+
+US May S&P Global Manufacturing PMI final reading due in 10 minutes.
+
+---
+
+### 2026-06-01 21:34:48  #市場 #焦點
+
+【美光科技漲超5% 股價突破1000美元】儲存概念股集體上漲，美光科技漲超5%，股價突破1000美元，閃迪漲3.4%，西部資料漲超4%。
+
+---
+
+### 2026-06-01 21:34:43  #市場 #國際
+
+歐洲航空航天與國防類股指下跌，最新跌幅為3.6%。
+
+---
+
+### 2026-06-01 21:34:40  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European aerospace and defense stocks were down 3.6%.
+
+---
+
+### 2026-06-01 21:34:03  #MKT News #NOW.N #Impact bullish #ADBE.O #CRM.N
+
+U.S. software stocks extended gains after last Friday's rebound: ServiceNow rose 9% (NOW.N), Adobe 3% (ADBE.O) and Salesforce 5% (CRM.N).
+
+---
+
+### 2026-06-01 21:33:53  #其他
+
+GoPro盤初跌超8%，審計機構對GoPro的持續經營能力提出重大質疑。
+
+---
+
+### 2026-06-01 21:33:38  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500
+
+U.S. equities opened lower on Monday, June 1: the Dow Jones Industrial Average was down 231.60 points (-0.45%) at 50,800.86 at the open; the S&P 500 was down 9.42 points (-0.12%) at 7,570.64; the Nasdaq Composite was down 11.12 points (-0.04%) at 26,961.50.
+
+---
+
+### 2026-06-01 21:33:36  #市場
+
+維珍銀河開盤大漲23%。
+
+---
+
+### 2026-06-01 21:33:30  #市場
+
+富時350住宅建築商指數下跌，最新跌幅為3.6%。
+
+---
+
+### 2026-06-01 21:33:27  #MKT News #SPCE.N #Impact bullish
+
+Virgin Galactic (SPCE.N) shares opened 23% higher.
+
+---
+
+### 2026-06-01 21:33:15  #MKT News
+
+IBM (IBM.N) shares opened 8.7% higher, on track to reach a record high.
+
+---
+
+### 2026-06-01 21:33:02  #市場
+
+IBM股價開盤上漲8.7%。
 
 ---
 
@@ -21260,77 +21428,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 ### 2026-05-31 05:19:51  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #US10Y
 
 【US May jobs report due next week expected to show solid gains; unemployment to hold at 4.3%】Bloomberg median economists project May unemployment at 4.3% and nonfarm payrolls up 89,000. That would lift the three-month average job gain to the highest in over a year and reignite debate about accelerating hiring. Forecasts point to continued strength in healthcare, a rebound in construction and leisure & hospitality partly aided by warmer weather, and a potential manufacturing jobs uplift as consumers stockpile goods ahead of possible price spikes from an Iran conflict.
-
----
-
-### 2026-05-31 05:01:17  #國際
-
-以色列軍方在約旦河西岸佔領區展開密集突襲，猶太定居者的襲擊行為也愈發頻繁。
-
----
-
-### 2026-05-31 04:58:25  #MKT News
-
-【Iran negotiator says proposed US deal not final; includes exit clause】Iranian negotiator Saeed Ajorlou said Tehran has not approved the final draft of a proposed agreement with the US; as of Friday night the text remained unapproved though differences were minimal. He said approval would trigger a 60‑day detailed negotiation phase. The draft contains 14 main clauses, each with annexes requiring further negotiation. Ajorlou said enforcement mechanisms—particularly access to Iranian assets and counterpart compliance—are more important than the text itself. The proposal includes a clause allowing Iran to withdraw if the other side fails to meet commitments; cited triggers include breach of a ceasefire, denial of access to Iranian funds, or failure to lift a maritime blockade. He added Iran could reconsider entering the 60‑day talks if initial commitments are not implemented.
-
----
-
-### 2026-05-31 04:56:41  #國際
-
-【印度下調汽油、柴油及航空煤油出口關稅】印度政府週六釋出宣告稱，自6月1日起的兩週週期內，該國將下調汽油、柴油及航空煤油的出口關稅。宣告顯示，汽油出口關稅定為每升1.5盧比（約合0.0158美元），柴油出口關稅為每升13.5盧比，航空煤油出口關稅則為每升9.5盧比。出口關稅每兩週調整一次，調整依據為上一輪稽核週期內原油、汽油、柴油及航空煤油的國際均價。面向國內市場銷售的汽油、柴油，現行消費稅稅率維持不變。
-
----
-
-### 2026-05-31 04:48:17  #國際
-
-美國4月名義消費增長6.3%，實際消費增速僅為1.3%。
-
----
-
-### 2026-05-31 04:45:58  #國際
-
-【一顆流星在美國馬薩諸塞州上空爆炸引發巨響】當地時間5月30日，一顆流星在美國東北部馬薩諸塞州近海上空爆炸，並引發巨響。該州多地居民均聽到爆炸聲。馬薩諸塞州公共安全與安保執行辦公室在社交媒體上宣告稱，已收到相關報告，目前尚不清楚原因，不認為存在任何公共安全威脅。據悉，巨響發生在當天約14時11分。衛星資料顯示，這顆流星從波士頓附近南岸地區上空進入大氣層。目前尚無流星落地點報告。（央視新聞）
-
----
-
-### 2026-05-31 04:44:16  #國際
-
-【黎總理指責以色列實施“焦土政策”】據黎巴嫩國家通訊社報道，黎巴嫩總理薩拉姆30日發表全國電視講話，指責以色列“危險且史無前例”地升級在黎南部軍事行動，稱其行動已不再侷限於特定目標，而是完全摧毀城鎮、村莊及民用基礎設施，造成大量民眾流離失所，相當於對無辜民眾實施“集體懲罰”。薩拉姆說，以軍試圖“根除黎巴嫩的記憶，抹去黎人民的歷史”。但是，這種“焦土政策”無法給以色列帶來安全。（新華社）
-
----
-
-### 2026-05-31 04:42:29  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel tightens northern civil defence measures after Hezbollah rocket, drone attacks】Israel's Home Front Command said late on the 30th it has tightened civil defence measures in northern Israel in response to rocket and drone attacks from Lebanon's Hezbollah.
-
----
-
-### 2026-05-31 04:42:08  #國際
-
-特朗普週六在媒體平臺平臺上表示，“應該有人跟教皇解釋清楚”，伊朗絕不能擁有核武器。此番言論針對的是芝加哥市長布蘭登・約翰遜在梵蒂岡與教皇利奧十四世的會面。
-
----
-
-### 2026-05-31 04:41:58  #國際
-
-【以色列收緊北部民防政策以應對黎真主黨襲擊 】以色列本土守備司令部30日晚宣佈收緊以北部地區的民防政策，以應對來自黎巴嫩真主黨的火箭彈和無人機襲擊。更新的民防政策要求，包括謝莫納在內的多個靠近以黎臨時邊界的城鎮，不允許開展任何教學活動。室內外聚集人數分別被限制在200人、50人以內。在以色列北部的上加利利等地，教學活動只被允許在“可及時到達避難場所”的區域展開。（新華社）
-
----
-
-### 2026-05-31 04:37:12  #MKT News
-
-The International Atomic Energy Agency said its team at the Zaporizhzhia nuclear plant has requested direct access to the affected turbine building for inspection.
-
----
-
-### 2026-05-31 04:36:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The IAEA said it had been informed that the Zaporizhzhia nuclear plant was struck by a drone today, with the turbine building targeted.
-
----
-
-### 2026-05-31 04:30:34  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Iran says it has imposed comprehensive control on Strait of Hormuz shipping】On the 30th, the Hatam al-Anbiya Central Headquarters of Iran's armed forces said Iran has imposed comprehensive control over shipping in the Strait of Hormuz; all commercial vessels, tankers and other civilian ships must follow designated routes and obtain prior permission from the Islamic Revolutionary Guard Corps (IRGC) Navy.
 
 ---

@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 04:26:51_
-_本檔包含 3677 則快訊，約 702123 字_
+_更新時間：2026-06-07 05:03:49_
+_本檔包含 3690 則快訊，約 702334 字_
+
+---
+
+### 2026-06-07 05:01:32  #MKT News
+
+【US may use Iranian assets to compensate Gulf allies】On June 6, sources said Treasury Secretary Bessent directed a team to assess Gulf allies’ situations and estimate repair costs for damage attributed to Iran. The US intends to use relevant mechanisms to transfer frozen Iranian assets to Gulf partners to fund reconstruction and measures to address potential future damage. The US will also consider whether to use Iranian assets to compensate for past losses, the sources said.
+
+---
+
+### 2026-06-07 05:01:29  #宏觀 #國際
+
+【美或用伊朗資產賠償海灣盟友】當地時間6月6日，據知情人士向媒體透露，美國財政部長貝森特已指示團隊“評估海灣盟國的相關情況，並核算伊朗造成損失的修復成本”。訊息人士稱，美國打算利用相關機制，將凍結的伊朗資產轉交給海灣盟友，用以資助其“應對伊朗未來可能造成的破壞並進行重建與修繕工作”。美方還將考慮是否動用伊朗資產“對過往遭受的損失進行賠償”（CCTV國際時訊）
+
+---
+
+### 2026-06-07 04:57:28  #公司 #國際
+
+據印度石油公司官網訊息，該公司已將德里地區每罐14.2公斤裝液化石油氣（LPG）的價格上調29盧比，上調後價格為每罐942盧比。
+
+---
+
+### 2026-06-07 04:49:18  #MKT News #WTI #Impact bullish #XAUUSD
+
+BESSENT instructed a team to assess the condition of Gulf allies and to quantify losses inflicted by Iran.
+
+---
+
+### 2026-06-07 04:48:38  #MKT News
+
+US will consider whether Iranian assets can be used to compensate for past losses, people familiar with the matter said.
+
+---
+
+### 2026-06-07 04:48:09  #國際
+
+據知情訊息人士透露，美國將考慮能否動用伊朗資產來賠償過往事件造成的損失。
+
+---
+
+### 2026-06-07 04:48:07  #宏觀 #焦點 #國際
+
+據知情訊息人士透露，美國財政部長貝森特已指示團隊評估海灣盟友的狀況，以及伊朗襲擊造成破壞的修復成本。
+
+---
+
+### 2026-06-07 04:48:04  #國際
+
+據知情訊息人士透露，美國將動用相關工具，向海灣盟友開放伊朗資產，用以支援重建與修復伊朗未來造成破壞所產生的相關工作。
+
+---
+
+### 2026-06-07 04:47:53  #MKT News
+
+Sources said the United States will use mechanisms to provide Iranian assets to Gulf allies to fund reconstruction and repairs for damage Iran may cause in the future.
+
+---
+
+### 2026-06-07 04:42:42  #公司 #國際
+
+市場資訊：美國先鋒集團釋出報告稱，受財務壓力加劇影響，2025年有6%的401(k)計劃參與者辦理了困難支取。
+
+---
+
+### 2026-06-07 04:40:44  #其他
+
+英國首相斯塔默將削減各政府部門資本開支，計劃削減60億英鎊支出，用以增加國防經費。
+
+---
+
+### 2026-06-07 04:37:43  #MKT News #LUV.O #Impact mixed
+
+【Southwest Airlines COO: studying lounges, transoceanic routes and premium seats】Southwest Airlines COO said the carrier’s lounge concept is the most developed new product but has no launch timetable. He expects the Boeing 737 MAX 7 to enter commercial service in 2027, about six months after certification. Southwest aims to equip 300 aircraft with Starlink by year-end, though rollout depends on Starlink capacity; the airline has not ruled out adding Amazon LEO Wi‑Fi later. He acknowledged activist Elliott Management’s criticism that Southwest’s transformation has been slow. He said higher interest rates are advantageous for Southwest because competitors are more heavily indebted, and that the move to assigned seating removed a key barrier for customers who previously avoided the airline.
+
+---
+
+### 2026-06-07 04:36:57  #公司 #國際
+
+美國西南航空公司營運長表示，指定選座制度消除了原本不願選擇西南航空出行的乘客的一大主要顧慮。
+
+---
+
+### 2026-06-07 04:36:32  #公司 #國際
+
+美國西南航空公司營運長表示，目標是在年底前完成300架配備星鏈裝置飛機的改裝，不過改裝進度取決於星鏈的產能。
+
+---
+
+### 2026-06-07 04:36:18  #公司 #國際
+
+美國西南航空公司營運長表示，加息環境對西南航空有利，因為競爭對手揹負的債務更多。
+
+---
+
+### 2026-06-07 04:36:09  #國際
+
+美國西南航空營運長表示，維權投資者埃利奧特此前指出該航企變革步伐過於遲緩的觀點是正確的。
+
+---
+
+### 2026-06-07 04:36:00  #國際
+
+美國西南航空營運長表示，休息室是新產品構想中推程序度最深的專案，但目前尚未確定推出時間表。
+
+---
+
+### 2026-06-07 04:35:57  #公司 #國際
+
+美國西南航空高管表示，該航司雖已啟用星鏈服務，但並未排除選用亞馬遜低地球軌道衛星Wi-Fi服務的可能。
+
+---
+
+### 2026-06-07 04:35:46  #公司 #國際
+
+美國西南航空營運長表示，該航空公司正認真研究開設貴賓休息室、開通跨洋航線以及增加高階座位配置。
+
+---
+
+### 2026-06-07 04:34:27  #國際
+
+美國國家颶風中心（NHC）表示，“阿曼達”已減弱為熱帶低壓。
+
+---
+
+### 2026-06-07 04:34:10  #MKT News
+
+NHC says Amanda has weakened to a tropical depression.
+
+---
+
+### 2026-06-07 04:32:34  #公司
+
+達美航空總裁在里約接受採訪時表示，公司暫無參與行業整合的計劃，同時稱高階出行需求依舊強勁。
+
+---
+
+### 2026-06-07 04:30:05  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【100 days since US-Israel-Iran conflict began】June 7 marks the 100th day since the US-Israel-Iran conflict began. The confrontation started on Feb. 28 with large-scale US and Israeli strikes on Iran and Iranian retaliation; intense fighting ran about 40 days. A temporary ceasefire followed and the US and Iran held an initial round of talks in Pakistan under Pakistani mediation, but a second round remains delayed amid persistent negotiating disputes and mutual distrust. Israeli escalation in Lebanon and recurring US‑Iran military friction around the Strait of Hormuz have disrupted talks and left prospects for a durable settlement unclear.
 
 ---
 
@@ -22149,65 +22287,5 @@ Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounc
 ### 2026-06-05 08:53:10  #公司 #市場
 
 【深圳華強：目前電子元器件產業景氣度高企 大部分元器件價格在上漲】深圳華強(000062)6月4日在機構調研時表示，目前電子元器件產業景氣度高企，是處於通脹期的產業之一，產業各環節（包括原材料、設計、晶圓代工和封測等）的價格都在上漲，大部分元器件的價格也在上漲。公司作為本土電子元器件分銷龍頭企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。公司將充分把握產業景氣度高企的機遇，推動業務持續高質量發展。
-
----
-
-### 2026-06-05 08:52:34  #市場 #國際
-
-10年期日本政府債券收益率下跌1.5個基點，至2.655%。
-
----
-
-### 2026-06-05 08:51:23  #公司 #國際
-
-【市場分析：加密貨幣ETF熱潮對投資者而言存在隱患】過去兩年半里，加密貨幣ETF的繁榮為投資者提供了更多購買數字資產的途徑。但選擇變多未必總是好事。投資者面臨的問題在於，許多新基金不僅收費較高，而且有些基金未能吸引到足夠資金的話還面臨清盤風險。美國監管機構於2024年1月批准投資於單一加密貨幣的現貨加密貨幣基金，自那以來，資產管理公司已推出130只基金，並吸引了數百億美元資產。Morningstar Direct的資料顯示，資產管理公司正競相複製這一成功，目前有155只數字資產ETF正在籌備中。但投資者的需求依然集中在貝萊德和富達投資等主要發行商推出的低成本比特幣和以太幣產品上，導致許多較新的產品難以吸引到可觀的資產或達到生存門檻。分析師警告稱，多達三分之一的加密貨幣ETF可能會在兩年內關閉，給投資者帶來意外的麻煩。基金清盤會迫使投資者平倉，這可能會觸發資本利得稅，並可能促使他們在往往動盪的市場環境中尋找替代敞口。“當一隻基金關閉時，就會被清盤，”FactSet全球基金分析總監伊麗莎白.卡什納(Elisabeth Kashner)表示。“基金經理會賣出頭寸，將所有資產變現，然後這些現金會以類似於派發股息的方式發放給客戶。”
-
----
-
-### 2026-06-05 08:50:31  #公司
-
-【藥明生物：新加坡CRDMO中心模組化生物製劑生產廠主體結構封頂】藥明生物宣佈已完成新加坡CRDMO中心模組化生物製劑生產廠的主體結構封頂。該製劑廠按照國際市場最新、最嚴格標準設計建造，建成後將成為公司核心製劑生產基地，預計每年可生產約1億支預充針和西林瓶。
-
----
-
-### 2026-06-05 08:50:18  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Extend Decline on Tech Weakness — The Nikkei 225 Index fell 1.5% to below 66,500 on Friday, extending the previous session’s losses as technology and artificial intelligence-related stocks continued to face selling pressure. Sentiment in the sector remained weak after a disappointing outlook from Broadcom reignited concerns about the AI trade. Investors also remained cautious amid the fragile ceasefire between the US and Iran and reports of stalled negotiations, despite President Donald Trump’s assurances that discussions are in their final stages. On the domestic front, data showed Japan’s real wages rose for a fourth consecutive month, strengthening expectations that the Bank of Japan could raise interest rates later this month. Technology stocks led the decline, with losses from Kioxia Holdings (-2.1%), SoftBank Group (-1%), Tokyo Electron (-5.6%), Murata Manufacturing (-2.2%) and Advantest (-4.4%).
-
----
-
-### 2026-06-05 08:49:16  #公司
-
-【小鵬機器人核心產品一號位施曉鑫6月初主動離職】小鵬機器人產品規劃高階總監施曉鑫已於6月初正式離職。從入職到離場，施曉鑫在小鵬機器人完整履職1675天，橫跨鵬行智慧整合、團隊併入小鵬集團、IRON人形機器人從原型迭代至量產籌備全週期，是小鵬人形產品體系從0到1搭建的標杆元老。關於施曉鑫的下一步去向，目前尚不明確。多位信源透露，施曉鑫現階段無求職意向。知情人士稱，施曉鑫已婉拒多家頭部機器人企業和造車新勢力的邀約，短期暫停職場擇業，優先休整。(36氪)
-
----
-
-### 2026-06-05 08:48:33  #其他
-
-【高階光棒價格漲幅近550% 擁有光棒產能的企業或成本輪行情最大受益方】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。
-
----
-
-### 2026-06-05 08:48:22  #其他
-
-【中天科技與隆基綠能戰略合作簽約】記者獲悉，6月3日，SNEC展會現場，中天科技與隆基綠能舉行戰略合作簽約儀式。根據協議，雙方將推動儲能板塊整合業務及光伏板塊封裝膠膜產品領域的雙向賦能，攜手開拓新能源產業融合共贏的新路徑。
-
----
-
-### 2026-06-05 08:48:20  #國際
-
-【以軍稱襲擊加沙北部哈馬斯安全機構成員】當地時間4日，以色列國防軍與國家安全總局（辛貝特）發表聯合宣告稱，以軍對加沙地帶北部發動空襲，打死多名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）安全機構的高階成員。以方稱，這些人員近期正試圖重建哈馬斯並策劃針對以色列的襲擊，此次打擊旨在消除“迫在眉睫的威脅”。對此，哈馬斯方面暫未作出回應。
-
----
-
-### 2026-06-05 08:48:02  #公司 #市場 #國際
-
-【韓國槓桿ETF面臨下行超跌風險】韓國綜合股價指數（KOSPI）週五大跌不單是博通帶動科技股普跌所致，還源於單一標的槓桿 ETF 集中去槓桿。人工智慧熱潮疊加高頻寬儲存晶片緊缺，令韓國成為年內全球表現最優的主要股票市場。但散戶投資狂熱催生了規模龐大的個股槓桿 ETF。這類產品的資金流動或將形成負反饋迴圈，一旦科技股上漲行情止步，會加劇市場回撥幅度。相較走勢穩健的美股，韓國股市波動率已逼近歷史高位。波動率具備均值迴歸屬性，當前這種單邊上行走勢實屬罕見。核心誘因之一便是掛鉤韓綜指、三星電子與 SK 海力士的槓桿 ETF 規模激增。此類產品本身就容易放大波動（因其需要動用兩倍或三倍名義本金跟隨股價變動調倉），同時其風控避險需求也成為推升波動的關鍵因素。邏輯十分直白：若韓綜指暴跌 50%，兩倍槓桿韓綜指 ETF 淨值將直接歸零。因此槓桿 ETF 會持續對沖暴跌風險、增持波動率頭寸，進而抬升韓國全市場波動率水平。
-
----
-
-### 2026-06-05 08:47:38  #MKT News
-
-【Jane Street plans proprietary data center】Jane Street, the Wall Street quantitative trading firm, plans to build a proprietary data center and is seeking financing. The firm is in early-stage talks with technology, cryptocurrency and financial-sector firms; capacity and site have not been decided, sources said.
 
 ---

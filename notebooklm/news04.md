@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 04:26:51_
-_本檔包含 3645 則快訊，約 701972 字_
+_更新時間：2026-06-07 05:03:49_
+_本檔包含 3641 則快訊，約 702135 字_
+
+---
+
+### 2026-06-02 23:06:06  #其他 #焦點
+
+英國貨幣政策委員會委員格林：隨著衝突持續，加息理由愈發充分，未來數週或數月可能有必要收緊貨幣政策。
+
+---
+
+### 2026-06-02 23:06:03  #市場
+
+紐西蘭運營的全球乳製品貿易價格指數下跌0.6%，平均售價為每噸4021美元。
+
+---
+
+### 2026-06-02 23:05:50  #公司 #市場 #國際
+
+【房利美和房地美下挫 FHFA局長身兼代理情報總監引發質疑】房利美和房地美普通股週二下跌，此前特朗普任命聯邦住房金融局(FHFA)局長Bill Pulte擔任代理國家情報總監。Pulte缺乏國安方面背景，預計他在擔任代理國家情報總監的同時將繼續兼任FHFA局長以及房利美和房地美董事長。房利美和房地美股價週二均下跌逾3%，兩家公司股價今年累計跌幅均超過30%。
+
+---
+
+### 2026-06-02 23:05:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Secretary of State Rubio said there are signs Iran's supreme leader is, to some extent, increasingly taking an active role in related affairs. He also said there are signs the supreme leader remains alive.
+
+---
+
+### 2026-06-02 23:05:19  #其他
+
+英格蘭銀行貨幣政策委員會委員格林：儘早採取利率行動存在益處，應對的速度可以說和幅度同等重要。
+
+---
+
+### 2026-06-02 23:05:01  #其他
+
+英國貨幣政策委員會成員格林：即便通脹最終並非持續高企，採取行動的風險也遠不及不作為的風險嚴重。
+
+---
+
+### 2026-06-02 23:04:54  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100 #Impact mixed
+
+Bank of England Governor Bailey said the labour market is slowing due to insufficient hiring.
+
+---
+
+### 2026-06-02 23:04:51  #焦點 #國際
+
+美國國務卿魯比奧：有跡象表明，伊朗最高領袖正逐步加大對相關事務的介入程度。
+
+---
+
+### 2026-06-02 23:04:43  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England MPC member Greene said acting on interest rates sooner would be beneficial; the speed of the response may be as important as the size of the move.
+
+---
+
+### 2026-06-02 23:04:41  #其他
+
+英格蘭銀行貨幣政策委員會委員格林：相較於產出穩定，我給物價穩定賦予了相對更高的權重。
+
+---
+
+### 2026-06-02 23:04:31  #其他
+
+英國貨幣政策委員會成員格林：不採取行動的風險比採取行動的風險更嚴重。
+
+---
+
+### 2026-06-02 23:04:16  #其他
+
+英國貨幣政策委員會成員格林：不能指望市場收緊替我們完成政策工作。
+
+---
+
+### 2026-06-02 23:04:07  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England MPC member Greene said the risk of acting is lower than the risk of not acting.
+
+---
+
+### 2026-06-02 23:04:00  #國際
+
+巴西總統盧拉：特朗普政府曾對巴西商品加徵關稅。
+
+---
+
+### 2026-06-02 23:03:56  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+Bank of England MPC member Greene said that under the Bank of England's scenario B, larger second‑round effects from energy prices would necessitate higher interest rates.
+
+---
+
+### 2026-06-02 23:03:46  #MKT News #Macro & Rates
+
+Bank of England MPC member Greene said the central bank cannot rely solely on a steepening yield curve to achieve its policy objectives.
+
+---
+
+### 2026-06-02 23:03:25  #央行 #其他
+
+英國貨幣政策委員會成員格林：若能源價格走勢與英國央行情景B一致，但第二輪效應更顯著，則需要加息。
+
+---
+
+### 2026-06-02 23:03:10  #其他 #焦點
+
+聯合國大會2日選舉孟加拉國外長卡利勒·拉赫曼為第81屆聯大主席。拉赫曼將於今年9月就職，任期一年。
+
+---
+
+### 2026-06-02 23:02:29  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England monetary policy committee member Greene said UK households and firms may be more sensitive to rising inf than previously.
+
+---
+
+### 2026-06-02 23:02:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England monetary policy committee member Greene said the case for raising the Bank's key rate is strengthening.
+
+---
+
+### 2026-06-02 23:02:10  #其他
+
+英國貨幣政策委員會委員格林：英國家庭與企業對通脹上升的敏感度可以說高於以往時期。
+
+---
+
+### 2026-06-02 23:01:41  #MKT News
+
+Lula said he learned during negotiations about a 25% tariff.
+
+---
+
+### 2026-06-02 23:01:34  #MKT News
+
+German foreign minister said he is confident Germany can strengthen the UN Security Council and the United Nations.
+
+---
+
+### 2026-06-02 23:01:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Volatile as Markets Assess US-Iran Peace Prospects — Brent crude oil futures fluctuated around $95 per barrel on Tuesday after surging 4.2% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week.
 
 ---
 
@@ -21799,173 +21943,5 @@ P&G Stock Price Hits 20-week Low — P&G shares decreased to 140.08 USD, the low
 ### 2026-06-01 21:39:04  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Falls as US-Iran Tensions Lift Oil Prices — The Ibovespa fell more than 0.5% to trade below 173,000 on Monday as renewed attacks in the Persian Gulf challenged optimism over the reopening of the Strait of Hormuz. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with Santander losing 1% and Bradesco down about 0.5%. Meanwhile, the S&P Global Brazil Manufacturing PMI fell to 49.1 in May from 52.6 in April, signaling a renewed contraction in factory activity and weighing on industrial names such as WEG, which shed nearly 1%. Vale also pressured the index, falling around 1.5% as iron ore prices declined. In contrast, Petrobras gained more than 1%, supported by higher oil prices.
-
----
-
-### 2026-06-01 21:38:40  #市場
-
-ARM股價上漲16%，報409美元/股，總市值報4356億美元。
-
----
-
-### 2026-06-01 21:38:33  #公司
-
-【蓮花控股：持股5%以上股東減持1774.83萬股 持股比例降至8.31%】蓮花控股公告稱，公司於2026年6月1日收到持股5%以上股東周口中控投資有限公司出具的回函，周口中控於2026年5月25日透過集中競價方式減持公司股份1774.83萬股，佔公司總股本的0.99%。其持有公司股份數量由1.67億股減至1.49億股，佔公司總股本比例由9.30%降至8.31%，觸及1%的整數倍。本次減持不觸及要約收購，不會導致公司控股股東、實際控制人變化，也不會對公司治理及經營產生重大影響。
-
----
-
-### 2026-06-01 21:38:02  #公司
-
-AST太空移動公司股價跌6.5%，此前德意志銀行將其評級從“買入”下調至“持有”。
-
----
-
-### 2026-06-01 21:37:55  #市場
-
-Constellation Energy在完成31億美元二次發行定價後，股價下跌5%。
-
----
-
-### 2026-06-01 21:37:14  #MKT News
-
-European oil and gas stocks rose 1%.
-
----
-
-### 2026-06-01 21:37:10  #國際
-
-惠譽確認歐洲委員會開發銀行評級為“AAA”，展望穩定。
-
----
-
-### 2026-06-01 21:37:08  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Ease from Records — US stocks fell from record highs on Monday as conflicting signals regarding the war in the Middle East lifted energy prices and worsened the macroeconomic scenario for the corporate sector. The S&P 500 and Nasdaq 100 inched lower while the Dow fell 150 points. Iran stated that it is halting talks with the US until Israel ceases attacks in Gaza, shortly after new strikes between Iran and GCC members, despite US President Trump stating that dialogue with Tehran was promising. Traditional economic sectors in the Dow were penalized with JPMorgan and Visa dropping up to 1%. Still, strong signals from the AI economy continued to support chip and software stocks. Nvidia advanced over 2% premarket after it announced its new RTX Spark Superchip to mark its entry in the PC market, rivaling AMD and Intel, which plunged around 5% each. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft and Oracle jumping 4% each.
-
----
-
-### 2026-06-01 21:37:04  #市場 #國際
-
-歐洲油氣股指上漲1%。
-
----
-
-### 2026-06-01 21:36:56  #公司 #市場
-
-英偉達股價上漲3.6%，該公司推出個人電腦晶片，將人工智慧直接引入個人電腦。
-
----
-
-### 2026-06-01 21:36:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) up 3.6%.
-
----
-
-### 2026-06-01 21:36:25  #其他
-
-【宇樹科技體驗館亞洲首店來了 宇樹科技四足機器人9997元起】5月31日，國內知名機器人企業宇樹科技設立的具身智慧體驗館在上海開業，這也是宇樹科技線上下推出體驗+購物的亞洲首店。門店室內面積約100平方米，主要銷售機器人、機器狗、熊貓“皮膚”以及健身棒等產品。消費者可以體驗最新款機器人。據介紹，四足機器人的價格是9997元起，人形機器人R1是29999元起，G1是85000元起。（央視財經）
-
----
-
-### 2026-06-01 21:36:08  #公司
-
-【美迪凱：公司已成功切入三星的供應鏈體系】美迪凱近日接受機構調研時表示，公司透過收購海碩力光電技術（蘇州）有限公司和INNOWAVE VIETNAM CO.,LTD兩家公司100%股權，已成功切入三星的供應鏈體系。目前手機攝像模組用軟膜濾光片持續量產中，功率晶片的晶圓級封測業務也已進入產品驗證。
-
----
-
-### 2026-06-01 21:36:00  #MKT News #NZDUSD #Impact bearish #DXY #Impact bullish
-
-NZD/USD fell 1% intraday to a low of 0.5927.
-
----
-
-### 2026-06-01 21:35:36  #市場
-
-紐西蘭元兌美元下跌 1%，跌至盤中低點 0.5927。
-
----
-
-### 2026-06-01 21:35:14  #MKT News #Market Regions #Wall Street (US) #DELL.N #Impact bullish
-
-Dell (DELL.N) climbed nearly 7% in early trading.
-
----
-
-### 2026-06-01 21:35:13  #其他
-
-戴爾盤初漲近7%。
-
----
-
-### 2026-06-01 21:35:04  #MKT News #Important #Macro & Rates #DXY #Impact mixed #US10Y #S&P500
-
-US May S&P Global Manufacturing PMI final reading due in 10 minutes.
-
----
-
-### 2026-06-01 21:34:48  #市場 #焦點
-
-【美光科技漲超5% 股價突破1000美元】儲存概念股集體上漲，美光科技漲超5%，股價突破1000美元，閃迪漲3.4%，西部資料漲超4%。
-
----
-
-### 2026-06-01 21:34:43  #市場 #國際
-
-歐洲航空航天與國防類股指下跌，最新跌幅為3.6%。
-
----
-
-### 2026-06-01 21:34:40  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European aerospace and defense stocks were down 3.6%.
-
----
-
-### 2026-06-01 21:34:03  #MKT News #NOW.N #Impact bullish #ADBE.O #CRM.N
-
-U.S. software stocks extended gains after last Friday's rebound: ServiceNow rose 9% (NOW.N), Adobe 3% (ADBE.O) and Salesforce 5% (CRM.N).
-
----
-
-### 2026-06-01 21:33:53  #其他
-
-GoPro盤初跌超8%，審計機構對GoPro的持續經營能力提出重大質疑。
-
----
-
-### 2026-06-01 21:33:38  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500
-
-U.S. equities opened lower on Monday, June 1: the Dow Jones Industrial Average was down 231.60 points (-0.45%) at 50,800.86 at the open; the S&P 500 was down 9.42 points (-0.12%) at 7,570.64; the Nasdaq Composite was down 11.12 points (-0.04%) at 26,961.50.
-
----
-
-### 2026-06-01 21:33:36  #市場
-
-維珍銀河開盤大漲23%。
-
----
-
-### 2026-06-01 21:33:30  #市場
-
-富時350住宅建築商指數下跌，最新跌幅為3.6%。
-
----
-
-### 2026-06-01 21:33:27  #MKT News #SPCE.N #Impact bullish
-
-Virgin Galactic (SPCE.N) shares opened 23% higher.
-
----
-
-### 2026-06-01 21:33:15  #MKT News
-
-IBM (IBM.N) shares opened 8.7% higher, on track to reach a record high.
-
----
-
-### 2026-06-01 21:33:02  #市場
-
-IBM股價開盤上漲8.7%。
 
 ---
