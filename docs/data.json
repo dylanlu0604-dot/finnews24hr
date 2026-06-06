@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-06 18:18:34",
+  "updated": "2026-06-06 18:22:22",
   "count": 18809,
   "items": [
+    {
+      "id": "mkt:019e9c72-a632-7665-8312-210c1f7f372a",
+      "time": "2026-06-06 18:20:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: U.S. government weighing equity stakes in major AI firms】U.S. reporting on June 6 cited three people with knowledge saying senior U.S. officials have held preliminary talks with large U.S. AI companies about the government taking equity stakes. Sources said Sam Altman, CEO of OpenAI, has regularly discussed the idea with senior officials since President Trump's second term began; he first raised the concept to Trump in early 2025 and has recently revisited it as a way to broaden public distribution of AI-related economic gains. Discussions have centered on firms voluntarily transferring shares to the government, with investment returns that could be used for public purposes; the proposal is still being developed and specifics remain undecided."
+    },
+    {
+      "id": "4921243",
+      "time": "2026-06-06 18:18:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【關於談判，伊朗高官表示“球”在美方腳下】伊朗最高領袖軍事顧問穆赫辛·雷扎伊5日表示，美國與伊朗能否達成協議，取決於美國政府是否同意解凍伊朗240億美元遭凍結資產。他同時警告，美方若重啟軍事行動，將“邁向一條黑暗道路”。雷扎伊當天在伊朗首都德黑蘭接受美國有線電視新聞網(CNN)記者專訪時說：“談判正陷入僵局，（美國總統）特朗普必須打破僵局。主動權在他手裡。”(新華社)"
+    },
+    {
+      "id": "4921242",
+      "time": "2026-06-06 18:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特方面通報：已處置三起殘骸墜落事件，其中兩起引發火情。"
+    },
     {
       "id": "4921241",
       "time": "2026-06-06 18:16:59",
@@ -173558,35 +173585,6 @@
         "其他"
       ],
       "text": "【呼和浩特一藥店高價銷售集採藥被約談，藥店員工最新回應：該藥品已調至89.9元，不過暫時缺貨】據央視新聞報道，日前，有患者反映，在內蒙古呼和浩特的京遠大藥房，一盒集採價格應為百餘元的馬來酸阿伐曲泊帕片，在該藥店售價卻高達3960元。此事被曝光後，當地醫保部門已對涉事藥店主要負責人進行約談，市場監管部門已行政立案。5月30日下午，記者聯絡京遠大藥房，一名店員向記者表示，藥店目前仍在營業，正在市場監管部門的監督下整改，該藥品售價已調至89.9元每盒，不過目前暫時沒有貨。（極目新聞）"
-    },
-    {
-      "id": "mkt:019e7866-0d7c-7bb7-9969-2e0e86a89346",
-      "time": "2026-05-30 18:20:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Next week lock-up expiries total 56.7 bln yuan】Next week (June 1-5) 41 Chinese stocks will see lock-up expiries totaling 1.853 billion shares, worth 56.68 billion yuan at the latest close. Five stocks have expiry values above 2.2 billion yuan; Zhongce Rubber is largest with 418 million shares unlocking, valued at 19.415 billion yuan, primarily IPO original-shareholder restricted shares. Four stocks have unlock ratios above 30%; Hangtian Huanyu, Zhongce Rubber and Guqi Rongcai lead at 76.28%, 47.75% and 34.39% respectively."
-    },
-    {
-      "id": "4908229",
-      "time": "2026-05-30 18:19:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【下週解禁市值超560億元】據統計，下週（6月1日至5日）將有41股解禁，合計解禁數量為18.53億股，按照最新收盤價計算，合計解禁市值566.83億元。5股解禁市值均超22億元。其中中策橡膠解禁市值最高，下週將有4.18億股上市流通，本次解禁主要為首發原股東限售股份，解禁市值為194.15億元。從解禁比例來看，4股解禁比例超30%，其中航天環宇、中策橡膠和古麒絨材的解禁比例居前，分別為76.28%、47.75%和34.39%。"
-    },
-    {
-      "id": "mkt:019e7864-fb8e-7bb7-9969-2018efec4857",
-      "time": "2026-05-30 18:19:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The Israeli military said it is conducting strikes on Hezbollah targets after Hezbollah violated a ceasefire agreement."
     }
   ]
 }
