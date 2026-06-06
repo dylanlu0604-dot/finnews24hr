@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 11:13:30",
+  "updated": "2026-06-06 11:17:23",
   "count": 18773,
   "items": [
+    {
+      "id": "mkt:019e9aee-6de3-7665-830f-7fafceb0b5c0",
+      "time": "2026-06-06 11:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hubei safety office reports 23 fireworks cases, most involve illegal storage and operations】Hubei provincial safety office on June 6 published 23 typical cases from a full‑chain crackdown on illegal and noncompliant fireworks and firecrackers. Unlike prior confiscation‑and‑fine responses, most offenders in these cases received administrative detention of 2–10 days. Public security, emergency management and market regulators conducted joint enforcement and rolled out a 'five‑batch' rectification programme under the special enforcement campaign to tackle entrenched industry problems, uncover safety hazards and deter offenders' sense of impunity."
+    },
     {
       "id": "4921030",
       "time": "2026-06-06 11:12:43",
@@ -173188,14 +173196,6 @@
         "國際"
       ],
       "text": "【贍養負擔重 日本“鰥寡離婚”增多】隨著日本老齡化日益嚴重，越來越多的日本人在配偶去世後還辦理“離婚”手續，即“死後離婚”。 所謂“死後離婚”，並非與去世的配偶離婚，而是與配偶的父母斷絕關係。《日本經濟新聞》28日報道，“死後離婚”數量自2015年開始上升，2017年達到4895起，隨後幾年緩慢減少，但2024年又達到4027起的小高峰。 （觀察者網）"
-    },
-    {
-      "id": "4908062",
-      "time": "2026-05-30 11:14:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【麒麟軟體釋出兩款全新作業系統】5月29日，麒麟軟體在2026世界智慧產業博覽會上，釋出了麒麟工業作業系統V10、麒麟100智聯作業系統兩款全新產品，同時銀河麒麟端側智慧體“Kylinbot”也首次公開亮相，全方位展示了麒麟軟體在牽引AI前沿技術、打造先進計算算力底座方面的最新成果。"
     }
   ]
 }
