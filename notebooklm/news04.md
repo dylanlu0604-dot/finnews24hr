@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 01:22:23_
-_本檔包含 3651 則快訊，約 700864 字_
+_更新時間：2026-06-07 02:03:56_
+_本檔包含 3641 則快訊，約 700987 字_
+
+---
+
+### 2026-06-02 22:36:45  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Secretary of State Rubio said Washington hopes to end exemptions for sanctions on Russian oil as soon as possible.
+
+---
+
+### 2026-06-02 22:36:41  #公司 #市場
+
+【6月2日增減持彙總】據不完全統計，6月2日盤後，四川九洲、宏川智慧、銀龍股份披露增持情況，包括中巖大地、露笑科技、移為通訊、艾布魯、青島銀行、蘇奧感測、欣靈電氣、唯科科技、芯動聯科、風語築、科美診斷、方邦股份、博納影業、威龍股份、蜀道裝備、浩通科技、必得科技、華鈺礦業、南模生物、聯域股份在內的20家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-02 22:36:40  #國際
+
+美國國務卿魯比奧：我們希望儘快結束對俄羅斯石油制裁的豁免。
+
+---
+
+### 2026-06-02 22:36:29  #MKT News #WTI #Impact bearish #Brent
+
+【Rubio says U.S. negotiating with Iran】U.S. Secretary of State Rubio said on the 2nd that the United States is negotiating with Iran.
+
+---
+
+### 2026-06-02 22:36:13  #公司
+
+【比亞迪：計劃今年底前建成2萬座閃充站】據深圳釋出，6月2日，以“車馳天下 材賦未來”為主題的2026年深汕特別合作區產業投資促進大會舉行。比亞迪股份有限公司副總裁羅忠良在會上發言時說，5年前比亞迪投資深汕的決定“無比正確”。目前，比亞迪深汕產業園一期已全面達產，二期產能穩步提升，三、四期於去年投產。今年3月釋出的第二代刀片電池即在深汕生產。羅忠良介紹，比亞迪已啟動“閃充中國”戰略，計劃今年底前建成2萬座閃充站。截至5月底，全國已建成超6150座，其中深圳已建成149座。此前釋出的第二代刀片電池及閃充技術，實現“5分鐘充好，9分鐘充飽；零下30℃，只多3分鐘”。
+
+---
+
+### 2026-06-02 22:36:09  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Israeli strikes in southern Lebanon kill 10, injure 131】Lebanese Health Ministry said Israeli strikes on multiple sites in southern Lebanon on the 1st killed at least 10 and injured 131. Strikes around Jabal Amal Hospital in Tyre killed 4 and wounded 127, including 39 medical and administrative staff—four critically—and caused serious damage to hospital infrastructure. A separate strike on Marwaniyeh in the Sidon area killed six and injured four.
+
+---
+
+### 2026-06-02 22:35:42  #MKT News
+
+U.S. Secretary of State Rubio said the U.S. will rejoin Gavi (Global Alliance for Vaccines and Immunization).
+
+---
+
+### 2026-06-02 22:35:39  #國際
+
+美國國務卿魯比奧表示，美國將重新參與全球疫苗聯盟的相關工作。
+
+---
+
+### 2026-06-02 22:35:03  #國際
+
+【以軍襲擊黎南部多地致10死131傷】黎巴嫩衛生部2日表示，以色列1日對黎南部多地發動襲擊，造成至少10人死亡、131人受傷。（新華社）
+
+---
+
+### 2026-06-02 22:34:54  #市場 #央行 #國際
+
+【金飾大降價了】近期，國際金價持續震盪回落，1日盤中失守每盎司4500美元整數關口。金價從年初的歷史高位明顯回撤，國內黃金飾品價格也隨之下調。記者今天走訪北京的黃金賣場看到，目前北京市場主流品牌足金飾品零售價，普遍落在每克1340元至1370元區間，對比年初市場零售高點的每克1600元至1700元，單克價格下調超過300元，降幅約兩成。金價回落，帶動了剛性消費需求釋放，很多消費者帶著明確需求進店。投資類黃金市場觀望情緒更濃，更多消費者選擇逐步進場、按需入手。針對本輪金價回落，業內專家分析，核心原因是地緣政治衝突邊際緩和、美聯儲推遲降息預期升溫、美債收益率走高以及美元走強，短期金價確實存在一定調整壓力，但大跌空間有限。（央視財經）
+
+---
+
+### 2026-06-02 22:34:46  #MKT News
+
+Norway's finance minister said U.S. public support for NATO remains strong.
+
+---
+
+### 2026-06-02 22:34:25  #其他
+
+市場訊息：加拿大正式尋求續簽美墨加協定並減免相關行業關稅。
+
+---
+
+### 2026-06-02 22:34:12  #MKT News #Market Regions #Japan & APAC #9984.T #Impact bullish
+
+【Masayoshi Son Reclaims Asia's Richest】Forbes real-time list shows SoftBank founder and CEO Masayoshi Son's net worth rose to US$100.7bn on June 2, surpassing Mukesh Ambani and Gautam Adani. SoftBank shares rallied as much as 14.71% yesterday, lifting market value to ¥48.0 trillion (about US$306bn) and briefly overtaking Toyota’s roughly ¥46.0 trillion, ending Toyota’s more-than-20-year run as Japan’s largest listed company by market cap. At today’s Tokyo close SoftBank market cap was ¥49.3 trillion versus Toyota ¥44.92 trillion.
+
+---
+
+### 2026-06-02 22:34:08  #國際
+
+據伊朗伊斯蘭共和國通訊社2日報道，根據伊朗已故最高領袖阿里·哈梅內伊生前遺願及其親屬建議，其遺體將安葬在馬什哈德的伊瑪目禮薩聖陵。（新華社）
+
+---
+
+### 2026-06-02 22:33:43  #公司
+
+【天源迪科：公司沒有參與穩定幣和跨境支付業務】天源迪科(300047)6月2日在業績說明會上表示，公司沒有參與穩定幣和跨境支付業務。
+
+---
+
+### 2026-06-02 22:33:20  #MKT News #Market Themes #Crypto Concepts
+
+Tianyuan Dike said at a June 2 earnings briefing that it is not involved in stablecoin or cross-border payments businesses.
+
+---
+
+### 2026-06-02 22:32:45  #央行 #其他
+
+英國央行行長貝利：本輪能源衝擊規模遠不及2022年。
+
+---
+
+### 2026-06-02 22:32:35  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+Bank of England Governor Bailey said the current energy shock is far less severe than in 2022.
+
+---
+
+### 2026-06-02 22:32:18  #焦點 #國際
+
+據外媒報道，美國國務卿魯比奧2日說：“我們正在與伊朗談判。”（新華社）
+
+---
+
+### 2026-06-02 22:31:08  #其他
+
+【浙江省委書記王浩會見寮國人民革命黨中央委員會總書記、國家主席通倫一行】2日下午，浙江省委書記王浩在杭州會見了寮國人民革命黨中央委員會總書記、國家主席通倫一行。 王浩代表浙江省委、省政府和6700多萬浙江人民，對通倫一行的到訪表示歡迎，並簡要介紹了浙江經濟社會發展情況。王浩說，習近平總書記在浙江工作期間，為浙江量身制定了“八八戰略”，20多年來引領浙江發生了全方位、系統性、深層次精彩蝶變。當前，浙江正堅定不移貫徹落實習近平總書記考察浙江重要講話精神，深入踐行“八八戰略”，推動高質量發展建設共同富裕示範區取得決定性進展、率先呈現基本實現社會主義現代化的生動圖景。今年是中老建交65週年暨“中老友好年”，在中老加快打造高標準、高質量、高水平的命運共同體大背景下，浙江與寮國的交流合作取得了豐碩成果。我們將堅決貫徹習近平總書記重要指示精神，認真落實兩黨兩國最高領導人重要共識，進一步發揮好中老鐵路作用，持續深化經貿投資、現代農業、數字經濟、基礎設施等領域合作，不斷拓展教科文體等領域合作成果，加強地方交流交往，攜手開展更高質量互利共贏，共同助力中老友好薪火相傳，共增人民福祉。（浙江釋出）
 
 ---
 
@@ -21823,185 +21943,5 @@ Reports said U.S. Treasuries extended losses after Iran halted communications wi
 ### 2026-06-01 21:20:02  #Trading Economics #Markets #Commodity #Importance 0
 
 Lithium Holds Retreat from 2-Year High — Lithium carbonate prices in China were near CNY 180,000 per tonne, below the two-year high of CNY 200,500 from May 13th as higher prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027.
-
----
-
-### 2026-06-01 21:19:34  #國際
-
-據伊朗媒體6月1日報道，鑑於以色列在黎巴嫩的持續軍事行動，伊朗談判團隊暫停透過中間人同美國的對話。（新華社）
-
----
-
-### 2026-06-01 21:19:19  #國際
-
-伊朗塔斯尼姆通訊社：“抵抗軸心”將啟動所有戰線行動。
-
----
-
-### 2026-06-01 21:18:48  #MKT News #Important #XAUUSD #Impact bullish #WTI #Brent
-
-TASNIM News reports Iran says it will not negotiate until Israel halts operations in Lebanon and Gaza.
-
----
-
-### 2026-06-01 21:17:57  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-TASNIM NEWS reports Iran and the Resistance Front have decided to fully block the Strait of Hormuz; the report says other fronts, including the Bab el-Mandeb Strait, could be activated in response.
-
----
-
-### 2026-06-01 21:17:55  #市場 #國際
-
-歐洲斯托克600指數跌幅擴大，最新報跌0.7%。
-
----
-
-### 2026-06-01 21:17:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Tasnim News reported Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from areas of Lebanon it occupies before talks can resume.
-
----
-
-### 2026-06-01 21:17:03  #市場
-
-德國10年期國債收益率上漲6個基點，報2.99%。
-
----
-
-### 2026-06-01 21:16:59  #國際
-
-受伊朗中止與美國談判訊息影響，美元匯率升至日內高點。
-
----
-
-### 2026-06-01 21:16:43  #公司
-
-【廣州造首架飛行汽車下線 年產能100臺】5月29日，廣東高域科技有限公司位於廣州黃埔區雲埔街道的工廠舉行首架飛行汽車“GOVY AirCab”下線儀式。此次順利下線標誌該機型正式脫離原型機研發階段，邁入工業化量產全新週期。據透露，針對“GOVY AirCab”產品，該工廠的設計年產能達100臺。 作為黃埔低空經濟領域的重要企業之一，高域實現首架機下線，也意味著黃埔向打造“天空之城”的願景再邁一步。目前，黃埔低空經濟規上產業規模已超160億元，是全國最重要的低空經濟產業集聚區之一。（廣州釋出）
-
----
-
-### 2026-06-01 21:16:37  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Tasnim News Agency reported Iran’s negotiating delegation will halt "dialogue and text exchange via intermediaries", citing Israel’s ongoing military actions in Lebanon and saying ceasefires on all fronts, including Lebanon — which was a precondition for the ceasefire accord — have been broken.
-
----
-
-### 2026-06-01 21:16:15  #國際
-
-根據美國證券交易委員會（SEC）檔案：審計機構對GoPro的持續經營能力提出重大質疑。
-
----
-
-### 2026-06-01 21:16:06  #市場 #國際
-
-伊朗停止與美國談判的訊息傳出後，美國國債價格跌幅擴大。
-
----
-
-### 2026-06-01 21:15:54  #國際
-
-【伊朗因黎以、加沙停火遭破壞 中止與美國間接談判】伊朗塔斯尼姆通訊社訊息：伊朗中止就黎巴嫩、加沙停火違約問題與美國開展間接談判。 伊朗談判團隊將停止透過中間人進行對話及文字往來。 此舉緣於相關地區出現多起停火協議遭違反的情況，黎巴嫩境內亦未能倖免。 伊朗官方要求以色列立即停止在加沙與黎巴嫩的軍事行動，並以以色列全面撤出黎巴嫩被佔領土作為重啟談判的前提。 據訊息稱，伊朗及抵抗陣線決意全面封鎖霍爾木茲海峽。 作為反制措施，曼德布海峽等其他航道也或將採取相關行動。
-
----
-
-### 2026-06-01 21:15:47  #公司 #市場
-
-彪馬股份公司股價下跌3.2%。
-
----
-
-### 2026-06-01 21:15:20  #MKT News
-
-RIA quoted a Russian deputy foreign minister as saying Russia is discussing Cuba-related issues with the United States.
-
----
-
-### 2026-06-01 21:15:19  #其他
-
-新興貨幣指數走低。
-
----
-
-### 2026-06-01 21:15:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Eases for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, decreased for a second session on Monday, down 0.1% to 3,222 points, pressured by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell by 0.1% to 5,496 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, added 1 point to 2,344 points; and the supramax index edged up 1 point to 1,570 points.
-
----
-
-### 2026-06-01 21:14:46  #國際
-
-伊朗塔斯尼姆通訊社稱，由於黎巴嫩遭受襲擊，伊朗談判團隊已停止透過調解人與美國進行資訊交換。
-
----
-
-### 2026-06-01 21:14:43  #市場 #國際
-
-伊朗因抗議以色列的罪行而停止與美國的資訊交流。美、布兩油短線迅速拉昇1.5美元，現貨黃金短線下挫30美元，現報4479美元/盎司。
-
----
-
-### 2026-06-01 21:14:40  #MKT News #Important #S&P500 #Impact bearish #DAX
-
-US equity futures turned lower across the board; STOXX Europe 600 quickly dropped 0.8%.
-
----
-
-### 2026-06-01 21:14:37  #市場
-
-由於油價飆升至盤中高點，德國國債和英國國債跌幅擴大。
-
----
-
-### 2026-06-01 21:14:25  #國際
-
-以色列此前宣稱已攻佔黎巴嫩南部的博福特要塞並在該地升起國旗，時隔一日，真主黨表示其武裝人員仍在該要塞周邊與以軍交戰。
-
----
-
-### 2026-06-01 21:14:10  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-TASNIM NEWS reports Iran has halted information-sharing with the United States in protest of Israel's crimes.
-
----
-
-### 2026-06-01 21:14:06  #市場 #國際
-
-美國標普500 E-迷你股指期貨下跌0.1%，納斯達克100股指期貨下跌0.2%，道指期貨持平。
-
----
-
-### 2026-06-01 21:13:59  #市場
-
-布倫特原油日內漲4%，現報94.88美元/桶。
-
----
-
-### 2026-06-01 21:13:54  #國際
-
-【不接受干涉 墨西哥總統指責美國另有所圖】墨西哥總統克勞迪婭·辛鮑姆5月31日指責美國干涉墨西哥內政，質疑美國司法部對10名墨西哥現任及前任官員的涉毒指控及對他們的引渡請求背後是否存在其他意圖。辛鮑姆在首都墨西哥城舉行的政治集會上說：“墨西哥不接受干涉。我們是一個自由獨立的主權國家。”（新華社）
-
----
-
-### 2026-06-01 21:13:33  #國際
-
-據報道，伊朗談判團隊將停止“透過中介進行對話和文字交流”。
-
----
-
-### 2026-06-01 21:13:33  #MKT News #Important #Commodities #Energy #Precious Metals #WTI #Impact bullish #Brent #XAUUSD #Impact bearish
-
-WTI and Brent crude jumped $1.50 intraday; spot gold fell $30 to $4,479/oz.
-
----
-
-### 2026-06-01 21:13:19  #市場 #國際
-
-歐洲斯托克600指數迅速擴大跌幅至0.8%。
-
----
-
-### 2026-06-01 21:13:15  #其他
-
-【全國春播糧食已過九成 春播進度條重新整理】我國春播糧食麵積佔全年糧食麵積的一半以上，產量佔六成以上。農業農村部農情排程顯示，目前，全國春播糧食已過九成，出苗質量良好。5月以來，春播區光溫水較為匹配，土壤墒情適宜，東北等地搶抓有利條件加快播種進度。黑龍江、內蒙古春播作物超六成已出苗，遼寧、吉林出苗過九成，已出苗作物長勢良好，一、二類苗比例95%左右。（央視財經）
 
 ---

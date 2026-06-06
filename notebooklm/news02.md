@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 01:22:23_
-_本檔包含 3955 則快訊，約 700676 字_
+_更新時間：2026-06-07 02:03:56_
+_本檔包含 3959 則快訊，約 700850 字_
+
+---
+
+### 2026-06-05 08:10:16  #市場 #國際
+
+韓國KOSPI指數跌幅擴大；最新報8216.32點，下跌4.9%。
+
+---
+
+### 2026-06-05 08:10:13  #MKT News
+
+At the open on Friday, June 5, Australia's S&P/ASX 200 fell 37.6 points, or 0.43%, to 8,648.5.
+
+---
+
+### 2026-06-05 08:09:52  #市場 #焦點
+
+現貨黃金失守4460美元/盎司，日內跌0.34%。
+
+---
+
+### 2026-06-05 08:09:51  #國際
+
+據日本放送協會（NHK）報道，日本計劃對老化核電站進行改造翻新，以提升電力供應能力。
+
+---
+
+### 2026-06-05 08:09:18  #其他
+
+美元兌日元最新成交價為160。
+
+---
+
+### 2026-06-05 08:08:58  #市場 #國際
+
+韓國交易所因KOSPI 200期貨下跌5%而啟動KOSPI的熔斷機制，程式化交易暫停5分鐘。
+
+---
+
+### 2026-06-05 08:08:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+TAKAICHI, Japan's prime minister, said yen depreciation has both advantages and disadvantages.
+
+---
+
+### 2026-06-05 08:08:22  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+Japan's finance minister Katayama said yen volatility has been very high since the Iran war began in February, with speculative trading accounting for much of the movement.
+
+---
+
+### 2026-06-05 08:08:09  #國際
+
+日本財務大臣片山：自2月伊朗局勢升級以來，外匯波動率一直處於極高水平，投機性交易在日元的波動中佔了很大比重。
+
+---
+
+### 2026-06-05 08:08:01  #MKT News
+
+Japan's finance minister Katayama said the joint statement with the US enables Japan to take decisive foreign-exchange action when necessary.
+
+---
+
+### 2026-06-05 08:07:52  #國際
+
+日本將向Rapidus追加投資1500億日元。
+
+---
+
+### 2026-06-05 08:07:46  #市場
+
+MSCI亞太指數下跌1%至275.85點。
+
+---
+
+### 2026-06-05 08:07:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Japan's finance minister Katayama Satsuki said market volatility has been very elevated since the Strait of Hormuz was effectively closed.
+
+---
+
+### 2026-06-05 08:07:34  #市場
+
+早盤交易中，澳大利亞標普/澳證200指數下跌0.2%，報8670.10點。
+
+---
+
+### 2026-06-05 08:07:31  #MKT News #Market Regions #Japan & APAC #Commodities #Energy #USDJPY #Impact bullish #DXY #WTI #Impact mixed
+
+Japan's finance minister Katayama said the Middle East conflict and oil-price volatility were also factors behind the yen's weakness.
+
+---
+
+### 2026-06-05 08:07:27  #國際
+
+日本財政大臣片山皐月：自霍爾木茲海峽實際關閉以來，市場波動一直非常劇烈。
+
+---
+
+### 2026-06-05 08:06:47  #國際
+
+日本財務大臣片山皋月：美日外匯宣告允許採取大膽行動。
+
+---
+
+### 2026-06-05 08:06:12  #其他
+
+片山皋月：原油價格波動對外匯市場的影響很大。
+
+---
+
+### 2026-06-05 08:05:55  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【Japan real wages rise for fourth consecutive month, bolstering Bank of Japan case for rate hike】Japan's inflation-adjusted real wages rose 1.9% YoY in the latest report, marking a fourth consecutive monthly increase and the longest streak in four years, the Ministry of Health, Labour and Welfare said on Friday. The print exceeded economists' 1.7% forecast and accelerated from a revised 1.4% the prior month. Nominal wages climbed 3.5% YoY (consensus 3.1%); base wages rose 3.4%. A Bank of Japan–watched, lower-sampling-bias gauge for full-time workers increased 2.6%. The readings point to continued underlying wage momentum and strengthen the Bank of Japan's case for a rate hike.
+
+---
+
+### 2026-06-05 08:05:22  #國際
+
+日本財務大臣片山皋月：匯率由市場決定。日本和美國在外匯事務上保持著密切溝通。
+
+---
+
+### 2026-06-05 08:04:54  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies on Middle East Peace Hopes — Gold steadied above $4,450 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, gold remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
 
 ---
 
@@ -23744,107 +23870,5 @@ The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index fell 32 points or 0
 ### 2026-06-04 00:06:10  #公司 #國際
 
 谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。
-
----
-
-### 2026-06-04 00:05:50  #公司 #國際
-
-美國貿易代表格里爾：儘管最新關稅公告落地，仍預計歐洲議會透過《特恩伯裡協定》。
-
----
-
-### 2026-06-04 00:05:28  #市場
-
-日元兌美元匯率跌至盤中低點160.02。
-
----
-
-### 2026-06-04 00:05:21  #國際
-
-美國財長貝森特：將保證社保福利維持現有標準不變。
-
----
-
-### 2026-06-04 00:05:11  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google (GOOG.O) has launched Gemma 4 12B on its website.
-
----
-
-### 2026-06-04 00:04:51  #宏觀 #國際
-
-俄羅斯財政部：截至 6 月 1 日，俄國家福利基金規模達 1824 億美元（佔國內生產總值 5.5%），其中流動資產 480.46 億美元（佔 GDP1.5%）。
-
----
-
-### 2026-06-04 00:04:09  #公司 #國際
-
-美國參議院民主黨領導人Schumer週三會見OpenAI的CEO Altman。（Semafor）
-
----
-
-### 2026-06-04 00:04:04  #國際
-
-美國貿易代表格里爾：《特恩伯裡協定》中針對歐盟商品徵收 15% 關稅的條款 “協定已定，約定不可更改”  。
-
----
-
-### 2026-06-04 00:03:52  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Face Further Pressure — European stock indices closed firmly lower on Wednesday amid persistent concerns of pro-inflationary pressures and fresh threats of tarrifs from the US. The Euro STOXX 50 fell 0.7% to 6,065 and the STOXX Europe 600 fell 0.5% to 622. The US Presidential administration threatened additional tariffs of up to 12.5% on multiple trading partners due to their failure to ban goods made from forced labor, reigniting trade barreirs with the EU. Meanwhile, fresh strikes between Iran and GCC countries further deteriorated the ongoing ceasefire, lifting oil prices and Eurozone yields. Banks closed sharply lower with UniCredit, BBVA, and Deutsche Bank, dropping between 3.7% and 2%. Luxury brands were also under pressure with LVMH slipping 3%. In turn, ASML added 1.6% to track the positive momentum for the chip sector.
-
----
-
-### 2026-06-04 00:03:37  #國際
-
-【機構：2026年全球半導體市場規模預計突破1.5萬億美元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告稱，受人工智慧需求的快速擴大，2026年全球半導體市場規模預計同比增加近九成，市場規模將突破1.5萬億美元。報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.5萬億美元（約合人民幣10.2萬億元），預計2027年增長26.6%，市場規模進一步升至1.914萬億美元（約合人民幣12.9萬億元）。報告稱，鑑於資料中心的普及速度超出預期，世界半導體貿易統計組織大幅上調了預測，2026年增幅也將創下歷史新高。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。此外，報告還預測，2027年全球所有主要地區的半導體市場都將延續增長勢頭，其中美洲和亞太地區是引領增長的兩大核心引擎。 (央視財經)
-
----
-
-### 2026-06-04 00:02:50  #MKT News #Important #USDJPY #Impact bullish
-
-USD/JPY climbed above 160, up 0.07% intraday.
-
----
-
-### 2026-06-04 00:02:47  #Trading Economics #Economy #Russia #Unemployment Rate #Importance 1
-
-Russia Jobless Rate Steady at 2.2% — The unemployment rate in Russia stood at 2.2% in April 2026, unchanged from the previous month and in line with market expectations. The tight labor market reflects a widespread shortage affecting all sectors, exacerbated by military recruitment and defense industry hiring following Russia’s invasion of Ukraine in February 2022, as well as emigration.
-
----
-
-### 2026-06-04 00:02:33  #國際
-
-俄羅斯經濟部：俄 4 月國內生產總值同比增長 1.3%，前月修正值為同比增長 1.9%。
-
----
-
-### 2026-06-04 00:02:01  #國際
-
-【魯比奧重申美對伊軍事行動已結束】當地時間3日，美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。魯比奧稱，“我們已經不再持續對伊朗境內目標實施打擊，因為‘史詩怒火’行動已經結束。”魯比奧還表示，儘管美國和以色列對伊朗軍事能力造成重創，但伊朗“仍保留一定無人機和海上作戰能力”。（央視新聞）
-
----
-
-### 2026-06-04 00:00:50  #國際
-
-市場訊息：俄羅斯福利基金規模增至 1824.1 億美元。
-
----
-
-### 2026-06-04 00:00:42  #公司
-
-據知情人士透露，智利國家銅業公司（Codelco）將選擇Jorge Gomez為其CEO。
-
----
-
-### 2026-06-04 00:00:39  #MKT News
-
-Rosstat: Russia's Q1 capital investment fell 14.3% YoY.
-
----
-
-### 2026-06-04 00:00:28  #國際
-
-【美國加州銀行人質劫持事件結束 嫌犯被擊斃】據美國媒體3日報道，在加利福尼亞州貝克斯菲爾德市的一家銀行內被劫持的人質當天已經全部獲救，嫌犯被美國聯邦調查局人員擊斃。 據當地媒體報道，當地時間2日13時左右，一名據稱胸前綁有炸彈的男子在洛杉磯以北約180公里的貝克斯菲爾德市的一家大通銀行建築物內劫持了“多名人質”，導致附近區域被封鎖。當地警方和美國聯邦調查局派出的談判專家與該男子進行10多個小時的談判，有兩名人質在談判期間獲得釋放。 警方3日上午證實，在美國聯邦調查局人員開槍擊斃嫌犯後，“人質劫持事件宣告結束”。警方稱，沒有人質受傷，他們在現場接受了醫療檢查。(新華社)
 
 ---

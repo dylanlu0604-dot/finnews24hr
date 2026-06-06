@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 01:22:23_
-_本檔包含 4023 則快訊，約 701527 字_
+_更新時間：2026-06-07 02:03:56_
+_本檔包含 4020 則快訊，約 700962 字_
+
+---
+
+### 2026-06-04 00:05:50  #公司 #國際
+
+美國貿易代表格里爾：儘管最新關稅公告落地，仍預計歐洲議會透過《特恩伯裡協定》。
+
+---
+
+### 2026-06-04 00:05:28  #市場
+
+日元兌美元匯率跌至盤中低點160.02。
+
+---
+
+### 2026-06-04 00:05:21  #國際
+
+美國財長貝森特：將保證社保福利維持現有標準不變。
+
+---
+
+### 2026-06-04 00:05:11  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google (GOOG.O) has launched Gemma 4 12B on its website.
+
+---
+
+### 2026-06-04 00:04:51  #宏觀 #國際
+
+俄羅斯財政部：截至 6 月 1 日，俄國家福利基金規模達 1824 億美元（佔國內生產總值 5.5%），其中流動資產 480.46 億美元（佔 GDP1.5%）。
+
+---
+
+### 2026-06-04 00:04:09  #公司 #國際
+
+美國參議院民主黨領導人Schumer週三會見OpenAI的CEO Altman。（Semafor）
+
+---
+
+### 2026-06-04 00:04:04  #國際
+
+美國貿易代表格里爾：《特恩伯裡協定》中針對歐盟商品徵收 15% 關稅的條款 “協定已定，約定不可更改”  。
+
+---
+
+### 2026-06-04 00:03:52  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Face Further Pressure — European stock indices closed firmly lower on Wednesday amid persistent concerns of pro-inflationary pressures and fresh threats of tarrifs from the US. The Euro STOXX 50 fell 0.7% to 6,065 and the STOXX Europe 600 fell 0.5% to 622. The US Presidential administration threatened additional tariffs of up to 12.5% on multiple trading partners due to their failure to ban goods made from forced labor, reigniting trade barreirs with the EU. Meanwhile, fresh strikes between Iran and GCC countries further deteriorated the ongoing ceasefire, lifting oil prices and Eurozone yields. Banks closed sharply lower with UniCredit, BBVA, and Deutsche Bank, dropping between 3.7% and 2%. Luxury brands were also under pressure with LVMH slipping 3%. In turn, ASML added 1.6% to track the positive momentum for the chip sector.
+
+---
+
+### 2026-06-04 00:03:37  #國際
+
+【機構：2026年全球半導體市場規模預計突破1.5萬億美元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告稱，受人工智慧需求的快速擴大，2026年全球半導體市場規模預計同比增加近九成，市場規模將突破1.5萬億美元。報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.5萬億美元（約合人民幣10.2萬億元），預計2027年增長26.6%，市場規模進一步升至1.914萬億美元（約合人民幣12.9萬億元）。報告稱，鑑於資料中心的普及速度超出預期，世界半導體貿易統計組織大幅上調了預測，2026年增幅也將創下歷史新高。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。此外，報告還預測，2027年全球所有主要地區的半導體市場都將延續增長勢頭，其中美洲和亞太地區是引領增長的兩大核心引擎。 (央視財經)
+
+---
+
+### 2026-06-04 00:02:50  #MKT News #Important #USDJPY #Impact bullish
+
+USD/JPY climbed above 160, up 0.07% intraday.
+
+---
+
+### 2026-06-04 00:02:47  #Trading Economics #Economy #Russia #Unemployment Rate #Importance 1
+
+Russia Jobless Rate Steady at 2.2% — The unemployment rate in Russia stood at 2.2% in April 2026, unchanged from the previous month and in line with market expectations. The tight labor market reflects a widespread shortage affecting all sectors, exacerbated by military recruitment and defense industry hiring following Russia’s invasion of Ukraine in February 2022, as well as emigration.
+
+---
+
+### 2026-06-04 00:02:33  #國際
+
+俄羅斯經濟部：俄 4 月國內生產總值同比增長 1.3%，前月修正值為同比增長 1.9%。
+
+---
+
+### 2026-06-04 00:02:01  #國際
+
+【魯比奧重申美對伊軍事行動已結束】當地時間3日，美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。魯比奧稱，“我們已經不再持續對伊朗境內目標實施打擊，因為‘史詩怒火’行動已經結束。”魯比奧還表示，儘管美國和以色列對伊朗軍事能力造成重創，但伊朗“仍保留一定無人機和海上作戰能力”。（央視新聞）
+
+---
+
+### 2026-06-04 00:00:50  #國際
+
+市場訊息：俄羅斯福利基金規模增至 1824.1 億美元。
+
+---
+
+### 2026-06-04 00:00:42  #公司
+
+據知情人士透露，智利國家銅業公司（Codelco）將選擇Jorge Gomez為其CEO。
+
+---
+
+### 2026-06-04 00:00:39  #MKT News
+
+Rosstat: Russia's Q1 capital investment fell 14.3% YoY.
+
+---
+
+### 2026-06-04 00:00:28  #國際
+
+【美國加州銀行人質劫持事件結束 嫌犯被擊斃】據美國媒體3日報道，在加利福尼亞州貝克斯菲爾德市的一家銀行內被劫持的人質當天已經全部獲救，嫌犯被美國聯邦調查局人員擊斃。 據當地媒體報道，當地時間2日13時左右，一名據稱胸前綁有炸彈的男子在洛杉磯以北約180公里的貝克斯菲爾德市的一家大通銀行建築物內劫持了“多名人質”，導致附近區域被封鎖。當地警方和美國聯邦調查局派出的談判專家與該男子進行10多個小時的談判，有兩名人質在談判期間獲得釋放。 警方3日上午證實，在美國聯邦調查局人員開槍擊斃嫌犯後，“人質劫持事件宣告結束”。警方稱，沒有人質受傷，他們在現場接受了醫療檢查。(新華社)
 
 ---
 
@@ -24117,125 +24219,5 @@ Rubio said the US must avoid "contagion" risk in markets.
 ### 2026-06-02 22:37:14  #MKT News
 
 【Iran discloses burial site for late Supreme Leader Ali Khamenei】State news agency said the late Supreme Leader Ali Khamenei will be interred at the Imam Reza shrine in Mashhad, citing his expressed wishes and his family's recommendation.
-
----
-
-### 2026-06-02 22:36:45  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Secretary of State Rubio said Washington hopes to end exemptions for sanctions on Russian oil as soon as possible.
-
----
-
-### 2026-06-02 22:36:41  #公司 #市場
-
-【6月2日增減持彙總】據不完全統計，6月2日盤後，四川九洲、宏川智慧、銀龍股份披露增持情況，包括中巖大地、露笑科技、移為通訊、艾布魯、青島銀行、蘇奧感測、欣靈電氣、唯科科技、芯動聯科、風語築、科美診斷、方邦股份、博納影業、威龍股份、蜀道裝備、浩通科技、必得科技、華鈺礦業、南模生物、聯域股份在內的20家A股上市公司披露擬減持情況。
-
----
-
-### 2026-06-02 22:36:40  #國際
-
-美國國務卿魯比奧：我們希望儘快結束對俄羅斯石油制裁的豁免。
-
----
-
-### 2026-06-02 22:36:29  #MKT News #WTI #Impact bearish #Brent
-
-【Rubio says U.S. negotiating with Iran】U.S. Secretary of State Rubio said on the 2nd that the United States is negotiating with Iran.
-
----
-
-### 2026-06-02 22:36:13  #公司
-
-【比亞迪：計劃今年底前建成2萬座閃充站】據深圳釋出，6月2日，以“車馳天下 材賦未來”為主題的2026年深汕特別合作區產業投資促進大會舉行。比亞迪股份有限公司副總裁羅忠良在會上發言時說，5年前比亞迪投資深汕的決定“無比正確”。目前，比亞迪深汕產業園一期已全面達產，二期產能穩步提升，三、四期於去年投產。今年3月釋出的第二代刀片電池即在深汕生產。羅忠良介紹，比亞迪已啟動“閃充中國”戰略，計劃今年底前建成2萬座閃充站。截至5月底，全國已建成超6150座，其中深圳已建成149座。此前釋出的第二代刀片電池及閃充技術，實現“5分鐘充好，9分鐘充飽；零下30℃，只多3分鐘”。
-
----
-
-### 2026-06-02 22:36:09  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israeli strikes in southern Lebanon kill 10, injure 131】Lebanese Health Ministry said Israeli strikes on multiple sites in southern Lebanon on the 1st killed at least 10 and injured 131. Strikes around Jabal Amal Hospital in Tyre killed 4 and wounded 127, including 39 medical and administrative staff—four critically—and caused serious damage to hospital infrastructure. A separate strike on Marwaniyeh in the Sidon area killed six and injured four.
-
----
-
-### 2026-06-02 22:35:42  #MKT News
-
-U.S. Secretary of State Rubio said the U.S. will rejoin Gavi (Global Alliance for Vaccines and Immunization).
-
----
-
-### 2026-06-02 22:35:39  #國際
-
-美國國務卿魯比奧表示，美國將重新參與全球疫苗聯盟的相關工作。
-
----
-
-### 2026-06-02 22:35:03  #國際
-
-【以軍襲擊黎南部多地致10死131傷】黎巴嫩衛生部2日表示，以色列1日對黎南部多地發動襲擊，造成至少10人死亡、131人受傷。（新華社）
-
----
-
-### 2026-06-02 22:34:54  #市場 #央行 #國際
-
-【金飾大降價了】近期，國際金價持續震盪回落，1日盤中失守每盎司4500美元整數關口。金價從年初的歷史高位明顯回撤，國內黃金飾品價格也隨之下調。記者今天走訪北京的黃金賣場看到，目前北京市場主流品牌足金飾品零售價，普遍落在每克1340元至1370元區間，對比年初市場零售高點的每克1600元至1700元，單克價格下調超過300元，降幅約兩成。金價回落，帶動了剛性消費需求釋放，很多消費者帶著明確需求進店。投資類黃金市場觀望情緒更濃，更多消費者選擇逐步進場、按需入手。針對本輪金價回落，業內專家分析，核心原因是地緣政治衝突邊際緩和、美聯儲推遲降息預期升溫、美債收益率走高以及美元走強，短期金價確實存在一定調整壓力，但大跌空間有限。（央視財經）
-
----
-
-### 2026-06-02 22:34:46  #MKT News
-
-Norway's finance minister said U.S. public support for NATO remains strong.
-
----
-
-### 2026-06-02 22:34:25  #其他
-
-市場訊息：加拿大正式尋求續簽美墨加協定並減免相關行業關稅。
-
----
-
-### 2026-06-02 22:34:12  #MKT News #Market Regions #Japan & APAC #9984.T #Impact bullish
-
-【Masayoshi Son Reclaims Asia's Richest】Forbes real-time list shows SoftBank founder and CEO Masayoshi Son's net worth rose to US$100.7bn on June 2, surpassing Mukesh Ambani and Gautam Adani. SoftBank shares rallied as much as 14.71% yesterday, lifting market value to ¥48.0 trillion (about US$306bn) and briefly overtaking Toyota’s roughly ¥46.0 trillion, ending Toyota’s more-than-20-year run as Japan’s largest listed company by market cap. At today’s Tokyo close SoftBank market cap was ¥49.3 trillion versus Toyota ¥44.92 trillion.
-
----
-
-### 2026-06-02 22:34:08  #國際
-
-據伊朗伊斯蘭共和國通訊社2日報道，根據伊朗已故最高領袖阿里·哈梅內伊生前遺願及其親屬建議，其遺體將安葬在馬什哈德的伊瑪目禮薩聖陵。（新華社）
-
----
-
-### 2026-06-02 22:33:43  #公司
-
-【天源迪科：公司沒有參與穩定幣和跨境支付業務】天源迪科(300047)6月2日在業績說明會上表示，公司沒有參與穩定幣和跨境支付業務。
-
----
-
-### 2026-06-02 22:33:20  #MKT News #Market Themes #Crypto Concepts
-
-Tianyuan Dike said at a June 2 earnings briefing that it is not involved in stablecoin or cross-border payments businesses.
-
----
-
-### 2026-06-02 22:32:45  #央行 #其他
-
-英國央行行長貝利：本輪能源衝擊規模遠不及2022年。
-
----
-
-### 2026-06-02 22:32:35  #MKT News #GBPUSD #Impact bullish #FTSE100
-
-Bank of England Governor Bailey said the current energy shock is far less severe than in 2022.
-
----
-
-### 2026-06-02 22:32:18  #焦點 #國際
-
-據外媒報道，美國國務卿魯比奧2日說：“我們正在與伊朗談判。”（新華社）
-
----
-
-### 2026-06-02 22:31:08  #其他
-
-【浙江省委書記王浩會見寮國人民革命黨中央委員會總書記、國家主席通倫一行】2日下午，浙江省委書記王浩在杭州會見了寮國人民革命黨中央委員會總書記、國家主席通倫一行。 王浩代表浙江省委、省政府和6700多萬浙江人民，對通倫一行的到訪表示歡迎，並簡要介紹了浙江經濟社會發展情況。王浩說，習近平總書記在浙江工作期間，為浙江量身制定了“八八戰略”，20多年來引領浙江發生了全方位、系統性、深層次精彩蝶變。當前，浙江正堅定不移貫徹落實習近平總書記考察浙江重要講話精神，深入踐行“八八戰略”，推動高質量發展建設共同富裕示範區取得決定性進展、率先呈現基本實現社會主義現代化的生動圖景。今年是中老建交65週年暨“中老友好年”，在中老加快打造高標準、高質量、高水平的命運共同體大背景下，浙江與寮國的交流合作取得了豐碩成果。我們將堅決貫徹習近平總書記重要指示精神，認真落實兩黨兩國最高領導人重要共識，進一步發揮好中老鐵路作用，持續深化經貿投資、現代農業、數字經濟、基礎設施等領域合作，不斷拓展教科文體等領域合作成果，加強地方交流交往，攜手開展更高質量互利共贏，共同助力中老友好薪火相傳，共增人民福祉。（浙江釋出）
 
 ---

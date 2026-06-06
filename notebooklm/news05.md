@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 01:22:23_
-_本檔包含 3517 則快訊，約 701275 字_
+_更新時間：2026-06-07 02:03:56_
+_本檔包含 3517 則快訊，約 700815 字_
+
+---
+
+### 2026-06-01 21:19:34  #國際
+
+據伊朗媒體6月1日報道，鑑於以色列在黎巴嫩的持續軍事行動，伊朗談判團隊暫停透過中間人同美國的對話。（新華社）
+
+---
+
+### 2026-06-01 21:19:19  #國際
+
+伊朗塔斯尼姆通訊社：“抵抗軸心”將啟動所有戰線行動。
+
+---
+
+### 2026-06-01 21:18:48  #MKT News #Important #XAUUSD #Impact bullish #WTI #Brent
+
+TASNIM News reports Iran says it will not negotiate until Israel halts operations in Lebanon and Gaza.
+
+---
+
+### 2026-06-01 21:17:57  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+TASNIM NEWS reports Iran and the Resistance Front have decided to fully block the Strait of Hormuz; the report says other fronts, including the Bab el-Mandeb Strait, could be activated in response.
+
+---
+
+### 2026-06-01 21:17:55  #市場 #國際
+
+歐洲斯托克600指數跌幅擴大，最新報跌0.7%。
+
+---
+
+### 2026-06-01 21:17:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Tasnim News reported Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from areas of Lebanon it occupies before talks can resume.
+
+---
+
+### 2026-06-01 21:17:03  #市場
+
+德國10年期國債收益率上漲6個基點，報2.99%。
+
+---
+
+### 2026-06-01 21:16:59  #國際
+
+受伊朗中止與美國談判訊息影響，美元匯率升至日內高點。
+
+---
+
+### 2026-06-01 21:16:43  #公司
+
+【廣州造首架飛行汽車下線 年產能100臺】5月29日，廣東高域科技有限公司位於廣州黃埔區雲埔街道的工廠舉行首架飛行汽車“GOVY AirCab”下線儀式。此次順利下線標誌該機型正式脫離原型機研發階段，邁入工業化量產全新週期。據透露，針對“GOVY AirCab”產品，該工廠的設計年產能達100臺。 作為黃埔低空經濟領域的重要企業之一，高域實現首架機下線，也意味著黃埔向打造“天空之城”的願景再邁一步。目前，黃埔低空經濟規上產業規模已超160億元，是全國最重要的低空經濟產業集聚區之一。（廣州釋出）
+
+---
+
+### 2026-06-01 21:16:37  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Tasnim News Agency reported Iran’s negotiating delegation will halt "dialogue and text exchange via intermediaries", citing Israel’s ongoing military actions in Lebanon and saying ceasefires on all fronts, including Lebanon — which was a precondition for the ceasefire accord — have been broken.
+
+---
+
+### 2026-06-01 21:16:15  #國際
+
+根據美國證券交易委員會（SEC）檔案：審計機構對GoPro的持續經營能力提出重大質疑。
+
+---
+
+### 2026-06-01 21:16:06  #市場 #國際
+
+伊朗停止與美國談判的訊息傳出後，美國國債價格跌幅擴大。
+
+---
+
+### 2026-06-01 21:15:54  #國際
+
+【伊朗因黎以、加沙停火遭破壞 中止與美國間接談判】伊朗塔斯尼姆通訊社訊息：伊朗中止就黎巴嫩、加沙停火違約問題與美國開展間接談判。 伊朗談判團隊將停止透過中間人進行對話及文字往來。 此舉緣於相關地區出現多起停火協議遭違反的情況，黎巴嫩境內亦未能倖免。 伊朗官方要求以色列立即停止在加沙與黎巴嫩的軍事行動，並以以色列全面撤出黎巴嫩被佔領土作為重啟談判的前提。 據訊息稱，伊朗及抵抗陣線決意全面封鎖霍爾木茲海峽。 作為反制措施，曼德布海峽等其他航道也或將採取相關行動。
+
+---
+
+### 2026-06-01 21:15:47  #公司 #市場
+
+彪馬股份公司股價下跌3.2%。
+
+---
+
+### 2026-06-01 21:15:20  #MKT News
+
+RIA quoted a Russian deputy foreign minister as saying Russia is discussing Cuba-related issues with the United States.
+
+---
+
+### 2026-06-01 21:15:19  #其他
+
+新興貨幣指數走低。
+
+---
+
+### 2026-06-01 21:15:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Eases for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, decreased for a second session on Monday, down 0.1% to 3,222 points, pressured by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell by 0.1% to 5,496 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, added 1 point to 2,344 points; and the supramax index edged up 1 point to 1,570 points.
+
+---
+
+### 2026-06-01 21:14:46  #國際
+
+伊朗塔斯尼姆通訊社稱，由於黎巴嫩遭受襲擊，伊朗談判團隊已停止透過調解人與美國進行資訊交換。
+
+---
+
+### 2026-06-01 21:14:43  #市場 #國際
+
+伊朗因抗議以色列的罪行而停止與美國的資訊交流。美、布兩油短線迅速拉昇1.5美元，現貨黃金短線下挫30美元，現報4479美元/盎司。
+
+---
+
+### 2026-06-01 21:14:40  #MKT News #Important #S&P500 #Impact bearish #DAX
+
+US equity futures turned lower across the board; STOXX Europe 600 quickly dropped 0.8%.
+
+---
+
+### 2026-06-01 21:14:37  #市場
+
+由於油價飆升至盤中高點，德國國債和英國國債跌幅擴大。
+
+---
+
+### 2026-06-01 21:14:25  #國際
+
+以色列此前宣稱已攻佔黎巴嫩南部的博福特要塞並在該地升起國旗，時隔一日，真主黨表示其武裝人員仍在該要塞周邊與以軍交戰。
+
+---
+
+### 2026-06-01 21:14:10  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+TASNIM NEWS reports Iran has halted information-sharing with the United States in protest of Israel's crimes.
+
+---
+
+### 2026-06-01 21:14:06  #市場 #國際
+
+美國標普500 E-迷你股指期貨下跌0.1%，納斯達克100股指期貨下跌0.2%，道指期貨持平。
+
+---
+
+### 2026-06-01 21:13:59  #市場
+
+布倫特原油日內漲4%，現報94.88美元/桶。
+
+---
+
+### 2026-06-01 21:13:54  #國際
+
+【不接受干涉 墨西哥總統指責美國另有所圖】墨西哥總統克勞迪婭·辛鮑姆5月31日指責美國干涉墨西哥內政，質疑美國司法部對10名墨西哥現任及前任官員的涉毒指控及對他們的引渡請求背後是否存在其他意圖。辛鮑姆在首都墨西哥城舉行的政治集會上說：“墨西哥不接受干涉。我們是一個自由獨立的主權國家。”（新華社）
+
+---
+
+### 2026-06-01 21:13:33  #國際
+
+據報道，伊朗談判團隊將停止“透過中介進行對話和文字交流”。
+
+---
+
+### 2026-06-01 21:13:33  #MKT News #Important #Commodities #Energy #Precious Metals #WTI #Impact bullish #Brent #XAUUSD #Impact bearish
+
+WTI and Brent crude jumped $1.50 intraday; spot gold fell $30 to $4,479/oz.
+
+---
+
+### 2026-06-01 21:13:19  #市場 #國際
+
+歐洲斯托克600指數迅速擴大跌幅至0.8%。
+
+---
+
+### 2026-06-01 21:13:15  #其他
+
+【全國春播糧食已過九成 春播進度條重新整理】我國春播糧食麵積佔全年糧食麵積的一半以上，產量佔六成以上。農業農村部農情排程顯示，目前，全國春播糧食已過九成，出苗質量良好。5月以來，春播區光溫水較為匹配，土壤墒情適宜，東北等地搶抓有利條件加快播種進度。黑龍江、內蒙古春播作物超六成已出苗，遼寧、吉林出苗過九成，已出苗作物長勢良好，一、二類苗比例95%左右。（央視財經）
 
 ---
 
@@ -21056,185 +21236,5 @@ Al Jazeera reported the Israeli Interior Ministry said it will close schools in 
 ### 2026-05-31 02:06:46  #國際
 
 【美軍發射導彈攔截船隻，實施對伊朗相關航道管控】美國中央司令部發布宣告稱，5月29日，一架美軍戰機向一艘駛往伊朗港口的甘比亞籍船隻的輪機艙發射地獄火導彈，致使該船失去航行能力。中央司令部表示，部署在阿曼灣的美軍部隊完成了此次攔截行動。
-
----
-
-### 2026-05-31 02:02:25  #國際
-
-美國中央司令部：導彈擊中拒不配合船隻的輪機艙。
-
----
-
-### 2026-05-31 02:01:02  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Israeli military radio confirmed Hezbollah fired 30 missiles over the past few hours into northern Israeli-held areas, striking Safed, Nahariya, Karmiel and Meron.
-
----
-
-### 2026-05-31 02:00:42  #國際
-
-美國中央司令部：一艘甘比亞籍船隻試圖駛向伊朗港口，美軍戰機發射地獄火導彈，迫使該船隻失去航行能力。
-
----
-
-### 2026-05-31 01:59:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The U.S. military took action in the Gulf of Oman against non-compliant vessels to prevent violations of blockade measures.
-
----
-
-### 2026-05-31 01:58:33  #焦點 #國際
-
-【伊朗國家電視臺：美伊諒解備忘錄草案賦予伊朗掌控海峽的許可權】伊朗國家電視臺報道，這份尚未敲定的非正式草案寫明，伊朗對霍爾木茲海峽內通行船隻的屬性擁有專屬判定權。若船隻所載貨物被認定具有威脅性，或實際受益方為伊朗敵對勢力，該船將不被視作民用商船，並被禁止通行。伊朗有權劃定通航路線、制定航行費用、維護航道安全，並處理相關環境損害問題。草案內容顯示，美方承諾在60天內協助伊朗全額解凍120億美元凍結資產。這筆資金可轉入伊朗指定銀行，並無限制使用。目前該草案僅為非正式共識，仍需各方審議、談判與修訂。
-
----
-
-### 2026-05-31 01:55:22  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Zaporizhzhia nuclear plant: Ukrainian drone strikes unit 6 generator motor room】Local time May 30, the plant operator said on social media a Ukrainian drone attacked the motor room of the unit 6 generator. No casualties and no significant damage were reported. All plant systems remain operational, operational procedures were not disrupted, and radiation levels inside the plant and its monitoring zone are normal. Plant specialists are inspecting the impact site and say the situation is fully under control.
-
----
-
-### 2026-05-31 01:51:07  #國際
-
-伊朗國家電視臺：諒解備忘錄草案仍在審議與談判階段。
-
----
-
-### 2026-05-31 01:50:47  #國際
-
-伊朗國家電視臺：諒解備忘錄顯示，美方承諾協助伊朗解凍120億美元資產。
-
----
-
-### 2026-05-31 01:49:52  #公司 #國際
-
-【烏克蘭稱俄軍襲擊鐵路機車致人員傷亡】烏克蘭社群、領土和基礎設施發展部30日在社交媒體釋出訊息說，俄軍無人機當天襲擊扎波羅熱地區一列柴油機車，造成一名司機死亡。隨後發生的第二次襲擊導致當地一列電力機車受損。 烏克蘭鐵路公司當天也釋出訊息說，俄軍襲擊扎波羅熱地區的鐵路基礎設施及車輛，一列電力機車和一列柴油機車受損，造成一名機車司機死亡、兩名工作人員受傷。（新華社）
-
----
-
-### 2026-05-31 01:49:16  #焦點 #國際
-
-伊朗國家電視臺：伊朗將負責制定霍爾木茲海峽的通航路線及通行費用標準。
-
----
-
-### 2026-05-31 01:48:32  #國際
-
-伊朗國家電視臺表示，其已拿到伊朗與美國諒解備忘錄的非官方文字。根據內容，伊朗有權判定霍爾木茲海峽過往船隻的屬性。
-
----
-
-### 2026-05-31 01:47:55  #國際
-
-訊息人士：黎巴嫩和以色列軍事代表團的現場會晤沒有做出任何明確決定。
-
----
-
-### 2026-05-31 01:46:43  #國際
-
-伊朗國家電視臺稱，已獲取伊美雙方諒解備忘錄的非官方文字。
-
----
-
-### 2026-05-31 01:42:56  #國際
-
-【美國法官下令審查特朗普與國稅局訴訟和解協議】美國佛羅里達州一名美國法官表示，將審查美國司法部與特朗普之間的一項和解協議，該協議旨在解決特朗普針對美國國稅局（IRS）提起的100億美元訴訟。此舉加大了對這項飽受批評協議的審查力度。特朗普此前因指控其稅務記錄遭不當處理並洩露給媒體，而對自己的政府提起訴訟。根據擬議的和解協議，將設立一筆近18億美元的基金，用於補償因政治“武器化”而受害的人士。美國地區法官凱瑟琳·威廉姆斯週五要求特朗普的律師在6月12日前，對35名退休聯邦法官提交的一份動議作出回應。這些退休法官稱，該和解協議“是串通的產物，本身就是對法院的欺詐”，並要求法院就以下問題作出說明：鑑於該訴訟被指系特朗普與政府“合謀欺騙”的結果，本案是否應重新審理。
-
----
-
-### 2026-05-31 01:41:43  #MKT News
-
-Israeli radio reported Prime Minister Netanyahu proposed expanding cabinet control over Gaza, but no decision has been taken.
-
----
-
-### 2026-05-31 01:40:55  #國際
-
-以色列媒體：內塔尼亞胡已在內閣會議上提議擴大對加沙地帶的管控範圍，目前尚未作出最終決議。
-
----
-
-### 2026-05-31 01:40:33  #MKT News
-
-The Sun reports that if Burnham becomes prime minister, former deputy prime minister Rayner is expected to be brought back into the cabinet.
-
----
-
-### 2026-05-31 01:39:56  #其他
-
-市場資訊：倘若安迪·伯納姆出任英國首相，前副首相安吉拉·雷納預計將重返內閣。
-
----
-
-### 2026-05-31 01:39:38  #MKT News #Market Regions #Europe & UK
-
-The Sun reports that if Andy Burnham is elected mayor of Greater Manchester, he is expected to carry out a major cabinet reshuffle.
-
----
-
-### 2026-05-31 01:39:15  #MKT News
-
-The Sun reports Greater Manchester Mayor Andy Burnham is considering naming current Home Secretary Shabana Mahmood as his Chancellor of the Exchequer if he becomes prime minister. Burnham and his team have begun drawing up plans for the first month of a potential premiership.
-
----
-
-### 2026-05-31 01:38:15  #國際
-
-【扎波羅熱核電站：烏方無人機攻擊6號機組電機房】扎波羅熱核電站主管部門30日透過社交媒體釋出訊息說，烏克蘭一架無人機當天攻擊了該核電站6號發電機組的一座電機房，所幸未造成人員傷亡和嚴重破壞。訊息說，目前這座核電站所有系統執行正常，站內各操作規程未被擾亂，電站區域及其監測區的輻射水平正常。電站專業人員正對遇襲位置進行勘察，局勢已被完全控制。（新華社）
-
----
-
-### 2026-05-31 01:37:02  #其他 #焦點
-
-市場資訊：若英國大曼徹斯特市長安迪·伯納姆成功入主唐寧街，預計他將對內閣展開全面改組。
-
----
-
-### 2026-05-31 01:36:48  #其他
-
-英國大曼徹斯特市市長安迪·伯納姆及其團隊已開始草擬他出任首相後首月的施政計劃。
-
----
-
-### 2026-05-31 01:36:42  #MKT News
-
-The Sun reports Andy Burnham is considering calling a snap general election if elected UK prime minister.
-
----
-
-### 2026-05-31 01:35:29  #其他
-
-英國大曼徹斯特市市長安迪·伯納姆正在籌謀，若其能成為英國首相，將任命內政大臣莎巴娜·馬哈茂德出任財政大臣。
-
----
-
-### 2026-05-31 01:34:14  #其他
-
-英國大曼徹斯特市長安迪·伯納姆考慮，如果自己出任首相，將提前舉行大選。
-
----
-
-### 2026-05-31 01:28:51  #國際
-
-美國軍方表示，霍爾木茲海峽暫未發現水雷。
-
----
-
-### 2026-05-31 01:26:36  #國際
-
-【哥倫比亞將取消對厄瓜多的貿易反制措施】當地時間5月30日，哥倫比亞外交部發表宣告稱，為回應厄瓜多政府此前宣佈將停止對哥商品徵收“安全稅”，哥方將取消對厄瓜多採取的貿易反制措施，推動雙邊經貿關係恢復正常化。本月29日，厄瓜多總統諾沃亞宣佈，自6月1日起取消對哥倫比亞商品徵收的“安全稅”。今年年初以來，厄瓜多和哥倫比亞圍繞邊境安全等問題矛盾持續升級。1月21日，厄瓜多宣佈將對進口自哥倫比亞的商品徵收30%的“安全稅”。此後，厄“安全稅”稅率逐步上調至100%。作為回應，哥倫比亞政府此前也宣佈將對進口自厄瓜多的商品關稅稅率提高至100%。（央視新聞）
-
----
-
-### 2026-05-31 01:26:20  #MKT News #Commodities #Energy
-
-American Automobile Association said the U.S. national average retail gasoline price on the 30th was $4.35/gal, down $0.04 from the prior day and $0.17 from a week earlier, and still 46% above levels before the Iran conflict.
-
----
-
-### 2026-05-31 01:23:45  #國際
-
-特朗普政府正在撤銷針對永久居留申請的新規定。
 
 ---

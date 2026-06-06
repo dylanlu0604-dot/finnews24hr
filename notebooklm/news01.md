@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 01:22:23_
-_本檔包含 3659 則快訊，約 702100 字_
+_更新時間：2026-06-07 02:03:56_
+_本檔包含 3656 則快訊，約 701053 字_
+
+---
+
+### 2026-06-07 02:02:42  #MKT News
+
+Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council (GCC) labor ministers' coordination meeting.
+
+---
+
+### 2026-06-07 02:01:30  #國際
+
+特朗普： 十年之後，巴拉克·侯賽因·奧巴馬圖書館將全面落成並正式投入使用。
+
+---
+
+### 2026-06-07 01:58:18  #國際
+
+特朗普聲稱，伊朗還剩下22%的導彈。
+
+---
+
+### 2026-06-07 01:48:24  #焦點 #國際
+
+伊朗議會議長助理阿里·尼克扎德：我們已封鎖霍爾木茲海峽，必要時也會封鎖曼德海峽。
+
+---
+
+### 2026-06-07 01:47:03  #國際
+
+菲律賓航空高管：菲航將訂購新飛機，或於未來兩三個月內完成採購。
+
+---
+
+### 2026-06-07 01:46:59  #市場 #國際
+
+菲律賓航空高管：受燃油價格上漲影響，運能同比下降約5%。
+
+---
+
+### 2026-06-07 01:46:48  #國際
+
+伊朗第一副總統穆罕默德·禮薩·阿雷夫：伊朗在與美國的談判中秉持明確策略，所有官員均統一行動、嚴格遵照執行。 伊朗官員在談判相關文字及提案上立場完全一致，不存在分歧。
+
+---
+
+### 2026-06-07 01:42:50  #國際
+
+訊息人士：巴勒斯坦各派別開羅會議已結束。各方在相關議題上立場存在分歧，計劃於今日再度與調解方舉行會談。
+
+---
+
+### 2026-06-07 01:42:33  #MKT News
+
+Palestinian sources said a Cairo meeting of Palestinian factions has ended and a follow-up meeting with mediators is planned for today; parties remain divided on the issues under discussion.
+
+---
+
+### 2026-06-07 01:42:14  #MKT News
+
+Palestinian sources said a Cairo meeting of Palestinian factions focused on weapons.
+
+---
+
+### 2026-06-07 01:41:59  #國際
+
+訊息人士：巴勒斯坦各派別開羅會議圍繞包含15項內容的《姆拉德諾夫檔案》展開討論。
+
+---
+
+### 2026-06-07 01:41:51  #MKT News
+
+Palestinian sources said at a Cairo meeting of Palestinian factions discussion centered on the 15-point Mladenov document.
+
+---
+
+### 2026-06-07 01:41:46  #國際
+
+訊息人士：巴勒斯坦各派別在開羅舉行的會議，重點討論了武器相關議題。
+
+---
+
+### 2026-06-07 01:39:35  #國際
+
+禮來製藥以德國醫療改革為由，將在德投資削減五成，並把資金轉向美國生產領域。
+
+---
+
+### 2026-06-07 01:39:35  #MKT News
+
+Saudi television reported a Lebanese military source saying Lebanese officers are undergoing training in Pakistan, and that Lebanese Army commander Haikal will discuss the army’s military needs with Islamabad during his visit.
+
+---
+
+### 2026-06-07 01:31:54  #其他
+
+伯靈頓北方聖太菲鐵路：現場人員正趕赴事發地點開展評估；目前主幹線軌道的預計恢復通行時間尚未確定。
+
+---
+
+### 2026-06-07 01:29:01  #國際
+
+伯靈頓北方聖太菲鐵路：美國中部夏令時6月6日上午9點58分，我方收到初步報告，艾奧瓦州得梅因市附近發生路基沖毀事故，已對幹線軌道造成影響。
+
+---
+
+### 2026-06-07 01:28:26  #焦點 #國際
+
+【五角大樓：以色列帶來的間諜威脅持續加劇】美國近期多份情報報告指出，以色列情報機構持續監聽負責斡旋美伊和平協議的美方談判人員，以色列帶來的整體反間諜風險也隨之攀升，引發美方擔憂。美以雙方長期以來都心知肚明，彼此一直在開展針對對方的情報活動，且對此選擇默許。但多名美國官員表示，以色列近期加緊打探美方在伊核談判中的立場，此舉已然越界。相關報告提到，以色列加大了對多名美國高階官員的監聽力度，其中包括特朗普政府首席談判代表史蒂夫·維特科夫、五角大樓首席政策官員埃爾布里奇·A·科爾比，以及科爾比的主要副手之一邁克爾·P·迪米諾四世。美國國防情報局聯合其他軍事情報部門撰寫了另一份報告，內容回溯至數年前的相關事件。報告稱，近幾周美方將以色列造成的反間諜威脅等級從“高風險”上調至最高的“危急”級別。這份檔案也得到了美國國防反間諜與安全域性的協助編撰，其中詳細列舉了以色列針對美軍人員及政府官員開展的各類間諜活動。當前局勢本就高度敏感，上述報告以及美方對以色列間諜活動的擔憂進一步升溫。美以兩國正聯手應對伊朗，雙方如今的軍事協作緊密程度前所未有，以色列軍官與美方人員在美國中央司令部並肩工作。美軍向以色列方面共享了大量戰術與作戰情報。但美國高階官員透露，以色列試圖摸清特朗普政府在和平談判中的策略以及不斷變化的立場。
 
 ---
 
@@ -21975,131 +22083,5 @@ Prime Minister Takaichi said her economic policy is intended to strengthen Japan
 ### 2026-06-05 08:10:39  #MKT News #Important
 
 Korea Exchange triggered a KOSPI circuit breaker after KOSPI 200 futures fell 5%; program trading was suspended for 5 minutes.
-
----
-
-### 2026-06-05 08:10:16  #市場 #國際
-
-韓國KOSPI指數跌幅擴大；最新報8216.32點，下跌4.9%。
-
----
-
-### 2026-06-05 08:10:13  #MKT News
-
-At the open on Friday, June 5, Australia's S&P/ASX 200 fell 37.6 points, or 0.43%, to 8,648.5.
-
----
-
-### 2026-06-05 08:09:52  #市場 #焦點
-
-現貨黃金失守4460美元/盎司，日內跌0.34%。
-
----
-
-### 2026-06-05 08:09:51  #國際
-
-據日本放送協會（NHK）報道，日本計劃對老化核電站進行改造翻新，以提升電力供應能力。
-
----
-
-### 2026-06-05 08:09:18  #其他
-
-美元兌日元最新成交價為160。
-
----
-
-### 2026-06-05 08:08:58  #市場 #國際
-
-韓國交易所因KOSPI 200期貨下跌5%而啟動KOSPI的熔斷機制，程式化交易暫停5分鐘。
-
----
-
-### 2026-06-05 08:08:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-TAKAICHI, Japan's prime minister, said yen depreciation has both advantages and disadvantages.
-
----
-
-### 2026-06-05 08:08:22  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Japan's finance minister Katayama said yen volatility has been very high since the Iran war began in February, with speculative trading accounting for much of the movement.
-
----
-
-### 2026-06-05 08:08:09  #國際
-
-日本財務大臣片山：自2月伊朗局勢升級以來，外匯波動率一直處於極高水平，投機性交易在日元的波動中佔了很大比重。
-
----
-
-### 2026-06-05 08:08:01  #MKT News
-
-Japan's finance minister Katayama said the joint statement with the US enables Japan to take decisive foreign-exchange action when necessary.
-
----
-
-### 2026-06-05 08:07:52  #國際
-
-日本將向Rapidus追加投資1500億日元。
-
----
-
-### 2026-06-05 08:07:46  #市場
-
-MSCI亞太指數下跌1%至275.85點。
-
----
-
-### 2026-06-05 08:07:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Japan's finance minister Katayama Satsuki said market volatility has been very elevated since the Strait of Hormuz was effectively closed.
-
----
-
-### 2026-06-05 08:07:34  #市場
-
-早盤交易中，澳大利亞標普/澳證200指數下跌0.2%，報8670.10點。
-
----
-
-### 2026-06-05 08:07:31  #MKT News #Market Regions #Japan & APAC #Commodities #Energy #USDJPY #Impact bullish #DXY #WTI #Impact mixed
-
-Japan's finance minister Katayama said the Middle East conflict and oil-price volatility were also factors behind the yen's weakness.
-
----
-
-### 2026-06-05 08:07:27  #國際
-
-日本財政大臣片山皐月：自霍爾木茲海峽實際關閉以來，市場波動一直非常劇烈。
-
----
-
-### 2026-06-05 08:06:47  #國際
-
-日本財務大臣片山皋月：美日外匯宣告允許採取大膽行動。
-
----
-
-### 2026-06-05 08:06:12  #其他
-
-片山皋月：原油價格波動對外匯市場的影響很大。
-
----
-
-### 2026-06-05 08:05:55  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-【Japan real wages rise for fourth consecutive month, bolstering Bank of Japan case for rate hike】Japan's inflation-adjusted real wages rose 1.9% YoY in the latest report, marking a fourth consecutive monthly increase and the longest streak in four years, the Ministry of Health, Labour and Welfare said on Friday. The print exceeded economists' 1.7% forecast and accelerated from a revised 1.4% the prior month. Nominal wages climbed 3.5% YoY (consensus 3.1%); base wages rose 3.4%. A Bank of Japan–watched, lower-sampling-bias gauge for full-time workers increased 2.6%. The readings point to continued underlying wage momentum and strengthen the Bank of Japan's case for a rate hike.
-
----
-
-### 2026-06-05 08:05:22  #國際
-
-日本財務大臣片山皋月：匯率由市場決定。日本和美國在外匯事務上保持著密切溝通。
-
----
-
-### 2026-06-05 08:04:54  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies on Middle East Peace Hopes — Gold steadied above $4,450 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, gold remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
 
 ---
