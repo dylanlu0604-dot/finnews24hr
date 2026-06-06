@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 08:18:20",
-  "count": 18794,
+  "updated": "2026-06-06 08:22:11",
+  "count": 18793,
   "items": [
+    {
+      "id": "4920502",
+      "time": "2026-06-06 08:20:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【境外發行人前5個月發行規模超去年全年 外資積極入場助點心債熱度高企】在美元融資成本高企、全球資本尋覓資金“避風港”之際，香港點心債市場正煥發新活力。點心債是指在香港發行的人民幣計價債券，因發行初期單筆規模較小且年期較短，如港式點心“小巧精緻”而得名。記者統計自彭博的資料顯示，今年前5個月，點心債發行量（去除同業存單）達4300億元，同比增長23.6%。點心債市場存量規模達1.87萬億元。其中，外資機構參與度顯著提升，境外發行人前5個月發行規模已達1630億元，超過去年全年發行總量。業內預計，外資發行人數量和發行規模將繼續擴容，點心債有望從“離岸融資補充工具”逐步演變為全球人民幣資產配置的核心載體，為人民幣國際化和中國金融市場雙向開放提供鮮活註腳。（上海證券報）"
+    },
     {
       "id": "4920501",
       "time": "2026-06-06 08:17:50",
@@ -173245,24 +173253,6 @@
         "MKT News"
       ],
       "text": "【U.S. judge orders Trump name removed from Kennedy Center, blocks two-year closure】May 29 — A U.S. federal judge in Washington, D.C., ordered President Trump’s name removed from the Kennedy Center and enjoined a planned roughly two-year closure for renovations. The White House announced in December 2025 it would rename the venue the Trump-Kennedy Center; Rep. Joyce Beatty, an Ohio Democrat and Kennedy Center board member, sued to rescind the renaming. Trump had said in February the Trump-Kennedy Center would suspend performances from July for about two years to allow renovations."
-    },
-    {
-      "id": "4907958",
-      "time": "2026-05-30 08:20:59",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【MiniMax啟動A股上市輔導】MiniMax Group已於2026年5月29日同中信證券簽署輔導協議，正式啟動A股IPO程序。"
-    },
-    {
-      "id": "4907957",
-      "time": "2026-05-30 08:18:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商業載人航天穿越者完成Pre-A輪億元融資】近日，北京穿越者載人航天科技有限公司完成Pre-A輪億元融資。本輪由頭部網際網路戰投領投，上市公司探路者集團等產業資本跟投，老股東中天匯富、彬復資本持續加碼，光源資本擔任本輪獨家財務顧問。本輪融資資金將重點用於“穿越者壹號（CYZ1）”載人飛船核心系統研發、地面試驗驗證及關鍵技術攻關。"
     }
   ]
 }
