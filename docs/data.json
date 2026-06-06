@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-06 21:18:15",
-  "count": 18765,
+  "updated": "2026-06-06 21:22:03",
+  "count": 18768,
   "items": [
+    {
+      "id": "4921288",
+      "time": "2026-06-06 21:18:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗足協：多名國家隊隨隊成員未獲簽證 美國違背國際體育規則】據伊朗國家通訊社6日報道，伊朗足球協會就多名國家隊隨隊成員未獲美國簽證一事發表宣告，指出美國作為2026年美加墨世界盃東道主，透過有歧視性和針對性的方式對待伊朗國家足球隊，製造了不公平、不平等的環境，此舉是對體育的嚴重政治干預。伊朗足協在宣告中稱：“世界盃開賽前夕，美國政府以不符合體育精神且完全出於政治動機的決定，拒絕向伊朗國家足球隊重要的管理和行政人員發放簽證，該決定違背國際體育規則。對此，伊朗足球協會已透過國際足聯（FIFA）進行交涉，FIFA作為主管機構，有責任持續跟進，直至完成相關人員的簽證辦理工作。”"
+    },
+    {
+      "id": "mkt:019e9d15-938c-7665-8312-ebc7b5346d42",
+      "time": "2026-06-06 21:18:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US media: Israel set up bases in multiple countries around Iran】CNN, citing multiple unnamed sources, reported on June 5 that Israel had established bases in several countries around Iran to support operations against Tehran. The report says Israel and the US secretly established multiple sites in Azerbaijan weeks before the Feb. 28 strike on Iran; the closest site was about 90 km from Iran’s northwestern city of Tabriz. Dozens of Israeli personnel — special forces, heliborne units and intelligence staff — were deployed to collect Iranian military intelligence, conduct search-and-rescue for downed aircrew and provide early warning for missile launches."
+    },
+    {
+      "id": "4921287",
+      "time": "2026-06-06 21:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部譴責美軍多次違反停火協議】當地時間6日，伊朗外交部發表宣告，強烈譴責美國軍隊當日凌晨對伊朗南部錫裡克地區和格什姆島的雷達和海岸監視設施發動軍事襲擊。這些設施的任務是保護伊朗邊境安全和國際水道航運安全。此次襲擊公然違反了停火協議，是對伊朗國家主權和領土完整的軍事侵略。宣告表示，此次行動是美國對伊朗持續敵對和挑釁行為的又一例證，表明美國完全無視國際法基本原則和《聯合國憲章》。伊朗強大的武裝力量，在固有的合法自衛權框架內，以高度警惕、堅定決心和權威，對這一侵略行為作出了相稱且有效的回應，挫敗了此次侵略策劃者的圖謀。宣告稱，美國一再違反停火協議，再次證明該國不僅沒有緩和緊張局勢、重回穩定軌道的意願，而且其冒險行徑也對地區安全構成嚴重威脅。美國政府將對這些非法行徑的一切後果以及任何可能的緊張局勢升級負全部責任。伊朗外交部強調，根據《聯合國憲章》，伊朗擁有固有的合法自衛權，並將竭盡全力捍衛國家主權、安全和利益。伊朗外交部強烈呼籲本地區各國恪守睦鄰友好原則，並堅持國際法基本原則，即不得允許侵略者利用地區國家領土和設施策劃並實施針對伊朗的侵略行動。伊朗外交部呼籲聯合國秘書長、安理會及其他相關國際機構應立即應對美國持續公然違反停火協議和非法行徑，並防止這些威脅地區及國際和平與安全的行為日益常態化。"
+    },
     {
       "id": "mkt:019e9d0f-6414-7665-8312-e38dfc231cf7",
       "time": "2026-06-06 21:11:31",
@@ -840,6 +868,14 @@
         "國際"
       ],
       "text": "以色列軍方表示，在識別出\"對其部隊的威脅\"後，空襲了黎巴嫩南部的一輛車輛。初步調查顯示，黎巴嫩陸軍的兩名軍官和一名士兵當時在該車輛內。"
+    },
+    {
+      "id": "4921229",
+      "time": "2026-06-06 17:32:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國未向參加2026美加墨世界盃的伊朗國家足球隊的超過12名支援團隊成員、教練、體能訓練師、分析師、醫療團隊成員以及一些管理人員發放簽證。"
     },
     {
       "id": "4921228",
@@ -173195,19 +173231,6 @@
         "Magnificent 7"
       ],
       "text": "【2B-parameter Zhiyuan Robotics model tops World Arena, outperforms NVIDIA flagship】Zhiyuan Robotics' in-house world model Genie Envisioner-Sim 2.0 (GE 2.0) placed first on the global World Arena benchmark's \"perception and action response\" leaderboard. GE 2.0 competed directly with NVIDIA's DreamDojo and the Tsinghua–Stanford Ctrl-World team and, per disclosed technical documents, delivered superior results while using only 2 billion parameters—outperforming larger flagship models from NVIDIA and Microsoft. The vendor says the outcome demonstrates lightweight models' competitiveness for humanoid-robot applications."
-    },
-    {
-      "id": "mkt:019e790b-96aa-7bb7-996a-0f2af75c1ec4",
-      "time": "2026-05-30 21:21:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Al Jazeera reports 10 rockets fired from Lebanon into northern Israel."
     }
   ]
 }
