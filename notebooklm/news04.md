@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:00:42_
-_本檔包含 3651 則快訊，約 702371 字_
+_更新時間：2026-06-07 06:36:50_
+_本檔包含 3654 則快訊，約 702604 字_
+
+---
+
+### 2026-06-02 23:13:53  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+Nikkei reports Prime Minister Takaichi will decide this month to cut the consumption tax on food to 1%.
+
+---
+
+### 2026-06-02 23:13:29  #公司 #央行 #國際
+
+美國貨幣監理署、美聯儲、聯邦存款保險公司刪除檔案中有關聲譽風險的相關表述。
+
+---
+
+### 2026-06-02 23:12:57  #國際
+
+以色列國防軍放寬北部聚居區本土前線司令部管控措施，相關調整自週二起生效、持續至週日，恢復部分運作等級。
+
+---
+
+### 2026-06-02 23:12:52  #MKT News #CBOE.O #Impact bearish #CME.O #ICE.O
+
+U.S. exchange operators fell on concerns about risks from perpetual futures: Cboe Global Markets dropped 9%, CME Group slid 4.7% to a one-year low, and Intercontinental Exchange fell 3.9%, approaching a two-year low.
+
+---
+
+### 2026-06-02 23:12:42  #國際
+
+日本首相高市早苗本月將決定是否將食品稅降至1%。
+
+---
+
+### 2026-06-02 23:12:42  #Trading Economics #Markets #Germany #stocks #Importance 1
+
+Siemens Energy Stock Price Hits 8-week Low — Siemens Energy shares decreased to 158.32 EUR, the lowest since April 2026. Over the past 4 weeks, Siemens Energy AG lost 10.4%, and in the last 12 months, it increased 78.16%.
+
+---
+
+### 2026-06-02 23:12:14  #MKT News
+
+The OCC, the Federal Reserve and the FDIC have removed references to 'reputational risk' from relevant documents.
+
+---
+
+### 2026-06-02 23:12:03  #市場 #國際
+
+美國交易所運營商股價因對永續期貨風險的擔憂進一步下跌。
+
+---
+
+### 2026-06-02 23:11:59  #公司 #市場
+
+芝加哥期權交易所全球市場公司股價下跌9%，芝加哥商業交易所集團股價下跌4.7%，觸及一年多低點，洲際交易所股價下跌3.9%，逼近兩年低點。
 
 ---
 
@@ -21967,41 +22021,5 @@ Oil Prices Rise More than 5% — WTI crude oil futures surged more than 5% to ne
 ### 2026-06-01 21:42:48  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Drops as Rate Hike Fears Weigh on Markets — Silver reversed early gains to trade below $75 an ounce in the first June session, remaining far from the two-month peak of $89.4 seen in mid-May. Rising oil prices, spurred by fresh Iran-US strikes and Iran’s suspension of communications with the US over Israel’s attacks on Lebanon, fueled inflation concerns and reinforced expectations of prolonged higher interest rates. Over the weekend, both sides exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though meaningful progress remains uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention also shifts to this week’s US jobs data and upcoming remarks from Federal Reserve officials.
-
----
-
-### 2026-06-01 21:42:47  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) shares hit a four-month high.
-
----
-
-### 2026-06-01 21:42:18  #MKT News #Important #ARM.O #Impact bullish
-
-Arm (ARM.O) shares surged in early trade, gains widening to more than 16%, lifting the company's market capitalization above $430 billion.
-
----
-
-### 2026-06-01 21:41:52  #市場
-
-微軟股價上漲2.8%，觸及四個多月新高。
-
----
-
-### 2026-06-01 21:41:33  #市場
-
-美團ADR上漲3.3%。
-
----
-
-### 2026-06-01 21:40:58  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bristol-Myers Squibb Stock Price Hits 17-week Low — Bristol-Myers Squibb shares decreased to 55.35 USD, the lowest since February 2026. Over the past 4 weeks, Bristol-Myers Squibb lost 3.22%, and in the last 12 months, it increased 13.81%.
-
----
-
-### 2026-06-01 21:40:54  #公司
-
-【雙元科技：股東元程式資產增持股份至5%】雙元科技公告稱，2026年6月1日，股東元程式資產透過集中競價交易增持公司股份425,223股，增持比例0.72%，持股比例由4.28%增至5%。本次權益變動不觸及要約收購，不會導致公司控股股東及實際控制人發生變化，也不會對公司治理結構及持續經營產生影響。資訊披露義務人已編制《簡式權益變動報告書》。
 
 ---

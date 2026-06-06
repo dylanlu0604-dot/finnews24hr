@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:00:42_
-_本檔包含 4004 則快訊，約 702254 字_
+_更新時間：2026-06-07 06:36:50_
+_本檔包含 4003 則快訊，約 702312 字_
+
+---
+
+### 2026-06-04 01:22:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $2.062 billion from 35 counterparties in its fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-06-04 01:19:51  #其他
+
+【世衛組織：剛果（金）和烏干達已報告61例埃博拉死亡病例】當地時間3日，世界衛生組織表示，最新資料顯示，剛果（金）目前累計報告344例埃博拉確診病例，其中60人死亡。烏干達累計報告15例確診病例，其中1人死亡。疫情由本迪布焦型埃博拉病毒引發。
+
+---
+
+### 2026-06-04 01:19:42  #Trading Economics #Markets #commodity #Importance 0
+
+Oat Hits 5-week Low — Oat decreased to 325.25 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Oat lost 4.52%, and in the last 12 months, it decreased 15.91%.
+
+---
+
+### 2026-06-04 01:19:36  #MKT News #WTI #Impact bearish #Brent
+
+Fars News, citing a member of Tehran’s negotiating team, said if a deal is reached a U.S.-Iran memorandum of understanding would be implemented via a four-stage mechanism.
+
+---
+
+### 2026-06-04 01:18:46  #焦點 #國際
+
+伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員訊息：若美伊雙方敲定並達成一致，兩國諒解備忘錄將透過四階段落地機制推進。
+
+---
+
+### 2026-06-04 01:17:18  #央行 #國際
+
+週三（6月3日），美聯儲隔夜逆回購協議（RRP）使用規模為20.62億美元（交易對手35家），上個交易日報25.02億美元。
+
+---
+
+### 2026-06-04 01:16:45  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+US stocks extended declines: S&P 500 fell 0.7%, Nasdaq down 1.1%, Dow Jones down 0.9%.
+
+---
+
+### 2026-06-04 01:16:21  #MKT News
+
+Iranian outlet Fars News Agency, citing a member of Tehran’s negotiating team, said Iran will not sign any agreement that ignores Lebanon.
 
 ---
 
@@ -24069,59 +24117,5 @@ Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per 
 ### 2026-06-02 23:13:53  #國際
 
 【以色列或成美伊協議落實最大障礙】美國總統特朗普和以色列總理內塔尼亞胡當地時間6月1日再通電話。特朗普稱通話“富有成效”，促成了以色列和黎巴嫩真主黨停止交火。但內塔尼亞胡在通話後釋出的社媒帖文中卻依舊保持強硬語氣。美媒更是爆料稱這通電話“火藥味十足”，稱“特朗普怒斥內塔尼亞胡”。美以各執一詞是出於何種原因？美國能否有效約束以色列？美以分歧又將如何影響美國與伊朗的談判前景？#時訊問答#中國國際問題研究院助理研究員李子昕分析指出，美以看似不同的表述，反映出的其實是雙方對於當前地區局勢的優先戰略考量，以及自身政治議程的現實需要。而美國確實有能力來約束以色列的行動，但這種能力是有限度的、有條件的，而且難以改變以色列的戰略目標。不排除以色列會對未來的美伊協議不承認、不接受，完全按照自身的政治議程來行事。（CCTV國際時訊）
-
----
-
-### 2026-06-02 23:13:53  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-Nikkei reports Prime Minister Takaichi will decide this month to cut the consumption tax on food to 1%.
-
----
-
-### 2026-06-02 23:13:29  #公司 #央行 #國際
-
-美國貨幣監理署、美聯儲、聯邦存款保險公司刪除檔案中有關聲譽風險的相關表述。
-
----
-
-### 2026-06-02 23:12:57  #國際
-
-以色列國防軍放寬北部聚居區本土前線司令部管控措施，相關調整自週二起生效、持續至週日，恢復部分運作等級。
-
----
-
-### 2026-06-02 23:12:52  #MKT News #CBOE.O #Impact bearish #CME.O #ICE.O
-
-U.S. exchange operators fell on concerns about risks from perpetual futures: Cboe Global Markets dropped 9%, CME Group slid 4.7% to a one-year low, and Intercontinental Exchange fell 3.9%, approaching a two-year low.
-
----
-
-### 2026-06-02 23:12:42  #國際
-
-日本首相高市早苗本月將決定是否將食品稅降至1%。
-
----
-
-### 2026-06-02 23:12:42  #Trading Economics #Markets #Germany #stocks #Importance 1
-
-Siemens Energy Stock Price Hits 8-week Low — Siemens Energy shares decreased to 158.32 EUR, the lowest since April 2026. Over the past 4 weeks, Siemens Energy AG lost 10.4%, and in the last 12 months, it increased 78.16%.
-
----
-
-### 2026-06-02 23:12:14  #MKT News
-
-The OCC, the Federal Reserve and the FDIC have removed references to 'reputational risk' from relevant documents.
-
----
-
-### 2026-06-02 23:12:03  #市場 #國際
-
-美國交易所運營商股價因對永續期貨風險的擔憂進一步下跌。
-
----
-
-### 2026-06-02 23:11:59  #公司 #市場
-
-芝加哥期權交易所全球市場公司股價下跌9%，芝加哥商業交易所集團股價下跌4.7%，觸及一年多低點，洲際交易所股價下跌3.9%，逼近兩年低點。
 
 ---

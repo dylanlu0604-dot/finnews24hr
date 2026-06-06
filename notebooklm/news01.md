@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:00:42_
-_本檔包含 3711 則快訊，約 702532 字_
+_更新時間：2026-06-07 06:36:50_
+_本檔包含 3719 則快訊，約 702578 字_
+
+---
+
+### 2026-06-07 06:31:58  #國際
+
+【古巴外長譴責美國製裁危及兒童生命】當地時間6日，古巴外交部長布魯諾·羅德里格斯在社交媒體平臺公開發文，譴責美國對古巴長期實施的經濟封鎖，稱其構成“殘酷而無差別的集體懲罰”，嚴重威脅古巴兒童的生命權。羅德里格斯指出，在美國持續的石油封鎖與經濟制裁下，古巴的嬰兒死亡率不斷上升。同時，兒童癌症患者的預期生存率也不斷下降。羅德里格斯呼籲美國停止制裁，讓古巴兒童得以在和平環境中生活和成長。（央視新聞）
+
+---
+
+### 2026-06-07 06:26:23  #國際
+
+真主黨：在過去24小時內，對以色列軍隊陣地進行了25次軍事行動。
+
+---
+
+### 2026-06-07 06:16:43  #國際
+
+【以色列戰術成果難掩戰略困局】今天（6月7日）是美以伊戰爭爆發第100天。在以色列，這場戰爭初期曾被不少人看作一次“罕見的戰略機會”。但如今，這場戰爭的得失仍難以“結算”。有分析指出，以色列在軍事層面取得了一定的“戰術成果”，但伊朗核問題以及伊朗彈道導彈、地區抵抗陣線等問題並未被徹底解決。與此同時，戰爭給以色列帶來的社會和經濟成本正在顯現，以色列的外交程序也越來越受到美國決策牽動。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 06:14:31  #國際
+
+美國紐約一法院暫緩審理一起涉案金額達2930億美元的比特幣錢包相關案件，此前律師對案件被撤銷的主張提出異議。
+
+---
+
+### 2026-06-07 06:09:35  #國際
+
+黎巴嫩衛生部：以色列空襲黎巴嫩南部，造成兩人死亡，22人受傷。
+
+---
+
+### 2026-06-07 06:07:39  #國際
+
+俄羅斯總統普京在聖彼得堡國際經濟論壇發言後，烏克蘭對聖彼得堡發動第二次遠端無人機襲擊。
+
+---
+
+### 2026-06-07 06:03:57  #國際
+
+美國中央司令部：兩架美國空軍F-35A隱形戰鬥機在中東上空巡邏。
+
+---
+
+### 2026-06-07 06:03:33  #MKT News
+
+【Former US envoy says Hezbollah could become non‑armed political entity】Henry Ensher, a former US ambassador to Lebanon, said he believes Hezbollah — at the centre of the Israel‑Lebanon conflict — could transition into an entity acceptable to the US, Israel and the Lebanese state. Ensher said Trump told him the US had contacted Hezbollah to pursue that outcome and warned Lebanon lacks the capacity to subdue the armed group, suggesting a more pragmatic approach may be needed.
+
+---
+
+### 2026-06-07 06:01:16  #國際
+
+伊朗駐墨西哥大使稱，伊朗世界盃參賽隊伍需在比賽當日進入並離開美國境內。
 
 ---
 
@@ -22407,11 +22461,5 @@ At the open, China's most-active futures contracts were mostly lower. SHFE tin, 
 ### 2026-06-05 08:59:15  #其他
 
 【商務部服貿司負責人介紹2026年1-4月服務貿易發展情況 】2026年1-4月，我國服務進出口總額24853.2億元（人民幣，下同），同比增長4.9%。其中，出口9850億元，增長15%；進口15003.2億元，下降0.8%。服務貿易逆差5153.2億元，比上年同期縮小1397.4億元。主要呈現以下特點：知識密集型服務出口保持較快增長。1-4月，知識密集型服務進出口11041.8億元，增長5.1%，佔總體服務進出口的比重為44.4%。知識密集型服務出口5440.9億元，增長11.7%，其中，個人文化和娛樂服務、智慧財產權使用費增長最快，增速分別為39.5%和20.8%；知識密集型服務進口5600.9億元，下降0.7%。旅行服務出口和運輸服務進口快速增長。1-4月，旅行服務出口1471.5億元，增長30.4%，在前五大服務出口領域中增速最快；運輸服務進口3164.5億元，增長24.9%，在前五大服務進口領域中增速最快。
-
----
-
-### 2026-06-05 08:57:09  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Set to Post First Weekly Drop in 3 Weeks — Australian shares fell 38 points or 0.4% to 8,648 in early Friday trade, extending weakness from the prior session as U.S. equity futures softened after a sharp sell-off in Wall Street tech stocks overnight. Little progress in U.S.-Iran peace talks also weighed on investor sentiment. The local market is on track for its first weekly decline in three weeks, down about 1% so far, with caution building ahead of the Reserve Bank’s policy decision later this month. Meanwhile, recent data showed inflation remained elevated at 4.2% in April, above the 2–3% target, while Q1 GDP growth slowed markedly. Still, losses were offset by April trade data indicating a return to a surplus in Australia, lifted by an export recovery and weaker imports. Non-energy minerals, energy minerals, and consumer non-durables led sectoral weakness. Notable laggards included BHP Group (-2.3%), PLS Group (-3.0%), South32 Ltd. (-2.7%), and Evolution Mining (-2.0%). The four big banks also slipped between 0.5% and 0.9%.
 
 ---

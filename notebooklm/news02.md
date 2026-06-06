@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:00:42_
-_本檔包含 3936 則快訊，約 702008 字_
+_更新時間：2026-06-07 06:36:50_
+_本檔包含 3929 則快訊，約 702149 字_
+
+---
+
+### 2026-06-05 08:57:09  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Set to Post First Weekly Drop in 3 Weeks — Australian shares fell 38 points or 0.4% to 8,648 in early Friday trade, extending weakness from the prior session as U.S. equity futures softened after a sharp sell-off in Wall Street tech stocks overnight. Little progress in U.S.-Iran peace talks also weighed on investor sentiment. The local market is on track for its first weekly decline in three weeks, down about 1% so far, with caution building ahead of the Reserve Bank’s policy decision later this month. Meanwhile, recent data showed inflation remained elevated at 4.2% in April, above the 2–3% target, while Q1 GDP growth slowed markedly. Still, losses were offset by April trade data indicating a return to a surplus in Australia, lifted by an export recovery and weaker imports. Non-energy minerals, energy minerals, and consumer non-durables led sectoral weakness. Notable laggards included BHP Group (-2.3%), PLS Group (-3.0%), South32 Ltd. (-2.7%), and Evolution Mining (-2.0%). The four big banks also slipped between 0.5% and 0.9%.
 
 ---
 
@@ -23684,53 +23690,5 @@ Fars News, citing a member of Tehran's negotiating team, reports Iran has not ye
 ### 2026-06-04 01:25:14  #MKT News
 
 【WHO: DRC 344 confirmed Ebola cases, 60 deaths; Uganda 15 cases, 1 death】On the 3rd, WHO said latest data show the Democratic Republic of Congo has reported 344 confirmed Ebola cases, including 60 deaths. Uganda has reported 15 confirmed cases and 1 death. The outbreak is caused by the Bundibugyo ebolavirus.
-
----
-
-### 2026-06-04 01:22:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $2.062 billion from 35 counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-06-04 01:19:51  #其他
-
-【世衛組織：剛果（金）和烏干達已報告61例埃博拉死亡病例】當地時間3日，世界衛生組織表示，最新資料顯示，剛果（金）目前累計報告344例埃博拉確診病例，其中60人死亡。烏干達累計報告15例確診病例，其中1人死亡。疫情由本迪布焦型埃博拉病毒引發。
-
----
-
-### 2026-06-04 01:19:42  #Trading Economics #Markets #commodity #Importance 0
-
-Oat Hits 5-week Low — Oat decreased to 325.25 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Oat lost 4.52%, and in the last 12 months, it decreased 15.91%.
-
----
-
-### 2026-06-04 01:19:36  #MKT News #WTI #Impact bearish #Brent
-
-Fars News, citing a member of Tehran’s negotiating team, said if a deal is reached a U.S.-Iran memorandum of understanding would be implemented via a four-stage mechanism.
-
----
-
-### 2026-06-04 01:18:46  #焦點 #國際
-
-伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員訊息：若美伊雙方敲定並達成一致，兩國諒解備忘錄將透過四階段落地機制推進。
-
----
-
-### 2026-06-04 01:17:18  #央行 #國際
-
-週三（6月3日），美聯儲隔夜逆回購協議（RRP）使用規模為20.62億美元（交易對手35家），上個交易日報25.02億美元。
-
----
-
-### 2026-06-04 01:16:45  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-US stocks extended declines: S&P 500 fell 0.7%, Nasdaq down 1.1%, Dow Jones down 0.9%.
-
----
-
-### 2026-06-04 01:16:21  #MKT News
-
-Iranian outlet Fars News Agency, citing a member of Tehran’s negotiating team, said Iran will not sign any agreement that ignores Lebanon.
 
 ---
