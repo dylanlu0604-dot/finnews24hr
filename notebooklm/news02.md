@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:04:29_
-_本檔包含 3930 則快訊，約 701952 字_
+_更新時間：2026-06-07 07:26:54_
+_本檔包含 3934 則快訊，約 702537 字_
+
+---
+
+### 2026-06-05 09:04:55  #國際
+
+【俄稱控制一居民點 烏稱打擊俄巡邏艦】俄羅斯國防部4日通報稱，過去一天，俄軍打擊了142處區域，目標包括烏遠端無人機儲存和發射場地、烏軍使用的能源和交通基礎設施、烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落601架固定翼無人機。此外，俄軍控制了扎波羅熱地區一個居民點。烏克蘭武裝部隊總參謀部同一天通報稱，過去一天前線地區發生279次戰鬥，烏軍擊落俄軍2111架無人機。另據烏克蘭無人系統部隊4日釋出的訊息，烏方在克里米亞附近海域對一艘俄羅斯邊防巡邏艦發起打擊。
+
+---
+
+### 2026-06-05 09:04:27  #市場 #央行 #國際
+
+【日本首相稱將透過強化經濟來捍衛日元】日本首相高市早苗表示，在中東緊張局勢持續、日元面臨新一輪拋售壓力之際，日本旨在透過強化經濟來捍衛日元的信譽。高市早苗週五對國會表示：“我正在推行的經濟和財政管理，目的不在於引導外匯匯率。”她表示，她的政策旨在增加國內投資、加強日本的供應鏈並提升增長潛力。這位首相補充說：“我相信，透過這些舉措提升日本經濟的國際競爭力，將有助於維持對日元的信心。”儘管近期實施了創紀錄的外匯干預，但日元兌美元仍再度走軟，逼近160關口，該水平被視為可能引發政府採取更多行動的導火索。財務大臣片山皋月週五重申，政府準備在必要時在外匯市場採取適當行動，並強調她正與美國有關部門保持密切溝通。由於官員們日益擔憂日元走弱會推高食品和能源等進口商品的成本，日本在4月28日至5月27日期間斥資逾730億美元支撐日元，這是自2024年以來的首次干預。所有這些都助長了日本央行即將加息的預期。
+
+---
+
+### 2026-06-05 09:03:34  #市場 #焦點
+
+紐約期銀失守73美元/盎司，日內跌1.34%。
+
+---
+
+### 2026-06-05 09:02:46  #經濟數據 #中國
+
+【商務部：1-4月我國服務進出口總額24853.2億元 同比增長4.9%】據商務部網站，2026年1-4月，我國服務進出口總額24853.2億元（人民幣，下同），同比增長4.9%。其中，出口9850億元，增長15%；進口15003.2億元，下降0.8%。服務貿易逆差5153.2億元，比上年同期縮小1397.4億元。
+
+---
+
+### 2026-06-05 09:02:44  #國際
+
+據報道，美國食品藥品監督管理局關於米非司酮的安全性研究預計將耗時約六個月。
+
+---
+
+### 2026-06-05 09:02:24  #MKT News
+
+Spot palladium touched $1,300/oz, down 0.65% on the day.
+
+---
+
+### 2026-06-05 09:02:16  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver is down more than 1% intraday, trading below $73/oz. New York silver futures are under $73, down 1.32% on the day.
+
+---
+
+### 2026-06-05 09:02:11  #市場 #國際
+
+菲律賓統計局資料顯示，該國5月核心通脹同比上漲4.1%，此前路調查預期為上漲4.0%。
+
+---
+
+### 2026-06-05 09:01:59  #國際
+
+菲律賓統計局公佈，該國5月通脹率同比上升6.8%，調查預期為上升7.5%。
+
+---
+
+### 2026-06-05 09:01:51  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D fell 0.17% in early trade on Friday, June 5, to 972.84 yuan/gram; silver T+D was down 0.52% at 17,649.0 yuan/kg.
+
+---
+
+### 2026-06-05 09:01:40  #國際
+
+市場訊息：美國食品藥品監督管理局啟動墮胎藥安全性研究，反對者正推動對其加以限制。
+
+---
+
+### 2026-06-05 09:01:15  #市場
+
+新加坡海峽時報指數開盤上漲0.15%，報5075.31點。大馬吉隆坡綜合指數高開0.2%，報1686.45點。
+
+---
+
+### 2026-06-05 09:01:13  #MKT News #Market Regions #Greater China
+
+Taiwan weighted index (TAIEX) opened down 203.88 pts, -0.45%, at 45,473.58 on Friday, June 5.
+
+---
+
+### 2026-06-05 09:00:46
+
+國內期貨主力合約跌多漲少，滬錫、SC原油、棕櫚油、低硫燃料油（LU）、液化石油氣（LPG）、合成橡膠跌超2％，燃料油、多晶矽、豆二跌近2％。漲幅方面，焦煤漲超1％，焦炭、澱粉漲近1％。
+
+---
+
+### 2026-06-05 09:00:19  #MKT News #Important #Commodities #Industrial Metals #WTI #Impact bearish #Brent
+
+At the open, China's most-active futures contracts were mostly lower. SHFE tin, Shanghai crude (SC), palm oil, low-sulfur fuel oil (LU), LPG and synthetic rubber fell over 2%; fuel oil, polysilicon and soybean No.2 declined about 2%. Coking coal rose over 1%, while coke and starch gained near 1%.
+
+---
+
+### 2026-06-05 09:00:18  #市場
+
+現貨白銀日內跌1%，現報73.10美元/盎司。
+
+---
+
+### 2026-06-05 09:00:18  #市場
+
+紐約期銀日內跌1%，現報73.22美元/盎司。
+
+---
+
+### 2026-06-05 09:00:17  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+【MOFCOM: Jan-Apr 2026 China services trade 2,485.3 bln yuan, +4.9% YoY】MOFCOM data: Jan-Apr 2026 China’s services trade totaled 2,485.3 bln yuan, up 4.9% YoY — exports 985.0 bln yuan (+15.0%), imports 1,500.3 bln yuan (-0.8%). Services trade deficit narrowed to 515.3 bln yuan, down 139.7 bln YoY. Knowledge-intensive services remained a driving sector: Jan-Apr flows were 1,104.2 bln yuan (+5.1%), accounting for 44.4% of total services trade; exports 544.1 bln yuan (+11.7%) with personal cultural and entertainment services and IP royalties the fastest-growing subsegments (up 39.5% and 20.8% respectively), imports 560.1 bln yuan (-0.7%). Among top categories, travel services exports rose 147.2 bln yuan (+30.4%), fastest growth on the export side; transport services imports rose 316.5 bln yuan (+24.9%), fastest on the import side.
 
 ---
 
@@ -23612,89 +23720,5 @@ At a public hearing, Texas County commissioners voted 4-1 to approve a 100% tax 
 ### 2026-06-04 01:51:22  #MKT News
 
 【Insiders: Anthropic selects Morgan Stanley, Goldman Sachs as IPO lead underwriters】Insiders say Anthropic has chosen Morgan Stanley and Goldman Sachs as lead underwriters for its IPO, with JP Morgan also participating. The Claude chatbot developer has submitted a confidential filing and is considering an IPO as early as October. The roster of underwriting banks may expand.
-
----
-
-### 2026-06-04 01:50:03  #國際
-
-巴林發行10億美元國際債券（美元計價），收益率為7.125%；在那之前數小時，該國遭到導彈襲擊。這是美國和以色列發動伊朗戰爭以來，海灣地區首次在公開市場的第一筆主權債交易。
-
----
-
-### 2026-06-04 01:50:03  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed to release Beige Book on U.S. economy in ten minutes.
-
----
-
-### 2026-06-04 01:49:38  #焦點 #國際
-
-市場訊息：匈牙利已解除對烏克蘭加入歐盟長達兩年的否決。
-
----
-
-### 2026-06-04 01:49:35  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-Hungary has lifted its two-year veto on Ukraine's accession to the European Union.
-
----
-
-### 2026-06-04 01:45:30  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Analog Devices Stock Price Hits All-time High — Analog Devices shares increased to an all-time high of 435.74 USD. Over the past 4 weeks, Analog Devices gained 9.65%, and in the last 12 months, it increased 99.24%.
-
----
-
-### 2026-06-04 01:42:00  #MKT News
-
-Russian Defence Ministry said 82 Ukrainian drones were shot down inside Russia within 24 hours.
-
----
-
-### 2026-06-04 01:41:41  #公司 #市場
-
-【黑石等私募信貸股票大跌 此前Cliffwater稱基金面臨的贖回請求激增】多家大型另類資產管理公司股價週三大跌。在Cliffwater旗艦私募信貸基金披露稱遭遇比第一季度更大的贖回申請規模後，市場對該行業出現新一輪恐慌。黑石、KKR、Blue Owl Capital、阿波羅全球管理以及阿瑞斯管理公司的股價均一度下跌至少4%。分析師擔心大規模贖回可能會令規模1.8萬億美元的私募信貸市場陷入更長期動盪。“我們仍然認為，鑑於相關的報告週期，另類資產市場的行情可能在勞工節前都不會有起色。不過這一觀點取決於贖回申請規模是否見頂，或是否出現進一步放緩的跡象。”TD Cowen分析師Bill Katz在給客戶的一份報告中寫道。
-
----
-
-### 2026-06-04 01:39:48  #MKT News
-
-【Rubio says Greenland "still belongs to Denmark"】At a congressional hearing on the 3rd (local time), Secretary of State Rubio said Greenland "still belongs to Denmark" and that the US is conducting ongoing security and defense consultations with Denmark and Greenland. He said a monthly consultation mechanism has been established and that talks on Greenland’s role in collective defense are "making good progress," but he declined to provide details.
-
----
-
-### 2026-06-04 01:37:45  #其他
-
-古巴自6月6日起暫停Visa與萬事達卡交易。
-
----
-
-### 2026-06-04 01:36:25  #其他
-
-在公開聽證會上，得克薩斯縣法官喬·福斯表示，委員會尚未就SpaceX的TeraFab專案減稅事宜作出決定。
-
----
-
-### 2026-06-04 01:36:23  #公司
-
-霍尼韋爾高管預計，2030 年前公司營收複合年增長率可達 6% 至 8%；其中商用配套原廠業務與售後市場增速為中高個位數，防務及航天業務增速維持中個位數水平
-
----
-
-### 2026-06-04 01:36:06  #MKT News
-
-At a public hearing, Texas county judge Joe Foss said the committee has not yet decided on tax relief for SpaceX's TeraFab project.
-
----
-
-### 2026-06-04 01:35:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Ukraine President Zelenskiy thanked the UK for its recent sanctions package and said pressure on Russia must be intensified.
-
----
-
-### 2026-06-04 01:35:03  #MKT News
-
-Ukrainian President Zelenskiy said he spoke with UK Prime Minister Starmer and they are preparing for negotiations and a meeting that will cover defensive weapons and coordinated European diplomatic efforts to end the war. He said Europe must articulate a clear position and contribute to all diplomatic initiatives aimed at ending the conflict, and that they have coordinated on how to achieve this.
 
 ---

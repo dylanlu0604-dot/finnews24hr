@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:04:29_
-_本檔包含 3542 則快訊，約 701337 字_
+_更新時間：2026-06-07 07:26:54_
+_本檔包含 3543 則快訊，約 702528 字_
+
+---
+
+### 2026-06-01 21:44:01  #市場 #焦點
+
+低硫燃料油連續主力合約日內漲4%，現報4831.00元。
+
+---
+
+### 2026-06-01 21:43:49  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Gains to $96 — Brent crude oil futures surged more than 5% to around $96 per barrel on Monday after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating military operations in Lebanon. According to the semi-official Tasnim news agency, Iran’s negotiating team will halt talks and the exchange of documents through mediators, accusing Washington of sending mixed signals and prolonging negotiations. Earlier in the day, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development raised concerns about the prospects for an interim peace agreement, particularly as US and Iranian forces were involved in fresh clashes near the Strait of Hormuz. President Donald Trump nevertheless said talks with Tehran would “work out well,” despite the renewed tensions.
+
+---
+
+### 2026-06-01 21:43:20  #公司 #市場
+
+TAYLOR MORRISON股價上漲22.4%，此前伯克希爾哈撒韋宣佈將以68億美元收購該公司。
+
+---
+
+### 2026-06-01 21:43:09  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Rise More than 5% — WTI crude oil futures surged more than 5% to nearly $93 per barrel on Monday after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating military operations in Lebanon. According to the semi official Tasnim news agency, Iran’s negotiating team will halt talks and the exchange of documents through mediators, accusing Washington of sending mixed signals and prolonging negotiations. Earlier in the day, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development raised concerns about the prospects for an interim peace agreement, particularly as US and Iranian forces were involved in fresh clashes near the Strait of Hormuz. President Donald Trump nevertheless said talks with Tehran would “work out well,” despite the renewed tensions.
 
 ---
 
@@ -21354,37 +21378,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 ### 2026-05-31 07:27:39  #公司 #國際
 
 【瑞士銀行調查顯示：許多機構正將資金撤出美國】一項最新調查顯示，最富有家族的私人投資機構（家族辦公室）正計劃對它們的投資組合進行數年來最大規模的調整，其中許多機構正將資金撤出美國。瑞士銀行的《全球家族辦公室報告》顯示，高達60%的家族辦公室計劃明年對其投資配置進行戰略調整，其中很多正在減持美國資產，增持新興市場資產。在全球範圍內，北美是這些家族辦公室計劃於未來12個月內減少資產配置的唯一地區。它們表示，計劃增加在拉丁美洲和非洲的資產配置。（參考訊息）
-
----
-
-### 2026-05-31 07:25:09  #其他
-
-【AI擬人化互動迎來新規範】人工智慧（AI）正在從“工具”走向“夥伴”。相關調研顯示，超七成使用者與AI建立起情感聯結，甚至產生過依賴感。從日常工作學習到聊天輔助，從情感傾訴到虛擬陪伴，當AI扮演起“社交避風港”“情緒止痛藥”等角色時，其背後的價值觀引導、虛擬情感成癮等潛在風險不容忽視。
-
----
-
-### 2026-05-31 07:09:12  #其他
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、快遞企業加大人才儲備，青年工程師成長為技術骨幹 用演算法尋找物流最優解（大力促進就業創業）；
-2、央企科技成果產業化聯合體成立 今年底初步構建成果轉化數字生態；
-3、“將經濟發展、社會穩定與人民福祉相結合”——訪西班牙共產黨國際書記曼努埃爾·皮內達；
-4、共築智慧製造生態 加速新工業革命程序；
-5、江西九江棉船島從供電不穩到綠電外送——長江上建起首座“零碳島”（奮進“十五五” 一線見聞）；
-6、零碳建設必須堅持資源稟賦導向（專家點評）；
-7、陝西推動縣域經濟高質量發展；
-8、安徽持續推進“農業保險+”改革——一張保單，幫農民邁上致富路。
-
----
-
-### 2026-05-31 07:06:01  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“要堅持健康第一的教育理念”（總書記的人民情懷）；
-2、習近平同埃及總統塞西就中埃建交70週年互致賀電 李強同埃及總理馬德布利互致賀電；
-3、李強對安全生產工作作出重要批示強調 堅決貫徹落實習近平總書記關於安全生產的重要指示精神 切實維護人民群眾生命財產安全和社會大局穩定；
-4、趙樂際對俄羅斯進行正式友好訪問並出席中俄議會合作委員會第十一次會議；
-5、陝西推動縣域經濟高質量發展；
-6、電力市場交易電量同比增長25.6%。
 
 ---

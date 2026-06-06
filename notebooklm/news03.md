@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:04:29_
-_本檔包含 4004 則快訊，約 702265 字_
+_更新時間：2026-06-07 07:26:54_
+_本檔包含 4014 則快訊，約 703538 字_
+
+---
+
+### 2026-06-04 01:50:03  #國際
+
+巴林發行10億美元國際債券（美元計價），收益率為7.125%；在那之前數小時，該國遭到導彈襲擊。這是美國和以色列發動伊朗戰爭以來，海灣地區首次在公開市場的第一筆主權債交易。
+
+---
+
+### 2026-06-04 01:50:03  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed to release Beige Book on U.S. economy in ten minutes.
+
+---
+
+### 2026-06-04 01:49:38  #焦點 #國際
+
+市場訊息：匈牙利已解除對烏克蘭加入歐盟長達兩年的否決。
+
+---
+
+### 2026-06-04 01:49:35  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Hungary has lifted its two-year veto on Ukraine's accession to the European Union.
+
+---
+
+### 2026-06-04 01:45:30  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Analog Devices Stock Price Hits All-time High — Analog Devices shares increased to an all-time high of 435.74 USD. Over the past 4 weeks, Analog Devices gained 9.65%, and in the last 12 months, it increased 99.24%.
+
+---
+
+### 2026-06-04 01:42:00  #MKT News
+
+Russian Defence Ministry said 82 Ukrainian drones were shot down inside Russia within 24 hours.
+
+---
+
+### 2026-06-04 01:41:41  #公司 #市場
+
+【黑石等私募信貸股票大跌 此前Cliffwater稱基金面臨的贖回請求激增】多家大型另類資產管理公司股價週三大跌。在Cliffwater旗艦私募信貸基金披露稱遭遇比第一季度更大的贖回申請規模後，市場對該行業出現新一輪恐慌。黑石、KKR、Blue Owl Capital、阿波羅全球管理以及阿瑞斯管理公司的股價均一度下跌至少4%。分析師擔心大規模贖回可能會令規模1.8萬億美元的私募信貸市場陷入更長期動盪。“我們仍然認為，鑑於相關的報告週期，另類資產市場的行情可能在勞工節前都不會有起色。不過這一觀點取決於贖回申請規模是否見頂，或是否出現進一步放緩的跡象。”TD Cowen分析師Bill Katz在給客戶的一份報告中寫道。
+
+---
+
+### 2026-06-04 01:39:48  #MKT News
+
+【Rubio says Greenland "still belongs to Denmark"】At a congressional hearing on the 3rd (local time), Secretary of State Rubio said Greenland "still belongs to Denmark" and that the US is conducting ongoing security and defense consultations with Denmark and Greenland. He said a monthly consultation mechanism has been established and that talks on Greenland’s role in collective defense are "making good progress," but he declined to provide details.
+
+---
+
+### 2026-06-04 01:37:45  #其他
+
+古巴自6月6日起暫停Visa與萬事達卡交易。
+
+---
+
+### 2026-06-04 01:36:25  #其他
+
+在公開聽證會上，得克薩斯縣法官喬·福斯表示，委員會尚未就SpaceX的TeraFab專案減稅事宜作出決定。
+
+---
+
+### 2026-06-04 01:36:23  #公司
+
+霍尼韋爾高管預計，2030 年前公司營收複合年增長率可達 6% 至 8%；其中商用配套原廠業務與售後市場增速為中高個位數，防務及航天業務增速維持中個位數水平
+
+---
+
+### 2026-06-04 01:36:06  #MKT News
+
+At a public hearing, Texas county judge Joe Foss said the committee has not yet decided on tax relief for SpaceX's TeraFab project.
+
+---
+
+### 2026-06-04 01:35:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Ukraine President Zelenskiy thanked the UK for its recent sanctions package and said pressure on Russia must be intensified.
+
+---
+
+### 2026-06-04 01:35:03  #MKT News
+
+Ukrainian President Zelenskiy said he spoke with UK Prime Minister Starmer and they are preparing for negotiations and a meeting that will cover defensive weapons and coordinated European diplomatic efforts to end the war. He said Europe must articulate a clear position and contribute to all diplomatic initiatives aimed at ending the conflict, and that they have coordinated on how to achieve this.
 
 ---
 
@@ -24099,29 +24183,5 @@ Colombia's state oil company said it activated an emergency plan during a 24-hou
 ### 2026-06-02 23:17:41  #Trading Economics #Markets #Commodity #Importance 1
 
 Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per pound, approaching a two-week high, amid ongoing technical rebound, elevated oil prices, and India’s suspension of its 11% import duty on cotton. The move, which runs until October 30, is aimed at boosting supplies of high-quality fiber for the textile industry and is expected to lift domestic demand amidst strong global demand for yarns and textile products. Imports are likely to be sourced from surplus exporters including Australia, Brazil, the United States, and Africa. Additional support came from strong US export sales, with USDA data showing 153,622 running bales in the latest week, up 17% from the previous week and above the four-week average. The Crop Progress report also showed 66% of the US cotton crop had been planted, up from 53% a week earlier and slightly ahead of 64% at the same time last year, indicating that crop development remains largely on track.
-
----
-
-### 2026-06-02 23:17:20  #其他
-
-【澳大利亞前高官發起一項針對美英澳合作的公開調查】澳大利亞前環境部長彼得·加勒特2日宣佈發起一項針對美英澳“三邊安全夥伴關係”及核潛艇合作的公開調查，旨在審視相關合作對澳主權、安全等方面的影響。加勒特在一份宣告中表示，美英澳“三邊安全夥伴關係”是迄今澳大利亞政府參與的成本最高、最複雜的專案，但議會和公眾卻沒有機會參與有關該專案的質詢、辯論和決策。他說：“對這項耗費鉅額納稅人資金的計劃進行公開調查刻不容緩。”（新華社）
-
----
-
-### 2026-06-02 23:17:06  #國際
-
-美國國務卿魯比奧表示，受伊朗決策體系內部分歧以及談判人員需透過多層級流程向最高領袖往返呈報資訊影響，美方往往要近一週時間才能收到伊朗談判代表的回覆。
-
----
-
-### 2026-06-02 23:16:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【ECB says gold became largest global official reserve asset by end-2025】The European Central Bank said in a report on the 2nd that by end-2025 gold's share of global official reserves rose to 27% while US Treasuries' share fell to 22%, making gold the largest official reserve asset globally.
-
----
-
-### 2026-06-02 23:16:19  #國際
-
-【近10年來首次 俄稱美官方代表團將出席聖彼得堡國際經濟論壇】俄羅斯總統助理烏沙科夫6月2日表示，美國官方代表團將出席第29屆聖彼得堡國際經濟論壇，這是近10年來的首次。美方代表團由美國美術委員會主席羅德尼·庫克率領，他將參加“俄羅斯-美國：文化對話”專題會議。烏沙科夫稱，美國上一次以該級別參會還是在2017年至2018年左右。烏沙科夫透露，普京將於6月5日出席論壇全體會議並發表講話。沙烏地阿拉伯擔任本屆論壇主賓國，烏茲別克總統米爾濟約耶夫將參會。第29屆聖彼得堡國際經濟論壇於6月3日至6日在聖彼得堡舉行，主題為“務實對話——通往穩定未來之路”。（央視新聞）
 
 ---

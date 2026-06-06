@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:04:29_
-_本檔包含 3657 則快訊，約 702857 字_
+_更新時間：2026-06-07 07:26:54_
+_本檔包含 3657 則快訊，約 701846 字_
+
+---
+
+### 2026-06-02 23:17:20  #其他
+
+【澳大利亞前高官發起一項針對美英澳合作的公開調查】澳大利亞前環境部長彼得·加勒特2日宣佈發起一項針對美英澳“三邊安全夥伴關係”及核潛艇合作的公開調查，旨在審視相關合作對澳主權、安全等方面的影響。加勒特在一份宣告中表示，美英澳“三邊安全夥伴關係”是迄今澳大利亞政府參與的成本最高、最複雜的專案，但議會和公眾卻沒有機會參與有關該專案的質詢、辯論和決策。他說：“對這項耗費鉅額納稅人資金的計劃進行公開調查刻不容緩。”（新華社）
+
+---
+
+### 2026-06-02 23:17:06  #國際
+
+美國國務卿魯比奧表示，受伊朗決策體系內部分歧以及談判人員需透過多層級流程向最高領袖往返呈報資訊影響，美方往往要近一週時間才能收到伊朗談判代表的回覆。
+
+---
+
+### 2026-06-02 23:16:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【ECB says gold became largest global official reserve asset by end-2025】The European Central Bank said in a report on the 2nd that by end-2025 gold's share of global official reserves rose to 27% while US Treasuries' share fell to 22%, making gold the largest official reserve asset globally.
+
+---
+
+### 2026-06-02 23:16:19  #國際
+
+【近10年來首次 俄稱美官方代表團將出席聖彼得堡國際經濟論壇】俄羅斯總統助理烏沙科夫6月2日表示，美國官方代表團將出席第29屆聖彼得堡國際經濟論壇，這是近10年來的首次。美方代表團由美國美術委員會主席羅德尼·庫克率領，他將參加“俄羅斯-美國：文化對話”專題會議。烏沙科夫稱，美國上一次以該級別參會還是在2017年至2018年左右。烏沙科夫透露，普京將於6月5日出席論壇全體會議並發表講話。沙烏地阿拉伯擔任本屆論壇主賓國，烏茲別克總統米爾濟約耶夫將參會。第29屆聖彼得堡國際經濟論壇於6月3日至6日在聖彼得堡舉行，主題為“務實對話——通往穩定未來之路”。（央視新聞）
 
 ---
 
@@ -22015,29 +22039,5 @@ WTI原油突破93美元/桶，日內漲6.46%。
 ### 2026-06-01 21:44:03  #MKT News #TMHC.O #Impact bullish
 
 Taylor Morrison Home Corporation shares rose more than 20% after Berkshire Hathaway agreed to acquire the company for about $8.5 billion enterprise value.
-
----
-
-### 2026-06-01 21:44:01  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲4%，現報4831.00元。
-
----
-
-### 2026-06-01 21:43:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Gains to $96 — Brent crude oil futures surged more than 5% to around $96 per barrel on Monday after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating military operations in Lebanon. According to the semi-official Tasnim news agency, Iran’s negotiating team will halt talks and the exchange of documents through mediators, accusing Washington of sending mixed signals and prolonging negotiations. Earlier in the day, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development raised concerns about the prospects for an interim peace agreement, particularly as US and Iranian forces were involved in fresh clashes near the Strait of Hormuz. President Donald Trump nevertheless said talks with Tehran would “work out well,” despite the renewed tensions.
-
----
-
-### 2026-06-01 21:43:20  #公司 #市場
-
-TAYLOR MORRISON股價上漲22.4%，此前伯克希爾哈撒韋宣佈將以68億美元收購該公司。
-
----
-
-### 2026-06-01 21:43:09  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Prices Rise More than 5% — WTI crude oil futures surged more than 5% to nearly $93 per barrel on Monday after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating military operations in Lebanon. According to the semi official Tasnim news agency, Iran’s negotiating team will halt talks and the exchange of documents through mediators, accusing Washington of sending mixed signals and prolonging negotiations. Earlier in the day, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development raised concerns about the prospects for an interim peace agreement, particularly as US and Iranian forces were involved in fresh clashes near the Strait of Hormuz. President Donald Trump nevertheless said talks with Tehran would “work out well,” despite the renewed tensions.
 
 ---
