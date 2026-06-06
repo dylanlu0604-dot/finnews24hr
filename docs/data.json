@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-06 22:10:37",
-  "count": 18781,
+  "updated": "2026-06-06 22:14:36",
+  "count": 18778,
   "items": [
+    {
+      "id": "mkt:019e9d47-96f8-7665-8313-11bb69218901",
+      "time": "2026-06-06 22:12:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Israel military says investigating strike on Lebanese army vehicle】Israel Defense Forces (IDF) said on the 6th it struck a Lebanese Armed Forces (LAF) vehicle in southern Lebanon and is investigating. The IDF said it detected a \"suspicious vehicle\" approaching its troops in the Taibnit area, which it described as an \"active combat zone,\" and had intelligence Hezbollah planned to fire from that area. Citing that intelligence and a perceived threat to soldiers, the IDF struck the vehicle. Preliminary checks found two LAF officers and one soldier inside; the investigation is ongoing. The IDF said its operational target was Hezbollah, not the Lebanese army."
+    },
+    {
+      "id": "4921310",
+      "time": "2026-06-06 22:11:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "布蘭奇：很榮幸特朗普邀請我擔任常任司法部長。"
+    },
     {
       "id": "4921309",
       "time": "2026-06-06 22:07:54",
@@ -173287,48 +173308,6 @@
         "國際"
       ],
       "text": "【聯合海上資訊中心：美軍仍在封鎖伊朗港口】英國海上貿易行動辦公室30日釋出聯合海上資訊中心的一份通報稱，美軍針對伊朗港口的封鎖目前仍在實施，嚴禁船隻進出伊朗港口。聯合海上資訊中心是一個多國海軍諮詢機構，由美國主導。通報還警告說，針對拒絕服從封鎖指令的船隻，美軍將開火使其失去航行能力或進行摧毀。美國總統特朗普29日在社交媒體上說，對伊朗的海上封鎖“即將被解除”。"
-    },
-    {
-      "id": "4908362",
-      "time": "2026-05-30 22:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：我們探測到多枚從黎巴嫩向北部發射的火箭彈，攔截了其中一些，其餘的則落在了空曠地帶。"
-    },
-    {
-      "id": "4908361",
-      "time": "2026-05-30 22:13:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京新開設三個社保國際化示範服務視窗】為滿足在京外籍人員日益上升的社保服務需求，北京市人力資源和社會保障局近日在東城區、西城區和朝陽區的社保經辦大廳分別設立“社會保險國際化示範服務視窗”，為在京外籍人士提供參保、查詢、退休、清算等社保服務。 下一步，北京市人社部門將發揮首都先行示範優勢，深耕涉外社保服務和國際交流合作工作，實現首都涉外社保服務標準統一、全域覆蓋、同質高效，為北京國際交往中心建設提供堅實保障。（新華社）"
-    },
-    {
-      "id": "mkt:019e793b-785d-7bb7-996a-3b2fb749f126",
-      "time": "2026-05-30 22:13:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "According to Kyodo, Japan and South Korea will resume joint search-and-rescue exercises next month, the first such drills in about nine years."
-    },
-    {
-      "id": "4908360",
-      "time": "2026-05-30 22:12:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為與光明科學城公司、深圳先進院簽署產學研協同創新合作備忘錄】5月29日下午，深圳市光明科學城發展建設有限公司、中國科學院深圳先進技術研究院與華為技術有限公司簽署產學研協同創新合作備忘錄。根據備忘錄，三方將建立長期穩定合作關係，共同搭建“光明科學城生態+合成生物科研+ICT”協同創新體系，推動合成生物學與人工智慧、智算算力深度融合，加速基礎科研創新能力提升及成果轉化。"
-    },
-    {
-      "id": "4908359",
-      "time": "2026-05-30 22:12:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《廣東省低空經濟發展條例（徵求意見稿）》公開徵求意見】廣東省發展改革委公開徵求《廣東省低空經濟發展條例（徵求意見稿）》意見，《條例》聚焦制約廣東省低空經濟發展的突出瓶頸問題，靶向施策、精準發力，有針對性地作出制度安排。針對空域開放不足，構建低空空域協同執行機制，提高空域使用效能；針對基礎設施不完善，強調基礎設施建設方案編制、運營管理、改造改建等關鍵環節；針對安全監管不足，強化飛行活動監督管理、落實低空安全責任；針對應用場景受限，按照有關分類拓展低空經濟應用場景，有序探索推廣新型低空經濟應用場景。"
     }
   ]
 }
