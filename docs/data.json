@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-07 00:31:21",
-  "count": 18787,
+  "updated": "2026-06-07 00:35:13",
+  "count": 18791,
   "items": [
+    {
+      "id": "4921358",
+      "time": "2026-06-07 00:34:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta在哥倫比亞與菲律賓上線USDC創作者支付專案，由使用者自行承擔代幣兌換與資產託管工作。"
+    },
+    {
+      "id": "4921357",
+      "time": "2026-06-07 00:34:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛在其數字資產平臺GS DAP上，推出首支基於區塊鏈、面向機構投資者的不動產代幣化基金。"
+    },
+    {
+      "id": "4921356",
+      "time": "2026-06-07 00:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨： 如果我們在歐洲團結一致，我們將是世界上最大、最成功的經濟區之一。 最好的年份並非在我們身後。美好的年份在前方等待著我們。"
+    },
+    {
+      "id": "4921355",
+      "time": "2026-06-07 00:32:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗世界盃代表隊已從土耳其啟程前往墨西哥，隊伍將駐紮在蒂華納備戰賽事。此前有訊息稱美國拒絕為部分隨行工作人員發放簽證，雙方由此產生外交分歧。"
+    },
+    {
+      "id": "mkt:019e9dc6-8f84-7665-8313-88b85006f519",
+      "time": "2026-06-07 00:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet alhadath reports Pakistan's interior minister has arrived in Iran."
+    },
     {
       "id": "4921354",
       "time": "2026-06-07 00:29:29",
@@ -173397,14 +173437,6 @@
         "MKT News"
       ],
       "text": "【Multiple artists withdraw from Freedom 250 concerts; Trump may replace events with rally and speech】President Trump said Saturday he is considering cancelling a series of concerts planned to mark the United States' 250th anniversary after multiple performers withdrew, and replacing them with a speech and rally. Poison frontman Bret Michaels was the fifth musician to pull out on Friday. The Freedom 250 concerts were scheduled June 25–July 10 on the National Mall; Trump posted on his social platform that he may host a speech and rally instead."
-    },
-    {
-      "id": "4908406",
-      "time": "2026-05-31 00:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會指控得克薩斯州居民內森·富勒涉嫌涉案金額達1230萬美元的加密貨幣投資詐騙案。"
     }
   ]
 }
