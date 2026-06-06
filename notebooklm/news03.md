@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:43:29_
-_本檔包含 4073 則快訊，約 701888 字_
+_更新時間：2026-06-06 20:37:42_
+_本檔包含 4048 則快訊，約 700234 字_
+
+---
+
+### 2026-06-03 23:11:10  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Israeli Prime Minister Netanyahu said using military force to open the Strait of Hormuz is possible; US President Trump is considering multiple options.
+
+---
+
+### 2026-06-03 23:10:48  #國際
+
+愛彼迎：收益保障服務已覆蓋美國 45 個州。
+
+---
+
+### 2026-06-03 23:10:45  #MKT News
+
+U.S. Treasury Secretary Bessent said he will not advance plans to put Trump on U.S. banknotes without legal authority.
+
+---
+
+### 2026-06-03 23:10:13  #國際
+
+【日本“石腦油危機”蔓延 多個行業受波及】日本約80%的石腦油供應依賴中東地區。由於霍爾木茲海峽航運遇阻，一場“石腦油危機”正在日本蔓延。一家位於東京臺東區的商店店家表示，從大概一個多月前開始，店裡的部分保鮮膜、塑膠袋等商品就開始缺貨了，主要是與日本的石腦油供應有關。石腦油是製造業和化工產業的核心基礎原料，其衍生物廣泛用於生產塑膠、合成纖維、合成橡膠、表面活性劑和印刷油墨溶劑等。（央視新聞）
+
+---
+
+### 2026-06-03 23:09:41  #國際
+
+美國財長貝森特： 若無相關法律依據，不會推進將特朗普頭像印上紙幣的相關事宜。
+
+---
+
+### 2026-06-03 23:09:10  #MKT News
+
+U.S. Treasury Secretary Bessent said there is a law prohibiting the depiction of any living person on U.S. currency.
+
+---
+
+### 2026-06-03 23:08:53  #MKT News
+
+U.S. Treasury Secretary Bessent said the leak of Trump's tax records involves criminal conduct.
+
+---
+
+### 2026-06-03 23:08:13  #國際
+
+美國財長貝森特：確實有法律規定，美國貨幣上不得印有任何在世人士的肖像。
+
+---
+
+### 2026-06-03 23:07:44  #其他
+
+巴西財長：巴西不應該向任何人低頭。
+
+---
+
+### 2026-06-03 23:07:13  #國際
+
+美國財長貝森特：特朗普稅務記錄遭外洩一事涉嫌違法。
+
+---
+
+### 2026-06-03 23:06:42  #國際
+
+愛彼迎：平臺推出收益保障及全新保險方案，為美國房東提供經濟兜底保障。
+
+---
+
+### 2026-06-03 23:06:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Sources say Russia's Saratov oil refinery has been offline since May 31 after a drone attack.
+
+---
+
+### 2026-06-03 23:06:02  #公司 #國際
+
+美國聯邦貿易委員會就 X 公司申請撤銷推特相關隱私監管令徵求公眾意見。
+
+---
+
+### 2026-06-03 23:05:57  #MKT News
+
+US Federal Trade Commission seeks public comment on X's petition to terminate the Twitter privacy consent decree.
+
+---
+
+### 2026-06-03 23:05:39  #國際
+
+墨西哥：有信心規避美國新關稅。
+
+---
+
+### 2026-06-03 23:04:55  #國際
+
+訊息人士稱，俄羅斯薩拉托夫煉油廠遭無人機襲擊後，自 5 月 31 日起已停產。
+
+---
+
+### 2026-06-03 23:04:29  #公司
+
+【星源材質透過港交所上市聆訊】據港交所檔案，6月3日，深圳市星源材質科技股份有限公司透過港交所上市聆訊。這家鋰離子電池隔膜製造商於2003年創立，為鋰離子電池製造商提供服務，例如LG新能源、三星SDI、遠景動力、村田、SK On、SAFT、寧德時代、比亞迪、國軒高科、中創新航、億緯鋰能和欣旺達。
+
+---
+
+### 2026-06-03 23:04:14  #MKT News
+
+USD/CAD fell 0.3% to 1.3880, an eight-week low.
+
+---
+
+### 2026-06-03 23:04:09  #國際
+
+墨西哥：美國擬加徵的新關稅不會波及汽車、鋼材品類。
+
+---
+
+### 2026-06-03 23:02:29  #其他
+
+【我國科研團隊攻克作物花期冷害難題 可挽回低溫減產損失】從中國科學院遺傳與發育生物學研究所獲悉，該所許操研究員帶領科研團隊，透過多年研究攻克了作物花期冷害難題，為應對氣候變化造成的農業災害，保障糧食安全提供了新的基礎理論指導和育種改良基因資源。該成果6月3日在國際學術期刊《自然》發表。（央視）
+
+---
+
+### 2026-06-03 23:02:20  #MKT News #Market Regions #Greater China
+
+【China develops high-protein maize using THP3-T gene】A research team at the Chinese Academy of Sciences' Center for Excellence in Molecular Plant Science, together with multiple domestic universities, identified a high-protein gene, THP3-T, from wild maize and introduced it to raise protein content significantly in China’s main commercial maize varieties. The trait could reduce soybean-meal demand in livestock and poultry feed, lower China’s soybean import dependence and bolster feed-supply security; the study was published in Nature on June 3.
+
+---
+
+### 2026-06-03 23:02:14  #MKT News
+
+Market sources: Elon Musk's XAI has paused hiring specialists to train its Grok chatbot.
+
+---
+
+### 2026-06-03 23:01:51  #其他
+
+【我國科研團隊成功找回“丟失”的野生玉米基因】玉米是我國第一大糧食作物，被譽為“飼料之王”。我國玉米蛋白含量普遍偏低，動物飼料嚴重依賴進口豆粕作為蛋白來源。記者從中國科學院獲悉，我國科研團隊從野生玉米中成功克隆了第二個高蛋白主效基因THP3-T，與此前發現的基因“聯手”，可使主栽玉米品種蛋白含量顯著提升。（新華社）
+
+---
+
+### 2026-06-03 23:01:43  #MKT News
+
+Lightbulb, a vehicle under SoftBank Vision Fund II, sold 56.5 million Lenskart shares to Societe Generale and Goldman Sachs.
+
+---
+
+### 2026-06-03 23:01:33  #其他
+
+市場訊息：馬斯克旗下 XAI 暫停招聘用於訓練 Grok 聊天機器人的專業技術人員。
+
+---
+
+### 2026-06-03 23:01:16  #公司
+
+【閱文集團：附屬公司補繳稅款及滯納金合計約3億元】閱文集團在港交所公告，公司一家附屬公司根據稅務局的通知就其與新疆霍爾果斯附屬公司相關的涉稅風險開展了自查。經自查並與主管稅務機關溝通確認，該附屬公司需補繳2020年至2022年企業所得稅稅款及滯納金合計約3億元，該事項不涉及行政處罰。截至本公告日期，該附屬公司已完成該等稅款繳納。該等稅款將計入公司2026年當期損益，預計將減少公司權益持有人應占盈利約3億元。
+
+---
+
+### 2026-06-03 23:01:09  #MKT News #Important #Commodities #Industrial Metals
+
+At the 23:00 close domestic futures main contracts were mostly higher: coking coal rose over 3%, rapeseed oil and coke gained more than 2%, asphalt advanced over 1%, and low-sulfur fuel oil (LU) and methanol were up around 1%. Laggers included No.20 rubber, down over 1%, with PVC and corn each down close to 1%.
+
+---
+
+### 2026-06-03 23:00:59  #MKT News
+
+【China Computer Industry Association establishes Space Computing Working Committee】The China Computer Industry Association held the inaugural meeting and first plenary of its Space Computing Working Committee in Beijing on June 3. The committee has received membership applications from more than 100 organizations covering radiation‑hardened chips, space computing systems and equipment, power and thermal management, data transmission, satellite-constellation infrastructure and launch services.
+
+---
+
+### 2026-06-03 23:00:52  #MKT News #Market Regions #Europe & UK
+
+【Poland says it proposed new permanent US base to Defense Secretary Hegseth】Poland's deputy prime minister and defense minister Wladyslaw Kosiniak-Kamysz said on social media on the 3rd he formally proposed to US Defense Secretary Hegseth the creation of a new permanent US military base in Poland. Kosiniak-Kamysz said US commitment to Poland's security has not weakened and could "become more steadfast."
+
+---
+
+### 2026-06-03 23:00:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【U.S. crude inventories fall for sixth straight week】EIA reports U.S. crude inventories fell for a sixth straight week in the week to May 29 as exports rose and refinery runs approached capacity. Commercial crude stocks excluding the Strategic Petroleum Reserve fell 7.974 mln barrels to 434.0 mln barrels, roughly 3% below the five‑year average. The SPR dropped 8.0 mln barrels to 357.1 mln barrels amid ongoing emergency releases. Gasoline stocks rose 3.4 mln barrels to 215.0 mln barrels, ending a 15‑week decline and remaining about 5% below the five‑year average; gasoline demand fell 662,000 bpd to 8.6 mln bpd.
+
+---
+
+### 2026-06-03 23:00:11  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 0.78% — Top currency losers are New Zealand Dollar (-0.78%), Swedish Krona (-0.74%), South Korean Won (-0.67%), British Pound (-0.22%) and Euro (-0.18%). Gains are led by Dollar Index (0.19%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-03 23:00:02  #市場
+
+【夜盤期貨收盤】焦煤連續漲3.32%，菜油連續漲2.12%，焦炭連續漲2.05%，20號膠連續跌1.38%，瀝青連續漲1.05%。
+
+---
+
+### 2026-06-03 22:59:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Kuwait declares two Iranian diplomats persona non grata, orders expulsion】Kuwait’s Foreign Ministry said on the 3rd it had declared two members of the Iranian diplomatic mission persona non grata and ordered them to leave within 24 hours. The ministry said the decision was made against the backdrop of "Iran’s continued ballistic missile and drone attacks."
+
+---
+
+### 2026-06-03 22:59:20  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+【Zelenskiy says willing to begin immediate direct talks with Putin】On June 3, Ukrainian President Zelenskiy said he was willing to begin immediate direct talks with Russian President Putin, seeking top-level dialogue to accelerate an end to the Russia-Ukraine conflict and saying Ukraine will not wait for the US to resolve other global priorities before advancing its own issues. Russia had no immediate response.
+
+---
+
+### 2026-06-03 22:58:58  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary Bessent said annual budget fraud losses are estimated at at least $500 bln, and once funds flow out recovery is very difficult.
+
+---
+
+### 2026-06-03 22:58:54  #MKT News #Market Regions #Greater China
+
+HKEX documents show Anker Innovations Technology Co Ltd has submitted a listing application to HKEX.
+
+---
+
+### 2026-06-03 22:58:48  #公司
+
+據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。
 
 ---
 
@@ -24165,377 +24387,5 @@ The Kremlin says Russian President Putin will deliver a major speech at the plen
 ### 2026-06-02 22:03:38  #MKT News #Market Themes #China Tech Giants #Market Regions #Greater China
 
 【Inner Mongolia leaders press Huawei to speed cloud data centre, green compute investment】Inner Mongolia Party Secretary Wang Weizhong and regional government chairman Bao Gang met Huawei SVP Ren Shulu in Hohhot on June 2, urging Huawei to deepen strategic cooperation with the region and accelerate construction of a Huawei Cloud data center. Officials asked Huawei to expand investment in green computing, AI, tech innovation and data trading, and to promote deeper integration of industrial, innovation, supply and talent chains to support new productive forces and high-quality growth. They pledged continued improvements to the business environment to facilitate Huawei and other companies' investment.
-
----
-
-### 2026-06-02 22:03:27  #公司
-
-【王偉中、包鋼會見華為公司高階副總裁任樹錄】6月2日，自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見華為技術有限公司高階副總裁、常務監事任樹錄一行。王偉中說，希望華為公司進一步深化與內蒙古的戰略合作，加快推進華為雲資料中心專案建設，聚焦綠色算力、人工智慧、科技創新、資料交易等領域擴大產業佈局、加大投資力度，推動產業鏈、創新鏈、供應鏈、人才鏈深度融合，助力自治區加快培育新質生產力、推動高質量發展。今年是內蒙古營商環境質量提升年，我們將持續打造一流營商環境，為包括華為公司在內的各類企業投資興業提供更優服務、創造更好條件。（e公司）
-
----
-
-### 2026-06-02 22:03:20  #國際
-
-官方資料顯示，截至5月31日，歐盟2025/26年度玉米進口量為1669萬噸，上年同期為1837萬噸。
-
----
-
-### 2026-06-02 22:03:00  #MKT News
-
-U.S. Treasury yields pared losses after job openings data; the 10-year yield fell 1.4 bps to 4.463%.
-
----
-
-### 2026-06-02 22:02:48  #Trading Economics #Economy #United States #Job Offers #Importance 3
-
-US Job Openings Highest since Nov 2024 — The number of job openings increased to 7.6 million in April 2026, the highest since November 2024 and well above market expectations of 6.88M. Job openings increased over the year by 520,000. In April, the number of job openings increased in professional and business services (+668,000), but decreased in finance and insurance (-135,000). Over the month, hires and total separations decreased to 5.1 million and 5.0 million, respectively. Within separations, both quits (3.0 million) and layoffs and discharges (1.7 million) were little changed.
-
----
-
-### 2026-06-02 22:02:32  #MKT News
-
-Kremlin said Saudi Arabia's energy minister will lead a large delegation, including ARAMCO, to attend this week's economic forum.
-
----
-
-### 2026-06-02 22:02:06  #MKT News
-
-The Kremlin said Saudi Arabia will be the main guest at this week's economic forum.
-
----
-
-### 2026-06-02 22:01:54  #MKT News
-
-Kremlin says a U.S. official delegation led by Rodney Cook, chair of the U.S. Arts Committee, will attend this week’s St. Petersburg International Economic Forum — the first formal U.S. delegation visit to Russia since 2017-18.
-
----
-
-### 2026-06-02 22:01:41  #央行 #國際
-
-波蘭央行：後續決策將取決於經濟資料。
-
----
-
-### 2026-06-02 22:01:10  #央行 #國際
-
-波蘭央行：可能會干預外匯市場。
-
----
-
-### 2026-06-02 22:00:47  #公司 #觀點
-
-【中泰證券助力江西財投集團公司債券成功發行】6月1日，由中泰證券擔任牽頭主承銷商、簿記管理人的江西省財政投資集團有限公司2026年面向專業投資者公開發行公司債券（第一期）成功發行。本期債券發行規模16億元，期限5年，全場認購倍數達4.99倍，最終票面利率1.74%，重新整理江西省5年期公司信用類債券發行利率歷史最低紀錄。
-
----
-
-### 2026-06-02 22:00:42  #經濟數據 #美國
-
-【美國4月JOLTS職位空缺761.8萬人】美國4月JOLTS職位空缺761.8萬人，前值686.6萬人。
-
----
-
-### 2026-06-02 22:00:40  #國際
-
-克里姆林宮表示，由美國美術委員會主席率領的美國官方代表團將於本週出席聖彼得堡經濟論壇。
-
----
-
-### 2026-06-02 22:00:40  #MKT News
-
-Polish central bank says future policy decisions will be data-dependent.
-
----
-
-### 2026-06-02 22:00:34  #其他
-
-克里姆林宮表示，沙特能源大臣將率大型代表團出席，代表團成員包括沙特阿美方面人員。
-
----
-
-### 2026-06-02 22:00:34  #MKT News
-
-Polish central bank reiterated it may intervene in FX markets.
-
----
-
-### 2026-06-02 22:00:31  #國際
-
-普京週四將與烏茲別克總統會談，商談俄羅斯在這個中亞國家建造核電站的相關事宜。
-
----
-
-### 2026-06-02 22:00:26  #國際
-
-克里姆林宮表示，美國代表團將於本週在聖彼得堡與俄羅斯政府官員舉行會談。
-
----
-
-### 2026-06-02 22:00:15  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-U.S. April JOLTS job openings 7.618 mln, vs. 6.88 mln expected; prior revised from 6.866 mln to 6.887 mln.
-
----
-
-### 2026-06-02 22:00:12  #焦點 #國際
-
-美國4月JOLTs職位空缺 761.8萬人，預期688萬人，前值由686.6萬人修正為688.7萬人。
-
----
-
-### 2026-06-02 22:00:05  #其他
-
-市場訊息：智利警方突襲桑坦德銀行，並逮捕了一名員工。
-
----
-
-### 2026-06-02 22:00:02  #MKT News #Economic Calendar #Important
-
-United States | JOLTS Job Openings (Apr) | actual 7618000K | consensus 6880000K | previous 6866000K
-
----
-
-### 2026-06-02 21:59:50  #MKT News #BSAC.SN
-
-Chilean police raided Banco Santander and arrested one employee, Chilean media reported.
-
----
-
-### 2026-06-02 21:59:19  #MKT News #Market Themes #AI Revolution
-
-KATAYAMA said he understood access to the MYTHOS model had been granted to some Japanese institutions.
-
----
-
-### 2026-06-02 21:59:04  #國際
-
-日本財務大臣：據我方瞭解，日本相關機構已獲准接入Mythos系統。
-
----
-
-### 2026-06-02 21:58:30  #其他
-
-市場訊息：俄美專家上週會晤討論雙邊議題。
-
----
-
-### 2026-06-02 21:58:29  #MKT News
-
-TASS reported Russian and U.S. experts met last week to discuss bilateral issues.
-
----
-
-### 2026-06-02 21:58:21  #MKT News
-
-Politico reports Texas Attorney General Ken Paxton, who recently clinched the Republican nomination for the U.S. Senate, plans to meet with Trump at the White House on Tuesday evening local time.
-
----
-
-### 2026-06-02 21:58:11  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs to Fresh Record — The S&P/TSX Composite Index rose 0.5% to trade near the 35,000 mark on Tuesday, reaching a record high after underperforming US stocks in the previous session. Energy and mining shares led gains as oil prices remained elevated despite retreating from Monday’s spike, while gold prices moved higher. Canadian Natural and Suncor added about 1%, benefiting from firm crude prices. Barrick gained nearly 1% after reports that it is considering a London listing for its African business, with a potential all-share transaction involving UK-listed Endeavour Mining among the options under review. On the geopolitical front, US President Donald Trump said talks with Iran were ongoing, although tensions between Israel and Lebanon continued to cloud prospects for a broader agreement and the eventual normalization of trade flows through the region.
-
----
-
-### 2026-06-02 21:57:06  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli Prime Minister Netanyahu said Mossad will continue to be on the front line against Iranian aggression.
-
----
-
-### 2026-06-02 21:57:04  #其他
-
-【費城半導體指數漲超4%創歷史新高】費城半導體指數盤初漲超4%創歷史新高，邁威爾科技漲幅擴大至23%，博通漲超5%，臺積電漲超2%，美光科技、AMD、高通漲超1%。
-
----
-
-### 2026-06-02 21:56:52  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli Prime Minister Netanyahu said the Iranian regime is destined to perish and Israel will help bring it to an end.
-
----
-
-### 2026-06-02 21:56:48  #焦點 #國際
-
-以色列總理內塔尼亞胡：伊朗政權註定要消亡，我們將幫助結束它。
-
----
-
-### 2026-06-02 21:56:36  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Walt Disney Stock Price Hits 4-week Low — Walt Disney shares decreased to 100.31 USD, the lowest since May 2026. Over the past 4 weeks, Walt Disney lost 0.73%, and in the last 12 months, it decreased 10.96%.
-
----
-
-### 2026-06-02 21:56:32  #國際
-
-以色列總理內塔尼亞胡：摩薩德將繼續處在對抗伊朗的前線。
-
----
-
-### 2026-06-02 21:55:46  #Trading Economics #Economy #Poland #Interest Rate #Importance 1
-
-National Bank of Poland Holds Rate as Expected — The National Bank of Poland held its reference policy rate at 3.75% in its June 2026 meeting, maintaining the rate at its lowest level in four years, as widely expected by markets. The hold contrasted with what is likely to be a rate hike by neighboring Eurozone countries next week, consistent with a relatively stable zloty and recent evidence of price stability in the Polish economy. The latest data showed that headline inflation eased to 3.1% in May from 3.2% in the earlier month, well below market expectations of 3.6% to push back against concerns that the surge in energy prices since the war in Iran would trigger an entrenched increase in consumer prices.
-
----
-
-### 2026-06-02 21:55:13  #公司
-
-丹戈特（Dangote）執行長：我們目前擁有極充足的航空煤油庫存，完全有能力以極具競爭力的價格將產品交付到全球各地。
-
----
-
-### 2026-06-02 21:55:00  #MKT News #Market Regions
-
-Mexico's main stock index rose 1% after three consecutive days of declines.
-
----
-
-### 2026-06-02 21:54:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Brazil's National Petroleum Agency (ANP) said April oil and gas production averaged 5.64 million barrels of oil equivalent per day; oil output was 4.34 million bpd, up 19.5% YoY.
-
----
-
-### 2026-06-02 21:54:41  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Mastercard Stock Price Hits 13-month Low — Mastercard shares decreased to 479.67 USD, the lowest since April 2025. Over the past 4 weeks, Mastercard lost 4.8%, and in the last 12 months, it decreased 17.43%.
-
----
-
-### 2026-06-02 21:54:09  #市場
-
-邁威爾科技股價上漲22%，博通上漲5.3%，英偉達上漲3.1%。
-
----
-
-### 2026-06-02 21:53:59  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #MRVL.O #Impact bullish #AVGO.O #NVDA.O
-
-Nasdaq 100 turned positive; Marvell Technology (MRVL.O) up 22%, Broadcom (AVGO.O) up 5.3%, NVIDIA (NVDA.O) up 3.1%.
-
----
-
-### 2026-06-02 21:53:42  #公司
-
-丹戈特（Dangote）執行長：煉油廠已滿負荷運轉。我們將成為全球單廠區規模最大的綜合性煉油與石化中心。
-
----
-
-### 2026-06-02 21:53:24  #其他
-
-巴西國家石油、天然氣和生物燃料管理局（ANP）資料顯示，巴西4月天然氣產量達到2.067億立方米，同比增長23%。
-
----
-
-### 2026-06-02 21:53:14  #市場
-
-【美銀展望半導體行業：AI投資持續擴張 儲存週期邏輯或被改寫】美銀認為，AI基礎設施建設仍處於早期階段。隨著AI應用從雲端計算廠商逐步向企業客戶、政府機構以及主權AI專案擴散，到2030年全球AI基礎設施投資規模有望從目前約1萬億美元，進一步擴大至3-4萬億美元。在這一背景下，AI資料中心、儲存器、半導體裝置以及模擬晶片行業都將迎來新的增長機遇。美銀認為儲存行業正在發生結構性變化，有望擺脫過去“大漲大跌”的傳統週期模式。報告指出，當前限制儲存產能擴張的因素不僅包括資本開支，還包括先進封裝能力、潔淨室建設、電力供應以及地緣政治等因素。
-
----
-
-### 2026-06-02 21:53:07  #公司
-
-谷歌：與 Voltus 簽約，合作打造電網智慧容量解決方案。
-
----
-
-### 2026-06-02 21:53:03  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Gilead Sciences Stock Price Hits 4-week Low — Gilead Sciences shares decreased to 128.31 USD, the lowest since April 2026. Over the past 4 weeks, Gilead Sciences lost 3.1%, and in the last 12 months, it increased 18.06%.
-
----
-
-### 2026-06-02 21:52:59  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（6月1日）擔保隔夜融資利率（SOFR）報3.65%，之前一天報3.63%。上個交易日有效的聯邦基金利率報3.62%，之前一天報3.62%。
-
----
-
-### 2026-06-02 21:52:45  #市場
-
-納斯達克100指數轉漲。
-
----
-
-### 2026-06-02 21:52:38  #市場
-
-墨西哥主要股指在經歷三個交易日下跌後上漲1%。
-
----
-
-### 2026-06-02 21:52:37  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Visa Stock Price Hits 5-week Low — Visa shares decreased to 316.10 USD, the lowest since April 2026. Over the past 4 weeks, Visa lost 3.14%, and in the last 12 months, it decreased 13.34%.
-
----
-
-### 2026-06-02 21:52:29  #其他
-
-巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）表示，巴西4月石油和天然氣產量達到564萬桶油當量/日。
-
----
-
-### 2026-06-02 21:52:18  #公司
-
-谷歌與Voltus簽署合作協議 。
-
----
-
-### 2026-06-02 21:52:03  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-NVIDIA (NVDA.O) rose 2.6%, lifting its market capitalization back above $5.5 tln.
-
----
-
-### 2026-06-02 21:52:01  #市場
-
-英偉達(NVDA.O)上漲2.6%，總市值重回5.5萬億美元上方。
-
----
-
-### 2026-06-02 21:51:55  #其他
-
-【德國柏林發生電車脫軌事故 多人受傷】總檯記者自德國消防部門獲悉，當地時間6月2日，德國首都柏林的利希滕貝格地區發生一起電車事故，造成20人受傷，其中3人傷勢嚴重。（新華社）
-
----
-
-### 2026-06-02 21:51:32  #國際
-
-特朗普將在華盛頓會晤PAXTON。
-
----
-
-### 2026-06-02 21:51:21  #公司 #國際
-
-【美國唯一在運商業濃縮鈾工廠宣佈大幅擴建 AI“搶電”催熱核燃料賽道】目前美國唯一投入生產的商業鈾濃縮公司Urenco USA週二釋出公告，宣佈將進行“數十億美元”投資，將現有低濃縮鈾（LEU）產能提高50%。Urenco表示，這筆投資將用於擴建新墨西哥州工廠。公司計劃採用氣體離心濃縮技術，新增210萬SWU（分離功單位）的鈾濃縮能力。擴建專案將建設最多24條離心機級聯生產線，其中首批生產線預計於2032年投運，其餘生產線將在2032年至2036年間分階段安裝並陸續投產。
-
----
-
-### 2026-06-02 21:51:02  #市場
-
-【美股加密貨幣概念股續跌】比特幣跌破6.9萬美元，美股加密貨幣概念股續跌，Strategy跌近6%，Robinhood跌超3%，Circle、Coinbase跌近3%。
-
----
-
-### 2026-06-02 21:50:35  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ProLogis Stock Price Hits 4-week Low — ProLogis shares decreased to 138.87 USD, the lowest since May 2026. Over the past 4 weeks, ProLogis gained 0.33%, and in the last 12 months, it increased 28.02%.
-
----
-
-### 2026-06-02 21:50:33  #MKT News
-
-Dangote CEO says refinery is operating at full capacity.
-
----
-
-### 2026-06-02 21:50:25  #公司
-
-丹戈特（Dangote）執行長：公司將於2028年底前新增70萬桶/日的煉油產能。
-
----
-
-### 2026-06-02 21:50:15  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Dangote CEO says the company will add 700,000 b/d of refining capacity by end-2028.
 
 ---

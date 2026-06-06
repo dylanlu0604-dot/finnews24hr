@@ -1,7 +1,146 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:43:29_
-_本檔包含 3970 則快訊，約 701846 字_
+_更新時間：2026-06-06 20:37:42_
+_本檔包含 3954 則快訊，約 701274 字_
+
+---
+
+### 2026-06-05 07:13:09  #Trading Economics #Economy #South Korea #Current Account #Importance 1
+
+South Korea Current Account Surplus Narrows in April — South Korea’s current account surplus declined to USD 28.29 billion in April 2026 from a marginally revised USD 37.93 billion in the previous month. The decline was mainly driven by a narrowing of the goods surplus to USD 33.88 billion in April from USD 35.68 billion in March, although exports rose 54.5%, outpacing the 16.1% increase in imports. Additionally, the services account deficit widened to USD 2.42 billion from USD 1.31 billion, while the primary income account swung to a deficit of USD 2.53 billion from a surplus of USD 3.59 billion. Meanwhile, the secondary income deficit widened to USD 0.64 billion from USD 0.03 billion.
+
+---
+
+### 2026-06-05 07:12:26  #宏觀 #國際
+
+【古巴國家主席回應美國製裁：短視行徑必遭堅定回擊】當地時間4日，古巴國家主席迪亞斯-卡內爾透過社交媒體對美國總統特朗普當天涉古言論以及美財政部將包括其本人在內的多人以及組織企業列入制裁名單進行回應。迪亞斯-卡內爾指出，美方這些措施旨在進一步強化對古巴的封鎖，並加劇古巴與美國之間的對抗局面。迪亞斯-卡內爾表示，這種政治上的短視做法，與美國近幾周來針對古巴實施的一系列強制性措施一脈相承，其目的都是損害古巴人民的利益。迪亞斯-卡內爾強調，美國政府的侵略性和惡劣行徑，“將遭遇我們迎接最嚴峻局面、抵禦帝國主義衝擊的堅定決心”。
+
+---
+
+### 2026-06-05 07:11:25  #公司
+
+【三天3家農商銀行獲批籌建，貴州農村信用社改革縱深推進】6月1日至3日，國家金融監督管理總局貴州監管局網站接連披露同意籌建畢節農商銀行、黔西南農商銀行、六盤水農商銀行的公告，貴州農信系統改革正加速推進。按照一體謀劃、統籌推進、分步實施的原則，貴州農信系統改革分兩步走：一是將省聯社改制組建為貴州農商聯合銀行，二是推動組建市（州）農商銀行，最終形成“1家農商聯合銀行+9家市（州）農商銀行”的新型省市兩級法人架構。（中證報）
+
+---
+
+### 2026-06-05 07:10:59  #其他
+
+【廣發證券：持續看好AI發展帶來的產業需求加速】廣發證券研報稱，我們認為本輪AI產業鏈的核心驅動來自模型agentic coding能力的增強，以Claude Code、Codex為代表的程式設計工具正從輔助補全躍遷至自主協作，並由此向上下游傳匯出多層投資機會。向上遊看，Agentic Workload對算力的消耗大幅提升，推動雲廠商IaaS&MaaS業務高增長，減少市場對於雲廠商投入過剩導致AI泡沫等問題的擔憂，對FCF Margin下降的敏感度隨之減弱，關注CSP算力約束緩解與訂單增長節奏。向模型廠商自身看，Agentic任務驅動Token消耗飆升、頭部模型ARR加速提升，短期交易重點在於模型更新、ARR資料、Token價格與算力供應等邊際變化。向下遊應用看，Coding Agent最先驗證PMF，關注“Claude Code for X”式的場景複製與Token經濟性提升帶來的擴充套件空間。我們持續看好AI發展帶來的產業需求加速，建議圍繞自研模型+算力+雲生態的垂直整合進行標的選擇。
+
+---
+
+### 2026-06-05 07:09:54  #宏觀 #公司 #市場
+
+【資產劃轉稅務處理口徑存爭議，業內建議出臺可量化細則與指引】上海國投公司日前釋出的2025年審計報告顯示，其提交的居民企業資產（股權）劃轉特殊性稅務處理申報成功，被上海長寧區稅務局退回9.63億元所得稅。而在此之前，山東黃金、柳工集團、浙能集團等公司均因類似劃轉事項被稅務機關認為不符合特殊性稅務處理，最終補繳鉅額企業所得稅及滯納金。一退一補的迥異結果，是否意味著實操口徑存在“溫差”？多位業內人士接受記者採訪時表示，該類劃轉的稅務處理口徑在實操中確實存在爭議，建議出臺可量化的徵管細則與操作指引。（證券時報）
+
+---
+
+### 2026-06-05 07:09:12  #市場 #央行 #國際
+
+【利差收窄使澳元兌美元吸引力下降】週五早盤，澳元兌美元報0.7134。澳洲聯邦銀行表示，澳大利亞與美國利差的收窄可能會繼續拖累該匯率。該行指出，市場繼續反映澳大利亞央行今年還會加息一次左右的預期。“我們預計澳大利亞央行不會進一步加息，活動疲軟的跡象可能會蓋過揮之不去的通脹擔憂，“澳洲聯邦銀行策略師Samara Hammoud表示。“相比之下，我們預計美國聯邦公開市場委員會將在12月開始緊縮週期。”
+
+---
+
+### 2026-06-05 07:08:44  #公司
+
+【溜溜梅(06658)擬全球發售1146.41萬股 預計6月15日上市】溜溜梅(06658)於2026年6月5日-2026年6月10日招股，擬全球發售1146.41萬股H股，香港公開發售佔約10.0%，國際發售佔約90.0%，另有約15%超額配股權。發售價將為每股發售股份43.58港元。每手100股，預期H股將於2026年6月15日上午九時正在聯交所開始買賣。據悉，該公司是一家專注於青梅產品的果類零食公司。
+
+---
+
+### 2026-06-05 07:07:45  #MKT News
+
+【Hamas official holds phone call with Iranian foreign minister on regional developments】Hamas said senior official Khalil al-Hayya spoke by phone on the 4th with Iranian foreign minister Araghchi to discuss the Palestinian issue and recent regional developments.
+
+---
+
+### 2026-06-05 07:06:55  #公司
+
+【工業機器人核心零部件“小巨人”今日上市】5日，有一隻新股上市，為北交所的新睿電子（920211.BJ）。該公司是國家級專精特新“小巨人”企業，主營業務為工業機器人控制系統及部件、伺服系統及部件的研發、生產和銷售。
+
+---
+
+### 2026-06-05 07:04:47  #其他
+
+【經濟日報金觀平：鍛造實體經濟的堅實底盤】對我國而言，堅守實體經濟更具特殊意義。14億多人口的大國，不能走脫實向虛、泡沫擴張的路子，也走不通依賴外部、空心發展的路子。鍛造實體經濟的堅實底盤不是可選項，而是必答題；不是權宜之計，而是長久之策。發展先進製造業，不是隻抓“高精尖”，而是有重點、有梯次、有接續地在“創造價值”上下功夫。透過推動傳統產業提質升級，鞏固重點產業在全球產業分工中的地位和競爭力；透過發展戰略性新興產業叢集，催生數個萬億元級甚至更大規模市場；透過開闢未來產業新賽道，形成塑造長遠優勢的戰略儲備。讓“老樹發新枝”“新苗成大樹”，才能加快構建以先進製造業為骨幹的現代化產業體系，推動中國製造向中國智造轉變、中國產品向中國品牌躍升。
+
+---
+
+### 2026-06-05 07:03:55  #其他
+
+【經濟日報：銀行為何“補貼”微信提現手續費】近日，多家商業銀行宣佈，如果使用者將微信零錢提現至該行簽帳金融卡，可享受手續費抵扣、全額減免等優惠政策。銀行為何“補貼”微信提現手續費？其核心目的是獲取更大規模的活期存款，也就是獲取低成本負債，進而穩定存貸款利差與經營管理。商業銀行屬於金融中介機構，所謂“中介”，即銀行一手從儲戶那裡獲取存款，一手將存款貸給符合條件的借款人，前者形成了銀行的主要負債，後者構成了銀行的主要資產，銀行則透過承擔流動性風險與信用風險、生產信用資訊等功能，賺取一定比例的收入。由此可見，有效的資產負債管理是銀行穩健經營的關鍵，其中，控制負債成本又是重中之重，銀行業也因此有“存款立行”的說法。
+
+---
+
+### 2026-06-05 07:02:02  #央行 #國際
+
+韓國央行：韓國4月經常賬戶順差創史上第二高水平。
+
+---
+
+### 2026-06-05 07:01:50  #MKT News
+
+Bank of Korea says South Korea's April current account surplus was the second-highest on record.
+
+---
+
+### 2026-06-05 07:00:12  #MKT News
+
+South Korea current account balance, not seasonally adjusted (NSA), April: $28.29 bln; March: $37.33 bln.
+
+---
+
+### 2026-06-05 07:00:10  #國際
+
+韓國4月未季調經常帳 282.9億美元，前值373.271億美元。
+
+---
+
+### 2026-06-05 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Current Account NSA (Apr) | actual 28289999999.999996B | previous 37327100000B
+
+---
+
+### 2026-06-05 06:59:23  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading around 13,103 in Friday morning trade, after retreating in the previous two sessions and recovering from its lowest level since May 26, as gains in consumer staples and financials were offset by declines in industrials and communication services. Traders continued to assess the possibility that New Zealand could face a new 12.5% tariff from the US after the US Trade Representative said that 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Traders also awaited the release of US jobs data later today, as well as US inflation data and China's inflation and trade balance figures due next week. Among individual stocks, Freightways Group fell 2.2%, Ryman Healthcare dropped 2.1%, and Westpac Banking Corp. shed 0.6%, while A2 Milk and Ebos Group rose 1.2% and 0.9%, respectively. For the week, the index fell 1.1%, marking its first decline in three weeks.
+
+---
+
+### 2026-06-05 06:59:15  #其他
+
+馬斯克：如果讓火星熱鬧起來，可以讓它像地球一樣。
+
+---
+
+### 2026-06-05 06:58:15  #其他
+
+馬斯克：對星艦V3的負荷目標是，將100噸貨物輸送至軌道，完全可重複利用。
+
+---
+
+### 2026-06-05 06:57:17  #公司 #央行 #國際
+
+【週五重要財經資訊提醒（以下均為北京時間）】
+① 時間待定 黃仁勳將會見韓國LG集團的會長；
+② 12:30 印度央行公佈利率決定；
+③ 12:35 澳洲聯儲助理主席Hauser在天空新聞澳大利亞經濟前景峰會期間參加一個爐邊閒聊；
+④ 17:00 歐元區一季度GDP終值；
+⑤ 18:30 印度一季度GDP；
+⑥ 20:30 美國5月非農就業報告（含就業人口、失業率、平均每小時工資），加拿大5月就業報告；
+⑦ 21:40 英國央行貨幣政策委員會（MPC）成員Dhingra講話；
+⑧ 次日02:00 英國央行行長貝利講話；
+⑨ 次日03:00 美國4月消費信貸；
+⑩ 週六 美聯儲進入FOMC貨幣政策會議之前的噤聲期；
+⑪ 週日00:00 美聯儲理事Barr（曾擔任負責金融監管事務的副主席）談論監督與監管；
+⑫ 週日時間待定 中國5月外匯儲備；
+⑬ 週日時間待定 OPEC+產油國會議。
+
+---
+
+### 2026-06-05 06:56:27  #公司 #觀點
+
+【華爾街預計：SpaceX旗下AI業務收入到2030年將飆升100倍】研究分析師預計，到本年代末（2030年底），SpaceX的人工智慧（AI）部門收入將增長100倍，從而為其高達1.8萬億美元的目標估值提供合理支撐。投行Evercore ISI的研究分析師預計，SpaceX的AI部門銷售額到2031年將達到7550億美元，而去年這一數字僅為32億美元。高盛團隊預計，該公司的自由現金流在2029年達到-1050億美元的低谷後，到2031年將轉正並超過720億美元。
 
 ---
 
@@ -23701,227 +23840,5 @@ Brent Extends Gains — Brent crude oil futures extended gains to nearly 2%, rea
 ### 2026-06-03 23:11:35  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Extends Gains after EIA Data — WTI crude oil futures extended gains to 2%, reaching $95.7 per barrel after EIA data showed a sixth consecutive weekly decline in US crude inventories. Stockpiles fell by 7.97 million barrels last week, the largest draw since February and well above expectations for a 4 million barrel decrease. Meanwhile, President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire.
-
----
-
-### 2026-06-03 23:11:10  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Israeli Prime Minister Netanyahu said using military force to open the Strait of Hormuz is possible; US President Trump is considering multiple options.
-
----
-
-### 2026-06-03 23:10:48  #國際
-
-愛彼迎：收益保障服務已覆蓋美國 45 個州。
-
----
-
-### 2026-06-03 23:10:45  #MKT News
-
-U.S. Treasury Secretary Bessent said he will not advance plans to put Trump on U.S. banknotes without legal authority.
-
----
-
-### 2026-06-03 23:10:13  #國際
-
-【日本“石腦油危機”蔓延 多個行業受波及】日本約80%的石腦油供應依賴中東地區。由於霍爾木茲海峽航運遇阻，一場“石腦油危機”正在日本蔓延。一家位於東京臺東區的商店店家表示，從大概一個多月前開始，店裡的部分保鮮膜、塑膠袋等商品就開始缺貨了，主要是與日本的石腦油供應有關。石腦油是製造業和化工產業的核心基礎原料，其衍生物廣泛用於生產塑膠、合成纖維、合成橡膠、表面活性劑和印刷油墨溶劑等。（央視新聞）
-
----
-
-### 2026-06-03 23:09:41  #國際
-
-美國財長貝森特： 若無相關法律依據，不會推進將特朗普頭像印上紙幣的相關事宜。
-
----
-
-### 2026-06-03 23:09:10  #MKT News
-
-U.S. Treasury Secretary Bessent said there is a law prohibiting the depiction of any living person on U.S. currency.
-
----
-
-### 2026-06-03 23:08:53  #MKT News
-
-U.S. Treasury Secretary Bessent said the leak of Trump's tax records involves criminal conduct.
-
----
-
-### 2026-06-03 23:08:13  #國際
-
-美國財長貝森特：確實有法律規定，美國貨幣上不得印有任何在世人士的肖像。
-
----
-
-### 2026-06-03 23:07:44  #其他
-
-巴西財長：巴西不應該向任何人低頭。
-
----
-
-### 2026-06-03 23:07:13  #國際
-
-美國財長貝森特：特朗普稅務記錄遭外洩一事涉嫌違法。
-
----
-
-### 2026-06-03 23:06:42  #國際
-
-愛彼迎：平臺推出收益保障及全新保險方案，為美國房東提供經濟兜底保障。
-
----
-
-### 2026-06-03 23:06:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Sources say Russia's Saratov oil refinery has been offline since May 31 after a drone attack.
-
----
-
-### 2026-06-03 23:06:02  #公司 #國際
-
-美國聯邦貿易委員會就 X 公司申請撤銷推特相關隱私監管令徵求公眾意見。
-
----
-
-### 2026-06-03 23:05:57  #MKT News
-
-US Federal Trade Commission seeks public comment on X's petition to terminate the Twitter privacy consent decree.
-
----
-
-### 2026-06-03 23:05:39  #國際
-
-墨西哥：有信心規避美國新關稅。
-
----
-
-### 2026-06-03 23:04:55  #國際
-
-訊息人士稱，俄羅斯薩拉托夫煉油廠遭無人機襲擊後，自 5 月 31 日起已停產。
-
----
-
-### 2026-06-03 23:04:29  #公司
-
-【星源材質透過港交所上市聆訊】據港交所檔案，6月3日，深圳市星源材質科技股份有限公司透過港交所上市聆訊。這家鋰離子電池隔膜製造商於2003年創立，為鋰離子電池製造商提供服務，例如LG新能源、三星SDI、遠景動力、村田、SK On、SAFT、寧德時代、比亞迪、國軒高科、中創新航、億緯鋰能和欣旺達。
-
----
-
-### 2026-06-03 23:04:14  #MKT News
-
-USD/CAD fell 0.3% to 1.3880, an eight-week low.
-
----
-
-### 2026-06-03 23:04:09  #國際
-
-墨西哥：美國擬加徵的新關稅不會波及汽車、鋼材品類。
-
----
-
-### 2026-06-03 23:02:29  #其他
-
-【我國科研團隊攻克作物花期冷害難題 可挽回低溫減產損失】從中國科學院遺傳與發育生物學研究所獲悉，該所許操研究員帶領科研團隊，透過多年研究攻克了作物花期冷害難題，為應對氣候變化造成的農業災害，保障糧食安全提供了新的基礎理論指導和育種改良基因資源。該成果6月3日在國際學術期刊《自然》發表。（央視）
-
----
-
-### 2026-06-03 23:02:20  #MKT News #Market Regions #Greater China
-
-【China develops high-protein maize using THP3-T gene】A research team at the Chinese Academy of Sciences' Center for Excellence in Molecular Plant Science, together with multiple domestic universities, identified a high-protein gene, THP3-T, from wild maize and introduced it to raise protein content significantly in China’s main commercial maize varieties. The trait could reduce soybean-meal demand in livestock and poultry feed, lower China’s soybean import dependence and bolster feed-supply security; the study was published in Nature on June 3.
-
----
-
-### 2026-06-03 23:02:14  #MKT News
-
-Market sources: Elon Musk's XAI has paused hiring specialists to train its Grok chatbot.
-
----
-
-### 2026-06-03 23:01:51  #其他
-
-【我國科研團隊成功找回“丟失”的野生玉米基因】玉米是我國第一大糧食作物，被譽為“飼料之王”。我國玉米蛋白含量普遍偏低，動物飼料嚴重依賴進口豆粕作為蛋白來源。記者從中國科學院獲悉，我國科研團隊從野生玉米中成功克隆了第二個高蛋白主效基因THP3-T，與此前發現的基因“聯手”，可使主栽玉米品種蛋白含量顯著提升。（新華社）
-
----
-
-### 2026-06-03 23:01:43  #MKT News
-
-Lightbulb, a vehicle under SoftBank Vision Fund II, sold 56.5 million Lenskart shares to Societe Generale and Goldman Sachs.
-
----
-
-### 2026-06-03 23:01:33  #其他
-
-市場訊息：馬斯克旗下 XAI 暫停招聘用於訓練 Grok 聊天機器人的專業技術人員。
-
----
-
-### 2026-06-03 23:01:16  #公司
-
-【閱文集團：附屬公司補繳稅款及滯納金合計約3億元】閱文集團在港交所公告，公司一家附屬公司根據稅務局的通知就其與新疆霍爾果斯附屬公司相關的涉稅風險開展了自查。經自查並與主管稅務機關溝通確認，該附屬公司需補繳2020年至2022年企業所得稅稅款及滯納金合計約3億元，該事項不涉及行政處罰。截至本公告日期，該附屬公司已完成該等稅款繳納。該等稅款將計入公司2026年當期損益，預計將減少公司權益持有人應占盈利約3億元。
-
----
-
-### 2026-06-03 23:01:09  #MKT News #Important #Commodities #Industrial Metals
-
-At the 23:00 close domestic futures main contracts were mostly higher: coking coal rose over 3%, rapeseed oil and coke gained more than 2%, asphalt advanced over 1%, and low-sulfur fuel oil (LU) and methanol were up around 1%. Laggers included No.20 rubber, down over 1%, with PVC and corn each down close to 1%.
-
----
-
-### 2026-06-03 23:00:59  #MKT News
-
-【China Computer Industry Association establishes Space Computing Working Committee】The China Computer Industry Association held the inaugural meeting and first plenary of its Space Computing Working Committee in Beijing on June 3. The committee has received membership applications from more than 100 organizations covering radiation‑hardened chips, space computing systems and equipment, power and thermal management, data transmission, satellite-constellation infrastructure and launch services.
-
----
-
-### 2026-06-03 23:00:52  #MKT News #Market Regions #Europe & UK
-
-【Poland says it proposed new permanent US base to Defense Secretary Hegseth】Poland's deputy prime minister and defense minister Wladyslaw Kosiniak-Kamysz said on social media on the 3rd he formally proposed to US Defense Secretary Hegseth the creation of a new permanent US military base in Poland. Kosiniak-Kamysz said US commitment to Poland's security has not weakened and could "become more steadfast."
-
----
-
-### 2026-06-03 23:00:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S. crude inventories fall for sixth straight week】EIA reports U.S. crude inventories fell for a sixth straight week in the week to May 29 as exports rose and refinery runs approached capacity. Commercial crude stocks excluding the Strategic Petroleum Reserve fell 7.974 mln barrels to 434.0 mln barrels, roughly 3% below the five‑year average. The SPR dropped 8.0 mln barrels to 357.1 mln barrels amid ongoing emergency releases. Gasoline stocks rose 3.4 mln barrels to 215.0 mln barrels, ending a 15‑week decline and remaining about 5% below the five‑year average; gasoline demand fell 662,000 bpd to 8.6 mln bpd.
-
----
-
-### 2026-06-03 23:00:11  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.78% — Top currency losers are New Zealand Dollar (-0.78%), Swedish Krona (-0.74%), South Korean Won (-0.67%), British Pound (-0.22%) and Euro (-0.18%). Gains are led by Dollar Index (0.19%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-06-03 23:00:02  #市場
-
-【夜盤期貨收盤】焦煤連續漲3.32%，菜油連續漲2.12%，焦炭連續漲2.05%，20號膠連續跌1.38%，瀝青連續漲1.05%。
-
----
-
-### 2026-06-03 22:59:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Kuwait declares two Iranian diplomats persona non grata, orders expulsion】Kuwait’s Foreign Ministry said on the 3rd it had declared two members of the Iranian diplomatic mission persona non grata and ordered them to leave within 24 hours. The ministry said the decision was made against the backdrop of "Iran’s continued ballistic missile and drone attacks."
-
----
-
-### 2026-06-03 22:59:20  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-【Zelenskiy says willing to begin immediate direct talks with Putin】On June 3, Ukrainian President Zelenskiy said he was willing to begin immediate direct talks with Russian President Putin, seeking top-level dialogue to accelerate an end to the Russia-Ukraine conflict and saying Ukraine will not wait for the US to resolve other global priorities before advancing its own issues. Russia had no immediate response.
-
----
-
-### 2026-06-03 22:58:58  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary Bessent said annual budget fraud losses are estimated at at least $500 bln, and once funds flow out recovery is very difficult.
-
----
-
-### 2026-06-03 22:58:54  #MKT News #Market Regions #Greater China
-
-HKEX documents show Anker Innovations Technology Co Ltd has submitted a listing application to HKEX.
-
----
-
-### 2026-06-03 22:58:48  #公司
-
-據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。
 
 ---

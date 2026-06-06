@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 19:43:29_
-_本檔包含 3614 則快訊，約 701876 字_
+_更新時間：2026-06-06 20:37:42_
+_本檔包含 3612 則快訊，約 700594 字_
+
+---
+
+### 2026-06-06 20:34:57  #公司
+
+【凱越機車闢謠吞張雪股份、多次求張雪救命等資訊】有傳言稱 "凱越機車資金鍊斷裂即將破產"、"凱越撐不住了多次求張雪救命"、"凱越銷量跌三成，嚴凱急了找張雪"、"凱越最大的敗筆，不是沒留住張雪，而是連他 36% 的股份都吞完" 等。凱越機車釋出宣告：針對近期網路平臺上集中出現的關於凱越機車及董事長嚴凱先生的一系列不實言論和惡意造謠資訊，我司在此鄭重宣告：所有傳言均為無中生有、蓄意捏造，純屬惡意抹黑。
+
+---
+
+### 2026-06-06 20:32:53  #MKT News
+
+Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press for expanded industrial, trade and logistics cooperation, focusing on joint production, machinery supplies and transport development.
+
+---
+
+### 2026-06-06 20:27:59  #MKT News
+
+【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict.
+
+---
+
+### 2026-06-06 20:25:15  #國際
+
+【普京與施羅德“熱聊”，“冷拒”澤連斯基】俄羅斯總統助理尤里·烏沙科夫5日告訴俄羅斯媒體，俄總統普京當天在克里姆林宮與德國前總理施羅德舉行“友好的一對一”會面。同日，普京拒絕烏克蘭總統澤連斯基的會面邀約，認為二人見面“沒有意義”，並指出後者的公開信中含有“挑釁內容”。 俄新社援引烏沙科夫的話報道，普京與施羅德的會面以“私下密談”方式展開，他不清楚會談細節，只知道地點是在俄首都莫斯科克里姆林宮。（新華社）
+
+---
+
+### 2026-06-06 20:17:38  #MKT News
+
+【China launches maritime traffic enforcement operation in eastern waters off Taiwan】June 6 — China’s Ministry of Transport launched a special maritime traffic law‑enforcement operation in the eastern waters off Taiwan, deploying the Fujian and Guangdong maritime administrations, the East China Sea Navigation Protection Center and the East China Sea Rescue Bureau. The operation is intended to assert Chinese maritime administrative jurisdiction, strengthen deep‑sea patrol and key‑waters traffic control, and safeguard maritime traffic safety and national rights. Beijing said the action responds to Japan and the Philippines’ unilateral initiation of sea‑boundary delimitation talks east of Taiwan, which it described as a serious infringement on China’s territorial sovereignty and maritime rights.
+
+---
+
+### 2026-06-06 20:11:35  #焦點
+
+【臺灣島東部海域海上交通專項執法行動啟動】6月6日，交通運輸部組織福建海事局、廣東海事局、東海航海保障中心、東海救助局開展臺灣島東部海域海上交通專項執法行動，全面履行我國海上行政執法管轄權，增強深遠海巡航執法和重點水域交通管控能力，保障海上交通安全，維護國家權益。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東“海域劃界談判”、嚴重侵犯中國領土主權和海洋權益採取的必要行動。（新華社）
+
+---
+
+### 2026-06-06 20:05:14  #國際
+
+【法國前總統希拉剋遺孀貝爾納黛特去世】據法國媒體6日報道，法國前總統希拉剋遺孀貝爾納黛特5日晚去世，終年93歲。 貝爾納黛特1956年與希拉剋結婚。她曾擔任法國科雷茲省議會議員，熱衷於兒童公益事業。 法國總統馬克龍6日在社交媒體發文悼念。（新華社）
+
+---
+
+### 2026-06-06 20:04:13  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait's military says Iranian strike caused material damage but no casualties.
+
+---
+
+### 2026-06-06 20:03:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwaiti military says it intercepted seven missiles from Iran on Saturday.
+
+---
+
+### 2026-06-06 20:03:34  #國際
+
+【以軍稱正調查以方襲擊黎政府軍車輛事件】以色列國防軍6日發表宣告證實，以軍當天在黎巴嫩南部襲擊了一輛黎政府軍軍車，以方正在著手調查此事件。宣告說，以軍6日在黎南部泰卜尼特地區發現一“可疑車輛”向以軍駛來，該車穿行區域系“活躍戰區”。以軍此前收到情報稱，黎真主黨會從該區域向以軍開火。鑑於上述情報且該車對“以軍士兵構成威脅”，以軍對該車實施了打擊。宣告說，初步調查顯示，車內有2名黎巴嫩政府軍軍官和1名士兵，相關調查正在進行中。宣告還說，以軍的“行動目標是黎真主黨，而非黎政府軍”。（新華社）
+
+---
+
+### 2026-06-06 20:02:36  #其他
+
+科威特國防部發言人：今天上午，武裝部隊在科威特領空探測並攔截了七枚敵方彈道導彈。這些導彈在多個居民區上空被攔截，導致一些碎片墜落。
+
+---
+
+### 2026-06-06 20:01:03  #MKT News
+
+【HKO issues red rainstorm warning signal】The Hong Kong Observatory (HKO) issued a red rainstorm warning signal today, June 6.
+
+---
+
+### 2026-06-06 20:01:01  #其他
+
+【東風汽車無人物流車品牌東風OpenVAN釋出】6月6日，東風汽車無人物流車品牌東風OpenVAN釋出，四款東風OpenVAN全場景無人物流車產品亮相。釋出會現場，東風汽車綜合物流、新能源運營、裝備製造、城市服務及零售配送等多元領域的行業龍頭企業簽約，簽約訂單超過4000臺，預計將於8月進行交付。
+
+---
+
+### 2026-06-06 20:00:02  #市場 #焦點
+
+本週大盤主力資金累計淨流入-2223.19億元，光學光電子、國有大型銀行Ⅱ板塊淨流入居前，個股京東方A、中興通訊淨流入最多。
+
+---
+
+### 2026-06-06 19:59:59  #其他
+
+【香港發出紅色暴雨警告訊號】香港天文臺今日（6日）發出紅色暴雨警告訊號。香港特區政府教育局表示，由於紅色暴雨警告訊號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。（大灣區之聲）
+
+---
+
+### 2026-06-06 19:56:48  #其他
+
+香港天文臺釋出紅色暴雨警告。
+
+---
+
+### 2026-06-06 19:51:34  #宏觀 #焦點
+
+【6月6日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【牢記初心使命 奮進復興征程】紅色沃土不斷書寫時代華章； 2.韓正會見俄羅斯總統； 3.韓正出席第二十九屆聖彼得堡國際經濟論壇全會並致辭； 4.【在希望的田野上】全國麥收近六成 夏播陸續展開； 5.我國服務貿易持續擴能提質； 6.財政金融“組合拳” 更大力度支援擴內需； 7.我國海上風電加快向深遠海發展； 8.【一線調研】一張網夯實水安全堅實底座； 9.國內聯播快訊： （1）1至4月國開行發放4406億元貸款 加力支援基礎設施建設； （2）國家防總針對重慶貴州啟動防汛四級應急響應； （3）國家林草局釋出10項荒漠化防治標準； （4）“十四五”時期我國眼健康服務體系不斷完善； （5）我國自主研製全整合航空電動發動機下線交付； （6）全球海洋現象智慧預報大模型“琅琊”2.0釋出； 10.美軍襲擊伊朗部分沿海地區 伊朗稱打擊美海軍第五艦隊重要設施； 11.國際聯播快訊： （1）俄烏進行新一輪被俘人員交換； （2）烏克蘭一無人艇在羅馬尼亞黑海港口爆炸； （3）世貿組織稱今年全球貨物貿易保持韌性； （4）歐元區及歐盟一季度經濟均出現萎縮； （5）國際空間站因漏氣維修 宇航員避險。
+
+---
+
+### 2026-06-06 19:45:49  #其他
+
+【塔里木油田綠電發電量突破11億度】截至6月6日，中國石油塔里木油田2026年累計生產綠電突破11億度，達到11.05億度，摺合標煤超過33萬噸，減排二氧化碳86萬噸。目前，塔里木油田已建成尉犁、且末、葉城、伽師、上庫5座集中式光伏電站，總裝機規模達到260萬千瓦，這些光伏電站把塔里木盆地豐富的太陽能轉換為清潔電能。（新華社）
+
+---
+
+### 2026-06-06 19:43:48  #其他
+
+【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局6月6日18時聯合釋出橙色地質災害氣象風險預警：6月6日20時至7日20時，湖北西南部區域性、湖南西部、廣西北部、重慶南部、四川東南部、貴州東部和西南部、西藏東南部、新疆西部發生地質災害的風險較高（黃色預警）；貴州西南部區域性發生地質災害的風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。
 
 ---
 
@@ -21705,144 +21819,5 @@ Japan | Overtime Earnings (YoY) (Apr) | actual 4.2% | previous 1.9%
 ### 2026-06-05 07:16:35  #資料 #市場 #央行 #國際
 
 【廣發證券：權益資產下一步的變化可能來自於哪裡？】廣發證券研報稱，權益資產下一步的變化可能來自於哪裡？我們理解一是“海外地緣和貨幣政策開關”。目前臨近變化視窗，若美伊協議落地、霍爾木茲海峽復航，中下游成本端將迎改善，部分前期被壓制的資產存在反彈機會。此外，美聯儲6月利率決策應不會有太大意外，但其釋放的訊號將較為關鍵，若市場讀出新框架偏“鷹派”，則可能誘發目前估值較高的部分資產調整。二是國內“六張網”政策落地。5月BCI企業投資前瞻指數創年內新高、建築業PMI觸底回升，均指向超長期特別國債與政策性金融工具的影響開始落地，對"六張網"領域的集中支援初步傳導。如果固投在6月能趨於好轉，則包括週期、消費在內的順週期資產可能均會被低位帶動。三是國內“通脹-增長”剪刀差初步見頂，若6-7月確認拐點，則經濟廣譜性順價條件初步具備，抱團雖不至於瓦解但將大機率有所收斂。5月底A股申萬二級行業的輪動速度已邊際回升。簡單總結，在全球較為單邊的5月之後，6月存在一系列“或有線索”一定程度推動再均衡。
-
----
-
-### 2026-06-05 07:13:09  #Trading Economics #Economy #South Korea #Current Account #Importance 1
-
-South Korea Current Account Surplus Narrows in April — South Korea’s current account surplus declined to USD 28.29 billion in April 2026 from a marginally revised USD 37.93 billion in the previous month. The decline was mainly driven by a narrowing of the goods surplus to USD 33.88 billion in April from USD 35.68 billion in March, although exports rose 54.5%, outpacing the 16.1% increase in imports. Additionally, the services account deficit widened to USD 2.42 billion from USD 1.31 billion, while the primary income account swung to a deficit of USD 2.53 billion from a surplus of USD 3.59 billion. Meanwhile, the secondary income deficit widened to USD 0.64 billion from USD 0.03 billion.
-
----
-
-### 2026-06-05 07:12:26  #宏觀 #國際
-
-【古巴國家主席回應美國製裁：短視行徑必遭堅定回擊】當地時間4日，古巴國家主席迪亞斯-卡內爾透過社交媒體對美國總統特朗普當天涉古言論以及美財政部將包括其本人在內的多人以及組織企業列入制裁名單進行回應。迪亞斯-卡內爾指出，美方這些措施旨在進一步強化對古巴的封鎖，並加劇古巴與美國之間的對抗局面。迪亞斯-卡內爾表示，這種政治上的短視做法，與美國近幾周來針對古巴實施的一系列強制性措施一脈相承，其目的都是損害古巴人民的利益。迪亞斯-卡內爾強調，美國政府的侵略性和惡劣行徑，“將遭遇我們迎接最嚴峻局面、抵禦帝國主義衝擊的堅定決心”。
-
----
-
-### 2026-06-05 07:11:25  #公司
-
-【三天3家農商銀行獲批籌建，貴州農村信用社改革縱深推進】6月1日至3日，國家金融監督管理總局貴州監管局網站接連披露同意籌建畢節農商銀行、黔西南農商銀行、六盤水農商銀行的公告，貴州農信系統改革正加速推進。按照一體謀劃、統籌推進、分步實施的原則，貴州農信系統改革分兩步走：一是將省聯社改制組建為貴州農商聯合銀行，二是推動組建市（州）農商銀行，最終形成“1家農商聯合銀行+9家市（州）農商銀行”的新型省市兩級法人架構。（中證報）
-
----
-
-### 2026-06-05 07:10:59  #其他
-
-【廣發證券：持續看好AI發展帶來的產業需求加速】廣發證券研報稱，我們認為本輪AI產業鏈的核心驅動來自模型agentic coding能力的增強，以Claude Code、Codex為代表的程式設計工具正從輔助補全躍遷至自主協作，並由此向上下游傳匯出多層投資機會。向上遊看，Agentic Workload對算力的消耗大幅提升，推動雲廠商IaaS&MaaS業務高增長，減少市場對於雲廠商投入過剩導致AI泡沫等問題的擔憂，對FCF Margin下降的敏感度隨之減弱，關注CSP算力約束緩解與訂單增長節奏。向模型廠商自身看，Agentic任務驅動Token消耗飆升、頭部模型ARR加速提升，短期交易重點在於模型更新、ARR資料、Token價格與算力供應等邊際變化。向下遊應用看，Coding Agent最先驗證PMF，關注“Claude Code for X”式的場景複製與Token經濟性提升帶來的擴充套件空間。我們持續看好AI發展帶來的產業需求加速，建議圍繞自研模型+算力+雲生態的垂直整合進行標的選擇。
-
----
-
-### 2026-06-05 07:09:54  #宏觀 #公司 #市場
-
-【資產劃轉稅務處理口徑存爭議，業內建議出臺可量化細則與指引】上海國投公司日前釋出的2025年審計報告顯示，其提交的居民企業資產（股權）劃轉特殊性稅務處理申報成功，被上海長寧區稅務局退回9.63億元所得稅。而在此之前，山東黃金、柳工集團、浙能集團等公司均因類似劃轉事項被稅務機關認為不符合特殊性稅務處理，最終補繳鉅額企業所得稅及滯納金。一退一補的迥異結果，是否意味著實操口徑存在“溫差”？多位業內人士接受記者採訪時表示，該類劃轉的稅務處理口徑在實操中確實存在爭議，建議出臺可量化的徵管細則與操作指引。（證券時報）
-
----
-
-### 2026-06-05 07:09:12  #市場 #央行 #國際
-
-【利差收窄使澳元兌美元吸引力下降】週五早盤，澳元兌美元報0.7134。澳洲聯邦銀行表示，澳大利亞與美國利差的收窄可能會繼續拖累該匯率。該行指出，市場繼續反映澳大利亞央行今年還會加息一次左右的預期。“我們預計澳大利亞央行不會進一步加息，活動疲軟的跡象可能會蓋過揮之不去的通脹擔憂，“澳洲聯邦銀行策略師Samara Hammoud表示。“相比之下，我們預計美國聯邦公開市場委員會將在12月開始緊縮週期。”
-
----
-
-### 2026-06-05 07:08:44  #公司
-
-【溜溜梅(06658)擬全球發售1146.41萬股 預計6月15日上市】溜溜梅(06658)於2026年6月5日-2026年6月10日招股，擬全球發售1146.41萬股H股，香港公開發售佔約10.0%，國際發售佔約90.0%，另有約15%超額配股權。發售價將為每股發售股份43.58港元。每手100股，預期H股將於2026年6月15日上午九時正在聯交所開始買賣。據悉，該公司是一家專注於青梅產品的果類零食公司。
-
----
-
-### 2026-06-05 07:07:45  #MKT News
-
-【Hamas official holds phone call with Iranian foreign minister on regional developments】Hamas said senior official Khalil al-Hayya spoke by phone on the 4th with Iranian foreign minister Araghchi to discuss the Palestinian issue and recent regional developments.
-
----
-
-### 2026-06-05 07:06:55  #公司
-
-【工業機器人核心零部件“小巨人”今日上市】5日，有一隻新股上市，為北交所的新睿電子（920211.BJ）。該公司是國家級專精特新“小巨人”企業，主營業務為工業機器人控制系統及部件、伺服系統及部件的研發、生產和銷售。
-
----
-
-### 2026-06-05 07:04:47  #其他
-
-【經濟日報金觀平：鍛造實體經濟的堅實底盤】對我國而言，堅守實體經濟更具特殊意義。14億多人口的大國，不能走脫實向虛、泡沫擴張的路子，也走不通依賴外部、空心發展的路子。鍛造實體經濟的堅實底盤不是可選項，而是必答題；不是權宜之計，而是長久之策。發展先進製造業，不是隻抓“高精尖”，而是有重點、有梯次、有接續地在“創造價值”上下功夫。透過推動傳統產業提質升級，鞏固重點產業在全球產業分工中的地位和競爭力；透過發展戰略性新興產業叢集，催生數個萬億元級甚至更大規模市場；透過開闢未來產業新賽道，形成塑造長遠優勢的戰略儲備。讓“老樹發新枝”“新苗成大樹”，才能加快構建以先進製造業為骨幹的現代化產業體系，推動中國製造向中國智造轉變、中國產品向中國品牌躍升。
-
----
-
-### 2026-06-05 07:03:55  #其他
-
-【經濟日報：銀行為何“補貼”微信提現手續費】近日，多家商業銀行宣佈，如果使用者將微信零錢提現至該行簽帳金融卡，可享受手續費抵扣、全額減免等優惠政策。銀行為何“補貼”微信提現手續費？其核心目的是獲取更大規模的活期存款，也就是獲取低成本負債，進而穩定存貸款利差與經營管理。商業銀行屬於金融中介機構，所謂“中介”，即銀行一手從儲戶那裡獲取存款，一手將存款貸給符合條件的借款人，前者形成了銀行的主要負債，後者構成了銀行的主要資產，銀行則透過承擔流動性風險與信用風險、生產信用資訊等功能，賺取一定比例的收入。由此可見，有效的資產負債管理是銀行穩健經營的關鍵，其中，控制負債成本又是重中之重，銀行業也因此有“存款立行”的說法。
-
----
-
-### 2026-06-05 07:02:02  #央行 #國際
-
-韓國央行：韓國4月經常賬戶順差創史上第二高水平。
-
----
-
-### 2026-06-05 07:01:50  #MKT News
-
-Bank of Korea says South Korea's April current account surplus was the second-highest on record.
-
----
-
-### 2026-06-05 07:00:12  #MKT News
-
-South Korea current account balance, not seasonally adjusted (NSA), April: $28.29 bln; March: $37.33 bln.
-
----
-
-### 2026-06-05 07:00:10  #國際
-
-韓國4月未季調經常帳 282.9億美元，前值373.271億美元。
-
----
-
-### 2026-06-05 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Current Account NSA (Apr) | actual 28289999999.999996B | previous 37327100000B
-
----
-
-### 2026-06-05 06:59:23  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading around 13,103 in Friday morning trade, after retreating in the previous two sessions and recovering from its lowest level since May 26, as gains in consumer staples and financials were offset by declines in industrials and communication services. Traders continued to assess the possibility that New Zealand could face a new 12.5% tariff from the US after the US Trade Representative said that 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Traders also awaited the release of US jobs data later today, as well as US inflation data and China's inflation and trade balance figures due next week. Among individual stocks, Freightways Group fell 2.2%, Ryman Healthcare dropped 2.1%, and Westpac Banking Corp. shed 0.6%, while A2 Milk and Ebos Group rose 1.2% and 0.9%, respectively. For the week, the index fell 1.1%, marking its first decline in three weeks.
-
----
-
-### 2026-06-05 06:59:15  #其他
-
-馬斯克：如果讓火星熱鬧起來，可以讓它像地球一樣。
-
----
-
-### 2026-06-05 06:58:15  #其他
-
-馬斯克：對星艦V3的負荷目標是，將100噸貨物輸送至軌道，完全可重複利用。
-
----
-
-### 2026-06-05 06:57:17  #公司 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 時間待定 黃仁勳將會見韓國LG集團的會長；
-② 12:30 印度央行公佈利率決定；
-③ 12:35 澳洲聯儲助理主席Hauser在天空新聞澳大利亞經濟前景峰會期間參加一個爐邊閒聊；
-④ 17:00 歐元區一季度GDP終值；
-⑤ 18:30 印度一季度GDP；
-⑥ 20:30 美國5月非農就業報告（含就業人口、失業率、平均每小時工資），加拿大5月就業報告；
-⑦ 21:40 英國央行貨幣政策委員會（MPC）成員Dhingra講話；
-⑧ 次日02:00 英國央行行長貝利講話；
-⑨ 次日03:00 美國4月消費信貸；
-⑩ 週六 美聯儲進入FOMC貨幣政策會議之前的噤聲期；
-⑪ 週日00:00 美聯儲理事Barr（曾擔任負責金融監管事務的副主席）談論監督與監管；
-⑫ 週日時間待定 中國5月外匯儲備；
-⑬ 週日時間待定 OPEC+產油國會議。
-
----
-
-### 2026-06-05 06:56:27  #公司 #觀點
-
-【華爾街預計：SpaceX旗下AI業務收入到2030年將飆升100倍】研究分析師預計，到本年代末（2030年底），SpaceX的人工智慧（AI）部門收入將增長100倍，從而為其高達1.8萬億美元的目標估值提供合理支撐。投行Evercore ISI的研究分析師預計，SpaceX的AI部門銷售額到2031年將達到7550億美元，而去年這一數字僅為32億美元。高盛團隊預計，該公司的自由現金流在2029年達到-1050億美元的低谷後，到2031年將轉正並超過720億美元。
 
 ---
