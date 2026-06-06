@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 18:10:38",
+  "updated": "2026-06-06 18:14:32",
   "count": 18810,
   "items": [
+    {
+      "id": "mkt:019e9c6a-5a66-7665-8312-1d873435f3d8",
+      "time": "2026-06-06 18:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Defence Force General Command said deliberate use of missiles and drones targeting civilians and private property is a serious violation of international humanitarian law."
+    },
     {
       "id": "mkt:019e9c68-b3fe-7665-8312-13c0b5d08f57",
       "time": "2026-06-06 18:09:27",
@@ -173586,14 +173594,6 @@
         "公司"
       ],
       "text": "【飛行時代首款增程全傾轉eVTOL產品獲34架意向訂單】5月29日，飛行時代自主研發的首款2.5噸級增程全傾轉eVTOL產品F2500，在2026世界智慧產業博覽會上完成全球首發。首發儀式現場，飛行時代與沙特Saudi Arabia Elephant Innovation Digital Economy Industry Group Co., Ltd.、瀟湘之翼、青島信暢空間簽署意向採購訂單34架。同時，公司與天津港保稅區、中國民航大學、北航天目山實驗室、陝直集團等簽訂戰略合作協議。"
-    },
-    {
-      "id": "4908225",
-      "time": "2026-05-30 18:11:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝恩資本最早可能在本週完成對Vitabiotics的收購，對該公司的估值為9億英鎊。"
     }
   ]
 }
