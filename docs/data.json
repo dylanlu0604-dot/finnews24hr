@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-06 10:38:38",
-  "count": 18776,
+  "updated": "2026-06-06 10:42:34",
+  "count": 18777,
   "items": [
+    {
+      "id": "4920927",
+      "time": "2026-06-06 10:41:40",
+      "tags": [
+        "宏觀",
+        "其他"
+      ],
+      "text": "【產品碳足跡核查機構認可制度釋出實施】記者今天瞭解到，經市場監管總局（國家認監委）批准，中國合格評定國家認可委員會（CNAS）近日釋出實施產品碳足跡核查機構認可制度。該制度對產品碳足跡核查機構的基本資格、人員能力、核查活動規範性以及獲得認可的程式作出規定。該制度實施後，將進一步規範產品碳足跡核查機構行為，提升產品碳足跡資料質量，助力健全我國產品碳足跡管理制度。（央視新聞）"
+    },
+    {
+      "id": "4920925",
+      "time": "2026-06-06 10:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【算得更快更準 全球海洋現象智慧預報大模型“琅琊”2.0釋出】今天（6月6日），由中國科學院海洋研究所自主研發的全球海洋現象智慧預報大模型——“琅琊”2.0釋出。該海洋預報大模型將為海洋防災減災、航運安全保障等提供智慧化科技支撐。全球海洋預報過去依賴數值模式，透過將海洋運動過程轉化為數值方程，並進行大規模計算得出結果。這種模式相對來說精度低，計算成本大，更新頻率低。智慧預報大模型主要解決兩個問題，一個是算得更快，一個是算得更準。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9acb-d778-7665-830f-5e0f5f931b6c",
+      "time": "2026-06-06 10:38:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "XPEV.O",
+        "Impact bearish"
+      ],
+      "text": "【Xpeng senior robot product director said to have left; insider says progress 'smooth'】June 5 — Market reports say Xpeng senior director of robot product planning Shi Xiaoxin formally left in early June. Shi, who served 1,675 days, led the build-out of Xpeng’s humanoid product system and oversaw Pengxing Intelligent’s integration, team transfer into Xpeng Group and the Iron humanoid robot’s move from prototype to mass-production preparation. The departure has raised market concern over Iron’s mass-production timeline. An Xpeng insider said, “not sure (Shi) about the situation, our progress is going smoothly.”"
+    },
     {
       "id": "mkt:019e9aca-461e-7665-830f-51779ecf32d4",
       "time": "2026-06-06 10:36:47",
@@ -173200,23 +173229,6 @@
         "國際"
       ],
       "text": "【盧拉：巴西將自行打擊有組織犯罪 拒絕外國干預】巴西總統盧拉當地時間29日表示，他對美國宣佈將巴西兩大犯罪團伙列為“外國恐怖組織”，並稱可以進行干預感到非常失望。盧拉表示，對巴西社會而言這些犯罪團伙是恐怖分子，但巴西會自行打擊有組織犯罪，無需美國干預，巴西不接受被當成“孩子”對待。當天巴西總統府釋出宣告強調，國家主權不容談判，巴西內政拒絕任何形式的外部干涉。（央視新聞）"
-    },
-    {
-      "id": "4908045",
-      "time": "2026-05-30 10:41:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲大米價格5月飆升20%，戰爭與天氣威脅產量】亞洲大米價格在5月份創下近二十年來最大單月漲幅。由於天氣風險以及戰爭導致的能源和化肥成本飆升威脅到產量，未來價格可能進一步上漲。作為亞洲基準的泰國白米價格在5月份上漲了20%，這是自2008年有資料以來的最大月度漲幅。芝加哥期貨交易所的大米期貨價格本月也上漲了15%。惠譽解決方案旗下機構BMI的大宗商品分析師王彬鴻表示，價格將繼續走高。預計厄爾尼諾現象可能給亞洲部分地區帶來更炎熱、更乾燥的天氣，將進一步推高大米價格。"
-    },
-    {
-      "id": "mkt:019e76c1-a1ce-7bb7-9967-a33273627908",
-      "time": "2026-05-30 10:41:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Asian rice prices jump 20% in May; war-driven input costs and El Nifio risk further upside】Asian rice prices surged in May, with Thailand white rice—the regional benchmark—up 20%, the largest monthly rise since 2008. Chicago Board of Trade rice futures gained about 15% this month. Drivers cited include weather risk and war-driven spikes in energy and fertilizer costs that threaten output and could push prices higher. Wang Binhong, commodity analyst at BMI (Fitch Solutions), said prices will continue to rise. Forecasts for El Nifio to bring hotter, drier conditions in parts of Asia would add further upward pressure."
     }
   ]
 }
