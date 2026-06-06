@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-07 04:15:47",
-  "count": 18816,
+  "updated": "2026-06-07 04:19:37",
+  "count": 18819,
   "items": [
+    {
+      "id": "mkt:019e9e95-ae2f-7665-8314-a68dbfd59e8e",
+      "time": "2026-06-07 04:17:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【ECB set to raise rates 25bp next week, leading G7 response to Iran-war inflation】With the Iran war fuelling global inflation, the ECB is expected to raise policy rates by 25bp next week, making it the first major G7 central bank to tighten. Markets price at least one further hike this year. By contrast, the BOC may hold, and the Fed and BoE are seen likely to remain on hold this month as they assess the conflict’s impact. ECB officials say the move aims to prevent inflation becoming entrenched, but further tightening will weigh on an already-weak euro-area economy. ECB President Lagarde may signal next steps at the post-decision press conference. The ECB will publish quarterly economic projections that model alternative energy-shock scenarios."
+    },
+    {
+      "id": "4921439",
+      "time": "2026-06-07 04:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯譴責以色列持續對黎巴嫩發動襲擊。"
+    },
+    {
+      "id": "4921438",
+      "time": "2026-06-07 04:17:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷藍航空執行長在里約舉行的國際航空運輸協會年會上表態，對於行業整合一事，一切皆有可能。"
+    },
     {
       "id": "4921437",
       "time": "2026-06-07 04:14:12",
