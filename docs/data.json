@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-07 02:42:28",
-  "count": 18799,
+  "updated": "2026-06-07 02:46:17",
+  "count": 18804,
   "items": [
+    {
+      "id": "mkt:019e9e40-fdf9-7665-8314-3e74168594f2",
+      "time": "2026-06-07 02:45:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India will raise the retail price of 14.2 kg domestic LPG cylinders by 29 rupees per cylinder, the Economic Times cited the Press Trust of India."
+    },
+    {
+      "id": "4921404",
+      "time": "2026-06-07 02:45:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核問題負責人：布什爾核電站連續第三年躋身全球效率與安全綜合排名前十，其收益已達到建設成本的五倍。"
+    },
+    {
+      "id": "mkt:019e9e40-8e6e-7665-8314-36261f8a5cbc",
+      "time": "2026-06-07 02:44:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Israel's Channel 12 reports Israeli military fatalities since the ceasefire with Lebanon have risen to 16."
+    },
+    {
+      "id": "4921403",
+      "time": "2026-06-07 02:44:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國內烹飪用氣液化石油氣（LPG）價格上調，每罐14.2千克裝氣瓶漲價29盧比。"
+    },
+    {
+      "id": "mkt:019e9e40-076b-7665-8314-28b2172b3e56",
+      "time": "2026-06-07 02:44:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency said Iran's interior minister received a letter from Pakistan's army chief Asim Munir addressed to Iran's Supreme Leader."
+    },
+    {
+      "id": "4921402",
+      "time": "2026-06-07 02:43:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。"
+    },
     {
       "id": "mkt:019e9e2d-da6e-7665-8314-24bdaefcea5f",
       "time": "2026-06-07 02:24:25",
@@ -173499,18 +173553,6 @@
         "國際"
       ],
       "text": "【軟銀承諾斥資750億歐元在法國建設人工智慧設施】軟銀承諾最高投入750億歐元，在法國打造大型人工智慧計算叢集網路，該專案將成為歐洲規模最大的資料中心工程。這也是軟銀在美國以外完成的單筆最大規模人工智慧投資。知情人士稱，今年4月初法國總統馬克龍與孫正義在東京共進晚餐後，雙方迅速敲定了此項合作。軟銀首期將牽頭投入450億歐元，計劃到2031年在上法蘭西大區建成3.1吉瓦的算力規模，後續還規劃新增2吉瓦算力。專案核心設施之一落地敦刻爾克，軟銀將與施耐德電氣攜手，在此打造人工智慧基礎設施與機器人制造中心。該區位地理位置優越，可輻射倫敦、布魯塞爾、阿姆斯特丹等地的客戶。整個專案規劃總算力達5吉瓦，若全部落成，軟銀的總投資額將達到約750億歐元。"
-    },
-    {
-      "id": "mkt:019e7a32-1c37-7bb7-996b-12cb4152d752",
-      "time": "2026-05-31 02:42:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state television said Iran has obtained an informal text of a memorandum of understanding with the United States. The text says it would give Iran the right to determine the nature of vessels in the Strait of Hormuz and to set transit routes and fees."
     }
   ]
 }
