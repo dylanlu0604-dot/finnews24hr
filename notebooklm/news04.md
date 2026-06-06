@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:34:05_
-_本檔包含 3647 則快訊，約 702949 字_
+_更新時間：2026-06-07 06:00:42_
+_本檔包含 3651 則快訊，約 702371 字_
+
+---
+
+### 2026-06-02 23:11:31  #市場 #國際
+
+美國股市接近盤中高點，道瓊斯指數最新上漲0.3%。
+
+---
+
+### 2026-06-02 23:11:13  #國際
+
+美國國務卿魯比奧：從伊朗得到回覆可能需要長達6天的時間。
+
+---
+
+### 2026-06-02 23:11:07  #MKT News #Important #WTI #Impact bullish #Brent
+
+U.S. Secretary of State Rubio said a response from Iran could take up to six days.
+
+---
+
+### 2026-06-02 23:10:56  #國際
+
+美國國務卿魯比奧：四分五裂的伊朗政權正面臨溝通問題。
+
+---
+
+### 2026-06-02 23:10:52  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+U.S. Secretary of State Rubio said the fractured Iranian regime is facing communication problems.
+
+---
+
+### 2026-06-02 23:10:39  #MKT News
+
+Sources: Ivory Coast cocoa regulator raised the export premium from £0/tonne to £125/tonne. The regulator has sold about 1.0 mln tonnes of export contracts for the 2026-27 main crop season.
+
+---
+
+### 2026-06-02 23:10:18  #其他
+
+訊息人士稱，象牙海岸可可監管機構因厄爾尼諾擔憂限制2026/27銷售季銷量。
+
+---
+
+### 2026-06-02 23:10:15  #MKT News
+
+Sources say Ivory Coast's cocoa regulator is capping sales for the 2026/27 season, citing El Nifio-related crop risk.
+
+---
+
+### 2026-06-02 23:10:03  #其他
+
+瑞典正在考慮禁止15歲以下的人群使用社交媒體。
+
+---
+
+### 2026-06-02 23:09:32  #其他
+
+【有關垃圾焚燒，杜祥琬院士釋出闢謠宣告】6月2日，中國工程院官方網站釋出杜祥琬院士的正式宣告，針對近期網路流傳的“杜祥琬院士及其團隊將核技術應用於垃圾焚燒並取得顯著效果”相關不實宣傳內容，進行公開闢謠。杜祥琬表示，近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了“無廢城市”試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。他表示，現提醒各媒體及網路平臺嚴格稽核釋出內容，本人將保留追究相關單位和個人法律責任的權利。
 
 ---
 
@@ -21943,41 +22003,5 @@ Bristol-Myers Squibb Stock Price Hits 17-week Low — Bristol-Myers Squibb share
 ### 2026-06-01 21:40:54  #公司
 
 【雙元科技：股東元程式資產增持股份至5%】雙元科技公告稱，2026年6月1日，股東元程式資產透過集中競價交易增持公司股份425,223股，增持比例0.72%，持股比例由4.28%增至5%。本次權益變動不觸及要約收購，不會導致公司控股股東及實際控制人發生變化，也不會對公司治理結構及持續經營產生影響。資訊披露義務人已編制《簡式權益變動報告書》。
-
----
-
-### 2026-06-01 21:40:44  #市場 #焦點
-
-甲醇連續主力合約日內漲4%，現報2938.00元。
-
----
-
-### 2026-06-01 21:40:15  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.27% Lower — The Dow Jones Index is falling 137 points. Losses were driven by Amazon (-2.88%), Boeing (-2.56%) and P&G (-2.27%). Biggest rises came from Salesforce (6.81%), IBM (6.04%) and Nvidia (4.44%).
-
----
-
-### 2026-06-01 21:40:05  #Trading Economics #Markets #United States #stocks #Importance 1
-
-P&G Stock Price Hits 20-week Low — P&G shares decreased to 140.08 USD, the lowest since January 2026. Over the past 4 weeks, Procter & Gamble lost 4.62%, and in the last 12 months, it decreased 17.42%.
-
----
-
-### 2026-06-01 21:40:01  #市場 #焦點
-
-瀝青連續主力合約日內漲4%，現報4407.00元。
-
----
-
-### 2026-06-01 21:39:24  #其他
-
-【沈南鵬向上海交大捐資3億元】據上海交通大學官微6月1日訊息，值上海交通大學建校130週年之際，1985級首屆教改試點班傑出校友、紅杉中國創始及執行合夥人沈南鵬捐資3億元，設立“紅杉書院建設基金”。上海交通大學將依託致遠學院打造拔尖人才培養的新平臺——紅杉書院，聘請沈南鵬擔任名譽院長，丁奎嶺校長兼任首任院長。
-
----
-
-### 2026-06-01 21:39:04  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls as US-Iran Tensions Lift Oil Prices — The Ibovespa fell more than 0.5% to trade below 173,000 on Monday as renewed attacks in the Persian Gulf challenged optimism over the reopening of the Strait of Hormuz. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with Santander losing 1% and Bradesco down about 0.5%. Meanwhile, the S&P Global Brazil Manufacturing PMI fell to 49.1 in May from 52.6 in April, signaling a renewed contraction in factory activity and weighing on industrial names such as WEG, which shed nearly 1%. Vale also pressured the index, falling around 1.5% as iron ore prices declined. In contrast, Petrobras gained more than 1%, supported by higher oil prices.
 
 ---

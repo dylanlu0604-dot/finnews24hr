@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:34:05_
-_本檔包含 3546 則快訊，約 701403 字_
+_更新時間：2026-06-07 06:00:42_
+_本檔包含 3548 則快訊，約 702126 字_
+
+---
+
+### 2026-06-01 21:40:44  #市場 #焦點
+
+甲醇連續主力合約日內漲4%，現報2938.00元。
+
+---
+
+### 2026-06-01 21:40:15  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.27% Lower — The Dow Jones Index is falling 137 points. Losses were driven by Amazon (-2.88%), Boeing (-2.56%) and P&G (-2.27%). Biggest rises came from Salesforce (6.81%), IBM (6.04%) and Nvidia (4.44%).
+
+---
+
+### 2026-06-01 21:40:05  #Trading Economics #Markets #United States #stocks #Importance 1
+
+P&G Stock Price Hits 20-week Low — P&G shares decreased to 140.08 USD, the lowest since January 2026. Over the past 4 weeks, Procter & Gamble lost 4.62%, and in the last 12 months, it decreased 17.42%.
+
+---
+
+### 2026-06-01 21:40:01  #市場 #焦點
+
+瀝青連續主力合約日內漲4%，現報4407.00元。
+
+---
+
+### 2026-06-01 21:39:24  #其他
+
+【沈南鵬向上海交大捐資3億元】據上海交通大學官微6月1日訊息，值上海交通大學建校130週年之際，1985級首屆教改試點班傑出校友、紅杉中國創始及執行合夥人沈南鵬捐資3億元，設立“紅杉書院建設基金”。上海交通大學將依託致遠學院打造拔尖人才培養的新平臺——紅杉書院，聘請沈南鵬擔任名譽院長，丁奎嶺校長兼任首任院長。
+
+---
+
+### 2026-06-01 21:39:04  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls as US-Iran Tensions Lift Oil Prices — The Ibovespa fell more than 0.5% to trade below 173,000 on Monday as renewed attacks in the Persian Gulf challenged optimism over the reopening of the Strait of Hormuz. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with Santander losing 1% and Bradesco down about 0.5%. Meanwhile, the S&P Global Brazil Manufacturing PMI fell to 49.1 in May from 52.6 in April, signaling a renewed contraction in factory activity and weighing on industrial names such as WEG, which shed nearly 1%. Vale also pressured the index, falling around 1.5% as iron ore prices declined. In contrast, Petrobras gained more than 1%, supported by higher oil prices.
 
 ---
 
@@ -21386,29 +21422,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 ### 2026-05-31 06:02:34  #國際
 
 【中方代表在“香會”發表講話：為維護全球戰略穩定注入正能量】5月30日，中國人民解放軍專家學者代表團團長、國防大學教授孟祥青出席第23屆香格里拉對話會第一場平行分組會議，並發表以“為維護全球戰略穩定注入正能量”為主題的講話。孟祥青表示，當前全球戰略穩定面臨多重挑戰，中國提出全球安全倡議和全球治理倡議，倡導共同、綜合、合作、可持續的安全觀，主張堅持多邊主義和國際法治，推動構建更加公正合理的全球安全治理體系。在談到如何維護戰後國際秩序時，孟祥青強調，必須警惕日本軍國主義思潮藉機復活。（央視新聞）
-
----
-
-### 2026-05-31 06:00:00  #國際
-
-【美國東北部多地傳出巨響】當地時間5月30日下午2點多，美國新英格蘭地區（包括緬因州、佛蒙特州、新罕布什爾州、馬薩諸塞州、羅得島州和康涅狄格州6個州）多地居民報告聽到“不明原因巨響”。據美國媒體援引美國流星協會方面訊息報道稱，這一巨響是一顆流星進入大氣層所致。據稱，這顆流星的進入點位於波士頓以北、新罕布什爾州與馬薩諸塞州交界處。美國流星協會“火流星監測計劃”負責人表示，該機構收到了數十份報告，目擊者中有的稱“聽到巨響”，有的“感覺到地面震動、房屋晃動”，還有人“看到了火球”。該負責人表示，這顆流星“不太可能撞擊到地面”，“即便沒有在空中燃盡，也應已掉進海里。” （CCTV國際時訊）
-
----
-
-### 2026-05-31 05:51:08  #國際
-
-【巴貝多首都南部海域發生5.7級地震】據歐洲-地中海地震中心報告，當地時間5月30日17時27分，加勒比海島國巴貝多首都布里奇敦以南約125公里海域發生5.7級地震。目前暫無人員傷亡及財產損失報告。（央視新聞）
-
----
-
-### 2026-05-31 05:43:10  #MKT News
-
-【Colombia to lift trade countermeasures against Ecuador】On May 30, Colombia's foreign ministry said it will cancel trade countermeasures against Ecuador after Quito announced it would stop imposing a "security tax" on Colombian goods, and will push to restore normal bilateral trade relations.
-
----
-
-### 2026-05-31 05:35:00  #公司 #市場 #國際
-
-預測平臺Kalshi公司起訴明尼蘇達州，試圖推翻該州針對預測市場的重罪禁令，稱其與美國商品期貨交易委員會的管轄許可權相沖突。
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:34:05_
-_本檔包含 4011 則快訊，約 701920 字_
+_更新時間：2026-06-07 06:00:42_
+_本檔包含 4004 則快訊，約 702254 字_
+
+---
+
+### 2026-06-04 01:16:11  #其他
+
+幣安：已加入巴西加密經濟協會 ABCRIPTO，並將出任該協會理事會成員。
+
+---
+
+### 2026-06-04 01:15:56  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
+
+Iranian outlet Fars News, citing a member of Tehran’s negotiation team, said the first phase of talks in Islamabad failed because Iran refused to enter nuclear negotiations.
+
+---
+
+### 2026-06-04 01:14:42  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Ease Further — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and the Dow lost more than 0.5%. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, AI infrastructure stocks were resilient. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade. Broadcom was slightly higher ahead of its earnings after the bell.
 
 ---
 
@@ -24105,65 +24123,5 @@ The OCC, the Federal Reserve and the FDIC have removed references to 'reputation
 ### 2026-06-02 23:11:59  #公司 #市場
 
 芝加哥期權交易所全球市場公司股價下跌9%，芝加哥商業交易所集團股價下跌4.7%，觸及一年多低點，洲際交易所股價下跌3.9%，逼近兩年低點。
-
----
-
-### 2026-06-02 23:11:31  #市場 #國際
-
-美國股市接近盤中高點，道瓊斯指數最新上漲0.3%。
-
----
-
-### 2026-06-02 23:11:13  #國際
-
-美國國務卿魯比奧：從伊朗得到回覆可能需要長達6天的時間。
-
----
-
-### 2026-06-02 23:11:07  #MKT News #Important #WTI #Impact bullish #Brent
-
-U.S. Secretary of State Rubio said a response from Iran could take up to six days.
-
----
-
-### 2026-06-02 23:10:56  #國際
-
-美國國務卿魯比奧：四分五裂的伊朗政權正面臨溝通問題。
-
----
-
-### 2026-06-02 23:10:52  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-U.S. Secretary of State Rubio said the fractured Iranian regime is facing communication problems.
-
----
-
-### 2026-06-02 23:10:39  #MKT News
-
-Sources: Ivory Coast cocoa regulator raised the export premium from £0/tonne to £125/tonne. The regulator has sold about 1.0 mln tonnes of export contracts for the 2026-27 main crop season.
-
----
-
-### 2026-06-02 23:10:18  #其他
-
-訊息人士稱，象牙海岸可可監管機構因厄爾尼諾擔憂限制2026/27銷售季銷量。
-
----
-
-### 2026-06-02 23:10:15  #MKT News
-
-Sources say Ivory Coast's cocoa regulator is capping sales for the 2026/27 season, citing El Nifio-related crop risk.
-
----
-
-### 2026-06-02 23:10:03  #其他
-
-瑞典正在考慮禁止15歲以下的人群使用社交媒體。
-
----
-
-### 2026-06-02 23:09:32  #其他
-
-【有關垃圾焚燒，杜祥琬院士釋出闢謠宣告】6月2日，中國工程院官方網站釋出杜祥琬院士的正式宣告，針對近期網路流傳的“杜祥琬院士及其團隊將核技術應用於垃圾焚燒並取得顯著效果”相關不實宣傳內容，進行公開闢謠。杜祥琬表示，近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了“無廢城市”試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。他表示，現提醒各媒體及網路平臺嚴格稽核釋出內容，本人將保留追究相關單位和個人法律責任的權利。
 
 ---

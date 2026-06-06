@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:34:05_
-_本檔包含 3935 則快訊，約 701631 字_
+_更新時間：2026-06-07 06:00:42_
+_本檔包含 3936 則快訊，約 702008 字_
+
+---
+
+### 2026-06-05 08:56:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【U.S. House passes Ukraine aid and Russia sanctions bill contrary to Trump policy】The U.S. House on Thursday passed a bipartisan bill providing new aid to Ukraine and imposing sanctions on Russia, contrary to Trump administration policy. The measure passed 226-195; 18 Republicans voted in favor and all but one Democrat supported it. The bill moves to the Senate, where Republican opposition makes passage more difficult. Even if approved by the Senate, it would require Trump’s signature to become law.
+
+---
+
+### 2026-06-05 08:55:41  #MKT News #Important #Market Regions #Emerging Markets #DXY #Impact bullish
+
+South Korean won fell to its weakest since March 2009, trading at 1,541.4 per U.S. dollar.
+
+---
+
+### 2026-06-05 08:55:20  #市場 #焦點
+
+韓元兌美元跌至2009年3月來新低，報1541.4。
+
+---
+
+### 2026-06-05 08:55:06  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, silver remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
 
 ---
 
@@ -23708,23 +23732,5 @@ US stocks extended declines: S&P 500 fell 0.7%, Nasdaq down 1.1%, Dow Jones down
 ### 2026-06-04 01:16:21  #MKT News
 
 Iranian outlet Fars News Agency, citing a member of Tehran’s negotiating team, said Iran will not sign any agreement that ignores Lebanon.
-
----
-
-### 2026-06-04 01:16:11  #其他
-
-幣安：已加入巴西加密經濟協會 ABCRIPTO，並將出任該協會理事會成員。
-
----
-
-### 2026-06-04 01:15:56  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
-
-Iranian outlet Fars News, citing a member of Tehran’s negotiation team, said the first phase of talks in Islamabad failed because Iran refused to enter nuclear negotiations.
-
----
-
-### 2026-06-04 01:14:42  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Ease Further — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and the Dow lost more than 0.5%. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, AI infrastructure stocks were resilient. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade. Broadcom was slightly higher ahead of its earnings after the bell.
 
 ---

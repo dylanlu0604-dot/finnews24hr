@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 05:34:05_
-_本檔包含 3696 則快訊，約 703081 字_
+_更新時間：2026-06-07 06:00:42_
+_本檔包含 3711 則快訊，約 702532 字_
+
+---
+
+### 2026-06-07 05:58:16  #其他
+
+中央氣象臺6月7日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-06-07 05:54:34  #公司
+
+法國電信巨頭奧蘭治集團簽署收購法國第二大移動運營商SFR的諒解備忘錄。
+
+---
+
+### 2026-06-07 05:51:32  #國際
+
+以色列國防軍表示，約旦河西岸發生一起疑似駕車衝撞襲擊事件，一名以色列人受輕傷，襲擊嫌疑人及多名同夥已被逮捕。
+
+---
+
+### 2026-06-07 05:47:24  #MKT News
+
+Alaska Airlines CFO says the carrier expects to operate Airbus aircraft over the long term.
+
+---
+
+### 2026-06-07 05:46:56  #MKT News #ALK.O #Impact bearish
+
+Alaska Airlines CFO said West Coast refining margins are a more troublesome issue than crude oil prices.
+
+---
+
+### 2026-06-07 05:46:44  #MKT News #ALK.O
+
+Alaska Airlines CFO said the company needs fuel prices to be more stable before it can resume issuing earnings guidance.
+
+---
+
+### 2026-06-07 05:46:32  #MKT News #ALK.O #Impact bullish
+
+Alaska Airlines CFO said corporate bookings over the next 90 days are up 20-30% YoY.
+
+---
+
+### 2026-06-07 05:46:21  #MKT News #ALK.O
+
+Alaska Air Group CFO said the company is likely to resume issuing earnings guidance on its Q2 earnings call.
+
+---
+
+### 2026-06-07 05:46:16  #焦點 #國際
+
+阿拉斯加航空首席財務官表示，與美國航空的合作關係可能會逐步調整，拒絕對合作形式作出猜測。
+
+---
+
+### 2026-06-07 05:46:08  #公司
+
+阿拉斯加航空首席財務官表示，該公司預計今年夏季的客運量將超過其史上任何一個夏季。
+
+---
+
+### 2026-06-07 05:46:03  #其他
+
+阿拉斯加航空首席財務官表示，西海岸煉油利潤率是比原油價格更大的問題。
+
+---
+
+### 2026-06-07 05:45:59  #公司
+
+阿拉斯加航空首席財務官表示，該公司預計將長期作為空客運營商運營。
+
+---
+
+### 2026-06-07 05:45:56  #其他
+
+阿拉斯加航空首席財務官表示，未來90天的企業商旅預訂量同比將上升20%至30%。
+
+---
+
+### 2026-06-07 05:45:51  #市場
+
+阿拉斯加航空首席財務官表示，第二季度更高票價將抵消大部分燃油價格上漲帶來的衝擊。
+
+---
+
+### 2026-06-07 05:45:48  #其他
+
+阿拉斯加航空首席財務官表示，下半年經營現金消耗可能為零，或略有淨流入。
+
+---
+
+### 2026-06-07 05:45:44  #公司
+
+阿拉斯加航空首席財務官表示，希望公司能在第二季度財報電話會議上恢復釋出業績指引。
+
+---
+
+### 2026-06-07 05:45:40  #其他
+
+阿拉斯加航空首席財務官表示，在重啟業績指引之前，燃油價格需要實現更大程度的穩定。
+
+---
+
+### 2026-06-07 05:40:39  #國際
+
+OpenAI等機構提議美國參與人工智慧相關股權分配，該人工智慧方案擬設立一支新型主權財富類基金。
+
+---
+
+### 2026-06-07 05:38:29  #國際
+
+市場資訊：受貿易緊張局勢影響，加拿大總理卡尼調整國防採購方向、轉向歐洲市場，並積極拓展非美國市場。
 
 ---
 
@@ -22299,29 +22413,5 @@ At the open, China's most-active futures contracts were mostly lower. SHFE tin, 
 ### 2026-06-05 08:57:09  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australia Stocks Set to Post First Weekly Drop in 3 Weeks — Australian shares fell 38 points or 0.4% to 8,648 in early Friday trade, extending weakness from the prior session as U.S. equity futures softened after a sharp sell-off in Wall Street tech stocks overnight. Little progress in U.S.-Iran peace talks also weighed on investor sentiment. The local market is on track for its first weekly decline in three weeks, down about 1% so far, with caution building ahead of the Reserve Bank’s policy decision later this month. Meanwhile, recent data showed inflation remained elevated at 4.2% in April, above the 2–3% target, while Q1 GDP growth slowed markedly. Still, losses were offset by April trade data indicating a return to a surplus in Australia, lifted by an export recovery and weaker imports. Non-energy minerals, energy minerals, and consumer non-durables led sectoral weakness. Notable laggards included BHP Group (-2.3%), PLS Group (-3.0%), South32 Ltd. (-2.7%), and Evolution Mining (-2.0%). The four big banks also slipped between 0.5% and 0.9%.
-
----
-
-### 2026-06-05 08:56:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【U.S. House passes Ukraine aid and Russia sanctions bill contrary to Trump policy】The U.S. House on Thursday passed a bipartisan bill providing new aid to Ukraine and imposing sanctions on Russia, contrary to Trump administration policy. The measure passed 226-195; 18 Republicans voted in favor and all but one Democrat supported it. The bill moves to the Senate, where Republican opposition makes passage more difficult. Even if approved by the Senate, it would require Trump’s signature to become law.
-
----
-
-### 2026-06-05 08:55:41  #MKT News #Important #Market Regions #Emerging Markets #DXY #Impact bullish
-
-South Korean won fell to its weakest since March 2009, trading at 1,541.4 per U.S. dollar.
-
----
-
-### 2026-06-05 08:55:20  #市場 #焦點
-
-韓元兌美元跌至2009年3月來新低，報1541.4。
-
----
-
-### 2026-06-05 08:55:06  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, silver remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
 
 ---
