@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-06 18:49:36",
-  "count": 18798,
+  "updated": "2026-06-06 18:53:28",
+  "count": 18796,
   "items": [
+    {
+      "id": "4921248",
+      "time": "2026-06-06 18:51:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國海上封鎖已使伊朗損失近60億美元石油收入】 最新航運資料顯示，由於美國海軍對伊朗港口的持續封鎖，伊朗5月的原油出口已跌至6年來的最低水平。根據貿易資料分析公司Kpler的資料，伊朗5月的原油和凝析油出口量已降至不足平均每日30萬桶，這是自2019年末至2020年初以來的最低水平。在美國實施海上封鎖前，這一數字一度接近平均每日200萬桶。資料顯示，伊朗原油售價通常高於每桶90美元，偶爾超過每桶100美元。以每桶90美元的保守價格估算，伊朗5月的原油日均出口收入約為2700萬美元，5月的總收入約為8.37億美元。這一數字較此前2個月的水平大幅下降。3月，伊朗原油出口量為平均每日184萬桶，日均出口收入估計為1.656億美元，3月總計約51.3億美元。4月，伊朗原油出口量為平均134萬桶/日，日均收入約1.206億美元，當月收入約36.2億美元。半島電視臺指出，若伊朗預期每月原油出口收入能達到3月份的收入水平，那麼該國在4月和5月已經損失了約58億美元。（澎湃新聞）"
+    },
     {
       "id": "mkt:019e9c8a-9a07-7665-8312-459a66ca8d71",
       "time": "2026-06-06 18:46:29",
@@ -173470,33 +173479,6 @@
         "國際"
       ],
       "text": "【伊朗議員稱即將批准“對霍爾木茲海峽管理和主權”的法案】伊朗議員阿里雷扎·薩利米表示，伊朗議會即將批准一項法案，正式確立伊朗伊斯蘭共和國對霍爾木茲海峽的管理和主權。他告訴伊朗學生通訊社（ISNA），這項關於“行使伊朗伊斯蘭共和國對霍爾木茲海峽的管理和主權”的法案即將獲得透過並生效。他表示，整個霍爾木茲海峽位於伊朗和阿曼的領海內，只有這兩個國家才能決定如何管理該海峽。"
-    },
-    {
-      "id": "4908247",
-      "time": "2026-05-30 18:52:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州南站：因貴廣客專裝置故障影響臨時停運列車免費退改簽】5月30日，據@廣州南車站 訊息，受貴廣客專鐘山西至恭城間供電裝置故障影響，今天（5月30日）由廣州南站開往大理的G2976次、開往巫山的G2250次、開往桂林北的G3746次旅客列車臨時停運。鐵路部門提示，已購買今天相關停運列車車票的旅客，可透過鐵路12306（含手機客戶端）、自助售取票機、車站視窗辦理退票、改簽業務，均不收取手續費。"
-    },
-    {
-      "id": "mkt:019e7882-9cd0-7bb7-9969-57ea9d64343e",
-      "time": "2026-05-30 18:51:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK maritime authorities said the US blockade of Iranian ports is being strictly enforced. Masters of vessels operating near the Strait of Hormuz must declare they have no intention of calling at Iranian ports. Ships that disobey US Navy orders in the Strait will face danger."
-    },
-    {
-      "id": "mkt:019e7881-dca5-7bb7-9969-4fc3087df6f0",
-      "time": "2026-05-30 18:50:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Rare Earth Group GM Li Zhihui meets Dongfang Electric chairman Luo Qianyi】May 30 in Sichuan, China Rare Earth Group GM Li Zhihui met Dongfang Electric chairman Luo Qianyi to discuss industrial coordination and joint technology development. Both expressed intent to deepen cooperation on new-materials development, frontier-tech joint R&D, rare-earth permanent magnet applications and domestic substitution to help safeguard China’s energy and strategic resource security."
     }
   ]
 }
