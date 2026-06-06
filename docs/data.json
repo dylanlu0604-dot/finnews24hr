@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-06 13:16:19",
-  "count": 18785,
+  "updated": "2026-06-06 13:20:13",
+  "count": 18787,
   "items": [
+    {
+      "id": "mkt:019e9b5f-55c6-7665-8310-00703bb3d1d9",
+      "time": "2026-06-06 13:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina expands hantavirus probe to Mendoza Province】Argentina's Health Ministry said it will expand its hantavirus investigation to western Mendoza Province and dispatch an expert team. Citing rodent habits and epidemiological criteria, the team—comprising Argentina's National Laboratory, the Carlos Malbrán Institute and US CDC experts—will work in Mendoza from the 8th to 12th, deploying traps for long‑tailed pygmy rice rats and other rodents linked to hantavirus transmission. Samples will be initially processed at a field laboratory, stored locally, then transferred to the Malbrán Institute."
+    },
+    {
+      "id": "mkt:019e9b5e-be05-7665-830f-fe79857d6e36",
+      "time": "2026-06-06 13:18:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Jamaica hit by nationwide blackout; partial restoration underway】Jamaica suffered a nationwide blackout on the evening of the 5th, Energy, Technology and Transport Minister Daryl Vaz said on social media. The national power company activated emergency response procedures to repair and assess faults and is carrying out phased restoration under its contingency plan. The company reported all generating stations have begun restart procedures and some customers’ supply has been restored; nationwide supply is expected to be restored in phases overnight into the morning of the 6th (local time). Vaz has ordered the power company to submit a full report within 24 hours detailing the cause and related circumstances."
+    },
+    {
+      "id": "4921124",
+      "time": "2026-06-06 13:17:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【8億元長租公寓REIT落地上海，外資巨頭博楓操刀】中金-博鄰長租公寓持有型不動產資產支援專項計劃（機構間REIT）在上交所成功發行設立。專項計劃發行規模8億元，是全國首單市場化長租公寓機構間REIT。本專項計劃由Brookfield Asset Management（簡稱博楓）發起，並由其境內公司擔任原始權益人及運營管理機構（21財經）"
+    },
     {
       "id": "4921123",
       "time": "2026-06-06 13:15:17",
@@ -173288,14 +173315,6 @@
         "國際"
       ],
       "text": "市場訊息：無人機襲擊俄羅斯塔甘羅格港口，一艘油輪起火。"
-    },
-    {
-      "id": "4908103",
-      "time": "2026-05-30 13:17:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【本週生豬均價微漲，機構預計週期拐點或推遲至四季度】本週國內生豬周均價環比微漲。據中國養豬網的資料，5月29日，生豬（外三元）價格為9.62元/公斤，與上週五（5月22日）的9.66元/公斤相比，下降0.4%。從一週均價來看，本週生豬均價為9.69元/公斤，與上週9.65元/公斤的均價相比，上漲0.4%。中信期貨認為，目前出欄進度偏慢，消費淡季，下游驅動稍弱，供、需均有收縮，豬價震盪。2026年初新生仔豬數量仍居高位，說明三季度出欄量較充裕。長期來看，去產能開啟，但幅度不足，2026年母豬單產繼續提升，預計將週期拐點推遲至2026年四季度兌現，且週期起步或較為溫和，目前的減產力度看不到週期的大幅上行。"
     }
   ]
 }
