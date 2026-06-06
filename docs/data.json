@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-06 14:00:14",
-  "count": 18798,
+  "updated": "2026-06-06 14:04:20",
+  "count": 18800,
   "items": [
+    {
+      "id": "4921143",
+      "time": "2026-06-06 14:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：針對敵方飛行器侵入澤拉伊特（Zerait）地區發出警報後，監測到一架無人機在以色列國防軍於黎巴嫩南部開展行動的區域附近墜落。該飛行器未進入以色列領土，未造成人員傷亡。"
+    },
+    {
+      "id": "4921142",
+      "time": "2026-06-06 14:02:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普敦促新任情報局長解僱情報人員。"
+    },
+    {
+      "id": "mkt:019e9b86-0dea-7665-8310-2d5157377254",
+      "time": "2026-06-06 14:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it monitored a drone crash near the area where it was operating in southern Lebanon after issuing an alert over hostile aircraft intrusion into the Zerait region; the drone did not enter Israeli territory and caused no casualties."
+    },
+    {
+      "id": "4921141",
+      "time": "2026-06-06 14:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗半官方的塔斯尼姆通訊社報道，伊朗國家足球隊的所有球員都已獲得參加即將到來的國際足聯世界盃的美國簽證，但一些工作人員和官員被拒絕入境。被拒絕簽證的人員包括國家隊主管、球隊分析師和多名伊朗足球協會官員，其中包括媒體工作人員、安保人員和外交部代表。據塔斯尼姆通訊社報道，由於仍在努力為他們爭取美國簽證，預計這些人仍將隨國家隊前往墨西哥。"
+    },
     {
       "id": "4921140",
       "time": "2026-06-06 13:57:03",
@@ -173389,26 +173421,6 @@
         "公司"
       ],
       "text": "【豐田回應將中止雷克薩斯下一代純電轎車開發】近日有訊息稱，豐田將中止高檔車品牌“雷克薩斯”純電動轎車“LF-ZC”的量產車型開發。豐田方面回應稱，該資訊屬實，本次車型開發中止的原因是“考慮到市場需求的變化，對公司整體車輛開發專案進行調整的一部分”。豐田還強調，公司只是調整了部分車輛的開發規劃，並不代表放棄BEV（純電動汽車）。（第一財經）"
-    },
-    {
-      "id": "mkt:019e777a-63e3-7bb7-9968-192ac3afa409",
-      "time": "2026-05-30 14:02:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan Defence Ministry machinery orders hit ¥2.69 tln in FY25; triple over five years】Japan Cabinet Office data show the Japan Defence Ministry’s machinery manufacturing orders reached ¥2.69 tln in FY25, about three times the level five years earlier and nearly half of government public-demand orders for FY25 (¥5.53 tln). The increase was driven by higher orders for surface-to-air missiles and aircraft."
-    },
-    {
-      "id": "4908112",
-      "time": "2026-05-30 14:00:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、美伊談判博弈持續僵持，特朗普稱將對相關諒解備忘錄作出最終決定，但暫無落地結果。伊朗方面駁斥美方相關言論真假參半，否認達成協議並重申對霍爾木茲海峽的管控權。\n2、特朗普表態伊朗必須永久放棄研發、擁有核武器及核彈，同時要求伊朗全面開放霍爾木茲海峽、清除海峽內所有爆炸裝置。特朗普稱美方已銷燬大量海峽水雷，海上封鎖正式解除。\n3、白宮兩小時戰情室會議落幕，白宮表示特朗普僅會簽署符合美國利益、不觸碰美方底線的協議，堅決禁止伊朗擁有核武器。\n4、特朗普政府將對美貿易法院的關稅退稅裁決提起上訴，質疑涉事法官職權，該裁決要求海關重新核算其緊急狀態權力下徵收的非法進口稅。\n5、特朗普近 18 億美元 “反武器化” 專項基金引發白宮內部擔憂，幕僚商議是否叫停該基金，以換取下月移民執法法案通關。十餘名共和黨參議員私下施壓撤銷該基金，聯邦法院已下令暫停基金籌備工作，特朗普尚未同意撤項。\n6、白宮確認特朗普已簽署備忘錄，批准國家安全投資領域關鍵崗位工作人員的薪酬授權。\n7、白宮公佈特朗普醫生備忘錄，確認特朗普整體身體狀態極佳，各項身體機能表現強勁，小腿腫脹症狀較 2025 年有所好轉，完全勝任履職工作。\n8、特朗普簽署行政命令，正式認可美國衛生部兒童疫苗科學評估結果，並要求疾控中心等機構據此更新青少年疫苗接種日程。\n9、美國聯邦法官裁定，未經國會立法不得更名肯尼迪中心，正式移除特朗普相關冠名，同時叫停中心兩年翻修關閉計劃。"
     }
   ]
 }
