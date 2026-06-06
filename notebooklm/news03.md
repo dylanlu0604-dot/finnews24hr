@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-06 22:14:36_
-_本檔包含 4035 則快訊，約 700318 字_
+_更新時間：2026-06-06 23:05:11_
+_本檔包含 4035 則快訊，約 700666 字_
+
+---
+
+### 2026-06-03 23:37:04  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities closed lower on June 3: Germany's DAX fell 305.57 points (-1.22%) to 24,811.29; FTSE 100 declined 42.09 points (-0.41%) to 10,331.42; France's CAC 40 dropped 58.67 points (-0.71%) to 8,150.42; Stoxx Europe 50 fell 51.90 points (-0.85%) to 6,055.95; Spain's IBEX 35 slipped 92.28 points (-0.51%) to 18,179.72; Italy's FTSE MIB lost 494.04 points (-0.98%) to 50,084.50.
+
+---
+
+### 2026-06-03 23:36:46  #其他
+
+【剛果（金）東北部發生沉船事故致60多人失蹤】據剛果（金）媒體3日報道，剛果（金）東北部喬波省2日發生一起沉船事故，造成60多人失蹤。（新華社）
+
+---
+
+### 2026-06-03 23:33:28  #MKT News
+
+【Iran parliament security committee chair: halting fighting on all fronts is priority in Iran-US talks】On the 3rd, Ebrahim Azizi, chair of Iran’s Parliament National Security and Foreign Policy Committee, said halting hostilities on all fronts is the primary item in negotiations with the US. He said Iran will not allow the US or Israel to break the unity of the "resistance front", asserted the resistance front will prevail, and said that by working together "destroying Israel" can be achieved.
+
+---
+
+### 2026-06-03 23:33:00  #MKT News
+
+U.S. 4-month Treasury auction as of June 3: 93.35% of allotment at the stop-out yield; prior 25.59%.
+
+---
+
+### 2026-06-03 23:32:47  #MKT News #US10Y #Impact bullish
+
+US 4-month Treasury auction on June 3 bid-cover ratio 3.15, versus 3.01 previously.
+
+---
+
+### 2026-06-03 23:32:44  #MKT News #US10Y #Impact bearish #DXY #Impact bullish
+
+US 4-month Treasury auction on June 3 stop-out yield 3.635%, prior 3.63%.
+
+---
+
+### 2026-06-03 23:32:38  #宏觀 #市場 #國際
+
+美國財政部拍賣四個月期國債，得標利率3.635%，投標倍數3.15。
+
+---
+
+### 2026-06-03 23:32:36  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.3) | actual 3.15 | previous 3.01
+
+---
+
+### 2026-06-03 23:32:30  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Jun.3) | actual 3.635% | previous 3.63%
+
+---
+
+### 2026-06-03 23:31:04  #MKT News #Commodities #Precious Metals
+
+Spot palladium fell 3% to $1,329 an ounce.
+
+---
+
+### 2026-06-03 23:30:40  #Trading Economics #Economy #Colombia #Exports YoY #Importance 1
+
+Colombia Exports Rise in April — Colombia’s exports rose 11.7% year-on-year to $4.6 billion in April 2026, following a 20.9% increase in March. The expansion was mainly driven by a 46.2% rise in exports of fuels and extractive industry products, supported by a 72.3% surge in shipments of petroleum and petroleum-related products. Exports from the other sectors category jumped 78.3%, entirely due to higher sales of non-monetary gold. In contrast, manufactured exports fell 8.3%, weighed down by lower shipments of machinery and transport equipment (-24.8%) and manufactured goods classified chiefly by material (-10.4%). Agricultural products, food, and beverages exports declined 27%, largely reflecting weaker sales of unroasted coffee (-49.9%) and cut flowers and foliage (-20%). In the first four months of 2026, Colombian exports totaled $18.4 billion, up 14.5% from the same period a year earlier.
+
+---
+
+### 2026-06-03 23:30:40  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Israel Defense Forces chief of staff said IDF forces in Lebanon will not observe a ceasefire and that the military is taking offensive action, conducting operations and striking all threats.
+
+---
+
+### 2026-06-03 23:30:30  #其他
+
+德國DAX 30指數初步收跌1.33%，報24789.85點。法國股指初步收跌0.60%，義大利股指初步收跌0.88%、銀行指數跌1.48%，英國股指初步收跌0.40%。
+
+---
+
+### 2026-06-03 23:30:22  #國際
+
+歐洲STOXX 600指數初步收跌0.63%，報621.40點。歐元區STOXX 50指數初步收跌0.82%，報6058.21點。富時泛歐績優300指數初步收跌0.67%，報2480.64點。
+
+---
+
+### 2026-06-03 23:30:12  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Italy 10Y Bond Yield Rises by 10 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (10.17bps), Japan 10Y (8.04bps), Germany 10Y (6.35bps) and US 10Y (4.70bps).
 
 ---
 
@@ -24219,95 +24309,5 @@ US Job Quits Fall in April — The number of job quits in the US fell to 2.977 m
 ### 2026-06-02 22:17:38  #MKT News
 
 【Zhuhai proposes wider housing provident fund withdrawals】Zhuhai Housing Provident Fund Management Center published a public consultation on a notice from the Zhuhai Housing Provident Fund Management C.BANK proposing changes to provident fund withdrawal and use rules. The draft proposes adding withdrawals for urban renewal projects and for renovation of owner-occupied housing to meet residents’ demand for improved living conditions. The center said expanding the fund’s applicable scope would significantly enhance inclusiveness and resident benefits, support urban renewal and renovation withdrawals, improve system effectiveness and help contributors move from "secure housing" to "better housing".
-
----
-
-### 2026-06-02 22:17:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-Bank of England governor Bailey said tighter financial conditions give the Bank more time.
-
----
-
-### 2026-06-02 22:17:23  #MKT News #SAAB-B.ST #Impact mixed
-
-Saab says potential total contract value USD 60.8 mln; contract term 60 months.
-
----
-
-### 2026-06-02 22:17:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Russian defence ministry says forces launched large-scale strikes on Ukraine】The Russian Defence Ministry said on the night of the 1st to early 2nd that Russian forces launched large-scale strikes on Ukraine using air-, land- and sea-based long-range precision weapons, including hypersonic ballistic missiles and attack drones. Targets, it said, included Ukrainian defence-industrial enterprises, fuel storage and transport facilities, and military airports. In precision strikes aimed at Kyiv the ministry said 10 firms producing attack drones and other military products were hit and three local recruitment centres were damaged. It also reported damage to defence firms outside Kyiv in Zaporizhia, Dnipropetrovsk, Kharkiv, Sumy, Khmelnytskyi and Poltava, and said support infrastructure at six military airports was destroyed. The statement added that tactical aviation, strike drones, missile troops and artillery struck 133 training ranges, long-range drone launch sites and temporary deployment points of Ukrainian forces and foreign mercenaries.
-
----
-
-### 2026-06-02 22:17:02  #央行 #其他
-
-英國央行行長貝利：金融環境已收緊，貨幣政策尚有觀望時間。
-
----
-
-### 2026-06-02 22:16:30  #其他
-
-加拿大總理卡尼：GDP疲軟反映出為重建經濟進行政策調整帶來的影響。
-
----
-
-### 2026-06-02 22:16:18  #MKT News #SAAB-B.ST
-
-Saab wins $22.4 mln order from the US Army, market sources say.
-
----
-
-### 2026-06-02 22:16:15  #國際
-
-美國陸軍已授予薩博一份價值2240萬美元的固定總價合同訂單。
-
----
-
-### 2026-06-02 22:15:50  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Norway's finance minister said the country's oil and gas output will decline naturally.
-
----
-
-### 2026-06-02 22:15:48  #國際
-
-【俄國防部稱俄軍對烏克蘭發起大規模打擊】俄國防部2日釋出通報稱，俄羅斯武裝部隊1日晚至2日清晨對烏克蘭發起大規模打擊，動用含高超音速彈道導彈與無人機在內的空基、陸基、海基多型遠端精確制導武器，打擊目標為烏克蘭國防軍工企業、油料儲運設施及軍用機場。通報說，在針對基輔的精確制導武器打擊中，10家生產攻擊型無人機等軍工產品的企業遭打擊，烏軍3處地方兵員徵集中心受損。此外，扎波羅熱、第聶伯羅彼得羅夫斯克、哈爾科夫、蘇梅、赫梅利尼茨基和波爾塔瓦等基輔以外地區的多家烏克蘭軍工企業受損，烏軍6座軍用機場的配套基礎設施同步損毀。 (新華社)
-
----
-
-### 2026-06-02 22:15:45  #其他
-
-挪威財政大臣斯托爾滕貝格：挪威油氣產量將自然步入回落週期。
-
----
-
-### 2026-06-02 22:15:34  #MKT News
-
-Local governor said enemy forces attacked Dnipro again, causing a fire; authorities are verifying whether there are casualties.
-
----
-
-### 2026-06-02 22:15:31  #國際
-
-【赫格塞思阻止多名美海軍軍官晉升】據美國《華爾街日報》網站6月2日報道，美國現任及前任官員透露，國防部長赫格塞思已阻止八名海軍上校晉升為海軍准將，其中包括兩名女性和兩名黑人軍官。知情人士稱，赫格塞思還試圖阻止一些海軍准將晉升為海軍少將，這在海軍領導層中引發了一場辯論，並已導致一批高階軍官的原定晉升計劃推遲了數月。報道稱，赫格塞思對晉升名單的審查被認為非同尋常，此舉很可能在五角大樓和國會內部引發擔憂。外界擔心，赫格塞思正在安插可能認同其政策並對他保持忠誠的軍官，同時卻忽略了其他同樣優秀的軍官。（參考訊息）
-
----
-
-### 2026-06-02 22:15:15  #市場 #央行 #國際
-
-【美國4月JOLTs職位空缺升至近兩年來的最高水平】美國4月JOLTs職位空缺大幅增加，從3月份的689萬個增加到了762萬個，達到了近兩年來的最高水平，同時裁員數量減少，這些跡象表明，儘管企業面臨著因伊朗戰爭導致的能源成本上漲所帶來的壓力，但勞動力市場仍保持強勁態勢。其中專業及商業服務行業幾乎貢獻了全部的增長量。總體招聘人數降至512萬，這在一定程度上抵消了3月份的大幅增長，同時裁員人數也有所減少，降至169萬。這些資料表明，與 2025 年近乎零的就業增長相比，美國今年的勞動力需求已趨於穩定。儘管職位空缺數量仍遠低於疫情重開時期所達到的水平，但這種穩定態勢可能會進一步削弱降息的理由，美聯儲官員們越來越多地討論加息的可能性。
-
----
-
-### 2026-06-02 22:15:04  #市場
-
-標普500指數轉為上漲。
-
----
-
-### 2026-06-02 22:15:01  #公司
-
-【雅居樂集團：1-5月預售金額合計為約29.8億元】雅居樂集團6月2日晚間公告，截至2026年5月31日止五個月，集團連同集團合營公司及聯營公司以及雅居樂專案的預售金額合計為約人民幣29.8億元而對應建築面積為約28.1萬平方米；平均價為每平方米人民幣10,634元。
 
 ---

@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-06 22:14:36_
-_本檔包含 3619 則快訊，約 700688 字_
+_更新時間：2026-06-06 23:05:11_
+_本檔包含 3634 則快訊，約 700809 字_
+
+---
+
+### 2026-06-06 23:02:24  #其他
+
+【馬斯克將出席阿斯麥閉門技術研討會，磋商泰拉晶圓廠專案】馬斯克將以線上形式出席阿斯麥控股舉辦的閉門技術會議，商討旗下泰拉晶圓廠專案。馬斯克將在這場面向阿斯麥內部員工的活動中，分享其在人工智慧、機器人、航天以及半導體制造領域的發展構想。依託泰拉晶圓廠專案，馬斯克團隊正式躋身全球半導體產業生態，阿斯麥等多家企業將參與該專案合作。
+
+---
+
+### 2026-06-06 23:01:45  #其他
+
+【百度成立數字人創新業務部】6月6日晚間訊息，百度MEG進行了新的一輪組織調整：合併商業部與電商事業部，成立大商業事業部，數字人創新業務部也升級為獨立部門。在5月13日舉辦的Create 2026百度AI開發者大會上，百度宣佈旗下數字人品牌慧播星升級為百度一鏡，推出全球首個全場景多智慧體數字人平臺——集數字人直播、數字人影片、實時互動數字人於一體，並重磅釋出百度一鏡海外版。截至2025年底，百度一鏡數字人主播數已突破10萬，廣泛服務30+行業。平臺曾支撐羅永浩數字人直播首秀，超1300萬人次觀看、GMV超5500萬元。此次調整或有助於百度持續提升組織運營效率、聚合優勢資源，更好地擁抱 AI 時代。（新浪科技）
+
+---
+
+### 2026-06-06 23:01:29  #MKT News #Market Themes #Chip Wars #ASML.O #Impact bullish
+
+ASML (ASML.O) views TERAFAB as a major initiative.
+
+---
+
+### 2026-06-06 23:01:10  #MKT News #Market Themes #Chip Wars #AI Revolution #ASML.O
+
+ASML (ASML.O): Elon Musk is scheduled to speak at ASML's virtual technology conference and will discuss the TERAFAB project, AI vision and chip manufacturing.
+
+---
+
+### 2026-06-06 23:00:34  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+HEZBOLLAH said it shelled an Israeli military assembly point near Shakif Castle in southern Lebanon.
+
+---
+
+### 2026-06-06 23:00:15  #國際
+
+以色列在攻佔黎巴嫩南部沙吉夫古堡的軍事行動期間，納巴蒂耶市上空偵測到白磷彈藥儲備蹤跡。
+
+---
+
+### 2026-06-06 22:59:21  #其他
+
+阿斯麥：馬斯克將討論TeraFab專案，以及人工智慧與晶片製造願景。
+
+---
+
+### 2026-06-06 22:57:51  #公司 #焦點
+
+阿斯麥：馬斯克將在本公司的虛擬技術大會上發表講話。
+
+---
+
+### 2026-06-06 22:57:16  #其他
+
+【安德列娃獲得2026法網女單冠軍】北京時間6月6日，2026年法網女單決賽，安德列娃直落兩盤（6-3、6-2）擊敗從資格賽打進決賽的赫瓦林斯卡，奪得本屆法網女單冠軍。19歲的安德列娃成為首位在2005年之後出生的大滿貫單打冠軍球員。（央視新聞）
+
+---
+
+### 2026-06-06 22:52:35  #其他
+
+【2026年度電影總票房破160億】截至目前，2026年度電影總票房已突破160億元。其中，電影《給阿嬤的情書》自上映後口碑票房持續走高，目前票房已超15億元，暫列2026年度票房亞軍，此外該片已宣佈延長上映至6月30日，並將在海外陸續公映。（央視新聞）
+
+---
+
+### 2026-06-06 22:51:40  #其他
+
+黎巴嫩官方資料顯示，自今年3月黎以衝突爆發以來，黎巴嫩已有至少3593人遇難、近1.1萬人受傷。
+
+---
+
+### 2026-06-06 22:48:12  #國際
+
+美國防長赫格塞思在諾曼底登陸紀念活動上發言時稱，歐洲正面臨各類危險意識形態的“入侵”。
+
+---
+
+### 2026-06-06 22:47:12  #國際
+
+伊朗外交部發言人譴責以色列襲擊黎巴嫩軍隊，指責以色列此舉是侵犯黎巴嫩及其主權的“惡劣罪行”。
+
+---
+
+### 2026-06-06 22:43:40  #國際
+
+真主黨：我方在黎巴嫩南部沙哈比耶鎮上空使用空對空導彈攔截一架以色列赫爾墨斯450型無人機，迫使其撤離。
+
+---
+
+### 2026-06-06 22:43:14  #國際
+
+以色列軍方：正在核查一份影片資料，內容顯示一名士兵在納布盧斯附近的哈瓦拉毆打巴勒斯坦民眾，後續將根據調查結果作出處置。
+
+---
+
+### 2026-06-06 22:42:53  #其他
+
+真主黨：我方使用潛航無人機，襲擊了黎巴嫩南部沙吉夫古堡周邊一處以軍集結點。
+
+---
+
+### 2026-06-06 22:41:19  #公司 #國際
+
+美國電信運營商T-Mobile在印度新設技術能力中心，計劃招聘1000人；與此同時該公司在美國本土仍持續裁員。
+
+---
+
+### 2026-06-06 22:40:50  #公司 #市場
+
+【近三個月車規級儲存晶片價格暴漲180% 多家新能源車企上調售價或收緊優惠】近一段時間，國內新能源汽車市場迎來較為集中的價格調整，市面上有多款新能源車型，先後出現了售價上調或優惠變化。在北京一家新能源汽車4S店裡，銷售人員告訴記者，目前他們在售車型的官方指導價並沒有發生變化。但5月以來，店內多款車型配置的一款輔助駕駛選裝包價格有所上調，從之前的9900元上調到了12000元。車企公告顯示，選裝包價格調整，主要是受到全球儲存硬體成本大幅上漲的影響。有資料顯示，近三個月，車規級儲存晶片整體價格漲幅約在180%。據不完全統計，近期國內共有十餘家新能源車企上調售價或收緊優惠，幅度一般在2000元到6000元不等。在新能源車價格出現變化的時候，不少燃油車在調低價格，加大優惠力度。截至今年4月，燃油車促銷力度已連續9個月維持在23%左右的高位。 (央視財經)
+
+---
+
+### 2026-06-06 22:39:27  #國際
+
+託德·布蘭奇就特朗普提名：很榮幸特朗普邀請我擔任司法部長。
+
+---
+
+### 2026-06-06 22:38:20  #MKT News
+
+【More than 10 members of Iran World Cup delegation denied U.S. visas】On the 6th (local time), more than 10 members of Iran’s delegation to the 2026 U.S.-Canada-Mexico World Cup—including administrative staff and Iranian Football Federation officials—were denied U.S. visas. The White House said a day earlier that all Iran national team players had been granted visas.
+
+---
+
+### 2026-06-06 22:33:21  #國際
+
+【世界盃伊朗代表團十餘人遭美國拒籤】當地時間6日，參加2026美加墨世界盃的伊朗代表團中，包括行政人員和伊朗足協官員在內的十餘人未能獲得美國簽證。此前一天，美國白宮官員表示，伊朗國足所有球員均已獲得簽證。（央視新聞）
+
+---
+
+### 2026-06-06 22:17:27  #MKT News
+
+【Han Zheng meets Belarusian Prime Minister Turchin】June 6, 2026, Minsk — Chinese Vice President Han Zheng met Belarusian Prime Minister Turchin. Han said Belarus is an all‑weather comprehensive strategic partner and China will continue to support Belarus in safeguarding its sovereignty, security and development interests. The sides agreed to prioritize high‑quality Belt and Road cooperation, strengthen the China‑Belarus intergovernmental cooperation committee, and push forward the China‑Belarus Industrial Park and other key projects. China also signalled support for Belarus taking a larger role in multilateral forums and pledged closer coordination in international organisations.
 
 ---
 
@@ -21819,47 +21951,5 @@ Japan's finance minister Katayama Satsuki said she will not comment on exchange-
 ### 2026-06-05 07:42:04  #市場 #觀點
 
 【國金證券：鋰電6月排產景氣維持高位】國金證券研報稱，鋰電6月排產景氣維持高位，環增1%～6%，同增49%～66%。2026年1～6月，電池/正極/負極/隔膜/電解液預排產累計同比分別增長46%/49%/47%/53%/59%，其中電解液、電池同比均超60%。整體看，6月鋰電產業鏈排產在5月明顯回升後的高基數上繼續增長，短期節奏由快速拉昇轉向高位平穩，反映下游需求韌性持續向好、產業鏈景氣度仍處高位。5月鋰電產業鏈價格延續結構性分化，整體表現為上游成本支撐仍強、中下游漲價傳導偏弱。價格上漲主要來自供給擾動和原料成本抬升，鋰鹽、鎳鹽及磷系材料表現相對較強；需求端雖有電池、儲能及三元排產支撐，但更多體現為剛需託底，並未帶動全鏈條順暢漲價。因此，正極、電解液等中游環節價格多為小幅上移，漲幅明顯弱於上游原料。相反，供給恢復較快或庫存壓力較大的環節繼續承壓，DMC及低硫石油焦價格回落。整體看，5月鋰電產業鏈價格分化仍是主線。
-
----
-
-### 2026-06-05 07:39:34  #觀點
-
-【中信證券：港股正式進入牛市中後段】6月5日，中信證券黃文濤、何盛團隊一份研報指出，港股本輪主升浪正在確立。自3月底，中信證券提出港股階段性配置機會以來，港股已逐步完成階段性探底，並在4月TACO交易後構築中期底部。中信證券認為，港股行情正由前期估值和情緒修復，轉向盈利驗證與風險偏好改善共同驅動的新階段。從大週期看，港股已經走出去年以來的低位估值修復階段，正式進入牛市中後段。本階段不會再是指數普漲行情，而是由盈利、景氣度和產業兌現共同驅動的結構性主升。流動性和估值修復已經兌現較多，後續決定超額收益的核心變數將轉向業績驗證。網際網路龍頭一季報已經出現結構性改善，市場對港股盈利修復的預期正在重建。(大河財立方)
-
----
-
-### 2026-06-05 07:39:25  #公司
-
-【證券日報：警惕併購重組中的非理性溢價】近日，一家主營光通訊領域的A股上市公司釋出公告稱，終止籌劃以“發行股份+現金”方式收購同業細分標的企業股權的資產重組事項。深究背後原因，系雙方在標的資產估值上分歧過大，難以調和，一場有望實現雙向增益的產業鏈併購就此作罷。據筆者不完全統計，年內因同樣原因終止的重組專案還有5單。在產業併購熱情持續升溫的背景下，部分細分熱門賽道標的估值脫離基本面、溢價居高不下，已成為一些併購專案半路夭折的重要誘因。
-
----
-
-### 2026-06-05 07:37:59  #公司
-
-【夏日高溫催熱“防曬經濟”，上市公司多元化掘金細分賽道】6月以來，全國多地氣溫突破35攝氏度，部分地區入夏偏早、高溫強度大。“防曬經濟”隨之升溫，從防曬霜到防曬衣、遮陽傘等“硬防曬”裝備需求旺盛，A股相關上市公司進入年度銷售旺季。 面對消費者日益精細化的需求，企業不再依賴單一品類，而是透過技術迭代、場景拓展和材料創新，在這一藍海市場中挖掘多元增長點。（上海證券報）
-
----
-
-### 2026-06-05 07:37:54  #市場 #焦點
-
-紐約期金失守4490美元/盎司，日內跌0.33%。
-
----
-
-### 2026-06-05 07:37:20  #Trading Economics #Economy #Japan #Household Spending #Importance 1
-
-Japan Personal Spending Falls the Least in 5 Months — Household spending in Japan dropped 0.5% yoy in April 2026, easing from a 2.9% decline in the prior month and beating market expectations for a 1.5% fall. While this marked the fifth straight month of contraction, it was also the mildest decline in the sequence, suggesting that easing inflationary pressures may be helping to support consumer spending. Expenditure on food fell at a slower pace, (-0.5% vs -2.9% in March) while spending increasing for transport and communication (7.5% vs -16.8%), housing (7.6% vs 15.3%), furniture and household goods (19.0% vs 5.5%), healthcare (6.7% vs 20.1%), and culture and recreation (6.3% vs 4.6%). In contrast, outlays weakened further on clothing and footwear (-10.9% vs -2.6%) and utilities (-8.6% vs -3.2%). Education spending also shrank, down 19.4% after a 2.1% increase in March. On a seasonally adjusted monthly basis, household expenditure rose 1.6%, rebounding from a 1.3% fall in March and exceeding forecasts of a 0.8% increase.
-
----
-
-### 2026-06-05 07:37:19  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-South Korea's finance minister said authorities will take appropriate measures if exchange-rate volatility intensifies or infary pressures worsen.
-
----
-
-### 2026-06-05 07:36:49  #Trading Economics #Economy #Japan #Wage Growth #Importance 2
-
-Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month.
 
 ---

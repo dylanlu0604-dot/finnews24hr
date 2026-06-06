@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 22:14:36_
-_本檔包含 3647 則快訊，約 700426 字_
+_更新時間：2026-06-06 23:05:11_
+_本檔包含 3650 則快訊，約 700465 字_
+
+---
+
+### 2026-06-02 22:17:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
+
+Bank of England governor Bailey said tighter financial conditions give the Bank more time.
+
+---
+
+### 2026-06-02 22:17:23  #MKT News #SAAB-B.ST #Impact mixed
+
+Saab says potential total contract value USD 60.8 mln; contract term 60 months.
+
+---
+
+### 2026-06-02 22:17:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Russian defence ministry says forces launched large-scale strikes on Ukraine】The Russian Defence Ministry said on the night of the 1st to early 2nd that Russian forces launched large-scale strikes on Ukraine using air-, land- and sea-based long-range precision weapons, including hypersonic ballistic missiles and attack drones. Targets, it said, included Ukrainian defence-industrial enterprises, fuel storage and transport facilities, and military airports. In precision strikes aimed at Kyiv the ministry said 10 firms producing attack drones and other military products were hit and three local recruitment centres were damaged. It also reported damage to defence firms outside Kyiv in Zaporizhia, Dnipropetrovsk, Kharkiv, Sumy, Khmelnytskyi and Poltava, and said support infrastructure at six military airports was destroyed. The statement added that tactical aviation, strike drones, missile troops and artillery struck 133 training ranges, long-range drone launch sites and temporary deployment points of Ukrainian forces and foreign mercenaries.
+
+---
+
+### 2026-06-02 22:17:02  #央行 #其他
+
+英國央行行長貝利：金融環境已收緊，貨幣政策尚有觀望時間。
+
+---
+
+### 2026-06-02 22:16:30  #其他
+
+加拿大總理卡尼：GDP疲軟反映出為重建經濟進行政策調整帶來的影響。
+
+---
+
+### 2026-06-02 22:16:18  #MKT News #SAAB-B.ST
+
+Saab wins $22.4 mln order from the US Army, market sources say.
+
+---
+
+### 2026-06-02 22:16:15  #國際
+
+美國陸軍已授予薩博一份價值2240萬美元的固定總價合同訂單。
+
+---
+
+### 2026-06-02 22:15:50  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Norway's finance minister said the country's oil and gas output will decline naturally.
+
+---
+
+### 2026-06-02 22:15:48  #國際
+
+【俄國防部稱俄軍對烏克蘭發起大規模打擊】俄國防部2日釋出通報稱，俄羅斯武裝部隊1日晚至2日清晨對烏克蘭發起大規模打擊，動用含高超音速彈道導彈與無人機在內的空基、陸基、海基多型遠端精確制導武器，打擊目標為烏克蘭國防軍工企業、油料儲運設施及軍用機場。通報說，在針對基輔的精確制導武器打擊中，10家生產攻擊型無人機等軍工產品的企業遭打擊，烏軍3處地方兵員徵集中心受損。此外，扎波羅熱、第聶伯羅彼得羅夫斯克、哈爾科夫、蘇梅、赫梅利尼茨基和波爾塔瓦等基輔以外地區的多家烏克蘭軍工企業受損，烏軍6座軍用機場的配套基礎設施同步損毀。 (新華社)
+
+---
+
+### 2026-06-02 22:15:45  #其他
+
+挪威財政大臣斯托爾滕貝格：挪威油氣產量將自然步入回落週期。
+
+---
+
+### 2026-06-02 22:15:34  #MKT News
+
+Local governor said enemy forces attacked Dnipro again, causing a fire; authorities are verifying whether there are casualties.
+
+---
+
+### 2026-06-02 22:15:31  #國際
+
+【赫格塞思阻止多名美海軍軍官晉升】據美國《華爾街日報》網站6月2日報道，美國現任及前任官員透露，國防部長赫格塞思已阻止八名海軍上校晉升為海軍准將，其中包括兩名女性和兩名黑人軍官。知情人士稱，赫格塞思還試圖阻止一些海軍准將晉升為海軍少將，這在海軍領導層中引發了一場辯論，並已導致一批高階軍官的原定晉升計劃推遲了數月。報道稱，赫格塞思對晉升名單的審查被認為非同尋常，此舉很可能在五角大樓和國會內部引發擔憂。外界擔心，赫格塞思正在安插可能認同其政策並對他保持忠誠的軍官，同時卻忽略了其他同樣優秀的軍官。（參考訊息）
+
+---
+
+### 2026-06-02 22:15:15  #市場 #央行 #國際
+
+【美國4月JOLTs職位空缺升至近兩年來的最高水平】美國4月JOLTs職位空缺大幅增加，從3月份的689萬個增加到了762萬個，達到了近兩年來的最高水平，同時裁員數量減少，這些跡象表明，儘管企業面臨著因伊朗戰爭導致的能源成本上漲所帶來的壓力，但勞動力市場仍保持強勁態勢。其中專業及商業服務行業幾乎貢獻了全部的增長量。總體招聘人數降至512萬，這在一定程度上抵消了3月份的大幅增長，同時裁員人數也有所減少，降至169萬。這些資料表明，與 2025 年近乎零的就業增長相比，美國今年的勞動力需求已趨於穩定。儘管職位空缺數量仍遠低於疫情重開時期所達到的水平，但這種穩定態勢可能會進一步削弱降息的理由，美聯儲官員們越來越多地討論加息的可能性。
+
+---
+
+### 2026-06-02 22:15:04  #市場
+
+標普500指數轉為上漲。
+
+---
+
+### 2026-06-02 22:15:01  #公司
+
+【雅居樂集團：1-5月預售金額合計為約29.8億元】雅居樂集團6月2日晚間公告，截至2026年5月31日止五個月，集團連同集團合營公司及聯營公司以及雅居樂專案的預售金額合計為約人民幣29.8億元而對應建築面積為約28.1萬平方米；平均價為每平方米人民幣10,634元。
 
 ---
 
@@ -21916,81 +22006,5 @@ Iranian President PEZESHKIAN said Iran will take all measures to restore maritim
 ### 2026-06-01 21:01:11  #市場
 
 【經濟學家：英國潛在首相挑戰者在即將到來的選舉中獲勝或將打擊英鎊】Ebury經濟學家Enrique Diaz-Alvarez在一份報告中表示，如果英國工黨潛在領導人挑戰者安迪·伯納姆在即將舉行的特別選舉中獲勝，英鎊可能會下跌。伯納姆最近重申了他對英國財政規則的承諾。Diaz-Alvarez說，然而，伯納姆必須贏得6月18日的選舉才能正式挑戰首相基爾·斯塔默的領導地位，這場選舉對英鎊來說仍然至關重要。他表示，伯納姆的獲勝將為英鎊“開啟一些下行空間”，因為他傾向於更大規模的財政擴張，這可能會導致英國國債發行量增加。英鎊持平於1.3464美元。歐元下跌0.2%，至0.8647英鎊。
-
----
-
-### 2026-06-01 21:00:30  #其他
-
-【《供水條例》施行】記者從水利部瞭解到，《供水條例》自6月1日起施行，《城市供水條例》同時廢止。《供水條例》於今年2月公佈。基於推進城鄉融合發展、平等保障城鄉居民飲用水權利等需要，條例在原《城市供水條例》的基礎上，將農村供水納入其中，將促進城鄉供水在規劃佈局、設施建設、管理服務等方面標準統一、制度並軌、相互融合、共同發展，推動城鄉供水“同源、同網、同質、同監管、同服務”。（新華社）
-
----
-
-### 2026-06-01 21:00:03  #市場 #焦點
-
-焦煤連續主力合約日內漲2%，現報1375.00元。
-
----
-
-### 2026-06-01 21:00:02  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續漲11.69%，雞蛋連續漲4.72%，多晶矽連續漲3.38%，菜籽連續漲3.03%，紅棗連續漲2.24%，瀝青連續漲2.05%。
-
----
-
-### 2026-06-01 20:59:28  #公司 #國際
-
-資料顯示，俄羅斯能源巨頭俄羅斯天然氣工業股份公司5月經土耳其溪海底管道向歐洲輸送的天然氣日均氣量達4740萬立方米，同比增長3%。烏克蘭與俄羅斯為期五年的供氣協議於2025年1月到期且未續約，此後土耳其成為俄羅斯天然氣輸往歐洲僅剩的中轉通道。
-
----
-
-### 2026-06-01 20:59:26  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
-
-【MOFCOM launches 2026 Service Consumption Season】MOFCOM launched the 2026 Service Consumption Season in Hangzhou on June 1, issuing a national plan to boost service-sector consumption. China Media Group unveiled a package of innovation measures to promote service consumption. Zhejiang province and Hangzhou city published action plans focused on quality upgrades and high‑quality development of services. The MOFCOM Research Institute, International Business Daily and the China Hotel Association released the China Service Consumption Development Report (2025) plus case studies on diversified consumption scenarios and new “accommodation+” leisure‑resort models. Platform firms including Meituan and Alipay announced support measures and action plans to back service consumption growth.
-
----
-
-### 2026-06-01 20:58:42  #其他
-
-突尼西亞國家農業辦公室：11 月至次年 4 月橄欖油出口收入達 12.5 億美元。
-
----
-
-### 2026-06-01 20:58:26  #宏觀
-
-【商務部啟動2026年“服務消費季”活動】6月1日，2026年“服務消費季”活動在浙江省杭州市啟動。商務部副部長鄢東、中央廣播電視總檯副臺長餘俊生、浙江省副省長張雁雲以及文化和旅遊部等部門有關司局負責同志出席啟動儀式。
-
-為深入貫徹黨中央、國務院關於促進服務消費高質量發展的決策部署，落實全國服務業大會精神，擴大優質服務供給，促進服務消費提質惠民，商務部牽頭開展2026年“服務消費季”系列促消費活動，以“樂享美好服務，共創幸福生活”為主題，圍繞居民日常生活需要、高品質生活追求、多樣化消費需求，發揮各地方、有關部門、行業協會、平臺企業合力，貫穿全年舉辦160餘場特色服務消費促進活動，培育場景豐富、層次分明、覆蓋廣泛的服務消費促進活動體系，進一步釋放服務消費潛能。
-
-啟動儀式上，商務部發布2026年全國“服務消費季”活動方案，中央廣播電視總檯釋出促進服務消費系列創新舉措，浙江省、杭州市分別釋出服務消費提質惠民四大行動、促進服務消費高質量發展創新舉措；商務部研究院、國際商報、中國飯店協會分別釋出《中國服務消費發展報告（2025）》、創新多元化服務消費場景實踐案例、“住宿+”休閒度假新業態新模式新場景典型案例；美團、支付寶等平臺企業釋出支援服務消費發展有關行動方案。
-
----
-
-### 2026-06-01 20:58:20  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-Stoxx Europe 600 briefly turned positive.
-
----
-
-### 2026-06-01 20:57:58  #市場 #國際
-
-歐洲斯托克600指數當日短暫轉漲。
-
----
-
-### 2026-06-01 20:57:48  #國際
-
-資料顯示，5月份俄羅斯對歐洲的管道天然氣出口同比增長3%。
-
----
-
-### 2026-06-01 20:57:44  #MKT News #Important #WTI #Impact bearish #Brent
-
-According to Iranian state media, President Pezeshkian told Japan's prime minister on a call that Iran is fully prepared to facilitate maritime traffic.
-
----
-
-### 2026-06-01 20:57:23  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
-
-Chile's Economic Activity Contracts Most Since 2023 — Chile’s IMACEC economic activity index fell 1.2% year-on-year in April 2026, following a 0.2% decline in the previous month and marking the sharpest contraction since March 2023. The downturn was driven by a 5.4% drop in goods-producing sectors, as mining output plunged 11.8% and industrial activity slipped 0.4%. In contrast, trade expanded 2.1%, while services activity edged up 0.8%. On a monthly basis, the IMACEC fell 4.8%, reversing part of the 15.1% surge recorded in March.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-06 22:14:36_
-_本檔包含 3956 則快訊，約 700305 字_
+_更新時間：2026-06-06 23:05:11_
+_本檔包含 3948 則快訊，約 700275 字_
+
+---
+
+### 2026-06-05 07:39:34  #觀點
+
+【中信證券：港股正式進入牛市中後段】6月5日，中信證券黃文濤、何盛團隊一份研報指出，港股本輪主升浪正在確立。自3月底，中信證券提出港股階段性配置機會以來，港股已逐步完成階段性探底，並在4月TACO交易後構築中期底部。中信證券認為，港股行情正由前期估值和情緒修復，轉向盈利驗證與風險偏好改善共同驅動的新階段。從大週期看，港股已經走出去年以來的低位估值修復階段，正式進入牛市中後段。本階段不會再是指數普漲行情，而是由盈利、景氣度和產業兌現共同驅動的結構性主升。流動性和估值修復已經兌現較多，後續決定超額收益的核心變數將轉向業績驗證。網際網路龍頭一季報已經出現結構性改善，市場對港股盈利修復的預期正在重建。(大河財立方)
+
+---
+
+### 2026-06-05 07:39:25  #公司
+
+【證券日報：警惕併購重組中的非理性溢價】近日，一家主營光通訊領域的A股上市公司釋出公告稱，終止籌劃以“發行股份+現金”方式收購同業細分標的企業股權的資產重組事項。深究背後原因，系雙方在標的資產估值上分歧過大，難以調和，一場有望實現雙向增益的產業鏈併購就此作罷。據筆者不完全統計，年內因同樣原因終止的重組專案還有5單。在產業併購熱情持續升溫的背景下，部分細分熱門賽道標的估值脫離基本面、溢價居高不下，已成為一些併購專案半路夭折的重要誘因。
+
+---
+
+### 2026-06-05 07:37:59  #公司
+
+【夏日高溫催熱“防曬經濟”，上市公司多元化掘金細分賽道】6月以來，全國多地氣溫突破35攝氏度，部分地區入夏偏早、高溫強度大。“防曬經濟”隨之升溫，從防曬霜到防曬衣、遮陽傘等“硬防曬”裝備需求旺盛，A股相關上市公司進入年度銷售旺季。 面對消費者日益精細化的需求，企業不再依賴單一品類，而是透過技術迭代、場景拓展和材料創新，在這一藍海市場中挖掘多元增長點。（上海證券報）
+
+---
+
+### 2026-06-05 07:37:54  #市場 #焦點
+
+紐約期金失守4490美元/盎司，日內跌0.33%。
+
+---
+
+### 2026-06-05 07:37:20  #Trading Economics #Economy #Japan #Household Spending #Importance 1
+
+Japan Personal Spending Falls the Least in 5 Months — Household spending in Japan dropped 0.5% yoy in April 2026, easing from a 2.9% decline in the prior month and beating market expectations for a 1.5% fall. While this marked the fifth straight month of contraction, it was also the mildest decline in the sequence, suggesting that easing inflationary pressures may be helping to support consumer spending. Expenditure on food fell at a slower pace, (-0.5% vs -2.9% in March) while spending increasing for transport and communication (7.5% vs -16.8%), housing (7.6% vs 15.3%), furniture and household goods (19.0% vs 5.5%), healthcare (6.7% vs 20.1%), and culture and recreation (6.3% vs 4.6%). In contrast, outlays weakened further on clothing and footwear (-10.9% vs -2.6%) and utilities (-8.6% vs -3.2%). Education spending also shrank, down 19.4% after a 2.1% increase in March. On a seasonally adjusted monthly basis, household expenditure rose 1.6%, rebounding from a 1.3% fall in March and exceeding forecasts of a 0.8% increase.
+
+---
+
+### 2026-06-05 07:37:19  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+South Korea's finance minister said authorities will take appropriate measures if exchange-rate volatility intensifies or infary pressures worsen.
+
+---
+
+### 2026-06-05 07:36:49  #Trading Economics #Economy #Japan #Wage Growth #Importance 2
+
+Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month.
 
 ---
 
@@ -23762,95 +23804,5 @@ FTSE 100 Falls on Wednesday — The FTSE 100 fell 0.3% on Wednesday, as rising o
 ### 2026-06-03 23:37:10  #MKT News #JEF.O #Impact bullish
 
 【Short SpaceX? Investors flock to JEFFERIES after bank absent from IPO syndicate】Hedge funds that did not invest in SpaceX are contacting JEFFERIES to explore arranging short positions after the IPO, and some bearish investors and senior JEFFERIES managers view the non‑participation as an opportunity, according to people familiar with the matter. As the largest U.S. bank excluded from the 23‑bank underwriting group, JEFFERIES is uniquely positioned to facilitate such trades; lawyers and compliance teams typically flag conflicts when different divisions take opposite client positions, and if any underwriters were to engage in shorting, Elon Musk’s reaction would be unpredictable.
-
----
-
-### 2026-06-03 23:37:04  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities closed lower on June 3: Germany's DAX fell 305.57 points (-1.22%) to 24,811.29; FTSE 100 declined 42.09 points (-0.41%) to 10,331.42; France's CAC 40 dropped 58.67 points (-0.71%) to 8,150.42; Stoxx Europe 50 fell 51.90 points (-0.85%) to 6,055.95; Spain's IBEX 35 slipped 92.28 points (-0.51%) to 18,179.72; Italy's FTSE MIB lost 494.04 points (-0.98%) to 50,084.50.
-
----
-
-### 2026-06-03 23:36:46  #其他
-
-【剛果（金）東北部發生沉船事故致60多人失蹤】據剛果（金）媒體3日報道，剛果（金）東北部喬波省2日發生一起沉船事故，造成60多人失蹤。（新華社）
-
----
-
-### 2026-06-03 23:33:28  #MKT News
-
-【Iran parliament security committee chair: halting fighting on all fronts is priority in Iran-US talks】On the 3rd, Ebrahim Azizi, chair of Iran’s Parliament National Security and Foreign Policy Committee, said halting hostilities on all fronts is the primary item in negotiations with the US. He said Iran will not allow the US or Israel to break the unity of the "resistance front", asserted the resistance front will prevail, and said that by working together "destroying Israel" can be achieved.
-
----
-
-### 2026-06-03 23:33:00  #MKT News
-
-U.S. 4-month Treasury auction as of June 3: 93.35% of allotment at the stop-out yield; prior 25.59%.
-
----
-
-### 2026-06-03 23:32:47  #MKT News #US10Y #Impact bullish
-
-US 4-month Treasury auction on June 3 bid-cover ratio 3.15, versus 3.01 previously.
-
----
-
-### 2026-06-03 23:32:44  #MKT News #US10Y #Impact bearish #DXY #Impact bullish
-
-US 4-month Treasury auction on June 3 stop-out yield 3.635%, prior 3.63%.
-
----
-
-### 2026-06-03 23:32:38  #宏觀 #市場 #國際
-
-美國財政部拍賣四個月期國債，得標利率3.635%，投標倍數3.15。
-
----
-
-### 2026-06-03 23:32:36  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.3) | actual 3.15 | previous 3.01
-
----
-
-### 2026-06-03 23:32:30  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Jun.3) | actual 3.635% | previous 3.63%
-
----
-
-### 2026-06-03 23:31:04  #MKT News #Commodities #Precious Metals
-
-Spot palladium fell 3% to $1,329 an ounce.
-
----
-
-### 2026-06-03 23:30:40  #Trading Economics #Economy #Colombia #Exports YoY #Importance 1
-
-Colombia Exports Rise in April — Colombia’s exports rose 11.7% year-on-year to $4.6 billion in April 2026, following a 20.9% increase in March. The expansion was mainly driven by a 46.2% rise in exports of fuels and extractive industry products, supported by a 72.3% surge in shipments of petroleum and petroleum-related products. Exports from the other sectors category jumped 78.3%, entirely due to higher sales of non-monetary gold. In contrast, manufactured exports fell 8.3%, weighed down by lower shipments of machinery and transport equipment (-24.8%) and manufactured goods classified chiefly by material (-10.4%). Agricultural products, food, and beverages exports declined 27%, largely reflecting weaker sales of unroasted coffee (-49.9%) and cut flowers and foliage (-20%). In the first four months of 2026, Colombian exports totaled $18.4 billion, up 14.5% from the same period a year earlier.
-
----
-
-### 2026-06-03 23:30:40  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces chief of staff said IDF forces in Lebanon will not observe a ceasefire and that the military is taking offensive action, conducting operations and striking all threats.
-
----
-
-### 2026-06-03 23:30:30  #其他
-
-德國DAX 30指數初步收跌1.33%，報24789.85點。法國股指初步收跌0.60%，義大利股指初步收跌0.88%、銀行指數跌1.48%，英國股指初步收跌0.40%。
-
----
-
-### 2026-06-03 23:30:22  #國際
-
-歐洲STOXX 600指數初步收跌0.63%，報621.40點。歐元區STOXX 50指數初步收跌0.82%，報6058.21點。富時泛歐績優300指數初步收跌0.67%，報2480.64點。
-
----
-
-### 2026-06-03 23:30:12  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Italy 10Y Bond Yield Rises by 10 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (10.17bps), Japan 10Y (8.04bps), Germany 10Y (6.35bps) and US 10Y (4.70bps).
 
 ---

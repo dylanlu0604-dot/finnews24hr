@@ -1,7 +1,83 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 22:14:36_
-_本檔包含 3521 則快訊，約 700415 字_
+_更新時間：2026-06-06 23:05:11_
+_本檔包含 3516 則快訊，約 700376 字_
+
+---
+
+### 2026-06-01 21:00:30  #其他
+
+【《供水條例》施行】記者從水利部瞭解到，《供水條例》自6月1日起施行，《城市供水條例》同時廢止。《供水條例》於今年2月公佈。基於推進城鄉融合發展、平等保障城鄉居民飲用水權利等需要，條例在原《城市供水條例》的基礎上，將農村供水納入其中，將促進城鄉供水在規劃佈局、設施建設、管理服務等方面標準統一、制度並軌、相互融合、共同發展，推動城鄉供水“同源、同網、同質、同監管、同服務”。（新華社）
+
+---
+
+### 2026-06-01 21:00:03  #市場 #焦點
+
+焦煤連續主力合約日內漲2%，現報1375.00元。
+
+---
+
+### 2026-06-01 21:00:02  #市場
+
+【國內期貨夜盤開盤】集運指數歐線期貨連續漲11.69%，雞蛋連續漲4.72%，多晶矽連續漲3.38%，菜籽連續漲3.03%，紅棗連續漲2.24%，瀝青連續漲2.05%。
+
+---
+
+### 2026-06-01 20:59:28  #公司 #國際
+
+資料顯示，俄羅斯能源巨頭俄羅斯天然氣工業股份公司5月經土耳其溪海底管道向歐洲輸送的天然氣日均氣量達4740萬立方米，同比增長3%。烏克蘭與俄羅斯為期五年的供氣協議於2025年1月到期且未續約，此後土耳其成為俄羅斯天然氣輸往歐洲僅剩的中轉通道。
+
+---
+
+### 2026-06-01 20:59:26  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
+
+【MOFCOM launches 2026 Service Consumption Season】MOFCOM launched the 2026 Service Consumption Season in Hangzhou on June 1, issuing a national plan to boost service-sector consumption. China Media Group unveiled a package of innovation measures to promote service consumption. Zhejiang province and Hangzhou city published action plans focused on quality upgrades and high‑quality development of services. The MOFCOM Research Institute, International Business Daily and the China Hotel Association released the China Service Consumption Development Report (2025) plus case studies on diversified consumption scenarios and new “accommodation+” leisure‑resort models. Platform firms including Meituan and Alipay announced support measures and action plans to back service consumption growth.
+
+---
+
+### 2026-06-01 20:58:42  #其他
+
+突尼西亞國家農業辦公室：11 月至次年 4 月橄欖油出口收入達 12.5 億美元。
+
+---
+
+### 2026-06-01 20:58:26  #宏觀
+
+【商務部啟動2026年“服務消費季”活動】6月1日，2026年“服務消費季”活動在浙江省杭州市啟動。商務部副部長鄢東、中央廣播電視總檯副臺長餘俊生、浙江省副省長張雁雲以及文化和旅遊部等部門有關司局負責同志出席啟動儀式。
+
+為深入貫徹黨中央、國務院關於促進服務消費高質量發展的決策部署，落實全國服務業大會精神，擴大優質服務供給，促進服務消費提質惠民，商務部牽頭開展2026年“服務消費季”系列促消費活動，以“樂享美好服務，共創幸福生活”為主題，圍繞居民日常生活需要、高品質生活追求、多樣化消費需求，發揮各地方、有關部門、行業協會、平臺企業合力，貫穿全年舉辦160餘場特色服務消費促進活動，培育場景豐富、層次分明、覆蓋廣泛的服務消費促進活動體系，進一步釋放服務消費潛能。
+
+啟動儀式上，商務部發布2026年全國“服務消費季”活動方案，中央廣播電視總檯釋出促進服務消費系列創新舉措，浙江省、杭州市分別釋出服務消費提質惠民四大行動、促進服務消費高質量發展創新舉措；商務部研究院、國際商報、中國飯店協會分別釋出《中國服務消費發展報告（2025）》、創新多元化服務消費場景實踐案例、“住宿+”休閒度假新業態新模式新場景典型案例；美團、支付寶等平臺企業釋出支援服務消費發展有關行動方案。
+
+---
+
+### 2026-06-01 20:58:20  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+Stoxx Europe 600 briefly turned positive.
+
+---
+
+### 2026-06-01 20:57:58  #市場 #國際
+
+歐洲斯托克600指數當日短暫轉漲。
+
+---
+
+### 2026-06-01 20:57:48  #國際
+
+資料顯示，5月份俄羅斯對歐洲的管道天然氣出口同比增長3%。
+
+---
+
+### 2026-06-01 20:57:44  #MKT News #Important #WTI #Impact bearish #Brent
+
+According to Iranian state media, President Pezeshkian told Japan's prime minister on a call that Iran is fully prepared to facilitate maritime traffic.
+
+---
+
+### 2026-06-01 20:57:23  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
+
+Chile's Economic Activity Contracts Most Since 2023 — Chile’s IMACEC economic activity index fell 1.2% year-on-year in April 2026, following a 0.2% decline in the previous month and marking the sharpest contraction since March 2023. The downturn was driven by a 5.4% drop in goods-producing sectors, as mining output plunged 11.8% and industrial activity slipped 0.4%. In contrast, trade expanded 2.1%, while services activity edged up 0.8%. On a monthly basis, the IMACEC fell 4.8%, reversing part of the 15.1% surge recorded in March.
 
 ---
 
@@ -21146,107 +21222,5 @@ U.S. Defense Secretary Hegeseth said the Strait of Hormuz should be fully open a
 ### 2026-05-30 23:07:21  #公司
 
 谷歌執行長皮查伊推出Gemini 3.5 Flash，助力企業降低成本，同時預計2026年資本支出最高將達1900億美元。
-
----
-
-### 2026-05-30 23:04:55  #公司
-
-【天涯社群正式上線“天涯重啟者數字徽章”】5月30日，新天涯聯合工作組、成都天涯客網路科技有限公司、天涯好東西（海南）電子商務有限公司透過“天涯客”微信公眾號宣佈，於今日正式上線“天涯重啟者數字徽章”。權益內容顯示，已持有指定數量“天涯重啟者數字徽章”的創世成員，且必須是經資格稽核透過的合格投資者，可自願申請參與由持牌私募管理人海南世元通達私募基金管理有限公司備案管理的專項有限合夥企業，優先間接投資新天涯的股權。成都天涯客網路科技有限公司作為新天涯建設的核心主體，將成為天涯社群公司未來重整計劃的重要戰略投資人。
-
----
-
-### 2026-05-30 23:03:27  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-Rosatom said Ukrainian drones attacked the Zaporizhzhia nuclear plant on Saturday.
-
----
-
-### 2026-05-30 23:03:21  #其他
-
-美軍部署馬迪斯系統，以高價效比方式攔截無人機。
-
----
-
-### 2026-05-30 23:00:35  #公司 #國際
-
-俄羅斯國家原子能公司表示，關鍵裝置未受損，但機房牆面出現一處破洞。
-
----
-
-### 2026-05-30 23:00:17  #公司 #焦點 #國際
-
-俄羅斯國家原子能公司表示，烏克蘭無人機於週六襲擊了扎波羅熱核電站。
-
----
-
-### 2026-05-30 22:55:28  #觀點
-
-摩根大通此前因一筆642.50美元的熟食拼盤報銷費用解僱一名員工，如今法院裁定該行需向這名前員工賠付425萬美元。 銀行方面辯稱，這份餐食是用於私人超級碗派對，而事實是該消費專案早已獲批，實際用於商務會議。
-
----
-
-### 2026-05-30 22:50:46  #兩會
-
-【雲南：各類規劃避免趕時髦亂造概念，防止自行冠以“中心”“樞紐”稱號】近日，雲南省發展和改革委員會在答覆一則人大代表建議時提到，各類規劃中要審慎論證提出功能定位表述，避免趕時髦、追熱度亂造概念，不提不切實際的目標和口號，防止自行冠以“中心”“樞紐”等稱號。
-
----
-
-### 2026-05-30 22:49:32  #公司
-
-【上交所：對*ST網達及有關責任人予以通報批評】上交所釋出對上海網達軟體股份有限公司及有關責任人予以通報批評的決定：公司年度業績是投資者關注的重大事項，可能對公司股票價格及投資者決策產生重大影響。公司營業收入是否低於3億元、扣非後淨利潤是否為負直接影響投資者對公司股票是否被實施退市風險警示的判斷，但公司業績預告相關資訊披露不準確，影響投資者合理預期，違反了有關規定。時任董事長兼時任總經理馮達作為公司主要負責人、資訊披露第一責任人、日常經營管理事項的具體負責人，時任財務總監沈宇智作為公司財務事項的具體負責人，時任董事會秘書孫琳作為公司資訊披露事項的具體負責人，未能勤勉盡責，對公司違規行為負有責任。上交所決定對上海網達軟體股份有限公司、時任董事長兼時任總經理馮達、時任財務總監沈宇智、時任董事會秘書孫琳予以通報批評。
-
----
-
-### 2026-05-30 22:45:13  #其他
-
-奧地利抗議者封鎖了連線德國和義大利的重要高速公路。
-
----
-
-### 2026-05-30 22:43:43  #其他
-
-【哥倫比亞取消厄瓜多商品關稅，指責其干涉大選】哥倫比亞將取消對厄瓜多商品徵收的關稅，以 “全面恢復雙邊經濟關係的對等性”。哥倫比亞政府譴責厄瓜多總統丹尼爾・諾沃亞的相關舉動，稱其干涉哥倫比亞週末舉行的大選，是 “對不干涉內政原則的公然違反”。厄瓜多今年1月以邊境安全合作不力、跨境犯罪活動增多為由，對哥倫比亞商品加徵關稅，哥倫比亞隨即採取對等報復措施。
-
----
-
-### 2026-05-30 22:39:56  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli Army Radio reported Nahariya was attacked by five missiles; some were intercepted.
-
----
-
-### 2026-05-30 22:38:43  #國際
-
-以色列軍方：納哈里亞市遭5枚導彈襲擊，部分導彈已被攔截。
-
----
-
-### 2026-05-30 22:38:24  #國際
-
-以色列媒體：自今天早上以來，以色列北部每22分鐘就會響起一次空襲警報。
-
----
-
-### 2026-05-30 22:36:12  #MKT News
-
-【Malta holds early parliamentary election】Malta held a snap parliamentary election on the 30th; multiple polls indicate the ruling Labour Party is likely to win a fourth consecutive term.
-
----
-
-### 2026-05-30 22:35:14  #其他
-
-【馬耳他提前舉行議會選舉】馬耳他30日提前舉行議會選舉。多項民調顯示，執政黨工黨有望連續第四次勝選。投票當天7時開始，將於22時結束。馬耳他全國13個選區逾34萬名登記選民將選出新一屆議會議員，選舉正式結果預計將於5月31日公佈。（新華社）
-
----
-
-### 2026-05-30 22:21:01  #MKT News #Market Regions #Greater China
-
-【Guangdong solicits public comment on draft Low-Altitude Economy Development Regulations】The Guangdong Development and Reform Commission has opened public consultation on the draft Low-Altitude Economy Development Regulations. The draft targets key bottlenecks constraining the province’s low-altitude economy and sets targeted institutional measures: establish a coordinated low-altitude airspace operation mechanism to improve airspace utilization; mandate planning, operation, management and renovation for low-altitude infrastructure; strengthen supervision of flight activities and assign low-altitude safety responsibilities; and expand classified low-altitude application scenarios with orderly pilots and promotion of new use cases.
-
----
-
-### 2026-05-30 22:16:52  #國際
-
-【聯合海上資訊中心：美軍仍在封鎖伊朗港口】英國海上貿易行動辦公室30日釋出聯合海上資訊中心的一份通報稱，美軍針對伊朗港口的封鎖目前仍在實施，嚴禁船隻進出伊朗港口。聯合海上資訊中心是一個多國海軍諮詢機構，由美國主導。通報還警告說，針對拒絕服從封鎖指令的船隻，美軍將開火使其失去航行能力或進行摧毀。美國總統特朗普29日在社交媒體上說，對伊朗的海上封鎖“即將被解除”。
 
 ---
