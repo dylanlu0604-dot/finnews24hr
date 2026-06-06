@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-07 04:59:58",
-  "count": 18830,
+  "updated": "2026-06-07 05:03:49",
+  "count": 18831,
   "items": [
+    {
+      "id": "mkt:019e9ebd-b1ea-7665-8314-da96af1e7d59",
+      "time": "2026-06-07 05:01:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US may use Iranian assets to compensate Gulf allies】On June 6, sources said Treasury Secretary Bessent directed a team to assess Gulf allies’ situations and estimate repair costs for damage attributed to Iran. The US intends to use relevant mechanisms to transfer frozen Iranian assets to Gulf partners to fund reconstruction and measures to address potential future damage. The US will also consider whether to use Iranian assets to compensate for past losses, the sources said."
+    },
+    {
+      "id": "4921457",
+      "time": "2026-06-07 05:01:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美或用伊朗資產賠償海灣盟友】當地時間6月6日，據知情人士向媒體透露，美國財政部長貝森特已指示團隊“評估海灣盟國的相關情況，並核算伊朗造成損失的修復成本”。訊息人士稱，美國打算利用相關機制，將凍結的伊朗資產轉交給海灣盟友，用以資助其“應對伊朗未來可能造成的破壞並進行重建與修繕工作”。美方還將考慮是否動用伊朗資產“對過往遭受的損失進行賠償”（CCTV國際時訊）"
+    },
     {
       "id": "4921456",
       "time": "2026-06-07 04:57:28",
@@ -173765,14 +173782,6 @@
         "US10Y"
       ],
       "text": "【US May jobs report due next week expected to show solid gains; unemployment to hold at 4.3%】Bloomberg median economists project May unemployment at 4.3% and nonfarm payrolls up 89,000. That would lift the three-month average job gain to the highest in over a year and reignite debate about accelerating hiring. Forecasts point to continued strength in healthcare, a rebound in construction and leisure & hospitality partly aided by warmer weather, and a potential manufacturing jobs uplift as consumers stockpile goods ahead of possible price spikes from an Iran conflict."
-    },
-    {
-      "id": "4908468",
-      "time": "2026-05-31 05:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方在約旦河西岸佔領區展開密集突襲，猶太定居者的襲擊行為也愈發頻繁。"
     }
   ]
 }
