@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-07 03:41:54",
-  "count": 18812,
+  "updated": "2026-06-07 03:45:38",
+  "count": 18814,
   "items": [
+    {
+      "id": "4921429",
+      "time": "2026-06-07 03:44:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【國際航空運輸協會理事長：預計未來將有更多航空公司破產整合】國際航空運輸協會（IATA）理事長沃爾什表示，受航空燃油價格上漲影響，預計未來將有更多航空公司破產，航空業會出現整合。受監管障礙影響，歐美航空聯盟合併事宜大機率無法推進，中東衝突平息後，海灣地區航企與樞紐將重新奪回市場份額，儘管清潔燃料發展未達預期，航空業機構仍將堅持2050年淨零排放目標。"
+    },
+    {
+      "id": "mkt:019e9e75-c556-7665-8314-87b16e1273f1",
+      "time": "2026-06-07 03:42:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AAL.O",
+        "Impact bearish",
+        "UAL.O",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【IATA director-general: jet-fuel spike to drive airline failures, consolidation】IATA director-general Willie Walsh said rising jet fuel prices are likely to prompt further airline bankruptcies and industry consolidation. He said regulatory barriers make a merger between United Airlines and American Airlines unlikely. Walsh said Gulf carriers and hubs will reclaim market share once the Middle East conflict eases. Despite disappointing progress on sustainable aviation fuel (SAF), IATA remains committed to net-zero emissions by 2050."
+    },
     {
       "id": "4921427",
       "time": "2026-06-07 03:40:20",
