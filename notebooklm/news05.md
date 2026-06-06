@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-06 20:37:42_
-_本檔包含 3513 則快訊，約 700331 字_
+_更新時間：2026-06-06 21:14:27_
+_本檔包含 3517 則快訊，約 699943 字_
+
+---
+
+### 2026-06-01 20:48:41  #公司
+
+【芯聯整合：公司產能利用率保持較高水平】芯聯整合(688469)6月1日在互動平臺回覆稱，公司產能利用率保持較高水平。2025年公司營業收入81.80億元，增速達到25.67%；晶圓年生產量251.27萬片（摺合8英寸），同比增長24.68%；產銷率99.62%。主營產品收入中，車載領域業務貢獻45.43%收入，持續成為公司收入增長的核心支柱。
+
+---
+
+### 2026-06-01 20:46:25  #公司
+
+【湯臣倍健：出資1.3億元參與設立創業投資基金】湯臣倍健公告，公司近日簽署合夥協議，以自有資金1.3億元投資天津礪思星靈創業投資合夥企業（有限合夥），基金總規模6.8億元，公司出資比例19.1176%。該基金募集資金擬專項用於標的專案投資，公司擬透過該基金間接投資專案，以投資金額為限享有投資收益和承擔投資風險。本次投資屬於財務性投資，不構成關聯交易及重大資產重組。
+
+---
+
+### 2026-06-01 20:46:14  #公司
+
+【*ST榮控：撤銷退市風險警示 股票簡稱變更為榮豐控股 日漲跌幅限制變更為10%】*ST榮控公告，公司股票將於2026年6月2日停牌一天，並於2026年6月3日復牌。自2026年6月3日起，公司股票撤銷退市風險警示，股票簡稱由“*ST榮控”變更為“榮豐控股”，證券程式碼仍為“000668”，日漲跌幅限制變更為10%。
+
+---
+
+### 2026-06-01 20:45:39  #市場 #國際
+
+【中東談判繼續之際美債收益率持穩】在重新開放霍爾木茲海峽的談判繼續之際，債券市場表現平靜，儘管美國和伊朗仍在不斷交鋒。本週將公佈一系列勞動力資料，首先是明日的職位空缺和勞動力流動調查報告。根據平均預期，週三的ADP報告預計將顯示私營部門招聘人數增加。週五的就業人數增幅預計將放緩，失業率則持穩於4.3%。西得州中質油上漲3%，重返90美元。美元指數上漲0.1%。10年期國債收益率報4.453%，較週五的4.452%幾乎沒有變化。兩年期國債收益率從4.013%升至4.033%。
+
+---
+
+### 2026-06-01 20:45:21  #國際
+
+【被控貪汙的菲律賓參議員稱將自首】據當地媒體報道，菲律賓參議員興戈伊·埃斯特拉達6月1日表示，在菲律賓反貪法庭對其發出逮捕令後，他將主動向警方投案，並稱不會申請參議院庇護。1日早些時候，菲反貪法庭對埃斯特拉達下達逮捕令，指控其貪汙受賄。（新華社）
+
+---
+
+### 2026-06-01 20:45:06  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran says it will ensure smoother passage of Japanese vessels through the Strait of Hormuz.
+
+---
+
+### 2026-06-01 20:44:50  #公司 #市場
+
+【*ST美芝：股價異常波動 提示多項經營與退市風險】*ST美芝公告稱，公司股票2026年5月29日、6月1日收盤價漲幅偏離值累計超12%，屬異常波動。2026年3月23日至6月1日累計漲幅122.78%，偏離基本面。公司澄清“實際控制人資產注入”等傳聞不實。債權人5月15日申請公司重組，能否受理及達成方案均不確定。公司2025年營收35,256.19萬元，同比降49.91%，淨虧損21,363.30萬元，期末淨資產-5,246.62萬元，股票已被實施退市風險警示，若2026年出現規定情形將終止上市。
+
+---
+
+### 2026-06-01 20:44:42  #公司
+
+【智洋創新：以3億元認購靈明光子9.1463%股權，已簽署增資協議】智洋創新公告，公司此前披露擬終止重大資產重組並變更為戰略投資事項。2026年6月1日，公司第四屆董事會第二十一次會議審議透過，同意與杭州靈明光子科技有限公司及相關股東簽署增資協議及股東協議。公司以人民幣3億元認購靈明光子人民幣33.44萬元的新增註冊資本，對應本次增資完成後基於完全攤薄基礎上共計9.1463%的股權。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議。目前交易尚未完成相關資產的交割及工商變更等事項。
+
+---
+
+### 2026-06-01 20:44:29  #市場
+
+【多晶矽價格暫穩 元件成交重心延續弱勢】週末多晶矽N型復投料報價33-35.7元/千克，上週前期市場仍有少量訂單簽訂，後半程訂單逐漸減少，週末價格暫時穩定，市場觀望展會以及相關會議情況。上週國內元件價格維持下跌走勢，企業競價出貨氛圍再度上升，且目前集中式方面企業報價也開始不斷下降，整體市場成交重心不斷下移，預計後續元件低點有望觸碰0.7元/瓦。 (上海有色網)
+
+---
+
+### 2026-06-01 20:44:13  #焦點 #國際
+
+伊朗：確保日本船隻更便捷地透過霍爾木茲海峽。
+
+---
+
+### 2026-06-01 20:44:00  #公司
+
+【*ST交投：公司股票將於6月3日撤銷退市風險警示和其他風險警示 日漲跌幅限制變更為10%】*ST交投公告，公司股票交易將於2026年6月2日停牌一天，並於6月3日開市起復牌。自6月3日起，公司股票將撤銷“退市風險警示”和“其他風險警示”，證券簡稱由“*ST交投”變更為“交投生態”，證券程式碼不變，日漲跌幅限制由5%變更為10%。
+
+---
+
+### 2026-06-01 20:43:31  #國際
+
+【外媒：歐盟呼籲以色列停止在黎巴嫩的軍事行動升級】據法新社、英國《衛報》等媒體報道，歐盟當地時間1日呼籲以色列停止其在黎巴嫩的軍事行動升級。法新社稱，歐盟外交事務發言人阿努瓦爾·阿努尼表示，“我們呼籲以色列停止其在黎巴嫩的軍事行動升級，並尊重黎巴嫩的主權和領土完整。”（環球網）
+
+---
+
+### 2026-06-01 20:42:52  #公司
+
+【中文線上：張帆、謝廣才、王京京減持計劃實施完畢，合計減持0.0892%股份】中文線上公告，董事張帆、董事兼常務副總經理謝廣才、副總經理兼董事會秘書兼財務總監王京京的股份減持計劃已實施完畢。三人於2026年6月1日透過集中競價方式合計減持公司股份64.97萬股，佔總股本0.0892%。其中，張帆減持18.15萬股，謝廣才減持23.98萬股，王京京減持22.84萬股。減持後，張帆持股54.49萬股（0.07%），謝廣才持股71.96萬股（0.10%），王京京持股68.55萬股（0.09%）。
+
+---
+
+### 2026-06-01 20:42:51  #國際
+
+伊朗媒體：美方研判認為，佔領黎巴嫩南部、從加沙黃線地帶向前推進，再配合海上封鎖，能夠進一步施壓伊朗，迫使伊朗改變立場、被迫屈服。
+
+---
+
+### 2026-06-01 20:42:51  #MKT News #Market Regions #Greater China
+
+【Shanghai to build inland water transport system linking provinces and seaports】Shanghai Mayor Gong Zheng chaired a city executive meeting on June 1 that approved in principle the 2026–2030 implementation plan to create a Yangtze River Delta pilot zone for high-quality inland navigation and an inland water transport connectivity project. The plan calls for accelerated reopening of feeder inland waterways and fast, efficient linkage with maritime trunk routes to form an integrated river–sea–port intermodal network, driven by major projects to fill connectivity gaps and upgrades to port capacity and efficiency to ensure interprovincial links and seaport access. It emphasizes green, low‑carbon and smart development, including clean‑energy vessel pilots and stronger digital platforms to enable “single-application, network-wide clearance” and broader industry digitalization.
 
 ---
 
@@ -21134,71 +21224,5 @@ Al Jazeera reports 10 rockets fired from Lebanon into northern Israel.
 ### 2026-05-30 21:16:14  #國際
 
 【美國人形機器人被曝已投入俄烏戰場 軍事專家：基本不能打仗】據美媒報道，美國基礎未來工業公司已於2月在烏克蘭部署兩臺“幻影”MK-1人形機器人，用於執行偵察任務。該機器人可攜帶40kg載荷，包括手槍、霰彈槍和M-16步槍等。該公司已與美軍簽訂1800萬美元訂單，計劃2027年底前生產5萬臺。軍事專家介紹，從外形和設計理念看，美國幻影MK-1人形機器人基本上不能打仗。（央視網）
-
----
-
-### 2026-05-30 21:09:13  #公司
-
-【豐田回應將中止雷克薩斯下一代純電轎車開發】近日有訊息稱，豐田將中止高檔車品牌“雷克薩斯”純電動轎車“LF-ZC”的量產車型開發。豐田方面回應稱，該資訊屬實，本次車型開發中止的原因是“考慮到市場需求的變化，對公司整體車輛開發專案進行調整的一部分”。豐田還強調，公司只是調整了部分車輛的開發規劃，並不代表放棄BEV（純電動汽車）。（第一財經）
-
----
-
-### 2026-05-30 21:08:57  #公司
-
-【蘇州河部分河段今日起開展水位預降試驗】5月30日，據上海釋出訊息，為進一步提升上海防汛防颱能力，充分發揮蘇州河河道調蓄功能，有效緩解強降雨期間中心城區內澇壓力，市水務局定於近期在蘇州河部分河段開展水位預降試驗。現將有關事項公告如下：
-
----
-
-### 2026-05-30 21:08:40  #MKT News
-
-【SAMR opens consultation on revised anti-pyramid-selling rules, adds online-pyramid provisions】State Administration for Market Regulation (SAMR) has opened a public consultation from May 29 to June 28, 2026, on a draft revision to the Prohibition of Pyramid Selling Regulations. The draft—aimed at updating enforcement and protecting the lawful rights of individuals, legal persons and unincorporated organisations while maintaining market order and social stability—adds dedicated provisions targeting online pyramid selling, tightens prevention and enforcement mechanisms and measures, and increases legal liability for pyramid-selling activities.
-
----
-
-### 2026-05-30 21:07:30  #宏觀
-
-【增設打擊網路傳銷專門內容 《禁止傳銷條例（修訂徵求意見稿）》公開徵求意見】為適應新形勢下打擊整治傳銷工作需要，保護自然人、法人和非法人組織的合法權益，維護市場秩序與社會穩定，市場監管總局組織修訂《禁止傳銷條例》，形成《禁止傳銷條例（修訂徵求意見稿）》，向社會公開徵求意見。此次公開徵求意見時間為2026年5月29日至6月28日。
-
----
-
-### 2026-05-30 21:06:27  #公司 #市場 #國際 #原創
-
-【伯克希爾哈撒韋股票今年迄今跑輸標普500指數16.3%】受熱門科技股推動，標普500指數5月份上漲5.1%，週五收盤創下歷史新高。與之形成鮮明對比的是，伯克希爾哈撒韋公司股價當月基本持平。因此，伯克希爾被廣泛持有的B類股今年迄今已落後標普500指數16.3個百分點，為今年以來最大差值。在3月底，伯克希爾哈撒韋股票僅以1.8個百分點的微弱優勢領先於標普500指數。自那以來，標普500指數在4月和5月飆升超過35%，而伯克希爾哈撒韋股價卻下跌了近11%。22V Research的圖表分析顯示，伯克希爾哈撒韋相對於標普500指數的相對錶現已跌至2007年以來的最低水平。
-
----
-
-### 2026-05-30 20:53:24  #MKT News
-
-【China National Gold Group general manager Yin Changbo meets JD Group CEO Sandy Ran Xu】On May 28, China National Gold Group party secretary, director and general manager Yin Changbo met at the group's headquarters with JD Group SEC vice‑chair and CEO Sandy Ran Xu and his delegation. Yin said China Gold is willing to deepen strategic coordination with JD in digital centralized procurement and supply‑chain management, gold and jewelry sales and brand marketing, digital transformation and technology enablement, logistics, warehousing and security controls, and employee services and corporate culture. Sandy Ran Xu said JD is willing to pursue full‑scope, deep, high‑level cooperation with China Gold on jewelry retail, centralized procurement, supply‑chain construction, warehousing and logistics, and overseas business.
-
----
-
-### 2026-05-30 20:48:40  #公司 #市場 #觀點
-
-【中國黃金集團總經理殷長波會見京東集團CEO許冉一行】5月28日上午，中國黃金集團有限公司黨委副書記、董事、總經理殷長波在集團總部會見了京東集團SEC副主席、京東集團CEO許冉一行。殷長波指出，下一步，中國黃金願與京東集團深化戰略層面協同，在數字化集中採購與供應鏈管理、黃金珠寶銷售與品牌營銷、數字化轉型與科技賦能、物流倉儲與安全管控、員工服務與企業文化建設等方面開展廣泛合作。許冉表示，京東與中金珠寶自2012年開展合作以來，在黃金珠寶零售領域一直保持著密切合作，京東願在黃金珠寶零售、集中採購、供應鏈建設、倉儲物流及海外業務等領域與中國黃金開展全方位、深層次、高水平合作。
-
----
-
-### 2026-05-30 20:45:23  #其他
-
-【小米：MiMo-V2.5實現五大核心突破，降價後仍能實現收支平衡】5月30日，小米MiMo大模型團隊表示，首次完整公開MiMo-V2.5系列大模型API永久降價背後的技術路徑。MiMO-V2.5實現了KVCache 雙池+SWA-aware 字首樹等五大核心突破，降價後仍能維持收支平衡。MiMo對開發者生態的投入持續加碼。日前推出的百萬億Token創造者激勵計劃，總申請人數超54萬人，累計發放100萬億免費Token，摺合人民幣超6500萬元。
-
----
-
-### 2026-05-30 20:43:09  #國際
-
-【印度臨時免除棉花進口關稅，以助力紡織業】印度政府週六表示，印度已臨時取消棉花進口關稅，以增加其龐大紡織業的原料供應。政府在一份宣告中表示，這一臨時豁免舉措將於6月1日至10月30日期間取消現行11%的進口關稅，此舉預計將降低整個紡織和服裝行業的投入成本。印度政府表示，該措施預計將透過改善棉花供應，來為國內紡織製造商（特別是中小企業）提供支援。由於伊朗衝突導致供應鏈中斷，印度紡織業與其他行業一樣，正面臨著投入成本上升的壓力。
-
----
-
-### 2026-05-30 20:41:46  #國際
-
-以色列軍方：我們剛剛攔截了一架從黎巴嫩向以色列北部梅圖拉地區發射的無人機。
-
----
-
-### 2026-05-30 20:38:24  #MKT News
-
-【Chinese PLA delegation head responds to US defense secretary Hegseth's Shangri-La remarks】At the Shangri-La Dialogue, US defense secretary Hegseth referred to the recent US-China leaders' meeting and its consensus. Meng Xiangqing, head of a Chinese PLA expert delegation, said the summit drew strong attention at Shangri-La and underscored that stable US‑China ties matter for regional stability and global peace. He said China expects both sides to implement the leaders' consensus and to guide military-to-military relations toward a healthy, stable and sustainable trajectory.
 
 ---

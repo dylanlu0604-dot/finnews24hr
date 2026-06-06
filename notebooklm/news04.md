@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-06 20:37:42_
-_本檔包含 3641 則快訊，約 700473 字_
+_更新時間：2026-06-06 21:14:27_
+_本檔包含 3643 則快訊，約 700468 字_
+
+---
+
+### 2026-06-02 22:08:27  #公司 #市場 #國際
+
+【20餘隻QDII基金髮布二級市場交易價格溢價風險提示】QDII額度收緊，場內QDII ETF溢價明顯，今日包括華夏日經225ETF、富國納斯達克100ETF、大成納斯達克ETF、華安納斯達克100ETF、華泰柏瑞中韓半導體ETF等20餘隻QDII基金髮布了二級市場交易價格溢價風險提示公告，提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。基金公司表示，若後續二級市場交易價格溢價幅度未有效回落，本基金有權採取向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施以向市場警示風險。（中國基金報）
+
+---
+
+### 2026-06-02 22:08:11  #國際
+
+市場訊息：美國商務部向XLight授予1.5億美元晶片法案激勵資金。
+
+---
+
+### 2026-06-02 22:07:51  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+Norwegian finance minister said NATO has reached its highest level of readiness in decades.
+
+---
+
+### 2026-06-02 22:07:32  #國際
+
+挪威財政大臣：如今管理美國與歐洲之間的緊張關係變得更加困難。
+
+---
+
+### 2026-06-02 22:07:19  #其他
+
+【公募年內淨自購34億，權益基金佔56%，最愛指數基金和港股】公募自購積極性持續高漲。公募排排網資料顯示，截至5月24日，公募機構年內淨申購旗下非貨基金金額達34.52億元。其中發起式基金淨申購金額達13.78億元，佔到淨申購總額的39.92%。股票型基金中，被動指數型基金最受青睞，今年以來淨申購金額達8.37億元，佔到股票型基金淨申購總額的74.8%。從投資方向來看，權益基金中，港股和科技主題基金成淨申購的“重頭戲”，公募機構淨申購旗下含“港股”和“恒生”字眼的港股主題基金2.62億元，佔到權益基金總額的13.52%。（中國基金報）
+
+---
+
+### 2026-06-02 22:07:10  #MKT News #Market Themes #Chip Wars
+
+U.S. Commerce Department awards $150 million in CHIPS Act incentive funding to XLight.
+
+---
+
+### 2026-06-02 22:06:36  #MKT News
+
+Norway's finance minister said managing tensions between the US and Europe has become more difficult.
+
+---
+
+### 2026-06-02 22:06:14  #MKT News #Market Themes #Chip Wars #MRVL.O #Impact bullish
+
+Philadelphia Semiconductor Index rose 4.2%; MARVELL (MRVL.O) jumped 24%, leading the index.
+
+---
+
+### 2026-06-02 22:05:53  #公司 #央行 #國際
+
+【東方匯理下調對美債久期敞口的看法】東方匯理投資研究所“略微”下調了對美債久期敞口的看法，指出美國經濟增長依然具有韌性，且美聯儲在明年之前不會降息。“美債收益率曲線的短端估值偏貴，而長端則面臨財政風險。”這家歐洲最大資產管理公司的固定收益主管Amaury D’Orsay在一份報告中寫道。他補充稱，自己目前更看好通脹掛鉤債券“美聯儲目前處於觀望模式。展望未來，我們預計它將在較長一段時間內維持利率不變，”東方匯理投資研究所負責人Monica Defend 表示，美聯儲在2027年第二季度之前不會重啟降息。
+
+---
+
+### 2026-06-02 22:05:45  #其他
+
+【馬士基推出中國直航澳大利亞的全新Qilin航線】馬士基近期宣佈推出從中國直航澳大利亞的全新Qilin海運服務。該航線連線上海、悉尼和墨爾本，將作為現有連線東北亞和澳大利亞東海岸的Dragon航線的補充。
+
+---
+
+### 2026-06-02 22:05:10  #國際
+
+官方資料顯示，截至5月31日，歐盟2025/26年度棕櫚油進口量為260萬噸，去年同期進口量為275萬噸。
+
+---
+
+### 2026-06-02 22:04:45  #其他
+
+羅馬尼亞敲定採購萊茵金屬防務裝備訂單，總額57億歐元。
+
+---
+
+### 2026-06-02 22:04:25  #MKT News #WTI #Impact bullish #Brent
+
+【Goldman warns US diesel strain could be worst since 2003】Goldman Sachs commodity research co-head Daan Struben said US diesel inventories could fall to a critical roughly 20 days’ supply by August if commercial crude stocks keep declining at recent rates while the Strait of Hormuz is effectively closed. He said US oil stocks have registered the largest eight-week drop on record and diesel inventories are at their lowest since 2003. Conflict involving Iran has cut Persian Gulf shipments through the Strait to near zero, forcing millions of barrels of output offline. US refineries can bridge the gap by drawing down stocks, but a prolonged disruption would tighten the market sharply. EIA data show diesel coverage was about 28 days in the week to May 22, down from roughly 36 days at end-January.
+
+---
+
+### 2026-06-02 22:04:14  #國際
+
+美國6月RCM/TIPP經濟樂觀指數42.5，5月為42.6。美國6月RCM/TIPP六個月經濟前景指數37.1。
+
+---
+
+### 2026-06-02 22:03:57  #MKT News
+
+The Kremlin says Russian President Putin will deliver a major speech at the plenary session of the St. Petersburg International Economic Forum.
+
+---
+
+### 2026-06-02 22:03:53  #市場 #國際
+
+美國10年期國債收益率轉漲，重新整理日高、逼近4.46%，美國職位空缺資料釋出前交投於4.4450%附近。
+
+---
+
+### 2026-06-02 22:03:38  #MKT News #Market Themes #China Tech Giants #Market Regions #Greater China
+
+【Inner Mongolia leaders press Huawei to speed cloud data centre, green compute investment】Inner Mongolia Party Secretary Wang Weizhong and regional government chairman Bao Gang met Huawei SVP Ren Shulu in Hohhot on June 2, urging Huawei to deepen strategic cooperation with the region and accelerate construction of a Huawei Cloud data center. Officials asked Huawei to expand investment in green computing, AI, tech innovation and data trading, and to promote deeper integration of industrial, innovation, supply and talent chains to support new productive forces and high-quality growth. They pledged continued improvements to the business environment to facilitate Huawei and other companies' investment.
 
 ---
 
@@ -21866,95 +21968,5 @@ Israeli broadcaster i24News reported a fourth red-alert air-raid siren in northe
 ### 2026-06-01 20:48:57  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Futures Edge Higher on AI Optimism — Futures tracking the S&P/TSX Composite Index edged up on Monday as enthusiasm around AI helped offset uncertainty surrounding prospects for a peace deal between the US and Iran. Canadian tech stocks are set to track gains on Wall Street after Nvidia unveiled a new advanced processor designed for PCs, further fueling optimism about AI-driven growth. The launch added to strong momentum in technology shares that has helped equity markets withstand headwinds from the Iran conflict in recent weeks. Meanwhile, hopes for an imminent peace agreement in the Middle East were tempered by another exchange of military strikes between the two sides. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher, which pressured financial stocks. Gold prices also declined, weighing on mining shares.
-
----
-
-### 2026-06-01 20:48:41  #公司
-
-【芯聯整合：公司產能利用率保持較高水平】芯聯整合(688469)6月1日在互動平臺回覆稱，公司產能利用率保持較高水平。2025年公司營業收入81.80億元，增速達到25.67%；晶圓年生產量251.27萬片（摺合8英寸），同比增長24.68%；產銷率99.62%。主營產品收入中，車載領域業務貢獻45.43%收入，持續成為公司收入增長的核心支柱。
-
----
-
-### 2026-06-01 20:46:25  #公司
-
-【湯臣倍健：出資1.3億元參與設立創業投資基金】湯臣倍健公告，公司近日簽署合夥協議，以自有資金1.3億元投資天津礪思星靈創業投資合夥企業（有限合夥），基金總規模6.8億元，公司出資比例19.1176%。該基金募集資金擬專項用於標的專案投資，公司擬透過該基金間接投資專案，以投資金額為限享有投資收益和承擔投資風險。本次投資屬於財務性投資，不構成關聯交易及重大資產重組。
-
----
-
-### 2026-06-01 20:46:14  #公司
-
-【*ST榮控：撤銷退市風險警示 股票簡稱變更為榮豐控股 日漲跌幅限制變更為10%】*ST榮控公告，公司股票將於2026年6月2日停牌一天，並於2026年6月3日復牌。自2026年6月3日起，公司股票撤銷退市風險警示，股票簡稱由“*ST榮控”變更為“榮豐控股”，證券程式碼仍為“000668”，日漲跌幅限制變更為10%。
-
----
-
-### 2026-06-01 20:45:39  #市場 #國際
-
-【中東談判繼續之際美債收益率持穩】在重新開放霍爾木茲海峽的談判繼續之際，債券市場表現平靜，儘管美國和伊朗仍在不斷交鋒。本週將公佈一系列勞動力資料，首先是明日的職位空缺和勞動力流動調查報告。根據平均預期，週三的ADP報告預計將顯示私營部門招聘人數增加。週五的就業人數增幅預計將放緩，失業率則持穩於4.3%。西得州中質油上漲3%，重返90美元。美元指數上漲0.1%。10年期國債收益率報4.453%，較週五的4.452%幾乎沒有變化。兩年期國債收益率從4.013%升至4.033%。
-
----
-
-### 2026-06-01 20:45:21  #國際
-
-【被控貪汙的菲律賓參議員稱將自首】據當地媒體報道，菲律賓參議員興戈伊·埃斯特拉達6月1日表示，在菲律賓反貪法庭對其發出逮捕令後，他將主動向警方投案，並稱不會申請參議院庇護。1日早些時候，菲反貪法庭對埃斯特拉達下達逮捕令，指控其貪汙受賄。（新華社）
-
----
-
-### 2026-06-01 20:45:06  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran says it will ensure smoother passage of Japanese vessels through the Strait of Hormuz.
-
----
-
-### 2026-06-01 20:44:50  #公司 #市場
-
-【*ST美芝：股價異常波動 提示多項經營與退市風險】*ST美芝公告稱，公司股票2026年5月29日、6月1日收盤價漲幅偏離值累計超12%，屬異常波動。2026年3月23日至6月1日累計漲幅122.78%，偏離基本面。公司澄清“實際控制人資產注入”等傳聞不實。債權人5月15日申請公司重組，能否受理及達成方案均不確定。公司2025年營收35,256.19萬元，同比降49.91%，淨虧損21,363.30萬元，期末淨資產-5,246.62萬元，股票已被實施退市風險警示，若2026年出現規定情形將終止上市。
-
----
-
-### 2026-06-01 20:44:42  #公司
-
-【智洋創新：以3億元認購靈明光子9.1463%股權，已簽署增資協議】智洋創新公告，公司此前披露擬終止重大資產重組並變更為戰略投資事項。2026年6月1日，公司第四屆董事會第二十一次會議審議透過，同意與杭州靈明光子科技有限公司及相關股東簽署增資協議及股東協議。公司以人民幣3億元認購靈明光子人民幣33.44萬元的新增註冊資本，對應本次增資完成後基於完全攤薄基礎上共計9.1463%的股權。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議。目前交易尚未完成相關資產的交割及工商變更等事項。
-
----
-
-### 2026-06-01 20:44:29  #市場
-
-【多晶矽價格暫穩 元件成交重心延續弱勢】週末多晶矽N型復投料報價33-35.7元/千克，上週前期市場仍有少量訂單簽訂，後半程訂單逐漸減少，週末價格暫時穩定，市場觀望展會以及相關會議情況。上週國內元件價格維持下跌走勢，企業競價出貨氛圍再度上升，且目前集中式方面企業報價也開始不斷下降，整體市場成交重心不斷下移，預計後續元件低點有望觸碰0.7元/瓦。 (上海有色網)
-
----
-
-### 2026-06-01 20:44:13  #焦點 #國際
-
-伊朗：確保日本船隻更便捷地透過霍爾木茲海峽。
-
----
-
-### 2026-06-01 20:44:00  #公司
-
-【*ST交投：公司股票將於6月3日撤銷退市風險警示和其他風險警示 日漲跌幅限制變更為10%】*ST交投公告，公司股票交易將於2026年6月2日停牌一天，並於6月3日開市起復牌。自6月3日起，公司股票將撤銷“退市風險警示”和“其他風險警示”，證券簡稱由“*ST交投”變更為“交投生態”，證券程式碼不變，日漲跌幅限制由5%變更為10%。
-
----
-
-### 2026-06-01 20:43:31  #國際
-
-【外媒：歐盟呼籲以色列停止在黎巴嫩的軍事行動升級】據法新社、英國《衛報》等媒體報道，歐盟當地時間1日呼籲以色列停止其在黎巴嫩的軍事行動升級。法新社稱，歐盟外交事務發言人阿努瓦爾·阿努尼表示，“我們呼籲以色列停止其在黎巴嫩的軍事行動升級，並尊重黎巴嫩的主權和領土完整。”（環球網）
-
----
-
-### 2026-06-01 20:42:52  #公司
-
-【中文線上：張帆、謝廣才、王京京減持計劃實施完畢，合計減持0.0892%股份】中文線上公告，董事張帆、董事兼常務副總經理謝廣才、副總經理兼董事會秘書兼財務總監王京京的股份減持計劃已實施完畢。三人於2026年6月1日透過集中競價方式合計減持公司股份64.97萬股，佔總股本0.0892%。其中，張帆減持18.15萬股，謝廣才減持23.98萬股，王京京減持22.84萬股。減持後，張帆持股54.49萬股（0.07%），謝廣才持股71.96萬股（0.10%），王京京持股68.55萬股（0.09%）。
-
----
-
-### 2026-06-01 20:42:51  #國際
-
-伊朗媒體：美方研判認為，佔領黎巴嫩南部、從加沙黃線地帶向前推進，再配合海上封鎖，能夠進一步施壓伊朗，迫使伊朗改變立場、被迫屈服。
-
----
-
-### 2026-06-01 20:42:51  #MKT News #Market Regions #Greater China
-
-【Shanghai to build inland water transport system linking provinces and seaports】Shanghai Mayor Gong Zheng chaired a city executive meeting on June 1 that approved in principle the 2026–2030 implementation plan to create a Yangtze River Delta pilot zone for high-quality inland navigation and an inland water transport connectivity project. The plan calls for accelerated reopening of feeder inland waterways and fast, efficient linkage with maritime trunk routes to form an integrated river–sea–port intermodal network, driven by major projects to fill connectivity gaps and upgrades to port capacity and efficiency to ensure interprovincial links and seaport access. It emphasizes green, low‑carbon and smart development, including clean‑energy vessel pilots and stronger digital platforms to enable “single-application, network-wide clearance” and broader industry digitalization.
 
 ---
