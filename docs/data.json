@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-06 17:17:13",
+  "updated": "2026-06-06 17:21:06",
   "count": 18809,
   "items": [
+    {
+      "id": "mkt:019e9c3b-87cb-7665-8311-a1670989b2cd",
+      "time": "2026-06-06 17:20:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Mehr News Agency quoted Sadeq Amoli Larijani, chairman of Iran's Council of National Interests, saying any agreement with the United States on nuclear talks and regional issues must embody a major strategic shift at both regional and international levels."
+    },
     {
       "id": "4921226",
       "time": "2026-06-06 17:12:43",
@@ -173565,19 +173577,6 @@
         "國際"
       ],
       "text": "【多名特斯拉前員工坦言不信賴FSD：給錢也不會坐Robotaxi】5 月 28 日，路透社釋出了《為什麼特斯拉的 AI 培訓師不信任其自動駕駛技術及安全統計資料》長篇特別報道，其中提到，連參與特斯拉自動駕駛技術開發的人，似乎也不相信馬斯克對特斯拉自動駕駛能力的誇張表述。 路透社採訪了 9 名前資料標註員和 1 名前自動駕駛工程師，詢問他們如何看待特斯拉 FSD。受訪者的反饋幾乎一邊倒地負面，7 名資料標註人員承認，自己不會乘坐開啟 FSD 的特斯拉。 一名特斯拉內部人士表示：“我們都見過 FSD 出問題。”他在談到馬斯克宣稱特斯拉汽車已經可以進行“安全的無人監督”行駛時也表示：“絕對不要相信埃隆。” 一名前員工更是直言不諱：特斯拉 Robotaxi“給我錢我也不會坐”。 至少 5 名資料標註員爆料稱，自己當時的工作是檢查大量 FSD 行車影像，並用影像訓練車輛軟體，避免車輛重複過去的錯誤。他們表示，自己經常看到特斯拉超速行駛，但與某些極端場景問題相比，工程師和管理人員“似乎”並不把超速問題放在較高優先順序。（IT之家）"
-    },
-    {
-      "id": "mkt:019e782c-9a33-7bb7-9968-fd0b8f6696f6",
-      "time": "2026-05-30 17:17:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【CPCA's Cui Dongshu: China ~31% of global car sales in Jan-Apr 2026】CPCA secretary-general Cui Dongshu said global auto sales in 2025 were 96.89 mln units, up 6% YoY. World sales in April 2026 were 7.99 mln, up 4% YoY; Jan–Apr 2026 totaled 30.96 mln, up 1% YoY. Early-year growth was weak as the US and China posted relative declines. China’s share of global auto sales fell to 30.9% in Jan–Apr 2026 from 35.4% in 2025, a decline Cui attributes largely to Spring Festival timing. He said policy stimulus effects are re-emerging and China’s auto market is expected to gradually strengthen from H2."
     }
   ]
 }
