@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-06 10:50:13",
-  "count": 18775,
+  "updated": "2026-06-06 10:54:09",
+  "count": 18777,
   "items": [
+    {
+      "id": "4920965",
+      "time": "2026-06-06 10:52:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東A級納稅人近百萬戶 創歷史新高】廣東2025年度納稅繳費信用評價結果近日正式出爐：廣東地區(不含深圳)參評戶數達543萬戶，較上年增加87萬戶，同比增長19%；其中A級納稅人達95.4萬戶，同比增長115.80%，創歷史新高。（中新網）"
+    },
+    {
+      "id": "4920964",
+      "time": "2026-06-06 10:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農銀匯理基金迎新“掌門人”：44歲孫建坤出任總經理，程昆因工作變動離任】農銀匯理基金管理有限公司公告稱，程昆因工作變動離任公司總經理職位，由孫建坤接任公司總經理一職，任職日期為2026年6月5日。事實上，此番總經理變更此前早有鋪墊。今年3月，農銀匯理基金公告稱，總經理程昆因近期參加集中培訓無法履職，公司董事會決定暫由董事長黃濤代行總經理職務，任職日期為3月13日。據悉，程昆將回歸農行總行。"
+    },
+    {
+      "id": "4920963",
+      "time": "2026-06-06 10:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：印尼的財政狀況良好。"
+    },
+    {
+      "id": "mkt:019e9ad6-f3ab-7665-830f-6d4fe7c57a58",
+      "time": "2026-06-06 10:50:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Chinese team identifies neural mechanism linking memory reactivation to sleep dynamics】Researchers at the Beijing Academy of Artificial Intelligence (BAAI) and Tsinghua University report that memory reactivation during sleep helps regulate sleep dynamics, providing experimental evidence of bidirectional memory–sleep interactions; the study is published in Science. BAAI said it has developed Brainμ0, a multimodal foundational model aimed at unifying heterogeneous, high-throughput, long-duration neural data, and will continue advancing the Brainμ series to integrate AI with cross-scale basic neuroscience research."
+    },
     {
       "id": "4920947",
       "time": "2026-06-06 10:47:06",
@@ -173198,24 +173232,6 @@
         "Impact bullish"
       ],
       "text": "【CATL chief scientist Wu Kai: sodium‑ion batteries to reach mass production this year; next focus lithium‑air R&D】Wu Kai, chief scientist at CATL and an academician of the Chinese Academy of Engineering, said CATL will put a series of sodium‑ion battery products into mass production this year, noting sodium‑ion batteries use more abundant, lower‑cost raw materials than lithium‑ion batteries. He said CATL will next focus on lithium‑air battery R&D; lithium‑air uses a lithium anode and ambient oxygen as the cathode reactant, offers ultra‑high theoretical energy density, and will be a focal point in next‑generation global battery competition."
-    },
-    {
-      "id": "4908052",
-      "time": "2026-05-30 10:51:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受中東戰事波及 日本乙烯工廠開工率創新低】由於霍爾木茲海峽航運遇阻嚴重影響日本石油及其重要衍生品石腦油進口，日本4月乙烯工廠開工率創有可比資料以來新低。（新華社）"
-    },
-    {
-      "id": "mkt:019e76ca-1031-7bb7-9967-a83736cf000f",
-      "time": "2026-05-30 10:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【State Council approves Hong Kong, Macau yachts' intra‑GBA free navigation】May 29 — The State Council approved immediate, temporary adjustments to the implementation of the Regulations on Customs Affairs Guarantees and the Regulations on Ship Registration to allow Hong Kong and Macau yachts to enter and exit the mainland via designated ports in the nine mainland Guangdong–Hong Kong–Macao Greater Bay Area cities without a customs guarantee and to obtain temporary vessel nationality registration, provided they remain limited to travel within those nine mainland GBA cities."
     }
   ]
 }
