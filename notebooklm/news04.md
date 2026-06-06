@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:36:50_
-_本檔包含 3654 則快訊，約 702604 字_
+_更新時間：2026-06-07 07:04:29_
+_本檔包含 3657 則快訊，約 702857 字_
+
+---
+
+### 2026-06-02 23:14:51  #市場 #央行 #其他 #焦點 #國際
+
+歐洲央行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，美國國債的同期佔比降至22%，黃金成為全球官方儲備第一大資產。
+
+---
+
+### 2026-06-02 23:14:21  #MKT News #Market Regions #Greater China
+
+【Tianjin Port Group and Shenzhen Port Group sign strategic cooperation framework】June 1 — Tianjin Port Group and Shenzhen Port Group signed a strategic cooperation framework in Tianjin. Under the agreement, the groups will leverage regional advantages and deepen cooperation on port–shipping coordination, smart upgrades, green transition and diversified business expansion. They plan to share resources and complementary strengths to advance joint project implementation.
+
+---
+
+### 2026-06-02 23:14:20  #公司
+
+【天津港集團與深圳港集團簽署戰略合作框架協議】6月1日，天津港集團與深圳港集團在津簽署戰略合作框架協議。根據協議，雙方將充分發揮區域優勢，聚焦港航協同、智慧升級、綠色轉型及多元業務拓展等領域深化合作，透過資源共享與優勢互補，攜手推動合作專案落地見效，實現互利共贏、協同發展。
+
+---
+
+### 2026-06-02 23:13:53  #國際
+
+【以色列或成美伊協議落實最大障礙】美國總統特朗普和以色列總理內塔尼亞胡當地時間6月1日再通電話。特朗普稱通話“富有成效”，促成了以色列和黎巴嫩真主黨停止交火。但內塔尼亞胡在通話後釋出的社媒帖文中卻依舊保持強硬語氣。美媒更是爆料稱這通電話“火藥味十足”，稱“特朗普怒斥內塔尼亞胡”。美以各執一詞是出於何種原因？美國能否有效約束以色列？美以分歧又將如何影響美國與伊朗的談判前景？#時訊問答#中國國際問題研究院助理研究員李子昕分析指出，美以看似不同的表述，反映出的其實是雙方對於當前地區局勢的優先戰略考量，以及自身政治議程的現實需要。而美國確實有能力來約束以色列的行動，但這種能力是有限度的、有條件的，而且難以改變以色列的戰略目標。不排除以色列會對未來的美伊協議不承認、不接受，完全按照自身的政治議程來行事。（CCTV國際時訊）
 
 ---
 
@@ -22015,11 +22039,5 @@ TAYLOR MORRISON股價上漲22.4%，此前伯克希爾哈撒韋宣佈將以68億�
 ### 2026-06-01 21:43:09  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Prices Rise More than 5% — WTI crude oil futures surged more than 5% to nearly $93 per barrel on Monday after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating military operations in Lebanon. According to the semi official Tasnim news agency, Iran’s negotiating team will halt talks and the exchange of documents through mediators, accusing Washington of sending mixed signals and prolonging negotiations. Earlier in the day, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development raised concerns about the prospects for an interim peace agreement, particularly as US and Iranian forces were involved in fresh clashes near the Strait of Hormuz. President Donald Trump nevertheless said talks with Tehran would “work out well,” despite the renewed tensions.
-
----
-
-### 2026-06-01 21:42:48  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Drops as Rate Hike Fears Weigh on Markets — Silver reversed early gains to trade below $75 an ounce in the first June session, remaining far from the two-month peak of $89.4 seen in mid-May. Rising oil prices, spurred by fresh Iran-US strikes and Iran’s suspension of communications with the US over Israel’s attacks on Lebanon, fueled inflation concerns and reinforced expectations of prolonged higher interest rates. Over the weekend, both sides exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though meaningful progress remains uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention also shifts to this week’s US jobs data and upcoming remarks from Federal Reserve officials.
 
 ---

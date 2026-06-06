@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:36:50_
-_本檔包含 3547 則快訊，約 701496 字_
+_更新時間：2026-06-07 07:04:29_
+_本檔包含 3542 則快訊，約 701337 字_
+
+---
+
+### 2026-06-01 21:42:48  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Drops as Rate Hike Fears Weigh on Markets — Silver reversed early gains to trade below $75 an ounce in the first June session, remaining far from the two-month peak of $89.4 seen in mid-May. Rising oil prices, spurred by fresh Iran-US strikes and Iran’s suspension of communications with the US over Israel’s attacks on Lebanon, fueled inflation concerns and reinforced expectations of prolonged higher interest rates. Over the weekend, both sides exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though meaningful progress remains uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention also shifts to this week’s US jobs data and upcoming remarks from Federal Reserve officials.
 
 ---
 
@@ -21380,41 +21386,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 4、趙樂際對俄羅斯進行正式友好訪問並出席中俄議會合作委員會第十一次會議；
 5、陝西推動縣域經濟高質量發展；
 6、電力市場交易電量同比增長25.6%。
-
----
-
-### 2026-05-31 07:00:48  #國際
-
-真主黨發動大規模火箭彈襲擊，以色列北部陷入一片混亂。
-
----
-
-### 2026-05-31 06:54:58  #國際
-
-【俄稱對烏軍用機場等目標實施叢集打擊】當地時間5月30日，俄羅斯國防部通報稱，過去一天，俄羅斯武裝力量使用陸基和空基遠端高精度武器及攻擊型無人機，對烏克蘭軍用機場、用於支援烏軍的能源、燃料及交通基礎設施實施叢集打擊。俄軍還對148個區域的烏武裝部隊和外國僱傭兵臨時部署點等目標實施打擊。俄防空部隊擊落352架固定翼無人機。烏克蘭無人系統部隊30日通報稱，烏方當天出動無人機對俄羅斯羅斯托夫州一處俄軍陣地實施打擊，摧毀俄軍一套“伊斯坎德爾”導彈系統及兩架圖-142飛機。此外，烏方還對俄方多處燃料基礎設施發動縱深打擊。另據烏總統澤連斯基30日通報，烏國家安全域性力量襲擊了俄羅斯克拉斯諾達爾邊疆區一處石油設施。（央視新聞）
-
----
-
-### 2026-05-31 06:50:42  #國際
-
-【人民日報刊文：美中積極探索正確相處之道將造福世界】不久前舉行的美中元首北京會晤，為推動兩國關係穩定、健康、可持續發展創造了重要條件。去年以來，美中關係雖歷經跌宕起伏，但在雙方共同努力下總體保持穩定。此次美中元首會晤期間，雙方確定了“中美建設性戰略穩定關係”的新定位，為未來3年乃至更長時間的美中關係發展提供戰略指引，也為雙方坦誠溝通、和平共處搭建了戰略框架。當前，人類正處於科技創新和科學發現不斷湧現的新時代。全球科學技術生態體系是相互聯絡、不可分割的整體，美中兩國應堅持透過協商合作化解分歧、找到利益共同點，而不是採取單邊主義和針鋒相對的做法。若美中科技關係處理得當，將充分激發兩國創新活力，拓展科學探索和技術創新邊界，催生更多有價值的突破性成果，更好造福人類社會。
-
----
-
-### 2026-05-31 06:46:56  #國際
-
-【美防長：美伊談判仍在繼續 保留動武選項】當地時間5月30日，美國國防部長赫格塞思在新加坡香格里拉對話會上表示，美方力求美伊談判達成協議，但若雙方談判無果，美方已做好重啟軍事打擊的準備。（央視新聞）
-
----
-
-### 2026-05-31 06:44:34  #國際
-
-週六《耶路撒冷郵報》上的一篇評論文章認為，伊朗在與美國的談判中採用拖延策略，將外交努力變成一個曠日持久的過程，特點是反覆出現的部分進展和重新產生的模糊性。 文章稱，伊朗官員經常在會談中表示朝協議方向邁進，同時避免做出最終承諾，從而形成一種所謂的精心策劃的拖延模式，旨在延長談判並提升談判籌碼。
-
----
-
-### 2026-05-31 06:38:19  #市場 #國際
-
-美國總統特朗普稱，是時候對諾克斯堡價值6670億美元的黃金儲備展開審計了。
 
 ---

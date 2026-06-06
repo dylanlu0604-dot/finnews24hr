@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 06:36:50_
-_本檔包含 4003 則快訊，約 702312 字_
+_更新時間：2026-06-07 07:04:29_
+_本檔包含 4004 則快訊，約 702265 字_
+
+---
+
+### 2026-06-04 01:32:28  #國際
+
+【美國務卿稱格陵蘭島“目前仍屬於丹麥”】當地時間3日，美國國務卿魯比奧在國會聽證會上表示，丹麥自治領地格陵蘭島“目前仍屬於丹麥”，並透露美國正持續與丹麥和格陵蘭島方面就安全與防務問題進行磋商。特拉華州民主黨眾議員麥克布萊德在聽證會上提問，特朗普多次主張美國應擁有格陵蘭島，以更好地保障美國安全，魯比奧是否認同美國必須擁有北約領土才能進行防禦。對此，魯比奧回應稱：“總統的觀點是，如果擁有控制權，防禦會容易得多。”魯比奧表示，美國與丹麥及格陵蘭島的對話正在持續推進，目前已形成每月例行磋商機制。他稱，關於格陵蘭島在集體防禦體系中的作用討論“進展良好”，但拒絕公開透露具體細節。（央視新聞）
+
+---
+
+### 2026-06-04 01:29:04  #國際
+
+【聯合國安理會改選非常任理事國 菲律賓落選】當地時間3日，聯合國大會選舉奧地利、吉爾吉斯斯坦、葡萄牙、千里達及托巴哥、辛巴威為安理會非常任理事國。其中，吉爾吉斯斯坦系經四輪投票選出，其競爭對手菲律賓落選。新當選的安理會非常任理事國任期將從2027年1月1日開始，為期兩年，至2028年12月31日。聯合國安理會由15個理事國組成，其中5個為常任理事國；非常任理事國有10個，任期2年，每年經選舉更換5個，不能連選連任。（央視新聞）
+
+---
+
+### 2026-06-04 01:26:57  #MKT News #Important
+
+Fars News, citing a member of Tehran's negotiating team, reports Iran has not yet sent its response to Washington on the latest US draft.
+
+---
+
+### 2026-06-04 01:26:33  #焦點 #國際
+
+伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員訊息：伊朗尚未向美方遞交針對美方最新草案的回覆。
+
+---
+
+### 2026-06-04 01:25:14  #MKT News
+
+【WHO: DRC 344 confirmed Ebola cases, 60 deaths; Uganda 15 cases, 1 death】On the 3rd, WHO said latest data show the Democratic Republic of Congo has reported 344 confirmed Ebola cases, including 60 deaths. Uganda has reported 15 confirmed cases and 1 death. The outbreak is caused by the Bundibugyo ebolavirus.
 
 ---
 
@@ -24093,29 +24123,5 @@ Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per 
 ### 2026-06-02 23:16:19  #國際
 
 【近10年來首次 俄稱美官方代表團將出席聖彼得堡國際經濟論壇】俄羅斯總統助理烏沙科夫6月2日表示，美國官方代表團將出席第29屆聖彼得堡國際經濟論壇，這是近10年來的首次。美方代表團由美國美術委員會主席羅德尼·庫克率領，他將參加“俄羅斯-美國：文化對話”專題會議。烏沙科夫稱，美國上一次以該級別參會還是在2017年至2018年左右。烏沙科夫透露，普京將於6月5日出席論壇全體會議並發表講話。沙烏地阿拉伯擔任本屆論壇主賓國，烏茲別克總統米爾濟約耶夫將參會。第29屆聖彼得堡國際經濟論壇於6月3日至6日在聖彼得堡舉行，主題為“務實對話——通往穩定未來之路”。（央視新聞）
-
----
-
-### 2026-06-02 23:14:51  #市場 #央行 #其他 #焦點 #國際
-
-歐洲央行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，美國國債的同期佔比降至22%，黃金成為全球官方儲備第一大資產。
-
----
-
-### 2026-06-02 23:14:21  #MKT News #Market Regions #Greater China
-
-【Tianjin Port Group and Shenzhen Port Group sign strategic cooperation framework】June 1 — Tianjin Port Group and Shenzhen Port Group signed a strategic cooperation framework in Tianjin. Under the agreement, the groups will leverage regional advantages and deepen cooperation on port–shipping coordination, smart upgrades, green transition and diversified business expansion. They plan to share resources and complementary strengths to advance joint project implementation.
-
----
-
-### 2026-06-02 23:14:20  #公司
-
-【天津港集團與深圳港集團簽署戰略合作框架協議】6月1日，天津港集團與深圳港集團在津簽署戰略合作框架協議。根據協議，雙方將充分發揮區域優勢，聚焦港航協同、智慧升級、綠色轉型及多元業務拓展等領域深化合作，透過資源共享與優勢互補，攜手推動合作專案落地見效，實現互利共贏、協同發展。
-
----
-
-### 2026-06-02 23:13:53  #國際
-
-【以色列或成美伊協議落實最大障礙】美國總統特朗普和以色列總理內塔尼亞胡當地時間6月1日再通電話。特朗普稱通話“富有成效”，促成了以色列和黎巴嫩真主黨停止交火。但內塔尼亞胡在通話後釋出的社媒帖文中卻依舊保持強硬語氣。美媒更是爆料稱這通電話“火藥味十足”，稱“特朗普怒斥內塔尼亞胡”。美以各執一詞是出於何種原因？美國能否有效約束以色列？美以分歧又將如何影響美國與伊朗的談判前景？#時訊問答#中國國際問題研究院助理研究員李子昕分析指出，美以看似不同的表述，反映出的其實是雙方對於當前地區局勢的優先戰略考量，以及自身政治議程的現實需要。而美國確實有能力來約束以色列的行動，但這種能力是有限度的、有條件的，而且難以改變以色列的戰略目標。不排除以色列會對未來的美伊協議不承認、不接受，完全按照自身的政治議程來行事。（CCTV國際時訊）
 
 ---
