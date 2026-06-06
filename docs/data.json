@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-07 01:02:46",
-  "count": 18803,
+  "updated": "2026-06-07 01:06:42",
+  "count": 18802,
   "items": [
+    {
+      "id": "4921372",
+      "time": "2026-06-07 01:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾和諾德將在2026年美國糖尿病協會年會上，公佈減肥藥Wegovy針對多種心臟代謝疾病療效的最新研究資料。"
+    },
+    {
+      "id": "4921371",
+      "time": "2026-06-07 01:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府劃撥7億美元聯邦資金，扶持美國燃煤電廠，保障人工智慧相關電網穩定執行。"
+    },
+    {
+      "id": "4921370",
+      "time": "2026-06-07 01:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "受美國參議院議程安排導致立法程序延後影響，《清晰度法案》的透過機率降至60%。"
+    },
     {
       "id": "4921369",
       "time": "2026-06-07 01:01:59",
@@ -173513,50 +173537,6 @@
         "Brent"
       ],
       "text": "Israel's Channel 12 reported Hezbollah launched more than 100 rockets and drones."
-    },
-    {
-      "id": "4908410",
-      "time": "2026-05-31 01:05:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織通報，剛果（金）與烏干達境內埃博拉疫情已出現134例確診病例、906例疑似病例，總幹事譚德塞正統籌開展應對工作。"
-    },
-    {
-      "id": "mkt:019e79d8-5647-7bb7-996a-a6f6a9cab627",
-      "time": "2026-05-31 01:04:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's Channel 13 reports Prime Minister Netanyahu will soon convene a security meeting to consider responses to attacks by Hezbollah."
-    },
-    {
-      "id": "mkt:019e79d7-cdd3-7bb7-996a-9df44de731d6",
-      "time": "2026-05-31 01:04:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Channel 12 reported that air-raid sirens in northern Israel sounded more than 130 times over the past few hours."
-    },
-    {
-      "id": "mkt:019e79d7-8678-7bb7-996a-9600f12cc0e3",
-      "time": "2026-05-31 01:03:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel's Channel 12 reported HEZBOLLAH launched attacks on nearly 60 towns in northern Israel within 24 hours."
     }
   ]
 }
