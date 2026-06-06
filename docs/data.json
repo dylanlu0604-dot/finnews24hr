@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-06 19:31:45",
-  "count": 18784,
+  "updated": "2026-06-06 19:35:44",
+  "count": 18782,
   "items": [
+    {
+      "id": "4921262",
+      "time": "2026-06-06 19:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：達成特別軍事行動目標至關重要】俄羅斯總統新聞秘書佩斯科夫6日在第29屆聖彼得堡國際經濟論壇期間表示，就烏克蘭問題，達成特別軍事行動目標、實現自身利益對俄羅斯而言至關重要。佩斯科夫表示，俄羅斯從未對美國“永久解決複雜問題”的能力抱有幻想。他說，美國追求自身國家利益，俄方尊重這一點，但俄羅斯“也有自己的利益”。佩斯科夫還就當前俄美關係表示，美國認為必須先解決烏克蘭問題，然後才能開展同俄羅斯的經濟和文化等合作，但俄方不認同這種觀點。“一旦美國真正準備好恢復俄美關係，我們就會作出回應。”（新華社）"
+    },
     {
       "id": "4921261",
       "time": "2026-06-06 19:27:39",
@@ -173342,32 +173350,6 @@
         "GS.O"
       ],
       "text": "【OpenAI in talks with Citigroup, JP Morgan on IPO participation】People familiar with the matter say OpenAI has discussed potential participation in its upcoming IPO with Citigroup and JP Morgan. Those banks could join Goldman Sachs and Morgan Stanley on the deal, but discussions are non-binding and do not guarantee involvement; other investment banks may also participate."
-    },
-    {
-      "id": "4908272",
-      "time": "2026-05-30 19:35:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：我們攔截了一架從黎巴嫩發射、目標是以色列北部的無人機，一個可疑的空中目標墜落在邊境附近，沒有造成人員傷亡。"
-    },
-    {
-      "id": "mkt:019e78a8-cd97-7bb7-9969-87e5de14c2c6",
-      "time": "2026-05-30 19:33:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baotou launches hydrogen two-wheeler R&D test pilot】May 30, Baotou — A pilot demonstration for hydrogen-powered two-wheelers launched, putting 1,000 Northern Rare Earth-developed \"Xixiao Hydrogen\" rare-earth hydrogen scooters into public, municipal and convenience-service operation. The scooters use a self-developed rare-earth solid-state hydrogen-storage alloy with low-pressure solid-state hydrogen storage and include an intelligent monitoring platform that tracks pressure, temperature and other safety metrics in real time. Northern Rare Earth plans phased, batch rollouts to reach a cumulative 10,000 demonstration vehicles."
-    },
-    {
-      "id": "4908271",
-      "time": "2026-05-30 19:32:51",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【OpenAI據悉討論將花旗和摩根大通納入IPO承銷商名單】據知情人士稱，OpenAI已與花旗集團、摩根大通等銀行討論了參與其即將到來的IPO的事宜。訊息人士稱，花旗集團、摩根大通可能加入高盛集團、摩根士丹利的行列，一同籌備這一上市交易。OpenAI確定承銷商名單，將使其離IPO更近一步。據此前報道，這家ChatGPT的開發公司料將在幾周內以保密形式提交IPO檔案。知情人士稱，與花旗集團和摩根大通磋商，不代表它們最後一定會參與此次IPO。他們還補充說，其他投資銀行也可能最終參與進來。"
     }
   ]
 }
