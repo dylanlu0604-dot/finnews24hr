@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-07 10:38:07",
+  "updated": "2026-06-07 10:42:05",
   "count": 18891,
   "items": [
+    {
+      "id": "mkt:019e9ff3-96c7-7665-8315-ee2fb98ea112",
+      "time": "2026-06-07 10:40:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Russian culture minister: Russia plans to expand film cooperation with China】Russian Culture Minister Lyubimova said at the St. Petersburg International Economic Forum that Russia plans to expand film cooperation with China. She called China’s film industry one of the world’s leaders and said Chinese filmmakers value both commercial returns and the values, morals and traditions conveyed by scripts. Lyubimova added that Russian filmmakers are currently focused on developing the Chinese market, and that securing access to China — rather than box-office receipts — is considered the primary measure of success."
+    },
     {
       "id": "4921618",
       "time": "2026-06-07 10:35:28",
@@ -174206,18 +174216,6 @@
         "國際"
       ],
       "text": "市場訊息：一艘韓國船舶已順利穿越紅海，目前返航途中。這是第六艘取道該航線運輸原油的船隻。"
-    },
-    {
-      "id": "mkt:019e7be6-bdfe-7bb7-996c-c35ad4337d14",
-      "time": "2026-05-31 10:39:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says Pentagon could intervene if US, Iran fail to reach deal】President Trump told Fox on May 30 the US and Iran are close to a 'very good deal' and he expects a 'better deal,' but said he would ask the Pentagon to intervene if no agreement is reached. He warned that if he does not get what he wants 'we will end it another way.' Trump said a signed accord would secure navigation through the Strait of Hormuz and prevent Iran from acquiring nuclear weapons, and added he is not rushing negotiations: 'If you rush you don't get a good deal.'"
     }
   ]
 }
