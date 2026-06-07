@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-07 09:27:00",
-  "count": 18895,
+  "updated": "2026-06-07 09:30:54",
+  "count": 18893,
   "items": [
+    {
+      "id": "4921579",
+      "time": "2026-06-07 09:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際空間站俄艙段維修 專家：漏氣問題加劇 但仍安全】由於國際空間站空氣洩漏問題加劇，兩名俄羅斯宇航員在5日展開維修行動。與此同時，另外5名宇航員一度進入“龍”飛船避險。而在維修行動停止後，避險宇航員又重新回到國際空間站。專家表示，這是出於謹慎考慮，以前也進行過類似的操作。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9fb2-296d-7665-8315-9e332e4ea704",
+      "time": "2026-06-07 09:28:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "688256.SS",
+        "Impact bullish",
+        "300750.SZ",
+        "CSI300"
+      ],
+      "text": "【Korean investors ramp up exposure to Chinese hard tech】Over the past month Korean investors have increased exposure to Chinese hard‑tech A‑shares, with Cambricon, Megmeet, the Hua Xia robotics ETF and CATL among the top picks. AI‑chip leader Cambricon drew nearly $20m of net buys. Several US‑listed China tech ETFs also posted sizable inflows. Foreign asset managers say China’s tech sector combines high growth potential with valuation appeal, prompting accelerated overseas allocation into Chinese technology names."
+    },
+    {
+      "id": "4921578",
+      "time": "2026-06-07 09:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兩區擬啟動住房公積金異地使用】近日，廣州南沙區政府與寶安區政府簽署戰略合作框架協議。兩地將在產業協作、科技創新、人才交流、基礎設施、優質生活圈等多個領域推進全面合作，聯手打造大灣區協同發展新典範，共同支撐“黃金內灣”高質量發展脊樑。此外，依託南沙港和深圳寶安國際機場，兩地協同推動海空聯運發展。例如，探索設定前置倉、探索“國際退貨海運+綜保區合包+空運復出口”跨境電商物流新模式等。（深圳特區報）"
+    },
+    {
+      "id": "4921577",
+      "time": "2026-06-07 09:27:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳首條無人車夜間快遞線路開通】近日，深圳郵政在坪山區成功開通首條無人車夜間快遞配送線路，標誌著其在夜間無人車配送領域邁出關鍵一步。該線路以碧嶺攬投部為起點，直達坪山圓新集包中心，單程6公里，將全天候、智慧化運力精準投向拼多多退換貨等高時效轉運場景，有效提升了夜間物流週轉效率。當晚7時30分，一輛裝載約100件郵件的無人駕駛配送車準時從碧嶺攬投部發車，沿規定線路行駛，30分鐘後即抵達圓新集包中心，全程高效、安全、穩定。該線路被攬投員親切地稱為“夜行快遞員”，是深圳郵政在夜間攬收轉運中的首次成功嘗試。"
+    },
+    {
+      "id": "mkt:019e9fb0-550a-7665-8315-9600a15d9e45",
+      "time": "2026-06-07 09:26:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou Nansha, Shenzhen Bao'an to pilot cross-region use of housing provident fund】Guangzhou's Nansha district and Shenzhen's Bao'an district signed a strategic cooperation framework covering industry, technology, talent exchange, infrastructure and quality-of-life initiatives. The agreement includes plans to pilot cross-region sharing of education resources, cross-area medical cooperation, mutual recognition and connectivity of social security rights, and cross-region use of the housing provident fund."
+    },
     {
       "id": "4921576",
       "time": "2026-06-07 09:25:39",
@@ -174202,83 +174251,6 @@
         "SSE Composite"
       ],
       "text": "China's National Bureau of Statistics said May manufacturing PMI was 50.0%, down 0.3 percentage point MoM, at the 50-point neutral threshold."
-    },
-    {
-      "id": "mkt:019e7ba7-cd9f-7bb7-996c-5281b8f9ef40",
-      "time": "2026-05-31 09:30:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "China composite PMI 50.5 in May, up from 50.1."
-    },
-    {
-      "id": "mkt:019e7ba7-b8d6-7bb7-996c-4ea364eb30d5",
-      "time": "2026-05-31 09:30:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Composite PMI (May) | actual 50.5 | previous 50.1"
-    },
-    {
-      "id": "mkt:019e7ba7-9db6-7bb7-996c-42099751337a",
-      "time": "2026-05-31 09:30:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's official manufacturing PMI was 50.0 in May, matching the expected 50.0 and down from the prior reading of 50.3."
-    },
-    {
-      "id": "mkt:019e7ba7-9b5f-7bb7-996c-3cefb9bbe9a4",
-      "time": "2026-05-31 09:30:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China non-manufacturing PMI stood at 50.1 in May, vs consensus 49.5 and April's 49.4."
-    },
-    {
-      "id": "mkt:019e7ba7-6d81-7bb7-996c-32fc96e3b232",
-      "time": "2026-05-31 09:30:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Official Manufacturing PMI (May) | actual 50 | consensus 50 | previous 50.3"
-    },
-    {
-      "id": "mkt:019e7ba7-59e6-7bb7-996c-2f92ed5a679e",
-      "time": "2026-05-31 09:30:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Non-Manufacturing PMI (May) | actual 50.1 | consensus 49.5 | previous 49.4"
-    },
-    {
-      "id": "4908532",
-      "time": "2026-05-31 09:29:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東：618開場四小時，百大品牌成交額平均增長超五倍】5月30日晚八點，京東618正式開啟，截至零點，該平臺百大品牌成交額同比平均增長超五倍。今年參加京東618的新商家數量同比增長超62%，開場四小時，首次參加京東618的51個新商家成交額破千萬、1516個新商家成交額破百萬。"
     }
   ]
 }
