@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 22:48:42",
-  "count": 18989,
+  "updated": "2026-06-07 22:52:45",
+  "count": 18987,
   "items": [
+    {
+      "id": "4922054",
+      "time": "2026-06-07 22:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長：無論美伊最終能否達成協議，霍爾木茲海峽都將對外開放、免費通行，全球各國均可正常使用。"
+    },
     {
       "id": "4922053",
       "time": "2026-06-07 22:47:22",
@@ -175139,30 +175147,6 @@
         "XAUUSD"
       ],
       "text": "【CNN: Trump revisions to proposed Iran deal push U.S.-Iran talks back one week】CNN reported officials said Trump, after a Friday meeting with advisers, requested revisions to a proposed agreement with Iran that will extend negotiations by one week. Officials did not specify the requested changes but said the president is pushing for tougher language on Iran’s nuclear commitments and guarantees that Iran would reopen the Strait of Hormuz. It is unclear how those wording disputes will be resolved. Axios and the New York Times earlier reported Trump had proposed changes."
-    },
-    {
-      "id": "4908945",
-      "time": "2026-05-31 22:51:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國目前尚未敲定與伊朗達成協議的最終日期及具體截止時限。 斡旋方正同伊朗與美國展開談判。"
-    },
-    {
-      "id": "4908944",
-      "time": "2026-05-31 22:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普對諒解備忘錄作出了若干實質性修改，目前暫無具體細節披露。"
-    },
-    {
-      "id": "4908943",
-      "time": "2026-05-31 22:50:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：據媒體報道，衛星影像顯示，在近期美以聯軍打擊的 18 處地下導彈設施中，伊朗已重新啟用 69 個隧道入口裡的 50 個。該媒體援引專家觀點稱，畫面中可見大型裝置正在開展修復作業。專家提醒，即便產能有所下降，只要發射裝置與操作人員保持在崗，伊朗仍可繼續實施導彈發射。"
     }
   ]
 }
