@@ -1,7 +1,217 @@
 {
-  "updated": "2026-06-08 07:48:10",
-  "count": 19179,
+  "updated": "2026-06-08 07:52:08",
+  "count": 19192,
   "items": [
+    {
+      "id": "mkt:019ea47f-87cb-7ee0-86d5-ba0f67b62bf3",
+      "time": "2026-06-08 07:51:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan April seasonally adjusted current account surplus ¥4.2111 tln, prior ¥3.9006 tln."
+    },
+    {
+      "id": "4922430",
+      "time": "2026-06-08 07:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，伊朗與美國談判面臨的主要問題，是美方立場反覆多變、前後矛盾；雙方仍透過巴基斯坦居間傳遞資訊。"
+    },
+    {
+      "id": "mkt:019ea47f-51a5-7ee0-86d5-b1a3d3882899",
+      "time": "2026-06-08 07:50:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account SA (Apr) | actual 4211100000000B | previous 3900600000000B"
+    },
+    {
+      "id": "4922429",
+      "time": "2026-06-08 07:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本投資者5月淨賣出2.718萬億日元外國股票。"
+    },
+    {
+      "id": "4922428",
+      "time": "2026-06-08 07:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本一季度淨出口對環比GDP貢獻為正0.3個百分點；預估0.3個。"
+    },
+    {
+      "id": "mkt:019ea47e-d3b4-7ee0-86d5-ad5c241e3799",
+      "time": "2026-06-08 07:50:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Pacific Tsunami Warning Center issued tsunami alerts for the Philippines, Indonesia, Palau, Yap and Papua New Guinea."
+    },
+    {
+      "id": "mkt:019ea47e-bca5-7ee0-86d5-a40fbbe0b383",
+      "time": "2026-06-08 07:50:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Q1 final private consumption (seasonally adjusted) QoQ +0.3%, in line with 0.3% expected and prior."
+    },
+    {
+      "id": "mkt:019ea47e-a3c2-7ee0-86d5-990a60c6c633",
+      "time": "2026-06-08 07:50:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan Q1 final business investment QoQ -0.7% vs -0.9% est; prior +0.3%."
+    },
+    {
+      "id": "4922427",
+      "time": "2026-06-08 07:50:14",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本第一季度GDP摺合年率增長1.8%，預估為1.4%。"
+    },
+    {
+      "id": "mkt:019ea47e-a155-7ee0-86d5-914ebf3e66f1",
+      "time": "2026-06-08 07:50:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Private Consumption (QoQ) (Q1) | actual 0.3% | consensus 0.30% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019ea47e-a14c-7ee0-86d5-8d522de89c41",
+      "time": "2026-06-08 07:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan Q1 final real GDP QoQ 0.5% vs 0.3% expected; prior 0.5%."
+    },
+    {
+      "id": "mkt:019ea47e-a09a-7ee0-86d5-81efe92a95fc",
+      "time": "2026-06-08 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan Q1 real GDP final reading (annualized QoQ) 1.8% vs 1.3% expected; prior 2.1%."
+    },
+    {
+      "id": "mkt:019ea47e-9fd7-7ee0-86d5-7956458af080",
+      "time": "2026-06-08 07:50:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Private Non-Resi. Investment (QoQ) (Q1) | actual -0.7% | consensus -0.9% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019ea47e-9fcf-7ee0-86d5-77fbc97f71da",
+      "time": "2026-06-08 07:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan April unadjusted current account: JPY 3.908 tln, expected JPY 3.137 tln, prior JPY 4.682 tln."
+    },
+    {
+      "id": "mkt:019ea47e-7147-7ee0-86d5-684bdf630900",
+      "time": "2026-06-08 07:50:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan seasonally adjusted bank lending YoY 5.7% in May, up from 5.4% previously."
+    },
+    {
+      "id": "mkt:019ea47e-5c93-7ee0-86d5-61f9652d0fe6",
+      "time": "2026-06-08 07:50:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Real GDP Growth Revised (YoY) (Q1) | actual 1.8% | consensus 1.30% | previous 2.10%"
+    },
+    {
+      "id": "mkt:019ea47e-5be9-7ee0-86d5-5d7a3f3929e9",
+      "time": "2026-06-08 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loan (YoY) (May) | actual 5.7% | previous 5.40%"
+    },
+    {
+      "id": "mkt:019ea47e-4b99-7ee0-86d5-562bf1c5c781",
+      "time": "2026-06-08 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account USA (Apr) | actual 3907800000000B | consensus 3136700000000B | previous 4681500000000B"
+    },
+    {
+      "id": "4922426",
+      "time": "2026-06-08 07:49:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）將菲律賓棉蘭老島地震的震級從7.3級上調至8.2級。"
+    },
+    {
+      "id": "4922425",
+      "time": "2026-06-08 07:48:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI200指數期貨下跌8%。"
+    },
+    {
+      "id": "4922424",
+      "time": "2026-06-08 07:48:03",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國科技股遭拋售後日經指數料將下跌】在強於預期的美國就業資料提升了美聯儲潛在加息的前景，並在週五重創美國科技股之後，日本股市料將下跌。新加坡交易所的日經指數期貨下跌3.8%，報64135點。在伊朗週日向以色列發射多波導彈之後，中東地區的不確定性也可能拖累市場。投資者正關注中東事態發展。日經指數週五下跌1.3%，至66588.12點。"
+    },
     {
       "id": "4922423",
       "time": "2026-06-08 07:47:17",
@@ -176889,82 +177099,6 @@
         "Importance 2"
       ],
       "text": "US Futures Edge Higher to Start the Month — US stock futures moved modestly higher on Monday as June trading got underway, with the major indexes remaining near record levels. Wall Street wrapped up a strong May performance, with the Dow advancing 2.79%, while the S&P 500 and Nasdaq Composite climbed 5.15% and 8.36%, respectively. Technology shares continued to drive gains, supported by persistent enthusiasm surrounding artificial intelligence-related investments. Market sentiment also benefited from a solid earnings season, with roughly 85% of S&P 500 companies reporting first-quarter results above expectations. Meanwhile, the US and Iran agreed to a 60-day memorandum of understanding to maintain the ceasefire, although negotiations on a broader and more permanent peace agreement are still ongoing. Investors are now focused on the upcoming nonfarm payrolls report, which could provide important clues about labor market conditions and the future direction of Federal Reserve policy."
-    },
-    {
-      "id": "4909196",
-      "time": "2026-06-01 07:51:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯源通訊：終止向特定物件發行股票事項 公司控制權變更終止】匯源通訊(000586)6月1日早間公告，公司擬終止2025年度向特定物件發行股票事項，向深交所申請撤回相關申請檔案並簽署相關終止協議。因本次發行同時構成管理層收購和控制權變更，公司相應終止籌劃本次發行涉及的管理層收購和控制權變更事宜，公司仍為無控股股東、無實際控制人。"
-    },
-    {
-      "id": "mkt:019e8073-5aa7-700f-a381-9c11216769d5",
-      "time": "2026-06-01 07:51:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Ministry of Finance said corporate ordinary profit rose 14.6% YoY in Jan-Mar."
-    },
-    {
-      "id": "em:jjsj_rbsj:202606013755281966",
-      "time": "2026-06-01 07:50:52",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本第一季度資本支出同比持平，預估為4.0%。"
-    },
-    {
-      "id": "mkt:019e8072-5c94-700f-a381-9450031f7874",
-      "time": "2026-06-01 07:50:38",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan Q1 corporate capital expenditure YoY 0.0%, versus 6.5% previously."
-    },
-    {
-      "id": "mkt:019e8072-389f-700f-a381-8c4014a12edd",
-      "time": "2026-06-01 07:50:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Capital Expenditure (YoY) (Q1) | actual 0% | previous 6.50%"
-    },
-    {
-      "id": "4909195",
-      "time": "2026-06-01 07:50:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本一季度企業資本支出同比 0%，前值 6.5%。"
-    },
-    {
-      "id": "4909194",
-      "time": "2026-06-01 07:49:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深化改革方案已下發 多地密集部署新一輪國資國企改革啟動】公開資訊顯示，一段時間以來，多地相繼召開會議對國資國企改革工作再部署再推進。記者從多個渠道確認，《關於進一步深化國資國企改革的方案（2026—2029年）》（以下簡稱《方案》）已經下發，一些地方和央企集團傳達學習了檔案精神，並著手推進落實工作。5月以來，山東省、河南省、湖北省等召開省委常委會會議，研究本省深化國資國企改革工作。雲南省玉溪高新區、江蘇省徐州沛縣、內蒙古自治區鄂托克旗等地相繼傳達學習《方案》。央企集團層面，中國電氣裝備集團於5月12日召開2026年深化改革暨建設一流工作會議。會議要求全集團把《方案》內容學深悟透，制定符合集團公司發展實際的改革方案和改革臺賬。各級子企業要根據集團公司統一部署，系統謀劃好下一輪改革行動，全力以赴推動深化改革高質量高標準開局起步。中國企業改革與發展研究會研究員吳剛梁對記者表示，從目前在地方調研瞭解到的情況看，相關單位正按照要求並結合自身實際情況，如區域經濟發展狀況、企業功能定位，以及前階段改革完成情況等，制定本地或本企業的具體改革方案。"
-    },
-    {
-      "id": "4909193",
-      "time": "2026-06-01 07:49:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特斯拉撤回了針對與澳大利亞Syrah公司石墨供應協議的終止通知】澳大利亞Syrah Resources公司週一表示，特斯拉已撤回終止石墨供應協議的意向通知，這標誌著雙方歷經數月談判、期間四次延長解決方案截止日期的僵局終於告一段落。根據2021年簽訂的合同，Syrah計劃在未來四年內，從其位於美國路易斯安那州維達利亞的工廠向電動汽車製造商特斯拉供應8,000公噸石墨負極材料。石墨被用於為電動汽車提供動力的鋰離子電池中。由埃隆·馬斯克領導的特斯拉於2025年7月發出違約通知，稱維達利亞工廠交付的活性負極材料（AAM）樣品存在符合性問題。西拉公司週一在向澳大利亞證券交易所（ASX）釋出的宣告中表示，特斯拉現已認可該公司已證明其生產的活性負極材料（AAM）樣品符合標準，且已取得充分進展。礦商Syrah表示，特斯拉保留了現有權利，即若維達利亞AAM未能透過最終認證，將終止供應協議。今年3月，特斯拉與Syrah曾第四次同意將解決石墨供應協議中涉嫌違約問題的最後期限延長至6月1日。"
     }
   ]
 }
