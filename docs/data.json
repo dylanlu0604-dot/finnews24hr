@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-08 03:55:09",
-  "count": 19050,
+  "updated": "2026-06-08 03:59:02",
+  "count": 19054,
   "items": [
+    {
+      "id": "4922208",
+      "time": "2026-06-08 03:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克宣佈關閉該國領空。"
+    },
+    {
+      "id": "mkt:019ea3a9-476b-7ee0-86d2-d53513242a24",
+      "time": "2026-06-08 03:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: airstrikes will not help successful negotiations."
+    },
+    {
+      "id": "mkt:019ea3a9-03d9-7ee0-86d2-cdc206689c83",
+      "time": "2026-06-08 03:57:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "President Trump said the US military is on alert."
+    },
+    {
+      "id": "mkt:019ea3a7-5ab2-7ee0-86d2-c6741cf8a87d",
+      "time": "2026-06-08 03:55:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the US is close to reaching a deal and that a signing he had expected on Monday, Tuesday or Wednesday is now taking place."
+    },
+    {
+      "id": "4922207",
+      "time": "2026-06-08 03:54:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗為黎巴嫩對以色列發動打擊】伊朗伊斯蘭革命衛隊當地時間6月7日深夜發宣告稱，為回應以色列在黎巴嫩南部犯下的罪行、以軍對黎巴嫩南部提爾等地和包括首都貝魯特南郊在內的其他地區人民的大規模殺戮，革命衛隊航空航天部隊對以色列北部的拉馬特·大衛空軍基地發動了彈道導彈襲擊。革命衛隊表示，這僅僅是一次警告，如果以色列的侵略行為再次發生，伊朗回應的範圍將更加廣泛，並將涵蓋該地區所有美以目標。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ea3a6-e5c4-7ee0-86d2-bb1538034019",
       "time": "2026-06-08 03:54:44",
@@ -175704,14 +175757,6 @@
         "國際"
       ],
       "text": "俄羅斯官員稱，俄控赫爾松地區發生無人機襲擊事件，造成1名兒童死亡，11人受傷。"
-    },
-    {
-      "id": "4909058",
-      "time": "2026-06-01 03:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙城海邊人群致兩死多傷】巴勒斯坦加沙地帶衛生部門訊息人士5月31日表示，以色列軍隊當天空襲加沙城以西海邊的一處人群，造成兩人死亡、多人受傷。（新華社）"
     }
   ]
 }
