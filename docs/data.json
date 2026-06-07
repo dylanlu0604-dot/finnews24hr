@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-08 03:51:20",
-  "count": 19044,
+  "updated": "2026-06-08 03:55:09",
+  "count": 19050,
   "items": [
+    {
+      "id": "mkt:019ea3a6-e5c4-7ee0-86d2-bb1538034019",
+      "time": "2026-06-08 03:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had told Iran its missile launches were sufficient and urged Tehran to return to the negotiating table to reach an agreement."
+    },
+    {
+      "id": "4922206",
+      "time": "2026-06-08 03:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場：德國空中交通管制局（DFS）已暫停所有航班運營，恢復時間另行通知。"
+    },
+    {
+      "id": "4922205",
+      "time": "2026-06-08 03:54:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：美軍已處於戒備狀態。"
+    },
+    {
+      "id": "4922204",
+      "time": "2026-06-08 03:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階訊息人士：如果以色列發動襲擊，美國在該地區的所有軍事基地都將被德黑蘭視為合法打擊目標。"
+    },
+    {
+      "id": "4922203",
+      "time": "2026-06-08 03:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場：因檢測到煙霧異味，慕尼黑機場塔臺於當晚8點33分完成人員疏散。"
+    },
+    {
+      "id": "4922202",
+      "time": "2026-06-08 03:53:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我原本就說和平協議會在週一、週二或週三簽署，現在這事（指伊朗局勢突變）就發生了。"
+    },
+    {
+      "id": "4922201",
+      "time": "2026-06-08 03:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場：航班運營臨時暫停。"
+    },
+    {
+      "id": "4922200",
+      "time": "2026-06-08 03:52:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元大致持穩，週一悉尼盤初報價160.30日元，此前低開至160.04日元。"
+    },
+    {
+      "id": "4922199",
+      "time": "2026-06-08 03:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階訊息人士：伊朗將以更大力度回擊以色列的任何襲擊。"
+    },
     {
       "id": "4922198",
       "time": "2026-06-08 03:50:24",
@@ -175639,36 +175712,6 @@
         "國際"
       ],
       "text": "【以軍空襲加沙城海邊人群致兩死多傷】巴勒斯坦加沙地帶衛生部門訊息人士5月31日表示，以色列軍隊當天空襲加沙城以西海邊的一處人群，造成兩人死亡、多人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019e7f99-0e95-700f-a380-59bdae20566d",
-      "time": "2026-06-01 03:53:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says it has made no commitments to US on nuclear issue】May 31 — A spokesman for the National Security Committee of Iran's parliament told local media Iran has made no commitments to the US on the nuclear issue."
-    },
-    {
-      "id": "mkt:019e7f98-ca1d-700f-a380-57ed7461bcb9",
-      "time": "2026-06-01 03:52:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Germany's foreign minister said Israeli forces are continuing to advance into southern Lebanon, a development he described as a matter of serious concern."
-    },
-    {
-      "id": "mkt:019e7f98-9324-700f-a380-4c4f276bfb04",
-      "time": "2026-06-01 03:52:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's foreign minister strongly urged all parties to the conflict to cease hostilities and restore the agreed ceasefire."
     }
   ]
 }
