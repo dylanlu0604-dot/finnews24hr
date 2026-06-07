@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-07 18:26:06",
-  "count": 18908,
+  "updated": "2026-06-07 18:30:03",
+  "count": 18911,
   "items": [
+    {
+      "id": "4921854",
+      "time": "2026-06-07 18:29:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：我們明日或有若干公告發布。"
+    },
+    {
+      "id": "4921853",
+      "time": "2026-06-07 18:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局6月7日18時聯合釋出橙色地質災害氣象風險預警：2026年6月7日20時至8日20時，湖南西部、廣東北部和東南部、廣西北部、貴州中南部、西藏東北部發生地質災害的風險較高（黃色預警）；廣西東北部、貴州東南部發生地質災害的風險高（橙色預警）。"
+    },
+    {
+      "id": "mkt:019ea19f-8916-7ee0-86ce-82d4114e7892",
+      "time": "2026-06-07 18:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USHAKOV: Russia, Ukraine maintain public and non-public contacts】On a TV program broadcast on the 7th, USHAKOV said Russia and Ukraine have both public and non-public contacts; the public contacts refer to earlier rounds of negotiations."
+    },
+    {
+      "id": "mkt:019ea19f-15af-7ee0-86ce-7a3a53ee08bb",
+      "time": "2026-06-07 18:26:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude 5.0 earthquake in Greece at 18:02 on June 7, depth 10 km."
+    },
+    {
+      "id": "mkt:019ea19e-da1e-7ee0-86ce-76c8beb02084",
+      "time": "2026-06-07 18:26:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Lloyd's List: Iran cuts Strait of Hormuz transit fees sharply】Lloyd's List reports Iran has materially reduced fees for transits of the Strait of Hormuz. Current per-transit charges reach up to $120,000 for bulk carriers and $160,000 for tankers, with rates varying by vessel type, cargo and owner nationality. That contrasts with charges of roughly $1-2m per vessel at the start of the conflict."
+    },
+    {
+      "id": "4921852",
+      "time": "2026-06-07 18:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月07日18時02分在希臘（北緯38.70度，東經23.41度）發生5.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "4921851",
+      "time": "2026-06-07 18:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統助理：俄烏間保留非公開接觸】在當地時間7日播出的一檔電視節目中，俄羅斯總統助理烏沙科夫表示，俄羅斯與烏克蘭之間既有公開接觸，也有非公開接觸。據悉，公開接觸指此前的數輪談判。（央視新聞）"
+    },
     {
       "id": "4921850",
       "time": "2026-06-07 18:25:18",
@@ -174348,46 +174408,6 @@
         "其他"
       ],
       "text": "法國外交大臣表示，法國已要求聯合國安理會就黎巴嫩局勢召開緊急會議。"
-    },
-    {
-      "id": "4908807",
-      "time": "2026-05-31 18:29:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "花樣年控股在港交所公告稱，計劃債權人投票贊成延長重組的最後截止日期至6月30日。"
-    },
-    {
-      "id": "mkt:019e7d94-22a5-700f-a37d-3629b0470567",
-      "time": "2026-05-31 18:28:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "IRNA reported three offshore platforms at Iran's South Pars gas field have resumed production."
-    },
-    {
-      "id": "4908806",
-      "time": "2026-05-31 18:28:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗南帕爾斯氣田三座海上平臺恢復生產。"
-    },
-    {
-      "id": "mkt:019e7d92-ec75-700f-a37d-290ad0f3316c",
-      "time": "2026-05-31 18:27:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran displays new attack boat】State media reported today that on May 30 Iran displayed a new attack boat, presented as a symbol of its naval strength."
     }
   ]
 }
