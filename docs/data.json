@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 21:58:34",
+  "updated": "2026-06-07 22:02:35",
   "count": 18991,
   "items": [
+    {
+      "id": "4922026",
+      "time": "2026-06-07 21:59:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士稱，解除哈馬斯武裝仍然是開羅加沙談判中的爭議問題。"
+    },
     {
       "id": "mkt:019ea25f-d6fc-7ee0-86d0-3264fe052f3e",
       "time": "2026-06-07 21:57:30",
@@ -175137,18 +175145,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：霍爾木茲海峽必須恢復到以前的樣子。"
-    },
-    {
-      "id": "mkt:019e7e55-3bd4-700f-a37e-68bf4a088f26",
-      "time": "2026-05-31 21:59:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian Students' News Agency (ISNA) reported that Kosari, a member of Iran's National Security and Foreign Policy Council, said the nuclear issue has been excluded from the negotiating table and no final agreement has been reached."
     }
   ]
 }
