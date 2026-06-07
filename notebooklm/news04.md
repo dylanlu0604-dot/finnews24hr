@@ -1,7 +1,409 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 12:05:37_
-_本檔包含 3839 則快訊，約 707440 字_
+_更新時間：2026-06-07 13:45:09_
+_本檔包含 3861 則快訊，約 708317 字_
+
+---
+
+### 2026-06-03 02:43:32  #國際
+
+美國國務卿魯比奧：我國外交政策的核心須始終立足美國國家利益。
+
+---
+
+### 2026-06-03 02:40:08  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+【Microsoft launches Scout AI assistant integrated into email and calendar】Microsoft has launched Scout, an AI assistant integrated into internal email and calendar systems to operate like a 24/7 executive assistant rather than a user-visible chatbot. Charles Lamanna, head of commercial apps product development, said Scout can autonomously perform broader tasks — for example, rescheduling meetings to resolve time conflicts — and can be shared so employees can query a manager’s Scout. Microsoft did not disclose pricing; initial use will require a GitHub Copilot subscription. Lamanna said customer billing will likely be usage-based rather than a fixed fee, and Microsoft intends to add more AI products to subscription plans as model-access costs fall.
+
+---
+
+### 2026-06-03 02:33:29  #MKT News #Market Themes #The Trump Trade
+
+【White House Correspondents' Dinner rescheduled to July 24; Trump to attend】On June 2 President Trump said the White House Correspondents' Dinner, postponed after a recent violent incident, has been rescheduled for July 24 and that he has accepted an invitation to attend and speak. He said he was unsure whether he would repeat similar "sharp remarks" made previously. Trump said the dinner will be held at the Waldorf Astoria on Pennsylvania Avenue, which he said he had a role in developing.
+
+---
+
+### 2026-06-03 02:32:58  #國際
+
+【美軍稱“林肯”號航母繼續參與對伊朗封鎖行動】當地時間6月2日，美國中央司令部表示，美國海軍“亞伯拉罕·林肯”號航空母艦正在阿拉伯海航行，並繼續支援美國針對伊朗實施的海上封鎖行動。美國中央司令部稱，為確保相關封鎖措施得到執行，美軍已對122艘商業船隻進行了改道處理。當前，美軍仍在中東地區維持大規模軍事部署，以支援針對伊朗的軍事和海上行動。
+
+---
+
+### 2026-06-03 02:32:53  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract rose 0.17% to 981 yuan/gram; Shanghai silver main contract rose 0.24% to 18,202 yuan/kg; SC crude main contract fell 0.41% to 604 yuan/barrel.
+
+---
+
+### 2026-06-03 02:32:46  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) executive says the company will partner with Mayo Clinic to co-develop AI models.
+
+---
+
+### 2026-06-03 02:32:21  #公司
+
+微軟高管：公司正與梅奧醫學中心合作，聯合開發人工智慧模型。
+
+---
+
+### 2026-06-03 02:32:05  #MKT News
+
+Iran's foreign minister Araghchi said he and the Saudi foreign minister spoke by phone to discuss diplomatic efforts.
+
+---
+
+### 2026-06-03 02:31:27  #市場 #焦點
+
+WTI原油突破94美元/桶，日內漲2.00%。
+
+---
+
+### 2026-06-03 02:31:19  #其他
+
+高知特與CrowdStrike擴大戰略聯盟，聲稱為智慧體企業提供安全保障。
+
+---
+
+### 2026-06-03 02:31:04  #市場 #國際
+
+美國原油期貨結算價報每桶93.76美元，上漲1.60美元，漲幅1.74%。
+
+---
+
+### 2026-06-03 02:30:53  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Shanghai Gold Exchange gold T+D closed down 0.14% at 977.8 yuan/gram in the evening session on Tuesday, June 2. Silver T+D closed down 0.41% at 18,141.0 yuan/kilogram.
+
+---
+
+### 2026-06-03 02:30:41  #MKT News
+
+Microsoft (MSFT.O) executive said the company's AI inference models were co-developed on its own chips.
+
+---
+
+### 2026-06-03 02:30:24  #國際
+
+【白宮記協晚宴改期至7月 特朗普稱計劃出席】當地時間6月2日，美國總統特朗普表示，此前因突發暴力事件而中斷的白宮記協晚宴已確定改期至7月24日舉行，他已接受邀請並計劃出席活動。特朗普在社交媒體發文稱，白宮記者協會主席邀請其出席並發表講話，他已經接受邀請。他表示，不確定屆時是否會發表與此前類似的“尖銳言論”，但“一切很快就會見分曉”。特朗普還稱，重新舉辦晚宴是件好事，因為“不能讓瘋狂分子改變我們的生活方式，甚至改變活動安排”。他預計這將是一場“一票難求”的熱門活動。
+
+---
+
+### 2026-06-03 02:30:15  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Slumps by 5.78% — Top crypto losers are Bitcoin (-5.78%), XRP (-5.59%) and Ether (-4.56%).
+
+---
+
+### 2026-06-03 02:30:02  #市場
+
+上期所原油期貨夜盤收跌0.41%，報603.60元人民幣/桶。滬金夜盤收漲0.17%，滬銀收漲0.24%。
+
+---
+
+### 2026-06-03 02:29:50  #其他
+
+微軟高管稱，微軟推理大模型由其自研晶片聯合開發。
+
+---
+
+### 2026-06-03 02:29:43  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) head of AI said MAI Image 2.5 and its Flash variant have surpassed Nano Banana 2 on image-editing benchmarks.
+
+---
+
+### 2026-06-03 02:29:18  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) head of AI said MAI-CODE-1 FLASH is Microsoft's new code-generation model.
+
+---
+
+### 2026-06-03 02:29:17  #其他
+
+微軟人工智慧負責人：MAI Image 2.5及其極速版本在影象編輯任務上的得分超越了Nano Banana 2。
+
+---
+
+### 2026-06-03 02:29:00  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is the company's first inference model.
+
+---
+
+### 2026-06-03 02:28:37  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
+
+Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is an inference model with 35 billion active parameters.
+
+---
+
+### 2026-06-03 02:28:06  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) head of AI said the MAI-TRANSCRIBE-1.5 model is the most cost-effective among comparable models from all hyperscale cloud providers.
+
+---
+
+### 2026-06-03 02:27:26  #MKT News #Star Stocks #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) AI chief announced the launch of seven new AI models, adding image and transcription models to its product lineup.
+
+---
+
+### 2026-06-03 02:27:15  #其他
+
+微軟人工智慧負責人：MAI-CODE-1 Flash是微軟全新程式設計模型。
+
+---
+
+### 2026-06-03 02:26:47  #MKT News
+
+U.S. President Trump: bank accounts used to support or hold benefits for illegal immigrants will be closed; funds will be seized, forfeited and returned to taxpayers.
+
+---
+
+### 2026-06-03 02:26:34  #MKT News
+
+U.S. President Trump said access to the U.S. financial system must be limited to individuals with lawful residency and who engage in lawful commercial activity.
+
+---
+
+### 2026-06-03 02:26:30  #其他
+
+微軟人工智慧負責人：MAI-THINKING-1是微軟人工智慧旗下首個推理大模型。
+
+---
+
+### 2026-06-03 02:26:25  #其他
+
+微軟人工智慧負責人：MAI-THINKING-1是引數規模達350億的啟用引數推理模型。
+
+---
+
+### 2026-06-03 02:26:09  #MKT News #Market Themes #The Trump Trade
+
+Trump said illegal immigrants and foreign scammers steal billions of dollars annually from U.S. taxpayers. He signed a new U.S. Treasury-led executive order to prevent banks, credit-card companies and other financial institutions from being used to facilitate human smuggling, drug trafficking, illegal immigration and the criminal networks that organize these activities.
+
+---
+
+### 2026-06-03 02:25:31  #其他
+
+微軟人工智慧主管：MAI-TRANSCRIBE-1.5模型是所有超大規模企業同類模型中成本效益最高的。
+
+---
+
+### 2026-06-03 02:25:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 4.60% — Top commodity gainers are Cocoa (4.60%) and Rice (1.19%). Biggest losers are Oat (-3.70%), Soybeans (-1.40%) and Wheat (-0.96%).
+
+---
+
+### 2026-06-03 02:24:52  #其他
+
+微軟人工智慧模型新增影象生成與語音轉寫模型。
+
+---
+
+### 2026-06-03 02:24:24  #其他
+
+微軟人工智慧負責人公佈包含7款全新人工智慧模型的產品系列。
+
+---
+
+### 2026-06-03 02:24:07  #國際
+
+【以軍襲擊加沙致死3人 哈馬斯重申願移交治理權】據巴勒斯坦通訊社2日報道，以色列軍隊當天襲擊加沙地帶多地，造成3人死亡。巴勒斯坦伊斯蘭抵抗運動（哈馬斯）重申，願移交加沙地帶治理權。
+
+---
+
+### 2026-06-03 02:23:55  #MKT News #GOOG.O
+
+Google (GOOG.O) will update its U.S. prediction-market policy effective June 2, banning advertising for prediction-market contracts and related products in Ohio.
+
+---
+
+### 2026-06-03 02:23:53  #宏觀 #國際
+
+【特朗普：近期簽署針對金融機構欺詐問題的行政令】特朗普在社交媒體平臺表示，非法移民與境外詐騙分子每年從美國納稅人手中竊取數十億美元。作為本屆政府打擊欺詐、遏制大規模非法移民歷史性舉措的一環，他近日簽署一項重磅行政令，由財政部牽頭落地，禁止銀行、信用卡機構及各類金融機構淪為協助人口走私、毒品販運、非法入境以及幕後操控此類犯罪活動的工具。美國金融體系的准入許可權，僅限合法居留本國、從事正當合規商貿活動的人員。凡是被用於協助非法移民、或是存放非法移民申領福利金的銀行賬戶，都將被關停，賬戶內資金最終予以查封收繳，返還給納稅人。非法移民僅憑藍州核發的駕照或是拜登政府出臺的邊境證件，就能無限制使用美國金融系統，這絕非荒唐小事，而是潛藏重大隱患。該政令也向反移民與海關執法局的鬧事者釋放明確訊號：你們的暴力滋事只會愈發堅定我們的整治決心。依託這份行政令，還能攔截數十億美元不法資金透過各類犯罪活動外流境外。有觀點認為，此項新政是扭轉拜登時期邊境非法湧入亂象最有效的舉措，成效如何，不久便能見分曉。
+
+---
+
+### 2026-06-03 02:22:21  #國際
+
+特朗普：近期簽署針對金融機構欺詐問題的行政令。
+
+---
+
+### 2026-06-03 02:22:12  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【HEZBOLLAH rejects partial ceasefire with Israel; exchanges continue】A senior HEZBOLLAH official said on Feb 2 the group will not accept any partial ceasefire with Israel, rejecting proposals to trade an Israeli halt to strikes on Beirut’s southern suburbs for HEZBOLLAH stopping attacks on northern Israeli settlements. He said HEZBOLLAH only accepts a comprehensive, complete and genuine ceasefire, not a return to the pre-conflict status. Lebanon’s state news agency reported Israeli airstrikes on Feb 2 hit multiple sites in southern Lebanon including Dweir and Nabatieh, killing at least 12 and wounding four, including Lebanese army personnel. HEZBOLLAH said its fighters launched a series of attacks on Israeli forces in southern Lebanon in the early hours of Feb 2.
+
+---
+
+### 2026-06-03 02:22:01  #公司 #市場 #焦點 #國際
+
+谷歌：將更新美國預測市場政策，禁止在俄亥俄州投放預測市場合約及相關產品廣告。
+
+---
+
+### 2026-06-03 02:21:53  #公司 #焦點
+
+谷歌：自2026年6月2日起，預測市場及相關產品的廣告推廣在俄亥俄州被禁止。
+
+---
+
+### 2026-06-03 02:21:41  #國際
+
+【辛鮑姆：墨美摩擦系極右翼勢力搞事】墨西哥總統辛鮑姆1日表示，她不認為美國總統特朗普在主導近期美政府針對墨方的政治“攻勢”，當前雙邊關係緊張應歸咎於兩國各自的極右翼勢力。 (新華社)
+
+---
+
+### 2026-06-03 02:21:17  #國際
+
+【真主黨不接受與以色列“部分停火” 雙方繼續互襲】黎巴嫩真主黨高階官員馬哈茂德·庫馬提2日接受媒體採訪時表示，真主黨不同意與以色列達成任何“部分停火”協議。庫馬提表示，真主黨及其盟友不會接受“用以軍停止襲擊貝魯特南郊換取真主黨停止打擊以色列北部居民點”的方案。他強調，真主黨只接受全面、完整且真正的停火，而不是僅僅回到本輪衝突爆發之前的局面，“我們不會同意任何部分停火協議”。據黎巴嫩國家通訊社2日報道，以色列軍隊當天仍持續對杜韋爾、奈拜提耶等黎南部多地發動空襲，造成至少12人死亡、4人受傷，死傷者包括黎政府軍人員。真主黨當天說，其武裝人員於2日凌晨對黎南部的以色列軍隊發動一系列襲擊。
+
+---
+
+### 2026-06-03 02:20:43  #公司
+
+微軟執行長推出可長期自主執行、名為Autopilots的自主智慧體產品。
+
+---
+
+### 2026-06-03 02:20:41  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) unveiled a new quantum chip and said it aims to deliver a practical quantum computer by 2029.
+
+---
+
+### 2026-06-03 02:20:15  #其他
+
+微軟表示，內測版中的一款產品案例是名為Microsoft Scout的全天候職場智慧個人助理。
+
+---
+
+### 2026-06-03 02:20:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Falls by 1.82% — Top commodity losers are Lithium Carbonate (-1.82%) and Silicon (-0.52%). Gains are led by Copper (1.62%), Iron Ore CNY (0.70%) and Platinum (0.58%). Meanwhile Gold was little changed.
+
+---
+
+### 2026-06-03 02:19:37  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) CEO launched Autopilots, long-running autonomous agents.
+
+---
+
+### 2026-06-03 02:18:41  #其他
+
+微軟釋出新型量子晶片，目標2029年落地實用化量子計算機。
+
+---
+
+### 2026-06-03 02:17:22  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
+
+Microsoft (MSFT.O): Its Discovery service is now available to all organizations.
+
+---
+
+### 2026-06-03 02:17:11  #其他
+
+微軟：Microsoft Discovery現已向所有組織全面開放。
+
+---
+
+### 2026-06-03 02:16:15  #其他
+
+伊拉克內閣批准方案：將傑伊漢港原油出口量提升至77萬桶/日。
+
+---
+
+### 2026-06-03 02:16:08  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 0
+
+Paraguay CPI Rises Slightly in May — Paraguay's annual inflation edged up to 2.4% in May 2026 from 2.3% in April. Price pressures were driven mainly by restaurants and hotels (8.4%), education (5.9%), food and non-alcoholic beverages (2.7%), and recreation and culture (2.8%). Additional increases were recorded in alcoholic beverages and tobacco (1.2%), housing and utilities (1.8%), furniture and household goods (2.0%), and healthcare (2.0%). On a monthly basis, consumer prices rose 0.1%, bringing cumulative inflation in the first five months of the year to 2.2%. Meanwhile, core inflation, which excludes more volatile items, remained unchanged at 1.9%, suggesting underlying price pressures stayed relatively contained.
+
+---
+
+### 2026-06-03 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.13%) and Methanol (-1.05%). Gains are led by Gasoline (1.96%), Heating Oil (1.89%), Crude Oil WTI (1.58%) and Brent Crude Oil (0.91%).
+
+---
+
+### 2026-06-03 02:14:19  #MKT News
+
+Al Jazeera, citing Lebanese officials, said the U.S. is working to secure a full ceasefire agreement by the end of talks tomorrow.
+
+---
+
+### 2026-06-03 02:14:12  #國際
+
+半島電視臺援引黎巴嫩官方訊息：美國正推動在明日本輪談判結束之際達成全面停火協議。
+
+---
+
+### 2026-06-03 02:12:51  #市場 #國際
+
+據美國交通部資料，5月汽油均價較2025年上漲42.2%。
+
+---
+
+### 2026-06-03 02:12:50  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent #DXY
+
+U.S. Department of Transportation data show average gasoline prices in May rose 42.2% year-on-year versus May 2025.
+
+---
+
+### 2026-06-03 02:09:18  #公司
+
+紐西蘭商務委員會：指控英國石油紐西蘭分公司涉嫌向旗下加油站違規定價。
+
+---
+
+### 2026-06-03 02:08:38  #公司
+
+紐西蘭商務委員會擬對英國石油紐西蘭公司提起訴訟。
+
+---
+
+### 2026-06-03 02:08:20  #焦點 #國際
+
+以色列方面訊息人士否認有關特朗普在黎巴嫩空襲相關通話中出言羞辱內塔尼亞胡的報道，稱雙方分歧僅在於對外口徑問題，美方意在避免黎巴嫩局勢升級。
+
+---
+
+### 2026-06-03 02:07:44  #國際
+
+【澤連斯基稱俄襲擊已致烏22死130傷】當地時間6月2日，烏克蘭總統澤連斯基在晚間影片講話中稱，俄羅斯對烏克蘭多座城市發動大規模襲擊，已造成22人死亡、130人受傷，遇難者中包括兩名兒童。目前，烏方救援、警務、市政及急救人員仍在持續開展滅火、人員搜救與傷員救治工作。
+
+---
+
+### 2026-06-03 02:03:52  #MKT News
+
+【Trump accepts invitation to speak at White House Correspondents' Dinner, event rescheduled to July 24】President Trump said he has accepted an invitation from the White House Correspondents' Association to speak at the White House Correspondents' Dinner, rescheduled to July 24 after violence forced cancellation on April 25. He said he may again make remarks that some would find unpleasant and that the outcome will be known soon.
+
+---
+
+### 2026-06-03 02:01:43  #MKT News #WTI #Impact bullish #XAUUSD
+
+Lebanese sources say delegations from Lebanon and Israel have not reached a decisive consensus on a ceasefire.
+
+---
+
+### 2026-06-03 02:00:36  #公司
+
+微軟執行長表示，智慧助理365軟體開發套件現已全面開放使用。
+
+---
+
+### 2026-06-03 02:00:35  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) CEO said AGENT 365 SDK is now generally available.
+
+---
+
+### 2026-06-03 02:00:14  #其他
+
+黎巴嫩訊息人士：黎以雙方代表團迄今未能在停火相關議題上達成關鍵性共識。
 
 ---
 
@@ -22861,275 +23263,5 @@ Hezbollah said its forces launched a rocket strike at a gathering point of Israe
 ### 2026-06-01 22:50:23  #MKT News #Market Themes #AI Revolution
 
 【Florida governor sues OpenAI over safety risks】Florida has become the first U.S. state to sue OpenAI and CEO Sam Altman amid escalating protests over alleged AI chatbot safety defects, the Wall Street Journal reports. The lawsuit, filed on Monday by Florida authorities, alleges OpenAI and Altman knew the product had safety flaws and failed to warn users of potential harm.
-
----
-
-### 2026-06-01 22:50:21  #市場
-
-CoreWeave股價上漲14.6%，Nebius股價攀升17%，創下歷史新高。
-
----
-
-### 2026-06-01 22:50:12  #市場 #焦點
-
-液化石油氣連續主力合約日內漲5%，現報5834.00元。
-
----
-
-### 2026-06-01 22:49:57  #其他
-
-英國首相首席秘書：英國下議院將於週三就曼德爾森檔案進行辯論。
-
----
-
-### 2026-06-01 22:49:49  #MKT News
-
-Prime Minister's chief secretary said the House of Commons will debate the Mandelson documents on Wednesday.
-
----
-
-### 2026-06-01 22:49:12  #公司 #焦點
-
-【智譜：建議A股發行並在科創板上市】6月1日晚，智譜在港交所公告，於2026年6月1日舉行的董事會會議上，公司建議向中國相關監管機構申請配發及發行A股，並向上海證券交易所申請該等A股在科創板上市及准予交易。建議A股發行數量佔建議A股發行完成後公司總股本的2%至8%之間（不含因超額配股權獲行使而將予發行的任何A股），即不少於9,098,838股且不多於38,768,964股新A股。董事會會議亦已透過其他有關建議A股發行的附加決議案，並將於年度股東會上提請股東批准。
-
----
-
-### 2026-06-01 22:49:10  #公司 #國際
-
-【英偉達助力優步與Autobrains，在慕尼黑試水Robotaxi】優步與以色列自動駕駛技術公司Autobrains於週一宣佈，將與美國晶片廠商英偉達合作，在德國慕尼黑推出自動駕駛計程車專案，此舉旨在推動歐洲自動駕駛網約車業務的規模。三方計劃將優步的出行動態網路和Autobrains的“智慧體AI”駕駛系統結合起來，在英偉達的Drive Hyperion平臺上執行，在慕尼黑率先部署服務，後續服務上線仍需完成監管審批流程。
-
----
-
-### 2026-06-01 22:48:33  #其他
-
-【微軟將在Build開發者大會發布全新AI模型與Windows升級內容】本週微軟將在舊金山舉辦Build開發者大會，會場規模精簡、場地更緊湊。目前開發者對Windows與GitHub的信任度跌至歷史低位，本次大會正是微軟重拾開發者信任、勾勒產品未來路線的關鍵契機。 據訊息人士透露，微軟將釋出適配Windows的全新AI模型、自研新一代推理大模型，以及一款Copilot超級應用。微軟還會披露多項最佳化Windows開發體驗的落地進展。知情訊息顯示，本週微軟將推出面向開發者深度定製的Win11專屬環境，囊括開發者長期呼籲的多項功能：純淨無冗餘干擾的系統環境，預裝各類常用軟體、開發工具與執行指令碼。 除此之外，微軟還會詳解針對Win11底層程式碼重構、提升系統效能與整體使用體驗的研發工作。微軟同期還將官宣Windows適配英偉達RTXSpark等新一代硬體晶片的相關進展。（環球市場播報）
-
----
-
-### 2026-06-01 22:48:13  #MKT News #Important
-
-The Wall Street Journal reports Florida's attorney general has sued OpenAI over harm caused by its artificial intelligence.
-
----
-
-### 2026-06-01 22:47:39  #其他 #焦點
-
-市場訊息：佛羅里達州總檢察長就人工智慧相關損害起訴 OpenAI。
-
----
-
-### 2026-06-01 22:47:08  #公司 #國際
-
-【聯邦快遞貨運從聯邦快遞分拆完成】聯邦快遞於週一完成了對聯邦快遞貨運的分拆，並向股東派發後者股份。此次分拆使聯邦快遞貨運成為一家獨立的上市公司，聚焦北美零擔運輸業務。值得注意的是，新公司將成為北美最大的面向中小企業的零擔運輸商。聯邦快遞貨運的業務覆蓋美國、加拿大、墨西哥、波多黎各及美屬維爾京群島，運營約355個服務中心、3萬輛車輛及3.9萬名員工。本次分拆的股權登記日為5月15日，預留了投資者幾天時間鎖定聯邦快遞貨運的股份，讓他們無需等到在公開市場上購買。
-
----
-
-### 2026-06-01 22:46:55  #MKT News #HPQ.N #Impact bullish
-
-HP Inc (HPQ.N) shares jumped 8.3% to an eight-plus-month high.
-
----
-
-### 2026-06-01 22:46:47  #市場
-
-惠普股價觸及八個多月新高，最新上漲8.3%。
-
----
-
-### 2026-06-01 22:46:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Sources said Russia's Volgograd refinery has been offline since a drone strike on May 29.
-
----
-
-### 2026-06-01 22:46:24  #國際
-
-訊息人士稱，俄羅斯伏爾加格勒煉油廠自5月29日無人機襲擊後已停止運營。
-
----
-
-### 2026-06-01 22:44:27  #MKT News #Important #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O #Impact bullish
-
-U.S. tech site The Verge reports Microsoft (MSFT.O) will release a new AI model and Windows improvements.
-
----
-
-### 2026-06-01 22:44:05  #其他 #焦點
-
-市場訊息：微軟即將釋出全新人工智慧模型並推出 Windows 系統最佳化升級。
-
----
-
-### 2026-06-01 22:43:47  #國際
-
-【以軍稱控制黎南部博福特嶺並將繼續打擊真主黨目標】當地時間6月1日，以色列國防軍發言人德弗林表示，以軍第36師近日在黎巴嫩南部開展行動，已取得對博福特嶺和薩盧基幹河地區的作戰控制。德弗林宣稱，該地區是黎巴嫩真主黨的重要據點，自以色列今年2月底發動所謂“咆哮的獅子”行動以來，當地已向以色列北部發射400餘枚火箭彈。德弗林表示，相關行動經過長期籌劃並獲以軍總參謀長批准，以軍將繼續壓縮真主黨能力並加大打擊力度。德弗林稱，近日軍事行動中兩名以軍士兵在博福特嶺地區死亡。德弗林表示，以軍將繼續在黎巴嫩境內實施打擊，從貝魯特南郊“達希耶”地區到泰爾市，目標是消除對以色列和以軍部隊的威脅。他同時呼籲以色列北部居民保持警惕並遵守後方司令部指示。（央視新聞）
-
----
-
-### 2026-06-01 22:41:40  #公司
-
-【供應商罷工可能在數週內導致通用皮卡生產工廠停產】由於汽車零部件供應商Dauch公司的工會工人因勞資糾紛而罷工，通用汽車公司可能會被迫在本月晚些時候暫停其位於密歇根州的一家卡車廠的生產。該汽車製造商目前庫存的零部件足以維持約兩週的使用。工人要求提高目前每小時22美元的最低工資，並爭取更好的福利待遇。
-
----
-
-### 2026-06-01 22:41:31  #MKT News #GM.N #Impact bearish
-
-【Strike at supplier Dauch could force GM Michigan pickup plant to halt production within weeks】Union workers at parts supplier Dauch have struck over a labor dispute and could force GM to suspend production at its Michigan pickup truck plant later this month. GM’s on‑hand parts inventory can support roughly two weeks of production. Workers are demanding higher pay above the current $22/hr minimum and improved benefits.
-
----
-
-### 2026-06-01 22:40:49  #公司 #市場 #央行 #國際
-
-【美國股市早盤小幅下跌 伊朗據報道暫停與美國交換資訊】美國股市週一早盤走低，此前伊朗媒體報道稱該國將停止與美國交換資訊，引發油價飆升。紐約時間10:00，標普500指數和道指跌0.1%，納斯達克100指數跌0.3%。標普500指數屢創紀錄後漲勢有所減弱，但科技股繼續攀升。伊朗塔斯尼姆通訊社報道稱，資訊交換已經暫停，以抗議以色列在黎巴嫩的軍事行動升級。經濟方面，受新訂單和產量回升的提振，美國5月份製造業活動以四年來的最快速度擴張。資料進一步加劇了市場對美聯儲將在更長時間內維持較高利率的猜測。財報季開始接近尾聲，剩餘待公佈業績的公司已所剩無幾。人工智慧可能仍將是市場關注的重點，這一主題繼續幫助股市走高。慧與公司、博通和CrowdStrike Holdings Inc.將是值得關注的公司。市場普遍認為，這三家公司都是人工智慧熱潮升溫的受益者。對將在週一盤後公佈業績的慧與而言，在同行戴爾釋出亮眼財報後，市場對其預期可能已經升高。富國投資研究所的Paul Christopher表示，人工智慧行情終將失去動能，但其走勢將與2000年網際網路泡沫時期的下跌大不相同。Christopher說：“當前與2000年3月牛市見頂時相比，最顯著的差異之一在於，企業過去一段時間的盈利增長與目前市場的整體回報基本相匹配。”
-
----
-
-### 2026-06-01 22:39:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-BlackRock Stock Price Hits 6-week Low — BlackRock shares decreased to 1029.00 USD, the lowest since April 2026. Over the past 4 weeks, BlackRock lost 1.83%, and in the last 12 months, it increased 5.62%.
-
----
-
-### 2026-06-01 22:39:12  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Turns Negative — The DAX 40 fell 0.7% to below 25,000 on Monday afternoon, in line with other European peers, following reports that Iranian negotiators had ceased talks with the US in retaliation for Israeli military operations in Lebanon. Tehran also threatened to fully block the Strait of Hormuz and said it would include the Bab al-Mandab Strait in the Horn of Africa in its escalation response to alleged ceasefire violations. The weekend was marked by a new series of US-Iran clashes, with Israel also expanding military operations in Lebanon. Energy-sensitive industrial stocks, particularly defense and aerospace names such as Rheinmetall (-5.8%), Airbus (-3.9%), and MTU Aero Engines (-3.5%), came under heavy pressure. On the opposite side, software stocks were among the biggest gainers, with SAP surging 6.8%.
-
----
-
-### 2026-06-01 22:38:54  #公司 #市場 #國際
-
-【戴爾科技漲11%、惠普漲近9% 英偉達進軍個人電腦市場】戴爾科技盤中再度漲11%，該股上一交易日因亮眼財報暴漲超32%，股價續創歷史新高；惠普現漲近9%。訊息面上，英偉達今日宣佈推出RTX Spark超級晶片，進軍PC市場。今天（6月1日），美國科技公司英偉達宣佈推出一款適用於個人電腦Windows系統的新款超級晶片，預計相關膝上型電腦和桌上型電腦產品將於今年秋季上市。英偉達執行長黃仁勳表示，新產品將改變以往個人電腦的工作方式，“使用者只需提出需求，剩下的都將由電腦來完成”。
-
----
-
-### 2026-06-01 22:38:47  #市場
-
-南非主要股指下跌 2%，報 112295.70 點。
-
----
-
-### 2026-06-01 22:38:38  #公司
-
-【追覓回應Pre-IPO融資估值700億：與資本市場保持開放溝通，不評論市場傳聞】據報道，追覓近期開放直接融資視窗，計劃釋放部分Pre-IPO份額。本輪投前估值或鎖定約700億元人民幣，此次整體釋放的份額區間為5%至10%，單筆投資最低門檻高達3.5億元。對於是否已經開放Pre-IPO直接融資視窗一事，追覓科技獨家回應新浪科技稱：“我們注意到了相關市場傳聞，公司始終與資本市場保持開放溝通，並會根據業務發展需要和長期戰略規劃，適時評估各類資本合作機會。”“對於市場傳聞及未公開資訊，公司不予評論，任何重大資本動態，我們均會按監管要求透過官方渠道披露。”追覓科技方面表示。對於市場傳聞本輪融資估值約700億元是否屬實一事，追覓方面表示：“ 對於具體融資安排、估值等市場傳聞，公司不予評論，公司始終聚焦長期經營與技術創新，持續提升全球市場競爭力和企業價值。”（新浪科技）
-
----
-
-### 2026-06-01 22:38:04  #國際
-
-印度銀行將一年期貸款市場基準利率從8.75%上調至8.85%。
-
----
-
-### 2026-06-01 22:37:38  #MKT News #GM.N #Impact bearish
-
-A strike by suppliers to GM could force the automaker to halt production at its pickup truck assembly plants within weeks.
-
----
-
-### 2026-06-01 22:36:51  #其他
-
-市場訊息：通用汽車供應商罷工或導致皮卡廠數週內停產。
-
----
-
-### 2026-06-01 22:36:31  #焦點 #國際
-
-市場訊息：以色列擴大在黎巴嫩的軍事行動是與美國協調進行的。
-
----
-
-### 2026-06-01 22:36:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Israel's expanded military operations in Lebanon were coordinated with the United States, according to Israel Hayom.
-
----
-
-### 2026-06-01 22:36:16  #公司 #市場
-
-【華友鈷業：發行2026年度第六期超短期融資券10億元，償還有息負債】華友鈷業披露，公司近日成功發行了2026年度第六期超短期融資券（債券簡稱：26華友鈷業SCP006），發行金額為10億元人民幣，期限268天，單位面值100元，發行利率1.87%。本期債券由中信銀行、渤海銀行、平安銀行及浙商銀行組成承銷團，透過簿記建檔和集中配售方式在全國銀行間債券市場公開發行。華友鈷業稱，本期債券募集資金將用於償還公司有息負債，有助於最佳化債務結構，降低財務成本。
-
----
-
-### 2026-06-01 22:36:03  #國際
-
-俄羅斯莫斯科交易所：5月交易量達161.5萬億盧布。
-
----
-
-### 2026-06-01 22:34:38  #公司 #市場
-
-芝加哥期權交易所全球市場公司股價即將迎來連續第五日下跌，最新跌幅為6%。
-
----
-
-### 2026-06-01 22:33:31  #MKT News #DXY #Impact bullish #WTI
-
-【Traders expect USD to rise over coming weeks】Traders expect the dollar to strengthen over the next few weeks, citing ongoing uncertainty in U.S.-Iran talks and an AI-driven U.S. equity rally. The dollar index rose last month and was up 0.4% on Monday as investors gauge the difficulty of U.S.-Iran negotiations. The conflict has closed the Strait of Hormuz, pushing energy prices sharply higher and raising concern that central banks, including the Fed, may need to raise rates to combat inf. Reports said Iran would stop information-sharing with the U.S. after Israel expanded strikes into Lebanon.
-
----
-
-### 2026-06-01 22:33:29  #市場 #央行 #國際
-
-【交易員認為未來幾周美元將會上漲】交易員認為，未來幾周美元將會上漲，其支撐因素包括美伊談判仍存不確定性以及由人工智慧驅動的美國股市上漲。美元指數上個月有所上漲，投資者當下正在評估美伊談判進展的艱難程度。這場戰爭已導致霍爾木茲海峽關閉，能源價格因此飆升，並引發了人們對包括美聯儲在內的全球各國央行可能需要提高利率以應對通脹的擔憂。週一，該指數又上漲了0.4%。此前有報道稱，鑑於以色列擴大了對黎巴嫩的攻擊行動，伊朗將停止與美國進行資訊交流。
-
----
-
-### 2026-06-01 22:33:25  #市場 #國際
-
-【伊朗據報將停止與美國交換資訊 以抗議以色列對黎巴嫩的攻勢】伊朗表示將停止與美國的談判，以抗議以色列擴大在黎巴嫩的地面進攻。在華盛頓和德黑蘭尋求達成臨時和平協議之際，這導致緊張局勢升溫。據半官方的塔斯尼姆通訊社援引一份宣告報道，談判人員將暫停“透過調解人進行的談判和檔案交換”。該報道導致油價飆升，股市下跌，布倫特原油一度升至每桶97美元左右。上週，隨著交易員對達成協議的前景持樂觀態度，布倫特原油下跌超過11%。華盛頓和德黑蘭一直在就一項協議草案間接交換資訊。該協議有望使雙方將停火期限延長約兩個月，同時伊朗將重新開放海峽，美國解除對伊朗港口的封鎖。然而，伊朗官員稱以色列週末對黎巴嫩發動約25年來最廣泛的地面攻勢違反了停火協議。德黑蘭方面一直堅持，任何協議都必須適用於該地區的所有交火，包括在黎巴嫩。伊朗支援的真主黨和以色列正在黎巴嫩進行著一場平行戰爭。伊朗議會議長兼首席談判代表穆罕默德·巴蓋爾·卡利巴夫早前在社媒發帖表示，以色列在黎巴嫩升級行動，以及對伊朗港口的海上封鎖，“清楚地表明美國不遵守停火協議”。
-
----
-
-### 2026-06-01 22:31:19  #MKT News #Market Themes #The Trump Trade #AI Revolution #IBM.O #Impact bullish
-
-【IBM shares surge after Trump praise video from six months ago resurfaces】IBM shares jumped nearly 9% on Monday, adding more than $24 billion in market value, after a White House event video from six months ago in which President Trump called IBM CEO Arvind Krishna a legendary figure resurfaced and was widely reposted by dozens of social accounts over the weekend. Markets did not react when the clip first circulated. The stock had already begun rising in premarket trading ahead of comments from Jensen Huang that lifted software-related names, laying the groundwork for the bigger Monday gain. The episode illustrates elevated speculative appetite in tech amid the AI rally and that Trump endorsements can trigger sharp equity moves.
-
----
-
-### 2026-06-01 22:31:13  #公司 #市場 #國際
-
-【IBM股價飆升，竟是因特朗普六個月前的點贊影片】IBM週一飆升了近9%，市值增加了超過240億美元。在六個月前的一段白宮活動影片中，美國總統特朗普稱讚IBM CEO阿文德·克里希納為“傳奇人物”，市場當時並未立即做出反應。但在週末期間，社交平臺上的數十個賬號紛紛轉發了這段影片。在英偉達CEO黃仁勳發表言論提振軟體類股票之前，IBM股價在盤前就已經開始上漲，為週一開盤的大幅上漲奠定了基礎。這一現象凸顯了當前市場中投機狂熱的規模之大，這種狂熱正席捲各個領域，而人工智慧的蓬勃發展更是引發了投資者對科技股的狂熱追捧。這種情況也反映出特朗普支援特定的公司和行業的意願，他的這種做法有時也會導致其言論引發股市的劇烈波動。
-
----
-
-### 2026-06-01 22:30:10  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Mehr news agency, citing security sources, reported Iran says the US and Israel are attempting to exert pressure on Iran via Lebanon and Gaza.
-
----
-
-### 2026-06-01 22:29:30  #國際
-
-市場訊息：伊朗表示，美、以試圖借黎巴嫩與加沙向其施壓。
-
----
-
-### 2026-06-01 22:29:23  #MKT News
-
-German Chancellor MERZ will convene multiple leaders to draft a NATO strategy aimed at courting Trump’s support; he will also chair an E5 leaders’ meeting this month to prepare for the upcoming NATO summit.
-
----
-
-### 2026-06-01 22:29:00  #國際
-
-市場訊息：德國總理默茨將召集各方高層，擬定北約爭取特朗普支援的相關方案。
-
----
-
-### 2026-06-01 22:28:47  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-Russell 2000 fell 1.2%.
-
----
-
-### 2026-06-01 22:28:39  #市場
-
-羅素2000指數下跌1.2%。
-
----
-
-### 2026-06-01 22:28:04  #公司
-
-【世界首個乏燃料地下儲存庫或明年初啟用】位於芬蘭的世界上第一座乏燃料地下永久儲存庫建設已進入收尾階段，將在本月接受最終評估，預期於明年年初前正式投入使用。屆時，這座儲存庫可儲存芬蘭兩座核電站共5座核反應堆產生的乏燃料。這座乏燃料儲存庫名為“翁卡洛”，芬蘭語中意為“洞穴”，位於芬蘭西南部城鎮埃烏拉約基一處地下基岩中，距地表約433米，附近有芬蘭兩座核電站之一的奧爾基盧奧托核電站。翁卡洛儲存庫由從事核廢料處理業務的波西瓦公司承建，2004年啟動工程專案可行性研究，2015年獲得儲存庫建設許可，專案總成本據估算將達10億歐元，預計可儲存相當於6500噸鈾的乏燃料。（新華社）
 
 ---

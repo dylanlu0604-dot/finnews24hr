@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 12:05:37_
-_本檔包含 3991 則快訊，約 707376 字_
+_更新時間：2026-06-07 13:45:09_
+_本檔包含 3982 則快訊，約 708383 字_
+
+---
+
+### 2026-06-04 06:30:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 4.29% — Top commodity gainers are Natural Gas UK (4.29%), Heating Oil (3.62%), Natural Gas EU (3.36%), Crude Oil WTI (2.14%) and Brent Crude Oil (1.46%). Biggest loser is Gasoline (-0.74%).
+
+---
+
+### 2026-06-04 06:24:40  #市場
+
+日經期貨下跌1.0%，報67570點。
+
+---
+
+### 2026-06-04 06:15:19  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-04 06:15:12  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Depreciates by 1.01% — Top currency losers are New Zealand Dollar (-1.01%), Swedish Krona (-0.98%), South Korean Won (-0.85%), British Pound (-0.39%), Euro (-0.31%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.33%).
+
+---
+
+### 2026-06-04 06:08:37  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+【Trump says US-Iran deal could be reached this weekend】At the White House on the 3rd, President Trump said negotiations with Iran are progressing very smoothly and an agreement could be reached and announced this weekend. Asked whether a ceasefire remained in effect after a recent Iranian strike on Kuwait, he said recent US strikes on Iran in the previous nights were quite heavy and that such actions have reasons; he called the Iranian move not a big deal and said US forces have the situation under control and snuffed it out quickly.
+
+---
+
+### 2026-06-04 06:08:26  #其他
+
+英偉達以至少4億美元收購企業級模型開發商Kumo AI。
+
+---
+
+### 2026-06-04 06:08:09  #國際
+
+【特朗普稱美伊協議可能在本週末達成】美國總統特朗普3日在白宮對媒體說，美國同伊朗的談判進展順利，協議可能在本週末達成。特朗普說：“我聽說談判本身進行得非常順利，實際上是相當順利……如果真能達成協議，那可能會在這個週末揭曉。”（新華社）
+
+---
+
+### 2026-06-04 06:07:12  #其他
+
+【Meta擬推出“Hatch”人工智慧智慧體，月費最高200美元】Meta正考慮對旗下面向普通消費者的OpenClaw智慧體工具新品設定最高每月200美元的定價。該定價目標定位激進，將對標頭部AI大廠的高階付費產品。這款暫定名為Hatch的產品將採用分級定價，高階訂閱檔定價199.99美元/月。Hatch功能覆蓋面廣泛：可按需編寫定製軟體、在使用者日曆建立日程、代為傳送郵件。使用者僅需使用日常口語提出需求，產品就能生成可正常執行的程式，和自然語言程式設計類應用操作邏輯一致。Hatch推出付費高階版本後，Meta將直面與OpenAI、Anthropic等AI企業的正面競爭，上述企業的程式碼生成與智慧體付費產品已積累海量使用者：OpenAI的ChatGPT專業版、Anthropic Cladue Max頂配套餐定價均為每月200美元。
+
+---
+
+### 2026-06-04 06:06:03  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O
+
+The Information reports Meta Platforms (META.O) plans to charge up to $200 per month for its 'Hatch' AI agent.
+
+---
+
+### 2026-06-04 06:04:23  #市場
+
+紐約期銀日內跌1%，現報72.96美元/盎司。
+
+---
+
+### 2026-06-04 06:03:23  #其他
+
+Meta計劃推出的“Hatch”人工智慧智慧體，擬每月最高收費200美元。
+
+---
+
+### 2026-06-04 06:01:59  #國際
+
+歐洲機場理事會：歐洲機場客流量下滑反映出中東衝突帶來的影響。
+
+---
+
+### 2026-06-04 06:01:52  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+WTI crude opened down 0.5% on Thursday at $97.38/bbl.
+
+---
+
+### 2026-06-04 06:01:44  #國際
+
+歐洲機場理事會表示，這是自2021年4月新冠疫情後復甦啟動以來，歐洲機場客運量首次出現同比下滑。
+
+---
+
+### 2026-06-04 06:01:33  #國際
+
+歐洲機場理事會表示，4月份歐洲機場網路的旅客客流量較去年同期下降0.7%。
+
+---
+
+### 2026-06-04 06:01:13  #市場
+
+鈀金期貨日內跌1%，現報1322.50美元/盎司。
+
+---
+
+### 2026-06-04 05:59:54  #國際
+
+【特朗普淡化霍爾木茲海峽水雷威脅 並推介替代航線】美國總統特朗普淡化了霍爾木茲海峽水雷對商業航運的威脅，儘管其他美國官員已警告相關風險。特朗普週三對記者表示，美軍已經“掃除了水雷，我們認為已經清除了大部分”。他還表示，一旦伊朗簽署停止武裝敵對行動的諒解備忘錄，“在清理幾個區域，包括清除水雷後”，霍爾木茲海峽將“立即”開放。伊朗對特朗普提出的和平條款表示牴觸，並且尚未同意達成協議。特朗普似乎還暗指部分船隻沿著阿曼海岸秘密通行的航線，美軍在必要時會提供協助。特朗普說：“這很快就會發生，而且我們反正會走南線。”
+
+---
+
+### 2026-06-04 05:59:23  #其他
+
+中央氣象臺6月4日06時解除大霧黃色預警。
+
+---
+
+### 2026-06-04 05:58:58  #其他
+
+中央氣象臺6月4日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-06-04 05:58:16  #焦點 #國際
+
+烏克蘭總理：所有歐盟成員國已為烏克蘭和摩爾多瓦開啟入盟談判第一組別談判開綠燈。
+
+---
+
+### 2026-06-04 05:58:03  #國際
+
+烏克蘭總理：我們距離加入歐盟又近了一步，正穩步朝著我們的目標邁進。
+
+---
+
+### 2026-06-04 05:57:37  #公司
+
+【逾兩年無新牌照落地 農商聯合銀行叩門求變】“我行正積極爭取理財公司牌照，但這類牌照的申請難度變大了。”近日，多家擁有自營理財產品的中小銀行資產管理部及理財業務部人士表示，今年以來，監管部門對於理財公司牌照的審批愈發嚴格。在此背景下，中國證券報記者日前獲悉，浙江、江蘇的省級農商聯合銀行已向監管部門申請理財公司牌照。 “相較一般的農商銀行，省級農商聯合銀行獲得理財公司牌照的可能性大一些，主要原因是它們的資產規模較大。但相關事項尚未落地，需要看監管部門的最終審批情況。”一位杭州聯合銀行人士告訴記者。（中證報）
+
+---
+
+### 2026-06-04 05:57:17  #央行 #市場 #國際
+
+【央行購金託底 黃金坐上儲備資產“頭把交椅”】黃金超越美債，成為全球官方儲備第一大資產。日前，歐洲中央銀行最新發布的報告顯示，截至2025年年底，黃金在全球官方儲備資產中的佔比升至27%，超過美債的22%。 自佈雷頓森林體系解體以來，美元資產長期佔據全球官方儲備資產的首位。業內人士認為，黃金“上位”並非偶然，其背後既有金價大漲帶來的估值效應，也有全球央行持續購金、儲備資產多元化以及市場對美元資產安全性擔憂升溫等深層因素。展望後市，央行購金仍將為金價提供底部支撐，但美元走勢、美債收益率、通脹壓力、地緣局勢風險和投資需求變化，將共同決定金價下一階段的走勢方向。（中證報）
+
+---
+
+### 2026-06-04 05:57:00  #市場
+
+【厄爾尼諾“警報”拉響 看好三大板塊機遇】6月2日，世界氣象組織確認熱帶太平洋海溫持續異常升高，厄爾尼諾正在形成。資本市場已提前反應，自5月22日以來，Wind電力指數持續走強，累計漲幅超9%，多隻火電、電網及電力裝置相關個股表現活躍。 機構人士認為，本輪厄爾尼諾或將影響農產品供給、能源需求以及全球通脹預期。在此背景下，農產品、能源、公用事業等板塊成為機構關注的重點投資方向。（中證報）
+
+---
+
+### 2026-06-04 05:55:23  #央行 #市場
+
+【央行公開市場再現“零操作” 技術性回籠不改資金面寬鬆預期】央行公開市場逆回購操作量為零，直接原因是資金面並不緊張。從市場利率表現看，6月初跨月因素消退後，銀行間流動性重新轉向寬鬆。而從流動性缺口看，資金面也缺乏明顯收緊基礎。此外，銀行負債端的變化，也印證了資金壓力有限展望6月，機構普遍認為，資金面大幅收緊的機率不大，總體仍將維持合理充裕格局：從流動性供給看，6月財政支出有望對資金面形成支撐；從央行操作取向看，近期公開市場操作更多體現為順勢調節，而非政策轉向。（上證報）
+
+---
+
+### 2026-06-04 05:54:55  #公司
+
+【算力大單頻現 租賃市場進入規模化增長週期】2026年第二季度，A股市場頻現算力大單，十億級、百億級大額協議與長期合同成為市場主流，且不乏新能源、文娛等傳統行業上市公司跨界進入算力賽道。算力專案批次落地、跨界企業集中入局的背後，是產業生態、市場需求、頂層政策的多重共振。當前國內算力行業已擺脫概念炒作，邁入規模化落地、規範化發展的質變階段，行業格局加速分層迭代，高質量發展特徵愈發凸顯。（上證報）
+
+---
+
+### 2026-06-04 05:54:21  #市場
+
+【AI與新能源需求共振 高階銅箔產能供不應求】AI算力需求日益增長，加上新能源汽車、儲能產業持續高景氣，銅箔產業正迎來新一輪景氣上行週期。上海證券報記者近日採訪獲悉，多家銅箔企業的高階PCB銅箔和鋰電銅箔均滿產滿銷，且兩類產品價格均有不同程度的上漲。據瞭解，銅箔行業剛走出上一輪下行週期，行業整體擴產意願較為謹慎。與此同時，受技術門檻、擴產壁壘及資本開支等影響，高階銅箔擴產存在較高瓶頸。業內人士對記者分析稱，由於擴產速度不及需求增速，高階銅箔供求錯配、價格上漲的情況或進一步催化。（上證報）
+
+---
+
+### 2026-06-04 05:53:06  #公司
+
+【上市公司再掀回購熱潮 年內披露金額已超千億元】股份回購既能提振市場對公司未來發展的信心，又能增厚股東收益，是上市公司市值管理的重要手段。 今年以來，A股上市公司延續去年回購熱潮。資料顯示，年內落地實施的回購總額突破550億元；另有超230家上市公司丟擲回購預案，擬回購資金上限合計逾1000億元。（證券時報）
+
+---
+
+### 2026-06-04 05:50:45  #國際
+
+【格雷澤家族部分成員考慮出售曼聯股權】執掌曼聯二十餘年後，格雷澤家族部分成員正在商議是否出售所持曼聯俱樂部股權。家族內部磋商起初僅圍繞個別成員出讓股權展開，目前這批成員正試圖勸說其他親屬一同出售。潛在股權交易或將引來中東資本、美國富豪等多方競標者，但意向收購方需承擔高昂收購成本。
+
+---
+
+### 2026-06-04 05:49:48  #國際
+
+【伊朗外長：若以色列侵略貝魯特 則將重新開戰】據伊朗伊斯蘭共和國通訊社3日報道，伊朗外交部長阿拉格齊近日重申對黎巴嫩的支援，稱如果以色列繼續侵略黎巴嫩首都貝魯特，伊朗武裝部隊將重新開戰並打擊以色列境內目標。阿拉格齊說，伊朗已明確告知美國，如果以色列對貝魯特發動軍事行動，將被視為停火全面破裂，伊方“絕不容忍”，伊朗武裝部隊將作出回應。（新華社）
+
+---
+
+### 2026-06-04 05:48:04  #公司 #市場
+
+【港股主題ETF資金切換 減持恒生科技加倉創新藥】隨著人工智慧（AI）熱潮席捲全球，此前被定義為新經濟的恒生科技主題基金近期遭遇基民減倉。資料顯示，二季度以來，多隻跟蹤恒生科技指數的ETF一改往日資金淨流入、規模逆勢增長的態勢，轉而出現了明顯的份額縮水。 安聯基金基金經理認為，港股市場正迎來盈利與估值雙升的戰略機遇期。低估值只是配置港股的部分考量，長期投資價值核心來自ROE（淨資產收益率），即企業盈利能力。隨著大量新經濟公司登陸港股，市場整體ROE顯著提升，這是港股長期配置價值發生質變的核心原因。（證券時報）
+
+---
+
+### 2026-06-04 05:47:08  #公司
+
+【年內多家公募迎資金馳援 強化資本儲備“壓艙石”】6月2日，湘財基金髮布公告，宣佈全資控股股東湘財證券再次向其注資，公司註冊資本由3.5億元增至4億元。 2026年開年以來，多家基金公司相繼宣佈或完成增資計劃。業內人士表示，充足的資本儲備是基金公司行穩致遠的“壓艙石”，不僅能提升公司的抗風險能力與合規運營水平，更為其豐富產品線、提升投研能力及最佳化公司治理提供了動能。（證券時報）
+
+---
+
+### 2026-06-04 05:46:48  #其他
+
+【避開擁擠賽道佈局AI上游 基金經理看好能源類“科技奶牛”】Wind資料顯示，近一週全市場淨值排行前五十的公募產品中，半數以上重倉佈局煤炭、電力裝置標的。算力叢集落地、光模組海外出口高增離不開穩定能源供給，海量資本開支投向半導體與AI算力建設，間接拉動煤炭資源、電網配套裝置需求穩步上行，傳統能源行業與高科技產業的景氣度繫結持續加深。 在這波泛科技行情浪潮中，萬家宏觀擇時多策略便是代表性產品，近一週，該基金淨值漲幅超8%。根據基金一季報持倉，該基金十大重倉股清一色聚焦煤炭及相關能源標的，未配置任何AI、半導體龍頭個股，卻也被持有人調侃為“科技類”基金。基金經理黃海在闡述持倉思路時表示，聚焦能源相關標的是因為當前中國出口的韌性以及能源自主可控。（證券時報）
+
+---
+
+### 2026-06-04 05:46:02  #公司
+
+【科技主題LOF業績批次翻倍 溢價水平走高觸發風控加碼】Wind資料顯示，近1年（截至6月3日），共有32只LOF產品實現業績翻倍，其中財通福鑫定開混合更是翻了超5倍，最新漲幅高達579%，紅土精選等4只LOF產品也實現了超200%的漲幅。 伴隨著資金炒作升溫，部分熱門LOF二級市場成交價大幅偏離基金單位淨值，場內溢價快速抬升。針對高溢價隱患，多家基金管理人密集披露風險提示公告，提醒投資者警惕市價虛高回落風險，理性參與二級市場交易。（證券時報）
+
+---
+
+### 2026-06-04 05:44:36  #MKT News #WTI #Impact bullish #Brent
+
+【Trump says maritime blockade of Iran ‘more effective than bombing’; Tehran ‘agreed’ to allow US access to recover buried nuclear material after conflict】Speaking to CNN, US President Trump called a maritime blockade of Iranian ports the strongest lever, saying its impact “may be greater than bombing” and that under the current sea blockade no ship can pass unless the US permits. Trump said Iran will never be allowed to possess nuclear weapons. He added that, “as of now,” Tehran has agreed that once hostilities end it will coordinate with US authorities to permit American access to recover buried nuclear material, while warning Iranian officials have “changed their minds several times” and saying action is expected “in the near future.”
+
+---
+
+### 2026-06-04 05:41:57  #MKT News #AVGO.O #Impact bullish
+
+Broadcom CEO says the company plans to deliver 10 GW of compute capacity by 2027 and expects larger-scale compute expansion in 2028.
+
+---
+
+### 2026-06-04 05:41:18  #公司 #市場
+
+【6月4日美股成交額前20：邁威爾科技連漲五日，再創歷史新高】第2名邁威爾科技收高3.73%，成交347.16億美元。截止週三收盤，該股已經連續第五個交易日收高，再創歷史新高。黃仁勳在臺北國際電腦展與邁威爾科技執行長對話時，稱其為“下一個市值萬億美元的公司”。此前其釋出強勁財報，英偉達也在今年早些時候宣佈向其投資20億美元。邁威爾科技2027財年第一季度營收24.18億美元，同比增長28%，並將2027財年營收預期上調至約115億美元，2028財年上調至165億美元。2026財年營收81.95億美元，同比增長42%，非公認會計准則下毛利率達59.0%。
+
+---
+
+### 2026-06-04 05:40:39  #MKT News
+
+【YONHAP: Democratic Party locks in victory in South Korea local elections】YONHAP on the 4th reported preliminary counts show the ruling Democratic Party has locked in victory in the 9th local elections held on the 3rd, winning or leading in 13 of 16 provincial governor and metropolitan mayor races, including Gyeonggi and Incheon. The main opposition People Power Party is likely to take only Daegu, North Gyeongsang and South Gyeongsang. In 14 parliamentary by-elections, Democratic candidates are leading in the majority of districts.
+
+---
+
+### 2026-06-04 05:40:10  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
+
+Broadcom CEO says the company has secured supplies for 2026 and 2027 and is planning supply arrangements for 2028 and 2029.
+
+---
+
+### 2026-06-04 05:39:29  #國際
+
+【韓媒：韓國地方選舉 執政黨鎖定勝局】據韓聯社4日報道，根據初步開票結果，韓國執政黨共同民主黨在3日舉行的第九屆地方選舉中鎖定勝局，贏得多數道、市、郡、區等各級政府的行政長官職位。報道說，截至4日凌晨，在本次選出的16個道知事和廣域市市長職位中，共同民主黨已在京畿道、仁川等13地取得勝利或保持領先，而最大在野黨國民力量黨預計僅能拿下大邱、慶尚北道和慶尚南道三地。在14個席位的國會議員補選中，共同民主黨候選人也在大多數選區領先。（新華社）
+
+---
+
+### 2026-06-04 05:38:45  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
+
+【Industry groups urge US government to boost memory-chip supply】An alliance of nine U.S. trade associations warned on Wednesday that an AI-driven global memory-chip shortage is creating increasing risks for automakers, medical-device makers and other industries, and urged the Trump administration to help expand supplies. The groups told Treasury Secretary BESSENT and Commerce Secretary Lutnick the shortage could disrupt critical supply chains and may push up consumer-goods prices in the near term. They said the rapid expansion of AI data centres is consuming a disproportionate share of memory capacity, prompting unprecedented price increases and reducing availability for manufacturing and consumer markets. The associations asked the administration to work with chip manufacturers and buyers to expand capacity in the United States and allied jurisdictions, and recommended using trade-agreement mechanisms or CHIPS Act-related programs to secure supply chains and shore up supply across market segments.
+
+---
+
+### 2026-06-04 05:38:34  #公司
+
+博通執行長：計劃2027年出貨10吉瓦，預計2028年出貨量將進一步大幅提升。
+
+---
+
+### 2026-06-04 05:37:39  #公司
+
+博通執行長：有充分把握確保2026年與2027年的晶片供應，目前正就2028年和2029年的供應開展相關工作。
+
+---
+
+### 2026-06-04 05:37:21  #MKT News
+
+The U.S. House passed a motion to discharge H.R.2913, which includes authorization of support for Ukraine and related measures; a floor vote on the bill is still underway.
+
+---
+
+### 2026-06-04 05:34:31  #其他
+
+秘魯外貿和旅遊部長宣佈辭職。
+
+---
+
+### 2026-06-04 05:33:04  #MKT News #Important
+
+【U.S. House passes resolution limiting Trump’s authority to use force against Iran】The Republican-controlled U.S. House voted 215-208 to pass a resolution restricting President Trump’s ability to use military force against Iran; four House Republicans joined all Democrats in supporting the measure, signaling dissent within Trump’s party. The resolution directs withdrawal of U.S. forces engaged in hostilities with Iran unless Congress declares war or authorizes use of military force. The measure is largely symbolic: it cannot compel the president to end operations, must clear the Republican-controlled Senate, and could be vetoed by Trump.
+
+---
+
+### 2026-06-04 05:30:40  #焦點 #國際
+
+【美眾議院透過決議 限制特朗普對伊動武權力】當地時間3日，美國國會眾議院透過一項決議，旨在限制美國總統特朗普對伊朗動武的權力，要求特朗普結束對伊朗的軍事行動。（央視新聞）
+
+---
+
+### 2026-06-04 05:29:54  #公司
+
+博通執行長：認可谷歌會採用多渠道採購晶片。
+
+---
+
+### 2026-06-04 05:24:50  #MKT News #AVGO.O #Impact bullish
+
+Broadcom CEO said Q2 non-AI semiconductor revenue rose 6%.
+
+---
+
+### 2026-06-04 05:24:28  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish #Nasdaq100
+
+Broadcom CEO reiterates expectation that AI semiconductor revenue will top $100 billion in fiscal 2027 and says AI semiconductor revenue will continue to grow in fiscal 2028.
+
+---
+
+### 2026-06-04 05:24:27  #國際
+
+【伊朗稱愛國者導彈致科威特機場受損】伊朗伊斯蘭革命衛隊當地時間6月3日稱，革命衛隊航空航天部隊當天並未向科威特國際機場航站樓發射任何導彈。有證據顯示，美製“愛國者”反導系統在未能攔截伊朗導彈之後誤操作，導致攔截彈落入機場客運航站樓，從而造成損毀。而美軍中央司令部隨即在社交媒體平臺發表宣告，稱伊朗所稱完全是“虛假資訊”，並稱伊朗“使用無人機蓄意、有計劃且毫無道理地襲擊了該民用機場”。 科威特方面稱，科威特國際機場等多處民用設施當天“遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷”。伊朗外長阿拉格齊則在社媒平臺發文，強調伊朗武裝部隊是“自衛性打擊”。（CCTV國際時訊）
+
+---
+
+### 2026-06-04 05:23:39  #公司 #國際
+
+美國鷹牌服飾公司：需將2026年5月2日後收到的關稅退稅款中的3310萬美元支付給買方。
+
+---
+
+### 2026-06-04 05:22:18  #公司 #焦點 #國際
+
+美國鷹牌服飾公司（American Eagle Outfitters）公告檔案顯示：該公司透過參與協議，於2025年將金額為6890萬美元的關稅退稅申請權以1860萬美元現金出售給第三方。
+
+---
+
+### 2026-06-04 05:20:31  #MKT News #AVGO.O #Impact bullish
+
+Broadcom CEO said it has received $6 bln in purchase orders to date.
+
+---
+
+### 2026-06-04 05:20:19  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+U.S. House of Representatives passed a resolution limiting presidential authority to use military force against Iran, 215-208; four Republicans joined Democrats, Axios reports.
+
+---
+
+### 2026-06-04 05:20:12  #其他
+
+SpaceX在IPO前夕拿下德克薩斯州晶片專案稅收減免。
+
+---
+
+### 2026-06-04 05:18:49  #公司
+
+博通執行長：公司第二季度非人工智慧半導體收入增長6%。
+
+---
+
+### 2026-06-04 05:18:35  #MKT News #Important #WTI #Impact bearish #Brent
+
+The U.S. House passed a resolution limiting President Trump's authority to use military force against Iran.
 
 ---
 
@@ -23639,407 +23987,5 @@ US Secretary of State Rubio said the solution to Venezuela's problems is holding
 ### 2026-06-03 02:47:29  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
 
 【Microsoft unveils upgraded quantum chip, targets commercial quantum computer by 2029】Microsoft (MSFT.O) unveiled the Majorana 2 quantum chip at Build 2026, saying it now targets a commercially practical quantum computer by 2029. Majorana 2 has 12 qubits, up from 8 in the prior model, and Microsoft says qubit coherence exceeds 20 seconds versus under 12 milliseconds previously. The device uses lead-based superconducting connectors instead of aluminium. Microsoft says it has halved its timetable and set 2029 as the current target.
-
----
-
-### 2026-06-03 02:43:32  #國際
-
-美國國務卿魯比奧：我國外交政策的核心須始終立足美國國家利益。
-
----
-
-### 2026-06-03 02:40:08  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-【Microsoft launches Scout AI assistant integrated into email and calendar】Microsoft has launched Scout, an AI assistant integrated into internal email and calendar systems to operate like a 24/7 executive assistant rather than a user-visible chatbot. Charles Lamanna, head of commercial apps product development, said Scout can autonomously perform broader tasks — for example, rescheduling meetings to resolve time conflicts — and can be shared so employees can query a manager’s Scout. Microsoft did not disclose pricing; initial use will require a GitHub Copilot subscription. Lamanna said customer billing will likely be usage-based rather than a fixed fee, and Microsoft intends to add more AI products to subscription plans as model-access costs fall.
-
----
-
-### 2026-06-03 02:33:29  #MKT News #Market Themes #The Trump Trade
-
-【White House Correspondents' Dinner rescheduled to July 24; Trump to attend】On June 2 President Trump said the White House Correspondents' Dinner, postponed after a recent violent incident, has been rescheduled for July 24 and that he has accepted an invitation to attend and speak. He said he was unsure whether he would repeat similar "sharp remarks" made previously. Trump said the dinner will be held at the Waldorf Astoria on Pennsylvania Avenue, which he said he had a role in developing.
-
----
-
-### 2026-06-03 02:32:58  #國際
-
-【美軍稱“林肯”號航母繼續參與對伊朗封鎖行動】當地時間6月2日，美國中央司令部表示，美國海軍“亞伯拉罕·林肯”號航空母艦正在阿拉伯海航行，並繼續支援美國針對伊朗實施的海上封鎖行動。美國中央司令部稱，為確保相關封鎖措施得到執行，美軍已對122艘商業船隻進行了改道處理。當前，美軍仍在中東地區維持大規模軍事部署，以支援針對伊朗的軍事和海上行動。
-
----
-
-### 2026-06-03 02:32:53  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract rose 0.17% to 981 yuan/gram; Shanghai silver main contract rose 0.24% to 18,202 yuan/kg; SC crude main contract fell 0.41% to 604 yuan/barrel.
-
----
-
-### 2026-06-03 02:32:46  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) executive says the company will partner with Mayo Clinic to co-develop AI models.
-
----
-
-### 2026-06-03 02:32:21  #公司
-
-微軟高管：公司正與梅奧醫學中心合作，聯合開發人工智慧模型。
-
----
-
-### 2026-06-03 02:32:05  #MKT News
-
-Iran's foreign minister Araghchi said he and the Saudi foreign minister spoke by phone to discuss diplomatic efforts.
-
----
-
-### 2026-06-03 02:31:27  #市場 #焦點
-
-WTI原油突破94美元/桶，日內漲2.00%。
-
----
-
-### 2026-06-03 02:31:19  #其他
-
-高知特與CrowdStrike擴大戰略聯盟，聲稱為智慧體企業提供安全保障。
-
----
-
-### 2026-06-03 02:31:04  #市場 #國際
-
-美國原油期貨結算價報每桶93.76美元，上漲1.60美元，漲幅1.74%。
-
----
-
-### 2026-06-03 02:30:53  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Shanghai Gold Exchange gold T+D closed down 0.14% at 977.8 yuan/gram in the evening session on Tuesday, June 2. Silver T+D closed down 0.41% at 18,141.0 yuan/kilogram.
-
----
-
-### 2026-06-03 02:30:41  #MKT News
-
-Microsoft (MSFT.O) executive said the company's AI inference models were co-developed on its own chips.
-
----
-
-### 2026-06-03 02:30:24  #國際
-
-【白宮記協晚宴改期至7月 特朗普稱計劃出席】當地時間6月2日，美國總統特朗普表示，此前因突發暴力事件而中斷的白宮記協晚宴已確定改期至7月24日舉行，他已接受邀請並計劃出席活動。特朗普在社交媒體發文稱，白宮記者協會主席邀請其出席並發表講話，他已經接受邀請。他表示，不確定屆時是否會發表與此前類似的“尖銳言論”，但“一切很快就會見分曉”。特朗普還稱，重新舉辦晚宴是件好事，因為“不能讓瘋狂分子改變我們的生活方式，甚至改變活動安排”。他預計這將是一場“一票難求”的熱門活動。
-
----
-
-### 2026-06-03 02:30:15  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Slumps by 5.78% — Top crypto losers are Bitcoin (-5.78%), XRP (-5.59%) and Ether (-4.56%).
-
----
-
-### 2026-06-03 02:30:02  #市場
-
-上期所原油期貨夜盤收跌0.41%，報603.60元人民幣/桶。滬金夜盤收漲0.17%，滬銀收漲0.24%。
-
----
-
-### 2026-06-03 02:29:50  #其他
-
-微軟高管稱，微軟推理大模型由其自研晶片聯合開發。
-
----
-
-### 2026-06-03 02:29:43  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) head of AI said MAI Image 2.5 and its Flash variant have surpassed Nano Banana 2 on image-editing benchmarks.
-
----
-
-### 2026-06-03 02:29:18  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) head of AI said MAI-CODE-1 FLASH is Microsoft's new code-generation model.
-
----
-
-### 2026-06-03 02:29:17  #其他
-
-微軟人工智慧負責人：MAI Image 2.5及其極速版本在影象編輯任務上的得分超越了Nano Banana 2。
-
----
-
-### 2026-06-03 02:29:00  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is the company's first inference model.
-
----
-
-### 2026-06-03 02:28:37  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
-
-Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is an inference model with 35 billion active parameters.
-
----
-
-### 2026-06-03 02:28:06  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) head of AI said the MAI-TRANSCRIBE-1.5 model is the most cost-effective among comparable models from all hyperscale cloud providers.
-
----
-
-### 2026-06-03 02:27:26  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) AI chief announced the launch of seven new AI models, adding image and transcription models to its product lineup.
-
----
-
-### 2026-06-03 02:27:15  #其他
-
-微軟人工智慧負責人：MAI-CODE-1 Flash是微軟全新程式設計模型。
-
----
-
-### 2026-06-03 02:26:47  #MKT News
-
-U.S. President Trump: bank accounts used to support or hold benefits for illegal immigrants will be closed; funds will be seized, forfeited and returned to taxpayers.
-
----
-
-### 2026-06-03 02:26:34  #MKT News
-
-U.S. President Trump said access to the U.S. financial system must be limited to individuals with lawful residency and who engage in lawful commercial activity.
-
----
-
-### 2026-06-03 02:26:30  #其他
-
-微軟人工智慧負責人：MAI-THINKING-1是微軟人工智慧旗下首個推理大模型。
-
----
-
-### 2026-06-03 02:26:25  #其他
-
-微軟人工智慧負責人：MAI-THINKING-1是引數規模達350億的啟用引數推理模型。
-
----
-
-### 2026-06-03 02:26:09  #MKT News #Market Themes #The Trump Trade
-
-Trump said illegal immigrants and foreign scammers steal billions of dollars annually from U.S. taxpayers. He signed a new U.S. Treasury-led executive order to prevent banks, credit-card companies and other financial institutions from being used to facilitate human smuggling, drug trafficking, illegal immigration and the criminal networks that organize these activities.
-
----
-
-### 2026-06-03 02:25:31  #其他
-
-微軟人工智慧主管：MAI-TRANSCRIBE-1.5模型是所有超大規模企業同類模型中成本效益最高的。
-
----
-
-### 2026-06-03 02:25:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rises by 4.60% — Top commodity gainers are Cocoa (4.60%) and Rice (1.19%). Biggest losers are Oat (-3.70%), Soybeans (-1.40%) and Wheat (-0.96%).
-
----
-
-### 2026-06-03 02:24:52  #其他
-
-微軟人工智慧模型新增影象生成與語音轉寫模型。
-
----
-
-### 2026-06-03 02:24:24  #其他
-
-微軟人工智慧負責人公佈包含7款全新人工智慧模型的產品系列。
-
----
-
-### 2026-06-03 02:24:07  #國際
-
-【以軍襲擊加沙致死3人 哈馬斯重申願移交治理權】據巴勒斯坦通訊社2日報道，以色列軍隊當天襲擊加沙地帶多地，造成3人死亡。巴勒斯坦伊斯蘭抵抗運動（哈馬斯）重申，願移交加沙地帶治理權。
-
----
-
-### 2026-06-03 02:23:55  #MKT News #GOOG.O
-
-Google (GOOG.O) will update its U.S. prediction-market policy effective June 2, banning advertising for prediction-market contracts and related products in Ohio.
-
----
-
-### 2026-06-03 02:23:53  #宏觀 #國際
-
-【特朗普：近期簽署針對金融機構欺詐問題的行政令】特朗普在社交媒體平臺表示，非法移民與境外詐騙分子每年從美國納稅人手中竊取數十億美元。作為本屆政府打擊欺詐、遏制大規模非法移民歷史性舉措的一環，他近日簽署一項重磅行政令，由財政部牽頭落地，禁止銀行、信用卡機構及各類金融機構淪為協助人口走私、毒品販運、非法入境以及幕後操控此類犯罪活動的工具。美國金融體系的准入許可權，僅限合法居留本國、從事正當合規商貿活動的人員。凡是被用於協助非法移民、或是存放非法移民申領福利金的銀行賬戶，都將被關停，賬戶內資金最終予以查封收繳，返還給納稅人。非法移民僅憑藍州核發的駕照或是拜登政府出臺的邊境證件，就能無限制使用美國金融系統，這絕非荒唐小事，而是潛藏重大隱患。該政令也向反移民與海關執法局的鬧事者釋放明確訊號：你們的暴力滋事只會愈發堅定我們的整治決心。依託這份行政令，還能攔截數十億美元不法資金透過各類犯罪活動外流境外。有觀點認為，此項新政是扭轉拜登時期邊境非法湧入亂象最有效的舉措，成效如何，不久便能見分曉。
-
----
-
-### 2026-06-03 02:22:21  #國際
-
-特朗普：近期簽署針對金融機構欺詐問題的行政令。
-
----
-
-### 2026-06-03 02:22:12  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【HEZBOLLAH rejects partial ceasefire with Israel; exchanges continue】A senior HEZBOLLAH official said on Feb 2 the group will not accept any partial ceasefire with Israel, rejecting proposals to trade an Israeli halt to strikes on Beirut’s southern suburbs for HEZBOLLAH stopping attacks on northern Israeli settlements. He said HEZBOLLAH only accepts a comprehensive, complete and genuine ceasefire, not a return to the pre-conflict status. Lebanon’s state news agency reported Israeli airstrikes on Feb 2 hit multiple sites in southern Lebanon including Dweir and Nabatieh, killing at least 12 and wounding four, including Lebanese army personnel. HEZBOLLAH said its fighters launched a series of attacks on Israeli forces in southern Lebanon in the early hours of Feb 2.
-
----
-
-### 2026-06-03 02:22:01  #公司 #市場 #焦點 #國際
-
-谷歌：將更新美國預測市場政策，禁止在俄亥俄州投放預測市場合約及相關產品廣告。
-
----
-
-### 2026-06-03 02:21:53  #公司 #焦點
-
-谷歌：自2026年6月2日起，預測市場及相關產品的廣告推廣在俄亥俄州被禁止。
-
----
-
-### 2026-06-03 02:21:41  #國際
-
-【辛鮑姆：墨美摩擦系極右翼勢力搞事】墨西哥總統辛鮑姆1日表示，她不認為美國總統特朗普在主導近期美政府針對墨方的政治“攻勢”，當前雙邊關係緊張應歸咎於兩國各自的極右翼勢力。 (新華社)
-
----
-
-### 2026-06-03 02:21:17  #國際
-
-【真主黨不接受與以色列“部分停火” 雙方繼續互襲】黎巴嫩真主黨高階官員馬哈茂德·庫馬提2日接受媒體採訪時表示，真主黨不同意與以色列達成任何“部分停火”協議。庫馬提表示，真主黨及其盟友不會接受“用以軍停止襲擊貝魯特南郊換取真主黨停止打擊以色列北部居民點”的方案。他強調，真主黨只接受全面、完整且真正的停火，而不是僅僅回到本輪衝突爆發之前的局面，“我們不會同意任何部分停火協議”。據黎巴嫩國家通訊社2日報道，以色列軍隊當天仍持續對杜韋爾、奈拜提耶等黎南部多地發動空襲，造成至少12人死亡、4人受傷，死傷者包括黎政府軍人員。真主黨當天說，其武裝人員於2日凌晨對黎南部的以色列軍隊發動一系列襲擊。
-
----
-
-### 2026-06-03 02:20:43  #公司
-
-微軟執行長推出可長期自主執行、名為Autopilots的自主智慧體產品。
-
----
-
-### 2026-06-03 02:20:41  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) unveiled a new quantum chip and said it aims to deliver a practical quantum computer by 2029.
-
----
-
-### 2026-06-03 02:20:15  #其他
-
-微軟表示，內測版中的一款產品案例是名為Microsoft Scout的全天候職場智慧個人助理。
-
----
-
-### 2026-06-03 02:20:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 1.82% — Top commodity losers are Lithium Carbonate (-1.82%) and Silicon (-0.52%). Gains are led by Copper (1.62%), Iron Ore CNY (0.70%) and Platinum (0.58%). Meanwhile Gold was little changed.
-
----
-
-### 2026-06-03 02:19:37  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) CEO launched Autopilots, long-running autonomous agents.
-
----
-
-### 2026-06-03 02:18:41  #其他
-
-微軟釋出新型量子晶片，目標2029年落地實用化量子計算機。
-
----
-
-### 2026-06-03 02:17:22  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
-
-Microsoft (MSFT.O): Its Discovery service is now available to all organizations.
-
----
-
-### 2026-06-03 02:17:11  #其他
-
-微軟：Microsoft Discovery現已向所有組織全面開放。
-
----
-
-### 2026-06-03 02:16:15  #其他
-
-伊拉克內閣批准方案：將傑伊漢港原油出口量提升至77萬桶/日。
-
----
-
-### 2026-06-03 02:16:08  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 0
-
-Paraguay CPI Rises Slightly in May — Paraguay's annual inflation edged up to 2.4% in May 2026 from 2.3% in April. Price pressures were driven mainly by restaurants and hotels (8.4%), education (5.9%), food and non-alcoholic beverages (2.7%), and recreation and culture (2.8%). Additional increases were recorded in alcoholic beverages and tobacco (1.2%), housing and utilities (1.8%), furniture and household goods (2.0%), and healthcare (2.0%). On a monthly basis, consumer prices rose 0.1%, bringing cumulative inflation in the first five months of the year to 2.2%. Meanwhile, core inflation, which excludes more volatile items, remained unchanged at 1.9%, suggesting underlying price pressures stayed relatively contained.
-
----
-
-### 2026-06-03 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.13%) and Methanol (-1.05%). Gains are led by Gasoline (1.96%), Heating Oil (1.89%), Crude Oil WTI (1.58%) and Brent Crude Oil (0.91%).
-
----
-
-### 2026-06-03 02:14:19  #MKT News
-
-Al Jazeera, citing Lebanese officials, said the U.S. is working to secure a full ceasefire agreement by the end of talks tomorrow.
-
----
-
-### 2026-06-03 02:14:12  #國際
-
-半島電視臺援引黎巴嫩官方訊息：美國正推動在明日本輪談判結束之際達成全面停火協議。
-
----
-
-### 2026-06-03 02:12:51  #市場 #國際
-
-據美國交通部資料，5月汽油均價較2025年上漲42.2%。
-
----
-
-### 2026-06-03 02:12:50  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent #DXY
-
-U.S. Department of Transportation data show average gasoline prices in May rose 42.2% year-on-year versus May 2025.
-
----
-
-### 2026-06-03 02:09:18  #公司
-
-紐西蘭商務委員會：指控英國石油紐西蘭分公司涉嫌向旗下加油站違規定價。
-
----
-
-### 2026-06-03 02:08:38  #公司
-
-紐西蘭商務委員會擬對英國石油紐西蘭公司提起訴訟。
-
----
-
-### 2026-06-03 02:08:20  #焦點 #國際
-
-以色列方面訊息人士否認有關特朗普在黎巴嫩空襲相關通話中出言羞辱內塔尼亞胡的報道，稱雙方分歧僅在於對外口徑問題，美方意在避免黎巴嫩局勢升級。
-
----
-
-### 2026-06-03 02:07:44  #國際
-
-【澤連斯基稱俄襲擊已致烏22死130傷】當地時間6月2日，烏克蘭總統澤連斯基在晚間影片講話中稱，俄羅斯對烏克蘭多座城市發動大規模襲擊，已造成22人死亡、130人受傷，遇難者中包括兩名兒童。目前，烏方救援、警務、市政及急救人員仍在持續開展滅火、人員搜救與傷員救治工作。
-
----
-
-### 2026-06-03 02:03:52  #MKT News
-
-【Trump accepts invitation to speak at White House Correspondents' Dinner, event rescheduled to July 24】President Trump said he has accepted an invitation from the White House Correspondents' Association to speak at the White House Correspondents' Dinner, rescheduled to July 24 after violence forced cancellation on April 25. He said he may again make remarks that some would find unpleasant and that the outcome will be known soon.
-
----
-
-### 2026-06-03 02:01:43  #MKT News #WTI #Impact bullish #XAUUSD
-
-Lebanese sources say delegations from Lebanon and Israel have not reached a decisive consensus on a ceasefire.
-
----
-
-### 2026-06-03 02:00:36  #公司
-
-微軟執行長表示，智慧助理365軟體開發套件現已全面開放使用。
-
----
-
-### 2026-06-03 02:00:35  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) CEO said AGENT 365 SDK is now generally available.
-
----
-
-### 2026-06-03 02:00:14  #其他
-
-黎巴嫩訊息人士：黎以雙方代表團迄今未能在停火相關議題上達成關鍵性共識。
 
 ---
