@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-08 04:02:57",
-  "count": 19062,
+  "updated": "2026-06-08 04:06:49",
+  "count": 19069,
   "items": [
+    {
+      "id": "mkt:019ea3b1-55f2-7ee0-86d3-04bdcba6f3ce",
+      "time": "2026-06-08 04:06:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iraq's Civil Aviation Authority announced a 72-hour closure of Iraqi airspace."
+    },
+    {
+      "id": "4922218",
+      "time": "2026-06-08 04:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克民航局宣佈，伊拉克領空將關閉72小時。"
+    },
+    {
+      "id": "mkt:019ea3b0-821d-7ee0-86d2-fd011059c0d0",
+      "time": "2026-06-08 04:05:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran military warns of possible further action against Israel】The commander of Iran’s Khatam al-Anbia Central Command on the evening of the 7th warned Israel to immediately halt strikes on southern Lebanon and Beirut’s southern suburbs, saying Iran would take stronger action against Israel and its backers if attacks continue. Iran fired missiles at Israel that night in response to an expansion of Israeli military operations in Lebanon. Foreign Minister Araghchi posted a photo of the Iranian and Lebanese flags side-by-side on social media."
+    },
+    {
+      "id": "mkt:019ea3ae-d0b3-7ee0-86d2-f271842a71fb",
+      "time": "2026-06-08 04:03:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Trump said he was not satisfied with Israel's attack on Beirut earlier today."
+    },
+    {
+      "id": "4922217",
+      "time": "2026-06-08 04:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就以色列早些時候空襲貝魯特表示：我對此並不滿意。"
+    },
+    {
+      "id": "4922216",
+      "time": "2026-06-08 04:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克南部發生嚴重車禍致21死19傷】伊拉克衛生部7日宣佈，該國南部濟加爾省當天發生一起嚴重交通事故，造成至少21人死亡、19人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019ea3ae-363a-7ee0-86d2-eddcb7b59e21",
+      "time": "2026-06-08 04:02:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq temporarily closes airspace】On the evening of the 7th local time, Iraq announced a temporary closure of its airspace. Earlier that evening the Israel Defense Forces said it detected missiles launched by Iran toward Israel, and air-raid sirens sounded across northern Israel."
+    },
+    {
+      "id": "4922215",
+      "time": "2026-06-08 04:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普建議伊朗發射了導彈就夠了】當地時間6月7日，在伊朗向以色列發射多輪導彈，以回應以軍升級對黎巴嫩的軍事行動後，美國總統特朗普在接受美國福克斯新聞採訪時表示，“我對伊朗的建議是，你們已經發射了導彈，那就夠了。接下來應該回到談判桌，達成協議。”（CCTV國際時訊）"
+    },
     {
       "id": "4922214",
       "time": "2026-06-08 04:01:07",
@@ -175817,14 +175898,6 @@
         "國際"
       ],
       "text": "【經濟學家：中東戰事令南非經濟承壓 央行加息應對】中東戰事對全球能源供應、經濟活動等多個領域帶來衝擊。南非約翰內斯堡大學經濟學家彼得·鮑爾表示，在南非，燃料價格與生活成本也出現上漲。面對壓力，南非央行——南非儲備銀行近日宣佈加息應對。"
-    },
-    {
-      "id": "4909059",
-      "time": "2026-06-01 04:03:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯官員稱，俄控赫爾松地區發生無人機襲擊事件，造成1名兒童死亡，11人受傷。"
     }
   ]
 }
