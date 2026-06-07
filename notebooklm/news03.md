@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 21:50:25_
-_本檔包含 3959 則快訊，約 705907 字_
+_更新時間：2026-06-07 22:48:42_
+_本檔包含 3977 則快訊，約 706567 字_
+
+---
+
+### 2026-06-04 10:02:58  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+China A‑share components sector rose in choppy trade; Shiyun Circuit hit limit-up, with Dongshan Precision, Jianghai, Shenghong Technology and Fenghua Hi‑Tech also gaining.
+
+---
+
+### 2026-06-04 10:02:43  #公司 #市場
+
+【元件板塊震盪走高，世運電路漲停】元件板塊震盪走高，世運電路漲停，東山精密、江海股份、勝宏科技、風華高科跟漲。
+
+---
+
+### 2026-06-04 10:02:13  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Retreat on Trade Headwinds — The Shanghai Composite fell 0.7% to 4,055 on Thursday, while the Shenzhen Component lost 0.4% to 15,651, with both benchmarks snapping a two-session gain as investors weighed mounting trade tensions involving China. The US Trade Representative announced plans for additional tariffs of up to 12.5% on imports from 60 trading partners, including China, over alleged failures to prevent imports linked to forced labor, with the measures due to take effect next month. Adding to trade tensions, the EU introduced the Industrial Accelerator Act and the Cybersecurity Act, measures that could effectively shut some Chinese firms out of parts of the European market. Beijing vowed retaliatory measures, heightening fears of a wider trade confrontation between the two sides. Financial stocks led the losses, particularly Commercial Bank of China (-0.8%), Agricultural Bank of China (-1.4%), and China Construction Bank (-1.2%). CATL (-1.7%), BYD (-2.0%), and Sungrow Power Supply (-1.1%) also declined.
+
+---
+
+### 2026-06-04 10:01:54  #MKT News
+
+【China Consumers Association: 930 mln yuan recovered for consumers in 2025】The China Consumers Association said in its Annual Report on the State of Consumer Rights Protection (2025) that nationwide consumer associations handled 2.016 million complaints in 2025, received 609,000 visits and inquiries, and recovered 930 million yuan in economic losses for consumers. The report said authorities promoted new consumption scenarios and stepped up enforcement, producing progress in legislation, administration, judiciary and social protection, but regulatory safeguards for emerging consumption sectors urgently need strengthening.
+
+---
+
+### 2026-06-04 10:01:28  #市場
+
+比特幣跌破62000美元，日內跌超6%。
+
+---
+
+### 2026-06-04 10:00:59  #市場 #國際
+
+日本五年期國債<JP5YTN=JBTC>收益率上升0.5個基點，至1.915%。
+
+---
+
+### 2026-06-04 10:00:42  #其他
+
+【2025年全國消協組織為消費者挽回經濟損失9.3億元】中國消費者協會今天（4日）釋出《中國消費者權益保護狀況年度報告（2025）》顯示：2025年，全國消協組織共受理消費者投訴201.6萬件，接待消費者來訪和諮詢60.9萬人次，為消費者挽回經濟損失9.3億元。
+
+---
+
+### 2026-06-04 10:00:33  #MKT News #Important #SZSE Component #Impact bullish
+
+【Shenzhen Composite Index turns positive】China A-shares opened lower then recovered; Shenzhen Composite Index led the rebound into positive territory. Shanghai Composite's loss narrowed to 0.14% and the ChiNext Index's loss narrowed to 0.33%.
+
+---
+
+### 2026-06-04 10:00:29  #市場
+
+【深證成指翻紅】A股三大股指低開回升，深證成指率先翻紅，上證綜指跌幅縮債至0.14%，創業板指跌幅縮債至0.33%。
+
+---
+
+### 2026-06-04 10:00:22  #公司
+
+【神工股份成立晶圓半導體科技新公司】企查查APP顯示，近日，北方晶圓半導體科技（北京）有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由神工股份全資持股。
+
+---
+
+### 2026-06-04 10:00:17  #公司
+
+【檢察機關依法對高興夫涉嫌受賄案提起公訴】從最高人民檢察院獲悉，浙江省人大常委會原黨組副書記、副主任高興夫涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對高興夫作出逮捕決定，並指定由江西省宜春市人民檢察院審查起訴。近日，宜春市人民檢察院已向宜春市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人高興夫享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人高興夫利用擔任浙江省建設投資集團有限公司副總經理、總經理、董事長，浙江省交通投資集團有限公司董事長，浙江省政府副省長，浙江省人大常委會副主任等職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。
+
+---
+
+### 2026-06-04 10:00:08  #MKT News
+
+According to India's Economic Times, the government will abolish capital gains tax on foreign investors' gains from government bond investments.
+
+---
+
+### 2026-06-04 09:59:49  #公司
+
+【中創新航、海目星等在湖北成立股權投資基金】企查查APP顯示，近日，凱博共創（湖北）股權投資基金合夥企業（有限合夥）成立，出資額16億元，經營範圍包含：創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中創新航、海目星、諾德股份、果下科技等共同出資。
+
+---
+
+### 2026-06-04 09:59:39  #公司
+
+【禮來擬縮減在德國投資計劃】據報道，禮來6月3日表示，因對德國政府提出的醫療成本控制措施感到擔憂，公司計劃將其在德國的生產專案剩餘規模縮減50%，原計劃投資額為25億美元。禮來稱，德國政府擬議的立法“破壞了投資確定性”，並與德國2023年支援製藥行業的承諾相悖。
+
+---
+
+### 2026-06-04 09:58:50  #其他
+
+【年內主動權益翻倍基突增至11只 張明昕、金梓才包攬業績前四】截至6月3日，全市場年內收益翻倍的主動權益產品數量已增長至11只。其中張明昕旗下華商均衡成長混合A和華商致遠回報混合A的年內收益分別為113.84%和111.75%，分列主動權益基金業績排名第一和第二。金梓才旗下的財通匠心優選一年持有期混合A和財通匠心優選一年持有期混合A的年內收益分別為107.18%和105.33%，分列主動權益基金業績排名第三和第四。此外華泰柏瑞基金陳文凱、國壽安保基金嚴堃、廣發基金唐曉斌等基金經理旗下也有產品成為年內翻倍基。
+
+---
+
+### 2026-06-04 09:58:34  #國際
+
+據報道， 印度擬取消外資投資本國國債的資本利得稅。
+
+---
+
+### 2026-06-04 09:57:58  #國際
+
+三井商船：計劃投資約3億美元參與美國海上浮式液化天然氣專案，佔該專案總股權出資額的23%。
+
+---
+
+### 2026-06-04 09:57:33  #市場 #焦點
+
+科創50日內漲幅達1.19%，成分股中，大全能源漲17.52%，盛美上海漲7.33%，佰維儲存漲5.10%，瀾起科技漲4.32%。
+
+---
+
+### 2026-06-04 09:57:27  #MKT News #SSE Composite #Impact bullish #CSI300
+
+China's STAR 50 Index extended gains to 1%.
+
+---
+
+### 2026-06-04 09:57:15  #公司 #市場
+
+PCB概念股低開回升，世運電路漲停，矩子科技漲超10%，新銳股份、亨通股份、東威科技、東山精密漲超6%。
+
+---
+
+### 2026-06-04 09:56:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share CPO-related stocks rebounded intraday after volatile trading; Dongshan Precision rose over 7%, Tianyang New Materials posted a third consecutive limit-up, and Sanan Optoelectronics hit the daily limit. Universal Scientific Industrial (USI), Yitian, Taichen Guang and Cambridge Technology also gained.
+
+---
+
+### 2026-06-04 09:55:41  #MKT News #Market Themes #AI Revolution #TSM.N #Impact bullish #Nasdaq100
+
+TSMC (TSM.N) CEO said the company views autonomous vehicles and robotics as long-term growth drivers and will work to help the robotics industry succeed.
+
+---
+
+### 2026-06-04 09:55:33  #公司 #市場
+
+【CPO概念震盪回升 東山精密漲超7%創歷史新高】CPO概念日內震盪回升，東山精密漲超7%，創歷史新高，總市值突破4400億，此前天洋新材3連板，三安光電漲停，環旭電子、易天股份、太辰光、劍橋科技等跟漲。
+
+---
+
+### 2026-06-04 09:54:52  #公司
+
+臺積電執行長表示：將自動駕駛汽車與機器人技術視為長期增長驅動力，正全力助力機器人產業發展實現成功。
+
+---
+
+### 2026-06-04 09:53:50  #公司 #市場
+
+【燃氣輪機概念異動拉昇 中國動力觸及漲停】燃氣輪機概念異動拉昇，中國動力觸及漲停，傑瑞股份、萬澤股份、聯德股份、應流股份跟漲。
+
+---
+
+### 2026-06-04 09:53:35  #市場 #焦點
+
+北證50日內跌幅達2.05%，成分股中，XD同惠電跌4.56%，國子軟體跌4.03%，銅冠礦建跌3.75%，長虹能源跌3.67%。
+
+---
+
+### 2026-06-04 09:52:53  #市場
+
+SK電信股價下跌13%。
+
+---
+
+### 2026-06-04 09:52:34  #公司 #市場
+
+斗山集團股價下跌6.5%。
+
+---
+
+### 2026-06-04 09:52:32  #MKT News #Market Themes #AI Revolution
+
+【Hong Kong unveils HKGAIV3, its first productivity-grade superintelligence】The Hong Kong Generative AI Research Centre (HKGAI) on the 3rd released its latest local large model, HKGAIV3, and launched Hong Kong’s first productivity-grade superintelligence to bolster the city’s AI development.
+
+---
+
+### 2026-06-04 09:52:27  #其他
+
+【香港推出首個生產力級超級智慧體】香港生成式人工智慧研發中心（HKGAI）3日舉行“HKGAIV3大模型釋出暨生態合作大會”，正式釋出最新版本的本地大模型HKGAIV3，並推出香港首個生產力級超級智慧體，助力香港人工智慧發展。（新華社）
+
+---
+
+### 2026-06-04 09:52:14  #市場
+
+LG電子股價下跌15%。
+
+---
+
+### 2026-06-04 09:51:36  #MKT News #Commodities #Energy #Market Regions #Greater China #CSI300 #Impact bearish #000001.SS
+
+China A-share oil and gas sector slid; Keli Co. fell more than 10%, while Tongyuan Petroleum, Shandong Molong, Diweil, Qianneng Hengxin and Zhongman Petroleum also declined.
+
+---
+
+### 2026-06-04 09:51:19  #宏觀 #國際
+
+美國國務院：美國和韓國於6月2日至3日就核能合作倡議舉行會晤。
+
+---
+
+### 2026-06-04 09:50:50  #市場 #國際
+
+20年期日本國債收益率上升1個基點，至3.545%。
+
+---
+
+### 2026-06-04 09:50:40  #公司 #國際
+
+臺積電執行長稱，儘管臺灣地區、日本已有擴產計劃，全球晶片供應仍遠不足以滿足美國市場的晶片需求。
+
+---
+
+### 2026-06-04 09:50:36  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+China A-share storage-chip sector rose; Dawei Co. hit the daily trading limit and Huate Gas gained more than 11%. Shanghai Belling, Yunhan Xincheng, Taiji Industrial, Demingli and Jiangbolong also advanced.
 
 ---
 
@@ -23732,113 +23948,5 @@ US President Trump congratulated Colombian presidential candidate Abelardo de la
 ### 2026-06-03 08:40:02  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
 
 Japan Composite PMI Confirmed at 5-Month Low — Japan’s S&P Global Composite PMI stood at 51.1 in May 2026, matching flash data and marking the 14th straight month of expansion in private sector activity. However, the latest reading eased from 52.2 in April and pointed to the weakest growth since December, as overall activity was supported solely by stronger manufacturing output while the services sector stagnated. New business continued to rise but at the slowest pace in five months, reflecting only modest demand growth. External demand also softened, with overseas orders for Japanese goods and services increasing at the weakest rate so far this year. Employment growth slowed to a seven-month low, contributing to a faster accumulation of backlogged work. At the same time, cost pressures intensified, with input prices rising at the sharpest pace in 43 months. Firms responded by raising selling prices more aggressively, pushing output charge inflation to a new survey record.
-
----
-
-### 2026-06-03 08:39:53  #MKT News
-
-【Man takes hostage inside California bank】US media reported on the 2nd that a man reportedly wearing an apparent explosive device on his chest took at least one hostage inside a bank in Bakersfield, California. The area around the bank was cordoned off and police said they were negotiating with the man.
-
----
-
-### 2026-06-03 08:39:18  #Trading Economics #Economy #Hong Kong #Manufacturing PMI #Importance 1
-
-Hong Kong Private Sector Returns to Growth — The S&P Global Hong Kong SAR PMI rose to 50.4 in May 2026 from 48.6 in April, signaling a renewed expansion in private-sector activity after two consecutive months of contraction. Business activity increased for the first time since March, supported by a modest rise in new orders and a solid rebound in export demand, with foreign sales posting their strongest growth in three months. Meanwhile, employment declined slightly as firms chose not to replace departing staff, while backlogs continued to fall, albeit at a slower pace. Purchasing activity expanded at a softer rate, and supplier delivery times lengthened for the first time in three months, partly due to shipping disruptions linked to the Middle East conflict. Cost pressures remained elevated, with purchase prices rising at the fastest pace since December 2021, while firms continued to raise selling prices, though at a slower pace than in April. Business confidence stayed negative but improved to a three-month high.
-
----
-
-### 2026-06-03 08:39:16  #國際
-
-【美國加州男子銀行內劫持人質】據美國媒體2日報道，一名據稱胸前綁有炸彈的男子當天在美國加利福尼亞州貝克斯菲爾德市的一家銀行內劫持了至少一名人質，導致附近區域被封鎖。警方表示他們正在與該男子進行談判。
-
----
-
-### 2026-06-03 08:36:33  #公司 #國際
-
-美國應用航空航天與國防公司（Applied Aerospace & Defense, Inc.）在美國首次公開募股中籌得6.5億美元。
-
----
-
-### 2026-06-03 08:35:28  #市場
-
-東京電子股價上漲9.4%，創8周以來最大漲幅。
-
----
-
-### 2026-06-03 08:35:09  #觀點
-
-【中金：特斯拉FSD全球版圖擴張 或加速全球智駕滲透率提升】中金髮布研報稱，特斯拉FSD全球版圖擴張速度加快，預計或加速全球智駕滲透率提升。同時，特斯拉對高階智駕及Robotaxi帶來鯰魚效應，進一步提升消費者對智慧駕駛的接受度，從而推動產業鏈進入放量週期。FSD的出海版圖擴張至10個國家，其中對於中國市場，特斯拉已在資料合規、自建算力中心、以及與國內圖商深度合作獲取資質等方面做了充分準備。得益於FSDv14體驗提升，FSD行駛里程及訂閱率實現快速增長，該行認為，隨著FSD進入全球多個市場，且FSD逐步切換至訂閱模式，推動智駕軟體收費商業模式，同時推動全球智駕滲透率進一步提升。
-
----
-
-### 2026-06-03 08:33:12  #MKT News #Market Themes #AI Revolution
-
-【Qianxun Intelligence raises CNY1.5bn in A+ round】June 3 — Qianxun Intelligence said it raised CNY1.5bn in an A+ financing round from a mix of top-tier US dollar funds, large strategic industry investors and state-backed capital, with existing shareholders increasing their stakes. Proceeds will be allocated to three areas: R&D and iteration of a next‑generation embodied AI base model, building a global real‑data infrastructure, and scaling commercial deployment across multiple industry scenarios. This is Qianxun’s fourth fundraising round in three months, bringing total proceeds to nearly CNY5.0bn.
-
----
-
-### 2026-06-03 08:32:47  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Flat After Record-Setting Session — US stock futures were little changed on Wednesday after the major averages closed at a new record high in the previous session. On Tuesday, the Dow advanced 0.45%, the S&P 500 gained 0.13%, and the Nasdaq Composite edged up 0.03%. Eight of the 11 S&P sectors closed in positive territory, with utilities, materials, and industrials leading the gains. Technology shares also remained in focus, particularly among semiconductor manufacturers and AI infrastructure firms. Hewlett Packard Enterprise jumped 19.5% after raising its outlook on the back of strong AI-related demand, while Marvell Technology surged 32.5% following comments from Nvidia CEO Jensen Huang suggesting the company could become the next trillion-dollar enterprise. Investors also continued to monitor developments in US-Iran peace negotiations, where mixed signals from both sides kept geopolitical uncertainty elevated.
-
----
-
-### 2026-06-03 08:31:49  #其他
-
-【千尋智慧再獲15億元A+輪融資】6月3日，千尋智慧宣佈再獲15億元A+輪融資，股東包含一線美元基金、大型產業投資方以及國資基金，老股東持續加碼。至此，千尋智慧已構築起頂級財務PE、國際美元基金、實業產業資本、各地方國資等全方位合圍的資本陣容。據悉，本輪所融資金，將聚焦三大核心方向投入使用：新一代具身智慧基座模型持續研發迭代、全球化真實資料基礎設施體系建設、多行業場景規模化商業落地推進。至此，千尋智慧在3個月內完成四輪密集融資，累計融資額已近50億元。同時，千尋智慧宣佈自研具身基座模型Spirit v1.6在被稱為北美具身智慧“奧林匹克”的RoboArena中登頂，成為首個登頂的中國具身模型。
-
----
-
-### 2026-06-03 08:31:43  #公司
-
-SpaceX執行長埃隆·馬斯克將在SpaceX IPO後面臨366天的股票鎖定期。
-
----
-
-### 2026-06-03 08:31:36  #國際
-
-日本標普全球5月服務業採購經理人指數為50.0，與初值一致；日本5月綜合採購經理人指數終值 51.1，與初值一致。
-
----
-
-### 2026-06-03 08:30:38  #經濟數據 #日本
-
-日本5月綜合PMI終值報51.1，前值51.1；5月服務業PMI終值報50，前值50。
-
----
-
-### 2026-06-03 08:30:08  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hong Kong May S&P Global manufacturing PMI 50.4; prior 48.6.
-
----
-
-### 2026-06-03 08:29:27  #國際
-
-【美國新澤西州發生槍擊事件 兩名警察中槍】當地時間6月2日下午，美國新澤西州大西洋城發生一起槍擊事件，兩名警察中槍，嫌疑人死亡。據大西洋城市長介紹，事件發生於當天15時左右，當時警方正在執行一份搜查令。槍擊事件經過尚不清楚，但一名男性嫌疑人被警方開槍擊中後身亡，其身份尚未公佈。事件中有兩名警員中槍受傷，其中一人傷勢危及生命。警方表示，目前不存在針對公眾的安全威脅，調查仍在進行當中。
-
----
-
-### 2026-06-03 08:29:12  #公司 #觀點
-
-【中信建投：機器人是AI應用的重要方向，板塊波動聚焦優質環節】中信建投研報指出，物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，未來將有數十億個自主系統和機器人系統在物理世界中執行。近期機器人板塊有所調整，判斷主要系資金情緒面波動，但物理AI敘事是切實推進的產業趨勢，值得高度重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，板塊催化不斷，聚焦優質環節。
-
----
-
-### 2026-06-03 08:28:58  #國際
-
-日本東京都市圈釋出4級暴雨預警，釋出二級山體滑坡預警。
-
----
-
-### 2026-06-03 08:28:32  #國際
-
-【泰和新材：芳綸主要在光纜成纜過程中使用，在光纖中不多】針對“芳綸最近比較熱，是否因為光纖”等問題，泰和新材(002254)6月2日在機構調研時表示，在資本市場比較熱，但是實業感受不是很明顯。像美國資料中心對光纖需求比較強，但是是光纖還是光纜沒說清楚，因為芳綸主要是在光纜成纜的過程中使用，在光纖中不多，這可能是一個原因。二是前兩年光纖跌得很慘，有很多小產能退出，並且前兩年電信的需求不好，去年開始資料中心等起來了，需求突然增加，很多光纖或者光纜都往這些方向在走，需求起來之後供給沒有跟上，出貨量從全球來看沒有增加，需求增加沒有轉化成銷量，而是主要體現在價格的增長。
-
----
-
-### 2026-06-03 08:27:25  #其他
-
-【伊拉克2個民兵武裝宣佈將武器交由國家管控】伊拉克兩個什葉派民兵武裝“正義聯盟”和“伊瑪目阿里旅”2日發表宣告，宣佈將脫離伊什葉派民兵武裝“人民動員組織”，並將其武器置於國家管控之下。伊拉克國民議會最大黨團“協調框架聯盟”1日召開會議，表示支援將武器嚴格限制在國家掌控範圍內，並推動“人民動員組織”與各類政治、黨派及社會組織脫鉤。（新華社）
 
 ---

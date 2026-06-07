@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 21:50:25_
-_本檔包含 3815 則快訊，約 706059 字_
+_更新時間：2026-06-07 22:48:42_
+_本檔包含 3802 則快訊，約 705711 字_
+
+---
+
+### 2026-06-03 08:39:53  #MKT News
+
+【Man takes hostage inside California bank】US media reported on the 2nd that a man reportedly wearing an apparent explosive device on his chest took at least one hostage inside a bank in Bakersfield, California. The area around the bank was cordoned off and police said they were negotiating with the man.
+
+---
+
+### 2026-06-03 08:39:18  #Trading Economics #Economy #Hong Kong #Manufacturing PMI #Importance 1
+
+Hong Kong Private Sector Returns to Growth — The S&P Global Hong Kong SAR PMI rose to 50.4 in May 2026 from 48.6 in April, signaling a renewed expansion in private-sector activity after two consecutive months of contraction. Business activity increased for the first time since March, supported by a modest rise in new orders and a solid rebound in export demand, with foreign sales posting their strongest growth in three months. Meanwhile, employment declined slightly as firms chose not to replace departing staff, while backlogs continued to fall, albeit at a slower pace. Purchasing activity expanded at a softer rate, and supplier delivery times lengthened for the first time in three months, partly due to shipping disruptions linked to the Middle East conflict. Cost pressures remained elevated, with purchase prices rising at the fastest pace since December 2021, while firms continued to raise selling prices, though at a slower pace than in April. Business confidence stayed negative but improved to a three-month high.
+
+---
+
+### 2026-06-03 08:39:16  #國際
+
+【美國加州男子銀行內劫持人質】據美國媒體2日報道，一名據稱胸前綁有炸彈的男子當天在美國加利福尼亞州貝克斯菲爾德市的一家銀行內劫持了至少一名人質，導致附近區域被封鎖。警方表示他們正在與該男子進行談判。
+
+---
+
+### 2026-06-03 08:36:33  #公司 #國際
+
+美國應用航空航天與國防公司（Applied Aerospace & Defense, Inc.）在美國首次公開募股中籌得6.5億美元。
+
+---
+
+### 2026-06-03 08:35:28  #市場
+
+東京電子股價上漲9.4%，創8周以來最大漲幅。
+
+---
+
+### 2026-06-03 08:35:09  #觀點
+
+【中金：特斯拉FSD全球版圖擴張 或加速全球智駕滲透率提升】中金髮布研報稱，特斯拉FSD全球版圖擴張速度加快，預計或加速全球智駕滲透率提升。同時，特斯拉對高階智駕及Robotaxi帶來鯰魚效應，進一步提升消費者對智慧駕駛的接受度，從而推動產業鏈進入放量週期。FSD的出海版圖擴張至10個國家，其中對於中國市場，特斯拉已在資料合規、自建算力中心、以及與國內圖商深度合作獲取資質等方面做了充分準備。得益於FSDv14體驗提升，FSD行駛里程及訂閱率實現快速增長，該行認為，隨著FSD進入全球多個市場，且FSD逐步切換至訂閱模式，推動智駕軟體收費商業模式，同時推動全球智駕滲透率進一步提升。
+
+---
+
+### 2026-06-03 08:33:12  #MKT News #Market Themes #AI Revolution
+
+【Qianxun Intelligence raises CNY1.5bn in A+ round】June 3 — Qianxun Intelligence said it raised CNY1.5bn in an A+ financing round from a mix of top-tier US dollar funds, large strategic industry investors and state-backed capital, with existing shareholders increasing their stakes. Proceeds will be allocated to three areas: R&D and iteration of a next‑generation embodied AI base model, building a global real‑data infrastructure, and scaling commercial deployment across multiple industry scenarios. This is Qianxun’s fourth fundraising round in three months, bringing total proceeds to nearly CNY5.0bn.
+
+---
+
+### 2026-06-03 08:32:47  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Record-Setting Session — US stock futures were little changed on Wednesday after the major averages closed at a new record high in the previous session. On Tuesday, the Dow advanced 0.45%, the S&P 500 gained 0.13%, and the Nasdaq Composite edged up 0.03%. Eight of the 11 S&P sectors closed in positive territory, with utilities, materials, and industrials leading the gains. Technology shares also remained in focus, particularly among semiconductor manufacturers and AI infrastructure firms. Hewlett Packard Enterprise jumped 19.5% after raising its outlook on the back of strong AI-related demand, while Marvell Technology surged 32.5% following comments from Nvidia CEO Jensen Huang suggesting the company could become the next trillion-dollar enterprise. Investors also continued to monitor developments in US-Iran peace negotiations, where mixed signals from both sides kept geopolitical uncertainty elevated.
+
+---
+
+### 2026-06-03 08:31:49  #其他
+
+【千尋智慧再獲15億元A+輪融資】6月3日，千尋智慧宣佈再獲15億元A+輪融資，股東包含一線美元基金、大型產業投資方以及國資基金，老股東持續加碼。至此，千尋智慧已構築起頂級財務PE、國際美元基金、實業產業資本、各地方國資等全方位合圍的資本陣容。據悉，本輪所融資金，將聚焦三大核心方向投入使用：新一代具身智慧基座模型持續研發迭代、全球化真實資料基礎設施體系建設、多行業場景規模化商業落地推進。至此，千尋智慧在3個月內完成四輪密集融資，累計融資額已近50億元。同時，千尋智慧宣佈自研具身基座模型Spirit v1.6在被稱為北美具身智慧“奧林匹克”的RoboArena中登頂，成為首個登頂的中國具身模型。
+
+---
+
+### 2026-06-03 08:31:43  #公司
+
+SpaceX執行長埃隆·馬斯克將在SpaceX IPO後面臨366天的股票鎖定期。
+
+---
+
+### 2026-06-03 08:31:36  #國際
+
+日本標普全球5月服務業採購經理人指數為50.0，與初值一致；日本5月綜合採購經理人指數終值 51.1，與初值一致。
+
+---
+
+### 2026-06-03 08:30:38  #經濟數據 #日本
+
+日本5月綜合PMI終值報51.1，前值51.1；5月服務業PMI終值報50，前值50。
+
+---
+
+### 2026-06-03 08:30:08  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hong Kong May S&P Global manufacturing PMI 50.4; prior 48.6.
+
+---
+
+### 2026-06-03 08:29:27  #國際
+
+【美國新澤西州發生槍擊事件 兩名警察中槍】當地時間6月2日下午，美國新澤西州大西洋城發生一起槍擊事件，兩名警察中槍，嫌疑人死亡。據大西洋城市長介紹，事件發生於當天15時左右，當時警方正在執行一份搜查令。槍擊事件經過尚不清楚，但一名男性嫌疑人被警方開槍擊中後身亡，其身份尚未公佈。事件中有兩名警員中槍受傷，其中一人傷勢危及生命。警方表示，目前不存在針對公眾的安全威脅，調查仍在進行當中。
+
+---
+
+### 2026-06-03 08:29:12  #公司 #觀點
+
+【中信建投：機器人是AI應用的重要方向，板塊波動聚焦優質環節】中信建投研報指出，物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，未來將有數十億個自主系統和機器人系統在物理世界中執行。近期機器人板塊有所調整，判斷主要系資金情緒面波動，但物理AI敘事是切實推進的產業趨勢，值得高度重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，板塊催化不斷，聚焦優質環節。
+
+---
+
+### 2026-06-03 08:28:58  #國際
+
+日本東京都市圈釋出4級暴雨預警，釋出二級山體滑坡預警。
+
+---
+
+### 2026-06-03 08:28:32  #國際
+
+【泰和新材：芳綸主要在光纜成纜過程中使用，在光纖中不多】針對“芳綸最近比較熱，是否因為光纖”等問題，泰和新材(002254)6月2日在機構調研時表示，在資本市場比較熱，但是實業感受不是很明顯。像美國資料中心對光纖需求比較強，但是是光纖還是光纜沒說清楚，因為芳綸主要是在光纜成纜的過程中使用，在光纖中不多，這可能是一個原因。二是前兩年光纖跌得很慘，有很多小產能退出，並且前兩年電信的需求不好，去年開始資料中心等起來了，需求突然增加，很多光纖或者光纜都往這些方向在走，需求起來之後供給沒有跟上，出貨量從全球來看沒有增加，需求增加沒有轉化成銷量，而是主要體現在價格的增長。
+
+---
+
+### 2026-06-03 08:27:25  #其他
+
+【伊拉克2個民兵武裝宣佈將武器交由國家管控】伊拉克兩個什葉派民兵武裝“正義聯盟”和“伊瑪目阿里旅”2日發表宣告，宣佈將脫離伊什葉派民兵武裝“人民動員組織”，並將其武器置於國家管控之下。伊拉克國民議會最大黨團“協調框架聯盟”1日召開會議，表示支援將武器嚴格限制在國家掌控範圍內，並推動“人民動員組織”與各類政治、黨派及社會組織脫鉤。（新華社）
 
 ---
 
@@ -22851,191 +22959,5 @@ U.S. financial outlet Semafor reports Union Pacific executives privately denied 
 ### 2026-06-02 06:17:11  #市場
 
 【10年期國債收益率低見1.704% 債市交易邏輯重回基本面】近期債市多頭情緒持續升溫，長端、超長端收益率接連突破關鍵點位。6月1日，10年期國債活躍券收益率一度下行至1.704%，為年內新低；30年期特別國債收益率盤中跌破2.2%關口，最低觸及2.1875%，超長債補漲行情進一步展開。多位機構人士認為，近期債市走強不只是流動性寬鬆驅動，更與基本面預期變化、信貸需求偏弱、機構配置力量增強等因素有關。隨著票據利率持續探底、資金面跨月保持平穩，債市交易邏輯正從單純關注機構行為，逐步回到基本面和融資需求本身。（上證報）
-
----
-
-### 2026-06-02 06:16:52  #國際
-
-【實際有效匯率指數創1973年以來新低 日元結構性貶值壓力難消】土耳其里拉曾長期被視作全球最弱貨幣之一，但當前日元與土耳其里拉的實際有效匯率走勢出現逆轉。國際清算銀行的資料顯示，以2020年為基準計算，日元實際有效匯率指數重新整理了其1973年轉向浮動匯率制以來的最低水平。與之形成對比的是，土耳其里拉的實際有效匯率自年初以來升值約7%。儘管日本當局在外匯干預上“火力全開”，但從匯率走勢來看，日元對美元已重新貶值至接近干預前的水平。日元深陷長期貶值壓力，已是無法迴避的現實問題。（上證報）
-
----
-
-### 2026-06-02 06:15:56  #MKT News
-
-GFZ reports a 6.55-magnitude earthquake in southern Italy.
-
----
-
-### 2026-06-02 06:15:45  #其他 #焦點
-
-德國地學研究中心（GFZ）：義大利南部發生6.55級地震。
-
----
-
-### 2026-06-02 06:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Depreciates by 0.93% — Top currency losers are New Zealand Dollar (-0.93%), Swiss Franc (-0.73%), Swedish Krona (-0.64%), Japanese Yen (-0.23%) and Euro (-0.22%). Gains are led by Brazilian Real (0.57%) and Dollar Index (0.27%). Meanwhile British Pound was little changed.
-
----
-
-### 2026-06-02 06:12:51  #國際
-
-市場資訊：日本力爭到2035年將儲能電池銷量提高兩倍。
-
----
-
-### 2026-06-02 06:10:28  #其他
-
-【宇樹、長鑫IPO過會背後：險資長錢下注硬科技】宇樹科技、長鑫科技……在近期IPO過會的明星企業背後，險資機構的身影格外引人注目。 從儲存晶片到GPU，保險資金透過直接持股、股權投資計劃、私募基金等方式，加速佈局硬科技賽道。在利率下行、優質資產荒的背景下，“投早、投硬、長錢長投”已成為險資穿越週期的共識。 （中證報）
-
----
-
-### 2026-06-02 06:08:48  #公司 #觀點
-
-【5月多家券商領罰 監管緊盯分支機構合規短板】5月以來，券商罰單密集落地，多家證券公司因分支機構管理不善、投行業務履職不到位等問題受到監管機構的行政監管措施。Choice資料顯示，截至5月31日，中金公司、國投證券、浙商證券等多家券商接連領罰，處罰事由涉及經紀業務違規、投行承銷失職、境外子公司管控缺失、從業人員違規兼職等多個領域。 分析人士認為，監管正從業務合規向公司治理縱深延伸，分支機構管控能力與從業人員行為管理正成為券商合規建設的薄弱環節。（中證報）
-
----
-
-### 2026-06-02 06:08:29  #公司
-
-【今年以來超600只理財產品提前退場】6月1日，青島農商行宣佈旗下“創富優享813號理財產品”因觸發止盈條款提前終止；5月29日，民生理財、興銀理財、招銀理財釋出多隻產品提前終止公告。 Wind資料顯示，今年以來已有約650只理財產品提前退場，較去年同期的400餘隻明顯增多，涉及國有大行、股份行、城商行理財公司及部分中小銀行自營產品。從止盈鎖定收益到規模過小清盤，從底層資產提前到期到管理人根據產品運作情況綜合考慮主動叫停，在低利率、理財產品全面淨值化背景下，理財產品提前終止已成為常態。（中證報）
-
----
-
-### 2026-06-02 06:05:31  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。
-
----
-
-### 2026-06-02 06:02:27  #MKT News
-
-Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) projects 2025/26 cotton production at 1.00 mln tonnes, down 16% from 2024/25. ABARES forecasts 2026/27 barley output at 14.10 mln tonnes (-15% vs 2025/26), canola at 6.20 mln tonnes (-20%), and wheat at 26.70 mln tonnes (-26%).
-
----
-
-### 2026-06-02 06:01:17  #公司 #焦點 #國際
-
-【特朗普稱美伊一週內達成諒解備忘錄】據美國廣播公司當地時間6月1日下午（北京時間6月2日）清晨報道，美國總統特朗普在接受其電話採訪時表示，美國與伊朗的談判目前“看起來不錯，非常不錯”，談判過程中雖然一度出現“小插曲”，但很快便得到解決。他預計美國與伊朗將在未來一週內達成諒解備忘錄，以延長當前的停火安排並重新開放霍爾木茲海峽。特朗普稱，他還沒有批准雙方之間的諒解備忘錄，目前還有幾個點待敲定。
-
----
-
-### 2026-06-02 06:00:46  #其他
-
-澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞大麥產量為1410萬噸，較2025/26年度下降15%
-
----
-
-### 2026-06-02 06:00:39  #其他
-
-澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞油菜籽產量為620萬噸，較2025/26年度下降20%。
-
----
-
-### 2026-06-02 06:00:35  #其他
-
-澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度鷹嘴豆產量為110萬噸，較2025/26年度下降51%。
-
----
-
-### 2026-06-02 06:00:33  #市場 #焦點
-
-現貨白銀突破75美元/盎司，日內漲0.08%。
-
----
-
-### 2026-06-02 06:00:31  #市場
-
-澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度小扁豆產量為220萬噸，較2025/26年度上漲3%。
-
----
-
-### 2026-06-02 06:00:24  #其他
-
-澳大利亞農業與資源經濟科學局（ABARES）預估，2025/26年度澳大利亞高粱產量為250萬噸，較2024/25年度下降8%。
-
----
-
-### 2026-06-02 06:00:15  #其他
-
-澳大利亞農業與資源經濟科學局（ABARES）預估2025/26年度澳大利亞棉花產量為100萬噸，較2024/25年度下降16%。
-
----
-
-### 2026-06-02 06:00:03  #市場 #焦點
-
-WTI原油突破93美元/桶，日內漲0.31%。
-
----
-
-### 2026-06-02 05:59:30  #MKT News
-
-【Japan faces banana shortage risk as Middle East disruptions squeeze naphtha-derived ripening gas】Bananas for Japanese retail are ripened in ethylene-filled chambers; ethylene is produced from naphtha, and Japan’s naphtha stocks have dropped about 25% YTD. Shipping disruptions through the Strait of Hormuz, which have cut roughly 20% of global oil supply, are exacerbating the squeeze; Japan’s crude import dependence exceeds 90%. Japan imported about 1 mln tonnes of bananas last year. Eiji Akashi, secretary-general of the Japan Banana Importers Association, said: "Prices may rise, but we are doing everything to avoid supply shortages."
-
----
-
-### 2026-06-02 05:58:57  #其他
-
-中央氣象臺6月2日06時繼續釋出大霧黃色預警。
-
----
-
-### 2026-06-02 05:50:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Trump said he spoke with Israeli Prime Minister Netanyahu today and urged him not to launch a large-scale strike on Beirut; Netanyahu immediately ordered forces to withdraw. He said he also spoke with a representative of Hezbollah's leader and that both sides agreed to stop firing at one another, including at Israeli soldiers; Israel likewise agreed to cease fire. Trump said he hopes the ceasefire will hold.
-
----
-
-### 2026-06-02 05:47:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRIB reported a senior Iranian military officer said if Israel violates the ceasefire in Lebanon, the established order in the Strait of Hormuz will also apply to the Bab el-Mandeb.
-
----
-
-### 2026-06-02 05:47:28  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Trump says deal with Iran likely within a week to extend ceasefire, reopen Strait of Hormuz】President Trump told ABC News he expects an agreement with Iran within a week to extend a ceasefire and reopen the Strait of Hormuz, saying progress is "going well." He described a recent incident as a "hiccup" that he quickly resolved, saying it arose from Iranian anger over an Israeli strike in Lebanon. Trump said he phoned Hezbollah and Prime Minister Netanyahu, told both to stop firing, and that shooting ceased. He called a peace agreement potentially "even better than a military victory" and said he has not yet signed a memorandum to reopen the strait because several key terms still need to be finalized.
-
----
-
-### 2026-06-02 05:45:59  #公司
-
-慧與執行長：公司預計2027年供應情況不會發生變化。
-
----
-
-### 2026-06-02 05:45:15  #國際
-
-特朗普：諒解備忘錄仍需“再敲定幾個點”。
-
----
-
-### 2026-06-02 05:44:32  #其他
-
-【算力大單密集落地 資金大幅加倉12只概念股】當前，隨著AI產業潛力的釋放及大模型推理階段的深入，算力作為產業鏈上游的核心供給，已成為全球數字經濟競爭的戰略制高點。截至今年3月底，我國智慧算力規模達到每秒1882百億億次，算力供給更豐富。今年以來累計漲幅低於43%（跑輸算力概念股平均漲幅），且5月29日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有優刻得-W、超穎電子、龍芯中科。（證券時報）
-
----
-
-### 2026-06-02 05:42:34  #市場 #國際
-
-【四大因素推升海運價格 集運指數近七週累計漲超60%】受中東局勢動盪、船司挺價等影響，國際航運價格持續走高。6月1日，集運指數（歐線）期貨開盤後直線拉昇，2607主力合約盤中最高上漲13.08%，收盤上漲11.69%。該合約自4月下旬以來已連續七週實現上漲，累計漲幅達到60.78%。 現貨市場方面，據維運網資料，由於今年旺季較往年提前到來，東西向集裝箱海運市場正逐步走強，截至5月22日當週，上海—熱那亞、上海—鹿特丹航線運價分別環比上漲10%、15%。此外，南美航線、澳新航線亦有明顯漲幅。（證券時報）
-
----
-
-### 2026-06-02 05:41:43  #焦點 #國際
-
-特朗普：和平協議可能比軍事勝利更好。
-
----
-
-### 2026-06-02 05:40:26  #國際
-
-【特朗普：與伊朗的協議“有望在下週內”達成】特朗普在接受採訪時表示，他認為自己將在“下週內”與伊朗達成協議，以延長停火併重新開放霍爾木茲海峽。週一，他在電話採訪中表示：“進展不錯，一切順利。”特朗普說：“今天遇到了一點小波折，但我很快就把問題解決了，你之前可能也注意到了。”
-
----
-
-### 2026-06-02 05:40:15  #MKT News #Important #WTI #Impact bearish #Brent
-
-ABC News: Trump said he expects to reach an agreement with Iran "within the next week" to extend a ceasefire and reopen the Strait of Hormuz.
 
 ---

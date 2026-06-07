@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 21:50:25_
-_本檔包含 3687 則快訊，約 705975 字_
+_更新時間：2026-06-07 22:48:42_
+_本檔包含 3675 則快訊，約 706130 字_
+
+---
+
+### 2026-06-02 06:16:52  #國際
+
+【實際有效匯率指數創1973年以來新低 日元結構性貶值壓力難消】土耳其里拉曾長期被視作全球最弱貨幣之一，但當前日元與土耳其里拉的實際有效匯率走勢出現逆轉。國際清算銀行的資料顯示，以2020年為基準計算，日元實際有效匯率指數重新整理了其1973年轉向浮動匯率制以來的最低水平。與之形成對比的是，土耳其里拉的實際有效匯率自年初以來升值約7%。儘管日本當局在外匯干預上“火力全開”，但從匯率走勢來看，日元對美元已重新貶值至接近干預前的水平。日元深陷長期貶值壓力，已是無法迴避的現實問題。（上證報）
+
+---
+
+### 2026-06-02 06:15:56  #MKT News
+
+GFZ reports a 6.55-magnitude earthquake in southern Italy.
+
+---
+
+### 2026-06-02 06:15:45  #其他 #焦點
+
+德國地學研究中心（GFZ）：義大利南部發生6.55級地震。
+
+---
+
+### 2026-06-02 06:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Depreciates by 0.93% — Top currency losers are New Zealand Dollar (-0.93%), Swiss Franc (-0.73%), Swedish Krona (-0.64%), Japanese Yen (-0.23%) and Euro (-0.22%). Gains are led by Brazilian Real (0.57%) and Dollar Index (0.27%). Meanwhile British Pound was little changed.
+
+---
+
+### 2026-06-02 06:12:51  #國際
+
+市場資訊：日本力爭到2035年將儲能電池銷量提高兩倍。
+
+---
+
+### 2026-06-02 06:10:28  #其他
+
+【宇樹、長鑫IPO過會背後：險資長錢下注硬科技】宇樹科技、長鑫科技……在近期IPO過會的明星企業背後，險資機構的身影格外引人注目。 從儲存晶片到GPU，保險資金透過直接持股、股權投資計劃、私募基金等方式，加速佈局硬科技賽道。在利率下行、優質資產荒的背景下，“投早、投硬、長錢長投”已成為險資穿越週期的共識。 （中證報）
+
+---
+
+### 2026-06-02 06:08:48  #公司 #觀點
+
+【5月多家券商領罰 監管緊盯分支機構合規短板】5月以來，券商罰單密集落地，多家證券公司因分支機構管理不善、投行業務履職不到位等問題受到監管機構的行政監管措施。Choice資料顯示，截至5月31日，中金公司、國投證券、浙商證券等多家券商接連領罰，處罰事由涉及經紀業務違規、投行承銷失職、境外子公司管控缺失、從業人員違規兼職等多個領域。 分析人士認為，監管正從業務合規向公司治理縱深延伸，分支機構管控能力與從業人員行為管理正成為券商合規建設的薄弱環節。（中證報）
+
+---
+
+### 2026-06-02 06:08:29  #公司
+
+【今年以來超600只理財產品提前退場】6月1日，青島農商行宣佈旗下“創富優享813號理財產品”因觸發止盈條款提前終止；5月29日，民生理財、興銀理財、招銀理財釋出多隻產品提前終止公告。 Wind資料顯示，今年以來已有約650只理財產品提前退場，較去年同期的400餘隻明顯增多，涉及國有大行、股份行、城商行理財公司及部分中小銀行自營產品。從止盈鎖定收益到規模過小清盤，從底層資產提前到期到管理人根據產品運作情況綜合考慮主動叫停，在低利率、理財產品全面淨值化背景下，理財產品提前終止已成為常態。（中證報）
+
+---
+
+### 2026-06-02 06:05:31  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-02 06:02:27  #MKT News
+
+Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) projects 2025/26 cotton production at 1.00 mln tonnes, down 16% from 2024/25. ABARES forecasts 2026/27 barley output at 14.10 mln tonnes (-15% vs 2025/26), canola at 6.20 mln tonnes (-20%), and wheat at 26.70 mln tonnes (-26%).
+
+---
+
+### 2026-06-02 06:01:17  #公司 #焦點 #國際
+
+【特朗普稱美伊一週內達成諒解備忘錄】據美國廣播公司當地時間6月1日下午（北京時間6月2日）清晨報道，美國總統特朗普在接受其電話採訪時表示，美國與伊朗的談判目前“看起來不錯，非常不錯”，談判過程中雖然一度出現“小插曲”，但很快便得到解決。他預計美國與伊朗將在未來一週內達成諒解備忘錄，以延長當前的停火安排並重新開放霍爾木茲海峽。特朗普稱，他還沒有批准雙方之間的諒解備忘錄，目前還有幾個點待敲定。
+
+---
+
+### 2026-06-02 06:00:46  #其他
+
+澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞大麥產量為1410萬噸，較2025/26年度下降15%
+
+---
+
+### 2026-06-02 06:00:39  #其他
+
+澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞油菜籽產量為620萬噸，較2025/26年度下降20%。
+
+---
+
+### 2026-06-02 06:00:35  #其他
+
+澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度鷹嘴豆產量為110萬噸，較2025/26年度下降51%。
+
+---
+
+### 2026-06-02 06:00:33  #市場 #焦點
+
+現貨白銀突破75美元/盎司，日內漲0.08%。
+
+---
+
+### 2026-06-02 06:00:31  #市場
+
+澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度小扁豆產量為220萬噸，較2025/26年度上漲3%。
+
+---
+
+### 2026-06-02 06:00:24  #其他
+
+澳大利亞農業與資源經濟科學局（ABARES）預估，2025/26年度澳大利亞高粱產量為250萬噸，較2024/25年度下降8%。
+
+---
+
+### 2026-06-02 06:00:15  #其他
+
+澳大利亞農業與資源經濟科學局（ABARES）預估2025/26年度澳大利亞棉花產量為100萬噸，較2024/25年度下降16%。
+
+---
+
+### 2026-06-02 06:00:03  #市場 #焦點
+
+WTI原油突破93美元/桶，日內漲0.31%。
+
+---
+
+### 2026-06-02 05:59:30  #MKT News
+
+【Japan faces banana shortage risk as Middle East disruptions squeeze naphtha-derived ripening gas】Bananas for Japanese retail are ripened in ethylene-filled chambers; ethylene is produced from naphtha, and Japan’s naphtha stocks have dropped about 25% YTD. Shipping disruptions through the Strait of Hormuz, which have cut roughly 20% of global oil supply, are exacerbating the squeeze; Japan’s crude import dependence exceeds 90%. Japan imported about 1 mln tonnes of bananas last year. Eiji Akashi, secretary-general of the Japan Banana Importers Association, said: "Prices may rise, but we are doing everything to avoid supply shortages."
+
+---
+
+### 2026-06-02 05:58:57  #其他
+
+中央氣象臺6月2日06時繼續釋出大霧黃色預警。
+
+---
+
+### 2026-06-02 05:50:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Trump said he spoke with Israeli Prime Minister Netanyahu today and urged him not to launch a large-scale strike on Beirut; Netanyahu immediately ordered forces to withdraw. He said he also spoke with a representative of Hezbollah's leader and that both sides agreed to stop firing at one another, including at Israeli soldiers; Israel likewise agreed to cease fire. Trump said he hopes the ceasefire will hold.
+
+---
+
+### 2026-06-02 05:47:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+IRIB reported a senior Iranian military officer said if Israel violates the ceasefire in Lebanon, the established order in the Strait of Hormuz will also apply to the Bab el-Mandeb.
+
+---
+
+### 2026-06-02 05:47:28  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Trump says deal with Iran likely within a week to extend ceasefire, reopen Strait of Hormuz】President Trump told ABC News he expects an agreement with Iran within a week to extend a ceasefire and reopen the Strait of Hormuz, saying progress is "going well." He described a recent incident as a "hiccup" that he quickly resolved, saying it arose from Iranian anger over an Israeli strike in Lebanon. Trump said he phoned Hezbollah and Prime Minister Netanyahu, told both to stop firing, and that shooting ceased. He called a peace agreement potentially "even better than a military victory" and said he has not yet signed a memorandum to reopen the strait because several key terms still need to be finalized.
+
+---
+
+### 2026-06-02 05:45:59  #公司
+
+慧與執行長：公司預計2027年供應情況不會發生變化。
+
+---
+
+### 2026-06-02 05:45:15  #國際
+
+特朗普：諒解備忘錄仍需“再敲定幾個點”。
+
+---
+
+### 2026-06-02 05:44:32  #其他
+
+【算力大單密集落地 資金大幅加倉12只概念股】當前，隨著AI產業潛力的釋放及大模型推理階段的深入，算力作為產業鏈上游的核心供給，已成為全球數字經濟競爭的戰略制高點。截至今年3月底，我國智慧算力規模達到每秒1882百億億次，算力供給更豐富。今年以來累計漲幅低於43%（跑輸算力概念股平均漲幅），且5月29日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有優刻得-W、超穎電子、龍芯中科。（證券時報）
+
+---
+
+### 2026-06-02 05:42:34  #市場 #國際
+
+【四大因素推升海運價格 集運指數近七週累計漲超60%】受中東局勢動盪、船司挺價等影響，國際航運價格持續走高。6月1日，集運指數（歐線）期貨開盤後直線拉昇，2607主力合約盤中最高上漲13.08%，收盤上漲11.69%。該合約自4月下旬以來已連續七週實現上漲，累計漲幅達到60.78%。 現貨市場方面，據維運網資料，由於今年旺季較往年提前到來，東西向集裝箱海運市場正逐步走強，截至5月22日當週，上海—熱那亞、上海—鹿特丹航線運價分別環比上漲10%、15%。此外，南美航線、澳新航線亦有明顯漲幅。（證券時報）
+
+---
+
+### 2026-06-02 05:41:43  #焦點 #國際
+
+特朗普：和平協議可能比軍事勝利更好。
+
+---
+
+### 2026-06-02 05:40:26  #國際
+
+【特朗普：與伊朗的協議“有望在下週內”達成】特朗普在接受採訪時表示，他認為自己將在“下週內”與伊朗達成協議，以延長停火併重新開放霍爾木茲海峽。週一，他在電話採訪中表示：“進展不錯，一切順利。”特朗普說：“今天遇到了一點小波折，但我很快就把問題解決了，你之前可能也注意到了。”
+
+---
+
+### 2026-06-02 05:40:15  #MKT News #Important #WTI #Impact bearish #Brent
+
+ABC News: Trump said he expects to reach an agreement with Iran "within the next week" to extend a ceasefire and reopen the Strait of Hormuz.
 
 ---
 
@@ -21986,263 +22172,5 @@ CBS News reports that as of Sunday morning mediators were still discussing a US�
 ### 2026-05-31 22:50:32  #國際
 
 市場訊息：據媒體報道，衛星影像顯示，在近期美以聯軍打擊的 18 處地下導彈設施中，伊朗已重新啟用 69 個隧道入口裡的 50 個。該媒體援引專家觀點稱，畫面中可見大型裝置正在開展修復作業。專家提醒，即便產能有所下降，只要發射裝置與操作人員保持在崗，伊朗仍可繼續實施導彈發射。
-
----
-
-### 2026-05-31 22:39:27  #公司
-
-【鴻擎科技衛星網際網路技術試驗衛星成功入軌】北京時間2026年5月31日02時07分，我國在西昌衛星發射中心使用長征二號丁運載火箭，透過一箭四星方式，成功將衛星網際網路技術試驗衛星發射升空，衛星順利進入預定軌道，用於開展手機寬頻直連衛星、天地網路融合等技術試驗驗證，發射任務獲得圓滿成功。本次任務中的一顆衛星，由北京藍箭鴻擎科技有限公司承擔研製。
-
----
-
-### 2026-05-31 22:30:21  #MKT News
-
-Israel Defense Forces (IDF) said that after alarms sounded across northern Israel, several artillery shells were found in open areas of southern Lebanon.
-
----
-
-### 2026-05-31 22:30:15  #國際
-
-以色列國防軍通報，以色列北部多個區域拉響敵機入侵防空警報。
-
----
-
-### 2026-05-31 22:28:35  #市場
-
-【白宮經濟主任呼籲公眾理性看待經濟資料波動】白宮國家經濟委員會主任哈塞特週日表示，媒體對經濟新聞的報道方式往往會讓人們過度關注到某一特定時刻所存在的最嚴重問題。哈塞特在出席電視節目時說：“我在白宮注意到的一點是，只要是某項消費價格資料看起來有點令人失望，我們就只談論這一項。”他就汽油價格及其對通脹影響的問題作出上述表態。哈塞特表示，每個人都應著眼全域性，而不僅僅是能源價格或經濟中某個暫時遇到困難的領域。“你應該做的是從容看待這些漲跌，關注實際工資的變化情況。”他說，“如果你仔細觀察，就會發現由於就業人數增加、股市上漲，企業利潤豐厚，這正在轉化為薪資水平的提高。”
-
----
-
-### 2026-05-31 22:28:25  #MKT News #Macro & Rates #US Economy
-
-【White House NEC director Hassett urges measured reaction to economic data swings】White House National Economic Council director Hassett told ABC's This Week that media coverage tends to fixate on isolated disappointing consumer-price readings, citing gasoline. He urged markets to focus on the broader picture and changes in real wages, saying employment gains, stock-market strength and healthy corporate profits are translating into higher pay and that short-term price swings should be taken in stride.
-
----
-
-### 2026-05-31 22:28:14  #國際
-
-伊朗議會國家安全委員會成員科薩里：伊美之間旨在結束戰事的談判仍在進行，但不會取得任何成果。雙方尚未達成最終協議，我們清楚談判不會有結果。核問題已不再列入伊美談判議程。伊朗目前的談判議題包括避免衝突再起、賠償事宜、美軍撤出該地區以及解除海上封鎖。已有多個國家認可伊朗對該海峽的管控權。
-
----
-
-### 2026-05-31 22:27:20  #國際
-
-伊朗總統：我們的一些經濟問題源於外部制約，另一些則是由於當前形勢帶來的壓力。有必要向人民坦誠現狀，以便他們能夠在應對挑戰中發揮作用。在面臨重大挑戰的情況下，任何社會都不能指望在不承受困難的情況下繼續前進。
-
----
-
-### 2026-05-31 22:26:56  #MKT News
-
-Iran's president said when facing major challenges no society can expect to continue advancing without enduring hardship.
-
----
-
-### 2026-05-31 22:26:49  #MKT News
-
-Iran's president said authorities must be candid with the public about the country's situation so citizens can help respond to challenges.
-
----
-
-### 2026-05-31 22:26:43  #MKT News
-
-Iran's president said some economic problems stem from external constraints, while others reflect pressure from current circumstances.
-
----
-
-### 2026-05-31 22:24:02  #國際
-
-市場訊息：印度國家安全顧問今日拜會緬甸總統。
-
----
-
-### 2026-05-31 22:23:04  #國際
-
-【特朗普向伊朗提出更為嚴苛的條件，包括限制鈾活動、保障霍爾木茲海峽通行權以及實現長期無核化】據三名美國官員透露，特朗普總統收緊了一份旨在達成協議、平息伊朗相關爭端的框架條款，並將修訂後的方案送交伊朗方面審議。目前暫不清楚協議文字具體作出了哪些修改。兩名官員表示，特朗普對協議中擬解除伊朗資產凍結的相關內容存有顧慮。十餘年前，時任總統奧巴馬也曾在限制伊朗核計劃的協議中採取同類舉措，特朗普對此一直持強烈批評態度。一名官員稱，伊朗遲遲未對美方提案作出回應，這也讓特朗普頗為不滿。美方的相關方案經由巴基斯坦等多方斡旋者反覆磋商擬定。該官員補充道，特朗普此次推出條件更為嚴苛的新提案，意在向伊朗施壓，敦促其接受已呈交伊朗最高領袖穆傑塔巴・哈梅內伊審批的協議框架，以此推動談判程序提速。
-
----
-
-### 2026-05-31 22:21:32  #國際
-
-市場訊息：烏克蘭總統澤連斯基稱，烏軍對距離前線約 700 公里的俄羅斯薩拉托夫煉油廠實施遠端打擊，並表示此次行動成果顯著。
-
----
-
-### 2026-05-31 22:21:09  #公司
-
-加拿大太平洋堪薩斯城鐵路公司：繼續敦促國際電氣工人兄弟會結束罷工，並接受具有約束力的仲裁。
-
----
-
-### 2026-05-31 22:21:07  #其他
-
-加拿大太平洋堪薩斯城鐵路：國際電氣工人兄弟會已於山區夏令時5月31日8時發起罷工，加拿大境內300名員工受到影響。
-
----
-
-### 2026-05-31 22:20:00  #其他
-
-【剛果（金）埃博拉疫情累計確診病例超260例】剛果（金）政府當地時間5月30日通報本輪埃博拉疫情防控最新進展，目前該國累計確診病例超260例，疫情波及伊圖裡省、北基伍省及南基伍省多地。（央視新聞）
-
----
-
-### 2026-05-31 22:19:43  #其他
-
-【時隔兩個月 意法半導體再度漲價】MCU及功率半導體大廠意法半導體在5月28日向客戶發出了“價格調整通知函”，宣佈將自2026年6月28日起對部分產品價格進行上調。這是意法半導體在今年3月24日宣佈漲價後，今年以來第二次宣佈漲價。僅時隔兩個月，意法半導體再度宣佈調價，凸顯出成本端壓力的持續加劇。
-
----
-
-### 2026-05-31 22:19:35  #公司
-
-市場訊息：在國際電氣工人兄弟會（IBEW）罷工期間，加拿大太平洋堪薩斯城鐵路公司（CPKC）將維持加拿大全境鐵路運營。
-
----
-
-### 2026-05-31 22:19:19  #國際
-
-美國財長貝森特談及特朗普提出的 2500 億美元相關法案：結果尚待觀察，法案目前仍在審議中。
-
----
-
-### 2026-05-31 22:17:53  #市場 #國際
-
-美國財長貝森特：海峽封鎖直接導致化肥價格上漲。
-
----
-
-### 2026-05-31 22:14:34  #公司
-
-【香港成全球最大跨境財富管理中心 香港躍居全球跨境財富管理中心榜首】波士頓諮詢公司近日釋出《2026年全球財富報告》。報告顯示，截至2025年底，香港跨境財富管理規模達到2.95萬億美元，首次超越瑞士，成為全球最大的跨境財富管理中心。作為“一國兩制”下的國際金融中心，香港憑藉資金進出自由、制度透明，為全球資本提供了透明、穩定、可預期的營商環境。同時，香港作為金融領域的國際超級介面，透過滬深港通、債券通等互聯互通機制，讓國際資金在國際規則框架下接觸內地資產。 （央視財經）
-
----
-
-### 2026-05-31 22:13:29  #國際
-
-美國財長貝森特：加密貨幣領域各類亂象均轉移至境外。
-
----
-
-### 2026-05-31 22:13:23  #MKT News #WTI #Impact bullish #XAUUSD
-
-Air-raid sirens sounded in more than 20 settlements in northern Israel.
-
----
-
-### 2026-05-31 22:12:23  #國際
-
-特朗普：我們也將繼續推進與敘利亞和伊拉克政府的戰略合作，因此我們與他們的關係將持續加深。
-
----
-
-### 2026-05-31 22:11:53  #國際
-
-市場訊息：以色列北部二十餘個定居點響起防空警報。
-
----
-
-### 2026-05-31 22:11:34  #國際
-
-特朗普：巴拉克繼續擔任駐土耳其大使。
-
----
-
-### 2026-05-31 22:11:31  #MKT News
-
-President Trump said the US will continue to advance strategic cooperation with the Syrian and Iraqi governments and that ties with them will deepen.
-
----
-
-### 2026-05-31 22:11:03  #MKT News
-
-U.S. President Trump said he is pleased to announce that U.S. ambassador to Turkey Tom Barrack has performed well and will be appointed special presidential envoy for Syria and Iraq.
-
----
-
-### 2026-05-31 22:10:48  #國際
-
-特朗普：巴拉克將同時擔任總統駐伊拉克特使。
-
----
-
-### 2026-05-31 22:10:23  #國際
-
-特朗普：湯姆・巴拉克將出任總統駐敘利亞特使。
-
----
-
-### 2026-05-31 22:09:22  #國際
-
-美國財長貝森特：市場認為此次通脹飆升只是暫時現象。
-
----
-
-### 2026-05-31 22:07:20  #國際
-
-市場訊息：以色列北部多地拉響紅色警報。
-
----
-
-### 2026-05-31 22:06:27  #MKT News
-
-Israel Defense Forces says preliminary reports indicate sirens sounded in multiple areas of northern Israel; circumstances are under review.
-
----
-
-### 2026-05-31 22:05:50  #國際
-
-美國財長貝森特：霍爾木茲海峽必須恢復到以前的樣子。
-
----
-
-### 2026-05-31 21:59:35  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iranian Students' News Agency (ISNA) reported that Kosari, a member of Iran's National Security and Foreign Policy Council, said the nuclear issue has been excluded from the negotiating table and no final agreement has been reached.
-
----
-
-### 2026-05-31 21:58:05  #其他
-
-【6月起，上海家電數碼以舊換新補貼線上活動調整為“即時搖號”】5月31日，澎湃新聞記者從上海市商務委獲悉，2026年6月1日至9月30日，上海市家電以舊換新、數碼和智慧產品及自主品類購新補貼線上活動方式將進行調整，由原來兩週一次的報名搖號，調整為即時搖號。消費者可登入服務機構應用程式APP等渠道選擇線上家電數碼、線上自主品類即時搖號專區，消費者可在專區內選擇多品類參與即時搖號，每日每品類可參加一次，搖號結果即時告知。中獎補貼資格券即時發放至中籤消費者賬戶，補貼資格券有效期按券面提示執行。（澎湃）
-
----
-
-### 2026-05-31 21:55:03  #國際
-
-市場訊息：調解方持續推進伊美協議談判。特朗普於週五修訂協議文字並送交伊朗審批，目前仍未收到對方回覆。
-
----
-
-### 2026-05-31 21:54:38  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Iran's Islamic Revolutionary Guard Corps struck a base belonging to a 'separatist organization' in northern Iraq, state media reported.
-
----
-
-### 2026-05-31 21:54:25  #焦點 #國際
-
-伊朗議員科薩里：核問題已退出談判議程，雙方尚未達成最終協議。
-
----
-
-### 2026-05-31 21:53:39  #MKT News
-
-【Ukraine denies strike on ZAPORIZHZHIA NUCLEAR PLANT transport workshop】Ukraine's southern defence forces formally rejected Russian allegations, denying Ukrainian troops struck the ZAPORIZHZHIA NUCLEAR PLANT transport workshop and calling the claims baseless.
-
----
-
-### 2026-05-31 21:53:22  #國際
-
-伊朗國家媒體報道：伊朗革命衛隊打擊伊拉克北部“分離主義團體”據點。
-
----
-
-### 2026-05-31 21:53:16  #國際
-
-【烏方否認襲擊扎波羅熱核電站】當地時間31日，烏克蘭南部國防部隊正式駁斥俄方相關指控，否認烏軍襲擊扎波羅熱核電站運輸車間，稱俄方說法為毫無依據的假訊息。據悉，俄方此前指責烏克蘭國防部隊對扎波羅熱核電站運輸車間發起打擊，並稱襲擊導致核電站區域內數輛公交車及汽車被燒燬。針對俄方指控，烏南部國防部隊予以否認，強調烏克蘭國防力量絕不會打擊核能設施、製造核安全威脅。（央視新聞）
-
----
-
-### 2026-05-31 21:51:15  #國際
-
-【以色列極右翼部長叫囂：要將黎巴嫩南部一地夷為平地】據以色列國家新聞網當地時間5月30日報道，以色列國家安全部長、極右翼政治人士本-格維爾當天訪問以色列-黎巴嫩北部邊境城鎮什圖拉時表態，稱反對之前的停火協議，呼籲將黎巴嫩貝魯特南部的達希耶夷為平地。（澎湃）
 
 ---
