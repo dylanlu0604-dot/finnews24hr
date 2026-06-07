@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-08 04:45:35",
-  "count": 19095,
+  "updated": "2026-06-08 04:49:30",
+  "count": 19096,
   "items": [
+    {
+      "id": "4922256",
+      "time": "2026-06-08 04:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：E3領導人表示，一旦停火生效，烏克蘭必須得到穩固且具有法律約束力的安全保障。"
+    },
+    {
+      "id": "mkt:019ea3d6-1430-7ee0-86d3-774748b79886",
+      "time": "2026-06-08 04:46:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government: E3 leaders (UK, France, Germany) condemned Russia's large-scale missile and drone strikes on Ukrainian cities, citing repeated use of the Oleshnik missile. They called for urgent scaling-up of interceptor production and joint development of air-defence missiles and longer-range strike capabilities, and said the G7 summit, the next meeting of a coalition of willing countries and the NATO summit should be used to coordinate further support for Ukraine."
+    },
+    {
+      "id": "4922255",
+      "time": "2026-06-08 04:45:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國政府：領導人已就如何利用七國集團峰會、意願聯盟下次會議以及北約峰會，更好協調對烏克蘭的進一步支援展開討論。"
+    },
     {
       "id": "4922254",
       "time": "2026-06-08 04:44:52",
@@ -176104,29 +176131,6 @@
         "其他"
       ],
       "text": "一名官員透露，過去三週，美軍已暗中協助約70艘商船通行霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019e7fc9-f84c-700f-a380-b4954b82fe47",
-      "time": "2026-06-01 04:46:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Moody's: US households' average monthly energy spending up about $447】Moody's Analytics says since the Feb. 28 outbreak of the Iran conflict US households have spent an average additional $447.19 on fuel-related costs. Higher gasoline and airfares have cost US consumers about $60bn in aggregate. Moody's chief economist Mark Zandi said: \"Unless the war ends soon, cash‑strapped consumers will have no choice but to be more cautious with spending, which will threaten an already weak economy.\""
-    },
-    {
-      "id": "mkt:019e7fc9-88d7-700f-a380-adb7e2d74704",
-      "time": "2026-06-01 04:46:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bessent: Trump would strictly enforce any Iran deal; sees further oil declines】Bessent said if President Trump approves a potential Iran agreement, the U.S. would use military and economic measures to ensure strict compliance; a key compliance metric would be restoration of freedom of navigation through the Strait of Hormuz. He described recent inflationary pressure as limited and largely energy-driven, said markets have looked past near-term volatility and are pricing longer-term confidence in government macro strategy, and forecast energy prices will fall further in coming months. He added WTI is about 20–25% below its prior closing peak and gasoline is roughly 5% lower, with further declines expected."
     }
   ]
 }
