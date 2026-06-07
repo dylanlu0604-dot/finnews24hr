@@ -1,7 +1,539 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 08:52:04_
-_本檔包含 3558 則快訊，約 703233 字_
+_更新時間：2026-06-07 10:38:07_
+_本檔包含 3565 則快訊，約 704503 字_
+
+---
+
+### 2026-06-01 22:14:04  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Sterling Dips Amid Middle East Uncertainty — The British pound slipped toward $1.34, reaching its lowest point since May 19, as mounting Middle East tensions reduced the likelihood of a quick Strait of Hormuz reopening and heightened concerns over the UK’s economic prospects. According to Iran’s Tasnim News Agency, Tehran announced it would suspend negotiations with the US regarding Israeli strikes on Lebanon and fully block the Strait of Hormuz, alleging that Washington had "violated the ceasefire on all fronts." The resulting spike in oil prices led investors to boost expectations for Bank of England rate hikes, with markets now anticipating two increases in 2026. Domestically, UK house prices declined by 0.6% in May, a sharper drop than the forecasted 0.1% and the largest monthly fall since June 2025. Nationwide linked the decrease to fading consumer confidence and the economic strain from rising energy prices tied to the Iran conflict.
+
+---
+
+### 2026-06-01 22:14:01  #公司
+
+【Arla Foods阿拉福茲與DMK集團宣佈合併獲批】Arla Foods阿拉福茲與DMK集團宣佈，其合併事項已獲得全部監管批准，並於2026年6月1日正式生效，合併後的企業名沿用Arla Foods阿拉福茲，總部設於丹麥。合併後，每年牛奶總供應量將達到約194億公斤。
+
+---
+
+### 2026-06-01 22:13:58  #市場 #國際
+
+美國10年期國債收益率漲幅擴大至7.5個基點，在美國ISM製造業指數釋出後重新整理日高至4.51%上方，北京時間20:44重新整理日低至4.4433%，隨後迅速拉昇——打亂了08:00以來持穩於4.46%附近的狀態。
+
+---
+
+### 2026-06-01 22:12:06  #公司 #市場
+
+【國泰海通證券：石墨化價格上漲，關注負極企業盈利修復】國泰海通證券研報表示，負極材料行業受2025年四季度以來石墨化與原材料漲價影響，盈利出現環比下滑。國泰海通證券認為，“反內卷”大勢所趨，面對2025年四季度以來持續增長的動力與儲能需求，考慮目前負極材料行業供給相對剛性，重視負極行業頭部公司盈利修復的可能性。建議關注：石墨化自供比例高、一體化程度強的負極企業；外協比例相對較高但成本傳導快、議價能力強的頭部負極企業。
+
+---
+
+### 2026-06-01 22:11:38  #資料 #市場 #國際
+
+【美國5月ISM製造業PMI創四年新高】美國5月ISM製造業PMI為54，較4月份上升1.3點，為2022年5月以來的最高值，得益於新訂單和生產量的增加。製造業PMI已連續五個月顯示出了擴張態勢，這表明在人工智慧投資大幅增加、稅收政策更加優惠以及貿易政策不確定性降低的背景下，製造業領域正展現出新的活力。新訂單增長速度加快至四個月以來的最高水平，同時工廠生產也呈現上升態勢。上漲的部分原因或許也在於消費者試圖大量囤積商品，以期搶在未來價格上漲之前出手。中東地區的衝突以及霍爾木茲海峽的關閉導致了石油及其他原材料價格的上漲。儘管油價已從峰值回落，但仍遠高於戰前水平。ISM資料顯示，對於生產商而言，原材料成本繼續大幅上漲，價格指數有所下降，但仍接近自2022年以來的最高水平。
+
+---
+
+### 2026-06-01 22:11:34  #國際
+
+【中美兩軍在美國夏威夷舉行2026年度中美海上軍事安全磋商機制工作小組會議】5月28日至29日，中美兩軍在美國夏威夷舉行2026年度中美海上軍事安全磋商機制工作小組會議。雙方以構建“中美建設性戰略穩定關係”重要共識為引領，在平等和尊重基礎上，就當前中美海空安全形勢進行了坦誠、建設性交流，對2025年中美海上軍事安全磋商機制會議以來的《中美海空相遇安全行為準則》執行情況進行了評估，討論了改進中美海上軍事安全問題的措施。雙方一致認為，兩軍進行有效溝通交流，有助於一線部隊更加專業地執行任務，增進相互瞭解、避免誤解誤判。同時，中方堅決反對任何以航行和飛越自由為名危害中國主權和安全，反對任何針對中方的侵權挑釁和抵近偵察滋擾，將繼續依法依規堅定維護國家領土主權和海洋權益，維護地區和平繁榮。（人民日報）
+
+---
+
+### 2026-06-01 22:11:28  #MKT News
+
+【China, US militaries hold 2026 maritime security consultative working-group meeting in Hawaii】May 28-29 — Chinese and US military delegations met in Hawaii for the 2026 bilateral maritime security consultative mechanism working-group meeting. Guided by a shared aim to build a constructive strategic-stability relationship, delegations held frank exchanges on current maritime and air security conditions, assessed implementation of the China‑US Code for Safe Encounters at Sea and in the Air since the 2025 meeting, and discussed measures to improve handling of maritime military-safety issues. Both sides said effective military-to-military communication helps front-line units perform tasks more professionally and reduces risk of miscalculation. China reiterated firm opposition to any use of freedom of navigation or overflight to undermine its sovereignty or security, condemned infringement, provocative acts and close-in reconnaissance and harassment, and said it will continue to lawfully and resolutely defend territorial sovereignty and maritime rights while maintaining regional peace and prosperity.
+
+---
+
+### 2026-06-01 22:11:07  #MKT News #Macro & Rates #US Economy #Commodities #Energy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+【US May ISM manufacturing PMI hits four-year high】US ISM manufacturing PMI rose to 54 in May, up 1.3 points from April and the highest reading since May 2022, driven by gains in new orders and production. The index has signaled expansion for five consecutive months. New orders accelerated to a four-month high and factory output increased. ISM reported input costs for manufacturers continued to rise sharply; the prices index eased from its peaks but remained near 2022 highs. ISM cited higher oil and commodity prices linked to conflict in the Middle East and the temporary closure of the Strait of Hormuz; oil has pulled back from peak levels but remains well above pre-conflict levels. ISM also noted stronger AI investment, more favorable tax policy and reduced trade-policy uncertainty as supporting manufacturing activity; consumer stockpiling may have contributed to demand.
+
+---
+
+### 2026-06-01 22:10:02  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #EURUSD #Impact mixed
+
+CITI/YOUGOV survey: UK one-year inflation expectations in May fell to 4.7%; long-term expectations fell to 4.0%.
+
+---
+
+### 2026-06-01 22:09:48  #MKT News
+
+【Xinyisheng: 1.6T optical-module orders up sharply YoY; expect rapid sequential growth this year】Xinyisheng told investors it expects overall supply-chain stability and order deliveries to gradually improve in 2027 Q2–Q4. 1.6T optical-module orders are substantially higher than a year ago and are expected to show rapid quarter-on-quarter growth this year; together with 800G modules they will be the primary drivers of 2024 deliveries.
+
+---
+
+### 2026-06-01 22:09:01  #觀點
+
+英國花旗調查顯示：英國五年期通脹預期降至4.0%。
+
+---
+
+### 2026-06-01 22:08:40  #公司 #市場
+
+【新易盛：1.6T光模組產品訂單相對於去年增幅很大，預計在今年呈現出逐季快速增長的趨勢】新易盛在投資者關係活動中透露，綜合訂單預期、產能準備及供應鏈情況，公司預計2027年第二至第四季度整體供應鏈穩定性及訂單交付情況將逐步向好。同時，1.6T光模組產品訂單相比去年大幅增長，預計今年將呈現逐季快速增長的趨勢，並與800G產品一起成為今年交付的主力。
+
+---
+
+### 2026-06-01 22:08:22  #其他
+
+戴爾科技向AI雲服務提供商CoreWeave交付了首套可執行的NVIDIA Vera Rubin NVL72超級計算機系統，該產品成功透過了所有測試。這標誌著英偉達下一代AI機架系統的首批確認出貨。
+
+---
+
+### 2026-06-01 22:08:17  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Bund Yields Surge Above 3% on ECB Rate Hike Expectations — German 10-year Bund yields climbed above 3%, moving further from last week’s two-month low of 2.93%, as renewed US-Iran tensions amplified inflation concerns and reinforced expectations of European Central Bank rate hikes this year. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of "violating the ceasefire on all fronts." The resulting oil price surge led investors to increase bets on ECB rate increases. Markets now anticipate at least two ECB rate hikes in 2026, with an over 90% chance of the first occurring as soon as next week. Investors are also focused on this week’s Eurozone inflation report, following last week’s data showing accelerated EU-harmonized inflation in May for France, Italy, and Spain, while Germany experienced a slowdown.
+
+---
+
+### 2026-06-01 22:08:06  #觀點
+
+英國花旗銀行調查顯示：5月英國未來一年通脹預期降至4.7%。
+
+---
+
+### 2026-06-01 22:07:58  #其他
+
+【SK海力士勞資雙方最早本月開啟薪資談判】業內人士訊息稱，SK海力士管理層和員工預計最早將於本月（6月）開始今年的薪資談判。由於 SK 海力士去年透過重組績效獎金制度已基本解決了關鍵問題，預計今年的談判可能會集中在工資增長和福利制度的改善上。報道稱，SK海力士員工強烈要求擴大住房基金支援。SK海力士目前提供最高1億韓元的住房貸款專案。雖然年利率均為1.5%，但貸款額度有所不同。還款方式為一年寬限期，之後15年等額償還本金。
+
+---
+
+### 2026-06-01 22:07:54  #公司 #國際
+
+【黃仁勳稱無所不能的電腦來了 英偉達入局萬億美元賽道】美國科技公司英偉達今天（1日）宣佈推出一款適用於個人電腦Windows系統的新款超級晶片。英偉達執行長黃仁勳表示，新產品將改變以往個人電腦的工作方式，“微軟和英偉達對其進行了精心最佳化，所以搭載它的電腦實際上可以‘無所不能’。”分析認為，英偉達正式進軍個人電腦晶片市場，推出全新處理器，意在打破英特爾、蘋果和高通等在該領域的壟斷地位，並推動個人電腦裝置適配人工智慧時代的發展需求。相關人士表示：“如果看看這個市場，包括移動裝置、膝上型電腦、桌上型電腦等產品，目前每年的潛在市場規模已經超過1萬億美元。”（央視財經）
+
+---
+
+### 2026-06-01 22:07:44  #Trading Economics #Economy #United States #Construction Spending #Importance 1
+
+US Construction Spending Rises More than Anticipated — Construction spending in the US rose by 0.4% month-over-month in April 2026, following a revised 0.2% increase in the prior month and better than the expected 0.2% rise. This marked the second consecutive monthly increase. Private-sector construction rose 0.4%, supported by a 0.8% increase in residential activity, as gains in single-family projects (+1.4%) offset a decline in multi-family construction (-0.3%). Year-on-year, construction spending advanced by 0.9%.
+
+---
+
+### 2026-06-01 22:07:16  #其他
+
+【拓竹科技釋出3D印表機新品A2L】6月1日晚，拓竹科技正式釋出3D印表機新品A2L，現已全平臺發售，新品首次搭載自適應振動補償演算法與顆粒阻尼器，列印尺寸330×320×325mm。
+
+---
+
+### 2026-06-01 22:07:02  #國際
+
+【以軍要求貝魯特南郊居民撤離】以色列軍方今天（6月1日）稱，已向黎巴嫩首都貝魯特南郊居民釋出警告，要求當地民眾撤離“以保安全”。以軍警告稱，如果黎巴嫩真主黨繼續向以色列城鎮發射火箭彈，以軍將對貝魯特南郊地區相關目標實施打擊。（CCTV國際時訊）
+
+---
+
+### 2026-06-01 22:06:14  #國際
+
+惠譽評級：歐洲大型另類投資管理人可抵禦宏觀挑戰。
+
+---
+
+### 2026-06-01 22:06:12  #MKT News
+
+Fitch Ratings says large European alternative asset managers have shown resilience to macro challenges.
+
+---
+
+### 2026-06-01 22:05:47  #Trading Economics #Economy #Canada #Manufacturing PMI #Importance 2
+
+Canada Manufacturing Sector Growth Sustained in May — The S&P Global Canada Manufacturing PMI remained in growth territory for a second straight month at 52.9 in May 2026, down slightly from 53.3 in April but still above its long-run average. The sector was supported by further increases in output and new orders, as firms reported stronger demand and success in attracting new customers. Employment also continued to rise, with some manufacturers citing pressure on existing capacity. However, inflationary pressures intensified, with both input and output price measures climbing to near four-year highs. At the same time, supplier delivery times deteriorated sharply as the conflict in the Middle East disrupted supply chains. Despite ongoing growth, business confidence remained subdued amid concerns about costs and the broader economic outlook.
+
+---
+
+### 2026-06-01 22:05:31  #其他
+
+【天津最佳化調整12條重點產業鏈】據天津發布，在2026世界智慧產業博覽會相關活動中，市工業和資訊化局向外界釋出天津市調整最佳化後的12條重點產業鏈，突出產業支撐、分類施策、兩業融合，有力支撐全市現代化產業體系建設。天津市工業和資訊化局規劃發展處副處長高建介紹，此次重點產業鏈最佳化調整，是對標現代化產業體系路線圖實施的。為了突出產業支撐作用，新增智慧機器人、資源綜合利用2條產業鏈；將汽車及新能源汽車、車聯網2條產業鏈整合為“智慧網聯新能源汽車產業鏈”；將信創、積體電路2條產業鏈整合為“新一代資訊科技產業鏈”，並新增人工智慧、智慧終端2條子鏈。調整最佳化後，12條重點產業鏈將有力支撐綠色石化、汽車、高階裝備、新一代資訊科技、新能源新材料、生命健康、迴圈經濟7大產業發展。
+
+---
+
+### 2026-06-01 22:04:51  #Trading Economics #Economy #United States #Business Confidence #Importance 3
+
+US Factory Growth Strongest in 4 Years — The ISM Manufacturing PMI rose to 54 in May 2026 from 52.7 in each of the previous two months and beating forecasts of 53. The reading pointed to the strongest expansion in the factory sector since May 2022, with faster growth seen for new orders (56.8 vs 54.1), production (54.3 vs 53.4) and backlog of orders (52.2 vs 51.4). Also, employment contracted less (48.6 vs 46.4). Price pressures remained elevated but below the levels seen in April (82.1 vs 84.6).
+
+---
+
+### 2026-06-01 22:04:50  #公司 #國際
+
+【報道稱伊朗暫停談判，比特幣觸及七週低點】伊朗國家媒體報道稱該國將暫停與美國的談判後，比特幣跌至七週低點。伊朗的Tasnim news agency表示，伊朗將切斷透過調解人進行的談判，以抗議以色列對黎巴嫩的襲擊。Strategy上週有史以來第二次出售該加密貨幣的訊息也令比特幣承壓。根據週一的一份檔案，Strategy在5月26日至5月31日期間以250萬美元的價格出售了32枚代幣，平均每枚77,135美元。倫敦證券交易所集團資料顯示，比特幣最低跌至71,495美元。
+
+---
+
+### 2026-06-01 22:04:26  #市場 #國際
+
+【受伊朗暫停談判報道影響，歐元區和英國國債收益率擴大漲幅】有報道稱，伊朗暫停與美國的談判，以抗議以色列襲擊黎巴嫩，受此影響，歐元區政府債券和英國國債收益率飆升。伊朗塔斯尼姆通訊社(Tasnim)在X平臺上表示，伊朗將停止透過中間人與美國進行談判和資訊交換。Tradeweb的資料顯示，10年期德國國債收益率上升8.3個基點，至3.012%；法國10年期國債收益率上升10個基點，至3.636%；10年期義大利國債收益率躍升11個基點，至3.750%；10年期英國國債收益率上升8.2個基點，至4.889%。
+
+---
+
+### 2026-06-01 22:04:14  #市場 #國際
+
+【英國5月房價環比下跌0.6%】中東戰事引發的衝擊開始影響到英國的房產市場。全英房屋抵押貸款協會（Nationwide）6月1日公佈資料顯示，5月，英國房價環比下跌0.6%，同比上漲1.7%，均較4月房價漲幅明顯放緩。4月，英國平均房價環比上漲0.4%，同比上漲3%。全英房屋抵押貸款協會首席經濟學家Robert Gardner指出，5月，英國房價迎來了今年以來的首次月度下跌，這是意料之中的事。中東局勢帶來了不確定性，也使得英國的能源價格和抵押貸款利率上漲，這些均不利於房產市場。但Robert Gardner同時強調，近年來英國經濟和房地產市場展現出驚人的韌性。英國家庭財務狀況穩健，家庭總債務佔收入的比例處於近二十年來的最低水平，並且積累了相當可觀的儲蓄，如果中東衝擊能夠相對迅速地過去，並且能源價格在未來幾個季度恢復正常，那麼英國房地產市場的疲軟也將是短暫的。
+
+---
+
+### 2026-06-01 22:04:10  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Slides Toward April Lows Amid Middle East Tensions — The euro dropped toward $1.16, nearing its weakest level since April 7, as escalating Middle East tensions dashed hopes for a quick reopening of the Strait of Hormuz and raised concerns about the Eurozone’s economic outlook. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of "violating the ceasefire on all fronts." The resulting surge in oil prices prompted investors to increase bets on European Central Bank interest rate hikes. Markets now expect at least two ECB rate increases this year, with an over 90% probability of the first hike occurring as early as next week. Investors are also awaiting this week’s Eurozone inflation report, following last week’s data showing accelerated EU-harmonized inflation in May for France, Italy, and Spain, while Germany saw a slowdown.
+
+---
+
+### 2026-06-01 22:03:59  #公司
+
+【杭臺高鐵溫玉段開始聯調聯試】記者從中國鐵路上海局集團有限公司獲悉，6月1日，新建杭州經紹興至台州高鐵溫嶺至玉環段啟動聯調聯試，標誌著杭臺高鐵溫玉段進入開通運營倒計時。 杭臺高鐵溫玉段位於台州市南部，途經台州溫嶺、玉環兩市，新建正線約37公里，設計時速350公里。線路建成運營後，將填補玉環市鐵路空白，對於加快構建浙江省1小時高鐵交通圈、完善區域鐵路網布局、促進沿線旅遊開發等具有重要意義。（新華社）
+
+---
+
+### 2026-06-01 22:03:16  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300 #CNH
+
+【China's 3D printers surge abroad; Shenzhen makes nearly 90% of global consumer models】CUSTOMS data: China exported 2.46 mln 3D printers in Jan–Apr, valued at 6.106 bln yuan, up 100.3% in units and 110.4% in value YoY. Growth is led by consumer-grade 3D printers, which exporters say combine higher performance and cost competitiveness; some upgraded models now approach industrial-grade print quality. Shenzhen remains the production hub for consumer units, accounting for nearly 90% of the global consumer 3D-printer market; Shenzhen's Jan–Apr export value was 5.24 bln yuan, +128.6% YoY, or 85.8% of China’s 3D-printer export value.
+
+---
+
+### 2026-06-01 22:02:28  #其他
+
+美元升至日內高點，此前ISM製造業指數超出預期。
+
+---
+
+### 2026-06-01 22:02:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500
+
+U.S. Treasury yields ticked up after ISM manufacturing and construction spending releases; the 10-year Treasury yield rose 5.9 bps to 4.512%.
+
+---
+
+### 2026-06-01 22:02:10  #公司 #市場
+
+加密貨幣概念股下跌，比特幣跌至一個多月新低。Strategy公司股價下跌6%，此前該公司售出了價值250萬美元的比特幣。Coinbase Global股價下跌5%，Robinhood股價下跌7.6%，Circle股價下跌5.8%。普羅 Shares比特幣策略ETF與貝萊德安碩比特幣信託均下跌2.6%。
+
+---
+
+### 2026-06-01 22:01:44  #國際
+
+美國5月ISM庫存指數 49.9，前值49。
+美國5月ISM就業指數 48.6，前值46.4。
+美國5月ISM新訂單指數 56.8，前值54.1。
+美國5月ISM產出指數 54.3，前值53.4。
+美國5月ISM製造業物價支付指數 82.1，預期85.5，前值84.6。
+
+---
+
+### 2026-06-01 22:01:43  #MKT News #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
+
+US May ISM manufacturing prices-paid index 82.1, below 85.5 expected and 84.6 prior.
+
+---
+
+### 2026-06-01 22:01:36  #MKT News #Economic Calendar #Important
+
+United States | ISM Manufacturing Prices Paid Index (May) | actual 82.1 | consensus 85.5 | previous 84.6
+
+---
+
+### 2026-06-01 22:01:33  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #Copper #S&P500
+
+US May ISM production index 54.3, up from 53.4 previously.
+
+---
+
+### 2026-06-01 22:01:25  #MKT News #Economic Calendar #Important
+
+United States | ISM Production Index (May) | actual 54.3 | previous 53.4
+
+---
+
+### 2026-06-01 22:01:23  #MKT News #Macro & Rates #US Economy
+
+US May ISM Employment Index 48.6; prior 46.4.
+
+---
+
+### 2026-06-01 22:01:15  #MKT News
+
+US May ISM Inventories Index 49.9, prior 49.0
+
+---
+
+### 2026-06-01 22:01:15  #MKT News #Economic Calendar #Important
+
+United States | ISM Employment Index (May) | actual 48.6 | previous 46.4
+
+---
+
+### 2026-06-01 22:01:11  #市場 #國際
+
+美國國債收益率在ISM製造業資料與建築支出資料公佈後小幅擴大漲幅；10年期美國國債收益率目前上行5.9個基點，報4.512%。
+
+---
+
+### 2026-06-01 22:01:09  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500
+
+US ISM new-orders index for May 56.8; prior 54.1.
+
+---
+
+### 2026-06-01 22:01:08  #MKT News #Economic Calendar #Important
+
+United States | ISM Inventory Index (May) | actual 49.9 | previous 49
+
+---
+
+### 2026-06-01 22:01:02  #MKT News #Economic Calendar #Important
+
+United States | ISM New Orders Index (May) | actual 56.8 | previous 54.1
+
+---
+
+### 2026-06-01 22:01:02  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500
+
+US April construction spending rose 0.4% MoM, vs 0.2% expected; March revised to +0.6%.
+
+---
+
+### 2026-06-01 22:00:44  #MKT News #Economic Calendar #Important
+
+United States | Construction Spending (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 0.60%
+
+---
+
+### 2026-06-01 22:00:39  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
+
+US May ISM manufacturing PMI 54.0, expected 53.0, prior 52.7.
+
+---
+
+### 2026-06-01 22:00:37  #國際
+
+俄羅斯財政官員向普京表示，目前戰爭開支已超出財政承受能力。
+
+---
+
+### 2026-06-01 22:00:28  #MKT News #Economic Calendar #Important
+
+United States | ISM Manufacturing PMI (May) | actual 54 | consensus 53 | previous 52.7
+
+---
+
+### 2026-06-01 22:00:25  #經濟數據 #美國
+
+美國供應管理學會5月份製造業指數升至54.0，預估為53.0。
+
+---
+
+### 2026-06-01 22:00:23  #國際
+
+美國4月份建築支出環比增長0.4%；預期增長0.2%。
+
+---
+
+### 2026-06-01 22:00:12  #國際
+
+美國ISM製造業指數創四年新高，達到54，高於預期的53。
+
+---
+
+### 2026-06-01 22:00:07  #市場
+
+現貨黃金日內跌2%，現報4448.64美元/盎司。
+
+---
+
+### 2026-06-01 21:59:52  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls on Middle East Tensions — The S&P/TSX Composite Index edged down to trade below 35,000 on Monday as reports that Iran will halt communication with the US cast doubt on a ceasefire renewal. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with RBC and TD Bank losing nearly 1%, while CIBC shed close to 2%. Gold prices also declined, weighing on mining shares. Agnico Eagle lost 3.5%, Barrick dropped nearly 3%, and WPM shed almost 4%. Meanwhile, energy stocks advanced as oil prices rallied, with Canadian Natural up nearly 3% and Suncor gaining more than 3%. Shopify also rose almost 2%, supported by optimism around AI-driven growth following Nvidia’s announcement of a new advanced processor for PCs.
+
+---
+
+### 2026-06-01 21:59:52  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures climbed above $94/bbl, up 7.6% intraday.
+
+---
+
+### 2026-06-01 21:59:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Futures Rebound from 6-Week Low — Gasoline futures in the US jumped more than 4% to above $3.15 per gallon, rebounding sharply from a six-week low of $3.03 reached on May 29, after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating operations in Lebanon. Earlier, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development clouded prospects for an interim peace agreement, even as President Donald Trump said discussions with Tehran would “work out well” despite renewed clashes near the Strait of Hormuz. Supporting prices further, US gasoline inventories fell for a 15th consecutive week in May as refineries operated at high rates using crude from strategic reserves, while some capacity shifted toward producing diesel and jet fuel to address supply concerns.
+
+---
+
+### 2026-06-01 21:59:10  #市場 #焦點
+
+現貨黃金失守4450美元/盎司，日內跌1.99%。
+
+---
+
+### 2026-06-01 21:57:40  #公司
+
+【麗珠醫藥：重組人促卵泡激素注射液獲得藥品註冊證書】麗珠醫藥公告，控股子公司麗珠單抗收到國家藥監局核准簽發的重組人促卵泡激素注射液藥品註冊證書。該藥品為麗珠單抗自主研發，適應症包括無排卵婦女、輔助生育技術中超排卵的婦女以及嚴重缺乏促黃體激素和促卵泡激素的患者。本品採用重組基因技術生產，注射筆給藥，已完成生物類似藥的臨床Ⅰ至Ⅲ期評價，與原研藥等效。累計研發費用約為1.22億元。
+
+---
+
+### 2026-06-01 21:57:18  #MKT News #Market Regions #Europe & UK
+
+Stoxx Europe 600 fell more than 1%.
+
+---
+
+### 2026-06-01 21:57:14  #市場 #國際
+
+歐洲斯托克600指數現已下跌超1%。
+
+---
+
+### 2026-06-01 21:57:10  #公司 #國際
+
+加通貝祥啟動對美國稀土公司的研究覆蓋，給予買入評級，目標價25美元。
+
+---
+
+### 2026-06-01 21:56:48  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold hit an intraday low of $4,450/oz, down nearly 2% on the day.
+
+---
+
+### 2026-06-01 21:56:21  #國際
+
+沙特外交部譴責以色列在黎巴嫩領土上的侵略行為，反對以方侵犯、入侵黎巴嫩以及破壞其主權的舉動。
+
+---
+
+### 2026-06-01 21:56:08  #市場 #焦點
+
+WTI原油突破94美元/桶，日內漲7.60%。
+
+---
+
+### 2026-06-01 21:55:56  #市場 #國際
+
+【報告：美國天然氣期貨回吐部分漲幅】美國天然氣期貨從隔夜高點回落，同時受到進入6月份氣溫升高預測的支撐。Ritterbusch & Associates在一份報告中表示：“在製冷週期的早期階段天氣變熱之際，市場不得不設想出現炎熱夏季的可能性增加。“該機構認為，在最高達到每百萬英熱單位3.50美元之前幾乎沒有阻力。該機構補充道，天然氣出口的改善也略微利多，而產量增幅溫和。紐約商交所天然氣期貨下跌2.4%，報每百萬英熱單位3.211美元。
+
+---
+
+### 2026-06-01 21:55:51  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai gold main contract fell 2.00% intraday to 973.10 yuan/gram.
+
+---
+
+### 2026-06-01 21:55:48  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Strengthens as Iran Suspends Negotiation Messaging — The dollar index rose to 99.2 on Monday, extending May’s 0.9% gain, as renewed setbacks in US-Iran negotiations added to geopolitical uncertainty and pushed oil prices higher. Iranian media reported that Tehran had suspended communications with Washington following attacks in Lebanon and was moving to fully close the Strait of Hormuz. Earlier exchanges of military strikes between the US and Iran had already raised doubts about the prospects for a diplomatic agreement. A prolonged closure of the Strait of Hormuz would add to inflationary pressures by driving energy prices higher, reinforcing expectations that the Fed will keep interest rates elevated for longer. The odds for a rate hike by the Fed in December currently stand above 50%. The dollar initially strengthened at the start of the conflict, supported by safe-haven demand and perceptions that the US economy is relatively less exposed to energy-driven inflation. However, it has since surrendered part of those gains.
+
+---
+
+### 2026-06-01 21:55:30  #Trading Economics #Economy #United States #Manufacturing PMI #Importance 1
+
+US Manufacturing Growth at Four-Year High — The S&P Global US Manufacturing PMI climbed to 55.1 in May 2026, up from 54.5 in April but slightly below the preliminary estimate of 55.3. This marked the strongest monthly expansion in the sector since May 2022, driven by the sharpest increase in production since April 2022 and another month of robust new orders. Stockpiling also contributed, as companies sought to mitigate risks from rising prices and supply chain disruptions tied to the Middle East conflict. However, exports declined for the eleventh consecutive month, with firms attributing the drop to geopolitical instability and tariffs. Employment growth, though modest, reached a five-month high, while purchasing activity increased solidly. Supplier delivery times worsened the most since August 2022. On pricing, both input costs and output charges rose at the fastest pace in nearly four years. Business confidence, meanwhile, fell to a four-month low.
+
+---
+
+### 2026-06-01 21:55:29  #市場 #焦點
+
+紐約期金失守4480美元/盎司，日內跌2.46%。
+
+---
+
+### 2026-06-01 21:55:23  #市場 #焦點
+
+布倫特原油突破97美元/桶，日內漲6.51%。
+
+---
+
+### 2026-06-01 21:55:05  #央行 #其他
+
+【澳門舉辦中葡央行數字貨幣研討會 探索跨境金融合作新路徑】澳門金融管理局1日舉行“中國－葡語國家央行數字貨幣發展與跨境創新應用高階研討會”，探索中國與葡語國家在央行數字貨幣跨境應用領域的創新合作路徑，提升澳門“中國與葡語國家金融服務平臺”功能。來自葡語國家、中國內地及港澳的官員、金融業者、專家學者約250人出席研討會。澳門金融管理局行政管理委員會主席黃善文表示，澳門持續為中國與葡語國家在經貿、金融、數字經濟等各領域搭建對話平臺、暢通合作渠道、凝聚發展合力。按照“十五五”規劃綱要要求，澳門正務實推進“數字澳門元”建設，助推人民幣國際化並夯實中葡金融服務平臺樞紐功能。（新華社）
+
+---
+
+### 2026-06-01 21:55:00  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel Defense Forces says it will strike suburbs of Beirut if HEZBOLLAH continues to carry out attacks.
+
+---
+
+### 2026-06-01 21:54:35  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Deutsche Bank: Markets highly sensitive to negative Iran-related news】Deutsche Bank US rates strategist said markets were highly optimistic over the past week that a US‑Iran deal had been reached, leaving them extremely sensitive to negative developments, particularly today’s reports that Iran has halted talks with the US.
+
+---
+
+### 2026-06-01 21:54:32  #國際
+
+【德意志銀行：市場對任何伊朗相關的負面訊息都極為敏感】德意志銀行美國利率策略主管根納季·戈布利奇表示：“過去一週，市場對於美伊協議已達成一致的看法一直非常樂觀。這使得市場對任何負面訊息都極為敏感，尤其是今天有關伊朗已停止與美國進行對話的新聞報道。”
+
+---
+
+### 2026-06-01 21:54:26  #其他
+
+以軍稱若真主黨持續發動襲擊，將打擊貝魯特郊區。
+
+---
+
+### 2026-06-01 21:53:52  #MKT News #Important
+
+Market sources: Israel has ordered residents in the southern suburbs of Beirut, Lebanon, to evacuate.
+
+---
+
+### 2026-06-01 21:53:51  #市場 #央行 #國際
+
+【伊朗暫停對話，美債下跌，交易員提高加息預期】由於美國與伊朗之間的和平談判出現僵局的跡象，美國國債價格下跌，人們擔憂高昂的能源成本將加劇通貨膨脹，並促使美聯儲提高利率。週一的拋售導致規模達31萬億美元的美國國債市場的收益率上升，其中10年期國債的收益率上漲約6個基點，達到近4.5%，而原油價格則上漲了逾7%。對美聯儲政策預期最為敏感的兩年期國債收益率也上漲了約6個基點，達到4.07%。此前，伊朗暫停透過中間人同美國的對話，以抗議以色列的行動。交易員提高了美聯儲下一次行動將是加息的預期。互換市場顯示，交易員們已完全定價到2027年3月將會加息一次，並且認為最早在10月就會加息的可能性為50%。
+
+---
+
+### 2026-06-01 21:53:46  #MKT News #Important #Commodities #Precious Metals
+
+SHFE main silver contract fell 2.00% intraday to 17,897.00 yuan/kg.
+
+---
+
+### 2026-06-01 21:53:45  #國際
+
+市場訊息：以色列要求貝魯特南郊居民撤離。
+
+---
+
+### 2026-06-01 21:53:37  #MKT News #FDX.O
+
+Shares of FedEx Freight fell about 10% and trading was halted after parent FedEx completed the unit's spin-off.
+
+---
+
+### 2026-06-01 21:53:33  #市場
+
+哥倫比亞企業在美上市股價上漲，此前右翼候選人德拉埃斯普列利亞與左翼候選人塞佩達進入總統決選。
+
+---
+
+### 2026-06-01 21:53:32  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #Commodities #Energy #US10Y #Impact bearish #WTI #Impact bullish
+
+【Iran pauses talks; US Treasuries fall as traders raise Fed rate-hike odds】Signs of a breakdown in US-Iran talks pushed US Treasury prices lower as worries that higher energy costs could lift inflation and force Fed rate hikes increased. Monday’s selloff lifted yields across the $31 tln US Treasury market: the 10-year yield rose about 6 bps to around 4.50% and crude oil gained more than 7%. The 2-year, most sensitive to Fed policy, rose roughly 6 bps to 4.07%. Iran suspended intermediary talks with the US in protest of Israeli action. Traders raised odds the Fed’s next move will be a hike; Fed swaps show markets are fully pricing one hike by March 2027 and assign about a 50% chance of a move as soon as October.
+
+---
+
+### 2026-06-01 21:53:31  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #WTI #Impact bullish #Brent
+
+China's crude-linked futures most-active contracts rose sharply in short-term trade: SC crude up 5.08% at 614.5 yuan/barrel; low-sulfur fuel oil (LU) up 4.65% at 4,861 yuan/ton; fuel oil up 3.86% at 3,986 yuan/ton; asphalt up 4.06% at 4,409 yuan/ton.
+
+---
+
+### 2026-06-01 21:53:17  #市場 #焦點
+
+白銀連續主力合約日內跌2%，現報17897.00元。
+
+---
+
+### 2026-06-01 21:53:17  #MKT News
+
+Colombia's MSCI Colcap index rose 6.3% to 2,314.07 after the first round of presidential voting concluded.
+
+---
+
+### 2026-06-01 21:52:55  #Trading Economics #Economy #Brazil #Manufacturing PMI #Importance 1
+
+Brazil Manufacturing PMI Returns to Contraction — The S&P Global Brazil Manufacturing PMI fell to 49.1 in May 2026 from 52.6 in the previous month, signaling a renewed deterioration in factory activity after April's expansion. The survey showed manufacturers ended stockpiling efforts, with both purchasing activity and production declining amid weaker demand. Total new orders fell for the fourteenth consecutive month, while export sales contracted sharply as tariffs and the war in the Middle East weighed on demand. Supply-chain disruptions remained severe, with vendor shortages and the conflict causing one of the sharpest deteriorations in delivery times in nearly four years. As a result, input cost inflation stayed close to record highs, driven by rising energy prices, while output charges increased at one of the fastest rates since 2021. Still, manufacturers remained optimistic about future production, citing hopes for improved economic conditions after the presidential elections and an eventual end to the Middle East conflict.
 
 ---
 
@@ -20982,491 +21514,5 @@ China | Steel Industry PMI (May) | actual 47.9 | previous 49.2
 ### 2026-05-31 10:39:39  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Trump says Pentagon could intervene if US, Iran fail to reach deal】President Trump told Fox on May 30 the US and Iran are close to a 'very good deal' and he expects a 'better deal,' but said he would ask the Pentagon to intervene if no agreement is reached. He warned that if he does not get what he wants 'we will end it another way.' Trump said a signed accord would secure navigation through the Strait of Hormuz and prevent Iran from acquiring nuclear weapons, and added he is not rushing negotiations: 'If you rush you don't get a good deal.'
-
----
-
-### 2026-05-31 10:37:32  #國際
-
-【特朗普：美伊若無法達成協議 “戰爭部”將介入】當地時間5月30日，美國總統特朗普在當晚福克斯新聞播出的一檔採訪節目中表示，當前美伊已接近達成一份“很好的協議”。特朗普同時在採訪中表示，我們會得到一份“更好的協議”，這本當更快才對。但同時特朗普表示，如果無法達成協議，他會要求“戰爭部”（即美國國防部）介入。特朗普表示，如果他沒有得到他想要的，“我們將用另一種方式結束它”。特朗普還表示，透過簽署協議，我們能夠確保霍爾木茲海峽的通航、確保伊朗沒有核武器等。特朗普在談及與伊朗的協議時強調，他並不著急。“如果你很著急，你就無法達成一個好的協議”。（央視新聞）
-
----
-
-### 2026-05-31 10:35:08  #其他
-
-【美稱打擊所謂販毒船致3人死亡】當地時間5月30日，美軍南方司令部透過社交媒體宣佈在東太平洋對一艘由“認定恐怖組織”運營的船隻實施了打擊。情報顯示該船隻正沿東太平洋已知的毒品販運路線航行，並參與販執行動。此次行動中，三名男性被擊斃，無美軍人員受傷。（CCTV國際時訊）
-
----
-
-### 2026-05-31 10:34:35  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #DELL.O #NVDA.O
-
-Dell Technologies founder and CEO says the first Dell Technologies Plus system equipped with NVIDIA Vera Rubin NVL72 has debuted.
-
----
-
-### 2026-05-31 10:34:29  #市場
-
-【7000億足療賽道市場規模碾壓新茶飲，年輕人成絕對主力】據公開資料，2025年，中國按摩足療行業市場規模達7000億元，體量遠超同期3749億元的新茶飲市場和518億元的電影市場。不僅如此，行業增長勢頭還在持續走強，艾瑞諮詢預計2026年市場規模將突破7300億元，使用者數接近2.5億。這意味著約每五個中國人中，就有一人體驗過按摩足療。
-
----
-
-### 2026-05-31 10:33:08  #其他
-
-戴爾：率先推出戴爾科技結合英偉達打造的VERA RUBIN NVL72  系統。
-
----
-
-### 2026-05-31 10:31:44  #資料 #國際
-
-市場訊息：美國富裕群體對本國經濟愈發悲觀。股票資產位列前三分之一的美國民眾，消費信心指數已跌至60左右。
-
----
-
-### 2026-05-31 10:31:15  #MKT News #Market Regions #Greater China
-
-【Investigation into high-priced centralized-procurement drug sales: supplier cut price and reimbursed difference but pharmacy continued charging higher price】State media on May 30 reported Hohhot Jingyuan Pharmacy sold the centralized-procurement drug avatrombopag maleate tablets at prices above the procurement level. Hohhot municipal medical insurance and market regulation bureaus opened a joint probe. Inner Mongolia medical security bureau said the pharmacy had bought the drug into inventory before the procurement policy took effect; on March 27 the supplier lowered its price and reimbursed the difference to the pharmacy’s stock, but the pharmacy continued to price sales at its original purchase price until May 15 and did not adjust. After a customer raised the issue on May 22, the pharmacy refunded the price difference at the procurement level. The city medical insurance bureau interviewed the pharmacy’s principal and recorded demerit points against its medical-insurance payment qualification; the market regulator has filed an administrative case and will publish the outcome.
-
----
-
-### 2026-05-31 10:27:53  #宏觀 #公司
-
-【高價銷售集採藥調查：供貨商已降價補差 但藥店仍高價銷售】記者從內蒙古自治區醫療保障局瞭解到 ，涉事藥店在集採政策實施前採購入庫該藥品，3月27日，供貨商對內蒙古京遠大藥房有限責任公司該藥品庫存進行降價補差。但5月15日，藥店銷售時仍按照原進貨價進行定價銷售，未及時調整價格。5月22日購藥人與藥店溝通價格問題後，藥店按照集採價格退還差價。目前，市醫保部門對涉事藥店主要負責人進行約談，並對相關責任人予以醫保支付資格記分處理；市場監管部門行政立案，處理結果將及時向社會公佈。（央視新聞）
-
----
-
-### 2026-05-31 10:26:57  #國際
-
-市場訊息：海灣局勢引發能源供應緊張，印度 “玻璃之城” 承壓。
-
----
-
-### 2026-05-31 10:24:25  #MKT News
-
-【A Letter to Grandma enters 2026 box-office top three】As of May 31, Lighthouse Professional reports Damai Entertainment’s film A Letter to Grandma has grossed 1.36572 bln yuan including presales, placing it among 2026’s top three box-office earners.
-
----
-
-### 2026-05-31 10:24:23  #國際
-
-【多個民間組織起訴美國最大移民拘留中心】據英國方面5月30日訊息，多個民間組織就美國最大移民拘留中心涉嫌侵犯人權提起訴訟。該拘留中心位於得克薩斯州埃爾帕索的布利斯堡軍事基地，目前關押超過2700名被拘留者，自啟用9個月以來已有3人死亡。訴訟稱，被拘留者被關押在無窗圍欄內，面臨看守肢體虐待、醫療和心理護理嚴重不足、單獨監禁被濫用，以及暴露於麻疹、結核病等疾病風險之中。（央視新聞）
-
----
-
-### 2026-05-31 10:23:42  #其他
-
-【給阿嬤的情書進入年度票房榜前三】據燈塔專業版，截至5月31日，由大麥娛樂出品的影片《給阿嬤的情書》總票房達13.6572億（含預售），進入2026年度票房榜前三！
-
----
-
-### 2026-05-31 10:23:04  #公司 #觀點
-
-【睿觸機器人衝擊“手術機器人第一股”：核心產品已商業化，收入尚未形成規模】近日，上海睿觸機器人股份有限公司-B（簡稱“睿觸機器人”）向港交所遞交主機板上市申請，衝擊“手術機器人第一股”，光大證券國際為其獨家保薦人。作為一家聚焦經皮穿刺手術機器人的企業，睿觸機器人已完成核心產品RC120的商業化落地。但從最新披露的財務資料來看，公司仍處於商業化早期階段，收入貢獻有限、持續虧損未止的階段。（澎湃）
-
----
-
-### 2026-05-31 10:22:13  #MKT News
-
-【M3.9 earthquake in southern Amami, Kagoshima — Japan Meteorological Agency】Japan Meteorological Agency reported an M3.9 earthquake around 10:58 a.m. on May 31 in southern Amami, Kagoshima Prefecture. Maximum seismic intensity was 3 on the JMA scale, hypocenter depth 50 km. No tsunami risk.
-
----
-
-### 2026-05-31 10:20:58  #公司
-
-【胖東來調整營業時間】5月31日，胖東來發布營業時間調整公告，6月1日起，胖東來門店調整為夏季（6月、7月、8月）營業時間：09:30-21:30。
-
----
-
-### 2026-05-31 10:14:07  #國際
-
-【日本鹿兒島發生3.9級地震】日本鹿兒島發生3.9級地震，據日本氣象廳訊息，5月31日上午10時58分左右，鹿兒島縣奄美南部發生3.9級地震，最大震度為震感3，震源深度50公里，沒有引發海嘯的危險。（央視新聞）
-
----
-
-### 2026-05-31 10:12:13  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【U.S. government said to plan appeal of tariff-refund ruling】U.S. reports on May 30 said companies have begun receiving tariff refunds after the U.S. Supreme Court found the Trump administration lacked authority to impose higher tariffs on nearly all trading partners. The refund process could be disrupted after the administration on May 29 said it plans to appeal a federal judge’s ruling that allows all importers who paid the invalidated tariffs, not just litigants, to seek refunds.
-
----
-
-### 2026-05-31 10:11:29  #國際
-
-【美政府被曝擬上訴關稅退款裁定】據美國方面5月30日訊息，在美國最高法院裁定特朗普政府無權對幾乎所有貿易伙伴加徵更高關稅後，美國企業已開始收到關稅退款，但這一流程可能因特朗普政府準備上訴而受阻。訊息稱，特朗普政府29日表示，計劃對一名聯邦法官的裁決提出上訴。該裁決允許所有支付了被裁定無效關稅的進口商申請退款，而不僅限於已提起訴訟的企業。美國海關和邊境保護局資料顯示，截至5月22日，已受理總額850億美元的退款申請，超過政府預計應退還1660億美元的一半。（央視新聞）
-
----
-
-### 2026-05-31 10:10:47  #MKT News
-
-U.S. Southern Command said three male drug‑trafficking terrorists were killed in the operation; no U.S. military personnel were injured.
-
----
-
-### 2026-05-31 10:10:00  #國際
-
-美國南方司令部：此次行動擊斃三名男性毒品恐怖分子，美軍無人傷亡。
-
----
-
-### 2026-05-31 10:09:48  #國際
-
-美國南方司令部：情報證實該船當時正沿東太平洋的“販毒”航道航行，參與“販毒”活動。
-
----
-
-### 2026-05-31 10:09:12  #國際
-
-美國南方司令部：5月30日，南方之矛聯合特遣部隊對涉指定恐怖組織的船隻實施致命軍事打擊。
-
----
-
-### 2026-05-31 10:08:57  #MKT News
-
-U.S. Southern Command said on May 30 the Joint Task Force Southern Spear conducted a lethal strike against a vessel operated by a designated terrorist organization.
-
----
-
-### 2026-05-31 10:08:29  #公司
-
-【天有為5月產量突破100萬臺】據天有為，2026年5月30日，公司5月單月產量成功突破100萬臺，本次雅迪5寸產品為產能突破的代表性產品。
-
----
-
-### 2026-05-31 10:07:49  #其他
-
-【給阿嬤的情書觀影人次破4000萬】據貓眼專業版資料，電影《給阿嬤的情書》上映32天 ，觀影人次破4000萬。
-
----
-
-### 2026-05-31 10:04:26  #國際
-
-市場訊息：特朗普以礦產、健康資料作為援助交換條件，非洲各國予以抵制。
-
----
-
-### 2026-05-31 10:01:19  #其他
-
-【全國未成年人救助保護機構“提質增效”專項行動啟動】今天，民政部印發通知，決定在全國範圍內開展未成年人救助保護機構“提質增效”專項行動，為期半年，此後常態化推進。目標很明確，就是為了落實今年4月1日正式施行的《未成年人救助保護機構管理暫行辦法》，讓未成年人救助保護機構（簡稱：未保機構）真正成為服務困境未成年人的“主陣地”。通知明確提出六大行動、多個時間節點，一張守護困境未成年人的安全網正在全面鋪開。（央視新聞）
-
----
-
-### 2026-05-31 10:00:43  #其他
-
-【聚焦未成年人思想行為風險隱患 四部門釋出最新指南】為貫徹落實《中華人民共和國未成年人保護法》《中華人民共和國預防未成年人犯罪法》，踐行立德樹人根本任務，健全家校社協同育人體系，從源頭預防和糾正未成年人思想行為偏差，最高人民法院、教育部、共青團中央、全國婦聯近日聯合印發《關於以案為鑑加強未成年人思想及行為教育引導工作指南》（以下簡稱《指南》）。未成年人心智發育尚不成熟，可塑性強。根據未成年人違法犯罪案件反映出的問題，有針對性地從法治意識、思想觀念、行為習慣、心理健康等方面，對未成年人加強教育引導，是加強未成年人思想道德建設的重要舉措，對培育和踐行社會主義核心價值觀、守護未成年人健康成長、預防違法犯罪具有重要現實意義。《指南》聚焦未成年人成長過程中的思想行為風險隱患，明確開展教育引導工作的十二項著力點。（央視新聞）
-
----
-
-### 2026-05-31 09:57:52  #其他
-
-【釋出200餘項創新成果 智博會展現智慧科技硬核實力】正在天津舉辦的2026世界智慧產業博覽會5月30日至31日為公眾開放日。本屆展會設定了展覽、賽事、對接交流、互動體驗等系列活動，搭建起智慧科技領域交流合作、共贏共享的重要平臺。展會設定六大主題展區，參展企業741家，截至昨天（30日）中午，主會場累計接待觀眾18.2萬人次。本屆智博會還發布200餘項創新成果，覆蓋智慧製造、低空經濟、智慧終端等多個領域。85個重點專案在天津集中落地，涉及智慧製造、新能源與高階裝備製造、具身智慧等領域。本屆智博會將於今天結束展陳。（央視新聞）
-
----
-
-### 2026-05-31 09:49:01  #其他
-
-市場訊息：雪佛龍簽署希臘海上油氣相關新協議，擴大在地中海的業務佈局。
-
----
-
-### 2026-05-31 09:48:05  #MKT News
-
-Japan's defense minister Koizumi Shinjiro said Japan must maintain cooperation with the US, Europe and like-minded allies.
-
----
-
-### 2026-05-31 09:48:01  #MKT News
-
-Japan defence minister Koizumi said Japan welcomes dialogue and is determined to play a new role in regional defence equipment cooperation.
-
----
-
-### 2026-05-31 09:46:47  #公司
-
-【全球長線資金加速湧入 外資重倉中國“硬科技”】29日，全球知名指數編制機構明晟最新季度調整正式生效。作為指引全球萬億級資產配置的核心風向標，此次調整新納入了多家中國科技公司。與此同時，多家國際投行也在加速佈局中國優質資產，外資金融機構對中國市場的投資熱情持續高漲。根據明晟的公告，19只中國股票被納入明晟中國指數，這一調整意味著國際主流資金將加速湧入這些中國企業。（央視新聞）
-
----
-
-### 2026-05-31 09:45:02  #國際
-
-【盧拉抨擊美國單方面將巴西黑幫列為“恐怖組織” 】巴西總統盧拉29日譴責美國政府單方面將巴西兩個犯罪團伙列為“恐怖組織”，警告美方“不要把巴西主權當成兒戲”。盧拉表示，這兩個犯罪團伙成員“危害民眾、擾亂街區、破壞城市”，“但他們不是美國總統特朗普要找的那種恐怖分子”。他強調，美方不應“把巴西主權當成兒戲”，巴西會在境內開展打擊行動。“我們不接受被當成孩子一樣對待，也不接受被視作某種無能弱國。”（新華社）
-
----
-
-### 2026-05-31 09:44:46  #Trading Economics #Economy #China #Non Manufacturing PMI #Importance 1
-
-China Services Sector Shows Tentative Growth — China’s official NBS Non-Manufacturing PMI rose to 50.1 in May 2026 from 49.4 in the prior month, beating market expectations of 49.5 and returning to expansion territory. The improvement was driven by stronger activity in both the services and construction sectors, amid ongoing policy support and infrastructure-related projects. Demand conditions stabilized, with new orders falling at a slower pace (45.0 vs 44.3 in April), and new export orders improving but remaining in contraction territory (48.1 vs 47.3). Employment stayed weak despite a slight uptick (45.6 vs 45.5), reflecting continued caution among businesses. On the price front, input cost inflation accelerated (52.2 vs 51.7), suggesting higher operating expenses, while a decline in selling prices eased (48.8 vs 48.1), indicating easing deflationary pressures. Lastly, confidence was broadly unchanged from April but remained at its highest level in three months, highlighting cautious optimism about the near-term outlook.
-
----
-
-### 2026-05-31 09:43:21  #MKT News
-
-【Yellow wave alert: southeastern East China Sea to see 4-7m waves】China's Ministry of Natural Resources said the National Marine Forecasting Center on May 31 issued a yellow wave alert. The Central Meteorological Observatory forecasts Typhoon Rose, the season's sixth system, will drive giant-to-violent waves in the eastern East China Sea over the next two days; the southeastern sector is expected to see 4-7m waves by the morning of June 1. Nearshore areas carry a yellow wave warning; vessels and coastal operators are advised to take protective and avoidance measures.
-
----
-
-### 2026-05-31 09:41:22  #國際
-
-【被從肯尼迪中心“除名” 特朗普表示“震驚” 】在法官29日裁定將美國總統特朗普的名字從肯尼迪表演藝術中心移除後，特朗普在社交媒體發帖表示“震驚”，並暗示這一裁決帶有政治動機。特朗普在帖文中稱，自己是美國歷史上受法院“不公平對待”程度最嚴重的總統，民主黨人“更關心怎麼反對我”而不是“拯救一座瀕臨死亡的”藝術中心。他還說，除非他獲得能讓這座中心在設施、財務和藝術方面“起死回生的自由”，否則不會再繼續一場“毫無希望的旅程”。（新華社）
-
----
-
-### 2026-05-31 09:40:15  #其他
-
-【海浪黃色警報 東海東南部將出現4到7米的巨浪到狂浪區】記者從自然資源部瞭解到，今天（31日），國家海洋預報臺釋出海浪黃色警報。據中央氣象臺預報，受今年第6號颱風“薔薇”（颱風級）的影響，未來兩天東海東部海域將出現巨浪以上過程。預計6月1日上午，東海東南部將出現4到7米的巨浪到狂浪區，近海海域海浪預警級別為黃色。提醒上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）
-
----
-
-### 2026-05-31 09:40:03  #Trading Economics #Economy #China #Business Confidence #Importance 2
-
-China Manufacturing Stagnates — China’s official NBS Manufacturing PMI edged down to 50.0 in May 2026 from 50.3 in April, matching market expectations. The latest reading suggested manufacturers continued to face headwinds from soft domestic demand and higher production costs. Output growth eased to a three-month low (51.2 vs 51.5 in April), while new orders shrank after expanding in the prior two months (49.9 vs 50.6). Also, foreign orders dropped after a modest increase previously (48.6 vs 50.3). Employment remained subdued (48.6 vs 48.8), and purchasing activity contracted for the first time in three months (49.8 vs 51.1). Supplier delivery times improved slightly (49.2 vs 49.5). On the price front, input cost inflation moderated but remained elevated (60.5 vs 63.7), while output price growth softened to its weakest pace in three months (51.9 vs 55.1). Finally, business sentiment stayed positive, though it eased slightly from April's level (53.9 vs 54.5).
-
----
-
-### 2026-05-31 09:37:46  #資料 #市場
-
-【國家統計局服務業調查中心首席統計師霍麗慧：新動能發展態勢繼續向好】國家統計局服務業調查中心首席統計師霍麗慧解讀中國採購經理指數。新動能發展態勢繼續向好。高技術製造業和裝備製造業PMI分別為52.9%和52.1%，比上月上升0.7個和0.3個百分點，均持續高於臨界點，特別是高技術製造業PMI已連續16個月位於擴張區間，相關行業保持良好增勢，新動能引領作用持續顯現；消費品行業和高耗能行業PMI分別為49.7%和47.1%，比上月下降1.0個和0.8個百分點，市場活躍度有所減弱。價格指數高位波動。主要原材料購進價格指數和出廠價格指數分別為60.5%和51.9%，均比上月回落3.2個百分點，仍處於近期較高水平，且兩個指數均連續5個月位於擴張區間，製造業市場價格總體水平繼續上升。從行業看，紡織、化學纖維及橡膠塑膠製品、黑色金屬冶煉及壓延加工等行業兩個價格指數均連續三個月高於55.0%，相關行業購銷價格總體水平持續上漲。
-
----
-
-### 2026-05-31 09:36:28  #Trading Economics #Economy #China #NBS General PMI #Importance 1
-
-China Composite PMI Strengthens in May — China’s NBS Composite PMI Output Index rose to 50.5 in May 2026 from 50.1 in the previous month. It was the third straight month of growth in overall business activity.
-
----
-
-### 2026-05-31 09:35:52  #資料
-
-國家統計局：5月份，綜合PMI產出指數為50.5%，比上月上升0.4個百分點，表明我國企業生產經營活動總體保持擴張。
-
----
-
-### 2026-05-31 09:35:14  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Copper
-
-【May non-manufacturing business activity index 50.1; activity returns to expansion】The Service Industry Survey Center of the NBS and the China Federation of Logistics & Purchasing jointly released May non-manufacturing data on May 31. The non-manufacturing business activity index rose to 50.1%, up 0.7 ppt MoM, returning to expansion. The services business activity index moved into expansion and market activity improved. Concentrated consumption during the May Day holiday boosted tourism, dining, cultural and sports leisure, and retail sector activity MoM.
-
----
-
-### 2026-05-31 09:35:02  #其他
-
-【國家統計局服務業調查中心首席統計師霍麗慧：多數服務業企業對近期市場發展預期總體樂觀】5月份，非製造業商務活動指數為50.1%，比上月上升0.7個百分點，非製造業景氣水平回升。服務業商務活動指數升至擴張區間。服務業商務活動指數為50.3%，比上月上升0.7個百分點，服務業市場活躍度有所提升。從行業看，鐵路運輸、電信廣播電視及衛星傳輸服務、保險等行業商務活動指數均位於55.0%以上較高景氣區間，業務總量增長較快；航空運輸、房地產等行業商務活動指數低於臨界點，相關行業景氣水平偏低。從市場預期看，服務業業務活動預期指數為55.4%，繼續位於較高景氣區間，表明多數服務業企業對近期市場發展預期總體樂觀。建築業商務活動指數有所回升。建築業商務活動指數為48.8%，比上月上升0.8個百分點，景氣水平改善。從市場預期看，建築業業務活動預期指數為51.5%，比上月上升1.0個百分點，表明建築業企業對未來行業發展信心有所恢復。
-
----
-
-### 2026-05-31 09:34:06  #資料
-
-【國家統計局服務業調查中心首席統計師霍麗慧：5月份企業生產經營狀況總體保持穩定】5月份，製造業採購經理指數為50.0%，比上月下降0.3個百分點；非製造業商務活動指數和綜合PMI產出指數分別為50.1%和50.5%，比上月上升0.7個和0.4個百分點，我國經濟總體產出保持擴張。 5月份，製造業PMI為50.0%，企業生產經營狀況總體保持穩定。企業生產保持擴張。生產指數為51.2%，高於臨界點，製造業企業生產活動繼續保持擴張；新訂單指數為49.9%，市場需求有所放緩。從行業看，醫藥、鐵路船舶航空航天裝置、計算機通訊電子裝置等行業生產指數和新訂單指數均高於53.0%，相關行業產需兩端較為活躍；石油煤炭及其他燃料加工、化學纖維及橡膠塑膠製品、非金屬礦物製品等行業兩個指數持續低於臨界點，供需兩端仍顯不足。
-
----
-
-### 2026-05-31 09:32:57  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-【NBS: May official manufacturing PMI 50.0%; China’s overall output remains in expansion】China NBS service survey chief Huo Lihui said May manufacturing PMI was 50.0%, down 0.3 percentage points MoM. Non-manufacturing business activity index was 50.1% and the composite PMI output index 50.5%, up 0.7 and 0.4 percentage points respectively, leaving overall output in expansion. New-growth drivers strengthened: high-tech manufacturing PMI 52.9% (+0.7 ppt MoM) and equipment manufacturing PMI 52.1% (+0.3 ppt), both above the 50 threshold; high-tech PMI has been in expansion for 16 months. Consumer goods PMI fell to 49.7% (-1.0 ppt) and high-energy-consuming industries PMI to 47.1% (-0.8 ppt), signalling weaker market activity in those sectors.
-
----
-
-### 2026-05-31 09:32:20  #其他
-
-【國家統計局：5月份，非製造業商務活動指數為50.1%，比上月上升0.7個百分點】5月份，非製造業商務活動指數為50.1%，比上月上升0.7個百分點，非製造業景氣水平回升。 分行業看，建築業商務活動指數為48.8%，比上月上升0.8個百分點；服務業商務活動指數為50.3%，比上月上升0.7個百分點。從服務業行業看，鐵路運輸、電信廣播電視及衛星傳輸服務、保險等行業商務活動指數均位於55.0%以上較高景氣區間；航空運輸、房地產等行業商務活動指數均低於臨界點。
-
----
-
-### 2026-05-31 09:31:09  #資料 #焦點
-
-【國家統計局：5月份，製造業採購經理指數（PMI）為50.0%，比上月下降0.3個百分點】從企業規模看，大型企業PMI為51.1%，比上月上升0.9個百分點，高於臨界點；中、小型企業PMI分別為48.6%和48.5%，比上月下降1.9個和1.6個百分點，均低於臨界點。 從分類指數看，構成製造業PMI的5個分類指數中，生產指數高於臨界點，新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。 生產指數為51.2%，比上月下降0.3個百分點，仍高於臨界點，表明製造業生產活動保持擴張。 新訂單指數為49.9%，比上月下降0.7個百分點，表明製造業市場需求景氣水平有所回落。 原材料庫存指數為48.6%，比上月下降0.7個百分點，表明製造業主要原材料庫存量下降。 從業人員指數為48.6%，比上月下降0.2個百分點，表明製造業企業用工景氣水平有所回落。 供應商配送時間指數為49.2%，比上月下降0.3個百分點，表明製造業原材料供應商交貨時間較上月繼續延長。
-
----
-
-### 2026-05-31 09:31:07  #MKT News #Important #Market Regions #Greater China #CNH #CSI300 #SSE Composite
-
-China's National Bureau of Statistics said May manufacturing PMI was 50.0%, down 0.3 percentage point MoM, at the 50-point neutral threshold.
-
----
-
-### 2026-05-31 09:30:51  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index #CSI300
-
-China composite PMI 50.5 in May, up from 50.1.
-
----
-
-### 2026-05-31 09:30:44  #MKT News #Economic Calendar #Important
-
-China | Composite PMI (May) | actual 50.5 | previous 50.1
-
----
-
-### 2026-05-31 09:30:38  #MKT News #Important #Market Regions #Greater China
-
-China's official manufacturing PMI was 50.0 in May, matching the expected 50.0 and down from the prior reading of 50.3.
-
----
-
-### 2026-05-31 09:30:34  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-China non-manufacturing PMI stood at 50.1 in May, vs consensus 49.5 and April's 49.4.
-
----
-
-### 2026-05-31 09:30:28  #MKT News #Economic Calendar #Important
-
-China | Official Manufacturing PMI (May) | actual 50 | consensus 50 | previous 50.3
-
----
-
-### 2026-05-31 09:30:25  #MKT News #Economic Calendar #Important
-
-China | Non-Manufacturing PMI (May) | actual 50.1 | consensus 49.5 | previous 49.4
-
----
-
-### 2026-05-31 09:29:20  #其他
-
-【京東：618開場四小時，百大品牌成交額平均增長超五倍】5月30日晚八點，京東618正式開啟，截至零點，該平臺百大品牌成交額同比平均增長超五倍。今年參加京東618的新商家數量同比增長超62%，開場四小時，首次參加京東618的51個新商家成交額破千萬、1516個新商家成交額破百萬。
-
----
-
-### 2026-05-31 09:25:36  #焦點 #國際
-
-【美媒：特朗普對美伊協議的修改建議涉及核材料獲取與霍爾木茲海峽】據媒體網站報道，一名高階行政當局官員和另一位知情人士透露，特朗普在週五於局勢研究室舉行的一場會議中，要求對其特使與伊朗代表達成的擬議協議進行多項修改。兩名美國官員表示，特朗普希望達成該協議，並預計將很快敲定，但他要求強化其中對他而言至關重要的幾個要點，特別是圍繞伊朗核材料的相關條款。特朗普的這一要求引發了雙方新一輪的來回溝通，這一過程可能持續數天。據兩位訊息人士透露，特朗普要求其團隊修改草案中有關伊朗核計劃的條款。當前該諒解備忘錄包含伊朗承諾不尋求發展核武器，但除此之外沒有具體的讓步內容。備忘錄規定，將有一個為期60天的視窗期，用於就伊朗的核承諾和美國的制裁減免進行談判，議程上的首要問題是如何處置伊朗現有的濃縮鈾庫存以及限制進一步的濃縮活動。特朗普希望嘗試修改這一部分。“這更多是關於美國如何獲取（核）材料以及具體時間安排的具體細節，”一位高階行政當局官員在談及濃縮鈾時表示。第二位訊息人士稱，特朗普還希望修改有關重新開放霍爾木茲海峽的部分措辭。這位美國官員表示，特朗普已獲知，伊朗方面大約需要三天時間才能給出回應。
-
----
-
-### 2026-05-31 09:24:39  #焦點 #國際
-
-【美官員透露：特朗普提出更強硬條款 試圖施壓伊朗加快談判程序】總檯記者當地時間5月30日獲悉，有多名美國官員透露，美國總統特朗普已大幅度修改並收緊有關結束美伊戰事的意向性諒解備忘錄的條款。修改後的內容已被送交伊朗方面審議。美官員透露說，修改的方案更強硬，旨在透過向伊朗施壓，加快談判程序，促使其接受此前已提交給伊朗最高領袖穆傑塔巴·哈梅內伊的框架內容。有兩名美國官員透露，特朗普對該備忘錄中有關解凍伊朗海外資產的內容存在異議。目前，美國和伊朗官方尚未就美方修改諒解備忘錄內容事宜作出明確表態。（央視新聞）
-
----
-
-### 2026-05-31 09:24:21  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
-
-【Axios: Trump seeks changes to US-Iran draft on nuclear material access and Strait of Hormuz】Axios, citing a senior administration official and another person familiar, reported President Trump asked on Friday for multiple changes to a proposed agreement his envoys reached with Iran, pressing for stronger provisions on US access to Iranian nuclear material and tighter timing. The draft memorandum contains Iran’s pledge not to pursue nuclear weapons but lacks detailed concessions; it sets a 60-day window to negotiate Iran’s nuclear commitments and US sanctions relief. The primary market-relevant issues are disposition of Iran’s existing enriched‑uranium stockpile and limits on further enrichment; officials said Trump wants to revise how and when the US would obtain material. He also sought edits to wording on reopening the Strait of Hormuz. The requests have prompted another round of exchanges that could take several days; officials said Iran would likely need about three days to respond. Two US officials said Trump still wants the deal and expects it to be finalized soon, but insisted on tightening key points.
-
----
-
-### 2026-05-31 09:23:48  #MKT News
-
-【China Automobile Dealers Association: May 2026 Vehicle Inventory Alert Index (VIA) 57.9%】China Automobile Dealers Association's latest Vehicle Inventory Alert Index (VIA) for May 2026 was 57.9%, up 5.2 percentage points YoY and down 4.2 percentage points MoM, remaining above the 50% threshold.
-
----
-
-### 2026-05-31 09:20:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Copper
-
-China's official manufacturing PMI for May due in 10 minutes.
-
----
-
-### 2026-05-31 09:19:20  #MKT News
-
-【China NHSA issues 2026 drug‑list adjustment plan and related rules】The National Healthcare Security Administration (NHSA) today released the 2026 adjustment work plan for the national basic medical insurance, maternity insurance and work‑injury insurance drug list and for the commercial health insurance innovative drug list. NHSA also published the 2026 application guide for the adjustments, rules for renewal of negotiated drugs, competitive‑bidding rules for non‑exclusive drugs, and a 2026 FAQ to aid stakeholder understanding.
-
----
-
-### 2026-05-31 09:17:20  #其他
-
-【國家醫保局釋出2026年國家醫保目錄調整工作方案】國家醫保局今天釋出《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整工作方案》《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整申報指南》《談判藥品續約規則》以及《非獨家藥品競價規則》。同時，為幫助社會各界加深對政策的理解，組織編制了《國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整常用問答（2026年版）》。（央視新聞）
-
----
-
-### 2026-05-31 09:15:49  #其他
-
-【5月31日 NIO Power 9站上線】據蔚來，5月31日，NIO Power 9站上線。截至目前，蔚來全國建成8933座充換電站，其中換電站3886座，充電站5047座、充電樁29033根。
-
----
-
-### 2026-05-31 09:14:37  #MKT News #WTI #Impact bullish
-
-According to Fox News, Trump said he is obtaining what he wants from Tehran slowly and steadily, and that if this cannot be achieved he will end the conflict in a completely different way.
-
----
-
-### 2026-05-31 09:14:20  #MKT News
-
-Fox News reported Trump said Iranians are experienced negotiators, that talks will take time and he is not in a hurry.
-
----
-
-### 2026-05-31 09:13:47  #國際
-
-【特朗普：如果協議對美國不公平，將再次使用軍事手段】據報道，特朗普表示，與伊朗的協議非常接近，如果協議對美國不公平，將再次使用軍事手段。特朗普表示，最佳的外交選擇是簽署協議，因為這意味著霍爾木茲海峽將立即重新開放航行。特朗普稱，他堅持的唯一且基本的保證是防止伊朗獲得核武器。伊朗人已經同意不發展或購買核武器。
-
----
-
-### 2026-05-31 09:12:31  #MKT News
-
-According to Fox News, Trump said his sole, fundamental guarantee is to prevent Iran from obtaining nuclear weapons; he said Iranians have agreed not to develop or acquire such weapons.
-
----
-
-### 2026-05-31 09:11:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Fox News: Trump said the best diplomatic option is to sign an agreement, as that would immediately reopen navigation through the Strait of Hormuz.
-
----
-
-### 2026-05-31 09:11:52  #MKT News #WTI #Impact mixed #Brent
-
-According to Fox News, Trump said an agreement with Iran is very close and that the United States would use military force again if the deal were unfair.
-
----
-
-### 2026-05-31 09:11:27  #國際
-
-市場訊息：烏克蘭無人機襲擊俄羅斯薩拉托夫煉油廠。
-
----
-
-### 2026-05-31 09:07:43  #其他
-
-【中國汽車流通協會：2026年5月中國汽車經銷商庫存預警指數為57.9%】2026年5月31日，中國汽車流通協會發布的最新一期“中國汽車經銷商庫存預警指數調查”VIA（Vehicle Inventory Alert Index）顯示，2026年5月中國汽車經銷商庫存預警指數為57.9%，同比上升5.2個百分點，環比下降4.2個百分點，庫存預警指數位於榮枯線之上。
-
----
-
-### 2026-05-31 09:05:11  #公司
-
-【三項戰略合作落地 陝港產業資本合作再深化】據陝西日報，5月29日，“聚力西部產業叢集·連結全球出海新機遇交流會”在西安舉辦。會議期間，三項戰略合作落地，旨在打通陝港合作壁壘、構建常態化賦能機制、為西部企業全球化提供全面支撐。這標誌著陝港產業資本合作邁入系統化、長效化新階段。香港中小上市公司協會西北代表處成立，將紮根陝西、輻射西北，為西部企業提供赴港上市、跨境資本對接、市值管理一站式落地服務。香港中小上市公司協會與西安翻譯學院簽約共建人才培養基地，將聯合打造跨境金融、上市服務、國際商務人才培養體系，透過校企協同構建專業化、國際化人才梯隊。香港中小上市公司協會、陝西資本市場服務中心、陝西省創業投資協會、中信銀行西安分行進行戰略合作簽約，將整合上市輔導、創投資本、跨境金融和產業資源，構建“上市培育+資本賦能+金融服務+產業升級”一體化支撐體系，為西部企業全球化提供全鏈條保障。
-
----
-
-### 2026-05-31 09:04:39  #國際
-
-據伊朗伊斯蘭共和國通訊社31日報道，伊朗伊斯蘭革命衛隊說，一架美軍MQ-1無人機當天凌晨進入伊朗領海上空，伊方迅速發現並使用導彈將其擊落。（新華社）
-
----
-
-### 2026-05-31 09:04:32  #市場
-
-【酒價內參5月31日價格釋出：古井貢古20與習酒君品領跌 總價再創40天新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價5月31日整體繼續下行。如果主要單品各取一瓶整體打包售賣，今日總售價為9890元，較昨日下跌6元，再創過去40天以來最低紀錄。市場在昨日大跌後延續探底，終端交投情緒偏冷，核心單品的漲跌分化依然顯著。今日白酒市場11大單品三漲六跌兩平，輸家繼續佔據優勢。上漲方面，五糧液普五八代漲幅居前，上漲7元/瓶，自月內最低點強勢反彈；國窖1573上漲5元/瓶，收復昨日全部跌幅，重回890元上方；五糧液1618上漲2元/瓶。下跌方面，古井貢古20與習酒君品跌幅居前，均下跌6元/瓶，前者遭遇三連陰，價格快速下探至月內次低位，後者連續兩天大幅下滑，再創月內新低，近一月其價格跌勢迅猛；飛天茅臺、精品茅臺、青花郎與青花汾20均下跌2元/瓶，其中青花汾20與青花郎雙雙遭遇四連陰，前者續創月內新低，後者自月內最高快速回落至月內次低位。洋河夢之藍M6+與水晶劍南春的價格環比保持不變。
-
----
-
-### 2026-05-31 09:03:53  #其他
-
-【2026醫藥創新政策論壇在京舉辦 探討產業高質量發展】2026醫藥創新政策論壇在北京舉辦。論壇圍繞生物醫藥產業“新興支柱產業”的歷史性新定位展開探討，共商政策紅利向產業增長實效的轉化路徑。北京市海淀區副區長林航表示，為將創新資源轉化為產業優勢，海淀區將精準發力，利用AI技術為產業賦能，迭代升級專項扶持措施，打通醫保與專病資料壁壘。同時成立北京藥品監管科學創新中心，探索建立從研究者發起的臨床研究(IIT)加速轉化至臨床試驗申請乃至附條件上市的綠色通道，以AI賦能監管創新。面向未來，海淀區將加速形成產業合力，打造“一站式AI重塑醫藥研發新正規化平臺”，努力在全球生物醫藥創新版圖中刻下鮮明的“海淀座標”。（中新網）
-
----
-
-### 2026-05-31 09:00:42  #其他
-
-英國鋁業行業警示：淨零排放相關政策正引發本土民眾反對各類專案。
-
----
-
-### 2026-05-31 09:00:19  #其他
-
-【廣東省康復醫學會會長竇祖林：繼續推進廣東省康復人才培育團體標準建設工作】“香港、澳門老年人口多，不少老人選擇到灣區內地城市養老，但醫療保障、福利制度需要進一步實現互認互通。”廣東省康復醫學會會長竇祖林30日在廣州表示，灣區跨境康養大有可為，目前已有多項“灣區標準”釋出，涉及養老服務範疇，將整合借鑑港澳成熟照護規範，打通三地康復、康養服務流程。竇祖林稱，今年將繼續推進廣東省康復人才培育團體標準建設工作，以國際視野補短板、以標準體系強根基、以規範建設提質量，讓康養人才從“培養”走向“育成”、從“經驗型”走向“標準型”。（中新網）
-
----
-
-### 2026-05-31 08:59:48  #其他
-
-【陝西重大水利工程建設穩步推進】據陝西日報，據統計，一季度全省新開工重大及面上水利專案651個，加快在建專案1413個；落實投資95.37億元，完成投資72.37億元，同比分別增長15.6％、5.2％，投資規模穩中有增，實現良好開局。一批民生水利工程也在統籌實施。一季度，陝西加快推進農村供水工程及維修養護、中型灌區節水改造、中小河流治理、水土流失綜合治理等專案，完成投資43.67億元，全省規模化供水工程覆蓋農村人口比例達53.93％，民生水利基礎持續夯實。
-
----
-
-### 2026-05-31 08:55:06  #公司
-
-【預計減免關稅近600萬元 封關後首架“零關稅”客機通關】據海南日報，德國當地時間5月26日，新海航海南航空在空客德國交付中心接收一架全新空客A321neo飛機。這是海南自貿港封關運作以來，透過零關稅政策引進的首架民航客機，享受租賃進口全時段進口環節稅款全免。北京時間5月28日，這架客機順利飛抵海南，在海口海關所屬海口美蘭機場海關順利通關。海南自貿港零關稅政策為航空公司降低機隊引進成本、加速運力升級提供了重要支撐。據測算，此架飛機在租賃期內預計可減免關稅近600萬元。根據新海航海南航空2026年飛機引進計劃，後續還將有3架同型飛機按“零關稅”模式引進，預計租賃期內累計減免關稅約1800萬元。
-
----
-
-### 2026-05-31 08:53:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【US, UK, Australia announce plans to develop weapons for unmanned submersibles】At the Shangri-La Dialogue (May 29-31 in Singapore), UK Defence Secretary John Healey said the UK will work with the United States and Australia under the trilateral security partnership to jointly develop new weapons for unmanned submersibles. The UK will allocate £150m (about $200m) to the project. The announcement builds on the 2021 AUKUS pact, under which the US and UK agreed to help Australia build nuclear-powered submarines—a move that has prompted regional concern; the IAEA warned it could set a dangerous precedent and trigger a chain reaction.
 
 ---
