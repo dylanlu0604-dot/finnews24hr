@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-07 19:24:12",
-  "count": 18908,
+  "updated": "2026-06-07 19:28:00",
+  "count": 18910,
   "items": [
+    {
+      "id": "4921888",
+      "time": "2026-06-07 19:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列對黎巴嫩東貝卡谷地的馬什加拉鎮實施空襲。"
+    },
+    {
+      "id": "4921887",
+      "time": "2026-06-07 19:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省委書記許昆林會見TCL董事長李東生】6月7日，遼寧省委書記許昆林在瀋陽會見TCL創始人、董事長李東生一行。許昆林表示，雙方合作前景十分廣闊，希望TCL進一步擴大在遼投資佈局，提升馭新智行專案能級，向產業鏈上下游延伸，助力打造汽車及零部件產業叢集；深度參與遼寧企業“智改數轉”，積極與科研機構開展聯合攻關，推動更多科技成果轉化落地，實現更高水平互利共贏。李東生表示，TCL將努力做好在遼合資企業，進一步深耕遼寧，充分發揮自身優勢，積極引入更多先進技術、優質資源，持續深化拓展產業合作，更好助力遼寧全面振興。（遼寧日報）"
+    },
+    {
+      "id": "4921886",
+      "time": "2026-06-07 19:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯與卡達等國會談 尋求落實第一階段停火】當地時間7日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告稱，哈馬斯正在埃及首都開羅與埃及、卡達和土耳其等斡旋國舉行會議。卡西姆表示，此次會議旨在尋求有效方案，以確保停火計劃第一階段及人道主義條款得到切實履行，並制止針對巴勒斯坦人的“種族滅絕與暗殺行動”。卡西姆同時在宣告中強調，必須糾正“和平委員會”的運作路線，使其能夠忠實、公正地執行停火計劃，而不是偏袒以色列的敘事立場。（央視新聞）"
+    },
     {
       "id": "4921885",
       "time": "2026-06-07 19:21:43",
@@ -174379,14 +174403,6 @@
         "Hang Seng Index"
       ],
       "text": "【China Index Academy: TOP100 developers Jan–May sales CNY1.2293 trillion; YoY drop narrowed】China Index Academy reports TOP100 Chinese developers sold CNY1.2293 trillion in Jan–May 2026, with the YoY decline narrowing 4.7 percentage points versus Jan–Apr and contracting for a third consecutive month. In May, China Overseas, CHINA RES LAND, China Merchants Shekou, C&D Real Estate, Poly Developments, Beijing Urban Construction and Lianfa posted YoY sales growth. The academy attributes May strength to improvement-led demand concentrated in high-end products in some cities and to aggressive marketing that aided rapid post-launch sell-through."
-    },
-    {
-      "id": "4908844",
-      "time": "2026-05-31 19:27:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中指研究院：前5月TOP100房企銷售總額為12292.3億元】中指研究院最新發布《2026年1—5月中國房企銷售業績解析》，2026年1—5月，TOP100房企銷售總額為12292.3億元，同比降幅較1—4月縮小4.7個百分點，連續三個月縮窄。5月，中海地產、華潤置地、招商蛇口、建發房產、保利置業、北京城建、聯發等企業銷售業績同比均有增長。一方面，當前改善型需求主導市場，部分城市高階類產品熱銷；另一方面，積極的營銷策略也為產品入市後快速去化起到了良好作用。"
     }
   ]
 }
