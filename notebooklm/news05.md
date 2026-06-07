@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:41:31_
-_本檔包含 3619 則快訊，約 706698 字_
+_更新時間：2026-06-08 03:08:13_
+_本檔包含 3609 則快訊，約 706091 字_
+
+---
+
+### 2026-06-02 07:36:25  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Explosions continue in Kyiv】Explosions have been heard in Kyiv since about 02:15 local time on the 2nd; Kyiv military administration head Tkachenko says Russian forces are launching ballistic missiles at the city.
+
+---
+
+### 2026-06-02 07:35:39  #國際
+
+韓華航空航天在韓國工廠發生致命火災後暫停生產。
+
+---
+
+### 2026-06-02 07:35:33  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Gains on US-Iran Stalemate — WTI crude futures remained above $92 per barrel on Tuesday after surging more than 5% at the start of the month, as ongoing peace talks between the US and Iran showed little progress, keeping markets cautious about supply disruptions. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli strikes in Lebanon. The report also indicated that Iran and its regional allies are considering the full closure of the Strait of Hormuz and the Bab el-Mandeb Strait, a key alternative route for global oil shipments. Meanwhile, President Donald Trump said negotiations remain ongoing and noted that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached within the next week. Separately, Lebanese authorities called for all Lebanese territory to be covered under any extension of the ceasefire agreement between Hezbollah and Tel Aviv.
 
 ---
 
@@ -21794,83 +21812,5 @@ Israel Defense Forces said missiles were fired shortly before from the direction
 ### 2026-06-01 03:09:03  #國際
 
 伊朗塔斯尼姆通訊社援引訊息人士：特朗普提出的修正案不代表伊朗已經接受這些修正案。
-
----
-
-### 2026-06-01 03:07:56  #MKT News
-
-【Iran may revise draft memorandum, Iranian media say】Iranian media report Tehran may make new revisions to a draft memorandum of understanding. U.S. media had reported Trump proposed further changes to the existing text. A source said text exchanges continue and Iran may submit its own edits; nothing is settled. The source added that Trump’s proposed edits do not imply Iranian acceptance and that Tehran is prepared for potential misunderstandings.
-
----
-
-### 2026-06-01 03:07:36  #國際
-
-伊朗塔斯尼姆通訊社援引訊息人士：伊朗將在與美國的會談中對諒解備忘錄草案文字提出新修正條款。
-
----
-
-### 2026-06-01 03:05:21  #國際
-
-【以軍士兵涉嫌偽造理由逮捕巴勒斯坦兒童】據以色列方面5月31日訊息，一段在社交媒體上流傳的影片顯示，以色列士兵涉嫌偽造理由逮捕巴勒斯坦兒童。影片中，幾名以色列士兵涉嫌強迫一名巴勒斯坦男孩舉起巴勒斯坦旗幟，並在一支槍械旁站立。隨後，該男孩被要求面向牆壁舉起雙手接受檢查。影片中可見至少三名士兵，其中一人用手機進行拍攝。媒體報道稱，這顯然是在為逮捕這名兒童製造理由。（央視新聞）
-
----
-
-### 2026-06-01 03:01:55  #國際
-
-【俄方稱扎波羅熱地區大面積斷電】當地時間5月31日，俄羅斯方面任命的扎波羅熱地區行政長官巴利茨基表示，該地區大部分割槽域發生緊急斷電。據他介紹，關鍵基礎設施仍在執行，供電正在恢復。（央視新聞）
-
----
-
-### 2026-06-01 02:59:12  #MKT News
-
-Syrian President Shala spoke by phone with Trump; Shala told Trump that lifting remaining US sanctions on Syria is an important step to reviving Syria's economy.
-
----
-
-### 2026-06-01 02:57:42  #MKT News #Important
-
-【Iran official denies reports President PEZESHKIAN has resigned】Iran's Government Information Committee chairman Hazrati said President PEZESHKIAN is fully focused on state affairs, rejecting reports he has resigned.
-
----
-
-### 2026-06-01 02:57:32  #國際
-
-【伊朗外長：談判結果明確前 一切都是猜測】當地時間5月31日，伊朗外交部長阿拉格齊在接受媒體採訪時表示，目前談判和資訊交換仍在進行中，在尚未取得明確結果之前，無法對此作出判斷。阿拉格齊表示，現在外界所說的一切都只是猜測，不應對此過於重視。
-
----
-
-### 2026-06-01 02:50:50  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Israeli Broadcasting Authority, citing sources, reported Israel will not withdraw troops while threats persist in southern Lebanon.
-
----
-
-### 2026-06-01 02:50:27  #焦點 #國際
-
-歐盟正考慮暫時暫停調整對俄石油價格上限機制。眼下各方擔憂，伊朗局勢動盪、霍爾木茲海峽實際通航受阻，或將引發燃油供應短缺。
-
----
-
-### 2026-06-01 02:47:59  #其他
-
-匈牙利總統表示拒絕總理毛焦爾要求其辭職的訴求。
-
----
-
-### 2026-06-01 02:47:22  #MKT News #WTI #Impact bullish #Brent #DXY
-
-CENTCOM said as of May 31, US forces' blockade operations targeting Iran have forced 118 commercial vessels to alter course.
-
----
-
-### 2026-06-01 02:45:06  #國際
-
-【馬克龍：黎南局勢升級“毫無正當理由”】法國總統馬克龍5月31日在社交媒體發文表示，當前黎巴嫩南部局勢持續升級“毫無正當理由”，當務之急是美國和伊朗儘快達成協議。據法國媒體報道，應法國請求，聯合國安理會定於美東時間6月1日下午就以色列擴大在黎巴嫩軍事行動召開緊急會議。（新華社）
-
----
-
-### 2026-06-01 02:44:50  #焦點 #國際
-
-據伊朗塔斯尼姆通訊社報道，伊朗官方否認總統佩澤希齊揚辭職的相關訊息，稱總統仍在全力處理國家事務。
 
 ---

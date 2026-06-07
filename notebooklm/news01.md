@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:41:31_
-_本檔包含 3771 則快訊，約 707145 字_
+_更新時間：2026-06-08 03:08:13_
+_本檔包含 3779 則快訊，約 706767 字_
+
+---
+
+### 2026-06-08 03:06:20  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Israel's Channel 13, citing a senior official, said fire from Iran into Israeli territory would signal a declaration of renewed war.
+
+---
+
+### 2026-06-08 03:06:13  #國際
+
+以色列國防軍發言人： 不久前，我方監測到從伊朗射向以色列本土的導彈，全國多個區域隨即拉響防空警報。 請民眾嚴格遵照本土前線司令部的指示行動。目前空軍已展開行動，開展攔截與必要反擊，消除威脅。 防空體系並非萬無一失，請務必持續遵守本土前線司令部的相關指引。
+
+---
+
+### 2026-06-08 03:04:51  #MKT News
+
+Israeli military says defensive systems are operating to intercept threats.
+
+---
+
+### 2026-06-08 03:04:15  #MKT News
+
+Israel's Channel 12 reports all schools nationwide will be closed tomorrow.
+
+---
+
+### 2026-06-08 03:04:10  #國際
+
+以色列軍方表示，其防禦系統正在運轉，以攔截威脅。
+
+---
+
+### 2026-06-08 03:03:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli military says it detected missiles launched from Iran toward northern settlements.
+
+---
+
+### 2026-06-08 03:03:20  #國際
+
+以色列警報平臺：初步訊息，導彈從克爾曼沙阿地區發射。
+
+---
+
+### 2026-06-08 03:03:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel sounded missile alerts after Iran launched missiles.
+
+---
+
+### 2026-06-08 03:03:07  #焦點 #國際
+
+伊朗發動導彈襲擊，以色列北部已釋出預警。
+
+---
+
+### 2026-06-08 02:58:38  #公司
+
+【勃林格殷格翰推出保肌肉減肥藥，角逐競爭激烈的減重藥物市場】勃林格殷格翰正推廣其一款在研減肥藥，該藥物可幫助患者減脂同時保留肌肉，有望在競爭白熱化的減重藥市場中形成差異化優勢。該公司週日表示，一項大型臨床試驗的分析資料顯示，蘇沃杜肽可使內臟脂肪（堆積在腹腔臟器周圍的有害脂肪）最高減少34%。使用最高劑量藥物時，全身組織總量變化中，肌肉等瘦體重佔比不超過10.8%，同時肝臟脂肪降幅超60%。
+
+---
+
+### 2026-06-08 02:57:26  #焦點 #國際
+
+以色列國防軍發言人： 以軍正做好防備，應對未來數小時內可能出現的針對以色列領土的襲擊。
+
+---
+
+### 2026-06-08 02:55:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israel is on heightened alert against potential Hezbollah retaliation after airstrikes in Beirut, Channel 13 reported, citing sources.
+
+---
+
+### 2026-06-08 02:50:23  #國際
+
+真主黨稱襲擊了以色列北部的軍事目標。
+
+---
+
+### 2026-06-08 02:47:51  #公司 #觀點 #央行 #國際
+
+【高盛：預計美聯儲今年不再降息】受就業市場表現強於預期影響，高盛集團經濟學家現已判斷，美聯儲今年不會降息。該行將美聯儲最後兩輪降息的預期時間，從此前的2026年12月、2027年3月，推遲至2027年6月和12月。高盛仍認為美聯儲加息機率偏低，但鑑於美聯儲官員立場轉向鷹派、經濟走勢保持韌性，該行將小幅加息的機率從10%上調至20%。
+
+---
+
+### 2026-06-08 02:47:08  #公司
+
+阿聯酋阿提哈德航空表示，由於其他航司取消訂單，該公司得以提前接收部分從波音、空客採購的新飛機。
 
 ---
 
@@ -22750,47 +22840,5 @@ France April trade deficit narrowed to EUR 5.64 bln from a EUR 6.864 bln deficit
 ### 2026-06-05 14:45:30  #公司
 
 【李斌名下易車通文化傳媒公司擬登出】天眼查經營風險資訊顯示，近日，北京易車通文化傳媒有限公司新增一則簡易登出公告，公告期為5月29日至6月18日。該公司成立於2008年3月，法定代表人為李斌，註冊資本1000萬人民幣，經營範圍包括設計、製作、代理、釋出廣告等，由李斌、林芝利創資訊科技有限公司共同持股。
-
----
-
-### 2026-06-05 14:45:28  #MKT News #Economic Calendar #Important
-
-France | Trade Balance (Apr) | actual -5640000000B | previous -6864000000B
-
----
-
-### 2026-06-05 14:45:14  #其他
-
-法國4月經常帳 -2億歐元，前值 -12億歐元。
-
----
-
-### 2026-06-05 14:45:11  #其他
-
-法國4月貿易帳 -56.4億歐元，前值 -68.64億歐元。
-
----
-
-### 2026-06-05 14:44:39  #宏觀 #國際
-
-【王毅同緬甸外長丁貌瑞會談】6月5日，中共中央政治局委員、外交部長王毅在北京同緬甸外長丁貌瑞舉行會談。王毅表示，中緬建交76年來，兩國堅定奉行共同倡導的和平共處五項原則，同甘共苦，守望相助，樹立了國與國之間友好交往的典範。2020年習近平主席歷史性訪緬，推動中緬關係進入構建命運共同體的新時期。今年是緬新政府施政第一年。中方願同緬方加強高層交往，增進政治互信，深化戰略合作，推動中緬命運共同體建設取得更多務實成果，助力緬甸加快發展振興。(新華社)
-
----
-
-### 2026-06-05 14:44:22  #公司
-
-【美孚宣告：天貓百億補貼等渠道機油未授權，無法保證質量】近日，在社交媒體上，有消費者發帖吐槽，“在某電商平臺上購買的美孚機油竟是三無產品”、“之前買了一瓶金美孚040，今天才加進去，倒出來第一感覺怎麼那麼稀，像水一樣。”近日，埃克森美孚（中國）投資有限公司在京東美孚官方旗艦店、天貓美孚官方旗艦店釋出宣告稱，天貓百億補貼頻道、蘇寧易購官方旗艦店等渠道銷售的美孚1號經典表現、美孚1號勁擎表現、銀美、速霸等產品，均非埃克森美孚官方授權的銷售渠道供應。宣告強調，該公司未授權任何二級經銷商，凡透過非授權渠道銷售的產品，埃克森美孚無法就其正品來源及質量作出任何保證。（新浪科技）
-
----
-
-### 2026-06-05 14:44:03  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Reserve Bank of India governor said the central bank is not currently considering proposals to monetize gold.
-
----
-
-### 2026-06-05 14:43:51  #Trading Economics #Economy #Hungary #Industrial Production #Importance 1
-
-Hungary Industrial Output Growth Eases in April — Industrial production in Hungary rose by 0.9% year-on-year in April 2026, slowing from a 6.7% increase in the previous month, according to preliminary estimates. he reading marked the second consecutive annual increase, although production declined across most manufacturing subsectors compared with a year earlier. Among the most important sub-sectors, output expanded in transport equipment and in computer, electronic, and optical products manufacturing. In contrast, production fell in electrical equipment as well as food, beverages, and tobacco products. On a seasonally and working-day-adjusted basis, industrial output increased by 1.1% in April, easing from a 3.1% rise in March. In the first four months of 2026, industrial production was 1.0% higher than in the corresponding period of the previous year.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:41:31_
-_本檔包含 3797 則快訊，約 706796 字_
+_更新時間：2026-06-08 03:08:13_
+_本檔包含 3796 則快訊，約 706877 字_
+
+---
+
+### 2026-06-05 14:45:28  #MKT News #Economic Calendar #Important
+
+France | Trade Balance (Apr) | actual -5640000000B | previous -6864000000B
+
+---
+
+### 2026-06-05 14:45:14  #其他
+
+法國4月經常帳 -2億歐元，前值 -12億歐元。
+
+---
+
+### 2026-06-05 14:45:11  #其他
+
+法國4月貿易帳 -56.4億歐元，前值 -68.64億歐元。
+
+---
+
+### 2026-06-05 14:44:39  #宏觀 #國際
+
+【王毅同緬甸外長丁貌瑞會談】6月5日，中共中央政治局委員、外交部長王毅在北京同緬甸外長丁貌瑞舉行會談。王毅表示，中緬建交76年來，兩國堅定奉行共同倡導的和平共處五項原則，同甘共苦，守望相助，樹立了國與國之間友好交往的典範。2020年習近平主席歷史性訪緬，推動中緬關係進入構建命運共同體的新時期。今年是緬新政府施政第一年。中方願同緬方加強高層交往，增進政治互信，深化戰略合作，推動中緬命運共同體建設取得更多務實成果，助力緬甸加快發展振興。(新華社)
+
+---
+
+### 2026-06-05 14:44:22  #公司
+
+【美孚宣告：天貓百億補貼等渠道機油未授權，無法保證質量】近日，在社交媒體上，有消費者發帖吐槽，“在某電商平臺上購買的美孚機油竟是三無產品”、“之前買了一瓶金美孚040，今天才加進去，倒出來第一感覺怎麼那麼稀，像水一樣。”近日，埃克森美孚（中國）投資有限公司在京東美孚官方旗艦店、天貓美孚官方旗艦店釋出宣告稱，天貓百億補貼頻道、蘇寧易購官方旗艦店等渠道銷售的美孚1號經典表現、美孚1號勁擎表現、銀美、速霸等產品，均非埃克森美孚官方授權的銷售渠道供應。宣告強調，該公司未授權任何二級經銷商，凡透過非授權渠道銷售的產品，埃克森美孚無法就其正品來源及質量作出任何保證。（新浪科技）
+
+---
+
+### 2026-06-05 14:44:03  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Reserve Bank of India governor said the central bank is not currently considering proposals to monetize gold.
+
+---
+
+### 2026-06-05 14:43:51  #Trading Economics #Economy #Hungary #Industrial Production #Importance 1
+
+Hungary Industrial Output Growth Eases in April — Industrial production in Hungary rose by 0.9% year-on-year in April 2026, slowing from a 6.7% increase in the previous month, according to preliminary estimates. he reading marked the second consecutive annual increase, although production declined across most manufacturing subsectors compared with a year earlier. Among the most important sub-sectors, output expanded in transport equipment and in computer, electronic, and optical products manufacturing. In contrast, production fell in electrical equipment as well as food, beverages, and tobacco products. On a seasonally and working-day-adjusted basis, industrial output increased by 1.1% in April, easing from a 3.1% rise in March. In the first four months of 2026, industrial production was 1.0% higher than in the corresponding period of the previous year.
 
 ---
 
@@ -22817,53 +22859,5 @@ RAYMOND JAMES將CrowdStrike目標股價從450美元上調至750美元。
 ### 2026-06-04 10:46:58  #國際
 
 【美國火星大氣探測器MAVEN任務終結】美國航空航天局3日宣佈，在火星軌道已執行超過11年的探測器“火星大氣與揮發物演化任務”（MAVEN）正式結束。 MAVEN探測器於2013年11月發射升空，2014年9月進入火星軌道，原計劃任務期一年，此後持續執行並多次延長任務。該探測器2025年12月6日最後一次與地面通訊後失聯，已無法繼續正常執行。美國航空航天局當時表示，MAVEN在繞過火星背面後未能恢復訊號。 今年2月，美航空航天局成立異常情況調查委員會，評估任務恢復的可能性及探測器狀態。調查結論是它已無法恢復正常執行，不能繼續執行科學觀測及資料中繼任務，這與任務團隊此前判斷一致。分析認為，探測器在脫離火星遮擋區時已處於高速自旋狀態，導致軌道姿態異常，隨後機載電池電量耗盡，通訊系統失去供電，從而造成失聯。 美航空航天局表示，目前相關調查仍在進行中，尚未確定導致異常的根本原因，最終調查報告預計將在今年晚些時候釋出。 據介紹，MAVEN主要觀測火星上層大氣、電離層及其與太陽活動的相互作用，以探究火星大氣向太空流失的過程。對大氣逃逸機制的研究，有助於科學家理解火星大氣與氣候演化歷史、液態水的存在情況及行星宜居性等關鍵問題。 美航空航天局行星科學部負責人路易絲·普羅克特表示，MAVEN任務取得的科學成果為未來載人火星任務所需的輻射防護與安全設計提供了重要依據，其資料在未來數十年仍將持續發揮作用。(新華社)
-
----
-
-### 2026-06-04 10:46:36  #公司 #市場
-
-【半導體矽片概念震盪走高 滬矽產業漲超10%】半導體矽片概念盤中震盪走高，滬矽產業漲超10%，立昂微觸及漲停，西安奕材、TCL中環、民德電子、神工股份漲幅靠前。
-
----
-
-### 2026-06-04 10:46:01  #公司
-
-【招商蛇口、鄭州國資成立置業公司】企查查APP顯示，近日，鄭州市二七區招中置業有限公司成立，法定代表人為何小剛，註冊資本為1000萬元，經營範圍包含：房地產開發經營；物業管理；土地使用權租賃；非居住房地產租賃；建築材料銷售；住房租賃等。企查查股權穿透顯示，該公司由招商蛇口全資子公司招商局地產（武漢）有限公司、鄭州中交城市更新有限公司共同持股。
-
----
-
-### 2026-06-04 10:44:17  #市場 #國際
-
-韓國NAVER股價下跌6.2%。
-
----
-
-### 2026-06-04 10:44:03  #其他
-
-加拿大豐業銀行將CrowdStrike目標股價從475美元上調至805美元。
-
----
-
-### 2026-06-04 10:43:44  #MKT News #Market Regions #Greater China #002129.SZ #Impact bullish
-
-China A-shares BC battery sector briefly rallied; Xinqi Weizhuang rose more than 10%, with Youyan Powder Materials, Guangxin Materials, Yonghe Intelligent Control, TCL Zhonghuan and Jingsheng Electromechanical also gaining.
-
----
-
-### 2026-06-04 10:43:41  #公司 #市場
-
-三星物產股價大漲14%。
-
----
-
-### 2026-06-04 10:43:19  #其他
-
-派珀桑德勒將Crowdstrike目標股價從 520 美元上調至 750 美元。
-
----
-
-### 2026-06-04 10:42:33  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.586 after three consecutive sessions of losses, as flaring tensions in the Middle East kept investors cautious. Fighting in the region intensified earlier this week, raising fears of wider regional instability and prolonged disruptions to energy flows. However, some relief emerged after Israel and Lebanon had agreed to implement a ceasefire contingent on Hezbollah halting its attacks, while President Donald Trump said talks with Iran were going “very well” and could produce outcomes over the coming weekend, despite denials from Tehran. The kiwi was also supported by rising expectations of tighter monetary policy following a hawkish outlook from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and about 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases.
 
 ---

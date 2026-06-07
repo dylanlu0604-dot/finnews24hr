@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:41:31_
-_本檔包含 4012 則快訊，約 706633 字_
+_更新時間：2026-06-08 03:08:13_
+_本檔包含 4010 則快訊，約 706597 字_
+
+---
+
+### 2026-06-04 10:46:36  #公司 #市場
+
+【半導體矽片概念震盪走高 滬矽產業漲超10%】半導體矽片概念盤中震盪走高，滬矽產業漲超10%，立昂微觸及漲停，西安奕材、TCL中環、民德電子、神工股份漲幅靠前。
+
+---
+
+### 2026-06-04 10:46:01  #公司
+
+【招商蛇口、鄭州國資成立置業公司】企查查APP顯示，近日，鄭州市二七區招中置業有限公司成立，法定代表人為何小剛，註冊資本為1000萬元，經營範圍包含：房地產開發經營；物業管理；土地使用權租賃；非居住房地產租賃；建築材料銷售；住房租賃等。企查查股權穿透顯示，該公司由招商蛇口全資子公司招商局地產（武漢）有限公司、鄭州中交城市更新有限公司共同持股。
+
+---
+
+### 2026-06-04 10:44:17  #市場 #國際
+
+韓國NAVER股價下跌6.2%。
+
+---
+
+### 2026-06-04 10:44:03  #其他
+
+加拿大豐業銀行將CrowdStrike目標股價從475美元上調至805美元。
+
+---
+
+### 2026-06-04 10:43:44  #MKT News #Market Regions #Greater China #002129.SZ #Impact bullish
+
+China A-shares BC battery sector briefly rallied; Xinqi Weizhuang rose more than 10%, with Youyan Powder Materials, Guangxin Materials, Yonghe Intelligent Control, TCL Zhonghuan and Jingsheng Electromechanical also gaining.
+
+---
+
+### 2026-06-04 10:43:41  #公司 #市場
+
+三星物產股價大漲14%。
+
+---
+
+### 2026-06-04 10:43:19  #其他
+
+派珀桑德勒將Crowdstrike目標股價從 520 美元上調至 750 美元。
+
+---
+
+### 2026-06-04 10:42:33  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.586 after three consecutive sessions of losses, as flaring tensions in the Middle East kept investors cautious. Fighting in the region intensified earlier this week, raising fears of wider regional instability and prolonged disruptions to energy flows. However, some relief emerged after Israel and Lebanon had agreed to implement a ceasefire contingent on Hezbollah halting its attacks, while President Donald Trump said talks with Iran were going “very well” and could produce outcomes over the coming weekend, despite denials from Tehran. The kiwi was also supported by rising expectations of tighter monetary policy following a hawkish outlook from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and about 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases.
 
 ---
 
@@ -24098,65 +24146,5 @@ The U.S. military said local time tonight another wave of Iranian drones attempt
 ### 2026-06-03 09:25:52  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #Impact bullish
 
 At the open in A-shares, the Shanghai Composite fell 0.17%, the Shenzhen Composite Index rose 0.36% and the ChiNext rose 0.82%; F5G and copper-cable high-speed connectivity concept stocks led gains.
-
----
-
-### 2026-06-03 09:25:42  #公司
-
-【第十六屆松山湖中國IC創新高峰論壇召開 已推介量產晶片119款】6月3日，第十六屆松山湖中國IC創新高峰論壇在東莞松山湖召開。中國半導體行業協會IC設計分會副理事長，芯原股份董事長、執行長、總裁戴偉民介紹，論壇每年推介約10款國產晶片，共推介了93家公司，會後上市率達到20.4%，7家上市在程序中。另據統計，論壇累計推介晶片129款，量產晶片119款，總量產率92.2%。
-
----
-
-### 2026-06-03 09:25:17  #焦點
-
-三大股指開盤漲跌不一，滬指跌0.17％，深成指漲0.36％，創業板漲0.82％。
-
----
-
-### 2026-06-03 09:23:26  #市場 #國際
-
-【超越美債，黃金成全球官方儲備第一大資產來源】歐洲中央銀行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，超越美國國債，成為全球官方儲備第一大資產。報告指出，美國國債在全球官方儲備資產中佔比降至22%，其他以美元計價的儲備資產佔比為20%，歐元儲備資產佔比為15%。報告認為，黃金儲備佔比的大幅提升首先歸因於估值效應。得益於國際金價在2024、2025年連續井噴式上漲，黃金資產價值水漲船高，從而在全球官方儲備中取得更大份額。（新華社）
-
----
-
-### 2026-06-03 09:22:16  #央行 #中國央行
-
-【央行公開市場今日淨回籠1776億元】央行公告，根據公開市場業務一級交易商的需求，2026年6月3日7天期逆回購操作量為零。因今日有1776億元7天期逆回購到期，實現淨回籠1776億元。
-
----
-
-### 2026-06-03 09:22:07  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，今日7天期逆回購操作量為零。
-
----
-
-### 2026-06-03 09:22:05  #MKT News #Important #Market Regions #Greater China #CNH
-
-PBOC said, based on primary dealers' demand in open-market operations, today's 7-day reverse repo amount was zero.
-
----
-
-### 2026-06-03 09:21:49  #MKT News
-
-【India seeks to buy 114 French Rafale fighters】India has submitted a letter of intent to France to purchase 114 Rafale fighters, Indian defence-sector sources said. France is expected to respond in 2-3 months and both sides aim to complete negotiations next year. Including earlier intentions, the purchase would raise India’s Rafale fleet to 176 aircraft, making it the largest Rafale operator outside France.
-
----
-
-### 2026-06-03 09:21:45  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #HSCEI
-
-Hong Kong's Hang Seng Index (HSI) opened down 85.31 points (-0.33%) at 25,953.01; Hang Seng Tech Index opened down 36.47 points (-0.70%) at 5,162.81; Hang Seng China Enterprises Index (HSCEI) opened down 39.36 points (-0.45%) at 8,723.61; Red Chip Index opened down 3.27 points (-0.07%) at 4,465.10.
-
----
-
-### 2026-06-03 09:21:33  #焦點
-
-港股恒指低開跌0.33％，國企指數跌0.45％，恒生科技指數開跌0.7%。
-
----
-
-### 2026-06-03 09:21:17  #MKT News #Important #Market Regions #Greater China #00992.HK #Impact bearish #Hang Seng Index
-
-Hong Kong stocks opened lower: HSI -0.33%, Hang Seng Tech Index -0.70%; Lenovo Group (00992.HK) -7.83% at the open.
 
 ---
