@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-08 01:17:59",
-  "count": 18978,
+  "updated": "2026-06-08 01:21:51",
+  "count": 18974,
   "items": [
+    {
+      "id": "mkt:019ea31a-59a5-7ee0-86d1-38dac06f12f8",
+      "time": "2026-06-08 01:21:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Migrant boat capsizes off Malta, at least 10 dead】Italian media reported on the 7th that a migrant boat carrying about 60 people capsized in waters off Malta, killing at least 10. Search-and-rescue operations are ongoing under Maltese coordination."
+    },
     {
       "id": "4922115",
       "time": "2026-06-08 01:16:24",
@@ -175011,48 +175019,6 @@
         "MKT News"
       ],
       "text": "Iran's foreign minister said speculation should not be given weight."
-    },
-    {
-      "id": "4909012",
-      "time": "2026-06-01 01:20:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長：我們不應理會市場投機傳言。"
-    },
-    {
-      "id": "mkt:019e7f0d-4b97-700f-a37f-d14194802638",
-      "time": "2026-06-01 01:20:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign minister said negotiations cannot be judged until a clear outcome is reached."
-    },
-    {
-      "id": "mkt:019e7f0d-03e1-700f-a37f-c9b251b1832f",
-      "time": "2026-06-01 01:20:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said talks and information exchanges with the United States are ongoing."
-    },
-    {
-      "id": "4909011",
-      "time": "2026-06-01 01:20:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長對官方媒體表示：在取得明確結果之前，我們無法對談判作出評判。"
-    },
-    {
-      "id": "4909010",
-      "time": "2026-06-01 01:20:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長對官方媒體表示：伊朗與美國仍在進行談判和資訊交換。"
     }
   ]
 }
