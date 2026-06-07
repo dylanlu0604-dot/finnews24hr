@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-07 09:38:40",
+  "updated": "2026-06-07 09:42:35",
   "count": 18885,
   "items": [
+    {
+      "id": "4921585",
+      "time": "2026-06-07 09:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯社訊息：俄亥俄州一節日活動現場附近發生槍擊案，至少 12 人受傷。"
+    },
+    {
+      "id": "4921583",
+      "time": "2026-06-07 09:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南楚雄一工地住房起火致3死2傷，當地政府部門正調查處理】記者獲悉，雲南楚雄州武定縣高橋鎮在5月30日晚上發生一起火災，事故造成3人死亡2人受傷，當地政府正在調查處理此事。（極目新聞）"
+    },
+    {
+      "id": "4921582",
+      "time": "2026-06-07 09:38:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國汽修人才缺口大 多方斥資培養技術工人】福特執行長吉姆・法利表示，幾年前用工荒問題更為嚴峻，但目前的人員缺口依舊巨大，企業必須儘快補齊。技術人員短缺推高了人力成本，還導致車輛維修工期延長。他在採訪中稱：“消費者正在為此承受不便。” 包括福特在內的大型企業以及各類慈善機構正紛紛推出專案，鼓勵更多美國人投身技術工種。僅今年新推出的相關舉措，投入資金總額就已達約4億美元。 彭博慈善基金會將於下週啟動一項耗資9000萬美元的新專案，重點幫助更多高中生進入技術行業就業。該機構與福特在底特律展開合作，雙方各出資250萬美元，部分資金用於為高中生新建汽車維修工位。 該專案計劃在未來三年內培養300名汽車維修技師，這些學生高中畢業後可直接入職福特旗下經銷商，為行業補充青年勞動力。"
+    },
     {
       "id": "4921581",
       "time": "2026-06-07 09:37:13",
@@ -174136,34 +174161,6 @@
         "MKT News"
       ],
       "text": "【Yellow wave alert: southeastern East China Sea to see 4-7m waves】China's Ministry of Natural Resources said the National Marine Forecasting Center on May 31 issued a yellow wave alert. The Central Meteorological Observatory forecasts Typhoon Rose, the season's sixth system, will drive giant-to-violent waves in the eastern East China Sea over the next two days; the southeastern sector is expected to see 4-7m waves by the morning of June 1. Nearshore areas carry a yellow wave warning; vessels and coastal operators are advised to take protective and avoidance measures."
-    },
-    {
-      "id": "4908540",
-      "time": "2026-05-31 09:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【被從肯尼迪中心“除名” 特朗普表示“震驚” 】在法官29日裁定將美國總統特朗普的名字從肯尼迪表演藝術中心移除後，特朗普在社交媒體發帖表示“震驚”，並暗示這一裁決帶有政治動機。特朗普在帖文中稱，自己是美國歷史上受法院“不公平對待”程度最嚴重的總統，民主黨人“更關心怎麼反對我”而不是“拯救一座瀕臨死亡的”藝術中心。他還說，除非他獲得能讓這座中心在設施、財務和藝術方面“起死回生的自由”，否則不會再繼續一場“毫無希望的旅程”。（新華社）"
-    },
-    {
-      "id": "4908539",
-      "time": "2026-05-31 09:40:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海浪黃色警報 東海東南部將出現4到7米的巨浪到狂浪區】記者從自然資源部瞭解到，今天（31日），國家海洋預報臺釋出海浪黃色警報。據中央氣象臺預報，受今年第6號颱風“薔薇”（颱風級）的影響，未來兩天東海東部海域將出現巨浪以上過程。預計6月1日上午，東海東南部將出現4到7米的巨浪到狂浪區，近海海域海浪預警級別為黃色。提醒上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）"
-    },
-    {
-      "id": "te:economy:555075",
-      "time": "2026-05-31 09:40:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Business Confidence",
-        "Importance 2"
-      ],
-      "text": "China Manufacturing Stagnates — China’s official NBS Manufacturing PMI edged down to 50.0 in May 2026 from 50.3 in April, matching market expectations. The latest reading suggested manufacturers continued to face headwinds from soft domestic demand and higher production costs. Output growth eased to a three-month low (51.2 vs 51.5 in April), while new orders shrank after expanding in the prior two months (49.9 vs 50.6). Also, foreign orders dropped after a modest increase previously (48.6 vs 50.3). Employment remained subdued (48.6 vs 48.8), and purchasing activity contracted for the first time in three months (49.8 vs 51.1). Supplier delivery times improved slightly (49.2 vs 49.5). On the price front, input cost inflation moderated but remained elevated (60.5 vs 63.7), while output price growth softened to its weakest pace in three months (51.9 vs 55.1). Finally, business sentiment stayed positive, though it eased slightly from April's level (53.9 vs 54.5)."
     }
   ]
 }
