@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-07 12:09:27",
+  "updated": "2026-06-07 12:13:22",
   "count": 18925,
   "items": [
+    {
+      "id": "4921664",
+      "time": "2026-06-07 12:11:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：斐濟群島南部發生5.4級地震。"
+    },
+    {
+      "id": "mkt:019ea045-7037-7665-8316-65649bec9e2f",
+      "time": "2026-06-07 12:09:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【OpenAI plans major ChatGPT upgrade to boost revenue】Financial Times reports OpenAI, valued at about $850 billion, is preparing the largest upgrade to ChatGPT since launch, aiming to find a new growth engine ahead of a planned listing this year. The company intends to transform ChatGPT into a \"super app\" by integrating programming tools and AI agents and rolling out multiple higher-revenue products, sources said. The moves are part of a broader restructuring to reallocate resources toward winning high-margin enterprise customers and to step up competition with ANTHROPIC. OpenAI plans to elevate CODEX and boost investment in programming products, reflecting an internal view that AI’s future lies in task-executing agents rather than Q&A chatbots."
+    },
     {
       "id": "4921663",
       "time": "2026-06-07 12:08:20",
@@ -174499,22 +174516,6 @@
         "國際"
       ],
       "text": "【以軍突進遭報復黎以衝突再升級】當地時間5月30日，黎以局勢急劇惡化。在此前一天黎以軍事談判無果、以方拒絕撤軍的背景下，以軍30日持續擴大對黎巴嫩全境軍事攻勢，黎真主黨隨即展開大規模反擊，以色列本土守備司令部30日晚宣佈收緊以北部地區的民防政策，以應對來自黎真主黨的火箭彈和無人機襲擊。據總檯記者觀察，黎以雙方博弈陷入談判停滯、戰火升級的惡性迴圈，地區衝突風險持續走高。以媒體認為，30日的局勢演變表明，以色列已不再掩飾其真實意圖，即談判桌上不妥協，戰場上不停手。不過其本土安全為此付出的代價也在日益加重。（CCTV國際時訊）"
-    },
-    {
-      "id": "4908589",
-      "time": "2026-05-31 12:12:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：斐濟群島南部發生5.0級地震。"
-    },
-    {
-      "id": "4908588",
-      "time": "2026-05-31 12:10:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【崔東樹：2026年1-4月鋰電池行業整體呈現“總量高增、結構劇變”的格局】崔東樹發文稱，2026年1-4月鋰電池行業整體呈現“總量高增、結構劇變”的格局，全口徑總需求達67120萬度，同比大幅增長51%。行業增長動力已從傳統新能源車單一驅動，轉向儲能與出口雙輪驅動：新能源車相關需求合計49430萬度，同比增長41%，增速較往年放緩；而儲能等需求累計17690萬度，同比大增90%，成為拉動行業增長的核心引擎，4月單月增速更是高達196%。從結構佔比看，新能源車需求佔比從2025年的83%降至74%，儲能需求佔比則從17%提升至26%，行業增長邏輯已發生根本性轉變。"
     }
   ]
 }
