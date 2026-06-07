@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-08 02:15:09",
-  "count": 19006,
+  "updated": "2026-06-08 02:18:55",
+  "count": 19004,
   "items": [
+    {
+      "id": "mkt:019ea34e-2105-7ee0-86d1-f392782c7d69",
+      "time": "2026-06-08 02:17:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's Channel 12 reported a U.S. security official said the United States has prepared defensive measures to respond to potential attacks by Iran."
+    },
+    {
+      "id": "mkt:019ea34d-7c99-7ee0-86d1-e90a13241d07",
+      "time": "2026-06-08 02:17:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Saudi state television reports Pakistan’s army chief urged Iran to seize the current opportunity to reach an agreement."
+    },
+    {
+      "id": "mkt:019ea34d-6847-7ee0-86d1-e5060f91e14b",
+      "time": "2026-06-08 02:16:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Saudi state TV, Pakistan's interior minister warned Tehran not to escalate tensions on maritime shipping lanes."
+    },
+    {
+      "id": "4922145",
+      "time": "2026-06-08 02:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬耳他附近偷渡船傾覆致10人遇難 48人獲救】據義大利《西西里報》7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成10人死亡、至少2人失蹤。報道說，事故發生在馬耳他島以東約45海里（約83.3公里）的海域。這艘偷渡船從利比亞海岸出發。尚不清楚事故發生具體時間。（新華社）"
+    },
     {
       "id": "4922144",
       "time": "2026-06-08 02:13:20",
@@ -175236,62 +175276,6 @@
         "觀點"
       ],
       "text": "摩根大通執行長戴蒙：隨著通脹與地緣政治風險加劇，市場正變得脆弱。"
-    },
-    {
-      "id": "mkt:019e7f42-69d0-700f-a380-04f5d2b55645",
-      "time": "2026-06-01 02:18:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Qatar's foreign ministry urged the international community to compel Israel to halt its aggression against Lebanon."
-    },
-    {
-      "id": "4909029",
-      "time": "2026-06-01 02:18:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：我們呼籲國際社會迫使以色列停止對黎巴嫩的侵略。"
-    },
-    {
-      "id": "mkt:019e7f42-2841-700f-a37f-fbe35bea7d94",
-      "time": "2026-06-01 02:18:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Qatar's foreign ministry condemned Israel's continued attacks on Lebanon and the expansion of its ground invasion into southern Lebanon."
-    },
-    {
-      "id": "4909028",
-      "time": "2026-06-01 02:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們認為俄羅斯可能在今晚或明晚使用無人機、巡航導彈和彈道導彈發動大規模襲擊。"
-    },
-    {
-      "id": "4909027",
-      "time": "2026-06-01 02:17:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達國譴責以色列對黎巴嫩的持續侵略行為，以及對其南部地面的擴大性入侵。"
-    },
-    {
-      "id": "4909026",
-      "time": "2026-06-01 02:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達國務部長與黎巴嫩副總理通電話。"
     }
   ]
 }
