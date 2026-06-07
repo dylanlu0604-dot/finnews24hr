@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-07 21:50:25",
-  "count": 18989,
+  "updated": "2026-06-07 21:54:25",
+  "count": 18991,
   "items": [
+    {
+      "id": "4922023",
+      "time": "2026-06-07 21:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加沙的談判代表要求哈馬斯將其武器交給加沙政府委員會。"
+    },
+    {
+      "id": "mkt:019ea25b-efc5-7ee0-86d0-23f9df3fc73b",
+      "time": "2026-06-07 21:53:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath cites sources saying Hamas-Israel talks in Cairo have stalled over Israeli conditions."
+    },
+    {
+      "id": "4922022",
+      "time": "2026-06-07 21:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨：我們使用地對空導彈在納巴季耶上空攔截了一架以色列戰機。"
+    },
+    {
+      "id": "4922021",
+      "time": "2026-06-07 21:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：以軍襲擊了真主黨位於貝魯特南部郊區的一處總部。"
+    },
+    {
+      "id": "mkt:019ea259-be0d-7ee0-86d0-1b071bf24da9",
+      "time": "2026-06-07 21:50:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli cabinet approves Shmuel Ben‑Ezra as national security adviser】The Prime Minister's Office said on the 7th (local time) the cabinet unanimously approved Prime Minister Netanyahu’s appointment of Shmuel Ben‑Ezra as national security adviser and chair of the National Security Council. Netanyahu announced the nomination last week. Ben‑Ezra previously led development of the Arrow‑3 missile defence system and served as head of operations, technology and cyber at the Shin Bet."
+    },
+    {
+      "id": "4922020",
+      "time": "2026-06-07 21:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：訊息人士稱，安全部門無法確認達希耶郊區的目標總部目前是否有人駐守。"
+    },
     {
       "id": "4922019",
       "time": "2026-06-07 21:49:18",
@@ -175102,38 +175154,6 @@
         "國際"
       ],
       "text": "伊朗議員科薩里：核問題已退出談判議程，雙方尚未達成最終協議。"
-    },
-    {
-      "id": "mkt:019e7e4f-cc9a-700f-a37e-5e73ca5c6613",
-      "time": "2026-05-31 21:53:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine denies strike on ZAPORIZHZHIA NUCLEAR PLANT transport workshop】Ukraine's southern defence forces formally rejected Russian allegations, denying Ukrainian troops struck the ZAPORIZHZHIA NUCLEAR PLANT transport workshop and calling the claims baseless."
-    },
-    {
-      "id": "4908913",
-      "time": "2026-05-31 21:53:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家媒體報道：伊朗革命衛隊打擊伊拉克北部“分離主義團體”據點。"
-    },
-    {
-      "id": "4908912",
-      "time": "2026-05-31 21:53:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏方否認襲擊扎波羅熱核電站】當地時間31日，烏克蘭南部國防部隊正式駁斥俄方相關指控，否認烏軍襲擊扎波羅熱核電站運輸車間，稱俄方說法為毫無依據的假訊息。據悉，俄方此前指責烏克蘭國防部隊對扎波羅熱核電站運輸車間發起打擊，並稱襲擊導致核電站區域內數輛公交車及汽車被燒燬。針對俄方指控，烏南部國防部隊予以否認，強調烏克蘭國防力量絕不會打擊核能設施、製造核安全威脅。（央視新聞）"
-    },
-    {
-      "id": "4908911",
-      "time": "2026-05-31 21:51:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列極右翼部長叫囂：要將黎巴嫩南部一地夷為平地】據以色列國家新聞網當地時間5月30日報道，以色列國家安全部長、極右翼政治人士本-格維爾當天訪問以色列-黎巴嫩北部邊境城鎮什圖拉時表態，稱反對之前的停火協議，呼籲將黎巴嫩貝魯特南部的達希耶夷為平地。（澎湃）"
     }
   ]
 }
