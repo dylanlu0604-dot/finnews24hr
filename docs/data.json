@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-08 04:22:13",
-  "count": 19080,
+  "updated": "2026-06-08 04:26:08",
+  "count": 19079,
   "items": [
+    {
+      "id": "mkt:019ea3c1-d5f6-7ee0-86d3-42b02da9deda",
+      "time": "2026-06-08 04:24:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's Transport Ministry said despite Iran launching ballistic missiles into northern Israel, Israeli airspace remains open. The transport minister is assessing the situation with specialists."
+    },
+    {
+      "id": "4922232",
+      "time": "2026-06-08 04:21:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及以伊衝突：雙方都做出了過激舉動。"
+    },
     {
       "id": "4922231",
       "time": "2026-06-08 04:21:24",
@@ -175976,34 +175997,6 @@
         "MKT News"
       ],
       "text": "Northern Israel issues drone intrusion alert."
-    },
-    {
-      "id": "4909066",
-      "time": "2026-06-01 04:25:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊官員稱伊朗不會對美退讓妥協】當地時間5月31日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊表示，伊朗無意向美國退讓或妥協，也絕不會把自己置於弱勢地位。（央視）"
-    },
-    {
-      "id": "mkt:019e7fb6-096b-700f-a380-836fcda59cd3",
-      "time": "2026-06-01 04:24:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran military adviser says Tehran will not yield to US】On May 31 local time, Mohsen Rezaee, military adviser to Iran's Supreme Leader, said Iran has no intention of yielding or compromising with the US and will not place itself in a weak position."
-    },
-    {
-      "id": "mkt:019e7fb5-b2d4-700f-a380-7d51ae2a6d13",
-      "time": "2026-06-01 04:24:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. media says Trump administration lost many lawyers; Trump says that's a good thing】President Trump responded to a New York Times report on a large loss of legal staff, saying the departures are positive. He called the departures evidence of a purge of “radical left” “deep state” figures who he accused of weaponizing agencies and harming the country, said many were fired rather than resigning, accused the paper of exaggeration, and urged staffing with people committed to “Make America Great Again” rather than Obama- or Biden-era appointees."
     }
   ]
 }
