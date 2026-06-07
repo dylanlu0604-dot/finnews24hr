@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-08 01:56:08",
+  "updated": "2026-06-08 02:00:00",
   "count": 18991,
   "items": [
+    {
+      "id": "4922136",
+      "time": "2026-06-08 01:56:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗航空IRA1686航班已降落在戈爾甘機場。"
+    },
+    {
+      "id": "4922135",
+      "time": "2026-06-08 01:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月08日01時36分在不丹（北緯27.33度，東經89.90度）發生5.2級地震，震源深度10千米。"
+    },
+    {
+      "id": "4922134",
+      "time": "2026-06-08 01:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圓夢大滿貫 茲維列夫奪法網男單冠軍】2026年法網男單決賽，茲維列夫以3-2擊敗科博利，奪得本屆法網男單冠軍，這也是他生涯首座大滿貫冠軍。（央視新聞）"
+    },
     {
       "id": "4922133",
       "time": "2026-06-08 01:53:59",
@@ -175136,32 +175161,6 @@
         "XAUUSD"
       ],
       "text": "【Iran missile strike on US Kuwait base lightly wounds seven; all returned to duty】A US official said on May 31 local time that Iran launched a ballistic missile attack last week on a US air base in Kuwait, lightly wounding four US service members and three contractors; all seven returned to duty within 24 hours."
-    },
-    {
-      "id": "4909024",
-      "time": "2026-06-01 01:59:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗總統已向最高領袖辦公室提交辭職請求】知情人士透露，伊朗總統佩澤希齊揚已透過正式信函向最高領袖辦公室提交辭職請求。佩澤希齊揚稱，總統和政府實際上已被排除在國家重大和關鍵的決策過程之外，這種情況造成的權力真空使得伊朗革命衛隊內部的強硬派系得以控制局勢。在這種情況下，他無法管理政府並履行其法律職責，因此他已要求立即辭職。"
-    },
-    {
-      "id": "mkt:019e7f30-1372-700f-a37f-e86ef0524bda",
-      "time": "2026-06-01 01:58:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iranian President PEZESHKIAN submits resignation request to Supreme Leader's office】London-based Iran International TV, citing a source, reported President PEZESHKIAN has submitted a formal resignation request to the Supreme Leader's office. In a letter sent Sunday he said the presidency and government have been excluded from major state decision-making, creating a power vacuum that has allowed hardliners within the Islamic Revolutionary Guard Corps (IRGC) to seize control. He said he cannot manage the government or fulfill his legal duties under these conditions and has asked to resign immediately."
-    },
-    {
-      "id": "4909023",
-      "time": "2026-06-01 01:58:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基力求入冬前推動和談取得進展】烏克蘭總統澤連斯基在週日播出的採訪中表示，鑑於基輔方面當前戰略處境有所改善，希望在冬季來臨前推進俄烏和平談判。由美國斡旋的和平協議相關談判目前已陷入停滯，美方近期將重心轉向伊朗局勢。澤連斯基及烏克蘭其他官員稱，俄軍地面攻勢已然放緩，而烏克蘭則加大了對俄境內的中遠端打擊力度，打擊目標主要集中在俄羅斯石油產業。"
     }
   ]
 }
