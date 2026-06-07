@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 07:06:09_
-_本檔包含 3948 則快訊，約 708349 字_
+_更新時間：2026-06-08 07:33:00_
+_本檔包含 3930 則快訊，約 709751 字_
+
+---
+
+### 2026-06-04 11:59:34  #宏觀 #市場 #國際
+
+【亞洲股市多數走低 印尼股市大跌5% 印尼盧比兌美元跌破18,000】印尼股市週四大跌5%，跌至逾五年低點，而盧比匯率則跌破18,000關口，受累於貿易順差縮減、多項國內問題以及油價推高的通脹擔憂等多重因素。盧比兌美元下跌0.5%，至18,030的歷史低點，今年迄今已累計貶值逾7.5%，超越印度盧比，成為表現最差的亞幣。印尼雅加達綜合指數跌至2020年12月以來的最低點，過去兩個交易日累計跌幅近10%。“近期走勢反映了政策調整，而一系列疲軟的經濟資料加劇了這種調整，”華僑銀行東盟高階經濟學家 文卡特斯瓦蘭（Lavanya Venkateswaran）表示。“現在當務之急是當局儘早向民間部門就即將出臺的新政策方向提供明確保證。”新加坡股市從週三創下的歷史收盤高點回落，跌幅超過1%，韓國股市下跌約1.2%，而馬來西亞股市.上漲0.6%。
+
+---
+
+### 2026-06-04 11:58:13  #公司
+
+【靈心巧手投資成立科技公司 含可穿戴智慧裝置製造業務】企查查APP顯示，近日，靈造萬物（北京）科技有限公司成立，法定代表人為袁賀，註冊資本為1000萬元，經營範圍包含：服務消費機器人制造；工業機器人制造；智慧基礎製造裝備製造；可穿戴智慧裝置製造；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由靈心巧手（北京）科技股份有限公司全資持股。
+
+---
+
+### 2026-06-04 11:57:59  #公司
+
+【智微智慧成立智算科技新公司 含多項AI業務】企查查APP顯示，近日，智微智算（深圳）科技有限公司成立，經營範圍包含：人工智慧基礎資源與技術平臺；人工智慧基礎軟體開發；人工智慧公共資料平臺；人工智慧硬體銷售；數字技術服務等。企查查股權穿透顯示，該公司由智微智慧全資持股。
+
+---
+
+### 2026-06-04 11:57:21  #公司
+
+【位元組跳動申請註冊PBTI商標】天眼查智慧財產權資訊顯示，近日，北京字跳網路技術有限公司申請註冊多枚“PBTI”商標，國際分類包括教育娛樂、網站服務等，當前商標狀態均為等待實質審查。該公司成立於2018年10月，法定代表人為水恆熠，註冊資本1億美元，經營範圍包括設計、製作、代理、釋出廣告等，由抖音集團（香港）有限公司全資持股。
+
+---
+
+### 2026-06-04 11:56:24  #其他
+
+【中廣核單機容量最大的風電機組完成吊裝】近日，中廣核廣東陽江帆石二100萬千瓦海上風電專案首臺18兆瓦超大型海上風機順利完成吊裝。該專案建成後，將實現我國18兆瓦級海上風機的規模化應用，有力推動國內海上風電產業向大容量、高效率、低成本的高質量發展新階段加速邁進。此次吊裝的18兆瓦超大型海上風機，是中廣核在建及在運專案中單機容量最大的風電機組。
+
+---
+
+### 2026-06-04 11:54:44  #公司
+
+【Meta一再推遲面向開發者的新AI模型釋出】據媒體援引知情人士的話報道，Meta 已多次推遲向開發者釋出其新款Muse Spark AI模型API的計劃，截至週二，該API仍無確定的釋出日期。Meta一位發言人週三表示，該公司已與部分早期合作伙伴開始測試API，並期待本月釋出該API。API是一種軟體介面，用於確定兩個軟體系統之間的互動方式。Meta人工智慧負責人亞歷山大·王（Alexandr Wang）4月在X平臺的一篇帖子中宣佈：“muse spark API即將推出。”Meta於4月推出了Muse Spark，這是該公司為縮小與競爭對手差距而打造的首個模型。Muse Spark是該公司超級智慧實驗室（Superintelligence Labs）建立的新系列模型中的首個。本週三早些時候，Meta釋出了一款旨在協助企業開展日常運營的人工智慧代理，這暗示了該公司與 OpenAI、Anthropic 以及 Alphabet 旗下的 GOOGL.O Google 等競爭對手一較高下的雄心。
+
+---
+
+### 2026-06-04 11:53:56  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 0
+
+Brazil Bond Yields Climb on Hawkish BCB Expectations — The yield on Brazil’s 10-year government bond rose to 14.5% in early June as markets revised upward their projections for the Selic rate, reinforcing expectations that the easing cycle may end sooner than previously anticipated. Banks and asset managers increasingly expect the policy rate to settle closer to 14%, reflecting persistent inflation, stronger domestic stimulus, and external pressures. Investors believe the central bank has less room to continue cutting interest rates. Abroad, geopolitical tensions, oil price volatility, and global rate dynamics have heightened caution. The prospect of higher US trade barriers toward Brazil also weighed on sentiment. Meanwhile, renewed hostilities in the Middle East lifted oil prices and risk aversion. At home, measures to boost credit, income, and consumption are expected to support demand and add liquidity to the economy, reinforcing inflation concerns.
+
+---
+
+### 2026-06-04 11:52:46  #公司
+
+【國機精工：金剛石民用散熱領域各技術路線產品均處於下游客戶驗證階段】國機精工(002046)6月3日在機構調研時表示，公司金剛石功能化應用正重點拓展散熱領域，已形成覆蓋金剛石單晶、金剛石多晶及金剛石銅複合材料的產品矩陣。產業化進展方面，CVD金剛石產品（含單晶與多晶）已進入行業頭部客戶的驗證階段；金剛石銅複合材料已向重點客戶送樣驗證。在民用散熱領域，各技術路線產品目前均處於下游客戶驗證階段，如果進展順利，年內有望有小批次訂單的商業化落地。
+
+---
+
+### 2026-06-04 11:52:07  #其他
+
+【第二屆全國民政行業職業技能大賽決賽將於10月舉辦 】記者6月4日從民政部獲悉，今年將舉辦第二屆全國民政行業職業技能大賽，擬於8月底前組織完成省級及以下選拔賽，10月中下旬在河南省鄭州市舉辦全國決賽。大賽考核分為理論知識和操作技能兩大模組，全面檢驗參賽選手專業素養和實操能力。參賽人員須為中華人民共和國公民、累計從事相關工作滿2年及以上的在職職工。據介紹，全國民政行業職業技能大賽每兩年舉行一次，是民政領域規格最高的國家級一類職業技能競賽，由民政部、人力資源社會保障部、全國總工會聯合舉辦。
+
+---
+
+### 2026-06-04 11:51:48  #公司
+
+【ETF管理巨頭排行更迭】Wind統計顯示，截至6月3日晚間，易方達基金公司ETF規模為約6185.2億元，超過華夏基金公司約6166.13億元的ETF規模，成為了這一型別下的規模頭名。考慮到兩者資料相當接近，中長期誰能執ETF行業牛耳尚待觀察。（資事堂）
+
+---
+
+### 2026-06-04 11:51:38  #宏觀 #公司 #國際
+
+【美財長承認曾與美代理國家情報總監發生爭吵：我說過要“揍他一頓”】據美國哥倫比亞廣播公司(CBS)、《新聞週刊》等媒體報道，針對有關美國政府內部關係緊張的報道，美國財政部長貝森特當地時間3日在國會一場聽證會上承認，他與美國總統特朗普近日任命的代理國家情報總監普爾特於去年發生過爭吵，並說過要“揍他一頓”。特朗普6月2日在社交媒體上發文說，任命美國聯邦住房金融署署長普爾特為代理國家情報總監。美媒報道說，普爾特是特朗普的“忠實擁護者”，但他並不是在敏感情報和國家安全事務方面經驗豐富的人選。
+
+---
+
+### 2026-06-04 11:51:13  #公司
+
+【國機精工：未來重點推進金剛石散熱商業化落地等】關於未來展望，國機精工(002046)6月3日在機構調研時表示，超硬材料業務板塊正迎來半導體行業發展的歷史性機遇，隨著國內晶圓廠持續擴產及先進製程迭代，劃片刀、封裝刀、陶瓷載盤等關鍵耗材需求放量。公司依託超硬材料磨具國家重點實驗室技術積澱，已實現倒邊輪減薄磨砂輪、劃片刀、封裝刀及陶瓷載盤/卡盤等高階產品批次供貨，打破日系廠商壟斷。金剛石功能化應用加速突破，以2025年千萬級收入為起點，重點推進金剛石散熱商業化落地、光學級金剛石大尺寸製備及應用，以及第四代半導體材料研發，持續打造國家戰略科技力量。軸承領域著力提升航天軸承的產能和智慧化轉型，滿足配套商業航天重點主機需求。
+
+---
+
+### 2026-06-04 11:51:06  #MKT News
+
+Boyingte Welding said its Vietnam production base delivered its first HRSG unit on May 30, 2026; four production lines in Phase II remain under construction.
+
+---
+
+### 2026-06-04 11:51:03  #公司 #國際
+
+【澳大利亞總理：美國關稅措施“毫無依據”】澳大利亞總理阿爾巴尼斯4日表示，任何針對澳大利亞輸美產品的關稅措施都是“毫無依據的”，澳美雙方在貿易問題上存在“意識形態分歧”。 美國貿易代表辦公室2日釋出公告稱，美國貿易代表計劃以“未禁止進口強迫勞動產品”為由，對包括澳大利亞在內的60個經濟體加徵10%或12.5%的關稅。阿爾巴尼斯4日表示，美國政府的關稅政策背離了長期以來的共識，即關稅不會給徵稅國帶來益處。 澳大利亞國庫部長吉姆·查默斯當天也表示，美方擬議中的關稅措施缺乏正當依據，並且與澳美自由貿易協定精神不符。
+
+---
+
+### 2026-06-04 11:50:12  #MKT News #Market Regions #Emerging Markets
+
+【Indonesia expands central bank mandate to include real-sector expansion】Parliament on Thursday passed revisions to an omnibus financial law that add promotion of real‑sector expansion to Bank Indonesia’s objectives, widening its remit beyond monetary stability and economic growth. The text does not make clear whether employment creation is formally added to the bank’s duties. Finance Minister Purbaya told lawmakers the change is intended to strengthen Bank Indonesia’s role in deploying a policy mix to foster an environment conducive to real‑sector growth and job creation.
+
+---
+
+### 2026-06-04 11:49:51  #市場
+
+【6月4日午間漲停分析】創業板指半日跌超1%，半導體晶片產業鏈逆勢走強。天洋新材、紅星發展、大有能源均4連板，鑫科材料3連板，一圖看懂>>
+
+---
+
+### 2026-06-04 11:48:19  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
+
+【MIIT: Jan–Apr above-designated-size electronic information manufacturing revenue 5.88 trillion yuan, up 15.7% YoY】China's Ministry of Industry and Information Technology said Jan–Apr revenue for enterprises above designated size in the electronic information manufacturing sector was 5.88 trillion yuan, up 15.7% YoY; operating costs were 5.03 trillion yuan, up 12.7% YoY; total profit was 316.5 billion yuan, up 108% YoY. April revenue was 1.57 trillion yuan, up 18.3% YoY. Fixed-asset investment in the sector rose 5.4% YoY in Jan–Apr, unchanged from Q1 and 2.9 percentage points above the pace of overall industrial investment.
+
+---
+
+### 2026-06-04 11:48:17  #Trading Economics #Markets #India #Currency #Importance 1
+
+Rupee Extends Losses on Outflows — The Indian rupee edged lower to around 95.7 per dollar, extending losses as sustained foreign capital outflows and broader weakness across Asian markets dampened investor sentiment. Pressure on the currency intensified after foreign investors offloaded nearly $600 million in Indian equities on Wednesday, following approximately $3 billion in net sales over the preceding three sessions. Renewed US-Iran tensions further weighed on risk appetite, while conflicting signals on potential de-escalation kept markets on edge. Some support for the rupee could come from efforts to attract overseas capital, with reports suggesting the government is considering scrapping capital gains tax on foreign portfolio investments in government securities. Investors are also awaiting the Reserve Bank of India's policy decision, where the central bank is widely expected to keep its benchmark interest rate unchanged at 5.25%.
+
+---
+
+### 2026-06-04 11:47:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybean Futures Hit 3-Month Low — Soybean futures slid around $11.5 per bushel, hitting a three-month low as favorable US growing conditions and strong planting progress reinforced expectations of ample supply. Improving weather across key US regions supported crop development, while recent rainfall eased drought concerns in parts of the Plains and reduced earlier planting-delay worries in the Midwest. USDA also reported planting at 87% complete as of late May, ahead of the five-year average, with emergence above normal at 65%, signaling a well-advanced developing crop. Meanwhile, crop condition ratings came in slightly below expectations at 66% good-to-excellent, reflecting mixed regional performance. Export outlook remains weak, with US soybean shipments expected to decline about 344 million from fiscal 2025 as China continues to be a key but inconsistent buyer. However, China has reportedly begun placing new orders for the 2026 crop and is expected to fulfill its commitment to purchase around 25 million metric tons.
+
+---
+
+### 2026-06-04 11:47:08  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 0
+
+Canada's Bond Yields Advance Amid US-Iran Tensions — Canada's 10-year government bond yield rose to 3.43% in early June as escalating trade tensions and renewed conflict in the Middle East increased inflation concerns. Tensions in the Gulf intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. Oil prices remained above $95 per barrel, fueling worries about energy-driven inflation and supporting higher bond yields. Meanwhile, the Bank of Canada is widely expected to leave interest rates unchanged at next week's meeting and avoid signaling a clear tightening bias. Weak domestic demand and a slowing economy continue to limit underlying inflation pressures, reinforcing expectations of a neutral policy stance.
+
+---
+
+### 2026-06-04 11:47:02  #MKT News
+
+India's Nifty IT index fell 1.3%.
+
+---
+
+### 2026-06-04 11:46:43  #Trading Economics #Markets #other #currency #Importance 2
+
+Bitcoin Extends Slide — Bitcoin extended its decline to as low as $61,000 in early June, its weakest level since before the Iran conflict escalated in late February, before trimming losses to around $64,000. The token has dropped about 16% since Strategy Inc. sold roughly $2.5 million of its large Bitcoin holdings. The firm is one of the biggest corporate Bitcoin holders and is widely seen as a proxy for the cryptocurrency under its digital asset treasury model, making the sale particularly sensitive for investors, even though Saylor had previously suggested selling could be an option. Sentiment was further weighed by lingering geopolitical tensions in the Middle East, as US-Iran negotiations remain unresolved. The selloff also highlighted Bitcoin’s divergence from tech stocks, which were hitting record highs. Bitcoin is now down more than 50% from its peak above $126,000 last October. US-listed Bitcoin ETFs have also seen nearly $4 billion in outflows over 12 consecutive sessions, marking a record streak.
+
+---
+
+### 2026-06-04 11:46:03  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+【MIIT: Jan‑Apr 2026 export delivery value of large‑scale electronic information manufacturing up 5.4% YoY】Jan‑Apr 2026 export delivery value for large‑scale electronic information manufacturing rose 5.4% YoY, 1.2 percentage points higher than Q1. April alone rose 8.8% YoY. Customs data show Jan‑Apr exports: televisions 34.64 mln units (+3.9% YoY); mobile phones 218 mln units (-2.4%); integrated circuits 117 bln units (+10.6%).
+
+---
+
+### 2026-06-04 11:46:00  #其他
+
+【工信部：1—4月份，規模以上電子資訊製造業累計實現出口交貨值同比增長5.4%】2026年1—4月，規模以上電子資訊製造業累計實現出口交貨值同比增長5.4%，較一季度提高1.2個百分點。4月份，規模以上電子資訊製造業實現出口交貨值同比增長8.8%。據海關統計，1—4月份，我國出口電視機3464萬臺，同比上升3.9%；出口手機2.18億臺，同比下降2.4%；出口積體電路1170億個，同比增長10.6%。（工信微報）
+
+---
+
+### 2026-06-04 11:45:28  #MKT News #CSI300 #Impact bullish #Copper #CNH
+
+【MIIT: Jan–Apr value added of above‑designated‑size electronic information manufacturing up 14% YoY】MIIT said Jan–Apr 2026 value added of above‑designated‑size electronic information manufacturing rose 14% YoY, outpacing overall industrial and high‑tech manufacturing growth by 8.4 and 1.4 percentage points respectively. Production stayed rapid, exports accelerated and industry profitability improved. April value added rose 15.6% YoY. Principal product outputs: handsets 452.0 mln units (+0.3% YoY), including smartphones 390.0 mln (+6.5%); microcomputer equipment 95.43 mln units (-10.0%); integrated circuits 176.97 bln pieces (+24.7%).
 
 ---
 
@@ -23516,263 +23666,5 @@ China Stocks Mixed After PMI Data — The Shanghai Composite slipped 0.2% to 4,0
 ### 2026-06-03 10:19:08  #Trading Economics #Markets #Australia #Currency #Importance 1
 
 Aussie Holds Firm Despite Soft GDP Data — The Australian dollar held above $0.71, trading near three-week highs as markets weighed the country’s latest GDP figures. The economy expanded by just 0.3% in the first quarter, below expectations of 0.5% and slowing from a 0.9% expansion in the previous period. The softer growth reading reinforced signs that higher interest rates are cooling demand, and a key data point policymakers are likely to assess ahead of the Reserve Bank’s June 15–16 meeting to determine whether current settings are sufficiently restrictive to bring inflation back to target. The central bank has already hiked rates three times this year in its effort to contain price pressures. This comes against a backdrop of geopolitical tensions linked to the US–Iran conflict, which have pushed up global energy costs and added to external inflation risks. Markets have largely ruled out another rate hike this month, but remain evenly split for a move in August and are nearly fully pricing a 4.60% peak by year-end.
-
----
-
-### 2026-06-03 10:18:55  #宏觀
-
-【臺胞熱情關注大陸各地“省超” 國臺辦：開放臺胞專屬參賽名額】國務院臺辦舉行例行新聞釋出會。有記者問：近段時間來，大陸各地“省超”如火如荼舉辦，特別是“閩超”推出系列特色對臺活動，引發廣大臺胞熱情關注。請介紹有關情況。發言人朱鳳蓮表示，“閩超”近日創新推出了三大特色對臺系列活動，一是喊您來參賽，開放臺胞專屬參賽名額，每一支參賽隊伍均可新增兩名臺胞球員。二是邀您來觀球，各大賽區主場邀請臺胞赴閩觀球，啟動兩岸球迷同框加油短影片徵集活動，邀請金門馬祖特色啦啦隊同福建啦啦隊同場展演。三是請您來交流，各賽區主動對接臺灣、港澳及海外僑胞球隊，常態化開展友誼交流賽，廈門、平潭等地將舉辦至少一場“閩超”隊伍與臺灣地區城市球隊的專項交流賽。
-
----
-
-### 2026-06-03 10:18:18  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-【PBOC net open-market government bond injections remain low in May】The PBOC released May liquidity operations showing net open-market government bond injections of 50 bln yuan. Dongfang Jincheng chief macro analyst Wang Qing said ample market liquidity and no need for large-scale long-term injections explain the low net operations, reflecting the central bank’s flexible use of open-market tools to guide market rates around the policy rate. Market participants note the PBOC is deploying a wider range of liquidity tools with greater flexibility, maintaining policy direction while switching between a 'withdraw-first-then-release' rhythm and 'peak-shaving/valley-filling' adjustments. Wang expects China’s 10-year government bond yield to trend lower amid evolving geopolitics, slower international oil price gains, cooling domestic inflation expectations and volatile April macro data — a factor behind May’s small net injection. He adds that if the 10-year yield falls below 1.7%, further cuts to net bond-trading injections or a pause in open-market government bond trading are possible.
-
----
-
-### 2026-06-03 10:18:08  #央行 #市場
-
-【5月央行公開市場國債買賣淨投放延續較低水平】昨日央行釋出2026年5月中央銀行各項工具流動性投放情況，資料顯示，5月央行公開市場國債買賣淨投放500億元。東方金誠首席宏觀分析師王青認為，這一趨勢受多重因素影響，當前市場流動性較為充裕，無需央行透過公開市場國債買賣大規模注入長期流動性，體現了央行靈活開展公開市場各項操作，透過量價配合引導市場利率圍繞政策利率平穩執行的政策意圖。值得關注的是，業內人士提到，包括公開市場國債買賣在內，近期央行各類流動性工具運用更加靈活。在保持現有貨幣政策方向的基礎上，既有“先收後放”的節奏切換，也有“削峰填谷”的靈活調控。對於後續市場，王青預計，受國際局勢演化、國際原油價格上行放緩、國內通脹預期降溫，以及4月宏觀資料波動等多重因素影響，近期10年期國債收益率波動下行。這可能也是5月央行國債買賣淨投放規模保持較低水平的一個原因。“往後看，若10年期國債收益率進入1.7%以下區間，不排除國債買賣淨投放規模進一步下調，乃至再次暫停公開市場國債買賣的可能。”（經濟參考報）
-
----
-
-### 2026-06-03 10:17:20  #公司
-
-【星塵智慧完成B輪超10億元融資】繩驅AI機器人公司星塵智慧（Astribot）完成B輪系列融資，三個月內連續完成3輪融資，融資總額超10億元，估值突破百億元。本輪投資方包括梁溪科創產業二期母基金（博華資本管理）、揚州龍投芯粒、中博聚力等國資與財務投資機構，中科創達、科德教育、某知名上市企業等產業投資方，以及國科投資等老股東持續追投。華興資本擔任獨家財務顧問。本輪融資將用於AI基座模型的迭代、真實場景的高質量資料積累以及研發人才梯隊擴充。
-
----
-
-### 2026-06-03 10:15:50  #市場
-
-【藍思科技股價創歷史新高】藍思科技盤中股價創歷史新高，現漲6.74%，報44.01元，總市值為2201.54億元。
-
----
-
-### 2026-06-03 10:15:38  #MKT News #Macro & Rates #Treasury Yields
-
-Japan 40-year government bond yield rose 2.0 bps to 3.765%.
-
----
-
-### 2026-06-03 10:15:31  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-06-03 10:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: Indonesian Rupiah Drops by 0.33% — Top currency loser is Indonesian Rupiah (-0.33%). Meanwhile, Chinese Yuan, Japanese Yen and South Korean Won were little changed.
-
----
-
-### 2026-06-03 10:14:56  #公司
-
-【博傑股份成立半導體公司】企查查APP顯示，近日，博捷芯（珠海）半導體有限公司成立，法定代表人為杜飛，經營範圍包含：半導體器件專用裝置銷售；微特電機及元件製造；電機制造；電力測功電機銷售；電力測功電機制造等。企查查股權穿透顯示，該公司由博傑股份旗下博捷芯（深圳）半導體有限公司全資持股。
-
----
-
-### 2026-06-03 10:14:45  #市場
-
-【電網裝置板塊持續調整 大連電瓷觸及跌停】電網裝置板塊盤中持續調整，大連電瓷觸及跌停，思源電氣、科大智慧、白雲電器、科林電氣、神馬電力等跟跌。
-
----
-
-### 2026-06-03 10:12:57  #宏觀 #公司
-
-【國臺辦介紹臺胞參與大陸微短劇創作3種途徑】國臺辦舉行例行新聞釋出會。記者：十項促進兩岸交流合作的政策措施中，關於“臺灣業者可以多種方式參與大陸微短劇創作”引發關注，請問臺胞參與微短劇創作的方式和途徑有哪些？國務院臺辦發言人朱鳳蓮介紹主要有三種途徑：在閩投資設立廣播電視節目製作經營公司；與大陸業者合拍共創；參與演出。
-
----
-
-### 2026-06-03 10:12:50  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-China A-share organosilicon sector rallied; Dongyue Silicon Materials jumped over 10%, with Guibao Technology, Chenguang New Materials, Huitian New Materials and Hesheng Silicon also advancing.
-
----
-
-### 2026-06-03 10:12:30  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Tech Index decline widened to 2%; HSI down 1.25%.
-
----
-
-### 2026-06-03 10:12:11  #市場
-
-【有機矽概念震盪拉昇 東嶽矽材漲超10%】有機矽概念震盪拉昇，東嶽矽材漲超10%，矽寶科技、晨光新材、迴天新材、合盛矽業跟漲。
-
----
-
-### 2026-06-03 10:12:07  #公司
-
-【SpaceX沒有直接的同行 因此對其估值存在不同解讀】SpaceX據悉計劃將首次公開募股（IPO）定價為每股135美元，擬發行5.556億股，籌資750億美元。SpaceX今年早些時候與馬斯克的人工智慧初創公司xAI合併，該交易對這家火箭公司的估值為1萬億美元，而Grok聊天機器人開發商的估值為2500億美元。該公司沒有直接的同行，因此對其估值存在不同解讀。根據6月1日的一份研究報告，晨星對SpaceX的估值為7800億美元，比其當前的私募市場估值低48%。其中大部分價值來自其Starlink衛星通訊業務，該業務去年貢獻了公司大部分的收入、利潤和增長。然而，SpaceX已將其大部分增長前景與人工智慧掛鉤，且其計劃中未來收入的相當一部分依賴於尚未開發的技術，包括太空中的太陽能資料中心，因為該公司瞄準了一個潛在規模達28.5萬億美元的市場。
-
----
-
-### 2026-06-03 10:12:06  #市場 #焦點
-
-恒生科技指數跌超2%，現報5094.990點；恒生指數現跌1.259%。
-
----
-
-### 2026-06-03 10:11:58  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's stock index fell more than 1%.
-
----
-
-### 2026-06-03 10:11:50  #MKT News #Important #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK #Impact bearish #TCEHY.O
-
-【Tencent: timing of WeChat AI agent launch uncertain】A Tencent source said the launch timing for a WeChat AI agent is uncertain and will depend largely on the pace of regulators' approval. With WeChat's roughly 1.4 billion users, the compliance review could be more stringent than for other products. Tencent had no comment. Media reports that the project is an internal top-priority, highly classified initiative in preparation since at least 1H 2025 were confirmed by a Tencent source.
-
----
-
-### 2026-06-03 10:11:43  #公司
-
-【SpaceX的路演將於週四開始 馬斯克在IPO後需持有其SpaceX股份366天】SpaceX的路演將於週四開始。此次路演——預計將成為近年來備受矚目的IPO路演之一——將讓潛在投資者有機會與SpaceX高管會面，同時投資銀行家們正努力為創紀錄的750億美元認購訂單簿營造需求。媒體此前曾報道，該公司正考慮將多達30%的發行份額分配給個人投資者，這一異常龐大的零售配售份額旨在藉助馬斯克近乎“教派式”的追隨者群體，並擴大公司的股權基礎。訊息人士稱，馬斯克在IPO後需持有其SpaceX股份366天，此舉向投資者傳遞了其不會出售任何持股的訊號。此次IPO的募集資金將用於擴充人工智慧計算資源及SpaceX衛星網路等用途。
-
----
-
-### 2026-06-03 10:11:30  #MKT News #DXY #Impact bullish
-
-USD/IDR rose to a record high of 17,895 in early trade.
-
----
-
-### 2026-06-03 10:10:45  #市場 #國際
-
-印尼盾兌美元早盤跌至歷史新低17895。
-
----
-
-### 2026-06-03 10:10:28  #MKT News #Market Themes #AI Revolution #Star Stocks #Tencent #0700.HK
-
-【Tencent to hold 2026 AI industry conference in Beijing; to unveil agent apps and infrastructure upgrades】Tencent will hold its 2026 AI Industry Application Conference in Beijing, where it plans to unveil a series of intelligent-agent application products and disclose progress on infrastructure upgrades. Senior EVP and CEO of Cloud & Smart Industries Group Tang Daosheng will join Tencent AI chief scientist Yao Shunyu to outline the company’s next-phase AI strategy.
-
----
-
-### 2026-06-03 10:10:17  #市場 #國際
-
-印尼股指下跌1%至6134.12點。
-
----
-
-### 2026-06-03 10:09:39  #國際
-
-菲律賓總統馬科斯稱政府正在考慮補充預算。
-
----
-
-### 2026-06-03 10:09:26  #公司
-
-【星源智完成新一輪融資，累計融資達10億元】具身大腦公司星源智宣佈完成新一輪融資。這家由北京智源人工智慧研究院孵化的公司成立10個月，目前累計融資金額達10億元人民幣。本輪投資方涵蓋財務機構、國資及產業資本，包括松禾資本、創東方、華控基金、中車資本、北工投資、國君創新投、江西金控，以及產業方埃泰克、恆興集團、奇安投資等，老股東元生創投和智源研究院繼續跟投。本輪融資將用於下一代具身大腦與世界模型的核心技術研發、產品規模化量產落地、頂尖人才引進與團隊建設。
-
----
-
-### 2026-06-03 10:08:42  #公司
-
-【騰訊AI產業應用大會將在北京開幕，湯道生、姚順雨將對話解讀騰訊AI下半場】6月3日，據騰訊雲官號賬號資訊，騰訊2026AI產業應用大會將在北京舉辦。據介紹，此次大會將釋出系列智慧體應用新品，並將公佈infra等基礎設施升級新進展。與此同時，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生將與騰訊AI首席科學家姚順雨同臺對話，解讀AI下半場騰訊在AI賽道的最新佈局和思考。
-
----
-
-### 2026-06-03 10:08:20  #其他
-
-【騰訊人士：目前無法確定微信AI智慧體何時推出】騰訊人士表示，目前無法確定微信AI智慧體何時推出，其上線時間很大程度上取決於監管方對智慧體的審批進度，微信14億的使用者體量，合規流程可能比其他產品更加嚴格。關於微信智慧體，騰訊相關負責人表示暫無回應。此前有媒體報道稱，微信AI智慧體是目前騰訊內部“最高優先順序的絕密專案”，至少從2025年上半年開始籌辦。騰訊人士確認了這一訊息。(財經雜誌)
-
----
-
-### 2026-06-03 10:08:10  #其他
-
-巴拿馬警方2日說，該國巴拿馬省一座監獄6月1日發生大規模越獄事件，195名在押人員逃脫，其中123人已被重新抓獲。事件造成至少3人死亡、9人受傷。（新華社）
-
----
-
-### 2026-06-03 10:08:04  #其他
-
-東京電力：本次資產剝離不會對核電運營造成不利影響，因為我們擁有充足的鈾庫存。
-
----
-
-### 2026-06-03 10:07:22  #其他
-
-當地州長表示，米丘林斯克一處工業設施的附屬建築受損。
-
----
-
-### 2026-06-03 10:07:11  #公司 #市場
-
-【電池板塊短線拉昇，湘潭電化漲停】電池板塊短線拉昇，湘潭電化漲停，杭可科技、豪鵬科技、德新科技、諾德股份、銅冠銅箔跟漲。
-
----
-
-### 2026-06-03 10:07:05  #公司
-
-東京電力控股株式會社：東京電力資源已與卡梅科公司及加拿大歐安諾達成協議，出售其所持雪茄湖鈾礦專案的5%權益。
-
----
-
-### 2026-06-03 10:06:54  #其他
-
-越南 1-5月實際到位外資97.5億美元，同比增 9.6%。
-
----
-
-### 2026-06-03 10:06:45  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
-
-【ThunderSoft unit launches TurboX C7790 dev kit with 24 TOPS, fills >20-TOPS Qualcomm module gap】ThunderSoft said on June 2 its unit Chuangtong Lianda unveiled the TurboX C7790 edge-AI development kit at Computex Taipei. Built on the Qualcomm Q-7790 (CQ7790S) processor, the kit delivers up to 24 TOPS and combines a production-grade TurboX C7790 SOM, a feature-rich carrier board, Android/Linux support and mainstream AI toolchains to provide an out-of-the-box path from PoC to mass production. Target use cases include video-conferencing endpoints, smart cameras, industrial robots, autonomous mobile robots, collaborative and delivery robots, and high-end edge gateways. The company says the product fills a gap in Qualcomm-platform modules offering >20 TOPS.
-
----
-
-### 2026-06-03 10:06:29  #其他
-
-東曹將於7月起上調重金屬處理劑價格。
-
----
-
-### 2026-06-03 10:06:21  #MKT News #Market Regions #Greater China
-
-【Vice Finance Minister Liao Min meets IMF Article IV midterm consultation mission】On June 1, 2026, Vice Finance Minister Liao Min met the IMF's Article IV midterm consultation mission at the Ministry of Finance. The two sides exchanged views on China‑IMF cooperation, China’s economic outlook and fiscal policy.
-
----
-
-### 2026-06-03 10:05:59  #MKT News #AUDUSD #Impact mixed #DXY #Impact bearish
-
-【Household caution, rising rates and fuel costs slow Australia's economy】Government data showed GDP grew 0.3% q/q in Q1, below expectations and roughly one-third the pace in Q4 2025; annual growth slowed to 2.5%, also missing forecasts. The Australian Bureau of Statistics' national accounts head said March-quarter growth eased, with household and public spending subdued and March interest-rate rises and sharply higher fuel costs likely prompting more cautious consumer behavior. Swap traders now price a slightly better-than-50% chance of an RBA hike at the August meeting and continue to expect the Reserve Bank of Australia could raise rates once more before year-end.
-
----
-
-### 2026-06-03 10:05:49  #MKT News
-
-【18th Straits Forum set for mid‑June in Fujian】The Taiwan Affairs Office of the State Council said at a regular briefing that the 18th Straits Forum will take place in mid‑June in Fujian, with the forum's plenary session on June 13. The main venue will be Xiamen; Fujian's prefecture‑level cities and the Pingtan Comprehensive Experimental Zone will host related events, spokesperson Zhu Fenglian said.
-
----
-
-### 2026-06-03 10:05:47  #宏觀
-
-【第十八屆海峽論壇將於6月中旬在福建舉辦】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮應詢介紹，第十八屆海峽論壇將於6月中旬在福建舉辦，6月13日舉辦論壇大會。論壇主會場設在廈門，福建有關設區市和平潭綜合實驗區將舉辦相關活動。（新華社）
-
----
-
-### 2026-06-03 10:05:40  #宏觀
-
-【廖岷會見國際貨幣基金組織第四條款中期磋商團】2026年6月1日，財政部副部長廖岷在部內會見國際貨幣基金組織第四條款中期磋商團。雙方就中國與國際貨幣基金組織合作、中國經濟形勢和財政政策等共同關心的議題交換意見。(財政部)
-
----
-
-### 2026-06-03 10:05:34  #其他
-
-【中科創達：創通聯達首發TurboX C7790開發套件 填補高通平臺20+TOPS算力模組空白】記者從中科創達獲悉，6月2日，創通聯達在第45屆臺北國際電腦展期間，正式釋出全新一代邊緣智慧開發平臺——TurboX C7790開發套件。該產品基於高通躍龍™ Q-7790（CQ7790S）處理器打造，提供高達24 TOPS的AI算力，整合量產級TurboX C7790 SOM、介面豐富的載板設計、Android/Linux 作業系統及主流AI工具鏈支援，為客戶提供開箱即用的邊緣AI開發平臺，加速從概念驗證（PoC）到產品量產的落地程序。可廣泛應用於智慧視訊會議終端、智慧相機、工業機器人、自主移動機器人（AMR）、協作機器人、配送機器人以及高階邊緣計算閘道器等多種場景。
-
----
-
-### 2026-06-03 10:05:24  #市場
-
-日經225指數延續漲勢，最新上漲2.5%，報68415.45點。
-
----
-
-### 2026-06-03 10:04:55  #Trading Economics #Economy #Vietnam #Balance of Trade #Importance 1
-
-Vietnam Posts Largest Trade Gap on Record — Vietnam recorded a trade deficit of USD 5.21 billion in May 2026, shifting from a surplus of USD 0.62 billion in the same month a year earlier. It marked the largest trade deficit since December 1996, as imports grew faster than exports. Exports increased 18.0% year-on-year to USD 46.93 billion, while imports rose at a faster pace of 33.8% to a record high of USD 52.14 billion.
 
 ---
