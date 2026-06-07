@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:45:53_
-_本檔包含 3787 則快訊，約 705742 字_
+_更新時間：2026-06-08 00:46:44_
+_本檔包含 3791 則快訊，約 705952 字_
+
+---
+
+### 2026-06-05 14:25:25
+
+三大股指尾盤跌幅擴大，創業板指跌3％，深證成指跌超2％，滬指現跌0.6％。
+
+---
+
+### 2026-06-05 14:24:30  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+Mainland A-share benchmarks widened losses into the close: Shenzhen Composite fell more than 2%, ChiNext dropped nearly 3%, and the Shanghai Composite was down 0.64%.
+
+---
+
+### 2026-06-05 14:24:26  #市場 #焦點
+
+創業板指跌3.00%，現報3966.192點；上證指數跌0.70%，現報4029.247點；深證成指跌2.11%，現報15330.845點。
+
+---
+
+### 2026-06-05 14:23:48  #公司 #市場
+
+【沃蘭特創始人：商用客運eVTOL現處早期醞釀階段，下半年有望啟動經濟性驗證工作】“沃蘭特爭取今年透過快速的研製過程，（技術方面）能達到全球前二甚至第一的狀態，這是我們努力的目標。”近日，國內商用客運eVTOL（電動垂直起降航空器）沃蘭特航空創始人兼執行長董明，在接受媒體採訪時作出上述表述。談及當前的融資環境變化，董明觀察到，低空經濟領域投資人的行業認知正持續深化、投資信心也越來越高，背後依託的是行業與公司商業化確定性的不斷提升。資本市場出資主體也發生明顯變遷，投資主力從早期天使機構，過渡至地方國資平臺，現階段民營市場化資本入局活躍度顯著提升。進入2026年，低空行業共識高度統一，這是eVTOL主機廠適航取證和商業化的關鍵之年，將決定未來5至10年的競爭格局，多數企業已將加速適航取證列為年度核心目標。今年3月，沃蘭特方面也向記者透露，有望於2027年上半年完成適航取證。（澎湃新聞）
+
+---
+
+### 2026-06-05 14:23:26  #市場 #焦點
+
+深證成指跌2.00%，現報15347.955點；上證指數跌0.62%，現報4032.797點；創業板指跌2.89%，現報3970.840點。
+
+---
+
+### 2026-06-05 14:22:22  #MKT News #Important #Market Regions #Greater China #01347.HK #Impact bearish #00981.HK #Hang Seng Index
+
+Hang Seng TECH Index slid more than 2% in afternoon trade; Huahong Semiconductor (01347.HK) fell over 7% and SMIC (00981.HK) dropped over 6%. Hang Seng Index was down about 1.2%.
+
+---
+
+### 2026-06-05 14:22:17  #市場
+
+【電力板塊跌幅擴大，豫能控股觸及跌停】電力板塊跌幅擴大，豫能控股、廣西能源雙雙觸及跌停。
+
+---
+
+### 2026-06-05 14:21:50  #其他
+
+阿曼國家通訊社表示，米納阿勒法哈爾煉油廠運營一切正常。
+
+---
+
+### 2026-06-05 14:21:30  #市場 #焦點
+
+恒生科技指數跌超2%，現報4875.480點；恒生指數現跌1.231%。
+
+---
+
+### 2026-06-05 14:21:20  #Trading Economics #Markets #commodity #Importance 0
+
+Copper is down by 2% — Copper decreased 2% to 6.3807 USD/Lbs
+
+---
+
+### 2026-06-05 14:21:05  #MKT News #Important #Macro & Rates #US Economy
+
+【Institutional forecasts for U.S. May unemployment rate (prior 4.3%)】Consensus clustered at 4.3% (Refinitiv 4.3%). Danske Bank is the low outlier at 4.2%; Sparta Securities, Capital Economics, Oxford Economics, Pantheon Macroeconomics, Standard Chartered, TD Securities and Wells Fargo sit at 4.4%. Major banks forecasting 4.3% include ANZ, ABN AMRO Bank, BNP Paribas SA, Barclays, BofA, Citigroup, Commerzbank, Daiwa Capital, DekaBank, Deutsche Bank, Goldman Sachs, Helaba, HSBC, ING, JP Morgan, Jefferies, Mizuho, Morgan Stanley, Nomura, UBS and Lianxin Bank.
+
+---
+
+### 2026-06-05 14:20:24  #MKT News
+
+Australia's S&P/ASX 200 closed down 62.60 points (0.72%) at 8,623.50 on Friday, June 5.
+
+---
+
+### 2026-06-05 14:20:22  #MKT News #AIR.PA #Impact bullish
+
+Airbus booked 379 orders in May and delivered 81 aircraft. Year-to-date 2026 deliveries stand at 262 aircraft.
+
+---
+
+### 2026-06-05 14:19:49  #公司 #國際
+
+一名政府官員表示，泰國消費者保護委員會將就電池相關起火事件，將沃爾沃汽車泰國當地分公司告上法庭。
+
+---
+
+### 2026-06-05 14:19:36  #Trading Economics #Markets #China #stocks #Importance 1
+
+Zijin Mining Stock Price Hits 10-week Low — Zijin Mining shares decreased to 29.88 CNY, the lowest since March 2026. Over the past 4 weeks, Zijin Mining Group lost 12.63%, and in the last 12 months, it increased 64.77%.
+
+---
+
+### 2026-06-05 14:19:03  #公司
+
+【對話騰訊湯道生：WorkBuddy等AI智慧體還在投入階段，未設商業化目標】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生談及AI產品定價問題時表示，“不好點評其他廠商的降價策略，但是行業大趨勢肯定是希望token推理成本在不斷降低，同時也有一些特別難的問題，需要更大的模型，當然這個成本就會高，大家的定價策略也會有所不同。”騰訊對於AI智慧體產品是否設定了商業化目標？湯道生回應表示，“對於WorkBuddy這樣的AI智慧體，我們現在還是投入階段，所以並沒有給團隊設定商業化目標的KPI，不過同時我們也收到大量企業的客戶的反饋，都對它們很感興趣，在企業的場景裡有很多商業化的模式，有點像幾年前的騰訊會議，它既有一些to c的屬性，也有一些獨立屬性，我們會充分的發揮好它這個獨立的能力，來來搭建一個可持續發展的服務體系。”（新浪科技）
+
+---
+
+### 2026-06-05 14:19:03  #MKT News #Important #Commodities #Precious Metals
+
+SHFE silver 2608 slid 3.41% to 17,236 yuan/kg. Turnover about 167.986 bln yuan; open interest rose nearly 9,600 contracts amid increased intraday volatility.
+
+---
+
+### 2026-06-05 14:18:52  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell 1.00% intraday, slipping below $4,430/oz.
+
+---
+
+### 2026-06-05 14:18:48  #市場 #焦點
+
+現貨黃金失守4430美元/盎司，日內跌1.01%。
+
+---
+
+### 2026-06-05 14:18:32  #市場
+
+現貨黃金日內跌1%，現報4430.03美元/盎司。
+
+---
+
+### 2026-06-05 14:18:18  #央行 #公司 #市場 #國際
+
+【報告：菲律賓央行6月加息可能依然有望進行】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管5月份通脹資料較為疲軟，但菲律賓央行6月份的加息似乎依然有望進行。該分析師表示，由於運輸成本下降，整體通脹有所降溫。不過她表示，食品通脹繼續推動整體價格上漲，並且似乎越來越廣泛地蔓延到大米以外的領域。她補充說，隨著化肥價格高企拖累負擔能力並推高非大米食品價格，通脹前景的風險依然堅定地偏向上行。荷蘭國際集團維持對菲律賓2026年消費者通脹率平均同比為5.8%的預測。該機構預計6月份將加息25個基點，如果美伊衝突沒有顯示出明顯的降溫進展且油價保持高位，則有可能加息50個基點。
+
+---
+
+### 2026-06-05 14:18:09  #其他
+
+卡達航空計劃將飛往迪拜的航班增至每日五班。
+
+---
+
+### 2026-06-05 14:17:57  #國際
+
+以色列要求黎巴嫩南部三個城鎮的居民撤離。
+
+---
+
+### 2026-06-05 14:17:41  #公司
+
+【豆包已註冊多個諧音商標】據媒體報道，近日，有分析人士認為，位元組跳動過早地將盈利模式商業化，可能會使其在中國競爭激烈的消費人工智慧市場中失去領先地位。天眼查App顯示，豆包關聯公司北京春田知韻科技有限公司成立於2023年7月，法定代表人為嚴林，註冊資本100萬人民幣，經營範圍包括計算機系統服務、資料處理服務、軟體開發等，由北京抖音資訊服務有限公司全資持股。智慧財產權資訊顯示，該公司已成功註冊多枚“逗包”“逗寶”“豆抱”等商標，國際分類涉及辦公用品、網站服務等。
+
+---
+
+### 2026-06-05 14:17:00  #市場
+
+紐約期銀日內跌3%，現報71.75美元/盎司。
+
+---
+
+### 2026-06-05 14:16:48  #其他
+
+空客截至目前，2026年交付量：262架。
+
+---
+
+### 2026-06-05 14:16:42  #市場
+
+現貨白銀日內跌3%，現報71.63美元/盎司。
+
+---
+
+### 2026-06-05 14:16:34  #其他
+
+空客5月總訂單量：379架。
+
+---
+
+### 2026-06-05 14:16:25  #其他
+
+空客5月交付量：81架。
+
+---
+
+### 2026-06-05 14:16:22  #Trading Economics #Economy #South Africa #Foreign Exchange Reserves #Importance 1
+
+South Africa Forex Reserves Fall in May — Gross foreign exchange reserves in South Africa fell to $76.58 billion in May 2026 from $77.09 billion in the previous month, remaining at their lowest level since December 2025. The decline in gross reserves and international liquidity was mainly driven by a drop in the US dollar value of gold holdings and government-related foreign exchange outflows. Gold reserves decreased ($18.274 billion vs $18.700 billion in April), while foreign currency reserves also declined ($51.661 billion vs $51.725 billion). At the same time, the forward position, representing the central bank's unsettled forward or swap transactions, edged down to $0.584 billion from $0.586 billion in the previous month, while SDR holdings decreased by $0.016 billion to $6.648 billion from $6.664 billion.
 
 ---
 
@@ -22649,161 +22829,5 @@ TSMC co-chief operating officer said Intel's packaging technology is an alternat
 ### 2026-06-04 10:27:36  #MKT News
 
 Indonesia's benchmark stock index continued to fall, extending losses to 3%.
-
----
-
-### 2026-06-04 10:27:20  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-【TSMC sees 2026 revenue rising over 30% as AI infrastructure demand spurs capacity build】TSMC (TSM.N) said on Thursday that sustained investment in AI infrastructure has driven strong demand across chip segments and it now expects U.S. dollar-denominated revenue to rise more than 30% in 2026, in line with its recent earnings-call guidance and up from a 25% projection in January. The company is expanding capacity to meet unprecedented demand for large-scale AI compute. Chairman and CEO Wei Zhejia warned that continued electronic component price inflation could hurt the consumer electronics sector and said recent Middle East tensions add further uncertainty to the outlook.
-
----
-
-### 2026-06-04 10:27:16  #公司 #市場
-
-【半導體材料板塊短線拉昇】半導體材料板塊短線拉昇，滬矽產業漲超10%，有研矽、艾森股份、立昂微、路維光電、中晶科技等跟漲。
-
----
-
-### 2026-06-04 10:27:04  #國際
-
-印尼基準股指跌幅擴大至3%。
-
----
-
-### 2026-06-04 10:26:57  #國際
-
-印尼基準股指跌幅達2.9%，報5766.848點。
-
----
-
-### 2026-06-04 10:26:02  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish
-
-TSMC said its CoPoS advanced packaging technology has a pilot production line and the company expects CoPoS output to rise materially over the next two to three years.
-
----
-
-### 2026-06-04 10:25:33  #公司
-
-臺積電執行長表示：CoPoS先進封裝技術已有試點生產線，我們預計CoPoS的產量將在兩到三年內顯著提升。
-
----
-
-### 2026-06-04 10:24:03  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's benchmark stock index fell more than 2%.
-
----
-
-### 2026-06-04 10:23:54  #公司
-
-【臺積電魏哲家：預計今年全年營收成長仍將超過30%】臺積電召開股東會，針對AI需求，董事長魏哲家指出，從生成式AI、查詢模式，進一步轉向代理式AI與指令行動模式，正推升大型語言模型處理文字所需的token消耗量，也使運算能力需求持續成長，進一步支撐先進半導體需求。公司客戶以及客戶的客戶，仍持續給予對AI產業的正面展望。魏哲家強調，臺積電仍對未來數年AI大趨勢保持信心，半導體需求也具備根本性支撐。在技術差異化與廣泛客戶群支援下，公司維持強勁信心，若以美元計算，預計今年全年營收成長仍將超過30%。
-
----
-
-### 2026-06-04 10:23:31  #市場 #國際
-
-印度尼西亞股市基準指數下跌 2%，報5820.41 點。
-
----
-
-### 2026-06-04 10:22:57  #國際
-
-【初步結果顯示韓國執政黨鎖定地方選舉勝局】據韓國方面6月4日訊息，根據初步開票結果，韓國執政黨共同民主黨在3日舉行的第九屆地方選舉中鎖定勝局，贏得多數道、市、郡、區等各級政府的行政長官職位。訊息稱，截至4日凌晨，在本次選出的16個道知事和廣域市市長職位中，共同民主黨已在京畿道、仁川等13地取得勝利或保持領先，而最大在野黨國民力量黨預計僅能拿下大邱、慶尚北道和慶尚南道三地。（央視新聞）
-
----
-
-### 2026-06-04 10:22:20  #央行 #日本央行
-
-日本內閣官房長官木原稔表示，預計央行將採取適當的貨幣政策，在與政府密切合作的同時，可持續、穩定地實現其物價目標。
-
----
-
-### 2026-06-04 10:22:16  #國際
-
-【伊媒發哈梅內伊父子罕見合照】伊朗《德黑蘭時報》3日在社交媒體釋出了一張已故伊朗最高領袖阿里·哈梅內伊和他的兒子、新任伊朗最高領袖穆傑塔巴·哈梅內伊的合照。 據報道，在這張“罕見”照片中，兩人並肩而行，似乎正在交談。 帖文中沒說明這張照片於何時何地拍攝。（中新網）
-
----
-
-### 2026-06-04 10:21:34  #公司 #市場
-
-【超級電容概念再度走強 江海股份漲停續創歷史新高】超級電容概念再度走強，江海股份漲停，續創歷史新高，此前華鋒股份、祥和實業漲停，龍辰科技漲超10%，艾華集團、元力股份、新宙邦等跟漲。
-
----
-
-### 2026-06-04 10:21:33  #MKT News
-
-A-share supercapacitor concept stocks rallied again. Jianghai Co. hit the daily limit and made a fresh record high; earlier Huafeng Co. and Xianghe Industrial also hit limit-up. Longchen Technology rose over 10%; Aihua Group, Yuanli Co. and New Zoubang advanced.
-
----
-
-### 2026-06-04 10:20:30  #MKT News #DXY #Impact bullish
-
-USD/CAD rose above 1.39 for the first time since April 7, gaining 0.02% on the day.
-
----
-
-### 2026-06-04 10:19:18  #國際
-
-【歐盟提出“技術主權”一攬子方案，強調“自主性”】當地時間6月3日，歐盟委員會公佈“歐洲技術主權一攬子方案”，提出加強人工智慧、半導體、雲端計算和開源等領域能力，以期增強歐洲數字自主性和韌性。公報說，一攬子方案將有助於擴大歐盟企業、公民和公共行政部門在核心技術方面的選擇範圍。（央視新聞）
-
----
-
-### 2026-06-04 10:19:10  #國際
-
-【澤連斯基說願即刻與普京直接談判】當地時間6月3日，烏克蘭總統澤連斯基表態稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基著重強調了談判的緊迫性，指出烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題，希望依託俄烏兩國最高層級直接對話，加速止戰程序。(CCTV國際時訊)
-
----
-
-### 2026-06-04 10:18:20  #國際 #原創
-
-【AI熱潮造富：去年200萬人晉身百萬美元富豪，高淨值人士總財富超98萬億美元】全球可投資資產總額至少100萬美元的人去年財富增加了近9%。根據法國IT和顧問公司凱捷(Capgemini)的一份報告，2025年，全球高淨值人士的財富總額將達到創紀錄的98.3萬億美元。報告稱，受AI樂觀情緒推動的股市上漲，是財富增加的主要引擎，幫助全球百萬美元富豪人數增加近200萬人，達到創紀錄的2530萬人。資產仍然高度集中在超級富豪手中。淨資產超過3,000萬美元的超高淨值人士，財富增長速度在所有財富階層中最為迅猛，這個族群的人數已達到創紀錄的25萬人。根據凱捷的報告，美國在2025年新增73.6萬名百萬富豪，總數達到870萬人。高淨值人士的財富比前一年增長了10%。
-
----
-
-### 2026-06-04 10:18:20  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-06-04 10:17:37  #公司 #市場
-
-【光刻機概念震盪走強 新萊應材漲超12%】光刻機概念震盪走強，新萊應材漲超12%，波長光電、藍英裝備、富創精密、海立股份跟漲。
-
----
-
-### 2026-06-04 10:15:27  #公司 #國際
-
-【檔案顯示特朗普政府多名官員持有SpaceX股份】據報道，財務披露檔案顯示，包括總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，特朗普政府10名官員申報持有SpaceX或xAI的權益。檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。此後，這些官員可能已出售其全部或部分持股，而未觸發額外披露要求。
-
----
-
-### 2026-06-04 10:15:08  #MKT News
-
-【Strong solar flare; NOAA issues geomagnetic storm warning】NASA said on the 3rd a strong solar flare peaked at 07:28 ET (19:28 Beijing) and was classified X1.0. NOAA has issued a strong geomagnetic storm warning, expected to persist through the 5th. The storm may disrupt communications, power grids, navigation, radio and satellite operations. Auroras could be visible across multiple northern US states and parts of the Midwest.
-
----
-
-### 2026-06-04 10:15:03  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: Indonesian Rupiah Depreciates by 0.34% — Top currency loser is Indonesian Rupiah (-0.34%). Gains are led by South Korean Won (0.29%), Japanese Yen (0.11%) and Chinese Yuan (0.06%).
-
----
-
-### 2026-06-04 10:14:57  #MKT News
-
-Indonesia's benchmark stock index extended losses to 1.5% at 5,849.862 points.
-
----
-
-### 2026-06-04 10:14:52  #國際
-
-【太陽爆發強烈耀斑 美機構釋出地磁暴預警】美國航空航天局3日表示，太陽當天爆發一次強烈耀斑。美國國家海洋和大氣管理局已釋出強地磁暴預警，預計相關影響將持續至5日。據介紹，此次耀斑於美國東部時間3日上午7時28分（北京時間3日19時28分）達到峰值。耀斑被歸類為X1.0級，其中X級為太陽耀斑中強度最高等級，其後的數字用於進一步說明其能量強度。
-
----
-
-### 2026-06-04 10:14:48  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said Taiwan hosts the company’s best talent, its core R&D and its largest production base.
 
 ---

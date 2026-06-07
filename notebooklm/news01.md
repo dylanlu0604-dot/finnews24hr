@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:45:53_
-_本檔包含 3736 則快訊，約 707018 字_
+_更新時間：2026-06-08 00:46:44_
+_本檔包含 3734 則快訊，約 706531 字_
+
+---
+
+### 2026-06-08 00:45:21  #其他
+
+福特因安全帶存在安全隱患，召回近42萬輛汽車。該隱患可能在車輛發生碰撞時造成人員受傷。
+
+---
+
+### 2026-06-08 00:43:37  #國際
+
+一份提交給國際原子能機構的美國決議草案要求伊朗提供其核設施資訊。
+
+---
+
+### 2026-06-08 00:41:09  #其他
+
+以方官員：以軍已開始在黎巴嫩南部修建新的軍事據點防線。
+
+---
+
+### 2026-06-08 00:41:00  #國際
+
+以色列多位部長：以色列目前控制著黎巴嫩20%的領土。
+
+---
+
+### 2026-06-08 00:32:12  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Expert: US, Iran unwilling to yield; deal unlikely】Qatar University assistant professor Abdullah Bandar Ettebi said the US, Iran and Israel are treating much of the Middle East as bargaining chips: the US and Israel are using Lebanon to pressure Iran, while Iran is signaling Gulf states it will not back down and could resume further attacks. He called the situation very dangerous and said a US‑Iran agreement will be very difficult because both sides see themselves as winners and are therefore unwilling to concede.
+
+---
+
+### 2026-06-08 00:31:18  #國際
+
+【伊朗議長稱伊朗武裝部隊已做好準備】伊朗議會議長卡利巴夫當地時間6月7日就以色列空襲黎巴嫩首都貝魯特南郊在社交媒體發文稱，“他們既不遵守停火，也不信守承諾。透過對伊朗實施海上封鎖以及違反關於黎巴嫩的（停火）協議，他們表明自己只聽得懂權力的語言。針對伊朗人民的海上封鎖，以及美國今天向以色列開的（襲擊貝魯特南郊的）‘綠燈’，已將美國在該地區的基地與資產以及以色列政權變為合法打擊目標。我們的武裝部隊將一如既往，隨時準備採取行動。”
+
+---
+
+### 2026-06-08 00:25:46  #國際
+
+黎巴嫩遭襲擊後，伊朗一名官員表示，該國不僅會中止談判程序，還將與敵方直接對抗。
+
+---
+
+### 2026-06-08 00:20:31  #央行 #國際
+
+市場資訊：特朗普稱，在凱文・沃什就任美聯儲主席後的首次政策會議前，美聯儲若加息將是錯誤之舉。
+
+---
+
+### 2026-06-08 00:17:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's parliament speaker said the armed forces remain, as before, free to take any actions they deem appropriate.
+
+---
+
+### 2026-06-08 00:16:14  #其他
+
+南非總統拉馬福薩：南非將嚴厲打擊違反移民及勞工法的行為，整治移民系統腐敗問題。南非還將強化移民相關法規。
+
+---
+
+### 2026-06-08 00:12:55  #國際
+
+【加沙停火談判重啟 哈馬斯移交管理權成談判重點】埃及安全部門訊息人士7日表示，當天在埃及首都開羅，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導層代表團同埃及、卡達和土耳其等停火斡旋方重啟加沙地帶停火談判。（新華社）
+
+---
+
+### 2026-06-08 00:12:08  #MKT News
+
+【Gaza ceasefire talks resume; Hamas handover of administrative control becomes negotiation focus】Egyptian security sources told Xinhua on the 7th that a Hamas leadership delegation met in Cairo with mediators Egypt, Qatar and Turkey to resume Gaza ceasefire talks; the handover of Gaza’s administrative control by Hamas has become a central issue in the negotiations.
+
+---
+
+### 2026-06-08 00:07:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's parliament speaker Ghalibaf said they neither respect the ceasefire nor trust dialogue; by imposing a maritime blockade and breaching agreements with Lebanon they have shown they only understand the language of force.
+
+---
+
+### 2026-06-08 00:06:26  #國際
+
+伊朗首席談判代表卡里巴夫：（對方）既不承諾停火，也不相信對話，他們透過海上封鎖以及違反涉黎巴嫩的各項協議表明，他們只聽得懂實力說話。
+
+---
+
+### 2026-06-08 00:05:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Iran’s chief negotiator Ghalibaf said a maritime blockade of Iran and the US’s "green light" to Israel today render US and Israeli regime bases and assets in the region legitimate targets, and that Iran’s armed forces remain ready to strike at any time.
+
+---
+
+### 2026-06-08 00:04:35  #焦點 #國際
+
+伊朗首席談判代表卡里巴夫：針對伊朗的海上封鎖，以及美國今日給以色列開綠燈，使得美國以及（以色列）政權在該地區的基地與資產都成為合法目標。我國武裝力量一如既往，隨時做好行動準備。
+
+---
+
+### 2026-06-07 23:59:35  #其他 #焦點
+
+【中朝多領域合作為兩國友好注入源源動力】應朝鮮勞動黨總書記、國務委員長金正恩邀請，中共中央總書記、國家主席習近平將於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。這是習近平總書記時隔7年再次對朝鮮進行國事訪問。 中朝是守望相助的社會主義友好鄰邦，今年是《中朝友好合作互助條約》簽訂65週年。近年來，在兩黨兩國最高領導人戰略引領下，中朝傳統友好合作關係持續健康穩定發展，經濟、文化、教育、青年等領域合作亮點紛呈，造福兩國和兩國人民，為中朝傳統友好注入新的時代內涵，也為促進地區和平與發展作出積極貢獻。（新華社）
+
+---
+
+### 2026-06-07 23:59:02  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Israeli airstrikes on multiple Lebanese locations kill 2, injure 11】Israel launched airstrikes on Beirut's southern suburbs and the southern port city of Tyre on the 7th, killing two and wounding 11. The Lebanese Health Ministry said on the same day that since fighting resumed on March 2 Israeli strikes have killed 3,613 people and injured 11,072 in Lebanon.
+
+---
+
+### 2026-06-07 23:58:47  #國際
+
+【以色列空襲黎巴嫩多地致多人死傷】據黎巴嫩國家通訊社7日報道，以色列當天對黎首都貝魯特南郊和黎南部港口城市提爾等地發動空襲，已造成2人死亡、11人受傷。報道說，以色列空軍對貝魯特南郊發射3枚導彈，目標是兩棟建築內的兩套公寓。此外，以色列戰機對提爾發動兩次空襲，轟炸提爾市區一所大學周邊地區和一家咖啡館。（新華社）
+
+---
+
+### 2026-06-07 23:58:04  #國際
+
+市場資訊：烏克蘭於當地時間6月6日動用約40架攻擊無人機，襲擊了俄羅斯列寧格勒州大伊若拉鎮的一處海軍武器倉庫。俄方防空系統擊落32架無人機，但仍有無人機命中地面機庫及倉儲區域並引發爆炸。本次襲擊造成約5000噸物資損毀，損毀物資以火炮彈藥和工程彈藥為主，另有兩名倉庫工作人員遇難。
+
+---
+
+### 2026-06-07 23:57:23  #國際
+
+烏克蘭總統澤連斯基抵達英國，將與英國首相斯塔默、法國總統馬克龍及德國總理默茨舉行會談，他還計劃於明日會見英國國王查爾斯三世。
+
+---
+
+### 2026-06-07 23:53:14  #國際
+
+【主要產油國宣佈7月繼續保持增產】石油輸出國組織（歐佩克）7日發表宣告說，7個“歐佩克+”主要產油國決定7月日均增產原油18.8萬桶。至此，主要產油國已連續四個月宣佈增產。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼的代表當天舉行線上會議，討論國際石油市場形勢及前景。會後宣告說，為維護石油市場穩定，7國將根據市場情況靈活調整增產節奏。（央視新聞）
+
+---
+
+### 2026-06-07 23:51:00  #其他
+
+加拿大總理卡尼將訪問愛爾蘭和法國以加強與兩國的關係。
+
+---
+
+### 2026-06-07 23:49:25  #國際
+
+鑑於黎巴嫩局勢的發展以及伊朗發出的宣告，以色列總理內塔尼亞胡預計將於週日晚些時候與國防部長卡茨和高階安全官員召開安全磋商會議。
+
+---
+
+### 2026-06-07 23:49:19  #MKT News
+
+Israel's Channel 15 reported Prime Minister Netanyahu and the defense minister met today to discuss an Iranian threat.
+
+---
+
+### 2026-06-07 23:47:17  #其他
+
+卡達釋出航行通告，在多哈飛行情報區內啟用臨時備用航線，調整多哈、烏代德機場離場航線及通往巴林、達曼、阿聯酋等區域飛行情報區的航路。相關航司須按指定航線飛行，並留意周邊空域通告。該舉措6月7日至6月14日生效。
+
+---
+
+### 2026-06-07 23:46:55  #其他
+
+伊拉克南部一輛公共汽車與一輛卡車相撞，造成18人死亡。
+
+---
+
+### 2026-06-07 23:46:36  #公司 #市場 #國際
+
+美國聯合航空CEO斯科特·柯比表示，儘管機票價格大幅上漲，高收入人群仍持續出行消費，這讓他相信高階航空產品的需求能夠頂住漲價壓力。
 
 ---
 
@@ -22402,185 +22570,5 @@ Oman Oil Development Company says Mina al-Fahal port is operating normally.
 ### 2026-06-05 14:25:54  #公司
 
 【抖音回應“豆包誤判蘑菇導致使用者中毒”：AI目前還在發展階段，豆包也在不斷提升識別準確性】位元組跳動副總裁李亮在微博發文談“有關豆包誤判蘑菇導致使用者中毒”的事情，稱：使用者使用豆包拍照識別從小區摘到的蘑菇時，豆包識別為“雞腿菇”，同時給該使用者的回覆中明確提示：“極容易和劇毒的大青褶傘混淆，誤食會引發嚴重的胃腸炎症狀”，“如果這幾朵蘑菇是野外採摘的，強烈建議不要食用”，並表示“野生蘑菇的辨別風險極高，僅憑圖片無法100%排除有毒相似種的可能”等。李亮表示，AI目前還在發展階段，豆包也在不斷提升識別準確性，涉及類似人身安全的問題，建議大家，AI的回答僅供參考，請務必多方諮詢求證，以免造成傷害。另外也提醒大家，小區裡摘到的蘑菇或其他果類，即使它們本身無毒，也可能有農藥等其他情況，也強烈不建議大家食用。
-
----
-
-### 2026-06-05 14:25:25
-
-三大股指尾盤跌幅擴大，創業板指跌3％，深證成指跌超2％，滬指現跌0.6％。
-
----
-
-### 2026-06-05 14:24:30  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-Mainland A-share benchmarks widened losses into the close: Shenzhen Composite fell more than 2%, ChiNext dropped nearly 3%, and the Shanghai Composite was down 0.64%.
-
----
-
-### 2026-06-05 14:24:26  #市場 #焦點
-
-創業板指跌3.00%，現報3966.192點；上證指數跌0.70%，現報4029.247點；深證成指跌2.11%，現報15330.845點。
-
----
-
-### 2026-06-05 14:23:48  #公司 #市場
-
-【沃蘭特創始人：商用客運eVTOL現處早期醞釀階段，下半年有望啟動經濟性驗證工作】“沃蘭特爭取今年透過快速的研製過程，（技術方面）能達到全球前二甚至第一的狀態，這是我們努力的目標。”近日，國內商用客運eVTOL（電動垂直起降航空器）沃蘭特航空創始人兼執行長董明，在接受媒體採訪時作出上述表述。談及當前的融資環境變化，董明觀察到，低空經濟領域投資人的行業認知正持續深化、投資信心也越來越高，背後依託的是行業與公司商業化確定性的不斷提升。資本市場出資主體也發生明顯變遷，投資主力從早期天使機構，過渡至地方國資平臺，現階段民營市場化資本入局活躍度顯著提升。進入2026年，低空行業共識高度統一，這是eVTOL主機廠適航取證和商業化的關鍵之年，將決定未來5至10年的競爭格局，多數企業已將加速適航取證列為年度核心目標。今年3月，沃蘭特方面也向記者透露，有望於2027年上半年完成適航取證。（澎湃新聞）
-
----
-
-### 2026-06-05 14:23:26  #市場 #焦點
-
-深證成指跌2.00%，現報15347.955點；上證指數跌0.62%，現報4032.797點；創業板指跌2.89%，現報3970.840點。
-
----
-
-### 2026-06-05 14:22:22  #MKT News #Important #Market Regions #Greater China #01347.HK #Impact bearish #00981.HK #Hang Seng Index
-
-Hang Seng TECH Index slid more than 2% in afternoon trade; Huahong Semiconductor (01347.HK) fell over 7% and SMIC (00981.HK) dropped over 6%. Hang Seng Index was down about 1.2%.
-
----
-
-### 2026-06-05 14:22:17  #市場
-
-【電力板塊跌幅擴大，豫能控股觸及跌停】電力板塊跌幅擴大，豫能控股、廣西能源雙雙觸及跌停。
-
----
-
-### 2026-06-05 14:21:50  #其他
-
-阿曼國家通訊社表示，米納阿勒法哈爾煉油廠運營一切正常。
-
----
-
-### 2026-06-05 14:21:30  #市場 #焦點
-
-恒生科技指數跌超2%，現報4875.480點；恒生指數現跌1.231%。
-
----
-
-### 2026-06-05 14:21:20  #Trading Economics #Markets #commodity #Importance 0
-
-Copper is down by 2% — Copper decreased 2% to 6.3807 USD/Lbs
-
----
-
-### 2026-06-05 14:21:05  #MKT News #Important #Macro & Rates #US Economy
-
-【Institutional forecasts for U.S. May unemployment rate (prior 4.3%)】Consensus clustered at 4.3% (Refinitiv 4.3%). Danske Bank is the low outlier at 4.2%; Sparta Securities, Capital Economics, Oxford Economics, Pantheon Macroeconomics, Standard Chartered, TD Securities and Wells Fargo sit at 4.4%. Major banks forecasting 4.3% include ANZ, ABN AMRO Bank, BNP Paribas SA, Barclays, BofA, Citigroup, Commerzbank, Daiwa Capital, DekaBank, Deutsche Bank, Goldman Sachs, Helaba, HSBC, ING, JP Morgan, Jefferies, Mizuho, Morgan Stanley, Nomura, UBS and Lianxin Bank.
-
----
-
-### 2026-06-05 14:20:24  #MKT News
-
-Australia's S&P/ASX 200 closed down 62.60 points (0.72%) at 8,623.50 on Friday, June 5.
-
----
-
-### 2026-06-05 14:20:22  #MKT News #AIR.PA #Impact bullish
-
-Airbus booked 379 orders in May and delivered 81 aircraft. Year-to-date 2026 deliveries stand at 262 aircraft.
-
----
-
-### 2026-06-05 14:19:49  #公司 #國際
-
-一名政府官員表示，泰國消費者保護委員會將就電池相關起火事件，將沃爾沃汽車泰國當地分公司告上法庭。
-
----
-
-### 2026-06-05 14:19:36  #Trading Economics #Markets #China #stocks #Importance 1
-
-Zijin Mining Stock Price Hits 10-week Low — Zijin Mining shares decreased to 29.88 CNY, the lowest since March 2026. Over the past 4 weeks, Zijin Mining Group lost 12.63%, and in the last 12 months, it increased 64.77%.
-
----
-
-### 2026-06-05 14:19:03  #公司
-
-【對話騰訊湯道生：WorkBuddy等AI智慧體還在投入階段，未設商業化目標】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生談及AI產品定價問題時表示，“不好點評其他廠商的降價策略，但是行業大趨勢肯定是希望token推理成本在不斷降低，同時也有一些特別難的問題，需要更大的模型，當然這個成本就會高，大家的定價策略也會有所不同。”騰訊對於AI智慧體產品是否設定了商業化目標？湯道生回應表示，“對於WorkBuddy這樣的AI智慧體，我們現在還是投入階段，所以並沒有給團隊設定商業化目標的KPI，不過同時我們也收到大量企業的客戶的反饋，都對它們很感興趣，在企業的場景裡有很多商業化的模式，有點像幾年前的騰訊會議，它既有一些to c的屬性，也有一些獨立屬性，我們會充分的發揮好它這個獨立的能力，來來搭建一個可持續發展的服務體系。”（新浪科技）
-
----
-
-### 2026-06-05 14:19:03  #MKT News #Important #Commodities #Precious Metals
-
-SHFE silver 2608 slid 3.41% to 17,236 yuan/kg. Turnover about 167.986 bln yuan; open interest rose nearly 9,600 contracts amid increased intraday volatility.
-
----
-
-### 2026-06-05 14:18:52  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell 1.00% intraday, slipping below $4,430/oz.
-
----
-
-### 2026-06-05 14:18:48  #市場 #焦點
-
-現貨黃金失守4430美元/盎司，日內跌1.01%。
-
----
-
-### 2026-06-05 14:18:32  #市場
-
-現貨黃金日內跌1%，現報4430.03美元/盎司。
-
----
-
-### 2026-06-05 14:18:18  #央行 #公司 #市場 #國際
-
-【報告：菲律賓央行6月加息可能依然有望進行】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管5月份通脹資料較為疲軟，但菲律賓央行6月份的加息似乎依然有望進行。該分析師表示，由於運輸成本下降，整體通脹有所降溫。不過她表示，食品通脹繼續推動整體價格上漲，並且似乎越來越廣泛地蔓延到大米以外的領域。她補充說，隨著化肥價格高企拖累負擔能力並推高非大米食品價格，通脹前景的風險依然堅定地偏向上行。荷蘭國際集團維持對菲律賓2026年消費者通脹率平均同比為5.8%的預測。該機構預計6月份將加息25個基點，如果美伊衝突沒有顯示出明顯的降溫進展且油價保持高位，則有可能加息50個基點。
-
----
-
-### 2026-06-05 14:18:09  #其他
-
-卡達航空計劃將飛往迪拜的航班增至每日五班。
-
----
-
-### 2026-06-05 14:17:57  #國際
-
-以色列要求黎巴嫩南部三個城鎮的居民撤離。
-
----
-
-### 2026-06-05 14:17:41  #公司
-
-【豆包已註冊多個諧音商標】據媒體報道，近日，有分析人士認為，位元組跳動過早地將盈利模式商業化，可能會使其在中國競爭激烈的消費人工智慧市場中失去領先地位。天眼查App顯示，豆包關聯公司北京春田知韻科技有限公司成立於2023年7月，法定代表人為嚴林，註冊資本100萬人民幣，經營範圍包括計算機系統服務、資料處理服務、軟體開發等，由北京抖音資訊服務有限公司全資持股。智慧財產權資訊顯示，該公司已成功註冊多枚“逗包”“逗寶”“豆抱”等商標，國際分類涉及辦公用品、網站服務等。
-
----
-
-### 2026-06-05 14:17:00  #市場
-
-紐約期銀日內跌3%，現報71.75美元/盎司。
-
----
-
-### 2026-06-05 14:16:48  #其他
-
-空客截至目前，2026年交付量：262架。
-
----
-
-### 2026-06-05 14:16:42  #市場
-
-現貨白銀日內跌3%，現報71.63美元/盎司。
-
----
-
-### 2026-06-05 14:16:34  #其他
-
-空客5月總訂單量：379架。
-
----
-
-### 2026-06-05 14:16:25  #其他
-
-空客5月交付量：81架。
-
----
-
-### 2026-06-05 14:16:22  #Trading Economics #Economy #South Africa #Foreign Exchange Reserves #Importance 1
-
-South Africa Forex Reserves Fall in May — Gross foreign exchange reserves in South Africa fell to $76.58 billion in May 2026 from $77.09 billion in the previous month, remaining at their lowest level since December 2025. The decline in gross reserves and international liquidity was mainly driven by a drop in the US dollar value of gold holdings and government-related foreign exchange outflows. Gold reserves decreased ($18.274 billion vs $18.700 billion in April), while foreign currency reserves also declined ($51.661 billion vs $51.725 billion). At the same time, the forward position, representing the central bank's unsettled forward or swap transactions, edged down to $0.584 billion from $0.586 billion in the previous month, while SDR holdings decreased by $0.016 billion to $6.648 billion from $6.664 billion.
 
 ---

@@ -1,7 +1,150 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:45:53_
-_本檔包含 3665 則快訊，約 706356 字_
+_更新時間：2026-06-08 00:46:44_
+_本檔包含 3638 則快訊，約 705756 字_
+
+---
+
+### 2026-06-02 07:00:22  #公司 #國際
+
+可口可樂公司正探索讓其印度最大裝瓶商的母公司——印度斯坦可口可樂控股私人有限公司在印度公開上市。
+
+---
+
+### 2026-06-02 07:00:08  #MKT News
+
+South Korea May CPI YoY 3.1% (exp. 3.0%; prior 2.6%).
+
+---
+
+### 2026-06-02 07:00:07  #MKT News
+
+South Korea May CPI MoM 0.5% (consensus 0.3%; prior 0.5%).
+
+---
+
+### 2026-06-02 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (MoM) (May) | actual 0.5% | consensus 0.30% | previous 0.50%
+
+---
+
+### 2026-06-02 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (YoY) (May) | actual 3.1% | consensus 3.00% | previous 2.60%
+
+---
+
+### 2026-06-02 06:57:35  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Muted in Morning Trade — The NZX 50 was almost flat, trading around 13,242 in Tuesday morning trade, after gaining in the previous session, as traders resumed activity following a holiday on Friday, with gains in energy, consumer discretionary, and utilities offset by declines in communication services, materials, and healthcare. The broader index pulled back from its highest level since May 7, reached on Friday, as traders continued to assess comments from RBNZ Governor Anna Breman, who said last week that the Official Cash Rate is likely to rise sooner and more sharply than previously indicated. Caution also prevailed ahead of the release of the US PMI and jobless claims figures due later this week. However, a rally on Wall Street overnight lifted sentiment, supported by optimism that the US and Iran will end the war. Ebos Group gained 1.6%, AFT Pharmaceuticals rose 1.3%, and Auckland International Airport climbed 1.0%, while Chorus and Fisher & Paykel fell 1.2% and 0.8%, respectively.
+
+---
+
+### 2026-06-02 06:56:01  #其他
+
+澳大利亞競爭與消費者委員會（ACCC）正對線上向澳大利亞消費者銷售、含小型強磁體的違禁高危玩具及桌遊展開供應調查，已要求採取額外措施，防止賣家重新上架相同或類似商品。
+
+---
+
+### 2026-06-02 06:53:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【US-Iran talks hit setbacks; market optimism may fade】Oil steadied after its largest one-month gain as renewed uncertainty over US‑Iran talks raised the risk of prolonged Gulf supply disruption. US media quoted Trump saying a memorandum on reopening the Strait of Hormuz could be reached within a week, but Washington still needs to finalise several details. Earlier reports said Iran halted talks, threatened to block the Bab al‑Mandeb and planned a full closure of the Strait of Hormuz. CIBC senior energy trader Rebecca Babin warned that if negotiations stall, the market’s prior pricing “cushion” tied to a best‑case outcome would evaporate, and that repeated reversals mean nothing is certain.
+
+---
+
+### 2026-06-02 06:53:25  #MKT News
+
+Confirmed Ebola cases in the Democratic Republic of the Congo rose to 321.
+
+---
+
+### 2026-06-02 06:53:16  #MKT News #Commodities #Energy
+
+Sevastopol in Crimea, currently under Russian control, will attempt to resume normal fuel sales on Wednesday.
+
+---
+
+### 2026-06-02 06:52:54  #公司
+
+澳大利亞競爭與消費者監管委員會（ACCC）已向亞馬遜、eBay、科根（Kogan）和弗魯戈（Fruugo）發出下架要求，要求上述平臺移除含潛在致命危險小磁鐵的玩具與遊戲產品。
+
+---
+
+### 2026-06-02 06:52:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran says it will 'use all capabilities' to defend its interests if necessary】Iran's foreign ministry on the 1st condemned continued US and Israeli violations of the ceasefire, saying any breach on any front constitutes a violation of the entire ceasefire arrangement. It reiterated the April 8 ceasefire — including its application to Lebanon — and said the US must be held responsible for its own violations and accountable for Israeli actions. The statement added Iran would, under the right of self‑defense in international law, "use all capabilities to defend its interests" if necessary.
+
+---
+
+### 2026-06-02 06:52:25  #MKT News
+
+Sevastopol in Crimea, currently under Russian control, will impose fuel sale limits on Tuesday.
+
+---
+
+### 2026-06-02 06:52:21  #國際
+
+俄羅斯管控下的克里米亞塞瓦斯托波爾將於週三嘗試恢復正常燃油銷售。
+
+---
+
+### 2026-06-02 06:52:03  #國際
+
+俄羅斯管控下的克里米亞半島塞瓦斯托波爾當地官員表示，週二當地燃油銷售將實施限流。
+
+---
+
+### 2026-06-02 06:51:25  #國際
+
+【伊朗：必要情況下“動用一切能力捍衛自身利益”】伊朗外交部1日發表宣告，譴責美國和以色列持續違反停火協議，強調任何戰線上的停火遭到破壞，都意味著違背整體停火安排，並表示伊朗將在必要情況下“動用一切能力捍衛自身利益”。（新華社）
+
+---
+
+### 2026-06-02 06:49:49  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、試點城市福州長護險基金結餘達八億元 每月超千元長護險待遇如何撬動（政策解讀·聚焦）
+2、5部門印發指南 非化石能源電力消費核算有了統一“標尺”
+3、《網際網路資訊內容多渠道分發服務管理規定》公佈
+4、8部門發文支援新功能海洋保健食品研製
+5、河北邯鄲工業品銷售新模式帶動產業走上新路子——上鍊接！重卡開進直播間（經濟聚焦）
+6、小玩偶也能“玩”成大產業（經濟時評）
+7、對隨身登機行李收費，有依據嗎（有問有答）
+8、晝保通行、夜保施工 獨庫公路6月1日起恢復通車
+9、國務院關於對外投資的規定。
+
+---
+
+### 2026-06-02 06:49:39  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、實施青年就業、創業、生活、成長四大友好行動 湖南廣大青年奮進新徵程建功立業
+2、傳承紅色基因，跑好歷史接力賽——習近平總書記的回信激勵廣大少年兒童和少年兒童工作者奮鬥逐夢
+3、李強簽署國務院令 公佈《國務院關於對外投資的規定》
+4、開天闢地記（偉大征程）
+5、韓正會見巴西外長維埃拉
+6、寧電入閩傳送通道開啟
+7、我國兒童健康水平顯著提升。
+
+---
+
+### 2026-06-02 06:49:08  #焦點 #國際
+
+【特朗普週一表態彙總】
+美國總統特朗普週一表態彙總如下：
+稱美伊諒解備忘錄可能在“接下來一週”完成；
+與伊朗的談判正在快速繼續進行；
+將繼續封鎖霍爾木茲海峽；
+與以色列總理內塔尼亞胡進行了富有成效的通話；
+以色列和黎巴嫩同意停止一切交火；
+不擔心油價，油價近期將暴跌。
+
+---
+
+### 2026-06-02 06:46:33  #國際
+
+法國常駐聯合國代表：以色列的長久安全既不能依靠戰爭，也無法依託領土佔領。
 
 ---
 
@@ -21834,287 +21977,5 @@ French President Macron said he spoke with the Saudi crown prince, the Sultan of
 ### 2026-06-01 00:48:04  #國際
 
 法國總統馬克龍：與沙烏地阿拉伯王儲穆罕默德·本·薩勒曼、阿曼蘇丹海賽姆·本·塔裡克、阿聯酋總統穆罕默德·本·扎耶德和埃及總統阿卜杜勒·法塔赫·塞西通了電話。
-
----
-
-### 2026-06-01 00:42:07  #國際
-
-特朗普：白宮宴會廳的無人機管控場站，或將成為全球技術最頂尖的同類設施。它將長久守護美國首都華盛頓特區的安全。
-
----
-
-### 2026-06-01 00:41:21  #國際
-
-伊朗革命衛隊海軍部隊副司令：我們將戰鬥到最後一刻，粉碎敵人的野心和侵犯行為。
-
----
-
-### 2026-06-01 00:38:43  #國際
-
-伊朗總統：面對重大挑戰，不可能不經歷艱難困苦。唯有依靠全民的共識與協作，才能走完這條充滿起伏的道路。我們必須向民眾闡明現實情況，推動社會各階層共同參與解決問題。共同的痛苦，永遠無法靠各自為戰來治癒。
-
----
-
-### 2026-06-01 00:36:49  #國際
-
-特朗普在真相社交平臺轉發了紐特・金裡奇的帖文，後者稱特朗普即將在伊朗問題上取得歷史性勝利。
-
----
-
-### 2026-06-01 00:33:50  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel's Channel 12 reports Prime Minister Netanyahu is convening a security assessment meeting on Lebanon.
-
----
-
-### 2026-06-01 00:26:50  #其他
-
-緬甸某地區一座村莊發生爆炸，造成至少55人死亡，另有數十人受傷。
-
----
-
-### 2026-06-01 00:24:28  #其他
-
-波羅的海交易所資料顯示航運市場表現分化，好望角型船波羅的海乾散貨指數（BCI）182 期租運價突破5萬美元。
-
----
-
-### 2026-06-01 00:21:23  #公司 #焦點 #國際
-
-美國證券交易委員會提議廢除上市公司氣候變化資訊披露相關規定。
-
----
-
-### 2026-06-01 00:20:23  #國際
-
-市場資訊：美國國會推進美以兩軍實現正式層面的深度融合。
-
----
-
-### 2026-06-01 00:19:25  #MKT News #XAUUSD #Impact bullish #WTI
-
-Israel Defense Forces said it intercepted two missiles launched from Lebanon after alerts sounded across multiple areas in northern Israel.
-
----
-
-### 2026-06-01 00:15:53  #國際
-
-聯合國安理會明日將召開會議，討論以色列在黎巴嫩的軍事行動進展。
-
----
-
-### 2026-06-01 00:15:35  #MKT News #WTI #Impact bullish #Brent
-
-UN Security Council to hold emergency meeting on Monday to discuss latest developments in Lebanon.
-
----
-
-### 2026-06-01 00:11:44  #國際
-
-真主黨：用導彈對以色列敵人在黎巴嫩南部的Al-Qawzah鎮集會進行了炮擊。
-
----
-
-### 2026-06-01 00:11:33  #國際
-
-真主黨：在黎巴嫩南部迪巴勒鎮，用兩架攻擊無人機針對以色列敵人兩輛尼姆拉型裝甲車進行了打擊。
-
----
-
-### 2026-06-01 00:11:22  #MKT News
-
-Israel Defense Forces said it struck Hezbollah weapons depots, manned command centers and other infrastructure in Tyre and other parts of southern Lebanon today.
-
----
-
-### 2026-06-01 00:10:48  #MKT News #XAUUSD #Impact bullish #DXY
-
-【IAEA: Attacks on nuclear facilities unacceptable, must stop】The IAEA said on May 31 its staff found external damage to a motor room at the Zaporizhzhia nuclear plant. Director General Rafael Grossi said attacks on nuclear facilities are unacceptable and must stop. Inspectors reported a damaged metal maintenance hatch above the motor room, debris and charred optical-fiber fragments on the ground; the damage pattern was consistent with a drone strike. No abnormal radiation levels were detected on site. Inspectors heard drone activity and gunfire nearby during the visit.
-
----
-
-### 2026-06-01 00:10:06  #國際
-
-一名美國官員：上週四名美國軍人和三名承包商在伊朗對科威特空軍基地的一次彈道導彈襲擊中受輕傷。
-
----
-
-### 2026-06-01 00:07:44  #國際
-
-以色列襲擊過後，伊朗已恢復南帕爾斯三座天然氣平臺的生產作業。
-
----
-
-### 2026-06-01 00:02:19  #宏觀 #國際
-
-【貝森特：伊朗襲擊波斯灣周邊鄰國是“重大失誤”】美國財政部長貝森特表示，伊朗襲擊波斯灣周邊鄰國是“重大失誤”，這使得地區盟友在凍結伊朗資金一事上與美方展開了更為密切的合作。貝森特在接受福克斯新聞採訪時稱：“以往不少盟友對於本國銀行體系內的伊朗資金，並未對我們完全坦誠。如今這些國家態度大變，主動配合移交相關賬戶，協助我們凍結、查封資金賬戶。”他補充道：“此外還有全面封鎖舉措。一方面是針對資金的經濟封鎖，另一方面是針對航運的實體封鎖，往來伊朗港口的船舶通行受阻。”貝森特指出：“哈爾克島現已停運。這裡是伊朗主要的石油裝卸基地，這也意味著伊朗不得不關停部分油井。”
-
----
-
-### 2026-06-01 00:01:37  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-The Israeli Defense Forces said it has killed 900 Hezbollah members since the ceasefire began and struck dozens of Hezbollah infrastructure sites this morning.
-
----
-
-### 2026-06-01 00:00:02  #國際
-
-烏克蘭從德國接收了IRIS-T型防空導彈發射平臺。
-
----
-
-### 2026-05-31 23:59:10  #市場
-
-隨著6月26日交割日臨近，受機構對沖需求推動，比特幣期貨未平倉合約規模達426億美元。
-
----
-
-### 2026-05-31 23:58:22  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said economic containment of Iran is a core element of the pressure campaign.
-
----
-
-### 2026-05-31 23:57:46  #MKT News #WTI #Impact bullish #Brent
-
-US Treasury Secretary Bessent said restoring fee-free passage through the Strait of Hormuz would be the first indicator of Iran's commitment.
-
----
-
-### 2026-05-31 23:57:27  #MKT News #WTI #Impact bullish #Brent #DXY
-
-U.S. Treasury secretary said opening the Strait of Hormuz and seizing Iran's nuclear stockpile are among the objectives.
-
----
-
-### 2026-05-31 23:57:11  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary Bessent said Iran is, for the first time in 47 years, prepared to abandon its nuclear program and that the U.S. will not accept an agreement that cannot ensure Iran is prevented from obtaining nuclear weapons.
-
----
-
-### 2026-05-31 23:56:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said the siege of Iran and efforts to block oil exports from Kharkiv continue.
-
----
-
-### 2026-05-31 23:56:18  #其他
-
-沙烏地阿拉伯4月份M3貨幣供應量同比增長10%。
-
----
-
-### 2026-05-31 23:55:18  #國際
-
-市場資訊：特朗普的移民行政令預計將推動穩定幣市場與比特幣取款機業務發展。
-
----
-
-### 2026-05-31 23:55:01  #央行 #國際
-
-美聯儲沃勒表示，穩定幣將擴大美國政策的影響力。
-
----
-
-### 2026-05-31 23:54:40  #國際
-
-以色列北部多夫地區拉響紅色警報。
-
----
-
-### 2026-05-31 23:54:17  #國際
-
-美國參議員林賽·格雷厄姆：任何限制以色列反擊真主黨或哈馬斯權利的協議都並不明智。
-
----
-
-### 2026-05-31 23:54:09  #國際
-
-美國參議員林賽·格雷厄姆：伊朗相關協議，不應與以色列繼續打擊真主黨和哈馬斯的行動許可權掛鉤。
-
----
-
-### 2026-05-31 23:54:02  #國際
-
-美國參議員林賽·格雷厄姆：特朗普僅應接受這樣的伊朗協議——徹底終止伊朗核企圖、打通霍爾木茲海峽、遏制其對“恐怖主義”的支援。
-
----
-
-### 2026-05-31 23:53:28  #國際
-
-美國參議員布克預計，共和黨對特朗普立法議程的反對聲音將會加劇。
-
----
-
-### 2026-05-31 23:53:02  #其他
-
-沙烏地阿拉伯4月份淨外國資產為1.768萬億沙特里亞爾（合4711.72億美元）。
-
----
-
-### 2026-05-31 23:51:44  #宏觀 #國際
-
-美國財政部長：伊朗準備在47年來首次放棄其核計劃。
-
----
-
-### 2026-05-31 23:51:39  #宏觀 #國際
-
-美國財政部長：我們不會接受任何無法確保阻止伊朗獲得核武器的協議。
-
----
-
-### 2026-05-31 23:51:19  #宏觀 #國際
-
-美國財政部長：對伊朗的經濟圍困是施壓運動的基本組成部分。
-
----
-
-### 2026-05-31 23:50:57  #宏觀 #國際
-
-美國財政部長：霍爾木茲海峽恢復免費通航，將是伊朗展現誠意的首要訊號。
-
----
-
-### 2026-05-31 23:50:40  #宏觀 #國際
-
-美國財政部長：打通霍爾木茲海峽、收繳伊朗核燃料儲備均在我方目標之列。
-
----
-
-### 2026-05-31 23:50:28  #MKT News
-
-Israel Defense Forces: air-raid sirens sounded across multiple locations in northern Israel; cause and details under review.
-
----
-
-### 2026-05-31 23:48:56  #MKT News
-
-Zelenskiy said the cooperation has huge potential and could become the strongest project of its kind globally, urging negotiations to move beyond talks, necessary measures to be taken and rapid implementation.
-
----
-
-### 2026-05-31 23:48:33  #MKT News #Market Themes #AI Revolution
-
-Ukrainian President Zelenskiy said US companies possess advanced AI technologies Ukraine lacks; conversely, Ukraine's extensive combat experience has produced capabilities and expertise Americans do not have.
-
----
-
-### 2026-05-31 23:48:22  #MKT News
-
-ZELENSKIY said Ukraine has reached drone agreements with several Middle Eastern and European countries, is preparing a larger drone deal with the EU, and hopes to secure a similar agreement with US partners.
-
----
-
-### 2026-05-31 23:48:12  #MKT News
-
-Ukraine President Zelenskiy said Kyiv had sought an initial drone agreement with the US; Washington wants to test all types of Ukrainian drones, and Kyiv has agreed to US-proposed testing, training and use of its systems in air, land and maritime environments.
-
----
-
-### 2026-05-31 23:48:06  #MKT News
-
-Ukrainian President Zelenskiy said Ukraine has not yet signed a bilateral drone agreement with the United States — a large, framework-level document.
 
 ---

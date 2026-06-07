@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:45:53_
-_本檔包含 3998 則快訊，約 706830 字_
+_更新時間：2026-06-08 00:46:44_
+_本檔包含 4010 則快訊，約 706192 字_
+
+---
+
+### 2026-06-04 10:27:20  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+【TSMC sees 2026 revenue rising over 30% as AI infrastructure demand spurs capacity build】TSMC (TSM.N) said on Thursday that sustained investment in AI infrastructure has driven strong demand across chip segments and it now expects U.S. dollar-denominated revenue to rise more than 30% in 2026, in line with its recent earnings-call guidance and up from a 25% projection in January. The company is expanding capacity to meet unprecedented demand for large-scale AI compute. Chairman and CEO Wei Zhejia warned that continued electronic component price inflation could hurt the consumer electronics sector and said recent Middle East tensions add further uncertainty to the outlook.
+
+---
+
+### 2026-06-04 10:27:16  #公司 #市場
+
+【半導體材料板塊短線拉昇】半導體材料板塊短線拉昇，滬矽產業漲超10%，有研矽、艾森股份、立昂微、路維光電、中晶科技等跟漲。
+
+---
+
+### 2026-06-04 10:27:04  #國際
+
+印尼基準股指跌幅擴大至3%。
+
+---
+
+### 2026-06-04 10:26:57  #國際
+
+印尼基準股指跌幅達2.9%，報5766.848點。
+
+---
+
+### 2026-06-04 10:26:02  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish
+
+TSMC said its CoPoS advanced packaging technology has a pilot production line and the company expects CoPoS output to rise materially over the next two to three years.
+
+---
+
+### 2026-06-04 10:25:33  #公司
+
+臺積電執行長表示：CoPoS先進封裝技術已有試點生產線，我們預計CoPoS的產量將在兩到三年內顯著提升。
+
+---
+
+### 2026-06-04 10:24:03  #MKT News #Market Regions #Emerging Markets
+
+Indonesia's benchmark stock index fell more than 2%.
+
+---
+
+### 2026-06-04 10:23:54  #公司
+
+【臺積電魏哲家：預計今年全年營收成長仍將超過30%】臺積電召開股東會，針對AI需求，董事長魏哲家指出，從生成式AI、查詢模式，進一步轉向代理式AI與指令行動模式，正推升大型語言模型處理文字所需的token消耗量，也使運算能力需求持續成長，進一步支撐先進半導體需求。公司客戶以及客戶的客戶，仍持續給予對AI產業的正面展望。魏哲家強調，臺積電仍對未來數年AI大趨勢保持信心，半導體需求也具備根本性支撐。在技術差異化與廣泛客戶群支援下，公司維持強勁信心，若以美元計算，預計今年全年營收成長仍將超過30%。
+
+---
+
+### 2026-06-04 10:23:31  #市場 #國際
+
+印度尼西亞股市基準指數下跌 2%，報5820.41 點。
+
+---
+
+### 2026-06-04 10:22:57  #國際
+
+【初步結果顯示韓國執政黨鎖定地方選舉勝局】據韓國方面6月4日訊息，根據初步開票結果，韓國執政黨共同民主黨在3日舉行的第九屆地方選舉中鎖定勝局，贏得多數道、市、郡、區等各級政府的行政長官職位。訊息稱，截至4日凌晨，在本次選出的16個道知事和廣域市市長職位中，共同民主黨已在京畿道、仁川等13地取得勝利或保持領先，而最大在野黨國民力量黨預計僅能拿下大邱、慶尚北道和慶尚南道三地。（央視新聞）
+
+---
+
+### 2026-06-04 10:22:20  #央行 #日本央行
+
+日本內閣官房長官木原稔表示，預計央行將採取適當的貨幣政策，在與政府密切合作的同時，可持續、穩定地實現其物價目標。
+
+---
+
+### 2026-06-04 10:22:16  #國際
+
+【伊媒發哈梅內伊父子罕見合照】伊朗《德黑蘭時報》3日在社交媒體釋出了一張已故伊朗最高領袖阿里·哈梅內伊和他的兒子、新任伊朗最高領袖穆傑塔巴·哈梅內伊的合照。 據報道，在這張“罕見”照片中，兩人並肩而行，似乎正在交談。 帖文中沒說明這張照片於何時何地拍攝。（中新網）
+
+---
+
+### 2026-06-04 10:21:34  #公司 #市場
+
+【超級電容概念再度走強 江海股份漲停續創歷史新高】超級電容概念再度走強，江海股份漲停，續創歷史新高，此前華鋒股份、祥和實業漲停，龍辰科技漲超10%，艾華集團、元力股份、新宙邦等跟漲。
+
+---
+
+### 2026-06-04 10:21:33  #MKT News
+
+A-share supercapacitor concept stocks rallied again. Jianghai Co. hit the daily limit and made a fresh record high; earlier Huafeng Co. and Xianghe Industrial also hit limit-up. Longchen Technology rose over 10%; Aihua Group, Yuanli Co. and New Zoubang advanced.
+
+---
+
+### 2026-06-04 10:20:30  #MKT News #DXY #Impact bullish
+
+USD/CAD rose above 1.39 for the first time since April 7, gaining 0.02% on the day.
+
+---
+
+### 2026-06-04 10:19:18  #國際
+
+【歐盟提出“技術主權”一攬子方案，強調“自主性”】當地時間6月3日，歐盟委員會公佈“歐洲技術主權一攬子方案”，提出加強人工智慧、半導體、雲端計算和開源等領域能力，以期增強歐洲數字自主性和韌性。公報說，一攬子方案將有助於擴大歐盟企業、公民和公共行政部門在核心技術方面的選擇範圍。（央視新聞）
+
+---
+
+### 2026-06-04 10:19:10  #國際
+
+【澤連斯基說願即刻與普京直接談判】當地時間6月3日，烏克蘭總統澤連斯基表態稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基著重強調了談判的緊迫性，指出烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題，希望依託俄烏兩國最高層級直接對話，加速止戰程序。(CCTV國際時訊)
+
+---
+
+### 2026-06-04 10:18:20  #國際 #原創
+
+【AI熱潮造富：去年200萬人晉身百萬美元富豪，高淨值人士總財富超98萬億美元】全球可投資資產總額至少100萬美元的人去年財富增加了近9%。根據法國IT和顧問公司凱捷(Capgemini)的一份報告，2025年，全球高淨值人士的財富總額將達到創紀錄的98.3萬億美元。報告稱，受AI樂觀情緒推動的股市上漲，是財富增加的主要引擎，幫助全球百萬美元富豪人數增加近200萬人，達到創紀錄的2530萬人。資產仍然高度集中在超級富豪手中。淨資產超過3,000萬美元的超高淨值人士，財富增長速度在所有財富階層中最為迅猛，這個族群的人數已達到創紀錄的25萬人。根據凱捷的報告，美國在2025年新增73.6萬名百萬富豪，總數達到870萬人。高淨值人士的財富比前一年增長了10%。
+
+---
+
+### 2026-06-04 10:18:20  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-06-04 10:17:37  #公司 #市場
+
+【光刻機概念震盪走強 新萊應材漲超12%】光刻機概念震盪走強，新萊應材漲超12%，波長光電、藍英裝備、富創精密、海立股份跟漲。
+
+---
+
+### 2026-06-04 10:15:27  #公司 #國際
+
+【檔案顯示特朗普政府多名官員持有SpaceX股份】據報道，財務披露檔案顯示，包括總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，特朗普政府10名官員申報持有SpaceX或xAI的權益。檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。此後，這些官員可能已出售其全部或部分持股，而未觸發額外披露要求。
+
+---
+
+### 2026-06-04 10:15:08  #MKT News
+
+【Strong solar flare; NOAA issues geomagnetic storm warning】NASA said on the 3rd a strong solar flare peaked at 07:28 ET (19:28 Beijing) and was classified X1.0. NOAA has issued a strong geomagnetic storm warning, expected to persist through the 5th. The storm may disrupt communications, power grids, navigation, radio and satellite operations. Auroras could be visible across multiple northern US states and parts of the Midwest.
+
+---
+
+### 2026-06-04 10:15:03  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: Indonesian Rupiah Depreciates by 0.34% — Top currency loser is Indonesian Rupiah (-0.34%). Gains are led by South Korean Won (0.29%), Japanese Yen (0.11%) and Chinese Yuan (0.06%).
+
+---
+
+### 2026-06-04 10:14:57  #MKT News
+
+Indonesia's benchmark stock index extended losses to 1.5% at 5,849.862 points.
+
+---
+
+### 2026-06-04 10:14:52  #國際
+
+【太陽爆發強烈耀斑 美機構釋出地磁暴預警】美國航空航天局3日表示，太陽當天爆發一次強烈耀斑。美國國家海洋和大氣管理局已釋出強地磁暴預警，預計相關影響將持續至5日。據介紹，此次耀斑於美國東部時間3日上午7時28分（北京時間3日19時28分）達到峰值。耀斑被歸類為X1.0級，其中X級為太陽耀斑中強度最高等級，其後的數字用於進一步說明其能量強度。
+
+---
+
+### 2026-06-04 10:14:48  #MKT News #TSM.N #Impact bullish
+
+TSMC (TSM.N) CEO said Taiwan hosts the company’s best talent, its core R&D and its largest production base.
 
 ---
 
@@ -23990,89 +24146,5 @@ The regional governor said Russian forces shot down three drones over Leningrad 
 ### 2026-06-03 09:00:25  #MKT News #CSI300 #Impact bearish #SSE Composite
 
 FTSE China A50 index futures opened down 0.16%.
-
----
-
-### 2026-06-03 09:00:23  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
-
-At the open, China's most-active futures contracts were mixed with gains outnumbering losses. Shanghai tin rose over 2%; 20# rubber jumped nearly 2%; Shanghai zinc, LME copper, Shanghai copper and coke advanced more than 1%; other rubber contracts, aluminum alloy and Shanghai aluminum gained about 1%. On the downside, container freight on the Europe route fell over 2%; polysilicon, asphalt and alumina dropped more than 1%; methanol slipped about 1%.
-
----
-
-### 2026-06-03 09:00:20  #其他
-
-【5月份中國物流業景氣指數為50.3% 重回擴張區間】中國物流與採購聯合會今天（3日）公佈5月份中國物流業景氣指數。5月份，物流業務需求穩中有升，物流業景氣指數重回擴張區間。5月份中國物流業景氣指數為50.3%，較上月上升0.6個百分點，重回擴張區間。分項指數中，大多數較上月有所回升。其中，業務總量指數、新訂單指數、固定資產投資完成額指數、從業人員指數等均位於擴張區間。5月份新訂單指數為50.2%，連續三個月回升。
-
----
-
-### 2026-06-03 09:00:17  #市場 #焦點
-
-PTA連續主力合約日內漲1%，現報6290.00元。
-
----
-
-### 2026-06-03 09:00:03  #市場
-
-【商品期貨開盤】集運指數歐線期貨連續跌2.31%，錫連續漲2.24%，20號膠連續漲1.82%，滬鋅連續漲1.65%，多晶矽連續跌1.35%。
-
----
-
-### 2026-06-03 09:00:02  #市場
-
-富時中國A50指數期貨開盤下跌0.15%。
-
----
-
-### 2026-06-03 08:59:42  #公司
-
-【阿里副總裁張凱夫離職創業】據悉，阿里副總裁張凱夫已經離職創業，方向是構建面向市場的世界模型。張凱夫在社交媒體發文稱，預測集體人類行為，尤其是市場行為，是人工智慧尚未征服的終極超能力挑戰之一。他相信目前正是啟程之時，並招募相關人才加入。
-
----
-
-### 2026-06-03 08:59:19  #央行 #市場 #國際
-
-【亞洲央行政策立場轉趨鷹派 AI熱潮和原油衝擊加劇通脹壓力】亞洲央行面臨的貨幣政策從緊壓力越來越大，目前地區正困在能源短缺和AI熱潮之間，這兩種因素疊加可能會使通脹居高不下。亞洲尤其易受衝擊，因為這裡是全球製造業和技術供應鏈的中心，同時又嚴重依賴進口能源，這導致政策制定者面臨成本推動型和需求驅動型通脹雙重壓力的罕見局面。這兩重因素共同增強了升息情境。印度和日本可能在本月提高借貸成本，韓國預計將在7月跟進。印尼和斯里蘭卡已經大幅加息，而澳大利亞今年已加息三次。在數月對伊朗戰爭帶來的經濟影響進行觀望後，決策者正轉向應對通貨膨脹的模式，衝突解決方案的不確定引發了人們對亞洲燃料成本持續上漲的擔憂，而亞洲嚴重依賴霍爾木茲海峽運輸的供應。與此同時，今年全球對人工智慧的需求激增，刺激了經濟活動，這可能會波及發達亞洲晶片製造巨頭的消費價格。
-
----
-
-### 2026-06-03 08:57:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【China two-exchange margin financing balance rises CNY 1.338 bln】As of June 2, Shanghai Stock Exchange margin financing balance was CNY 1,469.025 bln, up CNY 835 mln from the prior trading day; Shenzhen Stock Exchange was CNY 1,406.806 bln, up CNY 503 mln; combined margin financing balance CNY 2,875.831 bln, up CNY 1.338 bln.
-
----
-
-### 2026-06-03 08:56:19  #公司 #國際
-
-【貿易商：阿布扎比國家石油公司經阿曼替代航線恢復石腦油出口】據貿易商訊息，隨著阿布扎比國家石油公司（ADNOC）5 月起經由阿曼蘇哈爾港重啟出口，亞洲石腦油價格跌至 3 月初以來低位；這條替代航線能夠緩解因美以對伊朗戰事引發的供應緊缺問題。受戰事影響霍爾木茲海峽航運受限，該公司 4 月暫停魯韋斯煉廠每月約 100 萬噸石化原料石腦油的外運。這家阿聯酋油企上月恢復出口：先用油輪在波斯灣內從煉廠裝運貨品，再駛往蘇哈爾港，透過船對船過駁換裝至其他油輪發往亞洲。這套變通方案為不願冒險穿行霍爾木茲海峽的採購方開闢備選供貨通道，提升該油品對亞洲的到貨量。
-
----
-
-### 2026-06-03 08:54:40  #Trading Economics #Economy #Japan #Services PMI #Importance 1
-
-Stagnation in Japan Service Sector Confirmed — Japan’s S&P Global Services PMI was at 50.0 in May 2026, aligning with the preliminary estimate and marking its lowest level since March 2025. The reading ended a 13-month run of expansion, pointing to stagnation in the services sector. Growth in new orders slowed to its weakest pace since the current cycle began near two years ago. Export orders fell at the fastest rate in more than four years, underscoring softer overseas appetite. Employment growth eased to a nine-month low, while backlogs of work rose modestly. Cost pressures mounted, with input prices increasing the most in 43 months, driven by higher fuel, energy, and raw material costs amid supplier hikes linked to Middle East tensions. Rising labor expenses added to the squeeze, prompting firms to raise selling prices at a near-record pace. Lastly, sentiment improved for a second month but stayed below post-pandemic norms, with companies citing geopolitical risks, elevated costs, and demographic headwinds from aging population.
-
----
-
-### 2026-06-03 08:54:16  #市場 #國際
-
-日本東證股價指數漲幅進一步擴大，最新上漲1.6%，報3986.61點。
-
----
-
-### 2026-06-03 08:54:02  #MKT News #Market Themes #AI Revolution
-
-People familiar with the matter said SpaceX plans to use IPO proceeds to expand AI computing capacity and its satellite network.
-
----
-
-### 2026-06-03 08:53:02  #宏觀
-
-【鄭柵潔主任主持召開國有企業座談會 圍繞深化國資國企改革及推動國有企業更好服務國家重大戰略聽取意見建議】6月2日，國家發展改革委主任鄭柵潔主持召開國有企業座談會。會上，相關企業負責人圍繞主題介紹了當前生產經營、深化改革、面臨問題困難等情況，並提出意見建議。參會企業表示，將堅決貫徹落實習近平總書記重要指示精神，按照黨中央和國務院部署，不斷深化企業改革激發發展動力；帶頭融入全國統一大市場建設，加快構建現代流通網路，有效降低全社會物流成本；圍繞國家“雙碳”目標等戰略部署，加強資源迴圈利用，深入推進煤炭清潔低碳利用，紮實推進煤化工產業高質量發展，保障重要能源供應安全。鄭柵潔認真傾聽每位企業負責人的發言，與大家深入互動交流，逐一回應關切。他表示，習近平總書記關於深化國資國企改革的系列重要論述，是我們謀劃企業發展、推動工作落實的根本遵循。今年是“十五五”開局之年，貫徹落實黨中央和國務院關於進一步深化國資國企改革的部署，要堅持目標導向和問題導向，推進國有經濟佈局最佳化和結構調整，提升國有企業科技創新、產業控制、安全支撐功能，激發國有企業內生動力活力；要主動服務全國統一大市場建設，帶頭維護統一市場基礎制度、助力形成統一市場基礎設施，服務構建現代流通網路；要認真落實“雙碳”戰略，推動綠色低碳發展，促進煤炭清潔高效利用，促進行業綠色低碳轉型，有力保障能源安全；要在支援和帶動民營企業、中小微企業發展上做好表率，促進各種所有制經濟優勢互補、共同發展。(發改委)
-
----
-
-### 2026-06-03 08:53:00  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Pressured by Strong US Jobs Data — Silver prices held near $75 per ounce on Wednesday, struggling to gain traction as stronger-than-expected US labor market data reinforced expectations that the Federal Reserve may keep interest rates elevated for an extended period. Data released on Tuesday showed US job openings surged in April to their highest level in nearly two years, while layoffs declined, pointing to continued resilience in the labor market. Investors are now focused on Friday’s closely watched nonfarm payrolls report for further clues on the trajectory of monetary policy. Meanwhile, ongoing uncertainty surrounding US-Iran peace negotiations contributed to higher oil prices, fueling concerns about inflation and strengthening the case for a more restrictive Fed stance. Still, President Donald Trump stated that talks remain underway, while reports suggest Iranian officials are reviewing a “final text” that could be submitted to the US as negotiations continue.
 
 ---

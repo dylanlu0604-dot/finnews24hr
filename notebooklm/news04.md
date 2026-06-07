@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:45:53_
-_本檔包含 3805 則快訊，約 705898 字_
+_更新時間：2026-06-08 00:46:44_
+_本檔包含 3799 則快訊，約 706690 字_
+
+---
+
+### 2026-06-03 09:00:23  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
+
+At the open, China's most-active futures contracts were mixed with gains outnumbering losses. Shanghai tin rose over 2%; 20# rubber jumped nearly 2%; Shanghai zinc, LME copper, Shanghai copper and coke advanced more than 1%; other rubber contracts, aluminum alloy and Shanghai aluminum gained about 1%. On the downside, container freight on the Europe route fell over 2%; polysilicon, asphalt and alumina dropped more than 1%; methanol slipped about 1%.
+
+---
+
+### 2026-06-03 09:00:20  #其他
+
+【5月份中國物流業景氣指數為50.3% 重回擴張區間】中國物流與採購聯合會今天（3日）公佈5月份中國物流業景氣指數。5月份，物流業務需求穩中有升，物流業景氣指數重回擴張區間。5月份中國物流業景氣指數為50.3%，較上月上升0.6個百分點，重回擴張區間。分項指數中，大多數較上月有所回升。其中，業務總量指數、新訂單指數、固定資產投資完成額指數、從業人員指數等均位於擴張區間。5月份新訂單指數為50.2%，連續三個月回升。
+
+---
+
+### 2026-06-03 09:00:17  #市場 #焦點
+
+PTA連續主力合約日內漲1%，現報6290.00元。
+
+---
+
+### 2026-06-03 09:00:03  #市場
+
+【商品期貨開盤】集運指數歐線期貨連續跌2.31%，錫連續漲2.24%，20號膠連續漲1.82%，滬鋅連續漲1.65%，多晶矽連續跌1.35%。
+
+---
+
+### 2026-06-03 09:00:02  #市場
+
+富時中國A50指數期貨開盤下跌0.15%。
+
+---
+
+### 2026-06-03 08:59:42  #公司
+
+【阿里副總裁張凱夫離職創業】據悉，阿里副總裁張凱夫已經離職創業，方向是構建面向市場的世界模型。張凱夫在社交媒體發文稱，預測集體人類行為，尤其是市場行為，是人工智慧尚未征服的終極超能力挑戰之一。他相信目前正是啟程之時，並招募相關人才加入。
+
+---
+
+### 2026-06-03 08:59:19  #央行 #市場 #國際
+
+【亞洲央行政策立場轉趨鷹派 AI熱潮和原油衝擊加劇通脹壓力】亞洲央行面臨的貨幣政策從緊壓力越來越大，目前地區正困在能源短缺和AI熱潮之間，這兩種因素疊加可能會使通脹居高不下。亞洲尤其易受衝擊，因為這裡是全球製造業和技術供應鏈的中心，同時又嚴重依賴進口能源，這導致政策制定者面臨成本推動型和需求驅動型通脹雙重壓力的罕見局面。這兩重因素共同增強了升息情境。印度和日本可能在本月提高借貸成本，韓國預計將在7月跟進。印尼和斯里蘭卡已經大幅加息，而澳大利亞今年已加息三次。在數月對伊朗戰爭帶來的經濟影響進行觀望後，決策者正轉向應對通貨膨脹的模式，衝突解決方案的不確定引發了人們對亞洲燃料成本持續上漲的擔憂，而亞洲嚴重依賴霍爾木茲海峽運輸的供應。與此同時，今年全球對人工智慧的需求激增，刺激了經濟活動，這可能會波及發達亞洲晶片製造巨頭的消費價格。
+
+---
+
+### 2026-06-03 08:57:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【China two-exchange margin financing balance rises CNY 1.338 bln】As of June 2, Shanghai Stock Exchange margin financing balance was CNY 1,469.025 bln, up CNY 835 mln from the prior trading day; Shenzhen Stock Exchange was CNY 1,406.806 bln, up CNY 503 mln; combined margin financing balance CNY 2,875.831 bln, up CNY 1.338 bln.
+
+---
+
+### 2026-06-03 08:56:19  #公司 #國際
+
+【貿易商：阿布扎比國家石油公司經阿曼替代航線恢復石腦油出口】據貿易商訊息，隨著阿布扎比國家石油公司（ADNOC）5 月起經由阿曼蘇哈爾港重啟出口，亞洲石腦油價格跌至 3 月初以來低位；這條替代航線能夠緩解因美以對伊朗戰事引發的供應緊缺問題。受戰事影響霍爾木茲海峽航運受限，該公司 4 月暫停魯韋斯煉廠每月約 100 萬噸石化原料石腦油的外運。這家阿聯酋油企上月恢復出口：先用油輪在波斯灣內從煉廠裝運貨品，再駛往蘇哈爾港，透過船對船過駁換裝至其他油輪發往亞洲。這套變通方案為不願冒險穿行霍爾木茲海峽的採購方開闢備選供貨通道，提升該油品對亞洲的到貨量。
+
+---
+
+### 2026-06-03 08:54:40  #Trading Economics #Economy #Japan #Services PMI #Importance 1
+
+Stagnation in Japan Service Sector Confirmed — Japan’s S&P Global Services PMI was at 50.0 in May 2026, aligning with the preliminary estimate and marking its lowest level since March 2025. The reading ended a 13-month run of expansion, pointing to stagnation in the services sector. Growth in new orders slowed to its weakest pace since the current cycle began near two years ago. Export orders fell at the fastest rate in more than four years, underscoring softer overseas appetite. Employment growth eased to a nine-month low, while backlogs of work rose modestly. Cost pressures mounted, with input prices increasing the most in 43 months, driven by higher fuel, energy, and raw material costs amid supplier hikes linked to Middle East tensions. Rising labor expenses added to the squeeze, prompting firms to raise selling prices at a near-record pace. Lastly, sentiment improved for a second month but stayed below post-pandemic norms, with companies citing geopolitical risks, elevated costs, and demographic headwinds from aging population.
+
+---
+
+### 2026-06-03 08:54:16  #市場 #國際
+
+日本東證股價指數漲幅進一步擴大，最新上漲1.6%，報3986.61點。
+
+---
+
+### 2026-06-03 08:54:02  #MKT News #Market Themes #AI Revolution
+
+People familiar with the matter said SpaceX plans to use IPO proceeds to expand AI computing capacity and its satellite network.
+
+---
+
+### 2026-06-03 08:53:02  #宏觀
+
+【鄭柵潔主任主持召開國有企業座談會 圍繞深化國資國企改革及推動國有企業更好服務國家重大戰略聽取意見建議】6月2日，國家發展改革委主任鄭柵潔主持召開國有企業座談會。會上，相關企業負責人圍繞主題介紹了當前生產經營、深化改革、面臨問題困難等情況，並提出意見建議。參會企業表示，將堅決貫徹落實習近平總書記重要指示精神，按照黨中央和國務院部署，不斷深化企業改革激發發展動力；帶頭融入全國統一大市場建設，加快構建現代流通網路，有效降低全社會物流成本；圍繞國家“雙碳”目標等戰略部署，加強資源迴圈利用，深入推進煤炭清潔低碳利用，紮實推進煤化工產業高質量發展，保障重要能源供應安全。鄭柵潔認真傾聽每位企業負責人的發言，與大家深入互動交流，逐一回應關切。他表示，習近平總書記關於深化國資國企改革的系列重要論述，是我們謀劃企業發展、推動工作落實的根本遵循。今年是“十五五”開局之年，貫徹落實黨中央和國務院關於進一步深化國資國企改革的部署，要堅持目標導向和問題導向，推進國有經濟佈局最佳化和結構調整，提升國有企業科技創新、產業控制、安全支撐功能，激發國有企業內生動力活力；要主動服務全國統一大市場建設，帶頭維護統一市場基礎制度、助力形成統一市場基礎設施，服務構建現代流通網路；要認真落實“雙碳”戰略，推動綠色低碳發展，促進煤炭清潔高效利用，促進行業綠色低碳轉型，有力保障能源安全；要在支援和帶動民營企業、中小微企業發展上做好表率，促進各種所有制經濟優勢互補、共同發展。(發改委)
+
+---
+
+### 2026-06-03 08:53:00  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Pressured by Strong US Jobs Data — Silver prices held near $75 per ounce on Wednesday, struggling to gain traction as stronger-than-expected US labor market data reinforced expectations that the Federal Reserve may keep interest rates elevated for an extended period. Data released on Tuesday showed US job openings surged in April to their highest level in nearly two years, while layoffs declined, pointing to continued resilience in the labor market. Investors are now focused on Friday’s closely watched nonfarm payrolls report for further clues on the trajectory of monetary policy. Meanwhile, ongoing uncertainty surrounding US-Iran peace negotiations contributed to higher oil prices, fueling concerns about inflation and strengthening the case for a more restrictive Fed stance. Still, President Donald Trump stated that talks remain underway, while reports suggest Iranian officials are reviewing a “final text” that could be submitted to the US as negotiations continue.
 
 ---
 
@@ -22824,148 +22908,5 @@ Coal Hits 8-week High — Coal increased to 140.30 USD/T, the highest since Marc
 7、谷歌母公司Alphabet Inc．正透過股權融資籌集800億美元資金，其中包括與伯克希爾達成的一項投資交易，以支援其雄心勃勃的人工智慧支出計劃。
 8、Anthropic已保密提交IPO註冊檔案草案，力爭最快於今年秋季登陸美股市場。擬發行股份的數量及發行價尚未確定。
 9、根據SpaceX提交的S-1檔案修正案，馬斯克已與承銷商達成協議，接受為期366天的鎖定期。在未經高盛事先書面同意的情況下，他持有的所有股份均不得出售。
-
----
-
-### 2026-06-02 07:00:22  #公司 #國際
-
-可口可樂公司正探索讓其印度最大裝瓶商的母公司——印度斯坦可口可樂控股私人有限公司在印度公開上市。
-
----
-
-### 2026-06-02 07:00:08  #MKT News
-
-South Korea May CPI YoY 3.1% (exp. 3.0%; prior 2.6%).
-
----
-
-### 2026-06-02 07:00:07  #MKT News
-
-South Korea May CPI MoM 0.5% (consensus 0.3%; prior 0.5%).
-
----
-
-### 2026-06-02 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | CPI (MoM) (May) | actual 0.5% | consensus 0.30% | previous 0.50%
-
----
-
-### 2026-06-02 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | CPI (YoY) (May) | actual 3.1% | consensus 3.00% | previous 2.60%
-
----
-
-### 2026-06-02 06:57:35  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Muted in Morning Trade — The NZX 50 was almost flat, trading around 13,242 in Tuesday morning trade, after gaining in the previous session, as traders resumed activity following a holiday on Friday, with gains in energy, consumer discretionary, and utilities offset by declines in communication services, materials, and healthcare. The broader index pulled back from its highest level since May 7, reached on Friday, as traders continued to assess comments from RBNZ Governor Anna Breman, who said last week that the Official Cash Rate is likely to rise sooner and more sharply than previously indicated. Caution also prevailed ahead of the release of the US PMI and jobless claims figures due later this week. However, a rally on Wall Street overnight lifted sentiment, supported by optimism that the US and Iran will end the war. Ebos Group gained 1.6%, AFT Pharmaceuticals rose 1.3%, and Auckland International Airport climbed 1.0%, while Chorus and Fisher & Paykel fell 1.2% and 0.8%, respectively.
-
----
-
-### 2026-06-02 06:56:01  #其他
-
-澳大利亞競爭與消費者委員會（ACCC）正對線上向澳大利亞消費者銷售、含小型強磁體的違禁高危玩具及桌遊展開供應調查，已要求採取額外措施，防止賣家重新上架相同或類似商品。
-
----
-
-### 2026-06-02 06:53:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【US-Iran talks hit setbacks; market optimism may fade】Oil steadied after its largest one-month gain as renewed uncertainty over US‑Iran talks raised the risk of prolonged Gulf supply disruption. US media quoted Trump saying a memorandum on reopening the Strait of Hormuz could be reached within a week, but Washington still needs to finalise several details. Earlier reports said Iran halted talks, threatened to block the Bab al‑Mandeb and planned a full closure of the Strait of Hormuz. CIBC senior energy trader Rebecca Babin warned that if negotiations stall, the market’s prior pricing “cushion” tied to a best‑case outcome would evaporate, and that repeated reversals mean nothing is certain.
-
----
-
-### 2026-06-02 06:53:25  #MKT News
-
-Confirmed Ebola cases in the Democratic Republic of the Congo rose to 321.
-
----
-
-### 2026-06-02 06:53:16  #MKT News #Commodities #Energy
-
-Sevastopol in Crimea, currently under Russian control, will attempt to resume normal fuel sales on Wednesday.
-
----
-
-### 2026-06-02 06:52:54  #公司
-
-澳大利亞競爭與消費者監管委員會（ACCC）已向亞馬遜、eBay、科根（Kogan）和弗魯戈（Fruugo）發出下架要求，要求上述平臺移除含潛在致命危險小磁鐵的玩具與遊戲產品。
-
----
-
-### 2026-06-02 06:52:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran says it will 'use all capabilities' to defend its interests if necessary】Iran's foreign ministry on the 1st condemned continued US and Israeli violations of the ceasefire, saying any breach on any front constitutes a violation of the entire ceasefire arrangement. It reiterated the April 8 ceasefire — including its application to Lebanon — and said the US must be held responsible for its own violations and accountable for Israeli actions. The statement added Iran would, under the right of self‑defense in international law, "use all capabilities to defend its interests" if necessary.
-
----
-
-### 2026-06-02 06:52:25  #MKT News
-
-Sevastopol in Crimea, currently under Russian control, will impose fuel sale limits on Tuesday.
-
----
-
-### 2026-06-02 06:52:21  #國際
-
-俄羅斯管控下的克里米亞塞瓦斯托波爾將於週三嘗試恢復正常燃油銷售。
-
----
-
-### 2026-06-02 06:52:03  #國際
-
-俄羅斯管控下的克里米亞半島塞瓦斯托波爾當地官員表示，週二當地燃油銷售將實施限流。
-
----
-
-### 2026-06-02 06:51:25  #國際
-
-【伊朗：必要情況下“動用一切能力捍衛自身利益”】伊朗外交部1日發表宣告，譴責美國和以色列持續違反停火協議，強調任何戰線上的停火遭到破壞，都意味著違背整體停火安排，並表示伊朗將在必要情況下“動用一切能力捍衛自身利益”。（新華社）
-
----
-
-### 2026-06-02 06:49:49  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、試點城市福州長護險基金結餘達八億元 每月超千元長護險待遇如何撬動（政策解讀·聚焦）
-2、5部門印發指南 非化石能源電力消費核算有了統一“標尺”
-3、《網際網路資訊內容多渠道分發服務管理規定》公佈
-4、8部門發文支援新功能海洋保健食品研製
-5、河北邯鄲工業品銷售新模式帶動產業走上新路子——上鍊接！重卡開進直播間（經濟聚焦）
-6、小玩偶也能“玩”成大產業（經濟時評）
-7、對隨身登機行李收費，有依據嗎（有問有答）
-8、晝保通行、夜保施工 獨庫公路6月1日起恢復通車
-9、國務院關於對外投資的規定。
-
----
-
-### 2026-06-02 06:49:39  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、實施青年就業、創業、生活、成長四大友好行動 湖南廣大青年奮進新徵程建功立業
-2、傳承紅色基因，跑好歷史接力賽——習近平總書記的回信激勵廣大少年兒童和少年兒童工作者奮鬥逐夢
-3、李強簽署國務院令 公佈《國務院關於對外投資的規定》
-4、開天闢地記（偉大征程）
-5、韓正會見巴西外長維埃拉
-6、寧電入閩傳送通道開啟
-7、我國兒童健康水平顯著提升。
-
----
-
-### 2026-06-02 06:49:08  #焦點 #國際
-
-【特朗普週一表態彙總】
-美國總統特朗普週一表態彙總如下：
-稱美伊諒解備忘錄可能在“接下來一週”完成；
-與伊朗的談判正在快速繼續進行；
-將繼續封鎖霍爾木茲海峽；
-與以色列總理內塔尼亞胡進行了富有成效的通話；
-以色列和黎巴嫩同意停止一切交火；
-不擔心油價，油價近期將暴跌。
-
----
-
-### 2026-06-02 06:46:33  #國際
-
-法國常駐聯合國代表：以色列的長久安全既不能依靠戰爭，也無法依託領土佔領。
 
 ---
