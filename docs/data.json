@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-08 06:43:24",
-  "count": 19148,
+  "updated": "2026-06-08 06:47:18",
+  "count": 19146,
   "items": [
+    {
+      "id": "4922338",
+      "time": "2026-06-08 06:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗表示，其針對以色列目標的防禦性打擊屬於《聯合國憲章》規定的合法自衛行為。"
+    },
     {
       "id": "4922337",
       "time": "2026-06-08 06:41:36",
@@ -176573,44 +176581,6 @@
         "國際"
       ],
       "text": "以色列稱已攔截多枚從黎巴嫩射向其境內的飛行物。"
-    },
-    {
-      "id": "4909121",
-      "time": "2026-06-01 06:46:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿拉伯聯盟秘書長譴責以色列對黎巴嫩發動“野蠻侵略”，呼籲雙方立即停火。"
-    },
-    {
-      "id": "4909120",
-      "time": "2026-06-01 06:45:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破75美元/盎司，日內跌0.36%。"
-    },
-    {
-      "id": "mkt:019e8036-984d-700f-a381-4fd9457edf02",
-      "time": "2026-06-01 06:45:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Meituan",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "Magnificent 7",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【This week: US nonfarm payrolls, SpaceX IPO roadshow, OPEC+ ministerial meeting】Monday: China May RatingDog manufacturing PMI; UK May Nationwide house-price MoM; May manufacturing PMIs for UK, US, France, Germany and the euro area; euro-area April unemployment rate; Meituan reports quarterly results; Nvidia opens GTC Taipei (Jensen Huang keynote). Tuesday: Euro-area May CPI flash; US April JOLTS vacancies; Tiger Brokers reports; Fed officials Kashkari and Harker speak; BoE Governor Bailey appears before the Lords. Wednesday: US API and EIA crude inventories; China May RatingDog services PMI; May services PMIs for UK, US, France, Germany and the euro area; US May ADP payrolls; Broadcom and Zhihu report; BOJ Governor UEDA speaks; Korea markets closed for local elections; US Treasury Secretary Bessent testifies to the Senate on the budget; Japanese government submits supplementary budget to parliament. Thursday: Euro-area April retail sales MoM; US May Challenger job cuts, initial jobless claims and EIA NG inventories; Fed releases the Beige Book; China domestic refined-fuel price adjustment window opens; ECB President LAGARDE and BoE Governor BAILEY both speak; SpaceX targets as early as June 4 to start its IPO roadshow. Friday: France April trade balance; euro-area Q1 GDP final revision; Canada May employment; US May seasonally adjusted nonfarm payrolls, unemployment rate and average hourly earnings — primary market-moving data of the week; ARAMCO posts official selling price around the 5th of the month; Fed Governor Daly speaks; China reduces domestic aviation fuel surcharges on major routes. Saturday: Baker Hughes rig count for the week to June 5; CFTC weekly commitments report; BoE Governor BAILEY speaks. Sunday: China May FX reserves; OPEC and non-OPEC ministerial supervisory committee meets."
     }
   ]
 }
