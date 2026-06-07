@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-08 02:30:17",
-  "count": 19000,
+  "updated": "2026-06-08 02:33:59",
+  "count": 18999,
   "items": [
+    {
+      "id": "4922149",
+      "time": "2026-06-08 02:33:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "官方結果顯示，在科索沃議會選舉中，開票超過50%後，自決黨以42.3%的得票率處於領先。"
+    },
     {
       "id": "4922148",
       "time": "2026-06-08 02:23:02",
@@ -175230,22 +175238,6 @@
         "國際"
       ],
       "text": "墨西哥總統辛鮑姆：美國極右翼借墨西哥局勢為中期選舉造勢。"
-    },
-    {
-      "id": "mkt:019e7f4f-c323-700f-a380-0b407b9ea8fb",
-      "time": "2026-06-01 02:33:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IRGC navy deputy commander says Iran will fight to the 11th hour against excessive demands and hegemonic acts】On May 31 local time, the Islamic Revolutionary Guard Corps navy deputy commander said Iran will fight to the 11th hour against any form of excessive demands and hegemonic acts and will confront enemies. He said Iranian forces are \"fully armed and ready to fight, defending this land and the nation's security and honor.\""
-    },
-    {
-      "id": "4909038",
-      "time": "2026-06-01 02:30:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）5名埃博拉患者痊癒】剛果（金）衛生部5月31日說，該國東部伊圖裡省首府布尼亞已有5名埃博拉患者痊癒。（新華社）"
     }
   ]
 }
