@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-08 07:36:50",
-  "count": 19182,
+  "updated": "2026-06-08 07:40:29",
+  "count": 19174,
   "items": [
+    {
+      "id": "mkt:019ea475-2e90-7ee0-86d5-31ba2f7cf3ec",
+      "time": "2026-06-08 07:40:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan's April trade balance due in 10 minutes."
+    },
+    {
+      "id": "4922409",
+      "time": "2026-06-08 07:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所：加強對不公平交易的主動防範，擴大對非法賣空行為的檢查。"
+    },
+    {
+      "id": "4922408",
+      "time": "2026-06-08 07:38:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NAVER 採用英偉達 AI 模型，鞏固韓國市場領先地位】韓國 NAVER 公司將依託英偉達技術方案建設資料中心，以此穩固其在韓國人工智慧領域的主導地位。英偉達全球人工智慧雲與基礎設施負責人拉吉・米爾普里（Raj Mirpuri,）表示，這家網際網路及雲服務提供商將基於英偉達 DSX 平臺搭建 AI 基礎設施，為吉瓦級規模的智慧體與機器人提供算力支援。米爾普里稱，雙方合作還將引入英偉達 Nemotron 3 Ultra 與 HyperClova X 模型，助力 NAVER 打造韓國本土自主人工智慧體系。韓國正加速構建本土 AI 生態，力求降低對外技術依賴。"
+    },
+    {
+      "id": "te:markets:557032",
+      "time": "2026-06-08 07:36:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Gains as Iran Fires Missiles Toward Israel — Brent crude futures climbed above $95 per barrel on Monday, rebounding after two consecutive sessions of losses as Iran launched multiple rounds of missiles toward Israel, warning against further military actions in Lebanon and raising concerns over the durability of a fragile ceasefire amid stalled peace negotiations. Israel's military said all incoming missiles were intercepted, with no casualties reported. According to reports, President Donald Trump criticized Israel's strikes on Beirut and said he would urge Prime Minister Benjamin Netanyahu to avoid retaliatory action against Iran, while also calling on Tehran to resume negotiations. Meanwhile, the protracted conflict and the ongoing near-closure of the Strait of Hormuz have cut off energy supplies from the Persian Gulf, keeping oil prices elevated. Separately, OPEC+ approved another increase in July oil production quotas of 188,000 barrels per day despite persistent supply risks linked to tensions in the Middle East."
+    },
     {
       "id": "4922407",
       "time": "2026-06-08 07:35:48",
@@ -176879,115 +176916,6 @@
         "Impact bullish"
       ],
       "text": "French new-car registrations rose 3.68% YoY to 128,484 in May, an industry group said. Tesla (TSLA.O) registrations in France jumped 655.34% YoY in May."
-    },
-    {
-      "id": "4909182",
-      "time": "2026-06-01 07:40:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國行業機構資料顯示，5月法國新車註冊量同比增長3.68%，至128484輛。"
-    },
-    {
-      "id": "4909181",
-      "time": "2026-06-01 07:39:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "行業機構資料顯示，5月特斯拉在法國的新車註冊量同比增長655.34%。"
-    },
-    {
-      "id": "mkt:019e8068-41d0-700f-a381-7e1aca037fb6",
-      "time": "2026-06-01 07:39:36",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China International Capital Co: Developers' operating fundamentals may broadly recover around 2028】China International Capital Co said the real estate sector has experienced two cycles since 2026; although YTD returns remain limited, market attention, positioning and expectations have improved versus 2025. Q1 saw durable improvement in Beijing and Shanghai second‑hand markets, but recent share‑price retracement to lows suggests capital markets still doubt the recovery. Over the next 6–12 months, CICC identifies end‑Q3/early‑Q4 as the next key trend‑confirmation window and views the on‑the‑ground market as likely to show stronger performance; it recommends buying on dips. On a longer horizon, CICC sees a material probability that developers' operating fundamentals may broadly recover around 2028."
-    },
-    {
-      "id": "4909180",
-      "time": "2026-06-01 07:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新股提示：北交所新股金戈新材今日申購】今日可申購北交所新股金戈新材，金戈新材發行總數約2232萬股，申購程式碼920083，申購價格9.65元。"
-    },
-    {
-      "id": "4909179",
-      "time": "2026-06-01 07:39:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "CoinDesk：Coinbase將於6月1日起透過IMPS推出印度盧比（INR）直接存取款通道。"
-    },
-    {
-      "id": "4909178",
-      "time": "2026-06-01 07:38:56",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金：2028年前後房企或在經營基本面上的迎來全面回暖】中金指出，2026年以來地產板塊已經歷兩輪起落，雖YTD回報有限，但市場關注度、資金倉位和市場預期均較2025年有積極改善。儘管一季度以北、上為代表的二手房市場基本面呈現改觀且仍有一定持續性，但近期股價重回低位可能也反映資本市場對中國房地產的修復前景仍存質疑。站在當前位置，我們認為未來6-12個月的短期投資問題是相對明瞭的：即三季度末、四季度初可能是下一次主要的趨勢確認關口，而我們認為實體市場有較大的機率呈現更為積極的表現，因此建議投資者可逢低佈局。長期維度，我們認為2028年前後房企或在經營基本面上的迎來全面回暖。"
-    },
-    {
-      "id": "te:markets:555095",
-      "time": "2026-06-01 07:38:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises on US-Iran Deal Uncertainty — Brent crude futures rose toward $93 per barrel on Monday, recovering part of last week’s losses as uncertainty continued to cloud prospects for a peace agreement between the US and Iran. Over the weekend, both sides exchanged proposals seeking revisions to a draft deal that would prolong the ceasefire and reopen the Strait of Hormuz, though it remained unclear whether meaningful progress had been achieved. President Donald Trump also reaffirmed his demand that Iran halt its nuclear program and fully restore the strait’s status as an open international shipping route. Although oil prices recently posted a monthly decline amid expectations that Washington and Tehran could eventually reach a more durable agreement, they remain elevated compared with pre-conflict levels as the near-shutdown of Hormuz triggered an unprecedented disruption to global energy supplies."
-    },
-    {
-      "id": "4909177",
-      "time": "2026-06-01 07:38:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽鮮有重新開放跡象之際 油價上漲】在霍爾木茲海峽鮮有重新開放跡象的情況下，油價上漲。美國總統特朗普週六在接受福斯新聞採訪時表示，美國“接近達成一項非常好的協議“，但暗示可能恢復戰鬥作為替代方案。巴克萊大宗商品研究分析師Amarpreet Singh在一份報告中表示：“市場參與者似乎急於在價格中反映出霍爾木茲海峽局勢得到解決的預期，但在經過七週的談判後，實現這一結果的潛在協議仍然難以達成。“近月西得州中質油期貨上漲2.1%，報每桶89.20美元；近月布倫特原油期貨上漲1.7%，報每桶92.66美元。"
-    },
-    {
-      "id": "4909176",
-      "time": "2026-06-01 07:38:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首屆裝備強國論壇召開 新一代智慧製造按下“加速鍵”】5月30日，由中國機械工業聯合會、工業和資訊化部裝備工業發展中心聯合主辦的首屆裝備強國論壇召開，本次論壇聚焦“紮實推進新型工業化 加快建設裝備強國”主題。記者從論壇上獲悉，當前我國裝備工業高質量發展成效顯著，創新能力顯著增強、高階產品顯著增多、智慧化水平顯著提升，有力地推動了實體經濟的發展。與會專家表示，在新一代人工智慧與先進製造技術深度融合趨勢下，智慧裝備發展已成為加快推進新型工業化、塑造產業核心競爭力的關鍵。同時，也面臨不少挑戰，“在智慧製造方面，有些技術概念雖熱，但車間應用深度不足；有些應用場景雖能開展試點，卻難以複製與推廣”。（中國證券報）"
-    },
-    {
-      "id": "4909175",
-      "time": "2026-06-01 07:38:16",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平回信勉勵中共一大紀念館、南湖革命紀念館少先隊紅領巾講解員 傳承紅色基因增長知識本領 在新徵程上跑好歷史接力賽 祝全國小朋友們“六一”國際兒童節快樂；\n2、《求是》雜誌發表習近平總書記重要文章 前瞻佈局和發展未來產業；\n3、《習近平法治文選》第一卷英文版出版發行；\n4、各地區各部門各單位深入開展學習教育——堅持“當下改”與“長久立”相結合（樹立和踐行正確政績觀）；\n5、強化自然資源保障 不斷蓄積發展動能（“十五五”開好局起好步）；\n6、向陽生長 逐夢前行（今日談）。"
-    },
-    {
-      "id": "4909174",
-      "time": "2026-06-01 07:38:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【另有15家企業擬向軟銀牽頭的日本人工智慧企業注資】據訊息人士透露，又有約15家企業有意入股由軟銀等機構聯合成立的日本新興人工智慧研發公司。東芝、日立、KDDI研究所等企業計劃參與投資，旨在讓這家新公司的人工智慧研發業務契合自身發展需求。人工智慧系統研發企業普萊德網路與魚群人工智慧也有望入局，並主導相關研發工作。日本一眾人工智慧研發及應用企業希望攜手攻關前沿技術，重塑行業競爭力。這家新公司將主攻實體人工智慧系統，相關技術最終會應用於機器人裝置。日本各大領域企業（以製造企業為主）紛紛參與其中，計劃藉助該技術實現生產自動化等目標。有意向投資這家名為日本人工智慧平臺模型開發公司（ Nihon AI Kiban Moderu Kaihatsu， Japan AI platform model development ）的企業還包括：工業機器人巨頭髮那科、安川電機，大金工業、大型電力企業JERA、旭化成以及日本生命保險。此外，富士通等十家企業也據傳正在考慮入局。預計未來入股該新公司的企業數量還會進一步增加。"
-    },
-    {
-      "id": "te:markets:555094",
-      "time": "2026-06-01 07:38:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rises on US-Iran Deal Uncertainty — WTI crude futures rose above $89 per barrel on Monday, recovering part of last week’s losses as uncertainty continued to cloud prospects for a peace agreement between the US and Iran. Over the weekend, both sides exchanged proposals seeking revisions to a draft deal that would prolong the ceasefire and reopen the Strait of Hormuz, though it remained unclear whether meaningful progress had been achieved. President Donald Trump also reaffirmed his demand that Iran halt its nuclear program and fully restore the strait’s status as an open international shipping route. Although oil prices recently posted a monthly decline amid expectations that Washington and Tehran could eventually reach a more durable agreement, they remain elevated compared with pre-conflict levels as the near-shutdown of Hormuz triggered an unprecedented disruption to global energy supplies."
     }
   ]
 }
