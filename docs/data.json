@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-07 12:17:16",
-  "count": 18924,
+  "updated": "2026-06-07 12:20:59",
+  "count": 18925,
   "items": [
+    {
+      "id": "mkt:019ea04c-44a3-7665-8316-6cab0c2e8193",
+      "time": "2026-06-07 12:16:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【South Korean retail investors sell over 1 trillion won of overseas shares in first week of June】South Korean retail investors sold more than 1 trillion won of overseas equities in the first week of June, indicating a possible rotation back into domestic stocks after semiconductor-led gains. Korea Securities Depository data show net overseas equity sales of $793.67 mln in that week, continuing a net-selling trend that began in April. That compares with $469 mln in net sales in April and a record $939.77 mln in May. If sustained through month-end, this would be the third consecutive month of net selling, the first such streak since April–July 2023."
+    },
     {
       "id": "4921666",
       "time": "2026-06-07 12:14:50",
