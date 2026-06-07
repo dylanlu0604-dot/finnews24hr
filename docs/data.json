@@ -1,7 +1,506 @@
 {
-  "updated": "2026-06-07 16:06:07",
-  "count": 18937,
+  "updated": "2026-06-07 17:21:42",
+  "count": 18926,
   "items": [
+    {
+      "id": "4921820",
+      "time": "2026-06-07 17:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：空中防禦系統在一天內擊落了11枚彈藥、一枚HIMARS炮彈。在過去24小時內，烏克蘭武裝部隊在特別軍事行動的各個區域損失超過1300名士兵。"
+    },
+    {
+      "id": "4921819",
+      "time": "2026-06-07 17:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：以色列中部襲擊事件發生後，以軍參謀長已研判局勢並下達後續行動指令。"
+    },
+    {
+      "id": "mkt:019ea15c-b257-7665-8318-0ced446e8d69",
+      "time": "2026-06-07 17:14:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said its air defences shot down 11 munitions, one HIMARS rocket and 500 Ukrainian military drones in a single day, and that Ukrainian forces lost more than 1,300 soldiers across the special military operation in the past 24 hours."
+    },
+    {
+      "id": "4921818",
+      "time": "2026-06-07 17:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：過去24小時內俄羅斯擊落500架烏克蘭無人機。"
+    },
+    {
+      "id": "4921817",
+      "time": "2026-06-07 17:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列中部發生槍擊事件 1名嫌疑人被捕】當地時間7日，以色列警方證實，以色列中部科哈夫亞伊爾地區當天發生槍擊事件，目前已有一名嫌疑人被捕。安全部隊正在全力搜捕第二名涉案嫌疑人。據警方通報，這起槍擊事件目前已造成1人死亡，至少4人受傷。據悉，此次槍擊事件發生在該地區靠近約旦河西岸安全隔離牆的三個不同地點。（央視新聞）"
+    },
+    {
+      "id": "4921816",
+      "time": "2026-06-07 17:05:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：埃及5月外匯儲備淨額從4月的530.09億美元升至531.34億美元。"
+    },
+    {
+      "id": "4921815",
+      "time": "2026-06-07 17:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱美正試圖退出烏克蘭問題談判】俄羅斯總統顧問科比亞科夫6月6日在聖彼得堡國際經濟論壇閉幕新聞釋出會上表示，美國正試圖退出烏克蘭問題談判。對於近日美國眾議院透過法案對俄羅斯實施新制裁一事，科比亞科夫稱，美國國會建議加強制裁，正是因為意識到特別軍事行動的結局對俄羅斯有利。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ea154-4a99-7665-8318-05be0c72759c",
+      "time": "2026-06-07 17:05:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【France, UK, Germany and Ukraine leaders to meet to discuss ending Russia-Ukraine conflict】France’s Macron, UK Prime Minister Starmer and German Chancellor Merz are due to meet Ukrainian President Zelenskiy in London on the evening of the 7th to discuss continued support for Ukraine and steps to end the Russia-Ukraine war, the Elysée said. Insiders cautioned Zelenskiy’s plans and the meeting time remain subject to change."
+    },
+    {
+      "id": "4921814",
+      "time": "2026-06-07 17:03:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死一名哈馬斯指揮官】以色列國防軍和以色列國家安全總局（辛貝特）7日發表聯合宣告說，以軍和辛貝特2日在加沙地帶打死一名曾參與2023年10月突襲以色列的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官。 以軍說，以軍和辛貝特2日在加沙地帶南部發動的精確打擊中打死哈馬斯“努赫巴”部隊指揮官薩克爾·阿布·卡里姆。以軍稱他曾在2023年10月領導哈馬斯對以色列的突襲。另有一名哈馬斯通訊員被以軍一同打死。 以軍稱將繼續在加沙地帶開展行動，消除任何“迫在眉睫的威脅”。(新華社)"
+    },
+    {
+      "id": "4921813",
+      "time": "2026-06-07 17:03:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【法英德烏領導人將舉行會晤，討論結束俄烏衝突等問題】法國總統府愛麗捨宮日前在一份宣告中稱，法國總統馬克龍、英國首相斯塔默以及德國總理默茨7日將與烏克蘭總統澤連斯基舉行會晤，討論繼續支援烏克蘭等議題。據悉，此次會晤預計在英國倫敦舉行。澤連斯基希望歐洲國家領導人能夠加大努力，幫助結束俄烏衝突。（央視新聞）"
+    },
+    {
+      "id": "4921812",
+      "time": "2026-06-07 17:02:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場價格溢價 6月8日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月5日收盤價2.714元，參考淨值2.3197元。為保護投資者利益，基金於6月8日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月8日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4921811",
+      "time": "2026-06-07 17:02:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：提示基金二級市場交易價格溢價風險】納指ETF廣發公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為1.6410元，收盤時基金份額參考淨值為1.5529元。若6月8日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能使投資者面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "4921810",
+      "time": "2026-06-07 17:02:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：提醒二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為2.087元，收盤時基金份額參考淨值為1.9433元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除淨值波動風險外，還受市場供求等因素影響。截至目前，基金運作正常且無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4921809",
+      "time": "2026-06-07 17:02:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：二級市場交易價格溢價 提醒投資風險】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月5日，二級市場收盤價為2.026元，收盤時基金份額參考淨值為1.9260元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施。提醒投資者關注溢價風險，審慎投資，盲目投資或遭受重大損失。"
+    },
+    {
+      "id": "4921808",
+      "time": "2026-06-07 17:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西河池市委常委、秘書長張聯松接受審查調查】據廣西壯族自治區紀委監委訊息：廣西壯族自治區河池市委常委、秘書長張聯松涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4921807",
+      "time": "2026-06-07 16:59:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【巴基斯坦內政部長轉交致伊朗最高領袖特別信函】據伊朗塔斯尼姆通訊社報道，巴基斯坦內政部長納克維7日在伊朗首都德黑蘭會見伊朗外交部長阿拉格齊期間，將一封致伊朗最高領袖穆傑塔巴的特別信函轉交給阿拉格齊。（新華社）"
+    },
+    {
+      "id": "mkt:019ea145-a91e-7665-8317-fe372bf6567b",
+      "time": "2026-06-07 16:49:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia deliberately struck nuclear fuel storage facilities, calling the attack \"extremely vile\"."
+    },
+    {
+      "id": "4921806",
+      "time": "2026-06-07 16:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：俄羅斯蓄意襲擊核燃料儲存設施，此次行徑惡劣。"
+    },
+    {
+      "id": "4921805",
+      "time": "2026-06-07 16:42:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列警方：以色列中部襲擊事件的疑似槍擊者已被“制服”。"
+    },
+    {
+      "id": "4921804",
+      "time": "2026-06-07 16:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：槍擊事件後正在研判局勢。"
+    },
+    {
+      "id": "mkt:019ea13c-d131-7665-8317-f2adc0566cc1",
+      "time": "2026-06-07 16:39:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister's Office said the prime minister is monitoring developments in shootings in Kokhav Ya'ir and Tzur."
+    },
+    {
+      "id": "mkt:019ea13c-3c05-7665-8317-efc7ab0f4ee1",
+      "time": "2026-06-07 16:38:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Armenia holds parliamentary election】Armenia held parliamentary elections on the 7th, with voters choosing at least 101 MPs from 18 parties and party alliances. Voting took place at 2,005 polling stations; more than 2.48 million voters were registered. Polling ran from 08:00 to 20:00 local time. The Central Election Commission will release preliminary counts within 24 hours and final results within a week. The new parliament will elect the next prime minister."
+    },
+    {
+      "id": "4921803",
+      "time": "2026-06-07 16:37:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【亞美尼亞舉行議會選舉】亞美尼亞國民會議（議會）選舉7日舉行，選民將從18個政黨及政黨聯盟的候選人中，投票選出至少101名議員。 本次選舉共設2005個投票站，登記選民超過248萬人。投票時間從當地時間7日8時到20時。記者在首都埃裡溫一處投票站看到，早8時開始選民陸續進入投票站投票。投票結束後24小時內，亞中央選舉委員會將公佈初步計票結果，最終結果將在投票後一週宣佈。 本次選舉選出的議會將選舉新一任總理。 共有16個政黨和2個政黨聯盟參加選舉，包括由現任總理帕什尼揚領導的公民合約黨、前總統科恰良領導的政黨聯盟“亞美尼亞聯盟”等。 亞美尼亞議會實行一院制，共設立至少101個席位，最終席位數量在選舉後確定，議員任期5年。根據修改後的選舉法，得票率達到4%的政黨才能進入議會，不超過3個政黨組成的政黨聯盟得票率需達到8%才能進入議會，4個或4個以上政黨組成的政黨聯盟得票率需達到10%才能進入議會。如果進入議會的政黨或政黨聯盟無法達到3個，席位在得票最多的3個政黨或政黨聯盟之間分配。(新華社)"
+    },
+    {
+      "id": "4921802",
+      "time": "2026-06-07 16:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，熱帶風暴阿曼達預計將於週日晚些時候減弱為低壓殘留。"
+    },
+    {
+      "id": "4921801",
+      "time": "2026-06-07 16:33:16",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【唯特偶：在光模組及先進封裝領域的營收佔比貢獻率均不到1%】唯特偶(301319.SZ)公告回覆深交所關注函，就公司產品在光模組及先進封裝領域的應用情況、相關客戶及銷售金額等進行了說明。光模組生產過程中，錫膏主要用在四個環節：PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接、高速FPC軟板熱壓焊接、結構件/殼體接地焊接。以1.6T光模組為例：單個產品錫膏成本金額約為5-72元，金額較小；錫膏產品佔光模組產品價格比例約為0.077%-0.758%，佔比極低。在光模組生產環節中，公司主要產品可用於PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接，主要客戶為客戶十三、客戶三十四，主要產品為T7超細粉錫膏及半導體專用清洗劑，主要應用於1.6T的光模組領域。唯特偶表示，光模組及先進封裝業務市場需求和發展前景尚存在不確定性，且截至目前，公司在光模組及先進封裝領域的營收佔比貢獻率均不到1%，預計短期內不會對公司經營業績產生重大影響。公司同時提示，股價短期上漲幅度較大，可能存在市場情緒過熱和非理性炒作的風險。"
+    },
+    {
+      "id": "4921800",
+      "time": "2026-06-07 16:32:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。"
+    },
+    {
+      "id": "mkt:019ea134-138d-7665-8317-e516aef3abbd",
+      "time": "2026-06-07 16:30:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported six people were wounded in shootings in the central Israel towns of Kochav Yair and Tzur Yitzhak."
+    },
+    {
+      "id": "4921799",
+      "time": "2026-06-07 16:28:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：高階外交訊息人士透露，巴基斯坦內政部長向伊朗傳達了美國同意放寬制裁的訊息。"
+    },
+    {
+      "id": "mkt:019ea132-ed3f-7665-8317-d8243f046d89",
+      "time": "2026-06-07 16:28:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath, citing senior diplomatic sources, reported Pakistan's interior minister conveyed that the U.S. had agreed to ease sanctions on Iran."
+    },
+    {
+      "id": "mkt:019ea132-0cad-7665-8317-d67f58931fc2",
+      "time": "2026-06-07 16:27:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA says Ukraine reports radiation levels at the Chernobyl facility remain within prescribed limits. An IAEA team will visit Chernobyl shortly to assess the impact."
+    },
+    {
+      "id": "4921798",
+      "time": "2026-06-07 16:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦方面發出的特別信函已交給作為伊朗革命領袖代表的伊朗外長。"
+    },
+    {
+      "id": "4921797",
+      "time": "2026-06-07 16:26:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：駐切爾諾貝利場址的國際原子能機構工作組很快將前往相關設施檢查此次影響。"
+    },
+    {
+      "id": "4921796",
+      "time": "2026-06-07 16:25:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構：烏克蘭方面稱，該設施輻射水平仍處於規定限值內。"
+    },
+    {
+      "id": "mkt:019ea130-1553-7665-8317-ce00983c68d3",
+      "time": "2026-06-07 16:25:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "IAEA: An attack inflicted major damage on the facility's fuel‑receiving building; nearby structures were also affected by the blast wave."
+    },
+    {
+      "id": "4921795",
+      "time": "2026-06-07 16:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：襲擊導致該設施的燃料接收大樓遭受嚴重破壞，附近建築也受到爆炸衝擊波影響。"
+    },
+    {
+      "id": "mkt:019ea12f-d596-7665-8317-c40573f84e87",
+      "time": "2026-06-07 16:25:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The IAEA said Ukraine notified it that a drone struck the central spent-fuel storage facility in the Chernobyl Exclusion Zone this morning."
+    },
+    {
+      "id": "4921794",
+      "time": "2026-06-07 16:25:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構（IAEA）：已接到烏克蘭方面通報，今日凌晨切爾諾貝利隔離區的中央乏燃料儲存設施遭到無人機襲擊。"
+    },
+    {
+      "id": "mkt:019ea12e-eb98-7665-8317-bf2902758e5b",
+      "time": "2026-06-07 16:24:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) says terrorists at the shooting scene have been killed. Soldiers and medical personnel are conducting wide searches for other attackers and treating the wounded. Additional troops are en route to the site."
+    },
+    {
+      "id": "mkt:019ea12d-f025-7665-8317-b64222cbe7bb",
+      "time": "2026-06-07 16:23:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "An Israeli newspaper reports the Israeli military assesses strikes on Nabatieh in Lebanon could constitute a \"military earthquake\" and affect the entire southern Lebanese front."
+    },
+    {
+      "id": "4921793",
+      "time": "2026-06-07 16:22:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI實驗室幫企業一年省下600萬】在國內化工行業首個聚焦丙烯腈檢測的AI黑燈實驗室裡，凌晨三點，機械手精準起落、有條不紊地忙碌著。和傳統實驗室相比，AI實驗室把原本需要幾個房間、十幾道人工工序才能完成的檢測，凝聚在這一個個只有幾平方米大的工作站裡。在AI大腦的指揮下，87臺精密儀器、56臺機器人協同作業，整套系統自己排程、自我管理，在三個半小時內就能完成一整套檢測流程。AI實驗室讓檢測效率大幅提升的同時，檢測精度也更高。此外，AI實驗室的改造帶來的收益也十分可觀，工作人員介紹：“我們測算下來，一年人員的工作量節省至少50%，可能是在600萬元左右，這只是一個直接的經濟效益成本，另外資料計算價值是沒法去估量的。” （央視財經）"
+    },
+    {
+      "id": "4921792",
+      "time": "2026-06-07 16:20:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：以軍已在黎巴嫩南部納巴蒂耶市郊展開小規模地面行動。"
+    },
+    {
+      "id": "4921791",
+      "time": "2026-06-07 16:20:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：以軍方評估，打擊納巴蒂耶或將引發“軍事震盪”，並波及黎巴嫩整個南部戰線。"
+    },
+    {
+      "id": "mkt:019ea129-ae76-7665-8317-a87f5a6cf49b",
+      "time": "2026-06-07 16:18:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report a shooting in central Israel left one dead and at least four wounded."
+    },
+    {
+      "id": "4921790",
+      "time": "2026-06-07 16:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體7日報道，以色列中部發生槍擊事件，造成1人死亡、至少4人受傷。（新華社）"
+    },
+    {
+      "id": "4921789",
+      "time": "2026-06-07 16:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府：巴基斯坦內政部長會見了伊朗外長，就共同關心的問題以及進一步加強兩國之間的合作進行了討論。"
+    },
+    {
+      "id": "mkt:019ea127-c5a9-7665-8317-a51c6e1b4bc1",
+      "time": "2026-06-07 16:16:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan interior minister Mohsin Naqvi met Iran’s foreign minister Araghchi to discuss issues of mutual concern and steps to further deepen bilateral cooperation."
+    },
+    {
+      "id": "4921788",
+      "time": "2026-06-07 16:15:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST香雪：聘任鄭重為財務負責人】*ST香雪6月7日公告，董事會同意聘任趙其彬為公司營銷總經理，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止；同意聘任鄭重為公司財務負責人，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止。結合公司戰略發展規劃及實際經營發展需要，董事會決定對公司原高階管理人員及職務進行調整，將譚光華職務調整為總裁助理，盧鋒將不再擔任公司代理財務總監職務，在公司擔任其他職務。"
+    },
+    {
+      "id": "4921787",
+      "time": "2026-06-07 16:15:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯通集團：“匯通轉債”轉股價格調整為6.28元/股】6月7日，匯通集團公告，因實施2025年年度權益分派，對可轉債轉股價格進行調整。根據公告，調整前轉股價格為6.29元/股，調整後轉股價格為6.28元/股。“匯通轉債”本次轉股價格調整實施日期為2026年6月15日。“匯通轉債”自2026年6月5日至2026年6月12日（權益分派股權登記日）停止轉股，自2026年6月15日（本次權益分派除息日）起恢復轉股。"
+    },
+    {
+      "id": "4921786",
+      "time": "2026-06-07 16:15:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【燃油成本飆升施壓航空業 英航稱票價或再上調】據英國金融時報報道，英國航空公司（British Airways）執行長肖恩·道爾警告稱，如果燃油價格持續居高不下，票價將不得不上漲。在里約熱內盧舉行的國際航空運輸協會（IATA）年度會議間隙，肖恩·道爾表示：“如果燃油上漲，票價就必須上漲，這是無法迴避的現實。”自今年2月伊朗戰爭爆發以來，航空燃油價格已經翻倍。儘管停火談判正在進行，但霍爾木茲海峽仍處於關閉狀態。該航道約佔歐洲航空燃油供應的40%。全球航空公司已經開始提高票價，以彌補成本上升。BA的競爭對手維珍大西洋航空（Virgin Atlantic）已對經濟艙加收50英鎊附加費，高階艙加收180英鎊，高階艙位加收360英鎊。英國航空上月曾警告稱將提高票價，尤其是商務艙，以抵消更高的燃油成本。但道爾表示，如果燃油成本持續頑固維持高位，票價還將進一步上漲。"
+    },
+    {
+      "id": "4921785",
+      "time": "2026-06-07 16:15:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：擬對控股子公司武漢學知實施存續分立】文科股份公告稱，公司擬對控股子公司武漢學知修遠教育科技有限公司實施存續分立，分立後武漢學知繼續存續，另派生新設武漢知芯資訊科技有限公司（暫定名）。截至2025年12月31日，武漢學知資產總額43036.16萬元，負債35757.61萬元，淨資產7278.55萬元；2025年營收5005.03萬元，淨虧損4873.56萬元。本次分立有助於最佳化資源配置，提升文科綠谷資產運營效率，尚需取得有權國有資產管理機構和市場監督管理部門批准。"
+    },
+    {
+      "id": "4921784",
+      "time": "2026-06-07 16:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：與佛山市金融投資控股等簽署戰略合作協議】文科股份公告，公司與佛山市金融投資控股有限公司、佛山市建設發展集團有限公司及佛山建發私募基金管理有限公司簽署了《戰略合作協議》。該協議為框架性約定，後續具體合作事項將以另行簽訂的合作協議為準。合作領域包括基金組建與投資、產業投資與培育、產業園區運營與發展等。本次合作不涉及具體金額，預計不會對公司本年度業績產生重大影響。"
+    },
+    {
+      "id": "4921783",
+      "time": "2026-06-07 16:14:23",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【新宙邦：與寧德時代簽訂電解液合作協議】新宙邦公告稱，近日與寧德時代簽訂《電解液合作協議》，有效期至2028年12月31日。寧德時代2026 - 2028年預計採購電解液量分別為5.0萬噸、10.0萬噸、15.0萬噸，波動範圍分別為±10%、±12%、±15%。若一方違約，需賠償2500萬元違約金。協議履行預計對公司2026 - 2028年度經營成果產生積極影響，但存在市場需求波動等不確定因素。"
+    },
+    {
+      "id": "4921782",
+      "time": "2026-06-07 16:14:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：與廣東清能簽署戰略合作協議】文科股份公告，近日，公司與廣東清能新能源技術有限公司簽署了《戰略合作協議》。雙方將在地方政府合作溝通、申請地方綠色能源、協同推進合作專案落地等方面建立互惠互利的戰略合作伙伴關係。本協議為框架性協議，無需提交公司董事會和股東會審議，不構成《上市公司重大資產重組管理辦法》中規定的重大資產重組。"
+    },
+    {
+      "id": "4921781",
+      "time": "2026-06-07 16:13:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興發集團：擬出資8000萬元與專業機構共同設立三峽興安先進材料種子基金】興發集團(600141)6月7日公告，為促進湖北三峽實驗室科技成果轉化和產業化，公司與宜昌悅和股權投資基金管理有限公司等簽署了《湖北省三峽興安先進材料種子股權投資基金合夥企業（有限合夥）》合夥協議，共同設立三峽興安先進材料種子基金，總認繳出資額為2億元，公司作為有限合夥人以自有資金認繳出資8000萬元，出資佔比40%。三峽興安先進材料種子基金將重點圍繞湖北三峽實驗室具有產業化前景的技術創新成果、重大裝備突破等專案展開投資，重點投資領域包括磷石膏汙染防治與綜合利用、微電子關鍵化學品、磷/矽基高階化學品及應用等。"
+    },
+    {
+      "id": "4921780",
+      "time": "2026-06-07 16:12:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東誠藥業：注射用甲磺酸萘莫司他上市申請獲受理】東誠藥業公告，全資子公司東誠北方收到國家藥品監督管理局核准簽發的關於注射用甲磺酸萘莫司他上市許可申請的《受理通知書》。注射用甲磺酸萘莫司他適用於彌散性血管內凝血（DIC）和有出血性病變或出血傾向患者進行血液體外迴圈時，防止灌流血液凝固。國內僅有1家首仿上市，國外已有同類產品上市。2025年前三個季度二級以上醫院銷售額為4.42億元。"
+    },
+    {
+      "id": "mkt:019ea122-9ec9-7665-8317-9c59454128df",
+      "time": "2026-06-07 16:11:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EKHBARIYA reports multiple shootings across Israel; one killed, several injured."
+    },
+    {
+      "id": "mkt:019ea122-5383-7665-8317-944c4fb9758e",
+      "time": "2026-06-07 16:10:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "IAG.L",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Rising fuel costs squeeze airlines; British Airways warns fares may rise】British Airways CEO Sean Doyle said at the IATA annual meeting in Rio that sustained high jet-fuel prices would force ticket-price increases. Jet fuel has roughly doubled since February after the Iran war; the Strait of Hormuz remains closed despite ceasefire talks and handles about 40% of Europe’s jet-fuel supply. Global carriers have begun raising fares: Virgin Atlantic has added surcharges of £50 to economy, £180 to premium and £360 to top cabins. BA warned last month it would raise fares, notably in business class, to offset higher fuel costs."
+    },
     {
       "id": "4921779",
       "time": "2026-06-07 16:02:49",
@@ -174036,604 +174535,6 @@
         "公司"
       ],
       "text": "【寧滬高速：2025年年度股東會增加向子公司借款臨時提案】寧滬高速公告稱，公司2025年年度股東會將於2026年6月15日召開。因A+H兩地上市監管屬性，此前未納入原定審議事項的向控股子公司提供借款議案，現相關前置流程已辦理完畢。單獨持有57.36%股份的股東江蘇交通控股有限公司，於5月29日將該臨時提案書面提交股東會召集人。議案內容為向4家控股子公司分別提供不超18億、15億、5億、5億元借款，期限三年，按直接融資產品當期利率計息。"
-    },
-    {
-      "id": "4908765",
-      "time": "2026-05-31 17:20:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內蒙古多家國企聯合成立新能源投資合夥企業國金新能】據內蒙古日報，據內蒙古國有資本運營有限公司訊息，近日，在自治區國資委統籌指導下，該公司聯合包鋼集團、內蒙古交通集團、內蒙古交投集團、內蒙古新華髮行集團等多家自治區區屬國有企業，共同出資12.25億元，成立內蒙古國金新能源投資合夥企業（有限合夥）（簡稱國金新能）。據悉，本次多家自治區區屬國有企業聯合組建國金新能，對於盤活國有存量資產、放大國有資本槓桿效應、加速區域能源結構迭代升級具有積極意義。"
-    },
-    {
-      "id": "4908764",
-      "time": "2026-05-31 17:18:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國醫藥董事長楊光赴深圳拜訪交流】5月27至28日，通用技術中國醫藥黨委書記、董事長楊光一行赴深圳拜訪了中國科學院深圳先進技術研究院、深圳第三人民醫院（國家感染性疾病臨床醫學研究中心）、深圳醫學科學院和深圳細胞谷生物醫藥有限公司等單位，推動公司在深圳業務拓展和合作推進。"
-    },
-    {
-      "id": "4908763",
-      "time": "2026-05-31 17:16:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【衣索比亞在內部動盪中大選，獲諾貝爾和平獎的總理競選連任】衣索比亞將於6月1日舉行大選。外界普遍預計，現任總理阿比·艾哈邁德領導的執政黨——繁榮黨（Prosperity Party, PP）將贏得決定性勝利。然而，由於反對派力量分散以及部分地區局勢動盪，數百萬選民可能無法參與投票。（澎湃）"
-    },
-    {
-      "id": "mkt:019e7d51-8275-700f-a37c-bba5545329c0",
-      "time": "2026-05-31 17:15:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. startup reported to plan battlefield tests of upgraded humanoid robots in Ukraine】May 30 — A San Francisco robotics startup plans to send upgraded humanoid robots to Ukraine this year for continued military-use testing, the company head said. The firm said Ukrainian field data will inform potential cooperation with the U.S. military and it aims to begin frontline tests with U.S. forces within 18 months. Ukraine’s defense ministry and the Pentagon had no immediate comment."
-    },
-    {
-      "id": "mkt:019e7d4f-007d-700f-a37c-b4bfd5aa1e54",
-      "time": "2026-05-31 17:13:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israel to garrison Beaufort Castle, establish 'southern Lebanon security zone'】Israel's defense minister KATZ said Israeli forces will maintain a garrison at the strategic Beaufort Castle in southern Lebanon as part of a 'southern Lebanon security zone'. KATZ said the Israeli flag was raised again on high ground overlooking the Galilee after a 26-year withdrawal and that forces have re-established control of Beaufort Castle and will remain stationed there. He said control of the castle and expanded ground operations are intended to send a clear signal to opponents, warning that those who threaten Israeli civilians will progressively lose strategic assets."
-    },
-    {
-      "id": "4908762",
-      "time": "2026-05-31 17:12:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列稱將在博福爾城堡部署部隊 建立黎巴嫩南部“安全區”】當地時間31日，以色列國防部長卡茨表示，以軍將繼續在黎巴嫩南部戰略要地博福爾城堡保持駐軍，作為所謂“黎巴嫩南部安全區”的一部分。卡茨稱，在以色列於黎巴嫩“安全區”撤軍26年後，以色列國旗再次升起在可俯瞰加利利地區的高地上。他表示，以軍已重新“控制”博福爾城堡，並將繼續駐守。卡茨還表示，控制博福爾城堡及擴大地面軍事行動“向對手釋放明確訊號”，稱“任何威脅以色列平民的人，都將逐步失去其戰略資產”。（央視新聞）"
-    },
-    {
-      "id": "4908761",
-      "time": "2026-05-31 17:11:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美公司被曝擬在烏戰場測試升級版人形機器人】據美國方面5月30日訊息，一家美國舊金山機器人初創公司計劃今年向烏克蘭傳送升級版人形機器人，以持續進行軍事用途測試。該公司負責人表示，在烏克蘭的實測資料將為後續與美國軍方的合作提供參考，該公司計劃在18個月內將人形機器人用於美軍前線測試。烏克蘭國防部及美國國防部對相關報道暫無回應。訊息稱，今年早些時候，這家在美國政府支援下已將兩臺人形機器人送往烏克蘭進行測試，主要用於執行危險區域的後勤任務，如物資取件。該公司目前已獲得美國軍方總額2400萬美元的研究合同，涉及陸軍、海軍和空軍的檢查、物流及武器操作等可行性測試。訊息指出，在戰場部署人形機器人，相關技術將引發諸多倫理擔憂，特別是涉及在生死攸關的戰鬥中使用機器人自主決策的問題。（央視新聞）"
-    },
-    {
-      "id": "4908759",
-      "time": "2026-05-31 17:05:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為2.382元，收盤時基金份額參考淨值為2.2165元。若6月1日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。基金運作正常且無應披露而未披露的重大資訊。投資者需關注溢價風險，謹慎投資。"
-    },
-    {
-      "id": "4908758",
-      "time": "2026-05-31 17:05:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF匯添富：二級市場交易價格溢價 提醒投資風險】納指ETF匯添富公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為2.421元，收盤時基金份額參考淨值為2.2484元。若6月1日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者關注溢價風險，審慎投資。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4908757",
-      "time": "2026-05-31 17:05:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：提示基金二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為1.6940元，收盤時基金份額參考淨值為1.5445元。若6月1日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。投資者交易該基金除淨值波動風險外，還受市場供求等因素影響，可能面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4908756",
-      "time": "2026-05-31 17:05:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：二級市場交易價格溢價 6月1日停牌及復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年5月29日收盤價為2.710元，而收盤時基金份額參考淨值為2.2932元。為保護投資者利益，基金於6月1日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月1日溢價幅度未有效回落，基金有權採取相關停牌措施。"
-    },
-    {
-      "id": "4908755",
-      "time": "2026-05-31 17:05:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克ETF華安：提示二級市場交易價格溢價風險】納斯達克ETF華安公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價2.508元，收盤時基金份額參考淨值為2.3365元。若6月1日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。投資者可在二級市場交易或申贖，交易價格受多種因素影響。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4908754",
-      "time": "2026-05-31 17:05:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：二級市場交易價格溢價 提醒關注風險】納指ETF易方達公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為2.086元，收盤時基金份額參考淨值為1.9154元。若6月1日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者關注溢價風險，審慎投資。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4908753",
-      "time": "2026-05-31 17:04:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為1.857元，收盤時基金份額參考淨值為1.7226元。若6月1日溢價幅度未有效回落，基金有權採取臨時停牌等措施。目前基金運作正常，無應披露而未披露的重大資訊。投資者需關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4908752",
-      "time": "2026-05-31 17:04:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商中證全指醫療器械ETF：增聘王振鵬並解聘房俊一為基金經理】招商中證全指醫療器械ETF公告稱，自2026年6月1日起，增聘王振鵬為基金經理，解聘房俊一。王振鵬證券從業年限3年，現任招商滬深300ESG基準等3只基金的基金經理。房俊一因另有任用離任，將轉任公司其他崗位，相關變動已辦理變更手續並備案。"
-    },
-    {
-      "id": "4908751",
-      "time": "2026-05-31 17:03:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：二級市場交易價格溢價 提醒投資者注意風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月29日，收盤價為2.122元，收盤時基金份額參考淨值為1.9329元。若6月1日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除面臨基金份額淨值波動風險，還受市場供求等因素影響。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4908750",
-      "time": "2026-05-31 17:03:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【國泰基金：指定多隻基金主流動性服務商】國泰基金公告稱，自2026年6月1日起，指定如下流動性服務商為相關證券投資基金的主流動性服務商：國泰中證A500增強策略ETF（159226）為廣發證券；國泰中證A500ETF（159338）為西部證券、浙商證券；國泰創業板新能源ETF（159387）為海通證券、中國銀河證券；國泰創業板人工智慧ETF（159388）、國泰富時中國A股自由現金流聚焦ETF（159399）為國泰海通證券；國泰國證資訊科技創新主題ETF（159537）、國泰中證機床ETF（159667）為廣發證券；國泰中證港股通50ETF（159712）為招商證券。"
-    },
-    {
-      "id": "4908749",
-      "time": "2026-05-31 17:03:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【香會上中方發問菲律賓，菲防長語無倫次、答非所問】5月31日，在新加坡舉行的第23屆香格里拉對話會上，中國人民解放軍專家學者代表團成員、國防大學教授張弛向菲律賓國防部長特奧多羅提問，質疑菲律賓政府在南海問題上“言行不一”——一方面聲稱尊重相關準則、主張透過和平方式解決爭端，另一方面卻頻繁採取違反《南海各方行為宣言》精神的舉動。這種前後矛盾的做法該如何解釋？面對提問，特奧多羅並未正面回應有關“自相矛盾”的質疑，而是情緒激動地大談“南海行為準則”，發言一度語無倫次，最終被主持人打斷。（新華社）"
-    },
-    {
-      "id": "4908748",
-      "time": "2026-05-31 17:03:11",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【大成基金：旗下5只ETF自6月1日起增加聯儲證券為申贖代辦券商】大成基金公告稱，自2026年6月1日起，旗下大成中證AAA科技創新公司債ETF、創業板人工智慧ETF、創業板50ETF、深證基準做市信用債ETF、中證A100ETF新增聯儲證券為申購贖回代辦證券公司。投資者業務辦理流程、規則等以聯儲證券規定為準。投資者可撥打聯儲證券客服電話956006或大成基金客服電話400 - 888 - 5558諮詢詳情。"
-    },
-    {
-      "id": "4908747",
-      "time": "2026-05-31 17:02:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西壯族自治區人民政府原副秘書長，辦公廳原黨組成員、副主任唐寧接受審查調查】據廣西壯族自治區紀委監委訊息：廣西壯族自治區人民政府原副秘書長，辦公廳原黨組成員、副主任唐寧涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4908746",
-      "time": "2026-05-31 17:00:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金石資源：部分礦山暫時停產自查 或影響年度產量計劃】金石資源公告稱，為配合礦山監管和應急主管部門檢查複核工作，公司浙江境內部分礦山暫時停工自查或等待驗收。大金莊礦業需在6月15日前完成隱患整改；正中精選擬近日提交復產申請；常山金石等3家礦山正自查整改。2025年末，上述4家子公司營收合計約7.58億元，占上市公司合併報表的19.49%。2026年單一螢石礦山原計劃產40 - 45萬噸，省內礦山月產量約3萬噸，停產或影響年度產量及近期業績，公司將採取措施應對。"
-    },
-    {
-      "id": "4908745",
-      "time": "2026-05-31 16:58:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全國首例CAPA-IVM技術試管嬰兒在蓉誕生】全國首例採用CAPA-IVM（採用未成熟卵母細胞雙相體外成熟培養技術）的孕婦在公司旗下醫院順產生下嬰兒。據悉，該產婦患有多囊卵巢綜合徵，於2025年7月利用CAPA-IVM方案取卵，隨後在9月成功妊娠。CAPA-IVM技術核心是從未經藥物刺激的卵巢獲取還沒成熟的小卵子，在胚胎實驗室透過模擬卵子在身體裡自然成熟的環境，幫助其慢慢發育成成熟可用的卵子，再透過體外受精和胚胎移植實現妊娠。與傳統IVF(體外受精)試管方案相比，減少了患者打針、促排卵所需時間和精力，節省醫療支出。"
-    },
-    {
-      "id": "4908744",
-      "time": "2026-05-31 16:58:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面表示，目前與美國尚未達成最終共識，相關談判仍在繼續。德黑蘭拒絕外界對其決策施加壓力。"
-    },
-    {
-      "id": "mkt:019e7d41-4d8b-700f-a37c-af14629468b6",
-      "time": "2026-05-31 16:58:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's defense minister KATZ said Israeli forces will remain in the Beaufort Castle area as part of Israel's security zone in Lebanon."
-    },
-    {
-      "id": "4908743",
-      "time": "2026-05-31 16:58:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：美伊諒解備忘錄草案約定，伊朗可在 60 天內動用 120 億美元被凍結資產，該協議目前尚未最終敲定。"
-    },
-    {
-      "id": "mkt:019e7d41-02d5-700f-a37c-a5fa1df4aa29",
-      "time": "2026-05-31 16:57:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Several artists withdraw from US 250th anniversary concert; Trump says he'll be 'opening act'】Several high-profile musicians have withdrawn from a concert on the National Mall planned for the 250th anniversary of US independence, citing fears of being drawn into political controversy, AP and other outlets reported. President Trump on May 30 expressed displeasure at the pullouts and said he intends to hold a political rally and deliver a speech as the series' \"opening act\". Of nine performers originally announced, five have withdrawn, including rock singer Bret Michaels and country singer Martina McBride."
-    },
-    {
-      "id": "4908742",
-      "time": "2026-05-31 16:57:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：以軍將繼續駐守博福特堡，該區域是以色列在黎巴嫩境內安全區的一部分。"
-    },
-    {
-      "id": "mkt:019e7d3a-e5b7-700f-a37c-9c4412be4244",
-      "time": "2026-05-31 16:51:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Aerolíneas Argentinas cancels World Cup special flights to Miami as fuel costs rise】In February Aerolíneas Argentinas had announced special World Cup services from Rosario, Córdoba and Tucumán to Miami starting June 8. The carrier said rising jet-fuel costs have eroded expected profitability and it has cancelled those Miami special flights. Affected passengers will be rebooked onto alternative services departing from Buenos Aires."
-    },
-    {
-      "id": "mkt:019e7d3a-0e17-700f-a37c-977f056beb5a",
-      "time": "2026-05-31 16:50:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Interior Ministry said air-raid sirens sounded in Nahariya and western Galilee after rockets were fired from Lebanon."
-    },
-    {
-      "id": "4908740",
-      "time": "2026-05-31 16:48:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【阿根廷航空公司因燃油價格上漲取消世界盃特別航班】阿根廷航空公司日前宣佈，受燃油價格上漲影響，該公司決定取消飛往美國邁阿密的美加墨世界盃特別航班。今年2月，阿根廷航空公司宣佈於6月8日開通從羅薩里奧、科爾多瓦、相簿曼至美國邁阿密的世界盃特別航班，為阿根廷內陸地區球迷提供觀賽便利。如今，因為燃油成本上漲影響了航班的預期盈利，阿根廷航空公司決定取消這些世界盃特別航班。已購買這些航班的乘客將被協調乘坐從首都布宜諾斯艾利斯起飛的其他航班。世界盃衛冕冠軍阿根廷隊將於6月1日在美國密蘇里州堪薩斯城開始集訓，6月16日與阿爾及利亞隊展開首場小組賽。（新華社）"
-    },
-    {
-      "id": "mkt:019e7d37-db78-7447-b5c8-bafa61d8ee93",
-      "time": "2026-05-31 16:47:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Australia cannot buy new US Virginia-class submarines; will take US in-service boats — Marles】Australian Deputy Prime Minister and Defence Minister Richard Marles confirmed on the 31st that Australia will be unable to purchase newly built US Virginia-class nuclear submarines under the prior procurement agreement and will instead receive US in-service Virginia-class boats. Under the US-UK-Australia trilateral security partnership (AUKUS), Canberra had planned from the 2030s to acquire two US in-service Virginia-class submarines plus one newly built, improved Virginia-class boat. Marles said the adjustment will age Australia’s submarine fleet but could relieve pressure on US shipbuilding capacity."
-    },
-    {
-      "id": "mkt:019e7d32-e3d3-700f-a37c-85eb802e67a6",
-      "time": "2026-05-31 16:42:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Enerhodar hit by sustained Ukrainian drone strikes, city government says; IAEA access to damaged Unit 6 conditional】Enerhodar city government said Ukrainian drones mounted sustained attacks on the city on the 31st, striking the city entrance, a gas station, residential and administrative buildings and vehicles; no casualties reported. Zaporizhzhia nuclear plant communications chief Yevgenia Yakhina said IAEA experts will be allowed to inspect the damaged generator/turbine room at Unit 6 once security conditions permit."
-    },
-    {
-      "id": "4908739",
-      "time": "2026-05-31 16:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱，夜間襲擊了俄羅斯薩拉托夫煉油廠。"
-    },
-    {
-      "id": "mkt:019e7d32-183c-700f-a37c-7b191fa18fc2",
-      "time": "2026-05-31 16:41:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's military said it struck the Saratov refinery in Russia overnight."
-    },
-    {
-      "id": "4908738",
-      "time": "2026-05-31 16:41:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱扎波羅熱核電站衛星城持續遭襲】俄新社今天（5月31日）援引扎波羅熱核電站配套城市埃涅爾戈達爾市政府新聞處訊息稱，烏軍無人機當天對該市發動持續襲擊，目標涉及城市入口處和加油站區域，居民樓、行政大樓及車輛也遭到打擊。暫未收到人員傷亡報告。目前，烏克蘭方面尚未對此進行回應。 此外，扎波羅熱核電站通訊主管葉夫根尼婭·亞希娜當天對俄新社表示，一旦情況允許，將向國際原子能機構專家開放受損的6號發電機組電機房，允許其進入檢查。 扎波羅熱核電站5月30日曾通報，該電站6號發電機組電機房遭一架烏克蘭無人機襲擊，牆體出現破洞，但未造成人員傷亡，也未對核安全構成直接威脅。國際原子能機構已確認收到相關報告。（CCTV國際時訊）"
-    },
-    {
-      "id": "4908737",
-      "time": "2026-05-31 16:39:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【獅頭股份：因申報檔案評估資料更新 併購事項中止稽核】獅頭股份公告稱，公司擬發行股份及支付現金購買杭州利珀科技97.4399%股份並募集配套資金。因評估報告有效期於2026年5月30日到期，為保持稽核期間評估資料有效性，公司將進行加期評估並更新材料，已申請中止稽核並獲上交所同意。本次中止稽核不會對交易產生重大不利影響，公司經營正常，待完成相關工作後將盡快申請恢復稽核。該交易尚需經上交所稽核及中國證監會註冊同意，存在不確定性。"
-    },
-    {
-      "id": "4908736",
-      "time": "2026-05-31 16:38:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澳大利亞將無法購買全新美國核潛艇】據澳大利亞媒體31日報道，澳副總理兼國防部長理查德·馬爾斯當天確認，澳大利亞將無法按照此前採購協議購買全新的美國“弗吉尼亞”級核潛艇，而是調整為美國現役核潛艇。馬爾斯與美國國防部長皮特·赫格塞思和英國國防大臣約翰·希利30日在新加坡參加第23屆香格里拉對話會期間釋出聯合宣告，宣佈將對澳方購買美國核潛艇專案進行調整。馬爾斯31日在新加坡接受澳媒採訪時重複了聯合宣告中的說法，稱這一調整是為了“簡化供應鏈管理、操作和維護要求，並最大限度提高成本效率”。根據此前美英澳結成的所謂“三邊安全夥伴關係”及核潛艇合作計劃，澳大利亞計劃自本世紀30年代起購買2艘美國現役“弗吉尼亞”級核潛艇和1艘全新改進型“弗吉尼亞”級核潛艇。《澳大利亞金融評論報》31日報道說，這一調整將導致澳潛艇艦隊老化，但可能會緩解美國的製造壓力。2021年9月，美英澳三國建立所謂“三邊安全夥伴關係”並開展核潛艇合作。澳大利亞是無核國家，三國推動極具核擴散風險的核潛艇合作，引發國際社會對三國深化軍事同盟、破壞地區安全穩定的疑慮和擔憂。（新華社）"
-    },
-    {
-      "id": "mkt:019e7d2e-20e6-7556-89f0-aafe1461f34b",
-      "time": "2026-05-31 16:37:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it was conducting strikes on Hezbollah infrastructure in the southern Lebanese city of Tyre and several other locations."
-    },
-    {
-      "id": "4908735",
-      "time": "2026-05-31 16:36:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邦彥技術：收到深圳證監局責令改正及警示函措施決定】邦彥技術公告稱，公司近日收到深圳證監局下發的《決定》，公司存在募集資金使用未明確分級審批許可權、內部交易未合併抵消等問題，影響資訊披露準確性。公司董事長兼總經理祝國勝、財務總監兼董事會秘書鄒家瑞、時任財務總監韓萍對相關問題負主要責任。深圳證監局決定對公司責令改正，對三人出具警示函，要求30日內提交書面整改報告。公司將按要求整改，提升規範運作和資訊披露質量。"
-    },
-    {
-      "id": "4908734",
-      "time": "2026-05-31 16:36:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州通報“長江輕紡城再度起火”：火場清理中區域性點位復燃】數日前起火的廣州海珠區長江輕紡城再度起火，引起外界關注。據微博@廣州消防 5月31日下午通報，5月31日5時35分，海珠區鳳陽街道瑞康路389號(長江輕紡城)火場清理過程中，區域性點位發生復燃，產生煙霧。消防救援部門組織力量，加大力度開展降溫排煙清理作業，受影響區域無擴大，無人員傷亡。（澎湃）"
-    },
-    {
-      "id": "4908733",
-      "time": "2026-05-31 16:35:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【《習近平法治文選》第一卷英文版出版發行】中共中央黨史和文獻研究院翻譯的《習近平法治文選》第一卷英文版，近日由中央編譯出版社出版，面向海內外發行。《習近平法治文選》第一卷由中共中央黨史和文獻研究院編輯，收入習近平同志2012年12月至2025年2月期間關於法治建設最重要、最基本的著作，為全黨全國各族人民深入學習貫徹習近平新時代中國特色社會主義思想特別是習近平法治思想提供了權威教材。這部著作英文版的出版發行，有助於國外讀者深入瞭解習近平法治思想的豐富內涵，瞭解新時代中國特色社會主義法治建設發生的歷史性變革、取得的歷史性成就，瞭解中國智慧、中國實踐為世界法治文明建設作出的重要貢獻，對於增強國際社會踐行國際法治精神、開展國際法治合作、攜手共建人類命運共同體的共同認識，推動全球治理朝著更加公正合理的方向發展，具有重要意義。（新華社）"
-    },
-    {
-      "id": "mkt:019e7d2c-b967-7447-b5c8-a069a7330941",
-      "time": "2026-05-31 16:35:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Tasnim News quoted the Islamic Revolutionary Guard Corps as saying 28 vessels, including oil tankers, container ships and other merchant vessels, transited the Strait of Hormuz in the past 24 hours after receiving permission and under coordination and security guarantees from the Iranian navy."
-    },
-    {
-      "id": "4908732",
-      "time": "2026-05-31 16:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱正打擊黎南部城市提爾等多地的真主黨設施】當地時間31日，以色列國防軍發表宣告稱，正在對黎巴嫩南部城市提爾及其他多個地區的真主黨基礎設施目標實施打擊。（央視新聞）"
-    },
-    {
-      "id": "4908731",
-      "time": "2026-05-31 16:34:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【緬甸撣邦北部發生一起爆炸事故 多間房屋損毀】據緬甸方面訊息，5月31日在撣邦北部南坎鎮發生一起嚴重爆炸事故，爆炸現場濃煙滾滾，多處房屋損毀。目前當地消防、救援組織已趕往現場救助，事故原因及人員傷亡情況有待進一步瞭解。（央視新聞）"
-    },
-    {
-      "id": "4908730",
-      "time": "2026-05-31 16:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱過去24小時內有28艘船隻經協調透過霍爾木茲海峽】當地時間5月31日，伊朗伊斯蘭革命衛隊宣佈，過去24小時內有28艘包括油輪、集裝箱船及其他商船在獲得許可後，經過伊朗海軍的協調和安全保障，從霍爾木茲海峽透過。革命衛隊還表示，波斯灣是屬於該地區國家的水域，美國軍隊的侵略和破壞是近期該地區不安全的主要原因。霍爾木茲海峽的智慧控制正在持續、堅定且有力地進行中。（央視新聞）"
-    },
-    {
-      "id": "4908729",
-      "time": "2026-05-31 16:31:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列國防軍表示，已對黎巴嫩南部的提爾及其他地區的真主黨設施發動打擊。"
-    },
-    {
-      "id": "4908728",
-      "time": "2026-05-31 16:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【戰爭陰霾籠罩世界盃，伊朗國家隊運動員仍未獲得赴美簽證】距離美加墨世界盃開幕還有不到兩週時間，在參加世界盃的48支球隊中，伊朗隊的處境充滿變數。截至5月30日，伊朗球隊、教練及後勤團隊的所有成員均未獲發美國和墨西哥的簽證。（澎湃）"
-    },
-    {
-      "id": "4908727",
-      "time": "2026-05-31 16:29:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【漳汕高鐵廣東段架樑施工穩步推進】目前，由中鐵十二局承建的漳汕高鐵廣東段全面啟動橋樑架設施工。專案建設中施工單位大力應用高鐵箱梁成套化機械裝備體系，實現高鐵箱梁生產、運輸、架設的機械化智慧化。新建漳州至汕頭高速鐵路北起福建省漳州市漳州站，終至廣東省汕頭市汕頭站，設計時速350公里。建成通車後，將與福廈高鐵、廣汕高鐵等共同組成沿海大通道，進一步完善區域路網結構，助力國家東部沿海地區高質量發展。(新華社）"
-    },
-    {
-      "id": "4908726",
-      "time": "2026-05-31 16:28:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【從“合規披露”向“價值創造”躍升《鋼鐵行業社會責任藍皮書（2026）》編制工作啟動】5月28日，由中國鋼鐵工業協會主辦、首鋼集團有限公司和冶金工業經濟發展研究中心共同承辦的《鋼鐵行業社會責任藍皮書（2026）》編制工作啟動會在北京首鋼園召開。行業協會、骨幹企業、研究機構、金融機構和評級機構的相關專家參加會議，共同探討如何在鞏固成果基礎上，以更高站位、更寬視野創新實踐，做好藍皮書的編制工作，強化行業整體社會責任能力建設，助力鋼鐵行業實現可持續高質量發展。（中國鋼鐵協會）"
-    },
-    {
-      "id": "4908725",
-      "time": "2026-05-31 16:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哈工大“種”出1克拉鑽石送新人】5月31日，初夏的哈爾濱，陽光明媚。哈爾濱工業大學國際校園內，一棟棟別具風情的歷史建築前，學校第十一屆博士生集體婚禮在草坪上啟幕，187對新人如約而至。這兩年，每一對參加集體婚禮的新人都收到了一份來自母校的特殊禮物——一枚鑲嵌鑽石的婚戒。今年，這枚鑽石重達1克拉。自然界中，一顆天然鑽石的形成需要在地下深處歷經上億年的高溫高壓淬鍊。而這顆來自哈工大實驗室的高品質鑽石，從“種子”到成品只需要幾天。（新華社）"
-    },
-    {
-      "id": "4908724",
-      "time": "2026-05-31 16:27:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天地線上：公司數字人等虛擬數字內容服務業務仍處於前期發展階段】天地線上(002995)5月31日釋出股票交易異常波動公告，目前公司主營業務未發生重大變化，公司主要業務是為客戶提供網際網路廣告投放及廣告代運營服務，2025年度該部分業務收入佔主營業務收入的比例為90.5%，公司僅在內部少部分工作流程中透過人工智慧工具輔助內容創作、最佳化營銷策略，但相關技術的應用對公司成本費用影響極小，且對公司收入沒有影響。公司數字人、數字內容、VR大空間等虛擬數字內容服務業務仍處於前期發展階段，收入佔比極小，未來能否為公司帶來良好的業績回報尚具有較大不確定性。"
-    },
-    {
-      "id": "mkt:019e7d25-3107-7556-89f0-9a37da00edd8",
-      "time": "2026-05-31 16:27:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【EU weighs pausing automatic resets of Russia oil price cap as war lifts oil prices】EU officials are considering a temporary freeze of the automatic six-month reset of the Russia oil price cap after Middle East fighting and Strait of Hormuz disruptions pushed crude sharply higher, sources said. The mechanism, adopted last year, sets the cap at 15% below the Russia Urals market average; the current cap is $44.10/bl and is due for reassessment in late summer. Under the cap, EU firms are prohibited from providing insurance, shipping or other services for oil sold above the cap. Sources said a July review could raise the cap to at least $65/bl — above the $60 level previously agreed by the G7 — while a freeze would keep it at the current level."
-    },
-    {
-      "id": "4908723",
-      "time": "2026-05-31 16:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【立陶宛外長髮表呼籲攻擊俄飛地言論 克羅埃西亞總統：不負責任】克羅埃西亞總統米拉諾維奇近日批評稱，一些波羅的海國家的高階官員有關攻擊俄羅斯飛地加里寧格勒的言論“不負責任”。此前，據瑞士方面訊息，立陶宛外交部長佈德里斯表示，北約國家必須向俄羅斯展示其有能力穿透俄羅斯在加里寧格勒建立的小型堡壘，且有能力在必要時摧毀加里寧格勒的俄防空系統和導彈基地。對此，俄羅斯總統新聞秘書佩斯科夫20日回應稱，相關言論“近乎瘋狂”，波羅的海國家的“反俄情緒”阻礙他們去做符合自己國家利益的事。俄羅斯總統普京29日稱，俄羅斯有能力摧毀任何企圖摧毀俄防空系統的物件。加里寧格勒是俄羅斯的一塊飛地，位於立陶宛和波蘭之間。（央視新聞）"
-    },
-    {
-      "id": "4908722",
-      "time": "2026-05-31 16:26:47",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國人保：董事長丁向群因工作調動辭任】中國人保(601319.SH)公告稱，公司董事會收到丁向群的辭呈。丁向群因工作調動，辭去公司執行董事、董事長及董事會戰略與投資/可持續發展委員會主任委員職務，該辭任自2026年5月31日起生效。丁向群已確認與董事會無不同意見，亦無其他事項需通知股東。"
-    },
-    {
-      "id": "4908721",
-      "time": "2026-05-31 16:25:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列將簽署Isaac Accords資金備忘錄，深化與拉美地區合作。"
-    },
-    {
-      "id": "4908720",
-      "time": "2026-05-31 16:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳說不必過度糾結學什麼專業 OpenAI執行長回應AI焦慮】本週有多位科技領袖，就AI對教育和就業的影響發聲。英偉達CEO黃仁勳近期表示，在AI時代，家長不必過度糾結孩子該學什麼專業。更重要的是，孩子能否學會利用AI提升自己的技能。他認為，AI會自動化許多具體任務，但也會把人推向更復雜、更高層次的工作，而這些工作仍然需要判斷力、創造力以及講故事的能力。近期還正值不少高校的畢業季，許多畢業生對AI時代的就業前景感到擔憂。對此，OpenAI的CEO阿爾特曼則表達了相對樂觀的看法。他表示，AI的快速發展不太可能引發所謂全球性的“就業末日”。他承認，自己此前曾嘗試用AI回覆工作訊息和郵件，但後來取消了這一做法，因為他發現，工作中所需要的“人性”部分是無法被AI取代的。（央視財經）"
-    },
-    {
-      "id": "4908719",
-      "time": "2026-05-31 16:23:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【航運資料顯示霍爾木茲海峽危機大幅推高集裝箱運價】英國航運媒體《勞埃德船舶日報》5月30日報道，受霍爾木茲海峽通行受阻等因素影響，船用燃油成本暴漲近70%，航運企業將成本壓力轉嫁給貨主，全球集裝箱海運價格持續飆升。若海峽無法儘快復航，市場衝擊將進一步加劇。訊息稱，本輪運價上漲的核心推手為燃油成本激增。全球20大加油樞紐超低硫燃料油價格較2月中旬上漲68%，高硫燃油上漲66%。英國德魯裡航運諮詢公司表示，中東地緣緊張局勢持續，高企的燃油成本與附加費對各航線運價形成顯著壓力。丹麥航運巨頭馬士基集團執行長文森特·克勒克說，霍爾木茲海峽危機每月給公司帶來約5億美元額外燃油支出。德國航運巨頭赫伯羅特公司執行長羅爾夫·哈本·揚森透露，公司每週額外燃油成本達5000萬歐元至6000萬歐元，運價漲幅與成本增幅基本匹配。埃克森美孚高階副總裁尼爾·查普曼警告，如果未來數週霍爾木茲海峽仍無法恢復通行，布倫特原油價格可能飆升至每桶150美元至160美元，進一步推高船用燃油成本與燃油附加費。（央視新聞）"
-    },
-    {
-      "id": "4908718",
-      "time": "2026-05-31 16:22:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列國防軍向黎巴嫩扎哈拉尼河以南地區居民釋出大範圍撤離警告，稱在遭遇火箭彈襲擊後，計劃加大針對真主黨的軍事行動力度。"
-    },
-    {
-      "id": "4908717",
-      "time": "2026-05-31 16:21:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟考慮因伊朗戰事暫時凍結俄羅斯石油價格上限。"
-    },
-    {
-      "id": "4908716",
-      "time": "2026-05-31 16:14:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【唯特偶：股價嚴重異常波動 提示多項投資風險】唯特偶公告稱，截至2026年5月29日，公司滾動市盈率225.74倍，顯著高於行業的65.93倍。4月3日至5月20日，公司股價漲幅偏離值累計超200%，屬嚴重異常波動；5月21日至29日，7個交易日漲幅偏離值累計達17.50%。公司自查未發現重大影響報道，光模組等領域營收貢獻低。日常經營正常，無應披露未披露重大事項。4月27日曾披露股東減持預披露公告，減持後控制權不變。提醒投資者理性投資。"
-    },
-    {
-      "id": "4908715",
-      "time": "2026-05-31 16:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表質疑菲律賓言行矛盾】今天（5月31日），菲律賓國防部長特奧多羅在香格里拉對話會上發表演講。中國人民解放軍專家學者代表團成員、國防大學張弛大校向其提問稱，菲律賓總統曾表示地區國家應繼續為達成“南海行為準則”努力，但另一方面，菲律賓派人登上南海的無人島礁，這種行徑違反了《南海各方行為宣言》，菲方的言行自相矛盾，當作何解釋？特奧多羅在回答時大放厥詞，甚至表示既然已經有《聯合國憲章》，為何還需要“南海行為準則”。總檯記者向菲律賓外交部詢問菲防長的這一觀點，是否代表菲律賓外交部也持同樣立場，是否會影響“南海行為準則”的談判進展。目前尚未得到菲律賓外交部回覆。（CCTV國際時訊）"
-    },
-    {
-      "id": "4908714",
-      "time": "2026-05-31 16:13:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰恩康：控股子公司創新藥提前啟動IIb期臨床試驗】泰恩康公告稱，控股子公司博創園自主研發的1類創新藥CKBA乳膏玫瑰痤瘡適應症IIa期臨床試驗完成全部15例受試者入組，初步結果顯示，已完成4周和8周隨訪的受試者炎性皮損計數顯著減少，患者自我評價較基線平均改善27.4%，無嚴重不良反應。鑑於此，公司擬提前啟動IIb期臨床試驗，目前已完成相關方案制定和機構初步篩選等工作。該專案短期內對公司財務和業績無重大影響，研發存在不確定性。"
-    },
-    {
-      "id": "4908713",
-      "time": "2026-05-31 16:13:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九安醫療：1.03億元認購基金份額 投向上海階躍星辰】九安醫療公告稱，公司於2026年4月24日同意以自有資金1.03億元參與認購海棠同慧基金份額，該基金總規模4.12億元。截至公告披露日，基金已簽署《上海階躍星辰智慧科技股份有限公司之股份認購協議》。標的公司法定代表人為印奇，註冊資本6051.99萬元。不過，投資存在收益不及預期、行業變化等風險，公司將強化投後跟蹤與評估。"
-    },
-    {
-      "id": "4908712",
-      "time": "2026-05-31 16:12:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大金重工：與挪威、希臘船東簽署20.5億元船舶建造合同】大金重工公告稱，公司及下屬子公司與希臘、挪威船東各簽署兩份散貨船建造合同，將為其設計、建造、交付4艘211,000DWT散貨船，合同總金額約3億美元（摺合人民幣約20.5億元），將於2029年分批交付。合同履行預計對公司未來業績產生積極影響，但實施週期長、以外幣結算，存在收入確認金額和時間不確定、受市場變化影響等風險。"
-    },
-    {
-      "id": "4908711",
-      "time": "2026-05-31 16:12:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達安基因：總經理助理張平辭職】達安基因公告稱，公司董事會近日收到張平女士的書面辭職報告，因個人原因，張平女士辭去公司總經理助理職務，辭職報告自送達董事會之日起生效，辭職後不再擔任公司任何職務。截至公告披露日，張平女士未持有公司股票，且與公司及董事會無意見分歧，無未履行承諾事項。其辭職不會影響公司日常生產經營和管理，後續將做好離職交接工作。"
-    },
-    {
-      "id": "4908710",
-      "time": "2026-05-31 16:12:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中成股份：組建聯合體參與紐西蘭專案 擬提供2.41億元反擔保】中成股份公告稱，2025年11月14日，公司與中機公司、INTEC組建的聯合體與業主簽署紐西蘭Glorit 170MW光伏電站EPC合同，約合人民幣10.54億元。公司所佔合同份額約4.08億元。中機公司將代表聯合體向業主出具保函，公司擬按份額等向其提供不可撤銷的連帶責任反擔保，反擔保金額約5979.56萬紐西蘭元（折人民幣約2.41億元），佔公司最近一期經審計淨資產的33.52%。該事項已透過公司董事會審議，尚需股東會審議。專案執行存在匯率、成本等風險。"
-    },
-    {
-      "id": "4908709",
-      "time": "2026-05-31 16:12:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【耐普礦機：與紫金礦業簽訂三年期戰略合作協議】耐普礦機公告稱，公司近日與紫金礦業簽訂三年期《戰略合作協議書》，合作期限自2026年5月14日至2029年5月13日。協議內容包括產品採購、海外專案協同、科研開發等方面。公司近三年與紫金礦業有交易往來，2023 - 2025年交易金額分別為1.04億元、0.64億元、1.46億元。此次合作不涉及具體金額，對業績影響存在不確定性，履行中或有合同無法全面履行的風險。"
-    },
-    {
-      "id": "4908708",
-      "time": "2026-05-31 16:09:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利歐股份：更新H股發行上市申請資料並披露查詢方式】利歐股份公告稱，公司正在申請發行H股並在香港聯交所主機板掛牌上市，已於2025年9月29日遞交申請並刊登申請材料。2026年5月29日，公司更新遞交申請並登載更新資料。本次發行認購物件為境外及境內合格投資者，境內不刊登申請資料，提供香港聯交所網站查詢連結。本次發行尚需相關部門批准，能否實施存在不確定性，公司將及時披露進展。"
     }
   ]
 }
