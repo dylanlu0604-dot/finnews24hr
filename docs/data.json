@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-07 14:33:07",
+  "updated": "2026-06-07 14:50:22",
   "count": 18943,
   "items": [
+    {
+      "id": "mkt:019ea0d7-0200-7665-8317-1d1828bdd1fe",
+      "time": "2026-06-07 14:48:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA's Jensen Huang meets KRAFTON and NCSOFT in Seoul to discuss game AI cooperation】NVIDIA CEO Jensen Huang met KRAFTON’s founder and chairman and representatives from NCSOFT in Seoul on July 7 to discuss game-focused AI cooperation, including humanoid/“physical AI” applications and collaborations tied to NVIDIA’s newly launched AI laptop series, RTX Spark, Yonhap reported. NVIDIA has supplied DLSS rendering support for NCSOFT’s new title AION2; Huang viewed the game at a local PC bang and joined a brief livestream with NCSOFT executives to exchange views on the direction of the game industry and AI technology."
+    },
+    {
+      "id": "4921720",
+      "time": "2026-06-07 14:44:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳會見韓國兩大遊戲商代表共商遊戲AI合作方案】英偉達執行長（CEO）黃仁勳7日在首爾江南區的網咖先後會見韓國遊戲公司KRAFTON創始人兼董事長蔣柄圭和遊戲開發商NCSOFT代表金澤辰。下午1時20分許，黃仁勳抵達網咖入口，首先向在路邊等待的市民們致意，之後與蔣柄圭以及KRAFTON公司的多名高管一一握手問候併合影。據悉，當天黃仁勳和蔣柄圭可能就物理AI等人形機器人，以及基於英偉達近期釋出的首款AI膝上型電腦系列“RTX Spark”的遊戲領域合作等進行討論。在結束與KRAFTON高管的會面後，黃仁勳移步附近的另一家網咖，同金澤辰以及NCSOFT高層會面。黃仁勳同在網咖的玩家們寒暄問候，並親自了解了NCSOFT的新作《永恆之塔2》（《AION2》）。英偉達已為《永恆之塔2》提供圖形最新技術支援（DLSS深度渲染技術）。黃仁勳還同金澤辰“閃現”網路直播，就遊戲產業和AI技術的發展方向等交換意見。"
+    },
+    {
+      "id": "mkt:019ea0cf-a307-7665-8317-17ce1389c254",
+      "time": "2026-06-07 14:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said on Tuesday it killed Sakr Abu Karim, a commander of an operational unit in Hamas's elite Nukhba force and the leader of the Oct. 7, 2023 attack on the Kissufim area."
+    },
+    {
+      "id": "mkt:019ea0cf-2260-7665-8317-089a6b4e542d",
+      "time": "2026-06-07 14:39:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IDF and Shin Bet told The Times of Israel that a Hamas operative who took part in the October 7 attacks and planned operations against Israeli forces was killed in an IDF strike in Gaza last week."
+    },
+    {
+      "id": "4921719",
+      "time": "2026-06-07 14:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏軍戰俘：俄無線電通訊已被偵聽和掌控】據鳳凰衛視報道，烏軍戰俘爆料，俄軍大量使用民間渠道採購的對講機一開機即接入烏軍星鏈網路，常常被烏方偵聽和掌控。同時，俄媒透露烏軍正組建新旅準備反攻，盧甘斯克則緊急釋出國道禁令。 一名烏軍戰俘在接受記者採訪時表示，在前線作戰中，俄軍基層無線電通訊也常常被偵聽和掌控。由於俄軍大量使用從亞洲某國透過民間渠道所購買的無線電臺，這些對講機只要開機連通，就會直接聯絡在烏軍普及的星鏈網路上，俄烏兩軍互用，烏軍也可以隨時對此程式設計，實施控制，基本上沒有秘密可言，這也嚴重威脅到俄軍戰場通訊的安全。"
+    },
+    {
+      "id": "4921718",
+      "time": "2026-06-07 14:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：以色列國防軍和以色列安全域性上週在加沙地帶南部發動襲擊，消滅了哈馬斯努赫巴特小隊的指揮官扎克爾·阿布·卡里姆。"
+    },
+    {
+      "id": "mkt:019ea0c9-d064-7665-8317-050b3233f204",
+      "time": "2026-06-07 14:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran first vice president says officials united on negotiating texts】IRNA reports Iran’s first vice president said senior officials are fully united on Tehran’s negotiating strategy, rejecting reports of divisions over negotiation texts or proposals. He said Iran is taking a clear, coordinated approach and that officials have no differences on texts and proposals. He was referring to indirect talks with the United States described as aimed at permanently ending US and Israeli wars against Iran, and added Iran’s experience in two wars has provided valuable crisis-management lessons."
+    },
     {
       "id": "4921717",
       "time": "2026-06-07 14:28:56",
@@ -174624,69 +174688,6 @@
         "其他"
       ],
       "text": "【雲南會澤發生私挖盜採礦產資源垮塌事故致5人死亡】5月31日凌晨4時30分，雲南省會澤縣娜姑鎮白霧村發生一起私挖盜採礦產資源垮塌事故致5人死亡、1人受傷。記者從當地有關部門獲悉，接報後，曲靖、會澤市縣兩級應急、公安、消防、衛健、自然資源等部門立即趕赴現場進行救援處置，經全力搜救，被困的6名人員全部救出並第一時間送往醫院救治，其中5名被困人員因傷勢過重、搶救無效不幸死亡，1名被困受傷人員目前生命體徵平穩、無生命危險。目前，善後處置、事故調查等工作正在有序開展。（新華社）"
-    },
-    {
-      "id": "4908636",
-      "time": "2026-05-31 14:49:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市委黨校成立首都國際傳播研究中心】5月31日，北京市委黨校舉辦“加強國際傳播能力建設”學術研討會。北京市委黨校成立首都國際傳播研究中心，打造具有首都黨校特色的國際傳播教研諮宣一體化協同平臺。（北京釋出）"
-    },
-    {
-      "id": "4908635",
-      "time": "2026-05-31 14:47:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國要從中東基地撤軍？赫格塞思：伊朗戰事結束後特朗普再決定】美國國防部長赫格塞思30日表示，美國是否會從某些中東軍事基地撤軍，將由總統特朗普在伊朗戰事結束後做出決定。 赫格塞思在新加坡出席第23屆香格里拉對話會期間，有記者問及，美國在中東多個軍事基地在伊朗戰事中受損，美方是否考慮從其中一些基地撤軍？赫格塞思說，特朗普將根據伊朗戰事結果做出相應決定，眼下美方專注於做好準備，必要時隨時重啟軍事行動。（新華社）"
-    },
-    {
-      "id": "mkt:019e7cc6-dcb2-7bb7-996d-66d5620d0882",
-      "time": "2026-05-31 14:44:27",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Katz issues hardline warning to Lebanese Hezbollah】May 31 — Israeli defense minister Katz said Israel is determined to weaken Lebanese Hezbollah, adding the \"enemy will lose its strategic positions one by one.\""
-    },
-    {
-      "id": "4908634",
-      "time": "2026-05-31 14:42:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以防長對黎真主黨放狠話】今天（5月31日），以色列國防部長卡茨表示，以方決心削弱黎巴嫩真主黨的力量。他表示，“敵人將一個接一個失去其戰略位置”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e7cc2-832f-7bb7-996d-5e6aa28dba5e",
-      "time": "2026-05-31 14:39:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan Maritime Self-Defense Force cancels US F-35B deck-landing training on JS Kaga】Japan's Maritime Self-Defense Force said on May 30 it canceled a planned early-June US Marine Corps F-35B deck-landing exercise aboard escort ship JS Kaga in the western Pacific. The service cited \"unit operational scheduling and expected severe weather\". The exercise was among steps toward the ship's \"de facto aircraft carrier\" capability; earlier reports said Japan's Defense Ministry planned two major refits to enable F-35B operations."
-    },
-    {
-      "id": "4908633",
-      "time": "2026-05-31 14:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面5月31日訊息，伊朗30日展示了一款最新型的攻擊艇，成為伊朗海軍力量的新象徵。（央視新聞）"
-    },
-    {
-      "id": "4908632",
-      "time": "2026-05-31 14:35:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀輪股份：油價上漲導致運費上漲，對運輸成本有一定影響】銀輪股份5月31日在互動平臺表示，油價上漲導致運費上漲，對運輸成本有一定影響。"
     }
   ]
 }
