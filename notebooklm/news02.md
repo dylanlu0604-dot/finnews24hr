@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:07:38_
-_本檔包含 3794 則快訊，約 707181 字_
+_更新時間：2026-06-08 02:41:31_
+_本檔包含 3797 則快訊，約 706796 字_
+
+---
+
+### 2026-06-05 14:43:41  #市場 #央行 #國際
+
+印度央行行長馬爾霍特拉：目前並未審議任何黃金貨幣化提案。
+
+---
+
+### 2026-06-05 14:43:29  #央行 #國際
+
+印度央行行長馬爾霍特拉：暫無對外國貨幣非居民（FCNR）存款流入設定具體目標。
+
+---
+
+### 2026-06-05 14:43:18  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+Shanghai Composite Index fell more than 1% at the close; Shenzhen Composite Index fell 2.5%; ChiNext Index fell more than 3.6%.
+
+---
+
+### 2026-06-05 14:43:03  #公司
+
+【星巴克即飲首款能量飲料上線：康師傅代工助陣，開售即斷貨】星巴克即飲業務於6月在山姆會員店首發全新能量飲料，正式切入功能性提神賽道。新品命名為“星巴克能量飲料冰爽百香果味”，主打健康化概念，採用低糖0脂配方，零售價為69.9元/箱（18瓶×228ml），約合3.8元/瓶。目前該產品在山姆App已顯示斷貨。據瞭解，該款產品的委託方是上海康領食品有限公司，受委託加工方為蘇州頂津食品有限公司。天眼查顯示，這兩家公司的控股股為均為康師傅飲品投資（中國）有限公司（以下簡稱：康師傅）。
+
+---
+
+### 2026-06-05 14:42:30  #市場 #焦點
+
+上證指數跌1.00%，現報4017.062點；深證成指跌2.56%，現報15259.900點；創業板指跌3.62%，現報3940.747點。
+
+---
+
+### 2026-06-05 14:39:45  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
+
+Romania Q1 GDP Growth Falls to 2020 Lows — Romania’s economy declined 1.2% year-on-year in the first quarter of 2026, easing from a 1.7% fall in the initial estimate and down from 0.2% growth in the previous quarter, according to second estimates. This marked the first contraction since Q4 2020, driven by declines in government spending (-0.6%) and household consumption (-1.7%). However, growth was seen in gross fixed capital formation (4.7%) and net external demand, as exports rose 1.9% while imports grew 1.2%. On the production side, output fell in mining and quarrying (-1.2%), wholesale and retail trade (-3.1%), information and communication (-4.1%), real estate (-1.9%), professional and scientific activities (-3.9%), and public administration and defence (-1.3%), while the strongest gains were recorded in construction (7.9%) and culture and recreation activities (11.6%). On a seasonally adjusted quarterly basis, GDP was flat, revised from 0.2% fall in the preliminary data, following a 1.9% decline in the previous quarter.
+
+---
+
+### 2026-06-05 14:38:41  #其他
+
+【曝英偉達重啟顯示卡計劃】訊息人士稍早前爆料稱，NVIDIA（英偉達）的GeForceRTX50系列顯示卡SUPER中期更新計劃正從此前的“冬眠”中甦醒，重回正軌。本次中期更新將包括12GB視訊記憶體版本的60級產品，命名有可能是RTX506012GB或RTX5060SUPER12GB。其認為NVIDIA總有辦法在當前的儲存危機中找到SUPER顯示卡所需的視訊記憶體供應，並將其與GPU核心捆綁向下遊AIC合作伙伴銷售。
+
+---
+
+### 2026-06-05 14:38:22  #觀點 #國際
+
+【美國瘋狂全球搶銅】近期，美國貿易商掀起瘋狂搶銅潮。截至5月29日，紐約商品交易所（COMEX）銅庫存已高達約64.02萬噸，創歷史新高。高盛測算，美國以外市場銅供應缺口猛增至64萬噸。同樣是銅，一邊在美國倉庫裡堆滿，一邊在非美國地區供不應求。當少數大國用關稅預期製造跨市場價差、吸引全球銅資源向美國集中，其他國家正在為其政策不確定性買單。（中新網）
+
+---
+
+### 2026-06-05 14:37:53  #其他
+
+【新易盛成交額達300億元】6月5日下午，新易盛成交額達300億元，現跌4.32%。
+
+---
+
+### 2026-06-05 14:37:08  #MKT News
+
+Reserve Bank of India governor said he will remain vigilant if inflation becomes broad-based.
 
 ---
 
@@ -22805,47 +22865,5 @@ China A-shares BC battery sector briefly rallied; Xinqi Weizhuang rose more than
 ### 2026-06-04 10:42:33  #Trading Economics #Markets #New Zealand #Currency #Importance 1
 
 New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.586 after three consecutive sessions of losses, as flaring tensions in the Middle East kept investors cautious. Fighting in the region intensified earlier this week, raising fears of wider regional instability and prolonged disruptions to energy flows. However, some relief emerged after Israel and Lebanon had agreed to implement a ceasefire contingent on Hezbollah halting its attacks, while President Donald Trump said talks with Iran were going “very well” and could produce outcomes over the coming weekend, despite denials from Tehran. The kiwi was also supported by rising expectations of tighter monetary policy following a hawkish outlook from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and about 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases.
-
----
-
-### 2026-06-04 10:41:58  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Firm — The yield on the US 10-year Treasury note hovered around 4.48% on Thursday after climbing in the previous session, as stronger-than-expected labor market data reinforced expectations of tighter Federal Reserve policy. The ADP report released Wednesday showed private-sector employment rose by 122K in May, beating forecasts and reaching its highest level since January 2025. Earlier in the week, JOLTS data indicated that job openings increased in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further clues on the strength of the labor market. Treasury yields also found support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently price in an 85% chance of a quarter-point Fed rate hike by year-end, up from 60% a week ago.
-
----
-
-### 2026-06-04 10:41:47  #市場 #國際
-
-印尼盾對美元匯率下跌0.5%，至18030，創下歷史新低。
-
----
-
-### 2026-06-04 10:41:46  #MKT News
-
-Singapore benchmark stock index fell 1.2% to 5,076.81 points.
-
----
-
-### 2026-06-04 10:41:42  #MKT News #Commodities #Energy
-
-Indonesia's Ministry of Energy and Mineral Resources said coal production in Jan-Apr totaled 234 mln mt and exports were 150.9 mln mt.
-
----
-
-### 2026-06-04 10:41:31  #公司 #國際
-
-【澳大利亞總理回應美國新關稅提案：不合理，澳美就關稅存在“意識形態分歧”】據法新社、澳大利亞廣播公司（ABC）報道，針對美國方面日前提出的新關稅提案，澳總理阿爾巴尼斯4日表示，相關關稅措施“不合理”，並稱澳大利亞與美國在關稅問題上存在“意識形態分歧”。(環球網)
-
----
-
-### 2026-06-04 10:41:21  #MKT News #Copper
-
-Indonesia's Ministry of Mines said copper concentrate production totaled 422,510 tonnes in January–April, while cathode copper output was 83,280 tonnes.
-
----
-
-### 2026-06-04 10:41:15  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Holds Near 2-Week Low — The Australian dollar held below $0.715, staying near a two-week low as renewed hostilities in the Middle East dampened risk sentiment, while upbeat domestic trade data offered support. Australia's trade position returned to a surplus of AUD 1.79 billion in April from a deficit of AUD 1.02 billion in March, as exports climbed to a three-year high, led by stronger shipments of metal ores, while import growth remained modest. Earlier this week, the country's softer Q1 GDP readings reinforced signs that higher interest rates are already cooling demand. The Reserve Bank has raised interest rates three times this year to slow the economy, bringing demand back in line with supply to contain price pressures. However, fresh attacks in the Middle East and near the crucial Strait of Hormuz has kept energy prices elevated, fueling inflation concerns. Markets now have ruled out another rate hike this month, but remain evenly split for a move in August and are pricing a 4.60% peak by year-end.
 
 ---

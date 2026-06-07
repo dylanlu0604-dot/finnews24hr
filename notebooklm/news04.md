@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:07:38_
-_本檔包含 3799 則快訊，約 706935 字_
+_更新時間：2026-06-08 02:41:31_
+_本檔包含 3800 則快訊，約 706917 字_
+
+---
+
+### 2026-06-03 09:20:38  #公司
+
+【元隆雅圖：與聚星動力合作開發多款足球隊IP衍生產品】元隆雅圖(002878)在互動平臺表示，為迎接2026年世界盃，公司與聚星動力合作開發了多款阿根廷、葡萄牙、法國、西班牙國家足球隊IP衍生產品、球星周邊產品和足球主題文創產品，包含梅西等球星毛絨盲盒、冰箱貼等產品，目前多款產品已經上市，同時還在持續開發新品並上架銷售。
+
+---
+
+### 2026-06-03 09:20:29  #國際
+
+【歐盟或凍結俄羅斯石油價格上限】多家西方媒體披露，歐盟考慮凍結針對俄羅斯石油的限價機制，把價格維持在當下水平，而非按照市場行情調整價格上限，以阻止俄羅斯繼續獲得國際原油價格飆升的“紅利”。（新華社）
+
+---
+
+### 2026-06-03 09:20:26  #MKT News
+
+【Rubio: U.S. has not yet met objectives in Venezuela but is making progress】U.S. Secretary of State Rubio told a congressional hearing the U.S. has not yet achieved its intended objectives in Venezuela but is moving in that direction. He said it has been only five months and that overhauling a system in place for 16–18 years will take time, but he believes progress is occurring at a good pace.
+
+---
+
+### 2026-06-03 09:20:05  #國際
+
+【印度欲再採購114架法國“陣風”戰機】印度亞洲新聞國際通訊社日前以印度防務界人士為訊息源報道，印度已向法國提交購買114架“陣風”戰鬥機的意向書。據悉，雙方計劃在明年完成交易談判。（新華社）
+
+---
+
+### 2026-06-03 09:20:05  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Inch Higher Ahead of GDP Data — Australian shares edged up 14 points, or 0.2%, to 8,739 in early Wednesday trade, snapping two sessions of muted activity after Wall Street closed mostly higher overnight. Sentiment improved following remarks from President Trump and Secretary of State Marco Rubio, who signaled Washington remained engaged in talks with Tehran over a potential deal to halt the Middle East conflict. Gains, however, were limited by fresh data showing industry conditions stayed weak in Australia during May, reflecting an energy crisis and broader economic uncertainty. Investors also turned cautious ahead of Q1 GDP figures due later today, with expectations for slower growth amid global headwinds and continued monetary tightening. Sector strength came from non-energy minerals, producer manufacturing, and process industries, while consumer durables, healthcare, and commercial services weighed. Notable movers included BHP Group (2.3%), Northern Star Resources (4.8%), and Mineral Resources (2.1%).
+
+---
+
+### 2026-06-03 09:20:04  #MKT News #Important #Market Regions #Japan & APAC #AUDUSD #Impact mixed
+
+Australia Q1 GDP YoY due in 10 minutes.
+
+---
+
+### 2026-06-03 09:17:41  #公司
+
+埃隆・馬斯克旗下航天企業太空探索技術公司（SpaceX）計劃在重磅 IPO 中謀求 1.75 萬億美元估值，目標價為每股135美元，本次上市將全數發行新股。知情人士稱，此次 IPO 為純新股發行模式，募資所得全部歸入公司，現有股東無法在本次掛牌中出售所持股份。媒體此前報道，受分層鎖定期約束，股東至少要等到公司釋出首份季度財報後才有機會減持。知情人士因涉及涉密資訊要求匿名，其透露：經過前期多輪投資者推介（即 “試水詢價”），該公司透露基礎發行計劃募資至少 750 億美元。其中一名訊息人士表示，超額配售選擇權（綠鞋機制）比例設定為 15%，若市場認購需求超預期，承銷商可額外發售股份。全新股發行並非個案，但在大型上市專案中並不主流；多數大型 IPO 採用新股 + 老股並行發售的架構，方便早期投資者減持套現。
+
+---
+
+### 2026-06-03 09:17:19  #公司
+
+【融捷健康成立新公司 含AI及物聯網業務】企查查APP顯示，近日，廣州融捷健康科技有限公司成立，經營範圍包含：物聯網技術研發；物聯網技術服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由融捷健康全資持股。
+
+---
+
+### 2026-06-03 09:16:55  #MKT News
+
+The US Supreme Court rejected a judicial ruling that had barred Alabama from advancing a Republican-leaning congressional map.
+
+---
+
+### 2026-06-03 09:15:39  #MKT News #Market Regions #Greater China #Copper #Impact bullish
+
+【China International Capital Co: Communication PCB chain likely to see sustained volume and price gains】China International Capital Co said 6G ISAC commercialization—bringing more channels, higher frequency bands and greater integration—will drive comprehensive upgrades in RF PCB materials, processes and design, creating incremental demand across the PCB supply chain. The firm expects penetration of advanced materials, adoption of more complex processes and rising multilayer-board demand to support sustained volume and price appreciation in the communication PCB chain. To accommodate higher-frequency transmission, copper-clad laminate materials with lower dielectric constant (Dk), lower dielectric loss (Df) and superior thermal stability will become required, making upstream high-performance high-frequency materials such as PTFE early beneficiaries.
 
 ---
 
@@ -22845,59 +22905,5 @@ Brent Holds Gains on US-Iran Stalemate — Brent crude futures remained above $9
 ### 2026-06-02 07:35:33  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Holds Gains on US-Iran Stalemate — WTI crude futures remained above $92 per barrel on Tuesday after surging more than 5% at the start of the month, as ongoing peace talks between the US and Iran showed little progress, keeping markets cautious about supply disruptions. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli strikes in Lebanon. The report also indicated that Iran and its regional allies are considering the full closure of the Strait of Hormuz and the Bab el-Mandeb Strait, a key alternative route for global oil shipments. Meanwhile, President Donald Trump said negotiations remain ongoing and noted that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached within the next week. Separately, Lebanese authorities called for all Lebanese territory to be covered under any extension of the ceasefire agreement between Hezbollah and Tel Aviv.
-
----
-
-### 2026-06-02 07:34:55  #公司
-
-【Millennium前高管領導的對沖基金據悉新聘10個交易團隊並將增資】據一位知情人士透露，專注於亞洲市場的對沖基金公司Arrowpoint Investment Partners正尋求在下半年將資本增加到25億至30億美元之間，且有更多團隊將加入這家所謂的“多重經理人基金”(pod-shop)公司。這位知情人士表示，在現有和新投資者的注資以及今年1-5月回報率達8.3%的幫助下，該公司資產已增至近20億美元。 該人士表示，Arrowpoint已簽約10個新的投資團隊，這些團隊將在今年剩餘時間內開始運作，目前積極交易的團隊數量約為20個。一位駐香港的合夥人Elizabeth Lo拒絕置評。
-
----
-
-### 2026-06-02 07:33:42  #公司 #國際
-
-【媒體：黃仁勳稱英偉達可以在韓國舉辦GTC大會】據韓聯社援引英偉達執行長黃仁勳在臺北對記者的講話稱，如果韓國方面有意，他將可以在韓國舉辦英偉達GTC大會。這是該公司專注於人工智慧和新興技術的旗艦會議。黃仁勳本週晚些時候將訪問首爾；預計他將與SK集團Chey Tae-won、LG集團Koo Kwang-mo、Naver創始人Lee Hae-jin等人會談。黃仁勳指出，機器人技術是韓國一個潛在的投資領域。
-
----
-
-### 2026-06-02 07:33:20  #MKT News #Commodities #Precious Metals
-
-【Trump says it's time to audit Fort Knox】President Trump on May 31 reposted media reports on Truth Social about a former CIA officer allegedly hoarding gold and wrote, "Now is the time for a physical audit of Fort Knox." Authorities identified the suspect as 49-year-old David Rush, a 17-year CIA veteran who worked in the Directorate of Science and Technology; court papers say he was arrested May 18 and charged with theft of public funds. FBI documents cited by NBC say agents recovered about 303 gold bars (roughly $40m), about $2m in cash and 35 luxury watches from Rush's home. Trump has repeatedly called for audits of Fort Knox and in early May said he wanted to personally verify whether the gold reserves remain intact, adding he suspected unspecified thefts.
-
----
-
-### 2026-06-02 07:32:44  #公司 #國際
-
-【可口可樂正考慮將印度裝瓶業務上市】可口可樂公司週一表示，正考慮在印度為其在該國最大的裝瓶商——印度斯坦可口可樂飲料公司（Hindustan Coca-Cola Beverages）進行首次公開募股（IPO）。該公司表示，正為2027年在孟買證券交易所（BSE）和印度國家證券交易所上市做準備，並補充稱，同時也在探討出售該子公司部分股權的可能性。印度綜合企業Jubilant Bhartia集團已於2025年完成了對印度斯坦可口可樂飲料公司40%股權的收購。“可口可樂公司將繼續投資這家重要的裝瓶商，並專注於在印度拓展我們的全球及本土品牌組合，”可口可樂印度及西南亞區總裁兼新興大型市場負責人桑凱特·雷（Sanket Ray）表示。這家飲料巨頭在印度市場一直面臨信實集團旗下消費品品牌Campa Cola的競爭。媒體去年曾報道，若進行首次公開募股（IPO），該可口可樂裝瓶公司的估值將達100億美元。
-
----
-
-### 2026-06-02 07:29:54  #公司
-
-【主動與量化“雙向奔赴” 基金業探索超額收益獲取新途徑】在基金業，主觀與量化正在“雙向奔赴”。記者採訪獲悉，今年以來多家公募基金公司加快探索主觀與量化的融合路徑，不僅將AI選股模型深度嵌入到投研流程，還在量化模型中深度引入主觀邏輯因子，部分機構的主觀與量化團隊甚至一起開會拆解市場變化。私募業亦是如此。多位渠道人士透露，主打邏輯類因子和統計類因子有效結合的機構，今年以來備受資金青睞，主觀+量化超融合策略也開始陸續出現。在業內人士看來，不斷提高的交易複雜度、AI時代的來臨，以及持續加快的市場變化，將加速模糊主觀與量化投資之間的邊界。未來，機構關注的核心話題可能不再是主觀與量化的勝負之爭，而是誰能透過主動投資與量化投資的協同，獲取更多阿爾法。（上海證券報）
-
----
-
-### 2026-06-02 07:29:13  #公司 #市場 #國際
-
-【澳大利亞股市早盤料將下跌】儘管美國股指帶來積極指引，但澳大利亞股市早盤料將下跌。週二開盤前，ASX期貨下跌0.4%，表明S&P/ASX 200指數在本週初收平後將會走低。開盤前，TPG Telecom維持了其年度盈利預期，而工程承包商SRG Global表示，在獲得18.5億澳元的合同後，預計將達到其盈利預期區間的上限。連線和計算提供商Megaport的股票停牌，等待發布重大公告。美國股市方面，道瓊斯指數上漲0.1%，標普500指數上漲0.3%，納斯達克綜合指數上漲0.4%。
-
----
-
-### 2026-06-02 07:28:45  #公司
-
-【端側AI驅動下一輪增長 國產儲存晶片迎新機遇】近日，首屆集微儲存論壇在上海張江舉行。與會嘉賓認為，2025年至2027年供需比整體處於供不應求狀態，儲存晶片漲價趨勢有望持續，2027年或成為觀察價格趨勢的轉折之年。但需提及的是，2026年第二季度的儲存價格漲幅環比有所收窄，短期可能面臨盤整。值得注意的是，AI算力增長由雲端訓練加速轉向端側推理，為具有低功耗、快速響應優勢的利基型儲存（包括小容量DDR3/DDR4、NORFlash、SLC NAND、EEPROM等）帶來新機遇。疊加三星、SK海力士等國際巨頭紛紛將產能轉向高毛利的HBM（高頻寬儲存）等產品，相關國產晶片公司有望迎來新增長。（上海證券報）
-
----
-
-### 2026-06-02 07:27:53  #其他
-
-【《給阿嬤的情書》導演人民日報撰文：今天看到的故事，都是曾經的真實歲月】《給阿嬤的情書》導演藍鴻春人民日報撰文稱，這段時間，電影《給阿嬤的情書》正在熱映。一部潮汕方言的小成本電影，能收穫這麼多觀眾的喜愛，確實超出了我們的預期。我很感動，也感到很幸運——我們只是講了一個自己相信的故事，並“較真”地把每個細節做好。有觀眾說，這部電影是“治癒的電影”。在一個快時代，“車，馬，郵件都慢”的鄭重與深情，反而顯得格外珍貴。我們希望透過這部影片，讓更多人看見那份跨越山海、心繫故土的親情、鄉愁和信義，看見中華文化在遷徙、紮根與延續中的生命力。
-
----
-
-### 2026-06-02 07:26:01  #公司 #市場 #國際
-
-【在執行長格雷格·阿貝爾的領導下 伯克希爾·哈撒韋公司兩天內投資168億美元】格雷格·阿貝爾似乎正在為伯克希爾·哈撒韋公司打上自己的烙印。該公司在兩天內斥資168億美元，收購了住宅建築商泰勒·莫里森住宅公司，並助力谷歌拓展人工智慧業務。這些投資或許能開始滿足那些一直呼籲阿貝爾採取行動的投資者——自今年1月接替沃倫·巴菲特出任執行長以來，投資者一直希望他能做前任未曾做過的事：動用更多伯克希爾的現金。許多投資者和分析師表示，截至3月31日，伯克希爾的現金總額為3802億美元，這拖累了這家總部位於內布拉斯加州奧馬哈市的綜合企業的股價。該股較2025年5月的歷史高點已下跌13%，而同期科技股佔比較高的標普500指數則上漲了34%。伯克希爾週一同意透過私募方式購買谷歌母公司Alphabet價值100億美元的股票，這是這家總部位於加州山景城的公司800億美元股權融資計劃的一部分。此次投資表明伯克希爾對Alphabet在人工智慧領域領導地位的信心。伯克希爾以68億美元收購泰勒·莫里森（Taylor Morrison）的交易於週日宣佈，該公司業務遍及美國12個州。
 
 ---

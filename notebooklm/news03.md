@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:07:38_
-_本檔包含 4015 則快訊，約 707456 字_
+_更新時間：2026-06-08 02:41:31_
+_本檔包含 4012 則快訊，約 706633 字_
+
+---
+
+### 2026-06-04 10:41:58  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Holds Firm — The yield on the US 10-year Treasury note hovered around 4.48% on Thursday after climbing in the previous session, as stronger-than-expected labor market data reinforced expectations of tighter Federal Reserve policy. The ADP report released Wednesday showed private-sector employment rose by 122K in May, beating forecasts and reaching its highest level since January 2025. Earlier in the week, JOLTS data indicated that job openings increased in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further clues on the strength of the labor market. Treasury yields also found support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently price in an 85% chance of a quarter-point Fed rate hike by year-end, up from 60% a week ago.
+
+---
+
+### 2026-06-04 10:41:47  #市場 #國際
+
+印尼盾對美元匯率下跌0.5%，至18030，創下歷史新低。
+
+---
+
+### 2026-06-04 10:41:46  #MKT News
+
+Singapore benchmark stock index fell 1.2% to 5,076.81 points.
+
+---
+
+### 2026-06-04 10:41:42  #MKT News #Commodities #Energy
+
+Indonesia's Ministry of Energy and Mineral Resources said coal production in Jan-Apr totaled 234 mln mt and exports were 150.9 mln mt.
+
+---
+
+### 2026-06-04 10:41:31  #公司 #國際
+
+【澳大利亞總理回應美國新關稅提案：不合理，澳美就關稅存在“意識形態分歧”】據法新社、澳大利亞廣播公司（ABC）報道，針對美國方面日前提出的新關稅提案，澳總理阿爾巴尼斯4日表示，相關關稅措施“不合理”，並稱澳大利亞與美國在關稅問題上存在“意識形態分歧”。(環球網)
+
+---
+
+### 2026-06-04 10:41:21  #MKT News #Copper
+
+Indonesia's Ministry of Mines said copper concentrate production totaled 422,510 tonnes in January–April, while cathode copper output was 83,280 tonnes.
+
+---
+
+### 2026-06-04 10:41:15  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Holds Near 2-Week Low — The Australian dollar held below $0.715, staying near a two-week low as renewed hostilities in the Middle East dampened risk sentiment, while upbeat domestic trade data offered support. Australia's trade position returned to a surplus of AUD 1.79 billion in April from a deficit of AUD 1.02 billion in March, as exports climbed to a three-year high, led by stronger shipments of metal ores, while import growth remained modest. Earlier this week, the country's softer Q1 GDP readings reinforced signs that higher interest rates are already cooling demand. The Reserve Bank has raised interest rates three times this year to slow the economy, bringing demand back in line with supply to contain price pressures. However, fresh attacks in the Middle East and near the crucial Strait of Hormuz has kept energy prices elevated, fueling inflation concerns. Markets now have ruled out another rate hike this month, but remain evenly split for a move in August and are pricing a 4.60% peak by year-end.
 
 ---
 
@@ -24116,65 +24158,5 @@ Hong Kong's Hang Seng Index (HSI) opened down 85.31 points (-0.33%) at 25,953.01
 ### 2026-06-03 09:21:17  #MKT News #Important #Market Regions #Greater China #00992.HK #Impact bearish #Hang Seng Index
 
 Hong Kong stocks opened lower: HSI -0.33%, Hang Seng Tech Index -0.70%; Lenovo Group (00992.HK) -7.83% at the open.
-
----
-
-### 2026-06-03 09:20:38  #公司
-
-【元隆雅圖：與聚星動力合作開發多款足球隊IP衍生產品】元隆雅圖(002878)在互動平臺表示，為迎接2026年世界盃，公司與聚星動力合作開發了多款阿根廷、葡萄牙、法國、西班牙國家足球隊IP衍生產品、球星周邊產品和足球主題文創產品，包含梅西等球星毛絨盲盒、冰箱貼等產品，目前多款產品已經上市，同時還在持續開發新品並上架銷售。
-
----
-
-### 2026-06-03 09:20:29  #國際
-
-【歐盟或凍結俄羅斯石油價格上限】多家西方媒體披露，歐盟考慮凍結針對俄羅斯石油的限價機制，把價格維持在當下水平，而非按照市場行情調整價格上限，以阻止俄羅斯繼續獲得國際原油價格飆升的“紅利”。（新華社）
-
----
-
-### 2026-06-03 09:20:26  #MKT News
-
-【Rubio: U.S. has not yet met objectives in Venezuela but is making progress】U.S. Secretary of State Rubio told a congressional hearing the U.S. has not yet achieved its intended objectives in Venezuela but is moving in that direction. He said it has been only five months and that overhauling a system in place for 16–18 years will take time, but he believes progress is occurring at a good pace.
-
----
-
-### 2026-06-03 09:20:05  #國際
-
-【印度欲再採購114架法國“陣風”戰機】印度亞洲新聞國際通訊社日前以印度防務界人士為訊息源報道，印度已向法國提交購買114架“陣風”戰鬥機的意向書。據悉，雙方計劃在明年完成交易談判。（新華社）
-
----
-
-### 2026-06-03 09:20:05  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Inch Higher Ahead of GDP Data — Australian shares edged up 14 points, or 0.2%, to 8,739 in early Wednesday trade, snapping two sessions of muted activity after Wall Street closed mostly higher overnight. Sentiment improved following remarks from President Trump and Secretary of State Marco Rubio, who signaled Washington remained engaged in talks with Tehran over a potential deal to halt the Middle East conflict. Gains, however, were limited by fresh data showing industry conditions stayed weak in Australia during May, reflecting an energy crisis and broader economic uncertainty. Investors also turned cautious ahead of Q1 GDP figures due later today, with expectations for slower growth amid global headwinds and continued monetary tightening. Sector strength came from non-energy minerals, producer manufacturing, and process industries, while consumer durables, healthcare, and commercial services weighed. Notable movers included BHP Group (2.3%), Northern Star Resources (4.8%), and Mineral Resources (2.1%).
-
----
-
-### 2026-06-03 09:20:04  #MKT News #Important #Market Regions #Japan & APAC #AUDUSD #Impact mixed
-
-Australia Q1 GDP YoY due in 10 minutes.
-
----
-
-### 2026-06-03 09:17:41  #公司
-
-埃隆・馬斯克旗下航天企業太空探索技術公司（SpaceX）計劃在重磅 IPO 中謀求 1.75 萬億美元估值，目標價為每股135美元，本次上市將全數發行新股。知情人士稱，此次 IPO 為純新股發行模式，募資所得全部歸入公司，現有股東無法在本次掛牌中出售所持股份。媒體此前報道，受分層鎖定期約束，股東至少要等到公司釋出首份季度財報後才有機會減持。知情人士因涉及涉密資訊要求匿名，其透露：經過前期多輪投資者推介（即 “試水詢價”），該公司透露基礎發行計劃募資至少 750 億美元。其中一名訊息人士表示，超額配售選擇權（綠鞋機制）比例設定為 15%，若市場認購需求超預期，承銷商可額外發售股份。全新股發行並非個案，但在大型上市專案中並不主流；多數大型 IPO 採用新股 + 老股並行發售的架構，方便早期投資者減持套現。
-
----
-
-### 2026-06-03 09:17:19  #公司
-
-【融捷健康成立新公司 含AI及物聯網業務】企查查APP顯示，近日，廣州融捷健康科技有限公司成立，經營範圍包含：物聯網技術研發；物聯網技術服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由融捷健康全資持股。
-
----
-
-### 2026-06-03 09:16:55  #MKT News
-
-The US Supreme Court rejected a judicial ruling that had barred Alabama from advancing a Republican-leaning congressional map.
-
----
-
-### 2026-06-03 09:15:39  #MKT News #Market Regions #Greater China #Copper #Impact bullish
-
-【China International Capital Co: Communication PCB chain likely to see sustained volume and price gains】China International Capital Co said 6G ISAC commercialization—bringing more channels, higher frequency bands and greater integration—will drive comprehensive upgrades in RF PCB materials, processes and design, creating incremental demand across the PCB supply chain. The firm expects penetration of advanced materials, adoption of more complex processes and rising multilayer-board demand to support sustained volume and price appreciation in the communication PCB chain. To accommodate higher-frequency transmission, copper-clad laminate materials with lower dielectric constant (Dk), lower dielectric loss (Df) and superior thermal stability will become required, making upstream high-performance high-frequency materials such as PTFE early beneficiaries.
 
 ---

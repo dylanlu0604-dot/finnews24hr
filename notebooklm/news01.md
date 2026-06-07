@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 02:07:38_
-_本檔包含 3769 則快訊，約 707190 字_
+_更新時間：2026-06-08 02:41:31_
+_本檔包含 3771 則快訊，約 707145 字_
+
+---
+
+### 2026-06-08 02:39:30  #國際
+
+【巴基斯坦內政部長警告伊朗，不要激化海運航道局勢】目前身處德黑蘭的巴基斯坦內政部長向伊朗發出警告，要求其不要激化海運航道局勢。穆赫辛·納克維敦促伊朗儘快就美方訴求表明立場。巴基斯坦陸軍參謀長阿西姆·穆尼爾透過納克維向伊朗領導層傳話，呼籲德黑蘭把握當下契機，促成雙方達成協議。
+
+---
+
+### 2026-06-08 02:37:34  #MKT News
+
+【US official: Hezbollah should be held fully responsible for any hostile action from Lebanon】A US official said Hezbollah should be held fully responsible for any hostile actions from Lebanon. Washington supports Israel's right to self-defense and stands with Lebanon's legitimate government, the official said. The official praised recent US-brokered Israel-Lebanon 'ceasefire' terms negotiated by Israeli and Lebanese officials as 'fair' and providing a clear path to end fighting in Lebanon. The next round of security and political talks is scheduled for the week of June 22 to advance an agreement; the official stressed Hezbollah 'must stop firing immediately' for the deal to take effect.
+
+---
+
+### 2026-06-08 02:33:04  #其他
+
+官方結果顯示，在科索沃議會選舉中，開票超過50%後，自決黨以42.3%的得票率處於領先。
+
+---
+
+### 2026-06-08 02:23:02  #國際
+
+伊朗官員穆罕默德·穆赫貝爾： 調停期間，敵方轟炸黎巴嫩，第三次徹底破壞談判局面，且在各戰線一再違反停火協議。 我們將以實力回應這些背棄承諾之徒。抵抗陣線團結一致，敵方此次挑釁行徑必將在戰場上付出沉重代價。
+
+---
+
+### 2026-06-08 02:20:53  #焦點 #國際
+
+【伊朗：美國不得動用伊凍結資產賠償盟友】伊朗副外長卡澤姆·加里巴巴迪表示，美國無權動用伊朗被凍結的資產，為地區盟友的戰爭損毀重建提供補償。他在社交平臺上發文稱：“伊朗資產既不是美國的戰爭戰利品，也不是用於接濟其盟友的款項。未經伊朗政府許可，任何扣押、劃轉、處置伊朗資產的行為，都屬於新的國際不法行為。”加里巴巴迪表示，伊朗正向美國索要全額戰爭損失賠償；同時指出，那些為美國針對伊朗的軍事行動提供領土與設施的地區政府，無權提出賠償要求。
+
+---
+
+### 2026-06-08 02:19:17  #國際
+
+一名安全訊息人士稱，以方無法確定伊朗是否會兌現威脅，但研判其採取行動的可能性較低，同時強調已針對各類可能情況做好預案。
+
+---
+
+### 2026-06-08 02:18:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Mohammad Mokhber, adviser and aide to Iran's supreme leader, said enemies bombed Lebanon while mediators were in Iran, and that this was the third time the negotiating table had been burned.
+
+---
+
+### 2026-06-08 02:17:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's Channel 12 reported a U.S. security official said the United States has prepared defensive measures to respond to potential attacks by Iran.
+
+---
+
+### 2026-06-08 02:17:04  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Saudi state television reports Pakistan’s army chief urged Iran to seize the current opportunity to reach an agreement.
+
+---
+
+### 2026-06-08 02:16:59  #MKT News
+
+According to Saudi state TV, Pakistan's interior minister warned Tehran not to escalate tensions on maritime shipping lanes.
+
+---
+
+### 2026-06-08 02:14:52  #其他
+
+【馬耳他附近偷渡船傾覆致10人遇難 48人獲救】據義大利《西西里報》7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成10人死亡、至少2人失蹤。報道說，事故發生在馬耳他島以東約45海里（約83.3公里）的海域。這艘偷渡船從利比亞海岸出發。尚不清楚事故發生具體時間。（新華社）
+
+---
+
+### 2026-06-08 02:13:20  #國際
+
+一名美國安全訊息人士透露，美方已做好防禦準備，以防伊朗兌現威脅並發動襲擊。
 
 ---
 
@@ -22720,65 +22792,5 @@ Reserve Bank of India governor said the central bank is not currently considerin
 ### 2026-06-05 14:43:51  #Trading Economics #Economy #Hungary #Industrial Production #Importance 1
 
 Hungary Industrial Output Growth Eases in April — Industrial production in Hungary rose by 0.9% year-on-year in April 2026, slowing from a 6.7% increase in the previous month, according to preliminary estimates. he reading marked the second consecutive annual increase, although production declined across most manufacturing subsectors compared with a year earlier. Among the most important sub-sectors, output expanded in transport equipment and in computer, electronic, and optical products manufacturing. In contrast, production fell in electrical equipment as well as food, beverages, and tobacco products. On a seasonally and working-day-adjusted basis, industrial output increased by 1.1% in April, easing from a 3.1% rise in March. In the first four months of 2026, industrial production was 1.0% higher than in the corresponding period of the previous year.
-
----
-
-### 2026-06-05 14:43:41  #市場 #央行 #國際
-
-印度央行行長馬爾霍特拉：目前並未審議任何黃金貨幣化提案。
-
----
-
-### 2026-06-05 14:43:29  #央行 #國際
-
-印度央行行長馬爾霍特拉：暫無對外國貨幣非居民（FCNR）存款流入設定具體目標。
-
----
-
-### 2026-06-05 14:43:18  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-Shanghai Composite Index fell more than 1% at the close; Shenzhen Composite Index fell 2.5%; ChiNext Index fell more than 3.6%.
-
----
-
-### 2026-06-05 14:43:03  #公司
-
-【星巴克即飲首款能量飲料上線：康師傅代工助陣，開售即斷貨】星巴克即飲業務於6月在山姆會員店首發全新能量飲料，正式切入功能性提神賽道。新品命名為“星巴克能量飲料冰爽百香果味”，主打健康化概念，採用低糖0脂配方，零售價為69.9元/箱（18瓶×228ml），約合3.8元/瓶。目前該產品在山姆App已顯示斷貨。據瞭解，該款產品的委託方是上海康領食品有限公司，受委託加工方為蘇州頂津食品有限公司。天眼查顯示，這兩家公司的控股股為均為康師傅飲品投資（中國）有限公司（以下簡稱：康師傅）。
-
----
-
-### 2026-06-05 14:42:30  #市場 #焦點
-
-上證指數跌1.00%，現報4017.062點；深證成指跌2.56%，現報15259.900點；創業板指跌3.62%，現報3940.747點。
-
----
-
-### 2026-06-05 14:39:45  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
-
-Romania Q1 GDP Growth Falls to 2020 Lows — Romania’s economy declined 1.2% year-on-year in the first quarter of 2026, easing from a 1.7% fall in the initial estimate and down from 0.2% growth in the previous quarter, according to second estimates. This marked the first contraction since Q4 2020, driven by declines in government spending (-0.6%) and household consumption (-1.7%). However, growth was seen in gross fixed capital formation (4.7%) and net external demand, as exports rose 1.9% while imports grew 1.2%. On the production side, output fell in mining and quarrying (-1.2%), wholesale and retail trade (-3.1%), information and communication (-4.1%), real estate (-1.9%), professional and scientific activities (-3.9%), and public administration and defence (-1.3%), while the strongest gains were recorded in construction (7.9%) and culture and recreation activities (11.6%). On a seasonally adjusted quarterly basis, GDP was flat, revised from 0.2% fall in the preliminary data, following a 1.9% decline in the previous quarter.
-
----
-
-### 2026-06-05 14:38:41  #其他
-
-【曝英偉達重啟顯示卡計劃】訊息人士稍早前爆料稱，NVIDIA（英偉達）的GeForceRTX50系列顯示卡SUPER中期更新計劃正從此前的“冬眠”中甦醒，重回正軌。本次中期更新將包括12GB視訊記憶體版本的60級產品，命名有可能是RTX506012GB或RTX5060SUPER12GB。其認為NVIDIA總有辦法在當前的儲存危機中找到SUPER顯示卡所需的視訊記憶體供應，並將其與GPU核心捆綁向下遊AIC合作伙伴銷售。
-
----
-
-### 2026-06-05 14:38:22  #觀點 #國際
-
-【美國瘋狂全球搶銅】近期，美國貿易商掀起瘋狂搶銅潮。截至5月29日，紐約商品交易所（COMEX）銅庫存已高達約64.02萬噸，創歷史新高。高盛測算，美國以外市場銅供應缺口猛增至64萬噸。同樣是銅，一邊在美國倉庫裡堆滿，一邊在非美國地區供不應求。當少數大國用關稅預期製造跨市場價差、吸引全球銅資源向美國集中，其他國家正在為其政策不確定性買單。（中新網）
-
----
-
-### 2026-06-05 14:37:53  #其他
-
-【新易盛成交額達300億元】6月5日下午，新易盛成交額達300億元，現跌4.32%。
-
----
-
-### 2026-06-05 14:37:08  #MKT News
-
-Reserve Bank of India governor said he will remain vigilant if inflation becomes broad-based.
 
 ---
