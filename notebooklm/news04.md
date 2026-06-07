@@ -1,7 +1,319 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:43:37_
-_本檔包含 3809 則快訊，約 707568 字_
+_更新時間：2026-06-08 04:37:51_
+_本檔包含 3838 則快訊，約 707986 字_
+
+---
+
+### 2026-06-03 09:37:32  #MKT News
+
+【CENTCOM says it shot down Iranian drones targeting U.S. forces in Kuwait】CENTCOM said on social media on June 3 that Iran launched a new wave of drone attacks attempting to strike U.S. forces in Kuwait but failed to hit intended targets. CENTCOM air defenses shot down multiple drones, and U.S. personnel and equipment were reported unharmed.
+
+---
+
+### 2026-06-03 09:37:30  #經濟數據 #中國
+
+【標普全球香港5月PMI升至50.4 重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。
+
+---
+
+### 2026-06-03 09:37:22  #市場 #焦點
+
+ST海王盤中跌停，上演“天地板”，現報1.76元，成交額1.09億元。
+
+---
+
+### 2026-06-03 09:37:18  #公司 #市場
+
+【半導體板塊走強 裕太微漲超15%】半導體板塊走強，裕太微漲超15%，優迅股份、盛科通訊漲超10%，康強電子漲停，帝奧微、揚傑科技、卓勝微漲幅居前。
+
+---
+
+### 2026-06-03 09:37:12  #市場 #焦點
+
+*ST聞泰盤中跌停，上演“天地板”，現報21.65元，成交額7.69億元。
+
+---
+
+### 2026-06-03 09:37:09  #市場
+
+【先進封裝概念盤初活躍 康強電子漲停】早盤先進封裝概念活躍，康強電子漲停，通富微電逼近漲停，晶方科技、士蘭微、華潤微、長電科技、雅克科技跟漲。
+
+---
+
+### 2026-06-03 09:36:55  #MKT News #Market Regions #Greater China
+
+China A-share glass-substrate names continued to rally; Hongxing Development notched five daily limit-ups in seven sessions, TCL Technology briefly neared the daily limit, and Meidike, Hongli Zhihui, BOE A and Woge Optoelectronics also advanced.
+
+---
+
+### 2026-06-03 09:36:51  #國際
+
+【美稱擊落伊朗襲科威特美軍無人機】美軍中央司令部今天（6月3日）在社交媒體平臺最新發帖稱，“伊朗發動新一輪無人機襲擊，試圖攻擊駐科威特美軍，但未能命中預定目標。美國中央司令部防空系統成功擊落多架無人機，確保美方人員及裝備均未受損。”
+
+---
+
+### 2026-06-03 09:36:40  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite #Impact bearish
+
+China's ChiNext index rose as much as 1% intraday, the Shenzhen Composite Index gained 0.5% and the Shanghai Composite Index was down 0.2%.
+
+---
+
+### 2026-06-03 09:36:32  #市場 #焦點
+
+ST洲際盤中跌停，上演“天地板”，現報2.9元，成交額2.91億元。
+
+---
+
+### 2026-06-03 09:36:23  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-03 09:36:10  #市場
+
+玻璃基板概念反覆走強，紅星發展走出7天5板，TCL科技一度逼近漲停，美迪凱、鴻利智匯、京東方A、沃格光電跟漲。
+
+---
+
+### 2026-06-03 09:36:08  #市場 #焦點
+
+創業板指漲1.03%，現報4097.609點；上證指數跌0.21%，現報4066.465點；深證成指漲0.39%，現報15651.754點。
+
+---
+
+### 2026-06-03 09:36:05  #MKT News #000802.SZ #Impact bearish #002292.SZ
+
+China A-share film and cinema chain sector slid; Beijing Culture hit its daily limit down, while Bona Film, Baina Qiancheng, China Film, Shanghai Film and Aofei Entertainment declined.
+
+---
+
+### 2026-06-03 09:35:36  #市場
+
+【影視院線板塊下挫，北京文化跌停】影視院線板塊下挫，北京文化跌停，博納影業、百納千成、中國電影、上海電影、奧飛娛樂跟跌。
+
+---
+
+### 2026-06-03 09:35:32  #市場
+
+港股光通訊股盤初全線走強，曦智科技漲超10%，長飛光纖光纜漲超6%，劍橋科技漲超5%，FIT HON TENG漲超3%。
+
+---
+
+### 2026-06-03 09:35:18  #MKT News #SZSE Component #Impact bullish #CNH
+
+【Shenzhen state funds direct over 90% into "20+8" strategic and future industries】Shenzhen has built a full‑lifecycle state capital fund system with over 500 funds; more than 90% of allocations target the "20+8" strategic emerging and future industries. As of last year there were about 1,500 private equity and venture managers in the city managing CNY1.4 tln of funds, roughly 10% of the national total. By end‑Q1 state capital funds dedicated to early‑stage projects exceeded CNY70 bln, reflecting a focus on earlier, smaller, longer‑term and hard‑tech investments. The Shenzhen government guidance fund managed by Shenzhen Capital Group has invested in 3,500+ projects, helped 408 portfolio firms list across capital markets, and about 1,000 invested companies have been designated national "specialized, refined, differentiated and innovative" small‑giant enterprises.
+
+---
+
+### 2026-06-03 09:35:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed
+
+China's May RatingDog services PMI due in 10 minutes.
+
+---
+
+### 2026-06-03 09:34:54  #公司
+
+【光纖概念延續強勢 亨通光電2連板】光纖概念延續強勢，亨通光電2連板，股價續創歷史新高，永鼎股份、長飛光纖、法爾勝跟漲。
+
+---
+
+### 2026-06-03 09:34:02  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Stock Exchange Weighted Index (TAIEX) extends gains to 2%.
+
+---
+
+### 2026-06-03 09:34:00  #MKT News
+
+CSI Convertible Bond Index opened down 0.09%. Shanbo CB -6.15%, Chun23 CB -4.20%, Shengxun CB -3.79%; Shenglan 02 CB +7.55%, Huamao CB +4.34%.
+
+---
+
+### 2026-06-03 09:33:35  #其他
+
+【深圳國資基金九成投向“20+8”產業】深圳已構建起覆蓋企業全生命週期的國資基金體系，各類基金超過500支，投向“20+8”戰略性新興產業叢集和未來產業資金佔比超過90%，形成專業化平臺主導、社會資本協同、政策導向鮮明的國資創投體系。深圳作為創新之城，也是國內創投行業發源地之一，創投產業根基深厚。截至去年，全市存續私募股權、創業投資基金管理機構約1500家，管理基金規模1.4萬億元，約佔全國總量十分之一，產學研資深度融合的創投生態日趨成熟。（深圳釋出）
+
+---
+
+### 2026-06-03 09:33:30  #市場
+
+【港股光通訊股走強 曦智科技漲超9%】截至發稿，曦智科技-P(01879.HK)漲9.32%，劍橋科技(06166.HK)漲5.58%，長飛光纖光纜(06869.HK)漲4.90%。
+
+---
+
+### 2026-06-03 09:33:23  #公司
+
+半導體產業鏈盤初上揚，裕太微、優迅股份、盛科通訊漲超10%，帝奧微、揚傑科技、卓盛微、通富微電漲超8%。
+
+---
+
+### 2026-06-03 09:33:17  #國際
+
+烏克蘭總統澤連斯基2日在社交媒體上說，俄羅斯發動大規模襲擊後，烏克蘭經歷艱難一天，基輔和第聶伯市2日當天共有22人在襲擊中身亡。（新華社）
+
+---
+
+### 2026-06-03 09:32:58  #公司 #市場
+
+【光學光電子板塊短線衝高，實益達漲停】光學光電子板塊短線衝高，實益達漲停，長信科技漲超10%，TCL科技、蘇大維格、聯域股份、龍騰光電、光莆股份跟漲。
+
+---
+
+### 2026-06-03 09:32:19  #市場
+
+澳大利亞標普/ASX 200指數在公佈GDP資料後上漲0.3%。
+
+---
+
+### 2026-06-03 09:32:02  #市場 #焦點
+
+科創50日內漲幅達1.13%，成分股中，盛科通訊漲10.49%，瀾起科技漲7.59%，天嶽先進漲7.52%，翱捷科技漲6.88%。
+
+---
+
+### 2026-06-03 09:31:50  #市場
+
+臺灣加權股價指數上漲2%至46,481.69點。
+
+---
+
+### 2026-06-03 09:31:34  #MKT News #Brent #Impact bullish
+
+【Maersk suspends Strait of Hormuz transits; says Middle East conflict adds >$500m/month in costs】Security in the Strait of Hormuz has deteriorated amid US‑Israel‑Iran fighting, prompting Danish shipping giant Maersk to suspend vessel transits and activate contingency plans, including land routing of cargo. Maersk’s chief commercial officer Carsten Kildahl said the measures protect crew but are creating severe economic pressure: direct Gulf trades and other routes face higher costs from rerouting and rising fuel, with incremental expenses already exceeding $500m/month. The group cannot absorb the full burden and will pass some costs to customers, many of whom are also facing higher raw‑material prices. Industry contacts say higher transport and production costs may feed through to consumer prices.
+
+---
+
+### 2026-06-03 09:31:29  #MKT News #Market Regions #Greater China
+
+China A-share fiber-optic sector opened higher; Tianfu Communication and Hengdong Optics rose over 9%, with Hengtong Optoelectronics, Kerui Technology and Juguang Technology among the top gainers.
+
+---
+
+### 2026-06-03 09:31:27  #市場
+
+中證轉債指數開盤下跌0.09%。山玻轉債、春23轉債、聲迅轉債、精測轉2、聯瑞轉債跌幅居前，分別跌6.15%、4.20%、3.79%、2.99%、2.78%。勝藍轉02、華懋轉債、煜邦轉債、寶萊轉債、神宇轉債漲幅居前，分別漲7.55%、4.34%、2.78%、2.54%、2.31%。
+
+---
+
+### 2026-06-03 09:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China index futures open, morning session】China index futures opened: SSE 50 (IH) front-month contract down 0.32%; CSI 500 (IC) down 0.19%; CSI 1000 (IM) down 0.08%; CSI 300 (IF) up 0.01%.
+
+---
+
+### 2026-06-03 09:31:13  #MKT News #DXY #Impact bullish
+
+AUD/USD edged lower in intraday trading to 0.7173.
+
+---
+
+### 2026-06-03 09:31:13  #MKT News #Macro & Rates
+
+【China government bond futures open lower in morning trade】China government bond futures opened lower in morning trade: 2-year (TS) main contract down 0.02%, 5-year (TF) down 0.02%, 10-year (T) down 0.04%, 30-year (TL) down 0.25%.
+
+---
+
+### 2026-06-03 09:31:09  #其他
+
+澳大利亞第一季度家庭支出環比增長0.5%。
+
+---
+
+### 2026-06-03 09:30:57  #市場
+
+澳元下跌，因第一季度GDP增速放緩幅度超出預期。
+
+---
+
+### 2026-06-03 09:30:52  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+SSE Commodity Index Hits 20-month Low — SSE Commodity Index decreased to 6807.00 Index Points, the lowest since September 2024. Over the past 4 weeks, SSE Consume Commodity Index lost 8.41%, and in the last 12 months, it decreased 14.63%.
+
+---
+
+### 2026-06-03 09:30:43  #其他
+
+澳大利亞第一季度家庭儲蓄率降至6.2%。
+
+---
+
+### 2026-06-03 09:30:27  #其他
+
+澳大利亞第一季度GDP同比增長2.5%；預估2.6%。
+
+---
+
+### 2026-06-03 09:30:19  #經濟數據 #澳洲
+
+澳大利亞第一季度GDP同比增長2.5%，預估為2.6%。
+
+---
+
+### 2026-06-03 09:30:09  #其他
+
+澳大利亞第一季度GDP環比增長0.3%；預期為0.4%。
+
+---
+
+### 2026-06-03 09:30:07  #MKT News #Important
+
+Australia Q1 GDP year-on-year 2.5% vs 2.6% expected; prior 2.6%.
+
+---
+
+### 2026-06-03 09:30:07  #MKT News #AUDUSD #Impact bearish
+
+Australia Q1 GDP QoQ 0.3% vs expected 0.5%; prior 0.8%.
+
+---
+
+### 2026-06-03 09:30:06  #市場 #焦點
+
+恒生科技指數跌超1%，現報5142.210點；恒生指數現跌0.569%。
+
+---
+
+### 2026-06-03 09:30:03  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續跌0.08%， 滬深300指數期貨連續漲0.05%， 中證500指數期貨連續跌0.15%， 上證50指數期貨連續跌0.23%。
+
+---
+
+### 2026-06-03 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.17%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-06-03 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | GDP (QoQ) (Q1) | actual 0.3% | consensus 0.50% | previous 0.80%
+
+---
+
+### 2026-06-03 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | GDP (YoY) (Q1) | actual 2.5% | consensus 2.6% | previous 2.60%
+
+---
+
+### 2026-06-03 09:29:33  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #Impact bullish #SZSE Component
+
+At the open in China on Wednesday, June 3, the Shanghai Composite Index fell 0.17% to 4,068.34; the Shenzhen Composite Index rose 0.36% to 15,646.68; the CSI 300 Index rose 0.14% to 4,921.34; the ChiNext Index rose 0.82% to 4,089.02; and the China STAR 50 Index rose 0.42% to 1,697.66.
+
+---
+
+### 2026-06-03 09:29:31  #公司
+
+應用航空航天防務公司（APPLIED AEROSPACE AND DEFENSE）IPO定價每股20美元。
+
+---
+
+### 2026-06-03 09:28:45  #公司 #市場
+
+【銅纜高速連線板塊高開，鑫科材料2連板】銅纜高速連線板塊高開，鑫科材料2連板，裕太微漲超15%，意華股份、太辰光、神宇股份、匯綠生態、長芯博創、長飛光纖跟漲。
 
 ---
 
@@ -22816,148 +23128,5 @@ Swiss dental med‑tech company vVARDIS plans to pursue a US IPO this year.
 ### 2026-06-02 07:53:43  #公司 #市場
 
 【應用需求旺盛 年內多種小金屬價格攀升】2026年以來，多種小金屬價格持續攀升。根據上海鋼聯電子商務股份有限公司資料，截至6月1日，鉭錠價格較去年年底上漲157.69%、鍺錠價格較去年年底上漲83.82%、鉬鐵價格較去年年底上漲35.65%。蘇商銀行特約研究員武澤偉在接受記者採訪時表示，鉭、鍺、鉬等小金屬年內價格攀升，核心邏輯均指向供給剛性約束與新興需求擴張的雙重共振。（證券日報）
-
----
-
-### 2026-06-02 07:53:36  #經濟數據 #日本
-
-日本5月基礎貨幣同比下降12.2%，前值-11.30%。
-
----
-
-### 2026-06-02 07:53:22  #MKT News
-
-NASA Administrator Isaacman said Blue Origin's launch pad was damaged in a rocket explosion and may not be restored until 2028.
-
----
-
-### 2026-06-02 07:52:48  #國際
-
-市場訊息：基輔傳出巨大的爆炸聲。
-
----
-
-### 2026-06-02 07:52:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan monetary base YoY -12.2% in May; prior -11.3%.
-
----
-
-### 2026-06-02 07:52:28  #MKT News #Economic Calendar #Important
-
-Japan | Base money growth rate (YoY) (May) | actual -12.2% | previous -11.30%
-
----
-
-### 2026-06-02 07:52:05  #國際
-
-美國國家航空航天局局長艾薩克曼表示，藍色起源在火箭爆炸中受損的發射臺，修復完工可能要推遲到2028年。
-
----
-
-### 2026-06-02 07:49:33  #市場 #國際
-
-【受對AI需求的樂觀情緒提振 日經指數或將上漲】儘管伊朗衝突存在不確定性，但隨著對AI需求的樂觀情緒持續，日本股市或將上漲。新加坡交易所的日經指數期貨上漲0.1%，報67115點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週一上漲0.9%，創下66934.33點的歷史新高。
-
----
-
-### 2026-06-02 07:49:13  #其他
-
-【黎總統重申外交途徑是解決衝突的唯一出路】黎巴嫩總統奧恩當地時間6月1日發表宣告稱，儘管黎以談判程序面臨障礙和延誤，黎巴嫩仍將堅持透過談判解決問題。他強調，相較於戰爭，外交途徑才是解決衝突和實現穩定的唯一出路。奧恩表示，談判既不是投降，也不是讓步，而是以儘可能小的代價結束戰爭的一種解決方案。“過程中可能遭遇障礙和拖延，但它正在向前推進，無論需要多長時間，所有問題最終都要透過談判解決。”
-
----
-
-### 2026-06-02 07:49:05  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Losses on Inflation Worries — Gold traded below $4,500 per ounce on Tuesday after declining in the previous session, pressured by stalled peace negotiations between the US and Iran that kept inflation risks and interest rate expectations at the forefront. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli attacks in Lebanon. Meanwhile, President Donald Trump said discussions are still ongoing and suggested that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached as early as next week. Markets are currently factoring in a Federal Reserve rate hike before year-end after US inflation accelerated, driven in large part by the Middle East conflict. Investors are now awaiting this week’s US monthly jobs report and comments from Fed officials for additional clues on the future path of monetary policy.
-
----
-
-### 2026-06-02 07:48:38  #公司 #國際
-
-【FedEx Freight執行長：自動駕駛卡車已準備好全面投用】自動駕駛牽引拖車行駛在美國的高速公路上？FedEx Freight執行長表示，這項技術已經準備就緒。這些卡車何時上路則取決於監管機構。“這些牽引車能夠駛出車場，從車場導航至州際公路，在州際公路上行駛，並前往下一個設施。在99.9%的時間裡，司機根本不需要進行任何操作，”FedEx Freight執行長約翰.史密斯(John Smith)說。“監管方面將是最大的障礙。”從聯邦快遞(FedEx)剝離後，FedEx Freight週一作為一家獨立公司開始掛牌交易。該公司專注於將多個較小貨物合併裝入一輛拖車的運輸業務，這被稱為“零擔貨運”(less-than-truckload, 簡稱LTL)行業。總部位於孟菲斯的FedEx Freight年度營收達87億美元，是北美最大的零擔貨運承運商。
-
----
-
-### 2026-06-02 07:47:20  #MKT News #CSI300 #Impact bullish
-
-【CICC: A-share market favors steadiness over speed】China International Capital Co maintains its annual outlook for H2: international order reconfiguration and China’s industrial-innovation trend remain the primary drivers of this cycle’s upside and China-asset repricing, and those conditions are intact. The A-share market is therefore better positioned for a long, steady advance than a rapid rally. With investor risk appetite and bullish expectations elevated, CICC flags H2 focus on external conditions and global cyclical sectors—especially AI—and on liquidity/flow dynamics. Overall valuations are reasonable but there are pockets of overvaluation; guard against sectoral fragility and volatility risk.
-
----
-
-### 2026-06-02 07:46:51  #市場 #國際
-
-指標性6月交割10年期日本國債期貨早盤下跌0.09點。
-
----
-
-### 2026-06-02 07:46:00  #市場 #國際
-
-日本日經平均指數期貨早盤上漲0.21%。
-
----
-
-### 2026-06-02 07:45:27  #其他
-
-【上證報：一線城市住宅成交正持續回暖】作為房地產市場的風向標，一線城市住宅成交正持續回暖。在北京，5月二手住房成交量逾1.6萬套，同比上升約12%，在4月之後，再次創下近5年同期新高；在上海，二手房（含商業）累計網籤超2.8萬套，連續3個月保持高位，“賣一買一”置換鏈條持續修復；在深圳，一二手住宅合計網籤數量時隔14個月再度突破1萬套，豪宅、改善、剛需等多類住房成交量同步回暖。
-
----
-
-### 2026-06-02 07:44:25  #宏觀 #公司
-
-【貨幣基金“T+1”結算落地 多家中小銀行暫停貨基申購】 伴隨5月底監管整改大限到來，一場波及數十家中小銀行的貨幣基金申購“暫停潮”正在上演。截至6月1日，已有超過30家銀行宣佈暫停部分或全部貨幣基金申購業務，涉及常熟農商行、龍江銀行、天津農商行、紫金農商行、江陰農商行、晉商銀行、廣州銀行等一眾城商行和農商行。與此同時，易方達、鵬華、諾安、中歐等多家基金公司也密集釋出公告，旗下部分貨幣基金在數十家銀行渠道暫停申購及定投業務。這一集體行動的背後，是去年11月出臺的貨幣基金銷售結算資金“T+1”劃轉新規即將結束六個月過渡期。根據監管部門2025年11月24日釋出的《機構監管情況通報》，基金銷售機構應當在基金份額確認當日（T+1日）16：00前，將確認成功的申購資金劃轉至該基金的註冊登記賬戶。整改期限為六個月，到2026年5月底，所有機構必須完成系統改造和引數調整。如今大限已至，尚未完成改造的中小銀行紛紛按下“暫停鍵”，抓緊時間衝刺合規。（經濟參考報）
-
----
-
-### 2026-06-02 07:44:06  #公司
-
-【中證報：宇樹科技IPO過會 未來仍面臨市場內卷、技術迭代等風險】隨著6月1日過會，宇樹科技登陸A股已是大機率事件。但上市後，它們仍將面臨四大挑戰：
-第一，高估值與業績不匹配風險。目前，這些硬科技企業上市前估值對應了資本市場對熱門賽道的極致預期，但大多數公司目前尚未實現持續穩定的盈利，業績波動較大，高階產品未形成規模化營收。若後續業績增速不及預期、商業化落地滯後，高估值泡沫或將快速破裂，引發估值回撥壓力。
-第二，技術迭代與研發落地風險。人形機器人等硬科技賽道技術迭代速度極快，行業技術路線尚未完全收斂，關鍵量產技術仍處攻堅期，若後續研發投入未能轉化為技術成果，或跟不上行業技術迭代節奏，將快速喪失賽道競爭力。
-第三，行業競爭加劇與市場內捲風險。當下熱門賽道人氣爆棚，短期內人才和資金大量湧入，無論是國內同行的同質化競爭，還是海外龍頭的技術實力，都對市場份額形成擠壓。隨著賽道玩家增多，產品價格戰、人才爭奪戰、技術比拼將愈發激烈，盈利空間或持續被壓縮。
-第四，商業化落地週期過長風險。機器人等硬科技領域往往都是重資產、長週期行業，從技術研發、產品測試、產能爬坡到場景規模化落地，需要長期的資金與時間投入。但短期內下游場景仍偏分散，規模化訂單不足，若行業商業化進度不及預期，或將處於長期燒錢失血狀態。
-作為各種熱門賽道的所謂“第一股”，“宇樹們”承載著國內未來產業領域快速升級的期待。IPO為企業補齊了資本短板，但技術突破、盈利兌現、市場突圍的終極考驗才剛剛開始。未來，賽道紅利能否持續釋放、企業核心壁壘能否夯實、成長預期能否落地，將是資本市場持續關注的核心命題。
-
----
-
-### 2026-06-02 07:43:12  #國際
-
-【美戰略石油儲備降至兩年多來最低點】據美國媒體1日報道，美國能源部最新資料顯示，截至5月29日，美國戰略石油儲備規模較一週前相比減少約800萬桶，降至3.571億桶，這是自2024年1月以來的最低點。（新華社）
-
----
-
-### 2026-06-02 07:42:42  #市場
-
-【國際金價高位震盪 黃金ETF資金大幅流出】5月以來，國際黃金市場持續承壓，並在最後一週再次迎來回撥。5月28日，國際現貨黃金（倫敦金）價格盤中失守4400美元/盎司關口，最低下探至4366.52美元/盎司，收盤時回升至4495.59美元/盎司，5月29日收盤時漲0.98%至4539.78美元/盎司，當月盤中最高時為4773.37美元/盎司。受國際金價高位震盪影響，國內黃金主題ETF規模也普遍出現縮水。同花順iFinD資料顯示，截至5月底，14只黃金主題ETF規模合計2793.09億元，近1個月規模均出現下降，合計減少179.75億元，其中，8只黃金主題商品型ETF因申贖出現淨流出導致規模下降，合計減少83.62億元。（經濟參考報）
-
----
-
-### 2026-06-02 07:42:35  #其他
-
-【上海：計劃到2030年 服務業增加值達6萬億元】昨天（1日），《上海市服務業發展“十五五”規劃》正式釋出，明確到2030年，上海服務業增加值將達6萬億元左右。據瞭解2025年，上海全市服務業增加值規模達到4.5萬億元，佔全市GDP比重達到79.3%。此次釋出的《上海市服務業發展“十五五”規劃》明確了8項預期性指標，提出到2030年，上海服務業增加值將達到6萬億元左右。（央視）
-
----
-
-### 2026-06-02 07:42:01  #MKT News #Market Regions #Europe & UK
-
-Russia Today reports a large explosion in Kyiv, Ukraine, causing widespread power outages.
-
----
-
-### 2026-06-02 07:41:22  #宏觀
-
-【非化石能源電力消費核算指南出臺 綠證市場迎利好】近日，國家發展改革委、國家能源局、生態環境部、國家統計局、國家資料局印發《非化石能源電力消費核算指南（試行）》（以下簡稱《指南》）。作為非化石能源電力消費核算基礎性制度，《指南》基於統籌銜接、穩妥有序、科學合理等基本原則，對非化石能源電力消費的認定方式和核算方法做出了具體規定。專家認為，《指南》不僅有助於更好推動碳排放雙控制度實施，更有利於綠證市場的交易活躍度提升和功能價值釋放。（經濟參考報）
-
----
-
-### 2026-06-02 07:41:01  #觀點
-
-中信證券首席經濟學家明明表示，今年以來，專項債券用於專案建設的比例回升至76%左右，和2023年、2024年接近，明顯高於2025年。後續建築業供需兩端的改善需關注政策性金融工具的落地節點，以及專項債券結構改善對基礎設施建設的支援力度。
-
----
-
-### 2026-06-02 07:40:40  #MKT News #Commodities #Energy #CSI300 #Impact bullish #S&P500
-
-【Huatai Securities: Coal-fired power likely to benefit as electricity demand hits new highs】Huatai Securities said recent heat pushed southern China peak power load to record highs for four straight days, with peak demand rising nearly one month earlier than normal, acting as a catalyst for the power sector. Coal-fired generation should benefit directly from higher utilisation hours and higher spot/monthly power prices as peak loads persist. Markets may fear rising demand will lift coal prices, but higher coal costs also support market-based electricity tariff increases, permitting gradual pass-through of cost pressure. Power equities remain on the left of fundamentals, implying scope for a sustained price rebound. High temperatures most directly boost thermal power; clean energy could also gain from energy-driven electricity price upside.
 
 ---

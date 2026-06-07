@@ -1,7 +1,150 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:43:37_
-_本檔包含 3610 則快訊，約 707420 字_
+_更新時間：2026-06-08 04:37:51_
+_本檔包含 3603 則快訊，約 707799 字_
+
+---
+
+### 2026-06-02 07:53:36  #經濟數據 #日本
+
+日本5月基礎貨幣同比下降12.2%，前值-11.30%。
+
+---
+
+### 2026-06-02 07:53:22  #MKT News
+
+NASA Administrator Isaacman said Blue Origin's launch pad was damaged in a rocket explosion and may not be restored until 2028.
+
+---
+
+### 2026-06-02 07:52:48  #國際
+
+市場訊息：基輔傳出巨大的爆炸聲。
+
+---
+
+### 2026-06-02 07:52:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan monetary base YoY -12.2% in May; prior -11.3%.
+
+---
+
+### 2026-06-02 07:52:28  #MKT News #Economic Calendar #Important
+
+Japan | Base money growth rate (YoY) (May) | actual -12.2% | previous -11.30%
+
+---
+
+### 2026-06-02 07:52:05  #國際
+
+美國國家航空航天局局長艾薩克曼表示，藍色起源在火箭爆炸中受損的發射臺，修復完工可能要推遲到2028年。
+
+---
+
+### 2026-06-02 07:49:33  #市場 #國際
+
+【受對AI需求的樂觀情緒提振 日經指數或將上漲】儘管伊朗衝突存在不確定性，但隨著對AI需求的樂觀情緒持續，日本股市或將上漲。新加坡交易所的日經指數期貨上漲0.1%，報67115點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週一上漲0.9%，創下66934.33點的歷史新高。
+
+---
+
+### 2026-06-02 07:49:13  #其他
+
+【黎總統重申外交途徑是解決衝突的唯一出路】黎巴嫩總統奧恩當地時間6月1日發表宣告稱，儘管黎以談判程序面臨障礙和延誤，黎巴嫩仍將堅持透過談判解決問題。他強調，相較於戰爭，外交途徑才是解決衝突和實現穩定的唯一出路。奧恩表示，談判既不是投降，也不是讓步，而是以儘可能小的代價結束戰爭的一種解決方案。“過程中可能遭遇障礙和拖延，但它正在向前推進，無論需要多長時間，所有問題最終都要透過談判解決。”
+
+---
+
+### 2026-06-02 07:49:05  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Losses on Inflation Worries — Gold traded below $4,500 per ounce on Tuesday after declining in the previous session, pressured by stalled peace negotiations between the US and Iran that kept inflation risks and interest rate expectations at the forefront. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli attacks in Lebanon. Meanwhile, President Donald Trump said discussions are still ongoing and suggested that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached as early as next week. Markets are currently factoring in a Federal Reserve rate hike before year-end after US inflation accelerated, driven in large part by the Middle East conflict. Investors are now awaiting this week’s US monthly jobs report and comments from Fed officials for additional clues on the future path of monetary policy.
+
+---
+
+### 2026-06-02 07:48:38  #公司 #國際
+
+【FedEx Freight執行長：自動駕駛卡車已準備好全面投用】自動駕駛牽引拖車行駛在美國的高速公路上？FedEx Freight執行長表示，這項技術已經準備就緒。這些卡車何時上路則取決於監管機構。“這些牽引車能夠駛出車場，從車場導航至州際公路，在州際公路上行駛，並前往下一個設施。在99.9%的時間裡，司機根本不需要進行任何操作，”FedEx Freight執行長約翰.史密斯(John Smith)說。“監管方面將是最大的障礙。”從聯邦快遞(FedEx)剝離後，FedEx Freight週一作為一家獨立公司開始掛牌交易。該公司專注於將多個較小貨物合併裝入一輛拖車的運輸業務，這被稱為“零擔貨運”(less-than-truckload, 簡稱LTL)行業。總部位於孟菲斯的FedEx Freight年度營收達87億美元，是北美最大的零擔貨運承運商。
+
+---
+
+### 2026-06-02 07:47:20  #MKT News #CSI300 #Impact bullish
+
+【CICC: A-share market favors steadiness over speed】China International Capital Co maintains its annual outlook for H2: international order reconfiguration and China’s industrial-innovation trend remain the primary drivers of this cycle’s upside and China-asset repricing, and those conditions are intact. The A-share market is therefore better positioned for a long, steady advance than a rapid rally. With investor risk appetite and bullish expectations elevated, CICC flags H2 focus on external conditions and global cyclical sectors—especially AI—and on liquidity/flow dynamics. Overall valuations are reasonable but there are pockets of overvaluation; guard against sectoral fragility and volatility risk.
+
+---
+
+### 2026-06-02 07:46:51  #市場 #國際
+
+指標性6月交割10年期日本國債期貨早盤下跌0.09點。
+
+---
+
+### 2026-06-02 07:46:00  #市場 #國際
+
+日本日經平均指數期貨早盤上漲0.21%。
+
+---
+
+### 2026-06-02 07:45:27  #其他
+
+【上證報：一線城市住宅成交正持續回暖】作為房地產市場的風向標，一線城市住宅成交正持續回暖。在北京，5月二手住房成交量逾1.6萬套，同比上升約12%，在4月之後，再次創下近5年同期新高；在上海，二手房（含商業）累計網籤超2.8萬套，連續3個月保持高位，“賣一買一”置換鏈條持續修復；在深圳，一二手住宅合計網籤數量時隔14個月再度突破1萬套，豪宅、改善、剛需等多類住房成交量同步回暖。
+
+---
+
+### 2026-06-02 07:44:25  #宏觀 #公司
+
+【貨幣基金“T+1”結算落地 多家中小銀行暫停貨基申購】 伴隨5月底監管整改大限到來，一場波及數十家中小銀行的貨幣基金申購“暫停潮”正在上演。截至6月1日，已有超過30家銀行宣佈暫停部分或全部貨幣基金申購業務，涉及常熟農商行、龍江銀行、天津農商行、紫金農商行、江陰農商行、晉商銀行、廣州銀行等一眾城商行和農商行。與此同時，易方達、鵬華、諾安、中歐等多家基金公司也密集釋出公告，旗下部分貨幣基金在數十家銀行渠道暫停申購及定投業務。這一集體行動的背後，是去年11月出臺的貨幣基金銷售結算資金“T+1”劃轉新規即將結束六個月過渡期。根據監管部門2025年11月24日釋出的《機構監管情況通報》，基金銷售機構應當在基金份額確認當日（T+1日）16：00前，將確認成功的申購資金劃轉至該基金的註冊登記賬戶。整改期限為六個月，到2026年5月底，所有機構必須完成系統改造和引數調整。如今大限已至，尚未完成改造的中小銀行紛紛按下“暫停鍵”，抓緊時間衝刺合規。（經濟參考報）
+
+---
+
+### 2026-06-02 07:44:06  #公司
+
+【中證報：宇樹科技IPO過會 未來仍面臨市場內卷、技術迭代等風險】隨著6月1日過會，宇樹科技登陸A股已是大機率事件。但上市後，它們仍將面臨四大挑戰：
+第一，高估值與業績不匹配風險。目前，這些硬科技企業上市前估值對應了資本市場對熱門賽道的極致預期，但大多數公司目前尚未實現持續穩定的盈利，業績波動較大，高階產品未形成規模化營收。若後續業績增速不及預期、商業化落地滯後，高估值泡沫或將快速破裂，引發估值回撥壓力。
+第二，技術迭代與研發落地風險。人形機器人等硬科技賽道技術迭代速度極快，行業技術路線尚未完全收斂，關鍵量產技術仍處攻堅期，若後續研發投入未能轉化為技術成果，或跟不上行業技術迭代節奏，將快速喪失賽道競爭力。
+第三，行業競爭加劇與市場內捲風險。當下熱門賽道人氣爆棚，短期內人才和資金大量湧入，無論是國內同行的同質化競爭，還是海外龍頭的技術實力，都對市場份額形成擠壓。隨著賽道玩家增多，產品價格戰、人才爭奪戰、技術比拼將愈發激烈，盈利空間或持續被壓縮。
+第四，商業化落地週期過長風險。機器人等硬科技領域往往都是重資產、長週期行業，從技術研發、產品測試、產能爬坡到場景規模化落地，需要長期的資金與時間投入。但短期內下游場景仍偏分散，規模化訂單不足，若行業商業化進度不及預期，或將處於長期燒錢失血狀態。
+作為各種熱門賽道的所謂“第一股”，“宇樹們”承載著國內未來產業領域快速升級的期待。IPO為企業補齊了資本短板，但技術突破、盈利兌現、市場突圍的終極考驗才剛剛開始。未來，賽道紅利能否持續釋放、企業核心壁壘能否夯實、成長預期能否落地，將是資本市場持續關注的核心命題。
+
+---
+
+### 2026-06-02 07:43:12  #國際
+
+【美戰略石油儲備降至兩年多來最低點】據美國媒體1日報道，美國能源部最新資料顯示，截至5月29日，美國戰略石油儲備規模較一週前相比減少約800萬桶，降至3.571億桶，這是自2024年1月以來的最低點。（新華社）
+
+---
+
+### 2026-06-02 07:42:42  #市場
+
+【國際金價高位震盪 黃金ETF資金大幅流出】5月以來，國際黃金市場持續承壓，並在最後一週再次迎來回撥。5月28日，國際現貨黃金（倫敦金）價格盤中失守4400美元/盎司關口，最低下探至4366.52美元/盎司，收盤時回升至4495.59美元/盎司，5月29日收盤時漲0.98%至4539.78美元/盎司，當月盤中最高時為4773.37美元/盎司。受國際金價高位震盪影響，國內黃金主題ETF規模也普遍出現縮水。同花順iFinD資料顯示，截至5月底，14只黃金主題ETF規模合計2793.09億元，近1個月規模均出現下降，合計減少179.75億元，其中，8只黃金主題商品型ETF因申贖出現淨流出導致規模下降，合計減少83.62億元。（經濟參考報）
+
+---
+
+### 2026-06-02 07:42:35  #其他
+
+【上海：計劃到2030年 服務業增加值達6萬億元】昨天（1日），《上海市服務業發展“十五五”規劃》正式釋出，明確到2030年，上海服務業增加值將達6萬億元左右。據瞭解2025年，上海全市服務業增加值規模達到4.5萬億元，佔全市GDP比重達到79.3%。此次釋出的《上海市服務業發展“十五五”規劃》明確了8項預期性指標，提出到2030年，上海服務業增加值將達到6萬億元左右。（央視）
+
+---
+
+### 2026-06-02 07:42:01  #MKT News #Market Regions #Europe & UK
+
+Russia Today reports a large explosion in Kyiv, Ukraine, causing widespread power outages.
+
+---
+
+### 2026-06-02 07:41:22  #宏觀
+
+【非化石能源電力消費核算指南出臺 綠證市場迎利好】近日，國家發展改革委、國家能源局、生態環境部、國家統計局、國家資料局印發《非化石能源電力消費核算指南（試行）》（以下簡稱《指南》）。作為非化石能源電力消費核算基礎性制度，《指南》基於統籌銜接、穩妥有序、科學合理等基本原則，對非化石能源電力消費的認定方式和核算方法做出了具體規定。專家認為，《指南》不僅有助於更好推動碳排放雙控制度實施，更有利於綠證市場的交易活躍度提升和功能價值釋放。（經濟參考報）
+
+---
+
+### 2026-06-02 07:41:01  #觀點
+
+中信證券首席經濟學家明明表示，今年以來，專項債券用於專案建設的比例回升至76%左右，和2023年、2024年接近，明顯高於2025年。後續建築業供需兩端的改善需關注政策性金融工具的落地節點，以及專項債券結構改善對基礎設施建設的支援力度。
+
+---
+
+### 2026-06-02 07:40:40  #MKT News #Commodities #Energy #CSI300 #Impact bullish #S&P500
+
+【Huatai Securities: Coal-fired power likely to benefit as electricity demand hits new highs】Huatai Securities said recent heat pushed southern China peak power load to record highs for four straight days, with peak demand rising nearly one month earlier than normal, acting as a catalyst for the power sector. Coal-fired generation should benefit directly from higher utilisation hours and higher spot/monthly power prices as peak loads persist. Markets may fear rising demand will lift coal prices, but higher coal costs also support market-based electricity tariff increases, permitting gradual pass-through of cost pressure. Power equities remain on the left of fundamentals, implying scope for a sustained price rebound. High temperatures most directly boost thermal power; clean energy could also gain from energy-driven electricity price upside.
 
 ---
 
@@ -21638,185 +21781,5 @@ UK Foreign Secretary Cooper said Israel’s military escalation in Lebanon has c
 ### 2026-06-01 04:40:24  #公司 #國際
 
 【伯克希爾·哈撒韋將以85億美元收購美國住宅建築商泰勒·莫里森】伯克希爾·哈撒韋公司將以85億美元的企業價值收購泰勒·莫里森住宅公司（TMHC），兩家公司週日聯合宣佈了這一訊息。伯克希爾將以每股72.50美元的現金價格收購這家住宅建築商，這相當於泰勒·莫里森的總股權價值約為68億美元。收購後，該公司將繼續由執行長謝麗爾·帕爾默執掌。
-
----
-
-### 2026-06-01 04:33:34  #MKT News #TMHC.O #Impact bullish
-
-Berkshire Hathaway said Taylor Morrison will become a privately held company and will delist from the New York Stock Exchange upon completion of the transaction.
-
----
-
-### 2026-06-01 04:32:24  #MKT News #TMHC.O #Impact bullish #BRK.B.N
-
-Berkshire Hathaway (BRK.A.N, BRK.B.N) will acquire U.S. homebuilder Taylor Morrison Home Corporation for $8.5 billion, at $72.50 per share, implying an equity value of $6.8 billion.
-
----
-
-### 2026-06-01 04:31:53  #MKT News
-
-【Iran presidential office denies Pezeshkian resignation reports】May 31 — The Iranian presidential office denied reports that President Pezeshkian had submitted his resignation to Supreme Leader Mujtaba, saying the stories were spread by some foreign media. Tabatabai, the presidential official in charge of news and communications, posted on social media that Pezeshkian will continue to perform his duties.
-
----
-
-### 2026-06-01 04:31:49  #國際
-
-【伊朗總統府再度否認佩澤希齊揚辭職傳聞】伊朗總統府官員5月31日否認有關總統佩澤希齊揚已向最高領袖穆傑塔巴提出辭職的傳聞，稱相關說法系部分境外媒體散佈謠言。總統府分管新聞與通訊事務的官員塔巴塔巴伊在社交媒體平臺發文，否認佩澤希齊揚辭職傳聞。他說，佩澤希齊揚將繼續履行職責，不會停止為伊朗人民服務。（新華社）
-
----
-
-### 2026-06-01 04:31:14  #公司
-
-伯克希爾哈撒韋收購泰勒莫里森後，該公司將繼續由執行長謝麗爾·帕爾默執掌。
-
----
-
-### 2026-06-01 04:31:04  #公司 #焦點
-
-伯克希爾哈撒韋收購交易完成後，泰勒莫里森將轉為非上市公司並從紐交所退市。
-
----
-
-### 2026-06-01 04:30:35  #公司 #焦點
-
-伯克希爾哈撒韋將以85億美元收購泰勒莫里森住宅公司。
-
----
-
-### 2026-06-01 04:30:15  #MKT News
-
-Northern Israel issues drone intrusion alert.
-
----
-
-### 2026-06-01 04:25:07  #國際
-
-【伊官員稱伊朗不會對美退讓妥協】當地時間5月31日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊表示，伊朗無意向美國退讓或妥協，也絕不會把自己置於弱勢地位。（央視）
-
----
-
-### 2026-06-01 04:24:56  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran military adviser says Tehran will not yield to US】On May 31 local time, Mohsen Rezaee, military adviser to Iran's Supreme Leader, said Iran has no intention of yielding or compromising with the US and will not place itself in a weak position.
-
----
-
-### 2026-06-01 04:24:34  #MKT News
-
-【U.S. media says Trump administration lost many lawyers; Trump says that's a good thing】President Trump responded to a New York Times report on a large loss of legal staff, saying the departures are positive. He called the departures evidence of a purge of “radical left” “deep state” figures who he accused of weaponizing agencies and harming the country, said many were fired rather than resigning, accused the paper of exaggeration, and urged staffing with people committed to “Make America Great Again” rather than Obama- or Biden-era appointees.
-
----
-
-### 2026-06-01 04:19:08  #公司 #國際
-
-【SpaceX購入特斯拉Cybertruck總銷量的8% 且未獲任何折扣】據巴倫週刊報道，市場可能會以為，特斯拉會給予大批次採購的買家一定的折扣。然而，事實並非如此。結果顯示，特斯拉Cybertruck最大買家之一正是SpaceX。馬斯克旗下的這家火箭公司斥資1.31億美元購入了這款造型前衛的皮卡。根據SpaceX提交的S-1 IPO註冊宣告，這些電動汽車是“按特斯拉的製造商建議零售價”購入的。SpaceX並未享受到任何優惠。以這筆金額計算，大約可以購入1600輛卡車。這一數字約佔特斯拉2025年在美國市場售出Cybertruck總量的8%。
-
----
-
-### 2026-06-01 04:18:43  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-【SpaceX bought ~8% of Tesla’s projected 2025 US Cybertruck sales at full MSRP】Barron’s, citing SpaceX’s S‑1 IPO registration, reports SpaceX purchased $131m of Tesla Cybertrucks at Tesla’s manufacturer‑suggested retail price (no discount). The spend implies roughly 1,600 trucks, about 8% of Tesla’s projected 2025 US Cybertruck sales, making SpaceX one of the vehicle’s largest buyers.
-
----
-
-### 2026-06-01 04:18:39  #國際
-
-美國能源部長賴特：上一屆政府將電網問題政治化，竟以為靠降低供電可靠性、推高電價，就能阻止全球氣候變暖。特朗普總統正全力扭轉其削減能源供給的政策，著力提升能源供應能力。
-
----
-
-### 2026-06-01 04:16:55  #公司 #國際
-
-印度石油公司：已將19公斤裝商用液化石油氣鋼瓶價格上調42盧比，調整後價格為3113.5盧比。
-
----
-
-### 2026-06-01 04:15:49  #國際
-
-德國：對以色列在黎巴嫩展開的軍事行動表示嚴重關切。
-
----
-
-### 2026-06-01 04:15:06  #國際
-
-【埃及強烈譴責以色列在黎巴嫩升級軍事行動】埃及外交部5月31日發表宣告，強烈譴責以色列升級在黎巴嫩的軍事行動。宣告說，這種“公然侵略”暴露出以色列蓄意在黎巴嫩建立新的軍事現實，公然違反國際法、國際準則和《聯合國憲章》。埃及重申，堅決反對任何侵犯黎巴嫩領土的行為，並再次表達對黎巴嫩國家統一、國家機構以及領土完整的支援。宣告說，以色列持續擴大軍事行動將導致局勢進一步升級，聯合國安理會及有影響力的國際各方必須緊急、果斷地履行職責，制止這一侵略行為。（新華社）
-
----
-
-### 2026-06-01 04:10:59  #MKT News #Brent #Impact bullish #WTI
-
-【Egypt strongly condemns Israeli military escalation in Lebanon】Egypt's Foreign Ministry said on May 31 it strongly condemned Israel's escalation of military operations in Lebanon, calling it a "blatant aggression" that violates international law and the UN Charter. The ministry reaffirmed support for Lebanon's sovereignty, institutions and territorial integrity, warned that continued expansion of Israeli operations risks further escalation, and urged the UN Security Council and influential international actors to urgently and decisively act to halt the offensive.
-
----
-
-### 2026-06-01 04:10:56  #MKT News
-
-【Sheinbaum accuses US of 'open attempt' to interfere in Mexico's internal affairs】President Sheinbaum delivered her sternest criticism yet of what she called an 'open attempt' by the US to interfere in Mexico's internal affairs, using the charge as a rallying slogan at a Mexico City event on Sunday. She said efforts to destabilize her government have accelerated since the April 19 deaths of two CIA agents and pointed to a subsequent US Department of Justice indictment charging 10 Mexican officials—including Sinaloa governor Rubén Rocha Moya—with alleged drug‑trafficking, calling the move unprecedented in bilateral relations. She questioned whether Washington's actions reflect genuine assistance or a US far‑right political operation linked to the 2026 election.
-
----
-
-### 2026-06-01 04:06:52  #央行 #市場 #國際
-
-【經濟學家：中東戰事令南非經濟承壓 央行加息應對】中東戰事對全球能源供應、經濟活動等多個領域帶來衝擊。南非約翰內斯堡大學經濟學家彼得·鮑爾表示，在南非，燃料價格與生活成本也出現上漲。面對壓力，南非央行——南非儲備銀行近日宣佈加息應對。
-
----
-
-### 2026-06-01 04:03:33  #國際
-
-俄羅斯官員稱，俄控赫爾松地區發生無人機襲擊事件，造成1名兒童死亡，11人受傷。
-
----
-
-### 2026-06-01 03:58:52  #國際
-
-【以軍空襲加沙城海邊人群致兩死多傷】巴勒斯坦加沙地帶衛生部門訊息人士5月31日表示，以色列軍隊當天空襲加沙城以西海邊的一處人群，造成兩人死亡、多人受傷。（新華社）
-
----
-
-### 2026-06-01 03:53:17  #MKT News
-
-【Iran says it has made no commitments to US on nuclear issue】May 31 — A spokesman for the National Security Committee of Iran's parliament told local media Iran has made no commitments to the US on the nuclear issue.
-
----
-
-### 2026-06-01 03:52:59  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD #DXY
-
-Germany's foreign minister said Israeli forces are continuing to advance into southern Lebanon, a development he described as a matter of serious concern.
-
----
-
-### 2026-06-01 03:52:45  #MKT News
-
-Germany's foreign minister strongly urged all parties to the conflict to cease hostilities and restore the agreed ceasefire.
-
----
-
-### 2026-06-01 03:51:16  #國際
-
-德國外交部長：我強烈敦促衝突各方停止敵對行動，迴歸已商定的停火協議。
-
----
-
-### 2026-06-01 03:51:03  #國際
-
-【伊官員稱伊朗在核問題上對美方沒有任何承諾】當地時間5月31日，伊朗議會國家安全委員會發言人在接受當地媒體採訪時表示，在核問題上，伊朗對美方沒有任何承諾。（央視新聞）
-
----
-
-### 2026-06-01 03:49:55  #國際
-
-德國外長：以色列軍隊持續向黎巴嫩南部推進，這引發了嚴重關切。
-
----
-
-### 2026-06-01 03:48:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel Defense Forces said missiles were fired shortly before from the direction of Lebanon; one landed near IDF soldiers operating in southern Lebanon. The incident has ended and no casualties were reported.
-
----
-
-### 2026-06-01 03:44:23  #國際
-
-【以媒：以色列尋求美國支援擴大對黎真主黨打擊】據以色列第12頻道電視臺5月31日報道，以色列正尋求美國支援其擴大對黎巴嫩真主黨的打擊範圍，包括對黎首都貝魯特實施空襲。報道說，以色列正考慮轉變策略，從此前以控制黎南部地區為主，轉變為在更大範圍對黎實施空襲。以總理內塔尼亞胡日前與美國國務卿魯比奧通電話，試圖說服美方支援其立場。（新華社）
 
 ---

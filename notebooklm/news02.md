@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:43:37_
-_本檔包含 3809 則快訊，約 707683 字_
+_更新時間：2026-06-08 04:37:51_
+_本檔包含 3813 則快訊，約 708032 字_
+
+---
+
+### 2026-06-05 15:01:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+【Equity index futures midday close】CSI 300 index futures (IF) most-active contract fell 1.94%; SSE 50 index futures (IH) fell 0.99%; CSI 500 index futures (IC) fell 1.36%; CSI 1000 index futures (IM) fell 0.71%.
+
+---
+
+### 2026-06-05 15:01:40  #市場 #國際
+
+【ETF收評：機器人ETF領漲5.47%，中韓半導體ETF領跌5.99%】ETF收盤漲跌不一，機器人ETF（159559）領漲5.47%，機器人ETF（159272）漲5.38%，機器人ETF（159530）漲5.36%，中韓半導體ETF（513310）領跌5.99%，晶片ETF（516350）跌5.08%，積體電路ETF（159546）跌5.07%。
+
+---
+
+### 2026-06-05 15:01:38  #市場 #國際
+
+印尼股市基準指數下跌3%，至5665.15點。
+
+---
+
+### 2026-06-05 15:01:38  #MKT News #Important #Commodities #Industrial Metals #Precious Metals #Energy
+
+At the midday close, China's most-active futures were mostly lower. Shanghai tin fell more than 5%; synthetic rubber dropped over 4%. Palm oil, red dates and rapeseed oil declined more than 3%. Palladium, soda ash and glass were down over 2%. On the upside, coking coal rose over 2%, while rapeseed, starch, lithium carbonate, peanuts and corn gained more than 1%.
+
+---
+
+### 2026-06-05 15:01:32  #MKT News #Market Regions #Emerging Markets
+
+Kazakhstan central bank revised its 2026 inflation forecast to 9–11% from 9.5–11.5% and raised its 2026 GDP growth forecast to 4.5–5.5% from 3.5–4.5%.
+
+---
+
+### 2026-06-05 15:01:14  #MKT News
+
+National Bank of Kazakhstan said maintaining moderately tight monetary conditions is necessary to curb inflation in 2026.
+
+---
+
+### 2026-06-05 15:01:06  #公司 #市場 #焦點 #A股
+
+【收評：科創50指數低開低走跌超4% 算力硬體股領跌】A股三大指數今日集體下跌，截至收盤，上證指數收跌0.74%，深證成指跌2.21%，創業板指跌3.2%，北證50漲5.59%，科創50指數跌4.01%。全市場成交額31006億元，較上日成交額放量3216億元，全市場超3200只個股上漲。板塊題材上，電機、減速器、金屬新材料、遊戲、柔性屏板塊漲幅居前；電力、培育鑽石、半導體、貴金屬、儲存晶片板塊跌幅居前。盤面上，減速器板塊午後衝高，豐光精密30cm漲停，綠的諧波20cm漲停，中大力德、宇環數控等多股漲停，易實精密、鼎智科技漲幅居前。遊戲板塊表現活躍，中青寶20cm漲停，寶通科技、冰川網路、富春股份、凱撒文化漲幅居前。金屬新材料板塊全天強勢，天力複合漲超20%，龍磁科技漲超10%，江南新材漲停，博威合金、銀河磁體、鉑科新材漲幅居前。電力板塊午後持續下挫，廣西能源、豫能控股、粵電力A、大唐發電觸及跌停，華能蒙電、華電遼能、京能電力、江蘇新能等多股大幅下挫。儲存晶片板塊亦午後跌幅擴大，佰維儲存、華潤微、江波龍、德明利、瀾起科技、兆易創新跌幅居前。培育鑽石板塊全天震盪下行，惠豐鑽石領跌板塊，恆盛能源、沃爾德、四方達、黃河旋風、力量鑽石紛紛下挫。
+
+---
+
+### 2026-06-05 15:01:05  #MKT News #Macro & Rates
+
+Kazakhstan's central bank cut its policy rate by 100bps to 17%; markets had expected it to remain at 18%.
+
+---
+
+### 2026-06-05 15:01:02  #市場 #焦點
+
+A股收盤，上證指數跌0.74%，深證成指跌2.21%，創業板指跌3.20%。
+
+---
+
+### 2026-06-05 15:00:38  #MKT News #Market Regions #Greater China
+
+【Lanke Hi‑Tech shares slump; company responds】June 5 — Lanke Hi‑Tech shares fell sharply; at the midday close the stock was 8.23 yuan, down 5.29%. Market reports said the company’s proposed restructuring disappointed investors and that Q1 adjusted net profit dropped sharply. The company said the restructuring timeline will be relatively long, it has cancelled the planned 100% acquisition of Lanya Testing and will instead acquire a 51% stake in China Air Separation at the appraised price. The deal’s implied uplift is not high versus peers, and China Air Separation’s performance is subject to earnings commitments tied to its operations.
+
+---
+
+### 2026-06-05 15:00:32  #市場
+
+土耳其消費者價格同比或上漲32.61%；此前預期上漲32.50%。
+
+---
+
+### 2026-06-05 15:00:14  #其他
+
+瑞士5月外匯儲備 7108.18億瑞郎，前值由7157億瑞郎修正為7158.12億瑞郎。
+
+---
+
+### 2026-06-05 15:00:14  #MKT News
+
+Switzerland's foreign exchange reserves in May were CHF 710.818 bln; the prior reading was revised from CHF 715.7 bln to CHF 715.812 bln.
+
+---
+
+### 2026-06-05 15:00:10  #央行 #其他
+
+哈薩克央行將基準利率下調100個基點至17%，此前為18%。
+
+---
+
+### 2026-06-05 15:00:02  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌0.70%， 滬深300指數期貨連續跌1.93%， 中證500指數期貨連續跌1.31%， 上證50指數期貨連續跌0.99%。
+
+---
+
+### 2026-06-05 15:00:02  #市場
+
+【商品期貨收盤】錫連續跌5.35%，膠合板連續跌4.38%，丁二烯橡膠連續跌4.05%，棕櫚油連續跌3.29%，菜油連續跌3.23%。
+
+---
+
+### 2026-06-05 15:00:02  #市場
+
+歐股開盤普漲，德國DAX指數漲0.6%，英國富時100指數漲0.27%，法國CAC40指數漲1.15%，歐洲斯托克50指數漲0.82%，義大利富時MIB指數漲0.27%。
+
+---
+
+### 2026-06-05 15:00:00  #MKT News #Economic Calendar #Important
+
+Switzerland | Foreign Exchange Reserves (May) | actual 710818000000B | previous 715700000000B
+
+---
+
+### 2026-06-05 14:59:49  #宏觀 #國際
+
+印尼財政部長稱，印尼資產保持穩定。
+
+---
+
+### 2026-06-05 14:59:34  #公司 #市場
+
+【藍科高新股價大跌，公司回應】6月5日，藍科高新股價大跌。截至午間收盤，公司股價報8.23元/股，跌5.29%。有市場訊息稱，藍科高新發布的重組方案不及預期，公司一季度扣非淨利潤大幅下滑。對此，藍科高新方面獨家回應中國證券報·中證金牛座記者，重組方案落地時間確實比較長。公司取消了藍亞檢測100%股權收購，只收購中國空分51%股權。公司按照評估價收購中國空分51%股權，與可比公司相比，增值率並不高。中國空分本身也有業績承諾，主要看他們的經營情況。(中證金牛座)
+
+---
+
+### 2026-06-05 14:59:20  #宏觀
+
+【廣州釋出新版國有土地上房屋徵收與補償實施辦法】據廣州市住房和城鄉建設局5日介紹，廣州市人民政府辦公廳近日正式印發《廣州市國有土地上房屋徵收與補償實施辦法》(下稱“新版《辦法》”)，圍繞徵收決定、徵收補償、徵收實施等作出全面規範，直擊民生關切、破解實操難點，兼顧民眾切身利益與城市發展，推動城市發展成果更多更公平惠及市民。 新版《辦法》首次在市級層面新增最低建築面積補償規定，針對建築面積小於40平方米的廣州市內唯一住宅家庭，經申請可按40平方米建築面積實行房屋產權調換，且40平方米以內不結算差價，精準照顧到配合搬遷的小戶型、唯一住宅困難家庭的基本居住需求。 新版《辦法》新增城中村改造銜接條款，銜接《廣州市城中村改造條例》，明確城中村改造專案涉及國有土地上房屋徵收的，按照國務院釋出的《國有土地上房屋徵收與補償條例》及本《辦法》相關規定執行，助力加快城中村改造及城市功能品質迭代升級。
+
+---
+
+### 2026-06-05 14:59:10  #MKT News
+
+【IAEA brokers temporary local ceasefire to repair power line to Zaporizhzhia nuclear plant】IAEA said on June 5 it brokered a temporary local ceasefire between Ukraine and Russia — the sixth since late last year — to permit repairs to transmission lines supplying the Zaporizhzhia nuclear plant. The truce took effect today near the plant; after large-scale demining in the coming days technicians will begin restoring the war-damaged Dnieperovskaya 750 kV high-voltage transmission line, the agency said. The operation aims to secure critical power supply and prevent the threat of a nuclear accident.
+
+---
+
+### 2026-06-05 14:58:35  #宏觀 #市場
+
+【深圳樓市新政滿月：5月住宅成交再破萬套】“‘429’新政之後，前來諮詢看房的外地客戶明顯變多了。”位於深圳福田區的中原地產香蜜湖水榭花都店店董楊志雄告訴記者，這些客戶大多為企業主，來自廣州、北京、上海和周邊城市，“客戶看好深圳的競爭力，在新政放鬆了核心區限購政策之後，他們也覺得有必要在深圳進行一些資產配置。” 4月底深圳出臺的新政定向針對福田區、南山區、寶安新安街道的購房資格進行了鬆綁，憑居住證即可在前述區域購房，符合要求的購房者則可加購一套。 政策立竿見影，“五一”小長假期間，深圳本地中介機構樂有家就接待了來自浙江、瀋陽、長沙、香港等地的客戶，其中便有客戶在辦好居住證後直接線上簽約。 不只是核心區，整個深圳市場迎來了“紅五月”行情。樂有家研究中心資料顯示，5月深圳一二手住宅合計網籤10077套，這是自2025年4月以來，時隔14個月該資料再度突破1萬套大關，環比大幅上漲28%創下新高，市場活躍度回升至近年來的高位水平。（第一財經）
+
+---
+
+### 2026-06-05 14:57:21  #Trading Economics #Economy #France #Balance of Trade #Importance 2
+
+France Trade Deficit Narrows in April — France’s trade deficit narrowed to €5.6 billion in April 2026 from €6.4 billion in March, and below the expected €6.5 billion shortfall. This reflects exports rising 3.1% month-on-month to €54.6 billion, driven by transport equipment (+5.9%), mechanical, electrical, electronic and computer equipment (+5.8%), and other industrial products (+0.2%), while declines were seen in natural hydrocarbons (-8.7%), and agri-food industries (-1.1%). By region, exports increased to the European Union (+1.1%), Asia (+2.7%), the Americas (+0.6%), Africa (+0.4%), and the Middle East (+8.7%). Meanwhile, imports rose at a softer 1.5% to €60.2 billion, driven by higher purchases of natural hydrocarbons (+5.4%) and other industrial products (+2.5%), while transport equipment (-2.8%) and refined petroleum products (-3.3%) declined. Imports rose from Africa (+20.4%), Asia (+6.1%), and the Americas (+2.4%), while falling sharply from the Middle East (-60.7%) and edging lower from the European Union (-0.2%).
+
+---
+
+### 2026-06-05 14:56:54  #宏觀 #資料 #觀點 #國際
+
+【分析師：日本第一季度經濟增速可能低於初步估計】修正後的資料預計將顯示，2026年第一季度日本經濟增速低於首次報告的水平。經濟學家表示，近期的財政部資料顯示，資本支出弱於初步估計。Quick的一項調查顯示，實際國內生產總值(GDP)摺合成年率可能被下修至增長1.2%，而初值為增長2.1%。農林中金綜合研究所經濟學家南武志表示，隨著中東局勢的不確定性導致消費者信心惡化，且出口面臨放緩，4-6月季度的經濟增長料將放緩。“到7-9月季度末，日本經濟的增長勢頭可能會停滯，“他說。修正後的資料將於週一公佈。
+
+---
+
+### 2026-06-05 14:56:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Reserve Bank of India governor said the scenario assumes crude oil at $95 a barrel.
+
+---
+
+### 2026-06-05 14:56:14  #MKT News
+
+RBI governor says the central bank will, if necessary, take measures to curb speculative trading in the foreign-exchange market.
+
+---
+
+### 2026-06-05 14:56:08  #央行 #國際
+
+印度央行行長馬爾霍特拉：歐洲央行互換額度僅限公共部門企業使用，原因在於這些企業更多服務於公共事業與基礎設施領域。
+
+---
+
+### 2026-06-05 14:55:57  #國際
+
+【俄烏區域性停火以搶修核電站輸電線】國際原子能機構（IAEA）今天（6月5日）宣佈促成烏克蘭與俄羅斯之間達成一項臨時的區域性停火協議。這是自去年年底以來的第6次此類停火，旨在允許對通往扎波羅熱核電站的供電線路進行搶修。IAEA在社交媒體X上發文稱：“由IAEA斡旋達成的區域性停火今日在扎波羅熱核電站附近前線生效，為確保關鍵供電線路的搶修、防止核事故威脅鋪平了道路。”宣告表示，未來幾天，在對該地區進行大規模排雷後，技術人員將開始修復“第聶伯羅夫斯卡亞”750千伏高壓輸電線路因戰爭造成的損壞。（CCTV國際時訊）
+
+---
+
+### 2026-06-05 14:55:19  #央行 #國際
+
+印度央行行長馬爾霍特拉：超出允許範圍的任何差異化利率絕對不可接受。
+
+---
+
+### 2026-06-05 14:55:08  #公司 #其他
+
+【Liftoff宣佈首次公開發行定價】記者獲悉，移動應用效果營銷與變現服務商Liftoff Mobile宣佈，其首次公開發行1900萬股普通股定價為每股23美元，承銷商另獲30天選擇權可增購至多285萬股以覆蓋超額配售。股票預計6月4日在納斯達克全球精選市場掛牌交易，程式碼"LFTO"，本次發行預計6月5日完成。（21世紀經濟報道）
+
+---
+
+### 2026-06-05 14:54:44  #市場 #焦點
+
+滬深兩市成交額超3萬億元，較上日此時放量3075億元。
+
+---
+
+### 2026-06-05 14:53:38  #央行 #國際
+
+印度央行行長馬爾霍特拉：原油價格假設為每桶95美元。
+
+---
+
+### 2026-06-05 14:50:50  #其他
+
+【羅氏奧妥珠單抗注射液在華擬納入優先審評 適用於原發性膜性腎病】中國國家藥監局藥品審評中心(CDE)官網公示，羅氏申報的奧妥珠單抗注射液擬納入優先審評，適用於原發性膜性腎病(pMN)成人患者的治療。
+
+---
+
+### 2026-06-05 14:50:38  #MKT News
+
+Reserve Bank of India governor says the bank is not currently considering measures to curb capital outflows.
+
+---
+
+### 2026-06-05 14:50:26  #公司 #國際
+
+【伊朗戰事衝擊能源市場，歐盟稱航空燃油供應暫無虞】歐盟運輸事務專員表示，儘管伊朗戰爭引發能源供應衝擊，但未來幾個月歐洲沒有出現航空燃油短缺的跡象。不過，高昂的燃油價格正促使航空公司削減無利可圖的航線。霍爾木茲海峽作為連線海灣地區與全球市場的關鍵航道，過去三個月來大致處於關閉狀態，導致全球石油供應每日減少約1,400萬桶，相當於全球需求量的約14%。迄今為止，歐盟承受住了這波衝擊。中東地區約佔歐盟航空燃油進口量的20%，而來自美國與奈及利亞的供應大致填補了缺口。“目前歐洲沒有航空燃油短缺。我們沒有跡象表明未來一段時間會出現短缺，”歐盟運輸事務專員Apostolos Tzitzikostas在接受採訪時表示，並補充說地區機場面臨的風險最大。
 
 ---
 
@@ -22745,197 +22961,5 @@ Canadian Dollar Hits Eight-Week Low — The Canadian dollar weakened to 1.39 per
 ### 2026-06-04 11:11:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
 
 China A-share glass-substrate theme reactivated: BOE Technology (BOE A) hit the daily limit, Hongxing Development had earlier hit the limit; Meidikai, Gebijia, Caihong and Dier Laser also rallied.
-
----
-
-### 2026-06-04 11:11:12  #其他
-
-【青島“十五五”規劃綱要釋出】青島市人民政府日前印發《青島市國民經濟和社會發展第十五個五年規劃綱要》，設定了20項主要指標。核心發展指標包括地區生產總值年均增長5%以上，常住人口城鎮化率達到81%，海洋生產總值佔GDP比重達到35%，全社會研發經費投入強度達到3.5%，城鎮新增就業175萬人，勞動年齡人口平均受教育年限達到13.2年，人均預期壽命提高到82.8歲，糧食綜合生產能力穩定在310萬噸以上等。根據《綱要》，青島將加快發展“10+1”創新型產業，以超常規舉措發展新一代資訊科技、人工智慧2個先導產業；加力打造生命健康、智慧網聯新能源汽車、低空經濟、綠色能源、智慧裝備5個新興產業；全面煥發智慧家電、高階化工與新材料、現代輕工3個優勢產業新活力；前瞻佈局未來產業，推動具身智慧、太赫茲、空天資訊、氫能、量子科技等成為新的經濟增長點，建設未來產業先導區。
-
----
-
-### 2026-06-04 11:10:39  #公司 #市場
-
-玻璃基板概念再度活躍，京東方A漲停，紅星發展此前漲停，美迪凱、戈碧迦、彩虹股份、帝爾鐳射等跟漲。
-
----
-
-### 2026-06-04 11:09:09  #國際
-
-白宮副幕僚長：特朗普將於週四提名布蘭奇出任司法部長。
-
----
-
-### 2026-06-04 11:08:47  #市場 #國際
-
-【機構：未來小麥和大麥價格料將上漲】荷蘭合作銀行預計，受市場供應趨緊支撐，未來小麥和大麥價格將更加堅挺。駐澳大利亞分析師Vitor Pistoia在一份月度報告中表示，美國、東歐和澳大利亞與天氣相關的挑戰，疊加高昂的生產成本，正在抑制種植面積和化肥的使用。“與近年相比，預計2026產季的穀物產量將下降，導致全球供需平衡趨緊，從而提供更好的基礎價格支撐，“他說。
-
----
-
-### 2026-06-04 11:05:50  #MKT News
-
-【Jakarta residential fire affects about 240 residents】A fire tore through a densely populated residential area in Central Jakarta early on the 4th, destroying 30 homes and affecting about 240 residents. Jakarta’s regional disaster management agency said the blaze began at about 00:20 local time and the main flames were extinguished by about 04:24. The cause is under investigation.
-
----
-
-### 2026-06-04 11:05:25  #其他
-
-【新石器與新加坡QuikBot達成合作】6月3日訊息，新石器無人車宣佈與新加坡科技企業QuikBot簽署戰略合作，雙方將共同打造首個“公開道路—樓宇內部—家門口”的無人配送方案，在新加坡落地從開放道路到家門口的無人配送。QuikBot深耕新加坡高密度城市環境，能夠幫助自動駕駛系統與門禁、電梯、智慧設施及樓宇運營規則協同。
-
----
-
-### 2026-06-04 11:05:21  #其他
-
-【科大訊飛VoiceWise升級企業級智慧語音互動能力】6月4日訊息，科大訊飛星火VoiceWise智慧語音互動產品完成能力升級，推出高效能CPU版ASR引擎及全雙工語音互動能力，該引擎支援線上短語音識別和離線錄音檔案識別，基於CPU即可執行，相容鯤鵬ARM架構與麒麟Linux系統，可適配金融、政務、運營商、能源等行業客戶的國產化基礎設施。同等配置鯤鵬ARM伺服器上，新版引擎較傳統CPU版本線上短語音識別併發路數提升約90%，離線錄音檔案識別整體吞吐量提升約150%。
-
----
-
-### 2026-06-04 11:05:06  #其他
-
-【中國工商銀行山東淄博分行原行長王世明被開除黨籍】日前，中國工商銀行山東省分行紀委、棗莊市監委對中國工商銀行山東淄博分行原黨委書記、行長王世明嚴重違紀違法問題進行了立案審查調查。經查，王世明喪失理想信念、背棄初心使命，違反中央八項規定精神，借其子結婚之機大肆斂財；組織意識淡漠，利用職務便利，為他人在招聘錄用、職務晉升和崗位調整等事項中謀取利益；棄守廉潔底線，收受可能影響公正執行公務的禮品、禮金、購物卡，違規經商辦企業，利用職務便利為親屬經營活動謀利；違反工作紀律，違規干預和插手信貸客戶貸款發放，違規推動、審批營業網點搬遷、租賃、裝修等事項；違反生活紀律，對子女失管失教；目無紀法，將公權力異化為謀取私利的工具，大搞權錢交易，利用職務便利為他人在貸款融資等方面謀利並非法收受鉅額財物，利用職務便利貪汙公款，縱容親友非法鉅額獲利。王世明嚴重違反黨的組織紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌為親友非法牟利罪、貪汙罪、受賄罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中國工商銀行山東省分行黨委研究，決定給予王世明開除黨籍處分；按規定取消其享受的退休待遇；收繳其違紀所得及登記上交款項；棗莊市監委將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-06-04 11:04:56  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SZSE Component #Hang Seng Index
-
-【Global analog-IC leaders begin new round of price hikes; Chinese analog vendors likely to benefit】Analogue IC sector is shifting from inventory-cycle repair to demand recovery, price rebound and structural upgrade, CITIC Jian... research says. Aggressive price increases by overseas leaders have created pricing room and eased profit pressure on Chinese suppliers from prior low‑price competition, supporting a stabilization and rebound in industry gross margins. Over the next few quarters, as AI infrastructure spending scales, firms with high‑performance, low‑latency analog technologies are expected to retain a competitive edge in the AI-driven industry reshuffle.
-
----
-
-### 2026-06-04 11:04:45  #公司
-
-【誠邁科技在西安成立智慧科技公司 註冊資本1000萬】天眼查App顯示，近日，誠邁智慧科技（西安）有限公司成立，法定代表人為劉冰冰，註冊資本1000萬人民幣，經營範圍包括軟體開發、軟體銷售、資訊系統整合服務等。股東資訊顯示，該公司由誠邁科技（300598）全資持股。
-
----
-
-### 2026-06-04 11:04:41  #國際
-
-白宮助理釋出影片，影片中特朗普表示他將選擇布蘭奇出任司法部長。
-
----
-
-### 2026-06-04 11:03:58  #其他
-
-DATASECTION擬斥資約 2.57 億美元採購英偉達 GPU 伺服器。
-
----
-
-### 2026-06-04 11:02:42  #公司
-
-Cerebras執行長稱：AI 硬體產業產能跟不上市場需求。
-
----
-
-### 2026-06-04 11:02:40  #MKT News #Market Regions #Greater China
-
-【About 350 new shopping centers slated to open nationwide in China in 2025】Data from the China Chain Store & Franchise Association show about 350 new shopping centers are expected to open nationwide in 2025. Sector concentration is rising, and operators are prioritizing redevelopment of existing stock and improvements in operating efficiency.
-
----
-
-### 2026-06-04 11:01:52  #其他
-
-【寮國人革黨中央總書記、國家主席通倫抵達北京】寮國人革黨中央總書記、國家主席通倫今日抵達北京，繼續訪華行程。6月2日起通倫開始對中國進行國事訪問，抵京前通倫在浙江省參訪。（新華社）
-
----
-
-### 2026-06-04 11:01:42  #MKT News #Market Regions #Greater China
-
-【Lao President Thongloun Sisoulith arrives in Beijing to continue state visit】Lao People's Revolutionary Party General Secretary and President Thongloun Sisoulith arrived in Beijing to continue his state visit to China, running June 2–6; he visited Zhejiang province prior to arrival.
-
----
-
-### 2026-06-04 11:01:12  #其他
-
-通倫抵達北京。（新華社）
-
----
-
-### 2026-06-04 11:01:03  #公司
-
-CEREBRAS執行長表示，人工智慧硬體行業未能滿足市場需求。
-
----
-
-### 2026-06-04 10:59:50  #其他
-
-【2025年全國新開購物中心約350座】中國連鎖經營協會日前釋出資料顯示，2025年全國新開購物中心約350座，購物中心行業集中度持續提升，存量改造與運營效率提升成為企業關注的核心方向。（新華社）
-
----
-
-### 2026-06-04 10:59:12  #MKT News #VOO #Impact bullish #S&P500
-
-【Vanguard S&P 500 ETF VOO tops $1 trillion】Vanguard's S&P 500 ETF VOO has surpassed $1 trillion in assets, the first ETF to reach that scale and a record for passive investing. The fund charges 0.03%, well below major rivals. Asset growth reflects US AI-driven equity demand and continued global flows into low-cost passive products. Market commentators note recent index rule changes — S&P 500's new-issue waiting period cut from 12 to 6 months and Nasdaq's expedited IPO inclusion — will allow large passive funds to allocate to heavyweight upcoming listings such as SpaceX and ANTHROPIC sooner; if those firms are fast-tracked into broad indexes, funds like VOO would be required under index rules to increase holdings. Vanguard reported roughly $12.32 trillion in AUM at end-Q1 2026 and operates a fund-shareholder-owned structure, positioning it alongside BlackRock and State Street among US asset-management leaders.
-
----
-
-### 2026-06-04 10:59:07  #公司 #市場 #國際
-
-【全球首個萬億美元ETF誕生】據多家美媒3日訊息，美國先鋒集團旗下跟蹤標普500指數的ETF規模突破一萬億美元，成為全球首個萬億體量ETF，重新整理被動投資行業紀錄。該程式碼為VOO的ETF管理費為0.03%，顯著低於主要競爭對手，美股AI投資熱潮、全球資金持續向低成本被動產品遷徙是基金規模大漲的核心原因。有分析指出，伴隨標普500新股納入等待期由12個月縮至6個月、納斯達克落地IPO快速入指新規，海量被動資金將定向配置SpaceX、Anthropic等即將上市的重磅標的。一旦兩家企業被快速納入主流指數，以VOO為代表的萬億級被動基金將依規增持。先鋒集團創立於1975年，採用持有人所有制架構。截至2026年一季度末，其全球資產管理規模約12.32萬億美元，依靠低費率指數投資重塑全球基金行業格局，與貝萊德、道富並稱美國資管三巨頭。（央視財經）
-
----
-
-### 2026-06-04 10:56:39  #MKT News
-
-Qatar's Al Jazeera reported on the 4th that Israeli airstrikes hit multiple residences in Gaza City, killing at least nine.
-
----
-
-### 2026-06-04 10:55:46  #國際
-
-據卡達半島電視臺4日報道，以色列空襲巴勒斯坦加沙城多處民宅，已造成至少9人死亡。（新華社）
-
----
-
-### 2026-06-04 10:55:32  #市場 #國際
-
-印尼基準指數最新下跌4.8%，報5653.814點。
-
----
-
-### 2026-06-04 10:55:26  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量1235億元。
-
----
-
-### 2026-06-04 10:54:22  #MKT News #Market Regions #Greater China #Commodities #Energy
-
-A-share coal mining and processing sector rose in volatile trade; Antai Group hit the daily trading limit, Dayou Energy had earlier hit the limit, and Pingmei Co., Zhengzhou Coal & Electricity and Shaanxi Black Cat also advanced.
-
----
-
-### 2026-06-04 10:53:47  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Holds Gains on Hawkish BOJ Remarks — Japan’s 10-year government bond yield remained near 2.65% on Thursday, holding onto recent gains after Bank of Japan Governor Kazuo Ueda said the central bank should weigh the benefits and costs of raising interest rates if inflation risks begin to outweigh downside risks to the economy. Markets continue to anticipate another BOJ rate hike later this month as rising energy costs linked to the Middle East conflict add to inflationary pressures. Meanwhile, Chief Cabinet Secretary Minoru Kihara reiterated that decisions on specific monetary policy measures are the responsibility of the Bank of Japan, reinforcing confidence in the central bank’s independence. Investors also remained focused on developments in the Middle East, where renewed clashes between the US and Iran have reduced hopes for a near-term peace agreement.
-
----
-
-### 2026-06-04 10:53:31  #公司 #市場
-
-【煤炭開採加工板塊震盪走高，安泰集團漲停】煤炭開採加工板塊震盪走高，安泰集團漲停，大有能源此前漲停，平煤股份、鄭州煤電、陝西黑貓跟漲。
-
----
-
-### 2026-06-04 10:53:16  #市場
-
-現貨黃金上漲近1%，報每盎司4474.53美元。
-
----
-
-### 2026-06-04 10:53:00  #其他
-
-Meta Muse Spark大模型API因程式漏洞與基建問題延期上線。
-
----
-
-### 2026-06-04 10:51:52  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-Wall Street Journal reports Meta Platforms (META.O) said it plans to release an API for its latest AI model in June.
-
----
-
-### 2026-06-04 10:51:46  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-The Wall Street Journal, citing people familiar with the matter, reports Meta Platforms (META.O) has delayed the API launch for its Muse Spark AI model, citing bugs and infrastructure issues.
 
 ---
