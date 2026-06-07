@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 01:33:22_
-_本檔包含 3787 則快訊，約 706519 字_
+_更新時間：2026-06-08 02:07:38_
+_本檔包含 3794 則快訊，約 707181 字_
+
+---
+
+### 2026-06-05 14:37:03  #央行 #國際
+
+印度央行行長馬爾霍特拉：若通脹出現普遍化趨勢，我們將保持警惕。
+
+---
+
+### 2026-06-05 14:36:29  #MKT News
+
+Reserve Bank of India governor said the inf target should be met over time and it is not advisable to take action on every deviation.
+
+---
+
+### 2026-06-05 14:35:53  #宏觀
+
+【財政部印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》】為進一步加強中央專項彩票公益金支援地方社會公益事業發展資金管理，提高資金使用效益，根據財政預算管理規定和彩票管理制度要求，結合相關管理實踐，財政部修訂完善並印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》。
+
+---
+
+### 2026-06-05 14:35:22  #MKT News #Macro & Rates
+
+RBI governor says inflation target has not been shelved.
+
+---
+
+### 2026-06-05 14:35:12  #MKT News
+
+Reserve Bank of India governor said he expects inflows from external commercial borrowings and other measures to remain healthy.
+
+---
+
+### 2026-06-05 14:35:11  #MKT News #Important #Market Regions #Greater China
+
+A-share Zhongji Xuchuang recorded turnover of 50 bln yuan; shares trading down 7.89%.
+
+---
+
+### 2026-06-05 14:35:07  #其他
+
+【6月5日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，6月5日“農產品批發價格200指數”為113.50，比昨天上升0.03個點，“菜籃子”產品批發價格指數為113.59，比昨天上升0.04個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.73元/公斤，與昨天持平；牛肉66.76元/公斤，比昨天上升0.4%；羊肉64.23元/公斤，比昨天上升1.0%；雞蛋10.56元/公斤，比昨天上升0.8%；白條雞17.32元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.28元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.56元/公斤，比昨天下降0.3%。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.93元/公斤，比昨天上升0.5%；白鰱魚10.49元/公斤，比昨天上升0.4%；大帶魚40.63元/公斤，比昨天上升0.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、芹菜、蓮藕、菠菜和冬瓜，幅度分別為4.1%、2.1%、1.9%、1.6%和1.5%；價格降幅前五名的是西紅柿、黃瓜、西葫蘆、花鰱魚和蔥頭，幅度分別為2.4%、2.4%、2.3%、1.9%和1.7%。
+
+---
+
+### 2026-06-05 14:35:05  #MKT News #Important #EURUSD #Impact mixed
+
+France's April trade balance and industrial production (MoM) due in 10 minutes.
+
+---
+
+### 2026-06-05 14:34:37  #MKT News
+
+Reserve Bank of India governor says cash reserve ratio (CRR) and statutory liquidity ratio (SLR) requirements will be waived for foreign-currency non-resident term deposits.
+
+---
+
+### 2026-06-05 14:34:34  #公司 #其他 #焦點 #A股
+
+【中際旭創成交額達500億元】中際旭創成交額達500億元，現跌7.89%。
+
+---
+
+### 2026-06-05 14:34:00  #MKT News #CSI300 #Impact bearish
+
+CSI 300 index futures (IF) main contract fell as much as 2.00% intraday, trading at 4,773.0 points.
+
+---
+
+### 2026-06-05 14:33:28  #央行 #國際
+
+印度央行行長馬爾霍特拉：預計歐洲央行及其他措施將帶來充裕資金流入。
+
+---
+
+### 2026-06-05 14:33:24  #公司
+
+【百度登記百度一鏡logo作品著作權】天眼查智慧財產權資訊顯示，近日，北京百度網訊科技有限公司登記“百度一鏡logo”作品著作權，作品類別為美術，此前，百度線上網路技術（北京）有限公司已申請註冊多枚“百度一鏡”商標，國際分類包括科學儀器、社會服務等，當前商標狀態均為等待實質審查。 北京百度網訊科技有限公司成立於2001年6月，法定代表人為梁志祥，註冊資本約134.2億人民幣，經營範圍包括計算機軟硬體及輔助裝置零售、計算機軟硬體及輔助裝置批發、軟體開發等，由李彥宏、崔珊珊共同持股。 公開資料顯示，百度一鏡是百度推出的全場景數字人平臺，前身為“慧播星”，於近期在百度Create大會上完成品牌戰略升級，並同步釋出百度一鏡海外版。
+
+---
+
+### 2026-06-05 14:33:22  #MKT News
+
+Reserve Bank of India governor says details of foreign-exchange measures will be released shortly.
+
+---
+
+### 2026-06-05 14:33:10  #央行 #國際
+
+印度央行行長馬爾霍特拉：將免徵外幣非居民定期存款的現金準備金率與法定流動性比率要求。
+
+---
+
+### 2026-06-05 14:32:43  #MKT News #Market Themes #AI Revolution
+
+【Optical-fiber prices surge as high‑purity quartz sand tightens on AI demand】AI compute infrastructure demand has triggered a new round of optical‑fiber price increases, lifting prices for high‑purity quartz sand used in fiber production. High‑end 6N‑grade and above quartz sand is particularly tight, with mainstream market quotes for fiber‑use high‑purity sand at 48,000–55,000 yuan/ton. High‑purity quartz sand is used across preform manufacture and fiber drawing and in fiber‑grade quartz tubes and furnace components. The demand boost mainly benefits firms with 6N‑level production capability; downstream processing adheres to market pricing and remains sensitive to cost, supply and broader market conditions. Domestic self‑sufficiency for 6N+ material is low, keeping near‑term supply tight.
+
+---
+
+### 2026-06-05 14:31:51  #其他
+
+【恒生電子釋出6.0 AI生態架構】6月5日，在2026恒生證券行業合作伙伴峰會上，恒生電子總裁範徑武正式釋出了恒生面向AI時代的LIGHT 6.0技術架構——AI生態架構。目前，證券行業已全面邁入數智化階段。據瞭解，6.0 AI生態架構以“四層遞進、開放共建”為核心理念，構建了從基礎設施到核心業務系統的完整技術體系。
+
+---
+
+### 2026-06-05 14:31:38  #市場 #焦點 #國際
+
+【日韓股市收低】日經225指數收跌1.31%，報66588.12點；韓國KOSPI指數收跌5.54%，報8160.59點。
+
+---
+
+### 2026-06-05 14:31:27  #焦點 #國際
+
+【阿曼石油開發公司稱其重要石油出口港運營正常】當地時間5日上午，阿曼石油開發公司釋出通告稱，位於首都馬斯喀特的法赫勒港“運營正常”。當天早些時候，有訊息稱法赫勒港發生爆炸，導致石油裝載作業暫停。但截至目前，阿曼官方尚未證實相關訊息。法赫勒港是阿曼最重要的石油出口港口之一。阿曼石油開發公司總部以及多家重要煉油設施均設於這裡。（央視新聞）
+
+---
+
+### 2026-06-05 14:30:58  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 closed down 882.57 points on Friday, June 5, a 1.31% decline, at 66,588.12.
+
+---
+
+### 2026-06-05 14:30:47  #公司
+
+【潤澤科技據悉尋求200港元貸款用於香港資料中心專案】據知情人士透露，潤澤智算科技集團股份有限公司正尋求約200億港元（26億美元）貸款，用於建設中國香港最大的計算機設施。知情人士說，潤澤科技正與多家銀行就一筆一年貸款進行初步洽談，可能採取銀團貸款或多筆雙邊融資的形式，以支援其位於香港北部新界的資料中心專案開發。他們補充說，與貸款方的洽談尚處於初步階段，可能會有所變化。
+
+---
+
+### 2026-06-05 14:30:12  #MKT News #Important #Market Themes #Chip Wars #SZSE Component #Impact bearish
+
+China's STAR 50 Index fell more than 4% at the close, led by chip supply-chain names including Daquan Energy, Baiwei Storage, Shengyi Electronics, Montage Technology and Xinyuan Technology.
+
+---
+
+### 2026-06-05 14:30:00  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 1.36% Lower — The Nikkei 225 Index dropped 919 points or 1.36 percent on Friday to close at 66552 points. Losses were led by Sumco (-8.18%), Tokyo Electron (-6.80%) and Renesas Electron (-6.51%).
 
 ---
 
@@ -22709,101 +22847,5 @@ Indonesia's Ministry of Mines said copper concentrate production totaled 422,510
 ### 2026-06-04 10:41:15  #Trading Economics #Markets #Australia #Currency #Importance 1
 
 Australian Dollar Holds Near 2-Week Low — The Australian dollar held below $0.715, staying near a two-week low as renewed hostilities in the Middle East dampened risk sentiment, while upbeat domestic trade data offered support. Australia's trade position returned to a surplus of AUD 1.79 billion in April from a deficit of AUD 1.02 billion in March, as exports climbed to a three-year high, led by stronger shipments of metal ores, while import growth remained modest. Earlier this week, the country's softer Q1 GDP readings reinforced signs that higher interest rates are already cooling demand. The Reserve Bank has raised interest rates three times this year to slow the economy, bringing demand back in line with supply to contain price pressures. However, fresh attacks in the Middle East and near the crucial Strait of Hormuz has kept energy prices elevated, fueling inflation concerns. Markets now have ruled out another rate hike this month, but remain evenly split for a move in August and are pricing a 4.60% peak by year-end.
-
----
-
-### 2026-06-04 10:41:06  #國際
-
-印尼礦產部公佈，1-4月印尼煤炭產量為2.34億公噸，出口量為1.509億公噸。
-
----
-
-### 2026-06-04 10:40:53  #市場
-
-新加坡基準股指下跌1.2%，至5076.81點。
-
----
-
-### 2026-06-04 10:40:39  #國際
-
-印度尼西亞礦業部公佈，該國1-4月陰極銅產量為83280公噸。
-
----
-
-### 2026-06-04 10:40:20  #國際
-
-印度尼西亞礦產部公佈，該國1-4月銅精礦產量為42.251萬噸。
-
----
-
-### 2026-06-04 10:40:09  #公司 #市場
-
-煤炭股反覆活躍，平煤股份逼近漲停，大有能源此前4連板，鄭州煤電、淮北礦業、陝西煤業、恆源煤電、兗礦能源等跟漲。
-
----
-
-### 2026-06-04 10:39:23  #公司
-
-【養老服務信託創新試點，上海構建“意定監護+養老服務信託+養老服務機構”模式】上海金融監管局、上海市民政局、人民銀行上海市分行、上海市委金融辦近日聯合印發《關於創新開展養老服務信託試點的通知》，創新構建“意定監護+養老服務信託+養老服務機構”全鏈條養老服務生態，推動形成意定監護人負責人身監護、信託公司負責財產管理、養老服務機構負責專業照護服務的專業體系，共同保障老年及備老群體的財產安全與生活質量。
-
----
-
-### 2026-06-04 10:39:04  #MKT News #Important #Market Regions #Emerging Markets #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Indonesia's benchmark stock index slid 4.2% to 5,688.574 points, its lowest level since Dec. 1, 2020.
-
----
-
-### 2026-06-04 10:38:35  #國際
-
-印尼基準股票指數跌幅達4.2%，報5688.574點，創2020年12月1日以來最低水平。
-
----
-
-### 2026-06-04 10:37:18  #市場 #央行 #國際
-
-【美聯儲“褐皮書”顯示美國消費支出貧富分化加劇】美國聯邦儲備委員會3日釋出的全國經濟形勢調查報告顯示，4月7日到5月27日的最近一個報告期內，美國經濟活動整體“輕度至溫和”擴張，但消費支出呈分化態勢。 根據美國“聯邦儲備法”，美國全國劃分為12個聯邦儲備區，每區設立一家聯邦儲備銀行。該報告根據12家聯邦儲備銀行的最新調查結果編制而成，也稱“褐皮書”。 報告說，不同聯邦儲備區消費支出情況依然參差不齊，不同收入群體的消費支出日益分化，高收入家庭對物價上漲不太敏感，中等收入家庭“每一美元都精打細算”，低收入家庭則面臨較大財務壓力。總體來看，消費者信用卡使用增多，零售店客流量下降，生活必需品需求增強。由於不確定性加大及消費支出走弱跡象打壓市場情緒，企業對今後6個月的增長預期基本保持不變。 報告還說，11個聯邦儲備區勞動力市場變化很小或沒有變化，多個聯邦儲備區製造業招聘表現強勁。物價整體以溫和至強勁的速度上漲，大多數聯邦儲備區通脹水平比前一報告期更高。通脹壓力加大的主要原因是中東衝突引發能源成本上升，其影響已外溢至運輸、包裝、日用品和化肥等領域。 美聯儲每年釋出8次“褐皮書”，透過各聯邦儲備銀行對全美經濟形勢進行摸底，是美聯儲貨幣政策會議的重要參考資料。美聯儲下次貨幣政策會議將於6月16日至17日舉行。(新華社)
-
----
-
-### 2026-06-04 10:36:54  #市場 #國際
-
-印度尼西亞股市基準指數下跌 4%。
-
----
-
-### 2026-06-04 10:36:33  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Remains Near Key 160 Per Dollar Level — The Japanese yen traded around 159.9 per dollar on Thursday, staying close to the psychologically important 160 level that investors view as a potential trigger for another round of currency intervention by Japanese authorities, as renewed US-Iran tensions boosted demand for the dollar. The yen has now erased the gains recorded after Tokyo's ¥11.7 trillion intervention last month aimed at supporting the struggling currency. Its renewed weakness also drew fresh verbal warnings from officials, with Prime Minister Sane Takaichi stating that the government stands ready to respond to excessive exchange-rate movements when necessary. On the policy front, Bank of Japan Governor Kazuo Ueda said the central bank should weigh the costs and benefits of raising interest rates if inflation risks begin to outweigh downside risks to economic growth. Markets continue to expect another BOJ rate hike later this month.
-
----
-
-### 2026-06-04 10:36:17  #MKT News
-
-【New Zealand residential construction hits decade low as high rates, global uncertainty curb demand】Residential construction in New Zealand dropped to a ten-year low as high mortgage rates and global uncertainty dented demand for new homes and renovations, Statistics New Zealand said. Activity fell 5% in the 12 months to March, the weakest March annual reading since 2016 and about 25% below the 2023 peak. A period of elevated borrowing costs, plus geopolitical concerns and a global energy shock that squeezed household incomes, have reduced buyer confidence; falling prices have left developers reluctant to start new projects and homeowners unwilling to sell and reinvest. An increase in building consents suggests a potential recovery, but the medium‑term outlook remains uncertain.
-
----
-
-### 2026-06-04 10:35:12  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報168200元/噸，較上日16:30價格下跌1750元/噸。
-
----
-
-### 2026-06-04 10:35:02  #其他
-
-【我國科學家破解農作物花期按需抗冷機制】中國科學院遺傳與發育生物學研究所許操研究員帶領的智慧育種攻關團隊經過長達8年的持續攻關，發現首個農作物生育期低溫感知的小肽訊號，破解農作物花粉發育低溫感知和訊號轉導機制。該機制闡釋了植物在面臨不可預測的短期冷害時，如何透過“按需抗逆”實現精準高效防禦，保障韌性穩產。該成果於北京時間6月3日線上發表在國際學術期刊《自然》。 (新華社)
-
----
-
-### 2026-06-04 10:34:40  #公司 #市場
-
-【大消費板塊持續下挫 歡樂家跌超10%】大消費板塊盤中持續下挫，食品飲料、零售方向領跌，歡樂家跌超10%，中百集團觸及跌停，安奈兒、中央商場、寧波中百、步步高、國芳集團跌幅靠前。
-
----
-
-### 2026-06-04 10:34:21  #國際
-
-印尼礦業部公佈，1-4月印尼鎳冰鎳產量為23730公噸。
 
 ---

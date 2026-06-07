@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 01:33:22_
-_本檔包含 4012 則快訊，約 706721 字_
+_更新時間：2026-06-08 02:07:38_
+_本檔包含 4015 則快訊，約 707456 字_
+
+---
+
+### 2026-06-04 10:41:06  #國際
+
+印尼礦產部公佈，1-4月印尼煤炭產量為2.34億公噸，出口量為1.509億公噸。
+
+---
+
+### 2026-06-04 10:40:53  #市場
+
+新加坡基準股指下跌1.2%，至5076.81點。
+
+---
+
+### 2026-06-04 10:40:39  #國際
+
+印度尼西亞礦業部公佈，該國1-4月陰極銅產量為83280公噸。
+
+---
+
+### 2026-06-04 10:40:20  #國際
+
+印度尼西亞礦產部公佈，該國1-4月銅精礦產量為42.251萬噸。
+
+---
+
+### 2026-06-04 10:40:09  #公司 #市場
+
+煤炭股反覆活躍，平煤股份逼近漲停，大有能源此前4連板，鄭州煤電、淮北礦業、陝西煤業、恆源煤電、兗礦能源等跟漲。
+
+---
+
+### 2026-06-04 10:39:23  #公司
+
+【養老服務信託創新試點，上海構建“意定監護+養老服務信託+養老服務機構”模式】上海金融監管局、上海市民政局、人民銀行上海市分行、上海市委金融辦近日聯合印發《關於創新開展養老服務信託試點的通知》，創新構建“意定監護+養老服務信託+養老服務機構”全鏈條養老服務生態，推動形成意定監護人負責人身監護、信託公司負責財產管理、養老服務機構負責專業照護服務的專業體系，共同保障老年及備老群體的財產安全與生活質量。
+
+---
+
+### 2026-06-04 10:39:04  #MKT News #Important #Market Regions #Emerging Markets #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Indonesia's benchmark stock index slid 4.2% to 5,688.574 points, its lowest level since Dec. 1, 2020.
+
+---
+
+### 2026-06-04 10:38:35  #國際
+
+印尼基準股票指數跌幅達4.2%，報5688.574點，創2020年12月1日以來最低水平。
+
+---
+
+### 2026-06-04 10:37:18  #市場 #央行 #國際
+
+【美聯儲“褐皮書”顯示美國消費支出貧富分化加劇】美國聯邦儲備委員會3日釋出的全國經濟形勢調查報告顯示，4月7日到5月27日的最近一個報告期內，美國經濟活動整體“輕度至溫和”擴張，但消費支出呈分化態勢。 根據美國“聯邦儲備法”，美國全國劃分為12個聯邦儲備區，每區設立一家聯邦儲備銀行。該報告根據12家聯邦儲備銀行的最新調查結果編制而成，也稱“褐皮書”。 報告說，不同聯邦儲備區消費支出情況依然參差不齊，不同收入群體的消費支出日益分化，高收入家庭對物價上漲不太敏感，中等收入家庭“每一美元都精打細算”，低收入家庭則面臨較大財務壓力。總體來看，消費者信用卡使用增多，零售店客流量下降，生活必需品需求增強。由於不確定性加大及消費支出走弱跡象打壓市場情緒，企業對今後6個月的增長預期基本保持不變。 報告還說，11個聯邦儲備區勞動力市場變化很小或沒有變化，多個聯邦儲備區製造業招聘表現強勁。物價整體以溫和至強勁的速度上漲，大多數聯邦儲備區通脹水平比前一報告期更高。通脹壓力加大的主要原因是中東衝突引發能源成本上升，其影響已外溢至運輸、包裝、日用品和化肥等領域。 美聯儲每年釋出8次“褐皮書”，透過各聯邦儲備銀行對全美經濟形勢進行摸底，是美聯儲貨幣政策會議的重要參考資料。美聯儲下次貨幣政策會議將於6月16日至17日舉行。(新華社)
+
+---
+
+### 2026-06-04 10:36:54  #市場 #國際
+
+印度尼西亞股市基準指數下跌 4%。
+
+---
+
+### 2026-06-04 10:36:33  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Remains Near Key 160 Per Dollar Level — The Japanese yen traded around 159.9 per dollar on Thursday, staying close to the psychologically important 160 level that investors view as a potential trigger for another round of currency intervention by Japanese authorities, as renewed US-Iran tensions boosted demand for the dollar. The yen has now erased the gains recorded after Tokyo's ¥11.7 trillion intervention last month aimed at supporting the struggling currency. Its renewed weakness also drew fresh verbal warnings from officials, with Prime Minister Sane Takaichi stating that the government stands ready to respond to excessive exchange-rate movements when necessary. On the policy front, Bank of Japan Governor Kazuo Ueda said the central bank should weigh the costs and benefits of raising interest rates if inflation risks begin to outweigh downside risks to economic growth. Markets continue to expect another BOJ rate hike later this month.
+
+---
+
+### 2026-06-04 10:36:17  #MKT News
+
+【New Zealand residential construction hits decade low as high rates, global uncertainty curb demand】Residential construction in New Zealand dropped to a ten-year low as high mortgage rates and global uncertainty dented demand for new homes and renovations, Statistics New Zealand said. Activity fell 5% in the 12 months to March, the weakest March annual reading since 2016 and about 25% below the 2023 peak. A period of elevated borrowing costs, plus geopolitical concerns and a global energy shock that squeezed household incomes, have reduced buyer confidence; falling prices have left developers reluctant to start new projects and homeowners unwilling to sell and reinvest. An increase in building consents suggests a potential recovery, but the medium‑term outlook remains uncertain.
+
+---
+
+### 2026-06-04 10:35:12  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報168200元/噸，較上日16:30價格下跌1750元/噸。
+
+---
+
+### 2026-06-04 10:35:02  #其他
+
+【我國科學家破解農作物花期按需抗冷機制】中國科學院遺傳與發育生物學研究所許操研究員帶領的智慧育種攻關團隊經過長達8年的持續攻關，發現首個農作物生育期低溫感知的小肽訊號，破解農作物花粉發育低溫感知和訊號轉導機制。該機制闡釋了植物在面臨不可預測的短期冷害時，如何透過“按需抗逆”實現精準高效防禦，保障韌性穩產。該成果於北京時間6月3日線上發表在國際學術期刊《自然》。 (新華社)
+
+---
+
+### 2026-06-04 10:34:40  #公司 #市場
+
+【大消費板塊持續下挫 歡樂家跌超10%】大消費板塊盤中持續下挫，食品飲料、零售方向領跌，歡樂家跌超10%，中百集團觸及跌停，安奈兒、中央商場、寧波中百、步步高、國芳集團跌幅靠前。
+
+---
+
+### 2026-06-04 10:34:21  #國際
+
+印尼礦業部公佈，1-4月印尼鎳冰鎳產量為23730公噸。
 
 ---
 
@@ -24080,83 +24176,5 @@ The US Supreme Court rejected a judicial ruling that had barred Alabama from adv
 ### 2026-06-03 09:15:39  #MKT News #Market Regions #Greater China #Copper #Impact bullish
 
 【China International Capital Co: Communication PCB chain likely to see sustained volume and price gains】China International Capital Co said 6G ISAC commercialization—bringing more channels, higher frequency bands and greater integration—will drive comprehensive upgrades in RF PCB materials, processes and design, creating incremental demand across the PCB supply chain. The firm expects penetration of advanced materials, adoption of more complex processes and rising multilayer-board demand to support sustained volume and price appreciation in the communication PCB chain. To accommodate higher-frequency transmission, copper-clad laminate materials with lower dielectric constant (Dk), lower dielectric loss (Df) and superior thermal stability will become required, making upstream high-performance high-frequency materials such as PTFE early beneficiaries.
-
----
-
-### 2026-06-03 09:15:35  #市場
-
-【人民幣兌美元中間價報6.8184，較上日調高3點】人民幣兌美元中間價報6.8184，較上日調高3點。
-
----
-
-### 2026-06-03 09:15:29  #國際
-
-美國最高法院推翻了叫停阿拉巴馬州推行偏向共和黨的國會選區地圖的司法裁決。
-
----
-
-### 2026-06-03 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.41%，報25841.60點，低水196.72點。
-
----
-
-### 2026-06-03 09:14:32  #公司
-
-【景興紙業：公司瓦楞原紙銷售價格5月有多輪上調】景興紙業(002067)在互動平臺表示，公司瓦楞原紙銷售價格5月經過多輪的上調，至今上調幅度300—350元。
-
----
-
-### 2026-06-03 09:14:22  #市場 #國際
-
-【東南亞多國擔憂今夏旅遊旺季“難旺”】夏季是東南亞多國接待國際遊客、賺取外匯的重要季節，但受伊朗戰事所致燃料價格大漲等多重因素影響，泰國、越南、柬埔寨等多國旅遊業人士擔心，今夏的旅遊旺季可能不會如以往那般興旺。旅遊業是東南亞不少國家的支柱產業。據美聯社資料，旅遊業收入佔泰國國內生產總值的近13%、越南的近9%。在柬埔寨，旅遊業提供了數百萬人賴以生存的工作崗位。在菲律賓，旅遊業是重要的創匯行業。在國際油價大漲背景下，對燃料依賴進口的國家而言，旅遊創匯變得更為重要。（新華社）
-
----
-
-### 2026-06-03 09:12:36  #其他
-
-【平陸運河全線通水 將於今年9月通航】6月3日上午，隨著平陸運河馬道樞紐和企石樞紐開始充水，標誌著平陸運河全線通水，全面進入有水除錯階段。平陸運河是西部陸海新通道骨幹工程，全長134.2公里，北起廣西橫州市平塘江口，經靈山縣陸屋鎮、沿欽江進入北部灣。作為新中國成立以來我國第一條，國家層面統籌的通江達海的運河工程，平陸運河可通航5000噸級船舶，將於今年9月通航。建成後，西南地區貨物經平陸運河出海，比經廣州港出海，縮短內河航程560公里以上，將成為西南地區，運距最短、最經濟、最便捷的出海通道。
-
----
-
-### 2026-06-03 09:12:08  #MKT News #Market Regions #Europe & UK
-
-Container shipping index (Europe route) front-month contract down over 4.00% intraday, now 3,631.0 points.
-
----
-
-### 2026-06-03 09:10:55  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌4%，現報3631.00點。
-
----
-
-### 2026-06-03 09:10:54  #MKT News #Market Regions #Japan & APAC
-
-Japan 20-year bond yield rose 1bp to 3.510%.
-
----
-
-### 2026-06-03 09:09:43  #MKT News
-
-【SpaceX unusually locks IPO price at $135/share, aims to raise $75 bln】SpaceX plans to sell 555.6 mln shares at a target IPO price of $135 per share to raise roughly $75 bln, a source familiar with the matter said. Earlier reports said the company is targeting a $1.75 tln valuation and to raise at least $75 bln. Setting a specific price before the roadshow is highly unusual; companies normally set a price range during the roadshow and finalize pricing the day before listing. SpaceX’s roadshow begins Thursday local time; potential investors will meet executives while banks seek to build demand for a record $75 bln order book.
-
----
-
-### 2026-06-03 09:09:31  #MKT News #Market Regions #Greater China
-
-【Pinglu Canal reaches full impoundment, enters wet commissioning】On the morning of June 3, the Madao and Qishi hubs began filling, marking full-line impoundment of the Pinglu Canal and the start of wet commissioning. The canal, the first state-coordinated river-to-sea canal since the founding of the People’s Republic of China, will accommodate 5,000-ton vessels and is scheduled to open to navigation in September.
-
----
-
-### 2026-06-03 09:06:46  #公司
-
-【麥格米特等成立智元科技公司 含AI及機器人業務】企查查APP顯示，近日，北京麥米智元科技有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧行業應用系統整合服務；物聯網應用服務；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由麥格米特等共同持股。
-
----
-
-### 2026-06-03 09:06:19  #市場
-
-【酒價內參6月3日價格釋出：青花汾20國窖1573領漲 總價創近5天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月3日整體明顯回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9925元，較昨日大幅上漲25元，創下近5天以來最高。市場在前期探底後震盪回升，終端交投情緒有所回暖，今日除普五八代微跌外其餘十大品種均上漲或平盤。今日白酒市場11大單品八漲一跌兩平，贏家佔據絕對優勢。上漲方面，青花汾20、國窖1573、洋河夢之藍M6+及水晶劍南春均上漲4元/瓶，其中青花汾20終結此前7日的連續下探走勢，但仍囿於月內低位；國窖1573重返890元上方；水晶劍南春漲幅平月內最高紀錄，價格亦追平月內最高紀錄。精品茅臺與古井貢古20各上漲3元/瓶；飛天茅臺與習酒君品各上漲2元/瓶。下跌方面，五糧液普五八代微跌1元/瓶，繼續在月內低位徘徊。五糧液1618與青花郎的價格環比保持不變，前者近一個月走勢頗為平穩，而後者仍深陷月內次低位。
 
 ---

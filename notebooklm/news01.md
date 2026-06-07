@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 01:33:22_
-_本檔包含 3754 則快訊，約 706723 字_
+_更新時間：2026-06-08 02:07:38_
+_本檔包含 3769 則快訊，約 707190 字_
+
+---
+
+### 2026-06-08 02:06:56  #MKT News #UAL.O #Impact mixed
+
+United Airlines CEO Scott Kirby said the aviation industry's net-zero carbon emissions target is achievable but depends on government policy.
+
+---
+
+### 2026-06-08 02:06:52  #公司 #國際
+
+【美聯航CEO：被美國航空拒絕後，大規模合併可能性小，但或收購資產】美聯航執行長斯科特·柯比周日對路透表示，如果高油價給實力較弱的競爭對手帶來壓力，美聯航仍願意收購機場起降時段、登機口或其他資產，但在向美國航空的收購提議失敗後，美聯航不太可能尋求重大整合交易。柯比表示，今年4月，他在就合併事宜接觸美國航空後，對方拒絕了聯合航空的提議。路透此前報道稱，他曾在2月向美國總統唐納德·特朗普提出過這一想法。美國航空執行長羅伯特·伊索姆以“違反競爭原則且不利於客戶”為由，拒絕了合併提議。“我認為美聯航不太可能進行合併，”柯比在里約熱內盧舉行的國際航空運輸協會年會上接受採訪時表示。“這並不意味著我們不會繼續在市場上收購資產，但合併的可能性很低。”
+
+---
+
+### 2026-06-08 02:06:39  #MKT News #UAL.O
+
+United Airlines CEO Scott Kirby said the carrier may still purchase aviation assets such as airport slots or boarding gates.
+
+---
+
+### 2026-06-08 02:06:24  #MKT News #JBLU.O #Impact bullish
+
+United Airlines CEO Scott Kirby said JetBlue is far from needing to file for bankruptcy protection.
+
+---
+
+### 2026-06-08 02:06:08  #MKT News #UAL.O #Impact bearish
+
+United Airlines CEO Scott Kirby said fuel hedges have performed poorly.
+
+---
+
+### 2026-06-08 02:06:05  #MKT News
+
+United Airlines CEO Scott Kirby said demand remains strong but he expects demand will become more elastic — increasingly price-sensitive — over time.
+
+---
+
+### 2026-06-08 02:05:34  #MKT News #UAL.O #Impact bullish
+
+United Airlines CEO Scott Kirby said fare adjustments have nearly offset the impact of higher fuel costs.
+
+---
+
+### 2026-06-08 02:05:27  #公司 #國際
+
+【特朗普在接受NBC採訪時憤然離場】美國總統特朗普在接受美國全國廣播公司（NBC）採訪時憤然離場。當時主持人克里斯汀·韋爾克追問他及其政府官員過往針對2020年總統大選公正性提出的不實言論，該屆大選特朗普最終不敵拜登。特朗普在結束採訪時稱：“你們的選舉存在舞弊，你們本身也心懷不軌，《會見新聞界》欄目、美國廣播公司、哥倫比亞廣播公司以及有線電視新聞網皆是如此。你們這些媒體立場偏頗、弄虛作假。我受夠了，就此結束吧。謝謝你，祝你愉快。”
+
+---
+
+### 2026-06-08 02:05:22  #MKT News #UAL.O
+
+United Airlines CEO Scott Kirby said the carrier is unlikely to pursue consolidation.
+
+---
+
+### 2026-06-08 02:03:22  #MKT News
+
+【5.2-magnitude earthquake strikes Bhutan; depth 10 km】cenc measured a magnitude 5.2 earthquake at 01:36 on June 8 in Bhutan (27.33N, 89.90E); focal depth 10 km.
+
+---
+
+### 2026-06-08 02:02:08  #其他
+
+官方結果顯示：已統計超14%選票後，科索沃自決黨在議會選舉中以38.7%的得票率領先。
+
+---
+
+### 2026-06-08 02:01:13  #MKT News #029.HK #Impact bullish #AIR.PA
+
+Cathay Pacific CEO plans to increase orders for widebody, narrowbody and freighter aircraft. Low-cost carrier Hong Kong Express will retain an all-Airbus fleet. The CEO does not expect further capacity cuts this year due to fuel prices.
+
+---
+
+### 2026-06-08 02:00:39  #公司
+
+國泰航空執行長表示，今年不會因燃油價格問題進一步削減運力。
+
+---
+
+### 2026-06-08 02:00:36  #公司
+
+國泰航空執行長表示，計劃增購寬體、窄體及貨機。
+
+---
+
+### 2026-06-08 02:00:33  #公司
+
+國泰航空執行長表示，低成本航空公司香港快運將維持全空客客機的機隊配置。
+
+---
+
+### 2026-06-08 01:59:32  #國際
+
+美國中央司令部發文稱，美軍駐中東全體部隊始終保持戒備、嚴陣以待。
+
+---
+
+### 2026-06-08 01:56:53  #焦點 #國際
+
+伊朗航空IRA1686航班已降落在戈爾甘機場。
+
+---
+
+### 2026-06-08 01:55:42  #其他
+
+中國地震臺網正式測定：06月08日01時36分在不丹（北緯27.33度，東經89.90度）發生5.2級地震，震源深度10千米。
+
+---
+
+### 2026-06-08 01:55:40  #其他
+
+【圓夢大滿貫 茲維列夫奪法網男單冠軍】2026年法網男單決賽，茲維列夫以3-2擊敗科博利，奪得本屆法網男單冠軍，這也是他生涯首座大滿貫冠軍。（央視新聞）
+
+---
+
+### 2026-06-08 01:53:59  #焦點 #國際
+
+伊朗航空IRA1686航班從馬什哈德機場起飛，前往吉達機場。該航班在伊朗北部戈爾甘附近降至低空後，從航班追蹤平臺Flightradar24上消失。
+
+---
+
+### 2026-06-08 01:51:52  #其他
+
+【熱烈歡迎習近平總書記 平壤飄揚中朝國旗】應朝鮮勞動黨總書記、朝鮮民主主義人民共和國國務委員長金正恩邀請，中共中央總書記、中華人民共和國主席習近平於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。 6月7日，新華社記者看到首都平壤已盛裝以待，歡迎中國貴賓。主要街道兩側，中朝兩國國旗迎風飄揚。多座地標建築亮出橫幅，熱烈歡迎習近平總書記到訪。（新華國際）
+
+---
+
+### 2026-06-08 01:51:38  #MKT News
+
+Iran's president said his negotiating team will not concede and must firmly defend the rights of the Iranian people.
+
+---
+
+### 2026-06-08 01:48:00  #國際
+
+伊朗總統佩澤希齊揚：伊朗必須以強勢姿態與美國展開談判、捍衛國家權益，強調伊朗談判團隊絕不會退讓。
+
+---
+
+### 2026-06-08 01:45:34  #其他
+
+德國地球科學研究中心（GFZ）：不丹發生5.57級地震。
+
+---
+
+### 2026-06-08 01:43:19  #MKT News
+
+IAEA experts confirmed radiation levels at the Chernobyl site remain within normal ranges, indicating the incident did not cause radioactive contamination.
+
+---
+
+### 2026-06-08 01:43:16  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+IAEA: Drone strike near the Chernobyl nuclear power plant severely damaged part of the fuel-receiving building's structure.
+
+---
+
+### 2026-06-08 01:42:12  #MKT News
+
+IAEA said a team is assessing the impact of an early-morning drone strike on the Central Spent Fuel Storage Facility near the Chernobyl nuclear power plant.
+
+---
+
+### 2026-06-08 01:42:11  #其他
+
+國際原子能機構：調查小組確認切爾諾貝利設施輻射水平仍保持正常，表明這起事件未造成任何放射性汙染。
+
+---
+
+### 2026-06-08 01:42:09  #其他
+
+國際原子能機構：切爾諾貝利廠區附近遭無人機襲擊，燃料接收樓部分結構嚴重受損。
+
+---
+
+### 2026-06-08 01:41:08  #國際
+
+美國國家颶風中心（NHC）表示，墨西哥南部部分地區預計將遭遇暴雨及洪澇災害。
+
+---
+
+### 2026-06-08 01:41:03  #其他
+
+國際原子能機構（IAEA）：機構一支團隊已對今早無人機襲擊給切爾諾貝利場址附近的中央乏燃料儲存設施造成的影響展開核查。
+
+---
+
+### 2026-06-08 01:38:40  #國際
+
+【英媒稱美考慮收購查戈斯群島】據英國《每日電訊報》當地時間6月7日報道，美國政府正考慮一項計劃，旨在繞過英國，從模里西斯手中收購查戈斯群島，從而獲取該群島主島迪戈加西亞島的控制權。查戈斯群島位於模里西斯東北方向約750公里的印度洋西南海域，1965年被割讓給英國殖民當局。英國次年把迪戈加西亞島租給美國建空軍基地。2025年5月22日，英國與模里西斯簽署協議，查戈斯群島主權被正式移交給模里西斯。根據協議，迪戈加西亞軍事基地將由模里西斯租借給英國和美國。但美國總統特朗普多次批評英國政府把查戈斯群島主權交還給模里西斯，稱其“愚蠢至極”，犯下“重大錯誤”。 迪戈加西亞軍事基地是美軍戰略轟炸機執行遠端打擊的“前哨站”，在海灣戰爭、伊拉克戰爭和阿富汗戰爭中均被投入使用。（CCTV國際時訊）
+
+---
+
+### 2026-06-08 01:38:14  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Israel says it struck Hezbollah command centre in southern Beirut suburb】The Israel Defense Forces said on the 7th it carried out a precision strike on a Hezbollah command centre in the Dahiyeh district south of Beirut, responding to rockets fired at Israel earlier that day. The IDF said the facility was used to plan attacks on Israeli civilians and Israeli forces operating in Lebanon.
+
+---
+
+### 2026-06-08 01:33:28  #MKT News
+
+Iran's deputy foreign minister said Iran's assets are neither spoils for Washington nor a compensation fund for its allies.
+
+---
+
+### 2026-06-08 01:33:27  #MKT News
+
+Responding to reports that the US would use Iranian assets to pay war reparations to regional allies, Iran's deputy foreign minister Gharibabadi said regional governments are not entitled to claim compensation.
+
+---
+
+### 2026-06-08 01:33:22  #國際
+
+伊朗副外交部長：伊朗資產既不是華盛頓的戰利品，也不是供其盟友支取的資金。
+
+---
+
+### 2026-06-08 01:33:15  #國際
+
+伊朗副外長加里巴迪就媒體報道美國挪用伊朗資產向地區盟友支付戰爭損害賠償金一事表態：地區國家政府無權索要賠償。
+
+---
+
+### 2026-06-08 01:33:03  #焦點 #國際
+
+【伊朗為船隻通行費定價 每艘150萬至200萬美元】伊朗媒體稱，每艘船隻通行霍爾木茲海峽，伊朗可收取150萬至200萬美元費用。伊朗議會規劃與預算委員會一名議員稱，該資料為海峽通行船隻的收費標準。
 
 ---
 
@@ -22552,143 +22780,5 @@ Romania Q1 GDP Growth Falls to 2020 Lows — Romania’s economy declined 1.2% y
 ### 2026-06-05 14:37:08  #MKT News
 
 Reserve Bank of India governor said he will remain vigilant if inflation becomes broad-based.
-
----
-
-### 2026-06-05 14:37:03  #央行 #國際
-
-印度央行行長馬爾霍特拉：若通脹出現普遍化趨勢，我們將保持警惕。
-
----
-
-### 2026-06-05 14:36:29  #MKT News
-
-Reserve Bank of India governor said the inf target should be met over time and it is not advisable to take action on every deviation.
-
----
-
-### 2026-06-05 14:35:53  #宏觀
-
-【財政部印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》】為進一步加強中央專項彩票公益金支援地方社會公益事業發展資金管理，提高資金使用效益，根據財政預算管理規定和彩票管理制度要求，結合相關管理實踐，財政部修訂完善並印發《中央專項彩票公益金支援地方社會公益事業發展資金管理辦法》。
-
----
-
-### 2026-06-05 14:35:22  #MKT News #Macro & Rates
-
-RBI governor says inflation target has not been shelved.
-
----
-
-### 2026-06-05 14:35:12  #MKT News
-
-Reserve Bank of India governor said he expects inflows from external commercial borrowings and other measures to remain healthy.
-
----
-
-### 2026-06-05 14:35:11  #MKT News #Important #Market Regions #Greater China
-
-A-share Zhongji Xuchuang recorded turnover of 50 bln yuan; shares trading down 7.89%.
-
----
-
-### 2026-06-05 14:35:07  #其他
-
-【6月5日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，6月5日“農產品批發價格200指數”為113.50，比昨天上升0.03個點，“菜籃子”產品批發價格指數為113.59，比昨天上升0.04個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.73元/公斤，與昨天持平；牛肉66.76元/公斤，比昨天上升0.4%；羊肉64.23元/公斤，比昨天上升1.0%；雞蛋10.56元/公斤，比昨天上升0.8%；白條雞17.32元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.28元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.56元/公斤，比昨天下降0.3%。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.93元/公斤，比昨天上升0.5%；白鰱魚10.49元/公斤，比昨天上升0.4%；大帶魚40.63元/公斤，比昨天上升0.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、芹菜、蓮藕、菠菜和冬瓜，幅度分別為4.1%、2.1%、1.9%、1.6%和1.5%；價格降幅前五名的是西紅柿、黃瓜、西葫蘆、花鰱魚和蔥頭，幅度分別為2.4%、2.4%、2.3%、1.9%和1.7%。
-
----
-
-### 2026-06-05 14:35:05  #MKT News #Important #EURUSD #Impact mixed
-
-France's April trade balance and industrial production (MoM) due in 10 minutes.
-
----
-
-### 2026-06-05 14:34:37  #MKT News
-
-Reserve Bank of India governor says cash reserve ratio (CRR) and statutory liquidity ratio (SLR) requirements will be waived for foreign-currency non-resident term deposits.
-
----
-
-### 2026-06-05 14:34:34  #公司 #其他 #焦點 #A股
-
-【中際旭創成交額達500億元】中際旭創成交額達500億元，現跌7.89%。
-
----
-
-### 2026-06-05 14:34:00  #MKT News #CSI300 #Impact bearish
-
-CSI 300 index futures (IF) main contract fell as much as 2.00% intraday, trading at 4,773.0 points.
-
----
-
-### 2026-06-05 14:33:28  #央行 #國際
-
-印度央行行長馬爾霍特拉：預計歐洲央行及其他措施將帶來充裕資金流入。
-
----
-
-### 2026-06-05 14:33:24  #公司
-
-【百度登記百度一鏡logo作品著作權】天眼查智慧財產權資訊顯示，近日，北京百度網訊科技有限公司登記“百度一鏡logo”作品著作權，作品類別為美術，此前，百度線上網路技術（北京）有限公司已申請註冊多枚“百度一鏡”商標，國際分類包括科學儀器、社會服務等，當前商標狀態均為等待實質審查。 北京百度網訊科技有限公司成立於2001年6月，法定代表人為梁志祥，註冊資本約134.2億人民幣，經營範圍包括計算機軟硬體及輔助裝置零售、計算機軟硬體及輔助裝置批發、軟體開發等，由李彥宏、崔珊珊共同持股。 公開資料顯示，百度一鏡是百度推出的全場景數字人平臺，前身為“慧播星”，於近期在百度Create大會上完成品牌戰略升級，並同步釋出百度一鏡海外版。
-
----
-
-### 2026-06-05 14:33:22  #MKT News
-
-Reserve Bank of India governor says details of foreign-exchange measures will be released shortly.
-
----
-
-### 2026-06-05 14:33:10  #央行 #國際
-
-印度央行行長馬爾霍特拉：將免徵外幣非居民定期存款的現金準備金率與法定流動性比率要求。
-
----
-
-### 2026-06-05 14:32:43  #MKT News #Market Themes #AI Revolution
-
-【Optical-fiber prices surge as high‑purity quartz sand tightens on AI demand】AI compute infrastructure demand has triggered a new round of optical‑fiber price increases, lifting prices for high‑purity quartz sand used in fiber production. High‑end 6N‑grade and above quartz sand is particularly tight, with mainstream market quotes for fiber‑use high‑purity sand at 48,000–55,000 yuan/ton. High‑purity quartz sand is used across preform manufacture and fiber drawing and in fiber‑grade quartz tubes and furnace components. The demand boost mainly benefits firms with 6N‑level production capability; downstream processing adheres to market pricing and remains sensitive to cost, supply and broader market conditions. Domestic self‑sufficiency for 6N+ material is low, keeping near‑term supply tight.
-
----
-
-### 2026-06-05 14:31:51  #其他
-
-【恒生電子釋出6.0 AI生態架構】6月5日，在2026恒生證券行業合作伙伴峰會上，恒生電子總裁範徑武正式釋出了恒生面向AI時代的LIGHT 6.0技術架構——AI生態架構。目前，證券行業已全面邁入數智化階段。據瞭解，6.0 AI生態架構以“四層遞進、開放共建”為核心理念，構建了從基礎設施到核心業務系統的完整技術體系。
-
----
-
-### 2026-06-05 14:31:38  #市場 #焦點 #國際
-
-【日韓股市收低】日經225指數收跌1.31%，報66588.12點；韓國KOSPI指數收跌5.54%，報8160.59點。
-
----
-
-### 2026-06-05 14:31:27  #焦點 #國際
-
-【阿曼石油開發公司稱其重要石油出口港運營正常】當地時間5日上午，阿曼石油開發公司釋出通告稱，位於首都馬斯喀特的法赫勒港“運營正常”。當天早些時候，有訊息稱法赫勒港發生爆炸，導致石油裝載作業暫停。但截至目前，阿曼官方尚未證實相關訊息。法赫勒港是阿曼最重要的石油出口港口之一。阿曼石油開發公司總部以及多家重要煉油設施均設於這裡。（央視新聞）
-
----
-
-### 2026-06-05 14:30:58  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 closed down 882.57 points on Friday, June 5, a 1.31% decline, at 66,588.12.
-
----
-
-### 2026-06-05 14:30:47  #公司
-
-【潤澤科技據悉尋求200港元貸款用於香港資料中心專案】據知情人士透露，潤澤智算科技集團股份有限公司正尋求約200億港元（26億美元）貸款，用於建設中國香港最大的計算機設施。知情人士說，潤澤科技正與多家銀行就一筆一年貸款進行初步洽談，可能採取銀團貸款或多筆雙邊融資的形式，以支援其位於香港北部新界的資料中心專案開發。他們補充說，與貸款方的洽談尚處於初步階段，可能會有所變化。
-
----
-
-### 2026-06-05 14:30:12  #MKT News #Important #Market Themes #Chip Wars #SZSE Component #Impact bearish
-
-China's STAR 50 Index fell more than 4% at the close, led by chip supply-chain names including Daquan Energy, Baiwei Storage, Shengyi Electronics, Montage Technology and Xinyuan Technology.
-
----
-
-### 2026-06-05 14:30:00  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 1.36% Lower — The Nikkei 225 Index dropped 919 points or 1.36 percent on Friday to close at 66552 points. Losses were led by Sumco (-8.18%), Tokyo Electron (-6.80%) and Renesas Electron (-6.51%).
 
 ---
