@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:53:21_
-_本檔包含 3992 則快訊，約 707935 字_
+_更新時間：2026-06-08 05:39:25_
+_本檔包含 3981 則快訊，約 707844 字_
+
+---
+
+### 2026-06-04 11:28:28  #公司
+
+臺積電執行長表示：臺積電當前耗電量約佔臺灣地區總發電量的10%，且該佔比可能會繼續上升，我們將持續推進節能減碳工作。
+
+---
+
+### 2026-06-04 11:27:35  #市場 #國際
+
+泰國基準股指上漲0.9%，報1602.53點，創下2023年4月17日以來的最高點位。
+
+---
+
+### 2026-06-04 11:25:04  #公司
+
+臺積電執行長表示，在資料洩露事件後，臺積電不會切斷與東京電子的合作關係。
+
+---
+
+### 2026-06-04 11:24:46  #公司
+
+【潤邦股份：GENMA獲9臺門座機訂單】據潤邦股份訊息，近日，GENMA獲得國內知名船廠9臺單臂架門座機訂單，該批裝置將由子公司潤邦重機生產製造。
+
+---
+
+### 2026-06-04 11:24:01  #MKT News #TSM.N #Impact bullish #8035.T
+
+TSMC (TSM.N) CEO said Tokyo Electron remains a highly reliable supplier.
+
+---
+
+### 2026-06-04 11:23:27  #公司
+
+【雙傑電氣在江蘇成立電氣新公司】企查查APP顯示，近日，江蘇坤為電氣有限公司成立，法定代表人為蔣忠金，註冊資本為2000萬元，經營範圍包含：變壓器、整流器和電感器製造；電力行業高效節能技術研發；輸變配電監測控制裝置銷售等。企查查股權穿透顯示，該公司由雙傑電氣旗下無錫市電力變壓器有限公司全資持股。
+
+---
+
+### 2026-06-04 11:23:19  #市場
+
+高市早苗：市場正密切關注國債發行量。
+
+---
+
+### 2026-06-04 11:23:01  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish #Nasdaq100
+
+TSMC (TSM.N) CEO said the company is not afraid of competition, regardless of its source.
+
+---
+
+### 2026-06-04 11:22:40  #公司
+
+【贛鋒鋰業持股公司成立星擎智體科技公司】企查查APP顯示，近日，深圳星擎智體科技有限公司成立，法定代表人為石磊，註冊資本為1億元，經營範圍包含：智慧機器人的研發；智慧控制系統整合；人工智慧應用軟體開發；人工智慧基礎軟體開發；工業機器人制造等。企查查股權穿透顯示，該公司由贛鋒鋰業持股的深圳易儲數智慧源集團有限公司全資持股。
+
+---
+
+### 2026-06-04 11:22:13  #公司
+
+臺積電執行長：我們不懼競爭，無論競爭來自何方。
+
+---
+
+### 2026-06-04 11:21:35  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Trades at 10-Week Low — Platinum futures held around $1,880 an ounce, staying near a ten-week low, pressured by broader weakness across precious metals amid growing expectations that central banks may need to raise rates to curb inflation risks from Middle East tensions. Renewed fighting in the region and attacks near the crucial Strait of Hormuz have strained a fragile ceasefire and dimmed hopes for a diplomatic resolution in the war. The prolonged conflict has also kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026 as output in major suppliers South Africa and Russia remained constrained by aging mines, high operating costs, and sanctions-related challenges. Automotive demand also remains broadly resilient, supported by hybrid vehicle growth and tighter emissions standards.
+
+---
+
+### 2026-06-04 11:21:21  #其他
+
+【中國信通院：即將召開研討會 啟動高質量Token服務能力攀登計劃】為深入貫徹落實國家關於推動人工智慧高質量發展的戰略部署，推動產業加快高質量Token服務能力建設，中國資訊通訊研究院人工智慧研究所、人工智慧大模型與軟硬體評測工業和資訊化部重點實驗室、中國人工智慧產業發展聯盟（AIIA）模型服務（MaaS）工作組將於6月16日在北京聯合召開“高質量Token服務研討會”。論壇將成立“高質量Token服務特別研究組”，並啟動“高質量Token服務能力攀登計劃”，從組織機制、能力提升方面系統佈局，凝聚行業力量共同推動Token服務服務高質量發展，為Token服務產業規範化發展提供堅實底座。
+
+---
+
+### 2026-06-04 11:20:50  #公司
+
+臺積電執行長：東京電子仍是我們非常優質的供應商。
+
+---
+
+### 2026-06-04 11:20:43  #國際
+
+【“他們倆我都喜歡”：特朗普提議萬斯和魯比奧聯合競選總統】據德國《世界報》網站6月3日報道，美國總統特朗普提議副總統萬斯和國務卿魯比奧作為搭檔參加2028年總統選舉。特朗普在《紐約郵報》的一檔播客節目中說：“他們倆我都喜歡。我喜歡他們一起參選。”他還說：“如果他們一起競選，我不知道別人怎麼才能擊敗他們。” 特朗普說：“他們倆都很有才幹。我喜歡他們倆搭檔。那會是支了不起的隊伍。” 特朗普接著說，兩人還得就聯合參選達成一致，不過“他們的關係確實非常融洽”。他沒有說明在這種情況下兩人中誰應競選總統，誰應競選副總統。 （參考訊息）
+
+---
+
+### 2026-06-04 11:18:50  #公司 #國際
+
+【黃仁勳訪韓期間據悉將與Krafton高管會面】業內人士週四透露，英偉達執行長黃仁勳本週到訪首爾期間，計劃會晤韓國遊戲開發商Krafton管理層。訊息稱，黃仁勳將同 Krafton執行董事Chang Byung-gyu及其他高管會面，具體會面日期尚未敲定。雙方或將圍繞英偉達面向高階 Windows 筆記本打造的 RTX Spark 晶片、實體人工智慧業務，洽談遊戲領域合作事宜。
+
+---
+
+### 2026-06-04 11:18:18  #MKT News
+
+【Zhongwen Online: AI short-form dramas become top token consumption use case】Zhongwen Online said in an institutional briefing that within China AI short-form dramas and video generation now account for 55% of token consumption. E‑commerce and marketing (including live-commerce and ad marketing) account for 24%, while software development — despite expectations from the Vibe Coding trend and gains in programming capability from models like Claude — represents only 15%. Token use for AI short dramas/video is more than double that of software development, making it the single largest driver in the token economy.
+
+---
+
+### 2026-06-04 11:18:14  #其他
+
+【中文線上：AI短劇成為第一大Token消耗場景】中文線上披露的資料顯示，AI短劇已成為第一大Token消耗場景。中文線上在機構交流中稱：“在國內所有Token消耗份額中， AI短劇與影片生成高居首位，佔比達55%；其次是電商與營銷(如直播帶貨、廣告營銷等)，佔比24%；而此前因Vibe Coding(氛圍程式設計)流行而被寄予厚望的軟體開發領域，在Claude等程式設計能力的推進下也僅佔 15%。 AI短劇與影片生成的Token消耗量已達到軟體開發的兩倍以上， 成為整個Token經濟學中絕對的第一大核心消耗場景。”
+
+---
+
+### 2026-06-04 11:16:40  #公司
+
+【軟銀中國投資公司再度經營異常】天眼查經營風險資訊顯示，近期，軟銀（中國）投資有限公司因透過登記的住所或者經營場所無法聯絡，被深圳市市場監督管理局南山監管局列入經營異常名錄。值得一提的是，此前，該公司因透過登記的住所或者經營場所無法聯絡，被列為經營異常。 該公司成立於2020年7月，法定代表人為吳友耿，註冊資本10億人民幣，經營範圍包括投資興辦實業、創業投資業務、投資諮詢、經濟資訊諮詢等，由軟銀投資機構株式會社全資持股。
 
 ---
 
@@ -23864,179 +23972,5 @@ China RatingDog Composite PMI Rises to 3-Month High — The RatingDog China Gene
 ### 2026-06-03 09:47:08  #公司
 
 【博泰車聯擬收購光電晶片企業控股權】據博泰車聯訊息，6月2日，博泰車聯公告披露本公司與平安資本有限責任公司或其管理的基金，就擬收購一家專業從事高效能通訊晶片研發的積體電路設計企業之控股權及控制權，已於同日簽署股份收購意向備忘錄。目標公司為一間於中國註冊成立的股份有限公司，為一家專業從事高效能通訊晶片開發之積體電路設計企業，採用Fabless經營模式，主要從事高速光電晶片、高效能模擬晶片等及模組之研發、設計及銷售。
-
----
-
-### 2026-06-03 09:47:04  #市場 #焦點
-
-科創50日內漲幅達2.07%，成分股中，盛科通訊漲7.51%，瀾起科技漲7.21%，滬矽產業漲5.67%，翱捷科技漲5.58%。
-
----
-
-### 2026-06-03 09:47:03  #MKT News
-
-China's CSI 500 index futures (IC) main contract rose more than 1.0% intraday, trading at 8,356.0.
-
----
-
-### 2026-06-03 09:46:53  #MKT News #Important #SZSE Component #Impact bullish #SSE Composite
-
-Shenzhen Composite Index up 1% intraday; ChiNext index gains widen to 1.53%; China's Shanghai Composite Index has turned positive, now up 0.15%.
-
----
-
-### 2026-06-03 09:46:47  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Russia's First Deputy Prime Minister Manturov said the special military operation has made drones an independent strike force capable of executing a wide range of tactical tasks.
-
----
-
-### 2026-06-03 09:46:24  #MKT News
-
-Russia's first deputy prime minister Manturov said Russia now produces 15,000 FPV drones per day; in 2023 producing that number took a full month.
-
----
-
-### 2026-06-03 09:46:22  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index extends losses to 1.0%; Hang Seng Tech Index down 1.61%.
-
----
-
-### 2026-06-03 09:46:14  #市場 #焦點
-
-深證成指漲1.00%，現報15747.640點；上證指數漲0.11%，現報4079.749點；創業板指漲1.46%，現報4114.924點。
-
----
-
-### 2026-06-03 09:46:04  #市場 #焦點
-
-恒生指數跌超1%，現報25777.410點；恒生科技指數現跌1.605%。
-
----
-
-### 2026-06-03 09:46:03  #公司 #市場
-
-【光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停】光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停，金信諾漲超12%，源傑科技、長飛光纖漲近10%。
-
----
-
-### 2026-06-03 09:45:59  #公司 #市場
-
-【人形機器人概念表現活躍 浙江榮泰逼近漲停】人形機器人概念表現活躍，浙江榮泰逼近漲停，奧比中光、綠的諧波、德馬科技、五洲新春、晉拓股份跟漲。
-
----
-
-### 2026-06-03 09:45:54  #公司 #市場
-
-【液冷伺服器概念反覆活躍 祥鑫科技等多股漲停】液冷伺服器概念反覆活躍，祥鑫科技、金田股份、華源控股漲停，依米康、冰輪環境、騰龍股份、博傑股份跟漲。
-
----
-
-### 2026-06-03 09:45:34  #資料
-
-中國5月RatingDog綜合PMI 54，前值53.1。
-
----
-
-### 2026-06-03 09:45:34  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
-
-China May RatingDog composite PMI 54.0, previous 53.1.
-
----
-
-### 2026-06-03 09:45:27  #MKT News #Economic Calendar #Important
-
-China | S&P Global/Ratingdog China General Composite PMI (May) | actual 54 | previous 53.1
-
----
-
-### 2026-06-03 09:45:06  #資料
-
-中國5月RatingDog服務業PMI 54.4，前值52.6。
-
----
-
-### 2026-06-03 09:45:06  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
-
-China May RatingDog services PMI 54.4, prior 52.6.
-
----
-
-### 2026-06-03 09:45:03  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-HSBC Holdings Stock Price Hits 18-1/2-year High — HSBC Holdings shares increased to 148.00 HKD, the highest since November 2007. Over the past 4 weeks, HSBC Holdings gained 2.65%, and in the last 12 months, it increased 59.74%.
-
----
-
-### 2026-06-03 09:45:00  #MKT News #Economic Calendar #Important
-
-China | S&P Global/Ratingdog China General Services PMI (May) | actual 54.4 | previous 52.6
-
----
-
-### 2026-06-03 09:44:05  #公司
-
-【新疆天雲低空經濟發展公司註冊成立】企查查APP顯示，近日，新疆天雲低空經濟發展有限責任公司成立，註冊資本1億元，經營範圍包含：航空運營支援服務；智慧無人飛行器製造；智慧無人飛行器銷售；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由新疆機場（集團）有限責任公司全資持股。
-
----
-
-### 2026-06-03 09:43:50  #MKT News
-
-China A-share lab-grown diamond sector surged; Chujiang New Materials hit the daily limit, Huifeng Diamond climbed over 14%. Guoji Jinggong, Liliang Diamond, Hengsheng Energy, Boyun New Materials and Sifangda also rallied.
-
----
-
-### 2026-06-03 09:43:49  #公司
-
-【中國石油天然氣集團等成立昆擎燃氣輪機技術公司】企查查APP顯示，近日，上海昆擎燃氣輪機技術有限公司成立，經營範圍包含：汽輪機及輔機銷售；特種裝置銷售；新能源原動裝置銷售；民用航空材料銷售等。企查查股權穿透顯示，該公司由中國石油天然氣集團有限公司全資子公司中國石油集團崑崙製造有限公司等共同持股。
-
----
-
-### 2026-06-03 09:43:46  #市場
-
-【培育鑽石板塊衝高，楚江新材漲停】培育鑽石板塊衝高，楚江新材漲停，惠豐鑽石漲超14%，國機精工、力量鑽石、恆盛能源、博雲新材、四方達跟漲。
-
----
-
-### 2026-06-03 09:43:24  #觀點
-
-【高盛：維持A股超配評級，H股評級下調至平配】高盛稱，將H股評級下調至平配，因保持超配的“機會成本”在上升，將MSCI中國指數目標點位從95點下調至85點。對A股維持超配評級，因增長前景改善、流動性條件充裕、多元化優勢，以及對AI硬科技領域的暴露；年內第二次上調滬深300指數12個月目標價，從5,300點上調至5,500點。高盛稱，AI仍是“顛覆者”，中國是全球AI宇宙不可分割的一部分，而目前國際投資者對其AI股明顯配置不足。
-
----
-
-### 2026-06-03 09:42:16  #Trading Economics #Economy #Australia #GDP Growth Rate #Importance 3
-
-Australia Q1 GDP Growth Softer Than Expected — The Australian economy expanded 0.3% quarter-on-quarter in Q1 2026, below the expected 0.5% growth, and easing from a 0.9% expansion in Q4. This marked the softest economic growth in a year. Grace Kim, ABS head of National Accounts, noted the slower growth came with modest household and public sector expenditure as well as cyclone disruptions to mining and export activities.
-
----
-
-### 2026-06-03 09:41:26  #其他
-
-【極佳視界與隆盛科技旗下隆盛唯睿達成深度戰略合作】近日，極佳視界與隆盛科技旗下隆盛唯睿正式達成深度戰略合作，合作方向圍繞模型合作、場景化的快速落地、本體聯合最佳化代工以及具身智慧產業推廣來展開。隆盛唯睿將依託於自有的省級平臺，透過超長時數採支撐的大模型高標準場景落地，積極推進與極佳視界在具身本體的深度協同，計劃在三年內實現本體代工和銷售1000臺的目標。
-
----
-
-### 2026-06-03 09:40:38  #其他
-
-【速騰聚創：數字化鐳射雷達再獲一汽豐田量產車型定點 訂單規模超50萬臺】速騰聚創(02498.HK)宣佈，旗下數字化鐳射雷達再獲一汽豐田全新前裝量產車型定點，訂單規模超50萬臺。這是繼2025年底先後獲得一汽豐田旗下知名暢銷車型及某純電車型累計超百萬臺訂單後的又一重要合作。
-
----
-
-### 2026-06-03 09:40:38  #MKT News #Market Regions #Greater China #02498.HK #Impact bullish
-
-【RoboSense (02498.HK) wins >500,000-unit FAW‑Toyota order for digital LiDAR】RoboSense (02498.HK) said its digital automotive LiDAR has been selected as a factory‑fit sensor for a new FAW‑Toyota production model, with orders exceeding 500,000 units. The deal follows earlier FAW‑Toyota orders—cumulative volumes of more than 1 million units across a popular ICE model and an electric model secured by end‑2025.
-
----
-
-### 2026-06-03 09:40:33  #公司 #市場
-
-銅纜高速連線概念大幅走強，金田股份、鑫科材料雙雙漲停，金信諾漲超15%，顯盈科技、華工科技、神宇股份、中天科技漲超5%。
-
----
-
-### 2026-06-03 09:39:41  #公司 #市場
-
-【元件板塊短線拉昇】元件板塊短線拉昇，一博科技漲停， 迅捷興、晶賽科技漲超10%，達利凱普、麥捷科技、勝宏科技、中富電路、科翔股份等跟漲。
 
 ---

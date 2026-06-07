@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:53:21_
-_本檔包含 3813 則快訊，約 707996 字_
+_更新時間：2026-06-08 05:39:25_
+_本檔包含 3806 則快訊，約 708195 字_
+
+---
+
+### 2026-06-05 15:06:44  #央行 #國際
+
+印度央行行長馬爾霍特拉：將採取一切必要措施，確保印度盧比擁有良好的資金流動，維持其匯率有序波動。
+
+---
+
+### 2026-06-05 15:06:15  #公司 #市場 #觀點 #國際
+
+【高盛策略師：美國信貸市場潛藏的利差風險令人擔憂】高盛集團表示，養老基金和保險公司強勁的需求將支撐公司債券，使其免受宏觀經濟逆風和創紀錄發行量的影響。“儘管實際情況無疑變得更加嚴峻，但利差卻收窄至戰前水平，”高盛首席信貸策略師Amanda Lynam在彭博行業研究Credit Edge播客表示。“這就是信貸市場目前令人不安的緊張局面。”除了伊朗戰爭導致的燃料和其他投入成本上漲之外，美國企業還面臨著高通脹、債務融資成本上升、消費者壓力和美國經濟增長放緩風險等。與此同時，投資級債券的供應量預計今年將創歷史峰值。高盛估計，養老基金和保險公司持有超過6.4萬億美元的美元企業信用債，約佔市場的40%。Lynam表示，企業養老金的資金充足程度已達到2007年以來的最高水平，並可能增加對高質量信用債的持倉。此外，她還指出，保險公司對固定收益資產的配置比例比2010年水平低10個百分點，這意味著它們仍有增持空間。
+
+---
+
+### 2026-06-05 15:06:06  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+【China A-shares close lower; Shanghai Composite down 0.74% after afternoon selloff; humanoid-robot names spiked】China A-shares opened lower, briefly rallied in the morning then slid in the afternoon. Shanghai Composite erased earlier gains and closed down 0.74% after falling as much as over 1% late in the session. Shenzhen Composite Index fell 2.21%; ChiNext Index declined 3.2%. Turnover on Shanghai and Shenzhen exceeded CNY3.0 trillion. Nearly 3,000 stocks fell. Sector moves: power stocks extended afternoon declines; memory chips and lab-grown diamonds led losses; optical/optoelectronics outperformed; humanoid-robot names spiked in the afternoon; gaming stocks were active; new metallic materials were strong all day.
+
+---
+
+### 2026-06-05 15:05:54  #Trading Economics #Economy #France #Industrial Production Mom #Importance 1
+
+France Industrial Output Eases in April — Industrial production in France edged up by 0.1% month-on-month in April 2026, defying market expectations of a 0.2% fall but slowing from an upwardly revised 1.4% rise in the previous month. Manufacturing output eased to 0.4% from 1.3% in March, as production of agri-food products stalled after a 1.1% rise, while output for electrical, electronic and computer equipment, and machinery fell to 0.4% from a 1.2% gain, and growth in other industrial products slowed to 0.1% from 1.1%. In contrast, stronger gains were recorded in the manufacturing of coke and refined petroleum products (6.6% vs 6.5%) and transport equipment (3.3% vs 2.2%). Overall industrial activity was also weighed down by a decline in extractive industries, energy and water (-0.9% vs 1.6%), particularly electricity, gas, steam and air-conditioning supply (-1.1% vs 1.8%). On a yearly basis, industrial production accelerated to 2.8% from an upwardly revised 1.3% in March.
+
+---
+
+### 2026-06-05 15:05:52  #Trading Economics #Economy #France #Current Account #Importance 1
+
+France Current Account Deficit Narrows in April — France's current account deficit narrowed to EUR 0.2 billion in April 2026 from EUR 0.9 billion in the previous month. The improvement was driven by a smaller goods trade deficit, which eased to EUR 3.9 billion from EUR 4.1 billion in March, and a larger services surplus, which increased to EUR 4.5 billion from EUR 3.9 billion. Within goods trade, the surplus excluding energy widened to EUR 0.6 billion from a balanced position in March, although the energy deficit increased to EUR 4.5 billion from EUR 4.2 billion. Meanwhile, the income deficit edged up to EUR 0.8 billion from EUR 0.7 billion. On a 12-month basis, France's current account deficit widened to EUR 6.6 billion from EUR 2.6 billion a year earlier.
+
+---
+
+### 2026-06-05 15:05:42  #市場
+
+土耳其基準BIST-100指數<.XU100>在通脹資料公佈後下跌0.6%。
+
+---
+
+### 2026-06-05 15:05:40  #市場
+
+土耳其銀行業主要指數<.XBANK>在通脹資料公佈後下跌2%。
+
+---
+
+### 2026-06-05 15:05:07  #公司
+
+【安徽安聯高速公路有限公司總經理張喆接受審查調查】據安徽紀檢監察網，安徽安聯高速公路有限公司黨委副書記、董事、總經理張喆涉嫌嚴重違紀違法，目前正接受安徽省交通控股集團有限公司紀委紀律審查；經安徽省監委指定管轄，接受銅陵市監委監察調查。
+
+---
+
+### 2026-06-05 15:05:06  #市場 #國際
+
+【美元在美國就業資料公佈前小幅走低】美國非農就業資料即將公佈，以及對伊朗戰爭的不確定性依然高企之際，美元小幅下跌。德國商業銀行的Michael Pfister在一份報告中表示，在經歷了數月疲軟的就業增長之後，勞動力市場似乎正在企穩，週五的資料可能會超出預期，5月份就業人數將增加10萬。“對美元來說，關鍵因素是這些資料在多大程度上增強了市場對進一步上調利率的預期。“與此同時，美國總統特朗普表示，美國不需要與伊朗達成協議就能獲得該國的濃縮鈾，而真主黨拒絕了美國支援的以色列和黎巴嫩之間的停火協議。DXY美元指數下跌0.6%，至99.352，不過仍接近週三創下的近兩個月高點99.552。
+
+---
+
+### 2026-06-05 15:04:06  #其他
+
+聯電5月營收為229.4億新臺幣，前值為194.8億新臺幣。
+
+---
+
+### 2026-06-05 15:03:02  #公司
+
+【華為雲CEO周躍峰：在手機上問個問題就可以產生Token，但這樣的Token價值有多大？】6月5日下午訊息，在華為雲INSPIRE創想者大會期間，華為公司董事、華為雲CEO周躍峰與媒體對話。被問及如何看待今年阿里雲、火山引擎淡化雲基礎三大件收入、發力MaaS收入一事，周躍峰表示，在通算時代，對雲廠商來說，更多是資源帶來的收入；到了智算階段，已經進入Token經濟時代。但他強調，不能簡單用多少日活、多少Token來衡量Token所產生的價值。“我更願意去看我們有多少Token是面向ToB提升生產力。因為平時我閒著沒事，在手機上問一個問題，它也可以產生Token，但這樣的Token到底價值有多大？我覺得是很難說的。”他說，華為雲更看重每一個Token背後，能夠給生產力，給我們的生活水平真正帶來多大的價值。（新浪科技）
 
 ---
 
@@ -22853,113 +22919,5 @@ TSMC (TSM.N) CEO said the company currently consumes about 10% of Taiwan's elect
 ### 2026-06-04 11:29:36  #Trading Economics #Markets #Brazil #Currency #Importance 0
 
 Real Weakens as Trade and Geopolitical Risks Mount — The Brazilian real weakened to 5.06 per USD in early June as proposed US tariffs on Brazilian products and uncertainty surrounding US-Iran negotiations weighed on investor sentiment. US authorities said the proposed measures stem from findings that Brazil and other countries have not taken sufficient steps to prevent imports of goods produced with forced labor. The prospect of higher trade barriers increased caution toward Brazilian assets. Meanwhile, rising tensions in the Middle East supported oil prices and fueled broader risk aversion. Hostilities intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. The combination of geopolitical uncertainty and trade concerns boosted demand for the US dollar, pressuring emerging-market currencies, including the real.
-
----
-
-### 2026-06-04 11:28:28  #公司
-
-臺積電執行長表示：臺積電當前耗電量約佔臺灣地區總發電量的10%，且該佔比可能會繼續上升，我們將持續推進節能減碳工作。
-
----
-
-### 2026-06-04 11:27:35  #市場 #國際
-
-泰國基準股指上漲0.9%，報1602.53點，創下2023年4月17日以來的最高點位。
-
----
-
-### 2026-06-04 11:25:04  #公司
-
-臺積電執行長表示，在資料洩露事件後，臺積電不會切斷與東京電子的合作關係。
-
----
-
-### 2026-06-04 11:24:46  #公司
-
-【潤邦股份：GENMA獲9臺門座機訂單】據潤邦股份訊息，近日，GENMA獲得國內知名船廠9臺單臂架門座機訂單，該批裝置將由子公司潤邦重機生產製造。
-
----
-
-### 2026-06-04 11:24:01  #MKT News #TSM.N #Impact bullish #8035.T
-
-TSMC (TSM.N) CEO said Tokyo Electron remains a highly reliable supplier.
-
----
-
-### 2026-06-04 11:23:27  #公司
-
-【雙傑電氣在江蘇成立電氣新公司】企查查APP顯示，近日，江蘇坤為電氣有限公司成立，法定代表人為蔣忠金，註冊資本為2000萬元，經營範圍包含：變壓器、整流器和電感器製造；電力行業高效節能技術研發；輸變配電監測控制裝置銷售等。企查查股權穿透顯示，該公司由雙傑電氣旗下無錫市電力變壓器有限公司全資持股。
-
----
-
-### 2026-06-04 11:23:19  #市場
-
-高市早苗：市場正密切關注國債發行量。
-
----
-
-### 2026-06-04 11:23:01  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish #Nasdaq100
-
-TSMC (TSM.N) CEO said the company is not afraid of competition, regardless of its source.
-
----
-
-### 2026-06-04 11:22:40  #公司
-
-【贛鋒鋰業持股公司成立星擎智體科技公司】企查查APP顯示，近日，深圳星擎智體科技有限公司成立，法定代表人為石磊，註冊資本為1億元，經營範圍包含：智慧機器人的研發；智慧控制系統整合；人工智慧應用軟體開發；人工智慧基礎軟體開發；工業機器人制造等。企查查股權穿透顯示，該公司由贛鋒鋰業持股的深圳易儲數智慧源集團有限公司全資持股。
-
----
-
-### 2026-06-04 11:22:13  #公司
-
-臺積電執行長：我們不懼競爭，無論競爭來自何方。
-
----
-
-### 2026-06-04 11:21:35  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Trades at 10-Week Low — Platinum futures held around $1,880 an ounce, staying near a ten-week low, pressured by broader weakness across precious metals amid growing expectations that central banks may need to raise rates to curb inflation risks from Middle East tensions. Renewed fighting in the region and attacks near the crucial Strait of Hormuz have strained a fragile ceasefire and dimmed hopes for a diplomatic resolution in the war. The prolonged conflict has also kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026 as output in major suppliers South Africa and Russia remained constrained by aging mines, high operating costs, and sanctions-related challenges. Automotive demand also remains broadly resilient, supported by hybrid vehicle growth and tighter emissions standards.
-
----
-
-### 2026-06-04 11:21:21  #其他
-
-【中國信通院：即將召開研討會 啟動高質量Token服務能力攀登計劃】為深入貫徹落實國家關於推動人工智慧高質量發展的戰略部署，推動產業加快高質量Token服務能力建設，中國資訊通訊研究院人工智慧研究所、人工智慧大模型與軟硬體評測工業和資訊化部重點實驗室、中國人工智慧產業發展聯盟（AIIA）模型服務（MaaS）工作組將於6月16日在北京聯合召開“高質量Token服務研討會”。論壇將成立“高質量Token服務特別研究組”，並啟動“高質量Token服務能力攀登計劃”，從組織機制、能力提升方面系統佈局，凝聚行業力量共同推動Token服務服務高質量發展，為Token服務產業規範化發展提供堅實底座。
-
----
-
-### 2026-06-04 11:20:50  #公司
-
-臺積電執行長：東京電子仍是我們非常優質的供應商。
-
----
-
-### 2026-06-04 11:20:43  #國際
-
-【“他們倆我都喜歡”：特朗普提議萬斯和魯比奧聯合競選總統】據德國《世界報》網站6月3日報道，美國總統特朗普提議副總統萬斯和國務卿魯比奧作為搭檔參加2028年總統選舉。特朗普在《紐約郵報》的一檔播客節目中說：“他們倆我都喜歡。我喜歡他們一起參選。”他還說：“如果他們一起競選，我不知道別人怎麼才能擊敗他們。” 特朗普說：“他們倆都很有才幹。我喜歡他們倆搭檔。那會是支了不起的隊伍。” 特朗普接著說，兩人還得就聯合參選達成一致，不過“他們的關係確實非常融洽”。他沒有說明在這種情況下兩人中誰應競選總統，誰應競選副總統。 （參考訊息）
-
----
-
-### 2026-06-04 11:18:50  #公司 #國際
-
-【黃仁勳訪韓期間據悉將與Krafton高管會面】業內人士週四透露，英偉達執行長黃仁勳本週到訪首爾期間，計劃會晤韓國遊戲開發商Krafton管理層。訊息稱，黃仁勳將同 Krafton執行董事Chang Byung-gyu及其他高管會面，具體會面日期尚未敲定。雙方或將圍繞英偉達面向高階 Windows 筆記本打造的 RTX Spark 晶片、實體人工智慧業務，洽談遊戲領域合作事宜。
-
----
-
-### 2026-06-04 11:18:18  #MKT News
-
-【Zhongwen Online: AI short-form dramas become top token consumption use case】Zhongwen Online said in an institutional briefing that within China AI short-form dramas and video generation now account for 55% of token consumption. E‑commerce and marketing (including live-commerce and ad marketing) account for 24%, while software development — despite expectations from the Vibe Coding trend and gains in programming capability from models like Claude — represents only 15%. Token use for AI short dramas/video is more than double that of software development, making it the single largest driver in the token economy.
-
----
-
-### 2026-06-04 11:18:14  #其他
-
-【中文線上：AI短劇成為第一大Token消耗場景】中文線上披露的資料顯示，AI短劇已成為第一大Token消耗場景。中文線上在機構交流中稱：“在國內所有Token消耗份額中， AI短劇與影片生成高居首位，佔比達55%；其次是電商與營銷(如直播帶貨、廣告營銷等)，佔比24%；而此前因Vibe Coding(氛圍程式設計)流行而被寄予厚望的軟體開發領域，在Claude等程式設計能力的推進下也僅佔 15%。 AI短劇與影片生成的Token消耗量已達到軟體開發的兩倍以上， 成為整個Token經濟學中絕對的第一大核心消耗場景。”
-
----
-
-### 2026-06-04 11:16:40  #公司
-
-【軟銀中國投資公司再度經營異常】天眼查經營風險資訊顯示，近期，軟銀（中國）投資有限公司因透過登記的住所或者經營場所無法聯絡，被深圳市市場監督管理局南山監管局列入經營異常名錄。值得一提的是，此前，該公司因透過登記的住所或者經營場所無法聯絡，被列為經營異常。 該公司成立於2020年7月，法定代表人為吳友耿，註冊資本10億人民幣，經營範圍包括投資興辦實業、創業投資業務、投資諮詢、經濟資訊諮詢等，由軟銀投資機構株式會社全資持股。
 
 ---

@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:53:21_
-_本檔包含 3607 則快訊，約 707760 字_
+_更新時間：2026-06-08 05:39:25_
+_本檔包含 3625 則快訊，約 707966 字_
+
+---
+
+### 2026-06-02 08:08:27  #MKT News #Important
+
+South Korea's KOSPI slid, losses widening to 1.4%.
+
+---
+
+### 2026-06-02 08:08:07  #公司 #國際
+
+【知名空頭投資人安德魯・萊夫被判證券欺詐罪成立】空頭大佬安德魯・萊夫（Andrew Left ）於被判證券欺詐罪名成立，其作案手法為公開發布上市公司相關研判言論，私下卻進行與自身薦股、預判相悖的證券交易。陪審團裁定，其證券欺詐主罪名成立；16 項單項交易相關指控中，另有 12 項定罪、4 項無罪。判決在洛杉磯法庭當庭宣讀，萊夫聆聽一連串有罪宣判時，辯護律師手扶其後背。本次判決或將對華爾街行業產生深遠影響。
+
+---
+
+### 2026-06-02 08:07:54  #MKT News #Important
+
+South Korea's KOSPI index rapidly reversed into negative territory after earlier gains of more than 1.5%.
+
+---
+
+### 2026-06-02 08:06:50  #MKT News #Market Regions #Greater China
+
+Häagen‑Dazs' mainland China store operations will be licensed to an investor group that includes Ningji. The proposed transaction is expected to close in the 2026 calendar year, subject to required regulatory approvals and customary closing conditions. Financial terms were not disclosed.
+
+---
+
+### 2026-06-02 08:06:19  #其他
+
+【丹麥看守首相表示已組成新政府 】丹麥看守首相弗雷澤裡克森1日晚宣佈，她領導的社會民主黨與其他三黨已成功組成新政府。 弗雷澤裡克森對媒體說，她已向國王腓特烈十世報告組閣事項。此次組閣過程歷時69天，組閣談判“漫長而艱難”，新政府將由社會民主黨、社會主義人民黨、激進黨和溫和黨組成，四黨將於2日公佈政府施政綱領。 丹麥3月24日舉行議會選舉。社會民主黨繼續保持議會第一大黨地位，但支援率明顯下滑，其領導的中左聯盟“紅營”未能獲得過半數席位。此後，丹麥各政黨圍繞組建新政府展開多輪談判。
+
+---
+
+### 2026-06-02 08:05:48  #公司
+
+【哈根達斯中國內地門店業務將授權給包含檸季在內的投資集團】6月2日，通用磨坊對介面新聞宣佈，通用磨坊公司已與投資者集團達成最終協議，將其在中國內地的哈根達斯門店業務授權給包含檸季在內的投資者集團。茶飲連鎖檸季是目前擁有逾3000家茶飲門店。作為協議的一部分，受讓方將獲得通用磨坊的獨家許可，在中國內地的冰淇淋門店及禮品業務中獨家使用哈根達斯品牌。通用磨坊將繼續擁有並運營哈根達斯在中國的零售和餐飲業務。該擬議交易預計將於2026年日曆年內完成，交易生效須取得必要的監管批准並滿足其他慣例交割條件。交易的財務條款未予披露。（介面新聞）
+
+---
+
+### 2026-06-02 08:05:22  #MKT News
+
+BANK OF KOREA says inf is expected to remain around 3% for some time.
+
+---
+
+### 2026-06-02 08:05:15  #MKT News
+
+Business Insider reports US short seller Andrew Left was convicted of securities fraud.
+
+---
+
+### 2026-06-02 08:05:12  #國際
+
+【李寧與庫裡達成長期合作】6月2日，李寧品牌正式宣佈，與四屆總冠軍、兩屆常規賽最有價值球員、奧運金牌得主、美國籃球運動員斯蒂芬·庫裡（Stephen Curry）及庫裡品牌（Curry Brand）達成長期合作。雙方將以品牌共建為基礎，圍繞多品類專業運動裝備開發、體育文化推廣與新一代年輕運動群體連結，共同探索李寧品牌與庫裡品牌全球化發展的更多可能。
+
+---
+
+### 2026-06-02 08:04:22  #MKT News
+
+BANK OF KOREA expects June inflation to be unchanged from May.
+
+---
+
+### 2026-06-02 08:04:04  #MKT News #017670.KS #Impact bullish
+
+South Korea's SK Telecom shares surged 20%; Doosan Robotics shares rose 22%.
+
+---
+
+### 2026-06-02 08:03:47  #資料 #央行 #國際
+
+韓國央行預計CPI將在一段時間內維持在3%的水平。
+
+---
+
+### 2026-06-02 08:03:40  #市場
+
+SK電信股價上漲20.0%。
+
+---
+
+### 2026-06-02 08:03:31  #市場 #國際
+
+韓國斗山機器人股價上漲22%。
+
+---
+
+### 2026-06-02 08:03:18  #市場
+
+LG電子股價大漲15%。
+
+---
+
+### 2026-06-02 08:03:04  #公司
+
+三星電子股價漲幅超4%，創下歷史新高。
+
+---
+
+### 2026-06-02 08:02:48  #MKT News #005930.KS #Impact bullish #066570.KS
+
+South Korea's KOSPI rose 1.00% intraday; Samsung Electronics gained 4.7% and LG Electronics jumped 11%.
+
+---
+
+### 2026-06-02 08:02:36  #國際
+
+烏克蘭官方稱，基輔一棟多層居民樓受損，有人員被困廢墟之下。
+
+---
+
+### 2026-06-02 08:02:04  #市場
+
+LG電子股價下跌5.6%。
+
+---
+
+### 2026-06-02 08:02:03  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's TOPIX fell 1%.
+
+---
+
+### 2026-06-02 08:01:52  #市場 #國際
+
+日本東證股價指數（TOPIX）下跌1%。
+
+---
+
+### 2026-06-02 08:01:47  #市場 #國際
+
+韓國LG CNS股價上漲3.7%。
+
+---
+
+### 2026-06-02 08:01:30  #MKT News
+
+Wall Street Journal: An Edward Jones/Gallup poll finds more than half of U.S. adults are in 'financial conflict'. 16% report being financially confident; 32% report facing financial hardship.
+
+---
+
+### 2026-06-02 08:01:15  #MKT News #Market Regions #Japan & APAC
+
+South Korea's KOSPI opened 70.57 points higher, or 0.8%, at 8,858.95 on Tuesday, June 2.
+
+---
+
+### 2026-06-02 08:01:14  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 377.08 points (-0.56%) at 66,557.25 on Tuesday, June 2.
+
+---
+
+### 2026-06-02 08:01:10  #其他
+
+群聯電子攜手英特爾，助力英特爾 AI PC 平臺承載更大規模本地人工智慧運算任務。
+
+---
+
+### 2026-06-02 08:00:38  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.1%，至8883.19點。
+
+---
+
+### 2026-06-02 08:00:26  #市場
+
+【日韓股市開盤】日經225指數上午開盤報66629.60點，跌幅0.46％。韓國綜合股價指數（KOSPI）開盤上漲1.1％，至8883.19點。
+
+---
+
+### 2026-06-02 08:00:06  #市場 #焦點
+
+布倫特原油突破95美元/桶，日內跌0.09%。
+
+---
+
+### 2026-06-02 07:59:34  #國際
+
+基輔市長稱基輔部分地區已停電。
+
+---
+
+### 2026-06-02 07:59:23  #國際
+
+【中方敦促以色列立即從黎全面撤軍】當地時間6月1日下午，北京時間今天（6月2日）凌晨，聯合國安理會就黎以局勢舉行緊急會議。中國常駐聯合國代表傅聰大使在會上發言指出，黎以局勢急劇升級，以色列擴大對黎巴嫩的軍事行動，持續擴張所謂“安全區”，甚至越過利塔尼河，佔領博福特城堡。這是以軍20多年來對黎巴嫩最深入的一次軍事行動。以方還宣稱要進一步擴大地面行動，其背後意圖以及由此產生的嚴重後果令國際社會深感擔憂。黎以停火已經名存實亡，國際社會必須在局勢滑向更危險深淵前採取緊急行動。 傅聰大使呼籲，要立即實現停火止戰，平息緊張局勢；要加大對黎巴嫩的支援，穩定國內局勢；要保證聯黎部隊履職，維護地區穩定。
+
+---
+
+### 2026-06-02 07:58:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【China urges immediate Israeli withdrawal from Lebanon】Beijing, Jun 2 (Beijing time early hours) — At a UN Security Council emergency meeting on the Lebanon-Israel situation, China’s UN ambassador Fu Cong said the situation has sharply escalated: Israel has expanded military operations in Lebanon, widened a so‑called “security zone,” crossed the Litani River and occupied Beaufort Castle — its deepest incursion into Lebanon in more than 20 years. Fu said Israel has announced intentions to further expand ground operations and that the ceasefire is effectively dead, prompting serious international concern. China called for an immediate ceasefire and full Israeli withdrawal, increased support to Lebanon, and for UNIFIL to be enabled to carry out its mandate to preserve regional stability.
 
 ---
 
@@ -21721,89 +21913,5 @@ DRC government reports confirmed Ebola cases at 282.
 ### 2026-06-01 05:39:40  #其他
 
 智利聖地亞哥有震感。
-
----
-
-### 2026-06-01 05:37:43  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-UK Foreign Secretary Cooper said Israel’s military escalation in Lebanon has caused civilian casualties and displacement, destroyed infrastructure and constrained diplomatic space. He said Hezbollah must stop attacks on Israel and disarm, and all parties should respect a ceasefire and sincerely engage in negotiations.
-
----
-
-### 2026-06-01 05:36:43  #國際
-
-英國外交大臣庫珀：真主黨必須停止對以色列的襲擊並解除武裝，各方必須尊重停火，並且秉持誠意參與談判。
-
----
-
-### 2026-06-01 05:36:03  #焦點 #國際
-
-英國外交大臣庫珀：以色列在黎巴嫩的軍事升級行動已造成平民傷亡、迫使平民流離失所，破壞了基礎設施，並壓縮了外交斡旋空間。
-
----
-
-### 2026-06-01 05:36:03  #MKT News #TMHC.O #Impact bullish #BRK.B
-
-【Berkshire doubles down on homebuilders with about $8.5 billion Taylor Morrison deal】Berkshire Hathaway agreed to buy Taylor Morrison Home Corporation in an all-cash deal valuing the transaction at about $8.5 billion, paying $72.50 per share — implying an equity value of roughly $6.8 billion and a ~24% premium to Friday’s close of $58.50. Taylor Morrison, founded in 2013, builds residential homes and lifestyle communities across 12 U.S. states. Berkshire CEO Greg Abel said the deal expands Berkshire’s exposure to site-built homes and should allow gradual integration of operations; Berkshire’s prior homebuilding focus has centered on Clayton Homes, acquired in 2003.
-
----
-
-### 2026-06-01 05:33:49  #行業
-
-【A股6月將延續高位震盪 科技主線或內部聚焦】上週A股市場高位震盪，盤面呈現顯著的高低切換格局：前期領漲的AI主線出現資金獲利了結，而年初以來持續調整的白酒、地產等板塊修復回升。對此，券商策略展望報告認為，近期的市場分化是對前期極致結構化行情的消化，而非基本面趨勢逆轉。總的來看，高風險偏好資金的情緒演繹與倉位博弈已趨於充分，6月指數或延續高位盤整。風格演繹上，科技賽道的中期產業趨勢並未改變，後續科技主線或進一步向具備盈利兌現的方向聚焦，但不會出現成長向價值的全面切換。（上證報）
-
----
-
-### 2026-06-01 05:30:54  #其他
-
-【委內瑞拉東北部發生交通事故 致9人死亡】當地時間5月31日，委內瑞拉政府通報，該國東北部安索阿特吉州發生一起交通事故，造成9人死亡。
-
----
-
-### 2026-06-01 05:30:43  #其他 #焦點
-
-【國家統計局今日啟動入戶調查 請積極配合】國家統計局決定於2026年在全國範圍內開展兩次人口固定樣本跟訪調查。調查結果將用於加強人口變動統計，服務人口高質量發展。兩次調查的標準時點分別為6月1日零時和11月1日零時。6月1日至6月25日和11月16日至12月5日期間，調查員將入戶開展調查工作。當調查員到達您家進行調查時，真誠希望您能積極配合，認真履行《中華人民共和國統計法》關於公民真實、準確、完整、及時提供統計調查所需資料的義務，根據調查員的詢問如實申報跟訪物件及相關人員資訊。（央視新聞）
-
----
-
-### 2026-06-01 05:22:22  #公司
-
-【主流券商研報認為A股上市白酒企業本輪調整“築底”訊號顯現】2026年一季度，A股19家白酒上市公司整體營收和歸母淨利潤同比降幅分別為0.7%和1.8%，雖然整體仍處於負增長區間，但相較於2025年全年兩位數的下滑幅度，降幅已大幅收窄。在此背景下，多家主流券商陸續釋出了關於白酒行業的研究報告，認為白酒行業本輪調整的“底部訊號”正在顯現，讓“白酒是否到底”成為近期市場熱議的話題。
-
----
-
-### 2026-06-01 05:08:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US quietly guided about 70 merchant vessels through Strait of Hormuz over three weeks】CENTCOM guided roughly 70 merchant vessels through the Strait of Hormuz over the past three weeks as negotiations to end the Iran war remain stalled, US officials said. To avoid detection most ships operated with AIS transponders switched off. Officials declined to specify vessel types or exact routes but said at least one corridor was routed well away from the Iranian coast; maritime analysts say convoys favored routes nearer Oman. US officials warned vessels approaching Iran without permission are highly likely to be targeted by Iranian drones or missiles.
-
----
-
-### 2026-06-01 05:01:23  #其他
-
-【Polymarket開始要求部分交易者出示政府身份證件】由於在合規執行制裁規定、防範受限國家使用者登入平臺方面受到越來越多審查，預測交易平臺Polymarket開始要求部分交易者出示政府身份證件。這一舉措可能會流失一批核心加密貨幣交易者，他們原本正是被該平臺寬鬆的身份核驗規則所吸引。
-
----
-
-### 2026-06-01 04:57:40  #MKT News
-
-【India raises commercial LPG price】Indian Oil has raised the price of 19kg commercial LPG cylinders for industrial customers by INR42 (about $0.44) to INR3,113.50 per cylinder from INR3,071.50, according to its website. Other state fuel retailers typically mirror such adjustments. India is the world’s third-largest LPG consumer and sources over 90% of its imported LPG from the Middle East.
-
----
-
-### 2026-06-01 04:55:46  #國際
-
-【過去三週美軍協助約70艘商船穿行霍爾木茲海峽】美國官員稱，儘管局勢緊張加劇、美伊談判陷入停滯，過去三週美軍仍協助約70艘商船穿行霍爾木茲海峽。相關官員表示，不少船隻在途經這條狹窄水道時關閉了船舶應答器。
-
----
-
-### 2026-06-01 04:55:21  #國際
-
-【知情人士：伊朗將按自身立場修訂伊美協議草案】伊朗塔斯尼姆通訊社5月31日援引知情人士的話報道，圍繞伊朗與美國協議草案的文字交換工作仍在繼續，尚無任何內容最終確定，伊方將按自身立場提出修訂建議。（新華社）
-
----
-
-### 2026-06-01 04:54:51  #公司 #國際
-
-【穆迪：美國家庭平均每月的能源支出增加約450美元】穆迪分析公司的資料顯示，自2月28日衝突爆發以來，美國家庭平均已額外支出447.19美元用於與燃料相關的開支。由於汽油價格和機票價格飆升，美國消費者累計損失近600億美元。
 
 ---

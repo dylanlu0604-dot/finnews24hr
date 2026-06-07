@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:53:21_
-_本檔包含 3854 則快訊，約 708246 字_
+_更新時間：2026-06-08 05:39:25_
+_本檔包含 3877 則快訊，約 708522 字_
+
+---
+
+### 2026-06-08 05:34:08  #國際
+
+伊朗打擊了伊拉克蘇萊曼尼亞境內的多處據點。
+
+---
+
+### 2026-06-08 05:27:21  #市場 #國際
+
+受伊朗局勢衝突影響，燃油成本上漲，美國航空暫停六條國內航線。
+
+---
+
+### 2026-06-08 05:22:20  #國際
+
+一名美國官員：美國並未參與相關行動，目前尚不清楚特朗普是否會叫停對以色列打擊伊朗的軍事支援。
+
+---
+
+### 2026-06-08 05:19:36  #MKT News
+
+Israeli media report the U.S. has told Israel to wait a few days to see if a deal can be reached; if no agreement emerges, the U.S. will proceed under a joint operations plan.
+
+---
+
+### 2026-06-08 05:18:23  #MKT News
+
+Saudi outlet Hadas reported a phone call between Trump and Netanyahu has ended.
+
+---
+
+### 2026-06-08 05:17:47  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli military chief of staff said the military will decisively strike the 'enemy' once orders are issued.
+
+---
+
+### 2026-06-08 05:17:45  #MKT News
+
+IRNA: Iran has suspended flights at Imam Khomeini International Airport until further notice.
+
+---
+
+### 2026-06-08 05:16:29  #國際
+
+以色列國防軍參謀長：一旦接到命令，以軍將斷然打擊“敵人”。
+
+---
+
+### 2026-06-08 05:12:47  #國際
+
+伊朗外交部警告稱，以色列針對伊朗或黎巴嫩的任何行動都將遭到“毀滅性回擊”。
+
+---
+
+### 2026-06-08 05:12:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry warned any Israeli action against Iran or Lebanon would draw a "devastating response".
+
+---
+
+### 2026-06-08 05:12:19  #國際
+
+【美駐以色列使館要求僱員就地避難】當地時間今天（6月8日）凌晨，在耶路撒冷的美國駐以色列大使館指示所有美國政府僱員及其家人就地避難。
+
+---
+
+### 2026-06-08 05:11:50  #國際
+
+伊朗外交部表示，黎巴嫩停火是今年4月達成的停火協議的固有組成部分。
+
+---
+
+### 2026-06-08 05:11:48  #MKT News
+
+Iran’s foreign ministry said Lebanon’s ceasefire is an important component of the ceasefire agreement reached in April.
+
+---
+
+### 2026-06-08 05:11:39  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign ministry said the attack occurred after Israel's operations in Lebanon and repeated violations of the ceasefire agreement.
+
+---
+
+### 2026-06-08 05:11:25  #國際
+
+伊朗外交部表示，此次打擊是以色列屢次違反停火協議並對黎巴嫩採取行動後發起的。
+
+---
+
+### 2026-06-08 05:11:17  #國際
+
+【伊朗伊瑪目霍梅尼機場航班無限期暫停】伊朗民航組織宣佈，伊瑪目霍梅尼國際機場所有航班自2026年6月8日午夜起暫停，恢復時間另行通知。建議旅客切勿前往機場，持續關注官方後續通告。
+
+---
+
+### 2026-06-08 05:10:42  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran's foreign ministry said Iran's armed forces carried out a defensive strike against Israel.
+
+---
+
+### 2026-06-08 05:10:23  #國際
+
+伊朗外交部表示，伊朗武裝力量對以色列實施了“防禦性打擊”。
+
+---
+
+### 2026-06-08 05:09:06  #MKT News
+
+cenc automatically recorded a preliminary M4.2 earthquake at 05:07 on June 8 near Kangding, Ganzi Prefecture, Sichuan; final parameters are subject to the agency's formal rapid report.
+
+---
+
+### 2026-06-08 05:08:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Coordinator of Government Activities in the Territories said it closed crossings into the Gaza Strip after Iran launched a missile attack on Israel.
+
+---
+
+### 2026-06-08 05:07:58  #國際
+
+以色列協調與聯絡政府辦公室表示，凱雷姆沙洛姆口岸和拉法口岸均在此次通行關閉範圍內，生效直至另行通知。
+
+---
+
+### 2026-06-08 05:07:05  #國際
+
+以色列協調與聯絡政府辦公室表示，伊朗對以色列發動導彈襲擊後，將關閉通往加沙地帶的過境點。
+
+---
+
+### 2026-06-08 05:06:34  #國際
+
+【使館提醒在伊中國公民加強安全防範】鑑於當前局勢，中國駐伊朗使領館今天（6月8日）提醒在伊中國公民加強安全防範和應急準備，及時向駐伊朗使領館進行報備。如遇緊急情況，請向當地警方報警，並與駐伊朗使領館聯絡。（CCTV國際時訊）
+
+---
+
+### 2026-06-08 05:06:17  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. Embassy in Jerusalem has directed all U.S. government employees and their families to shelter in place.
+
+---
+
+### 2026-06-08 05:04:15  #國際
+
+美國駐耶路撒冷大使館表示，受以色列當前安全域性勢影響，所有美方工作人員及家屬均需就地避險；若拉響紅色警報，人員必須立即前往防護掩體。
+
+---
+
+### 2026-06-08 05:02:47  #其他
+
+空中客車通知A321客戶，原定於2028年交付的該型客機將延遲交付。
+
+---
+
+### 2026-06-08 05:02:31  #國際
+
+【伊朗公佈發射導彈襲擊以色列畫面】當地時間6月7日晚，北京時間今天（6月8日）凌晨，以回應以色列升級對黎巴嫩軍事行動，特別是再次空襲黎巴嫩首都貝魯特南郊的行為。伊朗伊斯蘭革命衛隊稱，革命衛隊航空航天部隊對以色列北部的拉馬特·大衛空軍基地發動了彈道導彈襲擊。而這僅僅是一次警告，如果以色列的侵略行為再次發生，伊朗回應的範圍將更加廣泛，並將涵蓋該地區所有美以目標。
+
+---
+
+### 2026-06-08 05:00:42  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC says it launched "warning" ballistic strike on Ramat David airbase】Iran's Islamic Revolutionary Guard Corps (IRGC) said on the evening of the 7th its Aerospace Force struck Ramat David airbase in northern Israel with ballistic missiles, calling the action a response to recent Israeli operations in southern Lebanon and the southern suburbs of Beirut. The IRGC said Ramat David was a key base for those operations and that Iran's April 8 acceptance of a ceasefire was conditional on a full halt across all fronts, which it accuses the US and Israel of not honoring. The statement also accused US and Israeli actions in the Strait of Hormuz, Gulf of Oman and the Indian Ocean against Iranian vessels and coastal targets of undermining the ceasefire. The strike was described as "warning" in nature; the IRGC warned that if Israeli military actions continue to escalate, Iranian responses could widen to include additional US and Israeli-related targets in the region.
+
+---
+
+### 2026-06-08 04:59:33  #公司 #國際
+
+【以色列稱攔截所有來襲導彈 將“強力回應”】據以色列國防軍7日晚間通報，伊朗當晚向以色列發射至少三輪導彈，以軍攔截所有來襲導彈。以色列官員說，以方將“強力回應”。以色列公共廣播公司援引一名以方官員的話報道，以色列不會允許伊朗試圖建立某種“平衡”。報道預計以色列將對伊朗導彈襲擊進行報復。以色列第12頻道電視臺報道，以色列官員稱以方“將予以強力回應”。（新華社）
+
+---
+
+### 2026-06-08 04:59:11  #MKT News #XAUUSD #Impact bullish #Brent
+
+【Israel says it intercepted all incoming missiles, will "respond strongly"】On the evening of the 7th the Israel Defense Forces said Iran fired at least three waves of missiles at Israel and that the IDF intercepted all incoming missiles. Israeli officials told the public broadcaster and Channel 12 Israel will "respond strongly"; the public broadcaster quoted an official saying Israel will not allow Iran to establish a "balance," and reports expect Israeli retaliation.
+
+---
+
+### 2026-06-08 04:58:36  #國際
+
+伊朗媒體：伊朗已備足可隨時發射的導彈。
+
+---
+
+### 2026-06-08 04:54:50  #MKT News
+
+Saudi foreign ministry said Saudi and Qatari foreign ministers discussed the impact of recent developments on the region.
+
+---
+
+### 2026-06-08 04:53:19  #國際
+
+沙特外交部宣告：沙特與卡達外交部長討論了地區最新局勢發展造成的影響。
+
+---
+
+### 2026-06-08 04:53:12  #國際
+
+特朗普已與內塔尼亞胡通電話。
 
 ---
 
@@ -23224,71 +23428,5 @@ Reserve Bank of India governor said the central bank will take all necessary mea
 ### 2026-06-05 15:07:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
 
 【US-Iran conflict hits Turkey; May inflation accelerates for second month】Turkey's annual inflation accelerated to 32.6% in May from 32.4% in April, official data on Friday showed; the median forecast of 17 economists was 32.5%. The increase marks a second consecutive month of acceleration as a global energy shock from US and Israeli actions against Iran continues to feed domestic prices. Rising energy import costs are reversing Turkey's disinflation trend—Turkey is a major oil and gas importer—and policymakers say they have struggled to respond. Turkish central bank governor Fatih Karahan said the bank is monitoring second-round effects and that the inflation outlook depends on the duration of the conflict.
-
----
-
-### 2026-06-05 15:06:44  #央行 #國際
-
-印度央行行長馬爾霍特拉：將採取一切必要措施，確保印度盧比擁有良好的資金流動，維持其匯率有序波動。
-
----
-
-### 2026-06-05 15:06:15  #公司 #市場 #觀點 #國際
-
-【高盛策略師：美國信貸市場潛藏的利差風險令人擔憂】高盛集團表示，養老基金和保險公司強勁的需求將支撐公司債券，使其免受宏觀經濟逆風和創紀錄發行量的影響。“儘管實際情況無疑變得更加嚴峻，但利差卻收窄至戰前水平，”高盛首席信貸策略師Amanda Lynam在彭博行業研究Credit Edge播客表示。“這就是信貸市場目前令人不安的緊張局面。”除了伊朗戰爭導致的燃料和其他投入成本上漲之外，美國企業還面臨著高通脹、債務融資成本上升、消費者壓力和美國經濟增長放緩風險等。與此同時，投資級債券的供應量預計今年將創歷史峰值。高盛估計，養老基金和保險公司持有超過6.4萬億美元的美元企業信用債，約佔市場的40%。Lynam表示，企業養老金的資金充足程度已達到2007年以來的最高水平，並可能增加對高質量信用債的持倉。此外，她還指出，保險公司對固定收益資產的配置比例比2010年水平低10個百分點，這意味著它們仍有增持空間。
-
----
-
-### 2026-06-05 15:06:06  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-【China A-shares close lower; Shanghai Composite down 0.74% after afternoon selloff; humanoid-robot names spiked】China A-shares opened lower, briefly rallied in the morning then slid in the afternoon. Shanghai Composite erased earlier gains and closed down 0.74% after falling as much as over 1% late in the session. Shenzhen Composite Index fell 2.21%; ChiNext Index declined 3.2%. Turnover on Shanghai and Shenzhen exceeded CNY3.0 trillion. Nearly 3,000 stocks fell. Sector moves: power stocks extended afternoon declines; memory chips and lab-grown diamonds led losses; optical/optoelectronics outperformed; humanoid-robot names spiked in the afternoon; gaming stocks were active; new metallic materials were strong all day.
-
----
-
-### 2026-06-05 15:05:54  #Trading Economics #Economy #France #Industrial Production Mom #Importance 1
-
-France Industrial Output Eases in April — Industrial production in France edged up by 0.1% month-on-month in April 2026, defying market expectations of a 0.2% fall but slowing from an upwardly revised 1.4% rise in the previous month. Manufacturing output eased to 0.4% from 1.3% in March, as production of agri-food products stalled after a 1.1% rise, while output for electrical, electronic and computer equipment, and machinery fell to 0.4% from a 1.2% gain, and growth in other industrial products slowed to 0.1% from 1.1%. In contrast, stronger gains were recorded in the manufacturing of coke and refined petroleum products (6.6% vs 6.5%) and transport equipment (3.3% vs 2.2%). Overall industrial activity was also weighed down by a decline in extractive industries, energy and water (-0.9% vs 1.6%), particularly electricity, gas, steam and air-conditioning supply (-1.1% vs 1.8%). On a yearly basis, industrial production accelerated to 2.8% from an upwardly revised 1.3% in March.
-
----
-
-### 2026-06-05 15:05:52  #Trading Economics #Economy #France #Current Account #Importance 1
-
-France Current Account Deficit Narrows in April — France's current account deficit narrowed to EUR 0.2 billion in April 2026 from EUR 0.9 billion in the previous month. The improvement was driven by a smaller goods trade deficit, which eased to EUR 3.9 billion from EUR 4.1 billion in March, and a larger services surplus, which increased to EUR 4.5 billion from EUR 3.9 billion. Within goods trade, the surplus excluding energy widened to EUR 0.6 billion from a balanced position in March, although the energy deficit increased to EUR 4.5 billion from EUR 4.2 billion. Meanwhile, the income deficit edged up to EUR 0.8 billion from EUR 0.7 billion. On a 12-month basis, France's current account deficit widened to EUR 6.6 billion from EUR 2.6 billion a year earlier.
-
----
-
-### 2026-06-05 15:05:42  #市場
-
-土耳其基準BIST-100指數<.XU100>在通脹資料公佈後下跌0.6%。
-
----
-
-### 2026-06-05 15:05:40  #市場
-
-土耳其銀行業主要指數<.XBANK>在通脹資料公佈後下跌2%。
-
----
-
-### 2026-06-05 15:05:07  #公司
-
-【安徽安聯高速公路有限公司總經理張喆接受審查調查】據安徽紀檢監察網，安徽安聯高速公路有限公司黨委副書記、董事、總經理張喆涉嫌嚴重違紀違法，目前正接受安徽省交通控股集團有限公司紀委紀律審查；經安徽省監委指定管轄，接受銅陵市監委監察調查。
-
----
-
-### 2026-06-05 15:05:06  #市場 #國際
-
-【美元在美國就業資料公佈前小幅走低】美國非農就業資料即將公佈，以及對伊朗戰爭的不確定性依然高企之際，美元小幅下跌。德國商業銀行的Michael Pfister在一份報告中表示，在經歷了數月疲軟的就業增長之後，勞動力市場似乎正在企穩，週五的資料可能會超出預期，5月份就業人數將增加10萬。“對美元來說，關鍵因素是這些資料在多大程度上增強了市場對進一步上調利率的預期。“與此同時，美國總統特朗普表示，美國不需要與伊朗達成協議就能獲得該國的濃縮鈾，而真主黨拒絕了美國支援的以色列和黎巴嫩之間的停火協議。DXY美元指數下跌0.6%，至99.352，不過仍接近週三創下的近兩個月高點99.552。
-
----
-
-### 2026-06-05 15:04:06  #其他
-
-聯電5月營收為229.4億新臺幣，前值為194.8億新臺幣。
-
----
-
-### 2026-06-05 15:03:02  #公司
-
-【華為雲CEO周躍峰：在手機上問個問題就可以產生Token，但這樣的Token價值有多大？】6月5日下午訊息，在華為雲INSPIRE創想者大會期間，華為公司董事、華為雲CEO周躍峰與媒體對話。被問及如何看待今年阿里雲、火山引擎淡化雲基礎三大件收入、發力MaaS收入一事，周躍峰表示，在通算時代，對雲廠商來說，更多是資源帶來的收入；到了智算階段，已經進入Token經濟時代。但他強調，不能簡單用多少日活、多少Token來衡量Token所產生的價值。“我更願意去看我們有多少Token是面向ToB提升生產力。因為平時我閒著沒事，在手機上問一個問題，它也可以產生Token，但這樣的Token到底價值有多大？我覺得是很難說的。”他說，華為雲更看重每一個Token背後，能夠給生產力，給我們的生活水平真正帶來多大的價值。（新浪科技）
 
 ---

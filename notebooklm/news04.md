@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:53:21_
-_本檔包含 3837 則快訊，約 708249 字_
+_更新時間：2026-06-08 05:39:25_
+_本檔包含 3834 則快訊，約 708393 字_
+
+---
+
+### 2026-06-03 09:47:04  #市場 #焦點
+
+科創50日內漲幅達2.07%，成分股中，盛科通訊漲7.51%，瀾起科技漲7.21%，滬矽產業漲5.67%，翱捷科技漲5.58%。
+
+---
+
+### 2026-06-03 09:47:03  #MKT News
+
+China's CSI 500 index futures (IC) main contract rose more than 1.0% intraday, trading at 8,356.0.
+
+---
+
+### 2026-06-03 09:46:53  #MKT News #Important #SZSE Component #Impact bullish #SSE Composite
+
+Shenzhen Composite Index up 1% intraday; ChiNext index gains widen to 1.53%; China's Shanghai Composite Index has turned positive, now up 0.15%.
+
+---
+
+### 2026-06-03 09:46:47  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Russia's First Deputy Prime Minister Manturov said the special military operation has made drones an independent strike force capable of executing a wide range of tactical tasks.
+
+---
+
+### 2026-06-03 09:46:24  #MKT News
+
+Russia's first deputy prime minister Manturov said Russia now produces 15,000 FPV drones per day; in 2023 producing that number took a full month.
+
+---
+
+### 2026-06-03 09:46:22  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index extends losses to 1.0%; Hang Seng Tech Index down 1.61%.
+
+---
+
+### 2026-06-03 09:46:14  #市場 #焦點
+
+深證成指漲1.00%，現報15747.640點；上證指數漲0.11%，現報4079.749點；創業板指漲1.46%，現報4114.924點。
+
+---
+
+### 2026-06-03 09:46:04  #市場 #焦點
+
+恒生指數跌超1%，現報25777.410點；恒生科技指數現跌1.605%。
+
+---
+
+### 2026-06-03 09:46:03  #公司 #市場
+
+【光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停】光纖概念板塊漲幅擴大，三孚股份、亨通光電漲停，金信諾漲超12%，源傑科技、長飛光纖漲近10%。
+
+---
+
+### 2026-06-03 09:45:59  #公司 #市場
+
+【人形機器人概念表現活躍 浙江榮泰逼近漲停】人形機器人概念表現活躍，浙江榮泰逼近漲停，奧比中光、綠的諧波、德馬科技、五洲新春、晉拓股份跟漲。
+
+---
+
+### 2026-06-03 09:45:54  #公司 #市場
+
+【液冷伺服器概念反覆活躍 祥鑫科技等多股漲停】液冷伺服器概念反覆活躍，祥鑫科技、金田股份、華源控股漲停，依米康、冰輪環境、騰龍股份、博傑股份跟漲。
+
+---
+
+### 2026-06-03 09:45:34  #資料
+
+中國5月RatingDog綜合PMI 54，前值53.1。
+
+---
+
+### 2026-06-03 09:45:34  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
+
+China May RatingDog composite PMI 54.0, previous 53.1.
+
+---
+
+### 2026-06-03 09:45:27  #MKT News #Economic Calendar #Important
+
+China | S&P Global/Ratingdog China General Composite PMI (May) | actual 54 | previous 53.1
+
+---
+
+### 2026-06-03 09:45:06  #資料
+
+中國5月RatingDog服務業PMI 54.4，前值52.6。
+
+---
+
+### 2026-06-03 09:45:06  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
+
+China May RatingDog services PMI 54.4, prior 52.6.
+
+---
+
+### 2026-06-03 09:45:03  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+HSBC Holdings Stock Price Hits 18-1/2-year High — HSBC Holdings shares increased to 148.00 HKD, the highest since November 2007. Over the past 4 weeks, HSBC Holdings gained 2.65%, and in the last 12 months, it increased 59.74%.
+
+---
+
+### 2026-06-03 09:45:00  #MKT News #Economic Calendar #Important
+
+China | S&P Global/Ratingdog China General Services PMI (May) | actual 54.4 | previous 52.6
+
+---
+
+### 2026-06-03 09:44:05  #公司
+
+【新疆天雲低空經濟發展公司註冊成立】企查查APP顯示，近日，新疆天雲低空經濟發展有限責任公司成立，註冊資本1億元，經營範圍包含：航空運營支援服務；智慧無人飛行器製造；智慧無人飛行器銷售；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由新疆機場（集團）有限責任公司全資持股。
+
+---
+
+### 2026-06-03 09:43:50  #MKT News
+
+China A-share lab-grown diamond sector surged; Chujiang New Materials hit the daily limit, Huifeng Diamond climbed over 14%. Guoji Jinggong, Liliang Diamond, Hengsheng Energy, Boyun New Materials and Sifangda also rallied.
+
+---
+
+### 2026-06-03 09:43:49  #公司
+
+【中國石油天然氣集團等成立昆擎燃氣輪機技術公司】企查查APP顯示，近日，上海昆擎燃氣輪機技術有限公司成立，經營範圍包含：汽輪機及輔機銷售；特種裝置銷售；新能源原動裝置銷售；民用航空材料銷售等。企查查股權穿透顯示，該公司由中國石油天然氣集團有限公司全資子公司中國石油集團崑崙製造有限公司等共同持股。
+
+---
+
+### 2026-06-03 09:43:46  #市場
+
+【培育鑽石板塊衝高，楚江新材漲停】培育鑽石板塊衝高，楚江新材漲停，惠豐鑽石漲超14%，國機精工、力量鑽石、恆盛能源、博雲新材、四方達跟漲。
+
+---
+
+### 2026-06-03 09:43:24  #觀點
+
+【高盛：維持A股超配評級，H股評級下調至平配】高盛稱，將H股評級下調至平配，因保持超配的“機會成本”在上升，將MSCI中國指數目標點位從95點下調至85點。對A股維持超配評級，因增長前景改善、流動性條件充裕、多元化優勢，以及對AI硬科技領域的暴露；年內第二次上調滬深300指數12個月目標價，從5,300點上調至5,500點。高盛稱，AI仍是“顛覆者”，中國是全球AI宇宙不可分割的一部分，而目前國際投資者對其AI股明顯配置不足。
+
+---
+
+### 2026-06-03 09:42:16  #Trading Economics #Economy #Australia #GDP Growth Rate #Importance 3
+
+Australia Q1 GDP Growth Softer Than Expected — The Australian economy expanded 0.3% quarter-on-quarter in Q1 2026, below the expected 0.5% growth, and easing from a 0.9% expansion in Q4. This marked the softest economic growth in a year. Grace Kim, ABS head of National Accounts, noted the slower growth came with modest household and public sector expenditure as well as cyclone disruptions to mining and export activities.
+
+---
+
+### 2026-06-03 09:41:26  #其他
+
+【極佳視界與隆盛科技旗下隆盛唯睿達成深度戰略合作】近日，極佳視界與隆盛科技旗下隆盛唯睿正式達成深度戰略合作，合作方向圍繞模型合作、場景化的快速落地、本體聯合最佳化代工以及具身智慧產業推廣來展開。隆盛唯睿將依託於自有的省級平臺，透過超長時數採支撐的大模型高標準場景落地，積極推進與極佳視界在具身本體的深度協同，計劃在三年內實現本體代工和銷售1000臺的目標。
+
+---
+
+### 2026-06-03 09:40:38  #其他
+
+【速騰聚創：數字化鐳射雷達再獲一汽豐田量產車型定點 訂單規模超50萬臺】速騰聚創(02498.HK)宣佈，旗下數字化鐳射雷達再獲一汽豐田全新前裝量產車型定點，訂單規模超50萬臺。這是繼2025年底先後獲得一汽豐田旗下知名暢銷車型及某純電車型累計超百萬臺訂單後的又一重要合作。
+
+---
+
+### 2026-06-03 09:40:38  #MKT News #Market Regions #Greater China #02498.HK #Impact bullish
+
+【RoboSense (02498.HK) wins >500,000-unit FAW‑Toyota order for digital LiDAR】RoboSense (02498.HK) said its digital automotive LiDAR has been selected as a factory‑fit sensor for a new FAW‑Toyota production model, with orders exceeding 500,000 units. The deal follows earlier FAW‑Toyota orders—cumulative volumes of more than 1 million units across a popular ICE model and an electric model secured by end‑2025.
+
+---
+
+### 2026-06-03 09:40:33  #公司 #市場
+
+銅纜高速連線概念大幅走強，金田股份、鑫科材料雙雙漲停，金信諾漲超15%，顯盈科技、華工科技、神宇股份、中天科技漲超5%。
+
+---
+
+### 2026-06-03 09:39:41  #公司 #市場
+
+【元件板塊短線拉昇】元件板塊短線拉昇，一博科技漲停， 迅捷興、晶賽科技漲超10%，達利凱普、麥捷科技、勝宏科技、中富電路、科翔股份等跟漲。
 
 ---
 
@@ -22930,197 +23104,5 @@ South Korea's KOSPI slid as much as 2.00% intraday.
 ### 2026-06-02 08:08:35  #Trading Economics #Economy #Ireland #Manufacturing PMI #Importance 1
 
 Irish Factory Growth Strongest in Four Years — The AIB Ireland Manufacturing PMI rose to 55.9 in May 2026 from 54.9 in April, reaching its highest in four years. Output growth accelerated to its fastest pace in a year, while new orders increased at the quickest rate since April 2022, driven by improving domestic and export demand, with overseas sales posting their strongest growth since August 2021. Employment also expanded at the fastest pace in nearly four years as firms boosted capacity to meet growing workloads. Purchasing activity strengthened sharply, while manufacturers continued building inventories amid supply chain concerns linked to the Middle East conflict. Supplier delivery times also lengthened to the greatest extent since October 2022. Meanwhile, input cost inflation accelerated to its highest level since July 2022, leading firms to raise selling prices at the fastest pace since December 2022. Still, business confidence improved from April’s 25-month low, supported by stronger sales pipelines and investment plans.
-
----
-
-### 2026-06-02 08:08:27  #MKT News #Important
-
-South Korea's KOSPI slid, losses widening to 1.4%.
-
----
-
-### 2026-06-02 08:08:07  #公司 #國際
-
-【知名空頭投資人安德魯・萊夫被判證券欺詐罪成立】空頭大佬安德魯・萊夫（Andrew Left ）於被判證券欺詐罪名成立，其作案手法為公開發布上市公司相關研判言論，私下卻進行與自身薦股、預判相悖的證券交易。陪審團裁定，其證券欺詐主罪名成立；16 項單項交易相關指控中，另有 12 項定罪、4 項無罪。判決在洛杉磯法庭當庭宣讀，萊夫聆聽一連串有罪宣判時，辯護律師手扶其後背。本次判決或將對華爾街行業產生深遠影響。
-
----
-
-### 2026-06-02 08:07:54  #MKT News #Important
-
-South Korea's KOSPI index rapidly reversed into negative territory after earlier gains of more than 1.5%.
-
----
-
-### 2026-06-02 08:06:50  #MKT News #Market Regions #Greater China
-
-Häagen‑Dazs' mainland China store operations will be licensed to an investor group that includes Ningji. The proposed transaction is expected to close in the 2026 calendar year, subject to required regulatory approvals and customary closing conditions. Financial terms were not disclosed.
-
----
-
-### 2026-06-02 08:06:19  #其他
-
-【丹麥看守首相表示已組成新政府 】丹麥看守首相弗雷澤裡克森1日晚宣佈，她領導的社會民主黨與其他三黨已成功組成新政府。 弗雷澤裡克森對媒體說，她已向國王腓特烈十世報告組閣事項。此次組閣過程歷時69天，組閣談判“漫長而艱難”，新政府將由社會民主黨、社會主義人民黨、激進黨和溫和黨組成，四黨將於2日公佈政府施政綱領。 丹麥3月24日舉行議會選舉。社會民主黨繼續保持議會第一大黨地位，但支援率明顯下滑，其領導的中左聯盟“紅營”未能獲得過半數席位。此後，丹麥各政黨圍繞組建新政府展開多輪談判。
-
----
-
-### 2026-06-02 08:05:48  #公司
-
-【哈根達斯中國內地門店業務將授權給包含檸季在內的投資集團】6月2日，通用磨坊對介面新聞宣佈，通用磨坊公司已與投資者集團達成最終協議，將其在中國內地的哈根達斯門店業務授權給包含檸季在內的投資者集團。茶飲連鎖檸季是目前擁有逾3000家茶飲門店。作為協議的一部分，受讓方將獲得通用磨坊的獨家許可，在中國內地的冰淇淋門店及禮品業務中獨家使用哈根達斯品牌。通用磨坊將繼續擁有並運營哈根達斯在中國的零售和餐飲業務。該擬議交易預計將於2026年日曆年內完成，交易生效須取得必要的監管批准並滿足其他慣例交割條件。交易的財務條款未予披露。（介面新聞）
-
----
-
-### 2026-06-02 08:05:22  #MKT News
-
-BANK OF KOREA says inf is expected to remain around 3% for some time.
-
----
-
-### 2026-06-02 08:05:15  #MKT News
-
-Business Insider reports US short seller Andrew Left was convicted of securities fraud.
-
----
-
-### 2026-06-02 08:05:12  #國際
-
-【李寧與庫裡達成長期合作】6月2日，李寧品牌正式宣佈，與四屆總冠軍、兩屆常規賽最有價值球員、奧運金牌得主、美國籃球運動員斯蒂芬·庫裡（Stephen Curry）及庫裡品牌（Curry Brand）達成長期合作。雙方將以品牌共建為基礎，圍繞多品類專業運動裝備開發、體育文化推廣與新一代年輕運動群體連結，共同探索李寧品牌與庫裡品牌全球化發展的更多可能。
-
----
-
-### 2026-06-02 08:04:22  #MKT News
-
-BANK OF KOREA expects June inflation to be unchanged from May.
-
----
-
-### 2026-06-02 08:04:04  #MKT News #017670.KS #Impact bullish
-
-South Korea's SK Telecom shares surged 20%; Doosan Robotics shares rose 22%.
-
----
-
-### 2026-06-02 08:03:47  #資料 #央行 #國際
-
-韓國央行預計CPI將在一段時間內維持在3%的水平。
-
----
-
-### 2026-06-02 08:03:40  #市場
-
-SK電信股價上漲20.0%。
-
----
-
-### 2026-06-02 08:03:31  #市場 #國際
-
-韓國斗山機器人股價上漲22%。
-
----
-
-### 2026-06-02 08:03:18  #市場
-
-LG電子股價大漲15%。
-
----
-
-### 2026-06-02 08:03:04  #公司
-
-三星電子股價漲幅超4%，創下歷史新高。
-
----
-
-### 2026-06-02 08:02:48  #MKT News #005930.KS #Impact bullish #066570.KS
-
-South Korea's KOSPI rose 1.00% intraday; Samsung Electronics gained 4.7% and LG Electronics jumped 11%.
-
----
-
-### 2026-06-02 08:02:36  #國際
-
-烏克蘭官方稱，基輔一棟多層居民樓受損，有人員被困廢墟之下。
-
----
-
-### 2026-06-02 08:02:04  #市場
-
-LG電子股價下跌5.6%。
-
----
-
-### 2026-06-02 08:02:03  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's TOPIX fell 1%.
-
----
-
-### 2026-06-02 08:01:52  #市場 #國際
-
-日本東證股價指數（TOPIX）下跌1%。
-
----
-
-### 2026-06-02 08:01:47  #市場 #國際
-
-韓國LG CNS股價上漲3.7%。
-
----
-
-### 2026-06-02 08:01:30  #MKT News
-
-Wall Street Journal: An Edward Jones/Gallup poll finds more than half of U.S. adults are in 'financial conflict'. 16% report being financially confident; 32% report facing financial hardship.
-
----
-
-### 2026-06-02 08:01:15  #MKT News #Market Regions #Japan & APAC
-
-South Korea's KOSPI opened 70.57 points higher, or 0.8%, at 8,858.95 on Tuesday, June 2.
-
----
-
-### 2026-06-02 08:01:14  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 opened down 377.08 points (-0.56%) at 66,557.25 on Tuesday, June 2.
-
----
-
-### 2026-06-02 08:01:10  #其他
-
-群聯電子攜手英特爾，助力英特爾 AI PC 平臺承載更大規模本地人工智慧運算任務。
-
----
-
-### 2026-06-02 08:00:38  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲1.1%，至8883.19點。
-
----
-
-### 2026-06-02 08:00:26  #市場
-
-【日韓股市開盤】日經225指數上午開盤報66629.60點，跌幅0.46％。韓國綜合股價指數（KOSPI）開盤上漲1.1％，至8883.19點。
-
----
-
-### 2026-06-02 08:00:06  #市場 #焦點
-
-布倫特原油突破95美元/桶，日內跌0.09%。
-
----
-
-### 2026-06-02 07:59:34  #國際
-
-基輔市長稱基輔部分地區已停電。
-
----
-
-### 2026-06-02 07:59:23  #國際
-
-【中方敦促以色列立即從黎全面撤軍】當地時間6月1日下午，北京時間今天（6月2日）凌晨，聯合國安理會就黎以局勢舉行緊急會議。中國常駐聯合國代表傅聰大使在會上發言指出，黎以局勢急劇升級，以色列擴大對黎巴嫩的軍事行動，持續擴張所謂“安全區”，甚至越過利塔尼河，佔領博福特城堡。這是以軍20多年來對黎巴嫩最深入的一次軍事行動。以方還宣稱要進一步擴大地面行動，其背後意圖以及由此產生的嚴重後果令國際社會深感擔憂。黎以停火已經名存實亡，國際社會必須在局勢滑向更危險深淵前採取緊急行動。 傅聰大使呼籲，要立即實現停火止戰，平息緊張局勢；要加大對黎巴嫩的支援，穩定國內局勢；要保證聯黎部隊履職，維護地區穩定。
-
----
-
-### 2026-06-02 07:58:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【China urges immediate Israeli withdrawal from Lebanon】Beijing, Jun 2 (Beijing time early hours) — At a UN Security Council emergency meeting on the Lebanon-Israel situation, China’s UN ambassador Fu Cong said the situation has sharply escalated: Israel has expanded military operations in Lebanon, widened a so‑called “security zone,” crossed the Litani River and occupied Beaufort Castle — its deepest incursion into Lebanon in more than 20 years. Fu said Israel has announced intentions to further expand ground operations and that the ceasefire is effectively dead, prompting serious international concern. China called for an immediate ceasefire and full Israeli withdrawal, increased support to Lebanon, and for UNIFIL to be enabled to carry out its mandate to preserve regional stability.
 
 ---
