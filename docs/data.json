@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-08 06:58:33",
-  "count": 19141,
+  "updated": "2026-06-08 07:02:29",
+  "count": 19144,
   "items": [
+    {
+      "id": "mkt:019ea452-23fc-7ee0-86d4-c18d014686e6",
+      "time": "2026-06-08 07:01:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NVDA.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "NVIDIA and SK Hynix to launch a multi-year technology collaboration to advance memory innovations for AI infrastructure, deepen HBM and custom memory development, and accelerate inference of trillion-parameter models."
+    },
+    {
+      "id": "mkt:019ea451-cc81-7ee0-86d4-b82261e4a21c",
+      "time": "2026-06-08 07:01:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA says SK Telecom will partner to build AI infrastructure and deepen cooperation to deploy GPU clusters, aiming to accelerate AI innovation in South Korea and support semiconductor manufacturing and digital-twin applications."
+    },
+    {
+      "id": "mkt:019ea451-6b23-7ee0-86d4-b555ab3ad7fb",
+      "time": "2026-06-08 07:00:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "035420.KS"
+      ],
+      "text": "South Korea's Naver will adopt NVIDIA technology to build a gigawatt-scale AI factory to meet rising global demand for AI services and physical AI."
+    },
+    {
+      "id": "4922345",
+      "time": "2026-06-08 07:00:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達與SK海力士宣佈達成多年技術合作關係，共同升級人工智慧工廠的儲存技術。"
+    },
+    {
+      "id": "4922344",
+      "time": "2026-06-08 06:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱對以色列發起防禦性打擊】當地時間6月7日晚，北京時間今天（6月8日）凌晨，伊朗向以色列發射三波導彈。以色列北部城市海法等多地拉響防空警報，並傳出爆炸聲。伊朗外交部最新發表關於“對以色列目標進行防禦性打擊”的宣告。宣告指出，鑑於以色列屢次違反停火協議，並對黎巴嫩和伊朗採取侵略行動，包括與美國一起在過去兩週內襲擊伊朗南部地區的船隻和目標、對伊朗進行海上劫掠，伊朗武裝部隊於當地時間6月7日晚，對以色列北部多個軍事目標進行了打擊。伊朗強調將堅決捍衛國家安全和國家利益。美國應對以色列違反停火協議及造成的後果，以及該地區緊張局勢的升級負有直接責任。伊朗警告稱，以色列任何對伊朗和黎巴嫩的冒險行為都將遭到伊朗武裝部隊的全面回擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "4922343",
+      "time": "2026-06-08 06:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本放送協會民調：高市內閣支援率下降4.2個百分點，降至70%。"
+    },
     {
       "id": "4922342",
       "time": "2026-06-08 06:57:47",
@@ -176518,35 +176585,6 @@
         "公司"
       ],
       "text": "【6月基金經理調研：A股仍是最受青睞的方向之一】近日，南方基金、前海開源基金、融通基金等多家公司的基金經理接受調研。調研結果顯示，面對震盪行情，基金經理主動謀篇佈局，A股仍是最受青睞的方向之一。A股與美股在基金經理6月看好的資產中排名並列第一。對A股投資持有較為樂觀態度的基金經理佔比超過四成，中性觀望的超過五成；對於美股，基金經理之間分歧較大，超過五成的態度較為樂觀，近三成觀望，但也有一成多較為謹慎。此外，基金經理對6月債券、港股、商品投資的樂觀程度相對較低。（上證報）"
-    },
-    {
-      "id": "4909134",
-      "time": "2026-06-01 07:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【專家熱議貿易高質量發展路徑：培育新質生產力，鞏固中間品貿易優勢】近期高頻資料顯示，5月外貿有望保持穩定增長態勢。多位專家在5月30日召開的中國宏觀經濟論壇（CMF）宏觀經濟熱點研討會上表示，我國實現對外貿易中長期可持續增長有諸多支撐條件，應以貿易高質量發展應對外部環境不確定性，具體路徑包括以新質生產力培育對外貿易核心競爭力、拓展新興市場、鞏固中間品貿易優勢等。（中證報）"
-    },
-    {
-      "id": "4909133",
-      "time": "2026-06-01 07:00:24",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞5月標普全球製造業PMI終值 50.7，前值50.2。"
-    },
-    {
-      "id": "mkt:019e8044-1a4a-700f-a381-60c42dd2bc25",
-      "time": "2026-06-01 07:00:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Australia May final S&P Global manufacturing PMI 50.7, prior 50.2."
     }
   ]
 }
