@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-07 23:12:37",
-  "count": 18985,
+  "updated": "2026-06-07 23:16:22",
+  "count": 18983,
   "items": [
+    {
+      "id": "mkt:019ea2a7-2248-7ee0-86d0-8686761c20f2",
+      "time": "2026-06-07 23:15:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump backs $1.8 billion 'anti-weaponization' fund, says it could pay convicted Jan. 6 rioters】Trump told NBC he personally thinks the $1.8 billion \"anti-weaponization\" fund is \"a good idea\" and hinted some proceeds could be used to compensate people convicted over the January 6 Capitol riot. The fund is part of his settlement with the IRS to compensate alleged victims of politically motivated investigations; Acting Attorney General Branch had said the idea was dead, but Trump said he will try to advance it, a move that could reignite tensions with Senate Republicans. Congressional critics call the proposal a \"bribe fund.\" In the same interview Trump reiterated claims the 2020 election was manipulated and ended the interview early after clashing with the host."
+    },
+    {
+      "id": "4922060",
+      "time": "2026-06-07 23:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州多地遭受暴雨洪澇災害 安全轉移群眾近萬人】6月6日至7日，貴州省畢節市黔西市、遵義市紅花崗區、黔南州長順縣等地遭遇特大暴雨，引發洪澇災害，當地幹部群眾迅速開展救援，累計轉移群眾近萬人。（新華社）"
+    },
     {
       "id": "mkt:019ea29d-a228-7ee0-86d0-786097f91af8",
       "time": "2026-06-07 23:05:00",
@@ -175086,43 +175104,6 @@
         "國際"
       ],
       "text": "阿聯酋關閉伊朗駐迪拜紅新月會醫院，並凍結其相關資產。"
-    },
-    {
-      "id": "4908955",
-      "time": "2026-05-31 23:15:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐美大使：中美兩國人民渴望友好的初心沒有變】中國駐美國大使館5月30日舉辦“匹克球之夜”活動。中國駐美大使謝鋒在致辭中說，從乒乓球到匹克球，變的是球拍，不變的是兩國人民渴望友好的初心。當晚，謝鋒與美國青少年匹克球訪華團師生、家長等歡聚一堂，重溫中美青少年從“以球會友”到“以心相交”的美好歷程。（新華社）"
-    },
-    {
-      "id": "4908954",
-      "time": "2026-05-31 23:13:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "尚比亞自6月1日起將柴油零售價下調5.5%。"
-    },
-    {
-      "id": "4908953",
-      "time": "2026-05-31 23:13:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "康菲石油下調全年產量預期，其股價三個月內下跌16.1%，表現遜於納斯達克指數。"
-    },
-    {
-      "id": "mkt:019e7e98-990b-700f-a37e-ded525053352",
-      "time": "2026-05-31 23:13:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Lebanese official data show Israeli attacks on Lebanon have injured 10,269 people since March 2."
     }
   ]
 }
