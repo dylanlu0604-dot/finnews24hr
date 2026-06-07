@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-07 22:06:37",
-  "count": 18990,
+  "updated": "2026-06-07 22:10:43",
+  "count": 18989,
   "items": [
+    {
+      "id": "4922028",
+      "time": "2026-06-07 22:08:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普再施壓美聯儲：經濟好轉不應導致加息】美國總統特朗普表示，在美國就業資料大幅超出預期後，如果美聯儲決策者選擇加息，將是一個錯誤的決定。同時，他堅稱自己並不想在凱文·沃什（Kevin Warsh）主持首次美聯儲會議前對其施加影響。特朗普在接受媒體採訪時表示：“如今，每當經濟資料表現良好，市場反而會下跌，因為大家認為美聯儲會加息。但根本沒有理由加息。”特朗普的表態進一步增加了沃什面臨的經濟和政治壓力。特朗普表示：“提高基準利率是錯誤的做法。實際上，我們應該降低利率。”特朗普表示：“我現在和凱文共事。我非常尊重他，但我的看法是，當一個國家經濟表現良好時，不應該立刻透過加息來懲罰它。”他補充說：“我們有債務問題，還有其他很多事情需要處理，有很多計劃要推進。我希望進一步擴大國防開支。”"
+    },
+    {
+      "id": "mkt:019ea269-7a61-7ee0-86d0-3ad42ee9e8ec",
+      "time": "2026-06-07 22:08:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Trump again pressures Fed, says economic gains shouldn't trigger rate hikes】After US jobs data markedly beat forecasts, President Trump said it would be a mistake if Fed policymakers opted to raise rates and reiterated he does not want to influence Kevin Warsh ahead of Warsh’s first Fed meeting. Trump said markets often fall when data is strong because investors expect Fed tightening, but there is no reason to hike; he called raising the policy rate wrong and said rates should be lowered. He added he respects Warsh but opposes “punishing” a strong economy with higher rates, and flagged debt constraints while saying he seeks further increases in defense spending."
+    },
     {
       "id": "4922027",
       "time": "2026-06-07 22:05:11",
@@ -175113,30 +175138,6 @@
         "國際"
       ],
       "text": "特朗普：巴拉克將同時擔任總統駐伊拉克特使。"
-    },
-    {
-      "id": "4908921",
-      "time": "2026-05-31 22:10:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：湯姆・巴拉克將出任總統駐敘利亞特使。"
-    },
-    {
-      "id": "4908920",
-      "time": "2026-05-31 22:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：市場認為此次通脹飆升只是暫時現象。"
-    },
-    {
-      "id": "4908918",
-      "time": "2026-05-31 22:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列北部多地拉響紅色警報。"
     }
   ]
 }
