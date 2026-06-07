@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-08 05:58:13",
-  "count": 19137,
+  "updated": "2026-06-08 06:02:22",
+  "count": 19140,
   "items": [
+    {
+      "id": "mkt:019ea41a-c6c8-7ee0-86d4-41a6b40d90d2",
+      "time": "2026-06-08 06:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil rose 2.8% at the open Monday after Iran carried out a \"warning\" strike on Israel over the weekend."
+    },
+    {
+      "id": "4922307",
+      "time": "2026-06-08 06:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "益普索出口民調：秘魯總統選舉出口民調顯示桑切斯以49.3%的得票率位居第二。"
+    },
+    {
+      "id": "4922306",
+      "time": "2026-06-08 06:01:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲3%，現報95.96美元/桶。"
+    },
+    {
+      "id": "4922305",
+      "time": "2026-06-08 06:01:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.4%。"
+    },
+    {
+      "id": "4922304",
+      "time": "2026-06-08 06:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "益普索出口民調顯示：秘魯總統選舉出口民調結果顯示藤森得票率為50.7%，處於領先。"
+    },
+    {
+      "id": "4922303",
+      "time": "2026-06-08 06:00:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4330美元/盎司，日內漲0.08%。"
+    },
+    {
+      "id": "mkt:019ea41a-24aa-7ee0-86d4-3da1635319bc",
+      "time": "2026-06-08 06:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US equity index futures opened lower on Monday; Nasdaq futures fell 0.6%, S&P 500 futures fell 0.4%."
+    },
+    {
+      "id": "4922302",
+      "time": "2026-06-08 06:00:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守92美元/桶，日內漲2.69%。"
+    },
+    {
+      "id": "4922301",
+      "time": "2026-06-08 06:00:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報93.28美元/桶。"
+    },
+    {
+      "id": "4922300",
+      "time": "2026-06-08 06:00:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報93.14美元/桶。"
+    },
+    {
+      "id": "4922299",
+      "time": "2026-06-08 06:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4360美元/盎司，日內跌0.08%。"
+    },
+    {
+      "id": "4922298",
+      "time": "2026-06-08 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報67.68美元/盎司。"
+    },
+    {
+      "id": "4922297",
+      "time": "2026-06-08 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報95.79美元/桶。"
+    },
+    {
+      "id": "mkt:019ea418-f8e3-7ee0-86d4-3492dfb4cc37",
+      "time": "2026-06-08 05:59:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli broadcaster i24 cites Iranian state television reporting that Iran says it has launched attack drones toward Israel; if launched the drones could reach Israeli territory within hours."
+    },
+    {
+      "id": "4922296",
+      "time": "2026-06-08 05:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月8日06時繼續釋出暴雨橙色預警。"
+    },
     {
       "id": "mkt:019ea416-c91e-7ee0-86d4-2db2bcf9d70e",
       "time": "2026-06-08 05:56:57",
@@ -176383,121 +176522,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲2%，現報89.13美元/桶。"
-    },
-    {
-      "id": "mkt:019e800e-bcbc-700f-a380-fbff92cbc12f",
-      "time": "2026-06-01 06:01:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened up $0.70 at $90.92/bbl on Monday."
-    },
-    {
-      "id": "mkt:019e800e-bb78-700f-a380-f034013e419f",
-      "time": "2026-06-01 06:01:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened down 0.35% on Monday and is trading at $4,521/oz."
-    },
-    {
-      "id": "mkt:019e800e-25f0-700f-a380-e802444efbcb",
-      "time": "2026-06-01 06:01:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot silver slipped below $74/oz, down 2.08% intraday."
-    },
-    {
-      "id": "4909096",
-      "time": "2026-06-01 06:00:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破74美元/盎司，日內跌2.60%。"
-    },
-    {
-      "id": "4909095",
-      "time": "2026-06-01 06:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報73.31美元/盎司。"
-    },
-    {
-      "id": "mkt:019e800d-93ad-700f-a380-e4909459a9de",
-      "time": "2026-06-01 06:00:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "S&P 500, Nasdaq and Dow futures were little changed at Monday's open."
-    },
-    {
-      "id": "4909094",
-      "time": "2026-06-01 06:00:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報73.55美元/盎司。"
-    },
-    {
-      "id": "4909093",
-      "time": "2026-06-01 06:00:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破89美元/桶，日內漲1.88%。"
-    },
-    {
-      "id": "4909092",
-      "time": "2026-06-01 06:00:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報74.00美元/盎司。"
-    },
-    {
-      "id": "4909091",
-      "time": "2026-06-01 06:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守74美元/盎司，日內跌2.47%。"
-    },
-    {
-      "id": "4909090",
-      "time": "2026-06-01 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報88.83美元/桶。"
-    },
-    {
-      "id": "4909089",
-      "time": "2026-06-01 06:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報92.52美元/桶。"
     }
   ]
 }
