@@ -1,7 +1,321 @@
 {
-  "updated": "2026-06-07 08:52:04",
-  "count": 18884,
+  "updated": "2026-06-07 09:27:00",
+  "count": 18895,
   "items": [
+    {
+      "id": "4921576",
+      "time": "2026-06-07 09:25:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌申請在美釋放3200萬隻不育蚊子 以阻斷相關傳染病傳播】據美國方面近日訊息稱，美國谷歌公司正在申請美國聯邦政府批准，計劃在佛羅里達州和加利福尼亞州釋放多達3200萬隻不育蚊子，以減少傳播傳染病的蚊子數量。該計劃將使用一種被“沃爾巴克氏菌”感染而喪失生育能力的雄蚊。由於雄蚊不叮咬人類，因此不會有傳播疾病的風險。這種雄蚊與野外雌蚊交配後，蟲卵將無法孵化，從而導致下一代無法出生。透過向野外釋放這種不育雄蚊，可以實現蚊子數量隨世代更替而逐漸減少。（央視新聞）"
+    },
+    {
+      "id": "4921575",
+      "time": "2026-06-07 09:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【考場禁止攜帶智慧眼鏡】2026年全國統一高考今天（7日）開考。為築牢高考公平底線，各地全面加強考場管理，已實現無線電訊號遮蔽全覆蓋；針對智慧眼鏡等違規物品，各地已開展專項部署、配套防範指南，重點防範和打擊高科技作弊，全力維護考試公平公正。在北京市第二中學考點，記者看到，考場的紀律提示明確了禁止攜帶智慧眼鏡進入考點，並就防範智慧眼鏡作弊給出了具體的操作指引。在廣州，各考點重點增強了安檢門對智慧眼鏡等隱蔽式穿戴裝置的識別能力。在廣州，考試過程中，一旦AI識別出考生或監考員有異常行為，監控系統會自動擷取異常行為前後的錄影片段，供稽核員進一步確認。在海南，各考點則實現智慧安檢、影片監控、AI智慧巡考的全覆蓋。此外，江蘇南京、江西新餘等地還組織對考點周邊進行無線訊號測試與安全排查，護航廣大考生公平應考。（央視財經）"
+    },
+    {
+      "id": "4921574",
+      "time": "2026-06-07 09:24:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【每年發放最高5億元“訓力券”，深圳為AI模型研發和訓練“減負”】深圳將啟動新一輪訓力券兌現資助行動，6月5日，記者從深圳市科技創新局獲悉，已完成租用智慧算力，為深圳創新主體開展AI大模型訓練（包括預訓練、有監督微調、強化學習等）、推理（階段性訓練成果的驗證性推理）服務事項的服務機構，可以對創新主體支付的深圳市訓力券申請兌現。符合條件的機構可從即日起至7月3日18:00，登入深圳市科技業務管理系統線上填報申請書。記者從《2026年度第二批深圳市訓力券兌現專案申請指南》中獲悉，單個持券單位資助資金不超過1000萬元。持券單位以所持訓力券抵扣支付智慧算力服務專案的兌現金額，不超過服務合同實際結算總費用的50%。如屬初創企業的，不超過服務合同實際結算總費用的60%，以審定的兌現金額為準，同時不超過接受的訓力券金額。（21財經）"
+    },
+    {
+      "id": "4921573",
+      "time": "2026-06-07 09:23:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千人以上規模企業的生成式AI應用率突破60%】調查顯示，日本員工規模超千人的企業中，超六成已使用生成式人工智慧。一項調查發現，日本千人以上規模企業的生成式AI應用率突破60%，全行業整體應用率為34.5%。不少企業表示該技術提升了工作效率，但也對其內容準確性存有顧慮。這份由民間調研機構在3月開展的調查共回收10312份有效企業問卷。資料顯示，千人以上企業應用率達63.6%，而員工數不超過五人的小微企業應用率僅為29.6%。"
+    },
+    {
+      "id": "4921572",
+      "time": "2026-06-07 09:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州金店每克跌近400元】“今天的金價是今年以來最低的價格。”6月6日，“金價跌回2025年”衝上熱搜。記者走訪鄭州金多銀多及多家品牌金店瞭解到，部分國內品牌金飾價格一夜間跌了將近40元/克，金價已基本與2025年年底持平。 （大河財立方）"
+    },
+    {
+      "id": "4921571",
+      "time": "2026-06-07 09:21:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬來西亞資料中心擴張 能源轉型遇挑戰】馬來西亞立志打造東南亞資料中心之都，以此佈局未來經濟，同時也承諾在2050年前削減化石燃料使用。但目前，這兩大發展目標背道而馳，而天然氣能源的使用正佔據上風。 馬來西亞投資發展局資料顯示，2021年至2025年年中，該國獲批的資料中心及雲端計算相關投資總額達1444.4億林吉特（摺合363億美元），微軟、谷歌、亞馬遜雲科技等大型人工智慧企業均在此作出重磅投資承諾。 數量龐大的伺服器機櫃晝夜不停運轉，需要消耗巨量電力，同時還需配套製冷裝置防止硬體過熱，而這類設施的供電來源正日益轉向燃氣發電。 馬來西亞電網運營機構的資料顯示，今年4月該國燃氣發電量同比大增50.5%，創下至少八年來最大同比漲幅，發電量達到55.4億千瓦時的歷史新高。 馬來西亞能源委員會在4月釋出的年度報告中證實，受資料中心擴容、社會電氣化、極端天氣以及電動汽車普及等因素影響，該國去年用電量就已創下歷史新高。"
+    },
+    {
+      "id": "mkt:019e9fab-0cc6-7665-8315-8b5b0c52041f",
+      "time": "2026-06-07 09:20:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan names Philippines top priority for oil-reserve support】Nikkei reports Japan’s government and the Japan International Cooperation Agency (JICA) will begin as early as this summer surveys of public and private oil storage systems across Southeast Asia, covering the Philippines, Vietnam, Indonesia and Thailand. Japan has designated the Philippines as its top priority for strengthening regional energy supply chains; Vietnam is classified as a \"priority support\" country."
+    },
+    {
+      "id": "4921570",
+      "time": "2026-06-07 09:18:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國投資者持續買入中國硬科技】近期，韓國投資者正持續加碼佈局中國硬科技資產。資料顯示，過去1個月，寒武紀、麥格米特、機器人ETF華夏、寧德時代等成為最受韓國投資者青睞的A股投資標的，AI晶片龍頭寒武紀更是獲得近2000萬美元淨買入。此外，多隻在美上市的海外中國科技ETF也迎來資金顯著淨流入。多家外資機構認為，中國科技領域兼具高增長空間與估值優勢，在全球資產配置中具備稀缺投資價值，海外資金正加速捕捉中國科技產業發展紅利。 (上海證券報)"
+    },
+    {
+      "id": "4921569",
+      "time": "2026-06-07 09:17:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【好萊塢員工集會抗議派拉蒙與Skydance的交易】週六，在抗議派拉蒙天舞（Paramount Skydance）擬收購華納兄弟探索公司（Warner Bros. Discovery）的集會上，單口喜劇演員亞當·科諾弗（Adam Conover）將當前的媒體整合描述為對該行業的生存威脅，而正是這個行業使美國成為文化強國。“這個行業即將消亡，這就是我為何對此事如此熱忱的原因，”他說。約100人聚集在洛杉磯的盧米埃音樂廳參加此次活動，該活動由倡導團體、美國編劇工會以及希望就此次合併表達關切的行業從業者共同組織。在派拉蒙公司保證該交易不會損害其他製片廠或創意人才利益的背景下，美國反壟斷監管機構似乎準備批准此次合併。執行長大衛·埃利森承諾，合併後的派拉蒙和華納製片廠將保持高產，每年至少推出30部電影。"
+    },
+    {
+      "id": "mkt:019e9fa7-0eac-7665-8315-87943e574242",
+      "time": "2026-06-07 09:16:26",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【MERZ says coalition can advance reforms and modernization】MERZ said he believes current difficulties can be overcome and Germany could show a new development profile within a short period. He said the governing coalition, despite internal disagreements on some issues, can push reforms while staying united and identified priorities: digitalization, administrative streamlining, infrastructure upgrades and securing energy supply. He added Germany can build a more efficient rail network, boost data transmission capacity, remain competitive in modern climate‑protection technologies and assemble one of Europe’s most capable conventional armed forces."
+    },
+    {
+      "id": "mkt:019e9fa6-bdc8-7665-8315-78ccf744f31e",
+      "time": "2026-06-07 09:16:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact mixed",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【China moves to curb rising weight of new‑energy vehicles】China's new‑energy passenger cars have grown heavier: average curb weight reached 1,704 kg in 2024, roughly 400 kg above 2012 levels, and many family EVs now approach 2 tonnes as vehicle widths rose from about 1.7 m in the 2000s to ~1.8 m by 2015. Automaker engineers say each additional 10 mm of body width allows roughly 0.8 kWh more battery capacity, and some manufacturers fit very large battery packs—around 700–800 kg—to claim 800–1,000 km ranges. A mandatory national energy‑consumption standard that took effect on Jan. 1 this year bars the Ministry of Industry and Information Technology from recording new models that fail the standard, effectively preventing non‑compliant vehicles from being produced, sold or registered; regulators say the rule aims to restrain the trend toward heavier EVs."
+    },
+    {
+      "id": "4921568",
+      "time": "2026-06-07 09:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國總理默茨：執政聯盟具備推進改革與現代化建設的能力】6月6日，德國總理默茨在梅克倫堡-前波莫瑞州基民盟州黨代表大會上表示，儘管執政聯盟內部在部分議題上存在分歧，但聯盟仍具備“推動改革和保持團結協作”的能力。他相信，當前面臨的困難能夠得到克服，德國有望在較短時間內展現新的發展面貌。談及改革重點時，默茨提到數字化建設、簡化行政程式、改善基礎設施和保障能源供應等領域。他表示，德國有條件建設更加高效的鐵路運輸體系、提升資料傳輸能力，並在現代氣候保護技術領域保持國際競爭力。同時，德國也有能力建設歐洲最具實力的常規武裝力量之一。（央視新聞）"
+    },
+    {
+      "id": "4921567",
+      "time": "2026-06-07 09:14:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局升級暴雨應急響應為三級】預計6月7日至8日，西南地區東部、江南、華南等地有大到暴雨，其中，四川東南部、重慶中部、貴州東部和南部、廣西北部和南部沿海地區、廣東珠江口地區、福建東南部等地部分地區有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。中央氣象臺已釋出暴雨黃色預警。經綜合研判和應急會商，中國氣象局升級調整重大氣象災害（暴雨、強對流）Ⅳ級應急響應為（暴雨）Ⅲ級應急響應。"
+    },
+    {
+      "id": "4921566",
+      "time": "2026-06-07 09:14:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【增進合作互信 共赴和平之約 中哈吉俄塔共同組織年度首輪邊境裁軍履約視察】5月27日至6月4日，由哈薩克、吉爾吉斯斯坦、俄羅斯、塔吉克4國組成的聯方軍事視察組，位中俄邊界東段進行邊境裁軍履約視察。這是中聯雙方今年首輪邊境裁軍履約視察活動。根據中哈吉俄塔1996年簽署的《關於在邊境地區加強軍事領域信任的協定》和1997年簽署的《關於在邊境地區相互裁減軍事力量的協定》（合稱“兩個協定”），中方和聯方（哈吉俄塔）的軍事視察組每年對對方邊境地區100公里範圍內的軍事力量和技術裝備等進行4輪8次裁軍履約視察。在中方人員陪同下，聯方軍事視察組一行9人從同江口岸入境，首先對北部戰區陸軍某邊防旅巡邏艇大隊進行為期3天的邊境裁軍履約視察。聯方視察組聽取中方人員對部隊駐地、營區分佈、人員在位等情況的介紹說明，隨後對該大隊裝備庫室、營院等進行現地視察。視察組對中方履約工作情況給予充分肯定，並簽署了視察報告。（國防部發布）"
+    },
+    {
+      "id": "4921565",
+      "time": "2026-06-07 09:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遊客三亞海灘遭商家攔路收費手機被砸？官方闢謠】海南陵水旅遊和文化廣電體育局6月6日晚通報：6月5日，有網民釋出訊息稱“遊客疑似在三亞海灘拍照遭商家攔路收費，手機被砸，幸得正義路人與警察及時出手相助”。針對該資訊，我局高度重視，第一時間開展核查。經核實，該事件實際發生於2026年2月4日在陵水土福灣沙灘，事發後相關部門已迅速介入處理，並依法依規對涉事人員作出了相應處罰。近期我轄區未發生過類似事件，該網傳資訊純屬舊聞翻炒、移花接木。"
+    },
+    {
+      "id": "4921564",
+      "time": "2026-06-07 09:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省印發工作方案 加快具身智慧機器人資料集建設】近日，江蘇省工信廳印發《加快具身智慧機器人資料集建設工作方案》，圍繞拓寬採集場景夯實資料來源頭供給、強化創新支撐提升資料賦能質效、健全標準體系規範資料流通交易、深化協同聯動構建良性發展生態4個方面，提出11條具體舉措，加速搶抓人工智慧終端發展戰略機遇。高質量資料集是人工智慧大模型訓練、推理和驗證的關鍵基礎，是按照特定標準，經過採集、清洗、歸類和標註等智慧化處理，具有相應更新和維護機制的資料集合。此次工作方案對各部門按職責進行了詳細分工，並提出具體工作要求和目標。比如，引導開放真實應用場景，每年開放低敏感、高價值真實應用場景不低於100個；支援具身智慧機器人整機企業與下游使用者組建聯合體，進入工業製造、民生服務、特種環境等領域真實場景開展資料採集，對符合條件的單個專案支援額度最高100萬元；加快具身智慧機器人領域資料適配、演算法迭代、整機實測、場景驗證等一體化中試平臺建設，鼓勵龍頭企業、高校院所聯合開展“標準化資料集+輕量化行業模型+智慧體”協同創新；聚焦資料採集、預處理、標註、質量評價等重點環節，分類分層推進不少於30項相關標準制修訂等。"
+    },
+    {
+      "id": "4921563",
+      "time": "2026-06-07 09:10:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：伊朗駐墨西哥大使稱，伊朗隊被告知必須在世界盃比賽日當天入境和離開美國】據法新社等媒體報道，伊朗駐墨西哥大使帕桑迪德週六（6日）表示，參加2026美加墨世界盃的伊朗國家足球隊已被告知，他們必須在比賽日當天入境和離開美國。“我們可以早上入境，但必須當天離開。” 帕桑迪德當天向記者解釋簽證限制情況時說道。（環球網）"
+    },
+    {
+      "id": "mkt:019e9fa0-8c8f-7665-8315-745d94d0cf7e",
+      "time": "2026-06-07 09:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO prepares €70 bln Ukraine military support plan】Several NATO diplomats said member states are preparing a new €70 billion military support package for Ukraine, expected to be unveiled at the NATO summit in July. Proposed by Germany, the plan would establish a new mechanism to boost transparency of member contributions and rebalance burden-sharing. A Kiel Institute report said European countries’ monthly military aid averaged €2.0 bln in Jan–Apr this year, below €2.4 bln per month in the same period of 2025, and that the US provided no military support during Jan–Apr."
+    },
+    {
+      "id": "4921562",
+      "time": "2026-06-07 09:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約醞釀700億歐元對烏新支援計劃】多位北約外交官近日表示，北約成員國正在醞釀總額達700億歐元的對烏克蘭新軍事支援計劃，具體方案預計在7月份舉行的北約峰會上公佈。該提案由德國提出，旨在透過建立新的機制，提高北約各成員國對烏支援資金的透明度，並平衡北約內部的分擔比例。據德國“基爾世界經濟研究所”日前釋出的報告，今年1到4月，歐洲各國每月向烏克蘭提供的軍事支援為20億歐元，低於2025年同期的每月24億歐元。報告還顯示，在此期間，美國沒有向烏克蘭提供任何軍事支援。（央視新聞）"
+    },
+    {
+      "id": "4921561",
+      "time": "2026-06-07 09:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受美以伊戰事及外溢影響 德國經濟增長壓力加劇】美以伊戰事爆發以來，作為歐洲最大經濟體，德國經濟正面臨能源價格波動、企業成本上升和外部需求疲軟等多重挑戰。根據總檯記者觀察，持續緊張的中東局勢可能進一步拖累德國經濟的復甦程序。總檯記者賀俊強：德國聯邦統計局的資料顯示，德國經濟在經歷連續兩年低增長後，2026年仍處於艱難復甦階段。當前，中東局勢帶來的不確定性正成為影響德國經濟前景的重要外部風險因素。德國經濟界人士指出，德國製造業高度依賴能源供應，化工、鋼鐵、汽車等行業對能源成本變化尤為敏感。如果國際原油價格長期維持高位，德國企業生產成本將進一步上升，削弱國際競爭力。（央視新聞）"
+    },
+    {
+      "id": "4921560",
+      "time": "2026-06-07 09:04:27",
+      "tags": [
+        "焦點",
+        "原創"
+      ],
+      "text": "【酒價內參6月7日價格釋出：飛天茅臺大漲 總價創三日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月7日整體繼續回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9897元，較昨日溫和上漲9元，創下近三日以來新高。市場在前天創下近50天新低後持續修復，終端交投情緒有所回暖，今日頭部核心單品集體大幅走強，而腰部及次高階品種則普遍承壓。\n\n今日白酒市場11大單品四漲五跌兩平，輸家數量略佔優勢，但其跌幅相對溫和。上漲方面，飛天茅臺漲幅居前，大幅上漲11元/瓶，創近三週最大漲幅，價格快速回升至月內高位；習酒君品上漲7元/瓶，回補昨日全部跌幅，但仍囿於月內次低位；精品茅臺上漲6元/瓶，二連漲穩守2410線之上；五糧液普五八代上漲5元/瓶。下跌方面，洋河夢之藍M6+與青花郎均下跌6元/瓶，前者平月內最大跌幅紀錄，價格創月內新低，後者昨日自底部反彈，但今日再度回落，跌至月內次低位；國窖1573下跌4元/瓶，遭遇四連陰，再創月內最低價紀錄；水晶劍南春下跌3元/瓶，回吐昨日全部漲幅；古井貢古20小幅下跌1元/瓶。五糧液1618與青花汾20價格環比保持不變。"
+    },
+    {
+      "id": "4921559",
+      "time": "2026-06-07 09:04:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破61000美元，日內漲0.34%。"
+    },
+    {
+      "id": "4921558",
+      "time": "2026-06-07 09:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部6日在社交媒體上發文說，當天早些時候，美軍擊落了兩架伊朗單向攻擊無人機。（新華社）"
+    },
+    {
+      "id": "4921557",
+      "time": "2026-06-07 09:02:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國乘用車12年胖了近400公斤 我國新能源車要減肥了】資料顯示，2024年，我國乘用車平均整備質量達1704公斤，比2012年足足“胖”了近400公斤。此外，2000年前後，市場常見的家用新能源汽車，車寬多在1.7米。2015年，寬度增加到1.8米。本週，動輒接近2噸重的家用車，正因為變大變胖，引發大家討論。車企工程師表示，新能源汽車車身每增加10毫米寬度，大約能多塞進0.8度電。但專家說，車輛變“胖”不僅這一個原因。專家介紹：有些車企透過續航里程做賣點，號稱車可以充一次電開800公里、1000公里，其實背後是要在車裡面裝一個很大的電池包，一個大的電池包可能有七八百公斤。甚至有些車企把馬桶都設計到車裡去了，就是為了讓車企的產品在市場中脫穎而出。今年1月1日，一項針對電動汽車的強制性國標正式實施。凡是能耗不達標的新車型，工信部將不予備案，車輛無法生產、銷售、上牌，引導車企遏制電動汽車日益“肥胖”的趨勢。未來，新能源汽車，或將有望迴歸到標準身材。 (央視財經)"
+    },
+    {
+      "id": "4921556",
+      "time": "2026-06-07 09:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Offshore Alliance稱，Inpex澳大利亞廠區的勞資行動將於6月11日升級。 該聯盟聯合澳大利亞工人工會、澳大利亞海員工會表示，Inpex已於週六退出公平工作委員會的談判，雙方暫無後續協商安排。"
+    },
+    {
+      "id": "4921555",
+      "time": "2026-06-07 09:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國選舉資料網站 DDHQ 預測，Young Kim 將在加州眾議院第 40 選區初選中躋身兩名勝出者之列。"
+    },
+    {
+      "id": "4921554",
+      "time": "2026-06-07 08:58:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美以伊衝突百日影響持續外溢 伊拉克推進民兵武裝整合】6月7日，美以伊衝突進入第100天。百日以來，中東安全域性勢持續動盪，地區軍事對抗和地緣政治博弈不斷升級。伊拉克作為美國在中東重要軍事部署所在地，也是伊朗、美國等外部力量長期角逐的樞紐，持續承受著衝突外溢壓力。部分支援伊朗的什葉派民兵武裝多次針對伊拉克境內美方目標發動襲擊，引發外界對伊拉克安全域性勢再度惡化的擔憂。（央視新聞）"
+    },
+    {
+      "id": "4921553",
+      "time": "2026-06-07 08:57:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【江蘇：全年結算11.3億次，其中三分之一為刷臉支付】記者近日走進江蘇省醫保資料賦能實驗室，沉浸式感受江蘇醫保的“數智大腦”是如何高速運轉的。“每天省醫保平臺結算達310萬人次，全年累計11.3億次，其中三分之一為刷臉支付。”現場工作人員介紹，該實驗室啟用一年多來，已累計歸集30多年標準化、規範化的醫保歷史資料，實時連線全省近5萬家定點醫藥機構，每天醫保資料量還在持續快速增長。據介紹，江蘇率先出臺《“人工智慧+”醫療保障行動方案》，明確提出到2027年建成50個以上智慧體，初步形成人工智慧重構醫保業務框架體系；到2030年，人工智慧全面應用於醫保全行業各領域。這意味著，在人工智慧的加持下，群眾看病結算將更便捷，基金監管更安全，醫藥價格更透明。（新華日報）"
+    },
+    {
+      "id": "mkt:019e9f96-1130-7665-8315-6cdcb479298a",
+      "time": "2026-06-07 08:57:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Baogang says it has mass-produced extreme‑cold ultra‑high‑strength rare‑earth wear‑resistant steel】Baogang Co. said it has developed and begun mass production of an extreme‑cold, ultra‑high‑strength rare‑earth wear‑resistant steel, breaking what the company described as a foreign firms’ technical monopoly. The product has entered industrial production; the first batch passed performance tests with strong results and is scheduled for imminent delivery to customers for commercial use."
+    },
+    {
+      "id": "4921552",
+      "time": "2026-06-07 08:57:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：今天早些時候，美國在中東的部隊擊落了兩架伊朗單向攻擊無人機，這些無人機威脅到霍爾木茲海峽的國際海上交通。"
+    },
+    {
+      "id": "mkt:019e9f94-612b-7665-8315-675b2c8227ef",
+      "time": "2026-06-07 08:56:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. military said U.S. forces shot down two Iranian attack drones in the Strait of Hormuz on Saturday local time after the aircraft threatened maritime traffic."
+    },
+    {
+      "id": "4921551",
+      "time": "2026-06-07 08:55:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲滯留船隻密密麻麻】美以伊戰事100天了，總檯記者探訪霍爾木茲海峽：海域風平浪靜，連一艘正在穿越的大型商船都難以見到。在錨地，密密麻麻停著上百艘船隻，大部分是貨船。當地人介紹，不少船隻已滯留數週，船員們依舊生活在船上，由快艇向他們運送生活物資。目前，即便已有部分船隻恢復通行，霍爾木茲海峽的航運活動仍遠未回到衝突前的水平。與此同時，波斯灣內至今仍有數百艘商船和約2萬名海員處於滯留狀態。霍爾木茲海峽何時完全恢復通航至今仍是未知數。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e9f93-4d2a-7665-8315-58f14744f531",
+      "time": "2026-06-07 08:54:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Hundreds of commercial vessels anchored off Strait of Hormuz; about 20,000 crew stranded】A visit to the Strait of Hormuz found calm seas but few transits. Hundreds of vessels—mostly cargo ships—are densely anchored at roadsteads after being delayed for weeks; crew remain onboard and supplies are ferried by fast boats. Some ships have resumed passage, but overall shipping through the strait remains far below pre-conflict levels. Several hundred commercial vessels and roughly 20,000 seafarers remain stranded in the Persian Gulf. Timing for full reopening of the strait is unknown."
+    },
+    {
+      "id": "4921550",
+      "time": "2026-06-07 08:53:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度近六成】農業農村部最新小麥機收進度顯示，全國夏糧小麥收穫進度已達58.87%。據農業農村部最新小麥機收進度，截至6月6日17時，全國已收穫夏糧小麥2億畝，收穫進度58.87%。安徽麥收進度過九成半，河南過九成，江蘇過五成半，陝西、山東過兩成半，河北、山西近一成。（央視新聞）"
+    },
+    {
+      "id": "4921549",
+      "time": "2026-06-07 08:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列記者Yossi Melman表示，近期有關以色列情報機構針對美國開展活動的報道，需結合美國國內圍繞伊朗局勢的政治態勢來看。梅爾曼否認相關報道意味著以色列情報工作出現轉向，認為這些說法實則源於美國國內各方輿論博弈。他表示，此事本質是圍繞伊朗衝突的責任歸屬與後續影響，各方爆發政治分歧的體現。"
+    },
+    {
+      "id": "mkt:019e9f90-92ba-7665-8315-503aa93ed6bc",
+      "time": "2026-06-07 08:51:52",
+      "tags": [
+        "MKT News",
+        "EWY",
+        "Impact bearish"
+      ],
+      "text": "【Bulls hedge as concerns mount that South Korean stocks are overheating】Optimism in South Korean equities is cooling, prompting institutional investors to trim positions and buy protection. Hedge fund Golden Horse has cut risk exposure and increased derivatives hedges; Prudential reduced stakes in storage-chip and wafer-foundry names and shifted toward downstream AI supply‑chain exposure. Options flow shows investors buying puts on the iShares MSCI Korea ETF; the ETF fell 14% in US trading last Friday. Golden Horse managing partner Yi Ling Ong said, “In recent weeks we’ve modestly trimmed overall positions and layered on derivatives hedges,” and added that several large IPOs this month, including SpaceX, are expected to prompt institutions to raise cash, so “holding some cash is prudent.”"
+    },
     {
       "id": "4921548",
       "time": "2026-06-07 08:51:29",
@@ -173965,236 +174279,6 @@
         "其他"
       ],
       "text": "【京東：618開場四小時，百大品牌成交額平均增長超五倍】5月30日晚八點，京東618正式開啟，截至零點，該平臺百大品牌成交額同比平均增長超五倍。今年參加京東618的新商家數量同比增長超62%，開場四小時，首次參加京東618的51個新商家成交額破千萬、1516個新商家成交額破百萬。"
-    },
-    {
-      "id": "4908531",
-      "time": "2026-05-31 09:25:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美媒：特朗普對美伊協議的修改建議涉及核材料獲取與霍爾木茲海峽】據媒體網站報道，一名高階行政當局官員和另一位知情人士透露，特朗普在週五於局勢研究室舉行的一場會議中，要求對其特使與伊朗代表達成的擬議協議進行多項修改。兩名美國官員表示，特朗普希望達成該協議，並預計將很快敲定，但他要求強化其中對他而言至關重要的幾個要點，特別是圍繞伊朗核材料的相關條款。特朗普的這一要求引發了雙方新一輪的來回溝通，這一過程可能持續數天。據兩位訊息人士透露，特朗普要求其團隊修改草案中有關伊朗核計劃的條款。當前該諒解備忘錄包含伊朗承諾不尋求發展核武器，但除此之外沒有具體的讓步內容。備忘錄規定，將有一個為期60天的視窗期，用於就伊朗的核承諾和美國的制裁減免進行談判，議程上的首要問題是如何處置伊朗現有的濃縮鈾庫存以及限制進一步的濃縮活動。特朗普希望嘗試修改這一部分。“這更多是關於美國如何獲取（核）材料以及具體時間安排的具體細節，”一位高階行政當局官員在談及濃縮鈾時表示。第二位訊息人士稱，特朗普還希望修改有關重新開放霍爾木茲海峽的部分措辭。這位美國官員表示，特朗普已獲知，伊朗方面大約需要三天時間才能給出回應。"
-    },
-    {
-      "id": "4908530",
-      "time": "2026-05-31 09:24:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美官員透露：特朗普提出更強硬條款 試圖施壓伊朗加快談判程序】總檯記者當地時間5月30日獲悉，有多名美國官員透露，美國總統特朗普已大幅度修改並收緊有關結束美伊戰事的意向性諒解備忘錄的條款。修改後的內容已被送交伊朗方面審議。美官員透露說，修改的方案更強硬，旨在透過向伊朗施壓，加快談判程序，促使其接受此前已提交給伊朗最高領袖穆傑塔巴·哈梅內伊的框架內容。有兩名美國官員透露，特朗普對該備忘錄中有關解凍伊朗海外資產的內容存在異議。目前，美國和伊朗官方尚未就美方修改諒解備忘錄內容事宜作出明確表態。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e7ba1-cc0f-7bb7-996c-21137e8c2501",
-      "time": "2026-05-31 09:24:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Axios: Trump seeks changes to US-Iran draft on nuclear material access and Strait of Hormuz】Axios, citing a senior administration official and another person familiar, reported President Trump asked on Friday for multiple changes to a proposed agreement his envoys reached with Iran, pressing for stronger provisions on US access to Iranian nuclear material and tighter timing. The draft memorandum contains Iran’s pledge not to pursue nuclear weapons but lacks detailed concessions; it sets a 60-day window to negotiate Iran’s nuclear commitments and US sanctions relief. The primary market-relevant issues are disposition of Iran’s existing enriched‑uranium stockpile and limits on further enrichment; officials said Trump wants to revise how and when the US would obtain material. He also sought edits to wording on reopening the Strait of Hormuz. The requests have prompted another round of exchanges that could take several days; officials said Iran would likely need about three days to respond. Two US officials said Trump still wants the deal and expects it to be finalized soon, but insisted on tightening key points."
-    },
-    {
-      "id": "mkt:019e7ba1-4a03-7bb7-996c-1cd1c755ffd4",
-      "time": "2026-05-31 09:23:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Automobile Dealers Association: May 2026 Vehicle Inventory Alert Index (VIA) 57.9%】China Automobile Dealers Association's latest Vehicle Inventory Alert Index (VIA) for May 2026 was 57.9%, up 5.2 percentage points YoY and down 4.2 percentage points MoM, remaining above the 50% threshold."
-    },
-    {
-      "id": "mkt:019e7b9d-db00-7bb7-996c-10b1e71005ed",
-      "time": "2026-05-31 09:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China's official manufacturing PMI for May due in 10 minutes."
-    },
-    {
-      "id": "mkt:019e7b9d-352b-7bb7-996c-0b88336ecb72",
-      "time": "2026-05-31 09:19:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NHSA issues 2026 drug‑list adjustment plan and related rules】The National Healthcare Security Administration (NHSA) today released the 2026 adjustment work plan for the national basic medical insurance, maternity insurance and work‑injury insurance drug list and for the commercial health insurance innovative drug list. NHSA also published the 2026 application guide for the adjustments, rules for renewal of negotiated drugs, competitive‑bidding rules for non‑exclusive drugs, and a 2026 FAQ to aid stakeholder understanding."
-    },
-    {
-      "id": "4908529",
-      "time": "2026-05-31 09:17:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局釋出2026年國家醫保目錄調整工作方案】國家醫保局今天釋出《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整工作方案》《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整申報指南》《談判藥品續約規則》以及《非獨家藥品競價規則》。同時，為幫助社會各界加深對政策的理解，組織編制了《國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整常用問答（2026年版）》。（央視新聞）"
-    },
-    {
-      "id": "4908528",
-      "time": "2026-05-31 09:15:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月31日 NIO Power 9站上線】據蔚來，5月31日，NIO Power 9站上線。截至目前，蔚來全國建成8933座充換電站，其中換電站3886座，充電站5047座、充電樁29033根。"
-    },
-    {
-      "id": "mkt:019e7b98-e165-7bb7-996c-07021c136c41",
-      "time": "2026-05-31 09:14:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "According to Fox News, Trump said he is obtaining what he wants from Tehran slowly and steadily, and that if this cannot be achieved he will end the conflict in a completely different way."
-    },
-    {
-      "id": "mkt:019e7b98-a05d-7bb7-996b-faf440c30694",
-      "time": "2026-05-31 09:14:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported Trump said Iranians are experienced negotiators, that talks will take time and he is not in a hurry."
-    },
-    {
-      "id": "4908527",
-      "time": "2026-05-31 09:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：如果協議對美國不公平，將再次使用軍事手段】據報道，特朗普表示，與伊朗的協議非常接近，如果協議對美國不公平，將再次使用軍事手段。特朗普表示，最佳的外交選擇是簽署協議，因為這意味著霍爾木茲海峽將立即重新開放航行。特朗普稱，他堅持的唯一且基本的保證是防止伊朗獲得核武器。伊朗人已經同意不發展或購買核武器。"
-    },
-    {
-      "id": "mkt:019e7b96-f59b-7bb7-996b-f33f9971fb77",
-      "time": "2026-05-31 09:12:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Fox News, Trump said his sole, fundamental guarantee is to prevent Iran from obtaining nuclear weapons; he said Iranians have agreed not to develop or acquire such weapons."
-    },
-    {
-      "id": "mkt:019e7b96-7725-7bb7-996b-e8cef1d37a52",
-      "time": "2026-05-31 09:11:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fox News: Trump said the best diplomatic option is to sign an agreement, as that would immediately reopen navigation through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e7b96-5c7e-7bb7-996b-e051e883db80",
-      "time": "2026-05-31 09:11:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "According to Fox News, Trump said an agreement with Iran is very close and that the United States would use military force again if the deal were unfair."
-    },
-    {
-      "id": "4908526",
-      "time": "2026-05-31 09:11:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭無人機襲擊俄羅斯薩拉托夫煉油廠。"
-    },
-    {
-      "id": "4908525",
-      "time": "2026-05-31 09:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國汽車流通協會：2026年5月中國汽車經銷商庫存預警指數為57.9%】2026年5月31日，中國汽車流通協會發布的最新一期“中國汽車經銷商庫存預警指數調查”VIA（Vehicle Inventory Alert Index）顯示，2026年5月中國汽車經銷商庫存預警指數為57.9%，同比上升5.2個百分點，環比下降4.2個百分點，庫存預警指數位於榮枯線之上。"
-    },
-    {
-      "id": "4908524",
-      "time": "2026-05-31 09:05:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三項戰略合作落地 陝港產業資本合作再深化】據陝西日報，5月29日，“聚力西部產業叢集·連結全球出海新機遇交流會”在西安舉辦。會議期間，三項戰略合作落地，旨在打通陝港合作壁壘、構建常態化賦能機制、為西部企業全球化提供全面支撐。這標誌著陝港產業資本合作邁入系統化、長效化新階段。香港中小上市公司協會西北代表處成立，將紮根陝西、輻射西北，為西部企業提供赴港上市、跨境資本對接、市值管理一站式落地服務。香港中小上市公司協會與西安翻譯學院簽約共建人才培養基地，將聯合打造跨境金融、上市服務、國際商務人才培養體系，透過校企協同構建專業化、國際化人才梯隊。香港中小上市公司協會、陝西資本市場服務中心、陝西省創業投資協會、中信銀行西安分行進行戰略合作簽約，將整合上市輔導、創投資本、跨境金融和產業資源，構建“上市培育+資本賦能+金融服務+產業升級”一體化支撐體系，為西部企業全球化提供全鏈條保障。"
-    },
-    {
-      "id": "4908523",
-      "time": "2026-05-31 09:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社31日報道，伊朗伊斯蘭革命衛隊說，一架美軍MQ-1無人機當天凌晨進入伊朗領海上空，伊方迅速發現並使用導彈將其擊落。（新華社）"
-    },
-    {
-      "id": "4908522",
-      "time": "2026-05-31 09:04:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月31日價格釋出：古井貢古20與習酒君品領跌 總價再創40天新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價5月31日整體繼續下行。如果主要單品各取一瓶整體打包售賣，今日總售價為9890元，較昨日下跌6元，再創過去40天以來最低紀錄。市場在昨日大跌後延續探底，終端交投情緒偏冷，核心單品的漲跌分化依然顯著。今日白酒市場11大單品三漲六跌兩平，輸家繼續佔據優勢。上漲方面，五糧液普五八代漲幅居前，上漲7元/瓶，自月內最低點強勢反彈；國窖1573上漲5元/瓶，收復昨日全部跌幅，重回890元上方；五糧液1618上漲2元/瓶。下跌方面，古井貢古20與習酒君品跌幅居前，均下跌6元/瓶，前者遭遇三連陰，價格快速下探至月內次低位，後者連續兩天大幅下滑，再創月內新低，近一月其價格跌勢迅猛；飛天茅臺、精品茅臺、青花郎與青花汾20均下跌2元/瓶，其中青花汾20與青花郎雙雙遭遇四連陰，前者續創月內新低，後者自月內最高快速回落至月內次低位。洋河夢之藍M6+與水晶劍南春的價格環比保持不變。"
-    },
-    {
-      "id": "4908521",
-      "time": "2026-05-31 09:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026醫藥創新政策論壇在京舉辦 探討產業高質量發展】2026醫藥創新政策論壇在北京舉辦。論壇圍繞生物醫藥產業“新興支柱產業”的歷史性新定位展開探討，共商政策紅利向產業增長實效的轉化路徑。北京市海淀區副區長林航表示，為將創新資源轉化為產業優勢，海淀區將精準發力，利用AI技術為產業賦能，迭代升級專項扶持措施，打通醫保與專病資料壁壘。同時成立北京藥品監管科學創新中心，探索建立從研究者發起的臨床研究(IIT)加速轉化至臨床試驗申請乃至附條件上市的綠色通道，以AI賦能監管創新。面向未來，海淀區將加速形成產業合力，打造“一站式AI重塑醫藥研發新正規化平臺”，努力在全球生物醫藥創新版圖中刻下鮮明的“海淀座標”。（中新網）"
-    },
-    {
-      "id": "4908520",
-      "time": "2026-05-31 09:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國鋁業行業警示：淨零排放相關政策正引發本土民眾反對各類專案。"
-    },
-    {
-      "id": "4908519",
-      "time": "2026-05-31 09:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東省康復醫學會會長竇祖林：繼續推進廣東省康復人才培育團體標準建設工作】“香港、澳門老年人口多，不少老人選擇到灣區內地城市養老，但醫療保障、福利制度需要進一步實現互認互通。”廣東省康復醫學會會長竇祖林30日在廣州表示，灣區跨境康養大有可為，目前已有多項“灣區標準”釋出，涉及養老服務範疇，將整合借鑑港澳成熟照護規範，打通三地康復、康養服務流程。竇祖林稱，今年將繼續推進廣東省康復人才培育團體標準建設工作，以國際視野補短板、以標準體系強根基、以規範建設提質量，讓康養人才從“培養”走向“育成”、從“經驗型”走向“標準型”。（中新網）"
-    },
-    {
-      "id": "4908518",
-      "time": "2026-05-31 08:59:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西重大水利工程建設穩步推進】據陝西日報，據統計，一季度全省新開工重大及面上水利專案651個，加快在建專案1413個；落實投資95.37億元，完成投資72.37億元，同比分別增長15.6％、5.2％，投資規模穩中有增，實現良好開局。一批民生水利工程也在統籌實施。一季度，陝西加快推進農村供水工程及維修養護、中型灌區節水改造、中小河流治理、水土流失綜合治理等專案，完成投資43.67億元，全省規模化供水工程覆蓋農村人口比例達53.93％，民生水利基礎持續夯實。"
-    },
-    {
-      "id": "4908517",
-      "time": "2026-05-31 08:55:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【預計減免關稅近600萬元 封關後首架“零關稅”客機通關】據海南日報，德國當地時間5月26日，新海航海南航空在空客德國交付中心接收一架全新空客A321neo飛機。這是海南自貿港封關運作以來，透過零關稅政策引進的首架民航客機，享受租賃進口全時段進口環節稅款全免。北京時間5月28日，這架客機順利飛抵海南，在海口海關所屬海口美蘭機場海關順利通關。海南自貿港零關稅政策為航空公司降低機隊引進成本、加速運力升級提供了重要支撐。據測算，此架飛機在租賃期內預計可減免關稅近600萬元。根據新海航海南航空2026年飛機引進計劃，後續還將有3架同型飛機按“零關稅”模式引進，預計租賃期內累計減免關稅約1800萬元。"
-    },
-    {
-      "id": "mkt:019e7b85-c9e9-7bb7-996b-dfb7882b2abd",
-      "time": "2026-05-31 08:53:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US, UK, Australia announce plans to develop weapons for unmanned submersibles】At the Shangri-La Dialogue (May 29-31 in Singapore), UK Defence Secretary John Healey said the UK will work with the United States and Australia under the trilateral security partnership to jointly develop new weapons for unmanned submersibles. The UK will allocate £150m (about $200m) to the project. The announcement builds on the 2021 AUKUS pact, under which the US and UK agreed to help Australia build nuclear-powered submarines—a move that has prompted regional concern; the IAEA warned it could set a dangerous precedent and trigger a chain reaction."
     }
   ]
 }
