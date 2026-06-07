@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 22:02:35",
-  "count": 18991,
+  "updated": "2026-06-07 22:06:37",
+  "count": 18990,
   "items": [
+    {
+      "id": "4922027",
+      "time": "2026-06-07 22:05:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部：自3月2日起，以色列侵略造成3613人死亡和11072人受傷。"
+    },
     {
       "id": "4922026",
       "time": "2026-06-07 21:59:10",
@@ -175129,22 +175137,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列北部多地拉響紅色警報。"
-    },
-    {
-      "id": "mkt:019e7e5b-8350-700f-a37e-71460aba6f54",
-      "time": "2026-05-31 22:06:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces says preliminary reports indicate sirens sounded in multiple areas of northern Israel; circumstances are under review."
-    },
-    {
-      "id": "4908917",
-      "time": "2026-05-31 22:05:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：霍爾木茲海峽必須恢復到以前的樣子。"
     }
   ]
 }
