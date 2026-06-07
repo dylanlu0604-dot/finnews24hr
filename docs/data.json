@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-07 12:05:37",
-  "count": 18928,
+  "updated": "2026-06-07 12:09:27",
+  "count": 18925,
   "items": [
+    {
+      "id": "4921663",
+      "time": "2026-06-07 12:08:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首屆人工智慧高質量發展大會啟幕】6月6日，由中國電子商會人工智慧專業委員會主辦的首屆人工智慧高質量發展大會在餘杭啟幕。眾多院士專家、企業代表齊聚一堂，圍繞技術創新、資料治理、產業應用等展開深度交流，共同探索人工智慧高質量、可持續發展路徑。本次大會最大的亮點是設定了“AI重塑智慧製造新方向”“AI創新人才培養”“AI賦能鄉村振興”“AI驅動新質生產力”四大專題研討會，將AI從技術層面拉回到生產力本位上。研討會中，多位產學研界代表就當前AI落地的痛點與趨勢展開了深度探討。截至2025年，餘杭共有人工智慧核心產業企業約180家，以及之江實驗室、良渚實驗室、湖畔實驗室、天目山實驗室四大省實驗室，杭州超重力場、杭州北航國際創新研究院等高能級創新平臺，基本形成了從演算法研發、資料服務到硬體製造的全產業鏈佈局。（杭州日報）"
+    },
+    {
+      "id": "mkt:019ea041-db31-7665-8316-5d1388c7685e",
+      "time": "2026-06-07 12:05:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "FT reports OpenAI is preparing the largest overhaul of ChatGPT since launch, planning to reposition it as a \"super app\" that integrates coding tools and AI agents and to add products executives say will generate more revenue."
+    },
+    {
+      "id": "4921662",
+      "time": "2026-06-07 12:05:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "ABB 執行長表示，受伊朗衝突引發的能源衝擊影響，歐盟必須放寬監管。"
+    },
     {
       "id": "4921661",
       "time": "2026-06-07 12:04:48",
@@ -174487,58 +174515,6 @@
         "其他"
       ],
       "text": "【崔東樹：2026年1-4月鋰電池行業整體呈現“總量高增、結構劇變”的格局】崔東樹發文稱，2026年1-4月鋰電池行業整體呈現“總量高增、結構劇變”的格局，全口徑總需求達67120萬度，同比大幅增長51%。行業增長動力已從傳統新能源車單一驅動，轉向儲能與出口雙輪驅動：新能源車相關需求合計49430萬度，同比增長41%，增速較往年放緩；而儲能等需求累計17690萬度，同比大增90%，成為拉動行業增長的核心引擎，4月單月增速更是高達196%。從結構佔比看，新能源車需求佔比從2025年的83%降至74%，儲能需求佔比則從17%提升至26%，行業增長邏輯已發生根本性轉變。"
-    },
-    {
-      "id": "mkt:019e7c38-dea7-7bb7-996c-f0fd28cc1fd2",
-      "time": "2026-05-31 12:09:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "ISRAELI MILITARY said it is working to degrade HEZBOLLAH's infrastructure and to create conditions for offensive operations."
-    },
-    {
-      "id": "4908587",
-      "time": "2026-05-31 12:09:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：部隊正著手摧毀真主黨設施，為後續攻勢創造條件。"
-    },
-    {
-      "id": "mkt:019e7c38-a44e-7bb7-996c-ee9e780fa0f2",
-      "time": "2026-05-31 12:09:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reported Czech Prime Minister Andrej Babiš said the Czech Republic will not meet NATO's 2% defense-spending target this year."
-    },
-    {
-      "id": "4908586",
-      "time": "2026-05-31 12:07:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷克總理：捷克今年將無法達標北約設定的2%目標。"
-    },
-    {
-      "id": "4908585",
-      "time": "2026-05-31 12:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列表示，軍事行動旨在推進 “前沿防線”。"
-    },
-    {
-      "id": "4908584",
-      "time": "2026-05-31 12:06:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以軍擴大在黎巴嫩南部的地面軍事行動。"
     }
   ]
 }
