@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-07 23:16:22",
-  "count": 18983,
+  "updated": "2026-06-07 23:20:16",
+  "count": 18985,
   "items": [
+    {
+      "id": "4922062",
+      "time": "2026-06-07 23:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "受競爭加劇及美國加徵關稅影響，德國車企一季度營收下滑4%。"
+    },
+    {
+      "id": "mkt:019ea2aa-805a-7ee0-86d0-9f239d47c1c4",
+      "time": "2026-06-07 23:18:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios, citing US officials and two people familiar with the matter, said Israel informed the Trump administration before airstrikes on Beirut's southern suburbs."
+    },
+    {
+      "id": "mkt:019ea2aa-42d5-7ee0-86d0-93a6f44b0594",
+      "time": "2026-06-07 23:18:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Axios, citing Israeli officials, said airstrikes on Beirut's southern suburbs were carried out in response to recent rocket attacks by HEZBOLLAH."
+    },
+    {
+      "id": "4922061",
+      "time": "2026-06-07 23:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國共和黨主導選區重劃後，民主黨需再拿下近兩個百分點的選票，才能贏得眾議院控制權。"
+    },
+    {
+      "id": "mkt:019ea2a9-1c03-7ee0-86d0-8bd15484e8f1",
+      "time": "2026-06-07 23:17:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says he will not unfreeze Iranian assets before a US-Iran deal】Trump told NBC in a program broadcast on the 7th he will not unfreeze Iranian assets or lift any sanctions before the US and Iran reach a peace agreement; in an interview on the 5th he said he would only consider unfreezing assets after both sides reach an agreement. Iran's state broadcaster IRIB on the 7th cited foreign ministry spokesman BAGHAEI saying Iran demands the unfreezing of tens of billions of dollars held in foreign banks and that the US should lift related sanctions."
+    },
     {
       "id": "mkt:019ea2a7-2248-7ee0-86d0-8686761c20f2",
       "time": "2026-06-07 23:15:22",
@@ -175076,34 +175126,6 @@
         "國際"
       ],
       "text": "【算力金屬錫價格暴漲 錫價半年飆漲40%】在金屬世界裡，有一種金屬錫，因為具有導電性好、熔點低、焊接穩定性強等特性，成為半導體先進封裝工藝中的關鍵基礎材料。算力越強，晶片堆疊越密集，錫消耗量就越大，因此被稱為“算力金屬”。隨著人工智慧產業的快速發展，金屬錫的價格，出現明顯上漲，從去年11月的每噸30萬元，漲至目前的每噸42萬元左右，半年上漲40%，處在歷史高位。據瞭解，我國是全球最大的精煉錫生產國和消費國，但受國內錫礦資源品位下滑等因素影響，目前，國內冶煉用錫礦大約三分之二依賴進口。從去年開始，緬甸、印度尼西亞、剛果（金）等錫主產國受到出口限制、地質災害等因素影響，錫供應出現緊缺。業界普遍認為，未來一到兩年，錫價上漲將是長期態勢。此外，採訪中不少企業負責人也表示，隨著下游需求結構的變化，金屬錫產業鏈將逐步向高研發投入、高技術輸出方向發展，這也意味著產業鏈將迎來新一輪洗牌。 (央視財經)"
-    },
-    {
-      "id": "mkt:019e7e9e-f7ff-700f-a37e-e403fabbea51",
-      "time": "2026-05-31 23:20:07",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Lebanon's Health Ministry said Israeli strikes since March 2 have killed 3,412 people."
-    },
-    {
-      "id": "4908957",
-      "time": "2026-05-31 23:18:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國聯合日本、義大利研發的“暴風雨”戰鬥機專案將延期數年，英國皇家空軍預計要到2030年代末乃至2040年代才能列裝該機型。 批評人士指責英國工黨未能撥付相關資金。"
-    },
-    {
-      "id": "4908956",
-      "time": "2026-05-31 23:18:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋關閉伊朗駐迪拜紅新月會醫院，並凍結其相關資產。"
     }
   ]
 }
