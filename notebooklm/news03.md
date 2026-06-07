@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 19:51:20_
-_本檔包含 3942 則快訊，約 705565 字_
+_更新時間：2026-06-07 20:22:49_
+_本檔包含 3947 則快訊，約 705538 字_
+
+---
+
+### 2026-06-04 09:25:17  #其他
+
+【AI音樂平臺Suno融資超4億美元，投後估值54億美元】人工智慧音樂平臺Suno當地時間6月3日宣佈完成超4億美元D輪融資，投後估值54億美元。本輪融資由Bond Capital領投，IVP、Forerunner、Union Square Ventures、Alkeon和Quiet跟投，現有投資者Matrix、Lightspeed、Menlo Ventures和Schroders Capital參投。
+
+---
+
+### 2026-06-04 09:25:07  #市場
+
+富時中國A50指數期貨跌幅擴大至1%。
+
+---
+
+### 2026-06-04 09:25:07  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
+
+FTSE China A50 index futures extended losses to 1%.
+
+---
+
+### 2026-06-04 09:25:02  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+TSMC (TSM.N) CEO said the shift from generative AI to autonomous AI is driving higher token consumption in large language models, boosting demand for compute capacity and advanced semiconductors.
+
+---
+
+### 2026-06-04 09:23:59  #MKT News #00992.HK #Impact bearish #09626.HK #09888.HK
+
+Hong Kong-listed tech names opened lower: Lenovo Group (00992.HK) down over 5%, Bilibili (09626.HK) down over 2%, Baidu (09888.HK), Hua Hong Semiconductor (01347.HK) and SMIC (00981.HK) each down more than 1%.
+
+---
+
+### 2026-06-04 09:23:58  #市場 #焦點
+
+焦煤連續主力合約日內漲4%，現報1427.00元。
+
+---
+
+### 2026-06-04 09:23:50  #MKT News
+
+【Where to Park Spare Cash? Money‑Market Yield Snapshot】Tencent's Licaitong (on-demand plus 7-day annualized yield) ranged 0.7550%–1.1940%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 1.0010%–1.0320%. Alipay's Yu'e Bao 7-day annualized yield ranged 1.0000%–1.0250%.
+
+---
+
+### 2026-06-04 09:23:35  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+TSMC (TSM.N): In its mature-process strategy the company is prioritizing deployment of capacity for specialty process technologies designed to deliver superior yields.
+
+---
+
+### 2026-06-04 09:23:13  #公司
+
+臺積電執行長表示：從生成式人工智慧向智慧體人工智慧的轉型，正推動大型語言模型的令牌消耗攀升，進而提升了對算力與先進半導體的需求。
+
+---
+
+### 2026-06-04 09:23:02  #市場 #焦點
+
+紐約期金突破4500美元/盎司，日內漲0.74%。
+
+---
+
+### 2026-06-04 09:22:46  #其他
+
+【教育部和各省（區、市）開通2026年高考舉報電話】近日，教育部統一公佈了教育部以及各省（區、市）2026年的高考舉報電話，歡迎廣大考生、家長及社會各界人士及時舉報反映涉及2026年高考的問題線索。教育部及各省（區、市）將會同有關部門根據舉報線索第一時間核查處理，堅決維護高考公平公正。
+
+---
+
+### 2026-06-04 09:22:36  #市場 #焦點
+
+現貨黃金突破4470美元/盎司，日內漲0.81%。
+
+---
+
+### 2026-06-04 09:22:29  #市場 #焦點
+
+紐約期銀突破74美元/盎司，日內漲0.42%。
+
+---
+
+### 2026-06-04 09:22:08  #公司 #國際
+
+三井商船將投資3億美元用於美國海上浮式液化天然氣專案。
+
+---
+
+### 2026-06-04 09:21:54  #焦點
+
+港股恒指低開跌0.66％，國企指數跌0.6％，恒生科技指數開跌1.23%。
+
+---
+
+### 2026-06-04 09:21:49  #央行 #中國央行
+
+【央行：今日7天期逆回購操作量為零】央行公告，根據公開市場業務一級交易商的需求，2026年6月4日7天期逆回購操作量為零。
+
+---
+
+### 2026-06-04 09:21:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hong Kong equities opened lower on Thursday, June 4: Hang Seng Index (HSI) down 167.91 points (-0.66%) at 25,465.3; Hang Seng TECH down 62.03 points (-1.23%) at 4,994.94; Hang Seng China Enterprises Index (HSCEI) down 51.86 points (-0.60%) at 8,544.73; Red Chip Index down 13.01 points (-0.29%) at 4,443.83.
+
+---
+
+### 2026-06-04 09:21:30  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #01211.HK
+
+Hong Kong open: HSI down 0.66%, Hang Seng Tech Index down 1.23%. BYD Co. (01211.HK) opened down 3.43%.
+
+---
+
+### 2026-06-04 09:21:17  #公司
+
+臺積電執行長表示：我們的客戶以及客戶的下游客戶，尤其是雲服務提供商，依然對人工智慧行業前景持樂觀態度。
+
+---
+
+### 2026-06-04 09:21:13  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，今日7天期逆回購操作量為零。
+
+---
+
+### 2026-06-04 09:21:07  #其他
+
+【全國統一電力市場體系建設提速】國家發展改革委、國家能源局近日印發通知，部署在雲霄直流開展輸電權市場化交易。專家指出，輸電權交易是面向省間稀缺輸電通道資源推出的全新市場化交易品種，有助於填補全國統一電力市場在輸電容量配置領域的制度空白。華北電力大學教授、國家能源發展戰略研究院執行院長王鵬表示，過往跨區直流輸電資源多依託行政計劃統籌排程，輸電權市場化落地後，其配套電能量市場，就能更好地由市場供需決定配置去向，從機制層面破解區域電力供需錯配等行業痛點。值得關注的是，跨網電力常態化交易的核心問題之一，是明確輸電通道容量的使用優先順序與分配規則。為此，通知提出透過市場化方式確定輸電權。“未來，待試點執行成熟、經驗可複製後，相關機制有望逐步向全國其他跨省跨區輸電通道推廣，最終實現輸電權市場與電能量市場的深度協同，進一步健全完善全國統一電力市場體系。”王鵬說。（經濟參考報）
+
+---
+
+### 2026-06-04 09:21:05  #MKT News
+
+【Construction of national unified power market speeds up】The National Development and Reform Commission and the National Energy Administration have issued a notice to pilot market-based trading of transmission rights on the Yunxiao DC link. Regulators say transmission-rights trading is a new market product for scarce interprovincial transmission channels that fills an institutional gap in allocating transmission capacity within the national unified power market. Wang Peng, professor at North China Electric Power University and executive director of the National Energy Development Strategy Institute, said cross-region DC transmission has been managed by administrative scheduling; marketising transmission rights alongside a complementary energy market will allow supply and demand to more directly determine allocation and help resolve regional power supply-demand mismatches. The notice singles out defining priority and allocation rules for transmission-channel capacity as a core issue and proposes using market mechanisms to allocate transmission rights. If the pilot proves mature and replicable, the mechanism could be extended to other interprovincial links to deepen coordination between transmission-rights and energy markets and strengthen the national unified power market system.
+
+---
+
+### 2026-06-04 09:21:02  #MKT News #Important #Market Regions #Greater China #CNH
+
+PBOC said today's 7-day reverse repo operation amount was zero, set according to demand from open-market primary dealers.
 
 ---
 
@@ -23630,113 +23768,5 @@ Iranian media reported the Islamic Revolutionary Guard Corps said it used missil
 ### 2026-06-03 07:40:19  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
 
 Australia Manufacturing Stays Fragile Despite Improvement — Australia’s Ai Group Industry Index for manufacturing rose 5.1 points to -22.4 in May 2026, a three-month high that signaled modest improvement but left the sector deep in contraction. Firms continued to grapple with rising logistics costs, supply chain disruptions, elevated input prices, and uncertainty over future supplies, while weak demand and higher operating expenses weighed on sales and profitability. Upstream, chemical producers faced scaled-back re-orders, overseas competition, and mounting fuel, labor, and rent costs. Metals producers benefited from steady repeat business tied to rolling stock and refurbishment projects but reported a lack of new orders. Downstream, machinery and equipment makers cited subdued capital goods demand, supply constraints, and higher borrowing costs. Food and beverage producers found some support from product diversification, though growth was capped by rising fuel costs, raw material shortages, and softer economic conditions.
-
----
-
-### 2026-06-03 07:39:50  #國際
-
-美國中央司令部：美軍還對格什姆島上的伊朗軍方地面控制站發動了打擊。
-
----
-
-### 2026-06-03 07:39:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【US says 'self-defense' strike on Iran's Qeshm Island after Iran fires missiles and drones】On June 2, CENTCOM said US forces repelled multiple ballistic missiles and one-way attack drones launched by Iran and carried out a "self-defense" strike on an Iranian military ground control station on Qeshm Island. CENTCOM said Iran fired several ballistic missiles at neighboring states but none hit intended targets: two missiles aimed at Kuwait failed to reach target areas or disintegrated in flight, and three missiles aimed at Bahrain were intercepted by US and Bahraini air defenses. Earlier, CENTCOM forces shot down three Iran-launched one-way attack drones that were heading toward commercial vessels in regional waters. No US personnel were injured. CENTCOM said forces will remain on heightened alert and ready to deter further Iranian aggression during the current ceasefire.
-
----
-
-### 2026-06-03 07:39:24  #國際
-
-美國中央司令部：美軍擊落了伊朗針對民用船員發射的三架攻擊型無人機。
-
----
-
-### 2026-06-03 07:38:37  #國際
-
-美國中央司令部：發射向巴林的三枚導彈已被美軍和巴林部隊攔截。
-
----
-
-### 2026-06-03 07:38:24  #國際
-
-美國中央司令部：兩枚針對科威特發射的伊朗導彈未能命中目標，或在飛行途中解體。
-
----
-
-### 2026-06-03 07:38:05  #國際
-
-美國中央司令部：伊朗向地區鄰國發射了彈道導彈，但所有導彈均未命中目標。
-
----
-
-### 2026-06-03 07:37:58  #市場 #國際
-
-日本將維持按日曆計算的國債發行總量不變。
-
----
-
-### 2026-06-03 07:37:48  #國際
-
-美國中央司令部：無美國人員受傷。
-
----
-
-### 2026-06-03 07:37:00  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Climbs for Third Straight Session — Brent crude futures rose toward $98 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles.
-
----
-
-### 2026-06-03 07:36:50  #國際
-
-美國中央司令部：美軍對格什姆島發動打擊，以回應伊朗發動的未遂襲擊。
-
----
-
-### 2026-06-03 07:36:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY
-
-Japan finalizes $19 bln supplementary budget to subsidize soaring fuel and utility costs.
-
----
-
-### 2026-06-03 07:36:26
-
-美國中央司令部：當地時間6月2日，美軍成功擊退了伊朗發射的多枚彈道導彈及無人機，並針對伊朗在中東全境企圖發動的襲擊，對格什姆島實施了自衛打擊。
-
----
-
-### 2026-06-03 07:36:26  #國際
-
-美國中央司令部：美軍週二攔截摧毀了多枚伊朗彈道導彈及無人機。
-
----
-
-### 2026-06-03 07:36:10  #國際
-
-日本政府敲定規模達190億美元的追加預算，用於補貼飆升的燃料與公用事業費用。
-
----
-
-### 2026-06-03 07:36:08  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Climbs for Third Straight Session — WTI crude futures rose above $95 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles.
-
----
-
-### 2026-06-03 07:35:56  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said on June 2 (local time) US forces repelled multiple ballistic missiles and drones launched by Iran and carried out a self-defensive strike on Qeshm Island in response to Iran's attempted attacks across the Middle East.
-
----
-
-### 2026-06-03 07:35:53  #國際
-
-美國：伊朗向鄰國發射了數枚彈道導彈。
-
----
-
-### 2026-06-03 07:35:47  #公司
-
-【光伏企業集體轉型綜合能源服務商 算電協同成爭奪重地】6月2日，全球重磅光伏展會2026 SNEC SMART E國際智慧能源大會在上海開幕。記者參會發現，光伏行業正逐漸告別單一製造時代，邁入價值重構元年，企業加速從光伏產品製造商向綜合能源、零碳算力服務商轉型。產業轉型的“重頭戲”是算電協同。當日，多家光伏龍頭落地AIDC算電融合方案，針對性研發算力專用光伏產品。有儲能上市公司高管對記者表示，“十五五”末算力中心用電量有望達到全社會用電量的8%，對新能源及儲能的帶動效應非常顯著，且有望超預期。（上海證券報）
 
 ---

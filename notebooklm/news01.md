@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 19:51:20_
-_本檔包含 3681 則快訊，約 706176 字_
+_更新時間：2026-06-07 20:22:49_
+_本檔包含 3691 則快訊，約 705323 字_
+
+---
+
+### 2026-06-07 20:20:06  #其他
+
+市場訊息： 羅馬尼亞十家銀行遭反壟斷監管機構處罰，罰款總額達37.3億列伊。
+
+---
+
+### 2026-06-07 20:20:02  #市場
+
+本週兩融餘額增幅最大：大有能源兩融餘額：1.71億元，餘額增幅：147.36%；兗礦能源兩融餘額：7.18億元，餘額增幅：89.34%
+
+---
+
+### 2026-06-07 20:19:37  #其他
+
+市場訊息： 英偉達、SK 海力士擬於週一召開媒體會。
+
+---
+
+### 2026-06-07 20:18:51  #國際
+
+以色列國防部長：軍方打擊了貝魯特達希耶區的恐怖分子指揮中心。
+
+---
+
+### 2026-06-07 20:17:49  #國際
+
+以色列：此次襲擊是對真主黨向以方開火的回應。
+
+---
+
+### 2026-06-07 20:16:55  #其他
+
+黎巴嫩安全訊息人士稱：貝魯特南郊發生空襲。
+
+---
+
+### 2026-06-07 20:16:02  #MKT News #WTI #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+Israeli media report a joint statement saying that, at the direction of Prime Minister Netanyahu and Defense Minister Katz, the Israel Defense Forces are attacking terrorist headquarters in Beirut’s Dahiyeh district in retaliation for Hezbollah firing into Israeli territory.
+
+---
+
+### 2026-06-07 20:15:57  #公司 #國際
+
+【美媒稱美將以間諜威脅上調至最高階】當地時間6月6日，美國全國廣播公司報道稱，由於美國與以色列在對伊朗和黎巴嫩的戰事走向問題上分歧加大、關係趨緊，美國國防部下屬國防情報局近期更新內部反間諜威脅評估，將針對以色列的威脅等級上調至最高階。據報道，美方官員透露，美方擔憂以色列監視本國高階官員，藉機獲取美國在中東衝突議題上的內部商議與決策資訊，美國總統特使威特科夫也被列為以方重點監視物件。針對以上報道，以色列駐美大使館發表宣告稱，以色列對美國進行間諜活動的說法 “完全是無稽之談”。美國白宮一名官員回應稱，“整篇報道純屬虛構”。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 20:15:25  #國際
+
+以色列國防軍參謀長：我方正鞏固地面控制權，持續打擊哈馬斯，直至達成解除其武裝的目標。
+
+---
+
+### 2026-06-07 20:14:42  #國際
+
+以色列國防軍襲擊位於貝魯特郊區的真主黨指揮據點。
+
+---
+
+### 2026-06-07 20:14:07  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli media reported sounds of explosions in Beirut's Dahieh district.
+
+---
+
+### 2026-06-07 20:12:24  #其他
+
+貝魯特達希耶地區發生爆炸。
+
+---
+
+### 2026-06-07 20:11:19  #國際
+
+美國中央司令部：邁克爾・墨菲號驅逐艦（DDG-112）正在阿拉伯海執行針對伊朗的封鎖任務，艦上值勤軍官密切監視一艘商船。截至 6 月 7 日，中央司令部部隊已勒令 132 艘商船改道，並使 6 艘船隻失去行動能力，以此保障封鎖措施落地。
+
+---
+
+### 2026-06-07 20:11:03  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM: As of June 7, directed 132 merchant vessels to alter course and rendered six vessels unable to navigate.
+
+---
+
+### 2026-06-07 20:10:08  #公司
+
+【煉石航空：關聯方資產是否注入及具體時點，取決於四川發展（控股）公司總體戰略佈局和規劃安排】煉石航空6月5日在機構調研時表示，公司於2023年12月28日完成實際控制人變更，現為四川發展（控股）有限責任公司旗下航空航天高階製造領域唯一上市平臺。公司嚴格遵循重整計劃安排，圍繞航空發動機/燃氣輪機核心部元件、飛機機體結構件與機載裝置、複合材料、軍工電子、增材製造、低空經濟、商業航天等重點方向，持續推進優質資產併購工作。關聯方資產是否注入及具體時點，取決於四川發展（控股）公司總體戰略佈局和規劃安排，公司將嚴格按照監管要求履行資訊披露義務。
+
+---
+
+### 2026-06-07 20:07:16  #其他
+
+【秘魯舉行總統選舉第二輪投票】秘魯7日舉行總統選舉第二輪投票，選民將從右翼政黨人民力量黨候選人藤森慶子和左翼政黨“一起為了秘魯”候選人羅伯託·桑切斯中選出新一任總統。當地時間7日7時，投票正式開始，超過2700萬選民將從兩個競選組合中選出新總統和副總統。當天17時，全國各投票站將關閉，選舉計票工作啟動。（新華社）
+
+---
+
+### 2026-06-07 20:06:27  #國際
+
+以色列國防軍參謀長稱，已批准進一步打擊真主黨的作戰計劃，
+
+---
+
+### 2026-06-07 20:06:10  #國際
+
+市場訊息： 伊朗國家足球隊抵達墨西哥，備戰世界盃。
+
+---
+
+### 2026-06-07 20:05:40  #其他
+
+市場訊息：加拿大航空與Abra Group簽署諒解備忘錄，拓展加拿大、拉美及其他地區的出行服務與航線網路。
+
+---
+
+### 2026-06-07 20:02:57  #公司 #國際
+
+【報道：英偉達與韓國SK集團預計將於週一公佈雙方合作規劃】據報道，英偉達與韓國SK集團預計將於週一公佈雙方合作規劃。這家美國晶片企業負責人表示，當前儲存晶片供應緊張的局面還將持續數年。SK海力士發言人證實，董事長Chey長與英偉達執行長黃仁勳定於週一上午向媒體介紹合作計劃，該訊息也印證了韓國媒體此前的報道。黃仁勳也另行表示，英偉達將於週一和SK集團一同釋出相關訊息。他在接受記者採訪時稱：“我們的合作覆蓋多個領域，包括人工智慧超級計算機、中央處理器、新型個人電腦以及機器人技術。此次會面就是為敲定相關規劃，明日或將公佈具體內容。”他並未透露更多細節。黃仁勳同時指出，儲存晶片短缺問題暫無緩解跡象。“整個行業供應鏈，從晶圓、封裝到矽光模組等環節均供應不足，根源在於市場需求居高不下。這一緊缺狀況還會持續數年。
+
+---
+
+### 2026-06-07 20:00:01  #國際
+
+伊朗外交部發言人：伊朗武裝部隊堅決動用全部力量回擊任何襲擊。
+
+---
+
+### 2026-06-07 19:57:20  #其他
+
+義大利BPM銀行提議與Monte Paschi銀行達成合並交易。
+
+---
+
+### 2026-06-07 19:56:01  #其他
+
+【我國已建成3.5萬家基礎級智慧工廠】記者從工業和資訊化部瞭解到，我國已構建四級智慧工廠體系，實現規模化建設智慧工廠，引導企業從數字化、網路化向智慧化邁進。目前，我國智慧工廠體系分為基礎級、先進級、卓越級、領航級四級。已經累計建成3.5萬家基礎級、8200餘家先進級、500餘家卓越級智慧工廠，15家企業入選領航級智慧工廠培育名單，探索工程機械共享製造、汽車島式製造、家電敏捷定製等新模式新業態。智慧工廠梯度培育行動實施以來，帶動產品不良率平均下降47%、產品研發週期平均縮短38%。（央視財經）
+
+---
+
+### 2026-06-07 19:53:18  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister Netanyahu said Israel will not allow Hamas to rearm, will continue targeting Hamas' senior leadership, and will apply pressure on Hamas from all directions.
+
+---
+
+### 2026-06-07 19:53:03  #國際
+
+伊朗伊斯蘭革命衛隊：在薩拉萬地區搗毀一個武裝團伙，擊斃 4 名武裝人員，目前仍在追查並抓捕相關涉案人員。
+
+---
+
+### 2026-06-07 19:52:58  #國際
+
+市場訊息： 一位巴勒斯坦領導訊息人士表示，以色列拒絕回應調解方停止在加沙的攻擊並遵守承諾的要求。
+
+---
+
+### 2026-06-07 19:52:33  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Al Jazeera cited a Palestinian leadership source saying Israel refused to respond to a mediator's request to halt attacks in Gaza and to comply with commitments.
+
+---
+
+### 2026-06-07 19:51:45  #國際
+
+【以色列總理：我們絕不會容忍敵方向我方領土及聚居點開火】以色列總理內塔尼亞胡表示，在加沙地帶，我們正從各個方向打擊哈馬斯。目前我方已控制該地區超六成領土，很快這一比例將升至七成。我們絕不允許其重新武裝、傷害我方人員，同時持續清剿其高層指揮官。在黎巴嫩，僅上週我方部隊就擊斃 350 名武裝人員。部隊已攻佔博福特山脊，並在當地發現一處大型地下設施。我們持續摧毀邊境沿線的武裝據點，對其展開強力打擊。我們獲悉，真主黨武裝人員正四處逃竄。我們絕不會容忍敵方向我方領土及聚居點開火，並將採取相應行動。
+
+---
+
+### 2026-06-07 19:50:39  #國際
+
+【北約醞釀700億歐元對烏新支援計劃】多位北約外交官近日表示，北約成員國正在醞釀總額達700億歐元的對烏克蘭新軍事支援計劃，具體方案預計在7月份舉行的北約峰會上公佈。該提案由德國提出，旨在透過建立新的機制，提高北約各成員國對烏支援資金的透明度，並平衡北約內部的分擔比例。據德國“基爾世界經濟研究所”日前釋出的報告，今年1到4月，歐洲各國每月向烏克蘭提供的軍事支援為20億歐元，低於2025年同期的每月24億歐元。報告還顯示，在此期間，美國沒有向烏克蘭提供任何軍事支援。（CCTV國際時訊）
 
 ---
 
@@ -22138,119 +22312,5 @@ Singapore Retail Sales Rise for 3rd Month — Retail sales in Singapore rose by 
 ### 2026-06-05 13:15:28  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
 
 China A-share humanoid robot sector extended gains. Lvde Harmonic and Dongtu Technology hit daily limit; Fengguang Precision also reached limit-up; Yuhuan CNC and Guangyang Co hit limit-up. Jigang Precision, Yishi Precision and Dingzhi Technology rose over 10%. Buke Co, Zhongding Co, Henggong Precision, Sanxie Motor and Hengfeng Tools also advanced.
-
----
-
-### 2026-06-05 13:15:19  #公司 #國際
-
-【黃仁勳：未來半導體制造將越來越依賴機器人和人工智慧】英偉達執行長黃仁勳週五表示，英偉達將與韓國製造企業合作，共同推進機器人和人工智慧領域的發展。“因為韓國是世界製造業中心，我們可以將我們在此研發的機器人技術、物理人工智慧技術應用於該行業，”他說。“未來半導體制造將越來越依賴機器人和人工智慧，因此我們也有絕佳的機會與當地的半導體公司合作。”
-
----
-
-### 2026-06-05 13:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Depreciates by 0.68% — Top currency loser is South Korean Won (-0.68%). Gains are led by Indian Rupee (0.54%). Meanwhile, Euro, British Pound, Dollar Index and Japanese Yen were little changed.
-
----
-
-### 2026-06-05 13:13:31  #公司
-
-【豐田叫停雷克薩斯LF-ZC量產，回應：不是放棄純電車！】近日，有訊息稱，豐田叫停了雷克薩斯純電動轎車LF-ZC量產車型的開發。“本次車型開發中止，主要是考慮到了市場需求的變化，這也是公司對整體車輛開發專案進行調整的一部分，但並不代表公司放棄了BEV（純電動汽車）。”針對上述車型研發暫停的原因，豐田中國相關工作人員記者回應稱。（每經）
-
----
-
-### 2026-06-05 13:12:52  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #TM.O #Impact bearish
-
-【Toyota halts Lexus LF-ZC production; says not abandoning BEVs】Toyota has stopped development of the Lexus LF-ZC battery EV, which had been slated for series production at its Tahara plant in Japan. The model was due to enter production in late-2026, was pushed to mid-2027, and is now suspended. Toyota China says the halt reflects changing market demand and broader vehicle program adjustments and does not mean the company is abandoning BEVs. Industry observers cite recent policy shifts — including the removal of the $7,500 US federal EV tax credit and the EU’s rollback of its effective 2035 ICE-sales ban — and intensifying competition from Chinese EV brands, which have a competitive edge over Japanese automakers in new-energy vehicles.
-
----
-
-### 2026-06-05 13:12:42  #其他
-
-6月4日，多位市場人士及接近監管的人士向財新表示，資料資產ABS日前已被暫時叫停。兩位投行人士均稱，6月3日收到來自交易所的視窗指導，暫停申報資料資產ABS，"如果自行申報會被勸退"。另另有一位資深債市人士稱，不只是申報暫停，已過會的專案也已暫停封卷領取批文，而已拿到批文的專案則可能需要暫緩備案發行。（財新網）
-
----
-
-### 2026-06-05 13:11:43  #MKT News #Commodities #Energy #WTI #Brent
-
-Venezuela's acting president welcomes Indian firms to actively participate in the country's reformed oil and gas sector.
-
----
-
-### 2026-06-05 13:11:07  #國際
-
-印度政府訊息：委內瑞拉代總統歡迎印度企業積極參與委內瑞拉改革後的油氣領域。
-
----
-
-### 2026-06-05 13:10:44  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時放量1595億元。
-
----
-
-### 2026-06-05 13:10:02  #公司 #觀點
-
-摩根大通將特斯拉評級從減持上調至中性，目標股價從145美元上調至475美元。
-
----
-
-### 2026-06-05 13:09:42  #國際
-
-印度政府表示，委內瑞拉臨時總統已邀請印度能源代表團訪委，勘探能源領域合作機遇。
-
----
-
-### 2026-06-05 13:09:19  #MKT News #Commodities #Energy
-
-India's oil minister said Indian firms are willing to deepen their presence in Venezuela.
-
----
-
-### 2026-06-05 13:09:05  #國際
-
-【巴拿馬副外長：希望巴中繼續開展多層次對話】巴拿馬外交部副部長卡洛斯·格瓦拉·曼3日晚說，巴拿馬同中國的關係不僅體現在外交和經貿領域，也體現在兩國人民長期以來建立的深厚友誼和文化交流中。希望雙方繼續開展多層次對話，推動兩國關係不斷發展。中國駐巴拿馬大使館3日晚在巴拿馬城舉行招待會，慶祝中巴建交9週年。巴拿馬政府官員及社會各界代表出席。曼在致辭中說，中國長期以來為巴拿馬人才培養提供了重要支援。他希望中國和巴拿馬繼續開展多層次對話，以尊重、共情和建設性合作為基礎，推動兩國關係不斷發展。（新華社）
-
----
-
-### 2026-06-05 13:08:58  #MKT News #Market Themes #AI Revolution
-
-【Huawei Cloud launches Agentic AI product suite】At its INSPIRE conference in Shanghai, Huawei Cloud proposed the Agentic Infra paradigm and launched an Agentic AI product suite, including Agentic Infra integrated intelligence‑and‑infrastructure, a next‑generation model training and inference platform, and an enterprise‑grade intelligent agent platform.
-
----
-
-### 2026-06-05 13:08:32  #其他
-
-【聯利支助團：聯合國機構未在利比亞境內安置移民】聯合國利比亞支助團（聯利支助團）4日晚發表宣告，否認有關聯合國機構正在利比亞境內安置移民的指控，稱此類說法“完全不實”。
-
----
-
-### 2026-06-05 13:07:01  #國際
-
-印度石油部長表示，印度企業有意深化在委內瑞拉的業務佈局。
-
----
-
-### 2026-06-05 13:06:52  #市場 #國際
-
-印度Nifty 50指數抹去盤中漲幅，最新下跌0.02%。
-
----
-
-### 2026-06-05 13:05:53  #國際
-
-【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。
-
----
-
-### 2026-06-05 13:04:49  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
-
-Japan Leading Index Highest Since 2021 — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, rose to 115.9 in April 2026 from an upwardly revised 115.4 in the previous month, exceeding market forecasts of 114.3, preliminary estimates showed. It was the highest reading since December 2021, underscoring a gradual improvement in the economic outlook.
-
----
-
-### 2026-06-05 13:04:16  #公司 #國際
-
-【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。DSI將對其獲取的商業資訊和合同條款保密。只要未發現低價報關行為，現有的戰略性自然資源大宗商品出口合同將繼續有效。該基金表示，遵守良好商業規範的出口商將不會面臨運營中斷，這有助於確保法律的確定性和有利的商業環境。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。
 
 ---

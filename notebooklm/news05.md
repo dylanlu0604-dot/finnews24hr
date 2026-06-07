@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 19:51:20_
-_本檔包含 3666 則快訊，約 705404 字_
+_更新時間：2026-06-07 20:22:49_
+_本檔包含 3658 則快訊，約 704583 字_
+
+---
+
+### 2026-06-02 04:18:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC signals Bab al‑Mandeb navigation will be aligned with Strait of Hormuz】IRGC Quds Force commander Qaani said on the 1st that Israeli military action in Lebanon and Gaza, backed by the US, will expand the 'axis of resistance's' support for those fronts and activate other fronts, and that navigation through the Bab al‑Mandeb will be aligned with the Strait of Hormuz.
+
+---
+
+### 2026-06-02 04:16:55  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rebound to Hit New Highs — The three major US stock indexes rebounded from a cautious start to close at fresh record highs on Monday, as President Trump said talks with Iran were continuing at a rapid pace and a resurgence in AI-related stocks also helping to boost investors' sentiment. The S&P 500 gained 0.3%, the Nasdaq advanced 0.4%, and the Dow Jones added 46 points. Technology stocks led the rally, with Nvidia surging 6.3% after unveiling its new RTX Spark Superchip, marking its entry into the PC market. Optimism surrounding Nvidia's latest offering boosted software and hyperscaler stocks, with Microsoft rising 2.3% and Oracle jumping 9.9%. The positive spillover also lifted hardware-related names, as Micron Technology and Dell Technologies climbed 6.6% and 10.8%, respectively. Energy shares also traded higher amid rising oil prices, with Exxon Mobil gaining 2.5% and Chevron advancing 1.9%.
+
+---
+
+### 2026-06-02 04:14:02  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
+
+【Netanyahu: IDF will continue planned operations in southern Lebanon】On the evening of June 1, Netanyahu said on social media he had spoken by phone with US President Trump and told him that if Hezbollah continues attacks on Israeli cities and civilians, Israel would strike related targets in Beirut. He said Israel's position remains unchanged and the IDF will continue planned operations in southern Lebanon.
+
+---
+
+### 2026-06-02 04:13:28  #國際
+
+【以總理：以軍將繼續按計劃在黎南部開展行動】當地時間6月1日晚間，以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”
+
+---
+
+### 2026-06-02 04:12:10  #其他
+
+【丹麥看守首相宣佈新政府組建完成】當地時間6月1日，丹麥看守首相弗雷澤裡克森覲見丹麥國王，向國王報告成功組建新政府。
+
+---
+
+### 2026-06-02 04:11:16  #MKT News
+
+Al Jazeera cited a Qatari diplomatic source saying the US informed Qatar that, after a phone call between Trump and Netanyahu, Israel's earlier threat to strike Beirut's southern suburbs was canceled.
+
+---
+
+### 2026-06-02 04:10:24  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Hewlett Packard earnings above expectations at 0.79 USD — Hewlett Packard (HPE) released earnings per share at 0.79 USD, compared to market expectations of 0.53 USD.
+
+---
+
+### 2026-06-02 04:10:19  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Pare Some Gains But Remain Elevated — Oil prices pared some gains but remained sharply higher on the first trading day of June, with WTI crude futures rising 6% to trade above $92 per barrel. Prices initially surged after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Despite the pullback, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz.
+
+---
+
+### 2026-06-02 04:09:15  #公司
+
+惠與科技股價飆升28%，此前該公司釋出全年盈利預期超出預期。
+
+---
+
+### 2026-06-02 04:09:00  #MKT News #Market Themes #AI Revolution
+
+Semafor reports Luma AI is building a robotics lab that will allow anyone to use its software to train robots.
+
+---
+
+### 2026-06-02 04:08:15  #焦點 #國際
+
+【伊朗革命衛隊暗示曼德海峽通航將受管控】伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼1日表示，以色列在美國支援下對黎巴嫩和加沙的軍事行動，將使“抵抗陣線”擴大對這兩個戰線的支援並“啟用”其他戰線，曼德海峽的通航狀況將與霍爾木茲海峽“保持一致”。（新華社）
+
+---
+
+### 2026-06-02 04:06:06  #國際
+
+伊朗革命衛隊海軍宣佈，針對美軍在阿曼海襲擊伊朗“利安星號”船隻一事，己方對關聯美以兩方的“地中海航運薩里斯卡號”貨輪實施報復性打擊。
+
+---
+
+### 2026-06-02 04:06:03  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+Iran's Islamic Revolutionary Guard Corps Navy attacked the US-owned cargo ship MSC Sariska.
+
+---
+
+### 2026-06-02 04:05:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average rose 46.48 points, or 0.09%, to 51,078.94 on Monday, June 1; the S&P 500 rose 19.96 points, or 0.26%, to 7,600.02; the Nasdaq Composite rose 114.19 points, or 0.42%, to 27,086.81.
+
+---
+
+### 2026-06-02 04:05:25  #MKT News #WTI #Impact bearish #Brent
+
+TASNIM NEWS: Since the Persian Gulf maritime authority began operations in early May, more than 300 non‑Iranian‑flagged vessels have submitted information to apply for permits for safe transit of the Strait of Hormuz, the vast majority of them tankers.
 
 ---
 
@@ -21980,143 +22070,5 @@ Israel Defense Forces said over the past week it struck and destroyed three Hama
 ### 2026-05-31 20:25:25  #國際
 
 【以軍稱摧毀三處哈馬斯武器儲存設施】以色列國防軍當地時間31日表示，過去一週，以軍在加沙地帶多地打擊並摧毀了三處哈馬斯武器儲存設施。這些設施記憶體放有爆炸裝置、步槍、狙擊步槍以及其他軍事裝備。其中一處設施內約有10輛被哈馬斯用於軍事用途的皮卡車。以軍稱，這些武器原計劃用於攻擊在“黃線”地區執行任務的以軍士兵及以色列平民。為消除相關威脅，這些武器已被銷燬。以軍稱，南方司令部所屬部隊目前仍按照停火協議部署，並將繼續採取行動，消除任何迫在眉睫的威脅。（央視新聞）
-
----
-
-### 2026-05-31 20:21:28  #國際
-
-【捷克總理：今年軍費“恐無法達北約目標”】捷克總理安德烈·巴比什日前告訴媒體，捷克今年可能無法實現北約為成員國設定的軍費開支目標，即軍費達到國內生產總值（GDP）2%。據英國《金融時報》5月31日報道，巴比什說，捷克“將盡最大努力”實現這一目標，但由於上屆政府過度支出，他的政府正在努力解決存在的財政預算缺口。巴比什還說，捷克致力於到2035年達到北約所設軍費佔GDP3.5%的新目標，但他同時表示，北約盟友應更多關注實實在在的國防能力建設，而非單純追求軍費支出指標。2025年6月，北約成員國領導人在荷蘭海牙舉行的峰會上決定，2035年前將年度國防開支提高至國內生產總值的5%，其中3.5%用於核心軍費支出，1.5%用於關鍵基礎設施防護和網路安全等。巴比什去年12月上任以來多次表示，不會繼續讓本國民眾為軍事援助烏克蘭埋單，特別是近期伊朗戰事導致能源漲價，捷克政府將把有限的公共資金優先用在本國民眾身上，而非烏克蘭。美國總統特朗普從其第一任期起就不斷要求北約盟友提高國防支出。美國國防部長赫格塞思5月30日在新加坡出席第23屆香格里拉對話會期間表示，美國補貼富裕國家國防的時代已經結束，美方需要的“是合作伙伴，不是保護國”。（新華社）
-
----
-
-### 2026-05-31 20:20:12  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Announcement due in 10 minutes that Fed Governor Waller will take part in a panel at the 32nd Dubrovnik Economic Conference.
-
----
-
-### 2026-05-31 20:20:02  #市場
-
-本週兩融餘額增幅最大：卓錦股份兩融餘額：0.26億元，餘額增幅：122.39%；呈和科技兩融餘額：8.04億元，餘額增幅：110.23%
-
----
-
-### 2026-05-31 20:19:13  #國際
-
-市場訊息：阿曼蘇丹與法國總統馬克龍通電話，就近期地區局勢以及維護地區安全穩定的相關外交舉措交換意見。雙方還探討了保障海上航行自由與國際貿易暢通的相關措施。報道稱，兩國領導人同時回顧了阿曼與法國的合作及夥伴關係進展。
-
----
-
-### 2026-05-31 20:19:10  #MKT News
-
-【Israeli strike near Tyre hospital injures 13, damages facilities — Lebanese health ministry】Lebanon's Ministry of Public Health said an Israeli airstrike hit an area near a hospital in the southern city of Tyre, injuring 13 hospital staff and causing severe damage to hospital facilities.
-
----
-
-### 2026-05-31 20:18:41  #MKT News
-
-The Gaza health ministry said Israeli strikes since Oct. 7, 2023 have killed 72,939 people and injured 172,927.
-
----
-
-### 2026-05-31 20:17:49  #國際
-
-【以軍空襲黎南部醫院致13人受傷】黎巴嫩公共衛生部5月31日發表宣告說，以色列當天對黎南部城市提爾一所醫院附近區域發動空襲，造成13名醫院工作人員受傷，醫院設施遭嚴重破壞。宣告說，這所醫院此前曾在以軍襲擊中受損，此次襲擊再次對醫院設施造成嚴重破壞。宣告呼籲國際社會制止以色列不斷升級和擴大的襲擊行動，稱相關行動無視國際人道法及國際決議。以色列總理內塔尼亞胡31日發表影片講話稱，他已要求以軍擴大在黎巴嫩的軍事行動。（新華社）
-
----
-
-### 2026-05-31 20:12:41  #國際
-
-【以總理稱以軍將進一步擴大在黎軍事行動】以色列總理內塔尼亞胡5月31日稱，以軍已攻佔位於黎巴嫩南部的博福特嶺據點，並將進一步擴大在黎境內的軍事行動。內塔尼亞胡當天發表影片宣告稱，他已下令以軍擴大在黎巴嫩的地面行動。以軍部隊已越過利塔尼河，佔領戰略要地並控制博福特嶺，下一步將擴大對原由真主黨控制地區的掌控。內塔尼亞胡還說，攻佔博福特嶺是以色列政策的“重大轉變”，以方將在敘利亞、加沙和黎巴嫩等多個方向繼續主動採取行動。（新華社）
-
----
-
-### 2026-05-31 20:11:30  #國際
-
-【烏軍方稱襲擊俄多處油氣設施和軍事目標】烏克蘭武裝部隊總參謀部5月31日稱，30日至31日凌晨，烏軍對俄羅斯多處油氣設施和軍事目標發動了襲擊。烏武裝部隊總參謀部在社交媒體發文稱，俄羅斯薩拉托夫煉油廠31日凌晨遭到烏軍襲擊並燃起大火。薩拉托夫煉油廠是俄關鍵燃油基礎設施，設計年煉油產能700萬噸。（新華社）
-
----
-
-### 2026-05-31 20:10:26  #國際
-
-市場訊息：伊朗與美國之間關於潛在諒解備忘錄草案的交流仍在繼續。雙方輪流提出修改意見，目前尚未最終確認任何協議。
-
----
-
-### 2026-05-31 20:07:32  #MKT News
-
-TASNIM NEWS reported exchanges between Iran and the US over a draft memorandum of understanding remain ongoing; both sides have submitted reciprocal amendment proposals and no agreement has been finalized.
-
----
-
-### 2026-05-31 20:06:58  #公司
-
-強生公司：第三階段前列腺癌研究實現兩大主要終點。
-
----
-
-### 2026-05-31 20:05:24  #國際
-
-【使用康方生物中國新藥的肺癌患者生存期更長】康方生物（Akeso Inc.）的肺癌藥物依沃西單抗（ivonescimab）進行的一項晚期臨床試驗中，使患者的生存期延長了約四個月。根據在芝加哥舉行的美國臨床腫瘤學會（ASCO）年會上釋出的資料，使用依沃西單抗的患者總生存期（OS）約為28個月，而使用現有成熟藥物的患者則接近24個月。兩者的差異在統計學上具有顯著性。這一結果可能會提高人們對這一全新療法的預期，該療法透過啟用免疫系統來對抗腫瘤，同時切斷其血液供應。
-
----
-
-### 2026-05-31 20:03:04  #其他
-
-市場訊息：輝瑞的BRAFTOVI聯合療法，可將轉移性結直腸癌患者的中位無進展生存期延長近一倍。
-
----
-
-### 2026-05-31 20:02:35  #其他
-
-【訊飛AI虛擬人互動平臺全量功能透過國標認證】近日，科大訊飛AI虛擬人互動平臺順利透過中國電子技術標準化研究院賽西實驗室首批GB/T 46483—2025《資訊科技 客服型虛擬數字人通用技術要求》功能符合性評測，成為國內首個透過全量功能測試並獲頒證書的客服型虛擬數字人平臺。
-
----
-
-### 2026-05-31 20:02:09  #公司
-
-市場訊息：禮來公司的Retevmo（塞爾帕替尼，selpercatinib）作為輔助療法治療早期RET融合陽性肺癌患者時，可降低83%的疾病復發或死亡風險。
-
----
-
-### 2026-05-31 20:01:50  #公司 #國際
-
-【減緩氣候變暖，全球甲烷減排行動亟待加速】 美國環保協會日前釋出的《2025-2026全球甲烷控排行動報告》提出，甲烷濃度的持續攀升是導致近年來地球能量失衡以及全球變暖加劇的重要推手。因此，加快實施甲烷減排行動已成為短期內減緩全球變暖最快速、最經濟有效的方法之一。國際能源署首席能源經濟學家蒂姆·古爾德(Tim Gould)釋出《全球甲烷排放：最新評估與趨勢分析》指出，全球化石燃料甲烷排放居高不下，但現有技術可削減70%排放量，且超3500萬噸油氣甲烷減排可實現零成本，減排同時能每年新增千億立方米天然氣供應，顯著提升能源安全。全球甲烷中心執行長馬塞洛·梅納(Marcelo Mena)表示，當前全球需實現30%的甲烷減排目標以有效控溫，中國“言必行、行必果”的行動風格，為全球樹立標杆。（中新網）
-
----
-
-### 2026-05-31 20:01:34  #公司
-
-【近30家A股上市公司本週披露併購重組最新公告 艾德生物籌劃控制權變更明起停牌】不完全統計，截至發稿，本週（5月25日-5月31日）包括艾德生物、嘉美包裝、聯合光電、萬隆光電、TCL科技、山高環能、東方雨虹、奧飛資料、金徽股份、節能鐵漢、樂歌股份、科創新源、*ST海利、恩捷股份、勝通能源、華洋賽車、易實精密、惠同新材、嘉戎技術、富創精密、倍杰特、民士達、交大思諾、英傑電氣、播恩集團、盛達資源在內的26家A股上市公司披露併購重組進展最新公告。其中艾德生物公告，籌劃控制權變更事項，股票明起停牌。
-
----
-
-### 2026-05-31 20:00:50  #宏觀 #焦點
-
-【5月31日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平回信勉勵中共一大紀念館、南湖革命紀念館少先隊紅領巾講解員 傳承紅色基因增長知識本領 在新徵程上跑好歷史接力賽 祝全國小朋友們“六一”國際兒童節快樂； 2.央視快評：做黨和人民的紅孩子，在新徵程上跑好歷史接力賽； 3.《習近平法治文選》第一卷英文版出版發行； 4.【新思想引領新徵程】活力迸發 民營經濟走向更加廣闊的舞臺； 5.趙樂際對俄羅斯進行正式友好訪問 並出席中俄議會合作委員會第十一次會議； 6.製造業穩定執行 新動能加速擴張； 7.人工智慧相關產品拉動外貿增長； 8.綠化帶美出新顏值 公園城市盡顯新風貌； 9.【新聞特寫】跨越26年的綠色約定； 10.國內聯播快訊： （1）102項國家標準6月1日正式實施； （2）2025年我國批准兒童用藥138個 創歷史新高； （3）各地舉行世界無煙日宣傳活動； （4）全國未成年人救助保護機構“提質增效”專項行動啟動； （5）我國成功發射衛星網際網路技術試驗衛星； （6）粵港澳大灣區遊艇自由行免擔保和臨時船舶國籍登記新政策獲批； （7）2026年電影票房超157億元 超50部新片定檔暑期； 11.伊朗稱對霍爾木茲海峽航運實施全面管理 美軍稱擊中一艘試圖駛往伊朗港口的貨船 美媒稱美方修改美伊諒解備忘錄草案 伊方指責美國三次外交背叛； 12.國際聯播快訊： （1）黎總理指責以在黎南部實施“焦土政策”； （2）世衛組織呼籲向埃博拉疫區提供國際支援； （3）日本4月乙烯工廠開工率創新低。
-
----
-
-### 2026-05-31 19:59:53  #國際
-
-以色列軍方：一架從黎巴嫩起飛的無人機墜落於邊境地帶，未造成人員傷亡。
-
----
-
-### 2026-05-31 19:53:51  #市場 #國際
-
-【中東股市收盤播報：阿曼股市結束連漲10個月的趨勢】週日（5月31日），阿曼MSM 30指數收跌0.28%，報7753.98點，5月份累跌6.97%——宣告2025年7月份以來持續上漲的趨勢告一段落。卡達證交所指數收跌0.35%，報10554.96點，5月份累計上漲0.64%，整體呈現出M形走勢，5月24日盤初曾顯著地短線拉昇，連續兩個月反彈。科威特證交所超級市場價格回報指數自5月25日結束交易以來持續休市，5月份累計下跌0.83%，5月7-20日持續下挫，5月25日盤初夜曾顯著走高。
-
----
-
-### 2026-05-31 19:52:45  #MKT News
-
-【Anyang Steel commissions electric heating furnace for titanium plate at No.2 hot-rolling unit】Anyang Steel said on May 31 it completed and commissioned an electric heating furnace for titanium plate at its No.2 hot-rolling unit. The new furnace will operate in tight coordination with the hot-rolling mill to provide precise, standardized heating for multiple titanium-plate specifications, address a process shortfall in high-end titanium rolling and strengthen the company’s high-end specialty steel product mix.
-
----
-
-### 2026-05-31 19:52:22  #國際
-
-【國際原子能機構人員將獲准進入扎波羅熱核電站遭襲區】扎波羅熱核電站發言人葉夫根尼婭·亞希娜5月31日告訴俄新社，在現場具備安全條件後，國際原子能機構核查人員將獲准進入核電站遭襲區域核查。該核電站前一日稱，烏克蘭無人機攻擊其6號機組電機房。亞希娜說，核電站方面已向國際原子能機構通報相關情況，待現場執行和安全條件允許後，將向該機構人員開放遭襲區域。扎波羅熱核電站主管部門5月30日透過社交媒體釋出訊息說，烏克蘭一架無人機當天攻擊了該核電站6號發電機組的一座電機房，所幸未造成人員傷亡和嚴重破壞。訊息說，目前，這座核電站所有系統執行正常，站內各操作規程未被擾亂，電站區域及其監測區輻射水平正常。電站專業人員正對遇襲位置進行勘察。扎波羅熱核電站是歐洲最大核電站之一。2022年2月烏克蘭危機全面升級後，俄方控制了扎波羅熱核電站。此後，該核電站多次遭到炮擊或無人機攻擊，引發國際社會對其安全的擔憂。（新華社）
 
 ---

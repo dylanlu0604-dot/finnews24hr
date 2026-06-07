@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 19:51:20_
-_本檔包含 3817 則快訊，約 705599 字_
+_更新時間：2026-06-07 20:22:49_
+_本檔包含 3820 則快訊，約 705280 字_
+
+---
+
+### 2026-06-03 07:39:50  #國際
+
+美國中央司令部：美軍還對格什姆島上的伊朗軍方地面控制站發動了打擊。
+
+---
+
+### 2026-06-03 07:39:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【US says 'self-defense' strike on Iran's Qeshm Island after Iran fires missiles and drones】On June 2, CENTCOM said US forces repelled multiple ballistic missiles and one-way attack drones launched by Iran and carried out a "self-defense" strike on an Iranian military ground control station on Qeshm Island. CENTCOM said Iran fired several ballistic missiles at neighboring states but none hit intended targets: two missiles aimed at Kuwait failed to reach target areas or disintegrated in flight, and three missiles aimed at Bahrain were intercepted by US and Bahraini air defenses. Earlier, CENTCOM forces shot down three Iran-launched one-way attack drones that were heading toward commercial vessels in regional waters. No US personnel were injured. CENTCOM said forces will remain on heightened alert and ready to deter further Iranian aggression during the current ceasefire.
+
+---
+
+### 2026-06-03 07:39:24  #國際
+
+美國中央司令部：美軍擊落了伊朗針對民用船員發射的三架攻擊型無人機。
+
+---
+
+### 2026-06-03 07:38:37  #國際
+
+美國中央司令部：發射向巴林的三枚導彈已被美軍和巴林部隊攔截。
+
+---
+
+### 2026-06-03 07:38:24  #國際
+
+美國中央司令部：兩枚針對科威特發射的伊朗導彈未能命中目標，或在飛行途中解體。
+
+---
+
+### 2026-06-03 07:38:05  #國際
+
+美國中央司令部：伊朗向地區鄰國發射了彈道導彈，但所有導彈均未命中目標。
+
+---
+
+### 2026-06-03 07:37:58  #市場 #國際
+
+日本將維持按日曆計算的國債發行總量不變。
+
+---
+
+### 2026-06-03 07:37:48  #國際
+
+美國中央司令部：無美國人員受傷。
+
+---
+
+### 2026-06-03 07:37:00  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Climbs for Third Straight Session — Brent crude futures rose toward $98 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles.
+
+---
+
+### 2026-06-03 07:36:50  #國際
+
+美國中央司令部：美軍對格什姆島發動打擊，以回應伊朗發動的未遂襲擊。
+
+---
+
+### 2026-06-03 07:36:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY
+
+Japan finalizes $19 bln supplementary budget to subsidize soaring fuel and utility costs.
+
+---
+
+### 2026-06-03 07:36:26
+
+美國中央司令部：當地時間6月2日，美軍成功擊退了伊朗發射的多枚彈道導彈及無人機，並針對伊朗在中東全境企圖發動的襲擊，對格什姆島實施了自衛打擊。
+
+---
+
+### 2026-06-03 07:36:26  #國際
+
+美國中央司令部：美軍週二攔截摧毀了多枚伊朗彈道導彈及無人機。
+
+---
+
+### 2026-06-03 07:36:10  #國際
+
+日本政府敲定規模達190億美元的追加預算，用於補貼飆升的燃料與公用事業費用。
+
+---
+
+### 2026-06-03 07:36:08  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Climbs for Third Straight Session — WTI crude futures rose above $95 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles.
+
+---
+
+### 2026-06-03 07:35:56  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said on June 2 (local time) US forces repelled multiple ballistic missiles and drones launched by Iran and carried out a self-defensive strike on Qeshm Island in response to Iran's attempted attacks across the Middle East.
+
+---
+
+### 2026-06-03 07:35:53  #國際
+
+美國：伊朗向鄰國發射了數枚彈道導彈。
+
+---
+
+### 2026-06-03 07:35:47  #公司
+
+【光伏企業集體轉型綜合能源服務商 算電協同成爭奪重地】6月2日，全球重磅光伏展會2026 SNEC SMART E國際智慧能源大會在上海開幕。記者參會發現，光伏行業正逐漸告別單一製造時代，邁入價值重構元年，企業加速從光伏產品製造商向綜合能源、零碳算力服務商轉型。產業轉型的“重頭戲”是算電協同。當日，多家光伏龍頭落地AIDC算電融合方案，針對性研發算力專用光伏產品。有儲能上市公司高管對記者表示，“十五五”末算力中心用電量有望達到全社會用電量的8%，對新能源及儲能的帶動效應非常顯著，且有望超預期。（上海證券報）
 
 ---
 
@@ -22959,95 +23067,5 @@ TSX Slips as Middle East Tensions Weigh — The S&P/TSX Composite Index shed 0.1
 ### 2026-06-02 04:21:04  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Crude Near $95 — Oil prices pared some gains but remained sharply higher on the first trading day of June, with Brent crude futures rising 5% to trade above $95 per barrel. Prices initially surged more than 7% after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Still, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz.
-
----
-
-### 2026-06-02 04:18:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC signals Bab al‑Mandeb navigation will be aligned with Strait of Hormuz】IRGC Quds Force commander Qaani said on the 1st that Israeli military action in Lebanon and Gaza, backed by the US, will expand the 'axis of resistance's' support for those fronts and activate other fronts, and that navigation through the Bab al‑Mandeb will be aligned with the Strait of Hormuz.
-
----
-
-### 2026-06-02 04:16:55  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rebound to Hit New Highs — The three major US stock indexes rebounded from a cautious start to close at fresh record highs on Monday, as President Trump said talks with Iran were continuing at a rapid pace and a resurgence in AI-related stocks also helping to boost investors' sentiment. The S&P 500 gained 0.3%, the Nasdaq advanced 0.4%, and the Dow Jones added 46 points. Technology stocks led the rally, with Nvidia surging 6.3% after unveiling its new RTX Spark Superchip, marking its entry into the PC market. Optimism surrounding Nvidia's latest offering boosted software and hyperscaler stocks, with Microsoft rising 2.3% and Oracle jumping 9.9%. The positive spillover also lifted hardware-related names, as Micron Technology and Dell Technologies climbed 6.6% and 10.8%, respectively. Energy shares also traded higher amid rising oil prices, with Exxon Mobil gaining 2.5% and Chevron advancing 1.9%.
-
----
-
-### 2026-06-02 04:14:02  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
-
-【Netanyahu: IDF will continue planned operations in southern Lebanon】On the evening of June 1, Netanyahu said on social media he had spoken by phone with US President Trump and told him that if Hezbollah continues attacks on Israeli cities and civilians, Israel would strike related targets in Beirut. He said Israel's position remains unchanged and the IDF will continue planned operations in southern Lebanon.
-
----
-
-### 2026-06-02 04:13:28  #國際
-
-【以總理：以軍將繼續按計劃在黎南部開展行動】當地時間6月1日晚間，以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”
-
----
-
-### 2026-06-02 04:12:10  #其他
-
-【丹麥看守首相宣佈新政府組建完成】當地時間6月1日，丹麥看守首相弗雷澤裡克森覲見丹麥國王，向國王報告成功組建新政府。
-
----
-
-### 2026-06-02 04:11:16  #MKT News
-
-Al Jazeera cited a Qatari diplomatic source saying the US informed Qatar that, after a phone call between Trump and Netanyahu, Israel's earlier threat to strike Beirut's southern suburbs was canceled.
-
----
-
-### 2026-06-02 04:10:24  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Hewlett Packard earnings above expectations at 0.79 USD — Hewlett Packard (HPE) released earnings per share at 0.79 USD, compared to market expectations of 0.53 USD.
-
----
-
-### 2026-06-02 04:10:19  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Prices Pare Some Gains But Remain Elevated — Oil prices pared some gains but remained sharply higher on the first trading day of June, with WTI crude futures rising 6% to trade above $92 per barrel. Prices initially surged after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Despite the pullback, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz.
-
----
-
-### 2026-06-02 04:09:15  #公司
-
-惠與科技股價飆升28%，此前該公司釋出全年盈利預期超出預期。
-
----
-
-### 2026-06-02 04:09:00  #MKT News #Market Themes #AI Revolution
-
-Semafor reports Luma AI is building a robotics lab that will allow anyone to use its software to train robots.
-
----
-
-### 2026-06-02 04:08:15  #焦點 #國際
-
-【伊朗革命衛隊暗示曼德海峽通航將受管控】伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼1日表示，以色列在美國支援下對黎巴嫩和加沙的軍事行動，將使“抵抗陣線”擴大對這兩個戰線的支援並“啟用”其他戰線，曼德海峽的通航狀況將與霍爾木茲海峽“保持一致”。（新華社）
-
----
-
-### 2026-06-02 04:06:06  #國際
-
-伊朗革命衛隊海軍宣佈，針對美軍在阿曼海襲擊伊朗“利安星號”船隻一事，己方對關聯美以兩方的“地中海航運薩里斯卡號”貨輪實施報復性打擊。
-
----
-
-### 2026-06-02 04:06:03  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-Iran's Islamic Revolutionary Guard Corps Navy attacked the US-owned cargo ship MSC Sariska.
-
----
-
-### 2026-06-02 04:05:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-Dow Jones Industrial Average rose 46.48 points, or 0.09%, to 51,078.94 on Monday, June 1; the S&P 500 rose 19.96 points, or 0.26%, to 7,600.02; the Nasdaq Composite rose 114.19 points, or 0.42%, to 27,086.81.
-
----
-
-### 2026-06-02 04:05:25  #MKT News #WTI #Impact bearish #Brent
-
-TASNIM NEWS: Since the Persian Gulf maritime authority began operations in early May, more than 300 non‑Iranian‑flagged vessels have submitted information to apply for permits for safe transit of the Strait of Hormuz, the vast majority of them tankers.
 
 ---

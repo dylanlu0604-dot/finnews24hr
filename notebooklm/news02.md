@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 19:51:20_
-_本檔包含 3819 則快訊，約 704878 字_
+_更新時間：2026-06-07 20:22:49_
+_本檔包含 3815 則快訊，約 705137 字_
+
+---
+
+### 2026-06-05 13:15:19  #公司 #國際
+
+【黃仁勳：未來半導體制造將越來越依賴機器人和人工智慧】英偉達執行長黃仁勳週五表示，英偉達將與韓國製造企業合作，共同推進機器人和人工智慧領域的發展。“因為韓國是世界製造業中心，我們可以將我們在此研發的機器人技術、物理人工智慧技術應用於該行業，”他說。“未來半導體制造將越來越依賴機器人和人工智慧，因此我們也有絕佳的機會與當地的半導體公司合作。”
+
+---
+
+### 2026-06-05 13:15:16  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Depreciates by 0.68% — Top currency loser is South Korean Won (-0.68%). Gains are led by Indian Rupee (0.54%). Meanwhile, Euro, British Pound, Dollar Index and Japanese Yen were little changed.
+
+---
+
+### 2026-06-05 13:13:31  #公司
+
+【豐田叫停雷克薩斯LF-ZC量產，回應：不是放棄純電車！】近日，有訊息稱，豐田叫停了雷克薩斯純電動轎車LF-ZC量產車型的開發。“本次車型開發中止，主要是考慮到了市場需求的變化，這也是公司對整體車輛開發專案進行調整的一部分，但並不代表公司放棄了BEV（純電動汽車）。”針對上述車型研發暫停的原因，豐田中國相關工作人員記者回應稱。（每經）
+
+---
+
+### 2026-06-05 13:12:52  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #TM.O #Impact bearish
+
+【Toyota halts Lexus LF-ZC production; says not abandoning BEVs】Toyota has stopped development of the Lexus LF-ZC battery EV, which had been slated for series production at its Tahara plant in Japan. The model was due to enter production in late-2026, was pushed to mid-2027, and is now suspended. Toyota China says the halt reflects changing market demand and broader vehicle program adjustments and does not mean the company is abandoning BEVs. Industry observers cite recent policy shifts — including the removal of the $7,500 US federal EV tax credit and the EU’s rollback of its effective 2035 ICE-sales ban — and intensifying competition from Chinese EV brands, which have a competitive edge over Japanese automakers in new-energy vehicles.
+
+---
+
+### 2026-06-05 13:12:42  #其他
+
+6月4日，多位市場人士及接近監管的人士向財新表示，資料資產ABS日前已被暫時叫停。兩位投行人士均稱，6月3日收到來自交易所的視窗指導，暫停申報資料資產ABS，"如果自行申報會被勸退"。另另有一位資深債市人士稱，不只是申報暫停，已過會的專案也已暫停封卷領取批文，而已拿到批文的專案則可能需要暫緩備案發行。（財新網）
+
+---
+
+### 2026-06-05 13:11:43  #MKT News #Commodities #Energy #WTI #Brent
+
+Venezuela's acting president welcomes Indian firms to actively participate in the country's reformed oil and gas sector.
+
+---
+
+### 2026-06-05 13:11:07  #國際
+
+印度政府訊息：委內瑞拉代總統歡迎印度企業積極參與委內瑞拉改革後的油氣領域。
+
+---
+
+### 2026-06-05 13:10:44  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量1595億元。
+
+---
+
+### 2026-06-05 13:10:02  #公司 #觀點
+
+摩根大通將特斯拉評級從減持上調至中性，目標股價從145美元上調至475美元。
+
+---
+
+### 2026-06-05 13:09:42  #國際
+
+印度政府表示，委內瑞拉臨時總統已邀請印度能源代表團訪委，勘探能源領域合作機遇。
+
+---
+
+### 2026-06-05 13:09:19  #MKT News #Commodities #Energy
+
+India's oil minister said Indian firms are willing to deepen their presence in Venezuela.
+
+---
+
+### 2026-06-05 13:09:05  #國際
+
+【巴拿馬副外長：希望巴中繼續開展多層次對話】巴拿馬外交部副部長卡洛斯·格瓦拉·曼3日晚說，巴拿馬同中國的關係不僅體現在外交和經貿領域，也體現在兩國人民長期以來建立的深厚友誼和文化交流中。希望雙方繼續開展多層次對話，推動兩國關係不斷發展。中國駐巴拿馬大使館3日晚在巴拿馬城舉行招待會，慶祝中巴建交9週年。巴拿馬政府官員及社會各界代表出席。曼在致辭中說，中國長期以來為巴拿馬人才培養提供了重要支援。他希望中國和巴拿馬繼續開展多層次對話，以尊重、共情和建設性合作為基礎，推動兩國關係不斷發展。（新華社）
+
+---
+
+### 2026-06-05 13:08:58  #MKT News #Market Themes #AI Revolution
+
+【Huawei Cloud launches Agentic AI product suite】At its INSPIRE conference in Shanghai, Huawei Cloud proposed the Agentic Infra paradigm and launched an Agentic AI product suite, including Agentic Infra integrated intelligence‑and‑infrastructure, a next‑generation model training and inference platform, and an enterprise‑grade intelligent agent platform.
+
+---
+
+### 2026-06-05 13:08:32  #其他
+
+【聯利支助團：聯合國機構未在利比亞境內安置移民】聯合國利比亞支助團（聯利支助團）4日晚發表宣告，否認有關聯合國機構正在利比亞境內安置移民的指控，稱此類說法“完全不實”。
+
+---
+
+### 2026-06-05 13:07:01  #國際
+
+印度石油部長表示，印度企業有意深化在委內瑞拉的業務佈局。
+
+---
+
+### 2026-06-05 13:06:52  #市場 #國際
+
+印度Nifty 50指數抹去盤中漲幅，最新下跌0.02%。
+
+---
+
+### 2026-06-05 13:05:53  #國際
+
+【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。
+
+---
+
+### 2026-06-05 13:04:49  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
+
+Japan Leading Index Highest Since 2021 — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, rose to 115.9 in April 2026 from an upwardly revised 115.4 in the previous month, exceeding market forecasts of 114.3, preliminary estimates showed. It was the highest reading since December 2021, underscoring a gradual improvement in the economic outlook.
+
+---
+
+### 2026-06-05 13:04:16  #公司 #國際
+
+【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。DSI將對其獲取的商業資訊和合同條款保密。只要未發現低價報關行為，現有的戰略性自然資源大宗商品出口合同將繼續有效。該基金表示，遵守良好商業規範的出口商將不會面臨運營中斷，這有助於確保法律的確定性和有利的商業環境。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。
 
 ---
 
@@ -22859,143 +22973,5 @@ Hong Kong-listed auto stocks opened lower; Nio-SW (09866.HK) fell nearly 4%, wit
 ### 2026-06-04 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
 
 China A-shares opened lower: Shanghai Composite down 0.74%, Shenzhen Composite Index down 1.05%, ChiNext down 1.22%. F5G, CPO and AI PC concept stocks led declines.
-
----
-
-### 2026-06-04 09:25:17  #其他
-
-【AI音樂平臺Suno融資超4億美元，投後估值54億美元】人工智慧音樂平臺Suno當地時間6月3日宣佈完成超4億美元D輪融資，投後估值54億美元。本輪融資由Bond Capital領投，IVP、Forerunner、Union Square Ventures、Alkeon和Quiet跟投，現有投資者Matrix、Lightspeed、Menlo Ventures和Schroders Capital參投。
-
----
-
-### 2026-06-04 09:25:07  #市場
-
-富時中國A50指數期貨跌幅擴大至1%。
-
----
-
-### 2026-06-04 09:25:07  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
-
-FTSE China A50 index futures extended losses to 1%.
-
----
-
-### 2026-06-04 09:25:02  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said the shift from generative AI to autonomous AI is driving higher token consumption in large language models, boosting demand for compute capacity and advanced semiconductors.
-
----
-
-### 2026-06-04 09:23:59  #MKT News #00992.HK #Impact bearish #09626.HK #09888.HK
-
-Hong Kong-listed tech names opened lower: Lenovo Group (00992.HK) down over 5%, Bilibili (09626.HK) down over 2%, Baidu (09888.HK), Hua Hong Semiconductor (01347.HK) and SMIC (00981.HK) each down more than 1%.
-
----
-
-### 2026-06-04 09:23:58  #市場 #焦點
-
-焦煤連續主力合約日內漲4%，現報1427.00元。
-
----
-
-### 2026-06-04 09:23:50  #MKT News
-
-【Where to Park Spare Cash? Money‑Market Yield Snapshot】Tencent's Licaitong (on-demand plus 7-day annualized yield) ranged 0.7550%–1.1940%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 1.0010%–1.0320%. Alipay's Yu'e Bao 7-day annualized yield ranged 1.0000%–1.0250%.
-
----
-
-### 2026-06-04 09:23:35  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N): In its mature-process strategy the company is prioritizing deployment of capacity for specialty process technologies designed to deliver superior yields.
-
----
-
-### 2026-06-04 09:23:13  #公司
-
-臺積電執行長表示：從生成式人工智慧向智慧體人工智慧的轉型，正推動大型語言模型的令牌消耗攀升，進而提升了對算力與先進半導體的需求。
-
----
-
-### 2026-06-04 09:23:02  #市場 #焦點
-
-紐約期金突破4500美元/盎司，日內漲0.74%。
-
----
-
-### 2026-06-04 09:22:46  #其他
-
-【教育部和各省（區、市）開通2026年高考舉報電話】近日，教育部統一公佈了教育部以及各省（區、市）2026年的高考舉報電話，歡迎廣大考生、家長及社會各界人士及時舉報反映涉及2026年高考的問題線索。教育部及各省（區、市）將會同有關部門根據舉報線索第一時間核查處理，堅決維護高考公平公正。
-
----
-
-### 2026-06-04 09:22:36  #市場 #焦點
-
-現貨黃金突破4470美元/盎司，日內漲0.81%。
-
----
-
-### 2026-06-04 09:22:29  #市場 #焦點
-
-紐約期銀突破74美元/盎司，日內漲0.42%。
-
----
-
-### 2026-06-04 09:22:08  #公司 #國際
-
-三井商船將投資3億美元用於美國海上浮式液化天然氣專案。
-
----
-
-### 2026-06-04 09:21:54  #焦點
-
-港股恒指低開跌0.66％，國企指數跌0.6％，恒生科技指數開跌1.23%。
-
----
-
-### 2026-06-04 09:21:49  #央行 #中國央行
-
-【央行：今日7天期逆回購操作量為零】央行公告，根據公開市場業務一級交易商的需求，2026年6月4日7天期逆回購操作量為零。
-
----
-
-### 2026-06-04 09:21:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong equities opened lower on Thursday, June 4: Hang Seng Index (HSI) down 167.91 points (-0.66%) at 25,465.3; Hang Seng TECH down 62.03 points (-1.23%) at 4,994.94; Hang Seng China Enterprises Index (HSCEI) down 51.86 points (-0.60%) at 8,544.73; Red Chip Index down 13.01 points (-0.29%) at 4,443.83.
-
----
-
-### 2026-06-04 09:21:30  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #01211.HK
-
-Hong Kong open: HSI down 0.66%, Hang Seng Tech Index down 1.23%. BYD Co. (01211.HK) opened down 3.43%.
-
----
-
-### 2026-06-04 09:21:17  #公司
-
-臺積電執行長表示：我們的客戶以及客戶的下游客戶，尤其是雲服務提供商，依然對人工智慧行業前景持樂觀態度。
-
----
-
-### 2026-06-04 09:21:13  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，今日7天期逆回購操作量為零。
-
----
-
-### 2026-06-04 09:21:07  #其他
-
-【全國統一電力市場體系建設提速】國家發展改革委、國家能源局近日印發通知，部署在雲霄直流開展輸電權市場化交易。專家指出，輸電權交易是面向省間稀缺輸電通道資源推出的全新市場化交易品種，有助於填補全國統一電力市場在輸電容量配置領域的制度空白。華北電力大學教授、國家能源發展戰略研究院執行院長王鵬表示，過往跨區直流輸電資源多依託行政計劃統籌排程，輸電權市場化落地後，其配套電能量市場，就能更好地由市場供需決定配置去向，從機制層面破解區域電力供需錯配等行業痛點。值得關注的是，跨網電力常態化交易的核心問題之一，是明確輸電通道容量的使用優先順序與分配規則。為此，通知提出透過市場化方式確定輸電權。“未來，待試點執行成熟、經驗可複製後，相關機制有望逐步向全國其他跨省跨區輸電通道推廣，最終實現輸電權市場與電能量市場的深度協同，進一步健全完善全國統一電力市場體系。”王鵬說。（經濟參考報）
-
----
-
-### 2026-06-04 09:21:05  #MKT News
-
-【Construction of national unified power market speeds up】The National Development and Reform Commission and the National Energy Administration have issued a notice to pilot market-based trading of transmission rights on the Yunxiao DC link. Regulators say transmission-rights trading is a new market product for scarce interprovincial transmission channels that fills an institutional gap in allocating transmission capacity within the national unified power market. Wang Peng, professor at North China Electric Power University and executive director of the National Energy Development Strategy Institute, said cross-region DC transmission has been managed by administrative scheduling; marketising transmission rights alongside a complementary energy market will allow supply and demand to more directly determine allocation and help resolve regional power supply-demand mismatches. The notice singles out defining priority and allocation rules for transmission-channel capacity as a core issue and proposes using market mechanisms to allocate transmission rights. If the pilot proves mature and replicable, the mechanism could be extended to other interprovincial links to deepen coordination between transmission-rights and energy markets and strengthen the national unified power market system.
-
----
-
-### 2026-06-04 09:21:02  #MKT News #Important #Market Regions #Greater China #CNH
-
-PBOC said today's 7-day reverse repo operation amount was zero, set according to demand from open-market primary dealers.
 
 ---
