@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 15:38:36_
-_本檔包含 3602 則快訊，約 708156 字_
+_更新時間：2026-06-07 16:06:07_
+_本檔包含 3602 則快訊，約 707530 字_
+
+---
+
+### 2026-06-01 23:54:29  #國際
+
+【伊朗最高領袖軍事顧問：伊方耐心有限 絕不允許海上封鎖繼續】當地時間1日，伊朗最高領袖軍事顧問雷扎伊表示，霍爾木茲海峽由伊朗控制，伊朗絕不允許海上封鎖繼續下去，也絕不容忍黎巴嫩局勢升級。伊朗武裝部隊的耐心是有限的。（央視新聞）
+
+---
+
+### 2026-06-01 23:53:38  #國際
+
+以色列國防軍通報：以色列羅斯哈尼克拉與霍夫貝特澤特地區響起針對敵方飛行器的防空警報。
+
+---
+
+### 2026-06-01 23:52:22  #MKT News
+
+IDF: Enemy aircraft alerts sounded inside Israel; alerts reported in Rosh Hanikra and Betzet coastal areas.
+
+---
+
+### 2026-06-01 23:51:47  #國際
+
+伊朗第一副總統：如今事實已十分明朗，美國中央情報局與以色列摩薩德針對伊朗的戰略就是顛覆本國政府。
+
+---
+
+### 2026-06-01 23:50:19  #MKT News
+
+Rosatom said it will maintain contact with the IAEA later this week.
+
+---
+
+### 2026-06-01 23:49:04  #其他
+
+【烏干達反政府武裝襲擊剛果（金）東部致16人死亡】剛果（金）政府6月1日發表宣告說，烏干達反政府武裝“民主同盟軍”5月31日襲擊了剛果（金）東部北基伍省貝尼市一個街區，造成16人死亡。宣告說，襲擊發生在貝尼市北部。根據當地部門通報，遇難者包括15名平民和1名軍人，多處民房在襲擊中受損。宣告說，打擊“民主同盟軍”仍是剛果（金）政府的“絕對優先事項”。剛果（金）軍方正在追捕襲擊者，並採取必要措施加強平民保護。（新華社）
+
+---
+
+### 2026-06-01 23:48:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran's armed forces warn Israel】On June 1, Abdollahi, commander of Iran's Khatam al-Anbiya Central Command, warned Israel after it reportedly threatened to bomb the southern suburbs of Beirut and issued evacuation notices to local residents. Citing repeated ceasefire violations, he warned residents near northern Israel and around military facilities to evacuate, saying "if you do not want to be harmed, leave immediately."
+
+---
+
+### 2026-06-01 23:47:28  #國際
+
+【伊朗武裝部隊警告以色列】伊朗武裝部隊哈塔姆·安比亞中央司令部司令阿卜杜拉希6月1日發出警告稱，以色列繼續在該地區作惡，威脅要轟炸黎巴嫩首都貝魯特南郊，並向當地居民發出撤離警告。鑑於該政權屢次違反停火協議，倘若這一威脅付諸實施的話，伊朗也警告以色列北部地區居民和軍事設施附近居民，“如果不想受到傷害，請立即離開該地區”。（ CCTV國際時訊 ）
+
+---
+
+### 2026-06-01 23:46:18  #Trading Economics #Markets #United States #Stock Market #Importance 3
+
+S&P 500, Nasdaq Rise to Record High — US stocks were mixed on Monday as conflicting signals on the US-Iran conflict contrasted with the strong momentum for the AI sector. The S&P 500 inched higher and the Nasdaq 100 was 0.5% up to their records, while the Dow hovered below the flatline. Nvidia gained 4% after it announced its new RTX Spark Superchip to mark its entry in the PC market. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft gaining 2.5% and Oracle gaining 6%, while complementing hardware surged with Micron and Dell jumping 7%. Meanwhile, IBM soared 10% after the resurgence of footage showing President Trump saying the stock has a "nice price". Iran stated that it is halting talks with the US until Israel ceases attacks in Gaza shortly after new strikes between Iran and GCC members, despite US President Trump stating that dialogue with Tehran was promising. Traditional economic sectors were penalized with Visa dropping1%.
+
+---
+
+### 2026-06-01 23:44:27  #央行 #公司 #觀點 #國際
+
+【調查顯示，隨著3月伊朗局勢衝擊消退，英國公眾5月通脹預期進一步放緩】根據民調公司YouGov為美國花旗銀行進行的月度調查資料，英國公眾對未來通貨膨脹的預期在5月份有所緩和，一年期通脹預期從5.0%回落至4.7%，3月為5.4%，長期通脹預期從4.5%回落至4.0%。此前該預期曾在3月份飆升至2023年以來的最高水平。這一回落跡象讓英國央行感到些許寬慰，表明伊朗戰爭帶來的價格衝擊所造成的持久影響可能比最初想象的要小。
+
+---
+
+### 2026-06-01 23:43:59  #市場 #央行 #國際
+
+【國際金價跌破4500美元】因中東緊張局勢加劇，國際黃金價格1日盤中加速下跌。紐約商品交易所8月黃金期價一度跌至每盎司4455美元附近，跌幅接近2.5%。 據伊朗媒體1日報道，伊朗和“抵抗陣線”計劃徹底封鎖霍爾木茲海峽，並在曼德海峽等其他“戰線”開啟行動。 據伊朗塔斯尼姆通訊社1日報道，伊朗官員表示，以色列必須立即停止在黎巴嫩和加沙地帶的軍事行動，並從黎巴嫩撤出。在此要求得到滿足前，伊朗不會舉行任何談判。 市場分析認為，國際能源成本上漲將推升通脹，強化了包括美聯儲在內的主要央行可能在更長時間內維持緊縮貨幣政策的市場預期，令金價承壓。(新華社)
+
+---
+
+### 2026-06-01 23:42:57  #MKT News #Market Regions #Europe & UK
+
+BBC reports London Underground strike will go ahead as scheduled after talks collapsed.
+
+---
+
+### 2026-06-01 23:41:53  #MKT News #Market Regions #Japan & APAC
+
+Nikkei reports BlackRock will acquire a 15% stake in Japanese taxi app GO.
+
+---
+
+### 2026-06-01 23:41:33  #公司 #國際
+
+市場訊息：貝萊德擬收購日本打車軟體 Go 公司 15% 股權。
+
+---
+
+### 2026-06-01 23:39:50  #MKT News
+
+Turkey's President Erdogan said the government will not allow street unrest.
+
+---
+
+### 2026-06-01 23:39:39  #其他
+
+土耳其總統埃爾多安：主要反對黨內部的派系紛爭與土政府無關， 政府不會放任街頭陷入動盪。
+
+---
+
+### 2026-06-01 23:39:15  #MKT News
+
+Turkey's President ERDOGAN said internal debates within the main opposition party are unrelated to the government.
+
+---
+
+### 2026-06-01 23:38:52  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's central military command warned that if Israel attacks Beirut, residents in northern Israel should leave to avoid harm.
+
+---
+
+### 2026-06-01 23:38:38  #焦點 #國際
+
+伊朗中央軍事指揮部警告：若以色列空襲貝魯特，為免遭打擊，奉勸以色列北部居民提前撤離。
+
+---
+
+### 2026-06-01 23:38:33  #MKT News
+
+Interfax reports Russia's nuclear regulator chief met with IAEA Director General Grossi to discuss conditions at the Zaporizhzhia nuclear plant.
+
+---
+
+### 2026-06-01 23:37:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities closed lower on Monday June 1: Germany's DAX 30 fell 90.74 points (-0.36%) to 25,022.32; the UK's FTSE 100 dropped 69.45 points (-0.67%) to 10,339.83; France's CAC 40 slid 36.75 points (-0.45%) to 8,146.59; the Euro Stoxx 50 lost 16.18 points (-0.27%) to 6,034.36; Spain's IBEX 35 declined 178.44 points (-0.97%) to 18,189.86; Italy's FTSE MIB fell 255.25 points (-0.51%) to 49,781.50.
+
+---
+
+### 2026-06-01 23:37:48  #MKT News
+
+Islamic Republic of Iran Broadcasting (IRIB) said that, after actions by the US and Israel (USrael), dictionary editors should reconsider the definition of ceasefire.
+
+---
+
+### 2026-06-01 23:37:42  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Lebanese official says Hezbollah prepared for immediate comprehensive ceasefire; Iran suspends US-mediated talks】Axios reports an adviser to Lebanese Parliament Speaker Nabih Berri told the Trump administration that Hezbollah is prepared to agree to an immediate, comprehensive ceasefire with Israel and has pledged to ensure enforcement. Fighting in Lebanon is escalating and could jeopardize prospects of ending the Iran–Israel war, particularly after Prime Minister Netanyahu threatened strikes on Beirut. Tasnim News Agency reported Iran has suspended US-mediated talks in protest of Israeli actions in Lebanon. Berri is one of Lebanon’s most powerful Shia politicians and close to Hezbollah, but US and Israeli officials question whether he can compel Hezbollah to comply.
+
+---
+
+### 2026-06-01 23:37:31  #國際
+
+市場訊息：俄羅斯核監管機構負責人與國際原子能機構總幹事格羅西就扎波羅熱核電站局勢舉行會談。
+
+---
+
+### 2026-06-01 23:35:51  #國際
+
+伊朗最高領袖顧問：霍爾木茲海峽由伊朗管控，我方不會容忍封鎖局面持續下去。我方不會容忍黎巴嫩局勢持續升溫，伊朗武裝部隊的忍耐有限度。
+
+---
+
+### 2026-06-01 23:35:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+US 3-month Treasury bill auction on June 1 — percentage of awards at the stop-out rate 44.66%, prior 25.6%.
+
+---
+
+### 2026-06-01 23:34:44  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jun.1) | actual 44.66% | previous 25.6%
+
+---
+
+### 2026-06-01 23:34:10  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+U.S. 3-month Treasury bill auction bid-cover ratio 2.69 on June 1, down from 3.08 previously.
+
+---
+
+### 2026-06-01 23:33:56  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.1) | actual 2.69 | previous 3.08
+
+---
+
+### 2026-06-01 23:33:54  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish
+
+U.S. 3-month Treasury auction (dated June 1) stop-out yield 3.63%, prior 3.60%.
+
+---
+
+### 2026-06-01 23:33:42  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jun.1) | actual 3.63% | previous 3.60%
+
+---
+
+### 2026-06-01 23:32:53  #MKT News #Market Themes #China EV Leaders
+
+【Changan Automobile May deliveries 209,100; overseas +38% YoY】Changan Automobile said May deliveries totaled 209,100 vehicles; overseas deliveries were 70,700 (+38% YoY). New-energy vehicle deliveries in May were 92,400.
+
+---
+
+### 2026-06-01 23:32:46  #MKT News #Important
+
+Axios reported Lebanon's parliament speaker told the Trump administration on Sunday that Hezbollah is ready for a full ceasefire with Israel and has pledged to ensure the ceasefire's implementation.
 
 ---
 
@@ -21533,203 +21731,5 @@ Tasnim News quoted the Islamic Revolutionary Guard Corps as saying 28 vessels, i
 ### 2026-05-31 16:09:43  #公司
 
 【利歐股份：更新H股發行上市申請資料並披露查詢方式】利歐股份公告稱，公司正在申請發行H股並在香港聯交所主機板掛牌上市，已於2025年9月29日遞交申請並刊登申請材料。2026年5月29日，公司更新遞交申請並登載更新資料。本次發行認購物件為境外及境內合格投資者，境內不刊登申請資料，提供香港聯交所網站查詢連結。本次發行尚需相關部門批准，能否實施存在不確定性，公司將及時披露進展。
-
----
-
-### 2026-05-31 16:05:54  #國際
-
-馬來西亞5月棕櫚油出口下降8.8%。
-
----
-
-### 2026-05-31 16:05:44  #國際
-
-馬來西亞5月1日至31日棕櫚油出口量為1,280,897噸。
-
----
-
-### 2026-05-31 16:01:03  #國際
-
-【以色列北部地區拉響防空警報】當地時間31日，以色列國防軍釋出宣告稱，以色列北部扎裡特地區拉響防空警報，相關情況正在進一步瞭解中。（央視新聞）
-
----
-
-### 2026-05-31 16:00:49  #其他
-
-英國首相斯塔默：我曾承諾，定會整改鐵路系統。今日，南方鐵路、泰晤士連線鐵路、大北方鐵路及蓋特威克快線正式收歸公有。今後運營將以公共利益為先，而非追逐私人利潤。本屆工黨政府始終把乘客放在首位。
-
----
-
-### 2026-05-31 15:58:30  #公司
-
-【天健集團：截至目前，公司不存在正在籌劃中的重大資產重組、股份發行、收購等重大事項】天健集團(000090)5月31日釋出股票交易異常波動公告，公司近日關注到網路上流傳關於本公司將進行重組整合的不實資訊，引發關注，對此，公司澄清並鄭重宣告如下：截至目前，公司不存在正在籌劃中的重大資產重組、股份發行、收購等重大事項。近期公司經營情況及內外部經營環境未發生重大變化。
-
----
-
-### 2026-05-31 15:55:55  #國際
-
-【多名藝人辭演 特朗普要當國慶開場秀主角】美國為慶祝獨立250週年籌劃了一系列活動，包括在首都華盛頓的國家廣場舉行的現場音樂會。然而，近來多名美國知名音樂人因擔心捲入政治紛爭而宣佈辭演。美國總統特朗普5月30日對藝人辭演行為表達不滿，稱其打算舉辦一場政治集會並由他本人發表演講，當作系列慶祝活動的“開場秀”。綜合美聯社等多家外媒報道，先前宣佈在音樂會現場獻唱的9名演出嘉賓中已有5人宣佈退出，包括美國搖滾樂隊主唱佈雷特·邁克爾斯、鄉村女歌手馬丁娜·麥克布賴德等。邁克爾斯在社交媒體上解釋說，他原先同意參演的慶祝活動如今變得具有明顯“分裂性”，他不願牽涉其中。麥克布賴德也發表宣告說，她原以為自己受邀出演的是一場“無黨派活動”，後來發現自己被“誤導”。特朗普在社交媒體上發帖對藝人辭演行為表達不滿，並暗示可能取消音樂會，“應該舉辦一場大型‘讓美國再次偉大’（MAGA）政治集會，而不是邀請那些收費高昂、音樂乏味到沒人愛聽、只會抱怨的歌手”，他自己將上臺挑大樑，取代那些“三流藝術家”。按照特朗普說法，其聽眾之多，超過巔峰時期的搖滾歌手“貓王”埃爾維斯·普雷斯利。他提到，將要求手下研究在國家廣場舉行集會、由他發表演講的可行性。慶祝活動組織方“自由250”5月30日證實，特朗普將於6月24日“親自啟動”慶祝活動。（新華社）
-
----
-
-### 2026-05-31 15:53:21  #公司
-
-【報告稱每千部AI劇只有1部爆款】DataEye研究院提供給第一財經的資料顯示，今年4月，僅抖音原生端單月新增AI劇/漫劇就達到4.42萬部，而同期新增真人實拍微短劇僅3248部，AI短劇產量已經是真人短劇的13倍以上。 從產量看，AI短劇已經碾壓真人短劇，但淘汰率同樣驚人。DataEye研究院提供給第一財經的資料顯示，今年4月抖音新增的4.42萬部AI劇中，播放量破億的僅267部，破億率僅為0.6%。而根據《中國AI影視發展報告（2025-2026）》，截至2026年2月末，在播AI劇/漫劇總量12.78萬部，播放量破億的頭部作品不超過150部，佔比僅0.117%——這意味著每1000部AI作品中，只有約1部能進入“億級俱樂部”。（第一財經）
-
----
-
-### 2026-05-31 15:52:13  #國際
-
-市場訊息：以色列北部拉響紅色警報。
-
----
-
-### 2026-05-31 15:51:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Red-alert sirens sounded in northern Israel.
-
----
-
-### 2026-05-31 15:49:18  #公司 #觀點 #國際
-
-【海外資金加速佈局中國硬科技資產 萬億級資產配置風向標瞄準中國】29日，全球知名指數編制機構明晟最新季度調整正式生效。作為指引全球萬億級資產配置的核心風向標，此次調整新納入了多家中國科技公司。與此同時，多家國際投行也在加速佈局中國優質資產，外資金融機構對中國市場的投資熱情持續高漲。資料顯示，今年合格境外機構投資者持有A股總市值接近2000億元，其中電池、高階通訊裝置等板塊都收穫百億級資金淨流入。值得注意的是，在這一輪佈局中，除了傳統的國際投行，主打超長期戰略配置的阿布扎比投資局、科威特政府投資局、沙特公共投資基金等中東主權基金也頻頻現身。近期，摩根士丹利、德意志銀行、高盛等多家國際投行密集上調2026年中國GDP增速預期。這些機構普遍認為，中國科技創新的硬核實力，是本輪集體上調預期的核心關鍵。（央視財經）
-
----
-
-### 2026-05-31 15:48:22  #公司
-
-挪威加斯科公司將奧斯貝格油田原定5月1日至6月1日進行的日減產2660萬立方米天然氣的停產作業，重新安排為5月1日至6月2日進行。
-
----
-
-### 2026-05-31 15:47:52  #MKT News
-
-IRNA reported that members of the presidium of Iran's parliament were sworn in at a ceremony presided over by Speaker Mohammad Bagher Ghalibaf; 187 deputies attended remotely and 14 attended in person.
-
----
-
-### 2026-05-31 15:45:52  #國際
-
-今天（5月31日），伊朗議會主席團成員宣誓就職。會議以影片形式召開，由議長卡利巴夫主持，187名代表線上參會，14名代表到場參會。（CCTV國際時訊）
-
----
-
-### 2026-05-31 15:45:42  #MKT News
-
-Ukrainian President Zelenskiy said Ukraine yesterday received from Germany a new set of IRIS-T air-defence system launchers.
-
----
-
-### 2026-05-31 15:45:18  #Trading Economics #Markets #Jordan #Stock Market #Importance 0
-
-Stocks in Jordan Hit 17-1/2-year High — ASE increased to 4057.00 Index Points, the highest since October 2008. Over the past 4 weeks, Amman Stock Exchange General Index gained 5.28%, and in the last 12 months, it increased 51.87%.
-
----
-
-### 2026-05-31 15:44:45  #公司
-
-【浙江世寶：獨立董事龔俊傑辭任】浙江世寶公告，公司近日收到獨立董事龔俊傑遞交的書面辭任報告。因連續任職已滿六年，龔俊傑申請辭去公司第八屆董事會獨立董事及董事會各專門委員會相關職務，辭任後不再擔任公司任何職務。
-
----
-
-### 2026-05-31 15:44:28  #國際
-
-澤連斯基表示，烏克蘭昨日收到德國交付的一套新型IRIS-T防空發射裝置。
-
----
-
-### 2026-05-31 15:44:02  #公司 #市場
-
-【風華高科：不涉及英偉達認證及暫停接單傳聞不實】風華高科(000636)公告稱，公司股票於5月28日、29日連續2個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。截至5月29日，公司股價53.03元/股，滾動市盈率199.66倍，遠超行業均值77.89倍，5月累計漲幅達111.36%，存在非理性炒作及回撥風險。經核查，公司關注到近期有媒體提及公司“針對代理商0402、0603晶片電阻、MLCC全線暫停接單”，經核查，以上資訊不屬實，為做好部分數字系統升級及產品結構調整，公司執行部分產品暫緩接單，截至公告日，公司已恢復接單。公司關注到近期有媒體提及公司為“國內唯一透過英偉達全系列MLCC認證的企業”，經核查，以上資訊不屬實，截至公告日，英偉達未對公司開展任何產品認證。公司主營產品應用領域較前期保持穩定，以家電、通訊及工業控制板塊為主，汽車電子、人工智慧、儲能及低空經濟等新興市場營收佔比不超過15%，未來存在市場開拓及高階產品價格增長不及預期的風險。
-
----
-
-### 2026-05-31 15:43:29  #MKT News #Hang Seng Index #Impact bullish #CNH #Impact mixed
-
-【Hong Kong cross‑border wealth at HKD 23tr; total AUM >HKD 35tr — Financial Secretary】Hong Kong financial secretary Paul Chan cited a recent 2026 global wealth report estimating the city’s cross‑border wealth management assets rose 10.7% YoY to about HKD 23 trillion last year, overtaking Switzerland as the world’s largest cross‑border wealth centre. The report projects Hong Kong‑managed cross‑border wealth will expand roughly 9% p.a. through 2030. CSRC’s annual Asset and Wealth Management Activity Survey shows total asset and wealth management business in Hong Kong exceeds HKD 35 trillion, with 54% of assets sourced from mainland China and other non‑Hong Kong investors. Chan said AUM doubled and the number of asset managers nearly doubled between 2015 and 2024.
-
----
-
-### 2026-05-31 15:43:16  #其他
-
-【捷克總理：今年或無法達成北約提出的國防開支佔GDP2%目標】據路透社報道，捷克總理安德烈·巴比什在5月31日發表的一篇採訪中表示，捷克今年“可能”無法實現北約提出的國防開支佔國內生產總值（GDP）2%的目標。（環球網）
-
----
-
-### 2026-05-31 15:41:43  #公司
-
-【智明達：627.90萬股限售股6月9日將上市流通】智明達公告稱，公司2025年度以簡易程式向特定物件發行股票新增股份6,278,999股，於2025年12月9日完成股份登記。本次上市流通的限售股共涉及8名股東，對應股份6,278,999股，佔公司當前股份總數的3.61%，將於2026年6月9日解除限售並上市流通。保薦機構認為，本次限售股份上市流通符合相關法規要求，資訊披露真實、準確、完整。
-
----
-
-### 2026-05-31 15:41:34  #公司
-
-【太平鳥：“太平轉債”轉股價格調整 6月5日起恢復轉股】太平鳥公告稱，因實施2025年年度權益分派，“太平轉債”轉股價格將由20.88元/股調整為20.58元/股，調整實施日期為2026年6月5日。“太平轉債”自2026年5月29日至6月4日停止轉股，6月5日起恢復轉股。
-
----
-
-### 2026-05-31 15:41:26  #公司
-
-【晉拓股份：擬5年向上海大學教育發展基金會捐贈1000萬元】晉拓股份公告稱，公司擬以自有資金向上海大學教育發展基金會捐贈1000萬元，分5年捐贈，每年200萬元，用於學生培養、師資建設、學科發展等。本次捐贈構成關聯交易，不構成重大資產重組。該事項已透過公司獨立董事專門會議、第三屆董事會第一次會議審議，無需提交股東會審議。過去12個月內，公司與關聯人相同交易類別下標的相關的關聯交易金額未達最近一期經審計淨資產的5%以上。
-
----
-
-### 2026-05-31 15:41:06  #公司
-
-【浙大網新：ZH12資料中心第3個模組簽署服務合同 預計總收入4.48億元】浙大網新(600797.SH)公告稱，公司全資子公司與阿里巴巴合作建設的ZH12資料中心專案已全部完工並投入運營。近日，浙江天貓技術與專案公司簽署第3個模組服務合同，合同期限10年，預計該模組在服務期內總收入為4.48億元(含稅，不含電費)，將分10年分期確認。至此，ZH12專案3個模組的商務合同已全部簽署完畢。
-
----
-
-### 2026-05-31 15:40:57  #公司 #市場
-
-【賽分科技：擬續聘容誠會計師事務所為2026年度審計機構】賽分科技公告稱，公司於2026年5月29日召開第二屆董事會2026年第四次會議，審議透過擬續聘容誠會計師事務所（特殊普通合夥）為公司2026年度的財務與內部控制審計機構的議案，聘期1年，該議案尚需提交股東會審議。容誠2024年度收入總額25.10億元，審計業務收入23.49億元，證券期貨業務收入12.38億元。公司2025年和2026年財務報表審計費用均擬為58萬元，內控審計費用均擬為20萬元。
-
----
-
-### 2026-05-31 15:40:51  #公司
-
-【渤海汽車：因財報過期 發行股份購買資產事項中止稽核】渤海汽車公告稱，公司擬發行股份及支付現金購買海納川持有的3家公司部分股權並募集配套資金。因交易申請檔案中財務資料於2026年5月31日過有效期，需補充提交，上交所對該交易事項中止稽核。目前財務資料更新工作尚在準備中。本次中止稽核不會對交易產生重大不利影響，公司與中介機構正推進加期審計等工作，完成後將盡快報送更新材料並申請恢復稽核。交易尚需上交所稽核透過及中國證監會同意註冊，存在不確定性。
-
----
-
-### 2026-05-31 15:40:42  #公司
-
-【*ST國化：股票6月1日進入退市整理期 預計22日為最後交易日】*ST國化公告稱，公司股票於2026年6月1日進入退市整理期，預計最後交易日期為6月22日，交易期為15個交易日。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間首個交易日無漲跌幅限制，此後每日漲跌幅限制為10%。公司在退市整理期將不籌劃或實施重大資產重組事項，提醒投資者及時了結相關業務，司法凍結業務提前辦理續凍手續。
-
----
-
-### 2026-05-31 15:40:36  #公司
-
-【福龍馬：子公司福龍馬市政環衛（贛州）完成工商註冊登記】福龍馬公告稱，公司經總裁辦公會審議透過，同意在江西省設立子公司。福龍馬市政環衛（贛州）有限公司於2026年5月20日完成工商註冊登記，取得《營業執照》，註冊資本350萬元。其法定代表人為曲祥東，由公司全資子公司福建福龍馬環境服務有限公司100%持股。
-
----
-
-### 2026-05-31 15:40:16  #公司
-
-【希荻微：董事兼高管郝躍國擬減持不超0.60%股份】希荻微公告稱，董事、副總經理、核心技術人員郝躍國持有公司股份10,153,580股，佔總股本2.45%，均為IPO前取得且已全部解禁。為滿足自身資金需求，其擬自6月23日至9月22日，透過集中競價減持不超2,500,000股，佔總股本不超0.60%。減持計劃符合相關規定，實施存在不確定性，不會對公司治理及經營產生重大影響。
-
----
-
-### 2026-05-31 15:40:07  #公司 #國際
-
-【迪哲醫藥：2026年ASCO年會公佈肺癌領域三項研究進展】迪哲醫藥公告稱，公司在2026年美國臨床腫瘤學會（ASCO）年會上公佈三項非小細胞肺癌（NSCLC）領域研究進展，涉及舒沃哲®、DZD6008、高瑞哲®三款產品。“悟空28”研究顯示，舒沃哲®單藥一線治療EGFR exon20ins NSCLC療效顯著，新增適應症新藥上市申請已獲NMPA受理並納入優先審評。DZD6008單藥治療EGFR C797X突變的三代EGFR TKI耐藥NSCLC展現抗腫瘤活性。高瑞哲®聯合抗PD - 1抗體一線治療無驅動基因突變NSCLC療效持久，耐受性良好。但產品臨床試驗結果及上市批准存在不確定性。
-
----
-
-### 2026-05-31 15:39:57  #公司
-
-【遼寧成大：739.39萬股回購股份於6月1日登出】遼寧成大公告稱，公司2022年決定以1億-2億元回購股份用於股權激勵。2023年5月31日回購期限屆滿，累計回購739.39萬股，佔總股本0.4834%，支付資金1.00億元。2026年3月30日和4月15日，公司分別經董事會和股東會審議，同意登出該部分股份並減少註冊資本。6月1日完成登出，公司總股本將由15.30億股減至15.22億股，註冊資本由1.53億元減至1.52億元。本次登出不會對公司產生重大影響。
-
----
-
-### 2026-05-31 15:38:47  #公司
-
-【博睿資料：股東及董高擬減持不超4.35%股份】博睿資料公告稱，因自身資金安排和需求，股東元亨利匯、董事孟曦東和馮雲彪擬減持股份。元亨利匯擬集中競價減持不超44萬股（佔比0.99%）；孟曦東擬大宗交易減持不超80萬股（佔比1.80%）；馮雲彪擬集中競價和大宗交易減持合計不超105萬股（佔比2.36%）。減持期間為6月23日至9月22日，減持數量和價格存在不確定性。
-
----
-
-### 2026-05-31 15:38:46  #公司
-
-【思林傑：股東擬合計減持不超6%公司股份】思林傑(688115)5月31日公告，持股7.2%的股東橫琴啟創天瑞投資企業（有限合夥）計劃透過集中競價、大宗交易方式減持其持有的公司股份不超過200.01萬股，減持比例不超過公司總股本的3%；持股6.23%的股東深圳市鴻盛泰壹號創業投資合夥企業（有限合夥）計劃透過集中競價、大宗交易方式減持其持有的公司股份不超過200.01萬股，減持比例不超過公司總股本的3%。
 
 ---

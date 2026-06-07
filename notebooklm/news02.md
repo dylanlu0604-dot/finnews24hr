@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 15:38:36_
-_本檔包含 3806 則快訊，約 708332 字_
+_更新時間：2026-06-07 16:06:07_
+_本檔包含 3806 則快訊，約 708248 字_
+
+---
+
+### 2026-06-05 11:25:43  #國際
+
+【電影《給阿嬤的情書》6月18日港澳上映】電影《給阿嬤的情書》官博今日宣佈，《給阿嬤的情書》將於全球上映。6月18日，該影片將於中國香港、中國澳門、新加坡、馬來西亞、汶萊上映。美國、加拿大、澳大利亞、紐西蘭、英國、法國、愛爾蘭、日本、韓國、泰國、越南等更多國家及地區敬請期待。
+
+---
+
+### 2026-06-05 11:25:29  #MKT News #Market Regions #Greater China #06127.HK #Impact bullish
+
+【Joinn Laboratories signs strategic cooperation framework with Kunming Institute of Zoology, Chinese Academy of Sciences】Joinn Laboratories (06127.HK) signed a strategic cooperation framework with the Kunming Institute of Zoology, Chinese Academy of Sciences to collaborate on high-value use of experimental animal resources, development of animal models for major diseases, digital biopharma, and innovative drug R&D and commercialization; the agreement frames comprehensive, deep and long-term cooperation.
+
+---
+
+### 2026-06-05 11:24:43  #其他
+
+【昭衍新藥與中國科學院昆明動物研究所簽署戰略合作框架協議】近日，昭衍新藥與中國科學院昆明動物研究所舉行戰略合作座談會暨簽約儀式，雙方正式簽署戰略合作框架協議，圍繞實驗動物資源高值利用、重大疾病動物模型開發、數字生物醫藥、創新藥研發與成果轉化等領域開啟全面、深度、長期合作。
+
+---
+
+### 2026-06-05 11:24:08  #市場
+
+創業板指日內跌幅再次擴大至1%，此前一度翻紅。
+
+---
+
+### 2026-06-05 11:22:53  #其他
+
+【姚順雨回應“騰訊AI慢了”】針對“騰訊AI方面慢了”的質疑，今日騰訊首席AI科學家姚順雨表示，要判斷AI是長期遊戲還是短期遊戲。他表示，矽谷蔓延著很多情緒，一種是兩年後大家都要失業，工作被AI取代，這是一種判斷，“但我們判斷AI是一個長期遊戲，某種程度上，AI下半場才剛剛開始。ChatGPT和Claude不會是唯二的超級應用，會有新機會產生。”此外，他認為AI未來會變得更多元。（第一財經）
+
+---
+
+### 2026-06-05 11:22:16  #市場 #焦點
+
+焦煤連續主力合約日內漲2%，現報1450.50元。
+
+---
+
+### 2026-06-05 11:22:12  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish
+
+【CETC No.55 delivers over 5 mln units of world’s first mass-produced silicon-based GaN RF chip for smart terminals】China Electronics Technology Group (CETC) No.55 Research Institute said its domestically developed, world’s first mass-produced silicon-based gallium nitride (Si‑GaN) RF chip for smart terminals has recently delivered over 5 mln units. The Si‑GaN series combines high power, high efficiency, ultra-wideband and high reliability and is designed to meet the high-efficiency, high-linearity requirements of RF power amplifier chips for space‑air‑ground integrated communications. CETC said the product overcomes industrialisation constraints for high-end RF chips and will support full-coverage, high-speed integrated information networks.
+
+---
+
+### 2026-06-05 11:22:03  #其他
+
+【我國自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆】從中國電科獲悉，中國電科55所自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆。這是全球率先實現矽基氮化鎵射頻晶片在智慧終端規模化商用，將為空天地一體化資訊網路的全域覆蓋、高速互聯提供硬核支撐。據悉，該系列矽基氮化鎵射頻晶片兼具高功率、高效率、超寬頻、高可靠等突出效能，可精準匹配空天地一體化通訊對射頻功放晶片高效率、高線性度的嚴苛技術要求，有效破解高階射頻晶片產業化難題，助力構建全域、全時、無縫的空天地通訊網路，推動全球無縫通訊、萬物互聯的產業願景加速落地。（科技日報）
+
+---
+
+### 2026-06-05 11:21:18  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK #Impact bullish #Hang Seng Index
+
+【Tencent launches Efficiency Agent Toolkit covering 20+ vertical scenarios】At its Cloud AI industry conference, Tencent unveiled the Efficiency Agent Toolkit, offering differentiated AI agents for individual productivity, office workflows and enterprise use across more than 20 vertical scenarios. For consumers, local AI assistant QClaw introduced a WeChat direct-connect mode and integrations with Tencent Docs, Tencent Meeting, ima and QQ Mail. For workplace users, Tencent released the Buddy product family. For enterprises, Tencent launched WorkBuddy enterprise edition and an Agent Suite, and upgraded its enterprise agent governance platform ClawPro and agent development platform ADP 4.0.
+
+---
+
+### 2026-06-05 11:21:13  #其他
+
+【騰訊首發效率智慧體工具集，覆蓋20多個垂直場景Agent】騰訊在2026騰訊雲AI產業應用大會上首次系統釋出“效率智慧體工具集”，面向個人提效、辦公提效、企業提效三類需求，針對20多個垂直場景提供差異化的智慧體解決方案。針對個人使用者，本地AI助手QClaw首創“微信直連”模式，並打通騰訊文件、騰訊會議、ima、QQ郵箱等工具。面向職場人群，騰訊推出了“Buddy”家族系列產品。針對企業使用者，騰訊還正式釋出WorkBuddy企業版及辦公智慧體套件Agent Suite，升級企業智慧體管控平臺ClawPro和智慧體開發平臺ADP 4.0。
+
+---
+
+### 2026-06-05 11:20:11  #其他
+
+日立宣佈加入Anthropic的Glasswing人工智慧安全計劃。
+
+---
+
+### 2026-06-05 11:18:56  #公司 #市場
+
+【玻璃基板概念漲勢擴大 京東方A等近10股漲停】玻璃基板概念日內漲勢擴大，京東方A走出2連板，此前彩虹股份、沃格光電、金瑞礦業、旗濱集團、凱盛科技等多股漲停，戈碧迦漲超20%，帝爾鐳射、德龍鐳射漲超10%。
+
+---
+
+### 2026-06-05 11:15:58  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+Beijing Stock Exchange 50 Index rallied intraday, gaining over 7%.
+
+---
+
+### 2026-06-05 11:15:01  #MKT News #Market Themes #AI Revolution #CNH #Impact bullish #WTI #Copper
+
+【CITIC Securities: AI-related goods to drive China's 2026 trade growth】CITIC Securities says AI-related goods could become a new engine for China’s foreign trade in 2026. Citing the WTO March Global Trade Outlook, which raised its 2026 global trade volume YoY forecast to 1.9% from 0.5% on faster AI-related capex, the report expects China’s exports and imports to grow about 13.2% and 15.5% YoY in 2026. Higher underlying energy prices and related incremental demand for green products are seen as additional support; the report anticipates China’s trade surplus will remain sizable for the year.
+
+---
+
+### 2026-06-05 11:15:00  #其他
+
+本田：1-5月在中國的終端汽車累計銷量為173,344輛，同比下降32.5%。
+
+---
+
+### 2026-06-05 11:14:40  #市場 #焦點
+
+北證50日內漲幅達7.01%，成分股中，戈碧迦漲25.46%，同惠電子漲19.34%，天力複合漲18.23%，星圖測控漲16.05%。
+
+---
+
+### 2026-06-05 11:14:19  #其他
+
+日立即將獲准接入 Claude Mythos。
+
+---
+
+### 2026-06-05 11:12:39  #MKT News
+
+Thailand's Ministry of Commerce said June inf may reach 3%.
+
+---
+
+### 2026-06-05 11:12:03  #MKT News
+
+【Argentina, U.S. sign deals to deepen military drone cooperation and mutual fuel supply】Argentina's defense minister Carlos Alberto Prestí and the U.S. ambassador on June 4 signed accords to expand cooperation on military unmanned systems and mutual supply of military fuel. The fuel pact allows Argentine forces to access the U.S. military's logistics network for fuel during overseas exercises, training and deployments. A separate agreement will see Argentina join a U.S. military‑managed international digital trading platform for unmanned and counter‑unmanned systems to support development of Argentine military UAS and counter‑UAS capabilities.
 
 ---
 
@@ -22805,119 +22919,5 @@ Spot gold rose above $4,460/oz, up 0.60% intraday.
 ### 2026-06-04 07:46:11  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Pressured by Rate Hike Concerns — Silver traded near $73 an ounce on Thursday after losing over 3% in the previous session, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook.
-
----
-
-### 2026-06-04 07:46:06  #市場 #焦點
-
-紐約期金突破4490美元/盎司，日內漲0.52%。
-
----
-
-### 2026-06-04 07:45:45  #MKT News
-
-Sources said JP Morgan CEO Dimon will pitch SpaceX's IPO to wealthy clients.
-
----
-
-### 2026-06-04 07:44:39  #觀點
-
-訊息人士稱，摩根大通戴蒙將向富裕客戶推介SpaceX上市計劃。
-
----
-
-### 2026-06-04 07:44:31  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Pressured by Rate Hike Expectations — Gold traded around $4,450 an ounce on Thursday and was down almost 2% for the week, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook.
-
----
-
-### 2026-06-04 07:43:31  #國際
-
-韓國SK電信：加入Anthropic的Glasswing專案。
-
----
-
-### 2026-06-04 07:43:05  #市場 #焦點
-
-紐約期金突破4480美元/盎司，日內漲0.30%。
-
----
-
-### 2026-06-04 07:42:29  #其他
-
-【全球規模最大海上換流站“海風之心”將開展海上安裝作業】歷經一千多海里海上運輸後，全球規模最大海上換流站——“海風之心”抵達廣東陽江青洲海上風電場安裝海域，今天將開展海上浮托安裝作業。“海風之心”是全球首個±500千伏/2000兆瓦柔性直流海上換流站，平面面積接近一個標準足球場，高度約等於15層樓，重達2.5萬噸。由於重量遠超國內船機吊裝能力極限，將採用國際先進的整體浮托安裝工藝進行作業
-
----
-
-### 2026-06-04 07:40:33  #國際
-
-【烏總理：歐盟同意啟動首個叢集談判，烏克蘭距入盟“又近一步”】烏克蘭總理斯維裡登科(Yulia Svyrydenko)週四早些時候表示，歐盟所有成員國已同意啟動烏克蘭和摩爾多瓦入盟談判首個叢集的談判。“好訊息，”她在X平臺發文稱，“我們距離加入歐盟又近了一步：正穩步朝著目標邁進。”現任歐盟輪值主席國塞普勒斯在X平臺表示，已開始準備正式就首個談判叢集(涵蓋法治和民主標準)與兩國開啟談判。“這標誌著兩國歐洲一體化程序中的重要里程碑，並向外界傳遞了歐盟團結與決心的強烈訊號，”塞普勒斯方面表示，將致力於“完成相關討論”，以正式啟動談判。
-
----
-
-### 2026-06-04 07:40:00  #經濟數據 #中國
-
-【業內人士預計：5月份PPI有望繼續回升】6月3日記者採訪多位業內人士，對5月份居民消費價格指數（CPI）與工業生產者出廠價格指數（PPI）走勢進行前瞻。受訪專家普遍認為，5月份季節性效應延續，CPI總體較4月份小幅回落，但同比繼續復甦；工業方面，在基數優勢疊加輸入性通脹傳導下，PPI同比有望延續回升態勢。
-
----
-
-### 2026-06-04 07:39:29  #公司
-
-【三安光電：金剛石熱沉基板已向客戶小批次出貨】三安光電(600703)在互動平臺表示，在熱沉散熱領域，公司生產的碳化矽襯底已向行業頭部客戶送樣驗證，金剛石熱沉基板已向客戶小批次出貨。
-
----
-
-### 2026-06-04 07:38:49  #公司 #市場
-
-【英偉達入局PC領域 端側AI賽道全面開啟】6月1日，英偉達CEO黃仁勳宣佈英偉達正式進軍PC處理器市場，併發布了面向Windows PC的新款處理器系統級晶片RTX Spark，推動AI從資料中心走向個人終端。受此訊息影響，A股AI PC板塊接連上漲。截至6月3日收盤，春秋電子、雷神科技、英力股份等個股漲幅顯著。“英偉達與聯發科、Arm合作，推出CPU+GPU的方案，確實可能對Wintel（Windows+Intel）聯盟形成衝擊，但其更為重要的意義是，這意味著端側AI的解決方案將更強調算力和生態。”Omdia分析師總監何暉在接受記者採訪時表示，英偉達入局PC，是端側AI爆發的起點和風向標，AI推理時代就此全面開啟。國內產業界可對標英偉達的“組圈”模式，在應用端發力，落地更多AI推理場景應用。
-
----
-
-### 2026-06-04 07:38:29  #其他
-
-【李家超：香港與烏茲別克互免簽證30天】香港特區行政長官李家超率領代表團抵達烏茲別克，經商討，香港特區政府與烏茲別克政府雙方同意就互免簽證安排落實細節，讓雙方旅客可免簽證逗留30天。雙方政府會隨即推進落實的具體內容，以早日實施安排。 現時，香港特區護照持有人可免簽證訪問烏茲別克10天；烏茲別克外交及公務護照持有人可免簽證訪港14 天，而烏茲別克普通護照持有人訪港須申領簽證。 李家超表示，落實兩地互免簽證安排，可促進兩地交流，帶動旅遊、留學及商貿合作發展，為雙方長遠經貿往來和合作奠定良好基礎，亦協助香港拓展中亞新興市場。
-
----
-
-### 2026-06-04 07:37:21  #公司 #資料 #央行 #國際
-
-【紐西蘭聯儲與澳審慎監管局敲定跨塔斯曼大型銀行壓力測試】紐西蘭儲備銀行官網公告稱，該行確認將聯合澳大利亞審慎監管局（APRA）開展跨塔斯曼地區大型銀行聯合壓力測試。測試覆蓋紐西蘭四大本土銀行：澳新銀行紐西蘭分行、奧克蘭儲蓄銀行、紐西蘭銀行、西太平洋銀行紐西蘭分行及其它們的澳洲母行。承壓假設情景：中東爆發長期地緣衝突，霍爾木茲海峽實質封航，原油價格飆升至每桶 160 美元；全球主要經濟體經濟大幅失速，三年後全球經濟才開啟分化式緩慢復甦；紐西蘭受能源、化肥成本暴漲拖累，通脹大幅突破政策目標，官方現金利率（OCR）峰值升至 4%，國內陷入衰退：GDP 萎縮 5.7%，失業率衝高至 10.5%；市場出現大範圍信用評級下調，同時發生大型企業主體債務違約。各銀行將測算上述情景未來五年對自身資本金的衝擊。本次測試旨在核驗銀行資本抗風險能力、完善母子銀行風險協同處置機制，併為監管機構風險評估提供參考，測試結果預計於 11 月出爐。
-
----
-
-### 2026-06-04 07:35:42  #MKT News
-
-US agriculture secretary Rollins said suspected screwworm fly cases have been fully contained and do not pose a threat to the US food supply or consumer safety.
-
----
-
-### 2026-06-04 07:34:50  #觀點
-
-【投資長鑫科技與宇樹科技 險資“耐心資本”布棋新質生產力】當前，長鑫科技和宇樹科技這兩家硬科技企業的上市工作正加快推進，備受市場關注。記者統計發現，多家險資機構的身影出現在兩家企業的股東名單中：和諧健康、陽光人壽等險資機構直接投資了長鑫科技，而中國太保、友邦人壽等險資機構間接投資了宇樹科技。保險資金成為支援兩家企業成長的“耐心資本”。中泰證券非銀金融首席分析師葛玉翔在接受記者採訪時表示，由於險資具有周期長、來源穩等特點，在“投小、投早、投科技”領域，險資股權投資具備一定先天優勢，可以發揮長期資金和耐心資本的作用。（上海證券報）
-
----
-
-### 2026-06-04 07:34:18  #國際
-
-美國農業部長羅林斯：此次潛在的新大陸螺旋蠅新疫情已得到全面管控，不會對美國食品供應或消費者安全構成危害。
-
----
-
-### 2026-06-04 07:33:26  #公司
-
-【SK集團和臺積電董事長同意深化在HBM和先進封裝領域的合作】SK海力士在網站表示，SK集團董事長Chey Tae-won週三會見了臺積電董事長魏哲家，雙方就下一代人工智慧技術的最新發展趨勢交換了意見。雙方同意在下一代HBM研發和先進封裝等領域進一步拓展合作。未來兩家公司計劃加快相關工作，強化在定製化AI記憶體市場的競爭力，以滿足全球大型科技公司客戶日益多樣化、不斷增長的需求。透過與臺積電的合作，SK海力士將尋求在合適的時間向市場提供高效能產品。
-
----
-
-### 2026-06-04 07:30:06  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Eases as Markets Assess US-Iran Tensions — Brent crude futures fell toward $97 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels.
-
----
-
-### 2026-06-04 07:30:02  #公司 #市場 #國際
-
-【科威特遇襲後澳大利亞股市料將下跌】在伊朗與美國發生衝突並對科威特機場發動無人機襲擊之後，澳大利亞股市開盤料將下跌。週四開盤前，ASX期貨下跌近0.9%，意味著S&P/ASX 200指數將追隨美國股指的走勢。道瓊斯指數下跌1.2%，標普500指數下跌0.7%，納斯達克綜合指數下跌0.9%。在ASX開盤前，富邑葡萄酒集團表示將整合其加州業務，剝離部分酒莊，作為削減1億澳元成本和重新平衡供應舉措的一部分。
 
 ---

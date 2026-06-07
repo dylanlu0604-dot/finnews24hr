@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 15:38:36_
-_本檔包含 3947 則快訊，約 708214 字_
+_更新時間：2026-06-07 16:06:07_
+_本檔包含 3937 則快訊，約 707429 字_
+
+---
+
+### 2026-06-04 07:46:06  #市場 #焦點
+
+紐約期金突破4490美元/盎司，日內漲0.52%。
+
+---
+
+### 2026-06-04 07:45:45  #MKT News
+
+Sources said JP Morgan CEO Dimon will pitch SpaceX's IPO to wealthy clients.
+
+---
+
+### 2026-06-04 07:44:39  #觀點
+
+訊息人士稱，摩根大通戴蒙將向富裕客戶推介SpaceX上市計劃。
+
+---
+
+### 2026-06-04 07:44:31  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Pressured by Rate Hike Expectations — Gold traded around $4,450 an ounce on Thursday and was down almost 2% for the week, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook.
+
+---
+
+### 2026-06-04 07:43:31  #國際
+
+韓國SK電信：加入Anthropic的Glasswing專案。
+
+---
+
+### 2026-06-04 07:43:05  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.30%。
+
+---
+
+### 2026-06-04 07:42:29  #其他
+
+【全球規模最大海上換流站“海風之心”將開展海上安裝作業】歷經一千多海里海上運輸後，全球規模最大海上換流站——“海風之心”抵達廣東陽江青洲海上風電場安裝海域，今天將開展海上浮托安裝作業。“海風之心”是全球首個±500千伏/2000兆瓦柔性直流海上換流站，平面面積接近一個標準足球場，高度約等於15層樓，重達2.5萬噸。由於重量遠超國內船機吊裝能力極限，將採用國際先進的整體浮托安裝工藝進行作業
+
+---
+
+### 2026-06-04 07:40:33  #國際
+
+【烏總理：歐盟同意啟動首個叢集談判，烏克蘭距入盟“又近一步”】烏克蘭總理斯維裡登科(Yulia Svyrydenko)週四早些時候表示，歐盟所有成員國已同意啟動烏克蘭和摩爾多瓦入盟談判首個叢集的談判。“好訊息，”她在X平臺發文稱，“我們距離加入歐盟又近了一步：正穩步朝著目標邁進。”現任歐盟輪值主席國塞普勒斯在X平臺表示，已開始準備正式就首個談判叢集(涵蓋法治和民主標準)與兩國開啟談判。“這標誌著兩國歐洲一體化程序中的重要里程碑，並向外界傳遞了歐盟團結與決心的強烈訊號，”塞普勒斯方面表示，將致力於“完成相關討論”，以正式啟動談判。
+
+---
+
+### 2026-06-04 07:40:00  #經濟數據 #中國
+
+【業內人士預計：5月份PPI有望繼續回升】6月3日記者採訪多位業內人士，對5月份居民消費價格指數（CPI）與工業生產者出廠價格指數（PPI）走勢進行前瞻。受訪專家普遍認為，5月份季節性效應延續，CPI總體較4月份小幅回落，但同比繼續復甦；工業方面，在基數優勢疊加輸入性通脹傳導下，PPI同比有望延續回升態勢。
+
+---
+
+### 2026-06-04 07:39:29  #公司
+
+【三安光電：金剛石熱沉基板已向客戶小批次出貨】三安光電(600703)在互動平臺表示，在熱沉散熱領域，公司生產的碳化矽襯底已向行業頭部客戶送樣驗證，金剛石熱沉基板已向客戶小批次出貨。
+
+---
+
+### 2026-06-04 07:38:49  #公司 #市場
+
+【英偉達入局PC領域 端側AI賽道全面開啟】6月1日，英偉達CEO黃仁勳宣佈英偉達正式進軍PC處理器市場，併發布了面向Windows PC的新款處理器系統級晶片RTX Spark，推動AI從資料中心走向個人終端。受此訊息影響，A股AI PC板塊接連上漲。截至6月3日收盤，春秋電子、雷神科技、英力股份等個股漲幅顯著。“英偉達與聯發科、Arm合作，推出CPU+GPU的方案，確實可能對Wintel（Windows+Intel）聯盟形成衝擊，但其更為重要的意義是，這意味著端側AI的解決方案將更強調算力和生態。”Omdia分析師總監何暉在接受記者採訪時表示，英偉達入局PC，是端側AI爆發的起點和風向標，AI推理時代就此全面開啟。國內產業界可對標英偉達的“組圈”模式，在應用端發力，落地更多AI推理場景應用。
+
+---
+
+### 2026-06-04 07:38:29  #其他
+
+【李家超：香港與烏茲別克互免簽證30天】香港特區行政長官李家超率領代表團抵達烏茲別克，經商討，香港特區政府與烏茲別克政府雙方同意就互免簽證安排落實細節，讓雙方旅客可免簽證逗留30天。雙方政府會隨即推進落實的具體內容，以早日實施安排。 現時，香港特區護照持有人可免簽證訪問烏茲別克10天；烏茲別克外交及公務護照持有人可免簽證訪港14 天，而烏茲別克普通護照持有人訪港須申領簽證。 李家超表示，落實兩地互免簽證安排，可促進兩地交流，帶動旅遊、留學及商貿合作發展，為雙方長遠經貿往來和合作奠定良好基礎，亦協助香港拓展中亞新興市場。
+
+---
+
+### 2026-06-04 07:37:21  #公司 #資料 #央行 #國際
+
+【紐西蘭聯儲與澳審慎監管局敲定跨塔斯曼大型銀行壓力測試】紐西蘭儲備銀行官網公告稱，該行確認將聯合澳大利亞審慎監管局（APRA）開展跨塔斯曼地區大型銀行聯合壓力測試。測試覆蓋紐西蘭四大本土銀行：澳新銀行紐西蘭分行、奧克蘭儲蓄銀行、紐西蘭銀行、西太平洋銀行紐西蘭分行及其它們的澳洲母行。承壓假設情景：中東爆發長期地緣衝突，霍爾木茲海峽實質封航，原油價格飆升至每桶 160 美元；全球主要經濟體經濟大幅失速，三年後全球經濟才開啟分化式緩慢復甦；紐西蘭受能源、化肥成本暴漲拖累，通脹大幅突破政策目標，官方現金利率（OCR）峰值升至 4%，國內陷入衰退：GDP 萎縮 5.7%，失業率衝高至 10.5%；市場出現大範圍信用評級下調，同時發生大型企業主體債務違約。各銀行將測算上述情景未來五年對自身資本金的衝擊。本次測試旨在核驗銀行資本抗風險能力、完善母子銀行風險協同處置機制，併為監管機構風險評估提供參考，測試結果預計於 11 月出爐。
+
+---
+
+### 2026-06-04 07:35:42  #MKT News
+
+US agriculture secretary Rollins said suspected screwworm fly cases have been fully contained and do not pose a threat to the US food supply or consumer safety.
+
+---
+
+### 2026-06-04 07:34:50  #觀點
+
+【投資長鑫科技與宇樹科技 險資“耐心資本”布棋新質生產力】當前，長鑫科技和宇樹科技這兩家硬科技企業的上市工作正加快推進，備受市場關注。記者統計發現，多家險資機構的身影出現在兩家企業的股東名單中：和諧健康、陽光人壽等險資機構直接投資了長鑫科技，而中國太保、友邦人壽等險資機構間接投資了宇樹科技。保險資金成為支援兩家企業成長的“耐心資本”。中泰證券非銀金融首席分析師葛玉翔在接受記者採訪時表示，由於險資具有周期長、來源穩等特點，在“投小、投早、投科技”領域，險資股權投資具備一定先天優勢，可以發揮長期資金和耐心資本的作用。（上海證券報）
+
+---
+
+### 2026-06-04 07:34:18  #國際
+
+美國農業部長羅林斯：此次潛在的新大陸螺旋蠅新疫情已得到全面管控，不會對美國食品供應或消費者安全構成危害。
+
+---
+
+### 2026-06-04 07:33:26  #公司
+
+【SK集團和臺積電董事長同意深化在HBM和先進封裝領域的合作】SK海力士在網站表示，SK集團董事長Chey Tae-won週三會見了臺積電董事長魏哲家，雙方就下一代人工智慧技術的最新發展趨勢交換了意見。雙方同意在下一代HBM研發和先進封裝等領域進一步拓展合作。未來兩家公司計劃加快相關工作，強化在定製化AI記憶體市場的競爭力，以滿足全球大型科技公司客戶日益多樣化、不斷增長的需求。透過與臺積電的合作，SK海力士將尋求在合適的時間向市場提供高效能產品。
+
+---
+
+### 2026-06-04 07:30:06  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Eases as Markets Assess US-Iran Tensions — Brent crude futures fell toward $97 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels.
+
+---
+
+### 2026-06-04 07:30:02  #公司 #市場 #國際
+
+【科威特遇襲後澳大利亞股市料將下跌】在伊朗與美國發生衝突並對科威特機場發動無人機襲擊之後，澳大利亞股市開盤料將下跌。週四開盤前，ASX期貨下跌近0.9%，意味著S&P/ASX 200指數將追隨美國股指的走勢。道瓊斯指數下跌1.2%，標普500指數下跌0.7%，納斯達克綜合指數下跌0.9%。在ASX開盤前，富邑葡萄酒集團表示將整合其加州業務，剝離部分酒莊，作為削減1億澳元成本和重新平衡供應舉措的一部分。
 
 ---
 
@@ -23647,179 +23761,5 @@ Ibovespa Climbs on Mining and Utility Gains — The Ibovespa rose 1.2% to close 
 ### 2026-06-03 05:09:32  #MKT News
 
 【Cliffwater flagship private credit fund hit by 17% Q2 redemption requests】Cliffwater’s retail-facing flagship private credit fund received redemption requests equal to 17% of the fund in Q2 and has imposed withdrawal limits, capping redemptions at 5% of outstanding shares for the quarter. The fund is about $31bn. The action highlights accelerated investor exits from private credit after nine months of heavy redemptions amid asset-quality concerns in loan portfolios; selling has intensified recently as investors worry AI could disrupt heavily financed software companies in the sector.
-
----
-
-### 2026-06-03 05:08:06  #市場
-
-週二（6月2日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7623元，較週一紐約尾盤漲30點，日內整體交投於6.7656-6.7581元區間。
-
----
-
-### 2026-06-03 05:05:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CENTCOM says US strike disabled Botswana-flagged tanker bound for Kharg Island】CENTCOM said on June 2 US forces in the Arabian Gulf took action against a tanker bound for Iran’s Kharg Island, rendering it dead in the water. The Botswana-flagged tanker "Lexie" had ignored US warnings and orders multiple times within 24 hours and failed to comply with blockade measures, CENTCOM said. A US aircraft fired a Hellfire missile into the vessel’s engine room, causing loss of propulsion. CENTCOM said that since April 13, as part of measures to block maritime traffic to and from Iranian ports, US forces have disabled six commercial vessels and diverted 122 ships. A US-Iran ceasefire remains in place.
-
----
-
-### 2026-06-03 05:04:51  #國際
-
-【美軍稱襲擊一艘伊朗相關油輪 使其失去航行能力】當地時間6月2日，美國中央司令部表示，美軍在阿拉伯灣對一艘駛向伊朗港口的油輪採取行動，並使其失去航行能力。美國中央司令部稱，懸掛波札那國旗的油輪“Lexie”號當時正駛向伊朗哈爾克島。美方表示，該船在24小時內多次無視美軍警告和指令，未遵守相關封鎖措施。隨後，一架美軍飛機向該船機艙發射一枚“地獄火”導彈，導致油輪失去動力，無法繼續前往伊朗。美國中央司令部表示，自4月13日開始實施針對伊朗港口進出海上交通的封鎖措施以來，美軍已擊癱6艘商業船隻，並對122艘船隻進行了改道處理。目前美伊停火仍在持續。（央視新聞）
-
----
-
-### 2026-06-03 05:02:27  #其他
-
-Shopify宣佈將股票回購計劃增加30億美元，於6月8日啟動擴大後的股票回購計劃。
-
----
-
-### 2026-06-03 05:02:18  #MKT News #Macro & Rates #US Economy
-
-Omdia said U.S. May light-vehicle sales totaled 1.50 mln units, with a seasonally adjusted annual rate (SAAR) of 16.08 mln.
-
----
-
-### 2026-06-03 05:01:40  #市場 #國際
-
-【巴西無視美國關稅威脅，市場聚焦中東和談】6月2日，拉丁美洲股市上漲，該地區的基準指數有望終結連續四天的跌勢。投資者無視了美國對巴西發出的關稅威脅，並繼續寄希望於中東取得外交進展。MSCI拉美股票指數上漲0.6%，相應的貨幣指數上漲0.4%。巴西資產無視了美國對拉美最大經濟體眾多進口商品加徵25%新關稅的威脅。巴西股指基準指數上漲1.4%，而雷亞爾兌美元有望實現連續第四個交易日的上漲。
-
----
-
-### 2026-06-03 05:01:10  #MKT News
-
-Voting opened at 06:00 KST on June 3 for South Korea's 9th local council and local government leader elections, alongside re-elections and by-elections for National Assembly seats.
-
----
-
-### 2026-06-03 05:00:50  #國際
-
-【美議員說對伊朗開戰是嚴重政策失誤】當地時間5月31日，美國民主黨籍參議員喬恩·奧索夫在一場活動的演講中表示，美國對伊朗的戰爭，是自伊拉克戰爭以來最嚴重的外交政策失誤。奧索夫指出，“這是一場建立在謊言之上的戰爭”，美國聯邦政府屢次表示戰爭“即將結束”或“取得巨大進展”，然而，如今這場戰爭已經過去三個多月，“伊朗的彈道導彈和無人機仍沒有被摧毀，戰前暢通的霍爾木茲海峽仍然關閉，伊朗政權及其高濃縮鈾儲備依然完好無損”。奧索夫還批評政府不斷削減社會保障類經費，卻將大量資金投入到了五角大樓，用來維持戰爭。（CCTV國際時訊）
-
----
-
-### 2026-06-03 05:00:24  #國際
-
-【韓國第九屆地方選舉正式投票開始】韓國第九屆地方議員和地方政府各級領導選舉暨國會議員再選與補選正式投票於當地時間6月3日6時拉開帷幕。本屆地方選舉將產生16名市、道（一級行政區）的政府領導人，227名區、市、郡（二級行政區）的政府領導人，933名市、道議員，3035名區、市、郡議員和16名教育監；還將透過再補選產生14名國會議員。本屆地方選舉是李在明政府成立以來首次在韓國全國範圍內舉行的選舉，被視為今後政治走向的重要風向標。（央視新聞）
-
----
-
-### 2026-06-03 04:59:05  #市場
-
-【紐約期金漲約0.3%，歐股盤初逼近4600美元，紐約銅漲向6.7美元】週二（6月2日）紐約尾盤，現貨黃金漲0.06%，報4487.82美元/盎司，全天衝高回落，北京時間09:52重新整理日低至4463.23美元，隨後持續走高，15:14重新整理日高至4541.63美元。COMEX黃金期貨漲0.27%，報4518.60美元/盎司，15:14曾漲至4571.30美元。現貨白銀漲0.39%，報75.1334美元/盎司，全天衝高回落，交投於74.5008-77.0121美元。COMEX白銀期貨漲0.27%，報75.455美元/盎司。COMEX銅期貨漲1.88%，報6.6760美元/磅，全天持續震盪上行，交投於6.5275-6.6980美元，逼近5月13日頂部6.7160美元。現貨鉑金漲0.34%，報1935.68美元/盎司，16:06重新整理日高至1981.58美元；現貨鈀金漲0.77%，報1372.55美元/盎司。
-
----
-
-### 2026-06-03 04:55:32  #國際
-
-美國代理司法部長布蘭奇： 特朗普相關協議中的稅務調查條款不構成未來豁免權。
-
----
-
-### 2026-06-03 04:54:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Audio indicates US strikes Iran-affiliated tanker near Strait of Hormuz】A recording from the public radio channel of a commercial vessel trapped near the Strait of Hormuz, provided by its crew, indicates US warplanes struck an Iran-affiliated tanker on the night of the 2nd; the tanker's crew subsequently abandoned ship.
-
----
-
-### 2026-06-03 04:54:40  #國際
-
-【錄音顯示美軍襲擊一艘伊朗相關油輪】霍爾木茲海峽附近一艘被困商船的海員提供的船舶無線電公共頻道錄音顯示，美軍戰機2日晚間襲擊一艘伊朗相關油輪，遭襲油輪船員隨後棄船。（新華社）
-
----
-
-### 2026-06-03 04:53:59  #公司
-
-【6月3日美股成交額前20：邁威爾獲黃仁勳看好，股價飆升32.5%】週二美股成交額第3名邁威爾科技收高32.52%，成交282.49億美元。邁威爾科技獲英偉達CEO黃仁勳看好，最新一季度營收創新高，營收指引獲大幅上調。在6月2日的COMPUTEX 2026展會上，英偉達CEO黃仁勳與邁威爾科技CEO同臺，稱邁威爾為“下一家萬億美元公司”。這一表態直接引發市場對邁威爾作為AI基礎設施核心供應商價值的重估。黃仁勳指出，隨著AI叢集規模擴大，“連線能力”已成為關鍵瓶頸，而邁威爾正是該領域的領導者。
-
----
-
-### 2026-06-03 04:53:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs to Fresh Peak as Commodity Stocks Surge — The S&P/TSX Composite Index rose 1.2% to close at a record 35,170 on Tuesday, rebounding after underperforming US stocks in the previous session. Energy and mining shares led gains as oil prices remained elevated despite retreating from Monday’s spike, while gold prices moved higher. Canadian Natural rose 2.8%, Imperial Oil gained 3%, and Cenovus advanced 4%. Among miners, Agnico Eagle added 1.3% and WPM gained 1.1%. Barrick climbed 2% after reports that it is considering a London listing for its African business, with a potential all-share transaction involving UK-listed Endeavour Mining among the options under review. Cameco surged 7% after agreeing to acquire a Japanese energy company's remaining 5% stake in a uranium mine in northern Saskatchewan. Meanwhile, investors monitored conflicting signals regarding Iran's willingness to continue negotiations with the US.
-
----
-
-### 2026-06-03 04:53:33  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said since April 13, when it began enforcing a blockade of maritime traffic to and from Iranian ports, U.S. forces have disabled 6 commercial vessels and forced 122 others to alter course.
-
----
-
-### 2026-06-03 04:52:59  #國際
-
-美國代理司法部長布蘭奇：針對特朗普過往稅務申報的審計禁令將落地推行。
-
----
-
-### 2026-06-03 04:52:51  #市場
-
-加拿大標普/TSX綜合指數收漲1.25%，報35169.46點，創收盤歷史新高；小盤股指收漲1.56%，報1496.09點，也創收盤歷史新高。
-
----
-
-### 2026-06-03 04:52:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said on June 2 US forces disabled an unladen tanker attempting to sail to an Iranian port in the Arabian Gulf.
-
----
-
-### 2026-06-03 04:51:02  #MKT News
-
-AP: Acting US Attorney General Todd Blanche said the Trump administration will abandon plans to create a $1.8 billion fund intended to "compensate" the president's allies after widespread political backlash and court setbacks.
-
----
-
-### 2026-06-03 04:44:52  #公司 #市場
-
-財報出爐疊加 20 億美元回購計劃，遊戲驛站美股盤後大漲 12%。
-
----
-
-### 2026-06-03 04:44:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API: U.S. crude oil brought online 185,000 b/d in the week to May 29, prior 629,000 b/d.
-
----
-
-### 2026-06-03 04:44:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (May.29) | actual 185000M | previous 629000M
-
----
-
-### 2026-06-03 04:44:30  #MKT News #Commodities #Energy
-
-U.S. API weekly refined product imports for week to May 29: 334,000 b/d, prior -171,000 b/d.
-
----
-
-### 2026-06-03 04:44:23  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (May.29) | actual 334000M | previous -171000M
-
----
-
-### 2026-06-03 04:44:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-API: US crude oil imports in the week to May 29 were 543,000 barrels; prior -223,000 barrels.
-
----
-
-### 2026-06-03 04:44:13  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (May.29) | actual 543000M | previous -223000M
-
----
-
-### 2026-06-03 04:44:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API weekly heating oil stocks +498,000 barrels in the week to May 29 vs +246,000 prior.
-
----
-
-### 2026-06-03 04:44:02  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (May.29) | actual 498000M | previous 246000M
 
 ---

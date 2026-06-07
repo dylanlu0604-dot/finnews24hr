@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 15:38:36_
-_本檔包含 3705 則快訊，約 708519 字_
+_更新時間：2026-06-07 16:06:07_
+_本檔包含 3710 則快訊，約 708043 字_
+
+---
+
+### 2026-06-07 16:02:49  #國際
+
+市場訊息：伊朗布什爾核電站正常執行，裝置狀態良好。
+
+---
+
+### 2026-06-07 16:01:14  #公司
+
+【A股大市值公司版圖正改寫：千億市值A股公司躍升至201家 一年增加66家】A股千億市值公司陣營正在快速擴容。截至2026年6月5日，A股千億市值上市公司總家數達到201家，而一年前，這一數字僅為135家。短短一年間，淨增66家，增幅接近49%。這意味著，平均不到一週就有一家上市公司跨越千億門檻，資本市場的價值中樞正加速上移。若進一步穿透當前201家公司，一年前市值不足千億、如今跨入千億陣營的公司達到73家，這也意味著過去一年並非只有單向擴容，部分原有千億公司也已跌出這一門檻。值得關注的是，驅動千億市值俱樂部快速擴容的核心引擎已從傳統的金融、石油石化轉向了以光模組、半導體、AI伺服器為代表的硬科技領域。過去一年，漲幅居前的公司幾乎被科技板塊包攬，其中中際旭創以超過10倍的漲幅傲視群雄，工業富聯、新易盛、天孚通訊等AI產業鏈龍頭同樣實現了數倍的增長。與之形成鮮明對比的是，部分消費白馬與金融巨頭市值出現縮水，市場分化極為劇烈。這不僅是市值榜單的排位更迭，更是中國經濟新舊動能轉換在資本市場的直接體現。 (財聯社)
+
+---
+
+### 2026-06-07 15:59:29  #國際
+
+市場訊息：以色列中部科哈夫·亞伊爾的一座加油站疑似發生恐怖襲擊，至少四人受傷；事件仍在進行中。
+
+---
+
+### 2026-06-07 15:57:42  #公司 #市場 #國際
+
+【歐洲大型工程集團警告歐盟若不松監管或將出現大規模失業】面對伊朗戰爭引發的能源衝擊，歐洲若不放鬆監管、提升競爭力，或將爆發大規模失業危機。歐洲大型工程集團之一的負責人就此發出警告。 ABB集團執行長莫滕・維羅德在接受採訪時表示，歐洲天然氣價格上漲，導致歐盟相較美國競爭力下滑，但歐洲立法機構在推進監管鬆綁方面毫無緊迫感。維羅德在紐約接受採訪時稱：“我不希望等到大規模失業這類更嚴重的危機出現，各方才幡然醒悟。本不必走到這一步，大家就該拿出應有的緊迫感。” “歐盟及歐洲單一市場需要清理更多法規，不只是做簡化，更要廢除冗餘條款，進一步打通統一市場，以此拉動經濟增長。”
+
+---
+
+### 2026-06-07 15:57:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukraine officials: Russian drone struck spent-fuel storage near Chernobyl】Ukrainian officials said on Sunday a Russian drone struck a spent-fuel storage facility near the Chernobyl nuclear power plant. The Kyiv General Staff and the state nuclear agency said in separate statements radiation levels remained stable and no injuries had been reported.
+
+---
+
+### 2026-06-07 15:53:54  #市場
+
+【超警戒水位0.28米 “梅江2026年第2號洪水”形成】據重慶市水文總站監測，受強降雨影響，梅江水位持續上漲，重慶秀山土家族苗族自治縣梅江秀山（二）站6月7日14時水位341.75米，超警戒水位0.28米，“梅江2026年第2號洪水”已經形成。（央視新聞）
+
+---
+
+### 2026-06-07 15:53:06  #MKT News
+
+【South Korea's Lee nominates Han Seong-sook as prime minister】South Korea's Lee on the 7th nominated Han Seong-sook, minister of SMEs and Startups, as the new prime minister.
+
+---
+
+### 2026-06-07 15:52:38  #其他
+
+【交通運輸部啟動強降雨二級防禦響應】記者從交通運輸部瞭解到，今天，中央氣象臺釋出暴雨橙色預警，交通運輸部啟動強降雨二級防禦響應。預計今明兩天，重慶、貴州、湖北西南部、湖南中西部、廣西、廣東等地部分地區有大到暴雨，其中，重慶南部、湖南南部和西部、貴州東部和南部、廣西北部和南部沿海、廣東南部沿海等地部分地區有大暴雨，貴州東南部、廣西北部等地局地特大暴雨。交通運輸部提醒，非必要不外出，儘量留在安全地帶，關注最新的預報、預警資訊。注意防範可能引發的山洪、滑坡、泥石流等災害。（央視）
+
+---
+
+### 2026-06-07 15:49:53  #市場 #國際
+
+【中東局勢引發日本能源危機和漲價潮】美以伊戰爭爆發以來，對高度依賴進口的日本經濟造成了‌深遠且多維度的衝擊‌，日本在能源安全以及宏觀經濟前景方面正在面臨嚴峻挑戰。日本原油進口的九成以上來自中東地區，霍爾木茲海峽封鎖之後，日本全國汽油平均零售價連續上漲，各個行業的成本明顯增加。日本6月計劃漲價的食品達1078種，較5月的84種大幅增加；而7月計劃漲價的食品數量已升至2269種，日本食品“漲價潮”在中東戰事的助推下正在愈演愈烈。日本普通民眾的日常生活也變得更加拮据，人們普遍擔心曾經安穩的生活被打破，焦慮和恐慌情緒正在社會上蔓延。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 15:49:02  #其他
+
+伊拉克武裝部隊：持續開啟對話渠道，秉持國家與機構的行事準則。
+
+---
+
+### 2026-06-07 15:48:26  #公司
+
+【迪威爾：公佈向不特定物件發行可轉換公司債券網上中籤結果】迪威爾公告稱，公司及保薦人（主承銷商）於2026年6月5日主持了向不特定物件發行可轉換公司債券（“迪威轉債”）網上發行中籤搖號儀式，搖號結果經上海市東方公證處公證。中籤號碼共141,931個，每個中籤號碼只能認購1手（1,000元）迪威轉債。
+
+---
+
+### 2026-06-07 15:48:08  #公司 #觀點
+
+【外高橋：暫停華安外高橋REIT擴募 調整為專項計劃擴募】外高橋公告稱，因資產證券化方案調整，公司擬暫停參與華安外高橋倉儲物流REIT擴募，調整為中信建投 - 外高橋集團持有型不動產資產支援專項計劃擴募。擬購入的底層資產為W5 - 3地塊倉庫及F18地塊廠房專案，合計建築面積約24.29萬平方米。公司擬認購專項計劃擴募資產支援證券份額比例不超20%。該計劃尚處籌備階段，需相關監管機構及持有人大會審議透過，存在不確定性。
+
+---
+
+### 2026-06-07 15:47:06  #公司
+
+【中南文化：重大資產重組交易尚在推進 審計評估工作未完成】中南文化公告稱，公司擬以發行股份及支付現金方式購買江陰電力投資有限公司持有的江陰蘇龍熱電有限公司57.30%股權並募集配套資金，預計構成重大資產重組和關聯交易。公司股票於2月13日起停牌，3月9日起復牌。截至公告披露日，交易涉及的審計、評估等工作尚未完成，後續將再次召開董事會並召集股東會審議。本次交易尚需履行內部決策程式及獲監管機構批准，能否實施存在不確定性。
+
+---
+
+### 2026-06-07 15:46:54  #MKT News
+
+Ukraine said Russian drones struck a nuclear waste storage facility; radiation levels currently stable.
+
+---
+
+### 2026-06-07 15:46:21  #國際
+
+烏克蘭稱俄羅斯無人機襲擊了乏核燃料儲存設施，輻射水平目前穩定。
+
+---
+
+### 2026-06-07 15:46:07  #其他
+
+德黑蘭省首席大法官週日表示，當局將對囤積居奇和擾亂市場的行為採取堅決行動，絕不姑息。
+
+---
+
+### 2026-06-07 15:43:42  #公司
+
+【和遠氣體：股東交投資本減持觸及1%刻度，已減持0.52%股份】和遠氣體公告，持股5%以上股東湖北交投資本投資有限公司持有公司股份1975.59萬股（佔公司總股本比例9.33%），此前披露計劃自2026年6月3日至2026年8月31日，以集中競價方式減持公司股份不超過165.02萬股（佔公司總股本比例0.7793%）。截至本公告披露日，交投資本已於2026年6月4日至6月5日透過集合競價交易方式減持公司股份109.99萬股（佔公司總股本比例0.52%）。本次權益變動後，交投資本持有公司股份由1975.59萬股減少至1865.6萬股，佔公司總股本比例由9.33%減少至8.81%，權益變動觸及1%的整數倍。本次減持計劃尚未實施完畢。
+
+---
+
+### 2026-06-07 15:43:20  #公司
+
+【龍佰集團：控股股東等擬增持不低於4500萬元】龍佰集團公告，公司控股股東許冉、部分董事高管及核心骨幹員工自公告披露之日起6個月內透過集中競價增持公司股份，擬增持金額不低於4500萬元，其中許冉不低於3000萬元，吳彭森、張剛、陳建立、王旭東、孫亮各不低於200萬元，張海濤不低於500萬元；本次增持不設價格區間，完成後控股股東、董事、高管所增持股份鎖定6個月。
+
+---
+
+### 2026-06-07 15:42:59  #公司 #市場
+
+【陽光股份：短期內股價連續上漲，存在市場情緒過熱】陽光股份(000608)6月7日釋出股票交易異常波動公告，公司股票交易價格連續兩個交易日內（6月4日、6月5日）日收盤價格漲幅偏離值累計達到20.71%，屬於股票交易異常波動的情況。公司短期內股價連續上漲，存在市場情緒過熱，敬請廣大投資者注意二級市場交易風險，理性決策，審慎投資。2026年6月3日公司新增設立全資子公司深圳陽光數字技術有限公司，註冊資本20000萬元，尚未實繳。經營範圍包括雲端計算裝備技術服務、雲端計算裝置銷售、租賃服務等。
+
+---
+
+### 2026-06-07 15:41:58  #公司
+
+【美力科技：首次回購0.09%公司股份，成交總金額為524.58萬元】美力科技公告，2026年6月5日，公司首次透過股份回購專用證券賬戶以集中競價交易方式回購公司股份20萬股，佔公司總股本的0.09%，最高成交價為26.98元/股，最低成交價為25.49元/股，成交總金額為524.58萬元（不含交易費用）。
+
+---
+
+### 2026-06-07 15:41:45  #公司
+
+派瑞股份：公司股票自2026年6月8日開市起停牌一天，將於2026年6月9日開市起復牌。公司股票自2026年6月9日開市起被實行“其他風險警示”處理，股票簡稱由“派瑞股份”變更為“ST派瑞”。
+
+---
+
+### 2026-06-07 15:40:38  #公司
+
+【興業銀行：2025年度A股每股派發現金紅利0.501元】興業銀行公告稱，2025年度利潤分配方案已獲2026年5月26日股東會透過。本次以總股本211.63億股為基數，每股派發現金紅利0.501元（含稅），共計派發現金紅利10.60億元。股權登記日為2026年6月11日，除權（息）日和現金紅利發放日為6月12日。除恒生銀行自行發放外，其他A股股東委託中國結算上海分公司發放。不同股東型別扣稅方式不同。
+
+---
+
+### 2026-06-07 15:40:08  #公司
+
+【鳳凰航運：全資子公司完成二手船舶購置實物交接及驗收】鳳凰航運公告稱，公司全資子公司天津鳳華船舶租賃有限公司於2026年4月18日與Paige Maritime Ltd簽署船舶購置合同，採購1艘二手幹散貨運輸船舶。截至6月5日，交易各方已完成標的二手船舶實物交接及相關驗收手續。
+
+---
+
+### 2026-06-07 15:38:37  #公司
+
+【金時科技：控股子公司擬投建千噸級多孔炭產線專案】金時科技(002951.SZ)公告稱，控股子公司金時新能擬投資建設“千噸級多孔炭產線建設專案”，預計總投資2.30億元，建成後將形成年產1000噸多孔炭的生產能力。
 
 ---
 
@@ -22277,119 +22421,5 @@ RBC raises Oracle (ORCL.N) PT to $190 from $160.
 ### 2026-06-05 11:28:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
 
 【China Galaxy Securities sees room for insurance-sector valuation recovery in 2026】China Galaxy Securities says 2026 brings a two-sided opportunity for Chinese insurers. Asset side: broader allocation options and a healthier equity market should ease investment-return pressure. Liability side: participating/dividend life products are becoming the main source of new premiums; assumed/guaranteed life rates are stabilizing, reducing reliance on suspend-and-reprice tactics, and deposit migration in a low-rate era should continue to unlock liability-side potential. The broker sees scope for sector valuation repair.
-
----
-
-### 2026-06-05 11:25:43  #國際
-
-【電影《給阿嬤的情書》6月18日港澳上映】電影《給阿嬤的情書》官博今日宣佈，《給阿嬤的情書》將於全球上映。6月18日，該影片將於中國香港、中國澳門、新加坡、馬來西亞、汶萊上映。美國、加拿大、澳大利亞、紐西蘭、英國、法國、愛爾蘭、日本、韓國、泰國、越南等更多國家及地區敬請期待。
-
----
-
-### 2026-06-05 11:25:29  #MKT News #Market Regions #Greater China #06127.HK #Impact bullish
-
-【Joinn Laboratories signs strategic cooperation framework with Kunming Institute of Zoology, Chinese Academy of Sciences】Joinn Laboratories (06127.HK) signed a strategic cooperation framework with the Kunming Institute of Zoology, Chinese Academy of Sciences to collaborate on high-value use of experimental animal resources, development of animal models for major diseases, digital biopharma, and innovative drug R&D and commercialization; the agreement frames comprehensive, deep and long-term cooperation.
-
----
-
-### 2026-06-05 11:24:43  #其他
-
-【昭衍新藥與中國科學院昆明動物研究所簽署戰略合作框架協議】近日，昭衍新藥與中國科學院昆明動物研究所舉行戰略合作座談會暨簽約儀式，雙方正式簽署戰略合作框架協議，圍繞實驗動物資源高值利用、重大疾病動物模型開發、數字生物醫藥、創新藥研發與成果轉化等領域開啟全面、深度、長期合作。
-
----
-
-### 2026-06-05 11:24:08  #市場
-
-創業板指日內跌幅再次擴大至1%，此前一度翻紅。
-
----
-
-### 2026-06-05 11:22:53  #其他
-
-【姚順雨回應“騰訊AI慢了”】針對“騰訊AI方面慢了”的質疑，今日騰訊首席AI科學家姚順雨表示，要判斷AI是長期遊戲還是短期遊戲。他表示，矽谷蔓延著很多情緒，一種是兩年後大家都要失業，工作被AI取代，這是一種判斷，“但我們判斷AI是一個長期遊戲，某種程度上，AI下半場才剛剛開始。ChatGPT和Claude不會是唯二的超級應用，會有新機會產生。”此外，他認為AI未來會變得更多元。（第一財經）
-
----
-
-### 2026-06-05 11:22:16  #市場 #焦點
-
-焦煤連續主力合約日內漲2%，現報1450.50元。
-
----
-
-### 2026-06-05 11:22:12  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish
-
-【CETC No.55 delivers over 5 mln units of world’s first mass-produced silicon-based GaN RF chip for smart terminals】China Electronics Technology Group (CETC) No.55 Research Institute said its domestically developed, world’s first mass-produced silicon-based gallium nitride (Si‑GaN) RF chip for smart terminals has recently delivered over 5 mln units. The Si‑GaN series combines high power, high efficiency, ultra-wideband and high reliability and is designed to meet the high-efficiency, high-linearity requirements of RF power amplifier chips for space‑air‑ground integrated communications. CETC said the product overcomes industrialisation constraints for high-end RF chips and will support full-coverage, high-speed integrated information networks.
-
----
-
-### 2026-06-05 11:22:03  #其他
-
-【我國自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆】從中國電科獲悉，中國電科55所自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆。這是全球率先實現矽基氮化鎵射頻晶片在智慧終端規模化商用，將為空天地一體化資訊網路的全域覆蓋、高速互聯提供硬核支撐。據悉，該系列矽基氮化鎵射頻晶片兼具高功率、高效率、超寬頻、高可靠等突出效能，可精準匹配空天地一體化通訊對射頻功放晶片高效率、高線性度的嚴苛技術要求，有效破解高階射頻晶片產業化難題，助力構建全域、全時、無縫的空天地通訊網路，推動全球無縫通訊、萬物互聯的產業願景加速落地。（科技日報）
-
----
-
-### 2026-06-05 11:21:18  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK #Impact bullish #Hang Seng Index
-
-【Tencent launches Efficiency Agent Toolkit covering 20+ vertical scenarios】At its Cloud AI industry conference, Tencent unveiled the Efficiency Agent Toolkit, offering differentiated AI agents for individual productivity, office workflows and enterprise use across more than 20 vertical scenarios. For consumers, local AI assistant QClaw introduced a WeChat direct-connect mode and integrations with Tencent Docs, Tencent Meeting, ima and QQ Mail. For workplace users, Tencent released the Buddy product family. For enterprises, Tencent launched WorkBuddy enterprise edition and an Agent Suite, and upgraded its enterprise agent governance platform ClawPro and agent development platform ADP 4.0.
-
----
-
-### 2026-06-05 11:21:13  #其他
-
-【騰訊首發效率智慧體工具集，覆蓋20多個垂直場景Agent】騰訊在2026騰訊雲AI產業應用大會上首次系統釋出“效率智慧體工具集”，面向個人提效、辦公提效、企業提效三類需求，針對20多個垂直場景提供差異化的智慧體解決方案。針對個人使用者，本地AI助手QClaw首創“微信直連”模式，並打通騰訊文件、騰訊會議、ima、QQ郵箱等工具。面向職場人群，騰訊推出了“Buddy”家族系列產品。針對企業使用者，騰訊還正式釋出WorkBuddy企業版及辦公智慧體套件Agent Suite，升級企業智慧體管控平臺ClawPro和智慧體開發平臺ADP 4.0。
-
----
-
-### 2026-06-05 11:20:11  #其他
-
-日立宣佈加入Anthropic的Glasswing人工智慧安全計劃。
-
----
-
-### 2026-06-05 11:18:56  #公司 #市場
-
-【玻璃基板概念漲勢擴大 京東方A等近10股漲停】玻璃基板概念日內漲勢擴大，京東方A走出2連板，此前彩虹股份、沃格光電、金瑞礦業、旗濱集團、凱盛科技等多股漲停，戈碧迦漲超20%，帝爾鐳射、德龍鐳射漲超10%。
-
----
-
-### 2026-06-05 11:15:58  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-Beijing Stock Exchange 50 Index rallied intraday, gaining over 7%.
-
----
-
-### 2026-06-05 11:15:01  #MKT News #Market Themes #AI Revolution #CNH #Impact bullish #WTI #Copper
-
-【CITIC Securities: AI-related goods to drive China's 2026 trade growth】CITIC Securities says AI-related goods could become a new engine for China’s foreign trade in 2026. Citing the WTO March Global Trade Outlook, which raised its 2026 global trade volume YoY forecast to 1.9% from 0.5% on faster AI-related capex, the report expects China’s exports and imports to grow about 13.2% and 15.5% YoY in 2026. Higher underlying energy prices and related incremental demand for green products are seen as additional support; the report anticipates China’s trade surplus will remain sizable for the year.
-
----
-
-### 2026-06-05 11:15:00  #其他
-
-本田：1-5月在中國的終端汽車累計銷量為173,344輛，同比下降32.5%。
-
----
-
-### 2026-06-05 11:14:40  #市場 #焦點
-
-北證50日內漲幅達7.01%，成分股中，戈碧迦漲25.46%，同惠電子漲19.34%，天力複合漲18.23%，星圖測控漲16.05%。
-
----
-
-### 2026-06-05 11:14:19  #其他
-
-日立即將獲准接入 Claude Mythos。
-
----
-
-### 2026-06-05 11:12:39  #MKT News
-
-Thailand's Ministry of Commerce said June inf may reach 3%.
-
----
-
-### 2026-06-05 11:12:03  #MKT News
-
-【Argentina, U.S. sign deals to deepen military drone cooperation and mutual fuel supply】Argentina's defense minister Carlos Alberto Prestí and the U.S. ambassador on June 4 signed accords to expand cooperation on military unmanned systems and mutual supply of military fuel. The fuel pact allows Argentine forces to access the U.S. military's logistics network for fuel during overseas exercises, training and deployments. A separate agreement will see Argentina join a U.S. military‑managed international digital trading platform for unmanned and counter‑unmanned systems to support development of Argentine military UAS and counter‑UAS capabilities.
 
 ---
