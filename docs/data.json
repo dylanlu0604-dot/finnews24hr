@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-07 19:28:00",
-  "count": 18910,
+  "updated": "2026-06-07 19:31:48",
+  "count": 18914,
   "items": [
+    {
+      "id": "mkt:019ea1d9-f3ff-7ee0-86cf-05c382879926",
+      "time": "2026-06-07 19:31:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will not allow Hezbollah to fire on Israel's territory or towns and that Israel will take corresponding action."
+    },
+    {
+      "id": "mkt:019ea1d8-5930-7ee0-86ce-fef989c04245",
+      "time": "2026-06-07 19:29:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hamas holds talks with Qatar and others seeking implementation of first-stage ceasefire】On the 7th, Hamas spokesman Hazem Qassem said Hamas is meeting in Cairo with mediators Egypt, Qatar and Turkey to seek an effective plan to ensure the first phase of a ceasefire and its humanitarian provisions are implemented and to halt what he called \"genocide and assassination operations\" against Palestinians."
+    },
+    {
+      "id": "4921891",
+      "time": "2026-06-07 19:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "孟加拉國5月居民消費價格指數同比上漲9.42%。"
+    },
+    {
+      "id": "4921890",
+      "time": "2026-06-07 19:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋強烈譴責以色列襲擊黎巴嫩南部一處黎軍所屬設施，此次襲擊造成多名軍人身亡。"
+    },
+    {
+      "id": "4921889",
+      "time": "2026-06-07 19:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部明確表示，堅決反對任何侵犯黎巴嫩主權、安全與穩定，以及針對其合法機構的侵略行為。"
+    },
     {
       "id": "4921888",
       "time": "2026-06-07 19:27:18",
@@ -174390,19 +174433,6 @@
         "其他"
       ],
       "text": "【世衛組織總幹事：政府主導及社群參與可阻止埃博拉疫情】世界衛生組織29日釋出報告稱，截至當天，剛果（金）和烏干達兩國共報告134例埃博拉確診病例，其中剛果（金）確診125例，包括死亡17例；烏干達確診9例，包括死亡1例。世界衛生組織總幹事譚德塞30日前往本輪埃博拉疫情最嚴重的剛果（金）東部伊圖裡省，他在記者會上表示，及時醫治並採取有效治療手段有助於應對疫情和治療感染者。譚德塞當天表示，本輪埃博拉疫情由本迪布焦型埃博拉病毒引起，目前尚無針對該型病毒的疫苗和特異性治療方法，但這並不意味著沒有希望，患者在獲得及時和高質量的醫療照護後仍可能恢復，隔離、補水、止痛等應對和治療手段非常關鍵。目前，伊圖裡省已有患者康復，世衛組織正同合作伙伴推進相關疫苗和治療手段的臨床試驗。譚德塞還表示，剛果（金）有應對埃博拉病毒的經驗，在政府主導和社群全面參與下，可以阻止本輪疫情。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e7dcb-6915-700f-a37d-99423aa6b52e",
-      "time": "2026-05-31 19:29:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "Hang Seng Index"
-      ],
-      "text": "【China Index Academy: TOP100 developers Jan–May sales CNY1.2293 trillion; YoY drop narrowed】China Index Academy reports TOP100 Chinese developers sold CNY1.2293 trillion in Jan–May 2026, with the YoY decline narrowing 4.7 percentage points versus Jan–Apr and contracting for a third consecutive month. In May, China Overseas, CHINA RES LAND, China Merchants Shekou, C&D Real Estate, Poly Developments, Beijing Urban Construction and Lianfa posted YoY sales growth. The academy attributes May strength to improvement-led demand concentrated in high-end products in some cities and to aggressive marketing that aided rapid post-launch sell-through."
     }
   ]
 }
