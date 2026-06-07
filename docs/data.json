@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-07 08:21:20",
-  "count": 18867,
+  "updated": "2026-06-07 08:25:09",
+  "count": 18872,
   "items": [
+    {
+      "id": "mkt:019e9f77-b0cc-7665-8315-48342f503ea4",
+      "time": "2026-06-07 08:24:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China achieves major breakthrough in clean low-carbon hydrogen–coal co-firing technology】National Energy Group says a domestically developed hydrogen–coal co-firing system has for the first time achieved 50% green-hydrogen co-firing by heat share and 100% pure-hydrogen combustion on a test rig. The project uses an indigenous low‑NOx hydrogen–coal burner and a full-process safety protection system from hydrogen transport to furnace; with green hydrogen blended, coal savings and CO2 reductions can reach up to 50%, and NOx formation was effectively controlled."
+    },
+    {
+      "id": "4921527",
+      "time": "2026-06-07 08:24:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加密貨幣全線下跌】6月7日早間，加密貨幣市場全線下跌。截至發稿，比特幣跌0.48%報60757美元；以太坊跌1.29%；艾達幣微跌0.04%。CoinGlass資料顯示，過去24小時，加密貨幣市場超13萬人爆倉，爆倉總金額4.25億美元。"
+    },
+    {
+      "id": "4921526",
+      "time": "2026-06-07 08:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶片製造有新突破 光晶片壓印，成本僅DUV的1/10】6月5日，璞璘科技釋出訊息稱，公司與深圳力策合作採用真空氣壓式奈米壓印方案實現8英寸光晶片量產突破：依託璞璘科技自主研發的PL-AS真空氣壓式晶圓級奈米壓印光刻裝置，配合定製化雙層壓印膠材料體系與核心工藝，完全繞開深紫外（DUV）光刻路線，成功實現8英寸光晶片晶圓可規模化量產，並將晶片製造成本壓縮至傳統DUV方案的十分之一。A股中，奈米壓印相關概念股主要有蘇大維格、美迪凱、利和興、晶方科技、京華鐳射、水晶光電等。（證券時報）"
+    },
+    {
+      "id": "4921525",
+      "time": "2026-06-07 08:23:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南公積金將集中清理 繳存人“一人多戶”賬戶】記者6月6日從海南省住房公積金管理局獲悉，為規範住房公積金個人賬戶管理，提升資料質量，該局將開展繳存人“一人多戶”賬戶清理工作。 據介紹，省住房公積金管理局在開展專項排查中發現部分繳存人存在“一人多戶”（同一證件號碼開設多個不同姓名賬戶）的情況，根據《住房公積金管理條例》規定，每個職工只能有一個住房公積金賬戶。 省住房公積金管理局已釋出公告提醒，6月6日至6月20日，相關繳存單位及繳存人要主動核實賬戶明細資訊。個人賬戶資訊有誤的，由繳存單位或繳存人持本人身份證件材料、社保繳費記錄、勞動合同、單位出具的繳存情況說明等相關證明材料，前往住房公積金繳存地辦事大廳辦理賬戶資訊變更手續。符合銷戶提取條件的，可同步申請辦理。（海南日報）"
+    },
+    {
+      "id": "mkt:019e9f75-b8fa-7665-8315-423d9f02d957",
+      "time": "2026-06-07 08:22:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Pulin Technology says nanoimprint enables 8‑inch photonic wafer mass production; manufacturing cost cut to 1/10 of DUV】June 5 — Pulin Technology said it and Shenzhen Lice used a vacuum air‑pressure wafer‑level nanoimprint (PL‑AS) plus a custom dual‑layer imprint resist and core process to achieve scalable 8‑inch photonic‑chip wafer production, fully bypassing deep‑UV (DUV) lithography and reducing chip manufacturing cost to one‑tenth of comparable DUV routes. A‑share nanoimprint‑related names cited include Suda Weige, Medikai, Lihexing, Jingfang Technology, Jinghua Laser and Crystal Optoelectronics."
+    },
     {
       "id": "4921524",
       "time": "2026-06-07 08:20:30",
