@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-08 00:50:49",
-  "count": 18965,
+  "updated": "2026-06-08 00:54:50",
+  "count": 18967,
   "items": [
+    {
+      "id": "mkt:019ea301-6468-7ee0-86d0-f9a4a8ad072c",
+      "time": "2026-06-08 00:53:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli military said Hezbollah fired drones and missiles from Shakif Heights."
+    },
+    {
+      "id": "4922102",
+      "time": "2026-06-08 00:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思談伊朗：局勢正出現新變化，航運往來恢復正常。伊朗不應襲擊過往船隻，一旦其採取此類行動，我們會採取應對措施，這一點毋庸置疑。但總體而言，我們認為一份理想的協議有望很快達成。"
+    },
+    {
+      "id": "4922101",
+      "time": "2026-06-08 00:51:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國國家經濟委員會主任哈西特稱，5月就業資料彰顯經濟強勁擴張態勢，並支援美聯儲考慮降息。"
+    },
+    {
+      "id": "4922100",
+      "time": "2026-06-08 00:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思談及歐洲：不少歐洲國家開放邊境、削減軍費、推行高福利政策，湧入的大量難民讓許多國家難以應對。我剛才說的就是這件事。所有人都清楚，歐洲必須正視這一問題，我們也希望他們能夠妥善處理。"
+    },
     {
       "id": "4922099",
       "time": "2026-06-08 00:47:11",
@@ -174913,22 +174950,6 @@
         "DXY"
       ],
       "text": "Israel's Channel 12 says Netanyahu is trying to persuade Trump to expand military operations to include Beirut."
-    },
-    {
-      "id": "4909002",
-      "time": "2026-06-01 00:53:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國華盛頓州化學品儲罐破裂事故的死亡人數已上升至11人，救援隊已找到9名失蹤者的遺體。"
-    },
-    {
-      "id": "mkt:019e7ef2-2e49-700f-a37f-b12b0fdcd677",
-      "time": "2026-06-01 00:50:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron said France will continue to support Lebanese authorities' efforts to restore state sovereignty and maintain territorial integrity."
     }
   ]
 }
