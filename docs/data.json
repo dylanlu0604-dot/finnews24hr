@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-07 10:34:18",
-  "count": 18893,
+  "updated": "2026-06-07 10:38:07",
+  "count": 18891,
   "items": [
+    {
+      "id": "4921618",
+      "time": "2026-06-07 10:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風阿曼達預計將於週日減弱為低壓殘餘環流。"
+    },
+    {
+      "id": "4921617",
+      "time": "2026-06-07 10:33:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首屆智慧醫學與腦機介面產教融合創新大會舉行】2026年首屆智慧醫學與腦機介面產教融合創新大會在中南大學開福校區、芙蓉實驗室舉行。副省長蔣滌非出席活動並致辭。 蔣滌非代表湖南省向各位院士專家、各界嘉賓表示誠摯歡迎。他表示，湖南省委、省政府牢記習近平總書記殷殷囑託，將腦機介面產業納入全省“十五五”規劃重點佈局。推動智慧醫學與腦機介面產業高質量發展，需從技術攻關、產教融合、創新生態方面持續發力。他同時呼籲廣大院士專家繼續關心支援湖南發展，共同推動腦機介面產業邁向更高臺階。（湖南日報）"
+    },
     {
       "id": "4921616",
       "time": "2026-06-07 10:22:37",
@@ -174202,44 +174218,6 @@
         "XAUUSD"
       ],
       "text": "【Trump says Pentagon could intervene if US, Iran fail to reach deal】President Trump told Fox on May 30 the US and Iran are close to a 'very good deal' and he expects a 'better deal,' but said he would ask the Pentagon to intervene if no agreement is reached. He warned that if he does not get what he wants 'we will end it another way.' Trump said a signed accord would secure navigation through the Strait of Hormuz and prevent Iran from acquiring nuclear weapons, and added he is not rushing negotiations: 'If you rush you don't get a good deal.'"
-    },
-    {
-      "id": "4908567",
-      "time": "2026-05-31 10:37:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美伊若無法達成協議 “戰爭部”將介入】當地時間5月30日，美國總統特朗普在當晚福克斯新聞播出的一檔採訪節目中表示，當前美伊已接近達成一份“很好的協議”。特朗普同時在採訪中表示，我們會得到一份“更好的協議”，這本當更快才對。但同時特朗普表示，如果無法達成協議，他會要求“戰爭部”（即美國國防部）介入。特朗普表示，如果他沒有得到他想要的，“我們將用另一種方式結束它”。特朗普還表示，透過簽署協議，我們能夠確保霍爾木茲海峽的通航、確保伊朗沒有核武器等。特朗普在談及與伊朗的協議時強調，他並不著急。“如果你很著急，你就無法達成一個好的協議”。（央視新聞）"
-    },
-    {
-      "id": "4908566",
-      "time": "2026-05-31 10:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美稱打擊所謂販毒船致3人死亡】當地時間5月30日，美軍南方司令部透過社交媒體宣佈在東太平洋對一艘由“認定恐怖組織”運營的船隻實施了打擊。情報顯示該船隻正沿東太平洋已知的毒品販運路線航行，並參與販執行動。此次行動中，三名男性被擊斃，無美軍人員受傷。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e7be2-1805-7bb7-996c-bae6c4d17289",
-      "time": "2026-05-31 10:34:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "DELL.O",
-        "NVDA.O"
-      ],
-      "text": "Dell Technologies founder and CEO says the first Dell Technologies Plus system equipped with NVIDIA Vera Rubin NVL72 has debuted."
-    },
-    {
-      "id": "4908565",
-      "time": "2026-05-31 10:34:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7000億足療賽道市場規模碾壓新茶飲，年輕人成絕對主力】據公開資料，2025年，中國按摩足療行業市場規模達7000億元，體量遠超同期3749億元的新茶飲市場和518億元的電影市場。不僅如此，行業增長勢頭還在持續走強，艾瑞諮詢預計2026年市場規模將突破7300億元，使用者數接近2.5億。這意味著約每五個中國人中，就有一人體驗過按摩足療。"
     }
   ]
 }
