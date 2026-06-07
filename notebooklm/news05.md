@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:42:03_
-_本檔包含 3665 則快訊，約 705809 字_
+_更新時間：2026-06-07 23:45:53_
+_本檔包含 3665 則快訊，約 706356 字_
+
+---
+
+### 2026-06-02 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Depreciates by 3.45% — Top crypto losers are Bitcoin (-3.45%), XRP (-3.11%), Binance (-2.22%) and Ether (-0.59%).
+
+---
+
+### 2026-06-02 06:41:33  #MKT News #WTI #Impact bullish #Brent
+
+【Australia 2026/27 winter wheat crop forecast down 26% on drought, war-driven input costs】The Australian Department of Agriculture's first survey estimates the 2026/27 winter wheat crop at 26.7 mln tonnes, a 26% decline YoY and below the five- and ten-year averages. Plantings are estimated at 10.9 mln ha, down 12% and the smallest since 2019/20. The department cites severe drought, weak global wheat prices narrowing returns versus other crops, and higher production input costs—notably fuel and fertilizer—linked to Middle East war-related disruption in the Strait of Hormuz.
 
 ---
 
@@ -22104,17 +22116,5 @@ Ukraine President Zelenskiy said Kyiv had sought an initial drone agreement with
 ### 2026-05-31 23:48:06  #MKT News
 
 Ukrainian President Zelenskiy said Ukraine has not yet signed a bilateral drone agreement with the United States — a large, framework-level document.
-
----
-
-### 2026-05-31 23:44:33  #其他
-
-預測平臺Polymarket資料顯示：Anthropic仍在完善防範濫用的安全機制，Claude Mythos在6月底前上線的機率為28%。
-
----
-
-### 2026-05-31 23:43:46  #其他
-
-【國際原子能機構說必須停止襲擊核設施】國際原子能機構5月31日在社交媒體發文說，該機構人員當天上午發現扎波羅熱核電站一座電機房外部受損。機構總幹事格羅西表示，襲擊核設施不可接受，必須停止。（新華社）
 
 ---

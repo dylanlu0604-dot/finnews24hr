@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:42:03_
-_本檔包含 3807 則快訊，約 706614 字_
+_更新時間：2026-06-07 23:45:53_
+_本檔包含 3805 則快訊，約 705898 字_
 
 ---
 
@@ -22967,17 +22967,5 @@ Sevastopol in Crimea, currently under Russian control, will impose fuel sale lim
 ### 2026-06-02 06:46:33  #國際
 
 法國常駐聯合國代表：以色列的長久安全既不能依靠戰爭，也無法依託領土佔領。
-
----
-
-### 2026-06-02 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Depreciates by 3.45% — Top crypto losers are Bitcoin (-3.45%), XRP (-3.11%), Binance (-2.22%) and Ether (-0.59%).
-
----
-
-### 2026-06-02 06:41:33  #MKT News #WTI #Impact bullish #Brent
-
-【Australia 2026/27 winter wheat crop forecast down 26% on drought, war-driven input costs】The Australian Department of Agriculture's first survey estimates the 2026/27 winter wheat crop at 26.7 mln tonnes, a 26% decline YoY and below the five- and ten-year averages. Plantings are estimated at 10.9 mln ha, down 12% and the smallest since 2019/20. The department cites severe drought, weak global wheat prices narrowing returns versus other crops, and higher production input costs—notably fuel and fertilizer—linked to Middle East war-related disruption in the Strait of Hormuz.
 
 ---

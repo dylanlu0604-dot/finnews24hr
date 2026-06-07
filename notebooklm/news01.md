@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:42:03_
-_本檔包含 3730 則快訊，約 706395 字_
+_更新時間：2026-06-07 23:45:53_
+_本檔包含 3736 則快訊，約 707018 字_
+
+---
+
+### 2026-06-07 23:45:01  #國際
+
+美國國防部長赫格塞思：伊朗不應向我方發動襲擊，倘若其採取行動，我方將按既定方案予以應對。我方預計很快會與伊朗達成一份理想協議。
+
+---
+
+### 2026-06-07 23:44:32  #MKT News
+
+CENTCOM said sailors aboard the aircraft carrier George H.W. Bush (CVN-77), operating in the Arabian Sea, are conducting nighttime flight operations. The ship is one of two U.S. carriers currently deployed to the Middle East.
+
+---
+
+### 2026-06-07 23:44:09  #宏觀 #國際
+
+特朗普政府同意將第三國移民遣送至中非共和國，美國國務院還將整合非洲地區簽證辦理中心。
+
+---
+
+### 2026-06-07 23:43:41  #國際
+
+美國中央司令部：喬治·布什號航空母艦（CVN-77）航行於阿拉伯海期間，艦上官兵開展夜間飛行作業。該艦是目前部署在中東地區的兩艘航空母艦之一。
+
+---
+
+### 2026-06-07 23:42:27  #MKT News
+
+Qatar issued a NOTAM requiring flights transiting its airspace to reroute and providing alternate routings for aircraft departing Doha and airports in Saudi Arabia. The notice is effective June 7-14.
+
+---
+
+### 2026-06-07 23:41:31  #國際
+
+伊朗國家足球隊抵達墨西哥，備戰國際足聯世界盃。
 
 ---
 

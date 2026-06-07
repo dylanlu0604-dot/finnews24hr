@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 23:42:03_
-_本檔包含 3793 則快訊，約 706316 字_
+_更新時間：2026-06-07 23:45:53_
+_本檔包含 3787 則快訊，約 705742 字_
 
 ---
 
@@ -22805,41 +22805,5 @@ Indonesia's benchmark stock index extended losses to 1.5% at 5,849.862 points.
 ### 2026-06-04 10:14:48  #MKT News #TSM.N #Impact bullish
 
 TSMC (TSM.N) CEO said Taiwan hosts the company’s best talent, its core R&D and its largest production base.
-
----
-
-### 2026-06-04 10:14:27  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said global capacity expansion is primarily driven by customer demand and local government support.
-
----
-
-### 2026-06-04 10:14:06  #公司
-
-臺積電執行長：臺灣地區匯聚了臺積電最頂尖的人才、核心研發部門以及最大的生產基地。
-
----
-
-### 2026-06-04 10:13:47  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei index fell as much as 2.00% intraday.
-
----
-
-### 2026-06-04 10:13:46  #國際
-
-印尼基準股指跌幅達1.5%，跌至5849.862點。
-
----
-
-### 2026-06-04 10:13:38  #公司
-
-臺積電執行長：臺灣地區仍是臺積電效率最高的製造基地。
-
----
-
-### 2026-06-04 10:13:37  #MKT News
-
-【Spain activates annual heat-protection plan early】On the 3rd, Spanish authorities said the government has activated its annual heat-protection plan early to address health risks from sustained high temperatures. Officials reported 101 heat-related deaths in May, mostly elderly and concentrated in northern Spain.
 
 ---
