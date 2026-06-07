@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-08 03:04:33",
-  "count": 18999,
+  "updated": "2026-06-08 03:08:13",
+  "count": 19001,
   "items": [
+    {
+      "id": "mkt:019ea37a-9575-7ee0-86d2-37ca730668fb",
+      "time": "2026-06-08 03:06:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israel's Channel 13, citing a senior official, said fire from Iran into Israeli territory would signal a declaration of renewed war."
+    },
+    {
+      "id": "4922159",
+      "time": "2026-06-08 03:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人： 不久前，我方監測到從伊朗射向以色列本土的導彈，全國多個區域隨即拉響防空警報。 請民眾嚴格遵照本土前線司令部的指示行動。目前空軍已展開行動，開展攔截與必要反擊，消除威脅。 防空體系並非萬無一失，請務必持續遵守本土前線司令部的相關指引。"
+    },
+    {
+      "id": "mkt:019ea379-3b83-7ee0-86d2-2a2b3f88216b",
+      "time": "2026-06-08 03:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says defensive systems are operating to intercept threats."
+    },
+    {
+      "id": "mkt:019ea378-afe2-7ee0-86d2-2660f9842069",
+      "time": "2026-06-08 03:04:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reports all schools nationwide will be closed tomorrow."
+    },
+    {
+      "id": "4922158",
+      "time": "2026-06-08 03:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，其防禦系統正在運轉，以攔截威脅。"
+    },
     {
       "id": "mkt:019ea378-1e9d-7ee0-86d2-1e6d0e3a815c",
       "time": "2026-06-08 03:03:38",
@@ -175220,30 +175264,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社援引訊息人士：特朗普提出的修正案不代表伊朗已經接受這些修正案。"
-    },
-    {
-      "id": "mkt:019e7f6f-8ade-700f-a380-34bf1181386c",
-      "time": "2026-06-01 03:07:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran may revise draft memorandum, Iranian media say】Iranian media report Tehran may make new revisions to a draft memorandum of understanding. U.S. media had reported Trump proposed further changes to the existing text. A source said text exchanges continue and Iran may submit its own edits; nothing is settled. The source added that Trump’s proposed edits do not imply Iranian acceptance and that Tehran is prepared for potential misunderstandings."
-    },
-    {
-      "id": "4909048",
-      "time": "2026-06-01 03:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引訊息人士：伊朗將在與美國的會談中對諒解備忘錄草案文字提出新修正條款。"
-    },
-    {
-      "id": "4909047",
-      "time": "2026-06-01 03:05:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍士兵涉嫌偽造理由逮捕巴勒斯坦兒童】據以色列方面5月31日訊息，一段在社交媒體上流傳的影片顯示，以色列士兵涉嫌偽造理由逮捕巴勒斯坦兒童。影片中，幾名以色列士兵涉嫌強迫一名巴勒斯坦男孩舉起巴勒斯坦旗幟，並在一支槍械旁站立。隨後，該男孩被要求面向牆壁舉起雙手接受檢查。影片中可見至少三名士兵，其中一人用手機進行拍攝。媒體報道稱，這顯然是在為逮捕這名兒童製造理由。（央視新聞）"
     }
   ]
 }
