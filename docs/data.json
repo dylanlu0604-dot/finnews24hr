@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-07 12:24:46",
-  "count": 18924,
+  "updated": "2026-06-07 12:28:39",
+  "count": 18923,
   "items": [
+    {
+      "id": "mkt:019ea054-ad5f-7665-8316-7942a05bfd76",
+      "time": "2026-06-07 12:26:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Multiple suppliers cut compute prices as China accelerates compute build-out】As China scales and standardizes nationwide compute infrastructure, multiple suppliers have announced permanent cuts to compute prices. Model vendors DeepSeek and Xiaomi’s MiMo posted the largest reductions, as much as nearly 99%, sharply lowering costs for high-frequency Q&A, web design and coding workloads and enabling lighter, routine AI applications to run at much lower cost."
+    },
+    {
+      "id": "4921667",
+      "time": "2026-06-07 12:24:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家供給方下調算力價格 算力普惠再提速】隨著全國算力基建規模化、標準化不斷提速，多家算力價格也迎來持續普惠。讓曾經昂貴的“高階稀缺資源”變身為各行各業可普惠使用的“數字水電”。前不久，多家模型廠商宣佈永久下調算力價格，其中DeepSeek與小米MiMo降價尤為顯著，最高降幅接近99%。極大降低了使用者日常高頻問答、網頁設計、程式碼程式設計等多場景AI使用成本，讓各類輕量化、常態化AI應用告別高門檻、高成本的制約。（央視新聞）"
+    },
     {
       "id": "mkt:019ea051-2190-7665-8316-706267881ce9",
       "time": "2026-06-07 12:22:11",
@@ -174479,34 +174499,6 @@
         "其他"
       ],
       "text": "【海軍“絲路方舟”號醫院船起航執行“健康送海疆”任務】中國海軍“絲路方舟”號醫院船5月31日從廣東湛江某軍港解纜起航，赴南海及華南沿海島礁執行“健康送海疆”任務。任務期間，醫院船將採取“上船診療+登島巡診+上門送醫相結合”的方式，為駐島官兵及家屬提供免費問診、體格檢查、中醫理療、手術治療、健康宣教等服務，同步開展海上傷員救治演練、衛生骨幹幫帶、醫療裝置檢修等工作。（新華社）"
-    },
-    {
-      "id": "4908595",
-      "time": "2026-05-31 12:26:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【深圳800元養老消費券來了】今年1月1日起，民政部、財政部在全國啟動實施中度以上失能老年人養老服務消費補貼專案。隨著補貼在各地陸續落地，養老服務消費券正“變現”為養老照護服務。楊志宇是街道辦工作人員，近期，他的主要工作是上門協助老人領取和使用消費券。老人透過小程式完成註冊，選擇就近的評估點進行評估，只要符合中度及以上失能等級，就可以每月領取一張800元的消費券，並根據需求選擇相應服務，消費券可分次使用。目前，深圳養老服務消費補貼政策覆蓋的居家養老服務，可抵扣50%費用，每月最高800元，涵蓋“六助”服務，也就是助餐、助浴、助潔、助行、助醫、助急，以及康復護理、聘用專業養老護理員等。（央視財經）"
-    },
-    {
-      "id": "mkt:019e7c48-b8d1-7bb7-996d-0387889ae82b",
-      "time": "2026-05-31 12:26:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israeli military says one soldier killed in fighting in southern Lebanon."
-    },
-    {
-      "id": "4908594",
-      "time": "2026-05-31 12:25:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱一名士兵在黎巴嫩南部的戰鬥中身亡。"
     }
   ]
 }
