@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-08 05:16:50",
-  "count": 19123,
+  "updated": "2026-06-08 05:20:39",
+  "count": 19128,
   "items": [
+    {
+      "id": "mkt:019ea3f4-9a3c-7ee0-86d3-f93f5331d044",
+      "time": "2026-06-08 05:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report the U.S. has told Israel to wait a few days to see if a deal can be reached; if no agreement emerges, the U.S. will proceed under a joint operations plan."
+    },
+    {
+      "id": "mkt:019ea3f3-7a42-7ee0-86d3-f12de71d1688",
+      "time": "2026-06-08 05:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas reported a phone call between Trump and Netanyahu has ended."
+    },
+    {
+      "id": "mkt:019ea3f2-f068-7ee0-86d3-ee605160292f",
+      "time": "2026-06-08 05:17:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli military chief of staff said the military will decisively strike the 'enemy' once orders are issued."
+    },
+    {
+      "id": "mkt:019ea3f2-e917-7ee0-86d3-e7a25477d6c2",
+      "time": "2026-06-08 05:17:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran has suspended flights at Imam Khomeini International Airport until further notice."
+    },
+    {
+      "id": "4922278",
+      "time": "2026-06-08 05:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍參謀長：一旦接到命令，以軍將斷然打擊“敵人”。"
+    },
     {
       "id": "4922277",
       "time": "2026-06-08 05:12:47",
