@@ -1,7 +1,613 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 18:37:45_
-_本檔包含 3787 則快訊，約 706116 字_
+_更新時間：2026-06-07 19:51:20_
+_本檔包含 3819 則快訊，約 704878 字_
+
+---
+
+### 2026-06-05 13:04:11  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
+
+Japan Coincident Index Rises to 3-Month High — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, increased to 117.9 in April 2026 from an upwardly revised 116.8 in the previous month, flash data showed. It was the highest reading since January.
+
+---
+
+### 2026-06-05 13:03:49  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Weakens to 2009 Low — The South Korean won fell past 1,540 per dollar, marking its weakest level since March 2009, as heightened Middle East tensions weighed on broader risk sentiment. Developments in Lebanon, including Hezbollah’s rejection of a ceasefire proposal, alongside continued Israeli military activity, kept concerns over potential disruptions to regional energy supply routes in focus. Safe-haven demand for the US dollar also strengthened amid the broader risk-off environment. Additional pressure came from a sharp equity selloff in Korea, with the KOSPI heading for its steepest weekly drop in over two months amid a global semiconductor downturn, prompting continued foreign fund outflows. Meanwhile, authorities said they were taking "extra vigilance" over volatility in financial and foreign exchange markets. At the same time, South Korea posted its second-largest current account surplus on record in April at $28.29 billion, supported by robust semiconductor exports.
+
+---
+
+### 2026-06-05 13:02:41  #MKT News #Market Regions #Europe & UK
+
+South Korea's presidential office said President Lee will attend the G7 summit in France from June 9-18 and visit Italy, Belgium and the Vatican.
+
+---
+
+### 2026-06-05 13:02:24  #公司 #國際
+
+青瓦臺表示，韓國總統李在明將於6月9日至18日前往法國出席七國集團峰會，隨後訪問義大利、比利時以及梵蒂岡。
+
+---
+
+### 2026-06-05 13:02:09  #其他
+
+【機器人板塊走高，綠的諧波漲超17%】機器人板塊走高，綠的諧波漲超17%，億嘉和、埃夫特、三豐智慧、派斯林、凱爾達等跟漲。
+
+---
+
+### 2026-06-05 13:02:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+China A-share robotics sector rallied in the afternoon; Lvde Xiebo surged more than 17%, with Yijiahe, Efort, Sanfeng Intelligent, Paisenlin and Kaierda also advancing.
+
+---
+
+### 2026-06-05 13:01:31  #宏觀 #市場 #國際
+
+【印度取消債券稅收以吸引外國投資】印度下調境外機構投資者的債券投資相關稅負，以此吸納海外資金、穩定盧比匯率。受能源價格走高、股市資金外流拖累，盧比持續承壓。印度政府在官方公報釋出通知，出臺新規：境外機構投資印度國債所獲利息，以及國債出售、置換、轉讓產生的資本利得全部免徵稅費。該舉措有望遏制本幣跌勢，今年盧比表現位居亞洲主要貨幣跌幅前列。
+
+---
+
+### 2026-06-05 13:01:02  #市場 #焦點
+
+*ST聞泰盤中漲停，上演“地天板”，現報21.6元，成交額15.07億元。
+
+---
+
+### 2026-06-05 13:00:35  #MKT News #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #S&P500
+
+Japan April preliminary leading index 115.9; consensus 114.5; prior 114.
+
+---
+
+### 2026-06-05 13:00:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan April coincident index (preliminary) 117.9 vs forecast 117.4; prior 116.4.
+
+---
+
+### 2026-06-05 13:00:27  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (Apr) | actual 115.9 | consensus 114.5 | previous 114
+
+---
+
+### 2026-06-05 13:00:22  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (Apr) | actual 117.9 | consensus 117.4 | previous 116.4
+
+---
+
+### 2026-06-05 13:00:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
+
+Japan leading indicator, preliminary (MoM) +0.5% in April; previous +0.8%.
+
+---
+
+### 2026-06-05 13:00:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan April coincident index preliminary MoM +1.1% (prior +0.2%).
+
+---
+
+### 2026-06-05 13:00:08  #MKT News
+
+Singapore April seasonally adjusted retail sales 0.3% MoM; prior revised from 3.70% to 3.4%.
+
+---
+
+### 2026-06-05 13:00:08  #MKT News #Market Regions #Japan & APAC
+
+Singapore retail sales rose 5.4% YoY in April, vs expected 4.4%. March was revised down to 4.6% from 4.8%.
+
+---
+
+### 2026-06-05 13:00:03  #公司 #國際
+
+【英偉達執行長：機器人技術將是韓國的下一個重要領域】英偉達執行長黃仁勳週五表示，他認為機器人技術將是韓國的下一個重要領域。他抵達韓國金浦機場後，向記者發表了上述言論。黃仁勳表示，此行已安排與現代、LG、SK、三星和Naver舉行會晤。“我給韓國帶了什麼禮物嗎？我給韓國帶來了大量商機，”他告訴記者，並補充道：“我還有一些驚喜。”
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (MoM) (Apr) | actual 0.5% | previous 0.8%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (MoM) (Apr) | actual 1.1% | previous 0.2%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Retail Sales (YoY) (Apr) | actual 5.4% | consensus 4.4% | previous 4.80%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Retail Sales SA (MoM) (Apr) | actual 0.3% | previous 3.70%
+
+---
+
+### 2026-06-05 12:59:27  #國際
+
+【美國被曝擬不向德國售“戰斧”導彈】美國媒體4日披露，美國國防部打算取消向德國出售“戰斧”巡航導彈的計劃，緣由是擔心引發俄羅斯反制和美軍庫存不足。據美國《政治報》網站援引美國和歐洲官員的話報道，美國近期調整歐洲軍事部署並縮減駐德兵力後，德國原本希望透過採購“戰斧”導彈增強防務能力，但美方擔心在歐洲腹地部署遠端精確打擊武器可能被俄羅斯視為局勢升級訊號，從而引發俄方報復。“戰斧”導彈是美製亞音速巡航導彈，最大射程超過2000公里。《政治報》5月曾報道，德方希望購買400枚“戰斧”導彈。
+
+---
+
+### 2026-06-05 12:58:49  #公司
+
+【上海電信聯手淘寶閃購上線AI助餐服務，老人“動口不動手”即可點餐到家】6月4日，在上海市民政局指導下，中國電信上海公司與淘寶閃購依託天翼智屏平臺，聯合啟動“AI+老年助餐”智慧養老服務合作。雙方將充分發揮各自在通訊基礎設施、人工智慧技術及即時零售服務領域的優勢，透過天翼智屏終端為居家老年人提供語音點餐、一鍵下單、即時配送等便捷助餐服務，切實滿足老年群體“在家吃好飯”的民生需求。(上觀新聞)
+
+---
+
+### 2026-06-05 12:58:17  #MKT News
+
+India central bank reserve requirement ratio (RRR) stood at 3% as of June 5, matching expectations and unchanged from the prior 3%.
+
+---
+
+### 2026-06-05 12:58:04  #MKT News #Economic Calendar #Important
+
+India | RBI Cash Reserve Ratio (Jun.5) | actual 3% | consensus 3% | previous 3%
+
+---
+
+### 2026-06-05 12:58:03  #MKT News
+
+India central bank reverse repo rate 3.35% as of June 5, unchanged from previous 3.35%.
+
+---
+
+### 2026-06-05 12:57:55  #MKT News #Economic Calendar #Important
+
+India | RBI Reverse Repo Rate (Jun.5) | actual 3.35% | previous 3.35%
+
+---
+
+### 2026-06-05 12:57:13  #MKT News
+
+Reserve Bank of India governor said experience shows exchange-rate volatility is driven by speculative pressures.
+
+---
+
+### 2026-06-05 12:56:37  #國際
+
+【林肯紀念堂要建“特朗普步道”？】美國總統特朗普4日說，將在首都華盛頓林肯紀念堂建一條通往波托馬克河的步道，有人想將其命名為“特朗普步道”。特朗普在白宮對記者說：“他們想把它命名為‘特朗普步道’，但我還沒想好要不要這樣。”他沒有說“他們”具體是誰。林肯紀念堂是華盛頓地標建築之一，也是特朗普意欲在首都留下其個人印記的目標建築之一。此前，這位昔日房地產開發商瞄準的多個專案遭到批評，甚至起訴。（新華社）
+
+---
+
+### 2026-06-05 12:56:11  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Reserve Bank of India governor said global economic conditions remain fragile.
+
+---
+
+### 2026-06-05 12:56:10  #MKT News #DXY #Impact bearish
+
+Reserve Bank of India governor said FX reserves provide a sufficient buffer and the bank has the regulatory and market tools to manage FX volatility.
+
+---
+
+### 2026-06-05 12:55:52  #央行 #國際
+
+印度央行行長：我們已準備好監管工具及基於市場的工具，可根據需要應對匯率波動。
+
+---
+
+### 2026-06-05 12:55:52  #MKT News
+
+Reserve Bank of India governor said the central bank will curb excessive volatility and prevent disorderly market moves.
+
+---
+
+### 2026-06-05 12:55:42  #國際
+
+印度儲備銀行行長：將遏制過度波動，防止市場無序執行。
+
+---
+
+### 2026-06-05 12:55:37  #MKT News
+
+Reserve Bank of India governor says the objective is not to resist market-driven moves.
+
+---
+
+### 2026-06-05 12:55:20  #公司
+
+傑富瑞將露露檸檬（Lululemon）目標價從145美元下調至115美元。
+
+---
+
+### 2026-06-05 12:55:08  #MKT News #DXY #Impact bearish
+
+Reserve Bank of India governor said India's foreign-exchange reserves are "very healthy" and that exchange-rate policy remains unchanged.
+
+---
+
+### 2026-06-05 12:54:55  #國際
+
+印度儲備銀行行長：匯率政策維持不變。
+
+---
+
+### 2026-06-05 12:54:55  #MKT News
+
+Reserve Bank of India governor said caps on equity investments by non-resident Indians and Overseas Citizens of India not required to register with SEBI will be raised.
+
+---
+
+### 2026-06-05 12:54:44  #國際
+
+印度儲備銀行行長：將推出針對海外印度人外匯存款的新方案。出口收匯匯回期限將恢復為9個月。
+
+---
+
+### 2026-06-05 12:54:02  #國際
+
+印度儲備銀行行長：將為境外借款提供優惠掉期視窗。
+
+---
+
+### 2026-06-05 12:53:47  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Reserve Bank of India governor says the central bank will offer a four-month concessional FX swap facility.
+
+---
+
+### 2026-06-05 12:53:36  #國際
+
+印度儲備銀行行長：非印度居民、海外印度公民投資無需印度證券交易委員會註冊的股權投資限額將上調。
+
+---
+
+### 2026-06-05 12:53:19  #MKT News #Market Regions #Emerging Markets
+
+RBI governor said restrictions on short-term investments will be removed and concentration limits on foreign investment under the automatic route will be eased.
+
+---
+
+### 2026-06-05 12:53:13  #MKT News
+
+Reserve Bank of India governor said the central bank will broaden the scope of forward FX securities and will issue a 40-year Indian government bond.
+
+---
+
+### 2026-06-05 12:53:03  #國際
+
+印度儲備銀行行長：正取消通用渠道下外國組合投資的短期投資限額與集中度限制。
+
+---
+
+### 2026-06-05 12:52:45  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) CEO Jensen Huang said he has some surprises.
+
+---
+
+### 2026-06-05 12:52:22  #國際
+
+印度儲備銀行行長：將就外資流入公佈若干措施。
+
+---
+
+### 2026-06-05 12:52:12  #市場 #央行 #國際
+
+【日本5月外匯儲備大降】日本財務省5日公佈的資料顯示，截至今年5月末，日本外匯儲備約為1.31萬億美元，較4月末下降5.6%，為有可比資料以來最大月度降幅。截至5月末，日本外匯儲備較4月末減少了約771億美元，減少金額同樣創下有記錄以來的最高水平。資料顯示，包括美國國債在內的證券持有量下降是日本外匯儲備減少的主要原因。截至5月末，日本外匯儲備中的證券資產約為9316.8億美元，較4月末減少7.5%。分析人士認為，日本外匯儲備大幅下降既反映了日本政府幹預外匯市場對外匯儲備的消耗，也受到美國長期利率上升導致債券資產估值下滑的影響。日本財務省此前公佈的資料顯示，4月28日至5月27日期間，日本政府與日本央行實施的外匯干預規模累計達11.73萬億日元（約合738億美元）。（新華社）
+
+---
+
+### 2026-06-05 12:51:23  #宏觀 #國際
+
+印度儲備銀行行長：近幾個月出臺的多項政策舉措預計將強化國際收支狀況。
+
+---
+
+### 2026-06-05 12:51:12  #央行 #國際
+
+【印度央行維持關鍵利率不變 顯示不肯借升息提振盧比】印度央行維持利率不變，符合大多數經濟學家的預期，政策制定者希望在保持盧比匯率穩定的同時，為經濟提供緩衝。由六名成員組成的貨幣政策委員會一致同意將基準回購利率維持在5.25%不變，這與媒體調查35位經濟學家中的29位預測一致。政策立場仍維持中性。儘管中東衝突持續蔓延，能源價格衝擊引發通脹風險上升，印度央行的這一決定凸顯了支撐經濟增長的一決心。由於通脹率已接近印度央行4%的目標，經濟學家預計央行未來幾個月可能會加息。“印度經濟在進入此次全球動盪時期時，其基本面遠比以往類似時期要好得多。”行長Sanjay Malhotra在電視講話中說，“我們仍然有信心以最小的痛苦承受這些衝擊。”週五的決定顯示，印度央行可能不願提高利率來提振盧比。盧比上個月跌至接近97的創紀錄低位。政府反而考慮其他措施，例如降低外國投資政府債券的稅收，以幫助促進資金流入和提振貨幣。
+
+---
+
+### 2026-06-05 12:50:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said three memory manufacturers have qualified to supply HBM4.
+
+---
+
+### 2026-06-05 12:50:36  #國際
+
+印度儲備銀行行長：截至5月29日，印度外匯儲備規模為6823億美元。
+
+---
+
+### 2026-06-05 12:50:32  #MKT News
+
+Reserve Bank of India governor said the RBI expects core CPI inflation this year to be 4.7%.
+
+---
+
+### 2026-06-05 12:50:17  #MKT News
+
+Reserve Bank of India governor said strong foreign direct investment (FDI) inflows and higher net FDI underscore investor interest in India.
+
+---
+
+### 2026-06-05 12:50:08  #MKT News #Macro & Rates
+
+RESERVE BANK OF INDIA governor raises this year’s CPI inflation projection to 5.1%.
+
+---
+
+### 2026-06-05 12:49:44  #國際
+
+印度儲備銀行行長：能源價格飆升、貿易政策不確定性給印度2027財年經常賬戶赤字帶來上行風險。
+
+---
+
+### 2026-06-05 12:49:38  #MKT News #Market Regions #Emerging Markets
+
+Reserve Bank of India governor expects real GDP growth of 6.8% in Q4 of fiscal 2027.
+
+---
+
+### 2026-06-05 12:49:16  #公司
+
+英偉達執行長黃仁勳：三家記憶體製造商都已獲得供應HBM4的資格。
+
+---
+
+### 2026-06-05 12:48:38  #國際
+
+印度儲備銀行行長：銀行業體系層面指標執行穩健。
+
+---
+
+### 2026-06-05 12:48:35  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said robotics will become South Korea's next major industry.
+
+---
+
+### 2026-06-05 12:47:41  #公司 #國際
+
+英偉達執行長：機器人產業將是韓國下一個核心領域。
+
+---
+
+### 2026-06-05 12:46:51  #國際
+
+印度儲備銀行行長：預計政府現金餘額提取、季風季貨幣回籠將在短期內改善流動性狀況。
+
+---
+
+### 2026-06-05 12:46:43  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA (NVDA.O) CEO Jensen Huang said robotics technology can be applied to South Korea's industrial sector.
+
+---
+
+### 2026-06-05 12:46:35  #公司 #國際
+
+英偉達執行長：可將機器人技術應用於韓國工業。
+
+---
+
+### 2026-06-05 12:46:29  #宏觀 #國際
+
+印度儲備銀行行長：印度儲備銀行已主動出臺長期性及臨時性流動性措施。
+
+---
+
+### 2026-06-05 12:46:12  #國際
+
+印度儲備銀行將2027財年印度通脹預期上調至5.1%，同時將GDP預期下調至6.6%。
+
+---
+
+### 2026-06-05 12:46:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said chip manufacturing will become more automated.
+
+---
+
+### 2026-06-05 12:45:55  #公司
+
+英偉達執行長：晶片製造業自動化程度將進一步提升。
+
+---
+
+### 2026-06-05 12:45:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA (NVDA.O) CEO Jensen Huang said the company will begin hiring staff for an R&D center in South Korea.
+
+---
+
+### 2026-06-05 12:45:36  #公司 #國際
+
+英偉達執行長：將在韓國研發中心啟動招聘工作。
+
+---
+
+### 2026-06-05 12:45:05  #公司
+
+【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
+
+---
+
+### 2026-06-05 12:44:52  #央行 #國際
+
+印度央行行長：2027財年消費者物價指數通脹預期為5.1%（此前預期為4.6%）。
+
+---
+
+### 2026-06-05 12:44:51  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said the company will use memory supply as intelligently as possible.
+
+---
+
+### 2026-06-05 12:44:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Reserve Bank of India governor says average oil prices will be significantly higher than assumed in the previous policy.
+
+---
+
+### 2026-06-05 12:44:21  #資料 #市場 #央行 #國際
+
+【卓創資訊：5月白銀衝高回落，後市關注美聯儲利率決議與美伊談判】5月以來白銀衝高回落，重心窄幅下探。截至6月4日，國內現貨1#白銀報價17711元/千克，相較5月初累計下跌4.41%。5月初美伊釋放和談訊號，疊加主要資源國秘魯開啟能源緊急法令使市場擔憂礦端產出，白銀價格震盪上漲，但隨著主要消費國印度提升白銀進口關稅、美聯儲鴿派票委米蘭辭職以及美伊在關鍵問題上僵持，市場交易加息預期，白銀承壓為主。後市來看，宏觀邏輯仍在於美聯儲利率決議和美伊談判，國內庫存目前水位較高，消費略偏疲軟未能提供基本面支撐，短期關注美國5月非農就業報告和CPI資料，預計白銀價格短期難有明顯方向性。（卓創資訊）
+
+---
+
+### 2026-06-05 12:44:11  #公司
+
+英偉達執行長：我們將儘可能高效靈活地調配記憶體供應。
+
+---
+
+### 2026-06-05 12:43:54  #MKT News #Commodities #Energy
+
+Reserve Bank of India governor said India's crude oil price averaged $110 a barrel over the past two months.
+
+---
+
+### 2026-06-05 12:43:53  #國際
+
+印度儲備銀行行長：平均油價將大幅高於上一次貨幣政策制定時的預期水平。
+
+---
+
+### 2026-06-05 12:43:47  #MKT News #Commodities #Precious Metals
+
+The Reserve Bank of India governor said CPI inflation in March and April was below target. Core inflation remained stable; core inflation excluding precious metals declined sharply over the period.
+
+---
+
+### 2026-06-05 12:43:40  #國際
+
+印度儲備銀行行長：過去兩個月，印度原油籃子的平均油價為每桶110美元。
+
+---
+
+### 2026-06-05 12:43:25  #國際
+
+英偉達黃仁勳：我為韓國帶來了大量業務。將與韓國合作伙伴討論如何協調供應鏈。
+
+---
+
+### 2026-06-05 12:42:54  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) CEO Jensen Huang said he plans to meet with Hyundai, Samsung and SK Group.
+
+---
+
+### 2026-06-05 12:42:47  #國際
+
+印度儲備銀行行長：3月和4月整體消費者物價指數通脹低於目標水平。
+
+---
+
+### 2026-06-05 12:42:36  #公司
+
+英偉達執行長：計劃與現代、三星、SK集團會面。
+
+---
+
+### 2026-06-05 12:42:20  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA CEO Jensen Huang said he has brought a lot of business to South Korea.
+
+---
+
+### 2026-06-05 12:42:17  #國際
+
+印度儲備銀行行長：預計27財年第二季度實際國內生產總值增速為6.3%（此前預測為6.7%）。
+
+---
+
+### 2026-06-05 12:42:14  #MKT News
+
+【Hebei launches Level-3 emergency response for major meteorological disaster (heavy rain)】Hebei province activated a Level-3 emergency response for a major meteorological disaster (heavy rain) at 10:00 today, the provincial emergency management department said. Authorities ordered departments to closely monitor heavy rain from this evening through the 6th, step up risk assessment and safety-hazard inspections, and timely activate higher-level heavy-rain emergency responses as needed.
+
+---
+
+### 2026-06-05 12:42:11  #MKT News
+
+Reserve Bank of India governor says rate decisions will remain data-dependent.
+
+---
+
+### 2026-06-05 12:42:08  #國際
+
+印度儲備銀行行長：預計27財年第一季度實際國內生產總值增長率為6.6%，此前預期為6.8%。
+
+---
+
+### 2026-06-05 12:41:58  #國際
+
+印度儲備銀行行長：2027財年實際GDP增速預期為6.6%，此前預期為6.9%。
+
+---
+
+### 2026-06-05 12:41:33  #國際
+
+印度儲備銀行行長：全球需求疲弱、物流成本高企是商品出口面臨的逆風。 預計服務出口將保持增長動能。
+
+---
+
+### 2026-06-05 12:41:15  #公司
+
+英偉達執行長黃仁勳：人工智慧的建設投入正在加速。
+
+---
+
+### 2026-06-05 12:41:09  #市場 #國際
+
+印度儲備銀行行長：成本上漲、不確定性或削弱投資者情緒。
+
+---
+
+### 2026-06-05 12:41:07  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
+
+NVIDIA (NVDA.O) CEO Jensen Huang said AI build-out is accelerating.
+
+---
+
+### 2026-06-05 12:41:00  #國際
+
+印度豁免國際清算銀行政府證券利息、出售、兌換或轉讓的資本利得稅。
+
+---
+
+### 2026-06-05 12:40:40  #公司 #觀點
+
+摩根大通將特斯拉評級從“減持”上調至“中性”，目標價為 475 美元。
+
+---
+
+### 2026-06-05 12:40:28  #國際
+
+印度儲備銀行行長：通脹上升可能會拖累家庭購買力。
+
+---
+
+### 2026-06-05 12:40:22  #市場 #國際
+
+印度儲備銀行維持回購利率與政策立場不變後，印度隔夜指數互換利率走低；一年期互換下跌4個基點，至6.08%。
+
+---
+
+### 2026-06-05 12:39:59  #國際
+
+印度儲備銀行行長：季風降水預計不足，將對農村需求產生影響。
+
+---
+
+### 2026-06-05 12:39:57  #MKT News #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY
+
+Reserve Bank of India governor said rising energy prices and supply disruptions will weigh on economic activity; the duration of the geopolitical conflict will determine the full impact.
 
 ---
 
@@ -22391,419 +22997,5 @@ Hong Kong open: HSI down 0.66%, Hang Seng Tech Index down 1.23%. BYD Co. (01211.
 ### 2026-06-04 09:21:02  #MKT News #Important #Market Regions #Greater China #CNH
 
 PBOC said today's 7-day reverse repo operation amount was zero, set according to demand from open-market primary dealers.
-
----
-
-### 2026-06-04 09:19:59  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said customers and end customers continue to express a positive outlook for the AI industry.
-
----
-
-### 2026-06-04 09:19:51  #國際
-
-現代汽車與英偉達討在韓國設立人工智慧研發中心。
-
----
-
-### 2026-06-04 09:19:45  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
-
-Korea Economic Daily reports government and industry sources say Hyundai Motor and NVIDIA (NVDA.O) are in talks to set up an AI R&D center in South Korea.
-
----
-
-### 2026-06-04 09:19:16  #其他
-
-【宏景科技金交會簽約交通銀行廣東省分行】據宏景科技訊息，6月3日，第15屆中國（廣州）國際金融交易・博覽會（簡稱“金交會”）舉行，會上，宏景科技與交通銀行廣東省分行完成產融對接專案戰略合作簽約。此次簽約的核心價值，在於為宏景科技算力及AI業務發展提供了穩定、多元的金融支撐。
-
----
-
-### 2026-06-04 09:18:57  #公司 #國際
-
-臺積電執行長表示：我們正在擴充成熟製程晶圓產能，其中包括為滿足CMOS影象感測器需求擴建日本工廠，以及為滿足汽車與工業領域需求擴建德國工廠。
-
----
-
-### 2026-06-04 09:18:51  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said the company is boosting mature-node wafer capacity, adding fabs to meet Japanese CMOS image-sensor demand and German automotive and industrial demand.
-
----
-
-### 2026-06-04 09:18:37  #國際
-
-【美國製裁致維薩卡和萬事達卡在古巴暫停使用】古巴中央銀行6月3日發表宣告說，受美國5月1日行政令影響，古巴將無法繼續透過維薩、萬事達等國際銀行卡渠道收取商品和服務銷售收入。宣告還說，古巴境內外匯交易的其他支付方式仍可正常使用。
-
----
-
-### 2026-06-04 09:17:11  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said overall economic uncertainty persists but expressed confidence TSMC will continue to outperform industry growth.
-
----
-
-### 2026-06-04 09:17:08  #公司 #國際
-
-【現代汽車與英偉達商討在韓設立人工智慧研發中心】韓國經濟日報援引匿名政府及業內人士訊息：現代汽車聯合韓國政府正與英偉達就落地韓國人工智慧技術中心進入最終磋商階段，新萬金成為選址首選。該研發中心將是英偉達級別頂尖的研發基地，這類高規格基地目前僅佈局在新加坡、中國臺灣等少數地區；英偉達去年10月已與現代汽車簽署諒解備忘錄，約定供應GPU晶片並共建AI研發中心。黃仁勳本週到訪韓國，或敲定落戶地點與建設時間表，其定於本週五會晤現代汽車集團會長鄭義宣及其他業界高管。得益於現代汽車計劃在新萬金投入9萬億韓元佈局氫能、AI資料中心與機器人產業園，該地在選址競爭中佔據領先地位。
-
----
-
-### 2026-06-04 09:17:01  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Shares Follow Wall Street Lower — Australian stocks slipped 110 points, or 1.3%, to 8,675 in Thursday's morning session, reversing gains from the prior session after losses on Wall Street overnight amid renewed tensions in the Middle East. Iran reportedly launched a drone attack on Kuwait Airport following a skirmish with the U.S. Local markets retreated from a one-month high, with traders cautiously anticipating April trade data later today. In March, Australia saw the first trade gap since December 2017, as exports fell while imports jumped to a record high. Most sectors logged steep losses, with commercial services, non-energy minerals, and producer manufacturing among major laggards. Still, strength in consumer non-durables and energy minerals helped limit further losses. The four big banks dipped between 1.2% and 1.5%. Other notable decliners were mining giant BHP Group (-3.3%), Northern Star Resources (-5.6%), Lynas Rare Earths (-5.4%), and Evolution Mining (-3.9%).
-
----
-
-### 2026-06-04 09:16:37  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO says the company is working to meet demand from all customers.
-
----
-
-### 2026-06-04 09:16:30  #市場 #焦點
-
-比特幣跌破63000美元，日內跌1.86%。
-
----
-
-### 2026-06-04 09:16:19  #公司
-
-臺積電執行長：我們正全力滿足所有客戶需求。
-
----
-
-### 2026-06-04 09:15:49  #MKT News #TSM.O #Impact bearish
-
-TSMC CEO said the company is monitoring the impact of rising component costs, particularly in consumer and price-sensitive end markets.
-
----
-
-### 2026-06-04 09:15:43  #市場
-
-【人民幣兌美元中間價報6.8203，較上日調低19點】人民幣兌美元中間價報6.8203，較上日調低19點。
-
----
-
-### 2026-06-04 09:15:39  #國際
-
-【訊息人士：歐俄展開談判的視窗正在開啟】據德國方面3日訊息，一名德國政府的訊息人士表示，儘管俄烏衝突仍在繼續，但德國方面認為，俄羅斯和歐洲之間就烏克蘭問題展開談判的視窗正在慢慢開啟，儘管談判可能需要幾個月的時間才能開始。目前還不清楚誰將領導相關的談判，該訊息人士表示，英法德三國將在這方面發揮重要作用。此前，俄羅斯和烏克蘭之間的談判主要由美國斡旋，歐洲國家並未參與其中。近期美國斡旋俄烏衝突的外交程序陷入停滯，在此背景下，歐洲國家正加大力度重新介入。
-
----
-
-### 2026-06-04 09:15:20  #MKT News #CNH #Impact mixed
-
-【CITIC Securities: include FX in earnings analysis; watch earnings risk at high-offshore, FX‑sensitive A‑share firms】CITIC Securities warns that rapid growth in A‑share offshore revenue does not imply stable RMB profits. FX affects reported results through revenue, costs, exchange gains/losses, derivatives and other comprehensive income (OCI). It recommends incorporating FX into earnings models, flagging firms with high offshore revenue and high FX sensitivity as sources of earnings‑surprise risk, preferring high‑offshore/low‑sensitivity profit‑stable names, and warning of firms with large foreign‑currency debt, material net FX exposures or inadequate hedging.
-
----
-
-### 2026-06-04 09:15:14  #公司 #市場
-
-臺積電執行長：我們將繼續監控零部件成本上漲帶來的影響，這種影響在消費類以及對價格敏感的終端市場尤為明顯。
-
----
-
-### 2026-06-04 09:15:03  #公司
-
-臺積電執行長表示：目前在消費級、企業級及主權人工智慧各領域，人工智慧模型的應用滲透率正持續提升。這一趨勢推高了對先進半導體晶片的強勁需求。
-
----
-
-### 2026-06-04 09:15:03  #市場
-
-恒指期貨日盤開盤跌0.82%，報25283.00點，低水350.21點。
-
----
-
-### 2026-06-04 09:14:50  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said the trend supports strong demand for advanced semiconductor chips.
-
----
-
-### 2026-06-04 09:14:45  #MKT News #Market Themes #AI Revolution #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said he sees continued growth in AI model adoption across consumer, enterprise and sovereign AI domains.
-
----
-
-### 2026-06-04 09:14:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot silver climbed $1 intraday to $73.72/oz, up 1.38%.
-
----
-
-### 2026-06-04 09:14:11  #其他
-
-【戴盟機器人完成億元A輪融資，匯川產投與中國電信聯合投資】近日，戴盟機器人完成億元A輪融資，匯川技術旗下產業基金匯川產投與中國電信聯合投資。本輪融資將用於進一步打造超大規模含物理互動資訊的資料集，推動物理世界模型研發並驅動真實物理場景下的資料飛輪與商業閉環。
-
----
-
-### 2026-06-04 09:13:26  #國際
-
-市場訊息： 現代汽車和英偉達正在考慮在韓國設立人工智慧研發中心。
-
----
-
-### 2026-06-04 09:12:59  #市場 #國際
-
-日本10年期國債收益率上升0.5個基點，至2.645%。
-
----
-
-### 2026-06-04 09:12:46  #公司
-
-【九華新材啟動IPO輔導】證監會網站披露，安徽九華新材料股份有限公司（簡稱“九華新材”）於2026年6月3日在安徽證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為華泰聯合證券。輔導備案報告顯示，九華新材控股股東為銅陵有色金屬集團控股有限公司，直接持有84.3750%股份，並透過全資子公司銅冠投資(上海)有限公司間接持有13.0208%股份，合計持有九華新材97.3958%股份。
-
----
-
-### 2026-06-04 09:12:10  #宏觀 #國際
-
-【美國國務卿魯比奧將於美東時間週四上午9:30會見科威特外交大臣】根據美國國務院的日程安排，美國國務卿馬爾科·魯比奧將於週四在國務院會見科威特外交大臣傑拉赫。作為美國的堅定盟友、並駐有數千名美軍的科威特，自4月8日美伊停火生效以來成為伊朗的重點打擊目標，過去兩個月中遭遇約六次襲擊。
-
----
-
-### 2026-06-04 09:10:42  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said market demand for semiconductors is structural.
-
----
-
-### 2026-06-04 09:10:33  #公司
-
-臺積電執行長表示：我們認為半導體的市場需求具備基本面支撐。
-
----
-
-### 2026-06-04 09:10:27  #市場
-
-新加坡海峽時報指數下跌1%，至5086.66。
-
----
-
-### 2026-06-04 09:09:27  #市場
-
-現貨白銀日內漲1%，現報73.44美元/盎司。
-
----
-
-### 2026-06-04 09:09:15  #MKT News #TSM.N #Impact bullish
-
-TSMC's CEO said the company is confident in its growth over the next several years.
-
----
-
-### 2026-06-04 09:09:02  #公司
-
-臺積電執行長表示：我們對臺積電未來數年的增長抱有信心。
-
----
-
-### 2026-06-04 09:08:56  #市場 #國際
-
-【韓國金融監管部門研討提振科斯達克市場方案】據《首爾經濟日報》援引金融業匿名訊息，韓國金融委員會將於6月4日聯合多家券商召開緊急會議，商討盤活科斯達克（Kosdaq）市場的相關舉措。監管部門將收集券商關於科斯達克盤面現狀、吸引增量資金入場的對策建議。近數月韓國主機板Kospi與科斯達克行情分化顯著：年內韓國綜合指數大漲109%，科斯達克同期漲幅僅11%。監管方同時在評估，原定推進的科斯達克雙層市場改制方案能否有效提振市場交投活躍度、提升投資者參與度。
-
----
-
-### 2026-06-04 09:07:59  #公司 #市場
-
-軟銀集團股價下跌9%。
-
----
-
-### 2026-06-04 09:07:58  #MKT News #Market Regions #Greater China
-
-【China begins sale of rail tickets for first day of Dragon Boat Festival holiday】China State Railway Group said rail service for the Dragon Boat Festival runs June 18-22. Under the 15-day advance-sale rule, tickets for June 18 are on sale nationwide today via the 12306 website and app; travelers should check station-specific ticket release times.
-
----
-
-### 2026-06-04 09:07:52  #MKT News #9984.T #Impact bearish #Nikkei 225
-
-SoftBank Group shares plunged 9%.
-
----
-
-### 2026-06-04 09:05:49  #公司
-
-據報道，OpenAI的阿爾特曼、Anthropic的阿莫代伊、谷歌深度思維AI實驗室的哈薩比斯呼籲國會要求對合成DNA與RNA的訂購設立安全防護機制。
-
----
-
-### 2026-06-04 09:05:21  #MKT News
-
-According to the Wall Street Journal, US AI company executives sent a joint letter urging Congress to pass legislation requiring screening of purchasers of synthetic DNA and RNA.
-
----
-
-### 2026-06-04 09:05:19  #公司
-
-上海曦智科技股份有限公司在香港暫停交易。
-
----
-
-### 2026-06-04 09:05:17  #市場
-
-布倫特原油日內跌1%，現報96.79美元/桶。
-
----
-
-### 2026-06-04 09:04:36  #MKT News #Market Themes #AI Revolution
-
-Per the Wall Street Journal, top AI CEOs including OpenAI founder Altman signed a letter calling for legislation to guard against bioweapons threats.
-
----
-
-### 2026-06-04 09:04:20  #公司
-
-【Uber對自動駕駛創企Nuro的承諾投資總額據悉近5億美元】據報道，知情人士稱，Uber對自動駕駛初創公司Nuro的承諾投資總額已接近5億美元。Uber此前曾宣佈計劃向Nuro投資數億美元，其中包括參與後者的2.03億美元融資輪。
-
----
-
-### 2026-06-04 09:04:05  #市場
-
-【酒價內參6月4日價格釋出：五糧液普五古井貢古20領跌 總價再度大幅回落】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月4日整體明顯走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9900元，較昨日大幅下跌25元，回吐昨日全部漲幅。市場在前一日底部反彈後迅速轉衰，終端交投情緒偏謹慎，今日除習酒君品微漲外其餘十大品種均下跌或平盤。今日白酒市場11大單品一漲九跌一平，輸家佔據絕對優勢。上漲方面，習酒君品小幅上漲1元/瓶，收穫四連陽，逐步走出月內最低谷。下跌方面，五糧液普五八代與古井貢古20跌幅居前，均下跌5元/瓶，其中前者三連陰後創下月內最低價紀錄，近一個月其價格下行勢頭明顯；青花汾20與青花郎均下跌4元/瓶，其中前者回吐前一日全部漲幅，回落至月內最低位，後者創下月內最低價格記錄；飛天茅臺、精品茅臺與水晶劍南春均下跌2元/瓶；五糧液1618與國窖1573均小幅下跌1元/瓶。洋河夢之藍M6+的價格環比保持不變。
-
----
-
-### 2026-06-04 09:03:31  #公司
-
-市場訊息：頂尖人工智慧企業執行長呼籲立法防範生物武器。
-
----
-
-### 2026-06-04 09:02:34  #國際
-
-【以軍稱打死傑哈德一火箭彈發射小組負責人】以色列國防軍3日發表宣告說，以軍2日在加沙地帶南部實施空襲，打死巴勒斯坦伊斯蘭聖戰組織（傑哈德）一名火箭彈發射小組負責人。宣告說，被打死的武裝人員名為艾哈邁德·阿布·穆蓋西卜，曾參與策劃針對以軍士兵和以色列平民的襲擊行動，並涉嫌參與向加沙地帶走私。宣告還說，以軍當晚在加沙地帶中部空襲數名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員，打死其中一人。以軍稱，這些人員正在策劃襲擊行動，對以軍構成“直接威脅”。以軍表示，以軍南方司令部部隊目前仍按照停火協議部署在相關地區，並將繼續採取行動，消除任何“即時威脅”。（新華社）
-
----
-
-### 2026-06-04 09:02:07  #公司
-
-【振芯科技：目前暫不涉及算力晶片研發】振芯科技6月4日在互動平臺表示，公司目前暫不涉及算力晶片研發，公司的GPU算力板卡主要應用於特定行業，佔收入比例很低。
-
----
-
-### 2026-06-04 09:01:55  #其他
-
-【航行警告！舟山青浜島水域軍事活動】據中國海事局網站訊息，舟山海事局釋出航行警告，6月4日11時至15時30分和6月5日14時至17時30分，東海部分水域進行軍事射擊訓練，禁止駛入。
-
----
-
-### 2026-06-04 09:01:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 0.54% in early trade on Thursday, June 4, to 970.71 yuan/gram; silver T+D dropped 1.56% to 17,739.0 yuan/kg.
-
----
-
-### 2026-06-04 09:01:27  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) opened down 496.74 points, or 1.07%, at 45,962.42 on Thursday, June 4.
-
----
-
-### 2026-06-04 09:01:07  #MKT News
-
-【Navigation warning: military activity in waters off Qingbang Island, Zhoushan】Zhoushan Maritime Safety Administration issued a navigation warning: parts of the East China Sea near Qingbang Island will be closed to navigation for military live-fire drills on June 4 11:00–15:30 and June 5 14:00–17:30 Beijing time; entry prohibited.
-
----
-
-### 2026-06-04 09:01:04  #公司
-
-【上海機電、靈巧智慧合資成立兩家新公司 均含AI業務】企查查APP顯示，近日，靈機壹動（上海）科技有限公司、靈機智聯（上海）科技有限公司成立，經營範圍均包含：人工智慧硬體銷售；假肢和矯形器（輔助器具）生產裝配；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，二者皆由上海機電、浙江靈巧智慧科技有限公司共同持股。
-
----
-
-### 2026-06-04 09:00:59  #公司 #觀點
-
-【摩根大通CEO計劃親自出馬向數千名高淨值客戶推介SpaceX的IPO 曾與SpaceX執行長馬斯克有過一段曲折的歷史】摩根大通執行長傑米·戴蒙本週計劃與該行數千名高淨值客戶討論即將到來的SpaceX首次公開募股(IPO)，與這家火箭製造商管理層一道在全美進行史無前例的推介宣傳。根據媒體看到的邀請函，戴蒙將於週四在摩根大通總部主持一場“現場互動討論”。與會者還將包括該行資產與財富管理部門執行長Mary Callahan Erdoes，以及兩位SpaceX的高管——總裁Gwynne Shotwell和首席財務官Bret Johnsen。雖然銀行在IPO前舉辦路演活動並不罕見，但摩根大通此次規模之大，凸顯了市場對這筆可能成為史上規模最大的IPO的巨大需求。摩根大通與SpaceX執行長馬斯克曾經有過一段曲折的歷史，因此該行的參與尤為引人注目。摩根大通曾在2021年起訴馬斯克旗下電動車製造商特斯拉，指控一系列股票認股權證交易受到馬斯克一度嘗試推動特斯拉私有化的影響。特斯拉隨後提出反訴，雙方最終於2024年11月同意撤訴。數月後，戴蒙曾打趣稱自己與馬斯克“擁抱言和”，並表示今後將支援馬斯克及其旗下公司。
-
----
-
-### 2026-06-04 09:00:47  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
-
-FTSE China A50 index futures opened 0.47% lower.
-
----
-
-### 2026-06-04 09:00:22  #市場
-
-臺灣證交所加權股價指數下跌1.1%至45,943.42點。
-
----
-
-### 2026-06-04 09:00:16  #MKT News #Important #Commodities #Precious Metals #Industrial Metals
-
-At the open, China’s most-active futures contracts were mixed: coking coal rose over 3%, coke and rapeseed oil gained more than 2%, asphalt and methanol were up about 1%. On the downside, palladium fell over 3%; platinum, SHFE silver and SHFE nickel declined more than 2%; stainless steel (SS) and lithium carbonate dropped nearly 2%.
-
----
-
-### 2026-06-04 09:00:13  #其他
-
-臺灣證交所加權股價指數開低0.2%報46,364.07。
-
----
-
-### 2026-06-04 09:00:05  #宏觀 #國際
-
-市場訊息：韓國金融監管機構擬出臺舉措提振科斯達克（Kosdaq）市場。
-
----
-
-### 2026-06-04 09:00:03  #市場
-
-富時中國A50指數期貨開盤下跌0.46%。
-
----
-
-### 2026-06-04 09:00:02  #市場
-
-【商品期貨開盤】膠合板連續跌4.38%，鈀連續跌3.52%，焦煤連續漲3.39%，鉑連續跌3.07%，多晶矽連續跌2.31%。
-
----
-
-### 2026-06-04 08:59:11  #國際
-
-【俄稱攔截烏軍無人機 烏稱打擊俄關鍵目】當地時間3日，俄羅斯國防部發布戰報稱，過去24小時，俄軍打擊了烏軍遠端無人機儲存和發射點、烏軍能源和交通基礎設施、烏軍和外籍僱傭兵的臨時部署點等目標。俄軍防空部隊則攔截了烏軍多枚制導航空炸彈、多枚“海馬斯”火箭彈以及超過700架無人機。烏克蘭武裝部隊總參謀部3日發表宣告稱，烏軍在2日夜間到3日凌晨打擊了俄方港口的基礎設施和停靠在此的船隻，以及聖彼得堡的石油設施、米丘林斯克的精確制導武器工廠等多個關鍵目標。
-
----
-
-### 2026-06-04 08:58:27  #國際
-
-日本首相高市早苗：強烈希望履行食品減稅的承諾。
-
----
-
-### 2026-06-04 08:58:07  #國際
-
-【中信博SNEC 2026首日簽約超3GW專案】據中信博訊息，6月3日，SNEC 2026第十九屆國際太陽能光伏與智慧能源(上海)大會暨展覽會開幕。首日現場，中信博再獲大單，簽約中東2GW超級專案。中信博與中國電建華東院簽署阿聯酋ADQ 2091MW大型光伏專案訂單，繼2025年AFIF系列4.2GW訂單後再度聯手。此外，中信博現場簽約安徽中鴻新能源1GW儲能專案合作意向書，同時與山東厚安投資圍繞儲能GW級專案達成戰略合作協議。
-
----
-
-### 2026-06-04 08:57:45  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Pull Back From Record Highs — The Nikkei 225 Index fell 1.5% toward 67,000, while the broader Topix Index declined 0.8% to 3,964 on Thursday, as Japanese equities retreated from record levels amid renewed tensions between the US and Iran. The latest escalation undermined hopes for a peace agreement and drove energy prices higher, keeping inflation and interest-rate concerns in focus. Domestic stocks also followed US futures lower after a weak outlook from US chipmaker Broadcom weighed on the global technology sector. Meanwhile, billionaire investor Ray Dalio cautioned that the rapidly expanding artificial intelligence market is exhibiting bubble-like characteristics that could eventually unwind. Technology and AI-related shares led losses in Japan, including SoftBank Group (-7.8%), Kioxia Holdings (-1%), Fujikura (-6.1%), Murata Manufacturing (-2.9%), and Furukawa Electric (-4.4%).
-
----
-
-### 2026-06-04 08:55:53  #公司
-
-【健麾資訊等成立具身智慧機器人公司】企查查APP顯示，近日，上海健麾具身智慧機器人有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人制造；工業機器人銷售；特殊作業機器人制造等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。
-
----
-
-### 2026-06-04 08:53:37  #公司 #國際
-
-【Meta指責澳大利亞違反自由貿易協定 援引美國貿易行動】Meta指責澳大利亞提議對未與當地媒體達成授權協議的某些科技巨頭徵收新稅，此舉違反了與美國簽署的自由貿易協定，從而加劇了這場已持續醞釀五年的爭端。這家市值1.6萬億美元、擁有Facebook和Instagram的巨頭表示，對平臺徵收相當於其在澳總收入2.25%的稅款——包括與社交媒體無關的收入——這一提議“站不住腳”，且其力度已超出此前引發美國政府回應的措施。Meta此前曾表示，反對澳大利亞中左翼政府已公佈立法草案的所謂“新聞談判激勵”措施。但其最新宣告表明，該法律可能加劇這兩個盟國之間的地緣政治緊張局勢。Meta在週四釋出的一篇部落格文章中表示，該稅種“顯然違反了澳大利亞和美國在雙邊自由貿易協定中作出的承諾，該協定要求澳大利亞給予美國公司‘不遜於’澳大利亞同行的待遇”。
-
----
-
-### 2026-06-04 08:53:30  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish
-
-SK Group and Taiwan Semiconductor Manufacturing Co. (TSMC) agreed to deepen cooperation on high-bandwidth memory (HBM) development and advanced packaging.
-
----
-
-### 2026-06-04 08:52:58  #Trading Economics #Economy #Singapore #Composite PMI #Importance 2
-
-Singapore Private Sector Growth Eases from Near 4-Year Peak — Singapore’s S&P Global PMI eased to 56.7 in May 2026 from April’s near four-year high of 57.9. Still, the latest result marked the 16th straight month of expansion in private sector activity, with output growth accelerating to a three-month high. Meanwhile, new orders rose at the second-strongest pace on record despite cooling from April, underscoring resilient demand. Employment fell for a second month on cuts to temporary staff and voluntary exits, even as firms lifted purchasing at a record pace, with some stockpiling ahead of demand. On prices, input cost inflation hit a survey high, driven by supplier price hikes, rising fuel and transport costs, and a record surge in wages. Purchase cost inflation stayed elevated, its third-highest on record, but firms were less aggressive in passing costs on, with output charge inflation easing to a four-month low though still steep. Finally, business sentiment remained positive but softened from April’s elevated level.
 
 ---
