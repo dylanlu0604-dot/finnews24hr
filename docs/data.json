@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-08 06:25:03",
-  "count": 19150,
+  "updated": "2026-06-08 06:43:24",
+  "count": 19148,
   "items": [
+    {
+      "id": "4922337",
+      "time": "2026-06-08 06:41:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼表示，在企業普遍收緊預算的背景下，企業端人工智慧token使用量大幅激增。"
+    },
+    {
+      "id": "4922336",
+      "time": "2026-06-08 06:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美國要求以色列暫緩行動數日，為達成協議留出空間；若談判破裂，雙方將執行聯合行動方案。"
+    },
+    {
+      "id": "4922335",
+      "time": "2026-06-08 06:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：以色列或推遲數日發動打擊，不會在今晚採取行動，原因是遭到特朗普反對。"
+    },
+    {
+      "id": "4922334",
+      "time": "2026-06-08 06:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門胡塞武裝宣稱，以色列的侵略時代已然終結，並表示該政權只認同武力。"
+    },
+    {
+      "id": "4922333",
+      "time": "2026-06-08 06:30:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國駐沙特大使館：提醒在沙特中國公民注意安全。"
+    },
+    {
+      "id": "mkt:019ea435-0fbe-7ee0-86d4-91122a932aa1",
+      "time": "2026-06-08 06:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy confirms meeting with Russian businessman Abramovich】Ukrainian President Zelenskiy said on the 7th he met Russian businessman Roman Abramovich and disclosed details: Abramovich traveled to Kyiv to deliver messages and to gather Ukrainian positions and demands to relay to Russian President Putin as an intermediary. Zelenskiy added Abramovich had preferred the meeting remain private."
+    },
+    {
+      "id": "4922332",
+      "time": "2026-06-08 06:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基證實曾與俄商人阿布拉莫維奇會面】當地時間7日，烏克蘭總統澤連斯基在接受採訪時，證實自己曾與俄羅斯商界人士阿布拉莫維奇會面，並公開了此次會面的相關細節。澤連斯基透露，阿布拉莫維奇曾專程前往基輔，向他轉達訊息，並希望收集烏方立場與訴求，再代為轉交俄羅斯總統普京，充當雙方溝通傳話的中間人。此外他補充表示，阿布拉莫維奇本人此前並不希望此次雙邊會面的相關事宜對外公開。（央視新聞）"
+    },
+    {
+      "id": "4922331",
+      "time": "2026-06-08 06:24:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【受特朗普表態訊息影響，原油漲幅有所收窄】特朗普稱，伊朗襲擊以色列不會影響雙方達成協議的程序，此後WTI原油、布倫特原油期貨小幅回落。布倫特原油此前一度觸及每桶96.47美元，現漲幅為2.7%，報約95.50美元/桶。標普500股指期貨跌幅收窄至0.1%，此前最大跌幅達0.6%。"
+    },
     {
       "id": "4922330",
       "time": "2026-06-08 06:21:10",
@@ -176545,99 +176611,6 @@
         "WTI"
       ],
       "text": "【This week: US nonfarm payrolls, SpaceX IPO roadshow, OPEC+ ministerial meeting】Monday: China May RatingDog manufacturing PMI; UK May Nationwide house-price MoM; May manufacturing PMIs for UK, US, France, Germany and the euro area; euro-area April unemployment rate; Meituan reports quarterly results; Nvidia opens GTC Taipei (Jensen Huang keynote). Tuesday: Euro-area May CPI flash; US April JOLTS vacancies; Tiger Brokers reports; Fed officials Kashkari and Harker speak; BoE Governor Bailey appears before the Lords. Wednesday: US API and EIA crude inventories; China May RatingDog services PMI; May services PMIs for UK, US, France, Germany and the euro area; US May ADP payrolls; Broadcom and Zhihu report; BOJ Governor UEDA speaks; Korea markets closed for local elections; US Treasury Secretary Bessent testifies to the Senate on the budget; Japanese government submits supplementary budget to parliament. Thursday: Euro-area April retail sales MoM; US May Challenger job cuts, initial jobless claims and EIA NG inventories; Fed releases the Beige Book; China domestic refined-fuel price adjustment window opens; ECB President LAGARDE and BoE Governor BAILEY both speak; SpaceX targets as early as June 4 to start its IPO roadshow. Friday: France April trade balance; euro-area Q1 GDP final revision; Canada May employment; US May seasonally adjusted nonfarm payrolls, unemployment rate and average hourly earnings — primary market-moving data of the week; ARAMCO posts official selling price around the 5th of the month; Fed Governor Daly speaks; China reduces domestic aviation fuel surcharges on major routes. Saturday: Baker Hughes rig count for the week to June 5; CFTC weekly commitments report; BoE Governor BAILEY speaks. Sunday: China May FX reserves; OPEC and non-OPEC ministerial supervisory committee meets."
-    },
-    {
-      "id": "4909119",
-      "time": "2026-06-01 06:42:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "舊金山一套標價299.5萬美元的房產，接受以Anthropic或OpenAI的上市前股份作為購房款。"
-    },
-    {
-      "id": "4909118",
-      "time": "2026-06-01 06:41:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位伊朗高階環境官員表示，向途經霍爾木茲海峽的船隻收取環境費的計劃在國際海事法中有法律依據，並且可以幫助資助波斯灣環境損害的賠償。"
-    },
-    {
-      "id": "mkt:019e802f-cee3-700f-a381-416d4343baf8",
-      "time": "2026-06-01 06:37:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK to publish communications with former US ambassador; Starmer's premiership faces fresh test】Prime Minister Starmer will on Monday be forced to publish hundreds of private communications between disgraced former UK ambassador to the US Peter Mandelson and government members, disclosures that could further imperil his already precarious premiership. After Mandelson was sacked last year, the Starmer government — under parliamentary pressure — will release texts and emails among ministers, advisers and senior officials related to Mandelson. Starmer appointed Mandelson ambassador to the US in February 2025; Mandelson served seven months before being sacked after revelations of ties to Epstein."
-    },
-    {
-      "id": "4909117",
-      "time": "2026-06-01 06:33:50",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 09:45 中國5月RatingDog製造業PMI；\n② 11:00 英偉達GTC Taipei 2026大會開幕，黃仁勳發表主題演講；\n③ 14:00 英國5月Nationwide房價指數；\n④ 14:30 瑞士4月實際零售銷售；\n⑤ 15:50 法國5月製造業PMI終值；\n⑥ 15:55 德國5月製造業PMI終值；\n⑦ 16:00 歐元區5月製造業PMI終值；\n⑧ 16:30 英國5月製造業PMI終值；\n⑨ 17:00 歐元區4月失業率；\n⑩ 21:45 美國5月標普全球製造業PMI終值；\n⑪ 22:00 美國5月ISM製造業指數、美國4月營建支出。"
-    },
-    {
-      "id": "4909116",
-      "time": "2026-06-01 06:32:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "製藥企業禮來公司表示，正在測試一款新型試驗藥物，該藥物有望徹底改變高膽固醇的治療格局。"
-    },
-    {
-      "id": "mkt:019e8029-7c9d-700f-a381-3e5213cb1d52",
-      "time": "2026-06-01 06:31:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Colombia to hold presidential runoff】On May 31 local time, Colombia's National Civil Registry said a preliminary tally of 95.12% of ballots showed no candidate secured more than 50% of the vote, triggering a second-round presidential vote."
-    },
-    {
-      "id": "4909115",
-      "time": "2026-06-01 06:30:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞將舉行總統選舉第二輪投票】當地時間5月31日，哥倫比亞國家民事登記處公佈的對95.12%選票初步計票結果顯示，沒有候選人在31日舉行總統選舉投票中獲得超過半數的選票，總統選舉將舉行第二輪投票。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8027-d3f7-700f-a381-331125670340",
-      "time": "2026-06-01 06:29:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Oil rebounds from six-week low as US‑Iran deal prospects remain unclear】Oil pared losses and WTI jumped about 2.0% early Monday to $92.07/bbl as prospects for a US‑Iran peace deal stayed uncertain. Washington and Tehran exchanged messages over the weekend seeking to amend a draft agreement to extend a ceasefire and reopen the Strait of Hormuz, but it was unclear whether substantive progress was made. Earlier optimism that a deal would restore energy flows through the strait had driven crude’s first monthly decline of the year. An economist warned neither side is likely to concede on core, pre‑war issues — nuclear program, control of the Strait of Hormuz, ballistic missiles and sanctions — and said prices will remain sensitive to local developments and leaders’ remarks."
-    },
-    {
-      "id": "mkt:019e8024-ce00-700f-a381-2b8fc9fa30f1",
-      "time": "2026-06-01 06:25:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【MIIT to accelerate forward-looking deployment and development of future industries】MIIT Minister Li Lecheng said the ministry will accelerate frontier technology breakthroughs and upstream supply for future industries, leveraging a new national coordination model and an 'industry-sets-the-problem, science-provides-the-answer' approach. MIIT will prioritize original, leading R&D to secure key core technology breakthroughs; continue deploying open‑challenge problem‑solving tasks to tackle critical bottleneck technologies; form deep industry–university–research–application innovation consortia by integrating universities, research institutes and leading firms; build proof‑of‑concept centers and pilot production platforms to scale lab results to production; and run large‑scale demonstration deployments to speed commercialization and align innovation and industrial chains."
-    },
-    {
-      "id": "mkt:019e8024-c698-700f-a381-232c6cc37b48",
-      "time": "2026-06-01 06:25:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【China MIIT urges risk-sharing and funding push for future industries】China’s Ministry of Industry and Information Technology (MIIT) minister Li Lecheng said in a People’s Daily article that Beijing will build mechanisms to boost investment and share risk for “future industries,” citing long incubation cycles and high market risk. He called for exploring funding approaches that encourage innovation and tolerate failure, mobilising government investment funds and national industry–finance cooperation platforms and stepping up financial support. The MIIT urged development of a tech-finance services system and new financing tools to attract social capital into early-stage and patient investments, prioritising early, small-scale backing of hard‑tech. It also reiterated acceleration of manufacturing talent programs, faster cultivation and recruitment of cross-disciplinary and high‑skill personnel, and optimisation of university disciplines to strengthen industry‑tech innovation talent pools."
     }
   ]
 }
