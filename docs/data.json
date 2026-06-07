@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-07 21:54:25",
+  "updated": "2026-06-07 21:58:34",
   "count": 18991,
   "items": [
+    {
+      "id": "mkt:019ea25f-d6fc-7ee0-86d0-3264fe052f3e",
+      "time": "2026-06-07 21:57:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports parties have agreed on the Gaza peace committee document's terms, with the sole remaining dispute over the disarmament clause."
+    },
+    {
+      "id": "mkt:019ea25f-b1c7-7ee0-86d0-2c544ea4e8a1",
+      "time": "2026-06-07 21:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath, citing sources, said disarmament of Hamas remains disputed in Cairo-mediated Gaza talks; mediators have demanded Hamas hand over weapons \"from pistols to missiles\" to a Gaza administrative committee in return for Israel \"seriously\" implementing the agreement."
+    },
+    {
+      "id": "4922025",
+      "time": "2026-06-07 21:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示：我不便透露是否知曉伊朗最高領導人的行蹤，但我極有可能掌握其位置。"
+    },
+    {
+      "id": "4922024",
+      "time": "2026-06-07 21:54:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士稱，哈馬斯與以色列在開羅進行的談判因以色列的條件而“陷入僵局”。"
+    },
     {
       "id": "4922023",
       "time": "2026-06-07 21:53:41",
@@ -175117,43 +175149,6 @@
         "Brent"
       ],
       "text": "Iranian Students' News Agency (ISNA) reported that Kosari, a member of Iran's National Security and Foreign Policy Council, said the nuclear issue has been excluded from the negotiating table and no final agreement has been reached."
-    },
-    {
-      "id": "4908916",
-      "time": "2026-05-31 21:58:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月起，上海家電數碼以舊換新補貼線上活動調整為“即時搖號”】5月31日，澎湃新聞記者從上海市商務委獲悉，2026年6月1日至9月30日，上海市家電以舊換新、數碼和智慧產品及自主品類購新補貼線上活動方式將進行調整，由原來兩週一次的報名搖號，調整為即時搖號。消費者可登入服務機構應用程式APP等渠道選擇線上家電數碼、線上自主品類即時搖號專區，消費者可在專區內選擇多品類參與即時搖號，每日每品類可參加一次，搖號結果即時告知。中獎補貼資格券即時發放至中籤消費者賬戶，補貼資格券有效期按券面提示執行。（澎湃）"
-    },
-    {
-      "id": "4908915",
-      "time": "2026-05-31 21:55:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：調解方持續推進伊美協議談判。特朗普於週五修訂協議文字並送交伊朗審批，目前仍未收到對方回覆。"
-    },
-    {
-      "id": "mkt:019e7e50-b4e6-700f-a37e-613fecdc35ae",
-      "time": "2026-05-31 21:54:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps struck a base belonging to a 'separatist organization' in northern Iraq, state media reported."
-    },
-    {
-      "id": "4908914",
-      "time": "2026-05-31 21:54:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議員科薩里：核問題已退出談判議程，雙方尚未達成最終協議。"
     }
   ]
 }
