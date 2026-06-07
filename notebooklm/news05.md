@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 10:38:07_
-_本檔包含 3565 則快訊，約 704503 字_
+_更新時間：2026-06-07 12:05:37_
+_本檔包含 3591 則快訊，約 707315 字_
+
+---
+
+### 2026-06-01 22:27:57  #公司 #市場
+
+【6月1日增減持彙總】據不完全統計，6月1日盤後，華測導航披露增持情況，包括華研精機、潤澤科技、保立佳、雲中馬、矩子科技、咸亨國際在內的6家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-01 22:27:30  #市場 #國際
+
+【分析師：海灣地區股市多數下跌，受對伊朗戰爭的擔憂拖累】分析師表示，隨著美伊緊張局勢重燃令投資者保持謹慎，海灣地區股市收盤多數走低。Zaye Capital Markets的Naeem Aslam表示，儘管全球盈利帶來支撐，且圍繞人工智慧(AI)的情緒積極，但與石油、通貨膨脹和伊朗相關的風險仍在破壞地區市場情緒。週一，卡達QE指數收盤下跌1.1%，沙烏地阿拉伯TASI指數下跌0.6%，阿布扎比基準指數下跌0.5%。迪拜金融市場綜合指數上漲0.3%。
+
+---
+
+### 2026-06-01 22:27:15  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures surged 8.00% intraday to $94.35/bbl.
+
+---
+
+### 2026-06-01 22:26:27  #市場
+
+WTI原油日內漲8%，現報94.35美元/桶。
+
+---
+
+### 2026-06-01 22:26:22  #Trading Economics #Markets #Commodity #Importance 1
+
+TTF Prices Extend Gains in Afternoon Trading — European natural gas futures extended gains to more than 6%, approaching €49 per megawatt hour, as renewed geopolitical tensions raised concerns over global energy supplies. Prices were supported by reports that Iran would suspend exchanges of messages with the US in protest over Israel’s escalating military operations in Lebanon. Tehran accused Washington of sending mixed signals and delaying negotiations, while Foreign Ministry spokesperson Esmail Baghaei said Iran continued to engage with the US with “distrust.” President Donald Trump maintained that talks on an interim peace deal would “work out well,” despite renewed clashes near the Strait of Hormuz. The waterway has remained largely closed for three months, heightening concerns about LNG flows and Europe’s ability to rebuild gas inventories ahead of winter. European storage facilities are currently around 38% full, well below the five-year average of more than 50% for this time of year.
+
+---
+
+### 2026-06-01 22:26:17  #市場 #焦點
+
+低硫燃料油連續主力合約日內漲5%，現報4878.00元。
+
+---
+
+### 2026-06-01 22:26:01  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) said the Surface Laptop Ultra will launch later this year.
+
+---
+
+### 2026-06-01 22:25:35  #其他
+
+微軟：Surface Laptop Ultra 將於今年晚些時候上市。
+
+---
+
+### 2026-06-01 22:25:11  #MKT News #Star Stocks #NVIDIA #Microsoft #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Microsoft (MSFT.O) said its Surface Laptop Ultra will feature NVIDIA technology.
+
+---
+
+### 2026-06-01 22:24:57  #MKT News
+
+An Israeli Defense Ministry spokesman called France's restrictions on Israeli officials and companies at a European international defense exhibition 'shameful'.
+
+---
+
+### 2026-06-01 22:24:48  #其他
+
+微軟：Surface Laptop Ultra 聯合英偉達打造。
+
+---
+
+### 2026-06-01 22:24:32  #國際
+
+以色列國防部發言人指責法國政府對以色列官員及企業在歐洲國際防務展上施加的限制“令人不齒”。
+
+---
+
+### 2026-06-01 22:24:25  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) launches Surface Laptop Ultra.
+
+---
+
+### 2026-06-01 22:24:16  #其他
+
+微軟推出 Surface Laptop Ultra 膝上型電腦。
+
+---
+
+### 2026-06-01 22:24:11  #MKT News #ESLT.O #Impact bearish
+
+An Israeli Defense Ministry spokesman said France will restrict Israeli defense firms' participation in the European International Defense Exhibition, permitting only the display of air-defense system products.
+
+---
+
+### 2026-06-01 22:23:38  #MKT News #SPCE.N #Impact bearish
+
+Virgin Galactic (SPCE.N) resumed trading; shares continued to fall.
+
+---
+
+### 2026-06-01 22:23:37  #公司
+
+【默克大灣區創新與合作中心在深圳南山區落成】6月1日，德國默克集團宣佈，默克大灣區創新與合作中心在深圳市南山區正式竣工落成。根據規劃，默克大灣區創新與合作中心主要定位為集團的創新研發載體，重點聚焦生命科學與醫藥健康產業，透過整合全球創新資源，推動創新藥物和生物技術的研發。
+
+---
+
+### 2026-06-01 22:23:27  #市場
+
+英偉達高開高走，現漲超5%。
+
+---
+
+### 2026-06-01 22:23:18  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
+
+NVIDIA (NVDA.O) intraday gains widened to 5%.
+
+---
+
+### 2026-06-01 22:23:07  #國際
+
+以色列國防部發言人：參展歐洲國際防務展的以色列防務企業將被法國政府限制僅可展出防空產品。
+
+---
+
+### 2026-06-01 22:22:46  #其他
+
+維珍銀河恢復交易，股價繼續收窄漲幅。
+
+---
+
+### 2026-06-01 22:22:37  #公司
+
+【新易盛：目前公司在光路交換機領域已有充分佈局】新易盛6月1日接受機構調研時表示，目前公司在光路交換機（OCS）領域已有充分佈局，公司可以根據客戶的定製化需求進行產品開發，預計市場明年下半年或者2028年將有批次供應需求。
+
+---
+
+### 2026-06-01 22:22:15  #其他
+
+臺積電漲超5%，續刷歷史新高。
+
+---
+
+### 2026-06-01 22:21:56  #MKT News #Important #TSM.N #Impact bullish
+
+TSMC (TSM.N) shares rose more than 5%, extending gains to a fresh record high.
+
+---
+
+### 2026-06-01 22:21:48  #公司
+
+雲端計算服務商CoreWeave漲超14%，公司已完成對英偉達Vera Rubin NVL72平臺的行業首創啟用和驗證。
+
+---
+
+### 2026-06-01 22:21:15  #MKT News #Market Regions #Europe & UK
+
+An Israeli Defense Ministry spokesman said the French government has decided to bar Israeli officials from attending this month’s European defence exhibition.
+
+---
+
+### 2026-06-01 22:21:13  #其他
+
+英國國防部：2026年5月31日星期日在伊拉克北部發生了一起訓練事故，一名英國軍人遇難。
+
+---
+
+### 2026-06-01 22:21:05  #國際
+
+以色列國防部發言人：法國政府已決定禁止以色列官員以官方身份參加本月舉辦的歐洲國際防務展。
+
+---
+
+### 2026-06-01 22:19:50  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Ease from 3-Month High — US natural gas futures fell more than 3% to below $3.2 per MMBtu, retreating from a nearly three-month high of $3.29 reached in the previous session as traders reassessed supply and demand conditions. Weather forecasts continue to point to mostly above-normal temperatures through June 13, a trend that could boost gas consumption from power generators as air conditioning demand rises. On the supply side, gas production in the Lower 48 states averaged 109.4 billion cubic feet per day in May, slightly below April’s 109.8 bcfd. Meanwhile, flows to major US LNG export facilities declined to 17.1 bcfd from a record 18.8 bcfd in April due to seasonal maintenance work at several plants. Despite the latest pullback, US natural gas prices surged 18.9% in May, following a 4.1% decline in April.
+
+---
+
+### 2026-06-01 22:19:43  #MKT News
+
+UK Maritime Trade Operations said it is currently unclear whether there are any environmental impacts.
+
+---
+
+### 2026-06-01 22:19:27  #MKT News #Important
+
+UK Maritime Trade Operations received a report of an incident about 40 nm southeast of Umm Qasr, Iraq, in which a merchant vessel transiting the Arabian Gulf was struck on its starboard side by an unidentified aerial object and a large explosion followed.
+
+---
+
+### 2026-06-01 22:19:09  #MKT News
+
+【Baltic Dry Index slips as Capesize rates soften】The Baltic Dry Index (BDI) fell 2 pts, or 0.06%, to 3,222 on Monday as the Capesize index eased. The Capesize index dropped 7 pts, or 0.1%, to 5,496; Capesize average daily earnings fell dlr65 to dlr46,346. The Panamax index rose 1 pt to 2,344, with Panamax average daily earnings up dlr9 to dlr21,095. Supramax gained 1 pt to 1,570 and Handysize rose 2 pts to 853.
+
+---
+
+### 2026-06-01 22:19:07  #其他
+
+英國海事貿易行動組織：一艘貨輪在阿拉伯海航行途中，右舷遭一枚未知彈丸擊中後發生了大規模爆炸。目前尚未發現此次事件對環境造成任何影響。
+
+---
+
+### 2026-06-01 22:18:53  #公司 #市場
+
+訊息人士：巴里克黃金公司正在考慮將其非洲業務在英國上市。
+
+---
+
+### 2026-06-01 22:18:48  #其他
+
+英國海事貿易行動組織：已收到報告，伊拉克烏姆蓋瑟東南方向40海里處發生一起安全事件。
+
+---
+
+### 2026-06-01 22:18:15  #MKT News #Commodities #Precious Metals #GOLD.O
+
+Sources said Barrick Gold is considering a London listing of its African business.
+
+---
+
+### 2026-06-01 22:18:07  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Jump on Inflation Fears — UK 10-year gilt yields climbed back above 4.9%, recovering from over one-month lows, as renewed US-Iran tensions pushed oil prices higher and intensified inflation concerns. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of "violating the ceasefire on all fronts." Over the weekend, both sides exchanged proposals to revise a draft deal to extend the ceasefire and reopen the Strait of Hormuz, though progress remained uncertain. The geopolitical uncertainty prompted investors to modestly raise expectations for further Bank of England rate hikes this year, with markets now pricing in two increases. Economically, UK house prices fell 0.6% in May, according to Nationwide, a steeper decline than the expected 0.1% and the largest monthly drop since June 2025, driven by weakening consumer confidence and the impact of the Iran conflict on energy prices.
+
+---
+
+### 2026-06-01 22:17:41  #MKT News #SPCE.N
+
+Virgin Galactic (SPCE.N) shares were halted for volatility; gains narrowed to 24% after an earlier 44% jump.
+
+---
+
+### 2026-06-01 22:17:22  #市場
+
+維珍銀河股價漲幅收窄至24%，此前一度上漲44%。
+
+---
+
+### 2026-06-01 22:17:10  #其他
+
+維珍銀河股價在漲幅收窄後因波動而暫停交易。
+
+---
+
+### 2026-06-01 22:17:05  #國際
+
+市場訊息：卡達首相兼外交部長會見阿聯酋大使。
+
+---
+
+### 2026-06-01 22:17:04  #MKT News
+
+Qatar News Agency reported that Qatar's prime minister and foreign minister met the UAE ambassador.
+
+---
+
+### 2026-06-01 22:14:39  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【IDF orders evacuation of Beirut southern suburb Dahiyeh】On June 1 the Israeli Defense Forces warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would strike targets in the area if Hezbollah continues firing rockets at Israeli towns. The IDF said a suspected Hezbollah-launched drone struck the northern Israeli town of Metula on June 1. Earlier the IDF said three rockets were fired from Lebanon into northern Israel and were intercepted by Israeli air-defence systems; the attacks caused no casualties.
+
+---
+
+### 2026-06-01 22:14:30  #市場
+
+諾華製藥股價下跌3%，正邁向2025年11月以來表現最差的單日行情。
+
+---
+
+### 2026-06-01 22:14:13  #MKT News #NVS.N #Impact bearish
+
+Novartis (NVS.N) shares fell 3%, on track for their weakest performance since November 2025.
+
+---
+
+### 2026-06-01 22:14:06  #央行 #宏觀 #國際
+
+【俄財政官員告知普京，戰爭開支超出了承受能力】俄羅斯政府高層官員已告知俄羅斯總統普京，稱在烏克蘭的戰爭開支已超出俄羅斯的承受能力，這是自俄烏衝突開始以來莫斯科內部出現嚴重分歧的最明顯跡象。據熟悉相關情況的人士所述，俄羅斯財政部和央行的官員已向克里姆林宮提出警告，稱目前預計的國防支出水平可能會導致政府預算赤字急劇擴大，從而引發嚴重後果。這些官員近幾個月來對俄羅斯的經濟狀況和國家預算狀況愈發擔憂，他們已提議削減國防開支。然而，國防部一些高層官員以及部分克里姆林宮官員堅決要實現普京的戰爭目標，他們堅持要維持軍費開支。
+
+---
+
+### 2026-06-01 22:14:06  #MKT News
+
+【Russian finance officials tell Putin war spending exceeds capacity】Senior Russian officials have told President Putin that war spending in Ukraine has exceeded Russia’s capacity, people familiar with the matter said, the clearest sign yet of serious internal rifts in Moscow since the conflict began. Officials from the finance ministry and the central bank warned the Kremlin that currently projected defence spending could sharply widen the government budget deficit and trigger severe consequences. They have grown increasingly worried about the economy and public finances in recent months and have proposed cutting defence expenditures. The defence ministry’s senior officers and some Kremlin officials, however, insist on maintaining military spending to achieve Putin’s war objectives.
 
 ---
 
@@ -21388,131 +21670,5 @@ Financial Times reported Czech Prime Minister Andrej Babiš said the Czech Repub
 ### 2026-05-31 12:06:13  #國際
 
 以色列國防軍：以軍擴大在黎巴嫩南部的地面軍事行動。
-
----
-
-### 2026-05-31 12:02:43  #其他
-
-市場訊息：全球海事監管機構警示，影子船隊油輪存在環境風險。
-
----
-
-### 2026-05-31 12:00:20  #其他
-
-【我國兒童新藥連續五年增長 2025年批准138個 創歷史新高】國家藥監局今天（31日）釋出最新資料，2025年我國批准兒童用藥138個，創歷史新高。這也是我國兒童新藥審批數量連續第五年實現增長。近年來，隨著國家多項鼓勵政策加速落地，長期以來兒童用藥“品種少、規格缺、劑型不適宜”的困境正逐步破解，兒童用藥“劑量靠猜、用藥靠掰”的現象將加速成為歷史。近年來我國兒童用藥獲批數量逐年增長，2021年批准47個、2022年批准66個、2023年批准92個、2024年批准106個，2025年批准138個。最近五年，我國共批准兒童用藥449個。（央視新聞）
-
----
-
-### 2026-05-31 11:54:23  #國際
-
-【小泉避答中國代表日本何時道歉提問】中國人民解放軍專家學者代表團成員、國防大學沈志雄大校今天（5月31日）在第23屆香格里拉對話會向日本防衛大臣小泉進次郎提問時指出，“最近日本領導人在澳大利亞戰爭紀念館向二戰期間因日本軍國主義而犧牲的澳大利亞士兵表達了哀悼之意。然而，亞洲的受害國卻沒有從日本方面獲得同樣的道歉或悔意表達。因此，中方認為，真正的和解必須建立在正確反思歷史的基礎之上，並且應當平等對待所有受害國。所以我想請問，日本政府是否準備以同樣嚴肅、明確且毫不含糊的態度，回應中國、韓國以及東南亞受害國家對於第二次世界大戰歷史問題的關切，從而為建立互信和促進地區安全合作創造條件？”但在回答環節，小泉進次郎未做正面回應。（CCTV國際時訊）
-
----
-
-### 2026-05-31 11:53:49  #其他
-
-【山西前4個月非常規天然氣產量同比增長14% 】記者日前從山西省統計局獲悉，今年以來山西加大非常規天然氣增產增供力度，1至4月全省非常規天然氣總產量達66.5億立方米，同比增長14%，創歷史同期產量新高。（新華社）
-
----
-
-### 2026-05-31 11:53:04  #其他
-
-【國家資料局黨組書記、局長劉烈宏赴天津出席2026世界智慧產業博覽會並開展調研】5月28日，2026世界智慧產業博覽會在天津開幕。國家資料局黨組書記、局長劉烈宏出席開幕式並致辭。劉烈宏在致辭中圍繞資料賦能人工智慧創新發展分享三點體會。一是高質量資料集是先進製造業智慧化升級的基礎資源和創新引擎。要把真實產線、裝置執行和質量檢測等資料系統採集、治理和利用起來，更好支撐行業大模型和智慧體理解工業機理、適配工業場景、最佳化工業流程。要加大對行業高質量資料集的投入，推動模數共振，促進資料、模型、裝備、場景深度融合。二是高質量資料集是具身智慧“感知-決策-執行”的重要基礎。具身智慧在真實環境中的自主適應與任務執行能力，依託視覺、觸覺、音訊等高質量、多模態訓練資料，要以完善的資料工程驅動具身智慧的發展，深入開展系統性實踐。三是高質量資料集是AI for Science加速發展的關鍵支撐。科學研究對資料準確性、規範性、可信性要求更高，高質量資料集不僅是支撐科學領域模型訓練、規律發現和成果驗證的基礎底座，更是推動基礎研究走向產業應用、實現AI for Science真正落地的關鍵支撐。（國家資料局）
-
----
-
-### 2026-05-31 11:51:54  #MKT News
-
-The Israeli military said it had expanded operations against Hezbollah to areas north of the Litani River.
-
----
-
-### 2026-05-31 11:50:06  #公司
-
-【靈衢首批合作伙伴正式簽約】近日，在鯤鵬昇騰開發者大會2026期間舉辦的靈衢互聯夥伴研討會上，華為與深圳市楠菲微電子股份有限公司、牛芯半導體（深圳）股份有限公司、上海方宜萬強微電子有限公司、上海合見工業軟體股份有限公司等首批六家靈衢生態夥伴簽訂戰略合作協議，共同推進靈衢生態發展。（證券時報）
-
----
-
-### 2026-05-31 11:41:54  #公司
-
-【銀輪股份：為資料中心用大馬力發電機組配套大型冷卻模組已量產】銀輪股份5月31日在互動平臺表示，公司目前為資料中心用大馬力發電機組配套大型冷卻模組，該產品目前已處於量產狀態。公司2026年3月公告獲得國際客戶燃氣發電機尾氣排放處理系統專案定點，該專案預計於2026年4季度開始交付。
-
----
-
-### 2026-05-31 11:40:45  #其他
-
-【《求是》雜誌評論員：推動平臺經濟創新和健康發展】《求是》雜誌評論員文章指出，平臺企業是市場經營者，同時也具備一定的管理職能。平臺經濟生態好不好，關鍵在於平臺企業。廣大平臺企業要扛起主體責任，大力弘揚企業家精神，堅持平臺演算法向上向善，摒棄“流量至上”短視行為，努力與平臺內經營者、新就業形態勞動者、消費者等相關主體實現互利共贏，切實維護平臺良好生態。要講正氣、走正道，講信用信義、重社會責任，做到聚精會神辦企業、遵紀守法搞經營，在合法合規中提高企業競爭力，增強抵制不正當競爭行為的自覺性。要不斷拓展國際視野，敢於在國際大舞臺上打拼，帶動更多中國製造、中國服務走出國門，努力成為具有全球競爭力的世界一流企業。
-
----
-
-### 2026-05-31 11:35:10  #資料 #市場
-
-【5月份鋼鐵PMI為47.9%：淡季特徵有所顯現 鋼鐵行業執行放緩】從中物聯鋼鐵物流專業委員會調查、釋出的鋼鐵行業 PMI 來看，2026年5月份為47.9%，環比下降1.3個百分點，顯示鋼鐵行業執行有所放緩。分項指數顯示，進入5月份後，鋼鐵行業淡季特徵有所顯現，需求端有所趨緩，供給端穩定偏弱，產成品去庫速度有所放緩，原材料和鋼材價格繼續上升。預計6月份，鋼鐵行業仍存下行壓力，需求端呈現淡季執行格局，鋼廠生產收縮壓力加大，原材料價格增勢高位有所放緩，鋼材價格上漲動力也將有所減弱。（中物聯鋼鐵物流專業委員會）
-
----
-
-### 2026-05-31 11:34:10  #MKT News #Commodities #Industrial Metals #Market Regions #XAUUSD #Impact bullish #Copper #Impact bearish #Hang Seng Index
-
-【May China steel PMI 47.9% — seasonal weakness emerges, industry slows】China steel industry PMI fell to 47.9% in May 2026, down 1.3 percentage points MoM, signaling a slowdown. Subindices show May’s seasonal off‑season: demand softened, supply remained weak, finished‑goods destocking slowed, while raw‑material and steel prices continued to rise. The report expects continued downside pressure in June: demand to remain seasonally weak, mills to face greater production‑contraction pressure, raw‑material price growth at high levels to moderate, and steel price upside to weaken.
-
----
-
-### 2026-05-31 11:33:14  #MKT News #Economic Calendar #Important
-
-China | Steel Industry PMI (May) | actual 47.9 | previous 49.2
-
----
-
-### 2026-05-31 11:21:30  #其他
-
-【內蒙古包頭市投運氫能兩輪車】近日，我國自主研發的氫能兩輪車在內蒙古自治區包頭市面向公眾投入運營，首批在公共場景及便民領域將投放1000輛，初步搭建起固態儲氫技術在民用交通領域的重要應用場景。據介紹，此次投放的氫能兩輪車搭載自研稀土固態儲氫合金核心材料，單次加滿氫能可行駛100公里以上，可在零下30攝氏度環境下正常行駛，冬季實際續航里程保持在90%以上，解決北方高寒地區冬季續航里程衰減問題；此外，憑藉低壓固態儲氫技術，氫能兩輪車儲氫壓力低，並配備智慧化監控平臺，實時監測壓力、溫度等關鍵指標，安全效能穩定可靠；由於車輛行駛全程依靠氫能發電驅動，能量轉化過程無廢氣或汙染物排放，反應生成物僅為純水，實現全程零碳排放。（新華社）
-
----
-
-### 2026-05-31 11:21:03  #其他
-
-【京東釋出618酒類品牌成交排行榜，157個品牌翻倍】5月31日，“京東618開門紅4小時競速榜”公佈了“酒類品牌銷售榜”，相關累計成交金額排序依次為茅臺、五糧液、劍南春、汾酒、人頭馬、瀘州老窖、軒尼詩、習酒、郎酒、燕京啤酒；京東還透露，開門紅1小時，酒品類157個品牌成交額翻倍增長。
-
----
-
-### 2026-05-31 11:04:23  #國際
-
-市場訊息：伊朗週日清晨在伊朗水域擊落一架美國無人機。
-
----
-
-### 2026-05-31 11:00:26  #國際
-
-韓國外匯委員會：韓國將於7月6日啟動韓元全天候外匯交易。
-
----
-
-### 2026-05-31 10:58:55  #其他
-
-【世衛組織：及時醫治有助應對埃博拉疫情】世界衛生組織總幹事譚德塞30日表示，本輪埃博拉疫情由本迪布焦型埃博拉病毒引起，目前尚無獲批疫苗和特異性治療方法，但及時醫治並採取有效治療手段有助於應對疫情和治療感染者。譚德塞當天前往本輪疫情最嚴重的剛果（金）東部伊圖裡省。他在該省首府布尼亞舉行的記者會上表示，尚無獲批疫苗和特異性治療方法並不意味著沒有希望，在獲得及時和高質量的醫療照護後，患者仍可能康復，隔離、補水和止痛等應對和治療手段尤為關鍵。目前，伊圖裡省已有患者康復。（新華社）
-
----
-
-### 2026-05-31 10:54:08  #MKT News #Market Regions #Greater China
-
-【China expects both sides to implement leaders' consensus】May 30, Singapore — Meng Xiangqing, head of a PLA experts-and-scholars delegation to the 23rd Shangri‑La Dialogue, said Beijing expects China and the US to implement the leaders' consensus to build a "constructive strategic stability relationship." He said the consensus should guide future bilateral and military ties and that both sides should move toward each other to jointly safeguard regional and global peace and stability.
-
----
-
-### 2026-05-31 10:52:13  #國際
-
-【潛在同類最佳的CLDN18.2 ADC BL-M05D1在胰腺癌/胃癌/膽管癌中I期研究結果首次公佈】2026年5月30日，在芝加哥舉辦的 2026 年美國臨床腫瘤學會（ASCO）年會上，百利天恆自主研發、靶向CLDN18.2的抗體偶聯藥物（ADC）BL-M05D1治療CLDN18.2陽性區域性晚期或轉移性實體瘤的I期臨床研究（BL-M05D1-101）以壁報形式展出，該研究由北京大學腫瘤醫院沈琳教授牽頭，程思遠教授現場彙報；研究證實，BL-M05D1用於接受過至少二線治療的CLDN18.2陽性胃癌、胰腺癌、膽管癌等消化道腫瘤，療效優異且安全性可控，展現出潛在同類最佳（Best-in-Class）的產品潛力，並確定推薦 II 期劑量為4.0 mg/kg D1 Q3W，為後續研發築牢資料基礎。
-
----
-
-### 2026-05-31 10:44:13  #國際
-
-市場訊息：一艘韓國船舶已順利穿越紅海，目前返航途中。這是第六艘取道該航線運輸原油的船隻。
-
----
-
-### 2026-05-31 10:39:39  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump says Pentagon could intervene if US, Iran fail to reach deal】President Trump told Fox on May 30 the US and Iran are close to a 'very good deal' and he expects a 'better deal,' but said he would ask the Pentagon to intervene if no agreement is reached. He warned that if he does not get what he wants 'we will end it another way.' Trump said a signed accord would secure navigation through the Strait of Hormuz and prevent Iran from acquiring nuclear weapons, and added he is not rushing negotiations: 'If you rush you don't get a good deal.'
 
 ---
