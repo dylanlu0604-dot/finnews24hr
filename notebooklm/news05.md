@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 05:39:25_
-_本檔包含 3625 則快訊，約 707966 字_
+_更新時間：2026-06-08 06:06:11_
+_本檔包含 3607 則快訊，約 708514 字_
+
+---
+
+### 2026-06-02 08:10:13  #MKT News
+
+Australia's S&P/ASX 200 opened down 55.80 points, or 0.64%, at 8,673.60 points on Tuesday, June 2.
+
+---
+
+### 2026-06-02 08:09:57  #MKT News #Important #066570.KS #Impact bearish
+
+【Korean stocks plunge】South Korea's KOSPI fell 3% intraday after earlier rising more than 1.5%. LG Electronics dropped over 5% after earlier jumping as much as 11%.
+
+---
+
+### 2026-06-02 08:09:33  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌3.1%，報8518.93。
+
+---
+
+### 2026-06-02 08:09:16  #市場 #國際
+
+韓國綜合股價指數下跌2.1%，報 8600.74。
+
+---
+
+### 2026-06-02 08:09:01  #市場 #國際
+
+韓國首爾股市綜合股價指數（KOSPI）轉跌，回吐了早盤1.7%的漲幅。
+
+---
+
+### 2026-06-02 08:09:00  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #Nikkei 225
+
+South Korea's KOSPI slid as much as 2.00% intraday.
+
+---
+
+### 2026-06-02 08:08:57  #其他
+
+澳大利亞將最低工資上調4.75%。
+
+---
+
+### 2026-06-02 08:08:46  #國際
+
+基輔市長表示，一枚導彈襲擊後，基輔一棟24層住宅樓爆發火災。
+
+---
+
+### 2026-06-02 08:08:35  #國際
+
+【烏克蘭首都基輔市內再次傳出連續爆炸聲】記者獲悉，當地時間6月2日，烏克蘭首都基輔市內再次傳出連續的劇烈爆炸聲。基輔市長克利奇科通報，達爾尼茨基區、斯維亞託申區、舍甫琴科夫斯基區多處區域遭導彈殘骸墜落引燃火情，一座加油站與多處非住宅建築受損起火。目前現場救援、損失統計工作仍在開展，官方暫未通報人員傷亡。基輔市軍事管理局表示。波多利斯基區一棟高層建築倒塌，廢墟下有人被困。當天稍早時，基輔拉響防空警報，隨後傳出連續的劇烈爆炸聲，部分地區停電。
+
+---
+
+### 2026-06-02 08:08:35  #Trading Economics #Economy #Ireland #Manufacturing PMI #Importance 1
+
+Irish Factory Growth Strongest in Four Years — The AIB Ireland Manufacturing PMI rose to 55.9 in May 2026 from 54.9 in April, reaching its highest in four years. Output growth accelerated to its fastest pace in a year, while new orders increased at the quickest rate since April 2022, driven by improving domestic and export demand, with overseas sales posting their strongest growth since August 2021. Employment also expanded at the fastest pace in nearly four years as firms boosted capacity to meet growing workloads. Purchasing activity strengthened sharply, while manufacturers continued building inventories amid supply chain concerns linked to the Middle East conflict. Supplier delivery times also lengthened to the greatest extent since October 2022. Meanwhile, input cost inflation accelerated to its highest level since July 2022, leading firms to raise selling prices at the fastest pace since December 2022. Still, business confidence improved from April’s 25-month low, supported by stronger sales pipelines and investment plans.
 
 ---
 
@@ -21745,173 +21805,5 @@ WTI原油突破90美元/桶，日內漲3.02%。
 ### 2026-06-01 06:07:19  #公司
 
 【錨定結構性機會 基金經理“謀變”】近日，上海證券報聯合天天基金髮起6月基金經理調研，南方基金、前海開源基金、融通基金等多家公司的基金經理接受調研，分享最新觀點。調研結果顯示，面對震盪行情，基金經理主動謀篇佈局，A股仍是最受青睞的方向之一。調研結果顯示，A股與美股在基金經理6月看好的資產中排名並列第一。對A股投資持有較為樂觀態度的基金經理佔比超過四成，中性觀望的超過五成；對於美股，基金經理之間分歧較大，超過五成的態度較為樂觀，近三成觀望，但也有一成多較為謹慎。此外，基金經理對6月債券、港股、商品投資的樂觀程度相對較低。（上證報）
-
----
-
-### 2026-06-01 06:06:03  #市場
-
-標普500指數期貨、道指期貨亞市盤初微跌0.1%，納斯達克100指數期貨基本持平。
-
----
-
-### 2026-06-01 06:04:38  #MKT News
-
-CENC measured a magnitude 6.0 earthquake at 05:34 on June 1 offshore central Chile; focal depth 10 km.
-
----
-
-### 2026-06-01 06:04:12  #其他
-
-中國地震臺網正式測定：06月01日05時34分在智利中部沿岸遠海（南緯32.80度，西經71.90度）發生6.0級地震，震源深度10千米。
-
----
-
-### 2026-06-01 06:03:55  #市場
-
-布倫特原油日內漲2%，現報93.05美元/桶。
-
----
-
-### 2026-06-01 06:03:55  #市場 #焦點
-
-布倫特原油突破93美元/桶，日內漲2.12%。
-
----
-
-### 2026-06-01 06:03:41  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為99.3%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為99.3%，累計加息25個基點的機率為0.7%。美聯儲到7月維持利率不變的機率為94%，累計加息25個基點的機率5.9%。
-
----
-
-### 2026-06-01 06:03:36  #其他
-
-哥倫比亞左翼候選人塞佩達與右翼候選人德拉埃斯普列利亞將進入決勝輪對決。
-
----
-
-### 2026-06-01 06:03:20  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose 1.0% intraday to $91.14/bbl.
-
----
-
-### 2026-06-01 06:03:01  #市場
-
-WTI原油日內漲2%，現報89.13美元/桶。
-
----
-
-### 2026-06-01 06:01:47  #MKT News #WTI #Impact bullish
-
-WTI crude opened up $0.70 at $90.92/bbl on Monday.
-
----
-
-### 2026-06-01 06:01:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold opened down 0.35% on Monday and is trading at $4,521/oz.
-
----
-
-### 2026-06-01 06:01:11  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot silver slipped below $74/oz, down 2.08% intraday.
-
----
-
-### 2026-06-01 06:00:35  #市場 #焦點
-
-現貨白銀突破74美元/盎司，日內跌2.60%。
-
----
-
-### 2026-06-01 06:00:35  #市場
-
-現貨白銀日內跌2%，現報73.31美元/盎司。
-
----
-
-### 2026-06-01 06:00:33  #MKT News #Market Regions #Wall Street (US) #S&P500 #Nasdaq100 #Dow
-
-S&P 500, Nasdaq and Dow futures were little changed at Monday's open.
-
----
-
-### 2026-06-01 06:00:22  #市場
-
-紐約期銀日內跌3%，現報73.55美元/盎司。
-
----
-
-### 2026-06-01 06:00:18  #市場 #焦點
-
-WTI原油突破89美元/桶，日內漲1.88%。
-
----
-
-### 2026-06-01 06:00:10  #市場
-
-紐約期銀日內跌2%，現報74.00美元/盎司。
-
----
-
-### 2026-06-01 06:00:10  #市場 #焦點
-
-紐約期銀失守74美元/盎司，日內跌2.47%。
-
----
-
-### 2026-06-01 06:00:02  #市場
-
-WTI原油日內漲1%，現報88.83美元/桶。
-
----
-
-### 2026-06-01 06:00:01  #市場
-
-布倫特原油日內漲1%，現報92.52美元/桶。
-
----
-
-### 2026-06-01 05:55:26  #其他
-
-計票完成一半後，哥倫比亞左翼候選人塞佩達得票率為41.2%，以微弱差距位居第二。
-
----
-
-### 2026-06-01 05:55:24  #其他
-
-計票完成一半時，德拉埃斯普列利亞在哥倫比亞選舉中以44.2%的得票率領先，德拉埃斯普列利亞為右翼候選人。
-
----
-
-### 2026-06-01 05:54:17  #國際
-
-美國地質調查局：智利瓦爾帕萊索西北36公里處發生6級地震。
-
----
-
-### 2026-06-01 05:45:25  #其他
-
-統計完五分之一的選票後，哥倫比亞左翼候選人伊萬·塞佩達得票率為42.1%，以微弱差距位居第二。
-
----
-
-### 2026-06-01 05:45:20  #其他
-
-計票完成五分之一，右翼黨外候選人德拉·埃斯普列拉以43.6%的得票率領先哥倫比亞總統選舉。
-
----
-
-### 2026-06-01 05:43:30  #MKT News
-
-DRC government reports confirmed Ebola cases at 282.
-
----
-
-### 2026-06-01 05:39:40  #其他
-
-智利聖地亞哥有震感。
 
 ---

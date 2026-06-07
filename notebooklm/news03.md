@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 05:39:25_
-_本檔包含 3981 則快訊，約 707844 字_
+_更新時間：2026-06-08 06:06:11_
+_本檔包含 3975 則快訊，約 708504 字_
+
+---
+
+### 2026-06-04 11:31:43  #MKT News #Important #Commodities #Precious Metals #Industrial Metals
+
+At the morning session close, China's most-active futures contracts were mostly lower: palladium and lithium carbonate fell over 3%, bottle-grade PET chips nearly 3%; Shanghai nickel, stainless steel, alumina, 20# rubber, PVC and BR rubber dropped more than 2%. On the upside, coking coal rose over 4%, coke gained more than 2%, and rapeseed oil and logs were up over 1%.
+
+---
+
+### 2026-06-04 11:31:43  #MKT News
+
+【China bond futures morning close】2-year bond futures (TS) most-active contract unchanged at the morning close; 5-year (TF) +0.01%; 10-year (T) +0.03%; 30-year (TL) +0.13%.
+
+---
+
+### 2026-06-04 11:31:19  #其他
+
+【民政部等三部門啟動第二屆全國民政行業職業技能大賽】民政部、人力資源社會保障部、全國總工會今天印發通知，正式啟動第二屆全國民政行業職業技能大賽。大賽為一類職業技能競賽，每兩年舉辦一次，今年設定養老護理員、孤殘兒童護理員、殯儀服務員、遺體防腐整容師四個競賽專案，均為單人賽項。（央視新聞）
+
+---
+
+### 2026-06-04 11:30:59  #市場 #焦點 #A股
+
+【午評：科創50指數低開高走漲0.72%，晶片產業鏈概念股維持強勢】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.43%，深證成指跌0.46%，創業板指跌1.1%，北證50跌1.74%，科創50指數漲0.72%。全市場成交額17391億元，較上日縮量1609億元，全市場超4200只個股下跌。板塊題材上，電子化學品、中船系、煤炭開採加工、超級電容、光刻機、儲存晶片板塊漲幅居前；油氣開採及服務、工業金屬、ERP概念、軟體開發、雲辦公板塊跌幅居前。盤面上，煤炭開採加工板塊低開高走，安泰集團、平煤股份、大有能源漲停，鄭州煤電、淮北礦業、陝西黑貓漲幅居前。光刻機板塊震盪上揚，中船特氣、旭光電子漲停，珂瑪科技、華特氣體、新萊應材漲幅居前。儲存晶片板塊亦表現強勢，滬矽產業盤中漲超15%，太極實業、大為股份等股漲停，佰維儲存、江波龍、德明利紛紛走高。油氣開採及服務早盤低開低走，通源石油、科力股份領跌板塊，潛能恆信、貝肯能源、中曼石油紛紛下挫。工業金屬板塊表現疲軟，中國鋁業、天山鋁業、鋅業股份跌幅居前，雲鋁股份、焦作萬方、雲南銅業跟跌。
+
+---
+
+### 2026-06-04 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲0.08%， 滬深300指數期貨連續跌0.44%， 中證500指數期貨連續漲0.09%， 上證50指數期貨連續跌0.63%。
+
+---
+
+### 2026-06-04 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約漲0.13%， 10年期主力合約漲0.03%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。
+
+---
+
+### 2026-06-04 11:30:02  #市場
+
+【商品期貨早盤收盤】焦煤連續漲4.70%，膠合板連續跌4.38%，鈀連續跌3.54%，碳酸鋰連續跌3.17%，瓶片連續跌2.78%。
+
+---
+
+### 2026-06-04 11:29:46  #MKT News #Commodities #Energy #TSM.N #Impact mixed
+
+TSMC (TSM.N) CEO said the company currently consumes about 10% of Taiwan's electricity; that share may rise, and TSMC will continue to improve energy efficiency and reduce carbon emissions.
+
+---
+
+### 2026-06-04 11:29:36  #Trading Economics #Markets #Brazil #Currency #Importance 0
+
+Real Weakens as Trade and Geopolitical Risks Mount — The Brazilian real weakened to 5.06 per USD in early June as proposed US tariffs on Brazilian products and uncertainty surrounding US-Iran negotiations weighed on investor sentiment. US authorities said the proposed measures stem from findings that Brazil and other countries have not taken sufficient steps to prevent imports of goods produced with forced labor. The prospect of higher trade barriers increased caution toward Brazilian assets. Meanwhile, rising tensions in the Middle East supported oil prices and fueled broader risk aversion. Hostilities intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. The combination of geopolitical uncertainty and trade concerns boosted demand for the US dollar, pressuring emerging-market currencies, including the real.
 
 ---
 
@@ -23882,95 +23936,5 @@ Hong Kong storage-related stocks rallied: Montage Technology (06809.HK) up more 
 ### 2026-06-03 09:51:57  #國際
 
 【匈牙利總理：準備好與澤連斯基會談】正在德國訪問的匈牙利總理毛焦爾·彼得2日說，匈烏兩國關於烏克蘭境內匈牙利少數族裔權利的技術性談判正取得積極進展，他準備下周初與烏克蘭總統澤連斯基舉行會談。 毛焦爾當天在柏林與德國總理默茨共同出席記者會。默茨在記者會上呼籲雙方加強合作以提升防務能力和歐洲的競爭力，同時敦促匈牙利新政府支援正式開啟烏克蘭加入歐盟的談判。 匈牙利前總理歐爾班不支援烏克蘭加入歐盟。在歐爾班4月選舉失利後，澤連斯基5月致信歐盟領導人時表示，現在各方有機會在烏克蘭入盟談判上取得實質性進展。（新華社）
-
----
-
-### 2026-06-03 09:51:50  #MKT News
-
-Philippine stock index rose more than 1%.
-
----
-
-### 2026-06-03 09:51:46  #Trading Economics #Economy #China #Services PMI #Importance 2
-
-China Services Activity Hits 3-Month High — The RatingDog China General Services PMI increased to 54.4 in May 2026 from 52.6 in April, surpassing market forecasts of 52.3. It marked the strongest growth in the services sector since February, as new orders rose at the fastest pace in three months, while export orders increased following slight declines in the previous two months.
-
----
-
-### 2026-06-03 09:51:34  #MKT News #USDJPY #Impact bearish
-
-Japanese 5-year government bond yield rose 4.0 bps to 1.895%.
-
----
-
-### 2026-06-03 09:51:11  #市場 #國際
-
-菲律賓股市指數上漲1.1%，至5977.89點。
-
----
-
-### 2026-06-03 09:50:58  #市場 #國際
-
-日本5年期國債收益率上漲4個基點，至1.895%。
-
----
-
-### 2026-06-03 09:50:52  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan's 2-year bond yield rose 3 bps to 1.405%.
-
----
-
-### 2026-06-03 09:50:35  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #Copper
-
-ChiNext rose as much as 2% intraday; optical-fiber, co‑packaged optics (CPO) and copper‑cable/high‑speed‑connectivity names led gains.
-
----
-
-### 2026-06-03 09:50:24  #市場
-
-【超硬材料概念延續強勢 楚江新材、國機精工雙雙漲停】超硬材料概念延續強勢，楚江新材、國機精工漲停，惠豐鑽石漲超15%，力量鑽石、四方達、博雲新材、恆盛能源跟漲。
-
----
-
-### 2026-06-03 09:50:19  #MKT News #Star Stocks #Tencent #Market Regions #Greater China
-
-【Retail cash yield snapshot】Tencent Licaitong (current + 7-day) 7-day annualized yield: 0.7700%–1.1880%. WeChat Wallet Lingqian Tong 7-day annualized yield: 1.0020%–1.0400%. Alipay Yu'e Bao 7-day annualized yield: 1.0000%–1.0850%.
-
----
-
-### 2026-06-03 09:50:10  #市場
-
-【稀土永磁概念表現活躍 中鋼天源漲停】稀土永磁概念表現活躍，中鋼天源漲停，中國稀土、北方稀土、九菱科技、中稀有色、金力永磁跟漲。
-
----
-
-### 2026-06-03 09:49:53  #市場 #焦點
-
-創業板指漲2.00%，現報4137.050點；上證指數漲0.22%，現報4084.119點；深證成指漲1.38%，現報15806.704點。
-
----
-
-### 2026-06-03 09:49:00  #國際
-
-受颱風“薔薇”影響，鈴木汽車週三上午將暫停其在日本的所有五家工廠的生產工作。
-
----
-
-### 2026-06-03 09:47:49  #國際
-
-【韓國舉行第九屆地方選舉】韓國第九屆地方選舉和國會議員補選3日舉行，選民將投票選出全國道、市、郡、區等各級政府負責人，以及教育監和地方議員等。同時將補選14名國會議員。本屆選舉投票時間為當地時間6時至18時。韓國中央選舉管理委員會初步統計顯示，全國共有約4465萬選民可參與此次投票。選舉結果預計於4日凌晨揭曉。“事前投票”已於5月29日至30日進行。據韓國中央選舉管理委員會統計，本屆選舉事前投票率為23.51%，創下歷屆地方選舉新高。（新華社）
-
----
-
-### 2026-06-03 09:47:48  #Trading Economics #Economy #China #Composite PMI #Importance 1
-
-China RatingDog Composite PMI Rises to 3-Month High — The RatingDog China General Composite PMI rose to 54.0 in May 2026 from 53.1 in the previous moth, pointing to the highest reading since February.
-
----
-
-### 2026-06-03 09:47:08  #公司
-
-【博泰車聯擬收購光電晶片企業控股權】據博泰車聯訊息，6月2日，博泰車聯公告披露本公司與平安資本有限責任公司或其管理的基金，就擬收購一家專業從事高效能通訊晶片研發的積體電路設計企業之控股權及控制權，已於同日簽署股份收購意向備忘錄。目標公司為一間於中國註冊成立的股份有限公司，為一家專業從事高效能通訊晶片開發之積體電路設計企業，採用Fabless經營模式，主要從事高速光電晶片、高效能模擬晶片等及模組之研發、設計及銷售。
 
 ---

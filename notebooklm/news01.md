@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 05:39:25_
-_本檔包含 3877 則快訊，約 708522 字_
+_更新時間：2026-06-08 06:06:11_
+_本檔包含 3906 則快訊，約 709199 字_
+
+---
+
+### 2026-06-08 06:03:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell $20 intraday to a low of $4,311/oz.
+
+---
+
+### 2026-06-08 06:02:36  #市場 #焦點
+
+紐約期金失守4340美元/盎司，日內跌0.59%。
+
+---
+
+### 2026-06-08 06:02:16  #市場
+
+標普500股指期貨早盤下跌約0.6%；納斯達克100股指期貨下跌約0.7%。
+
+---
+
+### 2026-06-08 06:01:42  #市場 #焦點
+
+布倫特原油突破96美元/桶，日內漲3.15%。
+
+---
+
+### 2026-06-08 06:01:40  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Spot gold and silver opened flat on Monday.
+
+---
+
+### 2026-06-08 06:01:30  #市場
+
+鈀金期貨日內跌1%，現報1240.14美元/盎司。
+
+---
+
+### 2026-06-08 06:01:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude oil rose 2.8% at the open Monday after Iran carried out a "warning" strike on Israel over the weekend.
+
+---
+
+### 2026-06-08 06:01:14  #其他
+
+益普索出口民調：秘魯總統選舉出口民調顯示桑切斯以49.3%的得票率位居第二。
+
+---
+
+### 2026-06-08 06:01:13  #市場 #焦點
+
+布倫特原油日內漲3%，現報95.96美元/桶。
+
+---
+
+### 2026-06-08 06:01:00  #市場
+
+標普500指數期貨下跌0.4%。
+
+---
+
+### 2026-06-08 06:00:48  #其他
+
+益普索出口民調顯示：秘魯總統選舉出口民調結果顯示藤森得票率為50.7%，處於領先。
+
+---
+
+### 2026-06-08 06:00:39  #市場 #焦點
+
+現貨黃金突破4330美元/盎司，日內漲0.08%。
+
+---
+
+### 2026-06-08 06:00:37  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500
+
+US equity index futures opened lower on Monday; Nasdaq futures fell 0.6%, S&P 500 futures fell 0.4%.
+
+---
+
+### 2026-06-08 06:00:15  #市場 #焦點
+
+WTI原油失守92美元/桶，日內漲2.69%。
+
+---
+
+### 2026-06-08 06:00:06  #市場
+
+WTI原油日內漲3%，現報93.28美元/桶。
+
+---
+
+### 2026-06-08 06:00:06  #市場
+
+WTI原油日內漲2%，現報93.14美元/桶。
+
+---
+
+### 2026-06-08 06:00:04  #市場 #焦點
+
+紐約期金突破4360美元/盎司，日內跌0.08%。
+
+---
+
+### 2026-06-08 06:00:02  #市場
+
+紐約期銀日內跌2%，現報67.68美元/盎司。
+
+---
+
+### 2026-06-08 06:00:01  #市場
+
+布倫特原油日內漲2%，現報95.79美元/桶。
+
+---
+
+### 2026-06-08 05:59:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli broadcaster i24 cites Iranian state television reporting that Iran says it has launched attack drones toward Israel; if launched the drones could reach Israeli territory within hours.
+
+---
+
+### 2026-06-08 05:58:11  #其他
+
+中央氣象臺6月8日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-06-08 05:56:57  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【After Iran fires at Israel, IDF says it will strike HEZBOLLAH hard in Lebanon】Late on the 7th the IDF said Iran fired missiles at Israel in what it called "a serious mistake" and that it will continue operations across Lebanon while intensifying strikes on HEZBOLLAH. The IDF said it will not allow Iran to create a new balance of forces, is prepared for further missile attacks and ready to retaliate. IDF Chief of Staff Zamir is assessing the situation and is expected to approve the next operational plan.
+
+---
+
+### 2026-06-08 05:56:36  #國際
+
+【伊朗打以色列後 以軍稱將猛打黎巴嫩真主黨】以色列國防軍發言人埃菲·德弗林7日深夜說，伊朗當晚向以色列發射導彈是“一個嚴重錯誤”，以軍將繼續在黎巴嫩展開行動，並加大對黎真主黨的打擊力度。（新華社）
+
+---
+
+### 2026-06-08 05:54:08  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為97%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為97%，累計降息25個基點的機率為3%。美聯儲到7月維持利率不變的機率為81.9%，累計加息25個基點的機率15.5%，累計降息25個基點的機率為2.5%。
+
+---
+
+### 2026-06-08 05:53:46  #公司
+
+【慕尼黑機場因塔臺煙霧警報臨時關閉 現已恢復運營】德新社7日援引德國慕尼黑機場公司發言人訊息報道，慕尼黑機場當晚因塔臺出現疑似火情短暫停運，已於當地時間22時30分恢復運營。此前，慕尼黑機場宣佈暫時停止運營。“機場塔臺因聞到煙霧氣味，於20時33分疏散，”機場官網釋出宣告稱，“德國空中交通管制部門已暫停所有航班運營，直至另行通知。”大約兩小時後，部分航班恢復起飛。機場發言人表示，尚不清楚多少航班受到影響。據德新社報道，德消防部門正在評估此次事件，目前無法提供更多資訊。（新華社）
+
+---
+
+### 2026-06-08 05:53:27  #其他
+
+馬斯克：並非好想法不重要，只是相較於落地執行，想法被高估了。登月這個構想很簡單，但真正實現登月卻很難。
+
+---
+
+### 2026-06-08 05:52:11  #國際
+
+一名巴基斯坦訊息人士表示，巴方正加緊開展外交溝通，以維持中東地區停火狀態、避免局勢進一步升級。
+
+---
+
+### 2026-06-08 05:50:40  #其他
+
+英國外交大臣庫珀表示：談判必須繼續推進，以達成持久解決方案，實現和平與穩定，並全面恢復全球貿易。
+
+---
+
+### 2026-06-08 05:50:33  #公司 #國際
+
+【伊朗再襲以色列後美以領導人通話】以色列公共廣播公司今天（6月8日）報道稱，以色列總理內塔尼亞胡與美國總統特朗普結束通話後，正在與以色列安全官員進行緊急磋商。（ CCTV國際時訊）
+
+---
+
+### 2026-06-08 05:50:05  #國際
+
+烏克蘭總統澤連斯基：俄羅斯富商阿布羅莫維奇已抵達基輔，並提出願提供幫助。
+
+---
+
+### 2026-06-08 05:49:56  #國際
+
+烏克蘭總統澤連斯基在與歐盟三巨頭會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。
+
+---
+
+### 2026-06-08 05:49:46  #國際
+
+烏克蘭總統澤連斯基：我們的遠端打擊已取得成效，但防禦彈道導彈威脅“至關重要”。
+
+---
+
+### 2026-06-08 05:49:33  #國際
+
+英國外交大臣庫珀：伊朗與以色列必須保持克制，立即緩和局勢。
+
+---
+
+### 2026-06-08 05:49:29  #國際
+
+英國外交大臣庫珀：伊朗與以色列重啟衝突不符合任何一方的利益。
+
+---
+
+### 2026-06-08 05:49:23  #MKT News
+
+UK foreign secretary said Iran and Israel must immediately show restraint and de-escalate tensions.
+
+---
+
+### 2026-06-08 05:48:27  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+UK foreign secretary says renewed conflict between Iran and Israel would benefit no one.
+
+---
+
+### 2026-06-08 05:47:19  #MKT News
+
+Al Arabiya reports Netanyahu and Trump held a 20-minute phone call.
+
+---
+
+### 2026-06-08 05:45:20  #MKT News
+
+Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is "extremely important".
+
+---
+
+### 2026-06-08 05:40:43  #MKT News #Market Regions #Europe & UK
+
+Ukraine's president Zelenskiy said Europe's position and voice in negotiations have always been treated as priorities.
+
+---
+
+### 2026-06-08 05:40:20  #國際
+
+烏克蘭總統澤連斯基在與歐盟E3會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。
+
+---
+
+### 2026-06-08 05:39:58  #其他 #焦點
+
+蘋果2026全球開發者大會正式開幕，本次大會重點對Siri人工智慧進行重大革新，並推出多項軟體升級。
 
 ---
 
@@ -398,6 +644,12 @@ Iran's foreign ministry said its foreign minister spoke by phone with the foreig
 ### 2026-06-08 04:29:45  #國際
 
 【約旦拉響防空警報】當地時間7日晚，約旦拉響防空警報。約旦方面提醒民眾注意安全，並提醒民眾遵守安全指示。當晚早些時候，以色列國防軍稱，監測到伊朗向以色列發射導彈。以色列北部多地拉響防空警報。（央視新聞）
+
+---
+
+### 2026-06-08 04:29:36  #國際
+
+美國眾議院籌款委員會在6月9日聽證會召開前，公佈七份加密貨幣稅收法案草案。
 
 ---
 
@@ -23350,83 +23602,5 @@ Austria Wholesale Prices Post Strongest Rise Since 2023 — Wholesale prices in 
 ### 2026-06-05 15:12:41  #Trading Economics #Markets #Commodity #Importance 1
 
 TTF Prices Head for Sharp Weekly Gain — European natural gas futures rose above €49 per megawatt hour and were on track for a weekly gain of nearly 7%, amid a stalemate in US–Iran talks. There has been little sign of progress in negotiations, while a renewed flare-up in fighting has heightened uncertainty. The rejection of a US-brokered ceasefire proposal by Iran-backed Hezbollah has further complicated efforts to de-escalate regional tensions. As a deal remains elusive, markets are increasingly worried that disruptions to energy shipments from the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter.
-
----
-
-### 2026-06-05 15:12:40  #國際
-
-【知情人士：以伊戰爭期間以色列秘密駐軍亞塞拜然，搭建前沿對伊作戰據點】四名知情人士透露，在以色列與伊朗交戰期間，以色列向亞塞拜然秘密部署精銳作戰與情報部隊，以此作為遍佈中東多地隱秘據點網路的一環，依託該網路開展針對伊朗的各類軍事行動。兩名訊息源稱，以軍駐紮在亞塞拜然南部多處點位，緊鄰伊朗北部國境，最近處距離伊朗城市大不里士僅約96公里，而大不里士正是以色列在戰爭中空襲過的目標城市。另外兩名知情人士表示，以色列還向上述區域派駐特種突擊部隊，執行情報蒐集與無人機作戰任務；藉由亞塞拜然前沿陣地，以色列在戰時得以近距離窺探伊朗北部全境軍情。據悉，以色列在亞塞拜然的秘密駐軍，是以方在中東多國佈設的多處軍事支點之一。亞塞拜然駐美國大使館宣告稱：“我方堅決駁斥有關亞塞拜然領土被用作針對第三國軍事行動據點的不實傳言。”
-
----
-
-### 2026-06-05 15:12:36  #市場
-
-【中控技術收盤價創歷史新高】6月5日，中控技術(688777)收盤上漲13.1%，收盤價報100元/股，創歷史新高（前復權）。
-
----
-
-### 2026-06-05 15:11:54  #其他 #焦點 #國際
-
-【聞泰科技起訴安世荷蘭】6月5日，據安世中國訊息，安世聞泰科技針對安世荷蘭的不當干預，正式在中國啟動法律程式，案件已被司法機關受理。據安世中國介紹，聞泰科技已向廣東省東莞市中級人民法院起訴安世荷蘭，法院已立案。
-
----
-
-### 2026-06-05 15:09:46  #市場 #焦點 #A股
-
-富時中國A50指數期貨走低，跌超2%。
-
----
-
-### 2026-06-05 15:09:39  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #DXY #Impact bullish
-
-FTSE China A50 index futures fell more than 2%.
-
----
-
-### 2026-06-05 15:09:37  #市場 #央行 #國際
-
-印度央行行長馬爾霍特拉：外匯儲備項下黃金持有量小幅增加。
-
----
-
-### 2026-06-05 15:09:29  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Reserve Bank of India governor says gold holdings in FX reserves have edged up slightly.
-
----
-
-### 2026-06-05 15:09:04  #國際
-
-市場訊息：以色列在兩伊戰爭期間向亞塞拜然派兵。
-
----
-
-### 2026-06-05 15:08:26  #MKT News
-
-Reserve Bank of India governor said the central bank will take all necessary measures to ensure smooth funding flows and maintain orderly movement of the Indian rupee.
-
----
-
-### 2026-06-05 15:07:57  #公司
-
-【華創證券：維持洋河股份“強推”評級，目標價53元】華創證券研報指出，洋河股份營銷變革落地，夯基再次啟航。經營逐步理順，關注第七代海之藍推廣成效。公司報表包袱已卸下，當前動銷開瓶>渠道出庫>酒企回款，庫存有效降低，價盤穩健，實際經營表現已有改善，下半年報表有望在低基數+海之藍髮力下逐步轉正。今年公司處在調整落地及產品推廣期，預計27 年成效兌現更明顯，考慮公司全國化的品牌勢能和渠道基礎仍在，業績調整期可給予一定估值容忍度，給予27年25xpe，調整目標價為53元，維持“強推”評級。
-
----
-
-### 2026-06-05 15:07:49  #市場
-
-上海航運交易所資料顯示，截至6月5日，上海出口集裝箱運價指數（綜合指數）報2726.48點，與上期相比上漲154.75點。中國出口集裝箱運價綜合指數報1411.6點，與上期相比漲3.3%。
-
----
-
-### 2026-06-05 15:07:38  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-【Institutions' forecasts for US May average hourly earnings】Institutions project US May average hourly earnings YoY at 3.3–3.5% (April 3.6%), with a central tendency around 3.4% (Reuters survey 3.4%). Month-on-month forecasts cluster at +0.3% (April +0.2%; Reuters +0.3%), with some estimates at +0.2% and a few outliers at +0.4%.
-
----
-
-### 2026-06-05 15:07:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【US-Iran conflict hits Turkey; May inflation accelerates for second month】Turkey's annual inflation accelerated to 32.6% in May from 32.4% in April, official data on Friday showed; the median forecast of 17 economists was 32.5%. The increase marks a second consecutive month of acceleration as a global energy shock from US and Israeli actions against Iran continues to feed domestic prices. Rising energy import costs are reversing Turkey's disinflation trend—Turkey is a major oil and gas importer—and policymakers say they have struggled to respond. Turkish central bank governor Fatih Karahan said the bank is monitoring second-round effects and that the inflation outlook depends on the duration of the conflict.
 
 ---

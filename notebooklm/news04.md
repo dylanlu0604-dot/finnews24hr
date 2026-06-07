@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 05:39:25_
-_本檔包含 3834 則快訊，約 708393 字_
+_更新時間：2026-06-08 06:06:11_
+_本檔包含 3839 則快訊，約 708504 字_
+
+---
+
+### 2026-06-03 09:51:50  #MKT News
+
+Philippine stock index rose more than 1%.
+
+---
+
+### 2026-06-03 09:51:46  #Trading Economics #Economy #China #Services PMI #Importance 2
+
+China Services Activity Hits 3-Month High — The RatingDog China General Services PMI increased to 54.4 in May 2026 from 52.6 in April, surpassing market forecasts of 52.3. It marked the strongest growth in the services sector since February, as new orders rose at the fastest pace in three months, while export orders increased following slight declines in the previous two months.
+
+---
+
+### 2026-06-03 09:51:34  #MKT News #USDJPY #Impact bearish
+
+Japanese 5-year government bond yield rose 4.0 bps to 1.895%.
+
+---
+
+### 2026-06-03 09:51:11  #市場 #國際
+
+菲律賓股市指數上漲1.1%，至5977.89點。
+
+---
+
+### 2026-06-03 09:50:58  #市場 #國際
+
+日本5年期國債收益率上漲4個基點，至1.895%。
+
+---
+
+### 2026-06-03 09:50:52  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's 2-year bond yield rose 3 bps to 1.405%.
+
+---
+
+### 2026-06-03 09:50:35  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #Copper
+
+ChiNext rose as much as 2% intraday; optical-fiber, co‑packaged optics (CPO) and copper‑cable/high‑speed‑connectivity names led gains.
+
+---
+
+### 2026-06-03 09:50:24  #市場
+
+【超硬材料概念延續強勢 楚江新材、國機精工雙雙漲停】超硬材料概念延續強勢，楚江新材、國機精工漲停，惠豐鑽石漲超15%，力量鑽石、四方達、博雲新材、恆盛能源跟漲。
+
+---
+
+### 2026-06-03 09:50:19  #MKT News #Star Stocks #Tencent #Market Regions #Greater China
+
+【Retail cash yield snapshot】Tencent Licaitong (current + 7-day) 7-day annualized yield: 0.7700%–1.1880%. WeChat Wallet Lingqian Tong 7-day annualized yield: 1.0020%–1.0400%. Alipay Yu'e Bao 7-day annualized yield: 1.0000%–1.0850%.
+
+---
+
+### 2026-06-03 09:50:10  #市場
+
+【稀土永磁概念表現活躍 中鋼天源漲停】稀土永磁概念表現活躍，中鋼天源漲停，中國稀土、北方稀土、九菱科技、中稀有色、金力永磁跟漲。
+
+---
+
+### 2026-06-03 09:49:53  #市場 #焦點
+
+創業板指漲2.00%，現報4137.050點；上證指數漲0.22%，現報4084.119點；深證成指漲1.38%，現報15806.704點。
+
+---
+
+### 2026-06-03 09:49:00  #國際
+
+受颱風“薔薇”影響，鈴木汽車週三上午將暫停其在日本的所有五家工廠的生產工作。
+
+---
+
+### 2026-06-03 09:47:49  #國際
+
+【韓國舉行第九屆地方選舉】韓國第九屆地方選舉和國會議員補選3日舉行，選民將投票選出全國道、市、郡、區等各級政府負責人，以及教育監和地方議員等。同時將補選14名國會議員。本屆選舉投票時間為當地時間6時至18時。韓國中央選舉管理委員會初步統計顯示，全國共有約4465萬選民可參與此次投票。選舉結果預計於4日凌晨揭曉。“事前投票”已於5月29日至30日進行。據韓國中央選舉管理委員會統計，本屆選舉事前投票率為23.51%，創下歷屆地方選舉新高。（新華社）
+
+---
+
+### 2026-06-03 09:47:48  #Trading Economics #Economy #China #Composite PMI #Importance 1
+
+China RatingDog Composite PMI Rises to 3-Month High — The RatingDog China General Composite PMI rose to 54.0 in May 2026 from 53.1 in the previous moth, pointing to the highest reading since February.
+
+---
+
+### 2026-06-03 09:47:08  #公司
+
+【博泰車聯擬收購光電晶片企業控股權】據博泰車聯訊息，6月2日，博泰車聯公告披露本公司與平安資本有限責任公司或其管理的基金，就擬收購一家專業從事高效能通訊晶片研發的積體電路設計企業之控股權及控制權，已於同日簽署股份收購意向備忘錄。目標公司為一間於中國註冊成立的股份有限公司，為一家專業從事高效能通訊晶片開發之積體電路設計企業，採用Fabless經營模式，主要從事高速光電晶片、高效能模擬晶片等及模組之研發、設計及銷售。
 
 ---
 
@@ -23044,65 +23134,5 @@ Kyiv mayor said preliminary reports show two people were injured in an attack in
 ### 2026-06-02 08:11:02  #MKT News #Market Themes #Chip Wars #ARM.O #Impact bullish #9984.T
 
 SoftBank Group shares rose 4.6% after Arm (ARM.O) surged in overnight trading.
-
----
-
-### 2026-06-02 08:10:13  #MKT News
-
-Australia's S&P/ASX 200 opened down 55.80 points, or 0.64%, at 8,673.60 points on Tuesday, June 2.
-
----
-
-### 2026-06-02 08:09:57  #MKT News #Important #066570.KS #Impact bearish
-
-【Korean stocks plunge】South Korea's KOSPI fell 3% intraday after earlier rising more than 1.5%. LG Electronics dropped over 5% after earlier jumping as much as 11%.
-
----
-
-### 2026-06-02 08:09:33  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌3.1%，報8518.93。
-
----
-
-### 2026-06-02 08:09:16  #市場 #國際
-
-韓國綜合股價指數下跌2.1%，報 8600.74。
-
----
-
-### 2026-06-02 08:09:01  #市場 #國際
-
-韓國首爾股市綜合股價指數（KOSPI）轉跌，回吐了早盤1.7%的漲幅。
-
----
-
-### 2026-06-02 08:09:00  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #Nikkei 225
-
-South Korea's KOSPI slid as much as 2.00% intraday.
-
----
-
-### 2026-06-02 08:08:57  #其他
-
-澳大利亞將最低工資上調4.75%。
-
----
-
-### 2026-06-02 08:08:46  #國際
-
-基輔市長表示，一枚導彈襲擊後，基輔一棟24層住宅樓爆發火災。
-
----
-
-### 2026-06-02 08:08:35  #國際
-
-【烏克蘭首都基輔市內再次傳出連續爆炸聲】記者獲悉，當地時間6月2日，烏克蘭首都基輔市內再次傳出連續的劇烈爆炸聲。基輔市長克利奇科通報，達爾尼茨基區、斯維亞託申區、舍甫琴科夫斯基區多處區域遭導彈殘骸墜落引燃火情，一座加油站與多處非住宅建築受損起火。目前現場救援、損失統計工作仍在開展，官方暫未通報人員傷亡。基輔市軍事管理局表示。波多利斯基區一棟高層建築倒塌，廢墟下有人被困。當天稍早時，基輔拉響防空警報，隨後傳出連續的劇烈爆炸聲，部分地區停電。
-
----
-
-### 2026-06-02 08:08:35  #Trading Economics #Economy #Ireland #Manufacturing PMI #Importance 1
-
-Irish Factory Growth Strongest in Four Years — The AIB Ireland Manufacturing PMI rose to 55.9 in May 2026 from 54.9 in April, reaching its highest in four years. Output growth accelerated to its fastest pace in a year, while new orders increased at the quickest rate since April 2022, driven by improving domestic and export demand, with overseas sales posting their strongest growth since August 2021. Employment also expanded at the fastest pace in nearly four years as firms boosted capacity to meet growing workloads. Purchasing activity strengthened sharply, while manufacturers continued building inventories amid supply chain concerns linked to the Middle East conflict. Supplier delivery times also lengthened to the greatest extent since October 2022. Meanwhile, input cost inflation accelerated to its highest level since July 2022, leading firms to raise selling prices at the fastest pace since December 2022. Still, business confidence improved from April’s 25-month low, supported by stronger sales pipelines and investment plans.
 
 ---

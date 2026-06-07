@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 05:39:25_
-_本檔包含 3806 則快訊，約 708195 字_
+_更新時間：2026-06-08 06:06:11_
+_本檔包含 3810 則快訊，約 707988 字_
+
+---
+
+### 2026-06-05 15:12:40  #國際
+
+【知情人士：以伊戰爭期間以色列秘密駐軍亞塞拜然，搭建前沿對伊作戰據點】四名知情人士透露，在以色列與伊朗交戰期間，以色列向亞塞拜然秘密部署精銳作戰與情報部隊，以此作為遍佈中東多地隱秘據點網路的一環，依託該網路開展針對伊朗的各類軍事行動。兩名訊息源稱，以軍駐紮在亞塞拜然南部多處點位，緊鄰伊朗北部國境，最近處距離伊朗城市大不里士僅約96公里，而大不里士正是以色列在戰爭中空襲過的目標城市。另外兩名知情人士表示，以色列還向上述區域派駐特種突擊部隊，執行情報蒐集與無人機作戰任務；藉由亞塞拜然前沿陣地，以色列在戰時得以近距離窺探伊朗北部全境軍情。據悉，以色列在亞塞拜然的秘密駐軍，是以方在中東多國佈設的多處軍事支點之一。亞塞拜然駐美國大使館宣告稱：“我方堅決駁斥有關亞塞拜然領土被用作針對第三國軍事行動據點的不實傳言。”
+
+---
+
+### 2026-06-05 15:12:36  #市場
+
+【中控技術收盤價創歷史新高】6月5日，中控技術(688777)收盤上漲13.1%，收盤價報100元/股，創歷史新高（前復權）。
+
+---
+
+### 2026-06-05 15:11:54  #其他 #焦點 #國際
+
+【聞泰科技起訴安世荷蘭】6月5日，據安世中國訊息，安世聞泰科技針對安世荷蘭的不當干預，正式在中國啟動法律程式，案件已被司法機關受理。據安世中國介紹，聞泰科技已向廣東省東莞市中級人民法院起訴安世荷蘭，法院已立案。
+
+---
+
+### 2026-06-05 15:09:46  #市場 #焦點 #A股
+
+富時中國A50指數期貨走低，跌超2%。
+
+---
+
+### 2026-06-05 15:09:39  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #DXY #Impact bullish
+
+FTSE China A50 index futures fell more than 2%.
+
+---
+
+### 2026-06-05 15:09:37  #市場 #央行 #國際
+
+印度央行行長馬爾霍特拉：外匯儲備項下黃金持有量小幅增加。
+
+---
+
+### 2026-06-05 15:09:29  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Reserve Bank of India governor says gold holdings in FX reserves have edged up slightly.
+
+---
+
+### 2026-06-05 15:09:04  #國際
+
+市場訊息：以色列在兩伊戰爭期間向亞塞拜然派兵。
+
+---
+
+### 2026-06-05 15:08:26  #MKT News
+
+Reserve Bank of India governor said the central bank will take all necessary measures to ensure smooth funding flows and maintain orderly movement of the Indian rupee.
+
+---
+
+### 2026-06-05 15:07:57  #公司
+
+【華創證券：維持洋河股份“強推”評級，目標價53元】華創證券研報指出，洋河股份營銷變革落地，夯基再次啟航。經營逐步理順，關注第七代海之藍推廣成效。公司報表包袱已卸下，當前動銷開瓶>渠道出庫>酒企回款，庫存有效降低，價盤穩健，實際經營表現已有改善，下半年報表有望在低基數+海之藍髮力下逐步轉正。今年公司處在調整落地及產品推廣期，預計27 年成效兌現更明顯，考慮公司全國化的品牌勢能和渠道基礎仍在，業績調整期可給予一定估值容忍度，給予27年25xpe，調整目標價為53元，維持“強推”評級。
+
+---
+
+### 2026-06-05 15:07:49  #市場
+
+上海航運交易所資料顯示，截至6月5日，上海出口集裝箱運價指數（綜合指數）報2726.48點，與上期相比上漲154.75點。中國出口集裝箱運價綜合指數報1411.6點，與上期相比漲3.3%。
+
+---
+
+### 2026-06-05 15:07:38  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+【Institutions' forecasts for US May average hourly earnings】Institutions project US May average hourly earnings YoY at 3.3–3.5% (April 3.6%), with a central tendency around 3.4% (Reuters survey 3.4%). Month-on-month forecasts cluster at +0.3% (April +0.2%; Reuters +0.3%), with some estimates at +0.2% and a few outliers at +0.4%.
+
+---
+
+### 2026-06-05 15:07:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【US-Iran conflict hits Turkey; May inflation accelerates for second month】Turkey's annual inflation accelerated to 32.6% in May from 32.4% in April, official data on Friday showed; the median forecast of 17 economists was 32.5%. The increase marks a second consecutive month of acceleration as a global energy shock from US and Israeli actions against Iran continues to feed domestic prices. Rising energy import costs are reversing Turkey's disinflation trend—Turkey is a major oil and gas importer—and policymakers say they have struggled to respond. Turkish central bank governor Fatih Karahan said the bank is monitoring second-round effects and that the inflation outlook depends on the duration of the conflict.
 
 ---
 
@@ -22865,59 +22943,5 @@ MOFCOM spokesman said it urged the OECD to study industrial subsidies objectivel
 ### 2026-06-04 11:31:48  #MKT News
 
 Indonesia's parliament has passed a wide-ranging financial bill into law, expanding the central bank's powers and granting parliament the authority to assess financial regulators, the deputy speaker said.
-
----
-
-### 2026-06-04 11:31:43  #MKT News #Important #Commodities #Precious Metals #Industrial Metals
-
-At the morning session close, China's most-active futures contracts were mostly lower: palladium and lithium carbonate fell over 3%, bottle-grade PET chips nearly 3%; Shanghai nickel, stainless steel, alumina, 20# rubber, PVC and BR rubber dropped more than 2%. On the upside, coking coal rose over 4%, coke gained more than 2%, and rapeseed oil and logs were up over 1%.
-
----
-
-### 2026-06-04 11:31:43  #MKT News
-
-【China bond futures morning close】2-year bond futures (TS) most-active contract unchanged at the morning close; 5-year (TF) +0.01%; 10-year (T) +0.03%; 30-year (TL) +0.13%.
-
----
-
-### 2026-06-04 11:31:19  #其他
-
-【民政部等三部門啟動第二屆全國民政行業職業技能大賽】民政部、人力資源社會保障部、全國總工會今天印發通知，正式啟動第二屆全國民政行業職業技能大賽。大賽為一類職業技能競賽，每兩年舉辦一次，今年設定養老護理員、孤殘兒童護理員、殯儀服務員、遺體防腐整容師四個競賽專案，均為單人賽項。（央視新聞）
-
----
-
-### 2026-06-04 11:30:59  #市場 #焦點 #A股
-
-【午評：科創50指數低開高走漲0.72%，晶片產業鏈概念股維持強勢】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.43%，深證成指跌0.46%，創業板指跌1.1%，北證50跌1.74%，科創50指數漲0.72%。全市場成交額17391億元，較上日縮量1609億元，全市場超4200只個股下跌。板塊題材上，電子化學品、中船系、煤炭開採加工、超級電容、光刻機、儲存晶片板塊漲幅居前；油氣開採及服務、工業金屬、ERP概念、軟體開發、雲辦公板塊跌幅居前。盤面上，煤炭開採加工板塊低開高走，安泰集團、平煤股份、大有能源漲停，鄭州煤電、淮北礦業、陝西黑貓漲幅居前。光刻機板塊震盪上揚，中船特氣、旭光電子漲停，珂瑪科技、華特氣體、新萊應材漲幅居前。儲存晶片板塊亦表現強勢，滬矽產業盤中漲超15%，太極實業、大為股份等股漲停，佰維儲存、江波龍、德明利紛紛走高。油氣開採及服務早盤低開低走，通源石油、科力股份領跌板塊，潛能恆信、貝肯能源、中曼石油紛紛下挫。工業金屬板塊表現疲軟，中國鋁業、天山鋁業、鋅業股份跌幅居前，雲鋁股份、焦作萬方、雲南銅業跟跌。
-
----
-
-### 2026-06-04 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲0.08%， 滬深300指數期貨連續跌0.44%， 中證500指數期貨連續漲0.09%， 上證50指數期貨連續跌0.63%。
-
----
-
-### 2026-06-04 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.13%， 10年期主力合約漲0.03%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。
-
----
-
-### 2026-06-04 11:30:02  #市場
-
-【商品期貨早盤收盤】焦煤連續漲4.70%，膠合板連續跌4.38%，鈀連續跌3.54%，碳酸鋰連續跌3.17%，瓶片連續跌2.78%。
-
----
-
-### 2026-06-04 11:29:46  #MKT News #Commodities #Energy #TSM.N #Impact mixed
-
-TSMC (TSM.N) CEO said the company currently consumes about 10% of Taiwan's electricity; that share may rise, and TSMC will continue to improve energy efficiency and reduce carbon emissions.
-
----
-
-### 2026-06-04 11:29:36  #Trading Economics #Markets #Brazil #Currency #Importance 0
-
-Real Weakens as Trade and Geopolitical Risks Mount — The Brazilian real weakened to 5.06 per USD in early June as proposed US tariffs on Brazilian products and uncertainty surrounding US-Iran negotiations weighed on investor sentiment. US authorities said the proposed measures stem from findings that Brazil and other countries have not taken sufficient steps to prevent imports of goods produced with forced labor. The prospect of higher trade barriers increased caution toward Brazilian assets. Meanwhile, rising tensions in the Middle East supported oil prices and fueled broader risk aversion. Hostilities intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. The combination of geopolitical uncertainty and trade concerns boosted demand for the US dollar, pressuring emerging-market currencies, including the real.
 
 ---
