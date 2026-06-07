@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-07 23:42:03",
-  "count": 18987,
+  "updated": "2026-06-07 23:45:53",
+  "count": 18991,
   "items": [
+    {
+      "id": "4922076",
+      "time": "2026-06-07 23:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：伊朗不應向我方發動襲擊，倘若其採取行動，我方將按既定方案予以應對。我方預計很快會與伊朗達成一份理想協議。"
+    },
+    {
+      "id": "mkt:019ea2c1-d598-7ee0-86d0-beedceb272ee",
+      "time": "2026-06-07 23:44:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said sailors aboard the aircraft carrier George H.W. Bush (CVN-77), operating in the Arabian Sea, are conducting nighttime flight operations. The ship is one of two U.S. carriers currently deployed to the Middle East."
+    },
+    {
+      "id": "4922075",
+      "time": "2026-06-07 23:44:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普政府同意將第三國移民遣送至中非共和國，美國國務院還將整合非洲地區簽證辦理中心。"
+    },
+    {
+      "id": "4922074",
+      "time": "2026-06-07 23:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：喬治·布什號航空母艦（CVN-77）航行於阿拉伯海期間，艦上官兵開展夜間飛行作業。該艦是目前部署在中東地區的兩艘航空母艦之一。"
+    },
+    {
+      "id": "mkt:019ea2bf-edab-7ee0-86d0-b2c2b1686ce3",
+      "time": "2026-06-07 23:42:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar issued a NOTAM requiring flights transiting its airspace to reroute and providing alternate routings for aircraft departing Doha and airports in Saudi Arabia. The notice is effective June 7-14."
+    },
+    {
+      "id": "4922073",
+      "time": "2026-06-07 23:41:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家足球隊抵達墨西哥，備戰國際足聯世界盃。"
+    },
     {
       "id": "4922072",
       "time": "2026-06-07 23:39:41",
@@ -175114,22 +175163,6 @@
         "MKT News"
       ],
       "text": "Ukrainian President Zelenskiy said Ukraine has not yet signed a bilateral drone agreement with the United States — a large, framework-level document."
-    },
-    {
-      "id": "4908967",
-      "time": "2026-05-31 23:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "預測平臺Polymarket資料顯示：Anthropic仍在完善防範濫用的安全機制，Claude Mythos在6月底前上線的機率為28%。"
-    },
-    {
-      "id": "4908966",
-      "time": "2026-05-31 23:43:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際原子能機構說必須停止襲擊核設施】國際原子能機構5月31日在社交媒體發文說，該機構人員當天上午發現扎波羅熱核電站一座電機房外部受損。機構總幹事格羅西表示，襲擊核設施不可接受，必須停止。（新華社）"
     }
   ]
 }
