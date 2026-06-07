@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-08 04:49:30",
-  "count": 19096,
+  "updated": "2026-06-08 04:53:21",
+  "count": 19103,
   "items": [
+    {
+      "id": "mkt:019ea3dc-0d34-7ee0-86d3-8ed6bd829d8a",
+      "time": "2026-06-08 04:52:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Trump and Netanyahu are on a phone call."
+    },
+    {
+      "id": "mkt:019ea3db-8aac-7ee0-86d3-840429fc6877",
+      "time": "2026-06-08 04:52:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Munich Airport: flight operations resumed at 22:15 local time after fire department response."
+    },
+    {
+      "id": "4922261",
+      "time": "2026-06-08 04:51:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場：在消防部門處置完畢後，航班運營已於晚上10點15分恢復。"
+    },
+    {
+      "id": "4922260",
+      "time": "2026-06-08 04:51:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和埃及外長通話討論地區局勢升級。"
+    },
+    {
+      "id": "4922259",
+      "time": "2026-06-08 04:51:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場：航班運營已恢復。"
+    },
+    {
+      "id": "4922258",
+      "time": "2026-06-08 04:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果方面表示，埃博拉確診病例已升至515例，其中包含91例死亡病例。"
+    },
+    {
+      "id": "mkt:019ea3d8-e586-7ee0-86d3-7d6011fe8e18",
+      "time": "2026-06-08 04:49:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "The UK government said leaders urged Russian President Putin to agree to an immediate, comprehensive ceasefire. It said that, once in effect, the ceasefire must be accompanied by strong, legally binding security guarantees for Ukraine, and that current contacts should serve as the starting point for negotiations."
+    },
+    {
+      "id": "4922257",
+      "time": "2026-06-08 04:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：E3領導人稱當前接觸線應作為談判的起點。"
+    },
     {
       "id": "4922256",
       "time": "2026-06-08 04:48:55",
@@ -176123,14 +176192,6 @@
         "國際"
       ],
       "text": "【穆迪：美國家庭平均每月的能源支出增加約450美元】穆迪分析公司的資料顯示，自2月28日衝突爆發以來，美國家庭平均已額外支出447.19美元用於與燃料相關的開支。由於汽油價格和機票價格飆升，美國消費者累計損失近600億美元。"
-    },
-    {
-      "id": "4909072",
-      "time": "2026-06-01 04:52:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "一名官員透露，過去三週，美軍已暗中協助約70艘商船通行霍爾木茲海峽。"
     }
   ]
 }
