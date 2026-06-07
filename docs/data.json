@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 23:00:56",
-  "count": 18987,
+  "updated": "2026-06-07 23:04:55",
+  "count": 18986,
   "items": [
+    {
+      "id": "4922059",
+      "time": "2026-06-07 23:02:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "科技記者馬克·格爾曼：自蘋果智慧功能表現不及預期、新版Siri推遲上線後，蒂姆·庫克深度介入公司人工智慧業務的翻盤工作與產品規劃。擔任CEO以來，他從未如此深入地參與產品研發與功能設計。"
+    },
     {
       "id": "mkt:019ea299-344c-7ee0-86d0-725e5771eae1",
       "time": "2026-06-07 23:00:09",
@@ -175120,24 +175128,6 @@
         "觀點"
       ],
       "text": "摩根士丹利因營收及增長前景堪憂，下調Elastic、UiPath與PagerDuty三家公司的目標股價。"
-    },
-    {
-      "id": "mkt:019e7e90-e3ef-700f-a37e-d759bc55cd21",
-      "time": "2026-05-31 23:04:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "According to a Nikkei poll, Japan's Prime Minister Sanae Takaichi's approval rating fell to 66%."
-    },
-    {
-      "id": "4908950",
-      "time": "2026-05-31 23:04:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "日經新聞民調：日本首相高市早苗支援率跌至66%。"
     }
   ]
 }
