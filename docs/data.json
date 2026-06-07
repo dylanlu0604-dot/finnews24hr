@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-07 12:20:59",
-  "count": 18925,
+  "updated": "2026-06-07 12:24:46",
+  "count": 18924,
   "items": [
+    {
+      "id": "mkt:019ea051-2190-7665-8316-706267881ce9",
+      "time": "2026-06-07 12:22:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【OECD projects South Korea potential growth rate to hit record low in 2027】The OECD projects South Korea’s potential growth rate will fall to 1.52% in 2027 from 1.66% this year, despite strong export growth driven by a semiconductor boom. Quarterly estimates show potential growth dipping to 1.46% in Q4 2027 — the first time below 1.5% since the OECD began publishing the series."
+    },
     {
       "id": "mkt:019ea04c-44a3-7665-8316-6cab0c2e8193",
       "time": "2026-06-07 12:16:53",
@@ -174498,26 +174507,6 @@
         "國際"
       ],
       "text": "以色列軍方稱一名士兵在黎巴嫩南部的戰鬥中身亡。"
-    },
-    {
-      "id": "mkt:019e7c44-c2d7-7bb7-996c-f8ee224e875d",
-      "time": "2026-05-31 12:22:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel says it has crossed the Litani River, advancing operations to north bank against HEZBOLLAH】On the morning of May 31 local time the Israel Defense Forces said it had crossed the Litani River and pushed military operations against HEZBOLLAH targets to the river's north bank, saying the scope of operations was continuing to expand."
-    },
-    {
-      "id": "4908593",
-      "time": "2026-05-31 12:21:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱已渡過利塔尼河 將對黎真主黨軍事行動推進至河北岸區域】當地時間5月31日上午，以色列國防軍在社交媒體上發文稱，以色列國防軍已渡過利塔尼河，將針對黎巴嫩真主黨目標的軍事行動推進至河北岸區域，且行動範圍仍在持續擴大。（央視新聞）"
     }
   ]
 }
