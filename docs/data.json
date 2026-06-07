@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-07 22:10:43",
-  "count": 18989,
+  "updated": "2026-06-07 22:14:59",
+  "count": 18982,
   "items": [
+    {
+      "id": "4922030",
+      "time": "2026-06-07 22:12:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "巴拿馬Copa航空執行長表示，公司目前“只能接受”更高的燃油成本，公司已對收益作出調整，但調整幅度未能100%覆蓋燃油成本上漲。"
+    },
+    {
+      "id": "4922029",
+      "time": "2026-06-07 22:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴拿馬Copa航空執行長：儘管近期油價震盪，公司暫無燃油套期保值計劃。"
+    },
     {
       "id": "4922028",
       "time": "2026-06-07 22:08:51",
@@ -175063,81 +175080,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：海峽封鎖直接導致化肥價格上漲。"
-    },
-    {
-      "id": "4908927",
-      "time": "2026-05-31 22:14:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港成全球最大跨境財富管理中心 香港躍居全球跨境財富管理中心榜首】波士頓諮詢公司近日釋出《2026年全球財富報告》。報告顯示，截至2025年底，香港跨境財富管理規模達到2.95萬億美元，首次超越瑞士，成為全球最大的跨境財富管理中心。作為“一國兩制”下的國際金融中心，香港憑藉資金進出自由、制度透明，為全球資本提供了透明、穩定、可預期的營商環境。同時，香港作為金融領域的國際超級介面，透過滬深港通、債券通等互聯互通機制，讓國際資金在國際規則框架下接觸內地資產。 （央視財經）"
-    },
-    {
-      "id": "4908926",
-      "time": "2026-05-31 22:13:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：加密貨幣領域各類亂象均轉移至境外。"
-    },
-    {
-      "id": "mkt:019e7e61-debc-700f-a37e-8bae4520cb24",
-      "time": "2026-05-31 22:13:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Air-raid sirens sounded in more than 20 settlements in northern Israel."
-    },
-    {
-      "id": "4908925",
-      "time": "2026-05-31 22:12:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們也將繼續推進與敘利亞和伊拉克政府的戰略合作，因此我們與他們的關係將持續加深。"
-    },
-    {
-      "id": "4908924",
-      "time": "2026-05-31 22:11:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列北部二十餘個定居點響起防空警報。"
-    },
-    {
-      "id": "4908923",
-      "time": "2026-05-31 22:11:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴拉克繼續擔任駐土耳其大使。"
-    },
-    {
-      "id": "mkt:019e7e60-284c-700f-a37e-83caece4c052",
-      "time": "2026-05-31 22:11:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the US will continue to advance strategic cooperation with the Syrian and Iraqi governments and that ties with them will deepen."
-    },
-    {
-      "id": "mkt:019e7e5f-bb01-700f-a37e-797bb7dc489f",
-      "time": "2026-05-31 22:11:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he is pleased to announce that U.S. ambassador to Turkey Tom Barrack has performed well and will be appointed special presidential envoy for Syria and Iraq."
-    },
-    {
-      "id": "4908922",
-      "time": "2026-05-31 22:10:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴拉克將同時擔任總統駐伊拉克特使。"
     }
   ]
 }
