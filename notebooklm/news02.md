@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 08:06:10_
-_本檔包含 3927 則快訊，約 702911 字_
+_更新時間：2026-06-07 08:52:04_
+_本檔包含 3939 則快訊，約 703423 字_
+
+---
+
+### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
+
+Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
+
+---
+
+### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
+
+---
+
+### 2026-06-05 09:27:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share innovative drug sector opened higher; Meinuohua gained over 4%, Hanyu Pharmaceutical rose more than 2%; Hengrui Medicine, Aimeike and Chengdu Xiandao also advanced.
+
+---
+
+### 2026-06-05 09:27:36  #市場
+
+創新藥板塊多股高開，美諾華漲超4%，翰宇藥業漲超2%，恆瑞醫藥、愛美客、成都先導等跟漲。
+
+---
+
+### 2026-06-05 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China's Shanghai Composite Index opened down 12.95 points (-0.32%) at 4,044.83 on Friday, June 5; Shenzhen Composite Index opened down 65.88 points (-0.42%) at 15,595.70; CSI 300 Index opened down 17.78 points (-0.36%) at 4,886.96; ChiNext Index opened down 8.93 points (-0.22%) at 4,079.95; STAR 50 Index opened down 31.53 points (-1.81%) at 1,706.53.
+
+---
+
+### 2026-06-05 09:26:41  #MKT News #XAUUSD #Impact bearish
+
+Spot gold fell back below $4,450/oz, down 0.58% intraday.
+
+---
+
+### 2026-06-05 09:26:38  #公司
+
+【潤澤科技成立兩家科技發展公司】企查查APP顯示，近日，河北潤弘科技發展有限公司、河北潤嘉科技發展有限公司成立，註冊資本均為1000萬元，經營範圍均包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，二者皆由潤澤科技間接全資持股。
+
+---
+
+### 2026-06-05 09:26:32  #市場 #焦點
+
+現貨黃金失守4450美元/盎司，日內跌0.57%。
+
+---
+
+### 2026-06-05 09:26:19  #市場
+
+韓元兌美元貶值1%。
+
+---
+
+### 2026-06-05 09:26:06  #國際
+
+泰國尋求在6月前與美國達成貿易協議，目標關稅為10%。
+
+---
+
+### 2026-06-05 09:25:25  #市場
+
+臺灣加權股價指數下跌3%至44,285.70點。
+
+---
+
+### 2026-06-05 09:25:22  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+A-shares opened lower: Shanghai Composite down 0.32%, Shenzhen Composite down 0.42%, ChiNext down 0.22%.
+
+---
+
+### 2026-06-05 09:25:13  #焦點
+
+三大股指低開，滬指跌0.32％，深成指跌0.42％，創業板跌0.22％。
+
+---
+
+### 2026-06-05 09:24:45  #央行 #中國央行
+
+央行公開市場今日進行2150億元人民幣七天期逆回購操作，今日逆回購到期1,230億。
+
+---
+
+### 2026-06-05 09:24:17  #市場
+
+【港股AI應用股走強 五一視界漲近6%】截至發稿，五一視界(06651.HK)漲5.78%，創夢天地(01119.HK)漲4.41%，速騰聚創(02498.HK)漲1.41%。
+
+---
+
+### 2026-06-05 09:23:32  #MKT News #Important #CNH #Impact bullish
+
+PBOC conducted a CNY215 billion 7-day reverse repo today; bids CNY215 billion, allotment CNY215 billion; rate 1.40%, unchanged.
+
+---
+
+### 2026-06-05 09:23:25  #央行 #其他
+
+央行逆回購今日淨投放920億元人民幣。
+
+---
+
+### 2026-06-05 09:22:48  #央行 #其他
+
+央行進行 2,150 億元 7 天期逆回購操作 操作利率 1.4%。
+
+---
+
+### 2026-06-05 09:22:18  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Indonesia's economic ministry said it is seeking an exemption from U.S. Section 232 tariffs for copper cathode exports produced in Indonesian free ports.
+
+---
+
+### 2026-06-05 09:22:07  #市場 #焦點
+
+菜油連續主力合約日內跌2%，現報10116.00元。
+
+---
+
+### 2026-06-05 09:22:04  #宏觀 #國際
+
+菲律賓將持續出臺定向調控舉措以穩定物價。
+
+---
+
+### 2026-06-05 09:22:03  #MKT News #Market Regions #Greater China #01779.HK #Impact bullish
+
+Tianchen Bio (01779.HK) opened 50.22% higher on its Hong Kong debut. IPO priced at HKD 96.06 per share and was oversubscribed more than 4,700 times. Yesterday’s grey-market trading closed up 57.09%.
+
+---
+
+### 2026-06-05 09:21:41
+
+港股恒指低開跌0.27％，國企指數跌0.1％，科指開跌0.31%，半導體板塊多股開跌。
+
+---
+
+### 2026-06-05 09:21:35  #市場
+
+大金重工上市首日開盤報66.4港元，與發行價66.40港元持平。
+
+---
+
+### 2026-06-05 09:21:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #Hang Seng China Enterprises Index
+
+Hong Kong's Hang Seng Index opened down 67.28 points, or 0.27%, at 25,186.12 on Friday, June 5; the Hang Seng Tech Index opened down 15.43 points, or 0.31%, at 4,959.93; the Hang Seng China Enterprises Index (HSCEI) opened down 8.36 points, or 0.10%, at 8,493.55; the Hang Seng Red Chip Index opened down 25.99 points, or 0.59%, at 4,394.52.
+
+---
+
+### 2026-06-05 09:21:20  #MKT News #Important #Market Themes #Chip Wars #Hang Seng Index #Impact bearish #03986.HK #01347.HK
+
+At the Hong Kong open the Hang Seng fell 0.27% and the Hang Seng TECH fell 0.31%. Semiconductor names led declines: GigaDevice Semiconductor (03986.HK) down 4.13%, Hua Hong Semiconductor (01347.HK) down 3.51%.
+
+---
+
+### 2026-06-05 09:20:33  #MKT News #Important #Commodities #Industrial Metals
+
+LME tin fell 4.00% on the day to $54,831.15/ton.
+
+---
+
+### 2026-06-05 09:19:22  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
+
+MSCI Asia Pacific index fell as much as 2%.
+
+---
+
+### 2026-06-05 09:19:02  #MKT News
+
+Indonesia's Ministry of Trade said the statement followed a Paris meeting between Indonesia's chief negotiator on U.S. tariffs and U.S. Trade Representative Greer to discuss Section 301.
+
+---
+
+### 2026-06-05 09:18:59  #MKT News #Important #Commodities #Industrial Metals
+
+SHFE tin 2607 weakened sharply intraday, extending losses to 4.04% as the contract tested 423,610 yuan/ton; turnover topped 69 bln yuan. Open interest fell by about 1,600 lots intraday, leaving positions slightly lower.
+
+---
+
+### 2026-06-05 09:18:54  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Japan Aims to Support Yen by Strengthening Economy: PM Takaichi — Japanese Prime Minister Sanae Takaichi on Friday said the government seeks to bolster confidence in the yen by strengthening the economy. Addressing parliament, she emphasized policies aimed at boosting domestic investment, fortifying supply chains, and raising Japan’s growth potential, noting that greater international competitiveness would help sustain trust in the currency. Meanwhile, finance minister Satsuki Katayama reiterated that authorities remain ready to act in the forex market if needed and are in close contact with U.S. officials. Japan spent over USD 73 billion between April 28 and May 27 to support the yen, its first intervention since 2024, according to Dow Jones Newswires, underscoring concern that further weakness could lift import costs for food and energy, intensifying pressure on households and businesses.
+
+---
+
+### 2026-06-05 09:18:13  #市場
+
+MSCI亞太指數下跌2%至273.09點。
+
+---
+
+### 2026-06-05 09:17:57  #MKT News #DXY #Impact bullish #XAUUSD
+
+Indonesia's Ministry of Trade says the U.S. will impose an additional 10% tariff on imports from Indonesia.
+
+---
+
+### 2026-06-05 09:17:39  #公司
+
+【比亞迪保險在河北等地區機動車交通事故責任強制保險條款和費率獲批】國家金融監督管理總局釋出關於深圳比亞迪財產保險有限公司河北等地區機動車交通事故責任強制保險條款和費率的批覆， 同意公司在河北、江蘇、浙江（不含寧波）地區使用全國統一的交強險條款、基礎保險費率和相應的費率浮動係數。
+
+---
+
+### 2026-06-05 09:17:14  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Stock Exchange Weighted Index fell more than 2%.
+
+---
+
+### 2026-06-05 09:16:50  #國際
+
+印度尼西亞經濟部表示，美國將對自印尼進口的商品加徵10%關稅。
+
+---
+
+### 2026-06-05 09:16:38  #市場 #觀點 #國際
+
+【中金財富期貨：目前的黃金受制於無法預判的油價因素】以色列從黎巴嫩撤軍，油價明顯回落，目前美伊衝突仍處在特朗普“口頭治理”的階段，特朗普稱“談判順利，協議可能週末達成”。但事實是，美伊衝突持續升級，雙方分歧巨大，美國原油及石油產品庫存驟降至2004年以來最低，5月出口量創紀錄攀升至590萬桶/日，戰略儲備加速消耗。部分業內人士發出警告，若霍爾木茲海峽持續封閉，油價可能上衝到150美元以上，目前的黃金受制於無法預判的油價因素，參與價值不大，建議觀望。
+
+---
+
+### 2026-06-05 09:16:28  #市場 #國際
+
+【“賣出印尼”交易席捲市場 總統普拉博沃強硬管控政策加劇擔憂】隨著印尼股市以全球最快的速度暴跌，其貨幣重新整理歷史低點，全球投資者對印尼的信心正在迅速喪失。基準股指在創下歷史新高僅僅五個月後，就已暴跌36%，成為今年以來媒體追蹤的90多個全球指數中表現最差市場。與此同時，印尼盾貶值超過7%，外國投資者已從印尼債券市場撤出數十億美元。對於這個大宗商品資源豐富的國家而言，昔日作為許多新興市場資產配置主力物件的地位發生戲劇性轉變。令投資者感到不安的是總統普拉博沃力推的更加民粹主義和干預主義的政策議程，並有強化趨勢，而過去印尼長期以來被視為對外國投資者友好的國家。管理著約43億美元資產的對沖基金K2 Asset Management的研究主管George Boubouras表示，眼下亞洲最大的交易是“賣出印尼”。在當地投資數十年後，他已於2024年退出所有持倉。“我對印尼沒有任何投資敞口，”他說。“我不會再給他們任何機會了。”印尼盾週四跌破歷史性的18000關口，期權市場也預示著進一步下跌。交易員認為，到12月跌至19000印尼盾的機率約為45%，從現在起的一年後跌至20000印尼盾的機率約為27%。
+
+---
+
+### 2026-06-05 09:15:48  #其他
+
+【航行警告！黃海北部實彈射擊】據中國海事局網站訊息，大連海事局釋出航行警告，6月5日10時至16時，和自6月8日14時至10日17時，黃海北部部分海域實彈射擊，禁止駛入。
+
+---
+
+### 2026-06-05 09:15:44  #市場
+
+臺灣證交所加權股價指數下跌2%至44,757.09點。
+
+---
+
+### 2026-06-05 09:15:33  #市場
+
+【人民幣兌美元中間價報6.8157，較上日調高46點】人民幣兌美元中間價報6.8157，較上日調高46點。
+
+---
+
+### 2026-06-05 09:15:28  #市場
+
+人民幣兌美元中間價報6.8157元。
+
+---
+
+### 2026-06-05 09:15:23  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.45% at 24,987, trading 277 points below spot.
+
+---
+
+### 2026-06-05 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.55%，報24952.76點，低水300.64點。
+
+---
+
+### 2026-06-05 09:14:05  #市場
+
+鈀金期貨日內跌2%，現報1308.00美元/盎司。
+
+---
+
+### 2026-06-05 09:13:37  #Trading Economics #Economy #Philippines #Industrial Production #Importance 1
+
+Philippines Industrial Output Growth Accelerates — Manufacturing production in the Philippines surged 14.7% year-on-year in April 2026, accelerating from an upwardly revised 13.1% increase in March. The expansion was largely driven by a sharp rise in the manufacture of coke and refined petroleum products (60.8% vs 4.6% in March), which accounted for 82.0% of the overall increase. Growth also strengthened in the manufacture of food products (9.7% vs 8.5%) and transport equipment (11.8% vs 9.6%). Meanwhile, production growth moderated for computer, electronic and optical products (19.0% vs 23.9%) and basic metals (29.1% vs 43.6%).
+
+---
+
+### 2026-06-05 09:13:15  #其他
+
+【大曉機器人推出全屋三維可互動世界模型Kairos-HomeWorld】6月5日，大曉機器人聯合香港中文大學多媒體實驗室、深圳河套學院釋出最新世界模型研究成果Kairos-HomeWorld，這是全球首個實現全屋生成、個體物體全互動的世界模型統一框架。據介紹，該技術突破了現有室內場景生成僅能覆蓋單房間、缺乏全域性一致性與可操作性的行業瓶頸，能夠一鍵生成結構連貫、物理合理、功能完整的全屋三維場景，為具身人工智慧與機器人訓練提供了大規模、高保真的中國家庭場景可互動的實訓場。
+
+---
+
+### 2026-06-05 09:13:14  #MKT News
+
+【Daxiao Robotics, CUHK and Shenzhen Hetao College unveil Kairos-Home World whole-house 3D interactive world model】Daxiao Robotics, the Multimedia Laboratory at The Chinese University of Hong Kong and Shenzhen Hetao College unveiled Kairos-Home World, which they say is the world’s first unified world-model framework to generate whole-house 3D environments with full object-level interaction. The team says the model overcomes prior room-level limits and inconsistent operability by one-click generation of structurally coherent, physically plausible and functionally complete whole-home 3D scenes, providing large-scale, high-fidelity Chinese household interactive training environments for embodied AI and robotics training.
 
 ---
 
@@ -23462,221 +23750,5 @@ According to Lebanese TV channel Al-Mayadeen, Iran's foreign minister said conta
 ### 2026-06-04 02:31:17  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
 
 【Night session main contracts close】At the 02:30 close, the SHFE main gold contract fell 0.74% to 973 yuan/gram, the SHFE main silver contract fell 2.24% to 17,795 yuan/kg, and the SC crude main contract rose 1.16% to 611 yuan/barrel.
-
----
-
-### 2026-06-04 02:31:14  #市場
-
-WTI 7月原油期貨收漲2.26美元，漲幅2.41%，報96.02美元/桶。NYMEX 7月天然氣期貨收報3.2140美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.1316美元/加侖，NYMEX 7月取暖油期貨收報3.8481美元/加侖。
-
----
-
-### 2026-06-04 02:30:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 0.55% to 970.59 yuan/gram at the close of the June 3 evening session; silver T+D fell 1.32% to 17,783.0 yuan/kg.
-
----
-
-### 2026-06-04 02:30:29  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
-
-【Fed's Beige: Consumer spending uneven across districts】Fed's Beige reports 10 of 12 districts saw slow-to-moderate economic growth, one showed slight decline and one was unchanged. Consumer spending is uneven; rising cost pressures have widened differences across income groups—high-income households remain relatively resilient and less price-sensitive, middle-income households are “scrimping every penny before spending,” and low-income households face greater financial strain. Several districts reported higher credit-card use, softer retail sales and stronger demand for necessities. Auto dealers cited weaker new-car demand due to cost and fuel pressures, with increased purchases of used cars and hybrids. Manufacturing expanded at a moderate-to-strong pace in nine districts, with one district reporting a slight decline. Banking conditions are largely stable, but multiple districts reported rising delinquencies in mortgages, consumer and agricultural loans. Six-month business outlooks were little changed amid elevated uncertainty and signs of weaker consumer spending.
-
----
-
-### 2026-06-04 02:30:01  #市場
-
-上期所原油期貨夜盤收漲1.16%，報611.00元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌2.24%。
-
----
-
-### 2026-06-04 02:30:01  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Drops by 3.59% — Top crypto losers are Binance (-3.59%), Ether (-1.95%) and Bitcoin (-1.41%).
-
----
-
-### 2026-06-04 02:28:37  #市場
-
-巴西5月份鐵礦石出口2801萬噸，去年同期3477萬噸。
-
----
-
-### 2026-06-04 02:27:02  #Trading Economics #Economy #Uruguay #Unemployment Rate #Importance 1
-
-Uruguay Jobless Rate Declines in April — Uruguay’s unemployment rate fell to 7.5% in April 2026 from 7.8% in March, signaling an improvement in labor market conditions. The jobless rate stood at 7.6% in Montevideo and 7.4% in the rest of the country, while employment rates reached 60.5% and 58.8%, respectively. By gender, unemployment was 6.4% among men and 8.7% among women. Youth unemployment remained significantly higher than for other age groups, reaching 23.3% among people aged 14 to 24. The rate was 10.2% for those aged 25 to 29 and below 7% for most age groups over 30. Among employed workers, 9.3% were underemployed, while 21.7% were not registered with the social security system in their main job.
-
----
-
-### 2026-06-04 02:25:18  #MKT News #DXY #Impact bullish #WTI #US10Y
-
-【FED'S BEIGE: Employment stable across districts; inflation rises】FED'S BEIGE says recent weeks' economic activity in most U.S. districts expanded at a slow-to-moderate pace and employment was little changed. Inflation readings in most Fed districts were higher than in the prior report, largely reflecting energy-price increases tied to the Middle East conflict, including the Iran war. Rising energy costs since the Iran war began have raised concern about persistent inflation, prompting more policymakers to say they need to keep all policy options open, including the possibility of tighter monetary policy. Many officials nonetheless described current policy-rate conditions as fairly favorable.
-
----
-
-### 2026-06-04 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Canola (2.61%). Biggest losers are Wheat (-2.79%) and Coffee (-2.53%).
-
----
-
-### 2026-06-04 02:23:42  #公司 #市場 #國際
-
-美國銀行CEO Moynihan：隨著價格上漲，（美國）消費者開支出現“微觀變化”。經濟承受能力是一個實實在在的問題。最近50年來，公司的信用業務一直不錯。
-
----
-
-### 2026-06-04 02:22:26  #公司
-
-【Alphabet將股權融資規模擴大至850億美元 所得用於人工智慧領域支出】谷歌母公司Alphabet Inc.將其股權融資規模從兩天前宣佈的800億美元提高至847.5億美元，以支援不斷擴大的人工智慧投資計劃。此次融資包括一項規模400億美元的所謂“按市價發行”(ATM)機制，即公司將從第三季度開始不時直接在公開市場出售股票。此外，還包括與伯克希爾達成的一筆100億美元交易。剩餘部分包括180億美元A類普通股和C類資本股發行，以及167.5億美元存托股份發行。資料顯示，這將成為有史以來規模最大的股權融資交易。對於Alphabet這樣體量的公司而言，如此大規模募股實屬罕見，在今年IPO市場火熱、尤其是SpaceX即將上市之際，這筆交易更顯得出人意料。
-
----
-
-### 2026-06-04 02:20:50  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-Lebanese broadcaster Al-Mayadeen reported Iran’s foreign minister said Iran would respond decisively if Israel attacks Beirut.
-
----
-
-### 2026-06-04 02:20:46  #國際
-
-伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示： 若以色列襲擊貝魯特，伊朗將果斷予以回擊。
-
----
-
-### 2026-06-04 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Drops by 3.79% — Top commodity losers are Platinum (-3.79%), Lithium Carbonate (-2.99%), Copper (-2.72%) and Gold (-1.17%). Gains are led by Silicon (0.76%).
-
----
-
-### 2026-06-04 02:18:45  #國際
-
-美國聯邦通訊委員會（FCC）考慮改革或終止每年規模 30 億美元、面向學校與圖書館的 E 級費率補貼專案。
-
----
-
-### 2026-06-04 02:18:42  #Trading Economics #Economy #Uruguay #Inflation Rate #Importance 1
-
-Uruguay CPI Picks Up in May — Uruguay’s annual inflation rate accelerated to 3.77% in May 2026 from 3.16% in April. The increase was driven by higher prices for education (6.91%), restaurants and hotels (6.85%), healthcare (6.15%), housing and utilities (5.02%), and personal care and social protection (4.89%). Transport costs rose 4.47%, while food and non-alcoholic beverage prices increased 2.21%. In contrast, clothing and footwear prices fell 4.88% from a year earlier. On a monthly basis, consumer prices rose 0.70% in May, accelerating from a 0.54% increase in the previous month.
-
----
-
-### 2026-06-04 02:18:21  #國際
-
-伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示：雙方正在研討此前互換的相關檔案文字。
-
----
-
-### 2026-06-04 02:17:03  #MKT News #Important
-
-Lebanese broadcaster Al-Mayadeen reports Iran's foreign minister said the two sides are reviewing exchanged texts.
-
----
-
-### 2026-06-04 02:15:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Gains by 4.38% — Top commodity gainers are Heating Oil (4.38%), Natural Gas UK (4.29%), Natural Gas EU (3.52%), Crude Oil WTI (2.46%) and Brent Crude Oil (2.09%).
-
----
-
-### 2026-06-04 02:14:59  #MKT News
-
-Tunisian central bank maintained its benchmark policy rate at 7%.
-
----
-
-### 2026-06-04 02:14:50  #MKT News #WTI #Impact bullish #US10Y #Impact bearish
-
-【FED'S BEIGE: U.S. economic activity and inflation rose in recent weeks】FED'S BEIGE said U.S. economic activity edged up in recent weeks and inflation rose while employment was broadly unchanged. The report said the six‑month business outlook for expected growth was little changed as heightened uncertainty and signs of weak consumer spending weighed on sentiment. Regional contacts identified energy‑price increases tied to the Middle East war as a key inflation driver, with spillovers to transport, packaging, groceries and fertilizer.
-
----
-
-### 2026-06-04 02:13:09  #MKT News #EURUSD #Impact bullish #DAX #S&P500
-
-Hungary's Prime Minister Magyar said the agreement could pave the way for Hungary to approve the first stage of Ukraine's EU accession talks.
-
----
-
-### 2026-06-04 02:10:59  #市場 #國際
-
-路透調查顯示：美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 1010 億立方英尺。
-
----
-
-### 2026-06-04 02:10:52  #MKT News
-
-Hungarian Prime Minister Magyar said the government does not support accelerating negotiations on Ukraine's accession to the EU.
-
----
-
-### 2026-06-04 02:09:56  #國際
-
-【以軍總參謀長稱軍隊在黎巴嫩“沒有停火可言”】當地時間3日，以色列國防軍總參謀長扎米爾在視察海法海軍基地時表示，以軍在黎巴嫩“沒有停火可言”，並稱以軍已準備好隨時恢復針對伊朗的戰鬥。扎米爾稱，以色列海軍正成為以色列軍隊的“另一支遠端戰略力量”。他表示，自就任以來，他就指示要加強海軍作為遠端戰略力量的建設，目前以軍正在加速落實這一作戰理念。針對伊朗問題，扎米爾補充說，以色列國防軍的所有軍種都已準備好，隨時可以恢復針對伊朗的戰鬥。（央視）
-
----
-
-### 2026-06-04 02:09:35  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-【IDF chief says there is 'no ceasefire' in Lebanon】On June 3, Israel Defense Forces Chief of Staff Zamir, visiting the Haifa naval base, said there is 'no ceasefire' in Lebanon and that the IDF is prepared to resume combat against Iran at any time. He added the Israeli navy is becoming 'another long‑range strategic force', that he has ordered accelerated development of the navy since taking office, and that all IDF branches are ready to act against Iran.
-
----
-
-### 2026-06-04 02:08:15  #MKT News
-
-magyar, Hungary's prime minister, said a key agreement was reached with Ukraine on the rights of the Hungarian minority in Ukraine.
-
----
-
-### 2026-06-04 02:07:48  #國際
-
-匈牙利總理： 該協議或將為匈牙利放行烏克蘭入盟談判首個議題章節掃清障礙。
-
----
-
-### 2026-06-04 02:07:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said the airport terminal was damaged after the US Patriot air-defense system failed to intercept Iranian missiles and subsequently malfunctioned.
-
----
-
-### 2026-06-04 02:06:24  #其他
-
-匈牙利總理：匈烏兩國已就匈牙利族少數民族權益達成關鍵協議。
-
----
-
-### 2026-06-04 02:05:36  #焦點 #國際
-
-伊朗塔斯尼姆通訊社援引伊朗革命衛隊訊息：機場航站樓損毀系美國愛國者防空系統攔截伊朗導彈失利後出現故障所致。
-
----
-
-### 2026-06-04 02:04:58  #MKT News #Important
-
-TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps says it did not fire on Kuwait airport.
-
----
-
-### 2026-06-04 02:04:48  #其他
-
-德國商業銀行：建議嚴肅審查裕信銀行潛在的誤導資訊。
-
----
-
-### 2026-06-04 02:04:37  #焦點 #國際
-
-伊朗塔斯尼姆通訊社援引伊斯蘭革命衛隊表態：我方並未向科威特機場開火。
-
----
-
-### 2026-06-04 02:01:54  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
-
-Fed's Beige: In 12 Federal Reserve districts, 10 reported economic activity expanding modestly to briskly; one reported a slight decline and one reported no change.
-
----
-
-### 2026-06-04 02:01:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Beige Book: employment was essentially unchanged in 11 districts, while one district reported a modest increase.
 
 ---

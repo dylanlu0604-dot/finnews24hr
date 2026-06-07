@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 08:06:10_
-_本檔包含 3537 則快訊，約 702823 字_
+_更新時間：2026-06-07 08:52:04_
+_本檔包含 3558 則快訊，約 703233 字_
+
+---
+
+### 2026-06-01 21:52:36  #市場 #焦點
+
+燃料油連續主力合約日內漲4%，現報3992.00元。
+
+---
+
+### 2026-06-01 21:52:18  #國際
+
+美國銀行全球研究部首次覆蓋HAWKEYE 360，給予中性評級，目標價為34美元。
+
+---
+
+### 2026-06-01 21:52:04  #市場 #焦點
+
+液化石油氣連續主力合約日內漲4%，現報5779.00元。
+
+---
+
+### 2026-06-01 21:51:54  #市場 #焦點
+
+現貨黃金失守4460美元/盎司，日內跌1.84%。
+
+---
+
+### 2026-06-01 21:51:51  #市場
+
+FedEx Freight在下跌9.58%後暫停交易。此前，聯邦快遞完成對FedEx Freight的分拆，並開始在紐約證券交易所掛牌交易。
+
+---
+
+### 2026-06-01 21:51:43  #市場
+
+哥倫比MSCI COLCAP指數在總統選舉第一輪投票結束後上漲6.3%，報2314.07點。
+
+---
+
+### 2026-06-01 21:51:21  #市場
+
+布倫特原油日內漲6%，現報96.61美元/桶。
+
+---
+
+### 2026-06-01 21:50:54  #市場 #焦點
+
+上海原油連續主力合約日內漲5%，現報614.10元。
+
+---
+
+### 2026-06-01 21:50:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Parker-Hannifin Stock Price Hits 27-week Low — Parker-Hannifin shares decreased to 835.64 USD, the lowest since November 2025. Over the past 4 weeks, Parker -Hannifin lost 8.06%, and in the last 12 months, it increased 25.79%.
+
+---
+
+### 2026-06-01 21:50:29  #市場 #焦點
+
+PTA連續主力合約日內漲2%，現報6276.00元。
+
+---
+
+### 2026-06-01 21:50:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude oil futures surged 7.00% intraday to $93.48/bbl.
+
+---
+
+### 2026-06-01 21:50:13  #Trading Economics #Markets #United States #stocks #Importance 1
+
+NextEra Energy Stock Price Hits 17-week Low — NextEra Energy shares decreased to 85.27 USD, the lowest since January 2026. Over the past 4 weeks, NextEra Energy lost 10.45%, and in the last 12 months, it increased 21.92%.
+
+---
+
+### 2026-06-01 21:50:05  #國際
+
+市場訊息：以色列國防軍稱，真主黨出動無人機襲擊了邊境城鎮梅圖拉，另有三枚射向卡米耶爾地區的火箭彈被攔截。目前暫無人員傷亡報告。
+
+---
+
+### 2026-06-01 21:50:05  #MKT News #Important #DXY #Impact mixed #S&P500 #US10Y
+
+U.S. May ISM Manufacturing PMI and April construction spending m/m due in 10 minutes.
+
+---
+
+### 2026-06-01 21:49:40  #市場
+
+WTI原油日內漲7%，現報93.49美元/桶。
+
+---
+
+### 2026-06-01 21:49:32  #公司
+
+蔚來美股漲近8%。蔚來5月交付新車同比增長62.3% 公司進入密集新品釋出期。
+
+---
+
+### 2026-06-01 21:49:25  #其他
+
+福斯汽車：5月總銷量為2614輛。
+
+---
+
+### 2026-06-01 21:49:14  #市場
+
+英偉達推出新晶片後，ARM的美股上市股價大漲12.5%。
+
+---
+
+### 2026-06-01 21:49:04  #Trading Economics #Markets #Commodity #Importance 0
+
+Cocoa Futures Hover Around $4,000 — Cocoa futures traded above $4,000 per tonne, extending their recent recovery from multi-month lows, as the market weighed improving supply prospects against lingering weather-related risks. Market participants remain focused on the possible impacts of the El Niño phenomenon, as it could hurt cocoa crops in Ivory Coast and Ghana, which produce more than 60% of the world's cocoa. On the other hand, prospects for a recovery in African cocoa production in 2025/26 are limiting further price gains. Farmers in Ivory Coast reported rainfall was mainly below average last week in most of the country's cocoa growing regions but it was sufficient to boost the size and quality of the March-to-August mid-crop. At the same time, there were signs of increased global inventories. Latest data showed ICE cocoa inventories rose to a near two-year high of 2,846,957 bags by May 29.
+
+---
+
+### 2026-06-01 21:48:59  #MKT News #Important #WTI #Impact bullish #Brent
+
+【WTI and Brent rise over $5 intraday】WTI and Brent crude futures each gained more than $5 intraday after reports that Iran's negotiating team halted information exchanges with the US.
+
+---
+
+### 2026-06-01 21:48:21  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields March Higher — The yield on the US 10-year Treasury note climbed to 4.5% on Monday, extending May's nearly 6-basis-point increase. The move came as oil prices continued to rise after Iranian media reported that Tehran had suspended communications with Washington following attacks in Lebanon and was moving to fully close the Strait of Hormuz. Earlier exchanges of military strikes between the US and Iran had already raised doubts about the prospects for a diplomatic agreement. A prolonged closure of the Strait of Hormuz would add to inflationary pressures by driving energy prices higher, reinforcing expectations that the Fed will keep interest rates elevated for longer. The odds for a rate hike by the Fed in December currently stand above 50%. Separately, former Fed Chair Powell warned that efforts by the Trump administration to pressure the central bank into cutting rates could undermine public confidence in its independence.
+
+---
+
+### 2026-06-01 21:47:58  #其他
+
+【香港釋出“未來智慧物流加速計劃”】香港特區政府1日推出“未來智慧物流加速計劃”（加速計劃），旨在加快各類資訊科技平臺匯入方案落地應用，協助物流企業依託政府或公營機構營運的物流資料平臺，包括港口社群系統及香港國際機場貨運資料平臺，提升行業數字化水平。 特區政府運輸及物流局發言人表示，部分物流企業尤其是中小型企業數字化水平偏低，難以有效運用現有物流資料平臺。特區政府期望透過加速計劃，鼓勵業界研發創新資訊科技平臺匯入方案，協助企業跨越數字鴻溝，擴大物流資料平臺的行業應用覆蓋面，進一步提升香港物流業競爭力，助力香港打造國際智慧物流樞紐。 為持續推進香港物流業數字化發展，特區政府財政司司長在發表2026/2027財政年度特區政府財政預算案時宣佈，將在“第三方物流服務供應商資助先導計劃”下設立加速計劃，目標惠及100家物流企業。 納入白名單的方案，將被認定為技術可行、具備實用性，可有效助力物流企業對接使用指定物流資料平臺。有意向的第三方物流服務供應商可選用相關方案，透過加速計劃申請資助，用於訂購及應用有關方案。 目前加速計劃首階段白名單申請已開啟，首輪申請截止時間為本月30日，申請均需經過初步評審、技術評審面試、最終審批的三層評審機制。（新華社）
+
+---
+
+### 2026-06-01 21:47:53  #市場 #國際
+
+布倫特原油、美國原油期貨上漲超5美元，此前伊朗塔斯尼姆通訊社稱伊朗談判團隊已停止與美國交換資訊。
+
+---
+
+### 2026-06-01 21:47:35  #MKT News #Important #MU.O
+
+Micron Technology (MU.O) shares hit an all-time high of $1,036.80.
+
+---
+
+### 2026-06-01 21:46:56  #MKT News #Commodities #Energy
+
+RIA Novosti reports Russian authorities are preparing a new package of measures to secure domestic supplies.
+
+---
+
+### 2026-06-01 21:46:43  #市場
+
+哥倫比亞國際債券上漲，右翼候選人在總統選舉首輪投票中勝出後，2042年到期的債券價格上漲3美分。
+
+---
+
+### 2026-06-01 21:46:22  #國際
+
+俄羅斯新聞社RBC援引訊息人士報道，俄羅斯當局正準備推出一攬子新措施，以保障國內供應穩定。
+
+---
+
+### 2026-06-01 21:46:14  #MKT News
+
+Al Jazeera reported the Israeli military said it intercepted three rockets launched from Lebanon.
+
+---
+
+### 2026-06-01 21:46:09  #國際
+
+據伊朗塔斯尼姆通訊社6月1日報道，伊朗官員表示，以色列必須立即停止在黎巴嫩和加沙地帶的軍事行動，並從黎巴嫩撤出。在此要求得到滿足前，伊朗不會舉行任何談判。（新華社）
+
+---
+
+### 2026-06-01 21:45:47  #公司 #市場 #國際
+
+哥倫比亞總統選舉第一輪投票結果出爐後，哥倫比亞國家石油公司（Ecopetrol）股票在美國早盤交易中上漲超10%。
+
+---
+
+### 2026-06-01 21:45:46  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，海天網路漲107.53%，聲網漲10.24%，復朗集團漲10.00%，蔚來漲6.52%，小鵬汽車漲6.75%。
+
+---
+
+### 2026-06-01 21:45:39  #國際
+
+【伊朗談判代表團成員：伊方正審議美新提議 尚未作出回應】總檯記者當地時間6月1日獲悉，伊朗談判代表團的媒體團隊成員阿賈魯表示，美國的新提議正在由伊朗最高國家安全委員會及相關部門審議。他表示，一份文字已透過調解方送達伊朗，但伊朗尚未對美國的新提議作出回應，且美方可能會對文字進行其他修改，並提出其他問題。阿賈魯表示，伊朗尚未對美國的新文字作出回應，因為伊朗存有一些顧慮，這些顧慮必須得到解決，才能讓伊朗從談判中獲益。（央視新聞）
+
+---
+
+### 2026-06-01 21:45:16  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose above $95/bbl, gaining 5.29% intraday.
+
+---
+
+### 2026-06-01 21:45:16  #經濟數據 #美國
+
+【美國5月標普全球製造業PMI終值55.1 前值55.3】美國5月標普全球製造業PMI終值55.1，前值55.3。
+
+---
+
+### 2026-06-01 21:45:14  #國際
+
+美國5月份製造業採購經理指數報55.1，初步資料為55.3。
+
+---
+
+### 2026-06-01 21:45:08  #MKT News #Important
+
+US S&P Global manufacturing PMI (final) for May 55.1, prior 55.3.
+
+---
+
+### 2026-06-01 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Markit Manufacturing PMI Final (May) | actual 55.1 | previous 55.3
 
 ---
 
@@ -21246,101 +21468,5 @@ According to Fox News, Trump said an agreement with Iran is very close and that 
 ### 2026-05-31 08:53:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
 
 【US, UK, Australia announce plans to develop weapons for unmanned submersibles】At the Shangri-La Dialogue (May 29-31 in Singapore), UK Defence Secretary John Healey said the UK will work with the United States and Australia under the trilateral security partnership to jointly develop new weapons for unmanned submersibles. The UK will allocate £150m (about $200m) to the project. The announcement builds on the 2021 AUKUS pact, under which the US and UK agreed to help Australia build nuclear-powered submarines—a move that has prompted regional concern; the IAEA warned it could set a dangerous precedent and trigger a chain reaction.
-
----
-
-### 2026-05-31 08:47:43  #MKT News
-
-【China winter wheat mechanized harvest at 18.18%; progress accelerating】The Ministry of Agriculture and Rural Affairs reported nationwide winter wheat mechanized harvest at 18.18%. Clearing skies and rapidly rising temperatures have dried fields that were waterlogged by multiple rounds of heavy rain, improving conditions for machinery and accelerating mechanized harvesting across major producing regions.
-
----
-
-### 2026-05-31 08:45:13  #其他
-
-【收穫進度18.18% 全國冬小麥機收進度逐步加快】據農業農村部最新小麥機收進度，目前，全國已收穫小麥6168萬畝，收穫進度18.18%。安徽麥收進度過兩成，河南過一成半，陝西近一成，江蘇、山西零星收穫，湖北、四川麥收進入掃尾階段。
-
----
-
-### 2026-05-31 08:44:49  #其他
-
-【歐冠再奪冠巴黎多地騷亂】當地時間5月30日晚，北京時間今天（5月31日）凌晨，法國巴黎聖日耳曼隊在點球大戰中戰勝英超勁旅阿森納隊，連續第二年歐冠奪冠。賽後，巴黎多地球迷慶祝活動也連續第二年演變為騷亂。有人在街頭縱火，與警方發生衝突，甚至襲擊警局。一些車輛遭到破壞，多家店鋪被打砸甚至遭洗劫。據法國內政部資料，巴黎警方已逮捕283人，全國範圍內則有400多人被抓。巴黎7名警察受傷，其中一人傷勢較重。鑑於法國大型賽事常伴隨暴力衝突，此次法國全國共部署了2.2萬名警察及憲兵以維持秩序，其中約8000人負責巴黎及其周邊地區。去年，巴黎聖日耳曼隊歐冠奪冠時就曾爆發大規模騷亂，導致2人死亡、約200人受傷。（CCTV國際時訊）
-
----
-
-### 2026-05-31 08:44:11  #其他
-
-【寧夏全域聯動加快推進藥品全品種全過程資訊化追溯】者30日從藥監局獲悉，寧夏全域聯動加快推進藥品全品種全過程資訊化追溯，全面構建藥品“來源可查、去向可追、責任可究”的全鏈條資訊化追溯體系，切實保障人民群眾用藥安全。寧夏藥監局明確要求，2026年10月底前寧夏零售藥店及二級以上醫療機構賦碼藥品入出庫掃位元速率、資料上傳率均達95%以上；12月底前民營醫療機構、鄉鎮衛生院、村衛生室等全面完成追溯體系建設。（中新網）
-
----
-
-### 2026-05-31 08:36:52  #其他
-
-市場訊息：軟銀公佈法國大型人工智慧資料中心專案規劃。
-
----
-
-### 2026-05-31 08:31:56  #國際
-
-【美英澳宣佈將為無人潛航器研製新型武器】第23屆香格里拉對話會5月29日起至31日在新加坡舉行。英國國防大臣約翰·希利在香格里拉對話會期間宣佈，英國計劃與美國、澳大利亞在所謂的“美英澳三邊安全夥伴關係”框架下，共同為無人潛航器研製新型武器。希利稱，英國將為該專案撥款1.5億英鎊、約合2億美元。（央視新聞）
-
----
-
-### 2026-05-31 08:30:17  #焦點 #國際
-
-【知情人士：特朗普收緊伊核協議框架相關條款】據三位知情官員透露，特朗普收緊了一份旨在平息伊朗相關衝突的意向協議條款，並將修訂後的方案送交伊朗方面審議。目前尚不清楚協議文字具體作出了哪些修改。兩名官員表示，特朗普對協議中擬解除伊朗資產凍結的相關內容存有異議。一名官員稱，伊朗遲遲未就美方方案作出回應，也讓特朗普頗為不滿。美方這份方案經由巴基斯坦等多方斡旋方最終擬定。
-
----
-
-### 2026-05-31 08:28:12  #國際
-
-【颱風“薔薇”已加強為颱風級 今夜至明夜東海等部分海域有大風】今年第6號颱風“薔薇”已於今天（5月31日）凌晨由強熱帶風暴級加強為颱風級，早晨5時其中心位於菲律賓馬尼拉東北方向約1010公里的洋麵上，就是北緯20.4度、東經128.3度，中心附近最大風力有12級（33米/秒），中心最低氣壓為975百帕，七級風圈半徑為350—430公里，十級風圈半徑為140—160公里。（央視新聞）
-
----
-
-### 2026-05-31 08:27:23  #MKT News #Important #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-The New York Times, citing three officials, reports President Trump tightened the terms of a potential framework to end a war with Iran and sent the revised proposals back to Iran for consideration.
-
----
-
-### 2026-05-31 08:25:17  #MKT News
-
-【Shanxi launches tough provincewide coal-mine safety rectification campaign】Shanxi held a provincial safety deployment meeting on May 30; provincial Party deputy secretary and governor Lu Dongliang attended. Authorities ordered an urgent, provincewide special rectification of coal-mine safety risks, insisting on strict implementation of the province’s "eight hard measures" for mine safety. The campaign will focus on mines with the most acute risks and adopt a "zero tolerance" stance to precisely inspect and crack down on concealed working faces, falsified safety monitoring, illegal private mining beyond layers and boundaries, unlawful subcontracting, and failures to implement major-disaster controls. The province pledged full cooperation with the State Council accident investigation to identify causes and responsibilities of local governments, industry regulators and enterprises, and to remedy weak safety culture, weak legal awareness, failures in "key-person" accountability, insufficient regulatory penetration and lax grassroots inspections.
-
----
-
-### 2026-05-31 08:20:55  #宏觀
-
-【山西：動真碰硬開展全省煤礦安全風險隱患專項整治行動】5月30日，山西省安全生產暨煤礦安全風險隱患專項整治行動部署會議召開，省委副書記、省長盧東亮出席並講話。會議指出，代價不能白付，教訓必須汲取，全省各級各部門都要以案示警、知恥後勇，時刻繃緊安全生產這根弦，切實增強抓好安全生產的緊迫感、責任感、使命感。要始終堅持人民至上、生命至上，以猛藥去痾、刮骨療毒的決心，深挖徹查全省煤礦領域安全風險隱患，推動礦山安全“八條硬措施”硬落實。要聚焦問題最突出、風險最集中的煤礦，以“零容忍”態度精準排查、重拳打擊隱蔽工作面、安全監控造假、超層越界私挖亂採、違規分包轉包、重大災害治理不落實等違法違規行為。要全力配合國務院事故調查，查清查透事故原因，查清查透屬地管理、行業監管和企業責任，著力糾治安全發展理念樹得不牢、法治意識淡薄、“關鍵人”責任不落實、安全監管穿透力不夠、基層執法檢查“寬鬆軟”等突出問題。要把重大隱患當成事故來抓，強化進場監管、下井監管、全方位監管，從嚴落實安全生產責任，切實提升專項整治質效，從根本上扭轉煤礦安全生產事故多發的被動局面，重塑“安全為本、廉潔為基、綠色引領、數字賦能”的山西煤炭產業生態。（山西日報）
-
----
-
-### 2026-05-31 08:14:46  #公司
-
-【上藥優品與騰訊健康、華瓴科技達成戰略合作】2026年5月30日，上海上藥優品科技有限公司（簡稱“上藥優品”）與騰訊健康、華瓴科技在北京正式簽署三方戰略合作協議。三方宣佈將圍繞“藥企—藥房—患者”全鏈路數字化服務展開深度協作，共同探索醫藥產品在數字時代的發展新模式，打造“網際網路+醫藥健康”創新標杆。
-
----
-
-### 2026-05-31 08:12:29  #焦點 #國際
-
-市場訊息：特朗普收緊伊核協議框架相關條款。
-
----
-
-### 2026-05-31 08:11:56  #國際
-
-市場訊息：英國外交大臣將出訪印度。
-
----
-
-### 2026-05-31 08:09:33  #其他
-
-【超聚變智慧製造園區及研發中心專案開工】5月29日，超聚變智慧製造園區及研發中心在鄭州航空港經濟綜合實驗區科技產業園開工建設。該專案與位於鄭州市鄭東新區的超聚變總部基地直線距離僅26公里，形成了“東區總部、港區研發智造”的協同聯動格局。（河南釋出）
-
----
-
-### 2026-05-31 08:07:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Crew releases radio recordings as US and Iran continue standoff over merchant transit】Recordings from the crew of a merchant vessel trapped near the Strait of Hormuz show Iran's Islamic Revolutionary Guard Corps navy and US aircraft radioed warnings to ships on the evening of the 30th local time. The IRGC told vessels in the Persian Gulf and Gulf of Oman the strait remains closed and only ships granted IRGC permission and navigating on Iran-designated routes may transit, warning violations would severely endanger navigation. The IRGC added any US Navy attempt to interfere with management of the strait or disrupt shipping order would be met with severe military response.
 
 ---

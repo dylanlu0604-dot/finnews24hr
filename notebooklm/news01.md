@@ -1,13 +1,229 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 08:06:10_
-_本檔包含 3716 則快訊，約 702888 字_
+_更新時間：2026-06-07 08:52:04_
+_本檔包含 3704 則快訊，約 704338 字_
+
+---
+
+### 2026-06-07 08:51:29  #公司
+
+【傑瑞股份：燃氣輪機發電機組銷售訂單已陸續進入交付階段】傑瑞股份6月7日在互動平臺表示，截至5月29日，公司股東總戶數48024戶，機構7573戶。自2025年第四季度以來，公司新取得的燃氣輪機發電機組銷售訂單已陸續進入交付階段。在燃氣輪機主機供應方面，公司注重構建全球化供應鏈體系，已經與多家廠商建立了長期穩定的合作關係。
+
+---
+
+### 2026-06-07 08:50:50  #其他
+
+【國開行：前4月發放4406億元貸款支援基礎設施建設】基礎設施是經濟社會發展的戰略性、基礎性、先導性支撐，是國民經濟執行、民生保障、產業發展的底層依託。今年以來，國家開發銀行加大力度支援基礎設施建設，1至4月共發放基礎設施貸款4406億元。（央視新聞）
+
+---
+
+### 2026-06-07 08:50:14  #公司
+
+【傑瑞股份：目前公司產能利用率較高，生產進度正在緊張有序地推進】傑瑞股份6月7日在互動平臺表示，目前公司產能利用率較高，生產進度正在緊張有序地推進，具體業績情況請以公司定期報告為準。
+
+---
+
+### 2026-06-07 08:46:48  #國際
+
+【美法官下達禁令 叫停特朗普政府食品券申領附加條件】一名聯邦法官於當地時間週五站在20個民主黨州一邊，叫停了特朗普政府的一項舉措。該舉措試圖強制各州滿足多項條件，才能領取數十億美元的補充營養援助計劃（食品券）資金。 美國地區法官Myong Joun就此項針對食品券資金申領附加條件的訴訟，下達了臨時禁令。附加條件涉及“性別理念”、“移民政策”，以及保障女性與女童平等“體育賽事機會”等相關限制。 法官表示，後續將出具備忘錄闡釋裁決理由。 各州在訴訟中主張，美國農業部設定了多項違憲且違法的阻礙，割裂國會設立的福利專案與依賴該專案的各州之間的聯絡，危及重要的營養補助、農業研究工作，以及全國食品供應鏈和社群安全。
+
+---
+
+### 2026-06-07 08:42:38  #市場
+
+【雞蛋價格同比大漲近80% 創下近5年同期最高】近期很多消費者反映，雞蛋價格上漲明顯。在北京新發地農產品批發市場的禽蛋交易區，六月初每斤雞蛋的批發價格已經達到5.5元，比五月初上漲了26%左右，同比漲幅更是接近80%，創下近5年同期最高。市場負責人表示，蛋價大幅上漲，除了端午節需求的拉動，供應也出現了階段性偏緊。據農業農村部監測，由於雞蛋價格明顯上漲，帶動蛋雞養殖走出了虧損期，5月份全國大部分蛋雞養殖場戶實現了盈利，每斤雞蛋盈利約0.5元～1.2元。 (央視財經)
+
+---
+
+### 2026-06-07 08:42:30  #公司
+
+【近一週漢鍾精機獲調研機構數最多】近一週機構調研個股有320只，漢鍾精機獲調研機構數最多。據證券時報·資料寶統計，近一週，漢鍾精機獲182家機構調研。TCL科技、華潤微、怡合達、強一股份等個股均有100家以上機構參與調研。
+
+---
+
+### 2026-06-07 08:41:46  #其他
+
+【四川今年出入境旅客突破300萬人次】6月5日，記者從四川出入境邊防檢查總站獲悉，今年以來該總站服務保障出入境旅客已突破300萬人次，同比增長17.1%，較去年提前30天達到此量級，創6年同期新高。出入境航班2萬餘架次，同比增長5%，出入境人員、航班量居中西部地區對外開放航空口岸第1位、全國對外開放航空口岸第4位，僅次於北京、上海、廣州。
+
+---
+
+### 2026-06-07 08:41:08  #其他
+
+【特銳德釋出全球首款面向算力中心的高壓交直流預製艙供電站“算電島”】據青島日報訊息，當AI算力需求井噴，電力基礎設施也亟需創新升級。6月6日下午，特銳德釋出全球首款面向算力中心的高壓交直流預製艙供電站——“算電島”。算電島不再是傳統意義上的變電站，而是一套將110千伏或220千伏高壓電直接接入，經過高壓固態裝置和直流母線，最終以800伏直流電直供機房的預製艙式供電站。
+
+---
+
+### 2026-06-07 08:41:05  #其他
+
+【四川：到2028年，在全省重點產業園區佈局建設產業計量測試中心10個以上】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，強化質量和檢驗檢測支撐。聚焦優勢產業及重點產業鏈，提能佈局一批國家和省級質檢中心、產業計量測試中心，培育一批規模效益好、技術水平高、創新能力強、品牌信譽優的綜合性檢驗檢測認證龍頭企業。加強質量基礎設施建設，引導各類檢驗檢測認證機構入駐“川質通”一站式服務平臺。鼓勵檢驗檢測認證領域優質技術機構、企業爭創四川省天府質量獎，持續提升質量管理水平。到2028年，在全省重點產業園區佈局建設產業計量測試中心10個以上。
+
+---
+
+### 2026-06-07 08:40:06  #其他
+
+【四川：鼓勵圍繞康養、體育、文旅等領域，深入實施消費品“三品”專項行動】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，推動融合應用場景創新。鼓勵圍繞設計、採購、生產、物流、運營、售後等環節，打造協同創新、智慧倉儲物流、系統整合產線、全鏈路缺陷管控、運營監測管理等面向生產需求的融合應用場景。鼓勵圍繞康養、體育、文旅等領域，深入實施消費品“三品”專項行動，打造智慧穿戴、智慧家庭、綠色出行、健康管理等面向生活需求的融合應用場景。圍繞新興產業、未來產業培育，組織釋出“人工智慧+”、“智改數轉”、低空經濟等領域場景需求清單，持續釋放場景需求，促進新技術新產品規模化商業化應用。
+
+---
+
+### 2026-06-07 08:39:16  #其他
+
+【四川：在電子資訊、裝備製造、食品輕紡等領域培育一批具有全國影響力的服務型製造龍頭企業】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，培育服務型製造龍頭企業及領軍品牌。在電子資訊、裝備製造、食品輕紡等領域培育一批具有全國影響力的服務型製造龍頭企業。深入開展“天府益企·一起益企”中小微企業服務行動，營造大中小企業協同創新、資源共享、融合發展的產業生態。支援市（州）因地制宜建立製造業重點產業鏈服務型製造資源庫，健全服務型製造公共服務平臺，培育引進一批服務型製造轉型服務商，為企業“製造+服務”轉型提供支撐。支援服務型製造龍頭骨幹企業提高品牌設計、市場推廣、品牌維護等品牌管理運作水平，打造一批服務型製造領軍品牌。
+
+---
+
+### 2026-06-07 08:38:43  #其他
+
+【四川：鼓勵製造業企業將服務貫穿於生產製造全流程和產品全生命週期】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，發展“產品+服務”全生命週期管理。鼓勵製造業企業將服務貫穿於生產製造全流程和產品全生命週期，完善整合化、網路化、智慧化全生命週期管理系統，開展研發設計、資料分析、生產製造、安裝除錯、狀態預警、產品升級、售後服務等全鏈條服務，延長服務鏈，提升價值鏈。推動產品與服務全生命週期整合，以資料為驅動，運用數字孿生、大資料分析、物聯網等新一代資訊科技提高生產資料分析能力，提升全生命週期服務水平。
+
+---
+
+### 2026-06-07 08:37:31  #其他
+
+【四川：支援製造業鏈主企業響應國家“一帶一路”戰略，抱團出海、開拓全球市場】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，發展“整機+服務”總整合總承包。鼓勵裝備製造、能源化工等領域龍頭企業圍繞國省重大工程、重點專案，依託技術優勢與核心裝備，整合供應商、承包商、服務提供商、科研機構等資源，建設“硬體+軟體+平臺+服務”整合系統，為客戶提供勘察設計、裝置研製、工程施工、安裝除錯、運營維護等一體化系統解決方案。支援軌道、汽車、電力等行業龍頭企業發展建設-移交（BT）、建設-運營-移交（BOT）、建設-擁有-運營（BOO）、交鑰匙工程（EPC）等多種形式的總承包服務。支援製造業鏈主企業響應國家“一帶一路”戰略，抱團出海、開拓全球市場。
+
+---
+
+### 2026-06-07 08:36:52  #其他
+
+【四川：引導製造業企業建立使用者反饋響應機制】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，引導製造業企業建立使用者反饋響應機制，增強資料實時共享和分析預警能力，透過反饋分析開展技術迭代，促進提升服務質量與裝置可靠性，增強市場適應力。支援製造業企業完善銷售網路，發展直播帶貨、跨境電商、元宇宙營銷展示等銷售形態，拓展銷售渠道。緊盯裝備製造、電子資訊、汽車、家電家居等重點行業，推動市場服務標準化、數字化、便民化升級，引導企業拓展延保維保、上門檢修、遠端診斷、廢舊回收等增值服務，完成需求響應、服務派單、進度追溯、評價反饋的服務流程閉環管控。
+
+---
+
+### 2026-06-07 08:36:01  #其他
+
+【四川：到2028年，培育工業設計專業職稱人員200名以上，培育省級及以上工業設計中心25家以上】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，實施“設計四川·製造業設計能力提升行動”。引導製造業企業設立工業設計部門，建立國、省、市級工業設計中心，以設計創新引領製造業產品附加值和品牌影響力提升。鼓勵有條件的市（州）規劃建設特色鮮明的工業設計產業園和創意設計空間，推動工業設計產業化、叢集化發展。提升設計服務水平，補齊專業諮詢、模型打樣、中試服務等生態短板，舉辦工業設計賽事活動，推動設計創新、人才培育和成果轉化，助力製造業“增品種”“提品質”“創品牌”。到2028年，培育工業設計專業職稱人員200名以上，培育省級及以上工業設計中心25家以上。
+
+---
+
+### 2026-06-07 08:35:14  #其他
+
+【四川：加強服務型製造技術攻關與標準化建設】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，加強服務型製造技術攻關與標準化建設。堅持科技創新與產業創新深度融合發展，引導製造業企業積極參與國家服務型製造關鍵共性技術攻關，突破提升融合需求感知、整合研發設計、協同交付部署、智慧運營監測管理等全鏈條共性技術。將服務型製造關鍵技術攻關納入全省重大科技專項和重點產業鏈科技攻關專案支援範圍。加強服務型製造相關標準規範宣貫培訓，支援企業、協會（聯盟）、科研機構參與服務型製造國家、行業標準制修訂。
+
+---
+
+### 2026-06-07 08:34:43  #其他
+
+【四川：到2028年，培育定製化生產重點企業500家以上】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，發展“需求+”定製化生產。引導製造業企業緊跟市場動態和消費需求，結合人工智慧等新技術應用，快速響應市場需求，發展基於使用者參與選配的小批次、多品種、快交付定製化生產模式，提升供需適配性，培育一批“四川定製”知名品牌。聚焦智慧、綠色、健康、高階、個性等新消費趨勢，支援家電、傢俱、食品、紡織、數碼等領域企業加強與網際網路平臺合作，精準區分使用者群體和消費需求，推廣反向定製模式，以需求引領供給創新，實現以銷定產、以需定研、以市定鏈，打造一批消費名品。到2028年，培育定製化生產重點企業500家以上。
+
+---
+
+### 2026-06-07 08:34:36  #其他
+
+【四川深入推動服務型製造創新發展】6月5日，記者從省經濟和資訊化廳獲悉，《四川省深入推動服務型製造創新發展行動方案》已於近日印發。《方案》提出，到2028年，四川將建成西部地區服務型製造創新發展引領地。 為進一步補短鍛長建新，《方案》立足工業生產全流程，圍繞製造生產前端（研發設計）、中端（生產製造）、後端（後服務），提出推動服務型製造研發設計能力提升、推動生產製造過程服務化改造、推動企業市場感知與服務能力建設、提升供應鏈執行質效4個重點領域。（四川日報）
+
+---
+
+### 2026-06-07 08:29:23  #其他
+
+【國家醫保局公佈四起藥店騙保典型案例】為進一步深化醫保基金管理突出問題專項整治，2026年，國家醫保局繼續在全國部署開展打擊醫保藥品領域違法違規問題專項行動，不斷淨化醫保基金使用環境。自2026年5月14日起，國家醫療保障局在全國範圍內開展定點零售藥店違法違規使用醫保基金專項飛檢。為強化警示教育，現將專項飛檢中發現的4起典型案例予以公佈。（新華社）
+
+---
+
+### 2026-06-07 08:28:28  #公司 #國際
+
+印度石油公司上調國內民用液化氣價格，每罐液化石油氣漲價 29 印度盧比。
+
+---
+
+### 2026-06-07 08:25:30  #其他
+
+【海南首個全流程智慧採血工作站落地省中醫院】近日，海南省內首個全流程智慧採血工作站在廣東省中醫院海南醫院（海南省中醫院）揭牌啟用。工作站涵蓋智慧採血系統、全自動樣本分揀系統、單樣本氣動物流傳輸系統和全實驗室智慧化流水線，具有人性化、智慧化、整合化的優點，能夠極大提高採血檢驗的效率。
+
+---
+
+### 2026-06-07 08:24:41  #MKT News
+
+【China achieves major breakthrough in clean low-carbon hydrogen–coal co-firing technology】National Energy Group says a domestically developed hydrogen–coal co-firing system has for the first time achieved 50% green-hydrogen co-firing by heat share and 100% pure-hydrogen combustion on a test rig. The project uses an indigenous low‑NOx hydrogen–coal burner and a full-process safety protection system from hydrogen transport to furnace; with green hydrogen blended, coal savings and CO2 reductions can reach up to 50%, and NOx formation was effectively controlled.
+
+---
+
+### 2026-06-07 08:24:14  #市場
+
+【加密貨幣全線下跌】6月7日早間，加密貨幣市場全線下跌。截至發稿，比特幣跌0.48%報60757美元；以太坊跌1.29%；艾達幣微跌0.04%。CoinGlass資料顯示，過去24小時，加密貨幣市場超13萬人爆倉，爆倉總金額4.25億美元。
+
+---
+
+### 2026-06-07 08:23:38  #公司
+
+【晶片製造有新突破 光晶片壓印，成本僅DUV的1/10】6月5日，璞璘科技釋出訊息稱，公司與深圳力策合作採用真空氣壓式奈米壓印方案實現8英寸光晶片量產突破：依託璞璘科技自主研發的PL-AS真空氣壓式晶圓級奈米壓印光刻裝置，配合定製化雙層壓印膠材料體系與核心工藝，完全繞開深紫外（DUV）光刻路線，成功實現8英寸光晶片晶圓可規模化量產，並將晶片製造成本壓縮至傳統DUV方案的十分之一。A股中，奈米壓印相關概念股主要有蘇大維格、美迪凱、利和興、晶方科技、京華鐳射、水晶光電等。（證券時報）
+
+---
+
+### 2026-06-07 08:23:17  #公司
+
+【海南公積金將集中清理 繳存人“一人多戶”賬戶】記者6月6日從海南省住房公積金管理局獲悉，為規範住房公積金個人賬戶管理，提升資料質量，該局將開展繳存人“一人多戶”賬戶清理工作。 據介紹，省住房公積金管理局在開展專項排查中發現部分繳存人存在“一人多戶”（同一證件號碼開設多個不同姓名賬戶）的情況，根據《住房公積金管理條例》規定，每個職工只能有一個住房公積金賬戶。 省住房公積金管理局已釋出公告提醒，6月6日至6月20日，相關繳存單位及繳存人要主動核實賬戶明細資訊。個人賬戶資訊有誤的，由繳存單位或繳存人持本人身份證件材料、社保繳費記錄、勞動合同、單位出具的繳存情況說明等相關證明材料，前往住房公積金繳存地辦事大廳辦理賬戶資訊變更手續。符合銷戶提取條件的，可同步申請辦理。（海南日報）
+
+---
+
+### 2026-06-07 08:22:32  #MKT News #Market Themes #Chip Wars
+
+【Pulin Technology says nanoimprint enables 8‑inch photonic wafer mass production; manufacturing cost cut to 1/10 of DUV】June 5 — Pulin Technology said it and Shenzhen Lice used a vacuum air‑pressure wafer‑level nanoimprint (PL‑AS) plus a custom dual‑layer imprint resist and core process to achieve scalable 8‑inch photonic‑chip wafer production, fully bypassing deep‑UV (DUV) lithography and reducing chip manufacturing cost to one‑tenth of comparable DUV routes. A‑share nanoimprint‑related names cited include Suda Weige, Medikai, Lihexing, Jingfang Technology, Jinghua Laser and Crystal Optoelectronics.
+
+---
+
+### 2026-06-07 08:20:30  #其他
+
+【首批13家龍頭企業入駐前海深港匯】日前，首批13家聚焦新質生產力賽道的龍頭企業正式入駐前海深港匯雙向總部基地，依託前海香港雙總部架構，開啟深港協同、全球佈局的全新發展模式。前海深港彙總部基地由深港共建，憑藉優質的辦公配套、暢通的跨境要素和共享的產業資源，成為企業深耕創新、佈局全球的重要平臺。
+
+---
+
+### 2026-06-07 08:20:09  #國際
+
+【美以伊衝突百日，海灣國家加速戰略轉向】當地時間6月7日，本輪美以伊衝突進入第100天。過去100天裡，從美伊博弈持續升級到霍爾木茲海峽局勢升溫，從全球能源市場劇烈波動到傳統安全架構面臨全新考驗，中東地區經歷了一輪劇烈動盪。這場危機的影響早已超出軍事層面，開始深刻影響海灣阿拉伯國家的發展戰略和地區秩序演變。對於長期依賴穩定環境和能源財富實現經濟發展的海灣國家而言，這100天不僅是一場安全危機，更促使他們重新思考自身未來的發展模式和戰略定位的重大考驗，並推動這些國家加速戰略轉向。（央視新聞）
+
+---
+
+### 2026-06-07 08:19:44  #其他
+
+【靳磊會見中國農業銀行行長王志恆】6月5日，深圳市委書記靳磊會見中國農業銀行黨委副書記、行長王志恆一行。靳磊感謝中國農業銀行長期以來對深圳發展作出的重要貢獻，表示深圳正深入貫徹落實習近平總書記、黨中央決策部署，堅定不移深化改革開放、推進創新發展，加快建設中國特色社會主義先行示範區，建立社會主義現代化強國的城市範例。深圳經濟社會發展保持穩中有進、向新向優向好的態勢，與農行發展有許多契合點。面向未來，希望進一步深化在科技金融、普惠金融、涉農金融、跨境金融、金融資產投資、城市更新、新型基礎設施等領域務實合作，推動取得更多豐碩成果，實現互利共贏。（深圳特區報）
+
+---
+
+### 2026-06-07 08:18:22  #公司 #市場 #國際
+
+【擔憂韓國股市過熱 多頭尋求持倉對沖】市場對韓股的樂觀情緒逐漸消退，謹慎心態抬頭。部分投資者擔憂本輪漲勢過熱過快，開始對沖持倉、減持扎堆交易標的。 對沖基金Golden Horse已降低風險敞口，並增配衍生品對沖工具；英國保誠投資則減持儲存晶片與晶圓製造企業個股，向人工智慧產業鏈下游佈局。對安碩MSCI韓國指數ETF期權的分析顯示，投資者紛紛買入看跌避險合約。該ETF上週五在美國市場大跌14%。 上述操作反映出全球資管機構面臨的困境。三星電子、SK海力士兩大晶片巨頭推動韓國綜合股價指數年內漲幅超90%，投資者雖依舊看好兩家企業，但在新增資金佈局上日趨謹慎，並預留現金伺機佈局其他市場。 受加息預期影響，美股科技股上週五遭遇拋售，可見市場情緒轉向後，熱門交易頭寸會迅速瓦解。這一風險或將在韓國股市開盤後傳導至當地市場。 Golden Horse執行合夥人Yi Ling Ong表示：“過去數週，我們已小幅削減整體持倉，併疊加衍生品對沖。”她還稱，本月SpaceX等多起大型IPO將促使機構套現參與新股申購，因此保留部分備用資金實屬穩妥之舉。
+
+---
+
+### 2026-06-07 08:16:13  #MKT News
+
+【Egg prices surge nearly 80% YoY】Wholesale egg prices at Beijing’s Xinfadi hit 5.5 yuan per jin in early June, about 26% higher than early May and nearly 80% year‑on‑year — the strongest same‑period rise in roughly five years. Market officials attributed the jump to Dragon Boat Festival seasonal demand and a temporary tightening of supply. The Ministry of Agriculture and Rural Affairs said higher prices restored profitability for layer farms: most were profitable in May, earning about 0.5–1.2 yuan per jin.
+
+---
+
+### 2026-06-07 08:15:12  #公司
+
+【深圳市委書記靳磊到大疆、邁瑞、優必選等企業調研】據深圳特區報訊息，近日，深圳市委書記靳磊先後到大疆創新科技有限公司、深圳邁瑞生物醫療電子股份有限公司、深圳市優必選科技股份有限公司調研，與企業負責人深入交流，詳細瞭解企業生產經營和創新發展情況，並就進一步做好服務保障，最佳化創新環境和產業生態等聽取意見建議。靳磊表示，深圳是一座創新氛圍濃厚、創新活力澎湃的城市，一批批創新企業茁壯成長，創新產品不斷湧現，成為這座城市的寶貴財富和活力之源，誠摯感謝大家為深圳經濟社會發展作出的重要貢獻。當前，新一輪科技革命和產業變革加速演進，為城市和企業創新發展都帶來了新機遇。深圳正加快打造具有全球影響力的產業科技創新中心，希望大家聚力創新突破，持續提升核心競爭力，開拓更加廣闊的國內外市場，實現更好更大發展。我們將始終與大家同向同行、相互成就，攜手創造新的更大奇蹟。
+
+---
+
+### 2026-06-07 08:13:24  #國際
+
+市場訊息：一名聯邦法官叫停了特朗普政府的相關舉措，該舉措要求各州達標後才能領取數十億美元的食品券補助資金。
+
+---
+
+### 2026-06-07 08:09:15  #其他
+
+【廣州花都推出“賣舊買新”專項購房補貼 購買單套新房最高補2萬元】6月5日，花都區住房和城鄉建設局釋出通知，針對居民個人在區內“賣舊買新”推出專項購房補貼，單套新建商品住宅最高可獲2萬元補貼。 根據《花都區進一步促進房地產市場平穩健康發展若干措施》，2026年5月5日至12月31日，居民在花都區內購買新建商品住宅並完成網籤，且在網籤日前後1年內出售名下本區二手住宅的，可按所購新房貸款總額的1%申領補貼。貸款總額不足200萬元的，按實際貸款額1%計算；達到或超過200萬元的，按每套2萬元上限補貼。補貼總規模3000萬元，先到先得，用完即止。
+
+---
+
+### 2026-06-07 08:07:43  #其他
+
+馬斯克：最新版 Grok Build 已修復 Grep 超時問題。
 
 ---
 
 ### 2026-06-07 08:02:49  #國際
 
 據報道，特朗普首屆任期內，美國環境保護署大力推進逐步廢止動物實驗，這項工作在拜登任內陷入停滯。本週該部門宣佈在全面取消動物實驗的工作上取得新進展。
+
+---
+
+### 2026-06-07 08:02:04  #公司 #市場
+
+【“開大關小”，ZARA重倉上海“二次創業”】昨天，有著“上海年輕人最佳約會地之一”之稱的淮海中路陝西南路路口人流湧動，ZARA全新旗艦店正式揭幕。ZARA母公司愛特思（Inditex）集團大中華區總裁白晨銘（Eugenio Bregolat）在開業儀式上，釋放品牌深耕中國市場的明確訊號：“2026年恰逢ZARA進駐中國內地20週年，新店是品牌在中國市場發展歷程中的重要里程碑。未來我們將持續最佳化上海及中國市場的消費體驗，為消費者帶來更具靈感和沉浸感的品牌空間。”近年來，電商浪潮席捲全球，ZARA在內的一眾快時尚巨頭不得不收縮戰場。資料顯示，2025年全年，ZARA在華關停超10家低效門店，2026年1月單月關閉7家商場門店，閉店公告統一標註“集團業務最佳化調整”。閉店同時，旗艦店佈局加速。2025年，在南京新街口、上海南京路步行街ZARA先後落地超2000平方米大型門店，6月6日開業的這家新店也是這一轉型戰略的又一最新落地。Inditex集團財報資料對映出這一戰略：近三年，集團全球門店總數縮減超13%，但門店總經營面積逆勢上漲2%。（解放日報）
 
 ---
 
@@ -22172,293 +22388,5 @@ China A-share memory-chip sector opened lower; Jiangbolong fell more than 5%, Gi
 ### 2026-06-05 09:28:32  #MKT News #Star Stocks #AAPL.O #Impact bullish
 
 【Details of Apple's first OLED MacBook Pro leak; may be named MacBook Ultra】Market research firm projects the hybrid OLED notebook-panel market could reach USD 4bln by 2026, driven by expected demand for Apple’s next-generation OLED MacBook Pro, possibly named MacBook Ultra, which would be Apple’s first MacBook Pro with an OLED display. Analysts say Apple’s adoption should boost notebook OLED panel revenue and prompt other makers to shift to similar designs. Forecasts put hybrid OLED at 12.6% of global OLED notebook shipments in 2026, rising to 89.5% by 2033.
-
----
-
-### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
-
-Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
-
----
-
-### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
-
----
-
-### 2026-06-05 09:27:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share innovative drug sector opened higher; Meinuohua gained over 4%, Hanyu Pharmaceutical rose more than 2%; Hengrui Medicine, Aimeike and Chengdu Xiandao also advanced.
-
----
-
-### 2026-06-05 09:27:36  #市場
-
-創新藥板塊多股高開，美諾華漲超4%，翰宇藥業漲超2%，恆瑞醫藥、愛美客、成都先導等跟漲。
-
----
-
-### 2026-06-05 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-China's Shanghai Composite Index opened down 12.95 points (-0.32%) at 4,044.83 on Friday, June 5; Shenzhen Composite Index opened down 65.88 points (-0.42%) at 15,595.70; CSI 300 Index opened down 17.78 points (-0.36%) at 4,886.96; ChiNext Index opened down 8.93 points (-0.22%) at 4,079.95; STAR 50 Index opened down 31.53 points (-1.81%) at 1,706.53.
-
----
-
-### 2026-06-05 09:26:41  #MKT News #XAUUSD #Impact bearish
-
-Spot gold fell back below $4,450/oz, down 0.58% intraday.
-
----
-
-### 2026-06-05 09:26:38  #公司
-
-【潤澤科技成立兩家科技發展公司】企查查APP顯示，近日，河北潤弘科技發展有限公司、河北潤嘉科技發展有限公司成立，註冊資本均為1000萬元，經營範圍均包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，二者皆由潤澤科技間接全資持股。
-
----
-
-### 2026-06-05 09:26:32  #市場 #焦點
-
-現貨黃金失守4450美元/盎司，日內跌0.57%。
-
----
-
-### 2026-06-05 09:26:19  #市場
-
-韓元兌美元貶值1%。
-
----
-
-### 2026-06-05 09:26:06  #國際
-
-泰國尋求在6月前與美國達成貿易協議，目標關稅為10%。
-
----
-
-### 2026-06-05 09:25:25  #市場
-
-臺灣加權股價指數下跌3%至44,285.70點。
-
----
-
-### 2026-06-05 09:25:22  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-A-shares opened lower: Shanghai Composite down 0.32%, Shenzhen Composite down 0.42%, ChiNext down 0.22%.
-
----
-
-### 2026-06-05 09:25:13  #焦點
-
-三大股指低開，滬指跌0.32％，深成指跌0.42％，創業板跌0.22％。
-
----
-
-### 2026-06-05 09:24:45  #央行 #中國央行
-
-央行公開市場今日進行2150億元人民幣七天期逆回購操作，今日逆回購到期1,230億。
-
----
-
-### 2026-06-05 09:24:17  #市場
-
-【港股AI應用股走強 五一視界漲近6%】截至發稿，五一視界(06651.HK)漲5.78%，創夢天地(01119.HK)漲4.41%，速騰聚創(02498.HK)漲1.41%。
-
----
-
-### 2026-06-05 09:23:32  #MKT News #Important #CNH #Impact bullish
-
-PBOC conducted a CNY215 billion 7-day reverse repo today; bids CNY215 billion, allotment CNY215 billion; rate 1.40%, unchanged.
-
----
-
-### 2026-06-05 09:23:25  #央行 #其他
-
-央行逆回購今日淨投放920億元人民幣。
-
----
-
-### 2026-06-05 09:22:48  #央行 #其他
-
-央行進行 2,150 億元 7 天期逆回購操作 操作利率 1.4%。
-
----
-
-### 2026-06-05 09:22:18  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Indonesia's economic ministry said it is seeking an exemption from U.S. Section 232 tariffs for copper cathode exports produced in Indonesian free ports.
-
----
-
-### 2026-06-05 09:22:07  #市場 #焦點
-
-菜油連續主力合約日內跌2%，現報10116.00元。
-
----
-
-### 2026-06-05 09:22:04  #宏觀 #國際
-
-菲律賓將持續出臺定向調控舉措以穩定物價。
-
----
-
-### 2026-06-05 09:22:03  #MKT News #Market Regions #Greater China #01779.HK #Impact bullish
-
-Tianchen Bio (01779.HK) opened 50.22% higher on its Hong Kong debut. IPO priced at HKD 96.06 per share and was oversubscribed more than 4,700 times. Yesterday’s grey-market trading closed up 57.09%.
-
----
-
-### 2026-06-05 09:21:41
-
-港股恒指低開跌0.27％，國企指數跌0.1％，科指開跌0.31%，半導體板塊多股開跌。
-
----
-
-### 2026-06-05 09:21:35  #市場
-
-大金重工上市首日開盤報66.4港元，與發行價66.40港元持平。
-
----
-
-### 2026-06-05 09:21:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #Hang Seng China Enterprises Index
-
-Hong Kong's Hang Seng Index opened down 67.28 points, or 0.27%, at 25,186.12 on Friday, June 5; the Hang Seng Tech Index opened down 15.43 points, or 0.31%, at 4,959.93; the Hang Seng China Enterprises Index (HSCEI) opened down 8.36 points, or 0.10%, at 8,493.55; the Hang Seng Red Chip Index opened down 25.99 points, or 0.59%, at 4,394.52.
-
----
-
-### 2026-06-05 09:21:20  #MKT News #Important #Market Themes #Chip Wars #Hang Seng Index #Impact bearish #03986.HK #01347.HK
-
-At the Hong Kong open the Hang Seng fell 0.27% and the Hang Seng TECH fell 0.31%. Semiconductor names led declines: GigaDevice Semiconductor (03986.HK) down 4.13%, Hua Hong Semiconductor (01347.HK) down 3.51%.
-
----
-
-### 2026-06-05 09:20:33  #MKT News #Important #Commodities #Industrial Metals
-
-LME tin fell 4.00% on the day to $54,831.15/ton.
-
----
-
-### 2026-06-05 09:19:22  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
-
-MSCI Asia Pacific index fell as much as 2%.
-
----
-
-### 2026-06-05 09:19:02  #MKT News
-
-Indonesia's Ministry of Trade said the statement followed a Paris meeting between Indonesia's chief negotiator on U.S. tariffs and U.S. Trade Representative Greer to discuss Section 301.
-
----
-
-### 2026-06-05 09:18:59  #MKT News #Important #Commodities #Industrial Metals
-
-SHFE tin 2607 weakened sharply intraday, extending losses to 4.04% as the contract tested 423,610 yuan/ton; turnover topped 69 bln yuan. Open interest fell by about 1,600 lots intraday, leaving positions slightly lower.
-
----
-
-### 2026-06-05 09:18:54  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Japan Aims to Support Yen by Strengthening Economy: PM Takaichi — Japanese Prime Minister Sanae Takaichi on Friday said the government seeks to bolster confidence in the yen by strengthening the economy. Addressing parliament, she emphasized policies aimed at boosting domestic investment, fortifying supply chains, and raising Japan’s growth potential, noting that greater international competitiveness would help sustain trust in the currency. Meanwhile, finance minister Satsuki Katayama reiterated that authorities remain ready to act in the forex market if needed and are in close contact with U.S. officials. Japan spent over USD 73 billion between April 28 and May 27 to support the yen, its first intervention since 2024, according to Dow Jones Newswires, underscoring concern that further weakness could lift import costs for food and energy, intensifying pressure on households and businesses.
-
----
-
-### 2026-06-05 09:18:13  #市場
-
-MSCI亞太指數下跌2%至273.09點。
-
----
-
-### 2026-06-05 09:17:57  #MKT News #DXY #Impact bullish #XAUUSD
-
-Indonesia's Ministry of Trade says the U.S. will impose an additional 10% tariff on imports from Indonesia.
-
----
-
-### 2026-06-05 09:17:39  #公司
-
-【比亞迪保險在河北等地區機動車交通事故責任強制保險條款和費率獲批】國家金融監督管理總局釋出關於深圳比亞迪財產保險有限公司河北等地區機動車交通事故責任強制保險條款和費率的批覆， 同意公司在河北、江蘇、浙江（不含寧波）地區使用全國統一的交強險條款、基礎保險費率和相應的費率浮動係數。
-
----
-
-### 2026-06-05 09:17:14  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Stock Exchange Weighted Index fell more than 2%.
-
----
-
-### 2026-06-05 09:16:50  #國際
-
-印度尼西亞經濟部表示，美國將對自印尼進口的商品加徵10%關稅。
-
----
-
-### 2026-06-05 09:16:38  #市場 #觀點 #國際
-
-【中金財富期貨：目前的黃金受制於無法預判的油價因素】以色列從黎巴嫩撤軍，油價明顯回落，目前美伊衝突仍處在特朗普“口頭治理”的階段，特朗普稱“談判順利，協議可能週末達成”。但事實是，美伊衝突持續升級，雙方分歧巨大，美國原油及石油產品庫存驟降至2004年以來最低，5月出口量創紀錄攀升至590萬桶/日，戰略儲備加速消耗。部分業內人士發出警告，若霍爾木茲海峽持續封閉，油價可能上衝到150美元以上，目前的黃金受制於無法預判的油價因素，參與價值不大，建議觀望。
-
----
-
-### 2026-06-05 09:16:28  #市場 #國際
-
-【“賣出印尼”交易席捲市場 總統普拉博沃強硬管控政策加劇擔憂】隨著印尼股市以全球最快的速度暴跌，其貨幣重新整理歷史低點，全球投資者對印尼的信心正在迅速喪失。基準股指在創下歷史新高僅僅五個月後，就已暴跌36%，成為今年以來媒體追蹤的90多個全球指數中表現最差市場。與此同時，印尼盾貶值超過7%，外國投資者已從印尼債券市場撤出數十億美元。對於這個大宗商品資源豐富的國家而言，昔日作為許多新興市場資產配置主力物件的地位發生戲劇性轉變。令投資者感到不安的是總統普拉博沃力推的更加民粹主義和干預主義的政策議程，並有強化趨勢，而過去印尼長期以來被視為對外國投資者友好的國家。管理著約43億美元資產的對沖基金K2 Asset Management的研究主管George Boubouras表示，眼下亞洲最大的交易是“賣出印尼”。在當地投資數十年後，他已於2024年退出所有持倉。“我對印尼沒有任何投資敞口，”他說。“我不會再給他們任何機會了。”印尼盾週四跌破歷史性的18000關口，期權市場也預示著進一步下跌。交易員認為，到12月跌至19000印尼盾的機率約為45%，從現在起的一年後跌至20000印尼盾的機率約為27%。
-
----
-
-### 2026-06-05 09:15:48  #其他
-
-【航行警告！黃海北部實彈射擊】據中國海事局網站訊息，大連海事局釋出航行警告，6月5日10時至16時，和自6月8日14時至10日17時，黃海北部部分海域實彈射擊，禁止駛入。
-
----
-
-### 2026-06-05 09:15:44  #市場
-
-臺灣證交所加權股價指數下跌2%至44,757.09點。
-
----
-
-### 2026-06-05 09:15:33  #市場
-
-【人民幣兌美元中間價報6.8157，較上日調高46點】人民幣兌美元中間價報6.8157，較上日調高46點。
-
----
-
-### 2026-06-05 09:15:28  #市場
-
-人民幣兌美元中間價報6.8157元。
-
----
-
-### 2026-06-05 09:15:23  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened the day session down 0.45% at 24,987, trading 277 points below spot.
-
----
-
-### 2026-06-05 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.55%，報24952.76點，低水300.64點。
-
----
-
-### 2026-06-05 09:14:05  #市場
-
-鈀金期貨日內跌2%，現報1308.00美元/盎司。
-
----
-
-### 2026-06-05 09:13:37  #Trading Economics #Economy #Philippines #Industrial Production #Importance 1
-
-Philippines Industrial Output Growth Accelerates — Manufacturing production in the Philippines surged 14.7% year-on-year in April 2026, accelerating from an upwardly revised 13.1% increase in March. The expansion was largely driven by a sharp rise in the manufacture of coke and refined petroleum products (60.8% vs 4.6% in March), which accounted for 82.0% of the overall increase. Growth also strengthened in the manufacture of food products (9.7% vs 8.5%) and transport equipment (11.8% vs 9.6%). Meanwhile, production growth moderated for computer, electronic and optical products (19.0% vs 23.9%) and basic metals (29.1% vs 43.6%).
-
----
-
-### 2026-06-05 09:13:15  #其他
-
-【大曉機器人推出全屋三維可互動世界模型Kairos-HomeWorld】6月5日，大曉機器人聯合香港中文大學多媒體實驗室、深圳河套學院釋出最新世界模型研究成果Kairos-HomeWorld，這是全球首個實現全屋生成、個體物體全互動的世界模型統一框架。據介紹，該技術突破了現有室內場景生成僅能覆蓋單房間、缺乏全域性一致性與可操作性的行業瓶頸，能夠一鍵生成結構連貫、物理合理、功能完整的全屋三維場景，為具身人工智慧與機器人訓練提供了大規模、高保真的中國家庭場景可互動的實訓場。
-
----
-
-### 2026-06-05 09:13:14  #MKT News
-
-【Daxiao Robotics, CUHK and Shenzhen Hetao College unveil Kairos-Home World whole-house 3D interactive world model】Daxiao Robotics, the Multimedia Laboratory at The Chinese University of Hong Kong and Shenzhen Hetao College unveiled Kairos-Home World, which they say is the world’s first unified world-model framework to generate whole-house 3D environments with full object-level interaction. The team says the model overcomes prior room-level limits and inconsistent operability by one-click generation of structurally coherent, physically plausible and functionally complete whole-home 3D scenes, providing large-scale, high-fidelity Chinese household interactive training environments for embodied AI and robotics training.
 
 ---

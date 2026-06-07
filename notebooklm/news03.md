@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 08:06:10_
-_本檔包含 4012 則快訊，約 702883 字_
+_更新時間：2026-06-07 08:52:04_
+_本檔包含 3994 則快訊，約 704683 字_
+
+---
+
+### 2026-06-04 02:31:14  #市場
+
+WTI 7月原油期貨收漲2.26美元，漲幅2.41%，報96.02美元/桶。NYMEX 7月天然氣期貨收報3.2140美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.1316美元/加侖，NYMEX 7月取暖油期貨收報3.8481美元/加侖。
+
+---
+
+### 2026-06-04 02:30:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D fell 0.55% to 970.59 yuan/gram at the close of the June 3 evening session; silver T+D fell 1.32% to 17,783.0 yuan/kg.
+
+---
+
+### 2026-06-04 02:30:29  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
+
+【Fed's Beige: Consumer spending uneven across districts】Fed's Beige reports 10 of 12 districts saw slow-to-moderate economic growth, one showed slight decline and one was unchanged. Consumer spending is uneven; rising cost pressures have widened differences across income groups—high-income households remain relatively resilient and less price-sensitive, middle-income households are “scrimping every penny before spending,” and low-income households face greater financial strain. Several districts reported higher credit-card use, softer retail sales and stronger demand for necessities. Auto dealers cited weaker new-car demand due to cost and fuel pressures, with increased purchases of used cars and hybrids. Manufacturing expanded at a moderate-to-strong pace in nine districts, with one district reporting a slight decline. Banking conditions are largely stable, but multiple districts reported rising delinquencies in mortgages, consumer and agricultural loans. Six-month business outlooks were little changed amid elevated uncertainty and signs of weaker consumer spending.
+
+---
+
+### 2026-06-04 02:30:01  #市場
+
+上期所原油期貨夜盤收漲1.16%，報611.00元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌2.24%。
+
+---
+
+### 2026-06-04 02:30:01  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Drops by 3.59% — Top crypto losers are Binance (-3.59%), Ether (-1.95%) and Bitcoin (-1.41%).
+
+---
+
+### 2026-06-04 02:28:37  #市場
+
+巴西5月份鐵礦石出口2801萬噸，去年同期3477萬噸。
+
+---
+
+### 2026-06-04 02:27:02  #Trading Economics #Economy #Uruguay #Unemployment Rate #Importance 1
+
+Uruguay Jobless Rate Declines in April — Uruguay’s unemployment rate fell to 7.5% in April 2026 from 7.8% in March, signaling an improvement in labor market conditions. The jobless rate stood at 7.6% in Montevideo and 7.4% in the rest of the country, while employment rates reached 60.5% and 58.8%, respectively. By gender, unemployment was 6.4% among men and 8.7% among women. Youth unemployment remained significantly higher than for other age groups, reaching 23.3% among people aged 14 to 24. The rate was 10.2% for those aged 25 to 29 and below 7% for most age groups over 30. Among employed workers, 9.3% were underemployed, while 21.7% were not registered with the social security system in their main job.
+
+---
+
+### 2026-06-04 02:25:18  #MKT News #DXY #Impact bullish #WTI #US10Y
+
+【FED'S BEIGE: Employment stable across districts; inflation rises】FED'S BEIGE says recent weeks' economic activity in most U.S. districts expanded at a slow-to-moderate pace and employment was little changed. Inflation readings in most Fed districts were higher than in the prior report, largely reflecting energy-price increases tied to the Middle East conflict, including the Iran war. Rising energy costs since the Iran war began have raised concern about persistent inflation, prompting more policymakers to say they need to keep all policy options open, including the possibility of tighter monetary policy. Many officials nonetheless described current policy-rate conditions as fairly favorable.
+
+---
+
+### 2026-06-04 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Canola (2.61%). Biggest losers are Wheat (-2.79%) and Coffee (-2.53%).
+
+---
+
+### 2026-06-04 02:23:42  #公司 #市場 #國際
+
+美國銀行CEO Moynihan：隨著價格上漲，（美國）消費者開支出現“微觀變化”。經濟承受能力是一個實實在在的問題。最近50年來，公司的信用業務一直不錯。
+
+---
+
+### 2026-06-04 02:22:26  #公司
+
+【Alphabet將股權融資規模擴大至850億美元 所得用於人工智慧領域支出】谷歌母公司Alphabet Inc.將其股權融資規模從兩天前宣佈的800億美元提高至847.5億美元，以支援不斷擴大的人工智慧投資計劃。此次融資包括一項規模400億美元的所謂“按市價發行”(ATM)機制，即公司將從第三季度開始不時直接在公開市場出售股票。此外，還包括與伯克希爾達成的一筆100億美元交易。剩餘部分包括180億美元A類普通股和C類資本股發行，以及167.5億美元存托股份發行。資料顯示，這將成為有史以來規模最大的股權融資交易。對於Alphabet這樣體量的公司而言，如此大規模募股實屬罕見，在今年IPO市場火熱、尤其是SpaceX即將上市之際，這筆交易更顯得出人意料。
+
+---
+
+### 2026-06-04 02:20:50  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
+
+Lebanese broadcaster Al-Mayadeen reported Iran’s foreign minister said Iran would respond decisively if Israel attacks Beirut.
+
+---
+
+### 2026-06-04 02:20:46  #國際
+
+伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示： 若以色列襲擊貝魯特，伊朗將果斷予以回擊。
+
+---
+
+### 2026-06-04 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Drops by 3.79% — Top commodity losers are Platinum (-3.79%), Lithium Carbonate (-2.99%), Copper (-2.72%) and Gold (-1.17%). Gains are led by Silicon (0.76%).
+
+---
+
+### 2026-06-04 02:18:45  #國際
+
+美國聯邦通訊委員會（FCC）考慮改革或終止每年規模 30 億美元、面向學校與圖書館的 E 級費率補貼專案。
+
+---
+
+### 2026-06-04 02:18:42  #Trading Economics #Economy #Uruguay #Inflation Rate #Importance 1
+
+Uruguay CPI Picks Up in May — Uruguay’s annual inflation rate accelerated to 3.77% in May 2026 from 3.16% in April. The increase was driven by higher prices for education (6.91%), restaurants and hotels (6.85%), healthcare (6.15%), housing and utilities (5.02%), and personal care and social protection (4.89%). Transport costs rose 4.47%, while food and non-alcoholic beverage prices increased 2.21%. In contrast, clothing and footwear prices fell 4.88% from a year earlier. On a monthly basis, consumer prices rose 0.70% in May, accelerating from a 0.54% increase in the previous month.
+
+---
+
+### 2026-06-04 02:18:21  #國際
+
+伊朗外長在黎巴嫩電視臺Al-Mayadeen採訪中表示：雙方正在研討此前互換的相關檔案文字。
+
+---
+
+### 2026-06-04 02:17:03  #MKT News #Important
+
+Lebanese broadcaster Al-Mayadeen reports Iran's foreign minister said the two sides are reviewing exchanged texts.
+
+---
+
+### 2026-06-04 02:15:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Heating Oil Gains by 4.38% — Top commodity gainers are Heating Oil (4.38%), Natural Gas UK (4.29%), Natural Gas EU (3.52%), Crude Oil WTI (2.46%) and Brent Crude Oil (2.09%).
+
+---
+
+### 2026-06-04 02:14:59  #MKT News
+
+Tunisian central bank maintained its benchmark policy rate at 7%.
+
+---
+
+### 2026-06-04 02:14:50  #MKT News #WTI #Impact bullish #US10Y #Impact bearish
+
+【FED'S BEIGE: U.S. economic activity and inflation rose in recent weeks】FED'S BEIGE said U.S. economic activity edged up in recent weeks and inflation rose while employment was broadly unchanged. The report said the six‑month business outlook for expected growth was little changed as heightened uncertainty and signs of weak consumer spending weighed on sentiment. Regional contacts identified energy‑price increases tied to the Middle East war as a key inflation driver, with spillovers to transport, packaging, groceries and fertilizer.
+
+---
+
+### 2026-06-04 02:13:09  #MKT News #EURUSD #Impact bullish #DAX #S&P500
+
+Hungary's Prime Minister Magyar said the agreement could pave the way for Hungary to approve the first stage of Ukraine's EU accession talks.
+
+---
+
+### 2026-06-04 02:10:59  #市場 #國際
+
+路透調查顯示：美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 1010 億立方英尺。
+
+---
+
+### 2026-06-04 02:10:52  #MKT News
+
+Hungarian Prime Minister Magyar said the government does not support accelerating negotiations on Ukraine's accession to the EU.
+
+---
+
+### 2026-06-04 02:09:56  #國際
+
+【以軍總參謀長稱軍隊在黎巴嫩“沒有停火可言”】當地時間3日，以色列國防軍總參謀長扎米爾在視察海法海軍基地時表示，以軍在黎巴嫩“沒有停火可言”，並稱以軍已準備好隨時恢復針對伊朗的戰鬥。扎米爾稱，以色列海軍正成為以色列軍隊的“另一支遠端戰略力量”。他表示，自就任以來，他就指示要加強海軍作為遠端戰略力量的建設，目前以軍正在加速落實這一作戰理念。針對伊朗問題，扎米爾補充說，以色列國防軍的所有軍種都已準備好，隨時可以恢復針對伊朗的戰鬥。（央視）
+
+---
+
+### 2026-06-04 02:09:35  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+【IDF chief says there is 'no ceasefire' in Lebanon】On June 3, Israel Defense Forces Chief of Staff Zamir, visiting the Haifa naval base, said there is 'no ceasefire' in Lebanon and that the IDF is prepared to resume combat against Iran at any time. He added the Israeli navy is becoming 'another long‑range strategic force', that he has ordered accelerated development of the navy since taking office, and that all IDF branches are ready to act against Iran.
+
+---
+
+### 2026-06-04 02:08:15  #MKT News
+
+magyar, Hungary's prime minister, said a key agreement was reached with Ukraine on the rights of the Hungarian minority in Ukraine.
+
+---
+
+### 2026-06-04 02:07:48  #國際
+
+匈牙利總理： 該協議或將為匈牙利放行烏克蘭入盟談判首個議題章節掃清障礙。
+
+---
+
+### 2026-06-04 02:07:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said the airport terminal was damaged after the US Patriot air-defense system failed to intercept Iranian missiles and subsequently malfunctioned.
+
+---
+
+### 2026-06-04 02:06:24  #其他
+
+匈牙利總理：匈烏兩國已就匈牙利族少數民族權益達成關鍵協議。
+
+---
+
+### 2026-06-04 02:05:36  #焦點 #國際
+
+伊朗塔斯尼姆通訊社援引伊朗革命衛隊訊息：機場航站樓損毀系美國愛國者防空系統攔截伊朗導彈失利後出現故障所致。
+
+---
+
+### 2026-06-04 02:04:58  #MKT News #Important
+
+TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps says it did not fire on Kuwait airport.
+
+---
+
+### 2026-06-04 02:04:48  #其他
+
+德國商業銀行：建議嚴肅審查裕信銀行潛在的誤導資訊。
+
+---
+
+### 2026-06-04 02:04:37  #焦點 #國際
+
+伊朗塔斯尼姆通訊社援引伊斯蘭革命衛隊表態：我方並未向科威特機場開火。
+
+---
+
+### 2026-06-04 02:01:54  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
+
+Fed's Beige: In 12 Federal Reserve districts, 10 reported economic activity expanding modestly to briskly; one reported a slight decline and one reported no change.
+
+---
+
+### 2026-06-04 02:01:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Beige Book: employment was essentially unchanged in 11 districts, while one district reported a modest increase.
 
 ---
 
@@ -23847,329 +24063,5 @@ Market sources say OpenAI plans to launch AI tools targeted at the financial and
 ### 2026-06-02 23:43:27  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Rebound to Record Highs — US stocks swing higher to new records on Tuesday as more strength from the AI economy offset the ongoing impasse between the US and Iran. The S&P 500, Nasdaq 100, and Dow pared losses to hover above the flatline. Heavyweight chip producers and companies in the AI infrastructure space were sharply higher to extend the momentum that has carried equity indices this year. Broadcom jumped 5% ahead of its earnings tomorrow, while Lan Research, Qualcomm, and On Semiconductors added over 5% as the higher capacity for wafers by SK Hynix improved the output forecast for the sector. Meanwhile, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company. In turn, energy prices remained higher as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz.
-
----
-
-### 2026-06-02 23:43:17  #MKT News #PANW.O #Impact bullish #CRWD.O #ZS.O
-
-White House orders creation of a cybersecurity information-sharing platform, directing the AI industry and critical infrastructure operators to voluntarily cooperate on software vulnerabilities.
-
----
-
-### 2026-06-02 23:42:51  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact mixed #S&P500
-
-White House: Trump has ordered US agencies to develop cybersecurity standards for advanced AI models. US government cybersecurity testing of AI firms will be voluntary.
-
----
-
-### 2026-06-02 23:42:47  #其他
-
-白宮：相關AI行政令擬設立網路安全資訊交換中心，在自願合作原則下聯動AI行業、關鍵基礎設施運營方，統籌彙總軟體漏洞相關資訊。
-
----
-
-### 2026-06-02 23:42:20  #國際
-
-白宮：美國政府針對人工智慧企業開展的網路安全檢測採取自願參與原則。
-
----
-
-### 2026-06-02 23:41:40  #國際
-
-白宮：特朗普的行政命令要求美國機構為先進人工智慧模型制定網路安全標準。
-
----
-
-### 2026-06-02 23:41:34  #MKT News #Market Themes #AI Revolution
-
-White House: executive order on artificial intelligence emphasizes strengthening cyber defenses across federal agencies.
-
----
-
-### 2026-06-02 23:41:33  #其他
-
-白宮：這份關於人工智慧的行政令重點強調在整個政府範圍內強化網路防禦建設。
-
----
-
-### 2026-06-02 23:41:05  #其他
-
-Bumble即將上線付費多人約會新功能。
-
----
-
-### 2026-06-02 23:40:26  #公司 #市場 #國際
-
-【維多集團警告稱歐美國家仍未意識到石油供應短缺的嚴重性】維多集團中東地區高管表示，許多西方政府仍然沒有意識到霍爾木茲海峽封鎖正在全球引發的石油供應短缺。“我認為在歐洲和美國，人們都還不夠警覺，依然像往常一樣生活，”維多董事會成員Tom Baker在倫敦舉行的標普全球中東石油天然氣會議上表示。隨著原油價格升至接近每桶100美元，汽油、柴油和航空燃油等石油產品的價格和波動性也出現了更大幅度的飆升。這導致許多發展中國家，特別是亞洲和非洲部分地區國家的需求下降。維多預計全球需求減少約400萬桶/日，各國推遲購買原油，寄希望於伊朗戰爭的潛在解決將推動油價下跌。
-
----
-
-### 2026-06-02 23:40:16  #國際
-
-白宮行政令：美國將在60天內甄選可信的人工智慧合作方。
-
----
-
-### 2026-06-02 23:40:03  #MKT News #Market Themes #AI Revolution
-
-The White House said the U.S. will select trusted AI partners within 60 days.
-
----
-
-### 2026-06-02 23:39:56  #國際
-
-美國疾病控制與預防中心：美容醫療旅遊20例接診病例報告術後感染；四名患者死亡，均與旅行相關醫美手術有關。
-
----
-
-### 2026-06-02 23:39:24  #其他
-
-【澳門首屆國際網路視聽節開幕 探討文化出海新路徑】澳門首屆國際網路視聽節2日開幕。來自內地、港澳特區以及葡語國家、東南亞國家的政府代表、產業機構和內容創作者，圍繞產業趨勢、內容創新、文化出海、國際合作等議題開展交流，探索網路視聽行業發展新路徑。（央視新聞）
-
----
-
-### 2026-06-02 23:38:59  #國際
-
-白宮行政令：美國將建立人工智慧涉密基準評測機制。
-
----
-
-### 2026-06-02 23:38:45  #國際
-
-白宮行政令規定：美國可在前沿人工智慧模型正式釋出前先行調取核驗。
-
----
-
-### 2026-06-02 23:38:43  #MKT News #Important #Market Themes #AI Revolution
-
-White House: U.S. will have access to AI "frontier models" before their release.
-
----
-
-### 2026-06-02 23:38:22  #國際
-
-【歐盟就發債專案後續資金需求向機構發出方案徵詢函】惠譽AAA、穆迪Aaa、Scope AAA、標普AA+評級的歐盟，依據歐盟委員會第2023/1602號決議遴選機構，並已向入選機構傳送需求建議書（RfP），擬在近期落地發債專案的後續融資安排。
-
----
-
-### 2026-06-02 23:37:11  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European equities closed higher on Tuesday, June 2: Germany DAX +0.57% at 25,137.04; UK FTSE 100 +0.37% at 10,376.72; France CAC 40 +0.77% at 8,209.09; Euro STOXX 50 +1.21% at 6,107.75; Spain IBEX 35 +0.71% at 18,273.54; Italy FTSE MIB +1.62% at 50,580.50.
-
----
-
-### 2026-06-02 23:36:55  #國際
-
-白宮宣佈，特朗普已簽署行政令，旨在推動人工智慧創新並築牢相關安全保障。
-
----
-
-### 2026-06-02 23:36:47  #MKT News #Important #Market Themes #AI Revolution
-
-White House: President Trump signed an executive order to promote advanced AI innovation and safety.
-
----
-
-### 2026-06-02 23:36:31  #市場 #焦點
-
-以太坊跌破1900美元，日內跌5.32%。
-
----
-
-### 2026-06-02 23:36:24  #國際
-
-歐盟觀察團表示，經核查確認哥倫比亞大選預選計票結果。
-
----
-
-### 2026-06-02 23:35:58  #其他
-
-白宮釋出人工智慧行政命令。
-
----
-
-### 2026-06-02 23:35:39  #國際
-
-【日英意六代機專案設觀察員以便推銷】據日本共同社6月2日報道，日本、英國和義大利正在討論為其六代機聯合專案“全球作戰空中計劃”建立觀察員機制。三國防長計劃於7月舉行會晤，屆時或將敲定加拿大為首批觀察員。而所謂的觀察員機制，其實就是向戰機的潛在買家共享專案的研發進展和資料，以便向觀察員國家“推銷”戰機。 據此前報道，日英意三國聯合推進的這一專案，目標是在2035年之前推出“擁有高效能感測器、隱形性和網路化作戰的第六代戰機”。去年5月，該計劃公開了戰鬥機的模型，但並未公佈詳細資訊。 （CCTV國際時訊）
-
----
-
-### 2026-06-02 23:35:05  #其他
-
-【巴基斯坦安全部隊在俾路支省打死17名恐怖分子】當地時間6月2日，巴基斯坦三軍新聞局稱，自5月24日巴基斯坦西南部俾路支省一列客運列車遭爆炸襲擊後，巴基斯坦安全部隊在俾路支省展開了系列基於情報的行動。在開展這些行動的過程中，巴方部隊打擊了多處恐怖分子據點。經過交火後，共有17名恐怖分子被打死，從其身上繳獲了武器、彈藥以及大量爆炸物和準備就緒的簡易爆炸裝置。（央視新聞）
-
----
-
-### 2026-06-02 23:34:49  #央行 #國際
-
-歐洲央行官員斯萊彭：歐洲央行將採取必要舉措，市場靜待政策落地。
-
----
-
-### 2026-06-02 23:34:46  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Sleijpen said the ECB will take necessary measures; markets expect action.
-
----
-
-### 2026-06-02 23:34:35  #MKT News #HMC.N #Impact bullish
-
-Honda Motor (HMC.N) U.S. May total sales 148,903 units, up 9.9% YoY.
-
----
-
-### 2026-06-02 23:34:30  #國際
-
-美國本田5月總銷量148903輛，同比增長9.9%。
-
----
-
-### 2026-06-02 23:34:11  #MKT News #EURUSD
-
-Market sources say the EU has asked relevant bodies for advice to assess additional financing needs.
-
----
-
-### 2026-06-02 23:34:09  #市場
-
-AMC股價大漲22%，受益於觀影人次創2019年以來歷年5月新高，但分析師警示其揹負79.3億美元債務，存在破產風險。
-
----
-
-### 2026-06-02 23:33:52  #MKT News #Commodities #Energy #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Governing Council member Sleijpen said policymakers must monitor whether energy is driving broader inflation.
-
----
-
-### 2026-06-02 23:33:41  #央行 #國際
-
-歐洲央行官員斯萊彭：需觀察能源漲價是否向整體通脹傳導。
-
----
-
-### 2026-06-02 23:33:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 6-week Treasury auction to June 2 — share awarded at the stop-out rate 63.21%, prior 68.12%.
-
----
-
-### 2026-06-02 23:33:02  #央行 #其他
-
-英國央行行長貝利表示，央行儲備規模正穩步回落至均衡水平。
-
----
-
-### 2026-06-02 23:32:56  #國際
-
-歐盟向相關機構發出需求建議書，徵集後續資金需求方案。
-
----
-
-### 2026-06-02 23:32:50  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 6-week Treasury bill auction on June 2: bid-cover ratio 3.28, prior 2.71.
-
----
-
-### 2026-06-02 23:32:43  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-U.S. 6-week Treasury bill auction (settlement June 2): stop-out yield 3.625%, prior 3.62%.
-
----
-
-### 2026-06-02 23:32:31  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.625%，投標倍數3.28。
-
----
-
-### 2026-06-02 23:32:21  #公司 #國際
-
-豐田汽車北美公司：公佈2026年5月美國汽車銷量為23.88萬輛。
-
----
-
-### 2026-06-02 23:32:14  #公司 #國際
-
-豐田汽車北美公司：2026年5月美國電動化車型總銷量為137,031輛。
-
----
-
-### 2026-06-02 23:31:45  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Netanyahu: Israel will never allow Iran to threaten its existence】On the 2nd, Israeli Prime Minister Netanyahu said at a Mossad leadership handover that he will never allow Iran to threaten Israel's existence, reiterating long-standing policy to prevent Iran from acquiring nuclear weapons. He called the Iranian regime a "terrorist regime destined to disappear from the world" and said Israel would "help achieve that goal," ensuring Iran cannot threaten Israel with "a nuclear bomb and thousands of lethal ballistic missiles."
-
----
-
-### 2026-06-02 23:31:29  #市場 #焦點 #國際
-
-【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.68%，歐洲斯托克指數上漲0.95%，歐元區藍籌股指數上漲1.17%。英國富時100指數上漲0.36%，德國DAX指數上漲0.46%，法國CAC 40指數上漲0.78%，西班牙IBEX指數上漲0.46%。
-
----
-
-### 2026-06-02 23:31:01  #國際
-
-以色列與黎巴嫩開啟第四輪談判。
-
----
-
-### 2026-06-02 23:30:43  #MKT News #Macro & Rates #US Economy #TM.N
-
-Toyota Motor (TM.N) sold 238,800 vehicles in the U.S. in May, down 0.6% YoY. U.S. electric vehicle sales in May totaled 137,031 units, up 15.3% YoY.
-
----
-
-### 2026-06-02 23:30:22  #國際
-
-美國計劃在亞塞拜然進行能源投資，並稱已簽署總金額達80億美元的協議。
-
----
-
-### 2026-06-02 23:30:09  #公司
-
-【採埃孚與徐工集團成立農業機械合資公司】6月2日，採埃孚與徐工集團在德國腓德烈斯哈芬市簽署合資協議，正式成立合資公司。雙方透過加強合作，為中國農機市場量身定製本地化解決方案，加速中國農業技術創新。根據協議，雙方將共同成立“採埃孚（徐州）機械有限公司”，總部位於江蘇徐州經濟技術開發區。
-
----
-
-### 2026-06-02 23:30:04  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Rises by 12 bps — Majority of government bonds yields are lower on Tuesday. Top gainers are Brazil 10Y (12bps). Biggest losers are Japan 10Y (-11.88bps), Germany 10Y (-3.82bps) and US 10Y (-0.20bps).
-
----
-
-### 2026-06-02 23:29:44  #國際
-
-【內塔尼亞胡：絕不允許伊朗威脅以色列的生存】以色列總理內塔尼亞胡2日說，絕不允許伊朗威脅以色列的生存。內塔尼亞胡當天在以色列情報和特勤局（摩薩德）新任局長交接儀式上說，以方將一如既往地奉行多年來的政策，絕不允許伊朗獲得核武器、絕不允許伊朗威脅以色列的生存。內塔尼亞胡稱伊朗政權是“註定要從世界上消失的恐怖政權”，以色列將“幫助實現這一目標”，使伊朗不會再用“核彈和數千枚致命的彈道導彈”威脅以色列。（新華社）
-
----
-
-### 2026-06-02 23:27:31  #其他 #焦點
-
-老虎證券大跌近7%，富途大跌超4%。
-
----
-
-### 2026-06-02 23:27:00  #國際
-
-【伊朗媒體披露伊美資訊交換“已暫停數日”】據伊朗法爾斯通訊社2日報道，一名接近伊朗談判團隊的知情人士表示，伊朗與美國間就諒解備忘錄所進行的資訊交換已暫停數日，暫停前伊方發出的最後一則資訊與黎巴嫩局勢有關。(新華社)
-
----
-
-### 2026-06-02 23:26:58  #Trading Economics #Markets #France #stocks #Importance 1
-
-Schneider Electric Stock Price Hits All-time High — Schneider Electric shares increased to an all-time high of 288.05 EUR. Over the past 4 weeks, Schneider Electric gained 10.4%, and in the last 12 months, it increased 29.75%.
-
----
-
-### 2026-06-02 23:26:24  #央行 #國際
-
-【英國央行官員格林：上調關鍵利率的理由正在增強】英國央行貨幣政策委員會格林周二表示，中東衝突持續的時間越長，上調該行關鍵利率的理由就越充分，而且可能需要在未來幾周內採取行動。英國央行在4月份維持其關鍵利率不變，投資者預計，在貨幣政策委員會於6月18日再次召開會議時，將再次做出維持利率不變的決定。一些決策者已指出，自衝突開始以來，政府債券收益率的上升已導致家庭和企業的借款成本增加，而這應有助於給價格壓力降溫。然而，格林表示，貨幣政策委員會不能指望市場代其行事，如果英國央行不提高關鍵利率，收益率可能會回落。她在一篇講話中表示：“我認為，隨著衝突的持續，加息的理由越來越充分，未來幾周或幾個月可能有必要收緊貨幣政策。”
-
----
-
-### 2026-06-02 23:25:36  #國際
-
-【伊朗將在三座城市為已故最高領袖哈梅內伊舉行葬禮】據伊朗媒體2日報道，伊朗首都德黑蘭市政府官員表示，已確定將在德黑蘭、庫姆和馬什哈德三座城市為已故最高領袖阿里·哈梅內伊舉行葬禮。德黑蘭市政府官員表示，相關部門正籌備在首都舉行的送葬儀式，預計有1500萬至2000萬人參加。根據哈梅內伊生前遺願及其親屬建議，其遺體將安葬於位於馬什哈德的伊瑪目禮薩聖陵。整個葬禮活動計劃持續三天。（新華社）
 
 ---
