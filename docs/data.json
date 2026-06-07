@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-08 04:33:57",
-  "count": 19078,
+  "updated": "2026-06-08 04:37:51",
+  "count": 19086,
   "items": [
+    {
+      "id": "mkt:019ea3cd-e78e-7ee0-86d3-679105a8aaf4",
+      "time": "2026-06-08 04:37:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: Everything is going smoothly."
+    },
+    {
+      "id": "mkt:019ea3cd-ce3b-7ee0-86d3-5d53dbf76eda",
+      "time": "2026-06-08 04:37:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kuwait's National News Agency (KUNA) said Kuwait's oil production quota for July under the OPEC+ output-increase plan will rise to 2.644 mln b/d from 2.628 mln b/d in June."
+    },
+    {
+      "id": "4922245",
+      "time": "2026-06-08 04:37:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據科威特國家通訊社訊息，在歐佩克+增產計劃下，科威特7月石油產量配額將從6月的262.8萬桶/日上調至264.4萬桶/日。"
+    },
+    {
+      "id": "4922244",
+      "time": "2026-06-08 04:36:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防軍司令召開會議批准作戰計劃。"
+    },
+    {
+      "id": "mkt:019ea3cc-a21c-7ee0-86d3-53a632117b5c",
+      "time": "2026-06-08 04:35:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said its foreign minister spoke by phone with the foreign ministers of France and Qatar to consult on recent developments in Iran."
+    },
+    {
+      "id": "4922243",
+      "time": "2026-06-08 04:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與法國、卡達外長通電話，就伊朗對以色列的反擊及地區局勢發展交換意見。"
+    },
+    {
+      "id": "4922242",
+      "time": "2026-06-08 04:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列表示將繼續打擊黎巴嫩真主黨勢力。"
+    },
+    {
+      "id": "4922241",
+      "time": "2026-06-08 04:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，預計颶風阿曼達將在今晚晚些時候減弱為後熱帶殘留低壓。"
+    },
     {
       "id": "4922240",
       "time": "2026-06-08 04:30:22",
