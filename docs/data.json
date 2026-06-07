@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-07 22:52:45",
-  "count": 18987,
+  "updated": "2026-06-07 22:57:00",
+  "count": 18986,
   "items": [
+    {
+      "id": "4922056",
+      "time": "2026-06-07 22:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：我已抵達英國】澤連斯基表示，我今日抵達英國。我將出席烏克蘭與歐洲三國（E3）會談，與會者包括法國總統、德國總理以及英國首相。各方團隊已為各項會議完成實質性籌備工作，眼下重要的是在領導人層面充分溝通，就核心事項達成共識。本次會談重點圍繞戰時防務、歐洲防空領域深化安全合作，以及各方對外交前景的共識展開。歐洲必須參與相關談判，並保持強硬立場。我還定於明日會見英國國王。感謝英國及所有夥伴國家，你們以實際行動協助我們加強民生防護，必須結束這場戰爭。"
+    },
+    {
+      "id": "4922055",
+      "time": "2026-06-07 22:52:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基稱其已抵達英國。"
+    },
     {
       "id": "4922054",
       "time": "2026-06-07 22:50:57",
@@ -175119,34 +175135,6 @@
         "國際"
       ],
       "text": "得州總檢察長帕克斯頓向媒體表示，他本週將與美國參議院多數黨領袖圖恩會面。"
-    },
-    {
-      "id": "mkt:019e7e89-0ffc-700f-a37e-c2afb010bacb",
-      "time": "2026-05-31 22:56:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBS News reports that as of Sunday morning mediators were still discussing a US–Iran memorandum of understanding."
-    },
-    {
-      "id": "4908946",
-      "time": "2026-05-31 22:56:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰海通：維持海外AI算力及應用產業鏈“增持”評級】國泰海通維持海外AI算力及應用產業鏈“增持”評級。其研報指出，OpenAI及Anthropic的超高速增長，一方面驗證了AI模型的能力邊界持續擴張，另一方面帶動了全AI產業鏈的需求上行。建議重點關注三類方向：（1）受益於OpenAI及全球頭部模型廠商算力擴張的 GPU/ASIC、CPU、儲存、先進製程及先進封裝、半導體裝置等硬體供應鏈；（2）承接AI工作負載和模型分發的雲廠商及基礎設施平臺；（3）具備全生態、全場景落地能力的應用公司。"
-    },
-    {
-      "id": "mkt:019e7e86-288d-700f-a37e-b8cd708d32d9",
-      "time": "2026-05-31 22:53:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CNN: Trump revisions to proposed Iran deal push U.S.-Iran talks back one week】CNN reported officials said Trump, after a Friday meeting with advisers, requested revisions to a proposed agreement with Iran that will extend negotiations by one week. Officials did not specify the requested changes but said the president is pushing for tougher language on Iran’s nuclear commitments and guarantees that Iran would reopen the Strait of Hormuz. It is unclear how those wording disputes will be resolved. Axios and the New York Times earlier reported Trump had proposed changes."
     }
   ]
 }
