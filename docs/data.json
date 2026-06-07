@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-08 06:09:58",
-  "count": 19139,
+  "updated": "2026-06-08 06:13:46",
+  "count": 19140,
   "items": [
+    {
+      "id": "4922320",
+      "time": "2026-06-08 06:12:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "當被問及如果任何此類協議“憑其自身條款”未能達成將會出現何種局面時，特朗普表示，他會考慮對伊朗發動突襲。"
+    },
+    {
+      "id": "mkt:019ea424-8327-7ee0-86d4-705ac3ec2619",
+      "time": "2026-06-08 06:11:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US President Trump said he is the final decision-maker and that Netanyahu does not determine outcomes; Iran's attack has not changed his willingness to reach an agreement."
+    },
+    {
+      "id": "4922319",
+      "time": "2026-06-08 06:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，伊朗的打擊行動並未改變他想要促成美伊談判達成結果的意願。"
+    },
+    {
+      "id": "4922318",
+      "time": "2026-06-08 06:11:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍將回應伊朗導彈襲擊】據《耶路撒冷郵報》今天（6月8日）援引訊息人士報道稱，以色列將對伊朗的攻擊作出回應，但其規模和時間尚未確定。"
+    },
+    {
+      "id": "mkt:019ea423-1ebb-7ee0-86d4-684aa66f8912",
+      "time": "2026-06-08 06:10:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said Israeli Prime Minister Netanyahu will have 'no choice' but to accept a deal with Iran."
+    },
+    {
+      "id": "4922317",
+      "time": "2026-06-08 06:09:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱，內塔尼亞胡將“別無選擇”，只能接受與伊朗達成的協議。"
+    },
     {
       "id": "4922316",
       "time": "2026-06-08 06:09:22",
@@ -176475,49 +176537,6 @@
         "國際"
       ],
       "text": "美國原油期貨上漲2.53美元，報每桶89.89美元。"
-    },
-    {
-      "id": "4909111",
-      "time": "2026-06-01 06:12:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默將於週一被迫公開聲名掃地的前大使彼得·曼德爾森與內閣官員之間的數百份私人往來記錄。"
-    },
-    {
-      "id": "4909110",
-      "time": "2026-06-01 06:12:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4530美元/盎司，日內跌0.24%。"
-    },
-    {
-      "id": "4909109",
-      "time": "2026-06-01 06:12:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4560美元/盎司，日內跌0.68%。"
-    },
-    {
-      "id": "4909108",
-      "time": "2026-06-01 06:10:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【遭遇潛在安全威脅 美國一航班返航】據美國媒體5月31日報道，由於一名乘客的藍芽耳機名稱帶有威脅性，觸發安全警報，30日晚，美國聯合航空公司一架從新澤西州飛往西班牙的航班在飛行途中調頭返航。（新華社）"
-    },
-    {
-      "id": "mkt:019e8016-6222-700f-a381-19611dac849d",
-      "time": "2026-06-01 06:10:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US media reported on May 31 that on the evening of May 30 a United Airlines flight from New Jersey to Spain turned back mid‑flight after a passenger’s Bluetooth headset name contained a threatening phrase, triggering a security alert."
     }
   ]
 }
