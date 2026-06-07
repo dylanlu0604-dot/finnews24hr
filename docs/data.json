@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-07 18:06:48",
-  "count": 18909,
+  "updated": "2026-06-07 18:10:48",
+  "count": 18905,
   "items": [
+    {
+      "id": "4921841",
+      "time": "2026-06-07 18:07:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，美股上市藥企Incyte即將以高達20億美元的價格收購一家專注於血液疾病治療的生物技術公司。"
+    },
+    {
+      "id": "4921840",
+      "time": "2026-06-07 18:06:21",
+      "tags": [
+        "公司",
+        "資料",
+        "觀點"
+      ],
+      "text": "【中信證券：接下來霍爾木茲海峽通航是A股非AI板塊轉機的臨界點】6月7日，中信證券最新A股策略報告指出，市場情緒降溫後，科技、週期、金融和消費板塊各自有各自的驅動邏輯和節奏。科技：國產鏈看長鑫上市、北美鏈看Anthropic的ARR（年度經常性收入）；週期：供需雙弱、上下游博弈激烈，破局點還靠美伊停戰和海峽通航；金融：關鍵轉折點是大資金的減持程序，指數走弱後賣壓或減小；消費：CPI交易大機率滯後於PPI交易，而目前PPI交易受阻未完成。AI板塊有其自身的執行節奏和邏輯，非AI板塊也許存在資金面被虹吸的情況，但真正的啟動並不依賴資金高切低，而是宏觀敘事和市場環境轉變後新買家入局。對市場而言，目前最大的挑戰是霍爾木茲海峽短期通航的假設開始動搖，通脹和緊縮預期升溫。中信證券認為接下來海峽通航是“換副牌”的時刻，亦是非AI板塊轉機的臨界點。"
+    },
     {
       "id": "4921839",
       "time": "2026-06-07 18:04:01",
@@ -174345,62 +174363,6 @@
         "國際"
       ],
       "text": "以色列軍方：偵測到一枚來自黎巴嫩的可疑空中目標飛越謝莫納鎮，隨後目標訊號失聯，此次事件已結束。"
-    },
-    {
-      "id": "4908799",
-      "time": "2026-05-31 18:10:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【緬甸撣邦北部南坎鎮發生爆炸，雲南瑞麗：未對我群眾生產生活造成影響】瑞麗市委網信辦釋出《關於“5·31”爆炸事件的情況通報》：2026年5月31日14時許，緬甸撣邦北部南坎鎮高德村發生爆炸，我市部分群眾雖目擊到濃煙，但未對我群眾生產生活造成影響。請廣大市民保持冷靜，不恐慌、不聚集，不傳播未經核實的影片和訊息，以官方權威釋出為準。對惡意編造、傳播謠言的行為，有關部門將依法追究責任。"
-    },
-    {
-      "id": "mkt:019e7d83-6007-700f-a37d-1854eacfcf0e",
-      "time": "2026-05-31 18:10:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hondius disinfected and cleared to resume sailings】The expedition ship Hondius, which earlier had a fatal hantavirus outbreak, was declared virus-free after comprehensive cleaning and inspection and has been cleared to resume operations, Dutch operator Oceanwide Expeditions said on May 31. The company expects to restart scheduled sailings on June 13; the next voyage will depart Longyearbyen, Spitsbergen, and transit islands in the northern archipelago."
-    },
-    {
-      "id": "mkt:019e7d82-306a-700f-a37d-17d87b934a0a",
-      "time": "2026-05-31 18:09:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Commodities",
-        "Energy",
-        "Nasdaq100",
-        "Impact bullish",
-        "Copper",
-        "US10Y"
-      ],
-      "text": "【Founder Securities: AI theme intact; left-side accumulation opportunities in HALO assets】Founder Securities says the AI-led tech growth theme remains intact; prioritize core names on dips and watch repatriation of domestic compute capacity from overseas. Within the sector, favor rotation into segments with structural supply pressure and durable demand — e.g., AI power-constrained assets, new technology and advanced materials. Separately, HALO assets are viewed as having undergone significant adjustment; with a clear PPI uptrend and resource-supply tightening amid a higher energy-price regime, core resources (nonferrous metals and chemicals) and broad energy (coal, power, oil & petrochemicals) are in a left-side accumulation phase. The house expects limited upside momentum for US Treasury yields around 4.6% and see the June Fed meeting as a potential catalyst to temper aggressive market rate-hike bets. Tactically, monitor easing in US-China ties and tariff cut expectations for support to export chains, and watch for episodic theme-stock rallies — areas of interest include power‑compute synergy plays, commercial space, and robotics where policy and news may converge."
-    },
-    {
-      "id": "4908798",
-      "time": "2026-05-31 18:08:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱識別到多個自黎巴嫩方向發射的飛行物】當地時間31日，以色列國防軍釋出宣告表示，以色列北部多地拉響防空警報。以軍稱，識別到多枚從黎巴嫩方向向以色列境內發射的監測物。以軍稱，以色列空軍攔截了其中大部分監測物，其餘監測物按照相關程式墜落在空曠區域。此外，以軍表示，當天12時37分，基里亞特什莫納地區因疑似飛行器進入拉響警報。以軍隨後識別到一個可疑空中目標。以軍稱，上述事件均未造成人員傷亡。（央視新聞）"
-    },
-    {
-      "id": "4908797",
-      "time": "2026-05-31 18:07:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“洪迪厄斯”號郵輪已完成全面消毒 獲准恢復航行】當地時間31日，荷蘭當地訊息稱，曾爆發致命漢坦病毒疫情的“洪迪厄斯”號郵輪，在經過徹底清潔和檢查後，已被宣佈無病毒，並獲准恢復運營。鹿特丹-萊茵蒙德公共衛生服務中心釋出公告稱，該船已在鹿特丹港完成消毒。此前，該船已接受隔離和衛生處理，以及額外的清潔消毒。荷蘭“泛海探險”公司預計將於6月13日恢復 “洪迪厄斯”號郵輪的定期航行。下一次計劃中的探險將從斯匹次卑爾根島朗伊爾城出發，航行穿過北艾海的群島。大約兩週前，“洪迪厄斯”號郵輪停靠在鹿特丹港，一家專業清潔公司在嚴格的條件下對其進行了消毒。經過初步檢查，公共衛生部門專家認為需要進行進一步清潔。在完成額外的消毒工作後，衛生部門認定所有要求均已滿足，該船恢復運營“已無任何障礙”。25名船員在船舶抵達鹿特丹後被安排隔離數週。這些船員大多為外籍人士，目前在港口區域專門設定的隔離艙內進行隔離。（央視新聞）"
-    },
-    {
-      "id": "4908796",
-      "time": "2026-05-31 18:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【申萬宏源：繼續圍繞著AI產業鏈和戰略資源做配置】申萬宏源研報表示，短期，動量延續的AI算力通脹方向減少，已向PCB細分領域、電容等方向聚焦。短期調整波段，高切低行情有所演繹，仍偏向於超跌反彈行情。中期，繼續看好新能源、新能車和出口鏈的景氣驗證機會，同時，繼續圍繞著AI產業鏈和戰略資源做配置。"
     }
   ]
 }
