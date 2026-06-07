@@ -1,7 +1,318 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 17:45:21_
-_本檔包含 3872 則快訊，約 706389 字_
+_更新時間：2026-06-07 18:37:45_
+_本檔包含 3866 則快訊，約 705530 字_
+
+---
+
+### 2026-06-03 07:08:14  #市場 #焦點
+
+紐約期金失守4510美元/盎司，日內跌0.22%。
+
+---
+
+### 2026-06-03 07:06:55  #國際
+
+【科威特稱攔截來襲導彈 伊朗格什姆島傳爆炸聲】科威特軍方3日凌晨在社交媒體平臺發表宣告說，科威特防空部隊正在攔截來襲的“敵對”導彈和無人機，如果民眾聽到爆炸聲，那是防空系統攔截襲擊的結果。有媒體報道，駐科威特美軍基地遇襲。當地時間3日凌晨1時左右，科威特全國範圍內拉響防空警報，隨後傳出多次強烈爆炸聲。據身在科威特城的記者判斷，爆炸聲來自科威特城西北方向的傑赫拉省。該省的阿里·薩利姆空軍基地是美軍在科威特最重要的空軍基地之一。截至記者發稿時，依然能聽見爆炸聲。而據伊朗媒體報道，巴林上空也傳出警報聲。據伊朗媒體3日稍早時間報道，霍爾木茲海峽格什姆島傳出爆炸聲。尚不清楚上述事件之間是否有關聯。但伊朗伊斯蘭共和國廣播電視臺報道，對美軍基地的攻擊是在格什姆島傳出一聲爆炸聲後立即發生的。（新華社）
+
+---
+
+### 2026-06-03 07:06:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Kuwait says intercepting incoming missiles; explosions reported on Iran's Qeshm Island】Kuwaiti military said early on the 3rd its air defenses were intercepting incoming hostile missiles and drones and that any explosion sounds were the result of interceptions. Some media reported a US base in Kuwait was struck. Iranian media said alarms sounded over Bahrain and earlier reported explosions on Qeshm Island in the Strait of Hormuz. Iran's state broadcaster said the attack on the US base occurred immediately after the Qeshm explosion; it is unclear whether the incidents are linked.
+
+---
+
+### 2026-06-03 07:04:49  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite PMI Revised Upward — Australia’s composite PMI was revised higher to 48.7 in May 2026 from 47.8 in the preliminary estimate and down from a final 50.7 in the previous month. It marked the second contraction in three months as services and manufacturing activity weakened amid the prolonged Middle East conflict. Services activity contracted for the second time in three months, while manufacturing output declined for a fourth consecutive month.
+
+---
+
+### 2026-06-03 07:02:48  #MKT News #WTI #Impact bullish
+
+WTI crude oil up more than 1.0% intraday at $96.23/bbl.
+
+---
+
+### 2026-06-03 07:02:02  #MKT News
+
+Bahrain's Interior Ministry said alarms have sounded and urged the public to move to the nearest safe location.
+
+---
+
+### 2026-06-03 07:00:52  #國際
+
+據Faytuks Network：伊朗革命衛隊宣告稱，針對美國對格什姆島實施的襲擊，伊朗革命衛隊航空航天部隊已動用導彈對科威特境內美軍基地開展 “精準密集打擊”。
+
+---
+
+### 2026-06-03 07:00:11  #MKT News #AUDUSD
+
+Australia May AIG Construction Performance Index -9.9, prior -19.3.
+
+---
+
+### 2026-06-03 07:00:08  #MKT News #DXY #Impact bullish #XAUUSD #Impact mixed #Copper #Impact bearish
+
+Australia May S&P Global Composite PMI final 48.7, prior 47.8.
+
+---
+
+### 2026-06-03 07:00:07  #MKT News #DXY #Impact bullish
+
+Australia May S&P Global Services PMI (final) 48.7; prior 47.7.
+
+---
+
+### 2026-06-03 07:00:07  #MKT News #DXY #Impact bullish #Copper #Impact bearish #WTI
+
+Australia May AIG/PwC Manufacturing Performance Index -22.4, previous -27.9.
+
+---
+
+### 2026-06-03 07:00:00  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PCI (construction) (May) | actual -9.9 | previous -19.3
+
+---
+
+### 2026-06-03 07:00:00  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PMI (manufacturing) (May) | actual -22.4 | previous -27.9
+
+---
+
+### 2026-06-03 06:59:39  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+【COMEX–LME copper spread widens; copper retains short- to medium-term upside】June 2 — COMEX copper surged to $6.649/lb intraday (about $14,658/t) as the COMEX–LME spread briefly widened to nearly $700; inventories at the two exchanges are also diverging. In 2025 the spread neared $3,000, triggering large cross-exchange arbitrage and a subsequent rise in COMEX stocks. Market participants say the current spread expansion is reshaping trade flows and producing regional supply mismatches, with shortages outside the U.S. persisting. On these supply–demand fundamentals, copper likely retains upward momentum over the short- to medium-term.
+
+---
+
+### 2026-06-03 06:59:07  #國際
+
+據Faytuks Network報道，一名官員透露，美國對伊朗格什姆島發動了襲擊。
+
+---
+
+### 2026-06-03 06:58:40  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Up in Morning Trade — The NZX 50 climbed 31 points, or 0.2%, to 13,201 in Tuesday morning trade, halting losses from the previous session and tracking gains on Wall Street overnight, supported by persistent optimism over AI. Consumer staples, communication services, and energy stocks were the main drivers of the index. However, losses in the utilities sector capped the gains. Traders also monitored developments in the US-Iran peace talks aimed at ending the war. On the data front, New Zealand's building consents for new dwellings rebounded in April, surging 10.9%, while the merchandise terms of trade fell 2.0% quarter-on-quarter in the first quarter of 2026, worse than market expectations of a 1.2% decline. Among the early gainers were A2 Milk (1.9%), Sky Network Television (1.3%), Scales Corporation (1.2%), Chorus (0.8%), and F&C Investment (0.8%).
+
+---
+
+### 2026-06-03 06:55:43  #MKT News
+
+IRIB reports alarms sounded in Bahrain.
+
+---
+
+### 2026-06-03 06:55:11  #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）：巴林響起警報聲。
+
+---
+
+### 2026-06-03 06:54:35  #Trading Economics #Economy #New Zealand #Terms of Trade #Importance 1
+
+New Zealand Terms of Trade Drops More Than Expected — New Zealand’s merchandise terms of trade fell 2.0% quarter-on-quarter in the three months to March 2026, reversing a 3.7% rise in the prior quarter and coming in worse than expectations of a 1.2% decline. The deterioration reflected weaker relative export prices, with export prices falling 2.7% compared with a 0.7% drop in import prices.
+
+---
+
+### 2026-06-03 06:54:15  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、中央財政下達今年育兒補貼補助資金 預計全年各級財政共安排補貼資金約一千一百億元
+2、南水北調東線北延工程2025—2026年度調水任務完成
+3、義烏（蘇溪）國際樞紐港集裝箱到髮量超20萬標箱
+4、上海8000多家首店激發消費活力 從品牌集聚地到潮流策源地（中國消費向新而行·首發經濟新變化）
+5、構建首發經濟立體發展格局（專家點評）
+6、營商環境更優 企業信心更足（感言·發展壯大民營經濟）
+7、對所有非洲建交國全面實施零關稅滿月 “我們可選擇的貨源更多了”
+8、首個快遞領域國際標準化機構成立 秘書處設立在中國
+9、湖北洪湖蓮藕產業產值超120億元 泥巴里“長”出大產業（高質量發展在一線·小城寶藏）
+10、切實加強演算法治理 以高質量司法助力數字經濟健康發展（專題深思）
+11、市場監管總局會同教育部出臺規定 織密織牢幼兒飲食安全防護網
+12、加強社媒使用監管，守護孩子數字健康（國際視點）——來自希臘、巴西、德國的實踐探索
+13、寮國鼓勵發展電動車行業。
+
+---
+
+### 2026-06-03 06:54:07  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、融合聚勢 產業共生 重慶以融合化推動產業升級
+2、《習近平的文化情緣》等紀錄片在寮國啟播
+3、人民法院依法盤活被查封凍結財產，為困境企業紓困解難 規範文明執行 託舉發展信心（“十五五”開好局起好步）
+4、王滬寧與歐美同學會（中國留學人員聯誼會）第九屆理事會會長會成員座談
+5、韓正會見英國外交大臣庫珀
+6、國務院印發《加快農業農村現代化“十五五”規劃》
+7、全國已收穫夏糧小麥1.19億畝 收穫進度超35%。
+
+---
+
+### 2026-06-03 06:53:53  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Israeli media report sounds of explosions heard in Bahrain.
+
+---
+
+### 2026-06-03 06:53:07  #MKT News
+
+State broadcaster IRIB reports multiple explosions in Erbil, Iraq.
+
+---
+
+### 2026-06-03 06:52:12  #焦點 #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）： 伊拉克埃爾比勒發生多起爆炸。
+
+---
+
+### 2026-06-03 06:51:53  #公司 #市場 #央行 #國際
+
+【6月3日隔夜要聞一覽】
+1、美股週二收高，三大股指均再創歷史新高，標普首次收在7600點之上。道指漲228.91點，漲幅為0.45%，報51307.79點；納指漲7.09點，漲幅為0.03%，報27093.90點；標普500指數漲9.94點，漲幅為0.13%，報7609.90點。
+2、邁威爾科技收高32.52%，成交282.49億美元。公司獲英偉達CEO黃仁勳看好，最新一季度營收創新高，營收指引獲大幅上調。
+3、特朗普表示，美國與伊朗之間的對話一直在持續進行。
+4、特朗普週二簽署了一項行政命令，要求人工智慧公司在釋出模型前30天，須向政府提供相關模型。
+5、歐洲央行2日釋出報告，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，美國國債的同期佔比降至22%，黃金成為全球官方儲備第一大資產。
+6、微軟週二宣佈一系列全面的人工智慧計劃，涵蓋自主辦公助理、智慧裝置、搭載英偉達晶片的PC以及全新的內部推理模型。
+7、SpaceX要求壓低IPO承銷費率，華爾街投行仍有望分食5億美元收入。
+8、馬斯克關聯空殼公司550億美元在休斯頓郊外購地。
+9、NBA球星斯蒂芬·庫裡與李寧的協議價值超過4億美元。
+
+---
+
+### 2026-06-03 06:50:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Islamic Republic of Iran Broadcasting (IRIB) reported a new explosion and attack at a US military base in Kuwait.
+
+---
+
+### 2026-06-03 06:50:37  #Trading Economics #Economy #New Zealand #Building Permits MoM #Importance 1
+
+New Zealand New Dwellings Building Consents Rebound — Building consents for new dwellings in New Zealand surged 10.9% month-on-month in April 2026, rebounding sharply from a downwardly revised 0.8% decline in March. A total of 3,692 new dwellings were consented, including 1,604 stand-alone houses, 1,530 townhouses, flats, and units, 499 apartments, and 59 retirement village units.
+
+---
+
+### 2026-06-03 06:50:36  #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）： 美軍駐科威特基地再遭爆炸襲擊、出現被炸點位。
+
+---
+
+### 2026-06-03 06:49:35  #國際
+
+【聯合國專家譴責美國對古巴革命領袖的指控】當地時間6月2日，聯合國人權理事會特別報告員和獨立專家發表宣告，指出美國對古巴革命領袖勞爾·卡斯特羅的指控違反了《聯合國憲章》和國際法，並濫用司法程式作為脅迫手段。宣告敦促美國政府立即停止對古巴的威脅並撤銷單方面強制措施；強調任何國家都不應承認這些措施，並呼籲聯合國安理會和大會緊急處理針對古巴的威脅，將其視為影響國際和平與安全的問題。（央視新聞）
+
+---
+
+### 2026-06-03 06:49:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Rubio: Israel plan to control 70% of Gaza not aligned with U.S. position】Rubio told a House Appropriations Committee hearing on the 2nd that Prime Minister Netanyahu’s proposal for Israeli forces to control 70% of the Gaza Strip is inconsistent with the U.S. position and is not part of President Trump’s 20-point plan to end the Gaza conflict; under that plan Israel would not be required to do so. Under the first phase of the Gaza ceasefire agreement, effective October 2025, Israel controls 53% of the territory.
+
+---
+
+### 2026-06-03 06:48:49  #國際
+
+【柬埔寨宣佈啟動強制調解程式，以解決與泰國重疊海洋權益主張】據柬埔寨新聞社報道，柬埔寨首相洪瑪奈2日表示，柬埔寨已正式通知泰國和聯合國秘書長，啟動《聯合國海洋法公約》強制調解程式，“解決與泰國存在的重疊海洋權益主張”。洪瑪奈在一份宣告中說：“採取該措施旨在根據國際法保護柬埔寨的主權和海洋權利。柬埔寨始終尋求以和平方式解決與鄰國的爭端。”他表示，啟動這一程式並不意味著柬埔寨放棄對話，而是將對話引入兩國都認可的、結構化的國際框架。(環球網)
+
+---
+
+### 2026-06-03 06:48:46  #國際
+
+【魯比奧：以色列擬控加沙七成區域 不符美方立場 】美國國務卿魯比奧2日表示，以色列總理內塔尼亞胡提出以軍要控制加沙地帶70%區域的計劃與美方立場不符。魯比奧當天下午在美國國會眾議院撥款委員會舉行的聽證會上接受議員質詢時說，內塔尼亞胡這一計劃並非美國總統特朗普關於結束加沙衝突的“20點計劃”組成部分。按照“20點計劃”，以色列不需要那樣做。他同時稱，美方目標和以方最終目標一致，即加沙地帶由一個不是巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的實體治理。（新華社）
+
+---
+
+### 2026-06-03 06:48:22  #其他
+
+科威特總參謀部表示，該國防空部隊正在攔截來襲導彈與無人機，並補充稱民眾聽到的爆炸聲均為攔截行動所致，同時呼籲民眾遵照安全指引行事。
+
+---
+
+### 2026-06-03 06:46:03  #MKT News #DXY #Impact bearish #Copper #Impact bullish #S&P500
+
+New Zealand April building consents YoY 52.7%, prior 8.2%.
+
+---
+
+### 2026-06-03 06:45:55  #MKT News #Economic Calendar #Important
+
+New Zealand | Building Permits (YoY) (Apr) | actual 52.7% | previous 8.2%
+
+---
+
+### 2026-06-03 06:45:35  #其他
+
+市場訊息：科威特短時間內接連發生多起爆炸。
+
+---
+
+### 2026-06-03 06:45:08  #MKT News
+
+New Zealand April building consents MoM +10.9%; March revised to -0.8% from -1.30%.
+
+---
+
+### 2026-06-03 06:45:07  #其他
+
+紐西蘭4月營建許可環比 10.9%，前值 -1.3%。
+
+---
+
+### 2026-06-03 06:45:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Sinks by 6.29% — Top crypto losers are Bitcoin (-6.29%), XRP (-6.24%) and Ether (-5.64%).
+
+---
+
+### 2026-06-03 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Building Permits (MoM) (Apr) | actual 10.9% | previous -1.30%
+
+---
+
+### 2026-06-03 06:44:08  #MKT News #WTI #Impact bullish #Brent
+
+Israeli media reported sounds resembling missile launches were heard in Darab, Fars province, Iran.
+
+---
+
+### 2026-06-03 06:43:54  #其他
+
+市場訊息：科威特境內傳來爆炸聲。
+
+---
+
+### 2026-06-03 06:43:25  #宏觀 #國際
+
+美國國務院批准擬向越南出售價值 1 億美元的 C-130 運輸機維護保障相關軍貿專案。
+
+---
+
+### 2026-06-03 06:43:09  #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）：美國防禦導彈未能成功攔截來襲導彈，並墜落於科威特的非軍事區域。
+
+---
+
+### 2026-06-03 06:40:58  #國際
+
+市場訊息：美國眾議院推出跨黨派法案，旨在保護創作者免受 AI 侵權損害。
+
+---
+
+### 2026-06-03 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Gains by 4.55% — Top commodity gainers are Cocoa (4.55%) and Rice (1.28%). Biggest losers are Oat (-3.45%) and Soybeans (-1.31%).
+
+---
+
+### 2026-06-03 06:39:16  #MKT News
+
+【U.S. official signals flexibility on $100,000 H-1B visa fee】DHS Secretary Ma Lin said the department has discretionary authority to reduce or waive the newly established $100,000 H‑1B fee in certain cases, potentially easing pressure on employers who rely on legal immigration amid the Trump administration's broader tightening. He also indicated support for simplifying re‑entry procedures for H‑2B seasonal foreign workers, a temporary labor source for hospitality, tourism, seafood processing, landscaping and construction sectors.
 
 ---
 
@@ -23032,323 +23343,5 @@ Metals Commodities Updates: Copper Gains by 2.99% — Top commodity gainers are 
 ### 2026-06-02 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
 
 Energy Commodities Updates: Natural Gas UK Soars by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.11%), Natural Gas EU (4.93%) and Brent Crude Oil (4.07%). Biggest loser is Natural gas (-3.61%).
-
----
-
-### 2026-06-02 02:13:43  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-【Apple (AAPL.O) plans iPhone bill‑splitting feature to expand everyday financial tools】Apple (AAPL.O) is planning a new iPhone feature to let users split bills for group meals and other activities, expanding its everyday financial tools and posing a challenge to third‑party apps, people familiar with the matter said. The function would let users photograph receipts, allocate items to different people and generate payment requests; Apple plans to announce it at next week’s Worldwide Developers Conference and include it in iOS 27, the sources said.
-
----
-
-### 2026-06-02 02:10:49  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-【Sources say Israel delayed planned airstrikes on Beirut at US request】Sources say Israel delayed planned airstrikes on Beirut, Lebanon, at the request of the US, which is advancing a ceasefire initiative and urged Israel to wait; the reports have not been confirmed by Israeli officials.
-
----
-
-### 2026-06-02 02:10:27  #國際
-
-【訊息人士稱以色列應美國要求推遲空襲黎巴嫩貝魯特】訊息人士稱，以色列應美國的要求推遲了原定對黎巴嫩貝魯特的空襲計劃，並補充說，美國正在推進一項停火倡議，並要求以色列等待。但相關訊息未得到以色列官方證實。（央視新聞）
-
----
-
-### 2026-06-02 02:08:51  #公司 #國際
-
-【市況火熱，歐洲垃圾級企業競相削減貸款成本】本週伊始，借款人正紛紛湧向歐洲槓桿貸款市場進行債務重定價，希望利用有利的信用條件來削減其加點。漢堡王（Burger King）的運營商Restaurant Brands Europe、眼科護理服務商nexeye、以及汽車零部件製造商Parts Holding Europe等公司，均在尋求將其歐元定期貸款的利率削減25-50個基點。生育連鎖機構Ivirma同樣計劃對其借款進行重定價——並在現有債務基礎上增加一筆等值5000萬歐元的定期貸款；而MotoGP Sports則試圖在其目前支付的、高於基準利率275個基點的利息水平上進一步調降。
-
----
-
-### 2026-06-02 02:07:19  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
-
-【Anthropic reportedly filed draft S-1 for IPO】Anthropic has reportedly submitted a confidential draft S-1 as it races OpenAI to list, targeting a Wall Street IPO as early as this autumn. Share count and pricing have not been set. Anthropic, OpenAI and SpaceX are advancing listing plans to open a major financing channel. In its most recent financing Anthropic raised $65.0 bln and was valued at $965.0 bln, surpassing OpenAI. Demand for its tools has surged as clients adopt them for coding and other tasks. Goldman Sachs, JP Morgan and Morgan Stanley are expected to be considered for lead-manager roles on the Anthropic and OpenAI listings, sources said.
-
----
-
-### 2026-06-02 02:00:49  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) is reportedly preparing to launch a bill-splitting feature as it further expands its financial services.
-
----
-
-### 2026-06-02 01:58:19  #公司
-
-【蘋果準備推出賬單拆分功能，進一步深耕金融領域】蘋果公司正為 iPhone 研發一項全新服務，支援使用者拆分聚餐或各類集體活動的賬單。該功能支援使用者拍攝消費小票，把賬單消費專案分攤給多位參與者，並自動生成收款申請。這項服務依託Apple Cash執行，可在錢包 App 或資訊應用內使用，使用者也能透過蘋果手錶確認付款。知情人士表示蘋果最早有望於下週的全球開發者大會官宣該功能，並將其預裝在新一代手機系統 iOS 27 中。
-
----
-
-### 2026-06-02 01:54:08  #市場
-
-鈀金期貨日內漲1%，現報1396.00美元/盎司。
-
----
-
-### 2026-06-02 01:52:46  #國際
-
-【特朗普：與伊朗的談判正“快速推進”】美國總統特朗普1日在社交媒體上說，與伊朗的談判正“快速推進”。 (新華社)
-
----
-
-### 2026-06-02 01:49:26  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Ukrainian President Zelenskiy said Ukrainian military operations have caused fuel shortages in Crimea and other occupied territories.
-
----
-
-### 2026-06-02 01:49:02  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Zelenskiy says Ukrainian forces can strike Russian logistics across occupied territory; Russian troops in southern and eastern Ukraine have almost no secure supply routes.
-
----
-
-### 2026-06-02 01:45:40  #國際
-
-烏克蘭總統澤連斯基： 烏軍可打擊所有俄方控制區域內的俄軍後勤設施，在烏克蘭東部和南部，俄軍幾乎沒有安全通行的道路。
-
----
-
-### 2026-06-02 01:45:34  #國際
-
-烏克蘭總統澤連斯基：烏軍行動已造成克里米亞及其他被佔領地區燃油短缺。
-
----
-
-### 2026-06-02 01:44:31  #MKT News #Important
-
-Trump said negotiations with Iran are ongoing and progressing rapidly.
-
----
-
-### 2026-06-02 01:44:01  #焦點 #國際
-
-特朗普：與伊朗的談判正在快速推進。
-
----
-
-### 2026-06-02 01:40:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign ministry: US directly responsible for Israel’s Lebanon–Israel ceasefire violations】On the 1st, Iran’s foreign ministry said the United States bears direct responsibility for violations of an Iran–U.S. ceasefire and for Israel’s breaches of the Lebanon–Israel ceasefire, and should bear full responsibility for the consequences. Iran said it will defend its interests when it deems necessary.
-
----
-
-### 2026-06-02 01:40:28  #國際
-
-以色列國防軍：鑑於確認有火箭彈從黎巴嫩發射，目標直指衝突線沿線的各社群，後方司令部已釋出預防性指令。公眾應在警報響起時立即進入避難場所。
-
----
-
-### 2026-06-02 01:40:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces said rockets confirmed fired from Lebanon targeted frontline communities; rear command issued precautionary orders. The public should enter shelters immediately when alarms sound.
-
----
-
-### 2026-06-02 01:40:09  #國際
-
-【伊朗外交部：美對以色列違反黎以停火協議負有直接責任】當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。（央視新聞）
-
----
-
-### 2026-06-02 01:38:30  #國際
-
-【特朗普：以色列和黎真主黨的所有交火行動將立即停止】當地時間6月1日，美國總統特朗普在社交媒體“真實社交”上發文表示，他與以色列總理內塔尼亞胡進行了一次富有成效的通話，現已確定不會有任何部隊前往貝魯特，凡是此前正在途中的部隊，均已奉命撤回。特朗普還表示，透過高階別代表的協調，他也與黎巴嫩真主黨進行了一次良好的溝通。雙方已達成共識，所有交火行動將立即停止——即以色列不會攻擊黎真主黨，黎真主黨也不會攻擊以色列。（央視新聞）
-
----
-
-### 2026-06-02 01:38:19  #MKT News
-
-President Trump said negotiations with Iran are 'starting to get very boring'.
-
----
-
-### 2026-06-02 01:36:54  #市場 #國際
-
-特朗普就中東問題發表評論後，美國國債跌幅收窄。
-
----
-
-### 2026-06-02 01:35:27  #MKT News
-
-【Trump says productive talks with Netanyahu and Hezbollah; no US troops to Beirut】President Trump said on social media he had a very productive call with Israeli Prime Minister Netanyahu and that no US troops will go to Beirut; any units already en route have been sent back. He said, via a senior representative, he also had a good call with Hezbollah and that both sides agreed all shooting will stop — Israel will not attack Hezbollah and Hezbollah will not attack Israel.
-
----
-
-### 2026-06-02 01:34:57  #國際
-
-美國總統特朗普：坦率地說，有關與伊朗談判的問題開始變得無聊了。（CNBC）
-
----
-
-### 2026-06-02 01:34:44  #焦點 #國際
-
-【特朗普：真主黨和以色列同意互不攻擊】美國總統特朗普在社交媒體“真相社交”發文稱， 同以色列總理內塔尼亞胡進行了一次富有成效的通話，美方不會向貝魯特派兵，所有正在馳援途中的部隊均已原路撤回。與此同時，我透過高層特使與真主黨順利通了話，對方達成全面停火共識：以色列不會對其發起襲擊，真主黨也不再襲擊以色列。
-
----
-
-### 2026-06-02 01:32:55  #MKT News
-
-Iraqi security official says a fire aboard a cargo ship has been brought under control.
-
----
-
-### 2026-06-02 01:31:46  #MKT News
-
-U.S. President Trump said Israel would not attack Hezbollah and Hezbollah would not attack Israel.
-
----
-
-### 2026-06-02 01:31:21  #MKT News #Important
-
-U.S. President Trump said through senior representatives he had a very good call with Hezbollah and that they agreed to cease all shooting.
-
----
-
-### 2026-06-02 01:31:11  #焦點 #國際
-
-特朗普：我透過高層代表同真主黨進行了一次十分順暢的通話，對方同意全面停止交火。
-
----
-
-### 2026-06-02 01:30:58  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-U.S. President Trump said he had a productive call with Israeli Prime Minister Netanyahu and that no troops will be sent to Beirut; any forces en route have been recalled.
-
----
-
-### 2026-06-02 01:30:57  #焦點 #國際
-
-特朗普：不會向貝魯特派遣軍隊，所有正在開赴當地的部隊均已奉命折返。
-
----
-
-### 2026-06-02 01:30:43  #國際
-
-特朗普：我與以色列總理內塔尼亞胡進行了一場極富成效的通話。
-
----
-
-### 2026-06-02 01:29:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IRNA reports Iran's oil minister said repairs to energy infrastructure have made significant progress and he is optimistic about a rapid restoration of oil production capacity.
-
----
-
-### 2026-06-02 01:28:02  #公司 #國際
-
-【上汽MG歐洲首家工廠落戶西班牙】上汽集團旗下MG品牌已選定西班牙建設其首家歐洲汽車工廠。當地政府表示，該專案位於西班牙西北部，初始投資預計約2億歐元(2.32億美元)，不包括港口費用，年產能可達12萬輛。工廠預計於2028年投產。MG原為英國品牌，近20年前被上汽集團收購，目前是歐洲銷量最高的中國汽車品牌之一。
-
----
-
-### 2026-06-02 01:27:01  #MKT News #WTI #Impact bullish #Brent
-
-Iraqi security official says preliminary assessment indicates the second explosion aboard a cargo ship about 40 nautical miles southeast of Umm Qasr was caused by a drone attack.
-
----
-
-### 2026-06-02 01:26:37  #MKT News
-
-An Iraqi security official said a cargo ship about 40 nautical miles southeast of Umm Qasr suffered a second explosion and caught fire; no casualties reported.
-
----
-
-### 2026-06-02 01:26:36  #其他
-
-伊拉克安全官員訊息：波斯灣海域、烏姆卡斯爾港東南約 40 海里處一艘貨輪遭遇二次爆炸並起火，暫無人員傷亡通報。初步研判顯示，這艘在波斯灣、伊拉克烏姆卡斯爾港東南約 40 海里處遭遇二次爆炸的貨輪系遭無人機襲擊所致。
-
----
-
-### 2026-06-02 01:25:54  #MKT News #Important #XAUUSD #Impact bullish #DXY #Brent
-
-Two Israeli sources said Israel is awaiting final approval from Trump before conducting any operation in the southern suburbs of Beirut.
-
----
-
-### 2026-06-02 01:25:11  #焦點 #國際
-
-兩名以色列訊息人士：以色列正等待特朗普最終批准，方可在貝魯特南部郊區開展軍事行動。
-
----
-
-### 2026-06-02 01:24:10  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israel says it intercepted multiple rockets fired by Hezbollah from Lebanon】Israel Defense Forces (IDF) said on June 1 that Hezbollah fired multiple rockets from Lebanon into Israel. Israeli air defenses intercepted some; others fell near IDF troops with no casualties reported. Hezbollah also launched a drone from Lebanon that struck an Israeli position in northern Israel. The IDF warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would respond by striking targets in Dahiyeh if Hezbollah continues firing at Israeli towns.
-
----
-
-### 2026-06-02 01:23:19  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $1.302 billion from five counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-02 01:19:10  #央行 #國際
-
-週一（6月1日），美聯儲隔夜逆回購協議（RRP）使用規模為13.02億美元（交易對手5家），上個交易日報116.77億美元。
-
----
-
-### 2026-06-02 01:16:46  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Trump says he doesn't care if Iran talks end; expects oil to fall soon】In a CNBC interview on Monday, US President Trump said he 'doesn't care' whether talks with Iran end and that he 'really doesn't care' about reports Tehran stopped contact after Israeli military action in Lebanon. He said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon and that he is not worried about oil prices, saying they will 'drop like a stone' in the near term. Earlier, Iranian state media reported Tehran would halt negotiations and vowed to 'completely block' the Strait of Hormuz; that report had pushed oil sharply higher.
-
----
-
-### 2026-06-02 01:13:45  #Trading Economics #Markets #Colombia #Currency #Importance 1
-
-Colombian Peso Tests 5-Year High — The Colombian peso surged to 3,570 per USD in June, testing its strongest level in over five years, after rightwing populist presidential candidate de la Espriella unexpectedly won the first round of elections. The candidate, seen as an outsider, set up the run-off against leftist Cepeda, backed by outgoing President Petro. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government.
-
----
-
-### 2026-06-02 01:13:28  #MKT News
-
-Brazil's finance minister said that if Brazilian financial institutions are hit by U.S. sanctions they may be unable to provide the PIX payment system.
-
----
-
-### 2026-06-02 01:13:13  #MKT News
-
-Brazil's finance minister said they had done their best to submit an explanation.
-
----
-
-### 2026-06-02 01:12:52  #MKT News
-
-Brazil's finance minister said the government is concerned about new U.S. tariffs.
-
----
-
-### 2026-06-02 01:11:45  #國際
-
-據伊朗國家通訊社（IRNA）：伊朗石油部長表示，本國能源設施重建工作取得重大進展，有望快速恢復產能。
-
----
-
-### 2026-06-02 01:11:44  #MKT News #Important
-
-Russia is reportedly considering imports of aviation fuel, a Russian business news agency reports.
-
----
-
-### 2026-06-02 01:10:04  #國際
-
-市場訊息： 俄羅斯正考慮進口航空煤油。
-
----
-
-### 2026-06-02 01:08:27  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US President Trump said oil prices will fall "like a rock" in the near future.
-
----
-
-### 2026-06-02 01:07:26  #MKT News
-
-US President Trump said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon.
-
----
-
-### 2026-06-02 01:06:27  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Netanyahu speaks with Trump on Iran, Lebanon】On the evening of June 1 local time, Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump to discuss developments in Iran and Lebanon. The call followed Israeli forces crossing the Litani River to launch an offensive, effectively collapsing a temporary ceasefire that began April 17. On May 31 Netanyahu ordered an expansion of military operations in Lebanon and has sought U.S. support for strikes on Beirut and other targets, a request he has communicated to Washington.
 
 ---

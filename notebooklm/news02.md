@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 17:45:21_
-_本檔包含 3775 則快訊，約 705888 字_
+_更新時間：2026-06-07 18:37:45_
+_本檔包含 3787 則快訊，約 706116 字_
+
+---
+
+### 2026-06-05 12:39:51  #市場 #國際
+
+印度儲備銀行行長：能源價格上漲對零售產品的傳導效應正逐步顯現。
+
+---
+
+### 2026-06-05 12:39:38  #國際
+
+印度儲備銀行行長：（地緣衝突帶來影響的）全部影響將取決於衝突持續時長。
+
+---
+
+### 2026-06-05 12:39:16  #市場 #國際
+
+印度儲備銀行行長：能源價格上漲、供應鏈中斷將對經濟活動造成拖累。
+
+---
+
+### 2026-06-05 12:39:09  #其他
+
+【上海開展“清朗·整治AI應用亂象”專項行動】為規範AI服務和應用，促進行業健康有序發展，保障公民合法權益，根據中央網信辦統一部署，上海網信辦結合屬地實際，積極組織開展為期4個月的“清朗·整治AI應用亂象”專項行動。本次專項行動分兩個階段開展。第一階段為“清朗·AI應用服務典型違規問題”專項治理行動，重點整治未按規定履行大模型備案登記義務、安全稽核能力不足、大模型訓練語料安全、AI資料投毒、生成合成內容標識落實不到位等問題，強化AI技術源頭治理。第二階段為“清朗·整治AI資訊內容亂象”專項行動，聚焦利用AI技術生成“數字泔水”、製作釋出虛假資訊、散播暴力低俗等不良資訊、假冒仿冒他人、侵害未成年人權益、從事網路水軍活動等問題，堅決清理違法不良資訊，依法處置處罰違規賬號、MCN機構和網站平臺。
+
+---
+
+### 2026-06-05 12:38:59  #公司
+
+【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
+
+---
+
+### 2026-06-05 12:38:46  #國際
+
+印度儲備銀行行長：服務出口表現強勁。
+
+---
+
+### 2026-06-05 12:38:41  #國際
+
+印度豁免外國機構投資者政府債券利息的資本利得稅。
+
+---
+
+### 2026-06-05 12:38:32  #國際
+
+印度儲備銀行行長：企業預期仍偏正面。
+
+---
+
+### 2026-06-05 12:38:26  #市場 #國際
+
+印度Nifty金融服務指數上漲1%，此前印度儲備銀行維持關鍵利率不變。
+
+---
+
+### 2026-06-05 12:37:42  #Trading Economics #Economy #India #Interest Rate #Importance 3
+
+India Holds Rates, Revises Down FY26/27 GDP Forecasts — The Reserve Bank of India (RBI) kept its key repo rate unchanged at 5.25% for the third consecutive meeting in June and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the conflict in the Middle East threatened GDP growth and fueled inflationary pressures. On the economic outlook, the RBI lowered its GDP growth forecast for FY2026/27 to 6.6%, down from its earlier estimate of 6.9%. For the first quarter of the fiscal year, GDP is projected to grow by 6.6%, while growth is forecast at 6.3% in the second quarter and 6.5% and 6.8% in Q3 and Q4, respectively. Meanwhile, inflation is projected to average 5.1%, up from the earlier estimate of 4.6%, mainly driven by higher LPG, base metal, plastic, and rubber prices. Inflation is forecast at 4.2% in Q1, 5.1% in Q2, 5.9% in Q3, and 5.9% in Q4.
+
+---
+
+### 2026-06-05 12:37:19  #國際
+
+印度儲備銀行行長：（貨幣政策）將繼續基於資料做出判斷。
+
+---
+
+### 2026-06-05 12:37:15  #國際
+
+印度修訂所得稅法，自2026年4月1日起生效。
+
+---
+
+### 2026-06-05 12:36:54  #國際
+
+印度儲備銀行行長：等待更為明確的形勢出現再行動是審慎之舉。
+
+---
+
+### 2026-06-05 12:36:52  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Holds Gains on BOJ Hike Bets — Japan’s 10-year government bond yield hovered around 2.66% on Friday, maintaining its recent advance as investors continued to bet that the Bank of Japan will raise interest rates later this month. On Wednesday, Bank of Japan Governor Kazuo Ueda said the central bank should carefully assess the costs and benefits of higher rates if inflation risks begin to outweigh downside risks to economic growth. Policymakers are also contending with mounting inflationary pressures stemming from higher energy prices linked to the Middle East conflict. Markets are currently pricing in roughly an 80% probability of a rate hike at the BOJ’s June 16 policy meeting. Supporting the hawkish outlook, data released on Friday showed Japan’s real wages rose 1.9% in April, marking a fourth straight month of growth and reinforcing expectations for further policy tightening.
+
+---
+
+### 2026-06-05 12:36:44  #國際
+
+印度儲備銀行行長：通脹進一步走高的風險有所加劇。
+
+---
+
+### 2026-06-05 12:36:31  #國際
+
+印度儲備銀行行長：食品價格前景仍存在不確定性。
+
+---
+
+### 2026-06-05 12:36:25  #國際
+
+印度儲備銀行行長：通脹與增長均面臨重大風險。
+
+---
+
+### 2026-06-05 12:36:13  #國際
+
+印度儲備銀行行長：部分行業已出現放緩跡象。
+
+---
+
+### 2026-06-05 12:35:49  #國際
+
+印度儲備銀行行長：能源價格高企、供應限制正對經濟活動產生負面溢位影響。
+
+---
+
+### 2026-06-05 12:35:44  #國際
+
+印度儲備銀行行長：國內需求仍具韌性。
+
+---
+
+### 2026-06-05 12:35:38  #國際
+
+印度儲備銀行行長：受季風降雨量低於正常水平的預測及厄爾尼諾風險影響，經濟前景仍不明朗。
+
+---
+
+### 2026-06-05 12:35:30  #國際
+
+印度儲備銀行行長：第二輪效應導致通脹範圍擴大是非常有可能發生的情況。
+
+---
+
+### 2026-06-05 12:35:09  #國際
+
+印度儲備銀行行長：供應衝擊的影響將從第四季度開始顯現。
+
+---
+
+### 2026-06-05 12:34:58  #國際
+
+印度儲備銀行行長：基準預測顯示，到2027財年第三季度，通脹將穩步升至容忍區間上限。
+
+---
+
+### 2026-06-05 12:34:53  #央行 #國際
+
+印度10年期基準政府債券收益率較印度央行貨幣政策決議公佈前的6.98%上升2個基點，至7.0014%。
+
+---
+
+### 2026-06-05 12:34:39  #市場 #國際
+
+印度盧比在印度儲備銀行維持利率不變後兌美元走弱。
+
+---
+
+### 2026-06-05 12:34:05  #國際
+
+印度儲備銀行行長：自上次貨幣政策會議召開以來，全球環境已出現惡化。
+
+---
+
+### 2026-06-05 12:33:53  #國際
+
+印度儲備銀行行長：貨幣政策委員會維持“中性”政策立場。
+
+---
+
+### 2026-06-05 12:33:39  #國際
+
+印度儲備銀行行長：貨幣政策委員會對回購利率決定的投票結果為全票透過。
+
+---
+
+### 2026-06-05 12:33:32  #焦點 #國際
+
+印度儲備銀行行長：關鍵回購利率維持5.25%不變。
+
+---
+
+### 2026-06-05 12:33:16  #央行 #國際
+
+印度儲備銀行行長： 發達經濟體央行或將轉向政策收緊。情緒風險、避險需求正在加劇外匯市場波動。情緒風險、避險需求正在加劇外匯市場波動。
+
+---
+
+### 2026-06-05 12:32:33  #國際
+
+印度儲備銀行行長： 印度經濟本輪進入全球動盪期時的基本面狀況優於以往歷次週期。我們有信心以最小代價抵禦衝擊。直面並解決這些挑戰至關重要。貨幣政策已轉向更為謹慎的姿態。
+
+---
+
+### 2026-06-05 12:31:14  #央行 #國際
+
+印度儲備銀行（印度央行）行長  ：過去幾個月，全球經濟一直受不確定性左右。
+
+---
+
+### 2026-06-05 12:30:40  #央行 #國際
+
+印度央行行長開始發表貨幣政策講話。
+
+---
+
+### 2026-06-05 12:29:50  #市場 #央行 #國際
+
+印度Nifty金融服務指數在印度央行政策決議公佈前上漲0.7%。
+
+---
+
+### 2026-06-05 12:28:22  #市場 #央行 #國際
+
+【三菱日聯：日本或需大幅加息才能提振日元】三菱日聯資產管理表示，不能排除日本央行大幅加息或非常規臨時加息的可能性，並警示，市場預期的本月加息舉措或難以阻止日元與日債繼續走弱。日本頭部資管機構三菱日聯資產管理首席基金經理Masayuki Koguchi稱：“僅加息25個基點無法止住日元貶值。若通脹加速上行，日本央行單次會議或加息50至75個基點。”他補充：“受外部環境與基本面變化影響，央行臨時非常規加息也存在落地可能。”受伊朗地緣衝突推升通脹的擔憂影響，日元與日本國債持續承壓。隔夜指數互換定價顯示，市場押注本月日本央行加息25個基點的機率超90%，但Koguchi認為單次小幅加息難以改善市場悲觀情緒。
+
+---
+
+### 2026-06-05 12:27:05  #其他
+
+【夸克推出2026高考志願填報產品】2026年全國高考臨近，6月5日，夸克推出新升級的高考頻道，為考生免費提供“高考搜尋”、“智慧選志願”、“志願表”、“志願報告”等功能。夸克高考志願工具也將接入千問APP。
+
+---
+
+### 2026-06-05 12:25:31  #公司
+
+【喜力股東施壓 敦促集團外聘高管出任 CEO】英國《金融時報》訊息，喜力部分主要股東呼籲這家荷蘭啤酒集團選聘外部人士擔任執行長。位列前十五的兩大投資方表示，希望喜力摒棄長期內部提拔高管的慣例，透過外部聘任新任 CEO，助力公司扭轉經營局面。
+
+---
+
+### 2026-06-05 12:24:19  #觀點
+
+【領益智造計劃下週啟動香港上市推介 籌資規模約10億美元】IFR援引知情人士報道稱，深圳上市的領益智造計劃下週啟動香港上市推介，籌資規模約10億美元。領益智造上月申請香港上市，國泰君安國際是獨家保薦人。
+
+---
+
+### 2026-06-05 12:23:36  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Opens Slightly Higher — India’s BSE Sensex rose about 0.3% to 74,545 at the open on Friday, recovering from losses in the previous session as investors positioned ahead of the Reserve Bank of India's monetary policy decision later today. Market sentiment improved after GIFT Nifty futures signaled a stronger start, with traders expecting the RBI to maintain its benchmark policy rate while closely monitoring comments from Governor Sanjay Malhotra for clues on the outlook for inflation, growth, liquidity conditions and potential measures to support capital inflows. Broad-based gains were seen across most sectors, while technology, energy minerals, non-energy minerals, consumer non-durables, and miscellaneous stocks remained under pressure. Among individual stocks, Adani (+2.2%), ZEE (+5.8%), BSE (+1.9%), and Billionbrains (+2.1%) led the early gains, while HFCL (-4.8%), JSLL (-5.0%), and Wockhardt (-6.2%) were among the biggest laggards. Nonetheless, the benchmark remains 0.3% in the red for the week to date.
+
+---
+
+### 2026-06-05 12:22:52  #其他
+
+【監管收緊！購藥新規落地，減肥神藥無處方禁止網售】司美格魯肽、替爾泊肽等GLP-1類藥物一度成為電商平臺的現象級品類，被眾多消費者視作“減肥神藥”。而在新修訂的《藥品管理法實施條例》於今年5月15日正式施行後，天貓、京東等平臺紛紛收緊GLP-1類藥物的線上銷售。 21世紀經濟報道記者調查天貓、京東等主流電商發現，目前不同平臺、不同產品的購藥流程存在差異，合規尺度有所參差。在天貓平臺，針對是否需要處方的問題，客服表示，“下單後將身高體重資訊發給門診藥師，看藥師能否幫您開具，微信溝通就行。”而在京東健康平臺，對於諾和盈、埃諾格魯肽（先維盈）等藥物，店鋪客服明確表示，目前該類藥品需憑處方線下取藥，線上渠道已基本收緊。（21財經）
+
+---
+
+### 2026-06-05 12:20:49  #公司 #市場 #國際
+
+Kiwoom Securities的分析師Han Ji-young週五表示，由於博通的業績未能達到部分投資者的預期，促使交易員在美國科技股近期強勁上漲後獲利了結，韓國晶片股在經歷價格大幅上漲後正在稍作喘息，“最近的股市回撥並非由公司盈利等基本面因素驅動。相反，這似乎是市場快速上漲後的一次休整。”
+
+---
+
+### 2026-06-05 12:19:38  #公司 #市場 #國際
+
+【博通業績展望令人失望，韓國科技股領跌亞洲市場】美國人工智慧(AI)晶片製造商博通釋出的業績展望不及投資者的高預期，引發了市場對AI支出熱潮可能伴隨利潤率壓力上升的擔憂。受此影響，韓國、日本等地的科技股均告下跌。週五，韓國晶片股追隨美國同業隔夜的跌勢大幅下跌，促使股市運營商短暫暫停交易以降低波動性。SK海力士是英偉達的主要高頻寬儲存(HBM)供應商，該公司股價在後市前段一度下跌9.6%。全球最大的儲存晶片製造商三星電子股價一度下跌7.5%。這兩家公司的市值合計約佔韓國綜合指數(Kospi)總市值的一半，其股價大跌導致該基準股指的成分股交易暫停了五分鐘。這項旨在限制市場過度波動的交易限制措施，是由Kospi 200期貨指數下跌超過5%觸發的。韓國綜合指數在前市大部分時間下跌約5%。週五，半導體相關股票領跌日本日經指數。該基準指數下跌1.6%。晶片製造商瑞薩電子最新下跌6.3%，半導體生產裝置製造商東京電子下跌7.1%，晶片測試裝置製造商愛德萬測試下跌4.9%。
+
+---
+
+### 2026-06-05 12:19:08  #國際
+
+【海外618，速賣通歐洲本地訂單佔比過半】6月5日訊息，阿里旗下跨境電商平臺速賣通AliExpress的海外618大促首日資料顯示，在西班牙、法國、波蘭等核心市場，速賣通從歐洲本地倉發貨的訂單佔比首次突破50%，超越跨境直髮訂單。隨著歐盟收緊低值包裹稅收政策，依賴跨境直髮的小包模式面臨清關成本上升與合規壓力，履約環節前置到歐洲本地成為新選擇。包括速賣通、SHEIN、Temu在內的平臺都在加速歐洲本地倉儲佈局。
+
+---
+
+### 2026-06-05 12:18:45  #其他
+
+【五大流域開展增殖放流 生態魚道助力珍稀魚類洄游】今天（5日）是世界環境日，我國多地正圍繞“全面綠色轉型，共建美麗中國”主題開展系列活動，其中，金沙江、雅礱江、瀾滄江等五大流域集中開展魚類增殖放流活動。記者瞭解到，不僅在金沙江上游，全國多地同步啟動水生生物增殖放流行動。雅礱江、瀾滄江、雅魯藏布江中游、贛江等流域因地制宜投放各類本土魚苗，以人工增殖方式守護水生生物多樣性，保護流域生態平衡。（央視）
+
+---
+
+### 2026-06-05 12:18:05  #其他
+
+【《2025中國生態環境狀況公報》釋出】今天（5日）是世界環境日，今年我國的主題是“全面綠色轉型，共建美麗中國”。生態環境部今天釋出《2025中國生態環境狀況公報》，公報顯示，2025年我國生態環境質量持續改善。2025年，全國339個地級及以上城市PM2.5平均濃度為29.3微克/立方米，今年繼續穩步下降為28微克/立方米；“十四五”時期重汙染天數減少四分之一。
+
+---
+
+### 2026-06-05 12:15:11  #公司
+
+【上海醫藥等成立新公司 註冊資本8億元】企查查APP顯示，近日，上藥益藥醫藥（上海）有限公司成立，法定代表人為顧斌，註冊資本為8億元，經營範圍包含：第一類醫療裝置租賃；機械裝置租賃；倉儲裝置租賃服務；數字創意產品展覽展示服務等。企查查股權穿透顯示，該公司由上海醫藥全資子公司上藥控股有限公司、上海醫藥大健康雲商股份有限公司共同持股。
+
+---
+
+### 2026-06-05 12:14:34  #公司 #國際
+
+【特朗普的律師在涉及100億美元的訴訟中拒絕向英國廣播公司披露財務資訊】英國金融時報週五援引其查閱的法庭檔案訊息稱，在美國總統唐納德・特朗普起訴英國廣播公司（BBC、索賠 100 億美元的誹謗訴訟）中，特朗普的律師團隊拒絕提交BBC律師索要的相關財務資料。
+
+---
+
+### 2026-06-05 12:12:50  #公司
+
+【機器人流量首度超越人類？】網際網路流量迎來歷史性轉折。網路基礎設施廠商Cloudflare CEO馬修·普林斯發文稱，Cloudflare Radar（全球網路流量雷達）過去7天的實時監測顯示，在全球針對HTML網頁內容的HTTP請求中，機器人（Bot）流量佔比已達57.5%，首度超越人類流量（42.5%）。（一財）
+
+---
+
+### 2026-06-05 12:12:41
+
+【銀行板塊逆勢走強，紅利低波ETF近60個交易日吸金36.5億！機構：關注“股息可持續增長”標的】6月5日，三大指數漲跌不一，滬指早盤漲0.43％，創指跌0.82％。在此背景下，紅利低波ETF華泰柏瑞（512890）上漲0.60％，報1.165元，換手率1.06％，成交額3.51億元，居同類標的ETF首位。資金流向上，紅利低波ETF華泰柏瑞（512890）長期受資金青睞，近5個交易日資金淨流入5.6億元，近20個交易日資金淨流入27.3億元，近60個交易日資金淨流入36.5億元。截止2026年6月4日，該ETF流通規模327.81億元。訊息面上，A股市場早盤風格切換，銀行板塊在多重利好催化下表現活躍。儘管三大股指集體低開，但銀行板塊憑藉其低估值與高股息屬性，成為資金尋求防禦與價值迴歸的重要方向。中銀證券表示，短期市場仍存在高位震盪波動的可能。市場風格或存在短期均衡化可能但年內切換可能性較弱，AI產業鏈仍是當下最為確定的景氣上行方向。短期節奏會從單一主線衝鋒轉向主線內部高低切＋適度均衡化。開源證券認為，市場已從單純追逐高股息轉向尋找“股息可持續增長”標的，建議關注部分割槽域經濟活力強、專案儲備充足的城商行，以及綜合化經營能力強、財富管理業務具備特色的銀行。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。
 
 ---
 
@@ -22505,233 +22805,5 @@ SK Group and Taiwan Semiconductor Manufacturing Co. (TSMC) agreed to deepen coop
 ### 2026-06-04 08:52:58  #Trading Economics #Economy #Singapore #Composite PMI #Importance 2
 
 Singapore Private Sector Growth Eases from Near 4-Year Peak — Singapore’s S&P Global PMI eased to 56.7 in May 2026 from April’s near four-year high of 57.9. Still, the latest result marked the 16th straight month of expansion in private sector activity, with output growth accelerating to a three-month high. Meanwhile, new orders rose at the second-strongest pace on record despite cooling from April, underscoring resilient demand. Employment fell for a second month on cuts to temporary staff and voluntary exits, even as firms lifted purchasing at a record pace, with some stockpiling ahead of demand. On prices, input cost inflation hit a survey high, driven by supplier price hikes, rising fuel and transport costs, and a record surge in wages. Purchase cost inflation stayed elevated, its third-highest on record, but firms were less aggressive in passing costs on, with output charge inflation easing to a four-month low though still steep. Finally, business sentiment remained positive but softened from April’s elevated level.
-
----
-
-### 2026-06-04 08:52:34  #宏觀 #市場 #國際
-
-【美國檢測發現致命螺旋蠅寄生蟲 對牛群養殖構成威脅】一種致命牛寄生蟲近十年首次在美國被檢出，本就處於 75 年來存欄低位的美國牛群再遭新風險。美國農業部通報，週三上報的得克薩斯州南部送檢樣本確診新大陸螺旋蠅陽性，染病牲畜為扎瓦拉縣一頭三週齡小牛。此次致命寄生蟲檢出恰逢美國肉牛產業處境嚴峻：肉牛存欄縮減已推高終端牛肉售價至歷史高位，本次確診或將出臺牲畜跨區調運管控措施。週三盤面在病例尚未官宣時已提前反應：泰森食品大跌 4.2%，收於五個月低點；JBS 美股收盤價創下其赴美上市近一年來新低。
-
----
-
-### 2026-06-04 08:51:47  #公司
-
-【宏明電子：研發的MLCC配套材料不能用於玻璃基板通孔填充】宏明電子(301682)在互動平臺表示，公司研發的MLCC配套陶瓷介質與電極漿料，研發攻關聚焦MLCC電容產品體系。該材料配方、引數針對MLCC工況定製，不能用於玻璃基板的通孔填充。
-
----
-
-### 2026-06-04 08:48:23  #央行 #美聯儲
-
-【美聯儲到7月維持利率不變的機率為90.2%】據CME“美聯儲觀察”，美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。
-
----
-
-### 2026-06-04 08:47:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Margin financing balances at Shanghai and Shenzhen rise CNY 8.495 bln】June 3 — Margin financing balances on the Shanghai Stock Exchange stood at CNY 1.4742 tln, up CNY 5.22 bln from the previous trading day; on the Shenzhen Stock Exchange they were CNY 1.4101 tln, up CNY 3.275 bln. Combined margin balances totaled CNY 2.8843 tln, up CNY 8.495 bln.
-
----
-
-### 2026-06-04 08:47:47  #其他
-
-【兩市融資餘額較上日增加84.95億元】截至6月3日，上交所融資餘額報14742.44億元，較前一交易日增加52.20億元；深交所融資餘額報14100.81億元，較前一交易日增加32.75億元；兩市合計28843.25億元，較前一交易日增加84.95億元。
-
----
-
-### 2026-06-04 08:46:53  #公司
-
-【大亞聖象：《城市更新“十五五”規劃》實施將為公司產品帶來市場機遇】大亞聖象在互動平臺表示，《城市更新“十五五”規劃》的實施將為公司地板、人造板產品帶來市場機遇，但訂單獲取存在不確定性。
-
----
-
-### 2026-06-04 08:46:46  #其他
-
-【北京市釋出雷電藍色預警】據北京市氣象局訊息，預計4日白天，我市自西向東將先後有雷陣雨天氣，局地短時雨強較大，伴有7級左右短時大風和分散小冰雹，請注意防範。
-
----
-
-### 2026-06-04 08:46:37  #公司
-
-【Alphabet股權出售據悉獲數倍超額認購】據報道，谷歌母公司Alphabet的股權出售獲得數倍超額認購。此前，該公司將融資規模從800億美元提高至847.5億美元，以支援不斷擴大的AI投資計劃。
-
----
-
-### 2026-06-04 08:46:21  #MKT News
-
-【U.S. says strike in eastern Pacific on vessel tied to designated terrorist group killed two — SOUTHCOM】On June 3 U.S. Southern Command said Joint Task Force Spear of the South conducted a kinetic strike on a vessel operated by an organization designated as a terrorist group. Intelligence, the command said, confirmed the ship was transiting a known drug‑trafficking route in the eastern Pacific and participating in narcotics smuggling. Two male suspects described by the command as drug terrorists were killed. No U.S. personnel were injured.
-
----
-
-### 2026-06-04 08:46:20  #國際
-
-【美軍稱在東太平洋打擊一艘“販毒船” 致2人死亡】當地時間6月3日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”對一艘由“認定恐怖組織”運營的船隻實施了動能打擊。情報確認該船隻正沿東太平洋“已知的毒品販運路線”航行，並“參與毒品販運”。此次行動中，兩名男性“毒品恐怖分子”被擊斃。無美軍人員受傷。
-
----
-
-### 2026-06-04 08:45:19  #公司 #國際
-
-【日本家電零售商山田控股和愛電王計劃合併】據6月4日宣告，日本家用電器零售商山田控股和愛電王集團（EDION）計劃合併，旨在打造一家年銷售額近2.5萬億日元（約合156億美元）的連鎖巨頭。兩家公司均表示，董事會將於5日召開會議，審查合併計劃並討論相關提案。雙方未透露合併具體條款。
-
----
-
-### 2026-06-04 08:44:04  #其他
-
-香港南方東英稱與滙豐推出貨幣市場基金非上市代幣化類別。
-
----
-
-### 2026-06-04 08:43:28  #宏觀
-
-6月2日至3日，由國務院新聞辦公室指導的“2026世界市長對話·北京”活動在北京市舉行。來自摩洛哥、塞席爾、突尼西亞、塞內加爾等6個非洲國家的30餘位市長和城市代表共同參加了活動。（央視）
-
----
-
-### 2026-06-04 08:41:48  #其他
-
-深交所港股通標的證券名單發生調整並自2026年06月04日起生效，調入文遠知行-W、小馬智行-W。
-
----
-
-### 2026-06-04 08:41:39  #國際
-
-【訊息人士：特朗普擬很快提名託德・布蘭奇出任司法部長】據報道，知情人士透露，特朗普總統預計不久將提名託德・布蘭奇（Todd Blanche）擔任美國司法部長。訊息人士稱，提名最早或於今晚官宣。白宮暫未證實總統的這項任命決定，但白宮發言人Abigail Jackson在致美國有線電視新聞網的宣告中表示：“特朗普總統與代理司法部長託德・布蘭奇關係融洽，對其迄今為止的履職表現十分滿意。”她補充道：“託德・布蘭奇是一名愛國人士，曾無畏地代表特朗普總統抵禦民主黨發起的空前司法打壓。司法部總統團隊全體成員履職出色，堅守法理與秩序，推行保障美國民眾安全的相關政策。”
-
----
-
-### 2026-06-04 08:41:38  #MKT News
-
-Shenzhen Stock Exchange adjusted its Hong Kong Stock Connect eligible securities list, effective June 4, 2026; added WeRide-W and Pony.ai-W.
-
----
-
-### 2026-06-04 08:40:50  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-U.S. military says it conducted a strike in the eastern Pacific; two people were killed.
-
----
-
-### 2026-06-04 08:39:29  #國際
-
-美國：南方司令部6月3日在太平洋擊沉一艘船隻，造成2人死亡。
-
----
-
-### 2026-06-04 08:39:08  #MKT News
-
-CNN, citing a person familiar with the matter, reported President Trump will nominate Todd Blanche as U.S. attorney general.
-
----
-
-### 2026-06-04 08:38:28  #宏觀 #公司 #市場 #國際
-
-【韓股重挫2.5%、韓元兌美元跌至3月來最低 財長稱對匯市高度警惕】韓國Kospi指數在連續三個交易日上漲後一度下跌2.5%，兩隻重量級股票SK海力士和三星電子都大跌。三星電子股價一度下跌3.5%，SK海力士股價下跌4.2%。先前，博通公佈的AI晶片營收預測不及預期。今年迄今為止，Kospi指數仍上漲了105%。在假期後恢復交易，韓元兌美元匯率跌至兩個多月以來的最低點。美元/韓元一度上漲0.7%，至1530.05，為3月31日以來的最高水平。韓國財政部長具潤哲在週四的會議上表示，韓國對匯市保持高度警惕，當局將立即採取必要措施來應對過度單邊波動。債券市場方面，鑑於近期全球市場同步化導致政府公債收益率波動加劇，相關部門將密切監測市場狀況，並透過與市場參與者的密切溝通，協調相關機構，在必要時迅速應對過度波動。鑑於近期以舉債為主的股票交易日益增多，相關部門將定期監控相關市場趨勢，並確保積極主動地進行風險管理和保護投資者。
-
----
-
-### 2026-06-04 08:37:53  #公司
-
-【“西電東送”新通道大同-懷來-天津南特高壓工程完成關鍵施工，進入全面架線階段】6月2日，國家“十四五”電力發展規劃重點專案、“西電東送”新通道——大同-懷來-天津南1000千伏特高壓工程完成關鍵施工作業，成功跨越1000千伏特高壓錫廊一線、錫廊二線，該工程進入全面架線階段。此次施工由國網冀北電力有限公司組織實施，是國內首次特高壓同塔“雙回跨雙回”線路施工作業。（新華社）
-
----
-
-### 2026-06-04 08:35:03  #國際
-
-市場訊息：韓國執政黨首爾市長候選人承認在首爾市長選舉中落敗。
-
----
-
-### 2026-06-04 08:32:55  #國際
-
-美國農業部證實，一頭得克薩斯州犢牛感染食肉寄生蟲新大陸螺旋蠅。
-
----
-
-### 2026-06-04 08:32:51  #公司 #觀點
-
-【中信證券：建議將匯率納入盈利分析 關注高出海高匯兌敏感公司的業績預期差】中信證券研報稱，A股出海收入快速增長，但海外收入穩定並不等於人民幣利潤穩定。匯率透過收入/成本/匯兌/衍生品和OCI影響報表。投資上，建議將匯率納入盈利分析：關注高出海高匯兌敏感公司的業績預期差，選擇高出海低敏感的利潤穩定型資產，並警惕高外幣負債、大額淨敞口和套保不足帶來的衝擊。
-
----
-
-### 2026-06-04 08:31:32  #其他
-
-【北方多地體感清涼 南方6日起將再迎新一輪降雨】今明天（6月4日至5日），東北、華北等地仍多雷雨天氣，局地伴有雷暴大風或冰雹，公眾外出如遇強對流天氣需及時進屋內躲避。南方6日前後將再迎新一輪降雨過程，局地有暴雨，需關注臨近預警預報資訊，外出注意交通安全。受降雨影響，北方多地天氣清涼，但華南悶熱天氣持續，多地未來三天仍有高溫，需注意防暑。
-
----
-
-### 2026-06-04 08:31:30  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #Copper
-
-【CITIC Securities: AI compute and embodied intelligence sectors poised for major progress】CITIC Securities says that looking to H2 2026, domestic and international AI compute and embodied intelligence sectors should see material industrial progress, driving strong demand for upstream AI hardware, midstream supporting equipment and downstream application manufacturing. Early signs of a general manufacturing recovery are emerging, led by structural strength in specialized equipment, and China’s export-competitive production capacity abroad is expected to remain a tailwind. The firm recommends monitoring marginal changes in companies’ AI exposure and overseas capacity/exposure and tracking the general manufacturing rebound.
-
----
-
-### 2026-06-04 08:30:26  #央行 #市場 #國際
-
-【美元溫和走弱之際金價上漲】在美元小幅走弱之際，金價在早盤交易中上漲，美元走弱使得這種以美元計價的貴金屬對潛在投資者來說變得更便宜。現貨黃金上漲0.4%，報每盎司4,451.07美元。“展望未來，投資者將密切關注即將公佈的美國勞動力市場資料和中東事態發展，以尋找有關貨幣政策未來路徑的線索，”FXEM的Abdelaziz Albogdady在一封電子郵件中表示。該市場研究與金融科技戰略經理補充道，央行持續的購買繼續為這種貴金屬提供重要的結構性需求來源。
-
----
-
-### 2026-06-04 08:29:57  #公司 #國際
-
-【黑石集團支援的Liftoff Mobile在美國首次公開募股中籌集4.37億美元】由黑石集團支援的Liftoff Mobile週三表示，其首次公開募股（IPO）定價為每股23美元，籌資4.37億美元。
-
----
-
-### 2026-06-04 08:29:12  #MKT News #Market Regions #Japan & APAC
-
-Japanese Prime Minister Sanae Takaichi plans to visit India in early July for talks with Indian Prime Minister Narendra Modi, Asahi reports.
-
----
-
-### 2026-06-04 08:29:06  #公司 #市場 #國際
-
-日本晶片及人工智慧相關股票大幅下跌，軟銀集團股價下跌7.5%，Fujikura股價下跌6.2%，Ibiden股價下跌6.3%。
-
----
-
-### 2026-06-04 08:28:21  #公司 #市場 #國際
-
-【日經指數下跌1.2% 受科技和金屬股拖累】隨著對伊朗衝突和能源成本上升的擔憂重新浮現，日本股市下跌。日經指數下跌1.2%，至67603.09點。科技和金屬股領跌。軟銀集團下跌5.8%，Fujikura下跌6.7%。在科威特週三遭到大量彈道導彈和無人機襲擊後，投資者正密切關注中東局勢的發展。
-
----
-
-### 2026-06-04 08:27:46  #其他
-
-【舍弗勒與千尋智慧簽訂戰略合作協議 推進具身智慧產業發展】據舍弗勒訊息，6月3日，舍弗勒與千尋智慧正式簽訂戰略合作協議。雙方將圍繞具身智慧資料採集、人形機器人核心零部件及工業場景應用等領域展開深入合作，攜手加速具身大模型與人形機器人技術在先進製造領域的落地應用與產業化發展。
-
----
-
-### 2026-06-04 08:27:28  #公司 #市場 #國際
-
-【韓國綜合股價指數下跌 三星和SK海力士股價漲勢減弱】韓國股市基準指數 Kospi 在連續三個交易日上漲後下跌多達 2.5%，權重龍頭三星電子、SK 海力士走低拖累大盤。三星電子股價下跌3.5%，SK海力士股價下跌4.2%。受博通營收指引不及預期影響，部分人工智慧與晶片個股在美股盤後走弱。年內韓國綜合指數累計漲幅仍達 105%。小盤股Kosdaq指數盤中衝高 3.4%。MSCI亞太指數下跌幅度高達1.1%。
-
----
-
-### 2026-06-04 08:26:34  #國際
-
-據報道，日本首相高市早苗計劃於7月初訪問印度，與印度總理莫迪舉行會晤。
-
----
-
-### 2026-06-04 08:25:37  #公司 #觀點
-
-【中信證券：國內外AI算力與具身智慧產業將迎重要產業進展】中信證券研報稱，展望2026年下半年，國內外AI算力與具身智慧產業將迎來重要產業進展，上游AI硬體、中游配套裝置與下游應用製造需求高增。通用製造業曙光初現，專用裝置結構化亮點引領復甦。同時，我國擁有全球優勢的產能出海有望延續景氣。建議關注重點公司AI敞口與出海敞口的邊際變化，並重視通用製造復甦情況。
-
----
-
-### 2026-06-04 08:23:21  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #Copper #XAUUSD
-
-【Huatai Securities: Risk assets likely to remain preferred in H2】Huatai Securities' mid-2026 outlook says an AI-led tech cycle, global manufacturing recovery and limited scope for further large central-bank hikes support continued risk-asset preference in H2. Under a K-shaped economic divergence, it expects AI supply chain and commodities to outperform consumption, manufacturing to outperform services, and silicon-based sectors to outperform carbon-based. With global liquidity peaking and receding and limited room for valuation rerating, fundamentals (the numerator) will be the decisive driver; the firm retains a preference: AI chain > commodities > gold > bonds. For equities, A-share trends remain intact, with stock and sector selection and timing more important than index exposure. After extreme market dispersion, capital may stage short-term rotations from winners to laggards; Huatai recommends flexible positioning and keeping some cash to weather high volatility.
-
----
-
-### 2026-06-04 08:22:42  #其他
-
-【微信正與手機廠商合作推出Agent-to-Agent助手能力】微信正在與華為、榮耀、小米、OPPO、vivo等手機廠商合作推出A2A（Agent-to-Agent）助手能力，可透過手機語音助理發起微信的音視訊通話，或向好友傳送訊息。目前，榮耀部分機型已經支援該功能，把YOYO智慧體和微信更新到最新版本，即可喚醒YOYO直接語音下達指令，比如語音發微信訊息、撥打微信語音、視訊通話。
-
----
-
-### 2026-06-04 08:21:50  #央行 #市場 #觀點
-
-【華泰證券：下半年風險資產或延續佔優】華泰證券釋出2026年中期展望報告稱，AI科技革命+全球製造業修復+全球央行大幅加息空間有限等多重因素交織下，下半年風險資產或延續佔優。經濟K型分化趨勢下，AI鏈+資源品>消費、製造>服務、矽基>碳基的分化格局或還將持續。資產層面，全球流動性見頂回落，估值修復空間有限，分子端成為大類資產“勝負手”，維持AI鏈>資源品>黃金>債券判斷。分品種看，A股趨勢不改，結構重於指數與節奏。操作上，市場極致分化後，資金或存在階段性高切低需求，建議保持操作靈活度，並留有一定現金應對高波動環境。
 
 ---
