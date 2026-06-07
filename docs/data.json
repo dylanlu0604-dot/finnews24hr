@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-07 12:44:02",
-  "count": 18917,
+  "updated": "2026-06-07 12:47:59",
+  "count": 18916,
   "items": [
+    {
+      "id": "mkt:019ea065-994f-7665-8316-8f0ca284b894",
+      "time": "2026-06-07 12:44:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UK media: Trump, unable to force Iran concessions, turns on Gulf allies】Financial Times reports that two years ago Trump’s family firm promoted a $500m resort project in Oman; last week Trump threatened to bomb Oman. The State Department released a video of Trump warning Oman to \"act like other countries or we'll have to bomb them\" after he accused Oman of helping Iran levy passage fees on ships through the Strait of Hormuz. Analysts, including Emile Hokayem of the International Institute for Strategic Studies, say the threat reflects Trump’s frustration at failing to compel Iran to reopen the waterway and a redirection of pressure onto Gulf allies — pressing countries he regards as owing him favors (eg, Saudi Arabia) or those he sees as obstructing his aims (eg, Oman)."
+    },
+    {
+      "id": "mkt:019ea065-4040-7665-8316-818dced6020d",
+      "time": "2026-06-07 12:44:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Study finds long-lived tumor-specific immune-memory B cells in ovarian cancer patients】An Israeli study found ovarian cancer patients harbor long-lived B cells carrying tumor-specific immune memory. On re-exposure to tumor cells these B cells rapidly generate antibodies that specifically bind the tumor. Researchers say the finding could inform development of immunotherapies and strategies to prevent cancer recurrence."
+    },
     {
       "id": "4921673",
       "time": "2026-06-07 12:43:06",
@@ -174424,35 +174443,6 @@
         "其他"
       ],
       "text": "【滙豐前海證券孫瑜：AI算力長期景氣延續，半導體短期現“警訊”】5月29日，在深交所2026全球投資者大會現場，滙豐前海證券管理委員會委員兼中國研究主管孫瑜圍繞當前市場投資機遇等話題，接受了多家媒體的採訪。在孫瑜看來，AI浪潮的演進可分為三個階段：Conversational AI（對話式人工智慧）、 Agentic AI（智慧體人工智慧）以及Physical AI（具身智慧），當前正處於第二階段的早期。孫瑜認為，隨著AI向下一階段演進，產業對算力、半導體元器件等的要求將進一步提升，這意味著相關行業的高景氣度將具備較長的持續性。不過，孫瑜也提示了短期風險。他指出，市場熱點不斷切換，板塊輪動正是常態，當前AI領域尤其是半導體板塊前期漲幅已高，短期需警惕獲利盤拋壓。（21財經）"
-    },
-    {
-      "id": "4908604",
-      "time": "2026-05-31 12:47:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【17股上榜本週南向資金成交活躍股名單】本週（5月26日至5月29日，港股5月25日休市）港股市場主要股指漲跌不一。據證券時報·資料寶統計，本週南向資金合計成交淨買8.08億港元。從本週上榜成交活躍股名單來看，本週共有17只個股上榜，中芯國際本週港股通合計買賣總額最高，達到708.99億港元，其他還有華虹半導體、騰訊控股、阿里巴巴-W本週港股通買賣總額均超過200億港元。從持股量變化來看，本週15股獲得南向資金持股量環比增長超10%，經緯天地居首，環比增長1767.33%，其他還有華勤技術、派格生物醫藥-B、創新實業持股量環比增幅居前，持股量環比增幅分別為758.23%、146.39%、42%。"
-    },
-    {
-      "id": "mkt:019e7c5a-1711-7bb7-996d-2b14f8a13929",
-      "time": "2026-05-31 12:45:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "【PLA South Theater conducts combat-readiness patrols around Huangyan Island territorial waters and airspace】May 31 — China’s PLA South Theater Command deployed naval and air forces for combat-readiness patrols in the territorial waters, airspace and adjacent sea/air areas around Huangyan Island (Scarborough Shoal). The command said patrols have been intensified since May to deter incursions, reiterated that Huangyan Island is Chinese territory, and framed the operations as protecting sovereignty and maintaining South China Sea stability."
-    },
-    {
-      "id": "4908603",
-      "time": "2026-05-31 12:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱黎真主黨無人機襲擊致1名以軍士兵死亡】當地時間31日，以色列國防軍釋出宣告稱，黎巴嫩真主黨30日晚在黎巴嫩南部發動無人機襲擊，造成1名以軍士兵死亡、4名士兵受輕傷。以軍稱，死亡士兵為21歲的邁克爾·圖金，來自以色列南部城市阿什凱隆，隸屬於以軍吉瓦提旅偵察部隊。根據以軍通報，襲擊發生在當地時間30日22時30分左右。一架由黎巴嫩真主黨操控的第一視角無人機擊中吉瓦提旅士兵在黎南部執行任務的一處陣地。襲擊造成圖金死亡，另有4名士兵受輕傷，傷者已被送往醫院接受治療。（央視新聞）"
     }
   ]
 }
