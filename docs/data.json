@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-07 22:57:00",
-  "count": 18986,
+  "updated": "2026-06-07 23:00:56",
+  "count": 18987,
   "items": [
+    {
+      "id": "mkt:019ea299-344c-7ee0-86d0-725e5771eae1",
+      "time": "2026-06-07 23:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OPEC+ will hold its next ministerial meeting on November 29."
+    },
+    {
+      "id": "4922058",
+      "time": "2026-06-07 22:59:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統：氣候問題，就像戰爭和全球大流行病一樣，代表了一個嚴重威脅全人類的難題。"
+    },
+    {
+      "id": "4922057",
+      "time": "2026-06-07 22:56:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家颶風中心風暴公告：熱帶低氣壓在墨西哥南部形成。"
+    },
+    {
+      "id": "mkt:019ea296-00a5-7ee0-86d0-6e9454d584b8",
+      "time": "2026-06-07 22:56:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy held talks in the UK with British Prime Minister Starmer, French President Macron and German Chancellor Merz."
+    },
     {
       "id": "4922056",
       "time": "2026-06-07 22:55:12",
@@ -175105,36 +175138,6 @@
         "國際"
       ],
       "text": "日經新聞民調：日本首相高市早苗支援率跌至66%。"
-    },
-    {
-      "id": "4908948",
-      "time": "2026-05-31 23:00:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普向伊朗提出更強硬的和平框架條件。"
-    },
-    {
-      "id": "mkt:019e7e8b-8c80-700f-a37e-c819e861199e",
-      "time": "2026-05-31 22:58:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "AMZN.O"
-      ],
-      "text": "【Guotai Haitong maintains overweight on overseas AI compute and applications supply chain】Guotai Haitong maintains an overweight rating on the overseas AI compute and applications supply chain. The report says OpenAI and Anthropic’s rapid growth both validates expanding AI model capability and is lifting demand across the AI industry chain. Recommended focuses: (1) hardware suppliers supporting compute expansion — GPU/ASIC, CPU, storage, advanced process nodes and packaging, and semiconductor equipment; (2) cloud providers and infrastructure platforms hosting AI workloads and distributing models; (3) application companies able to deliver full-ecosystem, full-scenario deployments."
-    },
-    {
-      "id": "4908947",
-      "time": "2026-05-31 22:58:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "得州總檢察長帕克斯頓向媒體表示，他本週將與美國參議院多數黨領袖圖恩會面。"
     }
   ]
 }
