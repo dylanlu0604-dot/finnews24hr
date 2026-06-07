@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-07 23:04:55",
+  "updated": "2026-06-07 23:08:49",
   "count": 18986,
   "items": [
+    {
+      "id": "mkt:019ea29d-a228-7ee0-86d0-786097f91af8",
+      "time": "2026-06-07 23:05:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar News Agency said Jordan's king urged stepped-up efforts to maintain the US-Iran ceasefire."
+    },
     {
       "id": "4922059",
       "time": "2026-06-07 23:02:05",
@@ -175119,15 +175131,6 @@
         "其他"
       ],
       "text": "黎巴嫩官方資料顯示：自3月2日以來，死亡人數已達3412人。"
-    },
-    {
-      "id": "4908951",
-      "time": "2026-05-31 23:05:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利因營收及增長前景堪憂，下調Elastic、UiPath與PagerDuty三家公司的目標股價。"
     }
   ]
 }
