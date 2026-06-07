@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-08 05:43:04",
-  "count": 19125,
+  "updated": "2026-06-08 05:46:49",
+  "count": 19123,
   "items": [
+    {
+      "id": "mkt:019ea40c-266e-7ee0-86d4-0c16be03c37c",
+      "time": "2026-06-08 05:45:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is \"extremely important\"."
+    },
     {
       "id": "mkt:019ea407-ee47-7ee0-86d4-04f404be417d",
       "time": "2026-06-08 05:40:43",
@@ -176367,30 +176375,6 @@
         "國際"
       ],
       "text": "美國地質調查局：智利瓦爾帕萊索西北36公里處發生6級地震。"
-    },
-    {
-      "id": "4909085",
-      "time": "2026-06-01 05:45:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "統計完五分之一的選票後，哥倫比亞左翼候選人伊萬·塞佩達得票率為42.1%，以微弱差距位居第二。"
-    },
-    {
-      "id": "4909084",
-      "time": "2026-06-01 05:45:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "計票完成五分之一，右翼黨外候選人德拉·埃斯普列拉以43.6%的得票率領先哥倫比亞總統選舉。"
-    },
-    {
-      "id": "mkt:019e7ffd-f552-700f-a380-dff8db591e72",
-      "time": "2026-06-01 05:43:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DRC government reports confirmed Ebola cases at 282."
     }
   ]
 }
