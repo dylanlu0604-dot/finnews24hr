@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-07 21:30:39",
-  "count": 18985,
+  "updated": "2026-06-07 21:34:38",
+  "count": 18986,
   "items": [
+    {
+      "id": "mkt:019ea24a-4b29-7ee0-86cf-fcf8f27c7dbc",
+      "time": "2026-06-07 21:33:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【OPEC+ seven nations to raise July production targets by 188,000 bpd】Under the OPEC+ framework, seven members—Russia, Saudi Arabia, Iraq, Kazakhstan, Kuwait, Algeria and Oman—agreed to raise their crude production cap by 188,000 barrels per day from July. The statement said members reaffirmed the need for caution and retain full flexibility to increase, pause or reverse voluntary output adjustments. The seven will meet again on July 5."
+    },
+    {
+      "id": "4922007",
+      "time": "2026-06-07 21:33:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普表示希望大幅擴充軍事力量。"
+    },
+    {
+      "id": "4922006",
+      "time": "2026-06-07 21:32:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱 任何與伊朗達成的協議都不會立即解凍伊朗資產】據美國媒體報道，特朗普表示，伊朗發展核武器計劃的責任應歸咎於其前任政府。他指出，在美國前總統奧巴馬執政期間，一個由六國組成的談判團隊與伊朗達成協議：伊朗限制其核武器研發活動，以換取國際社會放鬆制裁，並解凍部分被凍結的伊朗資產。特朗普在其第一任期內退出了這項協議。特朗普表示，任何與伊朗達成的協議都不會立即解凍伊朗資產。特朗普說：“那是之後的事情。如果他們表現好，做得不錯，我們才會開始討論這些問題。”"
+    },
     {
       "id": "4922005",
       "time": "2026-06-07 21:29:13",
@@ -175083,25 +175111,6 @@
         "Crypto Concepts"
       ],
       "text": "【WALLER: Stablecoin adoption could amplify Fed policy reach】At the 32nd Dubrovnik Economic Conference, Federal Reserve Governor WALLER said widespread stablecoin adoption abroad could amplify the Fed's policy influence; for adopters it resembles a fixed-exchange-rate regime, importing US monetary conditions and effectively extending the reach of US monetary policy."
-    },
-    {
-      "id": "mkt:019e7e3c-a6eb-700f-a37e-2d947b2f9127",
-      "time": "2026-05-31 21:32:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【German paper reports US plans to accelerate troop withdrawals from Europe】A German Sunday paper reported on May 30, citing an anonymous Pentagon source, that the US plans to accelerate troop withdrawals from Europe and will submit a related plan to NATO allies next month."
-    },
-    {
-      "id": "4908903",
-      "time": "2026-05-31 21:31:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事沃勒：穩定幣將擴大美國貨幣政策的影響範圍】美聯儲理事沃勒表示，穩定幣在全球範圍內的普及可能會放大美國中央銀行政策的影響力。“對於採用穩定幣的國家來說，這就像是一種固定匯率制度，”沃勒週日在克羅埃西亞杜布羅夫尼克舉行的一場活動上表示。“你將會輸入美國的貨幣成本，因此，在更多使用穩定幣的國家中，它實際上擴大了美國貨幣政策的影響範圍。”"
     }
   ]
 }
