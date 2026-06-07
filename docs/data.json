@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-08 01:21:51",
-  "count": 18974,
+  "updated": "2026-06-08 01:25:35",
+  "count": 18977,
   "items": [
+    {
+      "id": "mkt:019ea31e-0678-7ee0-86d1-4eb243d849d6",
+      "time": "2026-06-08 01:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister stated all parties need to respond to mediation efforts to reach a sustainable agreement."
+    },
+    {
+      "id": "mkt:019ea31d-a021-7ee0-86d1-43e703df25b8",
+      "time": "2026-06-08 01:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said its prime minister, who also serves as foreign minister, met with Egypt's foreign minister to discuss developments in Lebanon and Palestine."
+    },
+    {
+      "id": "4922117",
+      "time": "2026-06-08 01:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相和外交大臣重申，各方必須積極回應調解努力，以達成可持續的協議。"
+    },
+    {
+      "id": "4922116",
+      "time": "2026-06-08 01:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬耳他附近海域偷渡船傾覆致至少10人死亡】據義大利媒體7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成至少10人死亡，搜救行動仍在馬耳他方面協調下繼續進行。 (新華社)"
+    },
     {
       "id": "mkt:019ea31a-59a5-7ee0-86d1-38dac06f12f8",
       "time": "2026-06-08 01:21:13",
@@ -175011,14 +175043,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊政治事務官員：我們與美國的談判是在實力地位的基礎上進行的，我們設定條件並強加給他們。"
-    },
-    {
-      "id": "mkt:019e7f10-f8e8-700f-a37f-d88c81541749",
-      "time": "2026-06-01 01:24:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said speculation should not be given weight."
     }
   ]
 }
