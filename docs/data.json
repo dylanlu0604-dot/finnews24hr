@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-08 07:33:00",
-  "count": 19180,
+  "updated": "2026-06-08 07:36:50",
+  "count": 19182,
   "items": [
+    {
+      "id": "4922407",
+      "time": "2026-06-08 07:35:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所：將監控任何不公平交易和非法賣空行為。"
+    },
+    {
+      "id": "te:markets:557031",
+      "time": "2026-06-08 07:35:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Gains as Iran Fires Missiles Toward Israel — WTI crude futures climbed above $92 per barrel on Monday, rebounding after two consecutive sessions of losses as Iran launched multiple rounds of missiles toward Israel, warning against further military actions in Lebanon and raising concerns over the durability of a fragile ceasefire amid stalled peace negotiations. Israel's military said all incoming missiles were intercepted, with no casualties reported. According to reports, President Donald Trump criticized Israel's strikes on Beirut and said he would urge Prime Minister Benjamin Netanyahu to avoid retaliatory action against Iran, while also calling on Tehran to resume negotiations. Meanwhile, the protracted conflict and the ongoing near-closure of the Strait of Hormuz have cut off energy supplies from the Persian Gulf, keeping oil prices elevated. Separately, OPEC+ approved another increase in July oil production quotas of 188,000 barrels per day despite persistent supply risks linked to tensions in the Middle East."
+    },
+    {
+      "id": "mkt:019ea470-93fa-7ee0-86d5-2a7c37bf88b6",
+      "time": "2026-06-08 07:35:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "035420.KS"
+      ],
+      "text": "【NAVER, NVIDIA to expand in-house AI infrastructure】NAVER and NVIDIA said on June 8 NAVER will expand its in-house AI infrastructure on NVIDIA’s DSX platform, initially deploying a 55 MW build at the Sejong GAK data center and planning to scale to gigawatt-level capacity to serve Korean enterprises, manufacturers, government agencies and global AI cloud customers. NAVER will use NVIDIA’s full-stack AI platform to develop the next‑generation HyperCLOVAX and will fine-tune the open-source Nemotron3Ultra to produce localized Korean and enterprise models. NAVER becomes the first Korean member of NVIDIA’s Nemotron alliance and plans to launch an AI agent platform in H2."
+    },
+    {
+      "id": "4922406",
+      "time": "2026-06-08 07:34:47",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：算力板塊當前尚未達到中期大級別切換的標準 主要是短期再平衡的需求】中信建投指出，近兩週算力板塊主升但波動加大，監管加強、資金止盈及美韓AI產業鏈大幅調整導致市場疑慮是否會出現趨勢性調整，資金全面切向低位板塊。中信建投認為算力板塊波動加劇的核心矛盾源於行業基本面具備絕對優勢與交易結構絕對擁擠。從基本面、估值、交易結構整體來看，當前尚未達到中期大級別切換的標準，主要是短期再平衡的需求。後續行情拐點取決於估值中樞變動與基本面收斂訊號，一是算力自身基本面增速放緩，二是其他行業基本面顯著修復。短期市場可能大幅低開後快速企穩，總體呈現“科技跌、防禦漲”的輪動特徵。中期看海外科技股企穩後可繼續佈局算力環節內部輪動，其他景氣線索關注煤炭和工業金屬。"
+    },
+    {
+      "id": "mkt:019ea470-041c-7ee0-86d5-266a28c5db81",
+      "time": "2026-06-08 07:34:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "017670.KS"
+      ],
+      "text": "【SK Telecom, NVIDIA to build gigawatt-scale AI cloud; first AI factory due 2027】SK Telecom and NVIDIA on June 8 announced plans to build a gigawatt-scale AI cloud in South Korea using NVIDIA’s DSX platform. The first AI factory is scheduled to enter service in 2027, with plans to expand more broadly across Asia. The AI cloud will use NVIDIA’s DSX full-stack reference architecture and support training, inference and agent workloads across sovereign AI, physical AI and enterprise AI use cases. SK Telecom will join NVIDIA’s cloud partner program. NVIDIA and SK Group will conduct joint research on next-generation AI factory architectures, focusing on full-stack innovation from chips to the power grid, including accelerated compute, storage technologies and data-center operations."
+    },
+    {
+      "id": "4922405",
+      "time": "2026-06-08 07:34:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：建議投資人以油價中樞上行為基礎設定，預防潛在的流動性風險，先佈局確定性的資產】中信建投研報指出，中信建投認為市場尚未充分定價油價的中樞抬升高度，建議投資人以油價中樞上行為基礎設定，預防潛在的流動性風險，先佈局確定性的資產。從中期維度看，中國化工在全球的相對競爭優勢是加強的，而通脹抬升的市場風偏對於有盈利底的HALO資產也更加有利。在油價衝擊過後，再尋找傳導順利，相對競爭優勢加強的化工核心資產。"
+    },
+    {
+      "id": "4922404",
+      "time": "2026-06-08 07:33:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國斗山集團與英偉達深化人工智慧工廠及機器人領域合作】斗山集團釋出宣告稱，計劃與英偉達在智慧工廠、實體人工智慧、機器人及先進材料領域拓展合作。斗山能源的燃氣輪機、小型模組化反應堆，以及斗山燃料電池的氫燃料電池產品，將為英偉達基於 DSX 架構的智慧工廠平臺提供電力基礎設施支撐。斗山機器人正依託英偉達 Isaac 機器人平臺與Jetson算力模組，研發智慧自主機器人作業系統。斗山山貓擬將英偉達實體人工智慧技術應用於工程、園林、農業及物流裝置，推動機械裝置實現自主執行。斗山電子事業群將探索供應覆銅板（人工智慧加速晶片核心材料），為包括英偉達 MGX 平臺在內的新一代人工智慧資料中心基礎設施提供配套。"
+    },
     {
       "id": "4922403",
       "time": "2026-06-08 07:32:09",
@@ -176911,46 +176988,6 @@
         "Importance 2"
       ],
       "text": "Oil Rises on US-Iran Deal Uncertainty — WTI crude futures rose above $89 per barrel on Monday, recovering part of last week’s losses as uncertainty continued to cloud prospects for a peace agreement between the US and Iran. Over the weekend, both sides exchanged proposals seeking revisions to a draft deal that would prolong the ceasefire and reopen the Strait of Hormuz, though it remained unclear whether meaningful progress had been achieved. President Donald Trump also reaffirmed his demand that Iran halt its nuclear program and fully restore the strait’s status as an open international shipping route. Although oil prices recently posted a monthly decline amid expectations that Washington and Tehran could eventually reach a more durable agreement, they remain elevated compared with pre-conflict levels as the near-shutdown of Hormuz triggered an unprecedented disruption to global energy supplies."
-    },
-    {
-      "id": "4909173",
-      "time": "2026-06-01 07:36:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉第未來賈躍亭： FF EAI機器人5月總銷售出貨量達到69臺，超過3月和4月總和，“三位一體”生態不斷取得關鍵進展。"
-    },
-    {
-      "id": "4909172",
-      "time": "2026-06-01 07:35:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【關注科技股變化訊號 基金經理多維度佈局】“我是不會減倉科技股的。”在近期的採訪中，一位基金經理非常堅定地告訴記者。5月以來，隨著以人工智慧為代表的科技股持續上漲，並對其他板塊的資金起到明顯的“虹吸效應”，投資者對行情持續性的擔憂也逐漸加大，市場波動也由此而生。對此，基金經理的觀點和操作也出現了一定分歧。“當前，確實沒有看到有哪一個板塊能夠替代科技。”上述基金經理表示，“我們可能會在科技子板塊之間切換，做一些風險收益的再平衡，更多是為了最佳化持有體驗，降低組合波動，但大的操作原則是不會變的。”（上海證券報）"
-    },
-    {
-      "id": "4909171",
-      "time": "2026-06-01 07:34:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：建築建材板塊深挖科技鏈新材料、存量翻新新模式和老樹開新花三條主線】華泰證券研報表示，截至5M26，建材/建築指數走勢延續分化，玻纖電子布/潔淨室分別領跑建材/建築指數，主要受益於細分板塊基本面強勁增長。展望26H2，華泰證券認為：1. 全球AI鏈的高景氣有望透過國產替代、供給出海向國內傳導；2. 地產鏈供給出清和出海鏈需求景氣帶來的價格提升，轉向成本驅動型漲價，將考驗企業經營模式和順價能力。建議關注三條主線：1. 受益於AI鏈產品升級但尚未被充分挖掘的新材料；2. 存量翻新需求和模式趨於成熟，具備較高順價能力的消費建材；3. 供給端出清短期彈性大、遠期新需求有望釋放的玻璃基板。"
-    },
-    {
-      "id": "4909170",
-      "time": "2026-06-01 07:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超率團抵達哈薩克】香港特區行政長官李家超昨晚（5月31日）率領商貿代表團抵達哈薩克首都阿斯塔納，正式展開中亞訪問行程。 外訪代表團由40位香港商貿與專業代表和30位內地企業代表組成，是本屆特區政府規模最大、人數最多、涵蓋企業範圍最廣的一次，也是香港與內地的代表第二次攜手“出海”。 李家超表示，香港與中亞之間蘊藏廣闊的合作空間，香港將與兩國簽署多份合作備忘錄，香港、內地和中亞兩國的公私營機構和企業亦會達成很多合作專案，他期望這次外訪行程可推動香港與中亞地區在不同領域加強交流合作，建立新的商貿通道，開拓新興市場機遇。"
-    },
-    {
-      "id": "4909169",
-      "time": "2026-06-01 07:33:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿盟秘書長譴責以色列對黎巴嫩軍事行動 呼籲立即停火】當地時間5月31日，阿拉伯國家聯盟秘書長阿布·蓋特在社交媒體發文，譴責以色列對黎巴嫩“殘酷侵略”，呼籲立即停火。阿布·蓋特稱，以色列的行為公然侵犯黎巴嫩主權，嚴重違反國際法與國際人道主義法。根據阿拉伯國家聯盟新聞辦公室的宣告，阿盟秘書長發言人賈馬爾·羅什迪表示，以色列的行為需要被立即制止，其嚴重威脅到地區安全與穩定，同時他呼籲以色列必須停火併全面執行安理會1701號決議。以色列總理內塔尼亞胡當天早些時候稱，以軍已攻佔位於黎巴嫩南部的博福特嶺據點，並將進一步擴大在黎境內軍事行動。他說，攻佔博福特嶺是以方政策的“重大轉變”，以方將在敘利亞、加沙地帶和黎巴嫩等多個方向繼續主動採取行動。(央視新聞)"
     }
   ]
 }
