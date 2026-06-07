@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-08 05:39:25",
-  "count": 19123,
+  "updated": "2026-06-08 05:43:04",
+  "count": 19125,
   "items": [
+    {
+      "id": "mkt:019ea407-ee47-7ee0-86d4-04f404be417d",
+      "time": "2026-06-08 05:40:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's president Zelenskiy said Europe's position and voice in negotiations have always been treated as priorities."
+    },
+    {
+      "id": "4922283",
+      "time": "2026-06-08 05:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在與歐盟E3會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。"
+    },
+    {
+      "id": "4922282",
+      "time": "2026-06-08 05:39:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果2026全球開發者大會正式開幕，本次大會重點對Siri人工智慧進行重大革新，並推出多項軟體升級。"
+    },
     {
       "id": "4922281",
       "time": "2026-06-08 05:34:08",
@@ -176364,14 +176391,6 @@
         "MKT News"
       ],
       "text": "DRC government reports confirmed Ebola cases at 282."
-    },
-    {
-      "id": "4909083",
-      "time": "2026-06-01 05:39:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利聖地亞哥有震感。"
     }
   ]
 }
