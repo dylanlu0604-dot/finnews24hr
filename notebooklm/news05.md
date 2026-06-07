@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:08:13_
-_本檔包含 3609 則快訊，約 706091 字_
+_更新時間：2026-06-08 03:43:37_
+_本檔包含 3610 則快訊，約 707420 字_
+
+---
+
+### 2026-06-02 07:40:15  #市場 #觀點
+
+【華泰證券：煤電有望直接受益於用電負荷創新高】華泰證券研報表示，近日，高溫天氣促使南方區域最大負荷連續四日創新高，且最大負荷較往年提前近1月創新高，對電力板塊市場行情形成催化。煤電在利用小時數和現貨/月度電價層面有望直接受益於最大負荷連創新高，市場或擔憂用電負荷攀升帶動煤價上漲，但煤價上漲也是市場化電價上漲的重要支撐，電價可以逐步傳導成本壓力。電力股還在基本面的左側，電價反彈具備持續性，“高溫天氣”最直接催化火電行情；清潔能源或更受益於一次能源價格帶動的電價上漲。
+
+---
+
+### 2026-06-02 07:39:47  #市場 #國際
+
+【亞市早盤油價小幅走高 特朗普尋求平息以色列與真主黨衝突】早盤油價小幅走高。近月西得州中質油期貨上漲0.2%，報每桶92.31美元。美國總統特朗普週一試圖平息以色列與真主黨之間日益加劇的衝突，該衝突威脅到美國與伊朗的和平談判。特朗普宣佈，雙方已同意停火，以色列總理內塔尼亞胡已取消對黎巴嫩的襲擊。然而，Tickmill的Joseph Dahrieh在一封電子郵件中表示，美伊談判缺乏明顯突破，且中東地區再次發生衝突事件。這位董事總經理補充說，這些因素加劇了人們的擔憂，即影響霍爾木茲海峽的限制措施可能會維持比預期更長的時間，這使得油價保持在高位。
+
+---
+
+### 2026-06-02 07:39:43  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv mayor said a nine-storey residential building caught fire after a Russian strike.
+
+---
+
+### 2026-06-02 07:39:18  #國際
+
+基輔市長稱，基輔一棟九層公寓樓在俄羅斯襲擊後起火。
+
+---
+
+### 2026-06-02 07:39:11  #市場 #兩會
+
+【前5個月地方債券發行超4.7萬億元】今年以來，更加積極的財政政策持續落地，成效不斷顯現。 從地方債券角度看，記者梳理Wind資料發現，今年前5個月，各地發行地方債券規模總計達到47219億元，較2025年同期的43148億元增長超9%。從債券型別看，用於置換存量隱性債務的再融資專項債券（簡稱“置換債券”）和新增專項債券佔比較大。前5個月，各地發行置換債券合計14263億元，佔地方債券總體發行規模的30%，完成全年限額2萬億元的71%；各地發行新增專項債券規模達到14951億元，接近1.5萬億元關口。 今年的《政府工作報告》明確，擬安排地方政府專項債券4.4萬億元，完善專項債券專案負面清單管理和自審自發試點，重點支援建設重大專案、置換隱性債務、消化政府拖欠賬款等。從發行進度看，今年前5個月新增專項債券發行進度約為34%。（證券日報）
+
+---
+
+### 2026-06-02 07:37:06  #觀點
+
+【華泰證券：AI驅動感光幹膜需求爬升，行業頭部企業有望受益】華泰證券研報表示，感光幹膜作為PCB製造的關鍵材料，有望伴隨下游景氣持續增長，AI等領域進一步帶動高階幹膜需求。當前感光幹膜國產化率較低，伴隨內資企業加速高階領域技術突破與產能擴張以及政策端支援，國產化率未來有望提高，行業頭部企業有望受益。
+
+---
+
+### 2026-06-02 07:36:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Gains on US-Iran Stalemate — Brent crude futures remained above $95 per barrel on Tuesday after jumping more than 4% at the start of the month, as ongoing peace talks between the US and Iran showed little progress, keeping markets cautious about supply disruptions. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli strikes in Lebanon. The report also indicated that Iran and its regional allies are considering the full closure of the Strait of Hormuz and the Bab el-Mandeb Strait, a key alternative route for global oil shipments. Meanwhile, President Donald Trump said negotiations remain ongoing and noted that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached within the next week. Separately, Lebanese authorities called for all Lebanese territory to be covered under any extension of the ceasefire agreement between Hezbollah and Tel Aviv.
 
 ---
 
@@ -21776,41 +21818,5 @@ Israel Defense Forces said missiles were fired shortly before from the direction
 ### 2026-06-01 03:44:23  #國際
 
 【以媒：以色列尋求美國支援擴大對黎真主黨打擊】據以色列第12頻道電視臺5月31日報道，以色列正尋求美國支援其擴大對黎巴嫩真主黨的打擊範圍，包括對黎首都貝魯特實施空襲。報道說，以色列正考慮轉變策略，從此前以控制黎南部地區為主，轉變為在更大範圍對黎實施空襲。以總理內塔尼亞胡日前與美國國務卿魯比奧通電話，試圖說服美方支援其立場。（新華社）
-
----
-
-### 2026-06-01 03:39:39  #國際
-
-【約旦河西岸發生駕車衝撞事件 已致一死兩傷】以色列國防軍5月31日發表宣告稱，一名巴勒斯坦男子當晚在約旦河西岸南部的古什埃齊翁路口實施駕車衝撞襲擊，被以軍士兵當場打死。以色列急救組織說，這一事件造成至少兩人受傷。
-
----
-
-### 2026-06-01 03:34:30  #國際
-
-【知情人士稱伊朗可能將對諒解備忘錄文字提出新的修訂意見】據伊朗方面31日訊息，一名知情人士就有關“特朗普對當前伊美諒解備忘錄文字提出新修訂”的報道表示，文字交換仍在繼續，伊朗也將按慣例對文字提出自己的修訂意見，目前一切尚未最終確定。他強調稱，對伊朗而言，關鍵是其自身認可的文字，特朗普方面提出的修訂，並不意味著伊朗會接受。該知情人士還表示，伊朗也完全為無法達成一致的情況做好了準備。據美國方面訊息，美國總統特朗普5月29日召集助手討論一份美伊諒解備忘錄後，對備忘錄條款作出更嚴苛的修改，並已將修改後的版本發給伊朗。
-
----
-
-### 2026-06-01 03:28:30  #MKT News
-
-【Russian-appointed Zaporizhzhia governor reports large-scale blackout】On May 31 local time, Russian-appointed Zaporizhzhia governor Balitsky said most of the region experienced emergency power outages. He said key infrastructure remains operational and power restoration is underway.
-
----
-
-### 2026-06-01 03:25:38  #市場
-
-美元匯率持穩，澳元在悉尼早盤交易中走低。
-
----
-
-### 2026-06-01 03:19:55  #國際
-
-伊朗媒體：若特朗普提議修改協議草案，伊朗也將相應作出調整。目前一切尚未敲定。只會接受己方認可的條款，同時也做好了談判無果的準備。
-
----
-
-### 2026-06-01 03:09:03  #國際
-
-伊朗塔斯尼姆通訊社援引訊息人士：特朗普提出的修正案不代表伊朗已經接受這些修正案。
 
 ---

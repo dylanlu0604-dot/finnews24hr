@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:08:13_
-_本檔包含 4010 則快訊，約 706597 字_
+_更新時間：2026-06-08 03:43:37_
+_本檔包含 4013 則快訊，約 707411 字_
+
+---
+
+### 2026-06-04 10:51:38  #其他
+
+市場訊息：META計劃於6月釋出最新AI模型的API。
+
+---
+
+### 2026-06-04 10:51:22  #Trading Economics #Markets #Indonesia #Stock Market #Importance 2
+
+Indonesia Equity Rout Worsens — Indonesian shares tumbled 283 points, or 4.8%, to 5,653 in Thursday morning trade, extending steep losses from the prior session and hitting their weakest since May 2021. The sell-off underscored mounting concerns: elevated oil prices stoking fiscal and external balance risks, fears of heavier state intervention in commodities, and jitters over a possible adverse MSCI reclassification rattling global funds. Markets have already shed around 34% this year, the worst performer among over 90 global equity indices, according to Bloomberg News. Meanwhile, April trade data showed the surplus faded as surging oil import costs outpaced exports. May inflation accelerated to 3.08%, above the central bank’s target midpoint. U.S. futures were mostly lower as renewed U.S.–Iran tensions kept inflation worries alive. All sectors fell, led by industrials, property, financials, and healthcare. Major losers included Barito Pacific (-13.9%), Darma Henwa (-10.2%), Indosat (-8.4%), and Kalbe Farma (-6.8%).
+
+---
+
+### 2026-06-04 10:50:11  #國際
+
+【1700噸俄羅斯鉀肥專列運抵鄭州國際陸港】從鄭州國際陸港方面獲悉，一列滿載俄羅斯優質鉀肥的專項班列於6月1日抵達鄭州國際陸港，62個集裝箱、1700噸進口鉀肥成功落地中原，標誌著鄭州國際陸港以自主可控的跨境物流體系、高效穩定的樞紐運營能力，推動鉀肥等核心農資、大宗商品運輸通道實現常態化穩定暢通，為區域農資保供乃至中原糧食豐收築牢安全屏障。（大河財立方）
+
+---
+
+### 2026-06-04 10:49:40  #MKT News
+
+Malaysia's Trade Ministry said any tariff rates on Malaysia will only be implemented after the U.S. Trade Representative (USTR) completes its full investigation and issues a formal determination, and Malaysia will continue engagement with the U.S. at all levels.
+
+---
+
+### 2026-06-04 10:49:34  #公司
+
+【比亞迪騰勢在瀘州成立新汽車銷售公司】天眼查App顯示，近日，瀘州騰迪汽車銷售有限公司成立，法定代表人為李暄，註冊資本100萬人民幣，經營範圍包括新能源汽車整車銷售、新能源汽車電附件銷售、汽車銷售等，由騰勢汽車銷售服務有限公司全資持股。
+
+---
+
+### 2026-06-04 10:49:18  #國際
+
+馬來西亞稱將繼續與美國在各層級保持溝通。
+
+---
+
+### 2026-06-04 10:48:34  #國際
+
+馬來西亞貿易部：只有在美國貿易代表辦公室完成完整調查程式併發布正式裁定後，才會對馬來西亞徵收任何關稅。
+
+---
+
+### 2026-06-04 10:48:33  #MKT News
+
+Malaysia's trade ministry said the United States has not yet made a final decision on tariffs affecting Malaysia.
+
+---
+
+### 2026-06-04 10:48:28  #其他
+
+RAYMOND JAMES將CrowdStrike目標股價從450美元上調至750美元。
+
+---
+
+### 2026-06-04 10:48:22  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+【Japan defers policy decisions to BOJ while stressing close coordination on wage-led 2% inflation】Chief Cabinet Secretary Kihara said on Thursday the government expects the Bank of Japan to implement appropriate monetary policy, in close coordination with the government, to achieve a sustainable 2% inflation driven by wage growth. Asked about Governor Ueda’s recent remarks, Kihara declined to comment on specifics and said the government and the BOJ have maintained—and will continue to maintain—full communication, citing last month’s meeting between Ueda and Prime Minister Takaichi. He reiterated that specific monetary policy tools are for the BOJ to decide, reaffirming the government’s longstanding stance.
+
+---
+
+### 2026-06-04 10:47:11  #宏觀 #國際
+
+馬來西亞貿易部：美國尚未對馬來西亞出臺最終關稅裁定。
+
+---
+
+### 2026-06-04 10:46:58  #國際
+
+【美國火星大氣探測器MAVEN任務終結】美國航空航天局3日宣佈，在火星軌道已執行超過11年的探測器“火星大氣與揮發物演化任務”（MAVEN）正式結束。 MAVEN探測器於2013年11月發射升空，2014年9月進入火星軌道，原計劃任務期一年，此後持續執行並多次延長任務。該探測器2025年12月6日最後一次與地面通訊後失聯，已無法繼續正常執行。美國航空航天局當時表示，MAVEN在繞過火星背面後未能恢復訊號。 今年2月，美航空航天局成立異常情況調查委員會，評估任務恢復的可能性及探測器狀態。調查結論是它已無法恢復正常執行，不能繼續執行科學觀測及資料中繼任務，這與任務團隊此前判斷一致。分析認為，探測器在脫離火星遮擋區時已處於高速自旋狀態，導致軌道姿態異常，隨後機載電池電量耗盡，通訊系統失去供電，從而造成失聯。 美航空航天局表示，目前相關調查仍在進行中，尚未確定導致異常的根本原因，最終調查報告預計將在今年晚些時候釋出。 據介紹，MAVEN主要觀測火星上層大氣、電離層及其與太陽活動的相互作用，以探究火星大氣向太空流失的過程。對大氣逃逸機制的研究，有助於科學家理解火星大氣與氣候演化歷史、液態水的存在情況及行星宜居性等關鍵問題。 美航空航天局行星科學部負責人路易絲·普羅克特表示，MAVEN任務取得的科學成果為未來載人火星任務所需的輻射防護與安全設計提供了重要依據，其資料在未來數十年仍將持續發揮作用。(新華社)
 
 ---
 
@@ -24092,59 +24164,5 @@ At the open in China on Wednesday, June 3, the Shanghai Composite Index fell 0.1
 ### 2026-06-03 09:28:45  #公司 #市場
 
 【銅纜高速連線板塊高開，鑫科材料2連板】銅纜高速連線板塊高開，鑫科材料2連板，裕太微漲超15%，意華股份、太辰光、神宇股份、匯綠生態、長芯博創、長飛光纖跟漲。
-
----
-
-### 2026-06-03 09:28:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-A-share CPO concept stocks extended gains. Tianyang New Materials recorded a third consecutive daily limit-up; Yibo Technology opened locked at the daily upper circuit. Tianfu Communications, Hengtong Optic-Electric, Yihua Co. and Robotech rose more than 6%.
-
----
-
-### 2026-06-03 09:28:23  #國際
-
-美國：伊朗新一輪無人機襲擊科威特境內美軍目標失敗。
-
----
-
-### 2026-06-03 09:28:15  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate most-active futures contract fell more than 4.00% intraday to 166,900 yuan/ton.
-
----
-
-### 2026-06-03 09:27:57  #公司 #市場
-
-CPO概念股延續漲勢，天洋新材3連板，一博科技一字漲停，天孚通訊、亨通光電、意華股份、羅博特科漲超6%。
-
----
-
-### 2026-06-03 09:27:44  #國際
-
-美方：擊落多架襲擊科威特駐軍的伊朗無人機 。
-
----
-
-### 2026-06-03 09:27:41  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-The U.S. military said local time tonight another wave of Iranian drones attempted to strike U.S. forces in Kuwait but failed to hit targets.
-
----
-
-### 2026-06-03 09:26:32  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【Analyst: Intervention fears spark psychological battle; USD/JPY test of 160 could happen at any time】Traders are reluctant to push USD/JPY above the 160 threshold amid intervention risk; the yen slipped Wednesday morning toward 160, its weakest since authorities intervened at end‑April. Japan spent a record JPY 11.73 tln (about $73.35 bln) supporting the currency between Apr.28 and May.27. Finance Minister Satsuki Katayama reiterated officials stand ready to respond to FX volatility as needed. Gaitame.com Institute analyst Tsutomu Nakamura said intervention fears intensified as USD/JPY neared 160, creating a psychological battle and making a test of 160 possible at any time. Limited progress in US‑Iran permanent cease‑fire talks and a large US‑Japan interest‑rate differential after the BOJ held rates in April are adding pressure. BOJ governor UEDA is due to speak Wednesday afternoon ahead of the June 16 policy meeting. Overnight index swaps imply roughly an 84% probability of a rate hike this month.
-
----
-
-### 2026-06-03 09:26:31  #MKT News #Market Regions #Greater China
-
-【16th Songshan Lake China IC Innovation Summit held; 119 promoted chips in mass production】The 16th Songshan Lake China IC Innovation Summit convened in Dongguan. Dai Weimin, vice-chair of the China Semiconductor Industry Association IC Design Branch, said the forum typically recommends about 10 Chinese chips a year and has promoted 93 companies to date; the post-forum listing rate is 20.4% with seven companies currently pursuing listings. Cumulatively the forum has promoted 129 chips, of which 119 are in mass production, implying a mass-production rate of 92.2%.
-
----
-
-### 2026-06-03 09:25:52  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #Impact bullish
-
-At the open in A-shares, the Shanghai Composite fell 0.17%, the Shenzhen Composite Index rose 0.36% and the ChiNext rose 0.82%; F5G and copper-cable high-speed connectivity concept stocks led gains.
 
 ---

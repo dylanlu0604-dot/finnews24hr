@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:08:13_
-_本檔包含 3779 則快訊，約 706767 字_
+_更新時間：2026-06-08 03:43:37_
+_本檔包含 3800 則快訊，約 707529 字_
+
+---
+
+### 2026-06-08 03:41:50  #國際
+
+【以軍空襲加沙致9死數十傷】據巴勒斯坦加沙地帶民防和醫療部門訊息，以色列國防軍7日下午分別對加沙地帶南部汗尤尼斯地區和北部加沙城發動空襲，造成至少9人死亡，數十人受傷。
+
+---
+
+### 2026-06-08 03:39:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli military intercepting missiles fired by Iran; air-raid sirens across north】Israeli military said it was intercepting missiles fired by Iran toward northern Israel, with air-raid sirens sounding across Haifa and the Sea of Galilee and civil-defense authorities ordering residents to shelters. The Israeli Air Force said it was carrying out intercept and strike operations to eliminate the threat; Channel 12 reported four missiles. The military later reported a new wave of incoming missiles and said air-defence systems were intercepting.
+
+---
+
+### 2026-06-08 03:38:11  #MKT News #Important #DXY #Impact bullish #XAUUSD
+
+Sky News Arabic reports Israeli authorities are considering closing Israeli airspace and Ben-Gurion Airport in the near term.
+
+---
+
+### 2026-06-08 03:36:55  #MKT News #Important
+
+Israeli military said all missiles launched from Iran have been intercepted to date.
+
+---
+
+### 2026-06-08 03:36:31  #國際
+
+以色列軍方稱已檢測到另有火箭彈向以色列發射。
+
+---
+
+### 2026-06-08 03:36:09  #國際
+
+以色列軍方表示，迄今為止已攔截所有從伊朗發射的導彈。
+
+---
+
+### 2026-06-08 03:35:12  #MKT News
+
+Jordanian state television reported alarms sounding in parts of the country.
+
+---
+
+### 2026-06-08 03:34:27  #MKT News #Important #WTI #Impact bullish #Brent
+
+According to Walla reporter Adamker, Israel is reportedly seeking US permission to strike Iranian energy facilities.
+
+---
+
+### 2026-06-08 03:34:14  #其他
+
+約旦國家電視臺：約旦部分地區已拉響警報。
+
+---
+
+### 2026-06-08 03:33:53  #國際
+
+以色列緊急救援部門：目前尚無人員傷亡。
+
+---
+
+### 2026-06-08 03:33:28  #國際
+
+以色列尋求美國批准對伊朗能源設施發動襲擊。
+
+---
+
+### 2026-06-08 03:32:34  #MKT News
+
+Israel's Transport Ministry says Israeli airspace remains open.
+
+---
+
+### 2026-06-08 03:32:23  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli media, citing security sources, report Israel will respond to Iran.
+
+---
+
+### 2026-06-08 03:31:14  #焦點 #國際
+
+以色列交通部：以色列領空目前仍保持開放。
+
+---
+
+### 2026-06-08 03:31:06  #公司
+
+全日空公司執行長表示，該公司仍預計在2027財年接收推遲已久的波音777X飛機。
+
+---
+
+### 2026-06-08 03:30:57  #公司
+
+全日空執行長表示，如果波音777X機型交付延誤，航司將推遲現有飛機的退役計劃，因此不會對運營造成影響。
+
+---
+
+### 2026-06-08 03:30:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Supreme Leader adviser Mohsen Rezaee said Iran has repeatedly warned it will not tolerate ceasefire violations or attacks on Lebanon, and that the aggressor received a response tonight.
+
+---
+
+### 2026-06-08 03:29:08  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+According to Axios, U.S. President Trump has been briefed on escalation in Israel‑Iran tensions.
+
+---
+
+### 2026-06-08 03:28:36  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Hezbollah said it attacked Israeli forces with drones and missiles.
+
+---
+
+### 2026-06-08 03:28:26  #國際
+
+伊朗革命衛隊此前曾表示，若以色列襲擊貝魯特，就會重啟對以色列的打擊行動。
+
+---
+
+### 2026-06-08 03:28:06  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+A third wave of ballistic missiles was launched from Iran toward northern Israel.
+
+---
+
+### 2026-06-08 03:26:47  #國際
+
+伊朗最高領袖顧問穆赫辛·禮薩伊：伊朗已多次警告，不會容忍違反停火協議的行為以及針對黎巴嫩的襲擊；侵略者今夜已得到回應。
+
+---
+
+### 2026-06-08 03:26:42  #焦點 #國際
+
+特朗普已聽取有關以色列與伊朗局勢升級的簡報。
+
+---
+
+### 2026-06-08 03:26:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel’s national security minister Itamar Ben-Gvir: "Tehran must burn tonight."
+
+---
+
+### 2026-06-08 03:26:25  #國際
+
+【以軍正在攔截伊朗來襲導彈 多地拉響防空警報】以色列國防軍7日晚說，以軍正在攔截伊朗向以色列北部發射的導彈。以色列北部多個地區拉響防空警報。新華社記者手機安裝的預警系統顯示，以色列北部海法及加利利湖周邊大片地區響起防空警報。民防部門要求當地民眾進入避難場所。以軍說，以色列空軍正在執行攔截和打擊行動以消除威脅。以色列第12頻道電視臺報道，有4枚導彈射向以色列。以軍稍後說，監測到新一輪導彈來襲，防空系統正在攔截。（新華社）
+
+---
+
+### 2026-06-08 03:25:43  #國際
+
+真主黨表示，已動用無人機和導彈襲擊以色列軍隊。
+
+---
+
+### 2026-06-08 03:25:19  #國際
+
+伊朗向以色列發起第三輪導彈襲擊。
+
+---
+
+### 2026-06-08 03:22:13  #國際
+
+一位以色列高階官員表示，以色列將對伊朗的導彈襲擊作出回應，但未提供更多細節。
+
+---
+
+### 2026-06-08 03:21:18  #國際
+
+伊朗革命衛隊表示，以色列軍方必須停止對黎巴嫩的進攻；若以方擴大進攻範圍，或是對伊朗的行動採取反擊，將面臨“更具毀滅性、追悔莫及的打擊”。
+
+---
+
+### 2026-06-08 03:21:09  #國際
+
+【伊朗時隔兩個月再襲以色列】當地時間6月7日晚，北京時間今天（6月8日）凌晨，以色列軍方發表宣告稱，監測到伊朗向以色列發射兩輪導彈，以色列全國多地拉響防空警報。以軍表示，目前以色列空軍正在實施攔截，並將“在必要時對相關威脅予以打擊以徹底消除危險”。宣告特別強調，以軍防空攔截系統並非“萬無一失”，因此軍方要求公眾務必保持警惕，並繼續嚴格遵守以軍本土守備司令部發布的各項安全防範指南。 以軍本土守備司令部則最新發布了更為嚴格的民防指南，宣佈全國範圍內禁止一切教育活動。此外，公眾集會活動也受到嚴格限制：室外聚集人數不得超過200人，室內聚集人數上限為500人。
+
+---
+
+### 2026-06-08 03:20:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps said the Israeli military must stop attacks on Lebanon and warned that any expansion of strikes or any Israeli response to Iranian actions would face "more destructive and more regrettable strikes."
+
+---
+
+### 2026-06-08 03:18:31  #國際
+
+針對以色列襲擊黎巴嫩首都貝魯特的行為，伊朗當晚發射彈道導彈予以反擊。此後，伊朗外交部長阿拉格齊發布了一張伊朗與黎巴嫩兩國國旗的拼接圖片。
+
+---
+
+### 2026-06-08 03:18:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IDF says it detected Iranian missile launches; air defenses activated, sirens across Israel】Local time on the evening of the 7th, the Israel Defense Forces said it detected missiles launched from Iran toward Israel. Israeli air-defence systems have been activated and are intercepting the threats; air-raid sirens sounded across multiple regions. The IDF said its rear command sent precautionary safety instructions to civilians’ mobile phones within minutes. Explosions were reported in central Israel. Iran has not yet commented.
+
+---
+
+### 2026-06-08 03:16:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Israeli military said it detected a second wave of missiles launched from Iran toward Israel.
+
+---
+
+### 2026-06-08 03:16:41  #國際
+
+伊朗媒體稱，初步訊息顯示第二波導彈已射向以色列。
+
+---
+
+### 2026-06-08 03:12:08  #國際
+
+伊朗民眾慶祝針對以色列的導彈襲擊。
+
+---
+
+### 2026-06-08 03:11:48  #國際
+
+以色列：所有導彈均已被攔截。
+
+---
+
+### 2026-06-08 03:10:37  #國際
+
+伊朗方面訊息稱，伊朗已向以色列發射四枚導彈。
+
+---
+
+### 2026-06-08 03:10:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Goldman Sachs: Strong labor market removes expectation of Fed cuts this year】Goldman Sachs economists said stronger-than-expected U.S. labor market means they no longer expect the Fed to cut rates this year. The bank pushed back its timing for the Fed’s final two cuts from Dec 2026 and Mar 2027 to Jun 2027 and Dec 2027. Chief U.S. economist David Mericle said inflation “seems unlikely to become self-sustaining,” keeping the odds of further Fed hikes low. May U.S. job gains beat forecasts, reinforcing market bets on additional tightening; Goldman raised the probability of a small hike this year from 10% to 20%. Its baseline still assumes two 25bp cuts next year, but the chance of that scenario was lowered from 40% to 30%. Goldman also revised down its U.S. unemployment forecast for this year to 4.4% from 4.6%.
+
+---
+
+### 2026-06-08 03:10:07  #公司
+
+拉美航空執行長稱，飛機產能與市場需求難以在本十年結束前恢復平衡。
+
+---
+
+### 2026-06-08 03:10:04  #公司
+
+拉美航空執行長表示，飛機及發動機供應鏈問題可能還會持續兩到三年。
+
+---
+
+### 2026-06-08 03:09:47  #公司
+
+拉美航空執行長表示，資產負債表更疲軟、彈性出行敞口更大的航空公司將面臨更多挑戰。
+
+---
+
+### 2026-06-08 03:09:40  #公司
+
+拉美航空執行長表示，受燃油危機影響，該航空公司的融資成本已在上升。
+
+---
+
+### 2026-06-08 03:09:33  #公司
+
+拉美航空執行長表示，如果燃油衝擊延續至2027年，航空業可能需要進一步削減運力。
+
+---
+
+### 2026-06-08 03:08:49  #焦點 #國際
+
+【以軍稱監測到伊朗導彈來襲】當地時間7日晚，以色列國防軍稱，監測到伊朗向以色列發射導彈。以色列北部多地拉響防空警報。（新華社）
+
+---
+
+### 2026-06-08 03:08:31  #國際
+
+以色列軍方表示，伊朗發射導彈後，多個地區已響起空襲警報。
 
 ---
 
@@ -22690,155 +22966,5 @@ Reserve Bank of India governor says the bank is not currently considering measur
 ### 2026-06-05 14:50:26  #公司 #國際
 
 【伊朗戰事衝擊能源市場，歐盟稱航空燃油供應暫無虞】歐盟運輸事務專員表示，儘管伊朗戰爭引發能源供應衝擊，但未來幾個月歐洲沒有出現航空燃油短缺的跡象。不過，高昂的燃油價格正促使航空公司削減無利可圖的航線。霍爾木茲海峽作為連線海灣地區與全球市場的關鍵航道，過去三個月來大致處於關閉狀態，導致全球石油供應每日減少約1,400萬桶，相當於全球需求量的約14%。迄今為止，歐盟承受住了這波衝擊。中東地區約佔歐盟航空燃油進口量的20%，而來自美國與奈及利亞的供應大致填補了缺口。“目前歐洲沒有航空燃油短缺。我們沒有跡象表明未來一段時間會出現短缺，”歐盟運輸事務專員Apostolos Tzitzikostas在接受採訪時表示，並補充說地區機場面臨的風險最大。
-
----
-
-### 2026-06-05 14:49:56  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish
-
-A-share MLCC names weakened, with Jiemei Technology down more than 8% and Hongyuan Electronics off nearly 8%; Bojie Co., Yunzong Technology and Hongming Electronics also posted sharp declines.
-
----
-
-### 2026-06-05 14:49:51  #公司 #市場
-
-A股MLCC概念震盪下跌，潔美科技跌逾8%，鴻遠電子跌近8%，博傑股份、昀冢科技、宏明電子等大跌。
-
----
-
-### 2026-06-05 14:49:41  #國際
-
-【阿根廷對原產於中國的木柄或塑膠柄不鏽鋼餐具啟動反傾銷日落合併情勢變遷複審調查】6月3日，阿根廷經濟部發布2026年第812號公告，應阿根廷生產商CINCAM SACIFA申請，對原產於中國的木柄或塑膠柄不鏽鋼餐具啟動反傾銷第二次日落複審調查，同時啟動反傾銷情勢變遷複審調查。本案傾銷調查期為2025年3月至2026年2月，損害調查期為2023年1月至2026年2月。涉案產品的南共市稅號為8211.10.00、8211.91.00、8215.20.00和8215.99.10。案件調查期間，暫停對涉案產品實施反傾銷措施。公告自發布之日起生效。
-
----
-
-### 2026-06-05 14:49:37  #央行 #國際
-
-印度央行行長馬爾霍特拉：目前並未考慮採取任何限制資本外流的措施。
-
----
-
-### 2026-06-05 14:49:09  #公司
-
-【維峰電子等成立光電科技公司 含光纖光纜業務】企查查APP顯示，近日，東莞市維迅光電科技有限公司成立，經營範圍包含：光電子器件製造；光纖製造；光纖銷售；光纜製造；光纜銷售；電子元器件批發等。企查查股權穿透顯示，該公司由維峰電子等共同持股。
-
----
-
-### 2026-06-05 14:48:38  #MKT News #Copper #Impact bullish
-
-【Wang Yi meets Myanmar foreign minister】China foreign minister Wang Yi met Myanmar foreign minister Ding Maorui in Beijing. Wang said this is the new Myanmar government’s first year and reiterated China’s non‑interference stance while urging Myanmar to ensure the safety of Chinese personnel, institutions and projects. Beijing offered to deepen high‑quality Belt and Road cooperation—covering post‑earthquake reconstruction, trade, investment, people‑to‑people ties—and to steadily advance China‑Myanmar Economic Corridor flagship projects. Both sides agreed to step up cooperation to combat cross‑border online gambling and telecom fraud; Myanmar welcomed more Chinese investment and pledged stronger high‑level and multilateral coordination (UN, ASEAN, Lancang‑Mekong).
-
----
-
-### 2026-06-05 14:48:16  #國際
-
-【日本實際家庭消費連續5個月同比下滑】日本總務省6月5日公佈的調查結果顯示，受中東局勢延宕影響，日本家庭消費持續承壓，4月實際家庭消費支出同比下降0.5%，連續第五個月同比下滑。報告顯示，日本2人及以上家庭4月平均消費支出為32.90萬日元（1美元約合160日元）。在消費支出十個大類中五個類別支出同比下降。（新華財經）
-
----
-
-### 2026-06-05 14:48:13  #央行 #國際
-
-印度央行行長馬爾霍特拉：預計銀行會將部分對沖成本轉嫁給客戶。
-
----
-
-### 2026-06-05 14:48:01  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-France April industrial production YoY 1.2% vs. 1.8% consensus; prior 0.9%.
-
----
-
-### 2026-06-05 14:47:49  #MKT News #Economic Calendar #Important
-
-France | Industrial Production (YoY) (Apr) | actual 1.2% | consensus 1.8% | previous 0.90%
-
----
-
-### 2026-06-05 14:47:33  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
-
-France April manufacturing output rose 0.4% MoM, versus 0.2% expected; prior +1.2%.
-
----
-
-### 2026-06-05 14:47:31  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-France April manufacturing output YoY 2.5% vs 1.6% prior.
-
----
-
-### 2026-06-05 14:47:22  #MKT News #Economic Calendar #Important
-
-France | Manufacturing Production (YoY) (Apr) | actual 2.5% | previous 1.60%
-
----
-
-### 2026-06-05 14:47:21  #MKT News #Economic Calendar #Important
-
-France | Manufacturing Production (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 1.20%
-
----
-
-### 2026-06-05 14:46:59  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-France current account deficit narrowed to EUR 0.2 bln in April from EUR 8.2 bln in the prior month.
-
----
-
-### 2026-06-05 14:46:48  #MKT News #Economic Calendar #Important
-
-France | Current Account (Apr) | actual -200000000B | previous -8200000000B
-
----
-
-### 2026-06-05 14:46:31  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Falls for Week, Megaport Bucks Trend with AI Surge — Australia's ASX 200 lost 61 points, or 0.7%, to finish at 8,625 on Friday, marking its second straight decline as fading hopes for a U.S.–Iran peace deal weighed on sentiment. Meanwhile, U.S. stock futures weakened as investors cautiously awaited May jobs data for clues on labor conditions and Fed policy. The local market slipped 1.2% for the week, its first drop in three, amid caution ahead of the Reserve Bank’s policy decision later this month. Non-energy minerals led losses, followed by energy, financials, and consumer non-durables. Gold stocks dropped 1.9% despite firmer bullion, with Evolution Mining down 3.0%. Lynas Rare Earths slid 2.9% after naming veteran Pol Le Roux interim CEO from June 30. The big four banks lost between 1.1% and 1.6%. Energy stocks also retreated after four sessions of gains, as oil prices eased. In contrast, Megaport surged 11.3% after trading resumed, announcing four AI infrastructure contracts and plans to build an inference cloud.
-
----
-
-### 2026-06-05 14:46:22  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
-
-France April industrial production MoM +0.1% (consensus -0.2%); prior +1.0%.
-
----
-
-### 2026-06-05 14:46:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-France Apr exports €54.585 bln; previous reading revised to €52.933 bln from €52.459 bln.
-
----
-
-### 2026-06-05 14:46:14  #MKT News #Economic Calendar #Important
-
-France | Industrial Production (MoM) (Apr) | actual 0.1% | consensus -0.2% | previous 1.00%
-
----
-
-### 2026-06-05 14:46:10  #MKT News #Economic Calendar #Important
-
-France | Exports (Apr) | actual 54585000000B | previous 52459000000B
-
----
-
-### 2026-06-05 14:45:57  #MKT News #EURUSD
-
-France April imports €60.225bn, prior €59.323bn.
-
----
-
-### 2026-06-05 14:45:48  #MKT News #Economic Calendar #Important
-
-France | Imports (Apr) | actual 60225000000B | previous 59323000000B
-
----
-
-### 2026-06-05 14:45:39  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
-
-France April trade deficit narrowed to EUR 5.64 bln from a EUR 6.864 bln deficit previously.
-
----
-
-### 2026-06-05 14:45:30  #公司
-
-【李斌名下易車通文化傳媒公司擬登出】天眼查經營風險資訊顯示，近日，北京易車通文化傳媒有限公司新增一則簡易登出公告，公告期為5月29日至6月18日。該公司成立於2008年3月，法定代表人為李斌，註冊資本1000萬人民幣，經營範圍包括設計、製作、代理、釋出廣告等，由李斌、林芝利創資訊科技有限公司共同持股。
 
 ---

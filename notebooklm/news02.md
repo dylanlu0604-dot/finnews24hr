@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:08:13_
-_本檔包含 3796 則快訊，約 706877 字_
+_更新時間：2026-06-08 03:43:37_
+_本檔包含 3809 則快訊，約 707683 字_
+
+---
+
+### 2026-06-05 14:49:56  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish
+
+A-share MLCC names weakened, with Jiemei Technology down more than 8% and Hongyuan Electronics off nearly 8%; Bojie Co., Yunzong Technology and Hongming Electronics also posted sharp declines.
+
+---
+
+### 2026-06-05 14:49:51  #公司 #市場
+
+A股MLCC概念震盪下跌，潔美科技跌逾8%，鴻遠電子跌近8%，博傑股份、昀冢科技、宏明電子等大跌。
+
+---
+
+### 2026-06-05 14:49:41  #國際
+
+【阿根廷對原產於中國的木柄或塑膠柄不鏽鋼餐具啟動反傾銷日落合併情勢變遷複審調查】6月3日，阿根廷經濟部發布2026年第812號公告，應阿根廷生產商CINCAM SACIFA申請，對原產於中國的木柄或塑膠柄不鏽鋼餐具啟動反傾銷第二次日落複審調查，同時啟動反傾銷情勢變遷複審調查。本案傾銷調查期為2025年3月至2026年2月，損害調查期為2023年1月至2026年2月。涉案產品的南共市稅號為8211.10.00、8211.91.00、8215.20.00和8215.99.10。案件調查期間，暫停對涉案產品實施反傾銷措施。公告自發布之日起生效。
+
+---
+
+### 2026-06-05 14:49:37  #央行 #國際
+
+印度央行行長馬爾霍特拉：目前並未考慮採取任何限制資本外流的措施。
+
+---
+
+### 2026-06-05 14:49:09  #公司
+
+【維峰電子等成立光電科技公司 含光纖光纜業務】企查查APP顯示，近日，東莞市維迅光電科技有限公司成立，經營範圍包含：光電子器件製造；光纖製造；光纖銷售；光纜製造；光纜銷售；電子元器件批發等。企查查股權穿透顯示，該公司由維峰電子等共同持股。
+
+---
+
+### 2026-06-05 14:48:38  #MKT News #Copper #Impact bullish
+
+【Wang Yi meets Myanmar foreign minister】China foreign minister Wang Yi met Myanmar foreign minister Ding Maorui in Beijing. Wang said this is the new Myanmar government’s first year and reiterated China’s non‑interference stance while urging Myanmar to ensure the safety of Chinese personnel, institutions and projects. Beijing offered to deepen high‑quality Belt and Road cooperation—covering post‑earthquake reconstruction, trade, investment, people‑to‑people ties—and to steadily advance China‑Myanmar Economic Corridor flagship projects. Both sides agreed to step up cooperation to combat cross‑border online gambling and telecom fraud; Myanmar welcomed more Chinese investment and pledged stronger high‑level and multilateral coordination (UN, ASEAN, Lancang‑Mekong).
+
+---
+
+### 2026-06-05 14:48:16  #國際
+
+【日本實際家庭消費連續5個月同比下滑】日本總務省6月5日公佈的調查結果顯示，受中東局勢延宕影響，日本家庭消費持續承壓，4月實際家庭消費支出同比下降0.5%，連續第五個月同比下滑。報告顯示，日本2人及以上家庭4月平均消費支出為32.90萬日元（1美元約合160日元）。在消費支出十個大類中五個類別支出同比下降。（新華財經）
+
+---
+
+### 2026-06-05 14:48:13  #央行 #國際
+
+印度央行行長馬爾霍特拉：預計銀行會將部分對沖成本轉嫁給客戶。
+
+---
+
+### 2026-06-05 14:48:01  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+France April industrial production YoY 1.2% vs. 1.8% consensus; prior 0.9%.
+
+---
+
+### 2026-06-05 14:47:49  #MKT News #Economic Calendar #Important
+
+France | Industrial Production (YoY) (Apr) | actual 1.2% | consensus 1.8% | previous 0.90%
+
+---
+
+### 2026-06-05 14:47:33  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
+
+France April manufacturing output rose 0.4% MoM, versus 0.2% expected; prior +1.2%.
+
+---
+
+### 2026-06-05 14:47:31  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+France April manufacturing output YoY 2.5% vs 1.6% prior.
+
+---
+
+### 2026-06-05 14:47:22  #MKT News #Economic Calendar #Important
+
+France | Manufacturing Production (YoY) (Apr) | actual 2.5% | previous 1.60%
+
+---
+
+### 2026-06-05 14:47:21  #MKT News #Economic Calendar #Important
+
+France | Manufacturing Production (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 1.20%
+
+---
+
+### 2026-06-05 14:46:59  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+France current account deficit narrowed to EUR 0.2 bln in April from EUR 8.2 bln in the prior month.
+
+---
+
+### 2026-06-05 14:46:48  #MKT News #Economic Calendar #Important
+
+France | Current Account (Apr) | actual -200000000B | previous -8200000000B
+
+---
+
+### 2026-06-05 14:46:31  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Falls for Week, Megaport Bucks Trend with AI Surge — Australia's ASX 200 lost 61 points, or 0.7%, to finish at 8,625 on Friday, marking its second straight decline as fading hopes for a U.S.–Iran peace deal weighed on sentiment. Meanwhile, U.S. stock futures weakened as investors cautiously awaited May jobs data for clues on labor conditions and Fed policy. The local market slipped 1.2% for the week, its first drop in three, amid caution ahead of the Reserve Bank’s policy decision later this month. Non-energy minerals led losses, followed by energy, financials, and consumer non-durables. Gold stocks dropped 1.9% despite firmer bullion, with Evolution Mining down 3.0%. Lynas Rare Earths slid 2.9% after naming veteran Pol Le Roux interim CEO from June 30. The big four banks lost between 1.1% and 1.6%. Energy stocks also retreated after four sessions of gains, as oil prices eased. In contrast, Megaport surged 11.3% after trading resumed, announcing four AI infrastructure contracts and plans to build an inference cloud.
+
+---
+
+### 2026-06-05 14:46:22  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
+
+France April industrial production MoM +0.1% (consensus -0.2%); prior +1.0%.
+
+---
+
+### 2026-06-05 14:46:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+France Apr exports €54.585 bln; previous reading revised to €52.933 bln from €52.459 bln.
+
+---
+
+### 2026-06-05 14:46:14  #MKT News #Economic Calendar #Important
+
+France | Industrial Production (MoM) (Apr) | actual 0.1% | consensus -0.2% | previous 1.00%
+
+---
+
+### 2026-06-05 14:46:10  #MKT News #Economic Calendar #Important
+
+France | Exports (Apr) | actual 54585000000B | previous 52459000000B
+
+---
+
+### 2026-06-05 14:45:57  #MKT News #EURUSD
+
+France April imports €60.225bn, prior €59.323bn.
+
+---
+
+### 2026-06-05 14:45:48  #MKT News #Economic Calendar #Important
+
+France | Imports (Apr) | actual 60225000000B | previous 59323000000B
+
+---
+
+### 2026-06-05 14:45:39  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
+
+France April trade deficit narrowed to EUR 5.64 bln from a EUR 6.864 bln deficit previously.
+
+---
+
+### 2026-06-05 14:45:30  #公司
+
+【李斌名下易車通文化傳媒公司擬登出】天眼查經營風險資訊顯示，近日，北京易車通文化傳媒有限公司新增一則簡易登出公告，公告期為5月29日至6月18日。該公司成立於2008年3月，法定代表人為李斌，註冊資本1000萬人民幣，經營範圍包括設計、製作、代理、釋出廣告等，由李斌、林芝利創資訊科技有限公司共同持股。
 
 ---
 
@@ -22787,77 +22937,5 @@ Wall Street Journal reports Meta Platforms (META.O) said it plans to release an 
 ### 2026-06-04 10:51:46  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
 
 The Wall Street Journal, citing people familiar with the matter, reports Meta Platforms (META.O) has delayed the API launch for its Muse Spark AI model, citing bugs and infrastructure issues.
-
----
-
-### 2026-06-04 10:51:38  #其他
-
-市場訊息：META計劃於6月釋出最新AI模型的API。
-
----
-
-### 2026-06-04 10:51:22  #Trading Economics #Markets #Indonesia #Stock Market #Importance 2
-
-Indonesia Equity Rout Worsens — Indonesian shares tumbled 283 points, or 4.8%, to 5,653 in Thursday morning trade, extending steep losses from the prior session and hitting their weakest since May 2021. The sell-off underscored mounting concerns: elevated oil prices stoking fiscal and external balance risks, fears of heavier state intervention in commodities, and jitters over a possible adverse MSCI reclassification rattling global funds. Markets have already shed around 34% this year, the worst performer among over 90 global equity indices, according to Bloomberg News. Meanwhile, April trade data showed the surplus faded as surging oil import costs outpaced exports. May inflation accelerated to 3.08%, above the central bank’s target midpoint. U.S. futures were mostly lower as renewed U.S.–Iran tensions kept inflation worries alive. All sectors fell, led by industrials, property, financials, and healthcare. Major losers included Barito Pacific (-13.9%), Darma Henwa (-10.2%), Indosat (-8.4%), and Kalbe Farma (-6.8%).
-
----
-
-### 2026-06-04 10:50:11  #國際
-
-【1700噸俄羅斯鉀肥專列運抵鄭州國際陸港】從鄭州國際陸港方面獲悉，一列滿載俄羅斯優質鉀肥的專項班列於6月1日抵達鄭州國際陸港，62個集裝箱、1700噸進口鉀肥成功落地中原，標誌著鄭州國際陸港以自主可控的跨境物流體系、高效穩定的樞紐運營能力，推動鉀肥等核心農資、大宗商品運輸通道實現常態化穩定暢通，為區域農資保供乃至中原糧食豐收築牢安全屏障。（大河財立方）
-
----
-
-### 2026-06-04 10:49:40  #MKT News
-
-Malaysia's Trade Ministry said any tariff rates on Malaysia will only be implemented after the U.S. Trade Representative (USTR) completes its full investigation and issues a formal determination, and Malaysia will continue engagement with the U.S. at all levels.
-
----
-
-### 2026-06-04 10:49:34  #公司
-
-【比亞迪騰勢在瀘州成立新汽車銷售公司】天眼查App顯示，近日，瀘州騰迪汽車銷售有限公司成立，法定代表人為李暄，註冊資本100萬人民幣，經營範圍包括新能源汽車整車銷售、新能源汽車電附件銷售、汽車銷售等，由騰勢汽車銷售服務有限公司全資持股。
-
----
-
-### 2026-06-04 10:49:18  #國際
-
-馬來西亞稱將繼續與美國在各層級保持溝通。
-
----
-
-### 2026-06-04 10:48:34  #國際
-
-馬來西亞貿易部：只有在美國貿易代表辦公室完成完整調查程式併發布正式裁定後，才會對馬來西亞徵收任何關稅。
-
----
-
-### 2026-06-04 10:48:33  #MKT News
-
-Malaysia's trade ministry said the United States has not yet made a final decision on tariffs affecting Malaysia.
-
----
-
-### 2026-06-04 10:48:28  #其他
-
-RAYMOND JAMES將CrowdStrike目標股價從450美元上調至750美元。
-
----
-
-### 2026-06-04 10:48:22  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-【Japan defers policy decisions to BOJ while stressing close coordination on wage-led 2% inflation】Chief Cabinet Secretary Kihara said on Thursday the government expects the Bank of Japan to implement appropriate monetary policy, in close coordination with the government, to achieve a sustainable 2% inflation driven by wage growth. Asked about Governor Ueda’s recent remarks, Kihara declined to comment on specifics and said the government and the BOJ have maintained—and will continue to maintain—full communication, citing last month’s meeting between Ueda and Prime Minister Takaichi. He reiterated that specific monetary policy tools are for the BOJ to decide, reaffirming the government’s longstanding stance.
-
----
-
-### 2026-06-04 10:47:11  #宏觀 #國際
-
-馬來西亞貿易部：美國尚未對馬來西亞出臺最終關稅裁定。
-
----
-
-### 2026-06-04 10:46:58  #國際
-
-【美國火星大氣探測器MAVEN任務終結】美國航空航天局3日宣佈，在火星軌道已執行超過11年的探測器“火星大氣與揮發物演化任務”（MAVEN）正式結束。 MAVEN探測器於2013年11月發射升空，2014年9月進入火星軌道，原計劃任務期一年，此後持續執行並多次延長任務。該探測器2025年12月6日最後一次與地面通訊後失聯，已無法繼續正常執行。美國航空航天局當時表示，MAVEN在繞過火星背面後未能恢復訊號。 今年2月，美航空航天局成立異常情況調查委員會，評估任務恢復的可能性及探測器狀態。調查結論是它已無法恢復正常執行，不能繼續執行科學觀測及資料中繼任務，這與任務團隊此前判斷一致。分析認為，探測器在脫離火星遮擋區時已處於高速自旋狀態，導致軌道姿態異常，隨後機載電池電量耗盡，通訊系統失去供電，從而造成失聯。 美航空航天局表示，目前相關調查仍在進行中，尚未確定導致異常的根本原因，最終調查報告預計將在今年晚些時候釋出。 據介紹，MAVEN主要觀測火星上層大氣、電離層及其與太陽活動的相互作用，以探究火星大氣向太空流失的過程。對大氣逃逸機制的研究，有助於科學家理解火星大氣與氣候演化歷史、液態水的存在情況及行星宜居性等關鍵問題。 美航空航天局行星科學部負責人路易絲·普羅克特表示，MAVEN任務取得的科學成果為未來載人火星任務所需的輻射防護與安全設計提供了重要依據，其資料在未來數十年仍將持續發揮作用。(新華社)
 
 ---

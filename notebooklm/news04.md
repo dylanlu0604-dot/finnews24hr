@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 03:08:13_
-_本檔包含 3807 則快訊，約 707290 字_
+_更新時間：2026-06-08 03:43:37_
+_本檔包含 3809 則快訊，約 707568 字_
+
+---
+
+### 2026-06-03 09:28:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+A-share CPO concept stocks extended gains. Tianyang New Materials recorded a third consecutive daily limit-up; Yibo Technology opened locked at the daily upper circuit. Tianfu Communications, Hengtong Optic-Electric, Yihua Co. and Robotech rose more than 6%.
+
+---
+
+### 2026-06-03 09:28:23  #國際
+
+美國：伊朗新一輪無人機襲擊科威特境內美軍目標失敗。
+
+---
+
+### 2026-06-03 09:28:15  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active futures contract fell more than 4.00% intraday to 166,900 yuan/ton.
+
+---
+
+### 2026-06-03 09:27:57  #公司 #市場
+
+CPO概念股延續漲勢，天洋新材3連板，一博科技一字漲停，天孚通訊、亨通光電、意華股份、羅博特科漲超6%。
+
+---
+
+### 2026-06-03 09:27:44  #國際
+
+美方：擊落多架襲擊科威特駐軍的伊朗無人機 。
+
+---
+
+### 2026-06-03 09:27:41  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+The U.S. military said local time tonight another wave of Iranian drones attempted to strike U.S. forces in Kuwait but failed to hit targets.
+
+---
+
+### 2026-06-03 09:26:32  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【Analyst: Intervention fears spark psychological battle; USD/JPY test of 160 could happen at any time】Traders are reluctant to push USD/JPY above the 160 threshold amid intervention risk; the yen slipped Wednesday morning toward 160, its weakest since authorities intervened at end‑April. Japan spent a record JPY 11.73 tln (about $73.35 bln) supporting the currency between Apr.28 and May.27. Finance Minister Satsuki Katayama reiterated officials stand ready to respond to FX volatility as needed. Gaitame.com Institute analyst Tsutomu Nakamura said intervention fears intensified as USD/JPY neared 160, creating a psychological battle and making a test of 160 possible at any time. Limited progress in US‑Iran permanent cease‑fire talks and a large US‑Japan interest‑rate differential after the BOJ held rates in April are adding pressure. BOJ governor UEDA is due to speak Wednesday afternoon ahead of the June 16 policy meeting. Overnight index swaps imply roughly an 84% probability of a rate hike this month.
+
+---
+
+### 2026-06-03 09:26:31  #MKT News #Market Regions #Greater China
+
+【16th Songshan Lake China IC Innovation Summit held; 119 promoted chips in mass production】The 16th Songshan Lake China IC Innovation Summit convened in Dongguan. Dai Weimin, vice-chair of the China Semiconductor Industry Association IC Design Branch, said the forum typically recommends about 10 Chinese chips a year and has promoted 93 companies to date; the post-forum listing rate is 20.4% with seven companies currently pursuing listings. Cumulatively the forum has promoted 129 chips, of which 119 are in mass production, implying a mass-production rate of 92.2%.
+
+---
+
+### 2026-06-03 09:25:52  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #Impact bullish
+
+At the open in A-shares, the Shanghai Composite fell 0.17%, the Shenzhen Composite Index rose 0.36% and the ChiNext rose 0.82%; F5G and copper-cable high-speed connectivity concept stocks led gains.
 
 ---
 
@@ -22905,47 +22959,5 @@ Russia Today reports a large explosion in Kyiv, Ukraine, causing widespread powe
 ### 2026-06-02 07:40:40  #MKT News #Commodities #Energy #CSI300 #Impact bullish #S&P500
 
 【Huatai Securities: Coal-fired power likely to benefit as electricity demand hits new highs】Huatai Securities said recent heat pushed southern China peak power load to record highs for four straight days, with peak demand rising nearly one month earlier than normal, acting as a catalyst for the power sector. Coal-fired generation should benefit directly from higher utilisation hours and higher spot/monthly power prices as peak loads persist. Markets may fear rising demand will lift coal prices, but higher coal costs also support market-based electricity tariff increases, permitting gradual pass-through of cost pressure. Power equities remain on the left of fundamentals, implying scope for a sustained price rebound. High temperatures most directly boost thermal power; clean energy could also gain from energy-driven electricity price upside.
-
----
-
-### 2026-06-02 07:40:15  #市場 #觀點
-
-【華泰證券：煤電有望直接受益於用電負荷創新高】華泰證券研報表示，近日，高溫天氣促使南方區域最大負荷連續四日創新高，且最大負荷較往年提前近1月創新高，對電力板塊市場行情形成催化。煤電在利用小時數和現貨/月度電價層面有望直接受益於最大負荷連創新高，市場或擔憂用電負荷攀升帶動煤價上漲，但煤價上漲也是市場化電價上漲的重要支撐，電價可以逐步傳導成本壓力。電力股還在基本面的左側，電價反彈具備持續性，“高溫天氣”最直接催化火電行情；清潔能源或更受益於一次能源價格帶動的電價上漲。
-
----
-
-### 2026-06-02 07:39:47  #市場 #國際
-
-【亞市早盤油價小幅走高 特朗普尋求平息以色列與真主黨衝突】早盤油價小幅走高。近月西得州中質油期貨上漲0.2%，報每桶92.31美元。美國總統特朗普週一試圖平息以色列與真主黨之間日益加劇的衝突，該衝突威脅到美國與伊朗的和平談判。特朗普宣佈，雙方已同意停火，以色列總理內塔尼亞胡已取消對黎巴嫩的襲擊。然而，Tickmill的Joseph Dahrieh在一封電子郵件中表示，美伊談判缺乏明顯突破，且中東地區再次發生衝突事件。這位董事總經理補充說，這些因素加劇了人們的擔憂，即影響霍爾木茲海峽的限制措施可能會維持比預期更長的時間，這使得油價保持在高位。
-
----
-
-### 2026-06-02 07:39:43  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Kyiv mayor said a nine-storey residential building caught fire after a Russian strike.
-
----
-
-### 2026-06-02 07:39:18  #國際
-
-基輔市長稱，基輔一棟九層公寓樓在俄羅斯襲擊後起火。
-
----
-
-### 2026-06-02 07:39:11  #市場 #兩會
-
-【前5個月地方債券發行超4.7萬億元】今年以來，更加積極的財政政策持續落地，成效不斷顯現。 從地方債券角度看，記者梳理Wind資料發現，今年前5個月，各地發行地方債券規模總計達到47219億元，較2025年同期的43148億元增長超9%。從債券型別看，用於置換存量隱性債務的再融資專項債券（簡稱“置換債券”）和新增專項債券佔比較大。前5個月，各地發行置換債券合計14263億元，佔地方債券總體發行規模的30%，完成全年限額2萬億元的71%；各地發行新增專項債券規模達到14951億元，接近1.5萬億元關口。 今年的《政府工作報告》明確，擬安排地方政府專項債券4.4萬億元，完善專項債券專案負面清單管理和自審自發試點，重點支援建設重大專案、置換隱性債務、消化政府拖欠賬款等。從發行進度看，今年前5個月新增專項債券發行進度約為34%。（證券日報）
-
----
-
-### 2026-06-02 07:37:06  #觀點
-
-【華泰證券：AI驅動感光幹膜需求爬升，行業頭部企業有望受益】華泰證券研報表示，感光幹膜作為PCB製造的關鍵材料，有望伴隨下游景氣持續增長，AI等領域進一步帶動高階幹膜需求。當前感光幹膜國產化率較低，伴隨內資企業加速高階領域技術突破與產能擴張以及政策端支援，國產化率未來有望提高，行業頭部企業有望受益。
-
----
-
-### 2026-06-02 07:36:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Gains on US-Iran Stalemate — Brent crude futures remained above $95 per barrel on Tuesday after jumping more than 4% at the start of the month, as ongoing peace talks between the US and Iran showed little progress, keeping markets cautious about supply disruptions. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli strikes in Lebanon. The report also indicated that Iran and its regional allies are considering the full closure of the Strait of Hormuz and the Bab el-Mandeb Strait, a key alternative route for global oil shipments. Meanwhile, President Donald Trump said negotiations remain ongoing and noted that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached within the next week. Separately, Lebanese authorities called for all Lebanese territory to be covered under any extension of the ceasefire agreement between Hezbollah and Tel Aviv.
 
 ---
