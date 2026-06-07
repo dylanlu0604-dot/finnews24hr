@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:06:11_
-_本檔包含 3906 則快訊，約 709199 字_
+_更新時間：2026-06-08 06:25:03_
+_本檔包含 3923 則快訊，約 708839 字_
+
+---
+
+### 2026-06-08 06:21:10  #其他
+
+亞美尼亞總理尼科爾·帕希尼揚宣佈在議會選舉中獲勝。
+
+---
+
+### 2026-06-08 06:20:29  #焦點 #國際
+
+【特朗普稱以色列只能接受美伊協議】據英國《金融時報》報道，美國總統特朗普在接受其採訪時表示，以色列總理內塔尼亞胡將“別無選擇，只能接受美國與伊朗談判達成的任何協議”，因為美國總統才是“說了算的人”。 特朗普在接受電話採訪時說：“他（內塔尼亞胡）將別無選擇，我說了算，一切都由我說了算，他（內塔尼亞胡）說了不算。”特朗普發表這番言論時，伊朗剛剛向以色列發射了導彈。他告訴《金融時報》：“這不會對協議產生任何影響，不會影響到我，我們拭目以待最終結果。那些（針對以色列的導彈）襲擊也根本沒造成什麼實質性後果。”（CCTV國際時訊）
+
+---
+
+### 2026-06-08 06:20:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Trump tells Netanyahu he must accept any US‑Iran deal, says 'I decide'】Trump told the Financial Times in a phone interview that Netanyahu will have no choice but to accept any US‑Iran deal negotiated by the United States, asserting "I decide" and that Netanyahu does not. He said Iran's Sunday strike has not changed his willingness to reach an agreement. Asked what would happen if a deal "failed on its own merits," Trump said he would consider either sending US forces into Iran to resolve outstanding issues or sustaining a blockade, which he suggested could be more powerful than an attack.
+
+---
+
+### 2026-06-08 06:19:47  #國際
+
+特朗普稱，伊朗襲擊以色列的行為不會對相關談判造成影響。
+
+---
+
+### 2026-06-08 06:19:23  #焦點 #國際
+
+【特朗普：如果談判失敗，可能會考慮對伊朗發動突襲】當被問及若此類協議本身未能達成會作何打算時，美國總統特朗普表示，他將考慮對伊朗發動突擊隊突襲。他說：“這意味著兩種可能的行動：第一，我們或許會出兵，以軍事手段解決此前尚未處理的目標；或者，我們將維持對伊朗的封鎖，因為封鎖的威力或許比以往任何針對該國的襲擊都更具效果。”
+
+---
+
+### 2026-06-08 06:17:56  #國際
+
+以色列一名官員表示：以色列必將對伊朗的襲擊展開反擊，只是不會立即行動。
+
+---
+
+### 2026-06-08 06:15:59  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #S&P500 #WTI #Impact bearish
+
+Spot gold and US equity index futures rose modestly; WTI crude slipped slightly.
+
+---
+
+### 2026-06-08 06:15:45  #國際
+
+【以色列國防部稱將關閉加沙地帶過境點】以色列國防部負責協調向加沙地帶運送援助物資的“領土內政府活動協調辦公室”表示，在伊朗對以色列發動襲擊後，出於必要安全考慮，加沙地帶過境點將被關閉，其中包括最主要的凱雷姆·沙洛姆過境點和拉法過境點。（央視新聞）
+
+---
+
+### 2026-06-08 06:15:17  #市場 #焦點
+
+以太坊升破1700美元，日內漲8.42%。
+
+---
+
+### 2026-06-08 06:14:47  #市場 #焦點
+
+比特幣升破63000美元，日內漲3.64%。
+
+---
+
+### 2026-06-08 06:14:13  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+US President Trump said he would consider a strike on Iran if any agreement fails.
+
+---
+
+### 2026-06-08 06:14:12  #國際
+
+特朗普：一切由我做主，所有事都我說了算，內塔尼亞胡做不了主。
+
+---
+
+### 2026-06-08 06:13:48  #其他
+
+一架私人飛機在多明尼加共和國拉羅馬納國際機場緊急降落時墜毀。
+
+---
+
+### 2026-06-08 06:12:52  #焦點 #國際
+
+當被問及如果任何此類協議“憑其自身條款”未能達成將會出現何種局面時，特朗普表示，他會考慮對伊朗發動突襲。
+
+---
+
+### 2026-06-08 06:11:56  #MKT News #Important #XAUUSD #Impact bearish #DXY #WTI
+
+US President Trump said he is the final decision-maker and that Netanyahu does not determine outcomes; Iran's attack has not changed his willingness to reach an agreement.
+
+---
+
+### 2026-06-08 06:11:27  #國際
+
+特朗普表示，伊朗的打擊行動並未改變他想要促成美伊談判達成結果的意願。
+
+---
+
+### 2026-06-08 06:11:19  #國際
+
+【以軍將回應伊朗導彈襲擊】據《耶路撒冷郵報》今天（6月8日）援引訊息人士報道稱，以色列將對伊朗的攻擊作出回應，但其規模和時間尚未確定。
+
+---
+
+### 2026-06-08 06:10:25  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+US President Trump said Israeli Prime Minister Netanyahu will have 'no choice' but to accept a deal with Iran.
+
+---
+
+### 2026-06-08 06:09:59  #焦點 #國際
+
+特朗普稱，內塔尼亞胡將“別無選擇”，只能接受與伊朗達成的協議。
+
+---
+
+### 2026-06-08 06:09:22  #市場 #央行 #焦點 #國際
+
+【伊朗發動襲擊後油價大漲，美國股指期貨跌幅擴大】亞洲早盤時段，受伊朗向以色列發射導彈影響，市場擔憂中東衝突持續並進一步升級，西德克薩斯輕質原油與布倫特原油漲幅均超3%。由於今年美聯儲加息機率上升，標普500、納斯達克100股指期貨上週五已走低，今日再度下跌，跌幅均超0.3%。
+
+---
+
+### 2026-06-08 06:09:12  #MKT News #Commodities #Precious Metals
+
+Spot silver fell 1.00% intraday to $67.20/oz.
+
+---
+
+### 2026-06-08 06:09:06  #市場
+
+現貨白銀日內跌1%，現報67.06美元/盎司。
+
+---
+
+### 2026-06-08 06:08:36  #國際
+
+日本金融廳擬針對資本金不足問題提前下達監管指令。
+
+---
+
+### 2026-06-08 06:08:11  #MKT News
+
+Iran's foreign minister held a phone call with Saudi Arabia's foreign minister, the Iranian Students' News Agency reported.
+
+---
+
+### 2026-06-08 06:06:35  #市場
+
+鈀金期貨日內跌2%，現報1236.80美元/盎司。
+
+---
+
+### 2026-06-08 06:05:49  #市場 #焦點 #國際
+
+【油價跳漲：伊朗襲擊以色列，停火協議岌岌可危】伊朗向以色列發射多輪導彈，和談陷入僵局、脆弱停火瀕臨破裂，國際油價反彈上漲。布倫特原油漲幅最高達3.6%，觸及每桶96.47美元；WTI原油逼近每桶94美元。一名伊朗軍事顧問表示，此次襲擊是對以色列的警告，要求其“停止在黎巴嫩的敵對行動”；以色列軍方稱已攔截所有來襲導彈。襲擊發生後，美國總統特朗普敦促伊朗重返談判，並批評以色列週日對貝魯特的空襲；他表示，將施壓以色列總理內塔尼亞胡不要採取報復行動。過去一週，中東地區敵對行動頻發，脆弱停火瀕臨崩潰，和平談判愈發複雜。衝突已導致關鍵的霍爾木茲海峽近乎關閉，全球原油、成品油及天然氣供應鏈受阻。
 
 ---
 
@@ -23548,59 +23704,5 @@ A local governor said Russian strikes on Ukraine's Kyiv region killed four peopl
 ### 2026-06-05 15:14:59  #公司
 
 【姚順雨入職半年，騰訊高管：他對於元寶和混元帶來了巨大價值】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生現場回應了騰訊為什麼會選擇姚順雨，以及姚順雨入職半年來對騰訊AI帶來了哪些改變？湯道生表示，“他在這個領域是很有影響力的專家，在他來之前我們溝通也充分感受到了他的專業，確實是對於AI的認知跟我們過去很多不一樣，他的到來對於元寶和混元帶來了巨大的價值。”湯道生透露，“其實我們之前訓練的很多資料是不夠高質量的，所以他到來之後早期做了很多工作，就是把資料質量提質，包括砍掉很多貌似可以堆量的，但實際對模型沒有太大幫助的（資料），很多的決策就會做得更加到位，他做了很多化繁為簡的事情，元寶和混元過去半年的進展比過去更長的時間進步了更多，毫無疑問他（姚順雨）有非常大的功勞。”（新浪科技）
-
----
-
-### 2026-06-05 15:14:35  #國際
-
-韓國中央選舉管理委員會委員長表示，因部分選區地方選舉出現選票短缺問題，他將辭職。
-
----
-
-### 2026-06-05 15:14:32  #公司 #市場 #焦點
-
-【583億天量成交 中際旭創今日成交額躋身A股歷史第四】今日，CPO板塊龍頭中際旭創放量大跌，截至收盤，該股跌幅達7.81%，創下今年2月2日以來的最大單日跌幅。與此同時，其全天成交額高達583.25億元，不僅重新整理了上市以來的歷史紀錄，也在今日A股成交額榜單中高居首位。縱觀A股歷史，這一成交額位列第四，超越了新易盛今年4月創下的紀錄，僅次於東方財富、中國石油與中國平安。目前，中際旭創股價收報1179.99元，在全市場個股中位居第五位，再度低於貴州茅臺。
-
----
-
-### 2026-06-05 15:14:22  #MKT News #Important
-
-【Wingtech sues Nexperia Netherlands】Wingtech Technology has filed a lawsuit in China alleging improper interference by Nexperia Netherlands; the Dongguan Intermediate People’s Court in Guangdong has accepted the case, Nexperia China said.
-
----
-
-### 2026-06-05 15:14:04  #公司 #國際
-
-【因安全帶緊急鎖止可能失效，起亞在美召回逾6000輛2027款Telluride車型】6月5日，美國國家公路交通安全管理局（NHTSA）公告顯示，起亞北美公司正在申請召回部分2027款Telluride和Telluride混動版汽車，潛在受影響的車輛總數為6264輛。本次召回的核心原因在於，受影響車輛的駕駛員安全帶“緊急鎖止收卷器”可能會發生非預期鎖死，導致安全帶織帶無法正常拉出。在車輛不幸發生碰撞時，無法正常拉伸延伸的安全帶將無法有效約束車內人員，從而顯著增加乘員的受傷風險。
-
----
-
-### 2026-06-05 15:13:58  #國際
-
-烏克蘭基輔州州長稱，俄羅斯的襲擊已造成四人死亡。
-
----
-
-### 2026-06-05 15:13:50  #其他
-
-【湖南辰溪縣籃協主席酒後直播發表不當言論被免職】湖南懷化市籃球協會6月5日釋出關於張昌華不當言論處理情況的通報：6月4日晚，懷化市籃球協會副主席張昌華在網路直播期間，因酒後言行失範，發表不當言論，傷害兩地球迷情感，對懷化籃球運動形象造成不良負面影響。在此，向株洲全體參賽球員、株洲籃球界及懷化、株洲廣大球迷致以最誠摯的歉意。免去張昌華懷化市籃球協會副主席職務，責令辰溪縣籃球協會免去其辰溪縣籃協主席職務，自本通報印發之日起生效。將張昌華納入2026年度懷化市各級官方主辦籃球賽事觀賽黑名單，禁止其透過線上、線下渠道申購相關賽事門票進入賽事場館觀賽。
-
----
-
-### 2026-06-05 15:12:45  #公司 #市場 #國際
-
-【韓國股市因科技股拋售大幅下挫 創下3月以來最差單週表現】韓國股市週五大幅下挫，創下自3月底以來最大單週跌幅，因全球科技股回撥及美伊和談陷入僵局，嚴重打擊了投資者的風險偏好。韓元兌美元匯率跌至2009年以來最低水平。韓國基準KOSPI指數收盤下跌478.82點，跌幅5.54%，報8160.59點，創下自5月15日以來最大單日百分比跌幅。本週累計下跌3.7%。盤中KOSPI指數一度下跌6.96%，觸發"側車"交易暫停機制。晶片製造商三星電子下跌6.4%，同行SK海力士下跌9.9%。這兩家晶片製造商近期不斷改寫全球股市排名，推動KOSPI指數在過去一年內上漲超過200%。韓元兌美元匯率今年迄今已下跌近7%，報收於1美元兌1,539.1韓元，當日下跌0.46%，此前盤中一度觸及2009年3月以來最低水平1,549.1韓元。
-
----
-
-### 2026-06-05 15:12:43  #Trading Economics #Economy #Austria #Wholesale Prices YoY #Importance 1
-
-Austria Wholesale Prices Post Strongest Rise Since 2023 — Wholesale prices in Austria rose by 6.9% year-on-year in May 2026, accelerating from a 6.7% rise in the previous month and marking the strongest annual gain since February 2023. The increase was primarily driven by price increases for plastics and rubber in primary forms (53.1%), other liquid and gaseous fuels and related products (44.9%), and motor spirit (30.1%). Additional upward pressure came from higher prices for non-iron metals (16.9%), information and communication equipment (15.5%), waste and scrap (14.7%), other machinery and equipment (11.7%), watches and jewellery (11.4%), solid fuels (10.5%), and iron and steel (10.1%). On a monthly basis, wholesale prices edged up 0.1% in May, slowing from a 1.1% increase in the previous month.
-
----
-
-### 2026-06-05 15:12:41  #Trading Economics #Markets #Commodity #Importance 1
-
-TTF Prices Head for Sharp Weekly Gain — European natural gas futures rose above €49 per megawatt hour and were on track for a weekly gain of nearly 7%, amid a stalemate in US–Iran talks. There has been little sign of progress in negotiations, while a renewed flare-up in fighting has heightened uncertainty. The rejection of a US-brokered ceasefire proposal by Iran-backed Hezbollah has further complicated efforts to de-escalate regional tensions. As a deal remains elusive, markets are increasingly worried that disruptions to energy shipments from the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter.
 
 ---

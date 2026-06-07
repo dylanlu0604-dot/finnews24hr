@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:06:11_
-_本檔包含 3607 則快訊，約 708514 字_
+_更新時間：2026-06-08 06:25:03_
+_本檔包含 3603 則快訊，約 708744 字_
+
+---
+
+### 2026-06-02 08:16:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Slip After Record-Setting Session — US stock futures edged lower on Tuesday after the major indexes reached fresh record highs during the first trading session of June, as ongoing geopolitical uncertainties continued to drive market volatility. In regular trading on Monday, the Dow added 0.09%, the S&P 500 advanced 0.26%, and the Nasdaq Composite gained 0.42%, with all three benchmarks finishing at new all-time highs. Technology stocks led the rally following the debut of a new PC chip. Among the top gainers were Micron Technology (6.6%), Nvidia (6.3%), Oracle (9.9%), IBM (7.6%), and Dell Technologies (10.7%). In after-hours trading, Hewlett Packard Enterprise jumped 28% after providing a strong quarterly outlook and raising its full-year guidance. Investors are now awaiting the latest JOLTS job openings report, along with earnings results from Palo Alto Networks, Dollar General, and Victoria’s Secret, among others.
+
+---
+
+### 2026-06-02 08:16:30  #市場
+
+納斯達克100指數期貨下跌0.5%.
+
+---
+
+### 2026-06-02 08:14:17
+
+韓國綜合指數跳水，現跌超3％，開盤一度漲近1％。三星電機跌超14％，現代汽車跌超6％，SK海力士跌超4％。
+
+---
+
+### 2026-06-02 08:14:16  #資料 #市場 #央行 #國際
+
+【韓國央行預計CPI將在一段時間內維持在3%的水平】韓國央行在一份宣告中表示，隨著油價衝擊的影響逐漸波及其他領域，預計CPI將在一段時間內維持在3%的水平。預計6月CPI將與5月水平相近。此前韓國政府週二公佈的資料顯示，5月份消費者物價指數同比上漲3.1%，創下2024年3月以來最大漲幅。
+
+---
+
+### 2026-06-02 08:13:20  #MKT News
+
+Kyiv mayor said preliminary reports show two people were injured in an attack in Kyiv.
+
+---
+
+### 2026-06-02 08:13:14  #國際
+
+基輔市長表示，初步報告顯示基輔的襲擊事件造成兩人受傷。
+
+---
+
+### 2026-06-02 08:12:17  #市場
+
+韓華航空航天股價下跌6.2%，報106.7萬韓元。
+
+---
+
+### 2026-06-02 08:11:16  #市場
+
+早盤交易中，澳大利亞標普/澳證200指數下跌0.6%，報8673.60點。
+
+---
+
+### 2026-06-02 08:11:02  #MKT News #Market Themes #Chip Wars #ARM.O #Impact bullish #9984.T
+
+SoftBank Group shares rose 4.6% after Arm (ARM.O) surged in overnight trading.
 
 ---
 
@@ -21727,83 +21781,5 @@ Spot gold turned higher intraday, rising above $4,540/oz.
 ### 2026-06-01 06:25:54  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
 
 【China MIIT urges risk-sharing and funding push for future industries】China’s Ministry of Industry and Information Technology (MIIT) minister Li Lecheng said in a People’s Daily article that Beijing will build mechanisms to boost investment and share risk for “future industries,” citing long incubation cycles and high market risk. He called for exploring funding approaches that encourage innovation and tolerate failure, mobilising government investment funds and national industry–finance cooperation platforms and stepping up financial support. The MIIT urged development of a tech-finance services system and new financing tools to attract social capital into early-stage and patient investments, prioritising early, small-scale backing of hard‑tech. It also reiterated acceleration of manufacturing talent programs, faster cultivation and recruitment of cross-disciplinary and high‑skill personnel, and optimisation of university disciplines to strengthen industry‑tech innovation talent pools.
-
----
-
-### 2026-06-01 06:24:14  #國際
-
-一位伊朗訊息人士表示，德黑蘭將對與華盛頓可能達成的協議文字提出進一步修改。
-
----
-
-### 2026-06-01 06:15:48  #國際
-
-美國國家運輸安全委員會與聯邦航空管理局就一項價值5萬美元、針對駕駛艙顯示裝置的航空安全強制規定產生分歧。
-
----
-
-### 2026-06-01 06:14:51  #市場 #國際
-
-美國原油期貨上漲2.53美元，報每桶89.89美元。
-
----
-
-### 2026-06-01 06:12:21  #其他
-
-英國首相斯塔默將於週一被迫公開聲名掃地的前大使彼得·曼德爾森與內閣官員之間的數百份私人往來記錄。
-
----
-
-### 2026-06-01 06:12:18  #市場 #焦點
-
-現貨黃金突破4530美元/盎司，日內跌0.24%。
-
----
-
-### 2026-06-01 06:12:07  #市場 #焦點
-
-紐約期金突破4560美元/盎司，日內跌0.68%。
-
----
-
-### 2026-06-01 06:10:34  #公司 #國際
-
-【遭遇潛在安全威脅 美國一航班返航】據美國媒體5月31日報道，由於一名乘客的藍芽耳機名稱帶有威脅性，觸發安全警報，30日晚，美國聯合航空公司一架從新澤西州飛往西班牙的航班在飛行途中調頭返航。（新華社）
-
----
-
-### 2026-06-01 06:10:10  #MKT News
-
-US media reported on May 31 that on the evening of May 30 a United Airlines flight from New Jersey to Spain turned back mid‑flight after a passenger’s Bluetooth headset name contained a threatening phrase, triggering a security alert.
-
----
-
-### 2026-06-01 06:09:04  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude oil rises more than 2% intraday to $92.07/bbl.
-
----
-
-### 2026-06-01 06:08:28  #市場
-
-WTI原油日內漲3%，現報90.00美元/桶。
-
----
-
-### 2026-06-01 06:08:28  #市場 #焦點
-
-WTI原油突破90美元/桶，日內漲3.02%。
-
----
-
-### 2026-06-01 06:08:10  #國際
-
-【伊朗總統稱要麼強硬前行要麼犧牲】伊朗總統佩澤希齊揚5月31日在政府會議上表示，他仍堅守在第一線工作崗位上，並已準備好應對任何情況，“要麼以強硬的姿態繼續前行，要麼英勇犧牲”。他對政府官員強調，必須堅守崗位，真誠地投身於工作之中，妥善應對和管理各種問題。伊朗政府資訊委員會主席哈茲拉蒂當天在社交媒體平臺上發文強調，佩澤希齊揚正全力推進國家事務，併為人民服務。他指出，近期有外國媒體再次散佈所謂“總統辭職”的謠言，這與事實完全不符。哈茲拉蒂認為，這些訊息的製造者試圖製造“絕望、分裂”。他堅信這注定不會得逞。（CCTV國際時訊）
-
----
-
-### 2026-06-01 06:07:19  #公司
-
-【錨定結構性機會 基金經理“謀變”】近日，上海證券報聯合天天基金髮起6月基金經理調研，南方基金、前海開源基金、融通基金等多家公司的基金經理接受調研，分享最新觀點。調研結果顯示，面對震盪行情，基金經理主動謀篇佈局，A股仍是最受青睞的方向之一。調研結果顯示，A股與美股在基金經理6月看好的資產中排名並列第一。對A股投資持有較為樂觀態度的基金經理佔比超過四成，中性觀望的超過五成；對於美股，基金經理之間分歧較大，超過五成的態度較為樂觀，近三成觀望，但也有一成多較為謹慎。此外，基金經理對6月債券、港股、商品投資的樂觀程度相對較低。（上證報）
 
 ---

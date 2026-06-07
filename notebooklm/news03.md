@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:06:11_
-_本檔包含 3975 則快訊，約 708504 字_
+_更新時間：2026-06-08 06:25:03_
+_本檔包含 3974 則快訊，約 709577 字_
+
+---
+
+### 2026-06-04 11:35:11  #國際
+
+泰國批准Purecycle的81億泰銖投資計劃。
+
+---
+
+### 2026-06-04 11:34:26  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SSE Composite
+
+【China midday: major A-share indexes drift lower; CSSC-linked names rally】China's A-share benchmarks were lower at midday after an early dip and brief rebound: Shanghai Composite -0.43%, Shenzhen Composite -0.46%, ChiNext -1.1%. CSSC-related names outperformed, with Zhongchuan Teqi and China Power hitting limit-up, and Jiuzhiyang and Zhongchuan Hanguang among the top gainers. Coal mining and processing stocks recovered to lead gains; Antai Group, Pingmei, Dayou Energy hit limit-up, while Zhengzhou Coal & Power, Huaibei Mining and Shaanxi Black Cat also rose. Storage-chip plays strengthened—Shanghai Silicon Industry rallied over 15% intraday; Taiji Industrial and Dawei shares hit limit-up, with Baiwei Storage, Jiangbolong and Demingli higher. Oil and gas exploration and services lagged in early trade, led lower by Tongyuan Petroleum and Keli Co.
+
+---
+
+### 2026-06-04 11:33:04  #MKT News #Important
+
+MOFCOM spokesman said it urged the OECD to study industrial subsidies objectively and neutrally, to solicit broad stakeholder input, rely on comprehensive, accurate and authoritative data that reflect real industrial development and policy practice, and to avoid politicizing or instrumentalizing the report, warning such actions would damage the OECD’s credibility.
+
+---
+
+### 2026-06-04 11:32:42  #焦點 #國際
+
+【商務部新聞發言人就經合組織產業補貼相關報告答記者問】問：6月1日，經合組織釋出產業補貼相關報告，表示中國企業獲得的補貼最多，請問商務部對此有何評論？ 答：補貼是包括經合組織成員在內的各經濟體普遍使用的政策工具。中方願積極參與產業補貼國際規則討論。 中方的產業補貼政策嚴格遵守世貿組織規則，切實履行透明度義務。中方認為，經合組織釋出的報告概念界定不嚴謹，樣本選取有偏差，結論片面武斷。報告中所謂的“補貼”缺乏統一衡量標準和統計口徑，脫離世貿組織等多邊框架共識。報告將中國企業在全球市場份額的增加單純歸因於從政府獲得補貼，完全忽視中國企業在規模經濟、生產效率、技術迭代等方面真正的核心優勢。 我們敦促經合組織以客觀、中立的方式開展研究，廣泛聽取相關方意見，使用全面、準確、權威的資料和資訊，反映產業發展和政策實踐的真實情況，避免將研究報告政治化、工具化，損害自身的信譽。
+
+---
+
+### 2026-06-04 11:31:51  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+【China stock index futures morning close】CSI300 index futures (IF) front-month contract down 0.44%; SSE50 index futures (IH) front-month contract down 0.63%; CSI500 index futures (IC) front-month contract up 0.09%; CSI1000 index futures (IM) front-month contract up 0.08%.
+
+---
+
+### 2026-06-04 11:31:48  #MKT News
+
+Indonesia's parliament has passed a wide-ranging financial bill into law, expanding the central bank's powers and granting parliament the authority to assess financial regulators, the deputy speaker said.
 
 ---
 
@@ -23894,47 +23930,5 @@ A-share rare-earth permanent-magnet names active; Zhonggang Tianyuan hit daily l
 ### 2026-06-03 09:53:35  #MKT News #Market Regions #CNH #Impact bullish #CSI300 #Hang Seng Index
 
 【May RatingDog China Services PMI rises to 54.4; expansion broadens】May 2026 RatingDog China services PMI rose to 54.4 from 52.6 in April, up 1.8 pts and marking the 41st consecutive month in expansion; the pace of expansion was the fastest in three months. New business accelerated to a three-month high, led by domestic demand; new export orders returned to expansion after two months of contraction. Firms’ 12-month activity expectations were the strongest since February. Input-cost inflation climbed to a near 19-month high but remained below the long-run trend; providers largely absorbed higher costs and selling prices stayed broadly stable. Employment returned to expansion after three months of modest decline. Overall, May saw stronger services-sector expansion with gains in new orders, exports, employment and business confidence, while controllable cost pressure and stable pricing support continued domestic demand recovery.
-
----
-
-### 2026-06-03 09:53:32  #其他
-
-【淄博：最佳化部分住房公積金使用政策】6月3日，淄博正式實施公積金最佳化新政，多措並舉提振住房消費、保障居民剛需與改善置業需求。新政拓寬公積金提取範圍，購房首付、自住住房提取可聯動購房者配偶、雙方父母及子女資金，加裝電梯提取新增老舊電梯更新場景。貸款端，多子女、購買高品質住宅或現房等情形可核減住房套數，以舊換新可減免一次貸款記錄；二手房房齡+貸款年限上限提至50年，取消300㎡以上住房禁貸限制。新政新增貸款展期業務，同時放開靈活就業人員商轉公、商轉組業務，進一步降低居民置業與還貸成本。
-
----
-
-### 2026-06-03 09:53:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-A-shares commercial space sector surged, with Chengchang Technology hitting the daily limit; Zhongfu Shenying, AVIC Optoelectronics, Xice Testing, Youyan Powder Materials and Changjiang Communications each rose more than 5%.
-
----
-
-### 2026-06-03 09:53:29  #其他
-
-【港股科網股集體回撥，嗶哩嗶哩-W跌近4%】港股科網股集體回撥，嗶哩嗶哩-W跌近4%，美團-W、快手-W跌超3%，阿里巴巴-W、騰訊控股跌超2%。
-
----
-
-### 2026-06-03 09:53:18  #市場
-
-商業航天概念震盪拉昇，鋮昌科技觸及漲停，中復神鷹、中航光電、西測測試、有研粉材、長江通訊漲超5%。
-
----
-
-### 2026-06-03 09:52:09  #MKT News #Market Themes #Chip Wars #06809.HK #Impact bullish #03986.HK
-
-Hong Kong storage-related stocks rallied: Montage Technology (06809.HK) up more than 9%, GigaDevice (03986.HK) up 5.34%.
-
----
-
-### 2026-06-03 09:52:05  #市場
-
-【電力板塊異動拉昇 豫能控股等多股漲停】電力板塊異動拉昇，豫能控股、廣西能源、新中港漲停，長源電力、中閩能源、協鑫能科、華電遼能衝高。
-
----
-
-### 2026-06-03 09:51:57  #國際
-
-【匈牙利總理：準備好與澤連斯基會談】正在德國訪問的匈牙利總理毛焦爾·彼得2日說，匈烏兩國關於烏克蘭境內匈牙利少數族裔權利的技術性談判正取得積極進展，他準備下周初與烏克蘭總統澤連斯基舉行會談。 毛焦爾當天在柏林與德國總理默茨共同出席記者會。默茨在記者會上呼籲雙方加強合作以提升防務能力和歐洲的競爭力，同時敦促匈牙利新政府支援正式開啟烏克蘭加入歐盟的談判。 匈牙利前總理歐爾班不支援烏克蘭加入歐盟。在歐爾班4月選舉失利後，澤連斯基5月致信歐盟領導人時表示，現在各方有機會在烏克蘭入盟談判上取得實質性進展。（新華社）
 
 ---

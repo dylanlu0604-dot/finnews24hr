@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:06:11_
-_本檔包含 3839 則快訊，約 708504 字_
+_更新時間：2026-06-08 06:25:03_
+_本檔包含 3837 則快訊，約 708128 字_
+
+---
+
+### 2026-06-03 09:53:32  #其他
+
+【淄博：最佳化部分住房公積金使用政策】6月3日，淄博正式實施公積金最佳化新政，多措並舉提振住房消費、保障居民剛需與改善置業需求。新政拓寬公積金提取範圍，購房首付、自住住房提取可聯動購房者配偶、雙方父母及子女資金，加裝電梯提取新增老舊電梯更新場景。貸款端，多子女、購買高品質住宅或現房等情形可核減住房套數，以舊換新可減免一次貸款記錄；二手房房齡+貸款年限上限提至50年，取消300㎡以上住房禁貸限制。新政新增貸款展期業務，同時放開靈活就業人員商轉公、商轉組業務，進一步降低居民置業與還貸成本。
+
+---
+
+### 2026-06-03 09:53:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+A-shares commercial space sector surged, with Chengchang Technology hitting the daily limit; Zhongfu Shenying, AVIC Optoelectronics, Xice Testing, Youyan Powder Materials and Changjiang Communications each rose more than 5%.
+
+---
+
+### 2026-06-03 09:53:29  #其他
+
+【港股科網股集體回撥，嗶哩嗶哩-W跌近4%】港股科網股集體回撥，嗶哩嗶哩-W跌近4%，美團-W、快手-W跌超3%，阿里巴巴-W、騰訊控股跌超2%。
+
+---
+
+### 2026-06-03 09:53:18  #市場
+
+商業航天概念震盪拉昇，鋮昌科技觸及漲停，中復神鷹、中航光電、西測測試、有研粉材、長江通訊漲超5%。
+
+---
+
+### 2026-06-03 09:52:09  #MKT News #Market Themes #Chip Wars #06809.HK #Impact bullish #03986.HK
+
+Hong Kong storage-related stocks rallied: Montage Technology (06809.HK) up more than 9%, GigaDevice (03986.HK) up 5.34%.
+
+---
+
+### 2026-06-03 09:52:05  #市場
+
+【電力板塊異動拉昇 豫能控股等多股漲停】電力板塊異動拉昇，豫能控股、廣西能源、新中港漲停，長源電力、中閩能源、協鑫能科、華電遼能衝高。
+
+---
+
+### 2026-06-03 09:51:57  #國際
+
+【匈牙利總理：準備好與澤連斯基會談】正在德國訪問的匈牙利總理毛焦爾·彼得2日說，匈烏兩國關於烏克蘭境內匈牙利少數族裔權利的技術性談判正取得積極進展，他準備下周初與烏克蘭總統澤連斯基舉行會談。 毛焦爾當天在柏林與德國總理默茨共同出席記者會。默茨在記者會上呼籲雙方加強合作以提升防務能力和歐洲的競爭力，同時敦促匈牙利新政府支援正式開啟烏克蘭加入歐盟的談判。 匈牙利前總理歐爾班不支援烏克蘭加入歐盟。在歐爾班4月選舉失利後，澤連斯基5月致信歐盟領導人時表示，現在各方有機會在烏克蘭入盟談判上取得實質性進展。（新華社）
 
 ---
 
@@ -23080,59 +23122,5 @@ eBay發言人：在與澳大利亞競爭與消費者委員會溝通接洽後，�
 ### 2026-06-02 08:17:00  #MKT News #Copper #Impact bullish
 
 【Huaxi Securities: Domestic electronic copper foil localization and lithium‑battery foil price upcycle opportunity】Huaxi Securities says rising AI technology requirements are triggering a volume cycle for high‑end electronic copper foil; ongoing product qualification and capacity rollouts mean domestic producers could begin to see simultaneous volume and margin gains this year. Copper foil’s heavy capex and high cash intensity constrain rapid capacity expansion. With the Chinese lithium‑ion battery supply chain approaching the H2 seasonal peak, demand upside plus tight supply should further squeeze electronic copper foil capacity and sustain upward pressure on lithium‑battery copper foil prices. High electronic‑foil margins, rising processing fees and a larger share of ultra‑thin lithium battery foil should reinforce copper‑foil makers’ profitability.
-
----
-
-### 2026-06-02 08:16:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Slip After Record-Setting Session — US stock futures edged lower on Tuesday after the major indexes reached fresh record highs during the first trading session of June, as ongoing geopolitical uncertainties continued to drive market volatility. In regular trading on Monday, the Dow added 0.09%, the S&P 500 advanced 0.26%, and the Nasdaq Composite gained 0.42%, with all three benchmarks finishing at new all-time highs. Technology stocks led the rally following the debut of a new PC chip. Among the top gainers were Micron Technology (6.6%), Nvidia (6.3%), Oracle (9.9%), IBM (7.6%), and Dell Technologies (10.7%). In after-hours trading, Hewlett Packard Enterprise jumped 28% after providing a strong quarterly outlook and raising its full-year guidance. Investors are now awaiting the latest JOLTS job openings report, along with earnings results from Palo Alto Networks, Dollar General, and Victoria’s Secret, among others.
-
----
-
-### 2026-06-02 08:16:30  #市場
-
-納斯達克100指數期貨下跌0.5%.
-
----
-
-### 2026-06-02 08:14:17
-
-韓國綜合指數跳水，現跌超3％，開盤一度漲近1％。三星電機跌超14％，現代汽車跌超6％，SK海力士跌超4％。
-
----
-
-### 2026-06-02 08:14:16  #資料 #市場 #央行 #國際
-
-【韓國央行預計CPI將在一段時間內維持在3%的水平】韓國央行在一份宣告中表示，隨著油價衝擊的影響逐漸波及其他領域，預計CPI將在一段時間內維持在3%的水平。預計6月CPI將與5月水平相近。此前韓國政府週二公佈的資料顯示，5月份消費者物價指數同比上漲3.1%，創下2024年3月以來最大漲幅。
-
----
-
-### 2026-06-02 08:13:20  #MKT News
-
-Kyiv mayor said preliminary reports show two people were injured in an attack in Kyiv.
-
----
-
-### 2026-06-02 08:13:14  #國際
-
-基輔市長表示，初步報告顯示基輔的襲擊事件造成兩人受傷。
-
----
-
-### 2026-06-02 08:12:17  #市場
-
-韓華航空航天股價下跌6.2%，報106.7萬韓元。
-
----
-
-### 2026-06-02 08:11:16  #市場
-
-早盤交易中，澳大利亞標普/澳證200指數下跌0.6%，報8673.60點。
-
----
-
-### 2026-06-02 08:11:02  #MKT News #Market Themes #Chip Wars #ARM.O #Impact bullish #9984.T
-
-SoftBank Group shares rose 4.6% after Arm (ARM.O) surged in overnight trading.
 
 ---

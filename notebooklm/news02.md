@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:06:11_
-_本檔包含 3810 則快訊，約 707988 字_
+_更新時間：2026-06-08 06:25:03_
+_本檔包含 3813 則快訊，約 708871 字_
+
+---
+
+### 2026-06-05 15:14:35  #國際
+
+韓國中央選舉管理委員會委員長表示，因部分選區地方選舉出現選票短缺問題，他將辭職。
+
+---
+
+### 2026-06-05 15:14:32  #公司 #市場 #焦點
+
+【583億天量成交 中際旭創今日成交額躋身A股歷史第四】今日，CPO板塊龍頭中際旭創放量大跌，截至收盤，該股跌幅達7.81%，創下今年2月2日以來的最大單日跌幅。與此同時，其全天成交額高達583.25億元，不僅重新整理了上市以來的歷史紀錄，也在今日A股成交額榜單中高居首位。縱觀A股歷史，這一成交額位列第四，超越了新易盛今年4月創下的紀錄，僅次於東方財富、中國石油與中國平安。目前，中際旭創股價收報1179.99元，在全市場個股中位居第五位，再度低於貴州茅臺。
+
+---
+
+### 2026-06-05 15:14:22  #MKT News #Important
+
+【Wingtech sues Nexperia Netherlands】Wingtech Technology has filed a lawsuit in China alleging improper interference by Nexperia Netherlands; the Dongguan Intermediate People’s Court in Guangdong has accepted the case, Nexperia China said.
+
+---
+
+### 2026-06-05 15:14:04  #公司 #國際
+
+【因安全帶緊急鎖止可能失效，起亞在美召回逾6000輛2027款Telluride車型】6月5日，美國國家公路交通安全管理局（NHTSA）公告顯示，起亞北美公司正在申請召回部分2027款Telluride和Telluride混動版汽車，潛在受影響的車輛總數為6264輛。本次召回的核心原因在於，受影響車輛的駕駛員安全帶“緊急鎖止收卷器”可能會發生非預期鎖死，導致安全帶織帶無法正常拉出。在車輛不幸發生碰撞時，無法正常拉伸延伸的安全帶將無法有效約束車內人員，從而顯著增加乘員的受傷風險。
+
+---
+
+### 2026-06-05 15:13:58  #國際
+
+烏克蘭基輔州州長稱，俄羅斯的襲擊已造成四人死亡。
+
+---
+
+### 2026-06-05 15:13:50  #其他
+
+【湖南辰溪縣籃協主席酒後直播發表不當言論被免職】湖南懷化市籃球協會6月5日釋出關於張昌華不當言論處理情況的通報：6月4日晚，懷化市籃球協會副主席張昌華在網路直播期間，因酒後言行失範，發表不當言論，傷害兩地球迷情感，對懷化籃球運動形象造成不良負面影響。在此，向株洲全體參賽球員、株洲籃球界及懷化、株洲廣大球迷致以最誠摯的歉意。免去張昌華懷化市籃球協會副主席職務，責令辰溪縣籃球協會免去其辰溪縣籃協主席職務，自本通報印發之日起生效。將張昌華納入2026年度懷化市各級官方主辦籃球賽事觀賽黑名單，禁止其透過線上、線下渠道申購相關賽事門票進入賽事場館觀賽。
+
+---
+
+### 2026-06-05 15:12:45  #公司 #市場 #國際
+
+【韓國股市因科技股拋售大幅下挫 創下3月以來最差單週表現】韓國股市週五大幅下挫，創下自3月底以來最大單週跌幅，因全球科技股回撥及美伊和談陷入僵局，嚴重打擊了投資者的風險偏好。韓元兌美元匯率跌至2009年以來最低水平。韓國基準KOSPI指數收盤下跌478.82點，跌幅5.54%，報8160.59點，創下自5月15日以來最大單日百分比跌幅。本週累計下跌3.7%。盤中KOSPI指數一度下跌6.96%，觸發"側車"交易暫停機制。晶片製造商三星電子下跌6.4%，同行SK海力士下跌9.9%。這兩家晶片製造商近期不斷改寫全球股市排名，推動KOSPI指數在過去一年內上漲超過200%。韓元兌美元匯率今年迄今已下跌近7%，報收於1美元兌1,539.1韓元，當日下跌0.46%，此前盤中一度觸及2009年3月以來最低水平1,549.1韓元。
+
+---
+
+### 2026-06-05 15:12:43  #Trading Economics #Economy #Austria #Wholesale Prices YoY #Importance 1
+
+Austria Wholesale Prices Post Strongest Rise Since 2023 — Wholesale prices in Austria rose by 6.9% year-on-year in May 2026, accelerating from a 6.7% rise in the previous month and marking the strongest annual gain since February 2023. The increase was primarily driven by price increases for plastics and rubber in primary forms (53.1%), other liquid and gaseous fuels and related products (44.9%), and motor spirit (30.1%). Additional upward pressure came from higher prices for non-iron metals (16.9%), information and communication equipment (15.5%), waste and scrap (14.7%), other machinery and equipment (11.7%), watches and jewellery (11.4%), solid fuels (10.5%), and iron and steel (10.1%). On a monthly basis, wholesale prices edged up 0.1% in May, slowing from a 1.1% increase in the previous month.
+
+---
+
+### 2026-06-05 15:12:41  #Trading Economics #Markets #Commodity #Importance 1
+
+TTF Prices Head for Sharp Weekly Gain — European natural gas futures rose above €49 per megawatt hour and were on track for a weekly gain of nearly 7%, amid a stalemate in US–Iran talks. There has been little sign of progress in negotiations, while a renewed flare-up in fighting has heightened uncertainty. The rejection of a US-brokered ceasefire proposal by Iran-backed Hezbollah has further complicated efforts to de-escalate regional tensions. As a deal remains elusive, markets are increasingly worried that disruptions to energy shipments from the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter.
 
 ---
 
@@ -22907,41 +22961,5 @@ CSI Convertible Bond Index was down 0.38% at midday; Qifan, Daotong and Heda con
 ### 2026-06-04 11:36:21  #其他
 
 世芯電子首席財務官在臺北電腦展（COMPUTEX）上表示：2030年全球定製AI晶片營收規模將超過2700億美元。
-
----
-
-### 2026-06-04 11:35:11  #國際
-
-泰國批准Purecycle的81億泰銖投資計劃。
-
----
-
-### 2026-06-04 11:34:26  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SSE Composite
-
-【China midday: major A-share indexes drift lower; CSSC-linked names rally】China's A-share benchmarks were lower at midday after an early dip and brief rebound: Shanghai Composite -0.43%, Shenzhen Composite -0.46%, ChiNext -1.1%. CSSC-related names outperformed, with Zhongchuan Teqi and China Power hitting limit-up, and Jiuzhiyang and Zhongchuan Hanguang among the top gainers. Coal mining and processing stocks recovered to lead gains; Antai Group, Pingmei, Dayou Energy hit limit-up, while Zhengzhou Coal & Power, Huaibei Mining and Shaanxi Black Cat also rose. Storage-chip plays strengthened—Shanghai Silicon Industry rallied over 15% intraday; Taiji Industrial and Dawei shares hit limit-up, with Baiwei Storage, Jiangbolong and Demingli higher. Oil and gas exploration and services lagged in early trade, led lower by Tongyuan Petroleum and Keli Co.
-
----
-
-### 2026-06-04 11:33:04  #MKT News #Important
-
-MOFCOM spokesman said it urged the OECD to study industrial subsidies objectively and neutrally, to solicit broad stakeholder input, rely on comprehensive, accurate and authoritative data that reflect real industrial development and policy practice, and to avoid politicizing or instrumentalizing the report, warning such actions would damage the OECD’s credibility.
-
----
-
-### 2026-06-04 11:32:42  #焦點 #國際
-
-【商務部新聞發言人就經合組織產業補貼相關報告答記者問】問：6月1日，經合組織釋出產業補貼相關報告，表示中國企業獲得的補貼最多，請問商務部對此有何評論？ 答：補貼是包括經合組織成員在內的各經濟體普遍使用的政策工具。中方願積極參與產業補貼國際規則討論。 中方的產業補貼政策嚴格遵守世貿組織規則，切實履行透明度義務。中方認為，經合組織釋出的報告概念界定不嚴謹，樣本選取有偏差，結論片面武斷。報告中所謂的“補貼”缺乏統一衡量標準和統計口徑，脫離世貿組織等多邊框架共識。報告將中國企業在全球市場份額的增加單純歸因於從政府獲得補貼，完全忽視中國企業在規模經濟、生產效率、技術迭代等方面真正的核心優勢。 我們敦促經合組織以客觀、中立的方式開展研究，廣泛聽取相關方意見，使用全面、準確、權威的資料和資訊，反映產業發展和政策實踐的真實情況，避免將研究報告政治化、工具化，損害自身的信譽。
-
----
-
-### 2026-06-04 11:31:51  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-【China stock index futures morning close】CSI300 index futures (IF) front-month contract down 0.44%; SSE50 index futures (IH) front-month contract down 0.63%; CSI500 index futures (IC) front-month contract up 0.09%; CSI1000 index futures (IM) front-month contract up 0.08%.
-
----
-
-### 2026-06-04 11:31:48  #MKT News
-
-Indonesia's parliament has passed a wide-ranging financial bill into law, expanding the central bank's powers and granting parliament the authority to assess financial regulators, the deputy speaker said.
 
 ---
