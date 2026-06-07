@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-08 05:54:24",
-  "count": 19135,
+  "updated": "2026-06-08 05:58:13",
+  "count": 19137,
   "items": [
+    {
+      "id": "mkt:019ea416-c91e-7ee0-86d4-2db2bcf9d70e",
+      "time": "2026-06-08 05:56:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【After Iran fires at Israel, IDF says it will strike HEZBOLLAH hard in Lebanon】Late on the 7th the IDF said Iran fired missiles at Israel in what it called \"a serious mistake\" and that it will continue operations across Lebanon while intensifying strikes on HEZBOLLAH. The IDF said it will not allow Iran to create a new balance of forces, is prepared for further missile attacks and ready to retaliate. IDF Chief of Staff Zamir is assessing the situation and is expected to approve the next operational plan."
+    },
+    {
+      "id": "4922295",
+      "time": "2026-06-08 05:56:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打以色列後 以軍稱將猛打黎巴嫩真主黨】以色列國防軍發言人埃菲·德弗林7日深夜說，伊朗當晚向以色列發射導彈是“一個嚴重錯誤”，以軍將繼續在黎巴嫩展開行動，並加大對黎真主黨的打擊力度。（新華社）"
+    },
+    {
+      "id": "4922294",
+      "time": "2026-06-08 05:54:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月維持利率不變的機率為97%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為97%，累計降息25個基點的機率為3%。美聯儲到7月維持利率不變的機率為81.9%，累計加息25個基點的機率15.5%，累計降息25個基點的機率為2.5%。"
+    },
     {
       "id": "4922293",
       "time": "2026-06-08 05:53:46",
@@ -722,6 +751,14 @@
         "國際"
       ],
       "text": "【約旦拉響防空警報】當地時間7日晚，約旦拉響防空警報。約旦方面提醒民眾注意安全，並提醒民眾遵守安全指示。當晚早些時候，以色列國防軍稱，監測到伊朗向以色列發射導彈。以色列北部多地拉響防空警報。（央視新聞）"
+    },
+    {
+      "id": "4922237",
+      "time": "2026-06-08 04:29:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院籌款委員會在6月9日聽證會召開前，公佈七份加密貨幣稅收法案草案。"
     },
     {
       "id": "mkt:019ea3c5-5976-7ee0-86d3-4a4c3b58c465",
@@ -176461,22 +176498,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲1%，現報92.52美元/桶。"
-    },
-    {
-      "id": "4909088",
-      "time": "2026-06-01 05:55:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "計票完成一半後，哥倫比亞左翼候選人塞佩達得票率為41.2%，以微弱差距位居第二。"
-    },
-    {
-      "id": "4909087",
-      "time": "2026-06-01 05:55:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "計票完成一半時，德拉埃斯普列利亞在哥倫比亞選舉中以44.2%的得票率領先，德拉埃斯普列利亞為右翼候選人。"
     }
   ]
 }
