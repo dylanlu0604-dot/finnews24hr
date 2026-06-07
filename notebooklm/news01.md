@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:26:54_
-_本檔包含 3713 則快訊，約 702840 字_
+_更新時間：2026-06-07 08:06:10_
+_本檔包含 3716 則快訊，約 702888 字_
+
+---
+
+### 2026-06-07 08:02:49  #國際
+
+據報道，特朗普首屆任期內，美國環境保護署大力推進逐步廢止動物實驗，這項工作在拜登任內陷入停滯。本週該部門宣佈在全面取消動物實驗的工作上取得新進展。
+
+---
+
+### 2026-06-07 07:58:57  #MKT News
+
+【Shooting in Toledo, Ohio Injures Multiple】A shooting near a festival in Toledo, Ohio on June 6 injured multiple people, police said. Officers received a report at about 5:37 p.m. local time and found several victims; the injured were taken to hospital. Police are searching for suspects and have urged the public to avoid the area.
+
+---
+
+### 2026-06-07 07:58:16  #公司
+
+【包鋼股份成功研發並批次生產超高強稀土耐磨鋼】據包鋼股份釋出訊息，近日，包鋼股份成功研發並批次生產超高強稀土耐磨鋼，打破了國外企業在該領域的技術壟斷。目前，這款極寒超高強度稀土耐磨鋼已完成工業化生產，首批訂單經效能檢測各項指標表現優異，即將交付客戶投入實際應用。
+
+---
+
+### 2026-06-07 07:52:32  #公司
+
+【老博會三天迎來逾十萬觀眾，部分展品有望進入上海首家銀髮商店】2026上海國際養老、輔具及康復醫療博覽會昨天在上海新國際博覽中心落下帷幕。為期三天的展會吸引22個國家和地區的680餘家參展企業參與，展覽面積達到6萬平方米，展會規模創歷史新高。據初步統計，本屆上海老博會參觀人數約為10.3萬人次。上海老博會也是養老行業資源匯聚、同業交流碰撞、協同共創的產業賦能平臺。本屆老博會期間共舉辦主題交流活動及專題沙龍12場，邀請近百位行業專家、企業領袖登臺分享，吸引近4000人次現場參與。“今年出現了更多科技向善的、價格親民的、功能合適的產品。”上海銀髮經貿發展有限公司總經理馬智雯表示，部分展品有望進入上海首家銀髮商店輪轉，讓消費者全年都能在家門口體驗到最新的養老科技和優質的銀髮服務，真正將上海老博會做到“3+365”。（解放日報）
+
+---
+
+### 2026-06-07 07:51:40  #其他
+
+根據該諒解備忘錄，布依格將收購SFR的業務部門及客戶基礎，對應年銷售額約為12億歐元。
+
+---
+
+### 2026-06-07 07:51:09  #公司
+
+【廣藥集團與揚州市政府簽署戰略合作協議】近日，廣藥集團副總經理程洪進率隊赴江蘇省揚州市，與揚州市人民政府簽署戰略合作協議。其間，團隊先後走訪寶應縣特色食品龍頭企業、江蘇聯環藥業集團，並出席揚州市現代農業產業發展大會，與揚州市圍繞生物醫藥、現代農業、藥食同源大健康食品、AI創新制藥等領域，開啟粵蘇政企全方位合作。
+
+---
+
+### 2026-06-07 07:47:29  #其他
+
+【監督機構稱英國核武器開支透明度不足】英國議會監督機構表示，英國國防部在不斷攀升的核武器開支方面透明度嚴重不足，相關支出約佔英國國防預算的五分之一。公共賬目委員會在一份措辭嚴厲的報告中，還點名批評問題頻發的Ajax裝甲車專案 —— 該專案耗資已超60億英鎊；同時指責政府遲遲未釋出國防投資計劃，這份計劃原定於去年公佈。公共賬目委員會表示：“事實上，英國多年來都沒有一份完善可行的軍事發展規劃。”
+
+---
+
+### 2026-06-07 07:44:20  #國際
+
+【距離世界盃僅一週 美國SoFi體育場工作人員罷工要求加薪】美國洛杉磯附近的SoFi體育場工作人員於當地時間週五投票決定舉行罷工，要求提高薪資。此時距離該場館承辦美國足球隊本屆世界盃首戰僅剩一週時間。 工會表示，因與場館餐飲服務分包商Legends Global的合同談判陷入僵局，場館內聯合酒店及服務業工會11號分會96%的成員投票支援罷工。雙方談判預計於週一重啟。 該工會代表場館內約2000名餐飲從業者，包括調酒師、洗碗工、廚師及售賣攤位工作人員。
+
+---
+
+### 2026-06-07 07:42:55  #公司
+
+【司爾特與工行貴陽分行銀企簽約儀式舉行】6月5日，安徽省司爾特肥業股份有限公司（簡稱“司爾特”）與中國工商銀行貴陽分行（簡稱“工行貴陽分行”）在貴州開陽舉行銀企合作簽約儀式。本次簽約旨在深入貫徹落實貴州省“富礦精開”戰略部署，藉助金融賦能，加速推進司爾特在貴州重大專案建設的落地佈局。
+
+---
+
+### 2026-06-07 07:42:25  #國際
+
+【伊朗民眾：美國不可信任 伊朗不會投降】7日，美國和以色列對伊朗發動的戰爭進入第100天。伊朗外交部6日發表宣告，譴責美國當天對波斯灣沿岸的伊朗雷達設施發動襲擊，稱此次襲擊是對伊朗國家主權和領土完整的侵犯。伊朗民眾在接受總檯記者採訪時表示，美以在軍事行動中炸死了他們的親人。儘管伊朗有談判意願，但美國卻不可信任。（央視新聞）
+
+---
+
+### 2026-06-07 07:36:58  #其他
+
+【湖南曝光8起非法經營、儲存煙花爆竹案例】近期，湖南開展嚴厲打擊煙花爆竹非法生產“雷霆”行動。各地區、各部門依法查處多起非法經營、儲存煙花爆竹案件。現將8起案例予以曝光。其中，5月29日，耒陽市應急管理局接到群眾舉報稱，灶市街街道存在非法經營煙花爆竹行為，迅速聯合市綜合行政執法局、灶市街街道辦事處及轄區派出所，組建專項聯合執法組。執法人員直奔舉報地點，精準鎖定一處隱蔽非法儲存經營窩點，現場依法查扣各類煙花爆竹共計344箱。目前，該案已移送耒陽市綜合行政執法局立案調查。
+
+---
+
+### 2026-06-07 07:36:28  #國際
+
+【AI衝擊亞洲外包產業：印度菲律賓數百萬崗位面臨轉型陣痛】近年來，隨著人工智慧技術（AI）飛速發展，亞洲地區的“業務流程外包（BPO）”行業正受到嚴重衝擊，尤其是在印度和菲律賓的外包勞動力市場。“業務流程外包”指的是企業把非核心業務交給第三方管理，旨在降低成本，進而聚焦核心業務的發展，該行業包括資料錄入、文件和發票處理、客戶諮詢和投訴處理、文件驗證等基礎性工作。BPO工作重複性較高，因此極易被AI取代。也有分析認為，人工智慧技術不會在全球均勻地“創造崗位”或“消滅崗位”，而是會重新劃分全球分工。技術和資本集中的地區將獲得高價值的新崗位，而曾經依賴低成本勞動力的地區，如印度和菲律賓等傳統外包中心可能面臨崗位流失和產業空心化，從而加劇不平等現象。（澎湃）
+
+---
+
+### 2026-06-07 07:35:56  #其他
+
+【一張航展照片可能洩露國家機密 國家安全部最新提示】國家安全部今天釋出安全提示文章。“去某某航展，幫我拍一下那架飛機的起落架細節”“在艦船展上，錄一段新型雷達旋轉的影片”“幫我測量一下展臺上那個導彈模型的長度和直徑”……國家安全機關工作發現，境外間諜情報機關以“兼職拍照”“有償調研”為誘餌，網路勾連我境內人員前往各類軍事、科技展會，或拍攝照片，或測量資料，並提供給境外。（央視新聞）
+
+---
+
+### 2026-06-07 07:35:43  #其他
+
+【官廳湖畔崛起算力“超級大腦” 驅動京津冀乃至全國的“數字大腦”高速運轉】官廳湖畔的張家口市懷來縣東花園鎮緊鄰北京，東花園北站是京張高鐵出京第一站。如今，東花園鎮建起大資料產業基地，一座座“超級大腦”為北京的網際網路企業提供資料、算力支援，資訊流和算力需求在京張之間快速流動。 近年來，綠電與算力深度融合，“張北的風”不僅點亮“首都的燈”，更驅動著京津冀乃至全國的“數字大腦”高速運轉。依託強大的算力基礎設施，張家口持續吸引大資料產業鏈上的企業在當地落戶，2025年大資料行業用電量達95.43億千瓦時，同比增長33.68億千瓦時。（北京日報）
+
+---
+
+### 2026-06-07 07:30:11  #其他
+
+【21條優勢政策啟用大興機場綜保區跨境產業新活力 空港跨境購物有望實現“當日達”】日前，2026“全球新物聯”跨境電商大會在北京大興國際機場臨空經濟區召開，北京大興國際機場臨空經濟區產業創新生態推介會同步舉行。 大會由大興機場臨空經濟區聯合管委會和中國報關協會共同主辦，會上首次釋出了21條支援大興機場綜保區高質量發展的優勢政策，創新推行“預約查驗+即查即檢”通關新機制，將大幅提升跨境電商進出口商品通關效率，推動該區域建成華北地區核心跨境電商集聚區。 例如，為支援大興機場綜保區打造華北地區跨境電商集聚區，《若干措施》專門提出深化“預約查驗+即查即檢”機制，保障區內跨境電商企業進出口商品高效通關，支援大興機場綜保區打造華北地區跨境電商集聚區。在新機制“加持”下，消費者購買海外商品，只要在當天上午11點前下單，就能在晚上11點前收到貨。 （北京日報）
 
 ---
 
@@ -22370,77 +22460,5 @@ Philippines Industrial Output Growth Accelerates — Manufacturing production in
 ### 2026-06-05 09:13:14  #MKT News
 
 【Daxiao Robotics, CUHK and Shenzhen Hetao College unveil Kairos-Home World whole-house 3D interactive world model】Daxiao Robotics, the Multimedia Laboratory at The Chinese University of Hong Kong and Shenzhen Hetao College unveiled Kairos-Home World, which they say is the world’s first unified world-model framework to generate whole-house 3D environments with full object-level interaction. The team says the model overcomes prior room-level limits and inconsistent operability by one-click generation of structurally coherent, physically plausible and functionally complete whole-home 3D scenes, providing large-scale, high-fidelity Chinese household interactive training environments for embodied AI and robotics training.
-
----
-
-### 2026-06-05 09:12:29  #公司 #觀點
-
-【牙博士啟動IPO輔導】證監會網站披露，牙博士醫療控股集團股份有限公司（簡稱“牙博士”）於2026年6月4日在江蘇證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為東吳證券。輔導備案報告顯示，牙博士共同控股股東為陳國鋒、劉明非、遊宗明，分別持有公司27.95%、14.46%、14.14%的股份。
-
----
-
-### 2026-06-05 09:11:46  #MKT News #Market Regions #Greater China
-
-China's National Financial Regulatory Administration approved Shenzhen BYD Property Insurance Co., Ltd. to use nationwide unified compulsory traffic accident liability insurance clauses, basic insurance rates and corresponding rate fluctuation coefficients in Hebei, Jiangsu and Zhejiang provinces (excluding Ningbo).
-
----
-
-### 2026-06-05 09:11:24  #其他
-
-Decision Desk HQ（DDHQ）預計，民主黨人哈維爾·貝塞拉將晉級11月舉行的加州州長大選。
-
----
-
-### 2026-06-05 09:10:34  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei index fell 2.00% intraday.
-
----
-
-### 2026-06-05 09:10:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Hovers Near 7-Week Low — US gasoline futures hovered around $3.0 per gallon, holding close to a seven-week low, as markets continued to weigh the likelihood of a diplomatic breakthrough in the Middle East. President Trump described ceasefire talks as being in the “final” stages, differing from Iran’s foreign minister, who earlier said negotiations had stalled. The conflicting statements came alongside a sharp escalation in violence earlier in the week. Adding to uncertainty, Iran-backed Hezbollah also rejected a US-brokered ceasefire proposal in Lebanon. The developments extended restrictions on tanker traffic through the Strait of Hormuz, which accounts for about one-fifth of global oil consumption. Meanwhile, US gasoline inventories rose by more than 3 million barrels in the final week of May, ending a 15-week streak of declines. However, draws of around 8 million barrels each from private crude stocks and the SPR tempered the overall improvement in refined product supply.
-
----
-
-### 2026-06-05 09:09:41  #市場
-
-日經225指數下跌超過2%，一度跌至66120.61點。
-
----
-
-### 2026-06-05 09:09:26  #市場
-
-臺灣證交所加權股價指數下跌1.1%至45,185.64點。
-
----
-
-### 2026-06-05 09:08:37  #市場 #焦點
-
-菜籽連續主力合約日內漲4%，現報6179.00元。
-
----
-
-### 2026-06-05 09:08:12  #宏觀
-
-【陝西出臺金融支援鄉村全面振興15條措施】6月4日，據陝西金融監管局訊息：近日，該局印發《關於做好2026年金融支援鄉村全面振興工作的通知》，圍繞強化金融供給、健全幫扶機制、提升服務能力、最佳化服務保障、加強監管引領等5方面出臺15條措施，全力支援全省推進鄉村全面振興。 在強化金融供給方面，陝西將圍繞提升農業綜合生產能力和質量效益，深入對接金融需求；堅持投資於物和投資於人緊密結合，加大金融投入，助力發展各具特色的縣域經濟，支援農民工穩崗就業，鼓勵金融機構加大對返鄉人才的創業擔保貸款投放力度；加大對全省鄉村振興片區建設支援力度，探索金融支援城鄉融合發展和以縣域為重要載體的新型城鎮化建設有效途徑。
-
----
-
-### 2026-06-05 09:06:24  #市場
-
-【酒價內參6月5日價格釋出：國窖1573夢之藍M6+領跌 總價創近50天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月5日整體繼續承壓大幅走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9876元，較昨日大幅下跌24元，總價創下近50天以來最低。市場在前一日轉衰後再度大幅走弱，終端交投情緒偏冷，今日除青花汾20與古井貢古20上漲外其餘九大品種均下跌或平盤，其中四款酒價創下月內新低。今日白酒市場11大單品二漲八跌一平，輸家仍舊佔據絕對優勢。上漲方面，古井貢古20漲幅居前，上漲5元/瓶，收復昨日全部失地，自月內低谷溫和回升；青花汾20上漲4元/瓶，亦回補前一日全部跌幅。下跌方面，國窖1573、洋河夢之藍M6+、習酒君品與青花郎均下跌5元/瓶，其中國窖1573再度失守890元，平月內最低價格紀錄，洋河夢之藍M6+再度跌落600元大關，習酒君品終結此前四連陽，青花郎則續創月內新低，亦創下“酒價內參”統計以來的最低均價紀錄；精品茅臺與五糧液普五八代均下跌4元/瓶，後者近一個月價格下行明顯，今日亦創下月內新低；水晶劍南春下跌3元/瓶；飛天茅臺下跌2元/瓶。五糧液1618的價格環比保持不變，近一個月走勢頗為平穩。
-
----
-
-### 2026-06-05 09:06:04  #市場 #焦點
-
-純鹼連續主力合約日內跌2%，現報1169.00元。
-
----
-
-### 2026-06-05 09:05:12  #MKT News #Market Regions #Greater China #CSI300
-
-【China private securities product filings up ~49% in first five months; index-enhanced funds lead】China private securities product filings rose 49.15% YoY in the first five months to 6,530 from 4,378. Equity-strategy products drove the increase, with 4,222 filings (+51.11% YoY) accounting for roughly 65% of total filings, supported by firmer A-share trading activity. Index-enhanced strategies were the fastest-growing subset: 1,603 filings (+73.30% YoY), about 38.0% of equity-strategy filings. Filings remain concentrated among large private managers; firms with assets under management above 10 billion yuan form the primary first-tier of private securities product registrants.
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:26:54_
-_本檔包含 3543 則快訊，約 702528 字_
+_更新時間：2026-06-07 08:06:10_
+_本檔包含 3537 則快訊，約 702823 字_
+
+---
+
+### 2026-06-01 21:44:50  #公司 #市場
+
+Cadence Design Systems股價上漲3.1%，此前該公司推出了由英偉達提供技術支援、用於晶片設計的全自動虛擬工程師工具。
+
+---
+
+### 2026-06-01 21:44:39  #宏觀
+
+【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。羅文強調，要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。
+
+---
+
+### 2026-06-01 21:44:37  #MKT News
+
+【CHINA FOREIGN MINISTER holds China-Brazil foreign minister-level comprehensive strategic dialogue with VIEIRA】CHINA FOREIGN MINISTER met Brazil foreign minister VIEIRA in Beijing for the fifth China‑Brazil foreign minister-level comprehensive strategic dialogue. China praised Brazil’s adherence to the One‑China principle and reiterated support for Brazil’s sovereignty and independent development. Both sides agreed to leverage the high‑level Coordination and Cooperation Committee and a development‑strategy alignment mechanism to deepen cooperation and deliver tangible projects, and to implement leaders’ plan for a 2026 China‑Brazil Cultural Year to expand cultural, education, tourism, sports, subnational, youth and media ties. They pledged closer coordination in multilateral forums including the UN and BRICS, promoted China’s four global initiatives, and said they would press for a more equitable global governance system and defend developing countries’ interests. China affirmed it remains a reliable partner for Latin America and the Caribbean and will work with regional states, including Brazil, to deepen overall China‑Latin America cooperation.
+
+---
+
+### 2026-06-01 21:44:09  #宏觀
+
+【王毅同巴西外長維埃拉舉行中巴外長級全面戰略對話】2026年6月1日，中共中央政治局委員、外交部長王毅在北京同巴西外長維埃拉舉行第五次中巴外長級全面戰略對話。王毅說，近年來，在習近平主席和盧拉總統戰略引領下，中巴關係實現從全面戰略伙伴到命運共同體的里程碑式跨越，全球性、戰略性、長遠性影響更加凸顯，各領域務實合作不斷提質升級，兩國人民前所未有地相互走近。中巴在國際舞臺上密切協作，展現擔當，成為當今世界保穩定、促發展的中堅力量。百年變局正在加速演進，國際社會對和平穩定的期待更加迫切，全球治理體系改革應儘快提上日程。雙方要落實好兩國元首重要共識，持續深化中巴命運共同體建設，共同抵禦外部各種挑戰，為推進各自現代化程序和全球南方國家聯合自強形成更多合力，為動盪世界提供更多寶貴的確定性。王毅表示，中方讚賞巴政府長期恪守一箇中國原則，支援巴方捍衛國家主權、維護獨立自主、實現更大發展。雙方要統籌用好中巴高層協調與合作委員會和發展戰略對接等機制，發揮各自優勢，打造更多合作成果。要落實好兩國元首關於辦好2026“中巴文化年”重要共識，推動文教、旅遊、體育、地方、青年、媒體等各領域交流合作。要加強在聯合國、金磚國家等多邊機制下溝通協作，積極踐行四大全球倡議，推動建立更加公正合理的全球治理體系，維護世界和平穩定，捍衛發展中國家正當權益。中方始終是拉美和加勒比國家可靠的朋友，願同包括巴方在內的地區國家一道，促進中拉整體合作繼續向縱深發展。維埃拉表示，巴中關係是發展中國家堅持獨立自主、加強團結協作的標杆，也是大國之間發展穩定、可預期關係的典範。友誼是巴中關係的底色。兩國元首成功互訪，將雙邊關係定位提升為構建更公正世界和更可持續星球的中巴命運共同體，為雙方深化政治互信、拉緊合作紐帶提供了重要戰略指引，在當前國際背景下更顯得意義重大。巴方始終恪守一箇中國原則，期待同中方鞏固戰略互信，深化務實合作，夯實民意基礎，實現共同繁榮。巴中都是支援多邊主義、倡導自由貿易的重要力量，巴方願同中方加強多邊協作，共同推進全球治理體系改革，維護聯合國權威，促進國際公平正義。雙方還就共同關心的國際和地區問題進行全面深入戰略溝通，達成廣泛共識。（外交部）
+
+---
+
+### 2026-06-01 21:44:06  #市場 #焦點
+
+WTI原油突破93美元/桶，日內漲6.46%。
+
+---
+
+### 2026-06-01 21:44:03  #MKT News #TMHC.O #Impact bullish
+
+Taylor Morrison Home Corporation shares rose more than 20% after Berkshire Hathaway agreed to acquire the company for about $8.5 billion enterprise value.
 
 ---
 
@@ -21306,77 +21342,5 @@ The New York Times, citing three officials, reports President Trump tightened th
 ### 2026-05-31 08:07:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Crew releases radio recordings as US and Iran continue standoff over merchant transit】Recordings from the crew of a merchant vessel trapped near the Strait of Hormuz show Iran's Islamic Revolutionary Guard Corps navy and US aircraft radioed warnings to ships on the evening of the 30th local time. The IRGC told vessels in the Persian Gulf and Gulf of Oman the strait remains closed and only ships granted IRGC permission and navigating on Iran-designated routes may transit, warning violations would severely endanger navigation. The IRGC added any US Navy attempt to interfere with management of the strait or disrupt shipping order would be met with severe military response.
-
----
-
-### 2026-05-31 08:03:13  #公司
-
-【一機集團獲國鐵5.32億元訂單】近日，一機集團北方創業公司成功斬獲中國國家鐵路集團有限公司C70E型通用敞車、X70型集裝箱專用平車和GQ7O型輕油罐車訂單，合同金額達5.32億元。疊加年初3.48億元跨年鐵路貨車訂單，訂單規模已突破8.8億元。
-
----
-
-### 2026-05-31 08:01:09  #其他
-
-【翻譯軟體3個關鍵環節最易洩密 專家提示警惕這5個訊號】據網路安全專家介紹，翻譯類軟體應用的洩密風險主要集中在三個關鍵環節：雲端傳輸環節，主流翻譯軟體依賴雲端處理資料，使用者上傳的明文敏感資訊，極易被竊取；資料留存環節，部分軟體預設公開翻譯記錄，完整留存翻譯內容，易被反向溯源、精準滲透；供應鏈漏洞，非官方翻譯軟體、外掛可能植入惡意程式碼，潛伏竊密、搭建非法通訊通道。網路安全專家建議，相關工作人員在工作中防範洩密，要嚴守“規範使用、嚴控許可權、謹慎安裝”三大原則。（央視新聞）
-
----
-
-### 2026-05-31 07:59:16  #其他
-
-【翔宇醫療與寧波大學附屬康寧醫院共建腦機介面神經調控精神心理疾病臨床轉化中心】2026年5月29日—30日，“第四屆腦功能評估與無創神經調控學術研討會”期間，翔宇醫療與寧波大學附屬康寧醫院共建的腦機介面神經調控精神心理疾病臨床轉化中心正式揭牌成立。該中心成立後，將由翔宇醫療與寧波大學附屬康寧醫院周東昇主任團隊的省級重點實驗室全面合作，圍繞腦機介面神經系統開展產學研合作，加速腦機介面神經調控技術在精神心理疾病領域的臨床應用與成果轉化。
-
----
-
-### 2026-05-31 07:52:06  #國際
-
-【河北將深入實施“冀貨出海拓市場”行動】據河北新聞網，從河北省政府新聞辦5月28日召開的“織密服務企業網 擴大國際朋友圈”新聞釋出會上獲悉，“十五五”時期，河北省貿促會將深入實施“冀貨出海拓市場”行動，助力提升河北特色產業和優勢產品的國際影響力。“十五五”時期，河北省貿促會將每年組織5批次以上經貿代表團出訪，分國別開展“冀貨出海暨燕趙優品全球行”活動，深耕歐洲、東南亞等傳統市場，拓展拉美、中東歐、非洲等新興市場。今年將以“出訪+出展”方式和專案組形式，組織河北省企業集體亮相秘魯國際汽配展、馬來西亞食品飲料展、印尼亞洲時尚展、墨西哥五金工具展、波蘭華沙家庭系列展等國際知名展會，同步開展宣介河北、經貿對接、商事法律服務等配套活動。
-
----
-
-### 2026-05-31 07:48:48  #國際
-
-【以軍襲擊黎巴嫩南部多地 造成多人死傷】當地時間30日，以色列軍隊持續空襲、炮擊黎巴嫩南部奈拜提耶等區域，打擊目標涵蓋歷史古蹟博福特城堡周邊地帶以及多個村鎮，造成多名平民、黎軍士兵傷亡。（央視新聞）
-
----
-
-### 2026-05-31 07:47:51  #國際
-
-【知情人士：特朗普宣佈將擔任美國250週年誕辰啟動活動的主講嘉賓】據知情人士透露，週六，特朗普總統的車隊駛向弗吉尼亞州斯特林市的私人高爾夫俱樂部途中，他一直在打電話，試圖為美國250週年慶典尋找頂替人選，多名音樂人此前已宣佈退出這場活動。抵達俱樂部時，特朗普已和核心顧問商議完畢，敲定了替代演出人選——他本人。特朗普在社交媒體上發文自誇：“我打算請出全球頭號焦點人物，這位人氣王者的觀眾規模遠超巔峰時期的貓王，而且他連吉他都不用。”他表示自己將在活動上發表重要演講，並稱這場活動“僅邀請愛國志士”出席。該活動名為“盛大美國嘉年華”，選址國家廣場，將於六月下旬啟幕，持續兩週有餘。
-
----
-
-### 2026-05-31 07:45:08  #其他
-
-【湖南核發首個“三合一”國土空間規劃許可意見】據湖南日報，湖南省自然資源廳近日核發全省首個國土空間規劃許可意見，國家重大能源基礎設施專案——遵義—吉安天然氣管道專案（懷化—衡陽段）成為首個受益者。該意見將用地預審、規劃選址與先行用地三項審批“三合一”，標誌著作為全國試點省份的湖南，在深化規劃用地“多審合一”改革、健全國土空間規劃許可制度方面邁出關鍵一步。
-
----
-
-### 2026-05-31 07:44:43  #宏觀 #公司
-
-【國務院山西留神峪煤礦事故調查組設立舉報電話和舉報信箱】國務院山西長治山西通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故調查組決定於2026年5月31日至6月20日，設立舉報電話和舉報信箱，受理本次事故有關問題的來信和來電。（山西日報微信公眾號）
-
----
-
-### 2026-05-31 07:38:03  #公司 #市場
-
-【近一週機構調研470餘家公司 安克創新獲調研機構數最多】近一週機構調研個股有470多隻，安克創新調研機構數最多。安克創新有293家機構調研，包括54家基金公司、40家證券公司、78傢俬募、12家保險公司等。從市場表現來看，近一週機構調研股平均下跌3.4%，華電能源、*ST易錄、鴻仕達、四方達等個股均漲超30%。
-
----
-
-### 2026-05-31 07:37:45  #其他
-
-預測市場Polymarket資料顯示，Anthropic先於OpenAI完成上市的機率為25%。
-
----
-
-### 2026-05-31 07:33:17  #其他
-
-【險資密集加倉紅利股】今年以來，紅利股迎來險資集中增持視窗。透過增配紅利資產提升股息貢獻，成為險資提升淨投資收益、對沖利率風險和穩固財務表現的重要路徑。券商中國記者近期在採訪中瞭解到，隨著權益配置進入歷史高位，險資依然看好中國股市前景，“高股息底倉+成長彈性賽道”的啞鈴型配置策略仍將是保險行業較為有效的配置思路。據瞭解，保險資金買入紅利股後，主要計入FVOCI類資產（以公允價值計量且其變動計入其他綜合收益），這類資產盈虧不計入當期利潤，以獲取長期穩定股息、匹配負債成本為目標，具有“壓艙石”作用。（證券時報）
-
----
-
-### 2026-05-31 07:27:39  #公司 #國際
-
-【瑞士銀行調查顯示：許多機構正將資金撤出美國】一項最新調查顯示，最富有家族的私人投資機構（家族辦公室）正計劃對它們的投資組合進行數年來最大規模的調整，其中許多機構正將資金撤出美國。瑞士銀行的《全球家族辦公室報告》顯示，高達60%的家族辦公室計劃明年對其投資配置進行戰略調整，其中很多正在減持美國資產，增持新興市場資產。在全球範圍內，北美是這些家族辦公室計劃於未來12個月內減少資產配置的唯一地區。它們表示，計劃增加在拉丁美洲和非洲的資產配置。（參考訊息）
 
 ---

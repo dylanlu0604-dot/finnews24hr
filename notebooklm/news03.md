@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:26:54_
-_本檔包含 4014 則快訊，約 703538 字_
+_更新時間：2026-06-07 08:06:10_
+_本檔包含 4012 則快訊，約 702883 字_
+
+---
+
+### 2026-06-04 02:01:11  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
+
+FED'S BEIGE: Six-month business outlook shows growth expectations little changed as elevated uncertainty and weak consumer spending weigh on sentiment.
+
+---
+
+### 2026-06-04 02:01:09  #央行 #國際
+
+美聯儲褐皮書：十一個轄區就業基本持平、變動微乎其微，僅一個轄區實現溫和增長。
+
+---
+
+### 2026-06-04 02:00:58  #央行 #國際
+
+美聯儲褐皮書：十二個美聯儲轄區中，十個轄區經濟活動小幅至溫和擴張，一個轄區經濟小幅下滑，另有一個轄區經濟持平。
+
+---
+
+### 2026-06-04 02:00:55  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+Fed's Beige: Overall prices rose at a moderate-to-strong pace; inf in most Fed districts was higher than in the prior report.
+
+---
+
+### 2026-06-04 02:00:54  #央行 #國際
+
+美聯儲褐皮書：整體來看，受不確定性居高不下、消費支出顯現走弱跡象拖累市場情緒影響，受訪企業對未來六個月的經濟增長預期基本持平。
+
+---
+
+### 2026-06-04 02:00:42  #市場 #央行 #焦點 #國際
+
+美聯儲褐皮書：整體物價呈溫和至強勁上漲態勢，多數轄區通脹水平較上期報告有所抬升。
+
+---
+
+### 2026-06-04 02:00:19  #公司
+
+Codelco任命Jorge Gomez為公司CEO。
+
+---
+
+### 2026-06-04 02:00:11  #國際
+
+據POLITICO： 美國眾議院議員將於本週末前公佈一項跨黨派人工智慧法案。
+
+---
+
+### 2026-06-04 01:59:34  #MKT News #Market Regions #Europe & UK
+
+Germany, France and the UK have drafted a plan aimed at persuading Putin to take part in peace talks; the plan to negotiate with Moscow would also include Kyiv.
+
+---
+
+### 2026-06-04 01:58:38  #MKT News
+
+At a public hearing, Texas County commissioners voted 4-1 to approve a 100% tax abatement for SpaceX's TeraFab project.
+
+---
+
+### 2026-06-04 01:57:28  #國際
+
+【卡耶塔諾否認其被罷免菲律賓參議長職務】艾倫·卡耶塔諾3日發表影片宣告，稱自己未被“合法罷免”菲律賓參議院參議長的職務，當日參議院發生“政變”。卡耶塔諾說，選舉或罷免參議院官員需要24名參議員中的13人參與，自己並未辭職，也未被合法免職，且沒有喪失行為能力。（新華社）
+
+---
+
+### 2026-06-04 01:57:11  #焦點 #國際
+
+【伊媒：伊美諒解備忘錄若談成，將分四階段推進】伊朗法爾斯通訊社3日援引伊朗與美國間接談判知情人士的話報道，伊美正在討論的諒解備忘錄若最終敲定，將分四個主要階段依次推進，其中第三階段將討論核問題。（新華社）
+
+---
+
+### 2026-06-04 01:57:02  #焦點 #國際
+
+德法英草擬方案，擬促成與普京展開和平談判，該方案亦將基輔納入其中。
+
+---
+
+### 2026-06-04 01:55:42  #其他
+
+得克薩斯縣經投票以 4:1 表決透過，全額免除 SpaceX 泰拉工廠專案稅費。
+
+---
+
+### 2026-06-04 01:55:29  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+【Rubio says Trump administration will push NATO for 'major reform'】US Secretary of State Rubio said on June 3 the Trump administration does not intend to leave NATO but will press the alliance for "major reform" and demand that allies raise defense spending. Rubio told a congressional hearing Trump plans to attend the NATO leaders' summit in Ankara on July 7-8 and will use the meeting to set out the US position.
+
+---
+
+### 2026-06-04 01:55:02  #國際
+
+【魯比奧稱特朗普政府將推動北約進行“重大改革”】當地時間6月3日，美國國務卿魯比奧表示，特朗普政府無意退出北約，但將繼續推動北約進行“重大改革”，並要求盟友增加國防開支。魯比奧在國會聽證會上表示，特朗普計劃出席將於7月7日至8日在土耳其安卡拉舉行的北約領導人峰會，並將在會上闡述美國對北約改革的立場。魯比奧說：“總統本人將出席下一次北約領導人會議，屆時這些觀點都會被明確提出。我們仍然是北約成員，但北約需要進行重大變革，而總統已經明確表達了這一點。” （央視新聞）
+
+---
+
+### 2026-06-04 01:52:53  #公司
+
+【報道：管理2700億美元資產的瑞士基金計劃將沙特阿美登大型石油公司債券列入黑名單】據公司代表透露，管理著逾2700億美元資產的瑞士機構投資者計劃停止購買部分全球最大油氣生產商發行的債務。這一決定是在瑞士負責任投資協會（SVVK-ASIR）提出建議後作出的，該協會建議將雪佛龍、埃克森美孚、沙特阿美、馬拉松石油、PBF能源、Phillips 66、瓦萊羅能源等公司發行的債務列入黑名單。該建議的禁令不包括股權投資，協會表示，對於股權資產，成員應繼續行使投票權。
+
+---
+
+### 2026-06-04 01:52:02  #公司
+
+【年內券商發債突破1萬億元 同比增長114.86%】在業務規模擴張、市場利率走低等因素的驅動下，券商資本補充正駛入“快車道”。 同花順iFinD資料顯示，截至6月3日，券商年內已發行債券458只，發行規模合計達1.05萬億元，同比增長114.86%。具體來看，券商發行規模最大的一類債券為證券公司債，年內已發行6701.4億元，佔比63.82%；其次為證券公司短期融資券，發行規模達2199.2億元；此外，證券公司次級債發行規模為1599.8億元。 對此，西部金融研究院院長陳銀華對記者表示：“今年券商發債規模實現同比大幅增長，首先是受到業務擴張需求的驅動，在市場交投活躍的情況下，兩融、衍生品、做市等重資本消耗型業務規模持續增長，券商需補充資本以把握業務機遇；其次是政策層面支援券商打造一流投行等，也對券商的資本實力提出了更高的要求；最後是當前市場利率中樞整體走低，對券商而言，較低的融資成本使發債融資具備更強的價效比優勢。因此，行業發債意願有所提升。”(證券日報)
+
+---
+
+### 2026-06-04 01:51:22  #MKT News
+
+【Insiders: Anthropic selects Morgan Stanley, Goldman Sachs as IPO lead underwriters】Insiders say Anthropic has chosen Morgan Stanley and Goldman Sachs as lead underwriters for its IPO, with JP Morgan also participating. The Claude chatbot developer has submitted a confidential filing and is considering an IPO as early as October. The roster of underwriting banks may expand.
 
 ---
 
@@ -24057,131 +24171,5 @@ Schneider Electric Stock Price Hits All-time High — Schneider Electric shares 
 ### 2026-06-02 23:25:36  #國際
 
 【伊朗將在三座城市為已故最高領袖哈梅內伊舉行葬禮】據伊朗媒體2日報道，伊朗首都德黑蘭市政府官員表示，已確定將在德黑蘭、庫姆和馬什哈德三座城市為已故最高領袖阿里·哈梅內伊舉行葬禮。德黑蘭市政府官員表示，相關部門正籌備在首都舉行的送葬儀式，預計有1500萬至2000萬人參加。根據哈梅內伊生前遺願及其親屬建議，其遺體將安葬於位於馬什哈德的伊瑪目禮薩聖陵。整個葬禮活動計劃持續三天。（新華社）
-
----
-
-### 2026-06-02 23:25:10  #國際
-
-美國國務卿魯比奧：在美國實施打擊行動後，伊朗的導彈、無人機及海軍戰力遭遇大幅損耗，其軍事基礎設施已被“嚴重削弱”，海軍近乎喪失作戰能力。
-
----
-
-### 2026-06-02 23:24:27  #國際
-
-以色列空襲黎巴嫩南部多處城鎮。
-
----
-
-### 2026-06-02 23:23:53  #其他
-
-委內瑞拉已聘請霍金路偉律師事務所擔任其違約債務重組的法律顧問，該債務總額約為1700億美元。這一關鍵舉措可能成為近幾十年來規模最大的主權債務重組之一。
-
----
-
-### 2026-06-02 23:23:49  #MKT News #Macro & Rates #US Economy
-
-U.S. Secretary of State Rubio said the United States does not have unlimited resources for war.
-
----
-
-### 2026-06-02 23:23:22  #焦點 #國際
-
-美國國務卿魯比奧：我們的戰爭資源並非無窮無盡。
-
----
-
-### 2026-06-02 23:23:20  #MKT News #Market Regions #Greater China
-
-【Yunji Technology and Qi An Xin launch high-security robot】At the 2026 Beijing Cybersecurity Conference on June 2, Beijing Yunji Technology Co. and Qi An Xin Group jointly launched a high-security service robot. The product positions service robots to expand beyond traditional commercial use in hotels and office buildings into higher-security environments including government, energy, finance and urban security operations.
-
----
-
-### 2026-06-02 23:23:12  #Trading Economics #Markets #United States #stocks #Importance 1
-
-HCA Stock Price Hits 42-week Low — HCA shares decreased to 367.42 USD, the lowest since August 2025. Over the past 4 weeks, HCA lost 13.94%, and in the last 12 months, it decreased 4.03%.
-
----
-
-### 2026-06-02 23:22:59  #公司 #國際
-
-【齊向東：AI引爆網安千億增量市場，最大受益者屬於創新頭部廠商】6月2日，第八屆北京網路安全大會（BCS 2026）在北京開幕。奇安信集團董事長齊向東在開幕峰會上表示，這波AI革命，對網安產業是大利好，最大受益者是創新的頭部安全廠商。網路安全是AI時代的基礎性產業，產業規模會伴隨數智化規模水漲船高，網路安全面前擺著的是千億級增量空間。當前中美網路安全產業規模相差高達12倍，AI時代的攻防失衡正引爆實戰安全、資料安全與全棧安全三類剛需，防護者選擇提升漏挖能力拉平失衡，不現實；防護者選擇依靠AI原生安全能力拉平失衡，也不現實；基於這兩條“不現實”，最終形成一條共識：加速網路安全升級改造，追平攻防失衡差距，是AI時代的必然選擇。
-
----
-
-### 2026-06-02 23:22:31  #MKT News #PARA.O #Impact mixed
-
-Paramount is seeking European Union approval for its $110 billion Warner deal, market sources said.
-
----
-
-### 2026-06-02 23:21:50  #MKT News
-
-EU sets July 7 deadline for merger review of Paramount-Warner transaction.
-
----
-
-### 2026-06-02 23:21:47  #國際
-
-歐盟設定7月7日為派拉蒙收購華納審查的最後期限。
-
----
-
-### 2026-06-02 23:21:18  #市場
-
-華納兄弟股價迅速轉漲。
-
----
-
-### 2026-06-02 23:21:01  #其他
-
-【上海二手房5月成交2.8萬套，創近6年同期新高】延續“小陽春”的熱度，上海樓市“紅五月”行情兌現。根據“網上房地產”資料，2026年5月，上海二手房網籤成交28023套（全口徑資料，含商業、車位等），同比增長約31%。這一成交規模不僅創下近6年來的同期新高，即使放在近十年的時間跨度中，也僅次於2020年5月約3.05萬套的成交水平。58安居客房產研究院分院長張波點評稱：“上海這輪市場強勢表現，本質是市場自身週期性觸底後的修復反彈，疊加政策效應的持續釋放。此前調整週期中，市區部分不少二手房價格已出現明顯的過度下行，市場本身就具備修復動力，這一動力是成交量基本面。春節後限購最佳化等政策，進一步開啟了需求釋放的閘門，帶動市場熱度連續三個月維持高位。”(新京報)
-
----
-
-### 2026-06-02 23:19:44  #國際
-
-美國國務卿魯比奧：北約峰會將會是一場看點頗多的會議。
-
----
-
-### 2026-06-02 23:19:22  #MKT News #PARA.O #Impact mixed #WBD.O
-
-Paramount's offer to acquire Warner is under EU review for foreign subsidies.
-
----
-
-### 2026-06-02 23:19:12  #MKT News
-
-【China-Russia think-tank forum held in Moscow】A China-Russia think-tank forum was held in Moscow on the 1st–2nd to mark the 30th anniversary of the China-Russia strategic partnership and the 25th anniversary of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation. More than 200 government, academic and institutional delegates discussed deepening strategic cooperation and its significance for shaping a just international order.
-
----
-
-### 2026-06-02 23:19:09  #國際
-
-派拉蒙收購華納的交易進入歐盟併購審查程式。
-
----
-
-### 2026-06-02 23:19:03  #MKT News
-
-Israel says the IDF has permitted schools in northern border towns to reopen.
-
----
-
-### 2026-06-02 23:18:55  #國際
-
-以色列：以國防軍批准北部邊境城鎮學校復課。
-
----
-
-### 2026-06-02 23:18:08  #MKT News
-
-Colombia's state oil company said it activated an emergency plan during a 24-hour union strike.
-
----
-
-### 2026-06-02 23:17:41  #Trading Economics #Markets #Commodity #Importance 1
-
-Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per pound, approaching a two-week high, amid ongoing technical rebound, elevated oil prices, and India’s suspension of its 11% import duty on cotton. The move, which runs until October 30, is aimed at boosting supplies of high-quality fiber for the textile industry and is expected to lift domestic demand amidst strong global demand for yarns and textile products. Imports are likely to be sourced from surplus exporters including Australia, Brazil, the United States, and Africa. Additional support came from strong US export sales, with USDA data showing 153,622 running bales in the latest week, up 17% from the previous week and above the four-week average. The Crop Progress report also showed 66% of the US cotton crop had been planted, up from 53% a week earlier and slightly ahead of 64% at the same time last year, indicating that crop development remains largely on track.
 
 ---

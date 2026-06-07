@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:26:54_
-_本檔包含 3934 則快訊，約 702537 字_
+_更新時間：2026-06-07 08:06:10_
+_本檔包含 3927 則快訊，約 702911 字_
+
+---
+
+### 2026-06-05 09:12:29  #公司 #觀點
+
+【牙博士啟動IPO輔導】證監會網站披露，牙博士醫療控股集團股份有限公司（簡稱“牙博士”）於2026年6月4日在江蘇證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為東吳證券。輔導備案報告顯示，牙博士共同控股股東為陳國鋒、劉明非、遊宗明，分別持有公司27.95%、14.46%、14.14%的股份。
+
+---
+
+### 2026-06-05 09:11:46  #MKT News #Market Regions #Greater China
+
+China's National Financial Regulatory Administration approved Shenzhen BYD Property Insurance Co., Ltd. to use nationwide unified compulsory traffic accident liability insurance clauses, basic insurance rates and corresponding rate fluctuation coefficients in Hebei, Jiangsu and Zhejiang provinces (excluding Ningbo).
+
+---
+
+### 2026-06-05 09:11:24  #其他
+
+Decision Desk HQ（DDHQ）預計，民主黨人哈維爾·貝塞拉將晉級11月舉行的加州州長大選。
+
+---
+
+### 2026-06-05 09:10:34  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei index fell 2.00% intraday.
+
+---
+
+### 2026-06-05 09:10:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Hovers Near 7-Week Low — US gasoline futures hovered around $3.0 per gallon, holding close to a seven-week low, as markets continued to weigh the likelihood of a diplomatic breakthrough in the Middle East. President Trump described ceasefire talks as being in the “final” stages, differing from Iran’s foreign minister, who earlier said negotiations had stalled. The conflicting statements came alongside a sharp escalation in violence earlier in the week. Adding to uncertainty, Iran-backed Hezbollah also rejected a US-brokered ceasefire proposal in Lebanon. The developments extended restrictions on tanker traffic through the Strait of Hormuz, which accounts for about one-fifth of global oil consumption. Meanwhile, US gasoline inventories rose by more than 3 million barrels in the final week of May, ending a 15-week streak of declines. However, draws of around 8 million barrels each from private crude stocks and the SPR tempered the overall improvement in refined product supply.
+
+---
+
+### 2026-06-05 09:09:41  #市場
+
+日經225指數下跌超過2%，一度跌至66120.61點。
+
+---
+
+### 2026-06-05 09:09:26  #市場
+
+臺灣證交所加權股價指數下跌1.1%至45,185.64點。
+
+---
+
+### 2026-06-05 09:08:37  #市場 #焦點
+
+菜籽連續主力合約日內漲4%，現報6179.00元。
+
+---
+
+### 2026-06-05 09:08:12  #宏觀
+
+【陝西出臺金融支援鄉村全面振興15條措施】6月4日，據陝西金融監管局訊息：近日，該局印發《關於做好2026年金融支援鄉村全面振興工作的通知》，圍繞強化金融供給、健全幫扶機制、提升服務能力、最佳化服務保障、加強監管引領等5方面出臺15條措施，全力支援全省推進鄉村全面振興。 在強化金融供給方面，陝西將圍繞提升農業綜合生產能力和質量效益，深入對接金融需求；堅持投資於物和投資於人緊密結合，加大金融投入，助力發展各具特色的縣域經濟，支援農民工穩崗就業，鼓勵金融機構加大對返鄉人才的創業擔保貸款投放力度；加大對全省鄉村振興片區建設支援力度，探索金融支援城鄉融合發展和以縣域為重要載體的新型城鎮化建設有效途徑。
+
+---
+
+### 2026-06-05 09:06:24  #市場
+
+【酒價內參6月5日價格釋出：國窖1573夢之藍M6+領跌 總價創近50天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月5日整體繼續承壓大幅走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9876元，較昨日大幅下跌24元，總價創下近50天以來最低。市場在前一日轉衰後再度大幅走弱，終端交投情緒偏冷，今日除青花汾20與古井貢古20上漲外其餘九大品種均下跌或平盤，其中四款酒價創下月內新低。今日白酒市場11大單品二漲八跌一平，輸家仍舊佔據絕對優勢。上漲方面，古井貢古20漲幅居前，上漲5元/瓶，收復昨日全部失地，自月內低谷溫和回升；青花汾20上漲4元/瓶，亦回補前一日全部跌幅。下跌方面，國窖1573、洋河夢之藍M6+、習酒君品與青花郎均下跌5元/瓶，其中國窖1573再度失守890元，平月內最低價格紀錄，洋河夢之藍M6+再度跌落600元大關，習酒君品終結此前四連陽，青花郎則續創月內新低，亦創下“酒價內參”統計以來的最低均價紀錄；精品茅臺與五糧液普五八代均下跌4元/瓶，後者近一個月價格下行明顯，今日亦創下月內新低；水晶劍南春下跌3元/瓶；飛天茅臺下跌2元/瓶。五糧液1618的價格環比保持不變，近一個月走勢頗為平穩。
+
+---
+
+### 2026-06-05 09:06:04  #市場 #焦點
+
+純鹼連續主力合約日內跌2%，現報1169.00元。
+
+---
+
+### 2026-06-05 09:05:12  #MKT News #Market Regions #Greater China #CSI300
+
+【China private securities product filings up ~49% in first five months; index-enhanced funds lead】China private securities product filings rose 49.15% YoY in the first five months to 6,530 from 4,378. Equity-strategy products drove the increase, with 4,222 filings (+51.11% YoY) accounting for roughly 65% of total filings, supported by firmer A-share trading activity. Index-enhanced strategies were the fastest-growing subset: 1,603 filings (+73.30% YoY), about 38.0% of equity-strategy filings. Filings remain concentrated among large private managers; firms with assets under management above 10 billion yuan form the primary first-tier of private securities product registrants.
 
 ---
 
@@ -23606,119 +23678,5 @@ Fed's Beige: In 12 Federal Reserve districts, 10 reported economic activity expa
 ### 2026-06-04 02:01:24  #MKT News #Macro & Rates #The Fed (FOMC)
 
 Fed's Beige Book: employment was essentially unchanged in 11 districts, while one district reported a modest increase.
-
----
-
-### 2026-06-04 02:01:11  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
-
-FED'S BEIGE: Six-month business outlook shows growth expectations little changed as elevated uncertainty and weak consumer spending weigh on sentiment.
-
----
-
-### 2026-06-04 02:01:09  #央行 #國際
-
-美聯儲褐皮書：十一個轄區就業基本持平、變動微乎其微，僅一個轄區實現溫和增長。
-
----
-
-### 2026-06-04 02:00:58  #央行 #國際
-
-美聯儲褐皮書：十二個美聯儲轄區中，十個轄區經濟活動小幅至溫和擴張，一個轄區經濟小幅下滑，另有一個轄區經濟持平。
-
----
-
-### 2026-06-04 02:00:55  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-Fed's Beige: Overall prices rose at a moderate-to-strong pace; inf in most Fed districts was higher than in the prior report.
-
----
-
-### 2026-06-04 02:00:54  #央行 #國際
-
-美聯儲褐皮書：整體來看，受不確定性居高不下、消費支出顯現走弱跡象拖累市場情緒影響，受訪企業對未來六個月的經濟增長預期基本持平。
-
----
-
-### 2026-06-04 02:00:42  #市場 #央行 #焦點 #國際
-
-美聯儲褐皮書：整體物價呈溫和至強勁上漲態勢，多數轄區通脹水平較上期報告有所抬升。
-
----
-
-### 2026-06-04 02:00:19  #公司
-
-Codelco任命Jorge Gomez為公司CEO。
-
----
-
-### 2026-06-04 02:00:11  #國際
-
-據POLITICO： 美國眾議院議員將於本週末前公佈一項跨黨派人工智慧法案。
-
----
-
-### 2026-06-04 01:59:34  #MKT News #Market Regions #Europe & UK
-
-Germany, France and the UK have drafted a plan aimed at persuading Putin to take part in peace talks; the plan to negotiate with Moscow would also include Kyiv.
-
----
-
-### 2026-06-04 01:58:38  #MKT News
-
-At a public hearing, Texas County commissioners voted 4-1 to approve a 100% tax abatement for SpaceX's TeraFab project.
-
----
-
-### 2026-06-04 01:57:28  #國際
-
-【卡耶塔諾否認其被罷免菲律賓參議長職務】艾倫·卡耶塔諾3日發表影片宣告，稱自己未被“合法罷免”菲律賓參議院參議長的職務，當日參議院發生“政變”。卡耶塔諾說，選舉或罷免參議院官員需要24名參議員中的13人參與，自己並未辭職，也未被合法免職，且沒有喪失行為能力。（新華社）
-
----
-
-### 2026-06-04 01:57:11  #焦點 #國際
-
-【伊媒：伊美諒解備忘錄若談成，將分四階段推進】伊朗法爾斯通訊社3日援引伊朗與美國間接談判知情人士的話報道，伊美正在討論的諒解備忘錄若最終敲定，將分四個主要階段依次推進，其中第三階段將討論核問題。（新華社）
-
----
-
-### 2026-06-04 01:57:02  #焦點 #國際
-
-德法英草擬方案，擬促成與普京展開和平談判，該方案亦將基輔納入其中。
-
----
-
-### 2026-06-04 01:55:42  #其他
-
-得克薩斯縣經投票以 4:1 表決透過，全額免除 SpaceX 泰拉工廠專案稅費。
-
----
-
-### 2026-06-04 01:55:29  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-【Rubio says Trump administration will push NATO for 'major reform'】US Secretary of State Rubio said on June 3 the Trump administration does not intend to leave NATO but will press the alliance for "major reform" and demand that allies raise defense spending. Rubio told a congressional hearing Trump plans to attend the NATO leaders' summit in Ankara on July 7-8 and will use the meeting to set out the US position.
-
----
-
-### 2026-06-04 01:55:02  #國際
-
-【魯比奧稱特朗普政府將推動北約進行“重大改革”】當地時間6月3日，美國國務卿魯比奧表示，特朗普政府無意退出北約，但將繼續推動北約進行“重大改革”，並要求盟友增加國防開支。魯比奧在國會聽證會上表示，特朗普計劃出席將於7月7日至8日在土耳其安卡拉舉行的北約領導人峰會，並將在會上闡述美國對北約改革的立場。魯比奧說：“總統本人將出席下一次北約領導人會議，屆時這些觀點都會被明確提出。我們仍然是北約成員，但北約需要進行重大變革，而總統已經明確表達了這一點。” （央視新聞）
-
----
-
-### 2026-06-04 01:52:53  #公司
-
-【報道：管理2700億美元資產的瑞士基金計劃將沙特阿美登大型石油公司債券列入黑名單】據公司代表透露，管理著逾2700億美元資產的瑞士機構投資者計劃停止購買部分全球最大油氣生產商發行的債務。這一決定是在瑞士負責任投資協會（SVVK-ASIR）提出建議後作出的，該協會建議將雪佛龍、埃克森美孚、沙特阿美、馬拉松石油、PBF能源、Phillips 66、瓦萊羅能源等公司發行的債務列入黑名單。該建議的禁令不包括股權投資，協會表示，對於股權資產，成員應繼續行使投票權。
-
----
-
-### 2026-06-04 01:52:02  #公司
-
-【年內券商發債突破1萬億元 同比增長114.86%】在業務規模擴張、市場利率走低等因素的驅動下，券商資本補充正駛入“快車道”。 同花順iFinD資料顯示，截至6月3日，券商年內已發行債券458只，發行規模合計達1.05萬億元，同比增長114.86%。具體來看，券商發行規模最大的一類債券為證券公司債，年內已發行6701.4億元，佔比63.82%；其次為證券公司短期融資券，發行規模達2199.2億元；此外，證券公司次級債發行規模為1599.8億元。 對此，西部金融研究院院長陳銀華對記者表示：“今年券商發債規模實現同比大幅增長，首先是受到業務擴張需求的驅動，在市場交投活躍的情況下，兩融、衍生品、做市等重資本消耗型業務規模持續增長，券商需補充資本以把握業務機遇；其次是政策層面支援券商打造一流投行等，也對券商的資本實力提出了更高的要求；最後是當前市場利率中樞整體走低，對券商而言，較低的融資成本使發債融資具備更強的價效比優勢。因此，行業發債意願有所提升。”(證券日報)
-
----
-
-### 2026-06-04 01:51:22  #MKT News
-
-【Insiders: Anthropic selects Morgan Stanley, Goldman Sachs as IPO lead underwriters】Insiders say Anthropic has chosen Morgan Stanley and Goldman Sachs as lead underwriters for its IPO, with JP Morgan also participating. The Claude chatbot developer has submitted a confidential filing and is considering an IPO as early as October. The roster of underwriting banks may expand.
 
 ---

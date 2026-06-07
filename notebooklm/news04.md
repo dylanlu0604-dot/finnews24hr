@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 07:26:54_
-_本檔包含 3657 則快訊，約 701846 字_
+_更新時間：2026-06-07 08:06:10_
+_本檔包含 3672 則快訊，約 702737 字_
+
+---
+
+### 2026-06-02 23:25:10  #國際
+
+美國國務卿魯比奧：在美國實施打擊行動後，伊朗的導彈、無人機及海軍戰力遭遇大幅損耗，其軍事基礎設施已被“嚴重削弱”，海軍近乎喪失作戰能力。
+
+---
+
+### 2026-06-02 23:24:27  #國際
+
+以色列空襲黎巴嫩南部多處城鎮。
+
+---
+
+### 2026-06-02 23:23:53  #其他
+
+委內瑞拉已聘請霍金路偉律師事務所擔任其違約債務重組的法律顧問，該債務總額約為1700億美元。這一關鍵舉措可能成為近幾十年來規模最大的主權債務重組之一。
+
+---
+
+### 2026-06-02 23:23:49  #MKT News #Macro & Rates #US Economy
+
+U.S. Secretary of State Rubio said the United States does not have unlimited resources for war.
+
+---
+
+### 2026-06-02 23:23:22  #焦點 #國際
+
+美國國務卿魯比奧：我們的戰爭資源並非無窮無盡。
+
+---
+
+### 2026-06-02 23:23:20  #MKT News #Market Regions #Greater China
+
+【Yunji Technology and Qi An Xin launch high-security robot】At the 2026 Beijing Cybersecurity Conference on June 2, Beijing Yunji Technology Co. and Qi An Xin Group jointly launched a high-security service robot. The product positions service robots to expand beyond traditional commercial use in hotels and office buildings into higher-security environments including government, energy, finance and urban security operations.
+
+---
+
+### 2026-06-02 23:23:12  #Trading Economics #Markets #United States #stocks #Importance 1
+
+HCA Stock Price Hits 42-week Low — HCA shares decreased to 367.42 USD, the lowest since August 2025. Over the past 4 weeks, HCA lost 13.94%, and in the last 12 months, it decreased 4.03%.
+
+---
+
+### 2026-06-02 23:22:59  #公司 #國際
+
+【齊向東：AI引爆網安千億增量市場，最大受益者屬於創新頭部廠商】6月2日，第八屆北京網路安全大會（BCS 2026）在北京開幕。奇安信集團董事長齊向東在開幕峰會上表示，這波AI革命，對網安產業是大利好，最大受益者是創新的頭部安全廠商。網路安全是AI時代的基礎性產業，產業規模會伴隨數智化規模水漲船高，網路安全面前擺著的是千億級增量空間。當前中美網路安全產業規模相差高達12倍，AI時代的攻防失衡正引爆實戰安全、資料安全與全棧安全三類剛需，防護者選擇提升漏挖能力拉平失衡，不現實；防護者選擇依靠AI原生安全能力拉平失衡，也不現實；基於這兩條“不現實”，最終形成一條共識：加速網路安全升級改造，追平攻防失衡差距，是AI時代的必然選擇。
+
+---
+
+### 2026-06-02 23:22:31  #MKT News #PARA.O #Impact mixed
+
+Paramount is seeking European Union approval for its $110 billion Warner deal, market sources said.
+
+---
+
+### 2026-06-02 23:21:50  #MKT News
+
+EU sets July 7 deadline for merger review of Paramount-Warner transaction.
+
+---
+
+### 2026-06-02 23:21:47  #國際
+
+歐盟設定7月7日為派拉蒙收購華納審查的最後期限。
+
+---
+
+### 2026-06-02 23:21:18  #市場
+
+華納兄弟股價迅速轉漲。
+
+---
+
+### 2026-06-02 23:21:01  #其他
+
+【上海二手房5月成交2.8萬套，創近6年同期新高】延續“小陽春”的熱度，上海樓市“紅五月”行情兌現。根據“網上房地產”資料，2026年5月，上海二手房網籤成交28023套（全口徑資料，含商業、車位等），同比增長約31%。這一成交規模不僅創下近6年來的同期新高，即使放在近十年的時間跨度中，也僅次於2020年5月約3.05萬套的成交水平。58安居客房產研究院分院長張波點評稱：“上海這輪市場強勢表現，本質是市場自身週期性觸底後的修復反彈，疊加政策效應的持續釋放。此前調整週期中，市區部分不少二手房價格已出現明顯的過度下行，市場本身就具備修復動力，這一動力是成交量基本面。春節後限購最佳化等政策，進一步開啟了需求釋放的閘門，帶動市場熱度連續三個月維持高位。”(新京報)
+
+---
+
+### 2026-06-02 23:19:44  #國際
+
+美國國務卿魯比奧：北約峰會將會是一場看點頗多的會議。
+
+---
+
+### 2026-06-02 23:19:22  #MKT News #PARA.O #Impact mixed #WBD.O
+
+Paramount's offer to acquire Warner is under EU review for foreign subsidies.
+
+---
+
+### 2026-06-02 23:19:12  #MKT News
+
+【China-Russia think-tank forum held in Moscow】A China-Russia think-tank forum was held in Moscow on the 1st–2nd to mark the 30th anniversary of the China-Russia strategic partnership and the 25th anniversary of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation. More than 200 government, academic and institutional delegates discussed deepening strategic cooperation and its significance for shaping a just international order.
+
+---
+
+### 2026-06-02 23:19:09  #國際
+
+派拉蒙收購華納的交易進入歐盟併購審查程式。
+
+---
+
+### 2026-06-02 23:19:03  #MKT News
+
+Israel says the IDF has permitted schools in northern border towns to reopen.
+
+---
+
+### 2026-06-02 23:18:55  #國際
+
+以色列：以國防軍批准北部邊境城鎮學校復課。
+
+---
+
+### 2026-06-02 23:18:08  #MKT News
+
+Colombia's state oil company said it activated an emergency plan during a 24-hour union strike.
+
+---
+
+### 2026-06-02 23:17:41  #Trading Economics #Markets #Commodity #Importance 1
+
+Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per pound, approaching a two-week high, amid ongoing technical rebound, elevated oil prices, and India’s suspension of its 11% import duty on cotton. The move, which runs until October 30, is aimed at boosting supplies of high-quality fiber for the textile industry and is expected to lift domestic demand amidst strong global demand for yarns and textile products. Imports are likely to be sourced from surplus exporters including Australia, Brazil, the United States, and Africa. Additional support came from strong US export sales, with USDA data showing 153,622 running bales in the latest week, up 17% from the previous week and above the four-week average. The Crop Progress report also showed 66% of the US cotton crop had been planted, up from 53% a week earlier and slightly ahead of 64% at the same time last year, indicating that crop development remains largely on track.
 
 ---
 
@@ -22003,41 +22129,5 @@ US S&P Global manufacturing PMI (final) for May 55.1, prior 55.3.
 ### 2026-06-01 21:45:00  #MKT News #Economic Calendar #Important
 
 United States | Markit Manufacturing PMI Final (May) | actual 55.1 | previous 55.3
-
----
-
-### 2026-06-01 21:44:50  #公司 #市場
-
-Cadence Design Systems股價上漲3.1%，此前該公司推出了由英偉達提供技術支援、用於晶片設計的全自動虛擬工程師工具。
-
----
-
-### 2026-06-01 21:44:39  #宏觀
-
-【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。羅文強調，要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。
-
----
-
-### 2026-06-01 21:44:37  #MKT News
-
-【CHINA FOREIGN MINISTER holds China-Brazil foreign minister-level comprehensive strategic dialogue with VIEIRA】CHINA FOREIGN MINISTER met Brazil foreign minister VIEIRA in Beijing for the fifth China‑Brazil foreign minister-level comprehensive strategic dialogue. China praised Brazil’s adherence to the One‑China principle and reiterated support for Brazil’s sovereignty and independent development. Both sides agreed to leverage the high‑level Coordination and Cooperation Committee and a development‑strategy alignment mechanism to deepen cooperation and deliver tangible projects, and to implement leaders’ plan for a 2026 China‑Brazil Cultural Year to expand cultural, education, tourism, sports, subnational, youth and media ties. They pledged closer coordination in multilateral forums including the UN and BRICS, promoted China’s four global initiatives, and said they would press for a more equitable global governance system and defend developing countries’ interests. China affirmed it remains a reliable partner for Latin America and the Caribbean and will work with regional states, including Brazil, to deepen overall China‑Latin America cooperation.
-
----
-
-### 2026-06-01 21:44:09  #宏觀
-
-【王毅同巴西外長維埃拉舉行中巴外長級全面戰略對話】2026年6月1日，中共中央政治局委員、外交部長王毅在北京同巴西外長維埃拉舉行第五次中巴外長級全面戰略對話。王毅說，近年來，在習近平主席和盧拉總統戰略引領下，中巴關係實現從全面戰略伙伴到命運共同體的里程碑式跨越，全球性、戰略性、長遠性影響更加凸顯，各領域務實合作不斷提質升級，兩國人民前所未有地相互走近。中巴在國際舞臺上密切協作，展現擔當，成為當今世界保穩定、促發展的中堅力量。百年變局正在加速演進，國際社會對和平穩定的期待更加迫切，全球治理體系改革應儘快提上日程。雙方要落實好兩國元首重要共識，持續深化中巴命運共同體建設，共同抵禦外部各種挑戰，為推進各自現代化程序和全球南方國家聯合自強形成更多合力，為動盪世界提供更多寶貴的確定性。王毅表示，中方讚賞巴政府長期恪守一箇中國原則，支援巴方捍衛國家主權、維護獨立自主、實現更大發展。雙方要統籌用好中巴高層協調與合作委員會和發展戰略對接等機制，發揮各自優勢，打造更多合作成果。要落實好兩國元首關於辦好2026“中巴文化年”重要共識，推動文教、旅遊、體育、地方、青年、媒體等各領域交流合作。要加強在聯合國、金磚國家等多邊機制下溝通協作，積極踐行四大全球倡議，推動建立更加公正合理的全球治理體系，維護世界和平穩定，捍衛發展中國家正當權益。中方始終是拉美和加勒比國家可靠的朋友，願同包括巴方在內的地區國家一道，促進中拉整體合作繼續向縱深發展。維埃拉表示，巴中關係是發展中國家堅持獨立自主、加強團結協作的標杆，也是大國之間發展穩定、可預期關係的典範。友誼是巴中關係的底色。兩國元首成功互訪，將雙邊關係定位提升為構建更公正世界和更可持續星球的中巴命運共同體，為雙方深化政治互信、拉緊合作紐帶提供了重要戰略指引，在當前國際背景下更顯得意義重大。巴方始終恪守一箇中國原則，期待同中方鞏固戰略互信，深化務實合作，夯實民意基礎，實現共同繁榮。巴中都是支援多邊主義、倡導自由貿易的重要力量，巴方願同中方加強多邊協作，共同推進全球治理體系改革，維護聯合國權威，促進國際公平正義。雙方還就共同關心的國際和地區問題進行全面深入戰略溝通，達成廣泛共識。（外交部）
-
----
-
-### 2026-06-01 21:44:06  #市場 #焦點
-
-WTI原油突破93美元/桶，日內漲6.46%。
-
----
-
-### 2026-06-01 21:44:03  #MKT News #TMHC.O #Impact bullish
-
-Taylor Morrison Home Corporation shares rose more than 20% after Berkshire Hathaway agreed to acquire the company for about $8.5 billion enterprise value.
 
 ---
