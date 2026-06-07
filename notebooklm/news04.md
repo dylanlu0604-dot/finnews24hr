@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 00:46:44_
-_本檔包含 3799 則快訊，約 706690 字_
+_更新時間：2026-06-08 01:33:22_
+_本檔包含 3802 則快訊，約 706892 字_
+
+---
+
+### 2026-06-03 09:05:43  #公司 #市場
+
+【2026中國國際礦業大會將設礦業權交易“大賣場”】5月28日，中國礦業聯合會釋出《2026（第二十八屆）中國國際礦業大會關於舉辦礦業權交易專場活動的通知》，對大會期間礦業權轉讓大市場專場交易活動的內容、形式及有關報名的具體事宜進行了說明。 由中國礦業聯合會主辦的2026（第二十八屆）中國國際礦業大會將於9月10日至12日在天津召開。為深入貫徹全國統一大市場建設要求，統籌國內國際兩個市場，探索完善礦業權市場轉讓體制機制，推動礦產資源要素規範、高效流通與配置，大會期間將繼續舉辦礦業權轉讓大市場專場交易活動。 專場活動交易內容主要分為4個方面：一是礦業權，包括探礦權、採礦權的轉讓以及勘探、開發合作等。二是股權，礦業公司及其所屬專案的全部或者部分股權交易，包括收益權及相關資產權益的轉讓及合作等。三是礦產品及機械裝置，礦產品現貨、期貨及相關組合；勘查及開採機械裝置和相關物資的交易與合作。四是技術、工程及其他礦業要素，地質勘查、礦山工程、採礦選礦技術、專業諮詢服務及符合國家政策的其他礦業要素的交易與合作。本次交易形式靈活多樣，自主協商、委託競爭、定向撮合、獨家談判，均可根據需求進行選擇。（中國自然資源報）
+
+---
+
+### 2026-06-03 09:05:00  #MKT News #NFLX.O #Impact bullish #DIS.O #Nasdaq100
+
+【Omdia: Online-video subscriptions to reach 2.24 bln by end-2025; 2026 growth set to slow】Omdia data shows global online-video subscription users at 2.24 bln by end-2025, up from 1.9 bln in 2024 (+17.6% YoY); growth is expected to slow to single digits in 2026 as the market matures. Global paid TV subscriptions fell 1.8% YoY to 1.03 bln. Streaming now represents 68.4% of total global TV and video subscriptions (3.3 bln).
+
+---
+
+### 2026-06-03 09:04:59  #公司
+
+【麗珠醫藥IL-17A/F雙靶向藥物萊康奇塔單抗治療強直性脊柱炎上市申請獲受理】6月3日，麗珠醫藥宣佈，公司1類創新生物藥萊康奇塔單抗用於治療強直性脊柱炎（AS）的上市申請（NDA）已獲國家藥品監督管理局正式受理。
+
+---
+
+### 2026-06-03 09:04:08  #公司 #市場
+
+星展集團股價盤中觸及歷史新高。星展集團股價最新上漲0.4%，報64.95新元，盤中曾觸及65.00新元。
+
+---
+
+### 2026-06-03 09:03:24  #市場 #觀點 #國際
+
+【中金財富期貨：當前美伊衝突仍難有結果，黃金被動跟隨原油波動】美軍中央司令部在社交媒體發文，稱伊朗2日在整個中東範圍發動襲擊，美軍攔截若干伊朗彈道導彈和無人機。訊息傳出後，原油價格回升，漲幅超2%，引發黃金再度調整。美以在開戰問題上分歧巨大，特朗普不滿內塔尼亞胡暗示除推遲對貝魯特的襲擊外，戰爭仍在全面繼續；而內塔尼亞胡則對特朗普在社交媒體平臺發文暗示以色列已在所有戰線上停火“感到沮喪”。當前美伊衝突仍難有結果，黃金被動跟隨原油波動，參與難度較大，我們建議觀望為主。
+
+---
+
+### 2026-06-03 09:03:06  #公司
+
+【索菲亞成立數智科技公司 含AI相關業務】企查查APP顯示，近日，廣東橫琴索菲亞數智科技有限公司成立，經營範圍包含：軟體開發；人工智慧行業應用系統整合服務；以自有資金從事投資活動等。企查查股權穿透顯示，該公司由索菲亞全資持股。
+
+---
+
+### 2026-06-03 09:02:09  #經濟數據 #中國
+
+【5月份中國物流業景氣指數為50.3% 重回擴張區間】中國物流與採購聯合會今天（3日）公佈5月份中國物流業景氣指數。5月份，物流業務需求穩中有升，物流業景氣指數重回擴張區間。5月份中國物流業景氣指數為50.3%，較上月上升0.6個百分點，重回擴張區間。分項指數中，大多數較上月有所回升。其中，業務總量指數、新訂單指數、固定資產投資完成額指數、從業人員指數等均位於擴張區間。
+
+---
+
+### 2026-06-03 09:02:04  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【China logistics industry prosperity index back in expansion at 50.3 in May】China Federation of Logistics and Purchasing said on June 3 the logistics industry prosperity index rose to 50.3 in May, up 0.6 pts MoM, returning to the expansionary range (>50). Most subindexes improved; business volume, new orders, completed fixed-asset investment and employment were all in expansion. The new orders index was 50.2, marking a third consecutive monthly rise. Main business cost index climbed to 52.6, up 0.3 pts MoM, with firms citing higher fuel and labor costs. The business activity expectations index remained elevated at 55.9, and expectations for rail, road, postal/express and multimodal transport all rose MoM.
+
+---
+
+### 2026-06-03 09:01:52
+
+國內期貨主力合約多數上漲。漲幅方面，滬錫漲超2％，20號膠、滬鋅、國際銅、滬銅、焦炭漲超1％。跌幅方面，歐線集運跌超2％，氧化鋁、瀝青、多晶矽跌超1％。
+
+---
+
+### 2026-06-03 09:01:26  #MKT News
+
+The regional governor said Russia continues to repel drone attacks on the Leningrad Region.
+
+---
+
+### 2026-06-03 09:01:18  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened up 724.12 points, or 1.59%, at 46,281.43 on June 3 (Wednesday).
+
+---
+
+### 2026-06-03 09:01:13  #其他
+
+技嘉在2026年臺北國際電腦展釋出下一代遊戲外設，推出AORUS K10 Infinity機械鍵盤與M10 Infinity滑鼠。
+
+---
+
+### 2026-06-03 09:01:13  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Shanghai Gold Exchange Gold T+D fell 0.26% to 976.69 yuan/gram in early trade on Wednesday June 3; Shanghai Gold Exchange Silver T+D fell 0.97% to 18,038 yuan/kg.
+
+---
+
+### 2026-06-03 09:01:06  #MKT News
+
+The regional governor said Russian forces shot down three drones over Leningrad region.
+
+---
+
+### 2026-06-03 09:00:56  #其他
+
+【玻利維亞國防部長辭職 埃內斯托·胡斯蒂尼亞諾接任】當地時間6月2日，記者獲悉，玻利維亞國防部長馬塞洛·薩利納斯已於當日辭職，原社會防衛與管制品事務副部長埃內斯托·胡斯蒂尼亞諾將接任該部部長職務。近日，玻利維亞爆發大規模抗議活動，主要城市街道被封鎖，多處物流供應鏈中斷，因物資短缺嚴重，玻利維亞醫療委員會已宣佈進入衛生緊急狀態。
+
+---
+
+### 2026-06-03 09:00:43  #國際
+
+俄羅斯州長稱，俄軍在列寧格勒州上空擊落三架無人機。該州仍在擊退無人機襲擊。
+
+---
+
+### 2026-06-03 09:00:31  #市場
+
+臺灣證交所加權股價指數上漲1.1%至46,051.58點。
+
+---
+
+### 2026-06-03 09:00:26  #其他
+
+臺灣證交所加權股價指數開高0.2%報45,660.46。
+
+---
+
+### 2026-06-03 09:00:25  #MKT News #CSI300 #Impact bearish #SSE Composite
+
+FTSE China A50 index futures opened down 0.16%.
 
 ---
 
@@ -22803,110 +22917,5 @@ Witnesses report Ukrainian air defenses are repelling air strikes over Kyiv.
 ### 2026-06-02 07:12:38  #資料 #市場 #央行 #國際
 
 【韓國5月份通脹加速】韓國5月份整體通脹加速升至26個月高點，這為該國央行在未來幾個月收緊政策提供了更充分的理由。此次通脹上升反映了中東緊張局勢下油價上漲和韓圓兌美元走軟帶來的日益加大的影響，這兩項因素都繼續推高進口成本。韓國統計廳週二表示，5月份基準消費者價格指數(CPI)同比上漲3.1%，創下2024年3月以來的最快增速，而4月份的漲幅為2.6%。該最新資料高於《華爾街日報》調查的九名經濟學家給出的3.0%的增幅預估中值。環比來看，5月份消費者價格上漲0.5%，快於調查預期的0.3%。4月份消費者價格環比上漲0.5%。5月份，剔除波動較大的食品和能源價格的核心CPI同比上漲2.5%，環比上漲0.5%。韓國央行上週在行長申鉉松(Shin Hyun-song)上任後的首次政策會議上維持利率不變，但以增長和通脹面臨上行風險為由，暗示將採取更偏緊縮的立場。
-
----
-
-### 2026-06-02 07:11:06  #國際
-
-【伊朗革命衛隊稱打擊美以相關船隻 】當地時間6月1日晚，伊朗伊斯蘭革命衛隊宣佈，在美軍對伊朗位於阿曼灣的船隻發動侵略性襲擊後，革命衛隊海軍採取報復行動，使用巡航導彈擊中了“屬於美以勢力”的“薩里斯卡（Sariska)”號船隻。另據伊拉克方面訊息，懸掛巴拿馬國旗的“薩里斯卡（Sariska)”號商船當天“兩次遭不明發射物爆炸襲擊”，船體受損，目前該船位於伊拉克烏姆蓋斯爾港附近。 伊朗伊斯蘭革命衛隊海軍強調，美軍在該地區的任何侵略行徑都將遭到堅決回應。
-
----
-
-### 2026-06-02 07:10:38  #宏觀 #市場
-
-【儲蓄國債即將納入個人養老金產品池 為投資者提供長期穩健投資選擇】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中國證券報）
-
----
-
-### 2026-06-02 07:10:02  #其他
-
-【趁晴搶收 全國小麥收穫進度近三成】農業農村部最新小麥機收進度顯示，麥收地區持續晴熱天氣，各地正抓緊趁晴搶收。目前，小麥收穫進度近三成。據農業農村部小麥機收進度，截至6月1日17時，全國已收穫小麥9519萬畝，收穫進度28.06%。安徽麥收進度過半，河南過三成半，江蘇、陝西過一成，山東、山西零星收穫，西南地區小麥收穫已順利完成。預計今天（6月2日），河南、安徽、江蘇等麥收地區大部晴到多雲，有利於搶收，同時要做好機手服務、防範高溫暑熱。
-
----
-
-### 2026-06-02 07:09:41  #公司 #國際
-
-【可口可樂正考慮將印度裝瓶業務上市】可口可樂公司週一表示，正考慮在孟買為其在印度最大的裝瓶商——印度斯坦可口可樂飲料公司（Hindustan Coca-Cola Beverages）進行首次公開募股。
-
----
-
-### 2026-06-02 07:07:56  #其他
-
-【第四屆國際航運展今日啟幕】6月2日至5日，第四屆天津國際航運產業博覽會在國家會展中心(天津)舉辦。本屆航運展將以“航通天下執行未來——AI引領港航發展新機遇”為主題，聚焦航運智慧化、綠色化、國際化發展，聚焦全球物流鏈、供應鏈產業鏈安全穩定，搭建國際航運合作與創新成果展示的高階平臺。
-
----
-
-### 2026-06-02 07:07:25  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kyiv city authorities issued air-raid alerts; witnesses reported a large plume of smoke.
-
----
-
-### 2026-06-02 07:07:15  #MKT News #Star Stocks #Alibaba #Market Themes #AI Revolution #BABA.N
-
-【Alibaba launches Qwen3.7-Plus multimodal agent model】Alibaba said on June 2 via the Qwen official WeChat account it has released Qwen3.7-Plus, a multimodal agent model. The company said the model builds on Qwen3.7’s text capabilities, substantially upgrades vision–language performance, and preserves full agent functions for coding, tool use and productivity workflows.
-
----
-
-### 2026-06-02 07:07:08  #國際
-
-基輔市當局釋出空襲警報後，目擊者在基輔看到巨大煙柱。
-
----
-
-### 2026-06-02 07:06:08  #Trading Economics #Economy #South Korea #Inflation Rate #Importance 2
-
-South Korea Inflation Hits Over 2-Year High — South Korea’s annual inflation rate accelerated to 3.1% in May 2026 from 2.6% in the previous month, surpassing market forecasts of 3.0%. It was the highest reading since March 2024, highlighting the deepening effects of higher oil prices amid the Middle East conflict. On a monthly basis, consumer prices increased by 0.5%, the same pace as in April. Still, it was the fastest monthly increase since September 2025 and exceeded market estimates of 0.3%.
-
----
-
-### 2026-06-02 07:05:43  #公司 #國際
-
-英偉達CEO黃仁勳表示，若韓國方面有意，英偉達可將旗下聚焦人工智慧與前沿科技的旗艦峰會GTC落地韓國舉辦。
-
----
-
-### 2026-06-02 07:03:33  #其他
-
-日美將出資10億美元投資“創世紀計劃”人工智慧專案。
-
----
-
-### 2026-06-02 07:01:20  #國際
-
-聯合國人權專家對約旦河西岸以色列定居者恐怖暴力事件激增發出警示。
-
----
-
-### 2026-06-02 07:00:41  #Trading Economics #Markets #commodity #Importance 0
-
-Coal Hits 8-week High — Coal increased to 140.30 USD/T, the highest since March 2026. Over the past 4 weeks, Coal gained 2.05%, and in the last 12 months, it increased 32.38%.
-
----
-
-### 2026-06-02 07:00:39  #市場 #國際
-
-韓國統計局：韓國5月消費者物價指數環比上漲0.5%，路透調查預期為上漲0.3%。
-
----
-
-### 2026-06-02 07:00:34  #市場 #國際
-
-韓國統計局：韓國5月消費者價格指數同比上漲3.1%，路透調查預期為上漲3.0%。
-
----
-
-### 2026-06-02 07:00:22  #公司 #市場 #觀點 #焦點 #國際
-
-【6月2日隔夜要聞一覽】
-1、當地時間6月1日，美國總統特朗普表示，他預計將在“未來一週內”與伊朗達成協議，延長當前停火安排並重新開放霍爾木茲海峽。
-2、美國能源部當天公佈的資料顯示，上週戰略石油儲備減少800萬桶原油。此前兩週分別減少910萬桶和創紀錄的990萬桶。截至目前，戰略石油儲備庫存降至3.571億桶，為2024年1月以來最低水平。
-3、以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”
-4、當地時間6月1日，黎巴嫩總統辦公室發表最新宣告。宣告確認，黎巴嫩真主黨已承諾停止對以色列的打擊。此前，美國總統特朗普也宣佈了這一訊息。
-5、當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。
-6、計算裝置製造商龍頭慧與科技（HPE）股價盤後大漲超35%，公司預計未來18個月伺服器需求將推動其強勁增長。
-7、谷歌母公司Alphabet Inc．正透過股權融資籌集800億美元資金，其中包括與伯克希爾達成的一項投資交易，以支援其雄心勃勃的人工智慧支出計劃。
-8、Anthropic已保密提交IPO註冊檔案草案，力爭最快於今年秋季登陸美股市場。擬發行股份的數量及發行價尚未確定。
-9、根據SpaceX提交的S-1檔案修正案，馬斯克已與承銷商達成協議，接受為期366天的鎖定期。在未經高盛事先書面同意的情況下，他持有的所有股份均不得出售。
 
 ---

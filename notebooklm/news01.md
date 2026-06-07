@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 00:46:44_
-_本檔包含 3734 則快訊，約 706531 字_
+_更新時間：2026-06-08 01:33:22_
+_本檔包含 3754 則快訊，約 706723 字_
+
+---
+
+### 2026-06-08 01:30:05  #MKT News #Market Themes #The Trump Trade
+
+A legal delegation from the Trump administration has arrived in Israel and is due to meet Prime Minister Netanyahu, Defense Minister Katz and Foreign Minister Sa'ar.
+
+---
+
+### 2026-06-08 01:29:34  #國際
+
+巴勒斯坦各派別在開羅舉行的會議已經結束，最終公報將很快釋出，以闡明會議結果。
+
+---
+
+### 2026-06-08 01:29:21  #國際
+
+【美方正考慮收購查戈斯群島】美國白宮正多方謀劃保住查戈斯群島控制權，其中一項方案是，待英國將該群島主權移交模里西斯後，由美國從模里西斯手中購入這片領地。 出於對戰略要地迪戈加西亞軍事基地前景的擔憂，特朗普政府正在評估多項備選方案，上述收購計劃便是其中之一。
+
+---
+
+### 2026-06-08 01:28:57  #MKT News
+
+Israeli public broadcaster says a US delegation will be briefed by Israeli military officials.
+
+---
+
+### 2026-06-08 01:27:18  #國際
+
+【美防長稱美伊停火仍有效】6月7日，美國國防部長赫格塞思在離開法國前回答記者提問時稱，儘管近期美國與伊朗之間多次互襲，但雙方之間的臨時停火“仍然有效”，美方正推動與伊朗達成和平協議。不過赫格塞思同時也強調，如果協議未能達成，美軍也已“做好準備”，將“採取必要措施確保伊朗永遠不會擁有核武器”。
+
+---
+
+### 2026-06-08 01:26:51  #焦點 #國際
+
+伊朗稱每艘駛過霍爾木茲海峽的船隻需繳納150萬至200萬美元費用。
+
+---
+
+### 2026-06-08 01:25:14  #MKT News
+
+Qatar's foreign ministry said the prime minister and foreign minister stated all parties need to respond to mediation efforts to reach a sustainable agreement.
+
+---
+
+### 2026-06-08 01:24:48  #MKT News
+
+Qatar's foreign ministry said its prime minister, who also serves as foreign minister, met with Egypt's foreign minister to discuss developments in Lebanon and Palestine.
+
+---
+
+### 2026-06-08 01:23:02  #國際
+
+卡達外交部：首相和外交大臣重申，各方必須積極回應調解努力，以達成可持續的協議。
+
+---
+
+### 2026-06-08 01:21:33  #其他
+
+【馬耳他附近海域偷渡船傾覆致至少10人死亡】據義大利媒體7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成至少10人死亡，搜救行動仍在馬耳他方面協調下繼續進行。 (新華社)
+
+---
+
+### 2026-06-08 01:21:13  #MKT News
+
+【Migrant boat capsizes off Malta, at least 10 dead】Italian media reported on the 7th that a migrant boat carrying about 60 people capsized in waters off Malta, killing at least 10. Search-and-rescue operations are ongoing under Maltese coordination.
+
+---
+
+### 2026-06-08 01:16:24  #其他 #焦點
+
+香港天文臺釋出紅色暴雨警告。
+
+---
+
+### 2026-06-08 01:08:09  #國際
+
+伊朗司法部門負責人：伊朗與黎巴嫩抵抗力量並肩作戰，雙方實力互為補充。
+
+---
+
+### 2026-06-08 01:07:49  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli sources told Channel 12 that Hezbollah is expected to carry out a larger-scale escalation. Israel may broaden the scope of its retaliation.
+
+---
+
+### 2026-06-08 01:06:36  #MKT News
+
+【British media: Trump considers buying Chagos Islands, bypassing UK to deal directly with Mauritius】British media report the Trump administration is considering purchasing the Chagos Islands from Mauritius to preserve the strategically important US‑UK military base on Diego Garcia. The proposal would bypass the UK and could directly conflict with Prime Minister Starmer’s plan to transfer sovereignty to Mauritius and lease the base back for 99 years.
+
+---
+
+### 2026-06-08 01:05:06  #國際
+
+特朗普正考慮收購查戈斯群島。
+
+---
+
+### 2026-06-08 01:04:51  #公司 #國際
+
+美方訊息人士表示，他們否認美國全國廣播公司援引五角大樓洩密內容所稱以色列對美國開展間諜活動的說法，並認為該訊息大機率源自反對“史詩怒火”軍事行動的相關人士。
+
+---
+
+### 2026-06-08 01:03:33  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq will increase production by 26,000 bpd from July under the latest OPEC+ agreement, the oil ministry spokesman told the state news agency.
+
+---
+
+### 2026-06-08 01:03:12  #其他
+
+伊拉克石油部發言人表示，根據石油輸出國組織與夥伴國（OPEC+）最新達成的協議，伊拉克自7月起將每日增產2.6萬桶石油。
+
+---
+
+### 2026-06-08 01:02:57  #國際
+
+以色列國防軍發言人： 經局勢評估後，本土前線司令部的防禦政策維持不變，相關措施將執行至2026年6月8日20時。
+
+---
+
+### 2026-06-08 01:02:37  #其他
+
+英國化工行業從業人員表示，淨零排放相關政策削弱了行業競爭力，目前該領域存在35億英鎊資金缺口，同時還面臨高昂的能源成本。
+
+---
+
+### 2026-06-08 01:01:11  #其他
+
+科索沃出口民調顯示，自決黨以42.3%的得票率領先議會選舉。
+
+---
+
+### 2026-06-08 01:01:10  #MKT News
+
+【Iran national football team arrives in Tijuana after US visa issues】Iran’s national football team arrived in Tijuana in the early hours of June 7 to prepare for the US-Canada-Mexico World Cup. The US issued visas to all players on June 5, but the Iranian Football Federation says several logistical staff — including “key managerial and administrative personnel” — were denied visas. FIFA had approved relocating Iran’s base from Tucson, Arizona to Tijuana because of the visa dispute. Mexican president Sheinbaum said US authorities did not want the team to overnight in the United States during the tournament.
+
+---
+
+### 2026-06-08 01:00:36  #國際
+
+以色列官員表示，摧毀真主黨設施的行動預計還將持續數日。
+
+---
+
+### 2026-06-08 01:00:23  #國際
+
+【伊朗國足抵達墨西哥】當地時間6月7日凌晨，伊朗國家足球隊抵達墨西哥蒂華納，準備參加美加墨世界盃。此時距離他們在美國洛杉磯的首場小組賽已不足10天。伊朗國足主教練在機場接受採訪時表示，從本屆世界盃舉辦地與伊朗的時差來考慮，伊朗國足本應提前兩週抵達以適應時差。美國於當地時間6月5日向伊朗國足所有球員發放了簽證。不過根據伊朗足協的說法，幾名後勤團隊成員並未獲得簽證，其中包括“關鍵的管理和行政人員”。 由於簽證問題，國際足聯此前批准伊朗隊在本屆世界盃的駐地從美國亞利桑那州圖森市改為墨西哥蒂華納市。墨西哥總統辛鮑姆此前表示，美方不希望伊朗隊比賽期間在美國境內過夜。 蒂華納位於墨美邊境，距美國加利福尼亞州南部城市聖迭戈約20公里。本屆世界盃，伊朗隊與比利時、紐西蘭和埃及隊同處G組。三場小組賽都將在美國境內進行，頭兩場比賽在洛杉磯，第三場在西雅圖。
+
+---
+
+### 2026-06-08 00:55:35  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Israeli military says Hezbollah's tunnel network can simultaneously accommodate several hundred armed personnel.
+
+---
+
+### 2026-06-08 00:55:30  #國際
+
+伊朗總統：我們的政府同事始終小心翼翼，確保社會的心理安寧不會受到威脅，我強調的是維護團結和容忍差異，但當廣播電視和一些媒體活動人士在戰爭狀態下，將不公平批評的鋒芒指向政府時，我們將不得不給出適當回應，因為這不符合國家的利益。
+
+---
+
+### 2026-06-08 00:55:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli military said the operation to destroy Hezbollah infrastructure is expected to continue for several days.
+
+---
+
+### 2026-06-08 00:54:39  #其他
+
+義大利海岸警衛隊稱，馬耳他海岸附近發生沉船事故，至少10人死亡。
+
+---
+
+### 2026-06-08 00:54:25  #MKT News #XAUUSD #Impact bullish #WTI
+
+ISRAELI MILITARY said Hezbollah uses tunnels in the Shakif Heights as its primary operational hub.
+
+---
+
+### 2026-06-08 00:54:13  #國際
+
+以色列國防軍稱，真主黨在黎巴嫩博福特嶺下方修建了隧道。
+
+---
+
+### 2026-06-08 00:53:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli military said Hezbollah fired drones and missiles from Shakif Heights.
+
+---
+
+### 2026-06-08 00:53:38  #國際
+
+美國防長赫格塞思談伊朗：局勢正出現新變化，航運往來恢復正常。伊朗不應襲擊過往船隻，一旦其採取此類行動，我們會採取應對措施，這一點毋庸置疑。但總體而言，我們認為一份理想的協議有望很快達成。
+
+---
+
+### 2026-06-08 00:51:19  #央行 #國際
+
+美國國家經濟委員會主任哈西特稱，5月就業資料彰顯經濟強勁擴張態勢，並支援美聯儲考慮降息。
+
+---
+
+### 2026-06-08 00:51:02  #國際
+
+美國防長赫格塞思談及歐洲：不少歐洲國家開放邊境、削減軍費、推行高福利政策，湧入的大量難民讓許多國家難以應對。我剛才說的就是這件事。所有人都清楚，歐洲必須正視這一問題，我們也希望他們能夠妥善處理。
+
+---
+
+### 2026-06-08 00:47:11  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-06-08 00:46:52  #國際
+
+【福特因安全帶故障召回近42萬輛汽車】福特汽車因安全帶存在故障，召回近42萬輛車輛，該故障或在車輛發生碰撞時造成人員受傷。美國國家公路交通安全管理局釋出報告稱，本次召回涉及2018至2022款部分福特遠征者以及林肯領航員車型。此次故障表現為安全帶可能意外鎖止，無法正常收放。該局表示，安全帶收放異常會在車禍中引發人員受傷，部分情況下，安全帶急速收回也可能造成人身傷害。本次召回是對美國國家公路交通安全管理局此前兩次召回的補充與擴大。報告指出，福特汽車已收到兩起相關保修申請和兩起現場問題反饋，另有一起人員受傷事件與該故障相關。
 
 ---
 
@@ -22468,107 +22690,5 @@ China's STAR 50 Index fell more than 4% at the close, led by chip supply-chain n
 ### 2026-06-05 14:30:00  #Trading Economics #Markets #Japan #Stock Market #Importance 1
 
 The Nikkei 225 Index Closes 1.36% Lower — The Nikkei 225 Index dropped 919 points or 1.36 percent on Friday to close at 66552 points. Losses were led by Sumco (-8.18%), Tokyo Electron (-6.80%) and Renesas Electron (-6.51%).
-
----
-
-### 2026-06-05 14:29:28  #公司 #國際
-
-宣告顯示，澳大利亞AirTrunk公司計劃到2030年在印度投資300億澳元，用於擴建資料中心。
-
----
-
-### 2026-06-05 14:29:23  #公司
-
-【中國郵政內蒙古自治區分公司原副總經理蘭利厚接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、內蒙古自治區紀委監委訊息：中國郵政集團有限公司內蒙古自治區分公司原黨委委員、副總經理蘭利厚涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和內蒙古自治區包頭市監委監察調查。
-
----
-
-### 2026-06-05 14:29:14  #市場
-
-【光纖價格狂飆 高純石英砂因供需偏緊而“身價”上漲】受AI算力基礎設施建設驅動，光纖光纜行業迎來新一輪漲價潮。作為光纖製造中必不可少的一員，高純石英砂尤其是高階產品，因供需偏緊而“身價”上漲。“高純石英砂應用在光棒製備多個環節，且光纖生產中還用到光纖級石英套管、爐芯管、石英管這些配套產品。”一位從事石英制品加工的企業負責人表示，目前光纖產業對高純石英砂市場的拉動作用正在顯現，利好主要集中在具備高階6N級砂生產能力的企業。下游加工環節則遵循市場化定價，受成本、供需及市場環境多重因素影響。據中國粉體網資料，當前光纖用高純砂市場主流報價在4.8萬元/噸至5.5萬元/噸。6N級以上高純石英砂國產自給率偏低，供應緊張。據悉，石英系光纖的生產製備主要分為預製棒製備、光纖拉絲兩大核心工序，高純石英砂貫穿兩大工序。 (上證報)
-
----
-
-### 2026-06-05 14:28:45  #MKT News #Brent #Impact bearish #EURUSD #Impact bullish
-
-French transport minister says France will not face fuel shortages this summer.
-
----
-
-### 2026-06-05 14:28:34  #市場 #焦點
-
-科創50日內跌幅達4.02%，成分股中，大全能源跌9.26%，佰維儲存跌8.70%，XD生益電跌8.39%，瀾起科技跌7.83%。
-
----
-
-### 2026-06-05 14:28:33  #其他
-
-法國交通部長：今夏法國不會出現燃料短缺。
-
----
-
-### 2026-06-05 14:28:24  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Higher Open — European equity markets were set to open slightly higher on Friday as investors reassessed the outlook for the artificial intelligence trade while monitoring ongoing uncertainty in the Middle East. Regional markets have generally held up better than their US and Asian counterparts, largely due to Europe’s lower exposure to technology stocks. Investors will also focus on a fresh batch of economic data, including first-quarter GDP and employment figures from the Eurozone, UK house price data, French trade statistics, and Italian retail sales. Corporate earnings are expected to remain relatively quiet, with no major earnings release scheduled in Europe on Friday. In premarket trading, futures linked to the EURO STOXX 50 and STOXX Europe 600 were both up about 0.1%.
-
----
-
-### 2026-06-05 14:28:20  #其他
-
-【兆易創新成交額超200億元】6月5日下午，兆易創新成交額超200億元，現跌6.89%。
-
----
-
-### 2026-06-05 14:28:12  #央行 #市場 #觀點 #國際
-
-【報告：受印度央行措施影響，印度盧比波動性料將緩解】Religare Broking的Ajit Mishra在一封電子郵件中表示，受印度央行措施影響，印度盧比的波動性料將緩解。該研究部高階副總裁指出，印度央行已經“採取了吸引外資的果斷措施“，例如取消符合條件的外國投資者投資政府債券的資本利得稅。Mishra補充說，對於盧比而言，這些措施表明“在全球石油衝擊和持續的外資拋售壓力之際，錨定預期並降低波動性的明確意圖“。倫敦證券交易所集團資料顯示，美元下跌0.4%，報95.3850盧比。
-
----
-
-### 2026-06-05 14:28:11  #MKT News
-
-【Wolant founder: commercial passenger eVTOL in early incubation; economic validation expected H2】Wolant Aviation founder and CEO Dong Ming said the company is pursuing accelerated R&D to reach a global top-two or top-one technology position this year but warned the commercial passenger eVTOL sector remains in an early incubation phase with no mature mass-production products; industry closed-loop likely 5–10 years out. Wolant has de-emphasized non-binding LOIs and is prioritizing confirmed orders and delivery execution. The company plans to deliver 5–10 aircraft over this year and next and to begin economic viability testing between H2 this year and H1 next year to assess product profitability and value across the supply chain.
-
----
-
-### 2026-06-05 14:28:02  #MKT News
-
-French transport minister says there are no major concerns over aviation fuel and gasoline supplies in France.
-
----
-
-### 2026-06-05 14:27:29  #市場 #國際
-
-【首創期貨：油價暴跌後小幅反彈】繼續關注中東局勢。真主黨領導人納伊姆·卡西姆週四明確拒絕了以色列與黎巴嫩政府週三達成的停火協議，表示該組織並未參與停火談判，因此不會接受相關協議。這一表態使得美伊戰爭短期內結束的前景變得黯淡，因為伊朗已將黎巴嫩停火作為和美國達成任何和平協議的先決條件。伊朗甚至暗示，如果以色列繼續在黎巴嫩發動軍事行動，德黑蘭不排除直接介入衝突。這意味著美國試圖透過黎巴嫩停火來推動美伊談判的關鍵一步遭遇重大挫折，市場對中東地區能源供應安全的擔憂重新升溫。油價跌勢已成，但美伊談判仍有反覆，下行不會順利。建議反彈做空。（首創期貨）
-
----
-
-### 2026-06-05 14:27:00  #其他
-
-阿聯酋4月份M3貨幣供應量同比增長17.6%。
-
----
-
-### 2026-06-05 14:26:53  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-【Strait blockade deepens European winter storage fears; Asian competition may tighten supplies】European gas prices were set to finish the week higher as renewed Middle East fighting and uncertainty over a US‑Iran peace deal pressured sentiment. European benchmark gas futures rose up to 1.3% on Friday and are nearly 7% higher since last Friday, on track for their first weekly gain in three weeks. Talks to reopen the Strait of Hormuz have made little progress; the waterway has been effectively closed since the conflict began. Violence has resumed and Iran‑backed Hezbollah rejected a US‑brokered Lebanon ceasefire, undermining hopes for de‑escalation. European storage is only slightly above 41%, raising concern about winter refill. If the Hormuz blockade persists, summer competition with Asian buyers for seaborne LNG could intensify and tighten supplies.
-
----
-
-### 2026-06-05 14:26:47  #MKT News
-
-Oman Oil Development Company says Mina al-Fahal port is operating normally.
-
----
-
-### 2026-06-05 14:26:37  #其他
-
-法國交通部長表示：我國航空燃油與汽油供應不存在重大問題。
-
----
-
-### 2026-06-05 14:25:54  #公司
-
-【抖音回應“豆包誤判蘑菇導致使用者中毒”：AI目前還在發展階段，豆包也在不斷提升識別準確性】位元組跳動副總裁李亮在微博發文談“有關豆包誤判蘑菇導致使用者中毒”的事情，稱：使用者使用豆包拍照識別從小區摘到的蘑菇時，豆包識別為“雞腿菇”，同時給該使用者的回覆中明確提示：“極容易和劇毒的大青褶傘混淆，誤食會引發嚴重的胃腸炎症狀”，“如果這幾朵蘑菇是野外採摘的，強烈建議不要食用”，並表示“野生蘑菇的辨別風險極高，僅憑圖片無法100%排除有毒相似種的可能”等。李亮表示，AI目前還在發展階段，豆包也在不斷提升識別準確性，涉及類似人身安全的問題，建議大家，AI的回答僅供參考，請務必多方諮詢求證，以免造成傷害。另外也提醒大家，小區裡摘到的蘑菇或其他果類，即使它們本身無毒，也可能有農藥等其他情況，也強烈不建議大家食用。
 
 ---

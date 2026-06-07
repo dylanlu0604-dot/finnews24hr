@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 00:46:44_
-_本檔包含 4010 則快訊，約 706192 字_
+_更新時間：2026-06-08 01:33:22_
+_本檔包含 4012 則快訊，約 706721 字_
+
+---
+
+### 2026-06-04 10:34:10  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
+
+PBoC Continues Zero Reverse Repo Operations — The People's Bank of China (PBoC) left its daily liquidity injections unchanged at zero for a second consecutive session on Thursday, following the first suspension of seven-day reverse repo operations in nearly two years a day earlier. The central bank said the zero-volume operation reflected the needs of primary dealers in open market operations. The move has drawn market attention as it comes despite ample liquidity in the banking system. The consecutive zero operations suggest policymakers are comfortable with current funding conditions and see no immediate need to inject additional cash into the financial system.
+
+---
+
+### 2026-06-04 10:34:08  #MKT News #Commodities #Industrial Metals
+
+Indonesia's mining ministry said nickel pig iron output totaled 198,970 tonnes from January to April.
+
+---
+
+### 2026-06-04 10:33:58  #國際
+
+印尼礦產部公佈，該國1-4月鎳鐵產量為19.897萬噸。
+
+---
+
+### 2026-06-04 10:33:35  #MKT News
+
+TSMC (TSM.N) CEO said the company is not seeking memory-like price spikes and is focused on long-term sustainable growth.
+
+---
+
+### 2026-06-04 10:33:25  #公司
+
+臺積電執行長：不尋求效仿儲存晶片行業漲價，專注於長期可持續增長。
+
+---
+
+### 2026-06-04 10:33:16  #其他
+
+【張平宗任中國移動雲能力中心黨委書記、董事長】近日，記者獲悉，張平宗任中國移動雲能力中心黨委書記、董事長。張平宗，男，漢族，1977年8月生，研究生學歷，通訊與資訊工程碩士，中共黨員。曾任寧夏移動副總經理，掛職甘肅省慶陽市副市長。2026年1月任中國移動算力辦公室主任，2026年5月任中國移動雲能力中心黨委書記、董事長。（人民郵電報）
+
+---
+
+### 2026-06-04 10:33:15  #MKT News #Commodities #Industrial Metals
+
+Indonesia's Ministry of Mining said nickel ore production from January to April totaled 93.11 mln tonnes.
+
+---
+
+### 2026-06-04 10:33:15  #MKT News
+
+【Chinese researchers identify peptide-based 'on-demand' cold-resistance mechanism in crop flowering】Researchers at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, said an intelligent-breeding team, after eight years of work, identified the first small-peptide signal that senses low temperature during crop reproductive development and decoded the pollen cold-sensing and signal-transduction mechanism. The pathway explains how plants mount precise, on‑demand defenses to protect pollen during short, unpredictable cold snaps, supporting crop resilience and stable production. The study was published online in Nature on June 3 (Beijing time).
+
+---
+
+### 2026-06-04 10:33:00  #國際
+
+印尼礦業部資料顯示，該國1-4月鎳礦石產量為9311萬公噸。
+
+---
+
+### 2026-06-04 10:33:00  #MKT News #Market Themes #Chip Wars #TSM.N
+
+TSMC CEO said he views customers as partners but the company must still remain profitable.
+
+---
+
+### 2026-06-04 10:32:10  #公司
+
+【中國聯通在杭州投資成立智算科技公司】企查查APP顯示，近日，聯通智算科技（杭州）有限公司成立，法定代表人為戴苓，註冊資本為10億元，經營範圍包含：以自有資金從事投資活動；人工智慧應用軟體開發；雲端計算裝備技術服務；資訊系統整合服務等。企查查股權穿透顯示，該公司由中國聯合網路通訊有限公司全資持股。
+
+---
+
+### 2026-06-04 10:31:54  #市場 #國際
+
+日經225指數早盤收盤下跌 1.9%，報67101.83 點；日本東證指數早盤收盤下跌 1.4%，報 3940.22 點
+
+---
+
+### 2026-06-04 10:31:30  #MKT News #2330.TW
+
+TSMC co-chief operating officer said Intel's packaging technology is an alternative; each technology has its own challenges, and the company does not fear challenges or competition.
+
+---
+
+### 2026-06-04 10:30:22  #其他
+
+臺積電聯合營運長表示：英特爾的封裝技術是一個可選方案，每種技術都有其自身挑戰，我們從不畏懼挑戰與競爭。
+
+---
+
+### 2026-06-04 10:30:16  #公司
+
+臺積電執行長談馬斯克的超級晶片廠：祝他一切順利。
+
+---
+
+### 2026-06-04 10:29:30  #MKT News
+
+【Navigation warning: military activity in Bohai Laizhou Bay】Yantai Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: military activities will take place in waters of Bohai Laizhou Bay on June 5 from 07:00 to 23:00 and June 6 from 07:00 to 22:00; entry to the area is prohibited.
+
+---
+
+### 2026-06-04 10:28:58  #其他
+
+【餵豬有望不用進口大豆？中國科學家找到“丟失”的玉米高蛋白基因】中國科學院分子植物科學卓越創新中心巫永睿、王海海團隊，聯合上海師範大學王文琴團隊和四川農業大學黃永財團隊，近來成功挖掘和聚合了野生玉米的兩個高蛋白基因，將自交系籽粒蛋白含量從10%提升至15%，並將我國推廣面積最大的玉米雜交種鄭單958的籽粒蛋白含量從8.5%提升至12-13%，全株蛋白含量從7%提升至9%以上，且產量保持穩定。
+
+---
+
+### 2026-06-04 10:28:48  #MKT News #Important #Market Regions #Greater China
+
+【E Fund overtakes ChinaAMC as largest domestic ETF manager by AUM】Wind data show E Fund Management’s non-money-market ETF assets reached 616.748 bln yuan, narrowly surpassing ChinaAMC’s 616.504 bln yuan by 244 mln yuan. E Fund’s total ETF assets stand at 618.519 bln yuan versus ChinaAMC’s 616.613 bln yuan, making E Fund the top domestic ETF manager by AUM.
+
+---
+
+### 2026-06-04 10:28:36  #其他
+
+【境內ETF規模第一的公募管理人易主 易方達基金新進為非貨ETF規模第一】境內ETF規模第一的公募管理人易主，Wind資料顯示，截至目前，易方達基金旗下非貨ETF規模達到6167.48億元，超過華夏基金（6165.04億元），成為行業第一。兩家管理人之間的規模差距僅2.44億元。同時，易方達基金旗下所有ETF規模也來到6185.19億元，同樣超過華夏基金（6166.13億元），位居行業第一。
+
+---
+
+### 2026-06-04 10:27:48  #其他
+
+【航行警告！渤海萊州灣軍事活動】據中國海事局網站訊息，煙臺海事局釋出航行警告，6月5日7時至23時，6月6日7時至22時，渤海萊州灣相關水域內進行軍事活動，禁止駛入。
+
+---
+
+### 2026-06-04 10:27:36  #MKT News
+
+Indonesia's benchmark stock index continued to fall, extending losses to 3%.
 
 ---
 
@@ -24032,119 +24158,5 @@ Japan 20-year bond yield rose 1bp to 3.510%.
 ### 2026-06-03 09:06:19  #市場
 
 【酒價內參6月3日價格釋出：青花汾20國窖1573領漲 總價創近5天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月3日整體明顯回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9925元，較昨日大幅上漲25元，創下近5天以來最高。市場在前期探底後震盪回升，終端交投情緒有所回暖，今日除普五八代微跌外其餘十大品種均上漲或平盤。今日白酒市場11大單品八漲一跌兩平，贏家佔據絕對優勢。上漲方面，青花汾20、國窖1573、洋河夢之藍M6+及水晶劍南春均上漲4元/瓶，其中青花汾20終結此前7日的連續下探走勢，但仍囿於月內低位；國窖1573重返890元上方；水晶劍南春漲幅平月內最高紀錄，價格亦追平月內最高紀錄。精品茅臺與古井貢古20各上漲3元/瓶；飛天茅臺與習酒君品各上漲2元/瓶。下跌方面，五糧液普五八代微跌1元/瓶，繼續在月內低位徘徊。五糧液1618與青花郎的價格環比保持不變，前者近一個月走勢頗為平穩，而後者仍深陷月內次低位。
-
----
-
-### 2026-06-03 09:05:43  #公司 #市場
-
-【2026中國國際礦業大會將設礦業權交易“大賣場”】5月28日，中國礦業聯合會釋出《2026（第二十八屆）中國國際礦業大會關於舉辦礦業權交易專場活動的通知》，對大會期間礦業權轉讓大市場專場交易活動的內容、形式及有關報名的具體事宜進行了說明。 由中國礦業聯合會主辦的2026（第二十八屆）中國國際礦業大會將於9月10日至12日在天津召開。為深入貫徹全國統一大市場建設要求，統籌國內國際兩個市場，探索完善礦業權市場轉讓體制機制，推動礦產資源要素規範、高效流通與配置，大會期間將繼續舉辦礦業權轉讓大市場專場交易活動。 專場活動交易內容主要分為4個方面：一是礦業權，包括探礦權、採礦權的轉讓以及勘探、開發合作等。二是股權，礦業公司及其所屬專案的全部或者部分股權交易，包括收益權及相關資產權益的轉讓及合作等。三是礦產品及機械裝置，礦產品現貨、期貨及相關組合；勘查及開採機械裝置和相關物資的交易與合作。四是技術、工程及其他礦業要素，地質勘查、礦山工程、採礦選礦技術、專業諮詢服務及符合國家政策的其他礦業要素的交易與合作。本次交易形式靈活多樣，自主協商、委託競爭、定向撮合、獨家談判，均可根據需求進行選擇。（中國自然資源報）
-
----
-
-### 2026-06-03 09:05:00  #MKT News #NFLX.O #Impact bullish #DIS.O #Nasdaq100
-
-【Omdia: Online-video subscriptions to reach 2.24 bln by end-2025; 2026 growth set to slow】Omdia data shows global online-video subscription users at 2.24 bln by end-2025, up from 1.9 bln in 2024 (+17.6% YoY); growth is expected to slow to single digits in 2026 as the market matures. Global paid TV subscriptions fell 1.8% YoY to 1.03 bln. Streaming now represents 68.4% of total global TV and video subscriptions (3.3 bln).
-
----
-
-### 2026-06-03 09:04:59  #公司
-
-【麗珠醫藥IL-17A/F雙靶向藥物萊康奇塔單抗治療強直性脊柱炎上市申請獲受理】6月3日，麗珠醫藥宣佈，公司1類創新生物藥萊康奇塔單抗用於治療強直性脊柱炎（AS）的上市申請（NDA）已獲國家藥品監督管理局正式受理。
-
----
-
-### 2026-06-03 09:04:08  #公司 #市場
-
-星展集團股價盤中觸及歷史新高。星展集團股價最新上漲0.4%，報64.95新元，盤中曾觸及65.00新元。
-
----
-
-### 2026-06-03 09:03:24  #市場 #觀點 #國際
-
-【中金財富期貨：當前美伊衝突仍難有結果，黃金被動跟隨原油波動】美軍中央司令部在社交媒體發文，稱伊朗2日在整個中東範圍發動襲擊，美軍攔截若干伊朗彈道導彈和無人機。訊息傳出後，原油價格回升，漲幅超2%，引發黃金再度調整。美以在開戰問題上分歧巨大，特朗普不滿內塔尼亞胡暗示除推遲對貝魯特的襲擊外，戰爭仍在全面繼續；而內塔尼亞胡則對特朗普在社交媒體平臺發文暗示以色列已在所有戰線上停火“感到沮喪”。當前美伊衝突仍難有結果，黃金被動跟隨原油波動，參與難度較大，我們建議觀望為主。
-
----
-
-### 2026-06-03 09:03:06  #公司
-
-【索菲亞成立數智科技公司 含AI相關業務】企查查APP顯示，近日，廣東橫琴索菲亞數智科技有限公司成立，經營範圍包含：軟體開發；人工智慧行業應用系統整合服務；以自有資金從事投資活動等。企查查股權穿透顯示，該公司由索菲亞全資持股。
-
----
-
-### 2026-06-03 09:02:09  #經濟數據 #中國
-
-【5月份中國物流業景氣指數為50.3% 重回擴張區間】中國物流與採購聯合會今天（3日）公佈5月份中國物流業景氣指數。5月份，物流業務需求穩中有升，物流業景氣指數重回擴張區間。5月份中國物流業景氣指數為50.3%，較上月上升0.6個百分點，重回擴張區間。分項指數中，大多數較上月有所回升。其中，業務總量指數、新訂單指數、固定資產投資完成額指數、從業人員指數等均位於擴張區間。
-
----
-
-### 2026-06-03 09:02:04  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【China logistics industry prosperity index back in expansion at 50.3 in May】China Federation of Logistics and Purchasing said on June 3 the logistics industry prosperity index rose to 50.3 in May, up 0.6 pts MoM, returning to the expansionary range (>50). Most subindexes improved; business volume, new orders, completed fixed-asset investment and employment were all in expansion. The new orders index was 50.2, marking a third consecutive monthly rise. Main business cost index climbed to 52.6, up 0.3 pts MoM, with firms citing higher fuel and labor costs. The business activity expectations index remained elevated at 55.9, and expectations for rail, road, postal/express and multimodal transport all rose MoM.
-
----
-
-### 2026-06-03 09:01:52
-
-國內期貨主力合約多數上漲。漲幅方面，滬錫漲超2％，20號膠、滬鋅、國際銅、滬銅、焦炭漲超1％。跌幅方面，歐線集運跌超2％，氧化鋁、瀝青、多晶矽跌超1％。
-
----
-
-### 2026-06-03 09:01:26  #MKT News
-
-The regional governor said Russia continues to repel drone attacks on the Leningrad Region.
-
----
-
-### 2026-06-03 09:01:18  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened up 724.12 points, or 1.59%, at 46,281.43 on June 3 (Wednesday).
-
----
-
-### 2026-06-03 09:01:13  #其他
-
-技嘉在2026年臺北國際電腦展釋出下一代遊戲外設，推出AORUS K10 Infinity機械鍵盤與M10 Infinity滑鼠。
-
----
-
-### 2026-06-03 09:01:13  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Shanghai Gold Exchange Gold T+D fell 0.26% to 976.69 yuan/gram in early trade on Wednesday June 3; Shanghai Gold Exchange Silver T+D fell 0.97% to 18,038 yuan/kg.
-
----
-
-### 2026-06-03 09:01:06  #MKT News
-
-The regional governor said Russian forces shot down three drones over Leningrad region.
-
----
-
-### 2026-06-03 09:00:56  #其他
-
-【玻利維亞國防部長辭職 埃內斯托·胡斯蒂尼亞諾接任】當地時間6月2日，記者獲悉，玻利維亞國防部長馬塞洛·薩利納斯已於當日辭職，原社會防衛與管制品事務副部長埃內斯托·胡斯蒂尼亞諾將接任該部部長職務。近日，玻利維亞爆發大規模抗議活動，主要城市街道被封鎖，多處物流供應鏈中斷，因物資短缺嚴重，玻利維亞醫療委員會已宣佈進入衛生緊急狀態。
-
----
-
-### 2026-06-03 09:00:43  #國際
-
-俄羅斯州長稱，俄軍在列寧格勒州上空擊落三架無人機。該州仍在擊退無人機襲擊。
-
----
-
-### 2026-06-03 09:00:31  #市場
-
-臺灣證交所加權股價指數上漲1.1%至46,051.58點。
-
----
-
-### 2026-06-03 09:00:26  #其他
-
-臺灣證交所加權股價指數開高0.2%報45,660.46。
-
----
-
-### 2026-06-03 09:00:25  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-FTSE China A50 index futures opened down 0.16%.
 
 ---

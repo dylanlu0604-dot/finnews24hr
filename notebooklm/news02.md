@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 00:46:44_
-_本檔包含 3791 則快訊，約 705952 字_
+_更新時間：2026-06-08 01:33:22_
+_本檔包含 3787 則快訊，約 706519 字_
+
+---
+
+### 2026-06-05 14:29:28  #公司 #國際
+
+宣告顯示，澳大利亞AirTrunk公司計劃到2030年在印度投資300億澳元，用於擴建資料中心。
+
+---
+
+### 2026-06-05 14:29:23  #公司
+
+【中國郵政內蒙古自治區分公司原副總經理蘭利厚接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、內蒙古自治區紀委監委訊息：中國郵政集團有限公司內蒙古自治區分公司原黨委委員、副總經理蘭利厚涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和內蒙古自治區包頭市監委監察調查。
+
+---
+
+### 2026-06-05 14:29:14  #市場
+
+【光纖價格狂飆 高純石英砂因供需偏緊而“身價”上漲】受AI算力基礎設施建設驅動，光纖光纜行業迎來新一輪漲價潮。作為光纖製造中必不可少的一員，高純石英砂尤其是高階產品，因供需偏緊而“身價”上漲。“高純石英砂應用在光棒製備多個環節，且光纖生產中還用到光纖級石英套管、爐芯管、石英管這些配套產品。”一位從事石英制品加工的企業負責人表示，目前光纖產業對高純石英砂市場的拉動作用正在顯現，利好主要集中在具備高階6N級砂生產能力的企業。下游加工環節則遵循市場化定價，受成本、供需及市場環境多重因素影響。據中國粉體網資料，當前光纖用高純砂市場主流報價在4.8萬元/噸至5.5萬元/噸。6N級以上高純石英砂國產自給率偏低，供應緊張。據悉，石英系光纖的生產製備主要分為預製棒製備、光纖拉絲兩大核心工序，高純石英砂貫穿兩大工序。 (上證報)
+
+---
+
+### 2026-06-05 14:28:45  #MKT News #Brent #Impact bearish #EURUSD #Impact bullish
+
+French transport minister says France will not face fuel shortages this summer.
+
+---
+
+### 2026-06-05 14:28:34  #市場 #焦點
+
+科創50日內跌幅達4.02%，成分股中，大全能源跌9.26%，佰維儲存跌8.70%，XD生益電跌8.39%，瀾起科技跌7.83%。
+
+---
+
+### 2026-06-05 14:28:33  #其他
+
+法國交通部長：今夏法國不會出現燃料短缺。
+
+---
+
+### 2026-06-05 14:28:24  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Poised for Higher Open — European equity markets were set to open slightly higher on Friday as investors reassessed the outlook for the artificial intelligence trade while monitoring ongoing uncertainty in the Middle East. Regional markets have generally held up better than their US and Asian counterparts, largely due to Europe’s lower exposure to technology stocks. Investors will also focus on a fresh batch of economic data, including first-quarter GDP and employment figures from the Eurozone, UK house price data, French trade statistics, and Italian retail sales. Corporate earnings are expected to remain relatively quiet, with no major earnings release scheduled in Europe on Friday. In premarket trading, futures linked to the EURO STOXX 50 and STOXX Europe 600 were both up about 0.1%.
+
+---
+
+### 2026-06-05 14:28:20  #其他
+
+【兆易創新成交額超200億元】6月5日下午，兆易創新成交額超200億元，現跌6.89%。
+
+---
+
+### 2026-06-05 14:28:12  #央行 #市場 #觀點 #國際
+
+【報告：受印度央行措施影響，印度盧比波動性料將緩解】Religare Broking的Ajit Mishra在一封電子郵件中表示，受印度央行措施影響，印度盧比的波動性料將緩解。該研究部高階副總裁指出，印度央行已經“採取了吸引外資的果斷措施“，例如取消符合條件的外國投資者投資政府債券的資本利得稅。Mishra補充說，對於盧比而言，這些措施表明“在全球石油衝擊和持續的外資拋售壓力之際，錨定預期並降低波動性的明確意圖“。倫敦證券交易所集團資料顯示，美元下跌0.4%，報95.3850盧比。
+
+---
+
+### 2026-06-05 14:28:11  #MKT News
+
+【Wolant founder: commercial passenger eVTOL in early incubation; economic validation expected H2】Wolant Aviation founder and CEO Dong Ming said the company is pursuing accelerated R&D to reach a global top-two or top-one technology position this year but warned the commercial passenger eVTOL sector remains in an early incubation phase with no mature mass-production products; industry closed-loop likely 5–10 years out. Wolant has de-emphasized non-binding LOIs and is prioritizing confirmed orders and delivery execution. The company plans to deliver 5–10 aircraft over this year and next and to begin economic viability testing between H2 this year and H1 next year to assess product profitability and value across the supply chain.
+
+---
+
+### 2026-06-05 14:28:02  #MKT News
+
+French transport minister says there are no major concerns over aviation fuel and gasoline supplies in France.
+
+---
+
+### 2026-06-05 14:27:29  #市場 #國際
+
+【首創期貨：油價暴跌後小幅反彈】繼續關注中東局勢。真主黨領導人納伊姆·卡西姆週四明確拒絕了以色列與黎巴嫩政府週三達成的停火協議，表示該組織並未參與停火談判，因此不會接受相關協議。這一表態使得美伊戰爭短期內結束的前景變得黯淡，因為伊朗已將黎巴嫩停火作為和美國達成任何和平協議的先決條件。伊朗甚至暗示，如果以色列繼續在黎巴嫩發動軍事行動，德黑蘭不排除直接介入衝突。這意味著美國試圖透過黎巴嫩停火來推動美伊談判的關鍵一步遭遇重大挫折，市場對中東地區能源供應安全的擔憂重新升溫。油價跌勢已成，但美伊談判仍有反覆，下行不會順利。建議反彈做空。（首創期貨）
+
+---
+
+### 2026-06-05 14:27:00  #其他
+
+阿聯酋4月份M3貨幣供應量同比增長17.6%。
+
+---
+
+### 2026-06-05 14:26:53  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Strait blockade deepens European winter storage fears; Asian competition may tighten supplies】European gas prices were set to finish the week higher as renewed Middle East fighting and uncertainty over a US‑Iran peace deal pressured sentiment. European benchmark gas futures rose up to 1.3% on Friday and are nearly 7% higher since last Friday, on track for their first weekly gain in three weeks. Talks to reopen the Strait of Hormuz have made little progress; the waterway has been effectively closed since the conflict began. Violence has resumed and Iran‑backed Hezbollah rejected a US‑brokered Lebanon ceasefire, undermining hopes for de‑escalation. European storage is only slightly above 41%, raising concern about winter refill. If the Hormuz blockade persists, summer competition with Asian buyers for seaborne LNG could intensify and tighten supplies.
+
+---
+
+### 2026-06-05 14:26:47  #MKT News
+
+Oman Oil Development Company says Mina al-Fahal port is operating normally.
+
+---
+
+### 2026-06-05 14:26:37  #其他
+
+法國交通部長表示：我國航空燃油與汽油供應不存在重大問題。
+
+---
+
+### 2026-06-05 14:25:54  #公司
+
+【抖音回應“豆包誤判蘑菇導致使用者中毒”：AI目前還在發展階段，豆包也在不斷提升識別準確性】位元組跳動副總裁李亮在微博發文談“有關豆包誤判蘑菇導致使用者中毒”的事情，稱：使用者使用豆包拍照識別從小區摘到的蘑菇時，豆包識別為“雞腿菇”，同時給該使用者的回覆中明確提示：“極容易和劇毒的大青褶傘混淆，誤食會引發嚴重的胃腸炎症狀”，“如果這幾朵蘑菇是野外採摘的，強烈建議不要食用”，並表示“野生蘑菇的辨別風險極高，僅憑圖片無法100%排除有毒相似種的可能”等。李亮表示，AI目前還在發展階段，豆包也在不斷提升識別準確性，涉及類似人身安全的問題，建議大家，AI的回答僅供參考，請務必多方諮詢求證，以免造成傷害。另外也提醒大家，小區裡摘到的蘑菇或其他果類，即使它們本身無毒，也可能有農藥等其他情況，也強烈不建議大家食用。
 
 ---
 
@@ -22703,131 +22805,5 @@ Yen Remains Near Key 160 Per Dollar Level — The Japanese yen traded around 159
 ### 2026-06-04 10:34:21  #國際
 
 印尼礦業部公佈，1-4月印尼鎳冰鎳產量為23730公噸。
-
----
-
-### 2026-06-04 10:34:10  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
-
-PBoC Continues Zero Reverse Repo Operations — The People's Bank of China (PBoC) left its daily liquidity injections unchanged at zero for a second consecutive session on Thursday, following the first suspension of seven-day reverse repo operations in nearly two years a day earlier. The central bank said the zero-volume operation reflected the needs of primary dealers in open market operations. The move has drawn market attention as it comes despite ample liquidity in the banking system. The consecutive zero operations suggest policymakers are comfortable with current funding conditions and see no immediate need to inject additional cash into the financial system.
-
----
-
-### 2026-06-04 10:34:08  #MKT News #Commodities #Industrial Metals
-
-Indonesia's mining ministry said nickel pig iron output totaled 198,970 tonnes from January to April.
-
----
-
-### 2026-06-04 10:33:58  #國際
-
-印尼礦產部公佈，該國1-4月鎳鐵產量為19.897萬噸。
-
----
-
-### 2026-06-04 10:33:35  #MKT News
-
-TSMC (TSM.N) CEO said the company is not seeking memory-like price spikes and is focused on long-term sustainable growth.
-
----
-
-### 2026-06-04 10:33:25  #公司
-
-臺積電執行長：不尋求效仿儲存晶片行業漲價，專注於長期可持續增長。
-
----
-
-### 2026-06-04 10:33:16  #其他
-
-【張平宗任中國移動雲能力中心黨委書記、董事長】近日，記者獲悉，張平宗任中國移動雲能力中心黨委書記、董事長。張平宗，男，漢族，1977年8月生，研究生學歷，通訊與資訊工程碩士，中共黨員。曾任寧夏移動副總經理，掛職甘肅省慶陽市副市長。2026年1月任中國移動算力辦公室主任，2026年5月任中國移動雲能力中心黨委書記、董事長。（人民郵電報）
-
----
-
-### 2026-06-04 10:33:15  #MKT News #Commodities #Industrial Metals
-
-Indonesia's Ministry of Mining said nickel ore production from January to April totaled 93.11 mln tonnes.
-
----
-
-### 2026-06-04 10:33:15  #MKT News
-
-【Chinese researchers identify peptide-based 'on-demand' cold-resistance mechanism in crop flowering】Researchers at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, said an intelligent-breeding team, after eight years of work, identified the first small-peptide signal that senses low temperature during crop reproductive development and decoded the pollen cold-sensing and signal-transduction mechanism. The pathway explains how plants mount precise, on‑demand defenses to protect pollen during short, unpredictable cold snaps, supporting crop resilience and stable production. The study was published online in Nature on June 3 (Beijing time).
-
----
-
-### 2026-06-04 10:33:00  #國際
-
-印尼礦業部資料顯示，該國1-4月鎳礦石產量為9311萬公噸。
-
----
-
-### 2026-06-04 10:33:00  #MKT News #Market Themes #Chip Wars #TSM.N
-
-TSMC CEO said he views customers as partners but the company must still remain profitable.
-
----
-
-### 2026-06-04 10:32:10  #公司
-
-【中國聯通在杭州投資成立智算科技公司】企查查APP顯示，近日，聯通智算科技（杭州）有限公司成立，法定代表人為戴苓，註冊資本為10億元，經營範圍包含：以自有資金從事投資活動；人工智慧應用軟體開發；雲端計算裝備技術服務；資訊系統整合服務等。企查查股權穿透顯示，該公司由中國聯合網路通訊有限公司全資持股。
-
----
-
-### 2026-06-04 10:31:54  #市場 #國際
-
-日經225指數早盤收盤下跌 1.9%，報67101.83 點；日本東證指數早盤收盤下跌 1.4%，報 3940.22 點
-
----
-
-### 2026-06-04 10:31:30  #MKT News #2330.TW
-
-TSMC co-chief operating officer said Intel's packaging technology is an alternative; each technology has its own challenges, and the company does not fear challenges or competition.
-
----
-
-### 2026-06-04 10:30:22  #其他
-
-臺積電聯合營運長表示：英特爾的封裝技術是一個可選方案，每種技術都有其自身挑戰，我們從不畏懼挑戰與競爭。
-
----
-
-### 2026-06-04 10:30:16  #公司
-
-臺積電執行長談馬斯克的超級晶片廠：祝他一切順利。
-
----
-
-### 2026-06-04 10:29:30  #MKT News
-
-【Navigation warning: military activity in Bohai Laizhou Bay】Yantai Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: military activities will take place in waters of Bohai Laizhou Bay on June 5 from 07:00 to 23:00 and June 6 from 07:00 to 22:00; entry to the area is prohibited.
-
----
-
-### 2026-06-04 10:28:58  #其他
-
-【餵豬有望不用進口大豆？中國科學家找到“丟失”的玉米高蛋白基因】中國科學院分子植物科學卓越創新中心巫永睿、王海海團隊，聯合上海師範大學王文琴團隊和四川農業大學黃永財團隊，近來成功挖掘和聚合了野生玉米的兩個高蛋白基因，將自交系籽粒蛋白含量從10%提升至15%，並將我國推廣面積最大的玉米雜交種鄭單958的籽粒蛋白含量從8.5%提升至12-13%，全株蛋白含量從7%提升至9%以上，且產量保持穩定。
-
----
-
-### 2026-06-04 10:28:48  #MKT News #Important #Market Regions #Greater China
-
-【E Fund overtakes ChinaAMC as largest domestic ETF manager by AUM】Wind data show E Fund Management’s non-money-market ETF assets reached 616.748 bln yuan, narrowly surpassing ChinaAMC’s 616.504 bln yuan by 244 mln yuan. E Fund’s total ETF assets stand at 618.519 bln yuan versus ChinaAMC’s 616.613 bln yuan, making E Fund the top domestic ETF manager by AUM.
-
----
-
-### 2026-06-04 10:28:36  #其他
-
-【境內ETF規模第一的公募管理人易主 易方達基金新進為非貨ETF規模第一】境內ETF規模第一的公募管理人易主，Wind資料顯示，截至目前，易方達基金旗下非貨ETF規模達到6167.48億元，超過華夏基金（6165.04億元），成為行業第一。兩家管理人之間的規模差距僅2.44億元。同時，易方達基金旗下所有ETF規模也來到6185.19億元，同樣超過華夏基金（6166.13億元），位居行業第一。
-
----
-
-### 2026-06-04 10:27:48  #其他
-
-【航行警告！渤海萊州灣軍事活動】據中國海事局網站訊息，煙臺海事局釋出航行警告，6月5日7時至23時，6月6日7時至22時，渤海萊州灣相關水域內進行軍事活動，禁止駛入。
-
----
-
-### 2026-06-04 10:27:36  #MKT News
-
-Indonesia's benchmark stock index continued to fall, extending losses to 3%.
 
 ---

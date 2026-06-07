@@ -1,7 +1,112 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 00:46:44_
-_本檔包含 3638 則快訊，約 705756 字_
+_更新時間：2026-06-08 01:33:22_
+_本檔包含 3627 則快訊，約 706248 字_
+
+---
+
+### 2026-06-02 07:11:06  #國際
+
+【伊朗革命衛隊稱打擊美以相關船隻 】當地時間6月1日晚，伊朗伊斯蘭革命衛隊宣佈，在美軍對伊朗位於阿曼灣的船隻發動侵略性襲擊後，革命衛隊海軍採取報復行動，使用巡航導彈擊中了“屬於美以勢力”的“薩里斯卡（Sariska)”號船隻。另據伊拉克方面訊息，懸掛巴拿馬國旗的“薩里斯卡（Sariska)”號商船當天“兩次遭不明發射物爆炸襲擊”，船體受損，目前該船位於伊拉克烏姆蓋斯爾港附近。 伊朗伊斯蘭革命衛隊海軍強調，美軍在該地區的任何侵略行徑都將遭到堅決回應。
+
+---
+
+### 2026-06-02 07:10:38  #宏觀 #市場
+
+【儲蓄國債即將納入個人養老金產品池 為投資者提供長期穩健投資選擇】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中國證券報）
+
+---
+
+### 2026-06-02 07:10:02  #其他
+
+【趁晴搶收 全國小麥收穫進度近三成】農業農村部最新小麥機收進度顯示，麥收地區持續晴熱天氣，各地正抓緊趁晴搶收。目前，小麥收穫進度近三成。據農業農村部小麥機收進度，截至6月1日17時，全國已收穫小麥9519萬畝，收穫進度28.06%。安徽麥收進度過半，河南過三成半，江蘇、陝西過一成，山東、山西零星收穫，西南地區小麥收穫已順利完成。預計今天（6月2日），河南、安徽、江蘇等麥收地區大部晴到多雲，有利於搶收，同時要做好機手服務、防範高溫暑熱。
+
+---
+
+### 2026-06-02 07:09:41  #公司 #國際
+
+【可口可樂正考慮將印度裝瓶業務上市】可口可樂公司週一表示，正考慮在孟買為其在印度最大的裝瓶商——印度斯坦可口可樂飲料公司（Hindustan Coca-Cola Beverages）進行首次公開募股。
+
+---
+
+### 2026-06-02 07:07:56  #其他
+
+【第四屆國際航運展今日啟幕】6月2日至5日，第四屆天津國際航運產業博覽會在國家會展中心(天津)舉辦。本屆航運展將以“航通天下執行未來——AI引領港航發展新機遇”為主題，聚焦航運智慧化、綠色化、國際化發展，聚焦全球物流鏈、供應鏈產業鏈安全穩定，搭建國際航運合作與創新成果展示的高階平臺。
+
+---
+
+### 2026-06-02 07:07:25  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kyiv city authorities issued air-raid alerts; witnesses reported a large plume of smoke.
+
+---
+
+### 2026-06-02 07:07:15  #MKT News #Star Stocks #Alibaba #Market Themes #AI Revolution #BABA.N
+
+【Alibaba launches Qwen3.7-Plus multimodal agent model】Alibaba said on June 2 via the Qwen official WeChat account it has released Qwen3.7-Plus, a multimodal agent model. The company said the model builds on Qwen3.7’s text capabilities, substantially upgrades vision–language performance, and preserves full agent functions for coding, tool use and productivity workflows.
+
+---
+
+### 2026-06-02 07:07:08  #國際
+
+基輔市當局釋出空襲警報後，目擊者在基輔看到巨大煙柱。
+
+---
+
+### 2026-06-02 07:06:08  #Trading Economics #Economy #South Korea #Inflation Rate #Importance 2
+
+South Korea Inflation Hits Over 2-Year High — South Korea’s annual inflation rate accelerated to 3.1% in May 2026 from 2.6% in the previous month, surpassing market forecasts of 3.0%. It was the highest reading since March 2024, highlighting the deepening effects of higher oil prices amid the Middle East conflict. On a monthly basis, consumer prices increased by 0.5%, the same pace as in April. Still, it was the fastest monthly increase since September 2025 and exceeded market estimates of 0.3%.
+
+---
+
+### 2026-06-02 07:05:43  #公司 #國際
+
+英偉達CEO黃仁勳表示，若韓國方面有意，英偉達可將旗下聚焦人工智慧與前沿科技的旗艦峰會GTC落地韓國舉辦。
+
+---
+
+### 2026-06-02 07:03:33  #其他
+
+日美將出資10億美元投資“創世紀計劃”人工智慧專案。
+
+---
+
+### 2026-06-02 07:01:20  #國際
+
+聯合國人權專家對約旦河西岸以色列定居者恐怖暴力事件激增發出警示。
+
+---
+
+### 2026-06-02 07:00:41  #Trading Economics #Markets #commodity #Importance 0
+
+Coal Hits 8-week High — Coal increased to 140.30 USD/T, the highest since March 2026. Over the past 4 weeks, Coal gained 2.05%, and in the last 12 months, it increased 32.38%.
+
+---
+
+### 2026-06-02 07:00:39  #市場 #國際
+
+韓國統計局：韓國5月消費者物價指數環比上漲0.5%，路透調查預期為上漲0.3%。
+
+---
+
+### 2026-06-02 07:00:34  #市場 #國際
+
+韓國統計局：韓國5月消費者價格指數同比上漲3.1%，路透調查預期為上漲3.0%。
+
+---
+
+### 2026-06-02 07:00:22  #公司 #市場 #觀點 #焦點 #國際
+
+【6月2日隔夜要聞一覽】
+1、當地時間6月1日，美國總統特朗普表示，他預計將在“未來一週內”與伊朗達成協議，延長當前停火安排並重新開放霍爾木茲海峽。
+2、美國能源部當天公佈的資料顯示，上週戰略石油儲備減少800萬桶原油。此前兩週分別減少910萬桶和創紀錄的990萬桶。截至目前，戰略石油儲備庫存降至3.571億桶，為2024年1月以來最低水平。
+3、以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”
+4、當地時間6月1日，黎巴嫩總統辦公室發表最新宣告。宣告確認，黎巴嫩真主黨已承諾停止對以色列的打擊。此前，美國總統特朗普也宣佈了這一訊息。
+5、當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。
+6、計算裝置製造商龍頭慧與科技（HPE）股價盤後大漲超35%，公司預計未來18個月伺服器需求將推動其強勁增長。
+7、谷歌母公司Alphabet Inc．正透過股權融資籌集800億美元資金，其中包括與伯克希爾達成的一項投資交易，以支援其雄心勃勃的人工智慧支出計劃。
+8、Anthropic已保密提交IPO註冊檔案草案，力爭最快於今年秋季登陸美股市場。擬發行股份的數量及發行價尚未確定。
+9、根據SpaceX提交的S-1檔案修正案，馬斯克已與承銷商達成協議，接受為期366天的鎖定期。在未經高盛事先書面同意的情況下，他持有的所有股份均不得出售。
 
 ---
 
@@ -21815,167 +21920,5 @@ Israeli Channel 12, citing sources, reported Hezbollah fired more than 50 rocket
 ### 2026-06-01 01:33:56  #國際
 
 伊朗革命衛隊政治事務官員：鞏固和加強我們對霍爾木茲海峽的主權，其重要性超過了核武器。
-
----
-
-### 2026-06-01 01:33:16  #國際
-
-伊朗革命衛隊政治事務官員：我們與美國的談判是在實力地位的基礎上進行的，我們設定條件並強加給他們。
-
----
-
-### 2026-06-01 01:24:39  #MKT News
-
-Iran's foreign minister said speculation should not be given weight.
-
----
-
-### 2026-06-01 01:20:45  #焦點 #國際
-
-伊朗外交部長：我們不應理會市場投機傳言。
-
----
-
-### 2026-06-01 01:20:38  #MKT News #Important
-
-Iran's foreign minister said negotiations cannot be judged until a clear outcome is reached.
-
----
-
-### 2026-06-01 01:20:19  #MKT News
-
-Iran's foreign minister said talks and information exchanges with the United States are ongoing.
-
----
-
-### 2026-06-01 01:20:18  #國際
-
-伊朗外交部長對官方媒體表示：在取得明確結果之前，我們無法對談判作出評判。
-
----
-
-### 2026-06-01 01:20:14  #國際
-
-伊朗外交部長對官方媒體表示：伊朗與美國仍在進行談判和資訊交換。
-
----
-
-### 2026-06-01 01:13:37  #國際
-
-黎巴嫩衛生部：以色列空襲黎巴嫩南部城市提爾，造成希拉姆醫院13名工作人員受傷。
-
----
-
-### 2026-06-01 01:12:26  #公司
-
-滙豐控股執行長：滙豐仍是亞洲地區領先的交易銀行。
-
----
-
-### 2026-06-01 01:11:49  #國際
-
-以色列官員要求美國方面允許擴大在黎巴嫩的軍事行動。
-
----
-
-### 2026-06-01 01:11:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli broadcaster i24News reported Iran's missile bases have been restored to operational use.
-
----
-
-### 2026-06-01 01:09:12  #國際
-
-根據美國中央司令部最新資料，截至今日，美軍為配合對伊朗的海上封鎖，已攔截118艘民用船隻，並使5艘船隻失去航行能力。
-
----
-
-### 2026-06-01 01:06:32  #國際
-
-美國新澤西公共交通局宣佈，全州鐵路服務已全面恢復運營。
-
----
-
-### 2026-06-01 01:03:21  #國際
-
-【伊朗軍官：將與敵人的過分要求和霸權行徑戰鬥到最後一刻】當地時間5月31日，伊朗伊斯蘭革命衛隊海軍副司令釋出訊息稱，面對任何形式的過分要求和霸權行徑，伊朗都將戰鬥到最後一刻，與敵人針鋒相對。伊朗武裝部隊中的戰士正“全副武裝，隨時準備戰鬥，捍衛著這片土地和祖國的安全和榮譽”。（央視新聞）
-
----
-
-### 2026-06-01 01:01:05  #國際
-
-美國陸軍舉辦 “越獄行動” 駭客馬拉松，旨在藉助人工智慧實現武器裝備的協同適配。
-
----
-
-### 2026-06-01 01:00:54  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's Channel 12 says Netanyahu is trying to persuade Trump to expand military operations to include Beirut.
-
----
-
-### 2026-06-01 00:53:53  #國際
-
-美國華盛頓州化學品儲罐破裂事故的死亡人數已上升至11人，救援隊已找到9名失蹤者的遺體。
-
----
-
-### 2026-06-01 00:50:55  #MKT News
-
-French President Macron said France will continue to support Lebanese authorities' efforts to restore state sovereignty and maintain territorial integrity.
-
----
-
-### 2026-06-01 00:50:48  #MKT News
-
-French President Macron said the recent serious escalation in southern Lebanon is unjustified.
-
----
-
-### 2026-06-01 00:50:26  #MKT News
-
-French President Macron said regional stability should begin with Lebanon; the most urgent priority is for all weapons to stop firing completely and for a permanent ceasefire.
-
----
-
-### 2026-06-01 00:49:44  #MKT News
-
-French President Macron said parties should continue talks to reach a comprehensive, durable agreement on remaining issues, notably the nuclear program, ballistic-missile program and regional stability.
-
----
-
-### 2026-06-01 00:49:35  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-French President Macron said the immediate priority is to reach a ceasefire agreement and to immediately reopen the Strait of Hormuz without preconditions and in accordance with international law.
-
----
-
-### 2026-06-01 00:49:01  #MKT News
-
-French President Macron said he spoke with the Saudi crown prince, the Sultan of Oman, the president of the UAE and the president of Egypt, telling them the same message that it is crucial for the U.S. and Iran to reach an agreement quickly and that the opportunity must be seized immediately.
-
----
-
-### 2026-06-01 00:48:37  #國際
-
-法國總統馬克龍：至於區域穩定，必須從黎巴嫩開始，那裡亟需徹底停止一切槍聲。目前黎巴嫩南部正在發生的嚴重衝突升級沒有任何正當理由。法國將繼續支援黎巴嫩當局為恢復國家主權和領土完整所做的努力。
-
----
-
-### 2026-06-01 00:48:29  #國際
-
-法國總統馬克龍：法國隨時準備發揮自身全部作用，包括協助恢復與英國共同建立的獨立多國特派團的海上交通，運用其專業知識和能力支援核問題磋商，並與近幾個月來法國一直協助其保護的夥伴國一道，為建立必要的區域安全框架做出貢獻。
-
----
-
-### 2026-06-01 00:48:21  #國際
-
-法國總統馬克龍：美國和伊朗必須儘快達成協議。我們必須抓住這個機會。當務之急是在沒有任何先決條件且符合國際法的前提下，立即達成停火協議並重新開放霍爾木茲海峽。之後，各方必須繼續就其他問題，特別是核計劃、彈道導彈計劃以及地區穩定等問題，達成全面而有力的協議。
-
----
-
-### 2026-06-01 00:48:04  #國際
-
-法國總統馬克龍：與沙烏地阿拉伯王儲穆罕默德·本·薩勒曼、阿曼蘇丹海賽姆·本·塔裡克、阿聯酋總統穆罕默德·本·扎耶德和埃及總統阿卜杜勒·法塔赫·塞西通了電話。
 
 ---
