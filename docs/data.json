@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-08 06:51:08",
-  "count": 19137,
+  "updated": "2026-06-08 06:54:51",
+  "count": 19140,
   "items": [
+    {
+      "id": "mkt:019ea44a-f4bc-7ee0-86d4-a2319eb990bd",
+      "time": "2026-06-08 06:53:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera, citing Israel’s Channel 12, reported Netanyahu tried to oppose Trump’s \"request not to retaliate against Iran\" on a call but ultimately accepted it."
+    },
+    {
+      "id": "4922340",
+      "time": "2026-06-08 06:53:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦訊息人士透露，美伊談判結果非此即彼，要麼迅速達成協議，要麼徹底破裂。"
+    },
+    {
+      "id": "te:markets:557028",
+      "time": "2026-06-08 06:53:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Start the Week Lower — The NZX 50 fell 204 points, or 1.6%, to 12,958 in Monday morning trading, halting gains from the previous session and touching its lowest level since May 22, tracking a downbeat session on Wall Street on Friday due to a steep selloff in semiconductor shares. Worries about the possibility of renewed tensions between the US and Iran also pressured sentiment after Iran struck Israel, though US President Trump called on Israeli Prime Minister Netanyahu not to retaliate against Iran. Traders also awaited the release of US inflation data and China's inflation and trade balance figures, as well as New Zealand business PMI data later this week. Industrials, financial, healthcare, and utilities stocks mainly weighed on the index, with notable losses from Auckland International Airport (-2.8%), Fletcher Building (-1.9%), Infratil (-1.8%), Mainfreight (-1.6%), and Ebos Group (-1.5%), while Fisher & Paykel Healthcare and Freightways Group each dropped 1.3%."
+    },
+    {
+      "id": "mkt:019ea449-9bf6-7ee0-86d4-9ef0b1c6c88c",
+      "time": "2026-06-08 06:52:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【This week: US and China CPI, ECB and BOC meetings; SpaceX IPO; Apple and Huawei developer events】Tuesday — China releases May trade balance; Germany posts April seasonally adjusted trade balance and monthly industrial output; US reports April trade balance, NFIB small-business survey, ADP payrolls and May existing-home sales. Apple WWDC runs through June 13. Wednesday — US releases May CPI; API and EIA weekly crude inventories and EIA short-term energy outlook due; China slated to publish May CPI, PPI and M2 (timing TBA). BOC interest-rate decision with governor and senior deputy governor press briefing. Oracle reports quarterly results. Thursday — US initial jobless claims and May PPI; EIA weekly natural gas inventory; US 10-year Treasury auction. ECB rate decision and press conference; OPEC monthly report. Friday — Germany and France release May CPI; UK posts April three‑month GDP, manufacturing output and industrial production. US preliminary 1‑year inflation expectation and University of Michigan consumer sentiment (prelim). Friday events: Huawei developer conference; SpaceX IPO on Nasdaq. Saturday — Baker Hughes US rig count for week to June 12."
+    },
+    {
+      "id": "4922339",
+      "time": "2026-06-08 06:51:25",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本一季度實際GDP終值、日本4月貿易帳；\n② 14:00 德國4月工廠訂單；\n③ 16:30 歐元區6月Sentix投資者信心指數；\n④ 23:00 美國5月紐約聯儲1年通脹預期。"
+    },
     {
       "id": "4922338",
       "time": "2026-06-08 06:45:03",
@@ -176483,22 +176540,6 @@
         "國際"
       ],
       "text": "【黃金小幅走低，美伊談判陷入僵局】黃金價格小幅回落，市場正等待美伊和平協議草案取得進展。該協議若達成，將重新開放霍爾木茲海峽，並緩解市場對通脹高企與利率上行的擔憂。本週伊始，金價交投於每盎司4535美元附近。儘管雙方持續進行外交磋商，但未見美國總統特朗普上週五暗示的“最終定論”跡象。與此同時，以色列對黎巴嫩發動了25年來規模最大的入侵行動，而伊朗在該地區最強大的盟友真主黨，則加大了對以色列北部的襲擊力度。"
-    },
-    {
-      "id": "4909130",
-      "time": "2026-06-01 06:51:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【戴爾推出售價699美元的XPS 13筆記本，對標蘋果MacBook Neo】戴爾公司當地時間週日釋出了旗下價格最低的XPS 13膝上型電腦。這家個人電腦廠商希望憑藉該產品吸引學生及年輕職場人群，從蘋果MacBook Neo手中搶奪市場份額。戴爾表示，這款XPS 13起售價為699美元；開學季期間，16歲及以上學生可享優惠價599美元。產品力求帶來優於MacBook Neo的使用體驗。在儲存晶片供應趨緊、市場對價格敏感度攀升的行業環境下，戴爾推出低價機型大舉進軍PC市場，此舉借鑑了蘋果的策略，意在進一步拓寬受眾範圍。據介紹，XPS 13是戴爾目前最輕薄的筆記本產品，重量比蘋果MacBook Neo輕約0.5磅，同時配備更大尺寸的螢幕。"
-    },
-    {
-      "id": "4909129",
-      "time": "2026-06-01 06:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【停火名存實亡 以軍擴大在黎巴嫩軍事行動 欲以“焦土”換安全】隨著以軍日前越過利塔尼河展開進攻，4月17日開始的黎以臨時停火已經名存實亡。以色列總理內塔尼亞胡5月31日下令擴大在黎軍事行動，同時尋求美國支援打擊貝魯特等地，並已就此與美方溝通。專家指出，以方正利用談判僵局，以“焦土政策”製造緩衝區，謀取更大安全利益。（央視新聞）"
     }
   ]
 }
