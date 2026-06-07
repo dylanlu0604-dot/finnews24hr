@@ -1,7 +1,197 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:25:03_
-_本檔包含 3923 則快訊，約 708839 字_
+_更新時間：2026-06-08 07:06:09_
+_本檔包含 3930 則快訊，約 708477 字_
+
+---
+
+### 2026-06-08 07:05:02  #國際
+
+【塔斯尼姆通訊社：伊朗擁有足夠數量的導彈 隨時可發射】半官方的塔斯尼姆通訊社援引軍方訊息人士的話報道，如果以色列採取報復行動，伊朗已準備好足夠數量的導彈，可隨時發射。訊息人士稱，伊朗下一波襲擊規模將更大，也將擴大到以色列境內的更多目標。如果以色列做出回應，伊朗已做好進入更大規模對抗的準備。
+
+---
+
+### 2026-06-08 07:04:01  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #000660.KS #Impact bullish #NVDA.O
+
+SK Hynix is co-developing next-generation memory with NVIDIA to supply global AI factories.
+
+---
+
+### 2026-06-08 07:03:36  #公司
+
+【科技“老登”重上AI牌桌 AI產業演進趨勢重新定價】近期，以戴爾、聯想集團為代表的公司“老樹發新芽”，不少傳統公司正重回行情與投資的“C位”，並頻頻現身權益類基金的核心重倉名單。有分析指出，科技“老登”重上AI牌桌，這絕非一次簡單的高低切炒作，而是機構投資者在深思熟慮後，對AI產業演進趨勢的重新定價。多位公募基金人士表示，隨著AI建設需求向更多細分領域深度轉移，科技投資正逐步從主題驅動轉向業績驅動。在這個去偽存真的過程中，擁有堅實基本面兌現能力、能切實受益於產業生態重塑的“老面孔”，正迎來中長期估值體系的系統性抬升。
+
+---
+
+### 2026-06-08 07:03:17  #其他
+
+SK Telecom將與英偉達合作構建人工智慧基礎設施。
+
+---
+
+### 2026-06-08 07:02:34  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Zelenskiy said he had briefed UK Prime Minister Starmer on key matters to protect Ukraine's energy infrastructure and prepare for winter.
+
+---
+
+### 2026-06-08 07:02:29  #國際
+
+澤連斯基在X平臺發文稱：已就保護能源基礎設施以及為冬季做準備的相關重點事項與斯塔默進行了溝通。
+
+---
+
+### 2026-06-08 07:02:22  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #000660.KS
+
+NVIDIA said SK Hynix will co-develop memory for its Vera Rubin, Vera CPU, RTX Spark and Jetson Thor products.
+
+---
+
+### 2026-06-08 07:02:06  #市場
+
+【機器人行業正加速從主題驅動轉向產業落地】近期，隨著宇樹科技快速過會、特斯拉Optimus量產臨近，以及“物理AI”推動的智慧化演進，機器人行業正加速從主題驅動轉向產業落地。在資本市場、產業進展與AI技術三重共振下，人形機器人行業熱度攀升。市場資料印證了這一趨勢：中證機器人指數近一年累計上漲36.85%，相關主題基金普遍獲得可觀收益，資金持續流入推動多隻ETF規模顯著擴張。多家公募機構對證券時報記者表示，隨著量產節奏逐步明確、供應鏈能力持續成熟以及AI大模型加速迭代，人形機器人行業正逐步從主題驅動邁向產業驅動，行業競爭焦點也開始從硬體本體向智慧化能力轉移。
+
+---
+
+### 2026-06-08 07:01:44  #MKT News #Important #NVDA.O #Impact bullish #000660.KS
+
+NVIDIA and SK Hynix to launch a multi-year technology collaboration to advance memory innovations for AI infrastructure, deepen HBM and custom memory development, and accelerate inference of trillion-parameter models.
+
+---
+
+### 2026-06-08 07:01:24  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA says SK Telecom will partner to build AI infrastructure and deepen cooperation to deploy GPU clusters, aiming to accelerate AI innovation in South Korea and support semiconductor manufacturing and digital-twin applications.
+
+---
+
+### 2026-06-08 07:00:59  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #035420.KS
+
+South Korea's Naver will adopt NVIDIA technology to build a gigawatt-scale AI factory to meet rising global demand for AI services and physical AI.
+
+---
+
+### 2026-06-08 07:00:52  #其他 #焦點
+
+英偉達與SK海力士宣佈達成多年技術合作關係，共同升級人工智慧工廠的儲存技術。
+
+---
+
+### 2026-06-08 06:59:53  #國際
+
+【伊朗稱對以色列發起防禦性打擊】當地時間6月7日晚，北京時間今天（6月8日）凌晨，伊朗向以色列發射三波導彈。以色列北部城市海法等多地拉響防空警報，並傳出爆炸聲。伊朗外交部最新發表關於“對以色列目標進行防禦性打擊”的宣告。宣告指出，鑑於以色列屢次違反停火協議，並對黎巴嫩和伊朗採取侵略行動，包括與美國一起在過去兩週內襲擊伊朗南部地區的船隻和目標、對伊朗進行海上劫掠，伊朗武裝部隊於當地時間6月7日晚，對以色列北部多個軍事目標進行了打擊。伊朗強調將堅決捍衛國家安全和國家利益。美國應對以色列違反停火協議及造成的後果，以及該地區緊張局勢的升級負有直接責任。伊朗警告稱，以色列任何對伊朗和黎巴嫩的冒險行為都將遭到伊朗武裝部隊的全面回擊。（CCTV國際時訊）
+
+---
+
+### 2026-06-08 06:59:12  #國際
+
+日本放送協會民調：高市內閣支援率下降4.2個百分點，降至70%。
+
+---
+
+### 2026-06-08 06:57:47  #國際
+
+市場資訊：以色列總理內塔尼亞胡在與特朗普的通話中試圖反對“不對伊朗進行報復的要求”，但最終還是接受了。
+
+---
+
+### 2026-06-08 06:55:17  #MKT News
+
+Zelenskiy said he has informed British Prime Minister Starmer of the need to increase missiles for Ukraine’s air-defense systems.
+
+---
+
+### 2026-06-08 06:54:48  #國際
+
+烏克蘭總統澤連斯基：我已告知英國首相斯塔默，烏克蘭需要增購防空系統所用導彈。
+
+---
+
+### 2026-06-08 06:53:56  #MKT News #Important
+
+Al Jazeera, citing Israel’s Channel 12, reported Netanyahu tried to oppose Trump’s "request not to retaliate against Iran" on a call but ultimately accepted it.
+
+---
+
+### 2026-06-08 06:53:19  #其他
+
+巴基斯坦訊息人士透露，美伊談判結果非此即彼，要麼迅速達成協議，要麼徹底破裂。
+
+---
+
+### 2026-06-08 06:53:17  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Start the Week Lower — The NZX 50 fell 204 points, or 1.6%, to 12,958 in Monday morning trading, halting gains from the previous session and touching its lowest level since May 22, tracking a downbeat session on Wall Street on Friday due to a steep selloff in semiconductor shares. Worries about the possibility of renewed tensions between the US and Iran also pressured sentiment after Iran struck Israel, though US President Trump called on Israeli Prime Minister Netanyahu not to retaliate against Iran. Traders also awaited the release of US inflation data and China's inflation and trade balance figures, as well as New Zealand business PMI data later this week. Industrials, financial, healthcare, and utilities stocks mainly weighed on the index, with notable losses from Auckland International Airport (-2.8%), Fletcher Building (-1.9%), Infratil (-1.8%), Mainfreight (-1.6%), and Ebos Group (-1.5%), while Fisher & Paykel Healthcare and Freightways Group each dropped 1.3%.
+
+---
+
+### 2026-06-08 06:52:27  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
+
+【This week: US and China CPI, ECB and BOC meetings; SpaceX IPO; Apple and Huawei developer events】Tuesday — China releases May trade balance; Germany posts April seasonally adjusted trade balance and monthly industrial output; US reports April trade balance, NFIB small-business survey, ADP payrolls and May existing-home sales. Apple WWDC runs through June 13. Wednesday — US releases May CPI; API and EIA weekly crude inventories and EIA short-term energy outlook due; China slated to publish May CPI, PPI and M2 (timing TBA). BOC interest-rate decision with governor and senior deputy governor press briefing. Oracle reports quarterly results. Thursday — US initial jobless claims and May PPI; EIA weekly natural gas inventory; US 10-year Treasury auction. ECB rate decision and press conference; OPEC monthly report. Friday — Germany and France release May CPI; UK posts April three‑month GDP, manufacturing output and industrial production. US preliminary 1‑year inflation expectation and University of Michigan consumer sentiment (prelim). Friday events: Huawei developer conference; SpaceX IPO on Nasdaq. Saturday — Baker Hughes US rig count for week to June 12.
+
+---
+
+### 2026-06-08 06:51:25  #央行 #資料 #國際
+
+【週一重要財經資訊提醒（以下均為北京時間）】 
+① 07:50 日本一季度實際GDP終值、日本4月貿易帳；
+② 14:00 德國4月工廠訂單；
+③ 16:30 歐元區6月Sentix投資者信心指數；
+④ 23:00 美國5月紐約聯儲1年通脹預期。
+
+---
+
+### 2026-06-08 06:45:03  #國際
+
+伊朗表示，其針對以色列目標的防禦性打擊屬於《聯合國憲章》規定的合法自衛行為。
+
+---
+
+### 2026-06-08 06:41:36  #公司
+
+OpenAI執行長奧特曼表示，在企業普遍收緊預算的背景下，企業端人工智慧token使用量大幅激增。
+
+---
+
+### 2026-06-08 06:37:08  #國際
+
+訊息人士：美國要求以色列暫緩行動數日，為達成協議留出空間；若談判破裂，雙方將執行聯合行動方案。
+
+---
+
+### 2026-06-08 06:36:43  #國際
+
+以色列媒體：以色列或推遲數日發動打擊，不會在今晚採取行動，原因是遭到特朗普反對。
+
+---
+
+### 2026-06-08 06:36:11  #國際
+
+葉門胡塞武裝宣稱，以色列的侵略時代已然終結，並表示該政權只認同武力。
+
+---
+
+### 2026-06-08 06:30:39  #其他
+
+中國駐沙特大使館：提醒在沙特中國公民注意安全。
+
+---
+
+### 2026-06-08 06:30:01  #MKT News
+
+【Zelenskiy confirms meeting with Russian businessman Abramovich】Ukrainian President Zelenskiy said on the 7th he met Russian businessman Roman Abramovich and disclosed details: Abramovich traveled to Kyiv to deliver messages and to gather Ukrainian positions and demands to relay to Russian President Putin as an intermediary. Zelenskiy added Abramovich had preferred the meeting remain private.
+
+---
+
+### 2026-06-08 06:27:39  #國際
+
+【澤連斯基證實曾與俄商人阿布拉莫維奇會面】當地時間7日，烏克蘭總統澤連斯基在接受採訪時，證實自己曾與俄羅斯商界人士阿布拉莫維奇會面，並公開了此次會面的相關細節。澤連斯基透露，阿布拉莫維奇曾專程前往基輔，向他轉達訊息，並希望收集烏方立場與訴求，再代為轉交俄羅斯總統普京，充當雙方溝通傳話的中間人。此外他補充表示，阿布拉莫維奇本人此前並不希望此次雙邊會面的相關事宜對外公開。（央視新聞）
+
+---
+
+### 2026-06-08 06:24:54  #市場 #焦點 #國際
+
+【受特朗普表態訊息影響，原油漲幅有所收窄】特朗普稱，伊朗襲擊以色列不會影響雙方達成協議的程序，此後WTI原油、布倫特原油期貨小幅回落。布倫特原油此前一度觸及每桶96.47美元，現漲幅為2.7%，報約95.50美元/桶。標普500股指期貨跌幅收窄至0.1%，此前最大跌幅達0.6%。
 
 ---
 
@@ -23560,149 +23750,5 @@ Turkey Producer Inflation Hits 1-½ Year High — The annual producer inflation 
 ### 2026-06-05 15:23:14  #MKT News #Important #Market Themes #AI Revolution
 
 【CHINA: AI not the preserve of major powers, should not slide into competitive confrontation】At a June 5 regular press briefing CHINA said artificial intelligence is profoundly reshaping production and daily life and represents a shared global challenge; it is not the preserve of major powers and should not slide into competitive confrontation. China said it will host in July the 2026 World Artificial Intelligence Conference and the High-Level Meeting on Global AI Governance in Shanghai, aiming to deepen dialogue, strengthen global AI governance and promote AI for the benefit of all humanity.
-
----
-
-### 2026-06-05 15:22:46  #MKT News #Market Themes
-
-Reserve Bank of India governor said discussions are ongoing about access to the Claude MYTHOS model.
-
----
-
-### 2026-06-05 15:22:39  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
-
-US Economy Likely Added 85K Jobs in May — The US economy is expected to have added 85,000 jobs in May 2026, marking a modest slowdown after two consecutive months of job gains exceeding 100,000. The unemployment rate is forecast to remain unchanged at 4.3%. Average hourly earnings are projected to rise 0.3% month-over-month, accelerating slightly from April’s 0.2% increase. On an annual basis, however, wage growth is expected to ease to 3.4% from 3.6%. The May report is expected to continue to reflect a resilient labour market, with the prevailing low-hire, low-fire dynamic remaining firmly in place, although some analysts suggest that such dynamic may be changing.
-
----
-
-### 2026-06-05 15:22:27  #國際
-
-【外交部回應烏拉圭對華免籤】6月5日，外交部發言人毛寧主持例行記者會。 據新華社報道，烏拉圭外交部長盧貝特金4日宣佈，這一南美國家將對中國公民免籤。有外媒記者在會上就此事提問，中方是否期望此舉能進一步促進兩國人民在各領域的交流與合作？ 對此，毛寧表示：“中國和烏拉圭提升人員往來便利化水平，有利於兩國人民增進理解，促進交流與合作。” （北青報）
-
----
-
-### 2026-06-05 15:22:04  #公司 #市場
-
-【遠東股份年內累計漲幅超250%】6月5日，遠東股份(600869)收盤上漲7.58%，收盤價報28.51元/股，創歷史新高（前復權），年內累計漲幅達254.16%。
-
----
-
-### 2026-06-05 15:21:10  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
-
-France Forex Reserves Fall Further — France’s official reserve assets declined further to €381.30 billion at the end of May 2026 from €386.90 billion in April. This was the smallest amount since December 2025, amid decreases in gold reserves (€304.84 billion vs €310.09 billion in April), foreign currency reserves (€31.15 billion vs €31.65 billion), and other reserve assets (€6.46 billion vs €6.47 billion). Meanwhile, claims on the IMF rose to €38.85 billion from €38.68 billion in the previous month. In May 2025, total reserve assets stood at €304.61 billion.
-
----
-
-### 2026-06-05 15:21:03  #Trading Economics #Economy #Turkey #Inflation Rate #Importance 1
-
-Turkey Inflation Rate at 7-Month High — The annual inflation rate rose to 32.61% in May 2026 from 32.37% in the previous month, exceeding market expectations of 32.5%. It marked the highest reading since October 2025, as prices continued to be weighed down by the energy shock stemming from Middle East tensions. Reflecting heightened uncertainty, the central bank recently suspended its year-end inflation forecast range, citing "a period of high uncertainty," while maintaining a year-end inflation target of 24%. The central bank also tightened liquidity conditions by suspending funding through its main policy rate and shifting to the more expensive overnight lending rate of 40%. Price pressures intensified for food and non-alcoholic beverages (34.86% vs 34.55% in April), while inflation eased slightly for housing (45.59% vs 46.6%) and transport (34.29% vs 35.06%). On a monthly basis, consumer prices rose by 1.71%, slowing sharply from 4.18% in April and marking the weakest monthly increase since December 2025.
-
----
-
-### 2026-06-05 15:20:54  #國際
-
-印度儲備銀行行長馬爾霍特拉：關於接入Claude 3 Opus的討論仍在進行中。
-
----
-
-### 2026-06-05 15:20:38  #其他
-
-【賓士純電GLC預售價公佈：34.9萬起】6月5日，梅賽德斯-賓士宣佈，賓士純電GLC五座高配鎏金版開啟預售，預售價格34.9萬元起。
-
----
-
-### 2026-06-05 15:20:10  #MKT News #XAUUSD #Impact bearish
-
-【Analyst: COMEX gold futures technicals remain bearish】RHB analyst Joseph Chai says daily-chart technicals for COMEX gold futures remain bearish. A recent bullish candlestick shows a minor pause in selling pressure, but the overall bias is still to the downside. Futures prices remain below the 20-day and 50-day simple moving averages.
-
----
-
-### 2026-06-05 15:20:00  #MKT News #Important #Market Regions #Greater China
-
-China's Foreign Ministry said top party and state leaders of China and North Korea will exchange views on bilateral relations and issues of mutual concern.
-
----
-
-### 2026-06-05 15:19:56  #行業 #焦點 #國際
-
-【外交部回應西媒稱AI中美爭霸】6月5日，外交部發言人毛寧主持例行記者會。 有記者提問，我們注意到，近期西方媒體有觀點認為，全球AI競賽進入了“中美爭霸”，或將加劇科技領域的陣營對抗。同時，中美科技企業在通用大模型機器人等領域最近也落地了多個合作專案，不少業界人士呼籲兩國在AI方面開展合作。請問中方如何看待上述動向？ 毛寧表示，人工智慧正在深刻改變生產生活方式，是人類需要共同面對的新課題。人工智慧不是大國的專利，更不應滑向競爭對抗。中方始終堅持人工智慧以人為本、開放包容。我們提出全球人工智慧治理倡議，連續8年舉行世界人工智慧大會，倡議成立世界人工智慧合作組織，核心就是透過對話凝聚共識、深化合作，打造開放、平等、公平、非歧視的人工智慧發展環境。 今年7月，中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待以本次大會為契機，同各方深入交流對話，加強人工智慧全球治理，推動人工智慧服務全人類。（北青報）
-
----
-
-### 2026-06-05 15:19:24  #國際
-
-【外交部：中朝兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見】6月5日，外交部發言人毛寧主持例行記者會。日本廣播協會（NHK）提問，中方今天釋出了習近平主席訪問朝鮮的訊息，請問外交部能否分享具體日程安排？中朝首腦會談及什麼話題？中方對此訪問有何期待？毛寧介紹，此次訪問是習近平總書記時隔7年再次對朝鮮進行國事訪問。訪問期間，兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見。毛寧表示，近年來在習近平總書記和金正恩總書記的戰略引領下，中朝傳統友好合作關係持續健康穩定發展，為兩國和兩國人民帶來實實在在的利益。今年是《中朝友好合作互助條約》簽訂65週年，雙方將以此訪為契機，推動中朝關係與時俱進，取得更大發展，增進兩國人民的福祉，為地區乃至世界的和平穩定和發展繁榮作出更大的貢獻。“訪問的具體情況，我們會及時釋出訊息，你可以保持關注。”毛寧說。（澎湃新聞）
-
----
-
-### 2026-06-05 15:19:15  #國際
-
-【黃巖島有一不明結構物消失？外交部：中國在島上開展活動是主權國家正當權利】6月5日，外交部發言人毛寧主持例行記者會。路透社記者提問，昨天路透社報道稱，衛星影象顯示黃巖島的一個不明結構物消失了，外交部能否提供更多資訊？對此，毛寧表示：“黃巖島是中國的固有領土，中國對黃巖島及其附近海域擁有無可爭辯的主權。中國在黃巖島開展包括科考在內的任何活動，都是主權國家的正當權利。”（澎湃新聞）
-
----
-
-### 2026-06-05 15:18:38  #央行 #國際
-
-印度央行行長馬爾霍特拉：我們將推進實施銀行自營交易貸款相關規則。
-
----
-
-### 2026-06-05 15:18:27  #市場 #觀點
-
-【報告：紐商所黃金期貨的看跌技術形態依然完好】RHB Retail Research的Joseph Chai在一份報告中表示，根據日線圖，紐商所黃金期貨的看跌技術形態看起來依然完好。該分析師表示，儘管最新的看漲K線形態表明拋售壓力正在“稍作喘息“，但整體技術形態依然看跌。Chai指出，該期貨仍低於20日和50日簡單移動平均線。該分析師補充說，預計該大宗商品的最近支撐位在每盎司4,400美元，而初步阻力位在每盎司4,650美元。現貨黃金下跌0.4%，報每盎司4,457.36美元。
-
----
-
-### 2026-06-05 15:18:09  #公司
-
-【愛彼迎CEO計劃創辦一家新的人工智慧公司】據多位知情人士稱，愛彼迎執行長Brian Chesky正在籌建一家新的人工智慧(AI)實驗室，這標誌著他首次涉足全球AI競賽。知情人士表示，Chesky計劃創辦一家AI公司以開發人工智慧模型，並正在考慮將重點放在使用者互動和設計上。由於相關資訊未公開，知情人士不願具名。其中一位知情人士稱，他目前正處於為該實驗室融資的早期階段，具體細節仍可能發生變化。Chesky和愛彼迎的代表均未予置評。
-
----
-
-### 2026-06-05 15:17:34  #MKT News
-
-【Israeli airstrikes on Tyre in southern Lebanon kill seven】Lebanese Civil Defense said on the morning of the 5th (local time) that Israeli Defense Forces airstrikes on Tyre between the night of the 4th and early hours of the 5th killed seven.
-
----
-
-### 2026-06-05 15:16:48  #國際
-
-【以軍襲擊黎南部城市提爾 致7人死亡】黎巴嫩民防部門當地時間5日上午宣佈，4日晚至5日凌晨以色列國防軍空襲黎巴嫩南部城市提爾，造成7人死亡。（央視新聞）
-
----
-
-### 2026-06-05 15:16:13  #MKT News
-
-【China government bond futures midday close】Midday close: China government bond futures main contracts — 2-year TS down 0.01%, 5-year TF down 0.02%, 10-year T down 0.05%, 30-year TL down 0.27%.
-
----
-
-### 2026-06-05 15:16:04  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.77% Lower — The Shangai Composite Index fell 31 points or 0.77 percent on Friday to close at 4026 points. Leading the losses are Datang Intl (-9.31%), Zhejiang Zheneng (-4.17%) and Huaneng (-4.00%). Top gainers were Shanghai Petrochemical (4.73%), China International (3.71%) and Sany Heavy Industry (2.81%).
-
----
-
-### 2026-06-05 15:15:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-A local governor said Russian strikes on Ukraine's Kyiv region killed four people.
-
----
-
-### 2026-06-05 15:15:10  #市場 #國際
-
-印度Sensex指數轉跌，當前跌幅0.1%，報74311.31點。
-
----
-
-### 2026-06-05 15:15:03  #市場
-
-【國債期貨收盤】 30年期主力合約跌0.27%， 10年期主力合約跌0.05%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-06-05 15:14:59  #公司
-
-【姚順雨入職半年，騰訊高管：他對於元寶和混元帶來了巨大價值】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生現場回應了騰訊為什麼會選擇姚順雨，以及姚順雨入職半年來對騰訊AI帶來了哪些改變？湯道生表示，“他在這個領域是很有影響力的專家，在他來之前我們溝通也充分感受到了他的專業，確實是對於AI的認知跟我們過去很多不一樣，他的到來對於元寶和混元帶來了巨大的價值。”湯道生透露，“其實我們之前訓練的很多資料是不夠高質量的，所以他到來之後早期做了很多工作，就是把資料質量提質，包括砍掉很多貌似可以堆量的，但實際對模型沒有太大幫助的（資料），很多的決策就會做得更加到位，他做了很多化繁為簡的事情，元寶和混元過去半年的進展比過去更長的時間進步了更多，毫無疑問他（姚順雨）有非常大的功勞。”（新浪科技）
 
 ---

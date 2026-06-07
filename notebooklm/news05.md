@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:25:03_
-_本檔包含 3603 則快訊，約 708744 字_
+_更新時間：2026-06-08 07:06:09_
+_本檔包含 3604 則快訊，約 708065 字_
+
+---
+
+### 2026-06-02 08:39:04  #其他
+
+【我國全面進入汛期 】從6月1日開始，我國已全面進入汛期，南方地區進入主汛期。今年以來，我國降雨和水情呈現出一些新特點。從今年以來的雨量距平分佈圖上能看出降水時空分佈不均。今年以來，全國面平均降水量較常年同期偏多2%，深藍色的地區是降水量偏多100%以上的區域，主要分佈在東北、華北、長江流域等。今年超警河流的分佈主要集中在長江流域和珠江流域。入汛以來，共有18省（自治區、直轄市）146條河流發生超警以上洪水，其中大部分為中小河流，較常年同期（104條）偏多4成。
+
+---
+
+### 2026-06-02 08:38:56  #MKT News #Market Regions #Japan & APAC #WTI #Impact mixed
+
+Japan's finance minister Katayama said oil-market volatility remains elevated and the government stands ready to take appropriate measures.
+
+---
+
+### 2026-06-02 08:38:56  #MKT News
+
+【Heat coverage peaks today; new southern rainband incoming】June 2-3: strong convective storms expected across parts of the Northeast and Inner Mongolia. A new southern rain episode will begin, with heavy rain in eastern Southwest China and secondary-risk of landslides. Heat is expanding: today's high-temperature coverage will be the largest in the recent period, with local northern highs up to 39°C. South China will remain hot and humid early this week; Hainan to see sustained high temperatures.
+
+---
+
+### 2026-06-02 08:38:40  #其他
+
+【高溫範圍今日將達近期最大 南方新一輪降水將上線】今明天（6月2日至3日），東北及內蒙古多地仍有強對流天氣，南方新一輪降雨過程也將上線，西南地區東部等地雨勢較強，需警惕山體滑坡等次生災害的發生。同時，高溫也在發展，今天高溫範圍將達近期最大，北方局地最高氣溫可達39℃；華南本週前期悶熱不下線，海南多地將現持續性高溫，需注意防暑。
+
+---
+
+### 2026-06-02 08:38:38  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Ease From Record Levels — The Nikkei 225 Index declined 0.6% to around 66,500, while the broader Topix Index dropped 0.7% to 3,913 on Tuesday, as Japanese equities pulled back modestly from record highs amid ongoing geopolitical uncertainty. Reports indicated that Tehran had suspended talks with Washington in response to Israeli strikes in Lebanon, although President Donald Trump stated that negotiations remain underway. Domestically, markets are pricing in roughly a 78% probability that the Bank of Japan will raise interest rates again later this month as inflationary pressures linked to the Middle East conflict continue to build. Among individual stocks, notable decliners included Taiyo Yuden (-4.6%), Fujikura (-2.5%), Furukawa Electric (-2.0%), Mitsubishi Heavy Industries (-4.8%), and Toyota Motor (-2.8%). Meanwhile, SoftBank Group surged another 5%, extending gains after a technology-led rally on Wall Street sparked by the launch of a new PC chip.
+
+---
+
+### 2026-06-02 08:38:29  #國際
+
+【烏克蘭基輔遭襲已致4人受傷】當地時間6月2日，烏克蘭首都基輔市市長克利奇科通報稱，基輔遭襲事件已造成4人受傷，其中3人被送往醫院治療，1人在門診接受醫療救助。
+
+---
+
+### 2026-06-02 08:37:49  #國際
+
+日本財務大臣片山：我們已就外匯問題制定了既定警示措辭，改動這些措辭可能會令市場產生困惑。
+
+---
+
+### 2026-06-02 08:37:34  #國際
+
+日本財務大臣片山皐月：油市依然波動，已準備好採取適當行動。
+
+---
+
+### 2026-06-02 08:37:13  #國際
+
+日本財務大臣片山皐月：如有必要，將在外匯市場採取適當行動。對匯率不再評論。
+
+---
+
+### 2026-06-02 08:36:49  #國際
+
+日本財務大臣片山皐月：正就外匯問題與美國保持密切協調，雙方正密切監控市場走勢。
+
+---
+
+### 2026-06-02 08:35:20  #Trading Economics #Economy #Malaysia #Manufacturing PMI #Importance 2
+
+Malaysia Manufacturing Shrinks for 1st Time in 3 Months — Malaysia’s S&P Global Manufacturing PMI declined to 49.0 in May 2026 from April’s four-year high of 51.6, marking the first contraction since February. The latest reading was also the lowest in three months, as new orders and output eased amid subdued demand. Meanwhile, new export orders softened for a third consecutive month and at the sharpest rate since last October. In response to moderated output, firms paused hiring, while purchasing activity increased for the second consecutive month. The increase was driven by efforts to hedge against expected raw material price hikes and to build buffer stocks amid the ongoing conflict in the Middle East. On the price front, input costs rose, driven by higher raw material and fuel prices, although inflation eased from April's recent peak. Meanwhile, output price inflation also eased as firms sought to remain competitive. Lastly, business confidence improved for the first time in four months, reaching its highest level since February.
+
+---
+
+### 2026-06-02 08:35:05  #市場 #國際
+
+韓國股市早盤波動劇烈，首爾綜合股價指數現漲0.25%，此前從上漲1.7%快速下跌，一度跌逾3%。
+
+---
+
+### 2026-06-02 08:34:32  #市場
+
+【銀河證券：旺季與世界盃共振 看好精釀啤酒與區域品牌擴張】銀河證券研報稱，啤酒板塊經營具備韌性，看好啤酒行業順價能力，目前鋁罐價格同比漲幅明顯，大麥與玻璃亦小幅上漲，預計2026年下半年漲價趨勢延續，但啤酒行業可透過品類結構最佳化、減促降費等措施對沖，參考2017年以來成本上漲週期，啤酒行業均實現盈利能力穩中有升。短期關注旺季與世界盃催化，一方面6—8月全國天氣炎熱利好啤酒消費，另一方面世界盃將於6—7月舉行，二者共振有望帶動餐飲、自飲等場景修復。看好具備超額收益的細分方向：①精釀啤酒，行業正處於高速成長期，細分品類龍頭金星啤酒憑藉差異化產品與靈活的渠道策略，有望充分享受賽道擴容紅利；②區域品牌擴張，關注惠泉啤酒，有望受益於福建市場競爭格局鬆動、內部管理層煥新以及1983大單品放量，具備份額提升與盈利改善的雙重邏輯。
+
+---
+
+### 2026-06-02 08:33:37  #MKT News #Important
+
+South Korea's KOSPI swung sharply, erasing a 3% decline to move into positive territory.
+
+---
+
+### 2026-06-02 08:31:17  #市場
+
+【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少37.99噸】截至2026年06月01日，全球最大的白銀ETF iShares Silver Trust持倉量為15080.70噸，較前一個交易日減少37.99噸。
+
+---
+
+### 2026-06-02 08:30:31  #公司 #國際
+
+【德銀： 美元將成為未來人工智慧收入流的主要受益者 】德意志銀行貨幣策略師George Saravelos等人表示，美元將成為未來人工智慧收入流的主要受益者；美元“目前僅受到人工智慧資本支出熱潮的適度支撐”，但“美國科技公司的主導地位表明，它們將從未來的資本支出中獲得豐厚利潤”。
+
+---
+
+### 2026-06-02 08:29:25  #觀點
+
+【中信建投：算力等高頻高速需求快速增長 電子級PTFE有望大規模應用】中信建投證券研報稱，PTFE材料因其主要特性包括優異的熱穩定性、耐化學性、介電效能被稱為“塑膠王”。PTFE下游軍工+伺服器高速線纜+高速板三大需求均有望高速增長，隨著英偉達新一代伺服器Rubin ultra量產節點臨近，產業內積極討論使用PTFE材料作為正交背板的可能性，國內生益科技配合積極做驗證。研報認為隨著算力基建等引領的高頻高速傳輸需求的持續增長，PTFE的下游領域有望被重新定義。
+
+---
+
+### 2026-06-02 08:29:23  #市場 #央行 #國際
+
+【受AI熱浪及避險資金流推動 交易員對美元進一步上漲的押注升溫】交易員押注美元將在未來幾周走強，主要得益於美伊談判的持續不確定性以及AI交易帶動的股市上漲。美元指數上個月走強，因美伊和平談判未能朝著結束戰爭方向取得任何明顯的進展。美元漲勢反映了衝突帶來的連鎖反應，重新給了投資者將資金流向美國的理由，因為油價衝擊推高債券收益率，投資者在為美聯儲轉向加息做準備。在伊朗表示將暫停談判以抗議以色列在黎巴嫩的軍事行動後，美元指數週一再度上漲0.3%，但隨著特朗普聲稱談判正在取得進展，美元漲幅受到抑制。此外，美國經濟資料也在週一早盤對美元構成支撐。報告顯示，美國製造業活動5月份增速創四年來最快，這加劇了人們對美聯儲可能最早在今年年底開始加息的猜測。
+
+---
+
+### 2026-06-02 08:28:26  #市場
+
+【深圳住宅網籤時隔14個月再破萬套：多個新盤“日光”，二手房成交價重回“6字頭”】“429新政”落地後，深圳樓市回暖節奏進一步加快。6月1日，樂有家研究中心監測資料顯示，2026年5月，深圳全市一二手房合計網籤13348套，環比增長6%，同比上漲28%。其中，新房市場表現亮眼，一手房合計網籤6651套，環比增長21%，同比增長36%；二手房網籤成交6697套，環比下跌6%，同比上漲21%。以住宅口徑統計，全市一二手住宅合計網籤10077套，這是自2025年4月以來，時隔14個月該資料再度突破1萬套大關，環比大幅上漲28%創下新高，市場活躍度回升至近年來的高位水平。以位於深圳光明的龍湖·觀萃苑專案為例，該專案5月3日首開92套，以“認籌數超1000組、40分鐘售罄”的成績成為深圳新政後首個“日光碟”。隨後專案於5月16日加推92套，再次實現即開即罄。樂有家研究中心資料顯示，5月，深圳二手成交均價6.08萬元/平方米，環比上漲5%，房價重回“6字頭”。（澎湃）
+
+---
+
+### 2026-06-02 08:26:28  #MKT News
+
+【Iran releases IRGC naval patrol footage from Strait of Hormuz】On June 1 local time Iranian state TV released footage of IRGC Navy patrols in the Strait of Hormuz. Tehran said these day-and-night operations are routine; fast boats are tasked with guiding and directing vessels and intercepting any ship that violates or ignores warnings.
+
+---
+
+### 2026-06-02 08:26:18  #國際
+
+韓國市值突破5萬億美元，超越印度，位列全球第六。
+
+---
+
+### 2026-06-02 08:26:04  #市場 #焦點
+
+現貨黃金突破4490美元/盎司，日內漲0.12%。
+
+---
+
+### 2026-06-02 08:25:57  #市場 #焦點
+
+紐約期金突破4520美元/盎司，日內漲0.30%。
+
+---
+
+### 2026-06-02 08:25:25  #國際
+
+【伊朗公佈革命衛隊海軍在霍爾木茲海峽巡邏畫面】當地時間6月1日，伊朗國家電視臺公佈一段伊朗伊斯蘭革命衛隊海軍近期在霍爾木茲海峽巡邏的影片。伊朗方面訊息稱，此類行動晝夜不停地進行，屬於例行行動。這些快艇的任務是引導和指揮航行船隻，並對任何違反或無視警告的船隻實施攔截。伊朗最高領袖軍事顧問穆赫辛·雷扎伊6月1日在社交媒體發文說，伊朗武裝力量在維護國家安全和地區利益問題上“耐心有限”。雷扎伊重申，霍爾木茲海峽目前處於伊朗管理之下。伊朗不會允許海上封鎖持續下去，也不會容忍黎巴嫩局勢進一步升級。
+
+---
+
+### 2026-06-02 08:25:09  #國際
+
+【媒體：日本考慮於2027年4月實施為期兩年消費稅調降措施】媒體引述一位匿名政府高官報導表示，日本正考慮從明年4月起，對食品銷售適用的8%稅率實施為期兩年的減稅措施。報道表示，這樣的時程將使首相高市早苗的政府能在預定2027年4月舉行的地方選舉前推動減稅政策。為避免調整收銀系統識別零稅率所需的漫長時間，消費稅稅率可能降至1%，而非最初計劃的0%。首相官邸暫未對此置評。日本目前對食品徵收8%消費稅、對其他商品和服務徵收10%的稅率。這些稅收是因應人口快速老齡化而上升的社會福利支出的重要資金來源。
+
+---
+
+### 2026-06-02 08:24:23  #觀點
+
+【摩根士丹利：澳大利亞銀行估值乘數料將繼續下降】摩根士丹利分析師警告稱，澳大利亞銀行的估值乘數似乎料將繼續下降。他們觀察到，截至5月底，澳洲聯邦銀行、西太平洋銀行、澳大利亞國民銀行和澳新銀行這四大銀行的平均乘數降至12個月遠期收益的18.5倍，較一個月前的19.2倍有所下降。他們告訴客戶，由於利率上升、經濟放緩以及與房地產相關的稅收優惠政策變化對信貸需求的影響，預計估值將進一步下調。他們補充說，西太平洋銀行和澳大利亞國民銀行在短期內看起來最脆弱。鑑於這些挑戰，這些摩根士丹利分析師在行業層面上對銀行業持謹慎態度。
+
+---
+
+### 2026-06-02 08:23:36  #公司
+
+eBay發言人： eBay已迅速下架所有違反公司產品安全規範的在售商品，其中包含被永久禁售的小型高強磁鐵相關貨品。
+
+---
+
+### 2026-06-02 08:22:18  #其他
+
+【加州大學教授聯名“上書”，呼籲校方恢復SAT要求】加州大學(University of California)逾1,100名數學和科學教授正敦促該校董事會恢復大學入學考試。他們認為，準備不足的學生正在拉低學術標準，並消耗教學資源。這項請求寫在一封兩頁長的信中，於上週遞交。信中指出，學習科學、技術、工程和數學相關學科的學生，其準備程度明顯下降。信中說，在加州大學伯克利分校(UC Berkeley)修讀第一學期微積分的學生中，近三分之一“表現出嚴重的準備不足”。“如今我們看到，學生的準備差距如此嚴重，以至於教師不得不一邊重講初中數學，一邊教授學生在科學、工程、經濟學及其他對數量能力要求較高領域所需的內容”，這些教師在信中寫道。“加州大學的資源有限，只能幫助有限數量的學生。”
+
+---
+
+### 2026-06-02 08:21:17  #其他
+
+eBay發言人：在與澳大利亞競爭與消費者委員會溝通接洽後，我方已對平臺上小尺寸強力磁鐵相關商品上架資訊開展核查。
+
+---
+
+### 2026-06-02 08:20:17  #公司
+
+【沽空機構Citron創始人被判犯有證券欺詐罪】經過具有里程碑意義的審判，沽空機構Citron Research創始人Andrew Left被聯邦陪審團裁定犯有證券欺詐罪，其透過社交媒體影響股票價格的行為遭到重點審視。經過三週庭審和兩日陪審團審議，這項裁決於週一在洛杉磯作出。Left被控透過釋出涉及數十家公司具有強烈衝擊力的推文，非法影響相關股票走勢並迅速牟利。檢方表示，2018年至2023年期間，Left透過此類交易獲利約2,000萬美元。
+
+---
+
+### 2026-06-02 08:19:30  #市場 #國際
+
+【日經指數下跌0.4%，受汽車和化工股拖累】日本股市下跌，受伊朗戰爭引發的經濟不確定性拖累。汽車和化工股領跌。豐田汽車下跌2.9%，信越化學下跌4.1%。投資者正關注中東局勢的發展及其對能源和石化產品供應的影響。日經指數下跌0.4%，至66,648.93點。
+
+---
+
+### 2026-06-02 08:17:50  #國際
+
+烏克蘭首都基輔遭無人機襲擊。
+
+---
+
+### 2026-06-02 08:17:28  #市場
+
+【華西證券：關注電子銅箔國產化以及鋰電銅箔進入漲價週期機遇】華西證券研報表示，隨著AI技術要求升級，高階電子銅箔進入放量週期，隨著產品驗證、產能佈局的持續推進，國內廠商抓住國產化機遇，有望於今年開始進入量利雙升階段。此外，銅箔重資產屬性+現金流佔用較大，導致產能擴張有限。隨著國內鋰電池產業鏈即將進入下半年的傳統旺季，需求上行疊加產能供應緊張，電子銅箔佔用產能進一步加劇產能緊張程度，推動鋰電銅箔價格有望實現持續的上漲。在電子銅箔高盈利優勢+加工費上漲+鋰電銅箔極薄產品佔比提升的共振下，銅箔廠商盈利能力有望增強。
+
+---
+
+### 2026-06-02 08:17:06  #市場 #觀點
+
+【金價小幅走低 黃金似乎受困於兩種強大的敘事之間】早盤交易中金價小幅走低。現貨黃金下跌0.1%，報每盎司4,478.72美元。FOREX.com市場分析師Fawad Razaqzada在評論中表示，這種貴金屬似乎受困於兩種強大的敘事之間。該分析師表示，一方面，“地緣政治不確定性繼續支撐對避險資產的需求“。Razaqzada稱，另一方面，“持續的通脹和高企的利率預期限制了持續反彈的空間“。該分析師補充道：“在其中一個主題確立更明顯的優勢之前，劇烈波動和區間交易可能仍將是市場的主要特徵，且傾向於略微走低。“
+
+---
+
+### 2026-06-02 08:17:00  #MKT News #Copper #Impact bullish
+
+【Huaxi Securities: Domestic electronic copper foil localization and lithium‑battery foil price upcycle opportunity】Huaxi Securities says rising AI technology requirements are triggering a volume cycle for high‑end electronic copper foil; ongoing product qualification and capacity rollouts mean domestic producers could begin to see simultaneous volume and margin gains this year. Copper foil’s heavy capex and high cash intensity constrain rapid capacity expansion. With the Chinese lithium‑ion battery supply chain approaching the H2 seasonal peak, demand upside plus tight supply should further squeeze electronic copper foil capacity and sustain upward pressure on lithium‑battery copper foil prices. High electronic‑foil margins, rising processing fees and a larger share of ultra‑thin lithium battery foil should reinforce copper‑foil makers’ profitability.
 
 ---
 
@@ -21566,220 +21776,5 @@ Oil Rises on US-Iran Deal Uncertainty — WTI crude futures rose above $89 per b
 ### 2026-06-01 07:06:25  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 2
 
 Australia Manufacturing PMI Revised Upward — The S&P Global Australia Manufacturing PMI was revised higher to 50.7 in May 2026 from 50.2 in the preliminary estimate, after 51.3 in April. However, the latest reading was still lower than the previous month's level as output contracted for the fourth consecutive month, while new orders fell at a solid pace, highlighting weakness in Asian markets.
-
----
-
-### 2026-06-01 07:04:42  #公司
-
-【公募首次披露股東會投票記錄，ESG投資邁出第一步】超5萬項基金投票記錄，98.93%的贊成比例，1.07%的反對及棄權比例。今年4月底公募基金首次集中披露上一年度參與上市公司股東會投票情況後，留下了這組意味深長的資料。記者注意到，1.07%的異議率雖然看似微小，但大多指向資本運作、融資決策、關聯交易、董事會治理、中小股東權益保護等公司治理核心議題。長期以來，我國機構投資者習慣透過買賣股票表達態度，即所謂“用腳投票”。而如今，越來越多的公募基金開始認真使用手中的表決權，參與上市公司治理。（中證報）
-
----
-
-### 2026-06-01 07:04:10  #公司
-
-【多家PCB上市公司釋出擴產計劃】近期，多家PCB上市公司釋出擴產計劃，引發市場關注。多家PCB概念股接受機構密集調研，從調研的內容看，機構普遍對上市公司產能利用率情況、未來佈局等內容較為關心。從PCB相關上市公司業績看，在AI算力需求的強勁驅動下，PCB產業鏈在2026年一季度展現了較高的景氣度。（中證報）
-
----
-
-### 2026-06-01 07:04:06  #公司 #市場
-
-【伯克希爾哈撒韋將斥資68億美元收購住宅建築商Taylor Morrison】伯克希爾哈撒韋公司週日同意以68億美元現金收購住宅建築商Taylor Morrison Home Corp.。伯克希爾哈撒韋將以每股72.50美元的價格收購這家總部位於亞利桑那州斯科茨代爾(Scottsdale)的住宅開發商，該價格較Taylor Morrison上週五收盤價58.50美元溢價24%。今年1月，格雷格.阿貝爾(Greg Abel)接替沃倫.巴菲特出任伯克希爾哈撒韋公司執行長，這筆交易正是他履新後的首批大動作之一。阿貝爾曾承諾，將堅守那些讓公司獨樹一幟的特質：既有的文化與價值觀、佔據主導地位的保險業務、由非相關業務組成的龐大企業集團，以及由執行長親自掌舵的股票投資組合。今年第一季度，伯克希爾哈撒韋還新建了達美航空的頭寸，價值達26億美元。伯克希爾哈撒韋在住房產業涉足已久，旗下不僅擁有一家大型住宅房地產經紀公司，近年來也一直持有住宅建築商的股份。
-
----
-
-### 2026-06-01 07:03:22  #其他
-
-【經濟日報：華為韜定律為何出道即頂流】文章指出，作為中國首次在全球半導體領域提出的產業發展新原則，韜定律甫一問世便自帶“頂流”光環，其背後既有產業變革的迫切需求，也有中國科技自主突圍的深層敘事。在外部技術封鎖的背景下，中國晶片產業面臨“先進製程追不上、成熟製程利潤薄”的困境。韜定律提供了一條不依賴頂尖光刻機的替代路徑，透過在成熟工藝節點上進行系統級創新，實現等效先進製程的效能，自己開闢了一條新賽道，完成了重重封鎖中的戰略突圍。
-
----
-
-### 2026-06-01 07:03:09  #公司
-
-【6月基金經理調研：A股仍是最受青睞的方向之一】近日，南方基金、前海開源基金、融通基金等多家公司的基金經理接受調研。調研結果顯示，面對震盪行情，基金經理主動謀篇佈局，A股仍是最受青睞的方向之一。A股與美股在基金經理6月看好的資產中排名並列第一。對A股投資持有較為樂觀態度的基金經理佔比超過四成，中性觀望的超過五成；對於美股，基金經理之間分歧較大，超過五成的態度較為樂觀，近三成觀望，但也有一成多較為謹慎。此外，基金經理對6月債券、港股、商品投資的樂觀程度相對較低。（上證報）
-
----
-
-### 2026-06-01 07:00:46  #其他
-
-【專家熱議貿易高質量發展路徑：培育新質生產力，鞏固中間品貿易優勢】近期高頻資料顯示，5月外貿有望保持穩定增長態勢。多位專家在5月30日召開的中國宏觀經濟論壇（CMF）宏觀經濟熱點研討會上表示，我國實現對外貿易中長期可持續增長有諸多支撐條件，應以貿易高質量發展應對外部環境不確定性，具體路徑包括以新質生產力培育對外貿易核心競爭力、拓展新興市場、鞏固中間品貿易優勢等。（中證報）
-
----
-
-### 2026-06-01 07:00:24  #資料
-
-澳大利亞5月標普全球製造業PMI終值 50.7，前值50.2。
-
----
-
-### 2026-06-01 07:00:07  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #Copper
-
-Australia May final S&P Global manufacturing PMI 50.7, prior 50.2.
-
----
-
-### 2026-06-01 06:55:25  #其他
-
-市場資訊：大韓造船株式會社中標2830億韓元訂單。
-
----
-
-### 2026-06-01 06:54:59  #市場 #國際
-
-【黃金小幅走低，美伊談判陷入僵局】黃金價格小幅回落，市場正等待美伊和平協議草案取得進展。該協議若達成，將重新開放霍爾木茲海峽，並緩解市場對通脹高企與利率上行的擔憂。本週伊始，金價交投於每盎司4535美元附近。儘管雙方持續進行外交磋商，但未見美國總統特朗普上週五暗示的“最終定論”跡象。與此同時，以色列對黎巴嫩發動了25年來規模最大的入侵行動，而伊朗在該地區最強大的盟友真主黨，則加大了對以色列北部的襲擊力度。
-
----
-
-### 2026-06-01 06:51:48  #公司
-
-【戴爾推出售價699美元的XPS 13筆記本，對標蘋果MacBook Neo】戴爾公司當地時間週日釋出了旗下價格最低的XPS 13膝上型電腦。這家個人電腦廠商希望憑藉該產品吸引學生及年輕職場人群，從蘋果MacBook Neo手中搶奪市場份額。戴爾表示，這款XPS 13起售價為699美元；開學季期間，16歲及以上學生可享優惠價599美元。產品力求帶來優於MacBook Neo的使用體驗。在儲存晶片供應趨緊、市場對價格敏感度攀升的行業環境下，戴爾推出低價機型大舉進軍PC市場，此舉借鑑了蘋果的策略，意在進一步拓寬受眾範圍。據介紹，XPS 13是戴爾目前最輕薄的筆記本產品，重量比蘋果MacBook Neo輕約0.5磅，同時配備更大尺寸的螢幕。
-
----
-
-### 2026-06-01 06:51:20  #國際
-
-【停火名存實亡 以軍擴大在黎巴嫩軍事行動 欲以“焦土”換安全】隨著以軍日前越過利塔尼河展開進攻，4月17日開始的黎以臨時停火已經名存實亡。以色列總理內塔尼亞胡5月31日下令擴大在黎軍事行動，同時尋求美國支援打擊貝魯特等地，並已就此與美方溝通。專家指出，以方正利用談判僵局，以“焦土政策”製造緩衝區，謀取更大安全利益。（央視新聞）
-
----
-
-### 2026-06-01 06:50:46  #國際
-
-戴爾：搭載英特爾酷睿3系列處理器的XPS 13即將在美國上市。
-
----
-
-### 2026-06-01 06:50:34  #其他
-
-戴爾推出旗下最輕薄機型XPS 13，售價699美元；符合條件的16歲及以上學生可享599美元的優惠價。
-
----
-
-### 2026-06-01 06:50:26  #國際
-
-戴爾：搭載英特爾酷睿Ultra 3系列處理器、採用風暴配色的XPS 13，將於今年夏末在美國上市。
-
----
-
-### 2026-06-01 06:49:33  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Al Jazeera reported the Arab League secretary-general condemned Israel's 'brutal aggression' against Lebanon and urged an immediate ceasefire.
-
----
-
-### 2026-06-01 06:48:54  #國際
-
-【人民日報鐘聲：推動人工智慧成為中美合作的新疆域】確保人工智慧向善、造福全人類，這是中美兩國在人工智慧領域最大的共同利益。日前，中美兩國元首就人工智慧問題進行了建設性交流，同意開展人工智慧政府間對話。當前，中美關係總體保持穩定，確定了“中美建設性戰略穩定關係”的新定位。作為兩個人工智慧大國，中美雙方攜手促進人工智慧發展和治理，這既是落實兩國元首共識的具體體現，也將推動人工智慧更好服務人類文明進步和國際社會共同福祉。世界不希望看到“人工智慧鐵幕”、搞“人工智慧圈地”。確保人工智慧向善、造福全人類，這是中美兩國在人工智慧領域最大的共同利益。期待美方同中方相向而行，加強對話、管理競爭、開展合作，讓人工智慧成為中美合作的新疆域、人類進步的新階梯，攜手開創更加美好的智慧未來。
-
----
-
-### 2026-06-01 06:48:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold turned higher intraday, rising above $4,540/oz.
-
----
-
-### 2026-06-01 06:48:21  #市場 #焦點
-
-現貨黃金突破4540美元/盎司，日內漲0.01%。
-
----
-
-### 2026-06-01 06:47:31  #市場 #焦點
-
-紐約期金突破4570美元/盎司，日內跌0.49%。
-
----
-
-### 2026-06-01 06:47:27  #國際
-
-以色列稱已攔截多枚從黎巴嫩射向其境內的飛行物。
-
----
-
-### 2026-06-01 06:46:02  #國際
-
-阿拉伯聯盟秘書長譴責以色列對黎巴嫩發動“野蠻侵略”，呼籲雙方立即停火。
-
----
-
-### 2026-06-01 06:45:32  #市場 #焦點
-
-現貨白銀突破75美元/盎司，日內跌0.36%。
-
----
-
-### 2026-06-01 06:45:21  #MKT News #Important #Star Stocks #NVIDIA #Meituan #Macro & Rates #The Fed (FOMC) #Market Themes #Magnificent 7 #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-【This week: US nonfarm payrolls, SpaceX IPO roadshow, OPEC+ ministerial meeting】Monday: China May RatingDog manufacturing PMI; UK May Nationwide house-price MoM; May manufacturing PMIs for UK, US, France, Germany and the euro area; euro-area April unemployment rate; Meituan reports quarterly results; Nvidia opens GTC Taipei (Jensen Huang keynote). Tuesday: Euro-area May CPI flash; US April JOLTS vacancies; Tiger Brokers reports; Fed officials Kashkari and Harker speak; BoE Governor Bailey appears before the Lords. Wednesday: US API and EIA crude inventories; China May RatingDog services PMI; May services PMIs for UK, US, France, Germany and the euro area; US May ADP payrolls; Broadcom and Zhihu report; BOJ Governor UEDA speaks; Korea markets closed for local elections; US Treasury Secretary Bessent testifies to the Senate on the budget; Japanese government submits supplementary budget to parliament. Thursday: Euro-area April retail sales MoM; US May Challenger job cuts, initial jobless claims and EIA NG inventories; Fed releases the Beige Book; China domestic refined-fuel price adjustment window opens; ECB President LAGARDE and BoE Governor BAILEY both speak; SpaceX targets as early as June 4 to start its IPO roadshow. Friday: France April trade balance; euro-area Q1 GDP final revision; Canada May employment; US May seasonally adjusted nonfarm payrolls, unemployment rate and average hourly earnings — primary market-moving data of the week; ARAMCO posts official selling price around the 5th of the month; Fed Governor Daly speaks; China reduces domestic aviation fuel surcharges on major routes. Saturday: Baker Hughes rig count for the week to June 5; CFTC weekly commitments report; BoE Governor BAILEY speaks. Sunday: China May FX reserves; OPEC and non-OPEC ministerial supervisory committee meets.
-
----
-
-### 2026-06-01 06:42:14  #公司
-
-舊金山一套標價299.5萬美元的房產，接受以Anthropic或OpenAI的上市前股份作為購房款。
-
----
-
-### 2026-06-01 06:41:37  #國際
-
-一位伊朗高階環境官員表示，向途經霍爾木茲海峽的船隻收取環境費的計劃在國際海事法中有法律依據，並且可以幫助資助波斯灣環境損害的賠償。
-
----
-
-### 2026-06-01 06:37:57  #MKT News
-
-【UK to publish communications with former US ambassador; Starmer's premiership faces fresh test】Prime Minister Starmer will on Monday be forced to publish hundreds of private communications between disgraced former UK ambassador to the US Peter Mandelson and government members, disclosures that could further imperil his already precarious premiership. After Mandelson was sacked last year, the Starmer government — under parliamentary pressure — will release texts and emails among ministers, advisers and senior officials related to Mandelson. Starmer appointed Mandelson ambassador to the US in February 2025; Mandelson served seven months before being sacked after revelations of ties to Epstein.
-
----
-
-### 2026-06-01 06:33:50  #資料 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 09:45 中國5月RatingDog製造業PMI；
-② 11:00 英偉達GTC Taipei 2026大會開幕，黃仁勳發表主題演講；
-③ 14:00 英國5月Nationwide房價指數；
-④ 14:30 瑞士4月實際零售銷售；
-⑤ 15:50 法國5月製造業PMI終值；
-⑥ 15:55 德國5月製造業PMI終值；
-⑦ 16:00 歐元區5月製造業PMI終值；
-⑧ 16:30 英國5月製造業PMI終值；
-⑨ 17:00 歐元區4月失業率；
-⑩ 21:45 美國5月標普全球製造業PMI終值；
-⑪ 22:00 美國5月ISM製造業指數、美國4月營建支出。
-
----
-
-### 2026-06-01 06:32:49  #公司
-
-製藥企業禮來公司表示，正在測試一款新型試驗藥物，該藥物有望徹底改變高膽固醇的治療格局。
-
----
-
-### 2026-06-01 06:31:02  #MKT News
-
-【Colombia to hold presidential runoff】On May 31 local time, Colombia's National Civil Registry said a preliminary tally of 95.12% of ballots showed no candidate secured more than 50% of the vote, triggering a second-round presidential vote.
-
----
-
-### 2026-06-01 06:30:47  #其他
-
-【哥倫比亞將舉行總統選舉第二輪投票】當地時間5月31日，哥倫比亞國家民事登記處公佈的對95.12%選票初步計票結果顯示，沒有候選人在31日舉行總統選舉投票中獲得超過半數的選票，總統選舉將舉行第二輪投票。（央視新聞）
-
----
-
-### 2026-06-01 06:29:14  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-【Oil rebounds from six-week low as US‑Iran deal prospects remain unclear】Oil pared losses and WTI jumped about 2.0% early Monday to $92.07/bbl as prospects for a US‑Iran peace deal stayed uncertain. Washington and Tehran exchanged messages over the weekend seeking to amend a draft agreement to extend a ceasefire and reopen the Strait of Hormuz, but it was unclear whether substantive progress was made. Earlier optimism that a deal would restore energy flows through the strait had driven crude’s first monthly decline of the year. An economist warned neither side is likely to concede on core, pre‑war issues — nuclear program, control of the Strait of Hormuz, ballistic missiles and sanctions — and said prices will remain sensitive to local developments and leaders’ remarks.
-
----
-
-### 2026-06-01 06:25:55  #MKT News #Market Themes #AI Revolution
-
-【MIIT to accelerate forward-looking deployment and development of future industries】MIIT Minister Li Lecheng said the ministry will accelerate frontier technology breakthroughs and upstream supply for future industries, leveraging a new national coordination model and an 'industry-sets-the-problem, science-provides-the-answer' approach. MIIT will prioritize original, leading R&D to secure key core technology breakthroughs; continue deploying open‑challenge problem‑solving tasks to tackle critical bottleneck technologies; form deep industry–university–research–application innovation consortia by integrating universities, research institutes and leading firms; build proof‑of‑concept centers and pilot production platforms to scale lab results to production; and run large‑scale demonstration deployments to speed commercialization and align innovation and industrial chains.
-
----
-
-### 2026-06-01 06:25:54  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-【China MIIT urges risk-sharing and funding push for future industries】China’s Ministry of Industry and Information Technology (MIIT) minister Li Lecheng said in a People’s Daily article that Beijing will build mechanisms to boost investment and share risk for “future industries,” citing long incubation cycles and high market risk. He called for exploring funding approaches that encourage innovation and tolerate failure, mobilising government investment funds and national industry–finance cooperation platforms and stepping up financial support. The MIIT urged development of a tech-finance services system and new financing tools to attract social capital into early-stage and patient investments, prioritising early, small-scale backing of hard‑tech. It also reiterated acceleration of manufacturing talent programs, faster cultivation and recruitment of cross-disciplinary and high‑skill personnel, and optimisation of university disciplines to strengthen industry‑tech innovation talent pools.
 
 ---

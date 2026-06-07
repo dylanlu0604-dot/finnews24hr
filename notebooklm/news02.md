@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:25:03_
-_本檔包含 3813 則快訊，約 708871 字_
+_更新時間：2026-06-08 07:06:09_
+_本檔包含 3818 則快訊，約 708047 字_
+
+---
+
+### 2026-06-05 15:22:46  #MKT News #Market Themes
+
+Reserve Bank of India governor said discussions are ongoing about access to the Claude MYTHOS model.
+
+---
+
+### 2026-06-05 15:22:39  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
+
+US Economy Likely Added 85K Jobs in May — The US economy is expected to have added 85,000 jobs in May 2026, marking a modest slowdown after two consecutive months of job gains exceeding 100,000. The unemployment rate is forecast to remain unchanged at 4.3%. Average hourly earnings are projected to rise 0.3% month-over-month, accelerating slightly from April’s 0.2% increase. On an annual basis, however, wage growth is expected to ease to 3.4% from 3.6%. The May report is expected to continue to reflect a resilient labour market, with the prevailing low-hire, low-fire dynamic remaining firmly in place, although some analysts suggest that such dynamic may be changing.
+
+---
+
+### 2026-06-05 15:22:27  #國際
+
+【外交部回應烏拉圭對華免籤】6月5日，外交部發言人毛寧主持例行記者會。 據新華社報道，烏拉圭外交部長盧貝特金4日宣佈，這一南美國家將對中國公民免籤。有外媒記者在會上就此事提問，中方是否期望此舉能進一步促進兩國人民在各領域的交流與合作？ 對此，毛寧表示：“中國和烏拉圭提升人員往來便利化水平，有利於兩國人民增進理解，促進交流與合作。” （北青報）
+
+---
+
+### 2026-06-05 15:22:04  #公司 #市場
+
+【遠東股份年內累計漲幅超250%】6月5日，遠東股份(600869)收盤上漲7.58%，收盤價報28.51元/股，創歷史新高（前復權），年內累計漲幅達254.16%。
+
+---
+
+### 2026-06-05 15:21:10  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
+
+France Forex Reserves Fall Further — France’s official reserve assets declined further to €381.30 billion at the end of May 2026 from €386.90 billion in April. This was the smallest amount since December 2025, amid decreases in gold reserves (€304.84 billion vs €310.09 billion in April), foreign currency reserves (€31.15 billion vs €31.65 billion), and other reserve assets (€6.46 billion vs €6.47 billion). Meanwhile, claims on the IMF rose to €38.85 billion from €38.68 billion in the previous month. In May 2025, total reserve assets stood at €304.61 billion.
+
+---
+
+### 2026-06-05 15:21:03  #Trading Economics #Economy #Turkey #Inflation Rate #Importance 1
+
+Turkey Inflation Rate at 7-Month High — The annual inflation rate rose to 32.61% in May 2026 from 32.37% in the previous month, exceeding market expectations of 32.5%. It marked the highest reading since October 2025, as prices continued to be weighed down by the energy shock stemming from Middle East tensions. Reflecting heightened uncertainty, the central bank recently suspended its year-end inflation forecast range, citing "a period of high uncertainty," while maintaining a year-end inflation target of 24%. The central bank also tightened liquidity conditions by suspending funding through its main policy rate and shifting to the more expensive overnight lending rate of 40%. Price pressures intensified for food and non-alcoholic beverages (34.86% vs 34.55% in April), while inflation eased slightly for housing (45.59% vs 46.6%) and transport (34.29% vs 35.06%). On a monthly basis, consumer prices rose by 1.71%, slowing sharply from 4.18% in April and marking the weakest monthly increase since December 2025.
+
+---
+
+### 2026-06-05 15:20:54  #國際
+
+印度儲備銀行行長馬爾霍特拉：關於接入Claude 3 Opus的討論仍在進行中。
+
+---
+
+### 2026-06-05 15:20:38  #其他
+
+【賓士純電GLC預售價公佈：34.9萬起】6月5日，梅賽德斯-賓士宣佈，賓士純電GLC五座高配鎏金版開啟預售，預售價格34.9萬元起。
+
+---
+
+### 2026-06-05 15:20:10  #MKT News #XAUUSD #Impact bearish
+
+【Analyst: COMEX gold futures technicals remain bearish】RHB analyst Joseph Chai says daily-chart technicals for COMEX gold futures remain bearish. A recent bullish candlestick shows a minor pause in selling pressure, but the overall bias is still to the downside. Futures prices remain below the 20-day and 50-day simple moving averages.
+
+---
+
+### 2026-06-05 15:20:00  #MKT News #Important #Market Regions #Greater China
+
+China's Foreign Ministry said top party and state leaders of China and North Korea will exchange views on bilateral relations and issues of mutual concern.
+
+---
+
+### 2026-06-05 15:19:56  #行業 #焦點 #國際
+
+【外交部回應西媒稱AI中美爭霸】6月5日，外交部發言人毛寧主持例行記者會。 有記者提問，我們注意到，近期西方媒體有觀點認為，全球AI競賽進入了“中美爭霸”，或將加劇科技領域的陣營對抗。同時，中美科技企業在通用大模型機器人等領域最近也落地了多個合作專案，不少業界人士呼籲兩國在AI方面開展合作。請問中方如何看待上述動向？ 毛寧表示，人工智慧正在深刻改變生產生活方式，是人類需要共同面對的新課題。人工智慧不是大國的專利，更不應滑向競爭對抗。中方始終堅持人工智慧以人為本、開放包容。我們提出全球人工智慧治理倡議，連續8年舉行世界人工智慧大會，倡議成立世界人工智慧合作組織，核心就是透過對話凝聚共識、深化合作，打造開放、平等、公平、非歧視的人工智慧發展環境。 今年7月，中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待以本次大會為契機，同各方深入交流對話，加強人工智慧全球治理，推動人工智慧服務全人類。（北青報）
+
+---
+
+### 2026-06-05 15:19:24  #國際
+
+【外交部：中朝兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見】6月5日，外交部發言人毛寧主持例行記者會。日本廣播協會（NHK）提問，中方今天釋出了習近平主席訪問朝鮮的訊息，請問外交部能否分享具體日程安排？中朝首腦會談及什麼話題？中方對此訪問有何期待？毛寧介紹，此次訪問是習近平總書記時隔7年再次對朝鮮進行國事訪問。訪問期間，兩黨兩國最高領導人將就雙邊關係及共同關心的問題交換意見。毛寧表示，近年來在習近平總書記和金正恩總書記的戰略引領下，中朝傳統友好合作關係持續健康穩定發展，為兩國和兩國人民帶來實實在在的利益。今年是《中朝友好合作互助條約》簽訂65週年，雙方將以此訪為契機，推動中朝關係與時俱進，取得更大發展，增進兩國人民的福祉，為地區乃至世界的和平穩定和發展繁榮作出更大的貢獻。“訪問的具體情況，我們會及時釋出訊息，你可以保持關注。”毛寧說。（澎湃新聞）
+
+---
+
+### 2026-06-05 15:19:15  #國際
+
+【黃巖島有一不明結構物消失？外交部：中國在島上開展活動是主權國家正當權利】6月5日，外交部發言人毛寧主持例行記者會。路透社記者提問，昨天路透社報道稱，衛星影象顯示黃巖島的一個不明結構物消失了，外交部能否提供更多資訊？對此，毛寧表示：“黃巖島是中國的固有領土，中國對黃巖島及其附近海域擁有無可爭辯的主權。中國在黃巖島開展包括科考在內的任何活動，都是主權國家的正當權利。”（澎湃新聞）
+
+---
+
+### 2026-06-05 15:18:38  #央行 #國際
+
+印度央行行長馬爾霍特拉：我們將推進實施銀行自營交易貸款相關規則。
+
+---
+
+### 2026-06-05 15:18:27  #市場 #觀點
+
+【報告：紐商所黃金期貨的看跌技術形態依然完好】RHB Retail Research的Joseph Chai在一份報告中表示，根據日線圖，紐商所黃金期貨的看跌技術形態看起來依然完好。該分析師表示，儘管最新的看漲K線形態表明拋售壓力正在“稍作喘息“，但整體技術形態依然看跌。Chai指出，該期貨仍低於20日和50日簡單移動平均線。該分析師補充說，預計該大宗商品的最近支撐位在每盎司4,400美元，而初步阻力位在每盎司4,650美元。現貨黃金下跌0.4%，報每盎司4,457.36美元。
+
+---
+
+### 2026-06-05 15:18:09  #公司
+
+【愛彼迎CEO計劃創辦一家新的人工智慧公司】據多位知情人士稱，愛彼迎執行長Brian Chesky正在籌建一家新的人工智慧(AI)實驗室，這標誌著他首次涉足全球AI競賽。知情人士表示，Chesky計劃創辦一家AI公司以開發人工智慧模型，並正在考慮將重點放在使用者互動和設計上。由於相關資訊未公開，知情人士不願具名。其中一位知情人士稱，他目前正處於為該實驗室融資的早期階段，具體細節仍可能發生變化。Chesky和愛彼迎的代表均未予置評。
+
+---
+
+### 2026-06-05 15:17:34  #MKT News
+
+【Israeli airstrikes on Tyre in southern Lebanon kill seven】Lebanese Civil Defense said on the morning of the 5th (local time) that Israeli Defense Forces airstrikes on Tyre between the night of the 4th and early hours of the 5th killed seven.
+
+---
+
+### 2026-06-05 15:16:48  #國際
+
+【以軍襲擊黎南部城市提爾 致7人死亡】黎巴嫩民防部門當地時間5日上午宣佈，4日晚至5日凌晨以色列國防軍空襲黎巴嫩南部城市提爾，造成7人死亡。（央視新聞）
+
+---
+
+### 2026-06-05 15:16:13  #MKT News
+
+【China government bond futures midday close】Midday close: China government bond futures main contracts — 2-year TS down 0.01%, 5-year TF down 0.02%, 10-year T down 0.05%, 30-year TL down 0.27%.
+
+---
+
+### 2026-06-05 15:16:04  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.77% Lower — The Shangai Composite Index fell 31 points or 0.77 percent on Friday to close at 4026 points. Leading the losses are Datang Intl (-9.31%), Zhejiang Zheneng (-4.17%) and Huaneng (-4.00%). Top gainers were Shanghai Petrochemical (4.73%), China International (3.71%) and Sany Heavy Industry (2.81%).
+
+---
+
+### 2026-06-05 15:15:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+A local governor said Russian strikes on Ukraine's Kyiv region killed four people.
+
+---
+
+### 2026-06-05 15:15:10  #市場 #國際
+
+印度Sensex指數轉跌，當前跌幅0.1%，報74311.31點。
+
+---
+
+### 2026-06-05 15:15:03  #市場
+
+【國債期貨收盤】 30年期主力合約跌0.27%， 10年期主力合約跌0.05%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-06-05 15:14:59  #公司
+
+【姚順雨入職半年，騰訊高管：他對於元寶和混元帶來了巨大價值】6月5日下午訊息，今日2026年騰訊雲AI產業應用大會在京舉辦。溝通會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生現場回應了騰訊為什麼會選擇姚順雨，以及姚順雨入職半年來對騰訊AI帶來了哪些改變？湯道生表示，“他在這個領域是很有影響力的專家，在他來之前我們溝通也充分感受到了他的專業，確實是對於AI的認知跟我們過去很多不一樣，他的到來對於元寶和混元帶來了巨大的價值。”湯道生透露，“其實我們之前訓練的很多資料是不夠高質量的，所以他到來之後早期做了很多工作，就是把資料質量提質，包括砍掉很多貌似可以堆量的，但實際對模型沒有太大幫助的（資料），很多的決策就會做得更加到位，他做了很多化繁為簡的事情，元寶和混元過去半年的進展比過去更長的時間進步了更多，毫無疑問他（姚順雨）有非常大的功勞。”（新浪科技）
 
 ---
 
@@ -22847,119 +22991,5 @@ Bitcoin Extends Slide — Bitcoin extended its decline to as low as $61,000 in e
 ### 2026-06-04 11:45:28  #MKT News #CSI300 #Impact bullish #Copper #CNH
 
 【MIIT: Jan–Apr value added of above‑designated‑size electronic information manufacturing up 14% YoY】MIIT said Jan–Apr 2026 value added of above‑designated‑size electronic information manufacturing rose 14% YoY, outpacing overall industrial and high‑tech manufacturing growth by 8.4 and 1.4 percentage points respectively. Production stayed rapid, exports accelerated and industry profitability improved. April value added rose 15.6% YoY. Principal product outputs: handsets 452.0 mln units (+0.3% YoY), including smartphones 390.0 mln (+6.5%); microcomputer equipment 95.43 mln units (-10.0%); integrated circuits 176.97 bln pieces (+24.7%).
-
----
-
-### 2026-06-04 11:45:15  #其他 #焦點
-
-【工信部：1—4月份，規模以上電子資訊製造業增加值同比增長14%】2026年1—4月，我國電子資訊製造業生產保持快速增長，出口增速穩步上升，行業效益顯著改善，行業呈現良好發展態勢。規模以上電子資訊製造業增加值同比增長14%，增速分別比同期工業、高技術製造業高8.4個和高1.4個百分點。4月份，規模以上電子資訊製造業增加值同比增長15.6%。主要產品中，手機產量4.52億臺，同比增長0.3%，其中智慧手機產量3.9億臺，同比增長6.5%；微型計算機裝置產量9542.6萬臺，同比下降10%；積體電路產量1769.7億塊，同比增長24.7%。（工信微報）
-
----
-
-### 2026-06-04 11:44:59  #公司
-
-【雙欣材料：公司PVB樹脂產品正在推進MLCC行業認證】雙欣材料(001369)在互動平臺表示，公司部分特殊型號聚乙烯醇產品已應用於電子玻纖等高附加值領域；PVB樹脂產品正在積極推進MLCC行業認證，目前處於認證階段；PVB樹脂也可以作為粘結劑應用在晶片領域。
-
----
-
-### 2026-06-04 11:44:14  #MKT News
-
-Longyang Electronics said its HVLP5 copper foil is currently being delivered to customers as sample orders; it has not yet secured bulk orders and the product remains under validation.
-
----
-
-### 2026-06-04 11:43:49  #公司 #市場
-
-【今年中國國際礦業大會繼續設礦業權交易專場】從中國礦業聯合會獲悉，9月10日至12日在天津召開的2026（第二十八屆）中國國際礦業大會期間，繼續舉辦“礦業權轉讓大市場”專場交易活動。專場活動涵蓋四大類交易內容：探礦權、採礦權的轉讓及勘探開發合作；礦業公司及其所屬專案的股權交易；礦產品現貨、期貨及相關組合，勘查開採機械裝置和相關物資交易合作；地質勘查、礦山工程、採礦選礦技術、專業諮詢及礦業要素交易合作。交易形式包括自主協商、委託競爭、定向撮合、獨家談判等。（新京報）
-
----
-
-### 2026-06-04 11:43:42  #公司
-
-【隆揚電子：公司HVLP5銅箔在配合客戶交付部分樣品訂單】隆揚電子(301389)6月4日在互動平臺表示，公司HVLP5銅箔目前在配合客戶交付部分樣品訂單，尚未有批次化訂單，產品尚在驗證之中。
-
----
-
-### 2026-06-04 11:43:03  #MKT News
-
-【China International Mining Conference to again host mining-rights transfer market】The 2026 (28th) China International Mining Conference, hosted by the China Mining Association in Tianjin on Sept. 10–12, will again run a dedicated "mining-rights transfer market" trading session. The session covers four transaction categories: transfer of exploration and mining rights and exploration-development cooperation; equity transactions in mining companies and project-level assets; mineral product spot, futures and related package trades, and trade/cooperation in exploration and mining equipment and related materials; and transactions for geological exploration, mine engineering, mining and beneficiation technologies, professional consulting and other mining factors. Transaction formats include bilateral negotiation, entrusted competitive bidding, targeted matching and exclusive negotiation.
-
----
-
-### 2026-06-04 11:41:07  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Slides to Historic Low Amid External Headwinds, Fiscal Concerns — The Indonesian rupiah weakened to a fresh record low of around IDR 18,020 per U.S. dollar on Thursday, remaining under pressure as the dollar index held near a two-month high, with stronger-than-expected US labor market data reinforcing expectations of tighter Federal Reserve policy. Domestic risks compounded the slide, with investors wary of Indonesia’s fiscal situation and speculation over a sovereign rating downgrade. Capital outflows deepened after eight local stocks were cut from the FTSE Russell index, adding to MSCI-related pressures. Meanwhile, rising oil and gas import costs eroded the trade surplus in April, while foreign reserves fell to a near two-year low in April, as Bank Indonesia stepped up intervention. The drawdown has heightened concerns over external buffers and credit risks after Fitch and Moody’s outlook revisions earlier this year. The rupiah has lost about 7.2% against the dollar year-to-date, ranking among the weakest emerging-market currencies.
-
----
-
-### 2026-06-04 11:40:47  #公司 #市場
-
-【OpenAI競爭對手推進IPO計劃 軟銀股價在近期大漲後回落】在OpenAI的競爭對手推進首次公開募股(IPO)計劃之際，軟銀集團股價在近期大漲後於週四大幅下跌。該股最新下跌10.4%，報7,449日元，相當於46.53美元，盤中早些時候跌幅一度高達11%。在對人工智慧需求增長的熱情以及對軟銀關鍵投資專案之一OpenAI可能進行IPO的預期推動下，該股在過去兩個月已上漲逾一倍。本週早些時候，軟銀公佈了一項在法國的520億美後設資料中心專案，之後該股再獲提振。然而，OpenAI的競爭對手也在推進上市計劃，這可能讓它們更容易獲得建設大規模計算基礎設施所需的融資渠道。今年2月併購了OpenAI競爭對手xAI的SpaceX週三表示，計劃在即將進行的IPO中出售價值約750億美元的股票。該公司目標是在6月12日上市。OpenAI的另一家主要競爭對手Anthropic週一表示，已秘密申請進行首次公開募股，這使該公司有望最早於今年秋季上市。
-
----
-
-### 2026-06-04 11:40:18  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-Taiwan Stocks Retreat from Record High on Profit-Taking — The TAIEX, Taiwan’s benchmark stock index, dropped 623 points, or 1.3%, to 45,836 around noon on Thursday, erasing gains from the previous four sessions, as traders took profits after the index hit a record high in the previous session. The broader index retreated from the record peak of 46,459 reached a day earlier, marking the first break above the 46,000 level as optimism over AI investment continued to lift sentiment. The index tracked a fall on Wall Street overnight amid renewed escalation of the Middle East conflict. The index was mainly weighed down by electronic technology, health services, producer manufacturing, and non-energy minerals. Electronic technology stocks fell 1.4%, with TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, losing 0.8% after gaining 1.7% in the previous session. Losses were also seen in Delta Electronics (-1.0%), Hon Hai Precision (-3.4%), and ASE Technology (-2.6%).
-
----
-
-### 2026-06-04 11:39:51  #國際
-
-【韓國KOSPI指數跌幅收窄至0.7%】韓國KOSPI指數震盪上行，跌幅收窄至0.7%，此前跌逾2%。
-
----
-
-### 2026-06-04 11:39:01  #公司
-
-【北京小馬智行公司增資至2億】天眼查App顯示，近日，北京小馬智行科技有限公司發生工商變更，註冊資本由1.3億人民幣增至2億人民幣。該公司成立於2016年12月，法定代表人為張寧，經營範圍包括新材料技術研發、新材料技術推廣服務、計算機系統服務等，由北京小馬易行科技有限公司全資持股。
-
----
-
-### 2026-06-04 11:38:51  #公司
-
-【博盈特焊：越南生產基地首套HRSG產品已於2026年5月30日交付】博盈特焊6月4日在互動平臺表示，越南生產基地首套HRSG產品已於2026年5月30日交付，二期4條生產線還在建設中。
-
----
-
-### 2026-06-04 11:38:48  #MKT News
-
-【Chinese bookings for 2026 World Cup destinations triple; Monterrey searches surge 14-fold】Chinese summer accommodation bookings for 2026 World Cup host cities in the US, Canada and Mexico have risen threefold YoY, with searches for Monterrey up about 14-fold. Separately, planned inbound flights to China for July exceed 43,000 and inbound ticket bookings top 1.52 million, up roughly 6% YoY. Top inbound destinations are Shanghai, Beijing, Guangzhou, Chengdu, Shenyang and Urumqi; smaller cities including Ganzhou, Mianyang, Tongliao and Beihai are also attracting more foreign visitors.
-
----
-
-### 2026-06-04 11:38:47  #其他
-
-【中指研究院：重點城市二手房掛牌持續回落，二手房賣方預期有所趨穩】中指研究院監測資料顯示，“小陽春”後二手房新增掛牌量持續回落，二手房賣方預期有所趨穩，5月重點25城二手房新增掛牌房源為12萬套，同比下降約41%。截至4月末，重點25城二手房存量掛牌套數213萬套，環比下降1.6%，較去年10月高點回落4.3%。
-
----
-
-### 2026-06-04 11:38:03  #Trading Economics #Markets #Mexico #Currency #Importance 0
-
-MXN Steady as Markets Assess US Data and Middle East Risks — The Mexican peso traded near 17.3 per USD in early June as investors balanced stronger US economic data against rising tensions in the Middle East. The currency remained stable despite broad dollar strength fueled by safe-haven demand. Tensions escalated after Iran launched ballistic missiles toward neighboring countries, prompting US strikes on targets linked to Tehran, while diplomatic negotiations remained stalled. Markets also assessed stronger-than-expected US labor data, with the ADP report showing private-sector employment rose more than forecast in May, reinforcing signs of resilience in the US economy. Investors further monitored job openings figures that could influence upcoming Federal Reserve decisions, as a solid labor market supports expectations that interest rates may stay elevated for longer. Additional caution stemmed from a US proposal to impose new tariffs on imports from 60 economies. Despite these headwinds, the peso recovered part of its earlier weekly losses.
-
----
-
-### 2026-06-04 11:37:20  #公司
-
-【森特股份、金融街資本等成立股權投資基金】企查查APP顯示，近日，北京熙誠隆森股權投資基金合夥企業（有限合夥）成立，出資額2億元，經營範圍包括：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該合夥企業由北京金融街資本運營集團有限公司旗下北京熙誠能源投資有限公司、森特股份全資子公司隆基森特新能源有限公司等共同持股。
-
----
-
-### 2026-06-04 11:37:15  #MKT News #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bullish #S&P500
-
-Shixin Electronics CFO says the $270 billion estimate for customized AI chip revenue "will continue to be raised".
-
----
-
-### 2026-06-04 11:37:03  #MKT News
-
-CSI Convertible Bond Index was down 0.38% at midday; Qifan, Daotong and Heda convertibles fell 6.14%, 5.64% and 5.53% respectively, while Xianghe and Z Huate convertibles rose 13.65% and 13.58%.
-
----
-
-### 2026-06-04 11:36:21  #其他
-
-世芯電子首席財務官在臺北電腦展（COMPUTEX）上表示：2030年全球定製AI晶片營收規模將超過2700億美元。
 
 ---

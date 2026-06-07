@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 06:25:03_
-_本檔包含 3974 則快訊，約 709577 字_
+_更新時間：2026-06-08 07:06:09_
+_本檔包含 3948 則快訊，約 708349 字_
+
+---
+
+### 2026-06-04 11:45:15  #其他 #焦點
+
+【工信部：1—4月份，規模以上電子資訊製造業增加值同比增長14%】2026年1—4月，我國電子資訊製造業生產保持快速增長，出口增速穩步上升，行業效益顯著改善，行業呈現良好發展態勢。規模以上電子資訊製造業增加值同比增長14%，增速分別比同期工業、高技術製造業高8.4個和高1.4個百分點。4月份，規模以上電子資訊製造業增加值同比增長15.6%。主要產品中，手機產量4.52億臺，同比增長0.3%，其中智慧手機產量3.9億臺，同比增長6.5%；微型計算機裝置產量9542.6萬臺，同比下降10%；積體電路產量1769.7億塊，同比增長24.7%。（工信微報）
+
+---
+
+### 2026-06-04 11:44:59  #公司
+
+【雙欣材料：公司PVB樹脂產品正在推進MLCC行業認證】雙欣材料(001369)在互動平臺表示，公司部分特殊型號聚乙烯醇產品已應用於電子玻纖等高附加值領域；PVB樹脂產品正在積極推進MLCC行業認證，目前處於認證階段；PVB樹脂也可以作為粘結劑應用在晶片領域。
+
+---
+
+### 2026-06-04 11:44:14  #MKT News
+
+Longyang Electronics said its HVLP5 copper foil is currently being delivered to customers as sample orders; it has not yet secured bulk orders and the product remains under validation.
+
+---
+
+### 2026-06-04 11:43:49  #公司 #市場
+
+【今年中國國際礦業大會繼續設礦業權交易專場】從中國礦業聯合會獲悉，9月10日至12日在天津召開的2026（第二十八屆）中國國際礦業大會期間，繼續舉辦“礦業權轉讓大市場”專場交易活動。專場活動涵蓋四大類交易內容：探礦權、採礦權的轉讓及勘探開發合作；礦業公司及其所屬專案的股權交易；礦產品現貨、期貨及相關組合，勘查開採機械裝置和相關物資交易合作；地質勘查、礦山工程、採礦選礦技術、專業諮詢及礦業要素交易合作。交易形式包括自主協商、委託競爭、定向撮合、獨家談判等。（新京報）
+
+---
+
+### 2026-06-04 11:43:42  #公司
+
+【隆揚電子：公司HVLP5銅箔在配合客戶交付部分樣品訂單】隆揚電子(301389)6月4日在互動平臺表示，公司HVLP5銅箔目前在配合客戶交付部分樣品訂單，尚未有批次化訂單，產品尚在驗證之中。
+
+---
+
+### 2026-06-04 11:43:03  #MKT News
+
+【China International Mining Conference to again host mining-rights transfer market】The 2026 (28th) China International Mining Conference, hosted by the China Mining Association in Tianjin on Sept. 10–12, will again run a dedicated "mining-rights transfer market" trading session. The session covers four transaction categories: transfer of exploration and mining rights and exploration-development cooperation; equity transactions in mining companies and project-level assets; mineral product spot, futures and related package trades, and trade/cooperation in exploration and mining equipment and related materials; and transactions for geological exploration, mine engineering, mining and beneficiation technologies, professional consulting and other mining factors. Transaction formats include bilateral negotiation, entrusted competitive bidding, targeted matching and exclusive negotiation.
+
+---
+
+### 2026-06-04 11:41:07  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Slides to Historic Low Amid External Headwinds, Fiscal Concerns — The Indonesian rupiah weakened to a fresh record low of around IDR 18,020 per U.S. dollar on Thursday, remaining under pressure as the dollar index held near a two-month high, with stronger-than-expected US labor market data reinforcing expectations of tighter Federal Reserve policy. Domestic risks compounded the slide, with investors wary of Indonesia’s fiscal situation and speculation over a sovereign rating downgrade. Capital outflows deepened after eight local stocks were cut from the FTSE Russell index, adding to MSCI-related pressures. Meanwhile, rising oil and gas import costs eroded the trade surplus in April, while foreign reserves fell to a near two-year low in April, as Bank Indonesia stepped up intervention. The drawdown has heightened concerns over external buffers and credit risks after Fitch and Moody’s outlook revisions earlier this year. The rupiah has lost about 7.2% against the dollar year-to-date, ranking among the weakest emerging-market currencies.
+
+---
+
+### 2026-06-04 11:40:47  #公司 #市場
+
+【OpenAI競爭對手推進IPO計劃 軟銀股價在近期大漲後回落】在OpenAI的競爭對手推進首次公開募股(IPO)計劃之際，軟銀集團股價在近期大漲後於週四大幅下跌。該股最新下跌10.4%，報7,449日元，相當於46.53美元，盤中早些時候跌幅一度高達11%。在對人工智慧需求增長的熱情以及對軟銀關鍵投資專案之一OpenAI可能進行IPO的預期推動下，該股在過去兩個月已上漲逾一倍。本週早些時候，軟銀公佈了一項在法國的520億美後設資料中心專案，之後該股再獲提振。然而，OpenAI的競爭對手也在推進上市計劃，這可能讓它們更容易獲得建設大規模計算基礎設施所需的融資渠道。今年2月併購了OpenAI競爭對手xAI的SpaceX週三表示，計劃在即將進行的IPO中出售價值約750億美元的股票。該公司目標是在6月12日上市。OpenAI的另一家主要競爭對手Anthropic週一表示，已秘密申請進行首次公開募股，這使該公司有望最早於今年秋季上市。
+
+---
+
+### 2026-06-04 11:40:18  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+Taiwan Stocks Retreat from Record High on Profit-Taking — The TAIEX, Taiwan’s benchmark stock index, dropped 623 points, or 1.3%, to 45,836 around noon on Thursday, erasing gains from the previous four sessions, as traders took profits after the index hit a record high in the previous session. The broader index retreated from the record peak of 46,459 reached a day earlier, marking the first break above the 46,000 level as optimism over AI investment continued to lift sentiment. The index tracked a fall on Wall Street overnight amid renewed escalation of the Middle East conflict. The index was mainly weighed down by electronic technology, health services, producer manufacturing, and non-energy minerals. Electronic technology stocks fell 1.4%, with TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, losing 0.8% after gaining 1.7% in the previous session. Losses were also seen in Delta Electronics (-1.0%), Hon Hai Precision (-3.4%), and ASE Technology (-2.6%).
+
+---
+
+### 2026-06-04 11:39:51  #國際
+
+【韓國KOSPI指數跌幅收窄至0.7%】韓國KOSPI指數震盪上行，跌幅收窄至0.7%，此前跌逾2%。
+
+---
+
+### 2026-06-04 11:39:01  #公司
+
+【北京小馬智行公司增資至2億】天眼查App顯示，近日，北京小馬智行科技有限公司發生工商變更，註冊資本由1.3億人民幣增至2億人民幣。該公司成立於2016年12月，法定代表人為張寧，經營範圍包括新材料技術研發、新材料技術推廣服務、計算機系統服務等，由北京小馬易行科技有限公司全資持股。
+
+---
+
+### 2026-06-04 11:38:51  #公司
+
+【博盈特焊：越南生產基地首套HRSG產品已於2026年5月30日交付】博盈特焊6月4日在互動平臺表示，越南生產基地首套HRSG產品已於2026年5月30日交付，二期4條生產線還在建設中。
+
+---
+
+### 2026-06-04 11:38:48  #MKT News
+
+【Chinese bookings for 2026 World Cup destinations triple; Monterrey searches surge 14-fold】Chinese summer accommodation bookings for 2026 World Cup host cities in the US, Canada and Mexico have risen threefold YoY, with searches for Monterrey up about 14-fold. Separately, planned inbound flights to China for July exceed 43,000 and inbound ticket bookings top 1.52 million, up roughly 6% YoY. Top inbound destinations are Shanghai, Beijing, Guangzhou, Chengdu, Shenyang and Urumqi; smaller cities including Ganzhou, Mianyang, Tongliao and Beihai are also attracting more foreign visitors.
+
+---
+
+### 2026-06-04 11:38:47  #其他
+
+【中指研究院：重點城市二手房掛牌持續回落，二手房賣方預期有所趨穩】中指研究院監測資料顯示，“小陽春”後二手房新增掛牌量持續回落，二手房賣方預期有所趨穩，5月重點25城二手房新增掛牌房源為12萬套，同比下降約41%。截至4月末，重點25城二手房存量掛牌套數213萬套，環比下降1.6%，較去年10月高點回落4.3%。
+
+---
+
+### 2026-06-04 11:38:03  #Trading Economics #Markets #Mexico #Currency #Importance 0
+
+MXN Steady as Markets Assess US Data and Middle East Risks — The Mexican peso traded near 17.3 per USD in early June as investors balanced stronger US economic data against rising tensions in the Middle East. The currency remained stable despite broad dollar strength fueled by safe-haven demand. Tensions escalated after Iran launched ballistic missiles toward neighboring countries, prompting US strikes on targets linked to Tehran, while diplomatic negotiations remained stalled. Markets also assessed stronger-than-expected US labor data, with the ADP report showing private-sector employment rose more than forecast in May, reinforcing signs of resilience in the US economy. Investors further monitored job openings figures that could influence upcoming Federal Reserve decisions, as a solid labor market supports expectations that interest rates may stay elevated for longer. Additional caution stemmed from a US proposal to impose new tariffs on imports from 60 economies. Despite these headwinds, the peso recovered part of its earlier weekly losses.
+
+---
+
+### 2026-06-04 11:37:20  #公司
+
+【森特股份、金融街資本等成立股權投資基金】企查查APP顯示，近日，北京熙誠隆森股權投資基金合夥企業（有限合夥）成立，出資額2億元，經營範圍包括：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該合夥企業由北京金融街資本運營集團有限公司旗下北京熙誠能源投資有限公司、森特股份全資子公司隆基森特新能源有限公司等共同持股。
+
+---
+
+### 2026-06-04 11:37:15  #MKT News #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bullish #S&P500
+
+Shixin Electronics CFO says the $270 billion estimate for customized AI chip revenue "will continue to be raised".
+
+---
+
+### 2026-06-04 11:37:03  #MKT News
+
+CSI Convertible Bond Index was down 0.38% at midday; Qifan, Daotong and Heda convertibles fell 6.14%, 5.64% and 5.53% respectively, while Xianghe and Z Huate convertibles rose 13.65% and 13.58%.
+
+---
+
+### 2026-06-04 11:36:21  #其他
+
+世芯電子首席財務官在臺北電腦展（COMPUTEX）上表示：2030年全球定製AI晶片營收規模將超過2700億美元。
 
 ---
 
@@ -23660,275 +23774,5 @@ USD/IDR rose to a record high of 17,895 in early trade.
 ### 2026-06-03 10:04:55  #Trading Economics #Economy #Vietnam #Balance of Trade #Importance 1
 
 Vietnam Posts Largest Trade Gap on Record — Vietnam recorded a trade deficit of USD 5.21 billion in May 2026, shifting from a surplus of USD 0.62 billion in the same month a year earlier. It marked the largest trade deficit since December 1996, as imports grew faster than exports. Exports increased 18.0% year-on-year to USD 46.93 billion, while imports rose at a faster pace of 33.8% to a record high of USD 52.14 billion.
-
----
-
-### 2026-06-03 10:04:55  #MKT News #Market Regions #Japan & APAC #7203.T #Impact bullish
-
-KYODO: Toyota will resume operations at 13 Japanese manufacturing plants on Wednesday night.
-
----
-
-### 2026-06-03 10:04:48  #其他
-
-港股科網股回撥，嗶哩嗶哩跌近4%，美團、快手跌超3%，阿里巴巴、騰訊控股跌超2%。
-
----
-
-### 2026-06-03 10:04:15  #市場
-
-【MLCC概念反覆走強 火炬電子9天5板】MLCC概念反覆走強，火炬電子走出9天5板，達利凱普、鴻遠電子、國瓷材料、深圳華強、振華科技漲幅靠前。
-
----
-
-### 2026-06-03 10:03:54  #國際
-
-市場訊息：飛往阿聯酋、科威特的航班受影響；巴林在伊朗襲擊後關閉領空。
-
----
-
-### 2026-06-03 10:03:53  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Flights bound for the UAE and Kuwait are disrupted; Bahrain has closed its airspace after an Iranian attack.
-
----
-
-### 2026-06-03 10:03:34  #國際
-
-豐田將於今晚恢復日本13家工廠的運營。
-
----
-
-### 2026-06-03 10:03:28  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Steady Amid US-Iran Impasse — The dollar index hovered around 99.2 on Wednesday, maintaining gains from earlier in the week as stalled US-Iran peace negotiations and renewed tensions in the Middle East continued to underpin safe-haven demand. According to the US Central Command, Iran launched ballistic missiles toward neighboring countries, while US forces carried out strikes on Qeshm Island in response to attempted attacks by Tehran. The ongoing conflict has kept energy prices elevated, fueling concerns about inflation and reinforcing expectations that interest rates could remain higher for longer. Supporting that view, data released on Tuesday showed US job openings surged in April to their highest level in nearly two years, while layoffs declined. Investors are now awaiting the release of private payrolls data later on Wednesday, with attention also turning to Friday’s closely watched nonfarm payrolls report for further insight into the Federal Reserve’s policy outlook.
-
----
-
-### 2026-06-03 10:03:20  #MKT News #Important #Star Stocks #Alibaba #Tencent #Meituan #09626.HK #Impact bearish #03690.HK #00700.HK
-
-Hong Kong-listed internet stocks pulled back; Bilibili (09626.HK) down roughly 4%, Meituan (03690.HK) and Kuaishou (01024.HK) off more than 3%, Alibaba (09988.HK) and Tencent Holdings (00700.HK) down over 2%.
-
----
-
-### 2026-06-03 10:03:18  #MKT News
-
-Vietnam's General Statistics Office said May rice exports rose 19.3% to 925,000 tonnes.
-
----
-
-### 2026-06-03 10:03:07  #MKT News
-
-Local governor said a drone struck Michurinsk in Russia’s central Tambov region.
-
----
-
-### 2026-06-03 10:03:06  #其他
-
-【遼寧釋出中俄蒙三國精品巡遊旅遊線路】據“遼寧釋出”公眾號訊息，近日，遼寧省文化和旅遊廳聯動本土重點文旅企業遼寧康輝國際旅行社，統籌跨境文旅資源，創新推出“縱橫歐亞——中俄蒙三國陸地巡遊”精品旅遊線路，以產品革新賦能國際文旅交流，助力遼寧深度融入“一帶一路”文旅產業協作體系。
-
----
-
-### 2026-06-03 10:02:57  #國際
-
-俄羅斯坦波夫州州長稱，無人機襲擊了俄中部的米丘林斯克。
-
----
-
-### 2026-06-03 10:02:51  #其他
-
-越南5月貿易逆差52.1億美元；預估為-39.81億美元。
-
----
-
-### 2026-06-03 10:02:17  #其他
-
-越南統計局：1-5月咖啡出口量增長8%，至92.8萬噸。
-
----
-
-### 2026-06-03 10:02:14  #MKT News
-
-Vietnam May trade balance -$5.21 bln; prior -$3.28 bln.
-
----
-
-### 2026-06-03 10:02:11  #其他
-
-越南5月份咖啡出口量達到14.6萬噸；橡膠出口量達到7.4萬噸；大米出口量達到92.5萬噸。
-
----
-
-### 2026-06-03 10:02:04  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Slip on Profit-Taking — The Hang Seng Index slipped 285 points, or 1.1%, to 25,750 on Wednesday, snapping a two-session rally as investors took profits after recent gains fueled by optimism surrounding artificial intelligence-related investments. Technology stocks led the decline after spearheading yesterday's advance, while financial and retail trade shares also came under pressure. Market sentiment turned more cautious amid escalating geopolitical tensions in the Middle East following reports that Iran's Revolutionary Guards attacked U.S. Fifth Fleet headquarters, an airbase, and helicopters in a regional country, raising concerns over regional stability and potential disruptions to global energy supplies. Among notable laggards included Tencent Holdings (-1.3%), Lenovo (-3.6%), Meituan (-1.2%), AIA Group (-0.2%), and Pop Mart International (-2.5%).
-
----
-
-### 2026-06-03 10:01:36  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量409億元。
-
----
-
-### 2026-06-03 10:00:49  #MKT News
-
-Goldman Sachs raised its PT for South Korea's KOSPI index to 12,000 from 9,000.
-
----
-
-### 2026-06-03 10:00:21  #其他
-
-【受賄數額特別巨大 內蒙古自治區政府原主席王莉霞被提起公訴】從最高人民檢察院獲悉，內蒙古自治區黨委原副書記、自治區政府原主席王莉霞涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對王莉霞作出逮捕決定，並指定由黑龍江省大慶市人民檢察院審查起訴。近日，大慶市人民檢察院已向大慶市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人王莉霞享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人王莉霞利用擔任陝西省銅川市委副書記、市長，陝西省政府黨組成員、副省長，內蒙古自治區黨委常委、統戰部部長、呼和浩特市委書記，內蒙古自治區黨委副書記、自治區政府主席職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。
-
----
-
-### 2026-06-03 10:00:10  #MKT News
-
-Vietnam May imports YoY 33.8%, prior 32.5%.
-
----
-
-### 2026-06-03 10:00:07  #國際
-
-韓國產業通商資源部表示，韓國計劃今年從加拿大進口原油量將達到1600萬桶，是2025年的三倍多，目標是在未來幾年內將進口量提高到2000萬桶。
-
----
-
-### 2026-06-03 09:59:49  #MKT News
-
-Vietnam May exports YoY 18.0%, previous 21.0%.
-
----
-
-### 2026-06-03 09:59:13  #市場
-
-【電力板塊區域性拉昇，豫能控股漲停】電力板塊區域性拉昇，豫能控股、新中港漲停，廣西能源此前漲停，長源電力、恆盛能源、西昌電力跟漲。
-
----
-
-### 2026-06-03 09:59:01  #觀點 #國際
-
-高盛將韓國綜合股價指數（KOSPI）的目標值從9000點上調至12000點。
-
----
-
-### 2026-06-03 09:58:04  #MKT News #Market Regions #Japan & APAC
-
-Singapore's benchmark index rose as much as 1.1% intraday to a record 5,150.69.
-
----
-
-### 2026-06-03 09:57:55  #MKT News #Market Regions #Greater China
-
-A-share: Lianxun Instruments rallied more than 10%, its share price breaching the 2,000 yuan level.
-
----
-
-### 2026-06-03 09:57:52  #MKT News #Market Regions #Greater China
-
-【Yangtze River Delta railways to carry 17.45 mln passengers over five-day Dragon Boat holiday】China Railway Shanghai Group Co. said the Yangtze River Delta rail network will operate a five-day Dragon Boat holiday service from June 18-22, 2026. It expects to carry 17.45 mln passengers in total, averaging 3.49 mln per day, up 8% YoY. June 19 is forecast as the peak day at about 4.20 mln passengers, potentially a record single-day Dragon Boat holiday dispatch.
-
----
-
-### 2026-06-03 09:57:15  #宏觀 #公司
-
-【長三角鐵路端午假期5天預計傳送旅客1745萬人次】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角鐵路2026年端午假期旅客運輸方案近日出臺。今年端午假期鐵路運輸期限為6月18日至22日，合計5天。其間，上鐵集團預計傳送旅客1745萬人次，日均傳送旅客達349萬人次，客流同比增長8%。其中，端午節當天（6月19日）為客流最高峰日，預計傳送旅客420萬人次，有望創下端午假期運輸單日旅客傳送量新高。（央視新聞）
-
----
-
-### 2026-06-03 09:57:09  #MKT News
-
-Vietnam May industrial production YoY 8.8%; prior figure unchanged at 9.90% after revision.
-
----
-
-### 2026-06-03 09:57:02  #MKT News #Market Regions #Emerging Markets
-
-Vietnam May retail sales YoY 11.8% vs 12.10% prior.
-
----
-
-### 2026-06-03 09:56:57  #MKT News
-
-Vietnam May CPI YoY 5.6% (prior 5.46%).
-
----
-
-### 2026-06-03 09:56:55  #公司
-
-智譜(02513.HK)漲幅擴大至10%，日前公告稱擬發行A股並在科創板上市，公司雲端收入有望實現指數型增長。
-
----
-
-### 2026-06-03 09:56:47  #國際
-
-【哈馬斯發言人說願移交加沙治理權】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆當地時間6月2日在一份宣告中表示，美國主導的所謂巴勒斯坦加沙地帶“和平委員會”聲稱哈馬斯不願移交加沙地帶治理權，不實且具有誤導性，此類言論旨在為以色列在加沙地帶的持續行動提供掩護。哈齊姆·卡西姆稱，哈馬斯已做好充分準備，願將加沙地帶所有治理權移交給此前商定的巴勒斯坦技術官僚委員會，後者工作面臨的阻礙主要來自以色列等方面。 (CCTV國際時訊)
-
----
-
-### 2026-06-03 09:56:23  #MKT News #Market Regions #Greater China
-
-【Shandong Zibo optimizes some housing provident fund policies】Zibo (Shandong) rolled out housing provident fund policy changes aimed at boosting housing consumption and supporting rigid and improved demand. Withdrawal scope widened: down-payments and owner-occupancy withdrawals may now mobilize funds from a buyer’s spouse, both parents and children; withdrawals permitted for elderly elevator replacement in old buildings. Lending-side relaxations include reduced counted housing units for multi-child households, buyers of high-quality or existing homes, and trade-in upgrades; trade-in replacement may exempt one prior loan record. The cap on combined second‑hand property age plus loan term is raised to 50 years and the prior lending ban on homes >300 sqm is removed. New loan extension/rescheduling services added. Flexible‑employment residents can access commercial‑to‑public‑fund and commercial‑to‑group loan conversion channels. Measures are intended to lower household purchase and repayment costs.
-
----
-
-### 2026-06-03 09:55:59  #其他
-
-越南統計局：5月零售銷售同比增長11.8%。
-
----
-
-### 2026-06-03 09:55:46  #MKT News #WTI #Impact bearish #XAUUSD
-
-【Hamas says willing to hand over Gaza governance】On June 2 local time, Hamas spokesman Hazem Qassem said in a statement that claims by a US-led Palestinian Gaza peace committee that Hamas refuses to hand over governance are false and intended to justify Israeli operations in Gaza. He said Hamas is prepared to transfer all governance authority to the previously agreed Palestinian technocratic committee, and that obstacles to the committee’s work mainly stem from Israel.
-
----
-
-### 2026-06-03 09:55:43  #其他
-
-越南統計局：5月工業生產同比增長8.8%。
-
----
-
-### 2026-06-03 09:55:33  #市場
-
-越南5月消費者物價同比上漲5.6%；預估+5.80%。
-
----
-
-### 2026-06-03 09:55:22  #公司 #國際
-
-【墨西哥總統要求美國大使尊重墨內政】當地時間6月2日，墨西哥總統辛鮑姆向美國駐墨西哥大使約翰遜發出強烈呼籲，要求其尊重墨西哥內政。辛鮑姆強調，墨西哥的政治事務是墨西哥公民的專屬職權範圍，不應受到外部干涉。美方大使應專注於雙邊事務，尊重墨西哥內政，墨西哥事務應由本國人民負責。6月1日，美國駐墨西哥大使約翰遜在社交媒體上發表言論稱，打擊販毒集團應是墨西哥與美國的共同努力。辛鮑姆對此重申，墨政府願意在安全問題上與美國保持協調與合作，但各國必須在其本國領土內採取行動。
-
----
-
-### 2026-06-03 09:55:17  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-06-03 09:54:50  #其他
-
-【聯合國3日舉行安理會非常任理事國選舉】當地時間6月3日，第80屆聯合國大會將舉行聯合國安理會5個非常任理事國的選舉。聯合國安理會由15個理事國組成，其中5個為常任理事國；非常任理事國有10個，任期2年，每年經選舉更換5個，不能連選連任。
-
----
-
-### 2026-06-03 09:54:32  #MKT News
-
-A-share rare-earth permanent-magnet names active; Zhonggang Tianyuan hit daily limit. China Rare Earth, Northern Rare Earth, Jiuling Technology, Zhongxi Youse and Jinli Permanent Magnet also rose.
-
----
-
-### 2026-06-03 09:53:57  #其他
-
-【河北涿州500千伏超高壓輸變電站工程投運】6月2日，位於河北省涿州市境內的河北省重點工程——國網涿州500千伏超高壓輸變電站工程投運。據介紹，該站設計變電容量2000兆伏安，是河北省新能源輸送通道關鍵樞紐變電站，也是華北區域特高壓負荷落地的重要站點。
-
----
-
-### 2026-06-03 09:53:35  #MKT News #Market Regions #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【May RatingDog China Services PMI rises to 54.4; expansion broadens】May 2026 RatingDog China services PMI rose to 54.4 from 52.6 in April, up 1.8 pts and marking the 41st consecutive month in expansion; the pace of expansion was the fastest in three months. New business accelerated to a three-month high, led by domestic demand; new export orders returned to expansion after two months of contraction. Firms’ 12-month activity expectations were the strongest since February. Input-cost inflation climbed to a near 19-month high but remained below the long-run trend; providers largely absorbed higher costs and selling prices stayed broadly stable. Employment returned to expansion after three months of modest decline. Overall, May saw stronger services-sector expansion with gains in new orders, exports, employment and business confidence, while controllable cost pressure and stable pricing support continued domestic demand recovery.
 
 ---
