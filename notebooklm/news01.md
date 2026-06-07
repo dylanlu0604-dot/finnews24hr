@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:37:51_
-_本檔包含 3839 則快訊，約 707985 字_
+_更新時間：2026-06-08 04:53:21_
+_本檔包含 3854 則快訊，約 708246 字_
+
+---
+
+### 2026-06-08 04:52:47  #MKT News
+
+Al Jazeera reports Trump and Netanyahu are on a phone call.
+
+---
+
+### 2026-06-08 04:52:14  #MKT News
+
+Munich Airport: flight operations resumed at 22:15 local time after fire department response.
+
+---
+
+### 2026-06-08 04:51:39  #其他
+
+慕尼黑機場：在消防部門處置完畢後，航班運營已於晚上10點15分恢復。
+
+---
+
+### 2026-06-08 04:51:34  #國際
+
+伊朗和埃及外長通話討論地區局勢升級。
+
+---
+
+### 2026-06-08 04:51:05  #其他
+
+慕尼黑機場：航班運營已恢復。
+
+---
+
+### 2026-06-08 04:50:39  #其他
+
+剛果方面表示，埃博拉確診病例已升至515例，其中包含91例死亡病例。
+
+---
+
+### 2026-06-08 04:49:21  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+The UK government said leaders urged Russian President Putin to agree to an immediate, comprehensive ceasefire. It said that, once in effect, the ceasefire must be accompanied by strong, legally binding security guarantees for Ukraine, and that current contacts should serve as the starting point for negotiations.
+
+---
+
+### 2026-06-08 04:49:11  #其他
+
+英國政府：E3領導人稱當前接觸線應作為談判的起點。
+
+---
+
+### 2026-06-08 04:48:55  #國際
+
+英國政府：E3領導人表示，一旦停火生效，烏克蘭必須得到穩固且具有法律約束力的安全保障。
+
+---
+
+### 2026-06-08 04:46:16  #MKT News #Market Regions #Europe & UK
+
+UK government: E3 leaders (UK, France, Germany) condemned Russia's large-scale missile and drone strikes on Ukrainian cities, citing repeated use of the Oleshnik missile. They called for urgent scaling-up of interceptor production and joint development of air-defence missiles and longer-range strike capabilities, and said the G7 summit, the next meeting of a coalition of willing countries and the NATO summit should be used to coordinate further support for Ukraine.
+
+---
+
+### 2026-06-08 04:45:35  #公司 #國際
+
+英國政府：領導人已就如何利用七國集團峰會、意願聯盟下次會議以及北約峰會，更好協調對烏克蘭的進一步支援展開討論。
+
+---
+
+### 2026-06-08 04:44:52  #國際
+
+英國政府：歐洲三大領導人強調，迫切需要擴大攔截彈的生產規模，併合作開發反彈道導彈與縱深打擊能力。
+
+---
+
+### 2026-06-08 04:44:45  #國際
+
+英國政府：任何協議都必須保障歐洲的安全利益。
+
+---
+
+### 2026-06-08 04:44:35  #國際
+
+英國政府：歐洲領導人呼籲普京同意停火。
+
+---
+
+### 2026-06-08 04:43:38  #國際
+
+英國政府：E3領導人譴責俄羅斯對烏克蘭城市發動大規模導彈與無人機襲擊，其中包括多次使用“奧雷什尼克”導彈。
+
+---
+
+### 2026-06-08 04:42:43  #國際
+
+英國政府：領導人已明確表明，所有行動都應與烏克蘭、更廣泛的歐洲夥伴以及美國開展最緊密的合作來推進。
+
+---
+
+### 2026-06-08 04:42:13  #MKT News
+
+UK government said Prime Minister Starmer, French President Macron and German Chancellor Merz met Ukrainian President Zelenskiy on June 7.
+
+---
+
+### 2026-06-08 04:42:05  #國際
+
+英國政府：英國首相斯塔默、法國總統馬克龍、德國總理梅爾茨於6月7日與烏克蘭總統澤連斯基舉行了會晤。
+
+---
+
+### 2026-06-08 04:40:59  #國際
+
+美國國家颶風中心：颶風阿曼達或將給墨西哥南部部分地區帶來特大暴雨並引發洪澇災害。
+
+---
+
+### 2026-06-08 04:39:39  #國際
+
+【特朗普：已知曉以伊最新局勢 美軍處於戒備狀態】當地時間7日從美國方面獲悉，美國總統特朗普已聽取關於以色列與伊朗之間局勢升級的簡報。特朗普7日接受採訪時稱，伊朗當天稍早時向以色列實施導彈打擊“無助於談判”。他催促伊朗重返談判桌。特朗普說：“我對伊朗的建議是：你們已經發射了導彈，就行了。回到談判桌前，達成協議吧。”特朗普還表示，美軍處於戒備狀態。針對以色列當日早些時候對黎巴嫩貝魯特發動的襲擊，特朗普表示，“我對這事感到不高興。”特朗普還稱，他現在就要給以色列總理內塔尼亞胡打電話，告訴他不要反擊。特朗普說，距離美國與伊朗達成最終協議已“近在咫尺”，不希望“因為當前發生的事情導致協議告吹”。（央視新聞）
+
+---
+
+### 2026-06-08 04:38:04  #國際
+
+特朗普：目前局勢進展順利。
 
 ---
 
@@ -23164,41 +23290,5 @@ France Current Account Deficit Narrows in April — France's current account def
 ### 2026-06-05 15:03:02  #公司
 
 【華為雲CEO周躍峰：在手機上問個問題就可以產生Token，但這樣的Token價值有多大？】6月5日下午訊息，在華為雲INSPIRE創想者大會期間，華為公司董事、華為雲CEO周躍峰與媒體對話。被問及如何看待今年阿里雲、火山引擎淡化雲基礎三大件收入、發力MaaS收入一事，周躍峰表示，在通算時代，對雲廠商來說，更多是資源帶來的收入；到了智算階段，已經進入Token經濟時代。但他強調，不能簡單用多少日活、多少Token來衡量Token所產生的價值。“我更願意去看我們有多少Token是面向ToB提升生產力。因為平時我閒著沒事，在手機上問一個問題，它也可以產生Token，但這樣的Token到底價值有多大？我覺得是很難說的。”他說，華為雲更看重每一個Token背後，能夠給生產力，給我們的生活水平真正帶來多大的價值。（新浪科技）
-
----
-
-### 2026-06-05 15:02:40  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS #399006.SZ
-
-On Friday June 5, China's Shanghai Composite Index fell 30.04 pts (-0.74%) to 4,027.74. The Shenzhen Composite Index dropped 346.87 pts (-2.21%) to 15,314.70. The CSI 300 Index declined 87.83 pts (-1.79%) to 4,816.92. ChiNext fell 130.95 pts (-3.20%) to 3,957.94. The STAR 50 Index slid 69.73 pts (-4.01%) to 1,668.33.
-
----
-
-### 2026-06-05 15:02:25  #MKT News
-
-【China launches 12 Qianfan polar-orbit satellites】On the 5th at 14:34, a Long March-8 rocket lifted off from Hainan commercial spaceport and accurately inserted 12 Qianfan polar-orbit satellites into their planned orbit; the launch was successful.
-
----
-
-### 2026-06-05 15:02:20  #市場
-
-意法半導體在米蘭上市的股價早盤下跌2.3%。
-
----
-
-### 2026-06-05 15:02:17  #MKT News #Market Regions #Greater China
-
-【Shanghai, Shenzhen turnover CNY3.07trn on June 5; Zhongji Xuchuang led stock turnover】On June 5 combined turnover on the Shanghai and Shenzhen exchanges was CNY3.069trn, up CNY311.5bn from the prior session. Shanghai turnover was CNY1.364trn (previous CNY1.275trn); traded volume 663m lots vs 621m last session. Shenzhen turnover was CNY1.705trn (previous CNY1.483trn); traded volume 818m lots vs 719m. Zhongji Xuchuang topped single-stock turnover at CNY58.33bn, followed by BOE Technology (CNY35.69bn), Xinyisheng (CNY34.17bn), GigaDevice (CNY27.57bn) and Hengtong Optic‑Electric (CNY24.74bn).
-
----
-
-### 2026-06-05 15:02:08  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities opened mixed on June 5: Germany's DAX down 39.09 points (-0.16%) at 24,877.10; UK FTSE 100 down 4.29 points (-0.04%) at 10,356.03; France's CAC 40 up 16.61 points (+0.20%) at 8,260.90; Euro Stoxx 50 down 11.73 points (-0.19%) at 6,091.60; Spain's IBEX 35 up 59.63 points (+0.33%) at 18,333.73; Italy's FTSE MIB up 30.14 points (+0.06%) at 50,204.50.
-
----
-
-### 2026-06-05 15:01:54  #其他
-
-【我國成功發射千帆極軌12組衛星】5日14時34分，在海南商業航天發射場，長征八號運載火箭將千帆極軌12組衛星準確送入預定軌道，發射任務獲得圓滿成功。(新華社)
 
 ---

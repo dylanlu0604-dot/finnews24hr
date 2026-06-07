@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:37:51_
-_本檔包含 3838 則快訊，約 707986 字_
+_更新時間：2026-06-08 04:53:21_
+_本檔包含 3837 則快訊，約 708249 字_
+
+---
+
+### 2026-06-03 09:39:37  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量542億元。
+
+---
+
+### 2026-06-03 09:39:19  #公司 #市場
+
+【儲存晶片概念震盪拉昇 同有科技漲超10%】儲存晶片概念震盪拉昇，同有科技漲超10%，江波龍、朗科科技、夏農芯創、德明利、兆易創新、大為股份、神工股份跟漲。
+
+---
+
+### 2026-06-03 09:39:12  #MKT News
+
+【Cuba rebuts US sanctions designation of Cuban Enterprise Management Group】The Cuban government on the 2nd rejected US sanctions and allegations against the Cuban Enterprise Management Group, saying the company exists to promote Cuba’s economic and social development. Cuba said the US executive order published May 1 designated the group and threatens secondary sanctions on foreign entities that do business with it, calling the measure the most intense, disproportionate and dangerous escalation in recent bilateral relations aimed at isolating Cuba across diplomatic, commercial, financial and energy sectors and creating a pretext for possible military intervention.
+
+---
+
+### 2026-06-03 09:39:05  #公司 #國際
+
+【古巴駁斥美國對古巴企業管理集團公司指控】古巴政府2日發表宣告，駁斥美國對古巴企業管理集團公司的制裁和指控，強調這家公司旨在促進古巴經濟和社會發展。宣告說，美國5月1日公佈的行政令將古巴企業管理集團公司列為制裁目標，並宣佈對與該公司有業務往來的外國實體實施次級制裁。美方行政令是近期“美古關係最激烈、最不成比例和最危險的升級”，目的是從外交、商業、金融和能源領域全面孤立古巴，併為可能的軍事幹預製造藉口。（新華社）
+
+---
+
+### 2026-06-03 09:38:23  #國際
+
+【中國政府朝鮮半島事務特別代表劉曉明同俄羅斯副外長魯登科舉行磋商】2026年6月1日，中國政府朝鮮半島事務特別代表劉曉明在莫斯科同俄羅斯副外長魯登科舉行磋商，雙方就東北亞和朝鮮半島局勢深入交換意見。雙方一致認為，維護東北亞和朝鮮半島和平穩定符合地區國家共同利益和國際社會共同期待，中俄雙方將繼續加強溝通協調，為維護東北亞地區長治久安發揮建設性作用。（外交部）
+
+---
+
+### 2026-06-03 09:37:59  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SZSE Component
+
+Mainland A-share semiconductor sector rallied: Yutai Micro up >15%, Youxun and Shengke Communication up >10%, Kangqiang Electronics hit the daily trading limit; Diao Micro, Yangjie Technology and Maxscend among top gainers.
+
+---
+
+### 2026-06-03 09:37:57  #公司 #資料
+
+【標普全球香港5月PMI升至50.4，重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。企業5月新出口訂單有實質增長，且擴張速度加快，受新產品上市帶動；但競爭激烈加上本地需求較弱，整體銷情受壓。企業營運成本壓力仍大，採購價格升幅創4年半最高，燃油相關產品升幅更大。有受訪公司為刺激銷量推出減價優惠，產出售價整體升幅比4月收窄。員工成本溫和上升，增幅為3月以來最小。
 
 ---
 
@@ -23080,53 +23122,5 @@ Japan's Nikkei 225 opened down 377.08 points (-0.56%) at 66,557.25 on Tuesday, J
 ### 2026-06-02 07:58:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 【China urges immediate Israeli withdrawal from Lebanon】Beijing, Jun 2 (Beijing time early hours) — At a UN Security Council emergency meeting on the Lebanon-Israel situation, China’s UN ambassador Fu Cong said the situation has sharply escalated: Israel has expanded military operations in Lebanon, widened a so‑called “security zone,” crossed the Litani River and occupied Beaufort Castle — its deepest incursion into Lebanon in more than 20 years. Fu said Israel has announced intentions to further expand ground operations and that the ceasefire is effectively dead, prompting serious international concern. China called for an immediate ceasefire and full Israeli withdrawal, increased support to Lebanon, and for UNIFIL to be enabled to carry out its mandate to preserve regional stability.
-
----
-
-### 2026-06-02 07:57:50  #公司 #國際
-
-【美國證券交易委員會為馬斯克就推特一事達成的和解協議辯護 稱該協議體現了“雙方的妥協”】美國證券交易委員會（SEC）為其與埃隆·馬斯克達成的收購推特股份的和解協議進行了辯護，稱該協議體現了“雙方的妥協”，且不存在串通嫌疑。此前，負責審理此案的法官曾表示該協議引發了“警報”。在提交給華盛頓特區聯邦法院的檔案中，SEC還在腳註中指出，若該和解協議獲得批准，將允許馬斯克公開否認相關指控，這反映了近期針對達成執法和解的被告所實施的政策變更。該和解協議要求設立一個以馬斯克名義的信託基金，支付 150 萬美元，以解決SEC關於這位全球首富在2022年3月和4月披露其購買推特股份資訊時延遲了11天，從而得以在投資者察覺前以低價買入的指控。馬斯克表示，披露延遲是無意的。他最終於2022年10月以440億美元收購推特，並將其更名為X。在週一的檔案中，SEC表示這項“公平、合理且適當”的和解協議“並非雙方任何不當串通的結果”，而是“源於記錄在案的律師之間的公平談判，並體現了雙方的妥協”。該機構還強調，150萬美元的罰款是同類案件中數額最大的，且與信託基金達成和解符合SEC在近期案件中的慣例。
-
----
-
-### 2026-06-02 07:57:04  #國際
-
-“大空頭”、美國知名做空機構香櫞研究創始人安德魯·萊夫特被判證券欺詐罪名成立。
-
----
-
-### 2026-06-02 07:55:48  #公司 #市場
-
-【六連板*ST雅博：公司股票交易存在市場情緒過熱、非理性炒作情況】六連板*ST雅博(002323)6月2日早間披露股票交易異動公告稱，公司股票交易價格近期波動較大，存在市場情緒過熱、非理性炒作情況，隨時存在快速下跌的風險。公司經營業績虧損，資金鍊較為緊張；公司股票存在終止上市（退市）風險。經核查，公司經營情況及內外部經營環境未發生重大變化。公司、控股股東不存在關於公司的應披露而未披露的重大事項，或處於籌劃階段的重大事項。
-
----
-
-### 2026-06-02 07:55:21  #MKT News #Market Regions #Wall Street (US)
-
-Swiss dental med‑tech company vVARDIS plans to pursue a US IPO this year.
-
----
-
-### 2026-06-02 07:55:02  #國際
-
-市場訊息：日本正考慮在2027年4月推出下調銷售稅的舉措。
-
----
-
-### 2026-06-02 07:54:46  #其他
-
-【義大利南部海域發生6.2級地震 多地有震感】義大利國家地球物理與火山研究所2日釋出訊息說，意南部卡拉布里亞大區附近海域當天凌晨發生6.2級地震。目前尚無人員傷亡和重大財產損失報告。據該研究所監測，地震發生於當地時間2日0時12分35秒（北京時間2日6時12分35秒），震中位於卡拉布里亞大區科森扎省西北海岸附近海域，震源深度約250公里。此次地震震感範圍較廣。義大利南部多個地區民眾報告感受到震動，包括卡拉布里亞、西西里、坎帕尼亞和普利亞等大區。部分居民在地震發生後短暫離開住所前往戶外避險。義大利民防部門和地方政府正持續監測震後情況。該研究所表示，將對後續地震活動保持跟蹤，並及時釋出相關資訊。（新華社）
-
----
-
-### 2026-06-02 07:54:33  #市場 #國際
-
-日本10年期國債收益率上漲0.5個基點，至2.685%。
-
----
-
-### 2026-06-02 07:53:43  #公司 #市場
-
-【應用需求旺盛 年內多種小金屬價格攀升】2026年以來，多種小金屬價格持續攀升。根據上海鋼聯電子商務股份有限公司資料，截至6月1日，鉭錠價格較去年年底上漲157.69%、鍺錠價格較去年年底上漲83.82%、鉬鐵價格較去年年底上漲35.65%。蘇商銀行特約研究員武澤偉在接受記者採訪時表示，鉭、鍺、鉬等小金屬年內價格攀升，核心邏輯均指向供給剛性約束與新興需求擴張的雙重共振。（證券日報）
 
 ---

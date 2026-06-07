@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:37:51_
-_本檔包含 3603 則快訊，約 707799 字_
+_更新時間：2026-06-08 04:53:21_
+_本檔包含 3607 則快訊，約 707760 字_
+
+---
+
+### 2026-06-02 07:57:50  #公司 #國際
+
+【美國證券交易委員會為馬斯克就推特一事達成的和解協議辯護 稱該協議體現了“雙方的妥協”】美國證券交易委員會（SEC）為其與埃隆·馬斯克達成的收購推特股份的和解協議進行了辯護，稱該協議體現了“雙方的妥協”，且不存在串通嫌疑。此前，負責審理此案的法官曾表示該協議引發了“警報”。在提交給華盛頓特區聯邦法院的檔案中，SEC還在腳註中指出，若該和解協議獲得批准，將允許馬斯克公開否認相關指控，這反映了近期針對達成執法和解的被告所實施的政策變更。該和解協議要求設立一個以馬斯克名義的信託基金，支付 150 萬美元，以解決SEC關於這位全球首富在2022年3月和4月披露其購買推特股份資訊時延遲了11天，從而得以在投資者察覺前以低價買入的指控。馬斯克表示，披露延遲是無意的。他最終於2022年10月以440億美元收購推特，並將其更名為X。在週一的檔案中，SEC表示這項“公平、合理且適當”的和解協議“並非雙方任何不當串通的結果”，而是“源於記錄在案的律師之間的公平談判，並體現了雙方的妥協”。該機構還強調，150萬美元的罰款是同類案件中數額最大的，且與信託基金達成和解符合SEC在近期案件中的慣例。
+
+---
+
+### 2026-06-02 07:57:04  #國際
+
+“大空頭”、美國知名做空機構香櫞研究創始人安德魯·萊夫特被判證券欺詐罪名成立。
+
+---
+
+### 2026-06-02 07:55:48  #公司 #市場
+
+【六連板*ST雅博：公司股票交易存在市場情緒過熱、非理性炒作情況】六連板*ST雅博(002323)6月2日早間披露股票交易異動公告稱，公司股票交易價格近期波動較大，存在市場情緒過熱、非理性炒作情況，隨時存在快速下跌的風險。公司經營業績虧損，資金鍊較為緊張；公司股票存在終止上市（退市）風險。經核查，公司經營情況及內外部經營環境未發生重大變化。公司、控股股東不存在關於公司的應披露而未披露的重大事項，或處於籌劃階段的重大事項。
+
+---
+
+### 2026-06-02 07:55:21  #MKT News #Market Regions #Wall Street (US)
+
+Swiss dental med‑tech company vVARDIS plans to pursue a US IPO this year.
+
+---
+
+### 2026-06-02 07:55:02  #國際
+
+市場訊息：日本正考慮在2027年4月推出下調銷售稅的舉措。
+
+---
+
+### 2026-06-02 07:54:46  #其他
+
+【義大利南部海域發生6.2級地震 多地有震感】義大利國家地球物理與火山研究所2日釋出訊息說，意南部卡拉布里亞大區附近海域當天凌晨發生6.2級地震。目前尚無人員傷亡和重大財產損失報告。據該研究所監測，地震發生於當地時間2日0時12分35秒（北京時間2日6時12分35秒），震中位於卡拉布里亞大區科森扎省西北海岸附近海域，震源深度約250公里。此次地震震感範圍較廣。義大利南部多個地區民眾報告感受到震動，包括卡拉布里亞、西西里、坎帕尼亞和普利亞等大區。部分居民在地震發生後短暫離開住所前往戶外避險。義大利民防部門和地方政府正持續監測震後情況。該研究所表示，將對後續地震活動保持跟蹤，並及時釋出相關資訊。（新華社）
+
+---
+
+### 2026-06-02 07:54:33  #市場 #國際
+
+日本10年期國債收益率上漲0.5個基點，至2.685%。
+
+---
+
+### 2026-06-02 07:53:43  #公司 #市場
+
+【應用需求旺盛 年內多種小金屬價格攀升】2026年以來，多種小金屬價格持續攀升。根據上海鋼聯電子商務股份有限公司資料，截至6月1日，鉭錠價格較去年年底上漲157.69%、鍺錠價格較去年年底上漲83.82%、鉬鐵價格較去年年底上漲35.65%。蘇商銀行特約研究員武澤偉在接受記者採訪時表示，鉭、鍺、鉬等小金屬年內價格攀升，核心邏輯均指向供給剛性約束與新興需求擴張的雙重共振。（證券日報）
 
 ---
 
@@ -21757,29 +21805,5 @@ UK Foreign Secretary Cooper said Israel’s military escalation in Lebanon has c
 ### 2026-06-01 04:54:51  #公司 #國際
 
 【穆迪：美國家庭平均每月的能源支出增加約450美元】穆迪分析公司的資料顯示，自2月28日衝突爆發以來，美國家庭平均已額外支出447.19美元用於與燃料相關的開支。由於汽油價格和機票價格飆升，美國消費者累計損失近600億美元。
-
----
-
-### 2026-06-01 04:52:15  #其他
-
-一名官員透露，過去三週，美軍已暗中協助約70艘商船通行霍爾木茲海峽。
-
----
-
-### 2026-06-01 04:46:43  #MKT News #Macro & Rates #US Economy #WTI #Impact bullish #S&P500 #Impact bearish #US10Y
-
-【Moody's: US households' average monthly energy spending up about $447】Moody's Analytics says since the Feb. 28 outbreak of the Iran conflict US households have spent an average additional $447.19 on fuel-related costs. Higher gasoline and airfares have cost US consumers about $60bn in aggregate. Moody's chief economist Mark Zandi said: "Unless the war ends soon, cash‑strapped consumers will have no choice but to be more cautious with spending, which will threaten an already weak economy."
-
----
-
-### 2026-06-01 04:46:14  #MKT News
-
-【Bessent: Trump would strictly enforce any Iran deal; sees further oil declines】Bessent said if President Trump approves a potential Iran agreement, the U.S. would use military and economic measures to ensure strict compliance; a key compliance metric would be restoration of freedom of navigation through the Strait of Hormuz. He described recent inflationary pressure as limited and largely energy-driven, said markets have looked past near-term volatility and are pricing longer-term confidence in government macro strategy, and forecast energy prices will fall further in coming months. He added WTI is about 20–25% below its prior closing peak and gasoline is roughly 5% lower, with further declines expected.
-
----
-
-### 2026-06-01 04:40:24  #公司 #國際
-
-【伯克希爾·哈撒韋將以85億美元收購美國住宅建築商泰勒·莫里森】伯克希爾·哈撒韋公司將以85億美元的企業價值收購泰勒·莫里森住宅公司（TMHC），兩家公司週日聯合宣佈了這一訊息。伯克希爾將以每股72.50美元的現金價格收購這家住宅建築商，這相當於泰勒·莫里森的總股權價值約為68億美元。收購後，該公司將繼續由執行長謝麗爾·帕爾默執掌。
 
 ---

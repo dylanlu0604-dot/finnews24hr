@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:37:51_
-_本檔包含 3813 則快訊，約 708032 字_
+_更新時間：2026-06-08 04:53:21_
+_本檔包含 3813 則快訊，約 707996 字_
+
+---
+
+### 2026-06-05 15:02:40  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS #399006.SZ
+
+On Friday June 5, China's Shanghai Composite Index fell 30.04 pts (-0.74%) to 4,027.74. The Shenzhen Composite Index dropped 346.87 pts (-2.21%) to 15,314.70. The CSI 300 Index declined 87.83 pts (-1.79%) to 4,816.92. ChiNext fell 130.95 pts (-3.20%) to 3,957.94. The STAR 50 Index slid 69.73 pts (-4.01%) to 1,668.33.
+
+---
+
+### 2026-06-05 15:02:25  #MKT News
+
+【China launches 12 Qianfan polar-orbit satellites】On the 5th at 14:34, a Long March-8 rocket lifted off from Hainan commercial spaceport and accurately inserted 12 Qianfan polar-orbit satellites into their planned orbit; the launch was successful.
+
+---
+
+### 2026-06-05 15:02:20  #市場
+
+意法半導體在米蘭上市的股價早盤下跌2.3%。
+
+---
+
+### 2026-06-05 15:02:17  #MKT News #Market Regions #Greater China
+
+【Shanghai, Shenzhen turnover CNY3.07trn on June 5; Zhongji Xuchuang led stock turnover】On June 5 combined turnover on the Shanghai and Shenzhen exchanges was CNY3.069trn, up CNY311.5bn from the prior session. Shanghai turnover was CNY1.364trn (previous CNY1.275trn); traded volume 663m lots vs 621m last session. Shenzhen turnover was CNY1.705trn (previous CNY1.483trn); traded volume 818m lots vs 719m. Zhongji Xuchuang topped single-stock turnover at CNY58.33bn, followed by BOE Technology (CNY35.69bn), Xinyisheng (CNY34.17bn), GigaDevice (CNY27.57bn) and Hengtong Optic‑Electric (CNY24.74bn).
+
+---
+
+### 2026-06-05 15:02:08  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities opened mixed on June 5: Germany's DAX down 39.09 points (-0.16%) at 24,877.10; UK FTSE 100 down 4.29 points (-0.04%) at 10,356.03; France's CAC 40 up 16.61 points (+0.20%) at 8,260.90; Euro Stoxx 50 down 11.73 points (-0.19%) at 6,091.60; Spain's IBEX 35 up 59.63 points (+0.33%) at 18,333.73; Italy's FTSE MIB up 30.14 points (+0.06%) at 50,204.50.
+
+---
+
+### 2026-06-05 15:01:54  #其他
+
+【我國成功發射千帆極軌12組衛星】5日14時34分，在海南商業航天發射場，長征八號運載火箭將千帆極軌12組衛星準確送入預定軌道，發射任務獲得圓滿成功。(新華社)
 
 ---
 
@@ -22925,41 +22961,5 @@ Platinum Trades at 10-Week Low — Platinum futures held around $1,880 an ounce,
 ### 2026-06-04 11:16:40  #公司
 
 【軟銀中國投資公司再度經營異常】天眼查經營風險資訊顯示，近期，軟銀（中國）投資有限公司因透過登記的住所或者經營場所無法聯絡，被深圳市市場監督管理局南山監管局列入經營異常名錄。值得一提的是，此前，該公司因透過登記的住所或者經營場所無法聯絡，被列為經營異常。 該公司成立於2020年7月，法定代表人為吳友耿，註冊資本10億人民幣，經營範圍包括投資興辦實業、創業投資業務、投資諮詢、經濟資訊諮詢等，由軟銀投資機構株式會社全資持股。
-
----
-
-### 2026-06-04 11:16:30  #公司
-
-【粉筆CEO張小龍向人大師生道歉】粉筆CEO張小龍6月4日釋出道歉信：在昨日於中國人民大學哲學院的演講活動中，我因個人言行失當，中途離場並發表不當言論，給在場師生造成了困擾，也破壞了正常的交流氛圍。對此，我向所有老師和同學鄭重道歉。此次事件責任完全在我。我誠懇接受大家的批評，並對此深刻反思。對於給中國人民大學及哲學院帶來的負面影響，我深表歉意，並願意承擔相應責任。
-
----
-
-### 2026-06-04 11:15:59  #市場 #焦點
-
-玻璃連續主力合約日內跌2%，現報1027.00元。
-
----
-
-### 2026-06-04 11:15:46  #Trading Economics #Markets #Canada #Currency #Importance 0
-
-Canadian Dollar Hits Eight-Week Low — The Canadian dollar weakened to 1.39 per USD in early June, its lowest level in eight weeks, as escalating trade tensions and renewed conflict in the Middle East boosted demand for the US dollar. Tensions in the Gulf intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. The stronger greenback pressured major currencies broadly. Domestically, Canada’s economy contracted at an annualized rate of 0.1% in the first quarter, following a revised 1.0% contraction in the previous quarter, highlighting persistent economic weakness. Meanwhile, S&P Global data showed Canada’s services sector returned to modest growth in May. However, firms reported heightened uncertainty linked to Middle East tensions, while higher fuel prices contributed to the fastest increase in operating costs in four years.
-
----
-
-### 2026-06-04 11:15:24  #其他
-
-【國家電網：168項迎峰度夏重點工程正在加快建設】從國家電網瞭解到，據測算，今夏國家電網經營區最大用電負荷將超過13億千瓦，比去年同期增長約6%，目前，168項迎峰度夏重點工程正在加快建設。此前，據國家發展改革委介紹，從全國看，今年夏天最高用電負荷將達到16億千瓦左右，較去年增加約9000萬千瓦。經綜合研判，今夏全國能源電力供應能力總體能夠滿足高峰需求。
-
----
-
-### 2026-06-04 11:13:58  #其他
-
-【中鎢線上：鎢價持續探高 供需博弈延續】“中鎢線上”訊息，6月4日，鎢價持續呈現探漲趨勢，主要是由供給端惜售行為驅動的階段性表現，而需求端適度逢低補貨，市場整體成交氛圍有所改善。但業內對行情持續性普遍持謹慎態度，因主要應用行業對原料成本的敏感度較高，買賣雙方信心有所分化，市場仍然維持供需博弈格局。
-
----
-
-### 2026-06-04 11:11:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share glass-substrate theme reactivated: BOE Technology (BOE A) hit the daily limit, Hongxing Development had earlier hit the limit; Meidikai, Gebijia, Caihong and Dier Laser also rallied.
 
 ---

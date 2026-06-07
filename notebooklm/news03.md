@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-08 04:37:51_
-_本檔包含 3993 則快訊，約 707902 字_
+_更新時間：2026-06-08 04:53:21_
+_本檔包含 3992 則快訊，約 707935 字_
+
+---
+
+### 2026-06-04 11:16:30  #公司
+
+【粉筆CEO張小龍向人大師生道歉】粉筆CEO張小龍6月4日釋出道歉信：在昨日於中國人民大學哲學院的演講活動中，我因個人言行失當，中途離場並發表不當言論，給在場師生造成了困擾，也破壞了正常的交流氛圍。對此，我向所有老師和同學鄭重道歉。此次事件責任完全在我。我誠懇接受大家的批評，並對此深刻反思。對於給中國人民大學及哲學院帶來的負面影響，我深表歉意，並願意承擔相應責任。
+
+---
+
+### 2026-06-04 11:15:59  #市場 #焦點
+
+玻璃連續主力合約日內跌2%，現報1027.00元。
+
+---
+
+### 2026-06-04 11:15:46  #Trading Economics #Markets #Canada #Currency #Importance 0
+
+Canadian Dollar Hits Eight-Week Low — The Canadian dollar weakened to 1.39 per USD in early June, its lowest level in eight weeks, as escalating trade tensions and renewed conflict in the Middle East boosted demand for the US dollar. Tensions in the Gulf intensified after Iranian attacks on Kuwait, while US strikes near the Strait of Hormuz and limited diplomatic progress clouded prospects for a resolution. The stronger greenback pressured major currencies broadly. Domestically, Canada’s economy contracted at an annualized rate of 0.1% in the first quarter, following a revised 1.0% contraction in the previous quarter, highlighting persistent economic weakness. Meanwhile, S&P Global data showed Canada’s services sector returned to modest growth in May. However, firms reported heightened uncertainty linked to Middle East tensions, while higher fuel prices contributed to the fastest increase in operating costs in four years.
+
+---
+
+### 2026-06-04 11:15:24  #其他
+
+【國家電網：168項迎峰度夏重點工程正在加快建設】從國家電網瞭解到，據測算，今夏國家電網經營區最大用電負荷將超過13億千瓦，比去年同期增長約6%，目前，168項迎峰度夏重點工程正在加快建設。此前，據國家發展改革委介紹，從全國看，今年夏天最高用電負荷將達到16億千瓦左右，較去年增加約9000萬千瓦。經綜合研判，今夏全國能源電力供應能力總體能夠滿足高峰需求。
+
+---
+
+### 2026-06-04 11:13:58  #其他
+
+【中鎢線上：鎢價持續探高 供需博弈延續】“中鎢線上”訊息，6月4日，鎢價持續呈現探漲趨勢，主要是由供給端惜售行為驅動的階段性表現，而需求端適度逢低補貨，市場整體成交氛圍有所改善。但業內對行情持續性普遍持謹慎態度，因主要應用行業對原料成本的敏感度較高，買賣雙方信心有所分化，市場仍然維持供需博弈格局。
+
+---
+
+### 2026-06-04 11:11:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share glass-substrate theme reactivated: BOE Technology (BOE A) hit the daily limit, Hongxing Development had earlier hit the limit; Meidikai, Gebijia, Caihong and Dier Laser also rallied.
 
 ---
 
@@ -24002,47 +24038,5 @@ Australia Q1 GDP Growth Softer Than Expected — The Australian economy expanded
 ### 2026-06-03 09:39:41  #公司 #市場
 
 【元件板塊短線拉昇】元件板塊短線拉昇，一博科技漲停， 迅捷興、晶賽科技漲超10%，達利凱普、麥捷科技、勝宏科技、中富電路、科翔股份等跟漲。
-
----
-
-### 2026-06-03 09:39:37  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時放量542億元。
-
----
-
-### 2026-06-03 09:39:19  #公司 #市場
-
-【儲存晶片概念震盪拉昇 同有科技漲超10%】儲存晶片概念震盪拉昇，同有科技漲超10%，江波龍、朗科科技、夏農芯創、德明利、兆易創新、大為股份、神工股份跟漲。
-
----
-
-### 2026-06-03 09:39:12  #MKT News
-
-【Cuba rebuts US sanctions designation of Cuban Enterprise Management Group】The Cuban government on the 2nd rejected US sanctions and allegations against the Cuban Enterprise Management Group, saying the company exists to promote Cuba’s economic and social development. Cuba said the US executive order published May 1 designated the group and threatens secondary sanctions on foreign entities that do business with it, calling the measure the most intense, disproportionate and dangerous escalation in recent bilateral relations aimed at isolating Cuba across diplomatic, commercial, financial and energy sectors and creating a pretext for possible military intervention.
-
----
-
-### 2026-06-03 09:39:05  #公司 #國際
-
-【古巴駁斥美國對古巴企業管理集團公司指控】古巴政府2日發表宣告，駁斥美國對古巴企業管理集團公司的制裁和指控，強調這家公司旨在促進古巴經濟和社會發展。宣告說，美國5月1日公佈的行政令將古巴企業管理集團公司列為制裁目標，並宣佈對與該公司有業務往來的外國實體實施次級制裁。美方行政令是近期“美古關係最激烈、最不成比例和最危險的升級”，目的是從外交、商業、金融和能源領域全面孤立古巴，併為可能的軍事幹預製造藉口。（新華社）
-
----
-
-### 2026-06-03 09:38:23  #國際
-
-【中國政府朝鮮半島事務特別代表劉曉明同俄羅斯副外長魯登科舉行磋商】2026年6月1日，中國政府朝鮮半島事務特別代表劉曉明在莫斯科同俄羅斯副外長魯登科舉行磋商，雙方就東北亞和朝鮮半島局勢深入交換意見。雙方一致認為，維護東北亞和朝鮮半島和平穩定符合地區國家共同利益和國際社會共同期待，中俄雙方將繼續加強溝通協調，為維護東北亞地區長治久安發揮建設性作用。（外交部）
-
----
-
-### 2026-06-03 09:37:59  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SZSE Component
-
-Mainland A-share semiconductor sector rallied: Yutai Micro up >15%, Youxun and Shengke Communication up >10%, Kangqiang Electronics hit the daily trading limit; Diao Micro, Yangjie Technology and Maxscend among top gainers.
-
----
-
-### 2026-06-03 09:37:57  #公司 #資料
-
-【標普全球香港5月PMI升至50.4，重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。企業5月新出口訂單有實質增長，且擴張速度加快，受新產品上市帶動；但競爭激烈加上本地需求較弱，整體銷情受壓。企業營運成本壓力仍大，採購價格升幅創4年半最高，燃油相關產品升幅更大。有受訪公司為刺激銷量推出減價優惠，產出售價整體升幅比4月收窄。員工成本溫和上升，增幅為3月以來最小。
 
 ---
