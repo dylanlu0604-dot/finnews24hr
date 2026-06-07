@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-08 05:31:58",
+  "updated": "2026-06-08 05:35:33",
   "count": 19127,
   "items": [
+    {
+      "id": "4922281",
+      "time": "2026-06-08 05:34:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗打擊了伊拉克蘇萊曼尼亞境內的多處據點。"
+    },
     {
       "id": "4922280",
       "time": "2026-06-08 05:27:21",
@@ -176404,14 +176412,6 @@
         "BRK.B"
       ],
       "text": "【Berkshire doubles down on homebuilders with about $8.5 billion Taylor Morrison deal】Berkshire Hathaway agreed to buy Taylor Morrison Home Corporation in an all-cash deal valuing the transaction at about $8.5 billion, paying $72.50 per share — implying an equity value of roughly $6.8 billion and a ~24% premium to Friday’s close of $58.50. Taylor Morrison, founded in 2013, builds residential homes and lifestyle communities across 12 U.S. states. Berkshire CEO Greg Abel said the deal expands Berkshire’s exposure to site-built homes and should allow gradual integration of operations; Berkshire’s prior homebuilding focus has centered on Clayton Homes, acquired in 2003."
-    },
-    {
-      "id": "4909080",
-      "time": "2026-06-01 05:33:49",
-      "tags": [
-        "行業"
-      ],
-      "text": "【A股6月將延續高位震盪 科技主線或內部聚焦】上週A股市場高位震盪，盤面呈現顯著的高低切換格局：前期領漲的AI主線出現資金獲利了結，而年初以來持續調整的白酒、地產等板塊修復回升。對此，券商策略展望報告認為，近期的市場分化是對前期極致結構化行情的消化，而非基本面趨勢逆轉。總的來看，高風險偏好資金的情緒演繹與倉位博弈已趨於充分，6月指數或延續高位盤整。風格演繹上，科技賽道的中期產業趨勢並未改變，後續科技主線或進一步向具備盈利兌現的方向聚焦，但不會出現成長向價值的全面切換。（上證報）"
     }
   ]
 }
