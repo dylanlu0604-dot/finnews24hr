@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-07 20:15:00",
-  "count": 18928,
+  "updated": "2026-06-07 20:18:54",
+  "count": 18932,
   "items": [
+    {
+      "id": "4921930",
+      "time": "2026-06-07 20:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：此次襲擊是對真主黨向以方開火的回應。"
+    },
+    {
+      "id": "4921929",
+      "time": "2026-06-07 20:16:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩安全訊息人士稱：貝魯特南郊發生空襲。"
+    },
+    {
+      "id": "mkt:019ea202-f3ec-7ee0-86cf-3b022b645c67",
+      "time": "2026-06-07 20:16:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israeli media report a joint statement saying that, at the direction of Prime Minister Netanyahu and Defense Minister Katz, the Israel Defense Forces are attacking terrorist headquarters in Beirut’s Dahiyeh district in retaliation for Hezbollah firing into Israeli territory."
+    },
+    {
+      "id": "4921928",
+      "time": "2026-06-07 20:15:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒稱美將以間諜威脅上調至最高階】當地時間6月6日，美國全國廣播公司報道稱，由於美國與以色列在對伊朗和黎巴嫩的戰事走向問題上分歧加大、關係趨緊，美國國防部下屬國防情報局近期更新內部反間諜威脅評估，將針對以色列的威脅等級上調至最高階。據報道，美方官員透露，美方擔憂以色列監視本國高階官員，藉機獲取美國在中東衝突議題上的內部商議與決策資訊，美國總統特使威特科夫也被列為以方重點監視物件。針對以上報道，以色列駐美大使館發表宣告稱，以色列對美國進行間諜活動的說法 “完全是無稽之談”。美國白宮一名官員回應稱，“整篇報道純屬虛構”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4921927",
+      "time": "2026-06-07 20:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍參謀長：我方正鞏固地面控制權，持續打擊哈馬斯，直至達成解除其武裝的目標。"
+    },
+    {
+      "id": "4921926",
+      "time": "2026-06-07 20:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍襲擊位於貝魯特郊區的真主黨指揮據點。"
+    },
     {
       "id": "mkt:019ea201-2f5e-7ee0-86cf-33b2a62ba477",
       "time": "2026-06-07 20:14:07",
@@ -174544,22 +174598,6 @@
         "MKT News"
       ],
       "text": "【Israeli strike near Tyre hospital injures 13, damages facilities — Lebanese health ministry】Lebanon's Ministry of Public Health said an Israeli airstrike hit an area near a hospital in the southern city of Tyre, injuring 13 hospital staff and causing severe damage to hospital facilities."
-    },
-    {
-      "id": "mkt:019e7df8-dc40-700f-a37d-b9d8a461c212",
-      "time": "2026-05-31 20:18:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Gaza health ministry said Israeli strikes since Oct. 7, 2023 have killed 72,939 people and injured 172,927."
-    },
-    {
-      "id": "4908868",
-      "time": "2026-05-31 20:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎南部醫院致13人受傷】黎巴嫩公共衛生部5月31日發表宣告說，以色列當天對黎南部城市提爾一所醫院附近區域發動空襲，造成13名醫院工作人員受傷，醫院設施遭嚴重破壞。宣告說，這所醫院此前曾在以軍襲擊中受損，此次襲擊再次對醫院設施造成嚴重破壞。宣告呼籲國際社會制止以色列不斷升級和擴大的襲擊行動，稱相關行動無視國際人道法及國際決議。以色列總理內塔尼亞胡31日發表影片講話稱，他已要求以軍擴大在黎巴嫩的軍事行動。（新華社）"
     }
   ]
 }
