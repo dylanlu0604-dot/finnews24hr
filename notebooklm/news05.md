@@ -1,7 +1,137 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-07 22:48:42_
-_本檔包含 3675 則快訊，約 706130 字_
+_更新時間：2026-06-07 23:42:03_
+_本檔包含 3665 則快訊，約 705809 字_
+
+---
+
+### 2026-06-02 06:39:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Falls by 3.21% — Top commodity losers are Oat (-3.21%) and Coffee (-2.12%). Gains are led by Sugar (2.48%) and Canola (1.86%).
+
+---
+
+### 2026-06-02 06:39:27  #其他
+
+中國地震臺網正式測定：06月02日06時12分在第勒尼安海（北緯39.30度，東經15.85度）發生6.2級地震，震源深度250千米。
+
+---
+
+### 2026-06-02 06:39:21  #宏觀 #焦點 #國際
+
+日本自民黨擬出臺加密貨幣ETF相關法律框架，並推動錨定日元的穩定幣落地。
+
+---
+
+### 2026-06-02 06:39:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
+
+【Multiple brokerages fined in May as regulators target branch compliance weaknesses】Since May, Chinese regulators have issued a wave of administrative penalties against securities firms for weak branch management and lapses in investment-banking duties. Choice data showed that as of May 31 China International Capital Co, SDIC Securities, Zheshang Securities and others were sanctioned for brokerage violations, underwriting negligence, inadequate overseas-subsidiary controls and employees’ unauthorized moonlighting. Market observers say enforcement is moving from business-level compliance toward deeper company governance, with branch control and employee conduct management emerging as key compliance shortfalls.
+
+---
+
+### 2026-06-02 06:39:10  #MKT News #Commodities #Energy
+
+Workers at Inpex Corp's Ichthys LNG export project in Australia will begin strike action after negotiations between union members and the company stalled.
+
+---
+
+### 2026-06-02 06:37:57  #公司
+
+【白酒消費稅納稅申報新規施行】6月1日起，《國家稅務總局關於調整消費稅納稅申報表有關事項的公告》施行，白酒生產企業須新增填寫《白酒消費稅計算明細表》和《白酒生產企業關聯銷售單位資訊報告表》。專家表示，新規推動資訊申報更加規範透明，有效規制關聯銷售定價，提升白酒消費稅徵管效能。今年以來，啤酒、白酒消費稅徵管規則持續完善，有利於全面歸集產銷價格與交易資料。 (中證報)
+
+---
+
+### 2026-06-02 06:37:00  #宏觀 #市場
+
+【儲蓄國債即將納入個人養老金產品池】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中證報）
+
+---
+
+### 2026-06-02 06:36:17  #國際
+
+烏克蘭地方當局敦促基輔民眾避難，基輔拉響空襲警報。
+
+---
+
+### 2026-06-02 06:35:56  #MKT News #XAUUSD #Impact bullish #DXY
+
+Ukrainian local authorities urged Kyiv residents to shelter in bunkers; air-raid sirens sounded in Kyiv.
+
+---
+
+### 2026-06-02 06:35:41  #MKT News #Macro & Rates #Treasury Yields
+
+【Savings treasury bonds to be added to personal pension product pool】On June 1 several banks' mobile apps, including Industrial and Commercial Bank of China (ICBC), showed a 'bond' entry in personal pension sections. A joint notice from China's Ministry of Finance and the PBOC states that institutions should, from June 2026, begin offering personal-pension savings treasury bonds (electronic). Market participants say the move adds a long-term, low-risk allocation option for savers, could boost pension contributions and expand the personal pension product set.
+
+---
+
+### 2026-06-02 06:35:00  #公司 #資料 #市場 #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】 
+① 時間待定 英偉達ComputeX 2026；
+② 08:30 澳洲聯儲官員Ian Harper在澳大利亞經濟開發委員會（CEDA）講話；
+③ 13:50 14:00 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）在韓國央行主辦的一場國際會議上講話；
+④ 17:00 歐元區5月調和CPI初值，歐洲央行管委Rehn講話；
+⑤ 20:30 美國克利夫蘭聯儲主席Hammack談論貨幣政策；
+⑥ 時間待定 微軟公司Microsoft Build開幕，為期兩天；
+⑦ 22:00 美國4月JOLTS職位空缺，英國央行行長貝利出席英國議會上議院經濟事務委員會聽證會；
+⑧ 22:35 歐洲央行副行長Boris Vujcic講話；
+⑨ 23:00 英國央行貨幣政策委員會（MPC）成員Greene談論“評估近期能源衝擊造成的通脹風險”，歐洲央行管委Sleijpen講話；
+⑩ 美股盤後 派拓網路PANW、猶他美容等釋出業績報告。
+
+---
+
+### 2026-06-02 06:34:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore Falls by 3.48% — Top commodity losers are Iron Ore (-3.48%), Gold (-1.30%) and Silver (-0.55%). Gains are led by Copper (2.79%), Silicon (2.56%) and Lithium Carbonate (0.85%).
+
+---
+
+### 2026-06-02 06:29:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Surges by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.43%), Natural Gas EU (5.08%) and Brent Crude Oil (4.27%). Biggest losers are Natural gas (-3.07%) and Methanol (-0.73%).
+
+---
+
+### 2026-06-02 06:26:52  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump reportedly berated Netanyahu, urged halt to planned Beirut strike; Iran threatened to shelve talks with US】Axios, citing two US officials and a person familiar with the call, reported that on Monday former US president Donald Trump angrily berated Israeli prime minister Benjamin Netanyahu, reportedly calling him 'f---ing crazy' and accusing him of ingratitude. The sources said Trump told Netanyahu to call off a planned strike on Beirut, warning that bombing Lebanon's capital would further isolate Israel, and said he had helped keep Netanyahu out of jail. Earlier Monday Iran threatened to shelve negotiations with the US. Trump later posted a public message thanking Netanyahu.
+
+---
+
+### 2026-06-02 06:24:34  #其他
+
+中國地震臺網自動測定：06月02日06時12分在第勒尼安海附近（北緯39.33度，東經15.78度）發生6.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-02 06:23:17  #國際
+
+【美媒稱特朗普斥以色列總理瘋了】據美國“阿克西奧斯新聞網（Axios）”當地時間6月1日下午報道，美國總統特朗普當天在與以色列總理內塔尼亞胡通話時，對以色列升級黎巴嫩局勢表示“強烈不滿”。報道稱，在這次“措辭激烈”的通話中，特朗普指責內塔尼亞胡在黎巴嫩問題上“行動過度”。據一名美國官員透露，特朗普警告內塔尼亞胡，如果轟炸黎巴嫩首都貝魯特，將“進一步加劇以色列在國際社會的孤立處境”。據兩名知情人士透露，特朗普在通話中稱內塔尼亞胡“瘋了”，並指責其“不知感恩”。一名美國官員轉述特朗普的話稱：“如果不是我，你早就進監獄了。我一直在幫你。現在所有人都討厭你，討厭以色列。”另一名知情人士表示，特朗普當時“非常憤怒”，甚至向內塔尼亞胡喊道：“你到底在幹什麼？” 報道稱，特朗普並不反對以色列針對黎巴嫩真主黨的襲擊採取“自衛行動”，但他認為內塔尼亞胡近期在黎巴嫩的軍事升級“反應過度”——除威脅空襲貝魯特外，以軍近期還擴大了在黎巴嫩南部的地面行動。 報道稱，此次通話是特朗普重返白宮以來與內塔尼亞胡最緊張的通話之一。特朗普憤怒的重要原因在於，以色列升級黎巴嫩局勢可能導致美國與伊朗正在進行的談判破裂。此前伊朗曾威脅稱，如果以色列繼續在黎巴嫩採取軍事行動，將退出與美國的談判。（央視新聞）
+
+---
+
+### 2026-06-02 06:21:36  #其他
+
+哈佛大學一項研究測算顯示：每年使用現金與簽帳金融卡付款的消費者，變相補貼了信用卡使用者合計300億美元的積分與返現福利。
+
+---
+
+### 2026-06-02 06:17:59  #MKT News #UNP.O
+
+U.S. financial outlet Semafor reports Union Pacific executives privately denied negotiating with Trump over a 15% stake.
+
+---
+
+### 2026-06-02 06:17:44  #焦點 #國際
+
+聯合太平洋高管私下否認與特朗普就收購15%股權進行談判。
+
+---
+
+### 2026-06-02 06:17:11  #市場
+
+【10年期國債收益率低見1.704% 債市交易邏輯重回基本面】近期債市多頭情緒持續升溫，長端、超長端收益率接連突破關鍵點位。6月1日，10年期國債活躍券收益率一度下行至1.704%，為年內新低；30年期特別國債收益率盤中跌破2.2%關口，最低觸及2.1875%，超長債補漲行情進一步展開。多位機構人士認為，近期債市走強不只是流動性寬鬆驅動，更與基本面預期變化、信貸需求偏弱、機構配置力量增強等因素有關。隨著票據利率持續探底、資金面跨月保持平穩，債市交易邏輯正從單純關注機構行為，逐步回到基本面和融資需求本身。（上證報）
 
 ---
 
@@ -21986,191 +22116,5 @@ Ukrainian President Zelenskiy said Ukraine has not yet signed a bilateral drone 
 ### 2026-05-31 23:43:46  #其他
 
 【國際原子能機構說必須停止襲擊核設施】國際原子能機構5月31日在社交媒體發文說，該機構人員當天上午發現扎波羅熱核電站一座電機房外部受損。機構總幹事格羅西表示，襲擊核設施不可接受，必須停止。（新華社）
-
----
-
-### 2026-05-31 23:41:46  #MKT News
-
-Trump says a drone port on the White House ballroom roof could become the world’s most advanced facility and will provide long-term security for Washington, D.C.
-
----
-
-### 2026-05-31 23:40:05  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-According to Israeli i24News, a drone launched by HEZBOLLAH crashed in Israel's Upper Galilee in the north; initial reports indicate casualties.
-
----
-
-### 2026-05-31 23:40:00  #其他
-
-【北京首個醫美廣告新規正式釋出 叫停醫美花式違規宣傳】近日，北京市朝陽區市場監督管理局釋出《北京市朝陽區市場監督管理局醫療美容行業廣告宣傳合規指引（試行）》，這是北京市首個醫療美容行業廣告專項合規指引，為轄區醫美機構廣告宣傳劃定清晰合規邊界，對違規的醫美廣告進行明確規範。《北京市朝陽區市場監督管理局醫療美容行業廣告宣傳合規指引（試行）》中，規範主體主要為北京市朝陽區行政區域內的醫療美容機構。《指引》中明確，醫療美容廣告屬於醫療廣告，廣告主須依法取得醫療機構執業許可證或診所備案憑證才能釋出或者委託釋出醫療美容廣告。虛假宣傳、誇大宣傳、宣揚容貌焦慮，以患者名義或者形象進行診療前後效果對比等廣告均屬於違規廣告情形。（央視新聞）
-
----
-
-### 2026-05-31 23:38:57  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #CNH #Impact bearish
-
-【Chinese embassy in Czech Republic condemns Czech Senate president Vystrčil’s visit to Taiwan】The Chinese embassy in the Czech Republic strongly condemned and firmly opposed Czech Senate president Vystrčil’s trip to Taiwan, saying the visit flagrantly violated China’s sovereignty and territorial integrity, seriously interfered in China’s internal affairs, breached the Czech Republic’s one‑China commitment, and ignored the Czech government’s position and mainstream public opinion while serving personal interests.
-
----
-
-### 2026-05-31 23:37:06  #國際
-
-真主黨發射的一架無人機墜入以色列北部上加利利地區，初步訊息稱已造成人員受傷。
-
----
-
-### 2026-05-31 23:35:37  #其他
-
-市場資訊：儘管比特幣現貨ETF出現30億美元資金流出，但其市場輿情熱度仍創下2026年新高。
-
----
-
-### 2026-05-31 23:34:31  #國際
-
-【中國駐捷克大使館就捷克議會參議院主席赴臺灣地區訪問答記者問】5月31日，中國駐捷克大使館發言人就捷克議會參議院主席赴臺灣地區訪問答記者問。
-
-問：捷克議會參議院主席維斯特奇爾於今天啟程赴臺灣地區訪問。中國駐捷克使館對此有何評論？
-
-答：中方一貫堅決反對建交國同中國臺灣地區進行任何形式官方往來。捷克議會參議院主席維斯特奇爾無視捷克政府立場及主流民意，出於個人私利執意再次竄訪中國臺灣地區，嚴重干涉中國內政，嚴重侵犯中國國家主權和領土完整，嚴重違反國際關係基本準則和捷方一箇中國政治承諾。中方對此予以強烈譴責和堅決反對。
-
-世界上只有一箇中國，臺灣是中國領土不可分割的一部分，中華人民共和國政府是代表全中國的唯一合法政府。中國政府和人民捍衛國家主權和領土完整的決心堅定不移。中方敦促捷方恪守一箇中國原則，立即採取有效措施消除這一錯誤行徑的惡劣影響，以實際行動維護中捷關係發展大局。
-
----
-
-### 2026-05-31 23:28:08  #公司
-
-【6家保險資金押注長鑫科技 科創企業密集衝刺資本市場】近期，國內硬科技企業IPO熱潮不斷，先是國產儲存晶片龍頭企業長鑫科技科創板IPO獲上市委會議透過，再是宇樹科技將於明日（6月1日）上會審議。科創企業密集衝刺資本市場，其背後的股東陣容也受到市場關注，而其中，不乏保險資金的身影。記者梳理發現，此次佈局長鑫科技的保險機構包括和諧健康、陽光人壽、中郵人壽、國壽投資、人保資本、人保科創，六家險資直接持股合計為3.96%。而在明天即將上會的宇樹科技股東結構中，有20餘家保險公司以有限合夥人身份參與私募股權基金，間接投資了宇樹科技。此外，記者瞭解到，剛剛啟動IPO上市輔導的長江儲存，股東結構中也有險資身影。（央視財經）
-
----
-
-### 2026-05-31 23:25:00  #央行 #其他
-
-【英國央行官員格林表示，穩定幣需求或將很快消退】英國央行政策委員梅根·格林周日稱，穩定幣的熱度或將很快降溫，代幣化存款（即傳統銀行存款的數字化形式）將取而代之，不過該行部分同僚持不同觀點。穩定幣是一類旨在維持幣值穩定的加密資產，近年來人氣持續攀升。儘管近幾個月其發行規模趨於平穩，但仍有部分業內人士預計其需求會繼續走高。格林在克羅埃西亞杜布羅夫尼克的一場會議上表示：“我認為代幣化存款大機率會取代穩定幣。五年之後，我們或許會疑惑當初為何還在討論穩定幣。”她認為，央行數字貨幣、穩定幣與數字化存款均擁有各自市場。但一旦商業銀行意識到自身會流失傳統存款，代幣化存款最終將成為主流選擇。
-
----
-
-### 2026-05-31 23:24:02  #市場 #國際
-
-【算力金屬錫價格暴漲 錫價半年飆漲40%】在金屬世界裡，有一種金屬錫，因為具有導電性好、熔點低、焊接穩定性強等特性，成為半導體先進封裝工藝中的關鍵基礎材料。算力越強，晶片堆疊越密集，錫消耗量就越大，因此被稱為“算力金屬”。隨著人工智慧產業的快速發展，金屬錫的價格，出現明顯上漲，從去年11月的每噸30萬元，漲至目前的每噸42萬元左右，半年上漲40%，處在歷史高位。據瞭解，我國是全球最大的精煉錫生產國和消費國，但受國內錫礦資源品位下滑等因素影響，目前，國內冶煉用錫礦大約三分之二依賴進口。從去年開始，緬甸、印度尼西亞、剛果（金）等錫主產國受到出口限制、地質災害等因素影響，錫供應出現緊缺。業界普遍認為，未來一到兩年，錫價上漲將是長期態勢。此外，採訪中不少企業負責人也表示，隨著下游需求結構的變化，金屬錫產業鏈將逐步向高研發投入、高技術輸出方向發展，這也意味著產業鏈將迎來新一輪洗牌。 (央視財經)
-
----
-
-### 2026-05-31 23:20:07  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Lebanon's Health Ministry said Israeli strikes since March 2 have killed 3,412 people.
-
----
-
-### 2026-05-31 23:18:42  #國際
-
-英國聯合日本、義大利研發的“暴風雨”戰鬥機專案將延期數年，英國皇家空軍預計要到2030年代末乃至2040年代才能列裝該機型。 批評人士指責英國工黨未能撥付相關資金。
-
----
-
-### 2026-05-31 23:18:14  #國際
-
-阿聯酋關閉伊朗駐迪拜紅新月會醫院，並凍結其相關資產。
-
----
-
-### 2026-05-31 23:15:57  #國際
-
-【中國駐美大使：中美兩國人民渴望友好的初心沒有變】中國駐美國大使館5月30日舉辦“匹克球之夜”活動。中國駐美大使謝鋒在致辭中說，從乒乓球到匹克球，變的是球拍，不變的是兩國人民渴望友好的初心。當晚，謝鋒與美國青少年匹克球訪華團師生、家長等歡聚一堂，重溫中美青少年從“以球會友”到“以心相交”的美好歷程。（新華社）
-
----
-
-### 2026-05-31 23:13:53  #其他
-
-尚比亞自6月1日起將柴油零售價下調5.5%。
-
----
-
-### 2026-05-31 23:13:31  #市場
-
-康菲石油下調全年產量預期，其股價三個月內下跌16.1%，表現遜於納斯達克指數。
-
----
-
-### 2026-05-31 23:13:10  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Lebanese official data show Israeli attacks on Lebanon have injured 10,269 people since March 2.
-
----
-
-### 2026-05-31 23:11:14  #其他
-
-黎巴嫩官方資料顯示：自3月2日以來，死亡人數已達3412人。
-
----
-
-### 2026-05-31 23:05:55  #公司 #觀點
-
-摩根士丹利因營收及增長前景堪憂，下調Elastic、UiPath與PagerDuty三家公司的目標股價。
-
----
-
-### 2026-05-31 23:04:45  #MKT News #Market Regions #Japan & APAC
-
-According to a Nikkei poll, Japan's Prime Minister Sanae Takaichi's approval rating fell to 66%.
-
----
-
-### 2026-05-31 23:04:44  #國際
-
-日經新聞民調：日本首相高市早苗支援率跌至66%。
-
----
-
-### 2026-05-31 23:00:42  #國際
-
-特朗普向伊朗提出更強硬的和平框架條件。
-
----
-
-### 2026-05-31 22:58:55  #MKT News #Market Themes #AI Revolution #NVDA.O #Impact bullish #MSFT.O #AMZN.O
-
-【Guotai Haitong maintains overweight on overseas AI compute and applications supply chain】Guotai Haitong maintains an overweight rating on the overseas AI compute and applications supply chain. The report says OpenAI and Anthropic’s rapid growth both validates expanding AI model capability and is lifting demand across the AI industry chain. Recommended focuses: (1) hardware suppliers supporting compute expansion — GPU/ASIC, CPU, storage, advanced process nodes and packaging, and semiconductor equipment; (2) cloud providers and infrastructure platforms hosting AI workloads and distributing models; (3) application companies able to deliver full-ecosystem, full-scenario deployments.
-
----
-
-### 2026-05-31 22:58:30  #國際
-
-得州總檢察長帕克斯頓向媒體表示，他本週將與美國參議院多數黨領袖圖恩會面。
-
----
-
-### 2026-05-31 22:56:12  #MKT News
-
-CBS News reports that as of Sunday morning mediators were still discussing a US–Iran memorandum of understanding.
-
----
-
-### 2026-05-31 22:56:02  #公司
-
-【國泰海通：維持海外AI算力及應用產業鏈“增持”評級】國泰海通維持海外AI算力及應用產業鏈“增持”評級。其研報指出，OpenAI及Anthropic的超高速增長，一方面驗證了AI模型的能力邊界持續擴張，另一方面帶動了全AI產業鏈的需求上行。建議重點關注三類方向：（1）受益於OpenAI及全球頭部模型廠商算力擴張的 GPU/ASIC、CPU、儲存、先進製程及先進封裝、半導體裝置等硬體供應鏈；（2）承接AI工作負載和模型分發的雲廠商及基礎設施平臺；（3）具備全生態、全場景落地能力的應用公司。
-
----
-
-### 2026-05-31 22:53:01  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CNN: Trump revisions to proposed Iran deal push U.S.-Iran talks back one week】CNN reported officials said Trump, after a Friday meeting with advisers, requested revisions to a proposed agreement with Iran that will extend negotiations by one week. Officials did not specify the requested changes but said the president is pushing for tougher language on Iran’s nuclear commitments and guarantees that Iran would reopen the Strait of Hormuz. It is unclear how those wording disputes will be resolved. Axios and the New York Times earlier reported Trump had proposed changes.
-
----
-
-### 2026-05-31 22:51:21  #國際
-
-市場訊息：美國目前尚未敲定與伊朗達成協議的最終日期及具體截止時限。 斡旋方正同伊朗與美國展開談判。
-
----
-
-### 2026-05-31 22:50:53  #國際
-
-市場訊息：特朗普對諒解備忘錄作出了若干實質性修改，目前暫無具體細節披露。
-
----
-
-### 2026-05-31 22:50:32  #國際
-
-市場訊息：據媒體報道，衛星影像顯示，在近期美以聯軍打擊的 18 處地下導彈設施中，伊朗已重新啟用 69 個隧道入口裡的 50 個。該媒體援引專家觀點稱，畫面中可見大型裝置正在開展修復作業。專家提醒，即便產能有所下降，只要發射裝置與操作人員保持在崗，伊朗仍可繼續實施導彈發射。
 
 ---

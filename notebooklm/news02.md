@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-07 22:48:42_
-_本檔包含 3817 則快訊，約 706796 字_
+_更新時間：2026-06-07 23:42:03_
+_本檔包含 3793 則快訊，約 706316 字_
+
+---
+
+### 2026-06-05 14:15:59  #公司
+
+【寶馬（中國）汽車貿易有限公司召回部分進口摩托車】日前，寶馬（中國）汽車貿易有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0062V：自即日起，召回2017年6月28日至2019年12月18日期間生產的部分進口K1600GT系列摩托車，共計336輛；2022年5月17日至2023年8月30日期間生產的部分進口K1600GTL系列摩托車，共計229輛；2017年10月10日至2024年2月1日期間生產的部分進口K1600B系列摩托車，共計1561輛。本次召回範圍內的摩托車，由於倒車控制單元密封不良，水汽可能侵入鏽蝕內部觸點，造成倒車控制單元功能失效。極端情況下，可能導致倒車控制單元內部短路過熱，存在安全隱患。
+
+---
+
+### 2026-06-05 14:15:56  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell more than $2 intraday to $71.88/oz, down 2.71%. New York silver futures slipped below $72/oz, off 2.75% on the day.
+
+---
+
+### 2026-06-05 14:15:09  #Trading Economics #Economy #Sweden #Current Account #Importance 1
+
+Sweden Current Account Surplus Smallest in Over 2 Years — Sweden’s current account posted a surplus of SEK 93.9 billion in the first quarter of 2026, narrowing from SEK 131.3 billion in the same period a year earlier. This marked the smallest quarterly surplus since the fourth quarter of 2023, largely driven by increased services imports and weaker investment returns. The services account deficit widened to SEK 31.3 billion from SEK 27.0 billion as services imports rose by SEK 19.3 billion year-on-year, while the primary income surplus narrowed to SEK 68.1 billion from SEK 90.7 billion, reflecting a drop in investment income. The trade surplus also declined to SEK 88.8 billion from SEK 102.9 billion as goods exports fell by SEK 16.6 billion. Partly offsetting these declines, the secondary income shortfall narrowed to SEK 31.6 billion from SEK 35.3 billion.
+
+---
+
+### 2026-06-05 14:15:01  #市場
+
+紐約期金日內跌1%，現報4459.87美元/盎司。
+
+---
+
+### 2026-06-05 14:15:01  #市場 #焦點
+
+紐約期金失守4460美元/盎司，日內跌1.00%。
+
+---
+
+### 2026-06-05 14:15:00  #市場 #焦點
+
+紐約期銀失守72美元/盎司，日內跌2.79%。
+
+---
+
+### 2026-06-05 14:14:52  #市場 #國際
+
+歐洲斯托克50股指期貨上漲0.13%，德國DAX股指期貨下跌0.12%，法國CAC 40股指期貨上漲0.12%，富時股指期貨上漲0.18%。
+
+---
+
+### 2026-06-05 14:14:41  #公司
+
+【知情人士：馬斯克向投行表態，SpaceX的發行價不會調整】知情人士透露，SpaceX執行長馬斯克在首次公開發行(IPO)過程中向各家投行表示，公司將發行價定為每股135美元，即週三修改後的IPO招股書中所披露的價格。雖然訊息人士強調，在IPO正式進行之前，這一決定仍可能發生變化，但此跡象表明，馬斯克決心顛覆華爾街傳統，按照他自己的想法來進行這項史上最大規模IPO。SpaceX計劃透過IPO籌集750億美元。SpaceX尚未立即回應置評請求。SpaceX於週四啟動了IPO路演，開始與投資者會面。證券發行方及投行通常在路演中收集投資者反饋，在股票開始交易前一天的會議上才確定最終IPO定價。三位熟悉路演情況的訊息人士稱，市場需求“勢不可擋”。其中一位訊息人士表示，負責此次IPO的分析師每天要接聽多達20通來自投資者的電話，遠高於熱門IPO案通常的10至15通。SpaceX預計將於6月12日（週五）正式上市交易。
+
+---
+
+### 2026-06-05 14:14:38  #Trading Economics #Economy #Norway #Manufacturing Production MoM #Importance 1
+
+Norway Manufacturing Output Falls 0.9% in April — Norway’s manufacturing production decreased by 0.9% month-over-month in April 2026, reversing a 2.0% rise in the previous month. Growth slowed in food, beverages, and tobacco (0.3% vs 1.0% in March), while several key industries returned to contraction, including fabricated metal products (-2.3% vs 1.6%), repair and installation of machinery (-2.5% vs 2.8%), computer and electrical equipment (-0.7% vs 2.0%), machinery and equipment (-1.6% vs 2.7%), ships, boats, and oil platforms (-0.7% vs 4.6%), and rubber, plastic, and mineral products (-0.2% vs 2.5%). On the other hand, output rebounded strongly for refined petroleum, chemicals, and pharmaceuticals (4.5% vs -1.9%) and basic metals (5.5% vs -0.1%).
+
+---
+
+### 2026-06-05 14:14:19  #公司
+
+【機構：OLED膝上型電腦顯示面板需求預計到2033年將達到115億美元】Omdia最新研究顯示，膝上型電腦用OLED顯示面板出貨規模預計將在2033年增長至115億美元，約佔OLED顯示總收入的16.2%。2026年，膝上型電腦OLED顯示面板收入預計將達到40億美元，主要由蘋果MacBook Pro系列的需求推動。從2026年7月起，三星顯示將為蘋果MacBook Pro系列（14.3英寸和16.3英寸）供應OLED面板，相關裝置預計將在2026年第三季度釋出。
+
+---
+
+### 2026-06-05 14:14:15  #MKT News #Market Regions #Greater China #BABA.N #Impact bullish #TCOM.O
+
+【Fliggy: inbound bookings up 237% YoY in past two weeks】Online travel platform Fliggy said inbound travel bookings in the past two weeks rose 237% YoY. Source markets Malaysia, South Korea and Canada each recorded increases of more than threefold. Summer inbound hotspots include Shanghai, Guangzhou, Chengdu, Beijing and Xi'an.
+
+---
+
+### 2026-06-05 14:13:38  #公司 #國際
+
+【美國政府將為煤電和煤炭專案提供資金支援】美國總統特朗普4日在白宮宣佈，美國政府將提供數億美元資金，支援本國燃煤發電廠擴大產能、改造升級，以及建設新的煤炭出口基礎設施。 美國能源部當天釋出公告說，將依據《國防生產法》向12個燃煤發電專案和一個煤炭海運出口碼頭專案提供高達5億美元的資金支援。這些專案旨在提升美國煤炭開採價值鏈、保障基本負荷發電的可靠性，以及增強關鍵能源基礎設施韌性。公告顯示，位於加利福尼亞州奧克蘭的出口終端設施每年可以處理超過1000萬噸的大宗商品。 能源部當天還宣佈，將提供3.5億美元資金支援4個選定的煤炭現代化和可靠性專案，以加強燃煤發電能力、提升電網可靠性、強化戰略效能源基礎設施。這些專案包括在阿拉斯加州和西弗吉尼亞州分別新建一個煤電廠、升級改造位於波多黎各瓜亞馬的一個煤電廠，以及重啟位於馬里蘭州、已於2024年停運的一個煤電廠。 特朗普再次當選總統後繼續採取支援煤炭行業發展的政策，上任以來簽署了多項旨在擴大煤炭開採和燃煤發電能力的行政令。(新華社)
+
+---
+
+### 2026-06-05 14:13:35  #Trading Economics #Economy #United Kingdom #House Price Index YoY #Importance 2
+
+UK House Prices Rise Less Than Expected: Halifax — The Halifax House Price Index showed UK house prices rose 0.5% year-on-year in May 2026, below the expected 1.0% increase and following a 0.4% gain in April. The average UK house price stood at £298,806. On a monthly basis, prices fell 0.1%, matching the decline recorded in April and contrasting with forecasts of a 0.1% increase. Amanda Bryden, Head of Mortgages at Halifax, noted that uncertainty surrounding developments in the Middle East and higher inflation expectations have kept borrowing costs elevated despite recent mortgage rate cuts, weighing on affordability and demand. Still, housing market activity has remained resilient, with transaction levels holding relatively steady. Regionally, Northern Ireland recorded the strongest annual house price growth at 7.8%, followed by Scotland (3.8%), the North East (3.1%), and the North West (3.0%). By contrast, prices fell in the South East (-2.1%) and London (-1.5%).
+
+---
+
+### 2026-06-05 14:13:12  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.7%，報8625.10點。
+
+---
+
+### 2026-06-05 14:12:55  #國際
+
+【韓國警方調查Polymarket 預測平臺亞洲擴張遭遇阻力】韓國警方已對當地Polymarket使用者涉嫌非法賭博展開調查，這家預測市場平臺在擴大亞洲業務的同時面臨日益嚴格的監管審查。據江原道地方警察廳網路調查科透露，該部門近期應韓國國家警察廳的要求啟動了這項調查。調查科表示，調查針對的是韓國國內Polymarket使用者，而非平臺本身。
+
+---
+
+### 2026-06-05 14:12:50  #其他
+
+【山東6000多萬畝小麥開始大面積收穫】記者從山東省人民政府新聞辦公室5日上午召開的新聞釋出會上獲悉，目前，山東6000多萬畝小麥正從南到北、由西向東陸續開鐮，進入大面積收穫階段。據介紹，山東小麥種植面積常年穩定在6000萬畝以上，位居全國第二；小麥產量約佔山東全年糧食總產量的一半。（新華社）
 
 ---
 
@@ -22745,245 +22841,5 @@ Japan's Nikkei index fell as much as 2.00% intraday.
 ### 2026-06-04 10:13:37  #MKT News
 
 【Spain activates annual heat-protection plan early】On the 3rd, Spanish authorities said the government has activated its annual heat-protection plan early to address health risks from sustained high temperatures. Officials reported 101 heat-related deaths in May, mostly elderly and concentrated in northern Spain.
-
----
-
-### 2026-06-04 10:13:26  #公司
-
-臺積電執行長：全球產能擴張主要由客戶需求及地方政府支援驅動。
-
----
-
-### 2026-06-04 10:13:13  #其他
-
-日經225指數跌2%。
-
----
-
-### 2026-06-04 10:12:51  #其他
-
-【西班牙政府提前啟動高溫防護機制】據西班牙方面3日訊息，為應對持續升溫帶來的健康風險，西班牙政府已啟動年度高溫防護計劃。資料顯示，受近日持續高溫影響，西班牙5月共計有101人死於高溫，其中大多數為老年人，主要來自西班牙北部地區。
-
----
-
-### 2026-06-04 10:12:35  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Near Two-Month High — The dollar index traded around 99.4 on Thursday, remaining close to a two-month high as stronger-than-expected US labor market data reinforced expectations of tighter Federal Reserve policy. The latest ADP report showed private-sector employment increased by 122K in May, surpassing forecasts and marking the strongest reading since January 2025. Earlier this week, JOLTS data revealed that job openings rose in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further insight into labor market conditions. The dollar also continued to draw support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently assign an 85% probability to a quarter-point Fed rate hike by year-end, up from 60% a week earlier.
-
----
-
-### 2026-06-04 10:12:19  #市場 #國際
-
-印尼盾下跌0.4%，報兌美元跌至18015，創歷史新低。
-
----
-
-### 2026-06-04 10:12:02  #市場
-
-富時中國A50指數期貨下跌1%。
-
----
-
-### 2026-06-04 10:11:55  #國際
-
-日本內閣官房長官木原稔：關於四方會談和訪印事宜尚未做出任何決定。
-
----
-
-### 2026-06-04 10:11:51  #MKT News #Market Regions #Japan & APAC
-
-Japan's Chief Cabinet Secretary Kihara said the government and the Bank of Japan maintain close communication on economic and financial trends and will continue to do so.
-
----
-
-### 2026-06-04 10:11:37  #央行 #國際
-
-日本內閣官房長官木原稔：日本政府與日本央行一直就經濟及金融趨勢保持密切溝通，未來也將繼續維持這一溝通機制。
-
----
-
-### 2026-06-04 10:10:57  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bearish
-
-TSMC (TSM.N) CEO said customer prepayments have only partially eased substantial capex pressure.
-
----
-
-### 2026-06-04 10:10:55  #MKT News #Market Regions #Japan & APAC
-
-Japan's chief cabinet secretary Kihara said he expects the Bank of Japan to adopt appropriate monetary policy to achieve its price target sustainably and stably, while working closely with the government.
-
----
-
-### 2026-06-04 10:10:52  #央行 #國際
-
-日本內閣官房長官木原稔表示：預期日本央行將在與政府保持密切協作的前提下，實施恰當的貨幣政策，以可持續、穩定地實現其物價目標。
-
----
-
-### 2026-06-04 10:10:48  #MKT News #USDJPY
-
-KIHARA said specific monetary policy tools are to be decided by the BANK OF JAPAN.
-
----
-
-### 2026-06-04 10:10:42  #MKT News
-
-Chief Cabinet Secretary Kihara Minoru declined to comment on specific remarks by Bank of Japan Governor Ueda Kazuo.
-
----
-
-### 2026-06-04 10:10:30  #MKT News
-
-TSMC chief executive said employee profit-sharing rose 30% YoY, has no cap, and is expected to continue rising.
-
----
-
-### 2026-06-04 10:10:28  #公司
-
-臺積電執行長：客戶預付款僅能部分緩解鉅額投資壓力。
-
----
-
-### 2026-06-04 10:10:21  #央行 #國際
-
-日本內閣官房長官木原稔：就日本央行行長植田和男的具體言論不予置評。
-
----
-
-### 2026-06-04 10:10:16  #MKT News #Important #Commodities #Energy #Copper #Impact bullish #CNH #CSI300
-
-【State Grid expects summer peak demand to exceed 1.3 billion kW, up about 6% YoY】State Grid said its operating area is forecast to see a peak load above 1.3 billion kilowatts this summer, roughly 6% higher YoY. To ensure grid security and reliable supply it is accelerating capacity builds, expanding market-based power trading and promoting efficient use of clean energy; 168 peak-summer priority projects are being fast-tracked.
-
----
-
-### 2026-06-04 10:10:09  #MKT News #Market Themes #Chip Wars #TSM.N #Impact mixed
-
-TSMC (TSM.N) CEO: employee profit-sharing payouts to rise about 30% in 2024 and 2025; expects a further ~30% increase in 2026.
-
----
-
-### 2026-06-04 10:09:37  #公司
-
-臺積電CEO：員工分紅年度漲幅30%不存在上限，預計分紅將持續增長。
-
----
-
-### 2026-06-04 10:09:21  #其他
-
-【今夏國家電網最大用電負荷將超13億千瓦，同比增約6%】記者今天從國家電網瞭解到，據測算，今夏國家電網經營區最大用電負荷將超過13億千瓦，比去年同期增長約6%。為全力保障電網安全執行和電力可靠供應，國家電網加快保供能力建設，持續完善電力市場化交易，促進清潔能源高效利用，目前，168項迎峰度夏重點工程正在加快建設。（央視新聞）
-
----
-
-### 2026-06-04 10:08:48  #市場
-
-【光學光電子板塊震盪走高，華映科技、三安光電漲停】光學光電子板塊震盪走高，華映科技、三安光電漲停，恆太照明漲超18%，京東方A、民爆光電、華燦光電、緯達光電、得邦照明跟漲。
-
----
-
-### 2026-06-04 10:08:24  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-FactSet data show the Indonesian rupiah dipped below 18,000 per U.S. dollar for the first time.
-
----
-
-### 2026-06-04 10:08:08  #其他
-
-臺積電員工2026 年利潤分成獎金預計將增長逾 30%。
-
----
-
-### 2026-06-04 10:07:50  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量920億元。
-
----
-
-### 2026-06-04 10:07:46  #MKT News #Important #Market Regions #Greater China #02577.HK #Impact bullish #00400.HK #03986.HK
-
-Hong Kong semiconductor stocks rose in early trade: 02577.HK up more than 7%, 00400.HK +6.32%, 03986.HK nearly +6%, 01347.HK up over 4%.
-
----
-
-### 2026-06-04 10:07:38  #市場 #國際
-
-印尼盾兌美元匯率首次跌破18000關口。
-
----
-
-### 2026-06-04 10:06:57  #公司
-
-【愛瑪科技等成立智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，拜博智慧科技（蘇州）有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售；積體電路銷售；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由愛瑪科技全資子公司愛瑪創業投資（寧波）有限公司等共同持股。
-
----
-
-### 2026-06-04 10:06:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
-
-【Commercial bank Tier-2 perpetual bond issuance continues to heat up】Tier-2 perpetual bond issuance by Chinese commercial banks accelerated into June. As of June 3, banks issued 22 Tier-2 perpetual bonds year-to-date totaling 646 bln yuan; April issuance alone was 315 bln yuan, a multi-year high for the month. Market participants attribute the pickup to faster regulatory approvals, a low-rate window that lowers funding costs, and special government bond injections supporting bank capital. YTD issuance yields have declined sharply versus the same period in 2025, with a minimum of 1.9% and an average of 2.03% through June 3. Tianfeng Securities’ fixed-income chief analyst Tan Yiming said funds were the main buyers in May, drawn by relatively wider credit and product spreads.
-
----
-
-### 2026-06-04 10:06:42  #市場 #國際
-
-印尼盾進一步貶值，兌美元跌至17990的歷史新低。
-
----
-
-### 2026-06-04 10:06:17  #市場
-
-以太坊下跌3.5%，報1717.5美元。
-
----
-
-### 2026-06-04 10:06:13  #其他
-
-比特幣<BTC=>暴跌5.5%，跌至61344.2美元。
-
----
-
-### 2026-06-04 10:06:05  #其他
-
-【港股半導體股反彈 英諾賽科漲近9%】截至發稿，英諾賽科(02577.HK)漲8.76%，華虹半導體(01347.HK)漲4.81%，雲英谷科技(03310.HK)漲2.82%。
-
----
-
-### 2026-06-04 10:05:43  #其他
-
-三井商船：該專案總投資約為50億美元。
-
----
-
-### 2026-06-04 10:05:29  #國際
-
-NBA總裁：NBA歐洲聯賽計劃於2027年正式推出。
-
----
-
-### 2026-06-04 10:04:46  #國際
-
-三井商船：該專案將成為美國首座浮式液化天然氣設施。
-
----
-
-### 2026-06-04 10:04:42  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-The Indonesian rupiah extended losses in early trade, hitting a fresh record low of 17,960 per US dollar.
-
----
-
-### 2026-06-04 10:04:17  #公司 #市場
-
-【機器人概念反覆活躍 模塑科技3連板】機器人概念反覆活躍，模塑科技3連板，此前世運電路漲停，南山智尚、雙林股份、綠的諧波、北特科技、巨輪智慧跟漲。
-
----
-
-### 2026-06-04 10:03:13  #市場 #國際
-
-印尼盾兌美元跌至17960的歷史低點。
-
----
-
-### 2026-06-04 10:03:00  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Fall on Renewed US-Iran Tensions — The Hang Seng Index dipped 270 points, or 1.1%, to 25,364 on Thursday, extending losses from the previous session as renewed US-Iran clashes dampened risk appetite across global markets. Hong Kong equities tracked overnight declines on Wall Street, where investors turned cautious amid concerns that escalating tensions in the Middle East could threaten a fragile ceasefire and heighten risks to global growth. Technology stocks led the downturn, with Lenovo falling 3.6% amid weakness in US technology shares, while financial and retail trade counters also came under pressure. Other notable decliners included Tencent (-0.5%), Semiconductor Manufacturing International (-1.8%), AIA (-1.0%), Xiaomi (-1.1%), and Meituan (-1.9%). In contrast, Pop Mart International and Kuaishou Technology were among the few gainers, advancing 1.8% and 0.7%, respectively.
 
 ---

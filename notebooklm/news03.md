@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-07 22:48:42_
-_本檔包含 3977 則快訊，約 706567 字_
+_更新時間：2026-06-07 23:42:03_
+_本檔包含 3992 則快訊，約 706256 字_
+
+---
+
+### 2026-06-04 10:13:26  #公司
+
+臺積電執行長：全球產能擴張主要由客戶需求及地方政府支援驅動。
+
+---
+
+### 2026-06-04 10:13:13  #其他
+
+日經225指數跌2%。
+
+---
+
+### 2026-06-04 10:12:51  #其他
+
+【西班牙政府提前啟動高溫防護機制】據西班牙方面3日訊息，為應對持續升溫帶來的健康風險，西班牙政府已啟動年度高溫防護計劃。資料顯示，受近日持續高溫影響，西班牙5月共計有101人死於高溫，其中大多數為老年人，主要來自西班牙北部地區。
+
+---
+
+### 2026-06-04 10:12:35  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Holds Near Two-Month High — The dollar index traded around 99.4 on Thursday, remaining close to a two-month high as stronger-than-expected US labor market data reinforced expectations of tighter Federal Reserve policy. The latest ADP report showed private-sector employment increased by 122K in May, surpassing forecasts and marking the strongest reading since January 2025. Earlier this week, JOLTS data revealed that job openings rose in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further insight into labor market conditions. The dollar also continued to draw support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently assign an 85% probability to a quarter-point Fed rate hike by year-end, up from 60% a week earlier.
+
+---
+
+### 2026-06-04 10:12:19  #市場 #國際
+
+印尼盾下跌0.4%，報兌美元跌至18015，創歷史新低。
+
+---
+
+### 2026-06-04 10:12:02  #市場
+
+富時中國A50指數期貨下跌1%。
+
+---
+
+### 2026-06-04 10:11:55  #國際
+
+日本內閣官房長官木原稔：關於四方會談和訪印事宜尚未做出任何決定。
+
+---
+
+### 2026-06-04 10:11:51  #MKT News #Market Regions #Japan & APAC
+
+Japan's Chief Cabinet Secretary Kihara said the government and the Bank of Japan maintain close communication on economic and financial trends and will continue to do so.
+
+---
+
+### 2026-06-04 10:11:37  #央行 #國際
+
+日本內閣官房長官木原稔：日本政府與日本央行一直就經濟及金融趨勢保持密切溝通，未來也將繼續維持這一溝通機制。
+
+---
+
+### 2026-06-04 10:10:57  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bearish
+
+TSMC (TSM.N) CEO said customer prepayments have only partially eased substantial capex pressure.
+
+---
+
+### 2026-06-04 10:10:55  #MKT News #Market Regions #Japan & APAC
+
+Japan's chief cabinet secretary Kihara said he expects the Bank of Japan to adopt appropriate monetary policy to achieve its price target sustainably and stably, while working closely with the government.
+
+---
+
+### 2026-06-04 10:10:52  #央行 #國際
+
+日本內閣官房長官木原稔表示：預期日本央行將在與政府保持密切協作的前提下，實施恰當的貨幣政策，以可持續、穩定地實現其物價目標。
+
+---
+
+### 2026-06-04 10:10:48  #MKT News #USDJPY
+
+KIHARA said specific monetary policy tools are to be decided by the BANK OF JAPAN.
+
+---
+
+### 2026-06-04 10:10:42  #MKT News
+
+Chief Cabinet Secretary Kihara Minoru declined to comment on specific remarks by Bank of Japan Governor Ueda Kazuo.
+
+---
+
+### 2026-06-04 10:10:30  #MKT News
+
+TSMC chief executive said employee profit-sharing rose 30% YoY, has no cap, and is expected to continue rising.
+
+---
+
+### 2026-06-04 10:10:28  #公司
+
+臺積電執行長：客戶預付款僅能部分緩解鉅額投資壓力。
+
+---
+
+### 2026-06-04 10:10:21  #央行 #國際
+
+日本內閣官房長官木原稔：就日本央行行長植田和男的具體言論不予置評。
+
+---
+
+### 2026-06-04 10:10:16  #MKT News #Important #Commodities #Energy #Copper #Impact bullish #CNH #CSI300
+
+【State Grid expects summer peak demand to exceed 1.3 billion kW, up about 6% YoY】State Grid said its operating area is forecast to see a peak load above 1.3 billion kilowatts this summer, roughly 6% higher YoY. To ensure grid security and reliable supply it is accelerating capacity builds, expanding market-based power trading and promoting efficient use of clean energy; 168 peak-summer priority projects are being fast-tracked.
+
+---
+
+### 2026-06-04 10:10:09  #MKT News #Market Themes #Chip Wars #TSM.N #Impact mixed
+
+TSMC (TSM.N) CEO: employee profit-sharing payouts to rise about 30% in 2024 and 2025; expects a further ~30% increase in 2026.
+
+---
+
+### 2026-06-04 10:09:37  #公司
+
+臺積電CEO：員工分紅年度漲幅30%不存在上限，預計分紅將持續增長。
+
+---
+
+### 2026-06-04 10:09:21  #其他
+
+【今夏國家電網最大用電負荷將超13億千瓦，同比增約6%】記者今天從國家電網瞭解到，據測算，今夏國家電網經營區最大用電負荷將超過13億千瓦，比去年同期增長約6%。為全力保障電網安全執行和電力可靠供應，國家電網加快保供能力建設，持續完善電力市場化交易，促進清潔能源高效利用，目前，168項迎峰度夏重點工程正在加快建設。（央視新聞）
+
+---
+
+### 2026-06-04 10:08:48  #市場
+
+【光學光電子板塊震盪走高，華映科技、三安光電漲停】光學光電子板塊震盪走高，華映科技、三安光電漲停，恆太照明漲超18%，京東方A、民爆光電、華燦光電、緯達光電、得邦照明跟漲。
+
+---
+
+### 2026-06-04 10:08:24  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+FactSet data show the Indonesian rupiah dipped below 18,000 per U.S. dollar for the first time.
+
+---
+
+### 2026-06-04 10:08:08  #其他
+
+臺積電員工2026 年利潤分成獎金預計將增長逾 30%。
+
+---
+
+### 2026-06-04 10:07:50  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量920億元。
+
+---
+
+### 2026-06-04 10:07:46  #MKT News #Important #Market Regions #Greater China #02577.HK #Impact bullish #00400.HK #03986.HK
+
+Hong Kong semiconductor stocks rose in early trade: 02577.HK up more than 7%, 00400.HK +6.32%, 03986.HK nearly +6%, 01347.HK up over 4%.
+
+---
+
+### 2026-06-04 10:07:38  #市場 #國際
+
+印尼盾兌美元匯率首次跌破18000關口。
+
+---
+
+### 2026-06-04 10:06:57  #公司
+
+【愛瑪科技等成立智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，拜博智慧科技（蘇州）有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售；積體電路銷售；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由愛瑪科技全資子公司愛瑪創業投資（寧波）有限公司等共同持股。
+
+---
+
+### 2026-06-04 10:06:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+【Commercial bank Tier-2 perpetual bond issuance continues to heat up】Tier-2 perpetual bond issuance by Chinese commercial banks accelerated into June. As of June 3, banks issued 22 Tier-2 perpetual bonds year-to-date totaling 646 bln yuan; April issuance alone was 315 bln yuan, a multi-year high for the month. Market participants attribute the pickup to faster regulatory approvals, a low-rate window that lowers funding costs, and special government bond injections supporting bank capital. YTD issuance yields have declined sharply versus the same period in 2025, with a minimum of 1.9% and an average of 2.03% through June 3. Tianfeng Securities’ fixed-income chief analyst Tan Yiming said funds were the main buyers in May, drawn by relatively wider credit and product spreads.
+
+---
+
+### 2026-06-04 10:06:42  #市場 #國際
+
+印尼盾進一步貶值，兌美元跌至17990的歷史新低。
+
+---
+
+### 2026-06-04 10:06:17  #市場
+
+以太坊下跌3.5%，報1717.5美元。
+
+---
+
+### 2026-06-04 10:06:13  #其他
+
+比特幣<BTC=>暴跌5.5%，跌至61344.2美元。
+
+---
+
+### 2026-06-04 10:06:05  #其他
+
+【港股半導體股反彈 英諾賽科漲近9%】截至發稿，英諾賽科(02577.HK)漲8.76%，華虹半導體(01347.HK)漲4.81%，雲英谷科技(03310.HK)漲2.82%。
+
+---
+
+### 2026-06-04 10:05:43  #其他
+
+三井商船：該專案總投資約為50億美元。
+
+---
+
+### 2026-06-04 10:05:29  #國際
+
+NBA總裁：NBA歐洲聯賽計劃於2027年正式推出。
+
+---
+
+### 2026-06-04 10:04:46  #國際
+
+三井商船：該專案將成為美國首座浮式液化天然氣設施。
+
+---
+
+### 2026-06-04 10:04:42  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+The Indonesian rupiah extended losses in early trade, hitting a fresh record low of 17,960 per US dollar.
+
+---
+
+### 2026-06-04 10:04:17  #公司 #市場
+
+【機器人概念反覆活躍 模塑科技3連板】機器人概念反覆活躍，模塑科技3連板，此前世運電路漲停，南山智尚、雙林股份、綠的諧波、北特科技、巨輪智慧跟漲。
+
+---
+
+### 2026-06-04 10:03:13  #市場 #國際
+
+印尼盾兌美元跌至17960的歷史低點。
+
+---
+
+### 2026-06-04 10:03:00  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Fall on Renewed US-Iran Tensions — The Hang Seng Index dipped 270 points, or 1.1%, to 25,364 on Thursday, extending losses from the previous session as renewed US-Iran clashes dampened risk appetite across global markets. Hong Kong equities tracked overnight declines on Wall Street, where investors turned cautious amid concerns that escalating tensions in the Middle East could threaten a fragile ceasefire and heighten risks to global growth. Technology stocks led the downturn, with Lenovo falling 3.6% amid weakness in US technology shares, while financial and retail trade counters also came under pressure. Other notable decliners included Tencent (-0.5%), Semiconductor Manufacturing International (-1.8%), AIA (-1.0%), Xiaomi (-1.1%), and Meituan (-1.9%). In contrast, Pop Mart International and Kuaishou Technology were among the few gainers, advancing 1.8% and 0.7%, respectively.
 
 ---
 
@@ -23798,155 +24038,5 @@ People familiar with the matter said SpaceX plans to use IPO proceeds to expand 
 ### 2026-06-03 08:53:00  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Pressured by Strong US Jobs Data — Silver prices held near $75 per ounce on Wednesday, struggling to gain traction as stronger-than-expected US labor market data reinforced expectations that the Federal Reserve may keep interest rates elevated for an extended period. Data released on Tuesday showed US job openings surged in April to their highest level in nearly two years, while layoffs declined, pointing to continued resilience in the labor market. Investors are now focused on Friday’s closely watched nonfarm payrolls report for further clues on the trajectory of monetary policy. Meanwhile, ongoing uncertainty surrounding US-Iran peace negotiations contributed to higher oil prices, fueling concerns about inflation and strengthening the case for a more restrictive Fed stance. Still, President Donald Trump stated that talks remain underway, while reports suggest Iranian officials are reviewing a “final text” that could be submitted to the US as negotiations continue.
-
----
-
-### 2026-06-03 08:52:06  #市場 #國際
-
-日本內閣官房長官木原稔：可在不影響國債市場的情況下實施追加預算。
-
----
-
-### 2026-06-03 08:51:30  #其他
-
-【華北多地今天將退出高溫圈 南方降雨持續局地有大暴雨】未來三天（6月3日至5日），受冷渦影響，東北、華北多雷雨天氣，其中今明天東北地區東南部雨勢較強，局地伴強對流。同時，南方新一輪降雨過程持續影響，貴州、湖南等地將迎明顯降雨。受降雨影響，今天我國高溫範圍將開始縮減，華北、黃淮多地將退出高溫圈，週末前後伴隨著降雨，體感將清涼不少。
-
----
-
-### 2026-06-03 08:51:17  #國際
-
-韓國科技部表示，韓國已獲得接入Anthropic的Mythos人工智慧模型的許可權。
-
----
-
-### 2026-06-03 08:50:56  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Hit Fresh Record Highs — The Nikkei 225 Index jumped 1.9% to approach the 68,000 mark, while the broader Topix Index climbed 1% to 3,963 on Wednesday, as Japanese equities extended their rally to fresh record highs. Investor enthusiasm for artificial intelligence-related opportunities continued to support the market, outweighing concerns stemming from the lack of progress in US-Iran peace negotiations. Japanese firms remain key participants in the global AI infrastructure expansion and are well positioned to benefit from the sector’s rapid growth. Leading technology gainers included Kioxia Holdings (+1.3%), Fujikura (+5.7%), Furukawa Electric (+3.8%), Tokyo Electron (+8%), and Advantest (+3.5%). Financial and consumer-oriented shares also posted solid gains. Meanwhile, investors continued to follow developments in US-Iran negotiations, as conflicting messages from both sides maintained a degree of geopolitical uncertainty in global markets.
-
----
-
-### 2026-06-03 08:50:20  #公司 #國際
-
-【AI熱帶旺晶片裝置陶瓷需求 日本衛浴製造商東陶加碼進軍半導體材料業】日本衛浴製造商東陶預計，未來幾年其晶片相關業務支出將佔公司總資本支出的一半以上，以藉助人工智慧(AI)熱潮開闢新的增長空間。這家生產加熱馬桶座圈和智慧馬桶蓋的公司，正受益於晶片裝置製造商需求的意外激增。後者尋求東陶在陶瓷材料方面的專長，這些材料被設計用於抵禦灰塵顆粒、腐蝕性物質和高溫。全球AI投資熱潮正帶動東陶靜電吸盤以及其他晶片製造材料的銷售增長。靜電吸盤用於在晶片製造過程中固定矽晶圓。東陶技術長Ryosuke Hayashi在接受採訪時表示，公司將打造“能夠妥善應對需求”的生產體系。他說，隨著公司已完成在美國和中國的大規模擴產計劃，住宅裝置業務與新業務領域的資本支出佔比將出現逆轉。在截至今年3月的財年中，東陶半導體相關產品支出佔資本開支的11%。
-
----
-
-### 2026-06-03 08:49:33  #市場 #國際
-
-【原油價格延續漲勢 美伊和平談判進展停滯且地區衝突再起】油價連續第三天上漲，投資者對美國和伊朗達成和平協議的前景感到悲觀，並且中東地區再次出現新的衝突。布倫特油價升向每桶97美元；WTI原油期貨在95美元附近波動，本週前兩個交易日上漲超過7%。以色列繼續襲擊黎巴嫩，令華盛頓和德黑蘭之間脆弱的馬拉松式談判受到影響，與此同時，伊朗向周邊國家發射了導彈。以色列和黎巴嫩之間的又一輪會談定於週三舉行。美國總統唐納德·特朗普說，他仍然樂觀認為美國可以很快與德黑蘭達成臨時和平協議，駁斥了伊朗國家媒體關於因黎巴嫩戰事而暫停與華盛頓談判的報道。與此同時，中東地區的衝突再現。伊朗向科威特和巴林發射彈道導彈，這些導彈在飛行途中解體或被攔截，而美國中央司令部在X上一則帖文中稱，美軍對格什姆島進行了打擊。
-
----
-
-### 2026-06-03 08:48:17  #MKT News #Nikkei 225 #Impact bullish
-
-Nikkei 225 gained 2.00% intraday. Semiconductor firm Kioxia's market capitalization topped ¥45 trillion, surpassing Toyota Motor to become the second-largest stock by market value.
-
----
-
-### 2026-06-03 08:47:44  #其他
-
-【兩市融資餘額增加13.38億元】截至6月2日，上交所融資餘額報14690.25億元，較前一交易日增加8.35億元；深交所融資餘額報14068.06億元，較前一交易日增加5.03億元；兩市合計28758.31億元，較前一交易日增加13.38億元。
-
----
-
-### 2026-06-03 08:47:03  #國際
-
-日本內閣官房長官木原稔：颱風導致約6萬戶家庭停電。
-
----
-
-### 2026-06-03 08:46:56  #市場 #國際
-
-日本日經225指數上漲2%，至68070.66點。
-
----
-
-### 2026-06-03 08:46:55  #MKT News
-
-【Thailand's justice minister says former PM Thaksin qualifies for royal pardon】Thailand's justice minister said in a March 3 interview that, under a royal pardon issued by King Maha Vajiralongkorn on Feb. 2, former prime minister Thaksin Shinawatra meets the conditions for clemency and is among those to be granted a pardon.
-
----
-
-### 2026-06-03 08:46:26  #國際
-
-泰國司法部長魯塔蓬3日接受媒體採訪時表示，根據泰國國王瑪哈·哇集拉隆功2日頒佈的特赦令，前總理他信符合特赦條件，屬於獲得赦免的人員之一。
-
----
-
-### 2026-06-03 08:45:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Tianfeng Securities: Coal-to-chemicals profitability may enter upcycle】Tianfeng Securities says China’s coal market is looser than in 2021–22, making a large coal-driven rise in the coal-to-oil price ratio unlikely. Geopolitical risk around the US–Iran conflict is uncertain; even if tensions ease, oil supply shortfalls are unlikely to be restored quickly and the oil-price baseline may not return to pre-conflict levels in the short term. A fall in the coal-to-oil ratio would widen downstream spreads for coal-to-chemicals; together with likely slower capacity growth during the 15th Five-Year Plan, coal-to-chemicals profitability may enter an upcycle.
-
----
-
-### 2026-06-03 08:45:36  #其他
-
-META縮減內部滑鼠追蹤技術計劃。
-
----
-
-### 2026-06-03 08:45:08  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 breached 68,000 points for the first time, rising nearly 2% on the day.
-
----
-
-### 2026-06-03 08:44:56  #市場
-
-【天風證券：煤化工盈利或進入上行週期】天風證券研報稱，當前國內煤炭基本面較2021—2022年期間偏寬鬆，煤油比或難因煤價大幅上漲而抬升，而美伊衝突演繹存在變數，但即便衝突緩和，原油供應缺口短時間難以恢復，油價中樞或難以回落至衝突前水平，透過煤油比下降帶來的煤化工下游價差拉大，疊加“十五五”時期產能增速或放緩，煤化工盈利或進入上行週期。
-
----
-
-### 2026-06-03 08:44:00  #焦點 #國際
-
-日本日經225指數首次突破68000點，現漲近2%，東京電子漲超9%。
-
----
-
-### 2026-06-03 08:43:03  #MKT News #Macro & Rates #Treasury Yields
-
-Japan 5-year government bond yield rose 3.0 bps to 1.885%.
-
----
-
-### 2026-06-03 08:42:49  #國際
-
-特朗普：我很榮幸能完全、毫無保留地支援阿韋拉多·德拉埃斯普列利亞。
-
----
-
-### 2026-06-03 08:42:04  #MKT News #Market Regions #Japan & APAC
-
-Japan's Ministry of Finance said it will hold a JGB primary dealers meeting on June 26 and a JGB investor meeting on June 29.
-
----
-
-### 2026-06-03 08:41:41  #公司
-
-【訊息人士：SpaceX計劃以每股135美元的價格透過首次公開募股（IPO）籌集750億美元】一位知情人士告訴媒體，SpaceX計劃透過首次公開募股（IPO）發行5.556億股股票，每股目標價為135美元，以此籌集750億美元。媒體週二早些時候報道稱，這家火箭和衛星通訊公司希望以1.75萬億美元的估值籌集至少750億美元。在現階段設定具體目標價極為罕見，因為計劃上市的公司通常會在透過一系列名為“路演”的推介會與投資者溝通前，先設定一個價格區間。SpaceX的路演將於週四開始。通常情況下，具體目標價要等到發行前一天才會確定。
-
----
-
-### 2026-06-03 08:40:46  #MKT News #Market Themes #The Trump Trade
-
-US President Trump congratulated Colombian presidential candidate Abelardo de la Espriella.
-
----
-
-### 2026-06-03 08:40:23  #國際
-
-特朗普：祝賀哥倫比亞總統候選人阿韋拉多·德拉埃斯普列利亞。
-
----
-
-### 2026-06-03 08:40:13  #其他
-
-【中央網信辦組織召開未成年人網路保護協調機制工作會議】6月2日，中央網信辦組織召開未成年人網路保護協調機制工作會議，研究部署規範和管理未成年人使用網路相關工作。會議強調，要提高政治站位、把握形勢任務，深刻認識規範和管理未成年人使用網路，是貫徹落實習近平總書記重要指示批示精神、推動黨中央決策部署落地見效的重要任務，是順應網際網路發展管理趨勢、有效回應人民群眾關心關切的迫切需要，是保護未成年人網路合法權益、護航未成年人健康成長的關鍵舉措，切實增強做好工作的責任感使命感緊迫感。要明確目標、聚焦重點，紮實推進規範和管理未成年人使用網路的各項舉措。堅持分級分類，嚴管中高風險功能服務，劃定觸網安全底線；堅持管建並舉，全面推廣未成年人模式，升級專屬內容池，最佳化未成年人專門裝置，打造安全網路空間；堅持技術賦能，聚焦未成年人身份識別問題加大技術攻關力度，將網路保護要求融入技術規範，把法規要求透過技術標準落細，推動全覆蓋、全鏈條、全閉環協同保護；堅持齊抓共管，充分發揮平臺、學校、家庭、社會等多方力量，匯聚網路保護合力。會議要求，要主動履責、強化擔當，切實抓好各項任務落實。要以未成年人網路保護協調機制建立執行為契機，進一步強化政治引領，加強協同聯動，落實工作責任，形成上下聯動、左右協同、社會共治的工作格局，推動未成年人網路保護工作邁上新臺階、取得新成效。
-
----
-
-### 2026-06-03 08:40:02  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
-
-Japan Composite PMI Confirmed at 5-Month Low — Japan’s S&P Global Composite PMI stood at 51.1 in May 2026, matching flash data and marking the 14th straight month of expansion in private sector activity. However, the latest reading eased from 52.2 in April and pointed to the weakest growth since December, as overall activity was supported solely by stronger manufacturing output while the services sector stagnated. New business continued to rise but at the slowest pace in five months, reflecting only modest demand growth. External demand also softened, with overseas orders for Japanese goods and services increasing at the weakest rate so far this year. Employment growth slowed to a seven-month low, contributing to a faster accumulation of backlogged work. At the same time, cost pressures intensified, with input prices rising at the sharpest pace in 43 months. Firms responded by raising selling prices more aggressively, pushing output charge inflation to a new survey record.
 
 ---

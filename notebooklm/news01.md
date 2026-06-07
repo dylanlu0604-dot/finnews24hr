@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-07 22:48:42_
-_本檔包含 3718 則快訊，約 706458 字_
+_更新時間：2026-06-07 23:42:03_
+_本檔包含 3730 則快訊，約 706395 字_
+
+---
+
+### 2026-06-07 23:39:41  #焦點 #國際
+
+在失聯六個月後，美國國家航空航天局宣佈，火星探測器馬文號任務終結。
+
+---
+
+### 2026-06-07 23:39:11  #MKT News
+
+【Three earthquakes strike sea off southern Kamchatka within 10 minutes】Local time night of the 7th, three earthquakes occurred in the sea near Russia's southern Kamchatka Peninsula within 10 minutes, magnitudes 6.4, 5.6 and 5.3. No reports of casualties or property damage so far.
+
+---
+
+### 2026-06-07 23:39:10  #國際
+
+【俄堪察加半島南部海域10分鐘內3次地震】俄羅斯堪察加半島南部附近海域當地時間7日夜間在10分鐘內發生3次地震，震級依次為6.4、5.6、5.3級，目前尚無地震造成人員財產損失的報告。（新華社）
+
+---
+
+### 2026-06-07 23:37:40  #國際
+
+【美國共和黨主導選區重劃 加大民主黨拿下眾議院的難度】美國多個由共和黨主導的州完成國會選區重劃後，民主黨若想在2026年中期選舉中重掌眾議院多數席位，全國得票率需較2024年提升近5個百分點。眾議院的控制權，將決定特朗普在任期最後兩年是基本不受掣肘地施政，還是要面對手握傳訊權、行使監督職能的眾議院。假設空缺席位由原所屬政黨收回，民主黨還需再拿下3個席位才能掌控眾議院。本輪選區重劃之前，民主黨得票率需比2024年哈里斯的全國得票優勢高出3.1個百分點，才能拿下眾議院多數席位；如今這一數值升至4.9個百分點。美國媒體結合選區資料分析發現，新選區版圖相當於為共和黨在全國選票比拼中額外增加了近2個百分點的優勢。
+
+---
+
+### 2026-06-07 23:35:46  #國際
+
+伊朗議會國家安全與外交政策委員會發言人易卜拉欣·禮薩伊：針對以色列襲擊貝魯特南郊達希耶的行為，我方將予以堅決且沉重的回擊；今晚，請關注被佔領土上空的動向。
+
+---
+
+### 2026-06-07 23:28:26  #其他
+
+【盒馬麻薯純脂黑巧變代可可脂，或涉虛假宣傳？客服回應】6月7日晚間訊息，據媒體報道，近日有消費者在盒馬app上購買了一款雙拼麻薯，詳情頁寫著“純脂黑巧克力”，但配料表中卻寫著“代可可脂”，有律師觀點指出或涉嫌虛假宣傳。截至發稿，在盒馬App中，該款商品仍在售賣，售價為23.9元/盒，詳情頁圖片中“醇厚黑巧、“58%純脂黑巧克力”字樣醒目，而主要成分列表中則包含代可可脂黑巧克力、可可粉等。一般來說，“純脂”指天然可可脂，成本較高，口感較好。而“代可可脂”是氫化植物油，可能含反式脂肪酸，成本較低。根據國家標準《巧克力及巧克力製品（含代可可脂巧克力及代可可脂巧克力製品）通則》規定，代可可脂新增量超過5%的產品不能直接稱為“巧克力”，應明確標示為“代可可脂巧克力”。盒馬客服熱線工作人員表示，無法解答商品詳情頁圖文和成分列表有出入的問題，會如實記錄反饋。被問及圖文資料是否可能存在錯誤，工作人員表示，“也有可能，但不敢保證。如果收到商品與圖文或詳情介紹有差距的話，可以聯絡進行處理。”
+
+---
+
+### 2026-06-07 23:27:58  #國際
+
+【特朗普呼籲對黎巴嫩真主黨實施更“精準”的打擊】特朗普在接受採訪時表示：“我希望黎巴嫩能過上更好的生活。我希望對真主黨採取更精準的打擊。我認為打擊應該更精準。”
+
+---
+
+### 2026-06-07 23:26:49  #國際
+
+【美共和黨參議員：特朗普不會與伊朗達成一份糟糕的協議】美國共和黨參議員詹姆斯·蘭克福德在接受採訪時表示，儘管面臨儘快結束談判的壓力，但特朗普不會與伊朗達成一份糟糕的協議。“伊朗顯然想把我們牽著鼻子走，而特朗普對此完全不會買賬。”蘭克福德說。他補充道：“有意思的是，有不少左翼人士，甚至一些右翼人士，都在極力推動總統為了趕緊了事而簽下一份糟糕的協議。”
+
+---
+
+### 2026-06-07 23:25:29  #國際
+
+美國在和談中逐步淡出，烏克蘭轉而尋求歐洲方面出面斡旋。
+
+---
+
+### 2026-06-07 23:22:47  #MKT News
+
+【Republican-led redistricting leaves Democrats needing ~5 percentage points more than 2024 to retake House; new maps give GOP ~2 percentage-point national edge】Republican-led states have completed congressional redistricting. To regain a House majority in the 2026 midterms, Democrats would need to outperform their 2024 national popular vote by about 5 percentage points. An Axios analysis estimates the new maps confer roughly a 2 percentage-point advantage to Republicans in the national popular vote. In the 10 states that redrew maps, Democrats currently hold 80 seats and Republicans 101; Democrats would need to flip three seats to win House control, which would determine whether Trump’s final two years face congressional checks.
+
+---
+
+### 2026-06-07 23:22:35  #國際
+
+以色列訊息人士：以方立場明確，一旦真主黨向以色列發起攻擊，以軍將打擊其位於達希耶的總部。
+
+---
+
+### 2026-06-07 23:21:12  #其他
+
+市場資訊：玻利維亞下議院批准了一項法案，放寬了宣佈進入緊急狀態的要求。此前，要求總統羅德里戈·帕斯辭職的抗議活動和道路封鎖擾亂了交通路線，加劇了物資短缺，並對經濟造成了壓力。
+
+---
+
+### 2026-06-07 23:19:28  #國際
+
+受競爭加劇及美國加徵關稅影響，德國車企一季度營收下滑4%。
+
+---
+
+### 2026-06-07 23:18:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Axios, citing US officials and two people familiar with the matter, said Israel informed the Trump administration before airstrikes on Beirut's southern suburbs.
+
+---
+
+### 2026-06-07 23:18:47  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Axios, citing Israeli officials, said airstrikes on Beirut's southern suburbs were carried out in response to recent rocket attacks by HEZBOLLAH.
+
+---
+
+### 2026-06-07 23:18:06  #國際
+
+市場資訊：美國共和黨主導選區重劃後，民主黨需再拿下近兩個百分點的選票，才能贏得眾議院控制權。
+
+---
+
+### 2026-06-07 23:17:32  #MKT News #Market Themes #The Trump Trade
+
+【Trump says he will not unfreeze Iranian assets before a US-Iran deal】Trump told NBC in a program broadcast on the 7th he will not unfreeze Iranian assets or lift any sanctions before the US and Iran reach a peace agreement; in an interview on the 5th he said he would only consider unfreezing assets after both sides reach an agreement. Iran's state broadcaster IRIB on the 7th cited foreign ministry spokesman BAGHAEI saying Iran demands the unfreezing of tens of billions of dollars held in foreign banks and that the US should lift related sanctions.
+
+---
+
+### 2026-06-07 23:15:22  #MKT News #Market Themes #The Trump Trade
+
+【Trump backs $1.8 billion 'anti-weaponization' fund, says it could pay convicted Jan. 6 rioters】Trump told NBC he personally thinks the $1.8 billion "anti-weaponization" fund is "a good idea" and hinted some proceeds could be used to compensate people convicted over the January 6 Capitol riot. The fund is part of his settlement with the IRS to compensate alleged victims of politically motivated investigations; Acting Attorney General Branch had said the idea was dead, but Trump said he will try to advance it, a move that could reignite tensions with Senate Republicans. Congressional critics call the proposal a "bribe fund." In the same interview Trump reiterated claims the 2020 election was manipulated and ended the interview early after clashing with the host.
+
+---
+
+### 2026-06-07 23:12:28  #其他
+
+【貴州多地遭受暴雨洪澇災害 安全轉移群眾近萬人】6月6日至7日，貴州省畢節市黔西市、遵義市紅花崗區、黔南州長順縣等地遭遇特大暴雨，引發洪澇災害，當地幹部群眾迅速開展救援，累計轉移群眾近萬人。（新華社）
+
+---
+
+### 2026-06-07 23:05:00  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Qatar News Agency said Jordan's king urged stepped-up efforts to maintain the US-Iran ceasefire.
+
+---
+
+### 2026-06-07 23:02:05  #公司
+
+科技記者馬克·格爾曼：自蘋果智慧功能表現不及預期、新版Siri推遲上線後，蒂姆·庫克深度介入公司人工智慧業務的翻盤工作與產品規劃。擔任CEO以來，他從未如此深入地參與產品研發與功能設計。
+
+---
+
+### 2026-06-07 23:00:09  #MKT News
+
+OPEC+ will hold its next ministerial meeting on November 29.
+
+---
+
+### 2026-06-07 22:59:36  #其他
+
+土耳其總統：氣候問題，就像戰爭和全球大流行病一樣，代表了一個嚴重威脅全人類的難題。
+
+---
+
+### 2026-06-07 22:56:56  #公司 #國際
+
+美國國家颶風中心風暴公告：熱帶低氣壓在墨西哥南部形成。
+
+---
+
+### 2026-06-07 22:56:39  #MKT News
+
+Ukrainian President Zelenskiy held talks in the UK with British Prime Minister Starmer, French President Macron and German Chancellor Merz.
+
+---
+
+### 2026-06-07 22:55:12  #國際
+
+【澤連斯基：我已抵達英國】澤連斯基表示，我今日抵達英國。我將出席烏克蘭與歐洲三國（E3）會談，與會者包括法國總統、德國總理以及英國首相。各方團隊已為各項會議完成實質性籌備工作，眼下重要的是在領導人層面充分溝通，就核心事項達成共識。本次會談重點圍繞戰時防務、歐洲防空領域深化安全合作，以及各方對外交前景的共識展開。歐洲必須參與相關談判，並保持強硬立場。我還定於明日會見英國國王。感謝英國及所有夥伴國家，你們以實際行動協助我們加強民生防護，必須結束這場戰爭。
+
+---
+
+### 2026-06-07 22:52:26  #國際
+
+市場訊息：澤連斯基稱其已抵達英國。
+
+---
+
+### 2026-06-07 22:50:57  #國際
+
+美國國防部長：無論美伊最終能否達成協議，霍爾木茲海峽都將對外開放、免費通行，全球各國均可正常使用。
 
 ---
 
@@ -22378,101 +22546,5 @@ Spot gold fell 1.00% intraday, slipping below $4,430/oz.
 ### 2026-06-05 14:16:22  #Trading Economics #Economy #South Africa #Foreign Exchange Reserves #Importance 1
 
 South Africa Forex Reserves Fall in May — Gross foreign exchange reserves in South Africa fell to $76.58 billion in May 2026 from $77.09 billion in the previous month, remaining at their lowest level since December 2025. The decline in gross reserves and international liquidity was mainly driven by a drop in the US dollar value of gold holdings and government-related foreign exchange outflows. Gold reserves decreased ($18.274 billion vs $18.700 billion in April), while foreign currency reserves also declined ($51.661 billion vs $51.725 billion). At the same time, the forward position, representing the central bank's unsettled forward or swap transactions, edged down to $0.584 billion from $0.586 billion in the previous month, while SDR holdings decreased by $0.016 billion to $6.648 billion from $6.664 billion.
-
----
-
-### 2026-06-05 14:15:59  #公司
-
-【寶馬（中國）汽車貿易有限公司召回部分進口摩托車】日前，寶馬（中國）汽車貿易有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0062V：自即日起，召回2017年6月28日至2019年12月18日期間生產的部分進口K1600GT系列摩托車，共計336輛；2022年5月17日至2023年8月30日期間生產的部分進口K1600GTL系列摩托車，共計229輛；2017年10月10日至2024年2月1日期間生產的部分進口K1600B系列摩托車，共計1561輛。本次召回範圍內的摩托車，由於倒車控制單元密封不良，水汽可能侵入鏽蝕內部觸點，造成倒車控制單元功能失效。極端情況下，可能導致倒車控制單元內部短路過熱，存在安全隱患。
-
----
-
-### 2026-06-05 14:15:56  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell more than $2 intraday to $71.88/oz, down 2.71%. New York silver futures slipped below $72/oz, off 2.75% on the day.
-
----
-
-### 2026-06-05 14:15:09  #Trading Economics #Economy #Sweden #Current Account #Importance 1
-
-Sweden Current Account Surplus Smallest in Over 2 Years — Sweden’s current account posted a surplus of SEK 93.9 billion in the first quarter of 2026, narrowing from SEK 131.3 billion in the same period a year earlier. This marked the smallest quarterly surplus since the fourth quarter of 2023, largely driven by increased services imports and weaker investment returns. The services account deficit widened to SEK 31.3 billion from SEK 27.0 billion as services imports rose by SEK 19.3 billion year-on-year, while the primary income surplus narrowed to SEK 68.1 billion from SEK 90.7 billion, reflecting a drop in investment income. The trade surplus also declined to SEK 88.8 billion from SEK 102.9 billion as goods exports fell by SEK 16.6 billion. Partly offsetting these declines, the secondary income shortfall narrowed to SEK 31.6 billion from SEK 35.3 billion.
-
----
-
-### 2026-06-05 14:15:01  #市場
-
-紐約期金日內跌1%，現報4459.87美元/盎司。
-
----
-
-### 2026-06-05 14:15:01  #市場 #焦點
-
-紐約期金失守4460美元/盎司，日內跌1.00%。
-
----
-
-### 2026-06-05 14:15:00  #市場 #焦點
-
-紐約期銀失守72美元/盎司，日內跌2.79%。
-
----
-
-### 2026-06-05 14:14:52  #市場 #國際
-
-歐洲斯托克50股指期貨上漲0.13%，德國DAX股指期貨下跌0.12%，法國CAC 40股指期貨上漲0.12%，富時股指期貨上漲0.18%。
-
----
-
-### 2026-06-05 14:14:41  #公司
-
-【知情人士：馬斯克向投行表態，SpaceX的發行價不會調整】知情人士透露，SpaceX執行長馬斯克在首次公開發行(IPO)過程中向各家投行表示，公司將發行價定為每股135美元，即週三修改後的IPO招股書中所披露的價格。雖然訊息人士強調，在IPO正式進行之前，這一決定仍可能發生變化，但此跡象表明，馬斯克決心顛覆華爾街傳統，按照他自己的想法來進行這項史上最大規模IPO。SpaceX計劃透過IPO籌集750億美元。SpaceX尚未立即回應置評請求。SpaceX於週四啟動了IPO路演，開始與投資者會面。證券發行方及投行通常在路演中收集投資者反饋，在股票開始交易前一天的會議上才確定最終IPO定價。三位熟悉路演情況的訊息人士稱，市場需求“勢不可擋”。其中一位訊息人士表示，負責此次IPO的分析師每天要接聽多達20通來自投資者的電話，遠高於熱門IPO案通常的10至15通。SpaceX預計將於6月12日（週五）正式上市交易。
-
----
-
-### 2026-06-05 14:14:38  #Trading Economics #Economy #Norway #Manufacturing Production MoM #Importance 1
-
-Norway Manufacturing Output Falls 0.9% in April — Norway’s manufacturing production decreased by 0.9% month-over-month in April 2026, reversing a 2.0% rise in the previous month. Growth slowed in food, beverages, and tobacco (0.3% vs 1.0% in March), while several key industries returned to contraction, including fabricated metal products (-2.3% vs 1.6%), repair and installation of machinery (-2.5% vs 2.8%), computer and electrical equipment (-0.7% vs 2.0%), machinery and equipment (-1.6% vs 2.7%), ships, boats, and oil platforms (-0.7% vs 4.6%), and rubber, plastic, and mineral products (-0.2% vs 2.5%). On the other hand, output rebounded strongly for refined petroleum, chemicals, and pharmaceuticals (4.5% vs -1.9%) and basic metals (5.5% vs -0.1%).
-
----
-
-### 2026-06-05 14:14:19  #公司
-
-【機構：OLED膝上型電腦顯示面板需求預計到2033年將達到115億美元】Omdia最新研究顯示，膝上型電腦用OLED顯示面板出貨規模預計將在2033年增長至115億美元，約佔OLED顯示總收入的16.2%。2026年，膝上型電腦OLED顯示面板收入預計將達到40億美元，主要由蘋果MacBook Pro系列的需求推動。從2026年7月起，三星顯示將為蘋果MacBook Pro系列（14.3英寸和16.3英寸）供應OLED面板，相關裝置預計將在2026年第三季度釋出。
-
----
-
-### 2026-06-05 14:14:15  #MKT News #Market Regions #Greater China #BABA.N #Impact bullish #TCOM.O
-
-【Fliggy: inbound bookings up 237% YoY in past two weeks】Online travel platform Fliggy said inbound travel bookings in the past two weeks rose 237% YoY. Source markets Malaysia, South Korea and Canada each recorded increases of more than threefold. Summer inbound hotspots include Shanghai, Guangzhou, Chengdu, Beijing and Xi'an.
-
----
-
-### 2026-06-05 14:13:38  #公司 #國際
-
-【美國政府將為煤電和煤炭專案提供資金支援】美國總統特朗普4日在白宮宣佈，美國政府將提供數億美元資金，支援本國燃煤發電廠擴大產能、改造升級，以及建設新的煤炭出口基礎設施。 美國能源部當天釋出公告說，將依據《國防生產法》向12個燃煤發電專案和一個煤炭海運出口碼頭專案提供高達5億美元的資金支援。這些專案旨在提升美國煤炭開採價值鏈、保障基本負荷發電的可靠性，以及增強關鍵能源基礎設施韌性。公告顯示，位於加利福尼亞州奧克蘭的出口終端設施每年可以處理超過1000萬噸的大宗商品。 能源部當天還宣佈，將提供3.5億美元資金支援4個選定的煤炭現代化和可靠性專案，以加強燃煤發電能力、提升電網可靠性、強化戰略效能源基礎設施。這些專案包括在阿拉斯加州和西弗吉尼亞州分別新建一個煤電廠、升級改造位於波多黎各瓜亞馬的一個煤電廠，以及重啟位於馬里蘭州、已於2024年停運的一個煤電廠。 特朗普再次當選總統後繼續採取支援煤炭行業發展的政策，上任以來簽署了多項旨在擴大煤炭開採和燃煤發電能力的行政令。(新華社)
-
----
-
-### 2026-06-05 14:13:35  #Trading Economics #Economy #United Kingdom #House Price Index YoY #Importance 2
-
-UK House Prices Rise Less Than Expected: Halifax — The Halifax House Price Index showed UK house prices rose 0.5% year-on-year in May 2026, below the expected 1.0% increase and following a 0.4% gain in April. The average UK house price stood at £298,806. On a monthly basis, prices fell 0.1%, matching the decline recorded in April and contrasting with forecasts of a 0.1% increase. Amanda Bryden, Head of Mortgages at Halifax, noted that uncertainty surrounding developments in the Middle East and higher inflation expectations have kept borrowing costs elevated despite recent mortgage rate cuts, weighing on affordability and demand. Still, housing market activity has remained resilient, with transaction levels holding relatively steady. Regionally, Northern Ireland recorded the strongest annual house price growth at 7.8%, followed by Scotland (3.8%), the North East (3.1%), and the North West (3.0%). By contrast, prices fell in the South East (-2.1%) and London (-1.5%).
-
----
-
-### 2026-06-05 14:13:12  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.7%，報8625.10點。
-
----
-
-### 2026-06-05 14:12:55  #國際
-
-【韓國警方調查Polymarket 預測平臺亞洲擴張遭遇阻力】韓國警方已對當地Polymarket使用者涉嫌非法賭博展開調查，這家預測市場平臺在擴大亞洲業務的同時面臨日益嚴格的監管審查。據江原道地方警察廳網路調查科透露，該部門近期應韓國國家警察廳的要求啟動了這項調查。調查科表示，調查針對的是韓國國內Polymarket使用者，而非平臺本身。
-
----
-
-### 2026-06-05 14:12:50  #其他
-
-【山東6000多萬畝小麥開始大面積收穫】記者從山東省人民政府新聞辦公室5日上午召開的新聞釋出會上獲悉，目前，山東6000多萬畝小麥正從南到北、由西向東陸續開鐮，進入大面積收穫階段。據介紹，山東小麥種植面積常年穩定在6000萬畝以上，位居全國第二；小麥產量約佔山東全年糧食總產量的一半。（新華社）
 
 ---

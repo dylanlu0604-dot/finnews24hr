@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-07 22:48:42_
-_本檔包含 3802 則快訊，約 705711 字_
+_更新時間：2026-06-07 23:42:03_
+_本檔包含 3807 則快訊，約 706614 字_
+
+---
+
+### 2026-06-03 08:52:06  #市場 #國際
+
+日本內閣官房長官木原稔：可在不影響國債市場的情況下實施追加預算。
+
+---
+
+### 2026-06-03 08:51:30  #其他
+
+【華北多地今天將退出高溫圈 南方降雨持續局地有大暴雨】未來三天（6月3日至5日），受冷渦影響，東北、華北多雷雨天氣，其中今明天東北地區東南部雨勢較強，局地伴強對流。同時，南方新一輪降雨過程持續影響，貴州、湖南等地將迎明顯降雨。受降雨影響，今天我國高溫範圍將開始縮減，華北、黃淮多地將退出高溫圈，週末前後伴隨著降雨，體感將清涼不少。
+
+---
+
+### 2026-06-03 08:51:17  #國際
+
+韓國科技部表示，韓國已獲得接入Anthropic的Mythos人工智慧模型的許可權。
+
+---
+
+### 2026-06-03 08:50:56  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Hit Fresh Record Highs — The Nikkei 225 Index jumped 1.9% to approach the 68,000 mark, while the broader Topix Index climbed 1% to 3,963 on Wednesday, as Japanese equities extended their rally to fresh record highs. Investor enthusiasm for artificial intelligence-related opportunities continued to support the market, outweighing concerns stemming from the lack of progress in US-Iran peace negotiations. Japanese firms remain key participants in the global AI infrastructure expansion and are well positioned to benefit from the sector’s rapid growth. Leading technology gainers included Kioxia Holdings (+1.3%), Fujikura (+5.7%), Furukawa Electric (+3.8%), Tokyo Electron (+8%), and Advantest (+3.5%). Financial and consumer-oriented shares also posted solid gains. Meanwhile, investors continued to follow developments in US-Iran negotiations, as conflicting messages from both sides maintained a degree of geopolitical uncertainty in global markets.
+
+---
+
+### 2026-06-03 08:50:20  #公司 #國際
+
+【AI熱帶旺晶片裝置陶瓷需求 日本衛浴製造商東陶加碼進軍半導體材料業】日本衛浴製造商東陶預計，未來幾年其晶片相關業務支出將佔公司總資本支出的一半以上，以藉助人工智慧(AI)熱潮開闢新的增長空間。這家生產加熱馬桶座圈和智慧馬桶蓋的公司，正受益於晶片裝置製造商需求的意外激增。後者尋求東陶在陶瓷材料方面的專長，這些材料被設計用於抵禦灰塵顆粒、腐蝕性物質和高溫。全球AI投資熱潮正帶動東陶靜電吸盤以及其他晶片製造材料的銷售增長。靜電吸盤用於在晶片製造過程中固定矽晶圓。東陶技術長Ryosuke Hayashi在接受採訪時表示，公司將打造“能夠妥善應對需求”的生產體系。他說，隨著公司已完成在美國和中國的大規模擴產計劃，住宅裝置業務與新業務領域的資本支出佔比將出現逆轉。在截至今年3月的財年中，東陶半導體相關產品支出佔資本開支的11%。
+
+---
+
+### 2026-06-03 08:49:33  #市場 #國際
+
+【原油價格延續漲勢 美伊和平談判進展停滯且地區衝突再起】油價連續第三天上漲，投資者對美國和伊朗達成和平協議的前景感到悲觀，並且中東地區再次出現新的衝突。布倫特油價升向每桶97美元；WTI原油期貨在95美元附近波動，本週前兩個交易日上漲超過7%。以色列繼續襲擊黎巴嫩，令華盛頓和德黑蘭之間脆弱的馬拉松式談判受到影響，與此同時，伊朗向周邊國家發射了導彈。以色列和黎巴嫩之間的又一輪會談定於週三舉行。美國總統唐納德·特朗普說，他仍然樂觀認為美國可以很快與德黑蘭達成臨時和平協議，駁斥了伊朗國家媒體關於因黎巴嫩戰事而暫停與華盛頓談判的報道。與此同時，中東地區的衝突再現。伊朗向科威特和巴林發射彈道導彈，這些導彈在飛行途中解體或被攔截，而美國中央司令部在X上一則帖文中稱，美軍對格什姆島進行了打擊。
+
+---
+
+### 2026-06-03 08:48:17  #MKT News #Nikkei 225 #Impact bullish
+
+Nikkei 225 gained 2.00% intraday. Semiconductor firm Kioxia's market capitalization topped ¥45 trillion, surpassing Toyota Motor to become the second-largest stock by market value.
+
+---
+
+### 2026-06-03 08:47:44  #其他
+
+【兩市融資餘額增加13.38億元】截至6月2日，上交所融資餘額報14690.25億元，較前一交易日增加8.35億元；深交所融資餘額報14068.06億元，較前一交易日增加5.03億元；兩市合計28758.31億元，較前一交易日增加13.38億元。
+
+---
+
+### 2026-06-03 08:47:03  #國際
+
+日本內閣官房長官木原稔：颱風導致約6萬戶家庭停電。
+
+---
+
+### 2026-06-03 08:46:56  #市場 #國際
+
+日本日經225指數上漲2%，至68070.66點。
+
+---
+
+### 2026-06-03 08:46:55  #MKT News
+
+【Thailand's justice minister says former PM Thaksin qualifies for royal pardon】Thailand's justice minister said in a March 3 interview that, under a royal pardon issued by King Maha Vajiralongkorn on Feb. 2, former prime minister Thaksin Shinawatra meets the conditions for clemency and is among those to be granted a pardon.
+
+---
+
+### 2026-06-03 08:46:26  #國際
+
+泰國司法部長魯塔蓬3日接受媒體採訪時表示，根據泰國國王瑪哈·哇集拉隆功2日頒佈的特赦令，前總理他信符合特赦條件，屬於獲得赦免的人員之一。
+
+---
+
+### 2026-06-03 08:45:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Tianfeng Securities: Coal-to-chemicals profitability may enter upcycle】Tianfeng Securities says China’s coal market is looser than in 2021–22, making a large coal-driven rise in the coal-to-oil price ratio unlikely. Geopolitical risk around the US–Iran conflict is uncertain; even if tensions ease, oil supply shortfalls are unlikely to be restored quickly and the oil-price baseline may not return to pre-conflict levels in the short term. A fall in the coal-to-oil ratio would widen downstream spreads for coal-to-chemicals; together with likely slower capacity growth during the 15th Five-Year Plan, coal-to-chemicals profitability may enter an upcycle.
+
+---
+
+### 2026-06-03 08:45:36  #其他
+
+META縮減內部滑鼠追蹤技術計劃。
+
+---
+
+### 2026-06-03 08:45:08  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 breached 68,000 points for the first time, rising nearly 2% on the day.
+
+---
+
+### 2026-06-03 08:44:56  #市場
+
+【天風證券：煤化工盈利或進入上行週期】天風證券研報稱，當前國內煤炭基本面較2021—2022年期間偏寬鬆，煤油比或難因煤價大幅上漲而抬升，而美伊衝突演繹存在變數，但即便衝突緩和，原油供應缺口短時間難以恢復，油價中樞或難以回落至衝突前水平，透過煤油比下降帶來的煤化工下游價差拉大，疊加“十五五”時期產能增速或放緩，煤化工盈利或進入上行週期。
+
+---
+
+### 2026-06-03 08:44:00  #焦點 #國際
+
+日本日經225指數首次突破68000點，現漲近2%，東京電子漲超9%。
+
+---
+
+### 2026-06-03 08:43:03  #MKT News #Macro & Rates #Treasury Yields
+
+Japan 5-year government bond yield rose 3.0 bps to 1.885%.
+
+---
+
+### 2026-06-03 08:42:49  #國際
+
+特朗普：我很榮幸能完全、毫無保留地支援阿韋拉多·德拉埃斯普列利亞。
+
+---
+
+### 2026-06-03 08:42:04  #MKT News #Market Regions #Japan & APAC
+
+Japan's Ministry of Finance said it will hold a JGB primary dealers meeting on June 26 and a JGB investor meeting on June 29.
+
+---
+
+### 2026-06-03 08:41:41  #公司
+
+【訊息人士：SpaceX計劃以每股135美元的價格透過首次公開募股（IPO）籌集750億美元】一位知情人士告訴媒體，SpaceX計劃透過首次公開募股（IPO）發行5.556億股股票，每股目標價為135美元，以此籌集750億美元。媒體週二早些時候報道稱，這家火箭和衛星通訊公司希望以1.75萬億美元的估值籌集至少750億美元。在現階段設定具體目標價極為罕見，因為計劃上市的公司通常會在透過一系列名為“路演”的推介會與投資者溝通前，先設定一個價格區間。SpaceX的路演將於週四開始。通常情況下，具體目標價要等到發行前一天才會確定。
+
+---
+
+### 2026-06-03 08:40:46  #MKT News #Market Themes #The Trump Trade
+
+US President Trump congratulated Colombian presidential candidate Abelardo de la Espriella.
+
+---
+
+### 2026-06-03 08:40:23  #國際
+
+特朗普：祝賀哥倫比亞總統候選人阿韋拉多·德拉埃斯普列利亞。
+
+---
+
+### 2026-06-03 08:40:13  #其他
+
+【中央網信辦組織召開未成年人網路保護協調機制工作會議】6月2日，中央網信辦組織召開未成年人網路保護協調機制工作會議，研究部署規範和管理未成年人使用網路相關工作。會議強調，要提高政治站位、把握形勢任務，深刻認識規範和管理未成年人使用網路，是貫徹落實習近平總書記重要指示批示精神、推動黨中央決策部署落地見效的重要任務，是順應網際網路發展管理趨勢、有效回應人民群眾關心關切的迫切需要，是保護未成年人網路合法權益、護航未成年人健康成長的關鍵舉措，切實增強做好工作的責任感使命感緊迫感。要明確目標、聚焦重點，紮實推進規範和管理未成年人使用網路的各項舉措。堅持分級分類，嚴管中高風險功能服務，劃定觸網安全底線；堅持管建並舉，全面推廣未成年人模式，升級專屬內容池，最佳化未成年人專門裝置，打造安全網路空間；堅持技術賦能，聚焦未成年人身份識別問題加大技術攻關力度，將網路保護要求融入技術規範，把法規要求透過技術標準落細，推動全覆蓋、全鏈條、全閉環協同保護；堅持齊抓共管，充分發揮平臺、學校、家庭、社會等多方力量，匯聚網路保護合力。會議要求，要主動履責、強化擔當，切實抓好各項任務落實。要以未成年人網路保護協調機制建立執行為契機，進一步強化政治引領，加強協同聯動，落實工作責任，形成上下聯動、左右協同、社會共治的工作格局，推動未成年人網路保護工作邁上新臺階、取得新成效。
+
+---
+
+### 2026-06-03 08:40:02  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
+
+Japan Composite PMI Confirmed at 5-Month Low — Japan’s S&P Global Composite PMI stood at 51.1 in May 2026, matching flash data and marking the 14th straight month of expansion in private sector activity. However, the latest reading eased from 52.2 in April and pointed to the weakest growth since December, as overall activity was supported solely by stronger manufacturing output while the services sector stagnated. New business continued to rise but at the slowest pace in five months, reflecting only modest demand growth. External demand also softened, with overseas orders for Japanese goods and services increasing at the weakest rate so far this year. Employment growth slowed to a seven-month low, contributing to a faster accumulation of backlogged work. At the same time, cost pressures intensified, with input prices rising at the sharpest pace in 43 months. Firms responded by raising selling prices more aggressively, pushing output charge inflation to a new survey record.
 
 ---
 
@@ -22829,135 +22979,5 @@ Crypto Updates: Bitcoin Depreciates by 3.45% — Top crypto losers are Bitcoin (
 ### 2026-06-02 06:41:33  #MKT News #WTI #Impact bullish #Brent
 
 【Australia 2026/27 winter wheat crop forecast down 26% on drought, war-driven input costs】The Australian Department of Agriculture's first survey estimates the 2026/27 winter wheat crop at 26.7 mln tonnes, a 26% decline YoY and below the five- and ten-year averages. Plantings are estimated at 10.9 mln ha, down 12% and the smallest since 2019/20. The department cites severe drought, weak global wheat prices narrowing returns versus other crops, and higher production input costs—notably fuel and fertilizer—linked to Middle East war-related disruption in the Strait of Hormuz.
-
----
-
-### 2026-06-02 06:39:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Falls by 3.21% — Top commodity losers are Oat (-3.21%) and Coffee (-2.12%). Gains are led by Sugar (2.48%) and Canola (1.86%).
-
----
-
-### 2026-06-02 06:39:27  #其他
-
-中國地震臺網正式測定：06月02日06時12分在第勒尼安海（北緯39.30度，東經15.85度）發生6.2級地震，震源深度250千米。
-
----
-
-### 2026-06-02 06:39:21  #宏觀 #焦點 #國際
-
-日本自民黨擬出臺加密貨幣ETF相關法律框架，並推動錨定日元的穩定幣落地。
-
----
-
-### 2026-06-02 06:39:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-【Multiple brokerages fined in May as regulators target branch compliance weaknesses】Since May, Chinese regulators have issued a wave of administrative penalties against securities firms for weak branch management and lapses in investment-banking duties. Choice data showed that as of May 31 China International Capital Co, SDIC Securities, Zheshang Securities and others were sanctioned for brokerage violations, underwriting negligence, inadequate overseas-subsidiary controls and employees’ unauthorized moonlighting. Market observers say enforcement is moving from business-level compliance toward deeper company governance, with branch control and employee conduct management emerging as key compliance shortfalls.
-
----
-
-### 2026-06-02 06:39:10  #MKT News #Commodities #Energy
-
-Workers at Inpex Corp's Ichthys LNG export project in Australia will begin strike action after negotiations between union members and the company stalled.
-
----
-
-### 2026-06-02 06:37:57  #公司
-
-【白酒消費稅納稅申報新規施行】6月1日起，《國家稅務總局關於調整消費稅納稅申報表有關事項的公告》施行，白酒生產企業須新增填寫《白酒消費稅計算明細表》和《白酒生產企業關聯銷售單位資訊報告表》。專家表示，新規推動資訊申報更加規範透明，有效規制關聯銷售定價，提升白酒消費稅徵管效能。今年以來，啤酒、白酒消費稅徵管規則持續完善，有利於全面歸集產銷價格與交易資料。 (中證報)
-
----
-
-### 2026-06-02 06:37:00  #宏觀 #市場
-
-【儲蓄國債即將納入個人養老金產品池】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中證報）
-
----
-
-### 2026-06-02 06:36:17  #國際
-
-烏克蘭地方當局敦促基輔民眾避難，基輔拉響空襲警報。
-
----
-
-### 2026-06-02 06:35:56  #MKT News #XAUUSD #Impact bullish #DXY
-
-Ukrainian local authorities urged Kyiv residents to shelter in bunkers; air-raid sirens sounded in Kyiv.
-
----
-
-### 2026-06-02 06:35:41  #MKT News #Macro & Rates #Treasury Yields
-
-【Savings treasury bonds to be added to personal pension product pool】On June 1 several banks' mobile apps, including Industrial and Commercial Bank of China (ICBC), showed a 'bond' entry in personal pension sections. A joint notice from China's Ministry of Finance and the PBOC states that institutions should, from June 2026, begin offering personal-pension savings treasury bonds (electronic). Market participants say the move adds a long-term, low-risk allocation option for savers, could boost pension contributions and expand the personal pension product set.
-
----
-
-### 2026-06-02 06:35:00  #公司 #資料 #市場 #央行 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】 
-① 時間待定 英偉達ComputeX 2026；
-② 08:30 澳洲聯儲官員Ian Harper在澳大利亞經濟開發委員會（CEDA）講話；
-③ 13:50 14:00 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）在韓國央行主辦的一場國際會議上講話；
-④ 17:00 歐元區5月調和CPI初值，歐洲央行管委Rehn講話；
-⑤ 20:30 美國克利夫蘭聯儲主席Hammack談論貨幣政策；
-⑥ 時間待定 微軟公司Microsoft Build開幕，為期兩天；
-⑦ 22:00 美國4月JOLTS職位空缺，英國央行行長貝利出席英國議會上議院經濟事務委員會聽證會；
-⑧ 22:35 歐洲央行副行長Boris Vujcic講話；
-⑨ 23:00 英國央行貨幣政策委員會（MPC）成員Greene談論“評估近期能源衝擊造成的通脹風險”，歐洲央行管委Sleijpen講話；
-⑩ 美股盤後 派拓網路PANW、猶他美容等釋出業績報告。
-
----
-
-### 2026-06-02 06:34:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Falls by 3.48% — Top commodity losers are Iron Ore (-3.48%), Gold (-1.30%) and Silver (-0.55%). Gains are led by Copper (2.79%), Silicon (2.56%) and Lithium Carbonate (0.85%).
-
----
-
-### 2026-06-02 06:29:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Surges by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.43%), Natural Gas EU (5.08%) and Brent Crude Oil (4.27%). Biggest losers are Natural gas (-3.07%) and Methanol (-0.73%).
-
----
-
-### 2026-06-02 06:26:52  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump reportedly berated Netanyahu, urged halt to planned Beirut strike; Iran threatened to shelve talks with US】Axios, citing two US officials and a person familiar with the call, reported that on Monday former US president Donald Trump angrily berated Israeli prime minister Benjamin Netanyahu, reportedly calling him 'f---ing crazy' and accusing him of ingratitude. The sources said Trump told Netanyahu to call off a planned strike on Beirut, warning that bombing Lebanon's capital would further isolate Israel, and said he had helped keep Netanyahu out of jail. Earlier Monday Iran threatened to shelve negotiations with the US. Trump later posted a public message thanking Netanyahu.
-
----
-
-### 2026-06-02 06:24:34  #其他
-
-中國地震臺網自動測定：06月02日06時12分在第勒尼安海附近（北緯39.33度，東經15.78度）發生6.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-02 06:23:17  #國際
-
-【美媒稱特朗普斥以色列總理瘋了】據美國“阿克西奧斯新聞網（Axios）”當地時間6月1日下午報道，美國總統特朗普當天在與以色列總理內塔尼亞胡通話時，對以色列升級黎巴嫩局勢表示“強烈不滿”。報道稱，在這次“措辭激烈”的通話中，特朗普指責內塔尼亞胡在黎巴嫩問題上“行動過度”。據一名美國官員透露，特朗普警告內塔尼亞胡，如果轟炸黎巴嫩首都貝魯特，將“進一步加劇以色列在國際社會的孤立處境”。據兩名知情人士透露，特朗普在通話中稱內塔尼亞胡“瘋了”，並指責其“不知感恩”。一名美國官員轉述特朗普的話稱：“如果不是我，你早就進監獄了。我一直在幫你。現在所有人都討厭你，討厭以色列。”另一名知情人士表示，特朗普當時“非常憤怒”，甚至向內塔尼亞胡喊道：“你到底在幹什麼？” 報道稱，特朗普並不反對以色列針對黎巴嫩真主黨的襲擊採取“自衛行動”，但他認為內塔尼亞胡近期在黎巴嫩的軍事升級“反應過度”——除威脅空襲貝魯特外，以軍近期還擴大了在黎巴嫩南部的地面行動。 報道稱，此次通話是特朗普重返白宮以來與內塔尼亞胡最緊張的通話之一。特朗普憤怒的重要原因在於，以色列升級黎巴嫩局勢可能導致美國與伊朗正在進行的談判破裂。此前伊朗曾威脅稱，如果以色列繼續在黎巴嫩採取軍事行動，將退出與美國的談判。（央視新聞）
-
----
-
-### 2026-06-02 06:21:36  #其他
-
-哈佛大學一項研究測算顯示：每年使用現金與簽帳金融卡付款的消費者，變相補貼了信用卡使用者合計300億美元的積分與返現福利。
-
----
-
-### 2026-06-02 06:17:59  #MKT News #UNP.O
-
-U.S. financial outlet Semafor reports Union Pacific executives privately denied negotiating with Trump over a 15% stake.
-
----
-
-### 2026-06-02 06:17:44  #焦點 #國際
-
-聯合太平洋高管私下否認與特朗普就收購15%股權進行談判。
-
----
-
-### 2026-06-02 06:17:11  #市場
-
-【10年期國債收益率低見1.704% 債市交易邏輯重回基本面】近期債市多頭情緒持續升溫，長端、超長端收益率接連突破關鍵點位。6月1日，10年期國債活躍券收益率一度下行至1.704%，為年內新低；30年期特別國債收益率盤中跌破2.2%關口，最低觸及2.1875%，超長債補漲行情進一步展開。多位機構人士認為，近期債市走強不只是流動性寬鬆驅動，更與基本面預期變化、信貸需求偏弱、機構配置力量增強等因素有關。隨著票據利率持續探底、資金面跨月保持平穩，債市交易邏輯正從單純關注機構行為，逐步回到基本面和融資需求本身。（上證報）
 
 ---
