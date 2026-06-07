@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-08 07:40:29",
+  "updated": "2026-06-08 07:44:21",
   "count": 19174,
   "items": [
+    {
+      "id": "mkt:019ea477-e7f1-7ee0-86d5-38f61d470e13",
+      "time": "2026-06-08 07:43:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "CSI300",
+        "Impact bearish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Huatai Securities A-share strategy: maintain balanced allocation short-term】Huatai Securities says short-term A-share market has entered a window of thin AI‑chain catalysts coinciding with macro risk re-pricing. Last Friday’s stronger-than-expected US NFP triggered global liquidity tightening: US Treasury yields and the dollar rose and the Nasdaq-100 and other risk assets pulled back; weaker-than-expected guidance from overseas AI leaders and short-term crowded positions have prompted a style rebalancing, shifting the primary risk from industry momentum to macro pricing. If the Nasdaq-100 falls >2% alongside rising US yields, A-shares face a higher probability of monthly downside; financials/value should outperform while growth is under pressure. Recommendation: modestly take profits in AI-chain names and await lower volatility to re-enter; favor banks for higher expected returns amid macro re-pricing and selectively rebalance into minor metals and packaging & printing stocks that look EPS-accretive after Q1 results."
+    },
+    {
+      "id": "4922413",
+      "time": "2026-06-08 07:42:04",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券A股策略：短期繼續保持均衡配置】華泰證券釋出A股策略指出，短期A股進入AI鏈產業催化相對真空與宏觀風險再定價的疊加視窗。上週五遠超預期的非農資料觸發全球流動性收緊定價，美債收益率與美元指數大幅上行，納指100等風險資產顯著回撥，疊加AI鏈海外龍頭指引不及預期與短期籌碼擁擠,市場風格出現再平衡跡象,主要矛盾由產業景氣轉向宏觀風險定價。覆盤納指100強動量行情後跌超2%+美債上行的情形，A股月度維度承壓機率較高，金融/價值佔優、成長承壓。因此，配置上，建議適度止盈AI鏈，待波動率回落後再吸籌，向宏觀再定價中期望收益較高的銀行及一季報後超額收益相對EPS變化有價效比的小金屬、包裝印刷等再平衡。"
+    },
+    {
+      "id": "4922412",
+      "time": "2026-06-08 07:41:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【英媒曝美國打算繞開英國“收購”查戈斯群島】據英國媒體7日報道，美國官員已擬定一項繞過英國、直接與模里西斯達成“收購”查戈斯群島協議的方案。 據英國《每日電訊報》援引知情人士的話說，該方案是美國政府起草的數個方案之一，目的是替代英國向模里西斯移交該島主權的計劃。知情人士還稱，美國財政部長貝森特已就這一“收購”方案知會總統特朗普。 查戈斯群島位於模里西斯東北方向約750公里的印度洋西南海域，1965年被割讓給英國殖民當局。英國次年把該群島主島迪戈加西亞島租給美國建空軍基地。(新華社)"
+    },
+    {
+      "id": "4922410",
+      "time": "2026-06-08 07:40:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在供應干擾擔憂加劇之際油價上漲】在對中東供應干擾擔憂加劇之際，油價在早盤交易中上漲。週日，伊朗向以色列發射了至少四波導彈，以回應數小時前以色列對貝魯特的空襲，該空襲的目標是德黑蘭支援的武裝分子真主黨。該襲擊標誌著自4月初與美國的停火協議生效以來，伊朗首次將目標對準以色列，並可能導致霍爾木茲海峽持續關閉，該海峽是一條關鍵水道，全球五分之一的石油通常都要經過這裡。近月西得州中質油期貨上漲2.1%，報每桶92.45美元，而近月布倫特原油期貨上漲2.3%，報每桶95.23美元。"
+    },
     {
       "id": "mkt:019ea475-2e90-7ee0-86d5-31ba2f7cf3ec",
       "time": "2026-06-08 07:40:03",
@@ -176881,41 +176924,6 @@
         "Importance 1"
       ],
       "text": "Australia Home Prices Stall in May — Australia’s Cotality Home Value Index was unchanged in May 2026, after rising 0.3% in the previous month. The latest reading marked the weakest monthly result in a year as the housing cycle continued to lose momentum across most markets. The slowdown had been building for some time, even before interest rates increased, tensions in Iran escalated, and new tax measures were announced in the Federal Budget, with affordability and serviceability constraints increasingly weighing on demand. Sydney and Melbourne led the downturn, with dwelling values falling 0.9% and 0.8%, respectively, leaving values 2.1% and 2.9% below their cyclical highs reached in November 2025. Elsewhere, home prices continued to rise, albeit at a slower pace. Perth and Darwin recorded the strongest monthly gains at 1.5%, followed by Brisbane and Hobart at 0.9%, while Adelaide advanced 0.5%."
-    },
-    {
-      "id": "4909185",
-      "time": "2026-06-01 07:43:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【英國央行格林：穩定幣的需求可能很快就會消退】英國央行貨幣政策委員會(MPC)委員格林(Megan Greene)週日表示，穩定幣的熱度可能很快就會消退，取而代之的將是代幣化存款，即傳統銀行存款的數字版本。不過，她的一些同事持不同看法。“我認為代幣化存款很可能會取代穩定幣，五年後，我們或許會疑惑當初為何還在談論穩定幣，”格林在克羅埃西亞杜布羅夫尼克的一場會議上表示。她認為，央行數字貨幣(CBDC)、穩定幣和數字存款都各有市場，但一旦商業銀行意識到若不採取行動將失去傳統銀行存款，數字存款可能會成為最終的贏家。相比之下，在同一場討論中發言的美聯儲理事沃勒(Christopher Waller)則為穩定幣辯護，認為穩定幣是一種可能降低成本的金融創新，不應被過度監管扼殺。“我一直把穩定幣視為一種支付工具；它既無惡意、也不危險，”沃勒表示，“它們只是為支付領域帶來了競爭。”"
-    },
-    {
-      "id": "4909184",
-      "time": "2026-06-01 07:42:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗核協議的大部分內容都與核問題有關】特朗普在Truth Social發文表示，他提出的與伊朗達成的協議“非常明確地表明，伊朗將不會擁有核武器”。“事實上，協議的大部分內容都與此有關，”特朗普指的是核問題。"
-    },
-    {
-      "id": "4909183",
-      "time": "2026-06-01 07:41:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局報告稱，智利瓦爾帕萊索西北33公里處發生6級地震。"
-    },
-    {
-      "id": "mkt:019e8069-3e79-700f-a381-85d5404eeac9",
-      "time": "2026-06-01 07:40:41",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "French new-car registrations rose 3.68% YoY to 128,484 in May, an industry group said. Tesla (TSLA.O) registrations in France jumped 655.34% YoY in May."
     }
   ]
 }
