@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-07 17:41:12",
-  "count": 18920,
+  "updated": "2026-06-07 17:45:21",
+  "count": 18917,
   "items": [
+    {
+      "id": "4921829",
+      "time": "2026-06-07 17:41:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【歐洲多國醞釀協同制裁猶太定居者】歐洲外交官員6日說，法國正與其他幾個歐洲國家合作，醞釀協同出臺國家層面措施，制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者，進一步向以色列施壓。三名不願公開姓名的歐洲外交官告訴路透社，制裁措施預期在未來幾天內宣佈，將包括凍結財產和旅行禁令，方案尚未最終敲定，各國擬定的制裁人員名單也可能存在差異。上述外交官說，由於歐盟層面推進對以色列採取更強硬措施的相關努力受阻，部分國家認為，從國家層面協同推出制裁措施是現階段的最佳選擇。（新華社）"
+    },
+    {
+      "id": "4921828",
+      "time": "2026-06-07 17:40:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國總統表示已下令組建由檢方與警方共同參與的調查組。"
+    },
     {
       "id": "mkt:019ea173-fda2-7665-8318-2fa4013f76f6",
       "time": "2026-06-07 17:39:48",
@@ -174455,46 +174472,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗議會議長卡利巴夫表示，外交的工作是將軍事領域獲得的勝利轉化為政治和法律成果。"
-    },
-    {
-      "id": "mkt:019e7d6b-afb1-700f-a37c-ef3eb85ce1e4",
-      "time": "2026-05-31 17:44:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS: Iranian parliament speaker Ghalibaf said diplomacy's task is to convert military victories into political and legal gains."
-    },
-    {
-      "id": "4908781",
-      "time": "2026-05-31 17:44:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：在以色列北部的阿卡地區發現無人機墜落在開放區域。"
-    },
-    {
-      "id": "mkt:019e7d6b-1c7c-700f-a37c-e52343dd9d62",
-      "time": "2026-05-31 17:43:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Today reported a crashed drone was found in an open area in the Akko (Acre) region of northern Israel."
-    },
-    {
-      "id": "mkt:019e7d69-637f-700f-a37c-dcbc148351d8",
-      "time": "2026-05-31 17:41:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malta's ruling Labour Party, led by Prime Minister Abela, won the parliamentary election, according to multiple Maltese media reports."
-    },
-    {
-      "id": "4908780",
-      "time": "2026-05-31 17:41:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬耳他執政黨工黨在議會選舉中獲勝】據馬耳他多家媒體5月31日報道，由馬耳他總理阿貝拉領導的執政黨工黨在議會選舉中勝出。（新華社）"
     }
   ]
 }
