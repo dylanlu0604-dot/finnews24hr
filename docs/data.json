@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 08:02:17",
+  "updated": "2026-06-07 08:06:10",
   "count": 18864,
   "items": [
+    {
+      "id": "4921516",
+      "time": "2026-06-07 08:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，特朗普首屆任期內，美國環境保護署大力推進逐步廢止動物實驗，這項工作在拜登任內陷入停滯。本週該部門宣佈在全面取消動物實驗的工作上取得新進展。"
+    },
     {
       "id": "mkt:019e9f60-20c2-7665-8315-311820d491eb",
       "time": "2026-06-07 07:58:57",
@@ -174035,14 +174043,6 @@
         "XAUUSD"
       ],
       "text": "【Crew releases radio recordings as US and Iran continue standoff over merchant transit】Recordings from the crew of a merchant vessel trapped near the Strait of Hormuz show Iran's Islamic Revolutionary Guard Corps navy and US aircraft radioed warnings to ships on the evening of the 30th local time. The IRGC told vessels in the Persian Gulf and Gulf of Oman the strait remains closed and only ships granted IRGC permission and navigating on Iran-designated routes may transit, warning violations would severely endanger navigation. The IRGC added any US Navy attempt to interfere with management of the strait or disrupt shipping order would be met with severe military response."
-    },
-    {
-      "id": "4908504",
-      "time": "2026-05-31 08:03:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一機集團獲國鐵5.32億元訂單】近日，一機集團北方創業公司成功斬獲中國國家鐵路集團有限公司C70E型通用敞車、X70型集裝箱專用平車和GQ7O型輕油罐車訂單，合同金額達5.32億元。疊加年初3.48億元跨年鐵路貨車訂單，訂單規模已突破8.8億元。"
     }
   ]
 }
