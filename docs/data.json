@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-07 17:29:33",
-  "count": 18924,
+  "updated": "2026-06-07 17:33:18",
+  "count": 18926,
   "items": [
+    {
+      "id": "mkt:019ea16d-7c0c-7665-8318-2455b2e88800",
+      "time": "2026-06-07 17:32:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Bank of Israel purchased USD 801 mln of foreign exchange in May to maintain orderly market functioning."
+    },
+    {
+      "id": "mkt:019ea16d-2e78-7665-8318-1efb6b6448b0",
+      "time": "2026-06-07 17:32:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Israel: foreign-exchange reserves stood at $238.68 bln in May, up from $235.73 bln in April."
+    },
+    {
+      "id": "mkt:019ea16b-9f70-7665-8318-129f85b288f1",
+      "time": "2026-06-07 17:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran says it has drafted Strait of Hormuz Environmental Service Charge Regulation】On the 7th, Iran's vice president and head of the Department of Environment, Ansari, said Tehran has begun drafting the Strait of Hormuz Environmental Service Charge Regulation; an initial draft was recently completed, but fee levels and the specific collection mechanism have not been finalized."
+    },
     {
       "id": "4921824",
       "time": "2026-06-07 17:26:39",
@@ -174513,14 +174551,6 @@
         "XAUUSD"
       ],
       "text": "Iran's IRGC navy said its forces will continue, firmly and forcefully, to monitor and exercise intelligent control of the Strait of Hormuz."
-    },
-    {
-      "id": "4908771",
-      "time": "2026-05-31 17:30:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【入戶調查明起開始，請積極配合！】日前，國家統計局釋出公告稱，國家統計局決定於2026年在全國範圍內開展兩次人口固定樣本跟訪調查。調查結果將用於加強人口變動統計，服務人口高質量發展。兩次調查的標準時點分別為6月1日零時和11月1日零時。6月1日至6月25日和11月16日至12月5日期間，調查員將入戶開展調查工作。（國家統計局）"
     }
   ]
 }
