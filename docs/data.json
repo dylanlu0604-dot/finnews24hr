@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-07 17:57:30",
-  "count": 18913,
+  "updated": "2026-06-07 18:02:25",
+  "count": 18909,
   "items": [
+    {
+      "id": "mkt:019ea184-2471-7ee0-86ce-599c30452263",
+      "time": "2026-06-07 17:57:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift."
+    },
     {
       "id": "4921834",
       "time": "2026-06-07 17:56:32",
@@ -174383,49 +174398,6 @@
         "公司"
       ],
       "text": "【聯影醫療：擬實施2026年限制性股票激勵計劃】聯影醫療公告稱，公司擬實施2026年限制性股票激勵計劃，首次授予涉及激勵物件1524人，包括公司中層管理人員及其他需激勵人員，不包括獨立董事、持股5%以上股東或實際控制人及其親屬。公司已召開董事會審議透過相關議案，後續需履行股東會審議等程式，該計劃須經出席股東會的股東所持表決權的三分之二以上透過方可生效實施。該計劃旨在建立長效激勵機制，吸引和留住人才，不存在明顯損害公司及全體股東利益的情形。"
-    },
-    {
-      "id": "4908791",
-      "time": "2026-05-31 18:02:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列國防軍稱，數枚炮彈從黎巴嫩方向射向阿卡地區。一枚來襲彈體被攔截，其餘彈體落入空曠區域。"
-    },
-    {
-      "id": "4908790",
-      "time": "2026-05-31 18:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統府幕僚長：韓方尋求與加拿大討論能源、供應鏈及尖端產業合作事宜。"
-    },
-    {
-      "id": "mkt:019e7d7b-35cd-700f-a37d-0e952c7062a6",
-      "time": "2026-05-31 18:01:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【102 national standards take effect June 1】China implements 102 national standards from June 1 to bolster public safety, protect consumer rights and public health, and support high-quality economic development."
-    },
-    {
-      "id": "4908789",
-      "time": "2026-05-31 18:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "6月1日起，102項國家標準正式實施。（央視新聞）"
-    },
-    {
-      "id": "4908788",
-      "time": "2026-05-31 17:57:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【中銀證券：資金在高位擁擠賽道與低位確定性板塊之間進行再平衡操作】中銀證券研報表示，本週市場持續高位波動。結構上，前期強勢板塊科技賽道本週持續面臨兌現壓力，資金對高位擁擠賽道與低位確定性板塊之間進行一定再平衡操作。驅動因素上：一方面，油價持續高位執行，海外流動性緊縮預期近期明顯升溫，疊加新任美聯儲主席沃什正式接任，市場對於美國貨幣政策偏鷹預期升溫。當前，市場對於2026年內美聯儲進行加息預期開始明顯升溫。高油價與高利率的雙重夾擊，使全球流動性環境的鬆動空間受到實質性壓縮。產業層面，夏季用電高峰預期催化電力板塊，煤炭供給收縮推動價格持續抬升，在市場震盪加劇、基本面訊號偏淡的視窗期，資金對確定性的股息回報和相對低位的安全邊際給予了更高的定價權重。"
     }
   ]
 }
