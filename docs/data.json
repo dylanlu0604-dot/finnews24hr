@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-07 23:20:16",
-  "count": 18985,
+  "updated": "2026-06-07 23:24:08",
+  "count": 18987,
   "items": [
+    {
+      "id": "mkt:019ea2ad-eaaa-7ee0-86d0-a03475d200db",
+      "time": "2026-06-07 23:22:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Republican-led redistricting leaves Democrats needing ~5 percentage points more than 2024 to retake House; new maps give GOP ~2 percentage-point national edge】Republican-led states have completed congressional redistricting. To regain a House majority in the 2026 midterms, Democrats would need to outperform their 2024 national popular vote by about 5 percentage points. An Axios analysis estimates the new maps confer roughly a 2 percentage-point advantage to Republicans in the national popular vote. In the 10 states that redrew maps, Democrats currently hold 80 seats and Republicans 101; Democrats would need to flip three seats to win House control, which would determine whether Trump’s final two years face congressional checks."
+    },
+    {
+      "id": "4922064",
+      "time": "2026-06-07 23:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息人士：以方立場明確，一旦真主黨向以色列發起攻擊，以軍將打擊其位於達希耶的總部。"
+    },
+    {
+      "id": "4922063",
+      "time": "2026-06-07 23:21:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：玻利維亞下議院批准了一項法案，放寬了宣佈進入緊急狀態的要求。此前，要求總統羅德里戈·帕斯辭職的抗議活動和道路封鎖擾亂了交通路線，加劇了物資短缺，並對經濟造成了壓力。"
+    },
     {
       "id": "4922062",
       "time": "2026-06-07 23:19:28",
@@ -175117,15 +175141,6 @@
         "其他"
       ],
       "text": "【英國央行官員格林表示，穩定幣需求或將很快消退】英國央行政策委員梅根·格林周日稱，穩定幣的熱度或將很快降溫，代幣化存款（即傳統銀行存款的數字化形式）將取而代之，不過該行部分同僚持不同觀點。穩定幣是一類旨在維持幣值穩定的加密資產，近年來人氣持續攀升。儘管近幾個月其發行規模趨於平穩，但仍有部分業內人士預計其需求會繼續走高。格林在克羅埃西亞杜布羅夫尼克的一場會議上表示：“我認為代幣化存款大機率會取代穩定幣。五年之後，我們或許會疑惑當初為何還在討論穩定幣。”她認為，央行數字貨幣、穩定幣與數字化存款均擁有各自市場。但一旦商業銀行意識到自身會流失傳統存款，代幣化存款最終將成為主流選擇。"
-    },
-    {
-      "id": "4908958",
-      "time": "2026-05-31 23:24:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【算力金屬錫價格暴漲 錫價半年飆漲40%】在金屬世界裡，有一種金屬錫，因為具有導電性好、熔點低、焊接穩定性強等特性，成為半導體先進封裝工藝中的關鍵基礎材料。算力越強，晶片堆疊越密集，錫消耗量就越大，因此被稱為“算力金屬”。隨著人工智慧產業的快速發展，金屬錫的價格，出現明顯上漲，從去年11月的每噸30萬元，漲至目前的每噸42萬元左右，半年上漲40%，處在歷史高位。據瞭解，我國是全球最大的精煉錫生產國和消費國，但受國內錫礦資源品位下滑等因素影響，目前，國內冶煉用錫礦大約三分之二依賴進口。從去年開始，緬甸、印度尼西亞、剛果（金）等錫主產國受到出口限制、地質災害等因素影響，錫供應出現緊缺。業界普遍認為，未來一到兩年，錫價上漲將是長期態勢。此外，採訪中不少企業負責人也表示，隨著下游需求結構的變化，金屬錫產業鏈將逐步向高研發投入、高技術輸出方向發展，這也意味著產業鏈將迎來新一輪洗牌。 (央視財經)"
     }
   ]
 }
