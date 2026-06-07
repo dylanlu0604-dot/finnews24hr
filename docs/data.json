@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-07 13:45:09",
+  "updated": "2026-06-07 13:49:11",
   "count": 18927,
   "items": [
+    {
+      "id": "mkt:019ea09d-bcbb-7665-8316-c8cb7683571d",
+      "time": "2026-06-07 13:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【A Letter to Grandma box office tops 1.6 bln yuan】A Letter to Grandma, produced by Damai Entertainment, has exceeded 1.6 bln yuan in box office receipts as of June 7, according to Lighthouse Professional Edition."
+    },
     {
       "id": "4921697",
       "time": "2026-06-07 13:43:00",
@@ -174530,18 +174538,6 @@
         "國際"
       ],
       "text": "【日本民眾形容政府舉措危險恐懼】近日（5月27日），日本國會參議院表決透過設立“國家情報局”的法案。部分日本民眾5月30日在東京新宿車站前舉行集會，強烈反對該法案的透過。他們認為，日本政府種種動向如同在為戰爭做準備，充滿危險。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e7c92-7856-7bb7-996d-454dc8219bd6",
-      "time": "2026-05-31 13:47:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Refinitiv: Israeli military confirmed it has captured Beaufort Castle in southern Lebanon."
     }
   ]
 }
