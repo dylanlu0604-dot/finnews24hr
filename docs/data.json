@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-09 01:23:47",
-  "count": 19128,
+  "updated": "2026-06-09 01:27:39",
+  "count": 19131,
   "items": [
+    {
+      "id": "4924538",
+      "time": "2026-06-09 01:26:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：面向家長推出可設定使用時段、選擇孩子在一天不同時段可使用哪些應用的功能。"
+    },
+    {
+      "id": "4924537",
+      "time": "2026-06-09 01:26:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，伊朗方面已表態 “不會再對以色列發動襲擊”，並請求美國敦促以方停止打擊行動。"
+    },
+    {
+      "id": "4924536",
+      "time": "2026-06-09 01:25:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，多個地區國家呼籲他出面阻止局勢進一步升級。"
+    },
+    {
+      "id": "4924535",
+      "time": "2026-06-09 01:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普透露，在近期與內塔尼亞胡的通話中，他向對方發出警告“你行事務必謹慎，否則很快就會陷入獨自對抗伊朗的境地。”"
+    },
+    {
+      "id": "te:markets:557357",
+      "time": "2026-06-09 01:24:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Equities Trim Rebound — US equities trimmed earlier gains to trade mixed on Monday as the muted momentum in most sectors was offset by a fresh rally for chip producers. The S&P 500 gained 0.5% while the Nasdaq 100 jumped 1.7%. Iran stated it ended its military operation in Israel and Tel Aviv signaled it paused attacks on Iran, driving energy prices and bond yields to ease from session peaks. The improvement in demand for risk was aligned with bullish signals on chip production by Nvidia CEO Huang, driving markets to pivot back to speculative AI infrastructure companies following their selloff last week. Nvidia added 1.5% while Micron, Intel, and Applied Materials surged 10%. In turn, the Dow edged below the flatline on lingering concerns of high interest rates. AbbVie, Microsoft, and Visa dropped around 2%. Inflation data due later this week is expected to confirm accelerating prices in an economy that has posted strong jobs growth, consolidating bets of a rate hike by the Fed this year."
+    },
+    {
+      "id": "mkt:019ea843-ad39-733a-9232-677bcb533b09",
+      "time": "2026-06-09 01:24:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) will add a filter for graphic violent imagery to its parental controls."
+    },
+    {
+      "id": "4924534",
+      "time": "2026-06-09 01:23:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐馬克投行已為弗吉尼亞北部一處關鍵任務型資料中心安排9.75億美元融資。"
+    },
+    {
+      "id": "mkt:019ea843-19ca-733a-9232-58375e827d34",
+      "time": "2026-06-09 01:23:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) will extend parental controls from apps to the entire web with a new \"Ask Before Browsing\" feature."
+    },
+    {
+      "id": "4924533",
+      "time": "2026-06-09 01:23:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：將在家長控制功能中新增血腥影象過濾機制。"
+    },
     {
       "id": "4924532",
       "time": "2026-06-09 01:23:12",
@@ -176257,67 +176342,6 @@
         "國際"
       ],
       "text": "【上汽MG歐洲首家工廠落戶西班牙】上汽集團旗下MG品牌已選定西班牙建設其首家歐洲汽車工廠。當地政府表示，該專案位於西班牙西北部，初始投資預計約2億歐元(2.32億美元)，不包括港口費用，年產能可達12萬輛。工廠預計於2028年投產。MG原為英國品牌，近20年前被上汽集團收購，目前是歐洲銷量最高的中國汽車品牌之一。"
-    },
-    {
-      "id": "mkt:019e8439-8216-7993-96f8-07ec4d0f42fd",
-      "time": "2026-06-02 01:27:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iraqi security official says preliminary assessment indicates the second explosion aboard a cargo ship about 40 nautical miles southeast of Umm Qasr was caused by a drone attack."
-    },
-    {
-      "id": "mkt:019e8439-2437-7993-96f7-fc915337b11c",
-      "time": "2026-06-02 01:26:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Iraqi security official said a cargo ship about 40 nautical miles southeast of Umm Qasr suffered a second explosion and caught fire; no casualties reported."
-    },
-    {
-      "id": "4911222",
-      "time": "2026-06-02 01:26:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克安全官員訊息：波斯灣海域、烏姆卡斯爾港東南約 40 海里處一艘貨輪遭遇二次爆炸並起火，暫無人員傷亡通報。初步研判顯示，這艘在波斯灣、伊拉克烏姆卡斯爾港東南約 40 海里處遭遇二次爆炸的貨輪系遭無人機襲擊所致。"
-    },
-    {
-      "id": "mkt:019e8438-7c81-7993-96f7-f26935d69026",
-      "time": "2026-06-02 01:25:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Two Israeli sources said Israel is awaiting final approval from Trump before conducting any operation in the southern suburbs of Beirut."
-    },
-    {
-      "id": "4911221",
-      "time": "2026-06-02 01:25:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "兩名以色列訊息人士：以色列正等待特朗普最終批准，方可在貝魯特南部郊區開展軍事行動。"
-    },
-    {
-      "id": "mkt:019e8436-e3c5-7993-96f7-eb6626c159ae",
-      "time": "2026-06-02 01:24:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israel says it intercepted multiple rockets fired by Hezbollah from Lebanon】Israel Defense Forces (IDF) said on June 1 that Hezbollah fired multiple rockets from Lebanon into Israel. Israeli air defenses intercepted some; others fell near IDF troops with no casualties reported. Hezbollah also launched a drone from Lebanon that struck an Israeli position in northern Israel. The IDF warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would respond by striking targets in Dahiyeh if Hezbollah continues firing at Israeli towns."
     }
   ]
 }
