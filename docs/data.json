@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-09 01:42:51",
-  "count": 19157,
+  "updated": "2026-06-09 01:46:42",
+  "count": 19160,
   "items": [
+    {
+      "id": "4924571",
+      "time": "2026-06-09 01:45:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，低壓已增強為熱帶風暴“克里斯蒂娜”。"
+    },
+    {
+      "id": "mkt:019ea857-39b8-733a-9232-fd743bd6b095",
+      "time": "2026-06-09 01:45:42",
+      "tags": [
+        "MKT News",
+        "WBD.O"
+      ],
+      "text": "Proxy adviser ISS recommended Warner Bros. Discovery shareholders (WBD.O) vote against an advisory proposal to approve a named executive officer compensation plan."
+    },
+    {
+      "id": "4924570",
+      "time": "2026-06-09 01:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風“鮑里斯”的中心位置比此前預估的更偏南，目前預計其將於週二登陸。"
+    },
+    {
+      "id": "4924569",
+      "time": "2026-06-09 01:44:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果推出人工智慧版Siri，股價跳水，漲幅不足1%。"
+    },
+    {
+      "id": "mkt:019ea855-e38c-733a-9232-f4395b788bae",
+      "time": "2026-06-09 01:44:21",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【U.S. judge blocks Trump’s $100,000 H-1B visa fee】A U.S. federal judge on Monday vacated President Trump’s order to impose a $100,000 fee on H-1B visa applications, ruling the hike amounted to an unlawful tax and must be struck down, a relief for U.S. technology firms that rely on skilled foreign labor. Massachusetts federal judge Leo T. Sorokin issued the decision; the U.S. government is expected to appeal."
+    },
+    {
+      "id": "mkt:019ea854-f776-733a-9232-eb8f434c8ba4",
+      "time": "2026-06-09 01:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USDA: President Trump has appointed John Bellinger as senior advisor for New World screwworm response preparedness."
+    },
+    {
+      "id": "4924568",
+      "time": "2026-06-09 01:43:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果官宣iOS 27：健康App可追蹤更年期，支援安卓、Win11等裝置系統共享iCloud】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。在釋出的IOS27中，健康App健康週期跟蹤現在還可以追蹤更年期和圍絕經期。另外，蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）"
+    },
     {
       "id": "mkt:019ea854-098a-733a-9232-e052cf5d4e30",
       "time": "2026-06-09 01:42:20",
@@ -176549,40 +176608,6 @@
         "DXY"
       ],
       "text": "Zelenskiy says Ukrainian forces can strike Russian logistics across occupied territory; Russian troops in southern and eastern Ukraine have almost no secure supply routes."
-    },
-    {
-      "id": "4911235",
-      "time": "2026-06-02 01:45:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 烏軍可打擊所有俄方控制區域內的俄軍後勤設施，在烏克蘭東部和南部，俄軍幾乎沒有安全通行的道路。"
-    },
-    {
-      "id": "4911234",
-      "time": "2026-06-02 01:45:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏軍行動已造成克里米亞及其他被佔領地區燃油短缺。"
-    },
-    {
-      "id": "mkt:019e8449-8783-7993-96f8-566fde3a080d",
-      "time": "2026-06-02 01:44:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Trump said negotiations with Iran are ongoing and progressing rapidly."
-    },
-    {
-      "id": "4911233",
-      "time": "2026-06-02 01:44:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：與伊朗的談判正在快速推進。"
     }
   ]
 }
