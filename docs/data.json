@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-09 06:32:52",
-  "count": 19203,
+  "updated": "2026-06-09 06:36:43",
+  "count": 19199,
   "items": [
+    {
+      "id": "te:markets:557374",
+      "time": "2026-06-09 06:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.31% — Top commodity losers are Platinum (-2.31%), Iron Ore (-0.93%), Iron Ore CNY (-0.91%) and Gold (-0.13%). Gains are led by Silver (1.23%) and Copper (0.69%)."
+    },
     {
       "id": "te:markets:557373",
       "time": "2026-06-09 06:30:10",
@@ -177058,58 +177069,6 @@
         "市場"
       ],
       "text": "【儲蓄國債即將納入個人養老金產品池】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中證報）"
-    },
-    {
-      "id": "4911397",
-      "time": "2026-06-02 06:36:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭地方當局敦促基輔民眾避難，基輔拉響空襲警報。"
-    },
-    {
-      "id": "mkt:019e8554-5264-7993-96fa-bebfc437a7e5",
-      "time": "2026-06-02 06:35:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Ukrainian local authorities urged Kyiv residents to shelter in bunkers; air-raid sirens sounded in Kyiv."
-    },
-    {
-      "id": "mkt:019e8554-18de-7993-96fa-b3d100bde0f0",
-      "time": "2026-06-02 06:35:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "【Savings treasury bonds to be added to personal pension product pool】On June 1 several banks' mobile apps, including Industrial and Commercial Bank of China (ICBC), showed a 'bond' entry in personal pension sections. A joint notice from China's Ministry of Finance and the PBOC states that institutions should, from June 2026, begin offering personal-pension savings treasury bonds (electronic). Market participants say the move adds a long-term, low-risk allocation option for savers, could boost pension contributions and expand the personal pension product set."
-    },
-    {
-      "id": "4911396",
-      "time": "2026-06-02 06:35:00",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週二重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 英偉達ComputeX 2026；\n② 08:30 澳洲聯儲官員Ian Harper在澳大利亞經濟開發委員會（CEDA）講話；\n③ 13:50 14:00 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）在韓國央行主辦的一場國際會議上講話；\n④ 17:00 歐元區5月調和CPI初值，歐洲央行管委Rehn講話；\n⑤ 20:30 美國克利夫蘭聯儲主席Hammack談論貨幣政策；\n⑥ 時間待定 微軟公司Microsoft Build開幕，為期兩天；\n⑦ 22:00 美國4月JOLTS職位空缺，英國央行行長貝利出席英國議會上議院經濟事務委員會聽證會；\n⑧ 22:35 歐洲央行副行長Boris Vujcic講話；\n⑨ 23:00 英國央行貨幣政策委員會（MPC）成員Greene談論“評估近期能源衝擊造成的通脹風險”，歐洲央行管委Sleijpen講話；\n⑩ 美股盤後 派拓網路PANW、猶他美容等釋出業績報告。"
-    },
-    {
-      "id": "te:markets:555488",
-      "time": "2026-06-02 06:34:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore Falls by 3.48% — Top commodity losers are Iron Ore (-3.48%), Gold (-1.30%) and Silver (-0.55%). Gains are led by Copper (2.79%), Silicon (2.56%) and Lithium Carbonate (0.85%)."
     }
   ]
 }
