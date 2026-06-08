@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-09 01:35:11",
-  "count": 19142,
+  "updated": "2026-06-09 01:38:58",
+  "count": 19149,
   "items": [
+    {
+      "id": "mkt:019ea850-a35e-733a-9232-b097bee4368c",
+      "time": "2026-06-09 01:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN: Lebanese President Aoun has informed the Israeli government that military force can never secure civilians in northern Israel; he said Lebanon seeks good relations with Iran based on mutual non-interference."
+    },
+    {
+      "id": "4924561",
+      "time": "2026-06-09 01:38:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：我們的目標是結束戰爭、實現安全穩定，我們對敵對一方毫無信任。"
+    },
+    {
+      "id": "4924560",
+      "time": "2026-06-09 01:38:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：推出全新語音體驗，讓Siri的發音表現力大幅提升。"
+    },
+    {
+      "id": "4924559",
+      "time": "2026-06-09 01:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果官宣iOS 27：支援安卓、Win11等裝置系統共享iCloud相簿】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）"
+    },
+    {
+      "id": "4924558",
+      "time": "2026-06-09 01:36:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：開發者大會推出全新專屬Siri應用，使用者可回溯對話記錄。"
+    },
+    {
+      "id": "4924557",
+      "time": "2026-06-09 01:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普10萬美元H-1B簽證費被法官否決】美國馬薩諸塞州聯邦地區法官利奧·T·索羅金駁回了特朗普針對H-1B簽證申請徵收10萬美元費用的行政令，為依賴聘用外籍技術人才的美國科技企業解了圍。該法官認定特朗普這項大幅提高熱門簽證成本的政令屬於非法徵稅，必須予以撤銷。特朗普政府大機率會提起上訴；此番裁決對其“限制移民、提振本土勞工需求”的競選議程構成打擊。"
+    },
+    {
+      "id": "mkt:019ea84e-82a9-733a-9232-a8ce5a42dc36",
+      "time": "2026-06-09 01:36:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ghalibaf says US breach of ceasefire and maritime blockade are root causes of tensions】Iranian parliament speaker Ghalibaf said the root of current tensions is Washington openly breaching a ceasefire — imposing a maritime blockade on the Iranian people and violating arrangements on the Lebanon ceasefire. He said the US president's comments on a memorandum of understanding contradict previously agreed elements, signaling that Washington does not intend to maintain the ceasefire or pursue dialogue. Ghalibaf warned Tehran must respond decisively to defend national rights and said Iran's armed forces have carried out their duties firmly."
+    },
+    {
+      "id": "4924556",
+      "time": "2026-06-09 01:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統：我告知以色列政府，軍事解決方案永遠不可能給以色列北部民眾帶來安全。"
+    },
+    {
+      "id": "4924555",
+      "time": "2026-06-09 01:35:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：Siri現已可在全平臺提供實用的視覺智慧功能。"
+    },
+    {
+      "id": "4924554",
+      "time": "2026-06-09 01:35:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：全新人工智慧架構支援應用操作與螢幕感知功能。"
+    },
+    {
+      "id": "mkt:019ea84d-5924-733a-9232-a1f2a9af0121",
+      "time": "2026-06-09 01:35:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O): New AI architecture enables app control and screen-aware features."
+    },
     {
       "id": "4924553",
       "time": "2026-06-09 01:33:43",
@@ -176407,39 +176503,6 @@
         "國際"
       ],
       "text": "【伊朗外交部：美對以色列違反黎以停火協議負有直接責任】當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。（央視新聞）"
-    },
-    {
-      "id": "4911230",
-      "time": "2026-06-02 01:38:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：以色列和黎真主黨的所有交火行動將立即停止】當地時間6月1日，美國總統特朗普在社交媒體“真實社交”上發文表示，他與以色列總理內塔尼亞胡進行了一次富有成效的通話，現已確定不會有任何部隊前往貝魯特，凡是此前正在途中的部隊，均已奉命撤回。特朗普還表示，透過高階別代表的協調，他也與黎巴嫩真主黨進行了一次良好的溝通。雙方已達成共識，所有交火行動將立即停止——即以色列不會攻擊黎真主黨，黎真主黨也不會攻擊以色列。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8443-d8cc-7993-96f8-3c50b9eeb025",
-      "time": "2026-06-02 01:38:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said negotiations with Iran are 'starting to get very boring'."
-    },
-    {
-      "id": "4911229",
-      "time": "2026-06-02 01:36:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普就中東問題發表評論後，美國國債跌幅收窄。"
-    },
-    {
-      "id": "mkt:019e8441-3973-7993-96f8-35e1539ec60a",
-      "time": "2026-06-02 01:35:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says productive talks with Netanyahu and Hezbollah; no US troops to Beirut】President Trump said on social media he had a very productive call with Israeli Prime Minister Netanyahu and that no US troops will go to Beirut; any units already en route have been sent back. He said, via a senior representative, he also had a good call with Hezbollah and that both sides agreed all shooting will stop — Israel will not attack Hezbollah and Hezbollah will not attack Israel."
     }
   ]
 }
