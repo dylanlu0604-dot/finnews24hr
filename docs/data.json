@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-08 10:26:22",
-  "count": 19256,
+  "updated": "2026-06-08 10:30:16",
+  "count": 19259,
   "items": [
+    {
+      "id": "mkt:019ea510-4a6d-7ee0-94c8-a55e0c546e56",
+      "time": "2026-06-08 10:29:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lvde Xiebo shares rose more than 10% intraday."
+    },
+    {
+      "id": "4922777",
+      "time": "2026-06-08 10:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：白宮稱美國未參與以色列對伊朗目標的導彈襲擊。"
+    },
+    {
+      "id": "4922776",
+      "time": "2026-06-08 10:28:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【綠的諧波盤中漲超10%】A股綠的諧波盤中漲10.18%，現報432.25元。"
+    },
+    {
+      "id": "4922775",
+      "time": "2026-06-08 10:28:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【XL二南三星跌超13%】XL二南三星跌超13%，XL二南方海力士跌超6%。"
+    },
+    {
+      "id": "4922774",
+      "time": "2026-06-08 10:28:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股兩倍做多三星電子跌超13%】港股兩倍做多三星電子跌超13%，兩倍做多海力士跌超6%。"
+    },
+    {
+      "id": "4922773",
+      "time": "2026-06-08 10:28:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統李在明稱將推出大規模投資專案 承諾為經濟尋找新的增長引擎】韓國總統李在明表示，政府將推出一個大規模投資專案，旨在支援更廣泛的未來增長引擎，同時還將制定計劃，利用半導體行業產生的超額稅收收入。李在明週一在就任總統一週年舉行的新聞釋出會上發表講話，承諾將在半導體行業之外，透過在各個行業培養世界領先競爭力來推動國家經濟發展。李在明在事先準備好的發言稿中表示，“最重要的是，經濟增長的成果不應僅限於少數企業、地區或行業。”此番言論凸顯李在明力推擴大韓國工業基礎。目前，蓬勃發展的半導體出口已成為經濟增長的關鍵驅動力，但也引起了那些未能從中受益的人的不滿。李在明稱，政府將很快公佈一項大規模投資專案，該專案將代表他所稱的國家增長戰略的“根本性轉變”。他還表示，政府將決定如何最有效地利用半導體行業產生的盈餘稅收，並確保國家增長基金實現“為所有人帶來增長”的目標。"
+    },
+    {
+      "id": "mkt:019ea50e-e59e-7ee0-94c8-9aff49617b80",
+      "time": "2026-06-08 10:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong activates level‑IV flood‑control emergency response】Guangdong provincial flood control headquarters activated a level‑IV flood‑control emergency response at 10:00 on June 8, citing meteorological forecasts for heavy to torrential rain across June 8–9. Eastern Guangdong, the southern Pearl River Delta and parts of western Guangdong face heavy to locally extreme downpours; thunderstorms may bring short‑duration intense rainfall and localized short‑term winds of force 8–10. Authorities said risks are elevated for small‑ and medium‑river flooding, flash floods/mountain torrents, geological hazards and urban and rural waterlogging."
+    },
+    {
+      "id": "mkt:019ea50e-a684-7ee0-94c8-944f7b096b59",
+      "time": "2026-06-08 10:27:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say Moonshot AI plans to raise up to $2.0 bln, implying a post-money valuation of about $30.0 bln."
+    },
+    {
+      "id": "mkt:019ea50e-6e29-7ee0-94c8-894c181d8663",
+      "time": "2026-06-08 10:27:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "600522.SS",
+        "Impact bullish"
+      ],
+      "text": "Zhongtian Technology shares hit the daily upper trading limit, lifting market capitalization above CNY170 billion to a record high after the company won a contract worth about CNY1.518 billion to supply MPO fiber patch cords and accessories for data centers."
+    },
+    {
+      "id": "4922772",
+      "time": "2026-06-08 10:27:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "中天科技觸達漲停，市值突破1700億元創歷史新高。"
+    },
+    {
+      "id": "4922771",
+      "time": "2026-06-08 10:26:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東啟動防汛Ⅳ級應急響應】據氣象部門監測預報，6月8至9日，廣東省有大雨到暴雨，其中粵東、珠江三角洲南部、粵西的部分市縣有暴雨區域性大暴雨或特大暴雨，雷雨時伴有短時強降水和局地8-10級短時大風等強對流天氣，發生中小河流洪水、山洪和地質災害、城鄉內澇等災害風險較大。根據有關規定，廣東省防汛防旱防風總指揮部已於6月8日10時啟動防汛Ⅳ級應急響應。各地各部門要加強會商研判，及時啟動應急響應，落實各項防禦措施，全力保障人民群眾生命財產安全，最大程度降低災害損失。當前正值高考期間，各地及教育、交通、電力、公安、消防等部門要做好洪澇災害應急處突準備，在高考考點、城市易澇點、重要電力設施等重點部位提前預置消防救援、應急排澇、電力搶修、交通保暢等專業應急隊伍，第一時間處置突發險情災情，全力保障高考順利進行。"
+    },
     {
       "id": "4922770",
       "time": "2026-06-08 10:25:27",
@@ -177601,85 +177694,6 @@
         "市場"
       ],
       "text": "【銅價在供應緊俏之際上漲】在全球供應緊俏的情況下，銅價在亞洲早盤交易中上漲。澳新銀行研究部分析師在一份研究報告中表示，全球最大的銅生產國智利公佈的4月份產量創下23年來的最低水平，這強化了對全球供應緊俏的預期。據澳新銀行稱，國有銅礦企業智利國家銅業公司的新任董事長暗示，該公司將轉向追求盈利能力，而非產量。與此同時，來自波斯灣的供應干擾已使全球約20%的銅供應面臨風險。倫敦金屬交易所基準三個月期LME合約上漲0.5%，報每噸13,706.00美元。"
-    },
-    {
-      "id": "4909477",
-      "time": "2026-06-01 10:29:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【耐普礦機漲超6% 與紫金礦業簽訂戰略合作協議書】6月1日，耐普礦機盤中漲超6%，截至10時07分，該股漲6.20%，報25.36元/股。耐普礦機5月31日晚公告，公司與紫金礦業簽訂《戰略合作協議書》，合作期限為2026年5月14日至2029年5月13日。雙方將在產品採購、海外專案協同、科研開發等領域深化合作，紫金礦業在同等條件下優先選擇耐普礦機作為選礦裝置及耐磨備件核心供應商。"
-    },
-    {
-      "id": "te:economy:555174",
-      "time": "2026-06-01 10:28:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Rises on Iran Deal Uncertainty — The yield on the US 10-year Treasury note climbed to around 4.47% on Monday, recovering from three-week lows as prospects for a longer-term ceasefire agreement between the US and Iran remained uncertain. Over the weekend, Washington and Tehran exchanged proposals seeking revisions to a draft deal that would extend the ceasefire and reopen the Strait of Hormuz, though there were few signs that the negotiations were making meaningful progress. Meanwhile, investors turned their attention to the highly anticipated US nonfarm payrolls report, which could offer fresh insight into labor market conditions and the future path of Federal Reserve policy. Markets are increasingly betting on the possibility of a Fed rate hike before the end of the year after inflation accelerated, marking a significant shift from earlier expectations of interest rate cuts."
-    },
-    {
-      "id": "4909476",
-      "time": "2026-06-01 10:28:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團-W港股漲超4%】美團-W港股漲4.29%，報76.60港元。訊息面上，公司將於今日(6月1日)釋出一季度財報，引市場普遍關注。市場預料2026Q1美團有望實現營收911.08億元，預期每股收益-1.60元。"
-    },
-    {
-      "id": "4909475",
-      "time": "2026-06-01 10:27:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【釀酒板塊回撥 水井坊跌逾6%】釀酒板塊回撥，水井坊跌逾6%，金徽酒跌近3%，金種子酒、伊力特、會稽山等跌幅居前。"
-    },
-    {
-      "id": "4909474",
-      "time": "2026-06-01 10:27:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股儲存晶片概念區域性活躍，雲漢芯城、商絡電子均漲超12%，大普微、兆易創新、大港股份、強一股份跟漲。"
-    },
-    {
-      "id": "mkt:019e8101-dd11-7666-845d-304e4dc472a0",
-      "time": "2026-06-01 10:27:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "A-share memory-chip names were locally active: Yunhan Xincheng and Shangluo Electronics rose over 12%, with Dapu Microelectronics, GigaDevice Semiconductor, Dagang Co. and Qiangyi Co. also advancing."
-    },
-    {
-      "id": "mkt:019e8101-9af7-7666-845d-2d09ae9804ea",
-      "time": "2026-06-01 10:27:06",
-      "tags": [
-        "MKT News",
-        "TCOM.O",
-        "Impact bullish"
-      ],
-      "text": "【Trip.com to spend 15 bln yuan on inbound-tourism push over five years; aims for 200 mln visitors】Trip.com Group co-founder and chairman Liang Jianzhang said on June 1 the company will invest 15 billion yuan in inbound-tourism branding and promotion over the next five years, targeting 200 million international arrivals. Spending will cover celebrity endorsements and offline marketing. Actor Jackie Chan was named Trip.com’s China tourism promotion ambassador; Chan said expanding visa-free access should encourage more visitors to experience China in person."
-    },
-    {
-      "id": "4909473",
-      "time": "2026-06-01 10:26:57",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：油價面臨雙向風險 需求疲軟與中東供應損失角力】高盛集團認為，由於需求疲軟與中東因伊朗戰爭造成的供應損失相互競爭，油價面臨雙向風險。包括Daan Struyven在內的分析師在5月31日的一份報告中表示，來自西歐的4月份石油銷售資料表明，該行對4月份“已經很低”的需求預測存在約每日200萬桶的下行風險。這為其對布倫特原油第四季度每桶90美元的價格預測增加了約每桶10美元的下行風險。高盛分析師表示：“我們認為，中東供應損失可能持續更長時間，構成重大的上行價格風險，但需求疲軟也帶來重大的下行價格風險。實際終端石油需求可能因價格上漲而下降得比預期更多。”"
     }
   ]
 }
