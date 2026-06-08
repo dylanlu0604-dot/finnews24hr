@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09 02:54:50",
-  "count": 19234,
+  "updated": "2026-06-09 02:58:40",
+  "count": 19230,
   "items": [
     {
       "id": "mkt:019ea895-dc4c-733a-9234-7cc59f90a69f",
@@ -177295,42 +177295,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.12%，報25213.93點，低水184.25點。"
-    },
-    {
-      "id": "mkt:019e848c-b2f1-7993-96f8-eaac39981ac1",
-      "time": "2026-06-02 02:57:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Flight-tracking data show nearly 12,000 flights transited Syrian airspace in May 2026, a 375% increase from May 2025."
-    },
-    {
-      "id": "4911251",
-      "time": "2026-06-02 02:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨議員哈桑・法德拉拉：真主黨拒絕了部分停火提議——該提議要求真主黨停止對以色列北部的襲擊，以換取以色列不轟炸貝魯特。"
-    },
-    {
-      "id": "mkt:019e848b-a884-7993-96f8-e44c898f8588",
-      "time": "2026-06-02 02:56:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH MP Hassan Fadlallah said the group rejected parts of a ceasefire proposal that would have required it to halt attacks on northern Israel in exchange for Israel refraining from bombing Beirut."
-    },
-    {
-      "id": "4911250",
-      "time": "2026-06-02 02:56:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "資料顯示，5 月近 1.2 萬架次航班飛越敘利亞領空，較 2025 年 5 月大增 375%。"
     }
   ]
 }
