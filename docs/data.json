@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-08 09:40:30",
-  "count": 19266,
+  "updated": "2026-06-08 09:44:24",
+  "count": 19265,
   "items": [
+    {
+      "id": "4922672",
+      "time": "2026-06-08 09:43:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "MiniMax跌超9%，智譜漲超3%。"
+    },
+    {
+      "id": "4922671",
+      "time": "2026-06-08 09:42:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "上證指數跌幅收窄至1%以內，此前盤初跌超2%，深證成指、創業板指跌幅均收窄至2%以內；油氣開採、商業航天、養殖業、零售、影視院線等板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:019ea4e5-7e14-7ee0-94c7-7bbed8b597cb",
+      "time": "2026-06-08 09:42:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "The Shanghai Composite fell less than 1% after an early-session drop of more than 2%; the Shenzhen Composite and ChiNext fell less than 2%. A-share sectors leading gains included oil and gas extraction, commercial space, animal husbandry, retail and cinema chains."
+    },
+    {
+      "id": "4922670",
+      "time": "2026-06-08 09:42:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪回升 西昌電力直線漲停】早盤電力板塊震盪回升，西昌電力直線漲停，京能電力、豫能控股、長源電力、華電遼能等跟漲。"
+    },
+    {
+      "id": "4922669",
+      "time": "2026-06-08 09:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統： 加快住宅供應。"
+    },
+    {
+      "id": "4922667",
+      "time": "2026-06-08 09:40:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中國鋁業股份港股下跌5.8%，A股滬市下跌3.9%。"
+    },
+    {
+      "id": "4922666",
+      "time": "2026-06-08 09:40:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無人機專業學生太搶手】目前，不少職業院校透過課程改革，提升學生的就業實力。杭州技師學院首批無人機應用專業的畢業生，還未畢業就已經全部被企業提前錄用。（央視財經）"
+    },
+    {
+      "id": "4922665",
+      "time": "2026-06-08 09:40:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.93%，成分股中，生益電子跌7.43%，佰維儲存跌5.92%，華潤微跌5.36%，思特威跌5.15%。"
+    },
+    {
+      "id": "4922664",
+      "time": "2026-06-08 09:39:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東旅行上線“寵物出行”專區】京東旅行正式上線“寵物出行”專區，成為國內首家寵物機酒門票一站式預訂平臺。使用者開啟京東App搜尋“寵物出行”，即可一站式預訂寵物進客艙機票、寵物友好酒店、寵物友好景區服務。"
+    },
     {
       "id": "mkt:019ea4e2-e86b-7ee0-94c7-70cfc14626fb",
       "time": "2026-06-08 09:39:53",
@@ -17,6 +97,17 @@
       "time": "2026-06-08 09:39:39",
       "tags": [
         "MKT News"
+      ],
+      "text": "China A-share coal sector firmed: Dayou Energy hit limit-up, Zhengzhou Coal & Power rose over 4%, with Antai Group, Yankuang Energy, Pingmei and Jinkong Coal also advancing."
+    },
+    {
+      "id": "mkt:019ea4e2-e2a7-7221-bb31-83fdb1956ad6",
+      "time": "2026-06-08 09:39:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
       ],
       "text": "China A-share coal sector firmed: Dayou Energy hit limit-up, Zhengzhou Coal & Power rose over 4%, with Antai Group, Yankuang Energy, Pingmei and Jinkong Coal also advancing."
     },
@@ -177666,118 +177757,6 @@
         "國際"
       ],
       "text": "【日本大阪欲推“副首都”構想 自民黨存異議】日本媒體日前報道，日本維新會正在推進將大阪設為“副首都”的構想，定於6月中旬組建一個專門小組。對此，同屬執政聯盟的自民黨內部出現了反對聲音。所謂“副首都”構想，是指在東京遭遇大規模災難時，由大阪臨時替代其首都功能，確保國家行政、司法等核心功能持續運轉。據這一構想，日本應形成多極分散型經濟圈，透過鼓勵人口遷入、扶持高校以及為年輕人創造就業機會等舉措分散人口，避免東京“單極化”加劇。（新華社）"
-    },
-    {
-      "id": "4909372",
-      "time": "2026-06-01 09:43:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊拉昇，聖陽股份漲停】電池板塊拉昇，聖陽股份、維科技術漲停，振華新材漲超15%，力佳科技漲超10%，天宏鋰電、容百科技、萬里股份、翔豐華、譽辰智慧跟漲。相關ETF方面，電池ETF廣發（159755）漲1.15%，成交額9838.62萬元，儲能電池ETF易方達（159566）漲1.97%，成交額1.33億元。"
-    },
-    {
-      "id": "4909371",
-      "time": "2026-06-01 09:42:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上升2.5個基點，至3.595%。"
-    },
-    {
-      "id": "mkt:019e80d9-2233-7113-a826-b938120d4e44",
-      "time": "2026-06-01 09:42:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan 20-year bond yield rose 2.5 bps to 3.595%."
-    },
-    {
-      "id": "mkt:019e80d9-145a-766e-87af-855afeb11610",
-      "time": "2026-06-01 09:42:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "An economist at Apollo Asset Management said there is currently no evidence that AI is displacing jobs."
-    },
-    {
-      "id": "4909370",
-      "time": "2026-06-01 09:42:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股PCB概念股震盪走低，宏和科技跌停，國際復材跌、銅冠銅箔跌超9%，天通股份、中富電路、廣合科技跌超8%。"
-    },
-    {
-      "id": "4909369",
-      "time": "2026-06-01 09:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美知名學者：以色列把美國捏在掌心】美國知名學者、哥倫比亞大學教授傑弗裡·薩克斯日前在一檔節目中批評美國為以色列的軍事行動提供庇護，任由以色列干涉其政策，可以說以色列把美國捏在掌心。他認為，如果美國說“不”，那以色列將無法繼續其戰爭。（央視新聞）"
-    },
-    {
-      "id": "te:economy:555151",
-      "time": "2026-06-01 09:42:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "MI Inflation Gauge MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Inflation Gauge Eases for First Time in 3 Months — Australia’s Melbourne Institute Monthly Inflation Gauge fell 0.3% month-on-month in May 2026, reversing a 0.6% increase in the previous month and marking the first decline since February. The decline reflected easing price pressures across a range of goods and services, after recent data showed the annual inflation rate slowed to 4.2% in April from 4.6% previously, as automotive fuel prices rose at a softer pace following the reduction of the fuel excise. However, inflation remained well above the central bank’s 2–3% target range, suggesting underlying price pressures are still elevated despite the recent moderation."
-    },
-    {
-      "id": "4909368",
-      "time": "2026-06-01 09:41:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【終止籌劃控制權變更事項 百誠醫藥復牌低開16.41%】6月1日，百誠醫藥復牌低開16.41%，報54.00元/股。5月31日晚，百誠醫藥公告稱，公司控股股東、實際控制人終止籌劃控制權變更事項，公司股票將於6月1日起復牌。"
-    },
-    {
-      "id": "mkt:019e80d8-2ec6-766e-87af-7c2d2fe2ac53",
-      "time": "2026-06-01 09:41:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share PCB-related stocks slid; Honghe Technology hit the daily limit down, International Composite Materials and Tongguan Copper Foil fell over 9%, and Tiantong, Zhongfu Circuit and Guanghe Technology dropped more than 8%."
-    },
-    {
-      "id": "4909367",
-      "time": "2026-06-01 09:41:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為釋出新款WATCH GT Runner 2】6月1日，華為WATCH GT Runner 2正式釋出，搭載立體懸浮天線與AI-XDR 定位演算法，推出單次跑力指數指標，官方稱可精準量化訓練效果，目前已正式開售，售價2588元。"
-    },
-    {
-      "id": "4909366",
-      "time": "2026-06-01 09:41:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊短線下挫，京能電力跌停】電力板塊短線下挫，京能電力、恆盛能源、華電遼能跌停，華銀電力、廣西能源、上海電力跟跌。"
     }
   ]
 }
