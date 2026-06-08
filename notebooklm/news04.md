@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-09 03:02:55_
-_本檔包含 3871 則快訊，約 695976 字_
+_更新時間：2026-06-09 03:48:09_
+_本檔包含 3870 則快訊，約 695959 字_
+
+---
+
+### 2026-06-04 08:14:29  #市場 #國際
+
+10年期日本國債收益率下跌0.5個基點，至2.635%。
+
+---
+
+### 2026-06-04 08:12:47  #國際
+
+韓國：密切關注政府債券市場。
+
+---
+
+### 2026-06-04 08:12:40  #MKT News
+
+【Huatai Securities: El Niño risk lifts sugar, rubber and palm oil supply risks】Huatai Securities says multiple meteorological agencies now forecast an El Niño in 2026 that could produce east-wet/west-dry extremes and disrupt bulk agricultural supplies. Drought in India and Thailand, export restrictions and Brazil’s sugar-to-ethanol diversion are expected to shift global sugar supply-demand from surplus toward a modest deficit, increasing upside risk to sugar prices. Severe drought would also hit palm oil and natural rubber—both highly concentrated in Southeast Asia—with historical strong-El Niño episodes showing pronounced upward price elasticity. Soybeans and corn are expected to see only marginal impacts. Huatai recommends monitoring sugar, natural rubber and palm oil supply chains.
+
+---
+
+### 2026-06-04 08:12:35  #市場 #觀點 #國際
+
+【華泰證券：厄爾尼諾來襲 關注白糖、天然橡膠及棕櫚油產業鏈】華泰證券研報稱，多國權威氣象機構預測2026年厄爾尼諾即將爆發，其引發的全球“東澇西旱”極端氣候或將擾動大宗農產品的供給格局。受印度與泰國主產區旱情、出口禁令以及巴西能源替代邏輯等多重因素影響，全球白糖供需預計將由過剩轉為小幅短缺，糖價上行預期走強。極端乾旱或將直接衝擊高度依賴東南亞產區的棕櫚油與天然橡膠供應鏈，歷史覆盤表明，二者在強厄爾尼諾週期內均具備較強的向上價格彈性。大豆玉米邊際受影響較小。建議關注白糖、天然橡膠及棕櫚油產業鏈。
+
+---
+
+### 2026-06-04 08:12:24  #國際
+
+【美加墨世界盃臨近，中國駐美使領館提醒觀賽中國公民透過合規渠道購票】中國駐美國大使館：再次提醒來美中國公民務必提高安全防範意識，密切關注各類安全風險，切實做好自我防護。祝願大家觀賽順心、旅途平安，高高興興觀賽，平平安安回家。
+
+---
+
+### 2026-06-04 08:12:11  #公司
+
+【大金重工：H股公開發行價格為每股66.40港元】大金重工(002487)6月4日早間公告，公司已確定本次H股發行的最終價格為每股66.40港元。公司本次發行的H股預計於6月5日在香港聯交所主機板掛牌並開始上市交易。
+
+---
+
+### 2026-06-04 08:11:41  #公司 #國際
+
+【Quantinuum IPO定價為每股60美元 高於推介區間】據一份宣告稱，霍尼韋爾支援的美國量子計算公司Quantinuum首次公開募股(IPO)發行2800萬股股票，定價為每股60美元，高於該公司此前公佈的每股53至55美元的發行價區間。據計算，此次IPO籌集了16.8億美元。公司將於6月4日在納斯達克全球市場開始交易，股票程式碼為“QNT”。
+
+---
+
+### 2026-06-04 08:11:20  #觀點
+
+【國金證券：看好固體氧化物燃料電池（SOFC）產業鏈發展前景】國金證券研報認為，基於固體氧化物燃料電池（SOFC）行業已進入“從1到10”的規模化放量週期，AI資料中心場景為產業鏈提供了明確的成長路徑與業績兌現能力，看好固體氧化物燃料電池（SOFC）產業鏈的發展前景，投資主線聚焦兩大方向：（1）Bloom Energy核心供應鏈。（2）具備自主系統能力的國內領先企業：隨著SOFC景氣度向國內擴散，已進入示範驗證或小批次量產階段、明確向AI資料中心場景拓展的系統級廠商。
+
+---
+
+### 2026-06-04 08:11:14  #MKT News
+
+Australia's S&P/ASX 200 opened down 73.80 points (-0.84%) at 8,711.90 on Thursday, June 4.
+
+---
+
+### 2026-06-04 08:11:08  #國際
+
+韓國：若外匯市場出現單邊走勢，將採取行動。
+
+---
+
+### 2026-06-04 08:10:54  #其他
+
+【強化覆蓋力度 發力未來汽車 汽車行業標準化建設提速進階】作為產業規範發展、技術創新落地、市場秩序規整的核心基石，汽車標準化體系建設迎來系統性升級視窗期：《換電場景下動力蓄電池缺陷監測與分析規範》（GB/T47283—2026）推薦性國家標準6月1日起實施；《2026年汽車標準化工作要點》釋出，四方面15項內容部署進一步健全汽車標準體系，提升標準供給質量，深化標準國際合作……多位專家表示，一系列標準、規劃的密集落地與前瞻佈局，致力於破解行業內卷、技術參差、安全短板等痛點，持續夯實產業新質生產力，為中國汽車品牌技術自立、產品升級築牢規則底座。中國汽車產業標準持續創新、國際交流不斷加深，也讓更多國家能夠參與全球汽車產業發展程序，共享技術進步帶來的機遇。（經濟參考報）
+
+---
+
+### 2026-06-04 08:10:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 slid as much as 1.2% intraday.
+
+---
+
+### 2026-06-04 08:09:25  #MKT News #Important #XAUUSD #Impact bullish #WTI
+
+【US media: Trump willing to tolerate sporadic clashes if Iran avoids causing US troop deaths】The Wall Street Journal reports US officials say President Trump privately told aides he would consider ending the ceasefire with Iran if Tehran causes US troop deaths. Officials say the weeks-long pause in airstrikes remains in place. Trump’s stated reluctance to spark a wider Middle East war indicates he may tolerate isolated clashes lasting weeks or months to avoid broader escalation.
+
+---
+
+### 2026-06-04 08:09:07  #公司
+
+【翰森製藥：奧萊泊肽注射液上市許可申請獲國家藥監局受理】翰森製藥6月4日在港交所公告，於6月3日，公司創新藥奧萊泊肽注射液上市許可申請(NDA)獲中國國家藥品監督管理局(NMPA)受理，適用於肥胖或超重成人的長期體重管理。奧萊泊肽是一款公司自主研發的每週一次給藥胰高血糖素樣肽-1(GLP-1)╱葡萄糖依賴性促胰島素多肽(GIP)雙受體激動劑。
+
+---
+
+### 2026-06-04 08:09:00  #市場
+
+韓元兌美元下跌0.7%，市場在假期後重新開市。
+
+---
+
+### 2026-06-04 08:08:30  #Trading Economics #Economy #Ireland #Services PMI #Importance 1
+
+Irish Services PMI Hits 3-Month High — The AIB Ireland Services PMI rose to 50.8 in May 2026 from 49.7 in April, signaling a marginal rise in activity, though it remained below its long-run trend of 55. It was the highest reading since February, supported by a renewed increase in new business. The rate of new business growth was the fastest in three months but still subdued by the survey's historical standards.
+
+---
+
+### 2026-06-04 08:08:10  #其他
+
+【當前我國夏糧收穫進度超四成】從農業農村部獲悉，截至6月3日17時，全國已收穫夏糧小麥1.43億畝，收穫進度42.23%。當日收穫2420萬畝、投入聯合收割機29.41萬臺。當前安徽麥收進度過八成，河南過六成，江蘇近三成，陝西、山東過一成。
+
+---
+
+### 2026-06-04 08:07:50  #市場 #國際
+
+日本日經平均股指下跌1.1%，報67641.25點。
+
+---
+
+### 2026-06-04 08:07:20  #公司 #國際
+
+【謝鋒大使同知名跨國公司高管集體交流】2026年6月2日，中國駐美國大使謝鋒同知名跨國公司高管集體交流。黑石、谷歌、微軟、IBM、得州儀器、霍尼韋爾、拜耳、強生、康菲石油、雪佛龍、迪士尼、寶潔等跨國公司高管參加。謝鋒宣介中美元首北京會晤成果，指出習近平主席和特朗普總統同意將“中美建設性戰略穩定關係”作為兩國關係新定位，為未來3年乃至更長時間的中美關係作出戰略指引。希工商界積極行動，落實元首的重要共識，不斷拉長合作清單，取得更多造福兩國、惠及世界的務實成果。與會工商界人士熱烈歡迎“中美建設性戰略穩定關係”新定位，表示這為企業經營提供了穩定預期，看好中國經濟發展，期待擴大對華投資合作。（中國駐美國大使館）
+
+---
+
+### 2026-06-04 08:06:56  #MKT News #Market Regions #Greater China #Star Stocks #Microsoft #Alphabet #Market Themes #Magnificent 7 #CNH #Impact bullish #Hang Seng Index
+
+【China's ambassador to US meets senior executives from major multinationals】On June 2, 2026 China's ambassador to the United States Xie Feng met with senior executives from major multinationals including Blackstone, Google, Microsoft, IBM, Texas Instruments, Honeywell, Bayer, Johnson & Johnson, ConocoPhillips, Chevron, Disney and Procter & Gamble. Participants welcomed the new “constructive strategic stability” positioning in China–US ties, said it affords more stable operating expectations, expressed confidence in China’s economic outlook and signalled intentions to expand investment and cooperation in China.
+
+---
+
+### 2026-06-04 08:06:30  #公司
+
+【京東方A：玻璃基封裝載板試驗線良率尚未達到量產水平】京東方A(000725)6月3日在機構調研時表示，公司於2024年投資9.93億元建設玻璃基封裝載板試驗線。目前已給部分國內客戶送樣，部分客戶已透過概念認證，並進入技術測試階段。截至目前，公司還未實現批次生產，該業務尚未實現量產營收，公司試驗線良率尚未達到量產水平，何時達到具有重大不確定性。
+
+---
+
+### 2026-06-04 08:06:11  #國際
+
+美國國務卿盧比奧將於美東時間週四上午9:30會見科威特外交部長。
+
+---
+
+### 2026-06-04 08:05:39  #市場
+
+韓元兌美元觸及3月31日以來低位。
+
+---
+
+### 2026-06-04 08:05:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Decline as Tech Earnings Disappoint — US stock futures moved lower on Thursday as disappointing earnings from major technology companies pressured market sentiment. In after-hours trading, Broadcom sank nearly 14% after reporting fiscal second-quarter revenue below expectations, while cybersecurity firm CrowdStrike dropped more than 11% following soft second-quarter sales guidance. The weakness spread across the tech sector, with Intel (-2%), AMD (-2.9%), Palantir (-1.5%), Qualcomm (-1.9%), and Arm Holdings (-4.3%) also posting notable losses. Investors were also assessing heightened geopolitical risks after fresh exchanges of strikes between the US and Iran, undermining hopes for a peace deal and stoking concerns about inflation and higher interest rates. In Wednesday’s regular session, the Dow fell 1.21%, the S&P 500 lost 0.74%, and the Nasdaq Composite declined 0.89%. Six of the 11 S&P sectors closed lower, led by technology, financials, and consumer discretionary stocks.
 
 ---
 
@@ -23162,184 +23306,5 @@ Australia Services Sector Contracts in May — The S&P Global Australia Services
 ### 2026-06-03 07:06:55  #國際
 
 【科威特稱攔截來襲導彈 伊朗格什姆島傳爆炸聲】科威特軍方3日凌晨在社交媒體平臺發表宣告說，科威特防空部隊正在攔截來襲的“敵對”導彈和無人機，如果民眾聽到爆炸聲，那是防空系統攔截襲擊的結果。有媒體報道，駐科威特美軍基地遇襲。當地時間3日凌晨1時左右，科威特全國範圍內拉響防空警報，隨後傳出多次強烈爆炸聲。據身在科威特城的記者判斷，爆炸聲來自科威特城西北方向的傑赫拉省。該省的阿里·薩利姆空軍基地是美軍在科威特最重要的空軍基地之一。截至記者發稿時，依然能聽見爆炸聲。而據伊朗媒體報道，巴林上空也傳出警報聲。據伊朗媒體3日稍早時間報道，霍爾木茲海峽格什姆島傳出爆炸聲。尚不清楚上述事件之間是否有關聯。但伊朗伊斯蘭共和國廣播電視臺報道，對美軍基地的攻擊是在格什姆島傳出一聲爆炸聲後立即發生的。（新華社）
-
----
-
-### 2026-06-03 07:06:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Kuwait says intercepting incoming missiles; explosions reported on Iran's Qeshm Island】Kuwaiti military said early on the 3rd its air defenses were intercepting incoming hostile missiles and drones and that any explosion sounds were the result of interceptions. Some media reported a US base in Kuwait was struck. Iranian media said alarms sounded over Bahrain and earlier reported explosions on Qeshm Island in the Strait of Hormuz. Iran's state broadcaster said the attack on the US base occurred immediately after the Qeshm explosion; it is unclear whether the incidents are linked.
-
----
-
-### 2026-06-03 07:04:49  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Revised Upward — Australia’s composite PMI was revised higher to 48.7 in May 2026 from 47.8 in the preliminary estimate and down from a final 50.7 in the previous month. It marked the second contraction in three months as services and manufacturing activity weakened amid the prolonged Middle East conflict. Services activity contracted for the second time in three months, while manufacturing output declined for a fourth consecutive month.
-
----
-
-### 2026-06-03 07:02:48  #MKT News #WTI #Impact bullish
-
-WTI crude oil up more than 1.0% intraday at $96.23/bbl.
-
----
-
-### 2026-06-03 07:02:02  #MKT News
-
-Bahrain's Interior Ministry said alarms have sounded and urged the public to move to the nearest safe location.
-
----
-
-### 2026-06-03 07:00:52  #國際
-
-據Faytuks Network：伊朗革命衛隊宣告稱，針對美國對格什姆島實施的襲擊，伊朗革命衛隊航空航天部隊已動用導彈對科威特境內美軍基地開展 “精準密集打擊”。
-
----
-
-### 2026-06-03 07:00:11  #MKT News #AUDUSD
-
-Australia May AIG Construction Performance Index -9.9, prior -19.3.
-
----
-
-### 2026-06-03 07:00:08  #MKT News #DXY #Impact bullish #XAUUSD #Impact mixed #Copper #Impact bearish
-
-Australia May S&P Global Composite PMI final 48.7, prior 47.8.
-
----
-
-### 2026-06-03 07:00:07  #MKT News #DXY #Impact bullish
-
-Australia May S&P Global Services PMI (final) 48.7; prior 47.7.
-
----
-
-### 2026-06-03 07:00:07  #MKT News #DXY #Impact bullish #Copper #Impact bearish #WTI
-
-Australia May AIG/PwC Manufacturing Performance Index -22.4, previous -27.9.
-
----
-
-### 2026-06-03 07:00:00  #MKT News #Economic Calendar #Important
-
-Australia | Ai Group Australian PCI (construction) (May) | actual -9.9 | previous -19.3
-
----
-
-### 2026-06-03 07:00:00  #MKT News #Economic Calendar #Important
-
-Australia | Ai Group Australian PMI (manufacturing) (May) | actual -22.4 | previous -27.9
-
----
-
-### 2026-06-03 06:59:39  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【COMEX–LME copper spread widens; copper retains short- to medium-term upside】June 2 — COMEX copper surged to $6.649/lb intraday (about $14,658/t) as the COMEX–LME spread briefly widened to nearly $700; inventories at the two exchanges are also diverging. In 2025 the spread neared $3,000, triggering large cross-exchange arbitrage and a subsequent rise in COMEX stocks. Market participants say the current spread expansion is reshaping trade flows and producing regional supply mismatches, with shortages outside the U.S. persisting. On these supply–demand fundamentals, copper likely retains upward momentum over the short- to medium-term.
-
----
-
-### 2026-06-03 06:59:07  #國際
-
-據Faytuks Network報道，一名官員透露，美國對伊朗格什姆島發動了襲擊。
-
----
-
-### 2026-06-03 06:58:40  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Up in Morning Trade — The NZX 50 climbed 31 points, or 0.2%, to 13,201 in Tuesday morning trade, halting losses from the previous session and tracking gains on Wall Street overnight, supported by persistent optimism over AI. Consumer staples, communication services, and energy stocks were the main drivers of the index. However, losses in the utilities sector capped the gains. Traders also monitored developments in the US-Iran peace talks aimed at ending the war. On the data front, New Zealand's building consents for new dwellings rebounded in April, surging 10.9%, while the merchandise terms of trade fell 2.0% quarter-on-quarter in the first quarter of 2026, worse than market expectations of a 1.2% decline. Among the early gainers were A2 Milk (1.9%), Sky Network Television (1.3%), Scales Corporation (1.2%), Chorus (0.8%), and F&C Investment (0.8%).
-
----
-
-### 2026-06-03 06:55:43  #MKT News
-
-IRIB reports alarms sounded in Bahrain.
-
----
-
-### 2026-06-03 06:55:11  #國際
-
-據伊朗伊斯蘭共和國廣播電視臺（IRIB）：巴林響起警報聲。
-
----
-
-### 2026-06-03 06:54:35  #Trading Economics #Economy #New Zealand #Terms of Trade #Importance 1
-
-New Zealand Terms of Trade Drops More Than Expected — New Zealand’s merchandise terms of trade fell 2.0% quarter-on-quarter in the three months to March 2026, reversing a 3.7% rise in the prior quarter and coming in worse than expectations of a 1.2% decline. The deterioration reflected weaker relative export prices, with export prices falling 2.7% compared with a 0.7% drop in import prices.
-
----
-
-### 2026-06-03 06:54:15  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中央財政下達今年育兒補貼補助資金 預計全年各級財政共安排補貼資金約一千一百億元
-2、南水北調東線北延工程2025—2026年度調水任務完成
-3、義烏（蘇溪）國際樞紐港集裝箱到髮量超20萬標箱
-4、上海8000多家首店激發消費活力 從品牌集聚地到潮流策源地（中國消費向新而行·首發經濟新變化）
-5、構建首發經濟立體發展格局（專家點評）
-6、營商環境更優 企業信心更足（感言·發展壯大民營經濟）
-7、對所有非洲建交國全面實施零關稅滿月 “我們可選擇的貨源更多了”
-8、首個快遞領域國際標準化機構成立 秘書處設立在中國
-9、湖北洪湖蓮藕產業產值超120億元 泥巴里“長”出大產業（高質量發展在一線·小城寶藏）
-10、切實加強演算法治理 以高質量司法助力數字經濟健康發展（專題深思）
-11、市場監管總局會同教育部出臺規定 織密織牢幼兒飲食安全防護網
-12、加強社媒使用監管，守護孩子數字健康（國際視點）——來自希臘、巴西、德國的實踐探索
-13、寮國鼓勵發展電動車行業。
-
----
-
-### 2026-06-03 06:54:07  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、融合聚勢 產業共生 重慶以融合化推動產業升級
-2、《習近平的文化情緣》等紀錄片在寮國啟播
-3、人民法院依法盤活被查封凍結財產，為困境企業紓困解難 規範文明執行 託舉發展信心（“十五五”開好局起好步）
-4、王滬寧與歐美同學會（中國留學人員聯誼會）第九屆理事會會長會成員座談
-5、韓正會見英國外交大臣庫珀
-6、國務院印發《加快農業農村現代化“十五五”規劃》
-7、全國已收穫夏糧小麥1.19億畝 收穫進度超35%。
-
----
-
-### 2026-06-03 06:53:53  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Israeli media report sounds of explosions heard in Bahrain.
-
----
-
-### 2026-06-03 06:53:07  #MKT News
-
-State broadcaster IRIB reports multiple explosions in Erbil, Iraq.
-
----
-
-### 2026-06-03 06:52:12  #焦點 #國際
-
-據伊朗伊斯蘭共和國廣播電視臺（IRIB）： 伊拉克埃爾比勒發生多起爆炸。
-
----
-
-### 2026-06-03 06:51:53  #公司 #市場 #央行 #國際
-
-【6月3日隔夜要聞一覽】
-1、美股週二收高，三大股指均再創歷史新高，標普首次收在7600點之上。道指漲228.91點，漲幅為0.45%，報51307.79點；納指漲7.09點，漲幅為0.03%，報27093.90點；標普500指數漲9.94點，漲幅為0.13%，報7609.90點。
-2、邁威爾科技收高32.52%，成交282.49億美元。公司獲英偉達CEO黃仁勳看好，最新一季度營收創新高，營收指引獲大幅上調。
-3、特朗普表示，美國與伊朗之間的對話一直在持續進行。
-4、特朗普週二簽署了一項行政命令，要求人工智慧公司在釋出模型前30天，須向政府提供相關模型。
-5、歐洲央行2日釋出報告，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，美國國債的同期佔比降至22%，黃金成為全球官方儲備第一大資產。
-6、微軟週二宣佈一系列全面的人工智慧計劃，涵蓋自主辦公助理、智慧裝置、搭載英偉達晶片的PC以及全新的內部推理模型。
-7、SpaceX要求壓低IPO承銷費率，華爾街投行仍有望分食5億美元收入。
-8、馬斯克關聯空殼公司550億美元在休斯頓郊外購地。
-9、NBA球星斯蒂芬·庫裡與李寧的協議價值超過4億美元。
-
----
-
-### 2026-06-03 06:50:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Islamic Republic of Iran Broadcasting (IRIB) reported a new explosion and attack at a US military base in Kuwait.
-
----
-
-### 2026-06-03 06:50:37  #Trading Economics #Economy #New Zealand #Building Permits MoM #Importance 1
-
-New Zealand New Dwellings Building Consents Rebound — Building consents for new dwellings in New Zealand surged 10.9% month-on-month in April 2026, rebounding sharply from a downwardly revised 0.8% decline in March. A total of 3,692 new dwellings were consented, including 1,604 stand-alone houses, 1,530 townhouses, flats, and units, 499 apartments, and 59 retirement village units.
 
 ---

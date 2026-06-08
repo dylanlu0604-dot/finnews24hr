@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-09 03:02:55_
-_本檔包含 3746 則快訊，約 696045 字_
+_更新時間：2026-06-09 03:48:09_
+_本檔包含 3744 則快訊，約 696061 字_
+
+---
+
+### 2026-06-05 11:28:02  #MKT News #ORCL.N #Impact bullish
+
+RBC raises Oracle (ORCL.N) PT to $190 from $160.
+
+---
+
+### 2026-06-05 11:28:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【China Galaxy Securities sees room for insurance-sector valuation recovery in 2026】China Galaxy Securities says 2026 brings a two-sided opportunity for Chinese insurers. Asset side: broader allocation options and a healthier equity market should ease investment-return pressure. Liability side: participating/dividend life products are becoming the main source of new premiums; assumed/guaranteed life rates are stabilizing, reducing reliance on suspend-and-reprice tactics, and deposit migration in a low-rate era should continue to unlock liability-side potential. The broker sees scope for sector valuation repair.
+
+---
+
+### 2026-06-05 11:25:43  #國際
+
+【電影《給阿嬤的情書》6月18日港澳上映】電影《給阿嬤的情書》官博今日宣佈，《給阿嬤的情書》將於全球上映。6月18日，該影片將於中國香港、中國澳門、新加坡、馬來西亞、汶萊上映。美國、加拿大、澳大利亞、紐西蘭、英國、法國、愛爾蘭、日本、韓國、泰國、越南等更多國家及地區敬請期待。
+
+---
+
+### 2026-06-05 11:25:29  #MKT News #Market Regions #Greater China #06127.HK #Impact bullish
+
+【Joinn Laboratories signs strategic cooperation framework with Kunming Institute of Zoology, Chinese Academy of Sciences】Joinn Laboratories (06127.HK) signed a strategic cooperation framework with the Kunming Institute of Zoology, Chinese Academy of Sciences to collaborate on high-value use of experimental animal resources, development of animal models for major diseases, digital biopharma, and innovative drug R&D and commercialization; the agreement frames comprehensive, deep and long-term cooperation.
+
+---
+
+### 2026-06-05 11:24:43  #其他
+
+【昭衍新藥與中國科學院昆明動物研究所簽署戰略合作框架協議】近日，昭衍新藥與中國科學院昆明動物研究所舉行戰略合作座談會暨簽約儀式，雙方正式簽署戰略合作框架協議，圍繞實驗動物資源高值利用、重大疾病動物模型開發、數字生物醫藥、創新藥研發與成果轉化等領域開啟全面、深度、長期合作。
+
+---
+
+### 2026-06-05 11:24:08  #市場
+
+創業板指日內跌幅再次擴大至1%，此前一度翻紅。
+
+---
+
+### 2026-06-05 11:22:53  #其他
+
+【姚順雨回應“騰訊AI慢了”】針對“騰訊AI方面慢了”的質疑，今日騰訊首席AI科學家姚順雨表示，要判斷AI是長期遊戲還是短期遊戲。他表示，矽谷蔓延著很多情緒，一種是兩年後大家都要失業，工作被AI取代，這是一種判斷，“但我們判斷AI是一個長期遊戲，某種程度上，AI下半場才剛剛開始。ChatGPT和Claude不會是唯二的超級應用，會有新機會產生。”此外，他認為AI未來會變得更多元。（第一財經）
+
+---
+
+### 2026-06-05 11:22:16  #市場 #焦點
+
+焦煤連續主力合約日內漲2%，現報1450.50元。
+
+---
+
+### 2026-06-05 11:22:12  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish
+
+【CETC No.55 delivers over 5 mln units of world’s first mass-produced silicon-based GaN RF chip for smart terminals】China Electronics Technology Group (CETC) No.55 Research Institute said its domestically developed, world’s first mass-produced silicon-based gallium nitride (Si‑GaN) RF chip for smart terminals has recently delivered over 5 mln units. The Si‑GaN series combines high power, high efficiency, ultra-wideband and high reliability and is designed to meet the high-efficiency, high-linearity requirements of RF power amplifier chips for space‑air‑ground integrated communications. CETC said the product overcomes industrialisation constraints for high-end RF chips and will support full-coverage, high-speed integrated information networks.
+
+---
+
+### 2026-06-05 11:22:03  #其他
+
+【我國自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆】從中國電科獲悉，中國電科55所自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆。這是全球率先實現矽基氮化鎵射頻晶片在智慧終端規模化商用，將為空天地一體化資訊網路的全域覆蓋、高速互聯提供硬核支撐。據悉，該系列矽基氮化鎵射頻晶片兼具高功率、高效率、超寬頻、高可靠等突出效能，可精準匹配空天地一體化通訊對射頻功放晶片高效率、高線性度的嚴苛技術要求，有效破解高階射頻晶片產業化難題，助力構建全域、全時、無縫的空天地通訊網路，推動全球無縫通訊、萬物互聯的產業願景加速落地。（科技日報）
+
+---
+
+### 2026-06-05 11:21:18  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK #Impact bullish #Hang Seng Index
+
+【Tencent launches Efficiency Agent Toolkit covering 20+ vertical scenarios】At its Cloud AI industry conference, Tencent unveiled the Efficiency Agent Toolkit, offering differentiated AI agents for individual productivity, office workflows and enterprise use across more than 20 vertical scenarios. For consumers, local AI assistant QClaw introduced a WeChat direct-connect mode and integrations with Tencent Docs, Tencent Meeting, ima and QQ Mail. For workplace users, Tencent released the Buddy product family. For enterprises, Tencent launched WorkBuddy enterprise edition and an Agent Suite, and upgraded its enterprise agent governance platform ClawPro and agent development platform ADP 4.0.
+
+---
+
+### 2026-06-05 11:21:13  #其他
+
+【騰訊首發效率智慧體工具集，覆蓋20多個垂直場景Agent】騰訊在2026騰訊雲AI產業應用大會上首次系統釋出“效率智慧體工具集”，面向個人提效、辦公提效、企業提效三類需求，針對20多個垂直場景提供差異化的智慧體解決方案。針對個人使用者，本地AI助手QClaw首創“微信直連”模式，並打通騰訊文件、騰訊會議、ima、QQ郵箱等工具。面向職場人群，騰訊推出了“Buddy”家族系列產品。針對企業使用者，騰訊還正式釋出WorkBuddy企業版及辦公智慧體套件Agent Suite，升級企業智慧體管控平臺ClawPro和智慧體開發平臺ADP 4.0。
+
+---
+
+### 2026-06-05 11:20:11  #其他
+
+日立宣佈加入Anthropic的Glasswing人工智慧安全計劃。
+
+---
+
+### 2026-06-05 11:18:56  #公司 #市場
+
+【玻璃基板概念漲勢擴大 京東方A等近10股漲停】玻璃基板概念日內漲勢擴大，京東方A走出2連板，此前彩虹股份、沃格光電、金瑞礦業、旗濱集團、凱盛科技等多股漲停，戈碧迦漲超20%，帝爾鐳射、德龍鐳射漲超10%。
+
+---
+
+### 2026-06-05 11:15:58  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+Beijing Stock Exchange 50 Index rallied intraday, gaining over 7%.
+
+---
+
+### 2026-06-05 11:15:01  #MKT News #Market Themes #AI Revolution #CNH #Impact bullish #WTI #Copper
+
+【CITIC Securities: AI-related goods to drive China's 2026 trade growth】CITIC Securities says AI-related goods could become a new engine for China’s foreign trade in 2026. Citing the WTO March Global Trade Outlook, which raised its 2026 global trade volume YoY forecast to 1.9% from 0.5% on faster AI-related capex, the report expects China’s exports and imports to grow about 13.2% and 15.5% YoY in 2026. Higher underlying energy prices and related incremental demand for green products are seen as additional support; the report anticipates China’s trade surplus will remain sizable for the year.
+
+---
+
+### 2026-06-05 11:15:00  #其他
+
+本田：1-5月在中國的終端汽車累計銷量為173,344輛，同比下降32.5%。
+
+---
+
+### 2026-06-05 11:14:40  #市場 #焦點
+
+北證50日內漲幅達7.01%，成分股中，戈碧迦漲25.46%，同惠電子漲19.34%，天力複合漲18.23%，星圖測控漲16.05%。
+
+---
+
+### 2026-06-05 11:14:19  #其他
+
+日立即將獲准接入 Claude Mythos。
+
+---
+
+### 2026-06-05 11:12:39  #MKT News
+
+Thailand's Ministry of Commerce said June inf may reach 3%.
+
+---
+
+### 2026-06-05 11:12:03  #MKT News
+
+【Argentina, U.S. sign deals to deepen military drone cooperation and mutual fuel supply】Argentina's defense minister Carlos Alberto Prestí and the U.S. ambassador on June 4 signed accords to expand cooperation on military unmanned systems and mutual supply of military fuel. The fuel pact allows Argentine forces to access the U.S. military's logistics network for fuel during overseas exercises, training and deployments. A separate agreement will see Argentina join a U.S. military‑managed international digital trading platform for unmanned and counter‑unmanned systems to support development of Argentine military UAS and counter‑UAS capabilities.
+
+---
+
+### 2026-06-05 11:11:41  #國際
+
+【阿根廷與美國簽署協議加強軍用無人機等合作】阿根廷國防部長卡洛斯·阿爾韋託·普雷斯蒂4日與美國政府簽署協議，加強兩國在軍用無人機技術和軍用燃料供給方面的合作。阿根廷國防部在一份宣告中說，國防部長普雷斯蒂與美國駐阿根廷大使彼得·拉梅拉斯4日簽署了互供軍用燃料的專項協議。根據該協議，阿根廷軍隊在世界其他地區進行演習、訓練和部署時，將能夠透過美軍的後勤網路獲得燃料補給。阿美雙方還簽署了一份軍用無人機合作協議，阿根廷軍隊將加入由美國軍方管理的國際無人機及反無人機系統數字交易平臺，促進阿根廷軍用無人機系統和無人機防禦技術發展。（新華社）
 
 ---
 
@@ -22415,149 +22547,5 @@ South Korean finance minister said he is concerned about rising leveraged invest
 ### 2026-06-04 08:15:07  #公司 #觀點 #國際
 
 【隨著量子計算熱潮升溫 霍尼韋爾旗下Quantinuum在美國首次公開募股中籌集16.8億美元】霍尼韋爾旗下公司Quantinuum週三表示，其在美國首次公開募股（IPO）中以每股60美元的價格定價，共籌集16.8億美元，投資者紛紛湧向市場中增長迅速的新興技術領域之一。總部位於科羅拉多州布魯姆菲爾德的Quantinuum在此次發行中售出了2800萬股。此次上市是對投資者對量子計算公司興趣的最新考驗，因為該技術的突破促使人們押注量子機器最終可能在某些複雜任務上超越傳統計算機。本週早些時候，該公司將發行價區間上調至每股53至55美元，並將發行股數增至2650萬股，這通常是投資者需求強勁的訊號。Quantinuum將於週四在納斯達克開始交易，股票程式碼為“QNT”。摩根大通和摩根士丹利是此次發行的主承銷商。該公司成立於2021年，由霍尼韋爾的量子計算業務與劍橋量子公司合併而成。儘管仍處於商業發展的早期階段，但隨著業界興趣的增加，Quantinuum近幾個月報告稱訂單量正在加速增長。Quantinuum在IPO申請檔案中披露，市值約1500億美元的霍尼韋爾在本次發行完成後，將保留該公司約48.1%的合併表決權。鑑於該領域上市公司數量有限，分析師預計 Quantinuum 的 IPO 將對量子計算行業產生巨大影響。
-
----
-
-### 2026-06-04 08:14:29  #市場 #國際
-
-10年期日本國債收益率下跌0.5個基點，至2.635%。
-
----
-
-### 2026-06-04 08:12:47  #國際
-
-韓國：密切關注政府債券市場。
-
----
-
-### 2026-06-04 08:12:40  #MKT News
-
-【Huatai Securities: El Niño risk lifts sugar, rubber and palm oil supply risks】Huatai Securities says multiple meteorological agencies now forecast an El Niño in 2026 that could produce east-wet/west-dry extremes and disrupt bulk agricultural supplies. Drought in India and Thailand, export restrictions and Brazil’s sugar-to-ethanol diversion are expected to shift global sugar supply-demand from surplus toward a modest deficit, increasing upside risk to sugar prices. Severe drought would also hit palm oil and natural rubber—both highly concentrated in Southeast Asia—with historical strong-El Niño episodes showing pronounced upward price elasticity. Soybeans and corn are expected to see only marginal impacts. Huatai recommends monitoring sugar, natural rubber and palm oil supply chains.
-
----
-
-### 2026-06-04 08:12:35  #市場 #觀點 #國際
-
-【華泰證券：厄爾尼諾來襲 關注白糖、天然橡膠及棕櫚油產業鏈】華泰證券研報稱，多國權威氣象機構預測2026年厄爾尼諾即將爆發，其引發的全球“東澇西旱”極端氣候或將擾動大宗農產品的供給格局。受印度與泰國主產區旱情、出口禁令以及巴西能源替代邏輯等多重因素影響，全球白糖供需預計將由過剩轉為小幅短缺，糖價上行預期走強。極端乾旱或將直接衝擊高度依賴東南亞產區的棕櫚油與天然橡膠供應鏈，歷史覆盤表明，二者在強厄爾尼諾週期內均具備較強的向上價格彈性。大豆玉米邊際受影響較小。建議關注白糖、天然橡膠及棕櫚油產業鏈。
-
----
-
-### 2026-06-04 08:12:24  #國際
-
-【美加墨世界盃臨近，中國駐美使領館提醒觀賽中國公民透過合規渠道購票】中國駐美國大使館：再次提醒來美中國公民務必提高安全防範意識，密切關注各類安全風險，切實做好自我防護。祝願大家觀賽順心、旅途平安，高高興興觀賽，平平安安回家。
-
----
-
-### 2026-06-04 08:12:11  #公司
-
-【大金重工：H股公開發行價格為每股66.40港元】大金重工(002487)6月4日早間公告，公司已確定本次H股發行的最終價格為每股66.40港元。公司本次發行的H股預計於6月5日在香港聯交所主機板掛牌並開始上市交易。
-
----
-
-### 2026-06-04 08:11:41  #公司 #國際
-
-【Quantinuum IPO定價為每股60美元 高於推介區間】據一份宣告稱，霍尼韋爾支援的美國量子計算公司Quantinuum首次公開募股(IPO)發行2800萬股股票，定價為每股60美元，高於該公司此前公佈的每股53至55美元的發行價區間。據計算，此次IPO籌集了16.8億美元。公司將於6月4日在納斯達克全球市場開始交易，股票程式碼為“QNT”。
-
----
-
-### 2026-06-04 08:11:20  #觀點
-
-【國金證券：看好固體氧化物燃料電池（SOFC）產業鏈發展前景】國金證券研報認為，基於固體氧化物燃料電池（SOFC）行業已進入“從1到10”的規模化放量週期，AI資料中心場景為產業鏈提供了明確的成長路徑與業績兌現能力，看好固體氧化物燃料電池（SOFC）產業鏈的發展前景，投資主線聚焦兩大方向：（1）Bloom Energy核心供應鏈。（2）具備自主系統能力的國內領先企業：隨著SOFC景氣度向國內擴散，已進入示範驗證或小批次量產階段、明確向AI資料中心場景拓展的系統級廠商。
-
----
-
-### 2026-06-04 08:11:14  #MKT News
-
-Australia's S&P/ASX 200 opened down 73.80 points (-0.84%) at 8,711.90 on Thursday, June 4.
-
----
-
-### 2026-06-04 08:11:08  #國際
-
-韓國：若外匯市場出現單邊走勢，將採取行動。
-
----
-
-### 2026-06-04 08:10:54  #其他
-
-【強化覆蓋力度 發力未來汽車 汽車行業標準化建設提速進階】作為產業規範發展、技術創新落地、市場秩序規整的核心基石，汽車標準化體系建設迎來系統性升級視窗期：《換電場景下動力蓄電池缺陷監測與分析規範》（GB/T47283—2026）推薦性國家標準6月1日起實施；《2026年汽車標準化工作要點》釋出，四方面15項內容部署進一步健全汽車標準體系，提升標準供給質量，深化標準國際合作……多位專家表示，一系列標準、規劃的密集落地與前瞻佈局，致力於破解行業內卷、技術參差、安全短板等痛點，持續夯實產業新質生產力，為中國汽車品牌技術自立、產品升級築牢規則底座。中國汽車產業標準持續創新、國際交流不斷加深，也讓更多國家能夠參與全球汽車產業發展程序，共享技術進步帶來的機遇。（經濟參考報）
-
----
-
-### 2026-06-04 08:10:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 slid as much as 1.2% intraday.
-
----
-
-### 2026-06-04 08:09:25  #MKT News #Important #XAUUSD #Impact bullish #WTI
-
-【US media: Trump willing to tolerate sporadic clashes if Iran avoids causing US troop deaths】The Wall Street Journal reports US officials say President Trump privately told aides he would consider ending the ceasefire with Iran if Tehran causes US troop deaths. Officials say the weeks-long pause in airstrikes remains in place. Trump’s stated reluctance to spark a wider Middle East war indicates he may tolerate isolated clashes lasting weeks or months to avoid broader escalation.
-
----
-
-### 2026-06-04 08:09:07  #公司
-
-【翰森製藥：奧萊泊肽注射液上市許可申請獲國家藥監局受理】翰森製藥6月4日在港交所公告，於6月3日，公司創新藥奧萊泊肽注射液上市許可申請(NDA)獲中國國家藥品監督管理局(NMPA)受理，適用於肥胖或超重成人的長期體重管理。奧萊泊肽是一款公司自主研發的每週一次給藥胰高血糖素樣肽-1(GLP-1)╱葡萄糖依賴性促胰島素多肽(GIP)雙受體激動劑。
-
----
-
-### 2026-06-04 08:09:00  #市場
-
-韓元兌美元下跌0.7%，市場在假期後重新開市。
-
----
-
-### 2026-06-04 08:08:30  #Trading Economics #Economy #Ireland #Services PMI #Importance 1
-
-Irish Services PMI Hits 3-Month High — The AIB Ireland Services PMI rose to 50.8 in May 2026 from 49.7 in April, signaling a marginal rise in activity, though it remained below its long-run trend of 55. It was the highest reading since February, supported by a renewed increase in new business. The rate of new business growth was the fastest in three months but still subdued by the survey's historical standards.
-
----
-
-### 2026-06-04 08:08:10  #其他
-
-【當前我國夏糧收穫進度超四成】從農業農村部獲悉，截至6月3日17時，全國已收穫夏糧小麥1.43億畝，收穫進度42.23%。當日收穫2420萬畝、投入聯合收割機29.41萬臺。當前安徽麥收進度過八成，河南過六成，江蘇近三成，陝西、山東過一成。
-
----
-
-### 2026-06-04 08:07:50  #市場 #國際
-
-日本日經平均股指下跌1.1%，報67641.25點。
-
----
-
-### 2026-06-04 08:07:20  #公司 #國際
-
-【謝鋒大使同知名跨國公司高管集體交流】2026年6月2日，中國駐美國大使謝鋒同知名跨國公司高管集體交流。黑石、谷歌、微軟、IBM、得州儀器、霍尼韋爾、拜耳、強生、康菲石油、雪佛龍、迪士尼、寶潔等跨國公司高管參加。謝鋒宣介中美元首北京會晤成果，指出習近平主席和特朗普總統同意將“中美建設性戰略穩定關係”作為兩國關係新定位，為未來3年乃至更長時間的中美關係作出戰略指引。希工商界積極行動，落實元首的重要共識，不斷拉長合作清單，取得更多造福兩國、惠及世界的務實成果。與會工商界人士熱烈歡迎“中美建設性戰略穩定關係”新定位，表示這為企業經營提供了穩定預期，看好中國經濟發展，期待擴大對華投資合作。（中國駐美國大使館）
-
----
-
-### 2026-06-04 08:06:56  #MKT News #Market Regions #Greater China #Star Stocks #Microsoft #Alphabet #Market Themes #Magnificent 7 #CNH #Impact bullish #Hang Seng Index
-
-【China's ambassador to US meets senior executives from major multinationals】On June 2, 2026 China's ambassador to the United States Xie Feng met with senior executives from major multinationals including Blackstone, Google, Microsoft, IBM, Texas Instruments, Honeywell, Bayer, Johnson & Johnson, ConocoPhillips, Chevron, Disney and Procter & Gamble. Participants welcomed the new “constructive strategic stability” positioning in China–US ties, said it affords more stable operating expectations, expressed confidence in China’s economic outlook and signalled intentions to expand investment and cooperation in China.
-
----
-
-### 2026-06-04 08:06:30  #公司
-
-【京東方A：玻璃基封裝載板試驗線良率尚未達到量產水平】京東方A(000725)6月3日在機構調研時表示，公司於2024年投資9.93億元建設玻璃基封裝載板試驗線。目前已給部分國內客戶送樣，部分客戶已透過概念認證，並進入技術測試階段。截至目前，公司還未實現批次生產，該業務尚未實現量產營收，公司試驗線良率尚未達到量產水平，何時達到具有重大不確定性。
-
----
-
-### 2026-06-04 08:06:11  #國際
-
-美國國務卿盧比奧將於美東時間週四上午9:30會見科威特外交部長。
-
----
-
-### 2026-06-04 08:05:39  #市場
-
-韓元兌美元觸及3月31日以來低位。
-
----
-
-### 2026-06-04 08:05:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Decline as Tech Earnings Disappoint — US stock futures moved lower on Thursday as disappointing earnings from major technology companies pressured market sentiment. In after-hours trading, Broadcom sank nearly 14% after reporting fiscal second-quarter revenue below expectations, while cybersecurity firm CrowdStrike dropped more than 11% following soft second-quarter sales guidance. The weakness spread across the tech sector, with Intel (-2%), AMD (-2.9%), Palantir (-1.5%), Qualcomm (-1.9%), and Arm Holdings (-4.3%) also posting notable losses. Investors were also assessing heightened geopolitical risks after fresh exchanges of strikes between the US and Iran, undermining hopes for a peace deal and stoking concerns about inflation and higher interest rates. In Wednesday’s regular session, the Dow fell 1.21%, the S&P 500 lost 0.74%, and the Nasdaq Composite declined 0.89%. Six of the 11 S&P sectors closed lower, led by technology, financials, and consumer discretionary stocks.
 
 ---

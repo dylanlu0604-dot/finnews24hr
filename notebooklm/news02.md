@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-09 03:02:55_
-_本檔包含 3636 則快訊，約 696266 字_
+_更新時間：2026-06-09 03:48:09_
+_本檔包含 3647 則快訊，約 696587 字_
+
+---
+
+### 2026-06-07 14:57:26  #宏觀 #國際
+
+韓國財政部： 外匯市場過度波動不可取；監管機構將展開排查，以發現外匯市場中的任何投機性交易活動。
+
+---
+
+### 2026-06-07 14:57:15  #MKT News
+
+South Korea's finance minister said regulators will review the foreign exchange market for any speculative activity.
+
+---
+
+### 2026-06-07 14:56:20  #MKT News
+
+South Korea's finance minister said authorities will impose severe penalties on speculative investments targeting the won.
+
+---
+
+### 2026-06-07 14:55:52  #宏觀 #國際
+
+韓國財政部表示：將對針對韓元的投機性投資行為施以嚴厲處罰。
+
+---
+
+### 2026-06-07 14:54:04  #MKT News
+
+South Korea's finance minister said excessive volatility in the foreign-exchange market is undesirable.
+
+---
+
+### 2026-06-07 14:54:02  #國際
+
+韓國表示，外匯市場波動加劇源於投機交易。
+
+---
+
+### 2026-06-07 14:53:45  #宏觀 #國際
+
+韓國財政部：絕不容忍外匯市場出現跟風羊群行為。
+
+---
+
+### 2026-06-07 14:53:38  #MKT News
+
+South Korea's finance minister said they will not tolerate herd behavior in the foreign exchange market.
+
+---
+
+### 2026-06-07 14:53:21  #MKT News
+
+South Korea's finance minister convened an emergency market assessment meeting.
+
+---
+
+### 2026-06-07 14:52:32  #焦點 #國際
+
+韓國將對市場單邊異常波動採取嚴厲管控措施。
+
+---
+
+### 2026-06-07 14:52:16  #國際
+
+韓國召開緊急會議，研判市場形勢。
+
+---
+
+### 2026-06-07 14:50:50  #MKT News #Market Themes #China Tech Giants #BIDU.O
+
+【Baidu upgrades Digital Human Innovation unit to standalone department】On June 7, Baidu's Mobile Ecosystem Group (MEG) reorganized: it merged its Commercial and e‑commerce divisions into a Large Commercial business division and upgraded the Digital Human Innovation business into an independent department.
+
+---
+
+### 2026-06-07 14:48:25  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【NVIDIA's Jensen Huang meets KRAFTON and NCSOFT in Seoul to discuss game AI cooperation】NVIDIA CEO Jensen Huang met KRAFTON’s founder and chairman and representatives from NCSOFT in Seoul on July 7 to discuss game-focused AI cooperation, including humanoid/“physical AI” applications and collaborations tied to NVIDIA’s newly launched AI laptop series, RTX Spark, Yonhap reported. NVIDIA has supplied DLSS rendering support for NCSOFT’s new title AION2; Huang viewed the game at a local PC bang and joined a brief livestream with NCSOFT executives to exchange views on the direction of the game industry and AI technology.
+
+---
+
+### 2026-06-07 14:44:30  #公司 #國際
+
+【黃仁勳會見韓國兩大遊戲商代表共商遊戲AI合作方案】英偉達執行長（CEO）黃仁勳7日在首爾江南區的網咖先後會見韓國遊戲公司KRAFTON創始人兼董事長蔣柄圭和遊戲開發商NCSOFT代表金澤辰。下午1時20分許，黃仁勳抵達網咖入口，首先向在路邊等待的市民們致意，之後與蔣柄圭以及KRAFTON公司的多名高管一一握手問候併合影。據悉，當天黃仁勳和蔣柄圭可能就物理AI等人形機器人，以及基於英偉達近期釋出的首款AI膝上型電腦系列“RTX Spark”的遊戲領域合作等進行討論。在結束與KRAFTON高管的會面後，黃仁勳移步附近的另一家網咖，同金澤辰以及NCSOFT高層會面。黃仁勳同在網咖的玩家們寒暄問候，並親自了解了NCSOFT的新作《永恆之塔2》（《AION2》）。英偉達已為《永恆之塔2》提供圖形最新技術支援（DLSS深度渲染技術）。黃仁勳還同金澤辰“閃現”網路直播，就遊戲產業和AI技術的發展方向等交換意見。
+
+---
+
+### 2026-06-07 14:40:22  #MKT News
+
+Israeli military said on Tuesday it killed Sakr Abu Karim, a commander of an operational unit in Hamas's elite Nukhba force and the leader of the Oct. 7, 2023 attack on the Kissufim area.
+
+---
+
+### 2026-06-07 14:39:49  #MKT News
+
+The IDF and Shin Bet told The Times of Israel that a Hamas operative who took part in the October 7 attacks and planned operations against Israeli forces was killed in an IDF strike in Gaza last week.
+
+---
+
+### 2026-06-07 14:38:28  #其他
+
+【烏軍戰俘：俄無線電通訊已被偵聽和掌控】據鳳凰衛視報道，烏軍戰俘爆料，俄軍大量使用民間渠道採購的對講機一開機即接入烏軍星鏈網路，常常被烏方偵聽和掌控。同時，俄媒透露烏軍正組建新旅準備反攻，盧甘斯克則緊急釋出國道禁令。 一名烏軍戰俘在接受記者採訪時表示，在前線作戰中，俄軍基層無線電通訊也常常被偵聽和掌控。由於俄軍大量使用從亞洲某國透過民間渠道所購買的無線電臺，這些對講機只要開機連通，就會直接聯絡在烏軍普及的星鏈網路上，俄烏兩軍互用，烏軍也可以隨時對此程式設計，實施控制，基本上沒有秘密可言，這也嚴重威脅到俄軍戰場通訊的安全。
+
+---
+
+### 2026-06-07 14:34:15  #國際
+
+以色列國防軍：以色列國防軍和以色列安全域性上週在加沙地帶南部發動襲擊，消滅了哈馬斯努赫巴特小隊的指揮官扎克爾·阿布·卡里姆。
+
+---
+
+### 2026-06-07 14:34:01  #MKT News
+
+【Iran first vice president says officials united on negotiating texts】IRNA reports Iran’s first vice president said senior officials are fully united on Tehran’s negotiating strategy, rejecting reports of divisions over negotiation texts or proposals. He said Iran is taking a clear, coordinated approach and that officials have no differences on texts and proposals. He was referring to indirect talks with the United States described as aimed at permanently ending US and Israeli wars against Iran, and added Iran’s experience in two wars has provided valuable crisis-management lessons.
+
+---
+
+### 2026-06-07 14:28:56  #國際
+
+埃及官員：本季迄今為止埃及已從國內收購450萬噸小麥。
+
+---
+
+### 2026-06-07 14:26:37  #其他
+
+【懷進鵬影片排程2026年全國高考組織工作】6月7日上午，2026年普通高等學校招生全國統一考試開考前，教育部黨組書記、部長懷進鵬在教育部教育考試院透過國家教育考試指揮平臺影片排程全國高考組織工作。懷進鵬檢視了有關考點、考場以及考生入場情況，並聽取2026年高考有關工作彙報。教育部黨組成員、副部長熊四皓參加排程。 懷進鵬強調著重做好三方面工作。一是嚴密細緻組織考務。牢固樹立底線思維、極限思維，嚴格把好試題試卷關、考場入口關、監考關，會同有關部門加強考點周邊管理，切實維護良好考試秩序。二是協同高效應急處突。要加強值班值守，強化人防、技防、聯防，細化應急預案，及時穩妥處置極端天氣、自然災害可能帶來的影響，做好路線規劃、交通疏導、防汛防災等，確保考生順利赴考。三是溫馨周到服務考生。各地要以人為本，進一步加強考生出行、食宿衛生、噪音治理等方面綜合服務保障，突出對殘疾人等困難群體的關心關愛，全力營造溫馨和諧的考試環境。（教育部）
+
+---
+
+### 2026-06-07 14:25:23  #其他
+
+【廣西釋出山洪災害紅色及橙色預警 這兩地注意防範】廣西水利廳和廣西氣象局於6月7日8時聯合釋出山洪災害氣象預警：預計，6月7日8時至6月8日8時，廣西柳州市三江侗族自治縣、融水苗族自治縣可能發生山洪災害，其中融水苗族自治縣發生山洪災害可能性很大（紅色預警），三江侗族自治縣發生山洪災害可能性大（橙色預警）。請各影響區注意做好監測、巡查、預警和轉移避險等山洪災害防範工作。
+
+---
+
+### 2026-06-07 14:23:06  #國際
+
+【北約在芬蘭瑞典加強行動】據法新社6月6日報道，北約高階官員表示，北約地面部隊6日已在芬蘭和瑞典開始行動，以加強北歐地區的安全。在2022年2月俄烏衝突爆發後，這兩個北歐國家放棄了數十年的軍事不結盟政策，成為北約成員國。芬蘭於2023年加入北約，瑞典於2024年加入。報道稱，6日開始的行動旨在支援北約東北翼的防禦。北約歐洲盟軍最高司令、美國將軍亞力克蘇斯·格林克維奇強調說，“該地區是世界上最具戰略意義的區域之一”，同時也是環境最惡劣的地區之一。（參考訊息）
+
+---
+
+### 2026-06-07 14:22:06  #國際
+
+據東京大學統計，日本東京的樹冠覆蓋率（即樹枝、樹幹和樹葉覆蓋的土地面積比例）已從2013年的9.2%下降到2022年的7.3%。
+
+---
+
+### 2026-06-07 14:21:44  #市場 #國際
+
+【中東局勢或拖累日本經濟增長】受中東局勢影響，日本高度依賴進口的能源安全遭受挑戰。油價連續上漲，日本全國汽油平均零售價持續上漲，各個行業的成本明顯增加。據研究機構測算，國際油價一桶每上漲10美元，日本每年的能源支出就要額外增加約1.3萬億日元。日本的原油儲備僅能維持250多天，截至目前，日本政府已經啟動兩輪國家石油儲備釋放，總計約1.16億桶，相當於日本65天的石油需求。然而這些政策對於緩解日本的原油供應並沒有起到太大的作用，隨著霍爾木茲海峽的持續封鎖，能源供應問題對於日本的經濟制約正在加劇顯現，並且已經嚴重影響到了老百姓的生活。（央視新聞）
+
+---
+
+### 2026-06-07 14:20:47  #MKT News #Market Regions #Japan & APAC
+
+【Japan city tree canopy declines, bucking global trend】Nikkei reports that while major global cities are increasing shade to curb climate-driven summer heat, Japanese street tree counts have fallen from peak levels and recent plantings favor species with limited crown growth. University of Tokyo data show Tokyo’s tree canopy cover declined from 9.2% in 2013 to 7.3% in 2022, a loss of about 12 sq km of canopy — roughly 250 large baseball fields. By contrast, Phoenix, Arizona’s canopy reached 11% in 2024.
+
+---
+
+### 2026-06-07 14:20:15  #國際
+
+韓國總統李在明6月8日召開就職一週年記者會。
+
+---
+
+### 2026-06-07 14:11:13  #公司 #市場
+
+【英媒：霍爾木茲海峽“梗阻”或致油輪利潤“過山車”】據英國《金融時報》6日報道，受霍爾木茲海峽持續關閉影響，全球油輪租賃行業獲得暴利，但多家大型油輪公司擔心，如果美伊達成協議重新開放該海峽，油輪市場可能面臨急劇下跌甚至崩盤風險。文章摘要如下： 據全球最大航運經紀商之一英國克拉克森船務公司資料，自今年美以伊戰事爆發以來，全球油輪租賃行業獲得暴利，今年第一季度利潤高達360億美元，大幅超過2022年創下的260億美元季度紀錄。 行業資料顯示，在高額利潤刺激下，船東將大量資金投入新船訂單。海事資料公司AXS海運公司統計，今年超大型油輪的訂購數量已超過任何完整年份的全年總量。（新華社）
+
+---
+
+### 2026-06-07 14:07:56  #公司
+
+【廣州再添百億大專案】廣州又迎來一個“雙百”專案，融捷集團新能源智造基地落子廣州開發區、黃埔區。專案總投資約120億元，規劃總產能24GWh，達產後年產值預計超130億元，遠期帶動形成千億級新能源產業叢集。作為國內行業唯一貫通“鋰礦開採、材料加工、電池製造、儲能系統、電池迴圈利用”全產業鏈的企業，融捷此次落子知識城，既是其在粵港澳大灣區的戰略佈局，也是廣州“招商引資年”的標誌性成果之一。（中國廣州釋出）
+
+---
+
+### 2026-06-07 14:04:40  #MKT News #Brent #Impact bullish
+
+British Airways CEO said airfares will rise again if jet fuel costs remain elevated.
+
+---
+
+### 2026-06-07 14:04:37  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli military says it intercepted two munitions that crossed into Israeli territory from Lebanon.
+
+---
+
+### 2026-06-07 14:03:12  #市場
+
+【京東方A：隨著體育賽事與促銷季備貨收尾，五月份主流尺寸TV價格持穩】京東方A在機構調研時表示，根據諮詢機構資料及分析，受體育賽事備貨拉動、成本風險驅動、行業堅持“按需生產”等因素影響，2026年1月至4月各主流尺寸TV產品價格全面上漲；隨著體育賽事與促銷季備貨收尾，五月份主流尺寸TV價格持穩。IT方面，主流尺寸MNT延續微幅上漲態勢，NB面板價格持續平穩。
+
+---
+
+### 2026-06-07 14:02:02  #公司 #市場
+
+英國航空執行長表示，如果燃油成本維持在高位，機票價格將再次上漲。
 
 ---
 
@@ -21837,137 +22035,5 @@ SWITCH據悉洽談以超過500 億美元的估值進行融資。
 ### 2026-06-05 11:28:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
 
 【China Galaxy Securities sees room for insurance sector valuation recovery】China Galaxy Securities says 2026 presents a dual opportunity for insurers from asset-side improvement and liability-side transformation. On the asset side, more diversified allocations and a healthier equity market should ease investment‑income pressure. On the liability side, participating (dividend) life products are becoming the core of new premium growth; stabilising assumed interest rates should reduce reliance on stop‑sale speculation, and a low‑rate era deposit‑migration effect should continue to unlock liability-side potential. The firm is constructive on scope for sector valuation recovery.
-
----
-
-### 2026-06-05 11:28:02  #MKT News #ORCL.N #Impact bullish
-
-RBC raises Oracle (ORCL.N) PT to $190 from $160.
-
----
-
-### 2026-06-05 11:28:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【China Galaxy Securities sees room for insurance-sector valuation recovery in 2026】China Galaxy Securities says 2026 brings a two-sided opportunity for Chinese insurers. Asset side: broader allocation options and a healthier equity market should ease investment-return pressure. Liability side: participating/dividend life products are becoming the main source of new premiums; assumed/guaranteed life rates are stabilizing, reducing reliance on suspend-and-reprice tactics, and deposit migration in a low-rate era should continue to unlock liability-side potential. The broker sees scope for sector valuation repair.
-
----
-
-### 2026-06-05 11:25:43  #國際
-
-【電影《給阿嬤的情書》6月18日港澳上映】電影《給阿嬤的情書》官博今日宣佈，《給阿嬤的情書》將於全球上映。6月18日，該影片將於中國香港、中國澳門、新加坡、馬來西亞、汶萊上映。美國、加拿大、澳大利亞、紐西蘭、英國、法國、愛爾蘭、日本、韓國、泰國、越南等更多國家及地區敬請期待。
-
----
-
-### 2026-06-05 11:25:29  #MKT News #Market Regions #Greater China #06127.HK #Impact bullish
-
-【Joinn Laboratories signs strategic cooperation framework with Kunming Institute of Zoology, Chinese Academy of Sciences】Joinn Laboratories (06127.HK) signed a strategic cooperation framework with the Kunming Institute of Zoology, Chinese Academy of Sciences to collaborate on high-value use of experimental animal resources, development of animal models for major diseases, digital biopharma, and innovative drug R&D and commercialization; the agreement frames comprehensive, deep and long-term cooperation.
-
----
-
-### 2026-06-05 11:24:43  #其他
-
-【昭衍新藥與中國科學院昆明動物研究所簽署戰略合作框架協議】近日，昭衍新藥與中國科學院昆明動物研究所舉行戰略合作座談會暨簽約儀式，雙方正式簽署戰略合作框架協議，圍繞實驗動物資源高值利用、重大疾病動物模型開發、數字生物醫藥、創新藥研發與成果轉化等領域開啟全面、深度、長期合作。
-
----
-
-### 2026-06-05 11:24:08  #市場
-
-創業板指日內跌幅再次擴大至1%，此前一度翻紅。
-
----
-
-### 2026-06-05 11:22:53  #其他
-
-【姚順雨回應“騰訊AI慢了”】針對“騰訊AI方面慢了”的質疑，今日騰訊首席AI科學家姚順雨表示，要判斷AI是長期遊戲還是短期遊戲。他表示，矽谷蔓延著很多情緒，一種是兩年後大家都要失業，工作被AI取代，這是一種判斷，“但我們判斷AI是一個長期遊戲，某種程度上，AI下半場才剛剛開始。ChatGPT和Claude不會是唯二的超級應用，會有新機會產生。”此外，他認為AI未來會變得更多元。（第一財經）
-
----
-
-### 2026-06-05 11:22:16  #市場 #焦點
-
-焦煤連續主力合約日內漲2%，現報1450.50元。
-
----
-
-### 2026-06-05 11:22:12  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish
-
-【CETC No.55 delivers over 5 mln units of world’s first mass-produced silicon-based GaN RF chip for smart terminals】China Electronics Technology Group (CETC) No.55 Research Institute said its domestically developed, world’s first mass-produced silicon-based gallium nitride (Si‑GaN) RF chip for smart terminals has recently delivered over 5 mln units. The Si‑GaN series combines high power, high efficiency, ultra-wideband and high reliability and is designed to meet the high-efficiency, high-linearity requirements of RF power amplifier chips for space‑air‑ground integrated communications. CETC said the product overcomes industrialisation constraints for high-end RF chips and will support full-coverage, high-speed integrated information networks.
-
----
-
-### 2026-06-05 11:22:03  #其他
-
-【我國自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆】從中國電科獲悉，中國電科55所自主研發的全球首款量產智慧終端用矽基氮化鎵射頻晶片產品，近日已交付超五百萬顆。這是全球率先實現矽基氮化鎵射頻晶片在智慧終端規模化商用，將為空天地一體化資訊網路的全域覆蓋、高速互聯提供硬核支撐。據悉，該系列矽基氮化鎵射頻晶片兼具高功率、高效率、超寬頻、高可靠等突出效能，可精準匹配空天地一體化通訊對射頻功放晶片高效率、高線性度的嚴苛技術要求，有效破解高階射頻晶片產業化難題，助力構建全域、全時、無縫的空天地通訊網路，推動全球無縫通訊、萬物互聯的產業願景加速落地。（科技日報）
-
----
-
-### 2026-06-05 11:21:18  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK #Impact bullish #Hang Seng Index
-
-【Tencent launches Efficiency Agent Toolkit covering 20+ vertical scenarios】At its Cloud AI industry conference, Tencent unveiled the Efficiency Agent Toolkit, offering differentiated AI agents for individual productivity, office workflows and enterprise use across more than 20 vertical scenarios. For consumers, local AI assistant QClaw introduced a WeChat direct-connect mode and integrations with Tencent Docs, Tencent Meeting, ima and QQ Mail. For workplace users, Tencent released the Buddy product family. For enterprises, Tencent launched WorkBuddy enterprise edition and an Agent Suite, and upgraded its enterprise agent governance platform ClawPro and agent development platform ADP 4.0.
-
----
-
-### 2026-06-05 11:21:13  #其他
-
-【騰訊首發效率智慧體工具集，覆蓋20多個垂直場景Agent】騰訊在2026騰訊雲AI產業應用大會上首次系統釋出“效率智慧體工具集”，面向個人提效、辦公提效、企業提效三類需求，針對20多個垂直場景提供差異化的智慧體解決方案。針對個人使用者，本地AI助手QClaw首創“微信直連”模式，並打通騰訊文件、騰訊會議、ima、QQ郵箱等工具。面向職場人群，騰訊推出了“Buddy”家族系列產品。針對企業使用者，騰訊還正式釋出WorkBuddy企業版及辦公智慧體套件Agent Suite，升級企業智慧體管控平臺ClawPro和智慧體開發平臺ADP 4.0。
-
----
-
-### 2026-06-05 11:20:11  #其他
-
-日立宣佈加入Anthropic的Glasswing人工智慧安全計劃。
-
----
-
-### 2026-06-05 11:18:56  #公司 #市場
-
-【玻璃基板概念漲勢擴大 京東方A等近10股漲停】玻璃基板概念日內漲勢擴大，京東方A走出2連板，此前彩虹股份、沃格光電、金瑞礦業、旗濱集團、凱盛科技等多股漲停，戈碧迦漲超20%，帝爾鐳射、德龍鐳射漲超10%。
-
----
-
-### 2026-06-05 11:15:58  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-Beijing Stock Exchange 50 Index rallied intraday, gaining over 7%.
-
----
-
-### 2026-06-05 11:15:01  #MKT News #Market Themes #AI Revolution #CNH #Impact bullish #WTI #Copper
-
-【CITIC Securities: AI-related goods to drive China's 2026 trade growth】CITIC Securities says AI-related goods could become a new engine for China’s foreign trade in 2026. Citing the WTO March Global Trade Outlook, which raised its 2026 global trade volume YoY forecast to 1.9% from 0.5% on faster AI-related capex, the report expects China’s exports and imports to grow about 13.2% and 15.5% YoY in 2026. Higher underlying energy prices and related incremental demand for green products are seen as additional support; the report anticipates China’s trade surplus will remain sizable for the year.
-
----
-
-### 2026-06-05 11:15:00  #其他
-
-本田：1-5月在中國的終端汽車累計銷量為173,344輛，同比下降32.5%。
-
----
-
-### 2026-06-05 11:14:40  #市場 #焦點
-
-北證50日內漲幅達7.01%，成分股中，戈碧迦漲25.46%，同惠電子漲19.34%，天力複合漲18.23%，星圖測控漲16.05%。
-
----
-
-### 2026-06-05 11:14:19  #其他
-
-日立即將獲准接入 Claude Mythos。
-
----
-
-### 2026-06-05 11:12:39  #MKT News
-
-Thailand's Ministry of Commerce said June inf may reach 3%.
-
----
-
-### 2026-06-05 11:12:03  #MKT News
-
-【Argentina, U.S. sign deals to deepen military drone cooperation and mutual fuel supply】Argentina's defense minister Carlos Alberto Prestí and the U.S. ambassador on June 4 signed accords to expand cooperation on military unmanned systems and mutual supply of military fuel. The fuel pact allows Argentine forces to access the U.S. military's logistics network for fuel during overseas exercises, training and deployments. A separate agreement will see Argentina join a U.S. military‑managed international digital trading platform for unmanned and counter‑unmanned systems to support development of Argentine military UAS and counter‑UAS capabilities.
-
----
-
-### 2026-06-05 11:11:41  #國際
-
-【阿根廷與美國簽署協議加強軍用無人機等合作】阿根廷國防部長卡洛斯·阿爾韋託·普雷斯蒂4日與美國政府簽署協議，加強兩國在軍用無人機技術和軍用燃料供給方面的合作。阿根廷國防部在一份宣告中說，國防部長普雷斯蒂與美國駐阿根廷大使彼得·拉梅拉斯4日簽署了互供軍用燃料的專項協議。根據該協議，阿根廷軍隊在世界其他地區進行演習、訓練和部署時，將能夠透過美軍的後勤網路獲得燃料補給。阿美雙方還簽署了一份軍用無人機合作協議，阿根廷軍隊將加入由美國軍方管理的國際無人機及反無人機系統數字交易平臺，促進阿根廷軍用無人機系統和無人機防禦技術發展。（新華社）
 
 ---
