@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-08 09:55:56",
-  "count": 19268,
+  "updated": "2026-06-08 09:59:45",
+  "count": 19263,
   "items": [
+    {
+      "id": "mkt:019ea4f4-2e85-7ee0-94c7-e368c9b44973",
+      "time": "2026-06-08 09:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said the rapid stock-market rebound has had an abnormal effect on the FX market."
+    },
+    {
+      "id": "4922703",
+      "time": "2026-06-08 09:57:27",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【英國企業2-4月薪資漲幅持平於3.5%，儘管最低工資上調】一項調查顯示，儘管英國最低工資標準上調，但截至4月的三個月內，英國企業薪資漲幅保持穩定。薪資研究機構IDR週一表示，2-4月期間大型僱主的薪資漲幅中值為3.5%，與1-3月持平。市場普遍預期英國央行下週將把利率維持在3.75%不變。該行正密切關注薪資增長情況，以評估通脹壓力。投資者認為，英國經濟極易受到伊朗戰爭引發的能源價格上漲影響。"
+    },
+    {
+      "id": "4922702",
+      "time": "2026-06-08 09:57:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國總統： 全體韓國民眾均從股市上漲中獲益。"
+    },
+    {
+      "id": "mkt:019ea4f2-a7ff-7ee0-94c7-d80f247c11f0",
+      "time": "2026-06-08 09:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said the South Korean stock market remains undervalued."
+    },
+    {
+      "id": "4922701",
+      "time": "2026-06-08 09:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代重工集團簽署價值 3607 億韓元的合同。"
+    },
+    {
+      "id": "4922700",
+      "time": "2026-06-08 09:56:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國總統： 我認為韓國股市目前仍被低估。"
+    },
+    {
+      "id": "4922699",
+      "time": "2026-06-08 09:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人、傑克科技成立具身智慧科技公司】企查查APP顯示，近日，艾圖智元具身智慧科技（杭州）有限公司成立，法定代表人為張瀚文，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人銷售；工業機器人制造；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由智元創新（上海）科技股份有限公司、傑克科技旗下艾圖（浙江）智慧縫製科技有限公司共同持股。"
+    },
+    {
+      "id": "4922698",
+      "time": "2026-06-08 09:55:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國總統： 股市急速上漲對外匯市場造成異常影響。"
+    },
+    {
+      "id": "4922697",
+      "time": "2026-06-08 09:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統： 股市出現波動在所難免。"
+    },
     {
       "id": "4922696",
       "time": "2026-06-08 09:55:10",
@@ -177654,135 +177731,6 @@
         "Energy"
       ],
       "text": "Bank of Korea Governor Shin said oil-price rises typically worsen terms of trade, causing GDI growth to lag GDP, but part of the recent energy-price rise has been offset by South Korea's semiconductor exports."
-    },
-    {
-      "id": "4909399",
-      "time": "2026-06-01 09:59:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國務院關於對外投資的規定：國家健全境外投資安全審查制度，國務院投資主管部門、商務主管部門會同國務院其他有關部門對影響或者可能影響國家安全的境外投資及相關資產、權益等的轉讓、處分進行安全審查。有關組織、個人應當予以協助、配合，不得拒絕、阻礙，並應當遵守境外投資安全審查決定。"
-    },
-    {
-      "id": "4909398",
-      "time": "2026-06-01 09:59:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "銀行間主要利率債收益率下行，10年期國債“26附息國債10”收益率破1.70%關口，下行0.9bp報1.6980%；30年期國債“26超長特別國債02”收益率破2.19%關口，下行1.8bp報1.1880%。"
-    },
-    {
-      "id": "te:markets:555157",
-      "time": "2026-06-01 09:58:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Climb Further — US natural gas futures rose further to $3.36 per MMBtu, the highest level since early February, amid expectations of stronger demand over the next two weeks. Forecasts indicate mostly above-normal temperatures through June 13, increasing the likelihood that power generators will consume more gas to meet rising air-conditioning demand. Additional support came from the latest EIA report, which showed a smaller-than-expected increase in gas storage inventories. On the supply side, gas production in the Lower 48 states averaged 109.4 billion bcfd in May, down from 109.8 bcfd in April, providing further upward pressure on prices. Meanwhile, flows to major LNG export plants fell from a monthly record high of 18.8 bcfd in April to 17.1 bcfd so far in May due to seasonal maintenance at several plants. US gas prices rallied 18.9% in May, after a 4.1 % drop in April."
-    },
-    {
-      "id": "4909397",
-      "time": "2026-06-01 09:58:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【小金屬板塊短線拉昇，長裕集團漲停】小金屬板塊短線拉昇，長裕集團漲停，華錫有色此前封板，錫業股份、寶武鎂業、章源鎢業、金鉬股份、安寧股份等跟漲。相關ETF方面，工業有色ETF易方達（159032）漲0.75%，成交額196.2萬元，有色ETF富國（159168）成交額503.07萬元。"
-    },
-    {
-      "id": "4909396",
-      "time": "2026-06-01 09:58:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦炭連續主力合約日內漲4%，現報1977.50元。"
-    },
-    {
-      "id": "mkt:019e80e7-1cf4-7bb6-a9bf-38590194c241",
-      "time": "2026-06-01 09:58:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "CSI 1000 index futures (IM) most-active contract breached 8,400, rising 1.00% intraday."
-    },
-    {
-      "id": "mkt:019e80e6-d4ad-7bb6-a9bf-33db1251e4c1",
-      "time": "2026-06-01 09:57:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said South Korea, like euro-area economies, is relatively sensitive to energy-price shocks due to a high dependence on energy imports."
-    },
-    {
-      "id": "mkt:019e80e6-a2f3-7bb6-a9bf-2857ae1f204d",
-      "time": "2026-06-01 09:57:39",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "【China State Council adopts outbound investment rules; banks to provide financing, effective July 1, 2026】China's State Council adopted the Regulations on Outbound Investment at its April 17, 2026 executive meeting and promulgated them; they take effect July 1, 2026. The rules require banking financial institutions, within their business scope and under market-based, rule-of-law, commercially sustainable and risk-controllable principles, to provide financing and other financial services for investors' outbound investment. The guidance encourages policy insurers to offer overseas investment insurance and related services. The state will完善 the outbound investment management system, implement classified and graded full-process supervision, strengthen risk prevention and control, and pursue investment facilitation alongside effective risk mitigation."
-    },
-    {
-      "id": "4909395",
-      "time": "2026-06-01 09:57:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價暴漲9.9%。"
-    },
-    {
-      "id": "4909394",
-      "time": "2026-06-01 09:57:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國務院關於對外投資的規定：支援諮詢評估、法律服務、會計審計、信用評級、調解仲裁、智慧財產權等專業服務機構拓展海外服務網路，提高國際化服務能力和水平，為投資者及其對外投資提供高質量專業服務。有關專業服務機構應當遵循誠實守信、勤勉盡責、獨立客觀的原則，建立有效的風險控制和內部控制制度，配備具有相應專業能力的從業人員，依法開展有關服務活動。"
-    },
-    {
-      "id": "mkt:019e80e6-3157-7bb6-a9bf-27d724fee600",
-      "time": "2026-06-01 09:57:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said South Korea's economic growth is very strong."
-    },
-    {
-      "id": "mkt:019e80e6-14e1-7bb6-a9bf-1d5ee2a9e14c",
-      "time": "2026-06-01 09:57:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said there are relatively few obstacles to adjusting monetary policy on the inflation front."
-    },
-    {
-      "id": "4909393",
-      "time": "2026-06-01 09:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀：人工智慧引發的行業變局，或令私募信貸違約率升至 10%。"
-    },
-    {
-      "id": "mkt:019e80e5-f939-7bb6-a9bf-1040289b6199",
-      "time": "2026-06-01 09:56:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "ChiNext Index extended gains to 1.00%; Shanghai Composite rose 0.15%; Shenzhen Composite Index gained 0.56%."
     }
   ]
 }
