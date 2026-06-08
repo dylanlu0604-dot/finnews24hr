@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-08 09:05:24",
+  "updated": "2026-06-08 09:09:17",
   "count": 19217,
   "items": [
+    {
+      "id": "4922560",
+      "time": "2026-06-08 09:08:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧雅股份與CBC建築中心簽署戰略合作協議】近日，奧雅股份與都市更新（北京）控股集團（CBC建築中心，簡稱“CBC”）正式簽署戰略合作協議。根據協議，雙方合作將重點圍繞三大核心業務方向展開：城市更新多元資金解決方案全流程諮詢服務，提升專項債及政策性資金申報成功率；融資與空間一體化規劃設計，實現資金邏輯與空間價值的深度融合；城市更新專案全週期落地與運營賦能，透過產業匯入、品牌運營和資產管理，保障專案長效運營、持續創造價值。"
+    },
+    {
+      "id": "4922559",
+      "time": "2026-06-08 09:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌3%至265.39點。"
+    },
+    {
+      "id": "mkt:019ea4c4-23cd-7338-95ae-0fee33251c99",
+      "time": "2026-06-08 09:06:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract plunged 8.00% intraday to trade at 16,350 yuan per kg."
+    },
+    {
+      "id": "4922558",
+      "time": "2026-06-08 09:05:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌8%，現報16350.00元。"
+    },
+    {
+      "id": "mkt:019ea4c3-aa2b-7338-95ae-00b6f10e79b3",
+      "time": "2026-06-08 09:05:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE tin most-active contract fell 6.00% intraday to 401,130.00 yuan/ton."
+    },
+    {
+      "id": "4922557",
+      "time": "2026-06-08 09:05:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌6%，現報401080.00元。"
+    },
+    {
+      "id": "4922556",
+      "time": "2026-06-08 09:05:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌5%，現報439.50元。"
+    },
+    {
+      "id": "4922555",
+      "time": "2026-06-08 09:05:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣基準股指跌幅一度達6%，跌至42376.86點，創5月22日以來最低。"
+    },
     {
       "id": "mkt:019ea4c2-29d9-7338-95ad-f977b7c60fa4",
       "time": "2026-06-08 09:04:08",
@@ -177286,76 +177359,6 @@
         "國際"
       ],
       "text": "【鮑威爾：若總統可因政策分歧解僱官員 美聯儲信譽將蕩然無存】前美聯儲主席傑羅姆·鮑威爾表示，如果任何一位總統都可以因為政策分歧而解僱美聯儲官員的話，美國央行將失去維持一個強大且穩定經濟所需的信譽。  鮑威爾週日在波士頓肯尼迪總統圖書館接受“肯尼迪勇氣獎”(Profile in Courage Award)時，在預先準備的講稿中指出，如果任何一屆政府設法因政策分歧而撤換美聯儲官員，那麼未來的政府也會如法泡製。他說，美聯儲的信譽將蕩然無存。美聯儲的信譽是經過幾十年的積累和維護才建立起來的，我們有責任為同胞和子孫後代守護這一寶貴的資產。"
-    },
-    {
-      "id": "mkt:019e80b9-d5d5-7bbb-a7ca-430e114af2dd",
-      "time": "2026-06-01 09:08:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Merchants Securities: High‑end electronic fabric prices likely to rise further】China Merchants Securities says loom capacity is shifting to high‑end production, keeping electronic yarn and fabric prices elevated. It forecasts peak prices for standard 7628 electronic fabric of 7.5-8.0 yuan/m by 2026. High‑end product supply remains tight and short‑term demand exceeds supply. Strong demand growth, inelastic supply, leading firms expanding high‑end capacity and low‑end conversion/upgrades support a clear cyclical upswing with concurrent volume and price gains. Near term, high‑end capacity bottlenecks should keep prices elevated; medium‑to‑long term, leaders’ technology and cost advantages will sustain capacity expansion and raise the industry’s profit baseline."
-    },
-    {
-      "id": "4909297",
-      "time": "2026-06-01 09:08:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行執委Schnabel：再也無法“忽略”能源衝擊。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606013755310393",
-      "time": "2026-06-01 09:08:35",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行執委Schnabel表示，供應衝擊被認為是巨大且具有高度持續性的；油價預計將在一段時間內維持在高位；能源衝擊很可能會傳導至整體通脹。"
-    },
-    {
-      "id": "4909296",
-      "time": "2026-06-01 09:06:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行執委Schnabel：供應衝擊被認為是巨大且具有高度持續性的。油價預計將在一段時間內維持在高位。能源衝擊很可能會傳導至整體通脹。"
-    },
-    {
-      "id": "4909295",
-      "time": "2026-06-01 09:06:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智元機器人在惠州成立科技新公司】企查查APP顯示，近日，惠州智元創新科技有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司全資持股。"
-    },
-    {
-      "id": "4909294",
-      "time": "2026-06-01 09:06:10",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國5月半導體出口額暴漲169.4%】韓國產業部資料顯示，在美國科技企業持續加大采購、儲存晶片價格不斷走高的背景下，韓國5月半導體出口額暴漲 169.4%，單月規模達到 371.6 億美元，創下歷史新高。受人工智慧伺服器需求拉動，計算機產品出口激增 290.7%；受國際油價走高影響，石油製品出口上漲 46.6%。受中東供應鏈中斷及美國關稅政策影響，汽車出口同比下降 5.9%。分出口目的地來看，對美、對華出口分別增長 59.1% 和 80.9%，對中東出口則下滑 7.7%。依靠晶片出口火熱，韓國上季度經濟增速創下近六年新高。上週，韓國央行將本年度經濟增長預期從 2.0% 上調至 2.6%。"
-    },
-    {
-      "id": "mkt:019e80b7-94db-766e-87ae-48f8c0fc56e3",
-      "time": "2026-06-01 09:06:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan plans to commit $500 mln over five years to the U.S.-led Genesis Mission AI initiative, becoming the first country to join the program, Nikkei reports."
-    },
-    {
-      "id": "4909293",
-      "time": "2026-06-01 09:05:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲1%，現報4979.00元。"
     }
   ]
 }
