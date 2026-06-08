@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-08 22:21:57",
-  "count": 19108,
+  "updated": "2026-06-08 22:26:02",
+  "count": 19103,
   "items": [
+    {
+      "id": "te:markets:557330",
+      "time": "2026-06-08 22:24:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Rebound After Sharp Selloff — The S&P/TSX Composite Index gained nearly 1% to trade above 34,500 on Monday, recovering part of Friday’s decline, when the benchmark posted its largest drop since February 12th. Stable bond yields supported financial stocks and the broader market as investors took comfort from signs that weekend strikes between Iran and Israel were unlikely to trigger a broader escalation of the conflict. Banks led gains, with RBC, TD Bank, and BMO all rising around 1%. Energy shares also advanced as oil prices remained elevated despite retreating from earlier highs, with Canadian Natural gaining more than 2% and Suncor up nearly 3%. Meanwhile, gold prices were little changed, easing pressure on mining stocks. Barrick and Franco-Nevada added more than 0.6%."
+    },
+    {
+      "id": "mkt:019ea79e-b552-7226-8cb6-94e88ac19772",
+      "time": "2026-06-08 22:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said no known casualties have been reported after sirens sounded in northern Israel."
+    },
+    {
+      "id": "4924356",
+      "time": "2026-06-08 22:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列北部響起警報後，以國防軍作出回應，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019ea79e-378f-7226-8cb6-8d4250297a9a",
+      "time": "2026-06-08 22:23:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Israel Defense Forces said it detected a projectile that landed near its troops in southern Lebanon."
+    },
+    {
+      "id": "4924355",
+      "time": "2026-06-08 22:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“空天地海”一體化監測網路 繪就經略海洋新“藍”圖】6月8日，是第18個世界海洋日，也是我國第19個全國海洋宣傳日。中國擁有總長約3.2萬公里的海岸線，海域遼闊，接近陸地領土面積的三分之一。推進中國式現代化，必須高效開發利用海洋，推動海洋經濟高質量發展，走出一條具有中國特色的向海圖強之路。那麼，該如何守護好我們身邊的這片蔚藍、向海圖強，推動海洋經濟高質量發展呢？周智是海南大學珊瑚礁保護團隊核心成員。從事珊瑚礁保護和研究10多年，2025年開始，周智博士和他的團隊在三亞珊瑚礁國家級自然保護區，有了一整套對珊瑚礁生態系統全方位實時監測的網路。（央視新聞）"
+    },
+    {
+      "id": "4924354",
+      "time": "2026-06-08 22:23:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：偵測到1枚發射物，墜落在黎巴嫩南部以軍駐地附近。"
+    },
+    {
+      "id": "te:markets:557329",
+      "time": "2026-06-08 22:23:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Over 1-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for the seventh consecutive session on Monday, dropping about 2.2% to the lowest since May 5 at 2,916 points, pressured by the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped 3.6% to 4,719 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, decreased 18 points to 2,218 points. On the other hand, the supramax index rose 8 points to 1,596 points."
+    },
+    {
+      "id": "4924353",
+      "time": "2026-06-08 22:22:47",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "加拿大財政部：利用加拿大新增貸款計劃的航空公司必須限制高管薪酬，並維持在加拿大的業務運營。"
+    },
+    {
+      "id": "4924352",
+      "time": "2026-06-08 22:22:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cantor Fitzgerald將Sandisk評級維持在增持。"
+    },
+    {
+      "id": "mkt:019ea79c-e895-7226-8cb6-84ad07777fe2",
+      "time": "2026-06-08 22:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Department of Finance said a new loan program will provide eligible Canadian airlines with up to C$150 million of repayable liquidity support."
+    },
+    {
+      "id": "4924351",
+      "time": "2026-06-08 22:22:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cantor Fitzgerald將Sandisk目標價從1800.00美元上調至2900.00美元。"
+    },
+    {
+      "id": "4924350",
+      "time": "2026-06-08 22:21:45",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "加拿大財政部：新貸款計劃將向符合資格的加拿大航空公司提供最高1.5億加元的可償還流動性支援。"
+    },
     {
       "id": "4924349",
       "time": "2026-06-08 22:21:15",
@@ -175935,171 +176044,6 @@
         "焦點"
       ],
       "text": "低硫燃料油連續主力合約日內漲5%，現報4878.00元。"
-    },
-    {
-      "id": "mkt:019e8393-dcfd-7552-8900-946688936409",
-      "time": "2026-06-01 22:26:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) said the Surface Laptop Ultra will launch later this year."
-    },
-    {
-      "id": "4911067",
-      "time": "2026-06-01 22:25:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Surface Laptop Ultra 將於今年晚些時候上市。"
-    },
-    {
-      "id": "mkt:019e8393-068d-7552-8900-89d0e0923bd0",
-      "time": "2026-06-01 22:25:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) said its Surface Laptop Ultra will feature NVIDIA technology."
-    },
-    {
-      "id": "mkt:019e8392-d780-7552-8900-87ef25cb89ae",
-      "time": "2026-06-01 22:24:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli Defense Ministry spokesman called France's restrictions on Israeli officials and companies at a European international defense exhibition 'shameful'."
-    },
-    {
-      "id": "4911066",
-      "time": "2026-06-01 22:24:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Surface Laptop Ultra 聯合英偉達打造。"
-    },
-    {
-      "id": "4911065",
-      "time": "2026-06-01 22:24:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部發言人指責法國政府對以色列官員及企業在歐洲國際防務展上施加的限制“令人不齒”。"
-    },
-    {
-      "id": "mkt:019e8392-5367-7552-8900-7d94cc842700",
-      "time": "2026-06-01 22:24:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) launches Surface Laptop Ultra."
-    },
-    {
-      "id": "4911064",
-      "time": "2026-06-01 22:24:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟推出 Surface Laptop Ultra 膝上型電腦。"
-    },
-    {
-      "id": "mkt:019e8392-1d5e-7552-8900-764eab2a8681",
-      "time": "2026-06-01 22:24:11",
-      "tags": [
-        "MKT News",
-        "ESLT.O",
-        "Impact bearish"
-      ],
-      "text": "An Israeli Defense Ministry spokesman said France will restrict Israeli defense firms' participation in the European International Defense Exhibition, permitting only the display of air-defense system products."
-    },
-    {
-      "id": "mkt:019e8391-9c7e-7552-8900-68967f573304",
-      "time": "2026-06-01 22:23:38",
-      "tags": [
-        "MKT News",
-        "SPCE.N",
-        "Impact bearish"
-      ],
-      "text": "Virgin Galactic (SPCE.N) resumed trading; shares continued to fall."
-    },
-    {
-      "id": "4911063",
-      "time": "2026-06-01 22:23:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【默克大灣區創新與合作中心在深圳南山區落成】6月1日，德國默克集團宣佈，默克大灣區創新與合作中心在深圳市南山區正式竣工落成。根據規劃，默克大灣區創新與合作中心主要定位為集團的創新研發載體，重點聚焦生命科學與醫藥健康產業，透過整合全球創新資源，推動創新藥物和生物技術的研發。"
-    },
-    {
-      "id": "4911062",
-      "time": "2026-06-01 22:23:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達高開高走，現漲超5%。"
-    },
-    {
-      "id": "mkt:019e8391-5276-7552-8900-67c4875308f5",
-      "time": "2026-06-01 22:23:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) intraday gains widened to 5%."
-    },
-    {
-      "id": "4911061",
-      "time": "2026-06-01 22:23:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部發言人：參展歐洲國際防務展的以色列防務企業將被法國政府限制僅可展出防空產品。"
-    },
-    {
-      "id": "4911060",
-      "time": "2026-06-01 22:22:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "維珍銀河恢復交易，股價繼續收窄漲幅。"
-    },
-    {
-      "id": "4911059",
-      "time": "2026-06-01 22:22:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：目前公司在光路交換機領域已有充分佈局】新易盛6月1日接受機構調研時表示，目前公司在光路交換機（OCS）領域已有充分佈局，公司可以根據客戶的定製化需求進行產品開發，預計市場明年下半年或者2028年將有批次供應需求。"
-    },
-    {
-      "id": "4911058",
-      "time": "2026-06-01 22:22:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電漲超5%，續刷歷史新高。"
     }
   ]
 }
