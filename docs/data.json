@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-09 04:36:29",
-  "count": 19227,
+  "updated": "2026-06-09 04:40:25",
+  "count": 19229,
   "items": [
+    {
+      "id": "4924681",
+      "time": "2026-06-09 04:39:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。"
+    },
+    {
+      "id": "4924680",
+      "time": "2026-06-09 04:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "據法爾斯通訊社：訊息稱葉門方面向以色列發動無人機襲擊。"
+    },
+    {
+      "id": "4924679",
+      "time": "2026-06-09 04:36:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI新興市場股票指數收盤下跌3.6%，創3月以來最大單日跌幅。"
+    },
     {
       "id": "mkt:019ea8f2-aadf-733a-9235-c4f632462db7",
       "time": "2026-06-09 04:35:36",
@@ -177292,14 +177316,6 @@
         "DXY"
       ],
       "text": "Sirens sounded in northern Israeli border town Metula after a suspected rocket attack by HEZBOLLAH."
-    },
-    {
-      "id": "mkt:019e84e7-ddd6-7993-96f9-e8d9251002f6",
-      "time": "2026-06-02 04:37:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump to abandon $1.8bn 'anti-weaponization' legal fund after bipartisan backlash】Foreign media, citing a person familiar with the matter, report the Trump administration plans to abandon a controversial $1.8bn legal fund intended to aid people who say they were victims of government 'weaponization'. Lawmakers from both parties criticized the proposal as a slush fund for the president's political allies. The decision marks another political setback for Trump following a court defeat over plans to reform the Kennedy Center and amid ongoing difficulties on efforts to end the Iran conflict."
     }
   ]
 }
