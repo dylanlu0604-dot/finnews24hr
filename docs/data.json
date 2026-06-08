@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-08 12:36:38",
-  "count": 19295,
+  "updated": "2026-06-08 12:40:41",
+  "count": 19293,
   "items": [
+    {
+      "id": "te:markets:557131",
+      "time": "2026-06-08 12:39:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Starts Week at 9-Week Low — India’s BSE Sensex dropped about 0.9% to 73,585 at Monday’s open, hitting its lowest level since April 2, as investors reacted to a sharp rise in crude oil prices and a broader risk-off mood across Asian markets. Stronger-than-expected US economic data also fueled worries that the Federal Reserve could keep interest rates higher for longer, adding pressure on emerging-market assets. Meanwhile, support emerged from the Reserve Bank of India’s latest measures aimed at attracting foreign capital inflows. The central bank announced steps to encourage non-resident deposits and external commercial borrowings, helping lift the rupee and government bonds. The downturn was led by losses in technology and financial stocks. Among individual stocks, notable decliners were HSCL, Wipro, MTAR, IFCI, GE Vernova, and E2E Networks, losing between 4.4% and 5.1%. On the upside, EMS (+14%), Thomas Cook (+10.2%), and NRB Bearings (+7.8%) were among the top gainers."
+    },
+    {
+      "id": "mkt:019ea586-cf01-7ee0-94ca-dd018cb16ea0",
+      "time": "2026-06-08 12:38:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran fires missiles at Israel, Israeli military says】Israeli military says Iran has launched missiles at Israel and that Israeli forces are attempting to intercept them."
+    },
+    {
+      "id": "4923013",
+      "time": "2026-06-08 12:38:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：識別到從伊朗發射的更多導彈，以方正開展攔截行動。"
+    },
+    {
+      "id": "mkt:019ea585-6364-7ee0-94ca-d660a54be852",
+      "time": "2026-06-08 12:37:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "An Iranian provincial official confirmed an Israeli missile strike damaged the Karun petrochemical plant."
+    },
+    {
+      "id": "4923012",
+      "time": "2026-06-08 12:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社引述伊朗地方官員訊息：馬赫沙赫爾的卡倫石化工廠遭以色列炮彈擊中受損。"
+    },
+    {
+      "id": "4923011",
+      "time": "2026-06-08 12:36:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "據洲際交易所（ICE）資料，荷蘭近月天然氣合約上漲近5%，至50.90歐元/兆瓦時。"
+    },
+    {
+      "id": "4923010",
+      "time": "2026-06-08 12:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列再次襲擊伊朗石化設施。（法爾斯通訊社）"
+    },
     {
       "id": "mkt:019ea583-237f-7ee0-94ca-cc141cd617f1",
       "time": "2026-06-08 12:34:55",
@@ -177827,91 +177896,6 @@
         "MKT News"
       ],
       "text": "【China wheat harvest at 76.13 mln mu, 22.44% complete】The Ministry of Agriculture and Rural Affairs says mechanized wheat harvesting in China has accelerated; 76.13 mln mu (≈5.08 mln ha) — 22.44% of the crop — has been harvested. The Huang-Huai-Hai main-production region has moved into large-scale harvesting after a recent dry, sunny window. Provincial progress: Anhui over 35%, Henan over 25%, Shaanxi just over 10%, Jiangsu near 10%; Shanxi shows only scattered harvests, while Hubei and Sichuan are finishing residual harvesting."
-    },
-    {
-      "id": "mkt:019e817a-ef69-799c-966a-e63bb466b536",
-      "time": "2026-06-01 12:39:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company will launch a new generation of PC chips in tandem with each generation of its AI processors."
-    },
-    {
-      "id": "4909667",
-      "time": "2026-06-01 12:39:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：英偉達將為每一款人工智慧處理器推出新一代個人電腦晶片。"
-    },
-    {
-      "id": "4909666",
-      "time": "2026-06-01 12:38:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【印度臨時取消棉花進口關稅 紡織股走高】印度宣佈暫時取消棉花進口關稅後，Vardhman Textiles 和 Trident 領漲紡織品製造商股票。政府表示，該豁免措施將於週一生效，並持續至10月31日，以增加該行業原材料的供應。Vardhman Textiles股價上漲高達7.8%，Trident上漲5.7%，Welspun Living上漲5.8%，KPR Mill上漲4.4%，Kitex Garments上漲3.5%。"
-    },
-    {
-      "id": "4909665",
-      "time": "2026-06-01 12:38:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）將於2026年6月1日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "4909664",
-      "time": "2026-06-01 12:37:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思特奇與武漢雲簽訂合作協議 共築武漢城市算力網】據思特奇訊息，近日，思特奇與武漢雲端計算科技有限公司正式簽署合作協議，雙方將攜手共同推進武漢算力公共服務平臺升級、聯合運營及算力網終端產業佈局，打造“中部領先、全國一流”的算力運營服務體系。"
-    },
-    {
-      "id": "mkt:019e8179-4d0b-799c-966a-dd2b3bf80125",
-      "time": "2026-06-01 12:37:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Stock Exchange: INVESCO Great Wall Global Semiconductor Chip Equity Fund (QDII-LOF) temporarily suspended】Shanghai Stock Exchange said INVESCO Great Wall Global Semiconductor Chip Equity Fund (QDII-LOF) will be suspended from the start of the afternoon session on June 1, 2026 until that day's close. As of the midday close on June 1 the fund's latest secondary-market trade price was CNY 4.552; NAV per share as of May 28, 2026 was CNY 3.2876, implying roughly a 38.5% premium. Redemption will continue to be processed during the suspension."
-    },
-    {
-      "id": "4909663",
-      "time": "2026-06-01 12:37:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達美股夜盤股價上漲2.7%。"
-    },
-    {
-      "id": "4909662",
-      "time": "2026-06-01 12:37:29",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【全國人大常委會啟動職業教育法執法檢查 】為推動職業教育法全面正確有效實施，推進現代職業教育體系建設，促進職普融通、產教融合，提升職業學校關鍵辦學能力，進一步增強職業教育的適應性和吸引力，全國人大常委會6月1日啟動職業教育法執法檢查。職業教育法於1996年頒佈施行，並於2022年進行全面修訂。記者1日從全國人大常委會職業教育法執法檢查組第一次全體會議上獲悉，此次執法檢查將採取赴地方檢查與委託省級人大常委會檢查相結合的方式，提高執法檢查整體質效。6月至9月，執法檢查組赴天津、遼寧、江蘇、浙江、江西、湖南、寧夏等7個省（區、市）開展實地檢查，並委託福建、河南、四川、陝西、新疆等5個省（區）人大常委會對本行政區域內職業教育法貫徹實施情況進行檢查。檢查組將透過聽取地方政府及有關部門彙報、召開座談會、實地檢查、問卷調查、隨機抽查等方式，全面瞭解法律實施情況，找準查清法律實施中存在的主要問題。執法檢查中，將重點檢查7方面內容：法定職責落實和相關配套制度建設情況；建立現代職業教育體系情況；深化產教融合校企合作情況；推進職普融通協調發展情況；提升職業學校關鍵辦學能力情況；強化職業教育支援保障情況；法律實施中存在的問題困難和意見建議。"
-    },
-    {
-      "id": "mkt:019e8178-a13e-799c-966a-d78c6a6f31c3",
-      "time": "2026-06-01 12:37:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA names ANTHROPIC, OpenAI and SpaceX as initial Vera users; Q3 production set】NVIDIA said ANTHROPIC, OpenAI and SpaceX will be among the first large users of its upcoming data‑center microprocessor, Vera. Vera, NVIDIA’s first standalone data‑center microprocessor, is slated for full production in Q3. CEO Jensen Huang said Vera is 1.8x faster than x86‑based chips on core AI workloads. NVIDIA positions Vera to compete directly with Intel Xeon, AMD Epyc and hyperscalers’ in‑house designs such as Amazon’s Graviton."
     }
   ]
 }
