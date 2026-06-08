@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-08 21:11:50",
-  "count": 19255,
+  "updated": "2026-06-08 21:15:55",
+  "count": 19230,
   "items": [
+    {
+      "id": "4924244",
+      "time": "2026-06-08 21:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "霍尼韋爾高管在電話會議上表示，工業自動化業務的週期性需求復甦仍在持續，歐洲和亞洲市場的復甦尤為顯著。"
+    },
+    {
+      "id": "mkt:019ea75e-5139-7226-8cb5-3463d418bae6",
+      "time": "2026-06-08 21:13:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "【Intel said to be emerging as backup foundry for Google, NVIDIA】The Information reports TSMC’s capacity shortfall is prompting major AI chip designers, including Google and NVIDIA, to quietly treat Intel as an alternative foundry. NVIDIA is evaluating Intel’s advanced packaging and 18A process for future chips, and Google has reportedly ordered Intel to produce more than 3 million TPUs in 2028. Intel shares rose over 10% in US pre-market trading on the report."
+    },
+    {
+      "id": "mkt:019ea75d-d22a-7226-8cb5-2a96f6bd87b6",
+      "time": "2026-06-08 21:13:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Honglin Power primarily supplies power-cable assemblies to Dell Technologies."
+    },
+    {
+      "id": "4924243",
+      "time": "2026-06-08 21:12:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【亞美尼亞執政黨在議會選舉中領先】亞美尼亞中央選舉委員會主席霍瓦基米揚8日在首都埃裡溫舉行的新聞釋出會上宣佈，此次亞美尼亞國民會議（議會）選舉，所有投票站計票工作已經結束，初步計票結果顯示，現任總理帕什尼揚領導的公民合約黨獲得49.82%的選票，得票率第一。（新華社）"
+    },
     {
       "id": "te:economy:557310",
       "time": "2026-06-08 21:11:02",
@@ -177318,278 +177359,6 @@
         "國際"
       ],
       "text": "伊朗停止與美國談判的訊息傳出後，美國國債價格跌幅擴大。"
-    },
-    {
-      "id": "4910904",
-      "time": "2026-06-01 21:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗因黎以、加沙停火遭破壞 中止與美國間接談判】伊朗塔斯尼姆通訊社訊息：伊朗中止就黎巴嫩、加沙停火違約問題與美國開展間接談判。 伊朗談判團隊將停止透過中間人進行對話及文字往來。 此舉緣於相關地區出現多起停火協議遭違反的情況，黎巴嫩境內亦未能倖免。 伊朗官方要求以色列立即停止在加沙與黎巴嫩的軍事行動，並以以色列全面撤出黎巴嫩被佔領土作為重啟談判的前提。 據訊息稱，伊朗及抵抗陣線決意全面封鎖霍爾木茲海峽。 作為反制措施，曼德布海峽等其他航道也或將採取相關行動。"
-    },
-    {
-      "id": "4910903",
-      "time": "2026-06-01 21:15:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "彪馬股份公司股價下跌3.2%。"
-    },
-    {
-      "id": "mkt:019e8353-157f-7112-8c91-b7cd2991f0d8",
-      "time": "2026-06-01 21:15:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA quoted a Russian deputy foreign minister as saying Russia is discussing Cuba-related issues with the United States."
-    },
-    {
-      "id": "4910902",
-      "time": "2026-06-01 21:15:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "新興貨幣指數走低。"
-    },
-    {
-      "id": "te:markets:555383",
-      "time": "2026-06-01 21:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Eases for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, decreased for a second session on Monday, down 0.1% to 3,222 points, pressured by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell by 0.1% to 5,496 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, added 1 point to 2,344 points; and the supramax index edged up 1 point to 1,570 points."
-    },
-    {
-      "id": "4910901",
-      "time": "2026-06-01 21:14:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社稱，由於黎巴嫩遭受襲擊，伊朗談判團隊已停止透過調解人與美國進行資訊交換。"
-    },
-    {
-      "id": "4910900",
-      "time": "2026-06-01 21:14:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "伊朗因抗議以色列的罪行而停止與美國的資訊交流。美、布兩油短線迅速拉昇1.5美元，現貨黃金短線下挫30美元，現報4479美元/盎司。"
-    },
-    {
-      "id": "mkt:019e8352-798d-7112-8c91-afa72b391619",
-      "time": "2026-06-01 21:14:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "US equity futures turned lower across the board; STOXX Europe 600 quickly dropped 0.8%."
-    },
-    {
-      "id": "4910899",
-      "time": "2026-06-01 21:14:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "由於油價飆升至盤中高點，德國國債和英國國債跌幅擴大。"
-    },
-    {
-      "id": "4910898",
-      "time": "2026-06-01 21:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列此前宣稱已攻佔黎巴嫩南部的博福特要塞並在該地升起國旗，時隔一日，真主黨表示其武裝人員仍在該要塞周邊與以軍交戰。"
-    },
-    {
-      "id": "mkt:019e8352-0448-7112-8c91-a3c359aa06a1",
-      "time": "2026-06-01 21:14:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS reports Iran has halted information-sharing with the United States in protest of Israel's crimes."
-    },
-    {
-      "id": "4910897",
-      "time": "2026-06-01 21:14:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500 E-迷你股指期貨下跌0.1%，納斯達克100股指期貨下跌0.2%，道指期貨持平。"
-    },
-    {
-      "id": "4910896",
-      "time": "2026-06-01 21:13:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報94.88美元/桶。"
-    },
-    {
-      "id": "4910895",
-      "time": "2026-06-01 21:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【不接受干涉 墨西哥總統指責美國另有所圖】墨西哥總統克勞迪婭·辛鮑姆5月31日指責美國干涉墨西哥內政，質疑美國司法部對10名墨西哥現任及前任官員的涉毒指控及對他們的引渡請求背後是否存在其他意圖。辛鮑姆在首都墨西哥城舉行的政治集會上說：“墨西哥不接受干涉。我們是一個自由獨立的主權國家。”（新華社）"
-    },
-    {
-      "id": "4910894",
-      "time": "2026-06-01 21:13:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，伊朗談判團隊將停止“透過中介進行對話和文字交流”。"
-    },
-    {
-      "id": "mkt:019e8351-7446-7112-8c91-9a1dd1321e56",
-      "time": "2026-06-01 21:13:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "WTI and Brent crude jumped $1.50 intraday; spot gold fell $30 to $4,479/oz."
-    },
-    {
-      "id": "4910893",
-      "time": "2026-06-01 21:13:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數迅速擴大跌幅至0.8%。"
-    },
-    {
-      "id": "4910892",
-      "time": "2026-06-01 21:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國春播糧食已過九成 春播進度條重新整理】我國春播糧食麵積佔全年糧食麵積的一半以上，產量佔六成以上。農業農村部農情排程顯示，目前，全國春播糧食已過九成，出苗質量良好。5月以來，春播區光溫水較為匹配，土壤墒情適宜，東北等地搶抓有利條件加快播種進度。黑龍江、內蒙古春播作物超六成已出苗，遼寧、吉林出苗過九成，已出苗作物長勢良好，一、二類苗比例95%左右。（央視財經）"
-    },
-    {
-      "id": "mkt:019e8350-f517-7112-8c91-919117eb9c66",
-      "time": "2026-06-01 21:13:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC crude main contract intraday gain widened to 2.00%, trading at 596.50 yuan/barrel."
-    },
-    {
-      "id": "4910891",
-      "time": "2026-06-01 21:12:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌1%，現報18075.00元。"
-    },
-    {
-      "id": "4910890",
-      "time": "2026-06-01 21:12:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4480美元/盎司，日內跌1.39%。"
-    },
-    {
-      "id": "4910889",
-      "time": "2026-06-01 21:12:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨轉跌。"
-    },
-    {
-      "id": "mkt:019e8350-8510-7112-8c91-8cf2f10528c3",
-      "time": "2026-06-01 21:12:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's negotiating team will stop engaging in dialogue and text exchanges via intermediaries, according to reports."
-    },
-    {
-      "id": "4910888",
-      "time": "2026-06-01 21:12:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4510美元/盎司，日內跌1.82%。"
-    },
-    {
-      "id": "4910887",
-      "time": "2026-06-01 21:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：為保衛黎巴嫩及民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成人員傷亡的行為，抵抗運動武裝人員於 2026 年 6 月 1 日週一凌晨 1 時 30 分，使用火箭彈襲擊了敵方位於泰貝鎮的一處新指揮部。"
-    },
-    {
-      "id": "4910886",
-      "time": "2026-06-01 21:12:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨轉跌。"
-    },
-    {
-      "id": "4910885",
-      "time": "2026-06-01 21:12:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【媒體大鱷巴里·迪勒正籌劃出價收購博彩業巨頭美高梅度假村 估值超180億美元】巴里·迪勒旗下商業集團人物公司（People） 正籌備收購博彩巨頭美高梅度假村，本次交易估值超180億美元。 目前收購方案仍在最終敲定階段，存在延期或終止的可能。若交易落地，這將是迪勒對原IAC集團完成重組後，又一次重大戰略轉向。 人物公司計劃以每股48.30美元的現金價格，收購美高梅度假村剩餘73.9%的股份。 該報價較美高梅度假村上週五收盤價溢價近10.6%，較其過去90日成交量加權平均價高出30%。"
-    },
-    {
-      "id": "4910884",
-      "time": "2026-06-01 21:12:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油發言人確認內部通知：英國石油天然氣與低碳業務首席林豐源將離職。"
-    },
-    {
-      "id": "4910883",
-      "time": "2026-06-01 21:11:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "保加利亞擬上調債務上限，以發行 38 億歐元新增債券。"
     }
   ]
 }
