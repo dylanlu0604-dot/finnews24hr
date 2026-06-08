@@ -1,7 +1,456 @@
 {
-  "updated": "2026-06-08 07:56:01",
-  "count": 19206,
+  "updated": "2026-06-08 08:11:29",
+  "count": 19212,
   "items": [
+    {
+      "id": "mkt:019ea490-f019-7338-95ad-1d000c74c1b1",
+      "time": "2026-06-08 08:10:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine Seismology Bureau says post-earthquake tide and wave heights are expected to exceed normal levels by more than 1 meter."
+    },
+    {
+      "id": "mkt:019ea490-a566-7338-95ad-10d9cbc3135f",
+      "time": "2026-06-08 08:10:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 3.00% intraday to 64,309.79 points."
+    },
+    {
+      "id": "4922465",
+      "time": "2026-06-08 08:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓地震局：預計地震發生後，浪高將超出正常潮位1米以上。"
+    },
+    {
+      "id": "4922464",
+      "time": "2026-06-08 08:09:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至3869.74點。"
+    },
+    {
+      "id": "4922463",
+      "time": "2026-06-08 08:09:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門聯合印發《網路測評活動規範》】近日，國家網信辦、市場監管總局聯合印發《網路測評活動規範》（以下簡稱《規範》）。國家網信辦有關負責人表示，《規範》旨在規範網路測評活動，維護公平市場競爭秩序，保護公民、法人和其他組織合法權益。《規範》明確，從事網路測評活動，應當遵守法律、行政法規和國家有關規定，遵循商業道德、公序良俗，堅持客觀、公正、全面、準確原則。《規範》要求，從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。對食品開展檢驗檢測的，測試方應當具備相應資質，不得使用非標方法，不得測評無國家標準檢驗方法的專案。不得采取不同標準、不同方法對同類產品進行橫向、縱向比較。《規範》提出，未對產品開展測試，僅憑主觀感受對產品進行評價，應當進行說明。網站平臺要加強對網路測評資訊內容管理，及時受理處置相關投訴舉報。國家網信辦有關負責人表示，網路測評活動要對照《規範》要求，自覺規範自身行為，維護公平競爭市場秩序和第三方合法權益，維護清朗網路空間。下一步，網信部門、市場監管部門將加強對網路測評活動監管，依法查處違法違規行為。"
+    },
+    {
+      "id": "4922462",
+      "time": "2026-06-08 08:08:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國創業板市場觸發熔斷機制】韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "te:markets:557037",
+      "time": "2026-06-08 08:08:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower After Tech-Led Rout — US stock futures edged lower on Monday after Wall Street suffered a sharp selloff in the previous session, led by heavy losses in semiconductor and other technology stocks. Investors also weighed geopolitical risks after Iran launched several rounds of missiles toward Israel in a warning against further military actions in Lebanon, adding uncertainty as ceasefire efforts remain fragile and peace talks show little progress. During Friday's regular session, the tech-heavy Nasdaq Composite plunged 4.18%, marking its worst performance since April 2025, while the S&P 500 and Dow Jones fell 2.64% and 1.35%, respectively. Chipmakers were among the hardest hit, including Micron (-13.3%), Nvidia (-6.2%), Marvel (-16.7%), Advanced Micro Devices (-10.9%) and Sandisk (-11.4%). The downturn was also fueled by a stronger-than-expected May jobs report, which pushed Treasury yields higher and reinforced expectations that the Federal Reserve could raise interest rates later this year."
+    },
+    {
+      "id": "mkt:019ea48e-d11e-7338-95ad-0be96d923e41",
+      "time": "2026-06-08 08:07:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the Kosdaq market temporary suspension mechanism after Kosdaq150 index futures fell 6%, triggering a five-minute pause in program trading."
+    },
+    {
+      "id": "4922461",
+      "time": "2026-06-08 08:07:47",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美駐約旦使館要求就地避難】約旦當地時間今天（6月8日）凌晨，美國國務院通報稱，有導彈、無人機或火箭彈已進入約旦領空。美國美國駐約旦大使館提示，請立即尋找掩護並就地避難，待在室內並密切關注當地釋出的公告和警報。美國大使館表示，將繼續密切關注局勢，並根據需要提供更多資訊。"
+    },
+    {
+      "id": "mkt:019ea48d-adee-7338-95ad-049336bb3510",
+      "time": "2026-06-08 08:06:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Japan's Nikkei 225 fell back below 65,000, down 2.68% on the day."
+    },
+    {
+      "id": "4922460",
+      "time": "2026-06-08 08:06:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【日本日經225指數跌破65000點】日經225指數下跌超過2.7%，一度跌至64819.47點。"
+    },
+    {
+      "id": "4922459",
+      "time": "2026-06-08 08:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長擴大了與SK集團的合作範圍，合作領域從人工智慧超級計算機延伸至中央處理器、個人電腦和機器人技術。"
+    },
+    {
+      "id": "te:economy:557036",
+      "time": "2026-06-08 08:05:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Annualized",
+        "Importance 1"
+      ],
+      "text": "Japan Economy Expands at Annualized 1.8% in Q1 — Japan’s economy grew at an annualized rate of 1.8% in Q1 2026, below the preliminary estimate of 2.1% but above market expectations of 1.3%. The pace also accelerated from a downwardly revised 0.7% expansion in Q4, marking the strongest annualized growth in four quarters."
+    },
+    {
+      "id": "mkt:019ea48c-67e4-7338-95ac-fd0e8a4f3925",
+      "time": "2026-06-08 08:05:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia issues tsunami warning for northeast coastal areas."
+    },
+    {
+      "id": "4922458",
+      "time": "2026-06-08 08:05:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家網信辦、市場監管總局聯合印發《網路測評活動規範》】近日，國家網信辦、市場監管總局聯合印發《網路測評活動規範》（以下簡稱《規範》）。國家網信辦有關負責人表示，《規範》旨在規範網路測評活動，維護公平市場競爭秩序，保護公民、法人和其他組織合法權益。《規範》明確，從事網路測評活動，應當遵守法律、行政法規和國家有關規定，遵循商業道德、公序良俗，堅持客觀、公正、全面、準確原則。《規範》要求，從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。對食品開展檢驗檢測的，測試方應當具備相應資質，不得使用非標方法，不得測評無國家標準檢驗方法的專案。不得采取不同標準、不同方法對同類產品進行橫向、縱向比較。《規範》提出，未對產品開展測試，僅憑主觀感受對產品進行評價，應當進行說明。網站平臺要加強對網路測評資訊內容管理，及時受理處置相關投訴舉報。"
+    },
+    {
+      "id": "4922457",
+      "time": "2026-06-08 08:05:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達執行長：已與SK海力士達成長期協議；沒有哪個國家在機器人產業的準備比韓國更充分。"
+    },
+    {
+      "id": "mkt:019ea48c-0757-7338-95ac-f533d12485e0",
+      "time": "2026-06-08 08:04:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc said it measured a magnitude 7.9 earthquake in the Philippine Islands region at 07:37 on June 8, with a hypocenter depth of 40 km."
+    },
+    {
+      "id": "mkt:019ea48b-de39-7338-95ac-e84393c9c50e",
+      "time": "2026-06-08 08:04:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said South Korea's readiness in robotics technology is unparalleled."
+    },
+    {
+      "id": "4922456",
+      "time": "2026-06-08 08:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞地球物理局：已對印度尼西亞東北部沿海地區釋出海嘯預警。"
+    },
+    {
+      "id": "mkt:019ea48b-ad24-7338-95ac-e19d6e096916",
+      "time": "2026-06-08 08:04:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said NVIDIA has reached a long-term agreement with SK Hynix."
+    },
+    {
+      "id": "4922455",
+      "time": "2026-06-08 08:04:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國KOSPI指數大跌觸發熔斷機制 交易暫停】韓國交易所因KOSPI指數跌幅達8%觸發熔斷機制，交易暫停20分鐘。"
+    },
+    {
+      "id": "mkt:019ea48b-4306-7338-95ac-da2c7515ef85",
+      "time": "2026-06-08 08:04:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Korea Exchange triggered a market-wide circuit breaker after the KOSPI fell 8%, suspending trading for 20 minutes."
+    },
+    {
+      "id": "4922454",
+      "time": "2026-06-08 08:03:44",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國KOSPI指數大跌8.8% 三星和SK海力士領跌】韓國首爾股市綜合股價指數（KOSPI）下跌超8%，報7445.1點。三星電子股價下跌10%。SK海力士股價下跌11%。"
+    },
+    {
+      "id": "mkt:019ea48a-ced7-7338-95ac-d65eb37822f4",
+      "time": "2026-06-08 08:03:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said its AI business is already profitable."
+    },
+    {
+      "id": "mkt:019ea48a-a4bf-7338-95ac-ce18180fdd32",
+      "time": "2026-06-08 08:03:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "000660.KS",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said SK is NVIDIA's largest memory partner and that the two have established a significant, long-term partnership."
+    },
+    {
+      "id": "4922453",
+      "time": "2026-06-08 08:03:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌10%。"
+    },
+    {
+      "id": "4922452",
+      "time": "2026-06-08 08:03:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌11%."
+    },
+    {
+      "id": "mkt:019ea48a-3791-7338-95ac-c3002f07e5ca",
+      "time": "2026-06-08 08:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI early losses widened to 8.4%; Samsung and SK Hynix each down 10%."
+    },
+    {
+      "id": "4922451",
+      "time": "2026-06-08 08:02:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.7%至268.84點。"
+    },
+    {
+      "id": "4922450",
+      "time": "2026-06-08 08:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：06月08日07時37分在菲律賓群島地區（北緯5.55度，東經125.10度）發生7.9級地震，震源深度40千米。"
+    },
+    {
+      "id": "4922449",
+      "time": "2026-06-08 08:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：SK海力士是我們最大的儲存晶片合作伙伴。"
+    },
+    {
+      "id": "4922448",
+      "time": "2026-06-08 08:02:11",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：預計二季度保險公司業績表現搶眼 保險板塊正處於長期機遇期中的重要配置視窗】中信證券指出，資產端，債券收益率曲線陡峭化帶來無風險配置機會，股市調整提供高股息資產的加倉視窗；負債端，銀保市場與高客市場構成核心增量，頭部險企資產負債表擴張具有高盈利確定性。未來三到五年，投資能力將形成市場口碑並拉動保單銷售，而養老、醫療、護理等低頻剛需服務將成為大型險企真實的核心競爭力與準公用事業壁壘。隨著2026年二季度創業板大漲，滬深300企穩向上，預計二季度保險公司業績表現搶眼，保險板塊正處於長期機遇期中的重要配置視窗。"
+    },
+    {
+      "id": "4922447",
+      "time": "2026-06-08 08:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經波動率指數升至40以上，為自4月7日以來的首次。"
+    },
+    {
+      "id": "mkt:019ea489-3d96-7338-95ac-bff7cecd37a0",
+      "time": "2026-06-08 08:01:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks open lower】Japan's Nikkei 225 opened down 604.51 pts (-0.91%) at 65,983.61 on Monday, June 8. South Korea's KOSPI opened down 120.21 pts (-1.47%) at 8,040.38. The moves follow a more than 4% drop in the U.S. Nasdaq on Friday."
+    },
+    {
+      "id": "4922446",
+      "time": "2026-06-08 08:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：協議暫未達成是因為伊朗“實力不俗”且“態度強硬”】特朗普總統表示，伊朗目前尚未同意達成停戰協議，原因是伊朗“實力不俗”且“態度強硬”，同時民族自尊心較強，但他也指出，伊朗最終“別無選擇”，只能接受談判締約。 這段採訪錄製於週五，完整內容於週日上午播出。特朗普在採訪中稱：“他們實力強勁、自尊心強，有些事他們原本絕不願做，但如今不得不妥協。” 他補充道：“他們沒有別的選擇，只是談判還需要一些時間。”"
+    },
+    {
+      "id": "4922445",
+      "time": "2026-06-08 08:01:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國公佈提振貨幣措施，韓元兌美元上漲0.3%。"
+    },
+    {
+      "id": "4922444",
+      "time": "2026-06-08 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.4%，至8048.09點。"
+    },
+    {
+      "id": "4922443",
+      "time": "2026-06-08 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65947.56點，跌幅0.96%。"
+    },
+    {
+      "id": "te:economy:557035",
+      "time": "2026-06-08 07:59:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Confirms Faster Q1 GDP Growth — Japan’s GDP expanded by 0.5% qoq in Q1 2026, matching flash data and accelerating from a 0.2% increase in Q4. The latest result was also above market estimates of a 0.3% growth, marking the strongest quarterly expansion since Q1 2025."
+    },
+    {
+      "id": "4922442",
+      "time": "2026-06-08 07:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所週一表示，已召開緊急會議，評估不斷上升的市場波動，並討論確保市場穩定執行的措施。"
+    },
+    {
+      "id": "te:economy:557034",
+      "time": "2026-06-08 07:59:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Strongest Since 2021 — Japan’s bank lending rose 5.7% year-on-year in May 2026, exceeding market forecasts for a 5.6% increase and accelerating from a 5.4% gain in the previous month. The latest figure also marked the fastest growth since March 2021, with the total outstanding loans at major, regional, and shinkin banks reaching JPY 670.8 trillion. Major banks continued to drive lending growth, with outstanding loans rising 8.7% year-on-year, up from 7.9% in April. Lending by regional banks also increased 4.3%, slightly faster than 4.2% in the previous month, as Regional Banks I accelerated to 4.7% from 4.5%, while Regional Banks II slowed to 2.4% from 3.0%. Shinkin banks, which mainly serve small businesses and local communities, also saw lending growth pick up to 1.7% from 1.5%."
+    },
+    {
+      "id": "4922441",
+      "time": "2026-06-08 07:58:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "開山股份表示，其美國子公司Open Mountain Energy將與Power Planet Inc合作開發增強型地熱系統。"
+    },
+    {
+      "id": "4922440",
+      "time": "2026-06-08 07:57:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐耶路撒冷大使館和特拉維夫領事處週一關閉。"
+    },
+    {
+      "id": "mkt:019ea485-3cab-7338-95ac-b44a2fe08a00",
+      "time": "2026-06-08 07:57:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine authorities issued a tsunami warning, urging residents in affected areas to evacuate immediately to inland high ground."
+    },
+    {
+      "id": "4922439",
+      "time": "2026-06-08 07:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列耶路撒冷大使館於8日關閉。"
+    },
+    {
+      "id": "4922438",
+      "time": "2026-06-08 07:55:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4370美元/盎司，日內漲0.11%。"
+    },
     {
       "id": "4922437",
       "time": "2026-06-08 07:54:57",
@@ -28,6 +477,14 @@
       "text": "The U.S. State Department said reports show missiles, drones or rockets entered Jordanian airspace."
     },
     {
+      "id": "mkt:019ea482-c652-7ee0-86d6-1152af880189",
+      "time": "2026-06-08 07:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department said reports show missiles, drones or rockets entered Jordanian airspace."
+    },
+    {
       "id": "4922435",
       "time": "2026-06-08 07:54:36",
       "tags": [
@@ -37,6 +494,15 @@
     },
     {
       "id": "mkt:4c542717-5743-4b22-b70f-6fec37df4045",
+      "time": "2026-06-08 07:54:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "07:37 on June 8, 2026 — An 8.1 magnitude earthquake struck in waters off Mindanao, Philippines, at a focal depth of 15 km, the National Marine Environmental Forecasting Center said. The Ministry of Natural Resources' Tsunami Warning Center said the quake could generate a large tsunami near the epicenter but is not expected to cause destructive impact to China's coastline; the center will continue to monitor and issue updates."
+    },
+    {
+      "id": "mkt:019ea482-aafa-7ee0-86d6-08921bd359f9",
       "time": "2026-06-08 07:54:23",
       "tags": [
         "MKT News",
@@ -176841,411 +177307,6 @@
         "國際"
       ],
       "text": "【今日起我國全面進入汛期，南方地區進入主汛期】6月1日起，我國全面進入汛期，南方地區進入主汛期。據預報，6月份，東北北部、江南東部、華南、西南東南部等地降水偏多1～2成；華北南部、西北北部和中東部、黃淮、江淮大部等地降水偏少1～2成；其餘地區降水接近常年。長江中游洞庭湖、鄱陽湖水系部分主要河流，珠江流域西江、韓江，浙江錢塘江及福建閩江等河流可能發生超警洪水。"
-    },
-    {
-      "id": "mkt:019e8084-8540-7777-bd26-a9dc7e2c4b52",
-      "time": "2026-06-01 08:10:28",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics shares rose over 3% intraday to a record high of KRW 328,000."
-    },
-    {
-      "id": "4909222",
-      "time": "2026-06-01 08:10:27",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國出口保持強勁勢頭 對央行鷹派立場構成支撐】韓國5月出口延續強勁勢頭，進一步鞏固央行日益鷹派的立場，半導體需求持續旺盛，在地緣政治和通脹風險上升之際仍支撐著經濟增長。海關部門週一表示，經工作日差異調整後，5月份出口額較上年同期增長60.7%。進口額增長20.8%，貿易順差為269億美元。未經調整的資料顯示，上月出口增長53.2%，而4月修正後的增幅為48%。半導體再次引領漲勢，這得益於與人工智慧和資料中心相關的強勁全球投資。最新資料顯示，韓國經濟持續走強。在2025年底萎縮後，韓國經濟在今年年初強勁反彈。第一季度國內生產總值環比增長1.7%，為2020年以來最快增速，受半導體出口增長和商業投資的推動。"
-    },
-    {
-      "id": "4909221",
-      "time": "2026-06-01 08:09:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上漲2個基點，報2.675%。"
-    },
-    {
-      "id": "te:economy:555101",
-      "time": "2026-06-01 08:08:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Korea Posts Record-High Trade Surplus — South Korea’s trade surplus surged to USD 26.95 billion in May 2026, up from USD 6.93 billion in the same month a year earlier, surpassing market expectations of a USD 24.3 billion surplus and marking a 16th consecutive month in the black and the largest surplus on record, flash data showed. Exports jumped 53.2% year-on-year, beating market forecasts of 48.4% and accelerating from a 48.0% rise in April, mainly driven by a surge in semiconductor exports. Meanwhile, imports increased 20.8%, softer than expectations of 21.5% but accelerating from 16.7% growth in April, marking a seventh consecutive month of expansion and supported by resilient domestic demand."
-    },
-    {
-      "id": "4909220",
-      "time": "2026-06-01 08:07:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "首爾股市綜合股價指數（KOSPI）創下歷史新高。"
-    },
-    {
-      "id": "4909219",
-      "time": "2026-06-01 08:06:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲超3%，創歷史新高。"
-    },
-    {
-      "id": "mkt:019e8081-20c9-7777-bd26-a7117f145544",
-      "time": "2026-06-01 08:06:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 fell 0.3% in early trade to 8,707.20 points."
-    },
-    {
-      "id": "4909218",
-      "time": "2026-06-01 08:06:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價上漲6%。"
-    },
-    {
-      "id": "4909217",
-      "time": "2026-06-01 08:06:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.3%，報8707.20點。"
-    },
-    {
-      "id": "mkt:019e8080-78a8-7777-bd26-98ff6094360f",
-      "time": "2026-06-01 08:06:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "9984.T"
-      ],
-      "text": "【Japan, South Korea stocks hit record highs】South Korea's KOSPI extended early gains to 1.0%, while Japan's Nikkei 225 rose 0.36%; both reached record highs. SoftBank Group shares gained 6%."
-    },
-    {
-      "id": "te:markets:555100",
-      "time": "2026-06-01 08:05:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BHP Group Stock Price Hits All-time High — BHP Group shares increased to an all-time high of 62.74 AUD. Over the past 4 weeks, BHP Group gained 14.18%, and in the last 12 months, it increased 66.07%."
-    },
-    {
-      "id": "te:economy:555099",
-      "time": "2026-06-01 08:04:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Import Growth Below Estimates — South Korea’s imports rose 20.8% year-on-year in May 2026, accelerating from a 16.7% growth in the previous month but falling short of market forecasts of 21.5%, according to flash data. The latest result marked a seventh straight month of increase in purchases and the strongest pace since August 2022, signaling robust domestic demand even as trade flow disruptions tied to the Middle East conflict lingered."
-    },
-    {
-      "id": "4909216",
-      "time": "2026-06-01 08:04:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "軟銀股價上漲4.6%；宣佈法國資料中心計劃。"
-    },
-    {
-      "id": "4909215",
-      "time": "2026-06-01 08:03:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經平均股價指數升至歷史新高。"
-    },
-    {
-      "id": "4909214",
-      "time": "2026-06-01 08:03:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月出口創1984年1月以來最大同比增幅。韓國5月出口額較上年同期增長53.2%，至877.5億美元；預期增長50.8%。"
-    },
-    {
-      "id": "mkt:019e807d-71d0-700f-a382-004460e97a3e",
-      "time": "2026-06-01 08:02:38",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "066570.KS"
-      ],
-      "text": "South Korea's KOSPI was up 0.5% in early trade; Samsung Electronics rose 2.5% and LG Electronics jumped 28%."
-    },
-    {
-      "id": "mkt:019e807d-58e9-700f-a381-fada419ec891",
-      "time": "2026-06-01 08:02:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【China International Capital Co: Domestic tungsten prices poised to stabilise and rebound after sharp fall; global tungsten leaders gain allocation appeal】China International Capital Co says rising strategic and emerging demand plus persistent supply tightness mean domestic tungsten prices, after a sharp short-term drop, are likely to stabilise and rebound. Supply: domestic output remains tight; Kazakhstan and South Korea may add incremental supply while European upside is increasingly uncertain. Inventories: China’s tungsten stocks rose QoQ in 1Q26 but the increase was limited; overseas restocking demand remains urgent. Outlook: China International Capital Co expects a global tungsten supply–demand deficit of 23,000/24,000/24,000/25,000 tonnes in 2026–2029, equivalent to 14.6%/14.8%/13.9%/14.3% of global tungsten consumption (primary + recycled). The report flags rising allocation appeal of leading global tungsten producers."
-    },
-    {
-      "id": "4909213",
-      "time": "2026-06-01 08:02:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【截至2025年底 全國共有少先隊員1.12億名】今天（6月1日），全國少工委釋出中國少年先鋒隊統計主要資料，截至2025年12月31日，全國共有少先隊員1.12億名，中小學校少先隊大、中隊輔導員298.9萬名。中小學校少工委17.2萬個、少先隊大隊17.2萬個、中隊282.8萬個。"
-    },
-    {
-      "id": "4909212",
-      "time": "2026-06-01 08:01:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌0.1%。"
-    },
-    {
-      "id": "mkt:019e807c-83d2-700f-a381-f7d14e06e74c",
-      "time": "2026-06-01 08:01:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's May trade balance posted the largest single-month surplus on record."
-    },
-    {
-      "id": "4909211",
-      "time": "2026-06-01 08:01:29",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【韓國5月貿易順差創單月歷史新高】韓國5月份進口額同比增長20.8%，市場預期為21.5%。韓國5月貿易賬初值為順差269.5億美元，4月為順差237.5億美元。"
-    },
-    {
-      "id": "mkt:019e807c-2dfb-700f-a381-eb01d538f7fa",
-      "time": "2026-06-01 08:01:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 index opened 23.67 points higher, or 0.04%, at 66,353.17 on Monday, June 1."
-    },
-    {
-      "id": "mkt:019e807c-2cbc-700f-a381-e5370aa2e510",
-      "time": "2026-06-01 08:01:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI opened 19.93 points higher (0.24%) at 8,496.08 on Monday, June 1."
-    },
-    {
-      "id": "mkt:019e807c-24bb-700f-a381-dded5f1da971",
-      "time": "2026-06-01 08:01:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs raises its 2027 average LME copper price forecast to $13,800/tonne."
-    },
-    {
-      "id": "4909210",
-      "time": "2026-06-01 08:00:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市開盤】日經225指數6月1日（週一）開盤上漲23.67點，漲幅0.04%，報66353.17點。韓國綜合股價指數（KOSPI）開盤上漲0.1％，至8485.67點。"
-    },
-    {
-      "id": "te:economy:555098",
-      "time": "2026-06-01 08:00:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Private Investment",
-        "Importance 2"
-      ],
-      "text": "Japan Q1 Capital Spending Stalls — Japanese companies' spending on plant and equipment was unchanged from a year earlier in Q1 2026, following a 6.5% increase in the previous quarter. The flat reading ended a four-quarter streak of growth in capital expenditure, reflecting a moderation in business investment momentum."
-    },
-    {
-      "id": "mkt:019e807b-3e13-700f-a381-d44c89dcaee8",
-      "time": "2026-06-01 08:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea preliminary May trade surplus $26.95bn vs. $24.30bn expected; April surplus revised to $23.755bn from $23.771bn."
-    },
-    {
-      "id": "mkt:019e807b-3c78-700f-a381-cfe5bac982df",
-      "time": "2026-06-01 08:00:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Copper",
-        "Impact bullish",
-        "S&P500",
-        "Nikkei 225"
-      ],
-      "text": "South Korea May exports YoY 53.2% (consensus 48.4%, prior 48.0%)."
-    },
-    {
-      "id": "mkt:019e807b-3bba-700f-a381-c65b515f1b8e",
-      "time": "2026-06-01 08:00:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea May imports YoY 20.8% vs. 21.5% expected; prior 16.7%."
-    },
-    {
-      "id": "mkt:019e807b-3bb2-700f-a381-bf8c65a23da2",
-      "time": "2026-06-01 08:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs raised its end-2026 LME copper price forecast to $13,735 per tonne."
-    },
-    {
-      "id": "mkt:019e807a-ee4e-700f-a381-b7fd1d17d5b5",
-      "time": "2026-06-01 08:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Trade Balance Flash (May) | actual 26950000000B | consensus 24300000000B | previous 23771000000B"
-    },
-    {
-      "id": "mkt:019e807a-ee18-700f-a381-acc38cc88e2a",
-      "time": "2026-06-01 08:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Exports (YoY) (May) | actual 53.2% | consensus 48.4% | previous 48.00%"
-    },
-    {
-      "id": "mkt:019e807a-edf5-700f-a381-a246736b3928",
-      "time": "2026-06-01 08:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Imports (YoY) (May) | actual 20.8% | consensus 21.5% | previous 16.70%"
-    },
-    {
-      "id": "4909209",
-      "time": "2026-06-01 07:59:51",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金：鎢的新興需求及戰略屬性日益增強 鎢價有望企穩回升】中金公司研報指出，2025年鎢價行情啟動，國內鎢精礦價格自14.2萬元/噸上漲至年底45.6萬元/噸，累計+221%。進入2026年，國內鎢價加速向上，在3月中一度突破100萬元/噸。但是，今年2月中東衝突以來，霍爾木茲海峽通行受阻、交戰雙方互相攻擊能源設施引發油價超預期上漲，加劇全球經濟滯脹恐慌。這導致此前本就過快上漲的國內鎢價迎來逆轉，產業鏈出現拋售潮，下游觀望情緒加重。今年5月國內白鎢精礦價格下探至40.6萬元/噸年內低點，較3月高點-61%。截至5月29日，國內鎢價達41.6萬元/噸，已現企穩回升跡象。研報認為，考慮鎢的新興需求及戰略屬性日益增強，供給偏緊格局不變，國內鎢價在短期大跌之後有望企穩回升，全球鎢業龍頭標的配置吸引力日益凸顯。"
-    },
-    {
-      "id": "4909208",
-      "time": "2026-06-01 07:59:44",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將2026年末倫敦金屬交易所銅價預測上調至每噸13735美元。"
-    },
-    {
-      "id": "4909207",
-      "time": "2026-06-01 07:59:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商證券：高階電子布漲價預期充分 持續關注龍頭企業】招商證券研報稱，AI電子布需求高增，高階供給釋放受限，結構性缺口長存。需求端，電子紗/布需求升級核心在於AI算力與高頻通訊的雙重拉動。供給端，高階電子布核心瓶頸在於高階織布機（如豐田JAT910）交付週期長達18—24個月，短期難以突破，高階電子布缺口仍存。龍頭企業聚焦高階產能擴張，有助於鞏固全球話語權。頭部企業密集加碼電子紗/布產能，重點佈局高階領域。"
-    },
-    {
-      "id": "4909206",
-      "time": "2026-06-01 07:58:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京今日8時上汛】北京防汛抗旱指揮部令：全市於2026年6月1日8時上汛。"
-    },
-    {
-      "id": "4909205",
-      "time": "2026-06-01 07:57:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【券商陸續釋出6月金股組合 電子板塊最受青睞】近日，各家券商陸續釋出6月金股組合。從行業維度來看，電子板塊最受機構青睞，獲薦個股數量排名第一；機械裝置、電力裝置板塊也收穫較多關注。個股方面，寧德時代、中芯國際得到多家券商聯合推薦。對於6月市場走勢，多家券商策略團隊認為，科技賽道仍是中期主線，但短期動量或有所降溫。建議均衡配置倉位、落袋部分收益，同時可佈局紅利、消費等板塊。"
-    },
-    {
-      "id": "4909204",
-      "time": "2026-06-01 07:57:22",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【光大證券：持續看好鋰電材料板塊景氣度修復】光大證券研報表示，2025年下半年以來，碳酸鋰價格持續上漲，成本端推動疊加供需端改善，六氟磷酸鋰、隔膜、電解液等鋰電材料價格迎來了不同幅度的上漲。在前期鋰電材料景氣低位的情形下，頭部企業擴張速度有所減緩，同時考慮到下游需求持續提升，鋰電材料供給格局有望得到最佳化。此外，行業政策以及技術迭代等因素也將促使鋰電材料頭部企業份額的進一步提升。在碳酸鋰價格大幅上漲，六氟磷酸鋰、隔膜等鋰電材料新增產能大幅減少的背景下，持續看好鋰電材料板塊景氣度修復。"
-    },
-    {
-      "id": "4909203",
-      "time": "2026-06-01 07:57:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中指研究院：5月百城二手房價格跌幅收窄 重點城市成交保持活躍】中指研究院發文稱，根據中國房地產指數系統百城價格指數對全國100個城市新建、二手住宅銷售市場及50個城市租賃市場的調查資料：2026年5月，二手房市場保持較高活躍度，熱度持續性強於往年同期，百城二手住宅均價為12692元/平方米，環比下跌0.32%，跌幅較上月收窄0.14個百分點，同比下跌7.99%，較上月收窄0.35個百分點。核心城市中，上海二手房價格已連續3個月上漲。市場趨勢方面，隨著年中銷售節點來臨，重點城市優質專案推盤節奏及房企營銷力度均有望加大，核心城市新房銷售或延續溫和修復態勢，但城市間、專案間的分化格局將進一步凸顯。年中二手房成交量有望保持平穩，在掛牌量逐步回落的背景下，價格跌幅預計維持在窄幅區間。"
-    },
-    {
-      "id": "4909202",
-      "time": "2026-06-01 07:56:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大金重工：與挪威、希臘船東簽署3億美元船舶建造合同】大金重工6月1日公告，近日，公司及下屬子公司唐山大金海工海洋工程有限公司，與希臘某船東、挪威某船東各簽署了兩份散貨船建造合同，公司將為前述兩家船東設計、建造、交付合計4艘211,000DWT（載重噸）的散貨船，每艘船總長約299.95米、型寬約50米、型深約25米。以上4艘船舶建造合同的總金額約3億美元（摺合人民幣約20.5億元）。上述船舶訂單將於2029年分批交付。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606013755262577",
-      "time": "2026-06-01 07:56:07",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲官員頻頻發聲 年內加息預期升溫】儘管目前市場預計美聯儲在6月即將舉行的貨幣政策會議上仍可能按兵不動，但美聯儲官員近期頻頻發聲，認為有必要採取措施來穩定通脹預期。未來一段時間，加息預期仍難消散。"
     }
   ]
 }
