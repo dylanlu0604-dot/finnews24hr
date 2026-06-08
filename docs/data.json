@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-09 03:02:55",
-  "count": 19229,
+  "updated": "2026-06-09 03:06:46",
+  "count": 19230,
   "items": [
+    {
+      "id": "4924632",
+      "time": "2026-06-09 03:05:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓元脫離2009年以來最低位】週一（6月8日），韓元兌美元最終漲2%，報1526.98韓元，全天持續上揚。上週五（非農日）曾跌至1562.29韓元，創2009年3月以來最低位。"
+    },
+    {
+      "id": "4924631",
+      "time": "2026-06-09 03:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：執董會批准向盧安達提供 2.5 億美元擴充套件信貸安排，並當即撥付 3570 萬美元。"
+    },
+    {
+      "id": "mkt:019ea89e-6c85-733a-9234-9e694bfaeb94",
+      "time": "2026-06-09 03:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Executive Board approved Rwanda's request to extend its credit arrangements."
+    },
+    {
+      "id": "mkt:019ea89e-349b-733a-9234-9796524a682f",
+      "time": "2026-06-09 03:03:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports Iranian officials said Tehran \"has no problem\" holding talks with the US, but that Washington must change its behavior."
+    },
+    {
+      "id": "4924630",
+      "time": "2026-06-09 03:03:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7842元，較上週五夜盤收盤漲36點。成交量467.76億美元。"
+    },
+    {
+      "id": "mkt:019ea89d-59b6-733a-9234-8c442a9e5f34",
+      "time": "2026-06-09 03:02:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing sources, said Ukrainian President Zelenskiy spoke by phone on Monday with Witkoff and Kushner."
+    },
     {
       "id": "mkt:019ea89c-eb6c-733a-9234-86e2215c3c65",
       "time": "2026-06-09 03:01:56",
@@ -177238,50 +177287,6 @@
         "其他"
       ],
       "text": "丹麥首相梅特·弗雷澤裡克森已組建新一屆政府。"
-    },
-    {
-      "id": "4911258",
-      "time": "2026-06-02 03:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方通報，當日早些時候黎巴嫩真主黨在黎巴嫩南部發起無人機襲擊，造成一名以軍軍醫陣亡、另有七名士兵受傷。"
-    },
-    {
-      "id": "4911257",
-      "time": "2026-06-02 03:06:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部表示，4月用於生產燃料乙醇的玉米用量為4.277億蒲式耳，高於去年同期的4.232億蒲式耳。"
-    },
-    {
-      "id": "mkt:019e8494-51a8-7993-96f8-fbf1d589d0e0",
-      "time": "2026-06-02 03:06:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israel's defense minister KATZ said Trump had adopted Israel's position that firing on Israeli settlements would mean Beirut would be bombed, and that was the meaning of his remark."
-    },
-    {
-      "id": "4911256",
-      "time": "2026-06-02 03:06:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部表示，4月美國蒸餾幹穀物可溶物（DDGS）產量為161.2萬噸，較去年同期的163萬噸有所下降。"
-    },
-    {
-      "id": "4911255",
-      "time": "2026-06-02 03:04:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀：資產支援證券、商業地產抵押證券利差優勢突出，成結構化品類優選。"
     }
   ]
 }
