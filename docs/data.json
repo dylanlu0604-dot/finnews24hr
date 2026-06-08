@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-08 10:14:57",
-  "count": 19260,
+  "updated": "2026-06-08 10:18:45",
+  "count": 19255,
   "items": [
+    {
+      "id": "4922752",
+      "time": "2026-06-08 10:18:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊跌幅收窄，華正新材觸及漲停】元件板塊跌幅收窄，華正新材觸及漲停，金安國紀此前漲停，麥捷科技、格利爾、寶鼎科技、鵬鼎控股、順絡電子跟漲。"
+    },
+    {
+      "id": "4922751",
+      "time": "2026-06-08 10:18:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：正與LG就電機、人形機器人、資料中心業務展開合作。"
+    },
+    {
+      "id": "4922750",
+      "time": "2026-06-08 10:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "道達爾能源與日本能源（ENEOS）延續和塞雷斯（CERES）的太陽能合作關係。"
+    },
+    {
+      "id": "4922749",
+      "time": "2026-06-08 10:17:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股票指數收回早盤跌幅，最新持平，報5941.21點。"
+    },
+    {
+      "id": "mkt:019ea504-2daf-7ee0-94c8-571b10144a05",
+      "time": "2026-06-08 10:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA (Islamic Republic News Agency) reports that, so far, Israeli strikes have not targeted Tehran's urban area."
+    },
+    {
+      "id": "mkt:019ea504-1b35-7ee0-94c8-496614b7c030",
+      "time": "2026-06-08 10:16:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share PCB sector rebounds: Beisite up >12%, Jin'an Guoji hits limit-up, Huazheng New Materials up >9%; Baoding Technology, Lifang Holdings, Zecheng Electronics and Pengding Holdings also gained."
+    },
+    {
+      "id": "4922748",
+      "time": "2026-06-08 10:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤微幅波動，報 1838.90 點。"
+    },
+    {
+      "id": "4922747",
+      "time": "2026-06-08 10:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Seesaw咖啡被申請破產】近日，記者查詢發現，精品咖啡品牌Seesaw的運營主體上海西舍咖啡有限公司新增多例破產審查案件，申請人分別是上海琉璃工房玻璃藝術品有限公司與上海瑪露實業有限公司。申請人均以上海西舍咖啡有限公司不能清償到期債務且明顯缺乏清償能力為由，向法院申請對上海西舍咖啡有限公司進行破產清算。"
+    },
+    {
+      "id": "te:markets:557088",
+      "time": "2026-06-08 10:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Rises by 0.59% — Top currency gainer is South Korean Won (0.59%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
+    },
+    {
+      "id": "te:markets:557086",
+      "time": "2026-06-08 10:14:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Fall as Global Tech Rout Deepens — Asian equity markets moved sharply lower on Monday, led by South Korea’s benchmark KOSPI Index, which plunged as much as 8.8%, as investors reacted to a tech-driven selloff on Wall Street that heavily impacted semiconductor and artificial intelligence-related stocks. Stronger-than-expected US jobs data further weighed on sentiment by reinforcing expectations that the Federal Reserve will raise interest rates later this year, pushing Treasury yields higher and reducing the appeal of equities. Meanwhile, geopolitical tensions intensified after Iran launched several rounds of missiles toward Israel as a warning against further military actions in Lebanon, raising concerns over the stability of a fragile ceasefire as peace talks remain stalled. Other major regional markets also came under pressure, with shares in Australia, Japan, China, and Hong Kong posting significant declines."
+    },
+    {
+      "id": "4922746",
+      "time": "2026-06-08 10:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼3處監測點記錄到海嘯波】今天（6月8日），印尼氣象、氣候和地球物理局舉行影片釋出會表示，菲律賓發生強烈地震後，印尼已對北部17個地區釋出海嘯預警。截至目前，相關地區未報告人員傷亡和財產損失。監測資料顯示，印尼境內3處監測點記錄到9釐米至18釐米高的海嘯波。該機構呼籲沿海地區居民遠離海岸，並關注最新預警資訊。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ea502-b468-7ee0-94c8-47d54353905f",
       "time": "2026-06-08 10:14:38",
@@ -177546,162 +177644,6 @@
         "公司"
       ],
       "text": "【梁建章：未來5年將投入150億元進行入境遊宣傳，引入2億入境遊客】攜程集團聯合創始人、董事局主席梁建章6月1日表示，中國入境遊在人文歷史、基礎設施、高價效比和科技等方面都具有優勢，未來5年將在入境遊品牌宣傳方面投入150億元，包括廣告代言、線下營銷等。未來5年，攜程希望引入2億全球入境遊客。影視演員成龍成為攜程集團中國旅遊推廣大使，成龍表示，隨著免籤國家越來越多，希望全球遊客都來體驗真實的中國，而不僅僅是在網路上。（第一財經）"
-    },
-    {
-      "id": "4909454",
-      "time": "2026-06-01 10:18:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委舉辦中央企業新能源汽車領域人才特訓班】5月28日，國務院國資委舉辦的中央企業新能源汽車領域人才特訓班在清華大學開班，國務院國資委黨委委員、副主任譚作鈞出席開班式並講話。譚作鈞強調，緊扣新能源汽車電動化、智慧化、AI化發展趨勢，加快推進組織進步和急需緊缺人才培養，厚植人才底蘊，為企業轉型升級提供堅實人才保證。要堅持問題導向，聚焦培訓目標，精心組織實施，著力提升技術領軍人才的產業發展方向把握能力、關鍵核心技術創新能力、產業生態協同組織能力，著力提升營銷領軍人才的使用者洞察能力、數字營銷能力和海外市場拓展能力，特別是要培養一批精通“AI+新能源汽車”人才，提升AI定義汽車的能力和應用AI技術賦能先進製造的能力。本次特訓班是國務院國資委2026年戰略性新興產業和未來產業急需緊缺人才特訓的第4個班，由中國一汽、東風汽車、中國長安汽車承辦，分設產業領軍人才、營銷領軍人才、“AI+新能源汽車”3個專題，共有來自23家央國企的183名學員參訓。國務院國資委有關廳局負責同志、有關中央企業分管負責同志參加開班式。(國務院國有資產監督管理委員會)"
-    },
-    {
-      "id": "4909453",
-      "time": "2026-06-01 10:18:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止10:18，兩市100只個股漲停。"
-    },
-    {
-      "id": "4909452",
-      "time": "2026-06-01 10:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：韓華航空航天公司位於大田的一處廠區傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019e80f9-329f-7666-845c-f87e8251f9e4",
-      "time": "2026-06-01 10:17:55",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "Impact bearish"
-      ],
-      "text": "The United Auto Workers called for a strike at a supplier plant from midnight local time; the plant supplies trucks and SUVs to General Motors (GM.N)."
-    },
-    {
-      "id": "mkt:019e80f9-0b54-7666-845c-f05493ea59c2",
-      "time": "2026-06-01 10:17:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Shanghai to back multimodal intelligent agents, orderly advance intelligent driving in shared mobility and logistics】Shanghai municipal government issued its Service Industry Development 15th Five-Year Plan, prioritizing expansion of intelligent-technology services. The plan directs large-scale development of AI software and services, with emphasis on generative AI and applications in face/image recognition, AR/VR, intelligent transport, smart logistics, online education and energy, and aims to establish AI software industry clusters. It mandates AI+ R&D focused on biomedicine, new materials and new energy, strengthening technology breakthroughs, data governance and institutional safeguards. The plan supports embodied-intelligence products for home, eldercare, cultural tourism and commercial use to accelerate robots’ shift from task execution to general-intelligence, scenario-based refined services. It calls for beefing up intelligent-compute cloud networks with coordinated compute-storage-network architecture, promoting AI–cloud integration and Model-as-a-Service (MaaS). The plan also targets development of AI+ cloud-platform benchmark scenarios in finance, healthcare and cultural-tourism verticals."
-    },
-    {
-      "id": "4909451",
-      "time": "2026-06-01 10:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國汽車工人聯合會要求向通用汽車供應卡車、SUV零部件的供應商工廠於午夜發起罷工。"
-    },
-    {
-      "id": "4909450",
-      "time": "2026-06-01 10:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：鼓勵本土諮詢調查服務機構規模化、品牌化發展 鼓勵機構拓展健康諮詢、環境、社會和治理（ESG）諮詢等新賽道】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，打造一流法律服務高地，最佳化構建律師事務所品牌矩陣，支援法律科技發展，做強涉外法律服務品牌，拓展海外法律服務網路，支援浦東新區深化打造上海國際法律服務中心核心承載區，提升虹橋國際中央法務區建設水平，鼓勵和支援靜安區、徐彙區等加強法律服務高地建設。提高諮詢調查服務水平，鼓勵本土諮詢調查服務機構規模化、品牌化發展，支援科技賦能諮詢服務，鼓勵機構拓展健康諮詢、環境、社會和治理（ESG）諮詢等新賽道，支援建設政產學研用緊密結合的新型智庫。"
-    },
-    {
-      "id": "mkt:019e80f8-0369-7666-845c-eb1fba939b4b",
-      "time": "2026-06-01 10:16:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Shanghai to implement tiered incentives for large, small and micro firms; promote cross‑border and live‑streaming e‑commerce innovation】Shanghai will boost software R&D and application and introduce tiered incentive policies to cultivate leading firms, strengthen SMEs and support micro enterprises. The plan targets foundational software performance (operating systems, databases, developer tools), strengthens industrial software supply (computer‑aided design, analysis, product‑lifecycle management), advances cloud deployment and encourages development of AI‑native software including R&D assistants, intelligent office and smart entertainment. It aims to expand the online new economy by bolstering consumer internet, social e‑commerce and community video platforms, while upgrading bulk commodity trading, industrial e‑commerce and industrial digital‑transformation service platforms. The city will also push innovation in cross‑border e‑commerce and live‑streaming e‑commerce."
-    },
-    {
-      "id": "4909449",
-      "time": "2026-06-01 10:16:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽重啟仍無進展 國際油價上漲】由於霍爾木茲海峽恢復通航仍缺乏明確進展，國際油價繼續走高。美國總統特朗普30日表示，美伊雙方“接近達成一項非常好的協議”，但同時暗示，如果外交努力失敗，衝突仍有可能重新爆發。巴克萊銀行大宗商品研究分析師阿馬爾普里特·辛格表示，市場參與者希望將霍爾木茲海峽問題最終解決的預期計入價格，但經過七週談判後，促成這一結果的協議仍難以達成。受此影響，當地時間31日，紐約商品交易所7月交割的西得克薩斯中質原油期貨上漲2.1%，報每桶89.2美元；倫敦洲際交易所7月交割的布倫特原油期貨上漲1.7%，報每桶92.66美元。（央視新聞）"
-    },
-    {
-      "id": "4909448",
-      "time": "2026-06-01 10:16:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南 VN 指數開盤微幅波動，報 1863.49 點。"
-    },
-    {
-      "id": "4909447",
-      "time": "2026-06-01 10:15:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞汽車在宜賓成立新能源科技公司】企查查APP顯示，近日，奇達新能源科技（宜賓）有限公司成立，法定代表人為閆國紅，註冊資本為2000萬元，經營範圍包含：電池製造；電池銷售；汽車零部件及配件製造等。企查查股權穿透顯示，該公司由奇瑞汽車間接全資持股。"
-    },
-    {
-      "id": "mkt:019e80f6-f19b-7666-845c-e73c72df0e0b",
-      "time": "2026-06-01 10:15:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai to attract international, national shipping bodies to cluster in city】Shanghai municipal government issued a Service Industry \"15th Five-Year\" plan prioritizing transport and shipping hub upgrades and policy support for shipping services. Key measures: complete Shanghai East Station and develop \"aviation+\" multimodal links; enhance Pudong and Hongqiao business-route networks; expand international container and air-freight platforms and smart-waterway infrastructure; accelerate shipping digitalisation and logistics-chain applications. The plan seeks to bolster Shanghai's shipping-insurance operations centre, support shipping finance leasing, develop foreign-related maritime temporary arbitration and a specialised maritime appraisal centre, and attract international and national shipping organisations. It also fast-tracks a green-shipping transition by building international green-fuel bunkering and trading centres, advancing ship energy-efficiency services and green shipping R&D, participating in China’s international sustainable-fuel certification framework, and co-developing green shipping corridors with foreign ports."
-    },
-    {
-      "id": "te:markets:555165",
-      "time": "2026-06-01 10:15:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Flat to Start the Week — The Australian dollar traded flat at $0.71 on Monday, sitting near a two-week high as markets awaited developments from Middle East peace talks and a slate of key domestic data releases later in the week. Key releases, including the April trade balance, Q1 current account, and GDP figures, are expected to offer insight into the economy’s underlying momentum and help shape expectations for the Reserve Bank's policy outlook. The central bank has already hiked rates three times this year, and recent misses on employment and inflation have led investors to sharply scale back bets of another June rate increase, now priced at just around a 5% probability. Markets still price in 70% chance of one final move to 4.6% in the last quarter of the year. Meanwhile, global oil prices continued to rise and the safe haven US dollar strengthened, as a US-Iran ceasefire deal remains elusive, tensions in the Middle East stay elevated, and efforts to reopen the Strait of Hormuz have shown little progress."
-    },
-    {
-      "id": "mkt:019e80f6-caca-7666-845c-dcbb4f882862",
-      "time": "2026-06-01 10:15:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. pushes Israel-Lebanon ceasefire proposal calling for Hezbollah to halt first】U.S. Secretary of State Rubio called Lebanon president Aoun and Israeli prime minister Netanyahu in the past 48 hours to advance a ceasefire proposal that would have Hezbollah immediately stop all attacks on Israel in exchange for Israeli restraint in Beirut to enable phased de-escalation. Aoun has tried to broker the deal, but Lebanese parliament speaker Nabih Berri responded evasively and demanded Israel cease fire first despite this round of hostilities being initiated by Hezbollah. A U.S. official said Hezbollah takes direction from Iran, which seeks to prolong the Lebanon fighting to claim credit, and added Washington does not expect Israel to absorb continued attacks on its civilians; the official said the fastest way to de-escalate and protect civilians is for Hezbollah to stop firing."
-    },
-    {
-      "id": "te:markets:555164",
-      "time": "2026-06-01 10:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Depreciates by 0.57% — Top currency losers are South Korean Won (-0.57%), New Zealand Dollar (-0.29%) and Japanese Yen (-0.13%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "4909445",
-      "time": "2026-06-01 10:15:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策 推動跨境電商、直播電商創新發展】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，提高軟體研發應用水平，實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策。提高作業系統、資料庫、工具軟體等基礎軟體效能，強化計算機輔助設計、輔助分析、產品生命週期管理等工業軟體供給能力，推進雲化部署，鼓勵佈局研發智慧助手、智慧辦公、智慧娛樂等智慧原生軟體。壯大線上新經濟規模，做強生活性網際網路、社交電商、文化社群影片平臺等優勢業態。提升大宗商品交易、工業品電商、工業數字化轉型服務平臺能級。推動跨境電商、直播電商創新發展。"
     }
   ]
 }
