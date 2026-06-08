@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-09 06:52:10",
-  "count": 19202,
+  "updated": "2026-06-09 06:56:00",
+  "count": 19197,
   "items": [
+    {
+      "id": "mkt:019ea970-5d0e-733a-9236-c9e45ef07f18",
+      "time": "2026-06-09 06:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Q1 GDP final annualized growth 3.6%, matching forecast 3.6% and prior 3.6%."
+    },
+    {
+      "id": "mkt:019ea970-2db5-733a-9236-c4ca180d9ca9",
+      "time": "2026-06-09 06:52:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | GDP Final (YoY) (Q1) | actual 3.6% | consensus 3.60% | previous 3.60%"
+    },
     {
       "id": "4924746",
       "time": "2026-06-09 06:51:38",
@@ -177025,74 +177043,6 @@
         "其他"
       ],
       "text": "澳大利亞競爭與消費者委員會（ACCC）正對線上向澳大利亞消費者銷售、含小型強磁體的違禁高危玩具及桌遊展開供應調查，已要求採取額外措施，防止賣家重新上架相同或類似商品。"
-    },
-    {
-      "id": "mkt:019e8564-c758-7993-96fa-fbe0c99e7e4e",
-      "time": "2026-06-02 06:53:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US-Iran talks hit setbacks; market optimism may fade】Oil steadied after its largest one-month gain as renewed uncertainty over US‑Iran talks raised the risk of prolonged Gulf supply disruption. US media quoted Trump saying a memorandum on reopening the Strait of Hormuz could be reached within a week, but Washington still needs to finalise several details. Earlier reports said Iran halted talks, threatened to block the Bab al‑Mandeb and planned a full closure of the Strait of Hormuz. CIBC senior energy trader Rebecca Babin warned that if negotiations stall, the market’s prior pricing “cushion” tied to a best‑case outcome would evaporate, and that repeated reversals mean nothing is certain."
-    },
-    {
-      "id": "mkt:019e8564-5618-7993-96fa-f6b9fe5d5ef8",
-      "time": "2026-06-02 06:53:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Confirmed Ebola cases in the Democratic Republic of the Congo rose to 321."
-    },
-    {
-      "id": "mkt:019e8564-326e-7993-96fa-ed26b4935bce",
-      "time": "2026-06-02 06:53:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sevastopol in Crimea, currently under Russian control, will attempt to resume normal fuel sales on Wednesday."
-    },
-    {
-      "id": "4911409",
-      "time": "2026-06-02 06:52:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "澳大利亞競爭與消費者監管委員會（ACCC）已向亞馬遜、eBay、科根（Kogan）和弗魯戈（Fruugo）發出下架要求，要求上述平臺移除含潛在致命危險小磁鐵的玩具與遊戲產品。"
-    },
-    {
-      "id": "mkt:019e8563-bfd3-7993-96fa-e3ef026eefc5",
-      "time": "2026-06-02 06:52:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says it will 'use all capabilities' to defend its interests if necessary】Iran's foreign ministry on the 1st condemned continued US and Israeli violations of the ceasefire, saying any breach on any front constitutes a violation of the entire ceasefire arrangement. It reiterated the April 8 ceasefire — including its application to Lebanon — and said the US must be held responsible for its own violations and accountable for Israeli actions. The statement added Iran would, under the right of self‑defense in international law, \"use all capabilities to defend its interests\" if necessary."
-    },
-    {
-      "id": "mkt:019e8563-6b0c-7993-96fa-dea02663a6a0",
-      "time": "2026-06-02 06:52:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sevastopol in Crimea, currently under Russian control, will impose fuel sale limits on Tuesday."
-    },
-    {
-      "id": "4911408",
-      "time": "2026-06-02 06:52:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯管控下的克里米亞塞瓦斯托波爾將於週三嘗試恢復正常燃油銷售。"
     }
   ]
 }
