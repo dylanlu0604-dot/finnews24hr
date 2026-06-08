@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-08 14:16:37",
-  "count": 19355,
+  "updated": "2026-06-08 14:20:41",
+  "count": 19354,
   "items": [
+    {
+      "id": "4923204",
+      "time": "2026-06-08 14:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭最大葵花籽油生產商Kernel表示，6月5日至7日，俄羅斯對敖德薩港口基礎設施的無人機襲擊造成了損害並擾亂了運營。"
+    },
+    {
+      "id": "mkt:019ea5e2-79c3-7ccd-9e37-4c1a2815e4a8",
+      "time": "2026-06-08 14:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kernel, Ukraine’s largest sunflower oil producer, said Russian drone strikes on Odesa port infrastructure between June 5 and June 7 damaged facilities and disrupted operations."
+    },
+    {
+      "id": "mkt:019ea5e1-dc82-7ccd-9e37-44562b9a8549",
+      "time": "2026-06-08 14:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hyundai Motor Group executive chairman said the group will increase investment in Saemangeum."
+    },
+    {
+      "id": "mkt:019ea5e1-5efb-7ccd-9e37-3c3a43946fe3",
+      "time": "2026-06-08 14:17:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said he was pleased to establish NVIDIA operations in Saemangeum, southern South Korea."
+    },
+    {
+      "id": "4923203",
+      "time": "2026-06-08 14:17:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印尼5月外匯儲備降至兩年低點，引發擔憂】印尼央行週一表示，印尼5月外匯儲備減少13億美元，降至1,449億美元，創近兩年新低，此前央行採取了匯市干預行動。隨著盧比面臨的壓力日益增大，這一訊息引發市場擔憂。印尼盾週一跌至1美元兌18,170盧比的歷史新低，此前因投資者諸多擔憂而承壓，包括印尼總統普拉博沃(Prabowo Subianto)的大規模支出計劃、伊朗戰爭後不斷膨脹的燃油補貼預算、對央行獨立性的質疑以及新的大宗商品出口政策。截至5月的一年中，印尼外匯儲備減少了116億美元。儘管政府上月出售了35億美元的美元和歐元債券，但自3月末以來盧比幾乎每天都在重新整理歷史低點。印尼央行為捍衛印尼盾而加強了外匯干預。印尼央行表示，截至5月底的外匯儲備水平相當於5.6個月的進口額，高於三個月的國際標準，且“足以支撐外部韌性並維持宏觀經濟和金融體系的穩定”。然而部分市場人士指出，1,449億美元外匯儲備中很大一部分是商業銀行在央行的存款，因此淨外匯儲備處於令人擔憂的低位。"
+    },
+    {
+      "id": "mkt:019ea5e0-7a08-7aa4-8928-a9543b3336fb",
+      "time": "2026-06-08 14:16:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "005380.KS"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said NVIDIA is discussing with Hyundai Motor how to integrate AI into future manufacturing systems."
+    },
+    {
+      "id": "mkt:019ea5e0-6368-7aa4-8928-a346950e1fb9",
+      "time": "2026-06-08 14:16:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tehran's two civilian airports suspend operations】Mehrabad Airport in Tehran announced on June 8 that all flights are suspended until further notice. Both civilian airports in the Iranian capital are currently out of service."
+    },
+    {
+      "id": "mkt:019ea5e0-4a00-7ccd-9e37-346bae8b196c",
+      "time": "2026-06-08 14:16:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company will collaborate with Hyundai across mobility sectors."
+    },
+    {
+      "id": "mkt:019ea5e0-142c-7aa4-8928-94716a81d311",
+      "time": "2026-06-08 14:16:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor Group executive chair briefed NVIDIA CEO Jensen Huang on South Korea's AI and robotics projects."
+    },
+    {
+      "id": "4923202",
+      "time": "2026-06-08 14:16:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗首都兩個民用機場暫停運營】伊朗首都德黑蘭梅赫拉巴德機場今天（6月8日）宣佈所有航班暫停運營，直至另行通知。目前，德黑蘭的兩個民用機場全都進入暫停運營狀態。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ea5df-bb6e-7ccd-9e37-2cdafdaefbad",
       "time": "2026-06-08 14:16:03",
@@ -178349,108 +178459,6 @@
         "其他"
       ],
       "text": "【浙江：佈局“10+X”未來產業，有序推進新型算力、衛星網際網路等新型基礎設施建設】近日，《浙江省實施“星火計劃”培育壯大未來產業行動方案（2026—2030年）（徵求意見稿）》向社會公開徵求意見。其中提到，到2030年，創新策源能力顯著增強，突破前沿技術100項，培育未來產業先導區60個、人才（團隊）500個、技術（產品）專案1000個、重點企業3000家、創新場景500個，打造標誌性產品和場景200項，未來產業實現高速增長，在具身智慧、生物製造等領域培育千億級產業，助力浙江特色現代化產業體系建設。《行動方案》提出，科學佈局新領域新賽道。綜合考慮國家戰略需求、技術成熟度、市場規模和浙江省資源稟賦，面向“十五五”時期科學佈局“10+X”未來產業。重點發展具身智慧、生物製造、量子科技、腦機介面、氫能和綠色燃料、6G、前沿新材料、細胞與基因治療、深海科技、空天科技等10個基礎條件好、爆發力強的領域；前瞻佈局類腦智慧、可控核聚變、原子級製造等尚在孕育的新賽道，發展地理資訊、眼腦健康、核醫療、零磁醫療等特色賽道，形成“X”個接力發展的新領域。（中證報）"
-    },
-    {
-      "id": "4909812",
-      "time": "2026-06-01 14:20:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業富聯成交額達200億元，現漲0.93%】6月1日下午，工業富聯成交額達200億元，現漲0.93%。"
-    },
-    {
-      "id": "mkt:019e81d6-e22a-799c-966c-c1fc189abf64",
-      "time": "2026-06-01 14:20:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Switzerland's April real retail sales YoY due in 10 minutes."
-    },
-    {
-      "id": "4909811",
-      "time": "2026-06-01 14:19:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞汽車在宜賓成立新能源科技公司 註冊資本2000萬】天眼查App顯示，近日，奇達新能源科技（宜賓）有限公司成立，法定代表人為閆國紅，註冊資本2000萬人民幣，經營範圍包括電池製造、電池銷售、汽車零部件及配件製造等，由奇瑞汽車（09973.HK）旗下蕪湖奇達動力電池系統有限公司全資持股。"
-    },
-    {
-      "id": "4909810",
-      "time": "2026-06-01 14:19:30",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【中金：看好內房板塊，受惠於基本面改善、政策利好及資金輪動】中金髮表報告指，上週五A股和H股內房板塊上升，同日國務院釋出《城市更新“十五五”規劃》。該行認為，本輪板塊升勢主要由三個因素帶動：基本面改善、政策利好，以及資金輪動。中金看好地產板塊，認為板塊目前正處於一個Beta上升趨勢的中段，而銷售量與價格的改善，將成為板塊下一階段增長的催化劑。"
-    },
-    {
-      "id": "mkt:019e81d6-3445-799c-966c-ba4749d4cde6",
-      "time": "2026-06-01 14:19:19",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Taobao Flash Sale flags first batch of delivery-only merchants after coordinating with local regulators】Taobao Flash Sale coordinated with market regulators in Beijing, Shanghai, Anhui, Nanchang, Chengdu, Yancheng, Taizhou and Shanwei to flag a first batch of delivery-only (no dine-in) merchants based on regulator-provided lists. Since 2026 the platform has delisted 332,000 non-compliant merchants and ordered 60,000 restaurants to complete remediation."
-    },
-    {
-      "id": "4909809",
-      "time": "2026-06-01 14:19:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【本週72只基金密集啟募 科技基金仍扎堆發行】公募排排網資料顯示，按認購起始日統計，本週全市場共有72只基金開啟募集，環比增長80%，且單週發行數量創下近301周新高。值得注意的是，新發基金數量已連續5周站上40只關口，足見基金髮行市場之熱度。分基金型別來看，權益類依然是本週新發的主力品種。本週開啟募集的權益基金達47只，包括31只股票型和16只偏股混合型基金，合計佔到總量的65.28%。權益類中，科技基金仍在扎堆發行。本週開啟募集的權益基金中，名稱中帶有“科創板”、“電子”、“軟體”等科技字眼的基金達14只，佔到權益基金總量的29.79%。此外，FOF基金的發行熱度也在持續，本週9只FOF基金開啟募集，創下近13周新高。"
-    },
-    {
-      "id": "4909808",
-      "time": "2026-06-01 14:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊和談前景不明，油價從六週低點反彈】受伊朗戰爭和平協議前景不明影響，油價從六週低點反彈。布倫特原油週五收於四月中旬以來最低後，升至每桶約 93 美元；西德克薩斯輕質原油（WTI）則逼近 90 美元。美伊雙方週末互傳訊息，擬修改一份協議草案 —— 該草案旨在延長停火併開放霍爾木茲海峽，但目前尚不清楚雙方是否取得實質性進展。油價或將持續處於 “表態週期”，伴隨新訊息不斷湧現，價格在樂觀與謹慎情緒間震盪。"
-    },
-    {
-      "id": "4909807",
-      "time": "2026-06-01 14:18:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【歐冠狂歡變騷亂 法國780人因滋事被捕】法國當局5月31日通報，法甲巴黎聖日耳曼隊前一晚成功衛冕歐冠聯賽冠軍後，法國首都巴黎及多個城市民眾的徹夜狂歡演變為騷亂，全國共計780人因滋事被捕，其中巴黎警方逮捕了480人。（新華社）"
-    },
-    {
-      "id": "mkt:019e81d3-dbf4-799c-966c-b3aded527f9f",
-      "time": "2026-06-01 14:16:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Interfax reports Kazakhstan's Tengiz oilfield has entered a production recovery phase following an accident."
-    },
-    {
-      "id": "te:economy:555222",
-      "time": "2026-06-01 14:16:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Retail Sales MoM",
-        "Importance 2"
-      ],
-      "text": "German Retail Sales Fall Less than Estimated — Germany’s retail sales dropped 0.3% month-on-month in April 2026, matching the pace of a downwardly revised decline in the prior month and outperforming market expectations for a 0.4% fall. The latest reading marked the fourth straight monthly contraction, as heightened uncertainty stemming from the Middle East conflict continued to weigh on consumer sentiment and spending. By category, non-food sales declined 2.2%, while online and mail-order trade shrank 4.7%. In contrast, food sales rose 3.2%, partially offsetting broader weakness. On an annual basis, retail sales slipped 0.2%, following a downwardly revised 0.2% decline in March, indicating that consumer demand remained subdued despite easing inflationary pressures."
-    },
-    {
-      "id": "4909806",
-      "time": "2026-06-01 14:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦規劃部預計 2027 財年國內生產總值增速目標為 4%。"
     }
   ]
 }
