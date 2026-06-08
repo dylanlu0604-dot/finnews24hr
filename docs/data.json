@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-09 01:46:42",
-  "count": 19160,
+  "updated": "2026-06-09 01:50:38",
+  "count": 19168,
   "items": [
+    {
+      "id": "4924576",
+      "time": "2026-06-09 01:49:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：SIRI人工智慧將以全新Siri模式整合至相機應用。"
+    },
+    {
+      "id": "4924575",
+      "time": "2026-06-09 01:49:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：面向Siri的視覺智慧也將登陸visionOS系統，在該系統上你只需看向物體就能就其內容提問。"
+    },
+    {
+      "id": "mkt:019ea85a-b3f9-733a-9233-25dfc34e249d",
+      "time": "2026-06-09 01:49:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O): Siri's visual intelligence will also come to VisionOS, allowing users to query objects simply by looking at them."
+    },
+    {
+      "id": "4924574",
+      "time": "2026-06-09 01:49:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Siri新增獨立App 蘋果大幅最佳化Siri語音功能】在今天召開的 2026 年全球開發者大會（WWDC）上，蘋果高管克雷格 · 費德里吉（Craig Federighi）介紹推出了Siri AI。 並配有獨立 App，螢幕頂部的靈動島會冒出很大的氣泡。蘋果還大幅最佳化 Siri 的語音功能，使用者可以透過語速和“表現力”來調整聲音。 Siri 的這些更新也適用於 CarPlay 和 AirPods。"
+    },
+    {
+      "id": "mkt:019ea858-8041-733a-9233-1b49b20a7d04",
+      "time": "2026-06-09 01:47:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) is developing a dedicated Siri AI for watchOS."
+    },
+    {
+      "id": "4924573",
+      "time": "2026-06-09 01:47:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：Siri人工智慧將適配iPadOS。"
+    },
+    {
+      "id": "mkt:019ea858-407d-733a-9233-156a8ad5e124",
+      "time": "2026-06-09 01:46:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): Siri AI to be added to iPadOS."
+    },
+    {
+      "id": "mkt:019ea858-1673-733a-9233-08881f2bea4f",
+      "time": "2026-06-09 01:46:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) shares briefly dipped, cutting intraday gains to 0.2%."
+    },
+    {
+      "id": "4924572",
+      "time": "2026-06-09 01:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：為watchOS定製了Siri人工智慧。"
+    },
+    {
+      "id": "mkt:019ea857-f19d-733a-9233-0369b1087f09",
+      "time": "2026-06-09 01:46:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "US tech reporter Gurman said at Apple's WWDC 2026 keynote the demos were clearly recorded on real devices, removing the ambiguity that followed WWDC 2024 and Siri's initial rollout over which features were genuinely available versus demo-only."
+    },
     {
       "id": "4924571",
       "time": "2026-06-09 01:45:51",
@@ -176584,30 +176692,6 @@
         "國際"
       ],
       "text": "【特朗普：與伊朗的談判正“快速推進”】美國總統特朗普1日在社交媒體上說，與伊朗的談判正“快速推進”。 (新華社)"
-    },
-    {
-      "id": "mkt:019e844e-092a-7993-96f8-651f4c8e1c0c",
-      "time": "2026-06-02 01:49:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukrainian military operations have caused fuel shortages in Crimea and other occupied territories."
-    },
-    {
-      "id": "mkt:019e844d-a7d9-7993-96f8-583339424f04",
-      "time": "2026-06-02 01:49:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Zelenskiy says Ukrainian forces can strike Russian logistics across occupied territory; Russian troops in southern and eastern Ukraine have almost no secure supply routes."
     }
   ]
 }
