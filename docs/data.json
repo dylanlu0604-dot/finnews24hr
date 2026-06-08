@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-08 13:57:10",
-  "count": 19332,
+  "updated": "2026-06-08 14:00:56",
+  "count": 19329,
   "items": [
+    {
+      "id": "4923162",
+      "time": "2026-06-08 14:00:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國4月季調後製造業訂單月率 -3.8%，預期-2%，前值5.00%。"
+    },
+    {
+      "id": "mkt:019ea5d1-48cc-700a-8482-74e25d83a77f",
+      "time": "2026-06-08 14:00:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany April seasonally adjusted manufacturing orders m/m -3.8% (consensus -2.0%, prior +5.0%)."
+    },
+    {
+      "id": "4923161",
+      "time": "2026-06-08 14:00:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：歐佩克+增產難抵中東局勢升級影響】安聯首席經濟學家埃裡安表示，歐佩克+已將其產量提高18.8萬桶/日，但分析師認為其中絕大部分是“紙面數量”，由於霍爾木茲海峽持續中斷，這些增產的石油不太可能真正進入市場。事實上，今日早間油價上漲了5%。儘管特朗普表示和平協議即將達成，且以色列必須與美國指令保持一致，但交易員們正在對伊朗與以色列之間的軍事升級以及以色列對黎巴嫩不斷擴大的襲擊做出反應。"
+    },
+    {
+      "id": "mkt:019ea5d1-46b0-700a-8482-6c05fd847801",
+      "time": "2026-06-08 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing Orders (Seasonally Adjusted) (MoM) (Apr) | actual -3.8% | consensus -2% | previous 5.00%"
+    },
+    {
+      "id": "4923160",
+      "time": "2026-06-08 13:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IMF總裁出言警示 全球尚未做好應對接連不斷衝擊的準備】國際貨幣基金組織(IMF)總裁格奧爾基耶娃稱，在經歷了近年來接連不斷的危機後，全球需要建立起能抵禦日益頻繁衝擊的根基。“我們最有力的武器就是客觀分析，”她說。AI的急速發展及其對勞動力市場和經濟的影響，正在引發一場重大變革。格奧爾基耶娃表示，包括IMF在內的許多機構未能認識到全球化帶來的不平等問題，她希望確保AI不會也導致這種情況。"
+    },
+    {
+      "id": "mkt:019ea5d0-beb1-700a-8482-6485979eae01",
+      "time": "2026-06-08 13:59:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Institution: OPEC+ output rise unlikely to offset escalating Middle East tensions】Allianz chief economist El-Erian said OPEC+ has raised output by 188,000 b/d, but analysts call most of the increase \"paper barrels\" and say persistent disruptions to the Strait of Hormuz make it unlikely the additional oil will reach markets. Oil prices rose about 5% this morning as traders priced in military escalation between Iran and Israel and Israel’s widening strikes in Lebanon, despite Trump saying a peace deal is imminent and urging Israel to align with US directives."
+    },
+    {
+      "id": "mkt:019ea5d0-bbe7-700a-8482-5f449e20cbf3",
+      "time": "2026-06-08 13:59:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSDAQ resumed trading after an earlier suspension triggered by a circuit breaker."
+    },
+    {
+      "id": "mkt:019ea5cf-70ca-700a-8482-53ad0647051c",
+      "time": "2026-06-08 13:58:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU foreign policy chief Kallas warned that Iran and Israel should not further escalate following air strikes and urged both sides to return to talks."
+    },
+    {
+      "id": "4923159",
+      "time": "2026-06-08 13:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國科斯達克（KOSDAQ）：熔斷解除，恢復交易。"
+    },
+    {
+      "id": "4923158",
+      "time": "2026-06-08 13:57:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安納智芯完成新一輪數億元融資】近日，成立僅半年的高精度現代模擬計算晶片公司——北京安納智芯科技有限公司宣佈完成新一輪數億元融資，本輪由經緯創投領投，峰瑞資本、阿爾法公社跟投，老股東訊飛創投、中贏創投持續加碼。安納智芯開創性地建立了“現代模擬計算”這一新型計算正規化——不再把矩陣方程拆解為一連串數字邏輯閘執行的離散指令，而是把矩陣方程本身直接對映到物理電路中，由電壓、電流、電導等物理量以類比的方式完成求解。（21世紀經濟報道）"
+    },
+    {
+      "id": "4923157",
+      "time": "2026-06-08 13:57:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【分析：美聯儲加息可能不會在2027年初之前到來】經濟學主管David Doyle表示，在週五強勁的就業報告發布後，麥格理維持對美聯儲利率路徑的基準預期。“正如我們一段時間以來一直強調的那樣，我們認為下一步行動將是加息，我們的基準時間是在2027年第一季度，”他說。他說，這種預期的風險已偏向於更早加息，市場目前已消化了2026年第四季度加息的預期。“未來幾周，美國聯邦公開市場委員會的言論可能會繼續從降息傾向轉向加息傾向。”"
+    },
     {
       "id": "mkt:019ea5cd-d1f2-700a-8482-49361ac11ef9",
       "time": "2026-06-08 13:56:29",
@@ -178107,151 +178209,6 @@
         "英國"
       ],
       "text": "英國5月Nationwide房價指數同比增長1.7%，預期增長2.2%；5月Nationwide房價指數環比下降0.6%，預期下降0.2%。"
-    },
-    {
-      "id": "4909790",
-      "time": "2026-06-01 14:00:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華鑫證券：首予京東方A“買入”評級，與康寧簽署備忘錄，重點領域開展深度合作】 華鑫證券研報指出，京東方A業績穩中有升，拓展延伸新業務增長點。公司2025年實現歸母淨利潤58.57億元，同比增長10.03%；2026年一季度實現歸母淨利潤17.07億元，同比增長5.78%。公司LCD五大主流及車載應用面板出貨量穩居全球第一。整體來看，市場需求仍保持韌性，供應側產能偏緊格局未改，疊加上游材料成本持續上漲，前期漲價尚未完全覆蓋成本壓力，供需緊平衡與成本壓力仍為面板價格上漲提供核心支撐。公司在顯示器件、顯示模組、先進製造、工藝開發、應用創新及產業化落地等方面具備領先能力，康寧在玻璃材料、半導體應用先進材料與解決方案等方面具有顯著優勢，有望透過重點領域的合作，共同探索市場機會。公司業績穩中有升，有望受益於面板價格漲價，同時與康寧簽署合作備忘錄，積極拓展延伸新業務增長點，首次覆蓋，給予“買入”投資評級。"
-    },
-    {
-      "id": "mkt:019e81c5-332f-799c-966c-6e6d493e58df",
-      "time": "2026-06-01 14:00:38",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK May Nationwide house price index fell 0.6% MoM, the largest monthly decline since June 2025."
-    },
-    {
-      "id": "4909789",
-      "time": "2026-06-01 14:00:26",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國5月Nationwide房價指數月率 -0.6%，預期-0.20%，前值0.40%。\n英國5月Nationwide房價指數年率 1.7%，預期2.20%，前值3.00%。"
-    },
-    {
-      "id": "4909788",
-      "time": "2026-06-01 14:00:20",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國4月實際零售銷售月率 -0.3%，預期-0.5%，前值-2%。\n德國4月實際零售銷售年率 -0.3%，前值-2%。"
-    },
-    {
-      "id": "mkt:019e81c4-dde0-799c-966c-66144a731b31",
-      "time": "2026-06-01 14:00:17",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "UK Nationwide house price index May YoY +1.7% vs est +2.2%, prior +3.0%."
-    },
-    {
-      "id": "mkt:019e81c4-dd9a-799c-966c-5a326b915ed4",
-      "time": "2026-06-01 14:00:14",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany real retail sales MoM (April) -0.3% vs -0.5% consensus; prior -2.0%."
-    },
-    {
-      "id": "mkt:019e81c4-dd45-799c-966c-551411973acb",
-      "time": "2026-06-01 14:00:13",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Germany real retail sales YoY -0.3% in April, prior -2.0%."
-    },
-    {
-      "id": "mkt:019e81c4-dcf1-799c-966c-4e35c2ea09c2",
-      "time": "2026-06-01 14:00:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK Nationwide house price index, May: MoM -0.6% (consensus -0.2%), prior +0.4%."
-    },
-    {
-      "id": "mkt:019e81c4-a5fc-799c-966c-40655ce7938b",
-      "time": "2026-06-01 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (YoY) (May) | actual 1.7% | consensus 2.20% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019e81c4-a5f5-799c-966c-3e21145ca8e3",
-      "time": "2026-06-01 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (MoM) (May) | actual -0.6% | consensus -0.20% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019e81c4-9495-799c-966c-31913aec4939",
-      "time": "2026-06-01 14:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Retail Sales (YoY) (Apr) | actual -0.3% | previous -2%"
-    },
-    {
-      "id": "mkt:019e81c4-9481-799c-966c-2987abf6087b",
-      "time": "2026-06-01 14:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Retail Sales (MoM) (Apr) | actual -0.3% | consensus -0.5% | previous -2%"
-    },
-    {
-      "id": "4909787",
-      "time": "2026-06-01 13:58:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "VinFast與AutoBrains聯合英偉達推出東南亞首個智慧體人工智慧L4級自動駕駛專案。"
-    },
-    {
-      "id": "4909786",
-      "time": "2026-06-01 13:57:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "沙特央行：沙特4月對私營部門貸款同比增長7.18%。"
     }
   ]
 }
