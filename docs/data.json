@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09 03:25:36",
-  "count": 19220,
+  "updated": "2026-06-09 03:29:24",
+  "count": 19219,
   "items": [
+    {
+      "id": "4924645",
+      "time": "2026-06-09 03:28:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：派拉蒙作出讓步，以此規避美國各州提起的反壟斷訴訟。"
+    },
     {
       "id": "mkt:019ea8b2-0354-733a-9234-ee3dd5a1fb75",
       "time": "2026-06-09 03:24:58",
@@ -177219,24 +177227,6 @@
         "MKT News"
       ],
       "text": "Council of the European Union and the European Parliament reached agreement on a regulation to accelerate and more effectively enforce return procedures for persons staying on member-state territory."
-    },
-    {
-      "id": "mkt:019e84a6-fb65-7993-96f9-565dde725040",
-      "time": "2026-06-02 03:26:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic confidentially files for IPO; OpenAI's Altman says no race to be first】CNBC reports Anthropic has confidentially submitted an IPO registration statement to the US SEC. OpenAI founder Altman said he had only just learned of the filing and that there is no competition to be the first publicly listed AI company; he framed the contest as one over technology and building the best business, called an IPO a financing event, and said OpenAI will go public when the timing is right."
-    },
-    {
-      "id": "4911281",
-      "time": "2026-06-02 03:25:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟輪值主席國塞普勒斯：歐盟理事會與歐洲議會今日就一項歐盟法規達成臨時協議，該法規將推動歐盟各成員國建立更高效快捷的全歐盟非法滯留人員遣返流程。此番協議是《歐盟移民與庇護公約》的配套細則，助力公約落地施行。"
     }
   ]
 }
