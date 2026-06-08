@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-08 15:28:59",
-  "count": 19336,
+  "updated": "2026-06-08 15:33:35",
+  "count": 19323,
   "items": [
+    {
+      "id": "te:markets:557196",
+      "time": "2026-06-08 15:32:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.24% Lower — The FTSE 100 Index is losing 25 points. Losses were led by Rolls-Royce (-3.29%), Vistry Group (-2.46%) and Burberry (-2.12%). Offsetting the fall, top gainers were Shell (1.43%) and Admiral (1.15%)."
+    },
+    {
+      "id": "4923339",
+      "time": "2026-06-08 15:31:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱美國對停火破裂負有直接責任】據路透社今天（6月8日）報道，伊朗外交部發言人巴加埃表示，美國對近期停火協議破裂負有直接責任，以色列的行動與美國政策密不可分。夜間事態發展只會加劇與美國外交程序的混亂局面。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:557195",
+      "time": "2026-06-08 15:31:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Falls to May Low on Middle East Unrest — The pound traded near $1.33, its lowest since May 15, as renewed Middle East hostilities stoked fears of a prolonged Iran conflict and pushed oil prices higher, exacerbating inflation concerns and dampening growth prospects. Brent crude surged over 4% after Iran and Israel exchanged missile strikes, despite calls from President Trump for both sides to cease hostilities and pursue peace talks. Market expectations for central bank action shifted, with traders now fully pricing in two Bank of England rate hikes this year. However, dovish MPC member Alan Taylor stated that current interest rates are \"quite restrictive\" and saw no need for further increases to address inflationary pressures stemming from the Iran conflict. Meanwhile, REC/KPMG data showed permanent staff placements fell the most in 10 months in May, with firms citing low confidence and rising costs, signaling a weakening jobs market ahead of the BOE’s next meeting."
+    },
+    {
+      "id": "te:markets:557194",
+      "time": "2026-06-08 15:31:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 1.12% Lower — The DAX Index is falling 277 points. Losses were driven by Airbus (-2.36%), Vonovia (-1.91%) and Adidas (-1.86%)."
+    },
+    {
+      "id": "4923338",
+      "time": "2026-06-08 15:30:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓地震局：海嘯警報解除。"
+    },
+    {
+      "id": "te:economy:557193",
+      "time": "2026-06-08 15:30:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Slovakia Construction Output Growth Eases — Slovakia’s construction output rose by 13.2% year-on-year in April 2026, easing from an all-time high of 29.9% growth in the previous month. Domestic construction activity moderated to 17.7% after a 32.8% jump in March, weighed down by a decrease in the construction of buildings (18% vs 40.6%), new constructions and reconstructions (20.4% vs 33.8%), and repairs and maintenance (13.2% vs 29%). Additionally, construction abroad plunged 14.9% from an 11.4% increase a month earlier. In contrast, activity rose in civil engineering works (17.1% vs 15.3%). On a seasonally adjusted monthly basis, construction output declined by 6.7% in April. For the January–April period, construction production surged 13% year-on-year."
+    },
+    {
+      "id": "te:markets:557192",
+      "time": "2026-06-08 15:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.71% Lower — The CAC 40 Index is dropping 58 points. Leading the losses are Saint-Gobain (-4.87%), Safran (-3.12%) and Hermes International (-2.38%). Top gainers were TotalEnergies SE (1.72%) and Pernod Ricard (0.61%)."
+    },
+    {
+      "id": "4923336",
+      "time": "2026-06-08 15:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊啟動“納斯爾”軍事行動打擊以色列】據伊朗塔斯尼姆通訊社8日報道，伊朗伊斯蘭革命衛隊當天發表宣告說，已啟動代號為“納斯爾”的軍事行動，打擊以色列境內多處空軍基地。 宣告說，伊朗伊斯蘭革命衛隊航空航天部隊對以色列內瓦提姆和泰勒諾夫空軍基地實施打擊。宣告強調，此次行動是對以色列此前對伊朗境內多處雷達設施發動導彈襲擊的回應。本階段行動強調快速反應和擴大打擊目標範圍。 宣告說，伊朗伊斯蘭革命衛隊各作戰單位已做好在各戰線實施進一步行動的準備，並已根據不同情況制定預案。 目前，以色列方面尚未就上述說法作出回應。(新華社)"
+    },
+    {
+      "id": "4923335",
+      "time": "2026-06-08 15:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：新加坡2026年剩餘時間零售額增長勢頭料將放緩】RHB Bank的Barnabas Gan在一份報告中表示，儘管4月份的資料強於預期，但新加坡2026年剩餘時間的零售額增長勢頭預計將放緩。4月份零售額同比增長5.4%，快於3月份4.6%的增幅。不過，RHB對非必需品需求持謹慎態度，尤其是百貨商店和娛樂用品，因為這些行業可能最受國內和旅遊需求疲軟的影響。勞動力需求放緩的跡象也開始顯現，這表明收入增長可能疲軟，並可能在中期內進一步抑制零售支出。"
+    },
+    {
+      "id": "4923334",
+      "time": "2026-06-08 15:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方在朝鮮半島問題上的立場和政策保持連續性、穩定性】6月8日，外交部發言人林劍主持例行記者會。有記者就中方對朝鮮半島問題的立場進行提問。對此，林劍表示：“中方在半島問題上的立場和政策保持連續性、穩定性。關於習近平主席對朝鮮進行國事訪問，我們會適時釋出訊息，請你繼續保持關注。”（澎湃新聞）"
+    },
+    {
+      "id": "te:economy:557191",
+      "time": "2026-06-08 15:28:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Falls to 1-Month Low — The yield on India’s 10-year G-Sec hovered around 6.9%, remaining near a one-month low as investors continued to assess the implications of the Reserve Bank of India’s supportive policy measures announced last week. While the RBI’s decision to maintain its policy rate and stance was accompanied by initiatives aimed at boosting foreign participation in government securities and attracting long-term capital inflows, the decline in yields was partially offset by a sharp rise in global crude oil prices. Brent crude surged 4.5% toward $97 per barrel following renewed hostilities in the Middle East, including Israeli air strikes in Lebanon that breached a recent truce and dampened hopes for a broader de-escalation of the US-Iran conflict. Despite these external headwinds, Indian bonds remained supported by the RBI’s latest measures, which fueled a rally across the yield curve last week. Long-term yields declined by 2–3 basis points, while short-term yields fell by more than 10 basis points."
+    },
+    {
+      "id": "4923333",
+      "time": "2026-06-08 15:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省供銷合作社聯合社黨組書記張傳忠被查】中央紀委國家監委網站6月8日通報，據山東省紀委監委訊息：山東省供銷合作社聯合社黨組書記、理事會主任張傳忠涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "mkt:019ea621-fce0-7ff4-a542-5f2f18cf3145",
       "time": "2026-06-08 15:28:24",
@@ -178052,232 +178173,6 @@
         "公司"
       ],
       "text": "【天有為：控股股東一致行動人部分股份二拍流拍】天有為公告稱，控股股東的一致行動人喜瑞合夥所持公司597,437股限售股被司法拍賣，佔控股股東及其一致行動人合計持股的0.54%，佔總股本的0.37%。2026年5月29 - 30日二拍已結束，因無人出價流拍。本次流拍對公司正常經營無不利影響，相關訴訟與公司、控股股東及實控人無關。後續是否再次拍賣不確定，公司將密切關注並披露進展。"
-    },
-    {
-      "id": "4909966",
-      "time": "2026-06-01 15:33:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Robo.ai宣佈完成對Neurovia AI全資收購】6月1日，Robo.ai Inc.（NASDAQ: AIIO）宣佈，已正式完成對AI資料處理與壓縮技術公司Neurovia AI Limited的100%股權收購，將其納為全資子公司。"
-    },
-    {
-      "id": "te:economy:555273",
-      "time": "2026-06-01 15:33:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Spain Factory Activity Rises Less than Expected — The S&P Global Spain Manufacturing PMI eased to 51.2 in May 2026 from 51.7 in April, missing market forecasts of 52. The latest reading indicated a modest expansion in factory activity, with growth slowing slightly compared with the previous month. The ongoing Middle East conflict intensified supply chain disruptions, leading to product shortages and sharper increases in input costs, while elevated uncertainty continued to weigh on overall market activity. New orders declined sharply for the fifth time in six months amid weakening domestic and external demand, with export orders falling for a ninth consecutive month. This weakness in demand weighed on output, which rose for a second month, but only marginally and less than in the prior month. As s result, both employment and purchasing activity decreased."
-    },
-    {
-      "id": "4909965",
-      "time": "2026-06-01 15:32:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：維持中控技術“買入”評級，盈利能力有望逐步改善】中信建投證券研報指出，中控技術受下游客戶需求疲軟影響業績端短期承壓，近期公司釋出重點產品漲價公告，盈利能力有望逐步改善。公司保持高研發投入重點發力工業AI，股權激勵目標錨定工業AI 收入年化複合增速翻倍以上。公司作為國內流程工業自動化龍頭廠商，深度受益工業AI在流程工業領域落地帶來的潛在千億級遠期空間，工業AI有望成為公司長期業績增長的核心引擎。預計公司2026-2028年營收為92.88/105.50/11 9. 50億元，同比增長15.05%/13.60%/11.34%； 歸母淨利潤預計為6.94/9.77/12.57億元，同比增長57.22%/40.79%/28.58%。對應PE98/69/54 倍，維持“買入”評級。"
-    },
-    {
-      "id": "mkt:019e8219-4acc-766b-8633-23c6b0392b94",
-      "time": "2026-06-01 15:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Nifty Financial Services index fell 1%."
-    },
-    {
-      "id": "4909964",
-      "time": "2026-06-01 15:32:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "零跑汽車公佈5月交付資料：全球交付81569臺，同比增長81%，再創單月銷量歷史新高。其中A10單月交付破2萬臺，B01和B10全球累計銷量已超20萬輛。C系列全球累計銷量超80萬輛。6月，全新C10、C11、C16即將煥新上市，D99開啟預售，Lafa5將於香港車展釋出。零跑推出“零跑618”購車嘉年華，至高56680元綜合權益。技術驅動與全球化雙輪並進，零跑正加速邁入發展新階段。"
-    },
-    {
-      "id": "4909963",
-      "time": "2026-06-01 15:32:15",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【哈塞特稱美國實際薪資上漲 民眾經濟信心持續走低】美國國家經濟委員會主任凱文・哈塞特於週日對美國經濟形勢做出樂觀判斷。 哈塞特表示：“不妨看看實際薪資的變化。”他稱諸多利好經濟訊息遭到忽視，“總體而言，居民實際收入與實際薪資均處於上漲態勢。”近期兩項民調均顯示，美國民眾對國內經濟的觀感持續轉差。 蓋洛普最新調查顯示，美國民眾經濟信心指數跌至2022年10月以來新低。同日，密歇根大學釋出半月度消費者信心調查，資料連續第三個月下滑，創下歷史最低值，較4月下降10%。 主持人追問，民眾擔憂戰事衝擊經濟、尤其是油價上漲，對此哈塞特認為，民眾在做出投票等政治選擇時，仍會客觀看待自身經濟狀況。他也承認高油價確實讓民眾承壓，但預計這一局面很快會得到緩解。“油價高企確實令人困擾。我們正多措並舉降低其帶來的影響，希望海灣地區的局勢問題能儘快解決，一切恢復常態。”"
-    },
-    {
-      "id": "te:markets:555272",
-      "time": "2026-06-01 15:31:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.26% Lower — The FTSE 100 Index is losing 27 points. Losses were led by Fresnillo (-2.91%), Endeavour (-2.59%) and BAE Systems (-2.15%). Offsetting the fall, top gainers were Easyjet Plc (11.39%), Entain (3.22%) and Halma (1.88%)."
-    },
-    {
-      "id": "mkt:019e8218-211f-766b-8633-1e15f3661082",
-      "time": "2026-06-01 15:31:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran foreign ministry spokesman Baghaei said Kuwait should promptly clarify the situation of four detained Iranian citizens."
-    },
-    {
-      "id": "mkt:019e8218-0fa2-766b-8633-14caf4a59a75",
-      "time": "2026-06-01 15:31:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Six Chinese agencies publish nine methods to evaluate standards implementation】The Standardization Administration of China, Ministry of Transport, Ministry of Water Resources, Ministry of Culture and Tourism, the People’s Bank of China and the National Energy Administration jointly issued a notice promoting nine methods for assessing standards implementation effectiveness. The methods were distilled from 25 assessment activities carried out by 58 organizations. The agencies say wider use of these evaluation methods will strengthen oversight of standards implementation, shift focus from whether standards exist to whether they are used and deliver results, and better leverage standards to support high-quality development."
-    },
-    {
-      "id": "4909962",
-      "time": "2026-06-01 15:31:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“開門殺”等交通事故賠償最新司法解釋6月底施行】最高人民法院關於審理道路交通事故損害賠償案件適用法律若干問題的解釋（二），將於6月30日起施行。解釋共12條，從責任主體、責任認定、賠償計算、程式規定等方面作出規定。關於“開門殺”事故，最新司法解釋明確，當被侵權人主張乘車人責任屬於該機動車一方責任，並請求保險公司在交強險責任限額範圍內以及按照商業三者險合同的約定賠償的，法院應予支援；保險賠償後仍不足的，由乘車人、駕駛人承擔賠償責任。換句話說，“開門殺”事故中，乘客責任屬於機動車一方責任，保險不能任意拒賠，司機和乘客也不能輕易甩鍋。“無償搭乘\"“搭便車\"在日常生活中較為普遍。“好意同乘\"情形下，發生交通事故該如何劃分責任？對於非營運機動車無償搭載他人，發生交通事故造成搭乘人損害的，根據民法典規定，在機動車使用人沒有故意或者重大過失的情形下，應減輕機動車使用人的賠償責任。（新華社）"
-    },
-    {
-      "id": "4909961",
-      "time": "2026-06-01 15:30:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交官巴加埃表示，科威特應儘快澄清四名被扣押伊朗公民的處境。"
-    },
-    {
-      "id": "te:markets:555271",
-      "time": "2026-06-01 15:30:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.16% Lower — The DAX Index is falling 41 points. Losses were driven by Fresenius Medical Care (-3.16%), Bayer (-2.14%) and HeidelbergCement (-1.73%). Biggest rises came from SAP (2.01%), Infineon (1.85%) and RWE (1.28%)."
-    },
-    {
-      "id": "4909960",
-      "time": "2026-06-01 15:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃表示，美國的侵略行徑”違反停火協議，正是美方此舉致使伊朗武裝部隊對美軍發動襲擊的出發陣地進行了打擊。"
-    },
-    {
-      "id": "4909959",
-      "time": "2026-06-01 15:30:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家標準委等六部門釋出一批標準實施效果評估方法】記者今天瞭解到，國家標準委、交通運輸部、水利部、文化和旅遊部、中國人民銀行、國家能源局六部門近日聯合釋出《關於推廣一批標準實施效果評估方法的通報》。《通報》推廣的評估方法共有9種，從58家單位開展的25項評估活動中總結提出。（央視新聞）"
-    },
-    {
-      "id": "4909958",
-      "time": "2026-06-01 15:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛健委：目前已有3000多家醫療機構建成兒童友好醫院】目前已有3000多家醫療機構建成兒童友好醫院，力爭到2030年，實現全國90%以上的婦幼保健院、兒童醫院、綜合醫院兒科建成兒童友好醫院，讓孩子們看病更省心、家長更安心。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8217-0d7c-766b-8633-0bcca74da252",
-      "time": "2026-06-01 15:30:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland May SVME PMI 57.3, est. 53.5, April 54.5."
-    },
-    {
-      "id": "mkt:019e8216-ea93-766b-8633-007077243f4b",
-      "time": "2026-06-01 15:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | SVME Purchasing Managers' Index (May) | actual 57.3 | consensus 53.5 | previous 54.5"
-    },
-    {
-      "id": "4909957",
-      "time": "2026-06-01 15:29:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【預告：國務院臺灣事務辦公室6月3日舉行新聞釋出會】國務院臺灣事務辦公室定於2026年6月3日上午10:00在國臺辦新聞釋出廳（廣安門南街6-1號廣安大廈中門四層）舉行例行新聞釋出會，發言人就近期兩岸熱點問題回答記者提問。"
-    },
-    {
-      "id": "te:markets:555270",
-      "time": "2026-06-01 15:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.09% Higher — The CAC 40 Index is gaining 8 points or 0.09 percent on Monday. Leading the gains are Schneider Electric (2.91%), Capgemini (2.31%) and STMicroelectronics (2.07%). Top losers are Accor (-2.85%), Thales (-1.71%) and Societe Generale (-1.66%)."
-    },
-    {
-      "id": "mkt:019e8216-e7ee-766b-8632-fae2ca589f40",
-      "time": "2026-06-01 15:29:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Taiwan Affairs Office to hold press briefing on June 3】China's Taiwan Affairs Office will hold a regular press briefing at 10:00 on June 3, 2026; a spokesperson will take questions on recent cross‑strait hotspots."
-    },
-    {
-      "id": "4909956",
-      "time": "2026-06-01 15:29:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【LME鎳主力合約漲超1%】LME鎳主力合約漲超1%，現報19150.0美元/噸。"
-    },
-    {
-      "id": "mkt:019e8216-69f4-766b-8632-f1468d22fba4",
-      "time": "2026-06-01 15:29:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MOFCOM will hold a press briefing at 3:00 PM Beijing time on Thursday, June 4, 2026. The spokesperson will outline recent key commerce work and take questions."
-    },
-    {
-      "id": "te:markets:555268",
-      "time": "2026-06-01 15:29:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro at Over Two-Week High as Middle East Talks Loom — The euro began June at $1.166, its highest level since May 14, though it remained largely unchanged from the previous session. Investors are closely monitoring developments in the Middle East conflict while processing a range of economic data from Europe. US and Iran are negotiating a ceasefire extension and Strait of Hormuz reopening, though progress is unclear, and Israel’s expanded ground assault in Lebanon has broken a truce. On the economic front, German retail sales declined in April for the fourth consecutive month, but slightly less than expected. Investors are also awaiting the Eurozone inflation report due this week, following last week’s data showing that EU-harmonized rates accelerated in May across France, Italy, and Spain, while Germany experienced a slowdown. Additionally, ECB minutes indicated that some policymakers would have supported an April rate hike if proposed, reinforcing expectations of a 25-basis-point increase at the June 11 meeting."
-    },
-    {
-      "id": "4909955",
-      "time": "2026-06-01 15:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "預告：商務部定於2026年6月4日(星期四)下午3時舉行新聞釋出會，新聞發言人介紹近期商務領域重點工作有關情況，並答記者問。"
-    },
-    {
-      "id": "4909954",
-      "time": "2026-06-01 15:29:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱美國“自相矛盾”的立場導致協議延遲達成。"
     }
   ]
 }
