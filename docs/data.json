@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-08 08:53:46",
-  "count": 19223,
+  "updated": "2026-06-08 08:57:35",
+  "count": 19222,
   "items": [
+    {
+      "id": "4922533",
+      "time": "2026-06-08 08:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數走勢震盪，跌幅重新擴大至7.22%。"
+    },
+    {
+      "id": "te:economy:557052",
+      "time": "2026-06-08 08:56:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Japan Current Account Surplus Tops Estimates — Japan’s current account surplus increased to JPY 3,907.8 billion in April 2026 from JPY 2,370.0 billion in the same month a year earlier, exceeding market expectations of JPY 3,137 billion. The goods account surplus surged to JPY 395.7 billion from a tiny figure in the prior year, as export growth (13.9%) outpaced imports (9.5%). Also, the primary income surplus widened to JPY 4,210.0 billion from JPY 3,649.8 billion. Meantime, the services account deficit narrowed sharply to JPY 416.0 billion from JPY 725.9 billion. Also, the secondary income deficit decreased to JPY 281.8 billion from JPY 553.1 billion."
+    },
+    {
+      "id": "mkt:019ea4b9-ac3c-7338-95ad-cbcfdeca9336",
+      "time": "2026-06-08 08:54:52",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI decline widened to 7%, with Samsung down 8.5% and SK Hynix down 5.5%."
+    },
+    {
+      "id": "4922532",
+      "time": "2026-06-08 08:54:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯：正就當前事態與各地方辦事處及實地地方官員保持持續溝通。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606083762813018",
+      "time": "2026-06-08 08:54:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【CPI本週接棒非農！降息幻覺被資料生吞 美聯儲加息風暴真要來了？】在度過了“黑色星期五”之後的忐忑週末後，華爾街交易員們眼下正擔心，本週三將公佈的最新通脹資料可能將顯示美國CPI同比出現數年來的最大漲幅，從而進一步加大美聯儲加息的壓力。在過去的這個週末，華爾街各大投行已紛紛撤回了對2026年降息的預測。"
+    },
+    {
+      "id": "4922531",
+      "time": "2026-06-08 08:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯：國家政府正在推進相關工作，我們不會讓棉蘭老島掉隊。"
+    },
+    {
+      "id": "4922530",
+      "time": "2026-06-08 08:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯：請遵從海嘯警報，立刻轉移至地勢較高處，切勿逗留，生命比遺留的任何財物都更為重要。"
+    },
     {
       "id": "4922529",
       "time": "2026-06-08 08:53:08",
@@ -177338,85 +177402,6 @@
         "Importance 0"
       ],
       "text": "Israeli New Sheqel Hits Near 33-year High — The Israeli New Sheqel touched 2.80 against the USD, the highest since July 1993. Over the past 4 weeks, US Dollar Israeli New Sheqel lost 5.36%, and in the last 12 months, it decreased 20.48%."
-    },
-    {
-      "id": "4909271",
-      "time": "2026-06-01 08:57:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價漲幅擴大至5.5%。"
-    },
-    {
-      "id": "4909269",
-      "time": "2026-06-01 08:56:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞右翼非建制候選人德拉埃斯普列利亞表示，  “無論以理性還是武力” 將捍衛民主。"
-    },
-    {
-      "id": "mkt:019e80ae-af75-766e-87ad-edf986176377",
-      "time": "2026-06-01 08:56:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【UN Security Council to hold emergency meeting on Israel-Lebanon escalation】At France's request the UN Security Council will hold an emergency meeting on Israel's expanded military operations in Lebanon on June 1 in the afternoon US EDT. French President Macron said the escalation in southern Lebanon is unjustified, called for an immediate ceasefire, urged the US and Iran to reach a ceasefire agreement promptly, and said France will support Lebanon's efforts to restore sovereignty and territorial integrity."
-    },
-    {
-      "id": "4909268",
-      "time": "2026-06-01 08:56:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國安理會將就黎以局勢召開緊急會議】據法國方面訊息，應法國請求，聯合國安理會定於美國東部時間6月1日下午就以色列擴大在黎巴嫩軍事行動召開緊急會議。法國總統馬克龍5月31日在社交媒體發文表示，當前黎巴嫩南部局勢持續升級“毫無正當理由”，他呼籲各方停止交火，稱法國將繼續支援黎巴嫩為恢復國家主權和領土完整所作努力。他還表示，當務之急是美國和伊朗儘快達成停火協議。"
-    },
-    {
-      "id": "te:markets:555130",
-      "time": "2026-06-01 08:55:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies Amid Iran Deal Uncertainty — Silver steadied above $75 an ounce on Monday following a volatile week, as efforts to secure a longer-term ceasefire agreement between the US and Iran showed limited signs of progress. Over the weekend, Washington and Tehran exchanged proposals seeking amendments to a draft accord that would extend the ceasefire and reopen the Strait of Hormuz, though it remained uncertain whether the negotiations were moving closer to a resolution. President Donald Trump also reiterated his call for Iran to halt its nuclear program and fully restore the strait’s status as an open international waterway. Silver has faced headwinds since late February as the Middle East conflict drove energy prices sharply higher, fueling concerns about inflationary pressures and the prospect of interest rate hikes. Investors are now awaiting the latest US monthly jobs report later this week, which could offer fresh insight into labor market strength and the likely path of Federal Reserve policy."
-    },
-    {
-      "id": "te:economy:555129",
-      "time": "2026-06-01 08:55:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Philippine Manufacturing Activity Returns to Growth — The S&P Global Philippines Manufacturing PMI rose to 50.8 in May 2026 from 48.3 in April, signaling a renewed improvement in manufacturing sector conditions. New orders increased after a sharp decline in April, supported by improved client demand and new customer wins, leading firms to raise production at a solid pace. However, export demand remained weak, with new orders from abroad falling at the sharpest rate since July 2020. Lead times lengthened to one of the greatest extents in nearly a year-and-a-half, amid shipping delays and efforts by companies to consolidate orders to contain costs. Input cost inflation accelerated to its highest level since August 2022, while output price inflation rose to its second-fastest pace in three and a half years. Firms reduced purchasing activity for a third month and cut staffing levels at the fastest rate in two years. Nevertheless, business confidence rose to an 18-month high amid hopes that demand conditions will improve."
-    },
-    {
-      "id": "te:markets:555128",
-      "time": "2026-06-01 08:54:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japan’s Nikkei Hits New Record Peak — The Nikkei 225 Index advanced 0.8% to around 66,900 on Monday, reaching a fresh record high as technology shares extended gains amid continued enthusiasm for the artificial intelligence-driven rally. Japanese firms remain deeply involved in the global expansion of AI infrastructure, helping position the domestic market among the strongest beneficiaries of the worldwide tech surge. Leading gains in the sector were Kioxia Holdings, which jumped 8.3%, followed by SoftBank Group (+4.9%), Furukawa Electric (+3.1%), Tokyo Electron (+2.7%), and Sumitomo Electric (+2.2%). On the economic front, Japan’s capital spending was flat in the first quarter compared with a year earlier, pointing to a slowdown in corporate investment activity. Investors also kept a close watch on developments in the Middle East, where negotiations between the US and Iran toward a permanent ceasefire agreement continued to face significant challenges."
-    },
-    {
-      "id": "4909267",
-      "time": "2026-06-01 08:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【4月中國產汽車在韓國註冊登記進口榜排第三，史上首超日本車】韓國進口車協會（KAIDA）6月1日釋出資料顯示，4月在韓新註冊登記的進口車中，中國產汽車排名第三，史上首次趕超日本產汽車。資料顯示，歐洲產以1.68萬輛排名第一，其後依次為美國產（1.36萬輛）、中國產（2023輛）和日本產（1974輛）等。中國產佔比為6%，略高於日本產（5.8%）。"
     }
   ]
 }
