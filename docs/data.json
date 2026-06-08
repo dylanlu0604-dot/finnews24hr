@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-08 09:20:51",
-  "count": 19233,
+  "updated": "2026-06-08 09:24:50",
+  "count": 19235,
   "items": [
+    {
+      "id": "4922602",
+      "time": "2026-06-08 09:23:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【捷成股份等成立文化產投公司，含AI業務】企查查APP顯示，近日，捷成世紀（長春）文化產業投資有限責任公司成立，註冊資本1000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧通用應用系統；企業形象策劃等。企查查股權穿透顯示，該公司由捷成股份等共同持股。"
+    },
+    {
+      "id": "4922601",
+      "time": "2026-06-08 09:23:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰期貨：短時內黃金價格有所回落，主線仍在於地緣衝突背景下的美聯儲貨幣政策取向】短時內黃金價格有所回落，主線仍在於地緣衝突背景下的美聯儲貨幣政策取向。現階段來看，年內的寬鬆預期已基本被消耗殆盡，而利率互換資料顯示，交易員押注美聯儲12月議息會議上調基準利率25個基點，10月加息機率約60%。雖長期來看，黃金仍然將會是難以替代的保值資產，並且在實際利率未來變動預期仍然大機率向下的情況下，黃金仍建議以逢低買入為主，但短期維持中性看待。白銀宏觀邏輯與黃金類似。短時內風險資產存在回落風險，由於白銀本身波動性相對較大，因此可暫時以觀望態度為主。（華泰期貨）"
+    },
+    {
+      "id": "4922600",
+      "time": "2026-06-08 09:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月08日08時55分在蘇拉威西海（北緯5.45度，東經125.30度）發生6.6級地震，震源深度60千米。"
+    },
+    {
+      "id": "4922599",
+      "time": "2026-06-08 09:22:46",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：今日開展2185億元7天逆回購操作，投標量2185億元，中標量2185億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4922598",
+      "time": "2026-06-08 09:22:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，德黑蘭發生爆炸。"
+    },
+    {
+      "id": "4922597",
+      "time": "2026-06-08 09:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：局勢不太可能演變為通脹危機。"
+    },
+    {
+      "id": "4922596",
+      "time": "2026-06-08 09:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：中東戰爭的影響不會引發韓國經濟危機。"
+    },
+    {
+      "id": "4922595",
+      "time": "2026-06-08 09:21:44",
+      "tags": [],
+      "text": "港股恒指低開跌1.52％，國企指數跌1.66％，恒生科技指數開跌2.43%，晶片股低開。"
+    },
+    {
+      "id": "4922594",
+      "time": "2026-06-08 09:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：正努力緩解物價上行壓力。"
+    },
+    {
+      "id": "4922593",
+      "time": "2026-06-08 09:21:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港恒生指數下跌1.5%至24,582.91點。"
+    },
+    {
+      "id": "4922592",
+      "time": "2026-06-08 09:20:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內漲4%，現報1840.00元。"
+    },
     {
       "id": "4922591",
       "time": "2026-06-08 09:19:57",
@@ -177411,94 +177501,6 @@
         "焦點"
       ],
       "text": "焦煤連續主力合約日內漲3%，現報1324.00元。"
-    },
-    {
-      "id": "4909325",
-      "time": "2026-06-01 09:24:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陰和俊：強化戰略前沿領域佈局和關鍵核心技術攻關 築牢未來產業成長根基】科學技術部部長陰和俊在《求是》雜誌發文指出，強化戰略前沿領域佈局和關鍵核心技術攻關，築牢未來產業成長根基。關鍵核心技術攻關能力是引領未來產業發展的關鍵所在。要統籌推進實施國家重大科技任務，加快推動量子科技、生物科技、腦機介面等科技和產業發展，加強前沿技術和顛覆性技術趨勢研判，及時組織實施戰略性、全域性性、前瞻性國家重大科技專案。堅持“產業出題、科技答題”，聚焦戰略必爭領域和產業鏈供應鏈薄弱環節，採取超常規措施，全鏈條推動積體電路、工業母機、高階儀器、基礎軟體、先進材料、生物製造等重點領域關鍵核心技術攻關取得決定性突破。"
-    },
-    {
-      "id": "4909324",
-      "time": "2026-06-01 09:23:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲3.2%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606013755317064",
-      "time": "2026-06-01 09:22:18",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展110億元7天期逆回購操作】央行今日開展110億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e80c6-2e5c-766e-87ae-ae9b304d7236",
-      "time": "2026-06-01 09:22:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【FOCAC envoy Liu Yuxi visits Madagascar】May 29, 2026 — Forum on China–Africa Cooperation (FOCAC) envoy Liu Yuxi met Madagascar Foreign Minister Ndiaye to discuss bilateral cooperation. Liu pledged Chinese support for Madagascar’s independent development path and promised closer alignment of development strategies and implementation of FOCAC Beijing summit outcomes. Madagascar’s transitional government said it values ties with China, reaffirmed the One China principle, and seeks deeper political engagement and practical cooperation under the FOCAC framework, including use of China’s zero-tariff policy to support reconstruction and livelihoods. Liu attended a briefing on the zero-tariff policy during the visit."
-    },
-    {
-      "id": "4909323",
-      "time": "2026-06-01 09:21:54",
-      "tags": [],
-      "text": "港股恒指低開跌0.01％，國企指數跌0.07％，恒生科技指數開漲0.22%。"
-    },
-    {
-      "id": "4909322",
-      "time": "2026-06-01 09:21:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中非合作論壇事務大使劉豫錫訪問馬達加斯加】2026年5月29日，中非合作論壇事務大使劉豫錫訪問馬達加斯加期間，同馬外交部長恩迪亞耶會見，就雙邊關係和共同關心的問題交換意見。劉豫錫表示，中馬傳統友好，兩國是全面戰略合作伙伴。中方一如既往支援馬方獨立自主探索符合本國國情的現代化道路，願同馬方緊密對接發展戰略，共同推進中非合作論壇北京峰會成果落實，推動雙邊關係不斷邁上新臺階。恩迪亞耶表示，中國是馬真誠可靠的朋友和夥伴。馬過渡政府重視發展對華關係，恪守一箇中國原則，期待同中方加強政治交往，在中非合作論壇框架內深化務實合作，用好零關稅政策，助力馬國家建設和民生改善。訪馬期間，劉出席零關稅政策宣介會。（外交部）"
-    },
-    {
-      "id": "4909321",
-      "time": "2026-06-01 09:21:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行KOEDA：石油飆升對日本而言是負面的供應衝擊。"
-    },
-    {
-      "id": "mkt:019e80c5-57b8-766e-87ae-a0c48b0be0db",
-      "time": "2026-06-01 09:21:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HSI opened down 2.34 points (-0.01%) at 25,180.05. Hang Seng Tech Index opened up 10.71 points (+0.22%) at 4,894.94. Hang Seng China Enterprises Index (HSCEI) opened down 5.93 points (-0.07%) at 8,419.89. Hang Seng Red Chip Index opened down 24.70 points (-0.56%) at 4,359.06."
-    },
-    {
-      "id": "mkt:019e80c5-4d33-766e-87ae-9f59a2574120",
-      "time": "2026-06-01 09:21:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Meituan",
-        "02382.HK",
-        "Impact bullish",
-        "03690.HK",
-        "HSTECH"
-      ],
-      "text": "Hong Kong shares opened mixed: the HSI fell 0.01% while the Hang Seng Tech Index rose 0.22%. Sunny Optical (02382.HK) gained 3.58% and Meituan (03690.HK) gained 2.38% at the open."
     }
   ]
 }
