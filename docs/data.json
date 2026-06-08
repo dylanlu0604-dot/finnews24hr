@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-09 06:02:25",
-  "count": 19203,
+  "updated": "2026-06-09 06:06:20",
+  "count": 19205,
   "items": [
+    {
+      "id": "mkt:019ea944-586d-733a-9236-80fa8b53663b",
+      "time": "2026-06-09 06:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media, citing airport officials, reported flights have resumed at Tehran's Imam Khomeini International Airport."
+    },
+    {
+      "id": "4924724",
+      "time": "2026-06-09 06:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體援引機場官員訊息：德黑蘭伊瑪目霍梅尼機場航班已恢復執行。"
+    },
+    {
+      "id": "mkt:019ea942-86cc-733a-9236-7eb9f38fef0a",
+      "time": "2026-06-09 06:02:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran's UN envoy says hopes US-Iran talks will reach agreement before end-June】Iran's UN envoy Amir Saeid Iravani said on Monday Tehran and Washington are still negotiating a peace agreement, expressed optimism a final deal could be reached \"soon,\" and replied \"we hope so\" when asked if an agreement might be concluded before the end of June. Iravani said the current ceasefire is comprehensive and applies across the region, including Lebanon — a characterization Israel disputes. Israel's Prime Minister Netanyahu said Israel has decided not to take further action against Iran but will continue strikes against Hezbollah."
+    },
+    {
+      "id": "4924723",
+      "time": "2026-06-09 06:00:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月維持利率不變的機率為98.1%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.1%，累計降息25個基點的機率為1.9%。美聯儲到7月維持利率不變的機率為84.7%，累計加息25個基點的機率13.6%，累計降息25個基點的機率為1.6%。"
+    },
     {
       "id": "mkt:019ea935-fee2-733a-9236-7582644fd3af",
       "time": "2026-06-09 05:49:08",
@@ -177083,23 +177120,6 @@
         "公司"
       ],
       "text": "【今年以來超600只理財產品提前退場】6月1日，青島農商行宣佈旗下“創富優享813號理財產品”因觸發止盈條款提前終止；5月29日，民生理財、興銀理財、招銀理財釋出多隻產品提前終止公告。 Wind資料顯示，今年以來已有約650只理財產品提前退場，較去年同期的400餘隻明顯增多，涉及國有大行、股份行、城商行理財公司及部分中小銀行自營產品。從止盈鎖定收益到規模過小清盤，從底層資產提前到期到管理人根據產品運作情況綜合考慮主動叫停，在低利率、理財產品全面淨值化背景下，理財產品提前終止已成為常態。（中證報）"
-    },
-    {
-      "id": "4911383",
-      "time": "2026-06-02 06:05:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。"
-    },
-    {
-      "id": "mkt:019e8535-ad08-7993-96fa-90b023a2e1e2",
-      "time": "2026-06-02 06:02:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) projects 2025/26 cotton production at 1.00 mln tonnes, down 16% from 2024/25. ABARES forecasts 2026/27 barley output at 14.10 mln tonnes (-15% vs 2025/26), canola at 6.20 mln tonnes (-20%), and wheat at 26.70 mln tonnes (-26%)."
     }
   ]
 }
