@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-08 19:38:48",
-  "count": 19275,
+  "updated": "2026-06-08 19:42:53",
+  "count": 19273,
   "items": [
+    {
+      "id": "mkt:019ea709-ee4a-799c-b570-425cb59fa08f",
+      "time": "2026-06-08 19:41:46",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Oxford Economics: German industry outperforms expectations despite drop in factory orders】Oxford Economics analyst Paolo Grignani says German manufacturing orders fell 3.8% MoM in April after a revised 4.5% rise in March, but remain above pre-Iran-war levels. He notes the chemicals sector remains resilient — orders only marginally down and sitting near three-year highs on energy-crisis-driven demand. With the March revision, April real turnover edged up, and there is not yet clear evidence that manufacturing will drag Q2 GDP growth."
+    },
+    {
+      "id": "4924052",
+      "time": "2026-06-08 19:40:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST美芝：股價異常波動 提示業績虧損及退市風險】*ST美芝公告稱，公司股票2026年6月5日、6月8日收盤價格漲幅偏離值累計超12%，屬異常波動。2026年3月23日至6月8日累計漲幅157.29%，偏離基本面。公司澄清“實際控制人資產注入”等傳聞不實。公司債權人5月15日申請重組，屬庭外重組，能否受理及達成方案均不確定。2025年營收35256.19萬元，同比降49.91%，淨虧損21363.30萬元，期末淨資產-5246.62萬元，存在終止上市風險。"
+    },
+    {
+      "id": "mkt:019ea708-f92c-799c-b570-39f0c0bc1874",
+      "time": "2026-06-08 19:40:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "India trade official says India-U.S. trade pact may be finalized after USTR \"Section 301\" investigation concludes."
+    },
+    {
+      "id": "4924051",
+      "time": "2026-06-08 19:40:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓巴蘭貢南西南方向 12 公里處發生 5.5 級地震。"
+    },
+    {
+      "id": "4924050",
+      "time": "2026-06-08 19:40:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳：與SK海力士和SK Telecom的合作關係未來可能為韓國帶來數千億美元的業務。"
+    },
+    {
+      "id": "4924049",
+      "time": "2026-06-08 19:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：4-5月印度商品出口同比增長15%。"
+    },
+    {
+      "id": "te:markets:557283",
+      "time": "2026-06-08 19:39:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound — Futures tracking US equities were firmly higher on Monday on signs of caution de-escalation in the Middle East and a halt to the selloff for chip producers. Contracts for the S&P 500 and Nasdaq 100 gained around 1%, while those for the Dow were 0.4% higher. Iran stated it had ended its military operation in Israel following strikes over the weekend, easing concerns that escalation would have broken ongoing negotiations between Tehran and the US to end the wider conflict. Energy prices and Treasury yields pared their rebound to support equities. Meanwhile, speculative positions on the AI economy returned as after Broadcom's earnings ignited a selloff in chip producers last week. Nvidia gained over 2% premarket while Micron and Marvell jumped over 4% each. AI infrastructure and datacenter investment will be tested Wednesday evening with Oracle's earnings. Its shares were 2% higher."
+    },
+    {
+      "id": "mkt:019ea707-f61e-799c-b570-35c7a95c4add",
+      "time": "2026-06-08 19:39:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "000660.KS",
+        "Impact bullish",
+        "017670.KS"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said partnerships with SK Hynix and SK Telecom could generate several hundred billion dollars of business for South Korea over time."
+    },
+    {
+      "id": "4924048",
+      "time": "2026-06-08 19:39:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空表示，商務出行需求保持穩健。"
+    },
+    {
+      "id": "4924047",
+      "time": "2026-06-08 19:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印度在對美貿易協定中，正爭取相較於其他競爭經濟體更優惠的關稅待遇。"
+    },
+    {
+      "id": "4924046",
+      "time": "2026-06-08 19:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印美貿易協定可在美國貿易代表辦公室（USTR）301調查結束後敲定。"
+    },
+    {
+      "id": "mkt:019ea707-1e04-799c-b570-2cd2e20190ab",
+      "time": "2026-06-08 19:38:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv Middle East correspondent reports no Israeli response yet to Iran's statement. Earlier today the Israeli military said it will continue to strike HEZBOLLAH."
+    },
+    {
+      "id": "4924045",
+      "time": "2026-06-08 19:38:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國加入港口國措施協定首年履約情況在滬公佈】《關於預防、制止和消除非法、不報告、不管制捕魚的港口國措施協定》全球實施十週年中國主題活動近日在上海舉行。港口國措施協定中國國家聯絡點代表介紹中國加入協定一年來主要履約情況。據介紹，中國加入港口國措施協定一年來，認真履行各項義務要求，建設制度體系，建立多部門工作協調機制，指定國家聯絡點，完善法律保障，印發工作意見；規範港口檢查，完成第一批23個港口指定工作，組織開展涉漁外國籍船舶港口國檢查，指導中國籍遠洋漁船接受其他港口國的檢查；參與國際合作，參加港口國措施協定締約方大會和相關國際會議，積極參與規則討論，中國專家被提名為港口國措施協定可持續執行工作組亞洲區代表；開展履約培訓，舉辦港口國措施協定國際研討會，提升履約能力；加強港口國措施協定履約宣傳，實施相關工作紮實起步。（新華社）"
+    },
     {
       "id": "4924044",
       "time": "2026-06-08 19:37:45",
@@ -177594,137 +177724,6 @@
         "國際"
       ],
       "text": "檔案顯示歐盟起草法案將在政府採購程式中引入強制性非價格評審標準。"
-    },
-    {
-      "id": "4910685",
-      "time": "2026-06-01 19:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，非歐盟雲服務商的遴選標準還將納入第三國雲服務市場開放程度。"
-    },
-    {
-      "id": "4910684",
-      "time": "2026-06-01 19:42:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，其他非價格標準需滿足歐盟研發成果及歐盟供應安全要求。"
-    },
-    {
-      "id": "4910683",
-      "time": "2026-06-01 19:42:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，非歐盟雲服務供應商的遴選標準將包括資料保護水平，以及第三國對企業資料、服務和決策的控制程度。"
-    },
-    {
-      "id": "mkt:019e82fe-3e62-7112-8c8f-2bb28a08f588",
-      "time": "2026-06-01 19:42:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS reports Yemen’s Houthi movement is waiting for HEZBOLLAH to call for it to join military operations against Israel, and says it is prepared to resume air and maritime strikes on Israel if Israel further escalates military action in Lebanon."
-    },
-    {
-      "id": "4910682",
-      "time": "2026-06-01 19:42:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，非價格評標標準將要求軟硬體在歐盟設計或製造。"
-    },
-    {
-      "id": "4910681",
-      "time": "2026-06-01 19:42:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "草案版歐盟雲端計算法規將令亞馬遜、谷歌、微軟競標歐洲“高度關鍵”雲端計算服務的程序複雜化。"
-    },
-    {
-      "id": "4910680",
-      "time": "2026-06-01 19:42:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華蘭股份：全資子公司擬對外投資完善AI醫藥領域佈局】華蘭股份公告稱，公司第六屆董事會第十七次會議以9票同意、0票反對、0票棄權，審議透過《關於全資子公司對外投資的議案》。全資子公司海南靈擎數智醫藥科技有限公司將投資無錫自然常數科技有限公司，完善公司在AI醫藥領域的戰略佈局，推動AI醫藥業務發展，提升核心競爭力和長期發展潛力。"
-    },
-    {
-      "id": "4910679",
-      "time": "2026-06-01 19:41:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【軟通計算機中標多個河北金融行業伺服器專案】據軟通動力訊息，軟通計算機河北代表處中標多個河北金融行業伺服器專案，中標金額超8300萬元。"
-    },
-    {
-      "id": "4910678",
-      "time": "2026-06-01 19:41:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Prosus已就其他投資者出售其Delivery Hero股權的定價事宜與對方進行了洽談。"
-    },
-    {
-      "id": "4910677",
-      "time": "2026-06-01 19:41:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特斯拉5月在多個歐洲市場的註冊量飆升】特斯拉在多個歐洲市場的註冊量有所增長，這表明這家美國電動汽車製造商在該地區的銷量持續回升。週一，來自瑞典交通局、bilstatistik.dk和ANFAC的資料顯示，特斯拉註冊量，作為衡量銷售情況指標，在瑞典增長了71%，達到858輛；在丹麥增長了136%，達到1,750輛；在西班牙增長了113%，達到1,690輛。法國汽車協會PFA的資料顯示，法國新註冊了5,446輛特斯拉汽車，較去年同期激增655%。據歐洲汽車工業協會（ACEA）資料顯示，4月份歐洲電動化車型（包括純電動、插電式混合動力和混合動力車型）的註冊量增長了約21%，佔該地區總註冊量的三分之二以上。"
-    },
-    {
-      "id": "4910676",
-      "time": "2026-06-01 19:40:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華蘭股份：全資子公司擬2.05億元增資自然常數獲34.17%股權】華蘭股份公告，公司全資子公司海南靈擎數智醫藥科技有限公司擬使用自有資金人民幣2.05億元向無錫自然常數科技有限公司進行增資入股，認購自然常數新增註冊資本人民幣102.5萬元，取得本次交易完成後自然常數基於完全攤薄基礎上34.17%的股權。本次投資已獲公司董事會審議透過，不構成關聯交易及重大資產重組。"
-    },
-    {
-      "id": "4910675",
-      "time": "2026-06-01 19:40:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復朗集團任命羅希為首席財務官】6月1日，全球奢侈時尚集團Lanvin Group（復朗集團）宣佈任命羅希為集團首席財務官，自2026年6月1日起生效。羅希將全面負責集團的財務事務，包括財務規劃與分析、會計與管控、財務管理、資金管理、投融資專案及投資者關係等工作。羅希曾擔任復星創富首席財務官，負責融資、投資退出及資本管理等工作。在2021年加入復星創富之前，羅希曾於食亨、微醫及阿里巴巴集團菜鳥網路擔任高階財務管理職務，負責融資、投資、投資者關係及財務管理等相關工作。"
-    },
-    {
-      "id": "mkt:019e82fb-993c-7112-8c8f-200b6349f648",
-      "time": "2026-06-01 19:39:45",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "FITCH has revised the outlook for homebuilders in Europe, the Middle East and Africa to negative, citing rising geopolitical risks."
-    },
-    {
-      "id": "4910674",
-      "time": "2026-06-01 19:39:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級因地緣政治風險將歐洲、中東和非洲地區住宅建築商的評級展望下調至惡化。"
-    },
-    {
-      "id": "mkt:019e82fa-c9cd-7112-8c8f-18c5f6f4d56f",
-      "time": "2026-06-01 19:38:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Turkey's energy minister said state pipeline company BOTAS is negotiating with GAZPROM on a gas agreement."
     }
   ]
 }
