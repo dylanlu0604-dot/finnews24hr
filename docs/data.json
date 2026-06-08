@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-08 13:41:43",
-  "count": 19317,
+  "updated": "2026-06-08 13:45:41",
+  "count": 19321,
   "items": [
+    {
+      "id": "4923132",
+      "time": "2026-06-08 13:44:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東墨龍成立石油科技公司，含海洋石油開採業務】企查查APP顯示，近日，山東墨龍石油科技有限公司成立，註冊資本1000萬元，經營範圍包含：海洋石油開採；海洋天然氣開採；測繪服務；特種裝置安裝改造修理；金屬與非金屬礦產資源地質勘探等。企查查股權穿透顯示，該公司由山東墨龍全資持股。"
+    },
+    {
+      "id": "4923131",
+      "time": "2026-06-08 13:44:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌韓元最新報1美元兌1540.45韓元，此前報1553.50韓元；上週五尾盤報1539.10韓元。"
+    },
+    {
+      "id": "mkt:019ea5c2-0b10-700a-8482-03678057a81a",
+      "time": "2026-06-08 13:43:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 Index fell more than 5%."
+    },
+    {
+      "id": "te:markets:557143",
+      "time": "2026-06-08 13:43:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends at 2-Week Low, Falls 0.9% — The NZX 50 dropped 124 points, or 0.9%, to close at 13,038 on Monday, halting gains from the previous session and touching its lowest level since May 25, tracking a downbeat session on Wall Street on Friday due to a steep selloff in semiconductor shares. Concerns about renewed tensions in the Middle East also pressured sentiment after Israel launched retaliatory strikes on Iran following Tehran's attacks on northern Israel. Traders also awaited the release of US inflation data and China's inflation and trade balance figures, as well as New Zealand business PMI data later this week. Industrial, technology, utilities, and energy stocks mainly weighed on the index, with notable losses from Freightways Group (-3.4%), Henderson Far East Income (-2.7%), Auckland International Airport (-2.5%), and Meridian Energy (-2.4%), while Fletcher Building and Mainfreight each fell 1.9%, Contact Energy shed 1.3%, and Infratil dropped 1.2%."
+    },
+    {
+      "id": "4923129",
+      "time": "2026-06-08 13:42:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲5%，現報97.75美元/桶。"
+    },
+    {
+      "id": "4923128",
+      "time": "2026-06-08 13:42:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5％，成分股中，翱捷科技跌8.95％，思特威跌8.95％，西部超導跌8.42％，天嶽先進跌7.78％。"
+    },
+    {
+      "id": "4923127",
+      "time": "2026-06-08 13:41:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【科創50指數跌幅擴大至5%，僅4只成分股上漲】科創50指數跌幅擴大至5%，翱捷科技、思特威、西部超導、天嶽先進、佰維儲存領跌。"
+    },
+    {
+      "id": "mkt:019ea5c0-40db-700a-8481-fc7ced0afcf0",
+      "time": "2026-06-08 13:41:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext index fell more than 4% intraday, slipping below 3,800 to its lowest level since May 11 this year."
+    },
+    {
+      "id": "4923126",
+      "time": "2026-06-08 13:41:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗一能源設施遭以軍空襲後疏散】據伊朗國家媒體報道稱，今天（6月8日）早些時候遭到以軍空襲後，位於胡齊斯坦省的馬赫沙赫爾石油化工經濟區正在進行疏散撤離。（CCTV國際時訊）"
+    },
     {
       "id": "4923125",
       "time": "2026-06-08 13:40:43",
@@ -178050,50 +178136,6 @@
         "國際"
       ],
       "text": "【以軍稱攔截黎真主黨火箭彈並打擊其火箭發射裝置】當地時間6月1日，以色列國防軍表示，當天清晨從黎巴嫩境內發射、指向以色列上加利利地區的一枚火箭彈被以軍成功攔截。以軍同時稱，在以北部城市謝莫納上空發射了一枚攔截彈，用於應對一架疑似由黎真主黨操控的無人機，目前攔截效果仍在評估中。以軍還表示，6月1日凌晨，其對一處真主黨火箭彈發射裝置實施空襲。自當天凌晨以來，以色列北部疑似因火箭彈和無人機來襲多次拉響防空警報。（央視新聞）"
-    },
-    {
-      "id": "4909766",
-      "time": "2026-06-01 13:45:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國最北高鐵哈伊高鐵開行首趟動車組測試列車】據中國鐵路哈爾濱局，我國在建緯度最高的高速鐵路哈爾濱至伊春高鐵迎來重要節點。6月1日7時25分，在黑龍江省哈爾濱站內，一列CRH5型測試動車組駛向伊春西站，這是哈伊高鐵自5月30日啟動聯調聯試以來開行的首趟動車組測試列車。哈伊高鐵通車後，哈爾濱至伊春的旅客列車執行時間將由7小時壓縮至2小時以內，對於助力東北全面振興、推動沿線冰雪旅遊和生態資源開發、完善區域路網布局具有重要意義。"
-    },
-    {
-      "id": "4909765",
-      "time": "2026-06-01 13:44:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【同比增長120%！四川A級納稅人突破32萬戶】記者從四川省稅務局獲悉，四川省2025年度納稅繳費信用評價結果於近日公佈，全省近270萬戶納稅人參評，A級納稅人超32萬戶，較2024年度增長120%，佔比由2024年的6.26%提升至12.87%。（每經）"
-    },
-    {
-      "id": "mkt:019e81b5-35e5-799c-966b-f0473135297c",
-      "time": "2026-06-01 13:43:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "09863.HK",
-        "Impact bullish"
-      ],
-      "text": "Leapmotor (09863.HK) said May 2026 deliveries were 81,569 units, up 81% YoY."
-    },
-    {
-      "id": "4909764",
-      "time": "2026-06-01 13:42:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "銀行股震盪上行，南京銀行、廈門銀行漲超3%，紫金銀行、農業銀行、上海銀行等跟漲。"
-    },
-    {
-      "id": "4909763",
-      "time": "2026-06-01 13:42:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "零跑汽車：5月零跑交付量達81569臺。"
     }
   ]
 }
