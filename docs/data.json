@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-08 10:11:11",
-  "count": 19254,
+  "updated": "2026-06-08 10:14:57",
+  "count": 19260,
   "items": [
+    {
+      "id": "mkt:019ea502-b468-7ee0-94c8-47d54353905f",
+      "time": "2026-06-08 10:14:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Greater Bay Area auto show books nearly 40,000 cars】June 7 — The 2026 (30th) Guangdong‑Hong Kong‑Macao Greater Bay Area Auto Show ended at the Shenzhen International Convention and Exhibition Center, recording attendance of 810,000 and 39,253 vehicle bookings totaling about 8.25 bln yuan."
+    },
+    {
+      "id": "mkt:019ea502-a303-7ee0-94c8-38d44e968a57",
+      "time": "2026-06-08 10:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Aramco set the July official selling price for Arab Light crude to Asia at a $9.50/barrel premium to the Oman/Dubai average."
+    },
+    {
+      "id": "4922745",
+      "time": "2026-06-08 10:14:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴、中微公司等成立私募投資基金，出資額39.1億元】企查查APP顯示，近日，長智瀚海（上海）私募投資基金合夥企業（有限合夥）成立，出資額39.1億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由長鑫芯聚股權投資（安徽）有限公司、阿里巴巴關聯公司杭州灝月企業管理有限公司、中微半導體（上海）有限公司等共同持股。"
+    },
+    {
+      "id": "4922744",
+      "time": "2026-06-08 10:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社：截至目前，以色列襲擊未針對德黑蘭城區。"
+    },
+    {
+      "id": "4922743",
+      "time": "2026-06-08 10:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵港澳大灣區車展“賣”出近4萬輛車】據深圳特區報，6月7日，2026（第三十屆）粵港澳大灣區車展在深圳國際會展中心落下帷幕。展期內吸引81萬人次觀展，預定成交車輛39253輛，預定成交金額約82.5億元。"
+    },
+    {
+      "id": "4922742",
+      "time": "2026-06-08 10:13:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合創始人退出小米電子軟體技術公司】天眼查App顯示，近日，北京小米電子軟體技術有限公司發生工商變更，原股東小米聯合創始人洪鋒退出，新增劉凌迪為股東。 該公司成立於2014年7月，法定代表人為嶽凱，註冊資本約20.7億人民幣，經營範圍包括貨物進出口、技術進出口、代理進出口等，現由雷軍及上述新增股東共同持股。"
+    },
+    {
+      "id": "4922741",
+      "time": "2026-06-08 10:13:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙烏地阿拉伯國家石油公司（阿美）將7月銷往亞洲的阿拉伯輕質原油官方售價設定為較阿曼/迪拜均價每桶升水9.50美元。"
+    },
+    {
+      "id": "4922740",
+      "time": "2026-06-08 10:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：選票短缺問題需展開調查。"
+    },
+    {
+      "id": "4922739",
+      "time": "2026-06-08 10:13:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6372.00元。"
+    },
+    {
+      "id": "4922738",
+      "time": "2026-06-08 10:12:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼雅加達綜合指數下跌 4.4%，創 2020 年 11 月以來新低。"
+    },
+    {
+      "id": "4922737",
+      "time": "2026-06-08 10:12:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "報道稱，以色列已襲擊伊朗境內至少15處目標。目前遭打擊的目標包括一座無人機製造廠、德黑蘭國際機場以及多處戰略石油設施。"
+    },
+    {
+      "id": "4922736",
+      "time": "2026-06-08 10:12:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以色列發動襲擊，伊朗關閉德黑蘭伊瑪目霍梅尼國際機場周邊空域】據《以色列時報》8日最新訊息，在以色列對伊朗發動襲擊後，伊朗關閉了德黑蘭伊瑪目霍梅尼國際機場周邊空域。（環球網）"
+    },
+    {
+      "id": "te:economy:557084",
+      "time": "2026-06-08 10:11:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Over 2-Week High — Australia’s 10-year government bond yield rose above 4.9%, reaching more than a two-week high as rising Middle East tensions and a fragile US-Iran peace deal fueled inflation concerns. Iran launched multiple missile waves toward Israel over the weekend as a warning against further military actions in Lebanon, casting doubt on a fragile ceasefire as peace talks remain stalled. The prolonged conflict and the continued near-closure of the Strait of Hormuz have disrupted energy supplies from the Persian Gulf, pushing oil prices higher and intensifying global inflation concerns. In Australia, RBA Governor Michele Bullock reiterated last week that the central bank remains firmly focused on bringing inflation down, following three rate hikes earlier this year that lifted the cash rate to 4.35%. She also noted that inflation remains too elevated, stressing that the board will take whatever measures it deems necessary to fulfill its mandate of achieving price stability and full employment."
+    },
+    {
+      "id": "4922735",
+      "time": "2026-06-08 10:11:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道， 伊朗境內十餘處目標遭襲，其中包括防空系統與彈道導彈設施。"
+    },
+    {
+      "id": "4922734",
+      "time": "2026-06-08 10:10:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念逆勢活躍 百花醫藥、津藥藥業雙雙漲停】創新藥概念盤中逆勢活躍，百花醫藥、津藥藥業漲停，賽倫生物、魯抗醫藥、萊美藥業、三元基因等衝高。"
+    },
+    {
+      "id": "te:markets:557082",
+      "time": "2026-06-08 10:10:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Shanghai Stocks Hit 2-Month Low — The Shanghai Composite tumbled 2.2% to 3,944 on Monday, its lowest level in two months, while the Shenzhen Component fell 1.8% to 15,033, marking a more than one-month low, as a broad selloff in technology stocks weighed heavily on mainland markets. The sector came under pressure after a sharp retreat in Wall Street's AI-related stocks, as stronger-than-expected US jobs data fueled concerns about a prolonged period of high interest rates. Leading decliners included Zhongji Innolight (-7.8%), Eoptolink Technology (-3.6%), and NAURA Technology (-3.8%). Sentiment was also hit after Iran framed its latest missile launch as a warning to Israel about its operations in Lebanon, even as Israeli defense systems apparently intercepted all projectiles. Domestically, investors now await China's trade and inflation data later this week for fresh clues on the strength of China's economy amid external and domestic headwinds."
+    },
     {
       "id": "4922733",
       "time": "2026-06-08 10:10:26",
@@ -78,6 +217,14 @@
         "國際"
       ],
       "text": "美國地質調查局：菲律賓薩蘭加尼西南偏南 64 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "4922725",
+      "time": "2026-06-08 10:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月8日10時釋出暴雨黃色預警。"
     },
     {
       "id": "4922724",
@@ -177555,108 +177702,6 @@
         "其他"
       ],
       "text": "【上海：實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策 推動跨境電商、直播電商創新發展】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，提高軟體研發應用水平，實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策。提高作業系統、資料庫、工具軟體等基礎軟體效能，強化計算機輔助設計、輔助分析、產品生命週期管理等工業軟體供給能力，推進雲化部署，鼓勵佈局研發智慧助手、智慧辦公、智慧娛樂等智慧原生軟體。壯大線上新經濟規模，做強生活性網際網路、社交電商、文化社群影片平臺等優勢業態。提升大宗商品交易、工業品電商、工業數字化轉型服務平臺能級。推動跨境電商、直播電商創新發展。"
-    },
-    {
-      "id": "4909444",
-      "time": "2026-06-01 10:14:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少3.43噸】截至2026年05月29日，全球最大的黃金ETF SPDR Gold Trust持倉量為1029.14噸，較前一個交易日減少3.43噸。"
-    },
-    {
-      "id": "4909443",
-      "time": "2026-06-01 10:14:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濱化股份等成立北鯤天樞科技公司 含多項AI業務】企查查APP顯示，近日，北鯤天樞（上海）科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧通用應用系統；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由濱化股份等共同持股。"
-    },
-    {
-      "id": "mkt:019e80f6-0b35-7666-845c-d7170ce74999",
-      "time": "2026-06-01 10:14:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "WTI",
-        "CNH"
-      ],
-      "text": "【Shanghai to cultivate bulk-commodity trading firms with integrated procurement, distribution, processing, storage and delivery capabilities】Shanghai government published its service-sector \"15th Five-Year\" plan, urging firms with international and domestic supply-chain capabilities to set up global supply-chain management centers in the city and to cultivate bulk-commodity trading firms offering integrated procurement, distribution, processing, storage and delivery services. The plan calls for upgrading national foreign-trade transformation bases and import-trade promotion innovation demo zones, accelerating new trade forms—service trade, digital trade, cross-border e‑commerce and offshore trade—and building bonded-zone digital application scenarios and national service-trade innovation demonstration zones. It directs the Oriental Hub international business cooperation zone to pilot service-trade innovation and seeks to boost Shanghai's global resource-allocation capacity by encouraging commodity trading platforms to broaden product suites, expand functions and promote linkage between commodity futures, spot and derivatives markets. The plan also tasks expansion of overseas comprehensive service networks to raise firms' outbound platform capabilities and further upgrades the China (Shanghai) International Trade Single Window with smarter services."
-    },
-    {
-      "id": "4909442",
-      "time": "2026-06-01 10:14:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：強化“人工智慧（AI）+”新興業態基礎支撐，最佳化佈局算力設施】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，強化“人工智慧（AI）+”新興業態基礎支撐，最佳化佈局算力設施，加強算力券支援和智慧算力普惠供給。支援資訊服務、工業服務等領域建設共性技術平臺，提供演算法庫、工具鏈、測試驗證環境等資源共享服務。培育資料服務商，推動重點行業領域打造“資料要素×”示範場景。"
-    },
-    {
-      "id": "4909441",
-      "time": "2026-06-01 10:13:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭明錤：英偉達N1X/N1瞄準端側AI重度使用者 出貨量仍取決於Windows】分析師郭明錤在X平臺發文，分析英偉達N1/N1X晶片的市場前景。供應鏈調查顯示，配備N1X/N1晶片的裝置未來兩年出貨量大約為1000萬臺。面向小眾市場，瞄準對端側AI算力有需求的重度使用者。除開售價因素，未來出貨量能否上調，仍取決於Windows是否能提供真正排程端側AI算力的應用與工作流。（科創板日報）"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606013755585588",
-      "time": "2026-06-01 10:12:55",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國白宮經濟主任呼籲公眾理性看待經濟資料波動】美國白宮國家經濟委員會主任哈塞特週日表示，媒體對經濟新聞的報道方式往往會讓人們過度關注到某一特定時刻所存在的最嚴重問題。哈塞特稱，每個人都應著眼全域性，而不僅僅是能源價格或經濟中某個暫時遇到困難的領域，“你應該做的是從容看待這些漲跌，關注實際工資的變化情況”。"
-    },
-    {
-      "id": "4909440",
-      "time": "2026-06-01 10:12:50",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【上海：深化實施股票發行註冊制改革，健全常態化退市機制】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，做強金融基礎設施和多層次金融市場，提高人民幣跨境支付系統（CIPS）全球網路覆蓋度，支援銀行間市場交易報告庫建設；深化實施股票發行註冊制改革，健全常態化退市機制；深化發展“一帶一路”債券和熊貓債、玉蘭債市場；推動期貨和衍生品市場產品創新，推進人民幣外匯期貨交易試點；深化信託財產登記制度試點。提升金融市場開放度和國際化服務競爭力，深化臨港離岸貿易金融服務綜合改革試點，持續增強國際再保險、全球資產管理等重點中心功能，不斷提升“上海價格”“上海指數”以及主要大宗商品和重要能源品種期現貨價格的國際影響力；拓展自由貿易賬戶功能及應用場景。"
-    },
-    {
-      "id": "4909439",
-      "time": "2026-06-01 10:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：深入實施全球貿易商行動，發展一批貿易自主品牌企業和貿易型總部】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到， 引育高能級貿易主體，深入實施全球貿易商行動，發展一批貿易自主品牌企業和貿易型總部；鼓勵具有國際國內供應鏈組織能力的企業在滬設立全球供應鏈管理中心；培育具有采購、分銷、加工、儲存、配送等綜合服務能力的大宗商品貿易主體。最佳化國家外貿轉型升級基地功能，提升進口貿易促進創新示範區能級。加快發展新型貿易，推動服務貿易、數字貿易、跨境電商、離岸貿易創新發展。打造一批保稅數字化應用場景，建設國家服務貿易創新發展示範區，增強國家特色服務出口基地輻射帶動作用，支援東方樞紐國際商務合作區開展服務貿易創新探索。提升全球資源配置能級，鼓勵大宗商品交易服務平臺豐富業務品種、拓展服務功能，促進大宗商品期、現、衍市場聯動。持續深化海外綜合服務體系建設，提升企業走出去綜合服務平臺能級，全力打響上海出海服務品牌。深化中國（上海）國際貿易“單一視窗”建設，最佳化智慧化服務功能。"
-    },
-    {
-      "id": "4909438",
-      "time": "2026-06-01 10:11:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【短劇遊戲板塊走高，天地線上漲停】短劇遊戲板塊走高，天地線上漲停，掌閱科技此前漲停，中科金財、易點天下、引力傳媒、流金科技等跟漲。相關ETF方面，影視ETF國泰（516620）漲1.92%，成交額994.82萬元，傳媒ETF廣發（512980）漲2.77%，成交額1.31億元。"
-    },
-    {
-      "id": "mkt:019e80f3-7b71-7666-845c-cbffd63ce337",
-      "time": "2026-06-01 10:11:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Shanghai: deepen registration-based stock issuance reform, improve routine delisting mechanism】Shanghai municipal government issued its 15th Five-Year Plan for service-industry development, targeting measures to boost financial-market infrastructure and internationalization. Key items: expand CIPS global network coverage and support an interbank market trade-reporting repository; deepen registration-based stock issuance reform and improve routine delisting mechanisms; develop Belt and Road bonds, panda bonds and Yulan bonds; promote futures and derivatives product innovation and pilot RMB FX futures trading; advance a trust-asset registration pilot; deepen the Lingang offshore trade-finance reform pilot; strengthen international reinsurance and global asset-management center functions; raise the international influence of Shanghai prices and indices and key commodity and energy spot/futures; and expand free-trade account functions and applications."
-    },
-    {
-      "id": "4909437",
-      "time": "2026-06-01 10:11:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩議會議長稱已保證真主黨會遵守停火協議，但要求以色列承擔率先停火的責任。"
     }
   ]
 }
