@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-08 09:13:00",
-  "count": 19223,
+  "updated": "2026-06-08 09:16:59",
+  "count": 19228,
   "items": [
+    {
+      "id": "mkt:019ea4cd-133a-7338-95ae-686e095f97f0",
+      "time": "2026-06-08 09:15:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai gold futures contract 2608 weakened intraday, sliding 3.13% to 947.44 yuan/gram; turnover about 193.03 bln yuan. Open interest rose nearly 2,400 lots intraday and trading volatility increased."
+    },
+    {
+      "id": "mkt:019ea4cc-fe9b-7338-95ae-62e221173ca7",
+      "time": "2026-06-08 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 1.66% at 24,476, trading 486 points below the spot index."
+    },
+    {
+      "id": "4922580",
+      "time": "2026-06-08 09:15:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8198，較上日調低41點】人民幣兌美元中間價報6.8198，較上日調低41點。"
+    },
+    {
+      "id": "4922579",
+      "time": "2026-06-08 09:15:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破94美元/桶，日內漲3.85%。"
+    },
+    {
+      "id": "4922578",
+      "time": "2026-06-08 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8198元。"
+    },
+    {
+      "id": "4922577",
+      "time": "2026-06-08 09:15:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌5%，現報290.55元。"
+    },
+    {
+      "id": "4922576",
+      "time": "2026-06-08 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌1.69%，報24467.28點，低水494.67點。"
+    },
+    {
+      "id": "mkt:019ea4cc-38f3-7338-95ae-59080b445f92",
+      "time": "2026-06-08 09:15:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose 3.00% intraday to $94.79/bbl."
+    },
+    {
+      "id": "mkt:019ea4cc-0f8c-7338-95ae-5190a94b4da1",
+      "time": "2026-06-08 09:14:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first surgical platform supporting full-path implantable brain–computer interfaces commissioned】Hubei Provincial Science & Technology Investment Co., United Imaging Group and Tongji Hospital (Huazhong University of Science & Technology) have opened a composite operating-room application demonstration center at Tongji Hospital’s Guanggu campus. The facility is central China’s first domestically produced high-end composite OR demonstration platform and China’s first integrated smart surgical platform explicitly designed to support the full technical pathway for implantable brain–computer interfaces."
+    },
+    {
+      "id": "4922575",
+      "time": "2026-06-08 09:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東與騰訊就AI Agent將達成重要合作】京東與騰訊將圍繞AI Agent展開深度合作。依託京東的商品供應鏈、履約服務能力及騰訊的生態入口優勢，雙方將共同打造跨場景的智慧化服務新正規化，推動AI Agent從單點應用走向生態協同。"
+    },
+    {
+      "id": "mkt:019ea4cb-8675-7338-95ae-4d89a260403a",
+      "time": "2026-06-08 09:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE said a major investment project will be announced soon."
+    },
+    {
+      "id": "4922574",
+      "time": "2026-06-08 09:14:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：將公佈推動增長戰略轉變的大型投資專案。"
+    },
+    {
+      "id": "mkt:019ea4cb-1cad-7338-95ae-41775d2188a9",
+      "time": "2026-06-08 09:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE said the gains from corporate growth must benefit small firms across all regions."
+    },
+    {
+      "id": "mkt:019ea4cb-019f-7338-95ae-3a836dec4f83",
+      "time": "2026-06-08 09:13:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said the government will intensify enforcement against financial and real estate crime."
+    },
+    {
+      "id": "mkt:019ea4ca-6c00-7338-95ae-3507fc2d6b60",
+      "time": "2026-06-08 09:13:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said Seoul will explore revising its bilateral nuclear agreement with the United States."
+    },
+    {
+      "id": "4922573",
+      "time": "2026-06-08 09:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：將嚴厲打擊股價操縱及涉房地產犯罪。"
+    },
+    {
+      "id": "mkt:019ea4ca-2817-7338-95ae-2e3499c15b3c",
+      "time": "2026-06-08 09:12:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 down 4.00% intraday at 63,917.67 points."
+    },
     {
       "id": "mkt:019ea4c9-fd41-7338-95ae-27ac3de208fc",
       "time": "2026-06-08 09:12:41",
@@ -177299,103 +177454,6 @@
         "公司"
       ],
       "text": "【MiniMax推出MiniMax M3模型】MINIMAX-W(00100.HK)宣佈推出MiniMaxM3模型，公告表示“MiniMaxM3在程式設計和智慧體等專業任務上達到了前沿的能力。它使用了提出的全新注意力架構MSA(MiniMaxSparseAttention)，最高支援1M超長上下文。如外界所期待的那樣，它也是一個原生多模態模型,支援圖片和影片的輸入，並能操作電腦桌面。這三種能力是海外閉源前沿模型所必須擁有的。M3是國內第一個齊備這些要素的模型，也是目前唯一的開源模型。”"
-    },
-    {
-      "id": "4909313",
-      "time": "2026-06-01 09:16:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南網能源：2026年將持續做強電力交易與虛擬電廠業務】南網能源(003035)5月29日在券商策略會上表示，2025年公司已實現全年扭虧為盈，經營基本面持續得到改善，2026年預期將持續保持企穩回升的良好態勢。公司在虛擬電廠和電力交易新業務領域取得了重要突破。2025年，公司售電業務資質成功實現南方五省區全覆蓋，取得廣東省及廣州市首批虛擬電廠運營商資質，售電交易服務實現“零的突破”，代理交易電量突破3億千瓦時，綠證交易超50萬張，代理綠電交易超5000萬千瓦時。2026年，公司將持續做強電力交易與虛擬電廠業務，推動虛擬電廠業務與碳市場服務深度融合，提升源荷聚合能力。"
-    },
-    {
-      "id": "4909312",
-      "time": "2026-06-01 09:15:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8167，較上日調高9點】人民幣兌美元中間價報6.8167，較上日調高9點。"
-    },
-    {
-      "id": "mkt:019e80c0-3922-766e-87ae-86f64c8d99d6",
-      "time": "2026-06-01 09:15:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Container freight index (Europe route) lead contract rose 401 points intraday to 3,892, up 11.49%."
-    },
-    {
-      "id": "4909311",
-      "time": "2026-06-01 09:15:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【千方科技：子公司千曙科技與福田卡文汽車簽署合作備忘錄】據千方科技訊息，近日，千方科技智駕子公司千曙科技與福田卡文汽車簽署合作備忘錄，雙方將共同打造L3/L4級可電可氫自動駕駛重卡。根據備忘錄，千曙負責開發L3/L4級自動駕駛系統及產品，構建持續進化的自動駕駛重卡系統。福田卡文負責整車定義與開發，提供技術驗證與量產落地平臺。雙方還將以智慧座艙為互動平臺，共同開發面向物流場景的智慧體應用，實現“接單-規劃-行車-補能”物流貨運全流程智慧閉環。雙方確定合作車型採用“可電可氫”的靈活配置，既是對不同運營場景的適應性考量，也為後續不同減碳路徑發展留出冗餘空間。目前，雙方聚焦於產品定義與技術對接，預計年底啟動車型公告申請。"
-    },
-    {
-      "id": "mkt:019e80bf-faae-766e-87ae-7975eab7214f",
-      "time": "2026-06-01 09:15:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI jumped 3% intraday to 8,733.67 points."
-    },
-    {
-      "id": "4909310",
-      "time": "2026-06-01 09:15:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8167元。"
-    },
-    {
-      "id": "4909309",
-      "time": "2026-06-01 09:15:22",
-      "tags": [],
-      "text": "韓國綜合指數漲超3％，續創歷史新高，三星電子漲超7％。"
-    },
-    {
-      "id": "4909308",
-      "time": "2026-06-01 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.45%，報25101.12點，低水81.27點。"
-    },
-    {
-      "id": "4909307",
-      "time": "2026-06-01 09:14:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣股市早盤升逾1.7%報45,533.53點，再重新整理盤中歷史高位。"
-    },
-    {
-      "id": "4909306",
-      "time": "2026-06-01 09:13:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏軍目標 烏稱襲擊俄油氣設施】俄羅斯國防部5月31日釋出戰報稱，俄軍對烏軍遠端無人機的生產車間和發射場地、燃料儲存基地、烏軍使用的交通和能源設施、烏武裝部隊和外國僱傭兵臨時部署點等目標進行打擊。俄防空系統擊落烏軍405架無人機。烏克蘭武裝部隊總參謀部同一天稱，俄羅斯薩拉托夫煉油廠5月31日凌晨遭到烏軍襲擊並燃起大火。薩拉托夫煉油廠是俄關鍵燃油基礎設施，設計年煉油產能700萬噸。此外，俄羅斯基洛夫州一處輸油泵站、羅斯托夫州一處大型儲油庫等目標當天也遭到烏軍襲擊。"
-    },
-    {
-      "id": "mkt:019e80be-6778-766e-87ae-73843d0ffb90",
-      "time": "2026-06-01 09:13:41",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics extended gains to 7.7%."
-    },
-    {
-      "id": "4909305",
-      "time": "2026-06-01 09:13:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價漲幅擴大至7.7%。"
     }
   ]
 }
