@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-08 22:38:11",
+  "updated": "2026-06-08 22:42:19",
   "count": 19104,
   "items": [
+    {
+      "id": "4924381",
+      "time": "2026-06-08 22:41:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲超2%，標普漲超0.8%，納指漲超1.4%，半導體指數漲超6.1%。"
+    },
+    {
+      "id": "mkt:019ea7ad-8345-7226-8cb6-eb7d0ab291c1",
+      "time": "2026-06-08 22:40:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 gains widened to 2%."
+    },
+    {
+      "id": "mkt:019ea7ad-32ca-7226-8cb6-e07460ff691d",
+      "time": "2026-06-08 22:40:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel defense minister Katz: rejects Iran's threats, will continue to confront Hezbollah】Israel's defense minister Katz said any attack on settlements in northern Israel would prompt strikes on Beirut's southern suburb of Dahiyeh. The Israel Defense Forces will continue operations against Hezbollah inside Lebanon. Katz rejected Iranian threats and warned any Iranian attempt to link Lebanon to Iran to attack Israel would be met with a strong response, as it was yesterday."
+    },
+    {
+      "id": "4924380",
+      "time": "2026-06-08 22:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至2%。"
+    },
+    {
+      "id": "4924379",
+      "time": "2026-06-08 22:39:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東興證券：吸收合併事項通知債權人】東興證券公告，公司擬被中金公司透過換股方式吸收合併（同時信達證券亦被合併），中金公司將承繼公司全部資產、負債、業務等。公司於2026年6月8日召開2026年第一次臨時股東會，審議透過了本次交易相關議案，尚待有權機構批准。根據《公司法》，公司債權人自本公告披露之日起45日內有權要求公司清償債務或提供相應擔保。"
+    },
+    {
+      "id": "4924378",
+      "time": "2026-06-08 22:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股光通訊股漲幅擴大】邁威爾科技漲近12%，康寧漲超7%，Lumentum漲超4%。"
+    },
+    {
+      "id": "4924377",
+      "time": "2026-06-08 22:38:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【儘管略有反彈，歐元區投資者情緒依然低迷】Sentix的一項調查顯示，6月份歐元區投資者情緒連續第二個月回升。牛津經濟研究院的Ricardo Amaro在一份報告中表示，然而，由於地緣政治的不確定性，投資者情緒水平依然低迷，與前兩個月出現的大幅下跌相比，這種反彈顯得微不足道。“總而言之，大多數針對歐元區經濟的調查顯示5月份略有反彈，今天的初步證據表明這種趨勢可能會在6月份持續，但不足以重新點燃歐元區經濟，“他表示。Amaro補充說，在美國和伊朗爆發新衝突之際，隨著透過霍爾木茲海峽的貿易流正常化繼續面臨延遲，這種情緒的回升依然基礎不穩。"
+    },
+    {
+      "id": "4924376",
+      "time": "2026-06-08 22:38:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會表示，已按照《2022年金融資料透明度法案》的要求制定了統一資料標準。"
+    },
     {
       "id": "4924375",
       "time": "2026-06-08 22:37:07",
@@ -175953,85 +176029,6 @@
         "國際"
       ],
       "text": "【以軍稱控制黎南部博福特嶺並將繼續打擊真主黨目標】當地時間6月1日，以色列國防軍發言人德弗林表示，以軍第36師近日在黎巴嫩南部開展行動，已取得對博福特嶺和薩盧基幹河地區的作戰控制。德弗林宣稱，該地區是黎巴嫩真主黨的重要據點，自以色列今年2月底發動所謂“咆哮的獅子”行動以來，當地已向以色列北部發射400餘枚火箭彈。德弗林表示，相關行動經過長期籌劃並獲以軍總參謀長批准，以軍將繼續壓縮真主黨能力並加大打擊力度。德弗林稱，近日軍事行動中兩名以軍士兵在博福特嶺地區死亡。德弗林表示，以軍將繼續在黎巴嫩境內實施打擊，從貝魯特南郊“達希耶”地區到泰爾市，目標是消除對以色列和以軍部隊的威脅。他同時呼籲以色列北部居民保持警惕並遵守後方司令部指示。（央視新聞）"
-    },
-    {
-      "id": "4911090",
-      "time": "2026-06-01 22:41:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【供應商罷工可能在數週內導致通用皮卡生產工廠停產】由於汽車零部件供應商Dauch公司的工會工人因勞資糾紛而罷工，通用汽車公司可能會被迫在本月晚些時候暫停其位於密歇根州的一家卡車廠的生產。該汽車製造商目前庫存的零部件足以維持約兩週的使用。工人要求提高目前每小時22美元的最低工資，並爭取更好的福利待遇。"
-    },
-    {
-      "id": "mkt:019e83a1-fafc-7552-8900-dc6769efe2f4",
-      "time": "2026-06-01 22:41:31",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "Impact bearish"
-      ],
-      "text": "【Strike at supplier Dauch could force GM Michigan pickup plant to halt production within weeks】Union workers at parts supplier Dauch have struck over a labor dispute and could force GM to suspend production at its Michigan pickup truck plant later this month. GM’s on‑hand parts inventory can support roughly two weeks of production. Workers are demanding higher pay above the current $22/hr minimum and improved benefits."
-    },
-    {
-      "id": "4911089",
-      "time": "2026-06-01 22:40:49",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國股市早盤小幅下跌 伊朗據報道暫停與美國交換資訊】美國股市週一早盤走低，此前伊朗媒體報道稱該國將停止與美國交換資訊，引發油價飆升。紐約時間10:00，標普500指數和道指跌0.1%，納斯達克100指數跌0.3%。標普500指數屢創紀錄後漲勢有所減弱，但科技股繼續攀升。伊朗塔斯尼姆通訊社報道稱，資訊交換已經暫停，以抗議以色列在黎巴嫩的軍事行動升級。經濟方面，受新訂單和產量回升的提振，美國5月份製造業活動以四年來的最快速度擴張。資料進一步加劇了市場對美聯儲將在更長時間內維持較高利率的猜測。財報季開始接近尾聲，剩餘待公佈業績的公司已所剩無幾。人工智慧可能仍將是市場關注的重點，這一主題繼續幫助股市走高。慧與公司、博通和CrowdStrike Holdings Inc.將是值得關注的公司。市場普遍認為，這三家公司都是人工智慧熱潮升溫的受益者。對將在週一盤後公佈業績的慧與而言，在同行戴爾釋出亮眼財報後，市場對其預期可能已經升高。富國投資研究所的Paul Christopher表示，人工智慧行情終將失去動能，但其走勢將與2000年網際網路泡沫時期的下跌大不相同。Christopher說：“當前與2000年3月牛市見頂時相比，最顯著的差異之一在於，企業過去一段時間的盈利增長與目前市場的整體回報基本相匹配。”"
-    },
-    {
-      "id": "te:markets:555432",
-      "time": "2026-06-01 22:39:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BlackRock Stock Price Hits 6-week Low — BlackRock shares decreased to 1029.00 USD, the lowest since April 2026. Over the past 4 weeks, BlackRock lost 1.83%, and in the last 12 months, it increased 5.62%."
-    },
-    {
-      "id": "te:markets:555431",
-      "time": "2026-06-01 22:39:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Turns Negative — The DAX 40 fell 0.7% to below 25,000 on Monday afternoon, in line with other European peers, following reports that Iranian negotiators had ceased talks with the US in retaliation for Israeli military operations in Lebanon. Tehran also threatened to fully block the Strait of Hormuz and said it would include the Bab al-Mandab Strait in the Horn of Africa in its escalation response to alleged ceasefire violations. The weekend was marked by a new series of US-Iran clashes, with Israel also expanding military operations in Lebanon. Energy-sensitive industrial stocks, particularly defense and aerospace names such as Rheinmetall (-5.8%), Airbus (-3.9%), and MTU Aero Engines (-3.5%), came under heavy pressure. On the opposite side, software stocks were among the biggest gainers, with SAP surging 6.8%."
-    },
-    {
-      "id": "4911088",
-      "time": "2026-06-01 22:38:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【戴爾科技漲11%、惠普漲近9% 英偉達進軍個人電腦市場】戴爾科技盤中再度漲11%，該股上一交易日因亮眼財報暴漲超32%，股價續創歷史新高；惠普現漲近9%。訊息面上，英偉達今日宣佈推出RTX Spark超級晶片，進軍PC市場。今天（6月1日），美國科技公司英偉達宣佈推出一款適用於個人電腦Windows系統的新款超級晶片，預計相關膝上型電腦和桌上型電腦產品將於今年秋季上市。英偉達執行長黃仁勳表示，新產品將改變以往個人電腦的工作方式，“使用者只需提出需求，剩下的都將由電腦來完成”。"
-    },
-    {
-      "id": "4911087",
-      "time": "2026-06-01 22:38:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指下跌 2%，報 112295.70 點。"
-    },
-    {
-      "id": "4911086",
-      "time": "2026-06-01 22:38:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【追覓回應Pre-IPO融資估值700億：與資本市場保持開放溝通，不評論市場傳聞】據報道，追覓近期開放直接融資視窗，計劃釋放部分Pre-IPO份額。本輪投前估值或鎖定約700億元人民幣，此次整體釋放的份額區間為5%至10%，單筆投資最低門檻高達3.5億元。對於是否已經開放Pre-IPO直接融資視窗一事，追覓科技獨家回應新浪科技稱：“我們注意到了相關市場傳聞，公司始終與資本市場保持開放溝通，並會根據業務發展需要和長期戰略規劃，適時評估各類資本合作機會。”“對於市場傳聞及未公開資訊，公司不予評論，任何重大資本動態，我們均會按監管要求透過官方渠道披露。”追覓科技方面表示。對於市場傳聞本輪融資估值約700億元是否屬實一事，追覓方面表示：“ 對於具體融資安排、估值等市場傳聞，公司不予評論，公司始終聚焦長期經營與技術創新，持續提升全球市場競爭力和企業價值。”（新浪科技）"
     }
   ]
 }
