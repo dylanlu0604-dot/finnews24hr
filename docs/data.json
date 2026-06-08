@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-08 08:38:25",
-  "count": 19215,
+  "updated": "2026-06-08 08:42:14",
+  "count": 19217,
   "items": [
+    {
+      "id": "4922511",
+      "time": "2026-06-08 08:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度過六】農業農村部最新小麥機收進度顯示，目前，全國小麥收穫進度已過六成。山西夏糧小麥即將進入集中收穫。據農業農村部最新小麥機收進度，截至6月7日17時，全國已收穫夏糧小麥2.1億畝，收穫進度61.82%。安徽麥收基本完成，河南過九成半，江蘇過六成半，山東過三成，陝西過兩成半，山西過一成，河北近一成。"
+    },
+    {
+      "id": "4922510",
+      "time": "2026-06-08 08:39:43",
+      "tags": [
+        "央行"
+      ],
+      "text": "【本週中國央行公開市場將有2262億元逆回購到期】其中，週一至週五分別到期110億元、2億元、0億元、0億元、2150億元。此外，週一將有300億元國庫現金定存到期。"
+    },
+    {
+      "id": "4922509",
+      "time": "2026-06-08 08:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數跌幅收窄至4.4%。"
+    },
+    {
+      "id": "4922508",
+      "time": "2026-06-08 08:38:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數繼續反彈拉昇，日內跌幅收窄至5%以內。"
+    },
     {
       "id": "4922507",
       "time": "2026-06-08 08:37:14",
@@ -177322,25 +177355,6 @@
         "Importance 2"
       ],
       "text": "Taiwan Factory Growth Steepest Since 2021 — The S&P Global Taiwan Manufacturing PMI rose to 56.1 in May 2026 from 55.3 in April, signaling the strongest expansion since August 2021. The increase was driven by the steepest rise in output since July 2021, supported by stronger demand and stockpiling efforts amid supply disruptions linked to the Middle East conflict. New orders expanded at a joint-fastest pace since July 2021, while export orders continued to rise on stronger demand from the US, Europe, Japan, and China. Purchasing activity increased at the second-fastest rate since November 2021, while supplier delivery times deteriorated the most since March 2022 due to shipping delays and material shortages. Backlogs of work rose sharply, though employment was broadly unchanged. Input cost inflation remained among the strongest on record, prompting firms to raise selling prices further. Meanwhile, business optimism climbed to a two-year high, supported by expectations of stronger demand from the electronics and AI sectors."
-    },
-    {
-      "id": "4909255",
-      "time": "2026-06-01 08:40:53",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【韓國製造業活動增速創五年多新高】週一公佈的一項調查顯示，受企業為應對中東衝突影響提前佈局推動，韓國5月製造業活動擴張速度創下五年多來新高。標普全球釋出的資料顯示，韓國5月採購經理人指數（PMI）錄得54.8，高於4月的53.6，為2021年3月以來最高水平。當月產出與新訂單增速均觸及近五年峰值；受市場需求走弱影響，新出口訂單六個月來首次下滑。標普全球市場情報經濟學家烏薩馬・巴蒂表示：“韓國製造業5月延續增長態勢，但靚麗的整體資料仍需理性看待。”他補充道：“受訪企業普遍表示，產能擴張主要源於備貨動作。中東戰事持續推高物價、擾亂製造業供應鏈，企業因此加大庫儲存備。”韓國4月工業產出表現不及預期。作為亞洲第四大經濟體，受益於全球人工智慧投資熱潮帶動晶片出口大增，該國一季度經濟增速創下近六年新高。"
-    },
-    {
-      "id": "mkt:019e809f-8e35-766e-87ad-ba79f8679536",
-      "time": "2026-06-01 08:40:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Powell warns politicized removals would threaten Fed's existence】According to TIMIRAOS, in a Sunday evening speech former Fed chair Powell, now a Fed governor, warned that if any administration removed Fed officials solely for policy disagreements, the Federal Reserve could not survive. He stressed legal protections against arbitrary dismissal and noted the executive branch has no role in selecting or supervising the 12 Reserve Bank presidents, who vote with the Board on interest rates. Powell said such a precedent would be copied by future administrations and called the Fed’s decades-old credibility an \"invaluable asset\" that officials must defend."
     }
   ]
 }
