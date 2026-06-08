@@ -1,7 +1,377 @@
 {
-  "updated": "2026-06-09 03:48:09",
-  "count": 19224,
+  "updated": "2026-06-09 04:25:07",
+  "count": 19231,
   "items": [
+    {
+      "id": "4924676",
+      "time": "2026-06-09 04:22:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司：將採用標準評估方法處理SpaceX的首次公開募股事宜。"
+    },
+    {
+      "id": "mkt:019ea8e2-fe7c-733a-9235-bb203f2aedb6",
+      "time": "2026-06-09 04:18:28",
+      "tags": [
+        "MKT News",
+        "AZN.O",
+        "Impact bullish"
+      ],
+      "text": "AstraZeneca (AZN.O) said its oral obesity drug reduced patients' body weight by 10.5% in a trial."
+    },
+    {
+      "id": "mkt:019ea8e2-f133-733a-9235-b027e1c4802a",
+      "time": "2026-06-09 04:18:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "CDNS.O"
+      ],
+      "text": "Cadence said it will partner with Intel's foundry (INTC.O) to accelerate optimization for the Intel 14A process, focusing on high-performance computing and mobile designs."
+    },
+    {
+      "id": "mkt:019ea8e2-12b0-733a-9235-a9fc9c16432c",
+      "time": "2026-06-09 04:17:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM News, citing sources, reports explosions heard in Sulaymaniyah in northern Iraq."
+    },
+    {
+      "id": "4924675",
+      "time": "2026-06-09 04:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康減肥藥臨床試驗結果顯示，受試者體重平均下降 10.5%。"
+    },
+    {
+      "id": "4924674",
+      "time": "2026-06-09 04:15:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "聖地亞哥燃氣電力公司、高通公司與加州大學聖地亞哥分校攜手開展邊緣人工智慧合作，助力提升野火及極端天氣應對能力。"
+    },
+    {
+      "id": "4924673",
+      "time": "2026-06-09 04:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引訊息稱，伊拉克北部的蘇萊曼尼亞地區傳出爆炸聲。"
+    },
+    {
+      "id": "4924672",
+      "time": "2026-06-09 04:12:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Applied Digital在Delta Forge 2簽署新的資料中心租賃協議，該公司股價盤後漲9%。"
+    },
+    {
+      "id": "te:markets:557366",
+      "time": "2026-06-09 04:09:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P and Nasdaq Climb on Strength in Chip Stocks — The Nasdaq rose 0.9% and the S&P 500 gained 0.3% on Monday, supported by a rebound in chip stocks after sharp losses in previous session and renewed optimism surrounding AI. Investor sentiment was also boosted after reports indicated that Iran and Israel had halted their exchanges of strikes, while President Trump said negotiations were continuing despite the attacks. As a result, oil prices gave back most of their earlier gains. Among semiconductor stocks, Nvidia advanced 1.7%, Broadcom climbed 2.8%, AMD surged 5.1%, and Micron Technology jumped 9.9%. Tesla also posted a strong gain, rising 4.6%. In contrast, the Dow Jones fell by 81 points. Apple declined 1.9% after its next-generation AI platform failed to impress investors. Microsoft and Visa also underperformed, each losing 1.2%."
+    },
+    {
+      "id": "4924671",
+      "time": "2026-06-09 04:08:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "西捷航空：反對政府在燃油成本上漲之際向航空公司提供貸款的提案， 加拿大不應採取國內外及加美邊境相關舉措擾亂市場秩序。"
+    },
+    {
+      "id": "mkt:019ea8d8-c03c-733a-9235-a05af1740765",
+      "time": "2026-06-09 04:07:17",
+      "tags": [
+        "MKT News",
+        "APLD.O",
+        "Impact bullish"
+      ],
+      "text": "Applied Digital (APLD.O) signed a 210 MW lease for the Delta Forge2 project, extending its \"AI factory\" franchise model to a fifth campus."
+    },
+    {
+      "id": "mkt:019ea8d7-286d-733a-9235-99576236939e",
+      "time": "2026-06-09 04:05:33",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US equities at close June 8 (Monday): Dow Jones Industrial Average down 80.77 points (-0.16%) to 50,786.01; S&P 500 up 21.94 points (+0.30%) to 7,405.68; Nasdaq Composite up 220.23 points (+0.86%) to 25,929.66."
+    },
+    {
+      "id": "mkt:019ea8d6-649e-733a-9235-9275fa71cd46",
+      "time": "2026-06-09 04:04:43",
+      "tags": [
+        "MKT News",
+        "CRM.N"
+      ],
+      "text": "Salesforce (CRM.N) signed a definitive agreement to acquire M3ter; the deal is expected to close in Salesforce's fiscal 2027 Q2."
+    },
+    {
+      "id": "4924670",
+      "time": "2026-06-09 04:04:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "據CNN：肯尼迪藝術中心官網已撤下特朗普相關標識。"
+    },
+    {
+      "id": "4924669",
+      "time": "2026-06-09 04:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：特朗普稱，他曾對內塔尼亞胡發出警告，若再度與伊朗開戰，對方或將陷入孤軍作戰的境地。"
+    },
+    {
+      "id": "mkt:019ea8d5-28dd-733a-9235-8db80c0e0ffb",
+      "time": "2026-06-09 04:03:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Axios reports US President Trump said he warned Israeli Prime Minister Netanyahu that if he were to go to war with Iran again he could find himself isolated."
+    },
+    {
+      "id": "4924668",
+      "time": "2026-06-09 04:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數收盤上漲5.6%。"
+    },
+    {
+      "id": "mkt:019ea8d3-4123-733a-9235-834a7f591346",
+      "time": "2026-06-09 04:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "MRVL.O",
+        "MU.O"
+      ],
+      "text": "【U.S. stocks close mixed; Intel jumps 11%】U.S. stocks closed mixed on Monday: the Dow Jones Industrial Average fell 0.16%, the S&P 500 rose 0.29% and the Nasdaq Composite gained 0.86%. MARVELL (MRVL.O) jumped 9.6%, Intel (INTC.O) rose 11% and Micron (MU.O) gained nearly 10%. The Nasdaq Golden Dragon China Index fell 0.6%; Alibaba (BABA.N) slipped about 1%."
+    },
+    {
+      "id": "4924667",
+      "time": "2026-06-09 04:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：截至上週，美國大豆播種進度達 92%，長勢優良至極佳的比例為 65%。"
+    },
+    {
+      "id": "4924666",
+      "time": "2026-06-09 04:00:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.16%，標普500指數漲0.29%，納指漲0.86%。英特爾漲11.10%，美光漲9.83%，阿克邁跌4.99%，好時跌4.75%，Ciena科技跌4.41%。“七姐妹”方面：特斯拉漲4.59%，英偉達漲1.73%，亞馬遜跌0.33%，微軟跌1.18%，谷歌跌1.22%，Meta Platforms跌1.31%，蘋果跌1.89%。"
+    },
+    {
+      "id": "4924665",
+      "time": "2026-06-09 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.57%】中進醫療跌10.93%，復朗集團跌7.19%，陸金所控股跌5.17%，新氧跌4.92%，大全新能源跌4.87%。"
+    },
+    {
+      "id": "mkt:019ea8d1-55ab-733a-9235-7ff29d6278c4",
+      "time": "2026-06-09 03:59:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRNA cites Iraqi media reporting multiple loud explosions in Erbil province; US military aircraft conducting large-scale patrols over Erbil."
+    },
+    {
+      "id": "4924664",
+      "time": "2026-06-09 03:58:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社：伊拉克媒體稱，伊拉克埃爾比勒省傳來多起劇烈爆炸聲，美軍戰鬥機正在該區域上空大規模巡邏。"
+    },
+    {
+      "id": "te:markets:557365",
+      "time": "2026-06-09 03:56:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Honeywell International Stock Price Hits 4-week Low — Honeywell International shares decreased to 211.48 USD, the lowest since May 2026. Over the past 4 weeks, Honeywell International lost 3.44%, and in the last 12 months, it decreased 6.85%."
+    },
+    {
+      "id": "mkt:019ea8ce-0201-733a-9235-703e02378c70",
+      "time": "2026-06-09 03:55:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said Iran need not choose between war and negotiations; it will fight or negotiate as timing warrants."
+    },
+    {
+      "id": "mkt:019ea8cb-d9d1-733a-9235-680bd335c8e8",
+      "time": "2026-06-09 03:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said he spoke today with U.S. presidential envoy Witkoff and Kushner; the talks were very positive."
+    },
+    {
+      "id": "4924662",
+      "time": "2026-06-09 03:52:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：伊朗無需在戰爭與談判之間二選一，時機成熟便會應戰，時機合適則展開談判。"
+    },
+    {
+      "id": "mkt:019ea8ca-abd0-733a-9235-606fa30a5462",
+      "time": "2026-06-09 03:51:54",
+      "tags": [
+        "MKT News",
+        "RIO.N"
+      ],
+      "text": "Rio Tinto (RIO.N) said its Canada fund will raise community investment to CAD13 mln to better meet Canadians' needs."
+    },
+    {
+      "id": "4924661",
+      "time": "2026-06-09 03:51:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 感謝二人願意在未來數週積極行動，推動外交斡旋，以求結束俄烏衝突。我們清楚，當前全球目光大多聚焦伊朗局勢，但實現歐洲和平仍是我們共同的目標。雙方結合七國集團峰會及六月其他相關活動，探討了後續前景。"
+    },
+    {
+      "id": "4924660",
+      "time": "2026-06-09 03:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：今日已與維特科夫、庫什納進行交談， 會談氛圍十分積極。"
+    },
+    {
+      "id": "mkt:019ea8c8-e68e-733a-9235-5aeb2f6c76d0",
+      "time": "2026-06-09 03:49:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple (AAPL.O) will not serve ads based on the new Siri AI system's screen-sensing capability."
+    },
+    {
+      "id": "mkt:019ea8c8-8f10-733a-9235-52d8c53c7380",
+      "time": "2026-06-09 03:49:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC Quds Force commander says \"new security belt\" forming from Strait of Hormuz to Bab al‑Mandeb】IRNA quoted IRGC Quds Force commander Esmail Qaani saying a \"new security belt\" is forming from the Strait of Hormuz to the Bab al‑Mandeb. Qaani warned the United States and Israel that any further aggression would trigger a coordinated regional response, and said coordination among allied groups has deepened, especially after Yemen's recent timely and forceful action. He added allied armed units have been deployed near key sea lanes linking the Persian Gulf and the Red Sea and accused US and Israeli moves of pushing the region toward broader confrontation."
+    },
+    {
+      "id": "mkt:019ea8c8-6582-733a-9235-49eb145fbd05",
+      "time": "2026-06-09 03:49:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows 22% approve of Trump's handling of cost-of-living issues; 70% disapprove."
+    },
+    {
+      "id": "4924659",
+      "time": "2026-06-09 03:49:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【城堡證券認為通脹壓力或迫使美聯儲很快加息】城堡證券認為，投資者面臨的下一個重大風險是金融環境的收緊，因為美聯儲可能“很快”需要加息，以遏制日益加劇的通脹壓力。該機構的歐洲、中東和非洲(EMEA)固定收益銷售主管Nohshad Shah在客戶報告中寫道，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險。“美聯儲的下一步行動很可能是加息……也許很快，”Shah表示。上週五，強於預期的美國就業報告引發全球股債市場大跌，投資者擔心美國經濟韌性過強，令決策者難以繼續維持利率不變。該資料推動市場押注美聯儲將在年底前加息25個基點，而最早9月加息的機率目前達到五成。"
+    },
+    {
+      "id": "mkt:019ea8c8-6007-733a-9235-47174d819726",
+      "time": "2026-06-09 03:49:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters/Ipsos survey shows Trump approval at 35%, unchanged from mid‑May and marginally above his 34% term low."
+    },
+    {
+      "id": "4924658",
+      "time": "2026-06-09 03:48:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果軟體主管克雷格・費德里吉： 新版 Siri 人工智慧系統不會基於螢幕感知資訊投放廣告。"
+    },
+    {
+      "id": "mkt:019ea8c7-945e-733a-9235-3f97156b657b",
+      "time": "2026-06-09 03:48:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv/Ipsos poll shows Trump’s approval remains near the lowest levels of his political career, and a majority of Americans expect gasoline prices to rise."
+    },
+    {
+      "id": "4924657",
+      "time": "2026-06-09 03:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示，特朗普支援率為 35%，與五月中旬持平，僅高於本屆任期 34% 的最低值。僅 22% 民眾認可特朗普應對生活成本問題的舉措，70% 表示不認可。"
+    },
     {
       "id": "4924656",
       "time": "2026-06-09 03:47:29",
@@ -176972,318 +177342,6 @@
         "XAUUSD"
       ],
       "text": "【IRGC says it struck vessel Sariska with cruise missile; UK reports merchant ship hit in Persian Gulf】On the evening of June 1 local time, Iran's Islamic Revolutionary Guard Corps (IRGC) said its naval forces fired a cruise missile at the vessel Sariska, which it described as linked to US and Israeli interests, saying the strike was retaliation for what it called an aggressive US attack on Iranian ships in the Gulf of Oman. The IRGC said it would respond firmly to any US military aggression and did not give a specific time for the action. Separately, UK Maritime Trade Operations said a merchant ship in the Persian Gulf near southern Iraq was struck by an unidentified projectile and suffered a large explosion."
-    },
-    {
-      "id": "mkt:019e84dc-6194-7993-96f9-d5d3d409c4c5",
-      "time": "2026-06-02 04:24:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "HPE.O",
-        "Impact bullish"
-      ],
-      "text": "【HPE forecasts strong server demand; shares surge 30% after-hours】Hewlett Packard Enterprise (HPE) raised annual sales guidance above estimates, saying demand for its servers and networking products has surged and should continue into next year. In its fiscal Q2 2026 results HPE said revenue for the year ending October 2026 is expected to rise about 31% and revenue for the year ending October 2027 about 10%, versus analysts’ prior forecasts of 19% and 5.3%. The stock jumped roughly 30% in after-hours trading. Last week’s blowout results from rival Dell had already lifted sector sentiment; HPE is a key hardware beneficiary of AI training and deployment demand."
-    },
-    {
-      "id": "te:markets:555482",
-      "time": "2026-06-02 04:22:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Middle East Tensions Weigh — The S&P/TSX Composite Index shed 0.1% to close at 34,735 on Monday, weighed down by losses in heavyweight financial and mining stocks as signs of renewed escalation in the Middle East hurt risk appetite and sent oil prices higher. Although US President Donald Trump said Israel and Hezbollah had agreed to stop attacking each other in Lebanon and that talks with Iran were continuing, fresh violence threatened efforts to end the conflict. Oil prices spiked after reports that US-Iran negotiations had stalled, reviving concerns about inflation and higher borrowing costs. RBC lost 1.3%, Scotiabank shed 1.5%, and CIBC fell 2.5%, while TD Bank dropped 2.8% after BMO (+0.6%) hired senior executive Trevor van Arragon from its rival. Mining shares also declined as gold prices fell, with Agnico Eagle down 3.6% and WPM losing 3.8%. In contrast, Shopify jumped 4.4%, tracking a tech rally on Wall Street after Nvidia unveiled a new advanced processor for PCs."
-    },
-    {
-      "id": "te:markets:555481",
-      "time": "2026-06-02 04:21:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Near $95 — Oil prices pared some gains but remained sharply higher on the first trading day of June, with Brent crude futures rising 5% to trade above $95 per barrel. Prices initially surged more than 7% after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Still, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e84d6-883d-7993-96f9-cc2fd928ba04",
-      "time": "2026-06-02 04:18:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC signals Bab al‑Mandeb navigation will be aligned with Strait of Hormuz】IRGC Quds Force commander Qaani said on the 1st that Israeli military action in Lebanon and Gaza, backed by the US, will expand the 'axis of resistance's' support for those fronts and activate other fronts, and that navigation through the Bab al‑Mandeb will be aligned with the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:555478",
-      "time": "2026-06-02 04:16:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound to Hit New Highs — The three major US stock indexes rebounded from a cautious start to close at fresh record highs on Monday, as President Trump said talks with Iran were continuing at a rapid pace and a resurgence in AI-related stocks also helping to boost investors' sentiment. The S&P 500 gained 0.3%, the Nasdaq advanced 0.4%, and the Dow Jones added 46 points. Technology stocks led the rally, with Nvidia surging 6.3% after unveiling its new RTX Spark Superchip, marking its entry into the PC market. Optimism surrounding Nvidia's latest offering boosted software and hyperscaler stocks, with Microsoft rising 2.3% and Oracle jumping 9.9%. The positive spillover also lifted hardware-related names, as Micron Technology and Dell Technologies climbed 6.6% and 10.8%, respectively. Energy shares also traded higher amid rising oil prices, with Exxon Mobil gaining 2.5% and Chevron advancing 1.9%."
-    },
-    {
-      "id": "mkt:019e84d2-6a7a-7993-96f9-c26697d3f56b",
-      "time": "2026-06-02 04:14:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Netanyahu: IDF will continue planned operations in southern Lebanon】On the evening of June 1, Netanyahu said on social media he had spoken by phone with US President Trump and told him that if Hezbollah continues attacks on Israeli cities and civilians, Israel would strike related targets in Beirut. He said Israel's position remains unchanged and the IDF will continue planned operations in southern Lebanon."
-    },
-    {
-      "id": "4911306",
-      "time": "2026-06-02 04:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理：以軍將繼續按計劃在黎南部開展行動】當地時間6月1日晚間，以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”"
-    },
-    {
-      "id": "4911305",
-      "time": "2026-06-02 04:12:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【丹麥看守首相宣佈新政府組建完成】當地時間6月1日，丹麥看守首相弗雷澤裡克森覲見丹麥國王，向國王報告成功組建新政府。"
-    },
-    {
-      "id": "mkt:019e84cf-e1c7-7993-96f9-bb34f377ad80",
-      "time": "2026-06-02 04:11:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited a Qatari diplomatic source saying the US informed Qatar that, after a phone call between Trump and Netanyahu, Israel's earlier threat to strike Beirut's southern suburbs was canceled."
-    },
-    {
-      "id": "te:markets:555476",
-      "time": "2026-06-02 04:10:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hewlett Packard earnings above expectations at 0.79 USD — Hewlett Packard (HPE) released earnings per share at 0.79 USD, compared to market expectations of 0.53 USD."
-    },
-    {
-      "id": "te:markets:555475",
-      "time": "2026-06-02 04:10:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Pare Some Gains But Remain Elevated — Oil prices pared some gains but remained sharply higher on the first trading day of June, with WTI crude futures rising 6% to trade above $92 per barrel. Prices initially surged after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Despite the pullback, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz."
-    },
-    {
-      "id": "4911304",
-      "time": "2026-06-02 04:09:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠與科技股價飆升28%，此前該公司釋出全年盈利預期超出預期。"
-    },
-    {
-      "id": "mkt:019e84cd-cfc9-7993-96f9-b1beedcdf314",
-      "time": "2026-06-02 04:09:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Semafor reports Luma AI is building a robotics lab that will allow anyone to use its software to train robots."
-    },
-    {
-      "id": "4911303",
-      "time": "2026-06-02 04:08:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊暗示曼德海峽通航將受管控】伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼1日表示，以色列在美國支援下對黎巴嫩和加沙的軍事行動，將使“抵抗陣線”擴大對這兩個戰線的支援並“啟用”其他戰線，曼德海峽的通航狀況將與霍爾木茲海峽“保持一致”。（新華社）"
-    },
-    {
-      "id": "4911302",
-      "time": "2026-06-02 04:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍宣佈，針對美軍在阿曼海襲擊伊朗“利安星號”船隻一事，己方對關聯美以兩方的“地中海航運薩里斯卡號”貨輪實施報復性打擊。"
-    },
-    {
-      "id": "mkt:019e84cb-1b23-7993-96f9-a93abfef6796",
-      "time": "2026-06-02 04:06:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps Navy attacked the US-owned cargo ship MSC Sariska."
-    },
-    {
-      "id": "mkt:019e84ca-963b-7993-96f9-a163fc73e33f",
-      "time": "2026-06-02 04:05:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average rose 46.48 points, or 0.09%, to 51,078.94 on Monday, June 1; the S&P 500 rose 19.96 points, or 0.26%, to 7,600.02; the Nasdaq Composite rose 114.19 points, or 0.42%, to 27,086.81."
-    },
-    {
-      "id": "mkt:019e84ca-86a6-7993-96f9-9c64bb8a39d8",
-      "time": "2026-06-02 04:05:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS: Since the Persian Gulf maritime authority began operations in early May, more than 300 non‑Iranian‑flagged vessels have submitted information to apply for permits for safe transit of the Strait of Hormuz, the vast majority of them tankers."
-    },
-    {
-      "id": "mkt:019e84ca-63dc-7993-96f9-9773e4f53810",
-      "time": "2026-06-02 04:05:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Washington Post reports the Pentagon has designated its press office a classified space, barring journalists from entering to meet public affairs officers who traditionally answer their questions."
-    },
-    {
-      "id": "4911301",
-      "time": "2026-06-02 04:04:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英偉達股價收盤上漲6.3%，市值增加3190億美元。"
-    },
-    {
-      "id": "4911300",
-      "time": "2026-06-02 04:02:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "ISHARES軟體ETF兩天內上漲13%，創2001年以來最大漲幅。"
-    },
-    {
-      "id": "4911299",
-      "time": "2026-06-02 04:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞內加爾被罷免總理稱其政黨將不加入新政府。"
-    },
-    {
-      "id": "mkt:019e84c6-f039-7993-96f9-8cc7de566377",
-      "time": "2026-06-02 04:01:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "ORCL.N",
-        "S&P500"
-      ],
-      "text": "【U.S. close: major indexes finish at record highs; NVIDIA +6%】U.S. stocks closed Monday with all three major indexes at record closing highs: Dow +0.09%, S&P 500 +0.26%, Nasdaq +0.40%. Notable movers: Tesla (TSLA.O) -4.5%, NVIDIA (NVDA.O) +6.0%, Oracle (ORCL.N) up nearly 10%, Qualcomm (QCOM.O) down nearly 9%. Nasdaq Golden Dragon China Index +1.47%; NIO (NIO.N) +6.7%."
-    },
-    {
-      "id": "4911298",
-      "time": "2026-06-02 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.09%，標普500指數漲0.27%，納指漲0.41%。美高梅漲16.02%，Arm Holdings漲15.71%，CDW Corporation漲12.48%，Datadog漲12.20%，ZS漲11.44%，加特納漲10.81%。“七姐妹”方面：英偉達漲6.25%，微軟漲2.31%，谷歌跌1.06%，蘋果跌1.87%，亞馬遜跌3.48%，特斯拉跌4.57%，Meta Platforms跌5.07%。"
-    },
-    {
-      "id": "4911297",
-      "time": "2026-06-02 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.46%】海天網路漲339.83%，聲網漲16.22%，逸仙電商漲11.43%，中進醫療漲8.93%，復朗集團漲8.67%。"
-    },
-    {
-      "id": "4911296",
-      "time": "2026-06-02 03:58:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Robinhood：完成對WonderFi的收購交割。"
-    },
-    {
-      "id": "4911295",
-      "time": "2026-06-02 03:57:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院少數黨領袖舒默週一公佈一項計劃，旨在阻止特朗普頗具爭議的17.76億美元 “反武器化基金”。"
-    },
-    {
-      "id": "mkt:019e84bf-1c27-7993-96f9-8143eb10d404",
-      "time": "2026-06-02 03:52:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Denmark's acting prime minister agreed to form a new government, reaching an accord with centrist and left-wing parties."
-    },
-    {
-      "id": "4911294",
-      "time": "2026-06-02 03:51:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥代理首相弗雷德裡克森：已與中左翼政黨就新政府組建達成協議。"
-    },
-    {
-      "id": "4911293",
-      "time": "2026-06-02 03:51:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "慧與將於收盤後披露財報。"
-    },
-    {
-      "id": "4911292",
-      "time": "2026-06-02 03:50:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "慧與（HPE）盤中大漲，最高漲幅達11%。"
     }
   ]
 }
