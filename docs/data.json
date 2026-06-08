@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-09 06:29:13",
-  "count": 19202,
+  "updated": "2026-06-09 06:32:52",
+  "count": 19203,
   "items": [
+    {
+      "id": "te:markets:557373",
+      "time": "2026-06-09 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.83% — Top commodity gainers are Natural Gas UK (3.83%), Natural Gas EU (3.69%), Germany Natural Gas THE (3.08%), Brent Crude Oil (1.45%) and Crude Oil WTI (0.91%). Biggest losers are Natural gas (-2.88%) and Propane (-2.40%)."
+    },
+    {
+      "id": "4924735",
+      "time": "2026-06-09 06:28:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據AXIOS：美國白宮正協商推動聯邦法律優先於各州人工智慧相關法規實施。"
+    },
     {
       "id": "4924734",
       "time": "2026-06-09 06:23:19",
@@ -177091,17 +177110,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Iron Ore Falls by 3.48% — Top commodity losers are Iron Ore (-3.48%), Gold (-1.30%) and Silver (-0.55%). Gains are led by Copper (2.79%), Silicon (2.56%) and Lithium Carbonate (0.85%)."
-    },
-    {
-      "id": "te:markets:555487",
-      "time": "2026-06-02 06:29:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Surges by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.43%), Natural Gas EU (5.08%) and Brent Crude Oil (4.27%). Biggest losers are Natural gas (-3.07%) and Methanol (-0.73%)."
     }
   ]
 }
