@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-08 12:13:01",
-  "count": 19301,
+  "updated": "2026-06-08 12:16:56",
+  "count": 19300,
   "items": [
+    {
+      "id": "4922987",
+      "time": "2026-06-08 12:15:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺IRIB：伊朗向以色列南部和中部發射導彈。"
+    },
+    {
+      "id": "te:markets:557126",
+      "time": "2026-06-08 12:15:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Holds Decline on Rate Hike Fears — Copper futures remained below $6.3 per pound on Monday after falling roughly 6% over the previous three sessions, pressured by robust US jobs data that strengthened expectations for a Federal Reserve interest rate increase later this year. Escalating tensions in the Middle East also added to market concerns after Iran launched missiles toward Israel, driving energy prices higher and raising fears of persistent inflation. Higher inflation and tighter monetary policy could weigh on economic growth and curb demand for industrial metals such as copper. Meanwhile, the Trump administration's June deadline to decide on potential new US import tariffs has encouraged additional copper shipments into the United States, tightening supply in other regions. On the demand side, data showed copper inventories in warehouses monitored by the Shanghai Futures Exchange fell to their lowest level of the year last week, pointing to resilient consumption and strong buying activity in China."
+    },
+    {
+      "id": "te:markets:557124",
+      "time": "2026-06-08 12:14:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Retreats on Rising Oil Prices — The Indian rupee edged down to around 95.3 per dollar, retreating from last week’s four-week highs as a broad selloff in Asian equities and a spike in global crude prices halted its upward momentum. Broader Asian currencies similarly weakened as optimism faded surrounding a potential US-Iran peace deal. This pullback followed a Friday rally driven by aggressive Reserve Bank of India interventions to boost dollar inflows. While economists project these measures will attract $30–$50 billion by March 2027 and limit immediate downside risks, external pressures have quickly overshadowed these gains. Sentiment was further strained by rising US Treasury yields, as stronger-than-expected May jobs data fueled expectations of a Federal Reserve interest rate hike later this year. Meanwhile, investors digested data showing India's real GDP grew 7.8% year-on-year in the March quarter of 2026. While down slightly from the revised 8% prior, the performance comfortably beat market forecasts of 7.2%."
+    },
+    {
+      "id": "4922986",
+      "time": "2026-06-08 12:14:29",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【投資者仍在評估上週五強勁的美國就業報告 交易員已經重新預期美聯儲將在12月前加息25個基點】投資者仍在評估上週五強勁的美國就業報告，該資料超出所有預期，並強化了市場對美聯儲主席凱文·沃什任內將需要加息以抑制通脹的看法。與此同時，以色列對伊朗展開新一輪打擊也推高了油價，並可能加劇世界最大經濟體的通脹壓力。交易員已經重新預期美聯儲將在12月前加息25個基點，第二次加息的可能性約為16%。上週四，市場押注美聯儲最早要到2027年3月才會加息25個基點。自今年3月觸及低點以來，2年期和5年期美債收益率已上漲超過80個基點，目前分別觸及4.19%和4.31%。基準10年期美債收益率已上漲超過60個基點，至4.56%。高盛集團的經濟學家表示，由於勞動力市場強於預期，不再預計美聯儲今年將降息。摩根大通預計，10年期國債收益率年底將升至4.70%。交易員也在押注本週CPI資料將出現近幾年來最大幅度的上漲，將進一步增加升息的理由。特朗普在接受NBC的Meet the Press節目採訪時試圖壓制市場對加息的預期，他表示美聯儲“沒有理由”加息，提高基準利率“是錯誤的做法”，“我們實際上應該降低利率”。"
+    },
+    {
+      "id": "4922985",
+      "time": "2026-06-08 12:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家上市公司調整鎖價定增融資方案 基準日均改為發行期首日】據記者統計，近日已有包括*ST八鋼、金煤科技、吉峰科技、國際實業、望變電氣等多家上市公司釋出調整定增融資方案的公告，均將定增發行價的定價基準日由“董事會決議公告日”改為“發行期首日”，從原先的鎖價發行切換為更貼近發行期二級市場股價的定價模式。對此變化，市場人士表示，從董事會預案披露到正式的定增發行，往往間隔數月甚至更長時間，期間二級市場股價不排除會出現較大波動，以董事會預案披露為基準日的定價容易與市價出現較大價差，可能產生套利空間。採用“發行期首日”定價模式，可有效壓縮套利可能，契合再融資市場化的監管導向。（財聯社）"
+    },
+    {
+      "id": "4922984",
+      "time": "2026-06-08 12:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "舜宇光學科技（集團）考慮發行約30億元人民幣的點心債，這家港股上市公司計劃最早於本月內推介這隻5年期債券。"
+    },
+    {
+      "id": "4922983",
+      "time": "2026-06-08 12:13:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "TD考恩將甲骨文公司目標股價從250美元上調至300美元。"
+    },
+    {
+      "id": "4922982",
+      "time": "2026-06-08 12:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍8日早間說，以軍監測到伊朗方向來襲導彈。以軍稱防空系統已啟動攔截行動。耶路撒冷響起防空警報。（新華社）"
+    },
     {
       "id": "4922981",
       "time": "2026-06-08 12:12:00",
@@ -177898,97 +177974,6 @@
         "國際"
       ],
       "text": "【中國1類靜脈麻醉創新藥環泊酚獲美國FDA批准上市】6月1日中午，海思科宣佈，其自主研發的1類靜脈麻醉創新藥——環泊酚注射液，近日正式獲得美國食品藥品監督管理局（FDA）上市批准，用於成人全身麻醉誘導適應症。環泊酚因此成為中國首個走向國際的靜脈麻醉原研創新藥。"
-    },
-    {
-      "id": "4909637",
-      "time": "2026-06-01 12:16:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達Vera Rubin已全面投入生產】英偉達CEO黃仁勳在臺北的GTC演講中宣佈，英偉達新一代平臺Vera Rubin已經全面投入生產，Vera Rubin採用美光、SK海力士和三星的HBM（高頻寬記憶體），提供機櫃級（POD）一體化AI工廠底座。英偉達為Rubin搭建的供應鏈是上一代Blackwell的“兩倍大”，以往需要花兩個小時組裝一個巨大的Blackwell機架，現在（Vera Rubin）只需要5分鐘。"
-    },
-    {
-      "id": "mkt:019e8165-9e80-799c-966a-80dc729df6c4",
-      "time": "2026-06-01 12:16:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact bullish"
-      ],
-      "text": "Xpeng Inc (09868.HK) delivered 32,158 vehicles in May 2026, up 4% MoM."
-    },
-    {
-      "id": "4909636",
-      "time": "2026-06-01 12:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：2026年5月交付車輛32,158輛，較上月增長4%。"
-    },
-    {
-      "id": "mkt:019e8164-d551-799c-966a-7cac4df943dc",
-      "time": "2026-06-01 12:15:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI, ANTHROPIC and SpaceX are among the first adopters of NVIDIA (NVDA.O)'s Vera chip."
-    },
-    {
-      "id": "4909635",
-      "time": "2026-06-01 12:15:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國一軍工企業爆炸5死2傷】今天（6月1日）上午，韓國韓華航空航天公司位於韓國大田的一家工廠發生爆炸並引發火災，目前死亡人數已升至5人，此外還有2人受傷。警方和消防部門推測，有可能是工廠內的火箭推進器發生了爆炸。"
-    },
-    {
-      "id": "mkt:019e8164-8d34-799c-966a-710d30d23a2a",
-      "time": "2026-06-01 12:15:11",
-      "tags": [
-        "MKT News",
-        "012450.KS"
-      ],
-      "text": "【Hanwha Aerospace Daejeon plant explosion kills 5, injures 2; rocket motor suspected】An explosion and fire at Hanwha Aerospace's Daejeon plant on June 1 killed five workers and injured two, police and fire officials said. Authorities suspect a rocket motor/propulsion unit may have detonated. South Korea's Lee ordered all available resources mobilised for rescue, a full probe into the cause and measures to prevent a recurrence. The Daejeon facility produces tactical weapons and large rocket motors and previously suffered fatal explosions in 2018 and 2019."
-    },
-    {
-      "id": "4909634",
-      "time": "2026-06-01 12:15:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓華航天爆炸事故死亡人數升至5人。"
-    },
-    {
-      "id": "4909633",
-      "time": "2026-06-01 12:13:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珠海科技產業集團獲雙AAA主體評級】據珠海科技產業集團6月1日訊息，集團獲得中誠信國際信用評級有限責任公司與聯合資信評估股份有限公司兩家國內權威信用評級機構出具的主體長期信用AAA等級報告，評級展望均為“穩定”。聯合資信指出，集團整體資產質量優良，部分投資專案已進入回報期，盈利貢獻顯著，並持有大量優質上市公司股權及金融類資產。（介面新聞）"
-    },
-    {
-      "id": "mkt:019e8162-c67e-799c-966a-6d2fcbceea21",
-      "time": "2026-06-01 12:13:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) said its Vera system will be made available through system integrators and cloud partners this fall."
     }
   ]
 }
