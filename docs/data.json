@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-08 14:32:03",
-  "count": 19358,
+  "updated": "2026-06-08 14:35:51",
+  "count": 19362,
   "items": [
+    {
+      "id": "mkt:019ea5f1-4a02-7cc3-8413-ce0b40df6a9f",
+      "time": "2026-06-08 14:35:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran launches another missile salvo toward Israel】On the morning of June 8 local time, the Israeli military said it detected another salvo of missiles launched from Iran toward Israel and activated air-defence systems to intercept the incoming threats."
+    },
+    {
+      "id": "4923228",
+      "time": "2026-06-08 14:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：上週監測港口完成貨物吞吐量25870.5萬噸，環比下降7.96%】交通運輸部發布6月1日—6月7日全國物流保通保暢執行情況。國家鐵路運輸貨物8006.6萬噸，環比下降0.04%；全國高速公路貨車通行5434.9萬輛，環比下降1.85%；監測港口完成貨物吞吐量25870.5萬噸，環比下降7.96%，完成集裝箱吞吐量672.7萬標箱，環比下降3.65%；民航保障航班10.7萬班（其中貨運航班5137班，包括國際貨運航班3373班，國內貨運航班1764班），環比下降3.1%；郵政快遞攬收量約43.24億件，環比下降1.5%；投遞量約42.87億件，環比下降2.37%。"
+    },
+    {
+      "id": "mkt:019ea5f0-b119-7cc3-8413-c7cf70a6aa85",
+      "time": "2026-06-08 14:34:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【China transport ministry: week to June 7 port cargo throughput 258.71 mln tonnes, down 7.96% WoW】China's Ministry of Transport said in a weekly logistics report for June 1–7 that monitored ports handled 258.705 mln tonnes of cargo in the week to June 7, down 7.96% week-on-week; container throughput was 6.727 mln TEU, down 3.65% WoW. Railway freight was 80.066 mln tonnes, down 0.04% WoW. Expressway truck passages totaled 54.349 mln, down 1.85% WoW. Civil aviation operated about 107,000 flights, including 5,137 cargo flights (3,373 international, 1,764 domestic), down 3.1% WoW. Postal and courier volumes were roughly 4.324 bln items collected (down 1.5% WoW) and 4.287 bln delivered (down 2.37% WoW)."
+    },
+    {
+      "id": "4923227",
+      "time": "2026-06-08 14:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗又一波導彈射向以色列】當地時間今天（6月8日）上午，以色列軍方證實，再度監測到從伊朗向以色列發射的一波導彈。以軍稱，相關防禦系統已啟動，以攔截來襲威脅。（CCTV國際時訊）"
+    },
+    {
+      "id": "4923226",
+      "time": "2026-06-08 14:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：我們已多次證明，被佔領土及地區的空域在我們的意志和導彈的控制之下。"
+    },
+    {
+      "id": "4923225",
+      "time": "2026-06-08 14:33:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：安克創新赴港IPO的估值達7億至8億美元。"
+    },
+    {
+      "id": "mkt:019ea5ef-ab96-7cc3-8413-bf77a49240f8",
+      "time": "2026-06-08 14:33:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRGC spokesman said we have repeatedly demonstrated that airspace over the occupied territories and regions is under our will and under missile control."
+    },
+    {
+      "id": "mkt:019ea5ee-b090-7cc3-8413-b6a049648c5f",
+      "time": "2026-06-08 14:32:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Iran launches ballistic missiles at Israel again】Israel has detected a new round of ballistic missile launches from Iran; air-raid sirens are expected to sound soon in northern and central Israel."
+    },
+    {
+      "id": "4923224",
+      "time": "2026-06-08 14:31:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防軍：防禦系統正在執行以攔截伊朗導彈。"
+    },
     {
       "id": "mkt:019ea5ed-ec36-7cc3-8413-a81fc5b01a08",
       "time": "2026-06-08 14:31:33",
@@ -178439,52 +178529,6 @@
         "國際"
       ],
       "text": "【海關總署公告2026年第73號（關於進口莫三比克苜蓿草檢驗檢疫要求的公告）】根據我國相關法律法規和中華人民共和國海關總署（以下稱中方）與莫三比克共和國農業環境和漁業部（以下稱莫方）關於莫三比克苜蓿草輸華衛生與植物衛生要求的規定，即日起，允許符合相關要求的莫三比克苜蓿草進口。"
-    },
-    {
-      "id": "4909829",
-      "time": "2026-06-01 14:34:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【海關總署 農業農村部公告2026年第71號（關於解除賴索托羊毛口蹄疫禁令的公告）】根據風險分析結果，自本公告發布之日起，解除海關總署、農業農村部聯合釋出的2026年第28號公告中對賴索托羊毛的禁令。從賴索托進口的羊毛須符合我國相關法律法規規定及世界動物衛生組織陸生動物法典有關口蹄疫病毒滅活技術要求。"
-    },
-    {
-      "id": "mkt:019e81e4-42e3-799c-966d-1443903bc61b",
-      "time": "2026-06-01 14:34:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tianjin opens AI sensor industrial park; first 10 firms sign】Tianjin opened a municipal-level AI sensor industrial park on May 31. The first 10 firms signed on and the park inked multiple cooperation agreements covering industry innovation platforms, industry-education integration and financial support. Positioned as a Beijing–Tianjin–Hebei AI sensor cluster benchmark, phase one comprises 20 purpose-built buildings for the sensor industry, due for delivery in June 2027; phases two and three will add about 70,000 sq m of additional space, co-general manager Guo Huajian said."
-    },
-    {
-      "id": "mkt:019e81e3-e748-799c-966d-0d2fa72d2eeb",
-      "time": "2026-06-01 14:34:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "【UK May house prices record biggest monthly fall since June; wages lag inflation】UK house prices fell 0.6% in May to £278,024, the biggest monthly drop since June last year and the first decline in five months, Nationwide said. Healthy household balance sheets had buffered prices early in the Iran conflict, but momentum is weakening as borrowing costs spike. Wage growth is trailing inflation and higher mortgage rates are tightening affordability. Moneyfacts shows the average two-year fixed mortgage rate at 5.68%, about 0.9 percentage points above its level before the late‑February US and Israeli strikes on Iran. The Bank of England has signalled possible further hikes if inflation persists; money markets price roughly 50bps of tightening by year-end, with traders expecting additional tightening thereafter."
-    },
-    {
-      "id": "4909828",
-      "time": "2026-06-01 14:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津人工智慧感測器產業園開園 首批10家企業集中籤約】據“天津發布”公眾號訊息，5月31日，市級重點建設專案——天津人工智慧感測器產業園正式開園。首批10家企業集中籤約，同時，園區圍繞構建產業生態，聚焦行業創新平臺、產教融合、金融賦能等達成多項合作協議。天津人工智慧感測器產業園定位於打造京津冀區域人工智慧感測器產業集聚標杆。“園區一期建設20棟適配感測器產業的定製化載體，預計2027年6月交付。隨後，將啟動二期和三期建設，再增加7萬平方米載體。”天津人工智慧感測器產業園聯席總經理郭華健表示。"
-    },
-    {
-      "id": "4909827",
-      "time": "2026-06-01 14:33:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【司法部發布未成年人法律援助典型案例 涉及校園欺凌、人身損害等重點領域】記者從司法部瞭解到，自2024年起在全國組織開展“法援護苗”專項行動以來，全國法律援助機構共組織辦理未成年人法律援助案件38萬餘件，為未成年人提供法律諮詢30萬餘人次，大量未成年人透過法律援助保障了自身合法權益。（央視新聞）"
     }
   ]
 }
