@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-08 08:11:29",
-  "count": 19212,
+  "updated": "2026-06-08 08:15:19",
+  "count": 19210,
   "items": [
+    {
+      "id": "4922472",
+      "time": "2026-06-08 08:13:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "東京電子股價下跌6%。"
+    },
+    {
+      "id": "4922471",
+      "time": "2026-06-08 08:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓地震機構警告：菲律賓南部發生的7.0級強震會造成損毀並餘震頻發。"
+    },
+    {
+      "id": "4922470",
+      "time": "2026-06-08 08:12:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌2%至268.09點。"
+    },
+    {
+      "id": "4922469",
+      "time": "2026-06-08 08:12:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數跌幅進一步擴大，該指數最新下跌3.88%，報64006.49點。"
+    },
+    {
+      "id": "4922468",
+      "time": "2026-06-08 08:12:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數跌超8%觸發熔斷機制 交易暫停20分鐘】韓國交易所啟動熔斷機制，暫停Kospi指數交易20分鐘，此前該指數下跌超過8%。韓國交易所公告顯示，韓國Kospi指數股票交易從首爾時間09:03起暫停20分鐘。上一次觸發熔斷機制是在3月9日。"
+    },
+    {
+      "id": "4922467",
+      "time": "2026-06-08 08:11:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本愛德萬測試股價下跌6.5%。"
+    },
+    {
+      "id": "mkt:019ea491-bfd6-7338-95ad-2a20bb47db67",
+      "time": "2026-06-08 08:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine seismology agency advised residents in coastal areas of certain southern provinces to evacuate immediately to higher ground or move inland."
+    },
+    {
+      "id": "4922466",
+      "time": "2026-06-08 08:11:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：英偉達的JETSON THOR機器人平臺將採用SK海力士晶片。"
+    },
+    {
+      "id": "mkt:019ea491-93f6-7338-95ad-22a96ddab200",
+      "time": "2026-06-08 08:11:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 30-year bond yield rose 2.0 bps to 3.910%."
+    },
     {
       "id": "mkt:019ea490-f019-7338-95ad-1d000c74c1b1",
       "time": "2026-06-08 08:10:22",
@@ -177208,105 +177290,6 @@
         "公司"
       ],
       "text": "【天涯社群：6月1日起將分步驟實現資料恢復訪問，爭取在6月逐步恢復互動功能】5月31日，@天涯社群 釋出情況說明，表示目前新天涯聯合工作組已落實了天涯社群資料遷移、平臺最佳化及恢復訪問所必需的專項資金、專業團隊及各項準備。天涯社群公司與中國電信已透過海南國際仲裁院形成了具有法律效力的資料遷移仲裁裁決，歷史資料完整存續取得了重要進展。由於種種原因，tianya.cn域名暫時無法使用。自2026年6月1日起，天涯社群將正式啟用tianya.net域名，分步驟實現天涯社群資料恢復訪問。天涯社群資料遷移仍在等待相關審批流程，根據當前的程序，天涯社群整體資料恢復將在6月份內完成。6月1日零時起，www.tianya.net正式開放訪問，將首先實現部分天涯社群精華帖子的瀏覽功能。天涯社群爭取在6月份逐步恢復互動功能。"
-    },
-    {
-      "id": "te:markets:555107",
-      "time": "2026-06-01 08:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Steady Amid Iran Deal Uncertainty — Gold steadied above $4,500 an ounce on Monday following a volatile week, as efforts to secure a longer-term ceasefire agreement between the US and Iran showed limited signs of progress. Over the weekend, Washington and Tehran exchanged proposals seeking amendments to a draft accord that would extend the ceasefire and reopen the Strait of Hormuz, though it remained uncertain whether the negotiations were moving closer to a resolution. President Donald Trump also reiterated his call for Iran to halt its nuclear program and fully restore the strait’s status as an open international waterway. Gold has faced headwinds since late February as the Middle East conflict drove energy prices sharply higher, fueling concerns about inflationary pressures and the prospect of interest rate hikes. Investors are now awaiting the latest US monthly jobs report later this week, which could offer fresh insight into labor market strength and the likely path of Federal Reserve policy."
-    },
-    {
-      "id": "mkt:019e8088-c55d-7777-bd26-cc9ecb2d335e",
-      "time": "2026-06-01 08:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huatai Securities: Rising domestic electrification to benefit lithium batteries and energy storage】Huatai Securities said domestic electrification is accelerating and may be underpriced by markets. Since April the AI supply chain has led performance, but domestic and external catalysts for electrification-related sectors may not be fully reflected in prices. Investors may be underestimating the addressable electrification opportunity by focusing on incremental penetration while ignoring replacement demand in the existing installed base and blind spots in electrification use cases. Policy shifts—from last year’s push against internal competition to this year’s compute‑power coordination—are repricing input costs and industry scope, likely supporting continued improvement in sector momentum and earnings. Recommended exposures: lithium batteries/energy storage, mining machinery, forklifts, commercial vehicles and shipbuilding."
-    },
-    {
-      "id": "mkt:019e8088-a6f8-7777-bd26-c49b0a6adf55",
-      "time": "2026-06-01 08:14:59",
-      "tags": [
-        "MKT News",
-        "7203.T",
-        "Impact bearish"
-      ],
-      "text": "Toyota Motor Corp. shares fell 4%."
-    },
-    {
-      "id": "4909227",
-      "time": "2026-06-01 08:14:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "豐田汽車股價下跌4%。"
-    },
-    {
-      "id": "4909226",
-      "time": "2026-06-01 08:13:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：國內電氣化率持續提升 鋰電、儲能等賽道有望受益】華泰證券研報表示，近年來，國內電氣化率持續提升，“十五五”碳達峰目標下這一程序或加速。當前市場對電氣化線索或存在三大預期差：第一，4月以來AI產業鏈作為市場主線取得亮眼表現，但內外催化共振下電氣化相關領域定價或仍不充分；第二，投資者或普遍低估國內電氣化空間，一是關注“新增滲透率”而忽視了“存量保有結構”的替換需求，二是電氣化場景存在盲區；第三，從去年的“反內卷”到今年的“算電協同”，政策驅動要素價格與產業空間重估，相關領域景氣度和業績亦有望持續改善。配置上，建議關注鋰電/儲能、礦山機械、叉車、商用車、船舶等細分環節投資機會。"
-    },
-    {
-      "id": "mkt:019e8087-8976-7777-bd26-bc96a54d8ed6",
-      "time": "2026-06-01 08:13:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chinese-made cars rank third in South Korea import registrations in April】YONHAP reports Korea Automobile Importers & Distributors Association (KAIDA) data disclosed April 1 showing Chinese-made vehicles were the third-largest source of newly registered imported cars in South Korea in April, overtaking Japanese-made cars for the first time. April new-import registrations: Europe 16,835 units; United States 13,611; China 2,023; Japan 1,974."
-    },
-    {
-      "id": "mkt:019e8087-3337-7777-bd26-b78aac3d2e09",
-      "time": "2026-06-01 08:13:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombian President Gustavo Petro said he does not accept the preliminary count of the presidential election."
-    },
-    {
-      "id": "4909225",
-      "time": "2026-06-01 08:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統古斯塔沃·佩特羅表示，他不接受總統選舉初步計票結果。"
-    },
-    {
-      "id": "4909224",
-      "time": "2026-06-01 08:12:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球首個心肌細胞再生人體臨床試驗啟動】科學家正在開發一種全新的心臟再生基因療法，為治療心力衰竭這一常見病帶來了希望。全球首個旨在培育新生心肌細胞的臨床試驗已經啟動，同時多家企業還在研發至少4種用於心臟病的再生基因療法。英國愛丁堡大學的Andrew Baker評價道：“這是首批走向臨床的人體心臟再生研究，這個領域令人滿懷期待。”美國得克薩斯心臟研究所的James Martin主導了這項研究。他表示，在小鼠和豬的動物實驗中觀察到明確的心肌細胞分裂現象。（中國科學報）"
-    },
-    {
-      "id": "te:economy:555102",
-      "time": "2026-06-01 08:11:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Exports YoY",
-        "Importance 2"
-      ],
-      "text": "South Korea Exports Reach Fresh Record High — South Korea’s exports jumped 53.2% yoy to a record high of USD 87.8 billion in May 2026, surpassing forecasts of 48.4%, accelerating from a 48% rise in April. Exports exceeded USD 80 billion for the 3rd straight month, mainly driven by a surge in semiconductor shipments. Shipments increased for a 12th consecutive month, led by semiconductor exports, which surged to a record USD 37.2 billion."
-    },
-    {
-      "id": "4909223",
-      "time": "2026-06-01 08:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日起我國全面進入汛期，南方地區進入主汛期】6月1日起，我國全面進入汛期，南方地區進入主汛期。據預報，6月份，東北北部、江南東部、華南、西南東南部等地降水偏多1～2成；華北南部、西北北部和中東部、黃淮、江淮大部等地降水偏少1～2成；其餘地區降水接近常年。長江中游洞庭湖、鄱陽湖水系部分主要河流，珠江流域西江、韓江，浙江錢塘江及福建閩江等河流可能發生超警洪水。"
     }
   ]
 }
