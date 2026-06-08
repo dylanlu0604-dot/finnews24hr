@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-08 12:16:56",
-  "count": 19300,
+  "updated": "2026-06-08 12:20:41",
+  "count": 19295,
   "items": [
+    {
+      "id": "mkt:019ea575-76c9-7ee0-94ca-9ce47ec1d765",
+      "time": "2026-06-08 12:19:59",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【OCBC: Tech pullback signals volatility after frothy rally】Vasu Menon, OCBC investment strategy MD, said the long-term outlook for AI-driven gains remains constructive, but the sharp US and Asian tech sell-off shows volatility is inevitable after an extraordinary rally. May’s outsized tech gains make the current healthy correction reasonable; near-term caution is warranted given the inflation trajectory, rising US Treasury yields and uncertainty over Fed policy under the new chair. Planned high-valuation IPOs from SpaceX and ANTHROPIC add short-term concern as markets question AI/tech premia and whether mega-IPOs will siphon liquidity from other tech sectors. Over the longer term, these listings would reinforce AI as a core investment theme."
+    },
+    {
+      "id": "mkt:019ea573-9ba4-7ee0-94ca-9329a369210b",
+      "time": "2026-06-08 12:17:57",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Societe Generale: Market extremely sensitive to tech earnings】Frank Benzimra, head of Asia equity strategy at Societe Generale, says markets are currently extremely sensitive to tech-company earnings. The recent rally was driven by repeated upward revisions to profit expectations; if investors question the persistence of those revisions, sentiment can turn quickly. Prior purchases of leveraged ETFs by some investors will amplify losses in a downturn and increase market volatility."
+    },
+    {
+      "id": "4922988",
+      "time": "2026-06-08 12:17:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓美半導體株式會社：獲得規模440億韓元訂單。"
+    },
     {
       "id": "4922987",
       "time": "2026-06-08 12:15:53",
@@ -177903,77 +177933,6 @@
         "Impact bullish"
       ],
       "text": "NVIDIA (NVDA.O) CEO Jensen Huang unveiled a new AI model, Nemotron 3 Ultra."
-    },
-    {
-      "id": "4909643",
-      "time": "2026-06-01 12:20:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳在臺北電腦展釋出全新人工智慧模型Nemotron 3 Ultra。"
-    },
-    {
-      "id": "mkt:019e8168-5cda-799c-966a-9d69f7c0d6bb",
-      "time": "2026-06-01 12:19:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NVIDIA (NVDA.O): OEMs including Dell (DELL.N), HPE, Lenovo and Super Micro (SMCI.O) are building standalone Vera CPU systems at scale."
-    },
-    {
-      "id": "mkt:019e8167-e32c-799c-966a-913cd4620ca8",
-      "time": "2026-06-01 12:18:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "ORCL.O"
-      ],
-      "text": "NVIDIA (NVDA.O): ANTHROPIC, OpenAI, SpaceXAI, ByteDance, CoreWeave (CRWV.O) and Oracle Cloud Infrastructure plan to adopt NVIDIA’s Vera chips."
-    },
-    {
-      "id": "4909641",
-      "time": "2026-06-01 12:18:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊對 IBM 啟動覆蓋，給予增持評級，目標價為350美元。"
-    },
-    {
-      "id": "4909640",
-      "time": "2026-06-01 12:18:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曹操出行獲納入香港交易所科技100指數】6月1日，曹操出行（02643.HK）宣佈，根據香港交易所釋出的科技100指數半年度調整結果，公司獲納入該指數成分股。本次調整將於2026年6月12日收市後生效，並於6月15日正式執行。"
-    },
-    {
-      "id": "4909639",
-      "time": "2026-06-01 12:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多取消對哥倫比亞商品徵收的“安全稅”】厄瓜多國家海關總署5月31日宣佈，自6月1日起取消對哥倫比亞輸厄商品徵收的“安全稅”。厄瓜多國家海關總署署長桑德羅·卡斯蒂略當天在社交媒體上表示，自6月1日起，針對原產於及來自哥倫比亞的商品，“安全稅”稅率將降至零。這是厄總統丹尼爾·諾沃亞宣佈的一項措施，厄海關將確保有效執行，以促進合法貿易、區域一體化及兩國共同打擊非法經濟活動的合作。此前，諾沃亞在社交媒體發文稱，在與哥總統候選人阿韋拉多·德拉埃斯普列利亞會談後，決定自6月1日起撤銷對哥關稅措施，以加強兩國在貿易、能源和安全領域的合作。"
-    },
-    {
-      "id": "mkt:019e8167-4382-799c-966a-8f835f816fce",
-      "time": "2026-06-01 12:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's first innovative IV anesthetic ciprofol wins FDA approval】Haisco said its self-developed Class 1 innovative intravenous anesthetic, ciprofol injection, has received US FDA approval for induction of general anesthesia in adults. Ciprofol is the first China-originated original intravenous anesthetic to secure international market approval."
-    },
-    {
-      "id": "4909638",
-      "time": "2026-06-01 12:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國1類靜脈麻醉創新藥環泊酚獲美國FDA批准上市】6月1日中午，海思科宣佈，其自主研發的1類靜脈麻醉創新藥——環泊酚注射液，近日正式獲得美國食品藥品監督管理局（FDA）上市批准，用於成人全身麻醉誘導適應症。環泊酚因此成為中國首個走向國際的靜脈麻醉原研創新藥。"
     }
   ]
 }
