@@ -1,7 +1,141 @@
 {
-  "updated": "2026-06-08 13:45:41",
-  "count": 19321,
+  "updated": "2026-06-08 13:49:36",
+  "count": 19332,
   "items": [
+    {
+      "id": "mkt:019ea5c6-819b-700a-8482-2431b22d912e",
+      "time": "2026-06-08 13:48:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli outlet The Times of Israel reported Israeli defense officials said Monday's exchange of fire could escalate into 'several days of war' between Israel and Iran."
+    },
+    {
+      "id": "4923142",
+      "time": "2026-06-08 13:48:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列軍方廣播：軍方估計顯示，與伊朗的打擊交換可能持續數天。"
+    },
+    {
+      "id": "4923141",
+      "time": "2026-06-08 13:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達300億元】6月8日下午，中際旭創成交額達300億元，現跌3.34%。"
+    },
+    {
+      "id": "4923140",
+      "time": "2026-06-08 13:47:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【以色列打擊伊朗引燃局勢升級擔憂 油價應聲大漲】在伊朗發動導彈襲擊後，以色列表示已對其境內的軍事目標進行打擊，此舉威脅到中東地區脆弱的停火局面，同時使談判也陷入困境，受此影響，原油價格大幅飆升，布倫特原油日內一度大漲5%。利波石油諮詢公司總裁安迪·利波表示，週末以色列與伊朗之間的衝突升級，再次向市場展示了停火是多麼脆弱。敵對行動的加劇帶來了更大的地緣政治風險，即霍爾木茲海峽的關閉時間可能長於預期，同時伊朗採取額外措施限制紅海航運的可能性也在上升。芝加哥Karobaar Capital LP首席投資官哈里斯·庫爾希德表示，市場此前低估了相關各方之間仍然存在的巨大分歧，並一直在為達成協議的可能性定價和為現實定價之間搖擺不定。而即使美伊達成了和平協議，多重障礙仍會阻礙石油流動的正常恢復。這些障礙包括：必須清除霍爾木茲海峽的水雷，關閉的油田可能需要數月才能重啟，以及無人機和導彈襲擊對能源基礎設施造成的損壞需要修復。"
+    },
+    {
+      "id": "4923139",
+      "time": "2026-06-08 13:47:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【首創期貨：油價暴跌後小幅反彈】油價繼續上漲，地緣政治風險明顯加劇。從訊息面來看，推動油價反彈的核心因素是伊朗與以色列再次爆發軍事衝突。據伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊8日發表宣告稱，以色列使用空射彈道導彈對伊朗境內目標發動了襲擊。此前，伊朗方面援引一名軍事訊息人士的話稱，伊朗已做好應對以色列進一步行動的軍事準備，並警告若局勢升級將採取更大規模的打擊行動。作為回應，伊朗當晚對以色列北部拉馬特戴維空軍基地實施彈道導彈打擊。這是自美伊停火約兩個月以來，伊朗首次直接攻擊以色列。與此同時，黎以局勢也在同步惡化。當地時間6月7日下午，以軍空襲貝魯特南郊，稱其目標為黎巴嫩真主黨一處指揮總部。此後，以色列國防軍稱監測到伊朗向以色列發射導彈，以色列北部多地拉響防空警報。美國總統特朗普隨後呼籲伊朗就此收手，重返談判桌，並表示會勸以方不要報復。伊朗武裝部隊哈塔姆安比亞中央司令部司令則警告，如以方進一步升級在黎巴嫩的軍事行動，伊朗將對其實施更強烈的打擊。美伊談判尚未獲得實質性進展，而戰事再起，談判困難重重，建議投資者觀望為主。（首創期貨）"
+    },
+    {
+      "id": "4923138",
+      "time": "2026-06-08 13:47:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌7%，現報396610.00元。"
+    },
+    {
+      "id": "4923137",
+      "time": "2026-06-08 13:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高德釋出3D原生城市世界模型ABot-Earth0.5，已建成覆蓋190多個國家和地區的3D地圖】阿里巴巴集團旗下高德正式釋出全球首個3D原生城市世界模型ABot-Earth0.5，該模型已建成全球覆蓋面積最廣的3D地圖，遍及190多個國家和地區。其中模型輸出的是可編輯的3DGS格式的素材，能夠直接匯入Unity、Unreal Engine等主流引擎進行互動開發。根據測算，ABot-Earth0.5的3D製圖成本僅為傳統方式的百分之一，效率卻提升了約一千倍。這一突破不僅使高精度3D城市生成從“重資產”轉變為“輕工具”，更有望為具身智慧、低空經濟等產業提供基礎支撐。同時在應急救援場景中，ABot-Earth0.5的分鐘級3D製圖能力可快速還原災禍現場三維環境，為指揮排程提供科學依據，為救援力量部署搶得寶貴時間。目前ABot-Earth0.5已正式開放內測體驗，使用者可前往官網abot-earth.amap.com提交測試申請，直觀體驗模型在3D城市生成上的表現。"
+    },
+    {
+      "id": "mkt:019ea5c5-2fcb-700a-8482-18a614135d8a",
+      "time": "2026-06-08 13:47:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【One month to go: Shenzhen Exchange runs full-chain simulation tests for ChiNext trading-mechanism reform】With under one month until the July 6, 2026 implementation of the Shenzhen Stock Exchange’s revised trading rules, the exchange has entered a final technical readiness window. Shenzhen Stock Exchange and China Securities Depository and Clearing Corporation (Shenzhen branch) will conduct end-to-end simulation tests in an isolated trading and settlement environment from June 8–12. The exercise will simulate order entry, trade reporting, market-data reception and display, and securities and funds clearing/settlement to stress-test market participants’ systems and verify readiness for the reform cutover."
+    },
+    {
+      "id": "mkt:019ea5c4-c8ab-700a-8482-160ef55e3ff6",
+      "time": "2026-06-08 13:46:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Israel strike on Iran raises escalation risk; Brent jumps up to 5%】Israel struck military targets inside Iran after an Iranian missile attack, threatening a fragile ceasefire and disrupting talks. Oil prices surged, with Brent crude up as much as 5% intraday. Andy Lipow of Lipow Oil Associates said the weekend escalation exposed the ceasefire's fragility and increased geopolitical risk — the Strait of Hormuz could remain closed longer than expected and Iran may further restrict Red Sea shipping. Harris Kourshid, CIO at Karobaar Capital LP, said markets had underestimated deep divisions among parties and were oscillating between pricing in a deal and pricing reality. He added that even if the U.S. and Iran reach a peace agreement, oil flows would not immediately normalize: sea mines in the Strait of Hormuz must be cleared, closed fields may take months to restart, and drone and missile damage to energy infrastructure requires repair."
+    },
+    {
+      "id": "mkt:019ea5c4-769d-700a-8482-0b5666fdade7",
+      "time": "2026-06-08 13:46:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index fell more than 4%; component stocks Maiwei Co. down over 12%, Guoci Materials down over 11%."
+    },
+    {
+      "id": "4923136",
+      "time": "2026-06-08 13:46:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【倒計時一個月！交易所啟動深化創業板改革交易機制全鏈路模擬測試】距7月6日《深圳證券交易所交易規則（2026年修訂）》正式落地還有不到一個月，深交所技術備戰悄然進入“臨門一腳”的關鍵視窗。記者6月8日從業內獨家獲悉，深交所聯合中國結算深圳分公司定於6月8日至6月12日在深市交易結算獨立測試環境組織開展深化創業板改革交易機制相關業務模擬測試。據悉，本次測試的指向性極為明確—透過模擬深市各項交易業務的委託申報、成交回報、行情接收與展示、股份和資金清算交收等業務處理過程，對全市場參與各方的技術系統做一次“壓力體檢”，以確保改革正式切換時萬無一失。(中證金牛座)"
+    },
+    {
+      "id": "4923135",
+      "time": "2026-06-08 13:45:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨下跌3.0%至4,643.20點。"
+    },
+    {
+      "id": "4923134",
+      "time": "2026-06-08 13:45:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌7%，現報284.80元。"
+    },
+    {
+      "id": "4923133",
+      "time": "2026-06-08 13:45:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌4.00%，現報14702.095點；上證指數跌2.36%，現報3932.641點；創業板指跌4.43%，現報3782.586點。"
+    },
     {
       "id": "4923132",
       "time": "2026-06-08 13:44:58",
@@ -29,6 +163,14 @@
         "Impact bearish"
       ],
       "text": "China's STAR 50 Index fell more than 5%."
+    },
+    {
+      "id": "4923130",
+      "time": "2026-06-08 13:43:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【自然資源部：盤活存量土地 助力城市更新】盤活存量土地和空間資源是城市更新的核心任務之一。在今天上午舉行的國務院政策例行吹風會上，自然資源部相關負責人表示，未來將指導地方用好國土空間規劃和土地政策兩項“關鍵抓手”，實實在在把城市更新的紅利落到老百姓家門口。此外，自然資源部門將進一步強化國土空間規劃與土地政策融合，堅持民生公益、節約集約、尊重權益三大政策價值取向，加大存量盤活力度。一方面是最佳化規劃管控方式，為民生專案落地提速，比如針對老舊小區加裝電梯、口袋公園、社群托育這類微更新民生專案，可簡化或者豁免規劃許可審批。同時，要創新用地支援政策，為存量盤活降本紓壓。此外，還將最佳化不動產登記服務，保障各方主體權益。（央視）"
     },
     {
       "id": "te:markets:557143",
@@ -139,6 +281,14 @@
         "Greater China"
       ],
       "text": "Taiwan Weighted Index (TAIEX) closed down 1,568.16 points, or 3.48%, at 43,502.78 on Monday, June 8."
+    },
+    {
+      "id": "4923120",
+      "time": "2026-06-08 13:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：伊朗方面稱，對以色列兩個空軍基地實施了打擊】據法新社8日最新報道，伊朗伊斯蘭革命衛隊稱，伊朗方面對以色列兩個空軍基地實施了打擊。另據伊朗《德黑蘭時報》8日報道，伊朗伊斯蘭革命衛隊稱，對以色列內瓦蒂姆和特爾諾夫空軍基地實施了打擊。據《以色列時報》8日早些時候報道，以色列國防軍稱監測到伊朗方向來襲導彈。報道還稱，以色列貝爾謝巴等地區拉響防空警報。（環球網）"
     },
     {
       "id": "4923119",
@@ -640,6 +790,15 @@
         "XAUUSD"
       ],
       "text": "Iranian state media says the Mahshahr Special Petrochemical Economic Zone is evacuating personnel."
+    },
+    {
+      "id": "4923076",
+      "time": "2026-06-08 13:28:46",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國務院安委會辦公室通報安全生產領域部分弄虛作假典型案例】國務院安委會辦公室通報5起弄虛作假典型案例。其中包括，2024年7月19日，陝西省商洛市發生高速公路橋樑垮塌，造成62人死亡失蹤。調查評估發現，監理單位北京華宏工程諮詢有限公司違規同意施工單位不按圖紙施工將系梁抬升，不如實記錄監理日誌；實際情況與設計不符，卻按原施工圖進行驗收，並在竣工前複測檢驗時違規簽字同意。第三方試驗檢測單位原陝西交建公路工程試驗檢測有限公司專案負責人發現事發橋樑實際樁長與設計不符，擅自修改樁長和原始超聲波圖形，公司發現後也未糾正並出具檢測報告。災害發生後，涉事專案旁站監理、涉事第三方試驗檢測服務專案負責人涉嫌刑事犯罪，被司法機關採取強制措施；陝西省交通運輸廳對北京華宏工程諮詢有限公司、陝西交控工程技術有限公司以及相關責任人進行了行政處罰。"
     },
     {
       "id": "4923075",
@@ -178082,60 +178241,6 @@
         "Impact mixed"
       ],
       "text": "UK May Nationwide house price index m/m due in 10 minutes."
-    },
-    {
-      "id": "4909771",
-      "time": "2026-06-01 13:48:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鑫證券：長華集團業績有望持續增長，予“買入”評級】華鑫證券研報指出，長華集團是汽車緊韌體領先企業，拓展人形機器人與飛行汽車先行賽道。公司主要產品包括衝焊件、高強度緊韌體、螺母板、折彎件、衝鋁件、鋁壓鑄件等，覆蓋車身、三電系統等領域。其中，衝焊件與緊韌體為核心業務，2025年分別實現收入11.43/9.00億元，佔比53.03%/41.77%，同比-12.38%/+9.34%。戰略合作金博股份，積極開拓碳陶剎車盤領域。公司夯實緊韌體、衝焊件、鋁鑄件等傳統業務，持續拓展新能源車領域，積極開發碳陶剎車盤、人形機器人、低空經濟賽道，業績有望持續增長，給予“買入”投資評級。"
-    },
-    {
-      "id": "4909770",
-      "time": "2026-06-01 13:48:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度國家證券交易所Nifty 50指數收盤上漲0.3%。"
-    },
-    {
-      "id": "4909769",
-      "time": "2026-06-01 13:47:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【長生人壽擬增資擴股引進戰略投資者】6月1日，北京產權交易所披露了長生人壽保險有限公司（簡稱“長生人壽”）增資擴股引進戰略投資者專案，披露起止日期為6月1日至6月22日。資料顯示，長生人壽成立於2003年9月，總部位於上海市，公司現有3家股東，其中，中國長城資產管理股份有限公司持股51%，日本生命保險相互會社持股30%，長城國富置業有限公司持股19%。據長生人壽披露資訊，公司2026年第一季度綜合償付能力充足率為55.5%，2025年第二季度風險綜合評級為B類。償付能力充足率未達到監管要求。"
-    },
-    {
-      "id": "4909768",
-      "time": "2026-06-01 13:47:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗“確實想要”達成協議】美國總統特朗普6月1日在社交媒體上發文稱，伊朗“確實想要”達成協議，而且這會是“一份對美國及我們的盟友有利的協議”。特朗普在帖文中還抨擊美國民主黨及部分共和黨人在美伊談判問題上“不停地消極聒噪”，“要求我或者加快行動，或者放慢節奏，或者開戰，或者不要開戰，等等”，這加大了他的談判難度。特朗普稱“最終一切都會好起來的，而且向來如此”。美伊雙方均表示，目前停戰談判正處於最終階段，但在伊朗核問題和霍爾木茲海峽問題上仍存在嚴重分歧。特朗普曾於5月29日表示要就美伊談判“作出最終決定”，但後來又提出要進一步修改協議文字。過去幾天內，美伊雙方多次發生零星交火。（新華社）"
-    },
-    {
-      "id": "mkt:019e81b8-2c3b-799c-966b-fc47f15abd1d",
-      "time": "2026-06-01 13:46:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IDF says it intercepted Hezbollah rocket and struck rocket launcher】Early June 1 the IDF said it intercepted a rocket launched from Lebanon toward Israel’s Upper Galilee. The IDF also fired an interceptor over the northern city of Kiryat Shmona against a suspected Hezbollah-operated drone; the effectiveness of that intercept is under assessment. The IDF said it carried out an airstrike on a Hezbollah rocket-launching position in Lebanon in the early hours. Multiple air-raid sirens sounded in northern Israel since dawn."
-    },
-    {
-      "id": "4909767",
-      "time": "2026-06-01 13:45:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱攔截黎真主黨火箭彈並打擊其火箭發射裝置】當地時間6月1日，以色列國防軍表示，當天清晨從黎巴嫩境內發射、指向以色列上加利利地區的一枚火箭彈被以軍成功攔截。以軍同時稱，在以北部城市謝莫納上空發射了一枚攔截彈，用於應對一架疑似由黎真主黨操控的無人機，目前攔截效果仍在評估中。以軍還表示，6月1日凌晨，其對一處真主黨火箭彈發射裝置實施空襲。自當天凌晨以來，以色列北部疑似因火箭彈和無人機來襲多次拉響防空警報。（央視新聞）"
     }
   ]
 }
