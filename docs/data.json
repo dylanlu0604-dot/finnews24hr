@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-09 03:18:03",
+  "updated": "2026-06-09 03:21:51",
   "count": 19218,
   "items": [
+    {
+      "id": "mkt:019ea8ae-8f7f-733a-9234-d24f355cb2ac",
+      "time": "2026-06-09 03:21:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vale CEO says global metals demand shows no war-related damage】Vale CEO Gustavo Pimenta said he sees no signs that the Iran conflict has damaged global metals demand and that the company’s margins have widened despite shipment disruptions. He said Vale is focused on unlocking asset value rather than pursuing acquisitions and described global demand for critical minerals as very constructive. Disruptions in the Strait of Hormuz raised fuel costs and freight rates, but higher prices and volumes have largely offset the impact on miners. Vale has raised full-year free cash flow guidance for its core iron-ore business by $1.5bn and now expects average iron-ore prices of $112/tonne for the year versus a $102/tonne pre-conflict scenario."
+    },
+    {
+      "id": "4924641",
+      "time": "2026-06-09 03:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統辦公室顧問證實，澤連斯基與維特科夫、庫什納進行了通話。"
+    },
+    {
+      "id": "4924640",
+      "time": "2026-06-09 03:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士：無人機襲擊了伊拉克埃爾比勒北部的伊朗庫爾德反對派營地。"
+    },
+    {
+      "id": "mkt:019ea8ad-2ff1-733a-9234-c8bdd7351aea",
+      "time": "2026-06-09 03:19:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Security sources said a drone struck an Iranian-Kurdish opposition camp north of Erbil, Iraq."
+    },
+    {
+      "id": "mkt:019ea8ac-9d00-733a-9234-c6e92e60034e",
+      "time": "2026-06-09 03:19:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple has entered the third generation of its foundation models."
+    },
+    {
+      "id": "4924639",
+      "time": "2026-06-09 03:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：蘋果基礎大模型已迭代至第三代。"
+    },
+    {
+      "id": "mkt:019ea8ab-c6d4-733a-9234-bfd2a580b004",
+      "time": "2026-06-09 03:18:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Apple"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple’s private cloud will run three in-house AI models that Apple developed based on collaborative work with Google."
+    },
+    {
+      "id": "mkt:019ea8ab-724b-733a-9234-b62f32f8e177",
+      "time": "2026-06-09 03:17:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple has built a \"world knowledge service\" that runs on its private cloud platform."
+    },
     {
       "id": "mkt:019ea8ab-3736-733a-9234-addaf3beb0c3",
       "time": "2026-06-09 03:17:33",
@@ -177117,75 +177203,6 @@
         "國際"
       ],
       "text": "知情人士：特朗普提出的“機構政治化調查專項經費”專案已暫緩推進。"
-    },
-    {
-      "id": "4911277",
-      "time": "2026-06-02 03:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩表示，白宮若取消該項撥款當屬最優方案。"
-    },
-    {
-      "id": "mkt:019e84a1-c90e-7993-96f9-4735e8596931",
-      "time": "2026-06-02 03:20:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate Majority Leader Thune said the White House has not issued any official statement on President Trump's fund."
-    },
-    {
-      "id": "mkt:019e84a1-8edf-7993-96f9-3fe6cb2fb43b",
-      "time": "2026-06-02 03:20:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senate majority leader Thune said it would be ideal if the White House abandoned the fund."
-    },
-    {
-      "id": "mkt:019e84a1-16f7-7993-96f9-34986e5088da",
-      "time": "2026-06-02 03:20:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senate Majority Leader Thune said he hopes to remove President Trump's \"weaponized\" fund from the immigration enforcement spending bill."
-    },
-    {
-      "id": "mkt:019e84a1-154e-7993-96f9-29b5240a0508",
-      "time": "2026-06-02 03:20:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media: IRGC Sacred City Brigade commander Kani said Israeli operations in Lebanon and Gaza will prompt the 'axis of resistance' to treat shipping through the Bab al-Mandeb as equivalent to the Strait of Hormuz."
-    },
-    {
-      "id": "4911276",
-      "time": "2026-06-02 03:19:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩表示，白宮尚未就特朗普基金髮布官方公告。"
-    },
-    {
-      "id": "4911275",
-      "time": "2026-06-02 03:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國：計劃於2033年前落地多項大型鐵路基建工程。"
-    },
-    {
-      "id": "4911274",
-      "time": "2026-06-02 03:18:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩表示，希望從移民執法支出法案中剔除特朗普提出的 “政治武器化調查專項經費”。"
     }
   ]
 }
