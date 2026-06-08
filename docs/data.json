@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-08 22:58:21",
-  "count": 19094,
+  "updated": "2026-06-08 23:02:21",
+  "count": 19090,
   "items": [
+    {
+      "id": "mkt:019ea7c0-ead1-7226-8cb7-530fb0efceb3",
+      "time": "2026-06-08 23:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed: US 3-year inflation expectations unchanged at 3.1%; 5-year unchanged at 3.0%."
+    },
+    {
+      "id": "mkt:019ea7c0-6826-7226-8cb7-4d65614468e7",
+      "time": "2026-06-08 23:01:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed: respondents say the probability of unemployment will rise over the next 12 months."
+    },
+    {
+      "id": "mkt:019ea7bf-c8fd-7226-8cb7-4041fc141f0c",
+      "time": "2026-06-08 23:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "New York Fed 1-year inflation expectation for May 3.46%, down from 3.64% previously."
+    },
+    {
+      "id": "4924406",
+      "time": "2026-06-08 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦煤連續跌6.01%，焦炭連續跌3.13%，低硫燃料油連續跌2.01%，燃料油連續跌1.87%，PTA連續漲1.20%。"
+    },
+    {
+      "id": "mkt:019ea7bf-76ac-7226-8cb7-3e561bb525d4",
+      "time": "2026-06-08 23:00:03",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Germany confirmed it has agreed to terminate the Future Combat Air System (FCAS) joint fighter program."
+    },
+    {
+      "id": "4924405",
+      "time": "2026-06-08 22:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "菲斯克電氣中標休斯頓先進製造與資料中心基礎設施專案，合同金額4800萬美元。"
+    },
+    {
+      "id": "4924404",
+      "time": "2026-06-08 22:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝爾德將卡駱馳股價目標從115.00美元上調至150.00美元。"
+    },
     {
       "id": "4924403",
       "time": "2026-06-08 22:57:38",
@@ -175820,102 +175888,6 @@
         "國際"
       ],
       "text": "俄羅斯央行：6 月 2 日盧布官方匯率定為 1 美元兌 71.5532 盧布（前一交易日匯率 71.0224）。"
-    },
-    {
-      "id": "mkt:019e83b4-e057-7552-8901-74c61e6571f1",
-      "time": "2026-06-01 23:02:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China issues 2026 Ebola diagnosis and treatment guidelines; no domestic or imported cases reported】China's National Health Commission and State Administration of Traditional Chinese Medicine published the 2026 edition of Ebola diagnosis and treatment guidelines. Ebola virus disease (formerly Ebola hemorrhagic fever) is a highly pathogenic, high-fatality acute infectious disease transmitted mainly by direct contact with blood, bodily fluids, secretions, excretions of patients or corpses, infected animals, or contaminated objects. Clinical presentation includes sudden fever, extreme fatigue, headache, myalgia, frequent vomiting and severe diarrhea; bleeding and multi-organ failure can occur. Average case fatality ~50 pct; some strains up to 90 pct. Disease is primarily endemic in sub-Saharan Africa; China reports no local or imported cases."
-    },
-    {
-      "id": "4911122",
-      "time": "2026-06-01 23:01:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體釋出擊落MQ-1無人機影片】伊朗媒體6月1日釋出一段伊朗伊斯蘭革命衛隊擊落一架MQ-1無人機的影片畫面。影片未顯示事件發生的具體時間，但伊朗5月31日稱其擊落一架該型號無人機。伊朗伊斯蘭革命衛隊公共關係部門5月31日發表宣告說，一架美軍MQ-1無人機於當天凌晨進入伊朗領海上空，並試圖實施敵對行動。伊朗新型防空系統發現目標後，使用防空導彈成功將其擊落。（新華社）"
-    },
-    {
-      "id": "4911121",
-      "time": "2026-06-01 23:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【埃博拉病毒病診療方案發布 我國尚無本土及輸入性病例報告】國家衛生健康委、國家中醫藥局釋出了《埃博拉病毒病診療方案（2026年版）》。方案介紹，埃博拉病毒病，既往稱埃博拉出血熱，是由埃博拉病毒感染引起的具有高致病性和高病死率的急性傳染病，主要透過直接接觸患者、死者或受感染動物的血液、體液、分泌物、排洩物及其汙染的物品等而感染。臨床表現主要為突發發熱、極度乏力、頭痛、肌痛、頻繁嘔吐、嚴重腹瀉，可伴出血和多器官功能障礙。平均病死率約50%，部分毒株可達90%。主要流行於非洲撒哈拉以南地區，我國尚無本土及輸入性病例報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e83b4-a3b4-7552-8901-6c21fba57851",
-      "time": "2026-06-01 23:01:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "As of the 23:00 close, China’s domestic futures front-month contracts were mostly higher: low-sulfur fuel oil (LU) and liquefied petroleum gas (LPG) rose over 5%; fuel oil and methanol gained over 4%; asphalt climbed more than 3%; polypropylene and ethylene glycol (EG) rose over 2%. Soda ash and pulp slipped slightly."
-    },
-    {
-      "id": "mkt:019e83b4-8944-7552-8901-64f9c1d1db89",
-      "time": "2026-06-01 23:01:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Mexico (Banxico) survey: private-sector analysts now expect Mexico GDP growth of 1.10% in 2026, down from 1.38% in the prior survey. Forecast for 2027 is 1.80%, down from 1.88% previously."
-    },
-    {
-      "id": "4911120",
-      "time": "2026-06-01 23:01:34",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "墨西哥央行調查顯示，私營領域分析師預計 2027 年末基準利率為 6.50%，與上期調查預期持平。\n私營機構分析師預計 2026 年末比索兌美元匯率為 17.95 比索 / 美元，此前調查預期為 18.00 比索 / 美元。\n私營領域分析師預測墨西哥 2027 年經濟增速為 1.80%，此前調查預估為 1.88%。"
-    },
-    {
-      "id": "mkt:019e83b4-081e-7552-8901-5ab3ef543dc7",
-      "time": "2026-06-01 23:01:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Banxico survey: private-sector analysts expect the policy rate to be 6.50% at end-2027, unchanged from the previous survey."
-    },
-    {
-      "id": "mkt:019e83b3-a64c-7552-8901-553ae16ca57a",
-      "time": "2026-06-01 23:00:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Banxico survey: private-sector analysts expect the policy rate to remain at 6.50% at end-2026, unchanged from the prior survey."
-    },
-    {
-      "id": "te:markets:555440",
-      "time": "2026-06-01 23:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 1.22% — Top currency losers are New Zealand Dollar (-1.22%), Swedish Krona (-0.86%), Swiss Franc (-0.81%), Euro (-0.37%), Japanese Yen (-0.28%) and British Pound (-0.12%). Gains are led by Brazilian Real (0.63%) and Dollar Index (0.40%)."
-    },
-    {
-      "id": "4911119",
-      "time": "2026-06-01 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲5.38%，液化石油氣連續漲5.29%，燃料油連續漲4.85%，甲醇連續漲4.46%，瀝青連續漲3.78%，聚丙烯連續漲2.45%，乙二醇連續漲2.41%，焦煤連續漲2.19%。"
-    },
-    {
-      "id": "4911118",
-      "time": "2026-06-01 22:58:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗外長與比利時外長通電話，磋商地區最新局勢。"
     }
   ]
 }
