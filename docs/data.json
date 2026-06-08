@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-08 20:23:47",
-  "count": 19264,
+  "updated": "2026-06-08 20:27:48",
+  "count": 19259,
   "items": [
+    {
+      "id": "4924148",
+      "time": "2026-06-08 20:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：警報響起後，有彈藥從黎巴嫩射向以軍陣地。"
+    },
+    {
+      "id": "4924147",
+      "time": "2026-06-08 20:25:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和遠氣體：股票交易異常波動 電子特氣產品尚處試生產階段】和遠氣體公告稱，公司股票連續3個交易日（2026年6月4日、6月5日、6月8日）累計偏離21.42%，屬異常波動。目前公司宜昌和潛江兩大電子特氣產業園產品尚處試生產階段，部分產品業績佔比不超5%，部分未產生業績，六氟化鎢未籤實質性訂單。公司經營正常，內外部環境未變，控股股東等無應披露未披露重大事項，提醒投資者勿輕信網路言論，理性投資。"
+    },
+    {
+      "id": "4924146",
+      "time": "2026-06-08 20:25:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迅遊科技：擬2000萬元設立全資子公司】迅遊科技公告稱，公司於2026年6月8日召開董事會會議，審議透過以自有資金2000萬元在成都設立全資子公司“成都迅遊星馳科技有限公司”（暫定名）的議案。新公司經營範圍包括計算機軟硬體銷售、技術服務等。此次投資系公司戰略安排，旨在實現業務專業化運作與管理，為未來資源整合及業務協同預留空間，不會對公司財務及經營狀況產生重大影響，但存在經營管理風險，公司將強化管控應對。"
+    },
+    {
+      "id": "mkt:019ea731-edc9-799c-b571-48e0d0f4271c",
+      "time": "2026-06-08 20:25:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli Channel 12, citing a senior official, reported that at U.S. President Trump’s request Israel has suspended strikes against Iran; the official said operations in Lebanon will continue and added that if Israeli territory is attacked Israel will strike Dahiyeh."
+    },
+    {
+      "id": "4924145",
+      "time": "2026-06-08 20:25:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天山電子：實控人及其一致行動人持股比例增至31.05%】天山電子公告稱，2026年6月5日，公司2025年度權益分派實施完畢，總股本由1.98億股增至2.76億股。公司實際控制人王嗣緯及其一致行動人範筱芸、王嗣縝合計持股數量從6131.27萬股增至8583.78萬股，合計持股比例由30.93%增至31.05%（剔除回購股份後為31.34%）。截至報告書披露日，2024年限制性股票激勵計劃尚未實施完畢，未來12個月內，實控人及其一致行動人可能繼續減少或處置公司股份。"
+    },
+    {
+      "id": "4924144",
+      "time": "2026-06-08 20:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：若本土遭襲，以方將打擊達希耶地區。"
+    },
+    {
+      "id": "4924143",
+      "time": "2026-06-08 20:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "拉美航空巴西公司執行長表示：已將6-7月運力較初始計劃削減3%，預計第三季度將延續類似趨勢。"
+    },
+    {
+      "id": "4924142",
+      "time": "2026-06-08 20:24:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "拉美航空巴西公司執行長：公司在運力增長決策上趨於更加保守，E2機型執飛航線將於7月公佈。"
+    },
+    {
+      "id": "4924141",
+      "time": "2026-06-08 20:23:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：以色列在黎巴嫩的襲擊將繼續。"
+    },
+    {
+      "id": "mkt:019ea730-50cc-799c-b571-4505248e61c8",
+      "time": "2026-06-08 20:23:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported four interception incidents in the Galilee highlands in northern Israel."
+    },
+    {
+      "id": "4924140",
+      "time": "2026-06-08 20:23:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺積電美股盤前漲超4%】臺積電美股盤前漲超4%，現報431.79美元。"
+    },
     {
       "id": "mkt:019ea72f-be79-799c-b571-3854dcff971f",
       "time": "2026-06-08 20:23:03",
@@ -177485,147 +177578,6 @@
         "公司"
       ],
       "text": "【東土科技：4095萬元參股高威科6.5%股權深化戰略合作】東土科技公告稱，公司計劃以4095萬元參股投資高威科6.5%股權，資金來源為自有資金。本次交易完成後，高威科將成為公司參股公司。雙方自終止重大資產重組後，戰略合作持續深化，已在3C、物流領域實現技術驗證與小批次訂單落地。公司參股旨在加深雙方合作及業務融合，擴大市場覆蓋，完善“模數共振”佈局，到2029年實現高威科收入中雙方自有產品銷售收入6億元目標。但受行業波動等因素影響，未來目標存在無法達成風險。"
-    },
-    {
-      "id": "mkt:019e8327-26fe-7112-8c90-7d2a472fbe30",
-      "time": "2026-06-01 20:27:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's Ministry of Foreign Affairs said Turkish Foreign Minister Hakan Fidan will make an official visit to Singapore from June 1 to 2, 2026."
-    },
-    {
-      "id": "4910789",
-      "time": "2026-06-01 20:27:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX擬預留至多5% IPO股份供員工及高管親友認購】SpaceX在週一提交的更新版招股書中首次明確說明，公司計劃在即將進行的IPO中預留最多5%的A類普通股股份，供部分員工以及公司高管的親友認購。SpaceX此前已於上月披露，列入其所謂“親友名單”的參與者將不受鎖定期限制。定向配售計劃在IPO中較為常見，參與者通常會受到鎖定期約束，無法立即出售股份。SpaceX在檔案中表示，IPO前已發行股份中超過60%將受到366天鎖定期限制，包括馬斯克持有的股份。檔案稱馬斯克已同意接受366天鎖定期安排。"
-    },
-    {
-      "id": "mkt:019e8326-c3d4-7112-8c90-72e97c59a52d",
-      "time": "2026-06-01 20:26:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India plans to introduce a producer price index (PPI)."
-    },
-    {
-      "id": "4910788",
-      "time": "2026-06-01 20:26:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "美高梅股價盤前漲幅擴大至15%。"
-    },
-    {
-      "id": "4910787",
-      "time": "2026-06-01 20:26:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度計劃修訂批發物價指數的基期年份。"
-    },
-    {
-      "id": "mkt:019e8326-2f4b-7112-8c90-6a44986a4243",
-      "time": "2026-06-01 20:26:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israel Defense Forces said that after air-raid sirens were triggered across northern Israel a suspicious aerial target was detected. The incident has ended with no casualties. Several missiles were launched from Lebanon into Israeli territory; some were intercepted and others fell in open areas."
-    },
-    {
-      "id": "4910786",
-      "time": "2026-06-01 20:25:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星星科技：擬1元出售全資子公司100%股權】星星科技公告稱，為最佳化業務佈局和資源配置，公司擬將全資子公司深圳精密100%股權轉讓給台州宏量，轉讓價款為1元。台州宏量系公司實際控制人直接控制的公司，本次交易構成關聯交易。截至2026年4月30日，深圳精密股東全部權益評估值為-5026.08萬元。本次交易不涉及債權債務轉移，完成後深圳精密不再納入公司合併報表。2026年初至公告日，公司與該關聯方累計已發生各類關聯交易16961.88萬元（不含本次）。"
-    },
-    {
-      "id": "mkt:019e8325-6bd8-7112-8c90-676c60aca348",
-      "time": "2026-06-01 20:25:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX to reserve up to 5% of IPO Class A shares for employees and executives' friends and family】In an amended prospectus filed Monday, SpaceX said it will reserve up to 5% of Class A common stock in its IPO for certain employees and for friends and family of company executives. The filing said participants on a designated friends-and-family list will not be subject to the lock-up; more than 60% of pre-IPO issued shares will be subject to a 366-day lock-up, including shares held by Musk, and Musk has agreed to the 366-day lock-up."
-    },
-    {
-      "id": "4910785",
-      "time": "2026-06-01 20:25:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【粵電力A：股票交易異常波動 澄清網路不實傳言】粵電力A公告稱，公司股票於2026年5月29日、6月1日連續兩個交易日收盤價漲幅偏離值累計超20%，屬異常波動。5月27日至6月1日股價短期漲40.05%，最新換手率18.65%，滾動市盈率61.71倍，高於行業水平。公司澄清網路傳言，新疆克拉瑪依專案不存在擴大算力規劃，與韶關算力叢集無直接關聯，2026 - 2027年預計投產新能源約120萬千瓦而非500萬千瓦。2026年一季度歸母淨利潤虧損1.52億元，經營仍面臨挑戰。"
-    },
-    {
-      "id": "4910784",
-      "time": "2026-06-01 20:25:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯政府表示，外國籍船舶在俄內陸水域航行的許可，將由俄羅斯聯邦安全域性與國防部核發。"
-    },
-    {
-      "id": "mkt:019e8324-f64f-7112-8c90-5b5852159c72",
-      "time": "2026-06-01 20:24:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "【Shanghai to bolster emerging pillar industries, pre-emptively lay out future sectors】Shanghai Mayor Gong Zheng chaired an executive meeting on June 1 that gave in-principle approval to a 15th Five-Year Plan to accelerate new industrialization and build a modern industrial system. The plan designates advanced manufacturing as the backbone, directs optimization and value-chain upgrading of traditional pillars—automotive, steel and petrochemicals—and strengthens the strategic role of three lead industries. It orders expansion of emerging pillar industries and accelerated, forward-looking development of future sectors; emphasizes innovation-led policy to speed tech breakthroughs, R&D, new-use scenario cultivation and efficient commercialization of technological成果; and mandates intelligent, green and integrated transformation, improved evaluation metrics and enhanced service support to strengthen industrial capacity for high-quality growth."
-    },
-    {
-      "id": "4910783",
-      "time": "2026-06-01 20:24:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST洲際：控股股東廣西正和未符合受理破產清算申請的法定條件】ST洲際公告，控股股東廣西正和實業集團有限公司收到廣西壯族自治區柳州市中級人民法院的《民事裁定書》，裁定不予受理張友進對廣西正和的破產清算申請。法院認為，張友進的申請不能成立，廣西正和尚未符合受理破產清算申請的法定條件。"
-    },
-    {
-      "id": "4910782",
-      "time": "2026-06-01 20:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【弘信電子：控股子公司擬與關聯方共同投資通用機器人公司】弘信電子(300657.SZ)公告稱，公司控股子公司燧弘華創擬與關聯方雲創智月共同投資A公司，標的公司從事通用機器人相關業務。按投前估值200億元，燧弘華創出資5000萬元，雲創智月預計出資2.8億元，認購標的公司新增註冊資本。本次投資構成關聯交易，旨在與公司主營業務形成戰略協同，完善產業生態。"
-    },
-    {
-      "id": "4910781",
-      "time": "2026-06-01 20:24:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【NYMEX天然氣主力合約跌超1%】NYMEX天然氣主力合約跌超1%，現報3.25美元/百萬英熱。"
-    },
-    {
-      "id": "4910780",
-      "time": "2026-06-01 20:24:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團電話會：預期Q2外賣UE會明顯好於Q1】美團一季度財報電話會上，美團管理層表示，隨著餐飲外賣行業補貼持續最佳化，外賣競爭正逐步轉向以效率和體驗為核心的階段。一季度以來，美團進一步鞏固了在中高價值外賣訂單市場的領先地位，繼續擴大與同類平臺在UE上的領先優勢。若競爭環境保持理性，疊加二季度旺季效應，預期Q2外賣UE會明顯好於Q1。美團CEO王興表示：“相信隨著監管的持續引導，行業競爭將逐步迴歸理性。我們有信心持續保持在運營效率上的領先優勢，確保在行業中保持長期、穩固的競爭力。我們也相信我們的長期UE會迴歸到合理水平。”"
-    },
-    {
-      "id": "4910779",
-      "time": "2026-06-01 20:24:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "回聲星暫緩支付利息，等待來自美國電話電報公司的交易款項到賬。"
     }
   ]
 }
