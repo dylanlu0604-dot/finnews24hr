@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09 00:48:36",
-  "count": 19116,
+  "updated": "2026-06-09 00:52:31",
+  "count": 19113,
   "items": [
     {
       "id": "mkt:019ea821-80d0-733a-9231-bee205045cfb",
@@ -176167,37 +176167,6 @@
         "Brent"
       ],
       "text": "Shipping data show Venezuela's oil exports to India rose to about 427,000 barrels per day in May."
-    },
-    {
-      "id": "mkt:019e8419-8b16-7993-96f7-43460bda291a",
-      "time": "2026-06-02 00:52:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Shipping data show Venezuela's oil exports to the Caribbean for storage fell to about 58,000 b/d in May."
-    },
-    {
-      "id": "mkt:019e8418-8cb4-7993-96f7-3cb6c8d1a381",
-      "time": "2026-06-02 00:51:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Shipping data show Venezuela's oil exports rose to 1.25 mln barrels per day in May."
-    },
-    {
-      "id": "4911200",
-      "time": "2026-06-02 00:50:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "Tripo AI完成近2億美元A+輪和A++輪融資，以推進其AI 3D及世界模型路線圖。"
     }
   ]
 }
