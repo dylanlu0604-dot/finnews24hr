@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-09 06:44:28_
-_本檔包含 4183 則快訊，約 694921 字_
+_更新時間：2026-06-09 07:16:34_
+_本檔包含 4185 則快訊，約 694933 字_
+
+---
+
+### 2026-06-09 07:15:36  #國際
+
+【以軍空襲黎巴嫩南部致至少17人死亡】以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。據黎巴嫩國家通訊社報道，以軍當天對西頓地區哈賴耶卜鎮發動空襲，造成1人死亡；在提爾針對車輛的空襲造成4人死亡。黎巴嫩真主黨8日發表宣告稱，其武裝人員向黎南部賓特朱拜勒地區拜特亞洪鎮一帶的以軍士兵及軍車發射火箭彈，並出動一架無人機襲擊博福特城堡附近一輛以軍通訊車輛。（新華社）
+
+---
+
+### 2026-06-09 07:15:33  #公司 #國際
+
+【蘋果釋出新一代AI平臺及升級版Siri】當地時間6月8日，蘋果在全球開發者大會上介紹了由谷歌提供技術支援的全新Apple Intelligence系統，將這項升級描述為對現有軟體體系的重大改進，其中包括搭載蘋果智慧技術的全新版本Siri。蘋果稱，Siri現在變得“更智慧、知識更豐富且能力更強”，這款名為Siri AI的全新助手最初將支援英文，隨後將擴充套件至其他語言。蘋果表示，目前在中國大陸，Siri AI和Apple Intelligence新功能需要配合監管要求推進相關工作，因此暫不提供。此次升級還增強了蘋果的視覺智慧功能，可為使用者看到的事物提供相關資訊，同時還改進了寫作工具。蘋果還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。
+
+---
+
+### 2026-06-09 07:15:02  #國際
+
+【IAEA呼籲伊朗恢復合作 西方國家擬以決議施壓恐使美伊和談複雜化】國際原子能機構(IAEA)總幹事格羅西(Rafael Grossi)週一呼籲伊朗與他"重新接觸"，以便重啟對一年前遭美國和以色列轟炸的核設施的核查工作。與此同時，美國正帶頭推動IAEA理事會透過一項相關決議。伊朗至今仍未向IAEA通報這些遭轟炸核設施的現狀，也未說明曾儲存在那裡的核材料去向——包括已濃縮至接近武器級水平的鈾。雖然空襲或已嚴重損壞濃縮鈾設施，但大部分高濃縮鈾據信仍完好無損，其中包括部分濃度高達60%的濃縮鈾，距武器級所需約90%的濃度僅一步之遙。IAEA曾對未遭轟炸的設施進行核查，但在2月時因軍事打擊再起，基於安全理由而暫停了這些行動，此後僅檢查伊朗境內正在執行的布什爾（Bushehr）核電廠。美國、英國、法國和德國週一向理事會提交了一份決議草案，供理事會於本週晚些時候表決。媒體看到的文字顯示，該草案要求伊朗提供有關濃縮鈾的"完整資訊"，並“毫不拖延”地給予IAEA所需的一切核查准入。外交官們表示，這項決議很可能會像去年11月的類似決議一樣以明顯優勢獲得透過，但這可能會使美伊之間的談判變得複雜。
+
+---
+
+### 2026-06-09 07:13:46  #其他
+
+興業證券首席經濟學家劉鬱認為，6月作為二季度經濟重要的衝刺期，政府債有望成為撬動融資需求的重要變數，財政加碼發力的可能性較大。6月政府債供給量或將迎來年內高峰。
+
+---
+
+### 2026-06-09 07:10:23  #觀點
+
+摩根士丹利：恢復跟蹤陽光電源，評級超配，目標價230.72元人民幣。
+
+---
+
+### 2026-06-09 07:09:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says US will achieve complete victory over Iran within two weeks】On June 8 President Trump told a campaign fundraising call he expects the US to secure a "complete victory" over Iran within two weeks. He said the two sides remain in talks, that Iran seeks a deal and is prepared to accept key US conditions including forgoing nuclear weapons, and that oil prices will drop sharply once victory is declared. U.S. media noted Trump has previously used similar "two-week" timetables, citing an April 7 U.S.-Iran ceasefire initially framed as lasting two weeks to allow final agreement talks.
+
+---
+
+### 2026-06-09 07:09:26  #其他
+
+【Moderna：獲得英國批准開展林奇綜合徵癌症疫苗試驗】Moderna 已獲得英國藥品和保健產品監管局的批准，開展 mRNA-4194 的 1/2 期研究，這是一種用於治療林奇綜合徵的在研 mRNA 癌症疫苗。
+
+---
+
+### 2026-06-09 07:08:26  #市場 #國際
+
+【特朗普稱未來兩週將對伊朗全面勝利】當地時間6月8日，美國總統特朗普在參加一場為南卡羅來納州聯邦參議員格雷厄姆舉行的電話助選活動時表示，美國將在未來兩週內對伊朗取得“全面勝利”。特朗普稱，美伊雙方目前仍在進行談判，伊朗希望達成協議，並願意接受美國提出的關鍵條件，包括不擁有核武器。他進一步表示：“我認為我們正在贏得這場較量，真正的勝利將在未來兩週內到來。當我們宣佈全面勝利時，那將是徹底的勝利，而且很快就會發生。屆時油價將大幅下跌。” 美國媒體的報道指出，這並非特朗普首次提出“兩週內”將取得重大進展。美國東部時間4月7日宣佈的美伊停火協議最初也被設定為“持續兩週”，“以便雙方完成結束衝突的最終協議談判”。
+
+---
+
+### 2026-06-09 07:06:55  #公司 #國際
+
+OpenAI週一表示，該公司近期已就美國首次公開募股（IPO）提交了保密申請，與競爭對手Anthropic一道進軍股市，以吸引投資者關注人工智慧熱潮。CERITY PARTNERS合夥人舒爾曼（Michael Ashley Schulman）點評稱，“毫無疑問，OpenAI正在保持各種可能性，因為Anthropic在完成一輪鉅額融資後已率先提交了上市申請。但這兩家巨頭都遵循著由各自面臨的監管風暴和內部建設決定的時間表，而非簡單模仿對方的舉動。對更廣泛的市場而言，OpenAI最終的上市可能會加速‘人工智慧即基礎設施’這一敘事的形成，從而吸引更多公共資本流入該領域；在此之前，預計該公司將繼續利用私有企業的優勢來保持其領先地位。”
+
+---
+
+### 2026-06-09 07:06:48  #公司 #國際
+
+美國西部金屬有限公司在西沙漠地區發現大型銦鋅金礦。
+
+---
+
+### 2026-06-09 07:04:37  #Trading Economics #Economy #South Korea #GDP Growth Rate #Importance 2
+
+South Korea Q1 GDP Growth Revised Up to 1.8% — South Korea’s economy advanced by 1.8% QoQ in the first quarter of 2026, exceeding the preliminary estimate of 1.7% and rebounding from a downwardly revised 0.1% contraction in the previous quarter. It marked the strongest GDP growth since the first quarter of 2021, driven by solid exports and resilient domestic demand. On an annual basis, the economy expanded 3.6% in Q1, accelerating from 1.6% in the fourth quarter of 2025 and marking the fastest growth since the fourth quarter of 2021.
+
+---
+
+### 2026-06-09 07:04:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #Brent
+
+【UK consumer spending rebounds in May; travel outlays fall for third month】A survey released Tuesday showed UK consumers cut spending in April but increased spending in May; travel outlays fell for a third consecutive month, indicating market caution over the economic impact of the Iran war. Barclays and the British Retail Consortium said hot weather boosted clothing and other goods sales.
+
+---
+
+### 2026-06-09 07:04:05  #國際
+
+野村證券認為，如果SpaceX的股價在IPO後保持強勁，將有助於改善投資者情緒，這對日本股市來說也是一個利好因素。
+
+---
+
+### 2026-06-09 07:02:35  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、丁薛祥出席三峽水運新通道工程開工儀式
+2、國務院印發《現代化應急體系建設“十五五”規劃》
+3、建設“好房子”，改造老舊小區、老舊街區廠區……城市更新聚焦23項重點任務（權威釋出）
+4、“換道超車”的門道（評論員觀察）
+5、四川推動種業振興 打造新時代更高水平的“天府糧倉”
+6、形成覆蓋多元賽道的萬億元產業規模 情緒消費新場景加速湧現（大資料觀察）
+7、人工智慧時代催生新型數字流量形態 詞元套餐便利數字生活（探訪）
+8、超7800公里高速公路完成數智化改造 “智慧車道”不斷延伸
+9、注重沉浸體驗，滿足情緒價值 中式主題樂園重塑文旅賽道（經濟聚焦）
+10、湖北應城推動粉筆產業轉型升級 “在網上，把粉筆賣向世界”（高質量發展在一線·小城寶藏）
+11、遼寧加快推進化工老舊裝置改造 完成一千五百多家化工企業摸排評估
+12、廣西釋出“人工智慧+製造”需求清單
+13、630攝氏度二次再熱百萬千瓦機組投產發電
+14、“黑土糧倉”科技會戰系列科技成果釋出 技術創新助力黑土地產能提升
+15、北京網際網路法院釋出未成年人網路司法保護白皮書 網路消費類糾紛居各類案件數量之首
+16、我國已釋出食品安全標準1750項 涉及2萬多個指標，涵蓋340多種食品類別。
+
+---
+
+### 2026-06-09 07:02:21  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平同金正恩舉行會談
+2、離京對朝鮮進行國事訪問 習近平抵達平壤
+3、習近平出席金正恩舉行的歡迎儀式
+4、習近平和彭麗媛觀看朝鮮專場文藝演出
+5、習近平出席金正恩舉行的歡迎宴會
+6、習近平在朝鮮媒體發表署名文章 繼往開來、砥礪同行 續寫中朝傳統友誼嶄新篇章。
+
+---
+
+### 2026-06-09 07:02:12  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK May BRC total retail sales YoY 3.7% (prior -3.0%).
+
+---
+
+### 2026-06-09 07:02:05  #MKT News #Economic Calendar #Important
+
+United Kingdom | BRC Total Retail Sales (YoY) (May) | actual 3.7% | previous -3%
+
+---
+
+### 2026-06-09 07:01:56  #其他
+
+【暴雨藍色預警：雲南福建臺灣島等地局地特大暴雨】中央氣象臺6月9日06時釋出暴雨藍色預警：預計，6月9日08時至10日08時，西藏東南部、雲南西部和南部、廣東東部、福建南部、臺灣島等地部分地區有大到暴雨，其中，雲南南部、福建東南部、臺灣島等地部分地區有大暴雨，局地特大暴雨（250～320毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。
+
+---
+
+### 2026-06-09 07:01:31  #其他
+
+【強對流天氣藍色預警繼續：山東東部部分地區最大風力可達11級以上】中央氣象臺6月9日06時繼續釋出強對流天氣藍色預警：預計6月9日08時至10日08時，華北北部、黃淮東部、東北地區南部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，山東東部部分地區將有10級以上雷暴大風，最大風力可達11級以上；華南東部和南部、江南東南部、西南地區南部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，福建東南部、雲南西南部、海南島東部、臺灣島中南部等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。預計，強對流的主要影響時段為今日中午至前半夜。
+
+---
+
+### 2026-06-09 07:01:08  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK BRC like-for-like retail sales YoY +3.4% in May; prior -3.4%.
+
+---
+
+### 2026-06-09 07:01:03  #Trading Economics #Markets #commodity #Importance 0
+
+Coal traded above 150 USD/T — Coal rose above 150, according to trading on a contract for difference (CFD).
+
+---
+
+### 2026-06-09 07:01:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | BRC Like-for-like Retail Sales (YoY) (May) | actual 3.4% | previous -3.40%
+
+---
+
+### 2026-06-09 07:00:24  #MKT News #Nikkei 225 #Impact bullish #S&P500 #DXY #Impact bearish
+
+South Korea Q1 GDP final QoQ 1.8% vs 1.7% expected and 1.7% prior.
+
+---
+
+### 2026-06-09 07:00:15  #MKT News #Economic Calendar #Important
+
+South Korea | GDP Quarterly Final (Q1) | actual 1.8% | consensus 1.7% | previous 1.7%
+
+---
+
+### 2026-06-09 07:00:13  #國際
+
+韓國一季度GDP環比初值 1.8%，前值 1.7%。
+韓國一季度GDP同比初值 3.8%，前值 3.6%。
+
+---
+
+### 2026-06-09 06:57:25  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Higher in Morning Trading — The NZX 50 rose 23 points, or 0.2%, to 13,061 in Tuesday morning trading, erasing losses from the previous session while remaining at its lowest level since May 25, mainly boosted by gains in materials, consumer discretionary, and energy stocks. The broader index tracked gains on Wall Street, with the Nasdaq and S&P 500 advancing, supported by a rebound in chip stocks after sharp losses in the previous session amid renewed optimism surrounding AI. Easing tensions in the Middle East also lifted sentiment after Iran and Israel indicated they had halted their exchanges of strikes. However, traders remained cautious ahead of the release of China's trade balance data later today, which could provide guidance on economic conditions in New Zealand's largest trading partner. Among the early gainers were AFT Pharmaceuticals (1.1%), Auckland International Airport (1.0%), Channel Infrastructure (1.0%), Briscoe Group (0.9%), and Freightways Group (0.8%).
+
+---
+
+### 2026-06-09 06:56:10  #資料 #國際
+
+韓國第一季度GDP年率終值 3.6%，預期3.60%，前值3.60%。
+
+---
+
+### 2026-06-09 06:52:49  #MKT News
+
+South Korea Q1 GDP final annualized growth 3.6%, matching forecast 3.6% and prior 3.6%.
+
+---
+
+### 2026-06-09 06:52:41  #MKT News #Economic Calendar #Important
+
+South Korea | GDP Final (YoY) (Q1) | actual 3.6% | consensus 3.60% | previous 3.60%
+
+---
+
+### 2026-06-09 06:51:38  #市場
+
+【硫磺價格大幅攀升，傳導效應已有顯現】生意社資料顯示，6月8日，硫磺最新價格為8033.33元/噸，與本月初的7500.00元/噸相比，上漲了7.11%。而2026年年初，硫磺價格為3661.00元/噸，年內漲幅達119.43%。拉長時間看，2024年年初，硫磺價格為1066元/噸，兩年半時間漲幅超600%，創下2008年以來最強行情。當前，硫磺價格的傳導效應已有顯現，比如，因硫磺市場貨源緊張，硫酸法鈦白粉企業遭遇原料短缺，開工率驟降，產品價格同步上調。（證券日報）
+
+---
+
+### 2026-06-09 06:49:18  #公司
+
+【蘋果：中國大陸暫不提供最新Siri AI】當地時間6月8日上午，蘋果在ApplePark舉行WWDC2026，併發布SiriAI等一系列針對AI功能的更新。公司表示，目前在中國大陸，Siri AI和Apple Intelligence新功能需要配合監管要求推進相關工作，因此暫不提供。（介面）
+
+---
+
+### 2026-06-09 06:48:13  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #Nasdaq100
+
+【Apple says latest Siri AI not available in mainland China】At WWDC 2026 at Apple Park on the morning of June 8 (local time), Apple unveiled Siri AI and other AI updates but said the new Siri AI and Apple Intelligence features require coordination with local regulatory requirements and therefore will not be provided in mainland China for now.
+
+---
+
+### 2026-06-09 06:46:54  #資料
+
+紐西蘭第一季度製造業活動量季率 3.6%，前值-0.50%。
+紐西蘭第一季度季調後製造業活動季率 6.6%，前值0.60%。
+
+---
+
+### 2026-06-09 06:46:19  #國際
+
+【菲律賓地震已致37人死亡】據菲律賓民防部門今天（6月9日）訊息，菲律賓南部6月8日發生的地震已造成37人死亡。（ CCTV國際時訊）
+
+---
+
+### 2026-06-09 06:46:13  #MKT News
+
+New Zealand seasonally adjusted manufacturing activity rose 6.6% q/q in Q1, versus 0.6% in the prior quarter.
+
+---
+
+### 2026-06-09 06:46:07  #MKT News #Economic Calendar #Important
+
+New Zealand | Manufacturing Sales (Value) (QoQ) (Q1) | actual 6.6% | previous 0.60%
+
+---
+
+### 2026-06-09 06:45:37  #其他
+
+【村鎮銀行改革持續推進，年內已有近百家機構退出】當前，村鎮銀行改革持續推進。據國家金融監督管理總局金融許可證資訊查詢結果，截至6月1日，今年已有97家村鎮銀行出現在“機構退出列表”一欄中。上海金融與法律研究院研究員楊海平表示，政策層面大力推動中小銀行改革化險，將減量提質作為主要思路。而兼併重組能夠在短期內壓降高風險金融機構數量，因此成為村鎮銀行改革化險主流模式。（證券日報）
+
+---
+
+### 2026-06-09 06:45:26  #公司
+
+【銀行業多措並舉加快處置不良資產】近期，銀行業不良資產處置節奏明顯加快，行業形成差異化處置格局：國有大行、股份制銀行依託銀行業信貸資產登記流轉中心有限公司，對零售、對公不良資產開展常態化批次掛牌轉讓；部分中小銀行推行“全員推介、全員清收”模式，重點化解大額不良債權。受訪專家表示，下一階段，多措並舉處置不良資產依然是商業銀行防控經營風險、提升服務實體經濟質效的重點任務之一。（證券日報）
+
+---
+
+### 2026-06-09 06:45:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Israeli airstrikes in southern Lebanon kill at least 17】On the 8th, Israeli airstrikes on multiple sites in southern Lebanon killed at least 17 people and wounded several.
+
+---
+
+### 2026-06-09 06:45:10  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Rises by 1.76% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.76% increase.
+
+---
+
+### 2026-06-09 06:45:09  #MKT News
+
+New Zealand Q1 manufacturing activity volume QoQ +3.6% (prior -0.5%).
+
+---
+
+### 2026-06-09 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Manufacturing Sales (Volume) (QoQ) (Q1) | actual 3.6% | previous -0.50%
+
+---
+
+### 2026-06-09 06:44:19  #其他
+
+市場訊息：任天堂因 Switch 手柄問題在法國被罰 3500 萬歐元。
 
 ---
 
@@ -24926,256 +25208,5 @@ Nvidia CEO Jensen Huang said memory shortages will persist for several years.
 ### 2026-06-07 18:55:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Baqaei: Ceasefire status highly fragile】Fars News reported Iranian negotiating team spokesman and foreign ministry official Baqaei said major gaps remain in talks, chiefly whether the US will recognise Iran's rights including uranium enrichment. He said US forces have repeatedly attacked Iranian merchant ships in the Strait of Hormuz and international waters since the ceasefire. Baqaei warned the regional situation and the ceasefire are very fragile and dangerous, blamed what he described as US disregard for consequences, and said Iran's armed forces will respond to any attack.
-
----
-
-### 2026-06-07 18:51:02  #MKT News
-
-【Armed clash in southeast Iran kills four, security forces say】A news agency reported on the 7th that Iranian security forces exchanged fire with an armed group in Saravan, Sistan and Baluchestan province in southeast Iran. Security forces said they killed four "terrorists" and seized weapons and ammunition.
-
----
-
-### 2026-06-07 18:50:36  #國際
-
-【伊朗東南部邊境發生武裝衝突致4人死亡】據伊朗塔斯尼姆通訊社7日援引知情人士訊息報道，伊朗安全部隊在伊朗東南部錫斯坦－俾路支斯坦省薩拉萬地區與一支武裝組織發生交火，導致4人死亡。 報道說，伊朗安全部隊在行動中打死4名“恐怖分子”，並繳獲一批武器和彈藥。（新華社）
-
----
-
-### 2026-06-07 18:50:21  #公司
-
-【山西一民辦普通本科高等院校成立晉商學院】據山西工商學院官微訊息，6月3日下午，山西工商學院晉商學院、數字學院成立大會暨開班儀式在北格校區舉行。該校聘任山西省老字號協會常務副會長兼秘書長餘森翔為晉商學院副院長。聘任太原市寧化府益源慶貿易有限公司總經理王小強為晉商學院業界導師委員會主任委員。
-
----
-
-### 2026-06-07 18:49:20  #公司
-
-英偉達執行長黃仁勳表示，明天將與三星電子的副董事長全永鉉（Young Hyun Jun）會面。
-
----
-
-### 2026-06-07 18:49:19  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA CEO Jensen Huang will meet Samsung’s vice chairman tomorrow.
-
----
-
-### 2026-06-07 18:44:59  #其他
-
-沙烏地阿拉伯的“未來城”專案2026-2030年預算包括向承包商支付160億美元的預期款項，用於終止長期協議。
-
----
-
-### 2026-06-07 18:44:13  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish
-
-【CITIC Securities: prioritize value from pullbacks in new energy, chemicals, nonferrous metals and power equipment】CITIC Securities says it maintains an AI + energy/chemicals allocation and advises prioritizing the value created by pullbacks in new energy, chemicals, nonferrous metals and power equipment, while overweighting low‑valuation brokerages and insurers. It highlights cyclical growth in the AIDC (AI data center) and lithium‑battery chains and recommends focusing on the most supply‑tight links: tin, tantalum, glass substrates, power semiconductors, diesel generator sets, gas turbines, carbon fiber and cables. For traditional cyclicals, it advises concentrating on products with genuine systemic capacity clearance or absolute supply constraints, such as polyester, spandex, phosphorus chemicals, MDI, dyes, glyphosate, rubber and refrigerants.
-
----
-
-### 2026-06-07 18:43:30  #其他
-
-【京東與騰訊就AI Agent將達成重要合作】6月7日晚間訊息，據悉，京東與騰訊將圍繞AI Agent展開深度合作。依託京東的商品供應鏈、履約服務能力及騰訊的生態入口優勢，雙方將共同打造跨場景的智慧化服務新正規化，推動AI Agent從單點應用走向生態協同。（新浪科技）
-
----
-
-### 2026-06-07 18:43:17  #MKT News #Market Themes #AI Revolution #Macro & Rates #Treasury Yields #Nasdaq100 #Impact bearish #US10Y
-
-【CITIC Securities: Short-term US tech pullback; market likely to stay highly volatile】CITIC Securities says the near-term correction in US tech stocks reflects revisions to monetary policy expectations, crowded positioning and idiosyncratic company noise. The firm views the AI bull case as self-reinforcing and unlikely to reverse in the short term, but notes industry progress remains well short of a fully commercial closed loop and needs more high-value monetization scenarios. Rising long-end bond yields and very limited market fault tolerance imply sustained high volatility. Close monitoring of timing mismatches between AI input and output is necessary; tracking high-frequency indicators is recommended as a temporary risk-management measure.
-
----
-
-### 2026-06-07 18:41:57  #MKT News #Market Regions #Greater China
-
-【Guangdong Lingyi Intelligent Manufacturing clears HKEX listing hearing】Livermore Securities reports Guangdong Lingyi Intelligent Manufacturing Co., Ltd. filed updated post-hearing documents, indicating its HKEX IPO has cleared the listing hearing.
-
----
-
-### 2026-06-07 18:40:20  #公司
-
-廣東領益智造股份有限公司港交所IPO透過聆訊。
-
----
-
-### 2026-06-07 18:40:09  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli military warns residents of Lebanon's Tyre and surrounding areas to evacuate.
-
----
-
-### 2026-06-07 18:39:06  #國際
-
-以色列軍方：對黎巴嫩提爾市及其周邊地區居民發出疏散警告。
-
----
-
-### 2026-06-07 18:34:49  #觀點 #焦點
-
-【中信證券：短期美股科技股調整，市場料將繼續維持高波動狀態】6月7日，中信證券釋出的美股科技板塊跟蹤點評報告指出，短期美股科技股調整，更多源於貨幣政策預期修正、此前擁擠的市場，以及個別企業噪音等因素的共同影響。短期維度，AI產業不斷自我強化的看多邏輯料難逆轉，但產業當前進展較“商業化已完全閉環”的論調仍有明顯距離，產業仍需發掘更多高價值的貨幣化場景。同時長端債券收益率攀升，市場層面極小的容錯空間等，均意味著市場料將繼續維持高波動狀態，當下緊密關注AI投入、產出節奏階段性不匹配的風險極為必要，系列高頻指標跟蹤為當下的權宜之計。
-
----
-
-### 2026-06-07 18:34:06  #公司
-
-上海仙工智慧科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
-
----
-
-### 2026-06-07 18:32:10  #公司 #市場 #國際
-
-【美伊戰事推高燃油成本，眾航司借年會大吐苦水】國際航空運輸協會正在巴西召開年度大會，各國航司藉機大吐苦水：美伊戰事引發中東局勢持續緊張，能源運輸通道受阻，燃油價格大漲特漲，民航公司普遍面臨成本危機，紛紛表示調高票價、削減航班等措施都是不得已而為之。（新華社）
-
----
-
-### 2026-06-07 18:32:01  #觀點
-
-【中信證券：當前需要重視新能源、化工、有色、電力裝置跌出的價效比】中信證券研報稱，在配置思路上，維持推薦AI+能化的結構，當前需要重視新能源、化工、有色、電力裝置跌出的價效比，同時增配低估值的券商和保險。對於具體的泛週期漲價品種，AIDC鏈、鋰電鏈這類週期成長品景氣度仍然持續，建議關注供需最緊俏的環節，主要有錫、鉭、玻璃基板、功率器件、柴油發電機組、燃氣輪機、碳纖維、電纜等；對於傳統週期品，建議聚焦在真實發生系統性產能出清或者供給有絕對約束的品種上，比如滌綸、氨綸、磷化工、MDI、染料、草甘膦、橡膠、製冷劑等。
-
----
-
-### 2026-06-07 18:29:10  #公司
-
-英偉達執行長黃仁勳：我們明日或有若干公告發布。
-
----
-
-### 2026-06-07 18:29:05  #其他
-
-【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局6月7日18時聯合釋出橙色地質災害氣象風險預警：2026年6月7日20時至8日20時，湖南西部、廣東北部和東南部、廣西北部、貴州中南部、西藏東北部發生地質災害的風險較高（黃色預警）；廣西東北部、貴州東南部發生地質災害的風險高（橙色預警）。
-
----
-
-### 2026-06-07 18:27:27  #MKT News
-
-【USHAKOV: Russia, Ukraine maintain public and non-public contacts】On a TV program broadcast on the 7th, USHAKOV said Russia and Ukraine have both public and non-public contacts; the public contacts refer to earlier rounds of negotiations.
-
----
-
-### 2026-06-07 18:26:57  #MKT News
-
-CENC measured a magnitude 5.0 earthquake in Greece at 18:02 on June 7, depth 10 km.
-
----
-
-### 2026-06-07 18:26:42  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Lloyd's List: Iran cuts Strait of Hormuz transit fees sharply】Lloyd's List reports Iran has materially reduced fees for transits of the Strait of Hormuz. Current per-transit charges reach up to $120,000 for bulk carriers and $160,000 for tankers, with rates varying by vessel type, cargo and owner nationality. That contrasts with charges of roughly $1-2m per vessel at the start of the conflict.
-
----
-
-### 2026-06-07 18:26:20  #其他
-
-中國地震臺網正式測定：06月07日18時02分在希臘（北緯38.70度，東經23.41度）發生5.0級地震，震源深度10千米。
-
----
-
-### 2026-06-07 18:26:13  #國際
-
-【俄總統助理：俄烏間保留非公開接觸】在當地時間7日播出的一檔電視節目中，俄羅斯總統助理烏沙科夫表示，俄羅斯與烏克蘭之間既有公開接觸，也有非公開接觸。據悉，公開接觸指此前的數輪談判。（央視新聞）
-
----
-
-### 2026-06-07 18:25:18  #國際
-
-美國地質調查局：普羅科皮西北偏西 5 公里處發生 5.1 級地震。
-
----
-
-### 2026-06-07 18:24:59  #國際
-
-【本輪巴以衝突已造成加沙地帶72971人死亡】當地時間7日，加沙地帶衛生部門釋出最新通報稱，過去24小時，加沙地帶各醫院共接收了10名遇難者遺體和36名傷員。據統計，自2025年10月11日停火以來，加沙地帶共記錄遇難者961人、傷者3020人。自2023年10月7日新一輪巴以大規模衝突爆發以來，加沙地帶的累計遇難人數已達72971人，累計受傷人數超17.3萬人。（央視新聞）
-
----
-
-### 2026-06-07 18:24:42  #國際
-
-【英媒披露伊朗收取的海峽通行費用大幅下降】據英國《勞埃德船舶日報》日前報道，通行霍爾木茲海峽的部分船隻，每艘船需繳納十多萬美元以換取伊朗的通行許可，相關費用較戰事初期大幅下降。報道援引航運安全運營商方面的訊息說，目前散貨船單次通行費最高可達12萬美元，油輪最高可達16萬美元，具體費率根據船型、貨物及船東國籍等因素有所浮動，較與戰事初期每艘船100萬至200萬美元的收費相比顯著下降。報道說，美國所謂疏導船舶透過霍爾木茲海峽的“自由計劃”上月破產後，美方的安保承諾變得更不可靠。多數船東仍認為透過該海峽過於危險，寧可繼續滯留。但由於看不到任何可信的和平協議，業界預計對峙還將持續。（新華社）
-
----
-
-### 2026-06-07 18:24:17  #其他
-
-【廣西南寧釋出暴雨紅色預警】6月7日，記者從廣西南寧市氣象部門瞭解到，今天17時40分，南寧市氣象臺將興寧區暴雨橙色預警訊號提升為紅色，併發布西鄉塘區暴雨紅色預警訊號、青秀區及良慶區暴雨橙色預警訊號：16時以來，興寧區三塘鎮及西鄉塘區老虎嶺水庫一帶已出現30—50毫米的強降雨，預計未來3小時西鄉塘區、興寧區、青秀區、良慶區仍將有20—40毫米，局地50毫米以上的強降雨，並伴有雷電、短時大風，山洪地質災害和城區積澇氣象風險很大，請防範。（央視新聞）
-
----
-
-### 2026-06-07 18:20:34  #觀點
-
-【中信證券：看好玻璃基載板產業鏈未來的發展及投資機會】中信證券研報稱，在AI算力設施升級需求推動下，玻璃基載板有望憑藉CTE優勢、更高平整度、更低翹曲、更精細的TGV孔徑/佈線和更高互聯密度等優勢，成為未來封裝基板的重要升級方向。當前客戶需求迫切，產業鏈各環節投入力度大，商業化落地節奏有望超預期。中信證券估算產業中長期潛在空間達600億元+，中信證券看好玻璃基載板產業鏈未來的發展及投資機會，並建議關注核心工藝環節及裝置的受益廠商。
-
----
-
-### 2026-06-07 18:19:14  #國際
-
-伊朗外交部：華盛頓透過攻擊我們的船隻違反了停火協議，我們將對任何攻擊作出回應。
-
----
-
-### 2026-06-07 18:18:56  #其他 #焦點
-
-【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局6月7日18時聯合釋出紅色山洪災害氣象預警：預計，6月7日20時至6月8日20時，湖南西南部、廣西北部、貴州南部等地部分地區發生山洪災害可能性大（橙色預警），其中，湖南西南部、廣西北部、貴州東南部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-06-07 18:15:26  #其他
-
-【傳淘寶閃購加大零售業務投入：發展“淘寶便利店”、盒馬前置倉等】 6月7日下午訊息，據媒體報道，淘寶閃購在五一假期前召開了核心高管會議，制定了新一年的增長計劃。
-根據會議內容，2027財年（2026年4月-2027年3月），淘寶閃購的核心目標包括兩方面：一是保持外賣業務市場份額穩定的基礎上，並在該財年內實現單月UE 轉正；二是加大對零售業務的投入，發展“淘寶便利店”、盒馬前置倉等業務，以及實現天貓超市、天貓品牌“遠轉近”，來提升零售業務的單量和GMV。
-報道內容稱，阿里新財年在淘寶閃購的投入只有上一財年的一半（不包含零售業務）。目前淘寶閃購單虧1.5元左右，今年第二季度，外賣業務整體虧損較第一季度將大幅改善。
-至於零售業務，報道援引接近淘寶閃購人士訊息稱，淘寶閃購為零售訂單設定了新目標，未來幾個月的目標要穩定在日均2000萬單的水平，包含貓超的4小時達和盒馬接入閃購的部分訂單。此外，淘寶閃購目前也正引入更多零售品牌，覆蓋更多社會綜合閃購倉，淘寶閃購合作的社會綜合倉已經超過2萬個。
-報道內容還提到，今年春節期間，淘寶便利店原計劃今年要開設1000家，但新財年初已將目標調高至1500家，近期淘寶閃購內部進一步上調目標，計劃開出3000家淘寶便利店。
-對於前述報道內容，截至發稿，淘寶閃購方面暫無回應。（新浪科技）
-
----
-
-### 2026-06-07 18:11:42  #焦點 #國際
-
-據伊朗媒體：每艘透過霍爾木茲海峽的油輪將收取150,000至200萬美元的費用，部分船舶費用可能不是以現金支付，而是以商品或以物易物的形式進行。
-
----
-
-### 2026-06-07 18:11:42  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iranian media Fars News said each oil tanker transiting the Strait of Hormuz will be charged $150,000–$2 million, and some fees may be paid in goods or via barter rather than cash.
-
----
-
-### 2026-06-07 18:07:43  #公司
-
-據報道，美股上市藥企Incyte即將以高達20億美元的價格收購一家專注於血液疾病治療的生物技術公司。
-
----
-
-### 2026-06-07 18:06:21  #公司 #資料 #觀點
-
-【中信證券：接下來霍爾木茲海峽通航是A股非AI板塊轉機的臨界點】6月7日，中信證券最新A股策略報告指出，市場情緒降溫後，科技、週期、金融和消費板塊各自有各自的驅動邏輯和節奏。科技：國產鏈看長鑫上市、北美鏈看Anthropic的ARR（年度經常性收入）；週期：供需雙弱、上下游博弈激烈，破局點還靠美伊停戰和海峽通航；金融：關鍵轉折點是大資金的減持程序，指數走弱後賣壓或減小；消費：CPI交易大機率滯後於PPI交易，而目前PPI交易受阻未完成。AI板塊有其自身的執行節奏和邏輯，非AI板塊也許存在資金面被虹吸的情況，但真正的啟動並不依賴資金高切低，而是宏觀敘事和市場環境轉變後新買家入局。對市場而言，目前最大的挑戰是霍爾木茲海峽短期通航的假設開始動搖，通脹和緊縮預期升溫。中信證券認為接下來海峽通航是“換副牌”的時刻，亦是非AI板塊轉機的臨界點。
-
----
-
-### 2026-06-07 18:04:01  #國際
-
-歐洲地中海地震中心：希臘哈爾基達西北方向28公里處發生5.3級地震。
-
----
-
-### 2026-06-07 18:01:59  #國際
-
-俄羅斯總統助理烏沙科夫：莫斯科與基輔保持密切聯絡。
-
----
-
-### 2026-06-07 18:01:37  #市場 #央行 #國際
-
-【歐洲央行官員Christodoulos Patsalides：推行歐洲聯合債券勢在必行】塞普勒斯央行行長Christodoulos Patsalides於週日表示，歐洲應當摒棄長期以來在聯合發債問題上的政治牴觸態度。大規模安全資產的推出，將提升歐盟的自主地位與整體穩定性。歐洲長期以來就在探討聯合發債，希望打造一款可與美國國債分庭抗禮的標杆金融產品。但德國、荷蘭等部分國家對此持反對態度，擔心本國納稅人最終要為其他國家不當的財政行為買單。由於缺少這類資產，歐盟金融體系始終存在短板，推高了整體融資成本、削弱了區域競爭力。歐洲央行也因此不斷加大呼籲力度，希望推動相關政策轉變。塞普勒斯目前擔任歐盟輪值主席國，同時身為歐洲央行管理委員會委員的Christodoulos Patsalides在評論文章中寫道：“當前經濟、地緣政治與制度環境形成難得的有利條件，推出歐洲統一安全資產已是大勢所趨。”他認為，聯合債券能夠降低融資成本，併為綠色轉型、數字化升級、人工智慧專案、國防建設、公共衛生應急、能源安全等歐盟共同發展舉措，提供充足的資金支撐。
-
----
-
-### 2026-06-07 18:01:07  #MKT News #Market Regions #Europe & UK
-
-Russian presidential aide Ushakov said Moscow is maintaining close contact with Kyiv.
-
----
-
-### 2026-06-07 17:57:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift.
 
 ---

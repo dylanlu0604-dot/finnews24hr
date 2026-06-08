@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-09 06:44:28_
-_本檔包含 3754 則快訊，約 694651 字_
+_更新時間：2026-06-09 07:16:34_
+_本檔包含 3749 則快訊，約 694655 字_
+
+---
+
+### 2026-06-05 13:12:52  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #TM.O #Impact bearish
+
+【Toyota halts Lexus LF-ZC production; says not abandoning BEVs】Toyota has stopped development of the Lexus LF-ZC battery EV, which had been slated for series production at its Tahara plant in Japan. The model was due to enter production in late-2026, was pushed to mid-2027, and is now suspended. Toyota China says the halt reflects changing market demand and broader vehicle program adjustments and does not mean the company is abandoning BEVs. Industry observers cite recent policy shifts — including the removal of the $7,500 US federal EV tax credit and the EU’s rollback of its effective 2035 ICE-sales ban — and intensifying competition from Chinese EV brands, which have a competitive edge over Japanese automakers in new-energy vehicles.
+
+---
+
+### 2026-06-05 13:12:42  #其他
+
+6月4日，多位市場人士及接近監管的人士向財新表示，資料資產ABS日前已被暫時叫停。兩位投行人士均稱，6月3日收到來自交易所的視窗指導，暫停申報資料資產ABS，"如果自行申報會被勸退"。另另有一位資深債市人士稱，不只是申報暫停，已過會的專案也已暫停封卷領取批文，而已拿到批文的專案則可能需要暫緩備案發行。（財新網）
+
+---
+
+### 2026-06-05 13:11:43  #MKT News #Commodities #Energy #WTI #Brent
+
+Venezuela's acting president welcomes Indian firms to actively participate in the country's reformed oil and gas sector.
+
+---
+
+### 2026-06-05 13:11:07  #國際
+
+印度政府訊息：委內瑞拉代總統歡迎印度企業積極參與委內瑞拉改革後的油氣領域。
+
+---
+
+### 2026-06-05 13:10:44  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量1595億元。
+
+---
+
+### 2026-06-05 13:10:02  #公司 #觀點
+
+摩根大通將特斯拉評級從減持上調至中性，目標股價從145美元上調至475美元。
+
+---
+
+### 2026-06-05 13:09:42  #國際
+
+印度政府表示，委內瑞拉臨時總統已邀請印度能源代表團訪委，勘探能源領域合作機遇。
+
+---
+
+### 2026-06-05 13:09:19  #MKT News #Commodities #Energy
+
+India's oil minister said Indian firms are willing to deepen their presence in Venezuela.
+
+---
+
+### 2026-06-05 13:09:05  #國際
+
+【巴拿馬副外長：希望巴中繼續開展多層次對話】巴拿馬外交部副部長卡洛斯·格瓦拉·曼3日晚說，巴拿馬同中國的關係不僅體現在外交和經貿領域，也體現在兩國人民長期以來建立的深厚友誼和文化交流中。希望雙方繼續開展多層次對話，推動兩國關係不斷發展。中國駐巴拿馬大使館3日晚在巴拿馬城舉行招待會，慶祝中巴建交9週年。巴拿馬政府官員及社會各界代表出席。曼在致辭中說，中國長期以來為巴拿馬人才培養提供了重要支援。他希望中國和巴拿馬繼續開展多層次對話，以尊重、共情和建設性合作為基礎，推動兩國關係不斷發展。（新華社）
+
+---
+
+### 2026-06-05 13:08:58  #MKT News #Market Themes #AI Revolution
+
+【Huawei Cloud launches Agentic AI product suite】At its INSPIRE conference in Shanghai, Huawei Cloud proposed the Agentic Infra paradigm and launched an Agentic AI product suite, including Agentic Infra integrated intelligence‑and‑infrastructure, a next‑generation model training and inference platform, and an enterprise‑grade intelligent agent platform.
+
+---
+
+### 2026-06-05 13:08:32  #其他
+
+【聯利支助團：聯合國機構未在利比亞境內安置移民】聯合國利比亞支助團（聯利支助團）4日晚發表宣告，否認有關聯合國機構正在利比亞境內安置移民的指控，稱此類說法“完全不實”。
+
+---
+
+### 2026-06-05 13:07:01  #國際
+
+印度石油部長表示，印度企業有意深化在委內瑞拉的業務佈局。
+
+---
+
+### 2026-06-05 13:06:52  #市場 #國際
+
+印度Nifty 50指數抹去盤中漲幅，最新下跌0.02%。
+
+---
+
+### 2026-06-05 13:05:53  #國際
+
+【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。
+
+---
+
+### 2026-06-05 13:04:49  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
+
+Japan Leading Index Highest Since 2021 — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, rose to 115.9 in April 2026 from an upwardly revised 115.4 in the previous month, exceeding market forecasts of 114.3, preliminary estimates showed. It was the highest reading since December 2021, underscoring a gradual improvement in the economic outlook.
+
+---
+
+### 2026-06-05 13:04:16  #公司 #國際
+
+【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。DSI將對其獲取的商業資訊和合同條款保密。只要未發現低價報關行為，現有的戰略性自然資源大宗商品出口合同將繼續有效。該基金表示，遵守良好商業規範的出口商將不會面臨運營中斷，這有助於確保法律的確定性和有利的商業環境。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。
+
+---
+
+### 2026-06-05 13:04:11  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
+
+Japan Coincident Index Rises to 3-Month High — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, increased to 117.9 in April 2026 from an upwardly revised 116.8 in the previous month, flash data showed. It was the highest reading since January.
+
+---
+
+### 2026-06-05 13:03:49  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Weakens to 2009 Low — The South Korean won fell past 1,540 per dollar, marking its weakest level since March 2009, as heightened Middle East tensions weighed on broader risk sentiment. Developments in Lebanon, including Hezbollah’s rejection of a ceasefire proposal, alongside continued Israeli military activity, kept concerns over potential disruptions to regional energy supply routes in focus. Safe-haven demand for the US dollar also strengthened amid the broader risk-off environment. Additional pressure came from a sharp equity selloff in Korea, with the KOSPI heading for its steepest weekly drop in over two months amid a global semiconductor downturn, prompting continued foreign fund outflows. Meanwhile, authorities said they were taking "extra vigilance" over volatility in financial and foreign exchange markets. At the same time, South Korea posted its second-largest current account surplus on record in April at $28.29 billion, supported by robust semiconductor exports.
+
+---
+
+### 2026-06-05 13:02:41  #MKT News #Market Regions #Europe & UK
+
+South Korea's presidential office said President Lee will attend the G7 summit in France from June 9-18 and visit Italy, Belgium and the Vatican.
+
+---
+
+### 2026-06-05 13:02:24  #公司 #國際
+
+青瓦臺表示，韓國總統李在明將於6月9日至18日前往法國出席七國集團峰會，隨後訪問義大利、比利時以及梵蒂岡。
+
+---
+
+### 2026-06-05 13:02:09  #其他
+
+【機器人板塊走高，綠的諧波漲超17%】機器人板塊走高，綠的諧波漲超17%，億嘉和、埃夫特、三豐智慧、派斯林、凱爾達等跟漲。
+
+---
+
+### 2026-06-05 13:02:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+China A-share robotics sector rallied in the afternoon; Lvde Xiebo surged more than 17%, with Yijiahe, Efort, Sanfeng Intelligent, Paisenlin and Kaierda also advancing.
+
+---
+
+### 2026-06-05 13:01:31  #宏觀 #市場 #國際
+
+【印度取消債券稅收以吸引外國投資】印度下調境外機構投資者的債券投資相關稅負，以此吸納海外資金、穩定盧比匯率。受能源價格走高、股市資金外流拖累，盧比持續承壓。印度政府在官方公報釋出通知，出臺新規：境外機構投資印度國債所獲利息，以及國債出售、置換、轉讓產生的資本利得全部免徵稅費。該舉措有望遏制本幣跌勢，今年盧比表現位居亞洲主要貨幣跌幅前列。
+
+---
+
+### 2026-06-05 13:01:02  #市場 #焦點
+
+*ST聞泰盤中漲停，上演“地天板”，現報21.6元，成交額15.07億元。
+
+---
+
+### 2026-06-05 13:00:35  #MKT News #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #S&P500
+
+Japan April preliminary leading index 115.9; consensus 114.5; prior 114.
+
+---
+
+### 2026-06-05 13:00:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan April coincident index (preliminary) 117.9 vs forecast 117.4; prior 116.4.
+
+---
+
+### 2026-06-05 13:00:27  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (Apr) | actual 115.9 | consensus 114.5 | previous 114
+
+---
+
+### 2026-06-05 13:00:22  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (Apr) | actual 117.9 | consensus 117.4 | previous 116.4
+
+---
+
+### 2026-06-05 13:00:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
+
+Japan leading indicator, preliminary (MoM) +0.5% in April; previous +0.8%.
+
+---
+
+### 2026-06-05 13:00:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan April coincident index preliminary MoM +1.1% (prior +0.2%).
+
+---
+
+### 2026-06-05 13:00:08  #MKT News
+
+Singapore April seasonally adjusted retail sales 0.3% MoM; prior revised from 3.70% to 3.4%.
+
+---
+
+### 2026-06-05 13:00:08  #MKT News #Market Regions #Japan & APAC
+
+Singapore retail sales rose 5.4% YoY in April, vs expected 4.4%. March was revised down to 4.6% from 4.8%.
+
+---
+
+### 2026-06-05 13:00:03  #公司 #國際
+
+【英偉達執行長：機器人技術將是韓國的下一個重要領域】英偉達執行長黃仁勳週五表示，他認為機器人技術將是韓國的下一個重要領域。他抵達韓國金浦機場後，向記者發表了上述言論。黃仁勳表示，此行已安排與現代、LG、SK、三星和Naver舉行會晤。“我給韓國帶了什麼禮物嗎？我給韓國帶來了大量商機，”他告訴記者，並補充道：“我還有一些驚喜。”
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (MoM) (Apr) | actual 0.5% | previous 0.8%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (MoM) (Apr) | actual 1.1% | previous 0.2%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Retail Sales (YoY) (Apr) | actual 5.4% | consensus 4.4% | previous 4.80%
+
+---
+
+### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Retail Sales SA (MoM) (Apr) | actual 0.3% | previous 3.70%
+
+---
+
+### 2026-06-05 12:59:27  #國際
+
+【美國被曝擬不向德國售“戰斧”導彈】美國媒體4日披露，美國國防部打算取消向德國出售“戰斧”巡航導彈的計劃，緣由是擔心引發俄羅斯反制和美軍庫存不足。據美國《政治報》網站援引美國和歐洲官員的話報道，美國近期調整歐洲軍事部署並縮減駐德兵力後，德國原本希望透過採購“戰斧”導彈增強防務能力，但美方擔心在歐洲腹地部署遠端精確打擊武器可能被俄羅斯視為局勢升級訊號，從而引發俄方報復。“戰斧”導彈是美製亞音速巡航導彈，最大射程超過2000公里。《政治報》5月曾報道，德方希望購買400枚“戰斧”導彈。
+
+---
+
+### 2026-06-05 12:58:49  #公司
+
+【上海電信聯手淘寶閃購上線AI助餐服務，老人“動口不動手”即可點餐到家】6月4日，在上海市民政局指導下，中國電信上海公司與淘寶閃購依託天翼智屏平臺，聯合啟動“AI+老年助餐”智慧養老服務合作。雙方將充分發揮各自在通訊基礎設施、人工智慧技術及即時零售服務領域的優勢，透過天翼智屏終端為居家老年人提供語音點餐、一鍵下單、即時配送等便捷助餐服務，切實滿足老年群體“在家吃好飯”的民生需求。(上觀新聞)
+
+---
+
+### 2026-06-05 12:58:17  #MKT News
+
+India central bank reserve requirement ratio (RRR) stood at 3% as of June 5, matching expectations and unchanged from the prior 3%.
+
+---
+
+### 2026-06-05 12:58:04  #MKT News #Economic Calendar #Important
+
+India | RBI Cash Reserve Ratio (Jun.5) | actual 3% | consensus 3% | previous 3%
+
+---
+
+### 2026-06-05 12:58:03  #MKT News
+
+India central bank reverse repo rate 3.35% as of June 5, unchanged from previous 3.35%.
+
+---
+
+### 2026-06-05 12:57:55  #MKT News #Economic Calendar #Important
+
+India | RBI Reverse Repo Rate (Jun.5) | actual 3.35% | previous 3.35%
+
+---
+
+### 2026-06-05 12:57:13  #MKT News
+
+Reserve Bank of India governor said experience shows exchange-rate volatility is driven by speculative pressures.
+
+---
+
+### 2026-06-05 12:56:37  #國際
+
+【林肯紀念堂要建“特朗普步道”？】美國總統特朗普4日說，將在首都華盛頓林肯紀念堂建一條通往波托馬克河的步道，有人想將其命名為“特朗普步道”。特朗普在白宮對記者說：“他們想把它命名為‘特朗普步道’，但我還沒想好要不要這樣。”他沒有說“他們”具體是誰。林肯紀念堂是華盛頓地標建築之一，也是特朗普意欲在首都留下其個人印記的目標建築之一。此前，這位昔日房地產開發商瞄準的多個專案遭到批評，甚至起訴。（新華社）
+
+---
+
+### 2026-06-05 12:56:11  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Reserve Bank of India governor said global economic conditions remain fragile.
+
+---
+
+### 2026-06-05 12:56:10  #MKT News #DXY #Impact bearish
+
+Reserve Bank of India governor said FX reserves provide a sufficient buffer and the bank has the regulatory and market tools to manage FX volatility.
+
+---
+
+### 2026-06-05 12:55:52  #央行 #國際
+
+印度央行行長：我們已準備好監管工具及基於市場的工具，可根據需要應對匯率波動。
+
+---
+
+### 2026-06-05 12:55:52  #MKT News
+
+Reserve Bank of India governor said the central bank will curb excessive volatility and prevent disorderly market moves.
+
+---
+
+### 2026-06-05 12:55:42  #國際
+
+印度儲備銀行行長：將遏制過度波動，防止市場無序執行。
+
+---
+
+### 2026-06-05 12:55:37  #MKT News
+
+Reserve Bank of India governor says the objective is not to resist market-driven moves.
 
 ---
 
@@ -22271,341 +22577,5 @@ TSMC's CEO said wafer shipments would reach 15 million in 2025; advanced process
 ### 2026-06-04 09:44:04  #公司 #國際
 
 【現代汽車與英偉達商討在韓設立人工智慧研發中心】據報道，現代汽車和韓國政府與英偉達就建立人工智慧技術中心進入最終磋商階段，新萬金成為選址首選，該研發中心將是英偉達頂尖級別的研發基地。黃仁勳本週到訪韓國或敲定落戶地點與建設時間表，他定於本週五會晤現代汽車集團會長鄭義宣及其他業界高管。
-
----
-
-### 2026-06-04 09:43:32  #MKT News #Commodities #Industrial Metals #CSI300 #Impact bearish
-
-A-share nonferrous metals sector opened sharply lower; Aluminum Corp of China (Chalco) dropped over 6%, while Tianshan Aluminum, Dongfang Zirconium and Zinc Industry Co. each fell more than 5%.
-
----
-
-### 2026-06-04 09:43:25  #MKT News #Market Themes #Chip Wars
-
-TSMC (TSM.N) CEO said the company is working to reduce costs and to maximize the benefits of high-NA EUV before deploying it in production.
-
----
-
-### 2026-06-04 09:43:09  #Trading Economics #Economy #Australia #Exports #Importance 1
-
-Australia Exports Rebound in April — Australia’s goods exports grew 7.2% month-on-month to a three-year high of AUD 47.19 billion in April 2026, recovering from a downwardly revised 2.5% fall in the previous month, mainly driven by metal ores and minerals.
-
----
-
-### 2026-06-04 09:43:05  #公司 #市場
-
-臺積電CEO：臺積電股價將繼續上漲。
-
----
-
-### 2026-06-04 09:42:44  #公司
-
-臺積電執行長：我們正努力降低成本，並在高數值孔徑極紫外光刻（High-NA EUV）投入量產前實現其收益最大化。
-
----
-
-### 2026-06-04 09:42:16  #MKT News #Market Themes #Chip Wars #TSM.O
-
-TSMC CEO said the company has acquired high-numerical-aperture (high-NA) EUV lithography tools for R&D, but their high cost means they are not required for production at present.
-
----
-
-### 2026-06-04 09:41:50  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量735億元。
-
----
-
-### 2026-06-04 09:41:46  #公司
-
-臺積電執行長：我們已採購高數值孔徑極紫外（High-NA EUV）光刻機用於研發，但受成本過高影響，當前量產階段暫不需要高數值孔徑極紫外裝置。
-
----
-
-### 2026-06-04 09:40:46  #公司 #市場
-
-儲存晶片板塊低開高走，大為股份衝擊漲停，江化微、雲漢芯城、太極實業、概倫電子、雅創電子均漲超5%。
-
----
-
-### 2026-06-04 09:40:40  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Slip on Middle East Risks — The benchmark KOSPI fell more than 1% to around 8,700 on Thursday, retreating from record highs and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Iran struck Kuwait International Airport and Israel signaled that it, together with the US, was prepared to launch further strikes against Iran if necessary, driving oil prices higher and raising inflation risks. The decline also reflected profit-taking following the index's extraordinary AI-driven rally, with investors turning cautious amid elevated market volatility and growing concerns about stretched valuations. Technology heavyweights Samsung Electronics (-0.6%) and SK Hynix (-3.0%) both traded lower, alongside Hyundai Motor (-3.4%), LG Energy Solution (-5.3%), LG Electronics (-15.0%), and Kia Corp (-3.1%). Still, losses were limited by chip-sector optimism after Goldman Sachs raised its 12-month KOSPI target to 12,000, citing robust AI-driven earnings growth.
-
----
-
-### 2026-06-04 09:40:22  #公司
-
-臺積電CEO稱，出於成本考慮，未在生產中使用阿斯麥（ASML）的高數值孔徑（High-NA）EUV光刻機。
-
----
-
-### 2026-06-04 09:40:01  #其他
-
-高市早苗：關於削減消費稅的具體幅度尚未確定。
-
----
-
-### 2026-06-04 09:39:50  #MKT News #Market Regions #Greater China
-
-【Fudi Battery signs framework cooperation agreement with Meishan Xingmei Investment Group】June 2, 2026 — Meishan Xingmei Investment Group chairman Yang Dezhi visited Fudi Battery’s Pingshan headquarters and the two parties signed a framework strategic cooperation agreement. Fudi Deputy GM Zhao Tong and BYD Storage & New Batteries Division GM Yin Xueqin attended. The parties said they will expedite implementation, focusing on co-building a fast-charging replenishment network for heavy trucks, developing zero-carbon industrial parks, supporting power-battery supply chains, and advancing hard-carbon anode resource development.
-
----
-
-### 2026-06-04 09:39:15  #市場 #焦點
-
-PVC連續主力合約日內跌2%，現報4827.00元。
-
----
-
-### 2026-06-04 09:39:15  #Trading Economics #Economy #Australia #Balance of Trade #Importance 3
-
-Australia Trade Balance Swings to Surplus — Australia posted a trade surplus of AUD 1.79 billion in April 2026, shifting from a downwardly revised AUD 1.02 billion deficit in the previous month and in line with market expectations. Exports grew 7.2% month-on-month to AUD 47.19 billion, after a downwardly revised 2.5% fall in March, mainly driven by metal ores. Meanwhile, imports rose 0.8% to AUD 45.40 billion, after a downwardly revised 12.2% surge in March.
-
----
-
-### 2026-06-04 09:38:43  #公司 #市場
-
-工業氣體概念再度拉昇，中船特氣漲超15%，股價續創歷史新高，華特氣體、和遠氣體、三孚股份、廣鋼氣體、凱美特氣跟漲。
-
----
-
-### 2026-06-04 09:38:29  #市場
-
-【MLCC概念反覆走強 雙星新材漲停】近期MLCC概念反覆走強，雙星新材漲停，宏達電子漲超15%，利和興、宏明電子、昀冢科技、潔美科技跟漲。
-
----
-
-### 2026-06-04 09:38:20  #其他
-
-高市早苗：將考慮可接受水平的汽油補貼。
-
----
-
-### 2026-06-04 09:36:53  #公司
-
-【河南泌陽通報體育場跑道質量問題屬實】近日，有網民反映河南省駐馬店市泌陽縣體育場“試開放時跑道多處破損”，引發關注。4日，泌陽縣聯合調查組釋出情況通報稱，“經縣聯合調查組實地踏勘，網傳跑道面層脫落、膠體破損、區域性基底裸露等質量問題情況屬實。” 通報顯示，泌陽縣體育場維修改造專案於2025年10月公開招標，中標企業為河南港城建設工程有限公司，中標價款519.58萬元，專案主要內容為乒羽館、田徑場、籃球場以及零星專案升級改造。截至目前，該專案尚未組織竣工驗收。 目前，泌陽縣衛生健康體育委員會已全面暫停專案施工作業，依規遴選具備資質的第三方專業檢測機構，對該專案開展質量檢測。同時，泌陽縣紀委、公安等部門抽調人員組成工作專班，對專案立項、招投標、施工全過程開展徹查。
-
----
-
-### 2026-06-04 09:35:58  #市場
-
-【油價或迎年內第二降 加滿一箱油將少花21元】國內成品油新一輪調價視窗將於6月4日24時開啟。綜合機構觀點，本輪或迎來年內第二次下調。據卓創資訊測算，截至6月2日收盤，國內第9個工作日參考原油變化率-12.08%，預計汽柴油下調535元/噸。曹瑩瑩提到，本次成品油零售限價下調已是大機率事件。按照目前的幅度計算，預計6月4日24時92汽油跌幅在0.42元/升，0柴油的跌幅在0.45元/升左右，加滿一箱50升的92汽油預計將節省21元左右。“預計下一輪成品油調價上調的機率較大。”隆眾資訊成品油分析師劉婷表示。（中新經緯）
-
----
-
-### 2026-06-04 09:35:55  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【China fuel prices likely to fall for second time this year; 50L tank to save ~21 yuan】China's domestic retail fuel-price window opens at 2400 on June 4; the market is pricing a likely second pump-price cut this year. Data provider Zhuochuang estimated the ninth working-day reference crude change rate at -12.08% as of June 2 close, implying a 535 yuan/ton reduction for both gasoline and diesel. That would lower 92 RON gasoline by about 0.42 yuan/liter and 0# diesel by about 0.45 yuan/liter, saving roughly 21 yuan on a 50L 92 RON fill. Analyst Cao Yingying called a retail-price cut highly probable; Longzhong analyst Liu Ting said the probability of an increase in the next adjustment is elevated.
-
----
-
-### 2026-06-04 09:35:09  #其他
-
-【港股人工智慧概念走弱 壁仞科技跌超5%】截至發稿，壁仞科技(06082.HK)跌5.45%，五一視界(06651.HK)跌4.15%，天數智芯(09903.HK)跌2.37%。
-
----
-
-### 2026-06-04 09:35:07  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-06-04 09:35:04  #市場
-
-【電力板塊延續強勢 豫能控股2連板續創歷史新高】早盤電力板塊延續強勢，豫能控股2連板，續創歷史新高，廣西能源觸及漲停，百通能源、新中港、京能電力、西昌電力等跟漲。
-
----
-
-### 2026-06-04 09:35:01  #經濟數據 #中國
-
-國家統計局釋出5月下旬流通領域重要生產資料市場價格變動情況，據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年5月下旬與5月中旬相比，13種產品價格上漲，36種下降，1種持平。其中，生豬（外三元）上漲1.1%，液化石油氣跌6.1%。
-
----
-
-### 2026-06-04 09:34:21  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-A-share property sector rose in early trade; Yangguang Shares hit the daily limit, while Nanshan Holdings, Hefei Urban Construction, Qixia Construction, Fuxing Shares and Jintou Urban Development advanced.
-
----
-
-### 2026-06-04 09:34:07  #公司 #市場
-
-【水產板塊盤初活躍 百洋股份漲停】早盤水產板塊活躍，百洋股份漲停，中水漁業、好當家、國聯水產、獐子島衝高。
-
----
-
-### 2026-06-04 09:34:05  #Trading Economics #Economy #Australia #Imports #Importance 1
-
-Australia Import Growth Eases Significantly — Australia’s goods imports rose 0.8% month-over-month to AUD 45.40 billion in April 2026, slowing sharply from a downwardly revised 12.2% growth in the previous month amid weaker domestic demand.
-
----
-
-### 2026-06-04 09:34:00  #MKT News #Market Themes #Chip Wars #TSM.N
-
-TSMC (TSM.N) CEO said the company is working closely with customers to enhance geopolitical resilience.
-
----
-
-### 2026-06-04 09:33:57  #公司 #市場
-
-【房地產板塊短線拉昇，陽光股份漲停】房地產板塊短線拉昇，陽光股份漲停，南山控股、合肥城建、棲霞建設、福星股份、津投城開等紛紛走高。
-
----
-
-### 2026-06-04 09:33:44  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
-
-A-share copper cable and high-speed connector sector rallied; Xinke Materials logged a third consecutive limit-up, with Jinxin Nuo, Taichen Guang, Hangtian Dianqi, Bowei Alloy and Dingtong Technology also higher.
-
----
-
-### 2026-06-04 09:33:37  #其他
-
-高市早苗：無需推行拖累經濟的緊縮財政政策。
-
----
-
-### 2026-06-04 09:32:32  #市場
-
-【5月下旬與5月中旬相比13種產品價格上漲】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年5月下旬與5月中旬相比，13種產品價格上漲，36種下降，1種持平。(國家統計局)
-
----
-
-### 2026-06-04 09:32:29  #公司 #觀點 #國際
-
-莫迪與花旗集團CEO討論了花旗對印度經濟增長重點專案的支援情況。
-
----
-
-### 2026-06-04 09:31:32  #公司 #觀點 #國際
-
-印度總理莫迪會見花旗集團董事長兼執行長。
-
----
-
-### 2026-06-04 09:31:22  #MKT News #CSI300 #Impact bearish
-
-【Index futures open lower in morning session】CSI 300 index futures (IF) most-active contract fell 0.53%; SSE 50 index futures (IH) fell 0.33%; CSI 500 index futures (IC) fell 0.50%; CSI 1000 index futures (IM) fell 0.45%.
-
----
-
-### 2026-06-04 09:31:17  #MKT News #CNH #Impact bearish
-
-【China government bond futures open lower】At the morning open, China government bond futures main contracts were lower: 2-year (TS) -0.01 pct, 5-year (TF) -0.03 pct, 10-year (T) -0.04 pct, 30-year (TL) -0.19 pct.
-
----
-
-### 2026-06-04 09:31:07  #其他
-
-【國內成品油價格將迎來調整視窗】今天24時，國內成品油價格將迎來調整視窗。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。本輪調價週期內，國際油價走勢以下降為主。
-
----
-
-### 2026-06-04 09:31:02  #MKT News
-
-CSI Convertible Bond Index opened down 0.29%. Leading losers: Chun23 convertible bond -2.79%, Aofei convertible bond -2.78%, Luwei convertible bond -2.65%, Dinglong convertible bond -2.60%, Tianzhun convertible bond -2.38%. Top gainers: Z-Huate convertible bond +5.96%, Tianchuang convertible bond +3.25%, Huicheng convertible bond +2.70%, Yubang convertible bond +2.53%, Xianghe convertible bond +2.18%.
-
----
-
-### 2026-06-04 09:30:50  #MKT News
-
-Australia goods and services trade balance Apr A$1.79 bln vs est A$1.80 bln; prior -A$1.84 bln.
-
----
-
-### 2026-06-04 09:30:45  #市場 #國際
-
-30年期日本國債<JP30YTN=JBTC>收益率下跌0.5個基點，至3.850%。
-
----
-
-### 2026-06-04 09:30:40  #MKT News #Economic Calendar #Important
-
-Australia | Goods and Services Trade Balance (Apr) | actual 1789999999.9999998B | consensus 1800000000B | previous -1841000000B
-
----
-
-### 2026-06-04 09:30:39  #其他
-
-澳大利亞4月份貿易順差為17.91億澳元；預估為16億澳元。
-
----
-
-### 2026-06-04 09:30:36  #MKT News #AUDUSD
-
-Australia April imports MoM +0.8%, prior +14.1%.
-
----
-
-### 2026-06-04 09:30:30  #MKT News #Economic Calendar #Important
-
-Australia | Imports (MoM) (Apr) | actual 0.8% | previous 14.10%
-
----
-
-### 2026-06-04 09:30:25  #其他
-
-澳大利亞4月份出口環比增長7.2%。4月份進口額環比增長0.8%。
-
----
-
-### 2026-06-04 09:30:25  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish
-
-Australia exports rose 7.2% MoM in April; prior -2.7%.
-
----
-
-### 2026-06-04 09:30:18  #MKT News #Economic Calendar #Important
-
-Australia | Exports (MoM) (Apr) | actual 7.2% | previous -2.70%
-
----
-
-### 2026-06-04 09:30:09  #公司
-
-臺積電執行長承諾將現金股息提高逾30%。
-
----
-
-### 2026-06-04 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.49%， 滬深300指數期貨連續跌0.45%， 中證500指數期貨連續跌0.38%， 上證50指數期貨連續跌0.40%。
-
----
-
-### 2026-06-04 09:30:03  #市場 #焦點
-
-北證50日內跌幅達1.16%，成分股中，戈碧迦跌3.35%，則成電子跌3.07%，吉林碳谷跌3.01%，富士達跌2.81%。
-
----
-
-### 2026-06-04 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.17%， 10年期主力合約跌0.03%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-06-04 09:30:02  #市場 #焦點
-
-科創50日內跌幅達1.50%，成分股中，芯原股份跌3.10%，生益電子跌2.54%，華潤微跌2.38%，國盾量子跌2.31%。
-
----
-
-### 2026-06-04 09:29:48  #市場
-
-中證轉債指數開盤下跌0.29%。春23轉債、奧飛轉債、路維轉債、鼎龍轉債、天準轉債跌幅居前，分別跌2.79%、2.78%、2.65%、2.60%、2.38%。Z華特轉、天創轉債、惠城轉債、煜邦轉債、祥和轉債漲幅居前，分別漲5.96%、3.25%、2.70%、2.53%、2.18%。
-
----
-
-### 2026-06-04 09:29:43  #國際
-
-【韓國財長：對槓桿化股票投資的增加感到擔憂】韓國財長6月4日稱，對槓桿化股票投資的增加感到擔憂，將採取行動應對金融市場的任何“羊群效應”；外國投資者調整投資組合是導致韓國股市波動的原因之一。
-
----
-
-### 2026-06-04 09:28:14  #MKT News #CSI300 #Impact mixed
-
-A-shares: China State Shipbuilding Corporation-linked stocks rose selectively; CSSC Special Gas surged more than 9%, Jiuzhiyang gained over 5%, China Power climbed about 3%.
 
 ---

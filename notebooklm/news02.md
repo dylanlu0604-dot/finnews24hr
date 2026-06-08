@@ -1,7 +1,258 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-09 06:44:28_
-_本檔包含 3619 則快訊，約 694289 字_
+_更新時間：2026-06-09 07:16:34_
+_本檔包含 3609 則快訊，約 694564 字_
+
+---
+
+### 2026-06-07 18:51:02  #MKT News
+
+【Armed clash in southeast Iran kills four, security forces say】A news agency reported on the 7th that Iranian security forces exchanged fire with an armed group in Saravan, Sistan and Baluchestan province in southeast Iran. Security forces said they killed four "terrorists" and seized weapons and ammunition.
+
+---
+
+### 2026-06-07 18:50:36  #國際
+
+【伊朗東南部邊境發生武裝衝突致4人死亡】據伊朗塔斯尼姆通訊社7日援引知情人士訊息報道，伊朗安全部隊在伊朗東南部錫斯坦－俾路支斯坦省薩拉萬地區與一支武裝組織發生交火，導致4人死亡。 報道說，伊朗安全部隊在行動中打死4名“恐怖分子”，並繳獲一批武器和彈藥。（新華社）
+
+---
+
+### 2026-06-07 18:50:21  #公司
+
+【山西一民辦普通本科高等院校成立晉商學院】據山西工商學院官微訊息，6月3日下午，山西工商學院晉商學院、數字學院成立大會暨開班儀式在北格校區舉行。該校聘任山西省老字號協會常務副會長兼秘書長餘森翔為晉商學院副院長。聘任太原市寧化府益源慶貿易有限公司總經理王小強為晉商學院業界導師委員會主任委員。
+
+---
+
+### 2026-06-07 18:49:20  #公司
+
+英偉達執行長黃仁勳表示，明天將與三星電子的副董事長全永鉉（Young Hyun Jun）會面。
+
+---
+
+### 2026-06-07 18:49:19  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA CEO Jensen Huang will meet Samsung’s vice chairman tomorrow.
+
+---
+
+### 2026-06-07 18:44:59  #其他
+
+沙烏地阿拉伯的“未來城”專案2026-2030年預算包括向承包商支付160億美元的預期款項，用於終止長期協議。
+
+---
+
+### 2026-06-07 18:44:13  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish
+
+【CITIC Securities: prioritize value from pullbacks in new energy, chemicals, nonferrous metals and power equipment】CITIC Securities says it maintains an AI + energy/chemicals allocation and advises prioritizing the value created by pullbacks in new energy, chemicals, nonferrous metals and power equipment, while overweighting low‑valuation brokerages and insurers. It highlights cyclical growth in the AIDC (AI data center) and lithium‑battery chains and recommends focusing on the most supply‑tight links: tin, tantalum, glass substrates, power semiconductors, diesel generator sets, gas turbines, carbon fiber and cables. For traditional cyclicals, it advises concentrating on products with genuine systemic capacity clearance or absolute supply constraints, such as polyester, spandex, phosphorus chemicals, MDI, dyes, glyphosate, rubber and refrigerants.
+
+---
+
+### 2026-06-07 18:43:30  #其他
+
+【京東與騰訊就AI Agent將達成重要合作】6月7日晚間訊息，據悉，京東與騰訊將圍繞AI Agent展開深度合作。依託京東的商品供應鏈、履約服務能力及騰訊的生態入口優勢，雙方將共同打造跨場景的智慧化服務新正規化，推動AI Agent從單點應用走向生態協同。（新浪科技）
+
+---
+
+### 2026-06-07 18:43:17  #MKT News #Market Themes #AI Revolution #Macro & Rates #Treasury Yields #Nasdaq100 #Impact bearish #US10Y
+
+【CITIC Securities: Short-term US tech pullback; market likely to stay highly volatile】CITIC Securities says the near-term correction in US tech stocks reflects revisions to monetary policy expectations, crowded positioning and idiosyncratic company noise. The firm views the AI bull case as self-reinforcing and unlikely to reverse in the short term, but notes industry progress remains well short of a fully commercial closed loop and needs more high-value monetization scenarios. Rising long-end bond yields and very limited market fault tolerance imply sustained high volatility. Close monitoring of timing mismatches between AI input and output is necessary; tracking high-frequency indicators is recommended as a temporary risk-management measure.
+
+---
+
+### 2026-06-07 18:41:57  #MKT News #Market Regions #Greater China
+
+【Guangdong Lingyi Intelligent Manufacturing clears HKEX listing hearing】Livermore Securities reports Guangdong Lingyi Intelligent Manufacturing Co., Ltd. filed updated post-hearing documents, indicating its HKEX IPO has cleared the listing hearing.
+
+---
+
+### 2026-06-07 18:40:20  #公司
+
+廣東領益智造股份有限公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-07 18:40:09  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli military warns residents of Lebanon's Tyre and surrounding areas to evacuate.
+
+---
+
+### 2026-06-07 18:39:06  #國際
+
+以色列軍方：對黎巴嫩提爾市及其周邊地區居民發出疏散警告。
+
+---
+
+### 2026-06-07 18:34:49  #觀點 #焦點
+
+【中信證券：短期美股科技股調整，市場料將繼續維持高波動狀態】6月7日，中信證券釋出的美股科技板塊跟蹤點評報告指出，短期美股科技股調整，更多源於貨幣政策預期修正、此前擁擠的市場，以及個別企業噪音等因素的共同影響。短期維度，AI產業不斷自我強化的看多邏輯料難逆轉，但產業當前進展較“商業化已完全閉環”的論調仍有明顯距離，產業仍需發掘更多高價值的貨幣化場景。同時長端債券收益率攀升，市場層面極小的容錯空間等，均意味著市場料將繼續維持高波動狀態，當下緊密關注AI投入、產出節奏階段性不匹配的風險極為必要，系列高頻指標跟蹤為當下的權宜之計。
+
+---
+
+### 2026-06-07 18:34:06  #公司
+
+上海仙工智慧科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-07 18:32:10  #公司 #市場 #國際
+
+【美伊戰事推高燃油成本，眾航司借年會大吐苦水】國際航空運輸協會正在巴西召開年度大會，各國航司藉機大吐苦水：美伊戰事引發中東局勢持續緊張，能源運輸通道受阻，燃油價格大漲特漲，民航公司普遍面臨成本危機，紛紛表示調高票價、削減航班等措施都是不得已而為之。（新華社）
+
+---
+
+### 2026-06-07 18:32:01  #觀點
+
+【中信證券：當前需要重視新能源、化工、有色、電力裝置跌出的價效比】中信證券研報稱，在配置思路上，維持推薦AI+能化的結構，當前需要重視新能源、化工、有色、電力裝置跌出的價效比，同時增配低估值的券商和保險。對於具體的泛週期漲價品種，AIDC鏈、鋰電鏈這類週期成長品景氣度仍然持續，建議關注供需最緊俏的環節，主要有錫、鉭、玻璃基板、功率器件、柴油發電機組、燃氣輪機、碳纖維、電纜等；對於傳統週期品，建議聚焦在真實發生系統性產能出清或者供給有絕對約束的品種上，比如滌綸、氨綸、磷化工、MDI、染料、草甘膦、橡膠、製冷劑等。
+
+---
+
+### 2026-06-07 18:29:10  #公司
+
+英偉達執行長黃仁勳：我們明日或有若干公告發布。
+
+---
+
+### 2026-06-07 18:29:05  #其他
+
+【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局6月7日18時聯合釋出橙色地質災害氣象風險預警：2026年6月7日20時至8日20時，湖南西部、廣東北部和東南部、廣西北部、貴州中南部、西藏東北部發生地質災害的風險較高（黃色預警）；廣西東北部、貴州東南部發生地質災害的風險高（橙色預警）。
+
+---
+
+### 2026-06-07 18:27:27  #MKT News
+
+【USHAKOV: Russia, Ukraine maintain public and non-public contacts】On a TV program broadcast on the 7th, USHAKOV said Russia and Ukraine have both public and non-public contacts; the public contacts refer to earlier rounds of negotiations.
+
+---
+
+### 2026-06-07 18:26:57  #MKT News
+
+CENC measured a magnitude 5.0 earthquake in Greece at 18:02 on June 7, depth 10 km.
+
+---
+
+### 2026-06-07 18:26:42  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Lloyd's List: Iran cuts Strait of Hormuz transit fees sharply】Lloyd's List reports Iran has materially reduced fees for transits of the Strait of Hormuz. Current per-transit charges reach up to $120,000 for bulk carriers and $160,000 for tankers, with rates varying by vessel type, cargo and owner nationality. That contrasts with charges of roughly $1-2m per vessel at the start of the conflict.
+
+---
+
+### 2026-06-07 18:26:20  #其他
+
+中國地震臺網正式測定：06月07日18時02分在希臘（北緯38.70度，東經23.41度）發生5.0級地震，震源深度10千米。
+
+---
+
+### 2026-06-07 18:26:13  #國際
+
+【俄總統助理：俄烏間保留非公開接觸】在當地時間7日播出的一檔電視節目中，俄羅斯總統助理烏沙科夫表示，俄羅斯與烏克蘭之間既有公開接觸，也有非公開接觸。據悉，公開接觸指此前的數輪談判。（央視新聞）
+
+---
+
+### 2026-06-07 18:25:18  #國際
+
+美國地質調查局：普羅科皮西北偏西 5 公里處發生 5.1 級地震。
+
+---
+
+### 2026-06-07 18:24:59  #國際
+
+【本輪巴以衝突已造成加沙地帶72971人死亡】當地時間7日，加沙地帶衛生部門釋出最新通報稱，過去24小時，加沙地帶各醫院共接收了10名遇難者遺體和36名傷員。據統計，自2025年10月11日停火以來，加沙地帶共記錄遇難者961人、傷者3020人。自2023年10月7日新一輪巴以大規模衝突爆發以來，加沙地帶的累計遇難人數已達72971人，累計受傷人數超17.3萬人。（央視新聞）
+
+---
+
+### 2026-06-07 18:24:42  #國際
+
+【英媒披露伊朗收取的海峽通行費用大幅下降】據英國《勞埃德船舶日報》日前報道，通行霍爾木茲海峽的部分船隻，每艘船需繳納十多萬美元以換取伊朗的通行許可，相關費用較戰事初期大幅下降。報道援引航運安全運營商方面的訊息說，目前散貨船單次通行費最高可達12萬美元，油輪最高可達16萬美元，具體費率根據船型、貨物及船東國籍等因素有所浮動，較與戰事初期每艘船100萬至200萬美元的收費相比顯著下降。報道說，美國所謂疏導船舶透過霍爾木茲海峽的“自由計劃”上月破產後，美方的安保承諾變得更不可靠。多數船東仍認為透過該海峽過於危險，寧可繼續滯留。但由於看不到任何可信的和平協議，業界預計對峙還將持續。（新華社）
+
+---
+
+### 2026-06-07 18:24:17  #其他
+
+【廣西南寧釋出暴雨紅色預警】6月7日，記者從廣西南寧市氣象部門瞭解到，今天17時40分，南寧市氣象臺將興寧區暴雨橙色預警訊號提升為紅色，併發布西鄉塘區暴雨紅色預警訊號、青秀區及良慶區暴雨橙色預警訊號：16時以來，興寧區三塘鎮及西鄉塘區老虎嶺水庫一帶已出現30—50毫米的強降雨，預計未來3小時西鄉塘區、興寧區、青秀區、良慶區仍將有20—40毫米，局地50毫米以上的強降雨，並伴有雷電、短時大風，山洪地質災害和城區積澇氣象風險很大，請防範。（央視新聞）
+
+---
+
+### 2026-06-07 18:20:34  #觀點
+
+【中信證券：看好玻璃基載板產業鏈未來的發展及投資機會】中信證券研報稱，在AI算力設施升級需求推動下，玻璃基載板有望憑藉CTE優勢、更高平整度、更低翹曲、更精細的TGV孔徑/佈線和更高互聯密度等優勢，成為未來封裝基板的重要升級方向。當前客戶需求迫切，產業鏈各環節投入力度大，商業化落地節奏有望超預期。中信證券估算產業中長期潛在空間達600億元+，中信證券看好玻璃基載板產業鏈未來的發展及投資機會，並建議關注核心工藝環節及裝置的受益廠商。
+
+---
+
+### 2026-06-07 18:19:14  #國際
+
+伊朗外交部：華盛頓透過攻擊我們的船隻違反了停火協議，我們將對任何攻擊作出回應。
+
+---
+
+### 2026-06-07 18:18:56  #其他 #焦點
+
+【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局6月7日18時聯合釋出紅色山洪災害氣象預警：預計，6月7日20時至6月8日20時，湖南西南部、廣西北部、貴州南部等地部分地區發生山洪災害可能性大（橙色預警），其中，湖南西南部、廣西北部、貴州東南部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-06-07 18:15:26  #其他
+
+【傳淘寶閃購加大零售業務投入：發展“淘寶便利店”、盒馬前置倉等】 6月7日下午訊息，據媒體報道，淘寶閃購在五一假期前召開了核心高管會議，制定了新一年的增長計劃。
+根據會議內容，2027財年（2026年4月-2027年3月），淘寶閃購的核心目標包括兩方面：一是保持外賣業務市場份額穩定的基礎上，並在該財年內實現單月UE 轉正；二是加大對零售業務的投入，發展“淘寶便利店”、盒馬前置倉等業務，以及實現天貓超市、天貓品牌“遠轉近”，來提升零售業務的單量和GMV。
+報道內容稱，阿里新財年在淘寶閃購的投入只有上一財年的一半（不包含零售業務）。目前淘寶閃購單虧1.5元左右，今年第二季度，外賣業務整體虧損較第一季度將大幅改善。
+至於零售業務，報道援引接近淘寶閃購人士訊息稱，淘寶閃購為零售訂單設定了新目標，未來幾個月的目標要穩定在日均2000萬單的水平，包含貓超的4小時達和盒馬接入閃購的部分訂單。此外，淘寶閃購目前也正引入更多零售品牌，覆蓋更多社會綜合閃購倉，淘寶閃購合作的社會綜合倉已經超過2萬個。
+報道內容還提到，今年春節期間，淘寶便利店原計劃今年要開設1000家，但新財年初已將目標調高至1500家，近期淘寶閃購內部進一步上調目標，計劃開出3000家淘寶便利店。
+對於前述報道內容，截至發稿，淘寶閃購方面暫無回應。（新浪科技）
+
+---
+
+### 2026-06-07 18:11:42  #焦點 #國際
+
+據伊朗媒體：每艘透過霍爾木茲海峽的油輪將收取150,000至200萬美元的費用，部分船舶費用可能不是以現金支付，而是以商品或以物易物的形式進行。
+
+---
+
+### 2026-06-07 18:11:42  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iranian media Fars News said each oil tanker transiting the Strait of Hormuz will be charged $150,000–$2 million, and some fees may be paid in goods or via barter rather than cash.
+
+---
+
+### 2026-06-07 18:07:43  #公司
+
+據報道，美股上市藥企Incyte即將以高達20億美元的價格收購一家專注於血液疾病治療的生物技術公司。
+
+---
+
+### 2026-06-07 18:06:21  #公司 #資料 #觀點
+
+【中信證券：接下來霍爾木茲海峽通航是A股非AI板塊轉機的臨界點】6月7日，中信證券最新A股策略報告指出，市場情緒降溫後，科技、週期、金融和消費板塊各自有各自的驅動邏輯和節奏。科技：國產鏈看長鑫上市、北美鏈看Anthropic的ARR（年度經常性收入）；週期：供需雙弱、上下游博弈激烈，破局點還靠美伊停戰和海峽通航；金融：關鍵轉折點是大資金的減持程序，指數走弱後賣壓或減小；消費：CPI交易大機率滯後於PPI交易，而目前PPI交易受阻未完成。AI板塊有其自身的執行節奏和邏輯，非AI板塊也許存在資金面被虹吸的情況，但真正的啟動並不依賴資金高切低，而是宏觀敘事和市場環境轉變後新買家入局。對市場而言，目前最大的挑戰是霍爾木茲海峽短期通航的假設開始動搖，通脹和緊縮預期升溫。中信證券認為接下來海峽通航是“換副牌”的時刻，亦是非AI板塊轉機的臨界點。
+
+---
+
+### 2026-06-07 18:04:01  #國際
+
+歐洲地中海地震中心：希臘哈爾基達西北方向28公里處發生5.3級地震。
+
+---
+
+### 2026-06-07 18:01:59  #國際
+
+俄羅斯總統助理烏沙科夫：莫斯科與基輔保持密切聯絡。
+
+---
+
+### 2026-06-07 18:01:37  #市場 #央行 #國際
+
+【歐洲央行官員Christodoulos Patsalides：推行歐洲聯合債券勢在必行】塞普勒斯央行行長Christodoulos Patsalides於週日表示，歐洲應當摒棄長期以來在聯合發債問題上的政治牴觸態度。大規模安全資產的推出，將提升歐盟的自主地位與整體穩定性。歐洲長期以來就在探討聯合發債，希望打造一款可與美國國債分庭抗禮的標杆金融產品。但德國、荷蘭等部分國家對此持反對態度，擔心本國納稅人最終要為其他國家不當的財政行為買單。由於缺少這類資產，歐盟金融體系始終存在短板，推高了整體融資成本、削弱了區域競爭力。歐洲央行也因此不斷加大呼籲力度，希望推動相關政策轉變。塞普勒斯目前擔任歐盟輪值主席國，同時身為歐洲央行管理委員會委員的Christodoulos Patsalides在評論文章中寫道：“當前經濟、地緣政治與制度環境形成難得的有利條件，推出歐洲統一安全資產已是大勢所趨。”他認為，聯合債券能夠降低融資成本，併為綠色轉型、數字化升級、人工智慧專案、國防建設、公共衛生應急、能源安全等歐盟共同發展舉措，提供充足的資金支撐。
+
+---
+
+### 2026-06-07 18:01:07  #MKT News #Market Regions #Europe & UK
+
+Russian presidential aide Ushakov said Moscow is maintaining close contact with Kyiv.
+
+---
+
+### 2026-06-07 17:57:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift.
 
 ---
 
@@ -21569,311 +21820,5 @@ FX Updates: South Korean Won Depreciates by 0.68% — Top currency loser is Sout
 ### 2026-06-05 13:13:31  #公司
 
 【豐田叫停雷克薩斯LF-ZC量產，回應：不是放棄純電車！】近日，有訊息稱，豐田叫停了雷克薩斯純電動轎車LF-ZC量產車型的開發。“本次車型開發中止，主要是考慮到了市場需求的變化，這也是公司對整體車輛開發專案進行調整的一部分，但並不代表公司放棄了BEV（純電動汽車）。”針對上述車型研發暫停的原因，豐田中國相關工作人員記者回應稱。（每經）
-
----
-
-### 2026-06-05 13:12:52  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #TM.O #Impact bearish
-
-【Toyota halts Lexus LF-ZC production; says not abandoning BEVs】Toyota has stopped development of the Lexus LF-ZC battery EV, which had been slated for series production at its Tahara plant in Japan. The model was due to enter production in late-2026, was pushed to mid-2027, and is now suspended. Toyota China says the halt reflects changing market demand and broader vehicle program adjustments and does not mean the company is abandoning BEVs. Industry observers cite recent policy shifts — including the removal of the $7,500 US federal EV tax credit and the EU’s rollback of its effective 2035 ICE-sales ban — and intensifying competition from Chinese EV brands, which have a competitive edge over Japanese automakers in new-energy vehicles.
-
----
-
-### 2026-06-05 13:12:42  #其他
-
-6月4日，多位市場人士及接近監管的人士向財新表示，資料資產ABS日前已被暫時叫停。兩位投行人士均稱，6月3日收到來自交易所的視窗指導，暫停申報資料資產ABS，"如果自行申報會被勸退"。另另有一位資深債市人士稱，不只是申報暫停，已過會的專案也已暫停封卷領取批文，而已拿到批文的專案則可能需要暫緩備案發行。（財新網）
-
----
-
-### 2026-06-05 13:11:43  #MKT News #Commodities #Energy #WTI #Brent
-
-Venezuela's acting president welcomes Indian firms to actively participate in the country's reformed oil and gas sector.
-
----
-
-### 2026-06-05 13:11:07  #國際
-
-印度政府訊息：委內瑞拉代總統歡迎印度企業積極參與委內瑞拉改革後的油氣領域。
-
----
-
-### 2026-06-05 13:10:44  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時放量1595億元。
-
----
-
-### 2026-06-05 13:10:02  #公司 #觀點
-
-摩根大通將特斯拉評級從減持上調至中性，目標股價從145美元上調至475美元。
-
----
-
-### 2026-06-05 13:09:42  #國際
-
-印度政府表示，委內瑞拉臨時總統已邀請印度能源代表團訪委，勘探能源領域合作機遇。
-
----
-
-### 2026-06-05 13:09:19  #MKT News #Commodities #Energy
-
-India's oil minister said Indian firms are willing to deepen their presence in Venezuela.
-
----
-
-### 2026-06-05 13:09:05  #國際
-
-【巴拿馬副外長：希望巴中繼續開展多層次對話】巴拿馬外交部副部長卡洛斯·格瓦拉·曼3日晚說，巴拿馬同中國的關係不僅體現在外交和經貿領域，也體現在兩國人民長期以來建立的深厚友誼和文化交流中。希望雙方繼續開展多層次對話，推動兩國關係不斷發展。中國駐巴拿馬大使館3日晚在巴拿馬城舉行招待會，慶祝中巴建交9週年。巴拿馬政府官員及社會各界代表出席。曼在致辭中說，中國長期以來為巴拿馬人才培養提供了重要支援。他希望中國和巴拿馬繼續開展多層次對話，以尊重、共情和建設性合作為基礎，推動兩國關係不斷發展。（新華社）
-
----
-
-### 2026-06-05 13:08:58  #MKT News #Market Themes #AI Revolution
-
-【Huawei Cloud launches Agentic AI product suite】At its INSPIRE conference in Shanghai, Huawei Cloud proposed the Agentic Infra paradigm and launched an Agentic AI product suite, including Agentic Infra integrated intelligence‑and‑infrastructure, a next‑generation model training and inference platform, and an enterprise‑grade intelligent agent platform.
-
----
-
-### 2026-06-05 13:08:32  #其他
-
-【聯利支助團：聯合國機構未在利比亞境內安置移民】聯合國利比亞支助團（聯利支助團）4日晚發表宣告，否認有關聯合國機構正在利比亞境內安置移民的指控，稱此類說法“完全不實”。
-
----
-
-### 2026-06-05 13:07:01  #國際
-
-印度石油部長表示，印度企業有意深化在委內瑞拉的業務佈局。
-
----
-
-### 2026-06-05 13:06:52  #市場 #國際
-
-印度Nifty 50指數抹去盤中漲幅，最新下跌0.02%。
-
----
-
-### 2026-06-05 13:05:53  #國際
-
-【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。
-
----
-
-### 2026-06-05 13:04:49  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
-
-Japan Leading Index Highest Since 2021 — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, rose to 115.9 in April 2026 from an upwardly revised 115.4 in the previous month, exceeding market forecasts of 114.3, preliminary estimates showed. It was the highest reading since December 2021, underscoring a gradual improvement in the economic outlook.
-
----
-
-### 2026-06-05 13:04:16  #公司 #國際
-
-【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。DSI將對其獲取的商業資訊和合同條款保密。只要未發現低價報關行為，現有的戰略性自然資源大宗商品出口合同將繼續有效。該基金表示，遵守良好商業規範的出口商將不會面臨運營中斷，這有助於確保法律的確定性和有利的商業環境。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。
-
----
-
-### 2026-06-05 13:04:11  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
-
-Japan Coincident Index Rises to 3-Month High — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, increased to 117.9 in April 2026 from an upwardly revised 116.8 in the previous month, flash data showed. It was the highest reading since January.
-
----
-
-### 2026-06-05 13:03:49  #Trading Economics #Markets #South Korea #Currency #Importance 1
-
-South Korean Won Weakens to 2009 Low — The South Korean won fell past 1,540 per dollar, marking its weakest level since March 2009, as heightened Middle East tensions weighed on broader risk sentiment. Developments in Lebanon, including Hezbollah’s rejection of a ceasefire proposal, alongside continued Israeli military activity, kept concerns over potential disruptions to regional energy supply routes in focus. Safe-haven demand for the US dollar also strengthened amid the broader risk-off environment. Additional pressure came from a sharp equity selloff in Korea, with the KOSPI heading for its steepest weekly drop in over two months amid a global semiconductor downturn, prompting continued foreign fund outflows. Meanwhile, authorities said they were taking "extra vigilance" over volatility in financial and foreign exchange markets. At the same time, South Korea posted its second-largest current account surplus on record in April at $28.29 billion, supported by robust semiconductor exports.
-
----
-
-### 2026-06-05 13:02:41  #MKT News #Market Regions #Europe & UK
-
-South Korea's presidential office said President Lee will attend the G7 summit in France from June 9-18 and visit Italy, Belgium and the Vatican.
-
----
-
-### 2026-06-05 13:02:24  #公司 #國際
-
-青瓦臺表示，韓國總統李在明將於6月9日至18日前往法國出席七國集團峰會，隨後訪問義大利、比利時以及梵蒂岡。
-
----
-
-### 2026-06-05 13:02:09  #其他
-
-【機器人板塊走高，綠的諧波漲超17%】機器人板塊走高，綠的諧波漲超17%，億嘉和、埃夫特、三豐智慧、派斯林、凱爾達等跟漲。
-
----
-
-### 2026-06-05 13:02:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-China A-share robotics sector rallied in the afternoon; Lvde Xiebo surged more than 17%, with Yijiahe, Efort, Sanfeng Intelligent, Paisenlin and Kaierda also advancing.
-
----
-
-### 2026-06-05 13:01:31  #宏觀 #市場 #國際
-
-【印度取消債券稅收以吸引外國投資】印度下調境外機構投資者的債券投資相關稅負，以此吸納海外資金、穩定盧比匯率。受能源價格走高、股市資金外流拖累，盧比持續承壓。印度政府在官方公報釋出通知，出臺新規：境外機構投資印度國債所獲利息，以及國債出售、置換、轉讓產生的資本利得全部免徵稅費。該舉措有望遏制本幣跌勢，今年盧比表現位居亞洲主要貨幣跌幅前列。
-
----
-
-### 2026-06-05 13:01:02  #市場 #焦點
-
-*ST聞泰盤中漲停，上演“地天板”，現報21.6元，成交額15.07億元。
-
----
-
-### 2026-06-05 13:00:35  #MKT News #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #S&P500
-
-Japan April preliminary leading index 115.9; consensus 114.5; prior 114.
-
----
-
-### 2026-06-05 13:00:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Japan April coincident index (preliminary) 117.9 vs forecast 117.4; prior 116.4.
-
----
-
-### 2026-06-05 13:00:27  #MKT News #Economic Calendar #Important
-
-Japan | Leading Index Flash (Apr) | actual 115.9 | consensus 114.5 | previous 114
-
----
-
-### 2026-06-05 13:00:22  #MKT News #Economic Calendar #Important
-
-Japan | Coincident Index Flash (Apr) | actual 117.9 | consensus 117.4 | previous 116.4
-
----
-
-### 2026-06-05 13:00:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
-
-Japan leading indicator, preliminary (MoM) +0.5% in April; previous +0.8%.
-
----
-
-### 2026-06-05 13:00:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
-
-Japan April coincident index preliminary MoM +1.1% (prior +0.2%).
-
----
-
-### 2026-06-05 13:00:08  #MKT News
-
-Singapore April seasonally adjusted retail sales 0.3% MoM; prior revised from 3.70% to 3.4%.
-
----
-
-### 2026-06-05 13:00:08  #MKT News #Market Regions #Japan & APAC
-
-Singapore retail sales rose 5.4% YoY in April, vs expected 4.4%. March was revised down to 4.6% from 4.8%.
-
----
-
-### 2026-06-05 13:00:03  #公司 #國際
-
-【英偉達執行長：機器人技術將是韓國的下一個重要領域】英偉達執行長黃仁勳週五表示，他認為機器人技術將是韓國的下一個重要領域。他抵達韓國金浦機場後，向記者發表了上述言論。黃仁勳表示，此行已安排與現代、LG、SK、三星和Naver舉行會晤。“我給韓國帶了什麼禮物嗎？我給韓國帶來了大量商機，”他告訴記者，並補充道：“我還有一些驚喜。”
-
----
-
-### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
-
-Japan | Leading Index Flash (MoM) (Apr) | actual 0.5% | previous 0.8%
-
----
-
-### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
-
-Japan | Coincident Index Flash (MoM) (Apr) | actual 1.1% | previous 0.2%
-
----
-
-### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
-
-Singapore | Retail Sales (YoY) (Apr) | actual 5.4% | consensus 4.4% | previous 4.80%
-
----
-
-### 2026-06-05 13:00:00  #MKT News #Economic Calendar #Important
-
-Singapore | Retail Sales SA (MoM) (Apr) | actual 0.3% | previous 3.70%
-
----
-
-### 2026-06-05 12:59:27  #國際
-
-【美國被曝擬不向德國售“戰斧”導彈】美國媒體4日披露，美國國防部打算取消向德國出售“戰斧”巡航導彈的計劃，緣由是擔心引發俄羅斯反制和美軍庫存不足。據美國《政治報》網站援引美國和歐洲官員的話報道，美國近期調整歐洲軍事部署並縮減駐德兵力後，德國原本希望透過採購“戰斧”導彈增強防務能力，但美方擔心在歐洲腹地部署遠端精確打擊武器可能被俄羅斯視為局勢升級訊號，從而引發俄方報復。“戰斧”導彈是美製亞音速巡航導彈，最大射程超過2000公里。《政治報》5月曾報道，德方希望購買400枚“戰斧”導彈。
-
----
-
-### 2026-06-05 12:58:49  #公司
-
-【上海電信聯手淘寶閃購上線AI助餐服務，老人“動口不動手”即可點餐到家】6月4日，在上海市民政局指導下，中國電信上海公司與淘寶閃購依託天翼智屏平臺，聯合啟動“AI+老年助餐”智慧養老服務合作。雙方將充分發揮各自在通訊基礎設施、人工智慧技術及即時零售服務領域的優勢，透過天翼智屏終端為居家老年人提供語音點餐、一鍵下單、即時配送等便捷助餐服務，切實滿足老年群體“在家吃好飯”的民生需求。(上觀新聞)
-
----
-
-### 2026-06-05 12:58:17  #MKT News
-
-India central bank reserve requirement ratio (RRR) stood at 3% as of June 5, matching expectations and unchanged from the prior 3%.
-
----
-
-### 2026-06-05 12:58:04  #MKT News #Economic Calendar #Important
-
-India | RBI Cash Reserve Ratio (Jun.5) | actual 3% | consensus 3% | previous 3%
-
----
-
-### 2026-06-05 12:58:03  #MKT News
-
-India central bank reverse repo rate 3.35% as of June 5, unchanged from previous 3.35%.
-
----
-
-### 2026-06-05 12:57:55  #MKT News #Economic Calendar #Important
-
-India | RBI Reverse Repo Rate (Jun.5) | actual 3.35% | previous 3.35%
-
----
-
-### 2026-06-05 12:57:13  #MKT News
-
-Reserve Bank of India governor said experience shows exchange-rate volatility is driven by speculative pressures.
-
----
-
-### 2026-06-05 12:56:37  #國際
-
-【林肯紀念堂要建“特朗普步道”？】美國總統特朗普4日說，將在首都華盛頓林肯紀念堂建一條通往波托馬克河的步道，有人想將其命名為“特朗普步道”。特朗普在白宮對記者說：“他們想把它命名為‘特朗普步道’，但我還沒想好要不要這樣。”他沒有說“他們”具體是誰。林肯紀念堂是華盛頓地標建築之一，也是特朗普意欲在首都留下其個人印記的目標建築之一。此前，這位昔日房地產開發商瞄準的多個專案遭到批評，甚至起訴。（新華社）
-
----
-
-### 2026-06-05 12:56:11  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Reserve Bank of India governor said global economic conditions remain fragile.
-
----
-
-### 2026-06-05 12:56:10  #MKT News #DXY #Impact bearish
-
-Reserve Bank of India governor said FX reserves provide a sufficient buffer and the bank has the regulatory and market tools to manage FX volatility.
-
----
-
-### 2026-06-05 12:55:52  #央行 #國際
-
-印度央行行長：我們已準備好監管工具及基於市場的工具，可根據需要應對匯率波動。
-
----
-
-### 2026-06-05 12:55:52  #MKT News
-
-Reserve Bank of India governor said the central bank will curb excessive volatility and prevent disorderly market moves.
-
----
-
-### 2026-06-05 12:55:42  #國際
-
-印度儲備銀行行長：將遏制過度波動，防止市場無序執行。
-
----
-
-### 2026-06-05 12:55:37  #MKT News
-
-Reserve Bank of India governor says the objective is not to resist market-driven moves.
 
 ---
