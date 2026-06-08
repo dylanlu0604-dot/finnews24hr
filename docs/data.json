@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-08 21:27:59",
-  "count": 19214,
+  "updated": "2026-06-08 21:32:05",
+  "count": 19200,
   "items": [
+    {
+      "id": "mkt:019ea76e-3da9-7226-8cb5-881928a4768e",
+      "time": "2026-06-08 21:31:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Corning (GLW.N) rose 8.5% after Amazon (AMZN.O) said it had reached an agreement to boost U.S. optical-fiber manufacturing capacity."
+    },
+    {
+      "id": "4924271",
+      "time": "2026-06-08 21:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合聖保羅銀行執行長：與Unipol（義大利聯合保險）的談判於1月啟動，因一樁私人事務暫停，過去一個月談判程序已重新提速。"
+    },
+    {
+      "id": "4924270",
+      "time": "2026-06-08 21:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，億航漲6.27%，嗶哩嗶哩漲5.33%，中比能源漲4.86%，禾賽科技漲4.06%，晶科能源漲3.61%。"
+    },
+    {
+      "id": "mkt:019ea76d-c6d6-7226-8cb5-87f7a6642c75",
+      "time": "2026-06-08 21:30:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact bullish",
+        "INTC.O",
+        "MRVL.O"
+      ],
+      "text": "US stocks opened higher: Dow Jones Industrial Average +0.26%, S&P 500 +0.79%, Nasdaq Composite +1.39%. Intel rose 11.5% after Google ordered more than 3 million TPUs. American Battery Technology Co jumped 25.5% after winning an appeal and the DOE restored funding for its project. Marvell Technology gained 9.6%. The Nasdaq Golden Dragon China Index was up 0.53%."
+    },
+    {
+      "id": "4924269",
+      "time": "2026-06-08 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.40%，標普500指數漲0.86%，納指持平。英特爾漲10.94%，邁威爾科技漲9.68%，美光漲9.59%，GoDaddy跌3.08%，The Trade Desk跌2.23%，特許通訊跌2.13%。“七姐妹”方面：英偉達漲2.22%，特斯拉漲1.25%，蘋果漲0.89%，亞馬遜漲0.50%，微軟跌0.27%，Meta Platforms跌0.57%，谷歌跌1.11%。"
+    },
+    {
+      "id": "4924268",
+      "time": "2026-06-08 21:30:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "旭輝控股5月合約銷售額8.60億元人民幣。"
+    },
+    {
+      "id": "mkt:019ea76b-86e4-7226-8cb5-783b170fb4b6",
+      "time": "2026-06-08 21:28:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc said a magnitude-3.2 earthquake occurred at 21:20 on June 8 in Kangding city, Ganzi prefecture, Sichuan (29.92 N, 101.94 E) at a depth of 10 km."
+    },
+    {
+      "id": "4924266",
+      "time": "2026-06-08 21:28:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守91美元/桶，日內漲0.51%。"
+    },
     {
       "id": "4924265",
       "time": "2026-06-08 21:27:12",
@@ -176985,215 +177061,6 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數漲超0.5%，海天網路漲108.43%，聲網漲5.37%，億咖通科技漲4.24%，小鵬汽車漲5.71%，金山雲漲5.54%。"
-    },
-    {
-      "id": "mkt:019e8362-5416-7112-8c92-57f81dbf5042",
-      "time": "2026-06-01 21:31:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "QCOM.O",
-        "Impact bearish"
-      ],
-      "text": "Qualcomm (QCOM.O) opened more than 6% lower."
-    },
-    {
-      "id": "4910949",
-      "time": "2026-06-01 21:31:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。調研組隨機抽取泉州市、廈門市的外賣商戶、養老服務機構、旅遊市場商家，現場調研網路餐飲食品安全治理、養老服務突出問題整治、旅遊行業強制消費問題糾治等情況，對發現的問題進行督促整改。要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。（市說新語）"
-    },
-    {
-      "id": "mkt:019e8361-c5e2-7112-8c92-48795df99476",
-      "time": "2026-06-01 21:31:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "ARM.O",
-        "MU.O"
-      ],
-      "text": "【US majors open lower; NVIDIA rises after Arm-based RTX Spark PC tie-up】US stocks opened lower on fresh Middle East developments: Dow -0.3%, S&P 500 -0.2%, Nasdaq -0.19%. NVIDIA (NVDA.O) rose 2.7% and Microsoft (MSFT.O) gained 3% after the pair unveiled an Arm‑architecture RTX Spark PC chip; NVIDIA said it is entering the PC CPU market. Arm (ARM.O) jumped 8.8%, Intel (INTC.O) fell 6.6%. Storage names rallied: Micron Technology (MU.O) gained over 5%, its share price topped $1,000, and SanDisk (SNDK.O) rose 3.4%."
-    },
-    {
-      "id": "4910947",
-      "time": "2026-06-01 21:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價開盤上漲3%，ARM ADR上漲12%。"
-    },
-    {
-      "id": "4910946",
-      "time": "2026-06-01 21:31:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "高通股價開盤下跌7.6%，英特爾下跌6.7%，AMD下跌3.8%。"
-    },
-    {
-      "id": "4910945",
-      "time": "2026-06-01 21:31:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4490美元/盎司，日內跌2.27%。"
-    },
-    {
-      "id": "4910944",
-      "time": "2026-06-01 21:30:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.38%，標普500指數跌0.16%，納指持平。Strategy跌8.23%，高通跌7.33%，Coinbase Global跌6.46%，美高梅漲11.31%，Arm Holdings漲10.35%，現在服務漲8.94%。“七姐妹”方面：微軟漲2.82%，英偉達漲2.48%，Meta Platforms漲0.11%，蘋果跌0.89%，谷歌跌1.30%，特斯拉跌2.02%，亞馬遜跌2.16%。"
-    },
-    {
-      "id": "4910943",
-      "time": "2026-06-01 21:30:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "美高梅度假村股價開盤上漲11%。"
-    },
-    {
-      "id": "4910942",
-      "time": "2026-06-01 21:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特同時強調，應依據相關國際公約，維護黎巴嫩主權、保護黎巴嫩民眾安全。"
-    },
-    {
-      "id": "4910941",
-      "time": "2026-06-01 21:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特呼籲國際社會履行職責，制止此類侵略行徑，終止以色列企圖向黎巴嫩境內擴張的軍事行動。"
-    },
-    {
-      "id": "te:markets:555389",
-      "time": "2026-06-01 21:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Shopify Stock Price Hits 4-week High — Shopify shares increased to 168.80 CAD, the highest since May 2026. Over the past 4 weeks, Shopify Inc gained 1.53%, and in the last 12 months, it increased 14.16%."
-    },
-    {
-      "id": "4910940",
-      "time": "2026-06-01 21:30:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月標普全球製造業採購經理人指數 52.9，前值53.3。"
-    },
-    {
-      "id": "te:markets:555388",
-      "time": "2026-06-01 21:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Adobe Systems Stock Price Hits 11-week High — Adobe Systems shares increased to 271.39 USD, the highest since March 2026. Over the past 4 weeks, Adobe Systems gained 5.33%, and in the last 12 months, it decreased 37.55%."
-    },
-    {
-      "id": "mkt:019e8360-b090-7112-8c92-4290f33b8ad7",
-      "time": "2026-06-01 21:30:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Canada's S&P Global manufacturing PMI eased to 52.9 in May from 53.3 in April."
-    },
-    {
-      "id": "4910939",
-      "time": "2026-06-01 21:30:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用動力公司將斥資2億美元在德克薩斯州建設彈藥廠。"
-    },
-    {
-      "id": "mkt:019e8360-80ff-7112-8c92-3c0d9804bc2a",
-      "time": "2026-06-01 21:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | RBC Manufacturing PMI (May) | actual 52.9 | previous 53.3"
-    },
-    {
-      "id": "4910938",
-      "time": "2026-06-01 21:29:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗停止與美交換資訊】據伊朗塔斯尼姆通訊社今天（6月1日）報道，鑑於以色列在黎巴嫩的戰爭罪行持續升級，考慮到黎巴嫩停火是伊美停火的先決條件之一，伊朗談判團隊停止“透過調解人與美國方面進行對話和文字交換”。此外據報道，地區抵抗陣線和伊朗已制定計劃，要徹底封鎖霍爾木茲海峽，並啟動包括曼德海峽在內的其他戰線，以懲罰以色列及其支持者。（CCTV國際時訊）"
-    },
-    {
-      "id": "4910937",
-      "time": "2026-06-01 21:29:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY升至一個月高點159.68。"
-    },
-    {
-      "id": "mkt:019e835f-a275-7112-8c92-355c1ab3ce63",
-      "time": "2026-06-01 21:29:02",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY rose to a one-month high of 159.68."
-    },
-    {
-      "id": "4910936",
-      "time": "2026-06-01 21:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府稱已申請核查曼德爾森的私人手機。"
-    },
-    {
-      "id": "4910935",
-      "time": "2026-06-01 21:28:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "BESI、ASMI、AMS OSRAM、愛思強和Siltronic股價跌幅在2.7%至4.7%之間，而X-FAB和Soitec股價分別下跌6.2%和13.5%。"
-    },
-    {
-      "id": "mkt:019e835e-bbdb-7112-8c92-2a7297dedbf5",
-      "time": "2026-06-01 21:28:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【US military confirms Iran-launched missiles intercepted targeting US base in Kuwait; no casualties】US Central Command said on June 1 that at about 23:00 ET on May 31 (11:00 Beijing time on June 1) US forces successfully intercepted two Iran-launched ballistic missiles aimed at US bases in Kuwait. No US personnel were injured."
     }
   ]
 }
