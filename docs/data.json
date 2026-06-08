@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-09 01:08:05",
-  "count": 19104,
+  "updated": "2026-06-09 01:11:58",
+  "count": 19105,
   "items": [
+    {
+      "id": "mkt:019ea837-73bd-733a-9231-fd02e934e85e",
+      "time": "2026-06-09 01:11:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) will integrate a multi-layer Liquid Glass effect directly into app icon design."
+    },
+    {
+      "id": "4924513",
+      "time": "2026-06-09 01:09:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：將額外多層液態玻璃直接整合到應用圖示設計本身當中。"
+    },
+    {
+      "id": "4924512",
+      "time": "2026-06-09 01:09:24",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：世界盃將拉動就業與經濟增長】高盛估算，受酒店、零售及交通行業招工帶動，2026年世界盃將在6月為美國新增4萬個就業崗位。隨著大量球迷前往主辦城市，該行預計零售銷售額、國內生產總值增速及通脹水平也將小幅上行。不過賽事相關臨時崗位與消費熱潮消退後，多數增長效應料在後續月份逐步回落。"
+    },
+    {
+      "id": "mkt:019ea834-e2c1-733a-9231-f44737ae7203",
+      "time": "2026-06-09 01:08:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) shares rose 4.13%."
+    },
+    {
+      "id": "4924511",
+      "time": "2026-06-09 01:07:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價上漲4.1%。"
+    },
     {
       "id": "mkt:019ea832-79e9-733a-9231-ef070fbe39f6",
       "time": "2026-06-09 01:05:40",
@@ -176031,45 +176083,6 @@
         "MKT News"
       ],
       "text": "Brazil's finance minister said the government is concerned about new U.S. tariffs."
-    },
-    {
-      "id": "4911219",
-      "time": "2026-06-02 01:11:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗國家通訊社（IRNA）：伊朗石油部長表示，本國能源設施重建工作取得重大進展，有望快速恢復產能。"
-    },
-    {
-      "id": "mkt:019e842b-83b1-7993-96f7-bc7cc452bbde",
-      "time": "2026-06-02 01:11:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Russia is reportedly considering imports of aviation fuel, a Russian business news agency reports."
-    },
-    {
-      "id": "4911218",
-      "time": "2026-06-02 01:10:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 俄羅斯正考慮進口航空煤油。"
-    },
-    {
-      "id": "mkt:019e8428-8145-7993-96f7-b1b6f429ac86",
-      "time": "2026-06-02 01:08:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said oil prices will fall \"like a rock\" in the near future."
     }
   ]
 }
