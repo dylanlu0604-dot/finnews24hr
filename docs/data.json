@@ -1,7 +1,172 @@
 {
-  "updated": "2026-06-08 10:18:45",
-  "count": 19255,
+  "updated": "2026-06-08 10:22:33",
+  "count": 19257,
   "items": [
+    {
+      "id": "4922760",
+      "time": "2026-06-08 10:21:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率升至2025年4月以來新高。"
+    },
+    {
+      "id": "4922759",
+      "time": "2026-06-08 10:21:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念區域性回暖 中天科技逼近漲停續創歷史新高】光纖概念區域性回暖，中天科技逼近漲停，續創歷史新高，此前泰和新材2連板，恆光股份、石英股份、亨通光電等跟漲。"
+    },
+    {
+      "id": "mkt:019ea508-cd30-7ee0-94c8-7a66e59b1cb9",
+      "time": "2026-06-08 10:21:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Housing and Urban-Rural Development: localities to refine regional targets and measures under national urban renewal plan】June 8 — Vice‑Minister Qin Haixiang told a State Council policy briefing the Urban Renewal \"15th Five-Year\" Plan is China’s first national-level special plan for urban renewal, setting targets, priority tasks and major projects for the 15th Five-Year period. He said local governments must now translate the plan into region-specific targets, tasks and implementation measures and execute them sequentially."
+    },
+    {
+      "id": "4922758",
+      "time": "2026-06-08 10:20:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住建部：各地將細化本地區城市更新的目標指標、任務措施】6月8日，住房城鄉建設部副部長秦海翔在國務院政策例行吹風會上表示，《城市更新“十五五”規劃》是我國城市更新領域的第一部國家級專項規劃，明確“十五五”時期的目標指標、重點任務和重大工程。接下來，各地還要按照《規劃》部署細化本地區城市更新的目標指標、任務措施，一件事情接著一件事情辦。"
+    },
+    {
+      "id": "te:economy:557093",
+      "time": "2026-06-08 10:20:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Hits 2-Week High — The yield on the US 10-year Treasury note climbed to around 4.57% on Monday, reaching its highest level in two weeks as stronger-than-expected US jobs data reinforced expectations that the Federal Reserve could raise interest rates later this year. Friday’s employment report showed the US economy added 172,000 jobs in May, significantly above forecasts of 85,000, while the unemployment rate remained unchanged at 4.3%. Following the data release, markets increased the likelihood of a Fed rate hike in December to nearly 70%, up from roughly 50% previously. Even so, the Fed is still widely expected to keep interest rates unchanged at the June 16-17 meeting under new Chairman Kevin Warsh. Expectations for tighter monetary policy were also supported by escalating tensions in the Middle East, which pushed oil prices higher and fueled concerns about renewed inflationary pressures."
+    },
+    {
+      "id": "4922757",
+      "time": "2026-06-08 10:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特下調7月對亞洲原油售價，但原油溢價仍處於數十年高位】沙烏地阿拉伯連續第二個月下調了其銷往亞洲的主要原油的官方售價，但其在這個最大市場的原油溢價仍接近數十年來的最高水平。沙特阿美將其下個月運往亞洲的阿拉伯輕質原油價格下調了每桶6美元，下調後其官方原油售價較阿曼迪拜均價的溢價降至每桶9.50美元。此次降幅大於煉油商和交易員預期的每桶5美元的降幅。隨著美國和伊朗為延長停火協議進行的談判陷入僵局，由於霍爾木茲海峽持續關閉，全球石油市場仍受到干擾。由於油輪被困在波斯灣內，而空船無法進入裝載新貨物，中東地區已大幅削減產量，關閉油田並放緩或停止煉油廠運營。"
+    },
+    {
+      "id": "mkt:019ea507-f6fb-7ee0-94c8-750b6977fe98",
+      "time": "2026-06-08 10:20:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi cuts July Asia crude OSP by $6/bbl; premium still near multi-decade highs】Saudi Aramco cut the official selling price for Arabian Light shipments to Asia by $6/bbl for July, the second monthly reduction, lowering the premium to $9.50/bbl over the Oman/Dubai average—wider than the $5/bbl cut refiners and traders had expected. Despite the cut, the Asia premium remains near multi-decade highs. Global oil flows continue to be disrupted as US-Iran talks to extend a ceasefire have stalled and the Strait of Hormuz remains closed; tankers trapped inside the Persian Gulf are blocking re-entry of empty ships, prompting large Middle East output cuts, field shutdowns and refinery slowdowns or stoppages."
+    },
+    {
+      "id": "4922756",
+      "time": "2026-06-08 10:20:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：股價波動正是買入時機。"
+    },
+    {
+      "id": "4922755",
+      "time": "2026-06-08 10:20:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中國AI大模型呼叫量連續六週超美國，全球前五中佔四席：MiniMax M3衝進前三，Claude兩大模型跌出前五】根據OpenRouter最新資料測算，上週（6月1日至7日）全球AI大模型總呼叫量為36.1萬億Token，較此前一週增長13.5%，連續七週上漲，大模型呼叫需求仍在持續釋放。其中，上榜的AI大模型中，中國AI大模型周呼叫量達14.19萬億Token，環比增長27.49%，連續三週實現增長；同期美國AI大模型周呼叫量為3.2萬億Token，環比下滑24.53%。中國大模型周呼叫量連續六週超過美國並穩居全球首位。上週，全球呼叫量排名前五中，前四款均為中國AI大模型。其中，DeepSeek-V4-Flash連續三週位居榜首，周呼叫量達3.69萬億Token，環比增長19%；騰訊Hy3 preview連續三週排名第二，周呼叫量達2.94萬億Token，環比下滑3%；上週剛推出的MiniMaxM3衝進前三，周呼叫量達2.5萬億Token。據官方介紹，MiniMaxM3是國內首個同時具備“前沿Coding（程式設計）能力、1M超長上下文、原生多模態”能力的大模型。小米MiMo-V2.5位居第四，周呼叫量達2.19萬億Token，環比增長50%。（每經）"
+    },
+    {
+      "id": "mkt:019ea507-ed07-7ee0-94c8-6bc4bc40f645",
+      "time": "2026-06-08 10:20:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said share volatility is a buying opportunity."
+    },
+    {
+      "id": "te:markets:557092",
+      "time": "2026-06-08 10:20:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds at 2-Month Low — The New Zealand dollar hovered around $0.579 on Monday, its lowest level in two months, as escalating tensions in the Middle East dampened risk appetite. Iran launched missile strikes against Israel on Sunday, following Israeli airstrikes on the southern suburbs of Beirut in response to alleged Hezbollah attacks. The exchange marked a sharp escalation in regional hostilities, raising concerns that it could derail ongoing diplomatic efforts to resolve the conflict. Further losses in the kiwi, however, were partly cushioned by expectations of tighter monetary policy from the Reserve Bank of New Zealand. Markets continue to price in a possible rate hike as early as July, with the OCR seen to peak around 3.50% late next year."
+    },
+    {
+      "id": "mkt:019ea507-41eb-7ee0-94c8-61ea5200a5a1",
+      "time": "2026-06-08 10:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine stock index erased an earlier 1% decline."
+    },
+    {
+      "id": "mkt:019ea506-cffb-7ee0-94c8-5e9de70d168b",
+      "time": "2026-06-08 10:19:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company is partnering with LG to develop engines, humanoid robots and data centers."
+    },
+    {
+      "id": "4922754",
+      "time": "2026-06-08 10:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉志紅任中投公司執行委員會成員】6月8日，據中投公司訊息，經董事會審議透過，聘任劉志紅為中投公司執行委員會成員。"
+    },
+    {
+      "id": "te:economy:557089",
+      "time": "2026-06-08 10:18:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Korea 10Y Yield Climbs to Highest Since 2023 — South Korea’s 10-year government bond yield climbed to around 4.33% in early June, its highest since November 2023, as strong AI investment and surging semiconductor demand fuel faster growth and stickier inflation, reinforcing expectations of continued Bank of Korea tightening. Swaps markets are pricing in at least three rate hikes this year, lifting the policy rate toward 3.25% from 2.5%. At the same time, South Korea’s annual inflation rate accelerated to 3.1% in May, the highest reading since March 2024, while core inflation held at 2.5%. This, coupled with a weaker won, has added to concerns over persistent price pressures and imported inflation risks. Meanwhile, fiscal spending uncertainty and the prospect of additional bond issuance are also putting upward pressure on yields, even as authorities have moved to reduce supply and step up market monitoring to curb volatility."
+    },
+    {
+      "id": "4922753",
+      "time": "2026-06-08 10:18:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大集團與中國醫科大學簽署戰略合作協議】2026年6月5日，遼寧方大集團實業有限公司（簡稱“方大集團”）與中國醫科大學簽約戰略合作。雙方將依託高校科研實力和人才沃土，結合企業的產業實力和靈活機制優勢，尤其是醫藥板塊優勢，在科技創新與成果轉化、醫療健康服務、人才培養、師資學習交流與培訓、文化建設與交流等領域開展合作，推動更多優質科研成果走出實驗室、走向臨床一線，賦能區域醫藥健康產業及地方經濟社會高質量發展。"
+    },
     {
       "id": "4922752",
       "time": "2026-06-08 10:18:07",
@@ -177520,130 +177685,6 @@
         "Important"
       ],
       "text": "【BeiNao-2 to begin clinical validation in H2】Academician Zhao Jizong of the Chinese Academy of Sciences outlined a five-year Beijing-model brain-computer interface clinical translation plan. BCI product BeiNao-1 is slated for nationwide pilot deployment at accredited tertiary hospitals next year; BeiNao-2 is expected to begin clinical validation in H2."
-    },
-    {
-      "id": "4909465",
-      "time": "2026-06-01 10:22:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美籤遇阻 南非國足推遲世界盃行程】2026年美加墨世界盃揭幕戰的參賽球隊南非國家足球隊原定5月31日從南非國內啟程，開始本屆世界盃之旅。然而，由於球隊部分成員的簽證沒有辦妥，他們不得不推遲行程。據南非媒體報道，南非國足多名成員的簽證申請“卡”在美國使館。南非足協發表宣告說，南非國足原打算5月31日乘坐包機前往墨西哥一座訓練營，為即將開幕的世界盃做準備，但一些球員和隨團官員的簽證遇到問題。南非隊定於6月11日在世界盃揭幕戰中對陣主場球隊墨西哥隊。（新華社）"
-    },
-    {
-      "id": "4909464",
-      "time": "2026-06-01 10:21:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "總檯記者獲悉，當地時間6月1日，韓國大田一軍工企業發生爆炸。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e80fc-18e9-7666-845d-0f8259a4301d",
-      "time": "2026-06-01 10:21:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SASAC holds NEV talent training for central SOEs】May 28 — The State-owned Assets Supervision and Administration Commission (SASAC) held a special training course at Tsinghua University for central SOE personnel in the new-energy vehicle (NEV) sector; SASAC vice director Tan Zuojun attended. SASAC said the programme will accelerate organisational progress and urgent talent development aligned with NEV electrification, smartification and AI integration to support SOE transformation and upgrades. Training will focus on technical leaders' industry-direction judgment, core-technology innovation and industrial-ecosystem coordination, and on marketing leaders' user insight, digital marketing and overseas market expansion, with a particular push to cultivate AI+NEV specialists to enhance AI-defined vehicle capabilities and AI-enabled advanced manufacturing."
-    },
-    {
-      "id": "4909463",
-      "time": "2026-06-01 10:20:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【雞肉板塊震盪拉昇 曉鳴股份雙雙漲超10%】雞肉板塊震盪拉昇盤中震盪走強，曉鳴股份漲超10%，此前京基智農漲停，民和股份、益生股份、湘佳股份等跟漲。"
-    },
-    {
-      "id": "4909462",
-      "time": "2026-06-01 10:20:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻纖概念大幅回撥 宏和科技跌停】玻纖概念大幅回撥，宏和科技跌停，中國巨石跌逾5%，菲利華跌逾7%，國際復材跌近5%。"
-    },
-    {
-      "id": "4909461",
-      "time": "2026-06-01 10:20:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊異動拉昇 順鈉股份漲停】電網裝置板塊盤中異動拉昇，順鈉股份漲停，聚星科技、思源電氣、白雲電器、金盤科技、特變電工跟漲。"
-    },
-    {
-      "id": "te:markets:555169",
-      "time": "2026-06-01 10:20:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Tops 45,000, Hits Fresh Record High — The TAIEX, Taiwan’s benchmark stock index, rose 828 points, or 1.9%, to 45,561 in Monday morning trade, extending gains from the previous session, primarily supported by electronic technology and technology services stocks. The broader index hit a new record high, surpassing the 45,000 level for the first time as optimism over AI demand continued to lift sentiment. A rally on Wall Street on Friday also fueled sentiment, supported by technology stocks amid persistent enthusiasm surrounding AI-related investments. Electronic technology stocks climbed 2.0%, while technology services stocks rose 2.9%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, advanced 0.4%, while Delta Electronics also gained 0.4%. Meanwhile, Hon Hai Precision Industry and MediaTek surged 4.5% and 7.7%, respectively. On the data front, Taiwan's manufacturing sector grew at the fastest pace since August 2021 in May 2026, supported by stronger demand."
-    },
-    {
-      "id": "4909460",
-      "time": "2026-06-01 10:20:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華虹集團成立鑫智時代企管公司】企查查APP顯示，近日，上海鑫智時代企業管理有限公司成立，法定代表人為徐任重，註冊資本為3億元，經營範圍包含：企業管理。企查查股權穿透顯示，該公司由上海華虹（集團）有限公司全資持股。"
-    },
-    {
-      "id": "4909459",
-      "time": "2026-06-01 10:19:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工板塊震盪走強 巨化股份漲停】氟化工板塊盤中震盪走強，巨化股份漲停，昊華科技觸及漲停，永和股份、三美股份、金石資源、多氟多等跟漲。訊息面上，機構指出，2025年半導體PFA（可熔性聚四氟乙烯）全球供需約2萬噸，隨下游晶圓產能增長疊加12英寸和先進製程提升的結構性變化，全球超純PFA需求或將乘數放大。"
-    },
-    {
-      "id": "mkt:019e80fb-0056-7666-845d-07d1cd1a1aa9",
-      "time": "2026-06-01 10:19:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to YONHAP, an explosion was heard at a Hanwha Aerospace facility in Daejeon."
-    },
-    {
-      "id": "4909458",
-      "time": "2026-06-01 10:19:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“北腦二號”預計下半年啟動臨床驗證】近日，“臨床腦機介面”學科交叉博士後學術交流活動在首都醫科大學宣武醫院舉行。中國科學院院士趙繼宗介紹了北京模式腦機介面臨床轉化五年規劃。腦機介面產品“北腦一號”預計明年在全國有資質的三甲醫院試點推廣，“北腦二號”預計今年下半年啟動臨床驗證。（新京報）"
-    },
-    {
-      "id": "4909457",
-      "time": "2026-06-01 10:19:32",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國央行行長：此次能源價格上漲部分被半導體出口抵消】韓國央行行長申鉉松6月1日稱，韓國與歐元區國家類似，對能源價格衝擊較為敏感，韓國對能源進口的依賴度較高。通常油價上漲會惡化貿易條件，導致國內總收入（GDI）增速慢於國內生產總值（GDP），但此次能源價格上漲的部分被半導體出口所抵消。（新華財經）"
-    },
-    {
-      "id": "4909456",
-      "time": "2026-06-01 10:19:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【掌閱科技：推出人格化AI潮玩CreMoMo】6月1日，掌閱科技(603533)宣佈推出人格化AI潮玩CreMoMo，入局科技消費賽道。公司稱，區別於市面上常規AI玩具，CreMoMo由掌閱自主設計IP形象，依託掌閱自研記憶演算法與擬人化成長體系，具備長效記憶、自主成長、情感共情等差異化能力，打破行業傳統機械互動模式。6月1日早盤，掌閱科技股價漲停，漲幅為9.98%。"
-    },
-    {
-      "id": "4909455",
-      "time": "2026-06-01 10:19:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梁建章：未來5年將投入150億元進行入境遊宣傳，引入2億入境遊客】攜程集團聯合創始人、董事局主席梁建章6月1日表示，中國入境遊在人文歷史、基礎設施、高價效比和科技等方面都具有優勢，未來5年將在入境遊品牌宣傳方面投入150億元，包括廣告代言、線下營銷等。未來5年，攜程希望引入2億全球入境遊客。影視演員成龍成為攜程集團中國旅遊推廣大使，成龍表示，隨著免籤國家越來越多，希望全球遊客都來體驗真實的中國，而不僅僅是在網路上。（第一財經）"
     }
   ]
 }
