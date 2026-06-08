@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-09 01:38:58",
-  "count": 19149,
+  "updated": "2026-06-09 01:42:51",
+  "count": 19157,
   "items": [
+    {
+      "id": "mkt:019ea854-098a-733a-9232-e052cf5d4e30",
+      "time": "2026-06-09 01:42:20",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): making Siri more conversational."
+    },
+    {
+      "id": "4924567",
+      "time": "2026-06-09 01:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果推出人工智慧版Siri 使用者能夠回看歷史對話記錄】蘋果藉助蘋果智慧技術推出全新人工智慧版Siri，該版本對話能力更強、具備上下文感知能力，可跨蘋果裝置理解連貫互動內容。蘋果還上線了獨立的Siri應用，使用者能夠回看歷史對話記錄。"
+    },
+    {
+      "id": "mkt:019ea853-53b6-733a-9232-d95a337f996e",
+      "time": "2026-06-09 01:41:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said Iran's goal is to end the war and achieve security and stability, and that Iran cannot trust either the US or Israel."
+    },
+    {
+      "id": "4924566",
+      "time": "2026-06-09 01:41:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：特朗普已任命約翰·貝林格為新世界螺旋蠅應對準備事務高階顧問。"
+    },
+    {
+      "id": "mkt:019ea852-b208-733a-9232-d6849ccd4acb",
+      "time": "2026-06-09 01:40:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said Tehran does not face a binary choice between war and talks; Iran will fight when appropriate and negotiate when appropriate. Only by doing both can we defeat the enemy and demonstrate that negotiations are a continuation of the struggle. Officials at all levels are coordinating fully to achieve set objectives."
+    },
+    {
+      "id": "mkt:019ea851-c07d-733a-9232-cc42fa12a76d",
+      "time": "2026-06-09 01:39:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) expects speech-to-text accuracy to \"substantially improve\"; Siri upgrades will extend to CarPlay and AirPods."
+    },
+    {
+      "id": "4924565",
+      "time": "2026-06-09 01:39:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：將Siri改造得更具對話互動能力。"
+    },
+    {
+      "id": "4924564",
+      "time": "2026-06-09 01:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果表示，Siri的改進將覆蓋CarPlay和AirPods。"
+    },
+    {
+      "id": "mkt:019ea850-e5df-733a-9232-c36619a47df5",
+      "time": "2026-06-09 01:38:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launches a new voice experience to make Siri's voice more expressive."
+    },
+    {
+      "id": "4924563",
+      "time": "2026-06-09 01:38:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：語音聽寫準確率預計將“大幅提升”。"
+    },
+    {
+      "id": "4924562",
+      "time": "2026-06-09 01:38:42",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果推出人工智慧版Siri】蘋果在全球開發者大會上推出搭載蘋果智慧技術的全新版本Siri，全平臺視覺智慧功能迎來升級。公司還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。"
+    },
+    {
+      "id": "mkt:019ea850-b77f-733a-9232-bb4519c16f43",
+      "time": "2026-06-09 01:38:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) shares rose 1.8% after the company unveiled new AI features at WWDC."
+    },
     {
       "id": "mkt:019ea850-a35e-733a-9232-b097bee4368c",
       "time": "2026-06-09 01:38:37",
@@ -176463,46 +176583,6 @@
         "國際"
       ],
       "text": "特朗普：與伊朗的談判正在快速推進。"
-    },
-    {
-      "id": "mkt:019e8446-41d6-7993-96f8-4f31ce4fe372",
-      "time": "2026-06-02 01:40:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran foreign ministry: US directly responsible for Israel’s Lebanon–Israel ceasefire violations】On the 1st, Iran’s foreign ministry said the United States bears direct responsibility for violations of an Iran–U.S. ceasefire and for Israel’s breaches of the Lebanon–Israel ceasefire, and should bear full responsibility for the consequences. Iran said it will defend its interests when it deems necessary."
-    },
-    {
-      "id": "4911232",
-      "time": "2026-06-02 01:40:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：鑑於確認有火箭彈從黎巴嫩發射，目標直指衝突線沿線的各社群，後方司令部已釋出預防性指令。公眾應在警報響起時立即進入避難場所。"
-    },
-    {
-      "id": "mkt:019e8445-ca37-7993-96f8-4596ca101c44",
-      "time": "2026-06-02 01:40:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said rockets confirmed fired from Lebanon targeted frontline communities; rear command issued precautionary orders. The public should enter shelters immediately when alarms sound."
-    },
-    {
-      "id": "4911231",
-      "time": "2026-06-02 01:40:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：美對以色列違反黎以停火協議負有直接責任】當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。（央視新聞）"
     }
   ]
 }
