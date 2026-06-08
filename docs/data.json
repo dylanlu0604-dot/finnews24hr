@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-09 03:21:51",
-  "count": 19218,
+  "updated": "2026-06-09 03:25:36",
+  "count": 19220,
   "items": [
+    {
+      "id": "mkt:019ea8b2-0354-733a-9234-ee3dd5a1fb75",
+      "time": "2026-06-09 03:24:58",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple software chief Craig Federighi said that, aside from AFM Cloud Pro, Apple’s other four models will continue to run on Apple-designed chips."
+    },
+    {
+      "id": "4924644",
+      "time": "2026-06-09 03:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：除 AFM Cloud Pro 外，蘋果其餘四款模型仍將依託蘋果自研晶片執行。"
+    },
+    {
+      "id": "mkt:019ea8af-eef0-733a-9234-e1fc3b3c995a",
+      "time": "2026-06-09 03:22:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple's largest model, \"AFM Cloud Pro\", will run on Google Cloud infrastructure."
+    },
+    {
+      "id": "4924643",
+      "time": "2026-06-09 03:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果：蘋果旗下最大模型 AFM Cloud Pro 將執行於谷歌雲基礎設施之上。"
+    },
+    {
+      "id": "mkt:019ea8af-1d55-733a-9234-db875cd86780",
+      "time": "2026-06-09 03:21:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Apple software head Craig Federighi said Apple is working with Google and NVIDIA to integrate its private cloud computing solution into Google Cloud infrastructure."
+    },
+    {
+      "id": "4924642",
+      "time": "2026-06-09 03:21:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果：蘋果聯合谷歌、英偉達，依託谷歌雲基礎設施落地自有私有云計算方案。"
+    },
     {
       "id": "mkt:019ea8ae-8f7f-733a-9234-d24f355cb2ac",
       "time": "2026-06-09 03:21:12",
@@ -177171,38 +177237,6 @@
         "國際"
       ],
       "text": "歐盟輪值主席國塞普勒斯：歐盟理事會與歐洲議會今日就一項歐盟法規達成臨時協議，該法規將推動歐盟各成員國建立更高效快捷的全歐盟非法滯留人員遣返流程。此番協議是《歐盟移民與庇護公約》的配套細則，助力公約落地施行。"
-    },
-    {
-      "id": "4911280",
-      "time": "2026-06-02 03:24:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統府：黎巴嫩已收到確認，真主黨同意美方提議。"
-    },
-    {
-      "id": "mkt:019e84a4-650e-7993-96f9-4edd8bf4842c",
-      "time": "2026-06-02 03:23:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THUNE: The U.S. Senate will advance a $72 billion immigration enforcement spending bill."
-    },
-    {
-      "id": "4911279",
-      "time": "2026-06-02 03:23:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩表示，美國參議院將推進總額720億美元的移民執法支出法案。"
-    },
-    {
-      "id": "4911278",
-      "time": "2026-06-02 03:22:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士：特朗普提出的“機構政治化調查專項經費”專案已暫緩推進。"
     }
   ]
 }
