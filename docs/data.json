@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-08 14:12:52",
-  "count": 19345,
+  "updated": "2026-06-08 14:16:37",
+  "count": 19355,
   "items": [
+    {
+      "id": "mkt:019ea5df-bb6e-7ccd-9e37-2cdafdaefbad",
+      "time": "2026-06-08 14:16:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the industry is now very close to achieving industrial robotization."
+    },
+    {
+      "id": "te:economy:557151",
+      "time": "2026-06-08 14:16:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Factory Orders",
+        "Importance 2"
+      ],
+      "text": "German Factory Orders Fall More than Estimated — Germany’s factory orders dropped 3.8% mom in April 2026, reversing a downwardly revised 4.5% increase in the prior month and missing market expectations for a 1.2% decline. The decrease marked the second monthly fall so far this year, reflecting weaker demand in the automotive industry (-5.3%), electrical equipment (-16.3%), and mechanical engineering (-7.4%). Orders declined across all major categories, including consumer goods (-6.7%), intermediate goods (-4.4%), and capital goods (-2.9%). Foreign demand weakened 4.2%, largely due to an 11.1% plunge in orders from the euro area, while orders from non-euro area countries grew 0.8%. Domestic orders also contracted by 2.9%. Excluding large-scale contracts, factory orders fell 3.8%. On a less volatile basis, new orders in the February-April period were 3.1% lower than in the previous three months. However, excluding large orders, new business rose 3.5%, suggesting underlying demand remained somewhat more resilient."
+    },
+    {
+      "id": "4923201",
+      "time": "2026-06-08 14:15:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際航協：2026年全球SAF產量依舊令人失望】國際航空運輸協會（IATA）釋出最新估算資料顯示，2026年全球SAF（可持續航空燃料）產量預計將達到約240萬噸，僅佔航空燃料總用量的0.8%，航空公司支出成本為43億美元。國際航協理事長威利·沃爾什（Willie Walsh）表示：“對於SAF生產而言，又是令人失望的一年。由於政策缺乏有效統籌，加之石油公司缺乏興趣，實現2050年SAF滿足65%燃料需求目標的難度正逐年增加。當前的能源危機本應進一步凸顯發展可再生能源，包括SAF的緊迫性。然而，無論是能源危機、實現能源獨立與創造就業的需求，還是緩解氣候變化的緊迫性，都尚未轉化為建立成熟SAF市場所需的市場激勵措施。”"
+    },
+    {
+      "id": "4923200",
+      "time": "2026-06-08 14:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【布油一度飆升逾5% 伊朗和以色列交火令停火協議面臨考驗】油價飆升，此前伊朗和以色列交火，威脅到中東地區本已脆弱的停火局面，而旨在結束這場戰爭的談判也陷入僵局。布倫特原油價格一度飆升5%至每桶97.77美元，WTI原油價格升至近94美元水平。以色列表示已對伊朗境內的軍事目標實施了打擊，以此報復德黑蘭此前發動的導彈襲擊，儘管美國總統唐納德·特朗普曾呼籲以色列總理本雅明·內塔尼亞胡不要進行反擊。據半官方的法爾斯通訊社援引伊朗伊斯蘭革命衛隊的一份宣告報道，伊朗革命衛隊週一對以色列內瓦提姆和特爾諾夫空軍基地的關鍵設施發動襲擊，此次空襲是對週一早些時候以色列針對伊朗境內多個城市的導彈襲擊採取的報復措施。"
+    },
+    {
+      "id": "4923199",
+      "time": "2026-06-08 14:14:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達執行長黃仁勳：很高興能在韓國新萬金建設英偉達工廠。"
+    },
+    {
+      "id": "4923198",
+      "time": "2026-06-08 14:14:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：英偉達與現代集團正探討如何將人工智慧整合至未來製造體系。"
+    },
+    {
+      "id": "4923197",
+      "time": "2026-06-08 14:13:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：我們將與現代汽車在各類移動出行領域展開合作。"
+    },
+    {
+      "id": "4923196",
+      "time": "2026-06-08 14:13:38",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達執行長黃仁勳：機器人技術實現產業化已近在眼前。"
+    },
+    {
+      "id": "4923195",
+      "time": "2026-06-08 14:13:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝禁止以色列船隻在紅海航行】葉門胡塞武裝發言人葉海亞·薩雷亞今天（6月8日）釋出影片宣告，證實稍早前向以色列發射導彈。宣告還稱，將禁止以色列船隻在紅海航行。（CCTV國際時訊）"
+    },
+    {
+      "id": "4923193",
+      "time": "2026-06-08 14:13:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網易有道在海南成立新公司】天眼查App顯示，近日，網易有道靈智（海南）資訊科技有限公司成立，法定代表人為金磊，註冊資本1000萬人民幣，經營範圍包括網際網路資訊服務、演出經紀、出版物零售、出版物批發等。股東資訊顯示，該公司由北京網易有道計算機系統有限公司全資持股。"
+    },
+    {
+      "id": "4923192",
+      "time": "2026-06-08 14:13:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Nebius宣佈在英國投資17億英鎊擴建AI雲基礎設施】6月8日，AI雲公司Nebius宣佈，將投資約17億英鎊在英國新建三處英偉達基礎設施部署站點，並持續擴大其倫敦商業及AI研發中心規模。三處新站點均將部署英偉達最新全棧AI工廠平臺技術，合計裝機容量預計於2027年全面達產後達到65兆瓦。此前，Nebius已於2025年11月完成在英國的首個英偉達Blackwell Ultra基礎設施部署。"
+    },
     {
       "id": "4923191",
       "time": "2026-06-08 14:11:49",
@@ -47,12 +146,61 @@
       "text": "瀝青連續主力合約日內漲5%，現報4553.00元。"
     },
     {
+      "id": "mkt:019ea5da-97ee-700a-8482-d15d67f5ef66",
+      "time": "2026-06-08 14:10:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005380.KS"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company is expanding its collaboration with Hyundai Motor on autonomous driving, robotaxis and mobility services."
+    },
+    {
+      "id": "mkt:019ea5da-5b40-700a-8482-ce48d9b8ff42",
+      "time": "2026-06-08 14:10:11",
+      "tags": [
+        "MKT News",
+        "ENBD.DU",
+        "Impact bearish",
+        "FAB.AD",
+        "AIRARABIA.DU"
+      ],
+      "text": "ADNOC Gas shares fell 1.2% in early trade; Air Arabia down 1.9%; Abu Dhabi Bank shares down 1.8%; Emirates NBD down 2.5%."
+    },
+    {
       "id": "4923186",
       "time": "2026-06-08 14:10:06",
       "tags": [
         "公司"
       ],
       "text": "英偉達執行長黃仁勳：英偉達與現代汽車擴大合作伙伴關係，業務覆蓋自動駕駛汽車、機器人計程車與自動駕駛出行領域。"
+    },
+    {
+      "id": "mkt:019ea5d9-fb23-7aa4-8928-8643650412f7",
+      "time": "2026-06-08 14:09:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Houthi militants say they fired missiles at Jaffa, ban Israeli navigation in Red Sea】Houthi militants said they launched a volley of missiles targeting sensitive sites in Israel’s Jaffa area and announced an immediate, comprehensive ban on Israeli navigation in the Red Sea. The group said it will treat any Israeli movement in the area as a military target and pledged to escalate its military response in step with developments and in coordination with the resistance axis in Iran, Lebanon, Iraq, Palestine and Yemen. The statement framed the action as retaliation against U.S. and Zionist aggression and as a measure to break what it called an oppressive blockade."
+    },
+    {
+      "id": "mkt:019ea5d9-9cc4-700a-8482-c3dc51291721",
+      "time": "2026-06-08 14:09:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Abu Dhabi stock index fell 0.9% in early trade; Dubai stock index fell 1.4% in early trade."
     },
     {
       "id": "4923185",
@@ -62,6 +210,14 @@
         "焦點"
       ],
       "text": "甲醇連續主力合約日內漲5%，現報3039.00元。"
+    },
+    {
+      "id": "4923184",
+      "time": "2026-06-08 14:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本東京以北城市首現“熊蹤” 中小學停課】日本宇都宮市宣佈，由於當地首次觀察到有熊出沒，全市94所中小學8日全部停課。據路透社報道，宇都宮市位於日本首都東京以北大約100公里處，常住人口約50萬。該市政府稱，6日晚間有人在一個公園附近的居民區發現熊的蹤跡，但相關人員未能將熊抓獲。最近一起目擊事件發生在8日早晨，有人報告說在距一所中學只有幾百米的地方看到它。近幾年，日本熊襲人事件不斷增加，發生在城市中的此類事件也呈上升趨勢。這促使政府今年組建了一個專門工作組以減少人員傷亡。（新華社）"
     },
     {
       "id": "4923183",
@@ -178295,62 +178451,6 @@
         "其他"
       ],
       "text": "巴基斯坦規劃部預計 2027 財年國內生產總值增速目標為 4%。"
-    },
-    {
-      "id": "4909805",
-      "time": "2026-06-01 14:15:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "資料編纂機構Bilstatistik.dk表示，5月特斯拉在丹麥的新車登記量同比增長136.5%。"
-    },
-    {
-      "id": "4909804",
-      "time": "2026-06-01 14:14:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：哈薩克騰吉茲油田事故後已進入產能恢復階段。"
-    },
-    {
-      "id": "4909803",
-      "time": "2026-06-01 14:13:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華磊迅拓：與光模組龍頭中際旭創旗下深度智冷合作 構建柔性製造體系】近日，華磊迅拓與廣東深度智冷科技正式召開MOM專案啟動會，該專案旨在透過匯入華磊迅拓MOM系統，助力深度智冷科技實現製造全流程的數字化、智慧化轉型。廣東深度智冷科技聚焦“AI+液冷”融合創新，由全球光模組龍頭中際旭創與電子新材料及液冷技術領軍企業東陽光股份聯合注資成立，致力於為資料中心算力設施輸出包括3DVC、液冷板、快接頭、Manifold、CDU、冷卻工質等全鏈路散熱產品。雙方將以啟動會為起點，助力深度智冷科技構建精益、敏捷、柔性的製造能力，提高液冷板等產品生產質量和生產效率。"
-    },
-    {
-      "id": "mkt:019e81d0-e7e2-799c-966c-ad9b122c51a0",
-      "time": "2026-06-01 14:13:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share coal sector extended gains; Xinjie Energy hit limit-up, Dayou Energy, Zhengzhou Coal & Power, Haohua Energy, Jinkong Coal and Lu'an Environmental Energy had earlier hit limit-up; Shanmei International, Shanxi Coking Coal, Pingmei Co. and China Shenhua also climbed."
-    },
-    {
-      "id": "4909802",
-      "time": "2026-06-01 14:13:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股煤炭板塊持續走高，新集能源漲停，大有能源、鄭州煤電、昊華能源、晉控煤業、潞安環能此前封板，山煤國際、山西焦煤、平煤股份、中國神華跟漲。"
-    },
-    {
-      "id": "4909801",
-      "time": "2026-06-01 14:13:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8729.40美元。"
     }
   ]
 }
