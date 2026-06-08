@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-09 01:50:38_
-_本檔包含 3755 則快訊，約 694727 字_
+_更新時間：2026-06-09 03:02:55_
+_本檔包含 3746 則快訊，約 696045 字_
+
+---
+
+### 2026-06-05 11:11:04  #MKT News #Market Themes #The Trump Trade
+
+【Brazil foreign minister says U.S. rationale for tariffs 'does not hold'】Brazil foreign minister Mauro Vieira said on June 4 the U.S. rationale for recently proposed tariffs on Brazilian goods "does not hold." He said Brazil has submitted information to rebut the U.S. investigation's findings and is willing to continue dialogue with Washington.
+
+---
+
+### 2026-06-05 11:10:48  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【UBS sees full-year Hong Kong IPO proceeds of $45–50 bln; remains confident HSI will top 30,000 this year】UBS says Hong Kong equity market has been highly active with a structural shift toward hard-tech and new-economy issuers; sci‑tech firms accounted for 63% of HK IPO volume YTD versus 16% a year earlier. UBS investment banking co-head says HK equity financing reached about $43 bln in the first five months of 2026, up from $28 bln a year earlier. UBS Research forecasts full-year Hong Kong IPO proceeds of $45–50 bln and remains confident the HSI will break 30,000 this year. Looking to H2, UBS expects China market momentum to be driven by substantive corporate profit growth and prefers two asset types: large-cap tech leaders benefitting from global AI deployment and technology self-sufficiency, and small/mid-cap firms with structural overseas-expansion capabilities.
+
+---
+
+### 2026-06-05 11:10:45  #市場
+
+【瑞銀：全年港股新股IPO融資額有望達到450億至500億美元 對今年恒生指數突破3萬點的目標保持信心】瑞銀認為，今年以來港股市場保持高度活躍，結構性變化顯著，硬科技與新質生產力企業已成為新股發行的絕對中堅力量。資料顯示，年初至今科創企業佔港股IPO發行規模的63%，較去年同期的16%大幅躍升。瑞銀證券全球投資銀行部聯席主管諶戈介紹，2026年前五個月港股融資額已達約430億美元，較去年同期的280億美元顯著提升。瑞銀研究部門預計，全年港股新股IPO融資額有望達到450億至500億美元，並對今年恒生指數突破3萬點的目標保持信心。展望下半年，未來中國資本市場核心動能或將由企業盈利的實質性增長主導。瑞銀看好兩類資產，一是受益於全球AI應用落地、技術自主可控的科技大市值龍頭板塊；二是具備結構性出海能力的中小市值企業。（中證金牛座）
+
+---
+
+### 2026-06-05 11:10:37  #國際
+
+【巴西外長：美國加徵關稅的理由“不成立”】針對美國政府日前提議對巴西商品加徵關稅，巴西外交部長毛羅·維埃拉4日表示，美國加徵關稅的理由“不成立”。維埃拉說，巴西政府已向美國提交了必要資訊以反駁美國相關調查結論。巴西政府願就相關問題繼續與美國保持對話。（新華社）
+
+---
+
+### 2026-06-05 11:10:12  #公司
+
+【瑞銀：外資配置中國資產意願提升 仍存較大增配空間】瑞銀集團中國區總裁、瑞銀證券董事長鬍知鷙，瑞銀證券全球投資銀行部聯席主管諶戈在媒體研討會上表示，全球主動管理基金對中國股票的配置比例已從2024年四季度低點的約5%回升至接近7%，但與2021年約15%的歷史高位相比仍有差距，中國資產在全球主動管理基金投資組合中仍處於低配狀態，後續增配空間較大。盈利改善成為瑞銀看好中國資產的重要依據。瑞銀的資料顯示，A股一季度整體盈利增長已超過7個百分點。基於此，瑞銀已將全年A股盈利增速預期上調至11%。瑞銀研究團隊認為，人民幣是今年全球最具基本面支撐的核心貨幣，對主要貨幣存在3%至4%的升值空間，這將為境外投資者參與A股提供額外激勵。（中證金牛座）
+
+---
+
+### 2026-06-05 11:10:01  #MKT News #Important #Market Regions #Greater China #000725.SZ #Impact bullish
+
+China A-share optical and optoelectronics sector rallied; BOE Technology A hit the daily limit. Caihong, Kaisheng Technology and Woge Optoelectronics earlier hit limit-up; Gebijia, Leiman Optoelectronics and Visionox were among the top gainers.
+
+---
+
+### 2026-06-05 11:09:56  #其他
+
+雷軍：2027小米頂尖校招專案已正式啟動。
+
+---
+
+### 2026-06-05 11:09:31  #公司 #市場
+
+【光學光電子板塊持續拉昇，京東方A觸及漲停】光學光電子板塊持續拉昇，京東方A觸及漲停，彩虹股份、凱盛科技、沃格光電此前漲停，戈碧迦、雷曼光電、維信諾漲幅居前。
+
+---
+
+### 2026-06-05 11:09:23  #國際
+
+泰國商務部： 燃油、食品及運輸成本高企，對通脹構成壓力。
+
+---
+
+### 2026-06-05 11:08:46  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+【UBS: Foreign demand for China assets rising, substantial room to increase allocations】UBS says global active managers’ China equity allocations have recovered from a Q4 2024 trough of about 5% to roughly 7%, well below a c.15% peak in 2021 and implying sizable scope for further allocation increases. UBS points to improving earnings as the chief support: A-share aggregate profit growth in Q1 rose by more than 7 percentage points, and UBS has lifted its full‑year A‑share earnings growth forecast to 11%. UBS research also flags the renminbi as this year’s most fundamentally supported core currency, forecasting c.3–4% appreciation versus major currencies, which should provide an additional incentive for offshore investors to buy A‑shares.
+
+---
+
+### 2026-06-05 11:08:34  #其他
+
+【智源清華合作成果登上Science，腦科學多模態基礎模型Brainμ為技術支撐】6月4日，北京智源人工智慧研究院與清華大學聯合開展的研究相關成果“Memory Reactivation Underlies Experience-Dependent Adaptive Regulation of Sleep”在國際學術期刊《科學》（Science）發表。研究表明，睡眠中的記憶重啟用參與調控睡眠動態，為理解“記憶-睡眠”雙向作用機制提供了新的實驗證據。作為本研究中的資料分析的技術支撐，智源研究院AI+神經科學團隊研發的腦科學多模態基礎模型Brainμ0，為研究中的記憶-睡眠多模態資料分析、輔助科學家假設驗證、睡眠狀態識別等關鍵分析環節提供了支撐。
+
+---
+
+### 2026-06-05 11:07:58  #國際
+
+泰國商務部：5月通脹環比回落，因柴油、肉類價格走低。
+
+---
+
+### 2026-06-05 11:07:20  #資料 #市場 #國際
+
+泰國5月消費者物價指數（CPI）環比上漲0.17%。
+
+---
+
+### 2026-06-05 11:06:39  #MKT News #Star Stocks #Tencent #0700.HK #Impact mixed
+
+【Tencent EVP Tang Daosheng acknowledges uneven pace across business lines, open to external feedback】At an AI industry summit Tang Daosheng, Tencent’s senior executive vice president, acknowledged that speed varies across the company’s complex organization, with some business lines faster than others, and said the firm welcomes external criticism and suggestions. He said he believes models will continue to iterate as user demand evolves and new product forms emerge, and noted Tencent reacted relatively quickly to the Longxia wave earlier this year.
+
+---
+
+### 2026-06-05 11:06:02  #公司
+
+【湯道生回應"騰訊慢了"：承認業務線快慢不一 接受外界提醒和建議】在騰訊AI產業峰會現場，針對外界“騰訊慢了”的批判，騰訊集團高階執行副總裁湯道生作出回應，其承認在複雜組織中不同業務線速度不一，有快有慢，也有失敗與探索，對外界批評與提醒持開放態度並接受建議。湯道生表示："在這樣的一個長跑，我相信模型會不斷迭代，使用者的需求也在不斷變化，也會有新的產品形態出現，我覺得我們今年年初對龍蝦這一波熱潮也反應比較快。"
+
+---
+
+### 2026-06-05 11:05:26  #市場
+
+現貨白銀日內跌2%，現報72.38美元/盎司。
+
+---
+
+### 2026-06-05 11:04:54  #國際
+
+【匈牙利同意開啟烏克蘭加入歐盟談判】匈牙利總理毛焦爾·彼得4日表示，匈牙利已同意開啟烏克蘭加入歐盟的談判。毛焦爾當天在布達佩斯與到訪的愛爾蘭總理馬丁舉行聯合新聞釋出會時說，匈烏兩國政府已就保護烏克蘭西部外喀爾巴阡地區匈牙利族人的語言、文化、教育和政治權利達成協議。鑑於烏克蘭已承諾實施必要的法律修訂，匈牙利對開啟烏克蘭入盟談判表示支援。（新華社）
+
+---
+
+### 2026-06-05 11:04:22  #公司
+
+【凱賽生物、隆基綠能、森特股份、招商租賃簽署四方戰略合作協議】據凱賽生物訊息，6月4日，在上海舉辦的第十九屆國際太陽能光伏與智慧能源大會（SNEC2026）會上，凱賽生物與隆基綠能、森特股份、招商局融資租賃有限公司簽訂四方戰略合作協議。合作以生物基複合材料在光伏產業創新落地為核心，打通“材料研發—元件生產—工程落地—金融賦能”全產業鏈路，全方位助推光伏行業傳統邊框材料綠色低碳升級，加速新型生物基材料規模化商業化應用程序。
+
+---
+
+### 2026-06-05 11:04:18  #其他
+
+【港股中興通訊漲超11%】港股中興通訊漲11.21%，報31.54港元。
+
+---
+
+### 2026-06-05 11:04:07  #其他
+
+本田5月中國汽車銷量28,279輛，同比下降48.7%。
+
+---
+
+### 2026-06-05 11:03:48  #公司
+
+【培生：雲端計算和AI被認為是技能缺口最突出的領域】6月5日，全球終身學習公司培生 (FTSE: PSON.L)）釋出的《2026年IT認證價值僱主報告》顯示，從全球範圍來看，AI、機器學習、網路安全和雲端計算等高風險、高影響領域成為技能缺口最突出的領域。僱主估算每位獲得認證的IT員工每年可為企業帶來約17646美元的額外價值，如果整個IT團隊都具備最新技能，這一數字可提升至近20000美元。報告顯示，42%的受訪中國企業管理者認為，其 IT 團隊尚未完全具備應對當前技術發展的最新技能。其中，雲端計算（78%）和人工智慧/機器學習（74%）被認為是技能缺口最突出的領域。78%的受訪中國企業會為員工承擔IT認證費用，在所有受訪國家中佔比最高。
+
+---
+
+### 2026-06-05 11:03:47  #MKT News
+
+Thailand's Ministry of Commerce expects headline inf this year at 1.5–2.5%.
+
+---
+
+### 2026-06-05 11:03:42  #MKT News #Star Stocks #Tencent #Market Themes #China Tech Giants #0700.HK #Impact bullish #Hang Seng Index #CSI300
+
+【Tencent's Yao urges a long-term Chinese AGI organisation; Tencent AI to target three priorities】Tencent chief AI scientist Yao Shunyu said at an AI industry summit China should establish a long-term AGI organisation. He said Tencent's next-phase AI work will concentrate on three priorities: focusing on operational and optimization tasks around pre-training and fine-tuning to strengthen the technical base; productising foundational technology into commercial products that deliver societal value; and actively exploring new research paradigms and opportunities.
+
+---
+
+### 2026-06-05 11:03:37  #MKT News #Macro & Rates
+
+Thailand's Ministry of Commerce expects June consumer price index (CPI) to rise.
+
+---
+
+### 2026-06-05 11:02:41  #國際
+
+泰國商務部預計6月消費者物價指數將上升。
+
+---
+
+### 2026-06-05 11:02:32  #國際
+
+泰國商務部預計，泰國今年整體通脹率將處於1.5%至2.5%區間。
+
+---
+
+### 2026-06-05 11:02:14  #其他
+
+【姚順雨：需要建立長期AGI組織 ，騰訊AI下半場主攻三方向】騰訊AI產業峰會今日舉辦。騰訊首席AI科學家姚順雨表示，AI下半場最重要的是，我們應該在中國建立一個長期的AGI組織。今天的AI可以分為三部分：首先要重點關注預訓練和後訓練等基礎性工作的操作與最佳化，夯實技術底座；其次，在產品方面要將基礎技術轉化為實際產品，使其能真正為社會和人類創造價值；第三，要積極探索新的研究正規化、發掘新的機會。
+
+---
+
+### 2026-06-05 11:01:30  #資料 #市場 #國際
+
+泰國商務部公佈：泰國5月整體消費者物價指數（CPI）同比上漲2.79%，預期3.10%。
+
+---
+
+### 2026-06-05 11:01:21  #資料 #市場 #國際
+
+泰國商務部：泰國5月核心消費者物價指數（CPI）同比上漲0.92%，預期為上漲0.90%。
+
+---
+
+### 2026-06-05 11:01:16  #MKT News
+
+【State Administration for Market Regulation publishes China Anti‑Monopoly Enforcement Annual Report (2025)】The State Administration for Market Regulation (National Anti‑Monopoly Bureau) published the China Anti‑Monopoly Enforcement Annual Report (2025), reporting 20 new market‑monopoly cases filed and 22 cases closed in 2025, with fines and confiscations totaling 653 million yuan. The agency completed review of 706 merger filings, up 9.8% YoY. It issued Implementation Measures for the Fair Competition Review Regulations to tackle local protection and market segmentation; market regulators reviewed nearly 60,000 policy measures across levels during the year.
+
+---
+
+### 2026-06-05 11:00:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+【NVIDIA CEO Jensen Huang's Korea visit: first stop reportedly T1 esports cafe】NVIDIA CEO Jensen Huang will visit South Korea on the 5th, entering via Gimpo Airport at about 1:00pm local time. He is scheduled for consecutive meetings with major Korean corporate leaders; his first public stop will be T1’s Seoul “T1 Base Camp” esports café, where he will meet the T1 League of Legends starting five — captain Faker (Lee Sang‑hyeok), Doran, Oner, Peyz and Keria — and discuss measures to activate the esports industry.
+
+---
+
+### 2026-06-05 11:00:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Drops on Middle East Uncertainty — Silver fell below $73 an ounce on Friday and was set for a weekly decline of nearly 4%, pressured by ongoing uncertainty in the Middle East that kept inflation risks and interest rate concerns in focus. President Donald Trump said peace negotiations were approaching their final stage and is reportedly reluctant to re-enter full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the discussions. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, adding to doubts over efforts to de-escalate regional hostilities. The prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, reinforcing concerns about inflation and the risk of higher interest rates.
+
+---
+
+### 2026-06-05 11:00:23  #宏觀
+
+【加強公平競爭 《中國反壟斷執法年度報告（2025）》釋出】市場監管總局（國家反壟斷局）釋出《中國反壟斷執法年度報告（2025）》，報告指出，2025年市場監管總局在反壟斷監管執法領域持續發力，全年立案市場壟斷案件20件，辦結22件，罰沒款合計6.53億元；穩步提升經營者集中監管質效，全年審結經營者集中706件，同比增長9.8%；加力破除地方保護和市場分割，出臺《公平競爭審查條例實施辦法》，加強公平競爭審查源頭把關，全年各級市場監管部門審查政策措施近6萬件。
+
+---
+
+### 2026-06-05 10:59:42  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Slips on Middle East Uncertainty — Gold fell below $4,450 an ounce on Friday and was set for a weekly decline of more than 2%, pressured by ongoing uncertainty in the Middle East that kept inflation risks and interest rate concerns in focus. President Donald Trump said peace negotiations were approaching their final stage and is reportedly reluctant to re-enter full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the discussions. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, adding to doubts over efforts to de-escalate regional hostilities. The prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, reinforcing concerns about inflation and the risk of higher interest rates.
+
+---
+
+### 2026-06-05 10:59:02  #公司 #國際
+
+【黃仁勳訪韓首站據悉選在T1網咖】英偉達執行長黃仁勳將於5日訪問韓國，並接連會見韓國國內主要企業領袖。 據英偉達及資訊科技IT業界5日訊息，黃仁勳CEO將於當日下午1點左右透過金浦機場入境。 據悉，黃仁勳CEO將在機場簡要發表入境感言，並進行問答環節。 抵達韓國後，黃仁勳CEO的首個目的地是電競戰隊T1運營的網咖。 據遊戲界透露，黃仁勳CEO將於當日下午到訪位於首爾市內的網咖“T1 Base Camp”，與T1英雄聯盟戰隊全員會面。 據悉，包括T1隊長Faker李相赫在內，Doran、Oner、Peyz、Keria等戰隊首發5人將悉數出席本次會面。 黃仁勳CEO預計將在現場與選手及戰隊相關人員進行交流，並就啟用電子競技產業的方案展開討論。
 
 ---
 
@@ -22349,269 +22559,5 @@ Irish Services PMI Hits 3-Month High — The AIB Ireland Services PMI rose to 50
 ### 2026-06-04 08:05:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Futures Decline as Tech Earnings Disappoint — US stock futures moved lower on Thursday as disappointing earnings from major technology companies pressured market sentiment. In after-hours trading, Broadcom sank nearly 14% after reporting fiscal second-quarter revenue below expectations, while cybersecurity firm CrowdStrike dropped more than 11% following soft second-quarter sales guidance. The weakness spread across the tech sector, with Intel (-2%), AMD (-2.9%), Palantir (-1.5%), Qualcomm (-1.9%), and Arm Holdings (-4.3%) also posting notable losses. Investors were also assessing heightened geopolitical risks after fresh exchanges of strikes between the US and Iran, undermining hopes for a peace deal and stoking concerns about inflation and higher interest rates. In Wednesday’s regular session, the Dow fell 1.21%, the S&P 500 lost 0.74%, and the Nasdaq Composite declined 0.89%. Six of the 11 S&P sectors closed lower, led by technology, financials, and consumer discretionary stocks.
-
----
-
-### 2026-06-04 08:05:23  #市場 #國際
-
-日本東證股價指數（TOPIX）下跌1.1%，報3954.20點。
-
----
-
-### 2026-06-04 08:04:28  #市場
-
-MSCI亞太指數下跌1%至280.38點.
-
----
-
-### 2026-06-04 08:03:56  #公司
-
-【江波龍：目前儲存產業正處於高景氣週期中】江波龍(301308)在互動平臺表示，公司企業級產品主要為企業級eSSD與RDIMM，公司企業級儲存產品2025年實現收入達17.83億元，同比增長93.30%，公司將繼續深化在AI伺服器、資料中心領域的儲存業務佈局。目前儲存產業正處於高景氣週期中，公司各項經營指標與行業發展趨勢保持一致。
-
----
-
-### 2026-06-04 08:02:51  #其他
-
-【經濟日報金觀平：善用數智技術推動城市更新】近年來，以人工智慧、大資料、區塊鏈等為代表的數智技術叢集，正重塑城市與區域空間的生產、流通和治理。數智技術引發城市規劃領域變革，推動城市更新從傳統意義上的物質空間改善，轉變到以內涵式發展為特徵的“數字更新”階段。從宏觀的規劃治理到微觀的民生服務，數智技術已滲透到城市更新各層面，並催生一系列創新性應用場景，提升了城市執行效率、安全韌性和宜居品質。
-
----
-
-### 2026-06-04 08:02:41  #市場 #國際
-
-布倫特原油價格開盤下跌0.5%，此前以色列和黎巴嫩同意停火協議。
-
----
-
-### 2026-06-04 08:02:31  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-Wall Street Journal reports Trump told aides he would not restart a full-scale war with Iran unless U.S. forces were killed in an attack.
-
----
-
-### 2026-06-04 08:01:56  #公司 #市場
-
-三星電子股價下跌3%。
-
----
-
-### 2026-06-04 08:01:48  #國際
-
-據報道，特朗普向助手錶示，除非有美軍人員遇襲身亡，否則他不會對伊朗重啟全面敵對行動。
-
----
-
-### 2026-06-04 08:01:37  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-【Japan, South Korea stocks open lower】On Thursday June 4, Japan's Nikkei 225 opened down 442.74 points (-0.65%) at 67,959.39. South Korea's KOSPI opened down 170.78 points (-1.94%) at 8,630.71.
-
----
-
-### 2026-06-04 08:01:31  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌2%，至8623.82點。
-
----
-
-### 2026-06-04 08:01:21  #市場
-
-【日韓股市開盤】日經平均指數開盤下跌0.8％，報67860.84點，科技股與電子股拖累大盤走弱。韓國綜合股價指數（KOSPI）開盤下跌2％，至8623.82點。
-
----
-
-### 2026-06-04 08:00:28  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Rubio: Russia-Ukraine talks stalled; escalation risk】On the 3rd, U.S. Secretary of State Rubio told a Senate Appropriations subcommittee that negotiations between Russia and Ukraine have stalled in recent months and carry a real risk of escalation. He said the conflict cannot be resolved by military means and must be settled diplomatically, but that route has not produced results to date. Both sides appear unwilling to make the concessions required for a deal, he said. Russia retains long-range strike capabilities and Ukraine can retaliate in kind, making the risk of escalation real and more tangible than two years ago.
-
----
-
-### 2026-06-04 07:59:02  #公司 #觀點
-
-中金公司研究部首席宏觀經濟分析師張文朗表示，從總量政策看，下半年貨幣政策將延續“適度寬鬆”的基調，預計降準降息將視經濟增長和物價水平情況而定。
-
----
-
-### 2026-06-04 07:58:42  #公司
-
-【年內多家公募宣佈增資 強化資本儲備“壓艙石”】6月2日，湘財基金髮布公告，宣佈全資控股股東湘財證券再次向其注資，公司註冊資本由3.5億元增至4億元。2026年開年以來，多家基金公司相繼宣佈或完成增資計劃。業內人士表示，充足的資本儲備是基金公司行穩致遠的“壓艙石”，不僅能提升公司的抗風險能力與合規運營水平，更為其豐富產品線、提升投研能力及最佳化公司治理提供了動能。
-
----
-
-### 2026-06-04 07:58:05  #央行 #公司 #市場
-
-【中證報：央行逆回購操作量歸零為技術性回籠 銀行間市場流動性充裕】6月3日，中國人民銀行釋出的公告稱，根據公開市場業務一級交易商的需求，當日7天期逆回購操作量為零。專家表示，央行在當日的公告中明確“7天期逆回購操作量為零”，是根據一級交易商的需求決定的。這種情況從側面印證了當前商業銀行流動性十分充裕，對補充短期流動性的意願不強。東方金誠首席宏觀分析師王青分析，6月1日，1年期商業銀行（AAA級）同業存單到期收益率降至1.4275%，再創新低。6月2日，該收益率資料繼續處於這一低位。這表明，與在貨幣市場融資相比，商業銀行向央行融資的成本優勢已不明顯。 王青表示，央行此舉也可能與短期內政府債券發行尚未持續顯著放量和信貸投放處於溫和狀態有關，商業銀行向央行的融資需求有所下降。 專家表示，當前銀行間市場流動性充裕，央行的上述舉措並不意味著收緊流動性，貨幣政策適度寬鬆的方向沒有改變。
-
----
-
-### 2026-06-04 07:56:27  #MKT News #Market Regions #Greater China
-
-【Lee: Hong Kong and Uzbekistan agree mutual 30-day visa exemption】Hong Kong Chief Executive John Lee, leading a delegation in Uzbekistan, reached agreement with Uzbek authorities on reciprocal visa-free stays of up to 30 days. Both governments will finalise implementation details and move to put the arrangement into effect promptly.
-
----
-
-### 2026-06-04 07:56:07  #國際
-
-印度要求國有銀行增加緩衝資金。（印度媒體MINT）
-
----
-
-### 2026-06-04 07:55:43  #其他
-
-QUANTINUUM IPO定價為每股60美元，高於預期範圍。
-
----
-
-### 2026-06-04 07:55:41  #MKT News #V.O #Impact bearish #MA.O
-
-【Visa, Mastercard to suspend Cuba transactions; Melia to exit 15 hotels】Cuban state media, citing the central bank, said Visa and Mastercard will suspend card transaction services in Cuba effective this weekend under President Trump’s latest sanctions. Separately, Melia Hotels International said it will withdraw from Cuba and immediately terminate operating agreements for 15 hotels; the company did not explicitly cite U.S. sanctions, attributing the decision to Cuba’s geopolitical, social, legal and economic environment.
-
----
-
-### 2026-06-04 07:52:16  #市場 #國際
-
-【AI基建催生“算力金屬”熱潮 供給端“硬約束”成為核心邏輯】隨著全球人工智慧（AI）競賽持續升溫，圍繞算力基建展開的新一輪投資浪潮正席捲全球。從海外科技巨頭持續加碼資料中心，到國內“東數西算”工程加速推進，再到AI伺服器、光模組及先進封裝需求爆發，一批原本相對小眾的金屬品種正在迎來價值重估。今年以來，被市場冠以“算力金屬”概念的銅、錫、銦、鍺、鎵等品種集體走強。其中，滬錫主力合約累計漲幅接近40%，銅價中樞穩步抬升，銦、鍺等部分稀散金屬價格更是實現翻倍上漲。6月3日，滬錫主力合約盤中觸及45萬元/噸，創下近3個月新高。相比於需求增長，市場更關注的是供給端長期存在的瓶頸。國信期貨首席分析師顧馮達認為，本輪“算力金屬”行情背後最核心的邏輯並非AI概念本身，而是供給側持續收緊帶來的資源稀缺性溢價。
-
----
-
-### 2026-06-04 07:51:07  #MKT News #USDJPY #Impact bearish #DXY #S&P500
-
-Japan's net purchases of foreign equities were -¥1.07 tln in the week to May 29, versus a prior reading revised from -¥358.7 bln to -¥367.8 bln.
-
----
-
-### 2026-06-04 07:51:05  #國際
-
-日本5月29日當週外資淨買進日本股票 -4912億日元，前值 10804億日元。日本5月29日當週外資淨買進日本債券 12458億日元，前值 13460億日元。日本5月29日當週淨買進國外債券 -1848億日元，前值 103億日元。日本5月29日當週淨買進國外股票 -10720億日元，前值 -3587億日元。
-
----
-
-### 2026-06-04 07:51:03  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Foreign investors bought JGBs totalling JPY1,245.8bn in the week to May 29; prior week revised from JPY1,346.0bn to JPY1,350.2bn.
-
----
-
-### 2026-06-04 07:50:55  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Stocks Buying (May.29) | actual -1072000000000B | previous -358700000000B
-
----
-
-### 2026-06-04 07:50:54  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Bonds (May.29) | actual 1245800000000B | previous 1346000000000B
-
----
-
-### 2026-06-04 07:50:13  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #USDJPY #Impact bullish
-
-Foreign investors were net sellers of Japanese equities by ¥491.2 bln in the week to May 29; the prior week's net buying was revised from ¥1,080.4 bln to ¥1,079.7 bln.
-
----
-
-### 2026-06-04 07:50:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's net purchases of foreign bonds were -184.8 bln yen in the week to May 29; the prior reading was revised from 10.3 bln yen to 12.9 bln yen.
-
----
-
-### 2026-06-04 07:50:06  #市場 #國際
-
-【在對伊朗衝突的擔憂重燃之際 日經指數或下跌】隨著對伊朗衝突和能源價格上漲的擔憂重燃，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.6%，至67480點。美元報159.93日元，週三東京股市收盤時為159.94日元。在科威特遭到彈道導彈和無人機密集攻擊後，投資者正關注中東局勢的發展。日經指數週三上漲2.5%，達到創紀錄的68402.13點。
-
----
-
-### 2026-06-04 07:50:01  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (May.29) | actual -491200000000B | previous 1080400000000B
-
----
-
-### 2026-06-04 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (May.29) | actual -184800000000B | previous 10300000000B
-
----
-
-### 2026-06-04 07:49:55  #公司 #國際
-
-【量子計算公司Quantinuum美股IPO據稱獲逾20倍超額認購】據報道，霍尼韋爾旗下量子計算公司Quantinuum的IPO獲得逾20倍超額認購，預計將於當地時間6月3日晚些時候將發行價定在已上調後的區間上方。當地時間6月1日，Quantinuum在向美國證監會提交的檔案中披露，將首次公開發行2650萬股A類普通股，預計發行價將在每股53美元至55美元之間。
-
----
-
-### 2026-06-04 07:49:23  #宏觀 #市場 #國際
-
-【油價下跌 此前美國稱以色列和黎巴嫩同意停火】油價連漲三日後出現回落，此前美國表示以色列和黎巴嫩同意停火，這將消除華盛頓與德黑蘭談判中的一個關鍵障礙。WTI原油價格跌至每桶95美元附近，在本週前三個交易日累計上漲近10%；而布倫特原油週三收盤價則維持在每桶98美元左右。美國國務院表示：“停火的前提條件是，真主黨完全停止開火，並將所有真主黨人員撤離利塔尼河以南地區。”
-
----
-
-### 2026-06-04 07:49:01  #國際
-
-【魯比奧：俄烏談判陷停滯 局勢存升級風險】美國國務卿魯比奧3日說，近幾個月，俄羅斯和烏克蘭之間的談判陷入停滯，局勢存在升級風險。魯比奧當天在美國國會參議院撥款委員會一個小組委員會的聽證會上說，俄烏衝突無法透過軍事手段解決，只能透過外交途徑解決，但這一途徑迄今未取得成效。“雙方似乎都尚未準備作出達成協議所需的讓步，因此前景並不樂觀。”他說，俄羅斯具備實施遠端打擊的能力，但烏克蘭也有能力對等反擊，這意味著“局勢升級的風險真實存在，且比兩年前更為真切”。（新華社）
-
----
-
-### 2026-06-04 07:47:07  #公司
-
-【CPU重回AI算力聚光燈下 國產廠商有望迎來雙重機遇】曾被GPU搶盡風頭的CPU，正在重回AI算力的舞臺中央。6月1日，英偉達創始人兼CEO黃仁勳在GTC大會上宣佈，旗下首款獨立資料中心CPU Vera正式進入量產，將於今年第三季度投產。5月下旬，超威半導體（AMD）已宣佈下一代EPYC資料中心CPU“Venice”進入量產。國內CPU廠商亦動作不斷，5月28日龍芯中科推出23億元定增方案，其中4.85億元投向CPU關鍵核心技術研發專案。中關村物聯網產業聯盟副秘書長袁帥接受證券時報記者採訪時表示，Agentic AI（代理式人工智慧）時代的到來，正在重新定義算力需求結構。伴隨CPU產業需求爆發，以及自主可控趨勢深化，國產CPU廠商亦有望迎來規模化替代與產業地位重估的機遇。
-
----
-
-### 2026-06-04 07:46:45  #市場 #國際
-
-指標10年期日本國債期貨早盤下跌0.07點。
-
----
-
-### 2026-06-04 07:46:41  #市場 #國際
-
-日本日經平均指數期貨早盤下跌1.2%。
-
----
-
-### 2026-06-04 07:46:30  #公司 #觀點 #國際
-
-【訊息人士：摩根大通的戴蒙將向富豪客戶推介SpaceX的IPO】一位知情人士週三透露，摩根大通執行長戴蒙本週將向該行的高淨值客戶 推介SpaceX即將進行的首次公開募股（IPO），旨在推動散戶參與這場創紀錄的募股活動。戴蒙將與高管埃爾多斯（Mary Erdoes）和萊克（Marianne Lake）在摩根大通位於紐約市的總部共同主持此次活動，預計將有超過2,500名客戶出席，這將是該行首次舉辦如此大規模的活動。訊息人士稱，SpaceX 營運長肖特韋爾（Gwynne Shotwell）和首席財務官約翰森（Bret Johnsen）也將出席。SpaceX週三將IPO定價定為每股135美元，計劃透過此次IPO籌集750億美元，創下IPO融資規模的歷史新高，交易估值將達1.75萬億美元，使其立即躋身美國上市企業市值前十之列。訊息人士稱，作為參與SpaceX IPO的龐大銀行承銷團成員之一，摩根大通將在26個州的90個地點（包括部分摩根大通分行）為高淨值客戶直播此次活動。
-
----
-
-### 2026-06-04 07:46:14  #市場 #焦點
-
-現貨黃金突破4460美元/盎司，日內漲0.67%。
-
----
-
-### 2026-06-04 07:46:12  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose above $4,460/oz, up 0.60% intraday.
-
----
-
-### 2026-06-04 07:46:11  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Pressured by Rate Hike Concerns — Silver traded near $73 an ounce on Thursday after losing over 3% in the previous session, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook.
-
----
-
-### 2026-06-04 07:46:06  #市場 #焦點
-
-紐約期金突破4490美元/盎司，日內漲0.52%。
-
----
-
-### 2026-06-04 07:45:45  #MKT News
-
-Sources said JP Morgan CEO Dimon will pitch SpaceX's IPO to wealthy clients.
-
----
-
-### 2026-06-04 07:44:39  #觀點
-
-訊息人士稱，摩根大通戴蒙將向富裕客戶推介SpaceX上市計劃。
-
----
-
-### 2026-06-04 07:44:31  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Pressured by Rate Hike Expectations — Gold traded around $4,450 an ounce on Thursday and was down almost 2% for the week, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook.
 
 ---

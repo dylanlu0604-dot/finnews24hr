@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-09 01:50:38_
-_本檔包含 3806 則快訊，約 694817 字_
+_更新時間：2026-06-09 03:02:55_
+_本檔包含 3807 則快訊，約 695995 字_
+
+---
+
+### 2026-06-03 06:50:36  #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）： 美軍駐科威特基地再遭爆炸襲擊、出現被炸點位。
+
+---
+
+### 2026-06-03 06:49:35  #國際
+
+【聯合國專家譴責美國對古巴革命領袖的指控】當地時間6月2日，聯合國人權理事會特別報告員和獨立專家發表宣告，指出美國對古巴革命領袖勞爾·卡斯特羅的指控違反了《聯合國憲章》和國際法，並濫用司法程式作為脅迫手段。宣告敦促美國政府立即停止對古巴的威脅並撤銷單方面強制措施；強調任何國家都不應承認這些措施，並呼籲聯合國安理會和大會緊急處理針對古巴的威脅，將其視為影響國際和平與安全的問題。（央視新聞）
+
+---
+
+### 2026-06-03 06:49:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Rubio: Israel plan to control 70% of Gaza not aligned with U.S. position】Rubio told a House Appropriations Committee hearing on the 2nd that Prime Minister Netanyahu’s proposal for Israeli forces to control 70% of the Gaza Strip is inconsistent with the U.S. position and is not part of President Trump’s 20-point plan to end the Gaza conflict; under that plan Israel would not be required to do so. Under the first phase of the Gaza ceasefire agreement, effective October 2025, Israel controls 53% of the territory.
+
+---
+
+### 2026-06-03 06:48:49  #國際
+
+【柬埔寨宣佈啟動強制調解程式，以解決與泰國重疊海洋權益主張】據柬埔寨新聞社報道，柬埔寨首相洪瑪奈2日表示，柬埔寨已正式通知泰國和聯合國秘書長，啟動《聯合國海洋法公約》強制調解程式，“解決與泰國存在的重疊海洋權益主張”。洪瑪奈在一份宣告中說：“採取該措施旨在根據國際法保護柬埔寨的主權和海洋權利。柬埔寨始終尋求以和平方式解決與鄰國的爭端。”他表示，啟動這一程式並不意味著柬埔寨放棄對話，而是將對話引入兩國都認可的、結構化的國際框架。(環球網)
+
+---
+
+### 2026-06-03 06:48:46  #國際
+
+【魯比奧：以色列擬控加沙七成區域 不符美方立場 】美國國務卿魯比奧2日表示，以色列總理內塔尼亞胡提出以軍要控制加沙地帶70%區域的計劃與美方立場不符。魯比奧當天下午在美國國會眾議院撥款委員會舉行的聽證會上接受議員質詢時說，內塔尼亞胡這一計劃並非美國總統特朗普關於結束加沙衝突的“20點計劃”組成部分。按照“20點計劃”，以色列不需要那樣做。他同時稱，美方目標和以方最終目標一致，即加沙地帶由一個不是巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的實體治理。（新華社）
+
+---
+
+### 2026-06-03 06:48:22  #其他
+
+科威特總參謀部表示，該國防空部隊正在攔截來襲導彈與無人機，並補充稱民眾聽到的爆炸聲均為攔截行動所致，同時呼籲民眾遵照安全指引行事。
+
+---
+
+### 2026-06-03 06:46:03  #MKT News #DXY #Impact bearish #Copper #Impact bullish #S&P500
+
+New Zealand April building consents YoY 52.7%, prior 8.2%.
+
+---
+
+### 2026-06-03 06:45:55  #MKT News #Economic Calendar #Important
+
+New Zealand | Building Permits (YoY) (Apr) | actual 52.7% | previous 8.2%
+
+---
+
+### 2026-06-03 06:45:35  #其他
+
+市場訊息：科威特短時間內接連發生多起爆炸。
+
+---
+
+### 2026-06-03 06:45:08  #MKT News
+
+New Zealand April building consents MoM +10.9%; March revised to -0.8% from -1.30%.
+
+---
+
+### 2026-06-03 06:45:07  #其他
+
+紐西蘭4月營建許可環比 10.9%，前值 -1.3%。
+
+---
+
+### 2026-06-03 06:45:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Sinks by 6.29% — Top crypto losers are Bitcoin (-6.29%), XRP (-6.24%) and Ether (-5.64%).
+
+---
+
+### 2026-06-03 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Building Permits (MoM) (Apr) | actual 10.9% | previous -1.30%
+
+---
+
+### 2026-06-03 06:44:08  #MKT News #WTI #Impact bullish #Brent
+
+Israeli media reported sounds resembling missile launches were heard in Darab, Fars province, Iran.
+
+---
+
+### 2026-06-03 06:43:54  #其他
+
+市場訊息：科威特境內傳來爆炸聲。
+
+---
+
+### 2026-06-03 06:43:25  #宏觀 #國際
+
+美國國務院批准擬向越南出售價值 1 億美元的 C-130 運輸機維護保障相關軍貿專案。
+
+---
+
+### 2026-06-03 06:43:09  #國際
+
+據伊朗伊斯蘭共和國廣播電視臺（IRIB）：美國防禦導彈未能成功攔截來襲導彈，並墜落於科威特的非軍事區域。
+
+---
+
+### 2026-06-03 06:40:58  #國際
+
+市場訊息：美國眾議院推出跨黨派法案，旨在保護創作者免受 AI 侵權損害。
+
+---
+
+### 2026-06-03 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Gains by 4.55% — Top commodity gainers are Cocoa (4.55%) and Rice (1.28%). Biggest losers are Oat (-3.45%) and Soybeans (-1.31%).
+
+---
+
+### 2026-06-03 06:39:16  #MKT News
+
+【U.S. official signals flexibility on $100,000 H-1B visa fee】DHS Secretary Ma Lin said the department has discretionary authority to reduce or waive the newly established $100,000 H‑1B fee in certain cases, potentially easing pressure on employers who rely on legal immigration amid the Trump administration's broader tightening. He also indicated support for simplifying re‑entry procedures for H‑2B seasonal foreign workers, a temporary labor source for hospitality, tourism, seafood processing, landscaping and construction sectors.
+
+---
+
+### 2026-06-03 06:38:56  #公司
+
+【光伏企業集體轉型綜合能源服務商，算電協同成爭奪重地】6月2日，全球重磅光伏展會2026 SNEC SMART E國際智慧能源大會（在上海開幕。記者參會發現，光伏行業正逐漸告別單一製造時代，邁入價值重構元年，企業加速從光伏產品製造商向綜合能源、零碳算力服務商轉型。產業轉型的“重頭戲”是算電協同。當日，多家光伏龍頭落地AIDC算電融合方案，針對性研發算力專用光伏產品。有儲能上市公司高管對記者表示，“十五五”末算力中心用電量有望達到全社會用電量的8%，對新能源及儲能的帶動效應非常顯著，且有望超預期。（上證報）
+
+---
+
+### 2026-06-03 06:38:37  #MKT News
+
+US says Israel and Lebanon will hold a new round of talks tomorrow.
+
+---
+
+### 2026-06-03 06:37:25  #MKT News
+
+Axios reported bipartisan U.S. lawmakers introduced a bill to grant visual artists legal protection against unauthorized commercial AI-generated works that mimic their work.
+
+---
+
+### 2026-06-03 06:36:10  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's state broadcaster IRIB said U.S. forces carried out hostile actions in the Persian Gulf, the Strait of Hormuz and on Qeshm Island before a U.S. base in Kuwait was struck.
+
+---
+
+### 2026-06-03 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Falls by 1.82% — Top commodity losers are Lithium Carbonate (-1.82%) and Silicon (-0.52%). Gains are led by Copper (1.81%), Iron Ore CNY (0.70%) and Gold (0.08%).
+
+---
+
+### 2026-06-03 06:34:26  #焦點 #國際
+
+美國國務院：以色列和黎巴嫩定於明日舉行新一輪會談。
+
+---
+
+### 2026-06-03 06:34:13  #公司
+
+【報道：SpaceX計劃最快週三確定IPO條款】據知情人士稱，SpaceX計劃最早於週三下午確定首次公開募股(IPO)的條款。該公司將在更新後的檔案中披露其價格區間和計劃發行的股份數量。公司可以在檔案公開15天后正式開始IPO市場推介。在路演開始前一晚確定條款將使投資者有更多時間評估估值，尤其考慮到SpaceX據彭博新聞報道計劃進行相對較短的路演，且最早可能在6月11日定價。
+
+---
+
+### 2026-06-03 06:33:55  #公司
+
+【外資公募再增資，中國資產價效比吸引全球資金】近期，多家外資機構透過增資、申請合格境外機構投資者（QFII）資格等方式持續加碼佈局中國市場。5月底，外商獨資公募聯博基金髮布公告稱，經股東聯博香港有限公司決定，聯博基金的註冊資本由原來的5億元人民幣增加至6億元人民幣。5月25日，富達基金的註冊資本金由2億美元增至2.18億美元。除了進行資本補充，合格境外機構投資者（QFII）資格也成為外資佈局中國的重要通道。滬上一位第三方分析人士表示，種種跡象顯示，當前國際資本正以更積極、更長期的方式參與中國資本市場。這一趨勢不僅體現了外資對中國經濟基本面和金融開放政策的認可，也表明中國資本市場在國際化程序中吸引力持續增強。（上證報）
+
+---
+
+### 2026-06-03 06:33:15  #資料 #市場 #央行 #國際
+
+【週三重要財經資訊提醒（以下均為北京時間）】
+① 時間待定 日本央行行長植田和男講話，日本政府將於6月3日向國會提交補充預算案；
+② 08:30 日本5月服務業、綜合PMI終值；
+③ 09:30 澳大利亞一季度GDP；
+④ 09:45 中國5月RatingDog服務業、綜合PMI；
+⑤ 10:05 越南5月進出口與貿易餘額；
+⑥11:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）參加CBS一個節目；
+⑦ 13:00 印度5月服務業、綜合PMI終值；
+⑧ 14:45 歐洲央行管委Rehn談論AI；
+⑨ 15:20 歐洲央行管委Primoz Dolenc講話；
+⑩ 15:50 法國5月服務業、綜合PMI終值；
+⑪ 15:55 德國5月服務業、綜合PMI終值；
+⑫ 16:00 歐元區5月服務業、綜合PMI終值；
+⑬ 16:30 法國5月服務業、綜合PMI終值；
+⑭ 17:10 瑞士央行行長Schlegel講話；
+⑮ 17:50 歐洲央行執委Elderson講話；
+⑯ 20:15 美國5月ADP就業人數（小非農）；
+⑰ 21:00 美聯儲理事Barr在社群開發銀行協會（CDBA）一個論壇講話；
+⑱ 21:30 歐洲央行執委Cipollone談論數字歐元；
+⑲ 21:45 美國5月標普全球服務業、綜合PMI終值；
+⑳ 22:00 美國5月ISM非製造業指數，4月耐用品訂單終值、工廠訂單；
+㉑ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
+㉒ 次日02:00 美聯儲釋出褐皮書；
+㉓ 次日04:00 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）講話；
+㉔ 美股盤後 博通、C3.ai、CrowdStrike、NetSkope釋出業績報告。
+
+---
+
+### 2026-06-03 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.15%) and Methanol (-2.10%). Gains are led by Crude Oil WTI (1.81%), Gasoline (1.47%) and Brent Crude Oil (1.19%).
+
+---
+
+### 2026-06-03 06:26:19  #焦點 #國際
+
+【伊朗襲擊位於科威特的美軍基地】據伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗的襲擊目標包括位於科威特的美國阿里·阿爾薩利姆空軍基地（Ali Al-Salem Air Base）以及阿里夫詹營（Camp Arifjan）。
+
+---
+
+### 2026-06-03 06:26:14  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+IRIB reported Iran's strikes targeted the US Ali Al-Salem Air Base in Kuwait and Camp Arifjan.
+
+---
+
+### 2026-06-03 06:24:55  #市場
+
+【6月百基新發、多點開花，機構：A股市場中長期配置價值不改】時至6月，公募基金行業迎來了又一波發行熱潮。權益類基金新發數量突破百隻，在各類產品中佔比最高，且呈現多點開花的態勢——科技類、量化、浮動費率產品紛紛亮相。Choice資料顯示，6月新發基金數量高達191只（不同份額分開計算），其中權益類基金（股票型、混合型基金）的數量為124只，佔比達到65%。業內人士普遍判斷，A股基本面支撐仍在，在多重資金託底之下，市場階段性休整不改中長期配置價值。（上證報）
+
+---
+
+### 2026-06-03 06:24:15  #國際
+
+【特朗普政府就法官要求大範圍退還關稅的裁決提起上訴】特朗普政府正式就一項法官裁決提起上訴，這項命令要求美國海關向繳納了總額1660億美元全球關稅的進口商退款，而美國最高法院今年早些時候已裁定政府的這些關稅違法。美國司法部週二向美國貿易法院提交上訴通知。此前政府律師已表示將就退款問題上訴，稱法官Richard Eaton無權下令向所有繳納相關關稅的進口商退款，無論這些企業是否提起訴訟要求返還資金。美國海關與邊境保護局(CBP)表示，在最高法院裁定政府敗訴後，該機構正透過此後設立的線上索賠平臺歸還約850億美元。特朗普政府則主張，該系統是依據政府“自身許可權”設立的，除非相關進口商是訴訟參與方，否則Eaton無權下令向那些關稅繳納事項已最終確定的進口商退款。
+
+---
+
+### 2026-06-03 06:23:13  #公司
+
+【機構持續入局，ETF競爭邁入品牌化階段】在經歷了過去兩年的規模強勁增長後，ETF市場還在吸引新玩家積極入局。近日，農銀匯理基金上報了旗下首隻ETF——農銀匯理滬深300質量ETF。今年3月，東方紅資管上報了首隻ETF產品——東方紅中證東方紅紅利低波動ETF，標誌著這家以主動權益投資見長的基金管理人正式進入ETF賽道。此外，2025年以來，創金合信基金、鑫元基金、長城基金、興證全球基金等均首次佈局ETF產品。不過，從4月以來ETF的資金流向看，在ETF領域深耕已久的基金公司旗下產品更能吸引資金湧入。在業內人士看來，由於當前ETF命名按規定採用“投資標的核心要素+ETF+基金管理人名稱”，相關ETF字首相同，更加考驗基金公司的品牌影響力。（上證報）
+
+---
+
+### 2026-06-03 06:21:10  #公司
+
+【“險資系”私募基金投資動向曝光，堅守“紅利+成長”啞鈴型策略】近期，由中國人壽和新華保險共同出資認購的國豐興華鴻鵠志遠二期私募證券投資基金現身五糧液前十大流通股股東名單，引發市場對“險資系”私募基金投資動向的關注。據不完全統計，今年以來，“險資系”私募基金現身多家上市公司前十大流通股股東名單，投資物件以消費、基礎設施、能源等領域的高股息標的為主。業內人士認為，從持倉情況來看，“險資系”私募基金秉持了險資長期投資的風格，未來投資會以“紅利+成長”的啞鈴型策略為主。（上證報）
+
+---
+
+### 2026-06-03 06:20:55  #國際
+
+據今日俄羅斯：中東地區發生爆炸，美國國防部的飛機緊急從以色列起飛。
+
+---
+
+### 2026-06-03 06:20:48  #MKT News
+
+RUSSIA TODAY reported an explosion in the Middle East and said a PENTAGON aircraft made an urgent departure from Israel.
+
+---
+
+### 2026-06-03 06:20:04  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh told staff in a memo he will approach Federal Reserve reform talks with a "clear-eyed" view while upholding the Fed's best traditions.
+
+---
+
+### 2026-06-03 06:19:37  #MKT News #WTI #Impact bullish #Brent
+
+The Tehran Times reported that the Ali Al-Salem military base in Kuwait was attacked.
+
+---
+
+### 2026-06-03 06:19:34  #央行 #國際
+
+市場訊息：美聯儲主席沃什在內部備忘錄中告知員工，將在承襲美聯儲優良傳統的前提下，立足客觀審慎開展改革磋商。
+
+---
+
+### 2026-06-03 06:19:18  #MKT News #AVGO.O #Impact bullish
+
+People familiar with the matter said Broadcom (AVGO.O) committed to underwrite the largest portion of ANTHROPIC's record chip financing, helping reduce debt costs on the $36 billion transaction.
 
 ---
 
@@ -22684,251 +22960,5 @@ Israel's defense minister KATZ said Trump had adopted Israel's position that fir
 ### 2026-06-02 03:04:13  #其他
 
 美銀：資產支援證券、商業地產抵押證券利差優勢突出，成結構化品類優選。
-
----
-
-### 2026-06-02 03:02:31  #國際
-
-以色列國防部長卡茨：特朗普採納了我方確立的對等準則，但凡有火力襲擊以色列定居點，以方就將空襲貝魯特，這便是特朗普相關表態的內涵。
-
----
-
-### 2026-06-02 03:01:58  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Israeli reports said Lebanon's presidential office announced Lebanese authorities had received Hezbollah's affirmative response to a US-proposed mutual ceasefire.
-
----
-
-### 2026-06-02 03:00:27  #其他
-
-黎巴嫩總統奧恩辦公室釋出宣告，黎巴嫩官方已收到真主黨同意美方提出的雙向停火提議的答覆。
-
----
-
-### 2026-06-02 03:00:02  #市場
-
-恒指期貨夜盤收跌0.12%，報25213.93點，低水184.25點。
-
----
-
-### 2026-06-02 02:57:53  #MKT News
-
-Flight-tracking data show nearly 12,000 flights transited Syrian airspace in May 2026, a 375% increase from May 2025.
-
----
-
-### 2026-06-02 02:57:41  #國際
-
-黎巴嫩真主黨議員哈桑・法德拉拉：真主黨拒絕了部分停火提議——該提議要求真主黨停止對以色列北部的襲擊，以換取以色列不轟炸貝魯特。
-
----
-
-### 2026-06-02 02:56:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-HEZBOLLAH MP Hassan Fadlallah said the group rejected parts of a ceasefire proposal that would have required it to halt attacks on northern Israel in exchange for Israel refraining from bombing Beirut.
-
----
-
-### 2026-06-02 02:56:33  #國際
-
-資料顯示，5 月近 1.2 萬架次航班飛越敘利亞領空，較 2025 年 5 月大增 375%。
-
----
-
-### 2026-06-02 02:48:07  #MKT News #Market Themes #AI Revolution
-
-Altman said OpenAI will pursue an IPO when it is in the company’s interest.
-
----
-
-### 2026-06-02 02:47:50  #MKT News
-
-OpenAI founder Altman said he has not been monitoring ANTHROPIC's IPO timing since the company filed for an IPO.
-
----
-
-### 2026-06-02 02:47:31  #公司
-
-市場訊息：在 Anthropic 遞交上市申請後，OpenAI 執行長奧特曼稱目前暫不考慮 IPO 上市時機。
-
----
-
-### 2026-06-02 02:45:42  #MKT News
-
-Axios reports President Trump plans to cancel 'weaponized' funds.
-
----
-
-### 2026-06-02 02:44:45  #國際
-
-據Axios：特朗普計劃取消“武器化”基金。
-
----
-
-### 2026-06-02 02:42:57  #MKT News
-
-Altman, founder of OpenAI, said public anxiety about artificial intelligence is understandable.
-
----
-
-### 2026-06-02 02:40:18  #公司
-
-OpenAI的CEO Altman：人們對AI感到焦慮是正確的。
-
----
-
-### 2026-06-02 02:40:09  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed down 0.24% at 978.86 yuan per gram in the evening session on June 1; Shanghai Gold Exchange silver T+D closed down 0.29% at 18,110 yuan per kilogram.
-
----
-
-### 2026-06-02 02:36:22  #國際
-
-黎巴嫩真主黨議員哈桑・法德拉拉： 全面停火是以色列軍隊撤出黎巴嫩全部領土的先決條件。
-
----
-
-### 2026-06-02 02:36:05  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH MP Hassan Fadlallah said a full ceasefire would be a precondition for Israeli withdrawal from all Lebanese territory.
-
----
-
-### 2026-06-02 02:35:17  #MKT News
-
-HEZBOLLAH MP Hassan Fadlallah said he supports a comprehensive ceasefire across all Lebanese territory.
-
----
-
-### 2026-06-02 02:34:58  #其他
-
-黎巴嫩真主黨議員哈桑・法德拉拉：我方支援在黎巴嫩全境實現全面停火。
-
----
-
-### 2026-06-02 02:31:30  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session most-active contracts close】At the 02:30 close, Shanghai most-active gold contract fell 1.28% to 980 yuan/gram; Shanghai most-active silver contract fell 0.73% to 18,130 yuan/kg; SC crude oil most-active contract rose 3.57% to 606 yuan/barrel.
-
----
-
-### 2026-06-02 02:31:22  #MKT News
-
-【Salesforce stake in Anthropic valued at about $5bn】Salesforce’s stake in Anthropic is valued at roughly $5bn after multiple follow-on investments. The software giant first backed Anthropic in early 2023 with about $50m and continued to invest in later rounds, people familiar with the matter said. Zoom Communications also profited from an early Anthropic investment, netting just over $1bn from its participation in Anthropic’s Series C in early 2023.
-
----
-
-### 2026-06-02 02:31:09  #市場
-
-WTI 7月原油期貨收報92.16美元/桶。NYMEX 7月天然氣期貨收報3.1790美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0847美元/加侖，NYMEX 7月取暖油期貨收報3.6394美元/加侖。
-
----
-
-### 2026-06-02 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Drops by 2.96% — Top crypto losers are Bitcoin (-2.96%), XRP (-2.53%), Binance (-2.29%) and Ether (-0.80%).
-
----
-
-### 2026-06-02 02:30:02  #市場
-
-上期所原油期貨夜盤收漲3.57%，報605.70元人民幣/桶。滬金夜盤收跌1.28%，滬銀收跌0.73%。
-
----
-
-### 2026-06-02 02:29:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said Ukraine's attacks in Luhansk and the southern Kherson region indicate Kyiv is opening a "new chapter" in a series of attacks.
-
----
-
-### 2026-06-02 02:28:34  #國際
-
-俄羅斯總統普京： 烏軍在盧甘斯克、赫爾松南部發起的攻勢，標誌基輔方面在一連串襲擊中掀開了新的階段。
-
----
-
-### 2026-06-02 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 3.54% — Top commodity losers are Oat (-3.54%) and Coffee (-2.11%). Gains are led by Sugar (2.56%) and Canola (1.95%).
-
----
-
-### 2026-06-02 02:20:58  #MKT News
-
-AP: The United States will reduce the number of embassies in Africa processing visa applications.
-
----
-
-### 2026-06-02 02:20:49  #國際
-
-市場訊息： 美國將縮減非洲地區可辦理簽證業務的大使館數量。
-
----
-
-### 2026-06-02 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Copper Gains by 2.99% — Top commodity gainers are Copper (2.99%), Silicon (2.56%) and Lithium Carbonate (0.85%). Biggest loser is Gold (-1.16%).
-
----
-
-### 2026-06-02 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Soars by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.11%), Natural Gas EU (4.93%) and Brent Crude Oil (4.07%). Biggest loser is Natural gas (-3.61%).
-
----
-
-### 2026-06-02 02:13:43  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-【Apple (AAPL.O) plans iPhone bill‑splitting feature to expand everyday financial tools】Apple (AAPL.O) is planning a new iPhone feature to let users split bills for group meals and other activities, expanding its everyday financial tools and posing a challenge to third‑party apps, people familiar with the matter said. The function would let users photograph receipts, allocate items to different people and generate payment requests; Apple plans to announce it at next week’s Worldwide Developers Conference and include it in iOS 27, the sources said.
-
----
-
-### 2026-06-02 02:10:49  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-【Sources say Israel delayed planned airstrikes on Beirut at US request】Sources say Israel delayed planned airstrikes on Beirut, Lebanon, at the request of the US, which is advancing a ceasefire initiative and urged Israel to wait; the reports have not been confirmed by Israeli officials.
-
----
-
-### 2026-06-02 02:10:27  #國際
-
-【訊息人士稱以色列應美國要求推遲空襲黎巴嫩貝魯特】訊息人士稱，以色列應美國的要求推遲了原定對黎巴嫩貝魯特的空襲計劃，並補充說，美國正在推進一項停火倡議，並要求以色列等待。但相關訊息未得到以色列官方證實。（央視新聞）
-
----
-
-### 2026-06-02 02:08:51  #公司 #國際
-
-【市況火熱，歐洲垃圾級企業競相削減貸款成本】本週伊始，借款人正紛紛湧向歐洲槓桿貸款市場進行債務重定價，希望利用有利的信用條件來削減其加點。漢堡王（Burger King）的運營商Restaurant Brands Europe、眼科護理服務商nexeye、以及汽車零部件製造商Parts Holding Europe等公司，均在尋求將其歐元定期貸款的利率削減25-50個基點。生育連鎖機構Ivirma同樣計劃對其借款進行重定價——並在現有債務基礎上增加一筆等值5000萬歐元的定期貸款；而MotoGP Sports則試圖在其目前支付的、高於基準利率275個基點的利息水平上進一步調降。
-
----
-
-### 2026-06-02 02:07:19  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
-
-【Anthropic reportedly filed draft S-1 for IPO】Anthropic has reportedly submitted a confidential draft S-1 as it races OpenAI to list, targeting a Wall Street IPO as early as this autumn. Share count and pricing have not been set. Anthropic, OpenAI and SpaceX are advancing listing plans to open a major financing channel. In its most recent financing Anthropic raised $65.0 bln and was valued at $965.0 bln, surpassing OpenAI. Demand for its tools has surged as clients adopt them for coding and other tasks. Goldman Sachs, JP Morgan and Morgan Stanley are expected to be considered for lead-manager roles on the Anthropic and OpenAI listings, sources said.
-
----
-
-### 2026-06-02 02:00:49  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) is reportedly preparing to launch a bill-splitting feature as it further expands its financial services.
-
----
-
-### 2026-06-02 01:58:19  #公司
-
-【蘋果準備推出賬單拆分功能，進一步深耕金融領域】蘋果公司正為 iPhone 研發一項全新服務，支援使用者拆分聚餐或各類集體活動的賬單。該功能支援使用者拍攝消費小票，把賬單消費專案分攤給多位參與者，並自動生成收款申請。這項服務依託Apple Cash執行，可在錢包 App 或資訊應用內使用，使用者也能透過蘋果手錶確認付款。知情人士表示蘋果最早有望於下週的全球開發者大會官宣該功能，並將其預裝在新一代手機系統 iOS 27 中。
-
----
-
-### 2026-06-02 01:54:08  #市場
-
-鈀金期貨日內漲1%，現報1396.00美元/盎司。
-
----
-
-### 2026-06-02 01:52:46  #國際
-
-【特朗普：與伊朗的談判正“快速推進”】美國總統特朗普1日在社交媒體上說，與伊朗的談判正“快速推進”。 (新華社)
 
 ---
