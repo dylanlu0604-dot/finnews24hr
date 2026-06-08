@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-08 21:57:06",
-  "count": 19134,
+  "updated": "2026-06-08 22:01:15",
+  "count": 19123,
   "items": [
+    {
+      "id": "4924309",
+      "time": "2026-06-08 22:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月諮商會就業趨勢指數 107.01，前值105.77。"
+    },
+    {
+      "id": "mkt:019ea788-e5b2-7226-8cb6-231b6fc16c0e",
+      "time": "2026-06-08 22:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Conference Board Employment Trends Index for May 107.01, prior 105.77."
+    },
+    {
+      "id": "mkt:019ea788-c116-7226-8cb6-1ba6e95335f7",
+      "time": "2026-06-08 22:00:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (May) | actual 107.01 | previous 105.77"
+    },
+    {
+      "id": "4924308",
+      "time": "2026-06-08 21:59:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡將在今晚的安全內閣會議上就局勢是否升級及伊朗問題做出決定。"
+    },
+    {
+      "id": "mkt:019ea788-6528-7226-8cb6-12a8f3558aab",
+      "time": "2026-06-08 21:59:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reports NETANYAHU will decide at tonight's security cabinet meeting whether to escalate the situation and on Iran."
+    },
+    {
+      "id": "mkt:019ea788-618f-7226-8cb6-098c702309a7",
+      "time": "2026-06-08 21:59:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China coking coal most-active contract fell about 6% intraday to 1,369.50 yuan/ton. China coking coke most-active contract dropped over 3% intraday to 1,969 yuan/ton."
+    },
+    {
+      "id": "4924307",
+      "time": "2026-06-08 21:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科通達：上海悅馳無疆科技合夥企業受讓9.92%股份】中科通達公告，2026年6月8日，公司控股股東、實際控制人王開學和王劍峰、股東武漢信聯永合高科技投資合夥企業（有限合夥）和武漢澤誠永合科技投資合夥企業（有限合夥）與投資者上海悅馳無疆科技合夥企業（有限合夥）簽訂《股份轉讓協議》，擬透過協議轉讓方式，轉讓方合計向受讓方轉讓其持有的上市公司無限售流通股1154.12萬股，占上市公司股本總額的9.92%。轉讓價格為人民幣18.89元/股，轉讓價款合計人民幣2.18億元。"
+    },
+    {
+      "id": "4924306",
+      "time": "2026-06-08 21:58:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1212.45美元/盎司。"
+    },
+    {
+      "id": "4924305",
+      "time": "2026-06-08 21:58:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌6%，現報1369.50元。"
+    },
+    {
+      "id": "4924304",
+      "time": "2026-06-08 21:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋼洛耐：擬與寶武財務公司簽署9億元金融服務協議】中鋼洛耐公告稱，公司擬與寶武集團財務有限責任公司簽署《金融服務協議》，約定就存款、信貸和結算等業務合作。每日最高存款餘額、貸款綜合授信額度均不高於9億元，協議有效期3年（至2029年6月30日）。寶武財務公司是公司間接控股股東中國寶武的控股子公司，本次交易構成關聯交易，不構成重大資產重組，尚需提交公司股東會審議。"
+    },
     {
       "id": "mkt:019ea784-76d5-7226-8cb6-02b828cae6ce",
       "time": "2026-06-08 21:55:36",
@@ -176190,222 +176280,6 @@
         "Important"
       ],
       "text": "United States | ISM Employment Index (May) | actual 48.6 | previous 46.4"
-    },
-    {
-      "id": "4911024",
-      "time": "2026-06-01 22:01:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在ISM製造業資料與建築支出資料公佈後小幅擴大漲幅；10年期美國國債收益率目前上行5.9個基點，報4.512%。"
-    },
-    {
-      "id": "mkt:019e837d-0dfb-7ccf-b268-f9fad9533fe1",
-      "time": "2026-06-01 22:01:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US ISM new-orders index for May 56.8; prior 54.1."
-    },
-    {
-      "id": "mkt:019e837d-0cd7-7ccf-b268-f5c518f4ac38",
-      "time": "2026-06-01 22:01:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Inventory Index (May) | actual 49.9 | previous 49"
-    },
-    {
-      "id": "mkt:019e837c-f3c6-7ccf-b268-ea5288b3fb89",
-      "time": "2026-06-01 22:01:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM New Orders Index (May) | actual 56.8 | previous 54.1"
-    },
-    {
-      "id": "mkt:019e837c-f365-7ccf-b268-e67b5f0254c2",
-      "time": "2026-06-01 22:01:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US April construction spending rose 0.4% MoM, vs 0.2% expected; March revised to +0.6%."
-    },
-    {
-      "id": "mkt:019e837c-a62c-7ccf-b268-da7e5686a7a8",
-      "time": "2026-06-01 22:00:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Construction Spending (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019e837c-a3af-7ccf-b268-d4b49f05f12d",
-      "time": "2026-06-01 22:00:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US May ISM manufacturing PMI 54.0, expected 53.0, prior 52.7."
-    },
-    {
-      "id": "4911023",
-      "time": "2026-06-01 22:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯財政官員向普京表示，目前戰爭開支已超出財政承受能力。"
-    },
-    {
-      "id": "mkt:019e837c-6618-7ccf-b268-c821ddf78da0",
-      "time": "2026-06-01 22:00:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing PMI (May) | actual 54 | consensus 53 | previous 52.7"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606013756348352",
-      "time": "2026-06-01 22:00:25",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國供應管理學會5月份製造業指數升至54.0，預估為53.0。"
-    },
-    {
-      "id": "4911022",
-      "time": "2026-06-01 22:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國4月份建築支出環比增長0.4%；預期增長0.2%。"
-    },
-    {
-      "id": "4911021",
-      "time": "2026-06-01 22:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國ISM製造業指數創四年新高，達到54，高於預期的53。"
-    },
-    {
-      "id": "4911020",
-      "time": "2026-06-01 22:00:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4448.64美元/盎司。"
-    },
-    {
-      "id": "te:markets:555415",
-      "time": "2026-06-01 21:59:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls on Middle East Tensions — The S&P/TSX Composite Index edged down to trade below 35,000 on Monday as reports that Iran will halt communication with the US cast doubt on a ceasefire renewal. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with RBC and TD Bank losing nearly 1%, while CIBC shed close to 2%. Gold prices also declined, weighing on mining shares. Agnico Eagle lost 3.5%, Barrick dropped nearly 3%, and WPM shed almost 4%. Meanwhile, energy stocks advanced as oil prices rallied, with Canadian Natural up nearly 3% and Suncor gaining more than 3%. Shopify also rose almost 2%, supported by optimism around AI-driven growth following Nvidia’s announcement of a new advanced processor for PCs."
-    },
-    {
-      "id": "mkt:019e837b-d8bf-7ccf-b268-c3773383e20b",
-      "time": "2026-06-01 21:59:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures climbed above $94/bbl, up 7.6% intraday."
-    },
-    {
-      "id": "te:markets:555414",
-      "time": "2026-06-01 21:59:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Futures Rebound from 6-Week Low — Gasoline futures in the US jumped more than 4% to above $3.15 per gallon, rebounding sharply from a six-week low of $3.03 reached on May 29, after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating operations in Lebanon. Earlier, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development clouded prospects for an interim peace agreement, even as President Donald Trump said discussions with Tehran would “work out well” despite renewed clashes near the Strait of Hormuz. Supporting prices further, US gasoline inventories fell for a 15th consecutive week in May as refineries operated at high rates using crude from strategic reserves, while some capacity shifted toward producing diesel and jet fuel to address supply concerns."
-    },
-    {
-      "id": "4911019",
-      "time": "2026-06-01 21:59:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4450美元/盎司，日內跌1.99%。"
-    },
-    {
-      "id": "4911018",
-      "time": "2026-06-01 21:57:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麗珠醫藥：重組人促卵泡激素注射液獲得藥品註冊證書】麗珠醫藥公告，控股子公司麗珠單抗收到國家藥監局核准簽發的重組人促卵泡激素注射液藥品註冊證書。該藥品為麗珠單抗自主研發，適應症包括無排卵婦女、輔助生育技術中超排卵的婦女以及嚴重缺乏促黃體激素和促卵泡激素的患者。本品採用重組基因技術生產，注射筆給藥，已完成生物類似藥的臨床Ⅰ至Ⅲ期評價，與原研藥等效。累計研發費用約為1.22億元。"
-    },
-    {
-      "id": "mkt:019e8379-862e-7ccf-b268-bd3dd9ea3fa2",
-      "time": "2026-06-01 21:57:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Stoxx Europe 600 fell more than 1%."
-    },
-    {
-      "id": "4911017",
-      "time": "2026-06-01 21:57:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數現已下跌超1%。"
-    },
-    {
-      "id": "4911016",
-      "time": "2026-06-01 21:57:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "加通貝祥啟動對美國稀土公司的研究覆蓋，給予買入評級，目標價25美元。"
     }
   ]
 }
