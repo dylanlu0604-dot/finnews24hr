@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-08 08:42:14",
-  "count": 19217,
+  "updated": "2026-06-08 08:46:03",
+  "count": 19214,
   "items": [
+    {
+      "id": "4922515",
+      "time": "2026-06-08 08:44:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：將美的集團H股目標價從119.3港元上調至126.3港元，A股目標價從108.5元人民幣上調至114.8元人民幣。"
+    },
+    {
+      "id": "te:markets:557046",
+      "time": "2026-06-08 08:44:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Lower — The Nikkei 225 Index fell more than 3% to below 64,500, while the broader Topix Index declined 2.2% to 3,862 on Monday, marking a third consecutive session of losses for Japanese equities. The downturn mirrored Friday’s sharp selloff on Wall Street, where semiconductor and other technology stocks came under significant pressure. Stronger-than-expected US jobs data also reinforced expectations that the Federal Reserve will raise interest rates this year, driving Treasury yields higher and adding to pressure on equity markets. Meanwhile, geopolitical concerns intensified after Iran launched several rounds of missiles toward Israel as a warning against further military actions in Lebanon, casting doubt on a fragile ceasefire as peace negotiations remain stalled. Japanese chipmakers and other tech firms led the declines, including Kioxia Holdings (-8%), Renesas Electronics (-5.6%), SoftBank Group (-9.3%), Advantest (-5.1%) and Tokyo Electron (-6.1%)."
+    },
+    {
+      "id": "4922514",
+      "time": "2026-06-08 08:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局對舊金山機場實施航班地面延誤管控。"
+    },
+    {
+      "id": "te:markets:557044",
+      "time": "2026-06-08 08:43:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsui Stock Price Hits 20-week Low — Mitsui shares decreased to 4926.00 JPY, the lowest since January 2026. Over the past 4 weeks, Mitsui lost 11.65%, and in the last 12 months, it increased 66.63%."
+    },
+    {
+      "id": "4922513",
+      "time": "2026-06-08 08:41:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價上漲 長期觀點依然樂觀】亞洲早盤金價上漲。現貨黃金上漲0.5%，報每盎司4,349.71美元。大華研究團隊在其第三季度展望報告中指出，在能源價格高企導致通脹風險上升的情況下，隨著美債收益率攀升，金價已從每盎司5,000美元的水平回落。該團隊補充道，隨著投資者權衡高收益環境帶來的更高機會成本，金價可能需要進一步盤整。儘管如此，該行重申對這種貴金屬的長期樂觀看法。大華預計第三季度金價將在每盎司4,600美元左右，第四季度在每盎司4,800美元左右，隨後在明年第一季度升至每盎司5,000美元。"
+    },
+    {
+      "id": "4922512",
+      "time": "2026-06-08 08:41:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【燃油成本上升 多國航司面臨成本危機】第82屆國際航空運輸協會年度大會暨世界航空運輸峰會6日至8日在巴西里約熱內盧舉行，多國航司在年會上表示，美以伊戰事引發中東局勢持續緊張，能源運輸通道受阻，燃油價格大漲特漲，民航公司普遍面臨成本危機。國際航協旗下有370多家航空運營商會員，承載大約85%的全球航空運力，其年度大會是航空業最重要的盛會之一。國際航協原先預測，今年航空業淨利潤將達到創紀錄的410億美元。美以伊戰事爆發後，航空燃油成本大漲，運力隨之萎縮。航空業分析人士說，國際航協預計將在本次大會期間調低今年利潤預測資料。"
+    },
     {
       "id": "4922511",
       "time": "2026-06-08 08:41:31",
@@ -177262,99 +177321,6 @@
         "AI Revolution"
       ],
       "text": "【Tin up 40% in six months as AI drives demand for 'compute metal'】Tin has risen about 40% in six months, from roughly 300,000 yuan/tonne in November to about 420,000 yuan/tonne, trading near historic highs. China remains the world’s largest refined-tin producer and consumer, but falling domestic ore grades mean roughly two-thirds of smelter feedstock is imported. Since last year, supply has tightened after export restrictions and geological disruptions in major producers Myanmar, Indonesia and the Democratic Republic of Congo. Market participants expect elevated tin prices to persist over the next one to two years. Demand is shifting from traditional consumer electronics and tinplate to AI servers, optical modules and advanced semiconductor packaging, lifting overall consumption and prompting mid- and downstream firms to accelerate technology upgrades and move upmarket."
-    },
-    {
-      "id": "mkt:019e80a4-740e-766e-87ad-c8462ec2fb4e",
-      "time": "2026-06-01 08:45:21",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "066570.KS",
-        "035420.KS"
-      ],
-      "text": "South Korea's KOSPI extended gains to 2.5% as Samsung Electronics climbed 5%, LG Electronics jumped 28.8% and Naver rose 11%."
-    },
-    {
-      "id": "4909259",
-      "time": "2026-06-01 08:45:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美債交易員押注美聯儲加息 非農就業資料將成為關鍵考驗】債券交易員關注本週的關鍵就業報告，以確認他們的押注：美國經濟的強勁程度足以推動美聯儲在明年前加息。除了中東局勢的發展之外，另一個重點將是週五釋出的月度就業資料，料將顯示5月勞動力市場依然保持韌性。再加上油價高企、通脹再次加速，這或許會強化市場預期，即美聯儲將在6月宣告中消除寬鬆傾向。這將是美聯儲主席凱文·沃什上任後的首次會議。交易員預計美聯儲將在2027年中期之前加息，甚至更早，這凸顯了伊朗戰爭導致能源價格飆升，並正在顛覆此前市場對沃什上任後將很快降息的預期。據計算，自衝突開始以來，債券收益率的飆升已經使金融環境收緊了相當於美聯儲加息約75基點的程度。"
-    },
-    {
-      "id": "te:economy:555120",
-      "time": "2026-06-01 08:44:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Vietnam Manufacturing Sector at 3-Month High — The S&P Global Vietnam Manufacturing PMI jumped to 52.8 in May 2026, picking up from a seven-month low of 50.5 in the previous month. It marked the highest reading since February, mainly due to a renewed increase in new orders, which expanded at the fastest pace in three months as customers built precautionary inventories amid concerns over a prolonged conflict in the Middle East. The recovery in demand was accompanied by a thirteenth consecutive month of output growth, with production expanding at the quickest pace since February. Meanwhile, input cost inflation quickened to its highest level since April 2011, driven mainly by higher fuel, oil, and transportation expenses. In response, output price inflation was among the strongest seen in the past fifteen years, although the pace of increase eased slightly from April. Looking ahead, business confidence remained relatively subdued, as firms remained wary of the potential long-term repercussions of the conflict in the Middle East."
-    },
-    {
-      "id": "4909258",
-      "time": "2026-06-01 08:44:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀河證券：市場震盪分化加速 科技景氣與產業趨勢未改】銀河證券研報認為，上週（5月25日—5月29日），A股市場震盪調整，主要寬基指數表現分化。全A指數下跌1.72%。A股市場震盪分化加速，科技主線資金分歧加大。從市場層面來看，市場交易擁擠度已處於相對高位，不排除部分資金獲利了結、投資者分歧加大的可能，市場或進入“震盪整固+內部分化”階段。但交易擁擠僅為階段性情緒特徵，並非行情反轉的核心訊號，行情走向仍取決於產業景氣能否持續。本輪交易擁擠度背後，是景氣度向科技、高階製造等方向集中的體現。科技景氣與產業趨勢未改，具備業績支撐的龍頭或將持續受益，有望成為穿越當前高位震盪格局的關鍵抓手。建議採取“科技聚焦+防禦配置”均衡佈局策略。"
-    },
-    {
-      "id": "4909257",
-      "time": "2026-06-01 08:44:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：澳元兌美元料面臨回撥風險】StoneX的Matt Simpson在評論中表示，澳元兌美元可能面臨回撥風險。這位高階市場分析師指出，日線圖上澳元兌美元近期的反彈似乎是修正性的。Simpson表示，除非風險資產出現明顯利好訊息，且[澳大利亞]資料強勁而美國資料較弱，否則他傾向於在週期高點下方逢高做空，預計匯率將回落至0.7000美元。倫敦證券交易所集團資料顯示，澳元下跌0.1%，報0.7177美元。"
-    },
-    {
-      "id": "mkt:019e80a3-835d-766e-87ad-c115ca009f27",
-      "time": "2026-06-01 08:44:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【S. Korean retail borrowing surges; personal loans post largest five-year rise】With the KOSPI repeatedly hitting records, outstanding personal loans at South Korea's five largest banks rose to KRW106.99 tln as of last Thursday (≈$71.0bn), near the Nov 2023 peak of KRW107.72 tln. The increase is concentrated in drawn overdraft lines (locally called negative accounts); drawn balances for these facilities reached KRW41.93 tln, reflecting funds actually withdrawn rather than total available credit."
-    },
-    {
-      "id": "4909256",
-      "time": "2026-06-01 08:43:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寶馬一季度在華銷量銳減：3個月少賣1萬輛，將推本土化新車反擊】2026年第一季度，寶馬在中國市場遭遇挑戰。資料顯示，寶馬今年1-3月交付量僅14.4萬輛，同比下滑10%，較去年同期少賣超過1萬輛。對比往年一季度的歷史峰值，寶馬目前在華的銷量，已整整減少8萬輛，其佔全球銷量的比例，也從峰值的約33.5%降至25.5%左右。銷量下行主要源於持續的價格戰及本土品牌在高階市場的激烈競爭。而寶馬純電車型佔比僅6.6%，處境被動。為扭轉局面，寶馬計劃2026年發動強勁產品攻勢，年內將推出約20款新車，其中專為中國定製的全新世代BMW iX3長軸距版和i3長軸距版是關鍵車型。據悉，寶馬正將產品“定義權”交還本土團隊，新車型將深度適配鴻蒙生態並搭載DeepSeek賦能的語言模型。同時，寶馬還與Momenta合作，開發L2+級全場景領航輔助系統，該系統計劃於2027年底前在多款車型上推出。（21財經）"
-    },
-    {
-      "id": "te:economy:555118",
-      "time": "2026-06-01 08:43:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "South Korea Manufacturing Growth Strongest in Over 5 Years — The S&P Global South Korea Manufacturing PMI rose to 54.8 in May 2026 from 53.6 in April, marking the strongest expansion since March 2021. Output and new orders grew at their fastest pace in around five years, supported by stronger domestic demand and inventory-building efforts as firms sought to guard against rising costs linked to the Middle East war. Production growth also hit a five-year high, while purchasing activity increased at the quickest rate since July 2021. Stronger demand encouraged manufacturers to expand payrolls, with employment rising at the fastest pace since March 2013, while backlogs increased for a fifth straight month. However, delivery times lengthened further amid raw material shortages and disruptions. Input cost inflation remained near April’s record high, driven by higher raw material, oil prices and a weaker currency, while selling-price inflation stayed among the highest in the survey’s history. Lastly, business confidence improved to a three-month high."
-    },
-    {
-      "id": "te:economy:555117",
-      "time": "2026-06-01 08:42:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "Taiwan Factory Growth Steepest Since 2021 — The S&P Global Taiwan Manufacturing PMI rose to 56.1 in May 2026 from 55.3 in April, signaling the strongest expansion since August 2021. The increase was driven by the steepest rise in output since July 2021, supported by stronger demand and stockpiling efforts amid supply disruptions linked to the Middle East conflict. New orders expanded at a joint-fastest pace since July 2021, while export orders continued to rise on stronger demand from the US, Europe, Japan, and China. Purchasing activity increased at the second-fastest rate since November 2021, while supplier delivery times deteriorated the most since March 2022 due to shipping delays and material shortages. Backlogs of work rose sharply, though employment was broadly unchanged. Input cost inflation remained among the strongest on record, prompting firms to raise selling prices further. Meanwhile, business optimism climbed to a two-year high, supported by expectations of stronger demand from the electronics and AI sectors."
     }
   ]
 }
