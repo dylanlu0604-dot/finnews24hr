@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-09 03:33:06",
-  "count": 19223,
+  "updated": "2026-06-09 03:36:48",
+  "count": 19219,
   "items": [
+    {
+      "id": "mkt:019ea8bc-4647-733a-9235-0c3306c61401",
+      "time": "2026-06-09 03:36:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NBC reports NVIDIA (NVDA.O) CEO declined Sen. Warren's invitation to testify at a hearing this week."
+    },
+    {
+      "id": "4924649",
+      "time": "2026-06-09 03:35:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "據NBC： 英偉達CEO黃仁勳拒絕沃倫本週的出庭作證邀請。"
+    },
     {
       "id": "mkt:019ea8b7-76d6-733a-9235-050e93b03deb",
       "time": "2026-06-09 03:30:56",
@@ -177207,65 +177228,6 @@
         "國際"
       ],
       "text": "美國司法部：將遵從法院針對反武器化基金相關裁決。"
-    },
-    {
-      "id": "mkt:019e84b0-1b03-7993-96f9-708a263696f8",
-      "time": "2026-06-02 03:36:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanese presidency says Hezbollah pledges to halt strikes on Israel】The Lebanese presidency said on June 1 that Hezbollah has pledged to halt strikes on Israel. The statement said US president Trump had earlier announced the development and that Trump communicated with Hezbollah via Lebanese president Joseph Aoun and the US ambassador to Lebanon; parties coordinated to secure a ceasefire consensus."
-    },
-    {
-      "id": "mkt:019e84af-ace7-7993-96f9-6b5a1bf93037",
-      "time": "2026-06-02 03:36:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【International oil prices jump on the 1st】At the close, NYMEX July light crude futures rose $4.80 to $92.16/bbl, up 5.49%. ICE Brent August futures rose $3.86 to $94.98/bbl, up 4.24%."
-    },
-    {
-      "id": "4911285",
-      "time": "2026-06-02 03:35:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總統辦公室：真主黨已承諾停止打擊以色列】當地時間6月1日，黎巴嫩總統辦公室發表最新宣告。宣告確認，黎巴嫩真主黨已承諾停止對以色列的打擊。此前，美國總統特朗普也宣佈了這一訊息。宣告還透露了談判的具體細節。在此次停火斡旋中，特朗普透過黎巴嫩總統約瑟夫·奧恩、美國駐黎巴嫩大使與黎巴嫩真主黨展開溝通。各方積極協調，最終促成這一停火共識。"
-    },
-    {
-      "id": "mkt:019e84ae-5daf-7993-96f9-611ad0ea1e80",
-      "time": "2026-06-02 03:34:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Prime Minister Netanyahu said he spoke with President Trump tonight and warned that if Hezbollah does not stop attacking Israeli cities and civilians, Israel will strike targets in Beirut. He said the government’s position remains firm and the Israel Defense Forces will continue planned operations in southern Lebanon."
-    },
-    {
-      "id": "4911284",
-      "time": "2026-06-02 03:33:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：今晚同特朗普通了電話，並告知對方，若真主黨不停止襲擊我方城市與民眾，以色列將打擊貝魯特境內的目標。 我方這一立場堅定不移。 與此同時，以色列國防軍將按原定計劃繼續在黎巴嫩南部開展軍事行動。"
-    },
-    {
-      "id": "4911283",
-      "time": "2026-06-02 03:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價1日大幅上漲】國際油價1日大幅上漲。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲4.80美元，收於每桶92.16美元，漲幅為5.49%；8月交貨的倫敦布倫特原油期貨價格上漲3.86美元，收於每桶94.98美元，漲幅為4.24%。"
     }
   ]
 }
