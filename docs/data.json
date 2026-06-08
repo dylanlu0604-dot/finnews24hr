@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-09 04:59:46",
+  "updated": "2026-06-09 05:03:41",
   "count": 19204,
   "items": [
+    {
+      "id": "4924688",
+      "time": "2026-06-09 05:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令布拉德・庫珀海軍上將今日在華盛頓向眾議院撥款委員會國防小組委員會彙報了美軍在中東的作戰重點。他明日還將向參議院相關委員會進行彙報。此前，其已於上月向參眾兩院軍事委員會作公開簡報。"
+    },
+    {
+      "id": "mkt:019ea90a-b5dd-733a-9235-ea17f1e4d492",
+      "time": "2026-06-09 05:01:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said it activated an air-defense alert after enemy aircraft entered the airspace over Even Menachem and Shomera; the situation is under investigation."
+    },
+    {
+      "id": "4924687",
+      "time": "2026-06-09 05:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：因敵方飛行器侵入埃文・梅納赫姆與肖梅拉空域，已拉響防空警報，目前相關情況正在調查中。"
+    },
+    {
+      "id": "4924686",
+      "time": "2026-06-09 04:59:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列i24新聞臺：以色列北部拉響紅色警報。"
+    },
+    {
+      "id": "mkt:019ea908-f458-733a-9235-e605fcc878dc",
+      "time": "2026-06-09 04:59:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli i24 news reports a red alert has been sounded in northern Israel."
+    },
     {
       "id": "mkt:019ea907-f285-733a-9235-dc2ab6489d1f",
       "time": "2026-06-09 04:58:50",
@@ -177040,48 +177088,6 @@
         "國際"
       ],
       "text": "黎巴嫩議長：我們決心在黎巴嫩各地，特別是南部地區，實現停火。如果伊朗和美國之間達成結束戰爭的協議，將包括停止所有戰線上的攻擊，特別是黎巴嫩。黎巴嫩絕不會忘記伊朗在這個敏感階段所持的積極立場。"
-    },
-    {
-      "id": "4911337",
-      "time": "2026-06-02 05:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯克希爾哈撒韋對Alphabet的投資包括：以每股351.81美元的價格買入50億美元的A類普通股，以及以每股348.20美元的價格買入50億美元的C類資本股。"
-    },
-    {
-      "id": "4911336",
-      "time": "2026-06-02 05:02:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet：計劃將約300億美元市價配售（ATM）募資資金用於清繳2026自然年度應繳稅款。"
-    },
-    {
-      "id": "mkt:019e84fd-d115-7993-96fa-4cf2b4a4f740",
-      "time": "2026-06-02 05:01:27",
-      "tags": [
-        "MKT News",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O) says AI demand has exceeded its current supply capacity; it is facing strong enterprise and consumer demand for AI solutions."
-    },
-    {
-      "id": "4911335",
-      "time": "2026-06-02 05:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國家安全部長本-格維爾：敦促總理內塔尼亞胡拒絕由美國斡旋達成的黎巴嫩停火協議，應持續打擊真主黨，恢復北部地區安全。"
-    },
-    {
-      "id": "4911334",
-      "time": "2026-06-02 04:59:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet融資方案敲定，其中300億美元為承銷公開發行，400億美元為市價增發（ATM）。"
     }
   ]
 }
