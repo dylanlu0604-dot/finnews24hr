@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-08 22:50:17",
-  "count": 19097,
+  "updated": "2026-06-08 22:54:19",
+  "count": 19094,
   "items": [
+    {
+      "id": "mkt:019ea7b9-ad3f-7226-8cb7-0b235dc9ec2d",
+      "time": "2026-06-08 22:53:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources and related notices say the U.S. Commodity Futures Trading Commission (CFTC) has abandoned plans to relocate into offices of the U.S. Securities and Exchange Commission (SEC)."
+    },
+    {
+      "id": "4924394",
+      "time": "2026-06-08 22:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡將於以色列時間下午6點15分向媒體發表宣告。"
+    },
+    {
+      "id": "mkt:019ea7b8-bb5c-7226-8cb7-03e7829fad47",
+      "time": "2026-06-08 22:52:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu will address the media at 18:15 local time (23:15 Beijing time)."
+    },
+    {
+      "id": "4924393",
+      "time": "2026-06-08 22:51:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【城堡證券警告，美聯儲可能很快被迫加息】城堡證券（Citadel Securities）認為，投資者面臨的下一個重大風險是金融環境的收緊，因為美聯儲可能需要“很快”提高利率，以遏制日益加劇的通脹壓力。城堡證券歐洲、中東及非洲地區（EMEA）固定收益銷售主管Nohshad Shah在客戶報告中寫道，龐大的通用人工智慧投資週期、更加緊張的能源市場以及日益強勁的勞動力市場這三者相結合，正在加大經濟增長和通脹的上行風險。“美聯儲的下一步行動最有可能是加息……或許很快就會到來。”"
+    },
+    {
+      "id": "mkt:019ea7b7-9cdd-7226-8cb6-ffe2c346c510",
+      "time": "2026-06-08 22:51:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said Iran has crushed the pattern of a \"paper ceasefire followed by repeated violations\" and warned that, unless there is a genuine willingness to build trust, Iran's response will remain unchanged."
+    },
+    {
+      "id": "4924392",
+      "time": "2026-06-08 22:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：銀行可自行裁量允許存款存滿一年後提前支取，與本行開展的互換交易不得撤銷。"
+    },
+    {
+      "id": "mkt:019ea7b6-5e6c-7226-8cb6-f3f4a26902e3",
+      "time": "2026-06-08 22:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "US New York Fed 1‑year inflation expectations for May to be released in 10 minutes."
+    },
+    {
+      "id": "4924391",
+      "time": "2026-06-08 22:49:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數漲幅擴大至6%，創盤中新高，上週五曾大幅下跌10%。"
+    },
     {
       "id": "4924390",
       "time": "2026-06-08 22:49:05",
@@ -175844,114 +175920,6 @@
         "國際"
       ],
       "text": "【中國電摩出海爆紅】在美國，入門款電三輪的售價僅為皮卡購車成本的十分之一，加上電動車低廉的使用成本，正成為農場主替代皮卡的首選工具。江蘇豐縣是全國最大的電動三輪車生產基地，佔據90%以上的配件市場份額。當地企業攻克扁線電機技術，能耗更低、續航更長、壽命延長2年，成本還能下降10%。在江蘇無錫，多家電動兩輪車生產企業介紹，中國“小電驢”正成為多個國家和地區的熱銷款，多家企業銷量翻倍。國產電摩出海爆紅，是整車以及零部件從產品質量到技術創新的雙重結果。中國海關資料統計，2025年我國電動兩輪車全年出口量超2670萬輛，出口額達68.29億美元，同比穩步攀升。（央視財經）"
-    },
-    {
-      "id": "4911108",
-      "time": "2026-06-01 22:53:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息 ：俄羅斯召見立陶宛臨時代辦。"
-    },
-    {
-      "id": "4911107",
-      "time": "2026-06-01 22:53:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "三位訊息人士稱，石油輸出國組織與夥伴國（OPEC+）很可能會在週日的會議上，將7月的石油產量配額每日上調18.8萬桶。"
-    },
-    {
-      "id": "mkt:019e83ac-e6fb-7552-8901-2533a8637542",
-      "time": "2026-06-01 22:53:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Three sources said OPEC+ is expected to decide at a Sunday meeting to raise July oil production quotas by 188,000 bpd."
-    },
-    {
-      "id": "4911106",
-      "time": "2026-06-01 22:53:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：德國總理默茨將召集各方高層，擬定北約爭取特朗普支援的相關方案，默茨還計劃邀請北約秘書長呂特出席該會議。"
-    },
-    {
-      "id": "4911105",
-      "time": "2026-06-01 22:52:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI遭美佛州總檢察長起訴 理由是“AI產生危害”】隨著各界針對AI聊天機器人安全缺陷的維權追責浪潮不斷升溫，佛羅里達州率先發難，成為美國首個起訴OpenAI及其執行長山姆·奧特曼的州。 佛羅里達州總檢察長詹姆斯·烏思邁爾於週一提起訴訟，指控OpenAI和奧特曼在明知產品存在安全隱患的情況下仍推向市場，並且無視產品可能損害使用者的各類風險警示。 這份長達83頁的訴狀指出，OpenAI放任ChatGPT出現多項有害問題：協助連環槍擊案兇手、誘導使用者自殺、弱化使用者批判性思維，還令未成年人沉迷於這款看似擁有共情能力的人工智慧產品。 訴狀寫明：“被告明知ChatGPT暗藏風險，卻仍貪求在人工智慧行業競賽中搶佔上風、攫取鉅額利潤，由此釀成一系列各類損害後果。” OpenAI暫未就此訴訟發表回應。（環球市場播報）"
-    },
-    {
-      "id": "te:markets:555435",
-      "time": "2026-06-01 22:52:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Quanta Services Stock Price Hits 4-week Low — Quanta Services shares decreased to 690.51 USD, the lowest since April 2026. Over the past 4 weeks, Quanta Services lost 8.7%, and in the last 12 months, it increased 100.12%."
-    },
-    {
-      "id": "4911104",
-      "time": "2026-06-01 22:52:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟氣候事務專員：近期大多數聯合國氣候峰會的成果都不盡如人意。"
-    },
-    {
-      "id": "mkt:019e83ab-63d6-7552-8901-1bbb73432448",
-      "time": "2026-06-01 22:51:47",
-      "tags": [
-        "MKT News",
-        "CRWV.O",
-        "Impact bullish"
-      ],
-      "text": "CoreWeave (CRWV.O) shares rose 14.6 pct. Nebius shares gained 17 pct, hitting a record high."
-    },
-    {
-      "id": "mkt:019e83aa-2bc1-7552-8901-1279a53efc9f",
-      "time": "2026-06-01 22:50:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Hezbollah said its forces launched a rocket strike at a gathering point of Israeli military vehicles and troops on the southern outskirts of Dabbin at 10:00 a.m. on Monday, June 1, 2026."
-    },
-    {
-      "id": "mkt:019e83aa-1c1b-7552-8901-0a0262c810d0",
-      "time": "2026-06-01 22:50:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Florida governor sues OpenAI over safety risks】Florida has become the first U.S. state to sue OpenAI and CEO Sam Altman amid escalating protests over alleged AI chatbot safety defects, the Wall Street Journal reports. The lawsuit, filed on Monday by Florida authorities, alleges OpenAI and Altman knew the product had safety flaws and failed to warn users of potential harm."
-    },
-    {
-      "id": "4911103",
-      "time": "2026-06-01 22:50:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "CoreWeave股價上漲14.6%，Nebius股價攀升17%，創下歷史新高。"
     }
   ]
 }
