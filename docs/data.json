@@ -1,7 +1,241 @@
 {
-  "updated": "2026-06-08 09:32:39",
-  "count": 19257,
+  "updated": "2026-06-08 09:36:35",
+  "count": 19255,
   "items": [
+    {
+      "id": "te:markets:557072",
+      "time": "2026-06-08 09:35:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Hit Near 3-Week High — European natural gas jumped more than 3% to around €50 per MWh, the highest in nearly three weeks, after Iran fired missiles at Israel, diminishing hopes for a resolution to the conflict. The attack followed Israeli strikes in Beirut, with Iran warning of further attacks if Israel expands its military operations in Lebanon or retaliates against Iran’s actions. Israel reportedly intercepted all missiles fired in the three Iranian barrages so far. President Donald Trump said the US was close to reaching a final agreement with Iran but cautioned that escalating hostilities could jeopardize ongoing diplomatic efforts. The lack of clear progress in negotiations, coupled with rising regional tensions, has heightened fears that disruptions to energy shipments through the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter."
+    },
+    {
+      "id": "4922648",
+      "time": "2026-06-08 09:35:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養雞板塊拉昇，湘佳股份漲停】養雞板塊拉昇，湘佳股份漲停，曉鳴股份漲超10%，民和股份、益生股份、立華股份、仙壇股份、京基智農跟漲。相關ETF方面，養殖ETF匯添富（159172）漲0.89%，成交額89.84萬元。"
+    },
+    {
+      "id": "4922647",
+      "time": "2026-06-08 09:35:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新股N彩客漲超236% 觸發臨停】早盤新股N彩客漲幅擴大至236%，觸發臨停，成交超1.3億元。資料顯示，公司專門從事精細化工產品研發、生產和銷售，現有主要產品包括DMSS、DATA、DMAS、DMS等。"
+    },
+    {
+      "id": "4922646",
+      "time": "2026-06-08 09:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓股指跌1%。"
+    },
+    {
+      "id": "4922645",
+      "time": "2026-06-08 09:34:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內漲5%，現報1857.00元。"
+    },
+    {
+      "id": "4922644",
+      "time": "2026-06-08 09:34:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升4.5個基點，至2.710%。"
+    },
+    {
+      "id": "mkt:019ea4de-3667-7ee0-94c7-415281f55700",
+      "time": "2026-06-08 09:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine benchmark stock index fell 1%."
+    },
+    {
+      "id": "4922643",
+      "time": "2026-06-08 09:34:43",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債跌幅擴大 油價上漲加劇通脹擔憂】美債繼續下跌，油價上漲加劇通脹擔憂，並推升市場對美聯儲加息的預期。2年期國債收益率上漲4個基點至4.19%。5年期國債收益率上升5個基點至4.31%。10年期國債收益率上漲4個基點至4.57%，30年期國債收益率上漲3個基點至5.03%。"
+    },
+    {
+      "id": "mkt:019ea4de-23a7-7ee0-94c7-3e40941c4092",
+      "time": "2026-06-08 09:34:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 10-year government bond yield rose 4.5 bps to 2.710%."
+    },
+    {
+      "id": "mkt:019ea4de-1022-7ee0-94c7-318179104499",
+      "time": "2026-06-08 09:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N Caike shares surged 236.86%, triggering an intraday trading halt."
+    },
+    {
+      "id": "4922642",
+      "time": "2026-06-08 09:34:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4922641",
+      "time": "2026-06-08 09:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "江波龍跌近7%。"
+    },
+    {
+      "id": "te:markets:557069",
+      "time": "2026-06-08 09:33:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slump on Tech Selloff — The benchmark KOSPI declined 8% to around 7,500 on Monday, extending losses for a third straight session to an over two-week low, as a sharp selloff in global technology stocks and renewed geopolitical tensions fueled risk aversion. Sentiment was pressured by heavy losses on Wall Street, where semiconductor shares led a broad market decline following stronger-than-expected US jobs data that reinforced concerns the Federal Reserve may keep interest rates higher for longer. Additional pressure came from escalating Middle East tensions after reports that Iran launched missiles at Israel, raising fears that a fragile ceasefire could unravel. Samsung Electronics (-8.1%) and SK hynix (-3.9%) led the retreat, alongside SK Square (-8.0%), Hyundai Motor (-8.9%), and LG Energy Solution (-5.7%). However, Nvidia announced a multi-year AI partnership with SK hynix and expanded AI ties in Korea, reinforcing expectations for sustained demand for advanced memory chips."
+    },
+    {
+      "id": "4922640",
+      "time": "2026-06-08 09:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【怡亞通：目前與英特爾無實際業務往來 後續的分銷相關業務仍存不確定性】怡亞通6月4日在其微信公眾號釋出了一篇《重磅｜怡亞通正式成為英特爾2026解決方案聚合商》快訊，主要內容為公司獲評“英特爾2026官方解決方案聚合商”,依託合作資質，公司分銷英特爾晶片及英特爾體系下OEM、ODM定製成品。對此，公司6月8日早間公告就該文章內容的有關事項補充說明並作出風險提示。"
+    },
+    {
+      "id": "mkt:019ea4dc-ed35-7221-bb31-7d5ca8c7d635",
+      "time": "2026-06-08 09:33:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI and Brent crude rise more than $4 intraday】Brent crude rose $4.01 to $96.04/bbl, up 4.35% intraday. WTI rose $4.04 to $95.77/bbl, up 4.40% intraday."
+    },
+    {
+      "id": "mkt:019ea4dc-ed34-7221-bb31-7670bb26ecc4",
+      "time": "2026-06-08 09:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jiangbolong shares fell nearly 7% after deputy general manager Zhu Yu proposed to reduce holdings by up to 598,400 shares."
+    },
+    {
+      "id": "4922639",
+      "time": "2026-06-08 09:33:07",
+      "tags": [],
+      "text": "滬指失守4000點，跌1.3％，深證成指跌2％，創業板指跌2.3％。科創50日內跌幅達3.5％。"
+    },
+    {
+      "id": "4922638",
+      "time": "2026-06-08 09:33:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.5%至31.633。"
+    },
+    {
+      "id": "4922637",
+      "time": "2026-06-08 09:33:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.54%，成分股中，同惠電子跌4.57%，曙光數創跌4.36%，並行科技跌4.13%，則成電子跌3.66%。"
+    },
+    {
+      "id": "4922636",
+      "time": "2026-06-08 09:32:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利稱，各項資料表明大中華半導體行業前景更加強勁，近期股價的波動應當為一個良好的買入契機。"
+    },
+    {
+      "id": "mkt:019ea4dc-90df-7221-bb31-6c75db700f65",
+      "time": "2026-06-08 09:32:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China oil-related futures main contracts rose intraday. Front-month SC crude futures gained 1.80% to 605.9 yuan/barrel; low-sulfur fuel oil (LU) rose 2.95% to 4,883 yuan/ton; fuel oil up 2.84% to 3,946 yuan/ton; asphalt up 2.33% to 4,437 yuan/ton."
+    },
+    {
+      "id": "4922635",
+      "time": "2026-06-08 09:32:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：分攤營業利潤份額可能削弱國家競爭力。"
+    },
+    {
+      "id": "4922634",
+      "time": "2026-06-08 09:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：對超額利潤分配相關討論必須持謹慎態度。"
+    },
+    {
+      "id": "4922633",
+      "time": "2026-06-08 09:32:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "國家預警釋出：據中國地震臺網正式測定，2026年06月08日08時55分（北京時間），菲律賓棉蘭老島海域（5.45°N,125.30°E）發生6.6級地震，震源深度為60千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。"
+    },
+    {
+      "id": "mkt:019ea4dc-2e28-7221-bb31-6621d29e0cd4",
+      "time": "2026-06-08 09:32:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share oil and gas exploration and services sector rallied in early trade; Keli Co. rose more than 10%, with Tongyuan Petroleum, Qianneng Hengxin, Shouhua Gas, Zhongman Petroleum and Lanyan Holdings also higher."
+    },
     {
       "id": "4922632",
       "time": "2026-06-08 09:32:04",
@@ -177448,261 +177682,6 @@
         "公司"
       ],
       "text": "半導體產業鏈延續調整，長光華芯跌超10%，東芯股份、賽微電子、燕東微、炬光科技、盛美上海、中微公司等十餘股跌超5%。"
-    },
-    {
-      "id": "4909358",
-      "time": "2026-06-01 09:36:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "合鍛智慧漲停走出4連板，4天累計漲幅達46.42%。"
-    },
-    {
-      "id": "mkt:019e80d3-133e-766e-87af-616c712f2fe5",
-      "time": "2026-06-01 09:36:10",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia May seasonally adjusted ANZ total job ads YoY +2.0%; prior -1.4%."
-    },
-    {
-      "id": "mkt:019e80d2-f5a7-766e-87af-5b6364c5ecff",
-      "time": "2026-06-01 09:36:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (May) | actual 2% | previous -1.4%"
-    },
-    {
-      "id": "4909357",
-      "time": "2026-06-01 09:35:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技部部長陰和俊：建設智慧化科研平臺系統 加快推動人工智慧賦能科學研究落地應用】科學技術部部長陰和俊在《求是》雜誌發文指出，持續加強基礎研究，加快取得一批能夠引領未來產業發展的重大原創性成果。基礎研究是整個科學體系的源頭，是所有技術問題的總機關。面對我國原始創新能力相對薄弱的突出問題，要以更大力度、更實舉措加強基礎研究，全面提升引領未來產業發展的科技策源力。強化基礎研究戰略性、前瞻性、體系化佈局，進一步明確基礎研究的主攻方向和重點領域。加大基礎研究投入，逐步提高基礎研究經費佔比，加快形成多元化投入格局。健全符合基礎研究特點的分類評價體系，營造開放包容、寬容失敗的創新環境。建設智慧化科研平臺系統，加快推動人工智慧賦能科學研究落地應用。"
-    },
-    {
-      "id": "4909356",
-      "time": "2026-06-01 09:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【釜山亞運會主體育場將舉行大型活動，中國駐釜山總領館釋出安全提醒】6月12日至13日，釜山亞運會主體育場將舉行大型活動，預計將有數萬人前往。同期廣安裡、海雲臺等地區將有活動同步舉行。韓國釜山地方政府及警方已強化安保警備力量，啟動管控預案。（中國駐釜山總領事館）"
-    },
-    {
-      "id": "mkt:019e80d2-b857-766e-87af-52138b9b5f7d",
-      "time": "2026-06-01 09:35:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China coking coal most-active futures contract rose 4.00% intraday to 1,336.50 yuan/ton."
-    },
-    {
-      "id": "mkt:019e80d2-736e-766e-87af-4a82fa5f4240",
-      "time": "2026-06-01 09:35:36",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component",
-        "Hang Seng Index"
-      ],
-      "text": "China's STAR 50 Index extended losses to 2%, trading at 1,715.63 points."
-    },
-    {
-      "id": "4909355",
-      "time": "2026-06-01 09:35:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲4%，現報1336.50元。"
-    },
-    {
-      "id": "mkt:019e80d2-4044-766e-87af-45e3455af09b",
-      "time": "2026-06-01 09:35:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Small-cash allocation: 7-day annualized yield snapshot】Tencent's Licaitong (current+) 7-day annualized yield ranged 0.7750%–1.3190%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 1.0020%–1.4100%. Alipay's Yu’e Bao 7-day annualized yield ranged 1.0010%–1.0400%."
-    },
-    {
-      "id": "4909354",
-      "time": "2026-06-01 09:35:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "mkt:019e80d2-0056-766e-87af-3d01d8eb5541",
-      "time": "2026-06-01 09:35:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "Copper"
-      ],
-      "text": "China's May RatingDog manufacturing PMI due in 10 minutes."
-    },
-    {
-      "id": "mkt:019e80d1-e419-766e-87af-30599a424b2c",
-      "time": "2026-06-01 09:34:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanxi starts flood season at 08:00】China’s Shanxi province formally began its flood season at 08:00 today, the provincial water resources department said. Forecasts place Shanxi within the northern rainy zone this year, with overall climate anomalies, more frequent extreme weather and elevated disaster risk. Provincial seasonal rainfall is expected slightly above normal, with flood risk exceeding drought and alternating wet‑dry conditions. Significant floods are possible on the Fen and Qin rivers in the Yellow River midstream and on the Sanggan, Hutuo and Zhang rivers in the Hai River basin; localized severe flooding may occur."
-    },
-    {
-      "id": "mkt:019e80d1-d4e4-766e-87af-2d49cfec8f26",
-      "time": "2026-06-01 09:34:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "MSCI Asia Pacific index rose over 1% intraday; Philippine stock index gained 1.4%."
-    },
-    {
-      "id": "4909353",
-      "time": "2026-06-01 09:34:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.08%，成分股中，拓荊科技跌5.73%，華大智造跌5.25%，生益電子跌4.95%，滬矽產業跌4.95%。"
-    },
-    {
-      "id": "mkt:019e80d1-61c9-766e-87af-234943cf3f53",
-      "time": "2026-06-01 09:34:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share military electronics sector briefly rallied; Torch Electronics hit the daily limit up. Hongyuan Electronics, Zhenhua Technology, Hongda Electronics, Hongming Electronics and Chengdian Guangxin also rose."
-    },
-    {
-      "id": "4909352",
-      "time": "2026-06-01 09:34:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陰和俊：持續推進概念驗證、中試驗證平臺等建設 打造一批未來產業重大應用場景】科學技術部部長陰和俊在《求是》雜誌發文指出，最佳化科技創新政策供給和精準支援，營造支撐未來產業發展的創新生態。未來產業培育週期長、市場風險大，需要政府做好服務，精準提供政策支援。要加快重大科技成果高效轉化應用，持續推進概念驗證、中試驗證平臺等建設，打造一批未來產業重大應用場景。建立健全一體推進教育科技人才發展協調機制，建設一批高水平科研平臺和人才培養基地。完善財稅等政策，大力發展科技金融，加大對未來產業的投入。著力完善市場準入、公平競爭等政策，強化科技法治、科技倫理、科研誠信、科技安全建設，加強智慧財產權保護。積極探索新技術應用的“沙盒監管”、觸發式監管等新監管方式。"
-    },
-    {
-      "id": "4909351",
-      "time": "2026-06-01 09:34:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【科技部部長陰和俊：深入落實企業科技創新主體地位 推動企業真正成為未來產業發展的主導力量】科學技術部部長陰和俊在《求是》雜誌發文指出，深入落實企業科技創新主體地位，推動企業真正成為未來產業發展的主導力量。企業具有連線科技、市場、產業的天然屬性，是產業發展的基本單元和創新創造的主力軍，很多未來產業的興起是靠企業一步步突破帶動的。面對我國高水平科技領軍企業不多、科技創新能力不足等問題，要加強企業主導的產學研融合，支援企業牽頭組建創新聯合體，促進產業鏈上下游融通創新。培育壯大一批科技領軍企業，梯度培育支撐未來產業發展的各型別企業。加快完善同科技創新相適應的科技金融體制，加強對科技型中小企業的金融支援，鼓勵長期資本投早、投小、投長期、投硬科技。"
-    },
-    {
-      "id": "4909350",
-      "time": "2026-06-01 09:34:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軍工電子板塊短線拉昇，火炬電子漲停】軍工電子板塊短線拉昇，火炬電子漲停，鴻遠電子、振華科技、宏達電子、宏明電子、成電光信等紛紛走高。相關ETF方面，軍工ETF易方達（512560）成交額332.11萬元，軍工龍頭ETF富國（512710）成交額2010.85萬元。"
-    },
-    {
-      "id": "4909349",
-      "time": "2026-06-01 09:34:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.09%，成分股中，貝特瑞漲6.62%，戈碧迦漲5.12%，諾思蘭德漲4.75%，則成電子漲3.93%。"
-    },
-    {
-      "id": "4909348",
-      "time": "2026-06-01 09:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列高官聲稱要將黎巴嫩一地區“夷為平地”】當地時間5月30日，以色列國家安全部長、極右翼政治人士本-格維爾在以色列北部邊境城鎮什圖拉表示，他反對之前的停火協議，並聲稱要將位於黎巴嫩首都貝魯特南部的達希耶地區“夷為平地”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e80d0-dd8b-766e-87af-1d16594bd00d",
-      "time": "2026-06-01 09:33:52",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Science Minister Yin Hejun: deepen enterprises' role as primary tech innovators, make firms lead future industry development】In a Qiushi article, Science Minister Yin Hejun urged deepening the role of enterprises as China’s primary agents of technological innovation and making firms the driving force behind future industry development. He said enterprises naturally connect science, market and industry and called for stronger enterprise-led industry–university–research integration, support for firms to form innovation consortia, and greater upstream–downstream industry‑chain integration. He asked authorities to cultivate and scale a cohort of technology-leading firms and to tier the development of companies that will underpin future industries. On finance, he urged accelerating a tech‑finance framework aligned with innovation, boosting financial support for tech SMEs, and encouraging long‑term capital to invest earlier, in smaller tickets, for longer durations and into hard tech."
-    },
-    {
-      "id": "mkt:019e80d0-a195-766e-87af-1720ef194b8b",
-      "time": "2026-06-01 09:33:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share power sector active; Jiangsu Guoxin posted a second consecutive limit-up, Guangdong Power A and Jinkong Power hit limit-up; Shennan Power A, Huaneng Inner Mongolia Power, Huadian Energy and China Three Gorges Energy also rose."
-    },
-    {
-      "id": "4909347",
-      "time": "2026-06-01 09:33:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京人工智慧產投基金入股太空算力創企軌道辰光】企查查APP顯示，近日，北京軌道辰光科技有限公司發生工商變更，新增北京市人工智慧產業投資基金（有限合夥）、北京市商業航天和低空經濟產業投資基金（有限合夥）等為股東，同時註冊資本增至954.1萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：衛星技術綜合應用系統整合；衛星導航服務；微小衛星生產製造；微小衛星科研試驗等。公開資訊顯示，軌道辰光是一家太空算力初創企業。"
-    },
-    {
-      "id": "4909346",
-      "time": "2026-06-01 09:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山西今起正式上汛 多措並舉築牢防汛安全防線】記者從山西省水利廳獲悉，今天（6月1日）8時起，山西全省正式上汛。據預測，今年山西屬北方多雨區影響範圍，氣候年景總體偏差，極端天氣多發頻發，災害風險偏高。汛期全省降水量較常年略偏多，呈現澇重於旱、旱澇交替的特點。黃河中游汾河、沁河，海河流域桑乾河、滹沱河、漳河可能發生較大洪水，區域性區域可能發生較重汛情。（央視新聞）"
-    },
-    {
-      "id": "4909345",
-      "time": "2026-06-01 09:33:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓元跌幅擴大至0.7%，表現遜於新興亞洲貨幣。"
-    },
-    {
-      "id": "mkt:019e80d0-2cf5-766e-87af-0cdc9bb1f6ff",
-      "time": "2026-06-01 09:33:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yin Hejun urges build-out of proof-of-concept and pilot-testing platforms to deliver major future-industry application scenarios】Science and Technology Minister Yin Hejun wrote in Qiushi that Chinese authorities will intensify targeted policy support for future industries, accelerate conversion of major scientific achievements into applications, and continue building proof-of-concept and pilot-testing platforms to create a batch of major application scenarios. He called for a coordinated education–science–talent development mechanism, construction of high-level research platforms and talent bases, improved fiscal and tax measures, and expansion of technology finance to raise investment in future industries. He also urged tighter market-access and fair-competition rules, stronger tech rule of law, research integrity, technology security and IP protection, and pilot use of regulatory sandboxes and trigger-based oversight for new-technology applications."
-    },
-    {
-      "id": "4909344",
-      "time": "2026-06-01 09:32:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1%至280.47點。"
     }
   ]
 }
