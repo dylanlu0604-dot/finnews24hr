@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-08 15:17:23",
-  "count": 19335,
+  "updated": "2026-06-08 15:21:19",
+  "count": 19330,
   "items": [
+    {
+      "id": "4923317",
+      "time": "2026-06-08 15:18:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，其已對克里米亞地區的多處油庫發動打擊。"
+    },
+    {
+      "id": "mkt:019ea618-f2f5-7ff4-a542-1bc4e39c2c40",
+      "time": "2026-06-08 15:18:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Guangdong vehicles \"southbound\" scheme to expand provincewide; inbound daily quota raised to 200】Hong Kong and Guangdong governments agreed to expand the \"Guangdong vehicles southbound\" scheme to all of Guangdong, first rolling out mid-year to all nine mainland Greater Bay Area cities—adding Shenzhen, Foshan, Dongguan, Huizhou and Zhaoqing. Daily appointment slots for inbound urban travel will increase from 100 to 200 vehicles; each vehicle may remain in Hong Kong for up to three days. Authorities will also launch an \"Easy Park Travel\" service for border port car parks."
+    },
+    {
+      "id": "4923316",
+      "time": "2026-06-08 15:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵車南下將擴充套件至廣東全省】香港特區政府今日（8日）公佈“粵車南下”的擴充套件安排。經考慮口岸運作、整體道路交通情況、用家的反應和市民適應程度，粵、港政府同意逐步擴充套件“粵車南下”至全廣東省，先在今年年中推廣至粵港澳大灣區全部九個內地城市（即新增深圳、佛山、東莞、惠州和肇慶），入境市區部分的每天預約出行名額由100輛提升至200輛（維持每車留港最多三天），並推出口岸停車場的“易泊遊”服務。 特區政府運輸及物流局局長陳美寶衷心感謝中央及廣東省政府一直以來的大力支援，共同穩步推進“粵車南下”。陳美寶表示，特區政府會繼續按照確保安全、有效分流、完備配套和簡便申請的策略推進“粵車南下”，讓更多內地城市的客群包括消費力更高的個人和家庭來港，助力帶動香港經濟增長，促進粵港融合發展邁向新臺階。"
+    },
+    {
+      "id": "mkt:019ea617-ec3c-7ff4-a542-1031443daa1a",
+      "time": "2026-06-08 15:17:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian military says it has struck fuel depots in Russian-occupied Crimea."
+    },
+    {
+      "id": "mkt:019ea617-7c84-7cc3-8414-e1483206cb4a",
+      "time": "2026-06-08 15:16:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said the United States orchestrated the events and is responsible for the renewed escalation in tensions."
+    },
+    {
+      "id": "4923315",
+      "time": "2026-06-08 15:16:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克推動解除民兵組織武裝】美以伊戰事爆發以來，中東地區安全域性勢持續動盪。伊拉克作為美國在中東地區重要軍事部署所在地以及伊朗、美國等外部力量長期角逐的樞紐地區，持續受到衝突外溢效應衝擊。部分支援伊朗的什葉派民兵武裝多次針對伊拉克境內美方目標發動襲擊，引發各界對該國重燃戰火的擔憂。伊拉克武裝部隊總司令發言人薩巴赫·努曼日前表示，伊拉克總理扎伊迪已下令批准成立中央高階委員會，推動解除民兵組織武裝並結束其武裝活動。一些反美、反以武裝活動中活躍的民兵組織公開回應拒絕解除武裝，他們強調，在外國部隊仍駐留在伊拉克的情況下，不會放棄手中武器。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4923314",
+      "time": "2026-06-08 15:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據亞美尼亞中央選舉委員會8日公佈的初步計票結果，目前已經完成全部2005個投票站的票數統計，現任總理帕什尼揚領導的公民合約黨獲得超過72.7萬張選票，得票率49.81%，排名第一。（新華社）"
+    },
+    {
+      "id": "mkt:019ea617-044b-7cc3-8414-df2166a28d9d",
+      "time": "2026-06-08 15:16:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "STOXX Europe 50"
+      ],
+      "text": "Europe equities opened lower on June 8 (Mon): Germany's DAX 30 down 338.72 pts (-1.37%) at 24,435.00; UK's FTSE 100 down 39.80 pts (-0.38%) at 10,328.25; France's CAC 40 down 75.46 pts (-0.92%) at 8,142.78; STOXX Europe 50 down 64.51 pts (-1.06%) at 5,997.56; Spain's IBEX 35 down 137.20 pts (-0.75%) at 18,207.70; Italy's FTSE MIB down 135.55 pts (-0.27%) at 49,757.50."
+    },
+    {
+      "id": "mkt:019ea616-f4a8-7cc3-8414-d658e79dd806",
+      "time": "2026-06-08 15:16:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian Foreign Ministry spokesperson BAGHAEI said the United States bears direct responsibility for recent breaches of the ceasefire agreement and that Israel's actions cannot be decoupled from U.S. policy."
+    },
     {
       "id": "4923313",
       "time": "2026-06-08 15:16:16",
@@ -18,6 +116,16 @@
         "其他"
       ],
       "text": "【聯泓格潤5萬噸級PPC裝置成功投產】據吉林釋出，2026年5月29日，在長春應化所自主研發的超臨界聚合工業化技術支撐下，全球最大單套聚碳酸亞丙酯（PPC）產業化裝置——聯泓格潤5萬噸/年專案成功投產。這標誌著歷時二十餘年攻關的CO₂基塑膠研究成果實現了從小試、中試到5萬噸級工業裝置的全鏈條技術跨越。填補了全球5萬噸級PPC工業化裝置空白，標誌我國二氧化碳基生物可降解材料正式邁入規模化量產新階段。"
+    },
+    {
+      "id": "mkt:019ea616-df79-7cc3-8414-cf009d8e57aa",
+      "time": "2026-06-08 15:16:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures midday close: 2-year (TS) main contract down 0.01%, 5-year (TF) down 0.07%, 10-year (T) down 0.10%, 30-year (TL) down 0.25%."
     },
     {
       "id": "te:markets:557182",
@@ -39,6 +147,16 @@
         "國際"
       ],
       "text": "伊朗外交部發言人表示，美國對近期違反停火的行為負有直接責任，以色列的所作所為與美國的政策不可分割。"
+    },
+    {
+      "id": "mkt:019ea615-c580-7cc3-8414-c66d3f5015ce",
+      "time": "2026-06-08 15:15:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP strategists raised their year-end target for the S&P 500 to 8,100 from 7,700."
     },
     {
       "id": "4923310",
@@ -64,6 +182,31 @@
         "國際"
       ],
       "text": "拉脫維亞軍方發言人表示，至少有一架無人機從俄羅斯進入拉脫維亞領空。"
+    },
+    {
+      "id": "mkt:019ea614-63b8-7ff4-a542-0ebefb73d957",
+      "time": "2026-06-08 15:13:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "A Latvian military spokesman said at least one drone entered Latvian airspace from Russia."
+    },
+    {
+      "id": "mkt:019ea613-c161-7ff4-a542-00e794908bf1",
+      "time": "2026-06-08 15:12:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Smotrich urges Israel to target Lebanon rather than Iran】N12 reported Finance Minister Bezalel Smotrich will urge the security cabinet to focus Israeli responses on Lebanon instead of Iran, arguing that whenever Iran fires a missile Israel should destroy dozens of buildings in Beirut’s Dahieh district. He said such strikes would be easier and more effective, pressuring Hezbollah to force Iran to stop while preserving Israel’s option to carry out larger strikes on Iran if necessary."
     },
     {
       "id": "4923306",
@@ -178082,178 +178225,6 @@
         "MKT News"
       ],
       "text": "Israeli broadcaster i24News reports a Knesset committee passed a bill in its first reading to dissolve the Knesset; the measure will go to a plenary vote tonight."
-    },
-    {
-      "id": "4909941",
-      "time": "2026-06-01 15:21:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲能源股上漲，石油前景繼續令投資者擔憂】隨著油價走高，歐洲能源股在開盤交易中上漲。Hargreaves Lansdown的Matt Britzman寫道，在美國和伊朗談判取得突破的希望面臨新的不確定性之際，石油繼續令投資者擔憂。兩國在週末再次交鋒，美國攻擊了其所稱的防空雷達和無人機基地。這推動布倫特原油期貨上漲近3%，至每桶93.82美元，西得州中質油上漲3.2%，至每桶90.12美元。在倫敦市場，殼牌上漲1.1%，英國石油公司上漲0.7%，Harbour Energy上漲2.2%。法國道達爾能源、西班牙睿爍能源和義大利埃尼均上漲約1%。"
-    },
-    {
-      "id": "te:markets:555263",
-      "time": "2026-06-01 15:21:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Iron Ore Slides to Six-Week Low — Iron ore futures fell below CNY 780 per ton, reaching their lowest level in six weeks as abundant global supplies continued to outweigh weakening demand conditions. Industry data indicated that shipments from Australia and Brazil remained close to a two-year high, while iron ore stockpiles at Chinese ports stayed elevated, reinforcing concerns about oversupply. On the demand side, recent figures showed that blast furnace utilization rates in China were unchanged from the previous week, while profitability among steel mills declined to 62.3%, pointing to softer industry conditions. Meanwhile, a fatal accident at a steelmaking coal mine in China’s Shanxi province is expected to disrupt production in the near term, potentially raising input costs for steelmakers, power producers, and chemical manufacturers. Separately, electrical workers at BHP’s Port Hedland bulk export terminal in Western Australia have threatened strike action before the financial year ends on June 30."
-    },
-    {
-      "id": "mkt:019e820e-94c1-766b-8632-a9eb7ddc096d",
-      "time": "2026-06-01 15:20:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran foreign ministry spokesperson BAGHAEI said US and Israeli actions in Lebanon have eroded trust and shown shifting positions, delaying the diplomatic process."
-    },
-    {
-      "id": "mkt:019e820e-8125-766b-8632-a1231d957062",
-      "time": "2026-06-01 15:20:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi said dialogue and information exchange between Tehran and Washington are ongoing."
-    },
-    {
-      "id": "mkt:019e820e-71e8-766b-8632-9fe19a769063",
-      "time": "2026-06-01 15:20:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA STATE PLANNER issues trial guidelines to standardize non-fossil power consumption accounting at province, city and user levels】CHINA STATE PLANNER and other agencies published the Guidelines for Accounting of Non-fossil Energy Power Consumption (trial), strengthening alignment with energy statistics and carbon emissions accounting. The rules classify recognition criteria and set accounting methods for provinces, cities and power users, explicitly considering physical grid connection, electricity transaction volumes, and green-certificate/green-power trades. Authorities will coordinate the rollout with power-market and green-certificate market development and move cautiously from electricity-transaction-only accounting to a parallel framework of electricity transactions and green-certificate transactions. Accounting will be annual during the trial, with later study of shorter accounting cycles."
-    },
-    {
-      "id": "4909940",
-      "time": "2026-06-01 15:20:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃表示，信任缺失、美國立場反覆無常，以及以色列在黎巴嫩採取的行動，導致外交程序陷入停滯。"
-    },
-    {
-      "id": "4909939",
-      "time": "2026-06-01 15:20:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗表示，有關霍爾木茲海峽的新安排並非臨時性的。"
-    },
-    {
-      "id": "4909938",
-      "time": "2026-06-01 15:20:06",
-      "tags": [
-        "宏觀",
-        "行業",
-        "焦點"
-      ],
-      "text": "【國家發改委等部門：分類明確 非化石能源電力消費認定規則和省、市兩級、電力使用者核算方法】國家發展改革委等部門關於印發《非化石能源電力消費核算指南（試行）》的通知，加強與能源統計、碳排放核算等制度銜接，統籌考慮物理連線、電能量交易、綠證綠電交易等因素，分類明確非化石能源電力消費認定規則和省、市兩級、電力使用者核算方法。結合電力市場、綠證市場等建設，穩妥有序推動核算規則由以電能量交易為基礎向電能量交易與綠證交易並行轉變。試行過程中按年核算，後續研究探索縮短核算週期。"
-    },
-    {
-      "id": "te:economy:555260",
-      "time": "2026-06-01 15:20:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Swiss GDP Growth Revised Down — Switzerland’s gross domestic product expanded 0.4% quarter-on-quarter in the three months to March 2026, less than initial estimates of 0.5%. Industrial output increased 1.3%, led by manufacturing (+1.5%). On the other hand, the chemical and pharmaceutical industry contracted (-3.4%) as exports of these products fell sharply, contributing to a 2.2% decline in overall goods exports. Services grew just 0.2%, with mixed performance across sectors. Transport (+1.9%) and financial services (+1.3%) supported growth, helped by stronger interest and commission income. In contrast, trade fell 0.8%, including a 1.3% decline in retail activity. Accommodation and food services also weakened (-0.6%) due to fewer overnight stays. Services exports rose only 0.5%. Domestic final demand increased just 0.1%. Government spending grew strongly (+0.9%), but both equipment investment (-0.2%) and construction investment (-0.2%) declined. Imports fell 2.4%, reflecting weak domestic demand."
-    },
-    {
-      "id": "4909937",
-      "time": "2026-06-01 15:20:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛健委：全面提升兒童用藥保障水平】國家衛生健康委今天舉行新聞釋出會，介紹我國兒童用藥有關情況。據瞭解，2014年《關於保障兒童用藥的若干意見》實施以來，兒童用藥供應保障水平不斷提升，但仍存在一些亟待解決的突出問題：一是兒童用藥品種少，缺乏兒童適宜的劑型和規格。二是上市藥品說明書中仍存在兒童用藥資訊缺乏、不規範等問題。三是企業研發、生產積極性未被有效激發。四是臨床必需但用量較少的兒童用藥供應保障能力仍顯不足。為更好解決這些問題，2026年5月，國家衛生健康委員會同相關部門印發《關於改革完善兒童用藥供應保障機制的實施意見》，提出覆蓋兒童用藥研發、生產、供應、使用、支付、監管等全鏈條的16條舉措。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e820d-5162-766b-8632-93ebb99852ac",
-      "time": "2026-06-01 15:19:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Banque de France to cut 2026 growth forecast as Q1 contracts, Middle East tensions persist】Outgoing Banque de France governor Villeroy said the bank will lower its 2026 growth forecast later this month after a disappointing start to the year and ongoing Middle East tensions. The bank will publish multiple scenario forecasts reflecting high uncertainty; the 2026 projection will be revised down from March but remains positive in most scenarios. Revised data last week showed an unexpected Q1 contraction, and indicators suggest rising oil prices are weighing on activity and confidence, raising concerns about France's resilience to a war involving Iran."
-    },
-    {
-      "id": "4909936",
-      "time": "2026-06-01 15:19:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要股指伊斯坦布林100指數<.XU100>上漲1.8%，主要銀行指數<.XBANK>上漲2.7%。"
-    },
-    {
-      "id": "4909935",
-      "time": "2026-06-01 15:19:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國稀土公司（US Rare Earth）：可獲得（法國）額外政府支援，包括債務擔保，以及可能對歐洲子公司進行直接股權投資。"
-    },
-    {
-      "id": "mkt:019e820c-a6e6-766b-8632-89a7f9dea366",
-      "time": "2026-06-01 15:18:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Russia bans aviation fuel exports until end-November to avert domestic shortages】Russia has banned aviation-fuel exports through the end of November to prevent domestic shortages after Ukraine stepped up attacks on Russian refineries. The move should have limited impact on global fuel markets: Vortexa shows Russian jet-fuel exports averaged about 30,000 bpd last year (under 2% of global supply) and roughly 28,000 bpd on average in Jan–Apr 2026, with Turkey the main buyer. Drone strikes have cut Russian crude-processing rates to their lowest level in more than 16 years. Ukraine has expanded strikes to energy infrastructure, including ports and pipelines, aiming to curb petrodollar inflows to the Kremlin."
-    },
-    {
-      "id": "mkt:019e820c-5649-766b-8632-80533fb9c38d",
-      "time": "2026-06-01 15:18:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "U.S. rare-earths company says its planned investment in France could create more than 300 jobs."
-    },
-    {
-      "id": "4909934",
-      "time": "2026-06-01 15:18:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國稀土公司：該投資將結合法國政府激勵措施一同推進。"
-    },
-    {
-      "id": "4909933",
-      "time": "2026-06-01 15:18:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中化裝備公司所屬企業2人同日被查】6月1日下午，據“中化清風線上”微信公眾號訊息，中國中化控股有限責任公司下屬中化裝備公司所屬益陽橡膠塑膠機械集團有限公司副總經理、益陽益神橡膠機械有限公司總經理餘朝暉涉嫌嚴重違紀違法，目前正接受中化裝備公司紀律檢查委員會紀律審查和湖南省郴州市監察委員會監察調查。稍早些，“中化清風線上”微信公眾號曾通報，中國中化控股有限責任公司所屬中化裝備公司下屬益陽橡膠塑膠機械集團有限公司原黨委書記、董事長、總經理姚宏建涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組紀律審查和湖南省郴州市監察委員會監察調查。"
-    },
-    {
-      "id": "4909932",
-      "time": "2026-06-01 15:17:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛健委：我國兒童健康水平持續提升】國家衛生健康委今天舉行新聞釋出會，介紹我國兒童健康水平有關情況。據瞭解，“十四五”期間，我國兒童健康工作取得了長足進步。2025年，我國嬰兒死亡率降至3.5‰，5歲以下兒童死亡率降至5.4‰，位居全球中高收入國家前列。加快構建覆蓋城鄉、層級分明、協同聯動的兒童健康服務網路，截至2025年底，全國4845家二級、三級公立綜合醫院、4萬家基層醫療衛生機構能夠提供兒科服務，兒童就醫可及性進一步提升；神經管缺陷、唐氏綜合徵等嚴重出生缺陷得到有效控制，母嬰傳播疾病顯著下降，適齡兒童免疫規劃疫苗接種率穩定在90%以上，兒童白血病、實體腫瘤等重大疾病診療水平持續提升，廣大兒童健康水平得到有力保障。（央視新聞）"
     }
   ]
 }
