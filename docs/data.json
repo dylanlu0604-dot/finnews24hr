@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-09 02:43:33",
+  "updated": "2026-06-09 02:47:15",
   "count": 19234,
   "items": [
+    {
+      "id": "4924625",
+      "time": "2026-06-09 02:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ea88d-5bc5-733a-9234-7552419d9c86",
+      "time": "2026-06-09 02:44:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Africa CDC: confirmed cases in current Ebola outbreak rise to 563】Africa CDC said on June 8 that as of June 7 the current Ebola outbreak had 563 confirmed cases, including 544 in the Democratic Republic of Congo with 88 confirmed deaths and 19 in Uganda with 2 confirmed deaths."
+    },
     {
       "id": "4924624",
       "time": "2026-06-09 02:42:32",
@@ -177317,22 +177333,6 @@
         "公司"
       ],
       "text": "市場訊息：在 Anthropic 遞交上市申請後，OpenAI 執行長奧特曼稱目前暫不考慮 IPO 上市時機。"
-    },
-    {
-      "id": "mkt:019e8481-8a52-7993-96f8-ca1dffee2847",
-      "time": "2026-06-02 02:45:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports President Trump plans to cancel 'weaponized' funds."
-    },
-    {
-      "id": "4911248",
-      "time": "2026-06-02 02:44:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：特朗普計劃取消“武器化”基金。"
     }
   ]
 }
