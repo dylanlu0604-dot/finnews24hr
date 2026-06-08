@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-09 04:32:49",
+  "updated": "2026-06-09 04:36:29",
   "count": 19227,
   "items": [
+    {
+      "id": "mkt:019ea8f2-aadf-733a-9235-c4f632462db7",
+      "time": "2026-06-09 04:35:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports Lebanon's justice minister said Hezbollah's campaign is unrelated to Lebanon's national interest and is pursuing an external agenda. He said Lebanon does not intend to remain at war, that ending the fighting requires negotiations, and that Hezbollah's stance has weakened Lebanon's negotiating leverage."
+    },
+    {
+      "id": "4924678",
+      "time": "2026-06-09 04:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "吉利德與默克宣佈，兩項評估每週口服一次的艾滋病治療藥物Islatravir/lenacapavir的三期臨床試驗取得積極主要終點結果。"
+    },
+    {
+      "id": "te:markets:557367",
+      "time": "2026-06-09 04:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 81 points or 0.16 percent on Monday to close at 50786 points. The decline was led by Travelers Companies (-2.16%), Apple (-1.95%) and Sherwin-Williams (-1.87%). On the upside, the strongest performers were Cisco Systems (1.99%), Nvidia (1.71%) and UnitedHealth (1.69%)."
+    },
     {
       "id": "4924677",
       "time": "2026-06-09 04:27:26",
@@ -177272,39 +177300,6 @@
         "MKT News"
       ],
       "text": "【Trump to abandon $1.8bn 'anti-weaponization' legal fund after bipartisan backlash】Foreign media, citing a person familiar with the matter, report the Trump administration plans to abandon a controversial $1.8bn legal fund intended to aid people who say they were victims of government 'weaponization'. Lawmakers from both parties criticized the proposal as a slush fund for the president's political allies. The decision marks another political setback for Trump following a court defeat over plans to reform the Kennedy Center and amid ongoing difficulties on efforts to end the Iran conflict."
-    },
-    {
-      "id": "te:markets:555484",
-      "time": "2026-06-02 04:35:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 46 points or 0.09 percent on Monday to close at 51079 points. The rise was led by Salesforce (9.57%), IBM (7.34%) and Nvidia (6.25%). On the downside, the weakerst performers were Amazon (-3.48%), Merck (-2.96%) and Sherwin-Williams (-2.91%)."
-    },
-    {
-      "id": "mkt:019e84e5-174b-7993-96f9-e3a3c03a1357",
-      "time": "2026-06-02 04:34:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【US strategic petroleum reserve may fall to lowest since 1983】The Trump administration is continuing large releases from the US Strategic Petroleum Reserve to ease an energy squeeze from the US-Iran conflict and a threatened Strait of Hormuz closure. DOE data show the SPR fell by 8.0 mln barrels last week; the prior two weeks saw withdrawals of 9.1 mln and a record 9.9 mln barrels. Inventories are 357.1 mln barrels, the lowest since Jan 2024. At the current pace the SPR could drop below the Biden-era low and reach its lowest level since 1983 as early as next week. Since the conflict began the US has released about 58 mln barrels, roughly 14% of the SPR. Analysts say continued releases will weaken US ability to respond to hurricane-season or other sudden supply disruptions."
-    },
-    {
-      "id": "4911311",
-      "time": "2026-06-02 04:33:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞：哥倫比亞4月商品化天然氣產量同比下降14.2%，至每日6.94億立方英尺。"
     }
   ]
 }
