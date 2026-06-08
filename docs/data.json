@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-08 16:20:18",
+  "updated": "2026-06-08 16:24:10",
   "count": 19334,
   "items": [
+    {
+      "id": "mkt:019ea654-3a75-7ffe-87a4-548e5e68fc8b",
+      "time": "2026-06-08 16:23:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Hang Seng Index"
+      ],
+      "text": "【Asset manager: tech rout not a re‑pricing of AI thesis; key is whether mega‑cap AI spending slows】Asian markets extended last week’s heavy selloff on Monday; South Korea’s KOSPI plunged over 8%, led by semiconductors. Lucerne Asset Management CIO Mark Villan said the move looks like position- and momentum-driven liquidations rather than a reassessment of the long-term AI story. Korean techs were among the world’s top performers and held in concentrated positions, so they became a natural liquidity source after last week’s US nonfarm payrolls shifted interest-rate expectations. The market’s key question is whether mega-cap AI spending will slow; Lucerne said it has seen no evidence of that so far."
+    },
+    {
+      "id": "4923502",
+      "time": "2026-06-08 16:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能：控股股東李振國解除質押1.55億股股份】隆基綠能公告稱，公司於2026年6月8日收到控股股東李振國通知，其於6月5日將原質押給國通訊託的1.55億股無限售流通股解除質押，佔其所持股份比例14.52%，佔公司總股本比例2.05%。本次解除質押後，李振國累計質押公司股份2.1億股，佔其持股數量的19.68%。此外，控股股東李振國、李喜燕及其一致行動人李春安累計質押股份2.1億股，佔公司總股本2.77%，佔其合計持股比例13.06%。"
+    },
+    {
+      "id": "4923501",
+      "time": "2026-06-08 16:22:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗防空部隊在德黑蘭上空擊落一架無人機。"
+    },
+    {
+      "id": "mkt:019ea653-7280-7ffe-87a4-48676afcc86f",
+      "time": "2026-06-08 16:22:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Tasnim News quoted Iran's ambassador to Russia, Kazem Jalali, as saying Europe played no role in negotiations to resolve the Middle East crisis between Iran and the US government."
+    },
+    {
+      "id": "4923500",
+      "time": "2026-06-08 16:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐俄羅斯大使：歐洲無權介入伊美談判。"
+    },
+    {
+      "id": "4923499",
+      "time": "2026-06-08 16:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小紅書上線RED Skill功能】小紅書正式上線AI Skill功能RED Skill。據悉，這是首個將 AI Skill與社群深度融合的分發模式。創作者在釋出筆記時，可將原創或分享的Skill嵌入其中，平臺所有使用者均可透過該元件直接獲取相關Skill，無需跳轉第三方平臺下載安裝。"
+    },
+    {
+      "id": "4923498",
+      "time": "2026-06-08 16:21:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 德黑蘭的空軍與航天大學遭到襲擊。"
+    },
+    {
+      "id": "4923497",
+      "time": "2026-06-08 16:20:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信宣佈面向開發者提供接入微信AI生態的能力】6月8日，微信正式面向開發者提供接入微信AI生態的能力。據微信公開課官方公眾號，開發者需在「小程式管理後臺-AI能力」主動授權接入微信AI。同時，平臺提供了自動模式與開發模式兩種接入選項，以滿足不同規模團隊的開發需求。其中，自動模式需授權平臺提審時讀取小程式原始碼，無需投入額外開發。平臺將可分析開發者的小程式頁面，讓微信AI能直接操作；開發模式中，開發者可基於小程式業務特性，自主個性化開發。透過平臺評測與稽核後，可被微信Al呼叫。微信稱，當前該功能處於內測階段，使用者暫時還無法體驗。"
+    },
+    {
+      "id": "4923496",
+      "time": "2026-06-08 16:20:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存晶片板塊盤前反彈 美光科技漲5%】美股儲存晶片板塊盤前反彈。美光科技漲5%，閃迪、希捷科技漲超2%，西部資料漲超3%。"
+    },
+    {
+      "id": "4923495",
+      "time": "2026-06-08 16:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本陸自舉行最大規模綜合火力軍演，特別展示高超聲速導彈】日本陸上自衛隊舉行史上最大規模“富士綜合火力演習”，動員3000名兵員，首次展示射程約1000公里的25式高超聲速導彈。（澎湃新聞）"
+    },
+    {
+      "id": "4923494",
+      "time": "2026-06-08 16:20:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國首相斯塔默：大型科技公司必須在兒童手機上落實安全防護措施，防止露骨影象傳播。"
+    },
+    {
+      "id": "mkt:019ea651-5c15-7ffe-87a4-405d3ca9f141",
+      "time": "2026-06-08 16:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Euro-area June Sentix investor confidence index due in 10 minutes."
+    },
+    {
+      "id": "4923493",
+      "time": "2026-06-08 16:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐伊朗大使館：提醒當前伊朗安全形勢及離伊通道】鑑於當前複雜嚴峻形勢，中國駐伊朗使領館再次提醒在伊中國公民加強安全防範和應急準備，及時向駐伊使領館報備。同時，請中國公民暫勿來伊。目前，伊首都德黑蘭及西部地區空域處於關閉狀態，請在伊中國公民重點關注伊馬漢航空離伊航班恢復情況。（中國駐伊朗大使館）"
+    },
     {
       "id": "4923492",
       "time": "2026-06-08 16:19:26",
@@ -18,6 +133,15 @@
         "市場"
       ],
       "text": "GoHealth股價在盤前交易中下跌54.6%，報0.31美元，此前該公司已申請第11章破產保護。"
+    },
+    {
+      "id": "4923490",
+      "time": "2026-06-08 16:19:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特下調7月對亞洲的原油售價，儘管霍爾木茲海峽危機令海灣出口受阻】儘管霍爾木茲海峽幾近關閉，繼續阻斷波斯灣的石油外運並導致全球市場供應進一步趨緊，但全球最大石油出口國沙烏地阿拉伯仍大幅下調了其銷往亞洲的主要原油品種的價格。沙特國有石油公司沙特阿美(Saudi Aramco)週一設定了7月裝運、銷往亞洲的阿拉伯輕質原油官方售價，較阿曼/迪拜地區基準價格高出每桶9.50美元，該溢價水平低於6月份的15.50美元。亞洲是中東原油的最大目的地。鑑於途經霍爾木茲海峽的航運受到嚴重製約，沙烏地阿拉伯一直透過其東西向管道，將原油出口改道至紅海港口延布。交易員一直密切關注沙特的原油定價，將其視為反映該國對區域需求預期的關鍵指標。此次降價正值中國大幅減少原油進口之際，煉油活動減弱以及成品油出口下降正對中國國內石油行業運營造成壓力。銷往亞洲的其他品種沙特原油價格也下調了每桶6美元。沙特阿美將銷往西北歐和地中海的各品種原油較區域基準價格的溢價水平下調了每桶10美元，面向美國客戶的售價則下調了每桶2美元。"
     },
     {
       "id": "4923489",
@@ -178153,133 +178277,6 @@
         "公司"
       ],
       "text": "【掌閱科技在杭州成立文化傳媒公司】企查查APP顯示，近日，杭州雲邊敘文化傳媒有限公司成立，法定代表人為汪裕翔，經營範圍包含：文藝創作；電影製片；電影攝製服務；攝像及影片製作服務；專業設計服務；文化娛樂經紀人服務等。企查查股權穿透顯示，該公司由掌閱科技旗下長沙新閱文化傳媒有限公司全資持股。"
-    },
-    {
-      "id": "4910117",
-      "time": "2026-06-01 16:24:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行稱消費者通脹預期略有回落 但仍處高位】歐元區消費者4月對未來三年的通脹預期略有回落，讓歐洲央行稍感寬慰，不過決策者下週仍有可能加息。歐洲央行週一公佈的月度調查顯示，在此期間價格漲幅預計為2.9%，低於3月時預測的3%。 對未來12個月的通脹預期維持在4%不變；對未來五年的預期維持在2.4%，高於歐洲央行2% 的中期通脹目標。央行執委Isabel Schnabel週一警告，通脹預期脫錨的風險正在上升，意味著歐洲央行不能忽視伊朗衝突引發的以能源價格為主的價格飆升。官員們希望阻止能源市場動盪蔓延至更廣泛的消費者價格領域。週二公佈的資料或顯示歐元區通脹率再次上升，分析師估計將達3.2%。"
-    },
-    {
-      "id": "4910116",
-      "time": "2026-06-01 16:23:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奕派科技5月交付24830輛，同比增長42%】6月1日，奕派科技公佈，2026年5月交付24830輛，同比增長42%。"
-    },
-    {
-      "id": "te:economy:555310",
-      "time": "2026-06-01 16:23:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Poland Q1 GDP Growth Slows From Over 3-Year High — The Polish economy expanded by 3.5% year-on-year in the first quarter of 2026, slightly above preliminary estimates but slowing from an over three-year high of 4.1% in the previous quarter. Growth moderated in domestic demand (3.5% vs 4.4% in Q4 2025), household consumption (2.0% vs 2.1%), and public spending (1.2% vs 1.7%). Fixed investment (0.3% vs 1.5%) and capital formation (0.3% vs 0.6%) also lost momentum, while inventories were unchanged, after a 0.9% decline. Net exports remained flat after weighing on growth in the previous quarter (-0.3%). On a seasonally adjusted quarterly basis, the economy grew 0.6% in the first quarter, slightly above preliminary estimates but easing from 1.0% in the previous period and marking the weakest expansion since the contraction recorded in the third quarter of 2024."
-    },
-    {
-      "id": "mkt:019e8248-24cf-7112-8c89-45f2e6950196",
-      "time": "2026-06-01 16:23:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canaan Intelligent said it is the preliminary winning bidder for a State Grid East China regional joint procurement project worth 29.0815 mln yuan."
-    },
-    {
-      "id": "4910115",
-      "time": "2026-06-01 16:22:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北釋出高溫橙色預警】河北省氣象臺6月1日16時08分發布高溫橙色預警訊號：預計2日白天，張家口中部和石家莊、滄州及以南的大部分地區最高氣溫可達37～39℃。請注意防範。"
-    },
-    {
-      "id": "mkt:019e8246-e1ef-7112-8c89-3ba9093a6236",
-      "time": "2026-06-01 16:22:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Adviser to Ukraine's interior minister said Russia launched 268 drones in an overnight attack on Ukraine."
-    },
-    {
-      "id": "4910114",
-      "time": "2026-06-01 16:22:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迦南智慧：預中標2908.15萬元國網華東區域聯合採購專案】據迦南智慧訊息，公司預中標2908.15萬元國網華東區域聯合採購專案。"
-    },
-    {
-      "id": "mkt:019e8246-8c06-7112-8c89-348bc285014e",
-      "time": "2026-06-01 16:22:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Central Air Traffic Management Office and other agencies promote \"Scan-to-Fly\"】China's Central Air Traffic Management Office, together with the National Development and Reform Commission, Ministry of Public Security and the Civil Aviation Administration of China, has designated fixed dedicated airspace for drones within controlled airspace in Shanghai and Sichuan, and will adopt a \"government coordinated management, industry-guided supervision, user report-and-fly\" model to enable continuous, fine-grained safeguarding of airspace resources."
-    },
-    {
-      "id": "te:economy:555309",
-      "time": "2026-06-01 16:21:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bulgaria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Bulgaria Inflation Rate Climbs to Near 3-Year High — The annual inflation rate in Bulgaria climbed to 7.0% in May 2026 from 6.8% in the previous month, according to preliminary estimates. It marked the highest reading since August 2023, as prices accelerated mainly for transportation (22.1% vs 18.5% in April) due to the ongoing Middle East war that disrupted oil supplies. Prices increased as well for alcoholic beverages, tobacco and narcotics (7.7% vs 7.4%), housing, water, electricity, gas and other fuels (5.2% vs 4.7%), and restaurants and accommodation services (9.4% vs 9.3%). Meanwhile, recreation, sport and culture inflation remained elevated at 15.8%, although it eased from 17.0% in April. In contrast, price growth slowed for food and non-alcoholic beverages (4.9% vs 5.3%) and furnishings, household equipment and routine household maintenance (0.9% vs 1.2%), while clothing and footwear prices declined (-0.4% vs 0.0%). On a monthly basis, consumer prices rose 0.2%, easing significantly from a 1.8% increase in the previous month."
-    },
-    {
-      "id": "4910113",
-      "time": "2026-06-01 16:21:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鑫源智造：終止2025年度以簡易程式向特定物件發行股票】鑫源智造公告稱，公司於2026年6月1日召開董事會會議，同意終止2025年度以簡易程式向特定物件發行股票事項。該募集資金原擬用於“鎂合金產線升級建設專案”，擬募資1.40億元。終止原因包括募投專案資金需求變化、公司財務穩健可自有資金投入、最佳化融資佈局等。因股東會已授權董事會，本次終止無需提交股東會審議，且不會對公司經營造成不利影響。"
-    },
-    {
-      "id": "4910112",
-      "time": "2026-06-01 16:21:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法國巴黎富通銀行將藉助AI在三年內縮減1000個工作崗位】據比利時通訊社報道，法國巴黎富通銀行(CPBB)計劃在未來三年（2026-2028年）內，利用人工智慧AI和服務數字化技術削減1,000個崗位，約佔其現有員工總數的10%。報道引用了一份新的戰略計劃簡報和執行長Michael Anseeuw的評論。報道稱，該行將限制招聘，不會自動填補空缺職位，但中期內沒有大規模裁員計劃，並且每年仍將招聘300至400人。"
-    },
-    {
-      "id": "mkt:019e8245-ce34-7112-8c89-2b9d382e69ce",
-      "time": "2026-06-01 16:21:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huawei launches MatePad Pro Max, starting at 5,999 yuan】Huawei launched the MatePad Pro Max, powered by a Kirin T93 Pro SoC and running HarmonyOS 6.1 with a dual-desktop interface; the tablet debuts an Education Space and starts at 5,999 yuan."
-    },
-    {
-      "id": "4910111",
-      "time": "2026-06-01 16:20:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安通控股：股東獲5.94億元貸款用於增持公司股票】安通控股公告稱，股東中外運集運已獲招商銀行深圳分行出具的《貸款承諾函》，貸款額度不超5.94億元，專項用於增持公司股票，貸款期限36個月。中外運集運計劃自2026年5月18日起12個月內，增持金額不低於4.075億元、不超8.15億元。本次增持計劃可能因市場變化等因素無法達預期，公司將持續關注進展並及時披露。"
-    },
-    {
-      "id": "mkt:019e8245-73f7-7112-8c89-23300b427d71",
-      "time": "2026-06-01 16:20:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Shanghai adds 3 generative AI services with completed filings】As of June 1, Shanghai added three generative AI services that have completed filings, bringing the cumulative total to 169."
     }
   ]
 }
