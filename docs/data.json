@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-09 05:15:34",
-  "count": 19203,
+  "updated": "2026-06-09 05:19:22",
+  "count": 19212,
   "items": [
+    {
+      "id": "mkt:019ea919-2572-733a-9236-29d2151c40e2",
+      "time": "2026-06-09 05:17:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said an IPO may take time, noting some initiatives are easier to pursue as a private company."
+    },
+    {
+      "id": "mkt:019ea919-1609-733a-9236-257c19b7015d",
+      "time": "2026-06-09 05:17:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "Apple (AAPL.O) said it will retain full control of its Private Cloud Compute software regardless of where infrastructure is hosted. Apple devices will only trust Private Cloud Compute software cryptographically signed by Apple. The Private Cloud Compute service running on Google Cloud will progressively deploy full protections during the summer preview."
+    },
+    {
+      "id": "4924699",
+      "time": "2026-06-09 05:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：上市程序或需時日，因為部分規劃事項在非上市階段推進更為順利。"
+    },
+    {
+      "id": "4924698",
+      "time": "2026-06-09 05:15:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果：部署在谷歌雲的私有云計算服務，將在整個夏季預覽階段逐步完善全套安全防護機制。"
+    },
+    {
+      "id": "4924697",
+      "time": "2026-06-09 05:15:42",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI：尚未確定 IPO 時間表。"
+    },
+    {
+      "id": "4924696",
+      "time": "2026-06-09 05:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.10%，報15206點。"
+    },
+    {
+      "id": "4924695",
+      "time": "2026-06-09 05:15:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果：無論基礎設施部署於何處，蘋果始終全權掌控私有云計算軟體。蘋果裝置僅信任經本公司加密認證的私有云計算軟體。"
+    },
+    {
+      "id": "te:economy:557370",
+      "time": "2026-06-09 05:15:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "El Salvador Inflation Rises to 20-Month High — Consumer prices in El Salvador rose 2.5% year-over-year in May 2026, the highest reading since October 2023, up from 2.2% in April. Inflation picked up for transport (6.4% vs 3.3%), recreation and culture (1.8% vs 1.1%), healthcare (2.8% vs 2.7%), housing and utilities (1.1% vs 1.1%), restaurants and hotels (4.4% vs 4.2%), and miscellaneous goods and services (1.8% vs 1.6%). Meanwhile, food and non-alcoholic beverages inflation eased slightly (2.9% vs 3.0%), as did prices for alcoholic beverages and tobacco (2.4% vs 2.5%). Communication costs fell at a faster pace (-0.9% vs -0.7%), while education inflation was unchanged at 0.5%. Clothing and footwear prices rebounded by 0.03% after falling 0.05% in April, and furniture and household goods prices increased 0.4% following a 0.02% decline in the previous month."
+    },
+    {
+      "id": "mkt:019ea917-0d12-733a-9236-1a42c94f68a9",
+      "time": "2026-06-09 05:15:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it has not yet decided on the timing of an IPO."
+    },
     {
       "id": "mkt:019ea916-bfe0-733a-9236-119fd4c9ee94",
       "time": "2026-06-09 05:15:00",
