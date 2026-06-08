@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-08 20:51:43",
-  "count": 19264,
+  "updated": "2026-06-08 20:55:39",
+  "count": 19266,
   "items": [
+    {
+      "id": "4924213",
+      "time": "2026-06-08 20:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。"
+    },
+    {
+      "id": "4924212",
+      "time": "2026-06-08 20:53:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。"
+    },
+    {
+      "id": "te:economy:557299",
+      "time": "2026-06-08 20:52:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services."
+    },
+    {
+      "id": "te:markets:557298",
+      "time": "2026-06-08 20:52:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Pare Losses — The DAX 40 pared early losses to trade slightly down around 24,670 on Monday, the lowest since May 21, as traders closely monitored developments in the Middle East. Iran announced the end of its military operation against Israel after a day of retaliatory strikes between the two countries, while warning it could resume operations if Israel continues actions in Lebanon. This helped curb the increase in oil prices."
+    },
+    {
+      "id": "4924211",
+      "time": "2026-06-08 20:52:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【*ST元道：公司股票可能被實施重大違法強制退市】*ST元道公告稱，公司於2025年7月11日因涉嫌年報等資訊披露檔案財務資料存在虛假記載等違法行為被中國證監會立案。2026年5月8日，公司收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。公司尚未收到正式處罰決定，最終結果以正式處罰決定為準。如觸及相關情形，公司股票將被終止上市，提醒投資者注意風險。"
+    },
+    {
+      "id": "4924210",
+      "time": "2026-06-08 20:52:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST嶺南：股價異常波動 多項風險待解】*ST嶺南公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司、實控人及相關股東、董高在異常波動期間未買賣股票，不存在應披露未披露重大事項。公司股票因多項問題被實施退市及其他風險警示，包括業績不佳、內控審計否定、財務報告無法表示意見、主要銀行賬戶凍結等。此外，公司及相關當事人擬被行政處罰，原實控人尚有1.49億元佔用資金未歸還，且有多筆債務逾期。"
+    },
+    {
+      "id": "4924209",
+      "time": "2026-06-08 20:52:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銳股份：1元轉讓重慶華宇99.5%股權 最佳化資產結構】中銳股份公告稱，公司與上海全昂簽署《股權轉讓協議》，以1元轉讓重慶華宇99.5%股權。上海全昂為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。重慶華宇長期虧損，2025年淨利潤-2.08億元。本次交易完成後，公司不再持有其股權，也不再納入合併報表範圍，可減輕經營和財務負擔，聚焦優勢業務。該交易尚需公司股東會批准。"
+    },
+    {
+      "id": "4924208",
+      "time": "2026-06-08 20:52:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深桑達A：擬對子公司中國電子雲增資不超10億元】深桑達A(000032.SZ)公告稱，公司控股子公司中電雲端計算技術有限公司擬增資不超過10億元，其中公司以自有資金增資1億元，關聯方中電金投增資1億元，其餘由外部戰略投資人增資。"
+    },
+    {
+      "id": "4924207",
+      "time": "2026-06-08 20:52:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東中銳：擬轉讓重慶華宇園林股權 股東權益評估值為-1.93億元】山東中銳產業發展股份有限公司公告稱，擬轉讓重慶華宇園林有限公司股權，北京中天華對其股東全部權益價值進行評估。評估基準日為2025年（日期缺失），採用資產基礎法評估。重慶華宇園林總資產賬面值4.92億元，評估值5.07億元，增值率3.23%；總負債評估值7.00億元，無增減值；淨資產賬面值-2.09億元，評估值-1.93億元，增值率7.59%。評估結論有效期至2026年（日期缺失）。"
+    },
+    {
+      "id": "4924206",
+      "time": "2026-06-08 20:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國雞蛋價格跌至十年低位，在食品通脹持續數年後，為消費者帶來難得的緩解。"
+    },
+    {
+      "id": "4924205",
+      "time": "2026-06-08 20:51:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天汽模：擬發行股份及支付現金收購東實股份60%股權，交易對價18.3億元】天汽模公告，公司擬透過發行股份及支付現金方式購買德盛拾陸號企業管理（天津）合夥企業（有限合夥）持有的東實汽車科技集團股份有限公司60.00%股份，交易對價18.3億元，其中發行股份支付7.32億元，現金支付10.98億元。同時，公司擬向控股股東新疆建發梵宇產業投資基金合夥企業（有限合夥）發行股份募集配套資金不超過7.32億元，用於支付現金對價。本次交易構成關聯交易，不構成重組上市。標的資產採用收益法評估，100%股權評估值30.51億元，增值率10.51%。本次交易尚需經股東會審議、國資批准、反壟斷審查、深交所稽核及證監會註冊等程式。"
+    },
+    {
+      "id": "mkt:019ea749-bfa3-7226-8cb4-df886f9d4f54",
+      "time": "2026-06-08 20:51:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Sources: Russia plans to cut June crude exports】Market sources said Russia plans to cut crude exports in June to divert barrels to higher refinery runs amid seasonal fuel demand and reported regional shortages. Preliminary data show shipments from western ports Primorsk, Ust-Luga and Novorossiysk could fall from 2.5 mln b/d in May to about 1.7 mln b/d in June; sources said part of the reduction reflects lower crude output. Deputy Prime Minister Novak has said Russian oil output has fallen since the start of the year due to unplanned refinery maintenance. Sources estimate refiners will seek to lift crude processing by 250–400 kb/d in June, but restoring crude output will take considerable time."
+    },
+    {
+      "id": "4924204",
+      "time": "2026-06-08 20:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：俄羅斯計劃削減6月石油出口量】市場訊息人士稱，鑑於燃料短缺的陰雲籠罩，俄羅斯計劃在6月提高煉油廠開工率，因此將減少原油出口。訊息人士提供的初步資料顯示，俄羅斯西部港口普里莫爾斯克、烏斯季盧加和新羅西斯克的原油裝船量可能從5月份的250萬桶/日降至6月份的170萬桶/日。訊息人士稱，這一下降部分可能是由於原油產量水平下降所致。俄羅斯副總理諾瓦克此前表示，自今年年初以來，俄羅斯石油產量有所下降，並將此歸咎於煉油廠的計劃外檢修。訊息人士稱，隨著檢修工作的完成，在季節性燃料需求增長以及部分地區報告供應短缺的背景下，俄羅斯煉油廠將能夠提高加工量，但產量下降意味著必須從出口中調撥額外的原料用於加工。他們估計，俄羅斯將在6月尋求將原油加工量增加25萬至40萬桶/日，而恢復原油產量則需要相當長的時間。"
+    },
+    {
+      "id": "4924203",
+      "time": "2026-06-08 20:51:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭最高法院判處前最高法院院長五年監禁。"
+    },
     {
       "id": "4924202",
       "time": "2026-06-08 20:50:42",
@@ -177535,122 +177660,6 @@
         "MKT News"
       ],
       "text": "The Commission for Air Quality Management (CAQM) said Delhi recorded its cleanest Jan–May air quality in nearly eight years excluding 2020, with the average AQI improving to 211."
-    },
-    {
-      "id": "4910845",
-      "time": "2026-06-01 20:54:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【打破“只買不賣”慣例 Strategy出售所持部分比特幣】全球最大的比特幣企業級持有者Strategy Inc.出售了約250萬美元的比特幣，這是該公司自2022年以來首次減持這一加密貨幣。聯合創始人Michael Saylor上個月在公司季度業績電話會上已暗示未來存在出售比特幣的可能性。這與他多年來反覆向股東保證“不會出售所持比特幣”的立場相比，是一次顯著轉變。Strategy表示，未來出售比特幣將成為其更有策略地管理和積累比特幣資產的一部分。公司認為，此類交易不僅可能帶來稅務上的好處，也有助於在數字資產長期熊市環境下更靈活地增持比特幣。儘管進行了減持，Strategy目前仍持有價值約610億美元比特幣。Strategy股價盤前下跌約5%，比特幣價格則下跌約2%至7.2萬美元左右。"
-    },
-    {
-      "id": "4910844",
-      "time": "2026-06-01 20:54:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：以太坊的質押比例達到32.4%，創下歷史新高。"
-    },
-    {
-      "id": "4910843",
-      "time": "2026-06-01 20:54:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "星座能源集團宣佈，1100萬股二次增發已完成定價，每股價格為281美元。"
-    },
-    {
-      "id": "4910842",
-      "time": "2026-06-01 20:54:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：即使伊朗戰爭結束，歐元的反彈潛力似乎也有限】荷蘭合作銀行的Jane Foley在一份報告中表示，伊朗戰爭的結束和霍爾木茲海峽的重新開放將使歐元兌美元回升，但上升空間可能有限。“雖然美聯儲10月份的降息應會使歐元在下半年呈上升趨勢，但我們預計[歐元兌美元]在此期間不會獲得顯著的上漲動力。”她說，市場已經充分反映了歐洲央行在此期間加息兩次的預期，而歐元區經濟增長面臨的阻力意味著歐元今年可能難以達到1.20美元。歐元下跌0.1%，至1.1646美元。"
-    },
-    {
-      "id": "4910841",
-      "time": "2026-06-01 20:54:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智迪科技：擬1.52億元收購豐旭國際100%股權】智迪科技(301503.SZ)公告稱，公司擬以自有或自籌資金1.52億元購買豐旭國際投資有限公司100%股權，交易完成後豐旭國際成為公司全資子公司，其子公司越南豐旭成為全資孫公司。本次交易旨在推進國際化戰略，規避越南子公司租金上漲風險，增強運營穩定性。"
-    },
-    {
-      "id": "4910840",
-      "time": "2026-06-01 20:53:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "據阿拉伯電視臺訊息，一艘巴拿馬籍大型油輪在伊拉克領海航行期間爆炸。"
-    },
-    {
-      "id": "mkt:019e833f-69b6-7112-8c91-138deee8e40b",
-      "time": "2026-06-01 20:53:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IRGC releases video showing destruction of US MQ-1 drone】Local time June 1, the Islamic Revolutionary Guard Corps (IRGC) released video showing its air-defence system destroying a US military MQ-1 drone. The footage did not show the timing of the incident; Iran said on May 31 it had shot down a drone of that model. Despite ongoing US‑Iran talks, the two sides have exchanged fire near the Persian Gulf multiple times recently, keeping regional tensions and uncertainty elevated."
-    },
-    {
-      "id": "mkt:019e833e-f94e-7112-8c91-0947fd796ba7",
-      "time": "2026-06-01 20:53:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meituan",
-        "3690.HK",
-        "Impact bullish"
-      ],
-      "text": "【Meituan CEO: Competition returning to rationality; expects Q2 takeout unit economics to improve】Meituan released Q1 results. Management said as food-delivery subsidies are pared back, competition is shifting toward efficiency and user experience. If competition remains rational and Q2 seasonality holds, the company expects Q2 takeout unit economics (UE) to be materially stronger than Q1. CEO Wang Xing said ongoing regulatory guidance should help restore rational competition; Meituan is confident it can maintain an operational-efficiency lead and that its long-term UE will return to a reasonable level."
-    },
-    {
-      "id": "mkt:019e833e-ee72-7112-8c91-0388525c1065",
-      "time": "2026-06-01 20:53:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Al Arabiya TV, citing sources, said a Panama-flagged large oil tanker exploded while operating in Iraqi territorial waters."
-    },
-    {
-      "id": "mkt:019e833e-9c63-7112-8c90-ff61b2f1f34b",
-      "time": "2026-06-01 20:52:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Zhixiang Biotech (Suzhou) Co., Ltd filed a listing application with HKEX, according to an exchange filing."
-    },
-    {
-      "id": "4910839",
-      "time": "2026-06-01 20:52:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：智享生物（蘇州）股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4910838",
-      "time": "2026-06-01 20:52:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗表示將確保日本船隻“更”便捷地透過其領海。"
     }
   ]
 }
