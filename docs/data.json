@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-08 11:57:04",
-  "count": 19300,
+  "updated": "2026-06-08 12:01:26",
+  "count": 19299,
   "items": [
+    {
+      "id": "4922961",
+      "time": "2026-06-08 11:59:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國總統李在明稱近期韓元疲軟只是暫時現象】韓國總統李在明表示，目前美元/韓元只是暫時處於高位水平。李在明表示，韓元近期走弱，部分原因是外國投資者在韓國Kospi指數快速上漲後重新調倉所致，但這種趨勢不太可能持續。"
+    },
+    {
+      "id": "4922960",
+      "time": "2026-06-08 11:59:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "太平洋海嘯預警中心（PTWC）表示，菲律賓地震引發的海嘯威脅已基本解除。"
+    },
+    {
+      "id": "4922959",
+      "time": "2026-06-08 11:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開市客北京國際商業發展公司登出】天眼查App顯示，近日，開市客（北京）國際商業發展有限公司登記狀態由存續變更為登出。 該公司成立於今年4月，法定代表人為黃壽蘇，註冊資本1億美元，經營範圍包括日用百貨銷售、普通貨物倉儲服務、倉儲裝置租賃服務等，由COSTCO WHOLESALE INTERNATIONAL,INC.全資持股。"
+    },
+    {
+      "id": "4922958",
+      "time": "2026-06-08 11:57:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼頒佈技術法規，對煤炭、棕櫚油和鐵合金的出口實行集中管理】印尼貿易部週一釋出了技術法規，旨在將煤炭、棕櫚油和鐵合金的出口置於一家中央政府控股企業的管控之下。這三項技術法規自6月1日起生效，相關大宗商品的出口商現必須向政府指定的國有企業報告其出口活動。國家秘書處上週頒佈了更廣泛的規定，以將所有大宗商品出口統一由中央政府機構負責管理。"
+    },
+    {
+      "id": "4922957",
+      "time": "2026-06-08 11:56:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空：預計到2030財年，其中長途國際航線的運力佔比將從當前的4%提升至10%-15%。"
+    },
+    {
+      "id": "4922956",
+      "time": "2026-06-08 11:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統澤連斯基披露俄大亨願傳話斡旋】烏克蘭總統澤連斯基7日披露，俄羅斯富豪羅曼·阿布拉莫維奇日前到訪烏首都基輔，表示願意為他傳話給克里姆林宮。按照多家媒體說法，這是澤連斯基首次證實曾參與俄烏談判的阿布拉莫維奇再次“出山”，斡旋俄烏局勢。 正在倫敦訪問的澤連斯基當天接受英國天空新聞頻道採訪時說，阿布拉莫維奇提出，為他和俄總統普京“遞話”，成為兩人之間溝通的渠道。澤連斯基說，他與阿布拉莫維奇的會談“不是什麼秘密”，俄方希望打探烏方“準備做的事”。（新華社）"
+    },
     {
       "id": "4922955",
       "time": "2026-06-08 11:56:14",
@@ -177956,66 +178005,6 @@
         "Impact bullish"
       ],
       "text": "NVIDIA (NVDA.O) launched Vera, a CPU purpose-built to support agent-based AI systems."
-    },
-    {
-      "id": "4909619",
-      "time": "2026-06-01 12:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Airbnb愛彼迎夏季出境遊趨勢：世界盃辦賽城市搜尋熱度上升】2026年年初，中國旅行者在世界盃期間的住宿預訂量增至同比三倍。"
-    },
-    {
-      "id": "4909618",
-      "time": "2026-06-01 12:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陳茂波：香港首季度經濟增長5.9%創5年新高】香港特區立法會財經事務委員會今日（6月1日）討論香港最新經濟情況，特區政府財政司司長陳茂波表示，香港經濟在第一季度強勁擴張，按年增長5.9%，是近5年來最高。經季節性調整後按季上升2.9%，經濟活動不但持續擴張，而且明顯加速。"
-    },
-    {
-      "id": "4909617",
-      "time": "2026-06-01 12:00:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達推出面向AI智慧體的CPU Vera。"
-    },
-    {
-      "id": "4909616",
-      "time": "2026-06-01 12:00:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來汽車：2026年5月共交付37705輛汽車 同比增長62.3%】蔚來汽車：2026年5月，蔚來公司交付新車37,705臺，同比增長62.3%，環比增長28.4%。其中，蔚來品牌交付新車20,013臺，同比增長50.8%；樂道品牌交付新車12,029臺，同比增長91.5%，環比增長124.8%；firefly螢火蟲品牌交付新車5,663臺，同比增長53.9%，環比增長13.7%。今年前五個月，蔚來公司共交付新車150,526臺，同比增長68.7%。"
-    },
-    {
-      "id": "te:markets:555197",
-      "time": "2026-06-01 11:59:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Copper Gains on Tightening Supply — Copper futures climbed above $6.4 per pound on Monday, reaching their highest levels in more than two weeks as tightening global supplies and robust demand expectations continued to support the market. Chile, the world’s largest copper producer, reported its weakest April output in 23 years, reinforcing concerns about constrained global supply. Meanwhile, the newly appointed chairman of state-owned miner Codelco indicated that the company will place greater emphasis on profitability rather than maximizing production volumes. On the demand side, growing optimism surrounding the expansion of artificial intelligence technologies and the rapid construction of data center infrastructure bolstered the metal’s outlook. Rising copper consumption across global power grids, driven by the ongoing transition toward cleaner energy sources, also strengthened the bullish demand narrative."
-    },
-    {
-      "id": "4909615",
-      "time": "2026-06-01 11:59:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌今夏將在日本東京開設美國以外首家零售店】谷歌6月1日宣佈，今夏將在日本東京表參道開設其在美國以外的首家零售店。宣告稱，顧客可在店內體驗和購買最新款谷歌Pixel手機等產品，並獲得最新的AI體驗。"
-    },
-    {
-      "id": "4909614",
-      "time": "2026-06-01 11:57:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【建投能源成立新公司 含風力發電相關業務】企查查APP顯示，近日，建投（新疆）新能源有限公司成立，註冊資本1000萬元，經營範圍包含：發電技術服務；風力發電技術服務；電力行業高效節能技術研發；合同能源管理等。企查查股權穿透顯示，該公司由建投能源全資持股。"
     }
   ]
 }
