@@ -1,7 +1,131 @@
 {
-  "updated": "2026-06-08 22:01:15",
-  "count": 19123,
+  "updated": "2026-06-08 22:05:24",
+  "count": 19118,
   "items": [
+    {
+      "id": "mkt:019ea78c-e127-7226-8cb6-4c52c2aa3758",
+      "time": "2026-06-08 22:04:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "i24 News reported red-alert sirens sounded in northern Israel."
+    },
+    {
+      "id": "4924317",
+      "time": "2026-06-08 22:04:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率轉漲，重新逼近4.54%，亞太尾盤重新整理日高至4.5801%之後持續走低，美股盤初曾重新整理日低至4.5145%。"
+    },
+    {
+      "id": "4924316",
+      "time": "2026-06-08 22:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷神技術公司擬投資擴建羅得島州朴茨茅斯生產基地。"
+    },
+    {
+      "id": "4924315",
+      "time": "2026-06-08 22:04:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【和遠氣體：公司六氟化鎢產品尚在試生產過程中，尚未產生任何業績】和遠氣體6月8日公告，公司股票交易價格日收盤價格漲跌幅偏離值累計異常，連續3個交易日（2026年6月4日、2026年6月5日、2026年6月8日）累計偏離21.42%，根據《深圳證券交易所交易規則》相關規定，屬於股票交易異常波動情形。公司近期關注到有媒體報道“公司宜昌和潛江兩大電子特氣產業園規劃的系列電子特氣產品（如電子級氯化氫、電子級氯氣、電子級三氟化氮、六氟化鎢、三氯氫矽、四氯化矽、矽烷等電子化學品及電子特氣）即將在2025-2028釋放產能”。經公司自查，目前公司宜昌和潛江兩大電子特氣產業園規劃的系列電子特氣產品尚處於試生產階段。其中電子級一氧化碳、高純氨、羰基硫、矽烷產生業績，但佔比不超過5%，對公司業績影響很小；電子級三氟化氮、六氟化鎢、二氯二氫矽、三氯氫矽、四氯化矽、乙矽烷等電子特氣尚處於試生產階段，產能釋放不及預期，試生產過程中產能爬坡尚需較長時間，還未產生任何業績。公司再次澄清，關注到股吧等網路平臺有個別使用者發表涉及公司六氟化鎢產品產能下半年量產、已獲客戶認證的不實內容。公司鄭重提醒廣大投資者，公司六氟化鎢產品尚在試生產過程中，尚未產生任何業績，且公司尚未簽署任何具有法律約束力的實質性訂單協議。"
+    },
+    {
+      "id": "4924314",
+      "time": "2026-06-08 22:03:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋼鐵公司計劃向其蒙瓦利工廠投資高達25億美元。"
+    },
+    {
+      "id": "mkt:019ea78b-fcd2-7226-8cb6-413cb9b852fc",
+      "time": "2026-06-08 22:03:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Expert: Iran entering 'neither war nor peace' state; US more eager to push deal than Iran】A King's College London international security lecturer said that with the Strait of Hormuz stabilising, Iran appears to be moving into a 'neither war nor peace' posture and is not rushing back to the negotiating table to seek sanctions relief. He said the United States looks more clearly intent on pushing a deal than Iran, despite Trump’s mixed signals—frequent hawkish rhetoric alongside public comments that an agreement is close. On Israel, he added Prime Minister Netanyahu needs to show he is taking a hard line against Hezbollah rather than merely following US policy signals."
+    },
+    {
+      "id": "4924313",
+      "time": "2026-06-08 22:02:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團接入微信AI生態，將提供本地生活等AI服務體驗】6月8日，微信宣佈正式面向開發者提供便捷接入微信AI生態的能力，使用者可透過微信AI Agent調取小程式AI應用服務。美團方面表示，作為首批內測團隊，此前已與微信團隊聯合開發並測試接入。據悉，未來，使用者透過微信Agent呼叫美團外賣等本地生活服務，實現更智慧、便捷的AI生活服務體驗。"
+    },
+    {
+      "id": "mkt:019ea78a-cb37-7226-8cb6-3f21aa7c7116",
+      "time": "2026-06-08 22:02:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK",
+        "Impact bullish"
+      ],
+      "text": "【Meituan integrates with WeChat AI ecosystem to offer local-life AI services】On June 8 WeChat opened developer access to its AI ecosystem via WeChat AI Agent, enabling calls to mini-program AI services. Meituan said it was among the first internal test teams and has jointly developed and tested the integration. Going forward users will be able to invoke Meituan food-delivery and other local-life services through WeChat Agent for AI-enabled, more convenient experiences."
+    },
+    {
+      "id": "mkt:019ea78a-7383-7226-8cb6-33945414675c",
+      "time": "2026-06-08 22:02:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【KBRA: ECB over‑tightening risk could push eurozone into stagflation】KBRA senior director Ken Egan said in a report that further ECB rate hikes could push the eurozone into unnecessary stagflation. He warned that while credibility matters and some tightening may be needed to anchor expectations, interest rates are a blunt tool for supply shocks, especially with growth momentum weak. Egan said recent inf rises have been driven more by external energy prices than by domestic overheating and that policy overcorrection could allow an energy shock to evolve into stagflation risk. The ECB is expected to raise rates by 25 bps this week."
+    },
+    {
+      "id": "4924312",
+      "time": "2026-06-08 22:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮邊境事務主管：將向紐約市大舉增派移民執法人員】特朗普政府已制定計劃，將向紐約市大舉增派美國移民和海關執法局(ICE)人員，此舉恐將加劇特朗普與紐約州州長Kathy Hochul之間因移民政策導致的緊張關係，總統特朗普任命的白宮邊境事務主管Tom Homan週一表示，在Hochul上月底簽署一項限制ICE在該州開展行動並禁止ICE特工蒙面的法案之前，他已就增派人員一事向其發出過警告。"
+    },
+    {
+      "id": "4924311",
+      "time": "2026-06-08 22:01:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓民防部門訊息，菲律賓南部今天（6月8日）早上發生的地震已造成35人死亡。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ea78a-085e-7226-8cb6-2bad5ced1ddf",
+      "time": "2026-06-08 22:01:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "X.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. Steel plans to invest up to $2.5 bln in its Mon Valley plant."
+    },
+    {
+      "id": "4924310",
+      "time": "2026-06-08 22:00:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門科拓通訊技術股份有限公司透過港交所上市聆訊】利弗莫爾證券顯示，廈門科拓通訊技術股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
     {
       "id": "4924309",
       "time": "2026-06-08 22:00:26",
@@ -176094,192 +176218,6 @@
         "其他"
       ],
       "text": "【天津最佳化調整12條重點產業鏈】據天津發布，在2026世界智慧產業博覽會相關活動中，市工業和資訊化局向外界釋出天津市調整最佳化後的12條重點產業鏈，突出產業支撐、分類施策、兩業融合，有力支撐全市現代化產業體系建設。天津市工業和資訊化局規劃發展處副處長高建介紹，此次重點產業鏈最佳化調整，是對標現代化產業體系路線圖實施的。為了突出產業支撐作用，新增智慧機器人、資源綜合利用2條產業鏈；將汽車及新能源汽車、車聯網2條產業鏈整合為“智慧網聯新能源汽車產業鏈”；將信創、積體電路2條產業鏈整合為“新一代資訊科技產業鏈”，並新增人工智慧、智慧終端2條子鏈。調整最佳化後，12條重點產業鏈將有力支撐綠色石化、汽車、高階裝備、新一代資訊科技、新能源新材料、生命健康、迴圈經濟7大產業發展。"
-    },
-    {
-      "id": "te:economy:555418",
-      "time": "2026-06-01 22:04:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Business Confidence",
-        "Importance 3"
-      ],
-      "text": "US Factory Growth Strongest in 4 Years — The ISM Manufacturing PMI rose to 54 in May 2026 from 52.7 in each of the previous two months and beating forecasts of 53. The reading pointed to the strongest expansion in the factory sector since May 2022, with faster growth seen for new orders (56.8 vs 54.1), production (54.3 vs 53.4) and backlog of orders (52.2 vs 51.4). Also, employment contracted less (48.6 vs 46.4). Price pressures remained elevated but below the levels seen in April (82.1 vs 84.6)."
-    },
-    {
-      "id": "4911031",
-      "time": "2026-06-01 22:04:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道稱伊朗暫停談判，比特幣觸及七週低點】伊朗國家媒體報道稱該國將暫停與美國的談判後，比特幣跌至七週低點。伊朗的Tasnim news agency表示，伊朗將切斷透過調解人進行的談判，以抗議以色列對黎巴嫩的襲擊。Strategy上週有史以來第二次出售該加密貨幣的訊息也令比特幣承壓。根據週一的一份檔案，Strategy在5月26日至5月31日期間以250萬美元的價格出售了32枚代幣，平均每枚77,135美元。倫敦證券交易所集團資料顯示，比特幣最低跌至71,495美元。"
-    },
-    {
-      "id": "4911030",
-      "time": "2026-06-01 22:04:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受伊朗暫停談判報道影響，歐元區和英國國債收益率擴大漲幅】有報道稱，伊朗暫停與美國的談判，以抗議以色列襲擊黎巴嫩，受此影響，歐元區政府債券和英國國債收益率飆升。伊朗塔斯尼姆通訊社(Tasnim)在X平臺上表示，伊朗將停止透過中間人與美國進行談判和資訊交換。Tradeweb的資料顯示，10年期德國國債收益率上升8.3個基點，至3.012%；法國10年期國債收益率上升10個基點，至3.636%；10年期義大利國債收益率躍升11個基點，至3.750%；10年期英國國債收益率上升8.2個基點，至4.889%。"
-    },
-    {
-      "id": "4911029",
-      "time": "2026-06-01 22:04:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國5月房價環比下跌0.6%】中東戰事引發的衝擊開始影響到英國的房產市場。全英房屋抵押貸款協會（Nationwide）6月1日公佈資料顯示，5月，英國房價環比下跌0.6%，同比上漲1.7%，均較4月房價漲幅明顯放緩。4月，英國平均房價環比上漲0.4%，同比上漲3%。全英房屋抵押貸款協會首席經濟學家Robert Gardner指出，5月，英國房價迎來了今年以來的首次月度下跌，這是意料之中的事。中東局勢帶來了不確定性，也使得英國的能源價格和抵押貸款利率上漲，這些均不利於房產市場。但Robert Gardner同時強調，近年來英國經濟和房地產市場展現出驚人的韌性。英國家庭財務狀況穩健，家庭總債務佔收入的比例處於近二十年來的最低水平，並且積累了相當可觀的儲蓄，如果中東衝擊能夠相對迅速地過去，並且能源價格在未來幾個季度恢復正常，那麼英國房地產市場的疲軟也將是短暫的。"
-    },
-    {
-      "id": "te:markets:555417",
-      "time": "2026-06-01 22:04:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Slides Toward April Lows Amid Middle East Tensions — The euro dropped toward $1.16, nearing its weakest level since April 7, as escalating Middle East tensions dashed hopes for a quick reopening of the Strait of Hormuz and raised concerns about the Eurozone’s economic outlook. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of \"violating the ceasefire on all fronts.\" The resulting surge in oil prices prompted investors to increase bets on European Central Bank interest rate hikes. Markets now expect at least two ECB rate increases this year, with an over 90% probability of the first hike occurring as early as next week. Investors are also awaiting this week’s Eurozone inflation report, following last week’s data showing accelerated EU-harmonized inflation in May for France, Italy, and Spain, while Germany saw a slowdown."
-    },
-    {
-      "id": "4911028",
-      "time": "2026-06-01 22:03:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭臺高鐵溫玉段開始聯調聯試】記者從中國鐵路上海局集團有限公司獲悉，6月1日，新建杭州經紹興至台州高鐵溫嶺至玉環段啟動聯調聯試，標誌著杭臺高鐵溫玉段進入開通運營倒計時。 杭臺高鐵溫玉段位於台州市南部，途經台州溫嶺、玉環兩市，新建正線約37公里，設計時速350公里。線路建成運營後，將填補玉環市鐵路空白，對於加快構建浙江省1小時高鐵交通圈、完善區域鐵路網布局、促進沿線旅遊開發等具有重要意義。（新華社）"
-    },
-    {
-      "id": "mkt:019e837f-5b64-7ccf-b269-4162871c0017",
-      "time": "2026-06-01 22:03:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【China's 3D printers surge abroad; Shenzhen makes nearly 90% of global consumer models】CUSTOMS data: China exported 2.46 mln 3D printers in Jan–Apr, valued at 6.106 bln yuan, up 100.3% in units and 110.4% in value YoY. Growth is led by consumer-grade 3D printers, which exporters say combine higher performance and cost competitiveness; some upgraded models now approach industrial-grade print quality. Shenzhen remains the production hub for consumer units, accounting for nearly 90% of the global consumer 3D-printer market; Shenzhen's Jan–Apr export value was 5.24 bln yuan, +128.6% YoY, or 85.8% of China’s 3D-printer export value."
-    },
-    {
-      "id": "4911027",
-      "time": "2026-06-01 22:02:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元升至日內高點，此前ISM製造業指數超出預期。"
-    },
-    {
-      "id": "mkt:019e837e-26f1-7ccf-b269-3abe78d24263",
-      "time": "2026-06-01 22:02:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "U.S. Treasury yields ticked up after ISM manufacturing and construction spending releases; the 10-year Treasury yield rose 5.9 bps to 4.512%."
-    },
-    {
-      "id": "4911026",
-      "time": "2026-06-01 22:02:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "加密貨幣概念股下跌，比特幣跌至一個多月新低。Strategy公司股價下跌6%，此前該公司售出了價值250萬美元的比特幣。Coinbase Global股價下跌5%，Robinhood股價下跌7.6%，Circle股價下跌5.8%。普羅 Shares比特幣策略ETF與貝萊德安碩比特幣信託均下跌2.6%。"
-    },
-    {
-      "id": "4911025",
-      "time": "2026-06-01 22:01:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月ISM庫存指數 49.9，前值49。\n美國5月ISM就業指數 48.6，前值46.4。\n美國5月ISM新訂單指數 56.8，前值54.1。\n美國5月ISM產出指數 54.3，前值53.4。\n美國5月ISM製造業物價支付指數 82.1，預期85.5，前值84.6。"
-    },
-    {
-      "id": "mkt:019e837d-ac49-7ccf-b269-31b8af444a57",
-      "time": "2026-06-01 22:01:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US May ISM manufacturing prices-paid index 82.1, below 85.5 expected and 84.6 prior."
-    },
-    {
-      "id": "mkt:019e837d-aa4f-7ccf-b269-2ab06f188a9e",
-      "time": "2026-06-01 22:01:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing Prices Paid Index (May) | actual 82.1 | consensus 85.5 | previous 84.6"
-    },
-    {
-      "id": "mkt:019e837d-a9d7-7ccf-b269-253b253d8dba",
-      "time": "2026-06-01 22:01:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "Copper",
-        "S&P500"
-      ],
-      "text": "US May ISM production index 54.3, up from 53.4 previously."
-    },
-    {
-      "id": "mkt:019e837d-54c2-7ccf-b269-19757355ff3f",
-      "time": "2026-06-01 22:01:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Production Index (May) | actual 54.3 | previous 53.4"
-    },
-    {
-      "id": "mkt:019e837d-5468-7ccf-b269-1436a2d90324",
-      "time": "2026-06-01 22:01:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US May ISM Employment Index 48.6; prior 46.4."
-    },
-    {
-      "id": "mkt:019e837d-51b0-7ccf-b269-0c4cc9c465fb",
-      "time": "2026-06-01 22:01:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US May ISM Inventories Index 49.9, prior 49.0"
-    },
-    {
-      "id": "mkt:019e837d-51a6-7ccf-b269-031b97c275df",
-      "time": "2026-06-01 22:01:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Employment Index (May) | actual 48.6 | previous 46.4"
     }
   ]
 }
