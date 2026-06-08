@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-09 01:00:11",
+  "updated": "2026-06-09 01:04:13",
   "count": 19109,
   "items": [
+    {
+      "id": "4924507",
+      "time": "2026-06-09 01:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：確認新墨西哥州利縣發現首例犬類新大陸螺旋蠅感染病例，得克薩斯州已出現第四例病例。"
+    },
+    {
+      "id": "4924506",
+      "time": "2026-06-09 01:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果軟體工程主管克雷格·費德里吉稱蘋果計劃更新兒童安全功能。"
+    },
+    {
+      "id": "4924505",
+      "time": "2026-06-09 01:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒂姆·庫克稱蘋果全球開發者大會（WWDC）的釋出內容將聚焦蘋果智慧（Apple Intelligence）與Siri。"
+    },
+    {
+      "id": "mkt:019ea82f-d181-733a-9231-db95ffc41091",
+      "time": "2026-06-09 01:02:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASS reports the Russian Energy Ministry said a rise in airstrikes on energy facilities has caused temporary fuel supply disruptions in southern Russia."
+    },
+    {
+      "id": "mkt:019ea82f-b8ea-733a-9231-d45e684d2167",
+      "time": "2026-06-09 01:02:40",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) WWDC 2026 developer conference has begun."
+    },
+    {
+      "id": "4924504",
+      "time": "2026-06-09 01:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：目前已有超180萬美國人失業時長超過六個月。"
+    },
+    {
+      "id": "4924503",
+      "time": "2026-06-09 01:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯能源部：對能源行業設施的空襲頻次增加，正導致俄羅斯南部地區出現臨時燃料供應困難。"
+    },
+    {
+      "id": "4924502",
+      "time": "2026-06-09 01:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫要求委員會就人工智慧議題舉行更多聽證會，傳喚貝森特與盧特尼克出席。"
+    },
+    {
+      "id": "4924501",
+      "time": "2026-06-09 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.27%，滬銅收漲0.31%，滬鋁收漲0.15%，滬鋅收漲0.30%，滬鉛收跌1.19%，滬鎳收跌0.77%，滬錫收跌0.79%。氧化鋁夜盤收漲0.22%，鋁合金收漲0.15%。不鏽鋼夜盤收跌1.16%。"
+    },
+    {
+      "id": "mkt:019ea82d-2e3c-733a-9231-c9b98d78f580",
+      "time": "2026-06-09 00:59:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "LEBANESE HEALTH MINISTRY says an Israeli strike on Zefta in southern Nabatieh governorate killed at least seven people, including a Syrian child and a woman, and wounded at least eight."
+    },
     {
       "id": "mkt:019ea82c-8b75-733a-9231-c3f151ce1ca6",
       "time": "2026-06-09 00:59:11",
@@ -176030,103 +176117,6 @@
         "DXY"
       ],
       "text": "【Iran says it will respond if red lines over Lebanon and Gaza are crossed】Iranian state TV reported that on the 1st a social-media account linked to the IRGC intelligence arm posted that crossing Iran’s red lines on Lebanon and Gaza would amount to launching a direct war against Iran’s national security and allied Islamic Resistance forces. The post said Iran is determined to carry out defensive actions, including measures that break existing rules and frameworks and the opening of new fronts, while maintaining the current posture in the Strait of Hormuz."
-    },
-    {
-      "id": "4911213",
-      "time": "2026-06-02 01:04:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：正在詢問內塔尼亞胡到底發生了什麼事。"
-    },
-    {
-      "id": "4911212",
-      "time": "2026-06-02 01:03:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊方稱將就黎巴嫩和加沙問題紅線被突破作出回應】據伊朗國家電視臺報道，與伊朗伊斯蘭革命衛隊情報組織相關的一個社交媒體賬號1日發文稱，在黎巴嫩和加沙問題上越過紅線，意味著對伊朗國家安全以及伊斯蘭抵抗力量發動直接戰爭。報道說，該賬號稱，作為回應，伊朗決心實施防禦行動，包括採取打破既有規則和框架的措施、開闢新的戰線，同時維持霍爾木茲海峽既有態勢。（新華社）"
-    },
-    {
-      "id": "mkt:019e8423-da54-7993-96f7-7caa8ef4d3e5",
-      "time": "2026-06-02 01:03:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry said a ceasefire violation on any one front is equivalent to a violation on all fronts."
-    },
-    {
-      "id": "4911211",
-      "time": "2026-06-02 01:03:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我不在乎與伊朗的和平談判是否結束。"
-    },
-    {
-      "id": "4911210",
-      "time": "2026-06-02 01:02:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：一條戰線違反停火，等同於所有戰線違反停火。"
-    },
-    {
-      "id": "mkt:019e8423-6fff-7993-96f7-714926cddaf5",
-      "time": "2026-06-02 01:02:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry said the United States bears direct responsibility for breaches of the ceasefire with Iran and should also be held accountable for Israeli ceasefire violations in Lebanon."
-    },
-    {
-      "id": "4911209",
-      "time": "2026-06-02 01:02:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部：美國需對破壞伊方相關停火協議以及以色列在黎巴嫩境內違反停火協定的行為承擔直接責任。"
-    },
-    {
-      "id": "mkt:019e8422-c024-7993-96f7-6b9181cb4da4",
-      "time": "2026-06-02 01:02:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "According to Business Insider, Amazon (AMZN.O)'s head of satellite internet warned employees to stay focused after last week's Blue Origin rocket explosion."
-    },
-    {
-      "id": "4911208",
-      "time": "2026-06-02 01:02:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：在上週藍色起源火箭發生爆炸後，亞馬遜衛星網際網路業務負責人要求員工穩住心神、專注工作。"
-    },
-    {
-      "id": "4911207",
-      "time": "2026-06-02 01:01:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "華碩釋出了搭載NVIDIA RTX Spark顯示卡的革命性ProArt P16和P14膝上型電腦。"
     }
   ]
 }
