@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-09 00:35:08",
-  "count": 19116,
+  "updated": "2026-06-09 00:40:05",
+  "count": 19113,
   "items": [
+    {
+      "id": "4924491",
+      "time": "2026-06-09 00:38:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴和百度短線走低，分別下跌0.3%和1.9%。"
+    },
+    {
+      "id": "mkt:019ea819-3694-733a-9231-a11b65a629ff",
+      "time": "2026-06-09 00:38:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CDC Foundation launches emergency response fund to support Ebola response in the Democratic Republic of the Congo and Uganda."
+    },
     {
       "id": "4924490",
       "time": "2026-06-09 00:33:30",
@@ -176148,54 +176164,6 @@
         "MKT News"
       ],
       "text": "Pakistan's prime minister met EU high representative for foreign affairs and security policy kallas and said Pakistan seeks to deepen its multifaceted partnership with the EU. He expressed satisfaction with the 8th EU–Pakistan strategic dialogue and reiterated Pakistan's commitment to strengthen cooperation with the EU on trade and investment, climate change, security, migration, sustainable development and connectivity."
-    },
-    {
-      "id": "4911196",
-      "time": "2026-06-02 00:39:14",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗轉而看漲銅市場，預計未來一年將達到15000美元/噸。"
-    },
-    {
-      "id": "4911195",
-      "time": "2026-06-02 00:37:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據沙烏地阿拉伯阿拉比亞電視臺：巴基斯坦外交部表示，伊朗方面要求繼續進行調解，以緩和當前局勢並支援停火。"
-    },
-    {
-      "id": "mkt:019e840c-50e4-7993-96f7-1ef5a1e72b48",
-      "time": "2026-06-02 00:37:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Israel's Channel 12 reports Prime Minister Netanyahu held a phone call with Trump."
-    },
-    {
-      "id": "mkt:019e840b-4c50-7993-96f7-1343d999bcd5",
-      "time": "2026-06-02 00:36:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Arabiya (Saudi Arabia) reported Pakistan’s foreign ministry said Iran requested continued mediation to ease the current situation and support a ceasefire."
-    },
-    {
-      "id": "mkt:019e840a-304d-7993-96f7-0a7f59bab448",
-      "time": "2026-06-02 00:35:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel Defense Forces says it killed one HEZBOLLAH missile unit commander】On June 1 local time, the Israel Defense Forces (IDF) said an airstrike on Nabatieh in southern Lebanon on May 31 killed a HEZBOLLAH missile unit commander whom the IDF said helped organize and direct rocket and drone attacks against Israel. The IDF also said it shot down a HEZBOLLAH-launched drone over its area of operations in southern Lebanon."
     }
   ]
 }
