@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-08 08:46:03",
-  "count": 19214,
+  "updated": "2026-06-08 08:49:54",
+  "count": 19218,
   "items": [
+    {
+      "id": "te:markets:557050",
+      "time": "2026-06-08 08:48:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Futures Rise — US heating oil futures rose above $3.60 per gallon, trimming a two-day decline, after reports that Iran fired missiles at Israel, raising doubts over the durability of the already fragile US-Iran ceasefire. Iran said the attack was a warning to Israel over its actions in Lebanon, while Israel intercepted all missiles. President Trump urged Iran to resume talks and reportedly sought to prevent an Israeli retaliation. The latest strikes raise the risk of further military escalation, which could deepen disruptions to Middle Eastern shipping routes and energy exports, intensifying tightness in global distillate markets. The Strait of Hormuz, a key transit route for oil and fuel shipments handling about one-fifth of global oil consumption, has remained constrained since March. Meanwhile, US distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May."
+    },
+    {
+      "id": "4922521",
+      "time": "2026-06-08 08:48:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊戈爾在安徽成立電力裝置公司】企查查APP顯示，近日，安徽伊戈爾電力裝置有限公司成立，註冊資本1億元，經營範圍包含：電力行業高效節能技術研發；變壓器、整流器和電感器製造；配電開關控制裝置研發；配電開關控制裝置製造等。企查查股權穿透顯示，該公司由伊戈爾全資持股。"
+    },
+    {
+      "id": "mkt:019ea4b2-f028-7338-95ad-b5c950097fac",
+      "time": "2026-06-08 08:47:30",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing balances down CNY 14.042 bln on June 5】As of June 5, margin financing balances were CNY 1.465447 tln on the Shanghai Stock Exchange, down CNY 11.297 bln from the prior trading day; CNY 1.411403 tln on the Shenzhen Stock Exchange, down CNY 2.745 bln; combined CNY 2.87685 tln, down CNY 14.042 bln."
+    },
+    {
+      "id": "4922520",
+      "time": "2026-06-08 08:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少140.42億元】截至6月5日，上交所融資餘額報14654.47億元，較前一交易日減少112.97億元；深交所融資餘額報14114.03億元，較前一交易日減少27.45億元；兩市合計28768.5億元，較前一交易日減少140.42億元。"
+    },
+    {
+      "id": "4922518",
+      "time": "2026-06-08 08:46:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【開山股份：全資子公司OME與Power Planet簽署《開發增強型地熱系統（EGS）合作協議》】開山股份6月8日早間公告，公司美國全資子公司Open Mountain Energy, LLC與Power Planet, Inc.簽署《開發增強型地熱系統（EGS）合作協議》。"
+    },
+    {
+      "id": "4922517",
+      "time": "2026-06-08 08:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：港股通標的證券名單發生調整，調入鳴鳴很忙(01768.HK)、智譜(02513.HK)、精鋒醫療-B(02675.HK)、海致科技集團(02706.HK)、壁仞科技(06082.HK)、天數智芯(09903.HK)，調整自2026年06月08日起生效。"
+    },
+    {
+      "id": "mkt:019ea4b1-a5ae-7338-95ad-abba1b3fbc51",
+      "time": "2026-06-08 08:46:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01768.HK",
+        "Impact bullish",
+        "02513.HK",
+        "02675.HK"
+      ],
+      "text": "Shenzhen Stock Exchange said the Hong Kong Stock Connect eligible securities list was adjusted, adding 01768.HK, 02513.HK, 02675.HK, 02706.HK, 06082.HK and 09903.HK. The changes take effect June 8, 2026."
+    },
+    {
+      "id": "4922516",
+      "time": "2026-06-08 08:45:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本日揮株式會社（JGC Holdings Corporation）：與德希尼布能源、三星重工聯合贏得莫三比克浮式液化天然氣專案的設計採購施工安裝一體化（EPCIC）合同， 合同總金額低於50億美元，其中日揮所佔份額高於10億美元。"
+    },
+    {
+      "id": "te:markets:557049",
+      "time": "2026-06-08 08:45:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Losses on Middle East Tensions — Silver traded near $68 an ounce on Monday after tumbling nearly 10% last week to its lowest level in more than two months, as renewed tensions in the Middle East drove oil prices higher and fueled concerns about inflation and interest rates. Iran launched several rounds of missiles toward Israel in a warning against further military actions in Lebanon, though Israel's military said all the projectiles were intercepted and no casualties were reported. The prolonged conflict and the continued near-closure of the Strait of Hormuz have disrupted energy supplies from the Persian Gulf, supporting higher oil prices and intensifying inflation concerns. At the same time, stronger-than-expected US employment data weighed on precious metals last week by reinforcing expectations that the Federal Reserve could raise interest rates later this year. Markets are now pricing in roughly a 70% chance of a Fed rate hike in December, up from around 50% before the jobs report."
+    },
     {
       "id": "4922515",
       "time": "2026-06-08 08:44:37",
@@ -177275,52 +177364,6 @@
         "Impact bearish"
       ],
       "text": "YONHAP — The union at South Korea's internet platform giant Kakao said on Monday that, after government-mediated second-round wage talks collapsed last month, it will launch a partial strike next week."
-    },
-    {
-      "id": "4909262",
-      "time": "2026-06-01 08:48:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿健醫藥完成2.1億C1輪融資】近日，睿健醫藥宣佈完成2.1億元人民幣C1輪融資。本輪融資由光合創投及杏澤資本聯合領投。募集資金將主要用於公司核心臨床管線推進、“AI+化學誘導”平臺持續升級、規模化生產體系建設、全球臨床開發及國際化商業合作佈局。"
-    },
-    {
-      "id": "4909261",
-      "time": "2026-06-01 08:48:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓在建酒店坍塌事故已致12人死亡】記者6月1日獲悉，菲律賓在建酒店坍塌事故的死亡人數上升至12人。5月24日凌晨3時左右，菲律賓邦板牙省安赫萊斯市一處9層的在建酒店發生坍塌，據稱有30到40名建築工人被困。此前，當地政府稱已有26人被救出。"
-    },
-    {
-      "id": "mkt:019e80a6-d320-766e-87ad-d9ba0c5898b4",
-      "time": "2026-06-01 08:47:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【Margin balance across Shanghai and Shenzhen down CNY29.416bn】As of May 29, Shanghai Stock Exchange margin balance was CNY1,472.246bn, down CNY17.306bn from the prior session; Shenzhen Stock Exchange was CNY1,409.907bn, down CNY12.11bn; combined CNY2,882.153bn, down CNY29.416bn."
-    },
-    {
-      "id": "4909260",
-      "time": "2026-06-01 08:47:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少294.17億元】截至5月29日，上交所融資餘額報14722.46億元，較前一交易日減少173.06億元；深交所融資餘額報14099.07億元，較前一交易日減少121.11億元；兩市合計28821.53億元，較前一交易日減少294.17億元。"
-    },
-    {
-      "id": "mkt:019e80a5-a005-766e-87ad-d01c38e80d2f",
-      "time": "2026-06-01 08:46:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Tin up 40% in six months as AI drives demand for 'compute metal'】Tin has risen about 40% in six months, from roughly 300,000 yuan/tonne in November to about 420,000 yuan/tonne, trading near historic highs. China remains the world’s largest refined-tin producer and consumer, but falling domestic ore grades mean roughly two-thirds of smelter feedstock is imported. Since last year, supply has tightened after export restrictions and geological disruptions in major producers Myanmar, Indonesia and the Democratic Republic of Congo. Market participants expect elevated tin prices to persist over the next one to two years. Demand is shifting from traditional consumer electronics and tinplate to AI servers, optical modules and advanced semiconductor packaging, lifting overall consumption and prompting mid- and downstream firms to accelerate technology upgrades and move upmarket."
     }
   ]
 }
