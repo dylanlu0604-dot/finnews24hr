@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-08 21:52:55",
-  "count": 19152,
+  "updated": "2026-06-08 21:57:06",
+  "count": 19134,
   "items": [
+    {
+      "id": "mkt:019ea784-76d5-7226-8cb6-02b828cae6ce",
+      "time": "2026-06-08 21:55:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zaporizhzhia regional governor said a Russian drone strike killed two people in Zaporizhzhia city."
+    },
+    {
+      "id": "4924303",
+      "time": "2026-06-08 21:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國官員：美國未攔截伊朗向以色列發射的導彈】據報道，一名美國官員表示美軍並未攔截伊朗發射的任何導彈。這與此前幾輪伊以衝突形成明顯反差，此前美國曾動用大量本國攔截導彈擊落針對以色列的伊朗導彈。此番否認與以色列軍方一名官員週一早些時候的表態相悖，這名以軍官員稱美方協助了以色列的防空行動，其中包括攔截部分伊朗導彈。該官員還透露，以軍夜間與美國中央司令部保持協同溝通，以色列國防軍參謀長埃亞勒・扎米爾中將曾兩度與美國中央司令部司令布拉德・庫珀上將通話。"
+    },
+    {
+      "id": "4924302",
+      "time": "2026-06-08 21:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "扎波羅熱州州長稱，俄羅斯無人機襲擊造成兩人死亡。"
+    },
+    {
+      "id": "mkt:019ea783-8cd6-7226-8cb5-f872d1c811c9",
+      "time": "2026-06-08 21:54:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department imposes additional visa restrictions on more than 100 Nicaraguan officials and their family members."
+    },
+    {
+      "id": "4924301",
+      "time": "2026-06-08 21:54:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國對一百餘名尼加拉瓜官員及其家屬實施額外簽證限制。"
+    },
     {
       "id": "4924300",
       "time": "2026-06-08 21:52:09",
@@ -22,6 +63,14 @@
         "XAUUSD"
       ],
       "text": "Saudi authorities said alarms earlier today were precautionary after a missile from the direction of Yemen triggered an alert near the border."
+    },
+    {
+      "id": "4924299",
+      "time": "2026-06-08 21:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中交集團發起成立中國公路學會人工智慧分會】據中交集團訊息，近日，在2026交通科技與產業創新發展大會舉辦之際，由中交集團牽頭髮起，公路交通人工智慧領域龍頭企業、科研院所與高等院校共同組建的中國公路學會人工智慧分會，於天津正式揭牌成立。"
     },
     {
       "id": "4924298",
@@ -189,6 +238,15 @@
         "Impact bearish"
       ],
       "text": "WTI crude turned lower after Iran and Israel announced successive pauses in attacks on each other."
+    },
+    {
+      "id": "4924288",
+      "time": "2026-06-08 21:39:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗和以色列先後宣佈停止襲擊對方 WTI原油期貨大幅跳水日內轉跌】WTI原油期貨價格跌0.01%，報90.533美元/桶；布倫特原油期貨價格漲0.68%，報93.720美元/桶。訊息面上，伊朗武裝部隊哈塔姆·安比亞中央司令部8日宣佈，“對以色列的軍事打擊行動告一段落”。以色列第12頻道電視臺8日援引以色列高階官員的話說，以色列應美國總統特朗普要求，暫停對伊朗的襲擊。"
     },
     {
       "id": "4924287",
@@ -176348,267 +176406,6 @@
         "國際"
       ],
       "text": "加通貝祥啟動對美國稀土公司的研究覆蓋，給予買入評級，目標價25美元。"
-    },
-    {
-      "id": "mkt:019e8379-1d72-7ccf-b268-b4e4cbe34a7d",
-      "time": "2026-06-01 21:56:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold hit an intraday low of $4,450/oz, down nearly 2% on the day."
-    },
-    {
-      "id": "4911015",
-      "time": "2026-06-01 21:56:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部譴責以色列在黎巴嫩領土上的侵略行為，反對以方侵犯、入侵黎巴嫩以及破壞其主權的舉動。"
-    },
-    {
-      "id": "4911014",
-      "time": "2026-06-01 21:56:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破94美元/桶，日內漲7.60%。"
-    },
-    {
-      "id": "4911013",
-      "time": "2026-06-01 21:55:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：美國天然氣期貨回吐部分漲幅】美國天然氣期貨從隔夜高點回落，同時受到進入6月份氣溫升高預測的支撐。Ritterbusch & Associates在一份報告中表示：“在製冷週期的早期階段天氣變熱之際，市場不得不設想出現炎熱夏季的可能性增加。“該機構認為，在最高達到每百萬英熱單位3.50美元之前幾乎沒有阻力。該機構補充道，天然氣出口的改善也略微利多，而產量增幅溫和。紐約商交所天然氣期貨下跌2.4%，報每百萬英熱單位3.211美元。"
-    },
-    {
-      "id": "mkt:019e8378-3b91-7ccf-b268-aca5ffffec58",
-      "time": "2026-06-01 21:55:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai gold main contract fell 2.00% intraday to 973.10 yuan/gram."
-    },
-    {
-      "id": "te:markets:555412",
-      "time": "2026-06-01 21:55:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Strengthens as Iran Suspends Negotiation Messaging — The dollar index rose to 99.2 on Monday, extending May’s 0.9% gain, as renewed setbacks in US-Iran negotiations added to geopolitical uncertainty and pushed oil prices higher. Iranian media reported that Tehran had suspended communications with Washington following attacks in Lebanon and was moving to fully close the Strait of Hormuz. Earlier exchanges of military strikes between the US and Iran had already raised doubts about the prospects for a diplomatic agreement. A prolonged closure of the Strait of Hormuz would add to inflationary pressures by driving energy prices higher, reinforcing expectations that the Fed will keep interest rates elevated for longer. The odds for a rate hike by the Fed in December currently stand above 50%. The dollar initially strengthened at the start of the conflict, supported by safe-haven demand and perceptions that the US economy is relatively less exposed to energy-driven inflation. However, it has since surrendered part of those gains."
-    },
-    {
-      "id": "te:economy:555411",
-      "time": "2026-06-01 21:55:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "US Manufacturing Growth at Four-Year High — The S&P Global US Manufacturing PMI climbed to 55.1 in May 2026, up from 54.5 in April but slightly below the preliminary estimate of 55.3. This marked the strongest monthly expansion in the sector since May 2022, driven by the sharpest increase in production since April 2022 and another month of robust new orders. Stockpiling also contributed, as companies sought to mitigate risks from rising prices and supply chain disruptions tied to the Middle East conflict. However, exports declined for the eleventh consecutive month, with firms attributing the drop to geopolitical instability and tariffs. Employment growth, though modest, reached a five-month high, while purchasing activity increased solidly. Supplier delivery times worsened the most since August 2022. On pricing, both input costs and output charges rose at the fastest pace in nearly four years. Business confidence, meanwhile, fell to a four-month low."
-    },
-    {
-      "id": "4911012",
-      "time": "2026-06-01 21:55:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4480美元/盎司，日內跌2.46%。"
-    },
-    {
-      "id": "4911011",
-      "time": "2026-06-01 21:55:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破97美元/桶，日內漲6.51%。"
-    },
-    {
-      "id": "4911010",
-      "time": "2026-06-01 21:55:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【澳門舉辦中葡央行數字貨幣研討會 探索跨境金融合作新路徑】澳門金融管理局1日舉行“中國－葡語國家央行數字貨幣發展與跨境創新應用高階研討會”，探索中國與葡語國家在央行數字貨幣跨境應用領域的創新合作路徑，提升澳門“中國與葡語國家金融服務平臺”功能。來自葡語國家、中國內地及港澳的官員、金融業者、專家學者約250人出席研討會。澳門金融管理局行政管理委員會主席黃善文表示，澳門持續為中國與葡語國家在經貿、金融、數字經濟等各領域搭建對話平臺、暢通合作渠道、凝聚發展合力。按照“十五五”規劃綱要要求，澳門正務實推進“數字澳門元”建設，助推人民幣國際化並夯實中葡金融服務平臺樞紐功能。（新華社）"
-    },
-    {
-      "id": "mkt:019e8377-75be-7ccf-b268-a6dd05942f45",
-      "time": "2026-06-01 21:55:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel Defense Forces says it will strike suburbs of Beirut if HEZBOLLAH continues to carry out attacks."
-    },
-    {
-      "id": "mkt:019e8377-0509-7ccf-b268-986365bfc7e9",
-      "time": "2026-06-01 21:54:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Deutsche Bank: Markets highly sensitive to negative Iran-related news】Deutsche Bank US rates strategist said markets were highly optimistic over the past week that a US‑Iran deal had been reached, leaving them extremely sensitive to negative developments, particularly today’s reports that Iran has halted talks with the US."
-    },
-    {
-      "id": "4911009",
-      "time": "2026-06-01 21:54:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德意志銀行：市場對任何伊朗相關的負面訊息都極為敏感】德意志銀行美國利率策略主管根納季·戈布利奇表示：“過去一週，市場對於美伊協議已達成一致的看法一直非常樂觀。這使得市場對任何負面訊息都極為敏感，尤其是今天有關伊朗已停止與美國進行對話的新聞報道。”"
-    },
-    {
-      "id": "4911008",
-      "time": "2026-06-01 21:54:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "以軍稱若真主黨持續發動襲擊，將打擊貝魯特郊區。"
-    },
-    {
-      "id": "mkt:019e8376-5a58-7ccf-b268-95e791097756",
-      "time": "2026-06-01 21:53:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Market sources: Israel has ordered residents in the southern suburbs of Beirut, Lebanon, to evacuate."
-    },
-    {
-      "id": "4911007",
-      "time": "2026-06-01 21:53:51",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗暫停對話，美債下跌，交易員提高加息預期】由於美國與伊朗之間的和平談判出現僵局的跡象，美國國債價格下跌，人們擔憂高昂的能源成本將加劇通貨膨脹，並促使美聯儲提高利率。週一的拋售導致規模達31萬億美元的美國國債市場的收益率上升，其中10年期國債的收益率上漲約6個基點，達到近4.5%，而原油價格則上漲了逾7%。對美聯儲政策預期最為敏感的兩年期國債收益率也上漲了約6個基點，達到4.07%。此前，伊朗暫停透過中間人同美國的對話，以抗議以色列的行動。交易員提高了美聯儲下一次行動將是加息的預期。互換市場顯示，交易員們已完全定價到2027年3月將會加息一次，並且認為最早在10月就會加息的可能性為50%。"
-    },
-    {
-      "id": "mkt:019e8376-46b6-7ccf-b268-888cef4018bb",
-      "time": "2026-06-01 21:53:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SHFE main silver contract fell 2.00% intraday to 17,897.00 yuan/kg."
-    },
-    {
-      "id": "4911006",
-      "time": "2026-06-01 21:53:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列要求貝魯特南郊居民撤離。"
-    },
-    {
-      "id": "mkt:019e8376-20d5-7ccf-b268-866e46d1b792",
-      "time": "2026-06-01 21:53:37",
-      "tags": [
-        "MKT News",
-        "FDX.O"
-      ],
-      "text": "Shares of FedEx Freight fell about 10% and trading was halted after parent FedEx completed the unit's spin-off."
-    },
-    {
-      "id": "4911005",
-      "time": "2026-06-01 21:53:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "哥倫比亞企業在美上市股價上漲，此前右翼候選人德拉埃斯普列利亞與左翼候選人塞佩達進入總統決選。"
-    },
-    {
-      "id": "mkt:019e8376-0d5d-7ccf-b268-7de57195aeb7",
-      "time": "2026-06-01 21:53:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "Commodities",
-        "Energy",
-        "US10Y",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Iran pauses talks; US Treasuries fall as traders raise Fed rate-hike odds】Signs of a breakdown in US-Iran talks pushed US Treasury prices lower as worries that higher energy costs could lift inflation and force Fed rate hikes increased. Monday’s selloff lifted yields across the $31 tln US Treasury market: the 10-year yield rose about 6 bps to around 4.50% and crude oil gained more than 7%. The 2-year, most sensitive to Fed policy, rose roughly 6 bps to 4.07%. Iran suspended intermediary talks with the US in protest of Israeli action. Traders raised odds the Fed’s next move will be a hike; Fed swaps show markets are fully pricing one hike by March 2027 and assign about a 50% chance of a move as soon as October."
-    },
-    {
-      "id": "mkt:019e8376-0b7b-7ccf-b268-74512103164b",
-      "time": "2026-06-01 21:53:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China's crude-linked futures most-active contracts rose sharply in short-term trade: SC crude up 5.08% at 614.5 yuan/barrel; low-sulfur fuel oil (LU) up 4.65% at 4,861 yuan/ton; fuel oil up 3.86% at 3,986 yuan/ton; asphalt up 4.06% at 4,409 yuan/ton."
-    },
-    {
-      "id": "4911004",
-      "time": "2026-06-01 21:53:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌2%，現報17897.00元。"
-    },
-    {
-      "id": "mkt:019e8375-d510-7ccf-b268-6b1e2acb3d53",
-      "time": "2026-06-01 21:53:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's MSCI Colcap index rose 6.3% to 2,314.07 after the first round of presidential voting concluded."
-    },
-    {
-      "id": "te:economy:555410",
-      "time": "2026-06-01 21:52:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Brazil Manufacturing PMI Returns to Contraction — The S&P Global Brazil Manufacturing PMI fell to 49.1 in May 2026 from 52.6 in the previous month, signaling a renewed deterioration in factory activity after April's expansion. The survey showed manufacturers ended stockpiling efforts, with both purchasing activity and production declining amid weaker demand. Total new orders fell for the fourteenth consecutive month, while export sales contracted sharply as tariffs and the war in the Middle East weighed on demand. Supply-chain disruptions remained severe, with vendor shortages and the conflict causing one of the sharpest deteriorations in delivery times in nearly four years. As a result, input cost inflation stayed close to record highs, driven by rising energy prices, while output charges increased at one of the fastest rates since 2021. Still, manufacturers remained optimistic about future production, citing hopes for improved economic conditions after the presidential elections and an eventual end to the Middle East conflict."
     }
   ]
 }
