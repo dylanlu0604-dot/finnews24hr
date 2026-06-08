@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-08 17:53:57",
-  "count": 19321,
+  "updated": "2026-06-08 17:58:01",
+  "count": 19323,
   "items": [
+    {
+      "id": "4923785",
+      "time": "2026-06-08 17:57:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2連板神劍股份：發現個別媒體近期對公司子公司嘉業航空相關業務進行報道 與公司披露資料不符】神劍股份(002361)公告稱，公司股票於2026年6月5日、8日連續2個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司發現個別媒體近期對公司子公司嘉業航空相關業務進行報道，與公司披露資料不符。公司目前經營情況及內外部經營環境未發生重大變化；公司商業航天相關業務收入佔比仍較小，短期內不會有較大變化，特別提醒廣大投資者注意投資風險。"
+    },
+    {
+      "id": "4923784",
+      "time": "2026-06-08 17:56:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊情報組織表示：任何與敵方開展合作的行為，包括製作、傳播影片及照片，均屬犯罪行為，涉案人員將依照戰時法律予以處置。"
+    },
+    {
+      "id": "mkt:019ea6a9-7f16-777a-abbc-f646e3368e32",
+      "time": "2026-06-08 17:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's acting defense minister said support for the armed forces will continue to strengthen and vowed to steadfastly defend national interests and security until aggressors are punished. He said all defensive and support capabilities will be dedicated to the armed forces."
+    },
+    {
+      "id": "4923783",
+      "time": "2026-06-08 17:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗通訊社塔斯尼姆援引軍方訊息人士稱，德黑蘭已做好準備，可與以色列展開長期衝突，並對美國利益發動打擊。"
+    },
+    {
+      "id": "mkt:019ea6a8-2181-777a-abbc-ebb9c85fde60",
+      "time": "2026-06-08 17:54:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China issues first national plan to build industry high-quality datasets to power AI】China's National Data Administration issued an Implementation Plan to advance construction of industry high-quality datasets, marking the first national-level systematic deployment to use data to enable AI development. The plan targets dataset supply, circulation and application through six targeted initiatives and calls for sustained development of multimodal datasets — text, image, audio and video — to meet AI application needs. It prioritizes datasets for intelligent agents, embodied intelligence and world models, requires accelerated dataset construction, and encourages regions to set up data-annotation innovation pilot zones. Experts say high-quality datasets are the core training input for large models and can accelerate model performance improvements."
+    },
+    {
+      "id": "mkt:019ea6a7-9979-777a-abbc-e0d1305c2604",
+      "time": "2026-06-08 17:54:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics' chip division head said the company is collaborating on autonomous-driving chips at the 4nm and 8nm nodes and on accelerator chips for NVIDIA."
+    },
+    {
+      "id": "4923782",
+      "time": "2026-06-08 17:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度失火船隻位於阿曼沿海海域。"
+    },
+    {
+      "id": "mkt:019ea6a6-d7d4-7772-ae1e-26a052eba662",
+      "time": "2026-06-08 17:53:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Head of Samsung Electronics' semiconductor unit said he discussed next‑generation chip foundry cooperation with Jensen Huang and held broad talks on long‑term collaboration including HBM4E, the foundry business, HBM5 and other future technologies."
+    },
+    {
+      "id": "4923781",
+      "time": "2026-06-08 17:53:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：蘇州群策科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019ea6a6-d2b2-7772-ae1e-1bc9b7fce05e",
+      "time": "2026-06-08 17:53:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Suzhou Qunce Technology Co Ltd has submitted an application to list on HKEX."
+    },
+    {
+      "id": "4923780",
+      "time": "2026-06-08 17:53:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【CPU重返資料中心C位 某國內大模型廠商CPU需求提高了5倍】Computex 2026電腦展期間，巨頭們再次強調了一個行業趨勢：透過CPU、GPU、儲存與網路高效協同構建系統級能力，才能真正釋放AI規模化應用的價值。今年以來，一組預測資料已經多次出現在媒體報道中：Agentic AI需求帶動下，資料中心領域CPU和GPU的配比將從傳統的1:8，慢慢變成1:4、1:2甚至1:1。英特爾資料中心集團副總裁兼中國區總經理陳葆立還介紹，某國內領先的大模型廠商，從去年到今年CPU需求提高了5倍。“這是來自真實客戶的反饋，至於說未來到底是不是1:1甚至更高，由於AI的發展還處於早期階段，目前還很難下定論。”美銀證券預估，到2030年，全球伺服器CPU市場規模將上看1250億美元，年複合增長率31%，其中AI伺服器CPU佔比將高達77%。據財聯社記者觀察，晶片廠商均瞄準了AI浪潮中資料中心CPU的機遇，各巨頭的“混戰”已打響。"
+    },
     {
       "id": "4923779",
       "time": "2026-06-08 17:52:51",
@@ -9,6 +118,15 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：不支援在各國現有武裝力量之外增設軍隊。"
+    },
+    {
+      "id": "4923778",
+      "time": "2026-06-08 17:52:34",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【丁薛祥出席三峽水運新通道工程開工儀式】三峽水運新通道工程開工儀式8日上午在湖北省宜昌市舉行。中共中央政治局常委、國務院副總理丁薛祥出席開工儀式，並宣佈工程正式開工。開工儀式上，專案業主中國三峽集團、湖北省主要負責同志先後發言。10時12分，丁薛祥宣佈三峽水運新通道工程開工，工程建設正式啟動。中央和國家機關有關部門、有關中央企業負責同志，諮詢、設計和建設單位代表，當地群眾代表等參加開工儀式。（新華社）"
     },
     {
       "id": "4923777",
@@ -19,12 +137,35 @@
       "text": "三星電子晶片部門負責人：已就下一代晶片的晶圓代工合作展開洽談。"
     },
     {
+      "id": "mkt:019ea6a5-bf9a-7ffe-87a6-e1b5cc399a1d",
+      "time": "2026-06-08 17:52:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics' chip unit head said he discussed short-term cooperation with NVIDIA (NVDA.O) CEO Jensen Huang on HBM4 and contract manufacturing."
+    },
+    {
       "id": "4923776",
       "time": "2026-06-08 17:51:58",
       "tags": [
         "公司"
       ],
       "text": "三星電子晶片部門負責人：我們正合作研發4奈米與8奈米工藝節點所需的自動駕駛晶片，同時也在合作研發英偉達的加速晶片。"
+    },
+    {
+      "id": "mkt:019ea6a5-704f-7ffe-87a6-de140bc48650",
+      "time": "2026-06-08 17:51:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping ministry said all Indian seafarers aboard the vessel involved in the reported incident are safe."
     },
     {
       "id": "4923775",
@@ -41,6 +182,14 @@
         "公司"
       ],
       "text": "三星電子晶片部門負責人：已與英偉達黃仁勳就HBM4及代工領域的短期合作展開討論。"
+    },
+    {
+      "id": "4923773",
+      "time": "2026-06-08 17:51:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【事關資料賦能人工智慧發展 國家層面首次系統部署】今天，國家資料局釋出《關於推進行業高質量資料集建設行動的實施方案》，這是國家層面首次對資料賦能人工智慧發展作出的系統性部署。《實施方案》圍繞行業高質量資料集供給、流通、應用等關鍵環節，部署六大專項行動，提出面向人工智慧應用需求，持續推進文字、影象、音影片等多模態高質量資料集建設；聚焦智慧體、具身智慧和世界模型等重點方向，要求加快推進資料集建設；引導具備條件的地區因地制宜開展資料標註創新試驗區建設。專家表示，資料是人工智慧訓練的核心原料，高質量資料集可以加快提升大模型的效能。國家資料發展研究院院長 胡堅波：《實施方案》圍繞資料集建設全鏈條作出了系統部署。聚焦科學研究、工業製造、低空經濟、具身智慧等重點和創新領域，有針對性地推進資料集建設，同步推動資料標註轉型升級，全面提升資料供給能力與水平。（央視新聞）"
     },
     {
       "id": "te:economy:557253",
@@ -63,12 +212,34 @@
       "text": "【馬斯克唱多美光 目前產能遠不及晶片實際需求】馬斯克近日在摩根大通全球總部的採訪中唱多美光科技。他表示，“真正的瓶頸在於晶片製造能力”，目前美光的產能還遠不及晶片實際需求。"
     },
     {
+      "id": "mkt:019ea6a4-0bc0-7ffe-87a6-d22fd91ae020",
+      "time": "2026-06-08 17:50:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Traders: ADNOC sells large Gulf crude volumes to Asian buyers via tenders】Abu Dhabi National Oil Co (ADNOC) is selling significant Gulf-origin crude to Asian traders and refiners via tenders, the first such sales since the outbreak of the Iran war. A tender concluded last week booked at least 14 mln barrels across Upper Zakum, Umm Lulu and Das grades, with most volumes Upper Zakum, which typically loads from Zirku island. Shipments are slated for June–August, and a further tender with similar terms closes this weekend and is expected to add volumes. Cargoes can be lifted at Fujairah or Sohar, avoiding transit of the Strait of Hormuz. Buyers include refiners in Japan, South Korea and India. Transaction prices were only a few dollars above Dubai quotes, with at least one cargo reportedly sold at about $1/bbl below Dubai."
+    },
+    {
       "id": "4923770",
       "time": "2026-06-08 17:50:26",
       "tags": [
         "公司"
       ],
       "text": "【中創股份：擬以2000萬元-3000萬元回購公司股份】中創股份公告，擬以2000萬元-3000萬元回購公司股份，回購價格不超過35.83元/股。"
+    },
+    {
+      "id": "mkt:019ea6a3-ff2a-7ffe-87a6-cbda74ad4785",
+      "time": "2026-06-08 17:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvia's armed forces said the latest aerial threat has been neutralized."
     },
     {
       "id": "4923769",
@@ -231,6 +402,14 @@
         "公司"
       ],
       "text": "【太陽能：今年初至今，公司下屬光伏發電專案公司共收到可再生能源補貼資金5.05億元，較去年同期增加451.99%】太陽能公告，今年初至今，公司下屬光伏發電專案公司共收到可再生能源補貼資金5.05億元，較去年同期增加451.99%，其中國家可再生能源補貼資金4.89億元，較去年同期增加553.32%。"
+    },
+    {
+      "id": "4923754",
+      "time": "2026-06-08 17:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華測導航：實控人一致行動人增持0.3965%】華測導航公告，控股股東、實際控制人趙延平之一致行動人上海垚合商務諮詢合夥企業（有限合夥）於2026年6月5日透過大宗交易受讓趙延平透過寧波上裕創業投資合夥企業（有限合夥）間接持有的公司股份312萬股，趙延平及其一致行動人合計擁有權益的股份比例由31.7752%增至32.1717%，增加0.3965%，權益變動觸及1%的整倍數。本次變更僅為持股方式調整，不涉及實際增減持，亦不導致控股股東及實際控制人變更。"
     },
     {
       "id": "4923753",
@@ -177994,141 +178173,6 @@
         "公司"
       ],
       "text": "【天邑股份：成為中國電信天翼智屏採購專案成交候選人】天邑股份公告稱，中國電信陽光采購網釋出的《中國電信天翼智屏產品（2026年）集中採購專案成交候選人和備選供應商候選人公示》顯示，公司為該專案標包1、標包2的第三成交候選人。若順利簽約，將對公司未來業績及市場拓展有積極作用，且不影響經營獨立性。目前專案尚處公示期，能否收到成交通知書不確定，後續情況待收到成交通知書後另行公告。"
-    },
-    {
-      "id": "4910400",
-      "time": "2026-06-01 17:57:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：北部地區若無法恢復平靜，貝魯特也休想安寧。"
-    },
-    {
-      "id": "mkt:019e829d-bbb3-7112-8c8b-efa7d536e445",
-      "time": "2026-06-01 17:57:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's defense minister said if northern Israel is not calm, Beirut will not be calm."
-    },
-    {
-      "id": "mkt:019e829c-50b5-7112-8c8b-e4cfaf58fd2e",
-      "time": "2026-06-01 17:55:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister said agreements with the US will take into account legal changes to the US tariff structure."
-    },
-    {
-      "id": "4910399",
-      "time": "2026-06-01 17:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：與美國的貿易協定將考慮美國關稅結構的法律調整。"
-    },
-    {
-      "id": "4910398",
-      "time": "2026-06-01 17:55:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：二級市場價格溢價停牌 6月2日10:30復牌】納指ETF易方達公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月1日，收盤價為2.160元，收盤時基金份額參考淨值為1.9206元。為保護投資者利益，本基金於6月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月2日溢價幅度未有效回落，基金有權採取臨時停牌等措施。"
-    },
-    {
-      "id": "4910397",
-      "time": "2026-06-01 17:55:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST金頂：股票交易異常波動 不存在應披露未披露重大資訊】ST金頂公告稱，公司股票2026年5月28日、5月29日、6月1日連續三個交易日內收盤價格漲幅偏離值累計超12%，屬異常波動。經自查，公司目前生產經營正常，內外部環境未變，不存在應披露而未披露的重大事項。此外，公司提示多項風險，包括股票被實施其他風險警示、可能被實施退市風險警示、長期無法分紅、大股東股權質押凍結等。"
-    },
-    {
-      "id": "4910396",
-      "time": "2026-06-01 17:55:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST棕櫚：股票交易異常波動 不存在應披露未披露事項】ST棕櫚公告稱，公司股票連續3個交易日（2026年5月28日、5月29日、6月1日）收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共傳媒報道未公開重大資訊，主營業務、經營環境無重大變化，公司、控股股東和實控人無應披露未披露重大事項，異常波動期間控股股東、實控人無買賣公司股票情形。公司股票於2026年4月28日起被實施其他風險警示。"
-    },
-    {
-      "id": "4910395",
-      "time": "2026-06-01 17:54:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新鋁時代：公司及子公司取得兩項發明專利】新鋁時代公告稱，公司及全資子公司鋁器時代近日取得國家智慧財產權局頒發的發明專利證書，分別為“一種電池整合箱體、新能源汽車及其裝置”“一種基於口琴狀型材的電池外殼流道隔斷焊接工藝”，專利申請日分別為2022年9月30日、2021年8月4日，授權公告日均為2026年5月29日，專利權期限為自申請日起二十年。該專利暫不會對公司生產經營產生重大影響，但有助於增強公司核心競爭力。"
-    },
-    {
-      "id": "4910394",
-      "time": "2026-06-01 17:54:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泛海集團已多次被執行】5月20日，港股上市公司泛海集團(00129.HK)釋出公告，稱其一筆將於5月27日到期的貸款已獲五家銀行批准再融資7.6億港元。5月27日，泛海集團再次公告稱，已獲所有銀行批准並完成再融資。天眼查App顯示，中國泛海控股集團有限公司成立於1988年4月，法定代表人為盧志強，註冊資本200億人民幣，經營範圍包括科技、文化、教育、房地產、基礎設施專案及產業的投資等，該公司由泛海集團有限公司、通海控股有限公司共同持股。法律訴訟資訊顯示，該公司現存多條限制消費令、被執行人及股權凍結資訊。"
-    },
-    {
-      "id": "4910393",
-      "time": "2026-06-01 17:54:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南發展：發行1.07億股股份購買資產】湖南發展公告，公司以發行1.07億股股份及支付6.81億元現金方式購買銅灣水電90%股權、清水塘水電90%股權、筱溪水電88%股權及高灘水電85%股權。發行價格為7.76元/股，新增股份均為限售流通股。本次交易完成後，公司總股本增加至5.71億股，社會公眾股持股比例仍超過10%。募集配套資金不超過8億元，將用於支付現金對價、補充流動資金等。新增股份上市日期為2026年6月3日。"
-    },
-    {
-      "id": "4910392",
-      "time": "2026-06-01 17:54:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：印美貿易協定的大部分內容已敲定，雙方僅就餘下少數細節進行了討論。"
-    },
-    {
-      "id": "mkt:019e829b-44b7-7112-8c8b-d9c288622872",
-      "time": "2026-06-01 17:54:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister said most of an agreement with the United States has been reached; both sides are discussing a small number of final details."
-    },
-    {
-      "id": "4910391",
-      "time": "2026-06-01 17:54:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同力股份：擬回購不超過2億元股份】同力股份公告，擬以集中競價交易方式回購公司股份，回購資金總額區間為1億-2億，回購價格不超過20元/股。"
-    },
-    {
-      "id": "4910390",
-      "time": "2026-06-01 17:54:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST易聯眾：股票繼續被實施其他風險警示 違規事項處理有進展】ST易聯眾公告稱，公司曾為原實控人張曦及其關聯方提供違規擔保、借款，致股票被實施其他風險警示。截至公告披露日，相關仲裁已終局裁決、訴訟已終審判決，公司均無需承擔連帶清償責任，再審申請也被駁回。公司已完善印章管理制度，整改內控重大缺陷。公司經營正常，將每月披露進展，目前尚未收到證監會立案結論性意見，提醒投資者關注指定媒體資訊。"
-    },
-    {
-      "id": "mkt:019e829a-f2a8-7112-8c8b-d0a4406076d8",
-      "time": "2026-06-01 17:54:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister says India and the United States are working to finalize the first-phase elements of a bilateral trade agreement."
-    },
-    {
-      "id": "4910389",
-      "time": "2026-06-01 17:54:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：印美目標敲定雙邊協定的第一階段協議。"
     }
   ]
 }
