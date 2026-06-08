@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-08 12:44:36",
-  "count": 19290,
+  "updated": "2026-06-08 12:48:30",
+  "count": 19289,
   "items": [
+    {
+      "id": "4923019",
+      "time": "2026-06-08 12:47:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓民防辦公室：此次7.8級地震已報告8人死亡，死亡人數仍待核實。"
+    },
+    {
+      "id": "mkt:019ea58d-e3d8-7ee0-94ca-e926d73a1a0c",
+      "time": "2026-06-08 12:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA arrives in Pyongyang to begin state visit to N. KOREA】CHINA arrived in Pyongyang around 1200 local time on June 8 to begin a state visit to N. KOREA. N. KOREA leader Kim Jong Un received CHINA on arrival."
+    },
+    {
+      "id": "4923018",
+      "time": "2026-06-08 12:45:29",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "烏茲別克央行表示，5月該國黃金和外匯儲備降至705.85億美元，4月時為708.92億美元。"
+    },
+    {
+      "id": "4923017",
+      "time": "2026-06-08 12:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家揭示深海生物超強耐餓機制】近日，中國科學院海洋研究所聯合多家單位，成功破解了深海水蝨的生存奧秘，它們在缺乏穩定食物供給情況下可存活五年之久。研究發現，深海水蝨演化出了一套“開源節流”的雙重生存策略。它的胃異常巨大，佔到了整個身體的三分之二左右，把自己變成了一個“行走的糧倉”。一旦遇到難得的食物機會，它就會拼命暴食，把胃塞得滿滿當當。但光是囤得多不夠，還得節流。深海水蝨的胃裡與食物消化相關的細菌急劇減少，反而聚集了大量衣原體，這是一種和“儲存脂肪”有關的細菌。它可以幫助食物裡的營養更多地轉化成脂肪存起來，像一塊緩慢燃燒的固體燃料，慢慢釋放能量。科研團隊進一步發現，深海水蝨還擁有一個獨特的“耐餓基因”（ND1）。在漫長的進化過程中，深海水蝨的祖先直接從細菌那裡“挾持”了這個和能量代謝相關的基因，把它整合進了自己的基因組裡。科學家在實驗中把這個基因轉入斑馬魚，結果發現低溫下斑馬魚的耐飢餓能力提升了37%。（央視）"
+    },
+    {
+      "id": "4923016",
+      "time": "2026-06-08 12:44:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙烏地阿拉伯官方儲備資產5月份降至1.831萬億沙特里亞爾】根據沙特中央銀行（SAMA）的資料，沙烏地阿拉伯的官方儲備資產從4月份的1.856萬億沙特里亞爾降至5月份的1.831萬億沙特里亞爾。"
+    },
     {
       "id": "4923015",
       "time": "2026-06-08 12:42:56",
@@ -177807,68 +177848,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4540美元/盎司，日內跌1.18%。"
-    },
-    {
-      "id": "mkt:019e8182-5292-799c-966b-112cd7d2fe3c",
-      "time": "2026-06-01 12:47:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【China Ministry of Transport: weekly courier pickups ~4.39 bln, +2.19% w/w】China Ministry of Transport said for the week May 25-31: rail freight totaled 80.10 mln tonnes, down 0.84% w/w; highway truck passages were 55.37 mln, up 1.65% w/w; monitored ports handled 281.09 mln tonnes of cargo, up 8.03% w/w, and 6.98 mln TEU of containers, up 10.04% w/w; civil aviation operated 110,000 flights, down 1.46% w/w, including 5,039 cargo flights (3,250 international, 1,789 domestic); postal and courier pickups were about 4.39 bln items, up 2.19% w/w, with deliveries about 4.39 bln items, up 1.71% w/w."
-    },
-    {
-      "id": "mkt:019e8182-0a9a-799c-966b-08afcc85c11d",
-      "time": "2026-06-01 12:47:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) launched Alpamayo 2, a super-open inference model tailored for robotaxi services."
-    },
-    {
-      "id": "4909674",
-      "time": "2026-06-01 12:47:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達推出面向自動駕駛計程車的Alpamayo 2超級開放推理模型。"
-    },
-    {
-      "id": "4909673",
-      "time": "2026-06-01 12:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：上週郵政快遞攬收量約43.9億件，環比增長2.19%】交通運輸部資料顯示，5月25日—5月31日，全國物流保通保暢執行資料：國家鐵路運輸貨物8009.5萬噸，環比下降0.84%；全國高速公路貨車通行5537.1萬輛，環比增長1.65%； 監測港口完成貨物吞吐量2.81億噸，環比增長8.03%，完成集裝箱吞吐量698.2萬標箱，環比增長10.04%；民航保障航班11萬班（其中貨運航班5039班，包括國際貨運航班3250班，國內貨運航班1789班），環比下降1.46%；郵政快遞攬收量約43.9億件，環比增長2.19%；投遞量約43.91億件，環比增長1.71%。"
-    },
-    {
-      "id": "4909672",
-      "time": "2026-06-01 12:46:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳門5月幸運博彩毛收入MOP226.1億澳門元，同比增長6.7%; 預估為+5.0%。"
-    },
-    {
-      "id": "mkt:019e8180-fed5-799c-966b-05d89fe284ab",
-      "time": "2026-06-01 12:46:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "India's Multi Commodity Exchange (MCX) launches a 'Silver 100' futures contract."
     }
   ]
 }
