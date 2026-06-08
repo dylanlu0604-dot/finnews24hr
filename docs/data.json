@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-09 07:05:04",
-  "count": 19198,
+  "updated": "2026-06-09 07:08:54",
+  "count": 19197,
   "items": [
+    {
+      "id": "4924755",
+      "time": "2026-06-09 07:06:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI週一表示，該公司近期已就美國首次公開募股（IPO）提交了保密申請，與競爭對手Anthropic一道進軍股市，以吸引投資者關注人工智慧熱潮。CERITY PARTNERS合夥人舒爾曼（Michael Ashley Schulman）點評稱，“毫無疑問，OpenAI正在保持各種可能性，因為Anthropic在完成一輪鉅額融資後已率先提交了上市申請。但這兩家巨頭都遵循著由各自面臨的監管風暴和內部建設決定的時間表，而非簡單模仿對方的舉動。對更廣泛的市場而言，OpenAI最終的上市可能會加速‘人工智慧即基礎設施’這一敘事的形成，從而吸引更多公共資本流入該領域；在此之前，預計該公司將繼續利用私有企業的優勢來保持其領先地位。”"
+    },
+    {
+      "id": "4924754",
+      "time": "2026-06-09 07:06:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國西部金屬有限公司在西沙漠地區發現大型銦鋅金礦。"
+    },
+    {
+      "id": "te:economy:557379",
+      "time": "2026-06-09 07:04:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "South Korea Q1 GDP Growth Revised Up to 1.8% — South Korea’s economy advanced by 1.8% QoQ in the first quarter of 2026, exceeding the preliminary estimate of 1.7% and rebounding from a downwardly revised 0.1% contraction in the previous quarter. It marked the strongest GDP growth since the first quarter of 2021, driven by solid exports and resilient domestic demand. On an annual basis, the economy expanded 3.6% in Q1, accelerating from 1.6% in the fourth quarter of 2025 and marking the fastest growth since the fourth quarter of 2021."
+    },
+    {
+      "id": "mkt:019ea97b-102c-733a-9237-04619137bc23",
+      "time": "2026-06-09 07:04:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UK consumer spending rebounds in May; travel outlays fall for third month】A survey released Tuesday showed UK consumers cut spending in April but increased spending in May; travel outlays fell for a third consecutive month, indicating market caution over the economic impact of the Iran war. Barclays and the British Retail Consortium said hot weather boosted clothing and other goods sales."
+    },
+    {
+      "id": "4924753",
+      "time": "2026-06-09 07:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村證券認為，如果SpaceX的股價在IPO後保持強勁，將有助於改善投資者情緒，這對日本股市來說也是一個利好因素。"
+    },
     {
       "id": "4924752",
       "time": "2026-06-09 07:02:35",
@@ -177001,68 +177052,6 @@
         "國際"
       ],
       "text": "【可口可樂正考慮將印度裝瓶業務上市】可口可樂公司週一表示，正考慮在孟買為其在印度最大的裝瓶商——印度斯坦可口可樂飲料公司（Hindustan Coca-Cola Beverages）進行首次公開募股。"
-    },
-    {
-      "id": "4911419",
-      "time": "2026-06-02 07:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第四屆國際航運展今日啟幕】6月2日至5日，第四屆天津國際航運產業博覽會在國家會展中心(天津)舉辦。本屆航運展將以“航通天下執行未來——AI引領港航發展新機遇”為主題，聚焦航運智慧化、綠色化、國際化發展，聚焦全球物流鏈、供應鏈產業鏈安全穩定，搭建國際航運合作與創新成果展示的高階平臺。"
-    },
-    {
-      "id": "mkt:019e8571-27b1-7993-96fb-2d240bc7fdc1",
-      "time": "2026-06-02 07:07:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Kyiv city authorities issued air-raid alerts; witnesses reported a large plume of smoke."
-    },
-    {
-      "id": "mkt:019e8570-feb1-7993-96fb-20f2f3b45cfa",
-      "time": "2026-06-02 07:07:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Market Themes",
-        "AI Revolution",
-        "BABA.N"
-      ],
-      "text": "【Alibaba launches Qwen3.7-Plus multimodal agent model】Alibaba said on June 2 via the Qwen official WeChat account it has released Qwen3.7-Plus, a multimodal agent model. The company said the model builds on Qwen3.7’s text capabilities, substantially upgrades vision–language performance, and preserves full agent functions for coding, tool use and productivity workflows."
-    },
-    {
-      "id": "4911418",
-      "time": "2026-06-02 07:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市當局釋出空襲警報後，目擊者在基輔看到巨大煙柱。"
-    },
-    {
-      "id": "te:economy:555493",
-      "time": "2026-06-02 07:06:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "South Korea Inflation Hits Over 2-Year High — South Korea’s annual inflation rate accelerated to 3.1% in May 2026 from 2.6% in the previous month, surpassing market forecasts of 3.0%. It was the highest reading since March 2024, highlighting the deepening effects of higher oil prices amid the Middle East conflict. On a monthly basis, consumer prices increased by 0.5%, the same pace as in April. Still, it was the fastest monthly increase since September 2025 and exceeded market estimates of 0.3%."
-    },
-    {
-      "id": "4911417",
-      "time": "2026-06-02 07:05:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達CEO黃仁勳表示，若韓國方面有意，英偉達可將旗下聚焦人工智慧與前沿科技的旗艦峰會GTC落地韓國舉辦。"
     }
   ]
 }
