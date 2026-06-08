@@ -1,7 +1,253 @@
 {
-  "updated": "2026-06-08 09:28:43",
-  "count": 19247,
+  "updated": "2026-06-08 09:32:39",
+  "count": 19257,
   "items": [
+    {
+      "id": "4922632",
+      "time": "2026-06-08 09:32:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.56%，成分股中，生益電子跌8.12%，佰維儲存跌7.40%，芯原股份跌6.27%，天嶽先進跌6.14%。"
+    },
+    {
+      "id": "4922631",
+      "time": "2026-06-08 09:31:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣開採及服務盤初拉昇，科力股份漲超10%】油氣開採及服務盤初拉昇，科力股份漲超10%，通源石油、潛能恆信、首華燃氣、中曼石油、藍焰控股跟漲。相關ETF方面，石油ETF廣發（159018）成交額2.69萬元。"
+    },
+    {
+      "id": "mkt:019ea4db-d0cb-755d-a1f1-06fe8a3573b2",
+      "time": "2026-06-08 09:31:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold fell to $4,300/oz, the lowest level since March 23."
+    },
+    {
+      "id": "mkt:019ea4db-593c-7221-bb31-5d756a09603f",
+      "time": "2026-06-08 09:31:29",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell over 3% as optical-communications, storage, PCB and semiconductor sectors led declines."
+    },
+    {
+      "id": "4922630",
+      "time": "2026-06-08 09:31:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲股指期貨下跌1.2%；富時股指期貨下跌0.7%。"
+    },
+    {
+      "id": "4922629",
+      "time": "2026-06-08 09:31:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指開盤下跌 0.6%，報 5900.32 點。"
+    },
+    {
+      "id": "4922628",
+      "time": "2026-06-08 09:31:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.81%。潔美轉債、鼎龍轉債、華懋轉債、聯瑞轉債、斯達轉債跌幅居前，分別跌8.26%、7.39%、7.14%、6.97%、6.18%。宙邦轉債、曉鳴轉債、天創轉債、盛虹轉債、共同轉債漲幅居前，分別漲3.31%、2.62%、2.04%、1.93%、1.04%。"
+    },
+    {
+      "id": "mkt:019ea4da-a41b-755d-a1f0-f27a9d493db1",
+      "time": "2026-06-08 09:30:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israel attacking targets inside Iran】Israeli media reported on the 8th that Israel is attacking targets inside Iran."
+    },
+    {
+      "id": "4922626",
+      "time": "2026-06-08 09:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報67.03美元/盎司。"
+    },
+    {
+      "id": "4922625",
+      "time": "2026-06-08 09:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4739.870點；恒生指數現跌1.894%。"
+    },
+    {
+      "id": "4922624",
+      "time": "2026-06-08 09:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4310美元/盎司，日內跌0.51%。"
+    },
+    {
+      "id": "4922623",
+      "time": "2026-06-08 09:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破97美元/桶，日內漲4.24%。"
+    },
+    {
+      "id": "4922622",
+      "time": "2026-06-08 09:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4330美元/盎司，日內跌0.81%。"
+    },
+    {
+      "id": "mkt:019ea4da-77eb-7221-bb31-4d9a8ecbcdd9",
+      "time": "2026-06-08 09:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N Caike shares surged more than 157%."
+    },
+    {
+      "id": "4922621",
+      "time": "2026-06-08 09:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超2%】上證指數跌2.11%，現報3942.682點；深證成指跌2.65%，現報14908.284點；創業板指跌2.93%，現報3841.823點。"
+    },
+    {
+      "id": "4922620",
+      "time": "2026-06-08 09:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "N彩客漲超157%。"
+    },
+    {
+      "id": "4922619",
+      "time": "2026-06-08 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.26%，成分股中，萬達軸承跌5.61%，同惠電子跌5.42%，聚星科技跌4.78%，天力複合跌4.58%。"
+    },
+    {
+      "id": "te:markets:557068",
+      "time": "2026-06-08 09:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 7-week Low — CSI 300 decreased to 4707.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Shanghai Shenzhen CSI 300 Index lost 3.55%, and in the last 12 months, it increased 21.42%."
+    },
+    {
+      "id": "4922618",
+      "time": "2026-06-08 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4.82%，成分股中，佰維儲存跌8.36%，天嶽先進跌8.35%，瀾起科技跌7.68%，芯原股份跌7.64%。"
+    },
+    {
+      "id": "4922617",
+      "time": "2026-06-08 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌2.18%， 滬深300指數期貨連續跌1.80%， 中證500指數期貨連續跌1.86%， 上證50指數期貨連續跌1.43%。"
+    },
+    {
+      "id": "4922616",
+      "time": "2026-06-08 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.19%， 10年期主力合約跌0.03%， 5年期主力合約跌0.05%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4922615",
+      "time": "2026-06-08 09:29:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報96.86美元/桶。"
+    },
+    {
+      "id": "mkt:019ea4d9-98c5-755d-a1f0-e05079d78e34",
+      "time": "2026-06-08 09:29:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share semiconductor sector weakened: Jingfeng Mingyuan, Yutaiwei, Xinxiangwei and Youxun dropped over 10%; Demingli, Jiangbolong, Hengshuo, Dongwei Semiconductor and Jinhaitong also fell."
+    },
+    {
+      "id": "4922614",
+      "time": "2026-06-08 09:29:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨上漲逾3.60美元，至每桶94.11美元；此前伊朗媒體報道稱德黑蘭傳出爆炸聲。"
+    },
+    {
+      "id": "4922613",
+      "time": "2026-06-08 09:29:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股CPO概念低開，太辰光跌超10%，中京電子跌停，紅板科技、仕佳光子均跌超8%，銘普光磁、匯綠生態、傑普特等個股跟跌。"
+    },
+    {
+      "id": "mkt:019ea4d9-41ba-755d-a1f0-db15c7249d4f",
+      "time": "2026-06-08 09:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share CPO concept stocks opened lower. Taichen Guang fell over 10%; Zhongjing Electronics hit the daily down-limit. Hongban Technology and Shijia Photon dropped more than 8%; Mingpu Guangci, Huilv Ecology and Jiepute also declined."
+    },
+    {
+      "id": "4922612",
+      "time": "2026-06-08 09:28:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊大幅低開，新相微跌超10%】半導體板塊大幅低開，晶豐明源、裕太微、新相微、優迅股份跌超10%，德明利、江波龍、恆爍股份、東微半導、金海通跟跌。"
+    },
     {
       "id": "4922611",
       "time": "2026-06-08 09:28:08",
@@ -177457,162 +177703,6 @@
         "市場"
       ],
       "text": "MSCI亞太指數上漲1%至280.47點。"
-    },
-    {
-      "id": "mkt:019e80cf-b4d8-766e-87af-05a6a7c59a2a",
-      "time": "2026-06-01 09:32:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's Sci-Tech Innovation Board 50 Index (STAR 50) decline widened to 1%, trading at 1,732.44 points."
-    },
-    {
-      "id": "4909343",
-      "time": "2026-06-01 09:32:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指日內漲幅擴大至1.4%。"
-    },
-    {
-      "id": "4909342",
-      "time": "2026-06-01 09:32:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.25%，成分股中，滬矽產業跌4.73%，晶合整合跌4.50%，盛科通訊跌4.45%，中微公司跌4.20%。"
-    },
-    {
-      "id": "4909341",
-      "time": "2026-06-01 09:31:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI PC板塊走高，春秋電子漲停】AI PC板塊走高，春秋電子、英力股份、勝利精密漲停，芯海科技、慧為智慧漲超10%，中京電子、軟通動力、力佳科技、博敏電子、科森科技等跟漲。"
-    },
-    {
-      "id": "mkt:019e80ce-fc13-766e-87ae-f8b84714083d",
-      "time": "2026-06-01 09:31:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China convertible bond index opened 0.03% higher. Top gainers: Chun23 CB +19.79%, Lianrui CB +4.88%, Jiaze CB +3.13%, Ruike CB +3.07%, Jingyuan CB +2.34%. Largest decliners: Jinpu CB -5.06%, Shanbo CB -2.70%, Ruike CB -2.25%, Shenglan CB-02 -1.82%, Huamao CB -1.70%."
-    },
-    {
-      "id": "mkt:019e80ce-ab06-766e-87ae-f420ba99198f",
-      "time": "2026-06-01 09:31:17",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China index futures open higher】CSI 300 futures (IF) front-month +0.38%; SSE 50 futures (IH) +0.08%; CSI 500 futures (IC) +0.76%; CSI 1000 futures (IM) +0.52%."
-    },
-    {
-      "id": "mkt:019e80ce-aac7-766e-87ae-efffe7454818",
-      "time": "2026-06-01 09:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open higher】2-year bond futures (TS) main contract up 0.01%, 5-year bond futures (TF) main contract up 0.03%, 10-year bond futures (T) main contract up 0.04%, 30-year bond futures (TL) main contract up 0.18%."
-    },
-    {
-      "id": "4909340",
-      "time": "2026-06-01 09:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.10%，成分股中，萬源通漲5.10%，則成電子漲4.84%，貝特瑞漲4.23%，諾思蘭德漲3.96%。"
-    },
-    {
-      "id": "4909339",
-      "time": "2026-06-01 09:30:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4933.940點；恒生指數現漲0.119%。"
-    },
-    {
-      "id": "mkt:019e80cd-c06d-766e-87ae-e08ccf4e1ccd",
-      "time": "2026-06-01 09:30:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia ANZ total job ads, seasonally adjusted, +1.8% MoM in May; prior -0.8%."
-    },
-    {
-      "id": "4909338",
-      "time": "2026-06-01 09:30:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【康方生物漲超9% 近期釋出了40多項臨床研究成果】截至發稿，康方生物(09926.HK)漲9.23%。訊息面上，該公司在2026年美國臨床腫瘤學會上釋出了40多項臨床研究成果，主要圍繞自主研發的多款創新藥物，包括卡度尼利、依沃西和萊法利等，覆蓋多個癌症領域。"
-    },
-    {
-      "id": "mkt:019e80cd-9db7-766e-87ae-df3541171432",
-      "time": "2026-06-01 09:30:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (May) | actual 1.8% | previous -0.80%"
-    },
-    {
-      "id": "4909337",
-      "time": "2026-06-01 09:30:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞5月ANZ招聘廣告環比 1.8%，前值 -0.8%。"
-    },
-    {
-      "id": "4909336",
-      "time": "2026-06-01 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.54%， 滬深300指數期貨連續漲0.39%， 中證500指數期貨連續漲0.72%， 上證50指數期貨連續漲0.27%。"
-    },
-    {
-      "id": "4909335",
-      "time": "2026-06-01 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.19%， 10年期主力合約漲0.04%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4909334",
-      "time": "2026-06-01 09:29:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MINIMAX高開5.2% 對在科創板上市進行評估】MINIMAX高開5.2%。MiniMax Group Inc.在港交所公告，董事會宣佈已決議探究擬發行人民幣股份的初步建議。公司在香港聯交所成功上市後，公司持續評估資本市場，包括對在科創板上市進行評估。公司已聘請專業顧問就公司符合在科創板上市的條件提供諮詢，並已簽訂輔導協議。"
-    },
-    {
-      "id": "4909333",
-      "time": "2026-06-01 09:28:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【利通電子一字跌停】利通電子一字跌停，根據上海證券交易所的交易資料披露，公司被納入異動股票名單。開始日期為2026年6月1日，結束日期為2026年6月12日，型別為嚴重異動。"
     }
   ]
 }
