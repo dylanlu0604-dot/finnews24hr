@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-08 23:02:21",
-  "count": 19090,
+  "updated": "2026-06-08 23:06:32",
+  "count": 19086,
   "items": [
+    {
+      "id": "4924408",
+      "time": "2026-06-08 23:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國海上貿易行動辦公室：阿曼附近一艘油輪起火 船員撤離】英國海上貿易行動辦公室(UKMTO)表示，一艘油輪起火，導致船員撤離。事件發生在阿曼馬西拉島東北15海里處，阿曼和印度當局正在協調處置，目前尚未收到任何環境影響報告。"
+    },
+    {
+      "id": "4924407",
+      "time": "2026-06-08 23:02:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【俄外交部發言人：俄將根據亞美尼亞實際舉措調整政策】據俄羅斯塔斯社8日報道，俄外交部發言人扎哈羅娃表示，俄方將根據亞美尼亞領導層的實際舉措來調整對其政策。亞美尼亞國民會議（議會）選舉7日舉行。亞美尼亞中央選舉委員會8日公佈的初步計票結果顯示，現任總理帕什尼揚領導的公民合約黨獲得超過72.7萬張選票，得票率49.81%，排名第一。（新華社）"
+    },
     {
       "id": "mkt:019ea7c0-ead1-7226-8cb7-530fb0efceb3",
       "time": "2026-06-08 23:01:38",
@@ -19,6 +36,24 @@
         "The Fed (FOMC)"
       ],
       "text": "New York Fed: respondents say the probability of unemployment will rise over the next 12 months."
+    },
+    {
+      "id": "em:qqyh_mlc:202606083763951225",
+      "time": "2026-06-08 23:00:47",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國5月紐約聯儲1年通脹預期報3.46%，前值3.64%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606083763951225",
+      "time": "2026-06-08 23:00:47",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月紐約聯儲1年通脹預期報3.46%，前值3.64%。"
     },
     {
       "id": "mkt:019ea7bf-c8fd-7226-8cb7-4041fc141f0c",
@@ -175813,81 +175848,6 @@
         "Importance 1"
       ],
       "text": "Peru Inflation Rate Ticks Down to 3.9% in May — The annual inflation rate in Peru’s capital, Lima, eased to 3.9% in May 2026 from 4.01% in the prior month, which was the steepest since October 2023. Still, it remained above the central bank's 1%-3% target range for the third straight month. Prices slowed primarily for food & non-alcoholic beverages (2.88% vs 4.16% in April); alcoholic beverages & tobacco (0.05% vs 0.59%) and furnishings & household equipment (2.81% vs 2.96%). Conversely, prices advanced further for some CPI items, including transportation (15.10% vs 15.02%); restaurants & hotels (3.98% vs 3.54%) and recreation & culture (2.07% vs 1.79%). At the same time, housing & utilities prices rose by 1.04%, after decreasing by 0.22% previously, on the back of adjusted residential electricity rates. On a monthly basis, the CPI fell by 0.16%, the first decrease since October 2025, reversing a 0.52% rise in April, mainly due to lower prices in food (-1.69%) and transport (-0.19%)."
-    },
-    {
-      "id": "4911129",
-      "time": "2026-06-01 23:06:03",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同巴西外長維埃拉舉行中巴外長級全面戰略對話】中共中央政治局委員、外交部長王毅1日在北京同巴西外長維埃拉舉行第五次中巴外長級全面戰略對話。 王毅說，近年來，在習近平主席和盧拉總統戰略引領下，中巴關係實現從全面戰略伙伴到命運共同體的里程碑式跨越。雙方要落實好兩國元首重要共識，持續深化中巴命運共同體建設，共同抵禦各種外部挑戰，為推進各自現代化程序和全球南方國家聯合自強形成更多合力，為動盪世界提供更多寶貴的確定性。 王毅表示，中方讚賞巴政府長期恪守一箇中國原則，支援巴方捍衛國家主權、維護獨立自主、實現更大發展。雙方要發揮各自優勢，打造更多合作成果。要落實好兩國元首關於辦好2026“中巴文化年”重要共識，推動各領域交流合作。要加強在多邊機制下溝通協作，積極踐行四大全球倡議，推動建立更加公正合理的全球治理體系，維護世界和平穩定，捍衛發展中國家正當權益。中方願同包括巴方在內的地區國家一道，促進中拉整體合作繼續向縱深發展。 維埃拉表示，巴中關係是發展中國家堅持獨立自主、加強團結協作的標杆，也是大國之間發展穩定、可預期關係的典範。巴方始終恪守一箇中國原則，期待同中方鞏固戰略互信，深化務實合作。巴方願同中方加強多邊協作。(新華社)"
-    },
-    {
-      "id": "4911128",
-      "time": "2026-06-01 23:05:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗國家電視臺：若針對黎巴嫩的襲擊持續不停，美伊之間停火破裂的可能性極大。"
-    },
-    {
-      "id": "4911126",
-      "time": "2026-06-01 23:03:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室（USTR）：美國貿易代表格里爾本週將前往巴黎參加經濟合作與發展組織會議。"
-    },
-    {
-      "id": "4911125",
-      "time": "2026-06-01 23:03:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行資料：4 月匯入墨西哥僑匯同比增長 3.7%。"
-    },
-    {
-      "id": "mkt:019e83b5-f514-7552-8901-858cc6ee766c",
-      "time": "2026-06-01 23:03:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "U.S. Trade Representative Greer will travel to Paris this week to attend an OECD meeting."
-    },
-    {
-      "id": "mkt:019e83b5-c008-7552-8901-7acf50716ae9",
-      "time": "2026-06-01 23:03:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "The Israeli Defense Forces said they confirmed an explosive-laden drone struck Israeli territory near the Israel–Lebanon border after alarms sounded earlier in the coastal areas of Rosh Hanikra and Betzet over suspected hostile aerial incursions."
-    },
-    {
-      "id": "4911124",
-      "time": "2026-06-01 23:02:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【澳門完成多邊央行數字貨幣橋對接 11家銀行明日“上橋”交易】6月1日，澳門金管局在“中國—葡語國家央行數字貨幣發展與跨境創新應用高階研討會”上宣佈，澳門已完成與多邊央行數字貨幣橋（mBridge）專案的系統對接，並正式公佈首批11家本地銀行作為參與機構，將於6月2日開通“上橋”交易。此舉標誌著，澳門在央行數字貨幣跨境應用及數字金融基礎設施建設方面邁出實質性一步。記者從澳門金管局獲得的名單顯示，首批作為參與機構的11家本地銀行分別是：農業銀行澳門分行、中國銀行澳門分行、建設銀行澳門分行、澳門發展銀行、廣發銀行澳門分行、工銀澳門、澳門國際銀行、大豐銀行、立橋銀行、交通銀行澳門分行、創興銀行澳門分行（排序不分先後）。"
-    },
-    {
-      "id": "4911123",
-      "time": "2026-06-01 23:02:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：6 月 2 日盧布官方匯率定為 1 美元兌 71.5532 盧布（前一交易日匯率 71.0224）。"
     }
   ]
 }
