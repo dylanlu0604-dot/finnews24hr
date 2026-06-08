@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-08 23:06:32",
-  "count": 19086,
+  "updated": "2026-06-08 23:10:55",
+  "count": 19091,
   "items": [
+    {
+      "id": "4924409",
+      "time": "2026-06-08 23:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至2.5%。"
+    },
+    {
+      "id": "mkt:019ea7c7-2b6a-7226-8cb7-972de1469331",
+      "time": "2026-06-08 23:08:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRVL.O",
+        "Impact bullish",
+        "INTC.O",
+        "SNDK.O"
+      ],
+      "text": "Nasdaq 100's intraday gain widened to 2.5%. Marvell (MRVL.O) rose 13.56%, Intel (INTC.O) rose 12.6% and SanDisk (SNDK.O) rose 7.25%."
+    },
+    {
+      "id": "mkt:019ea7c5-000f-7226-8cb7-8d4bdae9e3f6",
+      "time": "2026-06-08 23:05:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "New York Fed said U.S. household concern about personal finances intensified in May; the share saying their finances are much worse than a year ago rose to the highest level in nearly four years."
+    },
+    {
+      "id": "mkt:019ea7c3-b093-7226-8cb7-844c54f5c229",
+      "time": "2026-06-08 23:04:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "New York Fed: May survey respondents' year‑ahead U.S. house‑price expectation rose to 3.5%, the highest since July 2022."
+    },
+    {
+      "id": "mkt:019ea7c3-05e3-7226-8cb7-7a06e3f50661",
+      "time": "2026-06-08 23:03:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "New York Fed: In May, the ratio of optimistic to pessimistic financial outlooks fell to its lowest level since October 2022."
+    },
     {
       "id": "4924408",
       "time": "2026-06-08 23:03:38",
@@ -11,6 +79,31 @@
       "text": "【英國海上貿易行動辦公室：阿曼附近一艘油輪起火 船員撤離】英國海上貿易行動辦公室(UKMTO)表示，一艘油輪起火，導致船員撤離。事件發生在阿曼馬西拉島東北15海里處，阿曼和印度當局正在協調處置，目前尚未收到任何環境影響報告。"
     },
     {
+      "id": "mkt:019ea7c2-2271-7226-8cb7-7277a22d1ab8",
+      "time": "2026-06-08 23:02:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "New York Fed: May median expected gasoline price increase over the next 12 months 5.0%, down from 5.1% in April."
+    },
+    {
+      "id": "mkt:019ea7c1-c85a-7226-8cb7-6a38425cfd7a",
+      "time": "2026-06-08 23:02:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "New York Fed: expected quits rate rose to its highest level since February 2023."
+    },
+    {
       "id": "4924407",
       "time": "2026-06-08 23:02:15",
       "tags": [
@@ -18,6 +111,36 @@
         "國際"
       ],
       "text": "【俄外交部發言人：俄將根據亞美尼亞實際舉措調整政策】據俄羅斯塔斯社8日報道，俄外交部發言人扎哈羅娃表示，俄方將根據亞美尼亞領導層的實際舉措來調整對其政策。亞美尼亞國民會議（議會）選舉7日舉行。亞美尼亞中央選舉委員會8日公佈的初步計票結果顯示，現任總理帕什尼揚領導的公民合約黨獲得超過72.7萬張選票，得票率49.81%，排名第一。（新華社）"
+    },
+    {
+      "id": "mkt:019ea7c1-7e63-7226-8cb7-60faee24d3c4",
+      "time": "2026-06-08 23:02:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "New York Fed: Survey respondents' assessments of both current and future financial conditions deteriorated in May."
+    },
+    {
+      "id": "mkt:019ea7c1-3170-7226-8cb7-5a3039b4531e",
+      "time": "2026-06-08 23:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "CNH"
+      ],
+      "text": "China's main futures contracts closed mixed at 23:00. Coking coal fell over 6%, coke dropped more than 3%, caustic soda and fuel oil were down over 2%, low-sulfur fuel oil (LU) was nearly 2% lower, LPG fell over 1% and glass slipped about 1%; PTA, starch, paraxylene and ethylene glycol (EG) rose over 1%, while bitumen, PET flakes and corn gained around 1%."
     },
     {
       "id": "mkt:019ea7c0-ead1-7226-8cb7-530fb0efceb3",
@@ -175807,47 +175930,6 @@
         "DXY"
       ],
       "text": "【Sources say Israeli expansion of Lebanon operations coordinated with US】On June 1, sources said Israel's expansion of military operations in Lebanon was coordinated with the United States. An Israeli official said the decision to strike Beirut's Dahiyeh was made after consultation with Washington, and that US Secretary of State Rubio had been pushing for a ceasefire but Hezbollah's refusal to cooperate led the US to stop opposing Israeli strikes on Hezbollah positions in Beirut."
-    },
-    {
-      "id": "4911131",
-      "time": "2026-06-01 23:08:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士稱以軍擴大在黎軍事行動系與美協調進行】當地時間6月1日，總檯記者獲悉，訊息人士稱，以色列擴大在黎巴嫩的軍事行動是與美國協調進行的。此外，一位以色列官員表示，以軍將對黎巴嫩貝魯特“達希耶”地區發動空襲的決定是與美國協調後做出的。這位官員宣稱，美國國務卿魯比奧一直在推動黎以停火，但真主黨並未“配合”，導致美國不再反對以色列空襲真主黨在貝魯特的據點。（央視新聞）"
-    },
-    {
-      "id": "4911130",
-      "time": "2026-06-01 23:08:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我主持召開軍事參謀部會議。本次會議重點細緻研判了前線官兵相關決議的落地落實情況。"
-    },
-    {
-      "id": "mkt:019e83b9-837e-7552-8901-8eebbc89744c",
-      "time": "2026-06-01 23:07:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian state TV warned that if attacks on Lebanon do not cease, a ceasefire between Iran and the United States is highly likely to collapse."
-    },
-    {
-      "id": "te:economy:555441",
-      "time": "2026-06-01 23:07:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Peru",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Peru Inflation Rate Ticks Down to 3.9% in May — The annual inflation rate in Peru’s capital, Lima, eased to 3.9% in May 2026 from 4.01% in the prior month, which was the steepest since October 2023. Still, it remained above the central bank's 1%-3% target range for the third straight month. Prices slowed primarily for food & non-alcoholic beverages (2.88% vs 4.16% in April); alcoholic beverages & tobacco (0.05% vs 0.59%) and furnishings & household equipment (2.81% vs 2.96%). Conversely, prices advanced further for some CPI items, including transportation (15.10% vs 15.02%); restaurants & hotels (3.98% vs 3.54%) and recreation & culture (2.07% vs 1.79%). At the same time, housing & utilities prices rose by 1.04%, after decreasing by 0.22% previously, on the back of adjusted residential electricity rates. On a monthly basis, the CPI fell by 0.16%, the first decrease since October 2025, reversing a 0.52% rise in April, mainly due to lower prices in food (-1.69%) and transport (-0.19%)."
     }
   ]
 }
