@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-08 22:26:02",
-  "count": 19103,
+  "updated": "2026-06-08 22:30:07",
+  "count": 19099,
   "items": [
+    {
+      "id": "mkt:019ea7a3-8f23-7226-8cb6-99b31d405684",
+      "time": "2026-06-08 22:29:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two sources said French President Macron and German Chancellor Merz agreed that companies involved in the joint fighter-jet project cannot reach an agreement."
+    },
+    {
+      "id": "4924364",
+      "time": "2026-06-08 22:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士透露，法國總統馬克龍與德國總理默茨已達成共識：參與聯合研發下一代戰鬥機的相關企業未能達成協議。"
+    },
+    {
+      "id": "4924363",
+      "time": "2026-06-08 22:28:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股IPO：杭州高光製藥股份有限公司-B遞表港交所】杭州高光製藥股份有限公司-B向港交所提交上市申請書，聯席保薦人為中金公司、招銀國際。"
+    },
+    {
+      "id": "4924362",
+      "time": "2026-06-08 22:27:49",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團宣佈，黑石數字基礎設施公司目標股價為每股23.00美元。"
+    },
+    {
+      "id": "4924361",
+      "time": "2026-06-08 22:27:18",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【戰爭重創供應，G7在首腦峰會前尋求化肥聯合應對行動】七國集團（G7）目前正考慮採取聯合行動，以保護農民並加強糧食安全，因為中東的戰爭已經導致全球化肥供應陷入混亂。根據法國政府6月8日發表的一份宣告，來自法國、加拿大、德國、義大利、日本、英國和美國的農業部長當日舉行會晤，討論旨在緩解農作物營養素（化肥）成本上漲影響的應對措施。宣告並未透露具體將採取哪些步驟。"
+    },
+    {
+      "id": "4924360",
+      "time": "2026-06-08 22:27:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團宣佈對Cerebras系統公司的目標股價為每股340.00美元。"
+    },
+    {
+      "id": "4924359",
+      "time": "2026-06-08 22:27:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團首次覆蓋 Cerebras 系統公司，給予買入評級。"
+    },
+    {
+      "id": "4924358",
+      "time": "2026-06-08 22:26:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【禮來股價上漲4%續刷記錄新高 Foundayo減重效果顯著】禮來股價上漲4%，報1176.650美元/股，續刷記錄新高，總市值報1.11萬億美元。訊息面上，6月7日，禮來在美國糖尿病協會年度科學會議上公佈其實驗性減肥藥Foundayo的最新分析資料，顯示在接受最高劑量治療的ATTAIN-1試驗中，超重或肥胖女性在72周內體重減輕了12.8%至14.4%，且減重效果不受絕經過渡狀態影響，有望擴大其肥胖症產品線的潛在市場。"
+    },
     {
       "id": "te:markets:557330",
       "time": "2026-06-08 22:24:44",
@@ -175933,117 +176004,6 @@
         "WTI"
       ],
       "text": "Mehr news agency, citing security sources, reported Iran says the US and Israel are attempting to exert pressure on Iran via Lebanon and Gaza."
-    },
-    {
-      "id": "4911076",
-      "time": "2026-06-01 22:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗表示，美、以試圖借黎巴嫩與加沙向其施壓。"
-    },
-    {
-      "id": "mkt:019e8396-e0e3-7552-8900-ad40bc1b5aa3",
-      "time": "2026-06-01 22:29:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor MERZ will convene multiple leaders to draft a NATO strategy aimed at courting Trump’s support; he will also chair an E5 leaders’ meeting this month to prepare for the upcoming NATO summit."
-    },
-    {
-      "id": "4911074",
-      "time": "2026-06-01 22:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：德國總理默茨將召集各方高層，擬定北約爭取特朗普支援的相關方案。"
-    },
-    {
-      "id": "mkt:019e8396-53b4-7552-8900-a7b6f8c14682",
-      "time": "2026-06-01 22:28:47",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Russell 2000 fell 1.2%."
-    },
-    {
-      "id": "4911073",
-      "time": "2026-06-01 22:28:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "羅素2000指數下跌1.2%。"
-    },
-    {
-      "id": "4911072",
-      "time": "2026-06-01 22:28:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世界首個乏燃料地下儲存庫或明年初啟用】位於芬蘭的世界上第一座乏燃料地下永久儲存庫建設已進入收尾階段，將在本月接受最終評估，預期於明年年初前正式投入使用。屆時，這座儲存庫可儲存芬蘭兩座核電站共5座核反應堆產生的乏燃料。這座乏燃料儲存庫名為“翁卡洛”，芬蘭語中意為“洞穴”，位於芬蘭西南部城鎮埃烏拉約基一處地下基岩中，距地表約433米，附近有芬蘭兩座核電站之一的奧爾基盧奧托核電站。翁卡洛儲存庫由從事核廢料處理業務的波西瓦公司承建，2004年啟動工程專案可行性研究，2015年獲得儲存庫建設許可，專案總成本據估算將達10億歐元，預計可儲存相當於6500噸鈾的乏燃料。（新華社）"
-    },
-    {
-      "id": "4911071",
-      "time": "2026-06-01 22:27:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月1日增減持彙總】據不完全統計，6月1日盤後，華測導航披露增持情況，包括華研精機、潤澤科技、保立佳、雲中馬、矩子科技、咸亨國際在內的6家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "4911070",
-      "time": "2026-06-01 22:27:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：海灣地區股市多數下跌，受對伊朗戰爭的擔憂拖累】分析師表示，隨著美伊緊張局勢重燃令投資者保持謹慎，海灣地區股市收盤多數走低。Zaye Capital Markets的Naeem Aslam表示，儘管全球盈利帶來支撐，且圍繞人工智慧(AI)的情緒積極，但與石油、通貨膨脹和伊朗相關的風險仍在破壞地區市場情緒。週一，卡達QE指數收盤下跌1.1%，沙烏地阿拉伯TASI指數下跌0.6%，阿布扎比基準指數下跌0.5%。迪拜金融市場綜合指數上漲0.3%。"
-    },
-    {
-      "id": "mkt:019e8394-ecd7-7552-8900-9979b1ede54b",
-      "time": "2026-06-01 22:27:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures surged 8.00% intraday to $94.35/bbl."
-    },
-    {
-      "id": "4911069",
-      "time": "2026-06-01 22:26:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲8%，現報94.35美元/桶。"
-    },
-    {
-      "id": "te:markets:555429",
-      "time": "2026-06-01 22:26:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Extend Gains in Afternoon Trading — European natural gas futures extended gains to more than 6%, approaching €49 per megawatt hour, as renewed geopolitical tensions raised concerns over global energy supplies. Prices were supported by reports that Iran would suspend exchanges of messages with the US in protest over Israel’s escalating military operations in Lebanon. Tehran accused Washington of sending mixed signals and delaying negotiations, while Foreign Ministry spokesperson Esmail Baghaei said Iran continued to engage with the US with “distrust.” President Donald Trump maintained that talks on an interim peace deal would “work out well,” despite renewed clashes near the Strait of Hormuz. The waterway has remained largely closed for three months, heightening concerns about LNG flows and Europe’s ability to rebuild gas inventories ahead of winter. European storage facilities are currently around 38% full, well below the five-year average of more than 50% for this time of year."
-    },
-    {
-      "id": "4911068",
-      "time": "2026-06-01 22:26:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲5%，現報4878.00元。"
     }
   ]
 }
