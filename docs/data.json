@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-09 00:40:05",
+  "updated": "2026-06-09 00:44:42",
   "count": 19113,
   "items": [
+    {
+      "id": "4924495",
+      "time": "2026-06-09 00:43:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜將發行規模達140億加元的高階債券，創加元債券發行規模新高。"
+    },
+    {
+      "id": "4924494",
+      "time": "2026-06-09 00:43:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "預計約有20家企業參與日本電信電話集團（NTT）的募資，其中包括三星電子。"
+    },
+    {
+      "id": "4924493",
+      "time": "2026-06-09 00:40:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本電信電話集團擬面向美國、韓國投資者募資5億美元，設立光網路專項基金。"
+    },
+    {
+      "id": "4924492",
+      "time": "2026-06-09 00:39:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "出口商預估資料顯示，截至6月7日，象牙海岸2025/26年度可可到貨量達182.2萬噸，去年同期為164.2萬噸。"
+    },
     {
       "id": "4924491",
       "time": "2026-06-09 00:38:20",
@@ -176132,38 +176167,6 @@
         "MKT News"
       ],
       "text": "Russia's Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor) will restrict imports from Armenia of cherries, sweet cherries, apricots, plums, peaches, nectarines and grapes effective June 2."
-    },
-    {
-      "id": "4911198",
-      "time": "2026-06-02 00:43:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【船東敦促制定明確規則，來恢復霍爾木茲海峽的正常通航】6月1日，在希臘雅典集會的航運業高管們表示，美國和伊朗之間達成的任何和平協議，都需要提供明確的規則，以允許船隻恢復透過霍爾木茲海峽的正常商業往來。船東和海事行業官員在“資本連結”（Capital Link）會議及其他活動上齊聚一堂，拉開了“波塞冬（Posidonia）雙年國際海事展”的序幕，這是一場為期一週的航運業盛會。"
-    },
-    {
-      "id": "4911197",
-      "time": "2026-06-02 00:42:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦動植物衛生監督局通報，自 6 月 2 日起，俄方將限制從亞美尼亞進口櫻桃、甜櫻桃、杏、李子、桃子、油桃及葡萄。"
-    },
-    {
-      "id": "mkt:019e8410-bd0d-7993-96f7-2a15a10ff850",
-      "time": "2026-06-02 00:42:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan government: Prime Minister briefed the EU High Representative on Pakistan's views on South Asian security and the situation in Afghanistan."
-    },
-    {
-      "id": "mkt:019e8410-929a-7993-96f7-22a8d4159864",
-      "time": "2026-06-02 00:42:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister met EU high representative for foreign affairs and security policy kallas and said Pakistan seeks to deepen its multifaceted partnership with the EU. He expressed satisfaction with the 8th EU–Pakistan strategic dialogue and reiterated Pakistan's commitment to strengthen cooperation with the EU on trade and investment, climate change, security, migration, sustainable development and connectivity."
     }
   ]
 }
