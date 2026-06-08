@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-09 05:11:33",
+  "updated": "2026-06-09 05:15:34",
   "count": 19203,
   "items": [
+    {
+      "id": "mkt:019ea916-bfe0-733a-9236-119fd4c9ee94",
+      "time": "2026-06-09 05:15:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission."
+    },
+    {
+      "id": "4924694",
+      "time": "2026-06-09 05:14:32",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI：向美國證券交易委員會秘密提交 S-1 招股說明書草案。"
+    },
+    {
+      "id": "mkt:019ea914-c8db-733a-9236-0c6822f5be46",
+      "time": "2026-06-09 05:12:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24 News reported Eilat in southern Israel issued a red alert for a suspected drone threat; the IDF intercepted the threat."
+    },
+    {
+      "id": "4924693",
+      "time": "2026-06-09 05:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席科學家：OpenAI致力追求的各項核心目標，均圍繞著這一使命：確保通用人工智慧造福全人類。人工智慧應當增強人類的主體性，而非削弱人類在塑造未來中的作用與意義。"
+    },
+    {
+      "id": "mkt:019ea913-94eb-733a-9236-01f5a36bac55",
+      "time": "2026-06-09 05:11:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI chief scientist says OpenAI’s core objectives center on ensuring AGI benefits all humanity; AI should enhance human agency, not diminish humans’ role in shaping the future."
+    },
     {
       "id": "4924692",
       "time": "2026-06-09 05:10:09",
@@ -177045,46 +177090,6 @@
         "國際"
       ],
       "text": "伊朗議會議長卡利巴夫：在與黎巴嫩議長納比赫·貝里先生的會談中，我強調，如果以色列繼續攻擊黎巴嫩，我們不僅將停止對話程序，而且將堅決對抗它們。"
-    },
-    {
-      "id": "4911349",
-      "time": "2026-06-02 05:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.06%，報15533點。"
-    },
-    {
-      "id": "4911348",
-      "time": "2026-06-02 05:15:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價跟隨Alphabet下跌，跌幅1.1%。"
-    },
-    {
-      "id": "4911347",
-      "time": "2026-06-02 05:13:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "慧與公司高管：公司已將截至2026財年人工智慧網路業務累計訂單目標上調至至少20億美元。"
-    },
-    {
-      "id": "4911346",
-      "time": "2026-06-02 05:13:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉原油日產量升至120萬桶。"
-    },
-    {
-      "id": "4911345",
-      "time": "2026-06-02 05:12:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "美洲鋰業美股盤後快速大漲7.9%。"
     }
   ]
 }
