@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-08 08:57:35",
-  "count": 19222,
+  "updated": "2026-06-08 09:01:41",
+  "count": 19215,
   "items": [
+    {
+      "id": "te:markets:557059",
+      "time": "2026-06-08 09:00:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Rebound — US gasoline futures rose toward $3.10 per gallon, rebounding from a seven-week low, following reports that Iran launched missiles at Israel, raising concerns over the stability of the already fragile US-Iran ceasefire. Iran described the attack as a warning over Israel’s actions in Lebanon, while Israeli forces intercepted all missiles. President Trump called on Iran to return to negotiations and was reportedly working to discourage an Israeli retaliation. The escalation increases the risk of broader military conflict, which could further disrupt Middle Eastern shipping routes and energy flows, worsening the already tight conditions in global distillate markets. Meanwhile, US gasoline inventories rose by more than 3 million barrels in the final week of May, ending a 15-week streak of declines. However, draws of around 8 million barrels each from private crude stocks and the SPR tempered the overall improvement in refined product supply."
+    },
+    {
+      "id": "mkt:019ea4be-cfe3-7338-95ad-e731ce9374b3",
+      "time": "2026-06-08 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "At the morning open, China’s domestic futures front-month contracts were mostly lower. Losers: Shanghai silver down over 7%, tin down over 4%; Shanghai gold, 20-grade rubber and international copper down more than 2%; synthetic rubber down nearly 2%; Shanghai copper and rubber down over 1%. Winners: urea up over 2%; japonica rice and coking coal up about 2%; bitumen and container freight rates on Europe routes up over 1%; PTA up roughly 1%."
+    },
+    {
+      "id": "4922544",
+      "time": "2026-06-08 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報405310.00元。"
+    },
+    {
+      "id": "4922543",
+      "time": "2026-06-08 09:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌5.4%至42,650.77點。"
+    },
+    {
+      "id": "4922542",
+      "time": "2026-06-08 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌4.4%至43,093.27點。"
+    },
+    {
+      "id": "4922541",
+      "time": "2026-06-08 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低1.3%報44,507.49。"
+    },
+    {
+      "id": "mkt:019ea4be-87df-7338-95ad-d9ca62dd8d47",
+      "time": "2026-06-08 09:00:10",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.75%."
+    },
+    {
+      "id": "te:markets:557058",
+      "time": "2026-06-08 09:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Towers on Fed Rate Hike Bets — The dollar index hovered around 100 on Monday after climbing more than 1% last week, supported by robust US labor market data that reinforced expectations of a Federal Reserve interest rate increase later this year. Data released on Friday showed the US economy added 172,000 jobs in May, comfortably exceeding forecasts of 85,000, while the unemployment rate remained steady at 4.3%. Following the report, markets raised the probability of a Fed rate hike in December to nearly 70%, up from around 50% beforehand. Despite this, the central bank is still widely expected to leave interest rates unchanged at its June 16-17 policy meeting under the leadership of new Chairman Kevin Warsh. Expectations for a more hawkish Fed were also strengthened by renewed tensions in the Middle East, which drove oil prices higher and fueled inflation concerns."
+    },
+    {
+      "id": "4922540",
+      "time": "2026-06-08 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.73%。"
+    },
+    {
+      "id": "4922539",
+      "time": "2026-06-08 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌7.22%，錫連續跌4.92%，鈀連續跌4.59%，膠合板連續跌4.38%，鉑連續跌3.93%。"
+    },
+    {
+      "id": "4922538",
+      "time": "2026-06-08 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌4%，現報405760.00元。"
+    },
+    {
+      "id": "4922537",
+      "time": "2026-06-08 08:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士：伊方已做好軍事準備應對以色列進一步行動】據伊朗塔斯尼姆通訊社7日援引一名軍事訊息人士的話報道，伊朗方面已做好應對以色列進一步行動的軍事準備，並警告若局勢升級，將採取更大規模的打擊行動。這名訊息人士說，目前已有相當數量的導彈處於待命狀態。如果以色列回擊伊朗，伊朗將立即對以色列控制區域內更大範圍的目標實施導彈打擊，規模將超過此前行動。(新華社)"
+    },
+    {
+      "id": "mkt:019ea4bd-c2fb-7338-95ad-d40a5d74ca1d",
+      "time": "2026-06-08 08:59:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran military source says Tehran ready to respond to further Israeli action】A news agency on the 7th cited a military source saying Iran is militarily prepared to respond to further Israeli action and warned it would carry out larger-scale strikes if the situation escalates. The source said a significant number of missiles are on standby and that, if Israel retaliates against Iran, Tehran would immediately launch missile strikes against a wider set of targets in Israeli-controlled areas at a scale exceeding prior actions. The source added Iran is prepared for a possible large-scale military conflict and urged Israel to take the warning seriously."
+    },
+    {
+      "id": "4922536",
+      "time": "2026-06-08 08:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博泰車聯稱與迅策、賽目科技簽署合作框架協議，研發基於Token的物理AI世界模型】中國智慧座艙解決方案供應商博泰車聯： 6月7日與迅策、賽目科技共同簽署了三方戰略合作框架協議。 三方整合各方優勢，聯合研發基於Token的物理AI世界模型，並拓展Token世界模型聯盟，打造「端側硬體+模擬測試+資料基礎設施+Token結算+商業化運營」全閉環產業體系。 技術層面，三方融合車載終端、模擬測試、資料結算、AI大模型四大核心能力；產業生態層面，三方打造車載Token經濟與AI智慧體行業標杆。"
+    },
+    {
+      "id": "4922535",
+      "time": "2026-06-08 08:57:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國電信、央企戰新產發基金等成立人工智慧產業私募基金】企查查APP顯示，近日，中電信（上海）人工智慧產業私募基金合夥企業（有限合夥）成立，出資額20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由上海國投先導人工智慧私募投資基金合夥企業（有限合夥）、央企戰略性新興產業發展基金有限責任公司、中國電信集團有限公司全資子公司中國電信集團投資有限公司等共同出資。"
+    },
+    {
+      "id": "4922534",
+      "time": "2026-06-08 08:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月5日570股獲融資買入超億元 中際旭創穫買入100.85億元居首】6月5日共有3470只個股獲融資資金買入，有570股買入金額超億元。其中，中際旭創、京東方Ａ、新易盛融資買入金額排名前三，分別獲買入100.85億元、52.35億元、48.16億元。"
+    },
     {
       "id": "4922533",
       "time": "2026-06-08 08:56:28",
@@ -177182,226 +177334,6 @@
       "time": "2026-06-01 09:01:54",
       "tags": [],
       "text": "國內期貨主力合約漲跌不一，集運歐線漲超4％，雞蛋漲超3％，塑膠、滬金、焦煤、焦炭漲超1％。跌幅方面，豆一、紙漿跌超1％，純苯、滬鋅、滬鎳跌近1％。"
-    },
-    {
-      "id": "4909288",
-      "time": "2026-06-01 09:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高檢：2025年未成年人犯罪和侵害未成年人犯罪實現“雙下降”】最高人民檢察院今天（6月1日）釋出《未成年人檢察工作白皮書（2025）》。白皮書從未成年人檢察工作基本情況，依法加強對罪錯未成年人的懲治、教育、感化、挽救，依法從嚴懲治侵害未成年人犯罪，深化未成年人綜合司法保護，促推未成年人“六大保護”融通發力，持續提升未成年人檢察專業化規範化水平等六個方面進行了分析總結。白皮書顯示，2025年，檢察機關受理審查起訴未成年人犯罪和起訴侵害未成年人犯罪近五年來首次“雙下降”。其中檢察機關受理審查起訴未成年人犯罪人數同比下降9.8%。在未成年人犯罪案件中，盜竊罪、聚眾鬥毆罪、強姦罪、搶劫罪、尋釁滋事罪、詐騙罪等六類的佔比超七成。檢察機關受理審查起訴的14週歲至16週歲的未成年犯罪嫌疑人數量，在2024年同比下降7.4%的基礎上，2025年又下降了13.4%。最高檢依法核准追訴已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪24人，向社會持續釋放“低齡不是免罪金牌”的明確訊號。"
-    },
-    {
-      "id": "mkt:019e80b3-1f2b-766e-87ae-0a4061fca718",
-      "time": "2026-06-01 09:01:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index opened 511.31 points higher on Monday, June 1, at 45,244.25, up 1.14%."
-    },
-    {
-      "id": "4909287",
-      "time": "2026-06-01 09:01:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲11%，現報3883.00點。"
-    },
-    {
-      "id": "4909286",
-      "time": "2026-06-01 09:01:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲10%，現報3840.50點。"
-    },
-    {
-      "id": "4909285",
-      "time": "2026-06-01 09:01:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲9%，現報3805.50點。"
-    },
-    {
-      "id": "4909284",
-      "time": "2026-06-01 09:00:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本五年期國債收益率上升3個基點，至1.915%。"
-    },
-    {
-      "id": "4909283",
-      "time": "2026-06-01 09:00:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲8%，現報3774.50點。"
-    },
-    {
-      "id": "mkt:019e80b2-9ccd-766e-87ae-07885d04257b",
-      "time": "2026-06-01 09:00:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "Xiaomi Auto: May 2026 deliveries remained above 30,000 units."
-    },
-    {
-      "id": "4909282",
-      "time": "2026-06-01 09:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報3737.00點。"
-    },
-    {
-      "id": "mkt:019e80b2-5424-766e-87ad-ff99b0002e23",
-      "time": "2026-06-01 09:00:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300"
-      ],
-      "text": "FTSE China A50 index futures opened 0.03% higher."
-    },
-    {
-      "id": "4909281",
-      "time": "2026-06-01 09:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1%至45,184.08點。"
-    },
-    {
-      "id": "mkt:019e80ba-a563-766e-87ae-5d751dff9144",
-      "time": "2026-06-01 09:00:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D early session on June 1 rose 0.64% to 986.8 yuan/gram; SGE silver T+D fell 1.13% to 18,052 yuan/kg."
-    },
-    {
-      "id": "mkt:019e80b2-3817-766e-87ad-f622b01543a3",
-      "time": "2026-06-01 09:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "At the open, China’s main onshore futures were mixed: Europe-bound container freight jumped over 4%, eggs rose more than 3%, and plastics, SHFE gold, coking coal and coke gained over 1%. On the downside, Soybean No.1 and pulp fell more than 1%, while benzene, SHFE zinc and SHFE nickel slipped about 1%."
-    },
-    {
-      "id": "4909280",
-      "time": "2026-06-01 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.3%報44,872.82。"
-    },
-    {
-      "id": "4909279",
-      "time": "2026-06-01 09:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報3701.00點。"
-    },
-    {
-      "id": "4909278",
-      "time": "2026-06-01 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內漲3%，現報4822.00元。"
-    },
-    {
-      "id": "4909277",
-      "time": "2026-06-01 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報3666.00點。"
-    },
-    {
-      "id": "4909276",
-      "time": "2026-06-01 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續漲5.33%，雞蛋連續漲3.48%，豆一連續跌1.88%，焦煤連續漲1.36%，塑膠連續漲1.29%。"
-    },
-    {
-      "id": "4909275",
-      "time": "2026-06-01 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.15%。"
-    },
-    {
-      "id": "4909274",
-      "time": "2026-06-01 08:59:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰遠鈷業：公司廠區處於剛果（金）南部礦區 未受埃博拉病毒影響】有投資者在互動平臺提問騰遠鈷業(301219)：剛果（金）埃博拉病毒疫情對當地公司有多大影響？騰遠鈷業回覆稱，埃博拉病毒爆發在剛果（金）東北部伊圖裡省，公司廠區處於剛果（金）南部礦區，兩地距離較遠未受影響。目前廠區已落實各項防護舉措，合創專案各項工作按計劃穩步推進，建設工作一切正常。"
-    },
-    {
-      "id": "4909273",
-      "time": "2026-06-01 08:58:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【受與英偉達在人工智慧和機器人領域合作前景的提振  LG股價大漲】據媒體報道， 韓國LG電子及其部分關聯公司的股價在週一早盤交易中大幅上漲，因投資者期待該公司與英偉達在物理人工智慧和機器人技術領域擴大合作。早盤交易中，LG電子股價上漲28%，LG CNS和控股公司LG集團的股價分別上漲25%和21%。基友證券分析師安永俊週一在一份報告中表示：“隨著人工智慧和機器人等新業務受到關注，LG集團旗下公司的股價近期有所上漲。”韓國媒體上週報道稱，英偉達執行長黃仁勳預計將於本週晚些時候訪問韓國，並計劃與LG集團董事長具光謨等人會面。"
-    },
-    {
-      "id": "4909272",
-      "time": "2026-06-01 08:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月29日613股獲融資買入超億元 中際旭創穫買入60.29億元居首】5月29日共有3469只個股獲融資資金買入，有613股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入60.29億元、42.06億元、36.37億元。"
-    },
-    {
-      "id": "te:markets:555132",
-      "time": "2026-06-01 08:57:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Israel",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "Israeli New Sheqel Hits Near 33-year High — The Israeli New Sheqel touched 2.80 against the USD, the highest since July 1993. Over the past 4 weeks, US Dollar Israeli New Sheqel lost 5.36%, and in the last 12 months, it decreased 20.48%."
     }
   ]
 }
