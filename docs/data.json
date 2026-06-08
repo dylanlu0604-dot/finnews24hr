@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-09 03:14:15",
-  "count": 19215,
+  "updated": "2026-06-09 03:18:03",
+  "count": 19218,
   "items": [
+    {
+      "id": "mkt:019ea8ab-3736-733a-9234-addaf3beb0c3",
+      "time": "2026-06-09 03:17:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple software chief Craig Federighi said many Apple Intelligence requests are processed on-device, while more complex requests are routed to Apple's proprietary private cloud for processing."
+    },
+    {
+      "id": "4924638",
+      "time": "2026-06-09 03:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果軟體主管克雷格・費德里吉： 蘋果已搭建專屬知識服務體系，該服務執行於公司自有私有云計算平臺。"
+    },
+    {
+      "id": "4924637",
+      "time": "2026-06-09 03:16:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果軟體主管克雷格・費德里吉：蘋果專屬雲將採用三款自研 AI 模型，這些模型由蘋果與谷歌合作打造。"
+    },
+    {
+      "id": "4924636",
+      "time": "2026-06-09 03:16:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果軟體主管克雷格・費德里吉： 蘋果智慧的多項指令均在裝置端處理，更復雜的請求則交由蘋果自有專屬雲端計算平臺處理。"
+    },
+    {
+      "id": "4924635",
+      "time": "2026-06-09 03:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：受美國封鎖影響，托克暫停部分古巴鋅貨運業務。"
+    },
+    {
+      "id": "4924634",
+      "time": "2026-06-09 03:15:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅收窄至0.3%，重新整理日低。"
+    },
+    {
+      "id": "mkt:019ea8a7-ff10-733a-9234-a54d7b1c2994",
+      "time": "2026-06-09 03:14:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple's new intelligence features do not rely on Google Search."
+    },
     {
       "id": "4924633",
       "time": "2026-06-09 03:13:03",
@@ -177122,40 +177186,6 @@
         "國際"
       ],
       "text": "美國參議院多數黨領袖約翰·圖恩表示，希望從移民執法支出法案中剔除特朗普提出的 “政治武器化調查專項經費”。"
-    },
-    {
-      "id": "4911273",
-      "time": "2026-06-02 03:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官卡尼：以色列在黎巴嫩與加沙的行動將致使抵抗軸心“將曼德海峽與霍爾木茲海峽的航行形勢對等看待”。"
-    },
-    {
-      "id": "4911272",
-      "time": "2026-06-02 03:15:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：已在密歇根州薩林市動工建設佔地面積1吉瓦的資料中心園區“The Barn”。"
-    },
-    {
-      "id": "mkt:019e849c-5287-7993-96f9-24339b828a52",
-      "time": "2026-06-02 03:14:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said the BARN project is expected to generate $1 billion in tax revenue over the lease term."
-    },
-    {
-      "id": "4911271",
-      "time": "2026-06-02 03:14:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：該專案設計採用閉環冷卻系統，耗水量與普通辦公樓大致相當。"
     }
   ]
 }
