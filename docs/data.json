@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-09 01:31:26",
-  "count": 19135,
+  "updated": "2026-06-09 01:35:11",
+  "count": 19142,
   "items": [
+    {
+      "id": "4924553",
+      "time": "2026-06-09 01:33:43",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "蘋果於全球開發者大會推出人工智慧版Siri。"
+    },
+    {
+      "id": "4924552",
+      "time": "2026-06-09 01:33:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：推出由蘋果智慧解鎖的全新Siri版本。"
+    },
+    {
+      "id": "4924551",
+      "time": "2026-06-09 01:33:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌股價跌幅收窄至不到1%，此前一度下跌2.2%。"
+    },
+    {
+      "id": "4924550",
+      "time": "2026-06-09 01:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價延續漲勢，觸及盤中高點，上漲2.7%。"
+    },
+    {
+      "id": "4924549",
+      "time": "2026-06-09 01:33:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：這（特朗普言論）表明美國既不尋求停火，也不尋求對話。"
+    },
+    {
+      "id": "4924548",
+      "time": "2026-06-09 01:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：特朗普關於該諒解備忘錄的言論違反了伊核協議的既定條款。"
+    },
+    {
+      "id": "4924547",
+      "time": "2026-06-09 01:32:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果改善iOS及macOS 27系統體驗，重構照片和郵件App等搜尋功能】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，在更新 iOS / iPadOS / macOS 27後，系統網路切換變得更順暢，在資訊app裡發較大的照片或影片檔案，也不再會拖慢對話速度，訊息有沒有傳送成功可以直接看到。搜尋方面，蘋果表示，從底層重構了聚焦、照片和郵件app中的搜尋功能。此外，郵件app也採用了新的排序系統，其會優先顯示最重要的內容。（新浪科技）"
+    },
+    {
+      "id": "te:economy:557358",
+      "time": "2026-06-09 01:31:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Resumes Increase — The yield on the 10-year US Treasury note bounced back to 5.46% on Monday, the highest in over two weeks, reflecting expectations of high interest rates by the Fed despite the mid-session pullback in energy prices. Inflation data due on Wednesday is expected to cross the 4% threshold, consolidating the accelerating momentum in consumer prices. The backdrop combines with a strong labor market as jobs growth has held above recent averages despite the Federal Reserve signaling concerns of a stalled labor force, adding leeway for the central bank to maintain rates at a restrictive level to fight inflation. Rate futures pointed to expectations of a rate hike by the central bank this year. The latest developments held despite Israel and Iran pledging to hold fire following their escalation over the weekend, lowering energy prices and setting the stage for more talks between Tehran and the US."
+    },
+    {
+      "id": "4924546",
+      "time": "2026-06-09 01:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏茲別克南部一加氣站爆炸致6死5傷】烏茲別克緊急情況部8日通報，烏南部卡什卡達里亞州卡爾希區一家用液化氣瓶加氣站當日下午發生爆炸並引發火災，造成6人死亡、5人受傷。通報說，爆炸導致加氣站內4輛汽車和2個地下儲氣罐被大火燒燬。目前現場明火已被撲滅，傷者已送醫救治，相關部門在開展善後工作。烏茲別克政府已就此成立專門調查委員會。（新華社）"
+    },
+    {
+      "id": "mkt:019ea84a-2e77-733a-9232-9a08898e3a71",
+      "time": "2026-06-09 01:31:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's parliament speaker Mohammad Bagher Ghalibaf said Iran will turn a maritime blockade into another failure for the \"enemy\"."
+    },
+    {
+      "id": "4924545",
+      "time": "2026-06-09 01:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉漲超5%。"
+    },
     {
       "id": "mkt:019ea849-9bd3-733a-9232-919a9c842d65",
       "time": "2026-06-09 01:30:56",
@@ -176342,39 +176440,6 @@
         "MKT News"
       ],
       "text": "【Trump says productive talks with Netanyahu and Hezbollah; no US troops to Beirut】President Trump said on social media he had a very productive call with Israeli Prime Minister Netanyahu and that no US troops will go to Beirut; any units already en route have been sent back. He said, via a senior representative, he also had a good call with Hezbollah and that both sides agreed all shooting will stop — Israel will not attack Hezbollah and Hezbollah will not attack Israel."
-    },
-    {
-      "id": "4911228",
-      "time": "2026-06-02 01:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：坦率地說，有關與伊朗談判的問題開始變得無聊了。（CNBC）"
-    },
-    {
-      "id": "4911227",
-      "time": "2026-06-02 01:34:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：真主黨和以色列同意互不攻擊】美國總統特朗普在社交媒體“真相社交”發文稱， 同以色列總理內塔尼亞胡進行了一次富有成效的通話，美方不會向貝魯特派兵，所有正在馳援途中的部隊均已原路撤回。與此同時，我透過高層特使與真主黨順利通了話，對方達成全面停火共識：以色列不會對其發起襲擊，真主黨也不再襲擊以色列。"
-    },
-    {
-      "id": "mkt:019e843e-e6db-7993-96f8-2d594aaf3bfe",
-      "time": "2026-06-02 01:32:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi security official says a fire aboard a cargo ship has been brought under control."
-    },
-    {
-      "id": "mkt:019e843d-dae6-7993-96f8-257a0454edea",
-      "time": "2026-06-02 01:31:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Israel would not attack Hezbollah and Hezbollah would not attack Israel."
     }
   ]
 }
