@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-09 04:51:58",
-  "count": 19215,
+  "updated": "2026-06-09 04:55:49",
+  "count": 19209,
   "items": [
+    {
+      "id": "te:markets:557369",
+      "time": "2026-06-09 04:52:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Ibovespa Falls on Banking and Vale Losses — The Ibovespa fell 0.2% to close at 168,669 on Monday, pressured by losses in Vale and major banks in a session marked by low trading volumes. Investors remained cautious as they awaited fresh catalysts after the benchmark retreated sharply from its record highs reached in April. Vale lost 0.8%, tracking lower iron ore futures in China. Financial stocks were mostly weaker, with Bradesco down 1.6%, Itaú falling 0.8%, and Banco do Brasil losing 0.4%. Petrobras rose about 0.8%, supported by higher oil prices, although crude pared earlier gains after Iran and Israel signaled they had halted attacks on each other following an appeal from US President Donald Trump. WEG jumped 3.6% after HSBC initiated coverage with a buy rating. Elsewhere, Embraer gained 1.5% on expectations of progress in an Indian military aircraft tender, while MRV dropped 4.6% and Marfrig fell 1.5%."
+    },
+    {
+      "id": "4924685",
+      "time": "2026-06-09 04:52:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一（6月8日）紐約尾盤，現貨黃金大致持平，報4326.91美元/盎司，整體呈現出V形走勢，交投於4353.37-4268.80美元。COMEX黃金期貨跌0.34%，報4350.30美元/盎司，北京時間13:37曾重新整理日低至4293美元。"
+    },
+    {
+      "id": "mkt:019ea901-c04f-733a-9235-d1eb5f767946",
+      "time": "2026-06-09 04:52:04",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【India seeks preferential U.S. tariffs to clinch interim trade deal】India is seeking new preferential tariff terms from the U.S. to finalize an interim trade agreement, a senior Indian trade official told foreign media. New Delhi and Washington reached a preliminary accord in February, but talks slowed after the U.S. Supreme Court struck down broad tariff measures. The U.S. has proposed an additional 12.5% tariff on imports from India and other countries and is considering another levy targeting alleged textile overcapacity. The Indian official said a deal hinges on clarity over those tariffs, that rates be competitive with direct rivals, and that India secure U.S. assurances no further tariffs will be imposed after an agreement."
+    },
     {
       "id": "4924684",
       "time": "2026-06-09 04:48:03",
@@ -177091,93 +177124,6 @@
         "MKT News"
       ],
       "text": "U.S. Homeland Security Secretary said there is currently no need to suspend processing of international flights at Newark Liberty International Airport."
-    },
-    {
-      "id": "4911330",
-      "time": "2026-06-02 04:55:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約期金跌超1.7%，失守4500美元】週一（6月1日）紐約尾盤，現貨黃金下跌1.26%，報4483.04美元/盎司，整體持續走低，北京時間21:10出現一波短線加速下跌行情、22:00重新整理日低至4447.97美元。COMEX黃金期貨跌1.74%，報4513.00美元/盎司，全天持續下跌，交投區間為4577.30-4476美元。"
-    },
-    {
-      "id": "mkt:019e84f7-47c7-7993-96fa-2b9cc7c37c08",
-      "time": "2026-06-02 04:54:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "ROSN.ME",
-        "Impact bullish"
-      ],
-      "text": "Russian oil producer Rosneft said Q1 2026 revenue was 2.032 tln rubles, up 4.3% QoQ. Q1 2026 net profit rose sevenfold from Q4 2025 to 115 bln rubles."
-    },
-    {
-      "id": "4911329",
-      "time": "2026-06-02 04:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta上線AI聊天機器人付費訂閱業務，用於覆蓋其2026年1250億–1450億美元的預期資本開支。"
-    },
-    {
-      "id": "mkt:019e84f6-1a97-7993-96fa-24098375b775",
-      "time": "2026-06-02 04:53:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Rosneft said Q1 oil and gas condensate production averaged 3.74 mln bpd, down 0.4% QoQ."
-    },
-    {
-      "id": "mkt:019e84f6-0f4e-7993-96fa-1f53ec61eef1",
-      "time": "2026-06-02 04:52:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Saudi Al Arabiya TV, citing sources, said a fire broke out aboard the U.S. vessel Sarisski after a second attack off the coast of Iraq."
-    },
-    {
-      "id": "4911328",
-      "time": "2026-06-02 04:52:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯石油公司（Rosneft）：基礎設施遇襲可能會導致其部分資產價值重估，這或對其財務業績產生負面影響。"
-    },
-    {
-      "id": "4911327",
-      "time": "2026-06-02 04:52:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯石油公司（Rosneft）：第一季度油氣凝析油產量為374萬桶/日，較上一季度下降0.4%。"
-    },
-    {
-      "id": "4911326",
-      "time": "2026-06-02 04:52:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯石油公司（Rosneft）：第一季度息稅折舊攤銷前利潤（EBITDA）為7280億盧布，較上一季度增長37%。"
-    },
-    {
-      "id": "4911325",
-      "time": "2026-06-02 04:52:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯石油公司（Rosneft）：第一季度營收為2.032萬億盧布，較上一季度增長4.3%。"
     }
   ]
 }
