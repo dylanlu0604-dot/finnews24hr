@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-09 06:36:43",
-  "count": 19199,
+  "updated": "2026-06-09 06:40:36",
+  "count": 19194,
   "items": [
+    {
+      "id": "4924737",
+      "time": "2026-06-09 06:38:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 可能釋出 中國5月M2等貨幣供應；\n② 時間待定 中國5月進出口與貿易帳；\n③ 19:00 法國央行行長Emmanuel Moulin講話；\n④ 20:30 美國4月貿易帳，加拿大4月貿易帳；\n⑤ 22:00 美國5月成屋銷售總數年化；\n⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）。"
+    },
+    {
+      "id": "4924736",
+      "time": "2026-06-09 06:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局週一向銀行提供的隔夜貸款攀升至三個月來的最高水平。透過所謂的貼現視窗貸出9.2億港元，創3月17日以來最高。"
+    },
     {
       "id": "te:markets:557374",
       "time": "2026-06-09 06:35:10",
@@ -176999,76 +177016,6 @@
         "Brent"
       ],
       "text": "【Australia 2026/27 winter wheat crop forecast down 26% on drought, war-driven input costs】The Australian Department of Agriculture's first survey estimates the 2026/27 winter wheat crop at 26.7 mln tonnes, a 26% decline YoY and below the five- and ten-year averages. Plantings are estimated at 10.9 mln ha, down 12% and the smallest since 2019/20. The department cites severe drought, weak global wheat prices narrowing returns versus other crops, and higher production input costs—notably fuel and fertilizer—linked to Middle East war-related disruption in the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:555489",
-      "time": "2026-06-02 06:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Falls by 3.21% — Top commodity losers are Oat (-3.21%) and Coffee (-2.12%). Gains are led by Sugar (2.48%) and Canola (1.86%)."
-    },
-    {
-      "id": "4911401",
-      "time": "2026-06-02 06:39:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月02日06時12分在第勒尼安海（北緯39.30度，東經15.85度）發生6.2級地震，震源深度250千米。"
-    },
-    {
-      "id": "4911400",
-      "time": "2026-06-02 06:39:21",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本自民黨擬出臺加密貨幣ETF相關法律框架，並推動錨定日元的穩定幣落地。"
-    },
-    {
-      "id": "mkt:019e8557-5323-7993-96fa-cb832f69f38a",
-      "time": "2026-06-02 06:39:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【Multiple brokerages fined in May as regulators target branch compliance weaknesses】Since May, Chinese regulators have issued a wave of administrative penalties against securities firms for weak branch management and lapses in investment-banking duties. Choice data showed that as of May 31 China International Capital Co, SDIC Securities, Zheshang Securities and others were sanctioned for brokerage violations, underwriting negligence, inadequate overseas-subsidiary controls and employees’ unauthorized moonlighting. Market observers say enforcement is moving from business-level compliance toward deeper company governance, with branch control and employee conduct management emerging as key compliance shortfalls."
-    },
-    {
-      "id": "mkt:019e8557-4a8c-7993-96fa-c179f82769fe",
-      "time": "2026-06-02 06:39:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Workers at Inpex Corp's Ichthys LNG export project in Australia will begin strike action after negotiations between union members and the company stalled."
-    },
-    {
-      "id": "4911399",
-      "time": "2026-06-02 06:37:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【白酒消費稅納稅申報新規施行】6月1日起，《國家稅務總局關於調整消費稅納稅申報表有關事項的公告》施行，白酒生產企業須新增填寫《白酒消費稅計算明細表》和《白酒生產企業關聯銷售單位資訊報告表》。專家表示，新規推動資訊申報更加規範透明，有效規制關聯銷售定價，提升白酒消費稅徵管效能。今年以來，啤酒、白酒消費稅徵管規則持續完善，有利於全面歸集產銷價格與交易資料。 (中證報)"
-    },
-    {
-      "id": "4911398",
-      "time": "2026-06-02 06:37:00",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【儲蓄國債即將納入個人養老金產品池】6月1日，記者發現工商銀行等部分機構的手機端APP，已在個人養老金專區上線“國債”入口。根據財政部、中國人民銀行此前聯合釋出的《關於儲蓄國債（電子式）納入個人養老金產品範圍有關事宜的通知》，開辦機構應當自2026年6月起，開辦個人養老金儲蓄國債（電子式）業務。專家認為，此舉將為投資者提供長期穩健的投資選擇，有望啟用繳存熱情，後續個人養老金產品體系仍有擴容空間。（中證報）"
     }
   ]
 }
