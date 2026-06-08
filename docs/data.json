@@ -1,7 +1,153 @@
 {
-  "updated": "2026-06-08 21:24:08",
+  "updated": "2026-06-08 21:27:59",
   "count": 19214,
   "items": [
+    {
+      "id": "4924265",
+      "time": "2026-06-08 21:27:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計石油產量將在數週內回升至大致正常水平。"
+    },
+    {
+      "id": "4924264",
+      "time": "2026-06-08 21:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克宣佈重新開放領空】伊拉克民航局8日下午發表宣告，宣佈正式重新開放伊拉克領空，恢復所有機場的進出港航班。 宣告說，伊民航局將繼續與相關部門協調，密切監測和評估局勢，以確保伊拉克領空安全。 伊民航局7日晚發表宣告說，為防範安全風險，伊拉克領空將暫時關閉72小時，其間禁止所有進出港及過境航班執行。 當地時間7日晚，伊朗對以色列北部發動“警告性”導彈打擊，以回應以方擴大在黎巴嫩的軍事行動。據伊朗伊斯蘭共和國通訊社8日報道，伊朗武裝部隊哈塔姆安比亞中央總部當天發表宣告說，在回應以色列近期針對黎南部及貝魯特南郊的軍事行動後，伊朗武裝力量目前已結束本輪軍事行動。(新華社)"
+    },
+    {
+      "id": "mkt:019ea76a-0953-7226-8cb5-729c4a1e3066",
+      "time": "2026-06-08 21:26:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH expects oil production to recover to roughly normal levels within weeks."
+    },
+    {
+      "id": "mkt:019ea76a-0313-7226-8cb5-6c44d18214e1",
+      "time": "2026-06-08 21:26:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal and coke futures extended losses; the most-active coking coal contract plunged about 4% intraday to 1,398.50 yuan/ton, while the most-active coke contract fell over 2% to 2,001.50 yuan/ton."
+    },
+    {
+      "id": "4924263",
+      "time": "2026-06-08 21:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為中朝傳統友誼注入新的時代內涵和強勁動力，習近平提出“四個堅持”】當地時間6月8日下午，中共中央總書記、國家主席習近平在平壤錦繡山迎賓館同朝鮮勞動黨總書記、國務委員長金正恩舉行會談。習近平指出，願同金正恩總書記同志一道，以這次訪問為契機，加強對新時期中朝關係的頂層設計和戰略指引，推動中朝關係與時俱進、得到更大發展，更好造福兩國和兩國人民，為地區乃至世界和平穩定和發展繁榮作出積極貢獻。（央視新聞）"
+    },
+    {
+      "id": "4924262",
+      "time": "2026-06-08 21:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "大商所焦煤期貨07合約跌近7.5%，逼近跌停。"
+    },
+    {
+      "id": "mkt:019ea769-4a99-7226-8cb5-67ce4e64b571",
+      "time": "2026-06-08 21:25:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fitch expects the global oil and gas market to again move into a supply surplus in Q4 2026, which will push prices lower."
+    },
+    {
+      "id": "4924261",
+      "time": "2026-06-08 21:25:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌4%，現報1398.50元。"
+    },
+    {
+      "id": "4924260",
+      "time": "2026-06-08 21:25:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計2026年第四季度市場將重回供應過剩狀態，屆時油價將回落。"
+    },
+    {
+      "id": "mkt:019ea767-d46b-7226-8cb5-597013fd9ede",
+      "time": "2026-06-08 21:24:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "FITCH expects Brent crude to hold at $100-110/bbl while the Strait of Hormuz is closed, then drop to about $70/bbl in September."
+    },
+    {
+      "id": "4924259",
+      "time": "2026-06-08 21:24:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽國際：我們仍認為，海峽重新開放後石油產量將快速復甦，因為石油基礎設施未遭受重大損失。"
+    },
+    {
+      "id": "4924258",
+      "time": "2026-06-08 21:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本開始在最東端離島南鳥島部署導彈發射裝置】據日本廣播協會報道，日本防衛省8日開始向東京都小笠原諸島的南鳥島運輸導彈發射裝置等裝備，為當地導彈射擊場建設及未來的實彈訓練做準備。報道稱，8日上午，日本防衛省透過輪渡將陸上自衛隊“12式岸艦導彈”發射裝置以及用於目標偵察和定位的中型無人偵察機等裝備，從千葉縣港口運往南鳥島。(新華社)"
+    },
+    {
+      "id": "4924257",
+      "time": "2026-06-08 21:24:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：霍爾木茲海峽關閉期間，預計6-7月布倫特原油價格將維持在每桶100-110美元，到9月將回落至每桶70美元左右。"
+    },
+    {
+      "id": "te:economy:557312",
+      "time": "2026-06-08 21:23:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rebound as Bond Yields Stabilize — Futures tracking Canada's S&P/TSX Composite Index moved higher on Monday, recovering part of Friday’s decline, when the benchmark posted its largest drop since February 12th. Stable bond yields supported financial stocks and the broader market as signals that strikes between Iran and Israel over the weekend will not result in further escalation of the conflict. Meanwhile, gold prices were little changed, easing pressure on mining shares. The Bank of Canada is expected to hold rates unchanged this week and update their balance of pro-inflationary risks against growth concerns."
+    },
+    {
+      "id": "mkt:019ea767-326f-7226-8cb5-53061fdb5ad2",
+      "time": "2026-06-08 21:23:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "FITCH upgraded the global oil and gas sector outlook to Improving, citing rising energy prices."
+    },
     {
       "id": "te:economy:557311",
       "time": "2026-06-08 21:23:17",
@@ -177048,146 +177194,6 @@
         "DXY"
       ],
       "text": "【US military confirms Iran-launched missiles intercepted targeting US base in Kuwait; no casualties】US Central Command said on June 1 that at about 23:00 ET on May 31 (11:00 Beijing time on June 1) US forces successfully intercepted two Iran-launched ballistic missiles aimed at US bases in Kuwait. No US personnel were injured."
-    },
-    {
-      "id": "te:markets:555387",
-      "time": "2026-06-01 21:27:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Coffee Hits 18-month Low — Coffee decreased to 262.75 USd/Lbs, the lowest since November 2024. Over the past 4 weeks, Coffee lost 7.82%, and in the last 12 months, it decreased 23.31%."
-    },
-    {
-      "id": "4910934",
-      "time": "2026-06-01 21:27:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍證實駐科威特基地遭伊朗襲擊稱無人員傷亡】美軍中央司令部6月1日在社交媒體發文稱，美國東部時間5月31日23時（北京時間6月1日11時）許，美軍成功攔截兩枚伊朗發射的、目標是駐科威特美軍基地的彈道導彈。此事未造成美軍人員傷亡。 科威特全國6月1日響起警報，科威特軍方隨後稱攔截“敵方”導彈和無人機襲擊。科威特外交部同日在社交媒體上發表宣告，譴責“伊朗針對科威特領土實施的”多次襲擊。 5月28日，科威特稱遭伊朗導彈和無人機襲擊。伊朗當時回應稱，作為對美軍襲擊阿巴斯港的回應，伊朗對發動襲擊的美軍基地進行了打擊。美國媒體5月31日報道稱，伊朗的襲擊造成4名美軍士兵和3名承包商人員輕傷。(新華社)"
-    },
-    {
-      "id": "4910933",
-      "time": "2026-06-01 21:27:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱將確保日本船隻更加順暢地透過霍爾木茲海峽】根據在X平臺釋出的訊息，伊朗總統佩澤希齊揚表示，伊朗將確保日本船隻能夠“更加順暢且不受干擾地”透過霍爾木茲海峽。上述表態是在與日本首相通話期間作出的。佩澤希齊揚稱，伊朗已做好充分準備，為海上航運和船舶通行提供便利。他表示，當前面臨的主要問題源於美國對伊朗航運和貿易施加的限制與障礙。"
-    },
-    {
-      "id": "mkt:019e835e-0c19-7112-8c92-25af73b29a2d",
-      "time": "2026-06-01 21:27:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures jumped 6.00% intraday to $92.61/bbl."
-    },
-    {
-      "id": "mkt:019e835d-d40d-7112-8c92-1fb1734f3a51",
-      "time": "2026-06-01 21:27:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "DXY"
-      ],
-      "text": "Market pricing shows expectations of a 25bp ECB rate hike in June are fully priced in, the first time this has been the case since May 4."
-    },
-    {
-      "id": "4910932",
-      "time": "2026-06-01 21:27:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破96美元/桶，日內漲5.36%。"
-    },
-    {
-      "id": "4910931",
-      "time": "2026-06-01 21:26:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數一度上漲0.3%；紐西蘭元和瑞士法郎領跌G-10貨幣。"
-    },
-    {
-      "id": "4910930",
-      "time": "2026-06-01 21:26:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光：控股子公司簽署100億元至120億元算力服務採購合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與B公司簽署《算力服務採購合同》，合同預計總金額區間為人民幣100億元至120億元。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606013756307049",
-      "time": "2026-06-01 21:26:23",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【交易員已充分消化歐洲央行6月加息25個基點的預期】交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。"
-    },
-    {
-      "id": "mkt:019e835d-21b9-7112-8c92-113fade15f94",
-      "time": "2026-06-01 21:26:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC Shanghai crude main contract rose 4.00% intraday to 608.20 yuan/barrel."
-    },
-    {
-      "id": "4910929",
-      "time": "2026-06-01 21:26:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報608.20元。"
-    },
-    {
-      "id": "4910928",
-      "time": "2026-06-01 21:25:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業遊說團體UCAB表示，烏克蘭5月農產品出口較4月下降8.6%，至520萬噸。"
-    },
-    {
-      "id": "4910927",
-      "time": "2026-06-01 21:25:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。"
-    },
-    {
-      "id": "4910926",
-      "time": "2026-06-01 21:25:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲6%，現報92.62美元/桶。"
-    },
-    {
-      "id": "4910925",
-      "time": "2026-06-01 21:24:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報95.69美元/桶。"
     }
   ]
 }
