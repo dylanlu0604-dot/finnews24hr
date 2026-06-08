@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-09 04:44:15",
+  "updated": "2026-06-09 04:47:59",
   "count": 19221,
   "items": [
+    {
+      "id": "4924683",
+      "time": "2026-06-09 04:46:48",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【6月9日美股成交額前20：英特爾獲谷歌300萬顆TPU大單】第6名英特爾收高11.19%，成交148.7億美元。週一該股股價創一個月來最大漲幅，此前有報道稱，Alphabet旗下谷歌將2028年逾300萬顆專用AI晶片訂單交給英特爾。據兩名未具名知情人士透露，在經過數月技術測試後，谷歌決定選擇英特爾生產部分張量處理器（TPU）。訊息人士稱，隨著臺積電難以滿足市場強勁需求，英特爾正從谷歌等公司獲得訂單。"
+    },
+    {
+      "id": "te:markets:557368",
+      "time": "2026-06-09 04:46:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Energy and Tech Stocks Lead Gains — The S&P/TSX Composite Index gained 0.2% to close at 34,479 on Monday, recovering modestly after posting its biggest decline in nearly four months on Friday, with energy and technology shares leading gains. Energy stocks advanced as oil prices moved higher amid persistent geopolitical risks near the Strait of Hormuz. Iran and Israel said they had halted attacks on each other following an appeal from US President Donald Trump, although Iran warned it would resume strikes if Israel continued targeting Hezbollah in Lebanon. Canadian Natural rose 1.4%, Suncor gained 1.5%, and Cenovus added 1.7%. Technology shares also outperformed, tracking gains on Wall Street after reports that Alphabet had placed a major chip order with Intel. Shopify advanced 1.2%, while Celestica climbed 3.8%. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with rates expected to remain unchanged at 2.25%."
+    },
+    {
+      "id": "mkt:019ea8fb-87fd-733a-9235-ccb6b0778144",
+      "time": "2026-06-09 04:45:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "EEM",
+        "Impact bearish",
+        "VWO"
+      ],
+      "text": "MSCI Emerging Markets Index closed down 3.6%, its steepest one-day decline since March."
+    },
+    {
+      "id": "4924682",
+      "time": "2026-06-09 04:44:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MSCI稱將對SpaceX IPO採用標準方法】MSCI稱，打算對SpaceX的首次公開募股（IPO）採用針對大型IPO的標準方法。MSCI表示，SpaceX必須符合指數成份股資格規則，才會被考慮提前納入指數，有關提前納入的決定將於第十個交易日收盤時生效。"
+    },
     {
       "id": "4924681",
       "time": "2026-06-09 04:39:32",
@@ -177192,44 +177235,6 @@
         "DAX"
       ],
       "text": "EU prepares to grant member states greater budgetary flexibility to ease energy cost pressures."
-    },
-    {
-      "id": "4911319",
-      "time": "2026-06-02 04:47:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫保與醫療補助服務中心（CMS）署長奧茲：醫保中心正與執法機構磋商，對醫療補助就業規則的自主申報開展監管核查。"
-    },
-    {
-      "id": "mkt:019e84f1-1061-7993-96fa-0fab3a5dfa48",
-      "time": "2026-06-02 04:47:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Google (GOOG.O) fell 1.7% in U.S. after-hours trading."
-    },
-    {
-      "id": "4911318",
-      "time": "2026-06-02 04:47:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫保與醫療補助服務中心（CMS）署長奧茲：醫療補助參保就業規定旨在引導參保人轉入僱主贊助醫保計劃。"
-    },
-    {
-      "id": "4911317",
-      "time": "2026-06-02 04:47:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫保與醫療補助服務中心釋出醫療補助就業規則落地暫行終版條例。"
     }
   ]
 }
