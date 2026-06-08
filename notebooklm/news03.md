@@ -1,7 +1,487 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-09 05:38:57_
-_本檔包含 3721 則快訊，約 695366 字_
+_更新時間：2026-06-09 06:44:28_
+_本檔包含 3754 則快訊，約 694651 字_
+
+---
+
+### 2026-06-05 12:55:20  #公司
+
+傑富瑞將露露檸檬（Lululemon）目標價從145美元下調至115美元。
+
+---
+
+### 2026-06-05 12:55:08  #MKT News #DXY #Impact bearish
+
+Reserve Bank of India governor said India's foreign-exchange reserves are "very healthy" and that exchange-rate policy remains unchanged.
+
+---
+
+### 2026-06-05 12:54:55  #國際
+
+印度儲備銀行行長：匯率政策維持不變。
+
+---
+
+### 2026-06-05 12:54:55  #MKT News
+
+Reserve Bank of India governor said caps on equity investments by non-resident Indians and Overseas Citizens of India not required to register with SEBI will be raised.
+
+---
+
+### 2026-06-05 12:54:44  #國際
+
+印度儲備銀行行長：將推出針對海外印度人外匯存款的新方案。出口收匯匯回期限將恢復為9個月。
+
+---
+
+### 2026-06-05 12:54:02  #國際
+
+印度儲備銀行行長：將為境外借款提供優惠掉期視窗。
+
+---
+
+### 2026-06-05 12:53:47  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Reserve Bank of India governor says the central bank will offer a four-month concessional FX swap facility.
+
+---
+
+### 2026-06-05 12:53:36  #國際
+
+印度儲備銀行行長：非印度居民、海外印度公民投資無需印度證券交易委員會註冊的股權投資限額將上調。
+
+---
+
+### 2026-06-05 12:53:19  #MKT News #Market Regions #Emerging Markets
+
+RBI governor said restrictions on short-term investments will be removed and concentration limits on foreign investment under the automatic route will be eased.
+
+---
+
+### 2026-06-05 12:53:13  #MKT News
+
+Reserve Bank of India governor said the central bank will broaden the scope of forward FX securities and will issue a 40-year Indian government bond.
+
+---
+
+### 2026-06-05 12:53:03  #國際
+
+印度儲備銀行行長：正取消通用渠道下外國組合投資的短期投資限額與集中度限制。
+
+---
+
+### 2026-06-05 12:52:45  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) CEO Jensen Huang said he has some surprises.
+
+---
+
+### 2026-06-05 12:52:22  #國際
+
+印度儲備銀行行長：將就外資流入公佈若干措施。
+
+---
+
+### 2026-06-05 12:52:12  #市場 #央行 #國際
+
+【日本5月外匯儲備大降】日本財務省5日公佈的資料顯示，截至今年5月末，日本外匯儲備約為1.31萬億美元，較4月末下降5.6%，為有可比資料以來最大月度降幅。截至5月末，日本外匯儲備較4月末減少了約771億美元，減少金額同樣創下有記錄以來的最高水平。資料顯示，包括美國國債在內的證券持有量下降是日本外匯儲備減少的主要原因。截至5月末，日本外匯儲備中的證券資產約為9316.8億美元，較4月末減少7.5%。分析人士認為，日本外匯儲備大幅下降既反映了日本政府幹預外匯市場對外匯儲備的消耗，也受到美國長期利率上升導致債券資產估值下滑的影響。日本財務省此前公佈的資料顯示，4月28日至5月27日期間，日本政府與日本央行實施的外匯干預規模累計達11.73萬億日元（約合738億美元）。（新華社）
+
+---
+
+### 2026-06-05 12:51:23  #宏觀 #國際
+
+印度儲備銀行行長：近幾個月出臺的多項政策舉措預計將強化國際收支狀況。
+
+---
+
+### 2026-06-05 12:51:12  #央行 #國際
+
+【印度央行維持關鍵利率不變 顯示不肯借升息提振盧比】印度央行維持利率不變，符合大多數經濟學家的預期，政策制定者希望在保持盧比匯率穩定的同時，為經濟提供緩衝。由六名成員組成的貨幣政策委員會一致同意將基準回購利率維持在5.25%不變，這與媒體調查35位經濟學家中的29位預測一致。政策立場仍維持中性。儘管中東衝突持續蔓延，能源價格衝擊引發通脹風險上升，印度央行的這一決定凸顯了支撐經濟增長的一決心。由於通脹率已接近印度央行4%的目標，經濟學家預計央行未來幾個月可能會加息。“印度經濟在進入此次全球動盪時期時，其基本面遠比以往類似時期要好得多。”行長Sanjay Malhotra在電視講話中說，“我們仍然有信心以最小的痛苦承受這些衝擊。”週五的決定顯示，印度央行可能不願提高利率來提振盧比。盧比上個月跌至接近97的創紀錄低位。政府反而考慮其他措施，例如降低外國投資政府債券的稅收，以幫助促進資金流入和提振貨幣。
+
+---
+
+### 2026-06-05 12:50:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said three memory manufacturers have qualified to supply HBM4.
+
+---
+
+### 2026-06-05 12:50:36  #國際
+
+印度儲備銀行行長：截至5月29日，印度外匯儲備規模為6823億美元。
+
+---
+
+### 2026-06-05 12:50:32  #MKT News
+
+Reserve Bank of India governor said the RBI expects core CPI inflation this year to be 4.7%.
+
+---
+
+### 2026-06-05 12:50:17  #MKT News
+
+Reserve Bank of India governor said strong foreign direct investment (FDI) inflows and higher net FDI underscore investor interest in India.
+
+---
+
+### 2026-06-05 12:50:08  #MKT News #Macro & Rates
+
+RESERVE BANK OF INDIA governor raises this year’s CPI inflation projection to 5.1%.
+
+---
+
+### 2026-06-05 12:49:44  #國際
+
+印度儲備銀行行長：能源價格飆升、貿易政策不確定性給印度2027財年經常賬戶赤字帶來上行風險。
+
+---
+
+### 2026-06-05 12:49:38  #MKT News #Market Regions #Emerging Markets
+
+Reserve Bank of India governor expects real GDP growth of 6.8% in Q4 of fiscal 2027.
+
+---
+
+### 2026-06-05 12:49:16  #公司
+
+英偉達執行長黃仁勳：三家記憶體製造商都已獲得供應HBM4的資格。
+
+---
+
+### 2026-06-05 12:48:38  #國際
+
+印度儲備銀行行長：銀行業體系層面指標執行穩健。
+
+---
+
+### 2026-06-05 12:48:35  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said robotics will become South Korea's next major industry.
+
+---
+
+### 2026-06-05 12:47:41  #公司 #國際
+
+英偉達執行長：機器人產業將是韓國下一個核心領域。
+
+---
+
+### 2026-06-05 12:46:51  #國際
+
+印度儲備銀行行長：預計政府現金餘額提取、季風季貨幣回籠將在短期內改善流動性狀況。
+
+---
+
+### 2026-06-05 12:46:43  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA (NVDA.O) CEO Jensen Huang said robotics technology can be applied to South Korea's industrial sector.
+
+---
+
+### 2026-06-05 12:46:35  #公司 #國際
+
+英偉達執行長：可將機器人技術應用於韓國工業。
+
+---
+
+### 2026-06-05 12:46:29  #宏觀 #國際
+
+印度儲備銀行行長：印度儲備銀行已主動出臺長期性及臨時性流動性措施。
+
+---
+
+### 2026-06-05 12:46:12  #國際
+
+印度儲備銀行將2027財年印度通脹預期上調至5.1%，同時將GDP預期下調至6.6%。
+
+---
+
+### 2026-06-05 12:46:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said chip manufacturing will become more automated.
+
+---
+
+### 2026-06-05 12:45:55  #公司
+
+英偉達執行長：晶片製造業自動化程度將進一步提升。
+
+---
+
+### 2026-06-05 12:45:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA (NVDA.O) CEO Jensen Huang said the company will begin hiring staff for an R&D center in South Korea.
+
+---
+
+### 2026-06-05 12:45:36  #公司 #國際
+
+英偉達執行長：將在韓國研發中心啟動招聘工作。
+
+---
+
+### 2026-06-05 12:45:05  #公司
+
+【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
+
+---
+
+### 2026-06-05 12:44:52  #央行 #國際
+
+印度央行行長：2027財年消費者物價指數通脹預期為5.1%（此前預期為4.6%）。
+
+---
+
+### 2026-06-05 12:44:51  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said the company will use memory supply as intelligently as possible.
+
+---
+
+### 2026-06-05 12:44:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Reserve Bank of India governor says average oil prices will be significantly higher than assumed in the previous policy.
+
+---
+
+### 2026-06-05 12:44:21  #資料 #市場 #央行 #國際
+
+【卓創資訊：5月白銀衝高回落，後市關注美聯儲利率決議與美伊談判】5月以來白銀衝高回落，重心窄幅下探。截至6月4日，國內現貨1#白銀報價17711元/千克，相較5月初累計下跌4.41%。5月初美伊釋放和談訊號，疊加主要資源國秘魯開啟能源緊急法令使市場擔憂礦端產出，白銀價格震盪上漲，但隨著主要消費國印度提升白銀進口關稅、美聯儲鴿派票委米蘭辭職以及美伊在關鍵問題上僵持，市場交易加息預期，白銀承壓為主。後市來看，宏觀邏輯仍在於美聯儲利率決議和美伊談判，國內庫存目前水位較高，消費略偏疲軟未能提供基本面支撐，短期關注美國5月非農就業報告和CPI資料，預計白銀價格短期難有明顯方向性。（卓創資訊）
+
+---
+
+### 2026-06-05 12:44:11  #公司
+
+英偉達執行長：我們將儘可能高效靈活地調配記憶體供應。
+
+---
+
+### 2026-06-05 12:43:54  #MKT News #Commodities #Energy
+
+Reserve Bank of India governor said India's crude oil price averaged $110 a barrel over the past two months.
+
+---
+
+### 2026-06-05 12:43:53  #國際
+
+印度儲備銀行行長：平均油價將大幅高於上一次貨幣政策制定時的預期水平。
+
+---
+
+### 2026-06-05 12:43:47  #MKT News #Commodities #Precious Metals
+
+The Reserve Bank of India governor said CPI inflation in March and April was below target. Core inflation remained stable; core inflation excluding precious metals declined sharply over the period.
+
+---
+
+### 2026-06-05 12:43:40  #國際
+
+印度儲備銀行行長：過去兩個月，印度原油籃子的平均油價為每桶110美元。
+
+---
+
+### 2026-06-05 12:43:25  #國際
+
+英偉達黃仁勳：我為韓國帶來了大量業務。將與韓國合作伙伴討論如何協調供應鏈。
+
+---
+
+### 2026-06-05 12:42:54  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) CEO Jensen Huang said he plans to meet with Hyundai, Samsung and SK Group.
+
+---
+
+### 2026-06-05 12:42:47  #國際
+
+印度儲備銀行行長：3月和4月整體消費者物價指數通脹低於目標水平。
+
+---
+
+### 2026-06-05 12:42:36  #公司
+
+英偉達執行長：計劃與現代、三星、SK集團會面。
+
+---
+
+### 2026-06-05 12:42:20  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA CEO Jensen Huang said he has brought a lot of business to South Korea.
+
+---
+
+### 2026-06-05 12:42:17  #國際
+
+印度儲備銀行行長：預計27財年第二季度實際國內生產總值增速為6.3%（此前預測為6.7%）。
+
+---
+
+### 2026-06-05 12:42:14  #MKT News
+
+【Hebei launches Level-3 emergency response for major meteorological disaster (heavy rain)】Hebei province activated a Level-3 emergency response for a major meteorological disaster (heavy rain) at 10:00 today, the provincial emergency management department said. Authorities ordered departments to closely monitor heavy rain from this evening through the 6th, step up risk assessment and safety-hazard inspections, and timely activate higher-level heavy-rain emergency responses as needed.
+
+---
+
+### 2026-06-05 12:42:11  #MKT News
+
+Reserve Bank of India governor says rate decisions will remain data-dependent.
+
+---
+
+### 2026-06-05 12:42:08  #國際
+
+印度儲備銀行行長：預計27財年第一季度實際國內生產總值增長率為6.6%，此前預期為6.8%。
+
+---
+
+### 2026-06-05 12:41:58  #國際
+
+印度儲備銀行行長：2027財年實際GDP增速預期為6.6%，此前預期為6.9%。
+
+---
+
+### 2026-06-05 12:41:33  #國際
+
+印度儲備銀行行長：全球需求疲弱、物流成本高企是商品出口面臨的逆風。 預計服務出口將保持增長動能。
+
+---
+
+### 2026-06-05 12:41:15  #公司
+
+英偉達執行長黃仁勳：人工智慧的建設投入正在加速。
+
+---
+
+### 2026-06-05 12:41:09  #市場 #國際
+
+印度儲備銀行行長：成本上漲、不確定性或削弱投資者情緒。
+
+---
+
+### 2026-06-05 12:41:07  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
+
+NVIDIA (NVDA.O) CEO Jensen Huang said AI build-out is accelerating.
+
+---
+
+### 2026-06-05 12:41:00  #國際
+
+印度豁免國際清算銀行政府證券利息、出售、兌換或轉讓的資本利得稅。
+
+---
+
+### 2026-06-05 12:40:40  #公司 #觀點
+
+摩根大通將特斯拉評級從“減持”上調至“中性”，目標價為 475 美元。
+
+---
+
+### 2026-06-05 12:40:28  #國際
+
+印度儲備銀行行長：通脹上升可能會拖累家庭購買力。
+
+---
+
+### 2026-06-05 12:40:22  #市場 #國際
+
+印度儲備銀行維持回購利率與政策立場不變後，印度隔夜指數互換利率走低；一年期互換下跌4個基點，至6.08%。
+
+---
+
+### 2026-06-05 12:39:59  #國際
+
+印度儲備銀行行長：季風降水預計不足，將對農村需求產生影響。
+
+---
+
+### 2026-06-05 12:39:57  #MKT News #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY
+
+Reserve Bank of India governor said rising energy prices and supply disruptions will weigh on economic activity; the duration of the geopolitical conflict will determine the full impact.
+
+---
+
+### 2026-06-05 12:39:51  #市場 #國際
+
+印度儲備銀行行長：能源價格上漲對零售產品的傳導效應正逐步顯現。
+
+---
+
+### 2026-06-05 12:39:38  #國際
+
+印度儲備銀行行長：（地緣衝突帶來影響的）全部影響將取決於衝突持續時長。
+
+---
+
+### 2026-06-05 12:39:16  #市場 #國際
+
+印度儲備銀行行長：能源價格上漲、供應鏈中斷將對經濟活動造成拖累。
+
+---
+
+### 2026-06-05 12:39:09  #其他
+
+【上海開展“清朗·整治AI應用亂象”專項行動】為規範AI服務和應用，促進行業健康有序發展，保障公民合法權益，根據中央網信辦統一部署，上海網信辦結合屬地實際，積極組織開展為期4個月的“清朗·整治AI應用亂象”專項行動。本次專項行動分兩個階段開展。第一階段為“清朗·AI應用服務典型違規問題”專項治理行動，重點整治未按規定履行大模型備案登記義務、安全稽核能力不足、大模型訓練語料安全、AI資料投毒、生成合成內容標識落實不到位等問題，強化AI技術源頭治理。第二階段為“清朗·整治AI資訊內容亂象”專項行動，聚焦利用AI技術生成“數字泔水”、製作釋出虛假資訊、散播暴力低俗等不良資訊、假冒仿冒他人、侵害未成年人權益、從事網路水軍活動等問題，堅決清理違法不良資訊，依法處置處罰違規賬號、MCN機構和網站平臺。
+
+---
+
+### 2026-06-05 12:38:59  #公司
+
+【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
+
+---
+
+### 2026-06-05 12:38:46  #國際
+
+印度儲備銀行行長：服務出口表現強勁。
+
+---
+
+### 2026-06-05 12:38:41  #國際
+
+印度豁免外國機構投資者政府債券利息的資本利得稅。
+
+---
+
+### 2026-06-05 12:38:32  #國際
+
+印度儲備銀行行長：企業預期仍偏正面。
+
+---
+
+### 2026-06-05 12:38:26  #市場 #國際
+
+印度Nifty金融服務指數上漲1%，此前印度儲備銀行維持關鍵利率不變。
+
+---
+
+### 2026-06-05 12:37:42  #Trading Economics #Economy #India #Interest Rate #Importance 3
+
+India Holds Rates, Revises Down FY26/27 GDP Forecasts — The Reserve Bank of India (RBI) kept its key repo rate unchanged at 5.25% for the third consecutive meeting in June and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the conflict in the Middle East threatened GDP growth and fueled inflationary pressures. On the economic outlook, the RBI lowered its GDP growth forecast for FY2026/27 to 6.6%, down from its earlier estimate of 6.9%. For the first quarter of the fiscal year, GDP is projected to grow by 6.6%, while growth is forecast at 6.3% in the second quarter and 6.5% and 6.8% in Q3 and Q4, respectively. Meanwhile, inflation is projected to average 5.1%, up from the earlier estimate of 4.6%, mainly driven by higher LPG, base metal, plastic, and rubber prices. Inflation is forecast at 4.2% in Q1, 5.1% in Q2, 5.9% in Q3, and 5.9% in Q4.
+
+---
+
+### 2026-06-05 12:37:19  #國際
+
+印度儲備銀行行長：（貨幣政策）將繼續基於資料做出判斷。
+
+---
+
+### 2026-06-05 12:37:15  #國際
+
+印度修訂所得稅法，自2026年4月1日起生效。
+
+---
+
+### 2026-06-05 12:36:54  #國際
+
+印度儲備銀行行長：等待更為明確的形勢出現再行動是審慎之舉。
+
+---
+
+### 2026-06-05 12:36:52  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Holds Gains on BOJ Hike Bets — Japan’s 10-year government bond yield hovered around 2.66% on Friday, maintaining its recent advance as investors continued to bet that the Bank of Japan will raise interest rates later this month. On Wednesday, Bank of Japan Governor Kazuo Ueda said the central bank should carefully assess the costs and benefits of higher rates if inflation risks begin to outweigh downside risks to economic growth. Policymakers are also contending with mounting inflationary pressures stemming from higher energy prices linked to the Middle East conflict. Markets are currently pricing in roughly an 80% probability of a rate hike at the BOJ’s June 16 policy meeting. Supporting the hawkish outlook, data released on Friday showed Japan’s real wages rose 1.9% in April, marking a fourth straight month of growth and reinforcing expectations for further policy tightening.
 
 ---
 
@@ -22127,287 +22607,5 @@ Australia | Exports (MoM) (Apr) | actual 7.2% | previous -2.70%
 ### 2026-06-04 09:28:14  #MKT News #CSI300 #Impact mixed
 
 A-shares: China State Shipbuilding Corporation-linked stocks rose selectively; CSSC Special Gas surged more than 9%, Jiuzhiyang gained over 5%, China Power climbed about 3%.
-
----
-
-### 2026-06-04 09:27:57  #MKT News #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-At the open on Thursday June 4, China's Shanghai Composite Index fell 30.3 points (-0.74%) to 4,053.67; Shenzhen Composite fell 164.65 points (-1.05%) to 15,540.06; CSI 300 fell 41.49 points (-0.84%) to 4,897.32; ChiNext fell 50.44 points (-1.22%) to 4,072.55; STAR 50 fell 25.87 points (-1.50%) to 1,700.31.
-
----
-
-### 2026-06-04 09:27:07  #MKT News
-
-【UN warns Lebanon-Israel escalation deepens humanitarian crisis】UN spokesman Stephane Dujarric said on the 3rd that intensifying Lebanon–Israel border fighting is driving a surge in internal displacement. About 200,000 people in Beirut’s southern suburbs have fled after evacuation orders by Israeli forces. Refugee camps are overcrowded and in dire conditions. Fighting has severely damaged local medical services and put healthcare workers’ safety at risk.
-
----
-
-### 2026-06-04 09:26:59  #MKT News #Market Regions #Greater China
-
-【China's ambassador to US Xie meets ConocoPhillips CEO Lance】June 3, 2026 — China's ambassador to the United States Xie Feng met with ConocoPhillips chairman and CEO Ryan Lance to discuss China‑US economic and trade cooperation and ConocoPhillips' business development in China.
-
----
-
-### 2026-06-04 09:26:47  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #09973.HK #Impact bearish #09863.HK #02015.HK
-
-Hong Kong-listed auto stocks opened lower; Nio-SW (09866.HK) fell nearly 4%, with Chery Automobile (09973.HK), Leapmotor (09863.HK) and Li Auto (02015.HK) among the biggest decliners.
-
----
-
-### 2026-06-04 09:26:25  #其他
-
-【聯合國警告黎以衝突激化致黎人道危機加劇】當地時間3日，聯合國秘書長發言人迪雅裡克在例行記者會上發出嚴厲警告，由於黎以邊境衝突激化，黎巴嫩國內流離失所的人數正在激增。僅在貝魯特南郊，就有大約20萬人因以軍發出的疏散令被迫逃離家園。難民營地人滿為患，處境極其艱難。戰火對當地醫療系統造成嚴重破壞，醫護人員生命安全無法保障。與此同時，聯合國駐黎巴嫩臨時部隊監測顯示‌，以軍近期在黎巴嫩的軍事行動加強、空襲力度加大，局勢正面臨全面失控的風險。對此，聯合國再次發出嚴正警告，要求立即停止敵對行動，全面履行聯合國安理會決議所規定的義務。
-
----
-
-### 2026-06-04 09:25:39  #焦點 #A股
-
-三大股指低開，滬指跌0.74％，深成指跌1.05％，創業板跌1.22％。
-
----
-
-### 2026-06-04 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-China A-shares opened lower: Shanghai Composite down 0.74%, Shenzhen Composite Index down 1.05%, ChiNext down 1.22%. F5G, CPO and AI PC concept stocks led declines.
-
----
-
-### 2026-06-04 09:25:17  #其他
-
-【AI音樂平臺Suno融資超4億美元，投後估值54億美元】人工智慧音樂平臺Suno當地時間6月3日宣佈完成超4億美元D輪融資，投後估值54億美元。本輪融資由Bond Capital領投，IVP、Forerunner、Union Square Ventures、Alkeon和Quiet跟投，現有投資者Matrix、Lightspeed、Menlo Ventures和Schroders Capital參投。
-
----
-
-### 2026-06-04 09:25:07  #市場
-
-富時中國A50指數期貨跌幅擴大至1%。
-
----
-
-### 2026-06-04 09:25:07  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
-
-FTSE China A50 index futures extended losses to 1%.
-
----
-
-### 2026-06-04 09:25:02  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said the shift from generative AI to autonomous AI is driving higher token consumption in large language models, boosting demand for compute capacity and advanced semiconductors.
-
----
-
-### 2026-06-04 09:23:59  #MKT News #00992.HK #Impact bearish #09626.HK #09888.HK
-
-Hong Kong-listed tech names opened lower: Lenovo Group (00992.HK) down over 5%, Bilibili (09626.HK) down over 2%, Baidu (09888.HK), Hua Hong Semiconductor (01347.HK) and SMIC (00981.HK) each down more than 1%.
-
----
-
-### 2026-06-04 09:23:58  #市場 #焦點
-
-焦煤連續主力合約日內漲4%，現報1427.00元。
-
----
-
-### 2026-06-04 09:23:50  #MKT News
-
-【Where to Park Spare Cash? Money‑Market Yield Snapshot】Tencent's Licaitong (on-demand plus 7-day annualized yield) ranged 0.7550%–1.1940%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 1.0010%–1.0320%. Alipay's Yu'e Bao 7-day annualized yield ranged 1.0000%–1.0250%.
-
----
-
-### 2026-06-04 09:23:35  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N): In its mature-process strategy the company is prioritizing deployment of capacity for specialty process technologies designed to deliver superior yields.
-
----
-
-### 2026-06-04 09:23:13  #公司
-
-臺積電執行長表示：從生成式人工智慧向智慧體人工智慧的轉型，正推動大型語言模型的令牌消耗攀升，進而提升了對算力與先進半導體的需求。
-
----
-
-### 2026-06-04 09:23:02  #市場 #焦點
-
-紐約期金突破4500美元/盎司，日內漲0.74%。
-
----
-
-### 2026-06-04 09:22:46  #其他
-
-【教育部和各省（區、市）開通2026年高考舉報電話】近日，教育部統一公佈了教育部以及各省（區、市）2026年的高考舉報電話，歡迎廣大考生、家長及社會各界人士及時舉報反映涉及2026年高考的問題線索。教育部及各省（區、市）將會同有關部門根據舉報線索第一時間核查處理，堅決維護高考公平公正。
-
----
-
-### 2026-06-04 09:22:36  #市場 #焦點
-
-現貨黃金突破4470美元/盎司，日內漲0.81%。
-
----
-
-### 2026-06-04 09:22:29  #市場 #焦點
-
-紐約期銀突破74美元/盎司，日內漲0.42%。
-
----
-
-### 2026-06-04 09:22:08  #公司 #國際
-
-三井商船將投資3億美元用於美國海上浮式液化天然氣專案。
-
----
-
-### 2026-06-04 09:21:54  #焦點
-
-港股恒指低開跌0.66％，國企指數跌0.6％，恒生科技指數開跌1.23%。
-
----
-
-### 2026-06-04 09:21:49  #央行 #中國央行
-
-【央行：今日7天期逆回購操作量為零】央行公告，根據公開市場業務一級交易商的需求，2026年6月4日7天期逆回購操作量為零。
-
----
-
-### 2026-06-04 09:21:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong equities opened lower on Thursday, June 4: Hang Seng Index (HSI) down 167.91 points (-0.66%) at 25,465.3; Hang Seng TECH down 62.03 points (-1.23%) at 4,994.94; Hang Seng China Enterprises Index (HSCEI) down 51.86 points (-0.60%) at 8,544.73; Red Chip Index down 13.01 points (-0.29%) at 4,443.83.
-
----
-
-### 2026-06-04 09:21:30  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #01211.HK
-
-Hong Kong open: HSI down 0.66%, Hang Seng Tech Index down 1.23%. BYD Co. (01211.HK) opened down 3.43%.
-
----
-
-### 2026-06-04 09:21:17  #公司
-
-臺積電執行長表示：我們的客戶以及客戶的下游客戶，尤其是雲服務提供商，依然對人工智慧行業前景持樂觀態度。
-
----
-
-### 2026-06-04 09:21:13  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，今日7天期逆回購操作量為零。
-
----
-
-### 2026-06-04 09:21:07  #其他
-
-【全國統一電力市場體系建設提速】國家發展改革委、國家能源局近日印發通知，部署在雲霄直流開展輸電權市場化交易。專家指出，輸電權交易是面向省間稀缺輸電通道資源推出的全新市場化交易品種，有助於填補全國統一電力市場在輸電容量配置領域的制度空白。華北電力大學教授、國家能源發展戰略研究院執行院長王鵬表示，過往跨區直流輸電資源多依託行政計劃統籌排程，輸電權市場化落地後，其配套電能量市場，就能更好地由市場供需決定配置去向，從機制層面破解區域電力供需錯配等行業痛點。值得關注的是，跨網電力常態化交易的核心問題之一，是明確輸電通道容量的使用優先順序與分配規則。為此，通知提出透過市場化方式確定輸電權。“未來，待試點執行成熟、經驗可複製後，相關機制有望逐步向全國其他跨省跨區輸電通道推廣，最終實現輸電權市場與電能量市場的深度協同，進一步健全完善全國統一電力市場體系。”王鵬說。（經濟參考報）
-
----
-
-### 2026-06-04 09:21:05  #MKT News
-
-【Construction of national unified power market speeds up】The National Development and Reform Commission and the National Energy Administration have issued a notice to pilot market-based trading of transmission rights on the Yunxiao DC link. Regulators say transmission-rights trading is a new market product for scarce interprovincial transmission channels that fills an institutional gap in allocating transmission capacity within the national unified power market. Wang Peng, professor at North China Electric Power University and executive director of the National Energy Development Strategy Institute, said cross-region DC transmission has been managed by administrative scheduling; marketising transmission rights alongside a complementary energy market will allow supply and demand to more directly determine allocation and help resolve regional power supply-demand mismatches. The notice singles out defining priority and allocation rules for transmission-channel capacity as a core issue and proposes using market mechanisms to allocate transmission rights. If the pilot proves mature and replicable, the mechanism could be extended to other interprovincial links to deepen coordination between transmission-rights and energy markets and strengthen the national unified power market system.
-
----
-
-### 2026-06-04 09:21:02  #MKT News #Important #Market Regions #Greater China #CNH
-
-PBOC said today's 7-day reverse repo operation amount was zero, set according to demand from open-market primary dealers.
-
----
-
-### 2026-06-04 09:19:59  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said customers and end customers continue to express a positive outlook for the AI industry.
-
----
-
-### 2026-06-04 09:19:51  #國際
-
-現代汽車與英偉達討在韓國設立人工智慧研發中心。
-
----
-
-### 2026-06-04 09:19:45  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
-
-Korea Economic Daily reports government and industry sources say Hyundai Motor and NVIDIA (NVDA.O) are in talks to set up an AI R&D center in South Korea.
-
----
-
-### 2026-06-04 09:19:16  #其他
-
-【宏景科技金交會簽約交通銀行廣東省分行】據宏景科技訊息，6月3日，第15屆中國（廣州）國際金融交易・博覽會（簡稱“金交會”）舉行，會上，宏景科技與交通銀行廣東省分行完成產融對接專案戰略合作簽約。此次簽約的核心價值，在於為宏景科技算力及AI業務發展提供了穩定、多元的金融支撐。
-
----
-
-### 2026-06-04 09:18:57  #公司 #國際
-
-臺積電執行長表示：我們正在擴充成熟製程晶圓產能，其中包括為滿足CMOS影象感測器需求擴建日本工廠，以及為滿足汽車與工業領域需求擴建德國工廠。
-
----
-
-### 2026-06-04 09:18:51  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said the company is boosting mature-node wafer capacity, adding fabs to meet Japanese CMOS image-sensor demand and German automotive and industrial demand.
-
----
-
-### 2026-06-04 09:18:37  #國際
-
-【美國製裁致維薩卡和萬事達卡在古巴暫停使用】古巴中央銀行6月3日發表宣告說，受美國5月1日行政令影響，古巴將無法繼續透過維薩、萬事達等國際銀行卡渠道收取商品和服務銷售收入。宣告還說，古巴境內外匯交易的其他支付方式仍可正常使用。
-
----
-
-### 2026-06-04 09:17:11  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO said overall economic uncertainty persists but expressed confidence TSMC will continue to outperform industry growth.
-
----
-
-### 2026-06-04 09:17:08  #公司 #國際
-
-【現代汽車與英偉達商討在韓設立人工智慧研發中心】韓國經濟日報援引匿名政府及業內人士訊息：現代汽車聯合韓國政府正與英偉達就落地韓國人工智慧技術中心進入最終磋商階段，新萬金成為選址首選。該研發中心將是英偉達級別頂尖的研發基地，這類高規格基地目前僅佈局在新加坡、中國臺灣等少數地區；英偉達去年10月已與現代汽車簽署諒解備忘錄，約定供應GPU晶片並共建AI研發中心。黃仁勳本週到訪韓國，或敲定落戶地點與建設時間表，其定於本週五會晤現代汽車集團會長鄭義宣及其他業界高管。得益於現代汽車計劃在新萬金投入9萬億韓元佈局氫能、AI資料中心與機器人產業園，該地在選址競爭中佔據領先地位。
-
----
-
-### 2026-06-04 09:17:01  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Shares Follow Wall Street Lower — Australian stocks slipped 110 points, or 1.3%, to 8,675 in Thursday's morning session, reversing gains from the prior session after losses on Wall Street overnight amid renewed tensions in the Middle East. Iran reportedly launched a drone attack on Kuwait Airport following a skirmish with the U.S. Local markets retreated from a one-month high, with traders cautiously anticipating April trade data later today. In March, Australia saw the first trade gap since December 2017, as exports fell while imports jumped to a record high. Most sectors logged steep losses, with commercial services, non-energy minerals, and producer manufacturing among major laggards. Still, strength in consumer non-durables and energy minerals helped limit further losses. The four big banks dipped between 1.2% and 1.5%. Other notable decliners were mining giant BHP Group (-3.3%), Northern Star Resources (-5.6%), Lynas Rare Earths (-5.4%), and Evolution Mining (-3.9%).
-
----
-
-### 2026-06-04 09:16:37  #MKT News #TSM.N #Impact bullish
-
-TSMC (TSM.N) CEO says the company is working to meet demand from all customers.
-
----
-
-### 2026-06-04 09:16:30  #市場 #焦點
-
-比特幣跌破63000美元，日內跌1.86%。
-
----
-
-### 2026-06-04 09:16:19  #公司
-
-臺積電執行長：我們正全力滿足所有客戶需求。
-
----
-
-### 2026-06-04 09:15:49  #MKT News #TSM.O #Impact bearish
-
-TSMC CEO said the company is monitoring the impact of rising component costs, particularly in consumer and price-sensitive end markets.
-
----
-
-### 2026-06-04 09:15:43  #市場
-
-【人民幣兌美元中間價報6.8203，較上日調低19點】人民幣兌美元中間價報6.8203，較上日調低19點。
-
----
-
-### 2026-06-04 09:15:39  #國際
-
-【訊息人士：歐俄展開談判的視窗正在開啟】據德國方面3日訊息，一名德國政府的訊息人士表示，儘管俄烏衝突仍在繼續，但德國方面認為，俄羅斯和歐洲之間就烏克蘭問題展開談判的視窗正在慢慢開啟，儘管談判可能需要幾個月的時間才能開始。目前還不清楚誰將領導相關的談判，該訊息人士表示，英法德三國將在這方面發揮重要作用。此前，俄羅斯和烏克蘭之間的談判主要由美國斡旋，歐洲國家並未參與其中。近期美國斡旋俄烏衝突的外交程序陷入停滯，在此背景下，歐洲國家正加大力度重新介入。
-
----
-
-### 2026-06-04 09:15:20  #MKT News #CNH #Impact mixed
-
-【CITIC Securities: include FX in earnings analysis; watch earnings risk at high-offshore, FX‑sensitive A‑share firms】CITIC Securities warns that rapid growth in A‑share offshore revenue does not imply stable RMB profits. FX affects reported results through revenue, costs, exchange gains/losses, derivatives and other comprehensive income (OCI). It recommends incorporating FX into earnings models, flagging firms with high offshore revenue and high FX sensitivity as sources of earnings‑surprise risk, preferring high‑offshore/low‑sensitivity profit‑stable names, and warning of firms with large foreign‑currency debt, material net FX exposures or inadequate hedging.
 
 ---

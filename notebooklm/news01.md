@@ -1,7 +1,232 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-09 05:38:57_
-_本檔包含 4192 則快訊，約 695644 字_
+_更新時間：2026-06-09 06:44:28_
+_本檔包含 4183 則快訊，約 694921 字_
+
+---
+
+### 2026-06-09 06:43:32  #國際
+
+【以軍空襲黎巴嫩南部致至少17人死亡 】據黎巴嫩衛生部及國家通訊社8日訊息，以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。（新華社）
+
+---
+
+### 2026-06-09 06:40:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Butter Gains by 1.88% — Top commodity gainers are Butter (1.88%) and Cocoa (1.46%). Biggest loser is Soybeans (-0.50%).
+
+---
+
+### 2026-06-09 06:38:52  #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】
+① 可能釋出 中國5月M2等貨幣供應；
+② 時間待定 中國5月進出口與貿易帳；
+③ 19:00 法國央行行長Emmanuel Moulin講話；
+④ 20:30 美國4月貿易帳，加拿大4月貿易帳；
+⑤ 22:00 美國5月成屋銷售總數年化；
+⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）。
+
+---
+
+### 2026-06-09 06:36:56  #其他
+
+香港金管局週一向銀行提供的隔夜貸款攀升至三個月來的最高水平。透過所謂的貼現視窗貸出9.2億港元，創3月17日以來最高。
+
+---
+
+### 2026-06-09 06:35:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 2.31% — Top commodity losers are Platinum (-2.31%), Iron Ore (-0.93%), Iron Ore CNY (-0.91%) and Gold (-0.13%). Gains are led by Silver (1.23%) and Copper (0.69%).
+
+---
+
+### 2026-06-09 06:30:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Rises by 3.83% — Top commodity gainers are Natural Gas UK (3.83%), Natural Gas EU (3.69%), Germany Natural Gas THE (3.08%), Brent Crude Oil (1.45%) and Crude Oil WTI (0.91%). Biggest losers are Natural gas (-2.88%) and Propane (-2.40%).
+
+---
+
+### 2026-06-09 06:28:56  #國際
+
+據AXIOS：美國白宮正協商推動聯邦法律優先於各州人工智慧相關法規實施。
+
+---
+
+### 2026-06-09 06:23:19  #公司 #市場
+
+【從電力管家到散熱高手，碳化矽全產業鏈供需兩旺】高品質襯底片供應緊張、價格漲幅明顯，襯底片大廠產能利用率普遍超過了90%，晶片模組公司產能供不應求、交付週期大幅拉長，上游裝置公司訂單旺盛、客戶還往往要求緊急交付……記者近日調研國內碳化矽（SiC）產業鏈獲悉，整個產業景氣度高漲。記者瞭解到，自2025年第四季度以來，碳化矽行業新增晶圓產能擴張節奏有所放緩，而汽車、光儲、充電樁等三大主力應用市場均持續處於高景氣執行週期，對國產SiC MOSFET器件的需求持續快速增長；同時，消費電子、AI等新興應用場景需求集中爆發，疊加半導體行業整體漲價預期，拉高終端廠商的備庫存需求，共同推動碳化矽行業景氣度持續上升。（上證報）
+
+---
+
+### 2026-06-09 06:23:05  #公司
+
+【A股回撥觸發風格切換預期 券商密集上調十餘隻個股評級】週一，A股出現回撥，市場圍繞“世界盃效應”、市場風格切換的討論熱度驟增。多家券商分析師火速解讀市場，一部分觀點將科技股籌碼高度擁擠視作本次調整內在誘因，還有分析師提出投資佈局可從“矽基”賽道轉向“碳基”賽道。此外，較受關注的還有券商分析師近日密集更新對上市公司的研報及觀點內容。資料顯示，十餘家上市公司獲上調評級，集中在OLED、半導體、新能源配套等領域，主要邏輯是行業高景氣與新業務放量；同時，有多家上市公司評級遭下調，誘因普遍是短期業績不及預期、下游需求存在不確定性。（證券時報）
+
+---
+
+### 2026-06-09 06:21:54  #宏觀
+
+【全鏈條補齊制度短板 私募基金迎規範發展新階段 】23萬億元規模的私募基金行業迎來了頂層設計。國務院辦公廳日前印發《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》（以下簡稱《指導意見》），全面調整最佳化監管理念，對私募基金行業未來一段時期監管工作作出全面部署。證監會主席吳清要求，私募基金要把《指導意見》和配套規則全面落實到展業全過程各環節，切實在理念、模式、行動上來一個大轉變、大提升。頂層部署與監管落地的雙向聯動，為私募行業高質量發展劃定了提質增效的新賽道。國泰海通非銀金融團隊分析師劉欣琦認為，這對私募基金行業格局將產生深遠影響，偽私募、空殼機構會面臨更嚴格的監管約束和退出壓力，行業資源有望向頭部合規機構集中，耐心資本和硬科技投資方向的機構將獲得更多政策支援。（證券時報）
+
+---
+
+### 2026-06-09 06:20:02  #其他
+
+【上市券商逾400億元分紅集中落地】2025年度分紅進入集中兌現視窗期，多家上市券商相繼完成除權派息安排。總的來看，行業分紅呈現兩大鮮明特徵：一是頭部、中小券商同步抬升分紅比例，現金回饋力度顯著增強；二是中期分紅機制大範圍鋪開，2026年年內多次分紅有望成為行業常規操作。規模擴容、頻次升級、機制完善三重突破，正在啟用券商板塊投資價值，吸引長期資金佈局。（上證報）
+
+---
+
+### 2026-06-09 06:17:19  #公司 #國際
+
+【6月9日隔夜要聞一覽】
+1、特朗普：將在未來兩週內宣佈對伊戰爭取得全面勝利。
+2、美法官裁定特朗普政府抬高H-1B簽證費違法，白宮稱將提起上訴。
+3、蘋果WWDC26：庫克謝幕，系統提速，Siri終於聰明瞭。
+4、繼Anthropic之後，OpenAI也提交了美國IPO申請。
+5、Alphabet旗下谷歌將2028年逾300萬顆專用AI晶片訂單交給英特爾。
+6、Meta宣佈推出美國勞動力學院，首年投入1.15億美元啟動資金。
+7、SpaceX首次公開募股認購大幅超額，將於週三結束申購。
+8、以色列總理內塔尼亞胡表示，鑑於伊朗已停止襲擊，他決定對伊朗“暫不還擊”
+9、穆迪：美國壽險公司持有8070億美元流動性最差信貸資產。
+
+---
+
+### 2026-06-09 06:15:42  #國際
+
+委內瑞拉代總統Delcy Rodriguez會見土耳其總統埃爾多安。雙方討論實現30億美元貿易額的措施。雙方側重於推進貿易、能源、礦業合作。Rodriguez此前結束了對印度持續五天的行程。
+
+---
+
+### 2026-06-09 06:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Rises by 2.10% — Top currency gainers are South Korean Won (2.10%), Euro (0.10%) and Japanese Yen (0.08%). Biggest losers are Brazilian Real (-0.29%), Indian Rupee (-0.25%) and Dollar Index (-0.07%). Meanwhile British Pound was little changed.
+
+---
+
+### 2026-06-09 06:11:50  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #Treasury Yields #XAUUSD #Impact bearish #DXY #Impact bullish #US10Y
+
+【Gold erases most YTD gains; near-term to remain rangebound】Gold has fallen since a late‑January peak and accelerated lower in June as Fed rate‑hike expectations firmed, erasing almost all year‑to‑date gains. Global central bank buying remains robust and gold’s share of official reserves continues to rise. Market participants say the US‑Israel‑Iran conflict drove energy prices higher but lifted inflation expectations rather than triggering a safe‑haven bid, weighing on bullion. Near term a stronger dollar and rising US Treasury yields raise the opportunity cost of holding gold and should keep prices under pressure; medium‑to‑long‑term support comes from sustained official buying, shifts in international reserve allocations and lasting safe‑haven demand.
+
+---
+
+### 2026-06-09 06:10:22  #資料 #央行 #國際
+
+【流動性壓力擾動市場 震盪中機構建議均衡配置 】美國最新非農就業資料再超預期引發全球權益市場巨震，科技板塊調整尤為明顯。就在本週，備受關注的美國5月CPI資料將出爐，歐洲央行也將公佈最新利率決議，其或成為年內首家重啟加息的主要經濟體央行，市場流動性邊際收緊風雨欲來。在業內機構看來，在流動性收緊的環境下，需警惕大盤高擁擠度帶來的短期風格反轉，可在適度參與科技主線的同時，關注中小市值及順週期等方向。就A股而言，海外風險造成的衝擊更多體現為短期影響，建議投資者均衡配置，公用事業、銀行等板塊有望受到關注。（中證報）
+
+---
+
+### 2026-06-09 06:10:01  #市場 #央行 #國際
+
+【今年以來黃金漲幅幾乎悉數回吐 短期仍以震盪為主 】自今年1月下旬創下歷史新高以來，國際金價持續震盪下行。進入6月，隨著美聯儲加息預期升溫，黃金跌勢明顯加快，今年以來漲幅幾乎全部回吐。6月8日，截至記者發稿時，倫敦金現貨價格失守4300美元/盎司關口，市場情緒明顯降溫。值得關注的是，在金價持續調整之際，全球央行購金熱情並未減弱，黃金在全球官方儲備資產中的佔比也不斷提升。機構人士認為，美以伊衝突引發的能源價格飆升並未啟用黃金傳統避險功能，反而因推升通脹預期而對金價形成壓制。短期來看，美元走強和美債收益率攀升令持有黃金的機會成本上升，金價仍將承壓。但從中長期來看，全球央行持續增持黃金、國際儲備體系重構以及長期存在的避險需求等因素，仍將為金價提供支撐。（中證報）
+
+---
+
+### 2026-06-09 06:08:18  #市場 #國際
+
+【全球科技股共振下跌 機構稱中期積極配置成長板塊 】全球科技股共振下跌。在美股科技股當地時間6月5日大跌後，6月8日，日經225指數跌近4%，韓國綜合指數跌逾8%。A股市場調整，大盤科技股帶動三大指數下跌，深證成指、創業板指均跌逾3%。銀行、減速器、雞產業等板塊逆勢上漲，整個A股市場超4500只股票下跌。市場成交額為2.82萬億元，較前一交易日縮量。資金面上，槓桿資金在連續8周淨買入後出現淨賣出，上週A股融資餘額減少超50億元，電力裝置、電子行業融資淨賣出額均超30億元。6月8日，滬深兩市主力資金淨流出超750億元，資金情緒謹慎。分析人士認為，A股短期仍處在震盪消化、結構再平衡的執行階段，板塊輪動加速，短期盤面波動或加大。中期在基本面及產業趨勢支撐下，市場有望逐漸震盪上行。短期關注防禦板塊，中期則積極配置成長板塊。（中證報）
+
+---
+
+### 2026-06-09 06:07:24  #其他
+
+【量質齊升 6月地方債發行有望提速 】今年前5個月，地方債發行交出一份“量質齊升”的成績單，1至5月全國累計發行地方債47219億元，同比增長超9%，體現出更加積極的財政政策靠前發力。新增專項債受“自審自發”等多項利好政策支援，超七成資金投向基礎設施和專案建設等領域。進入6月，專家預期地方債發行有望放量。（中證報）
+
+---
+
+### 2026-06-09 06:04:48  #MKT News
+
+Iranian media, citing airport officials, reported flights have resumed at Tehran's Imam Khomeini International Airport.
+
+---
+
+### 2026-06-09 06:04:07  #國際
+
+伊朗媒體援引機場官員訊息：德黑蘭伊瑪目霍梅尼機場航班已恢復執行。
+
+---
+
+### 2026-06-09 06:02:49  #MKT News #XAUUSD #Impact mixed #WTI #DXY
+
+【Iran's UN envoy says hopes US-Iran talks will reach agreement before end-June】Iran's UN envoy Amir Saeid Iravani said on Monday Tehran and Washington are still negotiating a peace agreement, expressed optimism a final deal could be reached "soon," and replied "we hope so" when asked if an agreement might be concluded before the end of June. Iravani said the current ceasefire is comprehensive and applies across the region, including Lebanon — a characterization Israel disputes. Israel's Prime Minister Netanyahu said Israel has decided not to take further action against Iran but will continue strikes against Hezbollah.
+
+---
+
+### 2026-06-09 06:00:24  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.1%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.1%，累計降息25個基點的機率為1.9%。美聯儲到7月維持利率不變的機率為84.7%，累計加息25個基點的機率13.6%，累計降息25個基點的機率為1.6%。
+
+---
+
+### 2026-06-09 05:49:08  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+Trump said Israel will not reopen hostilities with Iran.
+
+---
+
+### 2026-06-09 05:49:06  #國際
+
+特朗普：伊朗相關局勢平息後，油價將會回落。
+
+---
+
+### 2026-06-09 05:48:43  #國際
+
+特朗普：勝利很快就會到來。
+
+---
+
+### 2026-06-09 05:48:31  #MKT News #Market Themes #The Trump Trade
+
+Trump says U.S. is negotiating with Iran.
+
+---
+
+### 2026-06-09 05:48:25  #國際
+
+特朗普：我們將在兩週內宣佈“全面”勝利。
+
+---
+
+### 2026-06-09 05:47:43  #國際
+
+特朗普談及伊朗：兩週之內局勢定會迎來轉機。
+
+---
+
+### 2026-06-09 05:47:10  #國際
+
+特朗普談伊朗：我們正在談判。
+
+---
+
+### 2026-06-09 05:46:41  #國際
+
+特朗普談伊朗：我們已經摧毀了他們的軍事力量和領導層。
+
+---
+
+### 2026-06-09 05:46:27  #國際
+
+美國總統特朗普出席線上競選集會並發表講話。
+
+---
+
+### 2026-06-09 05:44:03  #MKT News
+
+Iranian media reported a magnitude-5 earthquake in southern Hormozgan province.
+
+---
+
+### 2026-06-09 05:43:50  #國際
+
+伊朗媒體報道，伊朗南部霍爾木茲甘省發生 5 級地震。
+
+---
+
+### 2026-06-09 05:40:45  #公司
+
+市場訊息：OpenAI計劃在首次公開募股（IPO）之前啟動員工/股東股票要約收購案（Tender Sale）。據知情人士透露，該公司將在未來幾周內正式舉行該股票要約收購（Tender）。
 
 ---
 
@@ -24952,269 +25177,5 @@ Russian presidential aide Ushakov said Moscow is maintaining close contact with 
 ### 2026-06-07 17:57:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
 
 【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift.
-
----
-
-### 2026-06-07 17:56:32  #宏觀 #國際
-
-【訊息人士：美計劃動用伊朗資產修復海灣盟友損失】據美國方面6日訊息，有訊息人士透露，美國財政部計劃利用伊朗資產，幫助海灣盟友修復由伊朗造成的損失。美國方面訊息稱，目前還不清楚哪些資產或將被動用，可能的選項包括伊朗被凍結的現金，或是例如油輪之類的硬資產。另據披露，該計劃涉及的似乎並不侷限於遭凍結的伊朗資產。對於以上說法，伊朗方面尚未作出回應。此前一天，5日，伊朗最高領袖軍事顧問雷扎伊強調，美國與伊朗能否達成協議，取決於美國是否同意解凍伊朗240億美元遭凍結資產。（央視新聞）
-
----
-
-### 2026-06-07 17:48:52  #國際
-
-【以色列中部發生槍擊事件 3人死亡5人受傷】當地時間7日，以色列中部科哈夫亞伊爾地區發生槍擊事件。總檯記者獲悉，事件目前已造成包括兩名嫌疑人在內的3人死亡、5人受傷，其中2人傷勢嚴重、3人傷勢中等。以色列警方通報稱，槍擊事件先後發生在科哈夫亞伊爾入口處的加油站，以及連線周邊社群的道路上，共涉及三個不同地點。事件一度觸發了周邊部分社群的警報，居民被緊急要求留在室內避險，以色列警察總長隨後抵達現場。（央視新聞）
-
----
-
-### 2026-06-07 17:48:18  #國際
-
-【僅7個月大巴勒斯坦嬰兒遭以軍射殺】6月5日，僅7個月大的巴勒斯坦嬰兒薩姆·阿布·海卡爾在約旦河西岸南部希伯倫市遭以軍槍擊身亡，其父母也在槍擊事件中受傷。孩子的父親回憶，以軍士兵在距離他們僅10米處開槍，子彈穿透了汽車的擋風玻璃擊中了孩子的頭部。他指責以方所謂“失誤”的說法是在為犯罪開脫，並稱這“絕對不是意外”。以軍在事件後釋出宣告稱，以軍當天在希伯倫執行任務時發現一輛汽車正加速朝他們駛來，一名以軍士兵隨後開槍，但初步調查顯示，死傷者均為平民。（CCTV國際時訊）
-
----
-
-### 2026-06-07 17:47:21  #國際
-
-埃及計劃部：2025/26財年7-3月埃及經濟增速為5.2%。
-
----
-
-### 2026-06-07 17:47:13  #國際
-
-【伊朗外交部：巴基斯坦內政部長與伊朗外長舉行會晤】伊朗外交部表示，巴基斯坦內政部長到訪德黑蘭，與伊朗高層官員會面磋商。本週日，他同伊朗外長舉行會談，並轉交了巴基斯坦總理致伊朗最高領袖的親筆信函。雙方在會談中回顧了伊巴兩國雙邊關係，並就由巴基斯坦斡旋、旨在結束美以針對伊朗的戰事這一外交程序的最新進展展開討論。
-
----
-
-### 2026-06-07 17:41:23  #宏觀 #國際
-
-【歐洲多國醞釀協同制裁猶太定居者】歐洲外交官員6日說，法國正與其他幾個歐洲國家合作，醞釀協同出臺國家層面措施，制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者，進一步向以色列施壓。三名不願公開姓名的歐洲外交官告訴路透社，制裁措施預期在未來幾天內宣佈，將包括凍結財產和旅行禁令，方案尚未最終敲定，各國擬定的制裁人員名單也可能存在差異。上述外交官說，由於歐盟層面推進對以色列採取更強硬措施的相關努力受阻，部分國家認為，從國家層面協同推出制裁措施是現階段的最佳選擇。（新華社）
-
----
-
-### 2026-06-07 17:40:48  #國際
-
-市場訊息：韓國總統表示已下令組建由檢方與警方共同參與的調查組。
-
----
-
-### 2026-06-07 17:39:48  #MKT News
-
-According to YONHAP, SOUTH KOREA'S LEE ordered a thorough probe into reported ballot shortages.
-
----
-
-### 2026-06-07 17:37:22  #國際
-
-市場訊息：韓國總統下令徹查選票短缺事件。
-
----
-
-### 2026-06-07 17:35:44  #國際
-
-市場訊息：韓國總統就侵犯投票權事件表示遺憾。
-
----
-
-### 2026-06-07 17:33:46  #其他
-
-【丁寧當選北京市乒協會長，張怡寧當選理事】6月7日上午，北京市乒乓球運動協會換屆大會暨第九屆第一次會員大會在北京召開，會上完成了協會換屆工作。丁寧、吳飛、劉國正、關亮、朱娜、彭博、王春雷、劉向前、張怡寧、任國強、張學軍、黃立志、齊盛楠、張宏千、張金峰、高翔、李亞、王明、楊斌當選為新一屆理事。會員大會後，分別召開了第九屆第一次理事會和第九屆第一次監事會，丁寧當選協會新一任會長，吳飛、劉國正、關亮當選副會長，朱娜當選秘書長。
-
----
-
-### 2026-06-07 17:32:47  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-Bank of Israel purchased USD 801 mln of foreign exchange in May to maintain orderly market functioning.
-
----
-
-### 2026-06-07 17:32:27  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Bank of Israel: foreign-exchange reserves stood at $238.68 bln in May, up from $235.73 bln in April.
-
----
-
-### 2026-06-07 17:30:45  #MKT News #Important #WTI #Impact mixed #Brent
-
-【Iran says it has drafted Strait of Hormuz Environmental Service Charge Regulation】On the 7th, Iran's vice president and head of the Department of Environment, Ansari, said Tehran has begun drafting the Strait of Hormuz Environmental Service Charge Regulation; an initial draft was recently completed, but fee levels and the specific collection mechanism have not been finalized.
-
----
-
-### 2026-06-07 17:26:39  #焦點 #國際
-
-據伊朗塔斯尼姆通訊社7日報道，伊朗副總統兼環境署署長希娜·安薩里表示，伊方已啟動《霍爾木茲海峽環境服務收費條例》制定工作，初步草案近日完成，但收費標準及具體徵收機制尚未最終確定。（新華社）
-
----
-
-### 2026-06-07 17:26:30  #其他
-
-【年內滬市新增重組290餘家次，合計金額超1300億元】2026年即將過半，滬市併購重組市場持續活躍，大體量的產業整合始終保持“熱度”。資料顯示，年初至今，滬市新增重組290餘家次，包括重大資產重組新增24家次，合計金額超1300億元。
-
----
-
-### 2026-06-07 17:24:56  #央行 #國際
-
-以色列央行：5月購入了8.01億美元外匯，目的是“維持市場有序執行”。
-
----
-
-### 2026-06-07 17:24:01  #央行 #國際
-
-以色列央行公佈資料：5月以色列外匯儲備規模為2386.81億美元，4月為2357.28億美元。
-
----
-
-### 2026-06-07 17:16:29  #國際
-
-俄羅斯國防部：空中防禦系統在一天內擊落了11枚彈藥、一枚HIMARS炮彈。在過去24小時內，烏克蘭武裝部隊在特別軍事行動的各個區域損失超過1300名士兵。
-
----
-
-### 2026-06-07 17:14:53  #國際
-
-以色列國防軍發言人：以色列中部襲擊事件發生後，以軍參謀長已研判局勢並下達後續行動指令。
-
----
-
-### 2026-06-07 17:14:27  #MKT News
-
-RUSSIAN DEFENCE MINISTRY said its air defences shot down 11 munitions, one HIMARS rocket and 500 Ukrainian military drones in a single day, and that Ukrainian forces lost more than 1,300 soldiers across the special military operation in the past 24 hours.
-
----
-
-### 2026-06-07 17:10:39  #國際
-
-俄羅斯國防部：過去24小時內俄羅斯擊落500架烏克蘭無人機。
-
----
-
-### 2026-06-07 17:07:12  #國際
-
-【以色列中部發生槍擊事件 1名嫌疑人被捕】當地時間7日，以色列警方證實，以色列中部科哈夫亞伊爾地區當天發生槍擊事件，目前已有一名嫌疑人被捕。安全部隊正在全力搜捕第二名涉案嫌疑人。據警方通報，這起槍擊事件目前已造成1人死亡，至少4人受傷。據悉，此次槍擊事件發生在該地區靠近約旦河西岸安全隔離牆的三個不同地點。（央視新聞）
-
----
-
-### 2026-06-07 17:05:27  #央行 #國際
-
-埃及央行：埃及5月外匯儲備淨額從4月的530.09億美元升至531.34億美元。
-
----
-
-### 2026-06-07 17:05:21  #國際
-
-【俄稱美正試圖退出烏克蘭問題談判】俄羅斯總統顧問科比亞科夫6月6日在聖彼得堡國際經濟論壇閉幕新聞釋出會上表示，美國正試圖退出烏克蘭問題談判。對於近日美國眾議院透過法案對俄羅斯實施新制裁一事，科比亞科夫稱，美國國會建議加強制裁，正是因為意識到特別軍事行動的結局對俄羅斯有利。（CCTV國際時訊）
-
----
-
-### 2026-06-07 17:05:16  #MKT News #Market Regions #Europe & UK
-
-【France, UK, Germany and Ukraine leaders to meet to discuss ending Russia-Ukraine conflict】France’s Macron, UK Prime Minister Starmer and German Chancellor Merz are due to meet Ukrainian President Zelenskiy in London on the evening of the 7th to discuss continued support for Ukraine and steps to end the Russia-Ukraine war, the Elysée said. Insiders cautioned Zelenskiy’s plans and the meeting time remain subject to change.
-
----
-
-### 2026-06-07 17:03:58  #國際
-
-【以軍稱打死一名哈馬斯指揮官】以色列國防軍和以色列國家安全總局（辛貝特）7日發表聯合宣告說，以軍和辛貝特2日在加沙地帶打死一名曾參與2023年10月突襲以色列的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官。 以軍說，以軍和辛貝特2日在加沙地帶南部發動的精確打擊中打死哈馬斯“努赫巴”部隊指揮官薩克爾·阿布·卡里姆。以軍稱他曾在2023年10月領導哈馬斯對以色列的突襲。另有一名哈馬斯通訊員被以軍一同打死。 以軍稱將繼續在加沙地帶開展行動，消除任何“迫在眉睫的威脅”。(新華社)
-
----
-
-### 2026-06-07 17:03:22  #焦點 #國際
-
-【法英德烏領導人將舉行會晤，討論結束俄烏衝突等問題】法國總統府愛麗捨宮日前在一份宣告中稱，法國總統馬克龍、英國首相斯塔默以及德國總理默茨7日將與烏克蘭總統澤連斯基舉行會晤，討論繼續支援烏克蘭等議題。據悉，此次會晤預計在英國倫敦舉行。澤連斯基希望歐洲國家領導人能夠加大努力，幫助結束俄烏衝突。（央視新聞）
-
----
-
-### 2026-06-07 17:02:56  #公司 #市場
-
-【納指科技ETF景順：二級市場價格溢價 6月8日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月5日收盤價2.714元，參考淨值2.3197元。為保護投資者利益，基金於6月8日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月8日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-06-07 17:02:50  #公司 #市場
-
-【納指ETF廣發：提示基金二級市場交易價格溢價風險】納指ETF廣發公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為1.6410元，收盤時基金份額參考淨值為1.5529元。若6月8日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能使投資者面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。
-
----
-
-### 2026-06-07 17:02:46  #公司 #市場
-
-【納指ETF嘉實：提醒二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為2.087元，收盤時基金份額參考淨值為1.9433元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除淨值波動風險外，還受市場供求等因素影響。截至目前，基金運作正常且無應披露未披露重大資訊。
-
----
-
-### 2026-06-07 17:02:40  #公司 #市場
-
-【納指ETF易方達：二級市場交易價格溢價 提醒投資風險】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月5日，二級市場收盤價為2.026元，收盤時基金份額參考淨值為1.9260元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施。提醒投資者關注溢價風險，審慎投資，盲目投資或遭受重大損失。
-
----
-
-### 2026-06-07 17:00:42  #其他
-
-【廣西河池市委常委、秘書長張聯松接受審查調查】據廣西壯族自治區紀委監委訊息：廣西壯族自治區河池市委常委、秘書長張聯松涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-07 16:59:44  #焦點 #國際
-
-【巴基斯坦內政部長轉交致伊朗最高領袖特別信函】據伊朗塔斯尼姆通訊社報道，巴基斯坦內政部長納克維7日在伊朗首都德黑蘭會見伊朗外交部長阿拉格齊期間，將一封致伊朗最高領袖穆傑塔巴的特別信函轉交給阿拉格齊。（新華社）
-
----
-
-### 2026-06-07 16:49:17  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukrainian President Zelenskiy said Russia deliberately struck nuclear fuel storage facilities, calling the attack "extremely vile".
-
----
-
-### 2026-06-07 16:45:53  #國際
-
-烏克蘭總統澤連斯基：俄羅斯蓄意襲擊核燃料儲存設施，此次行徑惡劣。
-
----
-
-### 2026-06-07 16:42:13  #國際
-
-以色列警方：以色列中部襲擊事件的疑似槍擊者已被“制服”。
-
----
-
-### 2026-06-07 16:39:47  #國際
-
-以色列總理內塔尼亞胡：槍擊事件後正在研判局勢。
-
----
-
-### 2026-06-07 16:39:37  #MKT News
-
-Israeli Prime Minister's Office said the prime minister is monitoring developments in shootings in Kokhav Ya'ir and Tzur.
-
----
-
-### 2026-06-07 16:38:59  #MKT News
-
-【Armenia holds parliamentary election】Armenia held parliamentary elections on the 7th, with voters choosing at least 101 MPs from 18 parties and party alliances. Voting took place at 2,005 polling stations; more than 2.48 million voters were registered. Polling ran from 08:00 to 20:00 local time. The Central Election Commission will release preliminary counts within 24 hours and final results within a week. The new parliament will elect the next prime minister.
-
----
-
-### 2026-06-07 16:37:18  #市場
-
-【亞美尼亞舉行議會選舉】亞美尼亞國民會議（議會）選舉7日舉行，選民將從18個政黨及政黨聯盟的候選人中，投票選出至少101名議員。 本次選舉共設2005個投票站，登記選民超過248萬人。投票時間從當地時間7日8時到20時。記者在首都埃裡溫一處投票站看到，早8時開始選民陸續進入投票站投票。投票結束後24小時內，亞中央選舉委員會將公佈初步計票結果，最終結果將在投票後一週宣佈。 本次選舉選出的議會將選舉新一任總理。 共有16個政黨和2個政黨聯盟參加選舉，包括由現任總理帕什尼揚領導的公民合約黨、前總統科恰良領導的政黨聯盟“亞美尼亞聯盟”等。 亞美尼亞議會實行一院制，共設立至少101個席位，最終席位數量在選舉後確定，議員任期5年。根據修改後的選舉法，得票率達到4%的政黨才能進入議會，不超過3個政黨組成的政黨聯盟得票率需達到8%才能進入議會，4個或4個以上政黨組成的政黨聯盟得票率需達到10%才能進入議會。如果進入議會的政黨或政黨聯盟無法達到3個，席位在得票最多的3個政黨或政黨聯盟之間分配。(新華社)
-
----
-
-### 2026-06-07 16:35:34  #國際
-
-美國國家颶風中心（NHC）表示，熱帶風暴阿曼達預計將於週日晚些時候減弱為低壓殘留。
-
----
-
-### 2026-06-07 16:33:16  #公司 #市場 #焦點
-
-【唯特偶：在光模組及先進封裝領域的營收佔比貢獻率均不到1%】唯特偶(301319.SZ)公告回覆深交所關注函，就公司產品在光模組及先進封裝領域的應用情況、相關客戶及銷售金額等進行了說明。光模組生產過程中，錫膏主要用在四個環節：PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接、高速FPC軟板熱壓焊接、結構件/殼體接地焊接。以1.6T光模組為例：單個產品錫膏成本金額約為5-72元，金額較小；錫膏產品佔光模組產品價格比例約為0.077%-0.758%，佔比極低。在光模組生產環節中，公司主要產品可用於PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接，主要客戶為客戶十三、客戶三十四，主要產品為T7超細粉錫膏及半導體專用清洗劑，主要應用於1.6T的光模組領域。唯特偶表示，光模組及先進封裝業務市場需求和發展前景尚存在不確定性，且截至目前，公司在光模組及先進封裝領域的營收佔比貢獻率均不到1%，預計短期內不會對公司經營業績產生重大影響。公司同時提示，股價短期上漲幅度較大，可能存在市場情緒過熱和非理性炒作的風險。
-
----
-
-### 2026-06-07 16:32:59  #宏觀 #國際
-
-【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。
 
 ---

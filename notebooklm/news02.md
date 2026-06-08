@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-09 05:38:57_
-_本檔包含 3655 則快訊，約 695690 字_
+_更新時間：2026-06-09 06:44:28_
+_本檔包含 3619 則快訊，約 694289 字_
+
+---
+
+### 2026-06-07 17:56:32  #宏觀 #國際
+
+【訊息人士：美計劃動用伊朗資產修復海灣盟友損失】據美國方面6日訊息，有訊息人士透露，美國財政部計劃利用伊朗資產，幫助海灣盟友修復由伊朗造成的損失。美國方面訊息稱，目前還不清楚哪些資產或將被動用，可能的選項包括伊朗被凍結的現金，或是例如油輪之類的硬資產。另據披露，該計劃涉及的似乎並不侷限於遭凍結的伊朗資產。對於以上說法，伊朗方面尚未作出回應。此前一天，5日，伊朗最高領袖軍事顧問雷扎伊強調，美國與伊朗能否達成協議，取決於美國是否同意解凍伊朗240億美元遭凍結資產。（央視新聞）
+
+---
+
+### 2026-06-07 17:48:52  #國際
+
+【以色列中部發生槍擊事件 3人死亡5人受傷】當地時間7日，以色列中部科哈夫亞伊爾地區發生槍擊事件。總檯記者獲悉，事件目前已造成包括兩名嫌疑人在內的3人死亡、5人受傷，其中2人傷勢嚴重、3人傷勢中等。以色列警方通報稱，槍擊事件先後發生在科哈夫亞伊爾入口處的加油站，以及連線周邊社群的道路上，共涉及三個不同地點。事件一度觸發了周邊部分社群的警報，居民被緊急要求留在室內避險，以色列警察總長隨後抵達現場。（央視新聞）
+
+---
+
+### 2026-06-07 17:48:18  #國際
+
+【僅7個月大巴勒斯坦嬰兒遭以軍射殺】6月5日，僅7個月大的巴勒斯坦嬰兒薩姆·阿布·海卡爾在約旦河西岸南部希伯倫市遭以軍槍擊身亡，其父母也在槍擊事件中受傷。孩子的父親回憶，以軍士兵在距離他們僅10米處開槍，子彈穿透了汽車的擋風玻璃擊中了孩子的頭部。他指責以方所謂“失誤”的說法是在為犯罪開脫，並稱這“絕對不是意外”。以軍在事件後釋出宣告稱，以軍當天在希伯倫執行任務時發現一輛汽車正加速朝他們駛來，一名以軍士兵隨後開槍，但初步調查顯示，死傷者均為平民。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 17:47:21  #國際
+
+埃及計劃部：2025/26財年7-3月埃及經濟增速為5.2%。
+
+---
+
+### 2026-06-07 17:47:13  #國際
+
+【伊朗外交部：巴基斯坦內政部長與伊朗外長舉行會晤】伊朗外交部表示，巴基斯坦內政部長到訪德黑蘭，與伊朗高層官員會面磋商。本週日，他同伊朗外長舉行會談，並轉交了巴基斯坦總理致伊朗最高領袖的親筆信函。雙方在會談中回顧了伊巴兩國雙邊關係，並就由巴基斯坦斡旋、旨在結束美以針對伊朗的戰事這一外交程序的最新進展展開討論。
+
+---
+
+### 2026-06-07 17:41:23  #宏觀 #國際
+
+【歐洲多國醞釀協同制裁猶太定居者】歐洲外交官員6日說，法國正與其他幾個歐洲國家合作，醞釀協同出臺國家層面措施，制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者，進一步向以色列施壓。三名不願公開姓名的歐洲外交官告訴路透社，制裁措施預期在未來幾天內宣佈，將包括凍結財產和旅行禁令，方案尚未最終敲定，各國擬定的制裁人員名單也可能存在差異。上述外交官說，由於歐盟層面推進對以色列採取更強硬措施的相關努力受阻，部分國家認為，從國家層面協同推出制裁措施是現階段的最佳選擇。（新華社）
+
+---
+
+### 2026-06-07 17:40:48  #國際
+
+市場訊息：韓國總統表示已下令組建由檢方與警方共同參與的調查組。
+
+---
+
+### 2026-06-07 17:39:48  #MKT News
+
+According to YONHAP, SOUTH KOREA'S LEE ordered a thorough probe into reported ballot shortages.
+
+---
+
+### 2026-06-07 17:37:22  #國際
+
+市場訊息：韓國總統下令徹查選票短缺事件。
+
+---
+
+### 2026-06-07 17:35:44  #國際
+
+市場訊息：韓國總統就侵犯投票權事件表示遺憾。
+
+---
+
+### 2026-06-07 17:33:46  #其他
+
+【丁寧當選北京市乒協會長，張怡寧當選理事】6月7日上午，北京市乒乓球運動協會換屆大會暨第九屆第一次會員大會在北京召開，會上完成了協會換屆工作。丁寧、吳飛、劉國正、關亮、朱娜、彭博、王春雷、劉向前、張怡寧、任國強、張學軍、黃立志、齊盛楠、張宏千、張金峰、高翔、李亞、王明、楊斌當選為新一屆理事。會員大會後，分別召開了第九屆第一次理事會和第九屆第一次監事會，丁寧當選協會新一任會長，吳飛、劉國正、關亮當選副會長，朱娜當選秘書長。
+
+---
+
+### 2026-06-07 17:32:47  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+Bank of Israel purchased USD 801 mln of foreign exchange in May to maintain orderly market functioning.
+
+---
+
+### 2026-06-07 17:32:27  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Bank of Israel: foreign-exchange reserves stood at $238.68 bln in May, up from $235.73 bln in April.
+
+---
+
+### 2026-06-07 17:30:45  #MKT News #Important #WTI #Impact mixed #Brent
+
+【Iran says it has drafted Strait of Hormuz Environmental Service Charge Regulation】On the 7th, Iran's vice president and head of the Department of Environment, Ansari, said Tehran has begun drafting the Strait of Hormuz Environmental Service Charge Regulation; an initial draft was recently completed, but fee levels and the specific collection mechanism have not been finalized.
+
+---
+
+### 2026-06-07 17:26:39  #焦點 #國際
+
+據伊朗塔斯尼姆通訊社7日報道，伊朗副總統兼環境署署長希娜·安薩里表示，伊方已啟動《霍爾木茲海峽環境服務收費條例》制定工作，初步草案近日完成，但收費標準及具體徵收機制尚未最終確定。（新華社）
+
+---
+
+### 2026-06-07 17:26:30  #其他
+
+【年內滬市新增重組290餘家次，合計金額超1300億元】2026年即將過半，滬市併購重組市場持續活躍，大體量的產業整合始終保持“熱度”。資料顯示，年初至今，滬市新增重組290餘家次，包括重大資產重組新增24家次，合計金額超1300億元。
+
+---
+
+### 2026-06-07 17:24:56  #央行 #國際
+
+以色列央行：5月購入了8.01億美元外匯，目的是“維持市場有序執行”。
+
+---
+
+### 2026-06-07 17:24:01  #央行 #國際
+
+以色列央行公佈資料：5月以色列外匯儲備規模為2386.81億美元，4月為2357.28億美元。
+
+---
+
+### 2026-06-07 17:16:29  #國際
+
+俄羅斯國防部：空中防禦系統在一天內擊落了11枚彈藥、一枚HIMARS炮彈。在過去24小時內，烏克蘭武裝部隊在特別軍事行動的各個區域損失超過1300名士兵。
+
+---
+
+### 2026-06-07 17:14:53  #國際
+
+以色列國防軍發言人：以色列中部襲擊事件發生後，以軍參謀長已研判局勢並下達後續行動指令。
+
+---
+
+### 2026-06-07 17:14:27  #MKT News
+
+RUSSIAN DEFENCE MINISTRY said its air defences shot down 11 munitions, one HIMARS rocket and 500 Ukrainian military drones in a single day, and that Ukrainian forces lost more than 1,300 soldiers across the special military operation in the past 24 hours.
+
+---
+
+### 2026-06-07 17:10:39  #國際
+
+俄羅斯國防部：過去24小時內俄羅斯擊落500架烏克蘭無人機。
+
+---
+
+### 2026-06-07 17:07:12  #國際
+
+【以色列中部發生槍擊事件 1名嫌疑人被捕】當地時間7日，以色列警方證實，以色列中部科哈夫亞伊爾地區當天發生槍擊事件，目前已有一名嫌疑人被捕。安全部隊正在全力搜捕第二名涉案嫌疑人。據警方通報，這起槍擊事件目前已造成1人死亡，至少4人受傷。據悉，此次槍擊事件發生在該地區靠近約旦河西岸安全隔離牆的三個不同地點。（央視新聞）
+
+---
+
+### 2026-06-07 17:05:27  #央行 #國際
+
+埃及央行：埃及5月外匯儲備淨額從4月的530.09億美元升至531.34億美元。
+
+---
+
+### 2026-06-07 17:05:21  #國際
+
+【俄稱美正試圖退出烏克蘭問題談判】俄羅斯總統顧問科比亞科夫6月6日在聖彼得堡國際經濟論壇閉幕新聞釋出會上表示，美國正試圖退出烏克蘭問題談判。對於近日美國眾議院透過法案對俄羅斯實施新制裁一事，科比亞科夫稱，美國國會建議加強制裁，正是因為意識到特別軍事行動的結局對俄羅斯有利。（CCTV國際時訊）
+
+---
+
+### 2026-06-07 17:05:16  #MKT News #Market Regions #Europe & UK
+
+【France, UK, Germany and Ukraine leaders to meet to discuss ending Russia-Ukraine conflict】France’s Macron, UK Prime Minister Starmer and German Chancellor Merz are due to meet Ukrainian President Zelenskiy in London on the evening of the 7th to discuss continued support for Ukraine and steps to end the Russia-Ukraine war, the Elysée said. Insiders cautioned Zelenskiy’s plans and the meeting time remain subject to change.
+
+---
+
+### 2026-06-07 17:03:58  #國際
+
+【以軍稱打死一名哈馬斯指揮官】以色列國防軍和以色列國家安全總局（辛貝特）7日發表聯合宣告說，以軍和辛貝特2日在加沙地帶打死一名曾參與2023年10月突襲以色列的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官。 以軍說，以軍和辛貝特2日在加沙地帶南部發動的精確打擊中打死哈馬斯“努赫巴”部隊指揮官薩克爾·阿布·卡里姆。以軍稱他曾在2023年10月領導哈馬斯對以色列的突襲。另有一名哈馬斯通訊員被以軍一同打死。 以軍稱將繼續在加沙地帶開展行動，消除任何“迫在眉睫的威脅”。(新華社)
+
+---
+
+### 2026-06-07 17:03:22  #焦點 #國際
+
+【法英德烏領導人將舉行會晤，討論結束俄烏衝突等問題】法國總統府愛麗捨宮日前在一份宣告中稱，法國總統馬克龍、英國首相斯塔默以及德國總理默茨7日將與烏克蘭總統澤連斯基舉行會晤，討論繼續支援烏克蘭等議題。據悉，此次會晤預計在英國倫敦舉行。澤連斯基希望歐洲國家領導人能夠加大努力，幫助結束俄烏衝突。（央視新聞）
+
+---
+
+### 2026-06-07 17:02:56  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 6月8日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月5日收盤價2.714元，參考淨值2.3197元。為保護投資者利益，基金於6月8日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月8日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
+
+---
+
+### 2026-06-07 17:02:50  #公司 #市場
+
+【納指ETF廣發：提示基金二級市場交易價格溢價風險】納指ETF廣發公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為1.6410元，收盤時基金份額參考淨值為1.5529元。若6月8日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能使投資者面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-06-07 17:02:46  #公司 #市場
+
+【納指ETF嘉實：提醒二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為2.087元，收盤時基金份額參考淨值為1.9433元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除淨值波動風險外，還受市場供求等因素影響。截至目前，基金運作正常且無應披露未披露重大資訊。
+
+---
+
+### 2026-06-07 17:02:40  #公司 #市場
+
+【納指ETF易方達：二級市場交易價格溢價 提醒投資風險】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月5日，二級市場收盤價為2.026元，收盤時基金份額參考淨值為1.9260元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施。提醒投資者關注溢價風險，審慎投資，盲目投資或遭受重大損失。
+
+---
+
+### 2026-06-07 17:00:42  #其他
+
+【廣西河池市委常委、秘書長張聯松接受審查調查】據廣西壯族自治區紀委監委訊息：廣西壯族自治區河池市委常委、秘書長張聯松涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-07 16:59:44  #焦點 #國際
+
+【巴基斯坦內政部長轉交致伊朗最高領袖特別信函】據伊朗塔斯尼姆通訊社報道，巴基斯坦內政部長納克維7日在伊朗首都德黑蘭會見伊朗外交部長阿拉格齊期間，將一封致伊朗最高領袖穆傑塔巴的特別信函轉交給阿拉格齊。（新華社）
+
+---
+
+### 2026-06-07 16:49:17  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian President Zelenskiy said Russia deliberately struck nuclear fuel storage facilities, calling the attack "extremely vile".
+
+---
+
+### 2026-06-07 16:45:53  #國際
+
+烏克蘭總統澤連斯基：俄羅斯蓄意襲擊核燃料儲存設施，此次行徑惡劣。
+
+---
+
+### 2026-06-07 16:42:13  #國際
+
+以色列警方：以色列中部襲擊事件的疑似槍擊者已被“制服”。
+
+---
+
+### 2026-06-07 16:39:47  #國際
+
+以色列總理內塔尼亞胡：槍擊事件後正在研判局勢。
+
+---
+
+### 2026-06-07 16:39:37  #MKT News
+
+Israeli Prime Minister's Office said the prime minister is monitoring developments in shootings in Kokhav Ya'ir and Tzur.
+
+---
+
+### 2026-06-07 16:38:59  #MKT News
+
+【Armenia holds parliamentary election】Armenia held parliamentary elections on the 7th, with voters choosing at least 101 MPs from 18 parties and party alliances. Voting took place at 2,005 polling stations; more than 2.48 million voters were registered. Polling ran from 08:00 to 20:00 local time. The Central Election Commission will release preliminary counts within 24 hours and final results within a week. The new parliament will elect the next prime minister.
+
+---
+
+### 2026-06-07 16:37:18  #市場
+
+【亞美尼亞舉行議會選舉】亞美尼亞國民會議（議會）選舉7日舉行，選民將從18個政黨及政黨聯盟的候選人中，投票選出至少101名議員。 本次選舉共設2005個投票站，登記選民超過248萬人。投票時間從當地時間7日8時到20時。記者在首都埃裡溫一處投票站看到，早8時開始選民陸續進入投票站投票。投票結束後24小時內，亞中央選舉委員會將公佈初步計票結果，最終結果將在投票後一週宣佈。 本次選舉選出的議會將選舉新一任總理。 共有16個政黨和2個政黨聯盟參加選舉，包括由現任總理帕什尼揚領導的公民合約黨、前總統科恰良領導的政黨聯盟“亞美尼亞聯盟”等。 亞美尼亞議會實行一院制，共設立至少101個席位，最終席位數量在選舉後確定，議員任期5年。根據修改後的選舉法，得票率達到4%的政黨才能進入議會，不超過3個政黨組成的政黨聯盟得票率需達到8%才能進入議會，4個或4個以上政黨組成的政黨聯盟得票率需達到10%才能進入議會。如果進入議會的政黨或政黨聯盟無法達到3個，席位在得票最多的3個政黨或政黨聯盟之間分配。(新華社)
+
+---
+
+### 2026-06-07 16:35:34  #國際
+
+美國國家颶風中心（NHC）表示，熱帶風暴阿曼達預計將於週日晚些時候減弱為低壓殘留。
+
+---
+
+### 2026-06-07 16:33:16  #公司 #市場 #焦點
+
+【唯特偶：在光模組及先進封裝領域的營收佔比貢獻率均不到1%】唯特偶(301319.SZ)公告回覆深交所關注函，就公司產品在光模組及先進封裝領域的應用情況、相關客戶及銷售金額等進行了說明。光模組生產過程中，錫膏主要用在四個環節：PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接、高速FPC軟板熱壓焊接、結構件/殼體接地焊接。以1.6T光模組為例：單個產品錫膏成本金額約為5-72元，金額較小；錫膏產品佔光模組產品價格比例約為0.077%-0.758%，佔比極低。在光模組生產環節中，公司主要產品可用於PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接，主要客戶為客戶十三、客戶三十四，主要產品為T7超細粉錫膏及半導體專用清洗劑，主要應用於1.6T的光模組領域。唯特偶表示，光模組及先進封裝業務市場需求和發展前景尚存在不確定性，且截至目前，公司在光模組及先進封裝領域的營收佔比貢獻率均不到1%，預計短期內不會對公司經營業績產生重大影響。公司同時提示，股價短期上漲幅度較大，可能存在市場情緒過熱和非理性炒作的風險。
+
+---
+
+### 2026-06-07 16:32:59  #宏觀 #國際
+
+【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。
 
 ---
 
@@ -21611,485 +21875,5 @@ Reserve Bank of India governor said the central bank will curb excessive volatil
 ### 2026-06-05 12:55:37  #MKT News
 
 Reserve Bank of India governor says the objective is not to resist market-driven moves.
-
----
-
-### 2026-06-05 12:55:20  #公司
-
-傑富瑞將露露檸檬（Lululemon）目標價從145美元下調至115美元。
-
----
-
-### 2026-06-05 12:55:08  #MKT News #DXY #Impact bearish
-
-Reserve Bank of India governor said India's foreign-exchange reserves are "very healthy" and that exchange-rate policy remains unchanged.
-
----
-
-### 2026-06-05 12:54:55  #國際
-
-印度儲備銀行行長：匯率政策維持不變。
-
----
-
-### 2026-06-05 12:54:55  #MKT News
-
-Reserve Bank of India governor said caps on equity investments by non-resident Indians and Overseas Citizens of India not required to register with SEBI will be raised.
-
----
-
-### 2026-06-05 12:54:44  #國際
-
-印度儲備銀行行長：將推出針對海外印度人外匯存款的新方案。出口收匯匯回期限將恢復為9個月。
-
----
-
-### 2026-06-05 12:54:02  #國際
-
-印度儲備銀行行長：將為境外借款提供優惠掉期視窗。
-
----
-
-### 2026-06-05 12:53:47  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
-
-Reserve Bank of India governor says the central bank will offer a four-month concessional FX swap facility.
-
----
-
-### 2026-06-05 12:53:36  #國際
-
-印度儲備銀行行長：非印度居民、海外印度公民投資無需印度證券交易委員會註冊的股權投資限額將上調。
-
----
-
-### 2026-06-05 12:53:19  #MKT News #Market Regions #Emerging Markets
-
-RBI governor said restrictions on short-term investments will be removed and concentration limits on foreign investment under the automatic route will be eased.
-
----
-
-### 2026-06-05 12:53:13  #MKT News
-
-Reserve Bank of India governor said the central bank will broaden the scope of forward FX securities and will issue a 40-year Indian government bond.
-
----
-
-### 2026-06-05 12:53:03  #國際
-
-印度儲備銀行行長：正取消通用渠道下外國組合投資的短期投資限額與集中度限制。
-
----
-
-### 2026-06-05 12:52:45  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) CEO Jensen Huang said he has some surprises.
-
----
-
-### 2026-06-05 12:52:22  #國際
-
-印度儲備銀行行長：將就外資流入公佈若干措施。
-
----
-
-### 2026-06-05 12:52:12  #市場 #央行 #國際
-
-【日本5月外匯儲備大降】日本財務省5日公佈的資料顯示，截至今年5月末，日本外匯儲備約為1.31萬億美元，較4月末下降5.6%，為有可比資料以來最大月度降幅。截至5月末，日本外匯儲備較4月末減少了約771億美元，減少金額同樣創下有記錄以來的最高水平。資料顯示，包括美國國債在內的證券持有量下降是日本外匯儲備減少的主要原因。截至5月末，日本外匯儲備中的證券資產約為9316.8億美元，較4月末減少7.5%。分析人士認為，日本外匯儲備大幅下降既反映了日本政府幹預外匯市場對外匯儲備的消耗，也受到美國長期利率上升導致債券資產估值下滑的影響。日本財務省此前公佈的資料顯示，4月28日至5月27日期間，日本政府與日本央行實施的外匯干預規模累計達11.73萬億日元（約合738億美元）。（新華社）
-
----
-
-### 2026-06-05 12:51:23  #宏觀 #國際
-
-印度儲備銀行行長：近幾個月出臺的多項政策舉措預計將強化國際收支狀況。
-
----
-
-### 2026-06-05 12:51:12  #央行 #國際
-
-【印度央行維持關鍵利率不變 顯示不肯借升息提振盧比】印度央行維持利率不變，符合大多數經濟學家的預期，政策制定者希望在保持盧比匯率穩定的同時，為經濟提供緩衝。由六名成員組成的貨幣政策委員會一致同意將基準回購利率維持在5.25%不變，這與媒體調查35位經濟學家中的29位預測一致。政策立場仍維持中性。儘管中東衝突持續蔓延，能源價格衝擊引發通脹風險上升，印度央行的這一決定凸顯了支撐經濟增長的一決心。由於通脹率已接近印度央行4%的目標，經濟學家預計央行未來幾個月可能會加息。“印度經濟在進入此次全球動盪時期時，其基本面遠比以往類似時期要好得多。”行長Sanjay Malhotra在電視講話中說，“我們仍然有信心以最小的痛苦承受這些衝擊。”週五的決定顯示，印度央行可能不願提高利率來提振盧比。盧比上個月跌至接近97的創紀錄低位。政府反而考慮其他措施，例如降低外國投資政府債券的稅收，以幫助促進資金流入和提振貨幣。
-
----
-
-### 2026-06-05 12:50:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said three memory manufacturers have qualified to supply HBM4.
-
----
-
-### 2026-06-05 12:50:36  #國際
-
-印度儲備銀行行長：截至5月29日，印度外匯儲備規模為6823億美元。
-
----
-
-### 2026-06-05 12:50:32  #MKT News
-
-Reserve Bank of India governor said the RBI expects core CPI inflation this year to be 4.7%.
-
----
-
-### 2026-06-05 12:50:17  #MKT News
-
-Reserve Bank of India governor said strong foreign direct investment (FDI) inflows and higher net FDI underscore investor interest in India.
-
----
-
-### 2026-06-05 12:50:08  #MKT News #Macro & Rates
-
-RESERVE BANK OF INDIA governor raises this year’s CPI inflation projection to 5.1%.
-
----
-
-### 2026-06-05 12:49:44  #國際
-
-印度儲備銀行行長：能源價格飆升、貿易政策不確定性給印度2027財年經常賬戶赤字帶來上行風險。
-
----
-
-### 2026-06-05 12:49:38  #MKT News #Market Regions #Emerging Markets
-
-Reserve Bank of India governor expects real GDP growth of 6.8% in Q4 of fiscal 2027.
-
----
-
-### 2026-06-05 12:49:16  #公司
-
-英偉達執行長黃仁勳：三家記憶體製造商都已獲得供應HBM4的資格。
-
----
-
-### 2026-06-05 12:48:38  #國際
-
-印度儲備銀行行長：銀行業體系層面指標執行穩健。
-
----
-
-### 2026-06-05 12:48:35  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said robotics will become South Korea's next major industry.
-
----
-
-### 2026-06-05 12:47:41  #公司 #國際
-
-英偉達執行長：機器人產業將是韓國下一個核心領域。
-
----
-
-### 2026-06-05 12:46:51  #國際
-
-印度儲備銀行行長：預計政府現金餘額提取、季風季貨幣回籠將在短期內改善流動性狀況。
-
----
-
-### 2026-06-05 12:46:43  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA (NVDA.O) CEO Jensen Huang said robotics technology can be applied to South Korea's industrial sector.
-
----
-
-### 2026-06-05 12:46:35  #公司 #國際
-
-英偉達執行長：可將機器人技術應用於韓國工業。
-
----
-
-### 2026-06-05 12:46:29  #宏觀 #國際
-
-印度儲備銀行行長：印度儲備銀行已主動出臺長期性及臨時性流動性措施。
-
----
-
-### 2026-06-05 12:46:12  #國際
-
-印度儲備銀行將2027財年印度通脹預期上調至5.1%，同時將GDP預期下調至6.6%。
-
----
-
-### 2026-06-05 12:46:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said chip manufacturing will become more automated.
-
----
-
-### 2026-06-05 12:45:55  #公司
-
-英偉達執行長：晶片製造業自動化程度將進一步提升。
-
----
-
-### 2026-06-05 12:45:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA (NVDA.O) CEO Jensen Huang said the company will begin hiring staff for an R&D center in South Korea.
-
----
-
-### 2026-06-05 12:45:36  #公司 #國際
-
-英偉達執行長：將在韓國研發中心啟動招聘工作。
-
----
-
-### 2026-06-05 12:45:05  #公司
-
-【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
-
----
-
-### 2026-06-05 12:44:52  #央行 #國際
-
-印度央行行長：2027財年消費者物價指數通脹預期為5.1%（此前預期為4.6%）。
-
----
-
-### 2026-06-05 12:44:51  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said the company will use memory supply as intelligently as possible.
-
----
-
-### 2026-06-05 12:44:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Reserve Bank of India governor says average oil prices will be significantly higher than assumed in the previous policy.
-
----
-
-### 2026-06-05 12:44:21  #資料 #市場 #央行 #國際
-
-【卓創資訊：5月白銀衝高回落，後市關注美聯儲利率決議與美伊談判】5月以來白銀衝高回落，重心窄幅下探。截至6月4日，國內現貨1#白銀報價17711元/千克，相較5月初累計下跌4.41%。5月初美伊釋放和談訊號，疊加主要資源國秘魯開啟能源緊急法令使市場擔憂礦端產出，白銀價格震盪上漲，但隨著主要消費國印度提升白銀進口關稅、美聯儲鴿派票委米蘭辭職以及美伊在關鍵問題上僵持，市場交易加息預期，白銀承壓為主。後市來看，宏觀邏輯仍在於美聯儲利率決議和美伊談判，國內庫存目前水位較高，消費略偏疲軟未能提供基本面支撐，短期關注美國5月非農就業報告和CPI資料，預計白銀價格短期難有明顯方向性。（卓創資訊）
-
----
-
-### 2026-06-05 12:44:11  #公司
-
-英偉達執行長：我們將儘可能高效靈活地調配記憶體供應。
-
----
-
-### 2026-06-05 12:43:54  #MKT News #Commodities #Energy
-
-Reserve Bank of India governor said India's crude oil price averaged $110 a barrel over the past two months.
-
----
-
-### 2026-06-05 12:43:53  #國際
-
-印度儲備銀行行長：平均油價將大幅高於上一次貨幣政策制定時的預期水平。
-
----
-
-### 2026-06-05 12:43:47  #MKT News #Commodities #Precious Metals
-
-The Reserve Bank of India governor said CPI inflation in March and April was below target. Core inflation remained stable; core inflation excluding precious metals declined sharply over the period.
-
----
-
-### 2026-06-05 12:43:40  #國際
-
-印度儲備銀行行長：過去兩個月，印度原油籃子的平均油價為每桶110美元。
-
----
-
-### 2026-06-05 12:43:25  #國際
-
-英偉達黃仁勳：我為韓國帶來了大量業務。將與韓國合作伙伴討論如何協調供應鏈。
-
----
-
-### 2026-06-05 12:42:54  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) CEO Jensen Huang said he plans to meet with Hyundai, Samsung and SK Group.
-
----
-
-### 2026-06-05 12:42:47  #國際
-
-印度儲備銀行行長：3月和4月整體消費者物價指數通脹低於目標水平。
-
----
-
-### 2026-06-05 12:42:36  #公司
-
-英偉達執行長：計劃與現代、三星、SK集團會面。
-
----
-
-### 2026-06-05 12:42:20  #MKT News #Star Stocks #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang said he has brought a lot of business to South Korea.
-
----
-
-### 2026-06-05 12:42:17  #國際
-
-印度儲備銀行行長：預計27財年第二季度實際國內生產總值增速為6.3%（此前預測為6.7%）。
-
----
-
-### 2026-06-05 12:42:14  #MKT News
-
-【Hebei launches Level-3 emergency response for major meteorological disaster (heavy rain)】Hebei province activated a Level-3 emergency response for a major meteorological disaster (heavy rain) at 10:00 today, the provincial emergency management department said. Authorities ordered departments to closely monitor heavy rain from this evening through the 6th, step up risk assessment and safety-hazard inspections, and timely activate higher-level heavy-rain emergency responses as needed.
-
----
-
-### 2026-06-05 12:42:11  #MKT News
-
-Reserve Bank of India governor says rate decisions will remain data-dependent.
-
----
-
-### 2026-06-05 12:42:08  #國際
-
-印度儲備銀行行長：預計27財年第一季度實際國內生產總值增長率為6.6%，此前預期為6.8%。
-
----
-
-### 2026-06-05 12:41:58  #國際
-
-印度儲備銀行行長：2027財年實際GDP增速預期為6.6%，此前預期為6.9%。
-
----
-
-### 2026-06-05 12:41:33  #國際
-
-印度儲備銀行行長：全球需求疲弱、物流成本高企是商品出口面臨的逆風。 預計服務出口將保持增長動能。
-
----
-
-### 2026-06-05 12:41:15  #公司
-
-英偉達執行長黃仁勳：人工智慧的建設投入正在加速。
-
----
-
-### 2026-06-05 12:41:09  #市場 #國際
-
-印度儲備銀行行長：成本上漲、不確定性或削弱投資者情緒。
-
----
-
-### 2026-06-05 12:41:07  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-NVIDIA (NVDA.O) CEO Jensen Huang said AI build-out is accelerating.
-
----
-
-### 2026-06-05 12:41:00  #國際
-
-印度豁免國際清算銀行政府證券利息、出售、兌換或轉讓的資本利得稅。
-
----
-
-### 2026-06-05 12:40:40  #公司 #觀點
-
-摩根大通將特斯拉評級從“減持”上調至“中性”，目標價為 475 美元。
-
----
-
-### 2026-06-05 12:40:28  #國際
-
-印度儲備銀行行長：通脹上升可能會拖累家庭購買力。
-
----
-
-### 2026-06-05 12:40:22  #市場 #國際
-
-印度儲備銀行維持回購利率與政策立場不變後，印度隔夜指數互換利率走低；一年期互換下跌4個基點，至6.08%。
-
----
-
-### 2026-06-05 12:39:59  #國際
-
-印度儲備銀行行長：季風降水預計不足，將對農村需求產生影響。
-
----
-
-### 2026-06-05 12:39:57  #MKT News #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY
-
-Reserve Bank of India governor said rising energy prices and supply disruptions will weigh on economic activity; the duration of the geopolitical conflict will determine the full impact.
-
----
-
-### 2026-06-05 12:39:51  #市場 #國際
-
-印度儲備銀行行長：能源價格上漲對零售產品的傳導效應正逐步顯現。
-
----
-
-### 2026-06-05 12:39:38  #國際
-
-印度儲備銀行行長：（地緣衝突帶來影響的）全部影響將取決於衝突持續時長。
-
----
-
-### 2026-06-05 12:39:16  #市場 #國際
-
-印度儲備銀行行長：能源價格上漲、供應鏈中斷將對經濟活動造成拖累。
-
----
-
-### 2026-06-05 12:39:09  #其他
-
-【上海開展“清朗·整治AI應用亂象”專項行動】為規範AI服務和應用，促進行業健康有序發展，保障公民合法權益，根據中央網信辦統一部署，上海網信辦結合屬地實際，積極組織開展為期4個月的“清朗·整治AI應用亂象”專項行動。本次專項行動分兩個階段開展。第一階段為“清朗·AI應用服務典型違規問題”專項治理行動，重點整治未按規定履行大模型備案登記義務、安全稽核能力不足、大模型訓練語料安全、AI資料投毒、生成合成內容標識落實不到位等問題，強化AI技術源頭治理。第二階段為“清朗·整治AI資訊內容亂象”專項行動，聚焦利用AI技術生成“數字泔水”、製作釋出虛假資訊、散播暴力低俗等不良資訊、假冒仿冒他人、侵害未成年人權益、從事網路水軍活動等問題，堅決清理違法不良資訊，依法處置處罰違規賬號、MCN機構和網站平臺。
-
----
-
-### 2026-06-05 12:38:59  #公司
-
-【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。
-
----
-
-### 2026-06-05 12:38:46  #國際
-
-印度儲備銀行行長：服務出口表現強勁。
-
----
-
-### 2026-06-05 12:38:41  #國際
-
-印度豁免外國機構投資者政府債券利息的資本利得稅。
-
----
-
-### 2026-06-05 12:38:32  #國際
-
-印度儲備銀行行長：企業預期仍偏正面。
-
----
-
-### 2026-06-05 12:38:26  #市場 #國際
-
-印度Nifty金融服務指數上漲1%，此前印度儲備銀行維持關鍵利率不變。
-
----
-
-### 2026-06-05 12:37:42  #Trading Economics #Economy #India #Interest Rate #Importance 3
-
-India Holds Rates, Revises Down FY26/27 GDP Forecasts — The Reserve Bank of India (RBI) kept its key repo rate unchanged at 5.25% for the third consecutive meeting in June and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the conflict in the Middle East threatened GDP growth and fueled inflationary pressures. On the economic outlook, the RBI lowered its GDP growth forecast for FY2026/27 to 6.6%, down from its earlier estimate of 6.9%. For the first quarter of the fiscal year, GDP is projected to grow by 6.6%, while growth is forecast at 6.3% in the second quarter and 6.5% and 6.8% in Q3 and Q4, respectively. Meanwhile, inflation is projected to average 5.1%, up from the earlier estimate of 4.6%, mainly driven by higher LPG, base metal, plastic, and rubber prices. Inflation is forecast at 4.2% in Q1, 5.1% in Q2, 5.9% in Q3, and 5.9% in Q4.
-
----
-
-### 2026-06-05 12:37:19  #國際
-
-印度儲備銀行行長：（貨幣政策）將繼續基於資料做出判斷。
-
----
-
-### 2026-06-05 12:37:15  #國際
-
-印度修訂所得稅法，自2026年4月1日起生效。
-
----
-
-### 2026-06-05 12:36:54  #國際
-
-印度儲備銀行行長：等待更為明確的形勢出現再行動是審慎之舉。
-
----
-
-### 2026-06-05 12:36:52  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Holds Gains on BOJ Hike Bets — Japan’s 10-year government bond yield hovered around 2.66% on Friday, maintaining its recent advance as investors continued to bet that the Bank of Japan will raise interest rates later this month. On Wednesday, Bank of Japan Governor Kazuo Ueda said the central bank should carefully assess the costs and benefits of higher rates if inflation risks begin to outweigh downside risks to economic growth. Policymakers are also contending with mounting inflationary pressures stemming from higher energy prices linked to the Middle East conflict. Markets are currently pricing in roughly an 80% probability of a rate hike at the BOJ’s June 16 policy meeting. Supporting the hawkish outlook, data released on Friday showed Japan’s real wages rose 1.9% in April, marking a fourth straight month of growth and reinforcing expectations for further policy tightening.
 
 ---
