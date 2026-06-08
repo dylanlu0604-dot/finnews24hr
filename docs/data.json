@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-08 19:07:14",
-  "count": 19309,
+  "updated": "2026-06-08 19:11:19",
+  "count": 19301,
   "items": [
+    {
+      "id": "te:markets:557275",
+      "time": "2026-06-08 19:10:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Halts Pullback from Record — Copper futures in the US were above $6.3 per pound, halting the slide from the record high of $6.6 touched on June 2nd as supply risks from the war in the Middle East toggled against the macroeconomic headwinds stemmed by the conflict. The first exchange of strikes between Iran and Israel since their fragile ceasefire dimmed expectations of a broader deal between Tehran and the US. The prolonged conflict has halted exports of sulfur and sulfuric acid from key GCC producers, which in turn have driven China to halt their exports of the commodities and triggered shortages in major copper producer Chile. Tight supply of sulfuric acid limits copper refining capacity, challenging Codelco's ongoing campaign to reduce operating costs. Meanwhile, macroeconomic pressure on manufacturers due to the war limited the increase in prices. These were also capped by expectations of a hawkish Federal Reserve following the release of robust jobs numbers in the US, strengthening the dollar."
+    },
+    {
+      "id": "4923981",
+      "time": "2026-06-08 19:10:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳新科技：擬收購德恆裝備51%股權，交易價格5億元】銳新科技公告，擬透過發行股份及支付現金的方式購買德恆裝備51%股權，交易價格5億元。以2025年12月31日為基準日，收益法評估德恆裝備股東全部權益價值9.8億元，增值率140.99%。本次發行股份購買資產的股票發行價格為18.08元/股，發行數量1505.23萬股。同時，公司擬向包括控股股東開投領盾在內的不超過35名特定物件發行股份募集配套資金不超過2.48億元，用於支付本次交易的現金對價及中介機構費用等。本次交易完成後，上市公司2025年度歸屬於母公司股東淨利潤備考資料將由3259.77萬元增至7108.26萬元，基本每股收益由0.20元提升至0.37元。本次交易尚需經黃山市國資委備案、國資監管機構批准、股東會審議、深交所稽核及中國證監會註冊等程式。"
+    },
+    {
+      "id": "4923980",
+      "time": "2026-06-08 19:10:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST華聞：公司訴林廣茂股權轉讓糾紛案一審判決】*ST華聞公告，公司訴林廣茂股權轉讓糾紛案一審判決。海口中院判決林廣茂返還股權轉讓款5000萬元及資金使用費1204.38萬元，支付逾期付款違約金（計算方法：以62,043,835.62元為基數，自2023年11月14日起至債務實際清償之日止，按每日萬分之二計算），支付律師服務費50000元及保函保險費23340元。華聞集團對林廣茂質押的江蘇隨易資訊科技有限公司6.42%股權的折價或者拍賣、變賣所得價款在林廣茂欠付的上述債務範圍內享有優先受償權。駁回華聞集團的其他訴訟請求及林廣茂的全部反訴請求。"
+    },
+    {
+      "id": "4923979",
+      "time": "2026-06-08 19:09:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國金融行為監管局（FCA）：計劃保留目前最低流動性緩衝要求（DLA，即衍生品清算規則下的違約流動性要求），不計劃就流動性緩衝水平出臺新指引。"
+    },
+    {
+      "id": "4923978",
+      "time": "2026-06-08 19:08:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：為滿足新規，淨值穩定型貨幣市場基金需持有 40% 的短期高流動性資產，浮動淨值型貨幣市場基金需持有 20% 的短期高流動性資產。"
+    },
+    {
+      "id": "mkt:019ea6eb-5bb5-799c-b56f-b75b89307d17",
+      "time": "2026-06-08 19:08:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The UK Financial Conduct Authority plans to introduce a new regulation requiring all money market funds to hold sufficient liquidity to ensure adequate resilience."
+    },
+    {
+      "id": "4923977",
+      "time": "2026-06-08 19:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）：正擬定新規，要求所有貨幣市場基金持有充足流動性以提升韌性。"
+    },
+    {
+      "id": "4923976",
+      "time": "2026-06-08 19:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）：打算將英國貨幣市場基金監管條例（UK MMFR）中規定的現行最低流動資產要求保留在監管規則中。"
+    },
+    {
+      "id": "4923975",
+      "time": "2026-06-08 19:06:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大集團：首次回購0.26%公司股份，成交總金額為996.46萬元】方大集團公告，2026年6月8日，公司首次透過股票回購專用證券賬戶以集中競價交易方式回購公司股份281萬股，佔公司總股本的0.26%，最高成交價為3.59元/股，最低成交價為3.51元/股，成交總金額為996.46萬元（不含交易費用）。"
+    },
     {
       "id": "4923974",
       "time": "2026-06-08 19:06:26",
@@ -177874,154 +177951,6 @@
         "國際"
       ],
       "text": "巴西移民和難民委員會宣佈已完成美國司法部協議下的義務。"
-    },
-    {
-      "id": "4910597",
-      "time": "2026-06-01 19:11:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月份供水量同比增長6.6%。"
-    },
-    {
-      "id": "4910596",
-      "time": "2026-06-01 19:10:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哈薩克央行表示，其5月賣出了價值3540億堅戈的外匯，以對沖購金操作；6月將繼續賣出價值3540億堅戈的外匯。"
-    },
-    {
-      "id": "4910595",
-      "time": "2026-06-01 19:10:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哈薩克央行表示，計劃6月從國家基金中拋售至多3億美元。"
-    },
-    {
-      "id": "4910594",
-      "time": "2026-06-01 19:10:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月份電力和天然氣產量同比增長4.9%。"
-    },
-    {
-      "id": "4910593",
-      "time": "2026-06-01 19:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鴻海、Radiall及Thales宣佈成立Tessalia合資公司，目標年產5千萬顆電子零元件】法國時間6月1日，鴻海、Radiall與Thales在法國新阿基坦大區（Nouvelle-Aquitaine）勒巴爾普（LeBarp）共同為合資公司舉行動土典禮。三方合資公司Tessalia Technology SAS，預計於2029年底開始投產，未來將專注於半導體封測業務（OSAT），目標在2033年前，每年生產超過5000萬顆系統級封裝元件。"
-    },
-    {
-      "id": "4910592",
-      "time": "2026-06-01 19:10:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "印度國家礦產開發公司（NMDC）2026年5月鐵礦石總產量為531萬噸，2025年5月總產量為443萬噸。"
-    },
-    {
-      "id": "mkt:019e82e0-4bdf-7112-8c8e-4a39d9b36b2c",
-      "time": "2026-06-01 19:09:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Russia calls French seizure of tanker \"near piracy\"; France says interception complied with maritime law】Russian presidential press secretary Peskov on June 1 called France's seizure of a Russian oil tanker illegal and \"near piracy\", saying Moscow \"does not accept\" Paris' claim the action complied with maritime law and that Russia is taking multiple measures to secure cargo. President Macron said on social media France's navy intercepted a tanker departing Russia in the Atlantic on May 31 in international waters, with cooperation from the UK and other partners, and that the operation strictly complied with relevant maritime law. RIA cited the Russian embassy in France as saying Paris did not notify Moscow before the operation."
-    },
-    {
-      "id": "4910591",
-      "time": "2026-06-01 19:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【清理違規影片8000餘條 5月“AI魔改”影片專項治理成果公佈】記者今天從國家廣播電視總局獲悉，按照工作部署，2026年1月開展的“AI魔改”影片專項治理工作已取得實效。為進一步鞏固治理成果，自2月1日起，“AI魔改”影片治理工作透過常態化、制度化長效機制持續開展。廣電總局督導各主要網路視聽平臺進一步深化落實主體責任，加強日常排查，重點清理基於四大名著、歷史題材、革命題材、英模人物等經典影視作品進行“AI魔改”的違規影片，並同步清理各類邪典動畫，持續營造健康的網路視聽生態環境。部分重點網路視聽平臺公佈了5月的處置情況，共清理違規影片8000餘條、處置違規賬號20餘個。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e82df-bcc2-7112-8c8e-478f420ad0ba",
-      "time": "2026-06-01 19:09:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India industrial production rose 4.9% YoY in April, versus a market estimate of 3.9%."
-    },
-    {
-      "id": "4910590",
-      "time": "2026-06-01 19:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書說法國扣押俄油輪“近乎國際海盜行徑”】俄羅斯總統新聞秘書佩斯科夫1日說，法國軍方扣押俄羅斯油輪是非法的，這樣的行為“近乎國際海盜行徑”。 佩斯科夫在新聞釋出會上說，法方宣稱此次行動嚴格遵守海洋領域相關國際法，俄方對此“絕不認同”。俄羅斯正多措並舉保障貨物安全。 法國總統馬克龍1日在社交媒體發文說，法國海軍5月31日在大西洋海域攔截了一艘從俄羅斯駛出的油輪。他說，上述行動在國際海域進行，獲得英國等多個夥伴國家配合，行動嚴格遵守海洋領域相關國際法。 俄新社援引俄羅斯駐法國大使館訊息報道說，法國實施扣船行動前未向俄方通報。(新華社)"
-    },
-    {
-      "id": "4910589",
-      "time": "2026-06-01 19:08:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月工業生產同比增長4.9%；預計+3.9%。"
-    },
-    {
-      "id": "4910588",
-      "time": "2026-06-01 19:08:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶市國資委與中化學生態環境有限公司舉行工作座談會】據“重慶國資”訊息，6月1日下午，重慶市國資委與中化學生態環境有限公司舉行工作座談會，雙方圍繞生態環境領域固廢處理、汙染治理、生態修復及綠色發展，服務成渝地區雙城經濟圈建設、長江經濟帶高質量發展等重大戰略，深化央地合作、加強協同聯動、共同助力重慶高質量發展等內容開展深入交流。"
-    },
-    {
-      "id": "4910587",
-      "time": "2026-06-01 19:08:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST顧地：股票交易異常波動 不存在應披露未披露事項】*ST顧地公告稱，公司股票於2026年5月28日、5月29日、6月1日連續3個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司前期披露資訊無需更正、補充，未發現公共傳媒報道未公開重大資訊，經營及內外部環境未變，公司、控股股東和實控人不存在應披露未披露事項，實控人在異常波動期間未買賣公司股票。公司提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "4910586",
-      "time": "2026-06-01 19:08:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指ETF國泰(513100)將於2026年6月2日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:019e82de-69c4-7112-8c8e-3890b4f25467",
-      "time": "2026-06-01 19:07:54",
-      "tags": [
-        "MKT News",
-        "SPCE.O",
-        "Impact bullish"
-      ],
-      "text": "Virgin Galactic shares rose 22% in pre-market trading."
-    },
-    {
-      "id": "4910585",
-      "time": "2026-06-01 19:07:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長最新涉華表態：俄中關係是全球事務中主要穩定因素】據塔斯社6月1日報道，俄羅斯外長拉夫羅夫向中俄智庫高階論壇致辭時表示，俄中關係是全球事務中的主要穩定因素。“如今，基於共同利益以及在處理全球問題上的相近立場，俄中關係成為全球事務中主要穩定因素”，拉夫羅夫還表示，俄中在多邊場合開展了高效合作。俄羅斯和中國和志同道合的夥伴一道，為在歐亞大陸建立平等、不可分割的安全與合作空間作出了重要貢獻。（環球網）"
-    },
-    {
-      "id": "4910584",
-      "time": "2026-06-01 19:07:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀾起科技：控股子公司橫琴公司擬增資擴股引入雲鋒基金】瀾起科技(688008.SH)公告稱，公司控股子公司橫琴公司擬增資擴股，註冊資本由1.435億元增至1.657億元，新增註冊資本2220萬元，增資方合計出資4.995億元。其中，公司出資2.4975億元認購1110萬元註冊資本，新投資方海南雲鋒基金中心出資5175萬元認購230萬元註冊資本，YFHestiaIILimited出資等值1.98億元的美元認購880萬元註冊資本。增資後，公司持股比例由44.88%升至45.56%，橫琴公司仍為控股子公司。本次交易構成關聯交易，尚需提交股東會審議。橫琴公司是一家晶片設計企業，主要從事CXL MXC、PCIe Switch晶片等新產品的研發和產業化，目前處於研發投入階段。"
     }
   ]
 }
