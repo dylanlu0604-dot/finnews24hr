@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-08 09:16:59",
-  "count": 19228,
+  "updated": "2026-06-08 09:20:51",
+  "count": 19233,
   "items": [
+    {
+      "id": "4922591",
+      "time": "2026-06-08 09:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：韓國石油供應已基本穩定。"
+    },
+    {
+      "id": "4922590",
+      "time": "2026-06-08 09:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓薩蘭甘尼以南 11 公里處發生 5.8 級地震。"
+    },
+    {
+      "id": "4922589",
+      "time": "2026-06-08 09:19:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛景微等在上海成立汽車科技公司】企查查APP顯示，近日，盛景汽車科技（上海）有限公司成立，註冊資本1000萬元，經營範圍包含：汽車銷售；新能源汽車整車銷售；機械零件、零部件銷售；汽車零部件研發等。企查查股權穿透顯示，該公司由盛景微等共同持股。"
+    },
+    {
+      "id": "4922588",
+      "time": "2026-06-08 09:19:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌6%，現報434.10元。"
+    },
+    {
+      "id": "4922587",
+      "time": "2026-06-08 09:18:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率上行5個基點。"
+    },
+    {
+      "id": "4922586",
+      "time": "2026-06-08 09:18:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌9%，現報16172.00元。"
+    },
+    {
+      "id": "4922585",
+      "time": "2026-06-08 09:18:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價上漲，5年期美國國債收益率進一步上漲5個基點。"
+    },
+    {
+      "id": "4922584",
+      "time": "2026-06-08 09:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：將決定如何最有效地運用晶片產業所產生的盈餘稅收。"
+    },
+    {
+      "id": "4922583",
+      "time": "2026-06-08 09:17:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精智達成立新公司，含積體電路晶片業務】企查查APP顯示，近日，上海精智達技術有限公司成立，註冊資本5000萬元，經營範圍包含：積體電路設計；積體電路晶片設計及服務；機械裝置研發；電子專用材料研發；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由精智達全資持股。"
+    },
+    {
+      "id": "4922582",
+      "time": "2026-06-08 09:17:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上一交易日ETF兩市融資融券餘額1112.50億元】截至6月5日，ETF兩市融資融券餘額1112.50億元，分型別來看，股票型ETF兩融餘額609.32億元，債券型ETF兩融餘額85.67億元，商品型ETF兩融餘額136.51億元，QDII型ETF兩融餘額281.01億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為64.61億元、41.67億元、38.38億元。"
+    },
+    {
+      "id": "te:economy:557065",
+      "time": "2026-06-08 09:16:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Fiji",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Fiji Inflation Hits Near 2-Year High of 3.9% — Fiji's annual inflation accelerated to 3.9% in May 2026 from 1.8% in April, marking the highest rate since July 2024, boosted by higher fuel prices amid rising oil prices. The acceleration was mainly driven by a sharp rise in transport prices (7.5% vs 1.1% in April), the highest since July 2024. Food inflation accelerated to 3.0%, the highest since January 2025, while housing prices rebounded (1.5% vs -0.8%), recording the fastest increase since September 2024. Meanwhile, inflation moderated in both alcoholic beverages and tobacco (12.5% vs 12.9%) and miscellaneous goods and services (2.9% vs 3.2%), while remaining steady for education (at 0.4%). By contrast, prices continued to fall for clothing and footwear (-1.2% vs -1.2%), recreation and culture (-2.8% vs -3.2%), and furnishings, household equipment, and routine household maintenance (-1.1% vs -1.0%). Monthly, CPI climbed 1.6% in May, easing from a 2.1% gain in April, which had marked the fastest increase since August 2023."
+    },
+    {
+      "id": "4922581",
+      "time": "2026-06-08 09:16:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌超1%。"
+    },
+    {
+      "id": "mkt:019ea4cd-a30e-7338-95ae-7b09093b814d",
+      "time": "2026-06-08 09:16:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1%."
+    },
+    {
+      "id": "mkt:019ea4cd-a231-7338-95ae-77b85d063cb5",
+      "time": "2026-06-08 09:16:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE said he will decide how best to deploy surplus tax receipts from the chip industry."
+    },
     {
       "id": "mkt:019ea4cd-133a-7338-95ae-686e095f97f0",
       "time": "2026-06-08 09:15:51",
@@ -177372,88 +177499,6 @@
         "HSTECH"
       ],
       "text": "Hong Kong shares opened mixed: the HSI fell 0.01% while the Hang Seng Tech Index rose 0.22%. Sunny Optical (02382.HK) gained 3.58% and Meituan (03690.HK) gained 2.38% at the open."
-    },
-    {
-      "id": "4909320",
-      "time": "2026-06-01 09:20:41",
-      "tags": [
-        "央行",
-        "焦點"
-      ],
-      "text": "中國央行：今日開展110億元7天逆回購操作，投標量110億元，中標量110億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e80c4-cca9-766e-87ae-9764dc8ef75d",
-      "time": "2026-06-01 09:20:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo today totalling 11 bln yuan; bid volume 11 bln yuan, allotment 11 bln yuan, rate 1.40%, unchanged."
-    },
-    {
-      "id": "4909319",
-      "time": "2026-06-01 09:20:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團市值盤中超過豐田汽車。"
-    },
-    {
-      "id": "mkt:019e80c4-7fb4-766e-87ae-8f77b7b775f4",
-      "time": "2026-06-01 09:20:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Kashkari said he will remain in a wait-and-see stance until more data arrives."
-    },
-    {
-      "id": "4909318",
-      "time": "2026-06-01 09:19:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：在獲取更多資料前將採取觀望態度。"
-    },
-    {
-      "id": "4909317",
-      "time": "2026-06-01 09:18:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行執委Schnabel：不認為歐元區通脹率會達到兩位數。"
-    },
-    {
-      "id": "4909316",
-      "time": "2026-06-01 09:17:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部部長李樂成：有序推進未來產業先導區建設，引導各地因地制宜、錯位發展】工業和資訊化部部長李樂成在人民日報撰文指出，加大統籌謀劃和前瞻佈局。堅持全國一盤棋，提升未來產業戰略定位，加強部門協同，形成政策合力。聚焦“十五五”時期主攻方向，健全技術預見預測和調查機制，加強多元技術路線探索。綜合考量國家戰略需求、技術成熟程度、要素支撐條件，科學做好未來產業前瞻佈局。有序推進未來產業先導區建設，立足區域資源稟賦，引導各地因地制宜、錯位發展。"
-    },
-    {
-      "id": "4909315",
-      "time": "2026-06-01 09:17:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上一交易日ETF兩市融資融券餘額1125.05億元】截至5月29日，ETF兩市融資融券餘額1125.05億元，分型別來看，股票型ETF兩融餘額622.18億元，債券型ETF兩融餘額82.88億元，商品型ETF兩融餘額137.18億元，QDII型ETF兩融餘額282.80億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為64.40億元、41.82億元、38.97億元。"
-    },
-    {
-      "id": "4909314",
-      "time": "2026-06-01 09:17:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MiniMax推出MiniMax M3模型】MINIMAX-W(00100.HK)宣佈推出MiniMaxM3模型，公告表示“MiniMaxM3在程式設計和智慧體等專業任務上達到了前沿的能力。它使用了提出的全新注意力架構MSA(MiniMaxSparseAttention)，最高支援1M超長上下文。如外界所期待的那樣，它也是一個原生多模態模型,支援圖片和影片的輸入，並能操作電腦桌面。這三種能力是海外閉源前沿模型所必須擁有的。M3是國內第一個齊備這些要素的模型，也是目前唯一的開源模型。”"
     }
   ]
 }
