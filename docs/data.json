@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-08 21:32:05",
-  "count": 19200,
+  "updated": "2026-06-08 21:36:05",
+  "count": 19194,
   "items": [
+    {
+      "id": "4924280",
+      "time": "2026-06-08 21:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認滙豐環球貨幣基金-港幣基金評級為“AAAMMF”。"
+    },
+    {
+      "id": "4924279",
+      "time": "2026-06-08 21:33:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "探戈醫療股價上漲 41.9%，其胰腺癌聯合用藥在臨床試驗中展現出良好前景。"
+    },
+    {
+      "id": "te:markets:557313",
+      "time": "2026-06-08 21:32:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuit Stock Price Hits Near 6-year Low — Intuit shares decreased to 293.62 USD, the lowest since July 2020. Over the past 4 weeks, Intuit lost 23.77%, and in the last 12 months, it decreased 61.61%."
+    },
+    {
+      "id": "4924278",
+      "time": "2026-06-08 21:32:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數開盤漲逾5%，英特爾(INTC.O)領漲，美光科技(MU.O)漲9.6%，阿斯麥(ASML.O)漲5.1%，應用材料(AMAT.O)漲5%。"
+    },
+    {
+      "id": "mkt:019ea76f-5fa8-7226-8cb5-a1878b5c50ad",
+      "time": "2026-06-08 21:32:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "MU.O",
+        "ASML.O"
+      ],
+      "text": "Philadelphia Semiconductor Index opened more than 5% higher, led by Intel (INTC.O). Micron Technology (MU.O) rose 9.6%; ASML (ASML.O) gained 5.1%; Applied Materials (AMAT.O) climbed 5%."
+    },
+    {
+      "id": "4924277",
+      "time": "2026-06-08 21:32:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "MARVELL TECHNOLOGY股價上漲10%，FLEX股價上漲4.5%。"
+    },
+    {
+      "id": "4924276",
+      "time": "2026-06-08 21:32:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博與DirectBooks宣佈達成合作，將為共同客戶提供一級債券市場自動化工作流程。"
+    },
+    {
+      "id": "4924275",
+      "time": "2026-06-08 21:31:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "NURIX股價飆升15%，創下12月以來最大單日漲幅，此前該公司與羅氏達成協議。"
+    },
+    {
+      "id": "4924274",
+      "time": "2026-06-08 21:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾股價在谷歌TPU訂單訊息公佈後飆升12%。"
+    },
+    {
+      "id": "mkt:019ea76e-b49b-7226-8cb5-990f9b631cd9",
+      "time": "2026-06-08 21:31:42",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On Monday, June 8, the Dow Jones Industrial Average opened up 237.28 points (+0.47%) at 51,104.06; the S&P 500 opened up 71.34 points (+0.97%) at 7,455.08; the Nasdaq Composite opened up 390.62 points (+1.52%) at 26,100.06."
+    },
+    {
+      "id": "4924273",
+      "time": "2026-06-08 21:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃亞金融股價上漲2.4%，此前雷蒙德·詹姆斯將其股票評級上調至強力買入。"
+    },
+    {
+      "id": "mkt:019ea76e-71eb-7226-8cb5-92f9e9a909c3",
+      "time": "2026-06-08 21:31:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar may weaken if risk appetite recovers and Fed avoids hikes】Morgan Stanley strategists say the dollar could weaken over the next few months if risk appetite recovers while the Fed refrains from further rate hikes. They caution that without U.S. rate increases, improved risk sentiment tends to weigh on the dollar, though stronger U.S. growth prompting larger Fed hikes than other central banks would support the currency. With the ECB and BOJ both expected to raise rates this month, narrowing rate differentials should lift risk appetite and add downward pressure on the dollar."
+    },
     {
       "id": "mkt:019ea76e-3da9-7226-8cb5-881928a4768e",
       "time": "2026-06-08 21:31:20",
@@ -9,6 +127,15 @@
         "MKT News"
       ],
       "text": "Corning (GLW.N) rose 8.5% after Amazon (AMZN.O) said it had reached an agreement to boost U.S. optical-fiber manufacturing capacity."
+    },
+    {
+      "id": "4924272",
+      "time": "2026-06-08 21:31:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "康寧(GLW.N)漲8.5%，亞馬遜(AMZN.O)宣佈與其達成協議，旨在提升美國光纖製造能力。"
     },
     {
       "id": "4924271",
@@ -176873,194 +177000,6 @@
         "公司"
       ],
       "text": "【美迪凱：公司已成功切入三星的供應鏈體系】美迪凱近日接受機構調研時表示，公司透過收購海碩力光電技術（蘇州）有限公司和INNOWAVE VIETNAM CO.,LTD兩家公司100%股權，已成功切入三星的供應鏈體系。目前手機攝像模組用軟膜濾光片持續量產中，功率晶片的晶圓級封測業務也已進入產品驗證。"
-    },
-    {
-      "id": "mkt:019e8366-04bd-7ccf-b267-ed8260f871c4",
-      "time": "2026-06-01 21:36:00",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "NZD/USD fell 1% intraday to a low of 0.5927."
-    },
-    {
-      "id": "4910959",
-      "time": "2026-06-01 21:35:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元下跌 1%，跌至盤中低點 0.5927。"
-    },
-    {
-      "id": "mkt:019e8365-4cc8-7112-8c92-9158f33453ce",
-      "time": "2026-06-01 21:35:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) climbed nearly 7% in early trading."
-    },
-    {
-      "id": "4910958",
-      "time": "2026-06-01 21:35:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾盤初漲近7%。"
-    },
-    {
-      "id": "mkt:019e8365-36c2-7112-8c92-8ea17fb0bfea",
-      "time": "2026-06-01 21:35:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US May S&P Global Manufacturing PMI final reading due in 10 minutes."
-    },
-    {
-      "id": "4910957",
-      "time": "2026-06-01 21:34:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美光科技漲超5% 股價突破1000美元】儲存概念股集體上漲，美光科技漲超5%，股價突破1000美元，閃迪漲3.4%，西部資料漲超4%。"
-    },
-    {
-      "id": "4910956",
-      "time": "2026-06-01 21:34:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲航空航天與國防類股指下跌，最新跌幅為3.6%。"
-    },
-    {
-      "id": "mkt:019e8364-cb64-7112-8c92-8510b262102f",
-      "time": "2026-06-01 21:34:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European aerospace and defense stocks were down 3.6%."
-    },
-    {
-      "id": "mkt:019e8364-3d58-7112-8c92-7991b47fe367",
-      "time": "2026-06-01 21:34:03",
-      "tags": [
-        "MKT News",
-        "NOW.N",
-        "Impact bullish",
-        "ADBE.O",
-        "CRM.N"
-      ],
-      "text": "U.S. software stocks extended gains after last Friday's rebound: ServiceNow rose 9% (NOW.N), Adobe 3% (ADBE.O) and Salesforce 5% (CRM.N)."
-    },
-    {
-      "id": "4910955",
-      "time": "2026-06-01 21:33:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "GoPro盤初跌超8%，審計機構對GoPro的持續經營能力提出重大質疑。"
-    },
-    {
-      "id": "mkt:019e8363-f286-7112-8c92-729821064153",
-      "time": "2026-06-01 21:33:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "U.S. equities opened lower on Monday, June 1: the Dow Jones Industrial Average was down 231.60 points (-0.45%) at 50,800.86 at the open; the S&P 500 was down 9.42 points (-0.12%) at 7,570.64; the Nasdaq Composite was down 11.12 points (-0.04%) at 26,961.50."
-    },
-    {
-      "id": "4910954",
-      "time": "2026-06-01 21:33:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "維珍銀河開盤大漲23%。"
-    },
-    {
-      "id": "4910953",
-      "time": "2026-06-01 21:33:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時350住宅建築商指數下跌，最新跌幅為3.6%。"
-    },
-    {
-      "id": "mkt:019e8363-aa56-7112-8c92-6d55d87db3b4",
-      "time": "2026-06-01 21:33:27",
-      "tags": [
-        "MKT News",
-        "SPCE.N",
-        "Impact bullish"
-      ],
-      "text": "Virgin Galactic (SPCE.N) shares opened 23% higher."
-    },
-    {
-      "id": "mkt:019e8363-7c8a-7112-8c92-61998f79a889",
-      "time": "2026-06-01 21:33:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IBM (IBM.N) shares opened 8.7% higher, on track to reach a record high."
-    },
-    {
-      "id": "4910951",
-      "time": "2026-06-01 21:33:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "IBM股價開盤上漲8.7%。"
-    },
-    {
-      "id": "mkt:019e8363-4e10-7112-8c92-5cd9358c318a",
-      "time": "2026-06-01 21:33:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【EU urges Israel to halt military escalation in Lebanon】At a Brussels briefing on June 1, the EU called on Israel to stop military escalation in Lebanon and to respect Lebanese sovereignty and territorial integrity, urging continued diplomatic efforts to secure long-term stability. On UNIFIL’s authorization, which expires end-2026, the EU said it is studying a new EU security and defense mission to help Lebanon strengthen state control and border security."
-    },
-    {
-      "id": "te:markets:555390",
-      "time": "2026-06-01 21:32:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Prices Dip on Inflation Fears — Gold prices erased early gains to trade at $4,470 per ounce in the first June session, approaching late-March lows. Rising oil prices, fueled by fresh Iran-US strikes, heightened inflation concerns and reinforced expectations that central banks will maintain tighter monetary policies for longer. Iran claimed it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, with both sides invoking \"self-defense.\" Over the weekend, the parties exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention shifts to upcoming US jobs data and remarks from Federal Reserve officials due later this week. Meanwhile, Fed Governor Jerome Powell, in his first comments since his chair term ended on May 15, warned about the risks of a politicized Federal Reserve."
-    },
-    {
-      "id": "4910950",
-      "time": "2026-06-01 21:32:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，海天網路漲108.43%，聲網漲5.37%，億咖通科技漲4.24%，小鵬汽車漲5.71%，金山雲漲5.54%。"
     }
   ]
 }
