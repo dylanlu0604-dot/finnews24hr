@@ -1,7 +1,173 @@
 {
-  "updated": "2026-06-08 19:42:53",
-  "count": 19273,
+  "updated": "2026-06-08 19:46:53",
+  "count": 19277,
   "items": [
+    {
+      "id": "mkt:019ea70e-0fe9-799c-b570-7606e62fa42f",
+      "time": "2026-06-08 19:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India will, after reaching an agreement with the US, seek assurances that it will not face additional tariffs going forward."
+    },
+    {
+      "id": "mkt:019ea70e-0dc7-799c-b570-68a4e6f8f265",
+      "time": "2026-06-08 19:46:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trip.com among first internal testers integrated into WeChat AI ecosystem】Trip.com said its mini‑program has completed preliminary integration as one of the first internal test developers after WeChat on June 8 published guidance allowing developers to opt into its AI ecosystem. Trip.com plans to deploy WeChat AI Agent across core revenue flows — hotel booking, flight search, holiday packages and travel services — and will work with WeChat to optimise product experience ahead of a commercial launch."
+    },
+    {
+      "id": "4924066",
+      "time": "2026-06-08 19:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成32人死亡。（新華社）"
+    },
+    {
+      "id": "4924065",
+      "time": "2026-06-08 19:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州銀行2025年年度每股派發現金紅利0.28元 全年合計派發現金紅利47.84億元】杭州銀行公告，公司2025年年度利潤分配方案為每股派發現金紅利0.28元(含稅)，共計派發現金紅利約20.30億元。股權登記日為6月12日，除權(息)日及現金紅利發放日均為6月15日。"
+    },
+    {
+      "id": "mkt:019ea70d-c09a-799c-b570-6618c2d7acfc",
+      "time": "2026-06-08 19:45:56",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish",
+        "005930.KS",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company has been working with Samsung Electronics to develop ASICs."
+    },
+    {
+      "id": "4924064",
+      "time": "2026-06-08 19:45:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【攜程：已作為首批內測團隊接入微信AI生態佈局】據“攜程黑板報”公眾號訊息，6月8日，微信公開課釋出《關於開發者接入微信AI生態的指引》稱，微信開放平臺將在充分尊重開發者權益和自主選擇的基礎上，為開發者提供便捷接入微信AI生態的能力，開發者可主動授權接入微信AI。攜程小程式已作為首批內測開發者完成初步接入適配，未來將圍繞酒店預訂、機票查詢、旅遊度假、出行服務等核心場景接入微信AI Agent。下一步，雙方將圍繞產品體驗進行緊密最佳化與打磨，期待在產品正式上線後為使用者帶來更智慧的服務體驗。"
+    },
+    {
+      "id": "4924063",
+      "time": "2026-06-08 19:45:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "NOCERA透過與美國數字創新集團簽訂具有約束力的風險投資平臺協議，推進人工智慧與收購戰略。"
+    },
+    {
+      "id": "mkt:019ea70d-4992-799c-b570-58b38b842033",
+      "time": "2026-06-08 19:45:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israel's Channel 12 reported Prime Minister Netanyahu just held a phone call with Trump."
+    },
+    {
+      "id": "4924062",
+      "time": "2026-06-08 19:45:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：英偉達一直與三星電子合作開發專用積體電路。"
+    },
+    {
+      "id": "4924061",
+      "time": "2026-06-08 19:44:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：注射用泰它西普用於治療乾燥綜合徵的新適應症已獲批上市】榮昌生物公告，公司已收到國家藥品監督管理局核准簽發的《藥品註冊證書》。注射用泰它西普（代號：RC18，商品名：泰愛 ，批文編號：國藥準字S20210008，證書編號：2026S01909）用於治療乾燥綜合徵（乾燥病）的新適應症已獲批上市。"
+    },
+    {
+      "id": "4924060",
+      "time": "2026-06-08 19:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印度將尋求美方保證，即在協議達成後，印度未來不會被徵收額外關稅。"
+    },
+    {
+      "id": "4924059",
+      "time": "2026-06-08 19:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們的首要任務是國家安全與民眾安寧。我們將堅定捍衛國家權益，面對任何威脅絕不退縮。外交與國防是國家力量的兩大支柱，我們既未放棄抗爭陣地，也未離開談判桌。"
+    },
+    {
+      "id": "4924058",
+      "time": "2026-06-08 19:44:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空稱對波音相關合作進展感到十分滿意。"
+    },
+    {
+      "id": "4924057",
+      "time": "2026-06-08 19:43:45",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：7月規則變更將增加英國銀行業槓桿空間】摩根士丹利分析師寫道，由於7月份的規則變更，英國銀行業可能被允許持有較少的資本。他們預計，英國金融政策委員會7月份的一份金融穩定報告將降低槓桿率，以符合歐盟標準，實際上將為銀行業釋放約2,500億英鎊的槓桿空間用於貸款和投資。摩根士丹利的分析師表示，釋放出的資金中，有25%至50%將投資於英國國債。需要進一步的變更才能切實降低CET1（防範銀行損失的股權層）要求。不過，摩根士丹利的分析師表示，這些變更將“對盈利能力產生漸進的積極影響“。"
+    },
+    {
+      "id": "mkt:019ea70a-e0e5-799c-b570-56e57fa3177a",
+      "time": "2026-06-08 19:42:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Official data showed India's merchandise exports rose 15% YoY in April-May."
+    },
+    {
+      "id": "4924055",
+      "time": "2026-06-08 19:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空：票價上調節奏將更為平緩。"
+    },
+    {
+      "id": "4924054",
+      "time": "2026-06-08 19:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印度與英國在解決落實貿易協定的剩餘問題上已取得一定進展。"
+    },
+    {
+      "id": "mkt:019ea70a-6ffc-799c-b570-4810c1a44717",
+      "time": "2026-06-08 19:42:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "An Indian trade official said India and the UK have made some progress resolving outstanding implementation issues in their trade agreement."
+    },
+    {
+      "id": "4924053",
+      "time": "2026-06-08 19:42:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯航空：自7月6日起開通利雅得與亞歷山大之間的直飛航線。"
+    },
     {
       "id": "mkt:019ea709-ee4a-799c-b570-425cb59fa08f",
       "time": "2026-06-08 19:41:46",
@@ -177582,148 +177748,6 @@
         "公司"
       ],
       "text": "【華特氣體：資訊披露義務人持股比例從50.00%減少至44.83%】華特氣體公告，資訊披露義務人合計持有公司股份由6015.24萬股減少至5608.55萬股，合計持股比例從50.00%減少至44.83%，變動比例為5.17%。資訊披露義務人廈門華弘多福投資合夥企業（有限合夥）、廈門華和多福投資合夥企業（有限合夥）、廈門華進多福投資合夥企業（有限合夥）因自身資金需求減持股份。"
-    },
-    {
-      "id": "te:economy:555372",
-      "time": "2026-06-01 19:46:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "India Industrial Production Expands in — Industrial output in India expanded by 4.9% from the previous year in April of 2026, firmly above the market expectations of 3.9%. It reflected robustness in the Indian goods producing sectors despite ongoing pressure from surging energy prices and lack of stability in the rupee, which have dented the purchasing power domestically. It was the first reading using weights from the rebalanced industrial production index measured by the MOSPI, compared to the 4.1% annual growth in the previous month. Manufacturing production expanded by a sharper 6.2% in the period."
-    },
-    {
-      "id": "mkt:019e8301-8771-7112-8c8f-52251912f960",
-      "time": "2026-06-01 19:46:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's statistics secretary said a new services production index will be released next month."
-    },
-    {
-      "id": "4910694",
-      "time": "2026-06-01 19:46:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度統計局局長：將於下月推出全新的服務生產指數。"
-    },
-    {
-      "id": "mkt:019e8301-6fa2-7112-8c8f-4ab043e6bf4f",
-      "time": "2026-06-01 19:46:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A document shows the EU's non-price bid evaluation criteria will require relevant software and hardware to be designed or manufactured within the EU."
-    },
-    {
-      "id": "mkt:019e8300-f522-7112-8c8f-4040e4f85b47",
-      "time": "2026-06-01 19:45:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Documents show selection criteria for non-EU cloud service providers will include data protection standards and the degree to which third countries can control corporate data, services and decision-making. Other non-price evaluation criteria will require related R&D to originate in the EU and for providers to meet EU supply-chain security requirements."
-    },
-    {
-      "id": "4910693",
-      "time": "2026-06-01 19:45:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東高溫天氣仍將持續，用電保供任務依然艱鉅】6月1日，南方電網官方微信公眾號“南網50Hz”釋出訊息稱，5月27日以來，廣東電網用電負荷今年三次創歷史新高，達到1.7367億千瓦，比去年最高負荷增長5.3%，成為全國今年首個負荷突破1.7億千瓦的省份，省內多個地市負荷同步重新整理紀錄。其中，廣州電網負荷在5月28日、29日接連兩次創新高，攀升至2594.6萬千瓦，較去年最高負荷增長3.33%。儘管近兩日暴雨接踵，全省高溫依然不減，用電需求旺盛。當前，廣東地區高溫天氣仍將持續，用電保供任務依然艱鉅。"
-    },
-    {
-      "id": "4910692",
-      "time": "2026-06-01 19:44:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深房中協：5月二手房錄得量創去年4月以來第三高】6月1日，據深圳市房地產中介協會統計資料，2026年5月二手房共計錄得6941套，環比微跌2.1%，同比上漲21.2%，創去年4月以來第三高記錄。"
-    },
-    {
-      "id": "4910691",
-      "time": "2026-06-01 19:44:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：葉門胡塞武裝正等待黎巴嫩真主黨發出號召，以加入針對以色列的軍事行動。如果以色列進一步升級針對黎巴嫩的軍事行動，胡塞武裝已準備恢復針對以色列的空襲和海上打擊行動。"
-    },
-    {
-      "id": "mkt:019e82ff-f21e-7112-8c8f-3bcb733be8a0",
-      "time": "2026-06-01 19:44:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Star Stocks",
-        "Microsoft",
-        "Amazon",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish",
-        "GOOGL.O",
-        "MSFT.O"
-      ],
-      "text": "Documents show an EU draft law would introduce mandatory non-price evaluation criteria into public procurement; a proposed EU cloud-computing law would make it harder for Amazon, Google and Microsoft to bid for Europe’s \"extremely critical\" cloud service contracts."
-    },
-    {
-      "id": "mkt:019e82ff-e6ef-7112-8c8f-345c4f9154ec",
-      "time": "2026-06-01 19:44:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Haizhi Technology and CHINA'S CPU MAKER HAIGUANG sign strategic deal to build \"domestic compute + graph-model AI\" full-stack solution】Haizhi Technology and CHINA'S CPU MAKER HAIGUANG signed a strategic cooperation agreement to jointly develop a \"domestic compute + graph-model intelligence\" full-stack solution targeting government, public services and security sectors. The partners said they will focus on technology integration, ecosystem co-building and market expansion to accelerate large-scale deployment of domestically sourced AI in these key industries."
-    },
-    {
-      "id": "4910690",
-      "time": "2026-06-01 19:44:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Biond Biologics與廣州中以生物產業投資基金達成800萬美元戰略投資】6月1日，臨床階段生物技術公司Biond Biologics Ltd與廣州中以生物產業投資基金（GIBF）共同宣佈，達成800萬美元戰略投資，併成立中國合資公司，推進Biond旗下創新腫瘤管線研發。新成立的合資公司將聚焦加速推進Biond 核心專案，包括靶向CD28脫落的首創療法BND-67、處於二期臨床階段的抗ILT2抗體BND-22，及其他管線資產。"
-    },
-    {
-      "id": "4910689",
-      "time": "2026-06-01 19:44:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海致科技與海光資訊達成戰略合作 將聯合打造“國產算力+圖模智慧”全棧解決方案】近日，海致科技與海光資訊正式簽署戰略合作協議。雙方將圍繞政務、公共服務、安全等關鍵行業，聯合打造“國產算力+圖模智慧”全棧解決方案，推動國產化AI技術在重點行業規模化落地。根據協議，雙方將重點圍繞技術協同、生態共建和市場拓展展開合作。"
-    },
-    {
-      "id": "4910688",
-      "time": "2026-06-01 19:44:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓股持續“瘋狂”，QDII溢價走闊諮詢量攀升】6月1日，韓國股市再度因“漲熔斷”吸引了市場的目光，截至當日收盤，韓國綜合指數（KS11.KS）創出歷史新高，三星電子（005930.KS）等十餘隻成份股股價同步重新整理歷史高點。市場的狂熱迅速傳導至跨境ETF。中韓半導體ETF華泰柏瑞年內回報逼近96%，但因資金擁擠，其溢價率已飆至17.98%，年內釋出溢價風險提示超160次。此外，納指主題ETF等熱門產品的溢價率普遍超11%。與此同時，伴隨八部門嚴查非法跨境券商，作為合規出口的QDII產品，卻近半數處於限購或閉門謝客的狀態。有限的額度下，市場需求的增加直接帶動QDII業務諮詢量大幅攀升。多家擁有QDII業務資質的公募機構向第一財經證實，近期投資者諮詢熱度出現上升。“QDII額度長期稀缺，熱門產品本就供不應求。上週幾隻業績不錯的熱門產品諮詢增量比較明顯。”一位大型基金公司產品部人士稱，但礙於公司的額度極其有限，無法大量放開申購。（第一財經）"
-    },
-    {
-      "id": "4910687",
-      "time": "2026-06-01 19:43:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和仁科技：終止籌劃控制權變更 6月2日復牌】和仁科技公告，公司原計劃與第三方進行股權轉讓事項可能導致控股股東、實際控制人變更，但因與交易對方就核心事項未達成共識，決定終止籌劃。公司目前各項經營情況正常，終止籌劃不會對經營業績和財務狀況產生重大不利影響。公司股票自2026年6月2日復牌。"
-    },
-    {
-      "id": "4910686",
-      "time": "2026-06-01 19:42:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示歐盟起草法案將在政府採購程式中引入強制性非價格評審標準。"
     }
   ]
 }
