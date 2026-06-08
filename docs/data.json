@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-09 05:31:06",
-  "count": 19216,
+  "updated": "2026-06-09 05:35:00",
+  "count": 19215,
   "items": [
+    {
+      "id": "4924711",
+      "time": "2026-06-09 05:33:14",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通、美國銀行因為網路安全威脅問題而被美國國會山成員質詢。"
+    },
+    {
+      "id": "mkt:019ea927-0927-733a-9236-5f13354b2fa8",
+      "time": "2026-06-09 05:32:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli military said it intercepted a \"suspicious aerial target\" from Yemen after an alert for hostile aircraft sounded in the Eilat area."
+    },
+    {
+      "id": "mkt:019ea926-a844-733a-9236-53c2550329c5",
+      "time": "2026-06-09 05:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA, citing Iran's UN representative, said Iran is exchanging views with the US via Pakistan to reach a final text."
+    },
+    {
+      "id": "4924710",
+      "time": "2026-06-09 05:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，埃拉特地區響起防空警報後，己方攔截了一架來自葉門的可疑空中目標。"
+    },
+    {
+      "id": "4924709",
+      "time": "2026-06-09 05:31:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：向美國證交會提交申請，擬分五檔發行加元債券，總規模最高 140 億加元。"
+    },
     {
       "id": "4924708",
       "time": "2026-06-09 05:30:39",
@@ -177172,55 +177218,6 @@
         "其他"
       ],
       "text": "DriveNets在最新一輪融資中籌得4.1億美元，AMD以投資者身份參投。"
-    },
-    {
-      "id": "4911362",
-      "time": "2026-06-02 05:34:40",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "亞馬遜：GPT-5.5、GPT-5.4及Codex等OpenAI模型現已接入亞馬遜Bedrock平臺。"
-    },
-    {
-      "id": "4911361",
-      "time": "2026-06-02 05:34:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國代表涅邊賈就俄方無人機落入羅馬尼亞一事表態：倘若該無人機真的砸中建築物屋頂，後果絕不會只是羅馬尼亞媒體報道的起火，屋頂會被徹底損毀。"
-    },
-    {
-      "id": "mkt:019e851b-3271-7993-96fa-5801495d6827",
-      "time": "2026-06-02 05:33:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. judge blocks Trump administration plan to close a climate research center."
-    },
-    {
-      "id": "4911360",
-      "time": "2026-06-02 05:33:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet強制可轉債轉股溢價區間20%–25%。"
-    },
-    {
-      "id": "4911359",
-      "time": "2026-06-02 05:32:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet強制可轉債股息票面利率定在6.25%–6.75%。"
-    },
-    {
-      "id": "4911358",
-      "time": "2026-06-02 05:32:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與首席財務官：透過針對性整合，我們將全球實驗室佈局精簡超三分之二，裁減了承包商規模，並將供應鏈客戶服務崗位壓縮了90%以上。"
     }
   ]
 }
