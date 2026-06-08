@@ -1,7 +1,161 @@
 {
-  "updated": "2026-06-08 09:24:50",
-  "count": 19235,
+  "updated": "2026-06-08 09:28:43",
+  "count": 19247,
   "items": [
+    {
+      "id": "4922611",
+      "time": "2026-06-08 09:28:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨上漲逾3美元，報每桶96.36美元。"
+    },
+    {
+      "id": "4922610",
+      "time": "2026-06-08 09:27:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體8日報道，以色列正在攻擊伊朗境內目標。（新華社）"
+    },
+    {
+      "id": "mkt:019ea4d7-a3fe-755d-a1f0-d4ce1bf503ab",
+      "time": "2026-06-08 09:27:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli military said the air force struck Iranian regime military targets in western and central Iran."
+    },
+    {
+      "id": "mkt:019ea4d7-7f5f-7221-bb31-2fcd2bcf5157",
+      "time": "2026-06-08 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on Monday June 8, China's Shanghai Composite Index fell 89.03 points (-2.21%) to 3,938.71; Shenzhen Composite fell 479.33 points (-3.13%) to 14,835.37; the CSI 300 Index fell 113.15 points (-2.35%) to 4,703.77; the ChiNext Index fell 137.70 points (-3.48%) to 3,820.23; the STAR 50 Index fell 80.36 points (-4.82%) to 1,587.97."
+    },
+    {
+      "id": "4922609",
+      "time": "2026-06-08 09:27:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列軍方表示，以色列空軍襲擊了伊朗境內西部和中部屬於伊朗政權的多處軍事目標。"
+    },
+    {
+      "id": "mkt:019ea4d6-a8d0-7221-bb31-21e91f9bf29a",
+      "time": "2026-06-08 09:26:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 4.00% intraday, now $95.41/barrel."
+    },
+    {
+      "id": "4922608",
+      "time": "2026-06-08 09:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "勝宏科技AH股齊跌，H股開跌7.65%，A股開跌9.41%。"
+    },
+    {
+      "id": "mkt:019ea4d6-97c5-7221-bb31-1da08eebafbf",
+      "time": "2026-06-08 09:26:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Shenghong Technology A- and H-shares opened sharply lower: H shares down 7.65% in Hong Kong, A shares down 9.41% on the mainland at the open."
+    },
+    {
+      "id": "4922607",
+      "time": "2026-06-08 09:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "官方計票結果顯示：秘魯總統選舉已統計超25%的選票， FUJIMORI 仍以52.51%得票率領先。"
+    },
+    {
+      "id": "mkt:019ea4d6-1fcb-755d-a1f0-cede017a6342",
+      "time": "2026-06-08 09:25:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "A-shares opened sharply lower: Shanghai Composite down 2.21%, Shenzhen Composite down 3.13%, ChiNext Index down 3.48%; CPO, PCB and memory-chip sectors led declines."
+    },
+    {
+      "id": "mkt:019ea4d6-1e8c-755d-a1f0-c17ba7f99b44",
+      "time": "2026-06-08 09:25:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said the impact of the war in the Middle East will not push South Korea into a crisis."
+    },
+    {
+      "id": "4922606",
+      "time": "2026-06-08 09:25:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲4%，現報94.16美元/桶。"
+    },
+    {
+      "id": "mkt:019ea4d5-c790-7338-95ae-b3c3a700ad39",
+      "time": "2026-06-08 09:25:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Semi-official Iranian YJC news agency reports multiple explosions in Tehran, Tabriz and Isfahan."
+    },
+    {
+      "id": "4922605",
+      "time": "2026-06-08 09:25:19",
+      "tags": [],
+      "text": "三大股指低開，滬指跌2.21％，深成指跌3.13％，創業板跌3.48％。"
+    },
+    {
+      "id": "4922604",
+      "time": "2026-06-08 09:24:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體8日報道，伊朗首都德黑蘭響起爆炸聲。（新華社）"
+    },
+    {
+      "id": "4922603",
+      "time": "2026-06-08 09:24:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "半官方的伊朗青年記者俱樂部新聞社（YJC）報道稱，德黑蘭、大不里士和伊斯法罕均發生多起爆炸。"
+    },
     {
       "id": "4922602",
       "time": "2026-06-08 09:23:59",
@@ -9,6 +163,15 @@
         "公司"
       ],
       "text": "【捷成股份等成立文化產投公司，含AI業務】企查查APP顯示，近日，捷成世紀（長春）文化產業投資有限責任公司成立，註冊資本1000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧通用應用系統；企業形象策劃等。企查查股權穿透顯示，該公司由捷成股份等共同持股。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606083762824850",
+      "time": "2026-06-08 09:23:58",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2185億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "4922601",
@@ -21,6 +184,14 @@
       "text": "【華泰期貨：短時內黃金價格有所回落，主線仍在於地緣衝突背景下的美聯儲貨幣政策取向】短時內黃金價格有所回落，主線仍在於地緣衝突背景下的美聯儲貨幣政策取向。現階段來看，年內的寬鬆預期已基本被消耗殆盡，而利率互換資料顯示，交易員押注美聯儲12月議息會議上調基準利率25個基點，10月加息機率約60%。雖長期來看，黃金仍然將會是難以替代的保值資產，並且在實際利率未來變動預期仍然大機率向下的情況下，黃金仍建議以逢低買入為主，但短期維持中性看待。白銀宏觀邏輯與黃金類似。短時內風險資產存在回落風險，由於白銀本身波動性相對較大，因此可暫時以觀望態度為主。（華泰期貨）"
     },
     {
+      "id": "mkt:019ea4d4-11a4-755d-a1f0-bbbf37e47d42",
+      "time": "2026-06-08 09:23:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 6.6 earthquake at 08:55 on June 8 in the sea off Sulawesi; focal depth 60 km."
+    },
+    {
       "id": "4922600",
       "time": "2026-06-08 09:22:55",
       "tags": [
@@ -29,12 +200,35 @@
       "text": "中國地震臺網正式測定：06月08日08時55分在蘇拉威西海（北緯5.45度，東經125.30度）發生6.6級地震，震源深度60千米。"
     },
     {
+      "id": "mkt:019ea4d3-4a72-7338-95ae-a09132a9d4a1",
+      "time": "2026-06-08 09:22:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted CNY218.5bn of 7-day reverse repos, fully allotted at a 1.40% rate, unchanged from the prior operation."
+    },
+    {
       "id": "4922599",
       "time": "2026-06-08 09:22:46",
       "tags": [
         "央行"
       ],
       "text": "中國央行：今日開展2185億元7天逆回購操作，投標量2185億元，中標量2185億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019ea4d3-148b-7338-95ae-998d72a09621",
+      "time": "2026-06-08 09:22:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency reports explosions heard in Tehran."
     },
     {
       "id": "4922598",
@@ -68,12 +262,55 @@
       "text": "港股恒指低開跌1.52％，國企指數跌1.66％，恒生科技指數開跌2.43%，晶片股低開。"
     },
     {
+      "id": "mkt:019ea4d2-3a2e-7338-95ae-904908e6cf2f",
+      "time": "2026-06-08 09:21:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened down 379.04 pts (-1.52%) at 24,582.91 on Monday, June 8. Hang Seng Tech opened down 118.70 pts (-2.43%) at 4,769.69. Hang Seng China Enterprises Index (HSCEI) opened down 139.72 pts (-1.66%) at 8,296.91. Hang Seng Red Chip Index opened down 50.02 pts (-1.15%) at 4,303.35."
+    },
+    {
+      "id": "mkt:019ea4d2-3a2d-7338-95ae-8e5d6969f6fa",
+      "time": "2026-06-08 09:21:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said he will work to ease upward pressure on prices."
+    },
+    {
+      "id": "mkt:019ea4d2-3a27-7338-95ae-85116e1fc00e",
+      "time": "2026-06-08 09:21:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "HSI",
+        "Impact bearish",
+        "09888.HK",
+        "06809.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng Index (HSI) down 1.52% and Hang Seng Tech Index (HSTECH) down 2.43% at the open. Chip and optical-communications sectors opened broadly weaker; headline internet and tech names underperformed. Montage Technology (06809.HK) fell more than 4%, Shenghong Technology (02476.HK) fell over 7%, Baidu (09888.HK) fell more than 4%."
+    },
+    {
       "id": "4922594",
       "time": "2026-06-08 09:21:20",
       "tags": [
         "國際"
       ],
       "text": "韓國總統：正努力緩解物價上行壓力。"
+    },
+    {
+      "id": "mkt:019ea4d1-cfce-755d-a1f0-9ab2e199b50e",
+      "time": "2026-06-08 09:21:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "South Korea's Lee said the country's oil supply is broadly stable."
     },
     {
       "id": "4922593",
@@ -177376,131 +177613,6 @@
         "市場"
       ],
       "text": "【利通電子一字跌停】利通電子一字跌停，根據上海證券交易所的交易資料披露，公司被納入異動股票名單。開始日期為2026年6月1日，結束日期為2026年6月12日，型別為嚴重異動。"
-    },
-    {
-      "id": "mkt:019e80cb-d2f0-766e-87ae-d75be91541e7",
-      "time": "2026-06-01 09:28:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "00100.HK",
-        "Impact bullish",
-        "0068.HK",
-        "06651.HK"
-      ],
-      "text": "Hong Kong AI-related stocks strengthened: MINIMAX-W (00100.HK) rose more than 5%, Qunhe Technology (0068.HK) gained over 3%, Wuyi Vision (06651.HK) rose 2.94%, Biren Technology (06082.HK) rose 2.19%."
-    },
-    {
-      "id": "4909332",
-      "time": "2026-06-01 09:27:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "電力股延續漲勢，粵電力A4連板，晉控電力2連板，江蘇國信、深南電A、華能蒙電、協鑫能科等多股高開。"
-    },
-    {
-      "id": "4909331",
-      "time": "2026-06-01 09:27:24",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【外資流出與盧比走弱施壓 印度央行面臨加息壓力】隨著投資者權衡加息前景以及對政府財政狀況的擔憂加劇，印度債券收益率的近期漲勢可能延續。自三個月前伊朗戰爭爆發以來，基準10年期國債收益率已上漲約34個基點至7%。IndusInd銀行預計，到2026年底該收益率將達到7.45%，而Kotak Mahindra銀行預計，截至明年3月，其交易區間將在6.8%至7.4%之間。印度央行可能面臨在週五的利率決議中提高借貸成本的壓力，因為盧比走弱和石油成本上漲加劇了通脹擔憂。儘管多數經濟學家預計央行目前將維持利率不變，儘管如此，衍生品市場正在消化激進的加息預期，五年期利率互換自戰爭爆發以來已上漲逾60個基點。較短期限的政府債券在此輪拋售中首當其衝，五年期收益率上升54個基點。投資者將關注該行轉為鷹派的跡象。Tata資產管理公司和Bandhan AMC預計在本輪週期內將加息約75-100個基點。"
-    },
-    {
-      "id": "mkt:019e80cb-017a-766e-87ae-cfab8badf94d",
-      "time": "2026-06-01 09:27:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "At Monday open (June 1), CHINA'S SHANGHAI COMPOSITE INDEX 4,067.16, down 1.41 pts (-0.03%); Shenzhen Composite Index 15,601.03, up 25.90 pts (+0.17%); CSI 300 INDEX 4,897.90, up 5.78 pts (+0.12%); ChiNext Index 4,057.39, up 19.44 pts (+0.48%); STAR 50 Index 1,751.23, down 0.09 pts (-0.01%)."
-    },
-    {
-      "id": "mkt:019e80ca-ff71-766e-87ae-c2f750336a41",
-      "time": "2026-06-01 09:27:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "000001.SS",
-        "Impact bullish",
-        "000300.SS"
-      ],
-      "text": "A-share AI PC concept stocks strengthened in early trade; Leishen Technology rose 27.39%, Yingli Co. hit the daily limit, and Huiwei Intelligent, Chunqiu Electronics and Shengli Precision were among other leaders."
-    },
-    {
-      "id": "mkt:019e80ca-5add-766e-87ae-be10dcfc983b",
-      "time": "2026-06-01 09:26:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "INDUSINDBK.NS",
-        "KOTAKBANK.NS"
-      ],
-      "text": "【Foreign outflows, rupee weakness pressure Reserve Bank of India on rate-hike risk】Indian bond yields have scope to rise further as investors weigh tighter policy and growing fiscal worries; foreign outflows and a weaker rupee have added pressure. The benchmark 10-year yield is up roughly 34bp to 7% since the outbreak of conflict in Iran three months ago. IndusInd Bank forecasts the 10-year at 7.45% by end-2026; Kotak Mahindra sees a trading range of 6.8–7.4% through March. The Reserve Bank of India faces pressure to tighten at Friday’s meeting after higher oil costs and currency weakness lifted inflation risks, although most economists expect a hold. Derivatives show more aggressive pricing: five-year interest-rate swaps have risen over 60bp since the conflict began. Shorter-dated government bonds led the sell-off, with the five-year yield up 54bp. Market participants will watch for any hawkish shift; Tata AMC and Bandhan AMC expect about 75–100bp of hikes in this cycle."
-    },
-    {
-      "id": "4909330",
-      "time": "2026-06-01 09:26:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：ESG300ETF領漲9.29%，創業板增強ETF領跌5.01%】ETF開盤漲跌不一，ESG300ETF（159653）領漲9.29%，港股通醫療ETF（526010）漲4.36%，恒生生物科技ETF（513930）漲2.95%，創業板增強ETF（159675）領跌5.01%，地產ETF（159707）跌1.7%，教育ETF（513360）跌1.69%。"
-    },
-    {
-      "id": "4909329",
-      "time": "2026-06-01 09:26:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 MINIMAX漲超5%】截至發稿，MINIMAX-W(00100.HK)漲5.24%，群核科技(0068.HK)漲3.39%，五一視界(06651.HK)漲2.94%，壁仞科技(06082.HK)漲2.19%。"
-    },
-    {
-      "id": "4909328",
-      "time": "2026-06-01 09:26:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威勝資訊與衡陽水務集團達成戰略合作】據威勝資訊訊息，近日，威勝資訊與衡陽市水務投資集團有限公司正式簽署戰略合作協議，雙方將以智慧計量與數智技術為核心抓手，全面推進衡陽水務數字化、智慧化升級。"
-    },
-    {
-      "id": "mkt:019e80c9-41f1-766e-87ae-b67f910db0e4",
-      "time": "2026-06-01 09:25:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China's A-share market opened: Shanghai Composite Index down 0.03%, Shenzhen Composite Index up 0.17%, ChiNext Index up 0.48%."
-    },
-    {
-      "id": "4909327",
-      "time": "2026-06-01 09:25:20",
-      "tags": [],
-      "text": "三大股指開盤漲跌不一，滬指跌0.03％，深成指漲0.17％，創業板漲0.48％。"
-    },
-    {
-      "id": "4909326",
-      "time": "2026-06-01 09:24:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1324.00元。"
     }
   ]
 }
