@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-09 02:47:15",
-  "count": 19234,
+  "updated": "2026-06-09 02:51:02",
+  "count": 19233,
   "items": [
+    {
+      "id": "4924627",
+      "time": "2026-06-09 02:49:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶94.25美元，上漲1.16美元，漲幅1.25%。"
+    },
+    {
+      "id": "4924626",
+      "time": "2026-06-09 02:48:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮：將就H-1B簽證費用相關裁決提起上訴】白宮發言人泰勒·羅傑斯在宣告中表示，針對法官駁回特朗普設定的10萬美元H-1B簽證申請費的裁決，將提起上訴。他稱，特朗普擁有明確的法律許可權，可限制其認定不符合美國整體利益的外籍人員入境。"
+    },
     {
       "id": "4924625",
       "time": "2026-06-09 02:45:53",
@@ -177307,32 +177323,6 @@
         "國際"
       ],
       "text": "資料顯示，5 月近 1.2 萬架次航班飛越敘利亞領空，較 2025 年 5 月大增 375%。"
-    },
-    {
-      "id": "mkt:019e8483-c1cf-7993-96f8-d87ca877368c",
-      "time": "2026-06-02 02:48:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Altman said OpenAI will pursue an IPO when it is in the company’s interest."
-    },
-    {
-      "id": "mkt:019e8483-7d99-7993-96f8-d065c718960b",
-      "time": "2026-06-02 02:47:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI founder Altman said he has not been monitoring ANTHROPIC's IPO timing since the company filed for an IPO."
-    },
-    {
-      "id": "4911249",
-      "time": "2026-06-02 02:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：在 Anthropic 遞交上市申請後，OpenAI 執行長奧特曼稱目前暫不考慮 IPO 上市時機。"
     }
   ]
 }
