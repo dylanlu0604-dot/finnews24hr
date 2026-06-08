@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-08 08:26:50",
-  "count": 19225,
+  "updated": "2026-06-08 08:30:42",
+  "count": 19218,
   "items": [
+    {
+      "id": "mkt:019ea4a2-c83f-7338-95ad-8ff7f0443ade",
+      "time": "2026-06-08 08:29:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Shenghong Technology: ASIC-related business progressing smoothly, could become core earnings driver】Shenghong Technology said it will consolidate core customer relationships, deepen strategic cooperation with technology giants and expand supply of GPU accelerator cards and TPU support boards. Its business with ASIC-related customers is progressing smoothly and could become a core driver of future earnings."
+    },
+    {
+      "id": "mkt:019ea4a2-3a76-7338-95ad-83d1a9d826a6",
+      "time": "2026-06-08 08:29:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Japan 10-year government bond yield rose 3.5 bps to 2.70%."
+    },
+    {
+      "id": "mkt:019ea4a1-2538-7338-95ad-7bb01957a0f0",
+      "time": "2026-06-08 08:28:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "SK Group chairman said shortages extend beyond semiconductors to water and other components, and he said he hopes to build a long-term ecosystem."
+    },
+    {
+      "id": "4922496",
+      "time": "2026-06-08 08:27:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團會長崔泰源：除晶片外，水和其他零部件也處於短缺狀態，我希望我們能夠構建一個長期生態體系。"
+    },
+    {
+      "id": "mkt:019ea4a0-0e97-7338-95ad-7243705d6239",
+      "time": "2026-06-08 08:26:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said everyone will have an opportunity to buy the stock at a lower price."
+    },
+    {
+      "id": "4922495",
+      "time": "2026-06-08 08:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：所有人都有機會以更低的價格購入股票。"
+    },
     {
       "id": "4922494",
       "time": "2026-06-08 08:26:06",
@@ -9,6 +72,15 @@
         "國際"
       ],
       "text": "【菲律賓群島地區強震後 多國地震監測機構釋出海嘯預警】6月8日，菲律賓火山地震研究所以及印尼氣象、氣候和地球物理局和日本方面在當天菲律賓群島地區附近發生強震後釋出海嘯預警。菲律賓火山地震研究所稱，該地震引發海嘯預警，浪高將超過正常潮位1米左右，海嘯可能持續數小時。菲火山地震研究所建議南部多個沿海地區的居民立即撤離至地勢較高的地方或向內陸轉移。在菲律賓火山地震研究所釋出海嘯預警後，印尼氣象、氣候和地球物理局也釋出海嘯預警。日本方面也針對太平洋沿岸等廣大地區釋出海嘯注意警報。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606083762802068",
+      "time": "2026-06-08 08:25:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【銀河證券：美聯儲的緊縮預期是當前影響港股的核心外部變數】銀河證券指出，美聯儲的緊縮預期是當前影響港股的核心外部變數。市場的核心矛盾已從何時降息轉向通脹與鷹派美聯儲的博弈。近期褐皮書顯示通脹升溫，疊加地緣衝突推高油價，市場對美聯儲12月加息的預期已從一個月前的9%飆升至49.1%以上。這導致美債收益率走高、美元走強，全球資金迴流美國。資金從新興市場迴流美國，港股流動性受到明顯衝擊，反彈力度顯著弱於美股和日韓股市。"
     },
     {
       "id": "4922493",
@@ -177301,146 +177373,6 @@
         "國際"
       ],
       "text": "美聯儲理事鮑威爾警告表示，政治化的美聯儲將摧毀公眾信任；並稱美聯儲及其他民主機構正面臨\"壓力測試\"。"
-    },
-    {
-      "id": "4909243",
-      "time": "2026-06-01 08:30:31",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國5月製造業PMI 54.8，前值 53.6。\n日本5月製造業PMI終值 54.5，初值 54.5。\n越南5月製造業PMI 52.8，前值 50.5。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606013755295767",
-      "time": "2026-06-01 08:30:26",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本5月製造業PMI終值報54.5，前值54.5。"
-    },
-    {
-      "id": "mkt:019e8096-c719-7777-bd27-2f70411ae9b8",
-      "time": "2026-06-01 08:30:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan May final manufacturing PMI 54.5, unchanged from prior 54.5."
-    },
-    {
-      "id": "mkt:019e8096-b481-7777-bd27-222b6d8e45a5",
-      "time": "2026-06-01 08:30:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Nikkei Manufacturing PMI 56.1 in May, up from 55.3 in April."
-    },
-    {
-      "id": "mkt:019e8096-b450-7777-bd27-1b386a996e21",
-      "time": "2026-06-01 08:30:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "S&P Global Vietnam Manufacturing PMI rose to 52.8 in May from 50.5 in April, remaining in expansion territory."
-    },
-    {
-      "id": "mkt:019e8096-b411-7777-bd27-159dd8889ba5",
-      "time": "2026-06-01 08:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's HSBC manufacturing PMI rose to 54.8 in May from 53.6 previously."
-    },
-    {
-      "id": "mkt:019e8096-79e8-7777-bd27-0db36d1df134",
-      "time": "2026-06-01 08:30:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【CITIC Securities: Fed dovish forces clearly weakened】CITIC Securities says the Fed's internal dovish camp has clearly weakened. Board turnover is steady: over the next two years only Jerome Powell faces potential turnover when his term ends in 2028; regional Fed presidents face no formal departure pressure before 2028. New chair Wash was sworn in on May 22 and did not signal dovishness. Overall policy stance is dominated by neutral to neutral‑hawkish views; US economic data and geopolitical risks remain key watch points."
-    },
-    {
-      "id": "mkt:019e8096-6518-7777-bd27-065912e86410",
-      "time": "2026-06-01 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Manufacturing PMI Final (May) | actual 54.5 | previous 54.5"
-    },
-    {
-      "id": "mkt:019e8096-64c4-7777-bd26-fe15f3a9fb18",
-      "time": "2026-06-01 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Taiwan | Manufacturing PMI (May) | actual 56.1 | previous 55.3"
-    },
-    {
-      "id": "mkt:019e8096-649c-7777-bd26-f6d2ad6be2f4",
-      "time": "2026-06-01 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Manufacturing PMI (May) | actual 54.8 | previous 53.6"
-    },
-    {
-      "id": "4909242",
-      "time": "2026-06-01 08:29:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗戰事擾亂前景  日本企業縮減投資】日本大型企業一季度削減資本支出。受中東局勢持續動盪、不確定性加劇影響，企業經營信心開始下滑。日本財務省週一公佈資料：截至3月的一季度，不含軟體類的資本支出環比下降3.5%。而同期國內生產總值初值顯示，企業投資環比微增0.3%。分行業來看，非製造業投資環比下滑5.1%，製造業投資環比微降0.3%。資料反映出製造業正處於轉型階段，市場不確定性不斷加劇。日本央行4月1日釋出的短觀調查顯示，大型製造企業景氣判斷指數連續第四個季度改善，但所有行業的未來預期均出現下滑。今年3月初，伊朗因遭美以襲擊採取反制措施，基本切斷霍爾木茲海峽航運這條全球原油運輸大動脈，國際油價隨之大幅飆升。"
-    },
-    {
-      "id": "4909241",
-      "time": "2026-06-01 08:27:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國LG電子股價上漲28%。"
-    },
-    {
-      "id": "mkt:019e8093-fba6-7777-bd26-eedeed161354",
-      "time": "2026-06-01 08:27:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's monthly semiconductor exports surged to a record $37.2 billion in May, data from the Ministry of Trade, Industry and Energy showed."
-    },
-    {
-      "id": "4909240",
-      "time": "2026-06-01 08:26:59",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：美聯儲內部偏鴿力量明顯減弱】中信證券研報稱，當前美聯儲換屆節奏較為平穩，未來2年內聯邦儲備委員會7名成員中，僅有傑羅姆·鮑威爾一名委員可能因2028年任期結束出現變動，地區聯儲行長層面2028年前無正式離任壓力。新主席沃什5月22日宣誓就職，表態未釋放鴿派訊號。整體來看，美聯儲內部偏鴿力量明顯減弱，政策立場方面中性及中性偏鷹派佔多數，但仍需關注美國經濟情況、地緣衝突風險等因素。"
     }
   ]
 }
