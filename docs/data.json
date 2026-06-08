@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-08 21:20:02",
-  "count": 19226,
+  "updated": "2026-06-08 21:24:08",
+  "count": 19214,
   "items": [
+    {
+      "id": "te:economy:557311",
+      "time": "2026-06-08 21:23:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Lingers at 2-Week Highs — South Africa’s 10-year bond yield was around 8.74%, the highest in over two weeks, reflecting a cautious sentiment amid ongoing tensions in the Middle East. Fresh hostilities between Iran and Israel have threatened to jeopardise prospects for a Washington–Tehran agreement, potentially extending the energy crisis and raising the odds of additional rate hikes. The South African Reserve Bank increased borrowing costs by 25 basis points to 7% in late May, marking its first hike in three years, as it sought to rein in inflation driven by higher oil prices. It also warned that further rate increases may be necessary to bring inflation back to its 3% target if the conflict persists."
+    },
+    {
+      "id": "4924256",
+      "time": "2026-06-08 21:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問雷扎伊：霍爾木茲海峽屬於伊朗和阿曼，我們將不允許任何其他國家干涉該海峽。"
+    },
+    {
+      "id": "mkt:019ea766-c497-7226-8cb5-4e3cb19eddc7",
+      "time": "2026-06-08 21:23:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's supreme leader's military adviser Rezaei said the Strait of Hormuz belongs to Iran and Oman and Iran will not allow other countries to interfere."
+    },
+    {
+      "id": "4924255",
+      "time": "2026-06-08 21:22:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠譽評級將全球油氣行業展望調整為因油價上漲而改善。"
+    },
+    {
+      "id": "4924254",
+      "time": "2026-06-08 21:22:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CHECK POINT股價下跌3%；該公司發現了一個安全漏洞。"
+    },
+    {
+      "id": "4924253",
+      "time": "2026-06-08 21:21:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "巴斯夫股份公司股價下跌3.6%，有望創下3月以來最大單日跌幅。"
+    },
+    {
+      "id": "4924252",
+      "time": "2026-06-08 21:21:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌3%，現報1413.00元。"
+    },
+    {
+      "id": "4924251",
+      "time": "2026-06-08 21:19:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨星科技：控股股東擬減持0.29%】巨星科技公告，公司控股股東巨星控股集團有限公司持有4.64億股，佔38.82%，因自身資金需求，擬在公告披露之日起15個交易日後的3個月內以大宗交易方式向公司實際控制人仇建平先生減持350萬股，佔0.29%，減持股份來源於首次公開發行前股份，減持期間為2026年7月1日至2026年9月30日，減持價格區間將根據減持時市場價格確定。"
+    },
     {
       "id": "4924250",
       "time": "2026-06-08 21:19:07",
@@ -177114,202 +177188,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲5%，現報95.69美元/桶。"
-    },
-    {
-      "id": "mkt:019e835a-e808-7112-8c92-0d382de92f56",
-      "time": "2026-06-01 21:23:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "DXY rose to an intraday high of 99.23 on reports that Iran halted communications with the US."
-    },
-    {
-      "id": "4910924",
-      "time": "2026-06-01 21:23:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蘇黎世機場股份公司股價下跌2.9%。"
-    },
-    {
-      "id": "4910923",
-      "time": "2026-06-01 21:23:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "加皇資本市場將Meta Platforms目標價維持在810.00美元。"
-    },
-    {
-      "id": "mkt:019e835a-7e5e-7112-8c92-033baaaeeb69",
-      "time": "2026-06-01 21:23:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,470/oz, down 1.54% on the day."
-    },
-    {
-      "id": "4910922",
-      "time": "2026-06-01 21:23:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元創下日內新高。"
-    },
-    {
-      "id": "4910921",
-      "time": "2026-06-01 21:22:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "法蘭克福機場管理集團股價下跌3.2%。"
-    },
-    {
-      "id": "mkt:019e8359-e284-7112-8c91-f8b375dd3206",
-      "time": "2026-06-01 21:22:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Main crude futures contracts rose in short-term trade: SC crude up 3.25% at 603.8 yuan/bbl; low-sulfur fuel oil (LU) up 2.76% at 4,773 yuan/tonne; fuel oil up 2.24% at 3,924 yuan/tonne; bitumen up 3.21% at 4,373 yuan/tonne."
-    },
-    {
-      "id": "4910920",
-      "time": "2026-06-01 21:22:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4470美元/盎司，日內跌1.56%。"
-    },
-    {
-      "id": "mkt:019e8358-d803-7112-8c91-f6d4064ac506",
-      "time": "2026-06-01 21:21:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "WTI crude futures jumped about 5% intraday to $91.74/bbl."
-    },
-    {
-      "id": "4910919",
-      "time": "2026-06-01 21:21:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破92美元/桶，日內漲5.31%。"
-    },
-    {
-      "id": "4910918",
-      "time": "2026-06-01 21:21:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4500美元/盎司，日內跌2.03%。"
-    },
-    {
-      "id": "4910917",
-      "time": "2026-06-01 21:21:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4501.08美元/盎司。"
-    },
-    {
-      "id": "4910916",
-      "time": "2026-06-01 21:21:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破95美元/桶，日內漲4.44%。"
-    },
-    {
-      "id": "4910915",
-      "time": "2026-06-01 21:21:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲3%，現報2910.00元。"
-    },
-    {
-      "id": "mkt:019e8358-b2dc-7112-8c91-edd9d2046c8e",
-      "time": "2026-06-01 21:21:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Arabia condemned Israel's 'aggression' against Lebanon, SPA said."
-    },
-    {
-      "id": "4910914",
-      "time": "2026-06-01 21:21:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯譴責以色列對黎巴嫩實施侵略行為。"
-    },
-    {
-      "id": "4910913",
-      "time": "2026-06-01 21:20:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內漲5%，現報91.74美元/桶。"
-    },
-    {
-      "id": "mkt:019e8357-f06d-7112-8c91-e174c241ea6d",
-      "time": "2026-06-01 21:20:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Reports said U.S. Treasuries extended losses after Iran halted communications with the U.S."
-    },
-    {
-      "id": "mkt:019e8357-85a3-7112-8c91-da80ea3ed6ef",
-      "time": "2026-06-01 21:20:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran suspends mediator-led U.S. talks, orders full blockade of Strait of Hormuz】Iranian state media said Tehran has suspended mediator-led negotiations and document exchanges with the United States, citing Israeli strikes on Lebanon and ceasefire violations across multiple fronts. Iran and the Axis of Resistance said they will fully block the Strait of Hormuz and open other fronts, including the Mandeb Strait, to punish Israel and its supporters. Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from occupied areas in Lebanon before talks resume; Iran said it will not negotiate until those conditions are met."
-    },
-    {
-      "id": "te:markets:555385",
-      "time": "2026-06-01 21:20:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lithium Holds Retreat from 2-Year High — Lithium carbonate prices in China were near CNY 180,000 per tonne, below the two-year high of CNY 200,500 from May 13th as higher prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027."
     }
   ]
 }
