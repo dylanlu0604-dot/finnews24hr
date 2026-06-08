@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-08 14:28:17",
-  "count": 19357,
+  "updated": "2026-06-08 14:32:03",
+  "count": 19358,
   "items": [
+    {
+      "id": "mkt:019ea5ed-ec36-7cc3-8413-a81fc5b01a08",
+      "time": "2026-06-08 14:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan and South Korea stocks tumble; KOSPI down 8.29%】June 8 — Japan's Nikkei 225 closed down 2,563.52 points (-3.85%) at 64,024.60. South Korea's KOSPI closed down 676.18 points (-8.29%) at 7,484.41."
+    },
+    {
+      "id": "4923223",
+      "time": "2026-06-08 14:31:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數收盤下跌3.8%，報64,024.60點。"
+    },
+    {
+      "id": "4923222",
+      "time": "2026-06-08 14:31:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：確認伊朗向以色列發射導彈。"
+    },
+    {
+      "id": "4923221",
+      "time": "2026-06-08 14:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗隊抵達世界盃駐地 墨軍警車隊護送】參加2026美加墨世界盃的伊朗國足代表團7日抵達墨西哥邊境城市蒂華納，在全副武裝的墨軍人和警察護送下前往酒店。伊朗國足此前在土耳其安塔利亞備戰三週。據美聯社報道，他們6日乘坐包機從安塔利亞直接飛往蒂華納，於7日凌晨5時左右抵達。數十名伊朗球迷在機場歡迎球隊的到來。（新華社）"
+    },
+    {
+      "id": "4923220",
+      "time": "2026-06-08 14:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【奢侈品牌Prada進軍航天業 為NASA提供登月宇航服】義大利奢侈品牌Prada公佈專為NASA登月任務設計的內層服裝。該服裝由Prada與美國航天基礎設施開發商Axiom Space合作打造，特色是在面料中織入通風管道。該宇航服預計將用於NASA計劃在2028年進行的“阿耳忒彌斯4號”登月任務。"
+    },
+    {
+      "id": "te:markets:557156",
+      "time": "2026-06-08 14:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.69% Lower — The Nikkei 225 Index decreased 3123 points or 4.69 percent on Monday to close at 63465 points. The decline was led by Sumco (-13.88%), Tokuyama (-10.90%) and Minebea (-9.87%)."
+    },
+    {
+      "id": "4923219",
+      "time": "2026-06-08 14:29:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【茅臺醬香酒線上渠道擴容，淨增63家至206家】近日，茅臺醬香酒公司更新七大主流電商平臺官方授權店鋪名單。對比去年7月名單發現，從店鋪名稱來看，其線上渠道版圖迎來顯著擴張，今年授權店鋪共206家，較去年淨增加63家。其中，抖音成擴張主力，官方授權店鋪從去年的28家猛增至63家，淨增長35家；微信影片號平臺店鋪數量由6家增長至22家，兩大內容平臺成為茅臺醬香酒直面消費者的核心陣地。"
+    },
+    {
+      "id": "mkt:019ea5eb-d78a-7cc3-8413-a11d939d505f",
+      "time": "2026-06-08 14:29:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【7.8 magnitude quake in southern Philippines kills 15, injures 134】The Philippine disaster agency said a magnitude-7.8 earthquake struck southern Philippines on the morning of the 8th, killing 15 people and injuring 134."
+    },
+    {
+      "id": "4923218",
+      "time": "2026-06-08 14:28:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成15人死亡、134人受傷。（新華社）"
+    },
+    {
+      "id": "te:markets:557154",
+      "time": "2026-06-08 14:27:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends at 2-Week Low, Down 3.5% — The TAIEX, Taiwan’s benchmark stock index, slumped 1,568 points, or 3.5%, to close at 43,503 on Monday, retreating for the third straight session and touching its lowest level since May 22. The decline tracked losses on Wall Street on Friday, where a tech selloff weighed on sentiment. Traders were also concerned that high interest rates could weigh on AI-related stocks. Caution also built amid escalating tensions in the Middle East after Israel launched retaliatory strikes on Iran following Tehran's attacks on northern Israel. All sectors traded in negative territory, with electronic technology plunging 3.7%, technology services slumping 5.1%, and energy minerals falling sharply by 4.9%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, shed 3.0%. Other sharp losers included United Microelectronics (-8.0%), ASE Technology (-6.4%), Hon Hai Precision (-5.3%), MediaTek (-5.4%), and Delta Electronics (-2.0%)"
+    },
     {
       "id": "mkt:019ea5ea-503c-7cc3-8413-9b6433bb0e58",
       "time": "2026-06-08 14:27:37",
@@ -178393,92 +178485,6 @@
         "其他"
       ],
       "text": "【司法部發布未成年人法律援助典型案例 涉及校園欺凌、人身損害等重點領域】記者從司法部瞭解到，自2024年起在全國組織開展“法援護苗”專項行動以來，全國法律援助機構共組織辦理未成年人法律援助案件38萬餘件，為未成年人提供法律諮詢30萬餘人次，大量未成年人透過法律援助保障了自身合法權益。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e81e1-84c9-799c-966d-03f7b059101d",
-      "time": "2026-06-01 14:31:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan's Nikkei 225, South Korea's KOSPI close at record highs】June 1 (Monday): Japan's Nikkei 225 closed up 604.83 pts (+0.91 pct) at 66,934.33. South Korea's KOSPI closed up 311.85 pts (+3.68 pct) at 8,788.0. Both marked record closing highs."
-    },
-    {
-      "id": "4909826",
-      "time": "2026-06-01 14:31:25",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲0.91%，報66934.33點。韓國綜指收漲3.68%，報8788.00點。"
-    },
-    {
-      "id": "4909824",
-      "time": "2026-06-01 14:30:39",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "軟銀集團超越豐田，成為日本市值最高企業。"
-    },
-    {
-      "id": "4909823",
-      "time": "2026-06-01 14:30:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士4月實際零售銷售年率 1.6%，前值0.50%。"
-    },
-    {
-      "id": "mkt:019e81e0-5c47-799c-966c-f952a2365d97",
-      "time": "2026-06-01 14:30:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Switzerland real retail sales YoY April 1.6% vs 0.5% prior."
-    },
-    {
-      "id": "te:markets:555228",
-      "time": "2026-06-01 14:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.94% Higher — The Nikkei 225 Index went up by 624 points or 0.94 percent on Monday to close at 66954 points. The rise was led by Softbank (14.99%), Murata Manufacturing (10.18%) and Sumco (9.16%). On the downside, the weakerst performers were Denki Kagaku Kogyo (-7.04%), Mitsubishi Motors (-6.73%) and Mitsubishi Electric (-6.69%)."
-    },
-    {
-      "id": "mkt:019e81e0-3bd8-799c-966c-f3e4c072c7dd",
-      "time": "2026-06-01 14:30:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | Real Retail Sales (YoY) (Apr) | actual 1.6% | previous 0.50%"
-    },
-    {
-      "id": "4909822",
-      "time": "2026-06-01 14:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【市場監管總局釋出兒童智慧手錶消費提示 選購使用看這幾點】記者今天瞭解到，市場監管總局釋出兒童智慧手錶消費提示。幫助家長和孩子們科學購買和使用相關產品。兒童智慧手錶是供3週歲及以上、14週歲以下兒童使用的、具有資訊處理功能的手錶。建議消費者在選購和使用時重點關注以下幾點："
-    },
-    {
-      "id": "mkt:019e81df-5b64-799c-966c-ec37d23377f8",
-      "time": "2026-06-01 14:29:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Banque de France Governor Villeroy: in most scenarios growth expectations will remain positive."
     }
   ]
 }
