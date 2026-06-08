@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-08 19:50:44",
-  "count": 19276,
+  "updated": "2026-06-08 19:54:52",
+  "count": 19272,
   "items": [
+    {
+      "id": "4924083",
+      "time": "2026-06-08 19:53:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【退市觀典：上交所將在6月10日對公司股票予以摘牌】退市觀典(688287)6月8日公告，根據相關規定及上交所的安排，上交所將在2026年6月10日對公司股票予以摘牌，公司股票終止上市。公司股票終止上市並摘牌後，將轉入全國中小企業股份轉讓系統依託原證券公司代辦股份轉讓系統設立並代為管理的兩網公司及退市公司板塊掛牌轉讓。主辦券商原則上應在摘牌後四十五個交易日內完成掛牌手續。"
+    },
+    {
+      "id": "mkt:019ea714-965b-799c-b570-85ab66282507",
+      "time": "2026-06-08 19:53:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Africa CDC said confirmed Ebola cases in the Democratic Republic of the Congo stood at 544, with 515 cases in Ituri province."
+    },
+    {
+      "id": "4924081",
+      "time": "2026-06-08 19:53:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心：剛果埃博拉確診病例數達544例，其中515例位於伊圖裡省。"
+    },
+    {
+      "id": "mkt:019ea714-429b-733a-a15b-5f3f1af22e39",
+      "time": "2026-06-08 19:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issues red rainstorm warning."
+    },
+    {
+      "id": "mkt:019ea714-3b2f-733a-a15b-52dce3bf7d6b",
+      "time": "2026-06-08 19:53:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China MFA Policy Planning Director-General Chen Song attends 11th BRICS foreign policy dialogue】On June 5, 2026, China’s Ministry of Foreign Affairs Policy Planning Director-General Chen Song attended the 11th BRICS foreign policy dialogue in New Delhi. Delegates exchanged views on the international situation, global governance, BRICS cooperation and their respective foreign policies."
+    },
+    {
+      "id": "4924080",
+      "time": "2026-06-08 19:52:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
+    {
+      "id": "4924079",
+      "time": "2026-06-08 19:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部政策規劃司司長陳松出席第十一屆金磚國家外交政策對話會】2026年6月5日，外交部政策規劃司司長陳松出席在印度新德里舉行的第十一屆金磚國家外交政策對話會。與會各方就國際形勢、全球治理、金磚合作和各自外交政策等深入交換意見。（外交部）"
+    },
+    {
+      "id": "4924078",
+      "time": "2026-06-08 19:51:41",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【勝宏科技：擬推出不超過7億元員工持股計劃】勝宏科技6月8日公告，公司擬推出新一期員工持股計劃，投入資金總額不超過7億元，股票來源為透過二級市場購買等法律法規許可方式獲得的公司A股普通股。持有人範圍包括公司董事（不含獨立董事）、高階管理人員及合併報表範圍內子公司員工。該計劃尚處於籌劃階段，需經董事會和股東會審議批准，存在不確定性。"
+    },
+    {
+      "id": "mkt:019ea711-eb01-733a-a15b-4a197ab25580",
+      "time": "2026-06-08 19:50:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said SK Hynix's plan to double wafer capacity by 2030 is insufficient."
+    },
+    {
+      "id": "4924077",
+      "time": "2026-06-08 19:50:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達執行長黃仁勳：SK海力士計劃到2030年將晶圓產能翻一番，這一規劃仍不夠充足。"
+    },
+    {
+      "id": "te:markets:557287",
+      "time": "2026-06-08 19:50:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Pulls Back from Session Highs — Brent crude oil futures eased to $94 per barrel after having crossed $98 earlier on Monday after Iran stated it had ended its military operations against Israel. The statement from Iranian media eased concerns that fresh escalation to the conflict would hamper the negotiations between Tehran and the US to extend their ceasefire and gradually restore exports of oil through the Persian Gulf. Still, Israel refrained from signaling their de-escalation, after the first strikes between Iran and Israel since their ceasefire had driven oil futures to surge at the start of the week. Separately, OPEC+ approved another increase in July oil production quotas of 188,000 barrels per day despite persistent supply risks stemming from tensions in the Middle East. Fresh data indicating an aggressive pullback in imports by China also limited supply pressures, as Asia's top consumer has relied on inventory instead of overseas supply since the start of the conflict."
+    },
     {
       "id": "4924076",
       "time": "2026-06-08 19:49:53",
@@ -177597,146 +177700,6 @@
         "Impact bullish"
       ],
       "text": "Morgan Stanley raises target price on Dell (DELL.N) to $448 from $170."
-    },
-    {
-      "id": "4910714",
-      "time": "2026-06-01 19:54:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【無界進化完成數千萬元天使輪融資】6月1日，晶泰科技宣佈，其深度孵化的AI生物企業——無界進化（INFevo）已完成數千萬元天使輪融資，由順為資本、紅杉中國與松禾資本共同參與。"
-    },
-    {
-      "id": "4910713",
-      "time": "2026-06-01 19:53:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多地搶灘太空算力 全球萬億美元級市場待挖掘】北京成立太空智算研究院，天津組建太空數智基礎設施聯合攻關體，上海成立太空算力產業生態夥伴計劃……近段時間，各地太空算力領域動作不斷，產業加快發展。工業和資訊化部也表示，支援開展太空算力技術前瞻性研究，有序推動太空算力產業發展。當前，太空算力處於技術突破與產業佈局的關鍵視窗期。盤古智庫高階研究員吳琦表示，人工智慧帶動算力需求激增，地面算力面臨能耗、散熱瓶頸，太空算力憑藉太陽能供電和廣域覆蓋成為未來方向。機構預測到2030年，全球太空經濟市場規模將超過萬億美元，太空算力商業前景廣闊。業內專家指出，太空算力是繼通訊導航遙感之後的新一代天基資訊服務能力，融合航天、能源、計算與人工智慧等領域，已成為大國科技競爭以及商業航天發展的新賽道，更是支撐數字中國建設和數字經濟高質量發展的新引擎，正在引領新一輪科技革命。 (第一財經)"
-    },
-    {
-      "id": "mkt:019e8308-624d-7112-8c8f-8c3568a2e247",
-      "time": "2026-06-01 19:53:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com"
-      ],
-      "text": "【Zhiyuan to open first offline store in Shanghai on June 13】Zhiyuan will open its first JD-linked offline store on June 13 at 3509 Caobao Road, Minhang District, Shanghai. The store is positioned as a prototype for integrated retail-complex deployment and will operate a full-chain, robot-led model from front-end sales to back-end operations, aiming to let robots \"sell themselves\"; it will feature four modules: Lingxi guided shopping, a cyber performance showcase, a maker/education space and an intelligent logistics hub."
-    },
-    {
-      "id": "4910712",
-      "time": "2026-06-01 19:53:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會副議長：當然，舉行公開會議必須事先獲得許可。 如果最高領袖認為可行並下達指令，我們可以召開公開會議，部分議員到場參會，其餘人員線上參會。 根據最高國家安全委員會的決議，全體議員集中在同一地點集會是不被允許的。"
-    },
-    {
-      "id": "te:markets:555376",
-      "time": "2026-06-01 19:53:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises on US-Iran Deal Uncertainty — Brent crude oil futures rose by around 3% to above $93 per barrel on Monday, rebounding from a six-week low as uncertainty persisted over a proposed US-Iran agreement to extend a ceasefire and reopen the Strait of Hormuz. Washington and Tehran continued exchanging messages over revisions to the draft deal, though there was little indication of a breakthrough. President Donald Trump said overnight that “it will all work out well in the end,” even as military activity continued on both sides. Iran also signaled that any agreement would need to include a truce in Lebanon, where Israel has expanded its largest ground operation in decades. Elsewhere, Ukraine intensified attacks on Russian refineries, while Moscow banned jet fuel exports through November to prevent domestic shortages. Despite recent volatility, oil prices remain roughly 30% higher than before the conflict began in late February."
-    },
-    {
-      "id": "4910711",
-      "time": "2026-06-01 19:52:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST易錄：股價連續兩日漲幅偏離值超30% 預重整仍存不確定性】*ST易錄公告稱，公司股票於2026年5月29日、6月1日連續兩個交易日收盤價格漲幅偏離值累計超過30%，屬於異常波動。公司核查發現，前期披露資訊無誤，未發現未公開重大資訊，經營環境未變。目前法院已啟動預重整程式，但後續是否進入重整及能否順利實施完畢均不確定。此外，公司因涉嫌信披違規被立案，存在行政處罰風險，且有金融債務逾期、多起訴訟等問題，提醒投資者注意風險。"
-    },
-    {
-      "id": "te:markets:555375",
-      "time": "2026-06-01 19:52:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rises on US-Iran Deal Uncertainty — WTI crude oil futures rose more than 3% to above $90 per barrel on Monday, rebounding from a six-week low as uncertainty persisted over a proposed US-Iran agreement to extend a ceasefire and reopen the Strait of Hormuz. Washington and Tehran continued exchanging messages over revisions to the draft deal, though there was little indication of a breakthrough. President Donald Trump said overnight that “it will all work out well in the end,” even as military activity continued on both sides. Iran also signaled that any agreement would need to include a truce in Lebanon, where Israel has expanded its largest ground operation in decades. Elsewhere, Ukraine intensified attacks on Russian refineries, while Moscow banned jet fuel exports through November to prevent domestic shortages. Despite recent volatility, oil prices remain roughly 30% higher than before the conflict began in late February."
-    },
-    {
-      "id": "4910710",
-      "time": "2026-06-01 19:52:38",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：戴爾因成功應對記憶體短缺獲上調評級】戴爾科技在應對記憶體和CPU供應短缺方面比同行做得更好，促使摩根士丹利的分析師改變了對該股的看法，將其評級從減持上調至中性。這些分析師表示，他們此前認為戴爾在應對成本上漲方面會舉步維艱的看法是錯誤的，現在預計戴爾將奪取市場份額，因為與許多競爭對手相比，戴爾在獲取記憶體定價方面具有優勢。企業客戶正在提前下達訂單，這些分析師認為，這將有助於戴爾在2027財年結束時實現需求增長快於供應。該股今年已上漲逾兩倍，並在週五創下歷史新高。"
-    },
-    {
-      "id": "mkt:019e8307-4545-7112-8c8f-86305cf0da1b",
-      "time": "2026-06-01 19:52:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meituan",
-        "03690.HK",
-        "Impact mixed"
-      ],
-      "text": "Meituan (03690.HK) CEO says the company will prioritize improving operations over expanding into new markets this year."
-    },
-    {
-      "id": "mkt:019e8306-dcd9-7112-8c8f-7ee8c2334a4d",
-      "time": "2026-06-01 19:52:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【South African petrol hits record high as tax relief measures tightened】South African petrol prices are set to hit a record this month after the government removed temporary relief measures intended to shield consumers from fuel-price rises linked to the Iran war. The Ministry of Mineral Resources and Energy said retail price for 95-octane petrol in Gauteng will rise to 28.06 rand per litre on June 3 from 26.63 rand per litre last month, about 1.73 dlr per litre."
-    },
-    {
-      "id": "4910709",
-      "time": "2026-06-01 19:51:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "美團執行長：我們今年將優先推進運營最佳化，而非開拓新市場。"
-    },
-    {
-      "id": "4910708",
-      "time": "2026-06-01 19:51:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "以色列財政部長：今年移居以色列的新移民，可享受五年全額免稅政策。"
-    },
-    {
-      "id": "4910707",
-      "time": "2026-06-01 19:51:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST 美麗：股價異常波動 提示多項風險】*ST 美麗公告稱，公司股票於 2026 年 5 月 28 日、5 月 29 日、6 月 1 日連續三個交易日收盤價格漲幅偏離值累計超 12%，屬異常波動情形。經自查，公司未發現應披露而未披露重大資訊，經營正常。2025 年度營收 63421.19 萬元，淨虧損 3456.44 萬元；2026 年一季度營收 10559.22 萬元，淨利潤 2707.12 萬元。此外，公司庭外重組工作正在推進，2025 年度財報被出具無法表示意見審計報告，股票被實施退市及其他風險警示。"
-    },
-    {
-      "id": "mkt:019e8306-25a1-7112-8c8f-70d336402ab0",
-      "time": "2026-06-01 19:51:18",
-      "tags": [
-        "MKT News",
-        "03690.HK"
-      ],
-      "text": "Meituan (03690.HK) CEO said growth metrics have seen recent volatility tied to the Middle East; impact so far manageable."
-    },
-    {
-      "id": "4910706",
-      "time": "2026-06-01 19:51:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "Tessalia滿負荷生產時預計將擁有800名員工。"
     }
   ]
 }
