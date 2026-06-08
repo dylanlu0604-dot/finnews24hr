@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-09 00:44:42",
-  "count": 19113,
+  "updated": "2026-06-09 00:48:36",
+  "count": 19116,
   "items": [
+    {
+      "id": "mkt:019ea821-80d0-733a-9231-bee205045cfb",
+      "time": "2026-06-09 00:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran Civil Aviation Organization says nationwide air traffic restored】Iran's Civil Aviation Organization said on the evening of the 8th local time that flight restrictions have been lifted and nationwide air traffic restored after ensuring safety conditions and coordinating with relevant agencies."
+    },
+    {
+      "id": "4924497",
+      "time": "2026-06-09 00:46:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗民航組織：全國航空活動恢復正常】當地時間8日晚，伊朗民航組織表示，在確保安全條件並與相關機構進行必要協調後，飛行限制已解除，全國航空活動恢復正常。"
+    },
+    {
+      "id": "mkt:019ea820-8dbe-733a-9231-b180962b0188",
+      "time": "2026-06-09 00:46:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) will issue C$14 bln of senior bonds, the largest Canadian-dollar bond offering on record."
+    },
+    {
+      "id": "4924496",
+      "time": "2026-06-09 00:45:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩科瑞上半年利潤受大宗商品市場波動影響大增88%。"
+    },
+    {
+      "id": "mkt:019ea81f-fb3f-733a-9231-ae32cce2b75d",
+      "time": "2026-06-09 00:45:28",
+      "tags": [
+        "MKT News",
+        "9432.T",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "Nikkei reports NTT will raise capital from US and South Korean investors to establish a $500m optical-network fund. Around 20 firms are expected to participate, including Samsung Electronics."
+    },
     {
       "id": "4924495",
       "time": "2026-06-09 00:43:18",
@@ -176150,23 +176198,6 @@
         "其他"
       ],
       "text": "Tripo AI完成近2億美元A+輪和A++輪融資，以推進其AI 3D及世界模型路線圖。"
-    },
-    {
-      "id": "4911199",
-      "time": "2026-06-02 00:47:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【Apollo首席經濟學家稱AI熱潮將澆滅美聯儲新任主席沃什快速降息的希望】Apollo Global Management Inc.首席經濟學家Torsten Slok表示，人工智慧基礎設施建設在初期將推高通脹，這將使新任美聯儲主席凱文·沃什無法以他此前所暗示的可能的速度那樣迅速降息。“我們可能還得再等一段時間，因為在初期，AI熱潮肯定會推升通脹。”他說，從半導體價格、能源價格和勞動力成本來看，價格壓力風險“非常明確”。"
-    },
-    {
-      "id": "mkt:019e8413-c7c7-7993-96f7-33f615850948",
-      "time": "2026-06-02 00:45:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor) will restrict imports from Armenia of cherries, sweet cherries, apricots, plums, peaches, nectarines and grapes effective June 2."
     }
   ]
 }
