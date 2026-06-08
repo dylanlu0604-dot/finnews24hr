@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-09 02:58:40",
-  "count": 19230,
+  "updated": "2026-06-09 03:02:55",
+  "count": 19229,
   "items": [
+    {
+      "id": "mkt:019ea89c-eb6c-733a-9234-86e2215c3c65",
+      "time": "2026-06-09 03:01:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.04% at 24,555, trading 102 points below the spot index."
+    },
+    {
+      "id": "4924629",
+      "time": "2026-06-09 03:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據AXIOS：澤連斯基週一與維特科夫、庫什納通了電話。"
+    },
+    {
+      "id": "4924628",
+      "time": "2026-06-09 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.05%，報24552.28點，低水104.78點。"
+    },
     {
       "id": "mkt:019ea895-dc4c-733a-9234-7cc59f90a69f",
       "time": "2026-06-09 02:54:13",
@@ -177258,43 +177282,6 @@
         "其他"
       ],
       "text": "美銀：資產支援證券、商業地產抵押證券利差優勢突出，成結構化品類優選。"
-    },
-    {
-      "id": "4911254",
-      "time": "2026-06-02 03:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：特朗普採納了我方確立的對等準則，但凡有火力襲擊以色列定居點，以方就將空襲貝魯特，這便是特朗普相關表態的內涵。"
-    },
-    {
-      "id": "mkt:019e8490-6fbb-7993-96f8-f3da6599c9ef",
-      "time": "2026-06-02 03:01:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli reports said Lebanon's presidential office announced Lebanese authorities had received Hezbollah's affirmative response to a US-proposed mutual ceasefire."
-    },
-    {
-      "id": "4911253",
-      "time": "2026-06-02 03:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統奧恩辦公室釋出宣告，黎巴嫩官方已收到真主黨同意美方提出的雙向停火提議的答覆。"
-    },
-    {
-      "id": "4911252",
-      "time": "2026-06-02 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.12%，報25213.93點，低水184.25點。"
     }
   ]
 }
