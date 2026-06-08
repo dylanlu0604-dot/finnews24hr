@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-08 15:49:05",
-  "count": 19347,
+  "updated": "2026-06-08 15:53:01",
+  "count": 19336,
   "items": [
+    {
+      "id": "mkt:019ea638-07b6-7ccd-aaa3-bcf6f5ae1c73",
+      "time": "2026-06-08 15:52:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PCB prices surge as 70% of global PPE resin supply disrupted】Supply fallout from the Middle East conflict has knocked out roughly 70% of global PPE (polyphenylene ether) resin output centered in Saudi Arabia’s Jubail industrial zone; plants halted from late March after shipping through the Strait of Hormuz was impeded. PPE resin is a key input for printed circuit boards used in smartphones, laptops, routers and AI servers; Goldman Sachs says PCB prices rose as much as 40% in April versus March. If resin shortages persist into autumn, consumer electronics price pressure could increase. US PCB maker Xunda Technology’s shares have risen more than 400% over the past year."
+    },
+    {
+      "id": "4923415",
+      "time": "2026-06-08 15:51:52",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場分析：美國國債收益率持續攀升進一步壓制黃金價格】市場分析指出，美國國債收益率持續攀升進一步壓制黃金價格。此前，10年期美債收益率在上一交易日觸及兩週高點後繼續上行，持有無息黃金的機會成本相應增加。此外，中東地緣局勢緊張推高原油價格，也加重了市場對通脹壓力與加息可能性的擔憂。根據芝商所利率觀察工具FedWatch預測，目前市場預計美聯儲在12月前加息的可能性約為76%，反映出交易員普遍預期美聯儲年底前將啟動加息。（央視財經）"
+    },
+    {
+      "id": "4923414",
+      "time": "2026-06-08 15:51:26",
+      "tags": [
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【6月8日滬深兩市漲停分析】滬指跌1.7%失守4000點、創業板指跌3.69%，AI硬體、半導體板塊延續調整。大有能源6連板、中重科技4連板，一圖看懂>>"
+    },
+    {
+      "id": "4923413",
+      "time": "2026-06-08 15:51:19",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【印刷電路板價格大漲 全球70%PPE樹脂供應中斷】中東衝突帶來的影響，正從能源市場進一步蔓延到電子產品供應鏈。央視財經記者瞭解到，沙特的朱拜勒工業區此前供應了全球大約70%的PPE樹脂。但是，早在今年3月底，由於霍爾木茲海峽航運受阻，相關工廠就已經停產。樹脂是製造印刷電路板的重要材料，其中，PPE樹脂主要用於高階產品。要知道，印刷電路板相當於電子裝置的“神經系統”。從智慧手機、膝上型電腦，到路由器、人工智慧伺服器，幾乎所有現代電子產品都離不開它。專家表示，如果樹脂供應中斷持續到今年秋天，消費者將切實感受到漲價的壓力。近期，高盛的一份報告顯示，僅在4月份，印刷電路板的價格較3月份最高上漲了40%。美國印刷電路板製造商迅達科技的股價在過去一年上漲超過400%。 （央視財經）"
+    },
+    {
+      "id": "mkt:019ea635-d6a4-7ccd-aaa3-b3d7fd716bbd",
+      "time": "2026-06-08 15:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian Civil Aviation Authority announced operations at Damascus International Airport are suspended until 23:00 local time (04:00 Beijing time next day)."
+    },
+    {
+      "id": "4923412",
+      "time": "2026-06-08 15:49:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一站通辦 第四屆鏈博會首票進境展品順利通關】今天（6月8日），第四屆中國國際供應鏈促進博覽會完成展會備案，首票進境展品已順利通關。第四屆鏈博會首票展品是來自法國空客公司的兩架1:20的飛機模型和公司宣傳資料，透過“一體化通關”和“ATA單證冊”（暫準進口貨物免稅通關證）兩種方式同步辦理了通關手續，海關一窗受理，一站通辦，貨物實現“快速通關、即刻放行”。（央視新聞）"
+    },
+    {
+      "id": "4923411",
+      "time": "2026-06-08 15:49:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞民航局：大馬士革國際機場暫停運營至當地時間23:00。"
+    },
+    {
+      "id": "4923410",
+      "time": "2026-06-08 15:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬向錢潮：重大資產重組工作正在推進中】萬向錢潮公告稱，公司擬透過發行股份及支付現金方式，購買Wanxiang America Corporation持有的Wanxiang America Corp.100%股權，並募集配套資金。本次交易構成關聯交易，預計構成重大資產重組，不構成重組上市。截至公告披露日，盡職調查、審計、評估等工作正在推進，交易方案在進一步磋商，相關方尚未簽署正式交易檔案。本次交易尚需履行多項程式，能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "4923409",
+      "time": "2026-06-08 15:48:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以色列稱大規模打擊伊朗戰略防禦系統】以色列國防軍今天（6月8日）表示，當天稍早，在以軍情報局的指揮下，數十架以色列空軍戰鬥機對伊朗境內戰略防禦系統實施了大規模打擊。以軍稱，伊朗近期在多地部署防禦系統，試圖恢復其在此前軍事衝突中受損的探測和防禦能力。以軍表示，此次打擊已摧毀這些系統。 以軍稱，在今年早些時候以軍對伊朗的軍事打擊中，伊朗的防禦體系已被嚴重削弱，而最新一次的打擊則進一步提升了以色列空軍在伊朗領空的行動自由度。（CCTV國際時訊）"
+    },
+    {
+      "id": "4923408",
+      "time": "2026-06-08 15:48:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾擎機器人等在上海成立新公司】天眼查App顯示，近日，申擎機器人科技（上海）有限公司成立，法定代表人為張穎，註冊資本1000萬人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、工業機器人銷售等。股東資訊顯示，該公司由上海市寶山區顧村工業公司、深圳眾擎機器人科技股份有限公司共同持股。"
+    },
     {
       "id": "4923407",
       "time": "2026-06-08 15:47:43",
@@ -308,6 +395,14 @@
         "其他"
       ],
       "text": "匈牙利央行庫拉利：通脹下降疊加風險溢價回落，實現價格穩定所需的利率水平大機率已降低。"
+    },
+    {
+      "id": "4923372",
+      "time": "2026-06-08 15:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林省松原市委原常委姜國凡接受審查調查】中央紀委國家監委網站6月8日通報，據吉林省紀委監委訊息：吉林省松原市委原常委、市政府原副市長姜國凡涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受吉林省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "4923371",
@@ -178204,214 +178299,6 @@
         "其他"
       ],
       "text": "【天合光能疊層元件峰值功率達907W 重新整理世界紀錄】6月1日，天合光能宣佈其自主研發、工業標準3.1m²尺寸鈣鈦礦/晶矽疊層元件，經TÜV SÜD權威第三方機構標定，峰值功率達907W，全面積元件效率達29.2%，重新整理全球疊層元件功率世界紀錄。"
-    },
-    {
-      "id": "mkt:019e822b-c60e-766b-8633-ceaeee107f9a",
-      "time": "2026-06-01 15:52:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Economist: France April growth fleeting, policy tools limited】S&P Global Market Intelligence chief economist Joe Hayes said April’s growth in France was transitory. The front-loaded order boost has faded, replaced by falling new business, lower production and inventory reduction. Supply chains are still adjusting to the Middle East war and energy-price shock: more French manufacturers report delivery disruptions and rising input costs versus April, pressures that could feed broader commodity-price rises and supply constraints in coming months. He warned heavily indebted countries like France have limited policy tools to counter such large external shocks."
-    },
-    {
-      "id": "4910029",
-      "time": "2026-06-01 15:52:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【歐元區國債收益率上升，受美伊正在商討的協議持續存在不確定性影響】歐元區政府債券收益率在早盤交易中上升，儘管雙方看似都有達成協議的意願，但美伊正在商討的協議的不確定性依然存在。Hargreaves Lansdown的Matt Britzman在一份報告中表示：“石油重新回到了擔憂清單上，正值對美伊取得更徹底突破的希望遭遇新的不確定性之際。“該分析師表示，市場已經開始反映可能延長停火和重新開放霍爾木茲海峽帶來的緩解預期，但風險溢價並未消失，尤其是在該路線仍是全球能源供應核心的背景下。Tradeweb的資料顯示，10年期德國國債收益率上升4.6個基點，至2.974%。"
-    },
-    {
-      "id": "te:markets:555290",
-      "time": "2026-06-01 15:52:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Little Changed to Begin June — The CAC 40 was little changed at 8,177 on Monday as investors remained uncertain about a potential agreement between the United States and Iran. The two sides continued to disagree over key issues, including the fate of Iran's highly enriched uranium stockpile and the reopening of the Strait of Hormuz. Investors also assessed the outlook for the French economy after the Bank of France indicated it would lower its growth forecasts later this month following a weak start to the year and persistent geopolitical uncertainties linked to the conflict in the Middle East. The central bank had already cut its growth projection in March and currently expects the economy to expand by 0.9% this year. The IMF also downgraded its forecast for France's economic growth to 0.7% from 0.9%. Top performers included TotalEnergies (1.3%), Schneider Electric (2.4%), and STMicroelectronics (1.9%). In contrast, notable laggards included Safran (-1.3%), Sanofi (-1.1%), and Vinci (-1.1%)."
-    },
-    {
-      "id": "4910028",
-      "time": "2026-06-01 15:52:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【赤峰黃金：2026年5月A、H股註冊股本及發行股份數均無變動】赤峰黃金公告稱，截至2026年5月31日，公司A股法定/註冊股份數目為1,663,911,378股，面值1元，法定/註冊股本為16.64億元；H股法定/註冊股份數目為236,499,800股，面值1元，法定/註冊股本為2.36億元，本月均無增減。已發行股份（不包括庫存股份）方面，A股和H股本月底結存分別為1,663,911,378股和236,499,800股，庫存股份均為0，也無增減。同時，公司確認截至本月底符合適用的公眾持股量要求。"
-    },
-    {
-      "id": "4910027",
-      "time": "2026-06-01 15:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局有關負責同志就《非化石能源電力消費核算指南（試行）》答記者問】《指南》對非化石能源電力消費核算做出了哪些規定？\n\n《指南》作為非化石能源電力消費核算基礎性制度，基於統籌銜接、穩妥有序、科學合理等基本原則，對非化石能源電力消費的認定方式和核算方法做出了具體規定。\n\n分類認定每千瓦時非化石能源電力消費的歸屬。《指南》明確了三種認定方式：一是物理認定，包括非化石能源電力自發自用電量、綠電直連等新業態新模式的自用電量、非化石能源發電專案生產耗用電量等方式；二是交易認定，包括非化石能源電力參與電能量交易、綠證交易等方式；三是分攤認定，主要針對未參與物理認定和交易認定的非化石能源電量，為確保核算的完整性，納入省間分攤和省內分攤。\n\n分層明確非化石能源電力消費量的核算方法。《指南》明確了省級、地市和電力使用者非化石能源電力消費量的具體核算方法，既考慮了不同層面資料口徑的銜接統一，又避免重複核算。在同一層面核算中，每"
-    },
-    {
-      "id": "te:economy:555288",
-      "time": "2026-06-01 15:51:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Czech Manufacturing Growth Remains Strong — The Czech Manufacturing PMI fell slightly to 52.2 in May 2026 from 52.9 in April but came in above expectations of 51.9. While the reading was the lowest in three months, it remained above the long-run series average. Output, total new orders, and export orders all continued to rise, albeit at a slower pace, amid supply disruptions and mounting cost pressures linked to the Middle East war. Supplier delivery delays remained severe, with lead times lengthening to one of the greatest extents in nearly four years. The rate of job shedding accelerated to its sharpest since November 2025. Meanwhile, purchasing activity expanded at the fastest rate since April 2022 as firms sought to build safety stocks. On prices, input cost inflation eased from April's level but remained the second-highest since June 2022, while output price inflation rose to its highest since October 2022. Lastly, business confidence strengthened, supported by stronger sales initiatives and planned investment."
-    },
-    {
-      "id": "4910026",
-      "time": "2026-06-01 15:51:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鴻富瀚：控股子公司中標整機櫃液冷部件冷板專案】鴻富瀚公告稱，公司合併報表範圍內控股子公司梅州鴻富瀚（公司持股86.89%）近日收到某客戶相關專案中標通知書，為整機櫃液冷部件-冷板產品中標人。中標產品預計2026年6月至2027年1月按月滾動交付，以正式合同及訂單為準。目前未籤正式合同，最終條款待協商，專案推進可能受多種因素影響，存在延期、中止或終止風險，也可能出現合同未正常履行風險。"
-    },
-    {
-      "id": "4910024",
-      "time": "2026-06-01 15:51:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【建科智慧：取得多項國內專利、國際發明專利及國際商標續展證明】建科智慧公告稱，公司近日收到兩項國內實用新型專利證書、一項國內外觀設計專利證書、一項泰國國際發明專利證書，及一項巴西國際商標續展註冊證明。國內實用新型專利包括“拼裝裝置”“鋼筋上料車”；國內外觀設計專利為“鋼筋尾料卸料機”；國際發明專利是“一種焊網機器人”。上述專利取得不會對公司近期生產經營產生重大影響，但利於完善智慧財產權保護體系，提升核心競爭力；商標續展證明利於加強品牌保護，提高知名度。"
-    },
-    {
-      "id": "mkt:019e8229-d91c-766b-8633-c0bf8bef41ed",
-      "time": "2026-06-01 15:50:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France May final manufacturing PMI 49.7, expected 48.9, previous 48.9."
-    },
-    {
-      "id": "mkt:019e8229-bdbd-766b-8633-bf964208fce7",
-      "time": "2026-06-01 15:50:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China to send emergency aid, medical expert team to DRC for Ebola outbreak】At a June 1 briefing, Foreign Ministry spokesman Lin Jian said China will provide emergency humanitarian assistance to the Democratic Republic of Congo after a new Ebola outbreak and will dispatch a medical expert team to deliver medical services and support. China will also provide aid to the African Union Commission, cooperate on outbreak prevention and support the Africa CDC to bolster African countries’ epidemic response capacity."
-    },
-    {
-      "id": "4910023",
-      "time": "2026-06-01 15:50:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【再升科技：2025年度權益分派每股派發現金紅利0.01元】再升科技公告稱，公司2025年度權益分派方案經2026年5月14日的2025年年度股東會審議透過。本次利潤分配以總股本1,142,340,971股為基數，每股派發現金紅利0.01元（含稅），共計派發現金紅利1142.34萬元。股權登記日為2026年6月8日，除權（息）日及現金紅利發放日為6月9日。不同型別股東扣稅情況有別。"
-    },
-    {
-      "id": "mkt:019e8229-8459-766b-8633-b2e332921a64",
-      "time": "2026-06-01 15:50:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filings show Shanghai Fubei Pet Supplies Co. has filed a listing application with HKEX."
-    },
-    {
-      "id": "4910022",
-      "time": "2026-06-01 15:50:05",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國5月製造業PMI終值 49.7，預期 48.9，初值 48.9。"
-    },
-    {
-      "id": "mkt:019e8229-4077-766b-8633-ae69569cfede",
-      "time": "2026-06-01 15:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Manufacturing PMI Final (May) | actual 49.7 | consensus 48.9 | previous 48.9"
-    },
-    {
-      "id": "4910021",
-      "time": "2026-06-01 15:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金誠信：續簽寮國開元鉀鹽礦委託採礦運營管理承包合同】金誠信公告稱，公司續簽寮國開元鉀鹽礦委託採礦運營管理承包合同，專案為寮國開元年50萬噸氯化鉀專案，位於寮國甘蒙省他曲縣，承包井下南採區採礦及開拓等工程，合同期為2026年1月1日至12月31日，預計金額1.25億元，最終以實際結算為準。合同履行將對業績產生一定影響，但存在履約、不可抗力、高危作業等風險。"
-    },
-    {
-      "id": "4910020",
-      "time": "2026-06-01 15:49:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太陽電纜：財務總監石利民退休離任 公司將盡快選聘】太陽電纜公告稱，公司董事會近日收到財務總監石利民的書面辭職報告，因退休返聘期滿，其申請辭去財務總監職務，辭職報告自送達董事會之日起生效，辭任後仍在公司擔任其他職務。石利民未持有公司股份，無尚未履行完畢的公開承諾事項。其辭任不會對公司日常經營管理產生不利影響，公司將盡快完成財務總監選聘工作。"
-    },
-    {
-      "id": "4910019",
-      "time": "2026-06-01 15:49:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古越龍山：副總經理胡志明到齡離任 聘任為特聘專家】古越龍山公告稱，副總經理胡志明因到退休年齡，於2026年6月1日辭去該職務，原定任期至2027年7月11日。辭職後，公司聘任其為“特聘專家、總釀酒師”。胡志明所負責工作已完成交接，離任不影響公司正常運營。截至公告披露日，胡志明持有公司股票104000股，無未履行完畢的公開承諾。"
-    },
-    {
-      "id": "4910018",
-      "time": "2026-06-01 15:49:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正海生物：取得“活性生物骨”醫療器械註冊變更檔案】正海生物公告稱，公司近日取得國家藥品監督管理局頒發的1項《醫療器械變更註冊（備案）檔案》，完成“活性生物骨”的產品有效期延長變更。該變更檔案與“國械注準20223131334”註冊證共同使用，符合公司發展需要，可最佳化生產運營效率、控制成本、提升競爭力，但對公司近期經營無重大影響。"
-    },
-    {
-      "id": "mkt:019e8228-df5f-766b-8633-a1c5ee0070c0",
-      "time": "2026-06-01 15:49:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【Foreign Ministry says New York Times gave platform to \"Taiwan independence\", calling Taiwan a \"country\" breaches One-China principle】Ministry of Foreign Affairs spokesperson Lin Jian said at a regular briefing the New York Times provided a platform for Taiwan authorities to spread \"Taiwan independence\" separatist claims and openly referred to China's Taiwan region as a \"country,\" a serious violation of the One‑China principle. China firmly opposes this and says the New York Times should correct the error."
-    },
-    {
-      "id": "4910017",
-      "time": "2026-06-01 15:49:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同和藥業：“塞來昔布”原料藥透過CDE審批】同和藥業公告稱，公司近日查詢獲悉“塞來昔布”原料藥透過CDE審批，登記號為Y20240001113，審評審批結果為A（已批准在上市制劑使用的原料）。塞來昔布用於緩解多種疾病症狀及治療成人急性疼痛。該原料藥獲批有利於公司拓展國內市場，形成國內外同步銷售格局，但具體銷售情況受市場環境等因素影響存在不確定性。"
-    },
-    {
-      "id": "4910016",
-      "time": "2026-06-01 15:49:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華斯股份：擬在新疆喀什投資設立全資子公司】華斯股份公告，公司決定在新疆喀什設立全資子公司，擬用名稱為喀什梵希雅服裝有限公司，註冊資本為1000萬元人民幣，使用公司自有資金或者自籌資金認繳出資，持股比例為100%。本次投資已經公司第六屆董事會第十次會議決議審議透過，無需提交股東會審議。本次投資不構成關聯交易，亦不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。"
-    },
-    {
-      "id": "4910015",
-      "time": "2026-06-01 15:49:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：向剛果（金）提供緊急援助以應對埃博拉疫情】就近期剛果（金）暴發新一輪埃博拉疫情，外交部發言人林劍6月1日在例行記者會上表示，中非是風雨同舟、患難與共的好兄弟。我們對當前剛果（金）暴發新一輪埃博拉疫情感同身受。中國政府決定向剛果（金）提供緊急人道主義援助，並專門派遣醫療專家組赴剛提供醫療服務和幫助。同時在雙邊援助的基礎上，向非盟委員會提供援助，並開展疫情防控合作，支援非洲疾控中心防控工作，共同提升非洲國家抗擊疫情能力。（新華社）"
     }
   ]
 }
