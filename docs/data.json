@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-08 10:03:43",
-  "count": 19258,
+  "updated": "2026-06-08 10:07:28",
+  "count": 19257,
   "items": [
+    {
+      "id": "4922723",
+      "time": "2026-06-08 10:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊確認以色列使用空射導彈襲擊了伊朗境內目標。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:557080",
+      "time": "2026-06-08 10:05:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Sink to 11-Week Low — The Hang Seng Index plunged 437 points, or 1.5%, to 24,585 on Monday, extending last week's selloff and reaching its lowest level since March. The decline was driven by a broad retreat in technology and growth stocks after a sharp downturn in global AI-related shares, as investors reassessed earnings prospects and the outlook for interest rates following stronger-than-expected US economic data. The robust jobs report reinforced expectations that the Federal Reserve could keep borrowing costs elevated for longer, dampening appetite for risk assets across the region. Sentiment was further pressured after reports that Iran fired missiles toward Israel, testing a fragile ceasefire and driving oil prices higher. In Hong Kong, technology, finance and retail trade shares led the decline. Among the biggest drags included Tencent (-1.2%), AIA (-1.0%), Kingboard Laminates (-5.3%), Lenovo (-5.1%), and Kuaishou Technology (-3.5%)."
+    },
+    {
+      "id": "mkt:019ea4fa-130d-7ee0-94c8-374462cccce0",
+      "time": "2026-06-08 10:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH",
+        "S&P500"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rose more than 4%."
+    },
+    {
+      "id": "4922722",
+      "time": "2026-06-08 10:05:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達4.00%，成分股中，民士達漲19.52%，萬通液壓漲17.65%，吉岡精密漲13.87%，華密新材漲12.94%。"
+    },
+    {
+      "id": "mkt:019ea4f9-f7b5-7ee0-94c8-2d95412704c7",
+      "time": "2026-06-08 10:05:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000425.SZ",
+        "Impact bullish",
+        "600031.SS"
+      ],
+      "text": "China A-share construction machinery sector traded higher; Wantong Hydraulic rose more than 17%, with XCMG, Sany Heavy Industry, Weibo Hydraulic, Shantui and Tietuo Machinery also advancing."
+    },
+    {
+      "id": "4922721",
+      "time": "2026-06-08 10:04:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量412億元。"
+    },
+    {
+      "id": "4922720",
+      "time": "2026-06-08 10:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約一車站發生持刀傷人事件 5人受傷】據美國多家媒體報道，位於紐約市曼哈頓島的紐約賓夕法尼亞車站內7日傍晚發生持刀傷人事件，導致5人受傷。紐約市消防局發表宣告說，1名傷者傷情嚴重，嫌疑人已被控制。（新華社）"
+    },
+    {
+      "id": "mkt:019ea4f9-877c-7ee0-94c8-244b093d9f8b",
+      "time": "2026-06-08 10:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Indonesian rupiah slid to a record low of 18,090 per US dollar."
+    },
+    {
+      "id": "4922719",
+      "time": "2026-06-08 10:04:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019ea4f8-f231-7ee0-94c8-1f8b93a1f7e8",
+      "time": "2026-06-08 10:03:49",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share reducer sector showed pockets of strength: Ningbo Dongli and Fengguang Precision hit the daily upper trading limit; Jigang Precision and Wantong Hydraulic rose over 10%; Deen Precision, Dingzhi Technology, Siling Smart Drive, Jingjin Electric and Jindao Technology also gained."
+    },
+    {
+      "id": "4922718",
+      "time": "2026-06-08 10:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器、鞍山國資成立能源科技公司】企查查APP顯示，近日，鞍山市新鞍錦泰能源科技有限公司成立，法定代表人為呂若滴，註冊資本為3000萬元，經營範圍包含：電力行業高效節能技術研發；節能管理服務；風力發電技術服務；合同能源管理；新興能源技術研發等。企查查股權穿透顯示，該公司由正泰電器旗下浙江正泰新能源開發有限公司、遼寧新鞍控股投資有限公司共同持股。"
+    },
+    {
+      "id": "4922717",
+      "time": "2026-06-08 10:03:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊區域性走高，豐光精密30cm漲停】減速器板塊區域性走高，寧波東力、豐光精密漲停，吉岡精密、萬通液壓漲超10%，德恩精工、鼎智科技、斯菱智驅、精進電動、金道科技跟漲。"
+    },
     {
       "id": "mkt:019ea4f7-f4d1-7ee0-94c8-17cd687d0e28",
       "time": "2026-06-08 10:02:53",
@@ -177569,125 +177694,6 @@
         "焦點"
       ],
       "text": "焦炭連續主力合約日內漲5%，現報1998.00元。"
-    },
-    {
-      "id": "4909427",
-      "time": "2026-06-01 10:07:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲1%，現報1060.00元。"
-    },
-    {
-      "id": "4909426",
-      "time": "2026-06-01 10:07:19",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【核數聚完成數千萬A輪融資】近日，蘇州核數聚資訊科技有限公司完成數千萬元A輪融資。本次融資由善達投資領投，吳中金控、融玥投資等機構聯合跟投。本輪融資將重點用於核心產品與平臺能力升級，持續推進具身智慧“採集-處理-訓練-評估”一體化平臺建設，加速構建面向下一代機器人產業的資料基礎設施。"
-    },
-    {
-      "id": "4909425",
-      "time": "2026-06-01 10:07:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大商所焦煤主力合約大漲6%】大商所焦煤主力合約大漲6%，報1363元/噸。"
-    },
-    {
-      "id": "mkt:019e80ef-1760-7666-845c-a20084175a86",
-      "time": "2026-06-01 10:06:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Most-active coking coal contract rose 6.00% intraday to 1,362.50 yuan/ton."
-    },
-    {
-      "id": "4909424",
-      "time": "2026-06-01 10:06:46",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：美國國務卿魯比奧就停火事宜與黎巴嫩總統、以色列總理進行交談。"
-    },
-    {
-      "id": "4909423",
-      "time": "2026-06-01 10:06:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲6%，現報1362.50元。"
-    },
-    {
-      "id": "4909422",
-      "time": "2026-06-01 10:06:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "油氣股震盪拉昇，仁智股份封漲停，傑瑞股份漲超8%，貝肯能源、新錦動力、惠博普、藍科高新跟漲。"
-    },
-    {
-      "id": "4909421",
-      "time": "2026-06-01 10:06:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊震盪走強，領先股份漲停】半導體板塊震盪走強，頎中科技盤中創新高，領先股份漲停，安路科技漲超15%，強一股份漲超10%，芯海科技、瑞芯微、大普微、樂鑫科技、銀河微電跟漲。"
-    },
-    {
-      "id": "4909420",
-      "time": "2026-06-01 10:05:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "受科技股樂觀情緒延續，納斯達克100期貨上漲0.5%。"
-    },
-    {
-      "id": "te:markets:555159",
-      "time": "2026-06-01 10:05:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Start Month Higher — The Hang Seng Index rose 170 points, or 0.7%, to 25,357 on Monday, kicking off the new month on a positive note as gains in technology services, electronic technology, and consumer-related stocks lifted the market. Sentiment was supported by continued optimism surrounding artificial intelligence-related investments and renewed buying at the beginning of the month. Investors continued to monitor developments in the Middle East after oil prices advanced and the US dollar strengthened amid limited progress toward a permanent US-Iran ceasefire. Although elevated geopolitical tensions kept energy markets in focus, Hong Kong equities remained supported by steady risk appetite. Among the biggest gainers were Tencent Holdings (2.4%), Akeso Inc. (9.14%), Lenovo (5.8%), Pop Mart International (3.4%), and Xiaomi Corporation (2.1%)."
-    },
-    {
-      "id": "mkt:019e80ed-7ef1-7bb6-a9bf-7608bf5b54a1",
-      "time": "2026-06-01 10:05:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "Hongmeng Zhixing delivered 46,122 units in May, up 41% MoM. Jan–May cumulative deliveries rose 26.5% YoY. Wenjie M6 and Shangjie Z7 have begun phased mass deliveries."
-    },
-    {
-      "id": "4909419",
-      "time": "2026-06-01 10:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：推動航運綠色化轉型 加快建設國際航運綠色燃料加註中心和交易中心】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，強化海空港樞紐全球輻射能力，加快洋山、羅涇等港區基礎設施規劃建設，最佳化臨港新片區、外高橋多式聯運集疏運網路；推動國際中轉和集拼業務規模化發展，豐富多業態混拼模式，最佳化“聯動接卸”業務模式；高標準建成東方樞紐上海東站，發展“航空+”多式聯運，完善浦東國際機場、虹橋國際機場高品質商務航線網路。推動航運服務業高水平發展，推動在滬航運保險運營中心做實做強，支援發展航運領域融資租賃；推進涉外海事臨時仲裁發展，推動成立專業化海事鑑定中心；吸引和培育國際性、國家級航運專業組織和功能性機構在滬集聚發展。加快航運數字化智慧化程序，拓展國際集裝箱運輸服務平臺應用，深化“空運通”平臺建設，持續推進智慧航道建設，拓展“航貿鏈”應用。推動航運綠色化轉型，加快建設國際航運綠色燃料加註中心和交易中心，完善綠色航運技術研發、船舶能效管理等服務體系，積極參與我國自主的國際航運可持續燃料認證體系建設，穩步推進與國際港口合作共建綠色航運走廊。"
-    },
-    {
-      "id": "4909418",
-      "time": "2026-06-01 10:04:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州現代物流集團供應鏈有限公司原董事長龍林被“雙開”】經查，龍林喪失理想信念，背棄初心使命，干擾巡視工作；無視中央八項規定精神，收受可能影響公正執行公務的禮品，接受、提供可能影響公正執行公務的宴請，超標準接待；違背組織原則；違規向管理服務物件攤派費用；不正確履行工作職責，違規干預下屬國有企業經營活動；靠企吃企，利用職務便利為他人在資金撥付、產品經營等方面謀取利益，並非法收受鉅額財物。"
     }
   ]
 }
