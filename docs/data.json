@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09 04:55:49",
-  "count": 19209,
+  "updated": "2026-06-09 04:59:46",
+  "count": 19204,
   "items": [
+    {
+      "id": "mkt:019ea907-f285-733a-9235-dc2ab6489d1f",
+      "time": "2026-06-09 04:58:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Hezbollah said it struck Israeli forces in southern Lebanon."
+    },
     {
       "id": "te:markets:557369",
       "time": "2026-06-09 04:52:38",
@@ -177074,56 +177082,6 @@
         "公司"
       ],
       "text": "谷歌母公司Alphabet融資方案敲定，其中300億美元為承銷公開發行，400億美元為市價增發（ATM）。"
-    },
-    {
-      "id": "4911333",
-      "time": "2026-06-02 04:59:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet已達成協議，透過私募配售向伯克希爾哈撒韋公司出售100億美元的股票。"
-    },
-    {
-      "id": "4911332",
-      "time": "2026-06-02 04:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫要求財長盧特尼克就AI晶片管制漏洞出席聽證會作證。"
-    },
-    {
-      "id": "mkt:019e84fa-5a4f-7993-96fa-472342b7f29e",
-      "time": "2026-06-02 04:57:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said that shortly after an alarm sounded in the Metula area it detected a rocket falling near Israeli troops on duty in southern Lebanon; there are no reports of casualties."
-    },
-    {
-      "id": "mkt:019e84f9-99b1-7993-96fa-3d20691e310f",
-      "time": "2026-06-02 04:56:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU weighs fiscal flexibility for member states to offset energy-cost shock】The European Commission is weighing a proposal to grant member states extra fiscal flexibility to cushion rising energy costs tied to tensions with Iran, people familiar with the matter said. Under the proposal, governments would be allowed additional energy-related spending outside EU fiscal rules equivalent to roughly 0.3% of GDP, implemented as an exemption clause akin to the existing defense-spending carve-out. Italy, already highly indebted and facing elevated energy bills, has been among the strongest advocates for expanded fiscal leeway."
-    },
-    {
-      "id": "4911331",
-      "time": "2026-06-02 04:56:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部部長馬林斯在新聞釋出會上表示，目前沒有必要暫停紐瓦克機場的國際航班入境辦理流程。"
-    },
-    {
-      "id": "mkt:019e84f9-3af5-7993-96fa-3372aa6ca19e",
-      "time": "2026-06-02 04:56:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Homeland Security Secretary said there is currently no need to suspend processing of international flights at Newark Liberty International Airport."
     }
   ]
 }
