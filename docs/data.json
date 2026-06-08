@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09 00:52:31",
-  "count": 19113,
+  "updated": "2026-06-09 00:56:16",
+  "count": 19108,
   "items": [
+    {
+      "id": "4924498",
+      "time": "2026-06-09 00:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國代表團將出訪委內瑞拉，推動當地修改石油相關法律】知情人士稱，美國官員代表團將於近日前往委內瑞拉，推動該國修訂油氣相關法律。此次出訪旨在回應國際石油企業的相關訴求，美方暫無高層官員隨行。"
+    },
     {
       "id": "mkt:019ea821-80d0-733a-9231-bee205045cfb",
       "time": "2026-06-09 00:47:08",
@@ -176111,62 +176119,6 @@
         "MKT News"
       ],
       "text": "IRNA reported HEZBOLLAH said it would observe a ceasefire agreement if Israel stops its aggression and withdraws forces."
-    },
-    {
-      "id": "mkt:019e841d-19a3-7993-96f7-5c1c119df1cd",
-      "time": "2026-06-02 00:55:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Israel's Channel 12, HEZBOLLAH told Trump it would agree to a ceasefire and that the ceasefire would carry no preconditions."
-    },
-    {
-      "id": "4911205",
-      "time": "2026-06-02 00:55:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，委內瑞拉5月份的石油出口量上升至125萬桶/日。\n5月份委內瑞拉輸往加勒比地區用於儲存的石油出口量降至約5.8萬桶/日。\n委內瑞拉對印度的石油出口在五月增至約42.7萬桶/日。\n委內瑞拉對美國的石油出口在五月增加至約55.8桶/日。"
-    },
-    {
-      "id": "4911204",
-      "time": "2026-06-02 00:54:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列媒體Channel 12報道，真主黨告訴特朗普稱他們將同意停火，真主黨表示同意停火不會附加任何前提條件。"
-    },
-    {
-      "id": "mkt:019e841a-3c3b-7993-96f7-52a2706206cf",
-      "time": "2026-06-02 00:52:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Shipping data showed Venezuela's oil exports to the United States rose to about 55.8 b/d in May."
-    },
-    {
-      "id": "4911202",
-      "time": "2026-06-02 00:52:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲196美元，報13832美元/噸。LME期鋁收漲50美元，報3716美元/噸。LME期鋅收漲38美元，報3578美元/噸。"
-    },
-    {
-      "id": "mkt:019e8419-f8bb-7993-96f7-4ab4e4ff248b",
-      "time": "2026-06-02 00:52:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Shipping data show Venezuela's oil exports to India rose to about 427,000 barrels per day in May."
     }
   ]
 }
