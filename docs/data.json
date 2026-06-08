@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-09 05:38:57",
-  "count": 19213,
+  "updated": "2026-06-09 06:02:25",
+  "count": 19203,
   "items": [
+    {
+      "id": "mkt:019ea935-fee2-733a-9236-7582644fd3af",
+      "time": "2026-06-09 05:49:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Trump said Israel will not reopen hostilities with Iran."
+    },
+    {
+      "id": "4924722",
+      "time": "2026-06-09 05:49:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗相關局勢平息後，油價將會回落。"
+    },
+    {
+      "id": "4924721",
+      "time": "2026-06-09 05:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：勝利很快就會到來。"
+    },
+    {
+      "id": "mkt:019ea935-6f91-733a-9236-68e745512d68",
+      "time": "2026-06-09 05:48:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says U.S. is negotiating with Iran."
+    },
+    {
+      "id": "4924720",
+      "time": "2026-06-09 05:48:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將在兩週內宣佈“全面”勝利。"
+    },
+    {
+      "id": "4924719",
+      "time": "2026-06-09 05:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：兩週之內局勢定會迎來轉機。"
+    },
+    {
+      "id": "4924718",
+      "time": "2026-06-09 05:47:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們正在談判。"
+    },
+    {
+      "id": "4924717",
+      "time": "2026-06-09 05:46:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們已經摧毀了他們的軍事力量和領導層。"
+    },
+    {
+      "id": "4924716",
+      "time": "2026-06-09 05:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普出席線上競選集會並發表講話。"
+    },
+    {
+      "id": "mkt:019ea931-56cc-733a-9236-63c08def0fbd",
+      "time": "2026-06-09 05:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a magnitude-5 earthquake in southern Hormozgan province."
+    },
+    {
+      "id": "4924715",
+      "time": "2026-06-09 05:43:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體報道，伊朗南部霍爾木茲甘省發生 5 級地震。"
+    },
+    {
+      "id": "4924714",
+      "time": "2026-06-09 05:40:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI計劃在首次公開募股（IPO）之前啟動員工/股東股票要約收購案（Tender Sale）。據知情人士透露，該公司將在未來幾周內正式舉行該股票要約收購（Tender）。"
+    },
     {
       "id": "4924713",
       "time": "2026-06-09 05:37:18",
@@ -176997,205 +177100,6 @@
         "MKT News"
       ],
       "text": "Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) projects 2025/26 cotton production at 1.00 mln tonnes, down 16% from 2024/25. ABARES forecasts 2026/27 barley output at 14.10 mln tonnes (-15% vs 2025/26), canola at 6.20 mln tonnes (-20%), and wheat at 26.70 mln tonnes (-26%)."
-    },
-    {
-      "id": "4911382",
-      "time": "2026-06-02 06:01:17",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱美伊一週內達成諒解備忘錄】據美國廣播公司當地時間6月1日下午（北京時間6月2日）清晨報道，美國總統特朗普在接受其電話採訪時表示，美國與伊朗的談判目前“看起來不錯，非常不錯”，談判過程中雖然一度出現“小插曲”，但很快便得到解決。他預計美國與伊朗將在未來一週內達成諒解備忘錄，以延長當前的停火安排並重新開放霍爾木茲海峽。特朗普稱，他還沒有批准雙方之間的諒解備忘錄，目前還有幾個點待敲定。"
-    },
-    {
-      "id": "4911381",
-      "time": "2026-06-02 06:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞大麥產量為1410萬噸，較2025/26年度下降15%"
-    },
-    {
-      "id": "4911380",
-      "time": "2026-06-02 06:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度澳大利亞油菜籽產量為620萬噸，較2025/26年度下降20%。"
-    },
-    {
-      "id": "4911379",
-      "time": "2026-06-02 06:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度鷹嘴豆產量為110萬噸，較2025/26年度下降51%。"
-    },
-    {
-      "id": "4911378",
-      "time": "2026-06-02 06:00:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破75美元/盎司，日內漲0.08%。"
-    },
-    {
-      "id": "4911377",
-      "time": "2026-06-02 06:00:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預測，2026/27年度小扁豆產量為220萬噸，較2025/26年度上漲3%。"
-    },
-    {
-      "id": "4911376",
-      "time": "2026-06-02 06:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預估，2025/26年度澳大利亞高粱產量為250萬噸，較2024/25年度下降8%。"
-    },
-    {
-      "id": "4911375",
-      "time": "2026-06-02 06:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業與資源經濟科學局（ABARES）預估2025/26年度澳大利亞棉花產量為100萬噸，較2024/25年度下降16%。"
-    },
-    {
-      "id": "4911374",
-      "time": "2026-06-02 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破93美元/桶，日內漲0.31%。"
-    },
-    {
-      "id": "mkt:019e8532-f7a2-7993-96fa-8de346314964",
-      "time": "2026-06-02 05:59:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan faces banana shortage risk as Middle East disruptions squeeze naphtha-derived ripening gas】Bananas for Japanese retail are ripened in ethylene-filled chambers; ethylene is produced from naphtha, and Japan’s naphtha stocks have dropped about 25% YTD. Shipping disruptions through the Strait of Hormuz, which have cut roughly 20% of global oil supply, are exacerbating the squeeze; Japan’s crude import dependence exceeds 90%. Japan imported about 1 mln tonnes of bananas last year. Eiji Akashi, secretary-general of the Japan Banana Importers Association, said: \"Prices may rise, but we are doing everything to avoid supply shortages.\""
-    },
-    {
-      "id": "4911373",
-      "time": "2026-06-02 05:58:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺6月2日06時繼續釋出大霧黃色預警。"
-    },
-    {
-      "id": "mkt:019e852a-5606-7993-96fa-87d5a23a9398",
-      "time": "2026-06-02 05:50:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Trump said he spoke with Israeli Prime Minister Netanyahu today and urged him not to launch a large-scale strike on Beirut; Netanyahu immediately ordered forces to withdraw. He said he also spoke with a representative of Hezbollah's leader and that both sides agreed to stop firing at one another, including at Israeli soldiers; Israel likewise agreed to cease fire. Trump said he hopes the ceasefire will hold."
-    },
-    {
-      "id": "mkt:019e8528-38c3-7993-96fa-7dc994dd7374",
-      "time": "2026-06-02 05:47:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRIB reported a senior Iranian military officer said if Israel violates the ceasefire in Lebanon, the established order in the Strait of Hormuz will also apply to the Bab el-Mandeb."
-    },
-    {
-      "id": "mkt:019e8527-f2d8-7993-96fa-75e8f85ccab1",
-      "time": "2026-06-02 05:47:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says deal with Iran likely within a week to extend ceasefire, reopen Strait of Hormuz】President Trump told ABC News he expects an agreement with Iran within a week to extend a ceasefire and reopen the Strait of Hormuz, saying progress is \"going well.\" He described a recent incident as a \"hiccup\" that he quickly resolved, saying it arose from Iranian anger over an Israeli strike in Lebanon. Trump said he phoned Hezbollah and Prime Minister Netanyahu, told both to stop firing, and that shooting ceased. He called a peace agreement potentially \"even better than a military victory\" and said he has not yet signed a memorandum to reopen the strait because several key terms still need to be finalized."
-    },
-    {
-      "id": "4911372",
-      "time": "2026-06-02 05:45:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "慧與執行長：公司預計2027年供應情況不會發生變化。"
-    },
-    {
-      "id": "4911371",
-      "time": "2026-06-02 05:45:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：諒解備忘錄仍需“再敲定幾個點”。"
-    },
-    {
-      "id": "4911370",
-      "time": "2026-06-02 05:44:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【算力大單密集落地 資金大幅加倉12只概念股】當前，隨著AI產業潛力的釋放及大模型推理階段的深入，算力作為產業鏈上游的核心供給，已成為全球數字經濟競爭的戰略制高點。截至今年3月底，我國智慧算力規模達到每秒1882百億億次，算力供給更豐富。今年以來累計漲幅低於43%（跑輸算力概念股平均漲幅），且5月29日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有優刻得-W、超穎電子、龍芯中科。（證券時報）"
-    },
-    {
-      "id": "4911369",
-      "time": "2026-06-02 05:42:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【四大因素推升海運價格 集運指數近七週累計漲超60%】受中東局勢動盪、船司挺價等影響，國際航運價格持續走高。6月1日，集運指數（歐線）期貨開盤後直線拉昇，2607主力合約盤中最高上漲13.08%，收盤上漲11.69%。該合約自4月下旬以來已連續七週實現上漲，累計漲幅達到60.78%。 現貨市場方面，據維運網資料，由於今年旺季較往年提前到來，東西向集裝箱海運市場正逐步走強，截至5月22日當週，上海—熱那亞、上海—鹿特丹航線運價分別環比上漲10%、15%。此外，南美航線、澳新航線亦有明顯漲幅。（證券時報）"
-    },
-    {
-      "id": "4911368",
-      "time": "2026-06-02 05:41:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：和平協議可能比軍事勝利更好。"
-    },
-    {
-      "id": "4911367",
-      "time": "2026-06-02 05:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：與伊朗的協議“有望在下週內”達成】特朗普在接受採訪時表示，他認為自己將在“下週內”與伊朗達成協議，以延長停火併重新開放霍爾木茲海峽。週一，他在電話採訪中表示：“進展不錯，一切順利。”特朗普說：“今天遇到了一點小波折，但我很快就把問題解決了，你之前可能也注意到了。”"
-    },
-    {
-      "id": "mkt:019e8521-5768-7993-96fa-68efbf69bdd4",
-      "time": "2026-06-02 05:40:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ABC News: Trump said he expects to reach an agreement with Iran \"within the next week\" to extend a ceasefire and reopen the Strait of Hormuz."
-    },
-    {
-      "id": "4911366",
-      "time": "2026-06-02 05:39:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱他認為伊朗核協議可能在下週達成。"
     }
   ]
 }
