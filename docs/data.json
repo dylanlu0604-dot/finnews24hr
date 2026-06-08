@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-09 03:36:48",
-  "count": 19219,
+  "updated": "2026-06-09 03:40:42",
+  "count": 19222,
   "items": [
+    {
+      "id": "mkt:019ea8bf-b548-733a-9235-218608bf3432",
+      "time": "2026-06-09 03:39:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: US President Trump submitted Todd Blanche's nomination to the US Senate for attorney general."
+    },
+    {
+      "id": "4924651",
+      "time": "2026-06-09 03:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普向美國參議院提名託德・布蘭奇出任司法部長。"
+    },
+    {
+      "id": "mkt:019ea8be-128a-733a-9235-1ddcbef40cc5",
+      "time": "2026-06-09 03:38:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NBC reports NVIDIA (NVDA.O) CEO said he would welcome hosting Warren and speaking with her."
+    },
+    {
+      "id": "mkt:019ea8bd-7b21-733a-9235-16219509d724",
+      "time": "2026-06-09 03:37:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "X.O",
+        "Impact bullish",
+        "5401.T"
+      ],
+      "text": "Nippon Steel will invest up to $2.5 bln in U.S. Steel's integrated facility in Pennsylvania, Nikkei reports."
+    },
+    {
+      "id": "4924650",
+      "time": "2026-06-09 03:36:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "據NBC：英偉達CEO表示，樂意接待沃倫當面交談。"
+    },
     {
       "id": "mkt:019ea8bc-4647-733a-9235-0c3306c61401",
       "time": "2026-06-09 03:36:11",
@@ -177212,22 +177262,6 @@
         "市場"
       ],
       "text": "【美元指數1日上漲】美元指數1日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.3%，在匯市尾市收於99.200。截至紐約匯市尾市，1歐元兌換1.1631美元，低於前一交易日的1.1664美元；1英鎊兌換1.3458美元，低於前一交易日的1.3461美元。1美元兌換159.76日元，高於前一交易日的159.26日元；1美元兌換0.7864瑞士法郎，高於前一交易日的0.7811瑞士法郎；1美元兌換1.3842加元，高於前一交易日的1.3797加元；1美元兌換9.3059瑞典克朗，高於前一交易日的9.2338瑞典克朗。"
-    },
-    {
-      "id": "4911287",
-      "time": "2026-06-02 03:38:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：以色列在黎巴嫩和加沙的侵略行為，在美國明目張膽支援的掩護下進行，只會增強抵抗軸心的決心，以擴大對這兩個戰線的支援，並啟用其他戰線。"
-    },
-    {
-      "id": "4911286",
-      "time": "2026-06-02 03:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：將遵從法院針對反武器化基金相關裁決。"
     }
   ]
 }
