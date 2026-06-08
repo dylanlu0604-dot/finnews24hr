@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-08 10:34:06",
-  "count": 19259,
+  "updated": "2026-06-08 10:38:02",
+  "count": 19258,
   "items": [
+    {
+      "id": "4922793",
+      "time": "2026-06-08 10:36:34",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "上證指數收復4000點。"
+    },
+    {
+      "id": "mkt:019ea516-bf82-7ee0-94c8-d4fff205873f",
+      "time": "2026-06-08 10:36:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Composite reclaimed 4,000 points; decline narrowed to 0.68%."
+    },
+    {
+      "id": "4922792",
+      "time": "2026-06-08 10:36:19",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯拉響導彈警報。"
+    },
+    {
+      "id": "mkt:019ea516-71b7-7ee0-94c8-cedf8a9ccb6e",
+      "time": "2026-06-08 10:36:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "AP reported Saudi authorities issued a missile alert in the area of Prince Sultan Air Base, which hosts U.S. forces."
+    },
+    {
+      "id": "4922791",
+      "time": "2026-06-08 10:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：地方選舉結果是選民發出的警示訊號。"
+    },
+    {
+      "id": "te:economy:557101",
+      "time": "2026-06-08 10:34:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Indonesia 10Y Bond Yield Hits 13-month High — Indonesia 10 Year Government Bond Yield increased to 7.14%, the highest since April 2025. Over the past 4 weeks, Indonesia 10Y Bond Yield gained 20.10 basis points, and in the last 12 months, it increased 15.35 basis points."
+    },
+    {
+      "id": "4922790",
+      "time": "2026-06-08 10:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輕舟智航基於Snapdragon Ride™平臺方案將全球交付】6月8日訊息，輕舟智航近日在2026高通汽車技術與合作峰會上展示與高通的最新合作成果。自2025年9月達成戰略合作以來，輕舟智航基於高通Snapdragon Ride平臺（SA8775P、SA8650P）已完成高速NOA與城市NOA功能開發及道路實測，計劃於2026年面向全球市場啟動量產交付。公司CTO李棟透露，基於更高算力的QAM8797P平臺方案正與高通聯合開發中。"
+    },
+    {
+      "id": "4922789",
+      "time": "2026-06-08 10:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，一個強低氣壓預計將於明日登陸前增強為熱帶風暴，截至週一晚間，墨西哥南部部分地區將面臨可能引發洪澇的強降雨。"
+    },
     {
       "id": "4922788",
       "time": "2026-06-08 10:33:17",
@@ -177616,83 +177698,6 @@
         "國際"
       ],
       "text": "【荷蘭國際：美元料將在160日元附近獲得支撐】荷蘭國際集團的Chris Turner在一份研究報告中表示，未來幾個月美元料將在160日元附近獲得支撐，並可能升至162-163日元區間。這位全球市場主管表示：“如今，投機市場做空日元的意願大大降低，如果說有什麼不同的話，那就是美聯儲的下一步行動可能會轉向支援加息，而不是降息。”Turner說，此外，日本央行需要“實施一次非常偏緊縮的加息，以逆轉實際利差對日元不利的最新轉變“。他補充說，這“在某種程度上需要日本央行應對政策利率明年升至1.50%以上的預期，而在目前的政治環境下，這可能很困難“。根據倫敦證券交易所集團的資料，美元上漲0.1%，報159.47日元。"
-    },
-    {
-      "id": "4909496",
-      "time": "2026-06-01 10:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央網信辦淨化網路謠言主題宣傳活動在豫舉行】網路謠言等有害資訊已經成為網民深惡痛絕的頑瘴痼疾，淨化網路生態已經成為社會各界的共同心聲。近日，“每一件舉報，都是共治的力量”2026全國網路舉報系列宣傳活動（河南站）啟動。記者隨團探訪河南網路舉報及應對的創新舉措。中央網信辦違法和不良資訊舉報中心資料顯示，2025年全年受理處置網民舉報線索2.23億件。（央視新聞）"
-    },
-    {
-      "id": "4909495",
-      "time": "2026-06-01 10:36:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲2%，現報5028.00元。"
-    },
-    {
-      "id": "mkt:019e8109-ce4f-7666-845d-67b4bc17048b",
-      "time": "2026-06-01 10:36:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CNCERT warns of household router DNS tampering causing malicious redirects】China’s National Internet Emergency Response Center (CNCERT) warned that DNS configuration tampering on household routers has caused abnormal redirects. CNCERT said recently some home users connecting to router Wi‑Fi who visit legitimate sites or trigger terminal connectivity checks are being redirected to pornographic, gambling and other illegal pages. The center attributes the incidents to altered DNS server settings on routers, which can cause connected phones and PCs to receive malicious DNS addresses that misresolve legitimate domains and expose users to aggressive ad pushes, phishing and account-data theft risks."
-    },
-    {
-      "id": "4909494",
-      "time": "2026-06-01 10:35:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州大學通報“招聘被指蘿蔔崗”：報考條件設定不當，招聘終止】5月31日，貴州大學釋出情況通報：近日，我校釋出《貴州大學2026年簡化招聘公告》，擬招聘資產經營管理辦公室管理崗位人員，引發關注，對此我校高度重視。該崗位設定的初衷是解決長期紮根貴州、對學校發展作出突出貢獻的高層次人才現實困難，按簡化招聘程式實施。經認真研究，本次招聘在實際操作中存在報考條件設定不當的問題，我校對此深表歉意並決定終止。下步，我們將切實改進相關工作。"
-    },
-    {
-      "id": "4909493",
-      "time": "2026-06-01 10:35:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國3年期公司債券收益率上升5個基點至4.406%。"
-    },
-    {
-      "id": "4909492",
-      "time": "2026-06-01 10:35:06",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【基金經理：供應趨緊將推動SK海力士明年盈利更強勁增長】據外媒報道，一隻表現優異的技術基金計劃持有SK海力士的股份，押注供應趨緊將在這家韓國人工智慧儲存晶片製造商股價過去一年上漲1000%後，進一步使其受益。Janus Henderson Investors旗下全球技術領袖基金的聯席經理Richard Clode表示，SK海力士在全球高頻寬儲存晶片市場的主導地位意味著，明年當多年期供應合同可能以較高水平重新定價時，該公司可能享受“更大幅度的盈利增長”。該基金規模達83億美元，今年已擊敗96%的同類基金，過去三年回報率達36%。該基金目前持有美國儲存晶片生產商美光科技和閃迪公司的股份。Clode說：“大多數人現在認為，今年的短缺情況明年將進一步惡化，包括SK海力士在內的公司生產的更難製造的高階儲存晶片的興起，正在改變該行業的週期性，使長期供需前景更加有利。”"
-    },
-    {
-      "id": "4909491",
-      "time": "2026-06-01 10:34:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【興業證券：2026年將成為腦機介面產業從技術探索邁向產業落地的關鍵一年】興業證券研報認為，2026年將成為腦機介面產業從技術探索邁向產業落地的關鍵一年，產業驅動要素呈現多重共振。腦機介面各類技術路線的底層架構已基本確立，整體方案選擇趨於收斂，而效能最佳化上仍處於快速迭代階段。未來，行業競爭的核心將主要圍繞五大維度展開，包括：電極材料與架構、晶片設計能力、系統整合方案、資料積累和演算法，以及對腦科學的研究和理解將成為行業主要競爭點。“腦控萬物”的理念賦予了腦機介面極其廣闊的想象空間，應用場景的持續深化與多元化發展，將成為驅動行業長期增長的核心動力。"
-    },
-    {
-      "id": "mkt:019e8108-3f69-7666-845d-5fb16175da51",
-      "time": "2026-06-01 10:34:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Industrial Securities: 2026 pivotal for brain‑computer interface industry shift from R&D to commercial deployment】Industrial Securities says 2026 will be a pivotal year for the brain‑computer interface (BCI) industry’s move from technical exploration to industrial deployment as multiple industry drivers converge. Underlying architectures across BCI technical routes are largely established and solution choices are converging, while performance optimization remains in rapid iteration. Future competition will focus on five areas: electrode materials and architecture, chip design capability, system integration solutions, data accumulation and algorithms, and advances in brain‑science research and understanding. The \"brain‑controls‑everything\" concept expands addressable applications; deepening and diversification of use cases will be the core driver of long‑term industry growth."
-    },
-    {
-      "id": "4909490",
-      "time": "2026-06-01 10:34:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭開採加工持續拉昇，昊華能源觸及漲停】煤炭開採加工持續拉昇，昊華能源觸及漲停，鄭州煤電、廣匯能源、盤江股份、雲煤能源跟漲。相關ETF方面，煤炭ETF國泰（515220）漲3.04%，成交額6.43億元。"
     }
   ]
 }
