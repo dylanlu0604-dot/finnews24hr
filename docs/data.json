@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-09 01:27:39",
-  "count": 19131,
+  "updated": "2026-06-09 01:31:26",
+  "count": 19135,
   "items": [
+    {
+      "id": "mkt:019ea849-9bd3-733a-9232-919a9c842d65",
+      "time": "2026-06-09 01:30:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gas-station explosion in southern Uzbekistan kills 6, injures 5】Uzbekistan’s Ministry of Emergency Situations reported on June 8 that an explosion and fire at an LPG cylinder refilling station in Karshi district, Kashkadarya region, southern Uzbekistan killed six people and injured five. The blast destroyed four vehicles and two underground storage tanks. Flames have been extinguished, the injured were hospitalised, and authorities have set up an investigative committee."
+    },
+    {
+      "id": "mkt:019ea849-87e0-733a-9232-8b68bfbad6be",
+      "time": "2026-06-09 01:30:51",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) shares rose more than 5% intraday."
+    },
+    {
+      "id": "4924544",
+      "time": "2026-06-09 01:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：我們將把海上封鎖變成“敵人”的又一次失敗。"
+    },
+    {
+      "id": "4924543",
+      "time": "2026-06-09 01:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫表示，停火協議遭破壞以及海上封鎖，是近期局勢緊張的根源。"
+    },
+    {
+      "id": "4924542",
+      "time": "2026-06-09 01:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：蘋果智慧新一代實現重大突破，讓蘋果裝置更個性化、更實用。"
+    },
+    {
+      "id": "4924540",
+      "time": "2026-06-09 01:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡告知各位部長，以色列可能恢復與伊朗的衝突。"
+    },
+    {
+      "id": "mkt:019ea847-c1b5-733a-9232-82b748614e5c",
+      "time": "2026-06-09 01:28:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department has approved a potential foreign military sale of amphibious assault vehicles and related equipment to the Italian government, estimated at $30.6 mln."
+    },
+    {
+      "id": "mkt:019ea847-3080-733a-9232-7dca67191461",
+      "time": "2026-06-09 01:28:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【BofA warns U.S. equities as bear-market signals pile up】BofA Securities urged caution on U.S. equities, saying about 70% of its bear‑market signals have been triggered—on par with historical levels seen near market tops—in a June 5 report from a strategy team led by Savita Subramanian. Seventeen of 20 S&P 500 valuation metrics show statistically significant overvaluation; eight exceed tech‑bubble levels. High‑P/E names have strongly outperformed low‑valuation stocks, which the strategists flag as a sign of excessive speculation. Within tech, the spread between best and worst quintiles is the widest since February 2000, and the three‑month return gap between the top 10% and bottom 10% of S&P constituents is at its highest post‑pandemic level. Subramanian added that cash‑conversion has stalled, supply of investment‑grade bonds and equity issuance is rising, buybacks as a share of market cap have fallen, and hyperscale cloud firms’ capex is forecast to approach 100% of operating cash flow by year‑end (vs. 40% in 2023)."
+    },
+    {
+      "id": "mkt:019ea847-1309-733a-9232-72f5d1f9ff8a",
+      "time": "2026-06-09 01:28:10",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launched a new website showcasing all its child-safety features and answering FAQs."
+    },
+    {
+      "id": "mkt:019ea846-72c4-733a-9232-6a4e063dc7a8",
+      "time": "2026-06-09 01:27:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) announced a parental-control feature that lets parents set daily schedules and specify which apps children can use during different times of day."
+    },
+    {
+      "id": "4924539",
+      "time": "2026-06-09 01:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：已推出一個新網站，重點展示我們所有兒童安全功能，並解答常見問題。"
+    },
     {
       "id": "4924538",
       "time": "2026-06-09 01:26:24",
@@ -176272,76 +176375,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said Israel would not attack Hezbollah and Hezbollah would not attack Israel."
-    },
-    {
-      "id": "mkt:019e843d-79a9-7993-96f8-1f03a581c72d",
-      "time": "2026-06-02 01:31:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump said through senior representatives he had a very good call with Hezbollah and that they agreed to cease all shooting."
-    },
-    {
-      "id": "4911226",
-      "time": "2026-06-02 01:31:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我透過高層代表同真主黨進行了一次十分順暢的通話，對方同意全面停止交火。"
-    },
-    {
-      "id": "mkt:019e843d-1eaf-7993-96f8-1437d8789e2c",
-      "time": "2026-06-02 01:30:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said he had a productive call with Israeli Prime Minister Netanyahu and that no troops will be sent to Beirut; any forces en route have been recalled."
-    },
-    {
-      "id": "4911225",
-      "time": "2026-06-02 01:30:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：不會向貝魯特派遣軍隊，所有正在開赴當地的部隊均已奉命折返。"
-    },
-    {
-      "id": "4911224",
-      "time": "2026-06-02 01:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我與以色列總理內塔尼亞胡進行了一場極富成效的通話。"
-    },
-    {
-      "id": "mkt:019e843b-a08d-7993-96f8-0f9da758abb5",
-      "time": "2026-06-02 01:29:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRNA reports Iran's oil minister said repairs to energy infrastructure have made significant progress and he is optimistic about a rapid restoration of oil production capacity."
-    },
-    {
-      "id": "4911223",
-      "time": "2026-06-02 01:28:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上汽MG歐洲首家工廠落戶西班牙】上汽集團旗下MG品牌已選定西班牙建設其首家歐洲汽車工廠。當地政府表示，該專案位於西班牙西北部，初始投資預計約2億歐元(2.32億美元)，不包括港口費用，年產能可達12萬輛。工廠預計於2028年投產。MG原為英國品牌，近20年前被上汽集團收購，目前是歐洲銷量最高的中國汽車品牌之一。"
     }
   ]
 }
