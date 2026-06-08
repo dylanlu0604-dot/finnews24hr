@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-09 00:56:16",
-  "count": 19108,
+  "updated": "2026-06-09 01:00:11",
+  "count": 19109,
   "items": [
+    {
+      "id": "mkt:019ea82c-8b75-733a-9231-c3f151ce1ca6",
+      "time": "2026-06-09 00:59:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mercuria's 1H profit rose 88% as commodity-market volatility boosted results."
+    },
+    {
+      "id": "4924500",
+      "time": "2026-06-09 00:57:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：謹向亞美尼亞總理尼科爾·帕希尼揚及其政黨贏得選舉致以誠摯祝賀。鄰國是我們的優先交往物件。"
+    },
+    {
+      "id": "4924499",
+      "time": "2026-06-09 00:56:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對百餘名尼加拉瓜官員及其親屬實施旅行禁令。"
+    },
     {
       "id": "4924498",
       "time": "2026-06-09 00:53:05",
@@ -176103,22 +176127,6 @@
         "其他"
       ],
       "text": "華碩釋出了搭載NVIDIA RTX Spark顯示卡的革命性ProArt P16和P14膝上型電腦。"
-    },
-    {
-      "id": "4911206",
-      "time": "2026-06-02 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.10%，滬銅收漲1.12%，滬鋁收漲0.49%，滬鋅收漲0.26%，滬鉛收跌0.09%，滬鎳收漲1.26%，滬錫收漲2.46%。氧化鋁夜盤收跌0.69%，鋁合金收漲0.41%。不鏽鋼夜盤收漲1.52%。"
-    },
-    {
-      "id": "mkt:019e841f-7fad-7993-96f7-6711d4bacf97",
-      "time": "2026-06-02 00:58:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported HEZBOLLAH said it would observe a ceasefire agreement if Israel stops its aggression and withdraws forces."
     }
   ]
 }
