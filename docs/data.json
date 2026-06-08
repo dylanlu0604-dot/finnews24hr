@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-09 07:44:33",
-  "count": 19187,
+  "updated": "2026-06-09 07:48:22",
+  "count": 19190,
   "items": [
+    {
+      "id": "mkt:019ea9a2-b173-733a-9237-3362452c4d91",
+      "time": "2026-06-09 07:47:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran mocks Trump’s two-week 'completely defeat' pledge as empty oil-market rhetoric】Iran criticised Trump’s recent statements as offering no practical measures to curb energy-market volatility and said he had resorted to a 'psychological victory' approach. Tehran characterised Trump’s promise to 'completely defeat' Iran within two weeks as an attempt to link a vague political claim to economic variables to influence global oil prices, calling the remarks a psychological tool aimed at controlling oil-price swings and insulating his administration from election-related economic pressure."
+    },
+    {
+      "id": "4924790",
+      "time": "2026-06-09 07:47:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數在週一遭拋售後或將反彈】隨著對中東衝突升溫的擔憂有所緩解，日本股市在週一遭拋售後或將反彈。新加坡交易所的日經指數期貨上漲2.5%，至65515點。在OpenAI申請上市後，科技股成為關注焦點。在伊朗和以色列結束多次交火後，投資者也在密切關注伊朗戰爭的進展。日經指數週一下跌3.8%，至64024.60點。"
+    },
+    {
+      "id": "4924789",
+      "time": "2026-06-09 07:46:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "指標10年期日本國債期貨早盤下跌0.12點。"
+    },
+    {
+      "id": "4924788",
+      "time": "2026-06-09 07:46:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲2.3%。"
+    },
+    {
+      "id": "4924787",
+      "time": "2026-06-09 07:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前5月我國工程機械熱銷 海內外市場同步增長】記者昨天（8日）從中國工程機械工業協會獲悉，今年1至5月份，工程機械行業的主要產品國內、國際銷量同比均實現了快速增長。最新資料顯示，今年1至5月份，我國共銷售挖掘機126875臺，同比增長24.7%。各類裝載機共銷售67162臺，同比增長27.3%。兩大類核心產品無論是國內銷量，還是國際出口量均實現了同比兩位數增長的態勢。不僅如此，新能源工程機械銷量也保持了較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%。出口量1232臺，同比增長208%。"
+    },
+    {
+      "id": "4924786",
+      "time": "2026-06-09 07:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲為實現烏克蘭危機政治解決堅持不懈努力】中國常駐聯合國副代表孫磊8日在安理會審議烏克蘭問題時表示，烏克蘭危機涉及的矛盾錯綜複雜，達成和平協議絕非易事，實現政治解決仍任重道遠，需要各方堅持不懈作出努力。 孫磊說，烏克蘭危機仍在延宕，衝突烈度持續上升，局勢呈螺旋式升級。戰場相關的數字每天都在變化，新的襲擊、新的傷亡、新的設施損毀不斷出現，但有一個事實始終不變——軍事手段無法帶來和平，衝突延續下去只會造成更嚴重的傷害。 (新華社)"
+    },
+    {
+      "id": "4924785",
+      "time": "2026-06-09 07:44:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克展示AI資料中心衛星的更多細節 劍指太空算力網路】在SpaceX正在進行史上最大規模IPO之際，執行長埃隆·馬斯克詳細展示了該公司計劃建造的人工智慧(AI)資料中心衛星的初始版本。馬斯克在社交媒體平臺X上分享的一段30分鐘影片中談及SpaceX的未來規劃，內容涵蓋星艦的後續研發，以及SpaceX與特斯拉在美國聯合建設的超級晶片工廠。斯克展示了名為AI1的衛星渲染圖及相關規格，SpaceX計劃組建約100萬顆AI衛星網路，在地球軌道上執行復雜的人工智慧計算任務。馬斯克表示，AI1衛星將配備翼展70米的巨型光伏面板，可支援120千瓦的平均計算載荷，峰值可達150千瓦。馬斯克稱，SpaceX在建設星鏈網際網路系統方面積累了豐富的經驗，並稱建造這類資料中心衛星將比星鏈衛星更簡單。馬斯克在影片中表示：“AI衛星本質上就是大量太陽能電池、一個散熱器以及一些鐳射鏈路，不像星鏈衛星那樣需要非常複雜的天線。AI衛星相對更容易設計。”"
+    },
     {
       "id": "4924784",
       "time": "2026-06-09 07:43:34",
@@ -176929,42 +176989,6 @@
         "國際"
       ],
       "text": "【FedEx Freight執行長：自動駕駛卡車已準備好全面投用】自動駕駛牽引拖車行駛在美國的高速公路上？FedEx Freight執行長表示，這項技術已經準備就緒。這些卡車何時上路則取決於監管機構。“這些牽引車能夠駛出車場，從車場導航至州際公路，在州際公路上行駛，並前往下一個設施。在99.9%的時間裡，司機根本不需要進行任何操作，”FedEx Freight執行長約翰.史密斯(John Smith)說。“監管方面將是最大的障礙。”從聯邦快遞(FedEx)剝離後，FedEx Freight週一作為一家獨立公司開始掛牌交易。該公司專注於將多個較小貨物合併裝入一輛拖車的運輸業務，這被稱為“零擔貨運”(less-than-truckload, 簡稱LTL)行業。總部位於孟菲斯的FedEx Freight年度營收達87億美元，是北美最大的零擔貨運承運商。"
-    },
-    {
-      "id": "mkt:019e8595-b1bf-7993-96fb-73173e17c423",
-      "time": "2026-06-02 07:47:20",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【CICC: A-share market favors steadiness over speed】China International Capital Co maintains its annual outlook for H2: international order reconfiguration and China’s industrial-innovation trend remain the primary drivers of this cycle’s upside and China-asset repricing, and those conditions are intact. The A-share market is therefore better positioned for a long, steady advance than a rapid rally. With investor risk appetite and bullish expectations elevated, CICC flags H2 focus on external conditions and global cyclical sectors—especially AI—and on liquidity/flow dynamics. Overall valuations are reasonable but there are pockets of overvaluation; guard against sectoral fragility and volatility risk."
-    },
-    {
-      "id": "4911462",
-      "time": "2026-06-02 07:46:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "指標性6月交割10年期日本國債期貨早盤下跌0.09點。"
-    },
-    {
-      "id": "4911461",
-      "time": "2026-06-02 07:46:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤上漲0.21%。"
-    },
-    {
-      "id": "4911459",
-      "time": "2026-06-02 07:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上證報：一線城市住宅成交正持續回暖】作為房地產市場的風向標，一線城市住宅成交正持續回暖。在北京，5月二手住房成交量逾1.6萬套，同比上升約12%，在4月之後，再次創下近5年同期新高；在上海，二手房（含商業）累計網籤超2.8萬套，連續3個月保持高位，“賣一買一”置換鏈條持續修復；在深圳，一二手住宅合計網籤數量時隔14個月再度突破1萬套，豪宅、改善、剛需等多類住房成交量同步回暖。"
     }
   ]
 }
