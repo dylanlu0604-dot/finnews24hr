@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-09 01:04:13",
-  "count": 19109,
+  "updated": "2026-06-09 01:08:05",
+  "count": 19104,
   "items": [
+    {
+      "id": "mkt:019ea832-79e9-733a-9231-ef070fbe39f6",
+      "time": "2026-06-09 01:05:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) names its next macOS release Golden Gate."
+    },
+    {
+      "id": "4924510",
+      "time": "2026-06-09 01:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：下一代macOS系統名為“金門”。"
+    },
+    {
+      "id": "mkt:019ea831-f8f1-733a-9231-e7d6f4254087",
+      "time": "2026-06-09 01:05:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple software chief Craig Federighi said Apple plans to update child-safety features."
+    },
+    {
+      "id": "4924509",
+      "time": "2026-06-09 01:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅收窄至1.8%。"
+    },
+    {
+      "id": "4924508",
+      "time": "2026-06-09 01:04:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數漲幅收窄至0.5%。"
+    },
     {
       "id": "4924507",
       "time": "2026-06-09 01:03:24",
@@ -176019,104 +176070,6 @@
         "Brent"
       ],
       "text": "US President Trump said oil prices will fall \"like a rock\" in the near future."
-    },
-    {
-      "id": "mkt:019e8427-923c-7993-96f7-a9f7b9a6b4e5",
-      "time": "2026-06-02 01:07:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon."
-    },
-    {
-      "id": "mkt:019e8426-b1bb-7993-96f7-a02f58c2fac3",
-      "time": "2026-06-02 01:06:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Netanyahu speaks with Trump on Iran, Lebanon】On the evening of June 1 local time, Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump to discuss developments in Iran and Lebanon. The call followed Israeli forces crossing the Litani River to launch an offensive, effectively collapsing a temporary ceasefire that began April 17. On May 31 Netanyahu ordered an expansion of military operations in Lebanon and has sought U.S. support for strikes on Beirut and other targets, a request he has communicated to Washington."
-    },
-    {
-      "id": "4911217",
-      "time": "2026-06-02 01:06:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：石油價格短期內將“像石頭一樣”下挫。"
-    },
-    {
-      "id": "mkt:019e8425-cdfc-7993-96f7-9958ddd01e94",
-      "time": "2026-06-02 01:05:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry said it will continue, citing its right to self‑defense, to make full use of all capabilities to protect its interests when necessary."
-    },
-    {
-      "id": "4911216",
-      "time": "2026-06-02 01:05:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部：伊朗將依據自衛權，在必要時動用全部自身力量維護本國利益。"
-    },
-    {
-      "id": "4911215",
-      "time": "2026-06-02 01:04:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡與特朗普通話，討論伊朗及黎巴嫩局勢】6月1日，以色列總理內塔尼亞胡與美國總統特朗普通電話，就伊朗及黎巴嫩局勢進行討論。日前，隨著以軍越過利塔尼河展開進攻，4月17日開始的黎以臨時停火已經名存實亡。以色列總理內塔尼亞胡5月31日下令擴大在黎軍事行動，同時尋求美國支援打擊貝魯特等地，並已就此與美方溝通。（央視）"
-    },
-    {
-      "id": "mkt:019e8425-47dd-7993-96f7-96af9d5b5ce1",
-      "time": "2026-06-02 01:04:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he is not concerned about oil prices."
-    },
-    {
-      "id": "mkt:019e8424-e1a9-7993-96f7-8938893ce0cb",
-      "time": "2026-06-02 01:04:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "TRUMP: I don't care whether negotiations with Iran are over."
-    },
-    {
-      "id": "4911214",
-      "time": "2026-06-02 01:04:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不擔心油價。"
-    },
-    {
-      "id": "mkt:019e8424-a244-7993-96f7-8270581c6792",
-      "time": "2026-06-02 01:04:13",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says it will respond if red lines over Lebanon and Gaza are crossed】Iranian state TV reported that on the 1st a social-media account linked to the IRGC intelligence arm posted that crossing Iran’s red lines on Lebanon and Gaza would amount to launching a direct war against Iran’s national security and allied Islamic Resistance forces. The post said Iran is determined to carry out defensive actions, including measures that break existing rules and frameworks and the opening of new fronts, while maintaining the current posture in the Strait of Hormuz."
     }
   ]
 }
