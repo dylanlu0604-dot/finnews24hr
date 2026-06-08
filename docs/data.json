@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-09 06:13:56",
-  "count": 19206,
+  "updated": "2026-06-09 06:17:47",
+  "count": 19202,
   "items": [
+    {
+      "id": "4924729",
+      "time": "2026-06-09 06:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統Delcy Rodriguez會見土耳其總統埃爾多安。雙方討論實現30億美元貿易額的措施。雙方側重於推進貿易、能源、礦業合作。Rodriguez此前結束了對印度持續五天的行程。"
+    },
+    {
+      "id": "te:markets:557371",
+      "time": "2026-06-09 06:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 2.10% — Top currency gainers are South Korean Won (2.10%), Euro (0.10%) and Japanese Yen (0.08%). Biggest losers are Brazilian Real (-0.29%), Indian Rupee (-0.25%) and Dollar Index (-0.07%). Meanwhile British Pound was little changed."
+    },
     {
       "id": "mkt:019ea94a-c865-733a-9236-89b29abc16f0",
       "time": "2026-06-09 06:11:50",
@@ -177089,59 +177108,6 @@
         "UNP.O"
       ],
       "text": "U.S. financial outlet Semafor reports Union Pacific executives privately denied negotiating with Trump over a 15% stake."
-    },
-    {
-      "id": "4911391",
-      "time": "2026-06-02 06:17:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "聯合太平洋高管私下否認與特朗普就收購15%股權進行談判。"
-    },
-    {
-      "id": "4911390",
-      "time": "2026-06-02 06:17:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【10年期國債收益率低見1.704% 債市交易邏輯重回基本面】近期債市多頭情緒持續升溫，長端、超長端收益率接連突破關鍵點位。6月1日，10年期國債活躍券收益率一度下行至1.704%，為年內新低；30年期特別國債收益率盤中跌破2.2%關口，最低觸及2.1875%，超長債補漲行情進一步展開。多位機構人士認為，近期債市走強不只是流動性寬鬆驅動，更與基本面預期變化、信貸需求偏弱、機構配置力量增強等因素有關。隨著票據利率持續探底、資金面跨月保持平穩，債市交易邏輯正從單純關注機構行為，逐步回到基本面和融資需求本身。（上證報）"
-    },
-    {
-      "id": "4911389",
-      "time": "2026-06-02 06:16:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【實際有效匯率指數創1973年以來新低 日元結構性貶值壓力難消】土耳其里拉曾長期被視作全球最弱貨幣之一，但當前日元與土耳其里拉的實際有效匯率走勢出現逆轉。國際清算銀行的資料顯示，以2020年為基準計算，日元實際有效匯率指數重新整理了其1973年轉向浮動匯率制以來的最低水平。與之形成對比的是，土耳其里拉的實際有效匯率自年初以來升值約7%。儘管日本當局在外匯干預上“火力全開”，但從匯率走勢來看，日元對美元已重新貶值至接近干預前的水平。日元深陷長期貶值壓力，已是無法迴避的現實問題。（上證報）"
-    },
-    {
-      "id": "mkt:019e8542-05b4-7993-96fa-9ebff519e286",
-      "time": "2026-06-02 06:15:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ reports a 6.55-magnitude earthquake in southern Italy."
-    },
-    {
-      "id": "4911388",
-      "time": "2026-06-02 06:15:45",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "德國地學研究中心（GFZ）：義大利南部發生6.55級地震。"
-    },
-    {
-      "id": "te:markets:555486",
-      "time": "2026-06-02 06:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 0.93% — Top currency losers are New Zealand Dollar (-0.93%), Swiss Franc (-0.73%), Swedish Krona (-0.64%), Japanese Yen (-0.23%) and Euro (-0.22%). Gains are led by Brazilian Real (0.57%) and Dollar Index (0.27%). Meanwhile British Pound was little changed."
     }
   ]
 }
