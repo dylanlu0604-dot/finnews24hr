@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-08 12:32:39",
-  "count": 19297,
+  "updated": "2026-06-08 12:36:38",
+  "count": 19295,
   "items": [
+    {
+      "id": "mkt:019ea583-237f-7ee0-94ca-cc141cd617f1",
+      "time": "2026-06-08 12:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【A- and H-shares slide; Shenghong Technology says viral video unrelated to operations】On the morning of June 8 Shenghong Technology said company staff were \"unaware of it\" regarding circulating reports about senior management. The firm said it has noted the information but the viral video and related material are unrelated to its production and operations, do not constitute company-level matters, and do not involve corporate governance, internal control or any disclosure obligations; it added the matter will not affect daily operations, production is normal and orders remain ample."
+    },
+    {
+      "id": "mkt:019ea583-0173-7ee0-94ca-c783b81d027f",
+      "time": "2026-06-08 12:34:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【TrendForce: Global satellite industry to reach $447bn by 2027 at 14% annual growth; SpaceX expanding into phone-to-satellite, space AI, SBSP】TrendForce projects the global satellite industry will reach $447 billion by 2027, with annual growth of about 14%, driven by satellite broadband, direct-to-phone connectivity, space-based AI compute and space-based solar power (SBSP). TrendForce says SpaceX—whose IPO prospects are being watched by markets—is expanding beyond satellite broadband into phone-to-satellite services, space AI compute and SBSP, and is enlarging its in-house space AI chip fab Terafab to strengthen vertical integration and shift low‑Earth‑orbit offerings from communications toward compute services as satellite networks, AI infrastructure and space applications converge."
+    },
+    {
+      "id": "4923009",
+      "time": "2026-06-08 12:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【集邦諮詢：預估2027年全球衛星產業產值將達4470億美元 年增長率達14%】隨著全球衛星寬頻、手機直連衛星及AI運算需求快速增長，SpaceX未來IPO動向備受市場關注，TrendForce集邦諮詢表示，SpaceX除持續擴大衛星寬頻服務版圖外，也積極佈局手機直連衛星、AI太空運算及太空太陽能(Space-Based Solar Power, SBSP)等新興領域，並透過擴建自有太空AI運算晶片廠Terafab，強化垂直整合能力，推動低軌衛星產業由通訊服務邁向運算服務新階段。隨著衛星網路、AI基礎設施與太空應用加速融合，全球太空經濟正進入新一輪成長週期，預估2027年全球衛星產業產值將達4470億美元，年增長率達14%。"
+    },
+    {
+      "id": "4923008",
+      "time": "2026-06-08 12:32:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數下跌1.1%，報168,972.70。"
+    },
+    {
+      "id": "4923006",
+      "time": "2026-06-08 12:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗民航組織宣佈，鑑於安全與保障評估以及NOTAM（飛行員通告）的釋出，該國西部空域將無限期關閉，直至另行通知。"
+    },
+    {
+      "id": "mkt:019ea580-c171-7ee0-94ca-be85c5ada3fe",
+      "time": "2026-06-08 12:32:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TASNIM NEWS reported Iran has closed its western airspace citing security concerns."
+    },
     {
       "id": "4923005",
       "time": "2026-06-08 12:31:11",
@@ -177856,81 +177912,6 @@
         "Impact bullish"
       ],
       "text": "【NVIDIA names ANTHROPIC, OpenAI and SpaceX as initial Vera users; Q3 production set】NVIDIA said ANTHROPIC, OpenAI and SpaceX will be among the first large users of its upcoming data‑center microprocessor, Vera. Vera, NVIDIA’s first standalone data‑center microprocessor, is slated for full production in Q3. CEO Jensen Huang said Vera is 1.8x faster than x86‑based chips on core AI workloads. NVIDIA positions Vera to compete directly with Intel Xeon, AMD Epyc and hyperscalers’ in‑house designs such as Amazon’s Graviton."
-    },
-    {
-      "id": "4909661",
-      "time": "2026-06-01 12:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "搭載Windows系統的英偉達DGX工作站將萬億引數AI超級計算機帶入每家企業的桌面。"
-    },
-    {
-      "id": "mkt:019e8177-447b-799c-966a-c8bb76a6ef63",
-      "time": "2026-06-01 12:35:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【NVIDIA launches RTX Spark superchip for PCs, targets Intel dominance】At Computex Taipei NVIDIA said it will deploy an RTX Spark “superchip” in PCs to challenge Intel’s dominance. The chip will appear in Dell Technologies and Lenovo laptops and desktops from this autumn. Built with MediaTek assistance, the SoC combines a microprocessor and GPU and will run Microsoft Windows for Arm. The CPU will offer up to 20 compute cores; the GPU is a Blackwell-architecture unit with 6,144 cores. Both elements share on-package memory and communicate via NVIDIA’s NVLink, bringing data-center-class interconnects to personal computers. The design will be manufactured by TSMC using its 3N process."
-    },
-    {
-      "id": "4909660",
-      "time": "2026-06-01 12:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本龜甲萬將於9月1日起上調醬油及其他產品價格。"
-    },
-    {
-      "id": "4909659",
-      "time": "2026-06-01 12:35:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓華航空航天股價下跌3.3%。"
-    },
-    {
-      "id": "mkt:019e8176-8233-799c-966a-c434291b0e43",
-      "time": "2026-06-01 12:34:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company will launch PC chips this fall for laptops and desktops."
-    },
-    {
-      "id": "4909658",
-      "time": "2026-06-01 12:34:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗處決兩名被控策劃2026年初抗議活動的男子。"
-    },
-    {
-      "id": "4909657",
-      "time": "2026-06-01 12:34:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：英偉達個人電腦晶片將於今年秋季上市，適用於膝上型電腦和桌上型電腦。"
-    },
-    {
-      "id": "4909656",
-      "time": "2026-06-01 12:34:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普欲推動阿拉伯國家承認以色列  中東戰火加劇破局難度】據報道，近日，美國總統唐納德.特朗普在推動美伊停戰協議之際，丟擲了一個出人意料的要求：阿拉伯國家、巴基斯坦和土耳其應接受一項硬性條件，即根據其促成的《亞伯拉罕協議》(Abraham Accords)，與以色列建立外交關係以對該和平協議表示支援。對許多海灣國家而言，這一提議無異於雪上加霜。這場戰爭不僅代價慘重，還加劇了美國盟友的安全擔憂，導致美國與該地區的關係產生裂痕。分析人士表示，阿拉伯領導人對美國和以色列日益缺乏信任，他們擔心關係正常化會進一步激怒伊朗；畢竟，伊朗此前已透過數千次無人機和導彈襲擊，展現出了攻擊海灣國家的能力與意願。與此同時，在以色列對加沙發動軍事行動之後，阿拉伯民眾比幾年前更難接受與以色列深化關係。許多人認為，以色列是一個“無賴”國家，它給該地區帶來的不穩定因素至少不亞於伊朗。"
     }
   ]
 }
