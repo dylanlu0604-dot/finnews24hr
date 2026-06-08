@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-08 15:21:19",
-  "count": 19330,
+  "updated": "2026-06-08 15:25:14",
+  "count": 19331,
   "items": [
+    {
+      "id": "te:economy:557187",
+      "time": "2026-06-08 15:23:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Czech Construction Output at 5-Month High — Construction output in the Czech Republic rose by 7.7% year-on-year in April 2026 from an upwardly revised 6.4% rise in the previous month and marking the strongest growth since November 2025. Building construction activity picked up to 12.1% from 9.4% in March, while the decline in civil engineering works moderated slightly to 0.4% from 0.5%. A total of 5,889 building permits were issued, up 14.7% from a year earlier, while the floor area of new building projects expanded by 40.3%. Meanwhile, housing starts surged 89.7% to 5,100 units, supported by family houses and a higher number of permits granted for large residential developments, mainly in Prague. In contrast, completed dwellings fell 10.7% year-on-year to 2,582 units."
+    },
+    {
+      "id": "te:markets:557186",
+      "time": "2026-06-08 15:23:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Lower as Oil Prices Soar — European stocks started the week on a weaker footing, with the STOXX 50 falling 1% and the STOXX 600 losing 0.8%, as investors returned from the weekend to renewed geopolitical tensions in the Middle East and a sharp rise in oil prices. Iran and Israel exchanged fresh strikes, undermining an already fragile ceasefire and raising concerns that efforts to end the conflict may be stalling. The broad-based selloff weighed on most sectors, while energy stocks outperformed as crude oil prices surged nearly 4%."
+    },
+    {
+      "id": "4923324",
+      "time": "2026-06-08 15:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞軍方：航空警報已解除。"
+    },
+    {
+      "id": "mkt:019ea61d-89d3-7ff4-a542-30af0648f563",
+      "time": "2026-06-08 15:23:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian military says air alert lifted."
+    },
+    {
+      "id": "4923323",
+      "time": "2026-06-08 15:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓民防部門今天（6月8日）表示，菲律賓南部發生的地震已造成19人死亡、134人受傷，另有7人失蹤。（CCTV國際時訊）"
+    },
+    {
+      "id": "4923322",
+      "time": "2026-06-08 15:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：首期老字號掌門人傳承發展研修培訓班在北京舉辦】6月3-5日，商務部在北京舉辦首期老字號掌門人傳承發展研修培訓班，盛秋平副部長出席並講話。盛秋平強調，舉辦老字號掌門人傳承發展研修培訓班是商務部貫徹落實習近平總書記關於把老字號傳承發展好重要指示精神的具體舉措。參訓人員要深刻理解傳承發展好老字號的歷史使命和時代價值，準確把握髮展方向，以務實管用的工作舉措創造良好發展環境，久久為功推動老字號守正創新發展，擦亮“金字招牌”。商務部流通發展司負責同志進行了政策解讀，專家學者、專業機構負責人等圍繞文化傳承、企業發展、創新轉型等領域進行現場授課。各省、自治區、直轄市及計劃單列市、新疆生產建設兵團老字號企業掌門人、經理人、傳承人代表和商務主管部門有關負責同志參加培訓。"
+    },
+    {
+      "id": "mkt:019ea61c-bc20-7ff4-a542-2d6c6ee0a38c",
+      "time": "2026-06-08 15:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign ministry spokesman BAGHAEI said the head of the UN nuclear watchdog continues to ignore the realities of the conflict, holds political and biased views, and is undermining the IAEA's legitimacy."
+    },
+    {
+      "id": "4923321",
+      "time": "2026-06-08 15:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，聯合國核監督機構負責人持續無視衝突真相，秉持帶有政治偏向的偏見立場，這會損害國際原子能機構（IAEA）的合法性。"
+    },
+    {
+      "id": "4923320",
+      "time": "2026-06-08 15:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國10年期金邊債券收益率觸及4.940%，創兩週半新高。"
+    },
+    {
+      "id": "4923319",
+      "time": "2026-06-08 15:21:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股指下跌，受工業和科技股走低拖累】歐洲藍籌股指開盤下跌，受油價上漲和人工智慧相關股票持續遭拋售影響。中東局勢升溫令能源密集型的航空航天和國防板塊承壓（下跌2.6%），與此同時，歐洲斯托克600指數下跌0.9%。隨著工業股走弱，德國DAX指數下跌1.25%，西門子和萊茵金屬分別下跌2.2%和1.9%。在巴黎，法國CAC 40指數下跌0.8%。國防集團賽峰下跌2.9%，汽車製造商Stellantis下跌2.8%。石油巨頭緩衝了倫敦英國富時100指數的跌幅，該指數下跌0.3%。投資者繼續拋售科技股，拖累阿姆斯特丹半導體權重較高的荷蘭AEX指數下跌0.9%。阿斯麥下跌2.4%。義大利富時MIB指數下跌0.4%，在有關收購的報道傳出之際，Banca MPS大漲9.5%，限制了該指數的跌幅。西班牙IBEX 35指數下跌0.5%。"
+    },
+    {
+      "id": "mkt:019ea61b-3961-7ff4-a542-219e32940973",
+      "time": "2026-06-08 15:21:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvian military says NATO fighter jets shot down a drone in Latvian airspace."
+    },
+    {
+      "id": "4923318",
+      "time": "2026-06-08 15:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞軍方：北約戰機在拉脫維亞領空擊落一架無人機。"
+    },
     {
       "id": "4923317",
       "time": "2026-06-08 15:18:39",
@@ -178131,100 +178239,6 @@
         "觀點"
       ],
       "text": "英國石油公司表示，已同意將布勞斯油氣田 5% 的權益出售給高盛能源。"
-    },
-    {
-      "id": "4909947",
-      "time": "2026-06-01 15:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛健委：兒童用藥與成人用藥不同 不能擅自掰開成人藥片給孩子服用】國家衛生健康委今天舉行新聞釋出會，介紹兒童用藥誤區等相關情況。專家介紹，兒童不是成人的縮小版。兒童的肝臟、腎臟功能尚未發育成熟，對藥物的代謝和排洩能力遠低於成人。同樣的藥物、同樣的劑量，成人可能安全，但兒童就可能蓄積中毒。（央視新聞）"
-    },
-    {
-      "id": "te:economy:555265",
-      "time": "2026-06-01 15:24:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Polish Manufacturing Downturn Softens in May — Poland’s S&P Global Manufacturing PMI rose to 49.4 in May 2026, above market expectations of 48.6 but remaining below the 50 threshold, signaling a continued contraction in factory activity for the thirteenth consecutive month, albeit at the slowest pace. The improvement was mainly driven by higher output, supported by tentative signs of a recovery in market conditions, improved availability of certain raw materials, and the opening of new stores. Production expanded for the second time in the past three months despite a fourteenth straight decline in new orders, as demand remained constrained by economic and geopolitical uncertainty and elevated customer inventories. Export orders also fell, though only modestly. Input price inflation eased from April’s near four-year high but remained elevated due to higher raw material, transport, and energy costs. Business confidence stayed positive, supported by expansion plans, new products, and entry into new markets."
-    },
-    {
-      "id": "mkt:019e8211-c1be-766b-8632-cf791ac475f2",
-      "time": "2026-06-01 15:24:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "STOXX Europe Technology Index rose 0.57% to its highest level since September 2020."
-    },
-    {
-      "id": "4909946",
-      "time": "2026-06-01 15:24:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲科技指數（<.SX8P>）上漲0.57%，創下2020年9月以來的新高。"
-    },
-    {
-      "id": "mkt:019e8211-2f21-766b-8632-c256ae67a8a1",
-      "time": "2026-06-01 15:23:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NHC issues 16-point plan to shore up children's drug supply】China's National Health Commission, with other ministries, issued Implementation Opinions containing 16 measures to reform and strengthen the children's drug supply guarantee mechanism across the full chain — R&D, manufacturing, supply, clinical use, payment and regulation. Key measures: accelerate innovative pediatric drug R&D; bolster production and supply to meet pediatric demand; expand pediatric pharmaceutical services; and enhance interdepartmental coordination on oversight and delivery."
-    },
-    {
-      "id": "4909945",
-      "time": "2026-06-01 15:23:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日菲領導人晚宴唱K引群嘲】5月29日，菲律賓總統馬科斯結束對日本的國事訪問。菲律賓總統通訊辦公室隨後釋出了5月28日晚日本首相高市早苗與馬科斯在晚宴期間演唱披頭士樂隊經典歌曲的影片。這段影片在社交媒體上引發爭議。有日本網友指出，高市早苗在這段影片中“疑似醉酒、表情誇張”，還說了“不合適宜的話”。有日本網友表示，高市“醉酒後舉止怪異”，而即使是清醒時她也“表情扭曲，令人毛骨悚然”。還有網友說，這簡直是“日本國恥”，讓她擔任首相是“一場危機”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e8210-beff-766b-8632-bc3242052385",
-      "time": "2026-06-01 15:23:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI said a ceasefire in Lebanon is an important component of any agreement to end the war with the United States."
-    },
-    {
-      "id": "4909944",
-      "time": "2026-06-01 15:22:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，黎巴嫩停火是任何結束與美國戰爭協議的組成部分。"
-    },
-    {
-      "id": "4909943",
-      "time": "2026-06-01 15:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列i24News：以色列議會委員會一讀透過解散議會法案，將提交全體會議於今晚投票表決。"
-    },
-    {
-      "id": "4909942",
-      "time": "2026-06-01 15:21:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華爾街頂尖基金經理：記憶體晶片供應短缺下 SK海力士將繼續受益】美國駿利亨德森投資旗下“全球科技領袖基金”，計劃買入SK海力士公司（SK Hynix Inc.）的股票。該基金押注全球記憶體晶片供應的進一步收緊，將讓這家全球記憶體晶片製造龍頭企業在過去一年暴漲1000%的基礎上繼續受益。該基金的聯席基金經理Richard Clode表示，SK海力士在高頻寬記憶體（HBM）晶片全球市場上的主導地位，意味著它在明年可能會出現“更具爆發力的業績增長”。屆時，此前簽署的多年度供應合同，可能會在更高的價格水平上重新定價。"
-    },
-    {
-      "id": "mkt:019e820e-ff76-766b-8632-b3feca69dcf8",
-      "time": "2026-06-01 15:21:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli broadcaster i24News reports a Knesset committee passed a bill in its first reading to dissolve the Knesset; the measure will go to a plenary vote tonight."
     }
   ]
 }
