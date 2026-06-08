@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-08 12:52:14",
-  "count": 19283,
+  "updated": "2026-06-08 12:55:58",
+  "count": 19282,
   "items": [
+    {
+      "id": "4923025",
+      "time": "2026-06-08 12:53:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼市場三殺：股市挫4%、匯率跌至紀錄低點、10年債收益率升33個基點】印尼金融市場週一跌勢加劇，該國債券、股票和貨幣同步下挫。該國10年期政府公債收益率躍升33個基點，創一年多來新高。基準股指一度暴跌4%，之後跌幅收窄，印尼盾一度下跌0.8%，跌至紀錄低點。面對持續惡化的市場賣壓，印尼正面臨愈來愈多要求，呼籲政府除了口頭保證之外，應提出更具體措施以遏止拋售；投資人正尋求更強烈訊號，以確認當局將維持政策紀律並支撐市場。外界越來越擔心政府治理經濟的能力，新的大宗商品出口規則引發的混亂，以及印尼主權信用狀況再次受到審查，都打擊了投資者的信心。"
+    },
+    {
+      "id": "mkt:019ea594-4d9c-7ee0-94ca-f4464270682a",
+      "time": "2026-06-08 12:53:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli media N12 reports Israeli officials confirmed Israel struck an Iranian petrochemical facility."
+    },
+    {
+      "id": "4923024",
+      "time": "2026-06-08 12:52:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "靛藍航空：截至2030財年，機隊規模將達到約550架以上。公司曾在2025年3月的推介材料中表示，計劃到2030年機隊規模達到600架以上。"
+    },
+    {
+      "id": "4923023",
+      "time": "2026-06-08 12:52:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗一石化公司遭襲 部分設施受損 】據伊朗媒體8日報道，伊朗馬赫沙赫爾石化公司遭以色列襲擊，部分設施受損。目前尚無人員傷亡報告。（新華社）"
+    },
+    {
+      "id": "4923022",
+      "time": "2026-06-08 12:52:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊聘請多家投行 將發行美元及離岸人民幣債券】週一公佈的銷售檔案顯示，騰訊控股已聘請多家銀行，準備發行美元指標債券及離岸人民幣債券。這將是該公司自2021年以來首次發行美元債券。"
+    },
     {
       "id": "4923021",
       "time": "2026-06-08 12:49:44",
@@ -177724,73 +177770,6 @@
         "公司"
       ],
       "text": "英偉達：富士康正擴大與公司的戰略協作，在中國臺灣開發並部署符合四級自動駕駛標準的自動駕駛計程車車隊。"
-    },
-    {
-      "id": "mkt:019e8189-86d4-799c-966b-3ef2e43dde55",
-      "time": "2026-06-01 12:55:34",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O): Foxconn is piloting NemoClaw to support its Nurabot and CoDoctor platforms."
-    },
-    {
-      "id": "mkt:019e8188-d8f8-799c-966b-32855d0c841b",
-      "time": "2026-06-01 12:54:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) launched a large-scale open-source agent toolkit and skills suite for physical AI."
-    },
-    {
-      "id": "4909684",
-      "time": "2026-06-01 12:54:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達表示富士康正在試點NemoClaw，為其諾拉機器人（Nurabot）與康達醫生平臺（CoDoctor）提供算力支援。"
-    },
-    {
-      "id": "te:economy:555207",
-      "time": "2026-06-01 12:53:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Dutch Retail Sales Growth Hits 5-Month Peak — Retail sales in the Netherlands grew by 3.4% year-on-year in April 2026, following an upwardly revised 3.2% rise in the previous month. The latest reading marked the fastest increase in retail activity since last November, driven by higher sales of food products (3.2% vs. 2.5% in March), particularly in supermarkets (3.8% vs. 2.9%), which more than offset weaker revenues at specialty food stores (-0.9% vs. 0.2%). Additionally, sales growth in the non-food sector remained steady at 3.5%, supported mainly by increased turnover in drugstores (9.6% vs 3.1%), recreational items (8.6% vs 3.6%), and consumer electronics and white goods (4.3% vs 0.6%). In contrast, trade activity declined further for shoes and leather goods (-3.6% vs -2%), while it rose at a lesser extent for furniture and home furnishings (0.1% vs 5.4%) and clothing (1.7% vs 2.1%). On a seasonally adjusted monthly basis, retail sales were unchanged in April, after an upwardly revised 1.8% gain in March."
-    },
-    {
-      "id": "4909683",
-      "time": "2026-06-01 12:53:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達釋出面向物理人工智慧的大規模開源智慧體工具與技能套件。"
-    },
-    {
-      "id": "mkt:019e8187-8ce0-799c-966b-2afd13575a73",
-      "time": "2026-06-01 12:53:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "French carmakers' association said May new car registrations rose 3.7% y/y to 128,484 units."
     }
   ]
 }
