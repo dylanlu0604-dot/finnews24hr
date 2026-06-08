@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-08 09:01:41",
-  "count": 19215,
+  "updated": "2026-06-08 09:05:24",
+  "count": 19217,
   "items": [
+    {
+      "id": "mkt:019ea4c2-29d9-7338-95ad-f977b7c60fa4",
+      "time": "2026-06-08 09:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 08:55 on June 8 an earthquake of about magnitude 6.9 occurred near the Sulawesi Sea (5.49°N, 125.46°E). Final parameters are subject to cenc's formal rapid report."
+    },
+    {
+      "id": "4922554",
+      "time": "2026-06-08 09:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今明兩天強降雨縮減至華南等地 南方暑熱短暫消減】今明兩天（6月8日至9日），我國強降雨區域將向南轉移並縮減，廣東、福建等局地有大暴雨或特大暴雨，需注意防範次生災害的發生，正值高考，考生及家長請合理安排出行時間。受冷空氣和降雨影響，南方暑熱暫時消減，北方多地氣溫偏低。本週中後期，隨著降雨減少，各地氣溫將再度回升。"
+    },
+    {
+      "id": "4922553",
+      "time": "2026-06-08 09:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：06月08日08時55分在蘇拉威西海附近（北緯5.49度，東經125.46度）發生6.9級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4922552",
+      "time": "2026-06-08 09:02:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐福岡總領事館緊急提醒領區中國同胞防範海嘯風險】據日本氣象部門訊息，受菲律賓棉蘭老島附近強震影響，預計海嘯將於今日11時起陸續到達宮古島、沖繩縣本島、奄美群島及宮崎縣、鹿兒島縣東部沿岸，海嘯高度預計為1米左右。中國駐福岡總領事館提醒上述地區特別是離島沿海地區的中國同胞密切關注海嘯預警和防災資訊，立刻遠離海邊、港口和河口區域前往高處，做好防災、應急避難等準備，確保人身安全。"
+    },
+    {
+      "id": "4922551",
+      "time": "2026-06-08 09:02:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權指數下跌6%，臺積電下跌5.7%，加入全球科技股拋售行列。"
+    },
+    {
+      "id": "4922550",
+      "time": "2026-06-08 09:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報3810.50點。"
+    },
+    {
+      "id": "te:economy:557061",
+      "time": "2026-06-08 09:01:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bangladesh",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bangladesh Inflation Rate Hits Over 1-Year High — The annual inflation rate in Bangladesh rose to 9.42% in May 2026 from 9.04% in the previous month, marking the highest reading since January 2025. Inflationary pressures intensified across most categories as the ongoing Middle East conflict disrupted energy supply chains and increased import costs for the energy-dependent economy. Bangladesh, which relies heavily on imported fuel, is vulnerable to shipping disruptions through the Strait of Hormuz. The disruption has further amplified the costs associated with the country's delayed energy transition, adding to broader price pressures. Among the major components, inflation accelerated for food and non-alcoholic beverages (9.06% vs 8.39% in April), housing and utilities (9.26% vs 8.92%), and transport (9.86% vs 9.31%). On a monthly basis, consumer prices rose just 0.03%, slowing sharply from 0.70% in April and marking the weakest monthly increase since consumer deflation in November 2025."
+    },
+    {
+      "id": "mkt:019ea4c0-01a4-7338-95ad-f0db391b801c",
+      "time": "2026-06-08 09:01:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.36% to 949.06 yuan/gram in early trade on Monday, June 8; silver T+D dropped 6.3% to 16,454.0 yuan/kg."
+    },
+    {
+      "id": "4922549",
+      "time": "2026-06-08 09:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地學研究中心（GFZ）：菲律賓棉蘭老島發生6.54級地震。"
+    },
+    {
+      "id": "4922548",
+      "time": "2026-06-08 09:01:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新加坡海峽時報指數開盤下跌1.3%，至4983.92點。馬來西亞綜指開盤下跌 0.6% 至 1,683.54。"
+    },
+    {
+      "id": "4922547",
+      "time": "2026-06-08 09:01:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "未來證券研究員Han Ji-young：上週五美國半導體股重挫，市場承壓情緒延續，韓國股市隨之大跌。本週韓國本土股指期貨、期權集中到期，疊加韓元匯率波動帶來的壓力，市場震盪料將進一步加劇。"
+    },
+    {
+      "id": "mkt:019ea4bf-481b-7338-95ad-ed920715d6c8",
+      "time": "2026-06-08 09:00:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "TAIEX (Taiwan Stock Exchange Weighted Index) opened down 4%."
+    },
+    {
+      "id": "4922546",
+      "time": "2026-06-08 09:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西可治理流動沙地全面清零】6月7日，從省林業局獲悉：國家林草局西北調查規劃院編制的《陝西省流動沙地治理工程綜合評價報告》最新資料顯示，截至2025年底，陝西第六次全國荒漠化和沙化調查鎖定的5.13萬畝流動沙地已全部實現固定、半固定治理，完成清零。流動沙地綜合植被蓋度攀升至30.47%，較2020年大幅提升24.57個百分點，陝西成為西部地區率先完成可治理流動沙地全面清零的省份。（陝西釋出）"
+    },
+    {
+      "id": "4922545",
+      "time": "2026-06-08 09:00:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報1007.00元。"
+    },
     {
       "id": "te:markets:557059",
       "time": "2026-06-08 09:00:38",
@@ -177225,115 +177356,6 @@
         "焦點"
       ],
       "text": "PVC連續主力合約日內漲1%，現報4979.00元。"
-    },
-    {
-      "id": "mkt:019e80b5-3d72-766e-87ae-4256c615f666",
-      "time": "2026-06-01 09:03:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei reports Japan will join the US Trump administration's Genesis Mission AI program to drive research innovation."
-    },
-    {
-      "id": "4909292",
-      "time": "2026-06-01 09:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米汽車：5月交付量超過30000臺】6月1日，@小米汽車 發文稱，2026年5月，小米汽車交付量持續超過30000臺。"
-    },
-    {
-      "id": "mkt:019e80b4-b1dd-766e-87ae-3bcf1d460ada",
-      "time": "2026-06-01 09:03:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI rose 2.64% intraday, breaching the 8,700 level."
-    },
-    {
-      "id": "4909291",
-      "time": "2026-06-01 09:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "據日經新聞報道，日本將加入美國特朗普政府的“創世任務”人工智慧專案，該專案旨在推動科研創新。"
-    },
-    {
-      "id": "te:markets:555134",
-      "time": "2026-06-01 09:02:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Equities Down Slightly to Begin New Month — Australian stocks fell 23 points, or 0.3%, to 8,707 in early trade on the first day of June, reversing the prior session’s rally as caution set in ahead of key domestic releases later this week, including April trade data as well as Q1 current account and GDP. The economy is expected to slow on a quarterly basis amid global headwinds from the Middle East conflict. Still, losses were cushioned by Friday’s U.S. gains on renewed hopes for progress toward a peaceful resolution to the Iran war. Sector declines were led by consumer non-durables, communications, healthcare, and retail trade, while strength in commercial services and non-energy minerals helped cap the fall. Notable laggards included QBE Insurance (-2.0%), Woolworths Group (-1.8%), and Santos Ltd. (-1.2%). Traders await May job ads due later today, alongside China’s private manufacturing PMI, a key gauge from Australia’s top trading partner."
-    },
-    {
-      "id": "mkt:019e80b4-7ad7-766e-87ae-376a33e17f74",
-      "time": "2026-06-01 09:02:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Container-shipping index (Europe route) front-month contract rose over 8.00% intraday to 3,774.5 points."
-    },
-    {
-      "id": "mkt:019e80b4-1637-766e-87ae-28068e17cc20",
-      "time": "2026-06-01 09:02:22",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia May TD-MI inf index MoM -0.3%, prior +0.6%."
-    },
-    {
-      "id": "4909290",
-      "time": "2026-06-01 09:02:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為路由器Q7電線版正式釋出】6月1日，華為凌霄子母路由Q7電線版正式釋出，其搭載獨家全屋千兆PLC組網技術，理論組網速率可提升至1.5Gbps，並整合行業首創獨立星閃(NearLink)鏈路、Wi-Fi 7+等技術。"
-    },
-    {
-      "id": "mkt:019e80b4-159c-766e-87ae-2157599510d7",
-      "time": "2026-06-01 09:02:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia May TD-MI inflation index YoY 4.4% vs 4.3% prior."
-    },
-    {
-      "id": "mkt:019e80b3-f55a-766e-87ae-1822c95f1a08",
-      "time": "2026-06-01 09:02:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | TD-MI Inflation Gauge (MoM) (May) | actual -0.3% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019e80b3-d8bc-766e-87ae-1503e1f7255d",
-      "time": "2026-06-01 09:02:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | TD-MI Inflation Gauge (YoY) (May) | actual 4.4% | previous 4.30%"
-    },
-    {
-      "id": "4909289",
-      "time": "2026-06-01 09:01:54",
-      "tags": [],
-      "text": "國內期貨主力合約漲跌不一，集運歐線漲超4％，雞蛋漲超3％，塑膠、滬金、焦煤、焦炭漲超1％。跌幅方面，豆一、紙漿跌超1％，純苯、滬鋅、滬鎳跌近1％。"
     }
   ]
 }
