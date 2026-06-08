@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-08 09:52:03",
-  "count": 19269,
+  "updated": "2026-06-08 09:55:56",
+  "count": 19268,
   "items": [
+    {
+      "id": "4922696",
+      "time": "2026-06-08 09:55:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "菲律賓民航局今天（6月8日）表示，受強震及海嘯預警影響，菲律賓南部桑托斯將軍城機場已暫時關閉。民航局稱，相關飛航公告自當地時間8時45分生效，預計持續至下午3時。（CCTV國際時訊）"
+    },
+    {
+      "id": "4922695",
+      "time": "2026-06-08 09:54:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【非金屬材料板塊持續拉昇，天馬新材漲超8%】非金屬材料板塊持續拉昇，天馬新材漲超8%，粵桂股份此前漲停，坤彩科技、寧新新材、石英股份、聯瑞新材跟漲。"
+    },
+    {
+      "id": "4922694",
+      "time": "2026-06-08 09:54:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗關閉德黑蘭霍梅尼國際機場周邊領空。"
+    },
+    {
+      "id": "mkt:019ea4ef-fcf2-7ee0-94c7-d6bca5769721",
+      "time": "2026-06-08 09:54:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said the stock market is moving toward reasonable valuation levels."
+    },
+    {
+      "id": "4922693",
+      "time": "2026-06-08 09:53:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯發科股價下跌7.3%。"
+    },
+    {
+      "id": "4922692",
+      "time": "2026-06-08 09:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：股市正逐步邁向合理估值水平。"
+    },
+    {
+      "id": "4922691",
+      "time": "2026-06-08 09:52:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電下跌3.4%；鴻海科技下跌7.2%。"
+    },
+    {
+      "id": "4922690",
+      "time": "2026-06-08 09:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【iPhone 18 Pro Max電池或突破5000mAh】2026年秋季的首發陣容是三款重磅旗艦，分別是iPhone 18 Pro、iPhone 18 Pro Max以及果粉盼了多年的摺疊屏機型iPhone Ultra；而定位更親民的基礎款iPhone 18和iPhone 18e則會延後到2027年春季才正式上市。 據產業鏈最新爆料，iPhone 18 Pro Max的全版本電池容量都突破了5000mAh大關，其中國行版的電池容量落在5000到5100mAh區間，美版的規格更高，達到5100到5200mAh的水平。"
+    },
+    {
+      "id": "mkt:019ea4ed-fffb-7ee0-94c7-ca02f8c68b18",
+      "time": "2026-06-08 09:51:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600522.SS",
+        "Impact bullish"
+      ],
+      "text": "Zhongtian Technology shares rose more than 7% intraday after the company won an approximately 1.518 bln yuan contract to supply MPO fiber jumpers and accessories for data centers."
+    },
+    {
+      "id": "te:markets:557076",
+      "time": "2026-06-08 09:51:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Pressured at 2-Month Low — The Australian dollar held below $0.71 after dropping nearly 2% in the previous week to hit a two-month low, pressured by a stronger US dollar. A robust US labor market report reinforced expectations that the Federal Reserve will raise interest rates this year, boosting the greenback more than 1% last week. Rising tensions in the Middle East and a fragile peace deal between the US and Iran also supported the safe-have currency, which also weighed on the risk-sensitive Aussie. Meanwhile, a slightly hawkish tone from the Reserve Bank of Australia could help cushion further losses in the AUD. RBA Governor Michele Bullock reiterated last week that the central bank remains firmly focused on bringing inflation down, following three rate hikes earlier this year that lifted the cash rate to 4.35%. She also noted that inflation remains too elevated, stressing that the board will take whatever measures it deems necessary to fulfill its mandate of achieving price stability and full employment."
+    },
+    {
+      "id": "mkt:019ea4ed-e43d-7ee0-94c7-c07457ac2ccb",
+      "time": "2026-06-08 09:51:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China Trade Remedy Information Net reported on June 5 that the U.S. International Trade Commission voted to initiate a Section 337 investigation into certain smart devices."
+    },
+    {
+      "id": "mkt:019ea4ed-d3b1-7ee0-94c7-bb335219532f",
+      "time": "2026-06-08 09:51:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "AP reported Iran closed airspace around Tehran's Imam Khomeini International Airport after an Israeli strike; the airport is the country's main aviation hub."
+    },
     {
       "id": "4922689",
       "time": "2026-06-08 09:51:21",
@@ -177674,124 +177783,6 @@
         "SZSE Component"
       ],
       "text": "ChiNext Index extended gains to 1.00%; Shanghai Composite rose 0.15%; Shenzhen Composite Index gained 0.56%."
-    },
-    {
-      "id": "mkt:019e80e5-0f57-7bb6-a9bf-0ab38efef22d",
-      "time": "2026-06-01 09:55:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【State Council approves regulations to back market-based outbound investment】The State Council adopted the Regulations on Outbound Investment at its 83rd executive meeting on April 17, 2026; the rules are published and take effect July 1, 2026. The regulations state the state supports investors conducting outbound investment on market principles and participating in international competition; investors enjoy autonomy in outbound investment—independent decision-making while bearing risks and profits/losses. Outbound investment and related activities must comply with laws, international practice and local customs, observe business ethics, fulfil social responsibilities and protect China’s national image; they must not undermine market competition, harm the environment, violate workers’ rights, or endanger national security, national interests or the public interest."
-    },
-    {
-      "id": "4909392",
-      "time": "2026-06-01 09:55:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報2853.00元。"
-    },
-    {
-      "id": "4909391",
-      "time": "2026-06-01 09:55:14",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【國務院：國家主動對接國際高標準經濟貿易規則，推進高質量共建“一帶一路”】《國務院關於對外投資的規定》已經2026年4月17日國務院第83次常務會議透過，現予公佈，自2026年7月1日起施行。為了推進高水平對外開放，促進對外投資高質量發展，有效實施對外投資管理，保護投資者及其對外投資合法權益，維護國家主權、安全、發展利益，根據《中華人民共和國對外關係法》、《中華人民共和國對外貿易法》等法律，制定本規定。中華人民共和國境內投資者對外投資，適用本規定。國家主動對接國際高標準經濟貿易規則，推進高質量共建“一帶一路”，推進多雙邊投資合作機制建設，積極參與國際投資規則制定，推動產業鏈供應鏈國際合作，反對單邊主義和保護主義，推動建設開放型世界經濟。（中國政府網）"
-    },
-    {
-      "id": "mkt:019e80e4-6e8b-766e-87af-ca887bb15e55",
-      "time": "2026-06-01 09:55:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【State Council to align with high‑standard international economic and trade rules, push high‑quality Belt and Road co‑construction】The State Council approved Regulations on Overseas Investment at its 83rd executive meeting on April 17, 2026; the rules were published and will take effect July 1, 2026. Framed under the PRC Foreign Relations Law and Foreign Trade Law, the regulations aim to advance high‑level opening and higher‑quality outbound investment, tighten outbound investment management, protect investors’ lawful overseas investment rights and safeguard national sovereignty, security and development interests. The rules apply to PRC onshore investors’ overseas investment. The State Council said China will proactively align with high‑standard international economic and trade rules, promote high‑quality Belt and Road cooperation, strengthen multilateral and bilateral investment cooperation mechanisms, participate in international investment rule‑making, advance cross‑border industrial and supply‑chain cooperation, and oppose unilateralism and protectionism to support an open world economy."
-    },
-    {
-      "id": "te:economy:555154",
-      "time": "2026-06-01 09:55:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Job Advertisements",
-        "Importance 1"
-      ],
-      "text": "Australia Job Ads Rise 1.8% MoM — ANZ–Indeed Australian Job Ads rose 1.8% mom in May 2026, rebounding from a 0.6% decline in the prior month and marking the first gain since February. The latest data continued to suggest that labour demand is gradually moderating as elevated borrowing costs weigh on economic activity. The increase was driven by stronger demand in food preparation, education, nursing, and construction-related roles. In contrast, transport and driving job ads fell sharply for a second consecutive month, likely reflecting disruptions linked to the Middle East conflict. ANZ economist Madeline Dunk noted that restrictive interest rates are expected to slow economic growth in the coming months, which should lead job ads to trend lower and the unemployment rate to gradually edge higher. Compared with a year earlier, job ads increased 2.0% and remained 15.1% above their decade-long average, indicating that labour demand continues to be relatively resilient despite signs of cooling."
-    },
-    {
-      "id": "4909390",
-      "time": "2026-06-01 09:54:54",
-      "tags": [],
-      "text": "【《國務院關於對外投資的規定》公佈】投資者開展對外投資活動，不得出口、使用國家禁止出口的貨物、技術、服務及相關資料，或者未經許可出口、使用國家限制出口的貨物、技術、服務及相關資料；不得以跨境派遣技術人員、組織人員赴其他國家（地區）工作、跨境提供技術指導、安排人員跨境培訓等方式向其他國家（地區）轉移國家禁止出口的貨物、技術、服務及相關資料，或者未經許可向其他國家（地區）轉移國家限制出口的貨物、技術、服務及相關資料。"
-    },
-    {
-      "id": "4909389",
-      "time": "2026-06-01 09:54:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊走勢分化，深南電A盤中觸及漲停】電力板塊走勢分化，深南電A盤中觸及漲停，金房能源此前漲停，粵電力A、晉控電力、華能國際跟漲。"
-    },
-    {
-      "id": "4909388",
-      "time": "2026-06-01 09:54:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.02%，現報4079.292點；上證指數漲0.15%，現報4074.644點；深證成指漲0.56%，現報15661.899點。"
-    },
-    {
-      "id": "4909387",
-      "time": "2026-06-01 09:54:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲5%，現報1349.50元。"
-    },
-    {
-      "id": "4909386",
-      "time": "2026-06-01 09:54:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內漲3%，現報8040.00元。"
-    },
-    {
-      "id": "4909385",
-      "time": "2026-06-01 09:53:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通用人工智慧公司VAST獲近2億美元A輪系列融資】近日，通用人工智慧公司VAST宣佈完成A+及A++兩輪融資，合計近2億美元。本輪融資由渶策資本、國壽長三角科創基金領投，深圳市人工智慧終端產業基金（產業方為全球頭部終端廠商榮耀）、知名產業戰投、上海半導體產投等產業投資方，深創投、元生資本、沃賦創投與方廣資本等財務資本聯合投資；同時，春華創投、靖亞資本、BV百度風投、東方嘉富等老股東亦持續超額追投。"
-    },
-    {
-      "id": "mkt:019e80e1-d5ae-7bb6-a9be-f9e942ea64aa",
-      "time": "2026-06-01 09:52:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【China Coast Guard patrols waters east of Taiwan in response to Japan, Philippines delimitation talks】China Coast Guard spokesman Jiang Lue said on June 1 the Daishan flotilla conducted law-enforcement patrols in waters east of Taiwan. He called the patrols a necessary response to Japan and the Philippines’ unilateral announcement to launch delimitation talks in those waters, saying such moves seriously infringe China’s territorial sovereignty and maritime rights. Jiang urged Tokyo and Manila to immediately cease what he described as illegal actions; the China Coast Guard said it will continue to strengthen control of the area to defend national territory and maritime interests."
-    },
-    {
-      "id": "4909384",
-      "time": "2026-06-01 09:52:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
     }
   ]
 }
