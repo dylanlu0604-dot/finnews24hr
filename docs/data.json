@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09 04:47:59",
-  "count": 19221,
+  "updated": "2026-06-09 04:51:58",
+  "count": 19215,
   "items": [
+    {
+      "id": "4924684",
+      "time": "2026-06-09 04:48:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國秘書長：對中東局勢再次升級深感擔憂】當地時間6月8日，聯合國秘書長古特雷斯發表宣告，對中東地區近期局勢再次升級深感擔憂；他呼籲所有相關方立即停止襲擊，保持最大限度剋制，並避免採取任何可能進一步加劇本已高度緊張局勢的行動。"
+    },
     {
       "id": "4924683",
       "time": "2026-06-09 04:46:48",
@@ -177170,71 +177178,6 @@
         "國際"
       ],
       "text": "俄羅斯石油公司（Rosneft）：第一季度營收為2.032萬億盧布，較上一季度增長4.3%。"
-    },
-    {
-      "id": "4911324",
-      "time": "2026-06-02 04:51:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯俄羅斯石油公司：2026年第一季度淨利潤較2025年第四季度增長6倍，達到1150億盧布。"
-    },
-    {
-      "id": "4911323",
-      "time": "2026-06-02 04:51:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟擬允許各國放寬預算空間以緩衝能源成本衝擊。該提案將允許各國政府在歐盟財政框架之外，將約佔國內生產總值0.3%的資金用於能源相關支出。"
-    },
-    {
-      "id": "4911322",
-      "time": "2026-06-02 04:50:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳3D印表機圈粉全球 狂攬近90%市場份額】海關總署釋出最新資料，今年前4個月，我國3D印表機累計出口246萬臺，出口貨值達61.06億元，同比分別增長100.3%、110.4%。其中，消費級3D列印裝置憑藉高效能、高價效比等優勢不斷拓寬海外銷路，備受消費者的青睞。憑藉效能出眾、價效比高等優勢，國產3D印表機海外銷路不斷拓寬。今年前4個月，深圳3D印表機出口額達52.4億元，同比增長128.6%，佔全國同類產品出口總額的85.8%。與此同時，各地海關不斷最佳化通關服務、推出便利舉措，助力產品順利出海。"
-    },
-    {
-      "id": "4911321",
-      "time": "2026-06-02 04:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟擬允許各國放寬預算空間以緩衝能源成本衝擊。"
-    },
-    {
-      "id": "te:markets:555485",
-      "time": "2026-06-02 04:49:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Middle East Tensions Lift Oil Prices — The Ibovespa lost 0.9% to close at 172,197 on Monday as signs of renewed escalation in the Middle East hurt risk appetite and revived concerns about inflation and interest rates. Although US President Donald Trump said Israel and Hezbollah had agreed to stop attacking each other in Lebanon and that talks with Iran were continuing, fresh violence threatened efforts to end the conflict. Oil prices spiked after reports that US-Iran negotiations had stalled, fueling stagflation fears and pushing bond yields higher. Banks led losses, with Itaú down 1.7%, Bradesco shedding 1.1%, and Itaúsa losing 1.2%. Meanwhile, the S&P Global Brazil Manufacturing PMI fell to 49.1 in May from 52.6 in April, signaling a renewed contraction in factory activity and weighing on industrial stocks such as WEG, which dropped 2.5%. Utilities also pressured the index, with Auren down 2.4%. In contrast, Petrobras gained 0.9%, supported by higher oil prices."
-    },
-    {
-      "id": "4911320",
-      "time": "2026-06-02 04:49:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【慧與股價盤後飆升超30% 預計未來18個月伺服器需求增長強勁】慧與給出的年度銷售額展望高於分析師預期，並稱公司伺服器和網路產品需求大幅增長，預計這一勢頭將持續到明年。該股在盤後交易中飆升。該公司週一在宣告中表示，截至10月的財年營收將增長約31%，截至2027年10月的財年營收將增長約10%。這兩項預測均明顯高於分析師的預期，分析師對2026財年和2027財年的預期增幅分別為19%和5.3%。執行長Antonio Neri在採訪中表示，慧與決定提前給出2027財年預測，是為了顯示“這一勢頭的永續性”。"
-    },
-    {
-      "id": "mkt:019e84f2-eddb-7993-96fa-1156d1078bd1",
-      "time": "2026-06-02 04:49:33",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "EU prepares to grant member states greater budgetary flexibility to ease energy cost pressures."
     }
   ]
 }
