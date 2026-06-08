@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-09 00:52:31_
-_本檔包含 3815 則快訊，約 693777 字_
+_更新時間：2026-06-09 01:50:38_
+_本檔包含 3806 則快訊，約 694817 字_
+
+---
+
+### 2026-06-03 06:15:26  #其他
+
+【上證報評論：莫讓票據衝量稀釋信貸成色】文章提到，今年4月，票據融資單月新增1.24萬億元，創有統計以來新高。進入5月後，票據利率仍持續低位執行，最後一週短端利率一度逼近零值，國有大行在二級市場持續買票。這些現象都指向同一個訊號：實體融資需求仍未明顯修復，銀行原本用於投放貸款的資金，部分轉向票據市場補量。也就是說，部分資金並未真正流向實體中長期融資需求，而是在銀行體系內透過票據形式完成規模調節。利率越接近零值，越說明銀行收票需求已經脫離正常收益約束。這種現象值得警惕。票據融資本身並非問題，問題在於若銀行過度依賴票據衝量，信貸資料表面上看起來並不差，但真實融資需求和企業中長期投資意願並沒有同步改善，這樣的信貸增長容易“虛胖”。更進一步看，若以票據替代真實貸款投放，不僅不能改善企業的投資意願，還可能使信貸考核從服務實體經濟轉向完成短期數字目標。尤其是在月末、季末等考核時點，如果銀行將票據作為衝規模、補缺口的主要工具，信貸資料成色就會被稀釋，金融支援實體經濟的質量也會打折扣。
+
+---
+
+### 2026-06-03 06:15:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Rises by 0.68% — Top currency gainers are Brazilian Real (0.68%), Mexican Peso (0.45%), Australian Dollar (0.28%) and British Pound (0.07%). Biggest loser is Japanese Yen (-0.17%). Meanwhile, Dollar Index and Euro were little changed.
+
+---
+
+### 2026-06-03 06:15:01  #國際
+
+市場訊息：黎巴嫩與以色列官員今日在華盛頓舉行會晤。
+
+---
+
+### 2026-06-03 06:14:28  #其他
+
+【聯合國：剛果（金）東部暴力升級阻礙埃博拉疫情防控工作】當地時間6月2日，聯合國人道事務協調廳表示，剛果（金）東部持續升級的暴力衝突正嚴重影響平民安全，並阻礙埃博拉疫情防控工作。
+
+---
+
+### 2026-06-03 06:10:28  #市場
+
+【南向資金持續淨流入 機構看好港股中期行情 】今年以來，南向資金延續淨流入態勢。截至6月2日，南向資金累計淨買入超2800億港元。資金主要流向高股息防禦板塊、AI科技成長賽道，中芯國際等硬科技龍頭持續獲得大額增配。展望後市，多家機構認為，港股內部估值輪動修復，同時外圍市場科技行情擴散，港股的中期行情值得期待。（中證報）
+
+---
+
+### 2026-06-03 06:10:04  #公司 #市場
+
+【港股回購熱度升溫 機構建議關注結構性機會 】2026年以來，港股上市公司持續回購，近期，回購熱度有所升溫。Wind資料顯示，截至6月1日，今年以來共有221家港股上市公司累計回購了33.88億股，回購金額超650億港元，其中5月以來的回購金額超230億港元。騰訊控股、友邦保險、小米集團-W等股票今年以來多次進行大手筆回購。分析人士認為，當前港股市場，尤其是恒生科技指數正處於複雜的築底階段。後續港股市場在盈利修復和估值處於低位的雙重支撐下，整體趨勢仍有望向好，建議關注結構性機會。（中證報）
+
+---
+
+### 2026-06-03 06:09:34  #市場
+
+【港股迎久違放量反彈 機構聚焦AI算力與紅利雙主線 】6月2日，港股市場迎來久違的普漲行情。在經歷了持續的震盪下行後，恒生指數與恒生科技指數雙雙放量拉昇，恒生科技指數大漲逾4%，恒生指數亦站上26000點整數關口，為處於“複雜築底”階段的港股提供了有力支撐。大型科技股與新能源汽車股全線上漲，市場情緒顯著回暖。分析人士認為，港股已處於底部區域，正進入以“防禦打底、成長掘金”為核心的結構性行情。配置上應沿現金流確定性與產業趨勢確定性兩條主線佈局，建議超配AI算力產業鏈標的，並以高股息紅利資產作為底倉抵禦波動。（中證報）
+
+---
+
+### 2026-06-03 06:09:08  #其他
+
+【科技仍是長期主線 短期交易擁擠度需充分消化 】6月2日，A股三大股指全線走高，科技板塊迎來階段性修復。此前，科技相關板塊積累了可觀的漲幅，受短期獲利盤集中了結、場內交易擁擠影響，科創50、中證TMT產業主題指數快速回撤，算力、半導體等熱門賽道大幅下挫，調整從核心賽道擴散至全產業鏈。分析人士認為，本輪迴落僅是階段性行情的消化，並非科技成長主線趨勢反轉，板塊正在經歷結構性調整。資金逐步從估值高位透支的標的撤出，轉向儲能、機器人等高賠率細分領域，多家券商更新月度配置思路，擇優佈局具有產業催化和明確盈利預期的科技細分資產。（中證報）
+
+---
+
+### 2026-06-03 06:08:41  #市場 #國際
+
+【供給偏緊 AI需求託底 錫價中長期上行可期 】今年以來，金屬錫表現搶眼。這個曾經相對“小眾”的品種，因被貼上“算力金屬”的標籤，突然站到了聚光燈下。自此前兩次高位回落調整之後，3月下旬以來，錫市場期現貨價格同步走強，其中滬錫期貨主力合約一度從323010元/噸低點攀升至最高449960元/噸，區間累計最大漲幅近四成。業內人士認為，錫價這一輪上漲是供需兩端共同作用的結果。供應端，緬甸佤邦復產進度不及預期、印尼資源管控趨嚴、非洲產區擾動不斷，全球錫供應彈性偏低；需求端，AI算力、半導體等領域持續開啟新的消費空間。雖然長期需求基本面具有顯著優勢，但當前偏高的錫價已制約了下游採購的積極性，短期錫價或維持高位震盪。中長期來看，錫價執行中樞有望逐步抬升。（中證報）
+
+---
+
+### 2026-06-03 06:08:04  #市場
+
+【光通訊產業鏈領漲 A股結構性行情延續 】6月2日，A股市場呈現震盪反彈態勢，主要指數全線飄紅，創業板指表現最為強勢，漲幅達2.66%，成為市場領漲核心。光通訊產業鏈成為全天最強主線，元件、CPO、光纖等細分板塊集體爆發，多隻個股漲停並創歷史新高。儘管指數普遍上漲，但市場分化現象明顯，全市場超3800只個股出現下跌，資金繼續向核心賽道集中。機構普遍認為，6月A股結構性行情將延續，科技成長仍是主線，但眼前的約束條件是“擁擠度太高＋資金面不夠厚＋缺乏增量催化”，因此6月大機率走出“震盪整固-結構收斂-等待下一腳油門”的路徑。今天盤中的V型反彈，印證了這一敘事框架下的“清洗浮籌”邏輯，而非新一輪趨勢性逼空的開始。（中證報）
+
+---
+
+### 2026-06-03 06:07:17  #其他
+
+【“含科量”悄然抬升 消費主題基金審美座標位移 】Wind資料顯示，在全市場280只消費主題基金中，今年以來僅有不到兩成產品獲得正收益，大多數深陷虧損泥潭。然而，一場由科技浪潮掀起的“鯰魚效應”正在重塑賽道投資邏輯——少數憑藉重倉AI科技實現淨值突圍的泛消費類產品，與堅守傳統消費核心資產的基金拉開了收益差距。面對消費板塊長時間的調整，基金經理們的應對之策已不再侷限於傳統的聚焦“吃喝玩樂”。從易方達藍籌精選增聘科技背景的基金經理，到越來越多消費主題基金在消費電子與AI應用端的積極卡位，基金經理正試圖打破消費投資“衣食住行”的刻板印象，尋找新的增長極。（中證報）
+
+---
+
+### 2026-06-03 06:05:47  #MKT News
+
+【Pinglu Canal to achieve full-line water filling today, enters water-testing phase】Pinglu Canal Group said today (3rd) that the Western Land–Sea New Corridor backbone project will hit a milestone as two of its three control shipping hubs, Madiao and Qishi, begin water filling. The canal will achieve full-line water and enter a water-testing phase, laying the groundwork for scheduled navigation in September.
+
+---
+
+### 2026-06-03 06:05:37  #其他
+
+【平陸運河今天將實現全線通水】今天（3日），西部陸海新通道骨幹工程平陸運河建設將迎來重大節點：控制性工程三大航運樞紐中的馬道樞紐和企石樞紐將開始充水，平陸運河將實現全線通水，全面進入有水除錯階段，為9月如期通航奠定堅實基礎。（央視新聞）
+
+---
+
+### 2026-06-03 06:02:29  #MKT News
+
+【Trump administration appeals order requiring refunds of $166 bln in IEEPA tariffs】The Trump administration on Tuesday filed a notice of appeal with the U.S. Court of International Trade challenging a judge's order that U.S. Customs refund $166 billion in global tariffs imposed under the International Emergency Economic Powers Act (IEEPA). The appeal follows a U.S. Supreme Court ruling earlier this year that the IEEPA tariffs were unlawfully imposed. The Justice Department argues the trial judge lacked authority to direct refunds to all importers who paid the tariffs, regardless of whether they sued to recover payments.
+
+---
+
+### 2026-06-03 06:01:23  #其他 #焦點 #國際
+
+科威特軍方稱，防空部隊當下正在攔截來襲的敵方導彈與無人機。
+
+---
+
+### 2026-06-03 06:00:50  #MKT News #Important #Brent #Impact bullish #WTI
+
+The General Staff of the Kuwait Armed Forces reported it is responding to hostile missile and drone threats.
+
+---
+
+### 2026-06-03 06:00:27  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.6%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.6%，累計降息25個基點的機率為1.4%。美聯儲到7月維持利率不變的機率為92.4%，累計加息25個基點的機率6.3%，累計降息25個基點的機率為1.3%。
+
+---
+
+### 2026-06-03 06:00:03  #市場 #焦點
+
+紐約期銀突破76美元/盎司，日內跌0.11%。
+
+---
+
+### 2026-06-03 05:59:04  #公司
+
+市場訊息：OpenAI執行長奧特曼週三將與白宮高階官員會面。
+
+---
+
+### 2026-06-03 05:56:42  #公司 #市場 #觀點
+
+【摩根大通：特斯拉銷售勢頭正在加速】摩根大通分析師Rajat Gupta援引與特斯拉投資者關係代表的會面表示，步入5月份特斯拉銷售勢頭加速。摩根大通表示，燃油價格上漲、對自動駕駛產品的需求日益增長，以及傳統汽車製造商逐步收窄電動汽車佈局導致競爭減少，都提振了需求。Gupta寫道，管理層強調Cybercab的產量仍在逐步提升，並指出特斯拉第二季財報預計將更清晰地反映出這款無人駕駛計程車的生產和驗證情況。此外Optimus機器人業務“仍處於早期階段”。
+
+---
+
+### 2026-06-03 05:55:24  #國際
+
+【巴林鋁業將按22億美元收購法國鋁冶煉廠】巴林鋁業（Alba）宣佈已同意收購歐盟最大的鋁冶煉廠——敦刻爾克鋁業（Aluminium Dunkerque），交易估值約為22億美元。
+
+---
+
+### 2026-06-03 05:52:01  #市場 #央行 #國際
+
+【非農就業大考前夕 看空力量主導美債市場】債券交易員堅持押注收益率上升，儘管已經削減了一些最激進的倉位。週五即將公佈的美國關鍵就業資料可能會進一步強化市場對於美聯儲加息的預期。近期，美國債券市場一直由看空力量主導。油價上漲以及通脹持續高於目標水平，推動基準國債收益率大幅攀升，並促使交易員加大對最快今年加息的押注。儘管隨著美伊有望達成停戰協議，市場情緒有所改善，但交易員整體仍保持防禦姿態。美國10年期國債收益率已從兩週前接近4.69%的高點回落至4.5%以下，但仍明顯高於今年早些時候觸及的低點。美國銀行策略師在最新一期週報中寫道：“市場倉位仍然偏向做空。”他們補充稱，“即使動能不如之前明確”，但倉位應仍偏向收益率上行。
+
+---
+
+### 2026-06-03 05:50:49  #MKT News
+
+The UN General Assembly on June 2 elected Bangladesh's foreign minister Khalil Rahman as president of its 81st session. He will take office this September for a one-year term.
+
+---
+
+### 2026-06-03 05:47:32  #MKT News
+
+【Explosions reported near Qeshm Island, southern Iran】Residents reported hearing blasts near Qeshm Island in southern Iran in the early hours of June 3 local time. The nature and cause of the explosions are unclear and Iranian authorities have not commented.
+
+---
+
+### 2026-06-03 05:47:20  #其他
+
+委內瑞拉國民議會初審透過法案，擬放開電力行業、引入民間資本投資。
+
+---
+
+### 2026-06-03 05:47:16  #MKT News #Market Regions #Emerging Markets
+
+Venezuela's National Assembly provisionally passed legislation to allow private investment in the power sector.
+
+---
+
+### 2026-06-03 05:46:25  #國際
+
+【伊朗南部格什姆島傳出爆炸聲】當地時間6月3日凌晨，據伊朗南部格什姆島當地居民報告稱，聽到該地附近傳出爆炸聲。目前尚不清楚爆炸的具體性質，伊朗官方也暫未就爆炸原因發表評論。（央視新聞）
+
+---
+
+### 2026-06-03 05:45:22  #其他
+
+市場訊息：SPACEX計劃最早於週三確定IPO條款。
+
+---
+
+### 2026-06-03 05:45:05  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+HRC Steel Hits 4-week Low — HRC Steel decreased to 1122.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 4.22%, and in the last 12 months, it increased 36.44%.
+
+---
+
+### 2026-06-03 05:41:24  #MKT News #Important
+
+Iran's Mehr News Agency, citing local sources and residents, reported explosions were heard in the Qeshm Island area.
+
+---
+
+### 2026-06-03 05:40:43  #焦點 #國際
+
+伊朗邁赫爾通訊社援引當地訊息人士與居民訊息稱，格什姆島周邊區域傳出爆炸聲。
+
+---
+
+### 2026-06-03 05:39:27  #國際
+
+加拿大政府負責加美貿易的部長勒布朗： 已收到美國貿易代表格里爾與墨西哥經濟部長髮來的信函，但拒絕披露信件內容。
+
+---
+
+### 2026-06-03 05:34:43  #公司 #國際
+
+【康菲石油與印尼北樞紐LNG賣家簽署供應協議】美國油氣巨頭康菲石油公司在領英（LinkedIn）上發文表示，已與印尼北樞紐（North Hub）的液化天然氣（LNG）賣家簽署了長期供應協議，進一步擴充了公司的全球LNG供應版圖。供應將來自庫泰（Kutai）盆地正在開發的深水天然氣資源，該盆地靠近印尼現有的邦唐（Bontang）液化天然氣廠。康菲石油的一位發言人在郵件中表示，該協議將於2029年啟動；公司方面拒絕透露具體的供應量和協議期限。
+
+---
+
+### 2026-06-03 05:29:01  #市場
+
+MARVELL股票盤後漲幅擴大至9.4%。
+
+---
+
+### 2026-06-03 05:28:17  #MKT News #Market Regions #Japan & APAC
+
+Japan's Wakayama Prefecture issued a highest-level (level 5) alert for Typhoon Rose.
+
+---
+
+### 2026-06-03 05:28:08  #MKT News
+
+Canada's minister responsible for Canada-U.S. trade, Leblanc, said he is confident talks with the United States and Mexico can proceed on automotive rules of origin.
+
+---
+
+### 2026-06-03 05:28:01  #公司 #國際
+
+【美媒曝一名美軍飛行員兩度被擊落：一次友軍誤擊，一次遭伊朗襲擊】據美國哥倫比亞廣播公司，兩名瞭解相關事件的人士透露，一架在伊朗上空被擊落的F-15E戰鬥機飛行員，在伊朗戰爭初期也曾駕駛另一架戰機，並在一次“友軍誤擊”事件中被擊落，當時是被科威特友軍誤擊。在友軍誤擊事件中安全彈射逃生僅30多天後，該飛行員再次執行飛越伊朗的任務，其所駕駛的戰機被一枚伊朗地對空導彈擊中，隨後引發了一場大膽的營救行動。“這是一個非常不尋常的巧合，”退役空軍中將大衛·德普圖拉說道。德普圖拉表示，他想不出自越南戰爭以來，在同一場戰役中曾有飛行員在不同的意外事件中被擊落過，“這就像被閃電擊中兩次一樣。”
+
+---
+
+### 2026-06-03 05:27:08  #MKT News
+
+【Trump demands written nuclear concessions from Tehran】ABC, citing U.S. officials and another person familiar, reported President Trump is demanding Tehran put specific nuclear concessions in writing as part of a preliminary deal to break the long-running U.S.-Iran impasse. Sources said Iranian negotiators had previously given verbal assurances they would ultimately accept certain terms affecting Iran’s nuclear program; at a White House Situation Room meeting last Friday Trump judged those pledges insufficient.
+
+---
+
+### 2026-06-03 05:26:59  #國際
+
+加拿大政府負責加美貿易的部長勒布朗： 加方有信心同美國、墨西哥就汽車原產地規則展開磋商。
+
+---
+
+### 2026-06-03 05:26:45  #國際
+
+【受颱風“薔薇”影響 日本和歌山縣釋出最高等級5級警戒】當地時間6月3日，受颱風“薔薇”影響，和歌山縣串本町認為流經町內的古座川存在泛濫危險，因此於當地時間5時，向古田地區、巖渕地區、住吉地區、中湊地區以及古座地區共計755戶、1149人釋出“緊急安全確保”的警戒。這是警戒等級中最高的5級，當地政府呼籲居民確認周圍狀況，在附近建築物內或自家二層以上等場所，採取能夠最大限度提高保全生命可能性的行動。（央視新聞）
+
+---
+
+### 2026-06-03 05:23:27  #MKT News
+
+Canada's minister for Canada-U.S. trade, Leblanc, said Ottawa is holding bilateral talks with Mexico on the US-Mexico-Canada Agreement (USMCA).
+
+---
+
+### 2026-06-03 05:23:21  #MKT News #Market Themes #The Trump Trade
+
+Canada's minister for Canada-U.S. trade, Leblanc, said Canada has been preparing for a U.S. Section 301 tariff investigation.
+
+---
+
+### 2026-06-03 05:23:16  #MKT News
+
+Canada’s minister for Canada-U.S. trade, Leblanc, said U.S. trade talks have been underway for months.
+
+---
+
+### 2026-06-03 05:22:33  #國際
+
+【報道：特朗普敦促伊朗做出更堅定的核承諾】據ABC記者報道稱，美國國務卿魯比奧在參議院外交關係委員會聽證會上表態，美伊協議或於今日、明日或下週落地。 據多名美國官員及知情人士透露，美國總統特朗普要求伊朗以書面形式作出具體核讓步，以此作為一份初步協議的內容，打破美伊之間長期陷入的談判僵局。 訊息人士表示，此前伊朗談判代表僅作出口頭保證，承諾該國最終會就核專案相關條款達成共識；但特朗普在週五白宮戰情室的會議上判定，這類口頭承諾約束力不足。
+
+---
+
+### 2026-06-03 05:22:00  #MKT News
+
+【US media: US pilot twice shot down — once by friendly fire, once by Iranian missile】CBS, citing two people familiar with the incidents, reported the F-15E pilot shot down over Iran had earlier been downed in the early days of the Iran war when his previous aircraft was hit by friendly fire from Kuwaiti forces. He ejected safely and, just over 30 days later on a separate mission over Iran, his F-15E was struck by an Iranian surface-to-air missile, prompting a bold rescue operation. Retired Air Force Lt. Gen. David Deptula called the sequence a very unusual coincidence and said he could not recall since Vietnam a pilot being downed twice in the same campaign — like being struck by lightning twice.
+
+---
+
+### 2026-06-03 05:19:48  #國際
+
+加拿大政府負責加美貿易的部長勒布朗： 本國已針對美國 301 條款關稅調查開展相關籌備工作。
+
+---
+
+### 2026-06-03 05:18:18  #其他
+
+加拿大政府負責加美貿易的部長勒布朗： 加方正與墨西哥方面就《美墨加協定》開展雙邊磋商。
+
+---
+
+### 2026-06-03 05:17:59  #國際
+
+市場訊息：巴林內政部週二宣佈，即日起禁止本國公民前往伊朗、伊拉克，禁令另行通知前持續生效，並警示違規者將被追究法律責任。
+
+---
+
+### 2026-06-03 05:17:35  #國際
+
+市場訊息：美國總統特朗普希望伊朗以書面形式做出核方面的讓步。
+
+---
+
+### 2026-06-03 05:16:57  #國際
+
+市場訊息：美國總統特朗普敦促伊朗做出更堅定的核承諾。
+
+---
+
+### 2026-06-03 05:16:45  #Trading Economics #Markets #Bermuda #Stock Market #Importance 0
+
+Stocks in Bermuda Hit All-time High — BSX increased to an all-time high of 3598.00 Index Points. Over the past 4 weeks, Bermuda Stock Exchange Index gained 0.56%, and in the last 12 months, it increased 27.44%.
+
+---
+
+### 2026-06-03 05:16:04  #市場
+
+富時A50期指連續夜盤收跌0.15%，報15912點。
+
+---
+
+### 2026-06-03 05:14:49  #國際
+
+【匈牙利總理稱不會向烏克蘭供武】當地時間6月2日，匈牙利總理毛焦爾在德國柏林重申，即使在新一屆政府的領導下，匈牙利也不會向烏克蘭派遣軍隊或提供武器。（央視新聞）
+
+---
+
+### 2026-06-03 05:12:56  #MKT News
+
+Canada's minister responsible for Canada-U.S. trade, LeBlanc, said discussions covered exemptions from high industry-specific tariffs.
+
+---
+
+### 2026-06-03 05:12:43  #國際
+
+美國能源部長克里斯・賴特：去年，特朗普定下激進目標：在今年 7 月 4 日（美國建國 250 週年）前實現新一代核反應堆臨界啟動。目前專案進展順利，多座反應堆有望達成臨界狀態，兌現總統目標，助推美國核電復興程序。
+
+---
+
+### 2026-06-03 05:12:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
+
+Canada's minister for Canada-U.S. trade, Leblanc, said he has raised concerns about U.S. tariffs on autos, steel, aluminum and softwood.
+
+---
+
+### 2026-06-03 05:12:04  #國際
+
+加拿大政府負責加美貿易的部長勒布朗： 將於下週與美國貿易代表格里爾接洽溝通。
+
+---
+
+### 2026-06-03 05:11:29  #其他
+
+加拿大政府負責加美貿易的部長勒布朗：已就美方針對汽車、鋼鐵、鋁及軟木木材加徵關稅事宜提出交涉。
+
+---
+
+### 2026-06-03 05:10:53  #MKT News
+
+Canada's minister responsible for Canada-U.S. trade, LeBlanc, said he held a constructive meeting with U.S. Trade Representative Greer.
+
+---
+
+### 2026-06-03 05:10:42  #MKT News
+
+Semafor, citing sources, reports ANTHROPIC refused to provide financial information to lenders considering buying some of its debt.
+
+---
+
+### 2026-06-03 05:10:16  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Climbs on Mining and Utility Gains — The Ibovespa rose 1.2% to close at 174,197 on Tuesday, supported by gains in mining, steel, utility, and banking stocks. Vale advanced 4% as iron ore prices increased. Utilities also outperformed, with Axia up 2.4%, Sabesp gaining 1.5%, and Eneva rising 1.9%. In the financial sector, Bradesco added 1.5% and Itaúsa gained 1%. Steelmakers rallied after revisions to US steel tariffs, with CSN jumping 8.8%, Gerdau rising 5.5%, and Usiminas surging 8.6%. Rede D'Or gained 1.1% after announcing an expansion plan. Investors continued to assess the US proposal to impose an additional 25% tariff on a range of Brazilian imports. Members of President Lula’s administration expressed confidence that a negotiated solution could be reached before the measure takes effect, with talks expected to advance in the coming weeks. Markets also monitored developments in the Middle East as conflicting signals emerged regarding Iran's willingness to negotiate with the US.
 
 ---
 
@@ -22564,428 +22930,5 @@ Apple (AAPL.O) is reportedly preparing to launch a bill-splitting feature as it 
 ### 2026-06-02 01:52:46  #國際
 
 【特朗普：與伊朗的談判正“快速推進”】美國總統特朗普1日在社交媒體上說，與伊朗的談判正“快速推進”。 (新華社)
-
----
-
-### 2026-06-02 01:49:26  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Ukrainian President Zelenskiy said Ukrainian military operations have caused fuel shortages in Crimea and other occupied territories.
-
----
-
-### 2026-06-02 01:49:02  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Zelenskiy says Ukrainian forces can strike Russian logistics across occupied territory; Russian troops in southern and eastern Ukraine have almost no secure supply routes.
-
----
-
-### 2026-06-02 01:45:40  #國際
-
-烏克蘭總統澤連斯基： 烏軍可打擊所有俄方控制區域內的俄軍後勤設施，在烏克蘭東部和南部，俄軍幾乎沒有安全通行的道路。
-
----
-
-### 2026-06-02 01:45:34  #國際
-
-烏克蘭總統澤連斯基：烏軍行動已造成克里米亞及其他被佔領地區燃油短缺。
-
----
-
-### 2026-06-02 01:44:31  #MKT News #Important
-
-Trump said negotiations with Iran are ongoing and progressing rapidly.
-
----
-
-### 2026-06-02 01:44:01  #焦點 #國際
-
-特朗普：與伊朗的談判正在快速推進。
-
----
-
-### 2026-06-02 01:40:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign ministry: US directly responsible for Israel’s Lebanon–Israel ceasefire violations】On the 1st, Iran’s foreign ministry said the United States bears direct responsibility for violations of an Iran–U.S. ceasefire and for Israel’s breaches of the Lebanon–Israel ceasefire, and should bear full responsibility for the consequences. Iran said it will defend its interests when it deems necessary.
-
----
-
-### 2026-06-02 01:40:28  #國際
-
-以色列國防軍：鑑於確認有火箭彈從黎巴嫩發射，目標直指衝突線沿線的各社群，後方司令部已釋出預防性指令。公眾應在警報響起時立即進入避難場所。
-
----
-
-### 2026-06-02 01:40:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces said rockets confirmed fired from Lebanon targeted frontline communities; rear command issued precautionary orders. The public should enter shelters immediately when alarms sound.
-
----
-
-### 2026-06-02 01:40:09  #國際
-
-【伊朗外交部：美對以色列違反黎以停火協議負有直接責任】當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。（央視新聞）
-
----
-
-### 2026-06-02 01:38:30  #國際
-
-【特朗普：以色列和黎真主黨的所有交火行動將立即停止】當地時間6月1日，美國總統特朗普在社交媒體“真實社交”上發文表示，他與以色列總理內塔尼亞胡進行了一次富有成效的通話，現已確定不會有任何部隊前往貝魯特，凡是此前正在途中的部隊，均已奉命撤回。特朗普還表示，透過高階別代表的協調，他也與黎巴嫩真主黨進行了一次良好的溝通。雙方已達成共識，所有交火行動將立即停止——即以色列不會攻擊黎真主黨，黎真主黨也不會攻擊以色列。（央視新聞）
-
----
-
-### 2026-06-02 01:38:19  #MKT News
-
-President Trump said negotiations with Iran are 'starting to get very boring'.
-
----
-
-### 2026-06-02 01:36:54  #市場 #國際
-
-特朗普就中東問題發表評論後，美國國債跌幅收窄。
-
----
-
-### 2026-06-02 01:35:27  #MKT News
-
-【Trump says productive talks with Netanyahu and Hezbollah; no US troops to Beirut】President Trump said on social media he had a very productive call with Israeli Prime Minister Netanyahu and that no US troops will go to Beirut; any units already en route have been sent back. He said, via a senior representative, he also had a good call with Hezbollah and that both sides agreed all shooting will stop — Israel will not attack Hezbollah and Hezbollah will not attack Israel.
-
----
-
-### 2026-06-02 01:34:57  #國際
-
-美國總統特朗普：坦率地說，有關與伊朗談判的問題開始變得無聊了。（CNBC）
-
----
-
-### 2026-06-02 01:34:44  #焦點 #國際
-
-【特朗普：真主黨和以色列同意互不攻擊】美國總統特朗普在社交媒體“真相社交”發文稱， 同以色列總理內塔尼亞胡進行了一次富有成效的通話，美方不會向貝魯特派兵，所有正在馳援途中的部隊均已原路撤回。與此同時，我透過高層特使與真主黨順利通了話，對方達成全面停火共識：以色列不會對其發起襲擊，真主黨也不再襲擊以色列。
-
----
-
-### 2026-06-02 01:32:55  #MKT News
-
-Iraqi security official says a fire aboard a cargo ship has been brought under control.
-
----
-
-### 2026-06-02 01:31:46  #MKT News
-
-U.S. President Trump said Israel would not attack Hezbollah and Hezbollah would not attack Israel.
-
----
-
-### 2026-06-02 01:31:21  #MKT News #Important
-
-U.S. President Trump said through senior representatives he had a very good call with Hezbollah and that they agreed to cease all shooting.
-
----
-
-### 2026-06-02 01:31:11  #焦點 #國際
-
-特朗普：我透過高層代表同真主黨進行了一次十分順暢的通話，對方同意全面停止交火。
-
----
-
-### 2026-06-02 01:30:58  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-U.S. President Trump said he had a productive call with Israeli Prime Minister Netanyahu and that no troops will be sent to Beirut; any forces en route have been recalled.
-
----
-
-### 2026-06-02 01:30:57  #焦點 #國際
-
-特朗普：不會向貝魯特派遣軍隊，所有正在開赴當地的部隊均已奉命折返。
-
----
-
-### 2026-06-02 01:30:43  #國際
-
-特朗普：我與以色列總理內塔尼亞胡進行了一場極富成效的通話。
-
----
-
-### 2026-06-02 01:29:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IRNA reports Iran's oil minister said repairs to energy infrastructure have made significant progress and he is optimistic about a rapid restoration of oil production capacity.
-
----
-
-### 2026-06-02 01:28:02  #公司 #國際
-
-【上汽MG歐洲首家工廠落戶西班牙】上汽集團旗下MG品牌已選定西班牙建設其首家歐洲汽車工廠。當地政府表示，該專案位於西班牙西北部，初始投資預計約2億歐元(2.32億美元)，不包括港口費用，年產能可達12萬輛。工廠預計於2028年投產。MG原為英國品牌，近20年前被上汽集團收購，目前是歐洲銷量最高的中國汽車品牌之一。
-
----
-
-### 2026-06-02 01:27:01  #MKT News #WTI #Impact bullish #Brent
-
-Iraqi security official says preliminary assessment indicates the second explosion aboard a cargo ship about 40 nautical miles southeast of Umm Qasr was caused by a drone attack.
-
----
-
-### 2026-06-02 01:26:37  #MKT News
-
-An Iraqi security official said a cargo ship about 40 nautical miles southeast of Umm Qasr suffered a second explosion and caught fire; no casualties reported.
-
----
-
-### 2026-06-02 01:26:36  #其他
-
-伊拉克安全官員訊息：波斯灣海域、烏姆卡斯爾港東南約 40 海里處一艘貨輪遭遇二次爆炸並起火，暫無人員傷亡通報。初步研判顯示，這艘在波斯灣、伊拉克烏姆卡斯爾港東南約 40 海里處遭遇二次爆炸的貨輪系遭無人機襲擊所致。
-
----
-
-### 2026-06-02 01:25:54  #MKT News #Important #XAUUSD #Impact bullish #DXY #Brent
-
-Two Israeli sources said Israel is awaiting final approval from Trump before conducting any operation in the southern suburbs of Beirut.
-
----
-
-### 2026-06-02 01:25:11  #焦點 #國際
-
-兩名以色列訊息人士：以色列正等待特朗普最終批准，方可在貝魯特南部郊區開展軍事行動。
-
----
-
-### 2026-06-02 01:24:10  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israel says it intercepted multiple rockets fired by Hezbollah from Lebanon】Israel Defense Forces (IDF) said on June 1 that Hezbollah fired multiple rockets from Lebanon into Israel. Israeli air defenses intercepted some; others fell near IDF troops with no casualties reported. Hezbollah also launched a drone from Lebanon that struck an Israeli position in northern Israel. The IDF warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would respond by striking targets in Dahiyeh if Hezbollah continues firing at Israeli towns.
-
----
-
-### 2026-06-02 01:23:19  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $1.302 billion from five counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-02 01:19:10  #央行 #國際
-
-週一（6月1日），美聯儲隔夜逆回購協議（RRP）使用規模為13.02億美元（交易對手5家），上個交易日報116.77億美元。
-
----
-
-### 2026-06-02 01:16:46  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Trump says he doesn't care if Iran talks end; expects oil to fall soon】In a CNBC interview on Monday, US President Trump said he 'doesn't care' whether talks with Iran end and that he 'really doesn't care' about reports Tehran stopped contact after Israeli military action in Lebanon. He said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon and that he is not worried about oil prices, saying they will 'drop like a stone' in the near term. Earlier, Iranian state media reported Tehran would halt negotiations and vowed to 'completely block' the Strait of Hormuz; that report had pushed oil sharply higher.
-
----
-
-### 2026-06-02 01:13:45  #Trading Economics #Markets #Colombia #Currency #Importance 1
-
-Colombian Peso Tests 5-Year High — The Colombian peso surged to 3,570 per USD in June, testing its strongest level in over five years, after rightwing populist presidential candidate de la Espriella unexpectedly won the first round of elections. The candidate, seen as an outsider, set up the run-off against leftist Cepeda, backed by outgoing President Petro. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government.
-
----
-
-### 2026-06-02 01:13:28  #MKT News
-
-Brazil's finance minister said that if Brazilian financial institutions are hit by U.S. sanctions they may be unable to provide the PIX payment system.
-
----
-
-### 2026-06-02 01:13:13  #MKT News
-
-Brazil's finance minister said they had done their best to submit an explanation.
-
----
-
-### 2026-06-02 01:12:52  #MKT News
-
-Brazil's finance minister said the government is concerned about new U.S. tariffs.
-
----
-
-### 2026-06-02 01:11:45  #國際
-
-據伊朗國家通訊社（IRNA）：伊朗石油部長表示，本國能源設施重建工作取得重大進展，有望快速恢復產能。
-
----
-
-### 2026-06-02 01:11:44  #MKT News #Important
-
-Russia is reportedly considering imports of aviation fuel, a Russian business news agency reports.
-
----
-
-### 2026-06-02 01:10:04  #國際
-
-市場訊息： 俄羅斯正考慮進口航空煤油。
-
----
-
-### 2026-06-02 01:08:27  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US President Trump said oil prices will fall "like a rock" in the near future.
-
----
-
-### 2026-06-02 01:07:26  #MKT News
-
-US President Trump said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon.
-
----
-
-### 2026-06-02 01:06:27  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Netanyahu speaks with Trump on Iran, Lebanon】On the evening of June 1 local time, Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump to discuss developments in Iran and Lebanon. The call followed Israeli forces crossing the Litani River to launch an offensive, effectively collapsing a temporary ceasefire that began April 17. On May 31 Netanyahu ordered an expansion of military operations in Lebanon and has sought U.S. support for strikes on Beirut and other targets, a request he has communicated to Washington.
-
----
-
-### 2026-06-02 01:06:13  #國際
-
-特朗普：石油價格短期內將“像石頭一樣”下挫。
-
----
-
-### 2026-06-02 01:05:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry said it will continue, citing its right to self‑defense, to make full use of all capabilities to protect its interests when necessary.
-
----
-
-### 2026-06-02 01:05:16  #焦點 #國際
-
-伊朗外交部：伊朗將依據自衛權，在必要時動用全部自身力量維護本國利益。
-
----
-
-### 2026-06-02 01:04:56  #國際
-
-【內塔尼亞胡與特朗普通話，討論伊朗及黎巴嫩局勢】6月1日，以色列總理內塔尼亞胡與美國總統特朗普通電話，就伊朗及黎巴嫩局勢進行討論。日前，隨著以軍越過利塔尼河展開進攻，4月17日開始的黎以臨時停火已經名存實亡。以色列總理內塔尼亞胡5月31日下令擴大在黎軍事行動，同時尋求美國支援打擊貝魯特等地，並已就此與美方溝通。（央視）
-
----
-
-### 2026-06-02 01:04:56  #MKT News
-
-U.S. President Trump said he is not concerned about oil prices.
-
----
-
-### 2026-06-02 01:04:29  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-TRUMP: I don't care whether negotiations with Iran are over.
-
----
-
-### 2026-06-02 01:04:19  #國際
-
-特朗普：不擔心油價。
-
----
-
-### 2026-06-02 01:04:13  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Iran says it will respond if red lines over Lebanon and Gaza are crossed】Iranian state TV reported that on the 1st a social-media account linked to the IRGC intelligence arm posted that crossing Iran’s red lines on Lebanon and Gaza would amount to launching a direct war against Iran’s national security and allied Islamic Resistance forces. The post said Iran is determined to carry out defensive actions, including measures that break existing rules and frameworks and the opening of new fronts, while maintaining the current posture in the Strait of Hormuz.
-
----
-
-### 2026-06-02 01:04:04  #焦點 #國際
-
-特朗普：正在詢問內塔尼亞胡到底發生了什麼事。
-
----
-
-### 2026-06-02 01:03:54  #國際
-
-【伊方稱將就黎巴嫩和加沙問題紅線被突破作出回應】據伊朗國家電視臺報道，與伊朗伊斯蘭革命衛隊情報組織相關的一個社交媒體賬號1日發文稱，在黎巴嫩和加沙問題上越過紅線，意味著對伊朗國家安全以及伊斯蘭抵抗力量發動直接戰爭。報道說，該賬號稱，作為回應，伊朗決心實施防禦行動，包括採取打破既有規則和框架的措施、開闢新的戰線，同時維持霍爾木茲海峽既有態勢。（新華社）
-
----
-
-### 2026-06-02 01:03:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry said a ceasefire violation on any one front is equivalent to a violation on all fronts.
-
----
-
-### 2026-06-02 01:03:20  #焦點 #國際
-
-特朗普：我不在乎與伊朗的和平談判是否結束。
-
----
-
-### 2026-06-02 01:02:58  #國際
-
-伊朗外交部：一條戰線違反停火，等同於所有戰線違反停火。
-
----
-
-### 2026-06-02 01:02:55  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's foreign ministry said the United States bears direct responsibility for breaches of the ceasefire with Iran and should also be held accountable for Israeli ceasefire violations in Lebanon.
-
----
-
-### 2026-06-02 01:02:22  #焦點 #國際
-
-伊朗外交部：美國需對破壞伊方相關停火協議以及以色列在黎巴嫩境內違反停火協定的行為承擔直接責任。
-
----
-
-### 2026-06-02 01:02:10  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
-
-According to Business Insider, Amazon (AMZN.O)'s head of satellite internet warned employees to stay focused after last week's Blue Origin rocket explosion.
-
----
-
-### 2026-06-02 01:02:04  #公司
-
-市場訊息：在上週藍色起源火箭發生爆炸後，亞馬遜衛星網際網路業務負責人要求員工穩住心神、專注工作。
-
----
-
-### 2026-06-02 01:01:42  #其他
-
-華碩釋出了搭載NVIDIA RTX Spark顯示卡的革命性ProArt P16和P14膝上型電腦。
-
----
-
-### 2026-06-02 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲1.10%，滬銅收漲1.12%，滬鋁收漲0.49%，滬鋅收漲0.26%，滬鉛收跌0.09%，滬鎳收漲1.26%，滬錫收漲2.46%。氧化鋁夜盤收跌0.69%，鋁合金收漲0.41%。不鏽鋼夜盤收漲1.52%。
-
----
-
-### 2026-06-02 00:58:37  #MKT News
-
-IRNA reported HEZBOLLAH said it would observe a ceasefire agreement if Israel stops its aggression and withdraws forces.
-
----
-
-### 2026-06-02 00:55:59  #MKT News
-
-According to Israel's Channel 12, HEZBOLLAH told Trump it would agree to a ceasefire and that the ceasefire would carry no preconditions.
-
----
-
-### 2026-06-02 00:55:16  #國際
-
-航運資料顯示，委內瑞拉5月份的石油出口量上升至125萬桶/日。
-5月份委內瑞拉輸往加勒比地區用於儲存的石油出口量降至約5.8萬桶/日。
-委內瑞拉對印度的石油出口在五月增至約42.7萬桶/日。
-委內瑞拉對美國的石油出口在五月增加至約55.8桶/日。
-
----
-
-### 2026-06-02 00:54:22  #國際
-
-據以色列媒體Channel 12報道，真主黨告訴特朗普稱他們將同意停火，真主黨表示同意停火不會附加任何前提條件。
-
----
-
-### 2026-06-02 00:52:52  #MKT News #Commodities #Energy #WTI
-
-Shipping data showed Venezuela's oil exports to the United States rose to about 55.8 b/d in May.
-
----
-
-### 2026-06-02 00:52:35  #其他
-
-LME期銅收漲196美元，報13832美元/噸。LME期鋁收漲50美元，報3716美元/噸。LME期鋅收漲38美元，報3578美元/噸。
-
----
-
-### 2026-06-02 00:52:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Shipping data show Venezuela's oil exports to India rose to about 427,000 barrels per day in May.
 
 ---
