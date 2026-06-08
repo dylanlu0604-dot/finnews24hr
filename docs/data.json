@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-09 01:11:58",
-  "count": 19105,
+  "updated": "2026-06-09 01:15:51",
+  "count": 19106,
   "items": [
+    {
+      "id": "mkt:019ea83a-af67-733a-9232-053a65ff2f49",
+      "time": "2026-06-09 01:14:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): Apple devices will support on-device content search indexing."
+    },
+    {
+      "id": "4924517",
+      "time": "2026-06-09 01:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽因伊朗戰爭的影響將全球主權債務行業前景下調至“惡化”。"
+    },
+    {
+      "id": "4924516",
+      "time": "2026-06-09 01:14:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果：蘋果裝置將新增端側內容搜尋索引。"
+    },
+    {
+      "id": "4924515",
+      "time": "2026-06-09 01:13:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iOS 27系統將支援至iPhone 11系列機型。"
+    },
+    {
+      "id": "4924514",
+      "time": "2026-06-09 01:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：顯著提升了產品響應速度。iPhone和iPad app的啟動速度最高提升30%，新照片的顯示速度最高提升了70%，傳輸速度最高可提升80%。"
+    },
     {
       "id": "mkt:019ea837-73bd-733a-9231-fd02e934e85e",
       "time": "2026-06-09 01:11:06",
@@ -176047,42 +176093,6 @@
         "Brent"
       ],
       "text": "【Trump says he doesn't care if Iran talks end; expects oil to fall soon】In a CNBC interview on Monday, US President Trump said he 'doesn't care' whether talks with Iran end and that he 'really doesn't care' about reports Tehran stopped contact after Israeli military action in Lebanon. He said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon and that he is not worried about oil prices, saying they will 'drop like a stone' in the near term. Earlier, Iranian state media reported Tehran would halt negotiations and vowed to 'completely block' the Strait of Hormuz; that report had pushed oil sharply higher."
-    },
-    {
-      "id": "te:markets:555469",
-      "time": "2026-06-02 01:13:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Colombia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Colombian Peso Tests 5-Year High — The Colombian peso surged to 3,570 per USD in June, testing its strongest level in over five years, after rightwing populist presidential candidate de la Espriella unexpectedly won the first round of elections. The candidate, seen as an outsider, set up the run-off against leftist Cepeda, backed by outgoing President Petro. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government."
-    },
-    {
-      "id": "mkt:019e842d-1b3d-7993-96f7-d59971cb99df",
-      "time": "2026-06-02 01:13:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said that if Brazilian financial institutions are hit by U.S. sanctions they may be unable to provide the PIX payment system."
-    },
-    {
-      "id": "mkt:019e842c-dfc1-7993-96f7-cd466ff6b70d",
-      "time": "2026-06-02 01:13:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said they had done their best to submit an explanation."
-    },
-    {
-      "id": "mkt:019e842c-8ce8-7993-96f7-c57eef18608a",
-      "time": "2026-06-02 01:12:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said the government is concerned about new U.S. tariffs."
     }
   ]
 }
