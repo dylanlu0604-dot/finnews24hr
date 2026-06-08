@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-09 04:59:46_
-_本檔包含 4178 則快訊，約 695047 字_
+_更新時間：2026-06-09 05:38:57_
+_本檔包含 4192 則快訊，約 695644 字_
+
+---
+
+### 2026-06-09 05:37:18  #公司
+
+市場訊息：OpenAI 將於未來數週開展股份要約收購。
+
+---
+
+### 2026-06-09 05:35:29  #宏觀 #國際
+
+【美法官裁定特朗普政府抬高H-1B簽證費違法】美國一名聯邦法官8日裁定，特朗普政府將H-1B簽證申請費用提高至10萬美元的政策違法，認定此款項屬於未經國會授權的稅收。美國馬薩諸塞州聯邦地區法院法官利奧·索羅金裁定，H-1B簽證申請費具有稅收性質，特朗普政府的“漲價”政策未經國會授權，美國務院和美國公民及移民服務局不得執行這一政策。裁決說，“從這筆10萬美元款項的實質和用途來看，無論它叫什麼名字，都是稅款的一種”。裁決還說，聯邦移民法賦予總統限制部分外國人入境的權力，但並未授權總統以此徵稅。（新華社）
+
+---
+
+### 2026-06-09 05:33:14  #觀點 #國際
+
+摩根大通、美國銀行因為網路安全威脅問題而被美國國會山成員質詢。
+
+---
+
+### 2026-06-09 05:32:43  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli military said it intercepted a "suspicious aerial target" from Yemen after an alert for hostile aircraft sounded in the Eilat area.
+
+---
+
+### 2026-06-09 05:32:23  #MKT News
+
+IRNA, citing Iran's UN representative, said Iran is exchanging views with the US via Pakistan to reach a final text.
+
+---
+
+### 2026-06-09 05:31:31  #國際
+
+以色列軍方表示，埃拉特地區響起防空警報後，己方攔截了一架來自葉門的可疑空中目標。
+
+---
+
+### 2026-06-09 05:31:04  #公司 #國際
+
+亞馬遜：向美國證交會提交申請，擬分五檔發行加元債券，總規模最高 140 億加元。
+
+---
+
+### 2026-06-09 05:30:39  #公司
+
+亞馬遜：提交檔案擬分五檔發行加元計價債券，總額最高 140 億加元。
+
+---
+
+### 2026-06-09 05:30:32  #MKT News
+
+Amazon (AMZN.O) filed with the U.S. Securities and Exchange Commission to issue five tranches of Canadian dollar‑denominated bonds, for a total of up to C$14 billion.
+
+---
+
+### 2026-06-09 05:25:31  #公司 #央行 #國際
+
+【對沖基金對賭日本央行6月加息孤掌難鳴，難阻日元繼續沉淪】在6月份日本央行政策會議召開前夕，對沖基金正嚴陣以待日元的進一步走軟。他們認為，即便再次加息，也幾乎無法扭轉日元所面臨的結構性貶值壓力。鑑於市場目前已幾乎完全消化了本月加息 25 個基點的預期，這些追求快進快出的“敏捷資金”正愈發將核心焦點轉向：日本央行究竟是否有能力開啟一輪具備持續性的緊縮週期。五星資產管理公司（Fivestar Asset Management Co.）和Palinuro Capital目前均持有日元空頭頭寸；而Simplex資產管理公司則計劃在日元反彈突破1美元兌159日元后，階段性地反向建立做空日元的戰術期權。
+
+---
+
+### 2026-06-09 05:25:25  #其他
+
+標普：預計捷藍航空至少未來 12 個月的經營業績將承受巨大壓力。
+
+---
+
+### 2026-06-09 05:25:08  #市場 #央行 #國際
+
+【美銀警告美股危險訊號增多 是時候“獲利了結”】美銀證券（Bank of America Securities）表示，隨著越來越多熊市訊號指向市場頂部將近，投資者應謹慎對待美國股市。Savita Subramanian為首的策略師在6月5日的報告中寫道，“危險訊號太多”。他們建議“獲利了結”。策略師表示，這些熊市訊號中約70%近期已被觸發，與以往市場見頂時觀察到的平均水平一致。Subramanian表示，基準標普500指數“從20項指標中的17項來看，在統計上處於高估值水平，且8項指標顯示其估值高於科技股泡沫時期”。相關指標包括消費者信心資料、增長預期、併購評分和信貸壓力，以及收緊狀況指標，例如美聯儲高階信貸員意見調查(SLOOS)。5月釋出的SLOOS顯示，消費者需求繼續走軟。此外，策略師表示，高市盈率股票大幅跑贏低市盈率股票，這是“過度投機的跡象”。
+
+---
+
+### 2026-06-09 05:24:51  #其他
+
+標普：因燃油成本走高、槓桿率持續處於高位，捷藍航空評級從 B - 下調至 CCC+，評級展望穩定。
+
+---
+
+### 2026-06-09 05:23:17  #MKT News #Market Themes #AI Revolution
+
+【OpenAI says it confidentially filed an S-1 and disclosed it after expecting a leak】OpenAI said it confidentially filed an S-1 registration and preemptively published the document after anticipating a leak. The company said IPO timing is uncertain; the filing preserves the option to accelerate a public listing when it judges the timing right. The statement indicates OpenAI is positioning to capture investor demand from the AI boom; competitor Anthropic is also advancing toward a public listing.
+
+---
+
+### 2026-06-09 05:21:30  #MKT News #META.O
+
+Meta Platforms (META.O) said its U.S. Workforce Academy is a no-cost program open to all participants and offers employment guarantees for all graduates.
+
+---
+
+### 2026-06-09 05:20:44  #國際
+
+Meta ：美國勞動力學院（AWA）為免費專案，學員學習期間可獲得相關支援，所有結業學員均能獲得就業保障。
+
+---
+
+### 2026-06-09 05:20:19  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) launched a U.S. Workforce Academy with $115 million in first-year funding; pilots are scheduled for 2026 in Louisiana, Ohio, Indiana and Texas.
+
+---
+
+### 2026-06-09 05:20:17  #國際
+
+OpenAI：“預估相關資訊會外洩”，因此官宣已向美國證券交易委員會秘密提交 S-1 招股書草案。
+
+---
+
+### 2026-06-09 05:19:16  #公司
+
+蘋果：將對用於私有云計算的谷歌硬體建立臺賬管理，本月晚些時候，蘋果將在一場峰會上公佈更多關於谷歌雲私有云計算的技術細節。
+
+---
+
+### 2026-06-09 05:18:45  #國際
+
+Meta 宣佈推出美國勞動力學院，首年投入 1.15 億美元啟動資金。
+
+---
+
+### 2026-06-09 05:17:37  #MKT News #Market Themes #AI Revolution
+
+OpenAI said an IPO may take time, noting some initiatives are easier to pursue as a private company.
+
+---
+
+### 2026-06-09 05:17:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #GOOGL.O #Impact mixed
+
+Apple (AAPL.O) said it will retain full control of its Private Cloud Compute software regardless of where infrastructure is hosted. Apple devices will only trust Private Cloud Compute software cryptographically signed by Apple. The Private Cloud Compute service running on Google Cloud will progressively deploy full protections during the summer preview.
+
+---
+
+### 2026-06-09 05:17:01  #其他
+
+OpenAI：上市程序或需時日，因為部分規劃事項在非上市階段推進更為順利。
+
+---
+
+### 2026-06-09 05:15:53  #公司
+
+蘋果：部署在谷歌雲的私有云計算服務，將在整個夏季預覽階段逐步完善全套安全防護機制。
+
+---
+
+### 2026-06-09 05:15:42  #公司 #其他 #焦點 #國際
+
+OpenAI：尚未確定 IPO 時間表。
+
+---
+
+### 2026-06-09 05:15:27  #市場
+
+富時A50期指連續夜盤收漲0.10%，報15206點。
+
+---
+
+### 2026-06-09 05:15:25  #公司
+
+蘋果：無論基礎設施部署於何處，蘋果始終全權掌控私有云計算軟體。蘋果裝置僅信任經本公司加密認證的私有云計算軟體。
+
+---
+
+### 2026-06-09 05:15:22  #Trading Economics #Economy #El Salvador #Inflation Rate #Importance 1
+
+El Salvador Inflation Rises to 20-Month High — Consumer prices in El Salvador rose 2.5% year-over-year in May 2026, the highest reading since October 2023, up from 2.2% in April. Inflation picked up for transport (6.4% vs 3.3%), recreation and culture (1.8% vs 1.1%), healthcare (2.8% vs 2.7%), housing and utilities (1.1% vs 1.1%), restaurants and hotels (4.4% vs 4.2%), and miscellaneous goods and services (1.8% vs 1.6%). Meanwhile, food and non-alcoholic beverages inflation eased slightly (2.9% vs 3.0%), as did prices for alcoholic beverages and tobacco (2.4% vs 2.5%). Communication costs fell at a faster pace (-0.9% vs -0.7%), while education inflation was unchanged at 0.5%. Clothing and footwear prices rebounded by 0.03% after falling 0.05% in April, and furniture and household goods prices increased 0.4% following a 0.02% decline in the previous month.
+
+---
+
+### 2026-06-09 05:15:20  #MKT News #Market Themes #AI Revolution
+
+OpenAI said it has not yet decided on the timing of an IPO.
+
+---
+
+### 2026-06-09 05:15:00  #MKT News #Important
+
+OpenAI confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission.
+
+---
+
+### 2026-06-09 05:14:32  #公司 #焦點 #國際
+
+OpenAI：向美國證券交易委員會秘密提交 S-1 招股說明書草案。
+
+---
+
+### 2026-06-09 05:12:52  #MKT News
+
+i24 News reported Eilat in southern Israel issued a red alert for a suspected drone threat; the IDF intercepted the threat.
+
+---
+
+### 2026-06-09 05:11:37  #其他
+
+OpenAI首席科學家：OpenAI致力追求的各項核心目標，均圍繞著這一使命：確保通用人工智慧造福全人類。人工智慧應當增強人類的主體性，而非削弱人類在塑造未來中的作用與意義。
+
+---
+
+### 2026-06-09 05:11:33  #MKT News #Market Themes #AI Revolution
+
+OpenAI chief scientist says OpenAI’s core objectives center on ensuring AGI benefits all humanity; AI should enhance human agency, not diminish humans’ role in shaping the future.
+
+---
+
+### 2026-06-09 05:10:09  #國際
+
+據以色列i24新聞臺： 以色列南部埃拉特地區因無人機來襲拉響紅色警報，以色列國防軍已攔截該來襲目標。
+
+---
+
+### 2026-06-09 05:08:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) rolled out new intelligent features and expanded productivity capabilities in Xcode.
+
+---
+
+### 2026-06-09 05:07:21  #其他
+
+蘋果：為 Xcode 新增智慧功能，並升級多項高效辦公特性。
+
+---
+
+### 2026-06-09 05:06:54  #市場
+
+週一（6月8日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7847元，較上週五紐約尾盤漲60點，日內整體交投於6.7924-6.7804元區間。
+
+---
+
+### 2026-06-09 05:05:14  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) U.S. shares rose nearly 8% in after-hours trading.
+
+---
+
+### 2026-06-09 05:04:28  #市場
+
+高通美股盤後上漲 7.7%。
+
+---
+
+### 2026-06-09 05:02:38  #國際
+
+美國中央司令部司令布拉德・庫珀海軍上將今日在華盛頓向眾議院撥款委員會國防小組委員會彙報了美軍在中東的作戰重點。他明日還將向參議院相關委員會進行彙報。此前，其已於上月向參眾兩院軍事委員會作公開簡報。
+
+---
+
+### 2026-06-09 05:01:51  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel Defense Forces said it activated an air-defense alert after enemy aircraft entered the airspace over Even Menachem and Shomera; the situation is under investigation.
+
+---
+
+### 2026-06-09 05:00:13  #國際
+
+以色列國防軍：因敵方飛行器侵入埃文・梅納赫姆與肖梅拉空域，已拉響防空警報，目前相關情況正在調查中。
+
+---
+
+### 2026-06-09 04:59:58  #國際
+
+據以色列i24新聞臺：以色列北部拉響紅色警報。
+
+---
+
+### 2026-06-09 04:59:56  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli i24 news reports a red alert has been sounded in northern Israel.
 
 ---
 
@@ -24946,191 +25216,5 @@ Israeli Prime Minister's Office said the prime minister is monitoring developmen
 ### 2026-06-07 16:32:59  #宏觀 #國際
 
 【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。
-
----
-
-### 2026-06-07 16:30:04  #MKT News
-
-Israeli media reported six people were wounded in shootings in the central Israel towns of Kochav Yair and Tzur Yitzhak.
-
----
-
-### 2026-06-07 16:28:58  #焦點 #國際
-
-市場訊息：高階外交訊息人士透露，巴基斯坦內政部長向伊朗傳達了美國同意放寬制裁的訊息。
-
----
-
-### 2026-06-07 16:28:49  #MKT News #Important #WTI #Impact bearish #Brent
-
-Saudi outlet Alhadath, citing senior diplomatic sources, reported Pakistan's interior minister conveyed that the U.S. had agreed to ease sanctions on Iran.
-
----
-
-### 2026-06-07 16:27:52  #MKT News
-
-IAEA says Ukraine reports radiation levels at the Chernobyl facility remain within prescribed limits. An IAEA team will visit Chernobyl shortly to assess the impact.
-
----
-
-### 2026-06-07 16:27:33  #國際
-
-市場訊息：巴基斯坦方面發出的特別信函已交給作為伊朗革命領袖代表的伊朗外長。
-
----
-
-### 2026-06-07 16:26:26  #其他
-
-國際原子能機構：駐切爾諾貝利場址的國際原子能機構工作組很快將前往相關設施檢查此次影響。
-
----
-
-### 2026-06-07 16:25:54  #國際
-
-國際原子能機構：烏克蘭方面稱，該設施輻射水平仍處於規定限值內。
-
----
-
-### 2026-06-07 16:25:42  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-IAEA: An attack inflicted major damage on the facility's fuel‑receiving building; nearby structures were also affected by the blast wave.
-
----
-
-### 2026-06-07 16:25:35  #其他
-
-國際原子能機構：襲擊導致該設施的燃料接收大樓遭受嚴重破壞，附近建築也受到爆炸衝擊波影響。
-
----
-
-### 2026-06-07 16:25:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-The IAEA said Ukraine notified it that a drone struck the central spent-fuel storage facility in the Chernobyl Exclusion Zone this morning.
-
----
-
-### 2026-06-07 16:25:19  #國際
-
-國際原子能機構（IAEA）：已接到烏克蘭方面通報，今日凌晨切爾諾貝利隔離區的中央乏燃料儲存設施遭到無人機襲擊。
-
----
-
-### 2026-06-07 16:24:27  #MKT News
-
-Israel Defense Forces (IDF) says terrorists at the shooting scene have been killed. Soldiers and medical personnel are conducting wide searches for other attackers and treating the wounded. Additional troops are en route to the site.
-
----
-
-### 2026-06-07 16:23:22  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-An Israeli newspaper reports the Israeli military assesses strikes on Nabatieh in Lebanon could constitute a "military earthquake" and affect the entire southern Lebanese front.
-
----
-
-### 2026-06-07 16:22:29  #其他
-
-【AI實驗室幫企業一年省下600萬】在國內化工行業首個聚焦丙烯腈檢測的AI黑燈實驗室裡，凌晨三點，機械手精準起落、有條不紊地忙碌著。和傳統實驗室相比，AI實驗室把原本需要幾個房間、十幾道人工工序才能完成的檢測，凝聚在這一個個只有幾平方米大的工作站裡。在AI大腦的指揮下，87臺精密儀器、56臺機器人協同作業，整套系統自己排程、自我管理，在三個半小時內就能完成一整套檢測流程。AI實驗室讓檢測效率大幅提升的同時，檢測精度也更高。此外，AI實驗室的改造帶來的收益也十分可觀，工作人員介紹：“我們測算下來，一年人員的工作量節省至少50%，可能是在600萬元左右，這只是一個直接的經濟效益成本，另外資料計算價值是沒法去估量的。” （央視財經）
-
----
-
-### 2026-06-07 16:20:15  #其他
-
-市場訊息：以軍已在黎巴嫩南部納巴蒂耶市郊展開小規模地面行動。
-
----
-
-### 2026-06-07 16:20:05  #其他
-
-市場訊息：以軍方評估，打擊納巴蒂耶或將引發“軍事震盪”，並波及黎巴嫩整個南部戰線。
-
----
-
-### 2026-06-07 16:18:43  #MKT News
-
-Israeli media report a shooting in central Israel left one dead and at least four wounded.
-
----
-
-### 2026-06-07 16:18:02  #國際
-
-據以色列媒體7日報道，以色列中部發生槍擊事件，造成1人死亡、至少4人受傷。（新華社）
-
----
-
-### 2026-06-07 16:17:06  #國際
-
-伊朗政府：巴基斯坦內政部長會見了伊朗外長，就共同關心的問題以及進一步加強兩國之間的合作進行了討論。
-
----
-
-### 2026-06-07 16:16:38  #MKT News
-
-Pakistan interior minister Mohsin Naqvi met Iran’s foreign minister Araghchi to discuss issues of mutual concern and steps to further deepen bilateral cooperation.
-
----
-
-### 2026-06-07 16:15:55  #公司
-
-【*ST香雪：聘任鄭重為財務負責人】*ST香雪6月7日公告，董事會同意聘任趙其彬為公司營銷總經理，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止；同意聘任鄭重為公司財務負責人，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止。結合公司戰略發展規劃及實際經營發展需要，董事會決定對公司原高階管理人員及職務進行調整，將譚光華職務調整為總裁助理，盧鋒將不再擔任公司代理財務總監職務，在公司擔任其他職務。
-
----
-
-### 2026-06-07 16:15:49  #公司
-
-【匯通集團：“匯通轉債”轉股價格調整為6.28元/股】6月7日，匯通集團公告，因實施2025年年度權益分派，對可轉債轉股價格進行調整。根據公告，調整前轉股價格為6.29元/股，調整後轉股價格為6.28元/股。“匯通轉債”本次轉股價格調整實施日期為2026年6月15日。“匯通轉債”自2026年6月5日至2026年6月12日（權益分派股權登記日）停止轉股，自2026年6月15日（本次權益分派除息日）起恢復轉股。
-
----
-
-### 2026-06-07 16:15:32  #公司 #市場 #國際
-
-【燃油成本飆升施壓航空業 英航稱票價或再上調】據英國金融時報報道，英國航空公司（British Airways）執行長肖恩·道爾警告稱，如果燃油價格持續居高不下，票價將不得不上漲。在里約熱內盧舉行的國際航空運輸協會（IATA）年度會議間隙，肖恩·道爾表示：“如果燃油上漲，票價就必須上漲，這是無法迴避的現實。”自今年2月伊朗戰爭爆發以來，航空燃油價格已經翻倍。儘管停火談判正在進行，但霍爾木茲海峽仍處於關閉狀態。該航道約佔歐洲航空燃油供應的40%。全球航空公司已經開始提高票價，以彌補成本上升。BA的競爭對手維珍大西洋航空（Virgin Atlantic）已對經濟艙加收50英鎊附加費，高階艙加收180英鎊，高階艙位加收360英鎊。英國航空上月曾警告稱將提高票價，尤其是商務艙，以抵消更高的燃油成本。但道爾表示，如果燃油成本持續頑固維持高位，票價還將進一步上漲。
-
----
-
-### 2026-06-07 16:15:02  #公司
-
-【文科股份：擬對控股子公司武漢學知實施存續分立】文科股份公告稱，公司擬對控股子公司武漢學知修遠教育科技有限公司實施存續分立，分立後武漢學知繼續存續，另派生新設武漢知芯資訊科技有限公司（暫定名）。截至2025年12月31日，武漢學知資產總額43036.16萬元，負債35757.61萬元，淨資產7278.55萬元；2025年營收5005.03萬元，淨虧損4873.56萬元。本次分立有助於最佳化資源配置，提升文科綠谷資產運營效率，尚需取得有權國有資產管理機構和市場監督管理部門批准。
-
----
-
-### 2026-06-07 16:14:31  #公司
-
-【文科股份：與佛山市金融投資控股等簽署戰略合作協議】文科股份公告，公司與佛山市金融投資控股有限公司、佛山市建設發展集團有限公司及佛山建發私募基金管理有限公司簽署了《戰略合作協議》。該協議為框架性約定，後續具體合作事項將以另行簽訂的合作協議為準。合作領域包括基金組建與投資、產業投資與培育、產業園區運營與發展等。本次合作不涉及具體金額，預計不會對公司本年度業績產生重大影響。
-
----
-
-### 2026-06-07 16:14:23  #公司 #焦點
-
-【新宙邦：與寧德時代簽訂電解液合作協議】新宙邦公告稱，近日與寧德時代簽訂《電解液合作協議》，有效期至2028年12月31日。寧德時代2026 - 2028年預計採購電解液量分別為5.0萬噸、10.0萬噸、15.0萬噸，波動範圍分別為±10%、±12%、±15%。若一方違約，需賠償2500萬元違約金。協議履行預計對公司2026 - 2028年度經營成果產生積極影響，但存在市場需求波動等不確定因素。
-
----
-
-### 2026-06-07 16:14:13  #公司
-
-【文科股份：與廣東清能簽署戰略合作協議】文科股份公告，近日，公司與廣東清能新能源技術有限公司簽署了《戰略合作協議》。雙方將在地方政府合作溝通、申請地方綠色能源、協同推進合作專案落地等方面建立互惠互利的戰略合作伙伴關係。本協議為框架性協議，無需提交公司董事會和股東會審議，不構成《上市公司重大資產重組管理辦法》中規定的重大資產重組。
-
----
-
-### 2026-06-07 16:13:07  #公司
-
-【興發集團：擬出資8000萬元與專業機構共同設立三峽興安先進材料種子基金】興發集團(600141)6月7日公告，為促進湖北三峽實驗室科技成果轉化和產業化，公司與宜昌悅和股權投資基金管理有限公司等簽署了《湖北省三峽興安先進材料種子股權投資基金合夥企業（有限合夥）》合夥協議，共同設立三峽興安先進材料種子基金，總認繳出資額為2億元，公司作為有限合夥人以自有資金認繳出資8000萬元，出資佔比40%。三峽興安先進材料種子基金將重點圍繞湖北三峽實驗室具有產業化前景的技術創新成果、重大裝備突破等專案展開投資，重點投資領域包括磷石膏汙染防治與綜合利用、微電子關鍵化學品、磷/矽基高階化學品及應用等。
-
----
-
-### 2026-06-07 16:12:01  #公司
-
-【東誠藥業：注射用甲磺酸萘莫司他上市申請獲受理】東誠藥業公告，全資子公司東誠北方收到國家藥品監督管理局核准簽發的關於注射用甲磺酸萘莫司他上市許可申請的《受理通知書》。注射用甲磺酸萘莫司他適用於彌散性血管內凝血（DIC）和有出血性病變或出血傾向患者進行血液體外迴圈時，防止灌流血液凝固。國內僅有1家首仿上市，國外已有同類產品上市。2025年前三個季度二級以上醫院銷售額為4.42億元。
-
----
-
-### 2026-06-07 16:11:01  #MKT News
-
-EKHBARIYA reports multiple shootings across Israel; one killed, several injured.
-
----
-
-### 2026-06-07 16:10:41  #MKT News #Commodities #Energy #IAG.L #Impact bearish #Brent #Impact bullish #WTI
-
-【Rising fuel costs squeeze airlines; British Airways warns fares may rise】British Airways CEO Sean Doyle said at the IATA annual meeting in Rio that sustained high jet-fuel prices would force ticket-price increases. Jet fuel has roughly doubled since February after the Iran war; the Strait of Hormuz remains closed despite ceasefire talks and handles about 40% of Europe’s jet-fuel supply. Global carriers have begun raising fares: Virgin Atlantic has added surcharges of £50 to economy, £180 to premium and £360 to top cabins. BA warned last month it would raise fares, notably in business class, to offset higher fuel costs.
 
 ---

@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-09 04:59:46_
-_本檔包含 3658 則快訊，約 694961 字_
+_更新時間：2026-06-09 05:38:57_
+_本檔包含 3655 則快訊，約 695690 字_
+
+---
+
+### 2026-06-07 16:30:04  #MKT News
+
+Israeli media reported six people were wounded in shootings in the central Israel towns of Kochav Yair and Tzur Yitzhak.
+
+---
+
+### 2026-06-07 16:28:58  #焦點 #國際
+
+市場訊息：高階外交訊息人士透露，巴基斯坦內政部長向伊朗傳達了美國同意放寬制裁的訊息。
+
+---
+
+### 2026-06-07 16:28:49  #MKT News #Important #WTI #Impact bearish #Brent
+
+Saudi outlet Alhadath, citing senior diplomatic sources, reported Pakistan's interior minister conveyed that the U.S. had agreed to ease sanctions on Iran.
+
+---
+
+### 2026-06-07 16:27:52  #MKT News
+
+IAEA says Ukraine reports radiation levels at the Chernobyl facility remain within prescribed limits. An IAEA team will visit Chernobyl shortly to assess the impact.
+
+---
+
+### 2026-06-07 16:27:33  #國際
+
+市場訊息：巴基斯坦方面發出的特別信函已交給作為伊朗革命領袖代表的伊朗外長。
+
+---
+
+### 2026-06-07 16:26:26  #其他
+
+國際原子能機構：駐切爾諾貝利場址的國際原子能機構工作組很快將前往相關設施檢查此次影響。
+
+---
+
+### 2026-06-07 16:25:54  #國際
+
+國際原子能機構：烏克蘭方面稱，該設施輻射水平仍處於規定限值內。
+
+---
+
+### 2026-06-07 16:25:42  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+IAEA: An attack inflicted major damage on the facility's fuel‑receiving building; nearby structures were also affected by the blast wave.
+
+---
+
+### 2026-06-07 16:25:35  #其他
+
+國際原子能機構：襲擊導致該設施的燃料接收大樓遭受嚴重破壞，附近建築也受到爆炸衝擊波影響。
+
+---
+
+### 2026-06-07 16:25:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+The IAEA said Ukraine notified it that a drone struck the central spent-fuel storage facility in the Chernobyl Exclusion Zone this morning.
+
+---
+
+### 2026-06-07 16:25:19  #國際
+
+國際原子能機構（IAEA）：已接到烏克蘭方面通報，今日凌晨切爾諾貝利隔離區的中央乏燃料儲存設施遭到無人機襲擊。
+
+---
+
+### 2026-06-07 16:24:27  #MKT News
+
+Israel Defense Forces (IDF) says terrorists at the shooting scene have been killed. Soldiers and medical personnel are conducting wide searches for other attackers and treating the wounded. Additional troops are en route to the site.
+
+---
+
+### 2026-06-07 16:23:22  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+An Israeli newspaper reports the Israeli military assesses strikes on Nabatieh in Lebanon could constitute a "military earthquake" and affect the entire southern Lebanese front.
+
+---
+
+### 2026-06-07 16:22:29  #其他
+
+【AI實驗室幫企業一年省下600萬】在國內化工行業首個聚焦丙烯腈檢測的AI黑燈實驗室裡，凌晨三點，機械手精準起落、有條不紊地忙碌著。和傳統實驗室相比，AI實驗室把原本需要幾個房間、十幾道人工工序才能完成的檢測，凝聚在這一個個只有幾平方米大的工作站裡。在AI大腦的指揮下，87臺精密儀器、56臺機器人協同作業，整套系統自己排程、自我管理，在三個半小時內就能完成一整套檢測流程。AI實驗室讓檢測效率大幅提升的同時，檢測精度也更高。此外，AI實驗室的改造帶來的收益也十分可觀，工作人員介紹：“我們測算下來，一年人員的工作量節省至少50%，可能是在600萬元左右，這只是一個直接的經濟效益成本，另外資料計算價值是沒法去估量的。” （央視財經）
+
+---
+
+### 2026-06-07 16:20:15  #其他
+
+市場訊息：以軍已在黎巴嫩南部納巴蒂耶市郊展開小規模地面行動。
+
+---
+
+### 2026-06-07 16:20:05  #其他
+
+市場訊息：以軍方評估，打擊納巴蒂耶或將引發“軍事震盪”，並波及黎巴嫩整個南部戰線。
+
+---
+
+### 2026-06-07 16:18:43  #MKT News
+
+Israeli media report a shooting in central Israel left one dead and at least four wounded.
+
+---
+
+### 2026-06-07 16:18:02  #國際
+
+據以色列媒體7日報道，以色列中部發生槍擊事件，造成1人死亡、至少4人受傷。（新華社）
+
+---
+
+### 2026-06-07 16:17:06  #國際
+
+伊朗政府：巴基斯坦內政部長會見了伊朗外長，就共同關心的問題以及進一步加強兩國之間的合作進行了討論。
+
+---
+
+### 2026-06-07 16:16:38  #MKT News
+
+Pakistan interior minister Mohsin Naqvi met Iran’s foreign minister Araghchi to discuss issues of mutual concern and steps to further deepen bilateral cooperation.
+
+---
+
+### 2026-06-07 16:15:55  #公司
+
+【*ST香雪：聘任鄭重為財務負責人】*ST香雪6月7日公告，董事會同意聘任趙其彬為公司營銷總經理，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止；同意聘任鄭重為公司財務負責人，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止。結合公司戰略發展規劃及實際經營發展需要，董事會決定對公司原高階管理人員及職務進行調整，將譚光華職務調整為總裁助理，盧鋒將不再擔任公司代理財務總監職務，在公司擔任其他職務。
+
+---
+
+### 2026-06-07 16:15:49  #公司
+
+【匯通集團：“匯通轉債”轉股價格調整為6.28元/股】6月7日，匯通集團公告，因實施2025年年度權益分派，對可轉債轉股價格進行調整。根據公告，調整前轉股價格為6.29元/股，調整後轉股價格為6.28元/股。“匯通轉債”本次轉股價格調整實施日期為2026年6月15日。“匯通轉債”自2026年6月5日至2026年6月12日（權益分派股權登記日）停止轉股，自2026年6月15日（本次權益分派除息日）起恢復轉股。
+
+---
+
+### 2026-06-07 16:15:32  #公司 #市場 #國際
+
+【燃油成本飆升施壓航空業 英航稱票價或再上調】據英國金融時報報道，英國航空公司（British Airways）執行長肖恩·道爾警告稱，如果燃油價格持續居高不下，票價將不得不上漲。在里約熱內盧舉行的國際航空運輸協會（IATA）年度會議間隙，肖恩·道爾表示：“如果燃油上漲，票價就必須上漲，這是無法迴避的現實。”自今年2月伊朗戰爭爆發以來，航空燃油價格已經翻倍。儘管停火談判正在進行，但霍爾木茲海峽仍處於關閉狀態。該航道約佔歐洲航空燃油供應的40%。全球航空公司已經開始提高票價，以彌補成本上升。BA的競爭對手維珍大西洋航空（Virgin Atlantic）已對經濟艙加收50英鎊附加費，高階艙加收180英鎊，高階艙位加收360英鎊。英國航空上月曾警告稱將提高票價，尤其是商務艙，以抵消更高的燃油成本。但道爾表示，如果燃油成本持續頑固維持高位，票價還將進一步上漲。
+
+---
+
+### 2026-06-07 16:15:02  #公司
+
+【文科股份：擬對控股子公司武漢學知實施存續分立】文科股份公告稱，公司擬對控股子公司武漢學知修遠教育科技有限公司實施存續分立，分立後武漢學知繼續存續，另派生新設武漢知芯資訊科技有限公司（暫定名）。截至2025年12月31日，武漢學知資產總額43036.16萬元，負債35757.61萬元，淨資產7278.55萬元；2025年營收5005.03萬元，淨虧損4873.56萬元。本次分立有助於最佳化資源配置，提升文科綠谷資產運營效率，尚需取得有權國有資產管理機構和市場監督管理部門批准。
+
+---
+
+### 2026-06-07 16:14:31  #公司
+
+【文科股份：與佛山市金融投資控股等簽署戰略合作協議】文科股份公告，公司與佛山市金融投資控股有限公司、佛山市建設發展集團有限公司及佛山建發私募基金管理有限公司簽署了《戰略合作協議》。該協議為框架性約定，後續具體合作事項將以另行簽訂的合作協議為準。合作領域包括基金組建與投資、產業投資與培育、產業園區運營與發展等。本次合作不涉及具體金額，預計不會對公司本年度業績產生重大影響。
+
+---
+
+### 2026-06-07 16:14:23  #公司 #焦點
+
+【新宙邦：與寧德時代簽訂電解液合作協議】新宙邦公告稱，近日與寧德時代簽訂《電解液合作協議》，有效期至2028年12月31日。寧德時代2026 - 2028年預計採購電解液量分別為5.0萬噸、10.0萬噸、15.0萬噸，波動範圍分別為±10%、±12%、±15%。若一方違約，需賠償2500萬元違約金。協議履行預計對公司2026 - 2028年度經營成果產生積極影響，但存在市場需求波動等不確定因素。
+
+---
+
+### 2026-06-07 16:14:13  #公司
+
+【文科股份：與廣東清能簽署戰略合作協議】文科股份公告，近日，公司與廣東清能新能源技術有限公司簽署了《戰略合作協議》。雙方將在地方政府合作溝通、申請地方綠色能源、協同推進合作專案落地等方面建立互惠互利的戰略合作伙伴關係。本協議為框架性協議，無需提交公司董事會和股東會審議，不構成《上市公司重大資產重組管理辦法》中規定的重大資產重組。
+
+---
+
+### 2026-06-07 16:13:07  #公司
+
+【興發集團：擬出資8000萬元與專業機構共同設立三峽興安先進材料種子基金】興發集團(600141)6月7日公告，為促進湖北三峽實驗室科技成果轉化和產業化，公司與宜昌悅和股權投資基金管理有限公司等簽署了《湖北省三峽興安先進材料種子股權投資基金合夥企業（有限合夥）》合夥協議，共同設立三峽興安先進材料種子基金，總認繳出資額為2億元，公司作為有限合夥人以自有資金認繳出資8000萬元，出資佔比40%。三峽興安先進材料種子基金將重點圍繞湖北三峽實驗室具有產業化前景的技術創新成果、重大裝備突破等專案展開投資，重點投資領域包括磷石膏汙染防治與綜合利用、微電子關鍵化學品、磷/矽基高階化學品及應用等。
+
+---
+
+### 2026-06-07 16:12:01  #公司
+
+【東誠藥業：注射用甲磺酸萘莫司他上市申請獲受理】東誠藥業公告，全資子公司東誠北方收到國家藥品監督管理局核准簽發的關於注射用甲磺酸萘莫司他上市許可申請的《受理通知書》。注射用甲磺酸萘莫司他適用於彌散性血管內凝血（DIC）和有出血性病變或出血傾向患者進行血液體外迴圈時，防止灌流血液凝固。國內僅有1家首仿上市，國外已有同類產品上市。2025年前三個季度二級以上醫院銷售額為4.42億元。
+
+---
+
+### 2026-06-07 16:11:01  #MKT News
+
+EKHBARIYA reports multiple shootings across Israel; one killed, several injured.
+
+---
+
+### 2026-06-07 16:10:41  #MKT News #Commodities #Energy #IAG.L #Impact bearish #Brent #Impact bullish #WTI
+
+【Rising fuel costs squeeze airlines; British Airways warns fares may rise】British Airways CEO Sean Doyle said at the IATA annual meeting in Rio that sustained high jet-fuel prices would force ticket-price increases. Jet fuel has roughly doubled since February after the Iran war; the Strait of Hormuz remains closed despite ceasefire talks and handles about 40% of Europe’s jet-fuel supply. Global carriers have begun raising fares: Virgin Atlantic has added surcharges of £50 to economy, £180 to premium and £360 to top cabins. BA warned last month it would raise fares, notably in business class, to offset higher fuel costs.
 
 ---
 
@@ -21905,209 +22091,5 @@ India Holds Rates, Revises Down FY26/27 GDP Forecasts — The Reserve Bank of In
 ### 2026-06-05 12:36:52  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
 
 Japan 10Y Yield Holds Gains on BOJ Hike Bets — Japan’s 10-year government bond yield hovered around 2.66% on Friday, maintaining its recent advance as investors continued to bet that the Bank of Japan will raise interest rates later this month. On Wednesday, Bank of Japan Governor Kazuo Ueda said the central bank should carefully assess the costs and benefits of higher rates if inflation risks begin to outweigh downside risks to economic growth. Policymakers are also contending with mounting inflationary pressures stemming from higher energy prices linked to the Middle East conflict. Markets are currently pricing in roughly an 80% probability of a rate hike at the BOJ’s June 16 policy meeting. Supporting the hawkish outlook, data released on Friday showed Japan’s real wages rose 1.9% in April, marking a fourth straight month of growth and reinforcing expectations for further policy tightening.
-
----
-
-### 2026-06-05 12:36:44  #國際
-
-印度儲備銀行行長：通脹進一步走高的風險有所加劇。
-
----
-
-### 2026-06-05 12:36:31  #國際
-
-印度儲備銀行行長：食品價格前景仍存在不確定性。
-
----
-
-### 2026-06-05 12:36:25  #國際
-
-印度儲備銀行行長：通脹與增長均面臨重大風險。
-
----
-
-### 2026-06-05 12:36:13  #國際
-
-印度儲備銀行行長：部分行業已出現放緩跡象。
-
----
-
-### 2026-06-05 12:35:49  #國際
-
-印度儲備銀行行長：能源價格高企、供應限制正對經濟活動產生負面溢位影響。
-
----
-
-### 2026-06-05 12:35:44  #國際
-
-印度儲備銀行行長：國內需求仍具韌性。
-
----
-
-### 2026-06-05 12:35:38  #國際
-
-印度儲備銀行行長：受季風降雨量低於正常水平的預測及厄爾尼諾風險影響，經濟前景仍不明朗。
-
----
-
-### 2026-06-05 12:35:30  #國際
-
-印度儲備銀行行長：第二輪效應導致通脹範圍擴大是非常有可能發生的情況。
-
----
-
-### 2026-06-05 12:35:09  #國際
-
-印度儲備銀行行長：供應衝擊的影響將從第四季度開始顯現。
-
----
-
-### 2026-06-05 12:34:58  #國際
-
-印度儲備銀行行長：基準預測顯示，到2027財年第三季度，通脹將穩步升至容忍區間上限。
-
----
-
-### 2026-06-05 12:34:53  #央行 #國際
-
-印度10年期基準政府債券收益率較印度央行貨幣政策決議公佈前的6.98%上升2個基點，至7.0014%。
-
----
-
-### 2026-06-05 12:34:39  #市場 #國際
-
-印度盧比在印度儲備銀行維持利率不變後兌美元走弱。
-
----
-
-### 2026-06-05 12:34:05  #國際
-
-印度儲備銀行行長：自上次貨幣政策會議召開以來，全球環境已出現惡化。
-
----
-
-### 2026-06-05 12:33:53  #國際
-
-印度儲備銀行行長：貨幣政策委員會維持“中性”政策立場。
-
----
-
-### 2026-06-05 12:33:39  #國際
-
-印度儲備銀行行長：貨幣政策委員會對回購利率決定的投票結果為全票透過。
-
----
-
-### 2026-06-05 12:33:32  #焦點 #國際
-
-印度儲備銀行行長：關鍵回購利率維持5.25%不變。
-
----
-
-### 2026-06-05 12:33:16  #央行 #國際
-
-印度儲備銀行行長： 發達經濟體央行或將轉向政策收緊。情緒風險、避險需求正在加劇外匯市場波動。情緒風險、避險需求正在加劇外匯市場波動。
-
----
-
-### 2026-06-05 12:32:33  #國際
-
-印度儲備銀行行長： 印度經濟本輪進入全球動盪期時的基本面狀況優於以往歷次週期。我們有信心以最小代價抵禦衝擊。直面並解決這些挑戰至關重要。貨幣政策已轉向更為謹慎的姿態。
-
----
-
-### 2026-06-05 12:31:14  #央行 #國際
-
-印度儲備銀行（印度央行）行長  ：過去幾個月，全球經濟一直受不確定性左右。
-
----
-
-### 2026-06-05 12:30:40  #央行 #國際
-
-印度央行行長開始發表貨幣政策講話。
-
----
-
-### 2026-06-05 12:29:50  #市場 #央行 #國際
-
-印度Nifty金融服務指數在印度央行政策決議公佈前上漲0.7%。
-
----
-
-### 2026-06-05 12:28:22  #市場 #央行 #國際
-
-【三菱日聯：日本或需大幅加息才能提振日元】三菱日聯資產管理表示，不能排除日本央行大幅加息或非常規臨時加息的可能性，並警示，市場預期的本月加息舉措或難以阻止日元與日債繼續走弱。日本頭部資管機構三菱日聯資產管理首席基金經理Masayuki Koguchi稱：“僅加息25個基點無法止住日元貶值。若通脹加速上行，日本央行單次會議或加息50至75個基點。”他補充：“受外部環境與基本面變化影響，央行臨時非常規加息也存在落地可能。”受伊朗地緣衝突推升通脹的擔憂影響，日元與日本國債持續承壓。隔夜指數互換定價顯示，市場押注本月日本央行加息25個基點的機率超90%，但Koguchi認為單次小幅加息難以改善市場悲觀情緒。
-
----
-
-### 2026-06-05 12:27:05  #其他
-
-【夸克推出2026高考志願填報產品】2026年全國高考臨近，6月5日，夸克推出新升級的高考頻道，為考生免費提供“高考搜尋”、“智慧選志願”、“志願表”、“志願報告”等功能。夸克高考志願工具也將接入千問APP。
-
----
-
-### 2026-06-05 12:25:31  #公司
-
-【喜力股東施壓 敦促集團外聘高管出任 CEO】英國《金融時報》訊息，喜力部分主要股東呼籲這家荷蘭啤酒集團選聘外部人士擔任執行長。位列前十五的兩大投資方表示，希望喜力摒棄長期內部提拔高管的慣例，透過外部聘任新任 CEO，助力公司扭轉經營局面。
-
----
-
-### 2026-06-05 12:24:19  #觀點
-
-【領益智造計劃下週啟動香港上市推介 籌資規模約10億美元】IFR援引知情人士報道稱，深圳上市的領益智造計劃下週啟動香港上市推介，籌資規模約10億美元。領益智造上月申請香港上市，國泰君安國際是獨家保薦人。
-
----
-
-### 2026-06-05 12:23:36  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Opens Slightly Higher — India’s BSE Sensex rose about 0.3% to 74,545 at the open on Friday, recovering from losses in the previous session as investors positioned ahead of the Reserve Bank of India's monetary policy decision later today. Market sentiment improved after GIFT Nifty futures signaled a stronger start, with traders expecting the RBI to maintain its benchmark policy rate while closely monitoring comments from Governor Sanjay Malhotra for clues on the outlook for inflation, growth, liquidity conditions and potential measures to support capital inflows. Broad-based gains were seen across most sectors, while technology, energy minerals, non-energy minerals, consumer non-durables, and miscellaneous stocks remained under pressure. Among individual stocks, Adani (+2.2%), ZEE (+5.8%), BSE (+1.9%), and Billionbrains (+2.1%) led the early gains, while HFCL (-4.8%), JSLL (-5.0%), and Wockhardt (-6.2%) were among the biggest laggards. Nonetheless, the benchmark remains 0.3% in the red for the week to date.
-
----
-
-### 2026-06-05 12:22:52  #其他
-
-【監管收緊！購藥新規落地，減肥神藥無處方禁止網售】司美格魯肽、替爾泊肽等GLP-1類藥物一度成為電商平臺的現象級品類，被眾多消費者視作“減肥神藥”。而在新修訂的《藥品管理法實施條例》於今年5月15日正式施行後，天貓、京東等平臺紛紛收緊GLP-1類藥物的線上銷售。 21世紀經濟報道記者調查天貓、京東等主流電商發現，目前不同平臺、不同產品的購藥流程存在差異，合規尺度有所參差。在天貓平臺，針對是否需要處方的問題，客服表示，“下單後將身高體重資訊發給門診藥師，看藥師能否幫您開具，微信溝通就行。”而在京東健康平臺，對於諾和盈、埃諾格魯肽（先維盈）等藥物，店鋪客服明確表示，目前該類藥品需憑處方線下取藥，線上渠道已基本收緊。（21財經）
-
----
-
-### 2026-06-05 12:20:49  #公司 #市場 #國際
-
-Kiwoom Securities的分析師Han Ji-young週五表示，由於博通的業績未能達到部分投資者的預期，促使交易員在美國科技股近期強勁上漲後獲利了結，韓國晶片股在經歷價格大幅上漲後正在稍作喘息，“最近的股市回撥並非由公司盈利等基本面因素驅動。相反，這似乎是市場快速上漲後的一次休整。”
-
----
-
-### 2026-06-05 12:19:38  #公司 #市場 #國際
-
-【博通業績展望令人失望，韓國科技股領跌亞洲市場】美國人工智慧(AI)晶片製造商博通釋出的業績展望不及投資者的高預期，引發了市場對AI支出熱潮可能伴隨利潤率壓力上升的擔憂。受此影響，韓國、日本等地的科技股均告下跌。週五，韓國晶片股追隨美國同業隔夜的跌勢大幅下跌，促使股市運營商短暫暫停交易以降低波動性。SK海力士是英偉達的主要高頻寬儲存(HBM)供應商，該公司股價在後市前段一度下跌9.6%。全球最大的儲存晶片製造商三星電子股價一度下跌7.5%。這兩家公司的市值合計約佔韓國綜合指數(Kospi)總市值的一半，其股價大跌導致該基準股指的成分股交易暫停了五分鐘。這項旨在限制市場過度波動的交易限制措施，是由Kospi 200期貨指數下跌超過5%觸發的。韓國綜合指數在前市大部分時間下跌約5%。週五，半導體相關股票領跌日本日經指數。該基準指數下跌1.6%。晶片製造商瑞薩電子最新下跌6.3%，半導體生產裝置製造商東京電子下跌7.1%，晶片測試裝置製造商愛德萬測試下跌4.9%。
-
----
-
-### 2026-06-05 12:19:08  #國際
-
-【海外618，速賣通歐洲本地訂單佔比過半】6月5日訊息，阿里旗下跨境電商平臺速賣通AliExpress的海外618大促首日資料顯示，在西班牙、法國、波蘭等核心市場，速賣通從歐洲本地倉發貨的訂單佔比首次突破50%，超越跨境直髮訂單。隨著歐盟收緊低值包裹稅收政策，依賴跨境直髮的小包模式面臨清關成本上升與合規壓力，履約環節前置到歐洲本地成為新選擇。包括速賣通、SHEIN、Temu在內的平臺都在加速歐洲本地倉儲佈局。
-
----
-
-### 2026-06-05 12:18:45  #其他
-
-【五大流域開展增殖放流 生態魚道助力珍稀魚類洄游】今天（5日）是世界環境日，我國多地正圍繞“全面綠色轉型，共建美麗中國”主題開展系列活動，其中，金沙江、雅礱江、瀾滄江等五大流域集中開展魚類增殖放流活動。記者瞭解到，不僅在金沙江上游，全國多地同步啟動水生生物增殖放流行動。雅礱江、瀾滄江、雅魯藏布江中游、贛江等流域因地制宜投放各類本土魚苗，以人工增殖方式守護水生生物多樣性，保護流域生態平衡。（央視）
-
----
-
-### 2026-06-05 12:18:05  #其他
-
-【《2025中國生態環境狀況公報》釋出】今天（5日）是世界環境日，今年我國的主題是“全面綠色轉型，共建美麗中國”。生態環境部今天釋出《2025中國生態環境狀況公報》，公報顯示，2025年我國生態環境質量持續改善。2025年，全國339個地級及以上城市PM2.5平均濃度為29.3微克/立方米，今年繼續穩步下降為28微克/立方米；“十四五”時期重汙染天數減少四分之一。
-
----
-
-### 2026-06-05 12:15:11  #公司
-
-【上海醫藥等成立新公司 註冊資本8億元】企查查APP顯示，近日，上藥益藥醫藥（上海）有限公司成立，法定代表人為顧斌，註冊資本為8億元，經營範圍包含：第一類醫療裝置租賃；機械裝置租賃；倉儲裝置租賃服務；數字創意產品展覽展示服務等。企查查股權穿透顯示，該公司由上海醫藥全資子公司上藥控股有限公司、上海醫藥大健康雲商股份有限公司共同持股。
-
----
-
-### 2026-06-05 12:14:34  #公司 #國際
-
-【特朗普的律師在涉及100億美元的訴訟中拒絕向英國廣播公司披露財務資訊】英國金融時報週五援引其查閱的法庭檔案訊息稱，在美國總統唐納德・特朗普起訴英國廣播公司（BBC、索賠 100 億美元的誹謗訴訟）中，特朗普的律師團隊拒絕提交BBC律師索要的相關財務資料。
 
 ---

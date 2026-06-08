@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-09 04:59:46_
-_本檔包含 3772 則快訊，約 694321 字_
+_更新時間：2026-06-09 05:38:57_
+_本檔包含 3748 則快訊，約 695362 字_
+
+---
+
+### 2026-06-03 07:45:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Middle East media: U.S. bases in Kuwait and Bahrain attacked】Middle East media reported U.S. bases in Kuwait and Bahrain came under sustained missile and drone attacks in the early hours of the 3rd, with local air‑defense alerts sounding. Reports said Bahrain’s Juffair base and the U.S. Fifth Fleet headquarters were struck and Patriot air‑defense systems intercepted incoming missiles. Some Arab outlets said airports in Bahrain, Kuwait and the UAE suspended operations. Sources also reported air‑defense sirens at U.S. bases in Saudi Arabia.
+
+---
+
+### 2026-06-03 07:45:07  #國際
+
+【伊朗革命衛隊稱襲擊美國第五艦隊總部】記者當地時間6月3日獲悉，伊朗伊斯蘭革命衛隊稱，美國第五艦隊總部遭到伊朗革命衛隊空天部隊導彈和無人機襲擊。
+
+---
+
+### 2026-06-03 07:44:49  #其他
+
+【公募基金迴流港股網際網路 避開擁擠賽道聚焦確定性】在AI投資邏輯轉向業績確定性、風控提升的背景下，公募資金逐步迴流港股網際網路資產。多名基金人士分析，抱團股多空分歧擴大通常預示權益市場風險抬升，AI投資邏輯逐步脫離題材炒作、落地真實業績，資金正在規避擁擠賽道，並在AI賽道重視估值便宜、熱度較低的確定性資產。業內人士分析，本輪港股科網股反彈和美股AI應用板塊估值修復緊密掛鉤。自去年末，美股AI應用板塊率先開啟估值出清，賽富時、奧多比、Figma、Shopify等多隻QDII重倉標的深度下挫，部分個股單日跌幅超50%，美股AI板塊殺估值週期與恒生科技下行週期基本重合。除海外行情催化外，挖掘確定性以及科技新貴交易日趨擁擠，也是基金迴流網際網路核心資產的內在原因。
+
+---
+
+### 2026-06-03 07:43:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian media reported the Islamic Revolutionary Guard Corps (IRGC) said the attack was retaliation for a US air-launched missile striking an Iranian tanker near the Strait of Hormuz and causing engine-room damage.
+
+---
+
+### 2026-06-03 07:42:52  #市場 #國際
+
+【美伊和平談判顯露停滯跡象之際油價上漲】在有跡象表明美伊和平談判可能難以繼續穩步推進之際，油價上漲。澳新銀行研究部的分析師在一份研究報告中說：“有媒體報道稱，真主黨不會接受與以色列達成部分停火協議。“這些分析師指出：“伊朗官員已將此問題作為達成更廣泛和平協議的條件。“這些分析師表示，人們還擔心“伊朗的代理人武裝組織可能會轉而破壞紅海的石油供應“。這些分析師補充說，這將對石油市場造成“重大打擊“，因為沙烏地阿拉伯一直能夠透過這條路線每天供應約500萬桶石油。近月西得州中質油期貨上漲1.8%，報每桶95.46美元。
+
+---
+
+### 2026-06-03 07:42:50  #MKT News #Important #USDJPY #Impact bullish #DXY
+
+Refinitiv quotes showed USD/JPY trading above 160 for the first time since April 30.
+
+---
+
+### 2026-06-03 07:42:26  #市場
+
+美元兌日元升至160關口，為4月30日以來首次。
+
+---
+
+### 2026-06-03 07:41:45  #國際
+
+伊朗革命衛隊聲稱，他們使用導彈和無人機襲擊了美國海軍第五艦隊總部以及該地區的一個美國空軍基地，以報復美國對伊朗革命衛隊在吉斯姆島上的一座通訊塔的打擊。伊朗還表示，美國此前襲擊了霍爾木茲海峽附近的一艘伊朗油輪，而一艘伊朗革命衛隊海軍艦艇則以針對一艘名為Panaya的船隻作為回應。 伊朗革命衛隊警告稱，進一步干涉霍爾木茲海峽將帶來更嚴重的後果。
+
+---
+
+### 2026-06-03 07:40:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Iranian media reported the Islamic Revolutionary Guard Corps said it used missiles and drones to strike the U.S. Fifth Fleet headquarters.
+
+---
+
+### 2026-06-03 07:40:19  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
+
+Australia Manufacturing Stays Fragile Despite Improvement — Australia’s Ai Group Industry Index for manufacturing rose 5.1 points to -22.4 in May 2026, a three-month high that signaled modest improvement but left the sector deep in contraction. Firms continued to grapple with rising logistics costs, supply chain disruptions, elevated input prices, and uncertainty over future supplies, while weak demand and higher operating expenses weighed on sales and profitability. Upstream, chemical producers faced scaled-back re-orders, overseas competition, and mounting fuel, labor, and rent costs. Metals producers benefited from steady repeat business tied to rolling stock and refurbishment projects but reported a lack of new orders. Downstream, machinery and equipment makers cited subdued capital goods demand, supply constraints, and higher borrowing costs. Food and beverage producers found some support from product diversification, though growth was capped by rising fuel costs, raw material shortages, and softer economic conditions.
+
+---
+
+### 2026-06-03 07:39:50  #國際
+
+美國中央司令部：美軍還對格什姆島上的伊朗軍方地面控制站發動了打擊。
+
+---
+
+### 2026-06-03 07:39:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【US says 'self-defense' strike on Iran's Qeshm Island after Iran fires missiles and drones】On June 2, CENTCOM said US forces repelled multiple ballistic missiles and one-way attack drones launched by Iran and carried out a "self-defense" strike on an Iranian military ground control station on Qeshm Island. CENTCOM said Iran fired several ballistic missiles at neighboring states but none hit intended targets: two missiles aimed at Kuwait failed to reach target areas or disintegrated in flight, and three missiles aimed at Bahrain were intercepted by US and Bahraini air defenses. Earlier, CENTCOM forces shot down three Iran-launched one-way attack drones that were heading toward commercial vessels in regional waters. No US personnel were injured. CENTCOM said forces will remain on heightened alert and ready to deter further Iranian aggression during the current ceasefire.
 
 ---
 
@@ -22563,221 +22635,5 @@ ABC News: Trump said he expects to reach an agreement with Iran "within the next
 ### 2026-06-02 05:39:26  #國際
 
 特朗普稱他認為伊朗核協議可能在下週達成。
-
----
-
-### 2026-06-02 05:38:19  #國際
-
-美國一家聯邦上訴法院認定特朗普政府禁止跨性別個體在美國軍隊中服役的政策違憲。
-
----
-
-### 2026-06-02 05:37:39  #國際
-
-【五角大樓新聞辦公室現已劃為涉密區域，記者禁止入內】美國國防部於週一通報，這間長期以來供記者對接軍方官員、獲取資訊的辦公室被劃定為涉密場所，不再對媒體開放，騰出空間供處理涉密文稿的撰稿團隊使用。代理國防部新聞秘書喬爾·巴爾德斯在宣告中表示：“因此，記者將被禁止進入該辦公區，此項調整不存在任何爭議。”有觀點認為，該新規是國防部長赫格塞思治下的五角大樓再度收緊總部媒體准入許可權，巴爾德斯對此予以駁斥。他在社交平臺發文稱：“本屆國防部是史上透明度最高的一屆，假新聞媒體再多歪曲抹黑也無法篡改事實。”
-
----
-
-### 2026-06-02 05:35:17  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon (AMZN.O): OpenAI's GPT-5.5, GPT-5.4 and Codex are now available on Amazon Bedrock.
-
----
-
-### 2026-06-02 05:35:01  #其他
-
-DriveNets在最新一輪融資中籌得4.1億美元，AMD以投資者身份參投。
-
----
-
-### 2026-06-02 05:34:40  #公司 #焦點
-
-亞馬遜：GPT-5.5、GPT-5.4及Codex等OpenAI模型現已接入亞馬遜Bedrock平臺。
-
----
-
-### 2026-06-02 05:34:31  #國際
-
-俄羅斯常駐聯合國代表涅邊賈就俄方無人機落入羅馬尼亞一事表態：倘若該無人機真的砸中建築物屋頂，後果絕不會只是羅馬尼亞媒體報道的起火，屋頂會被徹底損毀。
-
----
-
-### 2026-06-02 05:33:32  #MKT News
-
-U.S. judge blocks Trump administration plan to close a climate research center.
-
----
-
-### 2026-06-02 05:33:08  #公司
-
-谷歌母公司Alphabet強制可轉債轉股溢價區間20%–25%。
-
----
-
-### 2026-06-02 05:32:59  #公司
-
-谷歌母公司Alphabet強制可轉債股息票面利率定在6.25%–6.75%。
-
----
-
-### 2026-06-02 05:32:00  #其他
-
-慧與首席財務官：透過針對性整合，我們將全球實驗室佈局精簡超三分之二，裁減了承包商規模，並將供應鏈客戶服務崗位壓縮了90%以上。
-
----
-
-### 2026-06-02 05:25:29  #其他
-
-慧與首席財務官：需求正從人工智慧伺服器廠商向外擴張，覆蓋更廣泛的人工智慧工作負載，比如編排、資料流轉與智慧體人工智慧。
-
----
-
-### 2026-06-02 05:25:18  #國際
-
-【哈馬斯稱其代表團與土耳其情報局局長討論加沙局勢】當地時間1日深夜，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）透過社交媒體賬號釋出通告稱，該組織領導層代表團近日在土耳其首都安卡拉與土耳其情報局局長卡倫舉行會談，重點討論加沙地帶局勢及相關外交斡旋進展。通告稱，會談涉及近期以軍升級其在加沙地帶的軍事行動，以及以色列違背停火協議的相關情況。哈馬斯方面表示，以色列違反協議的行為，影響了後續階段的談判。哈馬斯方面在通告中表示，將繼續遵守停火協議，並對土耳其、埃及和卡達在斡旋停火中的作用表示感謝，同時呼籲國際社會關注加沙局勢及相關人道問題。（央視新聞）
-
----
-
-### 2026-06-02 05:24:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-In talks with Lebanon's parliament speaker, Iranian parliament speaker Ghalibaf said if Israel continues its crimes in Lebanon, Iran will not only suspend negotiations but will move to confront Israel.
-
----
-
-### 2026-06-02 05:23:34  #國際
-
-Kpler：美國5月原油出口攀升至560萬桶/日，創下歷史新高。
-
----
-
-### 2026-06-02 05:21:46  #市場
-
-慧與首席財務官：第二財季營收環比增長15%，這反映出伺服器業務平均售價有所提升，漲幅由當前DRAM和NAND快閃記憶體的成本上漲推動。
-
----
-
-### 2026-06-02 05:21:26  #國際
-
-美國參議員沃倫與格拉斯利聯名提出國防承包商透明度法案。
-
----
-
-### 2026-06-02 05:20:58  #國際
-
-【莫斯科交易所測試用於人工智慧代理參與交易的基礎設施】據莫斯科交易所訊息，莫斯科交易所正在測試一套面向代理的基礎設施，未來，人工智慧代理員將在這套基礎設施上與俄羅斯金融市場互動。
-
----
-
-### 2026-06-02 05:19:49  #公司
-
-慧與公司執行長：公司預計需求強勁勢頭將持續至2027財年及以後。
-
----
-
-### 2026-06-02 05:19:22  #國際
-
-伊朗議會議長卡利巴夫：在與黎巴嫩議長納比赫·貝里先生的會談中，我強調，如果以色列繼續攻擊黎巴嫩，我們不僅將停止對話程序，而且將堅決對抗它們。
-
----
-
-### 2026-06-02 05:15:17  #市場
-
-富時A50期指連續夜盤收跌0.06%，報15533點。
-
----
-
-### 2026-06-02 05:15:12  #市場
-
-微軟股價跟隨Alphabet下跌，跌幅1.1%。
-
----
-
-### 2026-06-02 05:13:35  #公司
-
-慧與公司高管：公司已將截至2026財年人工智慧網路業務累計訂單目標上調至至少20億美元。
-
----
-
-### 2026-06-02 05:13:23  #其他
-
-委內瑞拉原油日產量升至120萬桶。
-
----
-
-### 2026-06-02 05:12:13  #市場
-
-美洲鋰業美股盤後快速大漲7.9%。
-
----
-
-### 2026-06-02 05:11:02  #國際
-
-美國醫保與醫療補助服務中心（CMS）釋出附帶意見徵詢期的暫行最終細則，規定部分成年醫療補助申請者及參保人每月須完成80小時的工作時長要求。
-
----
-
-### 2026-06-02 05:10:38  #公司
-
-慧與公司高管：經歸一化調整後，安全業務訂單增長了百分之十幾。
-
----
-
-### 2026-06-02 05:10:06  #公司 #市場
-
-超微電腦跟隨慧與公司股價走高，盤後漲7%。
-
----
-
-### 2026-06-02 05:08:37  #公司
-
-慧與公司執行長在電話會議上表示：Wi-Fi 7接入點銷量增長超七倍，這反映出市場明確向網路現代化轉型。
-
----
-
-### 2026-06-02 05:07:35  #觀點 #焦點
-
-【Alphabet計劃進行800億美元股權融資 伯克希爾將投資100億美元】Alphabet計劃同時進行300億美元承銷發行和400億美元按市價發行。伯克希爾將透過私募配售方式向Alphabet投資100億美元，其中包括以每股351.81美元認購50億美元A類普通股，以及以每股348.20美元認購50億美元C類股本Alphabet將把融資所得用於擴建AI算力基礎設施。高盛、J.P. Morgan Securities和摩根士丹利是承銷發行的聯席賬簿管理人。
-
----
-
-### 2026-06-02 05:06:53  #國際
-
-【美國國土安全部不會暫停紐瓦克機場的國際航班】美國國土安全部部長馬林周一表示，鑑於新澤西州某拘留中心附近的州和地方執法官員給予了配合，他無需暫停紐瓦克機場的國際航班通關手續。“只要我們繼續與地方和州執法部門保持這種合作關係，就無需採取這一措施，”馬林在達拉斯舉行的新聞釋出會上表示。
-
----
-
-### 2026-06-02 05:04:46  #國際
-
-黎巴嫩議長：我們決心在黎巴嫩各地，特別是南部地區，實現停火。如果伊朗和美國之間達成結束戰爭的協議，將包括停止所有戰線上的攻擊，特別是黎巴嫩。黎巴嫩絕不會忘記伊朗在這個敏感階段所持的積極立場。
-
----
-
-### 2026-06-02 05:02:56  #其他
-
-伯克希爾哈撒韋對Alphabet的投資包括：以每股351.81美元的價格買入50億美元的A類普通股，以及以每股348.20美元的價格買入50億美元的C類資本股。
-
----
-
-### 2026-06-02 05:02:14  #公司
-
-谷歌母公司Alphabet：計劃將約300億美元市價配售（ATM）募資資金用於清繳2026自然年度應繳稅款。
-
----
-
-### 2026-06-02 05:01:27  #MKT News #GOOG.O #Impact bullish
-
-Alphabet (GOOG.O) says AI demand has exceeded its current supply capacity; it is facing strong enterprise and consumer demand for AI solutions.
-
----
-
-### 2026-06-02 05:00:51  #國際
-
-以色列國家安全部長本-格維爾：敦促總理內塔尼亞胡拒絕由美國斡旋達成的黎巴嫩停火協議，應持續打擊真主黨，恢復北部地區安全。
-
----
-
-### 2026-06-02 04:59:54  #公司
-
-谷歌母公司Alphabet融資方案敲定，其中300億美元為承銷公開發行，400億美元為市價增發（ATM）。
 
 ---

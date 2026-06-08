@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-09 04:59:46_
-_本檔包含 3874 則快訊，約 695341 字_
+_更新時間：2026-06-09 05:38:57_
+_本檔包含 3897 則快訊，約 695412 字_
+
+---
+
+### 2026-06-04 09:15:14  #公司 #市場
+
+臺積電執行長：我們將繼續監控零部件成本上漲帶來的影響，這種影響在消費類以及對價格敏感的終端市場尤為明顯。
+
+---
+
+### 2026-06-04 09:15:03  #公司
+
+臺積電執行長表示：目前在消費級、企業級及主權人工智慧各領域，人工智慧模型的應用滲透率正持續提升。這一趨勢推高了對先進半導體晶片的強勁需求。
+
+---
+
+### 2026-06-04 09:15:03  #市場
+
+恒指期貨日盤開盤跌0.82%，報25283.00點，低水350.21點。
+
+---
+
+### 2026-06-04 09:14:50  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+TSMC (TSM.N) CEO said the trend supports strong demand for advanced semiconductor chips.
+
+---
+
+### 2026-06-04 09:14:45  #MKT News #Market Themes #AI Revolution #TSM.N #Impact bullish
+
+TSMC (TSM.N) CEO said he sees continued growth in AI model adoption across consumer, enterprise and sovereign AI domains.
+
+---
+
+### 2026-06-04 09:14:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot silver climbed $1 intraday to $73.72/oz, up 1.38%.
+
+---
+
+### 2026-06-04 09:14:11  #其他
+
+【戴盟機器人完成億元A輪融資，匯川產投與中國電信聯合投資】近日，戴盟機器人完成億元A輪融資，匯川技術旗下產業基金匯川產投與中國電信聯合投資。本輪融資將用於進一步打造超大規模含物理互動資訊的資料集，推動物理世界模型研發並驅動真實物理場景下的資料飛輪與商業閉環。
+
+---
+
+### 2026-06-04 09:13:26  #國際
+
+市場訊息： 現代汽車和英偉達正在考慮在韓國設立人工智慧研發中心。
+
+---
+
+### 2026-06-04 09:12:59  #市場 #國際
+
+日本10年期國債收益率上升0.5個基點，至2.645%。
+
+---
+
+### 2026-06-04 09:12:46  #公司
+
+【九華新材啟動IPO輔導】證監會網站披露，安徽九華新材料股份有限公司（簡稱“九華新材”）於2026年6月3日在安徽證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為華泰聯合證券。輔導備案報告顯示，九華新材控股股東為銅陵有色金屬集團控股有限公司，直接持有84.3750%股份，並透過全資子公司銅冠投資(上海)有限公司間接持有13.0208%股份，合計持有九華新材97.3958%股份。
+
+---
+
+### 2026-06-04 09:12:10  #宏觀 #國際
+
+【美國國務卿魯比奧將於美東時間週四上午9:30會見科威特外交大臣】根據美國國務院的日程安排，美國國務卿馬爾科·魯比奧將於週四在國務院會見科威特外交大臣傑拉赫。作為美國的堅定盟友、並駐有數千名美軍的科威特，自4月8日美伊停火生效以來成為伊朗的重點打擊目標，過去兩個月中遭遇約六次襲擊。
+
+---
+
+### 2026-06-04 09:10:42  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+TSMC (TSM.N) CEO said market demand for semiconductors is structural.
+
+---
+
+### 2026-06-04 09:10:33  #公司
+
+臺積電執行長表示：我們認為半導體的市場需求具備基本面支撐。
+
+---
+
+### 2026-06-04 09:10:27  #市場
+
+新加坡海峽時報指數下跌1%，至5086.66。
+
+---
+
+### 2026-06-04 09:09:27  #市場
+
+現貨白銀日內漲1%，現報73.44美元/盎司。
+
+---
+
+### 2026-06-04 09:09:15  #MKT News #TSM.N #Impact bullish
+
+TSMC's CEO said the company is confident in its growth over the next several years.
+
+---
+
+### 2026-06-04 09:09:02  #公司
+
+臺積電執行長表示：我們對臺積電未來數年的增長抱有信心。
+
+---
+
+### 2026-06-04 09:08:56  #市場 #國際
+
+【韓國金融監管部門研討提振科斯達克市場方案】據《首爾經濟日報》援引金融業匿名訊息，韓國金融委員會將於6月4日聯合多家券商召開緊急會議，商討盤活科斯達克（Kosdaq）市場的相關舉措。監管部門將收集券商關於科斯達克盤面現狀、吸引增量資金入場的對策建議。近數月韓國主機板Kospi與科斯達克行情分化顯著：年內韓國綜合指數大漲109%，科斯達克同期漲幅僅11%。監管方同時在評估，原定推進的科斯達克雙層市場改制方案能否有效提振市場交投活躍度、提升投資者參與度。
+
+---
+
+### 2026-06-04 09:07:59  #公司 #市場
+
+軟銀集團股價下跌9%。
+
+---
+
+### 2026-06-04 09:07:58  #MKT News #Market Regions #Greater China
+
+【China begins sale of rail tickets for first day of Dragon Boat Festival holiday】China State Railway Group said rail service for the Dragon Boat Festival runs June 18-22. Under the 15-day advance-sale rule, tickets for June 18 are on sale nationwide today via the 12306 website and app; travelers should check station-specific ticket release times.
+
+---
+
+### 2026-06-04 09:07:52  #MKT News #9984.T #Impact bearish #Nikkei 225
+
+SoftBank Group shares plunged 9%.
+
+---
+
+### 2026-06-04 09:05:49  #公司
+
+據報道，OpenAI的阿爾特曼、Anthropic的阿莫代伊、谷歌深度思維AI實驗室的哈薩比斯呼籲國會要求對合成DNA與RNA的訂購設立安全防護機制。
+
+---
+
+### 2026-06-04 09:05:21  #MKT News
+
+According to the Wall Street Journal, US AI company executives sent a joint letter urging Congress to pass legislation requiring screening of purchasers of synthetic DNA and RNA.
+
+---
+
+### 2026-06-04 09:05:19  #公司
+
+上海曦智科技股份有限公司在香港暫停交易。
+
+---
+
+### 2026-06-04 09:05:17  #市場
+
+布倫特原油日內跌1%，現報96.79美元/桶。
+
+---
+
+### 2026-06-04 09:04:36  #MKT News #Market Themes #AI Revolution
+
+Per the Wall Street Journal, top AI CEOs including OpenAI founder Altman signed a letter calling for legislation to guard against bioweapons threats.
+
+---
+
+### 2026-06-04 09:04:20  #公司
+
+【Uber對自動駕駛創企Nuro的承諾投資總額據悉近5億美元】據報道，知情人士稱，Uber對自動駕駛初創公司Nuro的承諾投資總額已接近5億美元。Uber此前曾宣佈計劃向Nuro投資數億美元，其中包括參與後者的2.03億美元融資輪。
+
+---
+
+### 2026-06-04 09:04:05  #市場
+
+【酒價內參6月4日價格釋出：五糧液普五古井貢古20領跌 總價再度大幅回落】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月4日整體明顯走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9900元，較昨日大幅下跌25元，回吐昨日全部漲幅。市場在前一日底部反彈後迅速轉衰，終端交投情緒偏謹慎，今日除習酒君品微漲外其餘十大品種均下跌或平盤。今日白酒市場11大單品一漲九跌一平，輸家佔據絕對優勢。上漲方面，習酒君品小幅上漲1元/瓶，收穫四連陽，逐步走出月內最低谷。下跌方面，五糧液普五八代與古井貢古20跌幅居前，均下跌5元/瓶，其中前者三連陰後創下月內最低價紀錄，近一個月其價格下行勢頭明顯；青花汾20與青花郎均下跌4元/瓶，其中前者回吐前一日全部漲幅，回落至月內最低位，後者創下月內最低價格記錄；飛天茅臺、精品茅臺與水晶劍南春均下跌2元/瓶；五糧液1618與國窖1573均小幅下跌1元/瓶。洋河夢之藍M6+的價格環比保持不變。
+
+---
+
+### 2026-06-04 09:03:31  #公司
+
+市場訊息：頂尖人工智慧企業執行長呼籲立法防範生物武器。
+
+---
+
+### 2026-06-04 09:02:34  #國際
+
+【以軍稱打死傑哈德一火箭彈發射小組負責人】以色列國防軍3日發表宣告說，以軍2日在加沙地帶南部實施空襲，打死巴勒斯坦伊斯蘭聖戰組織（傑哈德）一名火箭彈發射小組負責人。宣告說，被打死的武裝人員名為艾哈邁德·阿布·穆蓋西卜，曾參與策劃針對以軍士兵和以色列平民的襲擊行動，並涉嫌參與向加沙地帶走私。宣告還說，以軍當晚在加沙地帶中部空襲數名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員，打死其中一人。以軍稱，這些人員正在策劃襲擊行動，對以軍構成“直接威脅”。以軍表示，以軍南方司令部部隊目前仍按照停火協議部署在相關地區，並將繼續採取行動，消除任何“即時威脅”。（新華社）
+
+---
+
+### 2026-06-04 09:02:07  #公司
+
+【振芯科技：目前暫不涉及算力晶片研發】振芯科技6月4日在互動平臺表示，公司目前暫不涉及算力晶片研發，公司的GPU算力板卡主要應用於特定行業，佔收入比例很低。
+
+---
+
+### 2026-06-04 09:01:55  #其他
+
+【航行警告！舟山青浜島水域軍事活動】據中國海事局網站訊息，舟山海事局釋出航行警告，6月4日11時至15時30分和6月5日14時至17時30分，東海部分水域進行軍事射擊訓練，禁止駛入。
+
+---
+
+### 2026-06-04 09:01:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D fell 0.54% in early trade on Thursday, June 4, to 970.71 yuan/gram; silver T+D dropped 1.56% to 17,739.0 yuan/kg.
+
+---
+
+### 2026-06-04 09:01:27  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) opened down 496.74 points, or 1.07%, at 45,962.42 on Thursday, June 4.
+
+---
+
+### 2026-06-04 09:01:07  #MKT News
+
+【Navigation warning: military activity in waters off Qingbang Island, Zhoushan】Zhoushan Maritime Safety Administration issued a navigation warning: parts of the East China Sea near Qingbang Island will be closed to navigation for military live-fire drills on June 4 11:00–15:30 and June 5 14:00–17:30 Beijing time; entry prohibited.
 
 ---
 
@@ -23258,77 +23468,5 @@ Japan's finance minister KATAYAMA said he discussed a range of global financial 
 ### 2026-06-03 07:45:32  #國際
 
 【中東媒體：美軍駐科威特和巴林基地遇襲】據中東地區媒體報道，科威特和巴林境內的美軍基地3日凌晨持續遭導彈和無人機襲擊，當地防空警報不斷響起。報道說，巴林境內的美軍朱費爾基地和美軍第五艦隊總部遭打擊，美軍“愛國者”防空系統攔截來襲導彈。另據伊朗媒體報道，對美軍基地的攻擊是在伊朗格什姆島傳出爆炸聲後立即發生的。法爾斯通訊社報道說，格什姆島居民當天凌晨至少聽到三聲爆炸聲從該島南部傳出。截至記者發稿時，有阿拉伯國家媒體報道，由於空襲，巴林、科威特和阿聯酋的機場已暫停運營。訊息人士稱，沙烏地阿拉伯境內的美軍基地也響起防空警報。（新華社）
-
----
-
-### 2026-06-03 07:45:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Middle East media: U.S. bases in Kuwait and Bahrain attacked】Middle East media reported U.S. bases in Kuwait and Bahrain came under sustained missile and drone attacks in the early hours of the 3rd, with local air‑defense alerts sounding. Reports said Bahrain’s Juffair base and the U.S. Fifth Fleet headquarters were struck and Patriot air‑defense systems intercepted incoming missiles. Some Arab outlets said airports in Bahrain, Kuwait and the UAE suspended operations. Sources also reported air‑defense sirens at U.S. bases in Saudi Arabia.
-
----
-
-### 2026-06-03 07:45:07  #國際
-
-【伊朗革命衛隊稱襲擊美國第五艦隊總部】記者當地時間6月3日獲悉，伊朗伊斯蘭革命衛隊稱，美國第五艦隊總部遭到伊朗革命衛隊空天部隊導彈和無人機襲擊。
-
----
-
-### 2026-06-03 07:44:49  #其他
-
-【公募基金迴流港股網際網路 避開擁擠賽道聚焦確定性】在AI投資邏輯轉向業績確定性、風控提升的背景下，公募資金逐步迴流港股網際網路資產。多名基金人士分析，抱團股多空分歧擴大通常預示權益市場風險抬升，AI投資邏輯逐步脫離題材炒作、落地真實業績，資金正在規避擁擠賽道，並在AI賽道重視估值便宜、熱度較低的確定性資產。業內人士分析，本輪港股科網股反彈和美股AI應用板塊估值修復緊密掛鉤。自去年末，美股AI應用板塊率先開啟估值出清，賽富時、奧多比、Figma、Shopify等多隻QDII重倉標的深度下挫，部分個股單日跌幅超50%，美股AI板塊殺估值週期與恒生科技下行週期基本重合。除海外行情催化外，挖掘確定性以及科技新貴交易日趨擁擠，也是基金迴流網際網路核心資產的內在原因。
-
----
-
-### 2026-06-03 07:43:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian media reported the Islamic Revolutionary Guard Corps (IRGC) said the attack was retaliation for a US air-launched missile striking an Iranian tanker near the Strait of Hormuz and causing engine-room damage.
-
----
-
-### 2026-06-03 07:42:52  #市場 #國際
-
-【美伊和平談判顯露停滯跡象之際油價上漲】在有跡象表明美伊和平談判可能難以繼續穩步推進之際，油價上漲。澳新銀行研究部的分析師在一份研究報告中說：“有媒體報道稱，真主黨不會接受與以色列達成部分停火協議。“這些分析師指出：“伊朗官員已將此問題作為達成更廣泛和平協議的條件。“這些分析師表示，人們還擔心“伊朗的代理人武裝組織可能會轉而破壞紅海的石油供應“。這些分析師補充說，這將對石油市場造成“重大打擊“，因為沙烏地阿拉伯一直能夠透過這條路線每天供應約500萬桶石油。近月西得州中質油期貨上漲1.8%，報每桶95.46美元。
-
----
-
-### 2026-06-03 07:42:50  #MKT News #Important #USDJPY #Impact bullish #DXY
-
-Refinitiv quotes showed USD/JPY trading above 160 for the first time since April 30.
-
----
-
-### 2026-06-03 07:42:26  #市場
-
-美元兌日元升至160關口，為4月30日以來首次。
-
----
-
-### 2026-06-03 07:41:45  #國際
-
-伊朗革命衛隊聲稱，他們使用導彈和無人機襲擊了美國海軍第五艦隊總部以及該地區的一個美國空軍基地，以報復美國對伊朗革命衛隊在吉斯姆島上的一座通訊塔的打擊。伊朗還表示，美國此前襲擊了霍爾木茲海峽附近的一艘伊朗油輪，而一艘伊朗革命衛隊海軍艦艇則以針對一艘名為Panaya的船隻作為回應。 伊朗革命衛隊警告稱，進一步干涉霍爾木茲海峽將帶來更嚴重的後果。
-
----
-
-### 2026-06-03 07:40:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Iranian media reported the Islamic Revolutionary Guard Corps said it used missiles and drones to strike the U.S. Fifth Fleet headquarters.
-
----
-
-### 2026-06-03 07:40:19  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
-
-Australia Manufacturing Stays Fragile Despite Improvement — Australia’s Ai Group Industry Index for manufacturing rose 5.1 points to -22.4 in May 2026, a three-month high that signaled modest improvement but left the sector deep in contraction. Firms continued to grapple with rising logistics costs, supply chain disruptions, elevated input prices, and uncertainty over future supplies, while weak demand and higher operating expenses weighed on sales and profitability. Upstream, chemical producers faced scaled-back re-orders, overseas competition, and mounting fuel, labor, and rent costs. Metals producers benefited from steady repeat business tied to rolling stock and refurbishment projects but reported a lack of new orders. Downstream, machinery and equipment makers cited subdued capital goods demand, supply constraints, and higher borrowing costs. Food and beverage producers found some support from product diversification, though growth was capped by rising fuel costs, raw material shortages, and softer economic conditions.
-
----
-
-### 2026-06-03 07:39:50  #國際
-
-美國中央司令部：美軍還對格什姆島上的伊朗軍方地面控制站發動了打擊。
-
----
-
-### 2026-06-03 07:39:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【US says 'self-defense' strike on Iran's Qeshm Island after Iran fires missiles and drones】On June 2, CENTCOM said US forces repelled multiple ballistic missiles and one-way attack drones launched by Iran and carried out a "self-defense" strike on an Iranian military ground control station on Qeshm Island. CENTCOM said Iran fired several ballistic missiles at neighboring states but none hit intended targets: two missiles aimed at Kuwait failed to reach target areas or disintegrated in flight, and three missiles aimed at Bahrain were intercepted by US and Bahraini air defenses. Earlier, CENTCOM forces shot down three Iran-launched one-way attack drones that were heading toward commercial vessels in regional waters. No US personnel were injured. CENTCOM said forces will remain on heightened alert and ready to deter further Iranian aggression during the current ceasefire.
 
 ---
