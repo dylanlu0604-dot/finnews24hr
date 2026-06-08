@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-08 12:55:58",
-  "count": 19282,
+  "updated": "2026-06-08 12:59:40",
+  "count": 19283,
   "items": [
+    {
+      "id": "mkt:019ea598-b766-7ee0-94cb-04d17e81d072",
+      "time": "2026-06-08 12:58:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Local authorities said Russian strikes on Ukraine's Odesa region cut power to more than 1,000 households."
+    },
+    {
+      "id": "4923028",
+      "time": "2026-06-08 12:58:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本資本支出前景趨於黯淡】強勁的企業支出一直是日本經濟的主要支撐之一，但前景似乎趨於黯淡。週一公佈的修正後增長資料顯示，第一季度資本支出下降了0.7%，經濟學家預計，受中東衝突的影響，投資將進一步走弱。牛津經濟研究院的Norihiro Yamaguchi表示：“能源價格上漲和不確定性上升將限制消費和投資活動。“他補充說，成本上升可能會拖累企業盈利，進而對投資造成壓力。"
+    },
+    {
+      "id": "4923027",
+      "time": "2026-06-08 12:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "地方當局表示，俄羅斯襲擊烏克蘭敖德薩地區導致超1000名使用者斷電。"
+    },
+    {
+      "id": "mkt:019ea597-8b35-7ee0-94ca-fc4ec069a375",
+      "time": "2026-06-08 12:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ByteDance says Gu Quanquan not head of Seed AI drug discovery or LLM pretraining; departure unconfirmed】ByteDance's Seed unit said recent market reports that former Seed member Gu Quanquan had left to found a startup are unconfirmed. The company said Gu participated in biomolecular structure prediction and LLM pretraining work but was not Seed's head of AI drug discovery or pretraining, and it is unaware of his entrepreneurial plans."
+    },
+    {
+      "id": "4923026",
+      "time": "2026-06-08 12:56:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組Seed相關人士回應顧全全離職傳聞：並非AI製藥及預訓練負責人】近期，市場有傳聞稱，原位元組跳動 Seed 團隊成員顧全全已離職創業。部分訊息將其描述為 Seed 團隊 AI 製藥及大模型（LLM）預訓練業務的負責人。對此，記者採訪到位元組Seed相關人士。該人士稱：“顧全全在公司參與過生物分子結構預測和LLM預訓練的部分工作，但並不是位元組Seed的AI製藥和預訓練負責人，對其創業事宜不瞭解。”（介面新聞）"
+    },
     {
       "id": "4923025",
       "time": "2026-06-08 12:53:46",
@@ -177731,45 +177774,6 @@
         "Important"
       ],
       "text": "India | Manufacturing PMI (May) | actual 55 | consensus 54.3 | previous 54.3"
-    },
-    {
-      "id": "4909687",
-      "time": "2026-06-01 12:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：VinFast與Autobrains合作，將基於英偉達Hyperion平臺打造的L4級自動駕駛汽車推向東南亞。"
-    },
-    {
-      "id": "mkt:019e818c-c141-799c-966b-4349a806a504",
-      "time": "2026-06-01 12:59:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Foxconn expands strategic cooperation with NVIDIA (NVDA.O) to develop and deploy Level-4 autonomous taxi fleets in Taiwan."
-    },
-    {
-      "id": "4909686",
-      "time": "2026-06-01 12:58:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "全球領先的芬蘭道路負載處理裝置製造商HIAB同意以10.4億美元的企業價值從WYNNCHURCH手中收購北美固體廢物收集車輛（垃圾車）製造商LABRIE。"
-    },
-    {
-      "id": "4909685",
-      "time": "2026-06-01 12:56:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達：富士康正擴大與公司的戰略協作，在中國臺灣開發並部署符合四級自動駕駛標準的自動駕駛計程車車隊。"
     }
   ]
 }
