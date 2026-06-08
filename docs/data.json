@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-09 07:48:22",
-  "count": 19190,
+  "updated": "2026-06-09 07:52:17",
+  "count": 19195,
   "items": [
+    {
+      "id": "mkt:019ea9a6-3ade-733a-9237-57add46ef506",
+      "time": "2026-06-09 07:51:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Broadest Liquidity (YoY) (May) | actual 4.7% | previous 2.8%"
+    },
+    {
+      "id": "mkt:019ea9a6-3a81-733a-9237-496485e3b6b8",
+      "time": "2026-06-09 07:51:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May M2 money supply YoY 2.5% (prev. 2.3%)."
+    },
+    {
+      "id": "mkt:019ea9a6-39c2-733a-9237-446448d3092a",
+      "time": "2026-06-09 07:51:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (May) | actual 1.7% | previous 1.60%"
+    },
+    {
+      "id": "mkt:019ea9a6-135b-733a-9237-3ee93c752146",
+      "time": "2026-06-09 07:51:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M2 Money Supply (YoY) (May) | actual 2.5% | previous 2.30%"
+    },
+    {
+      "id": "4924796",
+      "time": "2026-06-09 07:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產GPU全棧支撐原生訓練，北大5D世界模型登頂斯坦福WorldScore榜單】6月8日，北京大學EvoPhys團隊推出的5D世界模型EvoPhys-World，在斯坦福大學WorldScore公開評測中位列“世界生成（World Generation）”賽道第一。該模型以人為中心，實現場景級萬物可控。其原生訓練全程基於摩爾執行緒MTT S5000 GPU及MUSA軟體棧完成。（介面新聞）"
+    },
+    {
+      "id": "4924795",
+      "time": "2026-06-09 07:51:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓旗下斯彭斯礦與謝拉戈爾達礦在智利簽署合作協議】必和必拓集團旗下斯彭斯（Spence）銅礦與謝拉戈爾達（Sierra Gorda）銅礦簽署諒解備忘錄，雙方擬探索合作機會，最佳化智利北部兩座相鄰銅礦的運營效率、降低生產成本。本週一在安託法加斯塔國際礦業展上釋出的公告顯示，兩家企業將評估採購及其他運營環節的合作空間，藉此實現規模效應。依託兩座礦山地理位置鄰近的優勢，雙方將開展多項聯合專案評估。"
+    },
+    {
+      "id": "4924794",
+      "time": "2026-06-09 07:50:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：“固收+”規模持續擴張，理財顯著增加高彈性產品配置】中信證券指出，2026年5月，權益市場走出結構性行情，轉債跟隨正股調整。受益於債市行情回暖，多數純債基金分類跑贏攤餘成本定開基金。年初至今視角看，幾乎所有型別的“固收+”基金均跑贏純債基金。純債基金精選組合超額平穩，絕對收益型“固收+”基金組合業績亮眼，而穩健型、平衡型“固收+”基金精選組合受結構性行情以及基金經理資產配置操作的影響跑輸基準。“固收+”規模持續擴張，從2026年一季報披露的視角看理財顯著增加高彈性產品配置。"
+    },
+    {
+      "id": "4924793",
+      "time": "2026-06-09 07:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月貨幣存量M3同比 1.7%，前值 1.6%。"
+    },
+    {
+      "id": "4924792",
+      "time": "2026-06-09 07:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月貨幣存量M2同比 2.5%，前值 2.3%。"
+    },
+    {
+      "id": "4924791",
+      "time": "2026-06-09 07:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄任命官員稱，克里米亞地區塞瓦斯托波爾遭無人機襲擊。"
+    },
     {
       "id": "mkt:019ea9a2-b173-733a-9237-3362452c4d91",
       "time": "2026-06-09 07:47:52",
@@ -176944,51 +177030,6 @@
         "Important"
       ],
       "text": "Japan | Base money growth rate (YoY) (May) | actual -12.2% | previous -11.30%"
-    },
-    {
-      "id": "4911466",
-      "time": "2026-06-02 07:52:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局局長艾薩克曼表示，藍色起源在火箭爆炸中受損的發射臺，修復完工可能要推遲到2028年。"
-    },
-    {
-      "id": "4911465",
-      "time": "2026-06-02 07:49:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受對AI需求的樂觀情緒提振 日經指數或將上漲】儘管伊朗衝突存在不確定性，但隨著對AI需求的樂觀情緒持續，日本股市或將上漲。新加坡交易所的日經指數期貨上漲0.1%，報67115點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週一上漲0.9%，創下66934.33點的歷史新高。"
-    },
-    {
-      "id": "4911464",
-      "time": "2026-06-02 07:49:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黎總統重申外交途徑是解決衝突的唯一出路】黎巴嫩總統奧恩當地時間6月1日發表宣告稱，儘管黎以談判程序面臨障礙和延誤，黎巴嫩仍將堅持透過談判解決問題。他強調，相較於戰爭，外交途徑才是解決衝突和實現穩定的唯一出路。奧恩表示，談判既不是投降，也不是讓步，而是以儘可能小的代價結束戰爭的一種解決方案。“過程中可能遭遇障礙和拖延，但它正在向前推進，無論需要多長時間，所有問題最終都要透過談判解決。”"
-    },
-    {
-      "id": "te:markets:555499",
-      "time": "2026-06-02 07:49:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Losses on Inflation Worries — Gold traded below $4,500 per ounce on Tuesday after declining in the previous session, pressured by stalled peace negotiations between the US and Iran that kept inflation risks and interest rate expectations at the forefront. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli attacks in Lebanon. Meanwhile, President Donald Trump said discussions are still ongoing and suggested that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached as early as next week. Markets are currently factoring in a Federal Reserve rate hike before year-end after US inflation accelerated, driven in large part by the Middle East conflict. Investors are now awaiting this week’s US monthly jobs report and comments from Fed officials for additional clues on the future path of monetary policy."
-    },
-    {
-      "id": "4911463",
-      "time": "2026-06-02 07:48:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【FedEx Freight執行長：自動駕駛卡車已準備好全面投用】自動駕駛牽引拖車行駛在美國的高速公路上？FedEx Freight執行長表示，這項技術已經準備就緒。這些卡車何時上路則取決於監管機構。“這些牽引車能夠駛出車場，從車場導航至州際公路，在州際公路上行駛，並前往下一個設施。在99.9%的時間裡，司機根本不需要進行任何操作，”FedEx Freight執行長約翰.史密斯(John Smith)說。“監管方面將是最大的障礙。”從聯邦快遞(FedEx)剝離後，FedEx Freight週一作為一家獨立公司開始掛牌交易。該公司專注於將多個較小貨物合併裝入一輛拖車的運輸業務，這被稱為“零擔貨運”(less-than-truckload, 簡稱LTL)行業。總部位於孟菲斯的FedEx Freight年度營收達87億美元，是北美最大的零擔貨運承運商。"
     }
   ]
 }
