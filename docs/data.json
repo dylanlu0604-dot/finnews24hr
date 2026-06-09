@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-09 11:58:06",
-  "count": 19199,
+  "updated": "2026-06-09 12:02:31",
+  "count": 19191,
   "items": [
+    {
+      "id": "mkt:019eaa89-f4e8-7eec-b848-305cb73d0eae",
+      "time": "2026-06-09 12:00:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBSG.SW",
+        "Impact mixed"
+      ],
+      "text": "People familiar with the matter said Swiss lawmakers are considering a new compromise on UBS Group's capital rules."
+    },
+    {
+      "id": "4925148",
+      "time": "2026-06-09 11:59:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯迪克：目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產】斯迪克在互動平臺表示，目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產。"
+    },
+    {
+      "id": "4925147",
+      "time": "2026-06-09 11:59:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南建設投資集團黨委書記、董事長蔡典維被查】據湖南省紀檢委6月9日通報，湖南建設投資集團有限責任公司黨委書記、董事長蔡典維涉嫌嚴重違紀違法，目前正接受湖南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4925146",
+      "time": "2026-06-09 11:58:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞半導體集團：馬來西亞2026年半導體出口額有望達到8000億林吉特。"
+    },
+    {
+      "id": "4925145",
+      "time": "2026-06-09 11:58:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：騰訊微信AI智慧體開發似乎進展順利】花旗分析師在一份研究報告中表示，騰訊微信AI智慧體的開發似乎進展順利。這款中國的全能應用週一邀請開發者將小程式整合到該應用的人工智慧生態系統中。花旗的分析師指出，初始測試階段包括美團、Tongcheng和攜程集團等關鍵合作伙伴，這將使使用者能夠直接透過嵌入該應用的AI智慧體獲取外賣等本地服務。他們表示，一旦完全整合，小程式將有資格被微信AI推薦和使用。他們指出：“我們認為，此次測試疊加來自Hy3模型的持續反饋，將為騰訊的下一次模型迭代提供寶貴資料。“"
+    },
     {
       "id": "4925144",
       "time": "2026-06-09 11:57:22",
@@ -176982,124 +177028,6 @@
         "國際"
       ],
       "text": "柬埔寨政府宣告：將發起《聯合國海洋法公約》下強制調解程式，以解決與泰國的重疊海洋主權主張爭端。"
-    },
-    {
-      "id": "4911833",
-      "time": "2026-06-02 12:02:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國正就擴大在歐洲的核武器部署進行談判。"
-    },
-    {
-      "id": "4911832",
-      "time": "2026-06-02 12:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫集團董事長朱共山：新能源行業也需要“邏輯摺疊” 探索類“韜定律”】在今日舉行的2026年SNEC展會開幕式上，展會執行主席、協鑫集團董事長朱共山在致辭中提到，在 “AI+能源”正規化下，電力即算力，AI即電網，協同即效率。在此背景下，新能源行業也需要“邏輯摺疊”，探索類“韜定律”——跳出傳統的低維度競爭，用全鏈條價值升級，繪製屬於可持續 AI時代的電-碳-算摩爾曲線。他認為，要將光伏從製造端成本比拼的泥潭，拉入系統端價值創造的新場景。"
-    },
-    {
-      "id": "4911831",
-      "time": "2026-06-02 12:01:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4500美元/盎司，日內漲0.35%。"
-    },
-    {
-      "id": "4911830",
-      "time": "2026-06-02 12:01:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4530美元/盎司，日內漲0.56%。"
-    },
-    {
-      "id": "4911829",
-      "time": "2026-06-02 12:01:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數漲1.46%，恒生科技指數漲3.48%】港股午間收盤，恒生指數漲1.46%，恒生科技指數漲3.48%。恒指港股通ETF銀華（159318）漲1.0%，港股通科技ETF鵬華（159751）漲1.94%。板塊方面，航空貨運與物流、互動媒體與服務板塊漲幅靠前；水務、酒店和度假村REIT板塊跌幅靠前。個股方面，偉仕佳傑漲13.61%，聯想控股漲9.93%，長飛光纖光纜漲9.71%，中國重汽漲9.5%，粵港灣智算漲7.81%；歌禮制藥-B跌12.63%，中集集團跌8.75%，拓璞數控跌8.29%，思格新能跌6.92%，三生製藥跌6.75%。"
-    },
-    {
-      "id": "mkt:019e867e-0bba-7663-9953-5a3e680882bf",
-      "time": "2026-06-02 12:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Space Energy Development Alliance launched】A Space Energy Development Alliance was launched at the opening ceremony of the 19th International Solar PV, Smart Energy & Energy Storage and Battery Conference and Exhibition (Shanghai) on June 2, 2026."
-    },
-    {
-      "id": "te:markets:555578",
-      "time": "2026-06-02 11:59:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Retreats from Multi-Week Highs — The Indian rupee edged lower to around 95.1 per dollar, retreating from multi-week highs as uncertainty surrounding US-Iran negotiations kept crude oil markets volatile. Brent crude remained near $100 per barrel after conflicting signals on diplomatic talks between Washington and Tehran. The rupee also faced headwinds from continued foreign portfolio outflows, with overseas investors selling about $2.5 billion of equities over the last two trading sessions, bringing total outflows since late February to nearly $25 billion. Market participants also digested mixed economic data, as India's fiscal deficit widened to INR 3.6 trillion in April, nearly double the level recorded a year earlier, while industrial production rose 4.9% year-on-year, signaling resilience in manufacturing despite pressure from elevated oil prices and a weaker rupee. Investors are now focused on this week's Reserve Bank of India policy meeting, with expectations split between a rate hold and a 25-basis-point hike."
-    },
-    {
-      "id": "mkt:019e867c-6da1-7663-9953-5070db1fa16c",
-      "time": "2026-06-02 11:59:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RuiKe Laser says subsidiary Ruixin fiber orders full; capacity utilization exceeds 97%】RuiKe Laser said wholly owned subsidiary Wuhan Ruixin Special Fiber focuses on R&D, production and sales of specialty fiber, holds the top domestic market share in laser-use specialty fiber, and some optical communications fiber technologies are at internationally leading levels. Benefiting from a surge in downstream demand for laser processing, optical communications and aerospace sensing, Ruixin’s orders are full and capacity utilization exceeds 97%."
-    },
-    {
-      "id": "4911828",
-      "time": "2026-06-02 11:59:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：英偉達的PC晶片公告表明AI交易正超越GPU】盛寶金融的Charu Chanana在一份研究報告中表示，英偉達最新的PC晶片表明，AI交易正在超越GPU領域。她說，AI的下一階段可能不再侷限於單一晶片，而是更多地涉及擴充套件AI所需的完整技術棧，從CPU、GPU、記憶體到網路和伺服器。這意味著受益者名單正在擴大。她指出，Arm是架構方面的受益者，而微軟是Windows AI的把關人。與英偉達共同開發最新PC晶片的聯發科技，獲得了涉足智慧手機和互聯裝置之外的高階計算機會的敞口。她補充說，博通和Marvell等公司在網路層面上致力於擴充套件資料中心，而戴爾和聯想集團等PC製造商將生產搭載英偉達晶片的PC。"
-    },
-    {
-      "id": "4911827",
-      "time": "2026-06-02 11:59:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【太空能源發展聯盟啟動】記者從6月2日舉行的第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會暨展覽會開幕式上獲悉，當日開幕式上舉行了太空能源發展聯盟啟動儀式。"
-    },
-    {
-      "id": "4911826",
-      "time": "2026-06-02 11:58:49",
-      "tags": [
-        "央行"
-      ],
-      "text": "【凱投宏觀：最低工資上調增強了澳大利亞央行加息的理由】凱投宏觀的Abhijit Surya表示，澳大利亞將最低工資上調4.75%，增強了該央行在9月所在季度再次加息的理由。在市場定價反映出8月份是最有可能的時間預期的背景下，該亞太區高階經濟學家堅持他的預測，即再加息25個基點。Surya承認，最低工資上調的直接影響將是溫和的，但他指出，澳大利亞央行的分析表明，此類決定會影響其他領域的薪酬設定。他補充說，整體工資增長超出澳大利亞央行預期的可能性看起來更大了。"
-    },
-    {
-      "id": "4911825",
-      "time": "2026-06-02 11:58:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銳科鐳射：子公司睿芯光纖目前訂單飽滿 產能利用率超97%】據銳科鐳射訊息，全資子公司武漢睿芯特種光纖有限責任公司（簡稱“睿芯光纖”）深耕特種光纖研發、生產與銷售，在鐳射器用特種光纖領域穩居國內市佔率第一，通訊光纖技術部分達到國際領先水平。目前受益於鐳射加工、光通訊、空天感測等下游需求爆發，訂單飽滿，產能利用率超過97%。"
-    },
-    {
-      "id": "te:markets:555577",
-      "time": "2026-06-02 11:58:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in India Hit 8-week Low — SENSEX decreased to 73945.00 Index Points, the lowest since April 2026. Over the past 4 weeks, SENSEX lost 3.89%, and in the last 12 months, it decreased 8.73%."
     }
   ]
 }
