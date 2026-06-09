@@ -1,7 +1,674 @@
 {
-  "updated": "2026-06-09 23:07:59",
-  "count": 18864,
+  "updated": "2026-06-09 23:41:37",
+  "count": 18830,
   "items": [
+    {
+      "id": "te:markets:557736",
+      "time": "2026-06-09 23:39:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 7-week Low — GSCI decreased to 681.25 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 8.3%, and in the last 12 months, it increased 25.6%."
+    },
+    {
+      "id": "mkt:019ead09-33c6-7448-ac07-4d8cd04e796e",
+      "time": "2026-06-09 23:38:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities on June 9: Germany's DAX fell 218.10 points (-0.89%) to 24,423.75; UK's FTSE 100 declined 141.59 points (-1.36%) to 10,231.61; France's CAC 40 rose 4.14 points (0.05%) to 8,203.43; Euro STOXX 50 dropped 10.84 points (-0.18%) to 6,051.45; Spain's IBEX 35 slipped 44.77 points (-0.25%) to 18,178.33; Italy's FTSE MIB gained 68.37 points (0.14%) to 50,276.50."
+    },
+    {
+      "id": "4926511",
+      "time": "2026-06-09 23:38:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌2.01%，現報25408.876點；道指跌0.62%，現報50469.352點；標普500指數跌1.15%，現報7320.590點。"
+    },
+    {
+      "id": "mkt:019ead08-8f6d-7448-ac07-47fe69602034",
+      "time": "2026-06-09 23:37:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA says the Artemis III mission will not take place before this time next year."
+    },
+    {
+      "id": "4926510",
+      "time": "2026-06-09 23:37:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：阿爾忒彌斯三號任務最早也要到明年此時才能實施。"
+    },
+    {
+      "id": "mkt:019ead06-dca3-7dd1-a397-dbc267cbeca7",
+      "time": "2026-06-09 23:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bulgaria's new government said it will not supply weapons to Ukraine."
+    },
+    {
+      "id": "mkt:019ead05-a425-7dd1-a397-d34b154d0c36",
+      "time": "2026-06-09 23:34:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold, after reaching an intraday high of $4,363.66/oz, has weakened and slipped below $4,270/oz, down 1.40% on the day."
+    },
+    {
+      "id": "4926509",
+      "time": "2026-06-09 23:34:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部在得州La Salle County新發現一例螺旋蠅（Screwworm）病例。"
+    },
+    {
+      "id": "4926508",
+      "time": "2026-06-09 23:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟反壟斷負責人：Meta為化解歐盟競爭監管顧慮所提出的方案缺乏說服力。"
+    },
+    {
+      "id": "mkt:019ead04-623f-7dd1-a397-c955bdbfe442",
+      "time": "2026-06-09 23:33:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 6-week Treasury bill auction to June 9: 26.63% of the allocation awarded at the stop-out yield, versus 63.21% previously."
+    },
+    {
+      "id": "mkt:019ead04-32b5-7dd1-a397-c62275878cd9",
+      "time": "2026-06-09 23:33:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury auction on June 9: bid-cover ratio 3.25, prior 3.28."
+    },
+    {
+      "id": "4926507",
+      "time": "2026-06-09 23:33:02",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.6%，投標倍數3.25。拍賣52週期國債，得標利率3.750%，投標倍數3.34。"
+    },
+    {
+      "id": "mkt:019ead03-dcba-7dd1-a397-b8fadf9a4136",
+      "time": "2026-06-09 23:32:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury auction to June 9 — stop-out yield 3.60% vs 3.63% prior."
+    },
+    {
+      "id": "mkt:019ead03-764f-7dd1-a397-b31c76301ee7",
+      "time": "2026-06-09 23:32:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 1-year Treasury auction to June 9: bid-cover ratio 3.34, prior 3.41."
+    },
+    {
+      "id": "mkt:019ead03-7334-7dd1-a397-ad60f85f5c96",
+      "time": "2026-06-09 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 1-year Treasury auction June 9: stop-out yield 3.75%, up 10 bps from 3.65% prior."
+    },
+    {
+      "id": "mkt:019ead03-72b8-7dd1-a397-a3fb89c036f3",
+      "time": "2026-06-09 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 1-year Treasury auction to June 9 — share of awards at the stop-out yield 70.95%, versus 4.56% previously."
+    },
+    {
+      "id": "mkt:019ead03-727a-7dd1-a397-9a3d9e21d704",
+      "time": "2026-06-09 23:32:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Supreme Leader said Tehran has never sought war and does not seek it, but will never relinquish its legitimate rights."
+    },
+    {
+      "id": "4926506",
+      "time": "2026-06-09 23:32:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖：我們從未尋求戰爭，也不尋求戰爭，但我們絕不會放棄我們的合法權利。"
+    },
+    {
+      "id": "mkt:019ead03-25ff-7dd1-a397-92c1d7e1cede",
+      "time": "2026-06-09 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Jun.9) | actual 3.34 | previous 3.41"
+    },
+    {
+      "id": "mkt:019ead03-259e-7dd1-a397-89d9c01de708",
+      "time": "2026-06-09 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Jun.9) | actual 70.95% | previous 4.56%"
+    },
+    {
+      "id": "mkt:019ead03-259b-7dd1-a397-82d0b70c21c1",
+      "time": "2026-06-09 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Jun.9) | actual 3.75% | previous 3.65%"
+    },
+    {
+      "id": "4926505",
+      "time": "2026-06-09 23:32:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4270美元/盎司，日內跌1.49%。"
+    },
+    {
+      "id": "4926504",
+      "time": "2026-06-09 23:31:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4290美元/盎司，日內跌1.68%。"
+    },
+    {
+      "id": "4926503",
+      "time": "2026-06-09 23:30:32",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2%。"
+    },
+    {
+      "id": "4926502",
+      "time": "2026-06-09 23:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4300美元/盎司，日內跌1.45%。"
+    },
+    {
+      "id": "4926501",
+      "time": "2026-06-09 23:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.08%，報24595.96點。法國股指初步收漲0.46%，義大利股指初步收漲1%、銀行指數漲2.02%，英國股指初步收跌0.87%。"
+    },
+    {
+      "id": "4926500",
+      "time": "2026-06-09 23:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.11%，報622.44點。歐元區STOXX 50指數初步收漲0.58%，報6096.96點。富時泛歐績優300指數初步收漲0.10%，報2486.66點。"
+    },
+    {
+      "id": "4926499",
+      "time": "2026-06-09 23:28:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌1.03%，現報7329.770點；道指跌0.52%，現報50520.641點；納指跌1.79%，現報25466.281點。"
+    },
+    {
+      "id": "4926498",
+      "time": "2026-06-09 23:28:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，億航跌20.67%，海天網路跌15.82%，大全新能源跌7.32%，阿特斯跌5.81%，高途跌5.63%。"
+    },
+    {
+      "id": "te:markets:557734",
+      "time": "2026-06-09 23:28:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The United States Stock Market Index (US500) Hit 4-week Low — US500 decreased to 7330.00 Index Points, the lowest since May 2026. Over the past 4 weeks, United States Stock Market Index (US500) lost 1.05%, and in the last 12 months, it increased 21.46%."
+    },
+    {
+      "id": "mkt:019ead00-17e6-7dd1-a397-7bd80493d686",
+      "time": "2026-06-09 23:28:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "QCOM.O"
+      ],
+      "text": "Nasdaq Composite intraday losses widened to over 1.5%; S&P 500 down 1%. Philadelphia Semiconductor Index fell 3.7%; Qualcomm (QCOM.O) -7.5%, Intel (INTC.O) -3.6%, Micron Technology (MU.O) -4%."
+    },
+    {
+      "id": "4926497",
+      "time": "2026-06-09 23:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟反壟斷負責人表示，針對Meta的臨時裁定將持續至調查結束，最晚至 2029 年 6 月。"
+    },
+    {
+      "id": "4926496",
+      "time": "2026-06-09 23:27:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4926495",
+      "time": "2026-06-09 23:26:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摩根資管：美股將挺過任何短暫且劇烈的回撥】摩根資產管理的Jack Caffrey表示，儘管一些訊號顯示美股可能漲幅過大，但企業盈利增長支撐了市場情緒，美股仍有進一步上漲空間。Caffrey週二指出，即便經濟擴張已持續多年，但企業盈利仍有望在2026年實現22%或更高的增長。他還提到，去年的盈利增長率在10%-20%區間的中段，預計2027年也將保持這一水平。“這確實是一個由盈利驅動的故事，”他說，“我仍然看好當前的股市。”"
+    },
+    {
+      "id": "4926494",
+      "time": "2026-06-09 23:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體報道：克爾曼沙阿機場總負責人宣佈，該國西部地區航班限制已解除，克爾曼沙阿空域重新開放。"
+    },
+    {
+      "id": "te:markets:557733",
+      "time": "2026-06-09 23:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Stocks Come Under Fresh Selling — US equity indices swung lower on Tuesday as the pivot out of the heavyweight tech sector was resumed following yesterday's respite. The S&P 500 and the Nasdaq 100 fell 1% and 2%, respectively, as the more defensive Dow dropped 0.5%. The fresh pressure on companies in the AI space reflected the lingering skepticism that part of the rally for chips and datacenter producers in recent quarters may have been overblown, despite sustained signals from hyperscalers that infrastructure is need to run models. The latest moves were from OpenAI, which filed for an IPO, and Anthropic, raising more cash through private credit. Nvidia, Oracle, and AMD lost between 3% and 1%. Meanwhile, Apple lost 3% as its new Siri AI assistant will not be launched in the EU due to antitrust laws from Brussels. Meanwhile, broader sectors were higher as lower energy prices added some respite for Treasuries. Asset managers led the pace with Blackstone and KKR adding 2%."
+    },
+    {
+      "id": "mkt:019eacfc-6e2e-7dd1-a397-710f0c111451",
+      "time": "2026-06-09 23:24:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "JPM.O",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan to deploy more capable AI agents later this year】JP Morgan plans to deploy more capable AI agents later this year, CNBC reports. Chief Analytics Officer Derek Waldron told CNBC the agents are evolving from single-task tools into digital workers that can manage multi-step workflows across different software and run autonomously for one to two hours rather than just two to three minutes. The bank says AI is already lifting results—private bank total sales are up about 20%—and could ultimately allow bankers to expand client coverage by as much as 50%."
+    },
+    {
+      "id": "4926493",
+      "time": "2026-06-09 23:24:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "5 月，外國投資者在伊斯坦布林證券交易所明星板及主機板股票市場淨賣出 8.504 億美元。"
+    },
+    {
+      "id": "mkt:019eacf9-b33b-7dd1-a397-681afcd16af0",
+      "time": "2026-06-09 23:21:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "The European Commission has ordered Meta Platforms (META.O) to comply within five working days."
+    },
+    {
+      "id": "mkt:019eacf9-8e68-7dd1-a397-667f7f9f41dd",
+      "time": "2026-06-09 23:21:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "EU: orders related to Meta Platforms (META.O) will remain in effect until the EU investigation concludes."
+    },
+    {
+      "id": "mkt:019eacf9-53fe-7dd1-a397-5c90977de2ad",
+      "time": "2026-06-09 23:21:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "EU says its order against Meta Platforms (META.O) is intended to protect competition among AI chatbots and to prevent irreversible market harm."
+    },
+    {
+      "id": "4926492",
+      "time": "2026-06-09 23:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：該裁決將持續生效，直至針對Meta的調查結束。該裁決旨在維護 AI 聊天機器人領域的市場競爭，避免市場遭受無法挽回的損害。 需在五個工作日內遵守該裁決。"
+    },
+    {
+      "id": "mkt:019eacf9-02a7-7dd1-a397-54947f892f1a",
+      "time": "2026-06-09 23:21:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) said it will appeal the EU order, calling the measure regulatory overreach."
+    },
+    {
+      "id": "4926491",
+      "time": "2026-06-09 23:20:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta： 將對歐盟的裁決提起上訴， 歐盟此項裁決屬於監管越界，背後有歐洲付費企業暗中推動。"
+    },
+    {
+      "id": "mkt:019eacf7-0781-7dd1-a397-4fd1ae2e151c",
+      "time": "2026-06-09 23:18:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Echo reports the European Union has ordered Meta Platforms (META.O) to allow rival AI chatbots free access to WhatsApp."
+    },
+    {
+      "id": "4926490",
+      "time": "2026-06-09 23:18:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟勒令Meta允許競品 AI 聊天機器人免費接入 WhatsApp。"
+    },
+    {
+      "id": "mkt:019eacf6-4924-7dd1-a397-45f8692376f1",
+      "time": "2026-06-09 23:18:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google will begin rolling out a private-preview update to select enterprise Google Workspace customers this month, with a broader release planned later this year."
+    },
+    {
+      "id": "4926489",
+      "time": "2026-06-09 23:16:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：本月起面向部分谷歌辦公套件企業客戶開放新版功能專屬預覽，今年晚些時候全面推送。"
+    },
+    {
+      "id": "te:markets:557726",
+      "time": "2026-06-09 23:16:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Plunges as Investors Await US Inflation — Silver prices tumbled to $66 per ounce on Tuesday, retracing to levels last seen in December 2025, as investors turned their attention to the upcoming US inflation report. The report, due Wednesday, is expected to show inflation climbing to 4.2% in May, its highest in nearly three years, fueled by soaring energy prices. The inflation outlook follows last week’s stronger-than-expected US jobs data, which revealed 172,000 jobs added in May, surpassing forecasts. This has led investors to ramp up bets on Federal Reserve rate hikes this year, with traders now pricing in a 70% chance of a December increase. Meanwhile, signs of a potential Middle East deal emerged after Iran and Israel halted attacks following a US appeal, pushing oil prices lower and temporarily easing inflation concerns, though uncertainty lingers."
+    },
+    {
+      "id": "mkt:019eacf4-0743-7dd1-a397-3bc9d8b1cd35",
+      "time": "2026-06-09 23:15:34",
+      "tags": [
+        "MKT News",
+        "AMAT.O"
+      ],
+      "text": "U.S. Trade Representative Greer will visit Applied Materials (AMAT.O) research and development facility in Sunnyvale, California on Friday."
+    },
+    {
+      "id": "4926488",
+      "time": "2026-06-09 23:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini 3.5 模型現已在全球安卓及 iOS 端的谷歌翻譯應用中逐步上線。"
+    },
+    {
+      "id": "4926487",
+      "time": "2026-06-09 23:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國貿易代表格里爾將於週五參觀位於加州森尼韋爾的應用材料(AMAT.O)研發設施。"
+    },
+    {
+      "id": "te:economy:557725",
+      "time": "2026-06-09 23:14:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Tanzania Inflation Rate Up for 2nd Month — The annual inflation rate in Tanzania edged up to 4.2% in May 2026 from 4% in the prior month, marking the highest level since April 2023. Upward pressure came primarily from prices of transportation (11.9% vs 9.2% in April) and food & non-alcoholic beverages (5.6% vs 5.7%); alongside miscellaneous goods & services (3.5% vs 3.5%) and education (2.7% vs 2.6%). Meanwhile, prices slowed down for some CPI items, including housing & utilities (0.7% vs 1.7%); health (1.4% vs 1.6%) and clothing & footwear (1.5% vs 1.6%). On a monthly basis, the CPI rose by 0.2%, following a 1.3% increase in the month before."
+    },
+    {
+      "id": "mkt:019eacf3-0d93-7dd1-a397-307c63a80350",
+      "time": "2026-06-09 23:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google launches Gemini 3.5 Real-Time Translation, its latest real-time speech-to-speech audio translation model."
+    },
+    {
+      "id": "4926486",
+      "time": "2026-06-09 23:13:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出 Gemini 3.5 實時翻譯功能，這是旗下最新的實時語音互譯音訊模型。"
+    },
+    {
+      "id": "te:markets:557724",
+      "time": "2026-06-09 23:13:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Drops Ahead of US Inflation Data — Gold prices dropped to $4,300 per ounce on Tuesday, returning to levels last seen in December 2025, as investors shifted focus to the upcoming US inflation report, due Wednesday, with expectations that the inflation rate climbed to 4.2% in May, its highest level in nearly three years, driven by a surge in energy prices. The anticipated inflation rise follows last week’s stronger-than-expected US jobs report, which showed the economy added 172,000 jobs in May, well above forecasts. This prompted investors to increase bets on Federal Reserve interest rate hikes this year, with traders now pricing in about a 70% chance of a rate hike in December. Elsewhere, developments in the Middle East suggested a possible deal, as Iran and Israel announced they had halted attacks on each other following an appeal from US President Donald Trump. This pushed oil prices lower, offering some relief to inflation fears, though uncertainty remains."
+    },
+    {
+      "id": "4926485",
+      "time": "2026-06-09 23:13:02",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX首次公開募股認購倍數遠超發行規模。"
+    },
+    {
+      "id": "mkt:019eacf1-a622-7dd1-a397-29771e70be32",
+      "time": "2026-06-09 23:12:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX's IPO was reportedly several times oversubscribed."
+    },
+    {
+      "id": "4926484",
+      "time": "2026-06-09 23:11:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國4月貿易逆差小幅回落 原油出口增加明顯】美國商務部9日釋出的資料顯示，美國4月商品與服務貿易逆差金額為559億美元，環比下降1.2%。資料顯示，美國4月商品和服務出口和進口金額分別為3271億美元和3830億美元，分別環比增加2.6%和2%。當月，美國商品貿易逆差減少24億美元至837億美元，而服務貿易順差則減少17億美元至278億美元。其中，美國4月資本貨物、工業原材料和消費品出口分別增加40億美元、25億美元和17億美元。原油及石油產品出口增加87億美元，而非貨幣黃金和其他貴金屬出口顯著減少77億美元。在電腦、半導體產品等進口帶動下，4月美國資本貨物進口增加70億美元。（新華社）"
+    },
+    {
+      "id": "mkt:019eacf0-6771-7dd1-a397-21400bdacc3c",
+      "time": "2026-06-09 23:11:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Semafor reports U.S. Trade Representative Greer will visit Tesla (TSLA.O) headquarters in California on Thursday. Greer will tour a California factory to press for onshoring of production."
+    },
+    {
+      "id": "4926483",
+      "time": "2026-06-09 23:10:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國貿易代表格里爾將於週四前往加州參觀特斯拉公司。"
+    },
+    {
+      "id": "4926482",
+      "time": "2026-06-09 23:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Prosus於6月5日當週按均價40.7439歐元回購股票263.1597萬股，合計超過1.072億歐元（摺合超1.245億美元）。Naspers同期按均價889.6830南非蘭特回購90.5808萬股，合計將近8.059億蘭特（摺合將近0.495億美元）。"
+    },
+    {
+      "id": "4926481",
+      "time": "2026-06-09 23:09:01",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國5月二手房折年率銷量升至今年最高 超出經濟學家預期】美國5月二手房銷量創年內最快增速，為春季銷售開局疲軟的房地產市場帶來一些樂觀情緒。全美房地產經紀人協會(NAR)週二釋出的資料顯示，5月二手房銷量增長3.2%，摺合年率為417萬套，超過了彭博調查的所有經濟學家的預期。“更多美國人開始行動，二手房銷量升至去年12月以來的最高水平。”NAR首席經濟學家Lawrence Yun在一份宣告中表示，“這對住房市場和整體經濟來說都是好訊息。”這些資料表明二手房市場出現回暖跡象，此前該市場年銷量持續三年徘徊在400萬套左右。今年以來，二手房簽約量有所增加，而這一趨勢如今正體現在成交量上。Realtor.com上週表示，賣家正在價格上做出一定讓步，“向買家靠攏”。"
+    },
+    {
+      "id": "4926480",
+      "time": "2026-06-09 23:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯發言人：已就停火協議中多項問題達成“可接受方案”】當地時間9日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告稱，巴勒斯坦各派別與斡旋方在開羅舉行的本輪對話中，已就停火協議中的多項棘手問題達成了“可接受的方案”。卡西姆稱，能否順利過渡到停火協議的第二階段，取決於斡旋方、擔保國以及“和平委員會”能否有效約束以色列，促使其停止違約行為並接受目前的方案與共識。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eacec-9e92-7dd1-a397-1f9c4b55816a",
+      "time": "2026-06-09 23:07:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hamas spokesman says \"acceptable solutions\" reached on multiple ceasefire issues】On the 9th (local time) Hamas spokesman Hazem Qassem said Palestinian factions and mediators in Cairo have reached \"acceptable solutions\" on several contentious items in a ceasefire agreement. He said movement to a second phase depends on whether mediators, guarantors and the \"peace committee\" can effectively restrain Israel, halt its breaches and secure Israel's acceptance of the current plan and consensus."
+    },
     {
       "id": "4926479",
       "time": "2026-06-09 23:06:36",
@@ -172985,929 +173652,6 @@
         "國際"
       ],
       "text": "白宮：特朗普的行政命令要求美國機構為先進人工智慧模型制定網路安全標準。"
-    },
-    {
-      "id": "mkt:019e88ff-564c-7007-9c8f-34020bea4e65",
-      "time": "2026-06-02 23:41:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House: executive order on artificial intelligence emphasizes strengthening cyber defenses across federal agencies."
-    },
-    {
-      "id": "4913376",
-      "time": "2026-06-02 23:41:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：這份關於人工智慧的行政令重點強調在整個政府範圍內強化網路防禦建設。"
-    },
-    {
-      "id": "4913375",
-      "time": "2026-06-02 23:41:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "Bumble即將上線付費多人約會新功能。"
-    },
-    {
-      "id": "4913374",
-      "time": "2026-06-02 23:40:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【維多集團警告稱歐美國家仍未意識到石油供應短缺的嚴重性】維多集團中東地區高管表示，許多西方政府仍然沒有意識到霍爾木茲海峽封鎖正在全球引發的石油供應短缺。“我認為在歐洲和美國，人們都還不夠警覺，依然像往常一樣生活，”維多董事會成員Tom Baker在倫敦舉行的標普全球中東石油天然氣會議上表示。隨著原油價格升至接近每桶100美元，汽油、柴油和航空燃油等石油產品的價格和波動性也出現了更大幅度的飆升。這導致許多發展中國家，特別是亞洲和非洲部分地區國家的需求下降。維多預計全球需求減少約400萬桶/日，各國推遲購買原油，寄希望於伊朗戰爭的潛在解決將推動油價下跌。"
-    },
-    {
-      "id": "4913373",
-      "time": "2026-06-02 23:40:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮行政令：美國將在60天內甄選可信的人工智慧合作方。"
-    },
-    {
-      "id": "mkt:019e88fd-f031-7007-9c8f-298841709e2b",
-      "time": "2026-06-02 23:40:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The White House said the U.S. will select trusted AI partners within 60 days."
-    },
-    {
-      "id": "4913372",
-      "time": "2026-06-02 23:39:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制與預防中心：美容醫療旅遊20例接診病例報告術後感染；四名患者死亡，均與旅行相關醫美手術有關。"
-    },
-    {
-      "id": "4913371",
-      "time": "2026-06-02 23:39:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳門首屆國際網路視聽節開幕 探討文化出海新路徑】澳門首屆國際網路視聽節2日開幕。來自內地、港澳特區以及葡語國家、東南亞國家的政府代表、產業機構和內容創作者，圍繞產業趨勢、內容創新、文化出海、國際合作等議題開展交流，探索網路視聽行業發展新路徑。（央視新聞）"
-    },
-    {
-      "id": "4913370",
-      "time": "2026-06-02 23:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮行政令：美國將建立人工智慧涉密基準評測機制。"
-    },
-    {
-      "id": "4913369",
-      "time": "2026-06-02 23:38:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮行政令規定：美國可在前沿人工智慧模型正式釋出前先行調取核驗。"
-    },
-    {
-      "id": "mkt:019e88fc-ba5a-7337-9546-90a486169d31",
-      "time": "2026-06-02 23:38:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House: U.S. will have access to AI \"frontier models\" before their release."
-    },
-    {
-      "id": "4913368",
-      "time": "2026-06-02 23:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟就發債專案後續資金需求向機構發出方案徵詢函】惠譽AAA、穆迪Aaa、Scope AAA、標普AA+評級的歐盟，依據歐盟委員會第2023/1602號決議遴選機構，並已向入選機構傳送需求建議書（RfP），擬在近期落地發債專案的後續融資安排。"
-    },
-    {
-      "id": "mkt:019e88fb-4d9d-7337-9546-8ebea07e94a7",
-      "time": "2026-06-02 23:37:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities closed higher on Tuesday, June 2: Germany DAX +0.57% at 25,137.04; UK FTSE 100 +0.37% at 10,376.72; France CAC 40 +0.77% at 8,209.09; Euro STOXX 50 +1.21% at 6,107.75; Spain IBEX 35 +0.71% at 18,273.54; Italy FTSE MIB +1.62% at 50,580.50."
-    },
-    {
-      "id": "4913367",
-      "time": "2026-06-02 23:36:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮宣佈，特朗普已簽署行政令，旨在推動人工智慧創新並築牢相關安全保障。"
-    },
-    {
-      "id": "mkt:abf36c41-96a1-469a-81c2-ad96db9ec03f",
-      "time": "2026-06-02 23:36:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House: President Trump signed an executive order to promote advanced AI innovation and safety."
-    },
-    {
-      "id": "4913366",
-      "time": "2026-06-02 23:36:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊跌破1900美元，日內跌5.32%。"
-    },
-    {
-      "id": "4913365",
-      "time": "2026-06-02 23:36:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟觀察團表示，經核查確認哥倫比亞大選預選計票結果。"
-    },
-    {
-      "id": "4913364",
-      "time": "2026-06-02 23:35:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮釋出人工智慧行政命令。"
-    },
-    {
-      "id": "4913363",
-      "time": "2026-06-02 23:35:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日英意六代機專案設觀察員以便推銷】據日本共同社6月2日報道，日本、英國和義大利正在討論為其六代機聯合專案“全球作戰空中計劃”建立觀察員機制。三國防長計劃於7月舉行會晤，屆時或將敲定加拿大為首批觀察員。而所謂的觀察員機制，其實就是向戰機的潛在買家共享專案的研發進展和資料，以便向觀察員國家“推銷”戰機。 據此前報道，日英意三國聯合推進的這一專案，目標是在2035年之前推出“擁有高效能感測器、隱形性和網路化作戰的第六代戰機”。去年5月，該計劃公開了戰鬥機的模型，但並未公佈詳細資訊。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4913362",
-      "time": "2026-06-02 23:35:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦安全部隊在俾路支省打死17名恐怖分子】當地時間6月2日，巴基斯坦三軍新聞局稱，自5月24日巴基斯坦西南部俾路支省一列客運列車遭爆炸襲擊後，巴基斯坦安全部隊在俾路支省展開了系列基於情報的行動。在開展這些行動的過程中，巴方部隊打擊了多處恐怖分子據點。經過交火後，共有17名恐怖分子被打死，從其身上繳獲了武器、彈藥以及大量爆炸物和準備就緒的簡易爆炸裝置。（央視新聞）"
-    },
-    {
-      "id": "4913361",
-      "time": "2026-06-02 23:34:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員斯萊彭：歐洲央行將採取必要舉措，市場靜待政策落地。"
-    },
-    {
-      "id": "mkt:019e88f9-1ad5-7007-9c8f-218bf4df7cef",
-      "time": "2026-06-02 23:34:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Sleijpen said the ECB will take necessary measures; markets expect action."
-    },
-    {
-      "id": "mkt:019e88f8-ffcd-7007-9c8f-1ce810d30233",
-      "time": "2026-06-02 23:34:35",
-      "tags": [
-        "MKT News",
-        "HMC.N",
-        "Impact bullish"
-      ],
-      "text": "Honda Motor (HMC.N) U.S. May total sales 148,903 units, up 9.9% YoY."
-    },
-    {
-      "id": "4913360",
-      "time": "2026-06-02 23:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國本田5月總銷量148903輛，同比增長9.9%。"
-    },
-    {
-      "id": "mkt:019e88f8-8f84-7007-9c8f-15e6a4cfa6e7",
-      "time": "2026-06-02 23:34:11",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "Market sources say the EU has asked relevant bodies for advice to assess additional financing needs."
-    },
-    {
-      "id": "4913359",
-      "time": "2026-06-02 23:34:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMC股價大漲22%，受益於觀影人次創2019年以來歷年5月新高，但分析師警示其揹負79.3億美元債務，存在破產風險。"
-    },
-    {
-      "id": "mkt:019e88f8-4948-7007-9c8f-0c943a150d6e",
-      "time": "2026-06-02 23:33:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Sleijpen said policymakers must monitor whether energy is driving broader inflation."
-    },
-    {
-      "id": "4913358",
-      "time": "2026-06-02 23:33:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員斯萊彭：需觀察能源漲價是否向整體通脹傳導。"
-    },
-    {
-      "id": "mkt:019e88f7-9491-7007-9c8f-075b0abddb6e",
-      "time": "2026-06-02 23:33:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 6-week Treasury auction to June 2 — share awarded at the stop-out rate 63.21%, prior 68.12%."
-    },
-    {
-      "id": "4913357",
-      "time": "2026-06-02 23:33:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利表示，央行儲備規模正穩步回落至均衡水平。"
-    },
-    {
-      "id": "4913356",
-      "time": "2026-06-02 23:32:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟向相關機構發出需求建議書，徵集後續資金需求方案。"
-    },
-    {
-      "id": "mkt:019e88f7-5357-7007-9c8e-fd204fd70e18",
-      "time": "2026-06-02 23:32:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 6-week Treasury bill auction on June 2: bid-cover ratio 3.28, prior 2.71."
-    },
-    {
-      "id": "mkt:019e88f7-3828-7007-9c8e-f03a64ee5605",
-      "time": "2026-06-02 23:32:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. 6-week Treasury bill auction (settlement June 2): stop-out yield 3.625%, prior 3.62%."
-    },
-    {
-      "id": "4913355",
-      "time": "2026-06-02 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.625%，投標倍數3.28。"
-    },
-    {
-      "id": "4913354",
-      "time": "2026-06-02 23:32:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "豐田汽車北美公司：公佈2026年5月美國汽車銷量為23.88萬輛。"
-    },
-    {
-      "id": "4913353",
-      "time": "2026-06-02 23:32:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "豐田汽車北美公司：2026年5月美國電動化車型總銷量為137,031輛。"
-    },
-    {
-      "id": "mkt:019e88f6-5407-7007-9c8e-ebd57a84fc63",
-      "time": "2026-06-02 23:31:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Netanyahu: Israel will never allow Iran to threaten its existence】On the 2nd, Israeli Prime Minister Netanyahu said at a Mossad leadership handover that he will never allow Iran to threaten Israel's existence, reiterating long-standing policy to prevent Iran from acquiring nuclear weapons. He called the Iranian regime a \"terrorist regime destined to disappear from the world\" and said Israel would \"help achieve that goal,\" ensuring Iran cannot threaten Israel with \"a nuclear bomb and thousands of lethal ballistic missiles.\""
-    },
-    {
-      "id": "4913352",
-      "time": "2026-06-02 23:31:29",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.68%，歐洲斯托克指數上漲0.95%，歐元區藍籌股指數上漲1.17%。英國富時100指數上漲0.36%，德國DAX指數上漲0.46%，法國CAC 40指數上漲0.78%，西班牙IBEX指數上漲0.46%。"
-    },
-    {
-      "id": "4913351",
-      "time": "2026-06-02 23:31:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列與黎巴嫩開啟第四輪談判。"
-    },
-    {
-      "id": "mkt:019e88f5-61f0-7007-9c8e-e7a9aa3c5865",
-      "time": "2026-06-02 23:30:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "TM.N"
-      ],
-      "text": "Toyota Motor (TM.N) sold 238,800 vehicles in the U.S. in May, down 0.6% YoY. U.S. electric vehicle sales in May totaled 137,031 units, up 15.3% YoY."
-    },
-    {
-      "id": "4913350",
-      "time": "2026-06-02 23:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國計劃在亞塞拜然進行能源投資，並稱已簽署總金額達80億美元的協議。"
-    },
-    {
-      "id": "4913349",
-      "time": "2026-06-02 23:30:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【採埃孚與徐工集團成立農業機械合資公司】6月2日，採埃孚與徐工集團在德國腓德烈斯哈芬市簽署合資協議，正式成立合資公司。雙方透過加強合作，為中國農機市場量身定製本地化解決方案，加速中國農業技術創新。根據協議，雙方將共同成立“採埃孚（徐州）機械有限公司”，總部位於江蘇徐州經濟技術開發區。"
-    },
-    {
-      "id": "te:economy:555827",
-      "time": "2026-06-02 23:30:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 12 bps — Majority of government bonds yields are lower on Tuesday. Top gainers are Brazil 10Y (12bps). Biggest losers are Japan 10Y (-11.88bps), Germany 10Y (-3.82bps) and US 10Y (-0.20bps)."
-    },
-    {
-      "id": "4913348",
-      "time": "2026-06-02 23:29:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡：絕不允許伊朗威脅以色列的生存】以色列總理內塔尼亞胡2日說，絕不允許伊朗威脅以色列的生存。內塔尼亞胡當天在以色列情報和特勤局（摩薩德）新任局長交接儀式上說，以方將一如既往地奉行多年來的政策，絕不允許伊朗獲得核武器、絕不允許伊朗威脅以色列的生存。內塔尼亞胡稱伊朗政權是“註定要從世界上消失的恐怖政權”，以色列將“幫助實現這一目標”，使伊朗不會再用“核彈和數千枚致命的彈道導彈”威脅以色列。（新華社）"
-    },
-    {
-      "id": "4913347",
-      "time": "2026-06-02 23:27:31",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "老虎證券大跌近7%，富途大跌超4%。"
-    },
-    {
-      "id": "4913346",
-      "time": "2026-06-02 23:27:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體披露伊美資訊交換“已暫停數日”】據伊朗法爾斯通訊社2日報道，一名接近伊朗談判團隊的知情人士表示，伊朗與美國間就諒解備忘錄所進行的資訊交換已暫停數日，暫停前伊方發出的最後一則資訊與黎巴嫩局勢有關。(新華社)"
-    },
-    {
-      "id": "te:markets:555826",
-      "time": "2026-06-02 23:26:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Schneider Electric Stock Price Hits All-time High — Schneider Electric shares increased to an all-time high of 288.05 EUR. Over the past 4 weeks, Schneider Electric gained 10.4%, and in the last 12 months, it increased 29.75%."
-    },
-    {
-      "id": "4913344",
-      "time": "2026-06-02 23:26:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【英國央行官員格林：上調關鍵利率的理由正在增強】英國央行貨幣政策委員會格林周二表示，中東衝突持續的時間越長，上調該行關鍵利率的理由就越充分，而且可能需要在未來幾周內採取行動。英國央行在4月份維持其關鍵利率不變，投資者預計，在貨幣政策委員會於6月18日再次召開會議時，將再次做出維持利率不變的決定。一些決策者已指出，自衝突開始以來，政府債券收益率的上升已導致家庭和企業的借款成本增加，而這應有助於給價格壓力降溫。然而，格林表示，貨幣政策委員會不能指望市場代其行事，如果英國央行不提高關鍵利率，收益率可能會回落。她在一篇講話中表示：“我認為，隨著衝突的持續，加息的理由越來越充分，未來幾周或幾個月可能有必要收緊貨幣政策。”"
-    },
-    {
-      "id": "4913343",
-      "time": "2026-06-02 23:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗將在三座城市為已故最高領袖哈梅內伊舉行葬禮】據伊朗媒體2日報道，伊朗首都德黑蘭市政府官員表示，已確定將在德黑蘭、庫姆和馬什哈德三座城市為已故最高領袖阿里·哈梅內伊舉行葬禮。德黑蘭市政府官員表示，相關部門正籌備在首都舉行的送葬儀式，預計有1500萬至2000萬人參加。根據哈梅內伊生前遺願及其親屬建議，其遺體將安葬於位於馬什哈德的伊瑪目禮薩聖陵。整個葬禮活動計劃持續三天。（新華社）"
-    },
-    {
-      "id": "4913342",
-      "time": "2026-06-02 23:25:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：在美國實施打擊行動後，伊朗的導彈、無人機及海軍戰力遭遇大幅損耗，其軍事基礎設施已被“嚴重削弱”，海軍近乎喪失作戰能力。"
-    },
-    {
-      "id": "4913341",
-      "time": "2026-06-02 23:24:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列空襲黎巴嫩南部多處城鎮。"
-    },
-    {
-      "id": "4913340",
-      "time": "2026-06-02 23:23:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉已聘請霍金路偉律師事務所擔任其違約債務重組的法律顧問，該債務總額約為1700億美元。這一關鍵舉措可能成為近幾十年來規模最大的主權債務重組之一。"
-    },
-    {
-      "id": "mkt:019e88ef-1176-7007-9c8e-d95d5b2c30ca",
-      "time": "2026-06-02 23:23:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Secretary of State Rubio said the United States does not have unlimited resources for war."
-    },
-    {
-      "id": "4913339",
-      "time": "2026-06-02 23:23:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們的戰爭資源並非無窮無盡。"
-    },
-    {
-      "id": "mkt:019e88ee-a172-7007-9c8e-d4831d4d84d8",
-      "time": "2026-06-02 23:23:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Yunji Technology and Qi An Xin launch high-security robot】At the 2026 Beijing Cybersecurity Conference on June 2, Beijing Yunji Technology Co. and Qi An Xin Group jointly launched a high-security service robot. The product positions service robots to expand beyond traditional commercial use in hotels and office buildings into higher-security environments including government, energy, finance and urban security operations."
-    },
-    {
-      "id": "te:markets:555825",
-      "time": "2026-06-02 23:23:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HCA Stock Price Hits 42-week Low — HCA shares decreased to 367.42 USD, the lowest since August 2025. Over the past 4 weeks, HCA lost 13.94%, and in the last 12 months, it decreased 4.03%."
-    },
-    {
-      "id": "4913338",
-      "time": "2026-06-02 23:22:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【齊向東：AI引爆網安千億增量市場，最大受益者屬於創新頭部廠商】6月2日，第八屆北京網路安全大會（BCS 2026）在北京開幕。奇安信集團董事長齊向東在開幕峰會上表示，這波AI革命，對網安產業是大利好，最大受益者是創新的頭部安全廠商。網路安全是AI時代的基礎性產業，產業規模會伴隨數智化規模水漲船高，網路安全面前擺著的是千億級增量空間。當前中美網路安全產業規模相差高達12倍，AI時代的攻防失衡正引爆實戰安全、資料安全與全棧安全三類剛需，防護者選擇提升漏挖能力拉平失衡，不現實；防護者選擇依靠AI原生安全能力拉平失衡，也不現實；基於這兩條“不現實”，最終形成一條共識：加速網路安全升級改造，追平攻防失衡差距，是AI時代的必然選擇。"
-    },
-    {
-      "id": "mkt:019e88ee-13af-7cc5-8c74-179c31165237",
-      "time": "2026-06-02 23:22:31",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact mixed"
-      ],
-      "text": "Paramount is seeking European Union approval for its $110 billion Warner deal, market sources said."
-    },
-    {
-      "id": "mkt:019e88ed-435c-755e-9b88-94dbaf31106b",
-      "time": "2026-06-02 23:21:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU sets July 7 deadline for merger review of Paramount-Warner transaction."
-    },
-    {
-      "id": "4913337",
-      "time": "2026-06-02 23:21:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟設定7月7日為派拉蒙收購華納審查的最後期限。"
-    },
-    {
-      "id": "4913336",
-      "time": "2026-06-02 23:21:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "華納兄弟股價迅速轉漲。"
-    },
-    {
-      "id": "4913335",
-      "time": "2026-06-02 23:21:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海二手房5月成交2.8萬套，創近6年同期新高】延續“小陽春”的熱度，上海樓市“紅五月”行情兌現。根據“網上房地產”資料，2026年5月，上海二手房網籤成交28023套（全口徑資料，含商業、車位等），同比增長約31%。這一成交規模不僅創下近6年來的同期新高，即使放在近十年的時間跨度中，也僅次於2020年5月約3.05萬套的成交水平。58安居客房產研究院分院長張波點評稱：“上海這輪市場強勢表現，本質是市場自身週期性觸底後的修復反彈，疊加政策效應的持續釋放。此前調整週期中，市區部分不少二手房價格已出現明顯的過度下行，市場本身就具備修復動力，這一動力是成交量基本面。春節後限購最佳化等政策，進一步開啟了需求釋放的閘門，帶動市場熱度連續三個月維持高位。”(新京報)"
-    },
-    {
-      "id": "4913334",
-      "time": "2026-06-02 23:19:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：北約峰會將會是一場看點頗多的會議。"
-    },
-    {
-      "id": "mkt:019e88eb-0d01-755e-9b88-8a089c6e5857",
-      "time": "2026-06-02 23:19:22",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact mixed",
-        "WBD.O"
-      ],
-      "text": "Paramount's offer to acquire Warner is under EU review for foreign subsidies."
-    },
-    {
-      "id": "mkt:019e88ea-d8fa-755e-9b88-8568e6d8ab68",
-      "time": "2026-06-02 23:19:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China-Russia think-tank forum held in Moscow】A China-Russia think-tank forum was held in Moscow on the 1st–2nd to mark the 30th anniversary of the China-Russia strategic partnership and the 25th anniversary of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation. More than 200 government, academic and institutional delegates discussed deepening strategic cooperation and its significance for shaping a just international order."
-    },
-    {
-      "id": "4913333",
-      "time": "2026-06-02 23:19:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "派拉蒙收購華納的交易進入歐盟併購審查程式。"
-    },
-    {
-      "id": "mkt:019e88ea-b831-7cc5-8c74-06c9e33a1c73",
-      "time": "2026-06-02 23:19:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel says the IDF has permitted schools in northern border towns to reopen."
-    },
-    {
-      "id": "4913332",
-      "time": "2026-06-02 23:18:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：以國防軍批准北部邊境城鎮學校復課。"
-    },
-    {
-      "id": "mkt:019e88e9-dc6b-7cc5-8c73-fdae58ba0447",
-      "time": "2026-06-02 23:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's state oil company said it activated an emergency plan during a 24-hour union strike."
-    },
-    {
-      "id": "te:markets:555819",
-      "time": "2026-06-02 23:17:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cotton Futures Approach 2-Week Highs — Cotton futures rose above 77 cents per pound, approaching a two-week high, amid ongoing technical rebound, elevated oil prices, and India’s suspension of its 11% import duty on cotton. The move, which runs until October 30, is aimed at boosting supplies of high-quality fiber for the textile industry and is expected to lift domestic demand amidst strong global demand for yarns and textile products. Imports are likely to be sourced from surplus exporters including Australia, Brazil, the United States, and Africa. Additional support came from strong US export sales, with USDA data showing 153,622 running bales in the latest week, up 17% from the previous week and above the four-week average. The Crop Progress report also showed 66% of the US cotton crop had been planted, up from 53% a week earlier and slightly ahead of 64% at the same time last year, indicating that crop development remains largely on track."
-    },
-    {
-      "id": "4913331",
-      "time": "2026-06-02 23:17:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞前高官發起一項針對美英澳合作的公開調查】澳大利亞前環境部長彼得·加勒特2日宣佈發起一項針對美英澳“三邊安全夥伴關係”及核潛艇合作的公開調查，旨在審視相關合作對澳主權、安全等方面的影響。加勒特在一份宣告中表示，美英澳“三邊安全夥伴關係”是迄今澳大利亞政府參與的成本最高、最複雜的專案，但議會和公眾卻沒有機會參與有關該專案的質詢、辯論和決策。他說：“對這項耗費鉅額納稅人資金的計劃進行公開調查刻不容緩。”（新華社）"
-    },
-    {
-      "id": "4913330",
-      "time": "2026-06-02 23:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧表示，受伊朗決策體系內部分歧以及談判人員需透過多層級流程向最高領袖往返呈報資訊影響，美方往往要近一週時間才能收到伊朗談判代表的回覆。"
-    },
-    {
-      "id": "mkt:019e88e8-ca8b-7cc5-8c73-f0af5276f646",
-      "time": "2026-06-02 23:16:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【ECB says gold became largest global official reserve asset by end-2025】The European Central Bank said in a report on the 2nd that by end-2025 gold's share of global official reserves rose to 27% while US Treasuries' share fell to 22%, making gold the largest official reserve asset globally."
-    },
-    {
-      "id": "4913329",
-      "time": "2026-06-02 23:16:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【近10年來首次 俄稱美官方代表團將出席聖彼得堡國際經濟論壇】俄羅斯總統助理烏沙科夫6月2日表示，美國官方代表團將出席第29屆聖彼得堡國際經濟論壇，這是近10年來的首次。美方代表團由美國美術委員會主席羅德尼·庫克率領，他將參加“俄羅斯-美國：文化對話”專題會議。烏沙科夫稱，美國上一次以該級別參會還是在2017年至2018年左右。烏沙科夫透露，普京將於6月5日出席論壇全體會議並發表講話。沙烏地阿拉伯擔任本屆論壇主賓國，烏茲別克總統米爾濟約耶夫將參會。第29屆聖彼得堡國際經濟論壇於6月3日至6日在聖彼得堡舉行，主題為“務實對話——通往穩定未來之路”。（央視新聞）"
-    },
-    {
-      "id": "4913328",
-      "time": "2026-06-02 23:14:51",
-      "tags": [
-        "市場",
-        "央行",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，美國國債的同期佔比降至22%，黃金成為全球官方儲備第一大資產。"
-    },
-    {
-      "id": "mkt:019e88e6-7a6b-755e-9b88-724d45fb15af",
-      "time": "2026-06-02 23:14:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Tianjin Port Group and Shenzhen Port Group sign strategic cooperation framework】June 1 — Tianjin Port Group and Shenzhen Port Group signed a strategic cooperation framework in Tianjin. Under the agreement, the groups will leverage regional advantages and deepen cooperation on port–shipping coordination, smart upgrades, green transition and diversified business expansion. They plan to share resources and complementary strengths to advance joint project implementation."
-    },
-    {
-      "id": "4913327",
-      "time": "2026-06-02 23:14:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天津港集團與深圳港集團簽署戰略合作框架協議】6月1日，天津港集團與深圳港集團在津簽署戰略合作框架協議。根據協議，雙方將充分發揮區域優勢，聚焦港航協同、智慧升級、綠色轉型及多元業務拓展等領域深化合作，透過資源共享與優勢互補，攜手推動合作專案落地見效，實現互利共贏、協同發展。"
-    },
-    {
-      "id": "4913326",
-      "time": "2026-06-02 23:13:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列或成美伊協議落實最大障礙】美國總統特朗普和以色列總理內塔尼亞胡當地時間6月1日再通電話。特朗普稱通話“富有成效”，促成了以色列和黎巴嫩真主黨停止交火。但內塔尼亞胡在通話後釋出的社媒帖文中卻依舊保持強硬語氣。美媒更是爆料稱這通電話“火藥味十足”，稱“特朗普怒斥內塔尼亞胡”。美以各執一詞是出於何種原因？美國能否有效約束以色列？美以分歧又將如何影響美國與伊朗的談判前景？#時訊問答#中國國際問題研究院助理研究員李子昕分析指出，美以看似不同的表述，反映出的其實是雙方對於當前地區局勢的優先戰略考量，以及自身政治議程的現實需要。而美國確實有能力來約束以色列的行動，但這種能力是有限度的、有條件的，而且難以改變以色列的戰略目標。不排除以色列會對未來的美伊協議不承認、不接受，完全按照自身的政治議程來行事。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e88e5-fe65-7ccc-bd1f-839ce9bc9ebf",
-      "time": "2026-06-02 23:13:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Nikkei reports Prime Minister Takaichi will decide this month to cut the consumption tax on food to 1%."
-    },
-    {
-      "id": "4913325",
-      "time": "2026-06-02 23:13:29",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "美國貨幣監理署、美聯儲、聯邦存款保險公司刪除檔案中有關聲譽風險的相關表述。"
-    },
-    {
-      "id": "4913324",
-      "time": "2026-06-02 23:12:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍放寬北部聚居區本土前線司令部管控措施，相關調整自週二起生效、持續至週日，恢復部分運作等級。"
-    },
-    {
-      "id": "mkt:019e88e5-2f02-755e-9b88-6e12e5ba2248",
-      "time": "2026-06-02 23:12:52",
-      "tags": [
-        "MKT News",
-        "CBOE.O",
-        "Impact bearish",
-        "CME.O",
-        "ICE.O"
-      ],
-      "text": "U.S. exchange operators fell on concerns about risks from perpetual futures: Cboe Global Markets dropped 9%, CME Group slid 4.7% to a one-year low, and Intercontinental Exchange fell 3.9%, approaching a two-year low."
-    },
-    {
-      "id": "4913323",
-      "time": "2026-06-02 23:12:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗本月將決定是否將食品稅降至1%。"
-    },
-    {
-      "id": "te:markets:555818",
-      "time": "2026-06-02 23:12:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Siemens Energy Stock Price Hits 8-week Low — Siemens Energy shares decreased to 158.32 EUR, the lowest since April 2026. Over the past 4 weeks, Siemens Energy AG lost 10.4%, and in the last 12 months, it increased 78.16%."
-    },
-    {
-      "id": "mkt:019e88e4-84bc-755e-9b88-6313ee61430e",
-      "time": "2026-06-02 23:12:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The OCC, the Federal Reserve and the FDIC have removed references to 'reputational risk' from relevant documents."
-    },
-    {
-      "id": "4913322",
-      "time": "2026-06-02 23:12:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國交易所運營商股價因對永續期貨風險的擔憂進一步下跌。"
-    },
-    {
-      "id": "4913321",
-      "time": "2026-06-02 23:11:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "芝加哥期權交易所全球市場公司股價下跌9%，芝加哥商業交易所集團股價下跌4.7%，觸及一年多低點，洲際交易所股價下跌3.9%，逼近兩年低點。"
-    },
-    {
-      "id": "4913320",
-      "time": "2026-06-02 23:11:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市接近盤中高點，道瓊斯指數最新上漲0.3%。"
-    },
-    {
-      "id": "4913319",
-      "time": "2026-06-02 23:11:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：從伊朗得到回覆可能需要長達6天的時間。"
-    },
-    {
-      "id": "mkt:019e88e3-701e-755e-9b88-58e0ee68f9f0",
-      "time": "2026-06-02 23:11:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said a response from Iran could take up to six days."
-    },
-    {
-      "id": "4913318",
-      "time": "2026-06-02 23:10:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：四分五裂的伊朗政權正面臨溝通問題。"
-    },
-    {
-      "id": "mkt:019e88e3-4dce-755e-9b88-5109a6762278",
-      "time": "2026-06-02 23:10:52",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said the fractured Iranian regime is facing communication problems."
-    },
-    {
-      "id": "mkt:019e88e3-03f3-755e-9b88-4b14e194aeaa",
-      "time": "2026-06-02 23:10:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: Ivory Coast cocoa regulator raised the export premium from £0/tonne to £125/tonne. The regulator has sold about 1.0 mln tonnes of export contracts for the 2026-27 main crop season."
-    },
-    {
-      "id": "4913317",
-      "time": "2026-06-02 23:10:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，象牙海岸可可監管機構因厄爾尼諾擔憂限制2026/27銷售季銷量。"
-    },
-    {
-      "id": "mkt:019e88e2-a50d-755e-9b88-41ec48663fdf",
-      "time": "2026-06-02 23:10:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Ivory Coast's cocoa regulator is capping sales for the 2026/27 season, citing El Nifio-related crop risk."
-    },
-    {
-      "id": "4913316",
-      "time": "2026-06-02 23:10:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典正在考慮禁止15歲以下的人群使用社交媒體。"
-    },
-    {
-      "id": "4913315",
-      "time": "2026-06-02 23:09:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【有關垃圾焚燒，杜祥琬院士釋出闢謠宣告】6月2日，中國工程院官方網站釋出杜祥琬院士的正式宣告，針對近期網路流傳的“杜祥琬院士及其團隊將核技術應用於垃圾焚燒並取得顯著效果”相關不實宣傳內容，進行公開闢謠。杜祥琬表示，近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了“無廢城市”試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。他表示，現提醒各媒體及網路平臺嚴格稽核釋出內容，本人將保留追究相關單位和個人法律責任的權利。"
-    },
-    {
-      "id": "4913314",
-      "time": "2026-06-02 23:08:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中俄智庫高階論壇在莫斯科舉辦】中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年之際，中俄智庫高階論壇1日至2日在莫斯科舉辦。來自中俄兩國政府、學術界及相關機構的200餘名代表共話兩國友好交往與戰略協作歷史，就中俄深化戰略協作對構建公正世界秩序的重要性等議題展開討論。中國社會科學院院長高翔1日在論壇開幕式影片致辭中表示，中俄兩國共同倡導世界多極化，構建新型國際關係，推動建設更加公正合理的全球治理體系，為維護全球戰略穩定貢獻重要力量。中俄雙方要繼續以聯合國、上海合作組織、金磚國家合作機制、二十國集團等平臺為抓手，攜手推動平等有序的世界多極化、普惠包容的經濟全球化，為改革完善全球治理體系貢獻自身力量；要秉持互利共贏原則，深化中國“十五五”規劃同俄羅斯2030年前發展戰略對接，為兩國經濟社會高質量發展注入源源不斷的動力。（新華社）"
-    },
-    {
-      "id": "4913313",
-      "time": "2026-06-02 23:08:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元區債券收益率下跌，交易員權衡美伊談判前景。"
     }
   ]
 }
