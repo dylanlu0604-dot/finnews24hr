@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-09 12:02:31",
-  "count": 19191,
+  "updated": "2026-06-09 12:06:18",
+  "count": 19187,
   "items": [
+    {
+      "id": "4925155",
+      "time": "2026-06-09 12:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價漲幅進一步擴大；最新報價報213.3萬韓元，漲幅為12%。"
+    },
+    {
+      "id": "4925154",
+      "time": "2026-06-09 12:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能成立綠儲新能源科技公司】企查查APP顯示，近日，深州市隆深綠儲新能源科技有限公司成立，法定代表人為汪小斌，經營範圍包含：發電技術服務；儲能技術服務；光伏發電裝置租賃；太陽能發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。"
+    },
+    {
+      "id": "mkt:019eaa8d-d537-7eec-b848-3feb2f92b008",
+      "time": "2026-06-09 12:04:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "An oil tanker carrying 24 Indian crew caught fire in waters near Oman; all crew were rescued, Indian television reported."
+    },
+    {
+      "id": "4925153",
+      "time": "2026-06-09 12:04:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大蒙特利爾銀行維持做多美元策略】加拿大蒙特利爾銀行（BMO）表示，在全球經濟逐漸進入“高利率、高通脹”的新宏觀環境下，繼續看漲美元仍然是外匯市場最具吸引力的交易策略之一；BMO繼續維持整體做多美元的策略立場，尤其看好美元兌歐元、英鎊和日元的表現，同時預計美元未來也有望進一步跑贏澳元和加元等商品貨幣。（新華財經）"
+    },
+    {
+      "id": "4925152",
+      "time": "2026-06-09 12:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【方正證券：AI引領封裝升級 關注TGV和電鍍填孔核心工藝】方正證券釋出研報稱，AI晶片邁向萬億電晶體時代，傳統有機基板在高頻傳輸、熱穩定性及大尺寸擴充套件性上的瓶頸日益凸顯。玻璃光波導憑藉優異的透光性和低光損耗，有望在2027年前後落地，成為CPO技術從\"光電分封\"走向\"光電一體\"的關鍵材料支撐。"
+    },
+    {
+      "id": "4925151",
+      "time": "2026-06-09 12:03:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭首都遭遇強風巨浪 數百居民疏散】紐西蘭首都惠靈頓9日遭遇強風和巨浪襲擊，目前已有數百名居民疏散，渡輪服務和部分航班取消。據紐西蘭電臺報道，強風當天在惠靈頓南部海岸掀起11米巨浪。另據惠靈頓地區應急管理辦公室和當地媒體訊息，巨浪漫過沿海公路。惠靈頓機場風速接近每小時100公里，部分進出港航班取消，一架小型飛機被吹翻。區域性地區風速甚至達到每小時137公里。紐西蘭政府8日晚釋出強制疏散令，要求惠靈頓南部海岸居民撤離。惠靈頓南部和東部地區當晚也宣佈進入緊急狀態。據紐西蘭電臺報道，截至9日已有數百名居民撤離。此外，往返南北島的庫克海峽渡輪服務暫停。"
+    },
+    {
+      "id": "4925150",
+      "time": "2026-06-09 12:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國《金融時報》報道， 雷諾將把無人機制造及其他防務業務收入佔比上限設定為 5%。"
+    },
+    {
+      "id": "4925149",
+      "time": "2026-06-09 12:01:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.15%，恒生科技指數漲0.62%】港股午間收盤，恒生指數跌0.15%，恒生科技指數漲0.62%。恒指港股通ETF銀華（159318）漲0.16%，港股通科技ETF鵬華（159751）漲0.68%。板塊方面，工業集團企業、半導體產品與裝置板塊漲幅靠前；能源裝置與服務、生物科技板塊跌幅靠前。個股方面，建滔集團漲21.95%，赤子城科技漲16.76%，建滔積層板漲14.39%，廣合科技漲13.53%，天辰生物-B漲12.26%；耀才證券金融跌11.53%，精鋒醫療-B跌9.63%，智譜跌8.22%，高鑫零售跌7.26%，首鋼朗澤跌7.25%。"
+    },
     {
       "id": "mkt:019eaa89-f4e8-7eec-b848-305cb73d0eae",
       "time": "2026-06-09 12:00:28",
@@ -176910,124 +176977,6 @@
         "MKT News"
       ],
       "text": "【Alibaba Research Institute: Qwen3.7-Max ranks first among domestic models】Third-party firm Artificial Analysis’s latest global large-model ranking gave Qwen3.7-Max a score of 57, close to top GPT, Claude and Gemini models, and ranked it first among Chinese models. The model handles programming tasks from page prototyping to complex multi-file projects; in office workflows it can integrate tools and coordinate multi-agent collaboration to automate multi-step processes. In fully autonomous tests it remained coherent over runs exceeding 35 hours and more than 1,000 tool calls. It also demonstrates cross-agent-framework generalization, performing well when connected to various agent frameworks and tools."
-    },
-    {
-      "id": "4911839",
-      "time": "2026-06-02 12:06:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜5年參保人數增長14倍 近三年增資160%】據媒體報道，6月1日，智譜在港交所公告稱，公司建議申請配發及發行A股，並申請在科創板上市及准予交易。天眼查App顯示，智譜AI關聯公司北京智譜華章科技股份有限公司成立於2019年6月，法定代表人為劉德兵，經營範圍包括人工智慧基礎軟體開發、人工智慧應用軟體開發、資料處理和儲存支援服務等，由唐傑、天津三快科技有限公司、廣西騰訊創業投資有限公司等共同持股。參保人數資訊顯示，該公司從2019年的43人增至2024年的647人。變更記錄顯示，該公司註冊資本從2023年的約1711.6萬人民幣增至如今的約4458.4萬人民幣。"
-    },
-    {
-      "id": "mkt:019e8681-a471-7663-9953-8d0a022cdfbf",
-      "time": "2026-06-02 12:05:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Tencent",
-        "Meituan",
-        "Alibaba",
-        "00700.HK",
-        "Impact bullish",
-        "03690.HK",
-        "01211.HK"
-      ],
-      "text": "【HK midday: Hang Seng Tech rallies; Tencent, Meituan jump >7%】Hong Kong stocks rallied into the midday close: Hang Seng Index +1.46%, Hang Seng TECH Index +3.48%. Tech heavyweights Tencent (00700.HK) and Meituan (03690.HK) led gains, both >7% by the half-day, driving the tech index higher. BYD (01211.HK), Alibaba (09988.HK) and Bilibili (09626.HK) were each up over 5%. May auto delivery data released; NIO (09866.HK), XPeng (09868.HK), SERES (09927.HK) and GAC Group (02238.HK) also rose."
-    },
-    {
-      "id": "mkt:019e8681-a073-7663-9953-8775dc30a72a",
-      "time": "2026-06-02 12:04:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US is in talks to expand deployment of nuclear weapons in Europe, the Financial Times reports."
-    },
-    {
-      "id": "mkt:019e8681-4b8f-7663-9953-7910355f9571",
-      "time": "2026-06-02 12:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cambodian government says Thailand has 21 days to appoint two mediators."
-    },
-    {
-      "id": "mkt:019e8681-3756-7663-9953-70e6e9dfd83c",
-      "time": "2026-06-02 12:04:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cambodia's government said it has initiated compulsory mediation proceedings after Thailand unilaterally withdrew from a key bilateral agreement."
-    },
-    {
-      "id": "mkt:019e8681-0886-7663-9953-6b304ae623a7",
-      "time": "2026-06-02 12:04:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cambodian government says it has sent formal notification to Thailand and the UN Secretary-General."
-    },
-    {
-      "id": "mkt:019e8680-efd7-7663-9953-6469db05053c",
-      "time": "2026-06-02 12:04:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Cambodian government to initiate compulsory mediation under the UN Convention on the Law of the Sea (UNCLOS) to resolve overlapping maritime claims with Thailand."
-    },
-    {
-      "id": "4911838",
-      "time": "2026-06-02 12:03:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【市場分析：隨著避險資金流持續，比特幣依然承壓】亞洲交易時段，隨著中東緊張局勢重燃引發避險情緒，比特幣依然承壓，在4月初以來的低點附近徘徊。XS.com高階市場分析師Antonio Di Giacomo表示，地緣政治的不確定性正在引發油價的大幅波動以及對國際貿易路線穩定性的擔憂，加劇了機構投資者的謹慎情緒。他補充說，過去三週，與比特幣相關的ETF經歷了大量資金流出，隨著市場參與者減少加密貨幣敞口，贖回規模超過30億美元。比特幣最新下跌0.6%，報70,913美元，此前一度觸及70,086美元——逼近備受關注的70,000美元關口。"
-    },
-    {
-      "id": "4911837",
-      "time": "2026-06-02 12:03:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "柬埔寨政府：泰國目前有21天時間任命兩名本國調解員。"
-    },
-    {
-      "id": "4911836",
-      "time": "2026-06-02 12:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "柬埔寨政府：啟動強制調解程式，因泰國單方面退出一項核心雙邊協定。"
-    },
-    {
-      "id": "4911835",
-      "time": "2026-06-02 12:03:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "柬埔寨政府：已向泰國及聯合國秘書長髮出正式通知。"
-    },
-    {
-      "id": "4911834",
-      "time": "2026-06-02 12:03:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "柬埔寨政府宣告：將發起《聯合國海洋法公約》下強制調解程式，以解決與泰國的重疊海洋主權主張爭端。"
     }
   ]
 }
