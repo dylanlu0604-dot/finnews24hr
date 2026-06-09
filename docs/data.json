@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-10 06:01:03",
-  "count": 18716,
+  "updated": "2026-06-10 06:05:00",
+  "count": 18722,
   "items": [
+    {
+      "id": "mkt:019eae69-8ea1-7ff4-a101-e7123353b413",
+      "time": "2026-06-10 06:03:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XOM.O",
+        "CVX.O"
+      ],
+      "text": "WTI crude up more than 1.00% intraday, trading at $90.60/bbl."
+    },
+    {
+      "id": "mkt:019eae69-8194-7ff4-a101-db00c922bf24",
+      "time": "2026-06-10 06:03:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. officials: U.S. forces struck Iranian air-defense and radar systems near Strait of Hormuz】U.S. officials said on June 9 U.S. forces struck multiple Iranian air-defense and radar systems near the Strait of Hormuz. U.S. Central Command earlier said, at President Trump’s direction, U.S. forces began \"defensive\" strikes at 1700 ET to respond to the previous day’s downing of a U.S. Apache helicopter."
+    },
+    {
+      "id": "4926740",
+      "time": "2026-06-10 06:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國官員：美軍打擊了霍爾木茲海峽周邊伊朗防空和雷達系統】據美國官員的訊息，美軍已對霍爾木茲海峽周邊多套伊朗防空系統和雷達系統發動打擊。稍早前，美國中央司令部表示，在總統特朗普指示下，美軍於美國東部時間17時開始對伊朗發動“自衛性”打擊，以回應前一天美軍“阿帕奇”直升機被擊落事件。"
+    },
+    {
+      "id": "4926739",
+      "time": "2026-06-10 06:02:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月維持利率不變的機率為98.2%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.2%，累計降息25個基點的機率為1.8%。美聯儲到7月維持利率不變的機率為85.8%，累計加息25個基點的機率12.6%，累計降息25個基點的機率為1.6%。"
+    },
+    {
+      "id": "mkt:019eae67-f649-7ff4-a101-d4b858684285",
+      "time": "2026-06-10 06:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened up 0.8% to $90.28/bbl."
+    },
+    {
+      "id": "mkt:019eae67-8512-7ff4-a101-cdf18b8a9892",
+      "time": "2026-06-10 06:01:20",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. stock index futures opened slightly lower; Nasdaq futures down 0.2%."
+    },
+    {
+      "id": "4926738",
+      "time": "2026-06-10 06:01:16",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "標普500指數期貨下跌0.2%，納斯達克指數期貨下跌0.3%。訊息面上，美軍恢復對伊朗的打擊。"
+    },
+    {
+      "id": "4926737",
+      "time": "2026-06-10 06:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4280美元/盎司，日內跌0.15%。"
+    },
     {
       "id": "4926736",
       "time": "2026-06-10 06:00:04",
@@ -172736,24 +172821,6 @@
         "其他"
       ],
       "text": "【平陸運河今天將實現全線通水】今天（3日），西部陸海新通道骨幹工程平陸運河建設將迎來重大節點：控制性工程三大航運樞紐中的馬道樞紐和企石樞紐將開始充水，平陸運河將實現全線通水，全面進入有水除錯階段，為9月如期通航奠定堅實基礎。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8a5c-0f69-733d-881b-2632ebfb9968",
-      "time": "2026-06-03 06:02:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration appeals order requiring refunds of $166 bln in IEEPA tariffs】The Trump administration on Tuesday filed a notice of appeal with the U.S. Court of International Trade challenging a judge's order that U.S. Customs refund $166 billion in global tariffs imposed under the International Emergency Economic Powers Act (IEEPA). The appeal follows a U.S. Supreme Court ruling earlier this year that the IEEPA tariffs were unlawfully imposed. The Justice Department argues the trial judge lacked authority to direct refunds to all importers who paid the tariffs, regardless of whether they sued to recover payments."
-    },
-    {
-      "id": "4913699",
-      "time": "2026-06-03 06:01:23",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "科威特軍方稱，防空部隊當下正在攔截來襲的敵方導彈與無人機。"
     }
   ]
 }
