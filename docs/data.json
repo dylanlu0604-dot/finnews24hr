@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-09 10:22:28",
+  "updated": "2026-06-09 10:26:24",
   "count": 19163,
   "items": [
+    {
+      "id": "4925031",
+      "time": "2026-06-09 10:25:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百奧幾何完成新一輪數億元戰略融資】近日，百奧幾何（BioGeometry）完成新一輪數億元戰略融資。本輪融資由上海生物醫藥創新轉化基金、國科投資、達晨財智、星連資本聯合領投，高榕資本、指數人工智慧產業創新基金跟投，指數資本擔任獨家財務顧問。據百奧幾何介紹，本輪融資將用於自研生命科學微觀世界模型GeoFlow的持續迭代，並全力加速公司高通量自動化實驗室建設和多元化創新藥物管線推進。"
+    },
+    {
+      "id": "te:markets:557439",
+      "time": "2026-06-09 10:23:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hang Seng Falls for Fifth Straight Session — The Hang Seng Index slipped 64 points, or 0.3%, to 24,600 on Tuesday, extending losses for a fifth straight session and hovering near its lowest level since late March. Sentiment remained fragile despite reports that tensions in the Middle East eased following a halt in hostilities between Israel and Iran and as optimism surrounding AI-related stocks improved. Finance, retail trade and energy minerals posted losses while selected technology stocks gained. Notable decliners included AIA (-1.6%), Lenovo (-0.3%), Knowledge Atlas Technology (-7.8%), and Xiaomi (-1.2%). In contrast, Tencent advanced 3.4% and Semiconductor Manufacturing International Corporation gained 0.9%, helping the benchmark recover from earlier losses. Investors also remained cautious amid persistent concerns over the pace of China's economic recovery and ahead of the country's trade balance data due later."
+    },
+    {
+      "id": "4925030",
+      "time": "2026-06-09 10:22:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊持續拉昇，深南電A觸及漲停】電力板塊持續拉昇，深南電A觸及漲停，大連熱電此前漲停，華電遼能、亨通股份、大唐發電、上海電力、粵電力A跟漲。"
+    },
+    {
+      "id": "4925029",
+      "time": "2026-06-09 10:22:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念震盪拉昇 常山藥業漲超13%】創新藥概念震盪拉昇，常山藥業漲超13%，維康藥業漲超9%，貝達藥業、眾生藥業、榮昌生物、成都先導跟漲。"
+    },
     {
       "id": "4925028",
       "time": "2026-06-09 10:21:18",
@@ -176680,43 +176717,6 @@
         "其他"
       ],
       "text": "騰訊港股漲6.4%。"
-    },
-    {
-      "id": "mkt:019e8626-522c-7aa2-99e9-6c31b9038bcb",
-      "time": "2026-06-02 10:25:18",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【European Parliament schedules special committee vote on EU-US trade agreement】The European Parliament's Committee on International Trade will hold a special meeting on June 2 to discuss and vote on provisional provisions in the legislative text of the EU-US trade agreement. The EU and US reached the trade agreement in July 2025; Parliament and the EU Council agreed a provisional legislative text in May that strengthens several clauses compared with the European Commission's original proposal to address uncertainty in transatlantic trade relations. The text is expected to go to a European Parliament plenary for a final vote in mid-June, followed by approval by the EU Council."
-    },
-    {
-      "id": "mkt:019e8625-fac3-7aa2-99e9-624d61edffd0",
-      "time": "2026-06-02 10:24:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yongxin Co.: Phase II 30,000 tpa biaxially oriented multifunctional film line due to start end-June】Yongxin Co. said subsidiary Yongxin New Materials’ phase II 30,000 tpa biaxially oriented multifunctional film project is expected to start production at end-June. The line features German Bruckner equipment and an online thickness-control system, an 8.7 m web width and a maximum stable speed of 600 m/min; thickness tolerance is controlled within ±1 μm at high speed and film width stability is strong. Commissioning will materially expand Yongxin’s high-end film capacity and broaden product performance and application scope."
-    },
-    {
-      "id": "4911713",
-      "time": "2026-06-02 10:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永新股份：年產30000噸雙向拉伸多功能膜專案（二期）將於6月底投產】記者從永新股份(002014)獲悉，旗下子公司永新新材料年產30000噸雙向拉伸多功能膜專案（二期）預計將於6月底投產。該專案搭載德國布魯克納進口裝置+思肯德線上測厚系統，生產線寬幅達8.7米，穩定狀態下最高生產速度600米/分鐘，即便是高速運轉，仍能實現厚度誤差控制在±1μm內，膜寬穩定性強。專案投產後，永新股份高階薄膜產能將大幅提升，產品效能與應用場景進一步拓寬。"
-    },
-    {
-      "id": "4911712",
-      "time": "2026-06-02 10:23:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲議會將舉行特別會議 討論表決歐美貿易協議】歐洲議會國際貿易委員會定於6月2日舉行特別會議，就歐盟-美國貿易協議的立法文字相關臨時協議進行討論和投票表決。歐盟與美國於2025年7月達成貿易協議。歐洲議會與歐盟理事會今年5月就歐盟-美國貿易協議的立法文字達成臨時協議，在歐盟委員會原提案基礎上強化多項條款，以應對歐美貿易關係中的不確定性。相關立法文字預計將提交6月中旬舉行的歐洲議會全會進行最終表決，隨後由歐盟理事會批准。"
     }
   ]
 }
