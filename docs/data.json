@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-09 21:28:15",
-  "count": 19008,
+  "updated": "2026-06-09 21:32:20",
+  "count": 18994,
   "items": [
+    {
+      "id": "4926345",
+      "time": "2026-06-09 21:31:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CECO環保股價上漲7.6%，此前公司在完成收購後上調2026年營收預測。"
+    },
+    {
+      "id": "4926344",
+      "time": "2026-06-09 21:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報88.56美元/桶。"
+    },
+    {
+      "id": "4926343",
+      "time": "2026-06-09 21:31:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "諾瓦倫特股價大漲38.8%，此前葛蘭素史克（GSK）宣佈將以106億美元收購該公司。"
+    },
+    {
+      "id": "4926342",
+      "time": "2026-06-09 21:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "UNITED NATURAL 股價暴跌 20%，創下自 2023 年 9 月以來最大單日跌幅。"
+    },
+    {
+      "id": "4926341",
+      "time": "2026-06-09 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.44%，標普500指數漲0.53%，納指漲0.76%。斯馬克漲4.25%，美光漲3.87%，林氏研究漲3.82%，閃迪漲3.78%。“七姐妹”方面：谷歌漲1.24%，特斯拉漲1.20%，英偉達漲1.18%，亞馬遜漲0.70%，Meta Platforms漲0.54%，蘋果跌0.74%，微軟跌0.98%。"
+    },
+    {
+      "id": "mkt:019eac94-18a3-7ddc-a5f4-ec4ffe9694e3",
+      "time": "2026-06-09 21:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "US stocks opened higher: Dow +0.3%, S&P 500 +0.5%, Nasdaq +0.7%. Qualcomm (QCOM.O) rose 0.3% after Nvidia CEO Jensen Huang urged investors to buy the shares. Broadcom (AVGO.O) gained 1.1% on plans to partner with Blackstone and Apollo to launch an AI compute platform. Philadelphia Semiconductor Index jumped 1.98%. Nasdaq Golden Dragon China Index up 0.8%."
+    },
+    {
+      "id": "4926340",
+      "time": "2026-06-09 21:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農發行在陝西多家分行被罰，有貸款貸前調查不到位等違規】近日，因固定資產貸款貸前調查不到位等違規行為，中國農業發展銀行陝西省分行、中國農業發展銀行銅川市分行、中國農業發展銀行岐山縣支行、中國農業發展銀行洋縣支行分別被罰款，相關責任人員被警告。（澎湃）"
+    },
+    {
+      "id": "4926339",
+      "time": "2026-06-09 21:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，萬國資料漲6.80%，康迪車業漲2.84%，新氧漲2.19%，京東漲1.99%，百度漲2.12%。"
+    },
+    {
+      "id": "4926338",
+      "time": "2026-06-09 21:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8596.00元。"
+    },
+    {
+      "id": "4926337",
+      "time": "2026-06-09 21:29:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守92美元/桶，日內跌2.43%。"
+    },
+    {
+      "id": "mkt:019eac91-db75-7ddc-a5f4-e064b40c3a2d",
+      "time": "2026-06-09 21:28:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Three sources said US Energy Secretary wright met them before a closed-door meeting of House Republicans. Wright said he expects fuel prices to eventually fall."
+    },
+    {
+      "id": "4926336",
+      "time": "2026-06-09 21:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻璃期貨維持窄幅震盪 關注需求復甦情況以及原燃料成本變動對價格的支撐力度】今日玻璃期貨維持窄幅震盪走勢，空頭資金已連續四日主動增倉施壓，期價跌破1000元整數關口，並創出該合約上市以來新低。目前市場對玻璃基本面整體信心不足，多頭僅依靠環保政策等有限利好支撐盤面。短期或繼續偏弱執行，還需關注需求復甦情況以及原燃料成本變動對價格的支撐力度。短期來看，浮法玻璃市場預計呈現弱勢震盪態勢，下游需求端復甦動能不足，市場觀望情緒較濃。 (玻多多)"
+    },
     {
       "id": "4926335",
       "time": "2026-06-09 21:27:12",
@@ -174977,251 +175088,6 @@
         "市場"
       ],
       "text": "博通股價大漲5%，創下歷史新高。"
-    },
-    {
-      "id": "4913124",
-      "time": "2026-06-02 21:32:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "MARVELL股價飆升18%，創下3月6日以來最大單日漲幅，並重新整理紀錄。"
-    },
-    {
-      "id": "4913123",
-      "time": "2026-06-02 21:31:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Alphabet股價下跌3.6%，因公司計劃為人工智慧業務目標募資800億美元。"
-    },
-    {
-      "id": "te:markets:555788",
-      "time": "2026-06-02 21:31:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Netflix Stock Price Hits 13-week Low — Netflix shares decreased to 85.09 USD, the lowest since February 2026. Over the past 4 weeks, Netflix lost 5.78%, and in the last 12 months, it decreased 29.65%."
-    },
-    {
-      "id": "4913122",
-      "time": "2026-06-02 21:31:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。 當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。 歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。 歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）"
-    },
-    {
-      "id": "mkt:019e8888-5702-7cc2-b75f-ffc171832d20",
-      "time": "2026-06-02 21:31:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "June 2 (Tue) open: Dow Jones Industrial Average down 96.15 pts (-0.19%) at 50,982.73; S&P 500 down 13.24 pts (-0.17%) at 7,586.72; Nasdaq Composite down 69.78 pts (-0.26%) at 27,017.03."
-    },
-    {
-      "id": "te:markets:555787",
-      "time": "2026-06-02 21:31:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Arista Networks Stock Price Hits 4-week High — Arista Networks shares increased to 172.92 USD, the highest since May 2026. Over the past 4 weeks, Arista Networks lost 0.83%, and in the last 12 months, it increased 90.68%."
-    },
-    {
-      "id": "mkt:019e8887-ff4a-799a-9e6b-0ad5302fda53",
-      "time": "2026-06-02 21:31:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "MRVL.O",
-        "Impact bullish",
-        "STM.O",
-        "AVGO.O"
-      ],
-      "text": "【U.S. stocks open lower; Marvell jumps 16%】At the open, the Dow fell 0.4%, the S&P 500 was down 0.18% and the Nasdaq slipped 0.2%. NVIDIA (NVDA.O) rose 0.6% after saying its Spectrum‑X Ethernet silicon photonics technology is now in full production. Marvell Technology (MRVL.O) jumped 16%; Jensen Huang said he sees it as a potential next trillion‑dollar company. Broadcom (AVGO.O) gained 5% after Morgan Stanley maintained a buy rating and raised its price target. STMicroelectronics climbed 10% after raising its full‑year data center revenue guidance."
-    },
-    {
-      "id": "4913121",
-      "time": "2026-06-02 21:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，中進醫療漲17.62%，禾賽科技漲6.50%，理想汽車漲6.95%，摯文集團漲3.59%，阿里巴巴漲5.26%。"
-    },
-    {
-      "id": "mkt:019e8887-c3d3-7cc2-b75f-eb98f5a9edb4",
-      "time": "2026-06-02 21:30:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index falls as larger-vessel rates decline】The Baltic Dry Index fell on Tuesday as Capesize and Panamax rates weakened. The BDI dropped 17 points, or 0.53%, to 3,205. The Capesize index fell 37 points, or 0.7%, to 5,459; Capesize daily earnings declined $338 to $46,008. The Panamax index fell 23 points to 2,321; Panamax daily earnings dropped $206 to $20,889. The Supramax index rose 7 points to 1,577."
-    },
-    {
-      "id": "4913120",
-      "time": "2026-06-02 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.41%，標普500指數跌0.18%，納指跌0.23%。Atlassian跌7.63%，財捷跌6.34%，Strategy跌5.46%，Carvana Co.跌5.07%，The Trade Desk跌4.57%，工時公司跌4.47%。“七姐妹”方面：英偉達漲0.86%，特斯拉漲0.82%，蘋果漲0.40%，Meta Platforms漲0.34%，亞馬遜跌1.33%，微軟跌2.68%，谷歌跌2.72%。"
-    },
-    {
-      "id": "4913119",
-      "time": "2026-06-02 21:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月3日0時至6日24時，渤海部分海域開展軍事行動，禁止駛入。"
-    },
-    {
-      "id": "mkt:019e8887-8106-7cc2-b75f-e06bef0f99bf",
-      "time": "2026-06-02 21:30:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's first central-local co-built embodied engineering robotics innovation center begins operations】June 1 in Chengdu: Zhicheng Ruijin Robot Technology Co. Ltd opened and the Engineering Embodied Intelligent-Scenario Alliance was signed and unveiled, marking the launch of the country's first central-local co-built embodied engineering robotics innovation center in physical operation. Zhicheng Ruijin is one of a series of “Zhicheng” firms set up by PowerChina's Chengdu Institute to develop strategic emerging industries; it was formed by the Chengdu Institute together with the Chengdu Humanoid Robot Innovation Center, Hydropower Seventh Bureau and Jinjiang Development Group."
-    },
-    {
-      "id": "mkt:019e8887-7d42-7cc2-b75f-dabd73197ee4",
-      "time": "2026-06-02 21:30:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military operations close parts of Bohai Sea】Qinhuangdao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed to navigation for military operations from June 3 00:00 to June 6 24:00 local time; entry is prohibited."
-    },
-    {
-      "id": "4913118",
-      "time": "2026-06-02 21:30:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全國首家央地共建具身工程機器人創新中心實體運營】據中國電建訊息，6月1日，智成睿錦機器人科技有限公司（以下簡稱“智成睿錦”）在成都正式開業，工程具身智慧場景聯盟同步簽約揭牌。這意味著全國首家央地共建具身智慧工程機器人創新中心實體運營載體落地執行。智成睿錦是中國電建所屬成都院佈局戰略性新興產業成立的系列“智成”公司之一，由成都院牽頭，聯合成都人形機器人創新中心、水電七局、錦江發展集團共同組建。"
-    },
-    {
-      "id": "mkt:019e8887-2e3a-7cc2-b75f-d49ba6b8b6ef",
-      "time": "2026-06-02 21:30:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively."
-    },
-    {
-      "id": "mkt:019e8887-39e6-799a-9e6a-f70d9720ae3e",
-      "time": "2026-06-02 21:30:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively."
-    },
-    {
-      "id": "4913117",
-      "time": "2026-06-02 21:30:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Abivax美股盤前跌超40%】Abivax美股盤前跌超40%，現報77.8美元。"
-    },
-    {
-      "id": "4913116",
-      "time": "2026-06-02 21:30:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國稱 美方就分行業關稅展開談判至關重要。"
-    },
-    {
-      "id": "mkt:019e8886-cbcd-7cc2-b75f-c8ff38a78042",
-      "time": "2026-06-02 21:29:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Canada sent formal letters to Mexico and the United States to launch a review of the United States–Mexico–Canada Agreement (USMCA), saying talks with the United States to resolve sectoral tariffs will be crucial."
-    },
-    {
-      "id": "4913115",
-      "time": "2026-06-02 21:29:34",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國農業信心指數5月降至119。"
-    },
-    {
-      "id": "mkt:019e8886-6e60-799a-9e6a-e5af8cda507f",
-      "time": "2026-06-02 21:29:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Vito Energy Group's Bahrain head said the risk of a U.S. ban on crude oil or refined product exports is extremely low."
-    },
-    {
-      "id": "4913114",
-      "time": "2026-06-02 21:29:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：上午11點召開關於第301條的會議。"
-    },
-    {
-      "id": "4913113",
-      "time": "2026-06-02 21:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大已就《美墨加協定》（USMCA）審議啟動事宜向墨西哥和美國發出正式信函，加方稱與美方就解決行業關稅問題展開磋商至關重要。"
-    },
-    {
-      "id": "4913112",
-      "time": "2026-06-02 21:28:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）"
-    },
-    {
-      "id": "4913111",
-      "time": "2026-06-02 21:28:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "維多公司巴林負責人湯姆·貝克：認為美國原油或成品油出口禁令的風險極低。"
-    },
-    {
-      "id": "mkt:019e8885-4581-7cc2-b75f-bd3950220918",
-      "time": "2026-06-02 21:28:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada’s prime minister Carney said the country proposes extending the US‑Mexico‑Canada Agreement (USMCA) for 16 years."
     }
   ]
 }
