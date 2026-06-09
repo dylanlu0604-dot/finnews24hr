@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-09 12:30:17",
-  "count": 19186,
+  "updated": "2026-06-09 12:34:07",
+  "count": 19181,
   "items": [
+    {
+      "id": "4925185",
+      "time": "2026-06-09 12:33:05",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哈薩克央行：五月哈薩克黃金與外匯儲備淨額為655.37億美元，環比變動為0.0%。"
+    },
+    {
+      "id": "4925184",
+      "time": "2026-06-09 12:30:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本政府國債（JGB）收益率下跌1個基點，至3.625%。"
+    },
+    {
+      "id": "mkt:019eaaa4-d1dd-7eec-b848-88f00b43ec8f",
+      "time": "2026-06-09 12:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index extended intraday gains to 7%, trading at 8,010.40."
+    },
     {
       "id": "4925183",
       "time": "2026-06-09 12:28:50",
@@ -176891,84 +176917,6 @@
         "AI Revolution"
       ],
       "text": "【Yuejiang releases Kongyi DobotWAM embodied large model】Yuejiang said it released a self-developed embodied large model, Kongyi DobotWAM. The model completed four task suites on the embodied intelligence benchmark LIBERO — LIBERO-Spatial, LIBERO-Object, LIBERO-Goal and LIBERO-10 — covering spatial-relation understanding, object generalization, goal-instruction comprehension and long-horizon task execution, with an average success rate of 99.25%."
-    },
-    {
-      "id": "4911870",
-      "time": "2026-06-02 12:34:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【颱風“薔薇”來襲 日本取消數百架次航班】受颱風“薔薇”影響，日本航空運輸方面已決定從2日至3日取消大量航班。據瞭解，截至2日8時，日本航空（JAL）已決定取消170個航班。此外，東京羽田機場269個航班3日將停飛，預計影響超過3.1萬人。東日本旅客鐵道公司表示，3日以首都圈地區為主，列車可能出現晚點或停運。"
-    },
-    {
-      "id": "te:economy:555589",
-      "time": "2026-06-02 12:33:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Export Growth Hits Highest Since 2022 — Indonesia's exports surged 21.98% year-on-year to USD 25.30 billion in April 2026, rebounding sharply from a 3.1% decline in March and far exceeding market forecasts of 8.8%. It marked the strongest growth since August 2022."
-    },
-    {
-      "id": "mkt:019e869b-6cc0-7dd4-a7a6-dd5e57b66b9b",
-      "time": "2026-06-02 12:33:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Statistics Indonesia said Indonesia exported 7.72 mln tonnes of crude and refined palm oil in January–April, while coal exports totaled 114.54 mln tonnes."
-    },
-    {
-      "id": "4911869",
-      "time": "2026-06-02 12:33:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）臨時停牌至當日收市。"
-    },
-    {
-      "id": "mkt:019e869b-30a9-7dd4-a7a6-d4d602c7d342",
-      "time": "2026-06-02 12:32:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai Stock Exchange suspends secondary-market trading in INVESCO Great Wall Global Semiconductor Chip Industry Equity Fund (QDII-LOF)】At the midday close on June 2, 2026 the fund's last secondary-market trade was 4.338 yuan; NAV was 3.2359 yuan as of May 29, 2026, implying a c.34% market premium. The Shanghai Stock Exchange ordered a suspension from the afternoon open on June 2 through the close of the same day. Redemptions will continue during the suspension. Investors are warned to monitor secondary-market premium risk and exercise caution."
-    },
-    {
-      "id": "4911868",
-      "time": "2026-06-02 12:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞統計局：1-4月印尼出口粗棕櫚油及精煉棕櫚油總計772萬公噸。"
-    },
-    {
-      "id": "mkt:019e869a-6430-7dd4-a7a6-ca9ad8acc050",
-      "time": "2026-06-02 12:32:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "YONHAP reports SK Group chairman Chey Tae-won met NVIDIA (NVDA.O) CEO Jensen Huang on the 1st to discuss cooperation on AI memory and storage chips."
-    },
-    {
-      "id": "4911867",
-      "time": "2026-06-02 12:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼4月出口額為253億美元；印尼4月出口較上年同期增長22.0%，媒體調查預估為增長8.8%。"
     }
   ]
 }
