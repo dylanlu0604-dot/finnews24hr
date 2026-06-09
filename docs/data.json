@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-10 05:01:10",
-  "count": 18706,
+  "updated": "2026-06-10 05:05:02",
+  "count": 18707,
   "items": [
+    {
+      "id": "mkt:019eae33-79da-7ff4-a101-0fef47cd02e7",
+      "time": "2026-06-10 05:04:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it detected projectiles launched from Lebanon toward multiple settlements in northern Israel; the IDF Home Front Command issued precautionary orders and authorities instructed residents to enter shelters or safe rooms when alarms sound."
+    },
+    {
+      "id": "mkt:019eae33-64ac-7ff4-a101-01895def003a",
+      "time": "2026-06-10 05:04:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Lebanese state media reported Israeli airstrikes on the Lebanese towns of Touline, Srifa and Kafra."
+    },
+    {
+      "id": "4926700",
+      "time": "2026-06-10 05:03:28",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【6月10日美股成交額前20：Nuvalent獲GSK收購，股價飆升逾39%】週二美股成交額第17名Nuvalent收高39.28%，股價創歷史新高，成交63.54億美元。訊息面上，葛蘭素史克宣佈同意以106億美元的價值收購Nuvalent。宣告指，GSK將以每股124美元現金收購Nuvalent，較後者週一（8日）收市價溢價40%。交易尚待監管部門批准，預計將於第三季度完成。Nuvalant專為腫瘤患者（包括肺癌）設計小分子及精準靶向療法。"
+    },
+    {
+      "id": "4926699",
+      "time": "2026-06-10 05:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車風投部門擬收購初創企業皮克能源股權，聯合研發儲能電池。"
+    },
+    {
+      "id": "4926698",
+      "time": "2026-06-10 05:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果方面表示，埃博拉確診病例數已升至598例，其中死亡病例115例。"
+    },
+    {
+      "id": "4926697",
+      "time": "2026-06-10 05:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部發布宣告，防長赫格塞思將出行考察。赫格塞思明日啟程，前往關塔那摩基地及中央司令部慰問駐軍。"
+    },
     {
       "id": "4926696",
       "time": "2026-06-10 04:59:29",
@@ -172594,49 +172650,6 @@
         "XAUUSD"
       ],
       "text": "【CENTCOM says US strike disabled Botswana-flagged tanker bound for Kharg Island】CENTCOM said on June 2 US forces in the Arabian Gulf took action against a tanker bound for Iran’s Kharg Island, rendering it dead in the water. The Botswana-flagged tanker \"Lexie\" had ignored US warnings and orders multiple times within 24 hours and failed to comply with blockade measures, CENTCOM said. A US aircraft fired a Hellfire missile into the vessel’s engine room, causing loss of propulsion. CENTCOM said that since April 13, as part of measures to block maritime traffic to and from Iranian ports, US forces have disabled six commercial vessels and diverted 122 ships. A US-Iran ceasefire remains in place."
-    },
-    {
-      "id": "4913668",
-      "time": "2026-06-03 05:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱襲擊一艘伊朗相關油輪 使其失去航行能力】當地時間6月2日，美國中央司令部表示，美軍在阿拉伯灣對一艘駛向伊朗港口的油輪採取行動，並使其失去航行能力。美國中央司令部稱，懸掛波札那國旗的油輪“Lexie”號當時正駛向伊朗哈爾克島。美方表示，該船在24小時內多次無視美軍警告和指令，未遵守相關封鎖措施。隨後，一架美軍飛機向該船機艙發射一枚“地獄火”導彈，導致油輪失去動力，無法繼續前往伊朗。美國中央司令部表示，自4月13日開始實施針對伊朗港口進出海上交通的封鎖措施以來，美軍已擊癱6艘商業船隻，並對122艘船隻進行了改道處理。目前美伊停火仍在持續。（央視新聞）"
-    },
-    {
-      "id": "4913667",
-      "time": "2026-06-03 05:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify宣佈將股票回購計劃增加30億美元，於6月8日啟動擴大後的股票回購計劃。"
-    },
-    {
-      "id": "mkt:019e8a24-f466-733d-881a-8b3212b4323d",
-      "time": "2026-06-03 05:02:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Omdia said U.S. May light-vehicle sales totaled 1.50 mln units, with a seasonally adjusted annual rate (SAAR) of 16.08 mln."
-    },
-    {
-      "id": "4913666",
-      "time": "2026-06-03 05:01:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【巴西無視美國關稅威脅，市場聚焦中東和談】6月2日，拉丁美洲股市上漲，該地區的基準指數有望終結連續四天的跌勢。投資者無視了美國對巴西發出的關稅威脅，並繼續寄希望於中東取得外交進展。MSCI拉美股票指數上漲0.6%，相應的貨幣指數上漲0.4%。巴西資產無視了美國對拉美最大經濟體眾多進口商品加徵25%新關稅的威脅。巴西股指基準指數上漲1.4%，而雷亞爾兌美元有望實現連續第四個交易日的上漲。"
-    },
-    {
-      "id": "mkt:019e8a23-ee76-733d-881a-86645413006e",
-      "time": "2026-06-03 05:01:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Voting opened at 06:00 KST on June 3 for South Korea's 9th local council and local government leader elections, alongside re-elections and by-elections for National Assembly seats."
     }
   ]
 }
