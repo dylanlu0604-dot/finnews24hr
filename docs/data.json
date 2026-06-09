@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 02:37:24",
-  "count": 18705,
+  "updated": "2026-06-10 02:41:08",
+  "count": 18706,
   "items": [
+    {
+      "id": "4926624",
+      "time": "2026-06-10 02:38:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【報道：SpaceX總裁與CFO參加週二的大摩閉門午餐會，馬斯克曾短暫參與視訊會議】知情人士表示，SpaceX目前仍處於緊鑼密鼓的市場推介和吸金階段。紐約時間週二中午，SpaceX總裁Gwynne Shotwell與首席財務官Bret Johnsen悉數出席了在曼哈頓中城摩根士丹利總部舉行的一場閉門午餐會。據瞭解，在漫長的跨國路演期間，馬斯克曾短暫接入部分投資者的Zoom視訊會議親自站臺。"
+    },
+    {
+      "id": "4926623",
+      "time": "2026-06-10 02:38:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超160艘油輪滯留波斯灣 海事組織警告勿涉險闖關】據英國《勞埃德船舶日報》9日報道，自2月底地區衝突爆發以來，仍有超160艘主流油輪滯留波斯灣水域，時間已超100天。國際海事組織秘書長多明格斯當天警告，不能為了商業利益讓海員冒險透過霍爾木茲海峽。《勞埃德船舶日報》說，儘管戰事初期位於波斯灣的約四分之一油輪已陸續駛離，但近期駛離進度明顯放緩。霍爾木茲海峽附近區域安全風險仍居高不下，多數船東繼續保持高度謹慎態度，不願貿然安排船舶透過相關海域。（新華社）"
+    },
     {
       "id": "mkt:019eada9-d7a8-7225-91aa-3ce3a9bcbe0d",
       "time": "2026-06-10 02:34:09",
@@ -172600,20 +172616,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：我國外交政策的核心須始終立足美國國家利益。"
-    },
-    {
-      "id": "mkt:019e89a2-cc79-733d-8818-bed906104b02",
-      "time": "2026-06-03 02:40:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "【Microsoft launches Scout AI assistant integrated into email and calendar】Microsoft has launched Scout, an AI assistant integrated into internal email and calendar systems to operate like a 24/7 executive assistant rather than a user-visible chatbot. Charles Lamanna, head of commercial apps product development, said Scout can autonomously perform broader tasks — for example, rescheduling meetings to resolve time conflicts — and can be shared so employees can query a manager’s Scout. Microsoft did not disclose pricing; initial use will require a GitHub Copilot subscription. Lamanna said customer billing will likely be usage-based rather than a fixed fee, and Microsoft intends to add more AI products to subscription plans as model-access costs fall."
     }
   ]
 }
