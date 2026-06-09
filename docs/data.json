@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-10 06:16:37",
-  "count": 18718,
+  "updated": "2026-06-10 06:20:30",
+  "count": 18715,
   "items": [
+    {
+      "id": "te:markets:557780",
+      "time": "2026-06-10 06:16:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bermuda",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Bermuda Hit All-time High — BSX increased to an all-time high of 3660.00 Index Points. Over the past 4 weeks, Bermuda Stock Exchange Index gained 0.71%, and in the last 12 months, it increased 26.29%."
+    },
     {
       "id": "4926747",
       "time": "2026-06-10 06:15:23",
@@ -172754,46 +172766,6 @@
         "MKT News"
       ],
       "text": "RUSSIA TODAY reported an explosion in the Middle East and said a PENTAGON aircraft made an urgent departure from Israel."
-    },
-    {
-      "id": "mkt:019e8a6c-299a-733d-881b-431ddf4f2095",
-      "time": "2026-06-03 06:20:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh told staff in a memo he will approach Federal Reserve reform talks with a \"clear-eyed\" view while upholding the Fed's best traditions."
-    },
-    {
-      "id": "mkt:019e8a6b-bf0e-733d-881b-38d1d2b2e246",
-      "time": "2026-06-03 06:19:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The Tehran Times reported that the Ali Al-Salem military base in Kuwait was attacked."
-    },
-    {
-      "id": "4913711",
-      "time": "2026-06-03 06:19:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：美聯儲主席沃什在內部備忘錄中告知員工，將在承襲美聯儲優良傳統的前提下，立足客觀審慎開展改革磋商。"
-    },
-    {
-      "id": "mkt:019e8a6b-74d7-733d-881b-3175d4520174",
-      "time": "2026-06-03 06:19:18",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "People familiar with the matter said Broadcom (AVGO.O) committed to underwrite the largest portion of ANTHROPIC's record chip financing, helping reduce debt costs on the $36 billion transaction."
     }
   ]
 }
