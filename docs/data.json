@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-10 04:22:48",
-  "count": 18717,
+  "updated": "2026-06-10 04:26:37",
+  "count": 18718,
   "items": [
+    {
+      "id": "mkt:019eae0e-fec5-7225-91ab-3abb34dcfaf1",
+      "time": "2026-06-10 04:24:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump downplays US Apache crash, says blockade making Iran \"very poor\"】In a Wall Street Journal phone interview on Tuesday, Trump said the blockade is making Iran \"very poor\" and that he will maintain it as needed. He downplayed a US Apache helicopter crash as \"no big deal,\" saying the pilots were safe. Trump earlier asserted Iran shot down the Apache during a patrol over the Strait of Hormuz and said the US must respond. A CENTCOM spokesman said the Apache crew were in the water for about two hours before being rescued after a nighttime crash; a senior US official called their escape \"miraculous.\""
+    },
+    {
+      "id": "4926680",
+      "time": "2026-06-10 04:24:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "KALSHI：KALSHI平臺上每個市場都設有舉報工具，供使用者提交舉報線索。"
+    },
+    {
+      "id": "4926679",
+      "time": "2026-06-10 04:24:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "KALSHI：針對內幕交易或操縱風險較高的市場，我們現在要求交易者在參與前提供就業資訊。"
+    },
+    {
+      "id": "4926678",
+      "time": "2026-06-10 04:22:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普淡化直升機遇襲事件，稱這“算不上什麼大事”】美國總統特朗普淡化伊朗在霍爾木茲海峽上空擊落美軍直升機一事，他表示，這“算不上什麼大事”，並稱“飛行員安然無恙”。"
+    },
     {
       "id": "4926677",
       "time": "2026-06-10 04:20:36",
@@ -172709,37 +172747,6 @@
         "MKT News"
       ],
       "text": "Sources: Fed Chair Kevin Warsh has tapped Paul Winfree and Daniel Heil to assist with policy analysis and planning."
-    },
-    {
-      "id": "4913643",
-      "time": "2026-06-03 04:25:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：美聯儲主席沃什選擇PAUL WINFREE、DANIEL HEIL擔任美聯儲顧問，他們將以臨時合同人員身份任職。"
-    },
-    {
-      "id": "te:markets:555849",
-      "time": "2026-06-03 04:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 Closes Above 7600 — US stocks rose to new records on Tuesday as more strength from the AI economy offset the ongoing impasse between the US and Iran. The S&P 500 closed above 7600 for the first time while the Dow was up more than 200 points. Heavyweight chip producers and companies in the AI infrastructure space were sharply higher to extend the momentum that has carried equity indices this year. Broadcom jumped 5% ahead of its earnings tomorrow, while Lan Research, Qualcomm, and On Semiconductors added over 5% as the higher capacity for wafers by SK Hynix improved the output forecast for the sector. Meanwhile, HPE surged 19% on a AI-fuelled guidance upgrade, and Marvell surged 32% after Nvidia CEO Huang stated it could be the next trillion dollar company. On the other hand, Alphabet dropped nearly 4% after announcing an $80 billion stock sale to fund AI expansion, including a $10 billion investment from Berkshire Hathaway."
-    },
-    {
-      "id": "mkt:019e8a02-fb1d-733d-8819-a3a599ca2953",
-      "time": "2026-06-03 04:25:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Sources said Fed Chair Kevin Warsh has appointed two senior conservative policy advisers to serve as interim advisers."
     }
   ]
 }
