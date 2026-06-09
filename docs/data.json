@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-09 10:03:05",
-  "count": 19164,
+  "updated": "2026-06-09 10:07:02",
+  "count": 19163,
   "items": [
+    {
+      "id": "mkt:019eaa20-bfb1-7997-8099-7c36fb8e0c4b",
+      "time": "2026-06-09 10:05:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal front-month contract plunged 7.99% intraday to 1,340.50 yuan/ton, hitting the daily limit down."
+    },
+    {
+      "id": "4924999",
+      "time": "2026-06-09 10:05:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行表示，10月16日特別假期僅限曼谷。"
+    },
+    {
+      "id": "4924998",
+      "time": "2026-06-09 10:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南省科學技術協會副主席彭山接受審查調查】中央紀委國家監委網站6月9日通報，據雲南省紀委監委訊息：雲南省科學技術協會黨組成員、副主席彭山涉嫌嚴重違紀違法，目前正接受雲南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4924997",
+      "time": "2026-06-09 10:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦炭連續主力合約日內跌4%，現報1960.50元。"
+    },
+    {
+      "id": "4924996",
+      "time": "2026-06-09 10:04:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念持續走強，太辰光觸及漲停】CPO概念持續走強，太辰光觸及漲停，長芯博創、聯特科技、中富電路、仕佳光子、新易盛、亨通光電等跟漲。"
+    },
+    {
+      "id": "4924995",
+      "time": "2026-06-09 10:04:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內跌2%，現報1804.00元。"
+    },
+    {
+      "id": "4924994",
+      "time": "2026-06-09 10:04:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌7%，現報1355.00元。"
+    },
+    {
+      "id": "4924993",
+      "time": "2026-06-09 10:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元上漲0.2%，報0.7059。"
+    },
+    {
+      "id": "mkt:019eaa1f-3c78-7997-8099-741546ee4c3f",
+      "time": "2026-06-09 10:03:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Multiple indicators rebound; China economy stabilizes and improves in May】NDRC National Information Center on June 9 said leading indicators point to steady improvement in May as coordinated macro policy support takes effect. Port equipment operating rates rose about 9 ppts YoY, the largest gain among construction machinery categories, indicating sustained port logistics demand and resilient external trade. A merchant operating-activity index increased for a third consecutive month; offline consumer payments rose 2.4% YoY in May, accelerating 0.7 ppts MoM, led by consumer electronics, dining and transportation. Investment in frontier areas such as AI and humanoid robots jumped roughly fivefold YoY; contract award amounts for computing-power, data and network infrastructure projects roughly doubled YoY."
+    },
+    {
+      "id": "4924992",
+      "time": "2026-06-09 10:03:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行宣佈10月16日為特別假日。"
+    },
+    {
+      "id": "mkt:019eaa1f-378b-7997-8099-6edc87615dd0",
+      "time": "2026-06-09 10:03:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX rose 2%."
+    },
+    {
+      "id": "4924991",
+      "time": "2026-06-09 10:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果客服回應調休鬧鐘】6月9日凌晨，蘋果召開WWDC26大會，帶來iOS 27等系統更新。有網友發現，iOS 27的鬧鐘出現了工作日（含調休）選項，疑似支援中國大陸節假日調休鬧鐘。對此，蘋果客服表示，目前尚未有細節文件解釋節假日調休這一鬧鐘設定，iOS 27還不會這麼快正式釋出，需要實測及查詢資料後給出回應。"
+    },
+    {
+      "id": "4924990",
+      "time": "2026-06-09 10:03:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲2%至44,373.65點。"
+    },
+    {
+      "id": "te:markets:557428",
+      "time": "2026-06-09 10:02:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Rebound as Trade Data Looms — The Shanghai Composite rose 0.2% to 3,965 on Tuesday, while the Shenzhen Component advanced 1.2%, with both benchmarks rebounding from the previous session's losses as investors looked ahead to key trade data due later in the day. Market expectations point to a trade surplus of $92.1 billion, with export growth accelerating to 15% year-on-year from 14.1% in April, while imports are forecast to eased to 25%, from 25.3%. Sentiment was further supported by growing optimism over potential de-escalation in the Middle East after Iran and Israel agreed to suspend hostilities. Both benchmarks also drew support from a rebound in heavyweight technology shares following a slump in the prior session, led by Zhongji Innolight (2%), Eoptolink Technology (3.5%), and NAURA Technology (3.6%). Gains were also seen in Industrial and Commercial Bank of China (2.2%), PetroChina (3.2%), and China Shenhua Energy (4.6%)."
+    },
     {
       "id": "4924989",
       "time": "2026-06-09 10:01:54",
@@ -176612,145 +176744,6 @@
         "Brent"
       ],
       "text": "【Takaichi urges Iran to show maximum flexibility to reach agreement quickly】Japanese Prime Minister Takaichi told Iranian President Pezeshkian in their third phone call that all vessels, regardless of nationality—including Japanese and other Asian ships—should be able to transit the Strait of Hormuz safely. She urged Iran to show maximum flexibility to reach a swift agreement and reiterated that de‑escalation through dialogue is essential. Japan, with limited domestic energy resources, is highly dependent on Middle East oil; prolonged regional disruption would raise downside risk to Japan’s economy and energy security."
-    },
-    {
-      "id": "4911683",
-      "time": "2026-06-02 10:06:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "APTIV宣佈與英偉達擴大合作，共同打造可用於生產環境的邊緣人工智慧技術。"
-    },
-    {
-      "id": "mkt:019e8615-20a8-7aa2-99e9-1d7b83094a2e",
-      "time": "2026-06-02 10:06:24",
-      "tags": [
-        "MKT News",
-        "000625.SZ",
-        "Impact bullish"
-      ],
-      "text": "Mainland A-share auto OEM sector rose; Changan Automobile up 5.7%, SERES up 3.87%, Sinotruk up 2.68%."
-    },
-    {
-      "id": "4911682",
-      "time": "2026-06-02 10:06:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG股價暴跌17%。"
-    },
-    {
-      "id": "4911681",
-      "time": "2026-06-02 10:05:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量909億元。"
-    },
-    {
-      "id": "mkt:019e8613-db4a-7aa2-99e9-107c7f844369",
-      "time": "2026-06-02 10:05:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan 10-year government bond yield rose 2.5 bps to 2.655%."
-    },
-    {
-      "id": "4911680",
-      "time": "2026-06-02 10:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國資料：中國車在韓市場首超日系】據韓聯社6月1日報道，韓國進口車協會當天披露的資料顯示，4月在韓新註冊登記的進口車中，中國產汽車排名第三，史上首次趕超日本產汽車。資料顯示，4月韓國進口新車註冊量中，歐洲產汽車以1.68萬輛排名第一，其後依次為美國產（1.36萬輛）、中國產（2023輛）和日本產（1974輛）等。韓聯社稱，這是中國產汽車在韓國進口車市場首次超過日本產汽車。韓媒普遍將此次排名視為韓國進口車市場格局轉變的重要訊號。《韓國經濟》對此報道稱，中國汽車品牌正在韓國市場快速提升存在感。（環球時報）"
-    },
-    {
-      "id": "mkt:019e8613-9753-7aa2-99e9-0bea30590199",
-      "time": "2026-06-02 10:04:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea data: Chinese cars overtake Japanese in import registrations for first time】YONHAP reported June 1 that Korea Import Car Association data show Chinese-made cars ranked third in April new imported-car registrations in South Korea, surpassing Japanese-made cars for the first time. April import registrations: European-made 16,800 vehicles; U.S.-made 13,600; Chinese-made 2,023; Japanese-made 1,974. South Korean outlets described the result as a signal of shifting import-market dynamics; Korea Economic said Chinese brands are rapidly increasing their presence."
-    },
-    {
-      "id": "mkt:019e8613-9316-7aa2-99e9-022279e6a1c3",
-      "time": "2026-06-02 10:04:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. equity index futures were lower: S&P 500 futures down 0.50%, Nasdaq-100 futures down 0.75%, Dow futures down 0.47%."
-    },
-    {
-      "id": "4911679",
-      "time": "2026-06-02 10:04:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下行2.5個基點，報2.655%。"
-    },
-    {
-      "id": "4911678",
-      "time": "2026-06-02 10:04:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨跌幅擴大至0.5%，納斯達克指數期貨下跌0.75%。"
-    },
-    {
-      "id": "4911677",
-      "time": "2026-06-02 10:04:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念逆勢走強 亨通光電漲超9%續創歷史新高】光纖概念盤中逆勢走強，亨通光電漲超9%，續創歷史新高，總市值突破2000億，長飛光纖、匯源通訊、長盈通、永鼎股份、中天科技跟漲。"
-    },
-    {
-      "id": "4911676",
-      "time": "2026-06-02 10:03:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "騰訊控股(00700.HK)短線拉昇，現漲超3%。"
-    },
-    {
-      "id": "4911675",
-      "time": "2026-06-02 10:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數跌幅擴大至1.88%。"
-    },
-    {
-      "id": "mkt:019e8612-44b8-7aa2-99e8-fe35f9780264",
-      "time": "2026-06-02 10:03:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bullish"
-      ],
-      "text": "Tencent Holdings (00700.HK) rose sharply in intraday trade, up more than 3%."
-    },
-    {
-      "id": "4911674",
-      "time": "2026-06-02 10:03:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：騰訊接近為微信使用者推出AI助手。"
     }
   ]
 }
