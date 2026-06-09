@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-09 14:10:41",
-  "count": 19194,
+  "updated": "2026-06-09 14:14:38",
+  "count": 19187,
   "items": [
+    {
+      "id": "te:economy:557513",
+      "time": "2026-06-09 14:13:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Finnish Trade Gap Slightly Narrows in April — Finland recorded a trade deficit of EUR 0.33 billion in April 2026, slightly narrowing from EUR 0.34 billion in the corresponding month of the previous year, preliminary estimates showed. Exports grew by 19.8% year-on-year to EUR 7.19 billion, driven by higher sales to both EU (+7.6%) and non-EU countries (+39.2%). Shipments to Sweden (+20.6%), the US (+79.6%), China (++21.5%), Norway (+34.9%), and Estonia (+23%). Meanwhile, imports rose at a slightly softer 18.6% to EUR 7.51 billion. It should be noted that imports from EU countries are now compiled using a new methodology starting January 2026, so only total values are comparable with those of 2025. Finnish Customs will not publish other annual change data for imports in 2026. Considering the first four months of 2026, the country’s trade deficit expanded to EUR 1.39 billion from EUR 1.02 billion in the same period a year ago."
+    },
+    {
+      "id": "4925319",
+      "time": "2026-06-09 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.2%，報8604.20點。"
+    },
+    {
+      "id": "4925317",
+      "time": "2026-06-09 14:12:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宣告：土耳其與加拿大同意啟動自由貿易協定預備性磋商】週二，兩國貿易部長髮布聯合部長宣告表示，土耳其與加拿大已同意啟動預備性磋商，以期達成自由貿易協定。宣告指出，土耳其貿易部長厄梅爾・博拉特與加拿大國際貿易部長曼林德・錫杜舉行會談，旨在深化兩國穩固且持續發展的經貿夥伴關係。宣告提到：“雙方同意啟動自由貿易協定相關預備磋商，此舉體現出兩國致力於充分挖掘雙邊商貿合作潛力的共同願景。”雙方認為能源領域具備廣闊合作空間，並商定探索可再生能源與核能領域的合作機遇，同時研究加拿大坎杜核電技術助力土耳其能源多元化發展的可行性。"
+    },
+    {
+      "id": "te:economy:557512",
+      "time": "2026-06-09 14:12:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Germany Imports Hit Highest Since November 2022 — Germany’s imports rose 1.2% month-on-month to €122.1 billion in April 2026, the highest level since November 2022. However, growth slowed markedly from a downwardly revised 4.5% increase in the previous month. Imports from EU member states edged up 0.4%, supported by a 2.2% rise in purchases from euro-area countries, which offset a 3.4% decline in imports from non-euro-area EU members. Meanwhile, imports from non-EU countries increased 2.0%, driven by higher shipments from the U.S. (7.6%) and China (0.2%), despite a 4.7% drop in purchases from the United Kingdom. On an annual basis, total imports were 6.3% higher than a year earlier, though the pace eased from a 10.4% increase in March. For the January–April period, Germany’s imports rose 2.8% from the same period in 2025 to €468.4 billion, reflecting resilient domestic demand despite ongoing economic uncertainty."
+    },
+    {
+      "id": "4925316",
+      "time": "2026-06-09 14:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里雲：DMS安全協同包年包月付費包階梯價格調整】阿里雲公告，DMS安全協同包年包月付費包採用階梯價格調整。安全協同階梯價格調整明細，1-10個例項安全協同價格不變，穩定變更、敏感資料保護價格不變。本次階梯定價採用“全額區間計價”模式，即：根據購買的總例項數量所落入的價格區間，所有例項均按該區間的統一單價進行計費，不採用分段累加方式。（阿里雲）"
+    },
+    {
+      "id": "4925315",
+      "time": "2026-06-09 14:11:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "一份宣告顯示，土耳其與加拿大已同意啟動自由貿易探索性談判。"
+    },
+    {
+      "id": "te:economy:557511",
+      "time": "2026-06-09 14:10:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Exports",
+        "Importance 2"
+      ],
+      "text": "German Exports Hit Near 3-1/2-Year High — Germany’s exports unexpectedly grew by 0.9% month-on-month to a near 3½-year high of €136.6 billion in April 2026, accelerating from a downwardly revised 0.3% rise in March and beating market expectations of a 0.3% decline. Shipments to EU member states increased 1.0%, with exports to the Eurozone edging up 0.1% and those to non-Eurozone countries rising 3.0%. Exports to third countries also climbed 0.7%, supported by a 1.8% increase in shipments to the US, Germany’s largest export market."
+    },
+    {
+      "id": "mkt:019eab01-5fa3-7ee8-a200-a7b76e7746c0",
+      "time": "2026-06-09 14:10:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai Composite up over 1% intraday, nears 4,000】Shanghai Composite up over 1% intraday, nearing 4,000. MLCC, semiconductors, PCB, advanced packaging and glass/fiberglass led gains; oilfield services and coal lagged. On the Shanghai market about 3,000 stocks advanced and 2,300 declined."
+    },
+    {
+      "id": "mkt:019eab01-1c24-7ee8-a200-9db2322a88e9",
+      "time": "2026-06-09 14:10:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal futures main contract again hit the daily limit down, sliding 8.00% to 1,340.5 yuan/ton as sell orders rose to about 17,000 contracts. Coke 2609 contract weakened intraday, down 5.41% to 1,932 yuan/ton; turnover roughly 7.061 billion yuan; open interest fell by nearly 2,900 contracts, leaving positions modestly lower."
+    },
+    {
+      "id": "4925314",
+      "time": "2026-06-09 14:10:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤期貨主力合約再次封跌停板，跌幅為8.00%，現報1340.5元/噸，賣單量增加至1.7萬手。焦炭2609盤中明顯走弱，跌幅擴大至5.41%，價格下探1932元/噸，成交額約70.61億元；日內減倉近2900手，持倉小幅回落。"
+    },
     {
       "id": "4925313",
       "time": "2026-06-09 14:10:06",
@@ -176916,155 +177017,6 @@
         "公司"
       ],
       "text": "【上海：支援基金登記、估值核算、基金評價、諮詢資訊等資產管理服務機構提升能力】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，提升中介和服務機構能力。支援基金登記、估值核算、基金評價、諮詢資訊等資產管理服務機構提升能力。支援法律服務、會計審計、信用評級、資產評估等中介機構對接國際標準，為境外資產管理機構“引進來”、境內資產管理機構“走出去”提供高質量服務。支援商業銀行、證券公司等設立託管中心、託管專營機構專門開展託管業務，提供績效評估、歸因分析、證券借貸等多元衍生服務。在跨境領域探索試點多級託管機制。"
-    },
-    {
-      "id": "4912001",
-      "time": "2026-06-02 14:14:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海：引入和培育資產管理細分領域龍頭機構，引導機構間加強協同合作，提高資產管理能力】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，加大力度引入和培育各類資產管理機構。引入和培育資產管理細分領域龍頭機構，引導機構間加強協同合作，提高資產管理能力。支援“一帶一路”沿線國家和地區機構在滬參與設立資產管理機構並開展投資。支援外資資產管理機構發揮境外股東優勢，探索特色發展路徑。鼓勵支援更多符合條件的外資資產管理機構申請證券投資基金託管、銀行間債券市場主承銷商等資格，參與國債期貨交易等業務。"
-    },
-    {
-      "id": "4912000",
-      "time": "2026-06-02 14:14:16",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【上海：推動中長期資金加大入市力度，全力營造“長錢長投”的市場生態】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，支援銀行理財公司加強與母行資源協同，提高多元化投資能力和服務水平。支援信託公司充分發揮信託制度優勢，拓展社會民生等多領域服務功能。支援證券資產管理機構加強多策略佈局，提升主動管理能力。支援公募基金從重規模向重投資者回報轉型，推出更多指數基金、浮動費率基金等創新產品。支援保險資產管理機構完善長週期考核機制，提升多資產配置能力。支援私募股權、創業投資提升專注於細分賽道與全週期賦能的投資能力，支援私募證券基金開發個性化投資策略。培育壯大自覺踐行理性投資、價值投資、長期投資理念的資產管理機構隊伍。推動中長期資金加大入市力度，全力營造“長錢長投”的市場生態。"
-    },
-    {
-      "id": "mkt:019e86f7-d6e9-7554-a339-d511aeff86cb",
-      "time": "2026-06-02 14:14:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "SSE Composite"
-      ],
-      "text": "【Shanghai aims for 55 tln yuan asset management scale by 2030, one-third of national total】Shanghai municipal government office issued guidelines to deepen Shanghai’s development as a global asset management center, aiming to grow asset management scale to 55 tln yuan by 2030 — roughly one-third of China’s total. Measures prioritize strengthening asset- and wealth-management dual engines, accelerating RMB internationalization, facilitating domestic and cross-border diversified allocation, and enhancing global allocation and risk-management functions for RMB assets to boost Shanghai’s international financial center competitiveness."
-    },
-    {
-      "id": "4911999",
-      "time": "2026-06-02 14:13:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【上海：加快推出液化天然氣期貨和期權 做好電力期貨、算力期貨研發準備】上海市人民政府辦公廳釋出印發《關於深化上海全球資產管理中心建設的若干意見》的通知。意見指出，完善期貨與衍生品風險管理工具。根據國家有關部署，加快推出液化天然氣期貨和期權，做好電力期貨、算力期貨研發準備，穩步拓展航運指數期貨產品線，研發更多代表新質生產力發展方向的新型期貨品種。推動科創50、深證100、創業板股指期貨和期權、國債期權等產品上市，拓展標準化利率衍生品掛鉤標的和期限，豐富權益類、利率類期貨和期權產品。拓展外匯市場交易貨幣和產品序列，探索開展人民幣外匯期貨交易試點，豐富匯率避險工具。"
-    },
-    {
-      "id": "4911998",
-      "time": "2026-06-02 14:13:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海：強化人民幣資產基礎設施服務功能】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，強化人民幣資產基礎設施服務功能。依託成熟的銀行間債券登記託管平臺，建設海外人民幣債券資產總登記託管機構。拓展債券、利率、匯率、信用等中央對手清算業務種類，將集中清算機制引入大宗商品和碳金融領域。進一步提高關鍵金融基礎設施韌性水平和軟硬體安全可靠性，保障資金安全、資訊保安和業務連續性。積極探索基於區塊鏈等新興技術的跨境人民幣結算機制，逐步構建數字人民幣跨境金融基礎設施體系。"
-    },
-    {
-      "id": "4911997",
-      "time": "2026-06-02 14:13:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【上海：持續提高“上海價格”影響力】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，持續提高“上海價格”影響力。推動商品期貨結算價授權更多境外交易所，支援交割服務“走出去”，持續提升大宗商品價格和黃金基準價格輻射能力，拓展“上海金”應用場景。最佳化國債上海關鍵收益率曲線形成機制，推廣應用上海銀行間同業拆放利率、存款類金融機構間債券回購利率等，完善金融價格指標體系。鼓勵境外投資者採用境內指數和估值，以境內人民幣債券指數作為業績基準和債券投資跟蹤標的。"
-    },
-    {
-      "id": "mkt:019e86f6-b635-7554-a339-cfe2a427cc72",
-      "time": "2026-06-02 14:12:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The General Office of the Shanghai Municipal People’s Government issued a notice releasing Several Opinions on Deepening the Construction of Shanghai as a Global Asset Management Center."
-    },
-    {
-      "id": "mkt:019e86f6-adbb-7554-a339-c3d37effd620",
-      "time": "2026-06-02 14:12:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch says inflation and high interest rates are putting pressure on guaranteed bond issuers in the Asia-Pacific region."
-    },
-    {
-      "id": "4911996",
-      "time": "2026-06-02 14:12:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：力爭到2030年上海資產管理規模達55萬億元 全國佔比達1/3】上海市人民政府辦公廳印發《關於深化上海全球資產管理中心建設的若干意見》的通知。通知指出，為進一步推動上海資產管理領域高質量發展，加強資產管理與財富管理雙輪驅動，加快人民幣國際化程序，暢通境內外資產多元配置，提升上海人民幣資產全球配置和風險管理功能，切實增強上海國際金融中心競爭力和影響力。力爭到2030年，上海資產管理規模達55萬億元，全國佔比達1/3。現就深化上海全球資產管理中心建設提出如下意見。"
-    },
-    {
-      "id": "4911995",
-      "time": "2026-06-02 14:12:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：支援科創屬性突出的科技型企業上市、併購 提高權益資產科技含量與資產質量】上海市人民政府辦公廳釋出印發《關於深化上海全球資產管理中心建設的若干意見》的通知。意見指出，豐富金融市場基礎產品供給。支援科創屬性突出的科技型企業上市、併購，提高權益資產科技含量與資產質量。擴大自貿離岸債、玉蘭債、熊貓債、科創債等規模，推動債券資產均衡發展。支援符合條件的資產管理機構參與不動產投資信託基金（REITs）業務，打造全國REITs產品發行交易首選地。擴大供應鏈票據應用，加快發展不動產信託、股權信託，最佳化另類資產供給。"
-    },
-    {
-      "id": "4911994",
-      "time": "2026-06-02 14:12:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高德與新加坡旅遊局官宣合作】6月2日，高德和新加坡旅遊局正式簽約，將推出首個與海外國家旅遊局共建的榜單新加坡掃街榜。"
-    },
-    {
-      "id": "4911993",
-      "time": "2026-06-02 14:12:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山姆回應在售雙匯產品打碼：屬於日常運營方式】近日，“雙匯子公司豬肉抗生素超標”的訊息引發關注，有消費者稱其在山姆會員商店購買的一款培根芝士香腸卷商品其品牌頁面標註著“ARGAL”字樣的商標，但商品顯示圖片區域，則把該商品的生產地址及公司打碼隱藏了，拿到商品後發現背面生產商居然是鄭州雙匯。對此，山姆回應稱，山姆在售雙匯相關產品均不涉及此前輿情涉事的雙匯子公司工廠。山姆嚴格執行國家標準要求，並對相關產品包含林可黴素在內的抗生素專案進行第三方常態化抽樣檢測，所有在售產品實測指標均符合國家限值要求。山姆APP商品頁對產地、批次、日期等易變動資訊做遮擋標註屬於日常運營方式，並沒有因為雙匯事件作出臨時調整。實際上，目前山姆已經在分階段推進商品詳情頁資訊全面升級，雙匯等商品的相關資訊現已完整公示，其餘商品也將陸續完成資訊最佳化、取消相關遮擋。6月2日，介面新聞自山姆APP查詢看到，這款香腸產品的資訊已經對生產商在滾動圖片中做了展示。"
-    },
-    {
-      "id": "4911992",
-      "time": "2026-06-02 14:11:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lunate指數目前涵蓋阿聯酋、沙烏地阿拉伯和卡達的龍頭企業。"
-    },
-    {
-      "id": "4911991",
-      "time": "2026-06-02 14:11:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "高途：一季度經調整淨利潤 4140 萬元人民幣，同比下滑 70%。"
-    },
-    {
-      "id": "4911990",
-      "time": "2026-06-02 14:11:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率下跌7.0個基點，至3.745%。"
-    },
-    {
-      "id": "mkt:019e86f5-1569-7554-a339-ba8b7fc66f14",
-      "time": "2026-06-02 14:11:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 40-year bond yield fell 7 bps to 3.745%."
-    },
-    {
-      "id": "4911989",
-      "time": "2026-06-02 14:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：通脹與高利率加大亞太區擔保債券發行人壓力。"
     }
   ]
 }
