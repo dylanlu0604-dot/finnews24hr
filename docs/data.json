@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-09 16:57:18",
-  "count": 19094,
+  "updated": "2026-06-09 17:01:18",
+  "count": 19078,
   "items": [
+    {
+      "id": "4925696",
+      "time": "2026-06-09 17:00:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "智匯礦業：公司港股獲納入富時全球股票指數系列微型股與富時全球總盤指數。"
+    },
+    {
+      "id": "mkt:019eab9c-69c9-7cc2-9c83-b50662765e24",
+      "time": "2026-06-09 17:00:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02546.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhihui Mining (02546.HK): Hong Kong-listed shares included in the FTSE Global Equity Index Series micro-cap and the FTSE Global Total Cap Index."
+    },
+    {
+      "id": "4925695",
+      "time": "2026-06-09 17:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非第一季度GDP環比增長0.5%；此前預期增長0.3%。"
+    },
+    {
+      "id": "te:markets:557625",
+      "time": "2026-06-09 17:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Rises by 0.57% — Top currency gainers are Indian Rupee (0.57%), South Korean Won (0.45%), Mexican Peso (0.40%), British Pound (0.34%) and Euro (0.19%). Biggest loser is Dollar Index (-0.18%)."
+    },
+    {
+      "id": "mkt:019eab9b-d5ee-7cc2-9c83-abb82e875efc",
+      "time": "2026-06-09 16:59:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Keyuan Zhihui NT6000 aids Datang Yuncheng 630°C unit in commercial start】June 8 — Keyuan Zhihui said its fully domestically controllable NT6000 intelligent control system supported the world’s first 630°C secondary‑reheat ultra‑supercritical 1,000 MW coal unit (Datang Yuncheng 630°C national power demonstration project, Unit 1) in completing a 168‑hour full‑load trial and entering commercial operation, which the company said injects fresh momentum into China’s clean, high‑efficiency coal power sector."
+    },
+    {
+      "id": "4925693",
+      "time": "2026-06-09 16:59:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博拓生物：累計回購股份數佔公司總股本的比例為1.0626%】博拓生物公告，截至 2026年 6月 9日，公司透過上海證券交易所交易系統以集中競價交易方式已累計回購股份數 158.68萬股，佔公司總股本的比例為1.0626%，回購累計支付的資金總額5939.69萬元（含佣金、過戶費等交易費用），回購成交的最低價為35元/股，最高價為38元/股，已累計回購的股份數佔公司總股本的比例與上次披露數相比增加0.7728%。"
+    },
+    {
+      "id": "mkt:019eab9b-bfed-7cc2-9c83-a7b96f01d163",
+      "time": "2026-06-09 16:59:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Xiaomi opens UltraSpeed mode on MiMo‑V2.5‑Pro for limited trial】June 9 — Xiaomi MiMo and TileRT launched an UltraSpeed mode for the MiMo‑V2.5‑Pro, claiming the flagship trillion‑parameter model's output speed now exceeds 1,000 tokens/s. Access is by application only; the limited‑time API trial is priced at three times the standard MiMo‑V2.5‑Pro rate and runs from June 9 through June 23, 2026 at 23:59. Xiaomi says more than 3,000 enterprises and developers have applied for trial access."
+    },
+    {
+      "id": "4925692",
+      "time": "2026-06-09 16:59:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美思德：子公司事故區域生產裝置三單元已停產】美思德公告，2026年6月8日，全資子公司南京美思德新材料有限公司生產裝置三單元發生著火事故。事故發生後，南京美思德即刻啟動應急處置預案，組織人員開展搶險施救工作，並按相關程式上報當地政府相關部門。同日，屬地所在安全主管部門對南京美思德作出了事故區域生產裝置三單元停產的現場處理決定。截至本公告披露日，子公司事故區域生產裝置三單元已按處理決定停產，生產裝置其他單元均正常執行。"
+    },
+    {
+      "id": "4925691",
+      "time": "2026-06-09 16:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科遠智慧：自主可控NT6000助力大唐鄆城630℃國家電力示範專案1號機組順利投運】據科遠智慧訊息，6月8日，科遠智慧100%自主可控NT6000智慧控制系統助力世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組——大唐鄆城630℃國家電力示範專案1號機組順利完成168小時滿負荷試執行，正式投入商業運營，為我國清潔高效煤電產業發展注入強勁新動能。"
+    },
+    {
+      "id": "4925690",
+      "time": "2026-06-09 16:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：HRS-6209等3款創新藥獲臨床試驗批准通知書】恆瑞醫藥公告，公司及子公司山東盛迪醫藥、廣東恆瑞醫藥近日收到國家藥監局核准簽發關於HRS-6209膠囊、HRS-8080片、HRS-9813膠囊的《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。其中，HRS-6209為新型選擇性CDK4抑制劑，擬用於治療晚期惡性實體瘤，已進入Ⅱ期臨床階段，相關專案累計研發投入約1.58億元；HRS-8080為口服雌激素受體降解劑（SERD），已進入Ⅱ/Ⅲ期臨床階段，累計研發投入約3.13億元；HRS-9813為公司自主研發1類創新藥，累計研發投入約1.77億元。"
+    },
+    {
+      "id": "4925689",
+      "time": "2026-06-09 16:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米MiMo-V2.5-Pro限時開放UltraSpeed模式】6月9日，小米MiMo與TileRT聯合釋出Xiaomi MiMo-V2.5-Pro的UltraSpeed模式，號稱讓萬億引數的旗艦模型輸出速度首次突破1000 tokens/s。本次MiMo-V2.5-Pro-UltraSpeed採用限時體驗價，定價為MiMo-V2.5-Pro的3倍，並採取申請制限時開放，申請透過的使用者可限時接入API體驗，時間限2026年6月9日至6月23日23:59。據小米方面介紹，已有超過3000家企業及其開發者申請UltraSpeed API的試用名額。"
+    },
+    {
+      "id": "4925688",
+      "time": "2026-06-09 16:57:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華菱線纜：近期中標合同金額約5.31億元】華菱線纜公告，公司近期在電力新能源領域中標合同金額共計約5.31億元，佔2025年經審計營業收入的11.78%。其中，國家電網2026年華北區域聯合採購10kV電力電纜等專案中標的1.05億元，華中川渝區域聯合採購低壓電力電纜等專案中標的1.5億元，南方電網2025年配網材料第二批框架招標專案中標的1.26億元等。"
+    },
+    {
+      "id": "mkt:019eab9a-10b6-7cc2-9c83-98f5feb2b863",
+      "time": "2026-06-09 16:57:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "01211.HK",
+        "Impact bullish"
+      ],
+      "text": "【BYD chairman says stock undervalued, vows tech-driven growth to deliver better shareholder returns】BYD Co. (01211.HK) Chairman Wang Chuanfu told the shareholders’ meeting the company's share price remains below its potential and does not reflect BYD’s prospects. He thanked investors for their support, said he believes results will improve and asked shareholders to remain patient. Management intends to push future growth through technological innovation and forward-looking, scientific planning and said it will deliver better shareholder returns."
+    },
     {
       "id": "4925687",
       "time": "2026-06-09 16:55:58",
@@ -175674,261 +175795,6 @@
         "Important"
       ],
       "text": "Eurozone | Core CPI Flash (MoM) (May) | actual 0.3% | previous 0.8%"
-    },
-    {
-      "id": "4912416",
-      "time": "2026-06-02 17:00:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院印發《加快農業農村現代化“十五五”規劃》】日前，國務院印發《加快農業農村現代化“十五五”規劃》，明確了“十五五”時期加快農業農村現代化的思路目標、重點任務和政策措施，強調以加快農業農村現代化更好推進中國式現代化建設。 《規劃》提出，到2030年，糧食安全根基持續夯實，農業質量效益和競爭力不斷提高，脫貧攻堅成果持續鞏固拓展，農業科技自立自強水平大幅提高，把農業建成現代化大產業取得重要進展，農民收入持續較快增長，宜居宜業和美鄉村加快建設，城鄉融合發展實現新突破，農業農村高質量發展取得顯著成效。同時，對2035年目標作了展望。(新華社)"
-    },
-    {
-      "id": "mkt:019e8790-78f8-733c-9aea-74697b71c7fa",
-      "time": "2026-06-02 17:00:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Eurozone May CPI preliminary MoM 0.1%, expected 0.10%, prior 1.00%."
-    },
-    {
-      "id": "4912415",
-      "time": "2026-06-02 17:00:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州港：預計完成集裝箱吞吐量242.3萬標準箱，同比增長0.7%】廣州港公告，2026年5月份，廣州港股份有限公司預計完成集裝箱吞吐量242.3萬標準箱，同比增長0.7%；預計完成貨物吞吐量5,165.2萬噸，同比增長1.6%。2026年1-5月，公司預計完成集裝箱吞吐量1,148.7萬標準箱，同比增長3.6%；預計完成貨物吞吐量24,250.3萬噸，同比增長2.3%。"
-    },
-    {
-      "id": "mkt:019e8790-76ac-733c-9aea-6d0ce507df03",
-      "time": "2026-06-02 17:00:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | CPI (MoM) (May) | actual 0.1% | consensus 0.10% | previous 1.00%"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202606023757595312",
-      "time": "2026-06-02 17:00:29",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "【歐元區5月CPI同比增長3.2% 預期3.2%】歐元區5月CPI同比增長3.2%，預期3.2%，前值3.0%。"
-    },
-    {
-      "id": "4912414",
-      "time": "2026-06-02 17:00:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "歐元區5月CPI年率初值 3.2%，預期3.2%，前值3.00%。歐元區5月核心CPI年率初值 2.3%，預期2.3%，前值2.1%。"
-    },
-    {
-      "id": "mkt:019e878f-eb5e-733c-9aea-5ce9eb734644",
-      "time": "2026-06-02 17:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Euro-area preliminary May core CPI YoY 2.3% (consensus 2.3%; April 2.1%)."
-    },
-    {
-      "id": "te:markets:555729",
-      "time": "2026-06-02 17:00:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Mexican Peso Rises by 0.35% — Top currency gainers are Mexican Peso (0.35%), Australian Dollar (0.28%), Euro (0.11%) and British Pound (0.07%). Biggest losers are South Korean Won (-0.28%) and Dollar Index (-0.06%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "mkt:019e878f-ea9a-733c-9aea-5081101716d6",
-      "time": "2026-06-02 17:00:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Eurozone May CPI preliminary YoY 3.2% (consensus 3.2%); April 3.0%."
-    },
-    {
-      "id": "4912413",
-      "time": "2026-06-02 17:00:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科承諾將大舉招聘，推進在人工智慧新領域的佈局。"
-    },
-    {
-      "id": "mkt:019e878f-b4ef-733c-9aea-49afd7e43532",
-      "time": "2026-06-02 17:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Core CPI Flash (YoY) (May) | actual 2.3% | consensus 2.3% | previous 2.1%"
-    },
-    {
-      "id": "mkt:019e878f-b48f-733c-9aea-4115d9bb5898",
-      "time": "2026-06-02 17:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | CPI Flash (YoY) (May) | actual 3.2% | consensus 3.2% | previous 3.00%"
-    },
-    {
-      "id": "4912412",
-      "time": "2026-06-02 16:59:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇通客車：5月銷量3480輛，同比增長13.99%】宇通客車公告，2026年5月產量3570輛，同比增長3.96%，銷量3480輛，同比增長13.99%；本年累計產量16203輛，同比增長2.00%，累計銷量14887輛，同比下降3.34%。"
-    },
-    {
-      "id": "mkt:019e878f-ac4a-733c-9aea-3b0f35bf53e8",
-      "time": "2026-06-02 16:59:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary’s finance minister said an EU funds agreement injects cash into the national budget, helping to reduce debt and support economic growth."
-    },
-    {
-      "id": "4912411",
-      "time": "2026-06-02 16:59:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【荃銀高科：連續十二個月涉案金額達1.75億元】荃銀高科公告稱，公司及子公司連續十二個月累計發生的訴訟、仲裁事項涉案金額合計為1.75億元，佔公司最近一期經審計淨資產的10.37%。其中，作為被告應訴的案件15件，合計金額1.26億元；作為原告應訴的案件10件，合計金額0.49億元。公司不存在單項涉案金額佔最近一期經審計淨資產10%以上的重大訴訟、仲裁事項，也無應披露而未披露的其他訴訟、仲裁事項。因部分案件未開庭、結案或執行完畢，對利潤的影響存在不確定性。"
-    },
-    {
-      "id": "mkt:019e878f-40a4-711c-8a4f-e5ed1280c4fc",
-      "time": "2026-06-02 16:59:29",
-      "tags": [
-        "MKT News",
-        "TIGR.O",
-        "Impact bullish"
-      ],
-      "text": "Tiger Brokers (TIGR.O) reported Q1 2026 revenue of $154.9 mln, up 26.3% YoY from $122.6 mln."
-    },
-    {
-      "id": "4912410",
-      "time": "2026-06-02 16:59:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江震元：擬免去魏民董事及副總經理職務】浙江震元公告稱，公司於2026年6月2日召開董事會，審議透過免去魏民董事職務、解聘其副總經理職務的議案，免去董事職務尚需提交2026年第一次臨時股東會審議。4月16日魏民被立案調查並實施留置措施，5月29日公司收到政府免職通知。截至公告披露日，魏民持股20,000股，其離任未致董事會成員低於法定最低人數，公司生產經營正常。"
-    },
-    {
-      "id": "4912409",
-      "time": "2026-06-02 16:59:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天宇股份：布立西坦原料藥透過CDE審評】天宇股份公告稱，公司布立西坦原料藥近日透過國家藥品監督管理局藥品審評中心（CDE）審評。該原料藥適用於部分性癲癇發作的輔助治療。公司於2024年8月遞交註冊申請並獲受理，目前尚須取得浙江省藥監局GMP符合性檢查“符合要求”的公示後，方可在國內上市銷售。截至公告日，國內除公司外有4家廠家獲CDE技術審評透過。因市場環境等因素，上市時間存在不確定性。"
-    },
-    {
-      "id": "4912408",
-      "time": "2026-06-02 16:58:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽埃安i60 5月銷量11020輛】6月2日，據廣汽埃安訊息，旗下緊湊型SUV埃安i60在5月銷量達11020輛。埃安i60是廣汽埃安首款雙動力車型，售價10.28萬元起。"
-    },
-    {
-      "id": "4912407",
-      "time": "2026-06-02 16:58:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "匈牙利財政部長卡爾曼表示，歐盟資金協議將為預算注入現金，有助於在提振經濟的同時削減債務。"
-    },
-    {
-      "id": "4912406",
-      "time": "2026-06-02 16:58:35",
-      "tags": [
-        "行業",
-        "公司",
-        "其他"
-      ],
-      "text": "鳴鳴很忙釋出行業倡議：反內卷、守初心、共築健康行業生態。"
-    },
-    {
-      "id": "mkt:019e878e-36f8-733c-9aea-2e08b797bd57",
-      "time": "2026-06-02 16:58:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's finance minister said last week's EU funding agreement is positive for rating agencies."
-    },
-    {
-      "id": "4912405",
-      "time": "2026-06-02 16:58:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大有能源：股價異常波動 一季度營收9.89億元淨虧損3.69億元】大有能源公告稱，公司股票於2026年5月29日、6月1日、6月2日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司及控股股東、實控人不存在應披露未披露重大事項，目前生產經營正常。2026年第一季度，公司營收9.89億元，同比減少0.87億元；淨利潤淨虧損3.69億元，同比減少0.60億元。提醒投資者注意交易和業績風險。"
-    },
-    {
-      "id": "4912404",
-      "time": "2026-06-02 16:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀龍股份：控股股東及一致行動人擬增持】銀龍股份公告，控股股東、實際控制人謝志峰及一致行動人謝昭庭、謝志安、謝志傑、謝志元擬於2026年6月3日至2026年12月2日透過上交所集中競價增持公司A股，謝志峰擬增持1000萬元至2000萬元，謝昭庭150萬元至300萬元，謝志安600萬元至1200萬元，謝志傑400萬元至800萬元，謝志元300萬元至600萬元，增持計劃不設價格區間。"
-    },
-    {
-      "id": "4912403",
-      "time": "2026-06-02 16:57:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "匈牙利財政部長卡爾曼表示，上週達成的歐盟資金協議對評級機構而言，屬於對信用評級利好的訊息。"
-    },
-    {
-      "id": "4912402",
-      "time": "2026-06-02 16:57:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百傲化學：控股股東補充質押230萬股股份】百傲化學公告稱，控股股東通運投資於2026年6月2日將230萬股股份補充質押給西藏信託有限公司，佔其所持股份比例1.09%，佔公司總股本比例0.33%。截至公告日，通運投資累計質押公司股份1.05億股，佔其持股總數的49.47%，佔總股本的14.82%。未來半年內將有1800萬股股份質押到期，對應融資餘額1.2億元；未來一年內將有8666萬股股份質押到期，對應融資餘額5.73億元。通運投資計劃以自有和自籌資金還款，質押不會對公司經營及治理產生重大影響。"
-    },
-    {
-      "id": "4912401",
-      "time": "2026-06-02 16:57:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電氣：2025年度權益分派實施 每股派現0.145元】三星電氣公告稱，2025年度權益分派方案已獲2026年5月15日的2025年年度股東會審議透過。以實施權益分派股權登記日登記的總股本（扣除回購專用賬戶的股份）為基數，每股派發現金紅利0.145元（含稅），不送紅股、不進行資本公積金轉增股本。股權登記日為2026年6月9日，除權（息）日和現金紅利發放日為6月10日。奧克斯集團等部分股東現金紅利由公司自行發放，不同股東扣稅標準有別。"
-    },
-    {
-      "id": "4912400",
-      "time": "2026-06-02 16:57:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日媒：中東戰事推升全球電動車銷量】《日本經濟新聞》網站2日刊文說，受中東局勢持續緊張、國際油價上漲影響，全球電動汽車銷量持續攀升。文章摘要如下： 標普全球交通出行公司釋出的報告顯示，今年3月至4月，共有37個國家和地區電動汽車單月銷量創歷史新高，91%的國家和地區電動汽車銷量同比增長。 從地區看，韓國3月至4月電動汽車銷量同比增長140%至8萬輛，電動汽車滲透率提高14個百分點至26%。東南亞市場銷量同比增長40%至9萬輛，滲透率升至16%。歐盟市場銷量同比增長約40%，擺脫此前增長放緩局面。（新華社）"
-    },
-    {
-      "id": "mkt:019e878d-42c4-711c-8a4f-de6d79684c05",
-      "time": "2026-06-02 16:57:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China's Xudabao nuclear unit 3 completes hot-state performance test】June 2 — China Nuclear Power Investment Holdings, a CNNC subsidiary, reported Xudabao nuclear power Unit 3 has completed hot-state performance testing, clearing the way for nuclear fuel loading and subsequent grid connection. The Xudabao project plans six 1,000 MW-class PWR units built in phases, with total installed capacity above 7.6 GW and total investment of 140 bln yuan. At full build-out the project is expected to supply about 54 bln kWh annually, save roughly 19.2 mln tonnes of standard coal and reduce CO2 emissions by about 56.7 mln tonnes, supporting Liaoning’s development of an integrated wind-solar-thermal-nuclear-storage energy base."
     }
   ]
 }
