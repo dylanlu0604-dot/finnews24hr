@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-09 10:18:45",
-  "count": 19164,
+  "updated": "2026-06-09 10:22:28",
+  "count": 19163,
   "items": [
+    {
+      "id": "4925028",
+      "time": "2026-06-09 10:21:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：探索浮動核反應堆基地建設 建成“大、中、小、浮”兼備的核電能源樞紐】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，加快推動昌江核電二期（3、4號機組）和“玲龍一號”核電小堆建成投產，積極推進核電5、6號機組建設，探索浮動核反應堆基地建設，建成“大、中、小、浮”兼備的核電能源樞紐，在確保安全穩妥的前提下，進一步擴大核電生產能力。支援核技術在醫學診療、環境治理、材料改性、食品保鮮等領域的非動力應用。"
+    },
+    {
+      "id": "4925027",
+      "time": "2026-06-09 10:21:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊震盪走強，西隴科學漲停】電子化學品板塊震盪走強，同宇新材、西隴科學、宏昌電子漲停，容大感光、中巨芯、飛凱材料跟漲。"
+    },
+    {
+      "id": "4925026",
+      "time": "2026-06-09 10:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國水生生物同步增殖放流各類苗種預計超5億尾】今天上午，2026年全國水生生物同步增殖放流主場活動在北京密雲舉行。農業農村部和北京市人民政府聯合向密雲水庫投放草魚、赤眼鱒等淡水苗種3萬餘尾。今年是農業農村部連續第12年組織全國水生生物同步增殖放流活動。據不完全統計，6月5日—9日，全國共舉辦200多場放流活動，放流各類水生生物苗種超5億尾，其中海水經濟物種2.8億尾、淡水廣佈型經濟物種1.7億尾、珍貴瀕危物種和淡水區域性物種0.5億尾。"
+    },
+    {
+      "id": "4925025",
+      "time": "2026-06-09 10:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：到2030年商業航天產業營收力爭達到500億元】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，以服務“航天強國”戰略為核心，全力推進海南商業航天發射場建設，“以場帶產”形成涵蓋商業發射、星箭製造、衛星應用等全鏈條產業叢集，打造火箭鏈、衛星鏈、資料鏈和“航天+”產業體系。到2030年，商業航天產業營收力爭達到500億元。"
+    },
+    {
+      "id": "4925024",
+      "time": "2026-06-09 10:19:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑芝麻智慧與上實科技達成戰略合作】據黑芝麻智慧訊息，6月8日，黑芝麻智慧與上海上實科技創業投資有限公司正式簽署戰略合作協議。雙方將圍繞具身智慧機器人生態構建和世界機器人超級加速器籌建兩大核心領域展開全方位合作。"
+    },
+    {
+      "id": "4925023",
+      "time": "2026-06-09 10:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多議長和外長辭職】厄瓜多國民代表大會主席（議長）尼爾斯·奧爾森8日宣佈辭職。此前一天，厄外交和移民事務部長加夫列拉·索默費爾德宣佈辭職。 奧爾森在議會全體會議上宣佈辭職，並表示“這是我個人作出的決定”。 奧爾森於2025年5月當選議長。他辭職後，厄議會第一副主席米歇爾·曼切諾將接任。 索默費爾德7日說，因個人原因決定辭去外長職務。索默費爾德自2023年起擔任厄外長。 厄瓜多將於年底舉行地方選舉。多家厄主流媒體此前報道說，奧爾森和索默費爾德被視為角逐瓜亞斯省省長、首都基多市市長的熱門人選。(新華社)"
+    },
+    {
+      "id": "4925022",
+      "time": "2026-06-09 10:18:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果、谷歌、英偉達合作開發新一代AI模型】據報道，蘋果、谷歌、英偉達正合作開發新一代人工智慧模型Apple Foundation Model Cloud Pro，旨在實現高效能與隱私保護並重。蘋果人工智慧業務負責人阿馬爾·蘇布拉馬尼亞表示，該模型效能可與谷歌Gemini等尖端模型比肩，將基於英偉達GPU執行並納入蘋果私有云計算（Private Cloud Compute）體系。"
+    },
     {
       "id": "4925021",
       "time": "2026-06-09 10:16:48",
@@ -79,6 +135,14 @@
         "AI Revolution"
       ],
       "text": "【xAI seconded SpaceX Starlink engineer to lead Grok training】An internal memo shows Elon Musk's xAI has seconded Jack Garabedian from SpaceX’s Starlink unit to lead model training for the Grok chatbot, replacing engineer Diego Pasini. Garabedian, a Starlink engineer at SpaceX since 2021, will head the 'human data team' of several hundred specialists training Grok across domains including finance and science. Pasini and Garabedian did not respond to requests for comment; SpaceX and xAI representatives also did not reply."
+    },
+    {
+      "id": "mkt:019eaa2f-4707-7997-8099-b6a91bfa85b7",
+      "time": "2026-06-09 10:13:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan targets 50 billion yuan commercial space revenue by 2030】Hainan provincial government issued its '15th Five‑Year' high‑tech industry development plan, making support for China’s 'space‑power' strategy a core objective. The plan accelerates construction of commercial launch sites to seed a full‑chain industry cluster covering commercial launches, launch‑vehicle and satellite manufacturing and satellite applications, and aims to build rocket, satellite and data chains plus a 'space+' industry system, targeting 50 billion yuan in commercial space revenue by 2030."
     },
     {
       "id": "4925014",
@@ -176653,99 +176717,6 @@
         "國際"
       ],
       "text": "【歐洲議會將舉行特別會議 討論表決歐美貿易協議】歐洲議會國際貿易委員會定於6月2日舉行特別會議，就歐盟-美國貿易協議的立法文字相關臨時協議進行討論和投票表決。歐盟與美國於2025年7月達成貿易協議。歐洲議會與歐盟理事會今年5月就歐盟-美國貿易協議的立法文字達成臨時協議，在歐盟委員會原提案基礎上強化多項條款，以應對歐美貿易關係中的不確定性。相關立法文字預計將提交6月中旬舉行的歐洲議會全會進行最終表決，隨後由歐盟理事會批准。"
-    },
-    {
-      "id": "4911711",
-      "time": "2026-06-02 10:22:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊區域性拉昇，韶能股份觸及漲停】電力板塊區域性拉昇，韶能股份觸及漲停，金房能源此前漲停，大唐發電、湖南發展、晉控電力、華電遼能跟漲。"
-    },
-    {
-      "id": "4911710",
-      "time": "2026-06-02 10:21:42",
-      "tags": [
-        "焦點"
-      ],
-      "text": "恒生科技指數漲幅擴大至3％，美團漲超8％，騰訊控股漲5.7％，比亞迪股份、阿里巴巴均漲超5％。"
-    },
-    {
-      "id": "mkt:019e8622-9d14-7aa2-99e9-5ac78594ed40",
-      "time": "2026-06-02 10:21:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meituan",
-        "Tencent",
-        "Alibaba",
-        "03690.HK",
-        "Impact bullish",
-        "00700.HK",
-        "09988.HK"
-      ],
-      "text": "Hang Seng Tech Index extended gains to 3%; Meituan (03690.HK) rose over 8%, Tencent Holdings (00700.HK) gained 5.7%, and BYD Company (01211.HK) and Alibaba Group (09988.HK) each rose more than 5%."
-    },
-    {
-      "id": "4911709",
-      "time": "2026-06-02 10:21:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超級電容概念異動拉昇 勝業電氣30cm漲停】超級電容概念異動拉昇，勝業電氣30cm漲停，火炬電子觸及漲停，江海股份漲超6%，重新整理歷史高點，華鋒股份、龍辰科技、法拉電子等跟漲。"
-    },
-    {
-      "id": "4911708",
-      "time": "2026-06-02 10:20:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小鵬發起對離職人員競業調查】據知情人士透露，近期，小鵬集團內部發起一項對離職人員的競業調查。據悉，小鵬集團法務部已就一名離職員工違反競業限制義務一事提起勞動仲裁。據瞭解，該員工入職時與小鵬集團簽署了競業限制協議，並於2025年底離職時書面確認繼續履行為期一年的競業義務。 “自其離職起，小鵬集團已按月足額支付競業限制補償金。然而，該員工在離職後短期內即加入競爭對手公司，繼續從事相關研發工作，涉嫌嚴重違反協議約定。”該知情人士表示。 （觀察者網）"
-    },
-    {
-      "id": "te:markets:555551",
-      "time": "2026-06-02 10:20:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakness Triggers Fresh Verbal Warning — The Japanese yen weakened beyond 159.5 per dollar on Tuesday, moving closer to the key 160 level that previously prompted official intervention to support the currency, drawing renewed verbal warnings from Tokyo. Finance Minister Satsuki Katayama said authorities stand ready to take appropriate action in currency markets when necessary, while noting increased volatility in oil and other financial markets. She also stated that ministry officials remain in close communication with their counterparts in Washington regarding foreign exchange developments. Data released on Friday showed that Japanese authorities spent ¥11.7 trillion on currency intervention in late April, confirming widespread market speculations. Meanwhile, investors are pricing in roughly a 78% probability that the Bank of Japan will raise interest rates again later this month as inflationary pressures linked to the Middle East conflict continue to intensify."
-    },
-    {
-      "id": "4911707",
-      "time": "2026-06-02 10:20:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "4911706",
-      "time": "2026-06-02 10:20:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超3%，現報5114.580點；恒生指數現漲1.310%。"
-    },
-    {
-      "id": "mkt:019e8620-cf82-7aa2-99e9-560eff931ef5",
-      "time": "2026-06-02 10:19:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "0941.HK",
-        "Impact bullish"
-      ],
-      "text": "【China Mobile commissions world's first S+C+L three-band ultra-low-loss multi-core optical cable】China Mobile and industry partners commissioned what they said is the world's first S+C+L three-band (shortwave S, conventional telecom C, longwave L) ultra-low-loss multi-core optical cable in Qingdao, Shandong. Measured performance exceeds current commercial networks: attenuation 0.189 dB/km, inter-core crosstalk < -40 dB/100 km; dispersion and macro-bend loss meet commercial standards, supporting longer, more stable transmission with minimal channel interference."
     }
   ]
 }
