@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-09 11:46:41",
-  "count": 19197,
+  "updated": "2026-06-09 11:50:37",
+  "count": 19199,
   "items": [
+    {
+      "id": "te:markets:557483",
+      "time": "2026-06-09 11:49:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Rises on Softer Crude, Easing Tensions — The Indian rupee firmed to around 95.4 per dollar, pausing losses as easing geopolitical tensions and softer crude oil prices improved sentiment across Asian markets. A drop in global energy prices to about $91 per barrel eased concerns over India's import bill, while a weaker dollar supported the domestic currency. Investors also assessed the Reserve Bank of India's recent measures aimed at attracting foreign currency inflows. Demand for dollars from importers remained firm, but the rupee's rebound from recent lows and lower hedging costs reduced aggressive dollar buying, easing short-term pressure on the currency. Regional currencies advanced as reports of a pause in hostilities between Iran and Israel lifted risk appetite. However, investors remained cautious as elevated US Treasury yields, supported by expectations of prolonged restrictive Federal Reserve policy, could limit gains in emerging-market currencies."
+    },
+    {
+      "id": "4925131",
+      "time": "2026-06-09 11:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一架直升機在霍爾木茲海峽附近墜毀，機組人員全部獲救。"
+    },
+    {
+      "id": "mkt:019eaa7f-5d76-7eec-b847-fa29e2a7f173",
+      "time": "2026-06-09 11:48:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BMD front-month palm oil contract on Bursa Malaysia fell more than 2% intraday to 4,483 Ringgit/tonne."
+    },
+    {
+      "id": "4925130",
+      "time": "2026-06-09 11:48:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月9日午間漲停分析】創業板指半日漲近2%，科創50指數漲近3%，半導體、算力硬體股集體反彈。泰和新材、天娛數科3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019eaa7e-a61e-7eec-b847-f1ef0bce4af0",
+      "time": "2026-06-09 11:48:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyuan launches industry’s first open, full-stack embodied intelligence ecosystem AIMA (AI Machine Architecture)】On June 9 Zhiyuan said in an open letter to developers it has launched AIMA (AI Machine Architecture), which it describes as the industry’s first open, full-stack embodied-intelligence ecosystem tech architecture to underpin industrial-scale deployment and ecosystem development."
+    },
+    {
+      "id": "4925129",
+      "time": "2026-06-09 11:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曉鳴股份：5月雞產品銷售收入8784.62萬元，環比減少16.76%】曉鳴股份公告,公司2026年5月銷售雞產品2351.04萬羽，銷售收入8784.62萬元，環比變動分別為-12.64%、-16.76%，同比變動分別為1.13%、-12.90%。"
+    },
+    {
+      "id": "4925128",
+      "time": "2026-06-09 11:47:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華金資本：現有產品暫不涉及超級電容業務】華金資本(000532)6月9日在互動平臺回覆稱，截至目前，公司現有產品暫不涉及超級電容業務。"
+    },
+    {
+      "id": "4925127",
+      "time": "2026-06-09 11:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元推出行業首個開放且完整的具身智慧生態技術體系——智元AIMA】6月9日，智元釋出《致全體開發者夥伴的一封信》中指出，智元推出行業首個開放且完整的具身智慧生態技術體系——智元AIMA（AI Machine Architecture），為產業規模化、生態化發展築牢底層根基。未來五年，智元將投入20億元專項資金，用於科研創新、人才培養、夥伴發展及社群運營。今年，率先投入超1億元賦能生態發展，賦能每一位AIMA開發者。"
+    },
+    {
+      "id": "4925126",
+      "time": "2026-06-09 11:46:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曉程科技：暫無併購晶片、電路板或晶圓企業的計劃】曉程科技6月9日在互動平臺表示，截至目前，公司暫無併購晶片、電路板或晶圓企業的計劃。"
+    },
     {
       "id": "te:economy:557482",
       "time": "2026-06-09 11:45:04",
@@ -177018,68 +177097,6 @@
         "市場"
       ],
       "text": "【6月2日午間漲停分析】創業板指半日漲超2%，算力硬體概念再度走強。春秋電子、中央商場均3連板，一圖看懂>>"
-    },
-    {
-      "id": "4911811",
-      "time": "2026-06-02 11:50:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行前政策委員稱日本央行本月可能按兵不動 與市場預期大相逕庭】日本央行前政策委員會成員白井早由裡表示，由於扣除特殊因素後的通脹壓力並未明顯升溫，日本央行本月可能維持利率不變，這與市場普遍預期形成鮮明對比。白井在東京的一次活動上表示，許多人認為，日本央行既然在4月延後升息，可能會在6月採取行動，但她認為這次會議不會調整利率。她的觀點與利率互換市場相反。交易員們押注日本央行在6月16日升息的機率為77%，7月31日升息的機率更達92%。白井表示，日本央行可以先觀察政府追加預算和經濟增長計劃的影響，然後再決定是否升息。白井目前在慶應義塾大學教授經濟學。她說，他們今年或許會升息一次，但通脹壓力還沒有加劇到需要他們急於行動的地步。白井於2011年4月至2016年3月擔任日本央行政策委員；日本央行於2016年1月推出負利率政策，她投下反對票。"
-    },
-    {
-      "id": "mkt:019e8673-a2e0-7663-9953-35ed347ad060",
-      "time": "2026-06-02 11:49:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's NIFTY Financial Services index fell 1%."
-    },
-    {
-      "id": "4911810",
-      "time": "2026-06-02 11:49:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【帝爾鐳射：距離“帝爾轉債”停止轉股日僅剩半個交易日】帝爾鐳射(300776)6月2日午間公告，6月2日為“帝爾轉債”最後一個轉股日，當日收市前，持有“帝爾轉債”的投資者仍可進行轉股。6月2日收市後，未實施轉股的“帝爾轉債”將停止轉股，剩餘“帝爾轉債”將按照102.068元/張（含息稅）的價格被強制贖回。若被強制贖回，投資者可能面臨損失。截至6月2日上午收市後，距離“帝爾轉債”停止轉股日（6月3日）僅剩半個交易日。"
-    },
-    {
-      "id": "mkt:019e8672-9ebd-7663-9953-2c1a1dc420ea",
-      "time": "2026-06-02 11:48:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 10-year government bond yield fell 5.5 bps to 2.625%."
-    },
-    {
-      "id": "4911809",
-      "time": "2026-06-02 11:48:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌5.5個基點，至2.625%。"
-    },
-    {
-      "id": "4911808",
-      "time": "2026-06-02 11:48:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "派珀·桑德勒將慧與科技目標股價從23美元上調至63美元。"
-    },
-    {
-      "id": "4911807",
-      "time": "2026-06-02 11:47:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞普拉塞火山噴發 火山灰柱高達800米】當地時間6月1日，哥倫比亞西南部考卡省普拉塞火山發生噴發，形成約800米高的火山灰柱，火山灰已擴散至周邊地區。哥倫比亞地質局表示，目前普拉塞火山系統維持黃色預警狀態，表明火山活動有所增強，但暫無近期發生大規模噴發的跡象。普拉塞火山海拔約4750米，是哥倫比亞最活躍的火山之一，近年來活動頻繁。"
     }
   ]
 }
