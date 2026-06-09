@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-10 05:33:50",
-  "count": 18701,
+  "updated": "2026-06-10 05:37:43",
+  "count": 18704,
   "items": [
+    {
+      "id": "mkt:019eae51-3a25-7ff4-a101-6956cab4a45d",
+      "time": "2026-06-10 05:36:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Explosions reported in parts of Iran's Hormozgan province】Multiple explosions were reported early on the 10th local time in eastern Hormozgan province, including Sirik and Minab. The source and precise locations of the blasts are unclear; local sources said air-defence systems were activated in parts of the province. CENTCOM earlier said US forces struck Iran in retaliation after Iran shot down an Apache helicopter."
+    },
+    {
+      "id": "mkt:019eae50-db42-7ff4-a101-6125b93bad26",
+      "time": "2026-06-10 05:36:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reports an attack on Qeshm Island."
+    },
+    {
+      "id": "4926718",
+      "time": "2026-06-10 05:36:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱格什姆島遭到襲擊。"
+    },
+    {
+      "id": "4926717",
+      "time": "2026-06-10 05:33:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦存款保險公司主席特拉維斯·希爾：要求銀行審查人員重點關注重大金融風險。"
+    },
     {
       "id": "mkt:019eae4d-7331-7ff4-a101-5b774bcb51ef",
       "time": "2026-06-10 05:32:51",
@@ -172602,15 +172644,6 @@
         "國際"
       ],
       "text": "加拿大政府負責加美貿易的部長勒布朗： 已收到美國貿易代表格里爾與墨西哥經濟部長髮來的信函，但拒絕披露信件內容。"
-    },
-    {
-      "id": "4913687",
-      "time": "2026-06-03 05:34:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【康菲石油與印尼北樞紐LNG賣家簽署供應協議】美國油氣巨頭康菲石油公司在領英（LinkedIn）上發文表示，已與印尼北樞紐（North Hub）的液化天然氣（LNG）賣家簽署了長期供應協議，進一步擴充了公司的全球LNG供應版圖。供應將來自庫泰（Kutai）盆地正在開發的深水天然氣資源，該盆地靠近印尼現有的邦唐（Bontang）液化天然氣廠。康菲石油的一位發言人在郵件中表示，該協議將於2029年啟動；公司方面拒絕透露具體的供應量和協議期限。"
     }
   ]
 }
