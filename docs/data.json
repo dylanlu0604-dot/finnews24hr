@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-09 08:46:09",
-  "count": 19177,
+  "updated": "2026-06-09 08:49:51",
+  "count": 19174,
   "items": [
+    {
+      "id": "mkt:019ea9db-24c1-733a-9238-1b9bb86f5fa8",
+      "time": "2026-06-09 08:49:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's 30-year bond yield rose 3.0 bps to 3.965%."
+    },
+    {
+      "id": "4924866",
+      "time": "2026-06-09 08:49:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲3個基點，至3.965%。"
+    },
+    {
+      "id": "mkt:019ea9d9-4cad-733a-9238-164d3930c806",
+      "time": "2026-06-09 08:47:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin financing balance across two exchanges down 23.357 bln yuan】As of June 8, margin financing balances were: Shanghai Stock Exchange 1.454 tln yuan, down 11.743 bln vs the prior trading day; Shenzhen Stock Exchange 1.400 tln yuan, down 11.614 bln; combined 2.853 tln yuan, down 23.357 bln."
+    },
+    {
+      "id": "4924865",
+      "time": "2026-06-09 08:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少233.57億元】截至6月8日，上交所融資餘額報14537.04億元，較前一交易日減少117.43億元；深交所融資餘額報13997.89億元，較前一交易日減少116.14億元；兩市合計28534.93億元，較前一交易日減少233.57億元。"
+    },
+    {
+      "id": "mkt:019ea9d9-0bbc-733a-9238-0cd0f2c123b2",
+      "time": "2026-06-09 08:47:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USD/KRW fell 0.9% intraday to 1,521.90."
+    },
     {
       "id": "4924862",
       "time": "2026-06-09 08:45:24",
@@ -176810,85 +176859,6 @@
         "AI Revolution"
       ],
       "text": "Ubtech begins pre-sales of the world's first full-size ultra-bionic humanoid robot; marketed for emotional companionship, it is scheduled to officially launch on June 30."
-    },
-    {
-      "id": "4911549",
-      "time": "2026-06-02 08:49:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【委內瑞拉5月石油出口量增至125萬桶/日，連三個月增長】週一公佈的航運資料顯示，委內瑞拉5月石油出口量小幅上升至125萬桶/日，連續第三個月實現增長，主因輸往美國、印度和歐洲的貨量增加。隨著華盛頓放寬制裁以及外國公司在這個石油輸出國組織(OPEC)成員國擴大油氣專案，委內瑞拉在美國支援的臨時總統羅德里格斯政府領導下，今年原油產量和出口量已出現反彈。石油部預測，到今年底原油產量將達到137萬桶/日，意味著較2025年底的112萬桶/日增加22%。這是自2019年美國首次實施能源制裁以來未曾見過的高位，並使委內瑞拉得以向一些多年來無法出口其石油的國家恢復銷售。根據基於油輪動向以及委內瑞拉國家石油公司(PDVSA)記錄的資料，委內瑞拉5月原油及成品油出口量較4月增長0.7%，較去年同期增長61%。5月共出口了67船貨物。資料顯示，美國仍是委內瑞拉石油的首要目的地，美國自委進口了約55.8萬桶/日；其次是印度，為42.7萬桶/日；歐洲為16.9萬桶/日。這三大地區5月的進口量均高於4月。"
-    },
-    {
-      "id": "te:economy:555511",
-      "time": "2026-06-02 08:49:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Thailand Manufacturing Sector at 10-Month Low — Thailand's S&P Global Manufacturing PMI edged down to 52.6 in May 2026 from 52.7 in the previous month, marking its lowest reading since July 2025 while remaining firmly in expansionary territory. Output continued to grow but at its slowest pace in twelve months, as firms reported greater client hesitancy. Moreover, supply chain pressures remained evident in May, with transportation disruptions cited as the primary factor behind longer delivery times for raw materials. In contrast, new orders rose at a faster pace, supported by robust sales pipelines, resilient underlying demand, and the positive impact of successful business development initiatives. On the pricing front, input cost inflation stabilized following April's sharp increase, while output charges rose only modestly as manufacturers continued to pass on higher raw material and freight costs to customers. Finally, business confidence strengthened further, extending its recovery from the 55-month low recorded in March."
-    },
-    {
-      "id": "te:economy:555510",
-      "time": "2026-06-02 08:48:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Indonesia Manufacturing Stabilises in May — Indonesia’s S&P Global Manufacturing PMI edged up to 50.0 in May 2026 from April’s ten-month low of 49.1, signaling broadly stable factory conditions. New orders rose for a second month, with growth at its fastest since February. Yet export orders fell for a third month and at the steepest pace since August 2021, as Middle East conflict disruptions continued to weigh on trade. Output shrank again, though less sharply than in April, while raw material shortages forced firms to cut purchases. Backlogs of work increased for the first time since February, underscoring supply constraints, while employment slipped for a third month, albeit marginally. On prices, input cost inflation accelerated to its second-highest on record, driven by surging raw material prices, prompting the strongest selling price hikes since October 2013. Supplier performance deteriorated further amid delivery delays. Finally, business confidence improved slightly, with optimism still muted overall."
-    },
-    {
-      "id": "4911548",
-      "time": "2026-06-02 08:48:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優必選：全球首款全尺寸超仿生人形機器人開啟預售】據優必選訊息，優世界超仿生人形機器人正式登陸京東開啟預售，產品將於6月30日正式釋出。據介紹，該產品為全球首款全尺寸超仿生人形機器人。"
-    },
-    {
-      "id": "4911547",
-      "time": "2026-06-02 08:47:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行董事會成員哈珀：通脹預期的市場指標已經上升，這是一個令人擔憂的問題。"
-    },
-    {
-      "id": "mkt:019e85cc-a7c3-7993-96fc-73a0ad763f09",
-      "time": "2026-06-02 08:47:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China margin financing across both exchanges down 7.661 bln yuan】As of June 1, Shanghai Stock Exchange margin financing stood at 1.46819 tln yuan, down 4.057 bln yuan from the prior trading day; Shenzhen Stock Exchange stood at 1.406303 tln yuan, down 3.604 bln yuan; combined balance 2.874492 tln yuan, down 7.661 bln yuan."
-    },
-    {
-      "id": "4911546",
-      "time": "2026-06-02 08:47:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少76.61億元】截至6月1日，上交所融資餘額報14681.89億元，較前一交易日減少40.57億元；深交所融資餘額報14063.03億元，較前一交易日減少36.04億元；兩市合計28744.92億元，較前一交易日減少76.61億元。"
-    },
-    {
-      "id": "4911545",
-      "time": "2026-06-02 08:47:06",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【填補制度空白！對外投資新規出臺 覆蓋企業、組織及個人】日前，《國務院關於對外投資的規定》正式對外公佈，自7月1日起施行。這是我國在對外投資領域的第一部行政法規。專家表示，我國參與國際產業分工合作不斷深化，新出臺的《規定》將進一步推進對外投資高質量發展。專家表示，當前，我國在境外190多個國家和地區設立企業超過5萬家，投資存量超過3萬億美元，連續九年保持世界第三。在這樣的背景下，新出臺的《規定》有利於健全對外投資管理體系，分級分類實施全過程監督。（央視）"
     }
   ]
 }
