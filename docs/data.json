@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-10 03:15:48",
-  "count": 18703,
+  "updated": "2026-06-10 03:19:40",
+  "count": 18704,
   "items": [
+    {
+      "id": "4926643",
+      "time": "2026-06-10 03:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗並未向美國提交任何新方案】伊朗談判團隊相關知情人士向法爾斯通訊社表示，伊朗並未向美國提交任何新方案。今日天空新聞報道稱，伊朗已向美方遞交新版和平方案草案，有初步訊息顯示美方認為該方案可以接受。此前阿拉伯電視臺曾報道，伊朗同意將濃縮鈾轉移至第三國，該說法同樣遭到伊朗方面否認。"
+    },
+    {
+      "id": "te:economy:557771",
+      "time": "2026-06-10 03:16:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Argentina Industrial Output Falls in April — Argentina's industrial production fell 2.8% year-on-year in April 2026, reversing a 5% increase in the previous month. Twelve of the 16 manufacturing sectors posted annual declines. The largest drags came from machinery and equipment (-20.2%), textiles (-22.2%), apparel, leather and footwear (-15.9%), basic metals (-11.2%), motor vehicles and auto parts (-10.7%), and food and beverages (-2.4%). Smaller declines were recorded in other equipment and instruments (-11.4%), non-metallic minerals (-6.4%), rubber and plastics (-5.1%), furniture and other manufacturing (-5.1%), metal products (-1.4%), and other transport equipment (-2.1%). Partly offsetting the weakness, output rose in chemicals (16.7%), petroleum refining (5.6%), tobacco products (6.5%), and wood, paper and printing (4.1%)."
+    },
+    {
+      "id": "mkt:019eadcf-e1e0-7225-91aa-a3ff3d4ebbc3",
+      "time": "2026-06-10 03:15:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fars News, citing informed sources, said Iran has not yet submitted a new proposal to the US."
+    },
     {
       "id": "4926642",
       "time": "2026-06-10 03:14:10",
@@ -172563,22 +172592,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：另有至少五個國家願意接收一定數量的阿富汗難民。"
-    },
-    {
-      "id": "mkt:019e89c5-d1e3-733d-8819-2ed0a84f3a72",
-      "time": "2026-06-03 03:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the Trump administration does not want Afghans who assisted U.S. forces forced to return to Afghanistan."
-    },
-    {
-      "id": "4913616",
-      "time": "2026-06-03 03:17:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 特朗普政府不希望曾協助美軍的阿富汗人被迫遣返阿富汗。"
     }
   ]
 }
