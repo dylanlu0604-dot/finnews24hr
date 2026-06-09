@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-09 23:57:39",
-  "count": 18813,
+  "updated": "2026-06-10 00:02:12",
+  "count": 18808,
   "items": [
+    {
+      "id": "4926526",
+      "time": "2026-06-10 00:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報563.90元。"
+    },
+    {
+      "id": "te:markets:557738",
+      "time": "2026-06-09 23:58:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "P&G Stock Price Hits 4-week High — P&G shares increased to 148.57 USD, the highest since May 2026. Over the past 4 weeks, Procter & Gamble gained 3.54%, and in the last 12 months, it decreased 8.85%."
+    },
+    {
+      "id": "4926525",
+      "time": "2026-06-09 23:58:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報86.73美元/桶。"
+    },
+    {
+      "id": "mkt:019ead1a-7e0c-7448-ac07-9e73062a2a1c",
+      "time": "2026-06-09 23:57:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Fitch said it is keeping its gold-price assumptions unchanged."
+    },
+    {
+      "id": "4926524",
+      "time": "2026-06-09 23:57:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠譽：黃金價格相關假設維持不變。"
+    },
+    {
+      "id": "4926523",
+      "time": "2026-06-09 23:57:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，億航跌22.39%，海天網路跌15.73%，大全新能源跌8.35%，金生遊樂跌7.72%，阿特斯跌7.28%。"
+    },
     {
       "id": "4926522",
       "time": "2026-06-09 23:56:06",
@@ -173409,106 +173466,6 @@
         "其他"
       ],
       "text": "OpenAI：目前Codex已面向商業及企業客戶開放預覽，該模型現在可建立並託管互動式網站與應用程式，且支援共享。"
-    },
-    {
-      "id": "4913412",
-      "time": "2026-06-03 00:01:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：早前被派駐至伊朗周邊執行兩棲作戰部署的“拳師號”兩棲攻擊艦，出乎各方預料駛離該區域。"
-    },
-    {
-      "id": "4913411",
-      "time": "2026-06-03 00:01:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI推出針對特定崗位的新型外掛、站點功能與標註工具，助力團隊依託Codex實現更多開發工作。"
-    },
-    {
-      "id": "4913410",
-      "time": "2026-06-03 00:01:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：微軟希望開發者不只將其視作OpenAI的頭號合作伙伴。微軟計劃在本週Build開發者大會上，集中展示多款自研AI模型，覆蓋程式碼編寫、邏輯推理等各類應用場景。"
-    },
-    {
-      "id": "4913409",
-      "time": "2026-06-03 00:00:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們沒有向伊朗乞求任何東西，伊朗人可能在乞求。"
-    },
-    {
-      "id": "te:markets:555829",
-      "time": "2026-06-03 00:00:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises on Tuesday — The FTSE 100 edged higher on Tuesday as falling oil prices boosted sentiment on renewed hopes of a lasting US-Iran peace deal, following an announcement that Israel and Hezbollah would pause hostilities in Lebanon. Mining stocks led the gains in London, with Antofagasta rising more than 6%, Glencore and Anglo American adding over 4%, and Rio Tinto up more than 3%. Banks also strengthened, as HSBC Holdings, Barclays and Standard Chartered gained 2.3%, 3.3% and 2.7% respectively. In contrast, British American Tobacco fell around 3% despite reaffirming full-year guidance and pointing to strong momentum in its Modern Oral and Vapour segments."
-    },
-    {
-      "id": "4913408",
-      "time": "2026-06-02 23:58:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普任命聯邦住房金融署署長為代理國家情報總監】美國總統特朗普2日在社交媒體上發文說，任命美國聯邦住房金融署署長威廉·J·普爾特為代理國家情報總監。特朗普在帖文中說，在任職代理國家情報總監期間，普爾特將繼續兼任美國聯邦住房金融署署長以及房利美和房地美的董事會主席。普爾特現年38歲，2025年3月經國會確認出任美國聯邦住房金融署署長。美媒報道說，普爾特是特朗普的“忠實擁護者”，但他並不是在敏感情報和國家安全事務方面經驗豐富的人選。（新華社）"
-    },
-    {
-      "id": "mkt:019e890e-b0e1-7ff0-aaad-a88bf170e0b7",
-      "time": "2026-06-02 23:58:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures up 1.00% intraday, trading at $93.10/barrel."
-    },
-    {
-      "id": "4913407",
-      "time": "2026-06-02 23:58:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗戰爭已經結束。"
-    },
-    {
-      "id": "mkt:019e890e-6645-7ff0-aaad-a5ba2b855f6e",
-      "time": "2026-06-02 23:58:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran is seeking hundreds of billions of dollars for reconstruction."
-    },
-    {
-      "id": "4913406",
-      "time": "2026-06-02 23:57:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗重建需要數千億美元。"
-    },
-    {
-      "id": "mkt:019e890e-2945-7ff0-aaad-9f0fd6e9cf7a",
-      "time": "2026-06-02 23:57:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. Secretary of State Rubio said the war in Iran has already ended."
     }
   ]
 }
