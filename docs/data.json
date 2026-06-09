@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-09 20:34:19",
-  "count": 19058,
+  "updated": "2026-06-09 20:38:22",
+  "count": 19071,
   "items": [
+    {
+      "id": "4926253",
+      "time": "2026-06-09 20:37:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋航空總裁：伊朗局勢升溫前，阿聯酋航空頭等艙載客量約為正常水平的一半。"
+    },
+    {
+      "id": "4926252",
+      "time": "2026-06-09 20:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空總裁：阿聯酋航空無法下調與燃油成本緊密掛鉤的機票價格。"
+    },
+    {
+      "id": "4926251",
+      "time": "2026-06-09 20:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋航空總裁：阿聯酋航空正就放寬中東空域出行警示與多國政府磋商。"
+    },
+    {
+      "id": "mkt:019eac62-a19d-7ddc-a5f3-b039c3483b1b",
+      "time": "2026-06-09 20:36:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates president says the airline will offer non-price incentives, including safety guarantees and travel assurances, to passengers to mitigate the impact of the Iran war."
+    },
+    {
+      "id": "4926250",
+      "time": "2026-06-09 20:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋航空總裁：受伊朗局勢影響，航司將向旅客推出非價格類福利，包含安全承諾與出行保障服務。"
+    },
+    {
+      "id": "te:economy:557676",
+      "time": "2026-06-09 20:35:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "US Exports Rise to Fresh Record High — US exports rose 2.6% or $8.3 billion from the prior month to a record $327.1 billion in April, driven by strong gains in goods shipments. Goods exports increased by $8.7 billion to $221.3 billion, with Census-based goods exports up $8.0 billion. The largest contributions came from capital goods, which rose $4.0 billion, supported by higher computer exports up $2.5 billion, civilian aircraft up $1.0 billion, and industrial supplies and materials up $2.5 billion. Energy-related exports also strengthened, with crude oil increasing $6.4 billion, fuel oil up $1.3 billion, and other petroleum products up $1.0 billion. These gains were partly offset by declines in non-monetary gold, down $5.8 billion, and other precious metals, down $1.9 billion, while consumer goods rose $1.7 billion. Services exports edged lower by $0.4 billion to $105.8 billion, with declines in travel, transport, and maintenance and repair services, partially offset by a small gain in other business services."
+    },
+    {
+      "id": "4926249",
+      "time": "2026-06-09 20:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：黎巴嫩邊境附近一名槍手向軍方人員開火後被擊斃。"
+    },
+    {
+      "id": "4926248",
+      "time": "2026-06-09 20:34:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統：必須採取措施解決真主黨武器問題。"
+    },
+    {
+      "id": "mkt:b8f46ba0-de57-49a0-88fc-1c68b182729e",
+      "time": "2026-06-09 20:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese president says measures must be taken to resolve Hezbollah's weapons issue."
+    },
+    {
+      "id": "4926247",
+      "time": "2026-06-09 20:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲黎巴嫩南部致至少40人傷亡】黎巴嫩衛生部9日發表宣告說，以色列當天對黎巴嫩南部提爾地區的提爾市發動空襲，已造成至少8人死亡、32人受傷。宣告說，提爾市的馬薩坎社群遭到以軍空襲，目前廢墟清理工作仍在進行中。據黎巴嫩真主黨旗下燈塔電視臺當天早些時候報道，真主黨發表宣告說，其挫敗了以色列一支裝甲部隊在提爾地區推進的企圖，並迫使其撤退。 (新華社)"
+    },
+    {
+      "id": "4926246",
+      "time": "2026-06-09 20:34:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所上市委：鴻富誠首發獲透過】深交所上市委公告，深圳市鴻富誠新材料股份有限公司（簡稱“鴻富誠”）首發獲透過。"
+    },
+    {
+      "id": "4926245",
+      "time": "2026-06-09 20:33:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST路通：特定股東及高管擬減持不超3.33%股份】ST路通公告稱，特定股東萍鄉匯德及高階管理人員莊小正擬減持公司股份。萍鄉匯德持有399.5萬股（佔總股本2.00%），計劃2026年7月2日至9月30日，以集中競價減持不超200萬股（佔1.00%）、大宗交易減持不超400萬股（佔2.00%）；莊小正持有261.69萬股（佔1.31%），同期擬以集中競價減持不超65.4萬股（佔0.33%）。減持因自身資金需求，是否實施及完成存在不確定性。"
+    },
     {
       "id": "4926244",
       "time": "2026-06-09 20:33:14",
@@ -9,6 +109,15 @@
         "公司"
       ],
       "text": "【京基智農：京基集團擬協議轉讓5%股份 總價3.74億元】京基智農公告稱，資訊披露義務人京基集團基於自身資金需求，於2026年6月8日與麻長煒簽訂《股份轉讓協議》，擬協議轉讓2651.01萬股（佔總股本5%）給麻長煒，交易對價3.74億元，單價14.10元/股。本次權益變動後，京基集團及其一致行動人持股比例由49.26%降至44.26%，不會導致控股股東、實控人變化。本次轉讓尚需深交所稽核，能否完成存在不確定性。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606093765333561",
+      "time": "2026-06-09 20:33:05",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國4月石油進口價格為78.24美元/桶】美國4月石油進口價格為78.24美元/桶，相比3月的63.40美元/桶有所上漲，較去年同期的66.06美元/桶上漲了18.4%。"
     },
     {
       "id": "4926243",
@@ -35,6 +144,15 @@
       "text": "洲際交易所集團宣佈推出人工智慧驅動的交易分析平臺ICE Compass。"
     },
     {
+      "id": "em:jjsj_mgsj:202606093765329964",
+      "time": "2026-06-09 20:32:09",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國4月出口環比增長2.6%，進口環比增長2.0%。"
+    },
+    {
       "id": "4926240",
       "time": "2026-06-09 20:32:05",
       "tags": [
@@ -58,6 +176,19 @@
         "公司"
       ],
       "text": "【*ST傳智：公司股票將於6月11日起撤銷退市風險警示】*ST傳智公告，公司股票將於2026年6月10日停牌一天，並於2026年6月11日開市起復牌並撤銷退市風險警示，股票簡稱由“*ST傳智”變更為“傳智教育”，證券程式碼仍為“003032”。撤銷退市風險警示後，公司股票交易價格日漲跌幅限制變更為10%。"
+    },
+    {
+      "id": "mkt:019eac5e-2b5d-7ffd-b5f6-b1cbe2c6daff",
+      "time": "2026-06-09 20:31:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude oil import price in April was $78.24 per barrel, up from $63.40 in March and 18.4% higher YoY from $66.06 a year earlier."
     },
     {
       "id": "4926237",
@@ -91,6 +222,153 @@
         "國際"
       ],
       "text": "美國4月貿易帳 -559億美元，預期-561億美元，前值由-603億美元修正為-566億美元。\n美國4月出口 3271億美元，前值3209億美元。\n美國4月進口 3830億美元，前值3812億美元。"
+    },
+    {
+      "id": "mkt:019eac5d-3743-7ffd-b5f6-a983e1a64983",
+      "time": "2026-06-09 20:30:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. April imports $383.0 bln, prior $381.2 bln."
+    },
+    {
+      "id": "mkt:019eac5d-36ea-7ffd-b5f6-a0e885ea32fc",
+      "time": "2026-06-09 20:30:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. exports in April totaled $327.1 bln, versus $320.9 bln previously."
+    },
+    {
+      "id": "mkt:019eac5d-3547-7ffd-b5f6-9cdb09cddb03",
+      "time": "2026-06-09 20:30:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Imports (Apr) | actual 383000000000B | previous 381200000000B"
+    },
+    {
+      "id": "mkt:019eac5d-3292-7ffd-b5f6-95e9c4b3c92c",
+      "time": "2026-06-09 20:30:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Exports (Apr) | actual 327100000000B | previous 320900000000B"
+    },
+    {
+      "id": "mkt:019eac5d-2b90-7ffd-b5f6-8a70f042e596",
+      "time": "2026-06-09 20:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada April imports CAD 72.44 bln; prior reading revised from CAD 70.99 bln to CAD 72.23 bln."
+    },
+    {
+      "id": "mkt:019eac5d-2a61-7ffd-b5f6-84634f38ff7d",
+      "time": "2026-06-09 20:30:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada April exports CAD 75.16 bln; March revised to CAD 73.98 bln from CAD 72.77 bln."
+    },
+    {
+      "id": "mkt:019eac5d-2a60-7ffd-b5f6-78712753513a",
+      "time": "2026-06-09 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. trade deficit narrowed to $55.9 bln in April, versus $56.1 bln expected; March deficit revised from $60.3 bln to $56.6 bln."
+    },
+    {
+      "id": "mkt:019eac5d-2a02-7ffd-b5f6-7610b458628d",
+      "time": "2026-06-09 20:30:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "UN Secretary-General Guterres said he is deeply concerned by Israel's decision to close crossings into Gaza and called for all crossings to be reopened immediately."
+    },
+    {
+      "id": "mkt:019eac5d-2a01-7ffd-b5f6-68d19a0384fd",
+      "time": "2026-06-09 20:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada trade balance Apr: CAD 2.72 bln surplus, vs CAD 2.57 bln expected; Mar trade surplus revised down to CAD 1.75 bln from CAD 1.78 bln."
+    },
+    {
+      "id": "mkt:019eac5c-8288-7ffd-b5f6-51a916531ba0",
+      "time": "2026-06-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Imports (Apr) | actual 72440000000B | previous 70990000000B"
+    },
+    {
+      "id": "mkt:019eac5c-8287-7ffd-b5f6-4bbc4f133763",
+      "time": "2026-06-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Exports (Apr) | actual 75160000000B | previous 72770000000B"
+    },
+    {
+      "id": "mkt:019eac5c-8286-7ffd-b5f6-46d4c661f54d",
+      "time": "2026-06-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Trade Balance (Apr) | actual 2720000000B | consensus 2570000000B | previous 1780000000B"
+    },
+    {
+      "id": "mkt:019eac5c-83c0-7ffd-b5f6-6351e9dae928",
+      "time": "2026-06-09 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Trade Balance (Apr) | actual -55900000000B | consensus -56100000000B | previous -60300000000B"
+    },
+    {
+      "id": "mkt:019eac5c-6221-7ffd-b5f6-33e8cf142b72",
+      "time": "2026-06-09 20:29:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Broadcasting Corporation reported that, after an attempted infiltration from Lebanon, the Misgav and Al-Manara areas remain on alert."
     },
     {
       "id": "4926233",
@@ -175536,141 +175814,6 @@
         "宏觀"
       ],
       "text": "【7月1日起施行！五部門聯合發文保障超齡勞動者權益】日前，人社部會同國家衛生健康委、應急部、稅務總局、國家醫保局等5部門聯合出臺了《超齡勞動者基本權益保障暫行規定》（以下簡稱《暫行規定》）。《暫行規定》自2026年7月1日起施行，這是我國首部明確超齡勞動者權益的專門規章，填補了我國現行勞動法律制度的短板，明確了用人單位與超齡勞動者的權利和義務，保障超齡勞動者的勞動報酬、休息休假、勞動安全衛生、工傷保障等合法權益。（央視新聞）"
-    },
-    {
-      "id": "4912985",
-      "time": "2026-06-02 20:37:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古自治區工業和資訊化廳副廳長華瑞鋒接受審查調查】據內蒙古自治區紀委監委訊息：內蒙古自治區工業和資訊化廳黨組成員、副廳長華瑞鋒涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019e8856-617a-7448-98be-1210f5389acb",
-      "time": "2026-06-02 20:37:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources say that despite SpaceX negotiating lower underwriting fees, banks may still collect roughly $500 million from the IPO."
-    },
-    {
-      "id": "4912984",
-      "time": "2026-06-02 20:36:57",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【2025年7家會計師事務所共被罰沒1370萬元】6月2日，財政部披露第五十一號財會監督檢查公告。公告顯示，根據對40家備案從事證券服務業務的會計師事務所執業質量監督檢查和延伸檢查119戶企業會計資訊質量等情況，財政部2025年度依法對相關當事人作出行政處罰：給予1家會計師事務所暫停經營業務1年，1家會計師事務所暫停經營業務3個月，5家會計師事務所警告的行政處罰，7家會計師事務所共被罰沒1370萬元；給予1名註冊會計師吊銷證書，21名註冊會計師暫停執行業務，54名註冊會計師警告的行政處罰；對42戶企業、26名企業負責人作出行政處罰，42戶企業被罰合計298.1萬元，26名企業負責人被罰合計100.2萬元。"
-    },
-    {
-      "id": "4912983",
-      "time": "2026-06-02 20:36:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古自治區包頭市委副書記周強接受審查調查】中央紀委國家監委網站6月2日通報， 據內蒙古自治區紀委監委訊息：內蒙古自治區包頭市委副書記、政法委書記周強涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4912982",
-      "time": "2026-06-02 20:36:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古醫科大學黨委書記趙雲山接受審查調查】據內蒙古自治區紀委監委訊息：內蒙古醫科大學黨委書記趙雲山涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019e8856-137b-7448-98be-0cc743f3bb31",
-      "time": "2026-06-02 20:36:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Market sources: SpaceX is pressing banks underwriting its IPO, seeking underwriting fees below 0.75%."
-    },
-    {
-      "id": "4912981",
-      "time": "2026-06-02 20:36:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟盤前跌3.10%，現報446.24美元。"
-    },
-    {
-      "id": "4912980",
-      "time": "2026-06-02 20:36:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：黎巴嫩局勢升級，特朗普通話斥責內塔尼亞胡】多名知情人士向美國廣播公司透露，當地時間週一，特朗普與以色列總理本雅明・內塔尼亞胡進行了約 15 分鐘通話。因以色列在黎巴嫩升級軍事行動，恐破壞美方正推進的對伊談判程序，特朗普在通話中出言斥責。知情人士透露，特朗普指責內塔尼亞胡不懂感恩，還斥其 “失去理智”。通話氣氛緊繃，特朗普一度質問：“你到底在幹什麼？”"
-    },
-    {
-      "id": "4912979",
-      "time": "2026-06-02 20:35:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX正在與IPO銀行協商，爭取支付低於0.75%的費用。"
-    },
-    {
-      "id": "4912978",
-      "time": "2026-06-02 20:35:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "銀行仍有望從SPACEX IPO中獲得5億美元資金。"
-    },
-    {
-      "id": "4912977",
-      "time": "2026-06-02 20:35:39",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：SPACEX 向銀行施壓，力求獲得史上最低的 IPO 手續費之一。"
-    },
-    {
-      "id": "4912976",
-      "time": "2026-06-02 20:35:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國人民銀行釋出2026年5月中央銀行各項工具流動性投放情況。資料顯示，5月，中期借貸便利（MLF）淨投放1000億元，常備借貸便利（SLF）淨投放9億元，抵押補充貸款（PSL）淨回籠1545億元，其他結構性貨幣政策工具淨投放1129億元。公開市場業務方面，5月，7天期逆回購淨投放4898億元，其他期限逆回購淨回籠10000億元，公開市場國債買賣淨投放500億元。"
-    },
-    {
-      "id": "mkt:019e8854-d1d4-7448-98be-0645df6fabd5",
-      "time": "2026-06-02 20:35:18",
-      "tags": [
-        "MKT News",
-        "600519.SS",
-        "Impact bullish"
-      ],
-      "text": "Kweichow Moutai adjusted its proposed 2025 per-share cash dividend to 28.02423 yuan (inclusive of tax), up from 27.993 yuan (inclusive of tax)."
-    },
-    {
-      "id": "4912975",
-      "time": "2026-06-02 20:34:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年我國海港城市港口經濟增加值達7萬億元】記者從6月2日舉行的第四屆天津國際航運產業博覽會開幕式上獲悉，現場釋出的《2025年度中國港口經濟發展報告》顯示，2025年，中國海港城市港口經濟增加值達7萬億元，佔其經濟總量的13.6%。報告稱，2025年，海港城市計算機通訊和其他電子裝置製造業、化學原料和化學制品製造業等戰略性新興產業港口經濟增長較快，在第二產業增量中比重分別達到16%和8%，港口在促進腹地產業轉型升級中發揮了重要作用。上海、蘇州、深圳、福州等地港口經濟增長迅猛，為長三角一體化、粵港澳大灣區建設等國家戰略實施提供了有力支撐。 (新華社)"
-    },
-    {
-      "id": "4912974",
-      "time": "2026-06-02 20:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州茅臺2025年年度利潤分配方案：擬每股派28.02423元 合計派發現金紅利350.33億元】貴州茅臺(600519)6月2日釋出2025年度股東會會議資料，在關於2025年年度利潤分配方案及2026年中期利潤分配安排的議案中提到，公司擬以實施權益分派股權登記日登記的總股本扣除回購專用賬戶內的股份為基數，實施2025年年度利潤分配。本次分配方案如下：2025年年度利潤分配擬向全體股東每股派發現金紅利28.02423元（含稅），截至2026年5月31日，公司總股本為12.5億股，回購專用賬戶內的股份數為0股，總股本扣除回購專用賬戶內的股份數為12.5億股，以此計算合計擬派發現金紅利350.33億元（含稅），與董事會決議金額不一致系每股現金紅利的尾數四捨五入所致。"
-    },
-    {
-      "id": "4912973",
-      "time": "2026-06-02 20:34:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告顯示北京位列全球數字旅遊引領型城市榜首】2026世界旅遊城市聯合會北京香山旅遊峰會6月2日在京開幕，會上釋出的《2026世界旅遊目的地數智競爭力報告》顯示，北京位列全球數字旅遊引領型城市榜單首位。報告由世界旅遊城市聯合會聯合亞太旅遊協會編制，從數字基建佈局、智慧應用落地、資料服務搭建等多個維度，對全球重點旅遊城市開展系統性綜合評估。報告指出，北京在數字賦能文化旅遊、智慧治理、人工智慧驅動遊客服務及大規模平臺整合方面全球領先。（新華社）"
     }
   ]
 }
