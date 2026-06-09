@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-10 00:26:50",
-  "count": 18823,
+  "updated": "2026-06-10 00:30:40",
+  "count": 18818,
   "items": [
+    {
+      "id": "4926567",
+      "time": "2026-06-10 00:30:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利 CEO：銀行業併購難度不小，我們力求穩妥推進。"
+    },
+    {
+      "id": "te:markets:557760",
+      "time": "2026-06-10 00:28:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Higher Ahead of ECB Decision — The FTSE MIB climbed 0.1% to close at 50,263, supported by gains in heavyweight financial stocks as markets looked ahead to the European Central Bank’s policy decision later this week. The ECB is widely expected to deliver a 25-basis-point rate cut, while investors are focused on guidance for clues about the future path of monetary policy. Risk sentiment also improved as oil prices eased amid hopes for de-escalation in the Middle East. BPER (+2.9%), Mediobanca (+3%), MPS (+2.6%), and Unipol (+4.7%) led gains in the financial sector. Utilities and luxury stocks also advanced, with Enel up 1.4% and Ferrari adding 0.9%. In contrast, Eni fell 1.6% on lower oil prices, while STMicroelectronics lost 5.9% as investors took profits following the recent rally in global technology shares."
+    },
+    {
+      "id": "4926566",
+      "time": "2026-06-10 00:28:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯索爾兌美元漲超3%。"
+    },
+    {
+      "id": "mkt:019ead35-7c96-7992-a4a6-b80fe1243d16",
+      "time": "2026-06-10 00:27:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Bulgaria to stop military aid to Ukraine, defense minister says】In Sofia on June 9, Bulgaria’s defense minister Stoianov said Bulgaria will halt military assistance to Ukraine, arguing the Russia-Ukraine conflict cannot be resolved on the battlefield and requires negotiation. Bulgaria has delivered 13 arms shipments to Ukraine since 2022; Stoianov said policy changed after the Radev government took office this year."
+    },
+    {
+      "id": "4926565",
+      "time": "2026-06-10 00:26:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）"
+    },
     {
       "id": "4926564",
       "time": "2026-06-10 00:25:54",
@@ -173593,102 +173640,6 @@
         "MKT News"
       ],
       "text": "US Secretary of State Rubio said the US has achieved significant results, including preemptive de-escalation of crises before they erupted and the ending of ongoing conflicts, and said he was proud of those efforts."
-    },
-    {
-      "id": "4913460",
-      "time": "2026-06-03 00:30:09",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛CEO所羅門：今年下半年美國消費者行為可能出現轉變。"
-    },
-    {
-      "id": "mkt:019e892b-6d96-7779-8aab-05cfe2118eab",
-      "time": "2026-06-03 00:29:45",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Goldman Sachs CEO Solomon said systemic liquidity is ample to absorb large IPOs."
-    },
-    {
-      "id": "4913459",
-      "time": "2026-06-03 00:28:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：當前市場貪婪情緒遠超恐慌情緒。"
-    },
-    {
-      "id": "mkt:019e892a-91d5-7779-8aaa-f8f47a8fcc41",
-      "time": "2026-06-03 00:28:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Secretary of State Rubio said Venezuela's oil wealth is no longer being stolen but is being used directly to pay government employees' salaries, to procure medical equipment, and is being audited. He described this as a major development."
-    },
-    {
-      "id": "4913458",
-      "time": "2026-06-03 00:28:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果（金）表示，埃博拉確診病例數已升至344例，其中死亡病例60例。"
-    },
-    {
-      "id": "mkt:019e8929-f087-7779-8aaa-f380d2b137af",
-      "time": "2026-06-03 00:28:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the president has made clear the top priority is to ensure Iran never obtains nuclear weapons."
-    },
-    {
-      "id": "4913457",
-      "time": "2026-06-03 00:27:47",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "高盛CEO所羅門：當前金融體系流動性充足，足以承接大型首次公開募股（IPO）。"
-    },
-    {
-      "id": "4913456",
-      "time": "2026-06-03 00:27:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：Alphabet上調業績指引公告發布後，股價表現向好。"
-    },
-    {
-      "id": "4913455",
-      "time": "2026-06-03 00:27:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國糖尿病協會（FFD）週二呼籲製藥公司繼續在糖尿病治療領域進行創新，擔心這種常見疾病會被蓬勃發展的肥胖症市場所掩蓋。"
-    },
-    {
-      "id": "te:markets:555839",
-      "time": "2026-06-03 00:27:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Climbs to Record Close — The FTSE MIB climbed 1.6% to close at a record 50,578 on Tuesday, recouping losses from the previous session as easing sovereign bond yields supported risk appetite. Financial stocks led gains, with UniCredit rising 1.6% and Generali adding 1.9%. Luxury shares also advanced amid signs that Chinese demand is stabilizing, with Ferrari up 2%. STMicroelectronics soared 15.1% after raising its data-center revenue target, citing strong AI-driven demand and ongoing capacity expansion. Meanwhile, investors monitored developments in the Middle East after Iran suspended indirect talks with Washington over Israel's military operations in Lebanon, although US President Donald Trump maintained that negotiations were still ongoing. On the data front, Eurozone's preliminary inflation data showed the headline rate rose to 3.2% as expected, while the core inflation rose slightly more than expected to 2.5%, consolidating bets of a rate hike by the ECB next week."
     }
   ]
 }
