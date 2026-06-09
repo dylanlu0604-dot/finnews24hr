@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-09 15:57:01",
-  "count": 19131,
+  "updated": "2026-06-09 16:01:29",
+  "count": 19122,
   "items": [
+    {
+      "id": "te:markets:557595",
+      "time": "2026-06-09 16:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 1.84% — Top commodity gainer is Natural gas (1.84%). Biggest losers are Crude Oil WTI (-1.80%), Brent Crude Oil (-1.43%) and Natural Gas EU (-0.66%)."
+    },
+    {
+      "id": "mkt:019eab65-a288-7bb0-a8d3-c3dee37f3f71",
+      "time": "2026-06-09 16:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan May imports YoY 54.9% vs expected 37.4%; prior 29.2%."
+    },
+    {
+      "id": "mkt:019eab65-a1c1-7bb0-a8d3-b954dc8a704f",
+      "time": "2026-06-09 16:00:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Trade Balance (May) | actual 17910000000B | consensus 15200000000B | previous 14350000000B"
+    },
+    {
+      "id": "mkt:019eab65-a1c0-7bb0-a8d3-b320ca005283",
+      "time": "2026-06-09 16:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's May exports rose 51.7% YoY, versus consensus 37.9% and the prior 39.0%."
+    },
+    {
+      "id": "mkt:019eab65-6d56-7bb0-a8d3-aa31861dd297",
+      "time": "2026-06-09 16:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Imports (YoY) (May) | actual 54.9% | consensus 37.4% | previous 29.20%"
+    },
+    {
+      "id": "mkt:019eab65-6bdd-7bb0-a8d3-a49c75b8b55a",
+      "time": "2026-06-09 16:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fliggy: Dragon Boat Festival inbound travel bookings more than sixfold YoY】Fliggy's 2025 Dragon Boat Festival travel report: inbound travel bookings for the holiday are up more than sixfold YoY to date. Family travel accounts for over 50% of bookings; destination activity packages (dining, performances, attractions) are up 83% YoY. Student travel is the fastest-growing segment: booked traveler counts rose over 70% YoY and booking volume rose 97% YoY."
+    },
+    {
+      "id": "mkt:019eab65-51d3-7bb0-a8d3-9e2f7cc2781f",
+      "time": "2026-06-09 16:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Exports (YoY) (May) | actual 51.7% | consensus 37.9% | previous 39.00%"
+    },
+    {
+      "id": "4925528",
+      "time": "2026-06-09 16:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛豬：端午假期入境遊預訂量同比增長超6倍】來自飛豬《2025年端午假期出遊風向標》的資料顯示，親子家庭是端午假期出遊主力軍，佔比超五成，截至目前包含餐飲、演出、遊樂專案等在內的目的地玩樂組合商品預訂量同比去年增長83%。另外，學生人群出遊增速最快，預訂人次同比提升超70%，預訂量同比增長97%。另一方面，入境遊持續保持高位增速。飛豬資料顯示，截至目前端午假期的入境遊預訂量同比增長超6倍。"
+    },
+    {
+      "id": "mkt:019eab64-d91a-7bb0-a8d3-926fdc1ee74f",
+      "time": "2026-06-09 15:59:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SHL.DE",
+        "Impact bullish"
+      ],
+      "text": "【Siemens Healthineers' first China-made dual-source photon-counting CT approved by NMPA】Siemens Healthineers said on June 9 its first China-made dual-source photon-counting CT, the NAEOTOM Alpha.Pro, received marketing approval from the National Medical Products Administration (NMPA). Production will take place at Siemens Healthineers' Shanghai R&D and manufacturing base; the company expects a second China-made photon-counting CT to gain approval in 2026."
+    },
+    {
+      "id": "4925527",
+      "time": "2026-06-09 15:59:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都至廣州快捷物流產品示範線班列累計發運量破百列】6月9日8時48分，伴隨著清脆的汽笛聲響，X8658次貨運班列緩緩駛出成都城廂站，奔赴廣州。至此，成都至廣州快捷物流產品示範線班列累計發運量突破100列。（新華社）"
+    },
+    {
+      "id": "4925526",
+      "time": "2026-06-09 15:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西門子醫療首款國產雙源光子計數CT產品獲批上市】6月9日，西門子醫療首款國產雙源光子計數CT NAEOTOM Alpha.Pro獲得國家藥品監督管理局（NMPA）上市批准。國產雙源光子計數CT未來將在西門子醫療上海研發與生產基地生產。預計2026年內，西門子醫療第二款國產光子計數CT產品也將獲批上市。"
+    },
+    {
+      "id": "te:markets:557592",
+      "time": "2026-06-09 15:58:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Sets New Record High — The FTSE MIB climbed over 1% to around 50,700 on Tuesday, scaling a fresh record and outperforming its regional peers, propelled by strength in heavyweight financials as markets braced ahead of the European Central Bank’s monetary policy decision later this week. The central bank is widely expected to raise interest rates by 25 bps, while investors are also awaiting guidance for clues on the future path of monetary policy. Sentiment also improved as oil prices eased following commitments by Iran and Israel to scale back hostilities after a recent flare in violence. Leading gains in financials were UniCredit (+1.7%), Intesa Sanpaolo (+1.4%), Banco BPM (+2%), BPER Banca (+3.6%), Mediobanca (+1.3%), Unipol Gruppo (+4.6%), Poste Italiane (+3.2%) and FinecoBank (+1.5%)."
+    },
+    {
+      "id": "4925525",
+      "time": "2026-06-09 15:57:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【以色列和伊朗停止威脅和談的襲擊後，油價下跌】在以色列和伊朗停止相互攻擊後，油價回吐了前一交易日的大部分漲幅。此前兩國衝突一度升溫，威脅到了旨在結束戰爭的地區談判。歐洲市場早盤，布倫特原油下跌1.2%，至93.08美元/桶；西得州中質油期貨下跌1.8%，至89.68美元/桶。盛寶銀行分析師表示：“美國出口激增、戰略石油儲備釋放以及一定程度的需求破壞，這些因素有助於解釋為何在上個月供應受擾期間，油價未能出現更強勁的上漲。"
+    },
+    {
+      "id": "4925524",
+      "time": "2026-06-09 15:56:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創元科技：控股子公司蘇州電瓷預中標國家電網1.74億元專案】創元科技公告稱，2026年6月8日，國家電網公示2026年特高壓專案第二次材料公開招標採購推薦中標候選人，公司控股子公司蘇州電瓷為瓷絕緣子包3、包5推薦中標候選人，預中標金額1.74億元（含稅），佔公司2025年度營收的3.64%。待三天公示期滿且無異議後，蘇州電瓷將與各包段電力公司籤合同，但截至公告日，尚未獲正式中標通知書，合同簽署仍存不確定性。"
+    },
     {
       "id": "4925523",
       "time": "2026-06-09 15:55:43",
@@ -176234,223 +176364,6 @@
         "國際"
       ],
       "text": "歐洲央行表示，黃金已取代美國國債成為全球第一大儲備資產。"
-    },
-    {
-      "id": "4912250",
-      "time": "2026-06-02 16:01:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【科大智慧：與華西能源籤1.3億美元裝置採購框架合同】科大智慧公告稱，6月2日，公司與華西能源簽署《伊拉克巴格達Al-Daura熱電廠4×160MW燃油發電重建專案裝置採購框架合同》，暫估總價約1.3億美元。該合同若順利實施，將促進公司數字能源業務海外拓展，提升業績，但受中東地區政治經濟環境及華西能源經營現狀影響，專案實施進度和合同執行情況存在不確定性。雙方需在3個月內簽訂正式合同。"
-    },
-    {
-      "id": "mkt:019e875a-058f-7555-bd38-09b80842c37d",
-      "time": "2026-06-02 16:01:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【China National Petroleum completes Macau's first 'currency bridge' CBDC cross-border transaction】On June 1, 2026, at a China–Portuguese-speaking countries CBDC seminar in Macau, China National Petroleum and Bank of China completed the first multilateral CBDC bridge transaction between Macau and Hong Kong, which they said will boost cross-border funding efficiency in the Guangdong-Hong Kong-Macao Greater Bay Area. The companies also executed Macau's first 'currency bridge' CBDC transfer to the UAE, opening a direct renminbi settlement channel into the Middle East."
-    },
-    {
-      "id": "4912249",
-      "time": "2026-06-02 16:00:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：銅庫存減少1800噸，錫庫存減少5噸，鎳庫存減少1104噸，鋁庫存減少2250噸，鉛庫存持平，鋅庫存持平。"
-    },
-    {
-      "id": "mkt:019e8759-ad11-7555-bd38-04d2166d4cb4",
-      "time": "2026-06-02 16:00:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Nickel",
-        "Aluminium"
-      ],
-      "text": "LME stocks: copper down 1,800 tonnes, nickel down 1,104 tonnes, aluminium down 2,250 tonnes, tin down 5 tonnes; lead unchanged, zinc unchanged."
-    },
-    {
-      "id": "mkt:019e8759-9fbc-7555-bd37-fe7e16dae832",
-      "time": "2026-06-02 16:00:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT governor says no need to raise rates to counter inf."
-    },
-    {
-      "id": "mkt:019e8759-8526-7555-bd37-f1fbfcb504cf",
-      "time": "2026-06-02 16:00:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "European Parliament International Trade Committee overwhelmingly backed implementing the outcomes of EU‑US agreement negotiations, MEP Bernd Lange said. The measure will go to a plenary vote on June 16."
-    },
-    {
-      "id": "4912248",
-      "time": "2026-06-02 16:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家開發銀行原行務委員蔣志剛接受審查調查】中央紀委國家監委網站6月2日通報，據中央紀委國家監委駐國家開發銀行紀檢監察組、安徽省紀委監委訊息：國家開發銀行原行務委員、專家委員會原資深專家蔣志剛涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家開發銀行紀檢監察組紀律審查和安徽省宿州市監察委員會監察調查。"
-    },
-    {
-      "id": "4912247",
-      "time": "2026-06-02 16:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省青島市城陽區委書記呂鵬接受審查調查】中央紀委國家監委網站6月2日通報，據山東省紀委監委訊息：山東省青島市城陽區委書記呂鵬涉嫌嚴重違紀違法，主動投案，目前正接受山東省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4912246",
-      "time": "2026-06-02 16:00:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其中央銀行透過傳統方式開展1週期黃金兌里拉賣方掉期拍賣，拍賣規模為7噸。"
-    },
-    {
-      "id": "4912245",
-      "time": "2026-06-02 16:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國機械工業聯合會（VDMA）表示，4月德國工程訂單陷入停滯，國內需求低迷抵消了海外需求的增長。"
-    },
-    {
-      "id": "4912244",
-      "time": "2026-06-02 16:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國工程裝置行業協會（VDMA）表示，2-4月德國工程訂單同比增長5%，其中國內訂單下降2%，海外訂單增長9%。"
-    },
-    {
-      "id": "4912243",
-      "time": "2026-06-02 16:00:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國機械工程協會（VDMA）表示，4月德國工程訂單同比持平，其中國內訂單下降7%，海外訂單增長4%。"
-    },
-    {
-      "id": "4912242",
-      "time": "2026-06-02 16:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國牽頭制定的安全協議測試國際標準釋出】記者今天從國家標準委瞭解到國際標準《資訊科技 安全服務密碼套件一致性測試方法 第16部分：ECDSA-ECDH密碼套件》釋出。該標準由我國牽頭主導制定，擁有完全自主智慧財產權，是我國資訊保安服務領域的重要創新成果，為國際密碼套件合規應用、安全測評提供了統一技術規範。（央視新聞）"
-    },
-    {
-      "id": "te:markets:555695",
-      "time": "2026-06-02 16:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.34% — Top commodity losers are Natural Gas UK (-2.34%), Natural Gas EU (-2.03%), Heating Oil (-1.72%), Crude Oil WTI (-1.61%) and Brent Crude Oil (-1.42%). Gains are led by Natural gas (0.83%)."
-    },
-    {
-      "id": "4912241",
-      "time": "2026-06-02 15:59:47",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【中國石油順利完成澳門首筆貨幣橋跨境交易】2026年6月1日，“中國——葡語國家央行數字貨幣發展與跨境創新應用高階研討會”在澳門成功舉辦。中國石油與中國銀行緊密協作，順利完成澳門與香港間的首筆多邊央行數字貨幣橋（mBridge，簡稱“貨幣橋”）跨境交易，有效提升粵港澳大灣區跨境資金效率；成功落地澳門通往阿聯酋的首筆“貨幣橋”跨境交易，為人民幣直接進入中東市場開闢新通道。(中國石油)"
-    },
-    {
-      "id": "te:markets:555694",
-      "time": "2026-06-02 15:59:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Advances on Tuesday — Frankfurt's DAX 40 rose more than 1% to around 25,265 on Tuesday, following a weak start to the month, as AI optimism about tech stocks outweighed uncertainty over a Middle East peace deal. US President Donald Trump said he expected a deal with Iran on extending a ceasefire and reopening the Strait of Hormuz could be reached next week, hours after reports that the negotiations had been suspended. Lebanon also announced a partial ceasefire between Hezbollah and Israel, helping to ease tensions and potentially paving the way for renewed efforts to end the conflict. Meanwhile, investors awaited eurozone inflation data for signals on whether the ECB may tighten policy next week. Among key movers, Infineon Technologies surged 5.7% and SAP advanced 1.7%. DHL Group shares climbed over 3% after analysts at Kepler Cheuvreux issued a buy recommendation. Meanwhile, Siemens Energy edged lower after announcing the acquisition of Northern Ireland’s Camlin Group."
-    },
-    {
-      "id": "4912240",
-      "time": "2026-06-02 15:59:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【韻達控股：“26 韻達 01”5 億元公司債 6 月 3 日深交所上市】韻達控股公告稱，公司 2026 年面向專業投資者公開發行公司債券（第一期）符合深交所債券上市條件，將於 2026 年 6 月 3 日起上市交易，交易方式多樣。該債券簡稱“26 韻達 01”，程式碼 524810，發行總額 5 億元，期限 2 年，票面年利率 1.70%，按年付息，起息日為 2026 年 5 月 25 日，到期日為 2028 年 5 月 25 日。"
-    },
-    {
-      "id": "4912239",
-      "time": "2026-06-02 15:59:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天溯計量：調整認定部分核心技術人員 劉洪華不再擔任】天溯計量公告稱，公司基於未來發展考量，調整認定部分核心技術人員，增加許亮為核心技術人員，劉洪華因工作內容調整不再擔任，仍在公司任其他職務。截至公告披露日，劉洪華間接持股0.0069%，許亮間接持股0.1150%。公司表示，本次變動不會對研發活動產生實質性影響，劉洪華相關工作已平穩交接。變動後核心技術人員為石霞、鄧軍、楊元金、許亮。"
-    },
-    {
-      "id": "4912238",
-      "time": "2026-06-02 15:59:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三川智慧：轉讓景川水務57.7634%股權 作價369.37萬元】三川智慧公告稱，2026年5月29日，公司經2026年第四次總裁決策會審議透過，將所持景川水務57.7634%股權以369.37萬元轉讓給鷹潭市龍虎山景區龍興國有資產運營管理(集團)有限公司。轉讓價款分三期支付，本次交易不構成關聯交易和重大資產重組。交易完成後，公司不再持有景川水務股權，不會對公司財務等構成重大不利影響。"
-    },
-    {
-      "id": "4912237",
-      "time": "2026-06-02 15:59:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要股指BIST-100指數<.XU100>漲幅擴大，上漲2%；銀行指數<.XBANK>上漲3.5%。"
-    },
-    {
-      "id": "4912236",
-      "time": "2026-06-02 15:58:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至2026年6月2日，北京市新增10款已完成備案的生成式人工智慧服務，累計已完成241款生成式人工智慧服務備案。"
-    },
-    {
-      "id": "mkt:019e8757-0d2e-7555-bd37-edde8a7152da",
-      "time": "2026-06-02 15:58:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【European Parliament trade committee approves US-EU trade deal】On June 2 the European Parliament’s international trade committee voted to approve the US-EU trade agreement. The accord was first announced in July 2025 by US President Trump and European Commission President Von der Leyen; its ratification was delayed for months after tensions following US demands for Denmark’s autonomous territory Greenland and a US Supreme Court ruling that large-scale US tariff policy was unlawful. The European Parliament backed conditional implementation on March 26 and EU member states accepted the parliament’s recommendations in May."
-    },
-    {
-      "id": "4912235",
-      "time": "2026-06-02 15:58:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫朱共山談太空能源：耐輻射封裝一旦過關，鈣鈦礦/疊層技術有望五到十年內進入太空】6月2日訊息，在今天舉行的第十九屆(2026)國際太陽能光伏和智慧能源(上海)大會開幕式上，本屆大會執行主席，全球綠色能源理事會(GGEIC)主席，亞洲光伏產業協會(APVIA)主席、協鑫集團董事長朱共山在致辭中談到，光伏產業正規化革命的下半場，是向天借地的太空能源。朱共山透露，鈣鈦礦/疊層技術相關驗證取得突破，工程可靠性驗證、批次化製造與系統成本最佳化正持續向前，其耐輻射封裝一旦過關，有望在五到十年內切入太空應用序列。（新浪科技）"
     }
   ]
 }
