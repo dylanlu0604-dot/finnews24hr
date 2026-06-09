@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-09 13:54:56",
-  "count": 19177,
+  "updated": "2026-06-09 13:58:39",
+  "count": 19178,
   "items": [
+    {
+      "id": "4925286",
+      "time": "2026-06-09 13:56:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王傳福：五年後比亞迪將在規模上做到真正的全球第一】比亞迪股份有限公司召開2025年度股東會。王傳福表示，展望未來三到五年，比亞迪都將保持持續增長。在二代刀片、閃充技術，以及明後年將會推出的新技術的加持下，國內、國外有望實現雙輪驅動，形成良性互動，讓中國的技術走向全球。他表示，預期到2030年，比亞迪將“獲得很大的增長”，“五年以後，比亞迪在規模上，能夠做到真正的全球第一”。"
+    },
+    {
+      "id": "4925285",
+      "time": "2026-06-09 13:55:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌5個基點至3.585%。"
+    },
+    {
+      "id": "mkt:019eaaf3-9244-7eec-b849-da38d9231884",
+      "time": "2026-06-09 13:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's real GDP rose 3% YoY in Q1."
+    },
+    {
+      "id": "4925284",
+      "time": "2026-06-09 13:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯第一季度GDP同比增長3%。"
+    },
     {
       "id": "mkt:019eaaf1-eb21-7eec-b849-d23e1c7f14f1",
       "time": "2026-06-09 13:54:01",
@@ -176862,35 +176895,6 @@
         "Greater China"
       ],
       "text": "A-share Foxconn Industrial hit the daily limit-up; turnover topped 24.6 billion yuan and the stock approached a record high."
-    },
-    {
-      "id": "mkt:019e86e8-dc1d-7dd4-a7a8-8450f896424b",
-      "time": "2026-06-02 13:57:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "QUNR.O",
-        "Impact bullish"
-      ],
-      "text": "【Qunar: Advance summer inbound bookings to Beijing up >20% YoY】Qunar data show advance bookings for summer 2026 inbound flights to Beijing are up more than 20% YoY. Jan–May 2026 foreign traveler bookings on Qunar covered over 100 Chinese cities; Beijing remains a top-3 inbound destination and saw a notable increase in foreigners using Beijing as their first stop versus last year."
-    },
-    {
-      "id": "4911965",
-      "time": "2026-06-02 13:57:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼電力：目標裝機容量42050兆瓦，目前運營裝機容量18330兆瓦。"
-    },
-    {
-      "id": "4911964",
-      "time": "2026-06-02 13:56:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿達尼電力公司：煤炭對印度的基礎負荷電力需求至關重要。"
     }
   ]
 }
