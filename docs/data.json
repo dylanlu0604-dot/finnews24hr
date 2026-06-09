@@ -1,7 +1,211 @@
 {
-  "updated": "2026-06-10 00:38:29",
-  "count": 18816,
+  "updated": "2026-06-10 00:42:19",
+  "count": 18829,
   "items": [
+    {
+      "id": "4926585",
+      "time": "2026-06-10 00:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "VIX 指數自 4 月 7 日以來首次升至 23 以上。"
+    },
+    {
+      "id": "4926584",
+      "time": "2026-06-10 00:41:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱美國必須對伊朗襲擊美國直升機事件作出回應】美國總統特朗普在社交媒體“真相社交”發文稱， 我方精銳軍方剛剛通報，昨晚伊朗方面在霍爾木茲海峽上空擊落了我方一架先進的阿帕奇直升機。機上兩名飛行員均安然無恙、未受損傷。 即便如此，美國必然會對此次襲擊作出回應。"
+    },
+    {
+      "id": "mkt:019ead42-5fbc-7992-a4a7-07ecf0347992",
+      "time": "2026-06-10 00:41:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose about $3/bbl intraday after Trump said Iran shot down a US Apache helicopter and that Washington would respond."
+    },
+    {
+      "id": "mkt:019ead41-8ba3-7992-a4a6-f972a155596e",
+      "time": "2026-06-10 00:40:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said Iran shot down a U.S. Apache helicopter in the Strait of Hormuz and the United States must respond."
+    },
+    {
+      "id": "4926583",
+      "time": "2026-06-10 00:39:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.03%，現報50261.430點；納指跌3.55%，現報25008.261點；標普500指數跌2.13%，現報7247.980點。"
+    },
+    {
+      "id": "mkt:019ead40-fe50-7992-a4a6-f0c03f09b749",
+      "time": "2026-06-10 00:39:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "The Dow Jones Industrial Average fell as much as 1%."
+    },
+    {
+      "id": "4926582",
+      "time": "2026-06-10 00:39:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌2.11%。"
+    },
+    {
+      "id": "4926581",
+      "time": "2026-06-10 00:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4240.12美元/盎司。"
+    },
+    {
+      "id": "mkt:019ead40-b2e0-7992-a4a6-e98da748996d",
+      "time": "2026-06-10 00:39:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver dropped 5% intraday to $64.71/oz. New York gold futures fell 2% intraday to $4,276.10/oz. Spot gold slipped below $4,250/oz, down nearly 2% on the day."
+    },
+    {
+      "id": "4926580",
+      "time": "2026-06-10 00:39:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報64.69美元/盎司。"
+    },
+    {
+      "id": "4926579",
+      "time": "2026-06-10 00:39:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "4926578",
+      "time": "2026-06-10 00:39:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國將對伊朗擊落直升機事件作出回應。"
+    },
+    {
+      "id": "4926577",
+      "time": "2026-06-10 00:38:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗方面昨晚擊落了我方一架直升機。"
+    },
+    {
+      "id": "mkt:019ead40-2f8b-7992-a4a6-e23197f1dd1e",
+      "time": "2026-06-10 00:38:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 fell more than 2% intraday."
+    },
+    {
+      "id": "4926576",
+      "time": "2026-06-10 00:38:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌2.01%，現報7256.780點；道指跌0.92%，現報50320.430點；納指跌3.35%，現報25060.305點。"
+    },
+    {
+      "id": "4926575",
+      "time": "2026-06-10 00:38:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4250美元/盎司，日內跌1.85%。"
+    },
+    {
+      "id": "te:markets:557762",
+      "time": "2026-06-10 00:38:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Solar Energy Index Hits 4-week Low — Solar Energy Index decreased to 59.76 USD, the lowest since May 2026. Over the past 4 weeks, Solar Energy Index lost 6.08%, and in the last 12 months, it increased 75.36%."
+    },
+    {
+      "id": "mkt:019ead3f-be35-7992-a4a6-da9977973192",
+      "time": "2026-06-10 00:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said he prefers resolving disputes through diplomacy but warned that if counterparts fail to honor commitments Iran will respond by other means it considers most effective."
+    },
+    {
+      "id": "4926574",
+      "time": "2026-06-10 00:38:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4270美元/盎司，日內跌2.16%。"
+    },
+    {
+      "id": "4926573",
+      "time": "2026-06-10 00:38:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守65美元/盎司，日內跌5.24%。"
+    },
+    {
+      "id": "4926572",
+      "time": "2026-06-10 00:38:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4274.76美元/盎司。"
+    },
     {
       "id": "te:markets:557761",
       "time": "2026-06-10 00:35:52",
@@ -173565,73 +173769,6 @@
         "其他"
       ],
       "text": "惠譽：估算哥倫比亞要實現債務穩定需要相當於國內生產總值4%的調整，2027年更高的全球油價將透過稅收和股息提振該國財政收入。"
-    },
-    {
-      "id": "4913473",
-      "time": "2026-06-03 00:42:17",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：相較於六個月前，今年剩餘時間降息的可能性已大幅下降。"
-    },
-    {
-      "id": "4913472",
-      "time": "2026-06-03 00:42:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：以色列對黎巴嫩沒有領土要求。"
-    },
-    {
-      "id": "mkt:019e8936-7b3d-7779-8aab-287180c462eb",
-      "time": "2026-06-03 00:41:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: SpaceX plans to raise at least $75 billion in IPO】SpaceX plans to raise at least $75 billion in an IPO and is targeting a $1.75 trillion valuation including the overallotment option, sources said. After preliminary investor outreach the company intends an all-primary share sale, with proceeds to the company rather than existing shareholders. The proposed deal would include a green‑shoe/overallotment to expand supply if demand exceeds expectations. Sources warned deal size and other terms could change as investor meetings continue."
-    },
-    {
-      "id": "4913471",
-      "time": "2026-06-03 00:41:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "全美汽車工人聯合會（UAW）在道奇公司工廠發起罷工，致使通用汽車盈利主力重型卡車的零部件供應陷入中斷。"
-    },
-    {
-      "id": "4913470",
-      "time": "2026-06-03 00:41:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：如果伊朗在停火生效時履行其承諾，（霍爾木茲海峽）封鎖就不會被實施。"
-    },
-    {
-      "id": "4913469",
-      "time": "2026-06-03 00:39:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國監管機構批准三里島核電站重啟豁免申請。"
-    },
-    {
-      "id": "4913468",
-      "time": "2026-06-03 00:39:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲議會擬棄用谷歌，改用Qwant搜尋引擎。\n注：Qwant為法國自研隱私導向型搜尋引擎。"
-    },
-    {
-      "id": "4913467",
-      "time": "2026-06-03 00:38:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長釋出AION推理與規劃模型。"
     }
   ]
 }
