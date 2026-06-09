@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09 13:19:54",
-  "count": 19188,
+  "updated": "2026-06-09 13:24:06",
+  "count": 19182,
   "items": [
+    {
+      "id": "4925240",
+      "time": "2026-06-09 13:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃百鳴被判處入獄5個月】現年80歲的香港電影人黃百鳴因內幕交易罪，6月9日於香港西九龍裁判法院被判處入獄5個月，另罰款超過9.9萬港元及須支付調查費用約37.4萬港元。 裁判官高偉雄判刑時指出，黃百鳴身為上市公司股東，其行為損害公眾對香港證券市場的信心。儘管黃百鳴對香港電影業奉獻一生，且胞妹獲得的實際利益不算大，但其舉動會對公眾信心造成影響，故不接納以聲譽受損及身心健康問題作為減刑理由。 （中新網）"
+    },
     {
       "id": "4925238",
       "time": "2026-06-09 13:18:11",
@@ -176894,78 +176902,6 @@
         "焦點"
       ],
       "text": "創業板指漲3.01%，現報4069.689點；上證指數漲0.58%，現報4081.374點；深證成指漲1.78%，現報15613.919點。"
-    },
-    {
-      "id": "mkt:019e86c9-3ce2-7dd4-a7a7-b360f8d5288e",
-      "time": "2026-06-02 13:23:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "3908.HK",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "A-share brokerage sector rallied: Zhongxin Jiantou jumped over 6%, Guotai Haitong rose more than 2%; China International Capital Co., Guojin Securities and Industrial Securities also gained."
-    },
-    {
-      "id": "mkt:019e86c9-0002-7dd4-a7a7-aaafc05464d6",
-      "time": "2026-06-02 13:23:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【Arm CEO Haas says HBM, DRAM and NAND supply will remain tight】Arm CEO Rene Haas said in Taipei that supply-demand balances for memory — including high-bandwidth memory (HBM), DRAM and NAND — are tight and will remain so for some time. He attributed the shortage to insufficient capacity expansion during the prior downturn, saying memory remains the hardest bottleneck to resolve."
-    },
-    {
-      "id": "4911918",
-      "time": "2026-06-02 13:22:56",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【券商板塊異動 中信建投漲超6%】券商板塊異動，中信建投漲超6%，國泰海通漲超2%，中金公司、國金證券、興業證券等拉昇。"
-    },
-    {
-      "id": "4911917",
-      "time": "2026-06-02 13:22:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本10年期國債中標需求旺盛 收益率走低】儘管中東局勢不確定性仍存，但高收益率吸引投資者踴躍申購，日本10年期國債招標需求強勁，帶動期內國債收益率下行。招標落地後，基準10年期國債收益率最深回落11個基點至2.57%；本次投標倍數為3.53，上一期招標為3.9，過去12個月均值3.35。受美伊衝突推升通脹與財政政策擔憂影響，日本國債收益率近期攀升至多年高位，上月10年期收益率創下1996年以來峰值。三井住友信託資產管理資深策略師 Katsutoshi Inadome表示：“本次招標發行順暢。日本國債長端市場情緒回暖，疊加10年期品種估值偏低，共同支撐認購需求。”"
-    },
-    {
-      "id": "mkt:019e86c8-8798-7dd4-a7a7-a412d2988c23",
-      "time": "2026-06-02 13:22:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Maldives to restrict under-16s' access to some social media platforms】President Muiz said on June 1 local time the government will restrict access to certain social media platforms for under-16s, with full implementation within one year. The government said the measure aims to protect child welfare and community safety and cited concerns about online grooming and cyberbullying targeting teenagers."
-    },
-    {
-      "id": "4911916",
-      "time": "2026-06-02 13:22:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4550美元/盎司，日內漲0.98%。"
-    },
-    {
-      "id": "4911915",
-      "time": "2026-06-02 13:21:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Arm執行長：儲存晶片供應整體仍吃緊】Arm執行長Rene Haas在中國臺北告訴記者，包括高頻寬儲存晶片、DRAM和NAND在內的各類儲存晶片的供需平衡都很緊張。Haas表示，未來一段時間內，供應整體仍將保持緊張。他表示，由於之前下行時期時產能擴張不足，儲存晶片仍然是最難解決的瓶頸問題。"
     }
   ]
 }
