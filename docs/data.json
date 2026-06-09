@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-10 05:29:55",
-  "count": 18691,
+  "updated": "2026-06-10 05:33:50",
+  "count": 18701,
   "items": [
+    {
+      "id": "mkt:019eae4d-7331-7ff4-a101-5b774bcb51ef",
+      "time": "2026-06-10 05:32:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran state media confirmed a missile strike on the Sirik region."
+    },
+    {
+      "id": "4926716",
+      "time": "2026-06-10 05:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳航推出境內經濟艙票價：190餘條航線、近60個航點的單程票價低至105澳元。"
+    },
+    {
+      "id": "mkt:019eae4c-e05d-7ff4-a101-540faee7b0bc",
+      "time": "2026-06-10 05:32:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump told ABC News that a U.S. response to Iran is important, saying, \"They shot down a helicopter and we are responding. This is in response to what they did to our helicopter last night, and I believe the response should be very strong, very forceful.\""
+    },
+    {
+      "id": "4926715",
+      "time": "2026-06-10 05:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，錫裡克鎮證實遭一枚炮彈擊中。"
+    },
+    {
+      "id": "mkt:019eae4c-12eb-7ff4-a101-4979ae317ae0",
+      "time": "2026-06-10 05:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media outlet Fars News reported explosions were heard in eastern Hormozgan province."
+    },
+    {
+      "id": "4926714",
+      "time": "2026-06-10 05:30:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普接受美國廣播公司採訪時表示：美方對伊朗的反擊行動力度十足、攻勢強勁。"
+    },
+    {
+      "id": "4926713",
+      "time": "2026-06-10 05:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社稱霍爾木茲甘省東部地區傳出爆炸聲。"
+    },
+    {
+      "id": "4926712",
+      "time": "2026-06-10 05:30:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普向美國廣播公司表示：美國當下正在對伊朗採取應對行動。"
+    },
+    {
+      "id": "mkt:019eae4a-db5d-7ff4-a101-420b8c7adfc0",
+      "time": "2026-06-10 05:30:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The US retaliatory strike against Iran began about 30 minutes ago, the New York Post reports. A US military statement said the action maintained \"proportionality\", which may indicate it was not intended to escalate into full-scale war."
+    },
+    {
+      "id": "4926711",
+      "time": "2026-06-10 05:29:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱，必須對伊朗擊落美軍直升機一事作出回應。"
+    },
     {
       "id": "4926710",
       "time": "2026-06-10 05:28:22",
