@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-09 08:30:40",
-  "count": 19181,
+  "updated": "2026-06-09 08:34:33",
+  "count": 19190,
   "items": [
+    {
+      "id": "4924851",
+      "time": "2026-06-09 08:33:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報67.45美元/盎司。"
+    },
+    {
+      "id": "4924850",
+      "time": "2026-06-09 08:33:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：如遇不可預見的情況，將制定追加預算。"
+    },
+    {
+      "id": "4924849",
+      "time": "2026-06-09 08:33:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：對當前匯率水平“不予置評”。"
+    },
+    {
+      "id": "mkt:019ea9cc-23a3-733a-9237-fa5f7e7cbbd9",
+      "time": "2026-06-09 08:33:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister KATAYAMA said readiness to take decisive action remains unchanged."
+    },
+    {
+      "id": "mkt:019ea9cb-ebc9-733a-9237-f3740b0ae827",
+      "time": "2026-06-09 08:32:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $67.47/oz."
+    },
+    {
+      "id": "4924848",
+      "time": "2026-06-09 08:32:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：我們對隨時準備採取果斷行動的立場沒有改變。"
+    },
+    {
+      "id": "4924847",
+      "time": "2026-06-09 08:32:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局警告稱，由於人員配備不足，芝加哥奧黑爾機場可能出現延誤。"
+    },
+    {
+      "id": "4924846",
+      "time": "2026-06-09 08:31:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX首次公開募股獲大幅超額認購 多家機構提交百億美元級訂單】根據知情人士透露，SpaceX的首次公開募股獲得大幅超額認購，多家機構投資者提交了約100億美元或以上的認購訂單，市場對這場有望創下紀錄的發行需求強勁。部分知情人士透露，主導此次發行的銀行預計將於紐約時間週三下午4點美股收盤後停止接受機構投資者的訂單。由於相關資訊尚未公開，知情人士要求匿名。"
+    },
+    {
+      "id": "4924845",
+      "time": "2026-06-09 08:31:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統JD·萬斯批評英國移民政策。"
+    },
+    {
+      "id": "mkt:019ea9ca-c4e1-733a-9237-ee079cb1dcac",
+      "time": "2026-06-09 08:31:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said a balance can be struck between fiscal sustainability and measures to support the economy."
+    },
+    {
+      "id": "mkt:019ea9ca-2989-733a-9237-e2a7537007ba",
+      "time": "2026-06-09 08:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated a temporary buy-side suspension mechanism on the KOSDAQ; program trading halted for five minutes."
+    },
+    {
+      "id": "mkt:019ea9c9-c30b-733a-9237-d9bee7e60e8a",
+      "time": "2026-06-09 08:30:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia June Westpac/Melbourne consumer confidence index 80.6, previous 83.0."
+    },
     {
       "id": "mkt:019ea9c9-8af9-733a-9237-d3262e271094",
       "time": "2026-06-09 08:30:17",
@@ -176902,31 +177007,6 @@
         "國際"
       ],
       "text": "韓國股市早盤波動劇烈，首爾綜合股價指數現漲0.25%，此前從上漲1.7%快速下跌，一度跌逾3%。"
-    },
-    {
-      "id": "4911526",
-      "time": "2026-06-02 08:34:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀河證券：旺季與世界盃共振 看好精釀啤酒與區域品牌擴張】銀河證券研報稱，啤酒板塊經營具備韌性，看好啤酒行業順價能力，目前鋁罐價格同比漲幅明顯，大麥與玻璃亦小幅上漲，預計2026年下半年漲價趨勢延續，但啤酒行業可透過品類結構最佳化、減促降費等措施對沖，參考2017年以來成本上漲週期，啤酒行業均實現盈利能力穩中有升。短期關注旺季與世界盃催化，一方面6—8月全國天氣炎熱利好啤酒消費，另一方面世界盃將於6—7月舉行，二者共振有望帶動餐飲、自飲等場景修復。看好具備超額收益的細分方向：①精釀啤酒，行業正處於高速成長期，細分品類龍頭金星啤酒憑藉差異化產品與靈活的渠道策略，有望充分享受賽道擴容紅利；②區域品牌擴張，關注惠泉啤酒，有望受益於福建市場競爭格局鬆動、內部管理層煥新以及1983大單品放量，具備份額提升與盈利改善的雙重邏輯。"
-    },
-    {
-      "id": "mkt:019e85c0-107e-7993-96fc-3ad0b1c2dbbb",
-      "time": "2026-06-02 08:33:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI swung sharply, erasing a 3% decline to move into positive territory."
-    },
-    {
-      "id": "4911525",
-      "time": "2026-06-02 08:31:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少37.99噸】截至2026年06月01日，全球最大的白銀ETF iShares Silver Trust持倉量為15080.70噸，較前一個交易日減少37.99噸。"
     }
   ]
 }
