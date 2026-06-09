@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-10 07:07:36",
-  "count": 18702,
+  "updated": "2026-06-10 07:11:16",
+  "count": 18700,
   "items": [
+    {
+      "id": "4926785",
+      "time": "2026-06-10 07:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【申萬宏源：跨越“J曲線” 短期關注流動性風險壓力 中期繼續佈局AI產業趨勢】申萬宏源釋出研報稱，2026年下半年，市場處於從“J曲線”左側向右側過渡的關鍵時期。短期需警惕地緣政治與美元流動性擾動帶來的波動風險；中期則應著眼於AI產業紅利的擴散趨勢，以及中國資產在全球配置中價效比的提升機遇。策略上需戰術靈活與戰略定力相結合，跨越週期，佈局未來。戰術配置層面，考慮到油價與美元流動性擾動風險，分析意見：短期（1-3個月）增加現金配置，保持商品和能源頭寸的對沖，繼續低配美債，權益配置上降低前期漲幅過大的韓國市場與基本面受油價壓力較大的東南亞市場；中期（3-6個月）根據美元流動性變化擇機增配中美科技股優質權益資產。戰略配置層面繼續看好大宗商品、中國優質資產、AI產業趨勢機會。最新一期量化資產配置“五星模型”分析意見：2026年Q3超配大宗商品、中國權益、現金；標配美股、中債；低配美債、其他新興市場。"
+    },
+    {
+      "id": "4926784",
+      "time": "2026-06-10 07:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥農業部稱，在螺旋錐蠅病例出現後，墨西哥將停止從美國進口活體動物，暫停措施適用於牛、馬、豬、綿羊、山羊及其他動物。"
+    },
+    {
+      "id": "4926783",
+      "time": "2026-06-10 07:07:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【申萬宏源：A股在26H2還有新一輪上漲行情 大週期上行結構百花齊放】申萬宏源釋出研報稱，A股結構性上漲行情演繹已接近高位區域，全面上漲空間尚待開啟，6-7月可能是快速調整視窗。後續全面上漲開啟空間，更多結構融入大週期上行行情，需要行情拉長時間，拓展大週期上行的邏輯縱深(國內海外新經濟產業趨勢拓展 + 週期性改善驗證 + 國別相對力量變遷顯性化)，26H2還有新一輪上漲行情的判斷不變。結構選擇上，6-7月可能是全球科技的調整階段，AI算力鏈業績兌現 + 股價回撥消化估值，等待AI產業趨勢再拓展。中期能夠景氣延續，業績消化估值的方向，還有創新高機會。後續科技行情也應百花齊放，國內AI產業鏈、自主可控也是新景氣方向的來源。"
+    },
     {
       "id": "4926782",
       "time": "2026-06-10 07:06:31",
@@ -172583,53 +172607,6 @@
         "國際"
       ],
       "text": "【美伊談判僵持 美以分歧加劇 專家警告協議或“名存實亡”】當地時間6月2日，有訊息稱“美伊談判中斷”，對此，美國總統特朗普、國務卿魯比奧均出面否認，表示對話仍在持續。與此同時，以色列在黎巴嫩軍事動作不斷，美以領導人就黎巴嫩局勢出現分歧。專家警告，美以分歧可能令美伊停火協議“名存實亡”。（央視）"
-    },
-    {
-      "id": "4913750",
-      "time": "2026-06-03 07:10:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4480美元/盎司，日內跌0.17%。"
-    },
-    {
-      "id": "te:economy:555866",
-      "time": "2026-06-03 07:10:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Australia Services Sector Contracts in May — The S&P Global Australia Services PMI Business Activity Index fell to 48.7 in May 2026 from 50.7 in April, revised slightly higher from initial estimates of a 47.7 contraction but marked the second decline in activity in the past three months. The downturn was driven by weaker demand, market uncertainty, and rising fuel costs linked to the ongoing Middle East conflict, which weighed on business conditions across several industries. New business declined for a third straight month and at the fastest pace in nearly two-and-a-half years, as higher prices and rising interest rates dampened demand. Export orders also fell, while companies reduced staffing levels for the first time since January 2025 amid softer workloads. Inflationary pressures remained elevated, with fuel costs continuing to push up input prices and prompting firms to pass higher expenses on to customers through increased selling prices. Meanwhile, business confidence weakened to its lowest level since November 2023."
-    },
-    {
-      "id": "4913749",
-      "time": "2026-06-03 07:09:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【逾10億美元加密貨幣遭強制平倉 比特幣跌勢加劇】隨著比特幣跌至兩個月低點，市場情緒惡化導致過去24小時內近15億美元加密貨幣被強制平倉。根據CoinGlass彙編的資料，這種強制去槓桿化，即加密貨幣交易所對高風險交易進行的自動式強制平倉，規模已創下2月份以來最高。週二，比特幣價格一度下跌7%，自4月份以來首次跌破67,000美元。市場對伊朗衝突的持續擔憂，以及主要持倉機構Strategy Inc.的拋售行為持續打壓投資者風險偏好。目前，比特幣價格已較去年10月創下的約126000美元的歷史高點下跌了近50%。此次比特幣下跌之際，恰逢AI投資熱潮再度高漲為美股注入動能，加上投資者對於美伊達成和平協議抱有期待，股市持續飆高。"
-    },
-    {
-      "id": "4913748",
-      "time": "2026-06-03 07:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：隨著初級工資標準被廢除，澳大利亞零售商面臨工資通脹】Jefferies表示，澳大利亞公平工作委員會決定到2029年廢除18至20歲員工的初級工資標準，這可能會加劇工資通脹。這一決定對許多零售商來說是個壞訊息。分析師Michael Simotas預計，在2027至2030財年期間，工資通脹將額外增加50個基點。鑑於現有的企業協議，一些零售商受到的影響將小於其他零售商。"
-    },
-    {
-      "id": "4913747",
-      "time": "2026-06-03 07:08:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4510美元/盎司，日內跌0.22%。"
     }
   ]
 }
