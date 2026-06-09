@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-10 00:46:19",
-  "count": 18819,
+  "updated": "2026-06-10 00:50:10",
+  "count": 18812,
   "items": [
+    {
+      "id": "mkt:019ead49-cbd4-7992-a4a7-1232df678213",
+      "time": "2026-06-10 00:49:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli chief of staff says strikes on Iran were preparation for larger, more forceful attack; vows intensified action against Hezbollah】IDF Chief of Staff Zamir said on the 9th that recent strikes on Iran were intended to prepare for a larger, more forceful attack and that the IDF remains ready to resume operations against Iran. He said the military has conducted rapid, forceful strikes and will continue to intensify action against Hezbollah, carrying out operations along the southern Lebanon frontline to destroy Hezbollah personnel infrastructure."
+    },
+    {
+      "id": "4926587",
+      "time": "2026-06-10 00:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊黎巴嫩已致3666人死亡】據黎巴嫩公共衛生部緊急行動中心9日訊息，3月2日至6月9日期間，以色列在黎巴嫩發動的襲擊已造成3666人死亡，11321人受傷。（央視）"
+    },
+    {
+      "id": "4926586",
+      "time": "2026-06-10 00:47:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數抹去早盤跌幅，觸及日內高點。"
+    },
     {
       "id": "mkt:019ead43-4cae-7992-a4a7-0e4d4169f3c5",
       "time": "2026-06-10 00:42:08",
@@ -173589,97 +173617,6 @@
         "MKT News"
       ],
       "text": "US Secretary of State Rubio said Hezbollah is not only an enemy of Israel and the United States, but also an enemy of Lebanon and the Lebanese people."
-    },
-    {
-      "id": "4913488",
-      "time": "2026-06-03 00:49:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們正在與伊朗談判，我們希望與伊朗達成協議，以使霍爾木茲海峽重新開放；如果伊朗堅持關閉霍爾木茲海峽，包圍力量將持續存在。伊朗可能就其核計劃的某些方面進行談判。"
-    },
-    {
-      "id": "mkt:019e893d-3925-7779-8aab-5dc4b3738d28",
-      "time": "2026-06-03 00:49:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. lawmakers propose repealing a 12% excise tax on heavy trucks."
-    },
-    {
-      "id": "mkt:019e893c-d090-7779-8aab-538a786a26b1",
-      "time": "2026-06-03 00:48:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said aircraft carrier USS Abraham Lincoln is transiting the Arabian Sea to continue support for a U.S. blockade of Iran. The U.S. military has rerouted 122 commercial vessels to new courses to ensure compliance."
-    },
-    {
-      "id": "4913487",
-      "time": "2026-06-03 00:48:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國海軍“亞伯拉罕·林肯”號航空母艦（CVN-72）正在阿拉伯海航行，該航母持續配合美方針對伊朗實施的封鎖行動。美軍已勒令122艘商船變更航線，以迫使相關船隻遵守封鎖管控要求。"
-    },
-    {
-      "id": "4913486",
-      "time": "2026-06-03 00:47:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會（FCC）啟動四年以來首場頻譜拍賣。"
-    },
-    {
-      "id": "4913485",
-      "time": "2026-06-03 00:47:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國議員提議取消重型卡車12%的消費稅。"
-    },
-    {
-      "id": "4913484",
-      "time": "2026-06-03 00:47:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：真主黨不僅是以色列和美國的敵人，也是黎巴嫩及其民眾的敵人。"
-    },
-    {
-      "id": "mkt:019e893b-9fec-7779-8aab-4de5141e12ba",
-      "time": "2026-06-03 00:47:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact mixed"
-      ],
-      "text": "Sources said Alphabet (GOOG.O)'s mandatory share-placement subscription was oversubscribed."
-    },
-    {
-      "id": "4913483",
-      "time": "2026-06-03 00:47:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "美方：已在封鎖行動中調轉122艘商船航線。"
-    },
-    {
-      "id": "4913482",
-      "time": "2026-06-03 00:46:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍：24艘船隻在其協調下透過霍爾木茲海峽。"
     }
   ]
 }
