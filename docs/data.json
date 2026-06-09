@@ -1,7 +1,197 @@
 {
-  "updated": "2026-06-09 13:30:58",
-  "count": 19168,
+  "updated": "2026-06-09 13:34:40",
+  "count": 19176,
   "items": [
+    {
+      "id": "4925255",
+      "time": "2026-06-09 13:33:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：政策旨在提高資產收益率，吸引外國資本流入。"
+    },
+    {
+      "id": "mkt:019eaadf-1725-7eec-b849-6578255940f5",
+      "time": "2026-06-09 13:33:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia said an interest-rate increase is a step to further bolster measures to stabilize the rupiah."
+    },
+    {
+      "id": "4925254",
+      "time": "2026-06-09 13:33:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：此次加息也是一項前瞻性預防措施，以確保通脹在2027年之前始終維持在目標區間內。"
+    },
+    {
+      "id": "mkt:019eaade-e0bc-7eec-b849-5b7885631396",
+      "time": "2026-06-09 13:33:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "According to Nikkei, the Bank of Japan is considering halting the reduction of its bond purchases from April 2027."
+    },
+    {
+      "id": "4925253",
+      "time": "2026-06-09 13:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為慶祝香港迴歸祖國29週年，香港將於7月1日推出多項活動及優惠】為慶祝7月1日香港特別行政區成立二十九週年，香港特區政府和社會各界將推出一系列特別優惠及活動，涵蓋公共交通、文化藝術及休閒、飲食及消費等範疇，與廣大市民一同歡度迴歸。   （大灣區之聲）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606093764975186",
+      "time": "2026-06-09 13:33:00",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行據悉將在6月會議上將利率上調至1.0%。"
+    },
+    {
+      "id": "mkt:019eaade-9fb5-7eec-b849-56b6efa64ddc",
+      "time": "2026-06-09 13:32:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Nikkei reports the Bank of Japan plans to raise its policy rate to 1% at the June meeting."
+    },
+    {
+      "id": "4925252",
+      "time": "2026-06-09 13:32:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：此次加息是強化盧比穩定措施的進一步舉措。"
+    },
+    {
+      "id": "4925251",
+      "time": "2026-06-09 13:32:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行據悉正考慮從2027年4月起停止縮減購債。"
+    },
+    {
+      "id": "4925250",
+      "time": "2026-06-09 13:32:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行據悉將在6月會議上將利率上調至1.0%。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606093764975631",
+      "time": "2026-06-09 13:32:04",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行據稱正考慮停止減持債券。"
+    },
+    {
+      "id": "4925249",
+      "time": "2026-06-09 13:31:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報6282.00元。"
+    },
+    {
+      "id": "4925248",
+      "time": "2026-06-09 13:31:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報13155.00元。"
+    },
+    {
+      "id": "mkt:019eaadd-3a2f-7eec-b849-4f9b211a09c3",
+      "time": "2026-06-09 13:31:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports the Bank of Japan is considering halting reductions in its bond holdings."
+    },
+    {
+      "id": "4925247",
+      "time": "2026-06-09 13:30:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本央行將討論結束季度債券購買規模縮減計劃。"
+    },
+    {
+      "id": "mkt:019eaadc-4166-7eec-b849-4482108c1b2f",
+      "time": "2026-06-09 13:30:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia will raise its benchmark policy rate by 25 bps to 5.50%."
+    },
+    {
+      "id": "4925246",
+      "time": "2026-06-09 13:30:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行在6月9日的會議上將基準利率上調25個基點，至5.50%。"
+    },
+    {
+      "id": "4925245",
+      "time": "2026-06-09 13:30:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌4%，現報3742.00元。"
+    },
+    {
+      "id": "4925244",
+      "time": "2026-06-09 13:28:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌1.5個基點，至2.700%。"
+    },
+    {
+      "id": "mkt:019eaada-8cfa-7eec-b849-39aa4f93d05f",
+      "time": "2026-06-09 13:28:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wuhan aims to incubate more than 10 unicorns by 2028】Hubei provincial government office issued a Wuhan Special Action Plan to boost industrial innovation with targets to 2028: sharply raise in‑city commercialization of university R&D and complete over 10,000 technology transfers; attract and retain 1 million university graduates for employment and entrepreneurship in Wuhan; incubate more than 10 unicorns; build several world‑class innovation-driven industrial clusters; materially improve government service efficiency for industry innovation and produce replicable reform models."
+    },
     {
       "id": "4925243",
       "time": "2026-06-09 13:27:13",
@@ -176670,121 +176860,6 @@
         "市場"
       ],
       "text": "【籌劃控制權變更事項“告吹”，和仁科技股價重挫逾17%，公司回應】6月2日，和仁科技早盤股價大跌。資料顯示，截至午間收盤，公司股價報12.48元/股，跌17.46%。訊息面上，和仁科技6月1日晚間披露關於終止籌劃控制權變更事項暨復牌的公告。對於股價大跌，和仁科技方面回應記者，籌劃控制權變更事項以及終止籌劃控制權變更事項都是控股股東行為，上市公司層面無法控制。目前公司經營是正常的，公司業務具有一定的季節性。公司的客戶主要是一些公立醫院，專案的審批、立項、招投標會集中在一季度和二季度，專案的驗收會集中在三四季度。(中證金牛座)"
-    },
-    {
-      "id": "te:markets:555603",
-      "time": "2026-06-02 13:34:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Thailand",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Thailand Hit 4-year High — SET 50 increased to 1033.00 Index Points, the highest since March 2022. Over the past 4 weeks, Thailand SET 50 Index gained 6.07%, and in the last 12 months, it increased 40.38%."
-    },
-    {
-      "id": "mkt:019e86d3-7ff5-7dd4-a7a7-e8838864ae89",
-      "time": "2026-06-02 13:34:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium up more than 2.00% intraday, trading at $1,383.53/oz."
-    },
-    {
-      "id": "4911940",
-      "time": "2026-06-02 13:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄南部一煉油廠遭無人機襲擊起火】當地時間6月2日清晨，俄羅斯克拉斯諾達爾邊疆區行動指揮部通報，伊利斯基煉油廠因遭無人機襲擊發生火災。此外，無人機碎片墜落在當地一棟公寓樓區域內。相關襲擊未造成人員傷亡。據悉，伊利斯基煉油廠是俄羅斯南部最大的石油加工企業之一，經營烴原料的接收、儲存、加工以及成品油的公路和鐵路運輸。該廠擁有6套煉油工藝裝置，年產能達660萬噸。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e86d2-6ddd-7dd4-a7a7-e55e68e4505e",
-      "time": "2026-06-02 13:33:13",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share fiber-optic sector extended gains as Zhongtian Technology and Hangdian Co. hit daily limit-up; earlier limit-ups seen in Yangtze Optical Fibre & Cable, Hengtong Optic‑Electric, Yongding Co. and Huiyuan Communications. Changyingtong advanced over 10%."
-    },
-    {
-      "id": "4911939",
-      "time": "2026-06-02 13:33:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股上漲6%。"
-    },
-    {
-      "id": "mkt:019e86d2-0a7b-7dd4-a7a7-dd7844e639e8",
-      "time": "2026-06-02 13:32:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China's CSI 300 index futures (IF) main contract rose more than 2.00% intraday, trading at 4,906.8 points."
-    },
-    {
-      "id": "4911938",
-      "time": "2026-06-02 13:32:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數期貨上漲2.0%至4,906.00點。"
-    },
-    {
-      "id": "4911937",
-      "time": "2026-06-02 13:32:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子能源達成收購卡姆林集團協議。"
-    },
-    {
-      "id": "4911936",
-      "time": "2026-06-02 13:32:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破77美元/盎司，日內漲2.38%。"
-    },
-    {
-      "id": "4911935",
-      "time": "2026-06-02 13:31:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.00%，現報15647.472點；上證指數漲0.66%，現報4084.697點；創業板指漲3.28%，現報4080.671點。"
-    },
-    {
-      "id": "4911934",
-      "time": "2026-06-02 13:31:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報3700.00點。"
-    },
-    {
-      "id": "4911933",
-      "time": "2026-06-02 13:31:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念持續走強 中天科技、杭電股份觸及漲停】午後光纖概念持續走強，中天科技、杭電股份觸及漲停，此前長飛光纖、亨通光電、永鼎股份、匯源通訊漲停，長盈通漲超10%。"
     }
   ]
 }
