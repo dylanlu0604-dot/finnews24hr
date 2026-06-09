@@ -1,7 +1,171 @@
 {
-  "updated": "2026-06-09 21:03:27",
-  "count": 19065,
+  "updated": "2026-06-09 21:07:31",
+  "count": 19074,
   "items": [
+    {
+      "id": "mkt:019eac7e-26a8-7ddc-a5f4-8a7a90a3aed0",
+      "time": "2026-06-09 21:06:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strategist: US May CPI seen at 4.2% YoY, highest since March 2023; housing and services pose sticky risk】Jay Woods, chief global strategist at Free Capital Markets, expects US May headline CPI to rise to 4.2% YoY from 3.8%, a level not seen since March 2023. He warned that sticky components — housing, insurance and services — could keep inflation above the Fed’s comfort zone for longer, while gasoline-driven inflation is less concerning."
+    },
+    {
+      "id": "mkt:019eac7d-f5c8-7ddc-a5f4-800ddc5fe93c",
+      "time": "2026-06-09 21:06:35",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) has introduced AI-powered experiences across multiple services."
+    },
+    {
+      "id": "mkt:019eac7d-706d-7ddc-a5f4-7cf1b0382bc0",
+      "time": "2026-06-09 21:06:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "APO.N",
+        "Impact bullish"
+      ],
+      "text": "Apollo Global said its strategic platform aims to provide more than 20 GW of computing capacity to leading frontier AI labs by 2028."
+    },
+    {
+      "id": "4926311",
+      "time": "2026-06-09 21:05:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：蘋果地圖新增功能包括改進後的俯視檢視與本地地點列表，“查詢”APP新增靈活共享選項。"
+    },
+    {
+      "id": "4926310",
+      "time": "2026-06-09 21:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空達成協議，將依託現有基礎設施採購並提取芝加哥奧黑爾國際機場的實體燃油。"
+    },
+    {
+      "id": "4926309",
+      "time": "2026-06-09 21:04:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：我們對消費板塊保持極高警惕。"
+    },
+    {
+      "id": "mkt:019eac7c-4dfc-7ddc-a5f4-759caf4232a9",
+      "time": "2026-06-09 21:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine has signed a drone agreement with Latvia."
+    },
+    {
+      "id": "4926308",
+      "time": "2026-06-09 21:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度二三線城市ATM無錢可取】據印度媒體8日報道，印度多座二線和三線城市的自動取款機近期遭遇“現金荒”，當地民眾取現困難。印度自動取款機行業聯合會說，造成這一情況的主要原因是主要銀行優先將現金調配至大城市。行業資料顯示，印度全國自動取款機今年3月和4月的現金需求均為9400億盧比，實際供應量分別為6100億盧比和5400億盧比。印度自動取款機行業聯合會表示，如果自動取款機不能提現，就無法收取相關交易費用，其業務因此損失高達10億盧比（約合7088萬元人民幣），相關銀行應予以賠償。如果中小城市自動取款機現金短缺的情況持續，相關業務將面臨萎縮甚至中斷。近年來，印度自動取款機數量呈下降趨勢，從2023財年的超過25.3萬臺減少至2024財年的約25.1萬臺，其中機器減少主要集中在鄉村和城郊地區。 （央視財經）"
+    },
+    {
+      "id": "4926307",
+      "time": "2026-06-09 21:04:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：擬1.5億元-3億元回購公司股份】國金證券6月9日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於1.5億元且不超過3億元。回購價格不超過13元/股。回購股份將用於維護公司市場價值及股東權益。回購期限為自董事會審議透過本次回購方案之日起3個月內。"
+    },
+    {
+      "id": "mkt:019eac7c-022c-7ddc-a5f4-6de71ae9aae7",
+      "time": "2026-06-09 21:04:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "American Airlines agreed to release 35 mln gallons of sustainable aviation fuel over three years, cutting nearly 300,000 tonnes of CO2e."
+    },
+    {
+      "id": "4926306",
+      "time": "2026-06-09 21:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST新元：與財務投資人簽署重整投資協議】*ST新元(300472)6月9日公告，公司與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。6月8日，公司與財務投資人臨川國控簽署《重整投資協議》。"
+    },
+    {
+      "id": "4926305",
+      "time": "2026-06-09 21:04:12",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：如果通脹持續更長時間處於高位，則可能存在一定風險。"
+    },
+    {
+      "id": "4926304",
+      "time": "2026-06-09 21:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通(AVGO.O)：首期350億美元將用於支援Anthropic此前宣佈的超過1吉瓦計算基礎設施的產能擴建。"
+    },
+    {
+      "id": "mkt:019eac7b-7187-7ddc-a5f4-66ef0b08bf6a",
+      "time": "2026-06-09 21:03:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) said a first tranche of $35 bln will support Anthropic's previously announced expansion of more than 1 GW of compute infrastructure capacity."
+    },
+    {
+      "id": "mkt:019eac7b-1d44-7ddc-a5f4-5e7a4c7bdfbb",
+      "time": "2026-06-09 21:03:29",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) premarket gains widen to 3%."
+    },
+    {
+      "id": "4926303",
+      "time": "2026-06-09 21:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。"
+    },
+    {
+      "id": "4926302",
+      "time": "2026-06-09 21:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通盤前股價漲幅擴大至3%。"
+    },
+    {
+      "id": "4926301",
+      "time": "2026-06-09 21:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆鋒資訊：實際控制人歐霖傑解除留置並取保候審】恆鋒資訊公告，公司收到控股子公司福建微尚生活服務有限公司通知，相關監察機關已解除對該公司法定代表人、公司實際控制人兼副董事長、總裁歐霖傑的留置措施，相關公安機關決定對其取保候審。同日，歐霖傑已返回工作崗位。"
+    },
+    {
+      "id": "4926300",
+      "time": "2026-06-09 21:02:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱其已與拉脫維亞簽署無人機協議。"
+    },
     {
       "id": "mkt:019eac79-87b5-7ddc-a5f4-527e4bea710d",
       "time": "2026-06-09 21:01:45",
@@ -9,6 +173,14 @@
         "MKT News"
       ],
       "text": "Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure."
+    },
+    {
+      "id": "4926299",
+      "time": "2026-06-09 21:01:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通(AVGO.O)、阿波羅、黑石集團(BX.N)成立戰略平臺，以加速超過20吉瓦的全球人工智慧部署。"
     },
     {
       "id": "4926298",
@@ -175645,100 +175817,6 @@
         "MKT News"
       ],
       "text": "President Trump has named FHFA Director and chairman of Fannie Mae and Freddie Mac Pulte as acting Director of National Intelligence. He will retain his FHFA post and his chairmanship of Fannie Mae and Freddie Mac during the acting DNI appointment."
-    },
-    {
-      "id": "4913048",
-      "time": "2026-06-02 21:07:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "加密支付服務商Movement獲美國、加拿大與歐盟持牌支付通道准入，承諾為新興市場打造穩定幣結算與收益基礎設施。"
-    },
-    {
-      "id": "4913047",
-      "time": "2026-06-02 21:07:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：任命普爾特為代理國家情報總監。"
-    },
-    {
-      "id": "4913046",
-      "time": "2026-06-02 21:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：擴容 Glasswing 專案。"
-    },
-    {
-      "id": "mkt:019e8871-3909-7ee5-848c-853e7729bed9",
-      "time": "2026-06-02 21:06:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Weiduo Energy Group's Bahrain head said that from a refined products perspective, for the remainder of the year the market's supply system may struggle to keep pace with demand."
-    },
-    {
-      "id": "4913045",
-      "time": "2026-06-02 21:06:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "WORKDAY宣佈與亞馬遜網路服務（Amazon Web Services，AWS）實現資料雲整合。"
-    },
-    {
-      "id": "4913044",
-      "time": "2026-06-02 21:05:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic表示：我們正將合作伙伴關係拓展至約150家新機構。"
-    },
-    {
-      "id": "mkt:019e8870-4097-7ee5-848c-782f24538420",
-      "time": "2026-06-02 21:05:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's Hammack says he is monitoring multiple inflation indicators."
-    },
-    {
-      "id": "4913043",
-      "time": "2026-06-02 21:04:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：我會對一系列廣泛的通脹指標進行考量。"
-    },
-    {
-      "id": "4913042",
-      "time": "2026-06-02 21:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 向另外 150 家機構開放 Mythos 模型呼叫許可權。"
-    },
-    {
-      "id": "4913041",
-      "time": "2026-06-02 21:04:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象局與武漢大學簽署戰略合作協議 協同創新共促氣象高質量發展】6月2日，中國氣象局與武漢大學在湖北武漢簽署戰略合作協議。雙方將充分整合發揮各自人才儲備、科研資源、平臺載體等核心優勢，深化全方位、多層次、常態化合作，構建“政產學研用”深度融合的氣象科技創新體系。中國氣象局黨組書記、局長陳振林，武漢大學校長、中國科學院院士張平文出席簽約儀式並講話，中國氣象局副局長曹曉鍾與武漢大學副校長周偉代表雙方簽署戰略合作協議。陳振林表示，武漢大學在測繪遙感、水利水電、地球物理等領域優勢鮮明，雙方合作有淵源、有基礎、有積累，更有廣闊前景。本次協議的簽署，標誌著雙方合作邁入全面深化的新階段，既為我國“十五五”時期氣象高質量發展奠定堅實基礎，也為學校“雙一流”建設提質增效注入強勁動能。希望雙方共同聚焦國家戰略需求，深化協同創新，以高水平科技創新支撐科技強國、航天強國等建設，助力防災減災和氣候治理；加強交叉學科建設，培養複合型人才，在“氣象+”“+氣象”交叉學科建設方面強化合作，用好各類平臺加快人才貫通培養；完善長效合作機制，推進雙向賦能、資源互通、合作共贏，實現氣象教育科技人才一體發展。（中國氣象局）"
-    },
-    {
-      "id": "4913040",
-      "time": "2026-06-02 21:04:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "GORILLA TECHNOLOGY宣佈達成20億美元人工智慧基礎設施協議。"
     }
   ]
 }
