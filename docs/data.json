@@ -1,7 +1,131 @@
 {
-  "updated": "2026-06-10 00:02:12",
-  "count": 18808,
+  "updated": "2026-06-10 00:06:15",
+  "count": 18812,
   "items": [
+    {
+      "id": "te:markets:557740",
+      "time": "2026-06-10 00:05:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Swing Lower — European stock indices closed lower after having spent most of the session higher, tracking the afternoon slump for US stocks as the aggressive rotation out of tech stocks rippled through demand for risk globally. The Euro STOXX 50 fell 0.2% to 6,050 and the STOXX Europe 600 dropped 0.4% to 619. Companies with exposure to software services and datacenter infrastructure dropped sharply as skepticism over the sector's rally sustainability was reignited. Infineon, SAP, Schneider, and Siemens Energy slumped between 2% and 5.5%. banks also closed lower ahead of the expected rate hike by the European Central Bank this week, denting the outlook for fragile credit activity. Santander, ING, and Nordea dropped around 1%. In London, GSK eased 0.5% mid reports that the company is in talks to acquire oncology biotech Nuvalent."
+    },
+    {
+      "id": "4926535",
+      "time": "2026-06-10 00:05:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破61000美元，日內跌3.31%。"
+    },
+    {
+      "id": "te:markets:557739",
+      "time": "2026-06-10 00:05:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "J&J Stock Price Hits 7-week High — J&J shares increased to 235.50 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 6.31%, and in the last 12 months, it increased 50.47%."
+    },
+    {
+      "id": "4926534",
+      "time": "2026-06-10 00:04:18",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "布倫特原油價格跌破每桶 90 美元，創下 4 月 17 日以來新低。"
+    },
+    {
+      "id": "mkt:019ead20-a25f-7448-ac07-aac7400f50e5",
+      "time": "2026-06-10 00:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "EIA projects 2026 average Brent crude at $95.39/bbl, up from a prior $94.85/bbl; 2027 forecast unchanged at $79.39/bbl."
+    },
+    {
+      "id": "4926533",
+      "time": "2026-06-10 00:03:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守90美元/桶，日內跌4.51%。"
+    },
+    {
+      "id": "4926532",
+      "time": "2026-06-10 00:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，2026 年美國天然氣日需求量為 921 億立方英尺，此前預測值為 912 億立方英尺；2027 年日需求量預計為 950 億立方英尺，此前預測值為 944 億立方英尺。"
+    },
+    {
+      "id": "4926531",
+      "time": "2026-06-10 00:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署預測，2026 年全球石油日需求量為 1.029 億桶，此前預期為 1.042 億桶；2027 年全球石油日需求量為 1.053 億桶，此前預期為 1.056 億桶。"
+    },
+    {
+      "id": "4926530",
+      "time": "2026-06-10 00:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署：預計2026 年全球石油日產量為 9900 萬桶，此前預測值為 1.016 億桶；2027 年全球石油日產量預計達 1.093 億桶，此前預測值為 1.095 億桶。"
+    },
+    {
+      "id": "4926529",
+      "time": "2026-06-10 00:02:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國兩年期國債收益率跌超4個基點，追隨國際油價下跌的表現】週二（6月9日）歐市尾盤，英國10年期國債收益率跌3.4個基點，報4.909%，全天處於下跌狀態，北京時間21:49重新整理日低至4.891%。兩年期英債收益率跌4.4個基點，報4.335%，一度重新整理日低至4.315%。30年期英債收益率跌2.9個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差漲0.677個基點，報+57.142個基點。"
+    },
+    {
+      "id": "mkt:019ead1e-260e-7448-ac07-a3eada1924d1",
+      "time": "2026-06-10 00:01:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX executive Jessica Jensen said the company plans to use Starship for a space-resupply demonstration in 2026."
+    },
+    {
+      "id": "4926528",
+      "time": "2026-06-10 00:01:30",
+      "tags": [
+        "資料",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國能源部維持2026-27年布油價格預期不變，上調美國產量預期】美國能源資訊署（STEO）釋出短期能源（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計95美元/桶），預計2027年79美元/桶（此前預計79美元/桶）。\n預計2026年美國石油產量1370萬桶/日（此前預計1360萬桶/日），預計2027年生產1420萬桶/日（此前預計1410萬桶/日）。\n預計2026年美國液化天然氣（LNG）出口172億立方英尺/日（此前預計170億立方英尺/日），預計2027年出口186億立方英尺/日（此前預計182億立方英尺/日）。"
+    },
+    {
+      "id": "4926527",
+      "time": "2026-06-10 00:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX計劃在 2026 年利用星艦開展太空燃料補給演示試驗。"
+    },
     {
       "id": "4926526",
       "time": "2026-06-10 00:00:42",
@@ -173389,83 +173513,6 @@
         "Impact bullish"
       ],
       "text": "OpenAI opened a preview for commercial and enterprise customers; CODEX now supports building and sharing interactive hosted websites and applications."
-    },
-    {
-      "id": "mkt:019e8914-be76-7ff0-aaad-c37c67c4d1bf",
-      "time": "2026-06-03 00:04:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Energy Ministry is preparing additional measures to secure stable gasoline supplies for the domestic market."
-    },
-    {
-      "id": "mkt:019e8914-7372-7ff0-aaad-b8b01572af49",
-      "time": "2026-06-03 00:04:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI to roll out additional domain-specific plugins soon, covering corporate finance, private equity, marketing strategy, strategic consulting and legal services."
-    },
-    {
-      "id": "4913418",
-      "time": "2026-06-03 00:04:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：特定角色外掛已在支援地區的Codex程式碼平臺逐步推出。"
-    },
-    {
-      "id": "4913417",
-      "time": "2026-06-03 00:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：在我們打造網站合作伙伴生態系統的過程中，我們還與Wix、Base44、Replit、Lovable、Figma、Webflow以及Emergent等多家合作伙伴展開合作。"
-    },
-    {
-      "id": "4913416",
-      "time": "2026-06-03 00:03:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯能源部表示，目前正在制定額外措施，以保障國內市場的汽油供應穩定。"
-    },
-    {
-      "id": "4913415",
-      "time": "2026-06-03 00:03:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯、約旦、阿拉伯聯合大公國、卡達、印度尼西亞、巴基斯坦、埃及和土耳其的外交部長強烈譴責“極端以色列定居者”在“以色列軍隊保護下”對阿克薩清真寺建築群的“持續入侵”，以及在其庭院內“升起以色列國旗”。"
-    },
-    {
-      "id": "mkt:019e8913-1a95-7ff0-aaad-b415b3c085f8",
-      "time": "2026-06-03 00:03:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches role-specific plugins, site features and annotation tools to help teams better leverage CODEX."
-    },
-    {
-      "id": "4913414",
-      "time": "2026-06-03 00:03:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：很快將推出更多細分領域專屬外掛，涵蓋公司金融、私募股權投資、營銷策略、戰略諮詢與法律領域。"
-    },
-    {
-      "id": "4913413",
-      "time": "2026-06-03 00:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：目前Codex已面向商業及企業客戶開放預覽，該模型現在可建立並託管互動式網站與應用程式，且支援共享。"
     }
   ]
 }
