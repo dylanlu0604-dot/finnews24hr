@@ -1,7 +1,280 @@
 {
-  "updated": "2026-06-09 18:16:19",
-  "count": 19032,
+  "updated": "2026-06-09 18:21:13",
+  "count": 19041,
   "items": [
+    {
+      "id": "mkt:019eabe5-1357-7667-8de6-cb032f110fed",
+      "time": "2026-06-09 18:19:28",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raised its PT on Apple (AAPL.O) to $360 from $330."
+    },
+    {
+      "id": "4925945",
+      "time": "2026-06-09 18:19:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三超新材：擬以4.26億元認購公司發行股票】三超新材公告，公司於2026年6月9日與無錫博達合一科技有限公司簽署《附條件生效的股份認購協議》，博達合一將以現金4.26億元認購公司本次發行的股票。本次發行尚需深圳證券交易所稽核透過，並取得中國證券監督管理委員會同意註冊的批覆後方可實施。"
+    },
+    {
+      "id": "mkt:019eabe5-1636-7997-8287-532e796017d4",
+      "time": "2026-06-09 18:19:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said an Army AH-64 Apache helicopter crashed off the coast of Oman at 7:33 p.m. EDT on June 8 (07:33 Beijing time on June 9) while conducting a regional waters patrol; two crew members were rescued by U.S. forces."
+    },
+    {
+      "id": "4925944",
+      "time": "2026-06-09 18:19:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國方面稱，直升機墜毀原因正在調查中。"
+    },
+    {
+      "id": "te:markets:557649",
+      "time": "2026-06-09 18:18:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Tin Retreats from Record High — Tin futures in the UK fell to $52,300 per tonne from the record high of $59,000 on June 2nd, tracking other base metals as a stronger dollar and higher interest rates momentarily offset the impact of tight supply and soaring AI demand. The greenback strengthened after a strong US jobs report, driving yields to rise globally and pressure the outlook for manufacturers in the short term. Still, futures remained 26% higher year-to-date. Major producer Indonesia doubled down on threats against the illegal mining of tin and seized 500 tonnes of metal from mines without licences. The move consolidated the pledge from Jakarta that it would crack down on mining activity that lack licensing after President Subianto ordered the closure of 1,000 illegal mines in Sumatra, tightening the outlook on supply from the key exporter. Meanwhile, tin's usage in datacenters drove industry players to signal that the metal's demand for AI servers will triple by 2030, aligned with soaring demand in Asia."
+    },
+    {
+      "id": "4925943",
+      "time": "2026-06-09 18:18:49",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將蘋果公司目標股價從330.00美元上調至360.00美元。"
+    },
+    {
+      "id": "4925941",
+      "time": "2026-06-09 18:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方稱，美國直升機機組人員在阿曼海岸附近獲救。"
+    },
+    {
+      "id": "4925940",
+      "time": "2026-06-09 18:18:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山鷹國際：董事長吳明武提議以3億元-6億元回購公司股份】山鷹國際公告，董事長吳明武提議以3億元-6億元回購公司股份，回購價格上限不高於公司董事會審議透過回購股份方案決議前30個交易日公司股票交易均價的 150%。"
+    },
+    {
+      "id": "4925939",
+      "time": "2026-06-09 18:17:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利富時MIB指數日內漲幅達2.00%。"
+    },
+    {
+      "id": "mkt:019eabe3-94a7-7997-8287-491b0af280f2",
+      "time": "2026-06-09 18:17:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "A European Commission spokesperson said Apple (AAPL.O) has requested an exemption from interoperability obligations."
+    },
+    {
+      "id": "4925938",
+      "time": "2026-06-09 18:17:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：委員會曾就Siri人工智慧與蘋果公司進行過接觸，蘋果公司曾要求豁免互操作性義務。"
+    },
+    {
+      "id": "4925937",
+      "time": "2026-06-09 18:17:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合光電：擬使用不超過5000萬元回購公司股份】聯合光電公告，擬使用自有資金以集中競價交易的方式回購公司部分社會公眾股份，回購資金總額不低於人民幣2500萬元（含），不超過人民幣5000萬元（含），回購股份價格不超過人民幣26.13元/股（含）。"
+    },
+    {
+      "id": "te:economy:557647",
+      "time": "2026-06-09 18:17:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Portugal’s Trade Deficit Narrows in April — Portugal’s trade deficit shrank to €2.88 billion in April 2026 from €3.03 billion a year earlier, as exports rose 15.5% to €7.40 billion, with gains across all categories. Fuels and lubricants exports surged 32%, driven by a 30.2% rise in energy costs linked to the Iran conflict. Industrial supplies exports grew 15.8%, mainly due to metals, while machinery and capital goods exports climbed 23.1%. Exports to Spain, France, and Germany rose by 11.1%, 12.5%, and 12.0%, respectively. Imports grew 8.9% to €10.28 billion, just below March’s record €10.44 billion, led by transport equipment (22.5%, mostly vehicles from Spain), fuels and lubricants (37%, due to higher energy costs), and machinery (17.8%, mainly from the Netherlands). However, industrial supplies imports fell 9%, primarily due to a drop in chemicals from Ireland for contract processing without ownership transfer. From January to April, the trade deficit widened to €11.43 billion from €9.33 billion in the same period of 2025."
+    },
+    {
+      "id": "mkt:019eabe3-54ad-7667-8de6-b719e23a6d3c",
+      "time": "2026-06-09 18:17:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's FTSE MIB index was up 2.00% intraday."
+    },
+    {
+      "id": "4925936",
+      "time": "2026-06-09 18:17:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST金泰：公司股票將於6月11日起撤銷退市風險警示及其他風險警示】*ST金泰公告，公司股票將於2026年6月10日停牌一天，並於2026年6月11日開市起復牌。自2026年6月11日開市起撤銷“退市風險警示”“其他風險警示”，股票簡稱由“*ST金泰”變更為“金力泰”，證券程式碼仍為“300225”，股票交易的日漲跌幅限制仍為20%。"
+    },
+    {
+      "id": "4925935",
+      "time": "2026-06-09 18:17:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿斯利康口服減肥藥取得2項II期臨床陽性結果】從阿斯利康獲悉，其口服小分子GLP-1受體激動劑Elecoglipron在VISTA IIb期和SOLSTICE IIb期研究中均取得陽性結果。其結果在剛舉行的2026年美國糖尿病協會（ADA）年會上公佈。"
+    },
+    {
+      "id": "mkt:019eabe3-33e1-7667-8de6-aff6298b8c71",
+      "time": "2026-06-09 18:17:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "European Commission spokesperson says Apple (AAPL.O) has failed to achieve interoperability for Siri."
+    },
+    {
+      "id": "te:economy:557646",
+      "time": "2026-06-09 18:17:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Latvia Trade Deficit Narrows in April — Latvia’s trade deficit narrowed slightly to EUR 249.2 million in April 2026 from EUR 262.2 million in the same month a year earlier. Exports increased 13.9% year-on-year to EUR 1,939 million, driven by stronger sales of mineral fuels, oil and refined products (89.1%), wood and wood products, including charcoal (6.5%), electrical machinery and equipment (17.6%), and vehicles and related parts (12%). Among major trading partners, exports grew to EU countries (9.4%), CIS countries (1.9%), and other markets (31%). Meanwhile, imports rose 11.4% to EUR 2,188.2 million, supported by higher purchases of mineral fuels, oil and refined products (75.1%), electrical machinery and equipment (10.5%), vehicles and related parts (2.9%), and machinery and mechanical appliances (15.2%). Imports also increased from EU countries (10.2%) and other countries (21.4%), while declining from CIS countries (-12.9%)."
+    },
+    {
+      "id": "mkt:019eabe2-920e-7667-8de6-a7c7a5cf8d78",
+      "time": "2026-06-09 18:16:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "European Commission spokesman says EU law does not prohibit Apple (AAPL.O) from launching new products in the EU."
+    },
+    {
+      "id": "4925934",
+      "time": "2026-06-09 18:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅戈爾：控股股東及其一致行動人持股比例增至43.03%】雅戈爾公告，公司控股股東寧波雅戈爾控股有限公司及其一致行動人雅戈爾集團有限公司、李如成、李寒窮合計持有公司股份比例從42.67%增加至43.03%，權益變動觸及1%刻度。"
+    },
+    {
+      "id": "mkt:019eabe2-8b6c-7667-8de6-9a4638ba55bb",
+      "time": "2026-06-09 18:16:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Market Regions",
+        "Europe & UK",
+        "AAPL.O"
+      ],
+      "text": "European Commission spokesperson said the decision not to launch Siri AI in the EU is entirely Apple’s own; Apple (AAPL.O)."
+    },
+    {
+      "id": "4925933",
+      "time": "2026-06-09 18:16:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協釋出《私募投資基金資訊披露實施細則》】為規範私募投資基金資訊披露行為，保護投資者合法權益，促進私募投資基金行業規範健康發展，根據《中華人民共和國證券投資基金法》《私募投資基金監督管理條例》《私募投資基金資訊披露監督管理辦法》等法律法規，中國證券投資基金業協會起草了《私募投資基金資訊披露實施細則》及《私募投資基金資訊披露重要內容模板》。經協會理事會審議透過，現予以釋出，自2026年9月1日起施行。"
+    },
+    {
+      "id": "4925932",
+      "time": "2026-06-09 18:16:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示：歐盟法規中不存在禁止蘋果公司在歐盟推出新產品的條款。"
+    },
+    {
+      "id": "4925931",
+      "time": "2026-06-09 18:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集集團：6月9日回購320萬股H股】中集集團公告稱，6月9日公司回購320萬股H股，每股回購價8.9423港元，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.1059%。截至6月9日，公司已發行股份（不包括庫存股份）為30.18億股，庫存股份為7193.83萬股，已發行股份總數為30.90億股。公司於2025年5月15日獲回購授權，可回購股份總數為3.09億股，截至目前累計回購7193.83萬股，佔授權透過當日已發行股份（不包括庫存股份）的2.33%。本次回購後暫止期至2026年7月9日。"
+    },
+    {
+      "id": "4925930",
+      "time": "2026-06-09 18:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面訊息：若敵方採取挑釁行動，曼德海峽將由伊朗掌控】伊朗伊斯蘭議會議長副議長表示：霍爾木茲海峽處於伊朗伊斯蘭共和國的管控之下。倘若敵方繼續滋事挑釁，曼德海峽也將同霍爾木茲海峽一樣，納入伊朗的戰略管轄與監管範圍。敵對勢力企圖藉助經濟施壓挑起民眾不滿，但伊朗民眾很快就能看到打破封鎖的成果。伊朗伊斯蘭共和國針對猶太復國主義政權的侵略行為作出強硬回擊，這表明我方會對任何觸碰紅線的行為予以堅決、果斷的反擊。"
+    },
+    {
+      "id": "mkt:019eabe1-a560-7667-8de6-97e1a4020e09",
+      "time": "2026-06-09 18:15:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "A European Commission spokesperson said the Commission has engaged with Apple (AAPL.O) on Siri AI."
+    },
+    {
+      "id": "4925929",
+      "time": "2026-06-09 18:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：不在歐盟推出Siri人工智慧是蘋果自己的決定，完全由蘋果單方面決定。"
+    },
+    {
+      "id": "4925928",
+      "time": "2026-06-09 18:15:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【勝宏科技“桃色事件”女主開播互動，豪收“萬元”火箭打賞】日前，與勝宏科技董事長陳濤傳出“桃色新聞”的女主“珍珍Janice”在抖音開啟直播。據直播截圖顯示，其主要是跟觀眾聊天並進行互動，還在鏡頭前吃飯，直播間線上人數一度逼近1萬人，也有多人送出鮮花、火箭等禮物，價值超萬元。此前，“珍珍Janice”在社交媒體平臺上釋出多條涉及勝宏科技董事長陳濤的私生活內容。該使用者聲稱與陳濤存在感情糾紛，並曬出疑似聊天記錄、影片聊天畫面等材料。6月8日，勝宏科技收盤股價大跌7.11%，股價為314.8元。晚間，勝宏科技公告稱，擬推出新一期員工持股計劃，投入資金總額不超過7億元，股票來源為透過二級市場購買等法律法規許可方式獲得的公司A股普通股。公開資訊顯示，勝宏科技成立於2006年7月，主要從事高密度印製線路板的研發、生產和銷售。該公司於2015年在深交所創業板上市；今年4月21日，正式登陸港交所主機板，募資總額超230億港元，是2026年以來港股規模最大的IPO專案。至此，該公司完成“A+H”雙資本平臺佈局。（新浪科技）"
+    },
     {
       "id": "mkt:019eabe0-40b2-7667-8de6-88b0693a242f",
       "time": "2026-06-09 18:14:20",
@@ -447,6 +720,15 @@
       "text": "【張家界：擬3.55億元購買武陵源索道公司51%股權】張家界公告，公司擬以現金方式購買湖南武陵源索道有限公司51%股權，交易對價金額為3.55億元。本次交易對方為張家界武陵源區全域旅遊文化有限公司。交易完成後，武陵源索道公司將成為公司控股子公司並納入合併報表範圍。本次交易構成關聯交易，交易金額達到3000萬元以上，且佔公司最近一期經審計淨資產絕對值5%以上，尚需提交公司股東會審議。本次交易不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。"
     },
     {
+      "id": "4925892",
+      "time": "2026-06-09 18:04:25",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國5月小企業信心下滑，因伊朗戰爭令通脹擔憂加劇】美國小企業的信心在5月份下降，計劃在未來三個月提價的企業主比例升至近四年來最高，表明通脹可能會在一段時間內維持高位。全美獨立企業聯盟（NFIB）週二的資料顯示，5月小企業信心指數下滑0.6點至95.3，進一步遠離52年的均值98.0。該調查的不確定性指數上升3點至91，遠高於歷史均值68。NFIB支出：“不確定性是增長和投資的敵人，目前處於高位，這在很大程度上與伊朗戰爭及其對全球石油供應和其他大宗商品的影響有關，越早得到解決，恢復某種‘正常’狀態的速度就越快。”調查還顯示，計劃在未來三個月提價的小企業比例躍升7個百分點至34%，為2022年7月以來最高。約36%的企業主表示將提價，為2023年3月以來最高水平，較4月上升6個百分點。"
+    },
+    {
       "id": "mkt:019eabd6-d0fb-7cc2-9c85-027f063526f8",
       "time": "2026-06-09 18:03:59",
       "tags": [
@@ -465,6 +747,15 @@
         "公司"
       ],
       "text": "據港交所披露檔案，騰訊於6月9日回購110萬股股份，總耗資5.004億港元。"
+    },
+    {
+      "id": "4925890",
+      "time": "2026-06-09 18:03:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【昌紅科技：正論證MPO相關產品技術落地可行性】6月8日，昌紅科技在互動平臺回覆投資者提問稱，公司目前正結合自身精密模具與注塑製造相關能力，論證MPO相關產品的技術落地可行性。MT插芯是MPO聯結器的關鍵零部件之一，其生產對模具精密度要求極高，在微孔型腔精度、熱膨脹匹配度、內應力控制與翹曲度管控等注塑工藝環節技術壁壘較高。公開資訊顯示，5月26日，韓國科斯達克上市企業一諾儀器團隊曾到訪昌紅科技，雙方圍繞MPO等產品市場供需等內容開展交流。"
     },
     {
       "id": "4925889",
@@ -175194,191 +175485,6 @@
         "MKT News"
       ],
       "text": "【ByteDance expands Seed org under Zhou Chang; embodied robotics moved into core】ByteDance has broadened the remit of multi‑modal head Zhou Chang to include the Seed robotics unit. The SeedRobotics team, formerly led by Li Hang, has reported to Zhou Chang for over a month; Li now serves as an advisor on academic partnerships. The company is recruiting a head of embodied‑intelligence technology to lead overall robotics strategy; the senior L8 role (comparable to Alibaba P10–P11) will report to Zhou Chang and candidates are mainly senior technical leaders from leading embodied‑intelligence startups."
-    },
-    {
-      "id": "4912678",
-      "time": "2026-06-02 18:21:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國外長：以在黎境內軍事行動“毫無正當理由”】法國外長巴羅2日接受該國媒體採訪時說，以色列在黎巴嫩境內的軍事行動“毫無正當理由”。巴羅說，以色列有權針對黎巴嫩真主黨的襲擊進行自衛，但以色列在黎巴嫩境內的軍事行動和持續佔領“毫無正當理由”。法方呼籲真主黨停止襲擊以色列，同時以色列應停止打擊黎巴嫩。（新華社）"
-    },
-    {
-      "id": "4912677",
-      "time": "2026-06-02 18:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列外交部：儘管昨日再次宣佈停火，但真主黨仍持續違反停火協議。就在昨晚，真主黨從黎巴嫩向以色列社群發動了多次導彈和無人機襲擊。"
-    },
-    {
-      "id": "mkt:019e87d9-9e3e-7aa8-868c-b1761d836427",
-      "time": "2026-06-02 18:20:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romania's foreign-exchange reserves fell to €64.05 bln, the central bank said."
-    },
-    {
-      "id": "4912676",
-      "time": "2026-06-02 18:20:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛沃科技：簽署多個募集資金三方監管協議】飛沃科技公告稱，公司首次公開發行股票募集資金淨額85,150.61萬元。2026年公司變更部分募投專案用途及使用剩餘超募資金投資建設新專案。截至公告披露日，公司已與華夏銀行常德分行、交通銀行常德分行、中國民生銀行長沙分行、中國銀行桃源支行及國聯民生證券承銷保薦有限公司分別簽署《募集資金三方監管協議》，對募集資金存放和使用進行專戶管理，各專戶餘額分別為3,207.15萬元、1,113.72萬元、2,264.35萬元、191.57萬元。"
-    },
-    {
-      "id": "mkt:019e87d9-5072-7114-9ad6-476866429504",
-      "time": "2026-06-02 18:20:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's foreign ministry said that despite a ceasefire announced yesterday, Hezbollah continued to violate the agreement, launching multiple missile and drone attacks from Lebanon against Israeli communities overnight."
-    },
-    {
-      "id": "4912675",
-      "time": "2026-06-02 18:20:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST元道：股票交易異常波動 或被實施重大違法強制退市】*ST元道公告稱，公司股票連續三個交易日內及連續兩個交易日（2026年6月1日、2026年6月2日）收盤價格漲幅偏離值累計超30%，屬異常波動情形。公司於5月8日收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。股票自5月12日起被實施退市風險警示，若觸及相關情形將被終止上市。公司、控股股東和實控人不存在應披露未披露重大事項，實控人在異常波動期無買賣公司股票行為。"
-    },
-    {
-      "id": "4912674",
-      "time": "2026-06-02 18:20:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛沃科技：因資本公積金轉增股本，回購價格上限由43.44元調整為31.06元/股】飛沃科技公告，此前公司擬以2500萬元至5000萬元回購股份，回購價格上限為43.44元/股，用於實施股權激勵計劃。現因2025年度資本公積金轉增股本（每10股轉增4股）實施，除權除息日為2026年5月19日，回購價格上限相應調整為不超過31.06元/股。除上述調整外，回購方案其他事項不變。"
-    },
-    {
-      "id": "4912673",
-      "time": "2026-06-02 18:19:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯方面表示，烏克蘭在黑海的“恐怖活動”令其感到擔憂，這導致民用航運風險增加。"
-    },
-    {
-      "id": "4912672",
-      "time": "2026-06-02 18:19:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電建成立智慧綠色能源公司】企查查APP顯示，近日，聚源智慧綠色能源（天津）有限公司成立，法定代表人為趙佳，經營範圍包含：發電業務、輸電業務、供（配）電業務；風力發電技術服務；發電技術服務；資訊系統執行維護服務等。企查查股權穿透顯示，該公司由中國電建間接全資持股。"
-    },
-    {
-      "id": "te:markets:555754",
-      "time": "2026-06-02 18:19:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Rises to 2-Week High — Steel rebar futures were at CNY 3,190 per tonne in June, their highest in two weeks to sustain an over 3% increase since the start of the year as aggressive stimulus measures by the Chinese government supported expectations on demand. Major ratings houses noted they expect home prices in China to halt their decline by next year, reflecting the bottom of a major source of rebar consumption globally. The signals are consistent with measures taken by local governments to boost property buying, with the Shenzhen area easing restrictions on home buying and Guangzhou increasing subsidies. Infrastructure spending is also due to support ferrous metal buying, including Beijing's push to set up industrial and commercial hubs in Western China. On the supply front, domestic steel output eased by 2.8% annually to 83.6 million tons, the lowest amount for the month since 2018."
-    },
-    {
-      "id": "4912671",
-      "time": "2026-06-02 18:18:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博時基金：旗下部分基金新增西南證券為申購、贖回代辦券商】博時基金公告稱，自2026年6月3日起，旗下部分基金新增西南證券為場內申購、贖回業務的代辦券商。涉及15只滬市ETF和14只深市ETF，包括博時上證自然資源ETF、博時中證紅利低波動100ETF等。投資者可透過西南證券客服電話4008096096或博時一線通95105568諮詢詳情。基金管理人不保證基金盈利和最低收益，投資者應閱讀相關檔案並注意投資風險。"
-    },
-    {
-      "id": "mkt:019e87d7-8baa-7aa8-868c-a6cbdaf78879",
-      "time": "2026-06-02 18:18:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Russian authorities said Ukraine's \"terrorist activities\" in the Black Sea have escalated, raising concern and increasing risk to civilian shipping."
-    },
-    {
-      "id": "4912670",
-      "time": "2026-06-02 18:18:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雅居樂集團5月累計合約銷售額29.8億元人民幣。"
-    },
-    {
-      "id": "4912669",
-      "time": "2026-06-02 18:17:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興民智通等成立新能源科技公司】企查查APP顯示，近日，時正新能源科技（山東）有限公司成立，法定代表人為鄒方昭，經營範圍包含：新能源原動裝置銷售；智慧輸配電及控制裝置銷售；電力電子元器件製造；新能源汽車換電設施銷售等。企查查股權穿透顯示，該公司由興民智通旗下興民卓通（深圳）控股有限公司、亙宇能源科技（東營）有限公司共同持股。"
-    },
-    {
-      "id": "4912668",
-      "time": "2026-06-02 18:17:36",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗策略師警告：美國科技股多頭倉位過度擁擠 回撥風險上升】花旗集團策略師表示，美國科技股市場中過度擁擠的多頭倉位正使投資者面臨回撥風險。包括David Chew在內的花旗策略師團隊在報告中寫道，由AI熱潮持續推動的樂觀情緒已經使市場看漲押注達到較為極端的水平，以至於納斯達克100指數尤其容易受到衝擊。Chew表示，納斯達克100指數中高度集中的多頭倉位，“使得一旦出現任何負面催化因素，投資者獲利了結和多頭平倉的可能性大幅上升”，下行風險正在增加。自3月底觸底以來，標普500指數累計上漲20%，而納斯達克100指數則飆升33%。根據動量指標顯示，這一以科技股為主的指數在過去近六週時間裡幾乎一直處於超買狀態。"
-    },
-    {
-      "id": "4912667",
-      "time": "2026-06-02 18:17:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佳發教育：擬1049萬元參與設立投資基金】佳發教育公告稱，公司擬與青島中科育成投資管理有限公司等共同設立青島育成匯智科技創業投資基金合夥企業，公司擬作為有限合夥人以自有資金出資1049萬元，佔比8.5396%（以最終工商登記為準）。該基金認繳出資總額1.23億元，主要投資成長期未來產業企業。本次投資可盤活閒置資金，探索產業協同機會，但合夥企業尚未完成註冊登記，投資效益存在不確定性。"
-    },
-    {
-      "id": "4912666",
-      "time": "2026-06-02 18:16:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易成新能：股東開封發投解質押並再質押6.70%】易成新能公告，持股5%以上股東開封市發展投資集團有限公司解除1.26億股質押，佔其持股50.00%、佔公司總股本6.70%；並於2026年5月28日將同等數量股份再次質押給通匯嘉泰融資租賃（天津）有限公司，質押期限至辦理解除登記手續日。截至公告披露日，開封發投持股2.51億股，佔13.40%，其中1.26億股已質押，佔其持股50.00%、佔總股本6.70%。"
-    },
-    {
-      "id": "4912665",
-      "time": "2026-06-02 18:16:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方直科技：持股5%以上股東黃曉峰與張智章簽署《股份轉讓協議之補充協議》】方直科技公告，持股5%以上股東黃曉峰擬透過協議轉讓方式向張智章轉讓其持有的方直科技股份1495.38萬股，佔公司總股本的5.94%。本次協議轉讓尚需經深圳證券交易所進行合規性稽核後方能在中國結算深圳分公司辦理股份協議轉讓過戶手續。黃曉峰與張智章已於2026年6月2日簽署《股份轉讓協議之補充協議》，補充協議對原協議的付款期限和違約責任進行了約定。"
-    },
-    {
-      "id": "4912664",
-      "time": "2026-06-02 18:16:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST新元：多項風險致股票被警示 正推進整改消除影響】*ST新元公告稱，公司因最近三個會計年度扣非前後淨利潤孰低者均為負值、主要銀行賬戶被凍結、收到行政處罰事先告知書等，股票交易被實施其他風險警示。公司還存在撤銷退市風險警示申請未透過、重整失敗等退市風險。公司採取多項整改措施，如成立專項整改工作組、確定產業投資人、改善資金狀況、開展財務自查等。目前，2024年度審計報告非標意見影響已消除，公司將在滿足條件後申請撤銷其他風險警示。"
-    },
-    {
-      "id": "4912663",
-      "time": "2026-06-02 18:16:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達威股份：擬將金獅科技60%股權劃轉至全資子公司並增資4080萬元】達威股份公告，公司擬將持有的控股子公司上海金獅化工科技有限公司60%股權劃轉給全資子公司上海達威芯新材料有限公司，劃轉完成後金獅科技成為公司控股孫公司。同時，公司擬透過達威芯新材料以4080萬元自有資金和實物對金獅科技進行增資，成都朗敘新材料科技有限公司擬以1720萬元無形資產對金獅科技進行增資。增資完成後，金獅科技註冊資本將由200萬元增加至6000萬元，達威芯新材料持股70%，朗敘新材持股30%。本次交易不需提交股東會審議，不構成重大資產重組，亦不構成關聯交易。"
-    },
-    {
-      "id": "4912662",
-      "time": "2026-06-02 18:16:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海峽創新：子公司接受關聯方800萬元擔保並提供反擔保】海峽創新公告稱，公司全資子公司醫療科技向興業銀行平潭分行申請800萬元流動資金借款，委託關聯方信平融資提供連帶責任保證擔保，支付擔保費7萬元；信平融資提供保證金擔保，繳存80萬元保證金。公司向信平融資提供連帶責任保證及抵押反擔保，宇佑金服提供房租收益權質押反擔保，平潭融擔提供連帶責任保證反擔保，醫療科技支付12.9998萬元擔保費。本次擔保後，剩餘可用擔保額度2200萬元。截至披露日，公司及子公司對外擔保餘額5800萬元，佔最近一期經審計淨資產的21.07%。"
     }
   ]
 }
