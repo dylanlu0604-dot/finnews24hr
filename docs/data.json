@@ -1,7 +1,218 @@
 {
-  "updated": "2026-06-09 15:15:12",
-  "count": 19111,
+  "updated": "2026-06-09 15:19:15",
+  "count": 19115,
   "items": [
+    {
+      "id": "4925434",
+      "time": "2026-06-09 15:18:12",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：第五艘卡達液化天然氣油輪已離開霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019eab3f-1ff6-7005-988c-118914bd9b21",
+      "time": "2026-06-09 15:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the fifth Qatari LNG tanker has exited the Strait of Hormuz."
+    },
+    {
+      "id": "4925433",
+      "time": "2026-06-09 15:17:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【禮來：口服小分子Orforglipron三項3期研究展現優效控糖與減重效果】6月8日，禮來公司公佈了ACHIEVE系列三項3期臨床研究的詳細結果。該系列研究評估了orforglipron在2型糖尿病成人患者中的有效性與安全性。在ACHIEVE-3研究中，orforglipron 17.2mg組較口服司美格魯肽14mg組實現更優的糖化血紅蛋白（A1C）和體重降低效果，其中A1C相對降幅高57.1%，相對體重降幅高73.6%。禮來計劃於第二季度末向美國食品藥品監督管理局（FDA）遞交orforglipron用於治療2型糖尿病的上市申請。"
+    },
+    {
+      "id": "mkt:019eab3e-75fe-7ee8-a201-f120e33f6801",
+      "time": "2026-06-09 15:17:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02589.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed tea and beverage stocks showed localized strength; Shanghai Auntie (02589.HK) rose over 10%."
+    },
+    {
+      "id": "4925432",
+      "time": "2026-06-09 15:17:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股茶飲股區域性異動，滬上阿姨(02589.HK)漲超10%。"
+    },
+    {
+      "id": "te:markets:557561",
+      "time": "2026-06-09 15:17:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "UBS Stock Price Hits 18-year High — UBS shares increased to 38.61 CHF, the highest since February 2008. Over the past 4 weeks, UBS gained 9.86%, and in the last 12 months, it increased 45.1%."
+    },
+    {
+      "id": "mkt:019eab3e-244a-7ee8-a201-eeb70fe91f24",
+      "time": "2026-06-09 15:17:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said establishing a state-led entity to control exports would help boost future GDP growth."
+    },
+    {
+      "id": "4925431",
+      "time": "2026-06-09 15:17:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：預計2027年印尼盾匯率區間為16800-17500（兌1美元）。"
+    },
+    {
+      "id": "mkt:019eab3d-e82c-7ee8-a201-e081e252152c",
+      "time": "2026-06-09 15:17:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vision 2030 report showed Saudi Arabia's real non-oil GDP at end-2025 was USD 892bn, below a USD 904bn target."
+    },
+    {
+      "id": "4925430",
+      "time": "2026-06-09 15:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月9日：“農產品批發價格200指數”比昨天上升0.08個點】據農業農村部監測，6月9日“農產品批發價格200指數”為113.31，比昨天上升0.08個點，“菜籃子”產品批發價格指數為113.37，比昨天上升0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.70元/公斤，比昨天上升0.4%；牛肉66.55元/公斤，與昨天持平；羊肉63.79元/公斤，比昨天下降0.2%；雞蛋10.85元/公斤，比昨天上升2.3%；白條雞17.12元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.30元/公斤，比昨天上升1.4%；重點監測的6種水果平均價格為7.58元/公斤，比昨天上升0.7%。鯽魚20.74元/公斤，比昨天上升2.8%；鯉魚14.74元/公斤，比昨天下降0.5%；白鰱魚10.42元/公斤，比昨天上升1.4%；大帶魚41.21元/公斤，比昨天上升2.6%。 今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、蓮藕、菠菜、豆角和鯽魚，幅度分別為5.2%、4.6%、4.2%、3.5%和2.8%；價格降幅前五名的是西瓜、巨峰葡萄、蔥頭、大黃花魚和大白菜，幅度分別為2.2%、1.0%、0.9%、0.8%和0.7%。"
+    },
+    {
+      "id": "mkt:019eab3d-cbab-7005-988c-0a7a3f5e679a",
+      "time": "2026-06-09 15:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China bond futures midday close】2-year (TS) main contract fell 0.01%, 5-year (TF) fell 0.05%, 10-year (T) fell 0.10%, 30-year (TL) fell 0.26%."
+    },
+    {
+      "id": "4925429",
+      "time": "2026-06-09 15:16:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：成立由國家主導的機構管控出口將推動未來GDP增長。"
+    },
+    {
+      "id": "mkt:019eab3d-a46f-7ee8-a201-d1f684dd3f1c",
+      "time": "2026-06-09 15:16:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vision 2030 report says Saudi Arabia's Public Investment Fund expects assets under management to reach $910 billion by end-2025, below its $1.09 trillion target."
+    },
+    {
+      "id": "mkt:019eab3d-6aaf-7ee8-a201-ccfd16921479",
+      "time": "2026-06-09 15:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor expects the rupiah to trade in a 16,800-17,500 range in 2027."
+    },
+    {
+      "id": "mkt:019eab3d-580c-7ee8-a201-c6c32315a0cb",
+      "time": "2026-06-09 15:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said 2027 GDP growth is expected between 5.1% and 5.9%."
+    },
+    {
+      "id": "te:markets:557559",
+      "time": "2026-06-09 15:16:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.29% Higher — The Shangai Composite Index rose 51 points or 1.29 percent on Tuesday to close at 4010 points. Leading the gains are Datang Intl (5.50%), China Fortune (4.65%) and Sanan Optoelectron (4.07%)."
+    },
+    {
+      "id": "mkt:019eab3d-18ca-7ee8-a201-bb8c78fb95ee",
+      "time": "2026-06-09 15:16:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Mongolia hold \"Prairie Partner-2026\" army drills; highlight manned-unmanned integration】China and Mongolia held the second \"Prairie Partner-2026\" joint army training at a combined training base in Inner Mongolia from May 30 to June 6. Exercises focused on joint command and coordinated strikes against illegal armed groups, with systematic employment of unmanned and intelligent systems. Manned‑unmanned coordinated assault drills were conducted with live opposing forces and laser engagement and included unmanned reconnaissance/strike, combined manned–unmanned breach and obstacle clearance, and trench clearance. The series aims to deepen tactical exchange and strengthen joint tasking and shared response to security risks."
+    },
+    {
+      "id": "4925428",
+      "time": "2026-06-09 15:15:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特《2030願景》報告顯示，2025年末沙烏地阿拉伯非石油實際國內生產總值為8920億美元，低於9040億美元的目標值。"
+    },
+    {
+      "id": "4925427",
+      "time": "2026-06-09 15:15:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【抖音嚴打非法跨境投資導流 近兩週處置違規內容超1500條】抖音相關負責人處瞭解到，抖音明確嚴禁誘導非法跨境投資相關內容，包括但不限於教授或引導辦港卡開證券賬戶、無資質提供辦港卡服務等行為，近雙週處置相關違規內容1500餘條。據悉，此前多部門已針對非法跨境證券期貨經營亂象提出整治要求，抖音持續強化平臺內容管控，從嚴清理各類違規導流資訊，引導投資者正確看待投資行為。"
+    },
+    {
+      "id": "4925426",
+      "time": "2026-06-09 15:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特公共投資基金《2030 願景》報告：2025 年末資產管理規模初步預估為 9100 億美元，低於 1.09 萬億美元的目標值。"
+    },
+    {
+      "id": "4925425",
+      "time": "2026-06-09 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.26%， 10年期主力合約跌0.10%， 5年期主力合約跌0.05%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4925424",
+      "time": "2026-06-09 15:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中蒙“草原夥伴-2026”陸軍聯訓提升聯合遂行任務能力】6月9日下午，國防部新聞發言人張曉剛大校就近期涉軍問題釋出訊息。 記者：據報道，中蒙“草原夥伴-2026”陸軍聯合訓練圓滿結束。請進一步介紹有關情況。 張曉剛：5月30日至6月6日，中蒙“草原夥伴-2026”陸軍聯訓在內蒙古某聯合訓練基地成功舉行，雙方以聯合打擊非法武裝組織行動為課題，圍繞聯合指揮、協同打擊等課目開展實戰化訓練。鐵甲突擊，智戰草原，無人化智慧化裝備成體系運用是亮點之一。其中，有人無人協同進攻戰鬥訓練採取實兵對抗、鐳射交戰等方式組織實施，涵蓋無人偵察打擊、有人無人協同衝擊、克服和透過障礙、塹壕清剿等內容。這是中蒙兩國陸軍第2次舉行該系列聯訓，雙方透過交流戰法訓法，進一步深化兩軍交流合作，提升共同應對安全風險、聯合遂行任務的能力。"
+    },
+    {
+      "id": "4925423",
+      "time": "2026-06-09 15:14:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長：預計2027年國內生產總值（GDP）增速將處於5.1%-5.9%區間。"
+    },
+    {
+      "id": "4925422",
+      "time": "2026-06-09 15:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國暫時收緊對銀行外匯頭寸的監控】韓國金融監督院(FSS)在一份宣告中表示，將暫時加強對主要銀行外匯頭寸的監控，把審查週期從每月縮短到每週，甚至可能每天。FSS週二與韓國主要銀行及外資銀行在當地的分行舉行會議，評估當前外匯市場狀況，並商討如何應對外匯市場波動加劇。敦促銀行避免對美元存款進行過度營銷。尋求銀行配合，確保離岸NDF交易不會加劇國內外匯市場波動，或造成過度的單邊持倉。"
+    },
     {
       "id": "te:markets:557557",
       "time": "2026-06-09 15:13:46",
@@ -176081,196 +176292,6 @@
         "國際"
       ],
       "text": "【比特幣擴大跌幅，受Strategy拋售和中東衝突影響】在有訊息稱Strategy自2022年以來首次拋售該加密貨幣，以及中東局勢持續緊張之際，比特幣跌至近兩個月低點。Strategy週一表示，上週出售了32枚比特幣，價值約250萬美元。與此同時，美國和伊朗尚未達成和平協議，而儘管以色列和真主黨同意部分停火，黎巴嫩南部的衝突仍在繼續。Trade Nation分析師David Morrison在一份報告中表示：“市場對比特幣的情緒惡化得相當快。“他說，在伊朗戰爭的前10周，比特幣表現出了韌性，但投資者現在似乎對解決衝突的緩慢進展感到沮喪。倫敦證券交易所集團的資料顯示，比特幣下跌1.6%，至低點69,961美元。"
-    },
-    {
-      "id": "mkt:019e8733-0288-7555-bd37-16c77106f92c",
-      "time": "2026-06-02 15:18:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "BOT governor says Thailand's trade balance may return to surplus in Q4."
-    },
-    {
-      "id": "4912146",
-      "time": "2026-06-02 15:18:44",
-      "tags": [
-        "宏觀",
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國內地航線燃油附加費將下調】記者6月2日從中國國航等航空公司獲悉，自6月5日0時起銷售的中國內地航線客票，燃油附加費將下調。具體標準為：800公里（含）以下航線每航段80元，800公里以上航線每航段150元。嬰兒旅客免收燃油附加費，兒童、革命傷殘軍人、因公致殘人民警察客票燃油附加費減半收取。據介紹，對比現行燃油附加費標準，800公里（含）以下航線將下調10元，800公里以上航線將下調20元。（新華社）"
-    },
-    {
-      "id": "4912145",
-      "time": "2026-06-02 15:18:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行行長：第四季度貿易差額或重回順差。"
-    },
-    {
-      "id": "4912144",
-      "time": "2026-06-02 15:18:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華勤技術股價創歷史新高】6月2日，華勤技術(603296)收盤上漲6.46%，收盤價報124.6元/股，創歷史新高。"
-    },
-    {
-      "id": "4912143",
-      "time": "2026-06-02 15:17:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥當勞釋出新全球增長戰略應對市場競爭與消費放緩】麥當勞公司1日在雙年全球特許經營商大會上正式釋出名為“McDonald’s > NEXT”的最新全球增長戰略。該戰略旨在透過聚焦選單創新與品質升級；深化“消費者共創”模式；全面推行新型餐廳設計；重塑客戶服務與技術賦能以在能源價格高企導致消費支出承壓、新型競爭對手崛起的背景下，鞏固麥當勞在全球的市場地位。"
-    },
-    {
-      "id": "4912142",
-      "time": "2026-06-02 15:17:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體米蘭上市股票停牌後恢復交易，上漲8.8%。"
-    },
-    {
-      "id": "te:economy:555666",
-      "time": "2026-06-02 15:17:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Wage Growth",
-        "Importance 1"
-      ],
-      "text": "Slovakia Real Wage Growth Accelerates in Q1 — Real wages in Slovakia rose by 2.3% year-on-year in the first quarter of 2026, following a 1.9% increase in the previous period and extending growth to a tenth consecutive quarter. The average nominal monthly wage increased by 6.1% to EUR 1,611, up EUR 93 from a year earlier. Nominal wages increased in 18 of the 19 monitored sectors, with education posting the strongest gain of 14.5% following wage indexation measures. However, real wages declined in six sectors, with the steepest drops seen in mining and quarrying (-3.7%) and information and communication (-3.4%). In industry, real wages rose 2.2% as average monthly pay reached EUR 1,721, while trade recorded a 0.8% increase with wages averaging EUR 1,518. For the first quarter of 2026, average gross monthly wage increased by 6.0% to EUR 1,721, while its real value rose by 2.2%."
-    },
-    {
-      "id": "4912141",
-      "time": "2026-06-02 15:16:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "受臨床試驗出現多例癌症病例、資料不達預期影響，ABIVAX 股價大跌 30%。"
-    },
-    {
-      "id": "mkt:019e8730-d2c3-7555-bd37-0c5fbe7c44bc",
-      "time": "2026-06-02 15:16:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Spain's IBEX 35 rose 1.00% intraday."
-    },
-    {
-      "id": "mkt:019e8730-9f54-7555-bd37-01e83bb255b5",
-      "time": "2026-06-02 15:16:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China bond futures midday close】2-year bond futures (TS) most-active contract rose 0.01%; 5-year (TF) up 0.04%; 10-year (T) up 0.06%; 30-year (TL) unchanged."
-    },
-    {
-      "id": "4912140",
-      "time": "2026-06-02 15:16:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回升，最新報漲0.02%。"
-    },
-    {
-      "id": "mkt:019e8730-9766-7555-bd36-fb1c0bf65be2",
-      "time": "2026-06-02 15:16:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "LME tin up 4.00% intraday, trading at $58,750/tonne."
-    },
-    {
-      "id": "te:markets:555664",
-      "time": "2026-06-02 15:16:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.46% Higher — The Shangai Composite Index rose 19 points or 0.46 percent on Tuesday to close at 4076 points. Leading the gains are Datang Intl (8.36%), China Molybdenum (6.57%) and Aluminum Corporation of China (4.78%). Top losers were Huaneng (-6.86%), Zhejiang Zheneng (-4.48%) and China International (-3.03%)."
-    },
-    {
-      "id": "4912139",
-      "time": "2026-06-02 15:15:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【星海圖釋出自研雙足人形機器人】6月2日，星海圖正式釋出自研雙足人形機器人Kengo（行客）。"
-    },
-    {
-      "id": "4912138",
-      "time": "2026-06-02 15:15:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體米蘭上市股票在上漲9.78%後自動停牌，觸及2000年9月以來最高點位。"
-    },
-    {
-      "id": "mkt:019e8730-64a9-7555-bd36-f39b5596f1ac",
-      "time": "2026-06-02 15:15:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "STM.MI",
-        "Impact mixed"
-      ],
-      "text": "Milan-listed STMicroelectronics shares were automatically suspended after rising 9.78%, the stock hitting its highest level since September 2000."
-    },
-    {
-      "id": "4912137",
-      "time": "2026-06-02 15:15:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【泰國央行：預計2027年第二季度通脹將減緩】泰國央行行長：預計泰國今年通脹率為3%。預計2027年第二季度通脹將減緩。關鍵利率將保持不變，除非情況發生變化。出口將實現良好增長。預計今年出口增長12%至13%。"
-    },
-    {
-      "id": "4912136",
-      "time": "2026-06-02 15:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茅臺子公司回應“一瓶飛天捆綁4瓶黔茅酒”】6月2日，有報道稱，在茅臺集團2026年全國專案合作峰會上，有參會者被要求“買1瓶飛天茅臺，最低要捆綁4瓶黔茅酒”。據悉，2025年7月，茅臺保健酒業下屬子公司健康產業公司與貴州黔茅營銷策劃有限公司開展合作，由黔茅策劃公司經銷健康產業公司生產的黔茅系列酒類產品。根據雙方約定，黔茅策劃公司對黔茅系列酒類產品的宣傳承擔責任，要嚴格管控經銷商、分銷商，依法合規招商、宣傳，不得欺騙或誤導消費者，不得擅自以“茅臺集團公司”“健康產業銷售公司”名義進行招商、宣傳、產品推廣等，產品廣告宣傳等內容須獲得審批後方可釋出。對於“捆綁銷售”的情況，貴州茅臺酒廠（集團）保健酒業有限公司釋出宣告稱，這是貴州黔茅營銷策劃有限公司擅自開展的誤導消費者的招商、宣傳活動。茅臺保健酒表示：“鑑於此活動已違反雙方約定，健康產業銷售公司已暫停與黔茅策劃公司一切合作及經銷授權，後續將依法追究其相關法律責任。”（新浪科技）"
-    },
-    {
-      "id": "te:economy:555662",
-      "time": "2026-06-02 15:15:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Austria Inflation at 5-Month High — The annual inflation rate in Austria rose to 3.7% year-on-year in May 2026 from 3.3% in the previous month, marking its highest level since December 2025, according to preliminary estimates. Services inflation increased (4.4% vs 4.1% in April), mainly driving the overall rise, partly due to higher airline ticket prices. Industrial goods also rose (1.4% vs 0.8%). Meanwhile, energy-related costs increased at a slower pace, with gasoline inflation easing, while diesel and heating oil prices declined compared to the previous month. Food, beverages, and tobacco inflation also eased (2.4% vs 2.6%). On a monthly basis, consumer prices rose 0.1%, slowing from 0.3% in the preceding period."
-    },
-    {
-      "id": "te:markets:555661",
-      "time": "2026-06-02 15:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Higher on Tuesday — European stocks traded higher on Tuesday, with both the STOXX 50 and STOXX 600 gaining 0.6% after starting June with losses in the previous session. Investors took advantage of the recent pullback while assessing the sustainability of the global technology and AI-driven market rally. Market participants also remained focused on developments in the Middle East, where negotiations continue to fluctuate and the Strait of Hormuz remains largely closed. Meanwhile, attention is turning to the Eurozone’s preliminary inflation data, with headline inflation expected to rise to 3.2% and core inflation projected to accelerate to 2.4%."
     }
   ]
 }
