@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-10 02:56:21_
-_本檔包含 3584 則快訊，約 679865 字_
+_更新時間：2026-06-10 03:34:55_
+_本檔包含 3570 則快訊，約 680176 字_
+
+---
+
+### 2026-06-07 04:03:06  #MKT News #WTI #Impact bearish #Brent
+
+【Pakistan interior minister arrives in Tehran to mediate Iran–US tensions】Pakistan Interior Minister Naqvi arrived in Tehran on the 6th and is expected to hold talks with Iranian officials. The visit is aimed at mediating and easing tensions between Iran and the United States; Naqvi is scheduled to meet Foreign Minister Abbas Araghchi on the 7th.
+
+---
+
+### 2026-06-07 04:02:17  #MKT News #Market Regions #Emerging Markets
+
+【Iran, Pakistan interior ministers meet; agree to raise annual trade target to $10bln】On the evening of the 6th local time, Iranian Interior Minister Momeni met visiting Pakistani Interior Minister Nakevi. Momeni said the visit will focus on bilateral issues including border security, counternarcotics and counterterrorism, and that both sides agreed to raise annual bilateral trade from $3bln to $10bln. Momeni said Iran welcomes Pakistan’s positive role in easing Iran‑US tensions. Nakevi said Iran and Pakistan have brotherly ties and delivered a special letter to Iran’s Supreme Leader from Pakistan’s army chief Munir and Prime Minister Sharif; he added, I consider this message very important. I hope everything goes smoothly and the crisis ends soon.
+
+---
+
+### 2026-06-07 04:02:14  #國際
+
+【俄國防部稱13小時內攔截並擊落300多架烏無人機】俄羅斯國防部6日晚間通報稱，當地時間7時至20時，俄防空系統在別爾哥羅德州、布良斯克州和莫斯科州等多個地區攔截並擊落339架烏克蘭無人機。（新華社）
+
+---
+
+### 2026-06-07 03:59:50  #國際
+
+【伊朗與巴基斯坦兩國內政部長會面 討論地區局勢等問題】當地時間6日晚，伊朗內政部長莫梅尼會見了到訪的巴基斯坦內政部長納克維。莫梅尼表示，巴基斯坦內政部長此次訪問的部分內容將聚焦雙邊問題，包括邊境安全、禁毒和反恐。此外，雙方在經濟領域決定將兩國間的年度貿易額從30億美元提高到100億美元。莫梅尼稱，伊朗讚賞巴基斯坦在緩和伊朗與美國緊張關係方面發揮的積極作用。納克維表示，伊朗和巴基斯坦有著兄弟般的關係，希望在巴基斯坦官員的努力下，地區危機能夠儘快結束。本次訪問是為了向伊朗最高領袖穆傑塔巴遞交巴基斯坦陸軍參謀長穆尼爾和總理謝里夫關於當前局勢的特別信函。納克維提到，“我認為這條資訊非常重要。希望一切順利，危機早日結束。”（央視新聞）
+
+---
+
+### 2026-06-07 03:57:26  #國際
+
+以色列通報北部地區發現敵方飛行器入侵。
+
+---
+
+### 2026-06-07 03:56:58  #國際
+
+【伊朗已故最高領袖的前顧問：伊朗絕不會放棄核計劃】伊朗已故最高領袖前顧問穆罕默德・賈瓦德・拉里賈尼表示，伊朗無需巴基斯坦出面斡旋伊美關係，伊朗議會議長卡利巴夫此次前往伊斯蘭堡是一次代價慘重的失誤。拉里賈尼稱：“巴基斯坦總理為人友善，但我們並不需要他從中撮合伊美談判，他應當認清斡旋的邊界。倘若伊朗有意與美方對話，我們會自行推進，無需第三方調停。”現任伊朗基礎科學研究院院長的拉里賈尼還表示，民眾大可放心，伊朗絕不會放棄本國核計劃。
+
+---
+
+### 2026-06-07 03:52:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【IDF says two soldiers killed during operations in southern Lebanon】The Israel Defense Forces said on the 6th that two soldiers recently died while operating in southern Lebanon. A captain wounded in a Hezbollah drone strike on the night of the 4th died in hospital on the morning of the 6th. Separately, a soldier died on the 5th from an apparent accidental weapons discharge while on duty in southern Lebanon.
+
+---
+
+### 2026-06-07 03:51:42  #國際
+
+【以軍稱兩名士兵在黎巴嫩南部執行任務期間死亡】當地時間6日，以色列國防軍證實，有兩名以軍士兵近日在黎巴嫩南部執行任務期間死亡。以軍稱，一名以軍上尉此前在4日夜間遭真主黨無人機襲擊受重傷，被送醫後於6日早晨不治身亡。另一起事件發生在5日，一名以軍士兵在黎巴嫩南部執行任務期間疑似武器意外走火死亡。（央視新聞）
+
+---
+
+### 2026-06-07 03:46:08  #國際
+
+卡達譴責以色列襲擊黎巴嫩軍隊，稱此舉是危險的局勢升級，也是對黎巴嫩主權的公然侵犯。
+
+---
+
+### 2026-06-07 03:44:39  #公司 #市場 #國際
+
+【國際航空運輸協會理事長：預計未來將有更多航空公司破產整合】國際航空運輸協會（IATA）理事長沃爾什表示，受航空燃油價格上漲影響，預計未來將有更多航空公司破產，航空業會出現整合。受監管障礙影響，歐美航空聯盟合併事宜大機率無法推進，中東衝突平息後，海灣地區航企與樞紐將重新奪回市場份額，儘管清潔燃料發展未達預期，航空業機構仍將堅持2050年淨零排放目標。
+
+---
+
+### 2026-06-07 03:42:58  #MKT News #Commodities #Energy #AAL.O #Impact bearish #UAL.O #WTI #Impact bullish
+
+【IATA director-general: jet-fuel spike to drive airline failures, consolidation】IATA director-general Willie Walsh said rising jet fuel prices are likely to prompt further airline bankruptcies and industry consolidation. He said regulatory barriers make a merger between United Airlines and American Airlines unlikely. Walsh said Gulf carriers and hubs will reclaim market share once the Middle East conflict eases. Despite disappointing progress on sustainable aviation fuel (SAF), IATA remains committed to net-zero emissions by 2050.
+
+---
+
+### 2026-06-07 03:40:20  #國際
+
+【美國國家勞資關係委員會多項裁定認定星巴克違反勞工法】美國國家勞資關係委員會週五作出兩項裁定：其一，星巴克單方面調整著裝規定的執行標準，未留出協商空間，違反聯邦勞工法；其二，該咖啡品牌違規盤問員工是否參與罷工。上述裁定維持了行政法法官的原有判決，認定這家咖啡企業在太平洋西北地區部分門店觸犯《國家勞資關係法》。星巴克與工會之間的勞資糾紛由來已久，工會為在全美眾多門店推進組織工作，已向該委員會多次發起不當勞工行為指控，本次判決是系列糾紛的最新結果。
+
+---
+
+### 2026-06-07 03:39:18  #MKT News
+
+IDF says air-raid alert sounded in Margaliot area for hostile aerial vehicle intrusion.
+
+---
+
+### 2026-06-07 03:36:19  #國際
+
+【韓正出席中國－白俄羅斯產業與投資合作論壇並致辭】當地時間2026年6月6日，國家副主席韓正在明斯克出席中國－白俄羅斯產業與投資合作論壇開幕式並致辭。韓正說，習近平主席指出，中國和白俄羅斯是真朋友、好夥伴。近年來，在習近平主席和盧卡申科總統的戰略引領下，兩國關係持續高水平發展，經貿投資合作亮點紛呈，展現出蓬勃生機和強大活力。2025年中白雙邊貿易額是建交之初的近150倍。兩國元首親自關注、親自推動的中白工業園入駐企業達到178家，有力帶動當地經濟社會發展，成果惠及兩國人民。中方願繼續同白方以誠相待、以信相交，積極落實兩國元首重要共識，推動中白全天候全面戰略伙伴關係高水平發展，更好惠及兩國人民。（新華社）
+
+---
+
+### 2026-06-07 03:34:42  #MKT News
+
+【Han Zheng meets Belarus First Deputy Prime Minister Snopkov】On June 6, 2026 in Minsk, Vice President Han Zheng met Belarus First Deputy Prime Minister Snopkov. Han said China and Belarus have strong economic complementarity and broad scope for cooperation, and China is willing to deepen alignment of development strategies to build a higher‑level, more resilient and more sustainable win‑win development space.
+
+---
+
+### 2026-06-07 03:33:08  #公司 #國際
+
+【美國廉價航空公司Breeze Airways計劃於2027年上市】美國國內低成本航空公司Breeze Airways執行長大衛·尼爾曼週六表示，該公司計劃於2027年進行首次公開募股（IPO），但他指出該計劃取決於市場狀況。他在里約熱內盧舉行的國際航空運輸協會年度峰會上接受採訪時補充道，該航空公司曾考慮更早進行IPO，但因市場狀況決定暫緩。“要進行IPO，市場必須配合，行業也必須配合，”他說。
 
 ---
 
@@ -21471,185 +21567,5 @@ China A-share memory-chip sector opened lower; Jiangbolong fell more than 5%, Gi
 ### 2026-06-05 09:28:32  #MKT News #Star Stocks #AAPL.O #Impact bullish
 
 【Details of Apple's first OLED MacBook Pro leak; may be named MacBook Ultra】Market research firm projects the hybrid OLED notebook-panel market could reach USD 4bln by 2026, driven by expected demand for Apple’s next-generation OLED MacBook Pro, possibly named MacBook Ultra, which would be Apple’s first MacBook Pro with an OLED display. Analysts say Apple’s adoption should boost notebook OLED panel revenue and prompt other makers to shift to similar designs. Forecasts put hybrid OLED at 12.6% of global OLED notebook shipments in 2026, rising to 89.5% by 2033.
-
----
-
-### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
-
-Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
-
----
-
-### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
-
----
-
-### 2026-06-05 09:27:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share innovative drug sector opened higher; Meinuohua gained over 4%, Hanyu Pharmaceutical rose more than 2%; Hengrui Medicine, Aimeike and Chengdu Xiandao also advanced.
-
----
-
-### 2026-06-05 09:27:36  #市場
-
-創新藥板塊多股高開，美諾華漲超4%，翰宇藥業漲超2%，恆瑞醫藥、愛美客、成都先導等跟漲。
-
----
-
-### 2026-06-05 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-China's Shanghai Composite Index opened down 12.95 points (-0.32%) at 4,044.83 on Friday, June 5; Shenzhen Composite Index opened down 65.88 points (-0.42%) at 15,595.70; CSI 300 Index opened down 17.78 points (-0.36%) at 4,886.96; ChiNext Index opened down 8.93 points (-0.22%) at 4,079.95; STAR 50 Index opened down 31.53 points (-1.81%) at 1,706.53.
-
----
-
-### 2026-06-05 09:26:41  #MKT News #XAUUSD #Impact bearish
-
-Spot gold fell back below $4,450/oz, down 0.58% intraday.
-
----
-
-### 2026-06-05 09:26:38  #公司
-
-【潤澤科技成立兩家科技發展公司】企查查APP顯示，近日，河北潤弘科技發展有限公司、河北潤嘉科技發展有限公司成立，註冊資本均為1000萬元，經營範圍均包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，二者皆由潤澤科技間接全資持股。
-
----
-
-### 2026-06-05 09:26:32  #市場 #焦點
-
-現貨黃金失守4450美元/盎司，日內跌0.57%。
-
----
-
-### 2026-06-05 09:26:19  #市場
-
-韓元兌美元貶值1%。
-
----
-
-### 2026-06-05 09:26:06  #國際
-
-泰國尋求在6月前與美國達成貿易協議，目標關稅為10%。
-
----
-
-### 2026-06-05 09:25:25  #市場
-
-臺灣加權股價指數下跌3%至44,285.70點。
-
----
-
-### 2026-06-05 09:25:22  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-A-shares opened lower: Shanghai Composite down 0.32%, Shenzhen Composite down 0.42%, ChiNext down 0.22%.
-
----
-
-### 2026-06-05 09:25:13  #焦點
-
-三大股指低開，滬指跌0.32％，深成指跌0.42％，創業板跌0.22％。
-
----
-
-### 2026-06-05 09:24:45  #央行 #中國央行
-
-央行公開市場今日進行2150億元人民幣七天期逆回購操作，今日逆回購到期1,230億。
-
----
-
-### 2026-06-05 09:24:17  #市場
-
-【港股AI應用股走強 五一視界漲近6%】截至發稿，五一視界(06651.HK)漲5.78%，創夢天地(01119.HK)漲4.41%，速騰聚創(02498.HK)漲1.41%。
-
----
-
-### 2026-06-05 09:23:32  #MKT News #Important #CNH #Impact bullish
-
-PBOC conducted a CNY215 billion 7-day reverse repo today; bids CNY215 billion, allotment CNY215 billion; rate 1.40%, unchanged.
-
----
-
-### 2026-06-05 09:23:25  #央行 #其他
-
-央行逆回購今日淨投放920億元人民幣。
-
----
-
-### 2026-06-05 09:22:48  #央行 #其他
-
-央行進行 2,150 億元 7 天期逆回購操作 操作利率 1.4%。
-
----
-
-### 2026-06-05 09:22:18  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Indonesia's economic ministry said it is seeking an exemption from U.S. Section 232 tariffs for copper cathode exports produced in Indonesian free ports.
-
----
-
-### 2026-06-05 09:22:07  #市場 #焦點
-
-菜油連續主力合約日內跌2%，現報10116.00元。
-
----
-
-### 2026-06-05 09:22:04  #宏觀 #國際
-
-菲律賓將持續出臺定向調控舉措以穩定物價。
-
----
-
-### 2026-06-05 09:22:03  #MKT News #Market Regions #Greater China #01779.HK #Impact bullish
-
-Tianchen Bio (01779.HK) opened 50.22% higher on its Hong Kong debut. IPO priced at HKD 96.06 per share and was oversubscribed more than 4,700 times. Yesterday’s grey-market trading closed up 57.09%.
-
----
-
-### 2026-06-05 09:21:41
-
-港股恒指低開跌0.27％，國企指數跌0.1％，科指開跌0.31%，半導體板塊多股開跌。
-
----
-
-### 2026-06-05 09:21:35  #市場
-
-大金重工上市首日開盤報66.4港元，與發行價66.40港元持平。
-
----
-
-### 2026-06-05 09:21:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #Hang Seng China Enterprises Index
-
-Hong Kong's Hang Seng Index opened down 67.28 points, or 0.27%, at 25,186.12 on Friday, June 5; the Hang Seng Tech Index opened down 15.43 points, or 0.31%, at 4,959.93; the Hang Seng China Enterprises Index (HSCEI) opened down 8.36 points, or 0.10%, at 8,493.55; the Hang Seng Red Chip Index opened down 25.99 points, or 0.59%, at 4,394.52.
-
----
-
-### 2026-06-05 09:21:20  #MKT News #Important #Market Themes #Chip Wars #Hang Seng Index #Impact bearish #03986.HK #01347.HK
-
-At the Hong Kong open the Hang Seng fell 0.27% and the Hang Seng TECH fell 0.31%. Semiconductor names led declines: GigaDevice Semiconductor (03986.HK) down 4.13%, Hua Hong Semiconductor (01347.HK) down 3.51%.
-
----
-
-### 2026-06-05 09:20:33  #MKT News #Important #Commodities #Industrial Metals
-
-LME tin fell 4.00% on the day to $54,831.15/ton.
-
----
-
-### 2026-06-05 09:19:22  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
-
-MSCI Asia Pacific index fell as much as 2%.
-
----
-
-### 2026-06-05 09:19:02  #MKT News
-
-Indonesia's Ministry of Trade said the statement followed a Paris meeting between Indonesia's chief negotiator on U.S. tariffs and U.S. Trade Representative Greer to discuss Section 301.
-
----
-
-### 2026-06-05 09:18:59  #MKT News #Important #Commodities #Industrial Metals
-
-SHFE tin 2607 weakened sharply intraday, extending losses to 4.04% as the contract tested 423,610 yuan/ton; turnover topped 69 bln yuan. Open interest fell by about 1,600 lots intraday, leaving positions slightly lower.
 
 ---

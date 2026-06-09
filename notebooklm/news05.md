@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-10 02:56:21_
-_本檔包含 3755 則快訊，約 679728 字_
+_更新時間：2026-06-10 03:34:55_
+_本檔包含 3771 則快訊，約 679952 字_
+
+---
+
+### 2026-06-04 04:23:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Trump said Iran at one point agreed to let the US recover or remove enriched uranium, but later withdrew that consent.
+
+---
+
+### 2026-06-04 04:23:37  #MKT News #Market Themes #The Trump Trade
+
+【LULA: If U.S. Won't Buy, Brazil Will Sell to Others】Brazilian President LULA said on the 3rd he will seek alternative commercial partners to limit the negative effects of U.S. trade policy. Speaking at a ministerial meeting, he said, If the U.S. doesn't want to buy, we'll sell to countries that do, and If they don't want to invest here, we'll find others. He added Brazil is independent and will not kowtow to major powers.
+
+---
+
+### 2026-06-04 04:23:33  #國際
+
+特朗普就伊朗濃縮鈾問題表態：我們將在不久後著手取回相關濃縮鈾。
+
+---
+
+### 2026-06-04 04:23:15  #國際
+
+美國聯邦航空管理局（FAA）：拉瓜迪亞機場因跑道維護而暫停地面執行。
+
+---
+
+### 2026-06-04 04:23:01  #國際
+
+特朗普談及伊朗濃縮鈾問題時表示：我希望能解決這個問題。
+
+---
+
+### 2026-06-04 04:22:53  #國際
+
+特朗普：伊朗此前已同意放棄核材料。
+
+---
+
+### 2026-06-04 04:22:44  #國際
+
+特朗普：伊朗或有望與美方合作清繳核原料。
+
+---
+
+### 2026-06-04 04:22:17  #公司 #國際
+
+【盧拉：美國不買 我們就賣給想買的國家】巴西總統盧拉3日表示，巴西將繼續尋找其他商業合作伙伴，以最大程度減少美國貿易政策帶來的負面影響。 據巴西通訊社報道，盧拉在巴西總統府高原宮舉行的一場部長級會議上作出上述表態。他說：“如果美國不想買，我們就賣給想買的國家。我們不會就此抱怨。如果他們不想在這裡投資，我們就另尋他人。” 盧拉強調，巴西是一個獨立自主的國家，不對大國卑躬屈膝。 盧拉在會上還表示，他決定參加6月在法國舉行的七國集團領導人會議，這原本不在他的計劃之內。 巴西通訊社報道，美國貿易代表辦公室1日提議，除其他措施外，對部分巴西輸美產品徵收25%的關稅。這份報告是特朗普政府一年前啟動一項調查的結果，旨在查明巴西在對美貿易中是否存在美方所謂的“不公平做法”。巴西發展、工業、貿易和服務部說，美國關稅決定會直接威脅巴西對美國市場出口總額的21%。(新華社)
+
+---
+
+### 2026-06-04 04:22:02  #國際
+
+【卡達埃米爾與美國總統通電話 討論最新地區局勢】當地時間3日，卡達埃米爾（國家元首）塔米姆與美國總統特朗普通電話，就中東地區最新局勢交換意見。雙方在通話中回顧了中東地區政治和安全形勢的最新發展，以及地區和國際社會為緩和緊張局勢、促進地區穩定所作出的努力。（央視新聞）
+
+---
+
+### 2026-06-04 04:21:52  #MKT News #Important
+
+Trump said he had heard Iran was very close to signing an agreement.
+
+---
+
+### 2026-06-04 04:20:52  #國際
+
+特朗普：理論上伊朗即將簽署相關檔案。
+
+---
+
+### 2026-06-04 04:20:49  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Trump said the US struck Iran the night before last and last night with significant force. He said Iran had been provoked to some degree and that Iran's actions were not serious.
+
+---
+
+### 2026-06-04 04:20:27  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Broadcom earnings above expectations at 2.44 USD — Broadcom (AVGO) released earnings per share at 2.44 USD, compared to market expectations of 2.37 USD.
+
+---
+
+### 2026-06-04 04:20:11  #市場
+
+【美元指數3日上漲】美元指數3日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.31%，在匯市尾市收於99.529。截至紐約匯市尾市，1歐元兌換1.1598美元，低於前一交易日的1.1628美元；1英鎊兌換1.3416美元，低於前一交易日的1.3469美元。1美元兌換160.03日元，高於前一交易日的159.91日元；1美元兌換0.7924瑞士法郎，高於前一交易日的0.7873瑞士法郎；1美元兌換1.3895加元，高於前一交易日的1.3832加元；1美元兌換9.4065瑞典克朗，高於前一交易日的9.3155瑞典克朗。
+
+---
+
+### 2026-06-04 04:19:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Trump said that when dealing with Iran, anything can happen.
+
+---
+
+### 2026-06-04 04:19:37  #國際
+
+特朗普：伊朗若簽署協議，將承諾放棄研發核武器。
+
+---
+
+### 2026-06-04 04:19:21  #MKT News #Market Themes #The Trump Trade
+
+Trump: I support an 'anti-weaponization fund'.
+
+---
+
+### 2026-06-04 04:19:05  #其他
+
+博通二季度AI半導體業務營收108億美元，市場預期106.7億美元。
+
+---
+
+### 2026-06-04 04:18:41  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) said it expects third-quarter semiconductor revenue from AI-related products to rise more than 200% YoY to $16.0 bln.
+
+---
+
+### 2026-06-04 04:18:32  #國際
+
+特朗普談及伊朗相關事宜：事態或還將持續兩三週。
+
+---
+
+### 2026-06-04 04:18:05  #國際
+
+特朗普談及伊朗：並不情願徹底摧毀伊朗。
+
+---
+
+### 2026-06-04 04:17:39  #市場 #焦點
+
+博通股價盤後下跌8%，此前釋出第二財季業績。
+
+---
+
+### 2026-06-04 04:17:30  #國際
+
+特朗普：和伊朗打交道，什麼事都可能發生。
+
+---
+
+### 2026-06-04 04:17:21  #MKT News #Important #WTI #Impact mixed #Brent
+
+Trump: Iran talks may occur over the weekend.
+
+---
+
+### 2026-06-04 04:17:20  #MKT News #AVGO.O #Impact bearish
+
+Broadcom (AVGO.O) shares fell more than 4% in U.S. after-hours trading.
+
+---
+
+### 2026-06-04 04:17:08  #市場
+
+現貨黃金下跌1%，至每盎司4438.73美元。
+
+---
+
+### 2026-06-04 04:16:52  #國際
+
+Meta：Meta、微軟、Coinbase與星鏈聯手美國司法部、泰國皇家警察及全球多家執法機構開展合作。
+
+---
+
+### 2026-06-04 04:16:44  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) reported fiscal 2026 second-quarter net income of $9.31 billion, compared with $4.965 billion a year earlier.
+
+---
+
+### 2026-06-04 04:16:13  #公司
+
+博通第二季度調整後淨營收221.9億美元，市場預期221.3億美元；公司預計第三季度營收約294億美元，市場預期286.1億美元。
+
+---
+
+### 2026-06-04 04:16:13  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) said fiscal Q2 semiconductor revenue from AI was $10.8 billion.
+
+---
+
+### 2026-06-04 04:16:04  #MKT News
+
+US President Trump signed an executive order easing dismissal procedures for 8,000 senior federal officials.
+
+---
+
+### 2026-06-04 04:15:47  #公司
+
+雅詩蘭黛：公司當前預計，重組計劃及其他相關費用稅前合計為15億至17億美元。
+
+---
+
+### 2026-06-04 04:15:47  #MKT News #Important #Market Themes #Chip Wars #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) reported fiscal 2026 second-quarter revenue of $22.187 billion, up from $15.004 billion a year earlier.
+
+---
+
+### 2026-06-04 04:15:36  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+CrowdStrike Holdings earnings above expectations at 1.10 USD — CrowdStrike Holdings (CRWD) released earnings per share at 1.10 USD, compared to market expectations of 1.07 USD.
+
+---
+
+### 2026-06-04 04:15:34  #其他
+
+好市多：前三十九周淨銷售額為2211.9億美元，同比增長10%。
+
+---
+
+### 2026-06-04 04:15:08  #MKT News
+
+Canada said it intends to extend existing tariffs on steel and aluminum products.
+
+---
+
+### 2026-06-04 04:15:06  #國際
+
+特朗普就伊朗襲擊科威特機場一事表態：此舉屬於報復行動。
+
+---
+
+### 2026-06-04 04:14:10  #MKT News #Important #WTI #Impact bearish #Brent #DXY
+
+Trump says talks with Iran are progressing smoothly.
+
+---
+
+### 2026-06-04 04:14:06  #國際
+
+特朗普談及伊朗談判：或於本週末展開磋商。
+
+---
+
+### 2026-06-04 04:14:03  #MKT News
+
+The Wall Street Journal reports Bill Ackman's Pershing Square expects at least $600 million in profit from its investment in Universal Pictures.
+
+---
+
+### 2026-06-04 04:13:41  #其他
+
+加拿大宣告稱，計劃延長鋼鐵和鋁關稅措施。
+
+---
+
+### 2026-06-04 04:13:33  #國際
+
+特朗普談伊朗：談判進展順利。
+
+---
+
+### 2026-06-04 04:13:23  #國際
+
+特朗普：我們一直在嚴厲打擊伊朗。
+
+---
+
+### 2026-06-04 04:13:18  #國際
+
+特朗普：我們對伊朗進行了重擊。
+
+---
+
+### 2026-06-04 04:12:26  #其他
+
+市場資訊：潘興廣場對環球音樂近五年投資（含分紅）預計至少獲利6億美元。
+
+---
+
+### 2026-06-04 04:11:49  #國際
+
+特朗普將簽署有關聯邦僱員改革的命令。
+
+---
+
+### 2026-06-04 04:11:03  #國際
+
+【伊朗稱打擊一艘美艦 美軍否認】伊朗軍方3日深夜發表宣告稱，伊朗海軍剛剛在阿曼灣對一艘美軍驅逐艦發動打擊，針對設於該艦、對伊朗實施敵對行動的指揮控制中心。 美軍中央司令部稍後在社交媒體發文，否認伊方說法，“美國海上軍事力量目前仍在安全、暢通無阻地進行飛行、航行及各項行動。”（新華社）
 
 ---
 
@@ -22439,191 +22721,5 @@ U.S. Secretary of State Rubio said the U.S. is discussing appointing an official
 ### 2026-06-03 03:38:19  #其他
 
 CLIFFWATER 私募信貸基金收到 17% 的贖回請求。
-
----
-
-### 2026-06-03 03:33:27  #其他
-
-市場訊息：Meta 撤回員工追蹤工具部分功能。
-
----
-
-### 2026-06-03 03:32:24  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Ethereum
-
-【U.S. sanctions Iranian cryptocurrency exchanges and associated individuals】On June 2, the U.S. Treasury’s Office of Foreign Assets Control updated its Specially Designated Nationals and Blocked Persons list, adding several Iranian cryptocurrency trading platforms and related individuals.
-
----
-
-### 2026-06-03 03:31:59  #宏觀 #國際
-
-【美國製裁伊朗加密貨幣交易平臺及相關人員】當地時間6月2日，美國財政部海外資產控制辦公室宣佈更新特別指定國民和被封鎖人員名單，將多家伊朗加密貨幣交易平臺及相關個人列入制裁名單。（央視新聞）
-
----
-
-### 2026-06-03 03:29:37  #其他
-
-世衛組織總幹事： “洪迪厄斯”號輪船上暴發的漢坦病毒疫情已過去一個月，無新增死亡病例報告，確診病例穩定在 13 例。目前局勢平穩，全球傳播風險仍處於低位。世衛組織將持續同相關受影響國家政府密切協作，直至全部船員與乘客的隔離期結束。
-
----
-
-### 2026-06-03 03:29:19  #市場 #焦點
-
-比特幣跌破67000美元，日內跌6.22%。
-
----
-
-### 2026-06-03 03:21:49  #國際
-
-市場訊息：以色列空襲黎巴嫩南部納巴泰省多個城鎮。
-
----
-
-### 2026-06-03 03:20:21  #MKT News
-
-【Goldman Sachs CEO Solomon: greed outweighs fear in markets】Goldman Sachs CEO Solomon said equity gains are driven by profit-seeking that outweighs concerns about economic volatility and inflation. He said greed currently far exceeds fear and liquidity is ample. Solomon added that inflationary pressures are real and, if they exceed expectations, he expects the Fed would respond with rate hikes.
-
----
-
-### 2026-06-03 03:20:19  #MKT News
-
-U.S. Secretary of State Rubio says at least five more countries are willing to accept a certain number of Afghan refugees.
-
----
-
-### 2026-06-03 03:19:46  #國際
-
-美國國務卿魯比奧：另有至少五個國家願意接收一定數量的阿富汗難民。
-
----
-
-### 2026-06-03 03:18:23  #MKT News
-
-U.S. Secretary of State Rubio said the Trump administration does not want Afghans who assisted U.S. forces forced to return to Afghanistan.
-
----
-
-### 2026-06-03 03:17:51  #國際
-
-美國國務卿魯比奧： 特朗普政府不希望曾協助美軍的阿富汗人被迫遣返阿富汗。
-
----
-
-### 2026-06-03 03:13:48  #MKT News #Copper #Impact bullish #XAUUSD #DXY
-
-U.S. Treasury posted on its website that the United States has imposed sanctions related to the Democratic Republic of the Congo.
-
----
-
-### 2026-06-03 03:13:15  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Treasury website shows the U.S. announced new Iran-related sanctions.
-
----
-
-### 2026-06-03 03:13:08  #宏觀 #國際
-
-美國財政部：美國出臺針對剛果民主共和國的新一輪制裁。
-
----
-
-### 2026-06-03 03:13:02  #MKT News #Market Themes #AI Revolution
-
-【EU €20 billion AI data‑centre plan hit by delays and funding shortfall】The EU’s €20 billion plan to build five large AI data centres is faltering as delays and funding uncertainty are deterring potential private partners, people familiar with the matter said. A tender process originally slated for May is now expected to start in July, and financing is planned in two tranches scheduled for 2028 and 2030 under a new EU budget still under negotiation. Sources said funding gaps mean at most two of the five centres are likely to receive money before the new budget takes effect in 2028. Unclear demand prospects and uncertainty over subsidy timing are cited as key reasons private investors are hesitating.
-
----
-
-### 2026-06-03 03:12:54  #MKT News
-
-Argentina's foreign minister said the country intends to join the Trans-Pacific Partnership.
-
----
-
-### 2026-06-03 03:12:47  #宏觀 #焦點 #國際
-
-美國財政部：美國出臺新一輪涉伊朗制裁措施。
-
----
-
-### 2026-06-03 03:12:28  #國際
-
-阿根廷外交部長：該國計劃加入跨太平洋夥伴關係協定。
-
----
-
-### 2026-06-03 03:07:51  #MKT News #Important #Star Stocks #NVIDIA #Microsoft #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #MSFT.O
-
-NVIDIA (NVDA.O) will partner with Microsoft (MSFT.O) to develop a unified technology stack for agentic AI.
-
----
-
-### 2026-06-03 03:05:02  #MKT News
-
-CNBC said Israeli Prime Minister Netanyahu will be interviewed by a CNBC reporter at 10:00 a.m. ET on June 3 (22:00 Beijing time).
-
----
-
-### 2026-06-03 03:04:51  #其他
-
-英偉達攜手微軟合作搭建自主智慧體 AI 一體化技術棧。
-
----
-
-### 2026-06-03 03:03:52  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7650元，較週一夜盤收盤漲10點。成交量373.23億美元。
-
----
-
-### 2026-06-03 03:02:09  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 0.37% at 25,853, trading 185 points below the cash index.
-
----
-
-### 2026-06-03 03:01:42  #其他
-
-梅奧診所與微軟達成合作，共同研發前沿醫療人工智慧模型。
-
----
-
-### 2026-06-03 03:00:18  #MKT News
-
-【Israel allocates NIS 1 bln to establish special military courts】On June 2, Israel’s government announced a NIS 1 billion (~$350m) allocation to the Defense Ministry and the Israel Defense Forces (IDF) to establish special military courts to try Palestinian militants involved in the Oct. 7, 2023 attacks.
-
----
-
-### 2026-06-03 03:00:02  #市場
-
-恒指期貨夜盤收跌0.40%，報25844.30點，低水194.02點。
-
----
-
-### 2026-06-03 02:59:55  #國際
-
-【以色列撥款10億新謝克爾以設立特別軍事法庭】當地時間6月2日，以色列政府宣佈，將向國防部和以色列國防軍撥款10億新謝克爾（約合3.5億美元），用於設立特別軍事法庭，審理參與2023年10月7日對以色列發動襲擊的巴勒斯坦武裝人員。以色列議會上月透過相關立法，決定設立專門軍事法庭審理涉案人員。根據政府公佈的預算安排，這筆資金將在2026年至2029年間分階段投入，用於建設軍事法庭、軍事檢察機構及相關指揮設施，並用於聘用審判所需人員、維護設施、升級計算機系統和提供廣播服務等。
-
----
-
-### 2026-06-03 02:59:39  #其他
-
-世界衛生組織：排除數百例誤判後，埃博拉疑似病例降至116例。
-
----
-
-### 2026-06-03 02:59:00  #其他
-
-微軟IQ即日起全面上線GitHub Copilot、微軟Foundry及Copilot Studio。
-
----
-
-### 2026-06-03 02:57:49  #其他
-
-馬斯克：除非親身涉足媒體行業，否則永遠無從獲悉真相。
-
----
-
-### 2026-06-03 02:56:29  #國際
-
-一位共和黨參議員表示，特朗普政府已經放棄了其為司法系統設立的“反工具化基金”。
 
 ---

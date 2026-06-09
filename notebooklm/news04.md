@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-10 02:56:21_
-_本檔包含 3785 則快訊，約 679883 字_
+_更新時間：2026-06-10 03:34:55_
+_本檔包含 3768 則快訊，約 680102 字_
+
+---
+
+### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
+
+Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
+
+---
+
+### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
+
+---
+
+### 2026-06-05 09:27:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share innovative drug sector opened higher; Meinuohua gained over 4%, Hanyu Pharmaceutical rose more than 2%; Hengrui Medicine, Aimeike and Chengdu Xiandao also advanced.
+
+---
+
+### 2026-06-05 09:27:36  #市場
+
+創新藥板塊多股高開，美諾華漲超4%，翰宇藥業漲超2%，恆瑞醫藥、愛美客、成都先導等跟漲。
+
+---
+
+### 2026-06-05 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China's Shanghai Composite Index opened down 12.95 points (-0.32%) at 4,044.83 on Friday, June 5; Shenzhen Composite Index opened down 65.88 points (-0.42%) at 15,595.70; CSI 300 Index opened down 17.78 points (-0.36%) at 4,886.96; ChiNext Index opened down 8.93 points (-0.22%) at 4,079.95; STAR 50 Index opened down 31.53 points (-1.81%) at 1,706.53.
+
+---
+
+### 2026-06-05 09:26:41  #MKT News #XAUUSD #Impact bearish
+
+Spot gold fell back below $4,450/oz, down 0.58% intraday.
+
+---
+
+### 2026-06-05 09:26:38  #公司
+
+【潤澤科技成立兩家科技發展公司】企查查APP顯示，近日，河北潤弘科技發展有限公司、河北潤嘉科技發展有限公司成立，註冊資本均為1000萬元，經營範圍均包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，二者皆由潤澤科技間接全資持股。
+
+---
+
+### 2026-06-05 09:26:32  #市場 #焦點
+
+現貨黃金失守4450美元/盎司，日內跌0.57%。
+
+---
+
+### 2026-06-05 09:26:19  #市場
+
+韓元兌美元貶值1%。
+
+---
+
+### 2026-06-05 09:26:06  #國際
+
+泰國尋求在6月前與美國達成貿易協議，目標關稅為10%。
+
+---
+
+### 2026-06-05 09:25:25  #市場
+
+臺灣加權股價指數下跌3%至44,285.70點。
+
+---
+
+### 2026-06-05 09:25:22  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+A-shares opened lower: Shanghai Composite down 0.32%, Shenzhen Composite down 0.42%, ChiNext down 0.22%.
+
+---
+
+### 2026-06-05 09:25:13  #焦點
+
+三大股指低開，滬指跌0.32％，深成指跌0.42％，創業板跌0.22％。
+
+---
+
+### 2026-06-05 09:24:45  #央行 #中國央行
+
+央行公開市場今日進行2150億元人民幣七天期逆回購操作，今日逆回購到期1,230億。
+
+---
+
+### 2026-06-05 09:24:17  #市場
+
+【港股AI應用股走強 五一視界漲近6%】截至發稿，五一視界(06651.HK)漲5.78%，創夢天地(01119.HK)漲4.41%，速騰聚創(02498.HK)漲1.41%。
+
+---
+
+### 2026-06-05 09:23:32  #MKT News #Important #CNH #Impact bullish
+
+PBOC conducted a CNY215 billion 7-day reverse repo today; bids CNY215 billion, allotment CNY215 billion; rate 1.40%, unchanged.
+
+---
+
+### 2026-06-05 09:23:25  #央行 #其他
+
+央行逆回購今日淨投放920億元人民幣。
+
+---
+
+### 2026-06-05 09:22:48  #央行 #其他
+
+央行進行 2,150 億元 7 天期逆回購操作 操作利率 1.4%。
+
+---
+
+### 2026-06-05 09:22:18  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Indonesia's economic ministry said it is seeking an exemption from U.S. Section 232 tariffs for copper cathode exports produced in Indonesian free ports.
+
+---
+
+### 2026-06-05 09:22:07  #市場 #焦點
+
+菜油連續主力合約日內跌2%，現報10116.00元。
+
+---
+
+### 2026-06-05 09:22:04  #宏觀 #國際
+
+菲律賓將持續出臺定向調控舉措以穩定物價。
+
+---
+
+### 2026-06-05 09:22:03  #MKT News #Market Regions #Greater China #01779.HK #Impact bullish
+
+Tianchen Bio (01779.HK) opened 50.22% higher on its Hong Kong debut. IPO priced at HKD 96.06 per share and was oversubscribed more than 4,700 times. Yesterday’s grey-market trading closed up 57.09%.
+
+---
+
+### 2026-06-05 09:21:41
+
+港股恒指低開跌0.27％，國企指數跌0.1％，科指開跌0.31%，半導體板塊多股開跌。
+
+---
+
+### 2026-06-05 09:21:35  #市場
+
+大金重工上市首日開盤報66.4港元，與發行價66.40港元持平。
+
+---
+
+### 2026-06-05 09:21:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #Hang Seng Tech Index #Hang Seng China Enterprises Index
+
+Hong Kong's Hang Seng Index opened down 67.28 points, or 0.27%, at 25,186.12 on Friday, June 5; the Hang Seng Tech Index opened down 15.43 points, or 0.31%, at 4,959.93; the Hang Seng China Enterprises Index (HSCEI) opened down 8.36 points, or 0.10%, at 8,493.55; the Hang Seng Red Chip Index opened down 25.99 points, or 0.59%, at 4,394.52.
+
+---
+
+### 2026-06-05 09:21:20  #MKT News #Important #Market Themes #Chip Wars #Hang Seng Index #Impact bearish #03986.HK #01347.HK
+
+At the Hong Kong open the Hang Seng fell 0.27% and the Hang Seng TECH fell 0.31%. Semiconductor names led declines: GigaDevice Semiconductor (03986.HK) down 4.13%, Hua Hong Semiconductor (01347.HK) down 3.51%.
+
+---
+
+### 2026-06-05 09:20:33  #MKT News #Important #Commodities #Industrial Metals
+
+LME tin fell 4.00% on the day to $54,831.15/ton.
+
+---
+
+### 2026-06-05 09:19:22  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
+
+MSCI Asia Pacific index fell as much as 2%.
+
+---
+
+### 2026-06-05 09:19:02  #MKT News
+
+Indonesia's Ministry of Trade said the statement followed a Paris meeting between Indonesia's chief negotiator on U.S. tariffs and U.S. Trade Representative Greer to discuss Section 301.
+
+---
+
+### 2026-06-05 09:18:59  #MKT News #Important #Commodities #Industrial Metals
+
+SHFE tin 2607 weakened sharply intraday, extending losses to 4.04% as the contract tested 423,610 yuan/ton; turnover topped 69 bln yuan. Open interest fell by about 1,600 lots intraday, leaving positions slightly lower.
 
 ---
 
@@ -22544,287 +22724,5 @@ Trump said he hopes to obtain Iran's enriched uranium and that the US will acqui
 ### 2026-06-04 04:24:37  #國際
 
 【匈牙利總理稱不支援加快推進烏克蘭入歐談判程序】當地時間3日，匈牙利總理毛焦爾在社交媒體上表示，其政府不支援加快推進烏克蘭加入歐盟的談判程序。毛焦爾稱，匈牙利與烏克蘭已就烏境內的匈牙利少數民族在語言、教育、文化等議題上達成了一項關鍵協議，這有望為批准開啟烏克蘭加入歐盟談判的首個章節鋪平道路。毛焦爾表示，匈牙利仍然不支援加快推進烏克蘭加入歐盟的談判程序，他說，如果烏克蘭能夠在未來10到15年內完成全部33個入盟談判章節，那麼匈牙利將就烏克蘭入歐問題舉行具有法律約束力的全民公投。（央視新聞）
-
----
-
-### 2026-06-04 04:23:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Trump said Iran at one point agreed to let the US recover or remove enriched uranium, but later withdrew that consent.
-
----
-
-### 2026-06-04 04:23:37  #MKT News #Market Themes #The Trump Trade
-
-【LULA: If U.S. Won't Buy, Brazil Will Sell to Others】Brazilian President LULA said on the 3rd he will seek alternative commercial partners to limit the negative effects of U.S. trade policy. Speaking at a ministerial meeting, he said, If the U.S. doesn't want to buy, we'll sell to countries that do, and If they don't want to invest here, we'll find others. He added Brazil is independent and will not kowtow to major powers.
-
----
-
-### 2026-06-04 04:23:33  #國際
-
-特朗普就伊朗濃縮鈾問題表態：我們將在不久後著手取回相關濃縮鈾。
-
----
-
-### 2026-06-04 04:23:15  #國際
-
-美國聯邦航空管理局（FAA）：拉瓜迪亞機場因跑道維護而暫停地面執行。
-
----
-
-### 2026-06-04 04:23:01  #國際
-
-特朗普談及伊朗濃縮鈾問題時表示：我希望能解決這個問題。
-
----
-
-### 2026-06-04 04:22:53  #國際
-
-特朗普：伊朗此前已同意放棄核材料。
-
----
-
-### 2026-06-04 04:22:44  #國際
-
-特朗普：伊朗或有望與美方合作清繳核原料。
-
----
-
-### 2026-06-04 04:22:17  #公司 #國際
-
-【盧拉：美國不買 我們就賣給想買的國家】巴西總統盧拉3日表示，巴西將繼續尋找其他商業合作伙伴，以最大程度減少美國貿易政策帶來的負面影響。 據巴西通訊社報道，盧拉在巴西總統府高原宮舉行的一場部長級會議上作出上述表態。他說：“如果美國不想買，我們就賣給想買的國家。我們不會就此抱怨。如果他們不想在這裡投資，我們就另尋他人。” 盧拉強調，巴西是一個獨立自主的國家，不對大國卑躬屈膝。 盧拉在會上還表示，他決定參加6月在法國舉行的七國集團領導人會議，這原本不在他的計劃之內。 巴西通訊社報道，美國貿易代表辦公室1日提議，除其他措施外，對部分巴西輸美產品徵收25%的關稅。這份報告是特朗普政府一年前啟動一項調查的結果，旨在查明巴西在對美貿易中是否存在美方所謂的“不公平做法”。巴西發展、工業、貿易和服務部說，美國關稅決定會直接威脅巴西對美國市場出口總額的21%。(新華社)
-
----
-
-### 2026-06-04 04:22:02  #國際
-
-【卡達埃米爾與美國總統通電話 討論最新地區局勢】當地時間3日，卡達埃米爾（國家元首）塔米姆與美國總統特朗普通電話，就中東地區最新局勢交換意見。雙方在通話中回顧了中東地區政治和安全形勢的最新發展，以及地區和國際社會為緩和緊張局勢、促進地區穩定所作出的努力。（央視新聞）
-
----
-
-### 2026-06-04 04:21:52  #MKT News #Important
-
-Trump said he had heard Iran was very close to signing an agreement.
-
----
-
-### 2026-06-04 04:20:52  #國際
-
-特朗普：理論上伊朗即將簽署相關檔案。
-
----
-
-### 2026-06-04 04:20:49  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Trump said the US struck Iran the night before last and last night with significant force. He said Iran had been provoked to some degree and that Iran's actions were not serious.
-
----
-
-### 2026-06-04 04:20:27  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Broadcom earnings above expectations at 2.44 USD — Broadcom (AVGO) released earnings per share at 2.44 USD, compared to market expectations of 2.37 USD.
-
----
-
-### 2026-06-04 04:20:11  #市場
-
-【美元指數3日上漲】美元指數3日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.31%，在匯市尾市收於99.529。截至紐約匯市尾市，1歐元兌換1.1598美元，低於前一交易日的1.1628美元；1英鎊兌換1.3416美元，低於前一交易日的1.3469美元。1美元兌換160.03日元，高於前一交易日的159.91日元；1美元兌換0.7924瑞士法郎，高於前一交易日的0.7873瑞士法郎；1美元兌換1.3895加元，高於前一交易日的1.3832加元；1美元兌換9.4065瑞典克朗，高於前一交易日的9.3155瑞典克朗。
-
----
-
-### 2026-06-04 04:19:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Trump said that when dealing with Iran, anything can happen.
-
----
-
-### 2026-06-04 04:19:37  #國際
-
-特朗普：伊朗若簽署協議，將承諾放棄研發核武器。
-
----
-
-### 2026-06-04 04:19:21  #MKT News #Market Themes #The Trump Trade
-
-Trump: I support an 'anti-weaponization fund'.
-
----
-
-### 2026-06-04 04:19:05  #其他
-
-博通二季度AI半導體業務營收108億美元，市場預期106.7億美元。
-
----
-
-### 2026-06-04 04:18:41  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) said it expects third-quarter semiconductor revenue from AI-related products to rise more than 200% YoY to $16.0 bln.
-
----
-
-### 2026-06-04 04:18:32  #國際
-
-特朗普談及伊朗相關事宜：事態或還將持續兩三週。
-
----
-
-### 2026-06-04 04:18:05  #國際
-
-特朗普談及伊朗：並不情願徹底摧毀伊朗。
-
----
-
-### 2026-06-04 04:17:39  #市場 #焦點
-
-博通股價盤後下跌8%，此前釋出第二財季業績。
-
----
-
-### 2026-06-04 04:17:30  #國際
-
-特朗普：和伊朗打交道，什麼事都可能發生。
-
----
-
-### 2026-06-04 04:17:21  #MKT News #Important #WTI #Impact mixed #Brent
-
-Trump: Iran talks may occur over the weekend.
-
----
-
-### 2026-06-04 04:17:20  #MKT News #AVGO.O #Impact bearish
-
-Broadcom (AVGO.O) shares fell more than 4% in U.S. after-hours trading.
-
----
-
-### 2026-06-04 04:17:08  #市場
-
-現貨黃金下跌1%，至每盎司4438.73美元。
-
----
-
-### 2026-06-04 04:16:52  #國際
-
-Meta：Meta、微軟、Coinbase與星鏈聯手美國司法部、泰國皇家警察及全球多家執法機構開展合作。
-
----
-
-### 2026-06-04 04:16:44  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) reported fiscal 2026 second-quarter net income of $9.31 billion, compared with $4.965 billion a year earlier.
-
----
-
-### 2026-06-04 04:16:13  #公司
-
-博通第二季度調整後淨營收221.9億美元，市場預期221.3億美元；公司預計第三季度營收約294億美元，市場預期286.1億美元。
-
----
-
-### 2026-06-04 04:16:13  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) said fiscal Q2 semiconductor revenue from AI was $10.8 billion.
-
----
-
-### 2026-06-04 04:16:04  #MKT News
-
-US President Trump signed an executive order easing dismissal procedures for 8,000 senior federal officials.
-
----
-
-### 2026-06-04 04:15:47  #公司
-
-雅詩蘭黛：公司當前預計，重組計劃及其他相關費用稅前合計為15億至17億美元。
-
----
-
-### 2026-06-04 04:15:47  #MKT News #Important #Market Themes #Chip Wars #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) reported fiscal 2026 second-quarter revenue of $22.187 billion, up from $15.004 billion a year earlier.
-
----
-
-### 2026-06-04 04:15:36  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-CrowdStrike Holdings earnings above expectations at 1.10 USD — CrowdStrike Holdings (CRWD) released earnings per share at 1.10 USD, compared to market expectations of 1.07 USD.
-
----
-
-### 2026-06-04 04:15:34  #其他
-
-好市多：前三十九周淨銷售額為2211.9億美元，同比增長10%。
-
----
-
-### 2026-06-04 04:15:08  #MKT News
-
-Canada said it intends to extend existing tariffs on steel and aluminum products.
-
----
-
-### 2026-06-04 04:15:06  #國際
-
-特朗普就伊朗襲擊科威特機場一事表態：此舉屬於報復行動。
-
----
-
-### 2026-06-04 04:14:10  #MKT News #Important #WTI #Impact bearish #Brent #DXY
-
-Trump says talks with Iran are progressing smoothly.
-
----
-
-### 2026-06-04 04:14:06  #國際
-
-特朗普談及伊朗談判：或於本週末展開磋商。
-
----
-
-### 2026-06-04 04:14:03  #MKT News
-
-The Wall Street Journal reports Bill Ackman's Pershing Square expects at least $600 million in profit from its investment in Universal Pictures.
-
----
-
-### 2026-06-04 04:13:41  #其他
-
-加拿大宣告稱，計劃延長鋼鐵和鋁關稅措施。
-
----
-
-### 2026-06-04 04:13:33  #國際
-
-特朗普談伊朗：談判進展順利。
-
----
-
-### 2026-06-04 04:13:23  #國際
-
-特朗普：我們一直在嚴厲打擊伊朗。
-
----
-
-### 2026-06-04 04:13:18  #國際
-
-特朗普：我們對伊朗進行了重擊。
-
----
-
-### 2026-06-04 04:12:26  #其他
-
-市場資訊：潘興廣場對環球音樂近五年投資（含分紅）預計至少獲利6億美元。
-
----
-
-### 2026-06-04 04:11:49  #國際
-
-特朗普將簽署有關聯邦僱員改革的命令。
-
----
-
-### 2026-06-04 04:11:03  #國際
-
-【伊朗稱打擊一艘美艦 美軍否認】伊朗軍方3日深夜發表宣告稱，伊朗海軍剛剛在阿曼灣對一艘美軍驅逐艦發動打擊，針對設於該艦、對伊朗實施敵對行動的指揮控制中心。 美軍中央司令部稍後在社交媒體發文，否認伊方說法，“美國海上軍事力量目前仍在安全、暢通無阻地進行飛行、航行及各項行動。”（新華社）
 
 ---

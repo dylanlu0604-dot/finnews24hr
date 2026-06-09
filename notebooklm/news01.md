@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-10 02:56:21_
-_本檔包含 3748 則快訊，約 679852 字_
+_更新時間：2026-06-10 03:34:55_
+_本檔包含 3762 則快訊，約 680191 字_
+
+---
+
+### 2026-06-10 03:31:34  #公司
+
+加拿大森沃斯能源（Cenovus）執行長表示，在當前監管框架下，阿爾伯塔省擬議的通往西海岸的輸油管道無法透過私營部門獲得融資。
+
+---
+
+### 2026-06-10 03:30:43  #MKT News
+
+【International oil prices fall sharply on 9th】At the close on the 9th, NYMEX July WTI futures fell $3.10 to $88.20/bbl, down 3.4%; ICE August Brent futures fell $2.80 to $91.45/bbl, down 2.97%.
+
+---
+
+### 2026-06-10 03:29:42  #國際
+
+安全訊息人士稱，伊拉克埃爾比勒東北部的伊朗庫爾德反對派營地遭三次無人機襲擊。
+
+---
+
+### 2026-06-10 03:29:34  #MKT News
+
+Security sources said three drones attacked an Iranian Kurdish opposition camp northeast of Erbil, Iraq.
+
+---
+
+### 2026-06-10 03:28:49  #市場
+
+【國際油價9日顯著下跌】國際油價9日顯著下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌3.10美元，收於每桶88.20美元，跌幅為3.4%；8月交貨的倫敦布倫特原油期貨價格下跌2.80美元，收於每桶91.45美元，跌幅為2.97%。
+
+---
+
+### 2026-06-10 03:26:30  #宏觀
+
+英國財政部依舊反對加快提高國防開支的提議，該國擱置已久的軍事投資計劃即將於數日後公佈。
+
+---
+
+### 2026-06-10 03:26:05  #國際
+
+航班追蹤網站Flightradar24資料顯示，目前中東上空至少有8架美國空軍KC-135R同溫層加油機與KC-46A飛馬加油機。這些空中加油機大機率配有戰鬥機和攻擊機護航，正活動於以色列、約旦、沙烏地阿拉伯、波斯灣及阿曼灣上空。
+
+---
+
+### 2026-06-10 03:23:50  #MKT News #XAUUSD #Impact bullish #EURUSD #USDJPY #Impact mixed
+
+【Dollar index falls 0.13% to 99.909 on the 9th】The dollar index, measuring the USD against six major currencies, fell 0.13% to 99.909 at the New York close on the 9th. At the NY FX close: EUR/USD 1.1550, up from 1.1528; GBP/USD 1.3388, up from 1.3339; USD/JPY 160.36, up from 160.26; USD/CHF 0.7979, unchanged; USD/CAD 1.3952, down from 1.3956; USD/SEK 9.4603, up from 9.4401.
+
+---
+
+### 2026-06-10 03:23:23  #其他
+
+【汽車遠洋運輸需求增長 帶動運輸船造船市場火熱】今年前5個月，我國汽車出口的貨量和貨值同比增長均超過四成。汽車出口持續繁榮，也帶動了汽車遠洋運輸需求的增長，這使得汽車運輸船造船市場格外火爆。據統計，今年前5個月，經廣州南沙汽車碼頭出口汽車約19.2萬輛，同比增長約二成，其中新能源汽車約9.4萬輛，同比增長超過八成。距離南沙汽車碼頭十幾分鍾車程的一家造船廠裡，工人們正在建造一艘大型汽車運輸船。單艘運輸船的運輸量就超過了一萬輛車。
+
+---
+
+### 2026-06-10 03:23:03  #公司 #國際
+
+日本飛行汽車初創公司SkyDrive計劃2028年正式推出飛行汽車。
+
+---
+
+### 2026-06-10 03:22:09  #觀點 #國際
+
+高盛表示，西方核電行業發展放緩，俄羅斯則加快相關建設步伐。
+
+---
+
+### 2026-06-10 03:21:40  #市場
+
+【美元指數9日下跌】美元指數9日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.13%，在匯市尾市收於99.909。截至紐約匯市尾市，1歐元兌換1.1550美元，高於前一交易日的1.1528美元；1英鎊兌換1.3388美元，高於前一交易日的1.3339美元。1美元兌換160.36日元，高於前一交易日的160.26日元；1美元兌換0.7979瑞士法郎，與前一交易日持平；1美元兌換1.3952加元，低於前一交易日的1.3956加元；1美元兌換9.4603瑞典克朗，高於前一交易日的9.4401瑞典克朗。
+
+---
+
+### 2026-06-10 03:19:11  #公司 #國際
+
+【特朗普：美國可能會出資幫助伊朗重建基礎設施】美國廣播公司新聞援引對美國總統的採訪報道稱，特朗普表示，如果美國摧毀伊朗的基礎設施，美國可能會出資幫助其重建。“總得有人去修建所有這些基礎設施，新建橋樑、新建各類設施、新建發電廠，”特朗普說，“這需要一萬億美元，可能更多。你們明白，這就是我們可能會參與重建的原因，對吧，幫助他們重建。”當被問及這是否會是針對伊朗的馬歇爾計劃時，特朗普回應“是的”，並補充道：“但我們會拿走他們一半的石油。”
+
+---
+
+### 2026-06-10 03:18:01  #國際
+
+【伊朗並未向美國提交任何新方案】伊朗談判團隊相關知情人士向法爾斯通訊社表示，伊朗並未向美國提交任何新方案。今日天空新聞報道稱，伊朗已向美方遞交新版和平方案草案，有初步訊息顯示美方認為該方案可以接受。此前阿拉伯電視臺曾報道，伊朗同意將濃縮鈾轉移至第三國，該說法同樣遭到伊朗方面否認。
+
+---
+
+### 2026-06-10 03:16:11  #Trading Economics #Economy #Argentina #Industrial Production #Importance 1
+
+Argentina Industrial Output Falls in April — Argentina's industrial production fell 2.8% year-on-year in April 2026, reversing a 5% increase in the previous month. Twelve of the 16 manufacturing sectors posted annual declines. The largest drags came from machinery and equipment (-20.2%), textiles (-22.2%), apparel, leather and footwear (-15.9%), basic metals (-11.2%), motor vehicles and auto parts (-10.7%), and food and beverages (-2.4%). Smaller declines were recorded in other equipment and instruments (-11.4%), non-metallic minerals (-6.4%), rubber and plastics (-5.1%), furniture and other manufacturing (-5.1%), metal products (-1.4%), and other transport equipment (-2.1%). Partly offsetting the weakness, output rose in chemicals (16.7%), petroleum refining (5.6%), tobacco products (6.5%), and wood, paper and printing (4.1%).
+
+---
+
+### 2026-06-10 03:15:42  #MKT News #Important
+
+Fars News, citing informed sources, said Iran has not yet submitted a new proposal to the US.
+
+---
+
+### 2026-06-10 03:14:10  #國際
+
+伊朗法爾斯通訊社否認天空新聞有關伊朗向美國提出新方案的報道。
+
+---
+
+### 2026-06-10 03:12:58  #國際
+
+加拿大總理卡尼：遭特朗普威脅的連線美國密歇根州與加拿大安大略省的戈迪・豪跨國大橋即將通車。
+
+---
+
+### 2026-06-10 03:11:02  #其他
+
+加拿大航空首架空客A321XLR投入商業運營。
+
+---
+
+### 2026-06-10 03:09:35  #MKT News #V.N #Impact bearish #MA.N
+
+U.S. judge preliminarily approved a $38 billion settlement between Visa (V.N) and Mastercard (MA.N) and merchants over interchange (swipe) fees.
+
+---
+
+### 2026-06-10 03:09:02  #焦點 #國際
+
+美國法官初步批准Visa和萬事達卡與商戶達成的380億美元刷卡費和解協議。
+
+---
+
+### 2026-06-10 03:08:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures night session closed down 0.74% at 24,441, trading 125 points below the cash index.
+
+---
+
+### 2026-06-10 03:06:53  #國際
+
+美國眾議院推進700億美元移民執法相關法案。
+
+---
+
+### 2026-06-10 03:06:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran official Rezaei says armed forces ready to respond to any aggression】On the 9th, Rezaei, spokesman for the Iranian parliament's National Security and Foreign Policy Committee, said Iran's armed forces have repaired damage, reached peak combat and defensive readiness, and are prepared to respond at the highest level to any aggression.
+
+---
+
+### 2026-06-10 03:06:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign minister reiterates Strait of Hormuz is not international waters】Iran's foreign minister Araghchi reiterated Tehran's position that the Strait of Hormuz is not international waters but falls within the joint territorial seas of Iran and Oman. He said the strait's narrowest point is 21 nautical miles (about 39 km) and that, from a legal standpoint, Iran and Oman therefore have the right to regulate passage through the strait.
+
+---
+
+### 2026-06-10 03:05:20  #其他
+
+Meta稱將利用第三方使用者資料進行個性化內容推送和AI應答，並調整使用者控制選項。
+
+---
+
+### 2026-06-10 03:03:31  #其他
+
+【超160艘油輪滯留波斯灣 海事組織警告勿涉險闖關】據英國方面9日訊息，自2月底地區衝突爆發以來，仍有超160艘主流油輪滯留波斯灣水域，時間已超100天。國際海事組織秘書長多明格斯當天警告，不能為了商業利益讓海員冒險透過霍爾木茲海峽。據悉，儘管戰事初期位於波斯灣的約四分之一油輪已陸續駛離，但近期駛離進度明顯放緩。霍爾木茲海峽附近區域安全風險仍居高不下，多數船東繼續保持高度謹慎態度，不願貿然安排船舶透過相關海域。
+
+---
+
+### 2026-06-10 03:03:17  #國際
+
+伊朗外交部發言人：美國在科威特機場策劃無人機假旗襲擊，意在兜售反無人機系統。
+
+---
+
+### 2026-06-10 03:02:00  #國際
+
+美國國家航空航天局選定美意宇航員執行阿爾忒彌斯三號任務。
+
+---
+
+### 2026-06-10 03:01:44  #國際
+
+【伊朗議會官員：武裝部隊已做好應對任何侵略的準備】當地時間9日，伊朗議會國家安全與外交政策委員會發言人雷扎伊表示，伊朗武裝部隊已達到最高戰鬥和防禦準備狀態，受損情況已得到修復。他還稱，伊朗武裝部隊已做好以最高階別應對任何侵略的準備。（央視新聞）
+
+---
+
+### 2026-06-10 03:01:14  #MKT News
+
+Argentina's INDEC reported industrial production declined 2.8% YoY in April.
+
+---
+
+### 2026-06-10 03:00:50  #其他
+
+阿根廷國家統計局公佈，4月工業產出同比下降2.8%。
+
+---
+
+### 2026-06-10 03:00:03  #市場
+
+恒指期貨夜盤收跌0.84%，報24416.00點，低水149.90點。
+
+---
+
+### 2026-06-10 02:56:44  #國際
+
+美國最大電網運營商PJM針對其大西洋中部及南部服務區釋出了6月11日至12日的高溫天氣預警。
+
+---
+
+### 2026-06-10 02:56:27  #MKT News
+
+PJM, the largest U.S. grid operator, issued heat alerts for its Mid-Atlantic and Southern service areas for June 11-12.
 
 ---
 
@@ -22442,131 +22652,5 @@ Night-session open: China’s main futures contracts mixed. Caustic soda down >2
 ### 2026-06-08 20:57:26  #Trading Economics #Markets #Commodity #Importance 1
 
 Gold Remains Close to Over Two-Month Low — Gold trimmed earlier losses to trade at $4,330 an ounce on Monday, after hitting its lowest since March 23 but remaining near its weakest close since late last year, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report heightened inflation concerns, boosting expectations of a Federal Reserve rate hike. Markets now price a 70% chance of a December hike, up from 45% a week ago, per the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
-
----
-
-### 2026-06-08 20:57:15  #公司
-
-【強達電路：公司已有量子技術相關PCB產品的樣板試製】強達電路(301628)6月8日在互動平臺表示，量子技術相關PCB屬於高階印製電路板領域，契合公司在高階PCB及前沿應用領域的研釋出局。公司依託在高頻高速板等方面的核心技術積累，針對量子技術應用場景對PCB的低損耗、高穩定性、耐極端環境等效能要求，開展了相關技術研究和工藝開發工作。目前，公司已有量子技術相關PCB產品的樣板試製，後續將持續跟進量子技術產業發展節奏，結合市場需求和技術成熟度推進產品最佳化及產業化佈局。
-
----
-
-### 2026-06-08 20:57:03  #其他
-
-【微信灰測朋友圈搜尋功能】據悉，微信面向部分iOS和安卓使用者灰度測試朋友圈搜尋功能。騰訊客服告訴記者，微信在輕觸“我”->“朋友圈”頁面後，右上角的“放大鏡”圖示已升級為“我的朋友圈搜尋”入口，可透過該入口輸入關鍵詞實時搜尋歷史朋友圈內容。
-
----
-
-### 2026-06-08 20:56:26  #市場 #國際
-
-【以色列和伊朗被敦促停火之際原油漲幅收窄】原油期貨從高位回落，此前美國總統特朗普敦促以色列和伊朗停止打擊，且伊朗表示已結束對以色列的報復性襲擊。伊朗和以色列之間重新爆發的戰鬥導致油價隔夜飆升，因為人們擔心這可能會破壞結束中東衝突的努力。特朗普發帖稱，和平談判正在進行中，並表示對霍爾木茲海峽的封鎖將繼續有效，直到達成“最終協議“。西得州中質油上漲1.4%，至每桶91.78美元；布倫特原油上漲1.8%，至94.73美元。
-
----
-
-### 2026-06-08 20:55:10  #其他
-
-非洲疾控中心：計劃與合作伙伴共同籌集5.18億美元，支援非洲國家做好埃博拉疫情的準備、快速檢測與應對工作。
-
----
-
-### 2026-06-08 20:54:17  #其他
-
-非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。
-
----
-
-### 2026-06-08 20:53:16  #觀點
-
-摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。
-
----
-
-### 2026-06-08 20:52:59  #Trading Economics #Economy #Chile #Inflation Rate #Importance 1
-
-Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services.
-
----
-
-### 2026-06-08 20:52:50  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Pare Losses — The DAX 40 pared early losses to trade slightly down around 24,670 on Monday, the lowest since May 21, as traders closely monitored developments in the Middle East. Iran announced the end of its military operation against Israel after a day of retaliatory strikes between the two countries, while warning it could resume operations if Israel continues actions in Lebanon. This helped curb the increase in oil prices.
-
----
-
-### 2026-06-08 20:52:46  #公司 #焦點
-
-【*ST元道：公司股票可能被實施重大違法強制退市】*ST元道公告稱，公司於2025年7月11日因涉嫌年報等資訊披露檔案財務資料存在虛假記載等違法行為被中國證監會立案。2026年5月8日，公司收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。公司尚未收到正式處罰決定，最終結果以正式處罰決定為準。如觸及相關情形，公司股票將被終止上市，提醒投資者注意風險。
-
----
-
-### 2026-06-08 20:52:36  #公司 #市場
-
-【*ST嶺南：股價異常波動 多項風險待解】*ST嶺南公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司、實控人及相關股東、董高在異常波動期間未買賣股票，不存在應披露未披露重大事項。公司股票因多項問題被實施退市及其他風險警示，包括業績不佳、內控審計否定、財務報告無法表示意見、主要銀行賬戶凍結等。此外，公司及相關當事人擬被行政處罰，原實控人尚有1.49億元佔用資金未歸還，且有多筆債務逾期。
-
----
-
-### 2026-06-08 20:52:22  #公司
-
-【中銳股份：1元轉讓重慶華宇99.5%股權 最佳化資產結構】中銳股份公告稱，公司與上海全昂簽署《股權轉讓協議》，以1元轉讓重慶華宇99.5%股權。上海全昂為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。重慶華宇長期虧損，2025年淨利潤-2.08億元。本次交易完成後，公司不再持有其股權，也不再納入合併報表範圍，可減輕經營和財務負擔，聚焦優勢業務。該交易尚需公司股東會批准。
-
----
-
-### 2026-06-08 20:52:17  #公司
-
-【深桑達A：擬對子公司中國電子雲增資不超10億元】深桑達A(000032.SZ)公告稱，公司控股子公司中電雲端計算技術有限公司擬增資不超過10億元，其中公司以自有資金增資1億元，關聯方中電金投增資1億元，其餘由外部戰略投資人增資。
-
----
-
-### 2026-06-08 20:52:06  #公司
-
-【山東中銳：擬轉讓重慶華宇園林股權 股東權益評估值為-1.93億元】山東中銳產業發展股份有限公司公告稱，擬轉讓重慶華宇園林有限公司股權，北京中天華對其股東全部權益價值進行評估。評估基準日為2025年（日期缺失），採用資產基礎法評估。重慶華宇園林總資產賬面值4.92億元，評估值5.07億元，增值率3.23%；總負債評估值7.00億元，無增減值；淨資產賬面值-2.09億元，評估值-1.93億元，增值率7.59%。評估結論有效期至2026年（日期缺失）。
-
----
-
-### 2026-06-08 20:51:53  #國際
-
-美國雞蛋價格跌至十年低位，在食品通脹持續數年後，為消費者帶來難得的緩解。
-
----
-
-### 2026-06-08 20:51:47  #公司
-
-【天汽模：擬發行股份及支付現金收購東實股份60%股權，交易對價18.3億元】天汽模公告，公司擬透過發行股份及支付現金方式購買德盛拾陸號企業管理（天津）合夥企業（有限合夥）持有的東實汽車科技集團股份有限公司60.00%股份，交易對價18.3億元，其中發行股份支付7.32億元，現金支付10.98億元。同時，公司擬向控股股東新疆建發梵宇產業投資基金合夥企業（有限合夥）發行股份募集配套資金不超過7.32億元，用於支付現金對價。本次交易構成關聯交易，不構成重組上市。標的資產採用收益法評估，100%股權評估值30.51億元，增值率10.51%。本次交易尚需經股東會審議、國資批准、反壟斷審查、深交所稽核及證監會註冊等程式。
-
----
-
-### 2026-06-08 20:51:28  #MKT News #WTI #Impact bullish #Brent
-
-【Sources: Russia plans to cut June crude exports】Market sources said Russia plans to cut crude exports in June to divert barrels to higher refinery runs amid seasonal fuel demand and reported regional shortages. Preliminary data show shipments from western ports Primorsk, Ust-Luga and Novorossiysk could fall from 2.5 mln b/d in May to about 1.7 mln b/d in June; sources said part of the reduction reflects lower crude output. Deputy Prime Minister Novak has said Russian oil output has fallen since the start of the year due to unplanned refinery maintenance. Sources estimate refiners will seek to lift crude processing by 250–400 kb/d in June, but restoring crude output will take considerable time.
-
----
-
-### 2026-06-08 20:51:27  #國際
-
-【訊息人士：俄羅斯計劃削減6月石油出口量】市場訊息人士稱，鑑於燃料短缺的陰雲籠罩，俄羅斯計劃在6月提高煉油廠開工率，因此將減少原油出口。訊息人士提供的初步資料顯示，俄羅斯西部港口普里莫爾斯克、烏斯季盧加和新羅西斯克的原油裝船量可能從5月份的250萬桶/日降至6月份的170萬桶/日。訊息人士稱，這一下降部分可能是由於原油產量水平下降所致。俄羅斯副總理諾瓦克此前表示，自今年年初以來，俄羅斯石油產量有所下降，並將此歸咎於煉油廠的計劃外檢修。訊息人士稱，隨著檢修工作的完成，在季節性燃料需求增長以及部分地區報告供應短缺的背景下，俄羅斯煉油廠將能夠提高加工量，但產量下降意味著必須從出口中調撥額外的原料用於加工。他們估計，俄羅斯將在6月尋求將原油加工量增加25萬至40萬桶/日，而恢復原油產量則需要相當長的時間。
-
----
-
-### 2026-06-08 20:51:22  #國際
-
-市場訊息：烏克蘭最高法院判處前最高法院院長五年監禁。
-
----
-
-### 2026-06-08 20:50:42  #公司
-
-【太陽紙業：推出2026年限制性股票激勵計劃】6月8日，太陽紙業(002078)披露2026年限制性股票激勵計劃。公司擬定向發行A股普通股，向合計1489名激勵物件授予6300萬股第一類限制性股票，佔當前公司總股本的2.25%，首次授予價格為6.79元/股。本次激勵計劃有效期最長不超過60個月，將分三期解鎖，考核週期覆蓋2026至2028年。
-
----
-
-### 2026-06-08 20:48:29  #公司
-
-天娛數科：公司關注到近期有部分媒體對公司業務相關討論涉及“物理AI”概念，截至目前，公司沒有物理AI業務，未形成相關業務收入。
-
----
-
-### 2026-06-08 20:48:16  #其他
-
-英國電信加入Anthropic的“玻璃翼”計劃。
 
 ---

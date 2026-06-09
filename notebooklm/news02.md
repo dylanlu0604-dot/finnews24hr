@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-10 02:56:21_
-_本檔包含 3832 則快訊，約 679932 字_
+_更新時間：2026-06-10 03:34:55_
+_本檔包含 3837 則快訊，約 680100 字_
+
+---
+
+### 2026-06-08 20:57:15  #公司
+
+【強達電路：公司已有量子技術相關PCB產品的樣板試製】強達電路(301628)6月8日在互動平臺表示，量子技術相關PCB屬於高階印製電路板領域，契合公司在高階PCB及前沿應用領域的研釋出局。公司依託在高頻高速板等方面的核心技術積累，針對量子技術應用場景對PCB的低損耗、高穩定性、耐極端環境等效能要求，開展了相關技術研究和工藝開發工作。目前，公司已有量子技術相關PCB產品的樣板試製，後續將持續跟進量子技術產業發展節奏，結合市場需求和技術成熟度推進產品最佳化及產業化佈局。
+
+---
+
+### 2026-06-08 20:57:03  #其他
+
+【微信灰測朋友圈搜尋功能】據悉，微信面向部分iOS和安卓使用者灰度測試朋友圈搜尋功能。騰訊客服告訴記者，微信在輕觸“我”->“朋友圈”頁面後，右上角的“放大鏡”圖示已升級為“我的朋友圈搜尋”入口，可透過該入口輸入關鍵詞實時搜尋歷史朋友圈內容。
+
+---
+
+### 2026-06-08 20:56:26  #市場 #國際
+
+【以色列和伊朗被敦促停火之際原油漲幅收窄】原油期貨從高位回落，此前美國總統特朗普敦促以色列和伊朗停止打擊，且伊朗表示已結束對以色列的報復性襲擊。伊朗和以色列之間重新爆發的戰鬥導致油價隔夜飆升，因為人們擔心這可能會破壞結束中東衝突的努力。特朗普發帖稱，和平談判正在進行中，並表示對霍爾木茲海峽的封鎖將繼續有效，直到達成“最終協議“。西得州中質油上漲1.4%，至每桶91.78美元；布倫特原油上漲1.8%，至94.73美元。
+
+---
+
+### 2026-06-08 20:55:10  #其他
+
+非洲疾控中心：計劃與合作伙伴共同籌集5.18億美元，支援非洲國家做好埃博拉疫情的準備、快速檢測與應對工作。
+
+---
+
+### 2026-06-08 20:54:17  #其他
+
+非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。
+
+---
+
+### 2026-06-08 20:53:16  #觀點
+
+摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。
+
+---
+
+### 2026-06-08 20:52:59  #Trading Economics #Economy #Chile #Inflation Rate #Importance 1
+
+Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services.
+
+---
+
+### 2026-06-08 20:52:50  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Pare Losses — The DAX 40 pared early losses to trade slightly down around 24,670 on Monday, the lowest since May 21, as traders closely monitored developments in the Middle East. Iran announced the end of its military operation against Israel after a day of retaliatory strikes between the two countries, while warning it could resume operations if Israel continues actions in Lebanon. This helped curb the increase in oil prices.
+
+---
+
+### 2026-06-08 20:52:46  #公司 #焦點
+
+【*ST元道：公司股票可能被實施重大違法強制退市】*ST元道公告稱，公司於2025年7月11日因涉嫌年報等資訊披露檔案財務資料存在虛假記載等違法行為被中國證監會立案。2026年5月8日，公司收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。公司尚未收到正式處罰決定，最終結果以正式處罰決定為準。如觸及相關情形，公司股票將被終止上市，提醒投資者注意風險。
+
+---
+
+### 2026-06-08 20:52:36  #公司 #市場
+
+【*ST嶺南：股價異常波動 多項風險待解】*ST嶺南公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司、實控人及相關股東、董高在異常波動期間未買賣股票，不存在應披露未披露重大事項。公司股票因多項問題被實施退市及其他風險警示，包括業績不佳、內控審計否定、財務報告無法表示意見、主要銀行賬戶凍結等。此外，公司及相關當事人擬被行政處罰，原實控人尚有1.49億元佔用資金未歸還，且有多筆債務逾期。
+
+---
+
+### 2026-06-08 20:52:22  #公司
+
+【中銳股份：1元轉讓重慶華宇99.5%股權 最佳化資產結構】中銳股份公告稱，公司與上海全昂簽署《股權轉讓協議》，以1元轉讓重慶華宇99.5%股權。上海全昂為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。重慶華宇長期虧損，2025年淨利潤-2.08億元。本次交易完成後，公司不再持有其股權，也不再納入合併報表範圍，可減輕經營和財務負擔，聚焦優勢業務。該交易尚需公司股東會批准。
+
+---
+
+### 2026-06-08 20:52:17  #公司
+
+【深桑達A：擬對子公司中國電子雲增資不超10億元】深桑達A(000032.SZ)公告稱，公司控股子公司中電雲端計算技術有限公司擬增資不超過10億元，其中公司以自有資金增資1億元，關聯方中電金投增資1億元，其餘由外部戰略投資人增資。
+
+---
+
+### 2026-06-08 20:52:06  #公司
+
+【山東中銳：擬轉讓重慶華宇園林股權 股東權益評估值為-1.93億元】山東中銳產業發展股份有限公司公告稱，擬轉讓重慶華宇園林有限公司股權，北京中天華對其股東全部權益價值進行評估。評估基準日為2025年（日期缺失），採用資產基礎法評估。重慶華宇園林總資產賬面值4.92億元，評估值5.07億元，增值率3.23%；總負債評估值7.00億元，無增減值；淨資產賬面值-2.09億元，評估值-1.93億元，增值率7.59%。評估結論有效期至2026年（日期缺失）。
+
+---
+
+### 2026-06-08 20:51:53  #國際
+
+美國雞蛋價格跌至十年低位，在食品通脹持續數年後，為消費者帶來難得的緩解。
+
+---
+
+### 2026-06-08 20:51:47  #公司
+
+【天汽模：擬發行股份及支付現金收購東實股份60%股權，交易對價18.3億元】天汽模公告，公司擬透過發行股份及支付現金方式購買德盛拾陸號企業管理（天津）合夥企業（有限合夥）持有的東實汽車科技集團股份有限公司60.00%股份，交易對價18.3億元，其中發行股份支付7.32億元，現金支付10.98億元。同時，公司擬向控股股東新疆建發梵宇產業投資基金合夥企業（有限合夥）發行股份募集配套資金不超過7.32億元，用於支付現金對價。本次交易構成關聯交易，不構成重組上市。標的資產採用收益法評估，100%股權評估值30.51億元，增值率10.51%。本次交易尚需經股東會審議、國資批准、反壟斷審查、深交所稽核及證監會註冊等程式。
+
+---
+
+### 2026-06-08 20:51:28  #MKT News #WTI #Impact bullish #Brent
+
+【Sources: Russia plans to cut June crude exports】Market sources said Russia plans to cut crude exports in June to divert barrels to higher refinery runs amid seasonal fuel demand and reported regional shortages. Preliminary data show shipments from western ports Primorsk, Ust-Luga and Novorossiysk could fall from 2.5 mln b/d in May to about 1.7 mln b/d in June; sources said part of the reduction reflects lower crude output. Deputy Prime Minister Novak has said Russian oil output has fallen since the start of the year due to unplanned refinery maintenance. Sources estimate refiners will seek to lift crude processing by 250–400 kb/d in June, but restoring crude output will take considerable time.
+
+---
+
+### 2026-06-08 20:51:27  #國際
+
+【訊息人士：俄羅斯計劃削減6月石油出口量】市場訊息人士稱，鑑於燃料短缺的陰雲籠罩，俄羅斯計劃在6月提高煉油廠開工率，因此將減少原油出口。訊息人士提供的初步資料顯示，俄羅斯西部港口普里莫爾斯克、烏斯季盧加和新羅西斯克的原油裝船量可能從5月份的250萬桶/日降至6月份的170萬桶/日。訊息人士稱，這一下降部分可能是由於原油產量水平下降所致。俄羅斯副總理諾瓦克此前表示，自今年年初以來，俄羅斯石油產量有所下降，並將此歸咎於煉油廠的計劃外檢修。訊息人士稱，隨著檢修工作的完成，在季節性燃料需求增長以及部分地區報告供應短缺的背景下，俄羅斯煉油廠將能夠提高加工量，但產量下降意味著必須從出口中調撥額外的原料用於加工。他們估計，俄羅斯將在6月尋求將原油加工量增加25萬至40萬桶/日，而恢復原油產量則需要相當長的時間。
+
+---
+
+### 2026-06-08 20:51:22  #國際
+
+市場訊息：烏克蘭最高法院判處前最高法院院長五年監禁。
+
+---
+
+### 2026-06-08 20:50:42  #公司
+
+【太陽紙業：推出2026年限制性股票激勵計劃】6月8日，太陽紙業(002078)披露2026年限制性股票激勵計劃。公司擬定向發行A股普通股，向合計1489名激勵物件授予6300萬股第一類限制性股票，佔當前公司總股本的2.25%，首次授予價格為6.79元/股。本次激勵計劃有效期最長不超過60個月，將分三期解鎖，考核週期覆蓋2026至2028年。
+
+---
+
+### 2026-06-08 20:48:29  #公司
+
+天娛數科：公司關注到近期有部分媒體對公司業務相關討論涉及“物理AI”概念，截至目前，公司沒有物理AI業務，未形成相關業務收入。
+
+---
+
+### 2026-06-08 20:48:16  #其他
+
+英國電信加入Anthropic的“玻璃翼”計劃。
 
 ---
 
@@ -22987,101 +23113,5 @@ NHC says Amanda has weakened to a tropical depression.
 ### 2026-06-07 04:03:26  #央行 #國際
 
 【歐洲央行領跑G7鷹派陣營 加息箭在弦上】歐元區即將迎來加息，歐洲央行由此成為伊朗戰爭引發全球緊縮浪潮的先鋒。市場預計該行下週四將加息25個基點，這將是當前最引人注目的政策動作 —— 發達經濟體中，此前僅澳大利亞、挪威等小型央行採取過類似舉措。美國總統特朗普對伊朗發動軍事打擊，引發能源價格劇烈震盪。歐洲央行此舉旨在遏制2023年以來最高通脹率固化風險。
-
----
-
-### 2026-06-07 04:03:06  #MKT News #WTI #Impact bearish #Brent
-
-【Pakistan interior minister arrives in Tehran to mediate Iran–US tensions】Pakistan Interior Minister Naqvi arrived in Tehran on the 6th and is expected to hold talks with Iranian officials. The visit is aimed at mediating and easing tensions between Iran and the United States; Naqvi is scheduled to meet Foreign Minister Abbas Araghchi on the 7th.
-
----
-
-### 2026-06-07 04:02:17  #MKT News #Market Regions #Emerging Markets
-
-【Iran, Pakistan interior ministers meet; agree to raise annual trade target to $10bln】On the evening of the 6th local time, Iranian Interior Minister Momeni met visiting Pakistani Interior Minister Nakevi. Momeni said the visit will focus on bilateral issues including border security, counternarcotics and counterterrorism, and that both sides agreed to raise annual bilateral trade from $3bln to $10bln. Momeni said Iran welcomes Pakistan’s positive role in easing Iran‑US tensions. Nakevi said Iran and Pakistan have brotherly ties and delivered a special letter to Iran’s Supreme Leader from Pakistan’s army chief Munir and Prime Minister Sharif; he added, I consider this message very important. I hope everything goes smoothly and the crisis ends soon.
-
----
-
-### 2026-06-07 04:02:14  #國際
-
-【俄國防部稱13小時內攔截並擊落300多架烏無人機】俄羅斯國防部6日晚間通報稱，當地時間7時至20時，俄防空系統在別爾哥羅德州、布良斯克州和莫斯科州等多個地區攔截並擊落339架烏克蘭無人機。（新華社）
-
----
-
-### 2026-06-07 03:59:50  #國際
-
-【伊朗與巴基斯坦兩國內政部長會面 討論地區局勢等問題】當地時間6日晚，伊朗內政部長莫梅尼會見了到訪的巴基斯坦內政部長納克維。莫梅尼表示，巴基斯坦內政部長此次訪問的部分內容將聚焦雙邊問題，包括邊境安全、禁毒和反恐。此外，雙方在經濟領域決定將兩國間的年度貿易額從30億美元提高到100億美元。莫梅尼稱，伊朗讚賞巴基斯坦在緩和伊朗與美國緊張關係方面發揮的積極作用。納克維表示，伊朗和巴基斯坦有著兄弟般的關係，希望在巴基斯坦官員的努力下，地區危機能夠儘快結束。本次訪問是為了向伊朗最高領袖穆傑塔巴遞交巴基斯坦陸軍參謀長穆尼爾和總理謝里夫關於當前局勢的特別信函。納克維提到，“我認為這條資訊非常重要。希望一切順利，危機早日結束。”（央視新聞）
-
----
-
-### 2026-06-07 03:57:26  #國際
-
-以色列通報北部地區發現敵方飛行器入侵。
-
----
-
-### 2026-06-07 03:56:58  #國際
-
-【伊朗已故最高領袖的前顧問：伊朗絕不會放棄核計劃】伊朗已故最高領袖前顧問穆罕默德・賈瓦德・拉里賈尼表示，伊朗無需巴基斯坦出面斡旋伊美關係，伊朗議會議長卡利巴夫此次前往伊斯蘭堡是一次代價慘重的失誤。拉里賈尼稱：“巴基斯坦總理為人友善，但我們並不需要他從中撮合伊美談判，他應當認清斡旋的邊界。倘若伊朗有意與美方對話，我們會自行推進，無需第三方調停。”現任伊朗基礎科學研究院院長的拉里賈尼還表示，民眾大可放心，伊朗絕不會放棄本國核計劃。
-
----
-
-### 2026-06-07 03:52:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【IDF says two soldiers killed during operations in southern Lebanon】The Israel Defense Forces said on the 6th that two soldiers recently died while operating in southern Lebanon. A captain wounded in a Hezbollah drone strike on the night of the 4th died in hospital on the morning of the 6th. Separately, a soldier died on the 5th from an apparent accidental weapons discharge while on duty in southern Lebanon.
-
----
-
-### 2026-06-07 03:51:42  #國際
-
-【以軍稱兩名士兵在黎巴嫩南部執行任務期間死亡】當地時間6日，以色列國防軍證實，有兩名以軍士兵近日在黎巴嫩南部執行任務期間死亡。以軍稱，一名以軍上尉此前在4日夜間遭真主黨無人機襲擊受重傷，被送醫後於6日早晨不治身亡。另一起事件發生在5日，一名以軍士兵在黎巴嫩南部執行任務期間疑似武器意外走火死亡。（央視新聞）
-
----
-
-### 2026-06-07 03:46:08  #國際
-
-卡達譴責以色列襲擊黎巴嫩軍隊，稱此舉是危險的局勢升級，也是對黎巴嫩主權的公然侵犯。
-
----
-
-### 2026-06-07 03:44:39  #公司 #市場 #國際
-
-【國際航空運輸協會理事長：預計未來將有更多航空公司破產整合】國際航空運輸協會（IATA）理事長沃爾什表示，受航空燃油價格上漲影響，預計未來將有更多航空公司破產，航空業會出現整合。受監管障礙影響，歐美航空聯盟合併事宜大機率無法推進，中東衝突平息後，海灣地區航企與樞紐將重新奪回市場份額，儘管清潔燃料發展未達預期，航空業機構仍將堅持2050年淨零排放目標。
-
----
-
-### 2026-06-07 03:42:58  #MKT News #Commodities #Energy #AAL.O #Impact bearish #UAL.O #WTI #Impact bullish
-
-【IATA director-general: jet-fuel spike to drive airline failures, consolidation】IATA director-general Willie Walsh said rising jet fuel prices are likely to prompt further airline bankruptcies and industry consolidation. He said regulatory barriers make a merger between United Airlines and American Airlines unlikely. Walsh said Gulf carriers and hubs will reclaim market share once the Middle East conflict eases. Despite disappointing progress on sustainable aviation fuel (SAF), IATA remains committed to net-zero emissions by 2050.
-
----
-
-### 2026-06-07 03:40:20  #國際
-
-【美國國家勞資關係委員會多項裁定認定星巴克違反勞工法】美國國家勞資關係委員會週五作出兩項裁定：其一，星巴克單方面調整著裝規定的執行標準，未留出協商空間，違反聯邦勞工法；其二，該咖啡品牌違規盤問員工是否參與罷工。上述裁定維持了行政法法官的原有判決，認定這家咖啡企業在太平洋西北地區部分門店觸犯《國家勞資關係法》。星巴克與工會之間的勞資糾紛由來已久，工會為在全美眾多門店推進組織工作，已向該委員會多次發起不當勞工行為指控，本次判決是系列糾紛的最新結果。
-
----
-
-### 2026-06-07 03:39:18  #MKT News
-
-IDF says air-raid alert sounded in Margaliot area for hostile aerial vehicle intrusion.
-
----
-
-### 2026-06-07 03:36:19  #國際
-
-【韓正出席中國－白俄羅斯產業與投資合作論壇並致辭】當地時間2026年6月6日，國家副主席韓正在明斯克出席中國－白俄羅斯產業與投資合作論壇開幕式並致辭。韓正說，習近平主席指出，中國和白俄羅斯是真朋友、好夥伴。近年來，在習近平主席和盧卡申科總統的戰略引領下，兩國關係持續高水平發展，經貿投資合作亮點紛呈，展現出蓬勃生機和強大活力。2025年中白雙邊貿易額是建交之初的近150倍。兩國元首親自關注、親自推動的中白工業園入駐企業達到178家，有力帶動當地經濟社會發展，成果惠及兩國人民。中方願繼續同白方以誠相待、以信相交，積極落實兩國元首重要共識，推動中白全天候全面戰略伙伴關係高水平發展，更好惠及兩國人民。（新華社）
-
----
-
-### 2026-06-07 03:34:42  #MKT News
-
-【Han Zheng meets Belarus First Deputy Prime Minister Snopkov】On June 6, 2026 in Minsk, Vice President Han Zheng met Belarus First Deputy Prime Minister Snopkov. Han said China and Belarus have strong economic complementarity and broad scope for cooperation, and China is willing to deepen alignment of development strategies to build a higher‑level, more resilient and more sustainable win‑win development space.
-
----
-
-### 2026-06-07 03:33:08  #公司 #國際
-
-【美國廉價航空公司Breeze Airways計劃於2027年上市】美國國內低成本航空公司Breeze Airways執行長大衛·尼爾曼週六表示，該公司計劃於2027年進行首次公開募股（IPO），但他指出該計劃取決於市場狀況。他在里約熱內盧舉行的國際航空運輸協會年度峰會上接受採訪時補充道，該航空公司曾考慮更早進行IPO，但因市場狀況決定暫緩。“要進行IPO，市場必須配合，行業也必須配合，”他說。
 
 ---
