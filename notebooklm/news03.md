@@ -1,7 +1,213 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-10 05:49:17_
-_本檔包含 3583 則快訊，約 679578 字_
+_更新時間：2026-06-10 06:43:39_
+_本檔包含 3564 則快訊，約 678801 字_
+
+---
+
+### 2026-06-07 09:09:19  #MKT News
+
+【NATO prepares €70 bln Ukraine military support plan】Several NATO diplomats said member states are preparing a new €70 billion military support package for Ukraine, expected to be unveiled at the NATO summit in July. Proposed by Germany, the plan would establish a new mechanism to boost transparency of member contributions and rebalance burden-sharing. A Kiel Institute report said European countries’ monthly military aid averaged €2.0 bln in Jan–Apr this year, below €2.4 bln per month in the same period of 2025, and that the US provided no military support during Jan–Apr.
+
+---
+
+### 2026-06-07 09:08:52  #國際
+
+【北約醞釀700億歐元對烏新支援計劃】多位北約外交官近日表示，北約成員國正在醞釀總額達700億歐元的對烏克蘭新軍事支援計劃，具體方案預計在7月份舉行的北約峰會上公佈。該提案由德國提出，旨在透過建立新的機制，提高北約各成員國對烏支援資金的透明度，並平衡北約內部的分擔比例。據德國“基爾世界經濟研究所”日前釋出的報告，今年1到4月，歐洲各國每月向烏克蘭提供的軍事支援為20億歐元，低於2025年同期的每月24億歐元。報告還顯示，在此期間，美國沒有向烏克蘭提供任何軍事支援。（央視新聞）
+
+---
+
+### 2026-06-07 09:05:56  #國際
+
+【受美以伊戰事及外溢影響 德國經濟增長壓力加劇】美以伊戰事爆發以來，作為歐洲最大經濟體，德國經濟正面臨能源價格波動、企業成本上升和外部需求疲軟等多重挑戰。根據總檯記者觀察，持續緊張的中東局勢可能進一步拖累德國經濟的復甦程序。總檯記者賀俊強：德國聯邦統計局的資料顯示，德國經濟在經歷連續兩年低增長後，2026年仍處於艱難復甦階段。當前，中東局勢帶來的不確定性正成為影響德國經濟前景的重要外部風險因素。德國經濟界人士指出，德國製造業高度依賴能源供應，化工、鋼鐵、汽車等行業對能源成本變化尤為敏感。如果國際原油價格長期維持高位，德國企業生產成本將進一步上升，削弱國際競爭力。（央視新聞）
+
+---
+
+### 2026-06-07 09:04:27  #焦點 #原創
+
+【酒價內參6月7日價格釋出：飛天茅臺大漲 總價創三日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月7日整體繼續回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9897元，較昨日溫和上漲9元，創下近三日以來新高。市場在前天創下近50天新低後持續修復，終端交投情緒有所回暖，今日頭部核心單品集體大幅走強，而腰部及次高階品種則普遍承壓。
+
+今日白酒市場11大單品四漲五跌兩平，輸家數量略佔優勢，但其跌幅相對溫和。上漲方面，飛天茅臺漲幅居前，大幅上漲11元/瓶，創近三週最大漲幅，價格快速回升至月內高位；習酒君品上漲7元/瓶，回補昨日全部跌幅，但仍囿於月內次低位；精品茅臺上漲6元/瓶，二連漲穩守2410線之上；五糧液普五八代上漲5元/瓶。下跌方面，洋河夢之藍M6+與青花郎均下跌6元/瓶，前者平月內最大跌幅紀錄，價格創月內新低，後者昨日自底部反彈，但今日再度回落，跌至月內次低位；國窖1573下跌4元/瓶，遭遇四連陰，再創月內最低價紀錄；水晶劍南春下跌3元/瓶，回吐昨日全部漲幅；古井貢古20小幅下跌1元/瓶。五糧液1618與青花汾20價格環比保持不變。
+
+---
+
+### 2026-06-07 09:04:24  #市場 #焦點
+
+比特幣升破61000美元，日內漲0.34%。
+
+---
+
+### 2026-06-07 09:03:30  #國際
+
+美軍中央司令部6日在社交媒體上發文說，當天早些時候，美軍擊落了兩架伊朗單向攻擊無人機。（新華社）
+
+---
+
+### 2026-06-07 09:02:51  #其他
+
+【我國乘用車12年胖了近400公斤 我國新能源車要減肥了】資料顯示，2024年，我國乘用車平均整備質量達1704公斤，比2012年足足“胖”了近400公斤。此外，2000年前後，市場常見的家用新能源汽車，車寬多在1.7米。2015年，寬度增加到1.8米。本週，動輒接近2噸重的家用車，正因為變大變胖，引發大家討論。車企工程師表示，新能源汽車車身每增加10毫米寬度，大約能多塞進0.8度電。但專家說，車輛變“胖”不僅這一個原因。專家介紹：有些車企透過續航里程做賣點，號稱車可以充一次電開800公里、1000公里，其實背後是要在車裡面裝一個很大的電池包，一個大的電池包可能有七八百公斤。甚至有些車企把馬桶都設計到車裡去了，就是為了讓車企的產品在市場中脫穎而出。今年1月1日，一項針對電動汽車的強制性國標正式實施。凡是能耗不達標的新車型，工信部將不予備案，車輛無法生產、銷售、上牌，引導車企遏制電動汽車日益“肥胖”的趨勢。未來，新能源汽車，或將有望迴歸到標準身材。 (央視財經)
+
+---
+
+### 2026-06-07 09:00:56  #其他
+
+Offshore Alliance稱，Inpex澳大利亞廠區的勞資行動將於6月11日升級。 該聯盟聯合澳大利亞工人工會、澳大利亞海員工會表示，Inpex已於週六退出公平工作委員會的談判，雙方暫無後續協商安排。
+
+---
+
+### 2026-06-07 09:00:34  #國際
+
+美國選舉資料網站 DDHQ 預測，Young Kim 將在加州眾議院第 40 選區初選中躋身兩名勝出者之列。
+
+---
+
+### 2026-06-07 08:58:41  #國際
+
+【美以伊衝突百日影響持續外溢 伊拉克推進民兵武裝整合】6月7日，美以伊衝突進入第100天。百日以來，中東安全域性勢持續動盪，地區軍事對抗和地緣政治博弈不斷升級。伊拉克作為美國在中東重要軍事部署所在地，也是伊朗、美國等外部力量長期角逐的樞紐，持續承受著衝突外溢壓力。部分支援伊朗的什葉派民兵武裝多次針對伊拉克境內美方目標發動襲擊，引發外界對伊拉克安全域性勢再度惡化的擔憂。（央視新聞）
+
+---
+
+### 2026-06-07 08:57:52  #宏觀
+
+【江蘇：全年結算11.3億次，其中三分之一為刷臉支付】記者近日走進江蘇省醫保資料賦能實驗室，沉浸式感受江蘇醫保的“數智大腦”是如何高速運轉的。“每天省醫保平臺結算達310萬人次，全年累計11.3億次，其中三分之一為刷臉支付。”現場工作人員介紹，該實驗室啟用一年多來，已累計歸集30多年標準化、規範化的醫保歷史資料，實時連線全省近5萬家定點醫藥機構，每天醫保資料量還在持續快速增長。據介紹，江蘇率先出臺《“人工智慧+”醫療保障行動方案》，明確提出到2027年建成50個以上智慧體，初步形成人工智慧重構醫保業務框架體系；到2030年，人工智慧全面應用於醫保全行業各領域。這意味著，在人工智慧的加持下，群眾看病結算將更便捷，基金監管更安全，醫藥價格更透明。（新華日報）
+
+---
+
+### 2026-06-07 08:57:52  #MKT News #Commodities #Industrial Metals
+
+【Baogang says it has mass-produced extreme‑cold ultra‑high‑strength rare‑earth wear‑resistant steel】Baogang Co. said it has developed and begun mass production of an extreme‑cold, ultra‑high‑strength rare‑earth wear‑resistant steel, breaking what the company described as a foreign firms’ technical monopoly. The product has entered industrial production; the first batch passed performance tests with strong results and is scheduled for imminent delivery to customers for commercial use.
+
+---
+
+### 2026-06-07 08:57:08  #國際
+
+美軍中央司令部：今天早些時候，美國在中東的部隊擊落了兩架伊朗單向攻擊無人機，這些無人機威脅到霍爾木茲海峽的國際海上交通。
+
+---
+
+### 2026-06-07 08:56:01  #MKT News #Important #WTI #Impact bullish #Brent
+
+U.S. military said U.S. forces shot down two Iranian attack drones in the Strait of Hormuz on Saturday local time after the aircraft threatened maritime traffic.
+
+---
+
+### 2026-06-07 08:55:16  #其他
+
+【霍爾木茲滯留船隻密密麻麻】美以伊戰事100天了，總檯記者探訪霍爾木茲海峽：海域風平浪靜，連一艘正在穿越的大型商船都難以見到。在錨地，密密麻麻停著上百艘船隻，大部分是貨船。當地人介紹，不少船隻已滯留數週，船員們依舊生活在船上，由快艇向他們運送生活物資。目前，即便已有部分船隻恢復通行，霍爾木茲海峽的航運活動仍遠未回到衝突前的水平。與此同時，波斯灣內至今仍有數百艘商船和約2萬名海員處於滯留狀態。霍爾木茲海峽何時完全恢復通航至今仍是未知數。（央視新聞）
+
+---
+
+### 2026-06-07 08:54:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Hundreds of commercial vessels anchored off Strait of Hormuz; about 20,000 crew stranded】A visit to the Strait of Hormuz found calm seas but few transits. Hundreds of vessels—mostly cargo ships—are densely anchored at roadsteads after being delayed for weeks; crew remain onboard and supplies are ferried by fast boats. Some ships have resumed passage, but overall shipping through the strait remains far below pre-conflict levels. Several hundred commercial vessels and roughly 20,000 seafarers remain stranded in the Persian Gulf. Timing for full reopening of the strait is unknown.
+
+---
+
+### 2026-06-07 08:53:33  #其他
+
+【全國小麥收穫進度近六成】農業農村部最新小麥機收進度顯示，全國夏糧小麥收穫進度已達58.87%。據農業農村部最新小麥機收進度，截至6月6日17時，全國已收穫夏糧小麥2億畝，收穫進度58.87%。安徽麥收進度過九成半，河南過九成，江蘇過五成半，陝西、山東過兩成半，河北、山西近一成。（央視新聞）
+
+---
+
+### 2026-06-07 08:52:55  #國際
+
+以色列記者Yossi Melman表示，近期有關以色列情報機構針對美國開展活動的報道，需結合美國國內圍繞伊朗局勢的政治態勢來看。梅爾曼否認相關報道意味著以色列情報工作出現轉向，認為這些說法實則源於美國國內各方輿論博弈。他表示，此事本質是圍繞伊朗衝突的責任歸屬與後續影響，各方爆發政治分歧的體現。
+
+---
+
+### 2026-06-07 08:51:52  #MKT News #EWY #Impact bearish
+
+【Bulls hedge as concerns mount that South Korean stocks are overheating】Optimism in South Korean equities is cooling, prompting institutional investors to trim positions and buy protection. Hedge fund Golden Horse has cut risk exposure and increased derivatives hedges; Prudential reduced stakes in storage-chip and wafer-foundry names and shifted toward downstream AI supply‑chain exposure. Options flow shows investors buying puts on the iShares MSCI Korea ETF; the ETF fell 14% in US trading last Friday. Golden Horse managing partner Yi Ling Ong said, “In recent weeks we’ve modestly trimmed overall positions and layered on derivatives hedges,” and added that several large IPOs this month, including SpaceX, are expected to prompt institutions to raise cash, so “holding some cash is prudent.”
+
+---
+
+### 2026-06-07 08:51:29  #公司
+
+【傑瑞股份：燃氣輪機發電機組銷售訂單已陸續進入交付階段】傑瑞股份6月7日在互動平臺表示，截至5月29日，公司股東總戶數48024戶，機構7573戶。自2025年第四季度以來，公司新取得的燃氣輪機發電機組銷售訂單已陸續進入交付階段。在燃氣輪機主機供應方面，公司注重構建全球化供應鏈體系，已經與多家廠商建立了長期穩定的合作關係。
+
+---
+
+### 2026-06-07 08:50:50  #其他
+
+【國開行：前4月發放4406億元貸款支援基礎設施建設】基礎設施是經濟社會發展的戰略性、基礎性、先導性支撐，是國民經濟執行、民生保障、產業發展的底層依託。今年以來，國家開發銀行加大力度支援基礎設施建設，1至4月共發放基礎設施貸款4406億元。（央視新聞）
+
+---
+
+### 2026-06-07 08:50:14  #公司
+
+【傑瑞股份：目前公司產能利用率較高，生產進度正在緊張有序地推進】傑瑞股份6月7日在互動平臺表示，目前公司產能利用率較高，生產進度正在緊張有序地推進，具體業績情況請以公司定期報告為準。
+
+---
+
+### 2026-06-07 08:46:48  #國際
+
+【美法官下達禁令 叫停特朗普政府食品券申領附加條件】一名聯邦法官於當地時間週五站在20個民主黨州一邊，叫停了特朗普政府的一項舉措。該舉措試圖強制各州滿足多項條件，才能領取數十億美元的補充營養援助計劃（食品券）資金。 美國地區法官Myong Joun就此項針對食品券資金申領附加條件的訴訟，下達了臨時禁令。附加條件涉及“性別理念”、“移民政策”，以及保障女性與女童平等“體育賽事機會”等相關限制。 法官表示，後續將出具備忘錄闡釋裁決理由。 各州在訴訟中主張，美國農業部設定了多項違憲且違法的阻礙，割裂國會設立的福利專案與依賴該專案的各州之間的聯絡，危及重要的營養補助、農業研究工作，以及全國食品供應鏈和社群安全。
+
+---
+
+### 2026-06-07 08:42:38  #市場
+
+【雞蛋價格同比大漲近80% 創下近5年同期最高】近期很多消費者反映，雞蛋價格上漲明顯。在北京新發地農產品批發市場的禽蛋交易區，六月初每斤雞蛋的批發價格已經達到5.5元，比五月初上漲了26%左右，同比漲幅更是接近80%，創下近5年同期最高。市場負責人表示，蛋價大幅上漲，除了端午節需求的拉動，供應也出現了階段性偏緊。據農業農村部監測，由於雞蛋價格明顯上漲，帶動蛋雞養殖走出了虧損期，5月份全國大部分蛋雞養殖場戶實現了盈利，每斤雞蛋盈利約0.5元～1.2元。 (央視財經)
+
+---
+
+### 2026-06-07 08:42:30  #公司
+
+【近一週漢鍾精機獲調研機構數最多】近一週機構調研個股有320只，漢鍾精機獲調研機構數最多。據證券時報·資料寶統計，近一週，漢鍾精機獲182家機構調研。TCL科技、華潤微、怡合達、強一股份等個股均有100家以上機構參與調研。
+
+---
+
+### 2026-06-07 08:41:46  #其他
+
+【四川今年出入境旅客突破300萬人次】6月5日，記者從四川出入境邊防檢查總站獲悉，今年以來該總站服務保障出入境旅客已突破300萬人次，同比增長17.1%，較去年提前30天達到此量級，創6年同期新高。出入境航班2萬餘架次，同比增長5%，出入境人員、航班量居中西部地區對外開放航空口岸第1位、全國對外開放航空口岸第4位，僅次於北京、上海、廣州。
+
+---
+
+### 2026-06-07 08:41:08  #其他
+
+【特銳德釋出全球首款面向算力中心的高壓交直流預製艙供電站“算電島”】據青島日報訊息，當AI算力需求井噴，電力基礎設施也亟需創新升級。6月6日下午，特銳德釋出全球首款面向算力中心的高壓交直流預製艙供電站——“算電島”。算電島不再是傳統意義上的變電站，而是一套將110千伏或220千伏高壓電直接接入，經過高壓固態裝置和直流母線，最終以800伏直流電直供機房的預製艙式供電站。
+
+---
+
+### 2026-06-07 08:41:05  #其他
+
+【四川：到2028年，在全省重點產業園區佈局建設產業計量測試中心10個以上】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，強化質量和檢驗檢測支撐。聚焦優勢產業及重點產業鏈，提能佈局一批國家和省級質檢中心、產業計量測試中心，培育一批規模效益好、技術水平高、創新能力強、品牌信譽優的綜合性檢驗檢測認證龍頭企業。加強質量基礎設施建設，引導各類檢驗檢測認證機構入駐“川質通”一站式服務平臺。鼓勵檢驗檢測認證領域優質技術機構、企業爭創四川省天府質量獎，持續提升質量管理水平。到2028年，在全省重點產業園區佈局建設產業計量測試中心10個以上。
+
+---
+
+### 2026-06-07 08:40:06  #其他
+
+【四川：鼓勵圍繞康養、體育、文旅等領域，深入實施消費品“三品”專項行動】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，推動融合應用場景創新。鼓勵圍繞設計、採購、生產、物流、運營、售後等環節，打造協同創新、智慧倉儲物流、系統整合產線、全鏈路缺陷管控、運營監測管理等面向生產需求的融合應用場景。鼓勵圍繞康養、體育、文旅等領域，深入實施消費品“三品”專項行動，打造智慧穿戴、智慧家庭、綠色出行、健康管理等面向生活需求的融合應用場景。圍繞新興產業、未來產業培育，組織釋出“人工智慧+”、“智改數轉”、低空經濟等領域場景需求清單，持續釋放場景需求，促進新技術新產品規模化商業化應用。
+
+---
+
+### 2026-06-07 08:39:16  #其他
+
+【四川：在電子資訊、裝備製造、食品輕紡等領域培育一批具有全國影響力的服務型製造龍頭企業】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，培育服務型製造龍頭企業及領軍品牌。在電子資訊、裝備製造、食品輕紡等領域培育一批具有全國影響力的服務型製造龍頭企業。深入開展“天府益企·一起益企”中小微企業服務行動，營造大中小企業協同創新、資源共享、融合發展的產業生態。支援市（州）因地制宜建立製造業重點產業鏈服務型製造資源庫，健全服務型製造公共服務平臺，培育引進一批服務型製造轉型服務商，為企業“製造+服務”轉型提供支撐。支援服務型製造龍頭骨幹企業提高品牌設計、市場推廣、品牌維護等品牌管理運作水平，打造一批服務型製造領軍品牌。
+
+---
+
+### 2026-06-07 08:38:43  #其他
+
+【四川：鼓勵製造業企業將服務貫穿於生產製造全流程和產品全生命週期】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，發展“產品+服務”全生命週期管理。鼓勵製造業企業將服務貫穿於生產製造全流程和產品全生命週期，完善整合化、網路化、智慧化全生命週期管理系統，開展研發設計、資料分析、生產製造、安裝除錯、狀態預警、產品升級、售後服務等全鏈條服務，延長服務鏈，提升價值鏈。推動產品與服務全生命週期整合，以資料為驅動，運用數字孿生、大資料分析、物聯網等新一代資訊科技提高生產資料分析能力，提升全生命週期服務水平。
+
+---
+
+### 2026-06-07 08:37:31  #其他
+
+【四川：支援製造業鏈主企業響應國家“一帶一路”戰略，抱團出海、開拓全球市場】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，發展“整機+服務”總整合總承包。鼓勵裝備製造、能源化工等領域龍頭企業圍繞國省重大工程、重點專案，依託技術優勢與核心裝備，整合供應商、承包商、服務提供商、科研機構等資源，建設“硬體+軟體+平臺+服務”整合系統，為客戶提供勘察設計、裝置研製、工程施工、安裝除錯、運營維護等一體化系統解決方案。支援軌道、汽車、電力等行業龍頭企業發展建設-移交（BT）、建設-運營-移交（BOT）、建設-擁有-運營（BOO）、交鑰匙工程（EPC）等多種形式的總承包服務。支援製造業鏈主企業響應國家“一帶一路”戰略，抱團出海、開拓全球市場。
+
+---
+
+### 2026-06-07 08:36:52  #其他
+
+【四川：引導製造業企業建立使用者反饋響應機制】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，引導製造業企業建立使用者反饋響應機制，增強資料實時共享和分析預警能力，透過反饋分析開展技術迭代，促進提升服務質量與裝置可靠性，增強市場適應力。支援製造業企業完善銷售網路，發展直播帶貨、跨境電商、元宇宙營銷展示等銷售形態，拓展銷售渠道。緊盯裝備製造、電子資訊、汽車、家電家居等重點行業，推動市場服務標準化、數字化、便民化升級，引導企業拓展延保維保、上門檢修、遠端診斷、廢舊回收等增值服務，完成需求響應、服務派單、進度追溯、評價反饋的服務流程閉環管控。
+
+---
+
+### 2026-06-07 08:36:01  #其他
+
+【四川：到2028年，培育工業設計專業職稱人員200名以上，培育省級及以上工業設計中心25家以上】四川近日印發《四川省深入推動服務型製造創新發展行動方案》，其中提到，實施“設計四川·製造業設計能力提升行動”。引導製造業企業設立工業設計部門，建立國、省、市級工業設計中心，以設計創新引領製造業產品附加值和品牌影響力提升。鼓勵有條件的市（州）規劃建設特色鮮明的工業設計產業園和創意設計空間，推動工業設計產業化、叢集化發展。提升設計服務水平，補齊專業諮詢、模型打樣、中試服務等生態短板，舉辦工業設計賽事活動，推動設計創新、人才培育和成果轉化，助力製造業“增品種”“提品質”“創品牌”。到2028年，培育工業設計專業職稱人員200名以上，培育省級及以上工業設計中心25家以上。
 
 ---
 
@@ -21344,323 +21550,5 @@ South Korea's labor minister said Samsung and other companies should consider sh
 ### 2026-06-05 10:26:13  #國際
 
 韓國勞動部長稱，擔憂人工智慧所獲空前利潤會加劇韓國國內不平等問題。
-
----
-
-### 2026-06-05 10:26:11  #MKT News
-
-South Korea's labor minister called for social dialogue and for excess profits to be shared with suppliers, subcontractors and workers.
-
----
-
-### 2026-06-05 10:25:59  #公司 #國際
-
-韓國勞動部長稱，三星在解決內部分歧上面臨挑戰，薪資協議達成後存在潛在員工流失風險。
-
----
-
-### 2026-06-05 10:25:31  #公司 #國際
-
-韓國勞工部長稱，三星及其他企業應考慮分享從人工智慧熱潮中獲得的“超額利潤”。
-
----
-
-### 2026-06-05 10:24:29  #MKT News #00992.HK #Impact bearish #Hang Seng Index
-
-Hang Seng Tech Index weakened, falling >1% in choppy trade; Lenovo Group (00992.HK) slid over 4% to lead constituents. Hang Seng Index down 0.61%.
-
----
-
-### 2026-06-05 10:23:44  #市場 #焦點
-
-恒生科技指數跌超1%，現報4925.210點；恒生指數現跌0.594%。
-
----
-
-### 2026-06-05 10:23:42  #公司
-
-【山東省委書記林武會見王傳福】6月4日下午，山東省委書記林武在山東大廈會見了集團董事長兼總裁王傳福一行。林武、王傳福分別介紹了山東省、比亞迪集團發展情況，圍繞新能源汽車生產、新一代刀片電池等技術研發與產業佈局、新能源電池材料產業合作、閃充充電服務等交換了意見，表示將在良好合作的基礎上，進一步加強交流對接，共享發展機遇，推動合作專案建設提速增效，促進雙方合作向更廣空間、更深層次邁進，更好助力綠色低碳高質量發展。
-
----
-
-### 2026-06-05 10:21:06  #市場 #焦點
-
-北證50日內漲幅達3.05%，成分股中，戈碧迦漲14.31%，同惠電子漲11.97%，民士達漲8.94%，星圖測控漲8.70%。
-
----
-
-### 2026-06-05 10:20:59  #MKT News
-
-Al Jazeera reported Israeli forces struck a tent shelter in Khan Younis, Gaza, killing one person.
-
----
-
-### 2026-06-05 10:20:25  #MKT News #Market Themes #AI Revolution
-
-【Huawei Cloud unveils AICS Lingqu compute cluster, Agentic AI stack】At the 2026 Huawei Cloud INSPIRE Creators Conference, Huawei director and Huawei Cloud CEO Zhou Yuefeng announced four Agentic AI products: the AICS Lingqu intelligent compute cluster, AMS Agentic memory storage solution, CCE VolcanoNext integrated scheduling platform, and the AgentSphere runtime environment. AICS Lingqu is built on an ultra‑high‑bandwidth Lingqu network, supports up to 100,000‑card cluster scale with peak compute of 200 EFLOPS, reduces token‑generation latency to under 10 ms, delivers about 5 million tokens/sec per 1,000 cards, and offers online service availability of 99.95%.
-
----
-
-### 2026-06-05 10:19:57  #公司
-
-【華為雲釋出AICS靈衢智算叢集等Agentic AI新品】在2026華為雲INSPIRE創想者大會上，華為公司董事、華為雲CEO周躍峰釋出AICS靈衢智算叢集、AMS Agentic記憶儲存解決方案、CCE VolcanoNext通智一體化排程、及Agent執行環境AgentSphere四大新品。其中，AICS靈衢智算叢集基於超大頻寬靈衢網路，支援10萬卡級叢集規模，總算力高達200EFLOPS，並將Token生成時延降低到10毫秒以內，千卡每秒吞吐達到500萬Tokens，線上服務可用性高達99.95%，打造極致效率的Token工廠。
-
----
-
-### 2026-06-05 10:19:45  #公司 #國際 #原創
-
-【SpaceX據悉將其IPO的日本融資目標提高至25億美元】SpaceX已將其在日本發行股票的計劃籌集金額增加了四分之一，這表明日本散戶投資者的需求強勁。據監管檔案披露，SpaceX目前正尋求從日本投資者那裡籌集至多25億美元的資金，高於上週披露的20 億美元。檔案顯示，日本投資者獲配1480萬至1850萬股A類股，初步定價為每股135美元。日本部分的認購登記將於本週五開始，持續至下週晚些時候。
-
----
-
-### 2026-06-05 10:19:12  #公司
-
-【光刻機概念延續強勢 新萊應材、南大光電雙雙漲超10%】光刻機概念延續昨日強勢，新萊應材、南大光電漲超10%，江化微、蘇大維格、晶瑞電材、亞威股份、上海新陽跟漲。
-
----
-
-### 2026-06-05 10:18:36  #MKT News #WTI #Impact bullish #Brent
-
-Oman's Mina Al Fahal oil terminal has suspended crude loadings after an explosion, sources said.
-
----
-
-### 2026-06-05 10:17:20  #市場 #國際
-
-印尼基準股指下跌1%，報5781.85點。
-
----
-
-### 2026-06-05 10:16:58  #公司
-
-【貴州省農業發展集團黨委書記蘆忠於接受審查調查】中央紀委國家監委網站6月5日通報，據貴州省紀委監委訊息：貴州省農業發展集團有限責任公司黨委書記、董事長蘆忠於涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-05 10:16:27  #其他
-
-訊息人士稱，阿曼在爆炸發生後暫停法赫勒港碼頭的原油裝船作業。
-
----
-
-### 2026-06-05 10:15:48  #國際
-
-【黎總統稱停火獲批後24小時內可實施】根據美國、以色列和黎巴嫩6月3日的聯合宣告，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。對此，黎巴嫩總統奧恩4日表示，一旦獲得最終批准，黎以停火協議可在24小時內開始實施。奧恩表示，該協議是“最後一次機會”，並警告“如果錯失這一機會，各方都將承擔相應責任”。黎巴嫩真主黨領導人納伊姆·卡西姆4日表示，停火必須全面，不能將黎巴嫩南部與黎巴嫩其他地區區別對待。把解除真主黨武裝作為任何協議的基本目標，都意味著削弱黎巴嫩的力量，並對堅持抵抗的黎巴嫩人構成生存性威脅。
-
----
-
-### 2026-06-05 10:15:09  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Drops by 0.96% — Top currency loser is South Korean Won (-0.96%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
-
----
-
-### 2026-06-05 10:13:50  #市場 #其他
-
-三大股指悉數翻紅，6G概念、光纖概念等板塊漲幅居前。
-
----
-
-### 2026-06-05 10:13:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #SZSE Component
-
-China's three major A-share indices turned positive; 6G-related and optical-fiber sectors led gains.
-
----
-
-### 2026-06-05 10:13:44  #公司
-
-【中化石油安徽有限公司原副總經理施忠被開除黨籍】6月5日，據“中化清風線上”微信公眾號訊息，日前，中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組、安徽省蕪湖市灣沚區監委對中國中化控股有限責任公司所屬中化石油安徽有限公司原副總經理施忠嚴重違紀違法問題進行了立案審查調查。經查，施忠身為國有企業黨員領導幹部，背棄初心使命，與他人串供，向組織提供虛假情況、掩蓋事實，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品，接受可能影響公正執行公務的宴請；廉潔底線失守，將應當由本人支付的費用由他人支付，違規兼職取酬；違反生活紀律，婚姻存續期間與他人存在不正當性關係。利用職務便利，為管理和服務物件提供幫助並非法收受鉅額財物，涉嫌受賄犯罪。施忠嚴重違反黨的政治紀律、廉潔紀律、生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後仍不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中國中化控股有限責任公司黨組研究，決定給予施忠開除黨籍處分；收繳其違紀違法所得。經安徽省蕪湖市灣沚區監委研究，決定將施忠涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-06-05 10:13:05  #MKT News #Important #Market Regions #Greater China
-
-A-share-listed Xinyisheng hit an intraday high of 818.38 yuan, up more than 4% on the day, with turnover exceeding 11.0 bln yuan.
-
----
-
-### 2026-06-05 10:12:55  #其他
-
-【遼寧本溪一臨街商鋪發生爆炸，致2死13傷】遼寧本溪市消防救援局通報：2026年6月5日6時42分，本溪市消防救援局指揮中心接到報警，位於本溪市平山區平山路一臨街商鋪（面積約35平方米），發生疑似液化氣罐洩露引發爆炸。指揮中心立即調派42名消防救援人員、8輛消防車趕赴現場處置。目前，小面積明火已撲滅，現場搜救出2名被困人員，經確認已無生命體徵。13人輕微傷，已送至醫院救治。事故原因正在調查中。
-
----
-
-### 2026-06-05 10:12:07  #市場
-
-【新易盛股價創歷史新高】新易盛盤中股價創歷史新高，現漲4.5%，報811.00元，總市值為8064.08億元。
-
----
-
-### 2026-06-05 10:11:55  #國際
-
-【克里姆林宮：普京不會赴美觀看世界盃】俄羅斯總統新聞秘書佩斯科夫告訴俄羅斯新聞社，俄總統普京不會赴美觀看2026年美加墨世界盃比賽。據俄新社5日報道，美國總統特朗普此前表示，他可能邀請普京前往美國觀看本屆世界盃比賽。對此，佩斯科夫回應說：“普京不會去。”（新華社）
-
----
-
-### 2026-06-05 10:11:12  #公司 #國際
-
-【挪威石油公司與工會達成薪資協議 避免了罷工】挪威石油公司已與三個工會達成薪資協議，從而避免了可能擾亂生產的罷工行動，雙方談判代表 週五表示 。工會此前曾表示，挪威近8%的海上油氣工人計劃在工資調解失敗的情況下進行罷工，而該行業估計，這將導致初期日產量減少45,500桶油當量。工會官員曾警告稱，罷工行動隨時可能擴大，對生產造成重大影響。挪威每天生產超過400萬桶油當量，其中原油和天然氣幾乎各佔一半，在伊朗戰爭導致中東產量受限之際，任何減產都可能影響市場。官員表示，雙方已就每年42,000挪威克朗（$4,493）的普遍加薪達成一致，其中包括海上作業補貼和節假日津貼。“此外，輪班津貼和夜班津貼將分別增加5挪威克朗和8挪威克朗。浮動津貼也進行了調整，協議中還包含一些技術性修改，”挪威海上石油協會（Offshore Norway）在一份宣告中表示。
-
----
-
-### 2026-06-05 10:11:10  #央行 #國際
-
-【普京就多個熱點問題答世界主要通訊社提問】俄羅斯總統普京4日在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的13位世界主要通訊社負責人，並就俄烏局勢、中東局勢、俄歐關係和俄羅斯經濟等國際及涉俄熱點回答提問。 談及俄烏局勢，普京說，俄方準備並願意與烏方以和平方式達成協議，美國總統特朗普關於烏克蘭的提議或成為和平協議的基礎。他說，特朗普致力於解決烏克蘭問題，但這一問題位元朗普預想的要困難得多。 回答中東局勢相關問題時，普京說，伊朗局勢具有全球性效應，霍爾木茲海峽的關閉對全球經濟產生重大影響。伊朗是俄羅斯的友好國家，俄方的目標是在共同利益的堅實基礎上與所有夥伴建立長期關係。 普京在談及俄羅斯與歐洲關係時說，俄羅斯不拒絕與歐洲進行對話，並表示歐洲與俄方談判的人選須是“值得俄方信任的人”。 在談到與其他國家關係時，普京說，古巴是俄羅斯的友好國家，俄方曾就古巴問題與美國有過接觸。他還表示，俄羅斯與哈薩克關係發展順利，正“呈上升趨勢”，且與亞塞拜然關係良好。 談及俄國內經濟，普京表示，俄羅斯經濟正在復甦，並穩步迴歸目標指標。他說，俄羅斯宏觀經濟面臨的主要問題是通貨膨脹，俄央行正在採取一系列必要措施，已提前實現了降低貧困人口比例的目標，2025年貧困人口比例降至6.7%。 普京在答問中還提到，他符合俄憲法關於參加2030年的總統競選的規定，但現在談論此事“為時尚早”，他當前只想集中精力解決國家面臨的問題。
-
----
-
-### 2026-06-05 10:10:25  #公司 #市場
-
-商業航天概念探底回升，神劍股份衝擊漲停，中超控股此前封板，盛路通訊、星圖測控、信科移動、電科藍天漲超6%。
-
----
-
-### 2026-06-05 10:10:10  #其他
-
-【大曉機器人釋出首個全屋三維可互動世界模型Kairos-HomeWorld】6月5日，介面新聞獲悉，大曉機器人聯合香港中文大學、深圳河套學院釋出世界模型研究成果Kairos-HomeWorld，這是首個實現全屋生成、個體物體全互動的世界模型統一框架，可實現從文字指令到全屋三維場景的端到端生成。此外，團隊同步開源規模最大並專為中國家庭打造的全屋3D資料集，包含30萬套中國真實住宅平面圖與5000個完整帶可互動傢俱和物體的模擬場景。
-
----
-
-### 2026-06-05 10:09:12  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Shanghai Stocks Hit 7-Week Low — The Shanghai Composite fell 0.4% to 4,042 on Friday, hitting its lowest level since mid-April, while the Shenzhen Component dropped 1% to 15,504, as renewed tensions in the Middle East continued to weigh on sentiment. While Israel and Lebanon reached a ceasefire agreement intended to end hostilities, Tehran launched strikes on Kuwait and US forces carried out military operations near the Strait of Hormuz. The latest escalation came despite President Trump's assertion that ceasefire negotiations were in their "final" stages, even as Iran said talks had stalled. Notable decliners included CATL (-4.3%), BYD (-1.5%), and Suzhou TFC Optical Communication (-3.4%). Meanwhile, chipmakers outperformed, led by SMIC (0.7%), GigaDevice Semiconductor (7.5%), and Hua Hong Semiconductor (4.6%), amid reports that AI startup DeepSeek is seeking a 50 billion yuan ($7.4 billion) funding round. For the week, the Shanghai Composite and Shenzhen Component were on track for mixed performances.
-
----
-
-### 2026-06-05 10:08:40  #其他
-
-【阿里千問支援NBA中國打造首個官方大模型】今天，NBA中國攜手阿里巴巴打造的首個官方大模型“NBAChat”正式上線。正值NBA總決賽開賽之際，球迷可以在“NBA中國”APP中體驗這款智慧籃球助手。(阿里巴巴)
-
----
-
-### 2026-06-05 10:07:50  #公司
-
-【阿拉丁等在上海成立半導體材料公司】企查查APP顯示，近日，上海阿拉丁半導體材料有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料銷售；電子專用材料研發；電子產品銷售等。企查查股權穿透顯示，該公司由阿拉丁等共同持股。
-
----
-
-### 2026-06-05 10:07:37  #宏觀 #公司 #國際
-
-【古巴國家主席：美國針對古巴的言行將加劇兩國對抗】古巴國家主席迪亞斯－卡內爾4日表示，美國總統特朗普當天有關古巴的言論以及美國政府的最新制裁措施，將進一步強化對古封鎖，加劇古美之間的對抗。 迪亞斯－卡內爾在社交媒體發文說，美國政府的“政治短視”進一步疊加了近期一系列針對古巴、旨在傷害古巴人民的強制性措施。 他表示，面對美國政府的侵略和歪曲行為，古巴有應對最壞情況、抵抗帝國主義侵略的決心。 當天早些時候，特朗普稱，在伊朗衝突解決後，美國將“處理”古巴問題。此外，美國財政部外國資產控制辦公室當日釋出公告，宣佈把迪亞斯－卡內爾等5名個人和5個實體列入制裁名單。(新華社)
-
----
-
-### 2026-06-05 10:07:15  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-China A-share photoresist sector rallied. Jianghua Micro hit an intraday record high. Laibotec and Baihehua reached daily limit-up; Nanda Optoelectronics, Shengke Nano, Anda Intelligent, Gaomeng New Materials and Aladdin also advanced.
-
----
-
-### 2026-06-05 10:06:53  #市場
-
-【PCB概念震盪回升 金安國紀漲停續創歷史新高】PCB概念日內震盪回升，金安國紀漲停，續創歷史新高，宏和科技、銅冠銅箔、駿亞科技、國際復材、山東玻纖跟漲。
-
----
-
-### 2026-06-05 10:06:31  #其他
-
-【交通銀行黑龍江省分行原副行長陳會一接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐交通銀行紀檢監察組、黑龍江省紀委監委訊息：交通銀行黑龍江省分行原黨委委員、副行長陳會一涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐交通銀行紀檢監察組紀律審查和黑龍江省牡丹江市監察委員會監察調查。
-
----
-
-### 2026-06-05 10:05:33  #市場
-
-【光刻膠板塊拉昇，百合花漲停】光刻膠板塊拉昇，江化微盤中創新高，萊伯泰科、百合花漲停，南大光電、勝科奈米、安達智慧、高盟新材、阿拉丁跟漲。
-
----
-
-### 2026-06-05 10:05:28  #其他
-
-【《國家人權行動計劃（2021－2025年）》181項任務指標全部完成】中國人權研究會、國家人權教育與培訓基地5日聯合釋出《〈國家人權行動計劃（2021－2025年）〉實施評估報告》。報告顯示，《國家人權行動計劃（2021－2025年）》得到全面實施，181項任務指標全部完成，總計44項約束性指標中有20項系提前或超額完成，中國人權保障水平全方位提升。
-
----
-
-### 2026-06-05 10:05:12  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-06-05 10:04:58  #其他
-
-【廈門海關原副關長、一級巡視員鄧光文接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐海關總署紀檢監察組、山西省紀委監委訊息：廈門海關原副關長、一級巡視員鄧光文涉嫌嚴重違紀違法，目前正在接受中央紀委國家監委駐海關總署紀檢監察組紀律審查和山西省運城市監察委員會監察調查。
-
----
-
-### 2026-06-05 10:04:53  #市場
-
-創業板指持續走強翻紅，早盤一度跌逾1%。
-
----
-
-### 2026-06-05 10:04:40  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
-
-ChiNext index turned positive after earlier sliding more than 1% in early trade.
-
----
-
-### 2026-06-05 10:04:36  #市場 #國際
-
-印尼基準股票指數下跌0.8%，至5,795.634點。
-
----
-
-### 2026-06-05 10:03:44  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Wall Street Journal reports real-time satellite intelligence has made Ukrainian drone strikes more lethal.
-
----
-
-### 2026-06-05 10:03:35  #MKT News #Market Regions #Wall Street (US)
-
-The Wall Street Journal, citing sources, reported a Ukrainian team used satellite intelligence to destroy Russian assets worth billions of dollars.
-
----
-
-### 2026-06-05 10:03:20  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-The Wall Street Journal reports commercial satellite operator Vantor and its customers say satellite imagery technology can cut the time to locate and strike targets by up to 90%.
-
----
-
-### 2026-06-05 10:03:14  #國際
-
-神戶制鋼稱受中東局勢影響，自 7 月起上調產品售價。
-
----
-
-### 2026-06-05 10:02:51  #其他
-
-神戶制鋼擬上調產品價格，每噸至少漲價 5000 日元。
-
----
-
-### 2026-06-05 10:02:35  #MKT News #MAXR.O #Impact bullish
-
-Sources told the Wall Street Journal that Ukrainian forces have, for the first time, directly received and used non-classified commercial satellite imagery on the front line in combat operations.
-
----
-
-### 2026-06-05 10:02:34  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量630億元。
-
----
-
-### 2026-06-05 10:02:29  #宏觀
-
-【醫保個人賬戶跨省共濟來了 近親屬可用】國家醫保局、財政部近日印發《職工基本醫療保險個人賬戶跨省共濟經辦規程（試行）》的通知，規範職工基本醫保個人賬戶跨省共濟。《通知指出》，職工基本醫療保險個人賬戶跨省共濟，是指依託全國統一的醫保資訊平臺設立個人醫保錢包，設定共濟額度，實現職工個人賬戶資金按規定支付近親屬在定點醫藥機構就醫、購藥發生的個人負擔費用，以及參保繳費。個人醫保錢包實行虛擬額度管理。跨省共濟的適用物件範圍為職工基本醫保參保人的近親屬，被共濟人應為基本醫療保險的參保物件。近親屬包括配偶、父母、子女、兄弟姐妹、祖父母、外祖父母、孫子女及外孫子女。參保人可透過國家醫保服務平臺App、省級醫保服務平臺、參保地醫保經辦機構視窗等多種渠道建立或解除共濟關係。（央視新聞）
-
----
-
-### 2026-06-05 10:02:20  #市場 #國際
-
-印尼盾兌美元跌至18050。
-
----
-
-### 2026-06-05 10:02:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Extend Losses for Third Session — The Hang Seng Index fell 90 points, or 0.4%, to 25,165 on Friday, marking its third consecutive session of losses as weakness in technology and financial shares continued to weigh on sentiment. Hong Kong equities tracked subdued regional trading after weakness in AI-related stocks on Wall Street prompted profit-taking among select technology and semiconductor shares. Investors also remained cautious amid uncertainty surrounding the fragile US-Iran ceasefire, as reports of stalled negotiations contrasted with President Donald Trump's assertions that talks were continuing and nearing completion, leaving markets wary of renewed geopolitical risks in the Middle East. Among the biggest drags on the benchmark were AIA (-3.3%), Lenovo (-4.4%), Hong Kong Exchanges and Clearing (-0.5%), and Semiconductor Manufacturing International Corporation (-3.7%). In contrast, Tencent and Beijing 51WORLD gained 1.3% and 9.2%, respectively.
 
 ---
