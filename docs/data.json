@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-09 09:39:52",
-  "count": 19176,
+  "updated": "2026-06-09 09:43:47",
+  "count": 19171,
   "items": [
+    {
+      "id": "te:economy:557423",
+      "time": "2026-06-09 09:42:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Business Confidence",
+        "Importance 2"
+      ],
+      "text": "Australia Business Sentiment Improves — Australia’s NAB Business Confidence Index rose to -14 in May from -24 in the prior month, marking its highest print since February and signaling modest improvement from very weak levels. Confidence, however, remained firmly negative, underscoring concerns over the economic outlook. Business conditions held at 3, halting a four-month slide as activity stabilized despite softer demand. Profitability stayed the weakest component relative to long-run norms, reflecting margin strain from elevated costs. Cost growth eased but remained historically high, while capacity utilisation slipped below 82% for the first time since early 2025, pointing to softer momentum. NAB economist Michael Hayes noted sentiment was negative across industries amid global uncertainty, a weakening domestic backdrop, and persistent cost pressures. Firms also face high borrowing costs after the central bank lifted rates to 4.35% to curb sticky inflation and prevent rising energy costs from feeding into consumer prices."
+    },
+    {
+      "id": "4924961",
+      "time": "2026-06-09 09:42:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產板塊持續走低，南山控股、華麗家族逼近跌停】房地產板塊持續走低，南山控股、華麗家族逼近跌停，榮安地產跌超9%，榮豐控股、大悅城、光大嘉寶紛紛下挫。"
+    },
+    {
+      "id": "4924960",
+      "time": "2026-06-09 09:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐工集團等成立新能源公司，含AI業務】企查查APP顯示，近日，徐州徐工力高新能源有限公司成立，註冊資本5000萬元，經營範圍包含：智慧控制系統整合；汽車零部件研發；新能源汽車電附件銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由徐州工程機械集團有限公司全資子公司徐工集團產業投資發展（徐州）有限公司等共同持股。"
+    },
+    {
+      "id": "4924959",
+      "time": "2026-06-09 09:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【番茄小說啟動院線電影徵集計劃】番茄小說日前正式官宣院線電影徵集計劃，面向影視、動畫創作團隊、片方及個人創作者開放長期徵集通道。本次徵集計劃設定真人、動畫雙獨立賽道，面向各類專業影視機構、動畫團隊及個人創作者。徵集的參賽作品，均要求基於番茄小說自有原創IP改編。在創作定位上，真人賽道重點徵集現實向、情感向、喜劇向、輕懸疑、青春向、奇幻向等適配大眾審美的題材內容；動畫賽道聚焦高創意、高視覺性、高延展性，覆蓋都市腦洞、玄幻仙俠、科幻末世、懸疑、國風傳統文化等題材。截至2025年底，番茄小說平臺上擁有70萬簽約作者，超100萬部簽約作品。（國是直通車）"
+    },
+    {
+      "id": "4924958",
+      "time": "2026-06-09 09:42:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1150億元。"
+    },
+    {
+      "id": "4924957",
+      "time": "2026-06-09 09:41:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置股盤初活躍 亞翔整合2連板】早盤半導體裝置股活躍，潔淨室方向領漲，亞翔整合2連板，聖暉整合逼近漲停，富創精密、華康潔淨、柏誠股份、中微公司、美埃科技跟漲。"
+    },
+    {
+      "id": "te:markets:557418",
+      "time": "2026-06-09 09:41:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Eases as Iran and Israel Halt Strikes — The dollar index slipped below 100 on Tuesday, pulling back from a nine-week high after Iran and Israel agreed to halt attacks against each other, easing safe-haven demand for the greenback. President Donald Trump also said both sides were seeking an immediate ceasefire and that final negotiations were moving forward. Despite the decline, the dollar remained near multi-month highs against its major peers as stronger-than-expected US jobs data reinforced expectations of a Federal Reserve interest rate hike by year-end. Markets are now pricing in roughly a 70% chance of a quarter-point rate increase in December. Investors are also awaiting US CPI and PPI data later this week for further clues on the Fed’s policy outlook. Meanwhile, the European Central Bank is widely expected to raise interest rates this week."
+    },
+    {
+      "id": "4924956",
+      "time": "2026-06-09 09:40:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊走強，長江通訊觸及漲停】光纖概念板塊走強，長江通訊觸及漲停，唯科科技漲超11%，泰和新材、長芯博創、飛凱材料、亨通光電、長飛光纖跟漲。"
+    },
+    {
+      "id": "4924955",
+      "time": "2026-06-09 09:40:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印度多地自動取款機遭遇“現金荒”】據印度媒體8日報道，印度多座二線和三線城市的自動取款機近期遭遇“現金荒”，當地民眾取現困難。印度自動取款機行業聯合會說，造成這一情況的主要原因是主要銀行優先將現金調配至大城市。印度自動取款機行業聯合會向印度儲備銀行（央行）報告，自去年12月以來，印度國家銀行等主要銀行向各地自動取款機補充現金時，優先保障一線城市供應，直接導致多座二線和三線城市自動取款機現金短缺。印度《商業旗幟報》援引行業資料包道，印度全國自動取款機今年3月和4月的現金需求均為9400億盧比（約合666億元人民幣），實際供應量分別為6100億盧比（432億元人民幣）和5400億盧比（383億元人民幣）。"
+    },
+    {
+      "id": "4924954",
+      "time": "2026-06-09 09:39:38",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "創業板指盤中漲超2％，MLCC、儲存、半導體、PCB等概念漲幅居前。"
+    },
+    {
+      "id": "mkt:019eaa08-cffc-7997-8098-fdc97d2b16ce",
+      "time": "2026-06-09 09:39:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index rose over 2% intraday; MLCC, memory, semiconductor and PCB stocks led gains."
+    },
     {
       "id": "4924953",
       "time": "2026-06-09 09:38:47",
@@ -176730,157 +176835,6 @@
         "國際"
       ],
       "text": "【燃油漲價 印度多家航空公司大幅削減航班】由於航空燃油成本上漲和旅行需求疲軟，印度航空公司、靛藍航空公司和印度航空快運公司決定自1日起大幅削減國內航班。此前，這些航空公司已削減部分國際航班。據印度媒體報道，這次航班削減安排預計將持續至8月，屆時正值暑期出行高峰，航班減少可能會進一步推高機票價格並給旅客出行帶來不便。根據計劃，印度航空公司將減少約22%的國內航班，其子公司印度航空快運將減少近10%，靛藍航空則削減約5%至7%，三家公司合計每日減少約250架次航班。往返孟買、新德里、班加羅爾等主要城市的航線預計將受到較大影響。（新華社）"
-    },
-    {
-      "id": "4911640",
-      "time": "2026-06-02 09:43:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4911639",
-      "time": "2026-06-02 09:43:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【足球概念板塊持續下挫，共創草坪觸及跌停】足球概念板塊持續下挫，舒華體育、粵傳媒、共創草坪觸及跌停，金陵體育跌超10%，中體產業、雙象股份、流金科技、金埔園林、綠茵生態跟跌。"
-    },
-    {
-      "id": "mkt:019e85ff-d1c3-7aa2-99e8-8c23502d7d8b",
-      "time": "2026-06-02 09:43:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zhengzhou opens advance housing provident fund withdrawals for existing-home purchases】Zhengzhou Housing Provident Fund Management Center and the city’s Housing Security and Real Estate Administration said they will allow advance withdrawal of housing provident fund (HPF) to pay for purchases of existing homes in Zhengzhou’s eight urban districts. Eligible Zhengzhou HPF contributors buying stock homes may, after filing the Zhengzhou existing‑home sale contract and if they meet HPF withdrawal conditions, withdraw the buyer’s, spouse’s and co‑owners’ HPF funds to pay the purchase price; withdrawn funds must be transferred into the supervised account specified in the Zhengzhou existing‑home transaction settlement supervision agreement."
-    },
-    {
-      "id": "te:economy:555526",
-      "time": "2026-06-02 09:43:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Australia Current Account Gap Exceeds Forecasts — Australia’s current account deficit widened to AUD 27.1 billion in the first quarter of 2026 from an upwardly revised AUD 23.0 billion in the previous quarter, exceeding market expectations of a AUD 23.0 billion shortfall. The goods and services surplus increased to AUD 2.4 billion from AUD 1.1 billion in Q4, while the secondary income deficit widened to AUD 1.0 billion from AUD 0.8 billion. Meanwhile, the primary income deficit increased to AUD 23.7 billion in Q1 2026 from AUD 23.3 billion in the previous quarter."
-    },
-    {
-      "id": "4911638",
-      "time": "2026-06-02 09:42:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌2%，現報4760.00元。"
-    },
-    {
-      "id": "4911637",
-      "time": "2026-06-02 09:42:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪反彈 阿萊德等多股漲停】早盤液冷伺服器概念震盪反彈，阿萊德20cm漲停，博傑股份、意華股份漲停，科瑞技術、川環科技、鼎通科技、思泉新材等跟漲。"
-    },
-    {
-      "id": "4911636",
-      "time": "2026-06-02 09:42:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報1044.00元。"
-    },
-    {
-      "id": "4911635",
-      "time": "2026-06-02 09:42:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量1414億元。"
-    },
-    {
-      "id": "4911634",
-      "time": "2026-06-02 09:42:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "4911633",
-      "time": "2026-06-02 09:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州開通預提住房公積金支付存量住房購房款業務】鄭州住房公積金管理中心、鄭州市住房保障和房地產管理局釋出通知，開通預提住房公積金支付存量住房購房款業務。擬在鄭州市（市內八區）購買存量住房的鄭州住房公積金繳存職工，符合住房公積金購房提取條件時，可於《鄭州市存量房買賣合同》備案後，提取買受人及其配偶、共有權人的住房公積金，用於支付購房款，提取資金轉入《鄭州市存量房交易結算資金監管協議》載明的監管賬戶。"
-    },
-    {
-      "id": "te:economy:555524",
-      "time": "2026-06-02 09:41:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Australia Private House Approvals Fall in April — Private house approvals in Australia fell by 0.1% month-over-month to 10,088 units in April 2026, slipping from a downwardly revised 0.5% rise in the previous month, preliminary estimates showed. The latest reading marked the first month of decline since last November. Regionally, private sector house approvals decreased in New South Wales (-13.8%) and Western Australia (-1.2%), while increasing in South Australia (11.4%), Victoria (2.2%), and Queensland (0.9%). On an annual basis, private house approvals rose by 7% in April, marking the softest growth in five months and slowing from an upwardly revised 12.4% surge in the preceding period."
-    },
-    {
-      "id": "mkt:019e85fd-ddf6-7aa2-99e8-8091cb1c0ca0",
-      "time": "2026-06-02 09:41:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Where to Park Spare Cash: Short-term Money-market Yield Snapshot】Tencent Licaitong (current account, 7-day annualized yield) ranged 0.7570%–1.1520%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 1.0030%–1.440%. Alipay Yu’e Bao 7-day annualized yield ranged 1.0000%–1.1150%."
-    },
-    {
-      "id": "mkt:019e85fd-db40-7aa2-99e8-7f0105f6277c",
-      "time": "2026-06-02 09:41:04",
-      "tags": [
-        "MKT News",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share component sector surged in a short-lived rally; Zhongjing Electronics hit the daily limit. Component makers Junya Technology, Weiergao, Shengyi Electronics, Fenghua High‑Tech and Maijie Technology also rose."
-    },
-    {
-      "id": "4911632",
-      "time": "2026-06-02 09:40:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【元件板塊短線拉昇，中京電子漲停】元件板塊短線拉昇，中京電子漲停，駿亞科技、威爾高、生益電子、風華高科、麥捷科技等紛紛走高。"
-    },
-    {
-      "id": "4911631",
-      "time": "2026-06-02 09:40:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CPO概念股盤初拉昇，意華股份漲停，聯特科技漲超10%，凱格精機、智立方、新易盛、東山精密漲超5%。"
-    },
-    {
-      "id": "4911630",
-      "time": "2026-06-02 09:40:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌1.5個基點至2.665%。"
     }
   ]
 }
