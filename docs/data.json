@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 05:05:02",
+  "updated": "2026-06-10 05:08:51",
   "count": 18707,
   "items": [
+    {
+      "id": "4926701",
+      "time": "2026-06-10 05:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長敦促地區外國軍隊撤離】伊朗外長阿拉格齊當地時間6月9日晚在社交媒體平臺發文指出，“靠近我國領土的外國軍隊時刻面臨著因自身人為失誤、純粹意外或可能被捲入交火而產生的風險。為降低風險，最佳方案就是撤離。我們更傾向於使用外交辭令，但也懂得其他‘語言’。"
+    },
+    {
+      "id": "mkt:019eae34-e3b7-7ff4-a101-1492b3a54da3",
+      "time": "2026-06-10 05:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DRC reported confirmed Ebola cases rose to 598, including 115 deaths."
+    },
     {
       "id": "mkt:019eae33-79da-7ff4-a101-0fef47cd02e7",
       "time": "2026-06-10 05:04:29",
@@ -172630,26 +172646,6 @@
         "MKT News"
       ],
       "text": "【Cliffwater flagship private credit fund hit by 17% Q2 redemption requests】Cliffwater’s retail-facing flagship private credit fund received redemption requests equal to 17% of the fund in Q2 and has imposed withdrawal limits, capping redemptions at 5% of outstanding shares for the quarter. The fund is about $31bn. The action highlights accelerated investor exits from private credit after nine months of heavy redemptions amid asset-quality concerns in loan portfolios; selling has intensified recently as investors worry AI could disrupt heavily financed software companies in the sector."
-    },
-    {
-      "id": "4913669",
-      "time": "2026-06-03 05:08:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（6月2日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7623元，較週一紐約尾盤漲30點，日內整體交投於6.7656-6.7581元區間。"
-    },
-    {
-      "id": "mkt:019e8a27-882d-733d-881a-927e9c40ae1a",
-      "time": "2026-06-03 05:05:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM says US strike disabled Botswana-flagged tanker bound for Kharg Island】CENTCOM said on June 2 US forces in the Arabian Gulf took action against a tanker bound for Iran’s Kharg Island, rendering it dead in the water. The Botswana-flagged tanker \"Lexie\" had ignored US warnings and orders multiple times within 24 hours and failed to comply with blockade measures, CENTCOM said. A US aircraft fired a Hellfire missile into the vessel’s engine room, causing loss of propulsion. CENTCOM said that since April 13, as part of measures to block maritime traffic to and from Iranian ports, US forces have disabled six commercial vessels and diverted 122 ships. A US-Iran ceasefire remains in place."
     }
   ]
 }
