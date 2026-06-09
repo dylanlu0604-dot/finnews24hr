@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-09 14:38:23",
-  "count": 19160,
+  "updated": "2026-06-09 14:42:12",
+  "count": 19158,
   "items": [
+    {
+      "id": "4925368",
+      "time": "2026-06-09 14:41:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【桃李麵包旗下海南桃李麵包公司增資至1.3億 增幅約86%】天眼查App顯示，近日，海南桃李麵包有限公司發生工商變更，註冊資本由7000萬人民幣增至1.3億人民幣，增幅約86%。該公司成立於2019年3月，法定代表人為朱迪，經營範圍包括食品生產、糧食加工食品生產、食品經營等，由桃李麵包（603866）全資持股。"
+    },
+    {
+      "id": "4925367",
+      "time": "2026-06-09 14:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基將在塔林會見芬蘭總統與挪威首相。"
+    },
+    {
+      "id": "4925366",
+      "time": "2026-06-09 14:39:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南方兩倍做多海力士今日上漲20%，成交額超112億港元。"
+    },
+    {
+      "id": "te:economy:557540",
+      "time": "2026-06-09 14:38:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Bank Indonesia Delivers Surprise Rate Hike to Support Rupiah — Bank Indonesia unexpectedly raised its key interest rates in an off-schedule meeting on Tuesday as mounting external pressures continued to weigh on the rupiah. The central bank increased its benchmark interest rate by 25 basis points to 5.50%, while also lifting the overnight deposit facility rate to 4.50% and the lending facility rate to 6.25%. In addition to the rate hike, BI introduced measures aimed at supporting the currency, including incentives to attract foreign investment. The central bank said the policy package is intended to stabilize the rupiah amid heightened global market volatility linked to tensions in the Middle East and to keep inflation within its target range. According to BI's communication department, the decision reflects efforts to safeguard financial stability while maintaining confidence in Indonesia's economy against a backdrop of rising external risks."
+    },
+    {
+      "id": "4925365",
+      "time": "2026-06-09 14:37:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科恆股份成立稀土新材料公司】企查查APP顯示，近日，廣東科恆稀土新材料有限公司成立，經營範圍包含：稀土功能材料銷售；新材料技術研發；半導體器件專用裝置銷售；半導體器件專用裝置製造等。企查查股權穿透顯示，該公司由科恆股份全資持股。"
+    },
     {
       "id": "4925364",
       "time": "2026-06-09 14:37:51",
@@ -176711,76 +176756,6 @@
         "Impact bullish"
       ],
       "text": "Arm (ARM.O) CEO said the company may reach its $15 billion AI-chip revenue target ahead of schedule."
-    },
-    {
-      "id": "4912066",
-      "time": "2026-06-02 14:41:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "Arm CEO：或提前達成 150 億美元 AI 晶片營收目標。"
-    },
-    {
-      "id": "4912065",
-      "time": "2026-06-02 14:39:56",
-      "tags": [
-        "公司",
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "騰訊控股漲幅擴大至10%，此前媒體報道稱騰訊接近推出微信AI助手。"
-    },
-    {
-      "id": "mkt:019e870f-461d-799c-8082-b8d62f31e3bb",
-      "time": "2026-06-02 14:39:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tencent",
-        "Market Themes",
-        "AI Revolution",
-        "00700.HK",
-        "Impact bullish"
-      ],
-      "text": "Tencent Holdings (00700.HK) shares extended afternoon gains to 10%, the biggest one-day rise since Jan. 25, 2021, after reports the company is close to launching a WeChat AI assistant."
-    },
-    {
-      "id": "mkt:019e870f-42a0-7aad-a473-c1abb9f621a6",
-      "time": "2026-06-02 14:39:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "INTC.O"
-      ],
-      "text": "Intel (INTC.O) announced at Computex Taipei it is launching chips designed for rack-scale AI deployments."
-    },
-    {
-      "id": "mkt:019e870f-411b-799c-8082-aaa37746a434",
-      "time": "2026-06-02 14:39:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's negotiating team told Mehr News Agency its position is based on reversible actions and concrete, practical steps."
-    },
-    {
-      "id": "4912064",
-      "time": "2026-06-02 14:39:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長：SK海力士計劃未來五年將晶圓產能翻倍。"
-    },
-    {
-      "id": "4912063",
-      "time": "2026-06-02 14:39:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特原油期貨<LCOc1>下跌1.04美元，報每桶93.94美元，此前漲幅完全回吐。此前特朗普稱其與伊朗的談判仍在進行中。"
     }
   ]
 }
