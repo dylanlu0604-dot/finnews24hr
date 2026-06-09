@@ -1,7 +1,143 @@
 {
-  "updated": "2026-06-09 21:44:16",
-  "count": 18994,
+  "updated": "2026-06-09 21:48:23",
+  "count": 18989,
   "items": [
+    {
+      "id": "mkt:019eaca3-4498-722d-b8ad-00b77e3fe914",
+      "time": "2026-06-09 21:47:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is seeking measures to offset the impact of rising fuel inflation and that war-related effects persist."
+    },
+    {
+      "id": "4926373",
+      "time": "2026-06-09 21:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "ONEFOOTBALL與Polymarket宣佈達成合作，面向全球球迷推出足球預測市場。"
+    },
+    {
+      "id": "4926372",
+      "time": "2026-06-09 21:46:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報91.40美元/桶。"
+    },
+    {
+      "id": "mkt:019eaca2-c024-722d-b8ac-f8a2fce9ef20",
+      "time": "2026-06-09 21:46:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Brazil's finance minister said the government will cautiously evaluate measures to mitigate the impact of a war involving Iran on fuel supplies."
+    },
+    {
+      "id": "4926371",
+      "time": "2026-06-09 21:46:28",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "巴西財長：戰爭影響持續存在，力圖抵消燃油CPI上漲。"
+    },
+    {
+      "id": "4926370",
+      "time": "2026-06-09 21:46:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "DSS提交撤回IPO註冊申請。"
+    },
+    {
+      "id": "4926369",
+      "time": "2026-06-09 21:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國運通、耐克股價上漲推動道指飆升368點。"
+    },
+    {
+      "id": "mkt:019eaca0-ed54-722d-b8ac-f042d699eb99",
+      "time": "2026-06-09 21:44:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Moody's chief economist says the US economy is on the brink of recession."
+    },
+    {
+      "id": "4926368",
+      "time": "2026-06-09 21:44:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.01%，現報26190.620點；道指漲0.75%，現報51168.969點；標普500指數漲0.83%，現報7466.940點。"
+    },
+    {
+      "id": "mkt:019eaca0-b6f1-722d-b8ac-ee0f15e28f98",
+      "time": "2026-06-09 21:44:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Saidou Technology's AIVA likely to source LiDAR from RoboSense】Saidou Technology's new AIVA auto brand is expected to source its vehicle LiDAR from RoboSense, according to people familiar with the matter. AIVA's first production model, the AIVA ME7, is slated to debut in 2026. The brand will target the mainstream market above 200,000 yuan. Saidou has partnered with Volcano Engine to jointly design the AI car experience; Volcano Engine will supply the Doubao large model and intelligent cockpit technologies."
+    },
+    {
+      "id": "4926367",
+      "time": "2026-06-09 21:44:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴克萊預計，如果霍爾木茲海峽航運持續中斷，布倫特原油價格將會上漲。"
+    },
+    {
+      "id": "mkt:019eaca0-6a32-7ddc-a5f5-41ec482df58b",
+      "time": "2026-06-09 21:44:14",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 index extended gains to 1%."
+    },
+    {
+      "id": "mkt:019eaca0-55ea-722d-b8ac-dad4ecd2e149",
+      "time": "2026-06-09 21:44:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "KPMG has reached an agreement with Microsoft (MSFT.O) to help clients deploy artificial intelligence at scale."
+    },
+    {
+      "id": "4926366",
+      "time": "2026-06-09 21:44:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
     {
       "id": "4926365",
       "time": "2026-06-09 21:43:29",
@@ -174895,171 +175031,6 @@
         "宏觀"
       ],
       "text": "【江蘇蘇州公積金新政實施 上調貸款額度擴大公積金互助提取範圍】江蘇蘇州自6月1日起正式實施新一輪公積金新政，透過上調貸款最高額度、擴大公積金互助提取範圍等多方面最佳化舉措，進一步降低消費者購房綜合成本。新政落地首日，一早在蘇州多家住房公積金管理服務大廳，記者看到不少市民前來諮詢、辦理貸款申請等業務，視窗辦理量較平日有明顯攀升。此次新政大幅提高公積金貸款限額，個人公積金最高貸款額度從原先的120萬元調整為150萬元，家庭公積金最高貸款額度從原先的150萬元調整為200萬元。 新政還設定多項額度上浮規則，例如購買新建商品現房，貸款額度上浮50%；購買二星級及以上綠色建築，額度上浮20%；符合條件的消費者還可疊加享受。新政還拓寬公積金家庭互助使用範圍，支援父母、子女直系親屬之間共用公積金支付購房首付、共同辦理貸款、分攤月供。本次出臺新政自6月1日起正式執行，有效期兩年。新政上線首日，蘇州全市共受理公積金貸款申請近400筆，業務辦理量和市民諮詢熱度持續走高。 (央視財經)"
-    },
-    {
-      "id": "mkt:019e8897-ba1b-777f-8415-78cdbb603c58",
-      "time": "2026-06-02 21:48:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sky News reports sales of SpaceX shares via intermediaries including Hargreaves Lansdown may total up to $2 bln."
-    },
-    {
-      "id": "4913153",
-      "time": "2026-06-02 21:48:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：透過Hargreaves Lansdown等中介平臺出售的SpaceX股份規模可能高達20億美元。"
-    },
-    {
-      "id": "mkt:019e8897-68f2-777f-8415-775fd0cf4589",
-      "time": "2026-06-02 21:48:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran to hold funerals for late Supreme Leader Ali Khamenei in three cities】State media reported Iran will hold funeral ceremonies for late Supreme Leader Ali Khamenei in Tehran, Qom and Mashhad."
-    },
-    {
-      "id": "4913152",
-      "time": "2026-06-02 21:47:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗將在三座城市為哈梅內伊舉辦葬禮】據伊朗伊斯蘭共和國通訊社2日報道，伊朗將在德黑蘭、庫姆和馬什哈德三座城市為伊朗已故最高領袖阿里·哈梅內伊舉辦葬禮。（新華社）"
-    },
-    {
-      "id": "mkt:019e8897-18fd-777f-8415-6c82d11bae11",
-      "time": "2026-06-02 21:47:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Japan's finance minister Katayama said the government and some financial institutions will be granted access to Anthropic's Mythos model."
-    },
-    {
-      "id": "4913151",
-      "time": "2026-06-02 21:47:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣：日本政府及部分金融機構將獲得Anthropic公司Mythos大模型訪問許可權。"
-    },
-    {
-      "id": "4913150",
-      "time": "2026-06-02 21:47:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：馬斯克旗下SpaceX計劃在其IPO中加入面向英國零售投資者的配售。"
-    },
-    {
-      "id": "4913149",
-      "time": "2026-06-02 21:47:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列外交部：誰都不願自己的孩子僅有 15 秒時間逃往防空洞。真主黨是挾持整個黎巴嫩的恐怖組織。 我們必將守護本國孩童安全。"
-    },
-    {
-      "id": "mkt:019e8896-92db-777f-8415-6275a369d66c",
-      "time": "2026-06-02 21:47:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sky News reports SpaceX, owned by Elon Musk, plans to include an allocation for UK retail investors in its IPO."
-    },
-    {
-      "id": "mkt:019e8896-542b-777f-8415-5cc25775a1b1",
-      "time": "2026-06-02 21:46:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【SAIC Motor to build first European EV plant in Spain】Galicia regional government said SAIC Motor will invest an initial €200m to build its first European electric-vehicle factory in Ferrol, A Coruña. The plant is targeted to produce 120,000 vehicles a year and is expected to create more than 2,300 jobs. Construction is slated to begin in 2027 with commercial operation targeted by end-2028. The project includes an industrial zone near the local port for vehicle assembly and shipment."
-    },
-    {
-      "id": "4913148",
-      "time": "2026-06-02 21:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨宣告：為保衛黎巴嫩及其民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成殉難者與多名平民傷亡的行徑，伊斯蘭抵抗運動武裝人員在東扎烏塔爾鎮東南郊，對以軍第二輛尼米拉軍用車輛實施打擊，命中目標屬實。"
-    },
-    {
-      "id": "mkt:019e8895-fdd7-777f-8415-551cc9870c66",
-      "time": "2026-06-02 21:46:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hezbollah said it struck and confirmed a hit on the Israeli military's second Nimra vehicle on the southeast outskirts of Zawatar al-Sharqiya at 08:10 on June 2, 2026."
-    },
-    {
-      "id": "te:markets:555794",
-      "time": "2026-06-02 21:46:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Citigroup Stock Price Hits 5-week High — Citigroup shares increased to 131.97 USD, the highest since April 2026. Over the past 4 weeks, Citigroup gained 4.98%, and in the last 12 months, it increased 74%."
-    },
-    {
-      "id": "4913147",
-      "time": "2026-06-02 21:45:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上汽集團將在西班牙建設其歐洲首家電動汽車工廠】西班牙加利西亞自治區政府日前宣佈，中國上汽集團將在加利西亞建設其在歐洲的首家電動汽車工廠。加利西亞自治區政府主席魯埃達1日對媒體表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。工廠將於2027年開工建設，目標是在2028年年底前投入運營。（新華社）"
-    },
-    {
-      "id": "4913146",
-      "time": "2026-06-02 21:45:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【可可價格上漲 因美國港口庫存下降預示供應緊張】紐約可可期貨五個交易日以來首次上漲，美國庫存下降釋放出短期供應趨緊的訊號。紐約市場成交最活躍的可可期貨合約一度上漲7.8%，倫敦市場可可期貨一度上漲7.3%。ICE資料顯示，截至週一，美國港口經過認證的可可庫存已降至29萬袋以下，較上週五減少逾50%。市場高度關注這項庫存資料，因為它反映的是可用於期貨合約到期交割的受監管實物供應規模。"
-    },
-    {
-      "id": "4913145",
-      "time": "2026-06-02 21:44:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內市場煉焦煤偏強執行 焦企近期仍有第六輪提漲預期】2日國內市場煉焦煤偏強執行。供應方面，煤礦復產節奏緩慢，部分已復產的礦點產量仍低於停產前水平，資源持續偏緊，各煤種價格普遍上漲。今日呂梁離石市場主流煤種價格上漲150元/噸，其中低硫主焦煤（A11、S1、V23、G80，強度70以上）出廠價含稅現金報1750元/噸。需求方面，部分鋼廠已接受焦炭第五輪漲價，預計6月3日落地；焦企近期仍有第六輪提漲預期。當前鐵水產量維持在241萬噸，鋼廠開工率保持高位，對焦煤的剛需支撐較強。綜合來看，預計短期煉焦煤市場將延續偏強執行，後續需要關注煤礦安全檢查的實際持續時間與復產進度。"
-    },
-    {
-      "id": "4913144",
-      "time": "2026-06-02 21:44:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：與馬斯克有關聯的WIT TECH LLC在計劃建設晶片工廠之前已收購得克薩斯州6000英畝的土地。"
-    },
-    {
-      "id": "mkt:019e8894-3d7f-777f-8415-4f0108aaecbb",
-      "time": "2026-06-02 21:44:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Market sources: WIT TECH LLC, linked to Elon Musk, has acquired about 6,000 acres in Texas ahead of plans to build a semiconductor factory."
-    },
-    {
-      "id": "4913143",
-      "time": "2026-06-02 21:44:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Strategy下挫6.6%，跌至逾一個月以來的低點。"
     }
   ]
 }
