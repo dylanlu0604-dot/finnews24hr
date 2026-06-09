@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-09 22:43:46",
-  "count": 18898,
+  "updated": "2026-06-09 22:47:50",
+  "count": 18900,
   "items": [
+    {
+      "id": "4926465",
+      "time": "2026-06-09 22:46:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報65.37美元/盎司。"
+    },
+    {
+      "id": "4926464",
+      "time": "2026-06-09 22:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：越來越多的委內瑞拉原油流入美國煉油廠。"
+    },
+    {
+      "id": "4926463",
+      "time": "2026-06-09 22:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佈局“AI+能源” 南通三年行動方案出爐】據南通釋出，近日，南通市發展改革委印發《南通市加快“人工智慧+能源”融合發展三年行動方案》（以下簡稱“方案”）。方案同步釋出了“人工智慧+能源”領域已建成、在建、擬建等31個典型應用場景培育名單，涵蓋智慧電網、新能源運維、能源新興業態、火電智慧執行、油氣安全管理等關鍵領域智慧化升級。方案提出，到2028年，推動2個左右垂直領域專業大模型在能源行業深度應用，培育塑造10個以上有競爭力、可推廣、易複製的實踐案例和典型應用場景，形成具有南通特色的能源領域人工智慧創新發展新模式。"
+    },
+    {
+      "id": "4926462",
+      "time": "2026-06-09 22:44:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4310美元/盎司，日內跌1.23%。"
+    },
+    {
+      "id": "mkt:019eacd7-d7dc-7dd1-a396-db0c2b3945e3",
+      "time": "2026-06-09 22:44:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE most-active silver contract fell 4.00% intraday to 15,767.00 yuan/kg."
+    },
+    {
+      "id": "4926461",
+      "time": "2026-06-09 22:44:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4290美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "4926460",
+      "time": "2026-06-09 22:44:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報15767.00元。"
+    },
+    {
+      "id": "mkt:019eacd7-709f-7dd1-a396-d6dff2f5e014",
+      "time": "2026-06-09 22:44:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "China's precious metals futures extended losses: Shanghai silver most-active contract fell more than 3% to 15,829 yuan/kg, while Shanghai gold most-active contract dropped nearly 1% to 940.46 yuan/g."
+    },
+    {
+      "id": "mkt:019eacd7-4b03-7dd1-a396-cdb31b1788f2",
+      "time": "2026-06-09 22:44:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to $4,300/oz, down 0.69% intraday. Spot silver fell 3.5%."
+    },
+    {
+      "id": "4926459",
+      "time": "2026-06-09 22:43:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報65.82美元/盎司。"
+    },
+    {
+      "id": "4926458",
+      "time": "2026-06-09 22:43:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4320美元/盎司，日內跌0.99%。"
+    },
+    {
+      "id": "4926457",
+      "time": "2026-06-09 22:43:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4300美元/盎司，日內跌0.71%。"
+    },
+    {
+      "id": "4926456",
+      "time": "2026-06-09 22:43:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守66美元/盎司，日內跌3.78%。"
+    },
     {
       "id": "4926455",
       "time": "2026-06-09 22:42:31",
@@ -174107,105 +174229,6 @@
         "Brent"
       ],
       "text": "U.S. Secretary of State Rubio said Iran has laid mines across much of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e88ce-0faa-7aa9-a710-2722bb53d9d4",
-      "time": "2026-06-02 22:47:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The union said bank workers in Tunisia plan a three-day strike in June."
-    },
-    {
-      "id": "mkt:019e88cd-f55c-7aa9-a710-18995aa9e099",
-      "time": "2026-06-02 22:47:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England Governor Bailey said maintaining the labour supply is necessary to support economic growth."
-    },
-    {
-      "id": "mkt:019e88cd-f4ec-7aa9-a710-171bc25c3df4",
-      "time": "2026-06-02 22:47:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【Huawei Digital Energy and GCL Group agree to deepen compute-electricity collaboration】On June 2, 2026 at the 19th International Photovoltaic and Smart Energy & Storage and Battery Conference in Shanghai, GCL Group chairman Zhu Gongshan met Huawei director and Huawei Digital Energy president Hou Jinlong; the parties agreed to deepen compute-electricity collaboration and reached several important understandings."
-    },
-    {
-      "id": "4913279",
-      "time": "2026-06-02 22:47:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗必須非常明確地宣佈霍爾木茲海峽現已開放。"
-    },
-    {
-      "id": "mkt:019e88cd-84a2-7aa9-a710-0fad08cafeee",
-      "time": "2026-06-02 22:47:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio says Iran is attacking commercial vessels."
-    },
-    {
-      "id": "mkt:019e88cd-7ed7-7aa9-a710-05fbfdc4f3a8",
-      "time": "2026-06-02 22:47:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Secretary of State Rubio said Iran pledged to open the Strait of Hormuz once a ceasefire took effect, but it has not."
-    },
-    {
-      "id": "4913278",
-      "time": "2026-06-02 22:47:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：需保障勞動力供給以拉動經濟增長。"
-    },
-    {
-      "id": "mkt:019e88cd-51f9-7aa9-a70f-fe38b8323e5c",
-      "time": "2026-06-02 22:46:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran must reopen the Strait of Hormuz."
-    },
-    {
-      "id": "4913277",
-      "time": "2026-06-02 22:46:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為數字能源與協鑫集團達成重要共識】6月2日，在第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會期間，協鑫集團董事長朱共山與華為董事、華為數字能源總裁侯金龍在上海會晤。雙方圍繞強強聯合深入推進算電協同合作展開交流，並達成多項重要共識。"
-    },
-    {
-      "id": "4913276",
-      "time": "2026-06-02 22:46:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【裕信銀行：對德國商業銀行的收購要約將使其直接持股比例推高至34%】最新檔案顯示，義大利裕信銀行對德國商業銀行發起的收購要約已獲得足夠多投資者的接受；一旦完成股份過戶，裕信銀行將持有其34%的股份。這一接受率表明，儘管該要約的隱含價值低於德國商業銀行目前的市場價格，但至少有一些投資者對該提議表示出興趣。裕信銀行已經實現了其既定目標，即透過提出收購更多股份的要約，來在未來機會出現時創造選擇權。"
-    },
-    {
-      "id": "4913275",
-      "time": "2026-06-02 22:45:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大量精煉銅或流入美國】6月伊始，紐約銅與倫敦銅期貨延續上行趨勢。據路透社報道，由於美國可能在6月底決定是否對精煉銅加徵進口關稅，引發市場緊張情緒，美國貿易商開始提前備貨，疊加市場套利操作再度升溫等因素，推動全球銅市進入高位博弈階段。今天（2日），國際銅價繼續走高。資料顯示，截至6月1日收盤，紐約商品交易所銅期貨主力合約價格在近一個月的時間裡累計漲幅達10%，同一時期內，倫敦金屬交易所三個月銅期貨價格的累計漲幅約為6.5%。（央視財經）"
     }
   ]
 }
