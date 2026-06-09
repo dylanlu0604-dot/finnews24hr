@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-10 03:08:13",
-  "count": 18704,
+  "updated": "2026-06-10 03:12:06",
+  "count": 18708,
   "items": [
+    {
+      "id": "4926640",
+      "time": "2026-06-10 03:11:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空首架空客A321XLR投入商業運營。"
+    },
+    {
+      "id": "mkt:019eadca-56ce-7225-91aa-99ff993c4287",
+      "time": "2026-06-10 03:09:35",
+      "tags": [
+        "MKT News",
+        "V.N",
+        "Impact bearish",
+        "MA.N"
+      ],
+      "text": "U.S. judge preliminarily approved a $38 billion settlement between Visa (V.N) and Mastercard (MA.N) and merchants over interchange (swipe) fees."
+    },
+    {
+      "id": "4926639",
+      "time": "2026-06-10 03:09:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國法官初步批准Visa和萬事達卡與商戶達成的380億美元刷卡費和解協議。"
+    },
+    {
+      "id": "mkt:019eadc8-d803-7225-91aa-90b167364ec8",
+      "time": "2026-06-10 03:08:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.74% at 24,441, trading 125 points below the cash index."
+    },
     {
       "id": "4926638",
       "time": "2026-06-10 03:06:53",
