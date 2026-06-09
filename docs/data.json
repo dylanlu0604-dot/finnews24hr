@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-09 13:12:12",
+  "updated": "2026-06-09 13:16:10",
   "count": 19196,
   "items": [
+    {
+      "id": "4925235",
+      "time": "2026-06-09 13:15:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼基準股指大漲超5% 國有銀行領漲】印尼基準股指創一年多來最大漲幅，此前由於擔心政府政策不確定性、可投資性以及印尼盾貶值，當地股票被嚴重超賣。雅加達綜合指數一度漲5.3%，創2025年4月以來最大漲幅。國有銀行領漲，印尼議會副議長Sufmi Dasco Ahmad稱，考慮到當前市場暴跌，已就國有銀行回購股份的可能性進行了討論。"
+    },
+    {
+      "id": "te:markets:557502",
+      "time": "2026-06-09 13:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.65% — Top currency gainers are South Korean Won (0.65%), New Zealand Dollar (0.32%), Swedish Krona (0.28%), British Pound (0.16%) and Euro (0.11%). Biggest loser is Dollar Index (-0.07%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4925234",
+      "time": "2026-06-09 13:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【再熱蒸汽溫度達631攝氏度 “全球最燙”發電機組投產】6月8日，由東方電氣集團研發提供三大主機和關鍵輔機等裝置的世界首臺630攝氏度等級二次再熱超超臨界百萬千瓦煤電機組——大唐山東鄆城630攝氏度國家電力示範專案1號機組順利完成168小時滿負荷試執行，正式投入商業運營。這是目前全球溫度最高、壓力最高、效率最高、煤耗最低的煤電機組，為我國清潔高效煤電產業發展注入新動能。 該專案作為全球引數領先的百萬千瓦二次再熱機組，入選國家能源局第四批能源領域首臺（套）重大技術裝備名單。機組核心引數全面重新整理全球紀錄：再熱蒸汽溫度631攝氏度、主蒸汽壓力35.5兆帕、發電效率50.05%、發電煤耗低至245.74克/千瓦時。與常規百萬千瓦機組相比，該專案每年可節約標準煤約20.8萬噸，減少二氧化碳排放54萬噸。"
+    },
+    {
+      "id": "4925233",
+      "time": "2026-06-09 13:13:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止13:13，兩市100只個股漲停。"
+    },
+    {
+      "id": "4925232",
+      "time": "2026-06-09 13:12:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國臺灣證交所加權股價指數上漲3%至44,821.17點。"
+    },
+    {
+      "id": "4925231",
+      "time": "2026-06-09 13:12:03",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【訊息人士：瑞士議員擬就瑞銀資本規則推出新折中方案】據媒體援引訊息人士報道，瑞士議員正考慮一項新提議，放寬對瑞銀的資本監管要求。該方案若落地，將大幅削減政府草案給這家銀行帶來的數十億美元合規壓力。瑞士政府今年4月向議會提交法案草案，擬出臺更嚴苛監管規定，避免瑞士信貸危機重演。草案要求瑞銀必須以一級核心資本（CET1）為其所有海外機構提供全額資本支援。2023年瑞士信貸倒閉後被瑞銀收購，瑞銀也成為瑞士目前僅剩的一家全球性銀行。該行此前批評這份監管草案要求“過於嚴苛”。四名知情人士透露，新折中方案擬將瑞銀海外子公司的一級核心資本支援比例下調至70%或80%，而非政府草案要求的100%。相關討論仍處於保密階段，上述訊息人士要求匿名。"
+    },
     {
       "id": "4925230",
       "time": "2026-06-09 13:11:16",
@@ -176990,65 +177045,6 @@
         "國際"
       ],
       "text": "日本10年期國債收益率下跌10個基點，至2.580%。"
-    },
-    {
-      "id": "mkt:019e86c2-6174-7dd4-a7a7-7e150bf8a798",
-      "time": "2026-06-02 13:15:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "【Qualcomm CEO Amon: intelligent agents a reality, endpoint transformation set to accelerate】Qualcomm President and CEO Cristiano Amon, in the opening keynote at COMPUTEX 2026 in Taipei, said intelligent agents are becoming the primary driver of AI token demand, enabling AI at scale and shaping future AI architecture and economics. He said future agents will proactively run compute on users’ behalf, auto‑assign tasks and exploit end‑to‑end compute across all scenarios."
-    },
-    {
-      "id": "4911907",
-      "time": "2026-06-02 13:15:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【江西銅業觸及漲停】江西銅業觸及漲停，成交額33.33億元。"
-    },
-    {
-      "id": "4911906",
-      "time": "2026-06-02 13:13:59",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【黃仁勳將亮相韓國熱門綜藝節目】韓國TvN電視臺週二宣佈，英偉達CEO黃仁勳將在即將到來的首爾之行中作客韓國熱門綜藝節目《You Quiz on the Block》。《You Quiz on the Block》是韓國收視率最高的脫口秀節目之一，由人氣喜劇演員劉在石主持。微軟聯合創始人比爾·蓋茨去年8月訪韓時就曾作客這檔節目。TvN的運營商CJ ENM表示，黃仁勳將與劉在石探討其人生歷程，以及他對人工智慧和社會未來的看法。"
-    },
-    {
-      "id": "4911905",
-      "time": "2026-06-02 13:13:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬爾地夫將限制16歲以下青少年訪問部分社媒平臺】當地時間6月1日，馬爾地夫總統穆伊茲在新聞釋出會上宣佈，政府決定限制16歲以下青少年訪問某些社交媒體平臺，該規定將在一年內全面實施。馬爾地夫政府表示，此舉旨在保障兒童福祉和社群安全。目前，馬爾地夫政府對針對青少年的網路誘騙、網路霸凌等內容的傳播十分擔憂。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e86c0-29f7-7dd4-a7a7-714ab35434eb",
-      "time": "2026-06-02 13:13:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "0700.HK",
-        "Impact bullish",
-        "3690.HK",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Tech Index afternoon gains widened to about 4%; Hang Seng Index rose 1.74%. Tencent Holdings (0700.HK) climbed nearly 9%; Meituan (3690.HK) gained over 8%."
-    },
-    {
-      "id": "4911904",
-      "time": "2026-06-02 13:13:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部官員6月1日宣佈，五角大樓新聞辦公室已改為保密區域，禁止媒體記者進入。(新華社)"
     }
   ]
 }
