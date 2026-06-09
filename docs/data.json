@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-10 04:04:07",
-  "count": 18712,
+  "updated": "2026-06-10 04:07:57",
+  "count": 18710,
   "items": [
+    {
+      "id": "4926672",
+      "time": "2026-06-10 04:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技任命亞歷克西斯·布萊克·比約林進入董事會。"
+    },
+    {
+      "id": "mkt:019eadfd-effa-7225-91ab-07d191624d94",
+      "time": "2026-06-10 04:06:00",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities on Tuesday, June 9: Dow Jones Industrial Average closed up 86.04 points (+0.17%) at 50,872.05; S&P 500 closed down 19.20 points (-0.26%) at 7,386.53; Nasdaq Composite closed down 250.84 points (-0.97%) at 25,678.82."
+    },
+    {
+      "id": "te:markets:557772",
+      "time": "2026-06-10 04:05:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 and Nasdaq Close Lower — The S&P 500 and Nasdaq closed 0.25% and 1% lower respectivelly on Tuesday despite a retreat in oil prices, as the recent rebound in semiconductor shares lost steam. Semiconductor stocks came under renewed pressure, with the iShares Semiconductor ETF dropping more than 3% after rallying 6% on Monday. The fund had plunged 10% on Friday, its worst single-day decline in six years, as investors worried that the AI-fueled surge in chip stocks had become overheated. Micron Technology fell nearly 5%, giving back part of Monday’s 10% recovery. The stock had already lost about 20% over two trading sessions last week, including a steep 13% decline on Friday. Broadcom, which also suffered a sharp two-day selloff last week, slipped more than 2%. In contrast, the Dow Jones gained 0.2% boosed by J&J, Visa and JP Morgan."
+    },
+    {
+      "id": "4926671",
+      "time": "2026-06-10 04:05:54",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團首席財務官表示，美國經濟與民眾消費展現出韌性。"
+    },
+    {
+      "id": "mkt:019eadfd-d8cd-7225-91aa-f979eeade6d2",
+      "time": "2026-06-10 04:05:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran denies deliberate strike on US military helicopter】Iran's deputy foreign minister told Al Jazeera the US Apache helicopter that crashed in the Strait of Hormuz yesterday was not deliberately targeted by Iran and Tehran denies responsibility, but he warned that, amid heightened regional tensions, such incidents could be \"intentionally provoked\"."
+    },
+    {
+      "id": "4926670",
+      "time": "2026-06-10 04:05:29",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛在5月就業資料向好後，取消對美聯儲2026年降息的預判，將降息預期調整至2027年。"
+    },
     {
       "id": "mkt:019eadfb-1fdf-7225-91aa-f7b534113bfe",
       "time": "2026-06-10 04:02:56",
@@ -172607,74 +172672,6 @@
         "Importance 0"
       ],
       "text": "Palo Alto Networks earnings above expectations at 0.85 USD — Palo Alto Networks (PANW) released earnings per share at 0.85 USD, compared to market expectations of 0.8 USD."
-    },
-    {
-      "id": "4913640",
-      "time": "2026-06-03 04:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "猶他美容一季度淨銷售32億美元，分析師預期31.1億美元。維持全年淨銷售預期增速在6%-7%不變。"
-    },
-    {
-      "id": "mkt:019e89f2-823b-733d-8819-8edc8881bd3e",
-      "time": "2026-06-03 04:07:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said on the World Cup the U.S. is determined not to allow individuals linked to the Iranian Revolutionary Guard (IRGC) to \"mix into\" Iran's delegation."
-    },
-    {
-      "id": "4913639",
-      "time": "2026-06-03 04:07:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "派拓網路第三財季調整後每股收益（EPS）為0.85美元，分析師預期0.79美元。\n預計全年營收114.2億-114.3億美元，公司原本預計112.8億-113.1億美元。\n派拓網路（PANW）美股盤後漲12%。"
-    },
-    {
-      "id": "4913638",
-      "time": "2026-06-03 04:06:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 美國決意杜絕伊朗在代表團中安插任何與伊朗革命衛隊有關聯的人員。"
-    },
-    {
-      "id": "4913637",
-      "time": "2026-06-03 04:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 對球迷簽證辦理進展 “相當滿意”。"
-    },
-    {
-      "id": "mkt:019e89f1-2742-733d-8819-843ee3fdd7ab",
-      "time": "2026-06-03 04:05:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said he speaks with FIFA nearly every day on World Cup matters and is \"fairly satisfied\" with the visa process for fans."
-    },
-    {
-      "id": "mkt:019e89f0-fa4f-733d-8819-78e656081d8a",
-      "time": "2026-06-03 04:05:31",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "US equities closed mixed-higher on Tuesday, June 2: Dow Jones Industrial Average +228.91 pts (+0.45%) to 51,307.79; S&P 500 +9.94 pts (+0.13%) to 7,609.90; Nasdaq Composite +7.09 pts (+0.03%) to 27,093.90."
-    },
-    {
-      "id": "4913636",
-      "time": "2026-06-03 04:05:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：幾乎每日同國際足聯就世界盃事宜溝通接洽。"
     }
   ]
 }
