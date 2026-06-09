@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-10 05:37:43",
-  "count": 18704,
+  "updated": "2026-06-10 05:41:34",
+  "count": 18707,
   "items": [
+    {
+      "id": "mkt:019eae54-5493-7ff4-a101-822ba6ada547",
+      "time": "2026-06-10 05:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. House passes roughly $70 bln immigration enforcement funding bill】On June 9 local time the U.S. House passed the roughly $70 billion \"Secure America Act\", supplying funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol through the remainder of President Trump's term. The bill, which the Senate approved last week, will be sent to the president for signature. Democrats sought enforcement reforms — including officer body cameras and judicial authorization before home entries — but Republicans opposed those changes."
+    },
+    {
+      "id": "4926721",
+      "time": "2026-06-10 05:40:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國眾議院透過約700億美元的移民執法撥款法案】當地時間6月9日，美國眾議院透過總額約700億美元的《安全美國法案》，為美國移民與海關執法局（ICE）和邊境巡邏隊提供資金直至美國總統特朗普本屆任期結束。該法案上週已獲參議院透過，下一步將提交美國總統簽署成為法律。法案旨在為ICE和邊境巡邏隊提供資金支援。此前，民主黨要求推動移民執法改革，包括要求執法人員佩戴隨身攝像機及進入住宅前取得司法授權，但遭共和黨反對。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eae54-52f6-7ff4-a101-7e627dc4a77c",
+      "time": "2026-06-10 05:40:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard at Bandar Abbas port in Iran."
+    },
+    {
+      "id": "mkt:019eae54-11b2-7ff4-a101-76df30f837de",
+      "time": "2026-06-10 05:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reports explosions were heard in eastern Hormozgan province."
+    },
+    {
+      "id": "4926720",
+      "time": "2026-06-10 05:39:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗南部多地遭美軍空襲】當地時間今天（6月10日）凌晨，伊朗南部霍爾木茲甘省東部地區，包括格什姆島以及錫裡克、米納布等地在內，均傳出爆炸聲，防空系統啟動。美軍中央司令部稍早前宣佈，美軍已對伊朗發動襲擊，以報復美軍一架“阿帕奇”直升機被擊落。"
+    },
+    {
+      "id": "4926719",
+      "time": "2026-06-10 05:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗霍爾木茲甘省部分地區發生爆炸】當地時間10日凌晨，伊朗南部霍爾木茲甘省東部地區，包括錫裡克、米納布等，發生數起爆炸。爆炸的確切來源和地點尚不清楚，但當地訊息人士稱，該省部分地區有防空系統啟動。美國中央司令部稍早前宣佈，美軍已對伊朗發動襲擊，以報復一架“阿帕奇”直升機被伊朗方面擊落。（央視新聞）"
+    },
     {
       "id": "mkt:019eae51-3a25-7ff4-a101-6956cab4a45d",
       "time": "2026-06-10 05:36:59",
@@ -172618,32 +172671,6 @@
         "Importance 0"
       ],
       "text": "HRC Steel Hits 4-week Low — HRC Steel decreased to 1122.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 4.22%, and in the last 12 months, it increased 36.44%."
-    },
-    {
-      "id": "mkt:019e8a48-c175-733d-881a-fe9de8e4aaac",
-      "time": "2026-06-03 05:41:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's Mehr News Agency, citing local sources and residents, reported explosions were heard in the Qeshm Island area."
-    },
-    {
-      "id": "4913689",
-      "time": "2026-06-03 05:40:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社援引當地訊息人士與居民訊息稱，格什姆島周邊區域傳出爆炸聲。"
-    },
-    {
-      "id": "4913688",
-      "time": "2026-06-03 05:39:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大政府負責加美貿易的部長勒布朗： 已收到美國貿易代表格里爾與墨西哥經濟部長髮來的信函，但拒絕披露信件內容。"
     }
   ]
 }
