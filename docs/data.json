@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-09 21:32:20",
-  "count": 18994,
+  "updated": "2026-06-09 21:36:31",
+  "count": 18987,
   "items": [
+    {
+      "id": "4926351",
+      "time": "2026-06-09 21:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "據悉印度以安全擔憂為由凍結星鏈專案的審批。"
+    },
+    {
+      "id": "mkt:019eac98-3adb-7ddc-a5f5-1ff016ac0a34",
+      "time": "2026-06-09 21:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India has frozen approvals for SpaceX's Starlink project, citing security concerns, sources said."
+    },
+    {
+      "id": "mkt:019eac98-1a0b-7ddc-a5f5-1216e8607d66",
+      "time": "2026-06-09 21:35:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks opened higher on Tuesday, June 9: Dow Jones Industrial Average up 244.99 points (+0.48%) at 51,031.00; S&P 500 up 44.17 points (+0.60%) at 7,449.90; Nasdaq Composite up 203.49 points (+0.79%) at 26,133.16."
+    },
+    {
+      "id": "mkt:019eac98-092c-7ddc-a5f5-0d6b2c950c12",
+      "time": "2026-06-09 21:34:59",
+      "tags": [
+        "MKT News",
+        "RBLX.O",
+        "Impact bullish"
+      ],
+      "text": "Interfax reports Russia is considering lifting its block on US online gaming platform Roblox."
+    },
+    {
+      "id": "mkt:019eac97-24f4-7ddc-a5f5-061bb4375b01",
+      "time": "2026-06-09 21:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said fiscal and monetary policy need to be coordinated."
+    },
+    {
+      "id": "4926350",
+      "time": "2026-06-09 21:33:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我們需要協調財政政策和貨幣政策。"
+    },
+    {
+      "id": "mkt:019eac96-c4fc-7ddc-a5f4-fc5e0db5a276",
+      "time": "2026-06-09 21:33:42",
+      "tags": [
+        "MKT News",
+        "SIRI.O",
+        "Impact bullish"
+      ],
+      "text": "Sirius XM (SIRI.O) shares rose 4.1% after the company was named for inclusion in the S&P MidCap 400 index."
+    },
+    {
+      "id": "te:markets:557698",
+      "time": "2026-06-09 21:33:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Higher — US equities were higher on Tuesday as energy prices pulled back and AI infrastructure extended its rebound. The S&P 500, Nasdaq 100, and Dow were around 0.6% higher. Oil and fuel prices eased as Iran and Israel held off from exchanging fire since their weekend operations, allowing for more negotiations between Tehran and Washington for a potential agreement that restores energy exports. Equities were supported by a rebound for Treasuries as markets gauged whether the Fed will deliver a rate hike this year. Pressure on fixed-income will be tested again tomorrow with May's inflation rate, set to rise further. Meanwhile, chips and datacenter stocks extended their rebound from yesterday after Friday's plunge. OpenAI confidentially filed for an IPO and Anthropic raised more cash, pointing to more spending on AI infrastructure. Nvidia gained over 1% and Micron extended its surge with a 4% jump, while Oracle gained 1% ahead of earnings this week."
+    },
+    {
+      "id": "4926349",
+      "time": "2026-06-09 21:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合天然食品預測全年銷售額低於預期，股價應聲急挫20.4%。"
+    },
+    {
+      "id": "mkt:019eac96-226b-7ddc-a5f4-f3ffc06f798b",
+      "time": "2026-06-09 21:33:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "NUVL.O",
+        "Impact bullish"
+      ],
+      "text": "Nuvalent (NUVL.O) opened up 39%, hitting an intraday record high."
+    },
+    {
+      "id": "4926348",
+      "time": "2026-06-09 21:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯考慮解除對羅布樂思（Roblox）的封禁。"
+    },
+    {
+      "id": "4926347",
+      "time": "2026-06-09 21:32:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SAILPOINT公佈季度業績後股價下跌12.9%。"
+    },
+    {
+      "id": "4926346",
+      "time": "2026-06-09 21:31:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "APPLIED DIGITAL 股票開盤上漲 13%。"
+    },
     {
       "id": "4926345",
       "time": "2026-06-09 21:31:33",
@@ -174881,213 +175003,6 @@
         "觀點"
       ],
       "text": "【SpaceX要求壓低IPO承銷費率 但投行仍有望分食5億美元收入】馬斯克旗下SpaceX正在與經手其IPO的華爾街投行談判，希望支付極低的費率。不過，即便收費標準大幅壓低，負責此次上市的銀行仍有望從這場創紀錄的IPO中獲得約5億美元收入。馬斯克旗下這家航天與人工智慧集團計劃於本月進行IPO，目標募資規模750億美元，據知情人士透露，目前該公司正爭取將承銷費率壓低至0.75%以下。儘管這一費率遠低於通常水平，但仍將成為這些負責安排此次IPO的華爾街銀行歷史上最賺錢的上市專案之一。作為本次IPO的牽頭行，高盛集團和摩根士丹利預計將從承銷費用中獲得比其他21家參與券商更大的份額。知情人士表示，上述數字僅反映SpaceX支付的基礎承銷費用，並未包含可能額外發放的獎勵性費用。由於討論尚未公開資訊，知情人士要求匿名。SpaceX、高盛和摩根士丹利的發言人均拒絕對此置評。"
-    },
-    {
-      "id": "mkt:019e888c-c181-777f-8415-2972bcd3f25e",
-      "time": "2026-06-02 21:36:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Financial Times reports Abu Dhabi National Oil Company (ADNOC) plans to build a pipeline to bypass the Strait of Hormuz for refined petroleum products."
-    },
-    {
-      "id": "mkt:019e888c-7442-777f-8415-250150ec7a33",
-      "time": "2026-06-02 21:36:02",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "Dow Jones Industrial Average turned higher, trading up 0.25%."
-    },
-    {
-      "id": "4913133",
-      "time": "2026-06-02 21:35:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "NUBANK股價下跌10%，創2025年4月以來最大跌幅。"
-    },
-    {
-      "id": "4913132",
-      "time": "2026-06-02 21:34:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "道指轉漲，盤初曾下跌約0.2%。"
-    },
-    {
-      "id": "mkt:019e888b-0c1a-777f-8415-1bdd1e42947e",
-      "time": "2026-06-02 21:34:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Polish central bank left its main interest rate unchanged at 3.75%."
-    },
-    {
-      "id": "te:markets:555791",
-      "time": "2026-06-02 21:34:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Ease from Records — US stocks inched down from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. The S&P 500, Nasdaq 100, and Dow were slightly under the flatline. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Nike and IBM were both close to 3% lower. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company."
-    },
-    {
-      "id": "mkt:019e888a-9e98-777f-8415-14292d2ba822",
-      "time": "2026-06-02 21:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BSE-listed Liujin Technology dismisses CFO and company secretary after becoming uncontactable】Beijing Stock Exchange-listed Beijing Liujin Suiyue Media Technology Co. said on June 2 it has dismissed Xu Wenhai, its finance head and company secretary who participated in the firm's listing, after he became uncontactable and could not perform his duties. Xu left before his term expired. The company said he holds no company shares, is not on the list of persons subject to joint disciplinary measures for dishonesty, and has no outstanding commitments."
-    },
-    {
-      "id": "mkt:019e888a-95af-777f-8415-0ff0fa5dd618",
-      "time": "2026-06-02 21:34:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Alphabet (GOOG.O) opened down 3.6%, its largest decline since March 26."
-    },
-    {
-      "id": "4913131",
-      "time": "2026-06-02 21:34:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "SHAKE SHACK一度下跌10%，創2023年11月以來的最低水平。"
-    },
-    {
-      "id": "te:economy:555790",
-      "time": "2026-06-02 21:33:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Singapore Manufacturing PMI Rises to 5-Month High — Singapore’s Manufacturing PMI rose to 51.0 in May 2026 from 50.7 in April, marking its highest reading since December 2024 and extending the sector’s expansion streak to ten consecutive months. The improvement was driven by stronger growth in new orders, export demand, factory output, input purchases, and employment. The future business expectations index remained in expansion territory for a seventh straight month, pointing to continued optimism among manufacturers. The electronics sector, which accounts for around 40% of Singapore’s manufacturing output, also strengthened, with its PMI rising to 51.9 and extending its growth streak to twelve months. Despite the positive momentum, firms continued to face rising input costs and supply-chain constraints, as supplier delivery times lengthened for a fifth consecutive month. Still, growing order backlogs and improving business sentiment suggested manufacturers remained cautiously optimistic about near-term growth prospects."
-    },
-    {
-      "id": "4913130",
-      "time": "2026-06-02 21:33:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。"
-    },
-    {
-      "id": "mkt:019e888a-6a66-777f-8415-063adef44ec5",
-      "time": "2026-06-02 21:33:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MRVL.O",
-        "Impact bullish"
-      ],
-      "text": "MARVELL (MRVL.O) shares rose 20% to a record high; Jensen Huang said the company will become the next trillion-dollar company."
-    },
-    {
-      "id": "4913129",
-      "time": "2026-06-02 21:33:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英偉達執行長黃仁勳稱美滿電子為下一個萬億美元市值公司後，美滿電子科技股價大漲20%，創下歷史新高。"
-    },
-    {
-      "id": "4913128",
-      "time": "2026-06-02 21:33:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "維多利亞的秘密飆升45%，創紀錄新高。"
-    },
-    {
-      "id": "mkt:019e8889-dd15-799a-9e6b-1a628d514742",
-      "time": "2026-06-02 21:33:15",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom Inc (AVGO.O) shares rose 5% to a record high."
-    },
-    {
-      "id": "mkt:019e8889-a579-799a-9e6b-102787811807",
-      "time": "2026-06-02 21:33:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "Market Themes",
-        "China EV Leaders",
-        "BABA.N",
-        "Impact bullish",
-        "LI.O",
-        "JD.O"
-      ],
-      "text": "NASDAQ Golden Dragon China Index rose 2%; Li Auto (LI.O) climbed over 6%, Alibaba (BABA.N) rose 5%, and XPeng (XPEV.N) and JD.com (JD.O) gained more than 4%."
-    },
-    {
-      "id": "te:markets:555789",
-      "time": "2026-06-02 21:32:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Amazon Stock Price Hits 5-week Low — Amazon shares decreased to 255.01 USD, the lowest since April 2026. Over the past 4 weeks, Amazon lost 5.57%, and in the last 12 months, it increased 24.32%."
-    },
-    {
-      "id": "4913127",
-      "time": "2026-06-02 21:32:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）股價暴漲 36%，創歷史最大單日漲幅。"
-    },
-    {
-      "id": "4913126",
-      "time": "2026-06-02 21:32:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超2%，中進醫療漲16.01%，理想汽車漲6.60%，禾賽科技漲6.14%，世紀互聯漲5.28%，阿里巴巴漲4.78%。"
-    },
-    {
-      "id": "4913125",
-      "time": "2026-06-02 21:32:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "博通股價大漲5%，創下歷史新高。"
     }
   ]
 }
