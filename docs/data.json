@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-09 13:38:32",
-  "count": 19175,
+  "updated": "2026-06-09 13:42:42",
+  "count": 19179,
   "items": [
+    {
+      "id": "mkt:019eaae6-663f-7eec-b849-9c320e4ae102",
+      "time": "2026-06-09 13:41:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares rose more than 15%."
+    },
+    {
+      "id": "4925271",
+      "time": "2026-06-09 13:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士漲超15%。"
+    },
+    {
+      "id": "4925270",
+      "time": "2026-06-09 13:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4370美元/盎司，日內漲0.15%。"
+    },
+    {
+      "id": "te:economy:557505",
+      "time": "2026-06-09 13:41:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Estonia Trade Deficit Widens in April — Estonia’s trade deficit widened to EUR 365 million in April 2026 from EUR 347 million in the same month last year. Exports climbed 13% year-on-year to EUR 1,786 million, boosted by higher sales to both EU countries (+16%) and non-EU countries (+17%). Exports rose for mineral products (+76%), raw materials and products of the chemical industry (+23%), machinery and mechanical appliances (+21%), miscellaneous manufactured articles (+15%), electrical equipment (+13%), and transport equipment (+11%). Imports jumped 12% to EUR 2,151 million on higher purchases from both EU (+11%) and non-EU (+10%) countries. Among commodities, notable increases were seen in mineral products (+69%), optical, measuring and precision instruments (+33%), machinery and mechanical appliances (+14%), and electrical equipment (+14%). Over the first four months of the year, the country recorded a trade shortfall of EUR 1,268 million, marginally higher than the EUR 1,259 million recorded in the same period of 2025."
+    },
+    {
+      "id": "mkt:019eaae6-3238-7eec-b849-95a6b9d70026",
+      "time": "2026-06-09 13:41:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year bond yield fell 3.0 bps to 3.605%."
+    },
+    {
+      "id": "4925267",
+      "time": "2026-06-09 13:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼中央銀行：該協議還涵蓋透過管理政府在中央銀行的現金來確保銀行業和貨幣市場流動性充足的計劃。"
+    },
+    {
+      "id": "4925266",
+      "time": "2026-06-09 13:38:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：該協議涵蓋透過市場機制提高印度儲備銀行和政府債券資產收益率的計劃。"
+    },
+    {
+      "id": "mkt:019eaae3-aabf-7eec-b849-8dfcea794d17",
+      "time": "2026-06-09 13:38:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Indonesian rupiah rose to 18,100 per dollar after Bank Indonesia raised its policy rate by 25 bps."
+    },
+    {
+      "id": "4925265",
+      "time": "2026-06-09 13:38:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾走強，兌美元匯率升至18100。"
+    },
+    {
+      "id": "4925264",
+      "time": "2026-06-09 13:38:00",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼央行：與財政部達成的財政-貨幣政策協調機制，旨在支援兩大機構在各自職權範圍內開展工作。"
+    },
+    {
+      "id": "te:markets:557504",
+      "time": "2026-06-09 13:38:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Close 1.3% Higher — The NZX 50 advanced 166 points, or 1.3%, to close at 13,204 on Tuesday, recovering from losses in the previous session and reaching its highest level since May 29, mainly boosted by gains in materials, industrials, healthcare, and energy stocks. The broader index rebounded from its lowest level since May 2025, touched a day earlier, tracking gains on Wall Street, where the Nasdaq and S&P 500 rose, buoyed by a rebound in chip stocks amid renewed optimism surrounding AI. Easing tensions in the Middle East also lifted sentiment after Iran and Israel indicated they had halted their exchanges of strikes. Positive economic data from China, New Zealand's largest trading partner, further supported sentiment by reinforcing confidence in the outlook for the Chinese economy. Among the top performers were Mainfreight (4.8%), Scales Corp. (4.7%), Fisher & Paykel (2.8%), Chorus (2.8%), Auckland International Airport (2.1%), Ebos Group (2.0%), Freightways Group (1.5%), and ANZ Group (1.3%)."
+    },
     {
       "id": "mkt:019eaae2-bf75-7eec-b849-84a33a0f60dc",
       "time": "2026-06-09 13:37:27",
@@ -176780,74 +176891,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部表示，俄方已使用高精度遠端武器打擊烏克蘭國防工業設施。"
-    },
-    {
-      "id": "4911950",
-      "time": "2026-06-02 13:42:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼4月份棕櫚油出口量為190萬噸。"
-    },
-    {
-      "id": "mkt:019e86da-795f-7dd4-a7a8-32b5dab91a5c",
-      "time": "2026-06-02 13:42:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia's FSB warns foreign intelligence services use mobile devices for sabotage】Russia's Federal Security Service (FSB) warned foreign intelligence services are using mobile communication devices to support sabotage and advised against discussing classified information on or near mobile devices, saying conversations could be accessed by third parties and consequences could be irreversible. The FSB said it uncovered an operation in which a foreign intelligence service used malware-infected smartphones to obtain information from a senior Russian official."
-    },
-    {
-      "id": "mkt:019e86da-380b-7dd4-a7a8-2c331a4464dc",
-      "time": "2026-06-02 13:41:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Han Zheng meets UK foreign secretary Cooper】Beijing, June 2 — Vice President Han Zheng met UK Foreign Secretary Cooper in Beijing. Han said President Xi and Prime Minister Starmer agreed in January to develop a long-term, stable comprehensive strategic partnership and urged closer strategic communication to consolidate bilateral momentum, expand economic and people-to-people ties, and pursue multilateralism and global governance reform to boost stability and predictability. Cooper said the UK and China share broad common interests and cooperation potential in trade and investment, AI, green development and climate response, and the UK is willing to work with China to implement leaders' consensus through constructive dialogue and cooperation."
-    },
-    {
-      "id": "4911949",
-      "time": "2026-06-02 13:41:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【韓正會見英國外交大臣庫珀】6月2日，國家副主席韓正在北京會見英國外交大臣庫珀。韓正表示，今年1月，習近平主席同斯塔默首相一致同意發展中英長期穩定的全面戰略伙伴關係，開啟兩國關係新篇章。中英關係改善發展符合兩國人民利益。雙方要攜手承擔大國責任，加強戰略溝通，鞏固雙邊關係良好勢頭，不斷挖掘新機遇，孕育新動能，促進人文交流和民心相通。共同踐行真正的多邊主義，攜手推進全球治理體系改革，為世界注入更多穩定性和確定性。（新華社）"
-    },
-    {
-      "id": "mkt:019e86d9-b743-7dd4-a7a8-20b3114ec054",
-      "time": "2026-06-02 13:41:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Interfax reported the Russian Defence Ministry said it conducted large-scale strikes on Ukrainian targets."
-    },
-    {
-      "id": "4911948",
-      "time": "2026-06-02 13:40:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【晶科能源CEO曹海雲：以“本土製造，供應本土市場”策略 從五大方向推動全球化佈局】在今日舉行的晶科能源2026 SNEC新品釋出暨媒體交流會上，其CEO曹海雲首次公開亮相併表示，公司將秉承“本土製造，供應本土市場”策略，從“合作、技術與專利授權、市場準入、服務、共享”五大方向推動全球化佈局。“我們將在重點市場與合作伙伴共同推動合資公司建設，從而供應當地市場。晶科‘全球化3.0戰略’正在相關市場，尤其是美國與中東市場進行實踐。”"
-    },
-    {
-      "id": "mkt:019e86d8-ad42-7dd4-a7a8-187dc999a528",
-      "time": "2026-06-02 13:40:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "2026 FOMC voter and Minneapolis Fed President Kashkari will speak in 10 minutes."
     }
   ]
 }
