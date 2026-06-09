@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-10 00:22:41",
-  "count": 18824,
+  "updated": "2026-06-10 00:26:50",
+  "count": 18823,
   "items": [
+    {
+      "id": "4926564",
+      "time": "2026-06-10 00:25:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛和巴克萊警示：上週五美股的急挫不應被輕易視作一次性的異常波動】上週五的拋售讓習慣於動量股只漲不跌的投資者措手不及。但投資者不應輕易將其視為一次性的異常波動。巴克萊和高盛集團的交易部門發出上述警告，認為持倉擁擠、市場廣度狹窄以及利率將在更長時間維持高位的前景，使得股市更容易出現突然的回撥。高盛交易員Lee Coppersmith等人在致客戶的報告中寫道：“這些因素共同營造出一種環境，使得因子交易平倉的衝擊可能遠比指數層面波動率所顯示的水平更加劇烈。”上週五讓投資者見識到，一旦市場情緒逆轉，股市中漲幅最大的股票走勢可能多快掉頭。"
+    },
+    {
+      "id": "4926563",
+      "time": "2026-06-10 00:25:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【武磊完成第101次國家隊出場 國足0-0戰平泰國】北京時間6月9日晚，2026中國之隊國際足球邀請賽，中國男足在浙江金華主場0-0戰平泰國男足。賽前，中國足協為武磊舉辦了國家隊百場紀念儀式。此役登場，是武磊代表國家隊的第101次出戰。"
+    },
+    {
+      "id": "mkt:019ead32-0f30-7cc9-8dc0-1d6c2446b3ca",
+      "time": "2026-06-10 00:23:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy said the Merlin-1X exploration well delivered 'encouraging' subsurface results, showing good reservoir quality, light crude and low associated gas."
+    },
+    {
+      "id": "mkt:019ead31-70f9-7fff-91b5-c9ba9e7af6df",
+      "time": "2026-06-10 00:22:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA now expects global oil demand to decline in 2026, reversing its prior forecast of modest growth."
+    },
+    {
+      "id": "4926562",
+      "time": "2026-06-10 00:22:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IRNA：伊朗國防部稱將加快武器生產】據官方的伊朗通訊社(IRNA)援引宣告報道稱，伊朗國防部將調動該國“全部的科研、工業和國防能力，以加快研發和生產武裝部隊所需的裝備、武器和系統”。伊朗國防部在宣告中表示，此舉將確保伊朗軍隊保持“充分準備，並有能力捍衛國家的安全、獨立和領土完整”。"
+    },
+    {
+      "id": "mkt:019ead31-09e5-7fff-91b5-c59c8215f3ce",
+      "time": "2026-06-10 00:22:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "U.S. equities extended losses: Nasdaq fell over 3.0 pct, the S&P 500 declined 1.7 pct and the Dow slipped 0.7 pct."
+    },
     {
       "id": "mkt:019ead30-4c6f-7fff-91b5-bcce6195babe",
       "time": "2026-06-10 00:21:24",
@@ -173626,72 +173689,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Climbs to Record Close — The FTSE MIB climbed 1.6% to close at a record 50,578 on Tuesday, recouping losses from the previous session as easing sovereign bond yields supported risk appetite. Financial stocks led gains, with UniCredit rising 1.6% and Generali adding 1.9%. Luxury shares also advanced amid signs that Chinese demand is stabilizing, with Ferrari up 2%. STMicroelectronics soared 15.1% after raising its data-center revenue target, citing strong AI-driven demand and ongoing capacity expansion. Meanwhile, investors monitored developments in the Middle East after Iran suspended indirect talks with Washington over Israel's military operations in Lebanon, although US President Donald Trump maintained that negotiations were still ongoing. On the data front, Eurozone's preliminary inflation data showed the headline rate rose to 3.2% as expected, while the core inflation rose slightly more than expected to 2.5%, consolidating bets of a rate hike by the ECB next week."
-    },
-    {
-      "id": "mkt:019e8928-0141-7779-8aaa-ed4a700f912e",
-      "time": "2026-06-03 00:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF appoints Mateusz Szczurek as director of the European Department."
-    },
-    {
-      "id": "4913454",
-      "time": "2026-06-03 00:25:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "藍色起源公司執行長稱，該公司的新格倫火箭將於今年年底前恢復飛行。"
-    },
-    {
-      "id": "4913453",
-      "time": "2026-06-03 00:25:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織宣佈任命馬特烏什·舒楚雷克為歐洲部主任。"
-    },
-    {
-      "id": "4913452",
-      "time": "2026-06-03 00:24:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場資訊：受伊朗支援的伊拉克民兵組織真主旅將遵照扎伊迪總理出臺的政策，向伊拉克政府移交武器。"
-    },
-    {
-      "id": "mkt:019e8926-69f8-7779-8aaa-e47312792ba6",
-      "time": "2026-06-03 00:24:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US Secretary of State Rubio said Washington helped end the war between India and Pakistan by participating in mediation."
-    },
-    {
-      "id": "4913451",
-      "time": "2026-06-03 00:24:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全國騎行使用者破1.3億 帶動騎行裝備、摺疊腳踏車熱銷】如今，隨著各地騎行道路建設加快，騎行人群已從專業愛好者擴充套件至普通大眾，成為一種全民生活方式。這股熱潮也直接帶動了相關騎行裝備的熱銷。資料顯示，目前全國騎行使用者已突破1.3億。隨著全民健身意識深化與城市基建完善，騎行不再是小眾運動，而是演變為廣受大眾歡迎的時尚健身方式和生活休閒選擇。從城區綠道到山野小徑，從專業競技到親子娛樂，騎行正以多元化的形態融入人們的日常生活。騎行人群的擴大也帶動了相關騎行裝備熱銷。記者走訪多家門店瞭解到，目前運動腳踏車銷量保持平穩，騎行裝備成為新增長點，具有設計感的頭盔、手套和騎行服尤為熱銷。目前國內騎行裝備相關專利共1058項，外觀與實用新型專利佔比達88.1%。隨著騎行人群擴大，摺疊腳踏車因小巧輕便、便於攜帶且適合多場景使用，市場需求旺盛。一些腳踏車企業訂單大增，紛紛擴大產能趕訂單，同時依託國內產業鏈優勢，加速產品迭代升級。深圳某腳踏車有限公司相關負責人：今年摺疊車大幅增長，訂單已經到了今年10月份。摺疊車已經佔到整體產能的一半以上，現在最大的問題就是產能不足，今年計劃擴產能，擴50%以上。（央視財經）"
-    },
-    {
-      "id": "mkt:019e8924-fc32-7779-8aaa-de5f19e475cd",
-      "time": "2026-06-03 00:22:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran's uranium-enrichment capacity has been significantly degraded, but can be rebuilt over time."
     }
   ]
 }
