@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 02:33:32",
-  "count": 18704,
+  "updated": "2026-06-10 02:37:24",
+  "count": 18705,
   "items": [
+    {
+      "id": "mkt:019eada9-d7a8-7225-91aa-3ce3a9bcbe0d",
+      "time": "2026-06-10 02:34:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "US stocks recovered intraday; the Dow turned positive first as the S&P 500's decline narrowed to 0.5% and the Nasdaq's to 1.2%."
+    },
     {
       "id": "mkt:019eada8-cb4b-7225-91aa-321e2d2547af",
       "time": "2026-06-10 02:32:56",
