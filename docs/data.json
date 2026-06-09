@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-09 15:27:15",
-  "count": 19123,
+  "updated": "2026-06-09 15:31:21",
+  "count": 19121,
   "items": [
+    {
+      "id": "mkt:019eab4a-4fe1-7229-817f-a95ba16109bb",
+      "time": "2026-06-09 15:30:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【U.S. requested China resume rare‑earth exports to Japan; China reiterates export controls on military end‑uses】June 9 — At a routine Foreign Ministry briefing, spokesman Lin Jian declined to confirm media reports that the U.S. has asked China to resume rare‑earth exports to Japan, saying such queries should be directed to the relevant Chinese authorities. He reiterated that China, under law and regulation, prohibits exports of dual‑use items to Japanese military users, military end‑uses or any other end‑users/uses that would enhance Japan’s military capability or assist attempts at nuclear armament."
+    },
+    {
+      "id": "4925468",
+      "time": "2026-06-09 15:30:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美方請求中方恢復對日稀土出口，外交部回應】6月9日，外交部發言人林劍主持例行記者會。彭博社記者提問，據日本經濟新聞報道，美方請求中國恢復對日本的稀土出口。請問中方對此有何評論？林劍表示，你問到的具體情況，建議向中方的主管部門瞭解。我要強調的是，中方依法依規針對所有兩用物項禁止對日本軍事使用者、軍事用途以及一切有助於提升日本軍事實力的其他終端使用者、用途出口，目的是制止日本“再軍事化”和擁核的企圖。（北京日報）"
+    },
+    {
+      "id": "te:markets:557571",
+      "time": "2026-06-09 15:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.17% Higher — The CAC 40 Index is up by 14 points or 0.17 percent on Tuesday. Top gainers are Michelin (1.54%), Kering (1.26%) and Societe Generale (1.20%). Biggest losses came from Dassault Systemes (-1.48%), TP (-1.23%) and Bureau Veritas (-1.11%)."
+    },
+    {
+      "id": "mkt:019eab49-e861-7005-8035-2fa92bafa95c",
+      "time": "2026-06-09 15:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reported US President Trump has declared the Iran deal 'imminent' 37 times, but no agreement has been reached."
+    },
+    {
+      "id": "4925466",
+      "time": "2026-06-09 15:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜春時代新能源礦業登出用地預審】據江西省自然資源廳公告，宜春時代新能源礦業有限公司提出的《建設專案用地預審與選址意見書》（編號：用字第3609002025XS0001571號）登出申請，本機關依據《中華人民共和國行政許可法》等相關規定，作出了《建設專案用地預審與選址意見書》（編號：用字第3609002025XS0001571號）登出決定書，即日起《建設專案用地預審與選址意見書》（編號：用字第3609002025XS0001571號）依法登出。"
+    },
+    {
+      "id": "4925464",
+      "time": "2026-06-09 15:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊、阿里等入股腦機介面研發商階梯醫療】天眼查App顯示，近日，上海階梯醫療科技有限公司發生工商變更，新增阿里巴巴旗下杭州灝月企業管理有限公司、騰訊旗下上海啟善投資有限公司等為股東，同時，註冊資本由100萬人民幣增至約300.6萬人民幣。該公司成立於2021年8月，法定代表人為張世強，經營範圍包括第二類醫療器械銷售、第二類醫療器械生產、第三類醫療器械生產等，現由趙鄭拓、李雪及上述新增股東等共同持股。官網顯示，該公司是一家專注於植入式腦機介面領域的創新型科技企業。"
+    },
+    {
+      "id": "mkt:019eab49-2dbc-7005-8035-22ea0fa686eb",
+      "time": "2026-06-09 15:29:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish",
+        "1211.HK"
+      ],
+      "text": "【U.S. Adds Alibaba, BYD to 'Military‑Related' List; China Urges Washington to Stop Unreasonable Suppression】Foreign Ministry spokesman Lin Jian condemned a U.S. decision to place several Chinese companies, including Alibaba and BYD, on a 'military‑related' entities list, saying Washington is broadening national security grounds to create discriminatory lists and unreasonably suppress Chinese firms. He urged the U.S. to correct the action, stop the suppression, and warned China will take necessary measures to firmly safeguard the legitimate and lawful rights of its companies."
+    },
+    {
+      "id": "4925463",
+      "time": "2026-06-09 15:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：敦促菲方停止海上侵權挑釁和煽宣炒作】外交部發言人林劍6月9日在例行記者會上就相關問題答問時表示，黃巖島是中國的固有領土，中國對黃巖島及附近海域擁有無可爭辯的主權。中國在黃巖島開展包括科考在內的任何活動，都是主權國家的正當權利。中方敦促菲律賓方面停止海上的侵權挑釁和煽宣炒作。（新華社）"
+    },
+    {
+      "id": "4925462",
+      "time": "2026-06-09 15:28:55",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美方將阿里巴巴、比亞迪等列入“涉軍”清單，外交部：敦促美方停止無理打壓中企】6月9日，外交部發言人林劍主持例行記者會。法新社記者提問，美方將幾家中國企業，包括阿里巴巴、比亞迪等列入所謂“涉軍”企業清單，請問中方對此有何評論？林劍表示，中方一貫堅決反對美方泛化國家安全概念，劃設各類名目的歧視性清單，無理打壓中國企業。我們敦促美方糾正錯誤做法，停止對中國企業的無理打壓行徑。中方將採取必要措施，堅定維護中國企業的正當合法權益。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019eab48-b11b-7005-8035-193b5bd69e6a",
+      "time": "2026-06-09 15:28:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【EU to allow naval inspections and seizures of Russian tankers; China opposes illegal unilateral sanctions】EU will permit warships to inspect and seize tankers carrying Russian oil in the Mediterranean, citing the vessels as dangerous and intended to limit Russia’s capabilities, officials said. Reports say French and British navies seized a tanker departing Russia in early June. Chinese Foreign Ministry spokesman Lin Jian said Beijing opposes illegal unilateral sanctions that lack UN Security Council authorization and urged parties to settle disputes through dialogue."
+    },
+    {
+      "id": "4925461",
+      "time": "2026-06-09 15:28:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐盟將允許軍艦檢查扣押俄羅斯油輪，外交部：一貫反對非法單邊制裁】6月9日，外交部發言人林劍主持例行記者會。今日俄羅斯（RT）記者提問，近日，‌歐盟外交與安全政策高階代表‌卡拉斯表示，歐盟將以油輪構成危險並旨在限制俄羅斯的能力為理由，允許其在地中海的軍艦檢查並扣押運輸俄羅斯石油的油輪。據報道，6月初，法國和英國海軍已經扣押了一艘從俄羅斯駛出的油輪，請問中方對此有何評論？這是否會影響國際能源運輸的正常秩序？林劍表示：“我們注意到了有關報道。中方一貫反對缺乏國際法依據、沒有聯合國安理會授權的非法單邊制裁，呼籲有關各方透過對話協商解決問題。”（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019eab48-3865-7005-8035-15041077a9ac",
+      "time": "2026-06-09 15:28:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact mixed",
+        "EURUSD"
+      ],
+      "text": "Germany OTC day-ahead baseload power price rose 27.7% to €131.50/MWh."
+    },
+    {
+      "id": "4925460",
+      "time": "2026-06-09 15:28:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方這份報告獲國際人士稱讚，外交部：以人為核心的新型城鎮化建設成效顯著】6月9日，外交部發言人林劍主持例行記者會。記者提問，我們注意到，中國政府昨天釋出了《“以高質量城市發展助力落實聯合國2030年可持續發展議程”——中國落實〈新城市議程〉國家報告》。聯合國人居署執行主任羅斯巴赫等國際人士對此積極評價，認為中國城市發展經驗為全球南方國家提供了寶貴借鑑。請問發言人對此有何評論？林劍表示，今年是習近平主席提出全球發展倡議5週年，也是聯合國住房和城市可持續發展大會透過《新城市議程》10週年。中方釋出的這份報告，總結了中國落實《新城市議程》的積極成效，已向國際社會分享了中國推進城市可持續發展的實踐經驗。林劍指出，近年來，中國秉持習近平主席提出的人民城市重要理念，以人為核心的新型城鎮化建設成效顯著，城市空間佈局持續最佳化，配套功能日趨完善，人居環境愈加舒適，城市治理更加高效。相信在座的各位記者朋友對此也感同身受。集安全感、舒適感和未來感於一體的“中國遊”體驗，讓中國城市收穫了海外的口碑。林劍進一步介紹，“同時我們也同各國，特別是全球南方國家分享城市治理和發展經驗，開展住房發展、綠色低碳、智慧城市等領域的交流。中國還積極參與了聯合國人居領域的合作，透過舉辦世界城市系列活動，設立全球可持續發展城市獎，支援聯合國人居署推進新城市議程，得到國際社會的廣泛認可。中方也攜手各國持續推進落實全球發展倡議，深化城市領域的交流合作，為落實聯合國2030年可持續發展議程注入更多動力。”（澎湃新聞）"
+    },
+    {
+      "id": "4925459",
+      "time": "2026-06-09 15:27:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國場外交易次日基荷電價上漲27.7%，報每兆瓦時131.50歐元。"
+    },
     {
       "id": "te:markets:557569",
       "time": "2026-06-09 15:26:50",
@@ -176197,157 +176335,6 @@
         "其他"
       ],
       "text": "【野村：美團盈利前景改善料將在短期內支撐其股價】野村分析師在一份研究報告中表示，美團盈利前景的改善料將在短期內支撐其股價。野村的分析師表示，其外賣業務的盈利能力在第一季度顯著改善。他們指出，該業務在3月份實現盈利，管理層預計其將在第二季度實現盈虧平衡。“這表明，與市場擔憂相比，近期的盈利風險正在顯著改善，“他們表示。野村維持其中性評級，目標價為92.00港元。該股最新報85.20港元。"
-    },
-    {
-      "id": "4912175",
-      "time": "2026-06-02 15:31:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息稱裕信銀行收購報價將突破德國商業銀行 30% 股權門檻。"
-    },
-    {
-      "id": "te:markets:555684",
-      "time": "2026-06-02 15:31:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.63% Higher — The DAX Index is picking up 157 points or 0.63 percent on Tuesday. Gains are led by Infineon (5.44%), Zalando (3.66%) and Deutsche Post (3.04%). Biggest losers are Bayer (-4.04%), Rheinmetall (-2.26%) and Hannover Rueck (-0.97%)."
-    },
-    {
-      "id": "4912174",
-      "time": "2026-06-02 15:30:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在加沙地帶打死五名武裝人員】當地時間6月2日，以色列國防軍表示，過去幾天內，以軍在加沙地帶實施多次打擊行動，打死五名被以方認定為對以軍構成“直接威脅”的武裝人員。以軍稱，相關人員為巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）成員。目前，哈馬斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e873d-bca0-7555-bd37-7fbf93db1491",
-      "time": "2026-06-02 15:30:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed on Tuesday, June 2, up 0.08% at 987.0 yuan/gram; Silver T+D closed up 1.25% at 18,420.0 yuan/kg."
-    },
-    {
-      "id": "te:markets:555683",
-      "time": "2026-06-02 15:30:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Hits Fresh 4-Year Highs — Aluminum futures in the UK climbed above $3,780 per tonne, the highest in more than four years, as the market continued to grapple with supply disruptions. Persistent uncertainty over a US-Iran peace deal that could pave the way for the reopening of the Strait of Hormuz has raised the risk that aluminum exports from the Persian Gulf may remain constrained for longer. Supply risks have been further exacerbated by direct attacks on major refiners in the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while operations at Bahrain's ALBA remain partially suspended. Meanwhile, Guinea's stricter controls on bauxite exports have added to concerns over tighter raw material supplies. Stress in the market was also reflected in the premium of cash aluminum over three-month contracts, which surged to 19-year highs. Separately, President Donald Trump reduced tariffs on certain steel and aluminum derivative products to 15% from 25%."
-    },
-    {
-      "id": "te:markets:555682",
-      "time": "2026-06-02 15:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.85% Higher — The CAC 40 Index is up by 69 points or 0.85 percent on Tuesday. Top gainers are STMicroelectronics (8.80%), Kering (2.61%) and BNP Paribas (2.39%). Biggest losses came from TotalEnergies SE (-0.47%), Orange (-0.45%) and Thales (-0.39%)."
-    },
-    {
-      "id": "4912173",
-      "time": "2026-06-02 15:29:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天津市委書記陳敏爾、市長張工與國家能源集團董事長鄒磊一行座談】6月2日，天津市委書記陳敏爾，市委副書記、市長張工與國家能源投資集團有限責任公司黨組書記、董事長鄒磊一行座談。陳敏爾、張工代表市委、市政府歡迎鄒磊一行來津，感謝國家能源集團長期以來對天津發展的支援。陳敏爾、張工說，當前，全市上下深入貫徹習近平總書記視察天津重要講話精神，以推進京津冀協同發展為戰略牽引，發揮區位、港口、產業、科教人才等優勢，堅持智慧化、綠色化、融合化方向，深化科技創新、產業煥新、城市更新，有效盤活存量、做優增量、提升質量，推動“117專案”盤活利用和周邊區域功能提升，因地制宜發展新質生產力，培育壯大新動能。加強天津市與國家能源集團合作，是融入和服務京津冀協同發展、落實能源安全新戰略、深化央地協作的實際行動。希望國家能源集團在已有基礎上，進一步拓展在津業務佈局，在科技創新、能源保供、算電協同、港口航運等方面與我市開展深度合作，積極參與“117專案”盤活利用，努力實現共贏發展。鄒磊說，國家能源集團在津業務發展勢頭良好，堅定了我們深耕天津的信心。面向“十五五”，國家能源集團將積極融入京津冀協同發展重大國家戰略，繼續把天津作為發展的重要區域，提升能源保供能力，加大投資佈局力度，促進科技成果轉化應用，實現存量增效、增量做優，為天津高質量發展貢獻力量。座談後，天津港股份有限公司與中國神華能源股份有限公司簽署關於天津港南疆港區國能（天津）港務二期工程專案合作意向協議。（天津日報）"
-    },
-    {
-      "id": "mkt:019e873b-e7cf-7555-bd37-767fb126101e",
-      "time": "2026-06-02 15:28:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WMO: current El Niño likely to reach at least moderate strength】The WMO said in a June 2 report that most climate models project the current El Niño will develop to at least moderate strength and may intensify further. Monitoring shows equatorial central-eastern Pacific sea surface temperatures are near the El Niño threshold and subsurface waters display widespread warm anomalies, with some areas more than 6°C above normal, providing energy for continued warming over coming months. The WMO said El Niño will shift global temperature and precipitation patterns and increase the probability of heatwaves, droughts, heavy rainfall and floods. Its latest seasonal outlook projects most regions will see above‑normal temperatures in the coming months; South Asia, the Horn of Africa and parts of Central America face below‑normal rainfall and heightened drought risk."
-    },
-    {
-      "id": "te:markets:555680",
-      "time": "2026-06-02 15:28:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Coal Jumps to 9-Week High — Thermal coal futures climbed above $140 per ton, reaching their highest level in nine weeks after a deadly gas explosion at a coal mine in northern China exposed an underground network of illegal labor practices and unreported coal sales, raising concerns about tighter oversight and extended supply disruptions. The incident at a mine in China’s Shanxi province led to production suspensions and triggered intensified safety inspections across the country’s largest coal-producing region. Increased regulatory scrutiny is expected to constrain near-term coal output, potentially impacting power generation and complicating Beijing’s efforts to safeguard energy security. Meanwhile, traders continued to track developments in the Middle East, where stalled US-Iran peace negotiations and the continued near-closure of the Strait of Hormuz have kept broader energy markets under pressure."
-    },
-    {
-      "id": "4912172",
-      "time": "2026-06-02 15:28:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本強化防衛能力是為了遏制和制衡中國？中方回應】外交部發言人毛寧主持例行記者會，日前，日本首相高市早苗在社交平臺上發文表示，“在戰後最嚴峻的安保環境下，為了防衛而提升威懾力，防範紛爭於未然，正是修改防衛裝備轉移三原則的本質。”國際上有聲音認為，日本強化防衛能力是為了遏制和制衡中國，請問發言人對此有何評論？毛寧表示，炒作外部威脅、為擴軍備戰找藉口，是日本軍國主義的慣用手法。《波茨坦公告》等國際檔案明確規定，日本需完全解除武裝，不得維持能使其重新武裝的產業，這是日本的國際法義務。“歷史上對軍國主義的綏靖縱容教訓慘痛。殷鑑不遠，軍國主義的魔盒一旦開啟，沒有任何人可以獨善其身，終將養虎為患。”毛寧說。（北京日報）"
-    },
-    {
-      "id": "4912171",
-      "time": "2026-06-02 15:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波東力：公司相關精密減速器產品已實現小批次供貨】寧波東力6月2日在互動平臺表示，公司相關精密減速器產品已實現小批次供貨。未來將持續推進產能落地與業務發展。"
-    },
-    {
-      "id": "4912170",
-      "time": "2026-06-02 15:28:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盤古智慧在南京成立聚能科技公司】企查查APP顯示，近日，盤古聚能科技（南京）有限公司成立，經營範圍包含：機械裝置研發；海上風電相關係統研發；閥門和旋塞研發等。企查查股權穿透顯示，該公司由盤古智慧(301456)全資持股。"
-    },
-    {
-      "id": "4912169",
-      "time": "2026-06-02 15:28:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：希望菲方別任由個別跳樑小醜，一再破壞雙方穩定關係的努力】6月2日，外交部發言人毛寧主持例行記者會。有記者提問，菲律賓國防部長特奧多羅在香格里拉對話會上稱，中方曾向菲律賓提供化肥和燃料等物資，但未展現長期誠意，是包裝和欺騙，不管如何粉飾對菲律賓的幫助都無濟於事，不會改變馬尼拉對中國的看法。他還稱菲律賓在領土和政治上均面臨中方嚴重威脅，中方對此有何評論？毛寧表示，這位菲律賓防長多次發表涉華謬論，你剛才提到他的有關最新表態，再次表明此人完全不顧菲民生福祉，完全沒有任何知恩感恩之心，只有個人私利，甚至不惜拿民生問題搞政治作秀，嚴重損害中菲關係和雙方互信，也完全不符合菲國家和人民的利益。毛寧重申，“菲方應當認真反思，如果放任這樣的人為所欲為，中方如何繼續向菲提供物資和援助？最終買單的是誰？損害的又是誰的利益？菲方領導人多次表態願同中方妥處分歧，推動雙邊關係緩和，希望菲方言行一致，嚴格約束官員言行，不要任由個別跳樑小醜，一再破壞雙方穩定關係的努力。”（澎湃新聞）"
-    },
-    {
-      "id": "4912168",
-      "time": "2026-06-02 15:27:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界氣象組織：本輪厄爾尼諾將至少發展成中等強度事件】世界氣象組織6月2日釋出最新報告稱，多數氣候模型預計，本輪厄爾尼諾至少將發展成中等強度事件，並可能進一步增強。監測資料顯示，赤道中東太平洋海表溫度已接近厄爾尼諾形成閾值，海面以下存在大範圍異常暖水，部分割槽域溫度較常年高出6攝氏度以上，為未來數月持續升溫提供能量支援。（央視新聞）"
-    },
-    {
-      "id": "4912167",
-      "time": "2026-06-02 15:27:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗高階官員：還沒有亮出所有底牌】伊朗高階官員Sardar Asadi：我們還沒有亮出所有底牌。我們還有許多牌，如果有必要，我們會打出來。美國只想要我們完全投降，而伊朗民族永遠不會投降。既然不投降，那前方就是戰爭；因此，我們在等待，對戰爭毫無畏懼；即便北約也進入這個戰場，我們也不在乎。"
-    },
-    {
-      "id": "mkt:019e873a-f0ba-7555-bd37-6e67a3e92b4e",
-      "time": "2026-06-02 15:27:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran senior official Sardar Asadi said Iran will not surrender and is prepared for war; he said they are waiting and unafraid, and that NATO entering the battlefield would not deter them."
     }
   ]
 }
