@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-10 00:06:15",
-  "count": 18812,
+  "updated": "2026-06-10 00:10:41",
+  "count": 18802,
   "items": [
+    {
+      "id": "te:markets:557742",
+      "time": "2026-06-10 00:08:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 28567.00 Index Points, the lowest since May 2026. Over the past 4 weeks, US 100 Tech Index lost 2.47%, and in the last 12 months, it increased 30.32%."
+    },
+    {
+      "id": "4926539",
+      "time": "2026-06-10 00:07:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價進一步下跌，美國國債收益率延續下滑趨勢。"
+    },
+    {
+      "id": "4926538",
+      "time": "2026-06-10 00:07:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價推動加拿大出口創新高 順差額達到特朗普加關稅前以來最大】由於原油價格上漲推動出口創歷史新高，加拿大4月貿易順差進一步擴大。加拿大統計局週二公佈的資料顯示，該國4月貿易順差從3月的17.5億加元增至27.2億加元。這是加拿大連續第二個月實現貿易順差，也是2025年1月以來的最大順差額。加拿大對美國的貿易順差也創下2025年2月以來的最高水平，當時美國總統特朗普尚未對加拿大加徵關稅。加拿大4月出口總額增長1.6%，達到752億加元，增長範圍涉及多個領域。能源出口增長貢獻最大，價格上漲推動4月原油出口增長7%。"
+    },
+    {
+      "id": "te:markets:557741",
+      "time": "2026-06-10 00:07:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.25% Lower — The FTSE 100 Index dropped 130 points or 1.25 percent on Tuesday to close at 10243 points. Losses were led by Standard Chartered (-5.48%), Glencore (-4.12%) and HSBC Holdings (-4.05%)."
+    },
+    {
+      "id": "4926537",
+      "time": "2026-06-10 00:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局正式公佈阿爾忒彌斯三號任務四名宇航員名單。"
+    },
+    {
+      "id": "4926536",
+      "time": "2026-06-10 00:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗國家通訊社（IRNA）：伊朗國防部表示將加快武器生產。"
+    },
     {
       "id": "te:markets:557740",
       "time": "2026-06-10 00:05:17",
@@ -173363,156 +173421,6 @@
         "觀點"
       ],
       "text": "高盛CEO所羅門：希望聽取紐約市長馬姆達尼進一步闡述相關業務情況。"
-    },
-    {
-      "id": "4913427",
-      "time": "2026-06-03 00:10:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "riot平臺股價下跌0.7%，馬拉松控股股價下跌0.9%。"
-    },
-    {
-      "id": "te:markets:555831",
-      "time": "2026-06-03 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.77% Higher — The CAC 40 Index rose 63 points or 0.77 percent on Tuesday to close at 8209 points. Leading the gains are STMicroelectronics (15.93%), Danone (4.37%) and Schneider Electric (4.13%). Top losers were Capgemini (-7.61%), Dassault Systemes (-4.10%) and Carrefour (-2.75%)."
-    },
-    {
-      "id": "4913426",
-      "time": "2026-06-03 00:10:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "Coinbase Global股價下跌4.8%，Strategy股價下跌8.6%。"
-    },
-    {
-      "id": "4913425",
-      "time": "2026-06-03 00:09:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "景順PROSHARES比特幣策略交易所交易基金下跌5.7%，貝萊德安碩比特幣信託下跌5.7%。"
-    },
-    {
-      "id": "4913424",
-      "time": "2026-06-03 00:09:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "加密貨幣個股下跌，比特幣跌至兩個月低位。"
-    },
-    {
-      "id": "4913423",
-      "time": "2026-06-03 00:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：委內瑞拉的石油收益不再遭侵佔，資金現已直接用於撥付公職人員薪酬、採購醫療裝置，相關賬目同步接受審計，這是一項重大進展。"
-    },
-    {
-      "id": "mkt:019e8917-ecd3-7ff0-aaad-eea0b180e8e2",
-      "time": "2026-06-03 00:08:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's vice president said the government will seek dialogue to prevent a proposed U.S. tariff it deems unfair from taking effect."
-    },
-    {
-      "id": "mkt:019e8917-94ae-7ff0-aaad-e620196f732d",
-      "time": "2026-06-03 00:08:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said role-specific plugins are being gradually rolled out on the Codex coding platform in supported regions."
-    },
-    {
-      "id": "4913422",
-      "time": "2026-06-03 00:07:49",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：美國柴油庫存降至2003年以來最低，8月恐面臨供應危機。"
-    },
-    {
-      "id": "4913421",
-      "time": "2026-06-03 00:07:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普據悉繼續獲得稅務審計豁免 但18億美元基金計劃面臨變數】據知情人士透露，美國官員正繼續執行禁止政府對總統唐納德·特朗普及其企業的過往稅務申報進行調查的協議，而設立“反武器化基金”的計劃已被擱置。彭博新聞社此前報道稱，特朗普政府週一私下表示，將暫停推進這項規模18億美元的基金。該基金原計劃用於補償所謂遭政府“武器化”對待的受害者。因討論未公開訊息而要求匿名的知情人士稱，協議的另一部分要求不得推進在和解前對特朗普、其家族成員及其公司啟動的任何審計和稅務相關調查，這部分不受擱置該基金的的決定影響。"
-    },
-    {
-      "id": "mkt:019e8916-fb55-7ff0-aaad-dc4a3b81181e",
-      "time": "2026-06-03 00:07:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "WIX.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI said it is working with partners including Wix, Base44, Replit, Lovable, Figma, Webflow and Emergent to build a website partner ecosystem."
-    },
-    {
-      "id": "4913420",
-      "time": "2026-06-03 00:07:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "白宮記者協會將於7月24日在華盛頓再度舉辦晚宴。"
-    },
-    {
-      "id": "te:markets:555830",
-      "time": "2026-06-03 00:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.37% Higher — The FTSE 100 Index gained 39 points or 0.37 percent on Tuesday to close at 10378 points. Gains were led by Antofagasta (6.47%), Easyjet Plc (5.43%) and Glencore (4.40%). Biggest losers were Airtel Africa (-5.21%), The Sage Group (-4.37%) and Endeavour (-4.30%)."
-    },
-    {
-      "id": "mkt:019e8916-96a1-7ff0-aaad-d3f3a4ec8fa9",
-      "time": "2026-06-03 00:06:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the White House Correspondents' Association will hold an additional dinner in Washington on July 24."
-    },
-    {
-      "id": "4913419",
-      "time": "2026-06-03 00:06:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉要求石油企業自行供應生產運營所需電力。"
-    },
-    {
-      "id": "mkt:019e8916-1fe4-7ff0-aaad-cb90e77a3448",
-      "time": "2026-06-03 00:06:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI opened a preview for commercial and enterprise customers; CODEX now supports building and sharing interactive hosted websites and applications."
     }
   ]
 }
