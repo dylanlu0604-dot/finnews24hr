@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-09 23:03:58",
-  "count": 18880,
+  "updated": "2026-06-09 23:07:59",
+  "count": 18864,
   "items": [
+    {
+      "id": "4926479",
+      "time": "2026-06-09 23:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本首相與到訪的馬來西亞總理計劃發表聯合宣告，其中包含液化天然氣及石腦油相關合作承諾。"
+    },
+    {
+      "id": "mkt:019eace8-fc1f-7dd1-a397-12a339f8df44",
+      "time": "2026-06-09 23:03:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) will use data businesses have already shared with the company to tailor ads; the update does not collect any new data."
+    },
     {
       "id": "4926478",
       "time": "2026-06-09 23:02:50",
@@ -173886,182 +173908,6 @@
         "市場"
       ],
       "text": "歐元區債券收益率下跌，交易員權衡美伊談判前景。"
-    },
-    {
-      "id": "4913312",
-      "time": "2026-06-02 23:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會成員格林：迅速調整利率是有好處的，而且調整的時機與調整的力度同樣重要。"
-    },
-    {
-      "id": "mkt:019e88df-8947-7ccc-bd1f-750e3773a9fe",
-      "time": "2026-06-02 23:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Global Dairy Trade price index for the period to May 26 fell 0.6% (previous +0.6%)."
-    },
-    {
-      "id": "mkt:019e88df-44eb-7ccc-bd1f-6deb9e9a0eb0",
-      "time": "2026-06-02 23:06:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (May.26) | actual -0.6% | previous 0.6%"
-    },
-    {
-      "id": "mkt:019e88df-4022-7ccc-bd1f-66bd2b332313",
-      "time": "2026-06-02 23:06:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England MPC member Greene said the ongoing conflict has strengthened the case for rate increases and the Bank may need to tighten monetary policy in the coming weeks or months."
-    },
-    {
-      "id": "4913311",
-      "time": "2026-06-02 23:06:06",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國貨幣政策委員會委員格林：隨著衝突持續，加息理由愈發充分，未來數週或數月可能有必要收緊貨幣政策。"
-    },
-    {
-      "id": "4913310",
-      "time": "2026-06-02 23:06:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭運營的全球乳製品貿易價格指數下跌0.6%，平均售價為每噸4021美元。"
-    },
-    {
-      "id": "4913309",
-      "time": "2026-06-02 23:05:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【房利美和房地美下挫 FHFA局長身兼代理情報總監引發質疑】房利美和房地美普通股週二下跌，此前特朗普任命聯邦住房金融局(FHFA)局長Bill Pulte擔任代理國家情報總監。Pulte缺乏國安方面背景，預計他在擔任代理國家情報總監的同時將繼續兼任FHFA局長以及房利美和房地美董事長。房利美和房地美股價週二均下跌逾3%，兩家公司股價今年累計跌幅均超過30%。"
-    },
-    {
-      "id": "mkt:019e88de-c807-7ccc-bd1f-5b858f351ba2",
-      "time": "2026-06-02 23:05:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said there are signs Iran's supreme leader is, to some extent, increasingly taking an active role in related affairs. He also said there are signs the supreme leader remains alive."
-    },
-    {
-      "id": "4913308",
-      "time": "2026-06-02 23:05:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "英格蘭銀行貨幣政策委員會委員格林：儘早採取利率行動存在益處，應對的速度可以說和幅度同等重要。"
-    },
-    {
-      "id": "4913307",
-      "time": "2026-06-02 23:05:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會成員格林：即便通脹最終並非持續高企，採取行動的風險也遠不及不作為的風險嚴重。"
-    },
-    {
-      "id": "mkt:019e88dd-f192-7ccc-bd1f-536b877ca6e5",
-      "time": "2026-06-02 23:04:54",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "Bank of England Governor Bailey said the labour market is slowing due to insufficient hiring."
-    },
-    {
-      "id": "4913306",
-      "time": "2026-06-02 23:04:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：有跡象表明，伊朗最高領袖正逐步加大對相關事務的介入程度。"
-    },
-    {
-      "id": "mkt:019e88dd-9944-7ccc-bd1f-4bb26494c06a",
-      "time": "2026-06-02 23:04:43",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England MPC member Greene said acting on interest rates sooner would be beneficial; the speed of the response may be as important as the size of the move."
-    },
-    {
-      "id": "4913305",
-      "time": "2026-06-02 23:04:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英格蘭銀行貨幣政策委員會委員格林：相較於產出穩定，我給物價穩定賦予了相對更高的權重。"
-    },
-    {
-      "id": "4913304",
-      "time": "2026-06-02 23:04:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會成員格林：不採取行動的風險比採取行動的風險更嚴重。"
-    },
-    {
-      "id": "4913303",
-      "time": "2026-06-02 23:04:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會成員格林：不能指望市場收緊替我們完成政策工作。"
-    },
-    {
-      "id": "mkt:019e88dd-23fc-7ccc-bd1f-43097bccbf9c",
-      "time": "2026-06-02 23:04:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England MPC member Greene said the risk of acting is lower than the risk of not acting."
-    },
-    {
-      "id": "4913302",
-      "time": "2026-06-02 23:04:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：特朗普政府曾對巴西商品加徵關稅。"
     }
   ]
 }
