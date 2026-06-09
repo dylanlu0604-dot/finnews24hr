@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-10 07:38:20",
-  "count": 18679,
+  "updated": "2026-06-10 07:42:10",
+  "count": 18677,
   "items": [
+    {
+      "id": "4926820",
+      "time": "2026-06-10 07:41:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【海外央行將密集議息，加息預期擾動資產走勢】本週起，海外多家央行進入議息視窗期。6月9日，距例行會議尚有一週多時間，印尼央行宣佈加息25個基點——這已是該央行繼5月20日超預期加息50個基點後的再度行動。 同日，有報道稱，日本央行預計將在本月15日至16日的會議上將政策利率從0.75%上調至1.0%。與此同時，市場普遍預期歐洲央行本週將加息25個基點；美聯儲雖然大機率在本月按兵不動，但年內加息的預期正在持續升溫。 展望後續，分析人士認為，海外各類資產走勢或將繼續圍繞“加息定價”展開。財通證券宏觀首席分析師張偉在一份報告中寫道，當前市場對美元流動性緊縮的擔憂是過度的。不過，在美聯儲議息會議結果公佈之前，市場對流動性的擔憂並不會解除，因此市場可能還處在高波動狀態下，甚至會有繼續調整的風險。（上海證券報）"
+    },
+    {
+      "id": "4926819",
+      "time": "2026-06-10 07:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，特朗普支援的共和黨人史蒂夫·希爾頓預計將晉級11月加州州長決選。"
+    },
+    {
+      "id": "4926818",
+      "time": "2026-06-10 07:39:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱對伊朗作出強硬回應 伊方說將堅決回擊】美國總統特朗普9日在接受媒體採訪時說，美軍正對伊朗擊落美方一架直升機作出“非常強硬、非常有力”的回應。據美國廣播公司報道，就在美軍對伊朗採取“報復性”打擊行動之際，特朗普正在接受該媒體電話採訪。特朗普說，他認為作出回應至關重要。據伊朗塔斯尼姆通訊社報道，當地時間10日凌晨，伊朗霍爾木茲甘省東部地區，包括錫裡克、米納卜等地傳出爆炸聲，爆炸確切地點尚不清楚。當地訊息人士稱，該省部分地區有防空活動。伊朗外交部長阿拉格齊當地時間10日在社交媒體發文說，伊朗武裝力量絕不會對任何攻擊或威脅置之不理，並警告美國“若想安全，就撤出我們這個地區”。阿拉格齊還表示，美國在戰場上屢次失敗，但仍執意試探伊朗的決心。（新華社）"
+    },
+    {
+      "id": "4926817",
+      "time": "2026-06-10 07:39:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：超快鐳射裝置潛在市場空間達千億以上】華泰證券研報表示，AI算力晶片需求快速增長與原有封裝材料供給緊缺，正加速推動先進封裝材料轉向玻璃、陶瓷、M8/M9級PCB等新材料。玻璃、陶瓷及M8/M9級PCB均屬硬脆或超高硬度體系，傳統機械鑽孔、溼法刻蝕及普通鐳射加工效果不佳，而超快鐳射憑藉冷加工特性成為精密加工的解決方案。基於玻璃中介層、載板層、M9材料、類載板小孔的潛在應用推導超快鐳射裝置市場空間，潛在空間達千億以上。具備產品解決方案提供能力的裝置廠商或將持續受益，看好超快鐳射裝置行業。"
+    },
+    {
+      "id": "4926816",
+      "time": "2026-06-10 07:38:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國信證券：目前基本面改善擴散中 增量資金逐漸入場 這輪牛市有望出現輪漲】國信證券釋出研報稱，從漲跌幅和成交結構看，這輪牛市分化已經很極致。分化後是否輪漲看基本面和資金面，12-15、19-21年有輪漲，16-18年沒有。目前基本面改善擴散中，增量資金逐漸入場，這輪牛市有望出現輪漲。可能路徑：科技硬體-AI應用、智慧製造、創新藥-地產白酒券商等。"
+    },
     {
       "id": "4926815",
       "time": "2026-06-10 07:36:41",
@@ -19,6 +61,15 @@
         "公司"
       ],
       "text": "【寰宇星通完成Pre-A+輪融資】星載光電核心部元件供應商天津寰宇星通科技有限公司（簡稱“寰宇星通”）近期已完成數千萬元Pre-A+輪融資，由滁州啟金翌鑫獨家領投，上市公司金春股份追加投資，領甪資本擔任財務顧問。本輪資金將主要用於星載組合光纖放大器產線擴容、星載三軸光纖陀螺在軌搭載驗證及多款新品研發，進一步加速星載光電核心部元件的國產化程序。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606103765519812",
+      "time": "2026-06-10 07:36:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行開展1530億元逆回購操作 全額滿足一級交易商需求】專家表示，當前資金面收斂更多可能是階段性的，且拉長時間維度看，現階段資金面狀態在歷史上依然是相對寬鬆的水平；後續資金面大幅收緊的機率有限，但隨著政府債繳款增多、月中稅期臨近，資金可能依然會面臨波動。"
     },
     {
       "id": "4926813",
@@ -172346,83 +172397,6 @@
         "市場"
       ],
       "text": "美元兌日元升至160關口，為4月30日以來首次。"
-    },
-    {
-      "id": "4913800",
-      "time": "2026-06-03 07:41:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聲稱，他們使用導彈和無人機襲擊了美國海軍第五艦隊總部以及該地區的一個美國空軍基地，以報復美國對伊朗革命衛隊在吉斯姆島上的一座通訊塔的打擊。伊朗還表示，美國此前襲擊了霍爾木茲海峽附近的一艘伊朗油輪，而一艘伊朗革命衛隊海軍艦艇則以針對一艘名為Panaya的船隻作為回應。 伊朗革命衛隊警告稱，進一步干涉霍爾木茲海峽將帶來更嚴重的後果。"
-    },
-    {
-      "id": "mkt:019e8ab6-2296-733d-881c-6be71f662f32",
-      "time": "2026-06-03 07:40:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iranian media reported the Islamic Revolutionary Guard Corps said it used missiles and drones to strike the U.S. Fifth Fleet headquarters."
-    },
-    {
-      "id": "te:economy:555879",
-      "time": "2026-06-03 07:40:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index Manufacturing",
-        "Importance 1"
-      ],
-      "text": "Australia Manufacturing Stays Fragile Despite Improvement — Australia’s Ai Group Industry Index for manufacturing rose 5.1 points to -22.4 in May 2026, a three-month high that signaled modest improvement but left the sector deep in contraction. Firms continued to grapple with rising logistics costs, supply chain disruptions, elevated input prices, and uncertainty over future supplies, while weak demand and higher operating expenses weighed on sales and profitability. Upstream, chemical producers faced scaled-back re-orders, overseas competition, and mounting fuel, labor, and rent costs. Metals producers benefited from steady repeat business tied to rolling stock and refurbishment projects but reported a lack of new orders. Downstream, machinery and equipment makers cited subdued capital goods demand, supply constraints, and higher borrowing costs. Food and beverage producers found some support from product diversification, though growth was capped by rising fuel costs, raw material shortages, and softer economic conditions."
-    },
-    {
-      "id": "4913799",
-      "time": "2026-06-03 07:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍還對格什姆島上的伊朗軍方地面控制站發動了打擊。"
-    },
-    {
-      "id": "mkt:019e8ab4-ee60-733d-881c-6555b7ad4d06",
-      "time": "2026-06-03 07:39:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US says 'self-defense' strike on Iran's Qeshm Island after Iran fires missiles and drones】On June 2, CENTCOM said US forces repelled multiple ballistic missiles and one-way attack drones launched by Iran and carried out a \"self-defense\" strike on an Iranian military ground control station on Qeshm Island. CENTCOM said Iran fired several ballistic missiles at neighboring states but none hit intended targets: two missiles aimed at Kuwait failed to reach target areas or disintegrated in flight, and three missiles aimed at Bahrain were intercepted by US and Bahraini air defenses. Earlier, CENTCOM forces shot down three Iran-launched one-way attack drones that were heading toward commercial vessels in regional waters. No US personnel were injured. CENTCOM said forces will remain on heightened alert and ready to deter further Iranian aggression during the current ceasefire."
-    },
-    {
-      "id": "4913798",
-      "time": "2026-06-03 07:39:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍擊落了伊朗針對民用船員發射的三架攻擊型無人機。"
-    },
-    {
-      "id": "4913797",
-      "time": "2026-06-03 07:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：發射向巴林的三枚導彈已被美軍和巴林部隊攔截。"
-    },
-    {
-      "id": "4913796",
-      "time": "2026-06-03 07:38:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：兩枚針對科威特發射的伊朗導彈未能命中目標，或在飛行途中解體。"
     }
   ]
 }
