@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-10 05:41:34",
-  "count": 18707,
+  "updated": "2026-06-10 05:45:26",
+  "count": 18708,
   "items": [
+    {
+      "id": "4926723",
+      "time": "2026-06-10 05:44:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱對伊朗的回應“非常強硬、非常有力”】據美國廣播公司(ABC)記者援引與特朗普的通話報道，這位美國總統表示他認為美國對伊朗的回應“應該非常強硬、非常有力，美國此次行動正是如此”。特朗普說：“我認為作出回應非常重要。他們擊落了一架直升機，在我們通話之際，我們正予以回應。”"
+    },
+    {
+      "id": "mkt:019eae56-d682-7ff4-a101-8c28087438a6",
+      "time": "2026-06-10 05:43:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran warned it would respond decisively if the United States uses a military helicopter crash as a pretext to provoke further incidents."
+    },
+    {
+      "id": "4926722",
+      "time": "2026-06-10 05:42:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美債交易員建倉押注美聯儲很快將加息 週三通脹報告備受關注】債券交易員正大舉建倉，押注未來幾個月美聯儲將多次加息，其中一些人預計最早可能在9月政策會議上行動。與有擔保隔夜融資利率（SOFR）掛鉤的期權市場中，這正是當前的主題。SOFR對美聯儲政策敏感。自上週五美國就業報告意外強勁、導致債市下挫以來，交易員一直在加大對加息的押注。"
+    },
     {
       "id": "mkt:019eae54-5493-7ff4-a101-822ba6ada547",
       "time": "2026-06-10 05:40:22",
@@ -172651,26 +172681,6 @@
         "國際"
       ],
       "text": "【伊朗南部格什姆島傳出爆炸聲】當地時間6月3日凌晨，據伊朗南部格什姆島當地居民報告稱，聽到該地附近傳出爆炸聲。目前尚不清楚爆炸的具體性質，伊朗官方也暫未就爆炸原因發表評論。（央視新聞）"
-    },
-    {
-      "id": "4913690",
-      "time": "2026-06-03 05:45:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SPACEX計劃最早於週三確定IPO條款。"
-    },
-    {
-      "id": "te:markets:555855",
-      "time": "2026-06-03 05:45:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "HRC Steel Hits 4-week Low — HRC Steel decreased to 1122.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 4.22%, and in the last 12 months, it increased 36.44%."
     }
   ]
 }
