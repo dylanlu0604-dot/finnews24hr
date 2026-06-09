@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-09 12:26:20",
-  "count": 19188,
+  "updated": "2026-06-09 12:30:17",
+  "count": 19186,
   "items": [
+    {
+      "id": "4925183",
+      "time": "2026-06-09 12:28:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲3.9%，至5552.90點。"
+    },
+    {
+      "id": "4925182",
+      "time": "2026-06-09 12:28:19",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數飆升7%，收復8000點關口。"
+    },
+    {
+      "id": "mkt:019eaaa3-3a43-7eec-b848-832502ab073e",
+      "time": "2026-06-09 12:28:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index returned above the 8,000 level, rising nearly 7% intraday."
+    },
+    {
+      "id": "4925181",
+      "time": "2026-06-09 12:27:12",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【機構稱市場上漲大方向不變，有望再創新高，A500ETF南方（159352）獲淨申購1.13億元】6月9日，A股主要指數上漲，截止午盤，A500ETF南方（159352）漲幅0.7%，成交額21億元。資金流向方面，昨日資金逆勢逢低佈局，A500ETF南方（159352）獲得淨申購1.13億元，最新規模286億元。國泰海通表示，雖然海外局勢反覆或對國內交易側產生擾動，但夏日“陣雨”的衝擊不會太長，二三季度中國股市還會有不錯的表現，有望走出新高，四季度需要更穩健。光大證券認為，A股短線或有再平衡壓力，但是市場大方向仍然有望上行，一方面，基本面仍然是背後最為穩健的支撐，另一方面，AI產業趨勢方興未艾，在基本面未有明顯擾動背景下，股價仍有上行空間，宏觀因素衝擊反而將創造出更好的買入機會。國信證券指出，從市場層面來看，市場交易擁擠度已處於相對高位，不排除部分資金獲利了結、投資者分歧加大的可能，市場或進入“震盪整固+內部分化”階段。但交易擁擠僅為階段性情緒特徵，並非行情反轉的核心訊號，行情走向仍取決於產業景氣能否持續。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
+    },
+    {
+      "id": "te:markets:557488",
+      "time": "2026-06-09 12:27:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Coal Jumps as Indonesia Tightens Export Curbs — Thermal coal futures climbed above $150 per ton, reaching their highest level since September 2023 after Indonesia tightened export controls on commodities, a move expected to delay coal shipments from the country. The decision came amid stronger seasonal demand, with summer heat boosting electricity consumption for air conditioning. Ongoing disruptions linked to the Middle East conflict also continued to support coal prices, as the prolonged closure of the Strait of Hormuz forced Asian and European energy importers to seek alternatives to natural gas supplies from the Persian Gulf. Japan and South Korea, in particular, have increased their consumption of coal since the outbreak of the war. Qatar’s Ras Laffan facility has declared force majeure, removing nearly 10.2 Mtpa of LNG supply to Asia, with the partial shutdown expected to last through late summer."
+    },
     {
       "id": "4925180",
       "time": "2026-06-09 12:25:33",
@@ -176919,76 +176969,6 @@
         "國際"
       ],
       "text": "印尼4月出口額為253億美元；印尼4月出口較上年同期增長22.0%，媒體調查預估為增長8.8%。"
-    },
-    {
-      "id": "4911866",
-      "time": "2026-06-02 12:29:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【越疆釋出空弈DobotWAM具身大模型】越疆釋出自研世界動作模型空弈DobotWAM具身大模型。該模型在具身智慧標準評測基準LIBERO上，分別完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和LIBERO-10四個標準任務套件，覆蓋空間關係理解、物體泛化、目標指令理解以及長時序任務執行等關鍵能力維度，平均成功率達99.25%。"
-    },
-    {
-      "id": "4911865",
-      "time": "2026-06-02 12:29:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：基輔再次發生爆炸。"
-    },
-    {
-      "id": "mkt:019e8697-d238-7dd4-a7a6-c52ccaf6c5dd",
-      "time": "2026-06-02 12:29:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Refinitiv eyewitnesses said multiple explosions were again heard in Kyiv, Ukraine."
-    },
-    {
-      "id": "4911864",
-      "time": "2026-06-02 12:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳：未來 AI 模型可在膝上型電腦、工作站乃至 DGX Spark 等硬體上常駐執行，搭建全天候線上的 AI 智慧體】針對 AI 推理算力逐步下沉至終端裝置的行業趨勢，英偉達CEO黃仁勳提出，智慧手機早已形成分散式算力架構，部分運算在本機終端執行，剩餘算力交由雲端處理，該架構後續也會成為 AI Agent 的主流執行模式。他稱，能夠本地化處理的任務優先在終端裝置執行，此舉可以壓縮成本、減少響應時延，同時實現更優質的定製化使用體驗；未來 AI 模型可在膝上型電腦、工作站乃至 DGX Spark 等硬體上常駐執行，搭建全天候線上的 AI 智慧體。黃仁勳指出，人工智慧時代將邁入解耦分散式計算架構，未來 AI 算力負載會拆分部署在雲端、企業內網與各類終端裝置中，並實現互聯互通、無縫協同。對於終端使用者而言，無需知曉算力實際承載位置，只需享受最優的 AI 服務與使用體驗。"
-    },
-    {
-      "id": "4911863",
-      "time": "2026-06-02 12:28:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音：持續打擊網路黑灰產，配合有關部門抓捕162名犯罪嫌疑人】為切實維護健康清朗的網路生態，保障廣大使用者合法權益，抖音持續深入治理各類違法違規內容。隨著平臺治理深入，黑灰產對抗呈現出跨境作案、高隱蔽性、組織化等複雜特徵。一些不法團伙利用跨平臺多級跳轉、VPN等技術工具、隱晦暗語，不斷變換違規方式，在站內站外實施色情賭博導流、賬號買賣及代解封、虛假流量等違法違規行為。對此，抖音加強識別研判，嚴肅處置違規內容及賬號，針對違法犯罪的行為，依法固定證據並上報主管部門。今年以來，平臺已配合相關部門抓獲黑灰產犯罪嫌疑人162名。（抖音黑板報）"
-    },
-    {
-      "id": "mkt:019e8695-f6e0-7dd4-a7a6-bf7fd3eaa0d9",
-      "time": "2026-06-02 12:27:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield down 3.8 bps to 4.439%."
-    },
-    {
-      "id": "4911862",
-      "time": "2026-06-02 12:26:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期美國國債收益率下跌3.8個基點，降至4.439%。"
     }
   ]
 }
