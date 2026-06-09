@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-10 06:24:27",
-  "count": 18713,
+  "updated": "2026-06-10 06:28:17",
+  "count": 18711,
   "items": [
+    {
+      "id": "mkt:019eae7c-e8cd-7ff4-a101-fa3ba48cdac3",
+      "time": "2026-06-10 06:24:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "WTI crude erased an early 1% gain; spot gold and U.S. equity futures are down about 0.1%."
+    },
     {
       "id": "4926749",
       "time": "2026-06-10 06:21:19",
@@ -172725,36 +172737,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.15%) and Methanol (-2.10%). Gains are led by Crude Oil WTI (1.81%), Gasoline (1.47%) and Brent Crude Oil (1.19%)."
-    },
-    {
-      "id": "4913717",
-      "time": "2026-06-03 06:26:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗襲擊位於科威特的美軍基地】據伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗的襲擊目標包括位於科威特的美國阿里·阿爾薩利姆空軍基地（Ali Al-Salem Air Base）以及阿里夫詹營（Camp Arifjan）。"
-    },
-    {
-      "id": "mkt:019e8a71-ce22-733d-881b-55a267e6d80a",
-      "time": "2026-06-03 06:26:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRIB reported Iran's strikes targeted the US Ali Al-Salem Air Base in Kuwait and Camp Arifjan."
-    },
-    {
-      "id": "4913716",
-      "time": "2026-06-03 06:24:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月百基新發、多點開花，機構：A股市場中長期配置價值不改】時至6月，公募基金行業迎來了又一波發行熱潮。權益類基金新發數量突破百隻，在各類產品中佔比最高，且呈現多點開花的態勢——科技類、量化、浮動費率產品紛紛亮相。Choice資料顯示，6月新發基金數量高達191只（不同份額分開計算），其中權益類基金（股票型、混合型基金）的數量為124只，佔比達到65%。業內人士普遍判斷，A股基本面支撐仍在，在多重資金託底之下，市場階段性休整不改中長期配置價值。（上證報）"
     }
   ]
 }
