@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-10 02:22:00",
-  "count": 18730,
+  "updated": "2026-06-10 02:25:50",
+  "count": 18721,
   "items": [
+    {
+      "id": "te:markets:557769",
+      "time": "2026-06-10 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Falls by 3.07% — Top commodity losers are Butter (-3.07%), Cotton (-2.68%) and Rubber (-2.30%). Gains are led by Lumber (1.23%) and Oat (0.75%)."
+    },
     {
       "id": "mkt:019ead9d-7b92-7225-91aa-14e10fd8ac36",
       "time": "2026-06-10 02:20:39",
@@ -172762,98 +172773,6 @@
         "The Trump Trade"
       ],
       "text": "Trump said illegal immigrants and foreign scammers steal billions of dollars annually from U.S. taxpayers. He signed a new U.S. Treasury-led executive order to prevent banks, credit-card companies and other financial institutions from being used to facilitate human smuggling, drug trafficking, illegal immigration and the criminal networks that organize these activities."
-    },
-    {
-      "id": "4913584",
-      "time": "2026-06-03 02:25:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧主管：MAI-TRANSCRIBE-1.5模型是所有超大規模企業同類模型中成本效益最高的。"
-    },
-    {
-      "id": "te:markets:555846",
-      "time": "2026-06-03 02:25:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rises by 4.60% — Top commodity gainers are Cocoa (4.60%) and Rice (1.19%). Biggest losers are Oat (-3.70%), Soybeans (-1.40%) and Wheat (-0.96%)."
-    },
-    {
-      "id": "4913583",
-      "time": "2026-06-03 02:24:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧模型新增影象生成與語音轉寫模型。"
-    },
-    {
-      "id": "4913582",
-      "time": "2026-06-03 02:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人公佈包含7款全新人工智慧模型的產品系列。"
-    },
-    {
-      "id": "4913581",
-      "time": "2026-06-03 02:24:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊加沙致死3人 哈馬斯重申願移交治理權】據巴勒斯坦通訊社2日報道，以色列軍隊當天襲擊加沙地帶多地，造成3人死亡。巴勒斯坦伊斯蘭抵抗運動（哈馬斯）重申，願移交加沙地帶治理權。"
-    },
-    {
-      "id": "mkt:019e8993-f376-7779-8aad-421cb3e06d3e",
-      "time": "2026-06-03 02:23:55",
-      "tags": [
-        "MKT News",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) will update its U.S. prediction-market policy effective June 2, banning advertising for prediction-market contracts and related products in Ohio."
-    },
-    {
-      "id": "4913580",
-      "time": "2026-06-03 02:23:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普：近期簽署針對金融機構欺詐問題的行政令】特朗普在社交媒體平臺表示，非法移民與境外詐騙分子每年從美國納稅人手中竊取數十億美元。作為本屆政府打擊欺詐、遏制大規模非法移民歷史性舉措的一環，他近日簽署一項重磅行政令，由財政部牽頭落地，禁止銀行、信用卡機構及各類金融機構淪為協助人口走私、毒品販運、非法入境以及幕後操控此類犯罪活動的工具。美國金融體系的准入許可權，僅限合法居留本國、從事正當合規商貿活動的人員。凡是被用於協助非法移民、或是存放非法移民申領福利金的銀行賬戶，都將被關停，賬戶內資金最終予以查封收繳，返還給納稅人。非法移民僅憑藍州核發的駕照或是拜登政府出臺的邊境證件，就能無限制使用美國金融系統，這絕非荒唐小事，而是潛藏重大隱患。該政令也向反移民與海關執法局的鬧事者釋放明確訊號：你們的暴力滋事只會愈發堅定我們的整治決心。依託這份行政令，還能攔截數十億美元不法資金透過各類犯罪活動外流境外。有觀點認為，此項新政是扭轉拜登時期邊境非法湧入亂象最有效的舉措，成效如何，不久便能見分曉。"
-    },
-    {
-      "id": "4913579",
-      "time": "2026-06-03 02:22:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：近期簽署針對金融機構欺詐問題的行政令。"
-    },
-    {
-      "id": "mkt:019e8992-61c6-7779-8aad-39775b12153c",
-      "time": "2026-06-03 02:22:12",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【HEZBOLLAH rejects partial ceasefire with Israel; exchanges continue】A senior HEZBOLLAH official said on Feb 2 the group will not accept any partial ceasefire with Israel, rejecting proposals to trade an Israeli halt to strikes on Beirut’s southern suburbs for HEZBOLLAH stopping attacks on northern Israeli settlements. He said HEZBOLLAH only accepts a comprehensive, complete and genuine ceasefire, not a return to the pre-conflict status. Lebanon’s state news agency reported Israeli airstrikes on Feb 2 hit multiple sites in southern Lebanon including Dweir and Nabatieh, killing at least 12 and wounding four, including Lebanese army personnel. HEZBOLLAH said its fighters launched a series of attacks on Israeli forces in southern Lebanon in the early hours of Feb 2."
-    },
-    {
-      "id": "4913578",
-      "time": "2026-06-03 02:22:01",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "谷歌：將更新美國預測市場政策，禁止在俄亥俄州投放預測市場合約及相關產品廣告。"
     }
   ]
 }
