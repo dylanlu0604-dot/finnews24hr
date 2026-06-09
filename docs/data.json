@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-10 04:00:13",
-  "count": 18707,
+  "updated": "2026-06-10 04:04:07",
+  "count": 18712,
   "items": [
+    {
+      "id": "mkt:019eadfb-1fdf-7225-91aa-f7b534113bfe",
+      "time": "2026-06-10 04:02:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "DXY"
+      ],
+      "text": "The Federal Reserve will release results of its annual bank stress tests on June 24 at 4:00 p.m. ET."
+    },
+    {
+      "id": "mkt:019eadfa-008e-7225-91aa-e9cb2242c871",
+      "time": "2026-06-10 04:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "MRVL.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【US close: indexes mixed; Marvell drops more than 7%】US stocks closed mixed on Tuesday: the Dow rose 0.17%, the S&P 500 fell 0.26% and the Nasdaq dropped 0.97%. Marvell (MRVL.O) slid 7.6%, Qualcomm (QCOM.O) fell 5.6% and Tesla (TSLA.O) lost about 3%. The Nasdaq Golden Dragon China Index dropped 0.39%; Li Auto (LI.O) and NIO (NIO.N) each fell roughly 3%."
+    },
+    {
+      "id": "4926669",
+      "time": "2026-06-10 04:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗核協議肯定會在中期選舉前達成。"
+    },
+    {
+      "id": "4926668",
+      "time": "2026-06-10 04:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗核協議可能在一週內達成，也可能在幾個月內達成。"
+    },
+    {
+      "id": "4926667",
+      "time": "2026-06-10 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.15%，標普500指數跌0.27%，納指跌0.99%。Coherent Corp跌11.44%，Lumentum Holdings Inc. Common Stock When Issued跌8.23%，Strategy跌7.92%，斯馬克漲10.34%，安費諾漲7.33%，Pool Corporation漲6.34%。“七姐妹”方面：谷歌漲0.31%，Meta Platforms跌0.08%，英偉達跌0.22%，亞馬遜跌0.49%，微軟跌2.01%，特斯拉跌3.00%，蘋果跌3.67%。"
+    },
+    {
+      "id": "4926666",
+      "time": "2026-06-10 04:00:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果股價收跌3.6%，創2月12日以來最大跌幅。"
+    },
+    {
+      "id": "4926665",
+      "time": "2026-06-10 04:00:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：壓力測試結果不會影響資本要求。"
+    },
+    {
+      "id": "4926664",
+      "time": "2026-06-10 04:00:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲將於6月24日公佈華爾街銀行壓力測試結果。"
+    },
+    {
+      "id": "4926663",
+      "time": "2026-06-10 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.37%】億航跌23.54%，海天網路跌11.98%，金生遊樂跌9.49%，復朗集團跌8.45%，大全新能源跌7.64%。"
+    },
+    {
+      "id": "4926662",
+      "time": "2026-06-10 03:59:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林常駐聯合國代表稱，伊朗針對海灣國家的襲擊行為威脅地區安全，並呼籲伊朗緩和局勢。"
+    },
     {
       "id": "4926661",
       "time": "2026-06-10 03:59:25",
@@ -172575,58 +172675,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：幾乎每日同國際足聯就世界盃事宜溝通接洽。"
-    },
-    {
-      "id": "mkt:019e89ee-dca4-733d-8819-759d015fa29d",
-      "time": "2026-06-03 04:03:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "The Information reports Meta Platforms (META.O) is scaling back features of an employee-monitoring tool after staff raised concerns about privacy, battery life and control over screen data. The tool was intended to train AI models by monitoring employees’ computer usage."
-    },
-    {
-      "id": "4913635",
-      "time": "2026-06-03 04:01:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "德州儀器宣佈首席財務官人事更替。"
-    },
-    {
-      "id": "mkt:019e89ed-5480-733d-8819-6a4464373dc1",
-      "time": "2026-06-03 04:01:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "MRVL.O",
-        "Impact bullish",
-        "BABA.N",
-        "S&P500"
-      ],
-      "text": "【US close: three major indexes up; MARVELL jumps >30%】U.S. equities closed higher Tuesday. The Dow rose 0.45%, the S&P 500 gained 0.10% and the Nasdaq was little changed. Microsoft (MSFT.O) fell 4%, Google (GOOG.O) fell nearly 4%, while MARVELL (MRVL.O) surged 32%. The Nasdaq Golden Dragon China Index rose 1.8%; Alibaba (BABA.N) gained over 4%."
-    },
-    {
-      "id": "4913634",
-      "time": "2026-06-03 04:01:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "維多利亞的秘密股價收盤上漲47%，創歷史新高。"
-    },
-    {
-      "id": "4913633",
-      "time": "2026-06-03 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.45%，標普500指數漲0.13%，納指漲0.03%。邁威爾科技漲32.58%，慧與漲19.47%，Coherent Corp漲17.63%，Lumentum Holdings Inc. Common Stock When Issued漲13.75%，康寧漲13.41%，Ciena科技漲10.20%，亞歷山大房地產漲8.45%。“七姐妹”方面：蘋果漲2.94%，特斯拉漲1.89%，Meta Platforms跌0.44%，英偉達跌0.65%，亞馬遜跌1.82%，谷歌跌3.81%，微軟跌4.17%。"
     }
   ]
 }
