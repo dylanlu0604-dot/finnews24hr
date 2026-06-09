@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-09 09:55:07",
-  "count": 19164,
+  "updated": "2026-06-09 09:59:08",
+  "count": 19166,
   "items": [
+    {
+      "id": "4924984",
+      "time": "2026-06-09 09:57:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【模擬晶片概念震盪走高 傑華特20cm漲停】早盤模擬晶片概念震盪走高，傑華特20cm漲停，晶豐明源漲超10%，芯朋微、賽微微電、納芯微、南芯科技等跟漲。"
+    },
+    {
+      "id": "mkt:019eaa19-c449-7997-8099-547822245620",
+      "time": "2026-06-09 09:57:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba in talks with central nuclear power SOE to explore small modular reactors for data-center power】A source at a central nuclear power state-owned enterprise said Alibaba has approached them to discuss building small modular reactors (SMRs) to supply power to its Hangzhou Renhe data center, which has substantial electricity demand. The Renhe site, Zhejiang's first cloud computing data center, supplies compute capacity for AI workloads."
+    },
+    {
+      "id": "4924983",
+      "time": "2026-06-09 09:57:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊控股漲超4%】騰訊控股漲超4%，訊息面上，據2026年6月8日訊息，微信正式面向開發者提供接入微信AI生態的能力，開發者可在小程式管理後臺主動授權接入。"
+    },
+    {
+      "id": "4924982",
+      "time": "2026-06-09 09:56:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "航運板塊震盪走低，重慶港觸及跌停，鳳凰航運跌超8%，國航遠洋、寧波海運、安通控股、海通發展跟跌。"
+    },
+    {
+      "id": "4924981",
+      "time": "2026-06-09 09:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/ASX200指數跌幅收窄，最新下跌0.5%，報8578.10點。"
+    },
+    {
+      "id": "mkt:019eaa17-9720-7997-8099-4be2d6b026ec",
+      "time": "2026-06-09 09:55:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share cultural and media sector rallied after six ministries, including the State Administration for Market Regulation, the National Development and Reform Commission and the Cyberspace Administration, issued opinions to boost high-quality development of the advertising industry. Tiandi Online hit the daily limit; Tianyu Digital earlier hit the limit; Visual China, Jiayun Technology and Century Tianhong were among the top gainers."
+    },
+    {
+      "id": "4924980",
+      "time": "2026-06-09 09:55:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿里巴巴接洽核電央企 探討小型反應堆為資料中心供電】“阿里巴巴曾來找我們談過建設小型核反應堆的事情。”一位核電央企人士向記者表示，“阿里巴巴杭州仁和資料中心存在較大的電力需求。” 多位業內人士向記者證實了此事。 仁和資料中心是浙江首個雲端計算資料中心，承擔著強腦科技、靈伴科技等AI企業的算力支撐。 隨著人工智慧快速發展，資料中心電力需求持續增長，科技企業對穩定、清潔電力的需求日益迫切。在美國，Meta、亞馬遜、谷歌等科技巨頭已加大對下一代核電技術的關注，並分別與核電相關企業達成合作或推進相關專案，試圖以小型模組化反應堆等技術路徑匹配資料中心的電力需求。（中國經營報）"
+    },
+    {
+      "id": "4924979",
+      "time": "2026-06-09 09:54:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崇啟公鐵長江大橋主橋今日成功合龍】今天（6月9日）上午9時28分，世界最大跨度公鐵兩用無砟軌道斜拉橋——崇啟公鐵長江大橋主橋成功合龍。這座橫跨長江入海口北支航道的超級工程，在建設中攻克了多項世界級橋樑施工難題，展現了我國橋樑智慧建造的尖端水平。"
+    },
     {
       "id": "4924978",
       "time": "2026-06-09 09:54:42",
@@ -176702,63 +176774,6 @@
         "SZSE Component"
       ],
       "text": "A-share grid-equipment sector slid sharply; Liangxin hit the daily down-limit and Xinte Electric fell over 10%. Dalian Electric Porcelain, Ankao Zhidian, Jinpan Technology, Han Cable, Shuangjie Electric and Yineng Power were among the largest decliners."
-    },
-    {
-      "id": "4911668",
-      "time": "2026-06-02 09:58:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【大消費板塊逆勢拉昇 中央商場直線漲停】大消費板塊盤中逆勢拉昇，零售、食品飲料方向領漲，中央商場直線漲停，此前嘉欣絲綢漲停，一致魔芋、寧波中百、酒鬼酒、金徽酒、歡樂家等衝高。"
-    },
-    {
-      "id": "4911667",
-      "time": "2026-06-02 09:58:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置概念震盪下挫 良信股份跌停】電網裝置概念震盪下挫，良信股份跌停，新特電氣跌超10%，大連電瓷、安靠智電、金盤科技、漢纜股份、雙傑電氣、億能電力跌幅居前。"
-    },
-    {
-      "id": "4911666",
-      "time": "2026-06-02 09:58:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4911665",
-      "time": "2026-06-02 09:57:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "港股銅業股走勢活躍，其中，中國有色礦業、五礦資源漲超4%，江西銅業股份漲3.8%。"
-    },
-    {
-      "id": "4911664",
-      "time": "2026-06-02 09:57:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳產業用地新政修訂實施】深圳市規劃和自然資源局牽頭修訂的《深圳市工業及其他產業用地供應管理辦法》於2026年5月7日起施行，旨在加強重大產業專案用地保障，規範產業用地供應管理，提高土地節約集約利用水平。《管理辦法》是深圳落實綜合改革試點、深化要素市場化配置改革的重要成果，也是立足超大城市土地緊約束實際、提升產業用地管理能力的制度探索。（深圳釋出）"
-    },
-    {
-      "id": "mkt:019e860b-15e4-7aa2-99e8-dd4adb0bcf71",
-      "time": "2026-06-02 09:55:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【MORGAN STANLEY FUND: Market opportunities likely to spread from a few core names to broader tech】MORGAN STANLEY fund says last week’s market divergence persisted, driven by continued AI-chain strength and catalysts in parts of the supply chain; IPO expectations for two domestic memory giants boosted related stocks. Margin financing has surged since May—growth second only to August last year—with the financing balance briefly near 2.9 tln yuan last week. Electronics and telecom sectors logged net margin financing purchases above 100 bln yuan. Extreme, concentrated trading is producing violent swings that release rather than accumulate risk; with risk appetite low, capital has clustered in high‑momentum areas. Given a recent easing in external geopolitical tensions, opportunities are expected to diffuse from a few core plays into a wider set of technology names, though some large‑cap non‑tech stocks may be capped if the market re‑heats. At the security level, AI remains the most favoured exposure and is lifting semiconductors and upstream components/materials; selected pockets in energy storage, machinery and chemicals show improving demand."
     }
   ]
 }
