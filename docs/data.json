@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-09 12:34:07",
-  "count": 19181,
+  "updated": "2026-06-09 12:37:56",
+  "count": 19187,
   "items": [
+    {
+      "id": "mkt:019eaaaa-e9e4-7eec-b848-a52f856e104e",
+      "time": "2026-06-09 12:36:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the U.S. will release a report on the incident on Tuesday."
+    },
+    {
+      "id": "mkt:019eaaaa-cddf-7eec-b848-9e4eb1f12617",
+      "time": "2026-06-09 12:36:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the pilot involved in a crash in the Strait of Hormuz is in good condition."
+    },
+    {
+      "id": "te:markets:557491",
+      "time": "2026-06-09 12:36:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises on Financials Strength — India’s BSE Sensex rose about 0.3% to 73,726 in early trade on Tuesday, recovering from two consecutive sessions of losses as easing geopolitical tensions and supportive measures from the Reserve Bank of India boosted sentiment. Israel and Iran reportedly halted attacks on each other, easing fears of a broader regional conflict and pushing crude oil prices lower. Domestic sentiment was further supported after the RBI unveiled details of a concessional forex swap facility, allowing banks to hedge overseas borrowings of at least three years at lower cost. The measure is expected to reduce funding costs and enhance the appeal of foreign-currency borrowing for lenders. Financial stocks led the advance, with the banking and financial services indexes each gaining around 1%. Among financial names, BSE, ICICI, Canara, MCX, and Bajaj Finance gained between 1% and 2.6%, while IDFC and Master Trust climbed 4.1% and 4.7% respectively. On the downside, NLC (-3.9%), and Infosys (-1.2%) fell."
+    },
+    {
+      "id": "4925191",
+      "time": "2026-06-09 12:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：非常接近達成一項強有力的協議。"
+    },
+    {
+      "id": "mkt:019eaaaa-1b63-7eec-b848-9487f6cfb683",
+      "time": "2026-06-09 12:35:35",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish",
+        "AAPL.O",
+        "Nasdaq100"
+      ],
+      "text": "【TrendForce: Memory cost pressure to cut 2026 global smartphone production ~16.2% YoY】TrendForce says depletion of some brands' low-cost memory inventories and several quarters of outsized memory-price gains have squeezed brand margins, prompting most vendors to curb production in Q2. TrendForce now forecasts full-year 2026 global smartphone production at 1.051 bln units, down about 16.2% YoY. In a downside scenario where memory-price inflation persists and brands must keep raising retail prices, the annual decline could deepen."
+    },
+    {
+      "id": "4925190",
+      "time": "2026-06-09 12:35:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田通商株式會社：寮國公司預計年汽車產量將超5000輛，生產重心為海拉克斯皮卡和奔跑者SUV等核心車型。"
+    },
+    {
+      "id": "4925189",
+      "time": "2026-06-09 12:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就霍爾木茲海峽墜毀直升機事件回應：飛行員安然無恙。"
+    },
+    {
+      "id": "4925188",
+      "time": "2026-06-09 12:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正處於一項好協議的最後階段。"
+    },
+    {
+      "id": "4925187",
+      "time": "2026-06-09 12:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田通商株式會社：已在寮國設立整車組裝公司，計劃於2028年4月投產。"
+    },
+    {
+      "id": "4925186",
+      "time": "2026-06-09 12:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約州州長阻礙了Constitution 輸油管道專案。"
+    },
     {
       "id": "4925185",
       "time": "2026-06-09 12:33:05",
@@ -176883,40 +176973,6 @@
         "國際"
       ],
       "text": "印度尼西亞統計局資料：4月進口同比增長22.49%，此前媒體調查預期為增長3.25%。"
-    },
-    {
-      "id": "4911872",
-      "time": "2026-06-02 12:36:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：預計澳門六月博彩收入195億至210億澳門元】中金髮布研報稱，澳門5月博彩收入為226億澳門元，同比增長6.7%，環比升13.7%，略高於市場預測的同比5%升幅。月內，日均博彩收入為7.29億澳門元，與4月相比增長10%。該行認為，5月的表現主要歸功於五一勞動節、澳門舉辦多項大型娛樂活動有助吸引客流量。該行預計，今年6月博彩收入將介乎195億至210億澳門元，日均博彩收入6.5億至7億澳門元，同比減少0至7%，與2019年同期相比則下降12%至18%，主要受到世界盃比賽對澳門博彩需求有季節性分流作用的影響。"
-    },
-    {
-      "id": "4911871",
-      "time": "2026-06-02 12:35:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤電價格或步入上行趨勢 高股息+低PE股梳理】在全球高溫蔓延、煤炭進口縮量、國內安監高壓的三重驅動下，煤炭市場供需格局有望進一步趨緊，動力煤、焦煤價格或步入上行趨勢。據證券時報·資料寶統計，截至6月1日收盤，煤電股今年以來平均上漲47.92%，6股累計漲幅翻倍。估值水平方面，截至6月1日收盤，滾動市盈率（PE）低於20倍的煤電股有22只，其中皖能電力、建投能源、華能國際、江蘇國信、華電國際的滾動市盈率相對較低。"
-    },
-    {
-      "id": "mkt:019e869d-4153-7dd4-a7a6-e98ebcfce1fe",
-      "time": "2026-06-02 12:35:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon Qiangwei prompts Japan to cancel hundreds of flights】Typhoon Qiangwei is disrupting transport in Japan: Japan Airlines (JAL) had canceled 170 flights as of 0800 on June 2. Tokyo Haneda will suspend 269 flights on June 3, affecting more than 31,000 passengers. East Japan Railway Company (JR East) warned trains in the Tokyo metropolitan area may be delayed or suspended on June 3."
-    },
-    {
-      "id": "mkt:019e869d-0c71-7dd4-a7a6-e242523c8588",
-      "time": "2026-06-02 12:34:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Yuejiang releases Kongyi DobotWAM embodied large model】Yuejiang said it released a self-developed embodied large model, Kongyi DobotWAM. The model completed four task suites on the embodied intelligence benchmark LIBERO — LIBERO-Spatial, LIBERO-Object, LIBERO-Goal and LIBERO-10 — covering spatial-relation understanding, object generalization, goal-instruction comprehension and long-horizon task execution, with an average success rate of 99.25%."
     }
   ]
 }
