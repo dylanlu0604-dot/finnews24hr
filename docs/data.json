@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 03:12:06",
-  "count": 18708,
+  "updated": "2026-06-10 03:15:48",
+  "count": 18703,
   "items": [
+    {
+      "id": "4926642",
+      "time": "2026-06-10 03:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社否認天空新聞有關伊朗向美國提出新方案的報道。"
+    },
+    {
+      "id": "4926641",
+      "time": "2026-06-10 03:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：遭特朗普威脅的連線美國密歇根州與加拿大安大略省的戈迪・豪跨國大橋即將通車。"
+    },
     {
       "id": "4926640",
       "time": "2026-06-10 03:11:02",
@@ -172563,76 +172579,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧： 特朗普政府不希望曾協助美軍的阿富汗人被迫遣返阿富汗。"
-    },
-    {
-      "id": "mkt:019e89c1-9fd7-733d-8819-250b902307d7",
-      "time": "2026-06-03 03:13:48",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. Treasury posted on its website that the United States has imposed sanctions related to the Democratic Republic of the Congo."
-    },
-    {
-      "id": "mkt:019e89c1-1eab-733d-8819-18ec5ee39f71",
-      "time": "2026-06-03 03:13:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury website shows the U.S. announced new Iran-related sanctions."
-    },
-    {
-      "id": "4913615",
-      "time": "2026-06-03 03:13:08",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：美國出臺針對剛果民主共和國的新一輪制裁。"
-    },
-    {
-      "id": "mkt:019e89c0-eb7e-733d-8819-154ad8bd2255",
-      "time": "2026-06-03 03:13:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【EU €20 billion AI data‑centre plan hit by delays and funding shortfall】The EU’s €20 billion plan to build five large AI data centres is faltering as delays and funding uncertainty are deterring potential private partners, people familiar with the matter said. A tender process originally slated for May is now expected to start in July, and financing is planned in two tranches scheduled for 2028 and 2030 under a new EU budget still under negotiation. Sources said funding gaps mean at most two of the five centres are likely to receive money before the new budget takes effect in 2028. Unclear demand prospects and uncertainty over subsidy timing are cited as key reasons private investors are hesitating."
-    },
-    {
-      "id": "mkt:019e89c0-cce5-733d-8819-0ea959e8878a",
-      "time": "2026-06-03 03:12:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's foreign minister said the country intends to join the Trans-Pacific Partnership."
-    },
-    {
-      "id": "4913614",
-      "time": "2026-06-03 03:12:47",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部：美國出臺新一輪涉伊朗制裁措施。"
-    },
-    {
-      "id": "4913613",
-      "time": "2026-06-03 03:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿根廷外交部長：該國計劃加入跨太平洋夥伴關係協定。"
     }
   ]
 }
