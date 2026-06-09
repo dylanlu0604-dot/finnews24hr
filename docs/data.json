@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-09 08:26:50",
-  "count": 19174,
+  "updated": "2026-06-09 08:30:40",
+  "count": 19181,
   "items": [
+    {
+      "id": "mkt:019ea9c9-8af9-733a-9237-d3262e271094",
+      "time": "2026-06-09 08:30:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Jun) | actual 80.6 | previous 83"
+    },
+    {
+      "id": "mkt:019ea9c9-6d44-733a-9237-cd0114a4532a",
+      "time": "2026-06-09 08:30:06",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Westpac–Melbourne Institute consumer confidence (MoM) -2.9% in June; prior +3.5%."
+    },
+    {
+      "id": "mkt:019ea9c9-4431-733a-9237-c2afd04214b2",
+      "time": "2026-06-09 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jun) | actual -2.9% | previous 3.50%"
+    },
+    {
+      "id": "te:markets:557399",
+      "time": "2026-06-09 08:29:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower After Tech-Led Rebound — US stock futures eased on Tuesday after the S&P 500 and Nasdaq Composite opened the week higher, supported by a rebound in technology shares. In regular trading on Monday, the S&P 500 and Nasdaq Composite gained 0.3% and 0.86%, respectively, recovering part of the previous session’s losses, while the Dow slipped 0.16%. Technology, energy, and consumer discretionary stocks led the advance, whereas utilities, real estate, and materials underperformed. Chipmakers drove much of the rally, with shares of Micron Technology (+9.9%), Nvidia (+1.7%), Marvell Technology (+9.6%), Intel (+11.2%), and Advanced Micro Devices (+5.1%) posting solid gains. Investors are now awaiting earnings reports from Casey’s General Stores, J.M. Smucker, and Designer Brands, among others, due Tuesday. Later this week, the latest US CPI and PPI data will offer further insight into the Federal Reserve’s interest rate outlook."
+    },
+    {
+      "id": "4924844",
+      "time": "2026-06-09 08:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動科斯達克（KOSDAQ）買入側車機制，程式交易暫停5分鐘。"
+    },
+    {
+      "id": "4924843",
+      "time": "2026-06-09 08:28:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子布價格持續飆高 8家上市公司佈局電子布業務】據央視財經報道，今年以來，算力需求爆發，帶動電子布價格大幅上漲。截至6月初，市場上常用規格的電子布已經完成年內5輪提價，均價達7.4元/米，與去年三季度的低點相比，漲幅達到100%。由於電子布對生產裝置和工藝控制要求很高，客觀上制約了產能的擴張節奏。據證券時報·資料寶統計，A股市場約有8家上市公司佈局電子布相關業務。二季度以來（截至6月5日），融資資金加倉多隻電子布概念股，中國巨石、菲利華、中材科技、國際復材融資淨買入額依次為19.45億元、7.03億元、5.15億元、3.98億元。"
+    },
+    {
+      "id": "mkt:019ea9c7-5198-733a-9237-bf6503cff271",
+      "time": "2026-06-09 08:27:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures fell 0.6%, DAX futures fell 0.5% and FTSE 100 futures fell 0.3%."
+    },
+    {
+      "id": "4924842",
+      "time": "2026-06-09 08:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：利空落地 佈局REIT修復視窗】銀河證券指出，5月末4只商業不動產REITs集中認購進入尾聲，機構打新的資金騰挪行為基本落地，前期壓制價格的短期利空充分反映在估值中，市場拋壓收斂後估值修復機會直接驅動二級市場觸底反彈。截至6月4日，中證REITs全收益指數連續五個交易日震盪上行，較5月28日回升達到1.9%，募資落地帶來的資金衝擊基本兌現，短期基本面邊際改善支撐修復行情。同時，4只產品距離正式上市仍有2周左右間隔，上市前暫無新增集中募資擠佔流動性，市場或迎來階段性估值修復視窗期。而後續持續的修復向好行情仍要看長線增量資金入市配套政策落地的情況，一是關注險資入市增持商業不動產REITs時點、二是5月中旬申報的REITs指數基金獲批落地時點，7月前後或可期待。"
+    },
+    {
+      "id": "4924841",
+      "time": "2026-06-09 08:27:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.6%，德國DAX指數期貨下跌0.5%，富時指數期貨下跌0.3%。"
+    },
+    {
+      "id": "4924840",
+      "time": "2026-06-09 08:26:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券策略：建議均衡配置四個方面】華泰證券策略指出，建議均衡配置：1、AI產業趨勢並未出現放緩跡象，短期調整可能提供加倉視窗，待擁擠度壓力釋放後低吸，建議關注光通訊、MLCC等；2、電力鏈繼續增配，超額收益或從下游電力運營商向中游電新制造和上游資源品輪動；3、一季報供需雙向改善、當前景氣持續性較好、且估值相對合理的補漲品種，如商用車、消費電子、小金屬、裝修建材、醫療服務等；4、適當配置煤炭、公用等紅利品種作為對沖。定量層面，我們的行業打分模型推薦消費電子、半導體、計算機裝置、化學纖維、航海裝備、證券、塑膠、電池、小金屬、旅遊及景區。"
+    },
+    {
+      "id": "4924839",
+      "time": "2026-06-09 08:26:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟大臣城內實：希望日本央行繼續遵循關於抗擊通縮的聯合宣告，與政府保持緊密協作。利率上升可能透過多種渠道影響經濟，因此我們正密切關注相關動向。"
+    },
     {
       "id": "4924838",
       "time": "2026-06-09 08:26:17",
@@ -176821,41 +176927,6 @@
         "市場"
       ],
       "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少37.99噸】截至2026年06月01日，全球最大的白銀ETF iShares Silver Trust持倉量為15080.70噸，較前一個交易日減少37.99噸。"
-    },
-    {
-      "id": "4911524",
-      "time": "2026-06-02 08:30:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德銀： 美元將成為未來人工智慧收入流的主要受益者 】德意志銀行貨幣策略師George Saravelos等人表示，美元將成為未來人工智慧收入流的主要受益者；美元“目前僅受到人工智慧資本支出熱潮的適度支撐”，但“美國科技公司的主導地位表明，它們將從未來的資本支出中獲得豐厚利潤”。"
-    },
-    {
-      "id": "4911523",
-      "time": "2026-06-02 08:29:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：算力等高頻高速需求快速增長 電子級PTFE有望大規模應用】中信建投證券研報稱，PTFE材料因其主要特性包括優異的熱穩定性、耐化學性、介電效能被稱為“塑膠王”。PTFE下游軍工+伺服器高速線纜+高速板三大需求均有望高速增長，隨著英偉達新一代伺服器Rubin ultra量產節點臨近，產業內積極討論使用PTFE材料作為正交背板的可能性，國內生益科技配合積極做驗證。研報認為隨著算力基建等引領的高頻高速傳輸需求的持續增長，PTFE的下游領域有望被重新定義。"
-    },
-    {
-      "id": "4911522",
-      "time": "2026-06-02 08:29:23",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【受AI熱浪及避險資金流推動 交易員對美元進一步上漲的押注升溫】交易員押注美元將在未來幾周走強，主要得益於美伊談判的持續不確定性以及AI交易帶動的股市上漲。美元指數上個月走強，因美伊和平談判未能朝著結束戰爭方向取得任何明顯的進展。美元漲勢反映了衝突帶來的連鎖反應，重新給了投資者將資金流向美國的理由，因為油價衝擊推高債券收益率，投資者在為美聯儲轉向加息做準備。在伊朗表示將暫停談判以抗議以色列在黎巴嫩的軍事行動後，美元指數週一再度上漲0.3%，但隨著特朗普聲稱談判正在取得進展，美元漲幅受到抑制。此外，美國經濟資料也在週一早盤對美元構成支撐。報告顯示，美國製造業活動5月份增速創四年來最快，這加劇了人們對美聯儲可能最早在今年年底開始加息的猜測。"
-    },
-    {
-      "id": "4911521",
-      "time": "2026-06-02 08:28:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深圳住宅網籤時隔14個月再破萬套：多個新盤“日光”，二手房成交價重回“6字頭”】“429新政”落地後，深圳樓市回暖節奏進一步加快。6月1日，樂有家研究中心監測資料顯示，2026年5月，深圳全市一二手房合計網籤13348套，環比增長6%，同比上漲28%。其中，新房市場表現亮眼，一手房合計網籤6651套，環比增長21%，同比增長36%；二手房網籤成交6697套，環比下跌6%，同比上漲21%。以住宅口徑統計，全市一二手住宅合計網籤10077套，這是自2025年4月以來，時隔14個月該資料再度突破1萬套大關，環比大幅上漲28%創下新高，市場活躍度回升至近年來的高位水平。以位於深圳光明的龍湖·觀萃苑專案為例，該專案5月3日首開92套，以“認籌數超1000組、40分鐘售罄”的成績成為深圳新政後首個“日光碟”。隨後專案於5月16日加推92套，再次實現即開即罄。樂有家研究中心資料顯示，5月，深圳二手成交均價6.08萬元/平方米，環比上漲5%，房價重回“6字頭”。（澎湃）"
     }
   ]
 }
