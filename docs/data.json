@@ -1,7 +1,207 @@
 {
-  "updated": "2026-06-09 15:19:15",
-  "count": 19115,
+  "updated": "2026-06-09 15:23:26",
+  "count": 19124,
   "items": [
+    {
+      "id": "4925447",
+      "time": "2026-06-09 15:22:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深圳水貝商家：近期金價持續走低，很多消費者只看不買】有深圳水貝市場的黃金商家表示，在金價上漲時一天能賣2公斤，銷售額約200萬，然而近期金價持續走低，很多消費者“只看不買”，有商家透露不少同行已將黃金庫存賣出後轉行。（第一財經）"
+    },
+    {
+      "id": "4925446",
+      "time": "2026-06-09 15:22:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼能源解決方案公司簽署協議，收購IntelliSmart 100%股權。"
+    },
+    {
+      "id": "mkt:019eab42-5943-7005-988c-3eef72b2ce0c",
+      "time": "2026-06-09 15:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said it is closely monitoring the FX market and will impose strict measures against speculative trading and market disruption."
+    },
+    {
+      "id": "4925445",
+      "time": "2026-06-09 15:21:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊回應微信開放AI生態接入能力：為給使用者提供更智慧的互動體驗】昨日，微信釋出《關於開發者接入微信AI生態的指引》，面向開發者提供接入微信AI（人工智慧）生態的能力。據悉，平臺提供自動模式與開發模式兩種接入選項，以滿足不同規模團隊的開發需求。其中，自動模式需授權平臺提審時讀取小程式原始碼，無需投入額外開發。平臺將分析開發者的小程式頁面，讓微信AI能直接操作；開發模式中，開發者可基於小程式業務特性，自主個性化開發。透過平臺評測與稽核後，可被微信Al呼叫。微信釋出後，京東、美團、滴滴、攜程、同程、得物和肯德基等都宣佈作為首批內測團隊接入微信AI。對此，騰訊回應表示，“為給使用者提供更智慧的互動體驗，微信開放平臺在充分尊重開發者權益和自主選擇的基礎上，面向開發者提供了便捷接入微信AI生態的能力。目前該能力正在內測階段，請開發者留意小程式後臺訊息提醒。”（新浪科技）"
+    },
+    {
+      "id": "4925444",
+      "time": "2026-06-09 15:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙衛生部：譴責以色列佔領軍於今晨在加沙逮捕七名巴勒斯坦紅新月會救護人員的事件，當時他們正在薩拉赫丁街執行人道主義職責。 衛生部指出，五名團隊成員在接受審訊後已被釋放，而兩名仍被拘留。"
+    },
+    {
+      "id": "mkt:019eab41-9cf1-7229-817f-7443e19b8f9a",
+      "time": "2026-06-09 15:20:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said the central bank is optimistic about GDP growth this year and expects further improvement next year."
+    },
+    {
+      "id": "mkt:019eab41-99d2-7229-817f-6b65c168fa4a",
+      "time": "2026-06-09 15:20:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Bank Indonesia governor said the central bank will continue in 2027 to prioritize stabilizing the rupiah, including intervening in onshore and offshore FX markets."
+    },
+    {
+      "id": "4925443",
+      "time": "2026-06-09 15:20:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天潤工業：大缸徑曲軸、連桿產品訂單充足 生產及交付工作均按計劃有序推進】天潤工業6月9日在互動平臺表示，公司大缸徑曲軸、連桿產品訂單充足，生產及交付工作均按計劃有序推進，整體運營狀況良好。公司正抓緊推進新增產能專案建設，持續提升供給能力，積極匹配客戶需求。"
+    },
+    {
+      "id": "mkt:019eab41-7d0a-7005-988c-2e08be0a752e",
+      "time": "2026-06-09 15:20:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Indonesia governor said through 2027 the central bank will continue to focus on stabilizing the rupiah, including FX interventions in onshore and offshore markets."
+    },
+    {
+      "id": "4925442",
+      "time": "2026-06-09 15:20:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY IT指數<.NIFTYIT>下跌1%。"
+    },
+    {
+      "id": "mkt:019eab41-131b-7229-817f-6691dad85c3a",
+      "time": "2026-06-09 15:20:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said the central bank does not want to raise the policy rate, but any increase would be aimed at making Indonesian assets more attractive."
+    },
+    {
+      "id": "4925441",
+      "time": "2026-06-09 15:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "‌緯創宣佈採用英偉達Omniverse DSX藍圖，以加速數字工廠部署和運營最佳化。"
+    },
+    {
+      "id": "mkt:019eab40-cbe1-7229-817f-5c6931aeed15",
+      "time": "2026-06-09 15:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's Vision 2030 report showed foreign direct investment at 2.8% of GDP at end-2025, below the 3.4% target."
+    },
+    {
+      "id": "4925440",
+      "time": "2026-06-09 15:20:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長表示：2027年，我們將繼續以穩定印尼盾為重點，包括在岸與離岸外匯市場開展外匯干預。"
+    },
+    {
+      "id": "mkt:019eab40-91cc-7229-817f-53442085cdd8",
+      "time": "2026-06-09 15:19:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's central bank governor says state-led agencies will take control of exports and expects this to increase Indonesia's export volumes and revenues."
+    },
+    {
+      "id": "4925439",
+      "time": "2026-06-09 15:19:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：我們不傾向於上調基準利率，但此舉是為了提升我國資產的吸引力。"
+    },
+    {
+      "id": "4925438",
+      "time": "2026-06-09 15:19:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯《2030願景》年度報告顯示，截至2025年底，沙特外國直接投資佔GDP的比重為2.8%，未達3.4%的目標。"
+    },
+    {
+      "id": "4925437",
+      "time": "2026-06-09 15:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達航空與菲律賓航空恢復馬尼拉-多哈程式碼共享。"
+    },
+    {
+      "id": "mkt:1c246b35-17c3-4ae4-a927-8be7a7b44804",
+      "time": "2026-06-09 15:19:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB index rose 1% intraday."
+    },
+    {
+      "id": "4925436",
+      "time": "2026-06-09 15:18:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞銀股價觸及2008年以來最高位，單日上漲2%，此前媒體報道稱瑞士議員正考慮放寬資本要求。"
+    },
+    {
+      "id": "mkt:019eab3f-baf8-7005-988c-27729703ed8a",
+      "time": "2026-06-09 15:18:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Indonesia governor said Indonesia's economic fundamentals are sound and the rupiah should strengthen going forward."
+    },
+    {
+      "id": "mkt:019eab3f-7bb4-7005-988c-18662d7cb3f6",
+      "time": "2026-06-09 15:18:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "UBS Group shares hit their highest level since 2008, rising about 2% intraday on reports that Swiss lawmakers are considering easing capital requirements."
+    },
+    {
+      "id": "4925435",
+      "time": "2026-06-09 15:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：部隊襲擊了加沙地帶哈馬斯恐怖組織的基礎設施，以消除威脅。"
+    },
     {
       "id": "4925434",
       "time": "2026-06-09 15:18:12",
@@ -176161,137 +176361,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Edges Up — The FTSE 100 traded slightly higher on Tuesday as investors assessed mixed signals from the Middle East. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of a recent call regarding the fighting in Lebanon, which prompted Iran to suspend talks with the US on extending the ceasefire. Trump said he urged both Israel and Hezbollah to halt hostilities, while Netanyahu offered a more limited description of the discussions. Mining stocks led gains in London, with Fresnillo rising more than 3%, Endeavour Mining adding nearly 3%, and Antofagasta advancing almost 3%. Anglo American and Rio Tinto also gained more than 2% each. In contrast, British American Tobacco fell over 3% despite reaffirming its full year guidance and highlighting strong growth in its Modern Oral and Vapour businesses. Oil majors Shell and BP also declined, losing 1% and 1.9% respectively as crude prices retreated."
-    },
-    {
-      "id": "4912156",
-      "time": "2026-06-02 15:23:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百度旗下基金等入股拉格朗日具身技術公司】天眼查App顯示，近日，杭州拉格朗日具身技術有限公司發生工商變更，新增百度旗下三亞百川致新私募股權投資基金合夥企業（有限合夥）、普華中小二期（杭州）創業投資合夥企業（有限合夥）等為股東，同時，註冊資本由500萬人民幣增至約582.9萬人民幣。 該公司成立於2025年10月，法定代表人為李撼碑，經營範圍含工業機器人制造、機械裝置研發、機械電氣裝置製造等，現由杭州海衛壹企業管理合夥企業（有限合夥）、杭州海衛貳企業管理合夥企業（有限合夥）及上述新增股東等共同持股。"
-    },
-    {
-      "id": "4912155",
-      "time": "2026-06-02 15:22:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "雅詩蘭黛執行長談及併購時表示：若有合適機遇出現，我們會加以考量，但該交易必須在財務層面具備合理性。"
-    },
-    {
-      "id": "mkt:019e8736-d4ad-7555-bd37-3503fcc6f72d",
-      "time": "2026-06-02 15:22:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Zelenskiy: Europe must build its own anti-ballistic missile defense】Zelenskiy said Russia launched 656 attack drones and 73 missiles overnight, including ballistic, cruise and anti-ship missiles. He warned the scale of the strikes shows attacks will continue unless Ukraine is protected from ballistic and other missile strikes. He called on Europe to establish its own anti-ballistic missile defense and urged the US to provide missiles for Patriot air-defense systems, saying Kyiv expects partner support and an effective response to today’s strikes."
-    },
-    {
-      "id": "mkt:019e8736-cdb2-7555-bd37-28a263b3931f",
-      "time": "2026-06-02 15:22:48",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC Shanghai HQ to deepen Shanghai global asset management centre, widen foreign access to onshore RMB assets】Ge Qing, director of the macroprudential management department at the PBOC’s Shanghai headquarters, said at a press briefing that building a global asset management centre in Shanghai is a priority to raise the city’s international financial centre standing and broaden practical uses for the renminbi. A mature, open asset management market will attract global capital into onshore RMB assets and strengthen the renminbi’s pricing, investment and reserve functions. He said expanding cross-border use cases and improving cross-border financial infrastructure will further boost Shanghai’s asset-management competitiveness. Authorities will press ahead with policy implementation to deepen financial opening, steadily expand market interconnectivity, and optimise cross-border financial services to enhance the global appeal and pricing power of RMB assets."
-    },
-    {
-      "id": "4912154",
-      "time": "2026-06-02 15:22:22",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：多位船東表示，他們不再透過無線電收到伊斯蘭革命衛隊的威脅，而幾周前情況並非如此。"
-    },
-    {
-      "id": "mkt:019e8735-fa62-7555-bd37-2129ce153a1a",
-      "time": "2026-06-02 15:22:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: several shipowners say they are no longer receiving threats via radio from the Islamic Revolutionary Guard Corps, which had been occurring a few weeks ago."
-    },
-    {
-      "id": "4912153",
-      "time": "2026-06-02 15:22:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基在俄羅斯最新夜間襲擊後表示，“絕對”需要美國提供彈道導彈攔截彈方面的援助。"
-    },
-    {
-      "id": "mkt:019e8735-9cc7-7555-bd37-1e4e73b74adb",
-      "time": "2026-06-02 15:21:38",
-      "tags": [
-        "MKT News",
-        "0753.HK"
-      ],
-      "text": "【Mainland China domestic route fuel surcharge cut】Airlines including Air China said fuel surcharges on mainland China passenger tickets sold from 0000 on June 5 will be reduced. New rates: 80 yuan per sector for routes up to and including 800 km, 150 yuan per sector for routes over 800 km. Infants are exempt; children, veterans disabled in service and public security police disabled on duty will be charged half the surcharge. The move lowers current levels by 10 yuan on routes ≤800 km and by 20 yuan on routes >800 km."
-    },
-    {
-      "id": "te:markets:555672",
-      "time": "2026-06-02 15:21:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BNP Paribas Stock Price Hits 13-week High — BNP Paribas shares increased to 94.74 EUR, the highest since February 2026. Over the past 4 weeks, BNP Paribas gained 8.3%, and in the last 12 months, it increased 22.64%."
-    },
-    {
-      "id": "4912152",
-      "time": "2026-06-02 15:21:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行上海總部談深化上海全球資產管理中心建設：拓寬境外機構投資境內人民幣資產的途徑】6月2日，中國人民銀行上海總部宏觀審慎管理部主任葛慶在新聞通氣會上表示，建設全球資產管理中心，是上海國際金融中心能級提升的重要抓手，也是人民幣國際化的重要的應用場景。一方面，成熟開放的資管市場能夠吸引全球資本配置人民幣資產，持續增強人民幣的計價、投資、儲備功能，夯實人民幣國際化的市場根基。另一方面，人民幣跨境使用場景不斷豐富、跨境金融基礎設施持續完善，也能進一步增強上海資管市場的全球吸引力和競爭力。葛慶表示，下一步將抓好各項政策的貫徹落實，持續深化金融對外開放，穩步擴大金融市場互聯互通，不斷最佳化跨境金融服務，進一步提升人民幣資產的全球的吸引力和定價吸引力。（澎湃新聞）"
-    },
-    {
-      "id": "4912151",
-      "time": "2026-06-02 15:21:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月2日滬深兩市漲停分析】創業板指高開高走漲2.66%，算力硬體概念集體走強。春秋電子、中央商場均3連板，一圖看懂>>"
-    },
-    {
-      "id": "4912150",
-      "time": "2026-06-02 15:21:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船滬東中華簽訂12艘30.7萬噸VLCC建造合同】6月1日，在希臘波塞冬海事展期間，中國船舶集團有限公司旗下滬東中華造船（集團）有限公司聯合中國船舶工業貿易有限公司與希臘Dynacom公司正式簽訂12艘超大型原油船（VLCC）建造合同，合同總金額摺合人民幣近百億元，並部分採用人民幣支付。"
-    },
-    {
-      "id": "4912148",
-      "time": "2026-06-02 15:19:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其基準BIST-100指數<.XU100>上漲1.4%，主要銀行股指數<.XBANK>上漲2.4%。"
-    },
-    {
-      "id": "4912147",
-      "time": "2026-06-02 15:19:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【比特幣擴大跌幅，受Strategy拋售和中東衝突影響】在有訊息稱Strategy自2022年以來首次拋售該加密貨幣，以及中東局勢持續緊張之際，比特幣跌至近兩個月低點。Strategy週一表示，上週出售了32枚比特幣，價值約250萬美元。與此同時，美國和伊朗尚未達成和平協議，而儘管以色列和真主黨同意部分停火，黎巴嫩南部的衝突仍在繼續。Trade Nation分析師David Morrison在一份報告中表示：“市場對比特幣的情緒惡化得相當快。“他說，在伊朗戰爭的前10周，比特幣表現出了韌性，但投資者現在似乎對解決衝突的緩慢進展感到沮喪。倫敦證券交易所集團的資料顯示，比特幣下跌1.6%，至低點69,961美元。"
     }
   ]
 }
