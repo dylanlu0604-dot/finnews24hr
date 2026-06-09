@@ -1,7 +1,144 @@
 {
-  "updated": "2026-06-10 05:12:34",
-  "count": 18698,
+  "updated": "2026-06-10 05:29:55",
+  "count": 18691,
   "items": [
+    {
+      "id": "4926710",
+      "time": "2026-06-10 05:28:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美副總統稱美伊協議或在一週至數月內達成】美國副總統萬斯表示，美國“非常接近”與伊朗達成一項能夠長期解決伊朗核問題的協議。萬斯表示，協議可能在未來一週內達成，也可能需要數月時間，但“絕對”會在11月中期選舉前取得結果。他稱，美國“希望達成一項既符合美國經濟利益，又能從長期確保伊朗無法獲得核武器的協議”。"
+    },
+    {
+      "id": "mkt:019eae49-35bd-7ff4-a101-3b2e63b08b29",
+      "time": "2026-06-10 05:28:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Vance says U.S.-Iran deal could be reached within a week to several months】U.S. Vice President Vance said the U.S. is \"very close\" to a long-term agreement to resolve Iran's nuclear issue. He said the deal could be reached within a week or may take several months, but will \"absolutely\" be finalised before mid-November elections. Vance said the U.S. seeks an agreement that aligns with U.S. economic interests and ensures Iran cannot obtain nuclear weapons over the long term."
+    },
+    {
+      "id": "mkt:019eae48-3f17-7ff4-a101-357336f82133",
+      "time": "2026-06-10 05:27:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks"
+      ],
+      "text": "A term sheet shows Tencent Holdings (00700.HK) raised $4.66 billion via issuance of US dollar and offshore renminbi bonds."
+    },
+    {
+      "id": "4926709",
+      "time": "2026-06-10 05:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨收跌0.41%。"
+    },
+    {
+      "id": "mkt:019eae46-249c-7ff4-a101-2a62d77daa09",
+      "time": "2026-06-10 05:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House passes $70 billion bill to fund immigration enforcement."
+    },
+    {
+      "id": "4926708",
+      "time": "2026-06-10 05:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院透過了一項總額700億美元的移民執法撥款法案。"
+    },
+    {
+      "id": "4926707",
+      "time": "2026-06-10 05:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍開始對伊朗發動報復性打擊】當地時間6月9日，美國中央司令部表示，在總統特朗普指示下，美軍於美國東部時間17時開始對伊朗發動自衛性打擊，以回應前一天美軍“阿帕奇”直升機被擊落事件。美國中央司令部稱，此次行動是對伊朗“無端侵略行為”的回應。（央視新聞）"
+    },
+    {
+      "id": "4926706",
+      "time": "2026-06-10 05:21:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部錫裡克市發生爆炸】據當地居民反饋，當地時間10日凌晨，伊朗南部港口城市錫裡克市發生爆炸。目前伊朗官方暫未就爆炸發表評論。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eae40-82ba-7ff4-a101-224729b179d7",
+      "time": "2026-06-10 05:18:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "CENTCOM said its forces launched a defensive strike against Iran at 5:00 p.m. ET today in response to the downing of a U.S. Army Apache helicopter yesterday, describing the operation as a proportionate response to unprovoked Iranian aggression."
+    },
+    {
+      "id": "4926705",
+      "time": "2026-06-10 05:18:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：應總統指令，美國中央司令部部隊於美國東部時間今日下午5時，針對伊朗發起自衛打擊，以此回應昨日美軍阿帕奇直升機遭擊落事件。此次行動是針對伊朗無端挑釁採取的對等反擊。"
+    },
+    {
+      "id": "4926704",
+      "time": "2026-06-10 05:17:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "超微電腦盤後股價跌10%。"
+    },
+    {
+      "id": "mkt:019eae3d-f41b-7ff4-a101-1aafc7ae32f2",
+      "time": "2026-06-10 05:15:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media, citing local residents, reported explosions in the Sirik area; cause unknown."
+    },
+    {
+      "id": "te:economy:557778",
+      "time": "2026-06-10 05:14:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Oil Stockpiles Fall More Than Expected — US crude oil inventories fell by 9.1 million barrels in the week ended June 5, far exceeding forecasts for a 3.4 million-barrel draw, after declining by 6.7 million barrels in the previous week. Despite a cumulative decline of roughly 44 million barrels over the past eight weeks, crude inventories remain nearly 7 million barrels above year-end levels. The Strategic Petroleum Reserve also continued to shrink, with another 7.9 million barrels withdrawn during the week. Inventories at Cushing, Oklahoma, fell by 1.125 million barrels, following a 279,000-barrel decline a week earlier. US crude production eased to 13.707 million barrels per day from 13.715 million. Gasoline inventories declined by 1.191 million barrels after a 3.45 million-barrel increase in the prior week, while distillate stocks rose by 1.3 million barrels after falling 214,000 barrels previously."
+    },
+    {
+      "id": "4926703",
+      "time": "2026-06-10 05:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社援引當地居民訊息稱，錫裡克地區聽到爆炸聲，爆炸原因尚不明確。"
+    },
+    {
+      "id": "4926702",
+      "time": "2026-06-10 05:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦宣佈擬進行70億美元股權及股權掛鉤融資交易，為人工智慧訂單提供資金。"
+    },
     {
       "id": "4926701",
       "time": "2026-06-10 05:07:02",
@@ -172377,191 +172514,6 @@
         "國際"
       ],
       "text": "【康菲石油與印尼北樞紐LNG賣家簽署供應協議】美國油氣巨頭康菲石油公司在領英（LinkedIn）上發文表示，已與印尼北樞紐（North Hub）的液化天然氣（LNG）賣家簽署了長期供應協議，進一步擴充了公司的全球LNG供應版圖。供應將來自庫泰（Kutai）盆地正在開發的深水天然氣資源，該盆地靠近印尼現有的邦唐（Bontang）液化天然氣廠。康菲石油的一位發言人在郵件中表示，該協議將於2029年啟動；公司方面拒絕透露具體的供應量和協議期限。"
-    },
-    {
-      "id": "4913686",
-      "time": "2026-06-03 05:29:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "MARVELL股票盤後漲幅擴大至9.4%。"
-    },
-    {
-      "id": "mkt:019e8a3c-bf88-733d-881a-f4271dbb70f3",
-      "time": "2026-06-03 05:28:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Wakayama Prefecture issued a highest-level (level 5) alert for Typhoon Rose."
-    },
-    {
-      "id": "mkt:019e8a3c-9b4e-733d-881a-ea122fb35fdd",
-      "time": "2026-06-03 05:28:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister responsible for Canada-U.S. trade, Leblanc, said he is confident talks with the United States and Mexico can proceed on automotive rules of origin."
-    },
-    {
-      "id": "4913685",
-      "time": "2026-06-03 05:28:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒曝一名美軍飛行員兩度被擊落：一次友軍誤擊，一次遭伊朗襲擊】據美國哥倫比亞廣播公司，兩名瞭解相關事件的人士透露，一架在伊朗上空被擊落的F-15E戰鬥機飛行員，在伊朗戰爭初期也曾駕駛另一架戰機，並在一次“友軍誤擊”事件中被擊落，當時是被科威特友軍誤擊。在友軍誤擊事件中安全彈射逃生僅30多天後，該飛行員再次執行飛越伊朗的任務，其所駕駛的戰機被一枚伊朗地對空導彈擊中，隨後引發了一場大膽的營救行動。“這是一個非常不尋常的巧合，”退役空軍中將大衛·德普圖拉說道。德普圖拉表示，他想不出自越南戰爭以來，在同一場戰役中曾有飛行員在不同的意外事件中被擊落過，“這就像被閃電擊中兩次一樣。”"
-    },
-    {
-      "id": "mkt:019e8a3b-b3ea-733d-881a-e4bbc406ba8c",
-      "time": "2026-06-03 05:27:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump demands written nuclear concessions from Tehran】ABC, citing U.S. officials and another person familiar, reported President Trump is demanding Tehran put specific nuclear concessions in writing as part of a preliminary deal to break the long-running U.S.-Iran impasse. Sources said Iranian negotiators had previously given verbal assurances they would ultimately accept certain terms affecting Iran’s nuclear program; at a White House Situation Room meeting last Friday Trump judged those pledges insufficient."
-    },
-    {
-      "id": "4913684",
-      "time": "2026-06-03 05:26:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大政府負責加美貿易的部長勒布朗： 加方有信心同美國、墨西哥就汽車原產地規則展開磋商。"
-    },
-    {
-      "id": "4913683",
-      "time": "2026-06-03 05:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受颱風“薔薇”影響 日本和歌山縣釋出最高等級5級警戒】當地時間6月3日，受颱風“薔薇”影響，和歌山縣串本町認為流經町內的古座川存在泛濫危險，因此於當地時間5時，向古田地區、巖渕地區、住吉地區、中湊地區以及古座地區共計755戶、1149人釋出“緊急安全確保”的警戒。這是警戒等級中最高的5級，當地政府呼籲居民確認周圍狀況，在附近建築物內或自家二層以上等場所，採取能夠最大限度提高保全生命可能性的行動。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8a38-53b8-733d-881a-dcc12b49eb52",
-      "time": "2026-06-03 05:23:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister for Canada-U.S. trade, Leblanc, said Ottawa is holding bilateral talks with Mexico on the US-Mexico-Canada Agreement (USMCA)."
-    },
-    {
-      "id": "mkt:019e8a38-3b5b-733d-881a-d5fac69f3d2a",
-      "time": "2026-06-03 05:23:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Canada's minister for Canada-U.S. trade, Leblanc, said Canada has been preparing for a U.S. Section 301 tariff investigation."
-    },
-    {
-      "id": "mkt:019e8a38-2a01-733d-881a-cd7a3ef127c1",
-      "time": "2026-06-03 05:23:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada’s minister for Canada-U.S. trade, Leblanc, said U.S. trade talks have been underway for months."
-    },
-    {
-      "id": "4913682",
-      "time": "2026-06-03 05:22:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：特朗普敦促伊朗做出更堅定的核承諾】據ABC記者報道稱，美國國務卿魯比奧在參議院外交關係委員會聽證會上表態，美伊協議或於今日、明日或下週落地。 據多名美國官員及知情人士透露，美國總統特朗普要求伊朗以書面形式作出具體核讓步，以此作為一份初步協議的內容，打破美伊之間長期陷入的談判僵局。 訊息人士表示，此前伊朗談判代表僅作出口頭保證，承諾該國最終會就核專案相關條款達成共識；但特朗普在週五白宮戰情室的會議上判定，這類口頭承諾約束力不足。"
-    },
-    {
-      "id": "mkt:019e8a36-fe2e-733d-881a-c3393a4302ca",
-      "time": "2026-06-03 05:22:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: US pilot twice shot down — once by friendly fire, once by Iranian missile】CBS, citing two people familiar with the incidents, reported the F-15E pilot shot down over Iran had earlier been downed in the early days of the Iran war when his previous aircraft was hit by friendly fire from Kuwaiti forces. He ejected safely and, just over 30 days later on a separate mission over Iran, his F-15E was struck by an Iranian surface-to-air missile, prompting a bold rescue operation. Retired Air Force Lt. Gen. David Deptula called the sequence a very unusual coincidence and said he could not recall since Vietnam a pilot being downed twice in the same campaign — like being struck by lightning twice."
-    },
-    {
-      "id": "4913681",
-      "time": "2026-06-03 05:19:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大政府負責加美貿易的部長勒布朗： 本國已針對美國 301 條款關稅調查開展相關籌備工作。"
-    },
-    {
-      "id": "4913680",
-      "time": "2026-06-03 05:18:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大政府負責加美貿易的部長勒布朗： 加方正與墨西哥方面就《美墨加協定》開展雙邊磋商。"
-    },
-    {
-      "id": "4913679",
-      "time": "2026-06-03 05:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴林內政部週二宣佈，即日起禁止本國公民前往伊朗、伊拉克，禁令另行通知前持續生效，並警示違規者將被追究法律責任。"
-    },
-    {
-      "id": "4913678",
-      "time": "2026-06-03 05:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普希望伊朗以書面形式做出核方面的讓步。"
-    },
-    {
-      "id": "4913677",
-      "time": "2026-06-03 05:16:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普敦促伊朗做出更堅定的核承諾。"
-    },
-    {
-      "id": "te:markets:555854",
-      "time": "2026-06-03 05:16:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bermuda",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Bermuda Hit All-time High — BSX increased to an all-time high of 3598.00 Index Points. Over the past 4 weeks, Bermuda Stock Exchange Index gained 0.56%, and in the last 12 months, it increased 27.44%."
-    },
-    {
-      "id": "4913676",
-      "time": "2026-06-03 05:16:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.15%，報15912點。"
-    },
-    {
-      "id": "4913675",
-      "time": "2026-06-03 05:14:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【匈牙利總理稱不會向烏克蘭供武】當地時間6月2日，匈牙利總理毛焦爾在德國柏林重申，即使在新一屆政府的領導下，匈牙利也不會向烏克蘭派遣軍隊或提供武器。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8a2e-b15d-733d-881a-b97cde7dbb70",
-      "time": "2026-06-03 05:12:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister responsible for Canada-U.S. trade, LeBlanc, said discussions covered exemptions from high industry-specific tariffs."
-    },
-    {
-      "id": "4913674",
-      "time": "2026-06-03 05:12:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長克里斯・賴特：去年，特朗普定下激進目標：在今年 7 月 4 日（美國建國 250 週年）前實現新一代核反應堆臨界啟動。目前專案進展順利，多座反應堆有望達成臨界狀態，兌現總統目標，助推美國核電復興程序。"
     }
   ]
 }
