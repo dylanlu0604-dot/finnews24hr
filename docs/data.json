@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-09 12:06:18",
-  "count": 19187,
+  "updated": "2026-06-09 12:10:14",
+  "count": 19183,
   "items": [
+    {
+      "id": "4925159",
+      "time": "2026-06-09 12:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民間團體人士：必須阻止日本強軍擴武程序】據日本方面9日訊息，日本自民黨當天將在黨總部召開總務會。會上將審議有關修改“安保三檔案”的建議草案。對於日本推動修改“安保三檔案”的動向，日本民間團體人士表示，日本近年來持續強軍擴武，相關動向值得警惕，必須阻止這一程序。（央視）"
+    },
+    {
+      "id": "4925158",
+      "time": "2026-06-09 12:08:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國信證券：COUPE引領光電共封裝新紀元 具製造能力廠商將率先迎來業績爆發】國信證券釋出研報稱，目前以COUPE為代表的3D光電共封裝技術正處於產業化加速落地的關鍵拐點。隨著頭部算力客戶訂單的持續匯入，掌握極微間距三維鍵合裝置、亞微米級主動對準裝置以及具備CPO先進封裝與精密無源器件製造能力的廠商將率先迎來業績爆發。"
+    },
+    {
+      "id": "4925157",
+      "time": "2026-06-09 12:07:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【泰銖或將跌至兩個多月低點】泰銖連續第三天走弱，而國內股市上漲。美元/泰銖上漲0.2%至32.8760；有望創下自2026年3月31日以來的最高收盤價。該國SET指數上漲0.9%，至1576.15點，有望結束連續兩日的下跌趨勢。"
+    },
+    {
+      "id": "mkt:019eaa90-4a7f-7eec-b848-41a62c43f906",
+      "time": "2026-06-09 12:07:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00148.HK",
+        "Impact bullish",
+        "01912.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 0.15%, PCB names extend gains】By midday Hong Kong stocks slipped after an early recovery; the HSI was down 0.15% while the Hang Seng Tech Index rose 0.62%. PCB-related names led gains: 00148.HK +21%+, 01888.HK +14%+, 02476.HK +8%+. Chip stocks advanced: 09903.HK +11%+, 00981.HK +4%+. Optical-communications names outperformed, with 06869.HK and 01729.HK both >5% higher. Other outperforming themes included brain–computer interface, artificial intelligence, internet large-caps, household appliances, retail and OLED. Weak sectors: biotech, ports & shipping, oil & gas services, coal and logistics. Notable stock moves: 01912.HK resumed trading +144% after receiving a full takeover offer at roughly a 34.82% discount; 00700.HK +3%; 00568.HK -17%."
+    },
+    {
+      "id": "4925156",
+      "time": "2026-06-09 12:05:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價延續漲勢；最新報312000韓元，漲幅5.6%。"
+    },
     {
       "id": "4925155",
       "time": "2026-06-09 12:05:44",
@@ -176899,84 +176946,6 @@
         "國際"
       ],
       "text": "【被控損害學生心理健康 美社媒以近三千萬美元和解 】美國多家社交媒體平臺被指控其技術容易致學生成癮從而影響心理健康，最終同意以庭外和解方式向肯塔基州一個學區支付約2700萬美元。這起訴訟由肯塔基州東部的佈雷西特縣學區提起，原定於本月晚些時候在加利福尼亞州奧克蘭市開庭審理，但涉案的臉書、優兔等4家社媒平臺的經營企業決定庭外和解。據法新社6月1日報道，上述企業同意各自支付200萬至900萬美元不等的和解金，而它們在和解協議中均未承認有任何過錯。佈雷西特縣學區原本尋求逾6000萬美元的賠償，用於資助一個為期15年的心理健康專案，並應對社交媒體對學生造成的負面影響，包括睡眠問題、情緒困擾和人際衝突。"
-    },
-    {
-      "id": "4911846",
-      "time": "2026-06-02 12:09:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構最新排名：Qwen3.7位列國產模型第一】5月20日，千問正式釋出了Qwen3.7-Max。在三方機構Artificial Analysis公佈的最新全球大模型總榜中，Qwen3.7-Max得分57，與GPT、Claude、Gemini最強模型分數接近，位列國產模型第一。"
-    },
-    {
-      "id": "4911845",
-      "time": "2026-06-02 12:08:29",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "谷歌DeepMind、Anthropic和Meta擴大對機器“意識”和人工智慧福利的研究。"
-    },
-    {
-      "id": "te:markets:555579",
-      "time": "2026-06-02 12:08:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Holds Firm After US Tariff Move — Copper futures remained above $6.5 per pound on Tuesday, hovering near over two-week highs after President Donald Trump signed a proclamation adjusting certain metals tariffs to better address national security concerns. The move has widened the US copper premium, potentially encouraging fresh inflows of the metal into US ports just as global supply constraints intensify. Chile, the world’s largest copper producer, reported its weakest April output in 23 years, underscoring mounting concerns over tight global supply. On the demand side, optimism around the expansion of artificial intelligence technologies and rapid data center buildouts supported the metal’s outlook. Rising copper usage in global power grids, driven by the ongoing shift toward cleaner energy systems, further reinforced the bullish demand narrative."
-    },
-    {
-      "id": "4911844",
-      "time": "2026-06-02 12:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所：港交所將與阿斯塔納國際交易所（AIX）簽署一份獨立諒解備忘錄，兩家交易所將展開合作，拓寬跨境上市機遇，推動股票雙重上市業務發展。"
-    },
-    {
-      "id": "4911843",
-      "time": "2026-06-02 12:07:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所：根據與阿斯塔納國際金融中心管理局達成的諒解備忘錄，港交所將在氣候轉型、脫碳工作以及綠色金融等領域開展合作。"
-    },
-    {
-      "id": "4911842",
-      "time": "2026-06-02 12:07:20",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "印度尼西亞統計局公佈資料：該國5月消費者物價指數（CPI）同比上漲3.08%，調查預期為同比上漲2.97%。"
-    },
-    {
-      "id": "4911841",
-      "time": "2026-06-02 12:07:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部等部門開展護航行動助力“平安高考”】從教育部獲悉，教育部會同網信、公安等部門部署開展“2026年高考護航行動”，全面做好考試組織、宣傳引導、考生服務等各項工作，全力護航“平安高考”。據悉，2026年高考期間，各地教育部門、招生考試機構將聯合網信、公安等部門集中開展打擊手機作弊、淨化涉考網路環境、打擊銷售作弊器材、打擊替考作弊、淨化考點周邊環境、清理整頓涉考培訓機構和助考中介等多個專項行動，清理處置助考犯罪、招生詐騙、虛假宣傳、網路謠言等不實有害資訊，加強治安、出行、食宿、醫療衛生、噪音治理、心理輔導等多方面綜合服務保障，營造良好考試環境，堅決維護教育考試公平。（新華社）"
-    },
-    {
-      "id": "4911840",
-      "time": "2026-06-02 12:07:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美航空航天局：美東北部“火球”現象由流星解體引發 】美國航空航天局1日證實，美國東北部新英格蘭地區5月30日下午出現的音爆和“火球”現象，由一顆進入地球大氣層的流星解體所致。美航空航天局在社交媒體平臺X上釋出訊息說，美國東部時間5月30日14時（北京時間31日2時）許，一顆直徑約1.6米、質量約5.6噸的流星以每小時約6.8萬公里的速度進入地球大氣層。該機構表示，這顆流星進入大氣層後從西北向東南方向飛行約42公里後，在距地面約50公里高空解體，最終有隕石碎片墜入馬薩諸塞州科德角灣。根據最新測算，流星解體釋放的能量約相當於230噸TNT炸藥爆炸，這也是當地居民聽到音爆巨響的原因。"
-    },
-    {
-      "id": "mkt:019e8682-ecf7-7663-9953-91c92ea3a025",
-      "time": "2026-06-02 12:06:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Alibaba Research Institute: Qwen3.7-Max ranks first among domestic models】Third-party firm Artificial Analysis’s latest global large-model ranking gave Qwen3.7-Max a score of 57, close to top GPT, Claude and Gemini models, and ranked it first among Chinese models. The model handles programming tasks from page prototyping to complex multi-file projects; in office workflows it can integrate tools and coordinate multi-agent collaboration to automate multi-step processes. In fully autonomous tests it remained coherent over runs exceeding 35 hours and more than 1,000 tool calls. It also demonstrates cross-agent-framework generalization, performing well when connected to various agent frameworks and tools."
     }
   ]
 }
