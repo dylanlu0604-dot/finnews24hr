@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-09 20:58:23",
-  "count": 19092,
+  "updated": "2026-06-09 21:03:27",
+  "count": 19065,
   "items": [
+    {
+      "id": "mkt:019eac79-87b5-7ddc-a5f4-527e4bea710d",
+      "time": "2026-06-09 21:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure."
+    },
+    {
+      "id": "4926298",
+      "time": "2026-06-09 21:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌1%，現報1360.00元。"
+    },
+    {
+      "id": "mkt:019eac78-5fb5-7ddc-a5f4-4b9e3c803b75",
+      "time": "2026-06-09 21:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says Nigeria's central bank should maintain tight monetary policy."
+    },
+    {
+      "id": "mkt:019eac78-56bf-7ddc-a5f4-463819ba3366",
+      "time": "2026-06-09 21:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Night session open: China's domestic commodity futures main contracts were mostly lower. SC crude oil, fuel oil and styrene (EB) fell about 2%; synthetic rubber, PET bottle flake, PTA, paraxylene (PX) and short fiber dropped over 1%. On the upside, SHFE tin rose nearly 2%, alumina gained more than 1%, and SHFE copper and zinc were up about 1%."
+    },
+    {
+      "id": "4926297",
+      "time": "2026-06-09 21:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：奈及利亞應保持緊縮貨幣政策以抑制通貨膨脹。"
+    },
+    {
+      "id": "4926296",
+      "time": "2026-06-09 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報6244.00元。"
+    },
+    {
+      "id": "4926295",
+      "time": "2026-06-09 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續跌3.55%，碳酸鋰連續漲3.45%，集運指數歐線期貨連續漲3.08%，雞蛋連續漲2.78%，菜籽連續跌2.40%。"
+    },
+    {
+      "id": "4926294",
+      "time": "2026-06-09 20:59:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英法澳等五國發布新制裁追究以色列定居者責任，警告以政府採取緊急措施】據半島電視臺網站6月9日報道，英國、澳大利亞、加拿大、法國和挪威五國當地時間8日發表宣告，稱已採取協同行動追究以色列強硬派定居者的責任，以回應被佔領約旦河西岸日益惡化的局勢。報道稱，上述五國在釋出新制裁措施後警告稱，如果以色列政府未能採取緊急措施解決當地局勢，他們準備隨時採取進一步行動。（環球網）"
+    },
+    {
+      "id": "4926293",
+      "time": "2026-06-09 20:58:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "【美銀：5月CPI料創2023年4月以來最高水平】美銀的一份報告顯示，定於週三公佈的5月CPI同比增幅料升至4.2%，為2023年4月以來的最高水平。這一增幅符合接受《華爾街日報》調查的經濟學家的預期。該報告稱，對於政策前景，焦點可能會放在對核心個人消費支出價格指數(PCE)通脹的影響上，因為自去年11月以來，該指數一直高於CPI。"
+    },
+    {
+      "id": "mkt:019eac76-1a1e-7ddc-a5f4-384d53f70900",
+      "time": "2026-06-09 20:58:01",
+      "tags": [
+        "MKT News",
+        "NVO",
+        "Impact bullish",
+        "LLY"
+      ],
+      "text": "【Goldman Sachs lifts global obesity-drug forecast to $114bn by 2030 as oral GLP-1s go mainstream】Goldman Sachs raised its forecast for the global obesity-drug market to $114bn by 2030, up roughly 13% from a $101bn projection in December, citing rapid adoption of oral GLP-1 obesity drugs and a shift from a niche, high-price segment to a mass-consumer market."
+    },
     {
       "id": "mkt:019eac75-eb82-7ddc-a5f4-370a2168f0bd",
       "time": "2026-06-09 20:57:49",
@@ -175646,345 +175739,6 @@
         "其他"
       ],
       "text": "GORILLA TECHNOLOGY宣佈達成20億美元人工智慧基礎設施協議。"
-    },
-    {
-      "id": "4913039",
-      "time": "2026-06-02 21:03:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【成都首次完成無人/有人機混合執行驗證試飛】記者從成都市交通運輸局獲悉，6月2日，一架由成都縱橫自動化技術股份有限公司研發製造的大型無人機從成都淮州機場滑出跑道，沿西北方向順利穿越成都上空繁忙空域，最終安全降落在海拔超過3500米的阿壩紅原機場。這是成都首次完成無人/有人機在繁忙空域混合執行及跨區域協同保障驗證試飛，標誌著成都低空經濟從“隔離飛行”正式邁向“融合執行”新階段。（新華社）"
-    },
-    {
-      "id": "4913038",
-      "time": "2026-06-02 21:03:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "別樣肉客於紐約推出 Beyond Immerse 系列飲品。"
-    },
-    {
-      "id": "4913037",
-      "time": "2026-06-02 21:03:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "思科：思科雲控制平臺今日在美國開啟受控可用，後續將面向全球推出。"
-    },
-    {
-      "id": "4913036",
-      "time": "2026-06-02 21:02:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝因美：控股股東重整計劃獲法院批准，金華市國資委將控制13.35%股份】貝因美公告，公司控股股東浙江小貝大美控股有限公司重整計劃已獲浙江省金華市中級人民法院裁定批准，並終止重整程式。重整投資人金華臻合企業管理合夥企業（有限合夥）將透過直接收購小貝大美控股100%股份間接持有公司12.28%股份，與其一致行動人金華元恆企業管理合夥企業（有限合夥）已持有公司1.07%股份，合計控制公司13.35%股份。重整計劃實施完成後，公司實際控制人將變更為金華市國資委。"
-    },
-    {
-      "id": "mkt:019e886d-c894-7ee5-848c-77f5786ea77f",
-      "time": "2026-06-02 21:02:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Central Bank: foreign exchange reserves increased by €1.8bn to €344.2bn."
-    },
-    {
-      "id": "mkt:019e886d-7daf-7ee5-848c-6c0607d2f1c3",
-      "time": "2026-06-02 21:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Hammack said Fed Chair Kevin Warsh is approaching the role with an open mind and is asking many questions."
-    },
-    {
-      "id": "4913035",
-      "time": "2026-06-02 21:02:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：就業市場在新增就業疲軟的背景下保持穩定。美聯儲主席沃什正以開放的心態接近工作，提出許多問題。"
-    },
-    {
-      "id": "4913034",
-      "time": "2026-06-02 21:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：關稅並未引發通脹。"
-    },
-    {
-      "id": "mkt:019e886d-1ea4-7ee5-848c-674b3490df06",
-      "time": "2026-06-02 21:01:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "USAR.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. Rare Earths (USAR.O) chose Cherokee County, South Carolina, for a new rare-earth metals and magnet manufacturing facility."
-    },
-    {
-      "id": "4913033",
-      "time": "2026-06-02 21:01:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱外匯儲備增加18億歐元，至3442億歐元。"
-    },
-    {
-      "id": "4913032",
-      "time": "2026-06-02 21:01:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST嶺南：公司股票被疊加實施其他風險警示】*ST嶺南公告，公司近日收到廣東證監局出具的《行政處罰事先告知書》，指出公司披露的年度報告財務指標存在虛假記載行為。根據相關規定，公司股票將被疊加實施其他風險警示。本次被疊加實施其他風險警示後，公司股票簡稱仍為“*ST嶺南”，股票程式碼仍為“002717”，公司股票交易的日漲跌幅限制仍為“5%”。"
-    },
-    {
-      "id": "4913031",
-      "time": "2026-06-02 21:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要股指伊斯坦布林100指數上漲3%。"
-    },
-    {
-      "id": "4913030",
-      "time": "2026-06-02 21:01:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國工業部：韓國未來將把從加拿大進口的原油增加至每年2000萬桶。將在2026年從加拿大進口1600萬桶原油，較2025年的490萬桶有所增加。"
-    },
-    {
-      "id": "mkt:019e886c-8288-7ee5-848c-5c2c734cf4d3",
-      "time": "2026-06-02 21:01:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Trade Representative GREER said tariffs did not cause inflation."
-    },
-    {
-      "id": "mkt:019e886c-6591-7ee5-848c-5669b7f16e5f",
-      "time": "2026-06-02 21:01:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Hammack said the labor market is stable but payroll gains have been weak."
-    },
-    {
-      "id": "mkt:019e886c-42d3-7ee5-848c-4b9b3aa4d5fe",
-      "time": "2026-06-02 21:00:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "South Korea's industry ministry said the country will import 16 million barrels of crude oil from Canada in 2026, up from 4.9 million barrels in 2025."
-    },
-    {
-      "id": "4913029",
-      "time": "2026-06-02 21:00:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4922.00元。"
-    },
-    {
-      "id": "4913028",
-      "time": "2026-06-02 21:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度外交部證實：委內瑞拉代總統羅德里格斯3日至7日訪印 將與莫迪會談】印度外交部當地時間2日證實，委內瑞拉代總統德爾西·羅德里格斯將於6月3日至7日訪問印度。報道稱，此時正值新德里加大從加拉加斯的原油進口力度。報道稱，印度外交部發言人蘭迪爾·賈伊斯瓦爾在媒體吹風會上表示，羅德里格斯訪印期間將與印度總理莫迪舉行會談，雙方會談將涵蓋印委關係的各個領域，並探討在能源、貿易、投資、製藥、醫療保健、交通運輸和可再生能源等領域的進一步合作途徑。 (環球網)"
-    },
-    {
-      "id": "4913027",
-      "time": "2026-06-02 21:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科推出智慧體平臺，用於關鍵IT基礎設施的運維與防護。"
-    },
-    {
-      "id": "4913026",
-      "time": "2026-06-02 21:00:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾特斯（Voltus）與谷歌將透過“自備容量協議”釋放電網容量、拉動地方經濟增長。"
-    },
-    {
-      "id": "mkt:8cbcca2b-2a8c-45e2-8163-4d4be69d55f2",
-      "time": "2026-06-02 21:00:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Ministry of Industry said it will raise crude oil imports from Canada to 20 million barrels per year."
-    },
-    {
-      "id": "4913025",
-      "time": "2026-06-02 21:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "PolyMarket 完成首筆 GPU 衍生品大宗交易。"
-    },
-    {
-      "id": "mkt:019e886b-d4f3-7448-98be-af47ced348d6",
-      "time": "2026-06-02 21:00:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Night session open: most-active domestic futures contracts mostly higher. Shanghai tin up about 2%; Shanghai silver and rubber (20) up over 1%; Shanghai aluminum, LME copper and Shanghai zinc up around 1%. Decliners included SC crude, fuel oil and bitumen, down more than 1%; low-sulfur fuel oil (LU) and PVC down roughly 1%."
-    },
-    {
-      "id": "mkt:019e886b-d3ba-7448-98be-a53a922876f5",
-      "time": "2026-06-02 21:00:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed official Hammack said businesses have shown strong resilience amid numerous changes."
-    },
-    {
-      "id": "4913024",
-      "time": "2026-06-02 21:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破69000美元，日內跌3.39%。"
-    },
-    {
-      "id": "mkt:019e886b-b86f-7448-98be-9fef17aa7552",
-      "time": "2026-06-02 21:00:18",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish",
-        "MS.O"
-      ],
-      "text": "【SpaceX seeks underwriting fee below 0.75% for planned $75 billion IPO】SpaceX is negotiating with banks to underwrite a planned $75 billion IPO, seeking an underwriting fee below 0.75%. Even at that rate banks could still earn roughly $500 million from record first-day aftermarket trading. Co-leads Goldman Sachs and Morgan Stanley are set to take larger shares of the fee pool. The cited figures are base fees and exclude discretionary incentive payments. For context, banks typically charge 4–7% on IPOs (average deal size under $1 billion); fees fall materially on very large deals but usually remain above 1%."
-    },
-    {
-      "id": "4913023",
-      "time": "2026-06-02 21:00:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：多家企業在諸多變動中一直保持極強韌性。"
-    },
-    {
-      "id": "mkt:019e886b-a8c0-7448-98be-93cf01328e39",
-      "time": "2026-06-02 21:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's Hammack said he has heard both positive and negative cases regarding tariffs."
-    },
-    {
-      "id": "4913022",
-      "time": "2026-06-02 21:00:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：聽聞有關關稅的觀點存在正反兩面。"
-    },
-    {
-      "id": "4913021",
-      "time": "2026-06-02 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.88%，碳酸鋰連續跌3.91%，鈀連續漲2.43%，尿素連續跌2.34%，鉑連續漲2.21%。"
-    },
-    {
-      "id": "mkt:019e886b-6ce6-7448-98be-8de6e5fb6454",
-      "time": "2026-06-02 21:00:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US Republican Senator Graham said any agreement with Iran must punish future support for its proxies."
-    },
-    {
-      "id": "mkt:019e886b-2bc2-7448-98be-84f0166e2e3a",
-      "time": "2026-06-02 20:59:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Trade Representative Greer said the USTR will publish reports on additional Section 301 investigations in the coming weeks and said the U.S. faces a large trade deficit that requires substantial tariffs to correct."
-    },
-    {
-      "id": "4913020",
-      "time": "2026-06-02 20:59:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員格雷厄姆：任何伊朗核協議都必須懲罰未來對代理人的支援。"
-    },
-    {
-      "id": "4913019",
-      "time": "2026-06-02 20:59:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：我國存在鉅額貿易逆差，我們需要徵收高額關稅來糾正這一問題。"
-    },
-    {
-      "id": "4913018",
-      "time": "2026-06-02 20:59:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：我們將在未來幾周釋出其他301條款調查的相關報告。"
-    },
-    {
-      "id": "4913017",
-      "time": "2026-06-02 20:59:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【興業銀行：6月8日起，積存金活期產品將支援掛單購買、掛單贖回交易功能】興業銀行釋出公告，計劃調整積存金產品業務功能，並更新部分業務協議條款。自2026年6月8日起，積存金活期產品將支援掛單購買、掛單贖回交易功能。因黃金市場不斷變化，掛單訂單建立及成交需要一定時間，滿足掛單條件，不代表承諾交易成功。"
-    },
-    {
-      "id": "mkt:019e886a-7e40-7448-98be-7fc494cf0cef",
-      "time": "2026-06-02 20:58:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Vito Energy Group's Bahrain head said this year the legal definitions of force majeure and delivered-price (CIF) contracts have been pushed to the limit."
     }
   ]
 }
