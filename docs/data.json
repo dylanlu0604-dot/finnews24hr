@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-09 22:55:54",
-  "count": 18891,
+  "updated": "2026-06-09 22:59:54",
+  "count": 18888,
   "items": [
+    {
+      "id": "4926474",
+      "time": "2026-06-09 22:58:45",
+      "tags": [
+        "宏觀",
+        "行業"
+      ],
+      "text": "【蘇州：堅定不移招大引強、培優育強，充分釋放服務業發展潛能】6月9日，蘇州市服務業大會召開。蘇州市委書記範波強調，要突出需求牽引，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質多樣化便利化發展，啟用文旅體消費新活力，堅定不移招大引強、培優育強，充分釋放服務業發展潛能。要突出改革攻堅，強化要素保障，最佳化營商環境，深化區域協調，不斷激發內生動力。要突出科技賦能，將數字技術、綠色技術運用於服務全鏈條，實施“人工智慧+”行動，推動智慧經濟、平臺經濟、綠色經濟加快發展。要突出開放合作，主動對接國際高標準經貿規則，有序推進服務市場開放、服務貿易發展，培育外貿新動能、開拓引資新空間、提升樞紐新功能。要全面加強黨的領導，牢固樹立和踐行正確政績觀，充分調動各方面積極性主動性創造性，不斷提高謀劃和推進服務業發展的能力本領，改革創新、真抓實幹，奮力開創蘇州服務業高質量發展新局面。（蘇州釋出）"
+    },
+    {
+      "id": "te:markets:557717",
+      "time": "2026-06-09 22:57:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Aluminum Hits 4-week Low — Aluminum decreased to 3545.00 USD/T, the lowest since May 2026. Over the past 4 weeks, Aluminum lost 0.86%, and in the last 12 months, it increased 42.34%."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606093765493944",
+      "time": "2026-06-09 22:54:23",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲STOXX600指數轉跌，此前曾上漲0.8%。"
+    },
     {
       "id": "mkt:019eace0-3c12-7dd1-a396-ebe865edb2b1",
       "time": "2026-06-09 22:53:57",
@@ -174105,59 +174134,6 @@
         "國際"
       ],
       "text": "巴西總統盧拉：我與特朗普在華盛頓的會晤很成功，這惹惱了博索納羅家族。"
-    },
-    {
-      "id": "te:markets:555813",
-      "time": "2026-06-02 22:57:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Wavers as Markets Assess US-Iran Peace Prospects — WTI crude oil futures fluctuated around $92 per barrel on Tuesday after surging 5.5% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week."
-    },
-    {
-      "id": "4913293",
-      "time": "2026-06-02 22:57:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿斯麥股價續刷記錄新高 總市值報6500億美元】阿斯麥股價上漲4.3%，報1698.53美元/股，續刷記錄新高，總市值報6546億美元。"
-    },
-    {
-      "id": "mkt:019e88d6-c4e1-7ccc-bd1e-ef7156e47b4d",
-      "time": "2026-06-02 22:57:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England Governor Bailey said not all AI-related stocks will be winners."
-    },
-    {
-      "id": "mkt:019e88d6-5dd4-7aa9-a710-66a2ea788fb5",
-      "time": "2026-06-02 22:56:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said that since his last meeting with Trump, U.S. and Brazilian trade negotiators have met three times and have not yet reached an agreement."
-    },
-    {
-      "id": "mkt:019e88d6-2b9f-7aa9-a710-5be7188e4667",
-      "time": "2026-06-02 22:56:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Brazilian President Lula said he told Trump that the United States does not run a trade deficit with Brazil."
-    },
-    {
-      "id": "4913291",
-      "time": "2026-06-02 22:56:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：已經向特朗普表明，巴西與美國之間不存在貿易逆差。"
     }
   ]
 }
