@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-09 23:53:47",
-  "count": 18818,
+  "updated": "2026-06-09 23:57:39",
+  "count": 18813,
   "items": [
+    {
+      "id": "4926522",
+      "time": "2026-06-09 23:56:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守87美元/桶，日內跌4.72%。"
+    },
+    {
+      "id": "mkt:019ead18-6a97-7448-ac07-93a1becf27b7",
+      "time": "2026-06-09 23:55:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Fitch raises near-term metals and mining price forecasts."
+    },
+    {
+      "id": "te:markets:557737",
+      "time": "2026-06-09 23:54:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls to Over 3-Week Low — The FTSE 100 dropped more than 1% on Tuesday to its lowest level in over three weeks, pressured by broad declines across banks, healthcare and energy stocks. HSBC Holdings fell around 4%, while Standard Chartered declined more than 5%. Oil majors also weakened, with Shell down 1.8% and BP lower by 2.6%. Healthcare stocks were mixed, with AstraZeneca losing 1.1% and GSK slipping 0.3% after concerns following its $10.6 billion acquisition of cancer drug developer Nuvalent. BT shares fell more than 3% after reports that VodafoneThree is among bidders for TalkTalk’s consumer business, which serves around 1.75 million customers. On the positive side, WPP gained more than 5% after receiving a broker upgrade. Meanwhile, UK retail sales performed better than expected in May, supported by warmer weather that boosted demand for summer and outdoor products. Like-for-like sales increased 3.4%, beating forecasts of 0.8% growth."
+    },
+    {
+      "id": "4926521",
+      "time": "2026-06-09 23:54:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Salesforce啟動新一輪裁員計劃。"
+    },
+    {
+      "id": "mkt:019ead16-b8d2-7448-ac07-8c006a6b75f2",
+      "time": "2026-06-09 23:53:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude down 4.6%."
+    },
     {
       "id": "4926520",
       "time": "2026-06-09 23:51:54",
@@ -173453,96 +173509,6 @@
         "DXY"
       ],
       "text": "U.S. Secretary of State Rubio said the war in Iran has already ended."
-    },
-    {
-      "id": "4913405",
-      "time": "2026-06-02 23:57:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美加墨世界盃進入開賽倒計時 國際轉播中心正式啟用】2026年美加墨世界盃即將開幕。6月1日，國際足聯正式啟用了位於美國達拉斯的國際轉播中心，賽事期間，這裡將成為電視、廣播和新媒體運營的中心。（央視新聞）"
-    },
-    {
-      "id": "4913404",
-      "time": "2026-06-02 23:56:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗已同意就此前拒絕磋商的部分核計劃內容展開談判。"
-    },
-    {
-      "id": "4913403",
-      "time": "2026-06-02 23:56:55",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "【老鄉雞道歉】6月2日晚，連鎖餐飲品牌老鄉雞在社交平臺發文稱，“近期，我們看到有顧客攜寵進店，老鄉雞餐廳未能及時提醒和妥善安置；既給攜寵顧客造成了不便，更給其他顧客造成了不好的消費體驗。對此，我們感到非常抱歉。這是老鄉雞管理上的疏忽，在此我們向大家表示深深的歉意。”"
-    },
-    {
-      "id": "4913402",
-      "time": "2026-06-02 23:56:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我方已在印太區域扣押6艘船隻。"
-    },
-    {
-      "id": "mkt:019e890c-75a7-7ff0-aaad-9661347e3a15",
-      "time": "2026-06-02 23:55:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "US Secretary of State Rubio said the US seized six vessels in the Indo-Pacific."
-    },
-    {
-      "id": "4913401",
-      "time": "2026-06-02 23:55:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美銀預判美國通脹回升機率抬升，行情延續至2027年】美國銀行表示，近期宏觀經濟資料抬升美國一輪小幅再通脹週期延續至2027至2028年的可能性。該行預計本輪週期趨勢不變，但美債收益率上行空間有限，傾向採用期限與收益率曲線波段交易策略。美銀指出，10年期美債收益率突破4.4%是佈局中期頭寸的優質入場點位。"
-    },
-    {
-      "id": "mkt:019e890c-2553-7ff0-aaad-8d9c0705270a",
-      "time": "2026-06-02 23:55:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Brent crude traded at $95.00/barrel, up 0.04% on the day."
-    },
-    {
-      "id": "4913400",
-      "time": "2026-06-02 23:55:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：儘管透過中間人進行談判面臨諸多挑戰，伊朗已同意就其核計劃的某些方面進行談判，而一年前伊朗甚至拒絕討論這些方面。與伊朗的談判與和瑞士的談判截然不同。明白嗎？它們大相徑庭。"
-    },
-    {
-      "id": "4913399",
-      "time": "2026-06-02 23:54:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：即便伊核問題得到解決，美國和伊朗之間仍會存續分歧；歸根結底，除卻核計劃之外，我們還將面臨伊朗帶來的其他難題。伊朗把資金用於資助真主黨、哈馬斯，並在全球扶持“恐怖”活動。"
-    },
-    {
-      "id": "4913398",
-      "time": "2026-06-02 23:53:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗打算大批次自研導彈、無人機及各類常規武器，還要建設海軍力量，待到那時美方將束手無策，這也是特朗普下令開戰的緣由。"
     }
   ]
 }
