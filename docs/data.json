@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-09 13:42:42",
-  "count": 19179,
+  "updated": "2026-06-09 13:46:46",
+  "count": 19185,
   "items": [
+    {
+      "id": "mkt:019eaae9-636a-7eec-b849-b9eb27fb5c2b",
+      "time": "2026-06-09 13:44:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shanghai crude futures (SC 2607) weakened intraday, extending losses to 3.07% at 578.4 yuan/barrel. Turnover was about 15.507 bln yuan; open interest fell nearly 3,300 lots intraday, leaving positions slightly lower."
+    },
+    {
+      "id": "mkt:019eaae9-4051-7eec-b849-b01bae17e738",
+      "time": "2026-06-09 13:44:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "The Shenzhen Composite Index rose more than 2% intraday, led by gains in glass and fiberglass, semiconductors and electronic components. Several constituent stocks, including Yingweike, Zhongcai Technology and Estun, were locked at their daily upper limit."
+    },
+    {
+      "id": "4925279",
+      "time": "2026-06-09 13:44:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.01%，現報15118.975點；上證指數漲0.70%，現報3987.135點；創業板指漲3.05%，現報3928.144點。"
+    },
+    {
+      "id": "mkt:019eaae8-cd00-7eec-b849-aec42a4b8ecf",
+      "time": "2026-06-09 13:44:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "ChiNext index rose more than 3% intraday, led by MLCCs, semiconductor and optical-fiber names; component stocks Sanhuan Group rose over 16%, Jiangfeng Electronics rose over 14%, Jingsheng Electromechanical rose over 11%."
+    },
+    {
+      "id": "4925278",
+      "time": "2026-06-09 13:43:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濟南市復惠星未來醫療投資管理合夥企業成立，出資額7501萬】天眼查App顯示，6月5日，濟南市復惠星未來醫療投資管理合夥企業（有限合夥）成立，執行事務合夥人為上海復星平耀投資管理有限公司，出資額7501萬人民幣，經營範圍為以自有資金從事投資活動、企業管理、資訊諮詢服務。合夥人資訊顯示，該合夥企業由復星醫藥旗下蘇州君明致遠創業投資合夥企業（有限合夥）、濟南星未來創業投資基金合夥企業（有限合夥）、上海復星平耀投資管理有限公司共同出資。"
+    },
+    {
+      "id": "4925277",
+      "time": "2026-06-09 13:43:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3％，上證指數漲0.68％，深證成指漲1.97％，MLCC、半導體、光纖等概念領漲。"
+    },
+    {
+      "id": "4925276",
+      "time": "2026-06-09 13:43:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲0.49%。"
+    },
+    {
+      "id": "4925275",
+      "time": "2026-06-09 13:42:49",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【滴滴宣佈接入微信AI生態，未來可直接喚起快車、專車、特惠等服務】隨著微信正式面向開發者提供AI生態接入能力，滴滴作為首批合作伙伴，已與微信團隊合作將核心網約車服務融入微信AI Agent。未來，使用者透過微信內AI互動，即可直接喚起滴滴快車、專車、特惠等服務。（新浪科技）"
+    },
+    {
+      "id": "4925274",
+      "time": "2026-06-09 13:42:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1665億元。"
+    },
+    {
+      "id": "4925273",
+      "time": "2026-06-09 13:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甬矽電子等在寧波新設智創創投合夥企業】企查查APP顯示，近日，甬聯智創（寧波）創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由甬矽電子等共同出資。"
+    },
+    {
+      "id": "4925272",
+      "time": "2026-06-09 13:42:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沃蘭特董明：新一輪融資和IPO計劃尚未決策】沃蘭特航空創始人、CEO董明日前接受證券時報記者採訪時表示，暫無明確的上市時間、地點和方案。經過多輪融資後，當前沃蘭特資金儲備充足，暫未確定下一輪融資計劃。"
+    },
+    {
+      "id": "mkt:019eaae6-e4c6-7eec-b849-a0fce3155c79",
+      "time": "2026-06-09 13:41:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Sources: BOJ weighing pause in JGB taper from next fiscal year, may lift short-term rate to 1% next week】Sources say the Bank of Japan is considering keeping its current JGB purchase volume unchanged from the next fiscal year rather than continuing scheduled reductions. Policy board views are split between members prioritizing market calm and those pushing steady tapering to shrink the central bank's balance sheet. At the June meeting the BOJ will review the current taper program (running through next March) and set policy for FY2027 and beyond. Four people familiar with the bank's thinking said, given progress in shrinking its balance sheet and upcoming bond maturities that will lower holdings, internal sentiment has shifted toward pausing further tapering. The BOJ could abandon its practice of an annual taper plan and adopt an open-ended framework committing to monthly purchases of JPY 2.1 tln. Markets expect the BOJ to raise the short-term policy rate from 0.75% to 1% at next week’s meeting."
+    },
     {
       "id": "mkt:019eaae6-663f-7eec-b849-9c320e4ae102",
       "time": "2026-06-09 13:41:26",
@@ -51,6 +178,14 @@
         "Japan & APAC"
       ],
       "text": "Japan 20-year bond yield fell 3.0 bps to 3.605%."
+    },
+    {
+      "id": "4925269",
+      "time": "2026-06-09 13:41:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥等在濟南成立新合夥企業 出資額7501萬】天眼查App顯示，近日，濟南市復惠星未來醫療投資管理合夥企業（有限合夥）成立，執行事務合夥人為上海復星平耀投資管理有限公司，出資額7501萬人民幣，經營範圍為以自有資金從事投資活動、企業管理、資訊諮詢服務。合夥人資訊顯示，該合夥企業由復星醫藥（600196）旗下蘇州君明致遠創業投資合夥企業（有限合夥）、濟南星未來創業投資基金合夥企業（有限合夥）、上海復星平耀投資管理有限公司共同出資。"
     },
     {
       "id": "4925267",
@@ -176831,66 +176966,6 @@
         "宏觀"
       ],
       "text": "【教育部等八部門聯合開展“國聘行動”】記者6月2日從教育部獲悉，教育部、人社部、國務院國資委等八部門日前印發通知，於5月至12月聯合開展“國聘行動”，全力促進2026屆高校畢業生和2024、2025屆離校未就業畢業生等重點群體儘早就業。據介紹，為深入挖潛拓展就業崗位，聚焦就業帶動能力強、崗位規模增長較快的製造業、服務業等重點產業領域，開發更多有利於發揮畢業生所學所長的就業崗位。鼓勵結合“十五五”規劃和城市產業發展，組織優質企業開展以“國聘行動+城市產業專場”為主題的招聘活動，帶動更多用人主體參與促就業。（新華社）"
-    },
-    {
-      "id": "4911954",
-      "time": "2026-06-02 13:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱遭俄73枚導彈656架無人機襲擊】當地時間今天（6月2日）凌晨，包括首都基輔在內，烏克蘭全境大部分地區都響起了空襲警報，基輔接連傳出劇烈爆炸聲。烏克蘭空軍稱，俄軍共發射73枚導彈和656架無人機襲擊基輔等地。烏克蘭方面稱，截至目前，俄軍的大規模空襲造成基輔、第聶伯羅和哈爾科夫至少10人死亡、約100人受傷。俄羅斯國防部也證實對烏克蘭境內目標發動大規模打擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e86dd-f500-7dd4-a7a8-49cb8a33fd06",
-      "time": "2026-06-02 13:45:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Ukraine says Russia launched 73 missiles, 656 drones】Air-raid sirens sounded across much of Ukraine, including Kyiv, in the early hours of June 2 amid repeated explosions. Ukraine’s air force said Russia launched 73 missiles and 656 drones against Kyiv and other areas. Ukraine reported at least 10 dead and about 100 wounded in Kyiv, Dnipro and Kharkiv so far. The Russian Defence Ministry confirmed large-scale strikes on targets inside Ukraine."
-    },
-    {
-      "id": "4911953",
-      "time": "2026-06-02 13:44:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國新基金、上城資本等在杭州成立創投基金】企查查APP顯示，近日，國新錢江創業投資基金（杭州）合夥企業（有限合夥）成立，出資額約10億元，經營範圍為創業投資。企查查股權穿透顯示，該合夥企業由中國國新控股旗下國新國同（杭州）股權投資有限公司、杭州上城領航創業投資有限公司、杭實智投（杭州）產業投資基金合夥企業（有限合夥）、國新創投基金（杭州）合夥企業（有限合夥）共同出資。"
-    },
-    {
-      "id": "4911952",
-      "time": "2026-06-02 13:43:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中冶、北京國資成立置業公司】企查查APP顯示，近日，北京麗澤築城置業有限公司成立，法定代表人為劉華衛，註冊資本為15億元，經營範圍包含：房地產開發經營；建設工程施工；土地整治服務；承接總公司工程建設業務；工程管理服務等。企查查股權穿透顯示，該公司由北京豐臺國有資本運營集團有限公司旗下北京麗澤金融商務區控股集團有限公司、中國中冶控股子公司上海寶冶集團有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019e86db-963f-7dd4-a7a8-4785d3c1b2b7",
-      "time": "2026-06-02 13:43:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said it struck Ukraine's defence-industrial facilities with high-precision, long-range weapons."
-    },
-    {
-      "id": "mkt:019e86db-6860-7dd4-a7a8-3d8b86504513",
-      "time": "2026-06-02 13:43:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Street's head of trading for South Korea expects the South Korean won to stabilise in H2."
-    },
-    {
-      "id": "4911951",
-      "time": "2026-06-02 13:42:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部表示，俄方已使用高精度遠端武器打擊烏克蘭國防工業設施。"
     }
   ]
 }
