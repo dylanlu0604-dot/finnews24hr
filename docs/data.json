@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-10 01:50:30",
-  "count": 18754,
+  "updated": "2026-06-10 02:22:00",
+  "count": 18730,
   "items": [
+    {
+      "id": "mkt:019ead9d-7b92-7225-91aa-14e10fd8ac36",
+      "time": "2026-06-10 02:20:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Iran's foreign minister said the armed forces have gone on alert in response to airspace incursions."
+    },
+    {
+      "id": "te:markets:557768",
+      "time": "2026-06-10 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 4.09% — Top commodity losers are Silver (-4.09%), Silicon (-1.75%), Platinum (-1.52%) and Gold (-1.17%)."
+    },
+    {
+      "id": "mkt:019ead9c-4601-7225-91aa-0bdaebd98443",
+      "time": "2026-06-10 02:19:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources said investor demand for SpaceX's IPO is approaching fourfold oversubscription."
+    },
+    {
+      "id": "mkt:019ead9c-1eb6-7225-91aa-02511aad7bca",
+      "time": "2026-06-10 02:19:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister said foreign forces operating near Iranian territory are continuously at risk — from human error, accidents or being drawn into crossfire during a conflict — and that the best way to reduce that risk is for those external forces to withdraw from the region."
+    },
+    {
+      "id": "4926616",
+      "time": "2026-06-10 02:18:07",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：SpaceX美國IPO 的認購需求已接近四倍超額認購。"
+    },
+    {
+      "id": "4926615",
+      "time": "2026-06-10 02:16:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：想要降低風險，最好的辦法就是撤離。我們傾向於透過外交方式溝通，但也做好了其他應對準備。"
+    },
+    {
+      "id": "te:markets:557767",
+      "time": "2026-06-10 02:16:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%."
+    },
+    {
+      "id": "4926614",
+      "time": "2026-06-10 02:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：臨近我國領土的外國駐軍，始終面臨風險，隱患源於人為失誤、意外事故，亦或是捲入交火衝突。"
+    },
+    {
+      "id": "te:markets:557766",
+      "time": "2026-06-10 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 3.28% — Top commodity losers are Crude Oil WTI (-3.28%), Natural Gas UK (-3.11%) and Brent Crude Oil (-2.68%). Gains are led by Methanol (1.91%) and Natural gas (0.50%)."
+    },
+    {
+      "id": "4926613",
+      "time": "2026-06-10 02:12:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。"
+    },
+    {
+      "id": "mkt:019ead92-fadf-7225-91a9-fa2f4302f100",
+      "time": "2026-06-10 02:09:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature."
+    },
+    {
+      "id": "4926612",
+      "time": "2026-06-10 02:07:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌 Gemini 推出智慧體風險監測功能。"
+    },
+    {
+      "id": "mkt:019ead88-7cf9-7225-91a9-f42094704efb",
+      "time": "2026-06-10 01:57:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) CEO said ADNOC subsidiary XRG is highly interested in opportunities in Canada’s upstream oil sector and liquefied natural gas (LNG)."
+    },
+    {
+      "id": "4926611",
+      "time": "2026-06-10 01:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列重開一處加沙地帶過境點 聯合國呼籲開放全部通道】聯合國秘書長副發言人法爾漢·哈克在例行記者會上透露，以色列已重新開放加沙地帶的凱雷姆沙洛姆過境點，但聯合國及人道主義夥伴需要開放更多過境點，以滿足日益增加的人道主義需求。聯合國秘書長古特雷斯也呼籲以色列開放所有過境點。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019ead86-4e60-7225-91a9-eb3ce009e380",
+      "time": "2026-06-10 01:55:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli media reported two suspected aerial targets launched from Lebanon were intercepted before entering Israeli airspace."
+    },
+    {
+      "id": "4926610",
+      "time": "2026-06-10 01:54:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司CEO：  旗下 XRG 部門對加拿大上游油氣及液化天然氣領域的合作機遇抱有濃厚興趣。"
+    },
+    {
+      "id": "mkt:019ead84-cf20-7225-91a9-e175e409c1f0",
+      "time": "2026-06-10 01:53:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Russia’s Emergency Situations Ministry reported three explosions on a major trunk gas pipeline in Dagestan."
+    },
     {
       "id": "te:markets:557765",
       "time": "2026-06-10 01:49:38",
@@ -172678,393 +172854,6 @@
         "國際"
       ],
       "text": "谷歌：將更新美國預測市場政策，禁止在俄亥俄州投放預測市場合約及相關產品廣告。"
-    },
-    {
-      "id": "4913577",
-      "time": "2026-06-03 02:21:53",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌：自2026年6月2日起，預測市場及相關產品的廣告推廣在俄亥俄州被禁止。"
-    },
-    {
-      "id": "4913576",
-      "time": "2026-06-03 02:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【辛鮑姆：墨美摩擦系極右翼勢力搞事】墨西哥總統辛鮑姆1日表示，她不認為美國總統特朗普在主導近期美政府針對墨方的政治“攻勢”，當前雙邊關係緊張應歸咎於兩國各自的極右翼勢力。 (新華社)"
-    },
-    {
-      "id": "4913575",
-      "time": "2026-06-03 02:21:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【真主黨不接受與以色列“部分停火” 雙方繼續互襲】黎巴嫩真主黨高階官員馬哈茂德·庫馬提2日接受媒體採訪時表示，真主黨不同意與以色列達成任何“部分停火”協議。庫馬提表示，真主黨及其盟友不會接受“用以軍停止襲擊貝魯特南郊換取真主黨停止打擊以色列北部居民點”的方案。他強調，真主黨只接受全面、完整且真正的停火，而不是僅僅回到本輪衝突爆發之前的局面，“我們不會同意任何部分停火協議”。據黎巴嫩國家通訊社2日報道，以色列軍隊當天仍持續對杜韋爾、奈拜提耶等黎南部多地發動空襲，造成至少12人死亡、4人受傷，死傷者包括黎政府軍人員。真主黨當天說，其武裝人員於2日凌晨對黎南部的以色列軍隊發動一系列襲擊。"
-    },
-    {
-      "id": "4913574",
-      "time": "2026-06-03 02:20:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長推出可長期自主執行、名為Autopilots的自主智慧體產品。"
-    },
-    {
-      "id": "mkt:019e8991-0167-7779-8aad-314b5f76a640",
-      "time": "2026-06-03 02:20:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) unveiled a new quantum chip and said it aims to deliver a practical quantum computer by 2029."
-    },
-    {
-      "id": "4913573",
-      "time": "2026-06-03 02:20:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟表示，內測版中的一款產品案例是名為Microsoft Scout的全天候職場智慧個人助理。"
-    },
-    {
-      "id": "te:markets:555845",
-      "time": "2026-06-03 02:20:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 1.82% — Top commodity losers are Lithium Carbonate (-1.82%) and Silicon (-0.52%). Gains are led by Copper (1.62%), Iron Ore CNY (0.70%) and Platinum (0.58%). Meanwhile Gold was little changed."
-    },
-    {
-      "id": "mkt:019e8990-03ba-7779-8aad-2cedd959711e",
-      "time": "2026-06-03 02:19:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) CEO launched Autopilots, long-running autonomous agents."
-    },
-    {
-      "id": "4913572",
-      "time": "2026-06-03 02:18:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟釋出新型量子晶片，目標2029年落地實用化量子計算機。"
-    },
-    {
-      "id": "mkt:019e898d-f656-7779-8aad-247f93f39cd8",
-      "time": "2026-06-03 02:17:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Microsoft (MSFT.O): Its Discovery service is now available to all organizations."
-    },
-    {
-      "id": "4913571",
-      "time": "2026-06-03 02:17:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Microsoft Discovery現已向所有組織全面開放。"
-    },
-    {
-      "id": "4913570",
-      "time": "2026-06-03 02:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克內閣批准方案：將傑伊漢港原油出口量提升至77萬桶/日。"
-    },
-    {
-      "id": "te:economy:555844",
-      "time": "2026-06-03 02:16:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Paraguay CPI Rises Slightly in May — Paraguay's annual inflation edged up to 2.4% in May 2026 from 2.3% in April. Price pressures were driven mainly by restaurants and hotels (8.4%), education (5.9%), food and non-alcoholic beverages (2.7%), and recreation and culture (2.8%). Additional increases were recorded in alcoholic beverages and tobacco (1.2%), housing and utilities (1.8%), furniture and household goods (2.0%), and healthcare (2.0%). On a monthly basis, consumer prices rose 0.1%, bringing cumulative inflation in the first five months of the year to 2.2%. Meanwhile, core inflation, which excludes more volatile items, remained unchanged at 1.9%, suggesting underlying price pressures stayed relatively contained."
-    },
-    {
-      "id": "te:markets:555843",
-      "time": "2026-06-03 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.13%) and Methanol (-1.05%). Gains are led by Gasoline (1.96%), Heating Oil (1.89%), Crude Oil WTI (1.58%) and Brent Crude Oil (0.91%)."
-    },
-    {
-      "id": "mkt:019e898b-2a83-7779-8aad-1c321a3fef05",
-      "time": "2026-06-03 02:14:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera, citing Lebanese officials, said the U.S. is working to secure a full ceasefire agreement by the end of talks tomorrow."
-    },
-    {
-      "id": "4913569",
-      "time": "2026-06-03 02:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "半島電視臺援引黎巴嫩官方訊息：美國正推動在明日本輪談判結束之際達成全面停火協議。"
-    },
-    {
-      "id": "4913568",
-      "time": "2026-06-03 02:12:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "據美國交通部資料，5月汽油均價較2025年上漲42.2%。"
-    },
-    {
-      "id": "mkt:019e8989-cef8-7779-8aad-14ecccfe7bff",
-      "time": "2026-06-03 02:12:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Department of Transportation data show average gasoline prices in May rose 42.2% year-on-year versus May 2025."
-    },
-    {
-      "id": "4913567",
-      "time": "2026-06-03 02:09:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "紐西蘭商務委員會：指控英國石油紐西蘭分公司涉嫌向旗下加油站違規定價。"
-    },
-    {
-      "id": "4913566",
-      "time": "2026-06-03 02:08:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "紐西蘭商務委員會擬對英國石油紐西蘭公司提起訴訟。"
-    },
-    {
-      "id": "4913565",
-      "time": "2026-06-03 02:08:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列方面訊息人士否認有關特朗普在黎巴嫩空襲相關通話中出言羞辱內塔尼亞胡的報道，稱雙方分歧僅在於對外口徑問題，美方意在避免黎巴嫩局勢升級。"
-    },
-    {
-      "id": "4913564",
-      "time": "2026-06-03 02:07:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱俄襲擊已致烏22死130傷】當地時間6月2日，烏克蘭總統澤連斯基在晚間影片講話中稱，俄羅斯對烏克蘭多座城市發動大規模襲擊，已造成22人死亡、130人受傷，遇難者中包括兩名兒童。目前，烏方救援、警務、市政及急救人員仍在持續開展滅火、人員搜救與傷員救治工作。"
-    },
-    {
-      "id": "mkt:019e8981-9965-7779-8aad-0bc62f37b826",
-      "time": "2026-06-03 02:03:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump accepts invitation to speak at White House Correspondents' Dinner, event rescheduled to July 24】President Trump said he has accepted an invitation from the White House Correspondents' Association to speak at the White House Correspondents' Dinner, rescheduled to July 24 after violence forced cancellation on April 25. He said he may again make remarks that some would find unpleasant and that the outcome will be known soon."
-    },
-    {
-      "id": "mkt:019e897f-a2e5-7779-8aad-0120151d3fd5",
-      "time": "2026-06-03 02:01:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Lebanese sources say delegations from Lebanon and Israel have not reached a decisive consensus on a ceasefire."
-    },
-    {
-      "id": "4913563",
-      "time": "2026-06-03 02:00:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長表示，智慧助理365軟體開發套件現已全面開放使用。"
-    },
-    {
-      "id": "mkt:019e897e-992f-7779-8aac-fdc37918846a",
-      "time": "2026-06-03 02:00:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) CEO said AGENT 365 SDK is now generally available."
-    },
-    {
-      "id": "4913562",
-      "time": "2026-06-03 02:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩訊息人士：黎以雙方代表團迄今未能在停火相關議題上達成關鍵性共識。"
-    },
-    {
-      "id": "mkt:019e897d-9ad2-7779-8aac-f208412dc070",
-      "time": "2026-06-03 01:59:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Rubio: US and Iran still talking; timing of any deal uncertain】US Secretary of State Rubio told the Senate Foreign Relations Committee on the 2nd that the US is still negotiating with Iran but he is uncertain when a deal might be reached. It was his first congressional testimony since the US and Israel launched a large-scale military operation against Iran in late February. Rubio said Iran has agreed to negotiate elements of its nuclear program — something it refused a month or a year ago — and that a deal could be reached today, tomorrow or next week, though he gave no assurance it would obtain congressional approval. He added the US has not proposed lifting sanctions or releasing frozen funds in exchange for reopening the Strait of Hormuz; any sanction relief would have to be conditional on resolving the nuclear issues that prompted the sanctions."
-    },
-    {
-      "id": "4913561",
-      "time": "2026-06-03 01:58:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：美伊仍在談 協議何時達成不確定】美國國務卿魯比奧2日在國會參議院外交關係委員會舉行的聽證會上表示，美國仍在與伊朗談判，但他不確定何時能達成協議。這是美國和以色列2月底對伊朗發起大規模軍事行動後，魯比奧首次在國會作證。回答議員關於美伊談判進展的提問時，他說，“我們正在同伊朗談判”，伊朗“已經同意就其核計劃的一些內容展開談判，而就在一個月前，甚至一年前，他們連談都不願談”。魯比奧說，與伊朗的協議“可能在今天達成，可能明天達成，也可能下週達成”，但這“並不保證最終一定能達成一份獲得國會認可的協議”。（新華社）"
-    },
-    {
-      "id": "4913560",
-      "time": "2026-06-03 01:57:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部：對馬來西亞出口光伏玻璃加徵反補貼稅。"
-    },
-    {
-      "id": "4913559",
-      "time": "2026-06-03 01:57:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部：對馬來西亞相關出口產品徵收反補貼稅。"
-    },
-    {
-      "id": "mkt:019e8979-c53f-7779-8aac-ee94edcf37a0",
-      "time": "2026-06-03 01:55:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. investment-grade bond issuance exceeded $1 trillion in 2026."
-    },
-    {
-      "id": "mkt:019e8978-cbcb-7779-8aac-e769656cd71c",
-      "time": "2026-06-03 01:54:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) launches new GitHub Copilot coding app."
-    },
-    {
-      "id": "4913558",
-      "time": "2026-06-03 01:53:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "2026年美國投資級債券發行規模將超過1萬億美元。"
-    },
-    {
-      "id": "4913557",
-      "time": "2026-06-03 01:52:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟推出全新GitHub Copilot程式設計應用。"
-    },
-    {
-      "id": "mkt:019e8977-72a4-7779-8aac-d922607e6339",
-      "time": "2026-06-03 01:52:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump said he accepted an invitation to the White House Correspondents' Dinner."
-    },
-    {
-      "id": "4913556",
-      "time": "2026-06-03 01:52:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已接受白宮記者協會晚宴邀請。"
-    },
-    {
-      "id": "mkt:019e8977-41a7-7779-8aac-d2a98db5c9d5",
-      "time": "2026-06-03 01:52:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump announced the White House Correspondents' Dinner, originally scheduled for April 25 and interrupted by an incident, will be rescheduled for July 24."
-    },
-    {
-      "id": "mkt:019e8976-2f24-7779-8aac-cbe8a7ed364b",
-      "time": "2026-06-03 01:51:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Canada formally proposes renewing United States–Mexico–Canada Agreement】Canada has formally proposed renewing the United States–Mexico–Canada Agreement (USMCA) for 16 years to avoid triggering the pact’s statutory annual review. In a letter to U.S. Trade Representative Jamison Greer and Mexico’s economy minister Marcelo Ebrard, Minister Dominic LeBlanc said parties may propose improvements to boost North American competitiveness, that Canada expects ongoing engagement with the U.S. and Mexico, and that parallel talks with the U.S. to resolve industry tariff issues are critical."
-    },
-    {
-      "id": "4913555",
-      "time": "2026-06-03 01:51:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將出席記者協會晚宴。"
-    },
-    {
-      "id": "4913554",
-      "time": "2026-06-03 01:51:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "凱雷集團收購巴斯夫塗料業務獲歐盟附條件批准，歐盟要求凱雷剝離諾力昂全球多硫化物業務。歐盟表示，將該業務出售給合適收購方可消除反壟斷顧慮。"
     }
   ]
 }
