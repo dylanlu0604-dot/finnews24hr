@@ -1,7 +1,161 @@
 {
-  "updated": "2026-06-10 00:18:34",
-  "count": 18820,
+  "updated": "2026-06-10 00:22:41",
+  "count": 18824,
   "items": [
+    {
+      "id": "mkt:019ead30-4c6f-7fff-91b5-bcce6195babe",
+      "time": "2026-06-10 00:21:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA now expects OECD oil inventories to fall to their lowest level since 2003."
+    },
+    {
+      "id": "mkt:019ead30-1de6-7fff-91b5-b726e0ecd291",
+      "time": "2026-06-10 00:21:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: Disruptions in the Strait of Hormuz forced Middle Eastern producers to cut output by more than 11 mln b/d in May versus pre-war levels."
+    },
+    {
+      "id": "4926561",
+      "time": "2026-06-10 00:20:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司表示，梅林 1X 探井取得可觀的地下勘探成果，儲層品質優良，產出輕質原油且伴生氣含量較低。"
+    },
+    {
+      "id": "mkt:019ead2f-c5b5-7fff-91b5-a82aaa2300d6",
+      "time": "2026-06-10 00:20:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver slipped below $65/oz, down 4.63% intraday; New York silver futures tumbled 5% to $65.16/oz. Spot gold traded at $4,255.35/oz, down 1.7% intraday."
+    },
+    {
+      "id": "te:markets:557753",
+      "time": "2026-06-10 00:20:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 5-week Low — Microsoft shares decreased to 400.62 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 2.81%, and in the last 12 months, it decreased 14.83%."
+    },
+    {
+      "id": "4926560",
+      "time": "2026-06-10 00:20:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署目前預計 2026 年全球石油需求將下滑，推翻了此前小幅增長的預測。"
+    },
+    {
+      "id": "mkt:019ead2f-165b-7cc9-8dc0-13450f6dd6e5",
+      "time": "2026-06-10 00:20:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy said it discovered a new offshore oilfield off Namibia."
+    },
+    {
+      "id": "4926559",
+      "time": "2026-06-10 00:19:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元跌至1.3969，為去年12月以來最低水平。"
+    },
+    {
+      "id": "4926558",
+      "time": "2026-06-10 00:19:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守65美元/盎司，日內跌4.65%。"
+    },
+    {
+      "id": "4926557",
+      "time": "2026-06-10 00:19:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司釋出宣告，宣佈在奈米比亞近海發現新油田。"
+    },
+    {
+      "id": "4926556",
+      "time": "2026-06-10 00:19:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報65.15美元/盎司。"
+    },
+    {
+      "id": "4926555",
+      "time": "2026-06-10 00:19:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報15600.00元。"
+    },
+    {
+      "id": "4926554",
+      "time": "2026-06-10 00:19:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4280美元/盎司，日內跌1.91%。"
+    },
+    {
+      "id": "4926553",
+      "time": "2026-06-10 00:19:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌3.00%，現報25150.877點；道指跌0.67%，現報50445.641點；標普500指數跌1.65%，現報7283.900點。"
+    },
+    {
+      "id": "mkt:019ead2d-dd68-7cc9-8dc0-093815655ead",
+      "time": "2026-06-10 00:18:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA named a four-person crew for Artemis III: three U.S. astronauts and one Italian astronaut will conduct an Earth-orbit mission."
+    },
+    {
+      "id": "4926552",
+      "time": "2026-06-10 00:18:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【紐約梅隆銀行首席投資官預計通脹持續高企將拖累債券】紐約梅隆銀行首席投資官Jason Granet表示，即便當前由戰爭引發的能源價格飆升消退之後，通脹率仍可能在更長時間內保持高位，推高利率，並在未來幾年拖累債券。Granet上月被任命為美國財政部借款諮詢委員會(TBAC)主席。他表示，經由霍爾木茲海峽的石油和天然氣運輸不太可能恢復到戰前狀態。再加上其他因素，包括人工智慧基礎設施支出激增，可能會令通脹承受上行壓力的時間長於市場預期。“遠期通脹預期顯示，全球通脹都會回落。我的看法是，各地通脹可能都會持續更久一點，”Granet在接受採訪時表示，“總體而言，這應該意味著利率會更高。”"
+    },
     {
       "id": "mkt:019ead2d-2893-7cc9-8dc0-030fe07d9a90",
       "time": "2026-06-10 00:17:48",
@@ -173538,112 +173692,6 @@
         "XAUUSD"
       ],
       "text": "U.S. Secretary of State Rubio said Iran's uranium-enrichment capacity has been significantly degraded, but can be rebuilt over time."
-    },
-    {
-      "id": "mkt:019e8924-6bba-7779-8aaa-d3407e1f0288",
-      "time": "2026-06-03 00:22:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said the US has not held talks with Iran on frozen assets and will discuss the matter only after Iran responds to US requests on nuclear issues."
-    },
-    {
-      "id": "4913450",
-      "time": "2026-06-03 00:22:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：蘇丹戰事已演變為代理人衝突，原因是 “阿聯酋與沙特分別站在對立兩方”。"
-    },
-    {
-      "id": "4913449",
-      "time": "2026-06-03 00:21:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數總市值歷史上首次突破69萬億美元關口。"
-    },
-    {
-      "id": "te:markets:555835",
-      "time": "2026-06-03 00:21:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes Slightly Higher — Frankfurt's DAX 40 pared some early gains to close about 0.5% up at 25,117 on Tuesday, as traders weighed prospects of a US–Iran agreement amid signs of easing Middle East tensions. US President Donald Trump said talks with Iran were still underway and suggested an interim deal could be reached as early as next week following a reported Israel–Hezbollah ceasefire in Lebanon. Meanwhile, Eurostat’s flash estimate showed inflation in May rising faster than in April, driven by volatile energy, highlighting persistent price pressures. Among key movers, Infineon Technologies jumped over 9% to record highs, tracking a broader AI-led rally in semiconductor stocks. Deutsche Post rose over 3% following a buy recommendation from Kepler Cheuvreux. On the downside, SAP reversed early gains and slipped 3%."
-    },
-    {
-      "id": "4913448",
-      "time": "2026-06-03 00:20:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "靛藍航空計劃將一架溼租的波音787-9“夢想客機”退還給挪威大西洋航空，該公司此前共溼租六架該型飛機。"
-    },
-    {
-      "id": "te:markets:555834",
-      "time": "2026-06-03 00:20:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Bond Yields Ease — The CAC 40 rose 0.8% to close at 8,209 on Tuesday, rebounding from the previous session's losses as easing sovereign bond yields supported risk appetite. Financial stocks rose, with BNP Paribas up 2%. Industrial and technology shares also advanced, with Schneider Electric gaining 4% and STMicroelectronics surging 15.1% after raising revenue targets for its data-center business, highlighting strong AI-driven demand. Luxury stocks moved higher as signs emerged that Chinese demand is stabilizing and LVMH intensified its focus on the US market. LVMH rose 1.1%, while Kering gained 2.7%. Meanwhile, investors monitored developments in the Middle East after Iran suspended indirect talks with Washington over Israel's military operations in Lebanon, although President Donald Trump maintained that negotiations were still ongoing. Markets also looked ahead to flash Euro Area inflation data, with headline inflation expected to rise to 3.2% in May and core inflation projected to edge up to 2.4%."
-    },
-    {
-      "id": "4913447",
-      "time": "2026-06-03 00:20:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【馬斯克關聯空殼公司在休斯頓郊外購地，550億美元晶片廠或落地於此】與馬斯克有關聯的一家空殼公司最近幾周在美國休斯敦郊外一處鄉村地區購置物業，表明這位億萬富豪可能在為一座計劃中的550億美元晶片廠敲定選址。該專案由SpaceX和特斯拉共同支援。根據房產記錄，這家名為WIT Tech LLC的公司已在格賴姆斯縣(Grimes County)購入至少六幅地塊，總面積超過6,000英畝，約合近10平方英里。相關交易金額未予披露。"
-    },
-    {
-      "id": "4913446",
-      "time": "2026-06-03 00:19:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：印巴之間的那場戰爭是我們促成結束的，美方參與斡旋促成停戰。"
-    },
-    {
-      "id": "4913445",
-      "time": "2026-06-03 00:19:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "靛藍航空：自2026年8月31日起，臨時停飛曼徹斯特航線。"
-    },
-    {
-      "id": "4913444",
-      "time": "2026-06-03 00:19:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴：聯合國專家指責美國“殖民行徑”。"
-    },
-    {
-      "id": "4913443",
-      "time": "2026-06-03 00:19:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【捷克一架私人飛機墜毀 致2人死亡】當地時間6月2日下午，在捷克布拉格的托克納機場附近，一架超輕型私人飛機在田野墜毀。據警方訊息，機上2人在事故中不幸遇難。目前，法醫專家正與民航管理部門共同調查事故原因。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8921-c26c-7aae-b7d9-2688a11bacb4",
-      "time": "2026-06-03 00:19:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu: will never allow Iran to threaten Israel's existence】On June 2, Israeli Prime Minister Netanyahu said at the handover ceremony for the new head of Mossad that Israel will continue its long-standing policy of never allowing Iran to obtain nuclear weapons or to threaten Israel’s existence."
     }
   ]
 }
