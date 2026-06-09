@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-09 21:24:06",
-  "count": 19012,
+  "updated": "2026-06-09 21:28:15",
+  "count": 19008,
   "items": [
+    {
+      "id": "4926335",
+      "time": "2026-06-09 21:27:12",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通股價小幅上漲，上漲0.8%，此前管理層在會議上發表了講話。"
+    },
+    {
+      "id": "4926334",
+      "time": "2026-06-09 21:25:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌與美國航空簽署SAF協議】谷歌與美國航空6月9日宣佈簽署迄今航空公司與企業終端使用者之間規模最大的可持續航空燃料（SAF）公開協議。根據這項多年期合作，雙方將共同解鎖3500萬加侖SAF，預計減少近30萬噸二氧化碳當量排放。該協議同時帶動美國航空與燃料生產商Valero簽署了長期SAF供應合同。谷歌透過購買SAF證書抵消員工商務出行產生的碳排放，美國航空則採購實物SAF用於降低航班排放。"
+    },
+    {
+      "id": "mkt:019eac8e-92d7-7ddc-a5f4-dca8a245b74a",
+      "time": "2026-06-09 21:24:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said a meeting with U.S. Trade Representative Greer is expected to take place within the next few days."
+    },
+    {
+      "id": "4926333",
+      "time": "2026-06-09 21:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西財長：巴西方面將於近日與美國貿易代表格里爾舉行會談。"
+    },
+    {
+      "id": "4926332",
+      "time": "2026-06-09 21:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮德萊恩提交歐盟第21輪對俄製裁措施】歐盟委員會主席馮德萊恩9日表示，已向各成員國提交了第21輪對俄羅斯制裁措施，主要涉及能源、金融、漁業等領域。馮德萊恩在9日的釋出會上對媒體說，歐盟建議暫停俄原油價格上限的自動調整機制直至明年1月，以待油市趨穩；歐盟另擬將30艘船隻列入制裁名單，並將首次針對為“影子船隊”提供加油等服務的船隻採取措施，同時計劃限制對俄出售能源運輸船。在金融服務和加密資產領域，歐盟擬擴大交易禁令適用範圍，將多家俄銀行納入限制，並擬首次提出針對加密資產服務實施第三國禁令。在貿易領域，歐盟擬對俄軍事工業所需物項和技術實施新的出口限制，重點覆蓋航空航天、防務等領域所需的金屬、合金等，並計劃新增一批進口禁令，以進一步減少歐洲對俄產品的依賴。在漁業領域，歐盟擬首次對俄漁業採取實質性限制措施，並對包括鱈魚在內的部分產品實施全面進口禁令。（新華社）"
+    },
     {
       "id": "4926331",
       "time": "2026-06-09 21:23:10",
@@ -175180,87 +175222,6 @@
         "MKT News"
       ],
       "text": "Canada’s prime minister Carney said the country proposes extending the US‑Mexico‑Canada Agreement (USMCA) for 16 years."
-    },
-    {
-      "id": "4913110",
-      "time": "2026-06-02 21:27:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大提議將《美墨加協定》（USMCA）續期 16 年。"
-    },
-    {
-      "id": "4913109",
-      "time": "2026-06-02 21:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "維多利亞的秘密高管在電話會議上表示：預計第二季度關稅影響約為1500萬美元。"
-    },
-    {
-      "id": "mkt:019e8884-354a-7cc2-b75f-b3e54ef89a91",
-      "time": "2026-06-02 21:27:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Governor Hammack said the unemployment rate remains the best single gauge of the labor market and that the labor market is broadly in balance."
-    },
-    {
-      "id": "4913107",
-      "time": "2026-06-02 21:25:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：失業率仍是衡量就業市場的最佳單一指標。"
-    },
-    {
-      "id": "mkt:019e8882-7b72-799a-9e6a-cab878dce536",
-      "time": "2026-06-02 21:25:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Purdue University: U.S. farmer confidence fell in May."
-    },
-    {
-      "id": "mkt:019e8882-79f7-799a-9e6a-c46138e517e0",
-      "time": "2026-06-02 21:25:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Oil exports from Russia's western ports rose 15% MoM in May after drone strikes disrupted refinery operations, sources said."
-    },
-    {
-      "id": "mkt:019e8881-fbe7-799a-9e6a-bffd4f5f457b",
-      "time": "2026-06-02 21:24:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel, Lebanon hold fourth round of talks in Washington】Israeli sources said the fourth round of Israel-Lebanon talks took place in Washington on the 2nd (local time)."
-    },
-    {
-      "id": "4913106",
-      "time": "2026-06-02 21:24:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，無人機襲擊擾亂煉油活動後，俄羅斯5月西部港口石油出口環比增長15%。"
-    },
-    {
-      "id": "4913105",
-      "time": "2026-06-02 21:24:24",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "普渡大學：美國農民信心指數在5月份走低。"
     }
   ]
 }
