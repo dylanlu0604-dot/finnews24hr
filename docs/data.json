@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-10 04:34:11",
-  "count": 18724,
+  "updated": "2026-06-10 04:38:10",
+  "count": 18721,
   "items": [
+    {
+      "id": "4926691",
+      "time": "2026-06-10 04:36:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方媒體援引軍方訊息人士稱，過去24小時內霍爾木茲海峽未進行任何進攻性空中軍事行動。"
+    },
+    {
+      "id": "4926690",
+      "time": "2026-06-10 04:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -911.9萬桶，之前一週 -675.7萬桶。"
+    },
+    {
+      "id": "te:markets:557777",
+      "time": "2026-06-10 04:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index gained 85 points or 0.17 percent on Tuesday to close at 50871 points. Gains were led by Home Depot (3.71%), Sherwin-Williams (3.70%) and Nike (3.25%). Biggest losers were Salesforce (-3.96%), Apple (-3.61%) and Cisco Systems (-3.07%)."
+    },
+    {
+      "id": "4926689",
+      "time": "2026-06-10 04:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮人工智慧政策顧問托馬斯·林德即將離職。"
+    },
     {
       "id": "4926688",
       "time": "2026-06-10 04:33:38",
@@ -172739,71 +172776,6 @@
         "國際"
       ],
       "text": "美國白宮首席經濟顧問凱文·哈塞特： 未對霍爾木茲局勢做預判，也未參與相關談判。"
-    },
-    {
-      "id": "4913648",
-      "time": "2026-06-03 04:37:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮首席經濟顧問凱文·哈塞特： 隨著從海灣地區原油進口量增加，汽油價格即將下調。"
-    },
-    {
-      "id": "4913647",
-      "time": "2026-06-03 04:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮首席經濟顧問凱文·哈塞特談汽油：價格正在下降。"
-    },
-    {
-      "id": "4913646",
-      "time": "2026-06-03 04:36:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩-以色列首輪會談在華盛頓結束。"
-    },
-    {
-      "id": "mkt:019e8a0c-45aa-733d-8819-ce547062a6da",
-      "time": "2026-06-03 04:35:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal, citing U.S. officials, reported U.S. Defense Secretary Hegseth has delayed promotions for more than 20 senior Air Force officers."
-    },
-    {
-      "id": "4913645",
-      "time": "2026-06-03 04:35:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行：黃金成為全球官方儲備第一大資產 】歐洲中央銀行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，超越美國國債，成為全球官方儲備第一大資產。報告指出，美國國債在全球官方儲備資產中佔比降至22%，其他以美元計價的儲備資產佔比為20%，歐元儲備資產佔比為15%。報告認為，黃金儲備佔比的大幅提升首先歸因於估值效應。得益於國際金價在2024、2025年連續井噴式上漲，黃金資產價值水漲船高，從而在全球官方儲備中取得更大份額。（新華社）"
-    },
-    {
-      "id": "te:markets:555851",
-      "time": "2026-06-03 04:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.47% Higher — The Dow Jones Index gained 243 points or 0.47 percent on Tuesday to close at 51322 points. Gains were led by Cisco Systems (5.52%), Caterpillar (5.19%) and Apple (2.88%). Biggest losers were Nike (-4.79%), Salesforce (-4.18%) and Microsoft (-4.18%)."
-    },
-    {
-      "id": "te:markets:555850",
-      "time": "2026-06-03 04:34:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Rises Above $93 — WTI prices rose more than 1% on Tuesday afternoon to above $93 per barrel after a volatile session, as investors awaited updates on the Iran conflict. Iran is reviewing a U.S. proposal to end the war but has not been in contact with Washington for several days, despite President Trump’s statement that negotiations remain underway. Trump said on Monday that talks were progressing and that an agreement to extend the ceasefire reached in April and reopen the strait could be finalized within a week. However, Israel continued its military operations in southern Lebanon on Tuesday, a day after Trump urged Netanyahu to refrain from striking Beirut in an effort to prevent the conflict from widening."
     }
   ]
 }
