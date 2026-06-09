@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-10 04:53:25_
-_本檔包含 3771 則快訊，約 680119 字_
+_更新時間：2026-06-10 05:49:17_
+_本檔包含 3781 則快訊，約 679764 字_
+
+---
+
+### 2026-06-10 05:48:30  #公司 #市場 #焦點
+
+【超微電腦計劃進行70億美元的股權融資 盤後重挫逾0%】超微電腦計劃進行70億美元的股權融資，用於購買履行客戶人工智慧(AI)伺服器訂單所需的元件。該公司週二釋出新聞稿稱，此次股權融資將包括50億美元的承銷發售（包含約12.5億美元普通股和約37.5億美元存托股份）以及不超過20億美元的普通股市價發售，後者涉及超微電腦不早於第三季度開始不時地在公開市場直接出售股票。超微電腦在盤後交易中重挫逾10%。
+
+---
+
+### 2026-06-10 05:45:57  #國際
+
+伊朗方面：賈斯克與穆巴拉克山兩處地點遭到敵方襲擊。
+
+---
+
+### 2026-06-10 05:44:02  #公司 #國際
+
+【特朗普稱對伊朗的回應“非常強硬、非常有力”】據美國廣播公司(ABC)記者援引與特朗普的通話報道，這位美國總統表示他認為美國對伊朗的回應“應該非常強硬、非常有力，美國此次行動正是如此”。特朗普說：“我認為作出回應非常重要。他們擊落了一架直升機，在我們通話之際，我們正予以回應。”
+
+---
+
+### 2026-06-10 05:43:06  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran warned it would respond decisively if the United States uses a military helicopter crash as a pretext to provoke further incidents.
+
+---
+
+### 2026-06-10 05:42:46  #央行 #國際
+
+【美債交易員建倉押注美聯儲很快將加息 週三通脹報告備受關注】債券交易員正大舉建倉，押注未來幾個月美聯儲將多次加息，其中一些人預計最早可能在9月政策會議上行動。與有擔保隔夜融資利率（SOFR）掛鉤的期權市場中，這正是當前的主題。SOFR對美聯儲政策敏感。自上週五美國就業報告意外強勁、導致債市下挫以來，交易員一直在加大對加息的押注。
+
+---
+
+### 2026-06-10 05:40:22  #MKT News
+
+【U.S. House passes roughly $70 bln immigration enforcement funding bill】On June 9 local time the U.S. House passed the roughly $70 billion "Secure America Act", supplying funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol through the remainder of President Trump's term. The bill, which the Senate approved last week, will be sent to the president for signature. Democrats sought enforcement reforms — including officer body cameras and judicial authorization before home entries — but Republicans opposed those changes.
+
+---
+
+### 2026-06-10 05:40:21  #國際
+
+【美國眾議院透過約700億美元的移民執法撥款法案】當地時間6月9日，美國眾議院透過總額約700億美元的《安全美國法案》，為美國移民與海關執法局（ICE）和邊境巡邏隊提供資金直至美國總統特朗普本屆任期結束。該法案上週已獲參議院透過，下一步將提交美國總統簽署成為法律。法案旨在為ICE和邊境巡邏隊提供資金支援。此前，民主黨要求推動移民執法改革，包括要求執法人員佩戴隨身攝像機及進入住宅前取得司法授權，但遭共和黨反對。（央視新聞）
+
+---
+
+### 2026-06-10 05:40:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Mehr News Agency reports explosions heard at Bandar Abbas port in Iran.
+
+---
+
+### 2026-06-10 05:40:05  #MKT News
+
+Iranian media Fars News reports explosions were heard in eastern Hormozgan province.
+
+---
+
+### 2026-06-10 05:39:09  #焦點 #國際
+
+【伊朗南部多地遭美軍空襲】當地時間今天（6月10日）凌晨，伊朗南部霍爾木茲甘省東部地區，包括格什姆島以及錫裡克、米納布等地在內，均傳出爆炸聲，防空系統啟動。美軍中央司令部稍早前宣佈，美軍已對伊朗發動襲擊，以報復美軍一架“阿帕奇”直升機被擊落。
+
+---
+
+### 2026-06-10 05:37:31  #國際
+
+【伊朗霍爾木茲甘省部分地區發生爆炸】當地時間10日凌晨，伊朗南部霍爾木茲甘省東部地區，包括錫裡克、米納布等，發生數起爆炸。爆炸的確切來源和地點尚不清楚，但當地訊息人士稱，該省部分地區有防空系統啟動。美國中央司令部稍早前宣佈，美軍已對伊朗發動襲擊，以報復一架“阿帕奇”直升機被伊朗方面擊落。（央視新聞）
+
+---
+
+### 2026-06-10 05:36:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Explosions reported in parts of Iran's Hormozgan province】Multiple explosions were reported early on the 10th local time in eastern Hormozgan province, including Sirik and Minab. The source and precise locations of the blasts are unclear; local sources said air-defence systems were activated in parts of the province. CENTCOM earlier said US forces struck Iran in retaliation after Iran shot down an Apache helicopter.
+
+---
+
+### 2026-06-10 05:36:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state media reports an attack on Qeshm Island.
+
+---
+
+### 2026-06-10 05:36:05  #焦點 #國際
+
+伊朗國家媒體稱格什姆島遭到襲擊。
+
+---
+
+### 2026-06-10 05:33:46  #公司 #國際
+
+美國聯邦存款保險公司主席特拉維斯·希爾：要求銀行審查人員重點關注重大金融風險。
+
+---
+
+### 2026-06-10 05:32:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran state media confirmed a missile strike on the Sirik region.
+
+---
+
+### 2026-06-10 05:32:23  #其他
+
+澳航推出境內經濟艙票價：190餘條航線、近60個航點的單程票價低至105澳元。
+
+---
+
+### 2026-06-10 05:32:10  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #WTI #DXY
+
+Trump told ABC News that a U.S. response to Iran is important, saying, "They shot down a helicopter and we are responding. This is in response to what they did to our helicopter last night, and I believe the response should be very strong, very forceful."
+
+---
+
+### 2026-06-10 05:32:03  #國際
+
+伊朗國家媒體稱，錫裡克鎮證實遭一枚炮彈擊中。
+
+---
+
+### 2026-06-10 05:31:21  #MKT News
+
+Iranian media outlet Fars News reported explosions were heard in eastern Hormozgan province.
+
+---
+
+### 2026-06-10 05:30:55  #公司 #國際
+
+特朗普接受美國廣播公司採訪時表示：美方對伊朗的反擊行動力度十足、攻勢強勁。
+
+---
+
+### 2026-06-10 05:30:51  #國際
+
+伊朗法爾斯通訊社稱霍爾木茲甘省東部地區傳出爆炸聲。
+
+---
+
+### 2026-06-10 05:30:35  #公司 #國際
+
+特朗普向美國廣播公司表示：美國當下正在對伊朗採取應對行動。
+
+---
+
+### 2026-06-10 05:30:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+The US retaliatory strike against Iran began about 30 minutes ago, the New York Post reports. A US military statement said the action maintained "proportionality", which may indicate it was not intended to escalate into full-scale war.
+
+---
+
+### 2026-06-10 05:29:55  #焦點 #國際
+
+特朗普稱，必須對伊朗擊落美軍直升機一事作出回應。
+
+---
+
+### 2026-06-10 05:28:22  #國際
+
+【美副總統稱美伊協議或在一週至數月內達成】美國副總統萬斯表示，美國“非常接近”與伊朗達成一項能夠長期解決伊朗核問題的協議。萬斯表示，協議可能在未來一週內達成，也可能需要數月時間，但“絕對”會在11月中期選舉前取得結果。他稱，美國“希望達成一項既符合美國經濟利益，又能從長期確保伊朗無法獲得核武器的協議”。
+
+---
+
+### 2026-06-10 05:28:13  #MKT News #WTI #Impact bearish #Brent #DXY
+
+【Vance says U.S.-Iran deal could be reached within a week to several months】U.S. Vice President Vance said the U.S. is "very close" to a long-term agreement to resolve Iran's nuclear issue. He said the deal could be reached within a week or may take several months, but will "absolutely" be finalised before mid-November elections. Vance said the U.S. seeks an agreement that aligns with U.S. economic interests and ensures Iran cannot obtain nuclear weapons over the long term.
+
+---
+
+### 2026-06-10 05:27:10  #MKT News #Star Stocks
+
+A term sheet shows Tencent Holdings (00700.HK) raised $4.66 billion via issuance of US dollar and offshore renminbi bonds.
+
+---
+
+### 2026-06-10 05:26:04  #市場
+
+富時中國A50指數期貨收跌0.41%。
+
+---
+
+### 2026-06-10 05:24:52  #MKT News
+
+U.S. House passes $70 billion bill to fund immigration enforcement.
+
+---
+
+### 2026-06-10 05:24:39  #國際
+
+美國眾議院透過了一項總額700億美元的移民執法撥款法案。
+
+---
+
+### 2026-06-10 05:22:36  #國際
+
+【美軍開始對伊朗發動報復性打擊】當地時間6月9日，美國中央司令部表示，在總統特朗普指示下，美軍於美國東部時間17時開始對伊朗發動自衛性打擊，以回應前一天美軍“阿帕奇”直升機被擊落事件。美國中央司令部稱，此次行動是對伊朗“無端侵略行為”的回應。（央視新聞）
+
+---
+
+### 2026-06-10 05:21:34  #國際
+
+【伊朗南部錫裡克市發生爆炸】據當地居民反饋，當地時間10日凌晨，伊朗南部港口城市錫裡克市發生爆炸。目前伊朗官方暫未就爆炸發表評論。（央視新聞）
+
+---
+
+### 2026-06-10 05:18:43  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+CENTCOM said its forces launched a defensive strike against Iran at 5:00 p.m. ET today in response to the downing of a U.S. Army Apache helicopter yesterday, describing the operation as a proportionate response to unprovoked Iranian aggression.
+
+---
+
+### 2026-06-10 05:18:35  #焦點 #國際
+
+美國中央司令部：應總統指令，美國中央司令部部隊於美國東部時間今日下午5時，針對伊朗發起自衛打擊，以此回應昨日美軍阿帕奇直升機遭擊落事件。此次行動是針對伊朗無端挑釁採取的對等反擊。
+
+---
+
+### 2026-06-10 05:17:37  #市場 #焦點
+
+超微電腦盤後股價跌10%。
+
+---
+
+### 2026-06-10 05:15:56  #MKT News #Important
+
+Iranian media, citing local residents, reported explosions in the Sirik area; cause unknown.
+
+---
+
+### 2026-06-10 05:14:47  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Oil Stockpiles Fall More Than Expected — US crude oil inventories fell by 9.1 million barrels in the week ended June 5, far exceeding forecasts for a 3.4 million-barrel draw, after declining by 6.7 million barrels in the previous week. Despite a cumulative decline of roughly 44 million barrels over the past eight weeks, crude inventories remain nearly 7 million barrels above year-end levels. The Strategic Petroleum Reserve also continued to shrink, with another 7.9 million barrels withdrawn during the week. Inventories at Cushing, Oklahoma, fell by 1.125 million barrels, following a 279,000-barrel decline a week earlier. US crude production eased to 13.707 million barrels per day from 13.715 million. Gasoline inventories declined by 1.191 million barrels after a 3.45 million-barrel increase in the prior week, while distillate stocks rose by 1.3 million barrels after falling 214,000 barrels previously.
+
+---
+
+### 2026-06-10 05:14:45  #國際
+
+伊朗邁赫爾通訊社援引當地居民訊息稱，錫裡克地區聽到爆炸聲，爆炸原因尚不明確。
+
+---
+
+### 2026-06-10 05:13:20  #其他
+
+超微電腦宣佈擬進行70億美元股權及股權掛鉤融資交易，為人工智慧訂單提供資金。
+
+---
+
+### 2026-06-10 05:07:02  #國際
+
+【伊朗外長敦促地區外國軍隊撤離】伊朗外長阿拉格齊當地時間6月9日晚在社交媒體平臺發文指出，“靠近我國領土的外國軍隊時刻面臨著因自身人為失誤、純粹意外或可能被捲入交火而產生的風險。為降低風險，最佳方案就是撤離。我們更傾向於使用外交辭令，但也懂得其他‘語言’。
+
+---
+
+### 2026-06-10 05:06:00  #MKT News
+
+DRC reported confirmed Ebola cases rose to 598, including 115 deaths.
+
+---
+
+### 2026-06-10 05:04:29  #MKT News
+
+Israel Defense Forces said it detected projectiles launched from Lebanon toward multiple settlements in northern Israel; the IDF Home Front Command issued precautionary orders and authorities instructed residents to enter shelters or safe rooms when alarms sound.
+
+---
+
+### 2026-06-10 05:04:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Lebanese state media reported Israeli airstrikes on the Lebanese towns of Touline, Srifa and Kafra.
+
+---
+
+### 2026-06-10 05:03:28  #公司 #資料 #市場 #觀點 #其他
+
+【6月10日美股成交額前20：Nuvalent獲GSK收購，股價飆升逾39%】週二美股成交額第17名Nuvalent收高39.28%，股價創歷史新高，成交63.54億美元。訊息面上，葛蘭素史克宣佈同意以106億美元的價值收購Nuvalent。宣告指，GSK將以每股124美元現金收購Nuvalent，較後者週一（8日）收市價溢價40%。交易尚待監管部門批准，預計將於第三季度完成。Nuvalant專為腫瘤患者（包括肺癌）設計小分子及精準靶向療法。
+
+---
+
+### 2026-06-10 05:01:55  #其他
+
+通用汽車風投部門擬收購初創企業皮克能源股權，聯合研發儲能電池。
+
+---
+
+### 2026-06-10 05:01:31  #其他
+
+剛果方面表示，埃博拉確診病例數已升至598例，其中死亡病例115例。
+
+---
+
+### 2026-06-10 05:00:48  #國際
+
+美國國防部發布宣告，防長赫格塞思將出行考察。赫格塞思明日啟程，前往關塔那摩基地及中央司令部慰問駐軍。
+
+---
+
+### 2026-06-10 04:59:29  #國際
+
+以色列國防軍：針對黎巴嫩向以色列北部發動襲擊一事下達作戰指令。
+
+---
+
+### 2026-06-10 04:57:03  #國際
+
+黎巴嫩官方媒體報道，以色列空襲了黎巴嫩的圖林、斯里法、卡夫拉三座城鎮。
+
+---
+
+### 2026-06-10 04:54:08  #國際
+
+【伊朗否認24小時內於霍爾木茲動武】當地時間今天（6月10日）凌晨，伊朗國家媒體援引軍方訊息人士報道稱，“過去24小時內伊朗未在霍爾木茲海峽開展任何進攻性空中軍事行動。”報道稱，“如果美方以‘阿帕奇‘直升機墜毀為藉口，重啟敵對行動，伊朗將予以決定性回應。”美國總統特朗普稍早前在社交媒體平臺發帖稱，美軍一架“阿帕奇”直升機“被伊朗擊落”。特朗普稱，儘管機上2人安全獲救，但美軍“必將對此作出回應”。（CCTV國際時訊）
 
 ---
 
@@ -22460,251 +22766,5 @@ Nickel Hits 6-week Low — Nickel decreased to 18306.00 USD/T, the lowest since 
 ### 2026-06-08 21:44:27  #MKT News #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #CNH
 
 【Shaanxi Development and Reform Commission orders coal firms to lawfully release advanced capacity under safety conditions】Shaanxi Development and Reform Commission issued a notice on 2026 summer peak energy security, directing local development and reform departments to ensure coal supply. Coal producers are ordered, under safety and legal compliance, to release advanced capacity, operate to full design output and stabilize/increase production. The notice tightens coal suppliers’ supply obligations and mandates supervisory oversight of power-coal long-term contract performance, with monthly fulfillment rates of no less than 90% during the peak summer period. Rail authorities must prioritize coal logistics and provide targeted deliveries to plants with low stocks. Power generators must report daily coal inventories; centrally dispatched plants should raise usable coal stocks to more than 20 days before the summer peak, and during the peak plants with coal stocks below 15 days will face dynamic zero dispatch.
-
----
-
-### 2026-06-08 21:41:56  #MKT News
-
-cenc automatic determination: at 21:39 on June 8 a magnitude ~3.7 earthquake occurred near Kangding, Ganzi Prefecture, Sichuan (29.92°N, 101.96°E). Final results subject to the official rapid report.
-
----
-
-### 2026-06-08 21:41:36  #國際
-
-美國銀行將閃迪目標價位從1550美元上調至2100美元。
-
----
-
-### 2026-06-08 21:41:24  #國際
-
-【歐盟將啟動900億歐元烏克蘭援助貸款】歐盟委員會發言人鮑拉日·烏伊瓦里8日在例行新聞釋出會上說，歐盟將啟動總額900億歐元的烏克蘭援助貸款，首批貸款發放金額為91億歐元。烏伊瓦里在回答記者提問時說，首批貸款中的59億歐元將用於軍事，32億歐元將用於財政預算。相關技術細節正在最後敲定，預計於本月內發放。（新華社）
-
----
-
-### 2026-06-08 21:41:21  #宏觀
-
-【陝西發改委：督促煤炭企業在安全前提下依法合規釋放先進產能 做到應產盡產、穩產增產】陝西省發展和改革委員會發布關於做好2026年迎峰度夏能源保供工作的通知。抓實煤炭穩產穩供。各產煤市發展改革部門要落實屬地責任，督促煤炭企業在安全前提下依法合規釋放先進產能，做到應產盡產、穩產增產。進一步壓實煤炭企業保供主體責任，強化電煤中長期合同履約監管，迎峰度夏期間月度履約率不低於90%。鐵路部門要強化運力統籌，優先保障電煤運輸，對存煤偏低電廠實施精準保供。發電企業要嚴格執行電煤庫存日報告制度，迎峰度夏前統調電廠存煤可用天數提升至20天以上，度夏期間存煤低於15天電廠動態清零。
-
----
-
-### 2026-06-08 21:40:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Data from the U.S. Department of Transportation showed U.S. airlines' fuel costs rose 78% in April to nearly $6.5 billion.
-
----
-
-### 2026-06-08 21:40:05  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.15% Higher — The Dow Jones Index is up by 74 points or 0.15 percent on Monday. Top gainers are Nvidia (1.88%), Apple (1.50%) and Chevron (1.30%). Biggest losses came from Salesforce (-1.26%), Walt Disney (-1.13%) and Microsoft (-1.00%).
-
----
-
-### 2026-06-08 21:40:04  #其他
-
-【英偉達押注AI PC賽道 分析師稱市場需求仍待驗證】英偉達上週推出RTX Spark超級晶片，進軍AI PC市場，主打本地執行大模型和AI代理功能，瞄準開發者與內容創作者群體。對此，分析師認為，高售價和儲存成本限制其普及，AI PC需求尚未得到驗證。
-
----
-
-### 2026-06-08 21:39:57  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude turned lower after Iran and Israel announced successive pauses in attacks on each other.
-
----
-
-### 2026-06-08 21:39:46  #市場 #國際
-
-【伊朗和以色列先後宣佈停止襲擊對方 WTI原油期貨大幅跳水日內轉跌】WTI原油期貨價格跌0.01%，報90.533美元/桶；布倫特原油期貨價格漲0.68%，報93.720美元/桶。訊息面上，伊朗武裝部隊哈塔姆·安比亞中央司令部8日宣佈，“對以色列的軍事打擊行動告一段落”。以色列第12頻道電視臺8日援引以色列高階官員的話說，以色列應美國總統特朗普要求，暫停對伊朗的襲擊。
-
----
-
-### 2026-06-08 21:39:32  #其他
-
-英國金融行為監管局對尼爾・伍德福德及 W4.0 採取監管行動。
-
----
-
-### 2026-06-08 21:39:09  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Equities Bounce Back — US equities rose on Monday on signs of a cautious de-escalation in the Middle East and a halt to the selloff for chip producers. The S&P 500 gained 0.8%, the Nasdaq 100 gained 1.5%, while the Dow were 0.4% higher. Iran stated it had ended its military operation in Israel following strikes over the weekend and President Trump signaled optimism in progress over a deal with Iran, easing concerns that escalation would have broken ongoing negotiations to end the conflict. Energy prices and Treasury yields pared their rebound to support equities. Meanwhile, speculative positions on the AI economy returned as after Broadcom's earnings ignited a selloff in chip producers last week. Nvidia gained 2% while Micron and Marvell jumped over 4% each, with the latter set to join the S&P 500 later this month. AI infrastructure and datacenter investment will be tested yet again on Wednesday evening with Oracle's earnings. Its shares were 2% higher.
-
----
-
-### 2026-06-08 21:38:52  #市場 #國際
-
-美國交通部：美國航空業4月燃油成本上漲78%，至近65億美元。
-
----
-
-### 2026-06-08 21:38:39  #市場
-
-NURIX THERAPEUTICS與ROCHE達成20億美元癌症藥物合作協議後，其股價上漲22%。
-
----
-
-### 2026-06-08 21:38:27  #Trading Economics #Economy #Chile #Balance of Trade #Importance 0
-
-Chile Trade Surplus Widens in May — Chile’s trade surplus widened to $2.4 billion in May 2026 from $1.70 billion a year ealier. Exports grew 9.3% year-on-year to $9.5 billion, driven by higher sales of mining (14.7%), and industrial products (4.4%). The rise in mining exports was due to an increase of shipments of copper (8.7%), silver (204.2%), gold (38.1%), and lithium carbonate (163.7%). Industrial shipments rose on higher exports of chemical products (30.9%), basic metallic industry (47.8%), and metallic products, machinery and equipments (11.7%). In contrast, agricultural, forestry and fishing sales fell by 18.1%. Meanwhile, imports declined by 9%, down on lower purchases of consumer goods (-7.6%), intermediate goods (-9.2%), and capital goods (-7.3%).
-
----
-
-### 2026-06-08 21:37:48  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bullish
-
-【CITIGROUP raises S&P 500 year‑end target to 8,100, cites AI-driven earnings growth】CITIGROUP raised its S&P 500 year‑end target to 8,100 from 7,700, implying just over 9.5% upside from last Friday’s close and says AI-led earnings growth could push the index past 8,000 in 2026. The bank projects S&P 500 EPS of $350 in 2026 and $400 in 2027. Analysts note unusually widespread Q1 earnings beats; while not fully sustainable, they expect the earnings surprise rate to remain above normal for several quarters and for earnings growth to supplant valuation expansion as the primary market driver. They warned US‑Iran hostilities, inf and the interest‑rate path could spur volatility, but said AI spending remains the focal point for investors and concerns about an AI bubble are premature — the market is in the mid‑game and future P/E should moderate as earnings bear more of the burden for returns.
-
----
-
-### 2026-06-08 21:37:37  #其他
-
-香港天文臺晚上9時35分改發紅色暴雨警告訊號。
-
----
-
-### 2026-06-08 21:37:25  #MKT News
-
-HKO issued the Red Rainstorm Warning Signal at 21:35 HKT.
-
----
-
-### 2026-06-08 21:37:23  #公司
-
-利巴斯消費品公司將投資最高1500萬盧比。
-
----
-
-### 2026-06-08 21:36:04  #公司
-
-【李殿勳在武漢調研腦機介面技術創新和產業發展】據湖北日報，6月8日上午，湖北省委副書記、省長李殿勳在武漢東湖新技術開發區調研腦機介面技術創新和產業發展時強調，要搶抓新一輪科技革命和產業變革的重大歷史機遇，主動回應新時期人民群眾對高品質生活特別是對健康快樂的新需求，充分發揮湖北科技教育、醫療健康等領域比較優勢，堅持需求牽引和創新驅動，以系統觀念科學務實推動全省腦機介面產業快速健康發展。李殿勳先後來到光谷國際腦機介面創新中心、武漢衷華腦機公司、同濟醫院腦機介面研究院，瞭解腦機介面技術攻關、成果轉化、產業培育等情況，察看腦機介面產品試驗試製和臨床應用進展，並聽取省相關部門工作彙報。
-
----
-
-### 2026-06-08 21:35:44  #其他
-
-VinFast 2026年第一季度全球營收同比增長42%。
-
----
-
-### 2026-06-08 21:34:12  #其他
-
-惠譽確認滙豐環球貨幣基金-港幣基金評級為“AAAMMF”。
-
----
-
-### 2026-06-08 21:33:19  #市場
-
-探戈醫療股價上漲 41.9%，其胰腺癌聯合用藥在臨床試驗中展現出良好前景。
-
----
-
-### 2026-06-08 21:32:49  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuit Stock Price Hits Near 6-year Low — Intuit shares decreased to 293.62 USD, the lowest since July 2020. Over the past 4 weeks, Intuit lost 23.77%, and in the last 12 months, it decreased 61.61%.
-
----
-
-### 2026-06-08 21:32:34  #市場
-
-費城半導體指數開盤漲逾5%，英特爾(INTC.O)領漲，美光科技(MU.O)漲9.6%，阿斯麥(ASML.O)漲5.1%，應用材料(AMAT.O)漲5%。
-
----
-
-### 2026-06-08 21:32:32  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish #MU.O #ASML.O
-
-Philadelphia Semiconductor Index opened more than 5% higher, led by Intel (INTC.O). Micron Technology (MU.O) rose 9.6%; ASML (ASML.O) gained 5.1%; Applied Materials (AMAT.O) climbed 5%.
-
----
-
-### 2026-06-08 21:32:22  #市場
-
-MARVELL TECHNOLOGY股價上漲10%，FLEX股價上漲4.5%。
-
----
-
-### 2026-06-08 21:32:14  #其他
-
-彭博與DirectBooks宣佈達成合作，將為共同客戶提供一級債券市場自動化工作流程。
-
----
-
-### 2026-06-08 21:31:54  #公司
-
-NURIX股價飆升15%，創下12月以來最大單日漲幅，此前該公司與羅氏達成協議。
-
----
-
-### 2026-06-08 21:31:46  #公司
-
-英特爾股價在谷歌TPU訂單訊息公佈後飆升12%。
-
----
-
-### 2026-06-08 21:31:42  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
-
-On Monday, June 8, the Dow Jones Industrial Average opened up 237.28 points (+0.47%) at 51,104.06; the S&P 500 opened up 71.34 points (+0.97%) at 7,455.08; the Nasdaq Composite opened up 390.62 points (+1.52%) at 26,100.06.
-
----
-
-### 2026-06-08 21:31:35  #市場
-
-沃亞金融股價上漲2.4%，此前雷蒙德·詹姆斯將其股票評級上調至強力買入。
-
----
-
-### 2026-06-08 21:31:33  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar may weaken if risk appetite recovers and Fed avoids hikes】Morgan Stanley strategists say the dollar could weaken over the next few months if risk appetite recovers while the Fed refrains from further rate hikes. They caution that without U.S. rate increases, improved risk sentiment tends to weigh on the dollar, though stronger U.S. growth prompting larger Fed hikes than other central banks would support the currency. With the ECB and BOJ both expected to raise rates this month, narrowing rate differentials should lift risk appetite and add downward pressure on the dollar.
-
----
-
-### 2026-06-08 21:31:20  #MKT News
-
-Corning (GLW.N) rose 8.5% after Amazon (AMZN.O) said it had reached an agreement to boost U.S. optical-fiber manufacturing capacity.
-
----
-
-### 2026-06-08 21:31:19  #公司 #國際
-
-康寧(GLW.N)漲8.5%，亞馬遜(AMZN.O)宣佈與其達成協議，旨在提升美國光纖製造能力。
-
----
-
-### 2026-06-08 21:30:52  #公司
-
-聯合聖保羅銀行執行長：與Unipol（義大利聯合保險）的談判於1月啟動，因一樁私人事務暫停，過去一個月談判程序已重新提速。
-
----
-
-### 2026-06-08 21:30:50  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，億航漲6.27%，嗶哩嗶哩漲5.33%，中比能源漲4.86%，禾賽科技漲4.06%，晶科能源漲3.61%。
-
----
-
-### 2026-06-08 21:30:49  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #Chip Wars #S&P500 #Impact bullish #INTC.O #MRVL.O
-
-US stocks opened higher: Dow Jones Industrial Average +0.26%, S&P 500 +0.79%, Nasdaq Composite +1.39%. Intel rose 11.5% after Google ordered more than 3 million TPUs. American Battery Technology Co jumped 25.5% after winning an appeal and the DOE restored funding for its project. Marvell Technology gained 9.6%. The Nasdaq Golden Dragon China Index was up 0.53%.
-
----
-
-### 2026-06-08 21:30:45  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指漲0.40%，標普500指數漲0.86%，納指持平。英特爾漲10.94%，邁威爾科技漲9.68%，美光漲9.59%，GoDaddy跌3.08%，The Trade Desk跌2.23%，特許通訊跌2.13%。“七姐妹”方面：英偉達漲2.22%，特斯拉漲1.25%，蘋果漲0.89%，亞馬遜漲0.50%，微軟跌0.27%，Meta Platforms跌0.57%，谷歌跌1.11%。
-
----
-
-### 2026-06-08 21:30:41  #市場
-
-旭輝控股5月合約銷售額8.60億元人民幣。
-
----
-
-### 2026-06-08 21:28:22  #MKT News
-
-cenc said a magnitude-3.2 earthquake occurred at 21:20 on June 8 in Kangding city, Ganzi prefecture, Sichuan (29.92 N, 101.94 E) at a depth of 10 km.
-
----
-
-### 2026-06-08 21:28:13  #市場 #焦點
-
-WTI原油失守91美元/桶，日內漲0.51%。
 
 ---
