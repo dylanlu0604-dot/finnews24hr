@@ -1,7 +1,387 @@
 {
-  "updated": "2026-06-10 00:58:00",
-  "count": 18804,
+  "updated": "2026-06-10 01:31:32",
+  "count": 18779,
   "items": [
+    {
+      "id": "4926603",
+      "time": "2026-06-10 01:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美伊核談判接近達成框架協議】據紐約時報援引瞭解美伊談判情況的美國官員及外交人士訊息，美伊雙方在四大核心議題上的分歧逐步縮小：暫停鈾濃縮活動十五年、稀釋伊朗現有濃縮鈾庫存、拆除大部分核設施，以及擴大國際核查範圍。受美軍直升機遭擊落等新一輪軍事緊張局勢影響，談判前景仍存變數。雙方談判人員還在商討解凍約 250 億美元伊朗凍結資產事宜。美方官員對後續細節談判有望儘快重啟持謹慎樂觀態度，但雙方內部的政治與軍事反對聲音，依舊構成重大風險。"
+    },
+    {
+      "id": "mkt:019ead6b-6624-7225-91a9-c06fbafa5d15",
+      "time": "2026-06-10 01:25:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The New York Times reports the US believes Iran will agree to suspend uranium enrichment for 15 years."
+    },
+    {
+      "id": "mkt:019ead6a-686d-7225-91a9-bf81bb777f37",
+      "time": "2026-06-10 01:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, the United States and Iran are focusing on four nuclear issues in their negotiations."
+    },
+    {
+      "id": "4926602",
+      "time": "2026-06-10 01:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱以色列最新襲擊導致兩名防空部隊士兵身亡。"
+    },
+    {
+      "id": "mkt:019ead69-fd1c-7225-91a9-b793717a1491",
+      "time": "2026-06-10 01:24:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "According to the Financial Times, UK Prime Minister Starmer plans to require cabinet ministers who backed Andy Burnham or other challengers in the Labour leadership contest to resign; the move could destabilize his government."
+    },
+    {
+      "id": "mkt:019ead69-c0d6-7225-91a9-a971b1eac5a3",
+      "time": "2026-06-10 01:24:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US officials say Iranian drone struck US helicopter that crashed; intent unconfirmed】Axios reports Trump said US forces have concluded Iran shot down the US helicopter that crashed in the Strait of Hormuz and he pledged a military response. A US official said investigators determined an Iranian drone struck the helicopter, but officials have not confirmed whether the strike was deliberate and the probe remains ongoing. The incident occurred amid US–Iran talks and one day after Trump helped broker a renewed Israel–Iran ceasefire. CENTCOM said two crew were rescued around 7:30 p.m. ET, roughly two hours after the crash near the Omani coast; the personnel were recovered after a prolonged search by a US Navy unmanned surface vessel, the first at-sea rescue by such a system."
+    },
+    {
+      "id": "4926601",
+      "time": "2026-06-10 01:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據紐約時報： 美方認為伊朗將同意暫停鈾濃縮活動十五年。"
+    },
+    {
+      "id": "4926600",
+      "time": "2026-06-10 01:20:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "據紐約時報：美伊談判聚焦四大核議題。"
+    },
+    {
+      "id": "mkt:019ead66-2dc6-7225-91a9-a74203be4102",
+      "time": "2026-06-10 01:20:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): ANTHROPIC's latest frontier model Claude Fable 5 is now available on Microsoft Foundry."
+    },
+    {
+      "id": "4926599",
+      "time": "2026-06-10 01:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Anthropic 最新前沿模型 Claude Fable 5 現已登陸微軟 Foundry 平臺。"
+    },
+    {
+      "id": "mkt:019ead63-4f55-7225-91a9-9b5beed56444",
+      "time": "2026-06-10 01:17:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $577 million from five counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4926598",
+      "time": "2026-06-10 01:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（6月9日），美聯儲隔夜逆回購協議（RRP）使用規模為5.77億美元（交易對手13家），上個交易日報18.32億美元。"
+    },
+    {
+      "id": "4926597",
+      "time": "2026-06-10 01:15:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【自IPO以來，CoreWeave創始人已瘋狂套現23億美元】自這家人工智慧（AI）資料中心運營商於2025年3月美國IPO以來，CoreWeave Inc.股價已飆升一倍以上。與此同時，公司高管層已高位減持了價值超過23億美元的個人股票。減持大頭主要來自該公司的三位億萬富翁聯合創始人——Michael Intrator、Brannin McBee、以及Brian Venturo。其中，自2025年8月公司IPO禁售期屆滿後，Venturo一人便拋售了價值超過11億美元的股票。上述所有減持均透過合規的10b5-1交易計劃自動執行。目前，創始團隊手中依然握有極具分量的籌碼，其中Intrator仍按10.4%的持股比例穩居公司第一大個人股東。"
+    },
+    {
+      "id": "mkt:019ead5c-7902-7225-91a9-94810adab542",
+      "time": "2026-06-10 01:09:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Axios, a senior U.S. official said investigators concluded an Iranian drone struck the helicopter and caused it to crash. The official said the probe has not yet determined whether the strike was deliberate and remains ongoing."
+    },
+    {
+      "id": "mkt:019ead5b-119a-7225-91a9-8dac0f9adc84",
+      "time": "2026-06-10 01:08:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic releases public Mythos version without cybersecurity capability】Anthropic launched a public version of its Mythos model but prohibits its use in cybersecurity and other high-risk areas. The company also introduced Claude Fable 5, which it called its most capable model for broader use, citing strong performance in software engineering and data analysis. Anthropic said Mythos previously uncovered thousands of software vulnerabilities and had earlier restricted access to about 200 institutions, including the US government, under a Glasswing program. It said it conducted extensive testing to prevent users from manipulating Claude Fable 5 to bypass safeguards. Early customers reported Fable 5 carries a higher price per unit but uses fewer tokens per task, lowering total task cost. Users with access to the unprotected Claude Mythos preview can upgrade to Claude Mythos 5. Both models are priced at $10 per mln input tokens and $50 per mln output tokens."
+    },
+    {
+      "id": "mkt:019ead59-bfd7-7225-91a9-8051ca99bb44",
+      "time": "2026-06-10 01:06:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 losses narrowed to 1.5%."
+    },
+    {
+      "id": "mkt:95b72233-7ede-4730-8dd1-e2d69c8d8d14",
+      "time": "2026-06-10 01:06:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 3-year Treasury yield steadied after auction, down 1.8 bps at 4.189%."
+    },
+    {
+      "id": "4926596",
+      "time": "2026-06-10 01:05:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國三年期國債中標後收益率保持平穩，最新收益率下跌 1.8 個基點，報 4.189%。"
+    },
+    {
+      "id": "4926595",
+      "time": "2026-06-10 01:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：一位美國高階官員表示，調查確定一架伊朗無人機擊中了一架直升機並導致其墜毀。這位美國高階官員表示，調查尚未確定這次擊中是有意還是無意，此事仍在審查中。"
+    },
+    {
+      "id": "mkt:019ead58-08c2-7992-a4a7-95b1e61a6dd0",
+      "time": "2026-06-10 01:04:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC released Claude MYTHOS 5, initially made available to a small group of cybersecurity defenders and infrastructure providers."
+    },
+    {
+      "id": "mkt:019ead57-22dd-7992-a4a7-8e4d147c9c2a",
+      "time": "2026-06-10 01:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC priced MYTHOS 5 and FABLE 5 at $10 per 1 million input tokens and $50 per 1 million output tokens."
+    },
+    {
+      "id": "4926594",
+      "time": "2026-06-10 01:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Anthropic推出限制網路安全能力的“解耦版”新模型Fable 5，同步釋出Mythos 5】Anthropic公司發強力大模型Mythos的特殊衍生版本，命名為Fable 5。該模型內建了極其嚴格的安全護欄，將無法響應涉及網路安全和生物風險等特定領域的敏感查詢。Fable 5在程式設計以及其他專業核心任務上的表現實現了質的飛躍，尤其擅長在更長的時間跨度內攻堅並解決極其複雜的系統性難題。與此同時，Anthropic仍將同步推出保留完整網路安全能力、未作上述安全限制的完全體新模型Mythos 5。該模型將透過名為“翼蝶計劃”（Project Glasswing）的專項倡議，僅向少數經過嚴格稽核的特定信任群體開放。"
+    },
+    {
+      "id": "mkt:019ead56-5139-7992-a4a7-827d96f1576b",
+      "time": "2026-06-10 01:02:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC plans to expand access to Claude MYTHOS 5 through a broader 'Trusted Access Program'."
+    },
+    {
+      "id": "mkt:019ead56-50ea-7992-a4a7-78e96344c25b",
+      "time": "2026-06-10 01:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: Claude MYTHOS 5 will be initially deployed via the \"Glasswing\" project in partnership with the US government, as an upgrade to the Claude MYTHOS preview."
+    },
+    {
+      "id": "4926593",
+      "time": "2026-06-10 01:02:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.192%（4月7日為3.897%），投標倍數2.64（前次為2.54）。"
+    },
+    {
+      "id": "mkt:019ead55-feaf-7992-a4a7-76a9c1b1d9b0",
+      "time": "2026-06-10 01:02:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC released Claude Fable 5, a MYTHOS-level model safety-tuned for general-public use."
+    },
+    {
+      "id": "mkt:019ead55-c958-7992-a4a7-6cf9c6e7fcde",
+      "time": "2026-06-10 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 3-year Treasury auction as of June 9 — BID-COVER RATIO 2.64, prior 2.54."
+    },
+    {
+      "id": "mkt:019ead55-c94d-7992-a4a7-63c956e4533e",
+      "time": "2026-06-10 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 3-year Treasury auction on June 9: percentage awarded at the stop-out yield 42.92%, prior 37.53%."
+    },
+    {
+      "id": "mkt:019ead55-c82b-7992-a4a7-5d998f80646f",
+      "time": "2026-06-10 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 3-year Treasury auction on June 9 - stop-out yield 4.192%, prior 3.97%."
+    },
+    {
+      "id": "mkt:019ead55-87ad-7992-a4a7-549f8783ffbf",
+      "time": "2026-06-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (Jun.9) | actual 2.64 | previous 2.54"
+    },
+    {
+      "id": "mkt:019ead55-87ab-7992-a4a7-4ff6ca741183",
+      "time": "2026-06-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Accepted at High (Jun.9) | actual 42.92% | previous 37.53%"
+    },
+    {
+      "id": "mkt:019ead55-86fb-7992-a4a7-41b40e3d6279",
+      "time": "2026-06-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction High Yield Rate (Jun.9) | actual 4.192% | previous 3.97%"
+    },
+    {
+      "id": "4926592",
+      "time": "2026-06-10 01:00:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛海運執行長： 2026 年上半年，集團繞行霍爾木茲海峽、改走替代航線的成本預計約 3 億美元。"
+    },
+    {
+      "id": "mkt:019ead53-b8fb-7992-a4a7-3a7989f47e9e",
+      "time": "2026-06-10 01:00:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "CMA CGM's CEO said it is 'not wise' to assume the situation in the Strait of Hormuz will fully return to pre-war conditions."
+    },
+    {
+      "id": "mkt:019ead53-b76d-7992-a4a7-328f3ec30193",
+      "time": "2026-06-10 01:00:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Canadian dollar hits YTD low as markets bet BoC will lag global peers on tightening】The Canadian dollar tumbled to its weakest since December, with USD/CAD reaching 1.3969 on Tuesday, marking a year-to-date low. Brent crude, a key Canadian export, slid below $90/barrel, adding downside pressure on the currency. Markets widely expect the Bank of Canada to hold its policy rate at Wednesday’s decision, pricing a slower hiking path than other major central banks. JP Morgan FX strategist Pat Locke flagged a mildly dovish risk from the BoC and said his team favors short CAD/USD positions. After the April 29 meeting the BoC said current rates “appear appropriate.” Since that meeting the loonie has fallen more than 2%, the weakest G10 currency. CFTC data show speculators increased bearish CAD bets for a third consecutive week."
+    },
+    {
+      "id": "4926591",
+      "time": "2026-06-10 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.37%，滬銅收跌0.34%，滬鋁收跌0.67%，滬鋅收漲0.14%，滬鉛收跌0.40%，滬鎳收跌1.34%，滬錫收跌1.10%。氧化鋁夜盤收漲0.68%，鋁合金收平。不鏽鋼夜盤收跌0.69%。"
+    },
+    {
+      "id": "mkt:019ead52-a136-7992-a4a7-2f1d4bb64fac",
+      "time": "2026-06-10 00:58:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Dollar index DXY turned higher after U.S. President Trump accused Iran of shooting down a helicopter; DXY +0.01% at 100.01. EUR/USD pared gains to +0.03% at 1.1537."
+    },
+    {
+      "id": "4926590",
+      "time": "2026-06-10 00:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛海運執行長：若認為霍爾木茲海峽局勢能恢復至戰前狀態，這種想法並不明智。"
+    },
     {
       "id": "4926589",
       "time": "2026-06-10 00:55:39",
@@ -172914,635 +173294,6 @@
         "MSFT.O"
       ],
       "text": "Microsoft (MSFT.O) disclosed that portable Project Solara devices will include medical patient registration and check-in functionality."
-    },
-    {
-      "id": "4913532",
-      "time": "2026-06-03 01:31:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "受投資者押注SpaceX上市行情推動，Tema太空創新ETF規模突破26億美元。\n注：該ETF由Tema Global旗下發行，聚焦全產業鏈太空賽道主題ETF。"
-    },
-    {
-      "id": "mkt:019e8962-e538-7779-8aac-50202cb1a60f",
-      "time": "2026-06-03 01:30:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "QCOM.O"
-      ],
-      "text": "Microsoft (MSFT.O) and Qualcomm (QCOM.O) officially previewed a portable device designed for on-device mobile agent interaction."
-    },
-    {
-      "id": "4913531",
-      "time": "2026-06-03 01:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，如果不對協議條款開展強有力的核查與監督，要達成一項終止伊朗爭端的協議是絕無可能的。"
-    },
-    {
-      "id": "4913530",
-      "time": "2026-06-03 01:29:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長宣佈Web IQ今日正式上線。"
-    },
-    {
-      "id": "mkt:019e8961-7955-7779-8aac-4a94cb7702fc",
-      "time": "2026-06-03 01:28:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Market sources say Mexico has proposed extending the US-Mexico-Canada Agreement (USMCA) by 16 years."
-    },
-    {
-      "id": "mkt:019e8961-05cc-7779-8aac-442337cbd607",
-      "time": "2026-06-03 01:28:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA Director General Grossi said the agency is providing the UAE both moral and technical support."
-    },
-    {
-      "id": "mkt:019e8960-7aa3-7779-8aac-3dc6ea708fc8",
-      "time": "2026-06-03 01:27:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq says it will raise pipeline crude exports in two phases over the next 2.5 months, increasing flows from 220,000 bpd to 770,000 bpd — a net rise of 550,000 bpd."
-    },
-    {
-      "id": "4913529",
-      "time": "2026-06-03 01:27:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥提議將美墨加協定有效期延長16年。"
-    },
-    {
-      "id": "4913528",
-      "time": "2026-06-03 01:27:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta週二宣佈，為提升青少年線上安全，正最佳化Facebook、Instagram和Messenger青少年賬號的內容管控設定。"
-    },
-    {
-      "id": "mkt:019e895f-2f89-7779-8aac-309e8d7cc181",
-      "time": "2026-06-03 01:26:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq's cabinet approved an agreement with Syria to transport, store and process Basra light, medium and heavy crude via the Mediterranean ports of Banias and Tartus."
-    },
-    {
-      "id": "4913527",
-      "time": "2026-06-03 01:25:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國本田汽車：5月電動化汽車銷量為44173輛。"
-    },
-    {
-      "id": "mkt:019e895e-5f2f-7779-8aac-2da93c62bceb",
-      "time": "2026-06-03 01:25:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq said it plans to raise crude exports delivered by truck to neighboring countries to 420,000 bpd in three phases."
-    },
-    {
-      "id": "mkt:019e895d-d026-7779-8aac-212383ba7bce",
-      "time": "2026-06-03 01:24:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Microsoft (MSFT.O) officially previewed a desktop device built around a MediaTek chip as part of its Project Solara initiative."
-    },
-    {
-      "id": "4913526",
-      "time": "2026-06-03 01:24:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，我們不僅向阿聯酋提供道義支援，同時也提供技術支援。"
-    },
-    {
-      "id": "4913524",
-      "time": "2026-06-03 01:22:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍在愛麗捨宮會見匈牙利總理毛焦爾。"
-    },
-    {
-      "id": "mkt:019e895b-ba62-7779-8aac-1d7002ed080a",
-      "time": "2026-06-03 01:22:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Several Iraqi militias announce plans to disarm】On June 2, Iraq's Shiite militia Justice Alliance said it will form committees to inventory personnel and weapons, sever ties with the Popular Mobilization Forces (PMF) and transfer weapons to unified state control. The Shiite Imam Ali Brigade issued a similar statement the same day, saying it will cut links with PMF bodies, immediately begin inventory and hand over weapons and equipment to state management. Iraq's parliament first deputy speaker Adnan Feyhan welcomed the Coordination Framework Alliance's earlier decision and the militias' announcement to disarm."
-    },
-    {
-      "id": "mkt:019e895a-dad9-7779-8aac-1037ae9da3ae",
-      "time": "2026-06-03 01:21:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft announced the launch of Project Solara, in which chips will run AI agents rather than applications and communicate directly with cloud data centers."
-    },
-    {
-      "id": "mkt:019e895a-03b9-7779-8aac-08f7ad805506",
-      "time": "2026-06-03 01:20:37",
-      "tags": [
-        "MKT News",
-        "NVO.O",
-        "Impact bullish",
-        "LLY.O"
-      ],
-      "text": "CMS chief says from July 1 Medicare beneficiaries who meet prescribing criteria will pay $50 per month for GLP-class drugs."
-    },
-    {
-      "id": "4913523",
-      "time": "2026-06-03 01:20:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟高管透露，索拉拉專案便攜裝置將新增醫療患者自助掛號功能。"
-    },
-    {
-      "id": "mkt:019e8969-602a-7779-8aac-838e686d3943",
-      "time": "2026-06-03 01:20:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $2.502 billion from 32 counterparties in a fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "4913522",
-      "time": "2026-06-03 01:20:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊內閣批准與敘利亞簽署協議，將經巴尼亞斯和塔爾圖斯兩個地中海港口運輸、儲存及處理巴士拉輕質、中質和重質原油。"
-    },
-    {
-      "id": "4913521",
-      "time": "2026-06-03 01:19:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【多個伊拉克民兵組織宣佈擬解除武裝】當地時間6月2日，伊拉克什葉派民兵組織“正義聯盟”宣佈將成立相關委員會清點人員及武器裝備，並正式推動解除與“人民動員組織”各機構聯絡，“將武器交由國家統一管理”。伊拉克什葉派民兵組織“伊瑪目阿里旅”同日發表宣告，決定解除與“人民動員組織”各機構聯絡，並立即啟動相應程式，清點移交武器裝備，“將武器交由國家統一管理”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8959-3dfe-7779-8aac-02979d75bdaa",
-      "time": "2026-06-03 01:19:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MSFT.O",
-        "Impact bullish",
-        "QCOM.O",
-        "2454.TW"
-      ],
-      "text": "Market sources say Microsoft (MSFT.O) is working with Qualcomm (QCOM.O) and MediaTek to develop new devices."
-    },
-    {
-      "id": "4913520",
-      "time": "2026-06-03 01:19:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基將赴法國出席七國集團峰會。"
-    },
-    {
-      "id": "4913519",
-      "time": "2026-06-03 01:19:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲：從7月1日起，符合用藥條件的聯邦醫療保險參保者每月僅需50美元即可獲得GLP類藥物。"
-    },
-    {
-      "id": "mkt:019e8958-1e9a-7779-8aab-f8e672831fb1",
-      "time": "2026-06-03 01:18:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) announced the Graph feature in Fabric is now generally available; the Planning feature in Fabric is scheduled for release later this month."
-    },
-    {
-      "id": "4913518",
-      "time": "2026-06-03 01:17:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（6月2日），美聯儲隔夜逆回購協議（RRP）使用規模為25.02億美元（交易對手32家），上個交易日報13.02億美元。"
-    },
-    {
-      "id": "4913517",
-      "time": "2026-06-03 01:17:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟官方預覽了一款與高通合作開發、專為出行途中智慧代理互動設計的便攜裝置。"
-    },
-    {
-      "id": "4913516",
-      "time": "2026-06-03 01:17:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "宣告顯示：伊拉克計劃分三階段將對鄰國的陸路原油出口提升至每日42萬桶。"
-    },
-    {
-      "id": "4913515",
-      "time": "2026-06-03 01:17:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟官方預覽搭載聯發科晶片的桌面終端裝置，該產品隸屬於索拉拉專案。"
-    },
-    {
-      "id": "4913514",
-      "time": "2026-06-03 01:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲：特朗普處方藥網站（TrumpRx）新增160種藥品。"
-    },
-    {
-      "id": "mkt:019e8956-96c4-7779-8aab-f62420472feb",
-      "time": "2026-06-03 01:16:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude extends intraday gain to 1.00% at $95.50/bbl."
-    },
-    {
-      "id": "mkt:019e8956-0371-7779-8aab-e8d7a5a31f15",
-      "time": "2026-06-03 01:16:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) launched RayFin, an open-source SDK and command-line tool to advance AI applications from prototype to production."
-    },
-    {
-      "id": "4913513",
-      "time": "2026-06-03 01:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟釋出“索拉拉計劃”：晶片將執行人工智慧代理而非應用程式，並直接與雲端計算資料中心通訊。"
-    },
-    {
-      "id": "mkt:019e8954-87b5-7779-8aab-e54407457275",
-      "time": "2026-06-03 01:14:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CEO announced the launch of AION, an inference and planning model."
-    },
-    {
-      "id": "4913512",
-      "time": "2026-06-03 01:14:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟推出面向新型人工智慧終端裝置的Solara專案。"
-    },
-    {
-      "id": "mkt:019e8954-3bb1-7779-8aab-dd1abe963fd8",
-      "time": "2026-06-03 01:14:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CEO said the company will expand the Windows AI API to more personal computers."
-    },
-    {
-      "id": "4913511",
-      "time": "2026-06-03 01:13:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克內閣授權貿易部長與烏茲別克磋商，簽署經貿、科教及文藝領域合作雙邊協定。"
-    },
-    {
-      "id": "mkt:019e8953-8479-7779-8aab-d5712a93eb0a",
-      "time": "2026-06-03 01:13:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's foreign ministry said France's decision to exclude Israel from the European defence exhibition is discriminatory, politicized and deeply disappointing. It said a country that claims to defend freedom and democracy cannot selectively exclude Israel and that France has again chosen politics over principle."
-    },
-    {
-      "id": "mkt:019e8952-e530-7779-8aab-c8641844ec1a",
-      "time": "2026-06-03 01:12:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said Microsoft has deployed the most NVIDIA Blackwell chips."
-    },
-    {
-      "id": "4913510",
-      "time": "2026-06-03 01:12:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：微軟已部署數量最多的英偉達Blackwell晶片。"
-    },
-    {
-      "id": "mkt:019e8951-5eaf-7779-8aab-c0d2494c4abf",
-      "time": "2026-06-03 01:11:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said cooperation with Microsoft (MSFT.O) has enabled intelligent autonomous agents to run on personal computers."
-    },
-    {
-      "id": "mkt:019e8950-cde1-7779-8aab-bb7da0c42e5f",
-      "time": "2026-06-03 01:10:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) launched the Web IQ suite, which includes a set of AI-native Grounding APIs. Web IQ is described as a search engine targeted at AI systems."
-    },
-    {
-      "id": "4913509",
-      "time": "2026-06-03 01:10:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Fabric圖譜功能正式商用，Fabric規劃模組將於本月晚些時候正式上線。"
-    },
-    {
-      "id": "4913508",
-      "time": "2026-06-03 01:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美伊對話一直在持續進行】當地時間6月2日，美國總統特朗普表示，美國與伊朗之間的對話一直在持續進行。（央視新聞）"
-    },
-    {
-      "id": "4913507",
-      "time": "2026-06-03 01:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：適用於人工智慧應用的Azure HorizonDB PostgreSQL資料庫現已開啟公開預覽。"
-    },
-    {
-      "id": "4913506",
-      "time": "2026-06-03 01:07:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Web IQ是面向人工智慧系統的搜尋引擎。"
-    },
-    {
-      "id": "mkt:019e894d-bb30-7779-8aab-b54f9a039dc3",
-      "time": "2026-06-03 01:07:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says reports U.S.-Iran talks stopped days ago are fake news; talks ongoing】President Trump said on social media that reports claiming U.S.-Iran dialogue had stopped several days ago are false and that talks have been ongoing, including today. He said no one can predict their outcome and urged Iran to reach an agreement, adding: \"In any case, now is the time for you to reach an agreement. You have delayed this for 47 years; this must not continue.\""
-    },
-    {
-      "id": "4913505",
-      "time": "2026-06-03 01:07:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟宣佈推出RayFin，一款用於將人工智慧應用從原型開發落地到生產部署的開源軟體開發工具包與命令列工具。"
-    },
-    {
-      "id": "4913504",
-      "time": "2026-06-03 01:06:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：微軟Web IQ是一套原生搭載人工智慧的基準檢索應用程式介面。"
-    },
-    {
-      "id": "4913503",
-      "time": "2026-06-03 01:05:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟釋出微軟Web IQ產品。"
-    },
-    {
-      "id": "mkt:019e8949-ca12-7779-8aab-ac0b1778ccd7",
-      "time": "2026-06-03 01:02:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "President Trump said the outcome of dealings with Iran is uncertain, but told Tehran \"it's time; in any case you must reach a deal.\""
-    },
-    {
-      "id": "4913502",
-      "time": "2026-06-03 01:02:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳表示，與微軟的合作已實現讓智慧自主代理在個人電腦上執行。"
-    },
-    {
-      "id": "4913501",
-      "time": "2026-06-03 01:02:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普談伊朗：雙方談判一直在持續進行】特朗普在社交媒體平臺表示，有關伊朗與美國數日前中斷溝通的虛假新聞報道不實。雙方對話一直在持續推進，四天前、三天前、兩天前、昨天以及今日均有交流。後續談判走向尚無定論，但他表示已告知伊朗：無論如何，如今是達成協議的時候了。相關僵持局面已持續47年，不能再繼續下去。"
-    },
-    {
-      "id": "mkt:019e8949-2853-7779-8aab-a6c9b75f9d6f",
-      "time": "2026-06-03 01:02:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said reports that Iran and the U.S. had stopped talks were false and that dialogue has continued, with contacts four days ago, three days ago, two days ago, yesterday and today."
-    },
-    {
-      "id": "4913500",
-      "time": "2026-06-03 01:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：今天繼續與伊朗對話。"
-    },
-    {
-      "id": "4913499",
-      "time": "2026-06-03 01:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：說美國和伊朗停止對話是錯誤的。"
-    },
-    {
-      "id": "4913498",
-      "time": "2026-06-03 01:01:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：雙方談判一直在持續進行。"
-    },
-    {
-      "id": "4913497",
-      "time": "2026-06-03 01:00:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【Kalshi瞄準華爾街】在衝擊體育博彩市場後，預測交易平臺Kalshi如今開始挑戰傳統交易所。獲得美國商品期貨交易委員會批覆後，Kalshi成為美國首家上線比特幣永續期貨的交易場所，該品種為不帶到期日的槓桿合約。隨著行業競爭加劇，此舉引發投資者不安，各大交易所股價應聲走低。Kalshi估值220億美元，目標打造全品類衍生品交易所，且已遞交申請，計劃上線更多加密貨幣永續合約。業內支持者表示，合規永續產品能夠將龐大的離岸交易市場納入美國金融監管體系。"
-    },
-    {
-      "id": "4913496",
-      "time": "2026-06-03 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.19%，滬銅收漲1.05%，滬鋁收漲0.79%，滬鋅收漲1.57%，滬鉛收漲0.69%，滬鎳收跌0.28%，滬錫收漲2.22%。氧化鋁夜盤收跌1.23%，鋁合金收漲0.90%。不鏽鋼夜盤收漲0.67%。"
-    },
-    {
-      "id": "4913495",
-      "time": "2026-06-03 00:59:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長邀請英偉達執行長透過直播在開發者大會上發表演講。"
-    },
-    {
-      "id": "mkt:019e8946-6232-7779-8aab-9ac2e3bfd654",
-      "time": "2026-06-03 00:59:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CEO said the company added more new data-center capacity in the past 18 months than Azure added over its first ten years."
-    },
-    {
-      "id": "mkt:019e8945-bec9-7779-8aab-95866041fbaa",
-      "time": "2026-06-03 00:58:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) CEO announced a preview release of the Cobalt 200 chip."
     }
   ]
 }
