@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-09 23:41:37",
-  "count": 18830,
+  "updated": "2026-06-09 23:45:42",
+  "count": 18827,
   "items": [
+    {
+      "id": "4926513",
+      "time": "2026-06-09 23:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴西部海域發生5.8級地震 加勒比地區罕見】當地時間8日14時，北京時間9日凌晨2時，古巴西部海域發生5.8級地震，古巴首都哈瓦那、美國佛羅里達州及墨西哥部分地區均有震感。地震學家表示，此次地震發生在板塊內部，在加勒比地區較為罕見。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ead0e-a3d4-7448-ac07-6e13f933ba16",
+      "time": "2026-06-09 23:44:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX IPO reportedly multiple-times oversubscribed】People familiar with the matter said SpaceX’s IPO has attracted subscription demand several times the shares on offer as the listing approaches. Underwriters told investors on Tuesday demand rose after management meetings and that orders have been building since Monday. Banks said institutional allocations will be concentrated with large pure long-only asset managers; several institutions each placed orders of about $10bn or more, the sources said."
+    },
+    {
+      "id": "mkt:019ead0e-4bae-7448-ac07-61549baed094",
+      "time": "2026-06-09 23:44:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME nickel fell 2.00% intraday to $18,009.80/ton."
+    },
+    {
+      "id": "mkt:019ead0d-b930-7448-ac07-585226c6bfbe",
+      "time": "2026-06-09 23:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls as Capesize and Panamax rates drop】Baltic Dry Index fell 98 points, or 3.36%, to 2,818, weighed by weakness in Capesize and Panamax rates. The Capesize index slid 278 points (5.9%) to 4,441; Capesize daily earnings fell $2,524 to $36,771. The Panamax index dropped 13 points (0.6%) to 2,205; Panamax daily earnings declined $120 to $19,846. Supramax rose 18 points (1.1%) to 1,614 and the Handysize index gained 3 points to 868."
+    },
+    {
+      "id": "4926512",
+      "time": "2026-06-09 23:43:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長：當日已有第 18 架無人機被擊落。"
+    },
+    {
+      "id": "mkt:019ead0d-0f08-7448-ac07-5319503f73d7",
+      "time": "2026-06-09 23:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Airbus Defence CEO said the company wants a role in future fighter programmes and does not want to go it alone."
+    },
+    {
+      "id": "mkt:019ead0c-b637-7dd1-a397-e2eda07f5119",
+      "time": "2026-06-09 23:42:31",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Airbus Defence CEO said the Future Combat Air System fighter project is deadlocked."
+    },
     {
       "id": "te:markets:557736",
       "time": "2026-06-09 23:39:45",
@@ -173559,99 +173619,6 @@
         "國際"
       ],
       "text": "俄羅斯：總統普京同白俄羅斯總統盧卡申科舉行通話，雙方就雙邊同盟合作發展事宜展開磋商。"
-    },
-    {
-      "id": "4913383",
-      "time": "2026-06-02 23:45:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國警方通報，艾奧瓦州一座城市多地接連發生槍擊案，案件源於家庭糾紛，共造成六人遇難。"
-    },
-    {
-      "id": "4913382",
-      "time": "2026-06-02 23:44:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣跌破67000美元關口，過去兩小時加密市場合計爆倉7億美元。"
-    },
-    {
-      "id": "4913381",
-      "time": "2026-06-02 23:44:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿卡邁與英偉達擴大合作，共建AI工廠架構。"
-    },
-    {
-      "id": "4913380",
-      "time": "2026-06-02 23:43:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡管理層人事調整，內部高管Ling Hai出任首席財務官。"
-    },
-    {
-      "id": "te:markets:555828",
-      "time": "2026-06-02 23:43:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound to Record Highs — US stocks swing higher to new records on Tuesday as more strength from the AI economy offset the ongoing impasse between the US and Iran. The S&P 500, Nasdaq 100, and Dow pared losses to hover above the flatline. Heavyweight chip producers and companies in the AI infrastructure space were sharply higher to extend the momentum that has carried equity indices this year. Broadcom jumped 5% ahead of its earnings tomorrow, while Lan Research, Qualcomm, and On Semiconductors added over 5% as the higher capacity for wafers by SK Hynix improved the output forecast for the sector. Meanwhile, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company. In turn, energy prices remained higher as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e8900-e56a-7337-9546-9cdae8bcb92a",
-      "time": "2026-06-02 23:43:17",
-      "tags": [
-        "MKT News",
-        "PANW.O",
-        "Impact bullish",
-        "CRWD.O",
-        "ZS.O"
-      ],
-      "text": "White House orders creation of a cybersecurity information-sharing platform, directing the AI industry and critical infrastructure operators to voluntarily cooperate on software vulnerabilities."
-    },
-    {
-      "id": "mkt:019e8900-7edd-7007-9c8f-3c82d6f01cf4",
-      "time": "2026-06-02 23:42:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "White House: Trump has ordered US agencies to develop cybersecurity standards for advanced AI models. US government cybersecurity testing of AI firms will be voluntary."
-    },
-    {
-      "id": "4913379",
-      "time": "2026-06-02 23:42:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：相關AI行政令擬設立網路安全資訊交換中心，在自願合作原則下聯動AI行業、關鍵基礎設施運營方，統籌彙總軟體漏洞相關資訊。"
-    },
-    {
-      "id": "4913378",
-      "time": "2026-06-02 23:42:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：美國政府針對人工智慧企業開展的網路安全檢測採取自願參與原則。"
-    },
-    {
-      "id": "4913377",
-      "time": "2026-06-02 23:41:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普的行政命令要求美國機構為先進人工智慧模型制定網路安全標準。"
     }
   ]
 }
