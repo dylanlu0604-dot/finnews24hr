@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-10 00:50:10",
+  "updated": "2026-06-10 00:54:05",
   "count": 18812,
   "items": [
+    {
+      "id": "mkt:019ead4d-b98f-7992-a4a7-24e814f7893f",
+      "time": "2026-06-10 00:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Microsoft (MSFT.O) fell 3%, pushing its market capitalization below $3 trillion."
+    },
+    {
+      "id": "4926588",
+      "time": "2026-06-10 00:52:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收平，報13615美元/噸。LME期鋁收跌56美元，報3548美元/噸。LME期鋅收漲18美元，報3556美元/噸。LME期鉛收跌6美元，報1984美元/噸。LME期鎳收跌277美元，報18064美元/噸。LME期錫收漲223美元，報52502美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019ead4b-b1bf-7992-a4a7-19fab3e55f78",
+      "time": "2026-06-10 00:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA says OECD oil stocks could fall to lowest since 2003】The U.S. Energy Information Administration said on Tuesday that a conflict involving Iran has cut Middle East crude output by more than 11 mln bpd, and major consuming countries are drawing inventories at an unprecedented pace to plug the supply gap. Under EIA's current assumptions — including that maritime traffic through the Strait of Hormuz is unlikely to return to pre-conflict levels before early 2027 — OECD total oil stocks are projected to fall to just under 2.3 bln barrels by December."
+    },
     {
       "id": "mkt:019ead49-cbd4-7992-a4a7-1232df678213",
       "time": "2026-06-10 00:49:15",
@@ -173587,36 +173616,6 @@
         "公司"
       ],
       "text": "微軟執行長表示，過去18個月公司新增的資料中心容量，超過了Azure成立頭十年的新增總量。"
-    },
-    {
-      "id": "mkt:019e8941-7c21-7779-8aab-6ac359d4f06d",
-      "time": "2026-06-03 00:53:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) announced the Surface RTX Spark Dev Box, a compact Windows-based developer PC powered by NVIDIA RTX Spark chips, designed for local-first (on-device) AI development."
-    },
-    {
-      "id": "4913489",
-      "time": "2026-06-03 00:51:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：國際原子能機構總幹事拉斐爾·格羅西在多哈會晤卡達首相，磋商卡達與該聯合國核監管機構的合作事宜，同時商討伊朗核問題談判的最新進展。"
-    },
-    {
-      "id": "mkt:019e893e-4b36-7779-8aab-63d8e010fbda",
-      "time": "2026-06-03 00:50:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said Hezbollah is not only an enemy of Israel and the United States, but also an enemy of Lebanon and the Lebanese people."
     }
   ]
 }
