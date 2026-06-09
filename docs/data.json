@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-09 20:50:25",
-  "count": 19090,
+  "updated": "2026-06-09 20:54:29",
+  "count": 19099,
   "items": [
+    {
+      "id": "te:economy:557691",
+      "time": "2026-06-09 20:53:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Canadian Exports Rise to Record High — Exports of Canadian goods surged by 1.6% from the previous month to C$75.2 billion in April of 2026, the highest on record. The increase was owed to a fresh jump in energy exports (9.7% to C$19.9 billion), as the war in the Middle East continued to prevent energy trade from the region and lifted prices for Canadian oil and natural gas, triggering a surge in their turnover. Exports also increased for farm, fishing, and intermediate food products (8.9% to C$5.3 billion) and aircraft and transportation equipment (13.8% to C$3.1 billion). Meanwhile, exports slumped for metal and non-metallic mineral products (-17.5% to $12.5 billion) despite remaining at historically elevated levels, as the surge in exports of gold, silver, and platinum to the UK in the previous months were unwound. Exports to the US rose for a third month, contributing to their largest surplus in 14 months, despite tariffs by the US President."
+    },
+    {
+      "id": "4926285",
+      "time": "2026-06-09 20:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【預測市場交易員：霍爾木茲海峽航運2026年大機率無法恢復正常 2027年1月前無法恢復正常的機率為65.5%】美國CNBC電視臺8日報道，預測市場交易員表示，霍爾木茲海峽航運2026年大機率無法恢復正常。在預測市場平臺上，霍爾木茲海峽航運在2027年1月前無法恢復正常的機率為65.5%，在今年8月前恢復正常的機率則在過去兩週內從超過60%驟降至21.5%。 (央視網)"
+    },
+    {
+      "id": "4926284",
+      "time": "2026-06-09 20:53:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西航空工業公司高管表示：E2系列飛機停飛佔機隊比例已降至1%，主發動機問題已解決。"
+    },
+    {
+      "id": "4926283",
+      "time": "2026-06-09 20:52:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基：我會見了芬蘭總統與挪威首相，並介紹了烏克蘭與三方集團及美方的高層溝通情況。"
+    },
+    {
+      "id": "mkt:019eac71-266b-7ddc-a5f4-1f1efda61426",
+      "time": "2026-06-09 20:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian government official said India is considering extending the import-duty exemption for petrochemicals beyond June 30."
+    },
+    {
+      "id": "4926282",
+      "time": "2026-06-09 20:52:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特預算部門：所有運營業務與系統均繼續正常運轉，未出現任何中斷。"
+    },
+    {
+      "id": "4926281",
+      "time": "2026-06-09 20:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特預算部門：正持續開展必要技術核查與調查，以全面評估事件影響範圍。"
+    },
+    {
+      "id": "4926280",
+      "time": "2026-06-09 20:51:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府官員稱，印度正考慮將石化產品的進口關稅免稅期延長至6月30日之後。"
+    },
+    {
+      "id": "4926279",
+      "time": "2026-06-09 20:51:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特預算部門：其業務活動未受到任何財務或運營層面影響。"
+    },
+    {
+      "id": "4926278",
+      "time": "2026-06-09 20:51:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特預算部門：檢測到一起網路安全事件，涉及資料範圍有限。該事件未危及任何客戶金融與銀行資訊保安。"
+    },
+    {
+      "id": "mkt:019eac6f-d2ae-7ddc-a5f4-1321ac1d6a2d",
+      "time": "2026-06-09 20:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi budget department detected a cybersecurity incident affecting a limited dataset."
+    },
+    {
+      "id": "4926277",
+      "time": "2026-06-09 20:50:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部：令人驚訝的是，這些政府也未能針對真正助長暴力的現象實施制裁或採取行動——例如巴勒斯坦權力機構的“殺人有賞”政策以及其煽動行為。"
+    },
     {
       "id": "mkt:019eac6e-4f2c-7ddc-a5f4-0807b6571238",
       "time": "2026-06-09 20:49:30",
@@ -175956,36 +176057,6 @@
         "國際"
       ],
       "text": "【晶科儲能完成722MWh儲能系統交付】據晶科能源訊息，近日，晶科儲能已向印度大型新能源基地專案完成722MWh儲能系統裝置交付。該專案採用144套晶科SunTera G2液冷儲能系統，將為當地新能源高比例併網、清潔能源排程、電網穩定執行及峰值負荷支撐提供可靠儲能能力。"
-    },
-    {
-      "id": "te:markets:555786",
-      "time": "2026-06-02 20:54:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Up as Markets Monitor Middle East Developments — Futures tracking the S&P/TSX Composite Index edged up on Tuesday to pare its underperformance to US stocks from the previous session. US President Donald Trump said talks with Iran were ongoing, although friction between Israel and Lebanon continued to jeopardize an agreement and eventual resumption of trade from the region. Gold prices rose, supporting mining stocks. Investors also monitored reports that Barrick is considering a London listing for its African business, with a potential all-share transaction involving UK-listed Endeavour Mining among the options under review."
-    },
-    {
-      "id": "4913006",
-      "time": "2026-06-02 20:53:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分析師認為 SpaceX 估值顯著偏高】晨星分析師將 SpaceX 估值定為 7800 億美元，該數值不足這家馬斯克執掌企業擬定 IPO 目標估值的一半，公司本週即將開啟上市路演。這家研究機構表示，旗下囊括 xAI 與社交平臺 X 的人工智慧業務前景存疑，商業模式尚不清晰，同時還要直面 OpenAI、Anthropic 帶來的行業競爭。晨星股票分析師尼古拉斯・歐文斯談及 xAI 研發的聊天機器人 Grok 時稱：“現階段 Grok 還躋身不了頭部 AI 實驗室產品行列。”歐文斯還警示，SpaceX 人工智慧板塊的未來潛力依託軌道資料中心等尚未落地驗證的技術；衛星寬頻業務星鏈同樣存在諸多技術難題，其中不少風險並非企業能夠自主把控。歐文斯表示：“我們認為公司當前估值顯著偏高，IPO 上市後，投資者將有機會在更合理的價位買入該股。”"
-    },
-    {
-      "id": "mkt:019e8862-f8a0-7448-98be-3f2c1b4656ab",
-      "time": "2026-06-02 20:50:47",
-      "tags": [
-        "MKT News",
-        "UN01.DE",
-        "Impact bullish"
-      ],
-      "text": "Sources said the Canada Pension Plan Investment Board (CPPIB) is expected to be among institutions submitting letters of intent to invest in Uniper next week."
     }
   ]
 }
