@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 02:45:02",
-  "count": 18711,
+  "updated": "2026-06-10 02:48:47",
+  "count": 18710,
   "items": [
+    {
+      "id": "mkt:019eadb4-a444-7225-91aa-60a7d3ddd4e8",
+      "time": "2026-06-10 02:45:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US names crew for Artemis III mission】NASA on the 9th named four astronauts for the Artemis III mission — three Americans and one Italian. Artemis III is scheduled for 2027 and will validate key technologies, including spacecraft rendezvous and docking with a commercial human landing system in low Earth orbit (LEO), ahead of the crewed Artemis IV lunar mission planned for 2028."
+    },
+    {
+      "id": "mkt:019eadb4-486d-7225-91aa-58f4952c75af",
+      "time": "2026-06-10 02:45:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Africa Command says U.S.-Nigerian raids kill about 200 Islamic State-linked fighters in Nigeria】U.S. Africa Command said on June 9 local time that U.S.-Nigerian operations in Nigeria have killed about 200 fighters linked to the Islamic State. The command said the joint operations also dismantled militant checkpoints and destroyed multiple logistics hubs."
+    },
     {
       "id": "4926627",
       "time": "2026-06-10 02:44:28",
@@ -172636,35 +172652,6 @@
         "公司"
       ],
       "text": "【微軟釋出全新量子晶片 計劃2029年造出實用量子計算機】微軟公司於舊金山舉辦的Build開發者大會上釋出升級版量子計算晶片馬約拉納2代（Majorana 2）。微軟稱這款新晶片的核心突破：量子位元存續時長突破20秒，量子位元數量從上一代的8枚提升至12枚。依託馬約拉納2代晶片取得的飛速進展，微軟計劃在2029年研發出可規模化落地的實用型量子計算機。"
-    },
-    {
-      "id": "4913598",
-      "time": "2026-06-03 02:48:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：委內瑞拉問題的解決之道是舉行自由公正的選舉。"
-    },
-    {
-      "id": "mkt:019e89aa-4b9a-733d-8818-cb188da20bca",
-      "time": "2026-06-03 02:48:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said the solution to Venezuela's problems is holding free and fair elections."
-    },
-    {
-      "id": "mkt:019e89a9-8897-733d-8818-c33ddb173341",
-      "time": "2026-06-03 02:47:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "【Microsoft unveils upgraded quantum chip, targets commercial quantum computer by 2029】Microsoft (MSFT.O) unveiled the Majorana 2 quantum chip at Build 2026, saying it now targets a commercially practical quantum computer by 2029. Majorana 2 has 12 qubits, up from 8 in the prior model, and Microsoft says qubit coherence exceeds 20 seconds versus under 12 milliseconds previously. The device uses lead-based superconducting connectors instead of aluminium. Microsoft says it has halved its timetable and set 2029 as the current target."
     }
   ]
 }
