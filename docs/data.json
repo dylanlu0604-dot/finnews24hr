@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-10 00:34:43",
+  "updated": "2026-06-10 00:38:29",
   "count": 18816,
   "items": [
+    {
+      "id": "te:markets:557761",
+      "time": "2026-06-10 00:35:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 4-year High — ProLogis shares increased to 147.93 USD, the highest since May 2022. Over the past 4 weeks, ProLogis gained 2.48%, and in the last 12 months, it increased 34.85%."
+    },
+    {
+      "id": "4926571",
+      "time": "2026-06-10 00:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 我們更傾向於以外交方式溝通，但我們也深諳其他應對手段。若你們背棄承諾，我們便會拿出最擅長的方式予以回應。"
+    },
+    {
+      "id": "mkt:019ead3d-0fa6-7992-a4a6-d04f4571c969",
+      "time": "2026-06-10 00:35:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "VIX hit its highest level since April 7, rising 2.72 points to 21.64."
+    },
+    {
+      "id": "4926570",
+      "time": "2026-06-10 00:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）： 以色列對黎巴嫩南部的庫夫拉、賽吉德及賈布希特三座城鎮發動空襲。"
+    },
     {
       "id": "4926569",
       "time": "2026-06-10 00:33:08",
@@ -173591,39 +173632,6 @@
         "公司"
       ],
       "text": "微軟執行長釋出AION推理與規劃模型。"
-    },
-    {
-      "id": "4913466",
-      "time": "2026-06-03 00:37:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長在Build開發者大會上宣佈，將向更多個人電腦開放Windows人工智慧應用程式設計介面。"
-    },
-    {
-      "id": "4913465",
-      "time": "2026-06-03 00:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理毛焦爾： 匈牙利不會向烏克蘭派遣士兵、輸送武器，新一屆匈牙利政府執政後也不會改變這一方針。"
-    },
-    {
-      "id": "mkt:019e8930-7948-7779-8aab-278a83d8c937",
-      "time": "2026-06-03 00:35:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said Washington received, via the Lebanese government and its parliament speaker, a message from Hezbollah stating it will not attack Israel unless Israel attacks Beirut."
-    },
-    {
-      "id": "4913464",
-      "time": "2026-06-03 00:35:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破96美元/桶，日內漲1.10%。"
     }
   ]
 }
