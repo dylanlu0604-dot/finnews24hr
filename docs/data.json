@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-09 14:06:57",
-  "count": 19189,
+  "updated": "2026-06-09 14:10:41",
+  "count": 19194,
   "items": [
+    {
+      "id": "4925313",
+      "time": "2026-06-09 14:10:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.01%，現報3999.309點；深證成指漲2.49%，現報15189.714點；創業板指漲3.58%，現報3948.392點。"
+    },
+    {
+      "id": "4925312",
+      "time": "2026-06-09 14:10:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報8094.80點。"
+    },
+    {
+      "id": "4925311",
+      "time": "2026-06-09 14:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上迪首次延時營業至晚上10點半】6月8日，記者從上海迪士尼度假區獲悉，度假區將於6月17日至8月31日推出“10歲生日慶典”夏季限定系列活動。 為慶祝度假區開幕十週年，今年夏天將首次推出“加時升級日”，精選十個夜晚將樂園運營時間延長至晚間10時30分，並開放夜間主題派對與熱門遊樂專案。（第一財經）"
+    },
+    {
+      "id": "4925310",
+      "time": "2026-06-09 14:09:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率在意外加息後上漲23個基點。"
+    },
+    {
+      "id": "4925309",
+      "time": "2026-06-09 14:08:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行前官員預計6月加息之後可能還將於10月再次升息】前日本央行執行理事Hideo Hayakawa稱，在下週備受期待的加息之後，央行可能最早在10月再次加息，以在抗通脹方面保持先發優勢。他週二接受採訪時表示，在6月行動之後，“下次加息最早可能在10月”，“日本央行目前已經有些落後於形勢，所以他們需要抓緊趕上。”日本央行下週將公佈利率決定，市場普遍預計將加息0.25個百分點，這將是自12月以來的首次調整。市場普遍認為日本央行對通脹壓力的反應過於遲緩。下週會議的焦點將是任何可能加速加息的訊號。Hayakawa指出，近期日本債券市場的劇烈波動可能已成為日本央行不容忽視的問題。5月18日，日本10年期國債收益率觸及2.8%，創1996年以來的最高水平，這一走勢促使Hayakawa確信央行6月加息勢在必行。“近期債券收益率的快速上升，部分反映了市場對日本央行加息能力的擔憂，”Hayakawa表示。“日本央行肯定認為他們必須採取行動。”"
+    },
+    {
+      "id": "4925308",
+      "time": "2026-06-09 14:07:58",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "【香港電影人黃百鳴被判入獄5個月】據多家港媒報道，現年80歲的天馬影視（現稱傳遞娛樂）前主席、香港電影人黃百鳴涉及於2017年天馬影視公佈賣盤前慫使胞妹購入公司股票一事，早前被裁定內幕交易罪罪成，6月9日於香港西九龍裁判法院判決。西九龍裁判處裁判官高偉雄宣佈，黃百鳴涉內幕交易罪罪成，裁定黃百鳴監禁5個月，並裁定罰款99720港元，以及涉及香港證監會的調查費用37.4萬港元。高偉雄指出，儘管黃百鳴對香港電影業奉獻一生，且胞妹獲得的實際利益不算大，但其作為天馬影視的股東，其舉動會令公眾對香港證券市場的信心造成影響，黃百鳴因本案聲譽受損及影響身心健康不能成為減刑理由。黃百鳴申請保釋等候上訴獲批。"
+    },
+    {
+      "id": "mkt:019eaafe-1af0-7ee8-a200-971736fd03d0",
+      "time": "2026-06-09 14:07:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "【STAR 50 Index up over 4%】STAR 50 Index rose more than 4% intraday, led by a strong rally in the semiconductor sector. Components: Shanghai Silicon Industry hit a 20% limit-up; Shengyi Electronics, Advanced Micro‑Fabrication Equipment (AMEC) and Montage Technology were among the top gainers."
+    },
+    {
+      "id": "4925307",
+      "time": "2026-06-09 14:07:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達4％，成分股中，滬矽產業漲20.01％，生益電子漲12.12％，天嶽先進漲11.76％，華潤微漲7.22％。"
+    },
+    {
+      "id": "mkt:019eaafd-c4b0-7ee8-a200-8823289eaa7f",
+      "time": "2026-06-09 14:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zhongji Xuchuang turnover reached CNY 40 bln; stock up 2.94%."
+    },
+    {
+      "id": "te:markets:557509",
+      "time": "2026-06-09 14:06:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were poised to open little changed on Tuesday, snapping a recent slide as traders assessed a fragile ceasefire between Iran and Israel after the two countries agreed to halt attacks against each other. Investors also looked ahead to the European Central Bank’s upcoming policy decision, where policymakers are widely expected to raise interest rates amid mounting inflationary pressures from elevated energy costs. Meanwhile, market participants will monitor Germany’s April trade and industrial production data for fresh signals on the region’s economic outlook. In corporate news, British pharmaceutical company GSK is reportedly in talks to acquire oncology biotech Nuvalent for more than $9 billion, according to the Financial Times. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were flat to slightly lower."
+    },
+    {
+      "id": "4925306",
+      "time": "2026-06-09 14:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達400億元】6月9日下午，中際旭創成交額達400億元，現漲2.94%。"
+    },
     {
       "id": "4925305",
       "time": "2026-06-09 14:05:06",
@@ -176960,65 +177065,6 @@
         "其他"
       ],
       "text": "惠譽評級：通脹與高利率加大亞太區擔保債券發行人壓力。"
-    },
-    {
-      "id": "4911988",
-      "time": "2026-06-02 14:10:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國總統李在明：加速推進人工智慧革命和能源結構轉型升級】據報道，韓國總統李在明2日在總統府青瓦臺主持召開國務會議暨緊急經濟檢查會議。李在明在開場白中表示，韓國政府應該爭取出口等經濟指標改善的紅利惠及中小企業、小型個體戶、老百姓和弱勢群體等。韓國政府不僅需要提供堅實制度保障，加速推進人工智慧革命和能源結構轉型升級，還需要快馬加鞭，培養機器人和軍工等高新產業，推動韓國成為全球領先經濟強國。"
-    },
-    {
-      "id": "mkt:019e86f4-91e0-7dd4-a7a8-d5bb11036c32",
-      "time": "2026-06-02 14:10:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Commodities",
-        "Energy",
-        "Nasdaq100",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【South Korea's Lee urges acceleration of AI revolution and energy transition】South Korea's Lee told a cabinet and emergency economic review at the Blue House on the 2nd that the government should channel export gains to SMEs, small merchants, households and vulnerable groups. He called for firm institutional guarantees and faster promotion of an AI revolution and an energy-transition and structural upgrade, and urged rapid development of high-tech sectors including robotics and the defense industry to position South Korea as a global economic leader."
-    },
-    {
-      "id": "4911987",
-      "time": "2026-06-02 14:09:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【意法半導體上調 2026 年資料中心業務營收預期至 10 億美元】受人工智慧基礎設施需求旺盛、產能擴產順利推進影響，意法半導體將 2026 年度資料中心板塊營收預期從此前的遠超 5 億美元上調至約 10 億美元。在當前行業發展態勢下，該業務 2027 年營收有望實現翻倍；公司此前給出的 2027 年業績指引為營收大幅高於 10 億美元。"
-    },
-    {
-      "id": "4911985",
-      "time": "2026-06-02 14:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新成交額達200億元】6月2日下午，兆易創新成交額達200億元，現漲1.49%。"
-    },
-    {
-      "id": "4911984",
-      "time": "2026-06-02 14:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達CEO黃仁勳：Vera CPU將比GPU更受歡迎 將成為公司新的主要增長動力】英偉達CEO黃仁勳週二在臺北Computex大會的英偉達媒體見面會上表示，目前在晶片供應方面的確存在一些限制，這仍是一個令人擔憂的問題。“我們已經為所有這些系統的強勁增長確保了供應。”黃仁勳表示，“我們有足夠的供應來實現非常強勁的增長，但的確仍然存在供應限制。”黃仁勳還表示，公司的Vera CPU將比其GPU更受歡迎，因為Vera CPU在處理資訊方面起著至關重要的作用，“Vera CPU將成為我們新的主要增長動力。”"
-    },
-    {
-      "id": "te:markets:555616",
-      "time": "2026-06-02 14:07:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Higher Open — European equity markets were poised for a stronger open on Tuesday, recovering from the previous session’s losses as investors stepped in to buy the dip while evaluating the durability of the global technology and AI-driven rally. Traders also continued to monitor developments in the Middle East after Tehran reportedly suspended talks with Washington in response to Israeli strikes in Lebanon, although President Donald Trump said negotiations remain ongoing. In Europe, investors will focus on the Eurozone’s flash inflation report for May to assess how the Middle East conflict is influencing regional price pressures. Meanwhile, the corporate earnings calendar remains light, with no major earnings releases scheduled across Europe on Tuesday. In premarket trading, Euro Stoxx 50 futures rose 0.6%, while Stoxx 600 futures gained 0.5%."
     }
   ]
 }
