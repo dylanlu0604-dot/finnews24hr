@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-10 05:56:52",
-  "count": 18712,
+  "updated": "2026-06-10 06:01:03",
+  "count": 18716,
   "items": [
+    {
+      "id": "4926736",
+      "time": "2026-06-10 06:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本與馬來西亞將就保障液化天然氣穩定供應開展合作。"
+    },
+    {
+      "id": "4926735",
+      "time": "2026-06-10 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報89.40美元/桶。"
+    },
+    {
+      "id": "mkt:019eae66-22ef-7ff4-a101-c054db6069a5",
+      "time": "2026-06-10 05:59:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says striking Iran 'very important'】On June 9 local time, US President Trump said it was \"very important\" to respond after Iran shot down a US helicopter and that the US was carrying out a response. He said he has long favored a tough response, called the action a \"very strong, very powerful\" retaliation, and added \"we originally had a very good deal, and very likely still will.\""
+    },
+    {
+      "id": "4926734",
+      "time": "2026-06-10 05:59:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普認為相關協議仍有望很快達成。"
+    },
+    {
+      "id": "mkt:019eae65-ae09-7ff4-a101-bb9a67e2f7b4",
+      "time": "2026-06-10 05:59:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【U.S. official: strike on Iran was a warning, will not impede talks】A U.S. official told CNN the recent strike was intended as a warning and would not impede negotiations with Iran."
+    },
+    {
+      "id": "4926733",
+      "time": "2026-06-10 05:59:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國一名官員表示，近期的打擊行動意在向伊朗發出警告，預計不會擾亂旨在透過談判結束衝突的相關努力。"
+    },
+    {
+      "id": "4926732",
+      "time": "2026-06-10 05:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱對伊朗進行打擊“非常重要”】當地時間6月9日，美國總統特朗普表示：“我認為作出回應非常重要。他們擊落了一架直升機，而我們正在進行回應。”特朗普表示：“我一直相信要以強硬方式回應。我們原本有一項非常好的協議，而且很可能仍然會有。這次行動是對他們昨晚擊落我們直升機的回應，我認為回應應該非常強硬、非常有力，而這次行動正是如此。”"
+    },
+    {
+      "id": "mkt:019eae64-12d1-7ff4-a101-b68522c902a1",
+      "time": "2026-06-10 05:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report Israel did not carry out an attack on Beirut."
+    },
     {
       "id": "4926731",
       "time": "2026-06-10 05:56:15",
@@ -172684,44 +172754,6 @@
         "國際"
       ],
       "text": "科威特軍方稱，防空部隊當下正在攔截來襲的敵方導彈與無人機。"
-    },
-    {
-      "id": "mkt:019e8a5a-8ed8-733d-881b-1d615e2db9fc",
-      "time": "2026-06-03 06:00:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "The General Staff of the Kuwait Armed Forces reported it is responding to hostile missile and drone threats."
-    },
-    {
-      "id": "4913698",
-      "time": "2026-06-03 06:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.6%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.6%，累計降息25個基點的機率為1.4%。美聯儲到7月維持利率不變的機率為92.4%，累計加息25個基點的機率6.3%，累計降息25個基點的機率為1.3%。"
-    },
-    {
-      "id": "4913697",
-      "time": "2026-06-03 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破76美元/盎司，日內跌0.11%。"
-    },
-    {
-      "id": "4913696",
-      "time": "2026-06-03 05:59:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：OpenAI執行長奧特曼週三將與白宮高階官員會面。"
     }
   ]
 }
