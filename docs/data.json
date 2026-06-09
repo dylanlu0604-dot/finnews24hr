@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-09 13:00:15",
-  "count": 19190,
+  "updated": "2026-06-09 13:04:20",
+  "count": 19189,
   "items": [
+    {
+      "id": "4925218",
+      "time": "2026-06-09 13:03:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "儲存晶片概念持續走強，金富科技漲停，金太陽、神工股份、雲漢芯城、上海新陽、商絡電子、恆坤新材等跟漲。"
+    },
+    {
+      "id": "4925217",
+      "time": "2026-06-09 13:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞預計2026年電子出口額接近2000億美元】馬來西亞半導體行業負責人稱，該國含半導體在內的電氣及電子產品出口額今年有望突破8000億林吉特（約合1970億美元）。馬來西亞電氣電子產品出口額2024年為6010億林吉特，2025年升至7110億林吉特。馬來西亞半導體行業協會會長 Wong Siew Hai在接受採訪時表示：“增長勢頭不會放緩，還將延續，今年出口額甚至有望再創新高。”半導體約佔馬來西亞電氣電子產品出口總量的65%。"
+    },
+    {
+      "id": "4925216",
+      "time": "2026-06-09 13:02:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美容護理板塊震盪走弱，力合科創跌停】美容護理板塊震盪走弱，力合科創跌停，豪悅護理、珀萊雅、錦盛新材、愛美客、錦波生物、潤本股份等跟跌。"
+    },
+    {
+      "id": "4925215",
+      "time": "2026-06-09 13:01:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4803.830點；恒生指數現漲0.055%。"
+    },
+    {
+      "id": "4925214",
+      "time": "2026-06-09 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.42%，成分股中，滬矽產業漲20.01%，天嶽先進漲10.94%，生益電子漲9.00%，盛美上海漲7.87%。"
+    },
+    {
+      "id": "mkt:019eaac1-5afb-7eec-b848-f020b216f3ca",
+      "time": "2026-06-09 13:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Sci-Tech Innovation 50 Index rose over 3%; semiconductors, CPO, memory and MLCC sectors led gains."
+    },
+    {
+      "id": "4925213",
+      "time": "2026-06-09 13:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.37%，現報15024.037點；上證指數漲0.51%，現報3979.676點；創業板指漲2.11%，現報3892.296點。"
+    },
     {
       "id": "4925212",
       "time": "2026-06-09 12:57:22",
@@ -176914,80 +176980,6 @@
         "公司"
       ],
       "text": "亞馬遜宣佈會員日（Prime Day）活動將於6月23日至26日舉辦，屆時將為Prime會員提供數百萬項專屬優惠。"
-    },
-    {
-      "id": "4911897",
-      "time": "2026-06-02 13:03:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本公平交易委員會對五家大型臨時工派遣公司進行現場檢查。（日經新聞）"
-    },
-    {
-      "id": "4911896",
-      "time": "2026-06-02 13:03:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【新華社：美股AI熱潮是否面臨“泡沫破裂”風險】市場觀察人士認為，當前市場的AI狂熱能否延續，取決於AI建設的持續性、企業實際盈利情況以及宏觀經濟基本面。此外，如果美國經濟走弱，企業對AI基礎設施的投資意願下降也是潛在風險。多名策略師認為，市場尚不具備典型的“牛市終結”條件——如投機狂熱、利潤率全面惡化或美聯儲加息，但估值高企、漲勢集中、業績預期極高的現狀，確實令AI投資處於“脆弱的繁榮”之中。"
-    },
-    {
-      "id": "mkt:019e86b6-d7cf-7dd4-a7a7-42de43372be3",
-      "time": "2026-06-02 13:03:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CSI 300 Index up about 1% intraday."
-    },
-    {
-      "id": "4911895",
-      "time": "2026-06-02 13:03:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【小金屬板塊短線拉昇】小金屬板塊短線拉昇，華錫有色、貴研鉑業漲停, 宜安科技漲超10%，雲南鍺業、東方鋯業、中國鈾業、金鉬股份、盛和資源等跟漲。"
-    },
-    {
-      "id": "4911894",
-      "time": "2026-06-02 13:01:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【天孚通訊盤中漲超5%】天孚通訊盤中漲5.15%，現報450.98元。"
-    },
-    {
-      "id": "mkt:019e86b5-6aa4-7dd4-a7a7-3b96a4a7a9b8",
-      "time": "2026-06-02 13:01:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. plans to halve number of consular posts processing visas in Africa】An internal State Department memo says the U.S. will sharply curtail visa operations in Africa in coming weeks, cutting the number of American embassies and consulates that process visas from nearly 50 to 20 designated hubs. Three unnamed U.S. officials said on June 1 that Secretary of State Rubio approved the plan last week and the changes are expected to begin in June. One official said consular leadership was notified on a conference call last week that routine consular services outside the 20 hubs will be scaled back."
-    },
-    {
-      "id": "4911893",
-      "time": "2026-06-02 13:00:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國擬“腰斬”在非洲辦簽證的使領館數量】一份美國國務院內部備忘錄顯示，美國計劃在數週內大幅壓縮在非洲地區簽證業務，可處理簽證業務的美使領館數量將從近50個壓縮至20個。據美國方面當地時間6月1日訊息，3名不願公開姓名的美國官員表示，美國國務卿魯比奧上週批准，除20個指定“樞紐”外，美國駐非洲國家使領館將縮減領事業務。相關調整預計於6月開始實施。一名官員透露，在上週舉行的一次電話會議上，包括領事部門負責人在內的美方外交人員已收到相關通知。"
-    },
-    {
-      "id": "mkt:019e86b4-d5af-7dd4-a7a7-327e53d9c75b",
-      "time": "2026-06-02 13:00:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Statistics Indonesia estimates rice production at 21.95 million tonnes for January–July."
     }
   ]
 }
