@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-09 14:30:32",
-  "count": 19169,
+  "updated": "2026-06-09 14:34:32",
+  "count": 19162,
   "items": [
+    {
+      "id": "4925355",
+      "time": "2026-06-09 14:33:37",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【首創期貨：保供政策出臺，焦煤期價盤中跌停】供應方面，陝西省發改委釋出關於做好迎峰度夏能源保供工作的通知，督促煤炭企業在安全前提下依法合規釋放先進產能。該訊息引發多頭獲利了結，焦煤主力09合約兩個交易日累計減倉超11萬手。近日煤礦復產進度有所加快，截至6月8日，復產煤礦共計70座，產能8515萬噸，仍在停產煤礦共計65座，產能共計6975萬噸。進口方面蒙煤通關車輛維持高位。保供政策疊加市場情緒擾動下，預計短期焦煤期價震盪調整為主，關注國內煤礦開工及鐵水產量變動情況。（首創期貨）"
+    },
+    {
+      "id": "4925353",
+      "time": "2026-06-09 14:33:23",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "中韓半導體ETF觸達漲停。"
+    },
+    {
+      "id": "4925352",
+      "time": "2026-06-09 14:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列要求泰爾鎮居民在可能發生襲擊前撤離。"
+    },
+    {
+      "id": "mkt:019eab15-daf5-7ee8-a201-0c24f95cf357",
+      "time": "2026-06-09 14:33:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China-South Korea semiconductor ETF hit daily limit-up."
+    },
+    {
+      "id": "4925351",
+      "time": "2026-06-09 14:32:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗和以色列停止襲擊後，美元下跌】伊朗和以色列週一暫停襲擊後，隨著油價回落以及對避險資產的需求減弱，美元下跌。伊朗和以色列表示將停止交火，但承諾如果戰鬥再次爆發將進行報復。美國總統特朗普介入了衝突，稱伊朗和以色列必須停止射擊，並宣佈兩國都希望立即停火。德意志銀行分析師在一份報告中表示：“感覺至少在目前，週末爆發的敵對行動已經停止，和平談判仍有繼續的途徑。”DXY美元指數下跌0.2%，至99.838。"
+    },
+    {
+      "id": "te:markets:557535",
+      "time": "2026-06-09 14:32:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Pares Losses at Finish — The ASX 200 edged down 21 points or 0.2% to end at 8,604 on Tuesday, down for the third session after fresh data showed Australia's consumer confidence fell in June following May's rise and marking its fourth decline this year amid lingering cost-of-living pressures. Separately, business sentiment in May improved but remained firmly negative, due to concerns over the impact of elevated borrowing costs. Still, local markets trimmed early declines after solid May trade data in top trading partner China, as exports hit a record high while imports accelerated. Meanwhile, the Reserve Bank of Australia will hold a policy meeting next week, with traders expecting a pause following three rate hikes since January. In the U.S., stock futures strengthened, following a rebound in chip stocks on Wall Street Monday. Among today's decliners were Lynas Rare Earths(-4.5%), Evolution Mining (-4.2%), Fortescue (-3.5%), and heavyweight BHP Group (-1.7%). Two of four big banks fell between 0.5% and 1%."
+    },
+    {
+      "id": "4925350",
+      "time": "2026-06-09 14:31:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼加息後，JCI指數漲幅收窄至3.8%。"
+    },
+    {
+      "id": "mkt:019eab14-797f-7ee8-a201-024855376e28",
+      "time": "2026-06-09 14:31:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【South Korea's KOSPI closes up 8%】South Korea's KOSPI closed up 612.51 points, +8.18%, at 8,096.92, after falling more than 8% yesterday. Japan's Nikkei 225 closed up 2.17%, led by electronics stocks."
+    },
+    {
+      "id": "4925349",
+      "time": "2026-06-09 14:31:28",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲2.17%，報65416.63點。韓國綜指收漲8.18%，報8096.92點。"
+    },
+    {
+      "id": "mkt:019eab13-cd39-7ee8-a200-fa8047c1c345",
+      "time": "2026-06-09 14:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals",
+        "002460.SZ",
+        "Impact bullish",
+        "LAC.O",
+        "ALB.O"
+      ],
+      "text": "China A-share energy metals sector rallied in the afternoon; Shengxin Lithium Energy hit the daily limit-up, while Yongshan Lithium, Rongjie, Yongxing Materials, Ganfeng Lithium, TTANQT LITHIUM and Zhongkuang Resources also rose."
+    },
+    {
+      "id": "4925348",
+      "time": "2026-06-09 14:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利福林兌歐元匯率在5月通脹資料低於預期後，從354.7跌至355.6。"
+    },
+    {
+      "id": "te:markets:557533",
+      "time": "2026-06-09 14:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.09% Higher — The Nikkei 225 Index gained 1335 points or 2.09 percent on Tuesday to close at 65360 points. Gains were led by Taiyo Yuden (18.33%), Panasonic (9.49%) and Tokyo Electron (9.29%)."
+    },
+    {
+      "id": "4925347",
+      "time": "2026-06-09 14:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樂奇Rokid成為中央廣播電視總檯2026年美加墨世界盃轉播AI眼鏡獨家合作伙伴】樂奇Rokid成為中央廣播電視總檯2026年美加墨世界盃轉播AI眼鏡獨家合作伙伴。世界盃期間，球迷佩戴樂奇AI眼鏡，即可獲得賽程查詢、技術統計、隊伍陣容、球員資訊、比分預測、看球輔助等豐富內容和服務。"
+    },
     {
       "id": "4925346",
       "time": "2026-06-09 14:29:32",
@@ -176655,195 +176795,6 @@
         "國際"
       ],
       "text": "抗議組織者稱，兩人在肯亞反對美國埃博拉隔離設施的抗議活動中身亡。"
-    },
-    {
-      "id": "4912054",
-      "time": "2026-06-02 14:34:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：泰國延長酒類商品售賣時段，提振旅遊業與零售業。"
-    },
-    {
-      "id": "te:markets:555631",
-      "time": "2026-06-02 14:34:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Eases After Trade and Inflation Data — The Indonesian rupiah edged lower to around IDR 17,840 per U.S. dollar on Tuesday after holding steady over the prior two sessions, weighed by broad dollar strength and cautious sentiment amid developments in the Middle East. Locally, fresh data showed Indonesia's trade surplus narrowed more than expected in April to its lowest level in six years, as imports slightly outpaced exports, eroding support from external balances. Meanwhile, headline inflation accelerated in May as higher energy costs tied to regional tensions fed into domestic prices, although it remained within the central bank's target range of 1-1/2% to 3-1/2%. Persistent fiscal strains and capital outflows continued to pressure the currency despite Bank Indonesia's mid-May rate hikes and other stabilisation measures. Concerns also emerged over tighter forex-retention rules for exporters, despite government hopes that a new state-owned commodity exporter would bolster fiscal revenues and dollar liquidity."
-    },
-    {
-      "id": "mkt:019e8709-5e76-7ff3-a009-d1df66e330ff",
-      "time": "2026-06-02 14:33:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency cited sources on Iran’s negotiating team saying Washington has spent large sums on the war but has not succeeded."
-    },
-    {
-      "id": "mkt:019e8709-5586-7aad-a473-941d98c86a44",
-      "time": "2026-06-02 14:32:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Kuaishou says AI spawned 15 new platform occupations】Kuaishou said in its 2025 corporate social responsibility report that as of end-2025 the platform generated 48.6 mln jobs: 26.0 mln directly, 15.48 mln via its commercial ecosystem and 7.12 mln via its content ecosystem. The company said it has cumulatively created 189 new occupations, 15 of which it attributes to AI development, including AIGC application specialists, prompt engineers, AI directors and artificial intelligence trainers."
-    },
-    {
-      "id": "4912053",
-      "time": "2026-06-02 14:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福萊蒽特成立數字科技公司 含雲端計算裝置業務】企查查APP顯示，近日，杭州寰卓數字科技有限公司成立，註冊資本3億元，經營範圍包含：網路與資訊保安軟體開發；網路裝置銷售；雲端計算裝置銷售；計算機軟硬體及輔助裝置批發等。企查查股權穿透顯示，該公司由福萊蒽特全資持股。"
-    },
-    {
-      "id": "4912052",
-      "time": "2026-06-02 14:32:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾在2026年臺北國際電腦展上推出面向拆分式推理的智慧體雲產品。"
-    },
-    {
-      "id": "mkt:019e8708-aa6b-7aad-a473-8ab826efa51b",
-      "time": "2026-06-02 14:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou customs: first month of zero-tariff scheme yields 470 mln yuan in eligible imports from 53 African partners】China’s zero-tariff program for 53 African diplomatic partners, effective May 1–31, 2026, generated over 470 mln yuan of eligible imports through the Guangzhou customs district, customs said. About 380 mln yuan of that value came from 20 partners not classified as least-developed countries, including Libya, South Africa, Egypt, Nigeria and Zimbabwe; tariff reductions exceeded 43 mln yuan."
-    },
-    {
-      "id": "4912051",
-      "time": "2026-06-02 14:32:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據交易員透露，印度央行大機率正透過國有銀行出售美元，並進行美元/盧比買賣掉期操作。"
-    },
-    {
-      "id": "4912050",
-      "time": "2026-06-02 14:32:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手平臺：AI發展帶來新職業達15個】6月2日，快手釋出《2025年度快手企業社會責任報告》。報告顯示，截至2025年底，快手平臺共帶動4860萬個就業機會，其中平臺直接帶動就業2600萬個，商業生態體系帶動就業1548萬個，內容生態體系帶動就業712萬個。與此同時，平臺累計催生189個新職業，其中由AI發展帶來的新職業達到15個，涵蓋AIGC應用師、提示詞工程師、AI導演、人工智慧訓練師等多個方向。"
-    },
-    {
-      "id": "mkt:019e8708-4f66-7aad-a473-8277bed1b819",
-      "time": "2026-06-02 14:32:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Traders say the Reserve Bank of India may be selling dollars via state-owned banks and executing both buy and sell USD/INR swap operations."
-    },
-    {
-      "id": "4912049",
-      "time": "2026-06-02 14:32:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾推出基於英特爾18A工藝的至強6+處理器。"
-    },
-    {
-      "id": "4912048",
-      "time": "2026-06-02 14:31:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾宣佈與富士康、西門子、日立、回聲神經科技公司、綠石生物科學開展合作。"
-    },
-    {
-      "id": "mkt:019e8708-031e-7ff3-a009-c12df1a7ee61",
-      "time": "2026-06-02 14:31:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "000660.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "SK Group chairman said the company aims to become a primary supplier of HBM chips for NVIDIA's Vera Rubin system."
-    },
-    {
-      "id": "4912047",
-      "time": "2026-06-02 14:31:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.30%，報66734.24點。韓國綜指收漲0.12%，報8799.22點。"
-    },
-    {
-      "id": "4912046",
-      "time": "2026-06-02 14:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長：希望成為英偉達Vera Rubin系統的主要HBM晶片供應商。"
-    },
-    {
-      "id": "mkt:019e8707-929a-7ff3-a009-bf38f19d3cea",
-      "time": "2026-06-02 14:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI closed up 10.84 points, +0.12%, at 8,799.22 on Tuesday, June 2."
-    },
-    {
-      "id": "mkt:019e8707-43a7-7ff3-a009-b62b0e9220bf",
-      "time": "2026-06-02 14:30:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Italy 2-year government bond yield fell 6.8bps to 2.753%."
-    },
-    {
-      "id": "4912045",
-      "time": "2026-06-02 14:30:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾釋出搭載至強處理器與 Sambanova SN-50 RDUS 的RackScale人工智慧基礎設施。"
-    },
-    {
-      "id": "4912044",
-      "time": "2026-06-02 14:30:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體，訊息人士稱，美國不守信用的歷史和缺乏信任促使伊朗以高度強硬的態度行事。"
-    },
-    {
-      "id": "mkt:019e8707-1ee7-7ff3-a009-ae04a0fa6898",
-      "time": "2026-06-02 14:30:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 closed down 200.09 points, or 0.30%, at 66,734.24 on Tuesday, June 2."
     }
   ]
 }
