@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-09 08:07:48",
-  "count": 19180,
+  "updated": "2026-06-09 08:11:32",
+  "count": 19170,
   "items": [
+    {
+      "id": "mkt:019ea9b7-5b08-733a-9237-82b99d98731c",
+      "time": "2026-06-09 08:10:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australian S&P/ASX 200 index opened 120.30 points lower (-1.39%) at 8,504.80 on Tuesday, June 9."
+    },
+    {
+      "id": "4924817",
+      "time": "2026-06-09 08:09:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【任天堂被罰約2.7億元】據法國24臺8日報道，日本遊戲公司任天堂已同意繳納3500萬歐元（約合2.7億元人民幣）罰款，了結法國監管部門針對其Switch手柄缺陷問題的調查。該案源於2020年，法國消費者權益團體發起訴訟，指控任天堂存在產品計劃性淘汰問題，明知Switch原裝Joy-Con手柄存在普遍的搖桿漂移故障，卻刻意隱瞞產品缺陷，侵害了消費者合法權益。該故障具體表現為手柄搖桿無觸碰時出現自動偏移、按鍵卡頓卡死等問題，嚴重影響裝置正常使用。法國市場競爭、消費和反欺詐總局調查認定，Switch自2017年上市後，搖桿漂移故障長期頻發，但任天堂方面未及時向消費者披露這一系統性缺陷，也未及時給出售後解決方案。"
+    },
+    {
+      "id": "te:economy:557396",
+      "time": "2026-06-09 08:09:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Construction Sector Returns to Growth — The AIB Ireland Construction PMI increased to 50.2 in May 2026 from April’s five-month low of 47.1, driven by a renewed increase in output and new orders. New orders grew following their first decline in five months in April, reflecting an improvement in customer demand. In response to the rise in new orders, firms increased staffing and purchasing activity, with employment rising at a solid pace for the seventh consecutive month, while input buying rose modestly."
+    },
+    {
+      "id": "4924816",
+      "time": "2026-06-09 08:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國和以色列存在利益有分歧的一些情況。"
+    },
+    {
+      "id": "4924815",
+      "time": "2026-06-09 08:07:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數早盤下跌1.5%，報8499.20點。"
+    },
     {
       "id": "4924814",
       "time": "2026-06-09 08:06:04",
@@ -176766,149 +176813,6 @@
         "市場"
       ],
       "text": "韓華航空航天股價下跌6.2%，報106.7萬韓元。"
-    },
-    {
-      "id": "4911500",
-      "time": "2026-06-02 08:11:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.6%，報8673.60點。"
-    },
-    {
-      "id": "mkt:019e85ab-6641-7993-96fc-1d83d0f2822c",
-      "time": "2026-06-02 08:11:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "ARM.O",
-        "Impact bullish",
-        "9984.T"
-      ],
-      "text": "SoftBank Group shares rose 4.6% after Arm (ARM.O) surged in overnight trading."
-    },
-    {
-      "id": "mkt:019e85aa-a3a8-7993-96fc-116497628e67",
-      "time": "2026-06-02 08:10:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 55.80 points, or 0.64%, at 8,673.60 points on Tuesday, June 2."
-    },
-    {
-      "id": "mkt:019e85aa-670b-7993-96fc-0938c008f5a2",
-      "time": "2026-06-02 08:09:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "066570.KS",
-        "Impact bearish"
-      ],
-      "text": "【Korean stocks plunge】South Korea's KOSPI fell 3% intraday after earlier rising more than 1.5%. LG Electronics dropped over 5% after earlier jumping as much as 11%."
-    },
-    {
-      "id": "4911499",
-      "time": "2026-06-02 08:09:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3.1%，報8518.93。"
-    },
-    {
-      "id": "4911498",
-      "time": "2026-06-02 08:09:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌2.1%，報 8600.74。"
-    },
-    {
-      "id": "4911497",
-      "time": "2026-06-02 08:09:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國首爾股市綜合股價指數（KOSPI）轉跌，回吐了早盤1.7%的漲幅。"
-    },
-    {
-      "id": "mkt:019e85a9-894b-7993-96fc-041169790b2f",
-      "time": "2026-06-02 08:09:00",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "South Korea's KOSPI slid as much as 2.00% intraday."
-    },
-    {
-      "id": "4911496",
-      "time": "2026-06-02 08:08:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞將最低工資上調4.75%。"
-    },
-    {
-      "id": "4911495",
-      "time": "2026-06-02 08:08:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長表示，一枚導彈襲擊後，基輔一棟24層住宅樓爆發火災。"
-    },
-    {
-      "id": "4911494",
-      "time": "2026-06-02 08:08:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔市內再次傳出連續爆炸聲】記者獲悉，當地時間6月2日，烏克蘭首都基輔市內再次傳出連續的劇烈爆炸聲。基輔市長克利奇科通報，達爾尼茨基區、斯維亞託申區、舍甫琴科夫斯基區多處區域遭導彈殘骸墜落引燃火情，一座加油站與多處非住宅建築受損起火。目前現場救援、損失統計工作仍在開展，官方暫未通報人員傷亡。基輔市軍事管理局表示。波多利斯基區一棟高層建築倒塌，廢墟下有人被困。當天稍早時，基輔拉響防空警報，隨後傳出連續的劇烈爆炸聲，部分地區停電。"
-    },
-    {
-      "id": "te:economy:555500",
-      "time": "2026-06-02 08:08:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Factory Growth Strongest in Four Years — The AIB Ireland Manufacturing PMI rose to 55.9 in May 2026 from 54.9 in April, reaching its highest in four years. Output growth accelerated to its fastest pace in a year, while new orders increased at the quickest rate since April 2022, driven by improving domestic and export demand, with overseas sales posting their strongest growth since August 2021. Employment also expanded at the fastest pace in nearly four years as firms boosted capacity to meet growing workloads. Purchasing activity strengthened sharply, while manufacturers continued building inventories amid supply chain concerns linked to the Middle East conflict. Supplier delivery times also lengthened to the greatest extent since October 2022. Meanwhile, input cost inflation accelerated to its highest level since July 2022, leading firms to raise selling prices at the fastest pace since December 2022. Still, business confidence improved from April’s 25-month low, supported by stronger sales pipelines and investment plans."
-    },
-    {
-      "id": "mkt:019e85a9-07e0-7993-96fb-fcbfbf9d66de",
-      "time": "2026-06-02 08:08:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI slid, losses widening to 1.4%."
-    },
-    {
-      "id": "4911493",
-      "time": "2026-06-02 08:08:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【知名空頭投資人安德魯・萊夫被判證券欺詐罪成立】空頭大佬安德魯・萊夫（Andrew Left ）於被判證券欺詐罪名成立，其作案手法為公開發布上市公司相關研判言論，私下卻進行與自身薦股、預判相悖的證券交易。陪審團裁定，其證券欺詐主罪名成立；16 項單項交易相關指控中，另有 12 項定罪、4 項無罪。判決在洛杉磯法庭當庭宣讀，萊夫聆聽一連串有罪宣判時，辯護律師手扶其後背。本次判決或將對華爾街行業產生深遠影響。"
-    },
-    {
-      "id": "mkt:019e85a8-84f3-7993-96fb-f6b99fde0278",
-      "time": "2026-06-02 08:07:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index rapidly reversed into negative territory after earlier gains of more than 1.5%."
     }
   ]
 }
