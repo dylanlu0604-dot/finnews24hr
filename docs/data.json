@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-09 21:15:41",
-  "count": 19045,
+  "updated": "2026-06-09 21:19:53",
+  "count": 19022,
   "items": [
+    {
+      "id": "4926327",
+      "time": "2026-06-09 21:18:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【法國外長：禁止以色列財長斯莫特里赫等人入境】據法新社、半島電視臺網站等媒體報道，法國外長巴羅9日在社交媒體發文透露，法國已禁止以色列極右翼政客、財政部長斯莫特里赫、4名定居者組織負責人以及21名暴力定居者入境法國。 (環球網)"
+    },
+    {
+      "id": "4926326",
+      "time": "2026-06-09 21:18:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "富國銀行策略師稱，日本在央行政策會議前不太可能干預日元匯率。"
+    },
+    {
+      "id": "mkt:019eac88-720d-7ddc-a5f4-c21b39600163",
+      "time": "2026-06-09 21:18:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Prime Minister MODI will visit France and Slovakia from June 13-18, the Indian government said."
+    },
+    {
+      "id": "4926325",
+      "time": "2026-06-09 21:18:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：印度總理莫迪將於6月13日至18日訪問法國和斯洛伐克。"
+    },
     {
       "id": "4926323",
       "time": "2026-06-09 21:14:44",
@@ -175309,256 +175345,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼表示，加拿大在與美國存在的部分貿易問題上正取得進展。"
-    },
-    {
-      "id": "4913094",
-      "time": "2026-06-02 21:19:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：通脹水平居高不下、仍存上行壓力且呈現全域普漲態勢。"
-    },
-    {
-      "id": "mkt:019e887d-ae4f-799a-9e6a-82550e127a8d",
-      "time": "2026-06-02 21:19:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's HAMMACK said the central bank is weighing multiple scenarios tied to a war lasting longer than expected."
-    },
-    {
-      "id": "4913093",
-      "time": "2026-06-02 21:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普2日在社交媒體上發文說，任命普爾特為代理國家情報總監。（新華社）"
-    },
-    {
-      "id": "mkt:019e887c-b17e-799a-9e6a-7b28d0ea6685",
-      "time": "2026-06-02 21:18:49",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "UBS raised its Oracle (ORCL.N) target price to $285 from $250."
-    },
-    {
-      "id": "4913092",
-      "time": "2026-06-02 21:18:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將甲骨文目標股價從250美元上調至285美元。"
-    },
-    {
-      "id": "mkt:019e887c-7b4e-799a-9e6a-7273a0110ce3",
-      "time": "2026-06-02 21:18:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canadian prime minister Carney said slower population growth is weighing on GDP."
-    },
-    {
-      "id": "mkt:019e887c-5679-799a-9e6a-6900dd795fd2",
-      "time": "2026-06-02 21:18:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's prime minister Carney said investment has shown some volatility."
-    },
-    {
-      "id": "mkt:019e887c-42a3-799a-9e6a-60c2dc3a8449",
-      "time": "2026-06-02 21:18:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed official Hammack said the main concern is that inflation remains too high and is still rising."
-    },
-    {
-      "id": "4913091",
-      "time": "2026-06-02 21:18:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：指南草案支援涵蓋基因組編輯療法在內的多種細胞與基因治療產品開發。"
-    },
-    {
-      "id": "mkt:019e887c-30be-799a-9e6a-5a4cfeceff01",
-      "time": "2026-06-02 21:18:18",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Carney says he sees some softness."
-    },
-    {
-      "id": "4913090",
-      "time": "2026-06-02 21:18:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅向上觸及14000美元/噸，最新報14000.0美元/噸，日內上漲1.21%。"
-    },
-    {
-      "id": "mkt:019e887c-16ba-799a-9e6a-5229237d718c",
-      "time": "2026-06-02 21:18:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said some economic data will be uneven."
-    },
-    {
-      "id": "4913089",
-      "time": "2026-06-02 21:18:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡尼表示，當前投資活動的走勢仍存在一些其他波動。"
-    },
-    {
-      "id": "4913088",
-      "time": "2026-06-02 21:17:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：主要擔憂是通脹水平過高且仍在上升。"
-    },
-    {
-      "id": "mkt:019e887b-96c9-799a-9e6a-490ae5e06775",
-      "time": "2026-06-02 21:17:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iranian media: Iran-U.S. information exchange halted for days】Fars News cites a source saying information exchanges between Iran and the U.S. have been halted for at least several days, despite Western media and officials portraying communications as normal. The exchanges, intended to produce a preliminary memorandum of understanding, have been interrupted; the source said Trump’s claim last night that negotiations are progressing rapidly contrasts with the situation, and that Iran’s last message to the U.S., concerning Lebanon, has attracted wide international attention."
-    },
-    {
-      "id": "4913087",
-      "time": "2026-06-02 21:17:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊美之間的資訊交流已中斷數日】據伊朗媒體Fars News報道，一位知情人士透露，儘管一些西方媒體和官員試圖將伊美國之間的資訊交流過程描述為正常狀態，但目前雙方沒有在進行資訊交流。伊朗與美國之間旨在達成初步諒解備忘錄的資訊交流已經中斷了至少數日。雖然昨晚特朗普聲稱與伊朗的談判進展迅速，但該訊息人士強調，伊朗發給美國的最後一條訊息是關於黎巴嫩的，該訊息引起了國際社會的廣泛關注。"
-    },
-    {
-      "id": "4913086",
-      "time": "2026-06-02 21:17:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局釋出指南草案，助力加速細胞與基因療法惠及患者。"
-    },
-    {
-      "id": "4913085",
-      "time": "2026-06-02 21:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼表示，部分經濟資料將表現參差。"
-    },
-    {
-      "id": "mkt:019e887b-3b92-799a-9e6a-4236200f99d0",
-      "time": "2026-06-02 21:17:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "U.S. Department of Energy (DOE) announces $134 million in funding for two rare-earth projects."
-    },
-    {
-      "id": "4913084",
-      "time": "2026-06-02 21:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國萊茵金屬將對美國六家生產設施合計投資4100萬美元。"
-    },
-    {
-      "id": "mkt:019e887a-e5dc-799a-9e6a-3a9a3144fd39",
-      "time": "2026-06-02 21:16:55",
-      "tags": [
-        "MKT News",
-        "CBK.DE",
-        "Impact bullish",
-        "UCG.MI",
-        "Impact mixed"
-      ],
-      "text": "UniCredit's stake in Commerzbank, including shares accepted under the offer, totals 34.35%."
-    },
-    {
-      "id": "4913083",
-      "time": "2026-06-02 21:16:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部宣佈撥款1.34億美元用於兩個稀土專案。"
-    },
-    {
-      "id": "mkt:019e887a-8293-799a-9e6a-3391cec3e283",
-      "time": "2026-06-02 21:16:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official Hammack said he has not yet seen the war affect consumer spending."
-    },
-    {
-      "id": "mkt:019e887a-7972-799a-9e6a-2d6f6ccbfb96",
-      "time": "2026-06-02 21:16:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Federal Reserve official Hammack said contacts say even if the war ends quickly it will still cause lasting disruptions."
-    },
-    {
-      "id": "4913082",
-      "time": "2026-06-02 21:16:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：尚未看到戰爭對消費者支出產生影響。"
-    },
-    {
-      "id": "4913081",
-      "time": "2026-06-02 21:16:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【兒基會：世界各地兒童受人道主義供應鏈阻斷嚴重影響】據央視新聞，聯合國兒童基金會全球運輸和物流部門負責人讓-塞德里克·梅烏斯2日在日內瓦例行記者會上表示，自2月28日美國-以色列-伊朗緊張局勢升級以來，世界各地兒童受到全球人道主義供應鏈阻斷的嚴重影響。梅烏斯說，中東局勢升級近100天裡，全球供應鏈持續擁堵，如今繞行好望角的航線航運時間增加了2到4周，中東航線的空運能力趨於緊張，非洲及其他地區相繼出現港口擁堵。梅烏斯介紹說，僅涉及兒童的人道主義物資運輸和物流成本的上漲就造成巨大影響，運輸成本增加意味著用於兒童所需救生物資的資金減少。例如，在奈及利亞，為一個針對1200萬兒童的脊髓灰質炎疫苗接種專案而重新安排注射器運輸路線，額外花費了20萬美元，運輸成本增加了56%。梅烏斯表示，聯合國兒童基金會全球運輸和物流部門目前正在啟用空運、陸運和海運的替代路線，提前採購物資，實現供應商多元化，並推進本地化物資生產。"
-    },
-    {
-      "id": "4913080",
-      "time": "2026-06-02 21:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡任命薩欽·梅赫拉為首席商務官，2026年8月3日生效。"
     }
   ]
 }
