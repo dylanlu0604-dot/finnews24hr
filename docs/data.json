@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-09 21:07:31",
-  "count": 19074,
+  "updated": "2026-06-09 21:11:38",
+  "count": 19061,
   "items": [
+    {
+      "id": "4926319",
+      "time": "2026-06-09 21:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：今日推出Sleep Studio睡眠專屬購物網站。"
+    },
+    {
+      "id": "4926318",
+      "time": "2026-06-09 21:10:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東莞控股：擬公開掛牌轉讓康億創公司40%股權及南電鴻運公司100%股權，掛牌價格分別為2185.01萬元、242萬元】東莞控股公告，為進一步最佳化公司資產結構，提升資產質量，公司擬公開掛牌轉讓東莞市康億創新能源科技有限公司40%股權及東莞市南電鴻運能源有限公司100%股權。掛牌價格分別為2185.01萬元、242萬元。本次公開掛牌轉讓的結果存在不確定性，若本次掛牌轉讓順利完成，康億創公司、南電鴻運公司將不再納入公司合併報表範圍。"
+    },
+    {
+      "id": "mkt:019eac81-76fb-7ddc-a5f4-af8070cbb756",
+      "time": "2026-06-09 21:10:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Republican Representative Hudson said Trump's remark that he \"doesn't care\" about the midterm elections was misinterpreted."
+    },
+    {
+      "id": "4926317",
+      "time": "2026-06-09 21:09:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空：根據協議，谷歌將透過南非碳匯專案登記處（SAFC Registry）獲得環境權益，以幫助抵消員工商務出行產生的碳排放。"
+    },
+    {
+      "id": "te:markets:557697",
+      "time": "2026-06-09 21:09:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Up on Easing Middle East Tensions — Futures tracking the S&P/TSX Composite Index edged higher on Tuesday as investors assessed easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days. Oil prices and bond yields declined, supporting financial stocks and the broader market. Likewise, gold prices rose, providing support to mining shares. Investors are also looking ahead to the Bank of Canada's policy decision on Wednesday, with policymakers widely expected to leave interest rates unchanged."
+    },
+    {
+      "id": "4926316",
+      "time": "2026-06-09 21:09:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴斯夫警告伊朗戰爭可能發車企供應鏈中斷】化工巨頭巴斯夫執行長表示，通脹加劇以及伊朗戰爭可能導致的供應鏈中斷風險，給汽車行業及整體經濟前景蒙上陰影。他表示，原材料短缺的可能性正在增加，可能導致汽車生產等高度精細的供應鏈陷入停滯。他補充說，這場衝突已經造成硫磺和氦氣等投入品出現短缺。"
+    },
+    {
+      "id": "4926315",
+      "time": "2026-06-09 21:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟尋求在2035年前動用250億歐元用於清潔能源和醫療領域的技術研發。"
+    },
+    {
+      "id": "mkt:019eac7f-e41a-7ddc-a5f4-a5b314d0e5aa",
+      "time": "2026-06-09 21:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "POLITICO reports House Speaker Johnson will meet President Trump later today."
+    },
+    {
+      "id": "mkt:019eac7f-e0c6-7ddc-a5f4-9b43dd23a71e",
+      "time": "2026-06-09 21:08:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【U.S. trade deficit narrows in April as oil exports partly offset AI-related imports】U.S. trade deficit narrowed to $55.9 billion in April, data released Tuesday showed. Exports rose 2.6% MoM, supported by higher crude, fuel oil and other petroleum product prices. Imports increased 2.0% MoM, led by computers and semiconductors tied to data-center and AI equipment."
+    },
+    {
+      "id": "mkt:019eac7f-aaf4-7ddc-a5f4-906d2031ad68",
+      "time": "2026-06-09 21:08:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) has introduced new features, including an enhanced Flyover view and local lists, plus expanded sharing options in Find My."
+    },
+    {
+      "id": "4926313",
+      "time": "2026-06-09 21:08:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：眾議院議長約翰遜將於今日晚些時候與特朗普會晤。"
+    },
+    {
+      "id": "4926312",
+      "time": "2026-06-09 21:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "ZipRecruiter整合claude AI，拓展人工智慧求職搜尋服務。"
+    },
     {
       "id": "mkt:019eac7e-26a8-7ddc-a5f4-8a7a90a3aed0",
       "time": "2026-06-09 21:06:37",
@@ -175584,239 +175699,6 @@
         "國際"
       ],
       "text": "市場訊息： 黎巴嫩與以色列代表團於華盛頓開啟談判會晤。"
-    },
-    {
-      "id": "4913063",
-      "time": "2026-06-02 21:11:31",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "費埃哲公司股價盤前下跌1.5%；普爾特被任命為美國國家情報局代理局長。"
-    },
-    {
-      "id": "mkt:019e8875-cb68-799a-9e69-f6871ebc9fab",
-      "time": "2026-06-02 21:11:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Vitol Energy Group’s Bahrain head said crude is trading around $90/bbl and he does not currently see clear drivers for demand destruction in crude or refined products."
-    },
-    {
-      "id": "4913062",
-      "time": "2026-06-02 21:10:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "內布拉斯加醫學中心：MV洪迪厄斯號的5名原乘客已返回各自所在州，未來21天將繼續接受漢坦病毒監測。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606023757817263",
-      "time": "2026-06-02 21:10:29",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲哈馬克：美聯儲不能只關注一項通脹指標】美聯儲的哈馬克表示，美聯儲不能只關注一項通脹指標。"
-    },
-    {
-      "id": "mkt:019e8874-fac2-7448-98be-bfd025e4014b",
-      "time": "2026-06-02 21:10:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Hammack expects a vigorous debate at the next FOMC."
-    },
-    {
-      "id": "4913061",
-      "time": "2026-06-02 21:10:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多公司巴林業務負責人湯姆·貝克：在當前油價處於90美元的水平下，他認為目前不存在會導致原油及成品油需求衝擊的誘因。"
-    },
-    {
-      "id": "4913060",
-      "time": "2026-06-02 21:10:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：預計下次聯邦公開市場委員會（FOMC）會議將展開充分討論。"
-    },
-    {
-      "id": "4913059",
-      "time": "2026-06-02 21:10:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國稀土公司將投資12億美元建設切羅基縣工廠。"
-    },
-    {
-      "id": "mkt:019e8874-cfe6-7448-98be-b555bc55d6bd",
-      "time": "2026-06-02 21:10:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Vitol’s Bahrain head says oil demand is expected to decline by about 4 mln bpd."
-    },
-    {
-      "id": "4913058",
-      "time": "2026-06-02 21:09:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國稀土公司：布萊克斯堡工廠預計2028年啟動除錯投產。"
-    },
-    {
-      "id": "4913057",
-      "time": "2026-06-02 21:09:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多能源集團巴林負責人：目前油市可能低估了一些風險。維多集團預計石油需求將下降約400萬桶/日。"
-    },
-    {
-      "id": "mkt:019e8874-466f-799a-9e69-dfa352b8eb3e",
-      "time": "2026-06-02 21:09:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Hammack said economic uncertainty is very high, leaving the policy outlook uncertain."
-    },
-    {
-      "id": "mkt:019e8874-2c5a-799a-9e69-d2940f8ae80a",
-      "time": "2026-06-02 21:09:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources: Peruvian transport operators to receive temporary fuel subsidies."
-    },
-    {
-      "id": "4913056",
-      "time": "2026-06-02 21:09:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國稀土公司選定南卡羅來納州切羅基縣建設新磁鐵及金屬加工廠，美國稀土專案預計將在南卡羅來納州創造約490個高技能就業崗位。"
-    },
-    {
-      "id": "4913055",
-      "time": "2026-06-02 21:09:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯交通運輸從業者將獲臨時燃油補貼。"
-    },
-    {
-      "id": "4913054",
-      "time": "2026-06-02 21:09:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：經濟不確定性極高，因此政策前景也不確定。"
-    },
-    {
-      "id": "mkt:019e8873-0c69-799a-9e69-cd9f4272145c",
-      "time": "2026-06-02 21:08:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC plans to expand its network verification program."
-    },
-    {
-      "id": "4913053",
-      "time": "2026-06-02 21:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特將留任聯邦住房金融局局長，同時兼任房利美與房地美董事長。"
-    },
-    {
-      "id": "mkt:019e8872-d8c8-799a-9e69-c7eb9ada164a",
-      "time": "2026-06-02 21:08:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC is expanding its Glasswing program, extending partnerships to about 150 new organizations."
-    },
-    {
-      "id": "4913052",
-      "time": "2026-06-02 21:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：擬進一步擴容網路安全核驗專案。"
-    },
-    {
-      "id": "4913051",
-      "time": "2026-06-02 21:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融僑集團擬對旗下8只債券進行重組，本金餘額超75億元】融僑集團股份有限公司將對旗下包括“HPR融僑1”、“H融僑F1”、“H0融僑F1”等8只債券進行重組，債券餘額合計75.129億元。（澎湃）"
-    },
-    {
-      "id": "4913050",
-      "time": "2026-06-02 21:07:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：計劃進一步擴容 Glasswing 專案。"
-    },
-    {
-      "id": "mkt:019e8872-5e18-799a-9e69-b8c9483fd35c",
-      "time": "2026-06-02 21:07:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Vito Energy Group's Bahrain head said the oil market may currently be underestimating certain risks."
-    },
-    {
-      "id": "4913049",
-      "time": "2026-06-02 21:07:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：同步推出 Claude 安全產品線。"
-    },
-    {
-      "id": "mkt:019e8872-52bc-799a-9e69-b0a212c2cc59",
-      "time": "2026-06-02 21:07:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump has named FHFA Director and chairman of Fannie Mae and Freddie Mac Pulte as acting Director of National Intelligence. He will retain his FHFA post and his chairmanship of Fannie Mae and Freddie Mac during the acting DNI appointment."
     }
   ]
 }
