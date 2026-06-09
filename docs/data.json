@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-10 04:11:41",
-  "count": 18714,
+  "updated": "2026-06-10 04:15:23",
+  "count": 18715,
   "items": [
+    {
+      "id": "4926674",
+      "time": "2026-06-10 04:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克資料顯示，5月下旬空頭頭寸較5月中旬增加1.5%。"
+    },
+    {
+      "id": "mkt:019eae03-f1c6-7225-91ab-2c7507258d4b",
+      "time": "2026-06-10 04:12:34",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish",
+        "XLF"
+      ],
+      "text": "CITIGROUP CFO expects Q2 investment banking revenue to increase about 15%."
+    },
     {
       "id": "mkt:019eae02-d7ee-7225-91ab-21c8a9347d47",
       "time": "2026-06-10 04:11:22",
@@ -172699,18 +172718,6 @@
         "國際"
       ],
       "text": "【在美上市的新興市場ETF再遭撤資 韓國流出最多】上週，投資者連續第二週從投資新興市場股票和債券的交易所交易基金（ETF）撤資。資料顯示，截至5月29日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流出總額為14.4億美元，前一週為流出13億美元。今年迄今，資金流入總額為413億美元。分市場看，韓國資金流出規模最大，為7.355億美元。阿根廷資金流入規模最大，為4,110萬美元。"
-    },
-    {
-      "id": "mkt:019e89f9-f661-733d-8819-956cf6f4bf3b",
-      "time": "2026-06-03 04:15:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "USAR.O",
-        "Impact bullish"
-      ],
-      "text": "【U.S. Rare Earths to invest $1.2 billion in South Carolina plant to boost output】U.S. Rare Earths (USAR.O) said on Tuesday it will invest $1.2 billion to build a magnet-manufacturing and rare-earth metals plant in Cherokee County, South Carolina to expand U.S. domestic capacity. The facility is expected to produce about 6,400 tonnes a year of NdFeB magnets and 5,000 tonnes a year of rare-earth metals and alloys, with target start-up in 2028."
     }
   ]
 }
