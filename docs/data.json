@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 02:56:21",
-  "count": 18704,
+  "updated": "2026-06-10 03:00:33",
+  "count": 18699,
   "items": [
+    {
+      "id": "4926629",
+      "time": "2026-06-10 02:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最大電網運營商PJM針對其大西洋中部及南部服務區釋出了6月11日至12日的高溫天氣預警。"
+    },
+    {
+      "id": "mkt:019eadbe-41a8-7225-91aa-712518b023bb",
+      "time": "2026-06-10 02:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PJM, the largest U.S. grid operator, issued heat alerts for its Mid-Atlantic and Southern service areas for June 11-12."
+    },
     {
       "id": "mkt:019eadba-6253-7225-91aa-68430612cdfa",
       "time": "2026-06-10 02:52:13",
@@ -172543,62 +172559,6 @@
         "其他"
       ],
       "text": "梅奧診所與微軟達成合作，共同研發前沿醫療人工智慧模型。"
-    },
-    {
-      "id": "mkt:019e89b5-439b-733d-8818-ea0c9a174b33",
-      "time": "2026-06-03 03:00:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel allocates NIS 1 bln to establish special military courts】On June 2, Israel’s government announced a NIS 1 billion (~$350m) allocation to the Defense Ministry and the Israel Defense Forces (IDF) to establish special military courts to try Palestinian militants involved in the Oct. 7, 2023 attacks."
-    },
-    {
-      "id": "4913609",
-      "time": "2026-06-03 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.40%，報25844.30點，低水194.02點。"
-    },
-    {
-      "id": "4913608",
-      "time": "2026-06-03 02:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列撥款10億新謝克爾以設立特別軍事法庭】當地時間6月2日，以色列政府宣佈，將向國防部和以色列國防軍撥款10億新謝克爾（約合3.5億美元），用於設立特別軍事法庭，審理參與2023年10月7日對以色列發動襲擊的巴勒斯坦武裝人員。以色列議會上月透過相關立法，決定設立專門軍事法庭審理涉案人員。根據政府公佈的預算安排，這筆資金將在2026年至2029年間分階段投入，用於建設軍事法庭、軍事檢察機構及相關指揮設施，並用於聘用審判所需人員、維護設施、升級計算機系統和提供廣播服務等。"
-    },
-    {
-      "id": "4913607",
-      "time": "2026-06-03 02:59:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：排除數百例誤判後，埃博拉疑似病例降至116例。"
-    },
-    {
-      "id": "4913606",
-      "time": "2026-06-03 02:59:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟IQ即日起全面上線GitHub Copilot、微軟Foundry及Copilot Studio。"
-    },
-    {
-      "id": "4913605",
-      "time": "2026-06-03 02:57:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：除非親身涉足媒體行業，否則永遠無從獲悉真相。"
-    },
-    {
-      "id": "4913604",
-      "time": "2026-06-03 02:56:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位共和黨參議員表示，特朗普政府已經放棄了其為司法系統設立的“反工具化基金”。"
     }
   ]
 }
