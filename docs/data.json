@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-09 11:42:47",
-  "count": 19189,
+  "updated": "2026-06-09 11:46:41",
+  "count": 19197,
   "items": [
+    {
+      "id": "te:economy:557482",
+      "time": "2026-06-09 11:45:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "China 10Y Yield Rebounds After Trade Data — China’s 10-year government bond yield rose toward 1.74% on Tuesday, rebounding from the previous session as investors remained cautious about the broader economic outlook despite stronger-than-expected trade data. Exports surged 19.4% year-on-year to a record USD 376.8 billion in May, supported by inventory accumulation to offset higher shipping and energy costs stemming from the Gulf conflict, and by AI-related product booms. While the conflict in the Middle East has not yet materially disrupted exports, signs of domestic economic slowdown continue to leave the country exposed to a global downturn. Imports rose 27.4% to USD 271.4 billion, beating forecasts of 25% as companies ramped up purchases of foreign chips and equipment. Consequently, China's trade surplus widened to USD 105.4 billion, its highest level since January. Meanwhile, China is due to launch a third tranche of 15 billion yuan-denominated bonds in Hong Kong on June 16."
+    },
+    {
+      "id": "4925125",
+      "time": "2026-06-09 11:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯迪克：目前公司暫無BOPP產品生產】斯迪克(300806)6月9日在互動平臺回覆稱，目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產。"
+    },
+    {
+      "id": "4925124",
+      "time": "2026-06-09 11:44:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲2%至269.92點。"
+    },
+    {
+      "id": "mkt:019eaa7b-808e-7eec-b847-eca5436086f7",
+      "time": "2026-06-09 11:44:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $91/bbl, down 1.50% on the day."
+    },
+    {
+      "id": "4925123",
+      "time": "2026-06-09 11:44:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄宣佈擊落95架無人機 摧毀烏多處軍事基礎設施】俄羅斯國防部8日釋出戰報說，俄防空兵當天在多地擊落95架烏克蘭無人機，俄軍還摧毀烏方多處軍事基礎設施。根據俄國防部透過社交媒體釋出的這份戰報，莫斯科時間8日14時至20時，俄防空兵在俄西部別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州等多地及黑海上空攔截並摧毀95架烏方固定翼無人機。俄國防部還說，俄軍摧毀了烏克蘭武裝力量使用的多處彈藥庫、燃料庫、運輸及電力設施，以及烏軍部隊和外國僱傭兵的139個臨時部署點。此外，俄南部集團軍部隊當天採取行動，佔據頓涅茨克地區一處城鎮。（新華社）"
+    },
+    {
+      "id": "4925122",
+      "time": "2026-06-09 11:44:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家銀行將公司列為高風險客戶，收緊信貸額度？電科院澄清：不存在所述情形】就“近期市場傳言多家銀行已將貴公司列為高風險客戶，紛紛收緊信貸額度，甚至要求提前償還貸款。這一傳言是否屬實？”的問題，電科院(300215)6月9日在互動平臺回覆稱，公司不存在上述情形，請提供相關質疑及不實傳言的來源，公司有權追究造謠者及散佈不實資訊者的法律責任。"
+    },
+    {
+      "id": "4925121",
+      "time": "2026-06-09 11:44:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌1.45%。"
+    },
+    {
+      "id": "4925120",
+      "time": "2026-06-09 11:44:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊據悉最早週二定價發行離岸債券，擬籌資規模升至最多45億美元。"
+    },
+    {
+      "id": "4925119",
+      "time": "2026-06-09 11:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度Paytm據悉將在人工智慧轉型過程中增加10%的員工，同時裁減部分職位。"
+    },
+    {
+      "id": "4925118",
+      "time": "2026-06-09 11:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼議員與國有銀行討論回購股票事宜。"
+    },
     {
       "id": "4925117",
       "time": "2026-06-09 11:40:23",
@@ -176990,22 +177080,6 @@
         "其他"
       ],
       "text": "【哥倫比亞普拉塞火山噴發 火山灰柱高達800米】當地時間6月1日，哥倫比亞西南部考卡省普拉塞火山發生噴發，形成約800米高的火山灰柱，火山灰已擴散至周邊地區。哥倫比亞地質局表示，目前普拉塞火山系統維持黃色預警狀態，表明火山活動有所增強，但暫無近期發生大規模噴發的跡象。普拉塞火山海拔約4750米，是哥倫比亞最活躍的火山之一，近年來活動頻繁。"
-    },
-    {
-      "id": "4911806",
-      "time": "2026-06-02 11:43:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "工信部：公開徵求《邊緣使用者平面功能（UPF）內建的防火牆功能模組技術要求》等64項通訊行業標準報批意見的公示，公示時間：2026年6月3日—2026年7月2日。"
-    },
-    {
-      "id": "mkt:019e866e-3d21-7663-9953-223b22f253f3",
-      "time": "2026-06-02 11:43:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Industry and Information Technology published for public comment 64 telecom industry standard drafts, including technical requirements for a User Plane Function (UPF)-integrated firewall module; consultation period is June 3–July 2, 2026."
     }
   ]
 }
