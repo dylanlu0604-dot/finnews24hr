@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-10 05:49:17",
-  "count": 18706,
+  "updated": "2026-06-10 05:52:59",
+  "count": 18710,
   "items": [
+    {
+      "id": "4926729",
+      "time": "2026-06-10 05:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列方面訊息：以色列並未襲擊貝魯特。"
+    },
+    {
+      "id": "mkt:019eae5e-dbdc-7ff4-a101-98ae2365fb10",
+      "time": "2026-06-10 05:51:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reported the Trump administration asked AI testing organizations to stop publishing public reports, indicating the White House is tightening controls on AI models."
+    },
+    {
+      "id": "4926728",
+      "time": "2026-06-10 05:51:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普政府官員已要求政府人工智慧測試部門停止釋出公開報告。"
+    },
+    {
+      "id": "4926727",
+      "time": "2026-06-10 05:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭邁赫拉巴德機場附近出現軍機活動。"
+    },
+    {
+      "id": "4926726",
+      "time": "2026-06-10 05:49:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社： 伊朗數小時前已發出警告，必將針對美方以阿帕奇直升機事件為藉口發起的侵略行動予以回擊。"
+    },
+    {
+      "id": "mkt:019eae5c-4c70-7ff4-a101-9750dc4ea958",
+      "time": "2026-06-10 05:49:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran vows firm response to US aggression】State media reported Iran said, as it warned hours earlier, it will respond decisively to what it called US aggression using an Apache helicopter crash as a pretext. The Iranian Labour News Agency said the Islamic Revolutionary Guard Corps (IRGC) will deliver a strong response in short order."
+    },
     {
       "id": "4926725",
       "time": "2026-06-10 05:48:30",
@@ -172647,24 +172703,6 @@
         "國際"
       ],
       "text": "【巴林鋁業將按22億美元收購法國鋁冶煉廠】巴林鋁業（Alba）宣佈已同意收購歐盟最大的鋁冶煉廠——敦刻爾克鋁業（Aluminium Dunkerque），交易估值約為22億美元。"
-    },
-    {
-      "id": "4913693",
-      "time": "2026-06-03 05:52:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【非農就業大考前夕 看空力量主導美債市場】債券交易員堅持押注收益率上升，儘管已經削減了一些最激進的倉位。週五即將公佈的美國關鍵就業資料可能會進一步強化市場對於美聯儲加息的預期。近期，美國債券市場一直由看空力量主導。油價上漲以及通脹持續高於目標水平，推動基準國債收益率大幅攀升，並促使交易員加大對最快今年加息的押注。儘管隨著美伊有望達成停戰協議，市場情緒有所改善，但交易員整體仍保持防禦姿態。美國10年期國債收益率已從兩週前接近4.69%的高點回落至4.5%以下，但仍明顯高於今年早些時候觸及的低點。美國銀行策略師在最新一期週報中寫道：“市場倉位仍然偏向做空。”他們補充稱，“即使動能不如之前明確”，但倉位應仍偏向收益率上行。"
-    },
-    {
-      "id": "mkt:019e8a51-62df-733d-881b-16f91df0b626",
-      "time": "2026-06-03 05:50:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UN General Assembly on June 2 elected Bangladesh's foreign minister Khalil Rahman as president of its 81st session. He will take office this September for a one-year term."
     }
   ]
 }
