@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-09 22:59:54",
-  "count": 18888,
+  "updated": "2026-06-09 23:03:58",
+  "count": 18880,
   "items": [
+    {
+      "id": "4926478",
+      "time": "2026-06-09 23:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta： 透過拓展 “來自其他商戶的活動” 設定，簡化平臺管控功能。"
+    },
+    {
+      "id": "4926477",
+      "time": "2026-06-09 23:02:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta：今後將利用企業已向該公司提供的資料，最佳化資訊流、人工智慧回覆及廣告等內容的個性化推送。"
+    },
+    {
+      "id": "mkt:019eace7-9d14-7dd1-a397-0a51825f4d44",
+      "time": "2026-06-09 23:01:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "By the 23:00 close China's main futures contracts were mostly lower: LPG fell about 4%, fuel oil dropped nearly 3%; low-sulfur fuel oil (LU), propylene and polypropylene declined more than 2%; PET bottle chips, styrene (EB) and ethylene glycol (EG) were down around 2%. Caustic soda rose about 1%."
+    },
+    {
+      "id": "mkt:019eace6-d64f-7dd1-a397-01c02a87a822",
+      "time": "2026-06-09 23:01:09",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Embassy in Jerusalem said the shelter-in-place order for U.S. government employees and their families has been lifted."
+    },
+    {
+      "id": "mkt:019eace6-c457-7dd1-a396-f91689c3505e",
+      "time": "2026-06-09 23:01:05",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) had 295 net aircraft orders through May after cancellations."
+    },
+    {
+      "id": "te:markets:557722",
+      "time": "2026-06-09 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.66% — Top currency gainers are Brazilian Real (0.66%), Indian Rupee (0.48%), British Pound (0.47%) and Euro (0.29%). Biggest loser is Dollar Index (-0.23%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "te:markets:557721",
+      "time": "2026-06-09 23:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 322.12 USD, the highest since May 2026. Over the past 4 weeks, Home Depot gained 3.29%, and in the last 12 months, it decreased 12.57%."
+    },
+    {
+      "id": "4926476",
+      "time": "2026-06-09 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌3.99%，燃料油連續跌2.95%，低硫燃料油連續跌2.65%，聚丙烯連續跌2.02%，苯乙烯連續跌1.77%。"
+    },
+    {
+      "id": "4926475",
+      "time": "2026-06-09 22:59:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：截至5月31日官方訂單積壓量為6,178架，截至4月30日為6,216架。截至5月，在計入取消訂單後，共獲得295架飛機訂單。5月交付60架飛機，包括51架737 MAX和6架787客機。"
+    },
+    {
+      "id": "mkt:019eace5-b1a6-7dd1-a396-f30d7ac02277",
+      "time": "2026-06-09 22:59:54",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "Boeing (BA.N) delivered 60 aircraft in May, including 51 737 MAX aircraft and six 787 jets."
+    },
+    {
+      "id": "te:economy:557720",
+      "time": "2026-06-09 22:59:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.54% on Tuesday, retreating from near three-week highs reached in the previous session. The decline was supported by lower oil prices after Israel and Iran agreed to halt attacks, while President Trump signalled that a deal with Tehran could be reached within days. Investors are also focused on Wednesday’s US CPI report for fresh clues on the inflation outlook. Recent economic indicators have continued to point to a resilient US economy and labour market, following last week's stronger-than-expected jobs report. Also, existing home sales increased more than anticipated, while the trade deficit narrowed as exports climbed to a record high. Markets continue to price an increase in borrowing costs by the Fed this year, with the probability of a rate hike as early as October currently estimated at around 51%. Meanwhile, the yield on the more policy-sensitive 2-year Treasury note fell by 2bps to 4.15%."
+    },
     {
       "id": "4926474",
       "time": "2026-06-09 22:58:45",
@@ -173954,186 +174062,6 @@
         "國際"
       ],
       "text": "巴西總統盧拉：特朗普政府曾對巴西商品加徵關稅。"
-    },
-    {
-      "id": "mkt:019e88dc-e047-7ccc-bd1f-3e6d32016103",
-      "time": "2026-06-02 23:03:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England MPC member Greene said that under the Bank of England's scenario B, larger second‑round effects from energy prices would necessitate higher interest rates."
-    },
-    {
-      "id": "mkt:019e88dc-cb03-7ccc-bd1f-37d7acac8166",
-      "time": "2026-06-02 23:03:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of England MPC member Greene said the central bank cannot rely solely on a steepening yield curve to achieve its policy objectives."
-    },
-    {
-      "id": "4913301",
-      "time": "2026-06-02 23:03:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會成員格林：若能源價格走勢與英國央行情景B一致，但第二輪效應更顯著，則需要加息。"
-    },
-    {
-      "id": "4913300",
-      "time": "2026-06-02 23:03:10",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "聯合國大會2日選舉孟加拉國外長卡利勒·拉赫曼為第81屆聯大主席。拉赫曼將於今年9月就職，任期一年。"
-    },
-    {
-      "id": "mkt:019e88db-a38e-7ccc-bd1f-2b56ba5017b3",
-      "time": "2026-06-02 23:02:29",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England monetary policy committee member Greene said UK households and firms may be more sensitive to rising inf than previously."
-    },
-    {
-      "id": "mkt:019e88db-7f06-7ccc-bd1f-210b74259857",
-      "time": "2026-06-02 23:02:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England monetary policy committee member Greene said the case for raising the Bank's key rate is strengthening."
-    },
-    {
-      "id": "4913299",
-      "time": "2026-06-02 23:02:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國貨幣政策委員會委員格林：英國家庭與企業對通脹上升的敏感度可以說高於以往時期。"
-    },
-    {
-      "id": "mkt:019e88da-d2bd-7ccc-bd1f-1af9c0c4b398",
-      "time": "2026-06-02 23:01:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lula said he learned during negotiations about a 25% tariff."
-    },
-    {
-      "id": "mkt:019e88da-b427-7ccc-bd1f-1163ed5010bd",
-      "time": "2026-06-02 23:01:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German foreign minister said he is confident Germany can strengthen the UN Security Council and the United Nations."
-    },
-    {
-      "id": "te:markets:555817",
-      "time": "2026-06-02 23:01:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Volatile as Markets Assess US-Iran Peace Prospects — Brent crude oil futures fluctuated around $95 per barrel on Tuesday after surging 4.2% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week."
-    },
-    {
-      "id": "mkt:019e88da-8020-7ccc-bd1f-09dbd3cf346e",
-      "time": "2026-06-02 23:01:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Denmark's central bank said it did not intervene in the foreign exchange market in May."
-    },
-    {
-      "id": "mkt:019e88da-63f5-7ccc-bd1f-03260bd6d375",
-      "time": "2026-06-02 23:01:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Despite doubts about the prospects of an $1.8 billion fund, President Trump will still be granted an audit exemption."
-    },
-    {
-      "id": "mkt:019e88da-5dd4-7ccc-bd1e-fa72659cda3e",
-      "time": "2026-06-02 23:01:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Vitol says Europe, US underestimating oil supply shortfall】Vitol’s Middle East senior managers said many Western governments remain insufficiently aware of tightening global oil supply after the Strait of Hormuz was blocked. Vitol board member Tom Baker said, “In Europe and the US everyone seems oblivious and are just carrying on as normal.” Crude has risen toward $100/bbl while refined products—gasoline, diesel and jet fuel—have posted larger price gains and volatility, depressing demand in many developing countries, notably parts of Asia and Africa. Vitol estimates global oil demand will decline by about 4 mln b/d. Some buyers have delayed purchases hoping the Iran-related conflict will be resolved and push prices lower."
-    },
-    {
-      "id": "4913298",
-      "time": "2026-06-02 23:01:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：即便18億美元基金存疑，特朗普仍將獲得審計豁免權。"
-    },
-    {
-      "id": "mkt:019e88d9-f8ee-7ccc-bd1e-f415d6235189",
-      "time": "2026-06-02 23:00:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of England Governor Bailey said the central bank is moving along a preset path toward an equilibrium level of reserves and that this could be achieved within one to two years."
-    },
-    {
-      "id": "4913297",
-      "time": "2026-06-02 23:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國衛生安全域性（UKHSA）：英國境內確診安第斯漢坦病毒病例的接觸者自我隔離期現已縮短至42天。"
-    },
-    {
-      "id": "te:markets:555814",
-      "time": "2026-06-02 23:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 0.60% — Top currency gainers are Brazilian Real (0.60%), Mexican Peso (0.53%), Australian Dollar (0.36%), British Pound (0.13%) and Euro (0.10%). Biggest losers are Japanese Yen (-0.13%) and Dollar Index (-0.08%)."
-    },
-    {
-      "id": "4913296",
-      "time": "2026-06-02 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】瀝青連續跌2.27%，20號膠連續漲1.66%，燃料油連續跌1.20%，液化石油氣連續跌0.94%，PVC連續跌0.93%。"
-    },
-    {
-      "id": "4913295",
-      "time": "2026-06-02 23:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我與特朗普在華盛頓的會晤很成功，這惹惱了博索納羅家族。"
     }
   ]
 }
