@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-09 22:51:45",
-  "count": 18893,
+  "updated": "2026-06-09 22:55:54",
+  "count": 18891,
   "items": [
+    {
+      "id": "mkt:019eace0-3c12-7dd1-a396-ebe865edb2b1",
+      "time": "2026-06-09 22:53:57",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Stoxx Europe 600 turned negative after earlier gains of up to 0.8%."
+    },
+    {
+      "id": "te:economy:557716",
+      "time": "2026-06-09 22:53:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kenya",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Kenya Holds Key Policy Rate for 2nd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on June 9, 2026, a second straight hold, saying policy remains appropriate to anchor inflation expectations and support exchange rate stability. Inflation rose for a third month to 6.7% in May, the highest since January 2024, driven by higher energy costs but remaining within the 5±2.5% target band. It is expected to stay within target in the near term, assuming the de-escalation of the Middle East conflict. The central bank said that support for the outlook will come from monetary policy actions, government measures such as fuel VAT cuts and subsidies, stable food prices driven by favorable weather, and exchange rate stability."
+    },
+    {
+      "id": "4926472",
+      "time": "2026-06-09 22:51:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克歐洲600指數抹去漲幅。"
+    },
     {
       "id": "4926471",
       "time": "2026-06-09 22:50:53",
@@ -174124,46 +174158,6 @@
         "國際"
       ],
       "text": "巴西總統盧拉：已經向特朗普表明，巴西與美國之間不存在貿易逆差。"
-    },
-    {
-      "id": "4913290",
-      "time": "2026-06-02 22:55:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：自上次我與特朗普會晤以來，美巴兩國貿易談判代表已舉行了三輪會談；迄今為止尚未達成任何協議。"
-    },
-    {
-      "id": "mkt:019e88d4-423b-7ccc-bd1e-dd058cff8e46",
-      "time": "2026-06-02 22:54:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said he told U.S. President Trump that U.S. Secretary of State Rubio is hostile to Latin America and does not like Brazil."
-    },
-    {
-      "id": "4913289",
-      "time": "2026-06-02 22:54:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：美國國務卿魯比奧是反拉美派，我已經告訴特朗普，魯比奧不喜歡巴西。"
-    },
-    {
-      "id": "mkt:019e88d4-0236-7ccc-bd1e-d76f7f765034",
-      "time": "2026-06-02 22:54:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norwegian finance minister says active management could pose risks to Norway's sovereign wealth fund."
-    },
-    {
-      "id": "4913288",
-      "time": "2026-06-02 22:53:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：“國防部總局局長奧列格・伊萬申科提交了一份報告。內容涉及俄羅斯導彈生產相關細節：生產設施、射程、產能規模、關鍵零部件與裝置的供應鏈路，以及協助俄羅斯規避制裁的境外個人和企業。我方正擬定反制舉措的更新方案，既由烏方自主落地，也會同盟友協同實施。持續加碼對俄施壓至關重要。”"
     }
   ]
 }
