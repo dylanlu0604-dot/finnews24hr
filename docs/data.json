@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-10 03:04:21",
-  "count": 18703,
+  "updated": "2026-06-10 03:08:13",
+  "count": 18704,
   "items": [
+    {
+      "id": "4926638",
+      "time": "2026-06-10 03:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院推進700億美元移民執法相關法案。"
+    },
+    {
+      "id": "mkt:019eadc7-7c21-7225-91aa-884f8c385620",
+      "time": "2026-06-10 03:06:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran official Rezaei says armed forces ready to respond to any aggression】On the 9th, Rezaei, spokesman for the Iranian parliament's National Security and Foreign Policy Committee, said Iran's armed forces have repaired damage, reached peak combat and defensive readiness, and are prepared to respond at the highest level to any aggression."
+    },
+    {
+      "id": "mkt:019eadc7-253a-7225-91aa-82bea50fae80",
+      "time": "2026-06-10 03:06:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister reiterates Strait of Hormuz is not international waters】Iran's foreign minister Araghchi reiterated Tehran's position that the Strait of Hormuz is not international waters but falls within the joint territorial seas of Iran and Oman. He said the strait's narrowest point is 21 nautical miles (about 39 km) and that, from a legal standpoint, Iran and Oman therefore have the right to regulate passage through the strait."
+    },
+    {
+      "id": "4926636",
+      "time": "2026-06-10 03:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta稱將利用第三方使用者資料進行個性化內容推送和AI應答，並調整使用者控制選項。"
+    },
     {
       "id": "4926635",
       "time": "2026-06-10 03:03:31",
@@ -172553,40 +172593,6 @@
         "國際"
       ],
       "text": "阿根廷外交部長：該國計劃加入跨太平洋夥伴關係協定。"
-    },
-    {
-      "id": "mkt:019e89bc-2cdb-733d-8819-030f89246514",
-      "time": "2026-06-03 03:07:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "NVIDIA (NVDA.O) will partner with Microsoft (MSFT.O) to develop a unified technology stack for agentic AI."
-    },
-    {
-      "id": "mkt:019e89b9-9827-733d-8818-fee7d7b0b34c",
-      "time": "2026-06-03 03:05:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNBC said Israeli Prime Minister Netanyahu will be interviewed by a CNBC reporter at 10:00 a.m. ET on June 3 (22:00 Beijing time)."
-    },
-    {
-      "id": "4913612",
-      "time": "2026-06-03 03:04:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達攜手微軟合作搭建自主智慧體 AI 一體化技術棧。"
     }
   ]
 }
