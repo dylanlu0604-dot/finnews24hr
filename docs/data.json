@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-09 16:45:41",
-  "count": 19115,
+  "updated": "2026-06-09 16:49:39",
+  "count": 19107,
   "items": [
+    {
+      "id": "te:markets:557617",
+      "time": "2026-06-09 16:48:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Tries to Recover — The DAX 40 attempted a cautious recovery on Tuesday, trading around 24,700, supported by strength in AI-related stocks and some easing in Middle East tensions. Markets were encouraged by Israel and Iran agreeing to halt strikes against each other following demands from US President Trump, who indicated that diplomatic talks with Iran were moving forward. However, the situation remains fragile. At the same time, caution prevailed ahead of the ECB's policy decision on Thursday, with the central bank expected to lift interest rates by 25 bps. Symrise led gains among stocks, up 4.1%, after JPMorgan reaffirmed its Buy rating and kept its €100 price target unchanged. Infineon Technologies also advanced firmly, up 3.3%. Other top performers included Deutsche Bank, Commerzbank and Continental."
+    },
+    {
+      "id": "4925668",
+      "time": "2026-06-09 16:48:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "朱雀二號改進型遙六運載火箭發射成功。（央視新聞）"
+    },
+    {
+      "id": "4925667",
+      "time": "2026-06-09 16:47:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新天綠能：5月發電量增9.97%，輸氣量降28.36%】新天綠能公告，2026年5月發電量139.45萬兆瓦時，同比增加9.97%；截至5月31日累計722.09萬兆瓦時，同比下降0.95%。其中5月輸/售氣量2.2億立方米，同比下降28.36%，售氣量2.1億立方米，同比下降25.74%；累計輸/售氣量20.01億立方米，同比下降20.04%。"
+    },
+    {
+      "id": "mkt:019eab90-ab2f-7cc2-9c83-79f438c0bd51",
+      "time": "2026-06-09 16:47:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan"
+      ],
+      "text": "【Meituan launches AI browser Tabbit 1.0】Meituan's GN06 team launched Tabbit 1.0, an AI-native browser embedding multiple leading LLMs that can automatically execute complex cross-software and cross-web tasks. Company cites HR example — one prompt to go from resume screening to PowerPoint generation. Standard edition is free; desktop builds released for Windows and macOS and mobile testing is underway."
+    },
+    {
+      "id": "4925666",
+      "time": "2026-06-09 16:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金風科技在南美風電裝機突破3GW】近日，由金風科技與ENGIE Chile共建的智利Chequenes風電場完成第15颱風機吊裝。金風科技在南美洲的累計裝機量，正式突破3GW。"
+    },
+    {
+      "id": "4925665",
+      "time": "2026-06-09 16:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀋陽低空科技公司成立，註冊資本1億】天眼查App顯示，6月5日，瀋陽低空科技有限公司成立，法定代表人為蔣喆，註冊資本1億人民幣，經營範圍包括通用航空服務、飛行訓練、民用航空器駕駛員培訓等，由航天時代低空科技有限公司、瀋陽低空經濟產業發展有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019eab90-2d16-7cc2-9c83-7756ae1a8122",
+      "time": "2026-06-09 16:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysis: Even 95% US‑Iran agreement may be insufficient; remaining 5% often hardest to resolve】Iran’s nuclear program remains the central friction in US‑Iran talks. Tehran is believed to hold about 440 kg of uranium enriched to 60% — well above civilian needs (3–5%) — and enrichment from 60% to weapons‑grade 90% would take markedly less time. Western governments say Iran is positioning for weapons capability despite Iranian civilian claims. Naysan Rafati, senior Iran analyst at the International Crisis Group, says negotiations typically make progress on some items while stalling on others; being 95% agreed can be misleading because the final 5% is usually the most difficult. He identifies core disputes over the substance and sequencing of commitments — Tehran prefers to defer details to later rounds while Washington wants clarity up front — with talks covering uranium inventories, the future scope of Iran’s nuclear activities, and additional emerging issues."
+    },
+    {
+      "id": "mkt:019eab8f-f672-7cc2-9c83-6995cbb23642",
+      "time": "2026-06-09 16:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FA ticket allocation revoked for 2026 U.S.-Canada-Mexico World Cup】With the 2026 U.S.-Canada-Mexico World Cup imminent, the Iran Football Federation said its ticket allocation has been revoked, leaving many fans with planned travel unable to attend Iran's matches."
+    },
+    {
+      "id": "4925663",
+      "time": "2026-06-09 16:46:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石化機械：公司氫能產業尚處於發展期，還未形成規模效益】石化機械6月9日在互動平臺表示，公司氫能產業尚處於發展期，還未形成規模效益。公司氫氣壓縮機和加氫站成套裝備在中石化市場已獲得多項訂單，制氫裝備處於快速發展階段，正積極搶佔市場。"
+    },
+    {
+      "id": "4925662",
+      "time": "2026-06-09 16:46:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗足協世界盃配額門票被收回】2026年美加墨世界盃開賽在即，但據伊朗足協今天（6月9日）表示，本屆世界盃比賽伊朗足協的門票配額被取消，這導致許多已經制定好旅行計劃的伊朗球迷無法前往現場觀看主隊的比賽。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:019eab8e-df0d-7cc2-9c83-672305367321",
+      "time": "2026-06-09 16:45:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanon's National News Agency quoted civil defense as saying three people were wounded, including two civil defense personnel, in an Israeli strike on the southern town of Sharqiya."
+    },
+    {
+      "id": "mkt:019eab8e-cc0a-7cc2-9c83-598a05913c7e",
+      "time": "2026-06-09 16:45:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Industry: Given current circulating inventories and capacity, egg prices likely to remain elevated short term】Xinfadi data show loose-egg average price at 6.1 yuan/jin on June 7, more than 50% above levels two months earlier and roughly 70% higher YoY (about 3.5 yuan/jin same day last year). A fresh-food platform said the price surge reflects falling laying-hen inventories and insufficient new supply; market circulating stocks are low and were tightened further by the May Day holiday. Given current circulating inventory and production-capacity conditions, the platform said the high-price regime is unlikely to reverse in the near term. Since Q2, farmers’ restocking intentions have risen and overall production capacity is expected to increase by Q4."
+    },
     {
       "id": "4925661",
       "time": "2026-06-09 16:45:11",
@@ -25,6 +133,16 @@
         "其他"
       ],
       "text": "【業內人士：結合當前流通庫存與產能現狀 短期內蛋價高位格局難以逆轉】新發地的資料顯示，6月7日散雞蛋均價6.1元/斤，較兩個月前漲幅超過五成。去年同期市場均價約3.5元/斤，同比漲超七成。一家生鮮平臺的負責人表示，本輪雞蛋漲價的原因首先是蛋雞存欄下降，新增供給不足。其次是市場庫存較低，疊加‘五一’節日影響，市場的流通庫存處於低位。結合當前流通庫存與產能現狀，短期內蛋價高位格局難以逆轉。不過自今年二季度起，養殖戶補欄意願持續提升，預計四季度市場整體產能將有所增加。 (第一財經)"
+    },
+    {
+      "id": "4925658",
+      "time": "2026-06-09 16:44:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市收盤大漲8% 晶片股反彈引領大盤走高】憶體晶片製造商的股票引領韓國股市反彈，顯示投資人尚未完全放棄AI熱潮。韓國Kospi指數收盤勁揚8.2%，該指數先前連跌三天、從紀錄高點下跌15%。三星電子大漲9%，SK海力士更是狂漲16%。此次反彈表明，在AI交易因過熱和利率上升的擔憂而失去動能後，逢低買盤正在重新湧入。此前，AI驅動的強勁上漲行情一度推動Kospi指數今年迄今上漲超過100%，但週一迅速重挫，並觸發熔斷機制，導致交易短暫暫停。首爾的Billionfold Asset Management執行長An Hyungjin表示，三星和SK海力士身處全球最受關注的行業，它們的估值仍然極具吸引力。這一點沒有改變。許多人都在等待股價回檔時買進。"
     },
     {
       "id": "4925657",
@@ -175963,195 +176081,6 @@
         "Greater China"
       ],
       "text": "【China achieves mass production of wet-process T1000 small-tow carbon fiber】Sinopec Shanghai Petrochemical and the Shanghai Research Institute of Petrochemical have overcome key technical hurdles and achieved commercial-scale production of wet-process T1000-grade high-performance carbon fiber. Each tow comprises 12,000 filaments; individual filament diameter is about one-tenth that of a human hair, and a single tow can reportedly pull a roughly 10-ton medium truck."
-    },
-    {
-      "id": "4912380",
-      "time": "2026-06-02 16:49:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司銷售與交易執行副總裁：即使霍爾木茲海峽全面重開，恢復價值鏈的所有環節仍需6到12個月。"
-    },
-    {
-      "id": "4912379",
-      "time": "2026-06-02 16:49:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晶澳科技：智算缺電與綠電難消納兩大困局可以互為解法】在今年SNEC展會期間，晶澳智慧能源事業部總裁施俊表示，全球算力規模年複合增速超40%，但能源約束已成為首要瓶頸。他認為，智算缺電與綠電難消納，兩大困局可以互為解法。"
-    },
-    {
-      "id": "4912378",
-      "time": "2026-06-02 16:49:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國銀河：AI交易或將擴充套件至軟體股】中國銀河國際分析師Billy Toh在一份報告中表示，目前的AI交易可能很快會擴充套件到軟體股。Toh表示，半導體、科技、能源和工業板塊已從正在進行的AI計算和資料中心建設中受益，而晶片股處於這一趨勢的中心。Toh稱，AI交易仍然是全球市場中最強大的力量，並補充說，投資者正在尋找能夠將AI的應用轉化為實際收入、生產力提升和自動化資料平臺的公司。Toh補充道，注意力正從硬體建設轉向AI貨幣化，這使得雲平臺、AI智慧體和網路安全對於下一階段的AI投資變得更加重要。"
-    },
-    {
-      "id": "mkt:019e8785-8e95-7449-8978-ae87b61661af",
-      "time": "2026-06-02 16:48:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ADNOC EVP for sales and trading said even if the Strait of Hormuz fully reopens, it will take 6-12 months to restore all segments of the oil value chain."
-    },
-    {
-      "id": "4912377",
-      "time": "2026-06-02 16:48:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉誠國際：董事長兼任總經理 中證鵬元維持評級】嘉誠國際公告稱，因個人原因，黃平辭去公司董事、董事會提名委員會委員、總經理職務，不再擔任公司任何職務。經董事會稽核，聘任黃豔婷為公司董事長兼任總經理。黃豔婷系公司實際控制人之一。中證鵬元決定維持公司主體信用等級為AA - ，“嘉誠轉債”信用等級為AA - ，評級展望為穩定，有效期至“嘉誠轉債”存續期。中證鵬元將密切關注相關情況。"
-    },
-    {
-      "id": "mkt:019e8785-4b71-7449-8978-a315a7792ea1",
-      "time": "2026-06-02 16:48:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【11th China-UK Strategic Dialogue held in Beijing】June 2, 2026 — China’s foreign minister Wang Yi met UK foreign secretary Cooper in Beijing for the 11th China‑UK Strategic Dialogue. Wang reiterated China will pursue high-quality development and high-level opening, saying China’s post‑reform record shows openness drives progress. He framed the 15th Five‑Year Plan outline as both China’s development roadmap and a world-facing opportunity list aligned with the UK’s modern industrial strategy, signaling scope for bilateral economic cooperation. China asked the UK to provide Chinese firms a fair, non‑discriminatory business environment and to reasonably define security boundaries to support deeper ties. The two exchanged views on Iran and Ukraine."
-    },
-    {
-      "id": "4912376",
-      "time": "2026-06-02 16:48:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：美國總統關於阻止內塔尼亞胡對貝魯特發動大規模襲擊的宣告，更表明華盛頓在管理猶太復國主義政權侵略行為中的直接作用，而不是尋求和平的跡象。"
-    },
-    {
-      "id": "4912375",
-      "time": "2026-06-02 16:48:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：安全理事會必須超越表達關切和一般性呼籲，採取針對猶太復國主義政權的懲罰性和約束性決定。國際法不是透過低成本和無效的譴責來維護的。"
-    },
-    {
-      "id": "4912374",
-      "time": "2026-06-02 16:48:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員表示，地區危機是猶太復國主義政權罪行和豁免的結果。"
-    },
-    {
-      "id": "4912373",
-      "time": "2026-06-02 16:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內蒙古二連浩特鐵路口岸中歐班列通行量突破2000列】)6月2日，一列滿載55個集裝箱貨物的中歐班列，經內蒙古自治區二連浩特鐵路口岸出境，開往波蘭馬拉舍維奇，這是今年以來經二連浩特鐵路口岸通行的第2000列中歐班列。今年截至6月1日，二連浩特鐵路口岸中歐班列累計運送貨物19.37萬標箱、182.66萬噸，同比分別增長10.94%、27.46%。(中新網)"
-    },
-    {
-      "id": "4912372",
-      "time": "2026-06-02 16:47:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【第十一次中英戰略對話在北京舉行】2026年6月2日，中共中央政治局委員、外交部長王毅在北京同英國外交大臣庫珀舉行第十一次中英戰略對話。\n\n王毅表示，今年初，斯塔默首相成功訪華，兩國領導人就中英發展長期穩定的全面戰略伙伴關係達成重要共識。這一新定位反映了兩國關係的歷史邏輯，符合各自發展的現實需要，也構畫了長久可期的共贏願景。當前，雙方各領域交往合作全面恢復，逐步進入正軌，值得倍加珍惜。我們要進一步溝通對錶，落實好兩國領導人重要共識，錨定長期穩定的中英全面戰略伙伴關係這一定位，加強高層交往，推動形成更多務實可見的成果，為促進世界和平穩定、繁榮發展作出中英兩國的貢獻，為這個動盪不安的世界注入更多確定性。\n\n王毅表示，中國改革開放40多年曆史證明，開放帶來進步，封閉只會倒退。中方堅持高質量發展，堅持高水平開放。“十五五”規劃綱要既是中國自身的發展規劃，也是面向世界的機遇清單，與英國的現代產業戰略高度契合，雙方可以抓住機遇，雙向奔赴，相互成就。希望英方為中資企業提供公平、公正、非歧視的營商環境，合理界定安全邊界，為兩國發展關係、深化合作營造良好氛圍。\n\n王毅強調，當前國際形勢變亂交織，叢林法則沉渣泛起，國際社會正經歷冷戰結束以來最深刻的動盪變革。中英作為聯合國安理會常任理事國，對這個世界的未來負有重要責任。我們應該帶頭走正道、秉公道，維護二戰勝利成果，恪守聯合國憲章，堅持真正的多邊主義，共同推動構建更加公正合理的全球治理體系。\n\n王毅還深入闡釋了中方在臺灣、香港等問題上的立場。（外交部）"
-    },
-    {
-      "id": "4912371",
-      "time": "2026-06-02 16:47:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【水井坊：聘任幹曉峰為總經理並提名其為董事候選人】水井坊公告稱，公司十一屆董事會2026年第二次臨時會議於6月1日召開，審議透過多項決議。自6月1日起聘任幹曉峰為公司總經理，周志銘不再代行總經理職責；提名幹曉峰為十一屆董事會董事候選人，該議案尚需提交股東會審議；決定將法定代表人由周志銘變更為幹曉峰，並辦理工商變更登記手續。幹曉峰有豐富啤酒及白酒行業任職經歷，截至公告日未持有公司股份。"
-    },
-    {
-      "id": "4912370",
-      "time": "2026-06-02 16:47:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海能：下屬子公司完成收購大連投資100%股權協議簽署】中遠海能公告稱，2026年4月27日，公司召開董事會會議，同意下屬全資子公司大連海能以非公開協議方式收購中遠海運持有的大連投資100%股權。6月2日，大連海能與中遠海運已完成簽署大連投資股權收購協議。本次交易尚需提交公司股東會審議。"
-    },
-    {
-      "id": "mkt:019e8783-f478-7449-8978-9b929e289163",
-      "time": "2026-06-02 16:47:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell 2.00% intraday to $90.31/bbl."
-    },
-    {
-      "id": "mkt:019e8783-f1c9-711c-8a4f-abe075432c79",
-      "time": "2026-06-02 16:47:07",
-      "tags": [
-        "MKT News",
-        "PM.O",
-        "Impact bearish"
-      ],
-      "text": "Philip Morris shares fell 1.4% in pre-market trading after the company cut its full-year profit guidance."
-    },
-    {
-      "id": "4912369",
-      "time": "2026-06-02 16:46:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報93.03美元/桶。"
-    },
-    {
-      "id": "4912368",
-      "time": "2026-06-02 16:46:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報90.30美元/桶。"
-    },
-    {
-      "id": "4912367",
-      "time": "2026-06-02 16:46:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伯納姆表示如果接替斯塔默成為英國首相 他不會提前舉行大選】有望出任英國首相的安迪·伯納姆表示，如果他今年夏天接替基爾·斯塔默，不會提前舉行大選。伯納姆的發言人週二表示，如果伯納姆入主唐寧街，他不會提前舉行大選。此前《太陽報》週日報道稱，這位大曼徹斯特市長正在考慮提前舉行大選，這加劇了英國媒體的猜測。執政的工黨內部普遍預期，如果伯納姆在6月18日英格蘭西北部一個空缺的下議院席位特別選舉中獲勝，他將對斯塔默發起領導權挑戰。如果成功，他可能會在9月工黨年度大會召開前成為首相。"
-    },
-    {
-      "id": "4912366",
-      "time": "2026-06-02 16:46:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海能：投資64.45億元建造4艘LNG船舶】中遠海能公告稱，2026年6月2日，間接全資子公司遠海公司與江南造船簽訂4艘17.5萬立方米LNG船舶的建造合同，投資總額64.45億元。本次交易已獲公司董事會透過，無需提交股東會審議，不構成關聯交易或重大資產重組。4艘船預計2029 - 2030年交付，交付後將租給承租方，租期7年，租金約54億元。"
-    },
-    {
-      "id": "mkt:019e8783-857c-7449-8978-89decaea2d26",
-      "time": "2026-06-02 16:46:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【UBS: Foreign buying of China assets only beginning; Hong Kong’s market advantages rising】Fang Dongming, UBS head of China for Global Financial Markets, said global investors’ reallocation into Chinese assets is only beginning and could surpass the relative high of 2021 and continue to rise. He flagged Hong Kong’s strategic role: since 2026 mainland high-quality issuers have been actively doing secondary listings in Hong Kong, with some moving from valuation discounts to premiums. Southbound Stock Connect has seen sustained strong net inflows as connect mechanisms deepen, reinforcing Hong Kong’s broader and deeper capital-market advantages as an international financial centre."
-    },
-    {
-      "id": "4912365",
-      "time": "2026-06-02 16:45:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委西姆庫斯：消費者對短期價格的預期與2022年類似。"
     }
   ]
 }
