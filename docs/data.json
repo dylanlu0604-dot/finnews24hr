@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-10 03:31:10",
-  "count": 18710,
+  "updated": "2026-06-10 03:34:55",
+  "count": 18708,
   "items": [
+    {
+      "id": "4926653",
+      "time": "2026-06-10 03:31:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大森沃斯能源（Cenovus）執行長表示，在當前監管框架下，阿爾伯塔省擬議的通往西海岸的輸油管道無法透過私營部門獲得融資。"
+    },
     {
       "id": "mkt:019eaddd-a235-7225-91aa-b9f74d5bd8d1",
       "time": "2026-06-10 03:30:43",
@@ -172618,35 +172626,6 @@
         "其他"
       ],
       "text": "CLIFFWATER 私募信貸基金收到 17% 的贖回請求。"
-    },
-    {
-      "id": "4913622",
-      "time": "2026-06-03 03:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta 撤回員工追蹤工具部分功能。"
-    },
-    {
-      "id": "mkt:019e89d2-a7e2-733d-8819-41e3844cbd5d",
-      "time": "2026-06-03 03:32:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "text": "【U.S. sanctions Iranian cryptocurrency exchanges and associated individuals】On June 2, the U.S. Treasury’s Office of Foreign Assets Control updated its Specially Designated Nationals and Blocked Persons list, adding several Iranian cryptocurrency trading platforms and related individuals."
-    },
-    {
-      "id": "4913621",
-      "time": "2026-06-03 03:31:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國製裁伊朗加密貨幣交易平臺及相關人員】當地時間6月2日，美國財政部海外資產控制辦公室宣佈更新特別指定國民和被封鎖人員名單，將多家伊朗加密貨幣交易平臺及相關個人列入制裁名單。（央視新聞）"
     }
   ]
 }
