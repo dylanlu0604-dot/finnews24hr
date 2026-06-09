@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-10 03:19:40",
-  "count": 18704,
+  "updated": "2026-06-10 03:23:31",
+  "count": 18703,
   "items": [
+    {
+      "id": "4926646",
+      "time": "2026-06-10 03:22:09",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示，西方核電行業發展放緩，俄羅斯則加快相關建設步伐。"
+    },
+    {
+      "id": "4926645",
+      "time": "2026-06-10 03:21:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數9日下跌】美元指數9日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.13%，在匯市尾市收於99.909。截至紐約匯市尾市，1歐元兌換1.1550美元，高於前一交易日的1.1528美元；1英鎊兌換1.3388美元，高於前一交易日的1.3339美元。1美元兌換160.36日元，高於前一交易日的160.26日元；1美元兌換0.7979瑞士法郎，與前一交易日持平；1美元兌換1.3952加元，低於前一交易日的1.3956加元；1美元兌換9.4603瑞典克朗，高於前一交易日的9.4401瑞典克朗。"
+    },
+    {
+      "id": "4926644",
+      "time": "2026-06-10 03:19:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普：美國可能會出資幫助伊朗重建基礎設施】美國廣播公司新聞援引對美國總統的採訪報道稱，特朗普表示，如果美國摧毀伊朗的基礎設施，美國可能會出資幫助其重建。“總得有人去修建所有這些基礎設施，新建橋樑、新建各類設施、新建發電廠，”特朗普說，“這需要一萬億美元，可能更多。你們明白，這就是我們可能會參與重建的原因，對吧，幫助他們重建。”當被問及這是否會是針對伊朗的馬歇爾計劃時，特朗普回應“是的”，並補充道：“但我們會拿走他們一半的石油。”"
+    },
     {
       "id": "4926643",
       "time": "2026-06-10 03:18:01",
@@ -172560,38 +172586,6 @@
         "焦點"
       ],
       "text": "比特幣跌破67000美元，日內跌6.22%。"
-    },
-    {
-      "id": "4913618",
-      "time": "2026-06-03 03:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列空襲黎巴嫩南部納巴泰省多個城鎮。"
-    },
-    {
-      "id": "mkt:019e89c7-9ed7-733d-8819-3f73d19662d4",
-      "time": "2026-06-03 03:20:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Goldman Sachs CEO Solomon: greed outweighs fear in markets】Goldman Sachs CEO Solomon said equity gains are driven by profit-seeking that outweighs concerns about economic volatility and inflation. He said greed currently far exceeds fear and liquidity is ample. Solomon added that inflationary pressures are real and, if they exceed expectations, he expects the Fed would respond with rate hikes."
-    },
-    {
-      "id": "mkt:019e89c7-963b-733d-8819-34e2814f9fd9",
-      "time": "2026-06-03 03:20:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio says at least five more countries are willing to accept a certain number of Afghan refugees."
-    },
-    {
-      "id": "4913617",
-      "time": "2026-06-03 03:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：另有至少五個國家願意接收一定數量的阿富汗難民。"
     }
   ]
 }
