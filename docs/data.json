@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-10 04:07:57",
-  "count": 18710,
+  "updated": "2026-06-10 04:11:41",
+  "count": 18714,
   "items": [
+    {
+      "id": "mkt:019eae02-d7ee-7225-91ab-21c8a9347d47",
+      "time": "2026-06-10 04:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nasdaq data show short positions rose 1.5% in late May versus mid-May."
+    },
+    {
+      "id": "mkt:019eae02-8afa-7225-91ab-198f9887c655",
+      "time": "2026-06-10 04:11:02",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish"
+      ],
+      "text": "Citigroup CFO expects second-quarter trading revenue to grow in the high single digits to low double digits."
+    },
+    {
+      "id": "4926673",
+      "time": "2026-06-10 04:10:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團首席財務官預計，第二季度投行業收入將實現百分之十幾的增長。"
+    },
+    {
+      "id": "mkt:019eae00-a542-7225-91ab-10916abd483e",
+      "time": "2026-06-10 04:08:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed to release annual bank stress test results on June 25】The Federal Reserve said it will release annual bank stress test results on June 25 at 04:00 Beijing time. Thirty-two large banks were tested. Scenarios include a severe global recession with intensified stress in commercial and residential real estate and corporate debt markets. The results will not change large banks' capital requirements. The Fed in February said it will maintain current stress-test capital buffer requirements through 2027, after which new requirements may be calculated using loss-estimation models that incorporate public feedback."
+    },
+    {
+      "id": "mkt:019eae00-9cd5-7225-91ab-0c1df81f07a1",
+      "time": "2026-06-10 04:08:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Citigroup CFO says US economy and consumers have shown resilience."
+    },
     {
       "id": "4926672",
       "time": "2026-06-10 04:06:28",
@@ -172660,18 +172711,6 @@
         "Impact bullish"
       ],
       "text": "【U.S. Rare Earths to invest $1.2 billion in South Carolina plant to boost output】U.S. Rare Earths (USAR.O) said on Tuesday it will invest $1.2 billion to build a magnet-manufacturing and rare-earth metals plant in Cherokee County, South Carolina to expand U.S. domestic capacity. The facility is expected to produce about 6,400 tonnes a year of NdFeB magnets and 5,000 tonnes a year of rare-earth metals and alloys, with target start-up in 2028."
-    },
-    {
-      "id": "te:markets:555848",
-      "time": "2026-06-03 04:10:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Palo Alto Networks earnings above expectations at 0.85 USD — Palo Alto Networks (PANW) released earnings per share at 0.85 USD, compared to market expectations of 0.8 USD."
     }
   ]
 }
