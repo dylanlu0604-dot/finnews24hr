@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-09 15:11:11",
-  "count": 19118,
+  "updated": "2026-06-09 15:15:12",
+  "count": 19111,
   "items": [
+    {
+      "id": "te:markets:557557",
+      "time": "2026-06-09 15:13:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Finds Support After Surprise BI Rate Hike — The rupiah firmed to around IDR 18,100 per U.S. dollar on Tuesday afternoon, rebounding after an intraday low of 18,234. The recovery came after Bank Indonesia unexpectedly raised its key interest rates in an off-schedule meeting today, aiming to support the currency amid global market volatility linked to tensions in the Middle East and to keep inflation within its target range. The central bank lifted its benchmark rate by 25bp to 5.5%, following a 50bp lift at its regular policy meeting in May. Officials signaled that stabilising the rupiah was a key objective, as the currency remains among Asia’s worst performers this year. The currency had been pressured by heavy selling in Indonesian assets, eroding investor confidence amid domestic policy concerns and persistent external risks. Sentiment also improved as the dollar index eased from a nine-week high after Iran and Israel agreed to halt attacks, tempering geopolitical tensions and boosting risk appetite across global markets."
+    },
+    {
+      "id": "mkt:019eab3a-b0a8-7005-988b-e8b5d2075f74",
+      "time": "2026-06-09 15:13:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Yue Mon: Hong Kong Q1 GDP +5.9% YoY, inflows signal investor confidence】Hong Kong Monetary Authority chief Yue Mon said Q1 GDP rose 5.9% YoY, the fastest quarterly pace in nearly five years. He attributed growth to exports, consumption and investment, with exports especially strong: about 70% of export categories are AI and high-end electronics, and sustained global tech demand should continue to support trade and related industries. Domestic demand is recovering—housing has rebounded roughly 10% from the trough, boosting consumption via a wealth effect—and corporate investment is gradually returning, with overall investment now positive. Yue said the trend of global investors diversifying away from single-market risk should continue, and Hong Kong’s institutional, geographic and market advantages will keep attracting capital inflows."
+    },
+    {
+      "id": "4925421",
+      "time": "2026-06-09 15:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【賽微微電收盤價創歷史新高】6月9日，賽微微電(688325)收盤上漲6.72%，最新收盤價報150.79元/股，創歷史新高（前復權）。"
+    },
+    {
+      "id": "4925420",
+      "time": "2026-06-09 15:12:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "4925419",
+      "time": "2026-06-09 15:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【餘偉文：香港經濟增速創新高，資金流入印證投資者信心】面對21世紀經濟報道記者提出的“香港一季度經濟復甦是否具有可持續性”這一問題。餘偉文坦言，香港今年一季度GDP同比增長5.9%，創下近五年季度增速新高，經濟復甦的內在動力十分紮實。他分析，本輪高增長由出口、消費、投資三大引擎共同拉動。出口端表現尤為突出，香港出口中約七成品類為AI及高階電子產品，當前全球科技產品需求旺盛，這一增長趨勢具備延續性，將持續為香港貿易、相關產業帶來支撐。內需市場同步回暖，樓市自谷底反彈約10%，財富效應進一步啟用居民消費意願；企業投資熱情也逐步回升，整體投資資料實現正向增長，經濟內生活力持續釋放。餘偉文表示，全球投資者規避單一市場風險、推進資產多元化的趨勢不會逆轉，香港作為佈局中國市場的核心樞紐，兼具制度、區位、市場三重優勢，未來仍將持續吸引全球資金流入。（21財經）"
+    },
     {
       "id": "4925418",
       "time": "2026-06-09 15:10:11",
@@ -176221,110 +176271,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Higher on Tuesday — European stocks traded higher on Tuesday, with both the STOXX 50 and STOXX 600 gaining 0.6% after starting June with losses in the previous session. Investors took advantage of the recent pullback while assessing the sustainability of the global technology and AI-driven market rally. Market participants also remained focused on developments in the Middle East, where negotiations continue to fluctuate and the Strait of Hormuz remains largely closed. Meanwhile, attention is turning to the Eurozone’s preliminary inflation data, with headline inflation expected to rise to 3.2% and core inflation projected to accelerate to 2.4%."
-    },
-    {
-      "id": "4912135",
-      "time": "2026-06-02 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4912134",
-      "time": "2026-06-02 15:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普被曝擬放棄“反武器化”基金計劃】據新華社，知情人士透露，在遭國會兩黨議員質疑並面臨司法挑戰後，美國總統特朗普計劃放棄一項總額約18億美元的“反武器化”基金計劃。該基金原計劃用於補償前總統拜登時期美國政府被“武器化”的“受害者”。美國阿克西奧斯新聞網站6月1日報道，兩名美國高階政府官員說，這項基金“目前已被擱置”。（新華社）"
-    },
-    {
-      "id": "4912133",
-      "time": "2026-06-02 15:14:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "受騰訊香港股價飆升提振，PROSUS股價上漲11%。"
-    },
-    {
-      "id": "mkt:019e872e-918c-7555-bd36-ee20512f09f9",
-      "time": "2026-06-02 15:13:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOT governor expects exports to grow 12-13% this year."
-    },
-    {
-      "id": "4912132",
-      "time": "2026-06-02 15:13:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "英飛凌、矽晶圓廠Siltronic、Suss Microtec、Elmos、PVA Tepla的股價漲幅在2.5%至5.3%之間。"
-    },
-    {
-      "id": "4912131",
-      "time": "2026-06-02 15:13:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【香港航商總會趙式慶：攜手內地港航業促綠色轉型】“香港是內地對接國際港航市場的重要橋樑，兩地天然優勢互補、合作空間廣闊。”香港航商總會主席趙式慶近日在浙江寧波受訪時表示，將充分發揮香港“超級聯絡人”優勢，打通國際規則、資本技術與內地產業場景之間的連線通道，將綠色願景轉化為可落地的合作方案。在趙式慶看來，全球港航業正邁入綠色轉型與能源變革的關鍵時期。香港具備成熟完善的高階航運服務生態圈，而內地港口擁有優越的硬體配套、龐大的貿易體量與貨主資源，雙方在航運金融、法律仲裁和綠色智慧港口等領域合作前景廣闊。“歐洲率先落地海事脫碳政策體系，但存在綠色資源供給不足、成本高企的短板；中國擁有全球領先的清潔燃料規模化生產能力，兩地深度聯動，可構建穩定的全球綠色航運供應鏈。”趙式慶說。(中新網)"
-    },
-    {
-      "id": "4912130",
-      "time": "2026-06-02 15:13:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4540美元/盎司，日內漲1.24%。"
-    },
-    {
-      "id": "mkt:019e872d-7527-7555-bd36-e5013e9b16a1",
-      "time": "2026-06-02 15:12:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【U.S. reportedly weighing expanded nuclear deployments in Europe】The FT on June 2, citing three people, reported the U.S. is discussing whether to deploy nuclear weapons to additional NATO European members. The U.S. already maintains nuclear-capable aircraft in six European countries — Belgium, Germany, Italy, the Netherlands, Turkey and the UK — and U.S. officials have signaled openness to deployments beyond those six. Any expansion would involve allowing more countries to host U.S. dual-capable aircraft (DCA) capable of nuclear delivery, though officials say expanding nuclear-hosting arrangements is not urgent. Poland and some Baltic states have expressed interest; discussions are taking place through NATO channels. The Pentagon and NATO did not respond to requests for comment."
-    },
-    {
-      "id": "4912129",
-      "time": "2026-06-02 15:12:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場監管總局、工業和資訊化部、民政部關於印發《保健食品護老提升專項行動工作方案》的通知。"
-    },
-    {
-      "id": "mkt:019e872c-b5b5-7555-bd36-da3bfbb09536",
-      "time": "2026-06-02 15:11:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's State Administration for Market Regulation, Ministry of Industry and Information Technology and Ministry of Civil Affairs issued a notice releasing the Special Action Plan to strengthen protection of elderly consumers in the health-food sector."
-    },
-    {
-      "id": "mkt:019e872c-87af-7555-bd36-d60ca78b92d1",
-      "time": "2026-06-02 15:11:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT governor says exports will see solid growth."
-    },
-    {
-      "id": "4912128",
-      "time": "2026-06-02 15:11:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4570美元/盎司，日內漲1.42%。"
     }
   ]
 }
