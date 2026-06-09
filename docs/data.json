@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-10 01:31:32",
-  "count": 18779,
+  "updated": "2026-06-10 01:35:26",
+  "count": 18771,
   "items": [
+    {
+      "id": "4926604",
+      "time": "2026-06-10 01:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（6月9日），韓元兌美元最終跌0.26%，報1530.87韓元，全天衝高回落、北京時間14:00曾重新整理日高至1509.58韓元。"
+    },
     {
       "id": "4926603",
       "time": "2026-06-10 01:27:16",
@@ -173215,85 +173223,6 @@
         "公司"
       ],
       "text": "百勝餐飲集團宣佈營運長兼人力與文化事務總監特雷西·斯金斯卸任退休。"
-    },
-    {
-      "id": "4913537",
-      "time": "2026-06-03 01:35:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，將共同坐下來總結經驗教訓，探討如何做好準備。"
-    },
-    {
-      "id": "mkt:019e8966-a642-7779-8aac-770dd57f2905",
-      "time": "2026-06-03 01:34:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA Director General Grossi said a series of activities will be carried out to complete the repair work."
-    },
-    {
-      "id": "4913536",
-      "time": "2026-06-03 01:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，將開展多項工作以完成修復工作。"
-    },
-    {
-      "id": "4913535",
-      "time": "2026-06-03 01:33:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，這（巴拉卡核電站遇襲）意味著幕後肇事者完全清楚自己的所作所為。"
-    },
-    {
-      "id": "mkt:019e8966-2465-7779-8aac-6aea69ae59df",
-      "time": "2026-06-03 01:33:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "IAEA Director General Grossi said UAE authorities responded swiftly to an attack on the Barakah nuclear power plant and shut one reactor after offsite power was lost."
-    },
-    {
-      "id": "4913534",
-      "time": "2026-06-03 01:33:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西表示，阿聯酋對巴拉卡核電站遇襲事件反應極為迅速，因外部供電中斷已關閉一座反應堆。"
-    },
-    {
-      "id": "mkt:019e8965-8b06-7779-8aac-626490364758",
-      "time": "2026-06-03 01:33:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA Director General GROSSI said an agreement to resolve Iran’s nuclear issue would be impossible without very strict verification and monitoring of the pact’s terms."
-    },
-    {
-      "id": "4913533",
-      "time": "2026-06-03 01:32:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲：我們相信國務院會就埃博拉病毒設施問題與肯亞達成解決方案。"
-    },
-    {
-      "id": "mkt:019e8964-a830-7779-8aac-5da984b1b0fc",
-      "time": "2026-06-03 01:32:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) disclosed that portable Project Solara devices will include medical patient registration and check-in functionality."
     }
   ]
 }
