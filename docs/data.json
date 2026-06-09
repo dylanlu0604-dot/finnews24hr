@@ -1,7 +1,156 @@
 {
-  "updated": "2026-06-10 00:14:40",
-  "count": 18817,
+  "updated": "2026-06-10 00:18:34",
+  "count": 18820,
   "items": [
+    {
+      "id": "mkt:019ead2d-2893-7cc9-8dc0-030fe07d9a90",
+      "time": "2026-06-10 00:17:48",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) shares fell as much as 5%."
+    },
+    {
+      "id": "4926551",
+      "time": "2026-06-10 00:17:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署：經合組織原油庫存預計將跌至 2003 年以來最低水平。"
+    },
+    {
+      "id": "mkt:019ead2c-ed1c-7cc9-8dbf-fb5459f020aa",
+      "time": "2026-06-10 00:17:37",
+      "tags": [
+        "MKT News",
+        "MS.N",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY (MS.N) CEO Ted Pick said core investment-banking activity is very active."
+    },
+    {
+      "id": "mkt:019ead2c-6281-7cc9-8dbf-f35b10b22a16",
+      "time": "2026-06-10 00:16:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA expects some Middle East oil production outages to persist through end-2027, extending beyond the forecast horizon of its Short-Term Energy Outlook."
+    },
+    {
+      "id": "4926550",
+      "time": "2026-06-10 00:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局確定阿爾忒彌斯三號地月軌道任務乘組，成員包括三名美國宇航員和一名義大利宇航員。"
+    },
+    {
+      "id": "te:markets:557752",
+      "time": "2026-06-10 00:16:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Corning Stock Price Hits 5-week Low — Corning shares decreased to 169.11 USD, the lowest since May 2026. Over the past 4 weeks, Corning lost 18.41%, and in the last 12 months, it increased 234.34%."
+    },
+    {
+      "id": "4926549",
+      "time": "2026-06-10 00:16:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署：受霍爾木茲海峽運輸受阻影響，中東產油國 5 月原油日產量較戰前水平削減超 1100 萬桶。"
+    },
+    {
+      "id": "te:markets:557750",
+      "time": "2026-06-10 00:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes in the Red — The DAX 40 reversed course to close about 0.7% lower at 24,418 on Tuesday, the lowest since May 19, amid renewed weakness in the tech sector and geopolitical uncertainties. Concerns about the valuation levels of US tech giants resurfaced amid growing nervousness ahead of SpaceX’s IPO on Friday. Regarding Middle East developments, Israel and Iran agreed to halt strikes following an appeal by US President Trump, who said a deal with Tehran was close to being finalized. Also, US Energy Secretary Chris Wright said that shipping traffic through the Strait of Hormuz is increasing ‘very meaningfully.’” The tech sector was the hardest hit, with Infineon Technologies and SAP down 3.4% and 2.2%, respectively. Siemens Energy also saw pressure, dropping nearly 6%."
+    },
+    {
+      "id": "mkt:019ead2a-95e6-7cc9-8dbf-ed78eb0ad9cb",
+      "time": "2026-06-10 00:15:04",
+      "tags": [
+        "MKT News",
+        "MS.N",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley (MS.N) CEO Ted Pick said sponsor activity that had been quiet has become active again."
+    },
+    {
+      "id": "4926548",
+      "time": "2026-06-10 00:14:57",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利CEO：核心投行業務活躍度顯著提升 。"
+    },
+    {
+      "id": "mkt:019ead2a-305b-7cc9-8dbf-e5ec1de88287",
+      "time": "2026-06-10 00:14:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,260/oz, down 1.62% on the day."
+    },
+    {
+      "id": "4926547",
+      "time": "2026-06-10 00:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，部分中東地區石油產量的中斷情況，將持續至其 2027 年底版短期能源展望預測區間之後。"
+    },
+    {
+      "id": "4926546",
+      "time": "2026-06-10 00:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4260美元/盎司，日內跌1.61%。"
+    },
+    {
+      "id": "4926545",
+      "time": "2026-06-10 00:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利財長：我們將調整公共財政發展方向，將持續把智利總債務佔國內生產總值比重控制在 45% 以內， 工作重心為充實財政儲備， 將著力提升管理效率。"
+    },
+    {
+      "id": "te:markets:557749",
+      "time": "2026-06-10 00:14:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Inches Up on Easing Middle East Tensions — The CAC 40 edged up to close at 8,203 on Tuesday on fragile hopes of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, easing concerns about inflation and higher interest rates. However, the situation remained fragile, with the Strait of Hormuz effectively closed and Israel continuing strikes in Lebanon. In Europe, attention also turned to the ECB’s policy meeting on Thursday. While a quarter-point rate cut is expected, markets are focused on signals regarding the policy outlook as elevated energy prices continue to pose inflation risks. Luxury stocks rose, with LVMH rising 2%, L'Oréal adding 1.6%, and Hermès gaining 1.3%, while AXA added 1.2%. In contrast, TotalEnergies fell 1.1% as oil prices fell. STMicroelectronics shed 5.8%, tracking weakness in tech shares as investors took profits following recent rallies."
+    },
     {
       "id": "mkt:019ead29-3911-7cc9-8dbf-df48a4bf59ed",
       "time": "2026-06-10 00:13:40",
@@ -173495,114 +173644,6 @@
         "MKT News"
       ],
       "text": "【Netanyahu: will never allow Iran to threaten Israel's existence】On June 2, Israeli Prime Minister Netanyahu said at the handover ceremony for the new head of Mossad that Israel will continue its long-standing policy of never allowing Iran to obtain nuclear weapons or to threaten Israel’s existence."
-    },
-    {
-      "id": "mkt:019e8921-32c1-7aae-b7d9-1c6bbfbde677",
-      "time": "2026-06-03 00:18:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude rose above $95/bbl, up 0.59% on the day."
-    },
-    {
-      "id": "mkt:019e8921-08dc-7aae-b7d9-15849712c874",
-      "time": "2026-06-03 00:18:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Brazil's development minister said recommendations from the U.S. Trade Representative would affect about 21% of Brazil's exports to the U.S."
-    },
-    {
-      "id": "4913442",
-      "time": "2026-06-03 00:18:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報93.08美元/桶。"
-    },
-    {
-      "id": "mkt:019e8920-b502-7aae-b7d9-0acdf72f3ee9",
-      "time": "2026-06-03 00:18:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazilian government: following a consensus reached between President Lula and US President Trump on May 7, the two countries are negotiating tariffs."
-    },
-    {
-      "id": "4913441",
-      "time": "2026-06-03 00:17:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們在中東地區的部分盟友配合度很高，阿聯酋便是其中之一。"
-    },
-    {
-      "id": "mkt:019e8920-26cc-7aae-b7d9-015307136fb6",
-      "time": "2026-06-03 00:17:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil government says it reserves the right to take measures against unfair trade practices under the \"Reciprocity Law\"."
-    },
-    {
-      "id": "mkt:019e891f-f8aa-7ff0-aaae-0617b1ad8183",
-      "time": "2026-06-03 00:17:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say SpaceX is targeting a $1.75 trillion valuation in a US IPO, including an overallotment option."
-    },
-    {
-      "id": "mkt:019e891f-5d4c-7ff0-aaad-fd7e714dc687",
-      "time": "2026-06-03 00:16:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Sources said SpaceX plans to raise at least $75 billion through an IPO of newly issued shares."
-    },
-    {
-      "id": "4913440",
-      "time": "2026-06-03 00:15:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西發展部長羅莎：美國貿易代表辦公室的這一建議將影響巴西對美出口總額的約21%。"
-    },
-    {
-      "id": "4913439",
-      "time": "2026-06-03 00:15:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：SpaceX赴美IPO目標估值1.75萬億美元，含綠鞋超額配售選擇權。\n綠鞋超額配售選擇權（Green Shoe Option），即IPO承銷配套期權條款，發行人授權承銷商在上市後，若股價大漲，可超額增發最高原定發行規模15%的新股，用來平抑二級市場短期爆炒、穩定新股價格。"
-    },
-    {
-      "id": "4913438",
-      "time": "2026-06-03 00:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府：根據盧拉總統與特朗普總統5月7日達成的共識，兩國正就關稅問題展開談判。"
-    },
-    {
-      "id": "4913437",
-      "time": "2026-06-03 00:14:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將希捷科技的目標股價從每股740.00美元上調至1150.00美元，維持希捷科技買入評級。"
     }
   ]
 }
