@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-10 02:41:08",
-  "count": 18706,
+  "updated": "2026-06-10 02:45:02",
+  "count": 18711,
   "items": [
+    {
+      "id": "4926627",
+      "time": "2026-06-10 02:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在奈及利亞打死約200名“伊斯蘭國”關聯武裝人員】當地時間6月9日， 美軍非洲司令部表示，自在奈及利亞開展行動以來，美尼聯合行動已打死約200名與極端組織“伊斯蘭國”有關聯的武裝人員。美軍非洲司令部公共事務主管表示，雙方聯合行動還拆除了武裝人員設立的檢查站，並摧毀了多個後勤補給樞紐。（央視新聞）"
+    },
+    {
+      "id": "4926626",
+      "time": "2026-06-10 02:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美公佈“阿耳忒彌斯3號”任務宇航員名單】美國航空航天局9日公佈執行“阿耳忒彌斯3號”任務的4名宇航員名單，包括3名美國宇航員和1名義大利宇航員。“阿耳忒彌斯3號”任務計劃於2027年實施，將在近地軌道開展飛船與商業載人登月系統的交會對接等關鍵技術驗證，為計劃於2028年執行的“阿耳忒彌斯4號”載人登月任務做準備。（新華社）"
+    },
+    {
+      "id": "mkt:019eadb2-003c-7225-91aa-53abd3d2775c",
+      "time": "2026-06-10 02:43:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House advances $70 billion immigration-enforcement funding bill."
+    },
+    {
+      "id": "mkt:019eadb1-ff11-7225-91aa-4edc8b4ea623",
+      "time": "2026-06-10 02:43:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "GOOGL.O",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "【Google guarantees $35 billion financing for Anthropic data center chip deal】Google has agreed to guarantee lease payments supporting Anthropic’s rental of high‑performance compute chips across five US data centers, enabling about $35 billion of financing. Broadcom helped finalize the financing using its industry clout and high credit rating and will design the chips; Google will develop and supply TPU chips, giving it greater hardware sales exposure to Anthropic. Apollo Global Management and Blackstone provided financing for the deal."
+    },
+    {
+      "id": "4926625",
+      "time": "2026-06-10 02:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院推進一項 700 億美元移民執法撥款法案。"
+    },
+    {
+      "id": "mkt:019eadb0-5294-7225-91aa-46965cba7870",
+      "time": "2026-06-10 02:41:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Over 160 tankers stranded in Persian Gulf; IMO warns against risky Hormuz transits】Lloyd’s List reported on May 9 that more than 160 mainstream oil tankers have been stranded in Persian Gulf waters since the regional conflict began in late February, some for over 100 days. IMO Secretary-General Domingues warned on May 9 that vessels should not attempt passages through the Strait of Hormuz without credible security assurances and that the region remains highly volatile, saying safe navigation cannot be guaranteed. He urged masters and shipowners to carry out full risk assessments under international safety and security management frameworks and said commercial or operational factors must not justify exposing crews to high risk; protecting seafarer lives must be the priority."
+    },
     {
       "id": "4926624",
       "time": "2026-06-10 02:38:24",
@@ -172608,14 +172665,6 @@
         "MSFT.O"
       ],
       "text": "【Microsoft unveils upgraded quantum chip, targets commercial quantum computer by 2029】Microsoft (MSFT.O) unveiled the Majorana 2 quantum chip at Build 2026, saying it now targets a commercially practical quantum computer by 2029. Majorana 2 has 12 qubits, up from 8 in the prior model, and Microsoft says qubit coherence exceeds 20 seconds versus under 12 milliseconds previously. The device uses lead-based superconducting connectors instead of aluminium. Microsoft says it has halved its timetable and set 2029 as the current target."
-    },
-    {
-      "id": "4913597",
-      "time": "2026-06-03 02:43:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我國外交政策的核心須始終立足美國國家利益。"
     }
   ]
 }
