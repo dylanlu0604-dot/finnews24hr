@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-09 19:21:08",
-  "count": 19068,
+  "updated": "2026-06-09 19:25:09",
+  "count": 19058,
   "items": [
+    {
+      "id": "mkt:019eac20-4e6a-7ffd-b5f4-b36475157145",
+      "time": "2026-06-09 19:24:14",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Airbus CEO says some supply-chain issues are still being addressed."
+    },
+    {
+      "id": "4926102",
+      "time": "2026-06-09 19:24:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：供應鏈仍有若干問題有待我們解決。"
+    },
+    {
+      "id": "mkt:019eac20-1c5e-7ffd-b5f4-aa151da155b6",
+      "time": "2026-06-09 19:24:05",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Airbus CEO said the company faces record challenges in H2."
+    },
+    {
+      "id": "mkt:019eac20-0fe0-7ffd-b5f4-a4ac6fd49816",
+      "time": "2026-06-09 19:24:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong to start two-month public consultation on five-year plan from June 15, Chief Executive John Lee says】Chief Executive John Lee said the Hong Kong government will launch a two-month public consultation on a Hong Kong five-year plan beginning June 15 and will publish the consultation document that day. Lee said the plan will uphold One Country, Two Systems, enforce patriots governing Hong Kong, and pursue the twin goals of developing the economy and improving livelihoods. Key strategic directions include a people-centred approach, better integration of a proactive government with efficient markets, and strengthened governance effectiveness. He described the plan as forward-looking, strategic and actionable, and said annual policy addresses will be more closely aligned with the five-year plan."
+    },
+    {
+      "id": "4926101",
+      "time": "2026-06-09 19:23:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聞泰：已實現MOSFET、邏輯IC等產品中國區供應鏈閉環】6月9日，*ST聞泰高管在2025年度暨2026年第一季度業績說明會上表示，2026年第一季度，部分原歸屬海外地區的客戶主動調整合作模式，直接與境內經營主體簽訂採購合同並完成結算，相關收入統一納入中國區核算。目前，公司已實現MOSFET、邏輯IC等產品的中國區供應鏈閉環，並全面推進電晶體產品向12英寸工藝平臺升級，部分產品已經實現小批次量產，產能供應將在2026年下半年逐步釋放，供應鏈成本也將得到最佳化。"
+    },
+    {
+      "id": "mkt:019eac1f-a27f-7ffd-b5f4-9e88a8b4ff4d",
+      "time": "2026-06-09 19:23:34",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus CEO says supply-chain conditions have now markedly improved."
+    },
+    {
+      "id": "4926100",
+      "time": "2026-06-09 19:23:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Wolfspeed推出低導通電阻碳化矽MOSFET】Wolfspeed公司6月9日宣佈推出第五代（Gen 5）碳化矽（SiC）MOSFET技術。據該公司介紹，與目前市售的競品1200-V解決方案相對比，其最高可降低27%的比導通電阻RSP，顯著改善了系統級導通損耗。目前，QEM50120-025D10和QEM50075-025D10的樣品透過Wolfspeed的直接銷售代表向特定客戶提供。隨著市場需求和客戶要求最終確定，預計從2026年至2027年初將陸續推出更多750V至1200V的新產品。"
+    },
+    {
+      "id": "4926099",
+      "time": "2026-06-09 19:23:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "最新訊息顯示，日本央行6月會議將迎來去年12月以來首次加息，政策利率有望自1995年以來首次回到1%。"
+    },
+    {
+      "id": "4926098",
+      "time": "2026-06-09 19:22:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌：明確了推進天然氣利用的戰略路徑。"
+    },
+    {
+      "id": "4926097",
+      "time": "2026-06-09 19:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：我們下半年將面臨交付量創紀錄的考驗。"
+    },
+    {
+      "id": "4926095",
+      "time": "2026-06-09 19:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "AIX-AYFIE簽署擴大協議，將人工智慧嵌入客戶的工作流程和專案中。"
+    },
     {
       "id": "4926094",
       "time": "2026-06-09 19:18:43",
@@ -175614,185 +175709,6 @@
         "國際"
       ],
       "text": "據報道，特朗普總統在一次激烈通話中猛烈抨擊以色列總理內塔尼亞胡，指責他升級黎巴嫩衝突並危及美伊談判。據訊息人士透露，特朗普警告稱，對貝魯特的打擊將進一步孤立以色列，並敦促內塔尼亞胡退讓。以色列隨後表示，不會實施原計劃對貝魯特的襲擊。"
-    },
-    {
-      "id": "4912839",
-      "time": "2026-06-02 19:25:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國人民銀行召開2026年組織人事部門負責人會議】中國人民銀行5月29日召開2026年組織人事部門負責人會議。會議強調，今年是“十五五”開局之年，中國人民銀行各級組織人事部門和組工幹部要以高度的政治責任感，嚴謹務實的工作作風推進各項工作任務。要紮實組織開展樹立和踐行正確政績觀學習教育，在深化學習、真查問題、務實整改、學用結合上下功夫。統籌謀劃領導班子和幹部隊伍建設，常態化開展幹部隊伍情況分析，運用科學的考察方法發現識別幹部，提升選人用人專業化能力。加強交流鍛鍊，健全乾部常態化交流機制。加強對關鍵崗位、重點領域、薄弱環節的監督，深化選人用人專項檢查，提高幹部管理監督的穿透力和有效性。注意處理好統一領導與分級負責、組織需要與個人訴求、從嚴管理與關心關愛的關係，做好黨委的參謀助手。持續加強自身幹部隊伍建設，做求真務實的表率、作風建設的表率、遵守紀律的表率。"
-    },
-    {
-      "id": "4912838",
-      "time": "2026-06-02 19:24:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中拓光盈海外礦服首單落地墨西哥】近日，中拓光盈首批百噸級混動礦山寬體卡車專案順利落地墨西哥。"
-    },
-    {
-      "id": "mkt:019e8813-d08e-7448-98bc-55dfdc6a12e5",
-      "time": "2026-06-02 19:24:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Swiss National Bank Chairman Schlegel said the bank has raised its readiness to intervene to address appreciation and potential overvaluation pressure stemming from escalation in the Middle East."
-    },
-    {
-      "id": "4912837",
-      "time": "2026-06-02 19:24:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬邦醫藥與康維訊生物達成戰略合作】近日，安徽萬邦醫藥科技股份有限公司（簡稱 “萬邦醫藥”）與蘇州康維訊生物科技有限公司（簡稱 “康維訊生物”）正式達成深度戰略合作，雙方將依託各自核心優勢，實現臨床前、臨床生物分析與全流程臨床研究服務的深度融合，全方位賦能創新藥、改良型新藥及仿製藥高效研發。"
-    },
-    {
-      "id": "mkt:019e8813-860f-7448-98bc-4b7a08f31bce",
-      "time": "2026-06-02 19:23:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Cargo vessel struck by missiles near Umm Qasr, Iraq】Mediterranean Shipping Co (MSC) said on June 2 that the Panama‑flagged cargo vessel MSC SARISKA was struck by two missiles near southern Iraq’s Umm Qasr port on June 1."
-    },
-    {
-      "id": "4912836",
-      "time": "2026-06-02 19:23:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "瑞士國家銀行董事長表示：受中東局勢升級影響，瑞郎面臨估值過高壓力，央行已提升干預準備以應對該問題。"
-    },
-    {
-      "id": "4912835",
-      "time": "2026-06-02 19:23:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指ETF國泰(513100)將於2026年6月3日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:019e8813-15b3-7448-98bc-404e06339420",
-      "time": "2026-06-02 19:23:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss National Bank Chairman Schlegel said the Swiss franc's real overvaluation is markedly lower than its nominal overvaluation."
-    },
-    {
-      "id": "mkt:019e8812-fbc1-7448-98bc-3873182d4f62",
-      "time": "2026-06-02 19:23:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss National Bank chairman Schlegel said the bank has not set an exchange-rate target for the franc."
-    },
-    {
-      "id": "4912834",
-      "time": "2026-06-02 19:23:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士國家銀行董事長：瑞郎實際高估幅度明顯低於名義高估幅度。"
-    },
-    {
-      "id": "4912833",
-      "time": "2026-06-02 19:23:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一艘貨輪在伊拉克南部港口附近被導彈擊中】當地時間6月2日，地中海航運公司（MSC）稱，懸掛巴拿馬國旗的“MSC SARISKA”號貨輪1日在伊拉克南部烏姆蓋斯爾港附近遭兩枚導彈擊中。（央視新聞）"
-    },
-    {
-      "id": "4912832",
-      "time": "2026-06-02 19:23:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "施萊格爾：瑞士央行未設定瑞郎匯率目標。"
-    },
-    {
-      "id": "4912831",
-      "time": "2026-06-02 19:22:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟或凍結俄羅斯石油價格上限】多家西方媒體披露，歐盟考慮凍結針對俄羅斯石油的限價機制，把價格維持在當下水平，而非按照市場行情調整價格上限，以阻止俄羅斯繼續獲得國際原油價格飆升的“紅利”。美國《政治報》2日以知情外交官為訊息源報道，歐盟不大可能徹底“封殺”俄羅斯石油，但可能在限價方面“動腦筋”。（新華社）"
-    },
-    {
-      "id": "4912830",
-      "time": "2026-06-02 19:22:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【移為通訊：持股5%以上股東及高管擬減持不超2.11%股份】移為通訊公告稱，持股9.3362%的股東精速國際、持股6.5378%的股東信威顧問及高階管理人員彭嵬，計劃自2026年6月25日至9月24日，以集中競價或大宗交易方式減持公司股份，擬減持數量分別不超過4,622,365股（佔總股本1%）、4,622,365股（佔總股本1%）、528,452股（佔總股本0.1143%）。減持原因為股東資金需求，本次減持不會導致公司控制權變更。"
-    },
-    {
-      "id": "4912829",
-      "time": "2026-06-02 19:22:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電信：子公司擬3億元參與設立15億元量子產業基金】中國電信公告稱，控股子公司國盾量子擬與關聯方中電信量子企業管理、電信投資及其他各方共同出資15億元設立“中電信量子產業創業投資基金”。國盾量子以貨幣方式出資3億元，出資比例20%。管理公司為基金管理人，中電信量子企業管理為執行事務合夥人。本次投資無需提交董事會或股東會審議，但擬設立基金尚需備案、登記，存在不確定性，且投資有無法實現預期收益等風險。"
-    },
-    {
-      "id": "4912828",
-      "time": "2026-06-02 19:22:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【春秋電子：股價異常波動 提示炒作及下跌風險】春秋電子公告稱，公司股票於2026年5月29日、6月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，6月2日再次漲停。經自查，公司生產經營正常，無應披露未披露重大資訊。針對市場傳聞，公司表示不生產AIPC終端等產品，無規模化機器人業務，已完成Asetek公司收購，其資料中心液冷業務重啟存在不確定性。公司提醒投資者，股價短期波動大，存在炒作及下跌風險，應理性投資。"
-    },
-    {
-      "id": "4912827",
-      "time": "2026-06-02 19:21:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列N12 電視臺：特朗普並未發表內塔尼亞胡所忌憚的入獄相關言論。"
-    },
-    {
-      "id": "mkt:019e8811-6888-7448-98bc-3110318091be",
-      "time": "2026-06-02 19:21:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Uganda's Ministry of Health confirmed six new Ebola cases."
-    },
-    {
-      "id": "4912826",
-      "time": "2026-06-02 19:21:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列N12 電視臺：特朗普表示維護以色列現有的國際地位並非易事。"
-    },
-    {
-      "id": "4912825",
-      "time": "2026-06-02 19:21:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列 N12 電視臺：特朗普稱以色列當前的國際處境滋生敵意。"
-    },
-    {
-      "id": "4912824",
-      "time": "2026-06-02 19:21:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "烏干達衛生部：確診六例新增埃博拉病例。"
     }
   ]
 }
