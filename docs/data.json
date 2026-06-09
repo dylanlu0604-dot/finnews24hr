@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-10 05:52:59",
-  "count": 18710,
+  "updated": "2026-06-10 05:56:52",
+  "count": 18712,
   "items": [
+    {
+      "id": "4926731",
+      "time": "2026-06-10 05:56:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本與英國擬就海上風電合作達成協議。"
+    },
+    {
+      "id": "mkt:019eae62-9e9a-7ff4-a101-aae8c910966f",
+      "time": "2026-06-10 05:55:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON: U.S. Secretary of Defense Pete Hegseth will visit the U.S. naval base at Guantanamo Bay, Cuba on Wednesday to meet troops stationed there."
+    },
+    {
+      "id": "mkt:019eae61-1c74-7ff4-a101-a722a87156e8",
+      "time": "2026-06-10 05:54:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US officials told Axios the US military struck several Iranian air-defence and radar systems near the Strait of Hormuz."
+    },
+    {
+      "id": "4926730",
+      "time": "2026-06-10 05:53:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：此次針對伊朗的空襲目標包括防空設施與雷達站。"
+    },
     {
       "id": "4926729",
       "time": "2026-06-10 05:52:01",
@@ -172685,24 +172722,6 @@
         "公司"
       ],
       "text": "市場訊息：OpenAI執行長奧特曼週三將與白宮高階官員會面。"
-    },
-    {
-      "id": "4913695",
-      "time": "2026-06-03 05:56:42",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通：特斯拉銷售勢頭正在加速】摩根大通分析師Rajat Gupta援引與特斯拉投資者關係代表的會面表示，步入5月份特斯拉銷售勢頭加速。摩根大通表示，燃油價格上漲、對自動駕駛產品的需求日益增長，以及傳統汽車製造商逐步收窄電動汽車佈局導致競爭減少，都提振了需求。Gupta寫道，管理層強調Cybercab的產量仍在逐步提升，並指出特斯拉第二季財報預計將更清晰地反映出這款無人駕駛計程車的生產和驗證情況。此外Optimus機器人業務“仍處於早期階段”。"
-    },
-    {
-      "id": "4913694",
-      "time": "2026-06-03 05:55:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴林鋁業將按22億美元收購法國鋁冶煉廠】巴林鋁業（Alba）宣佈已同意收購歐盟最大的鋁冶煉廠——敦刻爾克鋁業（Aluminium Dunkerque），交易估值約為22億美元。"
     }
   ]
 }
