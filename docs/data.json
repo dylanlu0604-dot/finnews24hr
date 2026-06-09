@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-09 22:31:25",
-  "count": 18920,
+  "updated": "2026-06-09 22:35:41",
+  "count": 18914,
   "items": [
+    {
+      "id": "4926445",
+      "time": "2026-06-09 22:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：霍爾木茲海峽和波斯灣的石油出口將會上升。"
+    },
+    {
+      "id": "mkt:019eaccd-b5b9-7dd1-a396-b64922c1096c",
+      "time": "2026-06-09 22:33:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【U.S. existing-home sales rise to highest level this year, beat expectations】U.S. existing-home sales rose 3.2% MoM in May to a seasonally adjusted annual rate of 4.17 mln units, the highest pace this year, the National Association of Realtors said."
+    },
+    {
+      "id": "mkt:019eaccd-6286-7dd1-a396-aa93abd1c607",
+      "time": "2026-06-09 22:33:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil exports from the Strait of Hormuz and the Persian Gulf will increase."
+    },
+    {
+      "id": "4926444",
+      "time": "2026-06-09 22:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料中心開發商Crusoe暫停位於美國懷俄明州（Wyoming）的AI專案。"
+    },
+    {
+      "id": "te:markets:557713",
+      "time": "2026-06-09 22:32:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures at Over 1-Week Low — Sugar futures in the US eased to just below 14.1 US cents, the lowest since late May, partly influenced by falling oil prices and the ongoing weakness in the Brazilian real. The strong performance of the 2026/27 sugarcane harvest is also putting pressure on prices, due to increased supply and growing inventories. The Brazilian Sugarcane and Bioenergy Industry Association (UNICA) reported that sugar production in Brazil's Center-South region reached 2.475 million tons in April of the 2026/27 crop year, a volume 55.3% higher than that recorded in the same period of the previous cycle. Strength in Thailand’s sugar exports, the world’s second-largest, also reinforced the perception of a comfortable supply.. However, concerns persisted about the impact of the El Niño weather phenomenon on the upcoming global sugarcane harvest, particularly in Brazil, India and Thailand."
+    },
+    {
+      "id": "4926443",
+      "time": "2026-06-09 22:30:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報66.75美元/盎司。"
+    },
     {
       "id": "4926442",
       "time": "2026-06-09 22:30:32",
@@ -174293,115 +174356,6 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said the U.S. will rejoin Gavi (Global Alliance for Vaccines and Immunization)."
-    },
-    {
-      "id": "4913260",
-      "time": "2026-06-02 22:35:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧表示，美國將重新參與全球疫苗聯盟的相關工作。"
-    },
-    {
-      "id": "4913259",
-      "time": "2026-06-02 22:35:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊黎南部多地致10死131傷】黎巴嫩衛生部2日表示，以色列1日對黎南部多地發動襲擊，造成至少10人死亡、131人受傷。（新華社）"
-    },
-    {
-      "id": "4913258",
-      "time": "2026-06-02 22:34:54",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金飾大降價了】近期，國際金價持續震盪回落，1日盤中失守每盎司4500美元整數關口。金價從年初的歷史高位明顯回撤，國內黃金飾品價格也隨之下調。記者今天走訪北京的黃金賣場看到，目前北京市場主流品牌足金飾品零售價，普遍落在每克1340元至1370元區間，對比年初市場零售高點的每克1600元至1700元，單克價格下調超過300元，降幅約兩成。金價回落，帶動了剛性消費需求釋放，很多消費者帶著明確需求進店。投資類黃金市場觀望情緒更濃，更多消費者選擇逐步進場、按需入手。針對本輪金價回落，業內專家分析，核心原因是地緣政治衝突邊際緩和、美聯儲推遲降息預期升溫、美債收益率走高以及美元走強，短期金價確實存在一定調整壓力，但大跌空間有限。（央視財經）"
-    },
-    {
-      "id": "mkt:019e88c2-41a7-7aa9-a70f-804008440976",
-      "time": "2026-06-02 22:34:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's finance minister said U.S. public support for NATO remains strong."
-    },
-    {
-      "id": "4913257",
-      "time": "2026-06-02 22:34:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加拿大正式尋求續簽美墨加協定並減免相關行業關稅。"
-    },
-    {
-      "id": "mkt:019e88c1-c2b0-7aa9-a70f-78b2cac0cb94",
-      "time": "2026-06-02 22:34:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "【Masayoshi Son Reclaims Asia's Richest】Forbes real-time list shows SoftBank founder and CEO Masayoshi Son's net worth rose to US$100.7bn on June 2, surpassing Mukesh Ambani and Gautam Adani. SoftBank shares rallied as much as 14.71% yesterday, lifting market value to ¥48.0 trillion (about US$306bn) and briefly overtaking Toyota’s roughly ¥46.0 trillion, ending Toyota’s more-than-20-year run as Japan’s largest listed company by market cap. At today’s Tokyo close SoftBank market cap was ¥49.3 trillion versus Toyota ¥44.92 trillion."
-    },
-    {
-      "id": "4913256",
-      "time": "2026-06-02 22:34:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社2日報道，根據伊朗已故最高領袖阿里·哈梅內伊生前遺願及其親屬建議，其遺體將安葬在馬什哈德的伊瑪目禮薩聖陵。（新華社）"
-    },
-    {
-      "id": "4913255",
-      "time": "2026-06-02 22:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天源迪科：公司沒有參與穩定幣和跨境支付業務】天源迪科(300047)6月2日在業績說明會上表示，公司沒有參與穩定幣和跨境支付業務。"
-    },
-    {
-      "id": "mkt:019e88c0-d93e-7aa9-a70f-73f634c2b0d5",
-      "time": "2026-06-02 22:33:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "Tianyuan Dike said at a June 2 earnings briefing that it is not involved in stablecoin or cross-border payments businesses."
-    },
-    {
-      "id": "4913254",
-      "time": "2026-06-02 22:32:45",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：本輪能源衝擊規模遠不及2022年。"
-    },
-    {
-      "id": "mkt:019e88c0-29a7-7aa9-a70f-6e984733804d",
-      "time": "2026-06-02 22:32:35",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Bank of England Governor Bailey said the current energy shock is far less severe than in 2022."
-    },
-    {
-      "id": "4913253",
-      "time": "2026-06-02 22:32:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據外媒報道，美國國務卿魯比奧2日說：“我們正在與伊朗談判。”（新華社）"
     }
   ]
 }
