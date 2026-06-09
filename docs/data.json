@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-10 00:30:40",
-  "count": 18818,
+  "updated": "2026-06-10 00:34:43",
+  "count": 18816,
   "items": [
+    {
+      "id": "4926569",
+      "time": "2026-06-10 00:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥基建夥伴房地產投資信託基金（Fibra E）釋出宣告，其後續證券發行募資 43 億比索。"
+    },
+    {
+      "id": "4926568",
+      "time": "2026-06-10 00:31:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "星巴克CEO：公司海外門店數量有望實現翻倍。"
+    },
+    {
+      "id": "mkt:019ead39-d8e6-7cc9-8dc0-342f7addf5f2",
+      "time": "2026-06-10 00:31:49",
+      "tags": [
+        "MKT News",
+        "MS.N"
+      ],
+      "text": "Morgan Stanley (MS.N) CEO Ted Pick said the firm will closely monitor M&A activity in the industry."
+    },
+    {
+      "id": "mkt:019ead39-1690-7992-a4a6-c63497137f9e",
+      "time": "2026-06-10 00:31:00",
+      "tags": [
+        "MKT News",
+        "MS.N"
+      ],
+      "text": "MORGAN STANLEY (MS.N) CEO Ted Pick said banking-sector M&A is challenging and the firm wants to ensure it makes the right decisions."
+    },
     {
       "id": "4926567",
       "time": "2026-06-10 00:30:08",
@@ -173590,56 +173624,6 @@
         "焦點"
       ],
       "text": "布倫特原油突破96美元/桶，日內漲1.10%。"
-    },
-    {
-      "id": "4913463",
-      "time": "2026-06-03 00:34:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮記者協會晚宴定於7月24日（週五）舉辦，原定4月舉行的晚宴因槍擊突發事件緊急疏散停辦，涉案嫌疑人已被控圖謀刺殺總統。白宮記者協會主席表示：本屆晚宴不止是常規會務活動，更要藉此宣告：暴力不容於美國社會，自由媒體絕不會在脅迫下噤聲。諸位已然證明，團結與勇氣理應戰勝恐嚇。"
-    },
-    {
-      "id": "mkt:019e892f-959b-7779-8aab-1e0d3ef2dd96",
-      "time": "2026-06-03 00:34:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Musk-linked shell company buys land outside Houston; potential site for Terafab chip plant】A shell company linked to Elon Musk has purchased more than 6,000 acres across at least six parcels in Grimes County outside Houston, land records show. The buyer, WIT Tech LLC, appears to be securing a site for Terafab, a proposed chip factory backed by SpaceX, Tesla and xAI with planned capital spending of about $55 billion and potential total investment of up to $119 billion. Transaction prices were not disclosed."
-    },
-    {
-      "id": "4913462",
-      "time": "2026-06-03 00:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理毛焦爾談歐盟：我們不會成為阻礙。我們知道我們是這個俱樂部的一員。我們知道我們不會在所有事情上都意見一致——但我們不會為了否決而否決。否決是一項主權權利——但只有在真正關乎國家利益且所有談判手段都已用盡時，它才值得使用。我相信談判。我曾在布魯塞爾作為外交官工作九年，從未動用過一次否決權。"
-    },
-    {
-      "id": "4913461",
-      "time": "2026-06-03 00:33:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報95.96美元/桶。"
-    },
-    {
-      "id": "mkt:019e892c-6d06-7779-8aab-143b4e1fcbfa",
-      "time": "2026-06-03 00:30:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs CEO Solomon said consumer behavior could change in H2."
-    },
-    {
-      "id": "mkt:019e892c-5b70-7779-8aab-0a45dc95885f",
-      "time": "2026-06-03 00:30:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said the US has achieved significant results, including preemptive de-escalation of crises before they erupted and the ending of ongoing conflicts, and said he was proud of those efforts."
     }
   ]
 }
