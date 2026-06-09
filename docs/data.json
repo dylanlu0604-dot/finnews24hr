@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-09 11:38:50",
-  "count": 19190,
+  "updated": "2026-06-09 11:42:47",
+  "count": 19189,
   "items": [
+    {
+      "id": "4925117",
+      "time": "2026-06-09 11:40:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報93.30美元/桶。"
+    },
+    {
+      "id": "mkt:019eaa76-3bc3-744e-bbe8-d550ca56aea2",
+      "time": "2026-06-09 11:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhiyuan to invest 2 bln yuan over five years in R&D, talent and developer ecosystem】On June 9, Zhiyuan said in a letter to all developer partners it will allocate 2 bln yuan over the next five years for R&D and innovation, talent training, partner development and community operations."
+    },
     {
       "id": "4925116",
       "time": "2026-06-09 11:38:05",
@@ -176990,38 +177006,6 @@
         "MKT News"
       ],
       "text": "China's Ministry of Industry and Information Technology published for public comment 64 telecom industry standard drafts, including technical requirements for a User Plane Function (UPF)-integrated firewall module; consultation period is June 3–July 2, 2026."
-    },
-    {
-      "id": "mkt:019e866c-fcc7-7663-9953-1e9d6efd56f8",
-      "time": "2026-06-02 11:42:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CSI Convertible Bond Index was up 0.12% at mid-session; Jiemei, Qizhong and Changhai convertibles rose 8.10%, 6.58% and 5.93% respectively, while Titan convertible fell 16.30%."
-    },
-    {
-      "id": "4911805",
-      "time": "2026-06-02 11:42:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI首因安全問題遭美州政府起訴】美國佛羅里達州總檢察長詹姆斯·烏斯邁爾當地時間6月1日起訴美國開放人工智慧研製中心（OpenAI）及其執行長薩姆·奧爾特曼，指控該公司旗下聊天機器人“存在助長暴力行為、誘導使用者形成依賴、傳播錯誤資訊等風險”。這是美國州政府首次就人工智慧產品安全問題起訴OpenAI。#OpenAI被訴助長暴力行為#據瞭解，本次訴訟為民事訴訟，旨在尋求處罰和法院命令，而非刑事指控。"
-    },
-    {
-      "id": "mkt:019e866b-dd4a-7663-9953-119d33ae313f",
-      "time": "2026-06-02 11:41:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "MRVL.O",
-        "Impact bullish"
-      ],
-      "text": "Marvell Technology (MRVL.O) spiked in U.S. after-hours trading, rising as much as 16% before trimming gains to about 11.5% after NVIDIA CEO Jensen Huang said Marvell will be the next trillion‑dollar company."
     }
   ]
 }
