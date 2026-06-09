@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-10 04:30:27",
-  "count": 18722,
+  "updated": "2026-06-10 04:34:11",
+  "count": 18724,
   "items": [
+    {
+      "id": "4926688",
+      "time": "2026-06-10 04:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國的封鎖使伊朗變得極其貧窮，並將持續到必要之時。"
+    },
+    {
+      "id": "4926687",
+      "time": "2026-06-10 04:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴克里斯蒂娜在尼加拉瓜西北部海岸附近飄移不定，預計未來幾天中美洲部分地區將出現暴雨。"
+    },
+    {
+      "id": "4926686",
+      "time": "2026-06-10 04:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "凱西百貨預計本財年內部可比同店銷售額增長2%-5%。"
+    },
+    {
+      "id": "4926685",
+      "time": "2026-06-10 04:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "凱西百貨第四財季內部同店銷售額增長5.5%。"
+    },
+    {
+      "id": "4926684",
+      "time": "2026-06-10 04:31:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱日聯資本與布魯克菲爾德將聯合成立可再生能源企業。"
+    },
     {
       "id": "4926683",
       "time": "2026-06-10 04:29:49",
@@ -172764,32 +172804,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Rises Above $93 — WTI prices rose more than 1% on Tuesday afternoon to above $93 per barrel after a volatile session, as investors awaited updates on the Iran conflict. Iran is reviewing a U.S. proposal to end the war but has not been in contact with Washington for several days, despite President Trump’s statement that negotiations remain underway. Trump said on Monday that talks were progressing and that an agreement to extend the ceasefire reached in April and reopen the strait could be finalized within a week. However, Israel continued its military operations in southern Lebanon on Tuesday, a day after Trump urged Netanyahu to refrain from striking Beirut in an effort to prevent the conflict from widening."
-    },
-    {
-      "id": "4913644",
-      "time": "2026-06-03 04:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿根廷石油企業 Oldelval 執行長稱：瓦卡穆爾塔油氣區到 2028 年原油日產量可達 100 萬桶。"
-    },
-    {
-      "id": "mkt:019e8a0a-7a20-733d-8819-c3ad4b3aec14",
-      "time": "2026-06-03 04:33:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: talks between Israel and Lebanon that day have concluded."
-    },
-    {
-      "id": "mkt:019e8a09-0f65-733d-8819-b9cb8a46ff4d",
-      "time": "2026-06-03 04:31:49",
-      "tags": [
-        "MKT News",
-        "XOS.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. fleet electrification solutions provider XOS Inc shares rose 119.73% in after-hours trading to $4.90 after the company launched a 2.5 MWh Power Hub product for energy-storage and hybrid-power applications."
     }
   ]
 }
