@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-10 04:15:23",
-  "count": 18715,
+  "updated": "2026-06-10 04:19:07",
+  "count": 18717,
   "items": [
+    {
+      "id": "4926676",
+      "time": "2026-06-10 04:18:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "芝商所宣佈推出納斯達克芝商所加密貨幣指數期貨。"
+    },
+    {
+      "id": "te:markets:557775",
+      "time": "2026-06-10 04:17:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as Mining and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.2% to close at 34,412 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle shed 1.9%, Barrick lost 1.4%, and Wheaton Precious Metals fell 2.6%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural dropped 3.6%, while Suncor lost 3%. In the tech sector, Shopify fell 0.5% and Celestica lost 4.9% as a wave of equity offerings by companies seeking capital to fund AI ambitions raised concerns about whether demand will be sufficient to absorb the new supply and what that could mean for valuations. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with policymakers widely expected to leave interest rates unchanged."
+    },
+    {
+      "id": "4926675",
+      "time": "2026-06-10 04:17:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普淡化直升機遇襲事件，稱這“算不上什麼大事”。"
+    },
     {
       "id": "4926674",
       "time": "2026-06-10 04:12:59",
@@ -172710,14 +172739,6 @@
         "其他"
       ],
       "text": "GitLab裁員大約14%，退出22個國家。"
-    },
-    {
-      "id": "4913641",
-      "time": "2026-06-03 04:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【在美上市的新興市場ETF再遭撤資 韓國流出最多】上週，投資者連續第二週從投資新興市場股票和債券的交易所交易基金（ETF）撤資。資料顯示，截至5月29日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流出總額為14.4億美元，前一週為流出13億美元。今年迄今，資金流入總額為413億美元。分市場看，韓國資金流出規模最大，為7.355億美元。阿根廷資金流入規模最大，為4,110萬美元。"
     }
   ]
 }
