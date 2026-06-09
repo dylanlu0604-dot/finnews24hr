@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-10 07:46:02",
+  "updated": "2026-06-10 07:49:55",
   "count": 18679,
   "items": [
+    {
+      "id": "4926834",
+      "time": "2026-06-10 07:48:51",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【金價繼續下跌 美伊再起衝突考驗脆弱的停火協議】金價跌勢進一步擴大，美國再次對伊朗發動襲擊，對早前直升機遭德黑蘭擊落進行報復，此舉或破壞結束這場擾亂全球市場的戰爭而付出的努力。金價一度下跌0.9%，至每盎司4221美元附近，前一個交易日下跌1.6%。特朗普週二指責伊朗在阿曼附近擊落了一架美國軍用直升機。數小時後，美軍對伊朗發動了“自衛性打擊”。伊朗官方媒體IRIB報道稱，位於霍爾木茲海峽的格什姆島遭到襲擊，至少發生六處爆炸。最新衝突威脅到本就脆弱的停火協議，並有可能延長霍爾木茲海峽近乎完全封閉的狀態。該海峽能源流動嚴重中斷，導致油價上漲，引發市場對全球通脹的擔憂。各國央行更有可能維持利率不變或加息，對不產生收益的貴金屬構成不利因素。"
+    },
+    {
+      "id": "4926833",
+      "time": "2026-06-10 07:48:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：維持看多機器人產業趨勢】中信建投研報表示，今年機器人主線將圍繞 “T鏈量產節奏&國內主機廠資本化” 展開。Optimus量產臨近，T鏈已有供應商收到量產產能指引，Optimus V3釋出&年中正式投產有望如期而至。發酵了4-5年的機器人產業預計正面臨拐點。國內鏈催化加快，除宇樹外，雲深處遞表衝擊IPO&DR02全新升級，智元自研世界模型在權威國際評測平臺WorldArena總分第一等。建議關注特斯拉鍊高勝率、技術迭代升級方向、具備預期差的低估值；宇樹等其他具備放量能力的國產鏈。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606103765638151",
+      "time": "2026-06-10 07:47:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中信建投：短期內美聯儲加息機率仍低】中信建投指出，短期內，美聯儲加息機率仍低，市場對美聯儲緊縮的擔憂主要在預期層面，建立在美國國內通脹粘性、就業持續火熱的假設之上。CME美聯儲觀察的資料表明，海外市場預期的美聯儲大機率加息時點開始於2026年10月末。當前全球流動性緊縮、市場調整是對美聯儲四季度加息預期的提前反應。"
+    },
+    {
+      "id": "4926832",
+      "time": "2026-06-10 07:46:32",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【Kakao員工將舉行公司歷史上首次罷工，要求提高獎金和利潤分成】韓國網際網路巨頭Kakao的工會成員計劃於週三舉行公司歷史上首次罷工，要求提高獎金和利潤分成。此次罷工和集會將於當地時間上午10點至下午3點在首爾以南板橋的Kakao總部附近舉行。據業內人士透露，預計將有來自Kakao五個部門（包括總部、Kakao Pay和Kakao Enterprise）的約 600 名成員參加。此前，Kakao工會和管理層在上個月由政府斡旋的兩輪工資談判中未能縮小分歧。工會成員要求將去年營業利潤的13%至14%作為績效獎金。他們還尋求重新設計薪酬結構，將限制性股票單位納入獎金池。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606103765639766",
+      "time": "2026-06-10 07:46:31",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【1至5月份電動裝載機出口量達1232臺 同比增長208%】資料顯示，今年1至5月份，我國共銷售挖掘機126875臺，同比增長24.7%。各類裝載機共銷售67162臺，同比增長27.3%。兩大類核心產品無論是國內銷量，還是國際出口量均實現了同比兩位數增長的態勢。不僅如此，新能源工程機械銷量也保持了較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%；出口量1232臺，同比增長208%。"
+    },
+    {
+      "id": "4926831",
+      "time": "2026-06-10 07:46:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "指標10年期日本公債期貨早盤下跌0.16點。"
+    },
+    {
+      "id": "4926830",
+      "time": "2026-06-10 07:45:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌2.1%。"
+    },
     {
       "id": "te:markets:557796",
       "time": "2026-06-10 07:45:24",
@@ -172357,65 +172421,6 @@
         "Brent"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps fired missiles at a US-linked vessel named PANAYA, Iranian media reported, saying the strike was retaliation for a US attack on an Iranian tanker near the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e8abe-385a-733d-881c-9d02439647d0",
-      "time": "2026-06-03 07:49:42",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
-    },
-    {
-      "id": "mkt:019e8abd-f02c-733d-881c-96e61de96222",
-      "time": "2026-06-03 07:49:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada submits new trade proposal to US but warns of potential 'turbulence'】Canada's minister for Canada-U.S. trade, LeBlanc, said Ottawa has submitted a new, detailed trade proposal to the United States based on recent negotiations following a meeting in Washington with U.S. Trade Representative GREER. LeBlanc declined to disclose details, said talks will continue in coming days, and warned negotiations could still turn negative, calling \"turbulence\" inevitable; Ottawa is under pressure to show progress after Mexico began bilateral USMCA talks with Washington."
-    },
-    {
-      "id": "mkt:019e8abd-10e6-733d-881c-8b6942d5e0fb",
-      "time": "2026-06-03 07:48:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Japan's finance minister KATAYAMA said he discussed a range of global financial issues with his U.S. counterpart, including advanced artificial intelligence."
-    },
-    {
-      "id": "4913811",
-      "time": "2026-06-03 07:48:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：正就全球金融形勢的各類議題（包括先進人工智慧）與美國對口官員展開討論。"
-    },
-    {
-      "id": "4913810",
-      "time": "2026-06-03 07:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍證實攔截伊朗導彈和無人機 稱空襲格什姆島】美東時間2日晚，美軍中央司令部在社交媒體發文，稱伊朗2日在整個中東範圍發動襲擊，美軍攔截若干伊朗彈道導彈和無人機。作為回應，美軍對伊朗格什姆島發動“自衛性”空襲。（央視）"
-    },
-    {
-      "id": "4913809",
-      "time": "2026-06-03 07:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：額外預算旨在最大限度地降低來自中東的金融風險。"
-    },
-    {
-      "id": "4913808",
-      "time": "2026-06-03 07:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：我們將努力提供詳盡的解釋，以確保補充預算儘快獲得透過。"
     }
   ]
 }
