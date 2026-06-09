@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-10 00:42:19",
-  "count": 18829,
+  "updated": "2026-06-10 00:46:19",
+  "count": 18819,
   "items": [
+    {
+      "id": "mkt:019ead43-4cae-7992-a4a7-0e4d4169f3c5",
+      "time": "2026-06-10 00:42:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "US stock benchmarks fell sharply in an intra-session sell-off, with the Nasdaq extending losses to 3.5%."
+    },
     {
       "id": "4926585",
       "time": "2026-06-10 00:41:47",
@@ -173667,108 +173680,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊海軍：24艘船隻在其協調下透過霍爾木茲海峽。"
-    },
-    {
-      "id": "4913481",
-      "time": "2026-06-03 00:46:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "貢沃爾集團表示，其並非此次調查的針對物件，且早在一年前就已向有關部門上報相關問題。"
-    },
-    {
-      "id": "4913480",
-      "time": "2026-06-03 00:45:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士總檢察長辦公室表示，大宗商品交易商貢沃爾位於日內瓦的辦公室今年5月遭到搜查，這是針對不知名人士賄賂外國官員的刑事調查的一部分。"
-    },
-    {
-      "id": "4913479",
-      "time": "2026-06-03 00:45:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長推出緊湊型開發者電腦Surface RTX Spark Dev Box。"
-    },
-    {
-      "id": "mkt:019e893a-1dc1-7779-8aab-4591574908e1",
-      "time": "2026-06-03 00:45:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Rubio said there would be no HEZBOLLAH without Iran and called the group entirely an Iranian proxy."
-    },
-    {
-      "id": "4913478",
-      "time": "2026-06-03 00:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我並不知曉美國存在武裝伊朗平民以推翻其政府的相關計劃。或許有其他國家或組織在開展此類行動，但美國政府絕對沒有這麼做。"
-    },
-    {
-      "id": "mkt:019e8939-063f-7779-8aab-3e6b9f4c7b15",
-      "time": "2026-06-03 00:44:36",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs CEO Solomon said short-term inf is a greater concern than employment."
-    },
-    {
-      "id": "mkt:019e8938-9d00-7779-8aab-349fa35aa63b",
-      "time": "2026-06-03 00:44:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Goldman Sachs CEO Solomon said market expectations for rate cuts over the remainder of the year have fallen sharply versus six months ago."
-    },
-    {
-      "id": "4913477",
-      "time": "2026-06-03 00:43:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：短期來看，通脹問題比就業更受關注。"
-    },
-    {
-      "id": "4913476",
-      "time": "2026-06-03 00:43:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌母公司Alphabet強制配售股票認購出現超額認購。"
-    },
-    {
-      "id": "4913475",
-      "time": "2026-06-03 00:42:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟人工智慧超級工廠計劃因延誤和資金問題而受阻。"
-    },
-    {
-      "id": "4913474",
-      "time": "2026-06-03 00:42:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：估算哥倫比亞要實現債務穩定需要相當於國內生產總值4%的調整，2027年更高的全球油價將透過稅收和股息提振該國財政收入。"
     }
   ]
 }
