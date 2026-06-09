@@ -1,7 +1,191 @@
 {
-  "updated": "2026-06-09 20:38:22",
-  "count": 19071,
+  "updated": "2026-06-09 20:42:17",
+  "count": 19082,
   "items": [
+    {
+      "id": "4926265",
+      "time": "2026-06-09 20:41:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦波生物：完成回購50萬股】錦波生物公告，公司於2026年4月9日召開董事會，審議透過了以集中競價交易方式回購公司股份方案。回購期限為自董事會審議透過本次股份回購方案之日起不超過3個月，即自2026年4月9日至2026年6月5日。截至2026年6月5日，公司透過回購股份專用證券賬戶以連續競價轉讓方式回購公司股份50萬股，佔公司總股本的0.43%，佔預計回購總數量上限的100%，最高成交價為180元/股，最低成交價為152.88元/股，已支付的總金額為8171.58萬元，佔公司擬回購資金總額上限的54.48%。"
+    },
+    {
+      "id": "4926264",
+      "time": "2026-06-09 20:41:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行：貸款增長表現向好，最終結果將略好於此前模型預測水平。"
+    },
+    {
+      "id": "mkt:019eac67-0cf3-7ddc-a5f3-dc400825fe7c",
+      "time": "2026-06-09 20:41:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Norwegian government is donating NOK 1.2 billion to Ukraine to fund maritime drones."
+    },
+    {
+      "id": "4926263",
+      "time": "2026-06-09 20:41:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將新興市場貨幣評級從“中性”上調至“增持”。"
+    },
+    {
+      "id": "4926262",
+      "time": "2026-06-09 20:41:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所：將劃出年度企業社會責任基金總額的10%，用於投放到印度國家證券交易所社會證券交易所掛牌的專案中。"
+    },
+    {
+      "id": "4926261",
+      "time": "2026-06-09 20:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威政府：向烏克蘭捐贈12億挪威克朗用於採購海上無人機。"
+    },
+    {
+      "id": "4926259",
+      "time": "2026-06-09 20:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曲江文旅：未彌補虧損達實收股本總額三分之一】曲江文旅公告稱，截至2025年12月31日，公司合併報表未分配利潤為-4.16億元，實收股本為2.55億元，未彌補虧損達實收股本總額三分之一。原因是2025年公司新舊動能動態調整，轉回遞延所得稅資產本期及前期虧損。該事項尚需提交股東會審議。公司計劃深化運營模式改革、加強成本管控，盤活存量資源，開發增量業務，最佳化資產結構。"
+    },
+    {
+      "id": "4926258",
+      "time": "2026-06-09 20:40:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港國際機場7月推出“易泊遊”服務】今天（9日）起，“粵車南下”政策新增深圳、東莞、惠州、佛山、肇慶五座廣東城市。香港機場管理局表示，上述城市旅客可申請香港國際機場“易泊飛”服務，獲批後可從6月15日起，自駕車經港珠澳大橋抵達機場的自動化停車場，完成泊車後便可前往機場禁區登機。 機場還將於7月16日推出全新“易泊遊”服務，7月25日起，獲批旅客停車後可搭乘接駁巴士，從港珠澳大橋香港口岸入境香港。 機管局行政總裁張李佳蕙表示，將藉助港珠澳大橋最佳化“多式聯運”服務，便利旅客出行，助力香港旅遊業發展。（大灣區之聲）"
+    },
+    {
+      "id": "te:economy:557682",
+      "time": "2026-06-09 20:40:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "US Imports Rise to 1-Year High — Imports into the United States rose by 2.0% from the previous month to $383.0 billion in April of 2026, the highest in one year, and the fourth highest reading on record. Imports of foreign goods rose by 2.1% to $304.9 billion in the period amid higher purchases of computers, semiconductors, and telecommunications equipment, aligned with the surge in investments on AI infrastructure from the largest companies in the US, which take in a lot of their capital goods from Asia. In turn, foreign purchases of industrial supplies decreased. Imports of services rose by 1.6% to $78.0 billion."
+    },
+    {
+      "id": "4926257",
+      "time": "2026-06-09 20:40:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在北部打死越境開火武裝人員】以色列軍方稱，以軍今天（6月9日）在以色列北部上加利利地區拉米姆山脊地區“遭到槍擊”。以軍還擊並打死一名“越境武裝人員”。以色列軍方稱，這起事件仍在持續進行中。據以色列媒體報道，以色列北部靠近以黎臨時邊境的多個社群居民接到要求“立即就地避險”的緊急指令。當地已實施緊急交通管制，部分路段被封閉。（CCTV國際時訊）"
+    },
+    {
+      "id": "4926256",
+      "time": "2026-06-09 20:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空總裁：認為油價將逐步回落至每桶60美元中段至70美元低段的區間。"
+    },
+    {
+      "id": "te:economy:557680",
+      "time": "2026-06-09 20:39:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Canada Posts Larger-Than-Expected Trade Surplus — Canada reported a trade surplus of C$2.7 billion in April 2026, up from C$1.8 billion in the prior month and slightly surpassing market forecasts of a C$2.6 billion surplus. This marked the second consecutive trade surplus and the largest since January 2025. Exports increased 1.6% over a month to a record high of $75.2 billion, while imports edged up 0.3% to an-all time high of $72.4 billion."
+    },
+    {
+      "id": "mkt:019eac64-f957-7ddc-a5f3-d02d070bca47",
+      "time": "2026-06-09 20:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates' president said first-class load factors before the Iran war were about half of normal levels."
+    },
+    {
+      "id": "4926255",
+      "time": "2026-06-09 20:39:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佑駕創新L4無人巴士獲超1.3億元訂單】佑駕創新發布公告稱，近期與專注智慧交通領域的獨立第三方正式簽署《自動駕駛車輛採購合同》，由佑駕創新向合作方供應無人巴士、自動駕駛套件並提供配套技術服務。本次合同涉及上百臺無人巴士及相關配套服務，含稅總金額超過人民幣1.3億元，交付產品將主要應用於當地文旅、微迴圈及公交應用場景。"
+    },
+    {
+      "id": "mkt:019eac64-b21d-7ddc-a5f3-c90409cd23df",
+      "time": "2026-06-09 20:39:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Emirates Airline president expects oil prices to gradually fall back to a range in the mid-$60s to low-$70s per barrel."
+    },
+    {
+      "id": "mkt:019eac64-8b6d-7ddc-a5f3-c52aebb85a43",
+      "time": "2026-06-09 20:38:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Emirates president says the airline cannot cut fares because airfares remain closely tied to fuel costs."
+    },
+    {
+      "id": "te:economy:557679",
+      "time": "2026-06-09 20:38:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "US Trade Deficit Narrows as Exports Hit New Record — The US trade deficit narrowed to $55.9 billion in April 2026 from a revised $56.6 billion in March, beating market expectations of $56.1 billion. Exports rose 2.6% ($8.3 billion) to a record $327.1 billion, driven by higher sales of capital goods (up $4.0 billion), including computers and civilian aircraft, industrial supplies (up $2.5 billion), led by crude oil and petroleum products amid rising energy prices due to Middle East tensions, and consumer goods (up $1.7 billion). However, service exports fell $0.4 billion, weighed down by declines in travel, transport, and maintenance services. Imports increased 2.0% ($7.6 billion) to $383.0 billion."
+    },
+    {
+      "id": "te:economy:557678",
+      "time": "2026-06-09 20:38:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Canada Imports Hit Record High in April — Canada’s imports edged up 0.3% month-on-month to a record C$72.4 billion in April 2026, with gains recorded in 6 of the 11 product categories. Imports of basic and industrial chemical, plastic, and rubber products rose 16.9%, providing the largest contribution to the increase. Purchases of lubricants and other petroleum refinery products jumped 49.0%, mainly due to higher imports of crude oil diluents from the US. Imports of electronic and electrical equipment and parts increased 4.2%, while imports of computers and computer peripherals rose 13.2% to a record high, driven by higher shipments of processing units from Ireland for use in data centres. Partially offsetting these gains was a 12.9% decline in imports of metal and non-metallic mineral products, largely reflecting a 27.5% drop in purchases of unwrought gold, silver, platinum group metals, and their alloys."
+    },
+    {
+      "id": "mkt:019eac64-3785-7ddc-a5f3-bcc89d1f3bee",
+      "time": "2026-06-09 20:38:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates president said the airline is consulting with relevant governments on easing travel advisories for Middle East airspace."
+    },
+    {
+      "id": "4926254",
+      "time": "2026-06-09 20:38:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【分析：加拿大央行或暗示對需求減弱的擔憂】加鼎華阜合作銀行宏觀策略主管Royce Mendes表示，加拿大央行可能會暗示，官員們對需求減弱的擔憂程度，與對能源驅動的通脹風險的擔憂程度一樣，甚至可能更甚。他說，鑑於核心通脹得到控制，且過去四個季度中有三個季度GDP出現下滑，加拿大央行考慮加息以抵禦通脹風險的空間有限。“所有跡象都表明該國經濟出現了典型的需求短缺，”Mendes說。第一季度，消費者支出放緩，國內總需求下降。Mendes說，加拿大央行高階官員“不再需要全神貫注於與高通脹、低增長經濟相關的政策權衡。該團隊可以轉而關注如果需求進一步惡化可能需要採取的措施。”"
+    },
     {
       "id": "4926253",
       "time": "2026-06-09 20:37:27",
@@ -268,6 +452,16 @@
       "text": "United States | Exports (Apr) | actual 327100000000B | previous 320900000000B"
     },
     {
+      "id": "4926234",
+      "time": "2026-06-09 20:30:29",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【三菱日聯銀行：即使日本央行加息，日元料將依然疲軟】三菱日聯銀行的Lee Hardman在一份報告中表示，日本央行在6月16日加息不太可能引發日元疲軟態勢的重大逆轉。他說，這是因為市場已幾乎完全反映了對這一舉措的預期。據媒體報道，日本央行還在考慮從2027年4月起暫停縮減其政府債券購買計劃。“總的來說，最新事態發展並未改變我們的觀點，即在能源價格衝擊的最糟糕時期開始消退之前，日元在短期內料將依然疲軟。“倫敦證券交易所集團的資料顯示，美元兌日元持平於160.15日元，接近週一觸及的五週高點160.39日元。"
+    },
+    {
       "id": "mkt:019eac5d-2b90-7ffd-b5f6-8a70f042e596",
       "time": "2026-06-09 20:30:17",
       "tags": [
@@ -434,6 +628,14 @@
       "text": "聯合國古特雷斯：對中東局勢再度升級深感震驚。"
     },
     {
+      "id": "4926230",
+      "time": "2026-06-09 20:27:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“三北”工程西部阻擊戰片區現場推進會召開 何立峰出席會議並講話】“三北”工程河西走廊－塔克拉瑪干沙漠邊緣阻擊戰現場推進會9日在新疆維吾爾自治區巴音郭楞蒙古自治州召開。中共中央政治局委員、國務院副總理何立峰出席會議並講話，他強調，要牢固樹立和踐行正確政績觀，出實招、求實效、重實績，全力打好“三北”工程西部片區阻擊戰，推動東中西部三大標誌性戰役如期取得階段性重要成果。 何立峰指出，當前“三北”工程仍處於爬坡過坎、攻堅克難的關鍵階段，特別是西部阻擊戰片區自然環境惡劣、水源條件匱乏，在治理時要更加尊重規律、突出重點、循序漸進、久久為功。在推進西部片區阻擊戰的同時，要繼續打好東部片區殲滅戰和中部黃河“幾字彎”片區攻堅戰，確保到2027年完成六期規劃70%以上的任務，到2030年如期完成六期規劃任務。（新華社）"
+    },
+    {
       "id": "4926228",
       "time": "2026-06-09 20:25:29",
       "tags": [
@@ -496,6 +698,14 @@
         "Importance 1"
       ],
       "text": "US Job Growth Eases but Remains Strong — US private employers added an average of 29,000 jobs per week in the four weeks ending May 23, 2026, according to the ADP Research Institute, a slight decrease from the 30,500 weekly gain in the prior period. This marks the third consecutive week of easing job growth. However, last week's ADP monthly report for May showed private businesses added a net 122,000 jobs, the largest increase since January 2025. Dr. Nela Richardson, Chief Economist at ADP, noted, \"Hiring was more broad-based in May than we've seen in the last few years. The labor market continues to show sustained momentum going into the summer hiring season.\""
+    },
+    {
+      "id": "4926224",
+      "time": "2026-06-09 20:23:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【分析師：恐慌指數VIX飆升後迴歸平靜，市場情緒未現根本性逆轉】分析師Divyang Shah表示，上週五股市尤其是AI與科技板塊遭遇劇烈拋售。其背後原因多樣，但最顯著的影響是波動性的驟然逆轉——VIX恐慌指數一度衝高至20關口以上，期貨曲線也隨之上揚。目前，這一衝擊已逐步消退，儘管VIX現貨水平仍略高於上週五暴跌之前。近月VIX期貨合約與現貨的價差已收窄至持平，期貨曲線小幅下移，但整體仍保持向上傾斜的形態。這表明，儘管波動性一度飆升，但市場情緒並未出現根本性轉折，整體基調依然偏向積極。投資者對AI與科技股近期的漲幅心存謹慎，但隨著上週五的跌幅被逐步消化，市場遠未滑向全面悲觀。"
     },
     {
       "id": "4926223",
@@ -566,6 +776,14 @@
         "WTI"
       ],
       "text": "UK foreign secretary says it is necessary to keep the Strait of Hormuz open to restore regional stability."
+    },
+    {
+      "id": "4926220",
+      "time": "2026-06-09 20:22:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST新元：與財務投資人臨川國控簽署重整投資協議，擬4.55元/股認購1000萬股】*ST新元公告，公司此前披露擬與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署重整投資協議。2026年6月8日，公司與臨川國控正式簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。本次交易構成關聯交易。"
     },
     {
       "id": "mkt:019eac55-855f-7ffd-b5f5-e9d2308ee2f9",
@@ -812,6 +1030,14 @@
       "text": "ECB executive board member Moulin said Europe needs safe euro assets."
     },
     {
+      "id": "4926205",
+      "time": "2026-06-09 20:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省委書記尹弘深入礦山井下調研檢查安全生產工作】6月9日，江西省委書記尹弘來到贛州市，深入礦山、井下調研檢查安全生產工作。他強調，要認真學習貫徹習近平總書記關於安全生產的重要論述，全面落實全國安全生產視訊會議要求，始終把安全生產放在第一位，深入排查各類風險隱患，堅決防範遏制各類安全事故，確保人民群眾生命財產安全。（江西釋出）"
+    },
+    {
       "id": "4926204",
       "time": "2026-06-09 20:12:47",
       "tags": [
@@ -982,6 +1208,14 @@
         "Important"
       ],
       "text": "Online platform data show total box office for the 2026 summer season, including presales, exceeded 400 million yuan as of 19:59 on June 9."
+    },
+    {
+      "id": "4926192",
+      "time": "2026-06-09 20:06:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾價格跌回2025年底 業內人士：短期金價或將寬幅震盪】近期，國際金價明顯回撥，國內品牌金飾價格同步回落，價格和去年年底幾乎持平。分析師認為，短期金價整體將維持寬幅震盪的執行格局。對於普通投資者而言，黃金投資的配置比例不宜過高，面對市場波動仍需謹慎。 (央視財經)"
     },
     {
       "id": "4926191",
@@ -175675,145 +175909,6 @@
         "市場"
       ],
       "text": "【東傑智慧：股價異常波動，控制權變更剩餘10億元轉讓價款支付安排仍在協商】東傑智慧公告，公司股票連續3個交易日收盤價格漲幅偏離值累計達30%。經自查，公司基本面未發生重大變化，經營情況正常，控股股東及實際控制人不存在應披露而未披露的重大事項。此外，公司於2025年10月24日披露控制權變更事項進展：淄博財金將淄博展恆99%基金份額轉讓給海南鶴平，交易價格16.2億元，已收到6.2億元，剩餘10億元轉讓價款的支付安排雙方仍在協商中，作為支付保障措施的質押擔保正在辦理，控股股東公章、法人章等印鑑及財務管理許可權仍由淄博財金實際管控。"
-    },
-    {
-      "id": "4912997",
-      "time": "2026-06-02 20:42:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "GENIUS GROUP：首批部署持倉含16%的Anthropic、11%的SpaceX以及7.4%的OpenAI敞口。"
-    },
-    {
-      "id": "mkt:019e885a-b966-722b-914a-bb567e54ee97",
-      "time": "2026-06-02 20:41:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC chief Zheng Zhajie chairs SOE roundtable】On June 2 NDRC director Zheng Zhajie chaired a roundtable with seven state-owned enterprises — China COSCO Shipping Group, China Coal Technology & Engineering Group, China Resources Recycling Group, China Logistics Group, China Data‑Link Logistics Information Co., China International Freight Airlines and China Shenhua Coal‑to‑Liquids & Chemicals — focusing on deepening SOE reform, advancing a unified national market, promoting green low‑carbon development and ensuring energy security. Zheng called for targeted, problem‑oriented measures to optimize and restructure the state sector, strengthen SOE capabilities in technological innovation, industrial control and security support, and boost internal incentives. He directed SOEs to lead the buildout of unified market infrastructure and modern distribution networks, to implement China’s dual‑carbon strategy by accelerating green transition and clean, efficient coal use while safeguarding energy supplies, and to set an example in supporting private and small‑and‑medium enterprises to promote complementary development across ownership types."
-    },
-    {
-      "id": "mkt:019e885a-a94c-722b-914a-b7bac61e8b9c",
-      "time": "2026-06-02 20:41:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Brazilian Senator Flavio Bolsonaro urged Trump not to impose tariffs on Brazilian firms, saying tariffs are not the solution."
-    },
-    {
-      "id": "4912996",
-      "time": "2026-06-02 20:41:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西參議員弗拉維奧·博索納羅：敦促特朗普不要對巴西企業加徵關稅；關稅並非解決問題的良方。"
-    },
-    {
-      "id": "4912995",
-      "time": "2026-06-02 20:41:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家發展改革委主任鄭柵潔主持召開國有企業座談會】6月2日，國家發展改革委主任鄭柵潔主持召開國有企業座談會，與中國遠洋海運集團、中國煤炭科工集團、中國資源迴圈集團、中國物流集團、中國數聯物流資訊公司、中國國際貨運航空公司、中國神華煤制油化工公司等7家國有企業座談交流，圍繞深化國資國企改革、縱深推進全國統一大市場建設、促進綠色低碳發展、保障能源安全等國家重大戰略，聽取企業情況介紹和意見建議。鄭柵潔認真傾聽每位企業負責人的發言，與大家深入互動交流，逐一回應關切。他表示，要堅持目標導向和問題導向，推進國有經濟佈局最佳化和結構調整，提升國有企業科技創新、產業控制、安全支撐功能，激發國有企業內生動力活力；要主動服務全國統一大市場建設，帶頭維護統一市場基礎制度、助力形成統一市場基礎設施，服務構建現代流通網路；要認真落實“雙碳”戰略，推動綠色低碳發展，促進煤炭清潔高效利用，促進行業綠色低碳轉型，有力保障能源安全；要在支援和帶動民營企業、中小微企業發展上做好表率，促進各種所有制經濟優勢互補、共同發展。（國家發改委）"
-    },
-    {
-      "id": "4912994",
-      "time": "2026-06-02 20:41:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳華強：MLCC相關業務主要圍繞村田產品開展】深圳華強在互動平臺表示，公司是村田的主要分銷商，目前公司MLCC相關業務主要圍繞村田產品開展。公司持續看好MLCC的市場前景，將積極把握市場機會，持續推進MLCC的市場推廣和業務拓展。"
-    },
-    {
-      "id": "4912993",
-      "time": "2026-06-02 20:40:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多利亞的秘密CEO：公司2月份實現了8年來的首次增長。"
-    },
-    {
-      "id": "4912992",
-      "time": "2026-06-02 20:40:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【微芯科技美股盤前漲超10%】微芯科技美股盤前漲超10%，現報100.95美元。"
-    },
-    {
-      "id": "4912991",
-      "time": "2026-06-02 20:40:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊加沙多地 致多人傷亡】總檯記者自巴勒斯坦方面獲悉，當地時間2日，加沙地帶中部代爾拜拉赫等地遭到以軍空襲，造成至少2人死亡、多人受傷。據悉，一場空襲發生在代爾拜拉赫東部薩拉赫丁路附近，造成1人死亡、4人受傷。 同日，代爾拜拉赫以北一地區也遭以色列無人機空襲，造成1人死亡、2人受傷。（央視新聞）"
-    },
-    {
-      "id": "4912990",
-      "time": "2026-06-02 20:40:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南華期貨：中國發展自身算力期貨市場，具有超越單純經濟價值的戰略意義】南華期貨今日官微訊息，南華期貨指數發展部經理曹揚慧撰文《算力有“期”：中國數字經濟發展亟待補上的金融拼圖》指出，5月12日，芝加哥商品交易所集團宣佈計劃在年內推出全球首個算力期貨合約。這意味著算力將告別單純的IT服務屬性，升級為與原油、黃金、農產品比肩的標準化大宗商品，成為可公開交易、可對沖風險、可公允定價的金融產品。算力期貨市場的建立，不僅是金融技術的創新，更是大國在數字經濟時代爭奪戰略資源定價權的關鍵舉措。中國發展自身的算力期貨市場，具有超越單純經濟價值的國家戰略意義。這不僅是服務國內AI產業風險管理需求的內在要求，更是保障國家算力安全、掌握產業自主發展主動權、參與乃至主導全球算力金融規則制定的必要佈局。中國發展算力期貨，可平抑算力價格的劇烈波動，保障AI產業健康發展;爭奪全球算力定價權，維護國家戰略利益;打通算力基礎設施融資渠道，盤活存量算力資產;推動期貨市場服務實體經濟邊界拓展，培育新質生產力。從現貨市場基礎來看，中國具備全球第二大算力規模、全球第二大AI產業生態，並且算力租賃市場規模快速增長，2026年預計達到2600億元，IDC、算力服務商數量龐大，交易頻次高、資金體量足，具備發展期貨的市場基礎。"
-    },
-    {
-      "id": "4912989",
-      "time": "2026-06-02 20:39:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中巖大地：持股5%以上股東擬減持不超1%股份】中巖大地公告稱，持股5%以上股東南京中巖投資合夥企業（有限合夥）計劃自2026年6月25日至9月24日（根據規定禁止減持的期間除外），以集中競價、大宗交易方式減持不超1,745,500股，佔公司總股本的1%。減持原因為自身資金需求，股份來源為首次公開發行股票前持有及實施權益分派取得。本次減持計劃實施存在不確定性，不會導致公司控制權變化及對經營產生重大影響。"
-    },
-    {
-      "id": "mkt:019e8858-cb39-722b-914a-aac6577ed05f",
-      "time": "2026-06-02 20:39:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed's Hammack says Fed may need to act soon to counter elevated inflation】Hammack said that, given uncertainty in the economic outlook, keeping rates unchanged is reasonable for now but officials may need to act soon to address rising inflation. She said she is more worried about inflation — which has exceeded the Fed's 2% target for about five years — than about the still-strong labor market. Hammack added the Fed's policy rate may not be restrictive, that she has not heard businesses complain high rates are curbing investment, and that price pressures are broad-based across goods and non-housing services."
-    },
-    {
-      "id": "4912988",
-      "time": "2026-06-02 20:39:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長高電新：證券簡稱變更為長高電氣，6月3日起啟用】長高電新公告，公司此前擬變更公司名稱及證券簡稱，近日已完成工商變更登記。自2026年6月3日起，公司全稱由“長高電新科技股份公司”變更為“長高電氣集團股份公司”，證券簡稱由“長高電新”變更為“長高電氣”，英文簡稱變更為CGDQ，證券程式碼002452不變，轉債簡稱“長高轉債”及程式碼127113不變。"
-    },
-    {
-      "id": "4912987",
-      "time": "2026-06-02 20:39:35",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【報道：SpaceX力求壓低IPO費率】埃隆・馬斯克旗下SpaceX正洽談以極低費率，委託華爾街投行承辦 IPO 上市事宜，但各家投行仍有望從這場創紀錄的首發募資中斬獲約 5 億美元佣金。據知情人士透露，這家主營航天與人工智慧的綜合企業計劃於本月完成 IPO、募資 750 億美元，協商確定的承銷費率不足 0.75%。即便費率壓至如此低位，這筆承銷佣金仍有望成為華爾街投行史上規模頂尖的承銷收入專案之一。牽頭承銷的高盛集團與摩根士丹利，將在佣金總池中分得高於其餘 21 家合作券商的收益。相關知情人士因資訊未公開要求匿名，並稱上述數值僅為 SpaceX 基礎承銷費率，尚未計入各類浮動獎勵酬金。"
-    },
-    {
-      "id": "4912986",
-      "time": "2026-06-02 20:39:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【7月1日起施行！五部門聯合發文保障超齡勞動者權益】日前，人社部會同國家衛生健康委、應急部、稅務總局、國家醫保局等5部門聯合出臺了《超齡勞動者基本權益保障暫行規定》（以下簡稱《暫行規定》）。《暫行規定》自2026年7月1日起施行，這是我國首部明確超齡勞動者權益的專門規章，填補了我國現行勞動法律制度的短板，明確了用人單位與超齡勞動者的權利和義務，保障超齡勞動者的勞動報酬、休息休假、勞動安全衛生、工傷保障等合法權益。（央視新聞）"
     }
   ]
 }
