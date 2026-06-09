@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-10 01:46:35",
+  "updated": "2026-06-10 01:50:30",
   "count": 18754,
   "items": [
+    {
+      "id": "te:markets:557765",
+      "time": "2026-06-10 01:49:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Mining and Energy Losses — The S&P/TSX Composite Index fell more than 0.5% to trade below 34,500 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle and WPM lost about 3%, while Franco-Nevada and Barrick shed around 2.5%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural and Suncor dropped 3%. In the tech sector, Shopify fell 1.5%, while Celestica plunged 7% as investors took profits after the recent AI-driven rally. Investors also looked ahead to the BoC's policy decision on Wednesday, with policymakers expected to leave interest rates unchanged. Meanwhile, prospects for progress in US-Iran negotiations deteriorated after President Trump said Iran had shot down a US helicopter patrolling the Strait of Hormuz and vowed to retaliate."
+    },
+    {
+      "id": "mkt:019ead81-0de0-7225-91a9-dc3f7031f98a",
+      "time": "2026-06-10 01:49:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Claude Fable 5 is now available on Amazon Web Services (AWS)."
+    },
     {
       "id": "4926608",
       "time": "2026-06-10 01:43:47",
@@ -173039,23 +173065,6 @@
         "國際"
       ],
       "text": "凱雷集團收購巴斯夫塗料業務獲歐盟附條件批准，歐盟要求凱雷剝離諾力昂全球多硫化物業務。歐盟表示，將該業務出售給合適收購方可消除反壟斷顧慮。"
-    },
-    {
-      "id": "4913553",
-      "time": "2026-06-03 01:49:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【加拿大正式提議續簽美墨加協定】據加拿大媒體2日報道，加拿大政府已向美國和墨西哥政府提議續簽“美國—墨西哥—加拿大協定”。據報道，加拿大政府負責加美貿易的部長多米尼克·勒布朗在致美國貿易代表賈米森·格里爾和墨西哥經濟部長馬塞洛·埃布拉德的信中建議，將這一自由貿易協定續簽16年，以此規避觸發法定年度審查程式。"
-    },
-    {
-      "id": "4913552",
-      "time": "2026-06-03 01:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院道德委員會正就不當性行為指控調查加州民主黨聯邦眾議員吉米·戈麥斯。"
     }
   ]
 }
