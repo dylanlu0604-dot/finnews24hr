@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-09 10:30:04",
-  "count": 19163,
+  "updated": "2026-06-09 10:33:46",
+  "count": 19169,
   "items": [
+    {
+      "id": "mkt:019eaa39-0e9c-7997-8099-d0a77bb21364",
+      "time": "2026-06-09 10:32:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【JAXA postpones H3 No.6 launch】JAXA said on June 8 it has postponed the H3 rocket No.6 launch originally scheduled for June 10, citing potential adverse weather near the Tanegashima Space Center in Kagoshima prefecture. A new launch date has not been set."
+    },
+    {
+      "id": "4925040",
+      "time": "2026-06-09 10:31:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軟體開發板塊震盪走高，索辰科技盤中創新高】軟體開發板塊震盪走高，索辰科技盤中創新高，漢王科技2連板，博思軟體漲超10%，星環科技、四維圖新、科創資訊、漢儀股份、致遠互聯跟漲。"
+    },
+    {
+      "id": "mkt:019eaa38-011e-7997-8099-cdde6d707b64",
+      "time": "2026-06-09 10:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Polysilicon most-active contract fell 4.00% intraday to 34,115 yuan/ton."
+    },
+    {
+      "id": "mkt:019eaa37-f065-7997-8099-c4dc89c551a1",
+      "time": "2026-06-09 10:30:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "0066.HK"
+      ],
+      "text": "【Hong Kong to stage July 1 events; MTR to distribute 71,000 free tickets, chief executive says】Hong Kong Chief Executive John Lee said the Hong Kong SAR government will hold events on July 1 to mark the 29th anniversary of the territory’s return to China, including a flag-raising ceremony, marching displays and sports matches. The government will also offer one-day promotions: MTR will distribute 71,000 free tickets and tram rides will be free. Further details will be announced later."
+    },
+    {
+      "id": "4925039",
+      "time": "2026-06-09 10:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：為慶祝香港迴歸祖國29週年，香港將於7月1日推出多項活動及優惠】香港特區行政長官李家超今日（9日）表示，為慶祝香港迴歸祖國29週年，香港特區政府將於7月1日推出多項活動，包括升旗儀式、步操表演、球類比賽等。此外，多項優惠將於7月1日當天面向市民推出，港鐵將送出7.1萬張車票，市民將可免費乘搭電車等。李家超表示，活動及優惠詳情將於稍後公佈。（大灣區之聲）"
+    },
+    {
+      "id": "te:economy:557443",
+      "time": "2026-06-09 10:30:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Stays at 2-Week High — Australia’s 10-year government bond yield held above 4.9%, trading near a two-week high as markets weighed easing Middle East tensions while persistent cost-of-living pressures weighed on domestic sentiment. Household confidence deteriorated further into deep pessimism, with the Westpac–Melbourne Institute Consumer Sentiment Index falling about 3% to 80.6 in June, marking the fourth decline this year and among the weakest in decades. Elevated living costs remain a key drag on household finances, while a temporary fuel tax cut provided only limited and short-lived support. Attention is now focused on the upcoming policy decision from the Reserve Bank of Australia next week, with markets broadly expecting rates to be left unchanged. Meanwhile, global risk sentiment got a minor lift after Iran and Israel announced a halt in fighting. However, a peace deal has yet to be reached and the Strait of Hormuz remains effectively closed, keeping global inflation risks in focus."
+    },
+    {
+      "id": "4925038",
+      "time": "2026-06-09 10:30:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報34115.00元。"
+    },
+    {
+      "id": "4925037",
+      "time": "2026-06-09 10:30:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本H3火箭6號機將推遲發射】日本宇宙航空研究開發機構（JAXA）6月8日宣佈，主力火箭“H3”6號機的發射日期將從10日推後。原因是發射場所在的鹿兒島縣種子島宇宙中心附近可能出現惡劣天氣。新的日程未定。"
+    },
+    {
+      "id": "4925036",
+      "time": "2026-06-09 10:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內跌3%，現報1785.00元。"
+    },
+    {
+      "id": "te:markets:557442",
+      "time": "2026-06-09 10:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Shares Rebound from Near 6-Year Low — Indonesia’s IDX Composite bounced back 64 points or 1.2% to 5,405 in early Tuesday trade, halting a five-session slide as bargain hunters stepped in after the index touched its weakest level since November 2020 in the prior session. The recovery came despite lingering geopolitical tensions, domestic macro pressures, and concerns over external buffers. Sentiment brightened after reports showed that tax revenue surged in the first five months of 2026, a development the government hailed as evidence of economic recovery. Meanwhile, Bank Indonesia also noted strong growth in adjusted base money (M0), which expanded by over 14% for a second straight month. Gains were broad-based, led by basic materials, infrastructure, and industry. Standout movers included Telkom Indonesia (10.2%), Sumber Alfaria Trijaya (6.9%), Aneka Tambang (4.0%), and Bank Tabungan Negara (2.4%). Traders now look to May trade data from China, Indonesia's largest trading partner, due later today, for further cues."
+    },
     {
       "id": "4925035",
       "time": "2026-06-09 10:28:57",
@@ -176679,43 +176779,6 @@
         "原創"
       ],
       "text": "【騰訊股價大漲 訊息稱微信AI助手到來在即】騰訊港股一度飆升6.5%。之前有訊息稱，騰訊正在測試微信的AI代理原型，並計劃最早於本月啟動公開發布所需的合規流程。之後，騰訊計劃先在少量外部使用者中測試該代理，再分階段推出。由於合規流程所需時間尚不確定，因此公開發布日期尚未確定。使用者將能夠透過在微信主介面向右滑動，進入這個AI代理的對話視窗。"
-    },
-    {
-      "id": "4911720",
-      "time": "2026-06-02 10:32:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數跌1.6%，東證指數跌1.4%。"
-    },
-    {
-      "id": "4911719",
-      "time": "2026-06-02 10:32:06",
-      "tags": [
-        "其他",
-        "焦點",
-        "A股"
-      ],
-      "text": "三大指數集體翻紅，元件、新金屬材料、AI PC、培育鑽石、CPO板塊漲幅居前。"
-    },
-    {
-      "id": "4911718",
-      "time": "2026-06-02 10:31:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "據商務部訊息，牛肉保障措施項下自澳大利亞進口的牛肉於2026年6月1日已達到商務部公告2025年第87號明確的該國家規定數量的90%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起(含當日)，將在現行適用關稅稅率基礎上加徵55%關稅。"
-    },
-    {
-      "id": "mkt:019e862b-95f8-7aa2-99e9-752884a0fd0e",
-      "time": "2026-06-02 10:31:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "MOFCOM said an additional 55% tariff will be applied to Australian beef, on top of the currently applicable tariff rate, beginning on the third day (inclusive) after cumulative imports reach 100% of the specified quota."
     }
   ]
 }
