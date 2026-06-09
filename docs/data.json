@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-10 00:54:05",
-  "count": 18812,
+  "updated": "2026-06-10 00:58:00",
+  "count": 18804,
   "items": [
+    {
+      "id": "4926589",
+      "time": "2026-06-10 00:55:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗擊落一架美軍阿帕奇直升機】美國總統特朗普9日在社交媒體上稱，伊朗在霍爾木茲海峽擊落一架美軍阿帕奇直升機，機上兩名飛行員安然無恙，但美國必須對此次襲擊作出回應。 (新華社)"
+    },
     {
       "id": "mkt:019ead4d-b98f-7992-a4a7-24e814f7893f",
       "time": "2026-06-10 00:53:32",
@@ -173535,87 +173543,6 @@
         "MSFT.O"
       ],
       "text": "Microsoft (MSFT.O) CEO announced a preview release of the Cobalt 200 chip."
-    },
-    {
-      "id": "4913494",
-      "time": "2026-06-03 00:57:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將中聯重科A股評級上調至買進。"
-    },
-    {
-      "id": "4913493",
-      "time": "2026-06-03 00:57:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將徐工機械評級下調至持有，目標價10.60元人民幣。"
-    },
-    {
-      "id": "mkt:019e8944-be6a-7779-8aab-896df817313e",
-      "time": "2026-06-03 00:57:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israeli military says Givati Brigade carried out targeted operations in southern Lebanon】Local time June 2, the Israeli military said its Givati Brigade conducted multiple operations in the Nabatieh area of southern Lebanon, including targeted raids, weapons clearance and strikes on armed personnel. The operations aimed to establish Israeli positions, remove direct threats to northern Israel and strengthen deployments in southern Lebanon. The military said forces crossed the Litani River and, with Israeli Air Force support, carried out precision strikes that destroyed militant infrastructure, searched for and cleared weapons, and killed multiple armed personnel."
-    },
-    {
-      "id": "4913492",
-      "time": "2026-06-03 00:57:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長宣佈推出Cobalt 200晶片預覽版。"
-    },
-    {
-      "id": "mkt:019e8944-5e8b-7779-8aab-87523b5b7612",
-      "time": "2026-06-03 00:56:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN meteorological agency forecasts a moderate El Nifio in coming months, possibly strengthening to strong; this could push up global temperatures and increase the risk of extreme weather."
-    },
-    {
-      "id": "4913491",
-      "time": "2026-06-03 00:56:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在黎南部開展定點行動 打擊武裝人員與武器設施】當地時間6月2日，以色列國防軍表示，以軍吉瓦提旅近日在黎巴嫩南部奈拜提耶地區開展多項軍事行動，包括定點突襲、清除武器和打擊武裝人員。此次行動旨在在相關區域建立以軍陣地，以消除對以色列北部的直接威脅，並加強在黎巴嫩南部的作戰部署。以軍同時表示，以軍部隊已越過利塔尼河，在以色列空軍支援下實施精確打擊，摧毀武裝組織基礎設施，搜尋並清除武器，打死多名武裝人員。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8943-4de6-7779-8aab-7b0c0c71ad8d",
-      "time": "2026-06-03 00:55:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Market sources say the EU's AI data-center plan is stalled by delays and funding shortfalls."
-    },
-    {
-      "id": "mkt:019e8942-a8be-7779-8aab-7364805484d7",
-      "time": "2026-06-03 00:55:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says President Putin held a phone call with Belarusian President Lukashenko to discuss further development of bilateral alliance cooperation."
-    },
-    {
-      "id": "4913490",
-      "time": "2026-06-03 00:54:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長表示，過去18個月公司新增的資料中心容量，超過了Azure成立頭十年的新增總量。"
     }
   ]
 }
