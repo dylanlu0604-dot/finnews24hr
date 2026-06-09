@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-09 12:18:15",
+  "updated": "2026-06-09 12:22:23",
   "count": 19179,
   "items": [
+    {
+      "id": "4925169",
+      "time": "2026-06-09 12:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經股價平均指數漲幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019eaa9b-9bad-7eec-b848-5f5081835fe2",
+      "time": "2026-06-09 12:19:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 2%."
+    },
+    {
+      "id": "4925167",
+      "time": "2026-06-09 12:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國石油投資者要求就董事長遭罷免一事給出明確說法】據英國《金融時報》報道，英國石油公司投資者要求就董事長遭解職一事作出說明。\n該報週二報道稱，英國石油多位主要投資者及前高管表示，他們仍不清楚前董事長艾伯特・馬尼福德離職的具體緣由。"
+    },
+    {
+      "id": "4925166",
+      "time": "2026-06-09 12:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐塔吉克大使館提醒我在塔公民避免前往塔南部邊境地區工作及旅行】 當前，塔吉克南部邊境地區安全域性勢依然複雜，加之自5月份以來極端天氣頻發，給當地民眾及我在該地區公民人身安全造成威脅。鑑此，駐塔使館提醒在塔中國公民，避免前往塔南部邊境地區工作及旅行，確保生命和財產安全。"
+    },
     {
       "id": "4925165",
       "time": "2026-06-09 12:16:26",
@@ -176880,39 +176916,6 @@
         "MKT News"
       ],
       "text": "【Pentagon reclassifies press office as restricted area, bars journalists】Pentagon officials on June 1 said the press office has been reclassified as a restricted area and is off-limits to journalists, a change first reported by unnamed sources and confirmed by Acting Defense Department press secretary Joel Valdes on social media. Valdes said speechwriters for Defense Secretary Hegseth work in the office, frequently handle classified material and use the military's secure networks, making the space sensitive and subject to exclusion. The press office had previously been open to reporters without Defense Department escorts and hosted briefings; the change may reduce reporters' opportunities to interview Pentagon spokespeople."
-    },
-    {
-      "id": "4911859",
-      "time": "2026-06-02 12:21:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳：N1X產品家族持續擴容 N3X已啟動規劃】英偉達執行長黃仁勳2日在全球記者會上表態，N1X是一款長線佈局的平臺架構，在N1X之外，後續規劃有N2X，N3X也已投入研發，同時還會推出規格更小的N1版本；英偉達將持續擴充該產品線佈局，依託完備的軟體生態最佳化AIPC使用體驗。黃仁勳介紹，N1X定名中的X代表衍生升級款，對應精簡規格的基礎版N1；繼N1X之後會迭代N2X，N3X現已進入規劃階段，品牌會不斷拓寬這套架構的適用場景，長期深耕相關產品與平臺研發。對英偉達來說，該系列並非單一硬體產品，而是整套全棧軟體與算力平臺。"
-    },
-    {
-      "id": "4911858",
-      "time": "2026-06-02 12:20:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏明電子：公司MLCC產品主要面向高可靠航空航天電子領域】宏明電子(301682)6月2日在互動平臺表示，公司MLCC產品主要是面向高可靠航空航天電子領域，是國內防務MLCC的主要供應商，相關產品的銷售規模位居行業前列。公司將持續鞏固在高可靠領域的傳統優勢，並積極拓展新應用場景，努力保持並提升市場份額。"
-    },
-    {
-      "id": "4911857",
-      "time": "2026-06-02 12:19:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將英飛凌目標股價從75歐元上調至96歐元。"
-    },
-    {
-      "id": "4911856",
-      "time": "2026-06-02 12:18:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4540美元/盎司，日內漲0.77%。"
     }
   ]
 }
