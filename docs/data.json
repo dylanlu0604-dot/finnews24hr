@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-09 22:39:37",
-  "count": 18903,
+  "updated": "2026-06-09 22:43:46",
+  "count": 18898,
   "items": [
+    {
+      "id": "4926455",
+      "time": "2026-06-09 22:42:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守66美元/盎司，日內跌3.15%。"
+    },
+    {
+      "id": "4926454",
+      "time": "2026-06-09 22:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油：選舉戴厚良為董事長】中國石油(601857.SH)公告稱，公司第十屆董事會第一次會議審議透過選舉戴厚良為董事長、周心懷為副董事長，並聘任任立新為總裁，張道偉、宋大勇為高階副總裁，王華為董事會秘書及財務總監，楊衛勝為副總裁、總工程師，楊立強、戴琴榮、王國鋒為副總裁，江同文為總地質師，沈復孝為安全總監，趙穎為總法律顧問。"
+    },
+    {
+      "id": "4926453",
+      "time": "2026-06-09 22:42:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報66.10美元/盎司。"
+    },
+    {
+      "id": "mkt:019eacd4-ebd4-7dd1-a396-c7c484a2764c",
+      "time": "2026-06-09 22:41:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US energy secretary says vessel traffic through Strait of Hormuz rising sharply】US Energy Secretary Wright said on Tuesday that, with the conflict with Iran ongoing, vessel traffic through the Strait of Hormuz is rising sharply. Speaking at an Atlantic Council meeting, he added that energy supplies would take several months to return to normal after the war ends."
+    },
+    {
+      "id": "4926451",
+      "time": "2026-06-09 22:40:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行執行長：儘管中東局勢衝突，我仍對併購儲備專案前景持樂觀態度。"
+    },
+    {
+      "id": "4926450",
+      "time": "2026-06-09 22:39:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報15930.00元。"
+    },
     {
       "id": "mkt:019eacd0-2d01-7dd1-a396-bc633f8a2231",
       "time": "2026-06-09 22:36:24",
@@ -174150,108 +174206,6 @@
         "國際"
       ],
       "text": "【大量精煉銅或流入美國】6月伊始，紐約銅與倫敦銅期貨延續上行趨勢。據路透社報道，由於美國可能在6月底決定是否對精煉銅加徵進口關稅，引發市場緊張情緒，美國貿易商開始提前備貨，疊加市場套利操作再度升溫等因素，推動全球銅市進入高位博弈階段。今天（2日），國際銅價繼續走高。資料顯示，截至6月1日收盤，紐約商品交易所銅期貨主力合約價格在近一個月的時間裡累計漲幅達10%，同一時期內，倫敦金屬交易所三個月銅期貨價格的累計漲幅約為6.5%。（央視財經）"
-    },
-    {
-      "id": "4913273",
-      "time": "2026-06-02 22:43:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利警告稱，並非所有人工智慧概念股都會成為贏家。"
-    },
-    {
-      "id": "4913271",
-      "time": "2026-06-02 22:42:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國政府正考慮對數十億美元聯邦撥款設定政治測試。"
-    },
-    {
-      "id": "4913270",
-      "time": "2026-06-02 22:41:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：月度國內生產總值（GDP）資料的可靠性存疑。"
-    },
-    {
-      "id": "mkt:019e88c8-aa71-7aa9-a70f-f769f0aae2ed",
-      "time": "2026-06-02 22:41:48",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said the reliability of monthly GDP data is questionable."
-    },
-    {
-      "id": "mkt:019e88c8-679f-7aa9-a70f-e9d7ec777004",
-      "time": "2026-06-02 22:41:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "【Unitree says NVIDIA-backed H2+ humanoid robot to debut in H2】NVIDIA CEO Jensen Huang announced a collaboration with Unitree Robotics on a humanoid reference design named H2+. At a June 2 media visit to its Hangzhou facility, Unitree said H2+ is built on NVIDIA’s compute platform, delivers higher compute performance than prior models and will debut in H2 this year."
-    },
-    {
-      "id": "4913269",
-      "time": "2026-06-02 22:41:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柳州螺螄粉全球圈粉 地方特產帶飛千億量級產業鏈】2025年，柳州螺螄粉全產業鏈營收近千億元，預包裝產品遠銷全球40多個國家和地區。從風味獨特的街邊小吃，蛻變為標準化生產、規模化運營的工業化美食，柳州螺螄粉產業在高速擴容的同時，行業同質化競爭加劇，不少企業陷入增長瓶頸。轉型生產冰鮮螺螄粉，成為破局關鍵。為匹配冰鮮螺螄粉“多物料一體化”包裝需求，裝置服務商定製開發產線，包裝環節效率提升了70%。吉林是我國野山參核心產區，2025年人參產業綜合產值突破1000億元。過去，參農靠天吃飯，種質雜亂、產量不穩、品質參差不齊，好資源難以轉化為產業優勢。吉林農業大學團隊，深耕人參育種近30年，篩選保育優良品系。當地已培育審定32個人參優良品種，搭建“企業+合作社+參農”繁育聯盟，讓人參種植從“憑經驗”轉向“靠標準”。螺螄粉、野山參都是傳統的地方特色產業，如今，現代服務業為它們的發展注入了新能量。產業一線的實踐證明，服務業既能紓困破局、雪中送炭，也能提質增效、錦上添花。定製化、精細化的現代服務業，將助力全國各地大量的特色產業破局成長、行穩致遠。（央視財經）"
-    },
-    {
-      "id": "4913268",
-      "time": "2026-06-02 22:41:23",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【宇樹回應與英偉達合作機器人：下半年新產品亮相】日前，英偉達執行長黃仁勳宣佈，英偉達已與宇樹科技合作，推出新一代人形機器人參考設計“H2+”。6月2日，由國務院新聞辦公室組織的“外媒看中國”活動走進浙江杭州，中外媒體一同來到位於杭州市濱江區的宇樹科技進行採訪。圍繞前述廣泛關注的話題，宇樹科技工作人員表示，新的“H2+”機器人基於英偉達的算力平臺研發，會比之前機器人的算力水平更好，新產品將於今年下半年亮相。（新京報）"
-    },
-    {
-      "id": "mkt:019e88c8-19a8-7aa9-a70f-e3d692cbacc5",
-      "time": "2026-06-02 22:41:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bailey said the Bank of England places very low weight on preliminary employment data."
-    },
-    {
-      "id": "4913267",
-      "time": "2026-06-02 22:40:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行行長貝利：初值非農就業資料參考價值有限。"
-    },
-    {
-      "id": "mkt:019e88c7-ca9c-7aa9-a70f-d94fd79b7154",
-      "time": "2026-06-02 22:40:38",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Governor Bailey said the Labour Force Survey participation rate has returned to pre-pandemic levels."
-    },
-    {
-      "id": "mkt:019e88c7-1973-7aa9-a70f-d45bc7572d64",
-      "time": "2026-06-02 22:40:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The New York Times reports the US government is considering imposing political tests on billions of dollars in federal grants."
     }
   ]
 }
