@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-09 13:08:09",
-  "count": 19192,
+  "updated": "2026-06-09 13:12:12",
+  "count": 19196,
   "items": [
+    {
+      "id": "4925230",
+      "time": "2026-06-09 13:11:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "4925229",
+      "time": "2026-06-09 13:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "物流公司普洛斯據悉計劃今年出售約20億美元的資產。"
+    },
+    {
+      "id": "4925228",
+      "time": "2026-06-09 13:09:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紅星發展股價創新高】紅星發展漲2.39%，報54.09元/股，股價再創新高，總市值突破184.51億元，成交額達19.60億元。"
+    },
+    {
+      "id": "4925227",
+      "time": "2026-06-09 13:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "香料航空表示，目前正申請印度政府緊急信貸擔保計劃下的融資。"
+    },
+    {
+      "id": "4925226",
+      "time": "2026-06-09 13:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "香料航空表示，員工薪資正分批發放，目前大部分員工已收到3月份工資。"
+    },
+    {
+      "id": "4925225",
+      "time": "2026-06-09 13:08:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "媒體查閱的內部訊息顯示，印度香料航空公司自今年3月起便未向大量飛行員支付薪資。"
+    },
+    {
+      "id": "4925224",
+      "time": "2026-06-09 13:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電機板塊震盪走低，華瑞股份跌近14%】電機板塊震盪走低，華瑞股份跌近14%，三協電機、方正電機、晨光電機跟跌。"
+    },
+    {
+      "id": "mkt:019eaac7-9b7e-7eec-b849-235e517e8a21",
+      "time": "2026-06-09 13:07:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Chip stocks rebound after AI-driven selloff; South Korea's KOSPI jumps 8%】Memory-chip makers led a KOSPI rebound, with the index rising as much as 8% after sliding about 15% from its record high over three days. Samsung Electronics gained up to 9.1% and SK Hynix more than 14%. A prior AI-driven rally had pushed KOSPI year-to-date gains above 100% but collapsed on Monday, triggering circuit breakers and briefly halting trading. Leveraged ETFs magnified the move and intensified the sell-off. Samsung Securities analyst Lee Jongwook said volatility reflects market-structure changes rather than a cyclical directional shift, and advised maintaining positions or adding opportunistically after the liquidation."
+    },
     {
       "id": "4925223",
       "time": "2026-06-09 13:07:13",
@@ -176978,45 +177049,6 @@
         "國際"
       ],
       "text": "美國國防部官員6月1日宣佈，五角大樓新聞辦公室已改為保密區域，禁止媒體記者進入。(新華社)"
-    },
-    {
-      "id": "4911903",
-      "time": "2026-06-02 13:12:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超4%，現報5164.160點；恒生指數現漲1.715%。"
-    },
-    {
-      "id": "mkt:019e86be-f973-7dd4-a7a7-6a138168f6d4",
-      "time": "2026-06-02 13:12:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Russia says annual additions to gold and silver reserves exceed mining】Russia's Natural Resources Minister Alexander Kozlov said in an interview ahead of the St. Petersburg International Economic Forum that annual additions to the country's gold and silver reserves exceed annual mining output and that reserve replenishment fully covers extraction. Kozlov cited expert estimates putting 2025 gold production at about 480–485 tonnes and silver at 2,600–2,800 tonnes; 2026 gold at 480–500 tonnes and silver at 2,800–3,000 tonnes. The forum runs June 3–6."
-    },
-    {
-      "id": "4911902",
-      "time": "2026-06-02 13:10:50",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【文娛消費板塊下挫】文娛消費板塊領跌，下跌3.63%，其中金陵體育下跌12.91%，粵 傳 媒下跌10.02%，舒華體育下跌10.01%，中體產業、共創草坪、天娛數科跌超8%。"
-    },
-    {
-      "id": "4911901",
-      "time": "2026-06-02 13:10:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯稱揭穿外國情報機構在俄高官手機植入間諜軟體的行動】據塔斯社報道，俄羅斯聯邦安全域性稱，揭穿外國情報機構的一項大規模策劃行動，在俄羅斯高階官員的移動裝置上植入間諜軟體。俄羅斯聯邦安全域性稱，該軟體能夠提取資料、竊聽對話以及在裝置附近進行秘密音訊和影片監控。俄羅斯聯邦安全域性稱，外國情報機構在行動中利用了大型國際IT公司和行動通訊技術的能力。"
     }
   ]
 }
