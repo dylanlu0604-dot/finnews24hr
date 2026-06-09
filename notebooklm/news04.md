@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-10 00:58:00_
-_本檔包含 3829 則快訊，約 681113 字_
+_更新時間：2026-06-10 01:50:30_
+_本檔包含 3815 則快訊，約 681384 字_
+
+---
+
+### 2026-06-05 08:57:09  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Set to Post First Weekly Drop in 3 Weeks — Australian shares fell 38 points or 0.4% to 8,648 in early Friday trade, extending weakness from the prior session as U.S. equity futures softened after a sharp sell-off in Wall Street tech stocks overnight. Little progress in U.S.-Iran peace talks also weighed on investor sentiment. The local market is on track for its first weekly decline in three weeks, down about 1% so far, with caution building ahead of the Reserve Bank’s policy decision later this month. Meanwhile, recent data showed inflation remained elevated at 4.2% in April, above the 2–3% target, while Q1 GDP growth slowed markedly. Still, losses were offset by April trade data indicating a return to a surplus in Australia, lifted by an export recovery and weaker imports. Non-energy minerals, energy minerals, and consumer non-durables led sectoral weakness. Notable laggards included BHP Group (-2.3%), PLS Group (-3.0%), South32 Ltd. (-2.7%), and Evolution Mining (-2.0%). The four big banks also slipped between 0.5% and 0.9%.
+
+---
+
+### 2026-06-05 08:56:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【U.S. House passes Ukraine aid and Russia sanctions bill contrary to Trump policy】The U.S. House on Thursday passed a bipartisan bill providing new aid to Ukraine and imposing sanctions on Russia, contrary to Trump administration policy. The measure passed 226-195; 18 Republicans voted in favor and all but one Democrat supported it. The bill moves to the Senate, where Republican opposition makes passage more difficult. Even if approved by the Senate, it would require Trump’s signature to become law.
+
+---
+
+### 2026-06-05 08:55:41  #MKT News #Important #Market Regions #Emerging Markets #DXY #Impact bullish
+
+South Korean won fell to its weakest since March 2009, trading at 1,541.4 per U.S. dollar.
+
+---
+
+### 2026-06-05 08:55:20  #市場 #焦點
+
+韓元兌美元跌至2009年3月來新低，報1541.4。
+
+---
+
+### 2026-06-05 08:55:06  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, silver remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates.
+
+---
+
+### 2026-06-05 08:53:10  #公司 #市場
+
+【深圳華強：目前電子元器件產業景氣度高企 大部分元器件價格在上漲】深圳華強(000062)6月4日在機構調研時表示，目前電子元器件產業景氣度高企，是處於通脹期的產業之一，產業各環節（包括原材料、設計、晶圓代工和封測等）的價格都在上漲，大部分元器件的價格也在上漲。公司作為本土電子元器件分銷龍頭企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。公司將充分把握產業景氣度高企的機遇，推動業務持續高質量發展。
+
+---
+
+### 2026-06-05 08:52:34  #市場 #國際
+
+10年期日本政府債券收益率下跌1.5個基點，至2.655%。
+
+---
+
+### 2026-06-05 08:51:23  #公司 #國際
+
+【市場分析：加密貨幣ETF熱潮對投資者而言存在隱患】過去兩年半里，加密貨幣ETF的繁榮為投資者提供了更多購買數字資產的途徑。但選擇變多未必總是好事。投資者面臨的問題在於，許多新基金不僅收費較高，而且有些基金未能吸引到足夠資金的話還面臨清盤風險。美國監管機構於2024年1月批准投資於單一加密貨幣的現貨加密貨幣基金，自那以來，資產管理公司已推出130只基金，並吸引了數百億美元資產。Morningstar Direct的資料顯示，資產管理公司正競相複製這一成功，目前有155只數字資產ETF正在籌備中。但投資者的需求依然集中在貝萊德和富達投資等主要發行商推出的低成本比特幣和以太幣產品上，導致許多較新的產品難以吸引到可觀的資產或達到生存門檻。分析師警告稱，多達三分之一的加密貨幣ETF可能會在兩年內關閉，給投資者帶來意外的麻煩。基金清盤會迫使投資者平倉，這可能會觸發資本利得稅，並可能促使他們在往往動盪的市場環境中尋找替代敞口。“當一隻基金關閉時，就會被清盤，”FactSet全球基金分析總監伊麗莎白.卡什納(Elisabeth Kashner)表示。“基金經理會賣出頭寸，將所有資產變現，然後這些現金會以類似於派發股息的方式發放給客戶。”
+
+---
+
+### 2026-06-05 08:50:31  #公司
+
+【藥明生物：新加坡CRDMO中心模組化生物製劑生產廠主體結構封頂】藥明生物宣佈已完成新加坡CRDMO中心模組化生物製劑生產廠的主體結構封頂。該製劑廠按照國際市場最新、最嚴格標準設計建造，建成後將成為公司核心製劑生產基地，預計每年可生產約1億支預充針和西林瓶。
+
+---
+
+### 2026-06-05 08:50:18  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Extend Decline on Tech Weakness — The Nikkei 225 Index fell 1.5% to below 66,500 on Friday, extending the previous session’s losses as technology and artificial intelligence-related stocks continued to face selling pressure. Sentiment in the sector remained weak after a disappointing outlook from Broadcom reignited concerns about the AI trade. Investors also remained cautious amid the fragile ceasefire between the US and Iran and reports of stalled negotiations, despite President Donald Trump’s assurances that discussions are in their final stages. On the domestic front, data showed Japan’s real wages rose for a fourth consecutive month, strengthening expectations that the Bank of Japan could raise interest rates later this month. Technology stocks led the decline, with losses from Kioxia Holdings (-2.1%), SoftBank Group (-1%), Tokyo Electron (-5.6%), Murata Manufacturing (-2.2%) and Advantest (-4.4%).
+
+---
+
+### 2026-06-05 08:49:16  #公司
+
+【小鵬機器人核心產品一號位施曉鑫6月初主動離職】小鵬機器人產品規劃高階總監施曉鑫已於6月初正式離職。從入職到離場，施曉鑫在小鵬機器人完整履職1675天，橫跨鵬行智慧整合、團隊併入小鵬集團、IRON人形機器人從原型迭代至量產籌備全週期，是小鵬人形產品體系從0到1搭建的標杆元老。關於施曉鑫的下一步去向，目前尚不明確。多位信源透露，施曉鑫現階段無求職意向。知情人士稱，施曉鑫已婉拒多家頭部機器人企業和造車新勢力的邀約，短期暫停職場擇業，優先休整。(36氪)
+
+---
+
+### 2026-06-05 08:48:33  #其他
+
+【高階光棒價格漲幅近550% 擁有光棒產能的企業或成本輪行情最大受益方】光纖預製棒也稱“光棒”，是控制光纖效能的原始棒體材料。業內人士表示，光纖預製棒作為光纜產品的上游材料，佔行業利潤分配的70%。目前最搶手的光棒產品是“A2類光纖預製棒”，這類光棒拉出來的光纖抗彎曲能力強，在AI算力基建與入戶通訊場景中廣泛應用。資料顯示，A2類預製棒報價由2025年初的22元至30元/等效芯公里漲至2026年的160元/等效芯公里，漲幅近550%。
+
+---
+
+### 2026-06-05 08:48:22  #其他
+
+【中天科技與隆基綠能戰略合作簽約】記者獲悉，6月3日，SNEC展會現場，中天科技與隆基綠能舉行戰略合作簽約儀式。根據協議，雙方將推動儲能板塊整合業務及光伏板塊封裝膠膜產品領域的雙向賦能，攜手開拓新能源產業融合共贏的新路徑。
+
+---
+
+### 2026-06-05 08:48:20  #國際
+
+【以軍稱襲擊加沙北部哈馬斯安全機構成員】當地時間4日，以色列國防軍與國家安全總局（辛貝特）發表聯合宣告稱，以軍對加沙地帶北部發動空襲，打死多名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）安全機構的高階成員。以方稱，這些人員近期正試圖重建哈馬斯並策劃針對以色列的襲擊，此次打擊旨在消除“迫在眉睫的威脅”。對此，哈馬斯方面暫未作出回應。
+
+---
+
+### 2026-06-05 08:48:02  #公司 #市場 #國際
+
+【韓國槓桿ETF面臨下行超跌風險】韓國綜合股價指數（KOSPI）週五大跌不單是博通帶動科技股普跌所致，還源於單一標的槓桿 ETF 集中去槓桿。人工智慧熱潮疊加高頻寬儲存晶片緊缺，令韓國成為年內全球表現最優的主要股票市場。但散戶投資狂熱催生了規模龐大的個股槓桿 ETF。這類產品的資金流動或將形成負反饋迴圈，一旦科技股上漲行情止步，會加劇市場回撥幅度。相較走勢穩健的美股，韓國股市波動率已逼近歷史高位。波動率具備均值迴歸屬性，當前這種單邊上行走勢實屬罕見。核心誘因之一便是掛鉤韓綜指、三星電子與 SK 海力士的槓桿 ETF 規模激增。此類產品本身就容易放大波動（因其需要動用兩倍或三倍名義本金跟隨股價變動調倉），同時其風控避險需求也成為推升波動的關鍵因素。邏輯十分直白：若韓綜指暴跌 50%，兩倍槓桿韓綜指 ETF 淨值將直接歸零。因此槓桿 ETF 會持續對沖暴跌風險、增持波動率頭寸，進而抬升韓國全市場波動率水平。
+
+---
+
+### 2026-06-05 08:47:38  #MKT News
+
+【Jane Street plans proprietary data center】Jane Street, the Wall Street quantitative trading firm, plans to build a proprietary data center and is seeking financing. The firm is in early-stage talks with technology, cryptocurrency and financial-sector firms; capacity and site have not been decided, sources said.
+
+---
+
+### 2026-06-05 08:47:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Shanghai and Shenzhen margin balances rise CNY6.566 bln】As of June 4, Shanghai Stock Exchange margin financing stood at CNY1.476743 tln, up CNY2.499 bln from the previous trading day; Shenzhen Stock Exchange at CNY1.414148 tln, up CNY4.067 bln. Combined margin balances were CNY2.890891 tln, up CNY6.566 bln.
+
+---
+
+### 2026-06-05 08:47:17  #其他
+
+【兩市融資餘額增加65.66億元】截至6月4日，上交所融資餘額報14767.43億元，較前一交易日增加24.99億元；深交所融資餘額報14141.48億元，較前一交易日增加40.67億元；兩市合計28908.91億元，較前一交易日增加65.66億元。
+
+---
+
+### 2026-06-05 08:46:10  #公司
+
+【國產燃機訂單取得突破 產能嚴重不足 概念股年內整體衝高回落】週四（6月4日），燃氣輪機概念股突然爆發。據悉，燃氣輪機概念股爆發，主要受大訂單公佈影響，印證產業的高度景氣。6月4日，國內知名燃氣輪機廠商中船廣瀚燃機（簡稱“廣瀚燃機”）宣佈，其國產型號燃氣輪機訂單突破100臺。東方證券表示，本次以廣瀚燃機為代表的訂單突破，是我國中小型燃氣輪機從樣機研製到小批次試用，再到規模化商業化量產的重要里程碑節點。在嚴重供不應求的局面下，燃氣輪機價格看漲。據證券時報·資料寶統計，燃氣輪機相關概念股有近20只，年內整體呈現衝高回落走勢，傑瑞股份、中國動力、濰柴動力等表現較好。
+
+---
+
+### 2026-06-05 08:45:08  #其他
+
+【開源後端平臺Supabase融資5億美元，投後估值105億美元】當地時間6月4日，開源後端平臺（BaaS）Supabase宣佈完成5億美元F輪融資，投後估值達105億美元。本輪融資由GIC領投，其他投資者包括Accel、Y Combinator、Craft、Felicis、Coatue和金融科技創企Stripe。
+
+---
+
+### 2026-06-05 08:44:28  #國際
+
+【澤連斯基提議會晤 普京重申願意和談】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。澤連斯基表示，烏俄領導人在俄首都莫斯科或烏首都基輔會晤都不合適，但可以在瑞士、土耳其或阿拉伯國家會晤，這些國家有接待外國領導人“解決戰爭與和平問題”的傳統。俄總統新聞秘書佩斯科夫回應說，克里姆林宮方面已經看到澤連斯基的公開信，稍後會向普京彙報。他表示，澤連斯基如果想要談判，隨時可以來莫斯科談。當天稍早時候，普京在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京說，俄羅斯同意按照安克雷奇會晤達成的方案，在烏克蘭問題上作出妥協，但前提是烏克蘭也準備這樣做。另據俄方訊息稱，澤連斯基釋出致普京公開信後，瑞士、土耳其訊息人士均透露，這兩國都願意舉辦俄烏領導人會晤。（央視）
+
+---
+
+### 2026-06-05 08:42:19  #MKT News #Important #Market Themes #AI Revolution
+
+【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs.
+
+---
+
+### 2026-06-05 08:41:08  #觀點
+
+【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。
+
+---
+
+### 2026-06-05 08:38:23  #市場 #國際
+
+日本財務省官員：5月外匯儲備降幅為2000年有統計資料以來最大。注：在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。
+
+---
+
+### 2026-06-05 08:37:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's Ministry of Finance official said May's decline in foreign exchange reserves was the largest since 2000.
+
+---
+
+### 2026-06-05 08:37:22  #觀點
+
+【中信證券：預計AI相關商品將成為我國外貿增長的新引擎】中信證券研報認為，展望2026年全年，根據WTO最新發布的《全球貿易展望（3月版）》，受益於AI相關的資本開支快速增長，相關商品出口需求也實現高增，其上修了2026年全球貿易量同比增速預測，讀數從0.5%上調至1.9%。基於此，我們預計AI相關商品將成為我國外貿增長的新引擎，疊加傳統能源價格中樞抬升及其驅動的綠色產品增量需求，我國2026年的進出口均有望維持高景氣，預計全年出口和進口同比增速或達13.2%和15.5%左右，對應的貿易順差規模仍有望保持較高規模。
+
+---
+
+### 2026-06-05 08:35:53  #國際
+
+【特朗普稱對伊朗無論如何都會贏】美國總統特朗普當地時間6月4日在白宮對媒體表示，美國無需同伊朗達成協議，就能透過派兵進入伊朗獲取其濃縮鈾庫存，但他“不喜歡這個主意”。特朗普表示，在對伊朗問題上，他覺得目前“做得很好”。特朗普強調，“美國終將會贏，無論如何都會贏——要麼在紙面（協議）上贏，要麼在軍事上贏。”（CCTV國際時訊）
+
+---
+
+### 2026-06-05 08:35:19  #公司 #國際
+
+【谷歌將在美國得州新建資料中心和能源設施】當地時間6月4日，谷歌和Intersect宣佈將在美國得州建設Meitner能源中心，該中心將包括一座新的資料中心以及配套的能源發電設施。
+
+---
+
+### 2026-06-05 08:34:46  #國際
+
+【普京稱待衝突結束俄烏應說謝天謝地 】當地時間4日，俄羅斯總統普京在聖彼得堡會見全球主要通訊社負責人時，就俄烏衝突作出多項表態。談及衝突結束時俄烏應對彼此說什麼時，普京表示，至少應該說一句：“謝天謝地，一切都結束了”。
 
 ---
 
@@ -22832,263 +23006,5 @@ Goldman president Waldron said the Fed under Wosh's leadership would focus prima
 ### 2026-06-04 03:17:58  #MKT News #NVDA.O #Impact bullish #MSFT.O #Nasdaq100
 
 The Trump administration proposed exempting "trusted applicants" from stringent national-security license reviews required before releasing frontier AI models, in exchange for ongoing oversight and monitoring.
-
----
-
-### 2026-06-04 03:17:31  #MKT News
-
-【Cayetano denies he was removed as Philippine Senate president】On the 3rd, Alan Cayetano said he was not "legally removed" as Philippine Senate president. He said electing or removing Senate officers requires participation by 13 of the 24 senators, and that he has not resigned, been legally removed, or become incapacitated.
-
----
-
-### 2026-06-04 03:17:25  #觀點
-
-高盛總裁約翰·沃爾德倫：今年私募股權作為併購交易推手的勢頭有所放緩，市場承接大型 IPO 的消化能力十分充足。
-
----
-
-### 2026-06-04 03:14:20  #國際
-
-特朗普政府擬對“可信申請人”免除嚴格的國家安全層面許可證審查，前提是申請人同意接受持續監督與管控。
-
----
-
-### 2026-06-04 03:14:15  #MKT News #WTI #Impact mixed #Brent
-
-CNN reports monetary compensation has become the key sticking point in the Iran agreement.
-
----
-
-### 2026-06-04 03:10:27  #MKT News #Market Themes #The Trump Trade
-
-Trump said Vice President Pence and Republicans are doing an excellent job in states cracking down on fraud, that billions of dollars are being uncovered, and that if all funds are found they could balance the budget and reduce taxes.
-
----
-
-### 2026-06-04 03:10:18  #國際
-
-市場資訊：資金賠付是伊朗相關協議談判的核心癥結。
-
----
-
-### 2026-06-04 03:07:39  #市場 #央行 #國際
-
-【美聯儲褐皮書：就業總體保持穩定 許多地區通脹繼續上升】美聯儲表示，近幾周美國就業總體保持穩定，但受中東戰爭推高能源價格影響，全國諸多轄區通脹持續上升。根據美聯儲週三釋出的褐皮書調查，在12個聯儲轄區中，有10個轄區的經濟活動以輕微至溫和速度增長。美聯儲表示：“各轄區指出，與中東衝突相關的能源成本上升是通脹壓力的主要來源，並進一步傳導至航運、包裝、食品雜貨和化肥等領域。”這份報告基於12家地區聯儲銀行截至5月27日收集的資訊，由堪薩斯城聯儲彙總編制。伊朗戰爭爆發後能源價格大幅上漲引發市場對通脹持續高企的擔憂，也促使越來越多政策制定者主張保留包括進一步收緊貨幣政策在內的所有選項。不過，許多官員仍認為當前利率水平適當。
-
----
-
-### 2026-06-04 03:04:52  #焦點 #國際
-
-伊朗國家媒體稱，伊朗對一艘靠近伊朗阿曼灣領海、載有“指揮控制中心”的美國軍艦發動了打擊。
-
----
-
-### 2026-06-04 03:04:46  #市場
-
-霍尼韋爾下跌3.7%。
-
----
-
-### 2026-06-04 03:04:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said Iran used drones to attack a civilian airport, calling the strike deliberate, calculated and unjustified.
-
----
-
-### 2026-06-04 03:03:56  #國際
-
-特朗普：若所有欺詐款項悉數查實，便有望實現預算平衡。
-
----
-
-### 2026-06-04 03:03:46  #國際
-
-特朗普：若查實所有舞弊問題，將有望實施減稅。
-
----
-
-### 2026-06-04 03:02:30  #其他
-
-【奧地利等5國當選聯合國安理會非常任理事國】當地時間3日，聯合國大會選舉奧地利、吉爾吉斯斯坦、葡萄牙、千里達及托巴哥、辛巴威為安理會非常任理事國。其中，吉爾吉斯斯坦是首次當選。（央視新聞）
-
----
-
-### 2026-06-04 03:01:55  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said Iran's claim that it did not strike the passenger terminal at Kuwait International Airport and that damage was caused by U.S. missile interceptors is categorically false.
-
----
-
-### 2026-06-04 03:01:32  #國際
-
-美國中央司令部否認科威特機場受損系美國導彈攔截器所致。
-
----
-
-### 2026-06-04 03:00:42  #焦點 #國際
-
-伊朗軍方宣稱已打擊一處美軍指揮控制中心。
-
----
-
-### 2026-06-04 03:00:36  #公司
-
-霍尼韋爾首席財務官表示，在公司2026至2028年的投資週期中，預計盈利不會呈現完全線性的增長態勢。
-
----
-
-### 2026-06-04 03:00:02  #市場
-
-恒指期貨夜盤收跌0.71%，報25309.69點，低水323.52點。
-
----
-
-### 2026-06-04 02:53:54  #MKT News
-
-【IRGC denies firing on Kuwait airport】On the 3rd (local time), an Islamic Revolutionary Guard Corps spokesman said IRGC forces did not fire at Kuwait Airport. He said damage to the airport terminal was caused by a malfunction of a US Patriot air-defence system, with a Patriot missile falling onto the terminal after failing to intercept an Iranian missile.
-
----
-
-### 2026-06-04 02:53:10  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-【Guo Mingchi: Apple cuts Vision Pro from glasses roadmap, shifts resources to mass‑market smart glasses】Tianfeng analyst Guo Mingchi said John Ternus, expected to become Apple’s next CEO, has approved scaling back Apple’s glasses roadmap—removing the Vision Pro line and reallocating resources to smart‑glasses with broader consumer appeal. Supply‑chain checks show AR/XR smart glasses with displays using waveguide optics delayed to 2029; non‑display AI glasses (Ray‑Ban Meta‑style) remain on track for 2027.
-
----
-
-### 2026-06-04 02:50:09  #其他
-
-橡樹資本高管Christina Lee：私人信用行業現在面臨壓力測試。一旦喪失（投資者的）信任，就再難贏回來。（彭博電視）
-
----
-
-### 2026-06-04 02:45:58  #MKT News #Commodities #Energy #DXY #Impact bullish #WTI #EURUSD #Impact bearish
-
-【Fed's Beige: Prices rising at moderate-to-strong pace; Middle East conflict energy costs cited as primary driver】Most Fed districts reported inflation at a moderate-to-strong pace, with readings higher than in the prior report. Energy costs tied to the Middle East conflict were cited as the main inflation driver, spilling into shipping, packaging, grocery and fertilizer. Non-labor input costs continue to rise faster than selling prices, prompting broader concerns about margin compression; pass-through ability is uneven, especially among consumer-facing firms. Firms reported responses including supply-chain optimization, product adjustments, reduced supply and temporary absorption of higher costs to sustain demand.
-
----
-
-### 2026-06-04 02:45:52  #國際
-
-【伊朗革命衛隊否認向科威特機場開火】當地時間3日，伊朗伊斯蘭革命衛隊發言人表示，其軍隊並未向科威特機場這一目標開火。發言人稱，科威特機場航站樓損毀系美國“愛國者”防空導彈系統故障所致，該系統發射的導彈在攔截伊朗導彈失敗後誤落至該航站樓。科威特外交部3日發表宣告說，科威特國際機場等多處民用設施當天遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷。科威特一度暫停該國空中交通並關閉領空。（央視）
-
----
-
-### 2026-06-04 02:42:44  #市場 #國際
-
-【Vanguard旗下VOO資產規模突破1萬億美元 重新整理ETF行業里程碑】投資者逢低買入美國股票的興趣似乎永無止境，推動Vanguard Group追蹤標普500指數的ETF資產規模突破1萬億美元，在同類基金中率先達到曾被認為對ETF行業而言難以想象的里程碑。資料顯示，在有資料可查的最近一個交易日，Vanguard標普500 ETF（股票程式碼：VOO）獲得17億美元資金流入，推動其資產規模升至1萬億美元以上。這意味著已經是全球最大的ETF的VOO如今成為首隻、也是唯一一隻跨過1萬億美元門檻的ETF，而全球只有少數開放式基金達到過這個水平。推動其資產持續攀升的是一種異常持久的逢低買入心態，讓資金在戰爭、關稅驚嚇和經濟增長擔憂期間仍持續流入美國股市。
-
----
-
-### 2026-06-04 02:42:44  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-ISRAELI MILITARY: Sirens sounded in Zarit after reports of "enemy aircraft penetration".
-
----
-
-### 2026-06-04 02:42:24  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-The Israeli Defense Forces (IDF) said on Tuesday it struck southern Gaza, killing Palestinian Islamic Jihad rocket-launch cell leader Ahmed Abu Mughaysib. The IDF said strikes in central Gaza hit several Hamas militants; one was killed and others were hit.
-
----
-
-### 2026-06-04 02:42:00  #國際
-
-以色列軍方通報：扎裡特地區響起防空警報，緣由為發現敵對飛行器入侵空域。
-
----
-
-### 2026-06-04 02:41:41  #公司
-
-【郭明錤：蘋果眼鏡路線圖生變 Vision Pro後續版本被砍】北京時間週四凌晨，知名科技分析師郭明錤發帖稱，即將擔任蘋果下一任CEO的約翰·特努斯已經批准縮減蘋果眼鏡的開發路線圖。郭明錤還表示，最新的供應鏈調查顯示，配備光學波導顯示屏的蘋果AR/XR智慧眼鏡裝置已經推遲到2029年。對於Vision Pro產品線被移除的結局，郭明錤直言這是正確的決定，蘋果應當把資源轉向具有更廣大消費潛力的AI眼鏡品類。
-
----
-
-### 2026-06-04 02:41:25  #Trading Economics #Economy #Brazil #Balance of Trade #Importance 1
-
-Brazil's Trade Surplus Beats Forecasts — Brazil’s trade surplus widened to $7.82 billion in May 2026, up 10.8% from a year earlier and above market expectations of $7.65 billion. Exports rose 6.6% year-on-year to $31.90 billion, driven by stronger shipments from agriculture (9.8%) and manufacturing (9.0%), which more than offset a 1.9% decline in extractive industries. Higher exports of corn, soybeans, cotton, beef, fuel oils, and gold supported the increase, while shipments of coffee, iron ore, crude oil, sugar, and cellulose fell. Imports increased 5.3% to $24.08 billion, mainly due to a 6.3% rise in manufacturing purchases, led by fuel oils, semiconductors, and passenger vehicles. Trade with China remained strong, with exports rising 9.5% and imports surging 24.2%, while exports to the EU increased 8.8%. In contrast, exports to the US fell 14.0% and shipments to Argentina dropped 21.7%. In January-May, exports rose 8.7% and imports increased 3.2% from a year earlier.
-
----
-
-### 2026-06-04 02:40:29  #其他
-
-巴西政府：保障體面勞動條件這一議題正遭歪曲，被用來為單邊貿易保護措施尋找藉口。
-
----
-
-### 2026-06-04 02:37:28  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
-
-Brazil's government said in a statement it strongly opposes recent U.S. proposals for tariffs.
-
----
-
-### 2026-06-04 02:36:54  #MKT News
-
-Tasnim news agency reported Iran's foreign minister said return to the negotiating table is conditional on guarantees of Iran's national rights, an end to the war in Lebanon and a de‑escalation of regional tensions.
-
----
-
-### 2026-06-04 02:36:51  #公司 #觀點
-
-高盛替代架構集團（AOG）全球主管Christina Minnis：在驅動市場方面，AI投資的繁榮是“根本性的、一代人的”現象。
-
----
-
-### 2026-06-04 02:36:12  #宏觀 #國際
-
-巴西政府發表宣告，對美國擬出臺的涉強迫勞動相關關稅舉措深表異議。
-
----
-
-### 2026-06-04 02:35:55  #MKT News #Commodities #Precious Metals
-
-Spot palladium fell as much as 4.00% intraday, trading at $1,312.90/oz.
-
----
-
-### 2026-06-04 02:35:44  #MKT News
-
-According to Lebanese TV channel Al-Mayadeen, Iran's foreign minister said contacts with the United States have not been severed, but negotiations have made no progress.
-
----
-
-### 2026-06-04 02:34:14  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bearish #Copper #Impact bullish #S&P500
-
-【Fed's Beige Book: Employment Essentially Flat; Manufacturing Hiring Strong in Several Districts】Across the Fed's 12 districts, employment was essentially unchanged in 11 districts and slightly higher in one. Several districts reported the strongest hiring in manufacturing, driven by defense-related work and rising data-center demand. Wage growth remained modest-to-moderate and broadly in line with inflation, though districts said they are making more frequent wage and cost-of-living adjustments to offset rising fuel and other household costs. Most districts described cautious hiring and cautious layoffs; workers are increasingly reluctant to change jobs amid economic uncertainty, so hiring is concentrated on critical roles and replacing turnover. Demand in professional services was mixed, reflecting technology and operational shifts.
-
----
-
-### 2026-06-04 02:34:10  #焦點 #國際
-
-據塔斯尼姆通訊社：伊朗外長稱伊美談判暫無實質性進展。
-
----
-
-### 2026-06-04 02:32:52  #其他
-
-【玻利維亞新防長上任 強調恢復秩序】玻利維亞總統帕斯3日在該國行政首都拉巴斯舉行儀式，任命埃內斯托·胡斯蒂尼亞諾為新任國防部長，接替2日辭職的馬塞洛·薩利納斯。此次國防部長更換正值玻利維亞持續面臨社會抗議和道路封鎖之際。據當地媒體報道，抗議活動已持續超30天，全國仍有上百處封鎖點，部分地區物資運輸和民眾出行受到影響。（新華社）
-
----
-
-### 2026-06-04 02:31:17  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session main contracts close】At the 02:30 close, the SHFE main gold contract fell 0.74% to 973 yuan/gram, the SHFE main silver contract fell 2.24% to 17,795 yuan/kg, and the SC crude main contract rose 1.16% to 611 yuan/barrel.
-
----
-
-### 2026-06-04 02:31:14  #市場
-
-WTI 7月原油期貨收漲2.26美元，漲幅2.41%，報96.02美元/桶。NYMEX 7月天然氣期貨收報3.2140美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.1316美元/加侖，NYMEX 7月取暖油期貨收報3.8481美元/加侖。
-
----
-
-### 2026-06-04 02:30:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 0.55% to 970.59 yuan/gram at the close of the June 3 evening session; silver T+D fell 1.32% to 17,783.0 yuan/kg.
-
----
-
-### 2026-06-04 02:30:29  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
-
-【Fed's Beige: Consumer spending uneven across districts】Fed's Beige reports 10 of 12 districts saw slow-to-moderate economic growth, one showed slight decline and one was unchanged. Consumer spending is uneven; rising cost pressures have widened differences across income groups—high-income households remain relatively resilient and less price-sensitive, middle-income households are “scrimping every penny before spending,” and low-income households face greater financial strain. Several districts reported higher credit-card use, softer retail sales and stronger demand for necessities. Auto dealers cited weaker new-car demand due to cost and fuel pressures, with increased purchases of used cars and hybrids. Manufacturing expanded at a moderate-to-strong pace in nine districts, with one district reporting a slight decline. Banking conditions are largely stable, but multiple districts reported rising delinquencies in mortgages, consumer and agricultural loans. Six-month business outlooks were little changed amid elevated uncertainty and signs of weaker consumer spending.
 
 ---
