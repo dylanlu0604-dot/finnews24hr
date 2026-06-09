@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-09 15:48:45",
-  "count": 19134,
+  "updated": "2026-06-09 15:52:54",
+  "count": 19130,
   "items": [
+    {
+      "id": "mkt:019eab5d-fb32-7bb0-a8d3-88e4b7b1b23a",
+      "time": "2026-06-09 15:52:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Institution: ECB to hike twice this year, cut twice in 1H next year】Apobank economist Bjorn Oel said in a note he expects the ECB to raise rates by 25bp this week and again in September, taking the deposit rate to 2.5%. Since March the euro-area inflation outlook has deteriorated markedly amid the Iran war and higher energy prices. Apobank expects those two hikes will be reversed, with the deposit rate cut in two steps from 2.5% to 2.0% in 1H 2027, citing an anticipated resolution of the US‑Iran conflict, an economic slowdown and inflation returning to the 2% target."
+    },
+    {
+      "id": "te:markets:557588",
+      "time": "2026-06-09 15:52:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX on Cautious Note — The DAX 40 was slightly lower around 24,550 on Tuesday, the lowest level since May 19, amid lingering geopolitical uncertainty. Iran and Israel temporarily halted their exchange of attacks following a request from President Trump, although both sides warned of harsher retaliation should the terms of the truce be violated. At the same time, caution prevailed ahead of the ECB's policy decision on Thursday, with the central bank expected to lift interest rates by 25 bps. Among the index's biggest decliners, Bayer dropped 1.7% and SAP shed 1.5%. Rheinmetall fell more than 1% after Morgan Stanley downgraded the European defense sector to \"Equal-Weight.\""
+    },
+    {
+      "id": "te:economy:557587",
+      "time": "2026-06-09 15:51:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Slovakia Trade Balance Swings to Surplus in April — Slovakia posted a trade surplus of EUR 76.0 million in April 2026, compared with a deficit of EUR 90.1 million in the corresponding month of the previous year, though below market expectations of a EUR 94.4 million surplus. Year-on-year, exports jumped 4.5% to EUR 9,476.9 million, driven largely by an almost 3% rise in shipments of machinery and transport equipment. Additionally, exports to the EU grew nearly 7%, while exports to non-EU countries declined by more than 3%. Meanwhile, imports rose 2.6% to EUR 9,400.9 million, mainly due to higher purchases of mineral fuels, lubricants and related materials, which increased by nearly 39%. Imports from the EU rose more than 7%, while those from non-EU countries fell by nearly 6%. Over the January–April 2026 period, the country’s trade surplus widened to EUR 760.5 million from EUR 354.2 million in the same period of 2025."
+    },
+    {
+      "id": "4925516",
+      "time": "2026-06-09 15:50:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化國際：高模型對位芳綸產品已實現光纖光纜領域全球TOP5客戶穩定供貨】中化國際在互動平臺表示，目前公司對位芳綸總產能8000噸/年，裝置保持高負荷執行，在安全防護、光纜增強等領域國內市佔率領先。目前技術已達到國際先進，高模型產品憑藉高模量和高尺寸穩定性的效能優勢，已實現光纖光纜領域全球TOP5客戶穩定供貨。"
+    },
+    {
+      "id": "4925515",
+      "time": "2026-06-09 15:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加沙地帶衛生部門：以軍非法扣押多名當地人道主義工作人員】當地時間9日，加沙地帶衛生部門發表宣告稱，以色列軍隊當天上午在加沙地帶主幹道薩拉赫丁公路上，扣押了7名正在執行人道主義救援任務的巴勒斯坦紅新月會救護車工作人員。宣告表示，其中5名醫護人員在接受以軍盤問後已經獲釋，但仍有2名救護車駕駛員處於被扣押狀態。宣告強烈譴責以軍針對醫療團隊的針對性行動及阻撓行為，強調此舉嚴重違反國際人道主義法，並破壞了為當地平民提供醫療和救護服務的努力。該部門呼籲立即釋放仍被扣押的救護人員。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eab5c-122d-7bb0-a8d3-81162990f7e2",
+      "time": "2026-06-09 15:49:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Quality Inspection Center helped SMEs cut costs by 2.887 bln yuan in 2025】In 2025 the National Quality Inspection Center cut costs for small and micro enterprises by 2.887 bln yuan through public technical services and waived testing fees, providing services to more than 700,000 firms over the year."
+    },
+    {
+      "id": "4925513",
+      "time": "2026-06-09 15:49:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐泰使館提醒免籤非無條件】近期，我館接到多位中國公民反映，稱入境泰國時因未能提供返程或前往第三國（地區）機票、酒店或住宿證明、足額資金證明等材料，被泰國移民部門拒絕入境，造成經濟損失和行程延誤。中國駐泰國使館提醒來泰中國公民，免籤不等於“無條件入境”。根據泰國有關法律法規，泰國移民官員有權對外國公民入境目的、停留安排及相關證明材料進行審查，並依法決定是否准予入境。即使符合免籤條件，如無法說明真實入境目的、無法提供相關證明材料，或存在異常入出境記錄、涉嫌非法務工等情況，仍可能被拒絕入境。為避免入境受阻，減少不必要損失，請來泰中國公民務必提前瞭解並遵守泰方有關規定，並做好以下準備：一、確保護照有效期充足。護照有效期通常應不少於6個月，並預留足夠空白簽證頁。二、提前準備返程或前往第三國（地區）機票。建議提前列印或儲存電子版行程單，以備移民官員查驗。三、提前預訂並備妥酒店或住宿證明。包括酒店訂單、租房資訊、邀請函及在泰聯絡人資訊等，並確保相關資訊真實完整。"
+    },
+    {
+      "id": "te:markets:557586",
+      "time": "2026-06-09 15:49:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 rose 0.3% to 8,222 on Tuesday, rebounding from the previous session as investors continued to monitor developments in the Middle East. Risk appetite improved after US President Donald Trump said diplomatic efforts to end the conflict were gaining traction following the cessation of hostilities between Iran and Israel. However, the situation remained fragile, as the Strait of Hormuz remained effectively closed, sustaining disruptions to global energy and shipping flows. In Europe, attention also turned to the European Central Bank’s policy meeting on Thursday. While a quarter-point rate hike is widely expected, markets are focused on signals about the policy outlook, as elevated energy prices continue to fuel inflation risks. Among individual stocks, Société Générale (1.4%), Legrand (1%), and Publicis (1.6%) recorded gains. Elsewhere, chipmaker STMicroelectronics gained 1.3%, tracking a broader global rebound in the semiconductor sector."
+    },
+    {
+      "id": "4925512",
+      "time": "2026-06-09 15:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家質檢中心助力中小微企業實現降本增效總額28.87億元】記者今天瞭解到，市場監管總局釋出統計資料，2025年，國家質檢中心透過提供公共技術服務、減免檢測收費等途徑，幫助中小微企業實現降本增效總額達28.87億元，全年服務相關企業超過70萬家。（央視新聞）"
+    },
+    {
+      "id": "4925511",
+      "time": "2026-06-09 15:48:48",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【企業有可能開辦職工子女暑託班嗎？上海團市委回應】未來，企業有可能開辦職工子女暑託班嗎？近日，共青團上海市委員會（以下簡稱“上海團市委”）官網釋出對市政協十四屆四次會議第0088號提案的答覆，對委員提出的“關於支援企業開辦職工子女暑託班的提案”等進行了回應。答覆表示，下一步，各相關部門將進一步強化資源整合，積極探索服務企業職工的新模式，支援有意向的企業開設主題班，在企業提供場地及運營人員的基礎上，納入全市暑託班管理體系。（澎湃新聞）"
+    },
+    {
+      "id": "4925510",
+      "time": "2026-06-09 15:48:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達70億港元。"
+    },
+    {
+      "id": "4925509",
+      "time": "2026-06-09 15:47:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【報告：預計歐洲央行2026年將加息兩次，2027年上半年將降息兩次】apoBank的Bjoern Ohl在一份報告中表示，歐洲央行本週料將加息25個基點，隨後在9月份再次加息，將存款利率上調至2.5%。“自3月份以來，由於伊朗戰爭和能源價格上漲，歐元區的通脹前景已顯著惡化，“該經濟學家表示。不過，apoBank預計今年預期的加息將被逆轉，存款利率將在2027年上半年分兩步從2.5%降至2%。“這背後的背景是屆時預計美國和伊朗之間的衝突將得到解決，加上經濟放緩以及通脹率降至2%的目標水平。”"
+    },
     {
       "id": "mkt:019eab59-11fb-733f-b1ef-7f5e97ac7dfb",
       "time": "2026-06-09 15:46:41",
@@ -176325,162 +176439,6 @@
         "國際"
       ],
       "text": "泰國央行行長：貨幣政策將聚焦通脹。"
-    },
-    {
-      "id": "mkt:019e8752-399d-7555-bd37-de1d03f36f76",
-      "time": "2026-06-02 15:52:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Thailand governor said he is not concerned about stagflation."
-    },
-    {
-      "id": "te:markets:555693",
-      "time": "2026-06-02 15:52:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Rebound — The CAC 40 climbed 1% to 8,228 on Tuesday, rebounding from the previous session's losses, supported by gains in luxury stocks while investors weighed lingering uncertainty surrounding US-Iran ceasefire efforts. LVMH climbed 1.6%, Hermès added 1.5%, and Kering gained 1.4% amid growing indications that Chinese luxury demand is stabilizing and as LVMH intensified its focus on the US. Elsewhere, STMicroelectronics surged 9.8% to its highest level since September 2000 after raising revenue targets for its data-center business, underscoring strong AI-driven demand. Meanwhile, investors closely watched developments in the Middle East after Iran suspended indirect talks with Washington over Israel's military operations in Lebanon, while President Trump insisted negotiations remained ongoing. Attention also turned to flash estimates of Euro Area inflation, with the headline inflation rate expected to edge up to 3.2% in May and core inflation forecasted to tick higher to 2.4%."
-    },
-    {
-      "id": "4912229",
-      "time": "2026-06-02 15:52:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行行長：不擔心滯脹風險。"
-    },
-    {
-      "id": "4912228",
-      "time": "2026-06-02 15:52:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行行長：不擔心滯脹風險."
-    },
-    {
-      "id": "4912227",
-      "time": "2026-06-02 15:52:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲議會國際貿易委員會投票透過立法，決定取消對美國商品的多項歐盟進口關稅，這是2025年7月達成的歐盟-美國貿易協議的關鍵部分。"
-    },
-    {
-      "id": "te:markets:555692",
-      "time": "2026-06-02 15:52:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises to Fresh Record — The FTSE MIB climbed more than 1% to around 50,400 on Tuesday, reaching a new record and recouping losses from the previous session, as markets remained attentive to shifting dynamics in the Middle East. Talks continue to lack concrete agreement, while access through the Strait of Hormuz remains significantly restricted. However, a modest easing in oil prices helped improve sentiment. Focus is also shifting toward upcoming Eurozone preliminary inflation figures, with both headline and core inflation expected to accelerate in May. Across the bourse, STMicroelectronics rose 0.6% after raising its data centre revenue target, citing strong AI-driven demand and ongoing capacity expansion. Eni also gained more than 2% after signing an agreement with FIB, a subsidiary of Seri Industrial Group, to jointly develop a fully integrated battery supply chain. Other notable performers included Prysmian Group (+2%), Tenaris (+3.2%), and UniCredit (+0.8%)."
-    },
-    {
-      "id": "mkt:019e8751-7a89-7555-bd37-d38bba7d59cb",
-      "time": "2026-06-02 15:52:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "European Parliament’s International Trade Committee voted to approve legislation removing multiple EU import tariffs on U.S. goods, a key element of the EU-U.S. trade agreement struck in July 2025."
-    },
-    {
-      "id": "4912226",
-      "time": "2026-06-02 15:51:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力合科創：公司透過珠海紫荊泓鑫投資管理有限公司及其在管基金間接持有長進光子股份】力合科創6月2日在互動平臺表示，根據長進光子《招股說明書》披露的股東資訊，公司透過珠海紫荊泓鑫投資管理有限公司及其在管基金深圳力合泓鑫間接持有長進光子股份。"
-    },
-    {
-      "id": "4912225",
-      "time": "2026-06-02 15:50:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳新星：全資子公司取得安全生產許可證】深圳新星公告稱，公司全資子公司贛州松輝投資建設的三氟化硼專案已透過安全設施竣工驗收，近日取得江西省應急管理廳頒發的《安全生產許可證》。這標誌著三氟化硼產品邁入正式生產階段，將最佳化公司產業佈局，構建多元化產品體系，提升競爭力和盈利能力。此外，該專案可實現產業鏈資源綜合利用，降低生產成本。不過，專案產品產能爬坡及釋放尚需時間，可能面臨市場環境、價格波動等風險。"
-    },
-    {
-      "id": "4912224",
-      "time": "2026-06-02 15:50:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美退役將軍：伊朗借真主黨讓美國“失去平衡”，轉移核談判注意力】據報道，退役美國將軍馬克·金米特稱，以色列部隊已深入黎巴嫩南部，以至於可能不再有機會讓他們撤回了。金米特表示，伊朗最擔憂的可能是以軍出現在黎巴嫩南部的重要戰略標點博福爾城堡。他補充說，這是26年來以色列部隊深入黎巴嫩最遠的一次。金米特指出，此前特朗普表示以色列不會像宣稱的那樣攻擊貝魯特南郊，但這一事態發展並不等同於以色列同意從黎巴嫩南部撤軍。德黑蘭很可能正在利用真主黨和黎巴嫩的局勢，來“轉移”外界對其核計劃談判的注意力。金米特說，伊朗旨在透過策略使美國失去平衡：先是控制霍爾木茲海峽，現在又將矛盾焦點引向以色列與真主黨的對峙局勢。"
-    },
-    {
-      "id": "4912223",
-      "time": "2026-06-02 15:50:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國國債收益率下跌，受美伊達成協議前景影響】隨著投資者預計美國和伊朗可能在6月份達成協議，從而結束霍爾木茲海峽的封鎖並緩解能源供應衝擊，英國國債收益率下跌。美國總統特朗普週一表示，以色列和真主黨已同意停火，同時油價下跌。“市場的預設基準似乎仍然是協議即將達成，且透過霍爾木茲海峽的交通最終將恢復正常，”Tickmill Group的Patrick Munnelly在一份報告中表示。Tradeweb資料顯示，10年期英國國債收益率下跌5.8個基點，至4.841%。"
-    },
-    {
-      "id": "4912222",
-      "time": "2026-06-02 15:50:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "Genmab股價下跌5.1%，躋身斯托克600指數表現最差個股之列。"
-    },
-    {
-      "id": "mkt:019e874f-ad83-7555-bd37-caba82c33bff",
-      "time": "2026-06-02 15:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. WTI and Brent crude both fell more than 2% intraday, trading at $92.56/bbl and $93.07/bbl respectively."
-    },
-    {
-      "id": "4912220",
-      "time": "2026-06-02 15:49:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中南傳媒：子公司簽訂9.67億元政府採購合同】中南傳媒公告稱，2026年6月1日，其全資子公司湖南省新華書店與湖南省教育廳簽訂《政府採購合同協議書》，合同總價96693萬元。合同內容為2026年義務教育免費教科書採購，履行時間至2026年12月31日。此次簽約使公司繼續成為相關教材供應商，確保主營業務收入穩定，對2026年度生產經營有積極影響。"
-    },
-    {
-      "id": "mkt:019e874f-1322-7555-bd37-c2a81c7359c7",
-      "time": "2026-06-02 15:49:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Retired US general: Iran using Hezbollah to unbalance US, divert attention from nuclear talks】Retired US general Mark Kimmitt said Israeli forces have pushed deep into southern Lebanon, reaching Beaufort Castle — the furthest Israeli penetration in 26 years — and may no longer be in a position to withdraw. Kimmitt said Tehran is likely leveraging Hezbollah and the Lebanon front to divert attention from its nuclear talks and to unsettle the US strategically, after previously seeking leverage via the Strait of Hormuz."
-    },
-    {
-      "id": "4912219",
-      "time": "2026-06-02 15:49:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新諾威：SYS6043在533例患者中客觀緩解率（ORR）為41.8%】新諾威公告，控股子公司巨石生物在2026年ASCO年會公佈SYS6043的I期臨床研究資料。SYS6043是一款新型B7-H3靶向ADC，載荷為拓撲異構酶I抑制劑，藥物抗體比（DAR）約為6。研究是一項在中國開展的多中心、開放標籤、單臂的I/II期臨床試驗，旨在評估SYS6043在晚期實體瘤患者中的安全性、耐受性、藥代動力學特徵和初步療效。截至2026年3月31日，該研究共納入627例患者，其中包括168例肺癌、147例婦科腫瘤、137例乳腺癌、66例鼻咽癌、50例頭頸鱗癌、22例食管鱗癌、14例肝癌和23例其他瘤種。在533例療效可評估的患者中，客觀緩解率（ORR）為41.8%，疾病控制率（DCR）為81.4%，中位緩解持續時間（mDoR）為6.9個月。"
     }
   ]
 }
