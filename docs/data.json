@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-09 09:20:34",
-  "count": 19172,
+  "updated": "2026-06-09 09:24:28",
+  "count": 19175,
   "items": [
+    {
+      "id": "4924920",
+      "time": "2026-06-09 09:23:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至267.27點。"
+    },
+    {
+      "id": "4924919",
+      "time": "2026-06-09 09:22:56",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股開盤，恒生指數低開0.43％，恒生科技指數低開0.26％。"
+    },
+    {
+      "id": "mkt:019ea9f9-6cee-733a-9238-a2964bbb4e9c",
+      "time": "2026-06-09 09:22:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's HSI opened down 105.13 points (-0.43%) at 24,551.93 on Tuesday, June 9; the Hang Seng Tech Index opened down 12.39 points (-0.26%) at 4,743.52; the HSCEI opened down 27.80 points (-0.33%) at 8,313.56; the Red Chip Index opened down 21.48 points (-0.50%) at 4,313.91."
+    },
+    {
+      "id": "4924918",
+      "time": "2026-06-09 09:22:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1,528.0億元人民幣。"
+    },
+    {
+      "id": "4924917",
+      "time": "2026-06-09 09:21:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天振股份：公司尚未發生因關稅原因導致壓價、縮減採購訂單計劃】天振股份6月9日在互動平臺回覆稱，公司尚未發生因關稅原因導致的壓價、縮減採購訂單計劃。"
+    },
+    {
+      "id": "mkt:019ea9f8-7b1a-733a-9238-9a5daf464d97",
+      "time": "2026-06-09 09:21:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted CNY153 bln 7-day reverse repo today; bids CNY153 bln, allotment CNY153 bln; rate 1.40%, unchanged."
+    },
+    {
+      "id": "4924916",
+      "time": "2026-06-09 09:21:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展1530億元7天逆回購操作，投標量1530億元，中標量1530億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019ea9f7-af98-733a-9238-930e4f1d6981",
+      "time": "2026-06-09 09:20:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract fell 2.00% intraday, trading at 16,281 yuan/kg."
+    },
+    {
+      "id": "4924915",
+      "time": "2026-06-09 09:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度已近六成半】農業農村部小麥機收進度顯示，目前，全國小麥收穫進度已近六成半。安徽今年“三夏”小麥搶收任務基本完成。據農業農村部最新小麥機收進度，截至6月8日17時，全國已收穫夏糧小麥2.19億畝，收穫進度64.6%。安徽麥收基本完成，河南過九成半，江蘇過七成，山東過三成半，陝西近三成，河北、山西過一成。目前，麥收地區大部天氣晴好，溫度較前一日有所回升，華北地區組織統籌排程機具有序推進成熟小麥收曬，機收前沿已推進至河北邢臺到山東淄博一線。氣象部門預計6月9日到11日，麥收地區大部天氣晴好，利於小麥灌漿成熟和收穫晾曬。有關省份應加強機具檢修保養，引導跨區作業機具及時轉移到位，保障小麥適期收穫，同時加力推廣高效能播種機，切實提高下茬作物機播質量。（央視新聞）"
+    },
+    {
+      "id": "4924914",
+      "time": "2026-06-09 09:20:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部召開“新三樣”固廢回收利用工作座談會】6月5日，商務部召開“新三樣”固廢回收利用工作座談會。會議強調，以實際行動抓好“新三樣”固廢回收利用體系建設。堅持精準指導、分類施策，針對動力電池、光伏元件、風機裝置產業發展階段和回收利用特點，採取差異化、精準化措施，有效解決回收利用拆解問題。堅持科技引領、技術賦能，積極推進“新三樣”固廢回收利用相關技術基礎研發，促進人工智慧在回收利用環節的融合與運用。堅持試點探索、鼓勵先行，繼續開展再生資源回收體系建設試點工作，鼓勵產業集聚地區和龍頭企業先行先試，提升回收效率，增強分揀能力，促進回收行業高質量發展。（商務部）"
+    },
+    {
+      "id": "mkt:019ea9f6-fefe-733a-9238-8fb934ca0881",
+      "time": "2026-06-09 09:19:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM holds meeting on recycling of 'new three' solid-waste categories】June 5 — MOFCOM convened a working meeting on building a recycling and reuse system for the 'new three' solid-waste categories: power batteries, PV modules and wind-turbine equipment. It called for differentiated, stage- and product-specific measures to resolve dismantling and recycling bottlenecks; for tech-led policy to advance foundational R&D and promote AI integration across recycling processes; and for continued pilot projects, encouraging industrial clusters and leading firms to trial solutions that raise recovery efficiency, strengthen sorting capacity and support higher-quality development of the recycling sector."
+    },
     {
       "id": "4924913",
       "time": "2026-06-09 09:19:25",
@@ -176769,81 +176871,6 @@
         "國際"
       ],
       "text": "【特朗普被曝同以總理通話爆粗口】據美國阿克西奧斯新聞網站6月1日報道，美國總統特朗普當天在與以色列總理內塔尼亞胡的通話中，就以色列在黎巴嫩的軍事升級行動爆粗口。 報道援引兩名訊息人士的話稱，特朗普在通話中稱內塔尼亞胡“瘋了”，並指責他忘恩負義，稱自己曾幫助內塔尼亞胡在其腐敗案審理中“免於入獄”。報道還援引一名美國官員的話稱，特朗普告訴內塔尼亞胡，轟炸黎巴嫩首都貝魯特將使以色列在國際上進一步陷入孤立。 根據一名美國官員的說法，特朗普在同內塔尼亞胡通話時說，“要不是我，你現在就在監獄裡。我一直在救你。現在所有人都恨你。所有人都恨以色列”。 另一名瞭解通話內容的訊息人士稱，特朗普當時“氣壞了”，一度對內塔尼亞胡吼道：“你到底在幹什麼？” 報道稱，特朗普在通話中“強勢壓制”了內塔尼亞胡。內塔尼亞胡回答：“好吧，好吧，只要確保一切妥當就行。” 報道稱，特朗普認為最近幾天以色列過度擴大在黎巴嫩的軍事行動，並反對以色列為了擊殺一名黎巴嫩真主黨指揮官而炸燬整棟建築的做法。特朗普的憤怒似乎源於內塔尼亞胡決定在黎巴嫩升級軍事行動，這可能會破壞他與伊朗的談判。 報道援引上述一名美國官員的話稱，“這是自特朗普再次上任以來，他與內塔尼亞胡之間最糟糕的通話之一”。報道說，特朗普和內塔尼亞胡過去有過幾次緊張的通話，但在伊朗等問題上仍密切協調。(新華社)"
-    },
-    {
-      "id": "4911605",
-      "time": "2026-06-02 09:22:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠2,488億元人民幣。"
-    },
-    {
-      "id": "mkt:019e85ec-3d0d-7993-96fd-05d5ff184cac",
-      "time": "2026-06-02 09:21:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Hong Kong: HSI opened down 3.11 points (-0.01%) at 25,395.07 on June 2; Hang Seng Tech Index opened up 30.91 points (+0.62%) at 4,995.83; HSCEI (Hang Seng China Enterprises Index) opened up 3.44 points (+0.04%) at 8,511.31; Red Chip Index opened down 5.23 points (-0.12%) at 4,422.19."
-    },
-    {
-      "id": "4911604",
-      "time": "2026-06-02 09:21:36",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.01％，國企指數漲0.04％，恒生科技指數開漲0.62%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606023756896112",
-      "time": "2026-06-02 09:21:33",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e85eb-beca-7993-96fc-ff9966f71670",
-      "time": "2026-06-02 09:21:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Hong Kong stocks opened: HSI down 0.01%, Hang Seng Tech Index up 0.62%; Meituan (03690.HK) up 1.34% after reporting results."
-    },
-    {
-      "id": "4911603",
-      "time": "2026-06-02 09:21:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2億元7天逆回購操作，投標量2億元，中標量2億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e85eb-9a34-7993-96fc-f0cf36b5487c",
-      "time": "2026-06-02 09:21:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo today of 200 mln yuan; bids and allotment each amounted to 200 mln yuan, and the rate was 1.40%, unchanged."
-    },
-    {
-      "id": "te:markets:555520",
-      "time": "2026-06-02 09:20:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Falls for 2nd Day — The New Zealand dollar slipped to around $0.592 on Tuesday, extending its decline from the previous session as weakening risk sentiment outweighed support from expectations of higher interest rates. Investors remained cautious amid ongoing uncertainty surrounding a potential Middle East peace agreement, with conflicting signals from the US and Iran and renewed tensions near the Strait of Hormuz, raising concerns about prolonged geopolitical and trade disruptions. However, losses were tempered by expectations of tighter monetary policy following hawkish signals from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and around 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases."
     }
   ]
 }
