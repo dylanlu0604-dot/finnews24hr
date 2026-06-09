@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-10 07:49:55",
-  "count": 18679,
+  "updated": "2026-06-10 07:53:44",
+  "count": 18682,
   "items": [
+    {
+      "id": "4926838",
+      "time": "2026-06-10 07:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1至5月份電動裝載機出口量達1232臺 同比增長208%】資料顯示，今年1至5月份，我國共銷售挖掘機126875臺，同比增長24.7%。各類裝載機共銷售67162臺，同比增長27.3%。兩大類核心產品無論是國內銷量，還是國際出口量均實現了同比兩位數增長的態勢。不僅如此，新能源工程機械銷量也保持了較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%；出口量1232臺，同比增長208%。"
+    },
+    {
+      "id": "4926837",
+      "time": "2026-06-10 07:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月生產者價格環比增長0.9%; 預估為+0.8%。日本5月生產者價格同比增長6.3%; 預估為+5.6%。"
+    },
+    {
+      "id": "mkt:019eaecb-4af2-7ff4-a102-a867682fa386",
+      "time": "2026-06-10 07:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan May domestic corporate goods price index YoY 6.3% (consensus 5.5%; Apr 4.9%)."
+    },
+    {
+      "id": "mkt:019eaecb-463b-7ff4-a102-a3c1a4b78cd9",
+      "time": "2026-06-10 07:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan May domestic corporate goods price index MoM +0.9% vs +0.5% forecast; prior +2.3%."
+    },
+    {
+      "id": "mkt:019eaecb-455a-7ff4-a102-9b49f59945e9",
+      "time": "2026-06-10 07:50:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 10-year government bond yield rose 2.5 bps to 2.690%."
+    },
+    {
+      "id": "mkt:019eaecb-08f9-7ff4-a102-96ebd90897ce",
+      "time": "2026-06-10 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (YoY) (May) | actual 6.3% | consensus 5.50% | previous 4.90%"
+    },
+    {
+      "id": "mkt:019eaecb-0807-7ff4-a102-8ae3736f842e",
+      "time": "2026-06-10 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (MoM) (May) | actual 0.9% | consensus 0.50% | previous 2.30%"
+    },
+    {
+      "id": "4926836",
+      "time": "2026-06-10 07:49:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報64.64美元/盎司。"
+    },
+    {
+      "id": "4926835",
+      "time": "2026-06-10 07:49:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.5個基點，至2.690%。"
+    },
+    {
+      "id": "mkt:019eaeca-a094-7ff4-a102-86aa57b212eb",
+      "time": "2026-06-10 07:49:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【CSC Financial: Fed rate-hike probability remains low in near term】CSC Financial says the probability of a Fed rate hike is low in the near term; market worries about Fed tightening are largely expectation-driven and rest on assumptions of persistent US inflation and a hot labor market. CME FedWatch shows markets begin pricing a high probability of Fed hikes from late October 2026. Current global liquidity tightening and market adjustments largely reflect an early reaction to Q4 Fed-hike expectations. For China’s bond market, higher Fed-tightening expectations are not necessarily negative: the market is relatively independent with limited linkage to US Treasuries, and ample domestic liquidity means anticipated overseas liquidity tightening and equity weakness could drive flows into domestic bonds, supporting long-end yields. CSC expects the 10-year China government bond yield to trade around 1.70%; a break below 1.70% would require fresh domestic incremental information."
+    },
     {
       "id": "4926834",
       "time": "2026-06-10 07:48:51",
@@ -172355,72 +172459,6 @@
         "國際"
       ],
       "text": "【歐洲復興開發銀行總裁：中東衝突帶來壓力，各國需有針對性地提供支援】歐洲復興開發銀行(EBRD)總裁雷諾-巴索(Odile Renaud-Basso）表示，中東衝突影響下的新興經濟體，其政府支援措施應該是暫時且有針對性的，因為財政空間緊縮和借貸成本上升正給這些經濟體帶來壓力。雷諾-巴索發出這一警告之際，該行即將於週五在里加召開年會。此次會議是在長達六年的危機陰影下舉行的，這場危機始於新冠疫情，隨後又因俄烏衝突而延續。雷諾-巴索表示，這些衝擊導致許多國家的債務負擔加重，包括新興歐洲、中亞、中東和非洲——這些正是該行投資私營部門專案的地區。如今，由於伊朗戰爭持續，能源價格飆升及潛在的化肥短缺情況，恐將進一步推高食品價格和通脹水平。“許多國家的財政空間正在縮小。”雷諾-巴索表示。“必須採取非常有針對性的措施，重點關注受影響最嚴重的人群…避免採取代價高昂的籠統全面性措施。”她表示，該行將在定於週三釋出的經濟更新報告中，下調經濟增長預估並上調通脹預測，但未透露更多細節。該行在2月釋出的預測中指出，所覆蓋的41個國家今年經濟增長率料為3.6%，2027年為3.7%。"
-    },
-    {
-      "id": "mkt:019e8ac1-beca-733d-881c-b3ac7117b7b1",
-      "time": "2026-06-03 07:53:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she agreed with the Bank of Japan governor on several issues."
-    },
-    {
-      "id": "4913815",
-      "time": "2026-06-03 07:52:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皐月：在多項議題上與日本央行行長意見一致。"
-    },
-    {
-      "id": "4913814",
-      "time": "2026-06-03 07:52:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河今日將全線通水 馬道樞紐創下兩個“世界之最”】今天上午，西部陸海新通道骨幹工程平陸運河建設將迎來重大節點：控制性工程三大航運樞紐中的馬道樞紐和企石樞紐將開始充水，平陸運河將實現全線通水，進入有水除錯階段，預計將於今年9月全線通航。平陸運河是新中國成立以來第一條通江達海的大運河，透過一組亮眼數字看這項工程創下多少個“世界第一”和“全國之最”。第一，它是水位落差最大的省水船閘，船閘上下游最大水位差達到29.6米，差不多有10層樓高。第二，它是規模最大的內河省水船閘，船閘內部長300米、寬34米，一個閘室面積相當於1.5個標準足球場，兩個船閘同時可滿足12艘5000噸級的船舶透過。另外，馬道和企石樞紐還創下了“世界之最”——閥門啟閉速度最快的省水船閘。這些輸水廊道的工作閥門每個重達70噸，“開門只要1分鐘，關門只要30秒”。"
-    },
-    {
-      "id": "4913813",
-      "time": "2026-06-03 07:51:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體援引伊朗伊斯蘭革命衛隊（IRGC）訊息稱，美國在霍爾木茲海峽附近使用航空彈襲擊了一艘伊朗油輪，造成油輪機艙受損。"
-    },
-    {
-      "id": "mkt:019e8abf-0e4c-733d-881c-a919f8306572",
-      "time": "2026-06-03 07:50:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said authorities will take appropriate measures as needed to respond to the FX market."
-    },
-    {
-      "id": "4913812",
-      "time": "2026-06-03 07:50:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：已做好準備，必要時對外匯市場採取適當應對措施。不對具體匯率水平置評。"
-    },
-    {
-      "id": "mkt:019e8abe-bb7d-733d-881c-a0bde7ce3c8f",
-      "time": "2026-06-03 07:50:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps fired missiles at a US-linked vessel named PANAYA, Iranian media reported, saying the strike was retaliation for a US attack on an Iranian tanker near the Strait of Hormuz."
     }
   ]
 }
