@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-09 21:40:24",
-  "count": 18987,
+  "updated": "2026-06-09 21:44:16",
+  "count": 18994,
   "items": [
+    {
+      "id": "4926365",
+      "time": "2026-06-09 21:43:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將瑞士再保險股份有限公司目標股價從145瑞郎下調至135瑞郎。"
+    },
+    {
+      "id": "4926364",
+      "time": "2026-06-09 21:43:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西財長：儘管受到中東戰爭的影響，仍將遵守財政目標。"
+    },
+    {
+      "id": "4926363",
+      "time": "2026-06-09 21:42:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果釋出iOS 27服務功能更新：地圖、錢包、播客等全面升級】蘋果公司6月9日宣佈，隨今秋iOS 27等2027軟體版本釋出，將為多項服務推出重大功能更新。主要更新包括：地圖應用新增AI增強Flyover俯瞰體驗及美國本地推薦榜單；查詢應用新增自定義位置分享時長及定時停止功能，Apple Watch端將三個獨立應用合併為統一查詢應用；錢包應用支援透過攝像頭掃描賬單並結合Apple Cash智慧分攤費用，同時可將實體會員卡及優惠券掃碼存入錢包；Apple Pay更新介面設計，新增“輕觸分享”功能，支援與商戶一鍵共享聯絡方式及會員資訊；播客應用支援擴充套件至macOS和tvOS；iCloud共享相簿新增全解析度共享及臨時相簿功能；音樂應用歌詞翻譯新增7組語言配對，並將無損音訊引入tvOS。"
+    },
+    {
+      "id": "4926362",
+      "time": "2026-06-09 21:42:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馮培炯獲批擔任寧波銀行副董事長、行長】6月9日，寧波金融監管局網站釋出批覆，核准馮培炯寧波銀行股份有限公司副董事長、行長的任職資格。該行應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由寧波金融監管局辦理行政許可登出手續。"
+    },
+    {
+      "id": "mkt:019eac9e-39fe-722d-b8ac-d68c5db40666",
+      "time": "2026-06-09 21:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Witnesses said a Kenyan protester was shot during a demonstration at a U.S. Ebola isolation facility."
+    },
+    {
+      "id": "4926361",
+      "time": "2026-06-09 21:41:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "畢馬威與微軟擴大全球合作關係。"
+    },
+    {
+      "id": "te:markets:557701",
+      "time": "2026-06-09 21:41:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 4-week High — American Express shares increased to 319.52 USD, the highest since May 2026. Over the past 4 weeks, American Express gained 2.21%, and in the last 12 months, it increased 5.86%."
+    },
+    {
+      "id": "4926360",
+      "time": "2026-06-09 21:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國足0比0泰國】據央視體育，中泰之戰熱身賽，賽前，足協為武磊舉辦百場紀念儀式。國足全場佔優，射門數比對手多出超20次，卻未能實現破門，最終國足和泰國0-0互交白卷。這個國際比賽日視窗，國足收穫一勝一平。"
+    },
+    {
+      "id": "te:markets:557700",
+      "time": "2026-06-09 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.71% Higher — The Dow Jones Index is picking up 363 points or 0.71 percent on Tuesday. Gains are led by Sherwin-Williams (2.25%), Nike (2.17%) and Amazon (2.10%). Biggest losers are Salesforce (-1.79%), Cisco Systems (-1.59%) and Apple (-0.75%)."
+    },
+    {
+      "id": "mkt:019eac9c-97fd-7ddc-a5f5-358c29679a0a",
+      "time": "2026-06-09 21:40:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Zambia has secured sufficient support to proceed with a buyback of its 2053 bonds."
+    },
+    {
+      "id": "4926359",
+      "time": "2026-06-09 21:39:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通高管：存款代幣需求為零。"
+    },
     {
       "id": "4926358",
       "time": "2026-06-09 21:39:44",
@@ -174960,46 +175060,6 @@
         "其他"
       ],
       "text": "Strategy下挫6.6%，跌至逾一個月以來的低點。"
-    },
-    {
-      "id": "mkt:019e8893-6234-777f-8415-436a5281842c",
-      "time": "2026-06-02 21:43:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【UAE plans refined-products pipeline to bypass Strait of Hormuz】The UAE is planning its first multi-fuel refined-products pipeline to keep exports of gasoline, diesel and jet fuel flowing if the Strait of Hormuz is shut, ADNOC vice president Philippe Khoury said. Abu Dhabi already routes crude from Habshan to Fujairah via an existing pipeline with a 1.5 mln b/d cap and has relied on it since the conflict began; Fujairah port has faced repeated attacks that have disrupted exports. ADNOC is building a second crude pipeline due early next year that will double Fujairah throughput to about 3.0 mln b/d. The proposed products pipeline would be switchable between fuel types, operating like the US Colonial pipeline."
-    },
-    {
-      "id": "4913142",
-      "time": "2026-06-02 21:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南自貿港封關後首架“零關稅”飛機通關】近日，一架全新空客A321neo飛機從德國漢堡起飛，經停烏茲別克塔什干後，順利飛抵海口美蘭國際機場並完成通關。"
-    },
-    {
-      "id": "4913141",
-      "time": "2026-06-02 21:41:49",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【阿布扎比國家石油公司擬在阿聯酋新建輸油管線，繞開霍爾木茲海峽】阿聯酋正規劃本國首條多品類成品油輸送管線，即便霍爾木茲海峽航道受阻，汽油、柴油與航空煤油仍可依託該管線實現出口。 阿布扎比國家石油公司（ADNOC）貿易業務執行副總裁菲利普·胡裡於週二透露，公司計劃修建一條成品油管線，實現運輸路線繞開霍爾木茲海峽。霍爾木茲海峽是全球關鍵能源貿易通道，自三個月前相關戰事爆發後，海峽通航受到大幅限制。中東各產油國紛紛籌建配套基建，降低伊朗對自身原油出口通道的牽制。胡裡表示，阿布扎比國家石油公司正投入大量資源最佳化供應鏈與配套體系，預判危機或將長期延續，以此保障公司能夠高效、具備成本優勢地持續向全球客戶供貨。"
-    },
-    {
-      "id": "4913140",
-      "time": "2026-06-02 21:41:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【審批提速，可轉債市場或將迎來密集發行視窗期】隨著再融資政策落地見效、稽核節奏持續提速，疊加前期存量轉債集中贖回退市帶來的供給缺口填補需求，可轉債市場正式開啟密集發行週期。自6月1日以來，盛德轉債、通合轉債先後啟動網上發行，6月4日，迪威轉債也將啟動發行，可轉債的發行速度正在加快。值得一提的是，當前已獲稽核透過的可轉債數量達30只，募資金額超過480億元，為階段性發行奠定堅實基礎。分析人士指出，隨著審批提速、儲備專案集中落地，可轉債市場有望進入年度密集發行視窗期。充裕的新券供給將重塑市場供需結構，啟用市場活力，持續最佳化轉債市場生態。（證券時報）"
     }
   ]
 }
