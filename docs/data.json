@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-09 23:45:42",
-  "count": 18827,
+  "updated": "2026-06-09 23:49:51",
+  "count": 18823,
   "items": [
+    {
+      "id": "mkt:019ead12-0b8a-7448-ac07-769ee33d519d",
+      "time": "2026-06-09 23:48:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Cboe Volatility Index (VIX) rose 1.1 points to 20.02."
+    },
+    {
+      "id": "4926515",
+      "time": "2026-06-09 23:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍總參謀長稱襲擊伊朗是為更大打擊做準備】以色列國防軍總參謀長扎米爾9日說，此前對伊朗的襲擊是為“更大規模、更有力的打擊”做準備，同時以軍將繼續加大對黎巴嫩真主黨的打擊力度。扎米爾當天在以色列北部觀摩一場演習時說，以軍始終保持並將繼續保持“隨時恢復對伊朗作戰”的戰備狀態，以軍已對伊朗進行“迅速而有力的打擊”，這是為“更大規模、更有力的”打擊做準備。扎米爾說，以軍正繼續在黎巴嫩南部“前沿防線”一帶展開軍事行動，摧毀黎真主黨武裝人員的基礎設施。（新華社）"
+    },
+    {
+      "id": "4926514",
+      "time": "2026-06-09 23:46:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：FSD現已在丹麥獲得批准。"
+    },
     {
       "id": "4926513",
       "time": "2026-06-09 23:44:51",
@@ -173552,73 +173580,6 @@
         "MKT News"
       ],
       "text": "Rubio said nuclear talks with Iran are highly complex and technical and will take some time."
-    },
-    {
-      "id": "mkt:019e8906-8e1a-7ff0-aaad-74d04bba39bc",
-      "time": "2026-06-02 23:49:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "US10Y"
-      ],
-      "text": "AFP reports HEZBOLLAH will not accept a \"partial ceasefire\" with Israel."
-    },
-    {
-      "id": "4913388",
-      "time": "2026-06-02 23:49:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗核談判兼具高度複雜性與專業性，談判程序尚需時日。"
-    },
-    {
-      "id": "mkt:019e8906-198b-7337-9546-a366237614fe",
-      "time": "2026-06-02 23:48:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "Market sources say OpenAI plans to launch AI tools targeted at the financial and legal sectors, positioning it to compete with ANTHROPIC."
-    },
-    {
-      "id": "4913387",
-      "time": "2026-06-02 23:48:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜稱，歐盟不應將雲服務納入其數字競爭規則範疇。"
-    },
-    {
-      "id": "4913386",
-      "time": "2026-06-02 23:48:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：拉美石化行業短期內獲提振，但評級上行空間有限。"
-    },
-    {
-      "id": "4913385",
-      "time": "2026-06-02 23:46:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色起源發射臺在火箭爆炸中受損，NASA預計修復可能要持續至2028年。"
-    },
-    {
-      "id": "4913384",
-      "time": "2026-06-02 23:46:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯：總統普京同白俄羅斯總統盧卡申科舉行通話，雙方就雙邊同盟合作發展事宜展開磋商。"
     }
   ]
 }
