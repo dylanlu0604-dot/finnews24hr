@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10 02:48:47",
-  "count": 18710,
+  "updated": "2026-06-10 02:52:38",
+  "count": 18705,
   "items": [
+    {
+      "id": "mkt:019eadba-6253-7225-91aa-68430612cdfa",
+      "time": "2026-06-10 02:52:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Semi-official Mehr news agency cited an Iranian lawmaker saying Iran's military is on full alert in response to threats from Trump."
+    },
+    {
+      "id": "4926628",
+      "time": "2026-06-10 02:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員：軍方對美國總統特朗普的威脅保持全面警惕。（MEHR）"
+    },
     {
       "id": "mkt:019eadb4-a444-7225-91aa-60a7d3ddd4e8",
       "time": "2026-06-10 02:45:57",
@@ -172596,62 +172612,6 @@
         "Brent"
       ],
       "text": "【Venezuela tells oil firms to supply their own power for oil and gas projects】Energy firms visiting Venezuela were told to bring their own generation to power oil and gas operations to avoid frequent blackouts from a poorly maintained national grid, reports say. A new draft of Venezuela’s petroleum law would require power self-sufficiency in hydrocarbon extraction areas and contemplates allowing private firms to sell electricity to oil developers; leaked documents indicate companies would be required to use off-grid systems to avoid burdening the fragile grid."
-    },
-    {
-      "id": "4913603",
-      "time": "2026-06-03 02:52:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡此前缺席會議開場，現已抵達以色列北部問題專項內閣會議現場。"
-    },
-    {
-      "id": "4913602",
-      "time": "2026-06-03 02:51:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic拒絕向放貸機構披露財務資訊。"
-    },
-    {
-      "id": "mkt:019e89ac-e6c5-733d-8818-da9c32555594",
-      "time": "2026-06-03 02:51:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the U.S. has made significant progress in how it delivers foreign aid globally."
-    },
-    {
-      "id": "4913601",
-      "time": "2026-06-03 02:49:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶96.00美元，上漲1.02美元，漲幅1.07%。"
-    },
-    {
-      "id": "mkt:019e89ab-4fb2-733d-8818-d5b6709f0c09",
-      "time": "2026-06-03 02:49:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said Venezuela needs a legitimately elected government, but conditions must be created to enable that."
-    },
-    {
-      "id": "4913600",
-      "time": "2026-06-03 02:49:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：委內瑞拉需要一個透過選舉合法上臺的政府，但前提是必須先為此創造條件。"
-    },
-    {
-      "id": "4913599",
-      "time": "2026-06-03 02:49:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟釋出全新量子晶片 計劃2029年造出實用量子計算機】微軟公司於舊金山舉辦的Build開發者大會上釋出升級版量子計算晶片馬約拉納2代（Majorana 2）。微軟稱這款新晶片的核心突破：量子位元存續時長突破20秒，量子位元數量從上一代的8枚提升至12枚。依託馬約拉納2代晶片取得的飛速進展，微軟計劃在2029年研發出可規模化落地的實用型量子計算機。"
     }
   ]
 }
