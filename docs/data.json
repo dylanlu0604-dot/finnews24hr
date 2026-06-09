@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-10 04:19:07",
+  "updated": "2026-06-10 04:22:48",
   "count": 18717,
   "items": [
+    {
+      "id": "4926677",
+      "time": "2026-06-10 04:20:36",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：（壓力測試）假設情景包括全球經濟嚴重衰退，商業和住宅房地產市場以及公司債市場壓力加劇。"
+    },
+    {
+      "id": "mkt:019eae0a-d606-7225-91ab-347f9d6bec96",
+      "time": "2026-06-10 04:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "API weekly U.S. crude stocks for the week to June 5 due in 10 minutes."
+    },
     {
       "id": "4926676",
       "time": "2026-06-10 04:18:12",
@@ -172717,28 +172740,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Sources said Fed Chair Kevin Warsh has appointed two senior conservative policy advisers to serve as interim advisers."
-    },
-    {
-      "id": "mkt:019e89fe-4a8e-733d-8819-98f100dafd81",
-      "time": "2026-06-03 04:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. API weekly crude inventories for the week to May 29 due in 10 minutes."
-    },
-    {
-      "id": "4913642",
-      "time": "2026-06-03 04:20:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "GitLab裁員大約14%，退出22個國家。"
     }
   ]
 }
