@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-09 09:24:28",
-  "count": 19175,
+  "updated": "2026-06-09 09:28:15",
+  "count": 19178,
   "items": [
+    {
+      "id": "mkt:019ea9fd-9cfd-733a-9238-c54d7f7018a0",
+      "time": "2026-06-09 09:27:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Israel-Iran ceasefire; A-share oil services and engineering sector slides】A-share oilfield services and engineering stocks slid after Israeli Prime Minister Netanyahu said on the 8th Israel would temporarily halt strikes on Iran after Iran stopped firing. Keli fell over 11%, Tongyuan Petroleum dropped more than 4%; Qianeng Hengxin, Zhongman Petroleum, Bekan Energy and China Oil Engineering also declined."
+    },
+    {
+      "id": "4924924",
+      "time": "2026-06-09 09:27:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "油服工程板塊大幅回撥，科力股份跌超11%，通源石油跌超4%，潛能恆信、中曼石油、貝肯能源、中油工程等個股跟跌。"
+    },
+    {
+      "id": "4924923",
+      "time": "2026-06-09 09:26:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊高開，聖泉集團漲停】儲存晶片板塊高開，聖泉集團漲停，盈方微、東芯股份、商絡電子、華特氣體、博敏電子跟漲。"
+    },
+    {
+      "id": "te:economy:557415",
+      "time": "2026-06-09 09:26:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Philippines Jobless Rate Falls to 4.7% — The unemployment rate in the Philippines fell to 4.7% in April 2026, the lowest level in four months, from 5.0% in March. The number of unemployed persons fell to 2.41 million from 2.58 million in the previous month. Meanwhile, the employment rate rose to 95.3% from 95.0%, with total employment reaching 48.89 million. The labor force participation rate declined to 62.7% from 63.3% in March. On a sectoral basis, employment gains were led by agriculture and forestry, wholesale and retail trade, and accommodation and food service activities, while job losses were recorded in other service activities, public administration and defense, and administrative and support services. By share of total employment, services accounted for 62.3%, followed by agriculture at 19.4% and industry at 18.3%. Wage and salary workers made up 64.4% of total employment, mostly in private establishments. Average weekly hours worked increased to 40.2 from 39.9."
+    },
+    {
+      "id": "mkt:019ea9fc-52f2-733a-9238-bd15a49008a4",
+      "time": "2026-06-09 09:25:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened higher: Shanghai Composite +0.46%, Shenzhen Composite +1.16%, ChiNext Index +1.41%. MLCC, memory chips, semiconductors and optical fiber sectors led gains; oilfield services/engineering and coal underperformed."
+    },
+    {
+      "id": "4924922",
+      "time": "2026-06-09 09:25:45",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.46％，深成指漲1.16％，創業板漲1.41％。"
+    },
+    {
+      "id": "mkt:019ea9fb-e82c-733a-9238-b1bf46bd77ed",
+      "time": "2026-06-09 09:25:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Apollo, Blackstone agree $35bn private credit package to fund Anthropic growth】Financial Times reports Apollo Global Management and Blackstone have agreed a $35bn private credit package to finance Anthropic’s growth plans. Proceeds will be used to help Anthropic purchase chips developed by Alphabet. The deal, led by the two private-equity firms, is among the largest private-credit financings to date and underscores investor willingness to fund AI-related data‑centre infrastructure and compute for firms including Anthropic, OpenAI and Meta. Apollo and Blackstone did not respond to requests for comment."
+    },
+    {
+      "id": "4924921",
+      "time": "2026-06-09 09:24:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安寧股份：年產5萬噸磷酸鐵專案正在裝置除錯階段】安寧股份6月9日在互動平臺回覆稱，年產6萬噸能源級鈦（合金）材料全產業鏈專案正在全力推進建設中，年產5萬噸磷酸鐵專案正在裝置除錯階段。"
+    },
+    {
+      "id": "mkt:019ea9fb-2bdd-733a-9238-acfaec382ce8",
+      "time": "2026-06-09 09:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia-Pacific index rose 1%."
+    },
     {
       "id": "4924920",
       "time": "2026-06-09 09:23:27",
@@ -17,6 +112,15 @@
         "焦點"
       ],
       "text": "港股開盤，恒生指數低開0.43％，恒生科技指數低開0.26％。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606093764446227",
+      "time": "2026-06-09 09:22:40",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展1530億元7天逆回購操作】央行今日開展1530億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019ea9f9-6cee-733a-9238-a2964bbb4e9c",
@@ -176799,78 +176903,6 @@
         "MKT News"
       ],
       "text": "At the open on Tuesday June 2, China’s Shanghai Composite Index rose 3.72 pts (+0.09%) to 4,061.46; Shenzhen Composite Index rose 70.35 pts (+0.46%) to 15,410.71; CSI 300 Index rose 16.36 pts (+0.34%) to 4,860.61; ChiNext Index rose 36.46 pts (+0.92%) to 3,987.41; STAR 50 Index rose 12.62 pts (+0.76%) to 1,676.31."
-    },
-    {
-      "id": "mkt:019e85f1-a6f4-7993-96fd-1ca62c44f94a",
-      "time": "2026-06-02 09:27:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share AI PC sector rose in early trade; Chunqiu Electronics hit the daily limit, Yingli shares gained over 13%, and Leishen Technology, Victory Precision and Longqi Technology were among the top advancers."
-    },
-    {
-      "id": "4911609",
-      "time": "2026-06-02 09:26:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI PC概念繼續大幅高開 春秋電子3連板】早盤AI PC概念繼續大幅高開，春秋電子3連板，英力股份高開13%，雷神科技、勝利精密、龍旗科技、軟通動力漲幅靠前。"
-    },
-    {
-      "id": "mkt:019e85f0-561b-7993-96fd-1636d3d78094",
-      "time": "2026-06-02 09:26:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "02526.HK",
-        "Impact bullish",
-        "02026.HK",
-        "06651.HK"
-      ],
-      "text": "Hong Kong AI-related stocks opened slightly firmer: DeShi-B (02526.HK) +7.77%, Xiaoma Zhixing-W (02026.HK) +3.68%, WuYi Shijie (06651.HK) +1.47%."
-    },
-    {
-      "id": "4911608",
-      "time": "2026-06-02 09:25:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股小幅走強 德適漲近8%】截至發稿，德適-B(02526.HK)漲7.77%，小馬智行-W(02026.HK)漲3.68%，五一視界(06651.HK)漲1.47%。"
-    },
-    {
-      "id": "mkt:019e85ef-9922-7993-96fd-0cfe7d0b0fe6",
-      "time": "2026-06-02 09:25:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "Mainland A-shares opened higher: Shanghai Composite up 0.09%, Shenzhen Composite Index up 0.46%, ChiNext Index up 0.92%."
-    },
-    {
-      "id": "4911607",
-      "time": "2026-06-02 09:25:16",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.09％，深成指漲0.46％，創業板漲0.92％。"
-    },
-    {
-      "id": "4911606",
-      "time": "2026-06-02 09:24:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普被曝同以總理通話爆粗口】據美國阿克西奧斯新聞網站6月1日報道，美國總統特朗普當天在與以色列總理內塔尼亞胡的通話中，就以色列在黎巴嫩的軍事升級行動爆粗口。 報道援引兩名訊息人士的話稱，特朗普在通話中稱內塔尼亞胡“瘋了”，並指責他忘恩負義，稱自己曾幫助內塔尼亞胡在其腐敗案審理中“免於入獄”。報道還援引一名美國官員的話稱，特朗普告訴內塔尼亞胡，轟炸黎巴嫩首都貝魯特將使以色列在國際上進一步陷入孤立。 根據一名美國官員的說法，特朗普在同內塔尼亞胡通話時說，“要不是我，你現在就在監獄裡。我一直在救你。現在所有人都恨你。所有人都恨以色列”。 另一名瞭解通話內容的訊息人士稱，特朗普當時“氣壞了”，一度對內塔尼亞胡吼道：“你到底在幹什麼？” 報道稱，特朗普在通話中“強勢壓制”了內塔尼亞胡。內塔尼亞胡回答：“好吧，好吧，只要確保一切妥當就行。” 報道稱，特朗普認為最近幾天以色列過度擴大在黎巴嫩的軍事行動，並反對以色列為了擊殺一名黎巴嫩真主黨指揮官而炸燬整棟建築的做法。特朗普的憤怒似乎源於內塔尼亞胡決定在黎巴嫩升級軍事行動，這可能會破壞他與伊朗的談判。 報道援引上述一名美國官員的話稱，“這是自特朗普再次上任以來，他與內塔尼亞胡之間最糟糕的通話之一”。報道說，特朗普和內塔尼亞胡過去有過幾次緊張的通話，但在伊朗等問題上仍密切協調。(新華社)"
     }
   ]
 }
