@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-09 22:47:50",
-  "count": 18900,
+  "updated": "2026-06-09 22:51:45",
+  "count": 18893,
   "items": [
+    {
+      "id": "4926471",
+      "time": "2026-06-09 22:50:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行執行長：美國銀行市場業務趨勢好於15%的預期。"
+    },
+    {
+      "id": "mkt:019eacdd-1b4d-7dd1-a396-e214f00cfa57",
+      "time": "2026-06-09 22:50:31",
+      "tags": [
+        "MKT News",
+        "BAC.O",
+        "Impact bullish"
+      ],
+      "text": "BofA says its investment banking business is in good shape."
+    },
+    {
+      "id": "4926470",
+      "time": "2026-06-09 22:49:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4926469",
+      "time": "2026-06-09 22:48:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4280美元/盎司，日內跌1.15%。"
+    },
+    {
+      "id": "4926468",
+      "time": "2026-06-09 22:48:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報25669.623點；道指跌0.01%，現報50781.539點；標普500指數跌0.45%，現報7372.420點。"
+    },
+    {
+      "id": "4926467",
+      "time": "2026-06-09 22:48:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "4926466",
+      "time": "2026-06-09 22:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴克里斯蒂娜正在尼加拉瓜西北部海岸附近徘徊，預計未來幾天中美洲部分地區將出現暴雨洪水。"
+    },
     {
       "id": "4926465",
       "time": "2026-06-09 22:46:28",
@@ -174103,132 +174164,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：“國防部總局局長奧列格・伊萬申科提交了一份報告。內容涉及俄羅斯導彈生產相關細節：生產設施、射程、產能規模、關鍵零部件與裝置的供應鏈路，以及協助俄羅斯規避制裁的境外個人和企業。我方正擬定反制舉措的更新方案，既由烏方自主落地，也會同盟友協同實施。持續加碼對俄施壓至關重要。”"
-    },
-    {
-      "id": "4913287",
-      "time": "2026-06-02 22:51:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國不會因伊朗重新開放霍爾木茲海峽而解除制裁。"
-    },
-    {
-      "id": "4913286",
-      "time": "2026-06-02 22:50:44",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【今年亞馬遜會員日提前至六月舉行】亞馬遜週二官宣：2026年亞馬遜會員日（Prime Day）定於6月23日至26日舉辦。 這家電商巨頭今年將大促檔期較往年提前，會員日以往慣例在7月開啟。往年會員日促銷多以輕奢、非必需消費品為主，但近年消費者選購重心逐步轉向剛需日用品。亞馬遜透露，生鮮與居家必需品將是今年大促的主推品類。 這一調整合乎市場形勢：密歇根大學資料顯示，受經濟環境承壓影響，5月美國消費者信心指數跌至歷史低位。"
-    },
-    {
-      "id": "4913285",
-      "time": "2026-06-02 22:50:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：阿曼與伊朗“眉來眼去”，試圖控制霍爾木茲海峽。"
-    },
-    {
-      "id": "4913284",
-      "time": "2026-06-02 22:49:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【秋田微：電子紙產品實現小批次出貨】秋田微(300939)6月2日在機構調研時表示，公司已具備電子紙產品量產能力，並實現了小批次出貨。"
-    },
-    {
-      "id": "4913283",
-      "time": "2026-06-02 22:49:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：談判的首要條件是伊朗開放霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019e88cf-bc07-7aa9-a710-57d5a8268d08",
-      "time": "2026-06-02 22:49:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Secretary of State Rubio: Iran will not receive sanctions relief solely for reopening the Strait of Hormuz."
-    },
-    {
-      "id": "4913282",
-      "time": "2026-06-02 22:49:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗還必須承諾就高濃縮鈾的處置問題開展具體談判。"
-    },
-    {
-      "id": "mkt:019e88cf-b94b-7aa9-a710-4edac7fcd57c",
-      "time": "2026-06-02 22:49:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said any easing of sanctions on Iran would be conditional on meeting specified requirements."
-    },
-    {
-      "id": "mkt:019e88cf-7e3b-7aa9-a710-4781b427db0b",
-      "time": "2026-06-02 22:49:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio said Iran must commit to concrete negotiations on the disposal of highly enriched uranium."
-    },
-    {
-      "id": "4913281",
-      "time": "2026-06-02 22:49:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗正在攻擊商業船隻，伊朗已在霍爾木茲海峽的大部分割槽域進行了佈雷，伊朗表示在停火生效時將開放霍爾木茲海峽，但他們並沒有這樣做。對伊朗的任何制裁解除都以符合條件為前提。"
-    },
-    {
-      "id": "mkt:019e88cf-2295-7aa9-a710-3f9a20595219",
-      "time": "2026-06-02 22:48:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Secretary of State Rubio said the primary condition for negotiations is that Iran open the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e88ce-daa7-7aa9-a710-30f833acdaa3",
-      "time": "2026-06-02 22:48:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said Oman has had \"ambiguous\" contacts with Iran aimed at controlling the Strait of Hormuz."
-    },
-    {
-      "id": "4913280",
-      "time": "2026-06-02 22:48:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "突尼西亞銀行工會：突尼西亞銀行從業人員計劃於6月舉行為期三天的罷工。"
-    },
-    {
-      "id": "mkt:019e88ce-41e2-7aa9-a710-2c37f8e8af7a",
-      "time": "2026-06-02 22:47:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran has laid mines across much of the Strait of Hormuz."
     }
   ]
 }
