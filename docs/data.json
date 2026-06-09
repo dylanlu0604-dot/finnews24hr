@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-10 07:19:03",
-  "count": 18706,
+  "updated": "2026-06-10 07:22:53",
+  "count": 18701,
   "items": [
+    {
+      "id": "mkt:019eaeb1-3a00-7ff4-a102-6762f492a564",
+      "time": "2026-06-10 07:21:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US officials: second round of strikes underway against Iran】Axios reports US officials say a second round of strikes against Iran is underway, targeting air-defense and radar systems."
+    },
+    {
+      "id": "4926801",
+      "time": "2026-06-10 07:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部賈斯克港遭美軍空襲】據當地居民反饋稱，當地時間今天（6月10日）凌晨，伊朗南部賈斯克港發生爆炸。伊朗國家電視臺稱，賈斯克港爆炸發生在凌晨2:35（北京時間7:05）左右，是美國襲擊導致的。稍早前，美軍開始空襲伊朗南部多地，稱這是對“一架美軍直升機遭伊朗擊落”的報復性打擊。"
+    },
+    {
+      "id": "4926800",
+      "time": "2026-06-10 07:20:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星和海力士或將宣佈韓國投資計劃】據韓國《每日經濟新聞》援引政界和行業官員報道，三星電子和SK海力士正處於對韓國各地區投資計劃進行最終審查的階段，最早可能在本月釋出公告。這兩家晶片製造商可能在韓國西南部和中部擴大設施投資。相關投資或包括封裝設施，亦有猜測可能會建設半導體晶圓廠。另據《韓國經濟日報》 報道，三星尋求計劃在全羅南道光州市建設一座先進封裝廠。韓國總統李在明最早將於6月末與各大財閥負責人會面，討論區域投資計劃。"
+    },
+    {
+      "id": "4926799",
+      "time": "2026-06-10 07:18:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所檔案：派想未來集團向港交所提交上市申請書。"
+    },
     {
       "id": "4926798",
       "time": "2026-06-10 07:18:24",
@@ -172575,94 +172613,6 @@
         "其他"
       ],
       "text": "【多元投融資體系 協同助力城市更新】隨著《城市更新“十五五”規劃》的出爐，系列重點任務、重大工程將進入落地階段。專家認為，城市更新領域重大工程覆蓋面廣，將成為拉動內需的重要支撐，並帶動更多產業投資機遇和需求釋放。同時，財政、金融、社會資本三方聯動的多元投融資體系協同發力，為推進城市更新提供有力的資金保障。（中國證券報）"
-    },
-    {
-      "id": "te:economy:555869",
-      "time": "2026-06-03 07:22:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index",
-        "Importance 1"
-      ],
-      "text": "Australia Industry Conditions Remain Weak — Australia’s Industry Index edged down 1.0 point to -26.5 in May 2026, underscoring persistent industrial weakness amid an energy crisis and economic uncertainty. New orders plunged 6.3 points to -34.6, back to late-2024 lows, as firms cited delayed investment, thin pipelines, and cautious re-ordering. Input volumes fell 5.5 points, reflecting supply chain disruptions, transport bottlenecks, and high freight costs. Activity/sales stayed subdued at -32.6, while employment remained in contraction at -14.6 despite modest improvement, with uneven labor conditions marked by skill shortages and reduced hours. Cost pressures eased but remained heavy: input prices dropped 6.4 points to 63.1, sales prices slipped 2.4 points to 18.3, leaving margins strained. Meanwhile, wages rose 6.0 points to 43.6. Capacity utilisation eased to 75.7%, constrained by surging energy costs, raw material shortages, and regulatory hurdles, with weak investment and uncertainty expected to weigh further on conditions."
-    },
-    {
-      "id": "mkt:019e8aa5-55b4-733d-881c-2ec05279299f",
-      "time": "2026-06-03 07:22:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude rose about 2.0% intraday to $97.21/bbl after reports of explosion sounds across multiple Middle Eastern countries."
-    },
-    {
-      "id": "4913764",
-      "time": "2026-06-03 07:22:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林關閉其領空，禁止所有交通通行，至少持續到協調世界時（ UTC  ） 16:00。 該通知稱，巴林飛行情報區 (FIR) 對所有飛機關閉，僅有限例外情況適用於先前批准從巴林國際機場起飛的航班。"
-    },
-    {
-      "id": "4913763",
-      "time": "2026-06-03 07:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微軟宣佈面向新型AI裝置推出“Project Solara”平臺】微軟宣佈面向新型AI裝置推出“Project Solara”平臺。晶片將執行AI Agent而非應用，並直接與雲端計算資料中心通訊。"
-    },
-    {
-      "id": "4913762",
-      "time": "2026-06-03 07:20:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4470美元/盎司，日內跌0.40%。"
-    },
-    {
-      "id": "4913761",
-      "time": "2026-06-03 07:20:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "提醒：韓國金融市場週三休市，週四恢復正常交易。"
-    },
-    {
-      "id": "mkt:019e8aa2-cff1-733d-881c-27987cddca57",
-      "time": "2026-06-03 07:19:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli outlet i24News reported Iran's Islamic Revolutionary Guard Corps (IRGC) said the US struck Qeshm Island; in response Iran launched drone and missile strikes on Kuwait."
-    },
-    {
-      "id": "4913760",
-      "time": "2026-06-03 07:19:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4500美元/盎司，日內跌0.46%。"
-    },
-    {
-      "id": "4913759",
-      "time": "2026-06-03 07:19:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊斯蘭革命衛隊（IRGC）宣告表示，它針對科威特境內的美國軍事基地實施了“精準且集中的導彈打擊”，以回應其所述的美國對伊朗格什姆島的襲擊。宣告稱：“任何新的愚蠢行為、任何進一步的侵略，或任何哪怕觸及我們邊界和主權一寸的舉動，都將遭到地震般的、毀滅性的和果斷的回應，這種回應將超越常規規則和界限，我們的勇敢部隊將毫不猶豫地將所有侵略者的基地及其在該地區的利益化為灰燼。”“‘打了就跑’的時代已經結束，壓迫勢力必須接受他們無知和魯莽冒險的嚴重後果。”"
     }
   ]
 }
