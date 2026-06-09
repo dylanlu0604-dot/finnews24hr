@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-10 06:28:17",
-  "count": 18711,
+  "updated": "2026-06-10 06:32:12",
+  "count": 18718,
   "items": [
+    {
+      "id": "4926754",
+      "time": "2026-06-10 06:30:52",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 日本航天局將發射H3火箭；\n② 09:30 中國5月CPI與PPI；\n③ 20:00 歐盟領導人在布魯塞爾會見到訪的韓國總統李在明；\n④ 20:30 美國5月CPI；\n⑤ 21:45 加拿大央行公佈利率決定；\n⑥ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；加拿大央行行長麥克勒姆和高階副行長羅傑斯召開貨幣政策新聞釋出會；\n⑦ 次日02:00 美國5月政府預算；\n⑧ 美股盤後 甲骨文釋出業績報告。"
+    },
+    {
+      "id": "4926753",
+      "time": "2026-06-10 06:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "與傳聞不符，伊朗德黑蘭、米納布及阿巴斯港目前均未出現受襲相關情況。"
+    },
+    {
+      "id": "te:markets:557781",
+      "time": "2026-06-10 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Falls by 3.11% — Top commodity losers are Natural Gas UK (-3.11%), Crude Oil WTI (-2.75%), Natural Gas EU (-2.47%) and Brent Crude Oil (-2.35%). Gains are led by Methanol (1.91%)."
+    },
+    {
+      "id": "4926752",
+      "time": "2026-06-10 06:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，SpaceX告知投資者，計劃在2027年開始軌道人工智慧計算測試。"
+    },
+    {
+      "id": "mkt:019eae81-5ea0-7ff4-a102-0986a391d9c9",
+      "time": "2026-06-10 06:29:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources said SpaceX told investors it aims to begin orbital AI compute testing in 2027."
+    },
+    {
+      "id": "4926751",
+      "time": "2026-06-10 06:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國眾議院議長：本次對伊行動規模適度、範圍有限】眾議院議長邁克·約翰遜表示，美軍對伊朗發起此次自衛性質打擊行動前，他曾與特朗普總統及多名高層官員一同身處白宮戰情室。約翰遜稱本次行動規模適度、範圍有限，打擊目標為雷達、導彈以及指揮控制設施。"
+    },
+    {
+      "id": "mkt:019eae80-dda2-7ff4-a102-00ccd32c2eb4",
+      "time": "2026-06-10 06:29:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fox News reported House Speaker Mike Johnson said he met in the White House war room with President Trump and senior officials before US forces launched what officials described as a self-defensive strike on Iran. Johnson said the action was proportionate and limited, targeting radar, missile and command-and-control facilities."
+    },
+    {
+      "id": "4926750",
+      "time": "2026-06-10 06:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織執董會完成備用安排審議後，亞美尼亞獲批動用2510萬美元資金。"
+    },
     {
       "id": "mkt:019eae7c-e8cd-7ff4-a101-fa3ba48cdac3",
       "time": "2026-06-10 06:24:42",
@@ -172726,17 +172802,6 @@
         "國際"
       ],
       "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 日本央行行長植田和男講話，日本政府將於6月3日向國會提交補充預算案；\n② 08:30 日本5月服務業、綜合PMI終值；\n③ 09:30 澳大利亞一季度GDP；\n④ 09:45 中國5月RatingDog服務業、綜合PMI；\n⑤ 10:05 越南5月進出口與貿易餘額；\n⑥11:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）參加CBS一個節目；\n⑦ 13:00 印度5月服務業、綜合PMI終值；\n⑧ 14:45 歐洲央行管委Rehn談論AI；\n⑨ 15:20 歐洲央行管委Primoz Dolenc講話；\n⑩ 15:50 法國5月服務業、綜合PMI終值；\n⑪ 15:55 德國5月服務業、綜合PMI終值；\n⑫ 16:00 歐元區5月服務業、綜合PMI終值；\n⑬ 16:30 法國5月服務業、綜合PMI終值；\n⑭ 17:10 瑞士央行行長Schlegel講話；\n⑮ 17:50 歐洲央行執委Elderson講話；\n⑯ 20:15 美國5月ADP就業人數（小非農）；\n⑰ 21:00 美聯儲理事Barr在社群開發銀行協會（CDBA）一個論壇講話；\n⑱ 21:30 歐洲央行執委Cipollone談論數字歐元；\n⑲ 21:45 美國5月標普全球服務業、綜合PMI終值；\n⑳ 22:00 美國5月ISM非製造業指數，4月耐用品訂單終值、工廠訂單；\n㉑ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n㉒ 次日02:00 美聯儲釋出褐皮書；\n㉓ 次日04:00 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）講話；\n㉔ 美股盤後 博通、C3.ai、CrowdStrike、NetSkope釋出業績報告。"
-    },
-    {
-      "id": "te:markets:555857",
-      "time": "2026-06-03 06:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.35% — Top commodity losers are Natural Gas UK (-3.35%), Natural Gas EU (-2.15%) and Methanol (-2.10%). Gains are led by Crude Oil WTI (1.81%), Gasoline (1.47%) and Brent Crude Oil (1.19%)."
     }
   ]
 }
