@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-09 14:54:20",
-  "count": 19152,
+  "updated": "2026-06-09 14:58:14",
+  "count": 19156,
   "items": [
+    {
+      "id": "mkt:019eab2b-e85a-7ee8-a201-55567910c430",
+      "time": "2026-06-09 14:57:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to launch on-site inspections targeting FX speculation】South Korea's Finance Ministry said it will crack down on foreign exchange speculation, with regulators planning on-site inspections and investigations of trades suspected of distorting markets. Vice Foreign Minister Moon Ji-sung said authorities will target transactions intended to skew prices and will carry out inspections this week to check whether participants engaged in speculative trading. The government called the situation serious, said it is coordinating with other agencies and is closely monitoring market trends and major order flows."
+    },
+    {
+      "id": "4925388",
+      "time": "2026-06-09 14:57:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至2025年底 我國智慧算力規模位居全球第二】國家資料局6月8日釋出《數字中國發展報告（2025年）》，截至2025年底，全國在用算力設施機架數超過1373萬標準機架，建成萬卡智算叢集42個，智慧算力規模達到159萬PFLOPS（FP16），位居全球第二。報告資料顯示，截至2025年底，我國網民規模達11.25億人，網際網路普及率達80.1%；用人工智慧來解答問題、生成圖片影片、作為生活助手的使用者規模，分別達4.57億人、2.88億人和1.84億人。生成式人工智慧正逐漸融入我國各類群體的日常生活中，中青年、高學歷使用者是核心群體。在所有生成式人工智慧使用者中，40歲以下中青年使用者佔比達74.6%。 (經濟日報)"
+    },
+    {
+      "id": "4925387",
+      "time": "2026-06-09 14:56:03",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【日本光纖龍頭謀劃漲價 報告顯示2026年美國本土光纜需求增長強勁】日本光纖龍頭藤倉（Fujikura）社長岡田直樹日前受訪時透露，當前，公司正接獲幾乎所有美國超大規模雲服務商的光纖訂單，導致面向AI資料中心的光纖產品供需十分緊張，公司將推進提價，已有部分客戶接受漲價。據CRU5月報告，2026年美國本土光纜需求增長強勁，資料中心正驅動G.657.A1/A2等高規格、高附加值光纖產品需求快速增長；中國資料中心光纜需求增量主要來自國內頭部雲廠商的集中採購（例如阿里、騰訊等）。華泰證券認為，供給方面，產能恢復路徑已明，但瓶頸與結構性矛盾突出，供應短缺局面仍將持續。"
+    },
+    {
+      "id": "4925386",
+      "time": "2026-06-09 14:55:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：2027年將增加地方政府資金分配。"
+    },
+    {
+      "id": "4925385",
+      "time": "2026-06-09 14:54:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST寶馨盤中跌停，上演“天地板”，現報3.66元，成交額2.49億元。"
+    },
+    {
+      "id": "4925384",
+      "time": "2026-06-09 14:54:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
     {
       "id": "mkt:019eab28-4f5e-7ee8-a201-4b9c40f86637",
       "time": "2026-06-09 14:53:26",
@@ -176681,23 +176733,6 @@
         "Important"
       ],
       "text": "Vietnam's VN Index fell 1%."
-    },
-    {
-      "id": "4912087",
-      "time": "2026-06-02 14:57:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數下跌1%至1826.04。"
-    },
-    {
-      "id": "4912086",
-      "time": "2026-06-02 14:56:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破70000美元，日內跌1.98%。"
     }
   ]
 }
