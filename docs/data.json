@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-10 02:25:50",
-  "count": 18721,
+  "updated": "2026-06-10 02:29:40",
+  "count": 18712,
   "items": [
+    {
+      "id": "4926619",
+      "time": "2026-06-10 02:28:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Anthropic 最新前沿模型 Claude Fable 5 現已在谷歌雲全面上線。"
+    },
+    {
+      "id": "4926618",
+      "time": "2026-06-10 02:26:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富國銀行警示：AI概念股遭遇猛烈拋售，給狂熱投資者敲響“清道夫式”警鐘】富國銀行表示，上週五科技股領跌的深度回撥，無疑給市場投資者敲響了警鐘，這清晰地暴露了盲目扎堆擠入人工智慧（AI）賽道所蘊含的巨大持倉風險。富國銀行策略分析師Ohsung Kwon認為，驅動近期股市瘋狂飆升的“糖類亢奮期”（Sugar rush，指由大量投機資金驅動的非理性亢奮）預計已經宣告終結，未來大盤整體的爬坡速度將明顯放緩，不過美股大趨勢依然存在上漲的博弈空間。"
+    },
+    {
+      "id": "4926617",
+      "time": "2026-06-10 02:25:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "房利美跌幅迅速擴大至5.9%。"
+    },
     {
       "id": "te:markets:557769",
       "time": "2026-06-10 02:25:07",
@@ -172649,130 +172673,6 @@
         "Impact bullish"
       ],
       "text": "Microsoft (MSFT.O) head of AI said MAI Image 2.5 and its Flash variant have surpassed Nano Banana 2 on image-editing benchmarks."
-    },
-    {
-      "id": "mkt:019e8998-e3c6-7779-8aad-867c308101bf",
-      "time": "2026-06-03 02:29:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) head of AI said MAI-CODE-1 FLASH is Microsoft's new code-generation model."
-    },
-    {
-      "id": "4913588",
-      "time": "2026-06-03 02:29:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人：MAI Image 2.5及其極速版本在影象編輯任務上的得分超越了Nano Banana 2。"
-    },
-    {
-      "id": "mkt:019e8998-a15c-7779-8aad-78c5de53a3ef",
-      "time": "2026-06-03 02:29:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is the company's first inference model."
-    },
-    {
-      "id": "mkt:019e8998-50ef-7779-8aad-75b050d52f13",
-      "time": "2026-06-03 02:28:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is an inference model with 35 billion active parameters."
-    },
-    {
-      "id": "mkt:019e8997-cb5e-7779-8aad-6925113ce7f8",
-      "time": "2026-06-03 02:28:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) head of AI said the MAI-TRANSCRIBE-1.5 model is the most cost-effective among comparable models from all hyperscale cloud providers."
-    },
-    {
-      "id": "mkt:019e8997-347d-7779-8aad-6750fa4808dc",
-      "time": "2026-06-03 02:27:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) AI chief announced the launch of seven new AI models, adding image and transcription models to its product lineup."
-    },
-    {
-      "id": "4913587",
-      "time": "2026-06-03 02:27:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人：MAI-CODE-1 Flash是微軟全新程式設計模型。"
-    },
-    {
-      "id": "mkt:019e8996-9f52-7779-8aad-5bcc7d55e95a",
-      "time": "2026-06-03 02:26:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump: bank accounts used to support or hold benefits for illegal immigrants will be closed; funds will be seized, forfeited and returned to taxpayers."
-    },
-    {
-      "id": "mkt:019e8996-63db-7779-8aad-54740527bd77",
-      "time": "2026-06-03 02:26:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said access to the U.S. financial system must be limited to individuals with lawful residency and who engage in lawful commercial activity."
-    },
-    {
-      "id": "4913586",
-      "time": "2026-06-03 02:26:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人：MAI-THINKING-1是微軟人工智慧旗下首個推理大模型。"
-    },
-    {
-      "id": "4913585",
-      "time": "2026-06-03 02:26:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人：MAI-THINKING-1是引數規模達350億的啟用引數推理模型。"
-    },
-    {
-      "id": "mkt:019e8996-00c8-7779-8aad-4be6af8f7cd9",
-      "time": "2026-06-03 02:26:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said illegal immigrants and foreign scammers steal billions of dollars annually from U.S. taxpayers. He signed a new U.S. Treasury-led executive order to prevent banks, credit-card companies and other financial institutions from being used to facilitate human smuggling, drug trafficking, illegal immigration and the criminal networks that organize these activities."
     }
   ]
 }
