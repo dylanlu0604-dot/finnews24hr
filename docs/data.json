@@ -1,7 +1,221 @@
 {
-  "updated": "2026-06-10 00:10:41",
-  "count": 18802,
+  "updated": "2026-06-10 00:14:40",
+  "count": 18817,
   "items": [
+    {
+      "id": "mkt:019ead29-3911-7cc9-8dbf-df48a4bf59ed",
+      "time": "2026-06-10 00:13:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA now assumes oil shipments through the Strait of Hormuz will resume in Q3 2026. It expects traffic through the Strait will not return to pre-Iran-war levels before early 2027."
+    },
+    {
+      "id": "4926544",
+      "time": "2026-06-10 00:13:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利CEO：沉寂已久的投資方已開始重新開展業務。"
+    },
+    {
+      "id": "mkt:019ead28-88e0-7cc9-8dbf-d589fe7be247",
+      "time": "2026-06-10 00:12:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA: US oil production is forecast to average 13.83 mln b/d in June, up from 13.71 mln b/d in May; July is forecast at 13.82 mln b/d."
+    },
+    {
+      "id": "4926543",
+      "time": "2026-06-10 00:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署：預計霍爾木茲海峽航運量要到 2027 年初才能恢復至伊朗局勢動盪前的水平。"
+    },
+    {
+      "id": "mkt:019ead28-361b-7448-ac08-2b88f7656640",
+      "time": "2026-06-10 00:12:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EIA forecasts U.S. natural gas production will average 122.3 billion cubic feet per day (bcf/d) in June, up slightly from May's 122.1 bcf/d; July is forecast at 122.5 bcf/d."
+    },
+    {
+      "id": "te:markets:557748",
+      "time": "2026-06-10 00:12:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.11% Higher — The FTSE MIB Index gained 55 points or 0.11 percent on Tuesday to close at 50263 points. Gains were led by Unipol Gruppo (4.40%), Mediobanca (3.10%) and Bper Banca (2.90%). Biggest losers were STMicroelectronics (-5.75%), Prysmian (-4.46%) and Tenaris (-3.09%)."
+    },
+    {
+      "id": "mkt:019ead27-c518-7448-ac08-22b9872bd7fe",
+      "time": "2026-06-10 00:11:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bearish",
+        "ARM.O",
+        "QCOM.O"
+      ],
+      "text": "Philadelphia Semiconductor Index fell more than 6%; Marvell (MRVL.O) and Arm (ARM.O) dropped over 10%, Qualcomm (QCOM.O) fell over 9%, AMD (AMD.O) and Micron Technology (MU.O) declined over 7%."
+    },
+    {
+      "id": "4926542",
+      "time": "2026-06-10 00:11:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署：目前預估霍爾木茲海峽石油運輸將於 2026 年第三季度恢復。"
+    },
+    {
+      "id": "4926541",
+      "time": "2026-06-10 00:11:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守86美元/桶，日內跌5.81%。"
+    },
+    {
+      "id": "te:markets:557747",
+      "time": "2026-06-10 00:11:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.74% Lower — The DAX Index decreased 183 points or 0.74 percent on Tuesday to close at 24433 points. The decline was led by Siemens Energy (-5.92%), SAP (-2.11%) and Infineon (-2.03%). On the upside, the strongest performers were Symrise (7.46%), Henkel (2.66%) and Beiersdorf (2.47%)."
+    },
+    {
+      "id": "te:markets:557745",
+      "time": "2026-06-10 00:10:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.05% Higher — The CAC 40 Index rose 4 points or 0.05 percent on Tuesday to close at 8203 points. Leading the gains are Essilor (3.49%), Kering (2.93%) and Pernod Ricard (2.45%). Top losers were STMicroelectronics (-6.96%), ArcelorMittal (-3.98%) and Schneider Electric (-2.38%)."
+    },
+    {
+      "id": "mkt:019ead26-3b85-7448-ac08-19cf2258a7c5",
+      "time": "2026-06-10 00:09:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slid below $89/bbl, down 4.74% intraday."
+    },
+    {
+      "id": "te:markets:557744",
+      "time": "2026-06-10 00:09:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits 7-week Low — Brent decreased to 89.68 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Brent Crude Oil lost 13.85%, and in the last 12 months, it increased 34.25%."
+    },
+    {
+      "id": "4926540",
+      "time": "2026-06-10 00:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利財長：2026 年將把結構性財政缺口控制在 GDP 的 2.6% 。"
+    },
+    {
+      "id": "mkt:019ead24-fc60-7448-ac08-12f9432c2374",
+      "time": "2026-06-10 00:08:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA now forecasts global oil demand at 102.9 mln b/d in 2026, down from a prior 104.2 mln b/d; it sees 2027 demand at 105.3 mln b/d, versus 105.6 mln b/d previously."
+    },
+    {
+      "id": "mkt:019ead24-fb46-7448-ac08-0edbdfad0360",
+      "time": "2026-06-10 00:08:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "EIA June Short‑Term Energy Outlook projects U.S. crude oil production at 14.15 mln b/d next year, versus 14.10 mln b/d previously."
+    },
+    {
+      "id": "mkt:019ead24-afbc-7448-ac08-0145be1a0fcb",
+      "time": "2026-06-10 00:08:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "June EIA Short-Term Energy Outlook: US crude oil production forecast for the year 13.72 mln b/d, prior 13.65 mln b/d."
+    },
+    {
+      "id": "mkt:019ead24-af55-7448-ac07-fc5fbbc5e759",
+      "time": "2026-06-10 00:08:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Crude Oil Production Estimate (Next Year) (Jun) | actual 14150000M | previous 14100000M"
+    },
+    {
+      "id": "mkt:019ead24-9852-7448-ac07-f56ff78fe93a",
+      "time": "2026-06-10 00:08:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Crude Oil Production Estimate (Current Year) (Jun) | actual 13720000M | previous 13650000M"
+    },
+    {
+      "id": "mkt:019ead24-86bd-7448-ac07-e893ecf9a3c5",
+      "time": "2026-06-10 00:08:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA's June forecast for U.S. natural gas production next year: 113.6 bcf/d, down from 115.0 bcf/d previously."
+    },
     {
       "id": "te:markets:557742",
       "time": "2026-06-10 00:08:18",
@@ -15,6 +229,34 @@
       "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 28567.00 Index Points, the lowest since May 2026. Over the past 4 weeks, US 100 Tech Index lost 2.47%, and in the last 12 months, it increased 30.32%."
     },
     {
+      "id": "mkt:019ead24-5883-7448-ac07-e35a54076ab1",
+      "time": "2026-06-10 00:08:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA June forecast for U.S. natural gas production this year: 111.0 bcf/d, up from 110.6 bcf/d previously."
+    },
+    {
+      "id": "mkt:019ead24-587d-7448-ac07-df3d58abbf3a",
+      "time": "2026-06-10 00:08:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Natural Gas Production Estimate (Next Year) (Jun) | actual 113600000000B | previous 115000000000B"
+    },
+    {
+      "id": "mkt:019ead24-28b0-7448-ac07-d51da2150ddd",
+      "time": "2026-06-10 00:08:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Natural Gas Production Estimate (Current Year) (Jun) | actual 111000000000B | previous 110600000000B"
+    },
+    {
       "id": "4926539",
       "time": "2026-06-10 00:07:43",
       "tags": [
@@ -24,6 +266,28 @@
       "text": "隨著油價進一步下跌，美國國債收益率延續下滑趨勢。"
     },
     {
+      "id": "mkt:019ead23-a078-7448-ac07-cb572d3c977c",
+      "time": "2026-06-10 00:07:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA projects U.S. natural gas production of 111.0 Bcf/d in 2026, up from a prior 110.6 Bcf/d forecast; it now foresees 2027 demand at 113.6 Bcf/d, down from 115.0 Bcf/d previously."
+    },
+    {
+      "id": "mkt:019ead23-7f71-7448-ac07-c68c0802a88c",
+      "time": "2026-06-10 00:07:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "U.S. EIA June estimate for this year’s average Brent price: $95.39/bbl, versus $94.85/bbl previously."
+    },
+    {
       "id": "4926538",
       "time": "2026-06-10 00:07:22",
       "tags": [
@@ -31,6 +295,18 @@
         "國際"
       ],
       "text": "【油價推動加拿大出口創新高 順差額達到特朗普加關稅前以來最大】由於原油價格上漲推動出口創歷史新高，加拿大4月貿易順差進一步擴大。加拿大統計局週二公佈的資料顯示，該國4月貿易順差從3月的17.5億加元增至27.2億加元。這是加拿大連續第二個月實現貿易順差，也是2025年1月以來的最大順差額。加拿大對美國的貿易順差也創下2025年2月以來的最高水平，當時美國總統特朗普尚未對加拿大加徵關稅。加拿大4月出口總額增長1.6%，達到752億加元，增長範圍涉及多個領域。能源出口增長貢獻最大，價格上漲推動4月原油出口增長7%。"
+    },
+    {
+      "id": "mkt:019ead23-6012-7448-ac07-bfa2db5c3113",
+      "time": "2026-06-10 00:07:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA's June forecast for this year's U.S. WTI average price: $88.32/bbl, prior $85.68/bbl."
     },
     {
       "id": "te:markets:557741",
@@ -43,6 +319,20 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 1.25% Lower — The FTSE 100 Index dropped 130 points or 1.25 percent on Tuesday to close at 10243 points. Losses were led by Standard Chartered (-5.48%), Glencore (-4.12%) and HSBC Holdings (-4.05%)."
+    },
+    {
+      "id": "mkt:019ead22-e841-7448-ac07-b3b195eefe9c",
+      "time": "2026-06-10 00:06:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA projects US crude oil production at 13.72 mln bbl/d in 2026, up from its prior 13.65 mln bbl/d forecast; 2027 output is seen at 14.15 mln bbl/d (prior 14.10)."
     },
     {
       "id": "4926537",
@@ -173313,114 +173603,6 @@
         "觀點"
       ],
       "text": "花旗集團將希捷科技的目標股價從每股740.00美元上調至1150.00美元，維持希捷科技買入評級。"
-    },
-    {
-      "id": "4913436",
-      "time": "2026-06-03 00:14:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府：巴西保留援引本國《互惠法》應對不公平貿易行為的權利。"
-    },
-    {
-      "id": "4913435",
-      "time": "2026-06-03 00:14:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX 員工抱團議價，IPO 前爭取更低管理費與節稅理財工具】超一千名SpaceX在職及離職員工結成聯盟，在公司IPO落地前與財富管理機構談判，爭取更優惠費率、對接各類金融產品。該團體已接洽20餘家理財顧問機構與私人銀行，謀求股權質押借貸、直接指數投資等精細化理財方案，目標將全部受託資產的管理費率控制在0.5%以下。此舉或將為手握大額IPO行權收益的科創企業員工打造全新財富管理範本，業內專家表示，依託集體籌碼抱團議價將成為行業常態。"
-    },
-    {
-      "id": "te:markets:555833",
-      "time": "2026-06-03 00:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rebound — European stocks closed firmly higher on Tuesday, trimming losses from last week with support from a respite in sovereign bonds despite the prolonged impasse between the US and Iran. The Euro STOXX 50 added 1.2% to 6,100 and the STOXX Europe 600 gained 0.7% to 625. The tech sector led the gains amid news that SK Hynix will double its wafer capacity and bullish signals from the largest companies. ASML surged 5% and Infineon gained 9.5%. Also, STMicroelectronics surged 15% after raising its earnings target and Prosus surged 9.4% after Tencent announced it was testing a new AI agent. Banks also closed sharply higher to track the rebound in sovereign bonds, with UniCredit, BNP Paribas, and Deutsche Bank adding more than 1.6%. Meanwhile, Eurozone's preliminary inflation data showed the headline rate rose to 3.2% as expected, while the core inflation rose slightly more than expected to 2.5%, consolidating bets of a rate hike by the ECB next week."
-    },
-    {
-      "id": "4913434",
-      "time": "2026-06-03 00:13:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：需加快審批流程，推動紐約新增建設專案落地。"
-    },
-    {
-      "id": "mkt:019e891c-1374-7ff0-aaad-f0501d286c8e",
-      "time": "2026-06-03 00:12:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources say Venezuela is urging energy firms to self-supply electricity to ensure continued operation of oil and gas assets."
-    },
-    {
-      "id": "4913433",
-      "time": "2026-06-03 00:12:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西總統簽署法令確保順利舉辦女足世界盃】2日，巴西《聯邦政府公報》上刊登了由總統盧拉簽署的一項法令，該法令為該國舉辦2027年女足世界盃所採取的相關舉措奠定法律基礎。 這項法令涵蓋諸多方面，包括門票銷售和轉售、簡化簽證手續、志願者管理規定、公共安全措施、商業權利保護以及各級政府間的協調等。 巴西體育部長科爾代羅說：“巴西不只是要舉辦一項賽事，更致力於透過賽事在社會包容、基礎設施和體育發展等領域留下遺產。” 2027年女足世界盃將於6月24日至7月25日舉行，預計將有超300萬球迷現場觀賽。(新華社)"
-    },
-    {
-      "id": "4913432",
-      "time": "2026-06-03 00:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府：預計美國貿易代表辦公室的提案不會形成實際關稅，但仍將採取措施減輕其可能對經濟造成的損害。"
-    },
-    {
-      "id": "4913431",
-      "time": "2026-06-03 00:12:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "逾千名SpaceX在職及離職員工結成同盟展開相關行動，謀求公司IPO後降低財富管理費。"
-    },
-    {
-      "id": "4913430",
-      "time": "2026-06-03 00:11:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX員工組建團體，謀求公司IPO後降低財富管理費。"
-    },
-    {
-      "id": "4913429",
-      "time": "2026-06-03 00:11:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：秘魯企業將面臨大選後政策分化的局面。"
-    },
-    {
-      "id": "te:markets:555832",
-      "time": "2026-06-03 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.48% Higher — The DAX Index went up by 121 points or 0.48 percent on Tuesday to close at 25124 points. The rise was led by Infineon (9.98%), Scout24 (5.24%) and Continental (3.03%). On the downside, the weakerst performers were SAP (-3.65%), Bayer (-2.93%) and Deutsche Boerse (-2.38%)."
-    },
-    {
-      "id": "4913428",
-      "time": "2026-06-03 00:10:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛CEO所羅門：希望聽取紐約市長馬姆達尼進一步闡述相關業務情況。"
     }
   ]
 }
