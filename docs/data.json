@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-11 07:55:09",
-  "count": 18425,
+  "updated": "2026-06-11 07:59:03",
+  "count": 18423,
   "items": [
+    {
+      "id": "4929163",
+      "time": "2026-06-11 07:58:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：客戶上週拋售美國科技股規模創2008年以來最大】美銀證券援引截至6月5日當週的客戶資金流向資料，稱隨著標普500指數創下2025年4月以來最大單週跌幅，上週該行客戶撤出美國科技股的規模達到紀錄最大。從市值佔比來看，當週科技股的資金流出規模創下2014年初以來最高紀錄。個股拋售規模也創下歷史新高。其補充道：“資金流出完全集中在大盤股，客戶轉而買入了中小盤股。”"
+    },
+    {
+      "id": "te:markets:558186",
+      "time": "2026-06-11 07:57:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slide as Iran Strikes Escalate — US stock futures declined on Thursday after the US military launched additional strikes against Iran as President Donald Trump accused Tehran of dragging out talks on an interim peace deal. The latest escalation sent oil prices higher, keeping traders cautious about inflationary risks and potential central bank interest rate hikes. In corporate news, Oracle shares plunged more than 10% in extended trading after the company unveiled plans to raise an additional $20 billion through equity and debt offerings to support its artificial intelligence expansion. In regular trading on Wednesday, the Dow fell 1.87%, the S&P 500 lost 1.62%, and the Nasdaq Composite slid 1.98%. Eight of the 11 S&P sectors finished in negative territory, with industrials, materials, and technology stocks leading the declines. Tech and chip stocks also faced renewed selling pressure amid lingering concerns over lofty AI-related valuations and growing investor caution ahead of SpaceX's closely watched IPO on Friday."
+    },
+    {
+      "id": "4929162",
+      "time": "2026-06-11 07:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列軍隊炮兵對黎巴嫩南部納巴提耶市醫院周邊進行猛烈轟炸。"
+    },
+    {
+      "id": "te:economy:558185",
+      "time": "2026-06-11 07:55:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Business Survey Index Large Manufacturing Firms",
+        "Importance 1"
+      ],
+      "text": "Japan Business Sentiment Falls to 1-Year Low — Japan’s Business Survey Index for large manufacturers unexpectedly fell to -1.8% in the second quarter of 2026 from 3.8% in Q1, the first negative reading since the second quarter of 2025. The latest reading missed market expectations of 4.2%, as businesses were weighed down by the Middle East conflict and surging oil prices."
+    },
+    {
+      "id": "4929161",
+      "time": "2026-06-11 07:55:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【玉淵譚天：該警惕日本的，不只是中國】最近的日本很不安分。6月9日，日本自民黨透過了修改“安保三檔案”的草案，試圖掙脫其所謂“專守防衛”的束縛。就在同一天，針對日本聯合菲律賓侵害我海洋權益的企圖，中國外交部、國防部兩部門接連發聲。中方的態度很清楚，日菲的行為嚴重侵害中方的海洋權益，中方絕不允許。中方將以堅決有力的行動舉措維護國家領土主權和海洋權益。說得再直白一點，如果日本一意孤行，只會求錘得錘。而這些博弈背後，是日本一個更危險的企圖：透過聯合菲律賓，日本正將東海、臺海、南海三個海域的安全議題繫結聯動，搞“三海聯動”，把更多國家拉進其安全框架。日菲還在不斷勾連炒作，企圖把其軍事化行為正常化。今天日本以“合作”之名進入南海，明天就可能把地區國家推到它軍事正常化的最前線。這不是東南亞國家需要的安全。無論如何，中方都會做好相應的準備。只是日本如果天真地以為，靠這些動作就能把中國拖進它設計的節奏裡，那恐怕是打錯了算盤。真正會被這種戰略反噬的，只會是不斷把自己推向軍事化深水區的日本。"
+    },
     {
       "id": "mkt:019eb3f4-cb07-7dd8-afaf-6cafd5365aef",
       "time": "2026-06-11 07:53:44",
@@ -169783,70 +169832,6 @@
         "Impact bearish"
       ],
       "text": "【Rubio: Russia-Ukraine talks stalled; escalation risk】On the 3rd, U.S. Secretary of State Rubio told a Senate Appropriations subcommittee that negotiations between Russia and Ukraine have stalled in recent months and carry a real risk of escalation. He said the conflict cannot be resolved by military means and must be settled diplomatically, but that route has not produced results to date. Both sides appear unwilling to make the concessions required for a deal, he said. Russia retains long-range strike capabilities and Ukraine can retaliate in kind, making the risk of escalation real and more tangible than two years ago."
-    },
-    {
-      "id": "4916171",
-      "time": "2026-06-04 07:59:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "中金公司研究部首席宏觀經濟分析師張文朗表示，從總量政策看，下半年貨幣政策將延續“適度寬鬆”的基調，預計降準降息將視經濟增長和物價水平情況而定。"
-    },
-    {
-      "id": "4916170",
-      "time": "2026-06-04 07:58:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【年內多家公募宣佈增資 強化資本儲備“壓艙石”】6月2日，湘財基金髮布公告，宣佈全資控股股東湘財證券再次向其注資，公司註冊資本由3.5億元增至4億元。2026年開年以來，多家基金公司相繼宣佈或完成增資計劃。業內人士表示，充足的資本儲備是基金公司行穩致遠的“壓艙石”，不僅能提升公司的抗風險能力與合規運營水平，更為其豐富產品線、提升投研能力及最佳化公司治理提供了動能。"
-    },
-    {
-      "id": "4916169",
-      "time": "2026-06-04 07:58:05",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【中證報：央行逆回購操作量歸零為技術性回籠 銀行間市場流動性充裕】6月3日，中國人民銀行釋出的公告稱，根據公開市場業務一級交易商的需求，當日7天期逆回購操作量為零。專家表示，央行在當日的公告中明確“7天期逆回購操作量為零”，是根據一級交易商的需求決定的。這種情況從側面印證了當前商業銀行流動性十分充裕，對補充短期流動性的意願不強。東方金誠首席宏觀分析師王青分析，6月1日，1年期商業銀行（AAA級）同業存單到期收益率降至1.4275%，再創新低。6月2日，該收益率資料繼續處於這一低位。這表明，與在貨幣市場融資相比，商業銀行向央行融資的成本優勢已不明顯。 王青表示，央行此舉也可能與短期內政府債券發行尚未持續顯著放量和信貸投放處於溫和狀態有關，商業銀行向央行的融資需求有所下降。 專家表示，當前銀行間市場流動性充裕，央行的上述舉措並不意味著收緊流動性，貨幣政策適度寬鬆的方向沒有改變。"
-    },
-    {
-      "id": "mkt:019e8fea-c25b-7003-8287-9b126a4aa070",
-      "time": "2026-06-04 07:56:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Lee: Hong Kong and Uzbekistan agree mutual 30-day visa exemption】Hong Kong Chief Executive John Lee, leading a delegation in Uzbekistan, reached agreement with Uzbek authorities on reciprocal visa-free stays of up to 30 days. Both governments will finalise implementation details and move to put the arrangement into effect promptly."
-    },
-    {
-      "id": "4916168",
-      "time": "2026-06-04 07:56:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度要求國有銀行增加緩衝資金。（印度媒體MINT）"
-    },
-    {
-      "id": "4916167",
-      "time": "2026-06-04 07:55:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "QUANTINUUM IPO定價為每股60美元，高於預期範圍。"
-    },
-    {
-      "id": "mkt:019e8fea-10ed-7003-8287-96d2c0c216c8",
-      "time": "2026-06-04 07:55:41",
-      "tags": [
-        "MKT News",
-        "V.O",
-        "Impact bearish",
-        "MA.O"
-      ],
-      "text": "【Visa, Mastercard to suspend Cuba transactions; Melia to exit 15 hotels】Cuban state media, citing the central bank, said Visa and Mastercard will suspend card transaction services in Cuba effective this weekend under President Trump’s latest sanctions. Separately, Melia Hotels International said it will withdraw from Cuba and immediately terminate operating agreements for 15 hotels; the company did not explicitly cite U.S. sanctions, attributing the decision to Cuba’s geopolitical, social, legal and economic environment."
     }
   ]
 }
