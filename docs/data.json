@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-10 23:12:25",
-  "count": 18342,
+  "updated": "2026-06-10 23:16:14",
+  "count": 18338,
   "items": [
+    {
+      "id": "4928683",
+      "time": "2026-06-10 23:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員埃斯梅爾·科薩里警告稱，除非波斯灣沿岸的阿拉伯國家阻止美國總統特朗普並將美軍逐出該地區，否則伊朗將打擊這些國家的基礎設施。"
+    },
+    {
+      "id": "4928682",
+      "time": "2026-06-10 23:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我科學家主導發現全球最深最大鯨類化石群和鯨落】在中國科學院深海科學與工程研究所主導下，“全球深淵探索計劃”科研團隊在東南印度洋迪亞曼蒂納深淵，發現全球已知最深、規模最大的鯨類化石群和鯨落生態系統，並揭示該區域自530萬年前至今一直是鯨類的“大墓地”。相關論文成果6月10日線上發表於國際學術期刊《自然》。（新華社）"
+    },
+    {
+      "id": "4928681",
+      "time": "2026-06-10 23:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普即將發表講話。"
+    },
+    {
+      "id": "4928680",
+      "time": "2026-06-10 23:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：歐洲與韓國建立了長久的夥伴關係，雙方合作空前緊密。今日我們宣佈簽署數字貿易協定並建立競爭力夥伴關係。"
+    },
+    {
+      "id": "4928679",
+      "time": "2026-06-10 23:12:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至盤中低點1.2%。"
+    },
+    {
+      "id": "4928678",
+      "time": "2026-06-10 23:12:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股晶片股普遍轉跌】美股晶片股普跌，高通跌逾5%，博通跌逾4%，美國超微公司、臺積電跌逾2%，英偉達跌2%"
+    },
+    {
+      "id": "4928677",
+      "time": "2026-06-10 23:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安汽車否認“四折出售長福新能源”，稱股權轉讓屬股東層面正常結構調整】有傳言稱長安汽車“四折出售長安福特新能源公司（簡稱“長福新能源”）40%股權”。6月10日，長安汽車方面回應稱，長安汽車直接持有長福新能源的股權就只有40%。本次股權轉讓是以評估機構對長福新能源的評估值為基準，對應40%股權的評估價值作為掛牌價格，並不存在所謂“四折出售”的情況。長安汽車方面表示，此次股權轉讓屬於股東層面的正常結構調整。"
+    },
+    {
+      "id": "mkt:019eb217-22dd-7dd8-afa7-1f9fb7d41e7a",
+      "time": "2026-06-10 23:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index extends decline as capesize rates slide】The Baltic Dry Index extended its decline, falling 47 pts (-1.67%) to 2,771 as weaker capesize rates weighed. The capesize index dropped 140 pts (-3.2%) to 4,301; capesize average daily earnings fell $1,267 to $35,504. The panamax index rose 6 pts (0.3%) to 2,211, with panamax daily earnings up $51 to $19,897. The supramax index gained 4 pts (0.3%) to 1,618 and the handysize index added 7 pts to 875."
+    },
     {
       "id": "4928676",
       "time": "2026-06-10 23:11:18",
@@ -168960,122 +169026,6 @@
         "XAUUSD"
       ],
       "text": "CENTCOM said as of June 3 its forces had guided 125 commercial vessels to alter course and rendered 6 vessels inoperable."
-    },
-    {
-      "id": "4915738",
-      "time": "2026-06-03 23:15:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍稱已在霍爾木茲海峽排程 125 艘船隻變更航線。"
-    },
-    {
-      "id": "4915737",
-      "time": "2026-06-03 23:15:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：將持續採取舉措，緩解戰事對物價造成的衝擊。"
-    },
-    {
-      "id": "mkt:019e8e0c-6304-744e-9fd4-1d12dde76a82",
-      "time": "2026-06-03 23:13:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he intends to keep the fiscal deficit-to-GDP ratio at about 3.x%."
-    },
-    {
-      "id": "4915736",
-      "time": "2026-06-03 23:13:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：巴西 2026 年二季度經濟表現將再度超市場預期。"
-    },
-    {
-      "id": "mkt:019e8e0c-203c-744e-9fd4-118da2241757",
-      "time": "2026-06-03 23:13:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Foreign long-term investors boost allocations to Chinese hard tech】Several global financial institutions have raised China outlooks and increased allocations to Chinese technology firms, accelerating onshore investment. MSCI has formally added 19 A-shares to the MSCI China Index, concentrated in optical communications, computing power and high-end manufacturing, which eases foreign access to these names. Foreign holdings of A-share free-float market value exceed 4 trillion yuan and year‑to‑date inflows have been steady via various channels. Investment banks including Morgan Stanley and Deutsche Bank have recently lifted their 2026 China GDP forecasts; many cite China’s core competitiveness in tech innovation as the main rationale for increasing exposure."
-    },
-    {
-      "id": "mkt:019e8e0c-0b1f-744e-9fd4-0f33ded61f6f",
-      "time": "2026-06-03 23:13:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH monitoring shows Italy's residential mortgage market remains stable and housing supply remains ample."
-    },
-    {
-      "id": "4915735",
-      "time": "2026-06-03 23:13:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國10年期國債收益率漲5個基點，重新整理5月22日以來高位至3.03%。"
-    },
-    {
-      "id": "mkt:019e8e0b-e4e6-744e-9fd4-0196d0fd343c",
-      "time": "2026-06-03 23:13:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Germany's 10-year bond yield rose 5bps to 3.03%, the highest since May 22."
-    },
-    {
-      "id": "te:economy:556217",
-      "time": "2026-06-03 23:13:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Manufacturing PMI",
-        "Importance 0"
-      ],
-      "text": "Colombia Manufacturing PMI Hits Five-Month High — Colombia's Davivienda Manufacturing PMI rose to 51.8 in May 2026 from 50.8 in April, marking the highest reading since December 2025 and signaling a stronger expansion in factory activity. Resilient demand supported modest increases in both output and new orders, helping production return to growth. Manufacturers also increased staffing levels for a second consecutive month, supported by improved expectations for future output. Business confidence rose to a three-month high. Firms boosted purchases of raw materials and semi-finished goods to strengthen inventories, while input cost inflation accelerated to its highest level in 38 months. Output prices continued to rise at a historically elevated pace, although the rate eased to its weakest this year. Meanwhile, supplier delivery times lengthened to the greatest extent since September 2024, stocks of purchases and finished goods declined for a third straight month, and outstanding business volumes fell for the fourth consecutive month."
-    },
-    {
-      "id": "4915734",
-      "time": "2026-06-03 23:13:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： 計劃將赤字率控制在 3% 左右。"
-    },
-    {
-      "id": "te:markets:556216",
-      "time": "2026-06-03 23:12:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Extends Gains — Brent crude oil futures extended gains to nearly 2%, reaching $97.6 per barrel after EIA data showed a sixth consecutive weekly decline in US crude inventories. Stockpiles fell by 7.97 million barrels last week, the most since February and well above expectations for a 4 million barrel decrease. Meanwhile, President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire."
-    },
-    {
-      "id": "mkt:019e8e0b-12a7-744e-9fd3-f9eeb53e9cd2",
-      "time": "2026-06-03 23:12:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【xAI pauses hiring of \"AI tutors\" for Grok, sources say】Elon Musk's xAI has paused hiring of \"AI tutors\" used to train its Grok chatbot, people familiar with the matter said. Since early this year xAI had been recruiting accountants, finance specialists, scientists and comedians to teach Grok skills from tax knowledge to humor to broaden the bot's appeal, an approach that differs from rivals that mainly rely on large contractor pools. Sources said the pause — roles internally labeled \"AI tutors\" — is at least partly due to concerns HR could not handle the hiring volume. The company cut multiple AI tutors last autumn, shifted to hiring data‑labeling staff, and carried out another round of layoffs in early March, with additional team reductions reported."
     }
   ]
 }
