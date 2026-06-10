@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-11 02:25:50",
-  "count": 18433,
+  "updated": "2026-06-11 02:29:43",
+  "count": 18432,
   "items": [
+    {
+      "id": "te:markets:558147",
+      "time": "2026-06-11 02:26:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises Above $93 — Brent extended gains and rose more than 2% to $93 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw."
+    },
     {
       "id": "te:markets:558146",
       "time": "2026-06-11 02:25:22",
@@ -169904,26 +169915,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Drops by 3.59% — Top crypto losers are Binance (-3.59%), Ether (-1.95%) and Bitcoin (-1.41%)."
-    },
-    {
-      "id": "4915877",
-      "time": "2026-06-04 02:28:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西5月份鐵礦石出口2801萬噸，去年同期3477萬噸。"
-    },
-    {
-      "id": "te:economy:556247",
-      "time": "2026-06-04 02:27:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Jobless Rate Declines in April — Uruguay’s unemployment rate fell to 7.5% in April 2026 from 7.8% in March, signaling an improvement in labor market conditions. The jobless rate stood at 7.6% in Montevideo and 7.4% in the rest of the country, while employment rates reached 60.5% and 58.8%, respectively. By gender, unemployment was 6.4% among men and 8.7% among women. Youth unemployment remained significantly higher than for other age groups, reaching 23.3% among people aged 14 to 24. The rate was 10.2% for those aged 25 to 29 and below 7% for most age groups over 30. Among employed workers, 9.3% were underemployed, while 21.7% were not registered with the social security system in their main job."
     }
   ]
 }
