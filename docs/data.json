@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-10 08:01:25",
-  "count": 18680,
+  "updated": "2026-06-10 08:05:15",
+  "count": 18683,
   "items": [
+    {
+      "id": "mkt:019eaed8-66ea-7ff4-a102-dcd75e5cc288",
+      "time": "2026-06-10 08:04:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported multiple explosions were heard at Bandar Abbas port."
+    },
+    {
+      "id": "4926856",
+      "time": "2026-06-10 08:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱將加強軍事發展 以稱可隨時恢復作戰】當地時間9日，伊朗軍方表示將捍衛領土完整、獨立和國家主權。以色列軍方表示，以軍保持隨時恢復對伊朗作戰的狀態。據悉，伊朗國防部9日發表宣告稱，將加強該國武裝部隊所需裝備、武器和系統的生產力度和速度，以維護國家的安全、獨立和領土完整。宣告稱，伊朗國防部將與武裝部隊一同繼續堅定地走提升國家的威懾能力和加強國防力量的道路，絕不允許敵方對伊朗的安全等造成哪怕是最輕微的破壞。（央視）"
+    },
+    {
+      "id": "4926855",
+      "time": "2026-06-10 08:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社援引當地訊息人士的話報道稱，伊朗錫裡克地區再次聽到爆炸聲。"
+    },
+    {
+      "id": "4926853",
+      "time": "2026-06-10 08:02:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油期貨一度漲1.3%，此前美國對伊朗實施打擊。"
+    },
+    {
+      "id": "4926852",
+      "time": "2026-06-10 08:02:14",
+      "tags": [
+        "宏觀",
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行與韓國金融監督院今日開始對銀行開展聯合外匯檢查】韓國財政部發布公告稱，韓國央行與金融監管機構將於週三聯合對主要外匯銀行開展檢查。本次檢查結合非現場核查與現場檢查，排查銀行是否存在透過擾亂外匯市場交易、為自身或第三方謀取不當利益的行為。若檢查發現銀行存在違規問題，相關方將依法依規予以嚴肅處置。"
+    },
+    {
+      "id": "mkt:019eaed6-382a-7ff4-a102-d4dc2f0df0ab",
+      "time": "2026-06-10 08:02:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr news agency reports explosion sounds were heard again in Iran's Sirik region."
+    },
+    {
+      "id": "4926851",
+      "time": "2026-06-10 08:01:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行資料顯示，5月日本批發通脹同比漲幅為2023年3月以來最大。"
+    },
+    {
+      "id": "4926850",
+      "time": "2026-06-10 08:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌逾3%。"
+    },
+    {
+      "id": "mkt:019eaed5-6b02-7bbf-ae38-981102367ee9",
+      "time": "2026-06-10 08:01:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Japan, South Korea stocks open lower】On Wednesday, June 10, Japan's Nikkei 225 opened down 501.28 points (-0.77%) at 64,915.35; South Korea's KOSPI opened down 208.44 points (-2.57%) at 7,888.49."
+    },
+    {
+      "id": "mkt:019eaed5-3474-7ff4-a102-c32e01f9b8fe",
+      "time": "2026-06-10 08:01:08",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics shares fell more than 3%."
+    },
     {
       "id": "4926849",
       "time": "2026-06-10 08:00:37",
@@ -172379,78 +172475,6 @@
         "市場"
       ],
       "text": "鎧俠股價上漲5.1%。"
-    },
-    {
-      "id": "4913835",
-      "time": "2026-06-03 08:04:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：光模組功耗提升驅動液冷加速滲透】華泰證券研報稱，AI算力擴容驅動光模組需求高增，800G/1.6T產品高速迭代帶動功耗攀升，液冷散熱成為必選項，催生光模組液冷Cage（即通訊聯結器殼體）廣闊市場空間。目前全球光模組Cage的生產製造主要集中於國內廠商，隨著高速光模組需求持續提升，功耗不斷增長，帶動液冷在光模組Cage中加速滲透，光模組液冷有望迎來廣闊市場空間。研報認為，國內的傳統Cage廠商積極研發液冷類高階產品，佈局擴充配套產能，同時利用傳統產品的客戶資源，持續配合進行產品測試認證，有望充分把握行業機遇。"
-    },
-    {
-      "id": "mkt:019e8acb-835c-733d-881c-d8090e621acc",
-      "time": "2026-06-03 08:04:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 rose as much as 1.00% intraday, extending record highs."
-    },
-    {
-      "id": "4913834",
-      "time": "2026-06-03 08:04:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數上漲1.3%，報67575.18點。"
-    },
-    {
-      "id": "mkt:019e8aca-a179-733d-881c-d465270f8547",
-      "time": "2026-06-03 08:03:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Multiple private Chinese banks' mid- to long-term time deposit rates fall into 1%-range】Several private Chinese banks recently cut mid- to long-term time deposit rates from the 2%-range to the 1%-range; some have withdrawn mid/long-term fixed-deposit products. Analysts say the private banks' high-yield deposit funding advantage is fading, accelerating industry restructuring, altering household savings allocation, and forcing private banks to pursue differentiated business or funding strategies to break homogeneity."
-    },
-    {
-      "id": "4913833",
-      "time": "2026-06-03 08:02:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據華爾街日報報道，美國鄉村音樂明星加斯·布魯克斯正考慮出售其音樂版權庫，報價約為20億美元。"
-    },
-    {
-      "id": "te:markets:555881",
-      "time": "2026-06-03 08:02:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slips on Strong US Jobs Data — Gold prices weakened below $4,500 per ounce on Wednesday, extending losses from earlier in the week as stronger-than-expected US labor market data reinforced expectations that the Federal Reserve may keep interest rates elevated for an extended period. Data released on Tuesday showed US job openings surged in April to their highest level in nearly two years, while layoffs declined, pointing to continued resilience in the labor market. Investors are now focused on Friday’s closely watched nonfarm payrolls report for further clues on the trajectory of monetary policy. Meanwhile, ongoing uncertainty surrounding US-Iran peace negotiations contributed to higher oil prices, fueling concerns about inflation and strengthening the case for a more restrictive Fed stance. Still, President Donald Trump stated that talks remain underway, while reports suggest Iranian officials are reviewing a “final text” that could be submitted to the US as negotiations continue."
-    },
-    {
-      "id": "mkt:019e8ac8-f7ac-733d-881c-ce8d1eb52ae6",
-      "time": "2026-06-03 08:01:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 529.71 points, or 0.79%, at 67,263.95 on Wednesday, June 3."
     }
   ]
 }
