@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-10 09:20:41",
-  "count": 18721,
+  "updated": "2026-06-10 09:24:28",
+  "count": 18722,
   "items": [
+    {
+      "id": "4926969",
+      "time": "2026-06-10 09:22:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1,590.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019eaf1f-43bb-7ff4-a104-83121c422974",
+      "time": "2026-06-10 09:21:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "At the open on Jun 10, Hong Kong's Hang Seng Index (HSI) fell 123.38 points (-0.50%) to 24,442.52. Hang Seng Tech dropped 18.11 points (-0.38%) to 4,751.50. Hang Seng China Enterprises Index (HSCEI) slipped 29.43 points (-0.35%) to 8,295.16. Hang Seng China-Affiliated Corporations (Red Chip) Index declined 27.30 points (-0.63%) to 4,311.75."
+    },
+    {
+      "id": "mkt:019eaf1e-e784-7ff4-a104-793eedc83b24",
+      "time": "2026-06-10 09:21:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "00354.HK",
+        "Impact bullish"
+      ],
+      "text": "China Software International (00354.HK) rose more than 4% after signing a RMB1 bln sales agreement for high-end AI compute equipment."
+    },
+    {
+      "id": "4926968",
+      "time": "2026-06-10 09:21:37",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.5％，國企指數跌0.35％，恒生科技指數開跌0.38%，PCB、人工智慧股走強。"
+    },
+    {
+      "id": "4926967",
+      "time": "2026-06-10 09:21:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展1590億元7天逆回購操作，投標量1590億元，中標量1590億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019eaf1e-c63d-7ff4-a104-70c33b3ae367",
+      "time": "2026-06-10 09:21:28",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a CNY159bn 7-day reverse repo today; bids and allotment both CNY159bn; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:019eaf1e-9761-7ff4-a104-6e24cd54163d",
+      "time": "2026-06-10 09:21:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02228.HK",
+        "Impact bullish",
+        "HSI",
+        "Impact bearish",
+        "HSTECH",
+        "Impact mixed"
+      ],
+      "text": "Hong Kong open: Hang Seng Index (HSI) down 0.50%, Hang Seng Tech Index down 0.38%. PCB and AI stocks led gains; chip, nonferrous metals and new-energy vehicle stocks lagged. JingTai Holdings (02228.HK) rose over 4% after announcing a strategic AI drug‑discovery partnership worth more than $400 mln with a global pharmaceutical company."
+    },
+    {
+      "id": "4926966",
+      "time": "2026-06-10 09:21:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華孚時尚：阿克蘇算力專案尚未正式完工】華孚時尚6月10日在互動平臺表示，1、公司各業務板塊經營穩健，現金流健康。目前不存在《深圳證券交易所股票上市規則》規定的觸發實施退市風險警示或其他風險警示的情形。2、公司堅定實行“堅持主業、共享產業、發展新業”的發展戰略，科技新業穩步推進，算力服務能力持續最佳化。阿克蘇算力專案會綜合考慮市場行情、客戶需求、裝置供貨等因素合理安排投產運營進度。專案尚未正式完工，請注意投資風險。"
+    },
+    {
+      "id": "4926965",
+      "time": "2026-06-10 09:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度近七成】據農業農村部最新小麥機收進度，截至6月9日17時，全國已收穫夏糧小麥2.33億畝，收穫進度68.54%。安徽麥收圓滿完成，河南基本結束，江蘇進度過八成，山東過四成半，陝西過三成，河北近兩成，山西過一成半。"
+    },
     {
       "id": "mkt:019eaf1d-7e23-7ff4-a104-614868034f1d",
       "time": "2026-06-10 09:20:05",
@@ -172761,89 +172854,6 @@
         "焦點"
       ],
       "text": "三大股指開盤漲跌不一，滬指跌0.17％，深成指漲0.36％，創業板漲0.82％。"
-    },
-    {
-      "id": "4913924",
-      "time": "2026-06-03 09:23:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【超越美債，黃金成全球官方儲備第一大資產來源】歐洲中央銀行2日釋出報告說，截至2025年年底，黃金在全球官方儲備資產總額中的佔比已升至27%，超越美國國債，成為全球官方儲備第一大資產。報告指出，美國國債在全球官方儲備資產中佔比降至22%，其他以美元計價的儲備資產佔比為20%，歐元儲備資產佔比為15%。報告認為，黃金儲備佔比的大幅提升首先歸因於估值效應。得益於國際金價在2024、2025年連續井噴式上漲，黃金資產價值水漲船高，從而在全球官方儲備中取得更大份額。（新華社）"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606033758418733",
-      "time": "2026-06-03 09:22:16",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行公開市場今日淨回籠1776億元】央行公告，根據公開市場業務一級交易商的需求，2026年6月3日7天期逆回購操作量為零。因今日有1776億元7天期逆回購到期，實現淨回籠1776億元。"
-    },
-    {
-      "id": "4913923",
-      "time": "2026-06-03 09:22:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，今日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:019e8b12-cdc7-7ee2-b13a-cc9b28ef5dee",
-      "time": "2026-06-03 09:22:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "PBOC said, based on primary dealers' demand in open-market operations, today's 7-day reverse repo amount was zero."
-    },
-    {
-      "id": "mkt:019e8b12-8d50-7ee2-b13a-c1d3a33f1233",
-      "time": "2026-06-03 09:21:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【India seeks to buy 114 French Rafale fighters】India has submitted a letter of intent to France to purchase 114 Rafale fighters, Indian defence-sector sources said. France is expected to respond in 2-3 months and both sides aim to complete negotiations next year. Including earlier intentions, the purchase would raise India’s Rafale fleet to 176 aircraft, making it the largest Rafale operator outside France."
-    },
-    {
-      "id": "mkt:019e8b12-8b0d-7ee2-b13a-b92de5281488",
-      "time": "2026-06-03 09:21:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "HSCEI"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) opened down 85.31 points (-0.33%) at 25,953.01; Hang Seng Tech Index opened down 36.47 points (-0.70%) at 5,162.81; Hang Seng China Enterprises Index (HSCEI) opened down 39.36 points (-0.45%) at 8,723.61; Red Chip Index opened down 3.27 points (-0.07%) at 4,465.10."
-    },
-    {
-      "id": "4913922",
-      "time": "2026-06-03 09:21:33",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.33％，國企指數跌0.45％，恒生科技指數開跌0.7%。"
-    },
-    {
-      "id": "mkt:019e8b12-112c-7ee2-b13a-b6b920fcc59a",
-      "time": "2026-06-03 09:21:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "00992.HK",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong stocks opened lower: HSI -0.33%, Hang Seng Tech Index -0.70%; Lenovo Group (00992.HK) -7.83% at the open."
     }
   ]
 }
