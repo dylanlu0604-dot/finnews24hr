@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-10 15:20:09",
-  "count": 18634,
+  "updated": "2026-06-10 15:23:53",
+  "count": 18631,
   "items": [
+    {
+      "id": "mkt:019eb069-fcfb-799a-b41e-9a903f5f52a8",
+      "time": "2026-06-10 15:23:15",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Jefferies cut Netflix (NFLX.O) PT to $110 from $128."
+    },
+    {
+      "id": "mkt:019eb069-84a5-799a-b41e-975811cbc8b7",
+      "time": "2026-06-10 15:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Coast Guard Taizhou task group patrolled waters around China's Diaoyu Islands on June 10】On June 10 the China Coast Guard Taizhou task group conducted a rights‑protection patrol in waters around China's Diaoyu Islands and affiliated islets; authorities said the operation was carried out lawfully."
+    },
+    {
+      "id": "4927515",
+      "time": "2026-06-10 15:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警艦艇編隊6月10日在我釣魚島及其附屬島嶼領海維權巡航】6月10日，中國海警台州艦編隊在我釣魚島及其附屬島嶼領海維權巡航。這是中國海警依法開展的維權巡航活動。"
+    },
+    {
+      "id": "te:economy:557953",
+      "time": "2026-06-10 15:21:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "US Inflation Rate Set to Reach Highest Level Since 2023 — The annual inflation rate in the US is expected to rise to 4.2% in May 2026, marking its highest level since April 2023, from 3.8% in April. This would represent the third consecutive monthly acceleration in headline inflation, driven largely by higher gasoline prices following the energy shock triggered by the conflict with Iran. However, the broader pass-through to consumer prices is expected to remain relatively limited. On a monthly basis, consumer prices are projected to increase by 0.5% in May, following a 0.6% rise in April. Gasoline prices likely went up around 9%, but the fading impact of a one-off adjustment to rent data should have a moderating effect on inflation. Meanwhile, core inflation, which excludes volatile food and energy prices, is expected to edge up to 2.9% year-on-year, a fresh-high since September 2025, from 2.8% in April. On a monthly basis, core consumer prices are estimated to have risen by 0.3%, after increasing 0.4% in the previous month."
+    },
+    {
+      "id": "te:economy:557952",
+      "time": "2026-06-10 15:21:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "China Car Sales Drop 2.1% in May — China’s total vehicle sales fell 2.1% year-on-year in May 2026, following a 2.5% decline in the previous month, according to data from the China Association of Automobile Manufacturers (CAAM). New energy vehicle (NEV) sales rose 14.4% year-on-year to 1.496 million units in May, accelerating from 9.7% growth in April, with NEVs accounting for 56.9% of total vehicle sales. Meanwhile, domestic sales plunged 20.4% year-on-year in May. In contrast, vehicle exports surged 68.7%, serving as a key driver of the sector, which has increasingly relied on overseas shipments to offset weakness in the domestic market. Last year, China’s vehicle sales increased 9.4% year-on-year to a record high of 34.4 million units, up from a 4.5% increase in 2024, while NEV sales surged 28.2%."
+    },
+    {
+      "id": "mkt:019eb067-d8e1-799a-b41e-8d4d8f097cc5",
+      "time": "2026-06-10 15:20:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iranian sources say retaliatory strikes hit 70% of intended targets】Iranian military sources told Iranian media on the 10th that about 70% of intended targets were struck in a retaliatory operation against US forces, Xinhua reported. The sources said Iran's long-range ballistic missiles and drones breached US base defenses and struck intended targets at the US base in Azraq, Jordan; Ali Al Salem base, Kuwait; and facilities tied to the US Fifth Fleet in Bahrain."
+    },
+    {
+      "id": "4927513",
+      "time": "2026-06-10 15:20:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "鴻海精密工業股份有限公司：董事會批准將回購150億新臺幣股份，回購價格區間為每股60元至200元新臺幣。"
+    },
+    {
+      "id": "4927512",
+      "time": "2026-06-10 15:20:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗訊息人士稱反擊行動擊中七成預定目標】據伊朗媒體10日報道，伊朗軍方訊息人士表示，在當天伊朗針對美軍的反擊行動中，70%的預定目標被成功擊中。該訊息人士說，伊朗武裝部隊的遠端彈道導彈和無人機突破了美軍基地的防禦系統，擊中了位於約旦阿茲拉克美軍基地、科威特阿里·薩利姆美軍基地和巴林美軍第五艦隊的預定目標。（新華社）"
+    },
+    {
+      "id": "te:markets:557951",
+      "time": "2026-06-10 15:20:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Futures Rise on El Niño Weather Risks — Wheat futures rose above $5.90 per bushel in early June, staying away from a near two-month low touched on June 5, as the emergence of El Niño heightened concerns over global crop risks. The climate phenomenon, which has taken shape across the equatorial Pacific and expected to intensify in the months ahead, is likely to unleash droughts, floods, and temperature extremes that could disrupt production of key commodities, including wheat. Its impacts are also projected to intensify globally, including a wetter-than-usual winter in the southern US, drought and wildfire risks in Australia, and potential disruptions to the Atlantic hurricane season. Additional support came from short-covering and bargain hunting ahead of the USDA’s closely watched June supply-and-demand report due on Thursday, as investors monitored signs of renewed Chinese purchases of US agricultural products following Beijing’s pledge last month to buy $17 billion worth of US farm goods."
+    },
+    {
+      "id": "te:economy:557950",
+      "time": "2026-06-10 15:20:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Austria Industrial Output Growth Eases in April — Industrial production in Austria rose 0.6% year-on-year in April 2026, slowing from a 1.7% reading in the previous month. The increase was driven mainly by a rebound in the construction sector (1.6% vs -0.7% in March) and a modest increase in industrial production (0.4% vs 0.3%). Among the main industrial groupings, capital goods recorded the strongest growth (4.0% vs 2.5%). Output growth slowed for intermediate goods (1.9% vs 2.0%) and consumer durables (4.0% vs 9.2%). Meanwhile, the decline in energy output eased (-5.2% vs -11.3%), while consumer non-durables fell at a faster pace (-5.8% vs -3.0%). On a seasonally adjusted monthly basis, industrial output decreased 0.1% in April."
+    },
+    {
+      "id": "4927511",
+      "time": "2026-06-10 15:20:26",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【訊息人士：韓國SK海力士計劃最早於8月在美國上市】據兩位知情人士透露，SK海力士計劃最早於8月在美國上市。這家韓國記憶體晶片製造商希望借勢人工智慧相關股票的強勁需求，並擴大其投資者基礎。其中一位訊息人士稱，美國證券交易委員會（SEC）很可能在6月22日當週批准SK海力士的美國存託憑證（ADR）上市申請。SK海力士在宣告中表示：“公司計劃於2026年內發行美國存託憑證（ADR），但包括髮行規模和時間在內的具體細節尚未確定。”由於非工作時間，美國證券交易委員會（SEC）未能立即對此置評。"
+    },
     {
       "id": "mkt:019eb066-c52a-799a-b41e-802db94f8c7c",
       "time": "2026-06-10 15:19:45",
@@ -171891,128 +172004,6 @@
         "公司"
       ],
       "text": "【兆龍互連：目前汽車資料線纜處於小批次生產階段】兆龍互連6月3日在互動平臺表示，公司在汽車領域的佈局穩步推進，目前汽車資料線纜處於小批次生產階段，同時積極配合終端客戶開展審廠和產品驗證相關工作，有序推進後續量產落地。"
-    },
-    {
-      "id": "4914512",
-      "time": "2026-06-03 15:23:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【階躍星辰Step3.7 Flash登上OpenRouter Trending全球第二位】階躍星辰（StepFun）最新開源基座模型Step3.7 Flash在釋出2天后登上OpenRouter Trending全球第二位，成為近期全球開發者社群最受關注的開源模型之一。"
-    },
-    {
-      "id": "mkt:019e8c5d-67c9-7dd8-946c-e135dc8524c0",
-      "time": "2026-06-03 15:23:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zaporizhzhia nuclear plant records 17th complete loss of off‑site power】The IAEA said early on the 3rd that the Nikopol substation on the opposite bank was struck by drones, knocking out the plant’s only remaining external transmission line for about 20 minutes. This is the 17th complete loss of off‑site power at the Zaporizhzhia nuclear plant since the Russia‑Ukraine conflict began. IAEA Director General Grossi said the incident highlights the ongoing risks to nuclear safety from the hostilities."
-    },
-    {
-      "id": "4914511",
-      "time": "2026-06-03 15:23:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐環球研究將MiniMax目標價從1000港元下調至760港元。"
-    },
-    {
-      "id": "4914510",
-      "time": "2026-06-03 15:23:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百度申請註冊百度勝算商標】天眼查智慧財產權資訊顯示，近日，百度線上網路技術（北京）有限公司申請註冊“百度勝算”商標，國際分類為科學儀器，當前商標狀態為等待實質審查。該公司成立於2000年1月，法定代表人為崔珊珊，註冊資本4520萬美元，經營範圍包括開發、生產計算機軟體，承接計算機網路系統工程，軟體開發等，由百度控股有限公司全資持股。公開資料顯示，百度勝算是百度智慧雲於今年5月釋出的企業資料智慧平臺。該平臺基於企業業務本體構建，專注解決Agent在嚴肅業務場景中準確率不足、難以參與核心決策的瓶頸。"
-    },
-    {
-      "id": "4914509",
-      "time": "2026-06-03 15:22:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【扎波羅熱核電站第17次完全失去外部供電】當地時間3日，國際原子能機構通報稱，當日凌晨，扎波羅熱核電站對岸的尼科波爾變電站遭無人機襲擊，導致該核電站僅剩的一條外部輸電線路停運約20分鐘。這是自俄烏衝突爆發以來，該核電站第17次完全失去外部供電。國際原子能機構總幹事格羅西表示，此次事件再次凸顯戰事給核電站核安全帶來的持續性風險。（央視新聞）"
-    },
-    {
-      "id": "4914508",
-      "time": "2026-06-03 15:22:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃爾沃汽車3月至5月全球銷量同比下降5.5%】6月3日，沃爾沃汽車公佈，2026年3月至5月三個月期間的全球銷量為178,980輛，同比下降5.5%。其中，純電車型銷量41,435輛，同比增長10%。"
-    },
-    {
-      "id": "4914507",
-      "time": "2026-06-03 15:22:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北方較大範圍雷暴大風冰雹來襲，多地將有10級以上雷暴大風】6月3日訊息，在冷渦影響下，北京、山西太原、陽泉、晉中、河北石家莊、保定等地的對流發展起來了，在天氣雷達圖上可見紅色的回波，關好門窗，注意到安全室內躲避。（中國天氣網）"
-    },
-    {
-      "id": "4914506",
-      "time": "2026-06-03 15:21:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度首都新德里一家餐廳3日早間突發火災，造成至少20人死亡，多人受傷。（新華社）"
-    },
-    {
-      "id": "4914505",
-      "time": "2026-06-03 15:21:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲股市多數小幅走低，受關稅和油價上漲拖累市場情緒影響】隨著美國新關稅威脅和油價上漲拖累市場情緒，歐洲藍籌股指數多數下跌。汽車和工業股下跌，不過科技股的漲勢仍在繼續。歐洲斯托克600指數下跌0.2%。在法蘭克福，汽車股拖累DAX下跌0.7%，其中大眾汽車下跌1.9%。工業巨頭西門子也構成拖累，下跌1.4%。在巴黎，隨著能源密集型股票下跌，法國CAC 40指數下跌0.45%，其中空中客車下跌1.7%。倫敦的英國富時100指數持平，因礦業股的下跌抵消了公用事業和麵向消費者的股票的漲幅。義大利富時MIB指數下跌0.5%，不過西班牙IBEX 35指數上漲0.3%，因Zara所有者Inditex報告銷售額增長。在阿姆斯特丹，隨著半導體股票擴大漲幅，荷蘭AEX指數上漲0.3%，其中阿斯麥上漲1.8%。"
-    },
-    {
-      "id": "4914504",
-      "time": "2026-06-03 15:21:16",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【荷蘭國際：受不利利差影響，瑞士法郎下跌】荷蘭國際集團的Chris Turner在一份報告中表示，隨著短期掉期利差對匯率產生不利影響，本週瑞士法郎兌歐元走低。預計瑞士央行不會在短期內調整其0%的政策利率，而市場預期歐洲央行將在6月11日加息，並在年底前再次加息。Turner表示，如果市場開始對美聯儲加息抱有更大信心，美元兌瑞士法郎可能升至0.80。倫敦證券交易所集團的資料顯示，美元和歐元兌瑞士法郎分別升至0.7894和0.9168的一週高點。"
-    },
-    {
-      "id": "mkt:019e8c5b-1154-7dd8-946c-d9b79b2758ef",
-      "time": "2026-06-03 15:20:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hengli Heavy Industry signs 21 firm + 4 option newbuilds worth nearly CNY15 bln】Hengli Group said at the 2026 Greek International Maritime Exhibition Hengli Heavy Industry signed contracts for 21 firm and 4 option newbuilds covering six shipowners and five vessel types, with total contract value near CNY15 billion."
-    },
-    {
-      "id": "4914503",
-      "time": "2026-06-03 15:20:27",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯儲蓄銀行第一副行長稱，預計在6月19日的央行委員會會議上，基準利率將下調超過50個基點；預計到2026年底，盧布兌美元將達到85。"
-    },
-    {
-      "id": "4914502",
-      "time": "2026-06-03 15:20:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "機構：日本5月30日汽油庫存為000萬千升，5月23日庫存同樣為000萬千升。"
-    },
-    {
-      "id": "te:economy:556039",
-      "time": "2026-06-03 15:20:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Services PMI",
-        "Importance 2"
-      ],
-      "text": "Spain Services Sector Stabilises in May — The S&P Global Spain Services PMI rose to 50.1 in May 2026 from 47.9 in April, above market expectations of 48 and signalling a stabilization in activity after the previous month’s contraction. The slight improvement was supported by a return to growth in new business, driven by stronger demand. However, growth remained modest as uncertainty linked to the Middle East conflict continued to weigh on market conditions and export orders declined for a fifth consecutive month. Input costs increased sharply, largely due to higher energy and fuel expenses, alongside rising supplier and labour costs. In response, service providers raised their selling prices, although output price inflation eased to a three-month low. Business confidence improved slightly but remained below historical norms due to ongoing geopolitical uncertainty. Despite this, firms expanded hiring, with employment growth strengthening through a mix of temporary and permanent recruitment."
     }
   ]
 }
