@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-10 13:36:45",
-  "count": 18706,
+  "updated": "2026-06-10 13:40:35",
+  "count": 18709,
   "items": [
+    {
+      "id": "4927362",
+      "time": "2026-06-10 13:39:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【越南允許煤礦企業提高產能以確保電力供應】據報道，越南允許煤礦企業在其現有采礦許可證規定的產量基礎上增加至多15%，以確保國家能源安全，多餘的煤炭產量只能用於發電。包括額外部分在內的煤炭總產量必須在核定儲量範圍內。該決定自6月9日起生效，至明年12月31日止。"
+    },
+    {
+      "id": "mkt:019eb00a-f304-799a-b41c-b594b3028e44",
+      "time": "2026-06-10 13:39:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "South Korean won (KRW) rose against the dollar after reports that FX buying tied to a SpaceX IPO had been absorbed."
+    },
+    {
+      "id": "mkt:019eb00a-268d-799a-b41c-aa037b3aeded",
+      "time": "2026-06-10 13:38:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Fengyi Technology Group Co., Ltd. has filed a listing application with HKEX, per HKEX documents."
+    },
+    {
+      "id": "mkt:019eb00a-14b5-799a-b41c-a7974b82c2cc",
+      "time": "2026-06-10 13:38:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TAIEX closes at three-week low】On Wednesday, June 10 the Taiwan Stock Exchange Weighted Index (TAIEX) fell 1,478.9 points, or 3.31%, to 43,225.54 at the close, a three-week low."
+    },
+    {
+      "id": "4927361",
+      "time": "2026-06-10 13:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：深圳市豐宜科技集團股份有限公司向港交所提交上市申請書。"
+    },
     {
       "id": "4927360",
       "time": "2026-06-10 13:35:09",
@@ -172647,22 +172694,6 @@
         "國際"
       ],
       "text": "歐洲復興開發銀行將土耳其2026年GDP增長預期從4%下調至3.5%。"
-    },
-    {
-      "id": "4914309",
-      "time": "2026-06-03 13:39:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼盾跌勢延續，再創新低。"
-    },
-    {
-      "id": "4914308",
-      "time": "2026-06-03 13:37:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【工業氣體概念震盪回升 華特氣體逼近20cm漲停】半導體產業鏈盤中持續活躍，帶動工業氣體概念震盪回升，電子特氣方向領漲，華特氣體逼近20cm漲停，金宏氣體、雅克科技、南大光電、凱美特氣等衝高。"
     }
   ]
 }
