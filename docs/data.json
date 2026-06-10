@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-11 03:27:52",
-  "count": 18449,
+  "updated": "2026-06-11 03:31:47",
+  "count": 18444,
   "items": [
+    {
+      "id": "mkt:019eb302-4646-7dd8-afab-5738d22d7d32",
+      "time": "2026-06-11 03:28:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says US 'secretly' helped 200+ merchant ships transit Hormuz】President Trump said on the 10th the US military secretly assisted more than 200 merchant vessels transiting the Strait of Hormuz, enabling over 100 million barrels of oil to enter the open market. He said he ordered the mission last month and asserted control of the strait rests with the US, not Iran. A US effort launched in early May to escort trapped ships, described as a \"freedom plan,\" was later suspended. US media reported the pause followed Gulf allies' objections and Saudi refusal to allow US use of Saudi bases and airspace after the mission was not coordinated. The New York Times cited anonymous US officials saying US forces quietly guided about 70 ships through the strait in the prior three weeks."
+    },
     {
       "id": "mkt:019eb2fe-4c14-7dd8-afab-48f08b6b24bd",
       "time": "2026-06-11 03:24:30",
@@ -169995,60 +170006,6 @@
         "MKT News"
       ],
       "text": "【US media: payment mechanism a key sticking point in US–Iran talks】CNN reports a U.S. official says one of the remaining key sticking points in U.S.–Iran negotiations is economic compensation. Iran has told mediators it expects some form of payment promptly once parties agree a preliminary MoU, rather than deferred disbursement. Trump administration officials fear early unfreezing of funds would ease Iran’s economic pain and weaken Washington’s leverage heading into a second phase to negotiate nuclear details. Trump has told aides he wants any deal to appear tougher than the 2015 agreement and to avoid actions that could be construed as delivering large cash payments, a critique he directed at the Obama-era settlement."
-    },
-    {
-      "id": "mkt:019e8ef8-55dc-7443-8fe2-6628f420e41b",
-      "time": "2026-06-04 03:31:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bolivia names Ernesto Justiniano as defense minister】In La Paz on the 3rd, President Paz appointed Ernesto Justiniano as defense minister, replacing Marcelo Salinas, who resigned on the 2nd. Paz said drug crime is a \"cancer\" that must be eradicated and praised Justiniano's experience combating narcotics. Justiniano, born in 1969, is a former vice minister of social defense and ex-legislator with long experience in public administration and anti-narcotics roles."
-    },
-    {
-      "id": "mkt:019e8ef8-2d50-7443-8fe2-59a8460ca1de",
-      "time": "2026-06-04 03:31:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli military said alarms in Zarit in northern Israel that warned of an 'enemy aircraft incursion' were a false alarm caused by a misidentification."
-    },
-    {
-      "id": "4915917",
-      "time": "2026-06-04 03:31:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：約6.6億美元暫停撥付給全球疫苗免疫聯盟（GAVI）的美國資助資金很快將到位。"
-    },
-    {
-      "id": "4915916",
-      "time": "2026-06-04 03:30:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指跌1.01%，現報50788.949點；納指跌0.84%，現報26867.219點；標普500指數跌0.59%，現報7564.850點。"
-    },
-    {
-      "id": "mkt:019e8ef5-c501-7443-8fe2-56cf6d74ec8a",
-      "time": "2026-06-04 03:28:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US stocks extended losses; Dow Jones Industrial Average down 1%, S&P 500 down 0.6%."
-    },
-    {
-      "id": "4915915",
-      "time": "2026-06-04 03:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，針對以色列北部扎裡特地區拉響的“敵方軍機入侵”防空警報為誤報。"
     }
   ]
 }
