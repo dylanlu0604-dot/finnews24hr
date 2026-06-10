@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-10 12:53:57",
-  "count": 18735,
+  "updated": "2026-06-10 12:58:04",
+  "count": 18733,
   "items": [
+    {
+      "id": "mkt:019eafe2-e96f-799a-b41c-5162c6ce22be",
+      "time": "2026-06-10 12:55:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【South Korean retail investors tap bank overdrafts to buy the dip】YONHAP reports South Korea's KOSPI fell for two sessions after negative US equity cues and a semiconductor rout. Over that period, overdraft balances at major commercial banks rose by more than KRW 600 billion (about CNY 2.67 bln). Analysts say retail investors, anticipating a rebound after the sell-off, have used overdrafts to finance buy-the-dip positions."
+    },
+    {
+      "id": "4927314",
+      "time": "2026-06-10 12:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：比亞迪土耳其工廠專案暫停，尚未開工建設。"
+    },
+    {
+      "id": "4927313",
+      "time": "2026-06-10 12:53:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數一度重挫逾6% 因晶片股和美國攻擊伊朗】韓國基準股指週三下跌，晶片股延續跌勢，且受美國襲擊伊朗影響，市場風險偏好減弱。Kospi指數在午後交易時段一度下跌6.5%，週二上漲8.2%。在指數期貨大跌後，韓國交易所短暫停止Kospi程式化賣單。該指數週一暴跌8.3%，導致現貨市場暫停交易20分鐘。隨著三星電子和SK海力士面臨影響AI股的動盪，這種劇烈的波動變得越來越普遍；上述兩者合計佔該指數市值的一半以上。投資者也關注週三的美國通脹報告，該報告可能會更清晰地表明利率是否會在高點維持更長時間。隨著與三星電子及SK海力士掛鉤的槓桿ETF越來越受歡迎，波動性也隨之加劇，這類基金能夠放大每日價格波動。Kospi 200波動性指數週二首度突破90，創下紀錄。"
+    },
     {
       "id": "mkt:019eafe0-86cd-799a-b41c-4b8a265fe511",
       "time": "2026-06-10 12:53:07",
@@ -172915,53 +172945,6 @@
         "MKT News"
       ],
       "text": "【China, Australia co‑host WTO seminar in Geneva on carbon accounting; call to tackle rule fragmentation】China and Australia co‑hosted a WTO seminar in Geneva during Trade and Environment Week on carbon accounting, standards and trade. China’s deputy permanent representative to the WTO, Hu Yingzhi, said the key problem is not a lack of standards but rising fragmentation of rules, and urged the WTO to address the issue from a trade perspective by improving transparency, promoting policy coordination, and strengthening development cooperation and capacity building."
-    },
-    {
-      "id": "te:economy:555982",
-      "time": "2026-06-03 12:57:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Saudi Non-Oil Private Sector Growth Continues in May — Riyad Bank Saudi Arabia's PMI rose to 52.8 in May 2026 from 51.5 in April, signaling a stronger improvement in non-oil private sector conditions. Output expanded at the fastest pace in three months, supported by stronger domestic demand, resumed projects, and normalized operations following earlier disruptions. However, new order growth remained modest, while export orders contracted sharply for a third consecutive month amid shipping disruptions, higher freight and fuel costs, and geopolitical tensions. Supply chain conditions improved, with delivery times shortening for the first time since February, while purchasing activity returned to growth. Employment also expanded modestly as firms worked through rising backlogs. Meanwhile, cost pressures remained elevated despite easing from April’s record high, prompting another sharp increase in selling prices. Business confidence remained subdued amid ongoing regional uncertainty."
-    },
-    {
-      "id": "mkt:019e8bd7-e60b-7ee2-b13f-8a3195e3a856",
-      "time": "2026-06-03 12:57:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Indonesia's upstream regulator said crude oil production averaged 576,200 bpd in Jan–May; natural gas output averaged 6.55 bcf/d."
-    },
-    {
-      "id": "4914256",
-      "time": "2026-06-03 12:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼上游監管機構：今年1-5月印尼天然氣日均產量為65.5億立方英尺。"
-    },
-    {
-      "id": "4914255",
-      "time": "2026-06-03 12:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼上游監管機構：1-5月原油產量為日均57.62萬桶。"
-    },
-    {
-      "id": "4914254",
-      "time": "2026-06-03 12:56:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市指數下跌5.1%，創2021年5月以來新低。"
     }
   ]
 }
