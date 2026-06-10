@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-10 15:23:53",
-  "count": 18631,
+  "updated": "2026-06-10 15:27:51",
+  "count": 18627,
   "items": [
+    {
+      "id": "mkt:019eb06d-9e55-799a-b41e-b6922de4afcb",
+      "time": "2026-06-10 15:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China accuses LDP draft of stoking regional tensions to justify remilitarization】Chinese Foreign Ministry spokesman Lin Jian said at a regular briefing that a draft passed at the LDP general affairs meeting on the 9th calling for revisions to Japan’s three security documents exposes attempts by some forces in Japan to pursue remilitarization. He accused the draft of needlessly smearing China’s routine military activity and deliberately inflating regional tensions to deceive the Japanese public and the international community and to provide a pretext for accelerating remilitarization."
+    },
+    {
+      "id": "4927522",
+      "time": "2026-06-10 15:26:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【釩鈦股份：與大連融科合資釩電解液產線達產達效，暫不具備儲能系統生產能力】釩鈦股份6月10日在互動平臺表示，公司與大連融科合資建有一條2,000立方米/年釩電解液產線，並已長時間達產達效，運營情況良好；暫不具備儲能系統生產能力。"
+    },
+    {
+      "id": "te:markets:557956",
+      "time": "2026-06-10 15:25:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Recovers Slightly on Peace Talks Hopes — The FTSE 100 rose 0.2% to 10,240 on Wednesday, clawing back a fraction of the 1.4% loss from the previous day but staying near three-week lows. Investors maintained hope for Middle East peace, even as US and Iran exchanged fresh strikes, casting doubt on a quick resolution. Optimism persisted following President Donald Trump’s comments that a deal to reopen the Strait of Hormuz was close. Meanwhile, UK lenders continued to decline, with HSBC down nearly 2% and Standard Chartered falling 1%, after a JP Morgan note highlighted the broader impact of new Chinese regulations."
+    },
+    {
+      "id": "4927521",
+      "time": "2026-06-10 15:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：日本刻意渲染周邊緊張局勢 意在欺騙日本民眾和國際社會】6月10日，外交部發言人林劍主持例行記者會。有記者提問，據報道9日日本自民黨召開總務大會，透過了對修訂“安保三檔案”的建議草案，請問中方對此有何評論？林劍表示，有關草案再次暴露日本一些勢力搞“再軍事化”的企圖與妄動，包括中國在內的國際社會對此高度關切和警惕。日方草案無端指責抹黑中國正常軍事活動，刻意渲染周邊緊張局勢，目的無非是欺騙日本民眾和國際社會，為自身加速推進“再軍事化”製造藉口。（央視新聞）"
+    },
+    {
+      "id": "te:economy:557955",
+      "time": "2026-06-10 15:24:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Falls to Near Two-Month Low — The yield on India’s 10-year G-Sec fell to around 6.8%, its lowest level in nearly two months, as renewed foreign investor demand lifted sentiment in the debt market. Foreign investors purchased nearly INR 10,000 of Indian bonds over the last four trading sessions, supported by the government's decision to fully exempt taxes on gains from eligible debt investments and the Reserve Bank of India's move to expand the range of securities available to overseas investors. The inflows mark a turnaround after FPIs had net sold more than INR 10,119 of Indian debt since the start of the US-Israel conflict involving Iran. Bond yields also came under pressure from expectations of RBI support for the rupee. Traders indicated the central bank likely intervened after recent currency weakness, reportedly selling dollars in the spot market while conducting dollar-rupee buy/sell swaps with maturities exceeding one year through state-run banks."
+    },
+    {
+      "id": "4927520",
+      "time": "2026-06-10 15:24:21",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【歐元區政府債券收益率差到8月底面臨擴大風險】花旗利率策略師在一份報告中表示，從現在到8月底，歐元區政府債券收益率差擴大是最一致的季節性模式。他們表示，在過去五年的這一時期，10年期法國國債與德國國債收益率之差以及10年期義大利國債與德國國債收益率之差每年都在擴大。策略師們表示，法國國債和義大利國債在6月至8月期間面臨相對較高的淨供應，儘管義大利的供應集中在前期。他們表示：“綜合來看，這表明歐元區收益率差收窄面臨具有挑戰性的技術環境，尤其是對法國國債而言。“根據Tradeweb的資料，10年期法國國債與德國國債收益率之差為65.5個基點，而10年期義大利國債與德國國債收益率之差為75.6個基點。"
+    },
+    {
+      "id": "4927519",
+      "time": "2026-06-10 15:24:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【太空主題ETF半年吸金80億美元】據彭博社9日報道，全球資產管理巨頭貝萊德正式面向歐洲投資者推出全新太空主題ETF。在太空投資熱潮下，這款產品透過新股快速納入機制，為投資者提供更及時、靈活的太空經濟配置工具。市場分析認為，這隻ETF將成為投資者提前佈局SpaceX等新晉上市太空企業的重要渠道。彭博行業研究資料顯示，自年初以來，全球太空主題ETF合計淨流入約80億美元，資金吸引力已超過國防類ETF。在其追蹤的39類ETF主題中，太空主題淨流入規模排名第二位，人工智慧主題ETF位居榜首。（央視財經）"
+    },
+    {
+      "id": "mkt:019eb06a-d3e9-799a-b41e-a96001f08baf",
+      "time": "2026-06-10 15:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Roundup: Institutional forecasts for US May CPI and core CPI y/y】Major banks and economists expect US May unadjusted headline CPI y/y to cluster at 4.2%. A subset of forecasters project 4.1% (ABN AMRO, Berenberg, DBS Group, Scotiabank, UniCredit); several firms forecast 4.3% (JPMorgan, Morgan Stanley, Citigroup, Goldman Sachs, HSBC, Barclays, Danske, BNP Paribas). For unadjusted core CPI y/y, forecasts split between 2.8% and 2.9% — Morgan Stanley, BofA, Citigroup, Goldman Sachs and Nomura at 2.8%, while UBS, TD Securities, Wells Fargo, ABN AMRO, BNP Paribas, BMO, Barclays, HSBC, Jefferies, ING, Sumitomo Mitsui, Scotiabank, Societe Generale, Standard Chartered, Stifel and UniCredit are at 2.9%."
+    },
+    {
+      "id": "mkt:019eb06a-b60b-799a-b41e-a5131c18c370",
+      "time": "2026-06-10 15:24:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Space-themed ETFs draw $8bn year-to-date】BlackRock has launched a space-themed ETF for European investors with a rapid inclusion mechanism for newly listed stocks to provide faster, flexible exposure to the space economy. Bloomberg industry data show global space-themed ETFs have net inflows of about $8bn since the start of the year, outpacing defense ETFs; among 39 ETF themes tracked, space ranks second by net inflows, behind AI. Market analysts say the new ETF could become a key channel for investors to pre-position for newly listed space companies such as SpaceX."
+    },
+    {
+      "id": "4927518",
+      "time": "2026-06-10 15:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5萬噸硫磺從霍爾木茲海峽駛往國內南方港口】日前，賴比瑞亞籍散貨船MV AL DHAFRA（阿爾達法）順利穿越霍爾木茲海峽，滿載5萬噸高純度顆粒硫磺駛向中國南方港口，為國內緊張的硫磺市場注入關鍵補給，對穩定產業鏈供應鏈具有重要意義。（中國農資傳媒）"
+    },
+    {
+      "id": "4927517",
+      "time": "2026-06-10 15:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞：將奈飛目標價從128美元下調至110美元。"
+    },
+    {
+      "id": "4927516",
+      "time": "2026-06-10 15:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【行雲科技等新設向光投資合夥企業，含AI業務】企查查APP顯示，近日，深圳市行雲向光投資合夥企業（有限合夥）成立，經營範圍包含：資訊系統整合服務；大資料服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該企業由行雲科技旗下深圳市行雲投資合夥企業（有限合夥）等共同出資。"
+    },
     {
       "id": "mkt:019eb069-fcfb-799a-b41e-9a903f5f52a8",
       "time": "2026-06-10 15:23:15",
@@ -171858,152 +171971,6 @@
         "公司"
       ],
       "text": "【Perplexity執行長：算力產出效率決定AI企業勝負】Perplexity執行長Aravind Srinivas週三在接受採訪時表示：能依託AI算力創造最高經濟效益的企業，最終將收穫最高估值。 Srinivas提出，未來行業贏家是能實現‘單位功耗、單使用者下變現價值最大化’的公司。 他說道：“企業唯有平衡精度、響應延遲、使用成本、隱私安全與智慧能力，實現這一核心指標的最優表現，才能笑到最後，構築長期競爭壁壘。”在Srinivas看來，能耗與經濟產出比最優的廠商，將佔據行業制高點。 “部分模型廠商看似靠著高昂定價賺得盆滿缽滿，但這類營收增長只是短期現象。”Srinivas稱。"
-    },
-    {
-      "id": "4914524",
-      "time": "2026-06-03 15:27:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：關稅戰、貿易戰不符合任何一方的利益】針對特朗普政府近日提議對部分國家商品加徵額外進口關稅，外交部發言人毛寧6月3日在例行記者會上答問時表示，中方一貫反對各種形式的單邊關稅措施，關稅戰、貿易戰不符合任何一方的利益。經貿問題應該在平等、尊重、互惠的基礎上，透過對話協商解決。（新華社）"
-    },
-    {
-      "id": "te:markets:556043",
-      "time": "2026-06-03 15:27:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Trades Cautiously Lower — The FTSE 100 traded flat to slightly lower on Wednesday after gaining 0.3% in the previous session, as rising oil prices and renewed concerns over US-Iran negotiations weighed on sentiment. With little fresh progress reported in the talks, escalating tensions in the Middle East added to market uncertainty. US forces intercepted Iranian missiles and drones targeting neighboring countries and later struck a command center inside Iran in response. Banks, miners and defence stocks were mostly weaker, while oil majors provided some support, with Shell and BP rising between 0.7% and 0.9%. B&M European Value Retail surged more than 14% after reporting lower annual profits but continued growth in like-for-like sales across its UK and France operations, with total revenue also supported by new store openings. Meanwhile, Howden Joinery gained more than 3% after agreeing to acquire DIY Kitchens in a deal valuing the business at £390 million."
-    },
-    {
-      "id": "mkt:019e8c61-226d-7dd8-946c-f15c251b4ed6",
-      "time": "2026-06-03 15:27:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's Ministry of Foreign Affairs said tariff wars and trade wars are not in the interests of any party."
-    },
-    {
-      "id": "4914523",
-      "time": "2026-06-03 15:27:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中國不存在所謂的“強迫勞動”，反對以此為藉口搞政治操弄】6月3日，外交部發言人毛寧主持例行記者會。彭博社記者提問，美國特朗普政府提議對與“強迫勞動”有關的進口商品加徵關稅，中方對此有何評論？毛寧表示，剛剛我已經介紹了中方對於關稅問題的立場，中國不存在所謂的“強迫勞動”，我們也反對以此為藉口搞政治操弄。（北京日報）"
-    },
-    {
-      "id": "4914522",
-      "time": "2026-06-03 15:26:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1376.00美元/盎司。"
-    },
-    {
-      "id": "4914521",
-      "time": "2026-06-03 15:26:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "丹麥選擇彼得·胡梅爾加德為新任財政部長。"
-    },
-    {
-      "id": "mkt:019e8c60-6736-7dd8-946c-ef4e1ffbf0cd",
-      "time": "2026-06-03 15:26:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Foreign Ministry says renewed hostilities would not serve any party's interests】At a regular briefing, Foreign Ministry spokesman Mao Ning said China is deeply concerned about the current US‑Iran situation, that renewed hostilities would not serve any party's interests, and urged relevant parties to seize the opportunity for peace and secure a comprehensive, lasting ceasefire as soon as possible."
-    },
-    {
-      "id": "4914520",
-      "time": "2026-06-03 15:26:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：期待同緬方探討深化四大全球倡議框架內的合作】6月3日，外交部發言人毛寧主持例行記者會。有記者提問，外交部剛剛宣佈了緬甸外長丁貌瑞將訪華，請問中方如何評價當前的中緬關係？中方對此訪有何期待？毛寧表示，中國和緬甸是傳統友好鄰邦和命運共同體，建交76年來，雙方弘揚“胞波”情誼，秉持共同倡導的和平共處五項原則精神，同甘共苦，守望相助，持續深化全面戰略合作，給兩國人民帶來實實在在的利益。緬甸新政府履職後，王毅外長於4月底訪緬，就發展中緬友好關係，推進各領域務實合作，同緬方深入交換意見，達成積極共識。丁貌瑞外長此訪是他就任外長之後首次訪華，將實現兩國外長短時間內互訪，充分體現了雙方對深化中緬命運共同體建設的政治意願和積極態度。中方期待屆時同緬方探討深化四大全球倡議框架內的合作，推動中緬命運共同體建設取得更多的務實成果。"
-    },
-    {
-      "id": "4914519",
-      "time": "2026-06-03 15:26:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【民進黨當局對史瓦濟蘭搞“金元外交”，外交部：為謀“臺獨”私利揮霍臺灣民眾血汗錢】6月3日，外交部發言人毛寧主持例行記者會。有記者提問，據多家非洲和臺灣島內媒體披露，賴清德竄訪史瓦濟蘭前後，民進黨當局向該國投入總計約250億元的新臺幣資金，並承諾專案收益全部屬於史瓦濟蘭國王及王室，臺駐斯代表等也將從中受益，請問發言人對此有何評論？毛寧表示，有關報道再次證明，賴清德當局為了謀求“臺獨”私利，透過“金元外交”搞腐敗營私、利益輸送和權錢交易，揮霍臺灣民眾的血汗錢，相當於讓臺灣民眾每人上交了1000多元新臺幣。“臺獨”分裂勢力與史瓦濟蘭維繫所謂的邦交關係，目的不是惠及廣大民眾，而是為少數既得利益者圈錢，是充斥貪婪腐敗的政治作秀。一箇中國原則是國際社會普遍共識，也是國際關係基本準則。今年，中國對非洲建交國全面實施零關稅，為非洲國家擴大對華出口、促進經濟發展提供了新機遇，切實造福了中非人民。史瓦濟蘭是非洲大陸唯一的所謂“臺灣邦交國”，與“臺獨”分裂勢力捆綁沒有前途，只會錯失發展機遇，孤立於國際社會。"
-    },
-    {
-      "id": "4914518",
-      "time": "2026-06-03 15:25:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外交部：中美媒體問題始作俑者是美方】6月3日，外交部發言人毛寧主持例行記者會。 有記者提問，美國國務院發言人稱，“本屆美國政府對於言論自由有著堅定的承諾，不接受中國對美國媒體持續缺乏對等待遇”。該發言人更聲稱“中國長期以來對包括美國記者在內的在華記者施加多種限制”，請問中方對此有何評論？ “此前我的同事已經就有關問題闡明瞭立場。”毛寧表示，美方講“對等待遇”，這正是中方的關切。中美媒體問題的始作俑者是美方，雙方達成三項共識以來，中方完整落實為美國記者來華採訪報道提供簽證等各方面的便利。而中國駐美記者正常採訪權利遭到嚴重限制，幾乎沒有中國記者獲得白宮線下采訪機會，簽證居留許可經常遭到無故拖延，多名記者被迫回國，中國記者申請赴美短期採訪，也很少獲得批准，這難道是“對等待遇”嗎？ 毛寧繼續反問，美方講“言論自由”，但在美國的中國媒體被貼上“外國代理人”“外國使團”等政治標籤，這就是美方所謂的“言論自由”嗎？ “美方應以實際行動落實雙方共識，保障中國記者在美國正常工作生活的合法權益。”毛寧說。（北京日報）"
-    },
-    {
-      "id": "4914517",
-      "time": "2026-06-03 15:25:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方回應索羅門群島重審安全協議】6月3日，外交部發言人毛寧主持例行記者會。 法新社記者提問，索羅門群島總理週三表示，他將重新審議與中國的一項安全協議，外交部對此有何評論？ 毛寧表示，中國同索羅門群島是新時代相互尊重共同發展的全面戰略伙伴，我們願意同索羅門群島新一屆政府拓展各領域的務實合作，更好地造福兩國人民。"
-    },
-    {
-      "id": "te:economy:556042",
-      "time": "2026-06-03 15:25:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Georgia Inflation Rate Slows in May — Georgia's annual inflation rate eased to 5.7% in May 2026 from 5.9% in the previous month. Despite the moderation in the headline rate, price growth accelerated in transport (15.1% vs. 10.3% in April), alcoholic beverages and tobacco (7.2% vs. 6.5%), and housing, water, electricity, gas and other fuels (7.0% vs. 6.5%). Inflation also edged higher for clothing and footwear (3.0% vs. 2.9%), health (5.1% vs. 4.9%), and restaurants and hotels (7.6% vs. 7.5%), while education costs rose at a steady pace of 2.4%. Meanwhile, inflation moderated for food and non-alcoholic beverages (5.2% vs. 7.5%) and miscellaneous goods and services (8.0% vs. 9.0%). Deflation persisted in furnishings, household equipment and routine household maintenance (-1.3% vs. -2.4%), communication (-6.4% vs. -4.0%), and recreation and culture (-0.1% vs. -0.4%). On a monthly basis, consumer prices eased 0.3% in May, from a 1.7% increase in the preceding period."
-    },
-    {
-      "id": "4914515",
-      "time": "2026-06-03 15:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部回應日方不當言論：日本避而不談軍國主義侵略擴張罪行】6月3日，外交部發言人毛寧主持例行記者會。有記者問：中方此前批評日本防衛大臣小泉進次郎有關涉華言論後，日本防衛省發言人昨天在記者會上作出回應，稱中方“反覆提出不符合事實的主張”。發言人對此有何評論?毛寧表示，日本避而不談軍國主義侵略擴張罪行，反而以集體自衛權包裝海外派兵，以發展反擊能力粉飾加強進攻性力量，以裝備技術合作掩蓋殺傷性武器出口，企圖透過偷換概念欺騙日本國內和國際社會。數字不會說謊，日本越是遮掩，國際社會越應該高度警惕。"
-    },
-    {
-      "id": "4914514",
-      "time": "2026-06-03 15:24:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：戰事再起不符合任何一方利益】今天，外交部例行記者會上，有記者就當前美伊局勢進行提問。發言人毛寧表示，中方對當前局勢深表關切，戰事再起不符合任何一方的利益，希望相關各方珍惜和平機會，儘早實現全面持久停火。"
-    },
-    {
-      "id": "te:economy:556040",
-      "time": "2026-06-03 15:24:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Spain’s Private Sector Shows Signs of Stabilization — The HCOB Spain Composite PMI rose to 50.2 in May 2026 from 48.7 in April, signaling a broad stabilization in business conditions after a steep decline in the previous month. Services activity leveled off after contracting in the previous month, while manufacturing output maintained growth, though at a slower pace. New orders were broadly unchanged, while employment continued to grow at a solid pace. Business confidence improved to a three-month high but remained below its long-term average. Input cost inflation accelerated to its strongest level since November 2022, whereas output price inflation eased to a three-month low, although it remained above historical levels."
-    },
-    {
-      "id": "4914513",
-      "time": "2026-06-03 15:24:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆龍互連：目前汽車資料線纜處於小批次生產階段】兆龍互連6月3日在互動平臺表示，公司在汽車領域的佈局穩步推進，目前汽車資料線纜處於小批次生產階段，同時積極配合終端客戶開展審廠和產品驗證相關工作，有序推進後續量產落地。"
     }
   ]
 }
