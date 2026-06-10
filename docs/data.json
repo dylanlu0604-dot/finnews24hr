@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-11 06:02:42",
-  "count": 18350,
+  "updated": "2026-06-11 06:07:10",
+  "count": 18354,
   "items": [
+    {
+      "id": "4929040",
+      "time": "2026-06-11 06:06:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1225.50美元/盎司。"
+    },
+    {
+      "id": "4929039",
+      "time": "2026-06-11 06:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：漢扎拉駭客組織稱，漢扎拉網路司令部與伊斯蘭革命衛隊聯合作戰指揮部，將在數分鐘內發起協同、果斷且具有毀滅性的反擊。"
+    },
+    {
+      "id": "mkt:019eb390-1786-7dd8-afad-ae7486511c92",
+      "time": "2026-06-11 06:03:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,060/oz, down 0.26% on the day."
+    },
+    {
+      "id": "4929038",
+      "time": "2026-06-11 06:03:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4060美元/盎司，日內跌0.29%。"
+    },
+    {
+      "id": "4929037",
+      "time": "2026-06-11 06:03:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊發生海上衝突】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨最新報道，伊朗與美軍在海上發生衝突。（CCTV國際時訊）"
+    },
+    {
+      "id": "4929036",
+      "time": "2026-06-11 06:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價10日上漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲1.83美元，收於每桶90.03美元，漲幅為2.07%；8月交貨的倫敦布倫特原油期貨價格上漲1.65美元，收於每桶93.10美元，漲幅為1.8%。"
+    },
+    {
+      "id": "mkt:019eb38e-6cc3-7dd8-afad-a16f8244ff1f",
+      "time": "2026-06-11 06:01:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened slightly higher on Thursday as U.S. forces are carrying out strikes on Iran."
+    },
     {
       "id": "4929034",
       "time": "2026-06-11 06:00:57",
@@ -169101,36 +169166,6 @@
         "其他"
       ],
       "text": "【Meta擬推出“Hatch”人工智慧智慧體，月費最高200美元】Meta正考慮對旗下面向普通消費者的OpenClaw智慧體工具新品設定最高每月200美元的定價。該定價目標定位激進，將對標頭部AI大廠的高階付費產品。這款暫定名為Hatch的產品將採用分級定價，高階訂閱檔定價199.99美元/月。Hatch功能覆蓋面廣泛：可按需編寫定製軟體、在使用者日曆建立日程、代為傳送郵件。使用者僅需使用日常口語提出需求，產品就能生成可正常執行的程式，和自然語言程式設計類應用操作邏輯一致。Hatch推出付費高階版本後，Meta將直面與OpenAI、Anthropic等AI企業的正面競爭，上述企業的程式碼生成與智慧體付費產品已積累海量使用者：OpenAI的ChatGPT專業版、Anthropic Cladue Max頂配套餐定價均為每月200美元。"
-    },
-    {
-      "id": "mkt:019e8f85-b044-7443-8fe5-6abcdae14c84",
-      "time": "2026-06-04 06:06:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "The Information reports Meta Platforms (META.O) plans to charge up to $200 per month for its 'Hatch' AI agent."
-    },
-    {
-      "id": "4916084",
-      "time": "2026-06-04 06:04:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報72.96美元/盎司。"
-    },
-    {
-      "id": "4916083",
-      "time": "2026-06-04 06:03:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta計劃推出的“Hatch”人工智慧智慧體，擬每月最高收費200美元。"
     }
   ]
 }
