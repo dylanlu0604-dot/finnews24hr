@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-11 04:28:42",
-  "count": 18374,
+  "updated": "2026-06-11 04:32:30",
+  "count": 18365,
   "items": [
+    {
+      "id": "4928968",
+      "time": "2026-06-11 04:28:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "加拿大官員稱，加政府擬出臺法案，禁止 16 歲以下兒童使用社交媒體，同時設定部分豁免情形。"
+    },
     {
       "id": "4928967",
       "time": "2026-06-11 04:21:59",
@@ -169218,107 +169226,6 @@
         "國際"
       ],
       "text": "特朗普：紐約市長馬姆達尼是個非常聰明的人。"
-    },
-    {
-      "id": "4915994",
-      "time": "2026-06-04 04:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大將關鍵性鋼鋁關稅措施延長一年。"
-    },
-    {
-      "id": "mkt:019e8f2f-93f7-7443-8fe4-022c36dc049a",
-      "time": "2026-06-04 04:32:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Israeli prime minister Netanyahu has always been an important partner."
-    },
-    {
-      "id": "4915993",
-      "time": "2026-06-04 04:30:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮公佈特朗普簽署的海關執法行政令。"
-    },
-    {
-      "id": "4915992",
-      "time": "2026-06-04 04:30:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不認為霍爾木茲海峽有任何水雷。"
-    },
-    {
-      "id": "mkt:019e8f2d-ced6-7443-8fe3-fbb29d6b0121",
-      "time": "2026-06-04 04:30:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump said we have cleared mines in the Strait of Hormuz and he believes most have been removed."
-    },
-    {
-      "id": "mkt:019e8f2d-bc1a-7443-8fe3-f0ddc37f3591",
-      "time": "2026-06-04 04:29:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said the Strait of Hormuz will be open immediately after the agreement is signed."
-    },
-    {
-      "id": "mkt:019e8f2c-c168-7443-8fe3-e9686a70b30d",
-      "time": "2026-06-04 04:28:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "LOGAN said central bank independence is critical to controlling inf."
-    },
-    {
-      "id": "mkt:019e8f2c-b01d-7443-8fe3-e3f5759d793a",
-      "time": "2026-06-04 04:28:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said no ship has successfully crossed the blockade."
-    },
-    {
-      "id": "mkt:019e8f2c-a794-7443-8fe3-df6628464207",
-      "time": "2026-06-04 04:28:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Trump said blocking the Strait of Hormuz would be more effective than air strikes."
-    },
-    {
-      "id": "4915991",
-      "time": "2026-06-04 04:28:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：一旦簽署諒解備忘錄，霍爾木茲海峽將迅速開放。"
     }
   ]
 }
