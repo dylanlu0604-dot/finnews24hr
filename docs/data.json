@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-10 09:16:45",
-  "count": 18722,
+  "updated": "2026-06-10 09:20:41",
+  "count": 18721,
   "items": [
+    {
+      "id": "mkt:019eaf1d-7e23-7ff4-a104-614868034f1d",
+      "time": "2026-06-10 09:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's May CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "mkt:019eaf1d-6e35-7ff4-a104-5af6944d4857",
+      "time": "2026-06-10 09:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google Cloud said it rerouted significant traffic to other nodes after local service capacity at affected Delhi facilities degraded."
+    },
+    {
+      "id": "4926964",
+      "time": "2026-06-10 09:19:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：第三方資料中心發生火災，導致德里區域網路裝置被迫緊急斷電，網路容量下降。正在研究額外的流量緩解措施。已將受影響德里設施的大量流量重新路由，以解決本地服務能力下降問題。"
+    },
+    {
+      "id": "mkt:019eaf1b-b609-7ff4-a104-54d55c31ab73",
+      "time": "2026-06-10 09:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google Cloud said a fire at a third-party data center in Delhi forced emergency shutdowns of network equipment, reducing regional network capacity."
+    },
+    {
+      "id": "mkt:019eaf1b-6451-7ff4-a104-48a6be58d578",
+      "time": "2026-06-10 09:17:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【GigaDevice launches GD32E512 and GD32E252 MCUs for optical modules】June 10 — China’s GigaDevice launched two MCUs, GD32E512 and GD32E252, for optical modules, covering applications from legacy low‑speed to next‑generation high‑speed ports. The launch expands GigaDevice’s optical-communications product lineup and will provide hardware support for AI compute centers and next‑generation network high‑speed optical interconnect upgrades."
+    },
+    {
+      "id": "4926963",
+      "time": "2026-06-10 09:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新推出全新光模組專用MCU】6月10日，兆易創新（GigaDevice）推出全新GD32E512和GD32E252系列光模組專用MCU，精準覆蓋從傳統低速到新一代高速光模組的多元應用場景。這兩款新品的釋出，將進一步拓寬兆易創新在光通訊領域的產品矩陣，並將為AI算力中心及下一代網路基礎設施的高速光互聯產業升級提供強有力的底層硬體支撐。"
+    },
+    {
+      "id": "mkt:019eaf1a-d27a-7ff4-a104-42b0d9947a95",
+      "time": "2026-06-10 09:17:11",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "Google Cloud reports intermittent high-latency network traffic in and around Delhi, Chennai and Mumbai, India."
+    },
+    {
+      "id": "4926962",
+      "time": "2026-06-10 09:16:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：源自德里、金奈、孟買及周邊地區的網路流量正間歇性出現延遲升高的情況。"
+    },
     {
       "id": "4926961",
       "time": "2026-06-10 09:16:14",
@@ -172776,87 +172844,6 @@
         "Hang Seng Index"
       ],
       "text": "Hong Kong stocks opened lower: HSI -0.33%, Hang Seng Tech Index -0.70%; Lenovo Group (00992.HK) -7.83% at the open."
-    },
-    {
-      "id": "4913921",
-      "time": "2026-06-03 09:20:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【元隆雅圖：與聚星動力合作開發多款足球隊IP衍生產品】元隆雅圖(002878)在互動平臺表示，為迎接2026年世界盃，公司與聚星動力合作開發了多款阿根廷、葡萄牙、法國、西班牙國家足球隊IP衍生產品、球星周邊產品和足球主題文創產品，包含梅西等球星毛絨盲盒、冰箱貼等產品，目前多款產品已經上市，同時還在持續開發新品並上架銷售。"
-    },
-    {
-      "id": "4913920",
-      "time": "2026-06-03 09:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟或凍結俄羅斯石油價格上限】多家西方媒體披露，歐盟考慮凍結針對俄羅斯石油的限價機制，把價格維持在當下水平，而非按照市場行情調整價格上限，以阻止俄羅斯繼續獲得國際原油價格飆升的“紅利”。（新華社）"
-    },
-    {
-      "id": "mkt:019e8b11-4b4d-7ee2-b13a-a8b2c8a1884c",
-      "time": "2026-06-03 09:20:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: U.S. has not yet met objectives in Venezuela but is making progress】U.S. Secretary of State Rubio told a congressional hearing the U.S. has not yet achieved its intended objectives in Venezuela but is moving in that direction. He said it has been only five months and that overhauling a system in place for 16–18 years will take time, but he believes progress is occurring at a good pace."
-    },
-    {
-      "id": "4913919",
-      "time": "2026-06-03 09:20:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度欲再採購114架法國“陣風”戰機】印度亞洲新聞國際通訊社日前以印度防務界人士為訊息源報道，印度已向法國提交購買114架“陣風”戰鬥機的意向書。據悉，雙方計劃在明年完成交易談判。（新華社）"
-    },
-    {
-      "id": "te:markets:555897",
-      "time": "2026-06-03 09:20:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Inch Higher Ahead of GDP Data — Australian shares edged up 14 points, or 0.2%, to 8,739 in early Wednesday trade, snapping two sessions of muted activity after Wall Street closed mostly higher overnight. Sentiment improved following remarks from President Trump and Secretary of State Marco Rubio, who signaled Washington remained engaged in talks with Tehran over a potential deal to halt the Middle East conflict. Gains, however, were limited by fresh data showing industry conditions stayed weak in Australia during May, reflecting an energy crisis and broader economic uncertainty. Investors also turned cautious ahead of Q1 GDP figures due later today, with expectations for slower growth amid global headwinds and continued monetary tightening. Sector strength came from non-energy minerals, producer manufacturing, and process industries, while consumer durables, healthcare, and commercial services weighed. Notable movers included BHP Group (2.3%), Northern Star Resources (4.8%), and Mineral Resources (2.1%)."
-    },
-    {
-      "id": "mkt:019e8b10-f306-7ee2-b13a-a453d467ad2e",
-      "time": "2026-06-03 09:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Australia Q1 GDP YoY due in 10 minutes."
-    },
-    {
-      "id": "4913918",
-      "time": "2026-06-03 09:17:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃隆・馬斯克旗下航天企業太空探索技術公司（SpaceX）計劃在重磅 IPO 中謀求 1.75 萬億美元估值，目標價為每股135美元，本次上市將全數發行新股。知情人士稱，此次 IPO 為純新股發行模式，募資所得全部歸入公司，現有股東無法在本次掛牌中出售所持股份。媒體此前報道，受分層鎖定期約束，股東至少要等到公司釋出首份季度財報後才有機會減持。知情人士因涉及涉密資訊要求匿名，其透露：經過前期多輪投資者推介（即 “試水詢價”），該公司透露基礎發行計劃募資至少 750 億美元。其中一名訊息人士表示，超額配售選擇權（綠鞋機制）比例設定為 15%，若市場認購需求超預期，承銷商可額外發售股份。全新股發行並非個案，但在大型上市專案中並不主流；多數大型 IPO 採用新股 + 老股並行發售的架構，方便早期投資者減持套現。"
-    },
-    {
-      "id": "4913917",
-      "time": "2026-06-03 09:17:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融捷健康成立新公司 含AI及物聯網業務】企查查APP顯示，近日，廣州融捷健康科技有限公司成立，經營範圍包含：物聯網技術研發；物聯網技術服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由融捷健康全資持股。"
-    },
-    {
-      "id": "mkt:019e8b0e-12e9-7ee2-b13a-980a5497dc81",
-      "time": "2026-06-03 09:16:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Supreme Court rejected a judicial ruling that had barred Alabama from advancing a Republican-leaning congressional map."
     }
   ]
 }
