@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-11 00:19:46",
-  "count": 18407,
+  "updated": "2026-06-11 00:23:38",
+  "count": 18404,
   "items": [
+    {
+      "id": "4928789",
+      "time": "2026-06-11 00:20:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府獲授權，可不經過公開聽證調整債務及支出計劃。"
+    },
     {
       "id": "4928788",
       "time": "2026-06-11 00:18:08",
@@ -169666,38 +169674,6 @@
         "焦點"
       ],
       "text": "納指跌1.01%，現報26821.178點；道指跌0.88%，現報50857.488點；標普500指數跌0.66%，現報7559.390點。"
-    },
-    {
-      "id": "4915803",
-      "time": "2026-06-04 00:21:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦副總理辦公室：2026 至 2027 財年預算將於 2026 年 6 月 10 日（週三）公佈。"
-    },
-    {
-      "id": "4915802",
-      "time": "2026-06-04 00:21:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Point72資產管理規模在5月份增長2%，1-5月累計增長10.5%。"
-    },
-    {
-      "id": "4915801",
-      "time": "2026-06-04 00:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： 很多球隊出現更衣室爭執後，反而能在賽場贏球。昨日與普爾特交流順暢，希望延續當前良好勢頭。"
-    },
-    {
-      "id": "mkt:019e8e49-64a6-7443-8fdf-d4b694aa52e1",
-      "time": "2026-06-04 00:20:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian Defence Ministry says Northern Fleet nuclear submarine fired cruise missile during Barents Sea exercise】On June 3, the Russian Defence Ministry said Northern Fleet nuclear submarine Arkhangelsk launched a Gaomanao cruise missile during live-fire training in the Barents Sea. The ministry said the missile struck a simulated enemy ship more than 200 km away and monitoring data confirmed a successful hit. The Kola Bay flotilla imposed navigation and flight restrictions on the relevant sea areas ahead of the test for safety."
     }
   ]
 }
