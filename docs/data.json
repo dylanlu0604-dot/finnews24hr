@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-11 00:59:20",
-  "count": 18409,
+  "updated": "2026-06-11 01:03:10",
+  "count": 18414,
   "items": [
+    {
+      "id": "4928821",
+      "time": "2026-06-11 01:02:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣390億美元10年期國債，得標利率4.538%（5月12日為4.468%），投標倍數2.57（前次為2.40）。"
+    },
+    {
+      "id": "mkt:019eb27c-1eed-7dd8-afa9-504aaf0f4821",
+      "time": "2026-06-11 01:02:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury auction bid-cover ratio 2.57 on June 10; prior 2.40."
+    },
+    {
+      "id": "mkt:019eb27c-1171-7dd8-afa9-48b5838c0c8a",
+      "time": "2026-06-11 01:02:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 10-year Treasury auction June 10 stop-out yield 4.538%, prior 4.47%."
+    },
+    {
+      "id": "mkt:019eb27c-09dc-7dd8-afa9-423057ff5537",
+      "time": "2026-06-11 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 10-year Treasury auction through June 10: share of awarded amount at the winning yield 71.34% (prior 22%)."
+    },
+    {
+      "id": "mkt:019eb27b-ea6e-7dd8-afa9-3ffaeea1997f",
+      "time": "2026-06-11 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Jun.10) | actual 2.57 | previous 2.4"
+    },
+    {
+      "id": "mkt:019eb27b-ea45-7dd8-afa9-31cd16d4b469",
+      "time": "2026-06-11 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Accepted at High (Jun.10) | actual 71.34% | previous 22%"
+    },
+    {
+      "id": "mkt:019eb27b-ea43-7dd8-afa9-2c364a4e7a6f",
+      "time": "2026-06-11 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | 10-Year Note Auction High Yield Rate (Jun.10) | actual 4.538% | previous 4.47%"
+    },
+    {
+      "id": "4928820",
+      "time": "2026-06-11 01:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：今天要和墨西哥總統舉行電話會議。"
+    },
+    {
+      "id": "mkt:019eb27a-ce76-7dd8-afa9-2419aea475f1",
+      "time": "2026-06-11 01:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said he was not aware of any U.S. shipments of oil from Iran."
+    },
+    {
+      "id": "4928819",
+      "time": "2026-06-11 01:00:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "390億美元拍賣前，10年期美國國債收益率為4.539%。"
+    },
+    {
+      "id": "4928818",
+      "time": "2026-06-11 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.94%，滬銅收跌0.79%，滬鋁收漲0.02%，滬鋅收跌1.98%，滬鉛收跌0.09%，滬鎳收跌0.72%，滬錫收跌0.04%。氧化鋁夜盤收漲0.73%，鋁合金收漲0.63%。不鏽鋼夜盤收漲0.17%。"
+    },
     {
       "id": "mkt:019eb278-4904-7dd8-afa9-18a9ec2f5b11",
       "time": "2026-06-11 00:58:07",
@@ -169651,63 +169768,6 @@
         "國際"
       ],
       "text": "市場訊息：Anthropic 選定摩根士丹利、高盛擔任 IPO 聯席保薦承銷商。"
-    },
-    {
-      "id": "4915831",
-      "time": "2026-06-04 01:01:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗媒體Fars News：伊朗方面概述了與美國達成的四階段協議計劃。"
-    },
-    {
-      "id": "mkt:019e8e6e-fa11-7443-8fe0-652a8b807bb3",
-      "time": "2026-06-04 01:01:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Fars News reported Tehran has outlined a four-stage agreement plan with the United States."
-    },
-    {
-      "id": "4915830",
-      "time": "2026-06-04 01:01:06",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "OpenAI 執行長山姆·奧特曼將在華盛頓出訪期間反對美國擬出臺的 AI 模型上線審批提案。"
-    },
-    {
-      "id": "4915829",
-      "time": "2026-06-04 01:00:27",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "摩根士丹利：對外匯市場而言，6月份的FOMC貨幣政策會議（凱文·沃什就任美聯儲主席之後的首次利率決議）是一個關鍵風險。"
-    },
-    {
-      "id": "4915828",
-      "time": "2026-06-04 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.05%，滬銅收跌0.95%，滬鋁收跌1.14%，滬鋅收跌0.59%，滬鉛收跌0.87%，滬鎳收跌1.94%，滬錫收跌0.68%。氧化鋁夜盤收跌0.07%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.89%。"
-    },
-    {
-      "id": "4915827",
-      "time": "2026-06-04 00:59:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "據天空新聞阿拉伯頻道：黎巴嫩訊息人士表示，黎巴嫩和以色列在目前在美國舉行的本輪談判未取得實質性進展。本輪談判中不會宣佈黎巴嫩與以色列之間的聯合意向宣告。"
     }
   ]
 }
