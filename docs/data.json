@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-11 02:45:04",
-  "count": 18440,
+  "updated": "2026-06-11 02:49:02",
+  "count": 18439,
   "items": [
+    {
+      "id": "4928906",
+      "time": "2026-06-11 02:46:51",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【特朗普大讚花旗併購顧問排名居首 但首位並非花旗】美國總統特朗普突然熱衷於併購話題，出人意料地點名稱讚花旗集團執行長Jane Fraser。特朗普大談一項備受投行人士看重的指標，祝賀花旗在併購顧問業務方面排名第一。不過，目前尚不清楚總統依據哪份排名榜將花旗排在首位。帖子釋出後，花旗股價一度躍升。“哇！花旗第一季度按交易金額計算，在併購顧問市場排名第一，”特朗普週三上午發帖稱，“祝賀Jane F和她所有優秀的員工。他們真的非常努力！花旗大逆轉！！！”特朗普發帖前不久，福克斯商業頻道週三上午播出了一檔電視節目，主持人Maria Bartiromo採訪了花旗資深銀行家Leon Kalvaria。畫面上的資訊條顯示，花旗第一季度在電力行業併購交易顧問市場排名第一 —— 這只是整體併購市場中的一小部分。"
+    },
     {
       "id": "mkt:019eb2d9-b490-7dd8-afaa-d02edcfeeb09",
       "time": "2026-06-11 02:44:32",
@@ -169950,29 +169960,6 @@
         "其他"
       ],
       "text": "橡樹資本高管Christina Lee：私人信用行業現在面臨壓力測試。一旦喪失（投資者的）信任，就再難贏回來。（彭博電視）"
-    },
-    {
-      "id": "mkt:019e8ece-80f4-7443-8fe1-df1742471b8f",
-      "time": "2026-06-04 02:45:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Fed's Beige: Prices rising at moderate-to-strong pace; Middle East conflict energy costs cited as primary driver】Most Fed districts reported inflation at a moderate-to-strong pace, with readings higher than in the prior report. Energy costs tied to the Middle East conflict were cited as the main inflation driver, spilling into shipping, packaging, grocery and fertilizer. Non-labor input costs continue to rise faster than selling prices, prompting broader concerns about margin compression; pass-through ability is uneven, especially among consumer-facing firms. Firms reported responses including supply-chain optimization, product adjustments, reduced supply and temporary absorption of higher costs to sustain demand."
-    },
-    {
-      "id": "4915889",
-      "time": "2026-06-04 02:45:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊否認向科威特機場開火】當地時間3日，伊朗伊斯蘭革命衛隊發言人表示，其軍隊並未向科威特機場這一目標開火。發言人稱，科威特機場航站樓損毀系美國“愛國者”防空導彈系統故障所致，該系統發射的導彈在攔截伊朗導彈失敗後誤落至該航站樓。科威特外交部3日發表宣告說，科威特國際機場等多處民用設施當天遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷。科威特一度暫停該國空中交通並關閉領空。（央視）"
     }
   ]
 }
