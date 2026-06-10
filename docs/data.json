@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-10 08:41:13",
-  "count": 18689,
+  "updated": "2026-06-10 08:45:07",
+  "count": 18694,
   "items": [
+    {
+      "id": "4926900",
+      "time": "2026-06-10 08:44:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4200美元/盎司，日內跌1.40%。"
+    },
+    {
+      "id": "mkt:019eaefc-bdd8-7ff4-a103-69b706316a00",
+      "time": "2026-06-10 08:44:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $4,200/oz, lowest in nearly three months】Spot gold extended losses, slipping below $4,200/oz for the first time since March 23, down 1.4% intraday."
+    },
+    {
+      "id": "4926899",
+      "time": "2026-06-10 08:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通證券：看好機器人感知系統、核心零部件與本體廠商】國泰海通證券研報稱，看好機器人感知系統、核心零部件與本體廠商。物理AI基礎模型與模擬引擎加速機器人研發程序，工業與服務領域場景落地打通商業模式，產業鏈投融資加速推動研發與產能投放，重磅產品規模效應顯現有望激發終端需求。推薦：1.感知能力是關鍵突破點，看好觸覺與視覺感測器；2.核心零部件率先受益量產，看好靈巧手/絲槓/輕量化材料；3.受益終端需求提升的頭部本體廠商。"
+    },
+    {
+      "id": "mkt:019eaefc-1c39-7ff4-a103-67b1778afc20",
+      "time": "2026-06-10 08:43:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Mehr News Agency reports local sources heard explosion-like sounds in Ahvaz."
+    },
+    {
+      "id": "4926898",
+      "time": "2026-06-10 08:43:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗西南部城市阿瓦士發生爆炸。（伊朗邁赫爾通訊社）"
+    },
+    {
+      "id": "4926897",
+      "time": "2026-06-10 08:42:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經股價平均指數跌幅擴大，最新下跌1.30%，報64569.42點。"
+    },
+    {
+      "id": "4926896",
+      "time": "2026-06-10 08:42:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少3.42噸】截至2026年06月09日，全球最大的黃金ETF SPDR Gold Trust持倉量為1016.50噸，較前一個交易日減少3.42噸。"
+    },
+    {
+      "id": "4926895",
+      "time": "2026-06-10 08:42:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至3%】韓國綜指跌幅擴大至3%，現報7853.57點。"
+    },
+    {
+      "id": "4926894",
+      "time": "2026-06-10 08:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "APO Apotex Health   IPO定價為每股24加元，處於發行價區間的上限。"
+    },
+    {
+      "id": "te:economy:557804",
+      "time": "2026-06-10 08:41:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Indonesia Car Sales Rise 14% in May — New car sales in Indonesia increased 14.0% year-on-year to 69,219 units in May 2026, after surging 55.0% in the previous month. It was the second consecutive month of growth, though at a slower pace amid persistent price pressures. However, the Association of Indonesian Automotive Industries (Gaikindo) remains concerned about the weakening rupiah, which could potentially increase production and import costs if the depreciation persists. For the first five months of the year, car sales grew 12.8% from the same period in 2025, reaching 359,015 units. Gaikindo previously targeted domestic new car sales to reach 850,000 units in 2026. That figure represents a 5.8% increase from the 2025 total of 803,687 units. On a monthly basis, car sales also rose, advancing 13.0% from April, when sales totaled 80,776 units. Meanwhile, retail new car sales grew 16.8% month-on-month to 71,890 units."
+    },
+    {
+      "id": "te:markets:557803",
+      "time": "2026-06-10 08:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sony Stock Price Hits 4-week Low — Sony shares decreased to 3381.00 JPY, the lowest since May 2026. Over the past 4 weeks, Sony gained 0.5%, and in the last 12 months, it decreased 9.55%."
+    },
     {
       "id": "4926893",
       "time": "2026-06-10 08:40:38",
@@ -172494,59 +172598,6 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei 225 breached 68,000 points for the first time, rising nearly 2% on the day."
-    },
-    {
-      "id": "4913874",
-      "time": "2026-06-03 08:44:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【天風證券：煤化工盈利或進入上行週期】天風證券研報稱，當前國內煤炭基本面較2021—2022年期間偏寬鬆，煤油比或難因煤價大幅上漲而抬升，而美伊衝突演繹存在變數，但即便衝突緩和，原油供應缺口短時間難以恢復，油價中樞或難以回落至衝突前水平，透過煤油比下降帶來的煤化工下游價差拉大，疊加“十五五”時期產能增速或放緩，煤化工盈利或進入上行週期。"
-    },
-    {
-      "id": "4913873",
-      "time": "2026-06-03 08:44:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本日經225指數首次突破68000點，現漲近2%，東京電子漲超9%。"
-    },
-    {
-      "id": "mkt:019e8aef-0f1d-7ee2-b139-f86b668cc90a",
-      "time": "2026-06-03 08:43:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Japan 5-year government bond yield rose 3.0 bps to 1.885%."
-    },
-    {
-      "id": "4913872",
-      "time": "2026-06-03 08:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我很榮幸能完全、毫無保留地支援阿韋拉多·德拉埃斯普列利亞。"
-    },
-    {
-      "id": "mkt:019e8aee-2a1b-7ee2-b139-f1f256b3124b",
-      "time": "2026-06-03 08:42:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Ministry of Finance said it will hold a JGB primary dealers meeting on June 26 and a JGB investor meeting on June 29."
-    },
-    {
-      "id": "4913871",
-      "time": "2026-06-03 08:41:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【訊息人士：SpaceX計劃以每股135美元的價格透過首次公開募股（IPO）籌集750億美元】一位知情人士告訴媒體，SpaceX計劃透過首次公開募股（IPO）發行5.556億股股票，每股目標價為135美元，以此籌集750億美元。媒體週二早些時候報道稱，這家火箭和衛星通訊公司希望以1.75萬億美元的估值籌集至少750億美元。在現階段設定具體目標價極為罕見，因為計劃上市的公司通常會在透過一系列名為“路演”的推介會與投資者溝通前，先設定一個價格區間。SpaceX的路演將於週四開始。通常情況下，具體目標價要等到發行前一天才會確定。"
     }
   ]
 }
