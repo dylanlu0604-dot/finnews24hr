@@ -1,7 +1,198 @@
 {
-  "updated": "2026-06-10 17:37:31",
-  "count": 18480,
+  "updated": "2026-06-10 17:41:16",
+  "count": 18488,
   "items": [
+    {
+      "id": "mkt:019eb0e7-f75e-7aad-8124-e1d9404a8a41",
+      "time": "2026-06-10 17:40:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Deputy Governor Shinichi Uchida will hold a press conference after the June 15-16 monetary policy meeting."
+    },
+    {
+      "id": "4927925",
+      "time": "2026-06-10 17:40:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：預計行長植田和男將出席7月30日至31日的貨幣政策會議。"
+    },
+    {
+      "id": "4927924",
+      "time": "2026-06-10 17:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：地方當局報告稱，一艘油輪的機艙發生火災。"
+    },
+    {
+      "id": "4927923",
+      "time": "2026-06-10 17:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟各國大使批准對俄羅斯實施新一輪制裁。"
+    },
+    {
+      "id": "mkt:019eb0e7-78d7-7aad-8124-dc630e1c8328",
+      "time": "2026-06-10 17:40:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UK Maritime Trade Operations said local authorities reported an engine-room fire aboard an oil tanker."
+    },
+    {
+      "id": "4927922",
+      "time": "2026-06-10 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入82.43億港元】港股通（滬）方面，盈富基金、騰訊控股分別獲淨買入24.22億港元、16.73億港元；阿里巴巴-W淨賣出額居首，金額為17.09億港元；港股通（深）方面，盈富基金、南方恒生科技分別獲淨買入16.34億港元、3.57億港元；阿里巴巴-W淨賣出額居首，金額為6.63億港元。"
+    },
+    {
+      "id": "4927921",
+      "time": "2026-06-10 17:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊於6月10日回購了價值5.01億港元的股份。"
+    },
+    {
+      "id": "mkt:019eb0e6-e419-7aad-8124-d093b0da4a09",
+      "time": "2026-06-10 17:39:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations says it has received a report of an incident 20 nautical miles northeast of Sohar, Oman."
+    },
+    {
+      "id": "4927920",
+      "time": "2026-06-10 17:39:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST合縱：公司及子公司涉1.22億元債務逾期】ST合縱公告，公司因業務回款壓力、資金流動性等問題，導致與上海浦東發展銀行股份有限公司北京分行的1.2億元債務逾期。公司收到北京市第三中級人民法院送達的《執行通知書》，執行標的為1.22億元，執行費為18.99萬元。公司將密切關注案件後續進展，積極採取相關措施維護公司和股東利益，並根據案件進展情況及時履行資訊披露義務。"
+    },
+    {
+      "id": "4927919",
+      "time": "2026-06-10 17:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華統股份：5月份生豬銷售數量23.78萬頭，同比變動18.83%】華統股份公告，2026年5月份，公司生豬銷售數量23.78萬頭（其中仔豬銷售0頭），環比變動-5.64%，同比變動18.83%。生豬銷售收入2.66億元，環比變動-9.31%，同比變動-26.35%。商品豬銷售均價9.52元/公斤，比2026年4月份上升4.62%。5月份雞銷售數量125.18萬隻，環比變動13.42%，同比變動36.22%。雞銷售收入1899.3萬元，環比變動8.42%，同比變動26.68%。"
+    },
+    {
+      "id": "mkt:019eb0e6-6ffa-7aad-8124-cf18a3e0d6f1",
+      "time": "2026-06-10 17:39:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A special maritime traffic enforcement and surveying operation in waters east of Taiwan island has concluded."
+    },
+    {
+      "id": "4927917",
+      "time": "2026-06-10 17:38:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：副行長冰見野良三將主持6月15-16日的會議。"
+    },
+    {
+      "id": "mkt:019eb0e6-2a2b-7aad-8124-c0118c58a3b4",
+      "time": "2026-06-10 17:38:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan said a deputy governor will chair its June 15-16 monetary policy meeting."
+    },
+    {
+      "id": "4927916",
+      "time": "2026-06-10 17:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營局（UKMTO）表示，據涉事船隻報告，事故造成1人死亡，2名船員失蹤。"
+    },
+    {
+      "id": "mkt:019eb0e5-db69-7aad-8124-b872be7aa5c3",
+      "time": "2026-06-10 17:38:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "USD/JPY showed limited short‑term movement; last quoted at 160.42."
+    },
+    {
+      "id": "4927915",
+      "time": "2026-06-10 17:38:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織稱，收到一則事發於阿曼蘇哈爾港東北 20 海里處的事件報告。"
+    },
+    {
+      "id": "4927914",
+      "time": "2026-06-10 17:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【交通運輸部臺灣島東部海域海上交通專項執法和掃測行動圓滿結束】交通運輸部臺灣島東部海域海上交通專項執法和掃測行動圓滿結束。為全面履行我國海上行政執法管轄權，增強深遠海巡航執法和重點水域交通管控能力，保障海上交通安全，維護國家權益，6月6日至10日，交通運輸部組織福建海事局、廣東海事局、東海航海保障中心、東海救助局共同執行臺灣島東部海域海上交通專項執法和掃測行動，開展海上巡航執法，掃測臺灣島東部等重點海域。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東“海域劃界談判”、嚴重侵犯中國領土主權和海洋權益採取的必要行動。（新華社）"
+    },
+    {
+      "id": "mkt:019eb0e5-3acd-7aad-8124-b71b39fd26ea",
+      "time": "2026-06-10 17:37:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Japan: Governor Kazuo Ueda is expected to be absent from the June 15-16 meeting."
+    },
+    {
+      "id": "4927913",
+      "time": "2026-06-10 17:37:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：預計行長植田和男將缺席6月15日至16日的貨幣政策會議。"
+    },
+    {
+      "id": "mkt:019eb0e4-aa67-7aad-8124-ae930beb1fbe",
+      "time": "2026-06-10 17:37:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Japan said Governor Kazuo Ueda has been admitted to hospital for treatment."
+    },
+    {
+      "id": "4927912",
+      "time": "2026-06-10 17:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯國家杜馬透過一項法案，禁止驅逐曾服役於俄羅斯武裝部隊的外籍人員。"
+    },
+    {
+      "id": "4927911",
+      "time": "2026-06-10 17:37:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元/日元漲0.1%至160.47，觸及4月30日以來高點。"
+    },
     {
       "id": "4927910",
       "time": "2026-06-10 17:36:50",
@@ -170332,122 +170523,6 @@
         "Impact bearish"
       ],
       "text": "European Commission says the EU considers U.S. tariffs imposed on the basis of forced-labor allegations unjustified."
-    },
-    {
-      "id": "4914967",
-      "time": "2026-06-03 17:41:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟稱美國以強迫勞動為由加徵關稅缺乏正當依據。"
-    },
-    {
-      "id": "mkt:019e8cdb-a9d5-744d-81bf-1375b67461ad",
-      "time": "2026-06-03 17:41:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An industry association official said India's military drone procurement plan has entered a late stage and will be advanced via a fast-track approval process. India plans to buy a record $2 billion of military drones from domestic firms this year."
-    },
-    {
-      "id": "4914966",
-      "time": "2026-06-03 17:40:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "碧桂園5月合約銷售額26.3億元人民幣。歸屬本公司股東權益的合同銷售建築面積約33萬平方米。"
-    },
-    {
-      "id": "4914965",
-      "time": "2026-06-03 17:40:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會表示，已注意到美國就強迫勞動產品貿易展開的301調查得出的初步結論與擬採取的行動。"
-    },
-    {
-      "id": "mkt:019e8cdb-5063-744d-81bf-09fa339b4d45",
-      "time": "2026-06-03 17:40:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The European Commission said it has noted the U.S. Section 301 probe's preliminary findings and proposed measures concerning trade in products made with forced labor."
-    },
-    {
-      "id": "4914964",
-      "time": "2026-06-03 17:40:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度工業協會主席稱，印度今年將從本土企業訂購價值創紀錄的20億美元軍用無人機。無人機採購訂單計劃已進入最後階段，將採用快速審批流程推進。"
-    },
-    {
-      "id": "4914963",
-      "time": "2026-06-03 17:40:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【冀東裝備：2025年度分紅總額908萬元】冀東裝備公告，公司2025年度利潤分配預案為以截至2025年年末公司總股本2.27億股為基數，向全體股東每10股派發現金股利0.40元（含稅），分紅總額908萬元，不送紅股，不進行資本公積金轉增股本。股權登記日為2026年6月10日，除權日（除息日）為2026年6月11日。"
-    },
-    {
-      "id": "4914962",
-      "time": "2026-06-03 17:40:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨買入186.82億港元】港股通（滬）方面，盈富基金、騰訊控股分別獲淨買入57.17億港元、12.05億港元；聯想集團淨賣出額居首，金額為8.74億港元；港股通（深）方面，盈富基金、恒生中國企業分別獲淨買入18.16億港元、16.61億港元；長飛光纖光纜淨賣出額居首，金額為5.09億港元。"
-    },
-    {
-      "id": "4914961",
-      "time": "2026-06-03 17:39:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度限定國內航油運營售價上限為 75.6 盧比 / 升。"
-    },
-    {
-      "id": "4914960",
-      "time": "2026-06-03 17:38:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【美銀：英偉達Vera CPU是繼GPU問世後最重要產品】美銀分析師Vivek Arya團隊更新了英偉達研報。 該機構測算2027財年下半年Vera CPU銷售額有望達200億美元；下一財年產品年化營收規模將突破500億美元，英偉達有望躋身全球頭部伺服器CPU供應商。 Arya在研報中寫道：“英偉達硬體護城河持續拓寬，可觸達市場從傳統GPU機架，延伸至CPU、光電互聯、儲存安全、企業軟體，如今再新增個人AI PC賽道。” 分析師測算，搭載RTX Spark的產品對標蘋果Mac Mini與MacBook Pro，瞄準高階Windows市場前10%客群，年出貨量有望達2500萬~3000萬臺。  美銀維持英偉達買入評級，目標價350美元，定價依據為2027年剔出現金後市盈率26倍，落在英偉達歷史遠期市盈率區間25~56倍之內。"
-    },
-    {
-      "id": "4914959",
-      "time": "2026-06-03 17:38:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【稀有金屬ETF富國：6月9日起開放申購、贖回業務】稀有金屬ETF富國公告稱，該基金將於2026年6月9日起開放申購、贖回業務。投資者申購、贖回的基金份額須為100萬份的整數倍。申購時，申購贖回代理券商可按不超0.3%的標準收取佣金；贖回時，可按不超0.5%的標準收取佣金。目前，申購贖回代理券商包括渤海證券、財達證券等多家機構。"
-    },
-    {
-      "id": "4914958",
-      "time": "2026-06-03 17:38:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富國中證全指醫療器械ETF：6月9日起開放申購、贖回業務】富國中證全指醫療器械ETF公告稱，該基金於2026年5月29日合同生效，將於6月9日起開放申購、贖回業務。投資者申購、贖回的基金份額須為100萬份的整數倍，申購贖回代理券商收取的申購、贖回佣金分別不超0.3%、0.5%。目前申購贖回代理券商有渤海證券、財達證券等多家。"
-    },
-    {
-      "id": "4914957",
-      "time": "2026-06-03 17:37:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "s市場訊息： 印度收緊企業海外投資審查。"
-    },
-    {
-      "id": "mkt:019e8cd8-961e-744d-81bf-06fe49c88655",
-      "time": "2026-06-03 17:37:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India's cabinet has approved an INR100 billion aviation turbine fuel price-stabilization fund, the information minister said."
     }
   ]
 }
