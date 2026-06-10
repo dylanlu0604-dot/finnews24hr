@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-11 06:14:59",
-  "count": 18360,
+  "updated": "2026-06-11 06:18:52",
+  "count": 18363,
   "items": [
+    {
+      "id": "4929053",
+      "time": "2026-06-11 06:18:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據以色列媒體：訊息人士稱，現階段以色列未參與美國對伊朗的打擊行動。"
+    },
+    {
+      "id": "4929052",
+      "time": "2026-06-11 06:16:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "4929051",
+      "time": "2026-06-11 06:16:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌1.55%。"
+    },
+    {
+      "id": "4929050",
+      "time": "2026-06-11 06:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊拉克埃爾比勒的美軍哈里爾基地一處雷達遭襲擊。"
+    },
+    {
+      "id": "te:markets:558162",
+      "time": "2026-06-11 06:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.51% — Top currency losers are Swedish Krona (-0.51%), Australian Dollar (-0.50%), New Zealand Dollar (-0.47%), British Pound (-0.16%), Japanese Yen (-0.11%) and Euro (-0.11%). Gains are led by Norwegian Krone (0.43%) and Dollar Index (0.17%)."
+    },
     {
       "id": "4929049",
       "time": "2026-06-11 06:13:50",
@@ -169193,26 +169239,6 @@
         "市場"
       ],
       "text": "日經期貨下跌1.0%，報67570點。"
-    },
-    {
-      "id": "4916088",
-      "time": "2026-06-04 06:15:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。"
-    },
-    {
-      "id": "te:markets:556260",
-      "time": "2026-06-04 06:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 1.01% — Top currency losers are New Zealand Dollar (-1.01%), Swedish Krona (-0.98%), South Korean Won (-0.85%), British Pound (-0.39%), Euro (-0.31%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.33%)."
     }
   ]
 }
