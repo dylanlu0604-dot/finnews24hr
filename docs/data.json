@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-10 08:37:22",
-  "count": 18692,
+  "updated": "2026-06-10 08:41:13",
+  "count": 18689,
   "items": [
+    {
+      "id": "4926893",
+      "time": "2026-06-10 08:40:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國企劃財政部長官：將利用擴大的財政政策空間進行未來投資；解決不平等與通脹問題需要實施積極財政政策。將密切監控債券收益率上行、匯率走弱及股市波動帶來的相關風險。"
+    },
+    {
+      "id": "mkt:019eaef8-6438-7ff4-a103-5be836ee7a96",
+      "time": "2026-06-10 08:39:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South Korea's finance minister said authorities will closely monitor risks from rising bond yields, won weakness and equity market volatility."
+    },
+    {
+      "id": "4926892",
+      "time": "2026-06-10 08:38:06",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【超30家銀行暫停部分貨幣基金申購業務】進入5月下旬以來，一場覆蓋數十家銀行的貨幣基金申購暫停整改行動在行業內全面鋪開。記者注意到，近一個月以來，已有常熟農商行、天津農商行、紫金農商行、江陰農商行等超30家中小銀行釋出公告，集中暫停部分貨幣基金申購業務。與此同時，易方達、鵬華、諾安等頭部基金公司也同步調整渠道服務許可權，配合銀行端完成合規整改。這場變革的源頭，可以追溯到去年底監管部門出臺的一則資金劃轉新規。2025年11月24日釋出的《機構監管情況通報》明確提出，對於場外貨幣市場基金，基金銷售機構應當在基金份額確認當日（T+1日）16:00前，將確認成功的申購資金劃轉至該基金的註冊登記賬戶。六個月的整改過渡期於2026年5月底正式屆滿。“本輪貨幣基金銷售合規整改能夠有效整治舊規則下資金劃轉時間差衍生的套利行為，遏制機構利用週末及節假日機制開展的短期套利操作。”蘇商銀行特約研究員武澤偉表示。（中國金融時報）"
+    },
+    {
+      "id": "4926891",
+      "time": "2026-06-10 08:37:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【納芯微推出透過IBEE/FTZ-Zwickau EMC認證最高Class III等級、全國產化的CAN收發器】6月10日，納芯微宣佈推出全國產化供應鏈的汽車級CAN收發器晶片NCA1043D-Q1，新器件憑藉業內領先的抗干擾特性，在歐洲權威測試機構IBEE/FTZ-Zwickau的EMC認證中，實現無特殊條件備註、全測試項透過最高Class III等級。NCA1043D-Q1同時滿足大眾集團VW80121-3，2023-12標準，納芯微現可提供相關測試報告，支援汽車製造商簡化系統認證流程，加速產品上市。"
+    },
     {
       "id": "mkt:019eaef5-4d53-7ff4-a103-51c25f6061bb",
       "time": "2026-06-10 08:36:12",
@@ -172511,72 +172547,6 @@
         "公司"
       ],
       "text": "【訊息人士：SpaceX計劃以每股135美元的價格透過首次公開募股（IPO）籌集750億美元】一位知情人士告訴媒體，SpaceX計劃透過首次公開募股（IPO）發行5.556億股股票，每股目標價為135美元，以此籌集750億美元。媒體週二早些時候報道稱，這家火箭和衛星通訊公司希望以1.75萬億美元的估值籌集至少750億美元。在現階段設定具體目標價極為罕見，因為計劃上市的公司通常會在透過一系列名為“路演”的推介會與投資者溝通前，先設定一個價格區間。SpaceX的路演將於週四開始。通常情況下，具體目標價要等到發行前一天才會確定。"
-    },
-    {
-      "id": "mkt:019e8aed-2834-733d-881d-614a50fac4d1",
-      "time": "2026-06-03 08:40:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump congratulated Colombian presidential candidate Abelardo de la Espriella."
-    },
-    {
-      "id": "4913870",
-      "time": "2026-06-03 08:40:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：祝賀哥倫比亞總統候選人阿韋拉多·德拉埃斯普列利亞。"
-    },
-    {
-      "id": "4913869",
-      "time": "2026-06-03 08:40:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央網信辦組織召開未成年人網路保護協調機制工作會議】6月2日，中央網信辦組織召開未成年人網路保護協調機制工作會議，研究部署規範和管理未成年人使用網路相關工作。會議強調，要提高政治站位、把握形勢任務，深刻認識規範和管理未成年人使用網路，是貫徹落實習近平總書記重要指示批示精神、推動黨中央決策部署落地見效的重要任務，是順應網際網路發展管理趨勢、有效回應人民群眾關心關切的迫切需要，是保護未成年人網路合法權益、護航未成年人健康成長的關鍵舉措，切實增強做好工作的責任感使命感緊迫感。要明確目標、聚焦重點，紮實推進規範和管理未成年人使用網路的各項舉措。堅持分級分類，嚴管中高風險功能服務，劃定觸網安全底線；堅持管建並舉，全面推廣未成年人模式，升級專屬內容池，最佳化未成年人專門裝置，打造安全網路空間；堅持技術賦能，聚焦未成年人身份識別問題加大技術攻關力度，將網路保護要求融入技術規範，把法規要求透過技術標準落細，推動全覆蓋、全鏈條、全閉環協同保護；堅持齊抓共管，充分發揮平臺、學校、家庭、社會等多方力量，匯聚網路保護合力。會議要求，要主動履責、強化擔當，切實抓好各項任務落實。要以未成年人網路保護協調機制建立執行為契機，進一步強化政治引領，加強協同聯動，落實工作責任，形成上下聯動、左右協同、社會共治的工作格局，推動未成年人網路保護工作邁上新臺階、取得新成效。"
-    },
-    {
-      "id": "te:economy:555887",
-      "time": "2026-06-03 08:40:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Composite PMI Confirmed at 5-Month Low — Japan’s S&P Global Composite PMI stood at 51.1 in May 2026, matching flash data and marking the 14th straight month of expansion in private sector activity. However, the latest reading eased from 52.2 in April and pointed to the weakest growth since December, as overall activity was supported solely by stronger manufacturing output while the services sector stagnated. New business continued to rise but at the slowest pace in five months, reflecting only modest demand growth. External demand also softened, with overseas orders for Japanese goods and services increasing at the weakest rate so far this year. Employment growth slowed to a seven-month low, contributing to a faster accumulation of backlogged work. At the same time, cost pressures intensified, with input prices rising at the sharpest pace in 43 months. Firms responded by raising selling prices more aggressively, pushing output charge inflation to a new survey record."
-    },
-    {
-      "id": "mkt:019e8aec-2a59-733d-881d-5b5467b3c0e0",
-      "time": "2026-06-03 08:39:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Man takes hostage inside California bank】US media reported on the 2nd that a man reportedly wearing an apparent explosive device on his chest took at least one hostage inside a bank in Bakersfield, California. The area around the bank was cordoned off and police said they were negotiating with the man."
-    },
-    {
-      "id": "te:economy:555886",
-      "time": "2026-06-03 08:39:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Private Sector Returns to Growth — The S&P Global Hong Kong SAR PMI rose to 50.4 in May 2026 from 48.6 in April, signaling a renewed expansion in private-sector activity after two consecutive months of contraction. Business activity increased for the first time since March, supported by a modest rise in new orders and a solid rebound in export demand, with foreign sales posting their strongest growth in three months. Meanwhile, employment declined slightly as firms chose not to replace departing staff, while backlogs continued to fall, albeit at a slower pace. Purchasing activity expanded at a softer rate, and supplier delivery times lengthened for the first time in three months, partly due to shipping disruptions linked to the Middle East conflict. Cost pressures remained elevated, with purchase prices rising at the fastest pace since December 2021, while firms continued to raise selling prices, though at a slower pace than in April. Business confidence stayed negative but improved to a three-month high."
-    },
-    {
-      "id": "4913868",
-      "time": "2026-06-03 08:39:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加州男子銀行內劫持人質】據美國媒體2日報道，一名據稱胸前綁有炸彈的男子當天在美國加利福尼亞州貝克斯菲爾德市的一家銀行內劫持了至少一名人質，導致附近區域被封鎖。警方表示他們正在與該男子進行談判。"
     }
   ]
 }
