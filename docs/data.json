@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-11 01:23:11",
+  "updated": "2026-06-11 01:27:09",
   "count": 18420,
   "items": [
+    {
+      "id": "4928841",
+      "time": "2026-06-11 01:25:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，美國將重新加入國際能源論壇。"
+    },
+    {
+      "id": "4928840",
+      "time": "2026-06-11 01:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普祝賀莫迪成為印度任期最長的總理。"
+    },
+    {
+      "id": "4928839",
+      "time": "2026-06-11 01:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本三大銀行達成合作，計劃在2027年3月前推出錨定日元的穩定幣。"
+    },
     {
       "id": "4928838",
       "time": "2026-06-11 01:20:33",
@@ -169787,32 +169811,6 @@
         "國際"
       ],
       "text": "【聯合國安理會改選非常任理事國 菲律賓落選】當地時間3日，聯合國大會選舉奧地利、吉爾吉斯斯坦、葡萄牙、千里達及托巴哥、辛巴威為安理會非常任理事國。其中，吉爾吉斯斯坦系經四輪投票選出，其競爭對手菲律賓落選。新當選的安理會非常任理事國任期將從2027年1月1日開始，為期兩年，至2028年12月31日。聯合國安理會由15個理事國組成，其中5個為常任理事國；非常任理事國有10個，任期2年，每年經選舉更換5個，不能連選連任。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8e86-2a4a-7443-8fe0-b5732be9b5ee",
-      "time": "2026-06-04 01:26:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News, citing a member of Tehran's negotiating team, reports Iran has not yet sent its response to Washington on the latest US draft."
-    },
-    {
-      "id": "4915843",
-      "time": "2026-06-04 01:26:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員訊息：伊朗尚未向美方遞交針對美方最新草案的回覆。"
-    },
-    {
-      "id": "mkt:019e8e84-98dc-7443-8fe0-afbfd71e7b81",
-      "time": "2026-06-04 01:25:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHO: DRC 344 confirmed Ebola cases, 60 deaths; Uganda 15 cases, 1 death】On the 3rd, WHO said latest data show the Democratic Republic of Congo has reported 344 confirmed Ebola cases, including 60 deaths. Uganda has reported 15 confirmed cases and 1 death. The outbreak is caused by the Bundibugyo ebolavirus."
     }
   ]
 }
