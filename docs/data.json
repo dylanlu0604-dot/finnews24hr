@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-10 21:04:14",
-  "count": 18550,
+  "updated": "2026-06-10 21:08:46",
+  "count": 18549,
   "items": [
+    {
+      "id": "4928457",
+      "time": "2026-06-10 21:07:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國銀行即將推出新的薪酬計劃工具。"
+    },
+    {
+      "id": "mkt:019eb1a4-28ab-7dd8-afa2-0c1a56f6cc5d",
+      "time": "2026-06-10 21:06:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Senator Warren has urged the SEC to review SpaceX's IPO."
+    },
+    {
+      "id": "4928455",
+      "time": "2026-06-10 21:06:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西安奕材：股價異常波動 2025 年淨虧損 7.38 億元】西安奕材公告稱，公司股票在 2026 年 6 月 9 日、6 月 10 日連續 2 個交易日內收盤價格漲幅偏離值累計達 30%，屬異常波動。經自查，公司生產經營正常，控股股東、實控人等不存在影響股價異常波動的重大事項。2025 年度營收 26.49 億元，淨虧損 7.38 億元；2026 年第一季度營收 7.23 億元，淨虧損 1.58 億元，尚未實現盈利。公司提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "te:economy:558068",
+      "time": "2026-06-10 21:05:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Retreat from Session Highs — The yield on the US 10-year Treasury note was little changed at 4.52% on Wednesday, easing from an intraday high of 4.55% after the latest US CPI report provided some relief that the energy shock has not yet significantly spilled over into broader price pressures. Annual inflation accelerated to 4.2% in May, in line with market expectations, while core CPI rose by just 0.2% on a monthly basis, undershooting forecasts. Following the release, traders modestly pared back expectations for rate hikes by the Fed this year, although a 25bps increase in December remains fully priced in. Investors will now turn their attention to Thursday's PPI report for further clues on underlying inflationary pressures. Meanwhile, last week's labour market data pointed to a resilient and potentially reaccelerating jobs market, while other economic indicators continue to signal solid momentum in the US economy."
+    },
+    {
+      "id": "mkt:019eb1a3-6d53-7dd8-afa2-077ab4eb6f5f",
+      "time": "2026-06-10 21:05:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Senator Elizabeth Warren urged the U.S. Securities and Exchange Commission to delay SpaceX’s IPO."
+    },
+    {
+      "id": "4928454",
+      "time": "2026-06-10 21:05:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3016.00元。"
+    },
+    {
+      "id": "4928453",
+      "time": "2026-06-10 21:05:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國參議員沃倫呼籲美國證券交易委員會推遲SpaceX的IPO。"
+    },
+    {
+      "id": "mkt:019eb1a2-f065-7dd8-afa1-ff35d5757129",
+      "time": "2026-06-10 21:05:06",
+      "tags": [
+        "MKT News",
+        "F.O",
+        "Impact bullish"
+      ],
+      "text": "Ford Motor shares rose 0.8% pre-market after the Wall Street Journal reported that Novelis, a major aluminum supplier to Ford, will restart plant operations following a fire."
+    },
+    {
+      "id": "4928451",
+      "time": "2026-06-10 21:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：華納音樂集團將收購SUREEL AI。"
+    },
+    {
+      "id": "4928450",
+      "time": "2026-06-10 21:03:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜表示，該筆信貸額度將用於公司日常經營週轉。"
+    },
+    {
+      "id": "mkt:019eb1a1-3274-7dd8-afa1-f44131583274",
+      "time": "2026-06-10 21:03:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analyst: May CPI avoids worst-case overheating; dollar pressured, euro gets breathing room】Analyst Childe-Freeman said May CPI avoided the worst-case scenario of stronger-than-expected overheating, which could briefly relieve U.S. Treasury yields ahead of next week’s Fed decision and exert near-term downward pressure on the dollar. That gives EUR/USD a short window to rebound toward 1.16 ahead of tomorrow’s ECB meeting. An ECB rate hike tomorrow now appears all but certain, but Childe-Freeman cautioned that a hike alone—especially amid slowing growth—may not sustain the euro over time."
+    },
+    {
+      "id": "4928449",
+      "time": "2026-06-10 21:02:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI基礎設施初創公司TensorWave完成3.5億美元B輪融資】AI基礎設施初創公司TensorWave完成3.5億美元B輪融資，投後估值達15.5億美元，用於擴建由AMD驅動的全球AI基礎設施。"
+    },
     {
       "id": "mkt:019eb1a0-4018-7dd8-afa1-eacb990278b7",
       "time": "2026-06-10 21:02:09",
@@ -171111,121 +171224,6 @@
         "MS.O"
       ],
       "text": "CNBC reports Morgan Stanley will allow AI agents to extract data from its equities platform."
-    },
-    {
-      "id": "4915453",
-      "time": "2026-06-03 21:08:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國眾議院多數黨領袖斯卡利斯就伊朗戰爭權力表決表示，我不知道結果將如何，現在有很多人認為（這場戰爭）正朝著和平方向發展。"
-    },
-    {
-      "id": "4915452",
-      "time": "2026-06-03 21:08:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價因美伊最新軍事交火而上漲】在美國和伊朗進一步交火後，原油期貨連續第三個交易日上漲，這讓人們對很快達成重新開放霍爾木茲海峽的協議的可能性產生更多懷疑。Ritterbusch & Associates在一份報告中表示，最新一輪襲擊增加了風險溢價，並使停火“幾乎毫無意義“。該機構補充說，整個夏季油價仍有望保持高位，“特別是考慮到美國總統特朗普的最新言論，即美國對霍爾木茲海峽的封鎖可能會持續到勞工節“。西得州中質油上漲2.5%，報每桶96.13美元；布倫特原油上漲2.3%，報每桶98.19美元。"
-    },
-    {
-      "id": "4915451",
-      "time": "2026-06-03 21:07:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交、聯邦及發展事務部不再建議除必要事務外完全避免前往約旦，但仍建議不要前往距離敘利亞邊境3公里以內的地區。"
-    },
-    {
-      "id": "mkt:019e8d98-68c0-7ccb-b65a-1e253f5690a0",
-      "time": "2026-06-03 21:07:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK's Foreign, Commonwealth and Development Office said it no longer advises avoiding all but essential travel to Jordan, but continues to advise against travel to areas within 3 km of the Syrian border."
-    },
-    {
-      "id": "4915450",
-      "time": "2026-06-03 21:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "萊茵金屬：交易將於第四季度完成交割，仍需滿足若干前提條件。"
-    },
-    {
-      "id": "4915449",
-      "time": "2026-06-03 21:06:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：巴西雷亞爾未來6個月將貶值3.7%，至1美元兌5.20雷亞爾；未來12個月將貶值5.5%，至1美元兌5.30雷亞爾，5月調查時的預期為1美元兌5.25雷亞爾。墨西哥比索未來12個月將貶值3.6%，至1美元兌17.92比索，5月調查時的預期為1美元兌17.87比索。"
-    },
-    {
-      "id": "mkt:019e8d97-465e-7ccb-b65a-124182a7c44b",
-      "time": "2026-06-03 21:06:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "USDBRL",
-        "Impact bullish",
-        "USDMXN",
-        "DXY"
-      ],
-      "text": "REUTERS SURVEY: The Brazilian real is expected to weaken 3.7% over six months to 1 USD = 5.20 BRL and 5.5% over 12 months to 1 USD = 5.30 BRL (May survey: 1 USD = 5.25 BRL). The Mexican peso is expected to weaken 3.6% over 12 months to 1 USD = 17.92 MXN (May survey: 17.87)."
-    },
-    {
-      "id": "4915448",
-      "time": "2026-06-03 21:05:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼外交部對針對巴林和科威特的襲擊表示譴責】阿曼外交部發布宣告，對針對巴林王國和科威特的襲擊表示譴責和強烈抗議，重申堅決反對任何可能破壞地區安全與穩定的軍事行為，特別是針對民用和關鍵設施的攻擊，這構成了對國際法的侵犯，並威脅到平民的安全。 阿曼還表示對巴林王國和科威特的全力支援，支援它們為維護自身安全與穩定、保護主權和領土完整所採取的措施。 阿曼重申呼籲各方保持克制，避免升級，尋求對話和外交手段來解決危機與爭端，以促進地區安全與穩定，避免地區進一步緊張和負面影響。"
-    },
-    {
-      "id": "mkt:019e8d96-f350-7ccb-b65a-0cef9adbf53f",
-      "time": "2026-06-03 21:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Oman foreign ministry condemns attacks on Bahrain and Kuwait】Oman's foreign ministry issued a statement condemning and strongly protesting attacks on the Kingdom of Bahrain and Kuwait. It reiterated opposition to any military action that could undermine regional security and stability, particularly strikes on civilian and critical infrastructure, calling such acts violations of international law and a threat to civilian safety. Oman expressed full support for Bahrain and Kuwait in safeguarding their security, sovereignty and territorial integrity, and urged all parties to exercise restraint, avoid escalation and seek dialogue and diplomacy to resolve the crisis and prevent further regional tension."
-    },
-    {
-      "id": "4915447",
-      "time": "2026-06-03 21:04:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵金屬股份公司<RHMG.DE>：自去年以來，該集團已就其民用業務與潛在買家展開洽談，目前洽談已順利完成，已簽署協議將該業務出售給Aequita私募股權投資公司。"
-    },
-    {
-      "id": "te:markets:556168",
-      "time": "2026-06-03 21:04:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "South African Rand Stays Near 3-Month Highs — The South African rand eased slightly to around 16.3 per USD, amid a firming dollar and falling prices of key precious metals, particularly gold and PGMs. Still, the currency stays near the highest level since March, supported by strong export revenues, fiscal discipline, and the central bank's credibility. The rand is also benefiting from favourable interest rate differentials, as South Africa’s elevated rates contrast with stable US monetary policy. The South African Reserve Bank raised the repo rate by 25 bps to 7% on May 28, its first hike since May 2023, in response to elevated geopolitical risks, higher fuel and food costs, and concerns over second-round inflation effects. The move reinforced the SARB’s commitment to anchoring inflation expectations and maintaining price stability. Meanwhile, markets are pricing in a higher probability of another rate hike, with July seen as a possible timing."
-    },
-    {
-      "id": "mkt:019e8d95-fe64-7ccb-b65a-0646224796df",
-      "time": "2026-06-03 21:04:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC launches Service Tracking and Partner Center."
-    },
-    {
-      "id": "4915446",
-      "time": "2026-06-03 21:04:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic ：正式上線服務通道與合作伙伴中心。"
     }
   ]
 }
