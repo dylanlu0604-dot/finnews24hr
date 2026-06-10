@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-10 13:28:45",
-  "count": 18709,
+  "updated": "2026-06-10 13:32:44",
+  "count": 18702,
   "items": [
+    {
+      "id": "4927354",
+      "time": "2026-06-10 13:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電今年前5月銷售額1.96萬億臺幣，同比增長30%。"
+    },
+    {
+      "id": "mkt:019eb003-47a3-799a-b41c-8a10960680ad",
+      "time": "2026-06-10 13:31:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2330.TW",
+        "Impact bullish"
+      ],
+      "text": "TSMC reported May revenue of NT$416.98 billion, versus NT$410.73 billion in April."
+    },
+    {
+      "id": "4927353",
+      "time": "2026-06-10 13:30:30",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "臺積電 5月銷售額4,169.8億元臺幣，同比增長30.1%。"
+    },
+    {
+      "id": "te:markets:557897",
+      "time": "2026-06-10 13:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 1.13% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.13% decrease."
+    },
+    {
+      "id": "4927352",
+      "time": "2026-06-10 13:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：韓國已消化約15億美元與SPACEX IPO相關的購匯需求。"
+    },
+    {
+      "id": "mkt:019eb001-ab6f-799a-b41c-86c11842d80f",
+      "time": "2026-06-10 13:29:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Sources say South Korea has absorbed about $1.5 bln of FX demand tied to the SpaceX IPO; once that demand was absorbed, downward pressure on the won eased."
+    },
     {
       "id": "4927351",
       "time": "2026-06-10 13:27:52",
@@ -172571,117 +172629,6 @@
         "觀點"
       ],
       "text": "花旗將招金礦業目標價從37.50港元上調至41.40港元。"
-    },
-    {
-      "id": "4914305",
-      "time": "2026-06-03 13:32:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭板塊午後活躍 晉控煤業逼近漲停】煤炭板塊午後活躍，晉控煤業逼近漲停，鄭州煤電、潞安環能、昊華能源、寶泰隆、兗礦能源跟漲。"
-    },
-    {
-      "id": "mkt:019e8bf7-9ff7-7ee2-b140-9398183c5545",
-      "time": "2026-06-03 13:32:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share commercial space stocks jumped; China Satellite rose over 8%, with Shanghai Hanxun, Aerospace Huanyu, Aerospace Electronics and China Satcom also rallying."
-    },
-    {
-      "id": "mkt:019e8bf7-5c96-7ee2-b140-8e76d842e796",
-      "time": "2026-06-03 13:31:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China-listed Zhongji Xuchuang's trading value hit 30 billion yuan; shares are up 8.6% intraday."
-    },
-    {
-      "id": "4914304",
-      "time": "2026-06-03 13:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "INDITEX：一季度息稅前利潤17.6億歐元，預估17.4億歐元。"
-    },
-    {
-      "id": "4914303",
-      "time": "2026-06-03 13:31:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4460美元/盎司，日內跌0.62%。"
-    },
-    {
-      "id": "mkt:019e8bf6-af27-7ee2-b140-836924b5abf8",
-      "time": "2026-06-03 13:31:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【ByteDance’s Volcano Engine raises 2026 MaaS target to 15 bln yuan; Seedance 2.0 >1 bln yuan/month】In April ByteDance’s Volcano Engine raised its 2026 MaaS revenue target to 15 bln yuan from a 10 bln yuan target at end‑2025. Full‑year MaaS revenue in 2025 was about 1.5 bln yuan, making the 2026 target roughly 10x last year’s actual. Industry sources say the Seedance 2.0 model alone is already generating over 1 bln yuan in monthly revenue and is still ramping. That monthly run‑rate was achieved before a full overseas API rollout, and Volcano Engine is likely to further raise its MaaS target."
-    },
-    {
-      "id": "4914302",
-      "time": "2026-06-03 13:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "INDITEX：一季度淨利潤為13.8億歐元。"
-    },
-    {
-      "id": "4914301",
-      "time": "2026-06-03 13:30:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4490美元/盎司，日內跌0.67%。"
-    },
-    {
-      "id": "4914300",
-      "time": "2026-06-03 13:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達300億元。"
-    },
-    {
-      "id": "te:markets:555988",
-      "time": "2026-06-03 13:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Appreciates by 1.41% — Top crypto gainers are XRP (1.41%), Bitcoin (0.39%) and Ether (0.37%). Biggest loser is Binance (-1.14%)."
-    },
-    {
-      "id": "4914299",
-      "time": "2026-06-03 13:29:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【火山引擎提升MaaS營收目標至全年150億元，Seedance 2.0單月營收已超10億元】位元組跳動火山引擎在今年4月已將MaaS業務營收目標上調至150億元，且這個營收目標幾乎每月都在上調。而在2025年底，這一目標還是100億元。36氪瞭解到，在2025年，火山全年的MaaS收入約15億元左右，等於截止目前2026年的營收目標是去年實際營收的10倍。可以說，火山這一波MaaS營收增長几乎都歸功於Seedance2.0的爆發——影片模型Seedance2.0如今已經能帶來單月超10億元的收入。一位接近火山的人士透露，截至目前，火山引擎Token日均消耗量仍然保持著月度近40%的增速。"
-    },
-    {
-      "id": "4914298",
-      "time": "2026-06-03 13:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬物一口：送檢的全部批次產品均未檢出三聚氰胺。"
-    },
-    {
-      "id": "4914297",
-      "time": "2026-06-03 13:28:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【鼎泰高科股價盤中突破400元/股】6月3日，鼎泰高科(301377)午後一度漲超17%，股價最高達403元/股，創歷史新高（前復權），這是該股歷史首次股價突破400元/股。"
     }
   ]
 }
