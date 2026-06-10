@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-11 01:03:10",
-  "count": 18414,
+  "updated": "2026-06-11 01:07:10",
+  "count": 18418,
   "items": [
+    {
+      "id": "mkt:019eb27e-a6fa-7dd8-afa9-743864731b6a",
+      "time": "2026-06-11 01:05:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury yield was little changed after a Treasury auction, up 1 bp at 4.538%."
+    },
+    {
+      "id": "mkt:019eb27e-62ce-7dd8-afa9-6ad28ee80fe0",
+      "time": "2026-06-11 01:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Washington is disrupting procurement networks that support Iran."
+    },
+    {
+      "id": "mkt:019eb27e-4539-7dd8-afa9-6563aeb2a934",
+      "time": "2026-06-11 01:04:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US forces say they struck tanker violating blockade in Gulf of Oman】CENTCOM said on June 10 that U.S. forces on June 9 disabled a tanker in the Gulf of Oman after the vessel violated blockade measures. CENTCOM said the tanker attempted to transport Iranian oil and, after repeatedly ignoring U.S. orders, was struck by a U.S. aircraft using precision‑guided munitions and rendered inoperable. Since launching the blockade on April 13, CENTCOM said U.S. forces have disabled eight non‑compliant tankers, diverted 134 vessels cooperating with inspections and allowed 42 ships carrying humanitarian aid to pass."
+    },
+    {
+      "id": "4928825",
+      "time": "2026-06-11 01:04:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國考慮調整美國有限責任公司等機構相關人員的稅收政策，擬為部分個人降低實際高稅率。"
+    },
+    {
+      "id": "4928824",
+      "time": "2026-06-11 01:04:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率在拍賣結束後變動不大，最新上漲1個基點，報4.538%。"
+    },
+    {
+      "id": "4928823",
+      "time": "2026-06-11 01:03:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：藉助“經濟怒火行動”，財政部正打擊為伊朗軍方採購武器的境外相關網路。財政部已凍結伊朗相關資產，重創其經濟，並瓦解其戰爭體系。美方絕不允許任何勢力為伊朗軍方提供支援。"
+    },
+    {
+      "id": "mkt:019eb27d-2641-7dd8-afa9-58073f38f525",
+      "time": "2026-06-11 01:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department announced an additional $20 million to support ongoing Ebola response and preparedness efforts."
+    },
+    {
+      "id": "4928822",
+      "time": "2026-06-11 01:02:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：宣佈為該部門持續開展的埃博拉應對與防範工作追加2000萬美元資金。"
+    },
     {
       "id": "4928821",
       "time": "2026-06-11 01:02:24",
@@ -169726,48 +169803,6 @@
         "國際"
       ],
       "text": "【特朗普政府調整進口銅關稅規則 放寬美國銅的含量要求】特朗普政府調整美國進口銅產品關稅規則，使進口商更容易獲得與美國本土生產金屬相關的優惠待遇。根據週三刊登在《聯邦公報》上的一項公告，美國政府調整了鋁、鋼、銅進口關稅規則。公告維持部分銅產品50%的關稅稅率不變，但下調了被認定為100%使用美國銅原料的產品標準。此前，一項產品若要被認定為美國製造，其銅含量中至少95%必須在美國境內完成冶煉和鑄造。如今這一門檻已降至85%。該公告還擴大了產品覆蓋範圍，將部分電導體和電纜產品納入適用232條款關稅的商品名單。"
-    },
-    {
-      "id": "4915833",
-      "time": "2026-06-04 01:06:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "吉爾吉斯斯坦當選 2027 至 2028 年度聯合國安理會非常任理事國，系第五個獲選國家。"
-    },
-    {
-      "id": "mkt:019e8e73-5349-7443-8fe0-69cf949e27f0",
-      "time": "2026-06-04 01:06:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Fars News: Iran outlines four-phase plan for deal with US】Fars News reported Iran outlined a four-phase plan toward an agreement with the United States. Phase 1 calls for a comprehensive cessation of military operations on all fronts, covering Iran, US forces and the Axis of Resistance. Phase 2 focuses on implementing four items: arrangements for the Strait of Hormuz and related mechanisms, lifting blockades, removal of oil restrictions and sanctions, and unfreezing some Iranian assets. Phase 3 would open broader negotiations on sanctions and nuclear issues once objective, verifiable measures are implemented. Phase 4 would establish a supervisory committee to monitor implementation and track parties' compliance."
-    },
-    {
-      "id": "te:markets:556239",
-      "time": "2026-06-04 01:04:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rebounds from 6-Week Low — US gasoline futures for delivery in the New York Harbor were above $3.15 per gallon, rebounding from the six-week low of $3 touched on May 29th as the prolonged conflict in the Middle East extended the supply halt of oil and refined product from the region. Iran launched strikes against Bahrain and Kuwait after stating it would cut communication with mediatiors aiming for an agreement with the US, while the US hit Iranian targets. The developments prolonged the naval blockade by both countries that prevents the flows of tankers through the Strait of Hormuz, which sees one fifth of global consumption. In turn, US gasoline inventory rebounded by over 3 million barrels in the last week of May following 15 consecutive weeks of decline. Still, an 8 million barrel draw in private crude oil inventories, in addition to an 8 million barrel draw in the SPR, limited the respite in refined product supply."
-    },
-    {
-      "id": "4915832",
-      "time": "2026-06-04 01:03:43",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：Anthropic 選定摩根士丹利、高盛擔任 IPO 聯席保薦承銷商。"
     }
   ]
 }
