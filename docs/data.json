@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-11 03:12:26",
-  "count": 18447,
+  "updated": "2026-06-11 03:16:24",
+  "count": 18457,
   "items": [
+    {
+      "id": "mkt:019eb2f6-6659-7dd8-afab-3fd371d8cbc8",
+      "time": "2026-06-11 03:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports the European Union plans to continue granting free carbon allowances to firms into the 2040s, scrapping the current 2039 cut-off."
+    },
+    {
+      "id": "4928930",
+      "time": "2026-06-11 03:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "據金融時報：歐盟計劃將免費碳排放配額政策延續至 2040 年代，取消現行 2039 年的截止期限。"
+    },
+    {
+      "id": "mkt:019eb2f5-d866-7dd8-afab-325c0a65b709",
+      "time": "2026-06-11 03:15:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Financial Times reports the EU plans to shield certain sectors from future carbon costs, provided those companies invest inside the EU."
+    },
+    {
+      "id": "4928929",
+      "time": "2026-06-11 03:15:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據金融時報：歐盟擬為在本區域投資的企業提供保障，使其免受未來碳成本上漲衝擊。"
+    },
+    {
+      "id": "mkt:019eb2f5-785d-7dd8-afab-2cd2f52dfe6f",
+      "time": "2026-06-11 03:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombian President Petro denies temporary suspension】June 10 — Colombian President Gustavo Petro denied reports he had been temporarily suspended, saying a single lawmaker had filed a request with the House Committee on Investigations and Accusations but that the committee has no authority to suspend the president. Speaking in New York at a UN Security Council meeting, Petro said any suspension would require Senate action, warned the move may breach Colombian law and could be taken to the Supreme Court, and accused the initiating lawmaker of making demands to the government amounting to extortion."
+    },
+    {
+      "id": "4928928",
+      "time": "2026-06-11 03:14:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國政府將於週一宣佈國防投資相關計劃。"
+    },
+    {
+      "id": "mkt:019eb2f4-c269-7dd8-afab-2548eef743e3",
+      "time": "2026-06-11 03:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said the White House meeting with defense contractors mirrored a March session; attendees included Lockheed Martin (LMT.N), Raytheon Technologies (RTX.N), Boeing (BA.N) and L3Harris."
+    },
+    {
+      "id": "4928927",
+      "time": "2026-06-11 03:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞總統佩特羅否認被“臨時停職”】當地時間6月10日，哥倫比亞總統佩特羅回應其“臨時停職”的訊息時表示，自己並未被停職，目前僅是一名議員向眾議院調查與指控委員會提出相關請求。佩特羅在美國紐約出席聯合國安理會會議期間向媒體表示，“你們面對的並不是一位被停職總統。”他強調，調查與指控委員會無權暫停共和國總統職務，總統停職應由參議院作出決定。佩特羅認為當前做法涉嫌違反哥倫比亞相關法律，並可能引發提交至最高法院的司法程式。（央視新聞）"
+    },
+    {
+      "id": "4928926",
+      "time": "2026-06-11 03:12:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，此次白宮會議與今年 3 月的相關會談一脈相承，洛克希德、雷神技術、波音及 L3 哈里斯公司當時均參與其中。"
+    },
+    {
+      "id": "4928925",
+      "time": "2026-06-11 03:12:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌4%，現報4088.77美元/盎司。"
+    },
+    {
+      "id": "mkt:019eb2f3-067c-7dd8-afab-1e11e1bc3cc7",
+      "time": "2026-06-11 03:12:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold plunged 4.00% intraday to $4,089.88/oz."
+    },
+    {
+      "id": "4928924",
+      "time": "2026-06-11 03:12:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4090美元/盎司，日內跌3.98%。"
+    },
     {
       "id": "4928923",
       "time": "2026-06-11 03:11:46",
@@ -170009,25 +170116,6 @@
         "觀點"
       ],
       "text": "高盛總裁約翰·沃爾德倫：今年私募股權作為併購交易推手的勢頭有所放緩，市場承接大型 IPO 的消化能力十分充足。"
-    },
-    {
-      "id": "4915903",
-      "time": "2026-06-04 03:14:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府擬對“可信申請人”免除嚴格的國家安全層面許可證審查，前提是申請人同意接受持續監督與管控。"
-    },
-    {
-      "id": "mkt:019e8ee8-65a4-7443-8fe2-1b2c05548a10",
-      "time": "2026-06-04 03:14:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "CNN reports monetary compensation has become the key sticking point in the Iran agreement."
     }
   ]
 }
