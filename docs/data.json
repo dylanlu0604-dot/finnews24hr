@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-10 08:45:07",
+  "updated": "2026-06-10 08:48:58",
   "count": 18694,
   "items": [
+    {
+      "id": "4926906",
+      "time": "2026-06-10 08:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體報道，伊朗最高聯合軍事指揮部“海亞姆安比亞”總部表示，為回應美國對伊朗南部的“侵略行動”，已對美國在該地區的部分基地發動了襲擊。"
+    },
+    {
+      "id": "mkt:019eaeff-a9ee-7ff4-a103-7ff9f24fe584",
+      "time": "2026-06-10 08:47:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme Joint Military Command said it struck several U.S. military bases in the region in response to U.S. \"aggression against southern Iran\"."
+    },
+    {
+      "id": "4926905",
+      "time": "2026-06-10 08:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加36.37億元】截至6月9日，上交所融資餘額報14522.22億元，較前一交易日減少14.81億元；深交所融資餘額報14049.07億元，較前一交易日增加51.18億元；兩市合計28571.29億元，較前一交易日增加36.37億元。"
+    },
+    {
+      "id": "4926904",
+      "time": "2026-06-10 08:47:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體10日報道，當天凌晨，伊朗西部城市阿瓦士聽到疑似爆炸聲。（新華社）"
+    },
+    {
+      "id": "te:markets:557807",
+      "time": "2026-06-10 08:47:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Drop as US Hits Iran — The Nikkei 225 Index dropped 1.2% to below 65,000, while the broader Topix Index fell 0.4% to 3,880 on Wednesday, giving back the previous session’s gains as investor sentiment deteriorated after the US launched “self-defense strikes” against Iran in response to the downing of an American helicopter. Japanese equities also followed a technology-led selloff on Wall Street, where semiconductor stocks came under renewed pressure. Meanwhile, domestic data showed Japan’s wholesale inflation accelerated to 6.3% year-on-year in May, the fastest pace in more than three years, driven by surging energy costs. Chipmakers and AI-related companies led the market lower, with sharp declines from Kioxia Holdings (-3.6%), Taiyo Yuden (-3%), SoftBank Group (-8.4%), Murata Manufacturing (-4.2%), and Fujikura (-6.7%). Bucking the trend, Tokyo Electron surged 6.9% to a new record high."
+    },
+    {
+      "id": "mkt:019eaeff-3597-7ff4-a103-7137e0eeb2d0",
+      "time": "2026-06-10 08:47:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported on the 10th that suspected explosions were heard early that morning in Ahvaz, western Iran."
+    },
+    {
+      "id": "4926903",
+      "time": "2026-06-10 08:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二次中英環境部長對話會在京舉行】6月9日，第二次中英環境部長對話會在北京舉行，生態環境部部長黃潤秋與英國環境、食品和農村事務大臣艾瑪·雷諾茲共同主持會議，雙方圍繞生物多樣性保護和自然金融、化學品管理和國際塑膠汙染法律文書談判、中英環境合作展望、多邊環境程序及協調等議題進行了深入交流。"
+    },
+    {
+      "id": "4926902",
+      "time": "2026-06-10 08:45:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國啟動對外匯銀行的檢查後 韓元應聲走強】韓國央行和金融監管機構將於週三開始對主要外匯銀行進行聯合檢查，這是14年來首次進行此類檢查。訊息公佈後，韓元應聲走強。根據一份聯合宣告，韓國銀行和金融監督院在表示本次非現場和現場審查旨在查明各銀行是否從事可能破壞外匯市場穩定的交易。宣告補充稱，審查將查明市場參與者是否透過操縱或壓制匯率，為自身或第三方謀取不當利益。該宣告稱，在聯合檢查中被發現違反規定的銀行將根據相關法律面臨嚴厲處罰。訊息公佈後，韓元一度上漲0.9%至1美元兌1,514.35韓元。韓元本週漲逾2%，但其表現仍屬亞貨最差之列，年迄今已下跌5%，跌幅僅次於印尼盾和印度盧比。"
+    },
+    {
+      "id": "4926901",
+      "time": "2026-06-10 08:45:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨一度跌0.5%。"
+    },
     {
       "id": "4926900",
       "time": "2026-06-10 08:44:21",
@@ -172513,91 +172596,6 @@
         "國際"
       ],
       "text": "【原油價格延續漲勢 美伊和平談判進展停滯且地區衝突再起】油價連續第三天上漲，投資者對美國和伊朗達成和平協議的前景感到悲觀，並且中東地區再次出現新的衝突。布倫特油價升向每桶97美元；WTI原油期貨在95美元附近波動，本週前兩個交易日上漲超過7%。以色列繼續襲擊黎巴嫩，令華盛頓和德黑蘭之間脆弱的馬拉松式談判受到影響，與此同時，伊朗向周邊國家發射了導彈。以色列和黎巴嫩之間的又一輪會談定於週三舉行。美國總統唐納德·特朗普說，他仍然樂觀認為美國可以很快與德黑蘭達成臨時和平協議，駁斥了伊朗國家媒體關於因黎巴嫩戰事而暫停與華盛頓談判的報道。與此同時，中東地區的衝突再現。伊朗向科威特和巴林發射彈道導彈，這些導彈在飛行途中解體或被攔截，而美國中央司令部在X上一則帖文中稱，美軍對格什姆島進行了打擊。"
-    },
-    {
-      "id": "mkt:019e8af3-da71-7ee2-b13a-1854ee8bc611",
-      "time": "2026-06-03 08:48:17",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Nikkei 225 gained 2.00% intraday. Semiconductor firm Kioxia's market capitalization topped ¥45 trillion, surpassing Toyota Motor to become the second-largest stock by market value."
-    },
-    {
-      "id": "4913879",
-      "time": "2026-06-03 08:47:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加13.38億元】截至6月2日，上交所融資餘額報14690.25億元，較前一交易日增加8.35億元；深交所融資餘額報14068.06億元，較前一交易日增加5.03億元；兩市合計28758.31億元，較前一交易日增加13.38億元。"
-    },
-    {
-      "id": "4913878",
-      "time": "2026-06-03 08:47:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：颱風導致約6萬戶家庭停電。"
-    },
-    {
-      "id": "4913877",
-      "time": "2026-06-03 08:46:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數上漲2%，至68070.66點。"
-    },
-    {
-      "id": "mkt:019e8af2-9992-7ee2-b13a-12d30b6ef7d2",
-      "time": "2026-06-03 08:46:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Thailand's justice minister says former PM Thaksin qualifies for royal pardon】Thailand's justice minister said in a March 3 interview that, under a royal pardon issued by King Maha Vajiralongkorn on Feb. 2, former prime minister Thaksin Shinawatra meets the conditions for clemency and is among those to be granted a pardon."
-    },
-    {
-      "id": "4913876",
-      "time": "2026-06-03 08:46:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國司法部長魯塔蓬3日接受媒體採訪時表示，根據泰國國王瑪哈·哇集拉隆功2日頒佈的特赦令，前總理他信符合特赦條件，屬於獲得赦免的人員之一。"
-    },
-    {
-      "id": "mkt:019e8af1-8db2-7ee2-b13a-0d176f88192a",
-      "time": "2026-06-03 08:45:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Tianfeng Securities: Coal-to-chemicals profitability may enter upcycle】Tianfeng Securities says China’s coal market is looser than in 2021–22, making a large coal-driven rise in the coal-to-oil price ratio unlikely. Geopolitical risk around the US–Iran conflict is uncertain; even if tensions ease, oil supply shortfalls are unlikely to be restored quickly and the oil-price baseline may not return to pre-conflict levels in the short term. A fall in the coal-to-oil ratio would widen downstream spreads for coal-to-chemicals; together with likely slower capacity growth during the 15th Five-Year Plan, coal-to-chemicals profitability may enter an upcycle."
-    },
-    {
-      "id": "4913875",
-      "time": "2026-06-03 08:45:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "META縮減內部滑鼠追蹤技術計劃。"
-    },
-    {
-      "id": "mkt:019e8af0-f7ea-7ee2-b13a-0153029b8dd0",
-      "time": "2026-06-03 08:45:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 breached 68,000 points for the first time, rising nearly 2% on the day."
     }
   ]
 }
