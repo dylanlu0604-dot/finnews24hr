@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-10 11:58:16",
+  "updated": "2026-06-10 12:02:44",
   "count": 18730,
   "items": [
+    {
+      "id": "4927261",
+      "time": "2026-06-10 12:01:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌1.1%，恒生科技指數跌1.69%】港股午間收盤，恒生指數跌1.1%，恒生科技指數跌1.69%。恒指港股通ETF銀華（159318）跌1.25%，港股通科技ETF鵬華（159751）跌2.23%。板塊方面，建築產品、通訊裝置板塊漲幅靠前；電氣裝置、客運航空公司板塊跌幅靠前。個股方面，邁威生物-B漲18.73%，智雲科技建設漲7.48%，國恩科技漲7.36%，普拉達漲7.01%，三生製藥漲5.58%；天嶽先進跌16.03%，英諾賽科跌13.24%，埃斯頓跌13.2%，FORTIOR跌12.81%，敏實集團跌11.53%。"
+    },
+    {
+      "id": "4927260",
+      "time": "2026-06-10 12:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：華平投資和KKR為英國寬頻業務尋找買家。"
+    },
+    {
+      "id": "mkt:019eafb0-9e36-7444-ba07-a19e925ed7e9",
+      "time": "2026-06-10 12:00:48",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Ministry of Natural Resources: 2025 China marine economy development index 128.8】The Ministry of Natural Resources released the 2026 China Marine Economy Development Index today, showing the 2025 marine economy development index at 128.8, up 2.2% YoY, with the sector shifting toward innovation and higher-quality growth."
+    },
+    {
+      "id": "4927259",
+      "time": "2026-06-10 12:00:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車印度公司公佈火災事故最新進展：浦那工廠及金奈二號工廠生產運營基本未受影響；現代汽車印度公司金奈一號工廠預計將於2025年6月15日前恢復正常生產節奏。"
+    },
+    {
+      "id": "te:markets:557882",
+      "time": "2026-06-10 12:00:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Aluminum Drops to 1-Month Low — Aluminum futures in the UK dropped as much as 1.4% toward $3,500 per tonne in Asian trading, the lowest in a month, as fresh US strikes against Iran and prospects of higher US interest rates weighed on the demand outlook. Persistent geopolitical tensions have fueled inflation concerns and increased the likelihood of tighter monetary policy, raising fears of slower global growth and weaker demand for industrial metals. Still, prices remain more than 19% higher year-to-date amid tightening supply conditions as aluminum exports from the Persian Gulf remain constrained. Supply risks have been further exacerbated by direct attacks on major refining facilities in the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while operations at Bahrain’s ALBA facility remain partially suspended."
+    },
+    {
+      "id": "4927258",
+      "time": "2026-06-10 12:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。"
+    },
+    {
+      "id": "mkt:019eafaf-741b-7444-ba07-9efec591b52e",
+      "time": "2026-06-10 11:59:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "【Xpeng CEO He Xiaopeng to personally lead humanoid robot unit; final 200-day sprint to mass production】June 10 — Xpeng CEO He Xiaopeng said in an internal memo he will personally take direct charge of the company’s humanoid robot unit and, effective immediately, will concurrently serve as the robot business “CEO”. He described the program as at a critical stage—comparable to Xpeng Auto eight years ago before the G3 launch—and said the company is on the threshold of mass production and commercialization, initiating a final 200-day sprint to ramp production."
+    },
+    {
+      "id": "4927257",
+      "time": "2026-06-10 11:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華金資本：未直接投資芯潮流，相關投資對公司盈利無重大影響】華金資本6月10日在互動平臺表示，公司及控股子公司未直接投資芯潮流（珠海）科技有限公司；公司子公司管理的基金參與了該公司的投資，現階段不會對公司盈利狀況構成重大影響。截至目前，公司現有電容產品不涉及AI伺服器。"
+    },
+    {
+      "id": "4927256",
+      "time": "2026-06-10 11:59:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：仍認為印尼盾匯率與政府預期一致，維持在16,800-17,500之間。"
+    },
+    {
+      "id": "4927255",
+      "time": "2026-06-10 11:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【悉尼邦迪灘槍擊案嫌疑人被加控19項罪名】澳大利亞聯邦檢方10日在悉尼唐寧中心地方法院說，已提交檔案對涉嫌參與去年12月悉尼邦迪灘槍擊案嫌疑人納維德·阿克拉姆追加19項罪名指控。根據法庭記錄，這些新指控包括10項“意圖謀殺而開槍”罪名、6項“意圖拒捕而開槍”罪名以及3項“意圖謀殺而致人受傷或嚴重身體傷害”罪名。其辯護律師萊奧妮·吉塔尼表示，阿克拉姆知道他可能面臨更多指控。她表示，阿克拉姆尚未認罪。悉尼邦迪灘去年12月發生槍擊事件，造成包括1名作案嫌疑人在內的16人死亡。"
+    },
+    {
+      "id": "4927254",
+      "time": "2026-06-10 11:58:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行預計，印尼經濟增長將達到2027年目標區間的高階。"
+    },
+    {
+      "id": "te:economy:557880",
+      "time": "2026-06-10 11:58:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Indonesia Consumer Sentiment at 8-Month Low — Indonesia’s consumer confidence index fell to 120.9 in May 2026 from 123 in the previous month, marking its lowest level since September 2025. The moderation was largely driven by weaker assessments of current economic conditions, which fell by 4.3 points to 112.2. Sentiment toward durable goods purchases also declined by 4.3 points to 108.3, while perceptions of job availability over the past six months fell by 3.8 points to 105. Moreover, expectations for income over the next six months eased by 0.4 points to 136.5. In contrast, expectations regarding job availability and business activity improved marginally, with both indices rising by 0.4 points to 128.1 and 124.5, respectively. Despite the decline, overall consumer sentiment remained firmly in optimistic territory, indicating continued confidence in the economic outlook."
+    },
     {
       "id": "4927253",
       "time": "2026-06-10 11:57:27",
@@ -172837,117 +172953,6 @@
         "市場"
       ],
       "text": "【港股午評：恒指跌1.69%失守26000點，科技股集體熄火，長飛光纖逆市飆漲17%】昨日大幅上漲的港股三大指數呈現低開低走行情，市場未能延續強勢行情。截止午盤，恒生指數跌1.69%再度失守26000點，國企指數跌2.1%，恒生科技指數跌2.35%。昨日帶動大市走強的權重科技股集體下跌，美團跌6%，騰訊、京東跌近4%，小米、阿里巴巴跌3%；手遊股、海運股、汽車股、石油股、航空股、內銀股、軍工股紛紛走低。另外，光通訊概念股、儲存半導體股依舊錶現強勢，長飛光纖光纜飆漲近17%，瀾起科技、兆易創新均大漲。"
-    },
-    {
-      "id": "4914199",
-      "time": "2026-06-03 12:02:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四方達：已具備英寸級CVD金剛石散熱片規模化供貨能力】四方達(300179)6月3日在互動平臺表示，金剛石具有禁頻寬大、擊穿場強高、熱導率高等優點，可用於光學視窗、晶片熱沉、半導體及功率器件等領域。公司是國內裝置規模優勢明顯的CVD金剛石廠商，擁有自主智慧財產權的MPCVD合成及加工裝置技術和CVD金剛石生長工藝技術。目前，公司已具備英寸級CVD金剛石散熱片的規模化供貨能力。"
-    },
-    {
-      "id": "mkt:019e8ba4-6583-7ee2-b13e-d8ac5ae370e6",
-      "time": "2026-06-03 12:01:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Letters show that after a pilot group raised concerns, Lebanon's aviation regulator launched a safety audit of Middle East Airlines. The regulator's director said he is mediating between the pilots and the carrier."
-    },
-    {
-      "id": "4914198",
-      "time": "2026-06-03 12:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "針對飛行員團體投訴，黎巴嫩對中東航空開展安全審查。"
-    },
-    {
-      "id": "mkt:019e8ba3-da0f-7ee2-b13e-d0635273d046",
-      "time": "2026-06-03 12:00:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Yili says its products not linked to Hong Kong recall of Jinlingguan infant formula】Hong Kong's Food and Environmental Hygiene Department Centre for Food Safety has initiated a precautionary recall of a 750g Hong Kong-import batch of Jinlingguan Zhenhu Platinum Stage 3 infant formula after sampling detected possible Bacillus cereus heat‑stable toxin. The affected pack was produced on 23 April 2025 with a best‑before date of 22 April 2027; origin listed as Inner Mongolia and imported by Hong Kong Jinze Trading Co. Yili, owner of the Jinlingguan infant‑formula brand, told customers it has investigated and found no link between its products and the incident and that no counterfeit products have been identified."
-    },
-    {
-      "id": "4914197",
-      "time": "2026-06-03 12:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩航空監管機構負責人表示，他目前正在飛行員與航企之間進行調解。"
-    },
-    {
-      "id": "te:markets:555972",
-      "time": "2026-06-03 11:59:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Hold Near 5-Week Low — Soybean futures held below $11.7 per bushel, staying near a five-week low as favorable US growing conditions and strong planting progress reinforced expectations of ample supply. Improving weather across key US regions supported crop development, while recent rainfall eased drought concerns in parts of the Plains and reduced earlier planting-delay worries in the Midwest. USDA also reported planting in 18 major states at 87% complete as of late May, ahead of the five-year average, with emergence above normal at 65%, signaling a well-advanced and developing crop. Meanwhile, initial crop condition ratings came in slightly below expectations at 66% good-to-excellent, reflecting mixed regional performance. Export data showed softer weekly shipments, though China remained the top destination. China has reportedly begun placing new orders for the 2026 crop and is expected to fulfill its commitment to purchase around 25 million metric tons, reinforcing expectations of Chinese buying interest."
-    },
-    {
-      "id": "te:markets:555971",
-      "time": "2026-06-03 11:59:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "other",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Bitcoin Slides Toward $65,000 — Bitcoin continued its sell-off, sliding toward $65,000 in early June and reaching its lowest level since late March, as sentiment remained pressured by Strategy’s Bitcoin sale and a broader shift in institutional capital toward artificial intelligence rather than digital assets. Strategy reported selling around $2.5 million worth of Bitcoin, its first divestment since late 2022, signaling a symbolic departure from its long-running accumulation approach. Investor sentiment was further pressured by sustained ETF outflows, as US spot Bitcoin ETFs recorded net redemptions for 11 consecutive sessions, totaling roughly $3.45–$3.5 billion. At the same time, risk appetite remained subdued amid renewed hostilities between the US and Iran, undermining hopes for progress in peace negotiations. Other major digital assets, including Ether, BNB, Cardano, and Solana, also traded lower, with losses of up to 2%."
-    },
-    {
-      "id": "4914196",
-      "time": "2026-06-03 11:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伊利回應金領冠港版奶粉被召回】近日，香港食物環境衛生署食物安全中心釋出通報，一批“金領冠珍護鉑金階段3”幼兒成長配方奶粉在抽檢中被檢出可能含有蠟樣芽孢桿菌耐熱毒素，相關產品已啟動預防性召回。據悉，本次涉事產品規格為750克，生產日期為2025年4月23日，保質期至2027年4月22日，原產地為內蒙古，由香港金澤商貿有限公司進口。公開資料顯示，伊利金領冠是伊利集團旗下嬰幼兒配方奶粉品牌。針對該情況，記者以消費者身份詢問伊利客服，對方表示，伊利公司對相關情況表示憤怒，經核查，公司產品與本次事件無任何關聯，“目前無假冒偽劣產品出現”。（中國新聞網）"
-    },
-    {
-      "id": "mkt:019e8ba2-3794-7ee2-b13e-cc0c69e5b8b7",
-      "time": "2026-06-03 11:58:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's SENSEX down more than 1%."
-    },
-    {
-      "id": "4914195",
-      "time": "2026-06-03 11:58:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月3日午間漲停分析】創業板指半日漲近4%站上4200點，算力硬體股持續爆發，“易中天”股價齊創新高。節能鐵漢、金時科技、天洋新材、紅星發展、大有能源均3連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019e8ba2-07ab-7ee2-b13e-c4e911913721",
-      "time": "2026-06-03 11:58:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The local governor said Russia shot down 50 drones overnight in the Leningrad region."
-    },
-    {
-      "id": "te:markets:555969",
-      "time": "2026-06-03 11:58:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Hits Record High, Breaks 46,000 Mark — The TAIEX, Taiwan’s benchmark stock index, rose 863 points, or 1.9%, to 46,421 on Wednesday around noon, advancing for the fourth straight session and tracking gains on Wall Street overnight as optimism surrounding AI investment persisted. Electronic technology, financials, producer manufacturing, technology services, and energy minerals stocks were the main drivers, pushing the index above the 46,000 level for the first time. Positive data from China also boosted sentiment, as fresh data showed business activity in the mainland's private sector grew at the fastest pace in three months in May. Electronic technology stocks rose 1.8%, as optimism over AI demand continued to lift sentiment. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, gained 2.1%, following a 1.1% rise in the previous session. Meanwhile, Delta Electronics climbed 3.4%, Hon Hai Precision Industry advanced 3.3%, and ASE Technology surged 5.4%."
     }
   ]
 }
