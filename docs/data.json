@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-10 21:29:23",
-  "count": 18534,
+  "updated": "2026-06-10 21:33:33",
+  "count": 18520,
   "items": [
+    {
+      "id": "mkt:019eb1bc-18ff-7dd8-afa2-9131c1a33d5d",
+      "time": "2026-06-10 21:32:34",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Citigroup ranked first by deal value in the Q1 M&A advisory market and congratulated CEO Jane Fraser and her team."
+    },
+    {
+      "id": "mkt:019eb1bb-92e8-7dd8-afa2-88ff3e3972e3",
+      "time": "2026-06-10 21:32:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "The Russell 3000 freight index fell 4.8% after Amazon (AMZN.O) stepped up efforts to expand its freight operations."
+    },
+    {
+      "id": "4928489",
+      "time": "2026-06-10 21:31:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "SUPER MICRO COMPUTER 股票開盤下跌 13%。"
+    },
+    {
+      "id": "mkt:019eb1bb-6021-7dd8-afa2-835901f3ca32",
+      "time": "2026-06-10 21:31:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US equities opened lower on Wednesday, June 10: Dow Jones Industrial Average down 307.09 points (-0.60%) at 50,565.02; S&P 500 down 38.57 points (-0.52%) at 7,348.08; Nasdaq Composite down 197.52 points (-0.77%) at 25,481.30."
+    },
+    {
+      "id": "4928488",
+      "time": "2026-06-10 21:31:42",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普稱讚花旗集團。"
+    },
+    {
+      "id": "4928487",
+      "time": "2026-06-10 21:31:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受亞馬遜物流擴張影響，羅素3000卡車運輸指數下跌4.8%。"
+    },
+    {
+      "id": "te:markets:558077",
+      "time": "2026-06-10 21:31:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Stock Price Hits 17-1/2-year High — Citigroup shares increased to 136.05 USD, the highest since November 2008. Over the past 4 weeks, Citigroup gained 6.68%, and in the last 12 months, it increased 72.06%."
+    },
+    {
+      "id": "4928486",
+      "time": "2026-06-10 21:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "博格華納股價上漲1%，此前瑞銀將其評級從中性上調至買入。"
+    },
+    {
+      "id": "4928485",
+      "time": "2026-06-10 21:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗公佈最新海上損失情況】伊朗方面10日公佈了最新海上損失情況，因受戰爭及相關海事限制措施影響，伊方船舶、海員、港口運營、海上搜救、通訊設施及海事安全基礎設施等受到嚴重衝擊。"
+    },
+    {
+      "id": "4928484",
+      "time": "2026-06-10 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.49%，標普500指數跌0.46%，納指跌0.66%。超微電腦跌10.97%，Old Dominion Freight Line跌8.52%，JB Hunt運輸服務跌4.94%，聯合大陸航空跌3.44%，紐曼礦業跌3.32%，甲骨文跌3.30%。“七姐妹”方面：蘋果漲0.11%，Meta Platforms跌0.47%，谷歌跌0.50%，亞馬遜跌0.63%，微軟跌0.69%，英偉達跌1.06%，特斯拉跌1.09%。"
+    },
+    {
+      "id": "mkt:019eb1ba-6ae5-7dd8-afa2-7faf1b4e9516",
+      "time": "2026-06-10 21:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SMCI.O",
+        "Impact bearish",
+        "GFI.N",
+        "XAUUSD"
+      ],
+      "text": "U.S. equities opened lower: the Dow Jones fell 0.22%, the S&P 500 fell 0.40% and the Nasdaq fell 0.60%. Super Micro Computer (SMCI.O) dropped 13% after announcing plans for about $7.0 billion of equity financing. Miners tracked a decline in international gold prices: Harmony Gold fell 4% and Gold Fields (GFI.N) slid 5%. The Philadelphia Semiconductor Index fell 1%."
+    },
+    {
+      "id": "4928483",
+      "time": "2026-06-10 21:30:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE開盤下跌177.47點，跌幅0.52%，報34,234.22點。"
+    },
+    {
+      "id": "4928482",
+      "time": "2026-06-10 21:28:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西航空工業公司執行長表示，公司沒有研發戰鬥機的計劃，對與薩博合作在巴西組裝鷹獅戰鬥機感到滿意。"
+    },
     {
       "id": "mkt:019eb1b7-ed9f-7dd8-afa2-702b9481ce0a",
       "time": "2026-06-10 21:28:01",
@@ -170817,271 +170950,6 @@
         "其他"
       ],
       "text": "ALPHABET此次IPO淨收益約為178億美元。"
-    },
-    {
-      "id": "4915498",
-      "time": "2026-06-03 21:33:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "MARVELL TECHNOLOGY股價延續漲勢，上漲11%。"
-    },
-    {
-      "id": "mkt:019e8db0-55cf-7ccb-b65b-17f92cf56939",
-      "time": "2026-06-03 21:33:24",
-      "tags": [
-        "MKT News",
-        "OWL.O"
-      ],
-      "text": "Blue Owl shares fell 5.2%, poised for their largest decline since February."
-    },
-    {
-      "id": "4915497",
-      "time": "2026-06-03 21:33:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALPHABET 以每股 50 美元的價格發行了 1.675 億份 A 輪輪融資存託憑證。"
-    },
-    {
-      "id": "mkt:019e8db0-34f8-7ccb-b65b-0d0ad758a206",
-      "time": "2026-06-03 21:33:10",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "At the open on Wednesday June 3, the Dow Jones Industrial Average fell 213.15 points, or 0.42%, to 51,094.64; the S&P 500 dropped 9.37 points, or 0.12%, to 7,600.41; the Nasdaq Composite rose 14.20 points, or 0.05%, to 27,108.10."
-    },
-    {
-      "id": "4915496",
-      "time": "2026-06-03 21:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALPHABET 敲定 C 類普通股發行價：每股 351.8018 美元。"
-    },
-    {
-      "id": "mkt:019e8daf-d87d-7ccb-b65b-054dfc48dba7",
-      "time": "2026-06-03 21:32:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "KKR.O",
-        "Impact bearish",
-        "ARES.O",
-        "CG.O"
-      ],
-      "text": "US asset managers' shares fell after Swiss manager Partners Group restricted redemptions on an $8.6 bln private equity fund. KKR fell 5.6%, Blackstone 4.4%, Blue Owl 4.2%, Ares Management 5.6% and Carlyle Group 4.8%."
-    },
-    {
-      "id": "mkt:019e8daf-cb78-7ccb-b65a-ffbe52dea3ba",
-      "time": "2026-06-03 21:32:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Jiangxi holds roundtable with key foreign-invested firms】June 3 — Jiangxi governor Ye Jianchun met with representatives of major foreign-invested firms, urging deeper cooperation and expanded investment in the province. He called for more high-quality projects, frontier technologies and senior talent to be brought to Jiangxi and for firms to attract upstream and downstream supply‑chain partners. The provincial government pledged to continue optimizing the business environment and provide comprehensive factor support for enterprise operations in Jiangxi."
-    },
-    {
-      "id": "4915495",
-      "time": "2026-06-03 21:32:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALPHABET 以每股 355.1982 美元的價格發行 2546 萬股股票。"
-    },
-    {
-      "id": "mkt:019e8daf-4f4c-7ccb-b65a-f0947068b14f",
-      "time": "2026-06-03 21:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GOOG.O"
-      ],
-      "text": "Alphabet (GOOG.O) said it is raising its equity financing capacity to $84.75 bln from $80.0 bln."
-    },
-    {
-      "id": "te:markets:556184",
-      "time": "2026-06-03 21:31:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "T-Mobile Us Stock Price Hits 5-week Low — T-Mobile Us shares decreased to 184.35 USD, the lowest since April 2026. Over the past 4 weeks, T-Mobile Us lost 4.46%, and in the last 12 months, it decreased 23.84%."
-    },
-    {
-      "id": "te:markets:556182",
-      "time": "2026-06-03 21:31:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Comcast Stock Price Hits 14-year Low — Comcast shares decreased to 24.50 USD, the lowest since January 2012. Over the past 4 weeks, Comcast lost 9.31%, and in the last 12 months, it decreased 29.17%."
-    },
-    {
-      "id": "te:markets:556181",
-      "time": "2026-06-03 21:30:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Blackstone Stock Price Hits 8-week Low — Blackstone shares decreased to 109.36 USD, the lowest since April 2026. Over the past 4 weeks, Blackstone lost 11.1%, and in the last 12 months, it decreased 21.28%."
-    },
-    {
-      "id": "4915493",
-      "time": "2026-06-03 21:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet將融資規模由 800 億美元上調至 847.5 億美元 。"
-    },
-    {
-      "id": "mkt:019e8dae-0c9f-7ccb-b65a-edc988c82714",
-      "time": "2026-06-03 21:30:54",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May S&P Global Composite PMI 50.8, prior 49.9."
-    },
-    {
-      "id": "mkt:019e8dae-07a8-7ccb-b65a-e1f9d7264967",
-      "time": "2026-06-03 21:30:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "MRVL.O",
-        "Impact bullish",
-        "INTC.O",
-        "AVGO.O"
-      ],
-      "text": "US equities opened lower: Dow -0.5%, S&P 500 -0.1%, Nasdaq -0.05%. Marvell (MRVL.O) rose 9.3% after a prior-session gain of more than 30%. Intel (INTC.O) climbed 8.9% after a five-day decline. Broadcom (AVGO.O) added 1.2% and is due to report Q2 results after the close."
-    },
-    {
-      "id": "mkt:019e8dad-f8ab-7ccb-b65a-dfe0e5dd1e9d",
-      "time": "2026-06-03 21:30:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada S&P Global services PMI rose to 50.6 in May from 49.2 in April."
-    },
-    {
-      "id": "4915492",
-      "time": "2026-06-03 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.59%，標普500指數跌0.15%，納指漲0.03%。KKR & Co L.P.跌7.19%，Ulta美容產品跌5.38%，黑石跌4.74%，阿波羅全球管理跌4.13%，英特爾漲9.10%，邁威爾科技漲9.08%。“七姐妹”方面：Meta Platforms漲0.86%，谷歌漲0.83%，蘋果跌0.05%，英偉達跌0.26%，亞馬遜跌0.52%，微軟跌0.82%，特斯拉跌1.54%。"
-    },
-    {
-      "id": "4915491",
-      "time": "2026-06-03 21:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，海天網路跌16.19%，金生遊樂跌6.78%，世紀互聯跌4.36%，金山雲跌3.80%，貝殼跌2.96%。"
-    },
-    {
-      "id": "4915490",
-      "time": "2026-06-03 21:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，6月4日0時至6月6日24時，渤海部分海域進行實彈射擊活動，禁止駛入。（央視軍事）"
-    },
-    {
-      "id": "mkt:019e8dad-9fa8-7ccb-b65a-d2f879218113",
-      "time": "2026-06-03 21:30:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: live-fire in parts of Bohai Sea, Jun 4–6】Tangshan Maritime Safety Administration, via the China MSA website, issued a navigation warning: parts of the Bohai Sea will conduct live-fire shooting and are closed to navigation from 00:00 on June 4 to 24:00 on June 6."
-    },
-    {
-      "id": "4915489",
-      "time": "2026-06-03 21:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：立陶宛正洽談接收美國核武器。"
-    },
-    {
-      "id": "4915488",
-      "time": "2026-06-03 21:30:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織總幹事：埃博拉疫情應對工作仍面臨多項挑戰，包括檢測、接觸者追蹤以及部分國家實施的全面旅行限制措施。"
-    },
-    {
-      "id": "te:markets:556180",
-      "time": "2026-06-03 21:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Vertex Pharmaceuticals Stock Price Hits 4-week Low — Vertex Pharmaceuticals shares decreased to 420.86 USD, the lowest since May 2026. Over the past 4 weeks, Vertex Pharmaceuticals lost 1.11%, and in the last 12 months, it decreased 4.79%."
-    },
-    {
-      "id": "mkt:019e8dad-46ae-7ccb-b65a-cecbf64e779a",
-      "time": "2026-06-03 21:30:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Barr said current policy is in a good place and may remain so for some time."
-    },
-    {
-      "id": "4915487",
-      "time": "2026-06-03 21:30:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：當前政策處於合理區間，可能在該位置維持一段時間。"
-    },
-    {
-      "id": "4915486",
-      "time": "2026-06-03 21:29:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：當前政策站位得當，大機率將在一段時期內維持現有水平。"
-    },
-    {
-      "id": "mkt:019e8dad-132f-7ccb-b65a-c797d5c54cd0",
-      "time": "2026-06-03 21:29:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Politico reports Lithuania is negotiating to receive US nuclear weapons."
     }
   ]
 }
