@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-10 14:12:57",
-  "count": 18683,
+  "updated": "2026-06-10 14:16:45",
+  "count": 18682,
   "items": [
+    {
+      "id": "mkt:019eb02c-a18f-799a-b41d-30aed48e0d3d",
+      "time": "2026-06-10 14:16:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tsinghua University (Computer Science)–iSoftStone AI Systems Joint Research Center established】Tsinghua University’s Department of Computer Science and iSoftStone Co., Ltd. have launched an AI systems joint research center to build a high-level, integrated industry–academia–research innovation platform focused on core AI foundational software and hardware technologies, aimed at advancing autonomous, China-controlled foundational AI infrastructure and supporting high-quality development of China’s AI industry."
+    },
+    {
+      "id": "4927409",
+      "time": "2026-06-10 14:15:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾德股份等投資成立能源管理新公司】企查查APP顯示，近日，深圳時宜能源管理有限公司成立，註冊資本1000萬元，經營範圍包含：合同能源管理；節能管理服務；太陽能發電技術服務；光伏發電裝置租賃等。企查查股權穿透顯示，該公司由諾德股份旗下諾德智慧能源管理有限公司等共同持股。"
+    },
+    {
+      "id": "4927407",
+      "time": "2026-06-10 14:15:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國曝出AI眼鏡作弊案 考慮高考禁用同類用品】韓國考試機構10日說，兩名考生近日在託業(TOEIC)英語能力考試中利用AI智慧眼鏡作弊，受到嚴肅處理。這一新型作弊方式引起重視，韓國教育部門考慮高考禁用這類用品。韓聯社10日以考試機構為訊息源報道，這兩名考生分別在5月10日、5月31日的考試中被監考人員發現形跡可疑，經查兩人佩戴AI眼鏡進行作弊。依據考試相關規定，兩人本次考試成績作廢，且今後4年內不得再次參加託業考試。（新華社）"
+    },
+    {
+      "id": "te:economy:557904",
+      "time": "2026-06-10 14:13:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Norway Inflation Rate Hits 3-Month Low — Norway’s annual inflation rate eased to 3.1% in May 2026 from 3.4% in the previous month, pointing to the lowest reading since February. Price growth slowed for food and non-alcoholic beverages (3.4% vs 6.6% in April), alcoholic beverages and tobacco (3.0% vs 3.5%), housing and utilities (2.8% vs 3.6%), and recreation and culture (3.8% vs 4.0%). Meanwhile, inflation held steady for education services (at 2.4%). Simultaneously, prices for personal care and miscellaneous goods remained in deflation (-1.5% vs -1.3%). In contrast, costs accelerated for clothing (1.8% vs 1.5%), furnishings and household equipment (2.3% vs 0.3%), health (4.1% vs 3.4%), transport (2.6% vs 2.4%), and restaurants and accommodation services (6.2% vs 5.8%). Meanwhile, the CPI-ATE, which excludes energy and tax effects, increased 3.4% year-on-year, marking the highest level in four months and accelerating from April's 3.2%. On a monthly basis, the CPI rose 0.2%, slowing from a 0.2% gain in April."
+    },
+    {
+      "id": "mkt:019eb02a-4c9f-799a-b41d-2fc949ee5bd2",
+      "time": "2026-06-10 14:13:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO received a report of an incident 88 nautical miles southwest of Balhaf, Yemen. A cargo ship reported a small craft carrying six armed personnel approached, shots were exchanged, and the small craft then turned away."
+    },
+    {
+      "id": "4927406",
+      "time": "2026-06-10 14:13:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.6%，至8,653.30點。"
+    },
+    {
+      "id": "mkt:019eb02a-3e53-799a-b41d-227a809058b3",
+      "time": "2026-06-10 14:13:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants"
+      ],
+      "text": "【ByteDance launches carve-out and fundraising for AI drug unit as AI4S enters industrialization】ByteDance has launched a carve-out and independent financing process for its AI drug unit while retaining a controlling stake. The new entity will take the unit's core team, AI4S algorithms, technology platform and existing pipeline assets and will continue to receive compute from Volcano Engine. The unit, founded in 2021 and led by Liu Kai, comprises about 50 core members of AI4S algorithm engineers and senior pharmaceutical experts. The team has handled work from foundational model research through industrialization."
+    },
+    {
+      "id": "4927405",
+      "time": "2026-06-10 14:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，在葉門巴爾哈夫西南88海里處發生一起事件。一艘貨船報告稱，一艘載有6名武裝人員的小船曾試圖靠近該船。小型船隻與貨船武裝安保團隊發生交火，最終小型船隻駛離。"
+    },
+    {
+      "id": "4927404",
+      "time": "2026-06-10 14:12:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組 AI 製藥開啟拆分融資，AI4S 進入產業化階段】據悉，位元組跳動AI製藥業務線已啟動拆分與獨立融資程序。據悉，拆分後位元組仍將控股新公司，AI製藥核心團隊、核心演算法、技術平臺和已有管線資產將整體進入新主體。同時，該業務也將繼續從火山引擎獲得算力支援。新公司將由位元組跳動AI製藥團隊主導負責。位元組AI製藥團隊成立於2021年，由劉凱負責，據悉核心成員約50人，由AI4S演算法人才和資深製藥領域專家構成。該團隊自成立起便承擔著從基礎模型研究到產業化的核心職能。此前位元組內部負責蛋白結構預測模型的相關團隊，也已併入由劉凱負責的AI製藥團隊，相關演算法模型團隊已完成整合，將繼續推進該領域的基礎模型研究，少數人員離職。位元組AI製藥的業務進展，是這次拆分融資的重要基礎。位元組跳動在AI製藥方向有多個技術成果，2025年，位元組AI4S團隊釋出了分子結構預測模型Protenix和Seedfold，並在2026年迭代Protenix-v1/v2，構建面向蛋白、配體等生物複合體系的高精度開源結構預測能力。在蛋白質設計和預測方面，團隊則推出了PXDesign等蛋白binder（結合蛋白）設計工具。(36氪)"
+    },
+    {
+      "id": "mkt:019eb029-847c-799a-b41d-1c5a42eccb57",
+      "time": "2026-06-10 14:12:51",
+      "tags": [
+        "MKT News",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC CFO says inflation may prompt chip price increases but rejects sudden 4–5x jump】TSMC CFO Huang Jen-hao said inflation is raising the company’s operating costs and he did not rule out raising chip prices to offset higher costs, but he rejected the prospect of a sudden 4–5x price increase."
+    },
     {
       "id": "4927403",
       "time": "2026-06-10 14:12:10",
@@ -172351,116 +172440,6 @@
         "國際"
       ],
       "text": "印度儲備銀行：黃金實物儲備仍維持在880.52噸不變。"
-    },
-    {
-      "id": "te:economy:556003",
-      "time": "2026-06-03 14:16:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Norway Current Account Surplus Narrows in Q1 — Norway’s current account posted a surplus of NOK 266.8 billion in the first quarter of 2026, narrowing from NOK 271.1 billion in the corresponding period of the previous year. The decline was largely driven by a larger deficit in the services account, which increased to NOK 13.78 billion from NOK 9 billion, while the goods account surplus contracted to NOK 239.9 billion from NOK 242.6 billion. At the same time, the shortfall in current transfers (secondary income) expanded to NOK 12 billion from NOK 11.5 billion. On the other hand, compensation of employees and investment income (primary income) increased to NOK 52.7 billion from NOK 49.1 billion a year earlier."
-    },
-    {
-      "id": "te:economy:556002",
-      "time": "2026-06-03 14:16:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Romanian Jobless Rate Edges Down to 6.3% — Romania’s seasonally adjusted unemployment rate eased to 6.3% from an upwardly revised 6.5% in the previous month. The number of unemployed persons decreased by 21.7 thousand month-on-month, while it increased by 10.2 thousand year-on-year, reaching 512.1 thousand. By gender, the unemployment rate for men stood at 6.2%, while it edged down for women to 6.3% from 6.9% in the previous month. Among individuals aged 25-74, the seasonally adjusted unemployment rate eased to 4.9% from 5.1%, with 4.8% for men and 5.0% for women, accounting for 73.3% of total unemployed in April. Meanwhile, the rate of unemployment in April 2025 was 6.1%, lower than the latest reading."
-    },
-    {
-      "id": "mkt:019e8c20-6a42-7ee2-b141-64a4e8bb266f",
-      "time": "2026-06-03 14:16:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "The Israel Defense Forces issued evacuation warnings to residents of multiple towns and villages in Lebanon."
-    },
-    {
-      "id": "4914373",
-      "time": "2026-06-03 14:15:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：維持比亞迪股份買入評級】中信證券釋出關於比亞迪股份（01211.HK）的研報，維持“買入”評級。公司推出天神之眼5.0智慧駕駛系統及自研4nm璇璣A3晶片（2,100 TOPS），並提供城市ADAS無限保險，彰顯技術領先優勢。年初至今60%購車者選裝鐳射雷達版智駕系統，疊加閃充、刀片電池等創新，有望驅動下半年銷量復甦。"
-    },
-    {
-      "id": "4914372",
-      "time": "2026-06-03 14:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手旗下可靈AI正進行融資：投前估值180億美元，計劃2027年赴港上市】據訊息稱，快手(01024.HK)旗下影片生成業務可靈AI正在進行分拆以來的首輪融資，投前估值為180億美元。這也是可靈AI的Pre-IPO輪融資。據瞭解到，可靈AI目前內部按照2027年年初能夠遞交港股上市申報材料推進相關工作。（IPO早知道）"
-    },
-    {
-      "id": "mkt:019e8c1f-08a5-7ee2-b141-5d64275c23ac",
-      "time": "2026-06-03 14:15:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "01024.HK",
-        "Impact bullish"
-      ],
-      "text": "【Kuaishou’s Keling AI seeks first post-split financing at $18 billion pre-money, targets HK IPO filing in early 2027】Kuaishou (01024.HK) video-generation unit Keling AI is raising its first financing since the split in a Pre-IPO round that values the business at $18 billion pre-money. The unit is internally planning to submit Hong Kong listing application materials in early 2027."
-    },
-    {
-      "id": "4914371",
-      "time": "2026-06-03 14:14:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【科威特宣佈暫時關閉領空】科威特民航總局3日宣佈，暫時停止空中交通並關閉該國領空，以應對當下局勢。科威特國防部發言人3日表示，當天多架伊朗無人機襲擊了科威特國際機場T1航站樓，造成該建築嚴重受損和人員受傷。（央視新聞）"
-    },
-    {
-      "id": "4914370",
-      "time": "2026-06-03 14:14:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉利公司：法拉利HP車隊與查爾斯·勒克萊爾續簽協議。"
-    },
-    {
-      "id": "mkt:019e8c1d-b847-7ee2-b141-50e5bb9fc022",
-      "time": "2026-06-03 14:13:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD"
-      ],
-      "text": "The Indian government said on social media that reports the Reserve Bank of India may have sold about $12 billion of gold are \"false\"."
-    },
-    {
-      "id": "4914369",
-      "time": "2026-06-03 14:13:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度政府X平臺發帖稱：有關印度儲備銀行出售了約120億美元黃金的新聞報道是“假訊息”。"
-    },
-    {
-      "id": "4914368",
-      "time": "2026-06-03 14:13:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.7%，至8785.70點。"
     }
   ]
 }
