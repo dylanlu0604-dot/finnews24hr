@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-11 04:13:02",
-  "count": 18420,
+  "updated": "2026-06-11 04:16:59",
+  "count": 18406,
   "items": [
+    {
+      "id": "4928962",
+      "time": "2026-06-11 04:16:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價盤後一度下跌8.6%後轉漲。"
+    },
+    {
+      "id": "te:economy:558156",
+      "time": "2026-06-11 04:14:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Posts Trade Surplus in May — Paraguay’s trade balance swung to a $98.1 million surplus in May 2026 from a $201.3 million deficit in the same month a year earlier. Exports rose 22.6% year-on-year to $1.70 billion, driven mainly by a 58.4% increase in primary goods shipments. Exports of industrial manufactures advanced 33.4%, while exports of agricultural manufactures fell 7.5%. Shipments of fuels and energy declined 19.6%. Meanwhile, imports increased 0.8% to $1.60 billion. Purchases of consumer goods rose 6.4%, while imports of intermediate goods increased 20.4%. In contrast, imports of capital goods fell 13.7%."
+    },
+    {
+      "id": "4928961",
+      "time": "2026-06-11 04:13:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒：特朗普在戰情室召開會議，研討針對伊朗的打擊方案】據AXIOS報道，兩名美國訊息人士透露，美國總統特朗普於週三下午在白宮戰情室召開會議，商討對伊朗實施新一輪打擊的相關方案。數小時前，他剛向記者表態，美國 “今日將再度對其發動強力打擊”。 訊息人士稱，特朗普正考慮一項規模大、用時短的軍事行動，意圖迫使伊朗在相關談判中轉變立場，具體細節並未披露。"
+    },
+    {
+      "id": "mkt:019eb32a-f813-7dd8-afab-f76cba3beccc",
+      "time": "2026-06-11 04:13:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Axios reported that Trump convened a Situation Room meeting this afternoon local time to discuss possible new strikes on Iran."
+    },
     {
       "id": "4928960",
       "time": "2026-06-11 04:11:42",
@@ -169576,172 +169618,6 @@
         "市場"
       ],
       "text": "現貨黃金下跌1%，至每盎司4438.73美元。"
-    },
-    {
-      "id": "4915964",
-      "time": "2026-06-04 04:16:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：Meta、微軟、Coinbase與星鏈聯手美國司法部、泰國皇家警察及全球多家執法機構開展合作。"
-    },
-    {
-      "id": "mkt:019e8f21-98ba-7443-8fe3-77716bdf82f7",
-      "time": "2026-06-04 04:16:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) reported fiscal 2026 second-quarter net income of $9.31 billion, compared with $4.965 billion a year earlier."
-    },
-    {
-      "id": "4915963",
-      "time": "2026-06-04 04:16:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通第二季度調整後淨營收221.9億美元，市場預期221.3億美元；公司預計第三季度營收約294億美元，市場預期286.1億美元。"
-    },
-    {
-      "id": "mkt:019e8f21-33bb-7443-8fe3-69f4d7885b77",
-      "time": "2026-06-04 04:16:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) said fiscal Q2 semiconductor revenue from AI was $10.8 billion."
-    },
-    {
-      "id": "mkt:019e8f20-fd74-7443-8fe3-66cf1b197e6c",
-      "time": "2026-06-04 04:16:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump signed an executive order easing dismissal procedures for 8,000 senior federal officials."
-    },
-    {
-      "id": "4915962",
-      "time": "2026-06-04 04:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "雅詩蘭黛：公司當前預計，重組計劃及其他相關費用稅前合計為15億至17億美元。"
-    },
-    {
-      "id": "mkt:019e8f20-c113-7443-8fe3-5b5b8a1fa306",
-      "time": "2026-06-04 04:15:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) reported fiscal 2026 second-quarter revenue of $22.187 billion, up from $15.004 billion a year earlier."
-    },
-    {
-      "id": "te:markets:556253",
-      "time": "2026-06-04 04:15:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "CrowdStrike Holdings earnings above expectations at 1.10 USD — CrowdStrike Holdings (CRWD) released earnings per share at 1.10 USD, compared to market expectations of 1.07 USD."
-    },
-    {
-      "id": "4915961",
-      "time": "2026-06-04 04:15:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "好市多：前三十九周淨銷售額為2211.9億美元，同比增長10%。"
-    },
-    {
-      "id": "mkt:019e8f20-21df-7443-8fe3-57d948edd913",
-      "time": "2026-06-04 04:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada said it intends to extend existing tariffs on steel and aluminum products."
-    },
-    {
-      "id": "4915960",
-      "time": "2026-06-04 04:15:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就伊朗襲擊科威特機場一事表態：此舉屬於報復行動。"
-    },
-    {
-      "id": "mkt:019e8f1f-4106-7443-8fe3-4ce57d031db8",
-      "time": "2026-06-04 04:14:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Trump says talks with Iran are progressing smoothly."
-    },
-    {
-      "id": "4915959",
-      "time": "2026-06-04 04:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗談判：或於本週末展開磋商。"
-    },
-    {
-      "id": "mkt:019e8f1f-2698-7443-8fe3-44a24ff123e9",
-      "time": "2026-06-04 04:14:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reports Bill Ackman's Pershing Square expects at least $600 million in profit from its investment in Universal Pictures."
-    },
-    {
-      "id": "4915958",
-      "time": "2026-06-04 04:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣告稱，計劃延長鋼鐵和鋁關稅措施。"
-    },
-    {
-      "id": "4915957",
-      "time": "2026-06-04 04:13:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：談判進展順利。"
-    },
-    {
-      "id": "4915956",
-      "time": "2026-06-04 04:13:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們一直在嚴厲打擊伊朗。"
-    },
-    {
-      "id": "4915955",
-      "time": "2026-06-04 04:13:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們對伊朗進行了重擊。"
     }
   ]
 }
