@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-11 02:22:05",
-  "count": 18432,
+  "updated": "2026-06-11 02:25:50",
+  "count": 18433,
   "items": [
+    {
+      "id": "te:markets:558146",
+      "time": "2026-06-11 02:25:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices extend Gains — Crude oil extended gains and rose more than 2% to approach $91 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw."
+    },
+    {
+      "id": "4928887",
+      "time": "2026-06-11 02:25:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會主席：我們從不畏懼與手下敗將交手。 美軍實際傷亡人數遠高於特朗普公佈的資料，且傷亡數字還會繼續攀升。 這一次，戰火不會侷限於該區域。 我們拭目以待！"
+    },
+    {
+      "id": "te:markets:558145",
+      "time": "2026-06-11 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 2.27% — Top commodity losers are Cocoa (-2.27%) and Sugar (-1.21%). Gains are led by Butter (1.90%), Coffee (1.74%) and Rapeseed (1.54%)."
+    },
+    {
+      "id": "mkt:019eb2c5-e068-7dd8-afaa-781a4b1fd894",
+      "time": "2026-06-11 02:22:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Chairman of Iran's parliamentary National Security and Foreign Policy Commission: This time the war will not be confined to the region."
+    },
+    {
+      "id": "4928886",
+      "time": "2026-06-11 02:22:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會主席：此次戰事將不會侷限於該地區。"
+    },
     {
       "id": "4928885",
       "time": "2026-06-11 02:21:14",
@@ -169871,47 +169924,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Jobless Rate Declines in April — Uruguay’s unemployment rate fell to 7.5% in April 2026 from 7.8% in March, signaling an improvement in labor market conditions. The jobless rate stood at 7.6% in Montevideo and 7.4% in the rest of the country, while employment rates reached 60.5% and 58.8%, respectively. By gender, unemployment was 6.4% among men and 8.7% among women. Youth unemployment remained significantly higher than for other age groups, reaching 23.3% among people aged 14 to 24. The rate was 10.2% for those aged 25 to 29 and below 7% for most age groups over 30. Among employed workers, 9.3% were underemployed, while 21.7% were not registered with the social security system in their main job."
-    },
-    {
-      "id": "mkt:019e8ebb-9415-7443-8fe1-831b414e5a6d",
-      "time": "2026-06-04 02:25:18",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "US10Y"
-      ],
-      "text": "【FED'S BEIGE: Employment stable across districts; inflation rises】FED'S BEIGE says recent weeks' economic activity in most U.S. districts expanded at a slow-to-moderate pace and employment was little changed. Inflation readings in most Fed districts were higher than in the prior report, largely reflecting energy-price increases tied to the Middle East conflict, including the Iran war. Rising energy costs since the Iran war began have raised concern about persistent inflation, prompting more policymakers to say they need to keep all policy options open, including the possibility of tighter monetary policy. Many officials nonetheless described current policy-rate conditions as fairly favorable."
-    },
-    {
-      "id": "te:markets:556246",
-      "time": "2026-06-04 02:25:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Canola (2.61%). Biggest losers are Wheat (-2.79%) and Coffee (-2.53%)."
-    },
-    {
-      "id": "4915876",
-      "time": "2026-06-04 02:23:42",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國銀行CEO Moynihan：隨著價格上漲，（美國）消費者開支出現“微觀變化”。經濟承受能力是一個實實在在的問題。最近50年來，公司的信用業務一直不錯。"
-    },
-    {
-      "id": "4915875",
-      "time": "2026-06-04 02:22:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Alphabet將股權融資規模擴大至850億美元 所得用於人工智慧領域支出】谷歌母公司Alphabet Inc.將其股權融資規模從兩天前宣佈的800億美元提高至847.5億美元，以支援不斷擴大的人工智慧投資計劃。此次融資包括一項規模400億美元的所謂“按市價發行”(ATM)機制，即公司將從第三季度開始不時直接在公開市場出售股票。此外，還包括與伯克希爾達成的一筆100億美元交易。剩餘部分包括180億美元A類普通股和C類資本股發行，以及167.5億美元存托股份發行。資料顯示，這將成為有史以來規模最大的股權融資交易。對於Alphabet這樣體量的公司而言，如此大規模募股實屬罕見，在今年IPO市場火熱、尤其是SpaceX即將上市之際，這筆交易更顯得出人意料。"
     }
   ]
 }
