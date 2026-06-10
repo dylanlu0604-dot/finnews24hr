@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-11 03:31:47",
-  "count": 18444,
+  "updated": "2026-06-11 03:35:31",
+  "count": 18447,
   "items": [
+    {
+      "id": "4928939",
+      "time": "2026-06-11 03:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業委員會：智利國家銅業公司 4 月銅產量同比下降 14%。"
+    },
+    {
+      "id": "mkt:019eb306-5ceb-7dd8-afab-63d019fb6f2a",
+      "time": "2026-06-11 03:33:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran parliament security chief says war will not be confined to region】After Trump’s comments about possible further strikes on Iran, Ibrahim Aziz, head of the Iranian parliament’s National Security Committee, posted on social media saying US casualties are already far higher than Trump has acknowledged and will continue to rise, and that the war \"will not be confined to the region.\""
+    },
+    {
+      "id": "4928938",
+      "time": "2026-06-11 03:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會要員：戰爭將不會侷限於本地區】在特朗普發表有關可能進一步打擊伊朗的言論後，伊朗議會國家安全委員會負責人易卜拉欣·阿齊茲在社交媒體上釋出了一則強硬表態。他表示：“我們不懼怕與失敗者作戰。美國的傷亡人數已經遠遠高於特朗普所承認的數字，而且還會繼續上升。這一次，戰爭將不會侷限於本地區。我們拭目以待！”"
+    },
+    {
+      "id": "4928937",
+      "time": "2026-06-11 03:32:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行行長：墨西哥信用評級下調不會對金融業造成影響。"
+    },
+    {
+      "id": "mkt:019eb305-257f-7dd8-afab-5c0b2304a122",
+      "time": "2026-06-11 03:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Washington Post reports the White House supports child online-safety legislation."
+    },
     {
       "id": "mkt:019eb302-4646-7dd8-afab-5738d22d7d32",
       "time": "2026-06-11 03:28:51",
@@ -169989,23 +170034,6 @@
         "國際"
       ],
       "text": "卡達埃米爾辦公廳：卡達埃米爾與特朗普通電話，討論地區局勢發展。"
-    },
-    {
-      "id": "4915918",
-      "time": "2026-06-04 03:35:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：我將前往法國參加七國集團峰會。"
-    },
-    {
-      "id": "mkt:019e8efb-6c39-7443-8fe2-6fefa7d4d3db",
-      "time": "2026-06-04 03:35:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: payment mechanism a key sticking point in US–Iran talks】CNN reports a U.S. official says one of the remaining key sticking points in U.S.–Iran negotiations is economic compensation. Iran has told mediators it expects some form of payment promptly once parties agree a preliminary MoU, rather than deferred disbursement. Trump administration officials fear early unfreezing of funds would ease Iran’s economic pain and weaken Washington’s leverage heading into a second phase to negotiate nuclear details. Trump has told aides he wants any deal to appear tougher than the 2015 agreement and to avoid actions that could be construed as delivering large cash payments, a critique he directed at the Obama-era settlement."
     }
   ]
 }
