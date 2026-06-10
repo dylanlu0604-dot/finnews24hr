@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-11 07:14:25",
-  "count": 18399,
+  "updated": "2026-06-11 07:18:13",
+  "count": 18405,
   "items": [
+    {
+      "id": "4929118",
+      "time": "2026-06-11 07:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺稱，在德黑蘭西南的Robat Karim，防空系統已被啟用，原因是持續的地區軍事緊張局勢。"
+    },
+    {
+      "id": "4929117",
+      "time": "2026-06-11 07:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多重因素催生被動投資熱潮 二季度以來債券型ETF規模增逾千億元】隨著資金的持續流入，債券型ETF規模大幅增長。截至6月9日，債券型ETF規模達到8673.72億元，較一季度末的7600.8億元增長1072.92億元。債券型ETF規模緣何快速增長？對此，海富通基金表示，近年來債券型ETF的產品創新步伐加快，基準做市債ETF和科創債ETF覆蓋了更多層次的投資者群體，推動了債券型ETF市場的良性發展。同時，低利率疊加具備一定波動性的債市環境，為債券型ETF的持續發展提供了良好條件。此外，近年來，眾多做市商、券商自營紛紛參與債券型ETF做市，大幅提升了債券型ETF的流動性，進一步推動市場形成良性正向迴圈。"
+    },
+    {
+      "id": "4929116",
+      "time": "2026-06-11 07:16:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部表示，武裝部隊將對美國在該地區的任何“侵略行為”作出“毀滅性且致命的”回擊。"
+    },
+    {
+      "id": "mkt:019eb3d1-cc26-7dd8-afae-6a7b3ae208dd",
+      "time": "2026-06-11 07:15:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's Supreme Joint Military Command said its armed forces will deliver a decisive and devastating response to any U.S. aggression or hostile acts in the region."
+    },
+    {
+      "id": "4929115",
+      "time": "2026-06-11 07:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將視接近霍爾木茲海峽船隻通敵】當地時間今天（6月11日）凌晨，伊朗伊斯蘭革命衛隊海軍宣佈，鑑於美國屢次違反停火協議，霍爾木茲海峽已關閉，直至另行通知。革命衛隊警告稱，任何船隻不得離開其在波斯灣和阿曼灣的錨地，接近霍爾木茲海峽將被視為“與敵方合作”。（CCTV國際時訊 ）"
+    },
+    {
+      "id": "4929114",
+      "time": "2026-06-11 07:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "《華爾街日報》週三報道，美國總統唐納德·特朗普透過卡達向伊朗傳達了一條資訊，稱這些打擊是對阿帕奇直升機事件的回應，並非意在表明更廣泛的衝突。"
+    },
+    {
+      "id": "4929113",
+      "time": "2026-06-11 07:14:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4030美元/盎司，日內跌1.14%。"
+    },
+    {
+      "id": "4929112",
+      "time": "2026-06-11 07:14:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守62美元/盎司，日內跌4.26%。"
+    },
+    {
+      "id": "4929111",
+      "time": "2026-06-11 07:14:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報61.98美元/盎司。"
+    },
+    {
+      "id": "4929110",
+      "time": "2026-06-11 07:14:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守62美元/盎司，日內跌2.21%。"
+    },
+    {
+      "id": "mkt:019eb3d0-750e-7dd8-afae-64b3f0861e4a",
+      "time": "2026-06-11 07:14:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell more than 1.0% intraday to $4,029.28/oz."
+    },
+    {
+      "id": "4929109",
+      "time": "2026-06-11 07:13:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報62.13美元/盎司。"
+    },
+    {
+      "id": "4929108",
+      "time": "2026-06-11 07:13:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4030.27美元/盎司。"
+    },
     {
       "id": "4929107",
       "time": "2026-06-11 07:13:52",
@@ -169508,69 +169624,6 @@
         "WTI"
       ],
       "text": "【US State Dept: Israel, Lebanon agree to resume direct talks】The US State Department said on June 3 that Israel and Lebanon have accepted US guidance to rapidly establish pilot zones in which the Lebanese Armed Forces (LAF) will exercise exclusive control and all non-state actors will be excluded. A ceasefire is conditional on two preconditions: Hezbollah must fully stop firing and all Hezbollah personnel must withdraw from south of the Litani River. Delegations, building on May 29 defense talks, discussed a security framework and agreed to restart the political and security track in the week of June 22 aiming for a comprehensive agreement."
-    },
-    {
-      "id": "4916129",
-      "time": "2026-06-04 07:17:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【時隔8年A股再迎航司IPO，長龍航空擬募資20億元】據上交所官網6月2日晚訊息，浙江長龍航空股份有限公司主機板IPO申請獲受理。招股說明書（申報稿）顯示，長龍航空此次IPO擬募資不超過20億元，將用於A320系列飛機引進專案、備用發動機購置專案和補充流動資金。若成功上市，長龍航空將成為繼2018年3月華夏航空上市後，時隔8年又一家登陸A股的客運航空公司，也將成為第五家民營A股上市航司。（上證報）"
-    },
-    {
-      "id": "4916128",
-      "time": "2026-06-04 07:17:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多家上市公司正擴產高效能碳纖維產品】6月3日，多家高效能碳纖維概念股大漲。有訊息稱，我國高效能碳纖維領域技術研發獲重大突破。上海石化聯合上海石油化工研究院攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產。對此，有不願具名的上市公司高管對記者表示，T代表拉伸強度，拉伸強度等級越高，則應用場景越高階。6月3日高效能碳纖維概念股大漲，主要是由於市場對於高效能碳纖維領域有比較好的預期。而多家上市公司此前表示，正在對高效能碳纖維產品進行擴產。（中證報）"
-    },
-    {
-      "id": "4916127",
-      "time": "2026-06-04 07:16:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國擬削減對北約的飛機和艦艇支援 要求盟友迅速填補】據報道，一名美國高階將領週三表示，隨著華盛頓在相關領域減少投入，美國預計歐洲的北約盟友和加拿大將迅速增加向北約提供的有人和無人飛機以及艦船數量。北約最高指揮官和駐歐美軍司令、美國空軍上將格林克維奇（Alexus Grynkewich）在北約軍事規劃會議後發表了上述言論，此前特朗普政府決定縮減在危機時期提供給北約呼叫的美國軍事能力規模。美國總統特朗普多次批評北約，並表示歐洲成員國必須承擔起歐洲大陸常規防務的主要責任。美國上個月已告知盟友，將減少其在“北約部隊模型”中的貢獻。該框架包含一支可在危機時期啟用的部隊儲備。美國未公開披露計劃削減的細節，但一位軍方訊息人士表示，削減範圍涵蓋多個領域，包括包括空中加油機、戰鬥機、無人機和海軍艦艇等。該匿名人士稱，美國尚未明確說明這些裝備何時將不再提供給北約。"
-    },
-    {
-      "id": "4916126",
-      "time": "2026-06-04 07:16:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界半導體貿易統計組織：預計2026年全球半導體市場規模或超10萬億元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告，報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.511萬億美元，約合人民幣10.2萬億元，預計2027年增長26.6%，市場規模進一步升至1.914萬億美元，約合人民幣12.9萬億元。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。（央視財經）"
-    },
-    {
-      "id": "mkt:019e8fc5-85e4-7443-8fe5-d30b930c06b3",
-      "time": "2026-06-04 07:15:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Israel and Lebanon agree to ceasefire, conditional on Hezbollah halt and withdrawal】On the 3rd the US, Israel and Lebanon said in a joint statement that following US-led talks Israel and Lebanon have agreed to implement a ceasefire, conditional on Hezbollah fully ceasing fire and withdrawing armed personnel from southern Lebanon south of the Litani River."
-    },
-    {
-      "id": "4916125",
-      "time": "2026-06-04 07:15:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列和黎巴嫩同意停火 但有前提 】美國、以色列和黎巴嫩3日發表聯合宣告稱，作為美國主導下談判的結果，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨完全停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。（新華社）"
-    },
-    {
-      "id": "mkt:019e8fc4-f15a-7443-8fe5-cac0a88cc7e0",
-      "time": "2026-06-04 07:15:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【ICE canola jumps to near three-year high as crude strengthens, planting delays】ICE Canadian canola futures closed higher Wednesday, the benchmark up about 2.6% to a near three-year peak, driven by adverse weather delaying planting, a weak Canadian dollar, and gains in crude and other vegetable oils. The July contract briefly topped C$800 intraday—its highest since early September 2023—on a surge in volume; the November contract also traded and closed above C$800. An analyst said canola has been strong recently and continues to be influenced by the Iran war."
     }
   ]
 }
