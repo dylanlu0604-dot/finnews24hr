@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-10 10:57:17",
-  "count": 18741,
+  "updated": "2026-06-10 11:01:02",
+  "count": 18735,
   "items": [
+    {
+      "id": "4927169",
+      "time": "2026-06-10 11:00:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里合夥人委員會內網發帖：釘釘管理“不是阿里文化該有的樣子”】阿里巴巴合夥人委員會在公司內網釋出帖文《有情有義有成長，才是阿里文化》，對近日釘釘前產品經理離職長文《置身釘內》引發的討論表達了清晰的態度。帖文以嚴厲的措辭批評了釘釘團隊的管理方式，直接指出這\"不是阿里文化該有的樣子\"。 在批評之外，合夥人委員會的帖文闡述了阿里文化應當堅持的方向。\"相互尊重，視人為人，有情有義\"是阿里的文化底色，\"無論時代如何改變，技術如何發展\"，底色都一定不能改變。此前，釘釘的管理風格曾多次引發外部討論。合夥人組織進行了認真討論並形成一致判斷，強調\"無論什麼情況下，無論任務多麼緊迫\"都不應該出現這種管理，“這不是阿里文化倡導的方向”。 帖文指出，AI時代創新依靠的不是\"高壓和機械執行\"，而是員工的熱愛和創造力，只有充分尊重員工個體價值，才能真正創造客戶價值。管理者的職責是\"遠見、主動擔當、團結和激勵團隊\"，\"培養人激發人是每個leader的責任\"。AI 時代，人是最寶貴的財富，更需要堅持有情有義，培育開放、包容、多元的工作文化。（新浪科技）"
+    },
+    {
+      "id": "4927168",
+      "time": "2026-06-10 10:59:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻博股份等在北京成立智算雲聯科技公司 註冊資本1000萬】天眼查App顯示，近日，北京鴻博智算雲聯科技有限公司成立，法定代表人為李寧，註冊資本1000萬人民幣，經營範圍包括軟體開發、人工智慧理論與演算法軟體開發、人工智慧應用軟體開發、網路與資訊保安軟體開發等。股東資訊顯示，該公司由鴻博股份（002229）、北京卓維數智科技發展中心（有限合夥）、上海雲程聚信企業管理合夥企業（有限合夥）共同持股。"
+    },
+    {
+      "id": "4927167",
+      "time": "2026-06-10 10:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【正式開工 國軒高科承建澳洲最大光儲直流耦合專案】近日，由國軒高科承建的澳洲Lower Wonga光儲一體化專案正式開工。該專案儲能規模達281MW/843MWh，是澳洲目前規模最大的光儲直流耦合專案之一，預計2028年底正式併網投運。未來，國軒高科將持續深化與Lightsource bp等國際頭部企業的戰略合作，拓展更多新能源標杆專案，穩步加快全球化戰略佈局。"
+    },
+    {
+      "id": "4927166",
+      "time": "2026-06-10 10:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指延續漲勢，漲幅達3.3%，報5935.72點。"
+    },
+    {
+      "id": "4927165",
+      "time": "2026-06-10 10:56:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗國足將在世界盃首戰前一日飛抵美國】伊朗足協9日說，參加2026美加墨世界盃的伊朗國足將在小組賽首戰對陣紐西蘭的前一天、即14日飛抵美國洛杉磯。根據世界盃賽程，伊朗隊三場小組賽將在美國境內進行，分別是6月15日和21日在洛杉磯對陣紐西蘭、比利時，6月26日在西雅圖對陣埃及。（新華社）"
+    },
     {
       "id": "4927164",
       "time": "2026-06-10 10:56:30",
@@ -172979,115 +173019,6 @@
         "焦點"
       ],
       "text": "科創50日內漲幅達4.07%，成分股中，瀾起科技漲10.42%，盛科通訊漲8.58%，芯原股份漲7.60%，佰維儲存漲7.57%。"
-    },
-    {
-      "id": "mkt:019e8b6d-54d9-7ee2-b13d-cdb3a6113859",
-      "time": "2026-06-03 11:00:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's CSI 500 index futures (IC) front-month contract climbed above 8,400, up 1.53% intraday."
-    },
-    {
-      "id": "mkt:019e8b6d-462f-7ee2-b13d-c00e03645e79",
-      "time": "2026-06-03 11:00:54",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【Goldman Sachs lifts KOSPI target to 12,000 from 9,000】Goldman Sachs raised its KOSPI target to 12,000 from 9,000, citing higher earnings and a conservative 8x expected forward P/E. It raised its 2026 and 2027 earnings growth forecasts to 320% and 35% respectively and called Korea the region's strongest earnings performer. Goldman warned market risks remain: KOSPI has more than doubled YTD, Samsung and SK Hynix now comprise over half of Korea's market cap, and rising retail speculation increases the chance of a pullback."
-    },
-    {
-      "id": "4914114",
-      "time": "2026-06-03 11:00:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遠端星智T吉尼斯世界紀錄™稱號挑戰成功 單次滿醇滿電行駛最遠距離超1699公里】遠端星智T9M甲醇電動輕卡今日順利抵達北京，成功挑戰“駕駛混合動力廂式輕卡單次滿醇滿電行駛最遠距離”吉尼斯世界紀錄™稱號。車輛以滿醇滿電狀態從遠端杭州總部出發，穿越江蘇、山東、河北，最終抵達北京八達嶺長城，中途不進行任何甲醇或電力補能，實際行駛里程1699.148公里。遠端星智T系列憑藉純電動和甲醇電動兩種動力路徑，可實現從輕載到過載、平原到山區、城配到城際以及專用車的全域全場景覆蓋。此次完成挑戰的T9M搭載遠端自研2.0T高效甲醇增程器，熱效率高達46%，1升醇可發電2度；匹配350L超大醇箱+2C液冷液熱超充電池。"
-    },
-    {
-      "id": "4914113",
-      "time": "2026-06-03 11:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國牽頭修訂的通用模件熔斷體國際標準釋出】從國家標準委瞭解到，由我國牽頭修訂的國際標準《小型熔斷器—第4部分：通用模件熔斷體（UMF）—穿孔式和表面貼裝式》近日獲批發布。"
-    },
-    {
-      "id": "mkt:019e8b6c-afa9-7ee2-b13d-bcb0a3d301de",
-      "time": "2026-06-03 11:00:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "Shenzhen Composite Index gains widen to 2.00%; China’s Shanghai Composite Index up 0.34%; ChiNext index up 3.28%."
-    },
-    {
-      "id": "4914112",
-      "time": "2026-06-03 10:59:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.00%，現報15903.565點；上證指數漲0.34%，現報4088.941點；創業板指漲3.27%，現報4188.599點。"
-    },
-    {
-      "id": "4914111",
-      "time": "2026-06-03 10:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會緊急向黑龍江省調撥救災物資】從中國紅十字會總會瞭解到，近日，黑龍江省多地出現雷暴大風極端天氣，根據黑龍江省紅十字會上報的災情及需求，中國紅十字會總會緊急向受災地區調撥賑濟家庭包500個，中國紅十字基金會調撥賑濟家庭包500個，支援當地救災救助工作。"
-    },
-    {
-      "id": "mkt:019e8b6b-7916-7ee2-b13d-b53337f9d5a8",
-      "time": "2026-06-03 10:58:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Goldman Sachs upgrades Taiwan stock market to overweight】Goldman Sachs upgraded the Taiwan stock market to overweight, citing confidence that AI-related investment will sustain strong earnings growth for tech hardware through 2028 and beyond. It raised its target for the Taiwan Weighted Index (TAIEX) to 51,000, but flagged tactical risks remain."
-    },
-    {
-      "id": "te:economy:555946",
-      "time": "2026-06-03 10:58:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Rises After Sharp Drop — Japan’s 10-year government bond yield rose toward 2.6% on Wednesday, recovering some ground after falling more than 10 basis points in the previous session. The sharp decline was driven by stronger-than-expected demand at the latest 10-year government bond auction, signaling solid investor appetite for Japanese sovereign debt. The Ministry of Finance sold roughly ¥2.6 trillion worth of 10-year bonds on Tuesday, with the lowest accepted price coming in above market expectations, highlighting favorable auction results and helping push yields lower at the time. Meanwhile, investors continue to anticipate another interest-rate hike from the Bank of Japan later this month as policymakers contend with rising costs and persistent yen weakness, both of which have been exacerbated by tensions in the Middle East. Market attention is now turning to remarks from BOJ Governor Kazuo Ueda, who is set to speak later on Wednesday."
-    },
-    {
-      "id": "4914110",
-      "time": "2026-06-03 10:58:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝萊德旗下Atlas資本在巴西的10億美元可再生能源投資專案暫停。"
-    },
-    {
-      "id": "4914109",
-      "time": "2026-06-03 10:57:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股史上第4只“兩千元股”誕生】6月3日，聯訊儀器（688808）盤中股價衝破2000元，最高達2047.88元。公司總市值超2000億元。 Wind資料顯示，自A股1990年12月19日開市以來，最高價曾突破2000元的股票屈指可數，僅有中安科、貴州茅臺、雲賽智聯3只。"
     }
   ]
 }
