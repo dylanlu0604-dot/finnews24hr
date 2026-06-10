@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-10 21:21:02",
-  "count": 18537,
+  "updated": "2026-06-10 21:25:02",
+  "count": 18535,
   "items": [
+    {
+      "id": "te:markets:558075",
+      "time": "2026-06-10 21:23:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Linde Stock Price Hits 15-month High — Linde shares increased to 449.60 EUR, the highest since March 2025. Over the past 4 weeks, Linde gained 5.3%, and in the last 12 months, it increased 9.67%."
+    },
+    {
+      "id": "4928476",
+      "time": "2026-06-10 21:23:52",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【CPI報告公佈後 債券交易員仍押注美聯儲年內加息】由於美國5月核心通脹低於預期，美國國債小幅走強。債券交易員仍然維持對美聯儲將在年底前加息的押注。在消費者價格指數(CPI)資料公佈後，美國國債收益率週三普遍下跌不到1個基點。對貨幣政策變化最為敏感的兩年期美國國債收益率報4.11%，低於當天早些時候約4.13%的水平。"
+    },
+    {
+      "id": "mkt:019eb1b3-9e24-7dd8-afa2-6241c4fdf6d1",
+      "time": "2026-06-10 21:23:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media assess May CPI: consumers still facing food-price pressure】The New York Times says US consumers remain pressured by food inflation. Ground beef is up 12.1% YoY and frankfurters 7.7% YoY; lettuce and tomatoes are also markedly higher YoY. Egg prices rose 4% in May but are down more than 35% YoY. Household-goods prices have fallen in recent months and are only up 2.4% YoY; apparel is up 4.8% YoY. Medical goods, including prescription drugs, are down 1.8% YoY."
+    },
+    {
+      "id": "4928475",
+      "time": "2026-06-10 21:22:58",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【凱投宏觀：5月CPI報告令住房通脹進一步回落的前景存疑】凱投宏觀的一份報告稱，在最新的CPI報告中，美聯儲唯一的主要擔憂或許是主要居所租金和業主等價租金分別環比上漲0.36%和0.30%。凱投宏觀表示，這略高於之前接近0.25%的常態水平。這令人對住房通脹將進一步回落的觀點產生懷疑。"
+    },
+    {
+      "id": "mkt:019eb1b2-f562-7dd8-afa2-590f5e834281",
+      "time": "2026-06-10 21:22:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Spartan Capital Securities: Inflation may have peaked if energy prices don't rise further】Peter Cardillo, chief market economist at Spartan Capital Securities, said latest data matched expectations and core inflation YoY came in slightly below forecasts, suggesting inflation has not accelerated since last month. He warned energy is the key variable: if oil does not materially break above $100/bbl, inflation may have peaked, though the war remains an upside risk to energy. Core inflation under 3% YoY is a constructive signal for prices and policy."
+    },
+    {
+      "id": "4928474",
+      "time": "2026-06-10 21:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產賓士純電C350L申報圖公佈】根據工信部第408批《道路機動車輛生產企業及產品公告》新產品公示，國產賓士純電C350L車型配備隱藏式門把手，車輛尺寸為4977（4990）/1876/1510（1493）mm，軸距為3051mm。"
+    },
+    {
+      "id": "4928473",
+      "time": "2026-06-10 21:21:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國造船業手持訂單量佔全球近7成 業內人士梳理船舶板塊投資趨勢】工業和資訊化部5月9日釋出的資料顯示，今年一季度，我國造船業的造船完工量、新接訂單量、手持訂單量等三大指標全面增長，國際市場份額保持全球領先。截至3月底，手持訂單量32230萬載重噸，同比增長43.6%，佔世界總量的69.8%。如此強勁的增長，是不是意味著板塊機會的到來？對此，浙商證券研究所所長助理、機械行業首席分析師王華君在做客央視財經大型融媒體直播節目《財訪》時認為，船舶屬於週期類行業，目前來看趨勢向上。（央視財經）"
+    },
+    {
+      "id": "4928472",
+      "time": "2026-06-10 21:20:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮為通脹報告辯護：儘管戰爭造成了“暫時性干擾” 部分商品價格持續回落】白宮試圖將今天的通脹報告解讀為特朗普總統的經濟議程正在為美國人民帶來“切實成果”的標誌。白宮發言人庫什·德賽承認戰爭造成了“暫時性干擾”，但他強調了資料中一些較好的方面。他說：“由於特朗普政府的政策制定，處方藥、乳製品、汽車以及醫療保險和汽車保險的價格持續下降。”"
+    },
     {
       "id": "4928471",
       "time": "2026-06-10 21:19:54",
@@ -171014,105 +171096,6 @@
         "國際"
       ],
       "text": "【俄副外長：若領土完整遭侵犯 俄保留以核武器回擊可能性】當地時間3日，俄羅斯外交部副部長里亞布科夫表示，若出現侵害俄領土完整的行為，俄方保留以核手段進行回應的可能性。里亞布科夫在聖彼得堡國際經濟論壇上向媒體表示，關於俄羅斯可能使用核武器的極端情勢在軍事學說和核威懾國家基本政策中已做詳細描述。如果俄羅斯的領土完整遭到侵略者的蓄意侵犯，即便對方並不擁有核武器，在最壞情況下俄方可以使用核武器進行回擊。（央視新聞）"
-    },
-    {
-      "id": "4915479",
-      "time": "2026-06-03 21:24:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海合會秘書長譴責針對巴林和科威特的襲擊】海灣阿拉伯國家合作委員會（海合會）秘書長布達維3日發表宣告，譴責伊朗針對巴林和科威特的襲擊，稱相關襲擊針對民用設施、基礎設施以及外交機構，是“危險且前所未有的升級行為”。（新華社）"
-    },
-    {
-      "id": "mkt:019e8da8-8ad3-7ccb-b65a-a52d503d9fb5",
-      "time": "2026-06-03 21:24:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Uniper's Middle East CEO said prolonged LNG supply interruptions from heightened Middle East tensions, combined with Asian heat and EU gas-storage obligations, could push natural gas prices to unprecedented highs."
-    },
-    {
-      "id": "4915478",
-      "time": "2026-06-03 21:24:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永冠新材：擬向特定物件發行股票募資不超9.27億元 將用於玻璃纖維布建設專案等】永冠新材公告，公司擬向特定物件發行股票募集資金總額不超過9.27億元（含本數），扣除發行費用後將全部用於年產2000噸電子級玻璃纖維布建設專案、年產16500噸線束膠帶建設專案、智慧製造數智化技術升級專案和補充流動資金。"
-    },
-    {
-      "id": "4915477",
-      "time": "2026-06-03 21:23:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【年內發債規模超9000億元，券商借低利率視窗集體“補血”】2026年以來，券商“補血”融資節奏明顯加快，僅1月，券商發債規模超2480億元，同比增幅近230%。Wind資料顯示，截至5月29日，按發行起始日計，2026年以來券商累計發行各類債券逾430只，發行總規模超9000億元，較去年同期增長約80%。"
-    },
-    {
-      "id": "mkt:019e8da7-3974-7ccb-b65a-9ff6e860ee5e",
-      "time": "2026-06-03 21:23:27",
-      "tags": [
-        "MKT News",
-        "F.N",
-        "Impact bearish"
-      ],
-      "text": "Ford Motor Co (F.N) said US electric vehicle sales in May were 22,912 units, down 22.2%, while total US vehicle sales in May fell 13.6%."
-    },
-    {
-      "id": "4915476",
-      "time": "2026-06-03 21:23:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特美國 5 月整車銷量同比下滑 13.6%。"
-    },
-    {
-      "id": "te:economy:556179",
-      "time": "2026-06-03 21:22:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Brazil Private Sectors Returns to Contraction — The S&P Global Composite PMI for Brazil fell to 49.5 in May 2026 from 52.4 in April, indicating a renewed contraction after a solid expansion in the previous month. The downturn was driven by a sharp decline in manufacturing, while services activity growth slowed markedly to near stagnation. A moderate drop in total new orders constrained job creation, with employment growth easing to its weakest pace over the current four-month expansion period. Meanwhile, cost pressures were among the highest in four years, largely concentrated in manufacturing. Likewise, charge inflation stood at its second-highest level since July 2022."
-    },
-    {
-      "id": "te:markets:556178",
-      "time": "2026-06-03 21:21:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Prices Down 1% — Silver prices fell about 1% to around $74 per ounce on Wednesday, approaching a two-week low, as expectations grew that central banks may need to adopt a more hawkish stance and keep interest rates higher for longer. Sentiment was also weighed by continued uncertainty over a US-Iran agreement to end the conflict. At the same time, oil prices extended their gains, further stoking concerns about inflationary pressures. In the US, recent labor market data point to an acceleration in employment growth, consistent with earlier ADP and JOLTS reports. As a result, markets now ECB is expected to raise borrowing costs next week, with traders also pricing in another 25-basis-point hike in September."
-    },
-    {
-      "id": "mkt:019e8da5-990f-7ccb-b65a-9142078472c1",
-      "time": "2026-06-03 21:21:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Iran state media: Strait of Hormuz management draft enters Supreme National Security Council review】State media reported on the 3rd that a draft on managing the Strait of Hormuz has entered review at Iran’s Supreme National Security Council and, after final opinions are formed, will be submitted to parliament for a plenary vote. The draft has been under development for some time; several parliamentary committees — National Security and Foreign Policy, Construction, and Interior Affairs — and some MPs submitted different versions that were coordinated and consolidated into a single text."
-    },
-    {
-      "id": "4915475",
-      "time": "2026-06-03 21:21:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗媒體稱霍爾木茲海峽管理草案進入審議階段】據伊朗邁赫爾通訊社3日報道，有關霍爾木茲海峽管理的草案目前已進入伊朗最高國家安全委員會審議階段，待最終意見形成後將提交議會全體會議審議表決。報道說，圍繞該草案的制定工作已持續一段時間。伊朗議會多個專門委員會參與了該草案相關研究和論證工作，包括國家安全與外交政策委員會、建設委員會、內政事務委員會等。報道說，上述委員會及部分議員此前分別就草案提出不同版本的建議和方案，經過協調和整合後，已形成統一文字。（新華社）"
     }
   ]
 }
