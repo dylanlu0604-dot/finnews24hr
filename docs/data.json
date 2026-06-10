@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-10 17:29:29",
-  "count": 18496,
+  "updated": "2026-06-10 17:33:41",
+  "count": 18484,
   "items": [
+    {
+      "id": "4927900",
+      "time": "2026-06-10 17:32:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：空客與迪爾防務簽署協議，深化整合式防空反導領域合作。"
+    },
+    {
+      "id": "4927899",
+      "time": "2026-06-10 17:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默譴責貝爾法斯特持刀襲擊引發的暴力事件，稱其行徑令人無法接受。"
+    },
+    {
+      "id": "4927898",
+      "time": "2026-06-10 17:31:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會將允許大部分體育相關投注。"
+    },
+    {
+      "id": "4927897",
+      "time": "2026-06-10 17:31:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會將禁止不符合公共利益的預測類投注交易，並未全面禁止部分預測市場。"
+    },
+    {
+      "id": "4927896",
+      "time": "2026-06-10 17:30:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數回吐漲幅，最新上漲0.02%。"
+    },
+    {
+      "id": "4927895",
+      "time": "2026-06-10 17:30:39",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會擬出臺覆蓋面廣泛的全新預測市場監管規則。"
+    },
+    {
+      "id": "4927894",
+      "time": "2026-06-10 17:29:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據港交所披露，6月5日，高盛集團對小鵬汽車的多頭持倉佔比從4.45%提升至5.09%。"
+    },
     {
       "id": "4927893",
       "time": "2026-06-10 17:28:48",
@@ -170413,182 +170475,6 @@
         "國際"
       ],
       "text": "【伊朗官員：如有必要伊方會同美進行談判】據伊朗媒體3日報道，伊朗伊斯蘭議會副議長阿里·尼克扎德表示，有關伊朗“只會打仗而不談判”的說法是不對的。伊朗最高領袖穆傑塔巴·哈梅內伊劃定的紅線已列入議程，如有必要伊朗會進行談判，但不相信美國的任何承諾。美國對伊朗犯下的罪行必須被揭露且繼續追究。（央視新聞）"
-    },
-    {
-      "id": "4914943",
-      "time": "2026-06-03 17:33:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX指數日內跌幅達1.00%。"
-    },
-    {
-      "id": "4914942",
-      "time": "2026-06-03 17:33:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "海關總署：即日起，允許符合相關要求的比利時蘋果進口。"
-    },
-    {
-      "id": "mkt:019e8cd4-6ba7-744d-81be-e705d2298191",
-      "time": "2026-06-03 17:33:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China Customs said effective immediately it will allow imports of Belgian apples that meet relevant requirements."
-    },
-    {
-      "id": "te:economy:556130",
-      "time": "2026-06-03 17:33:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields March Higher as Rising Oil Prices Weigh on Inflation — The yield on the US 10-year Treasury note rose to 4.48% on Wednesday as escalating tensions in the Middle East pushed oil prices higher for a third consecutive session, fueling concerns about inflationary pressures. The US and Iran exchanged additional military strikes, further straining a fragile ceasefire agreement. Meanwhile, US President Trump proposed a new tariff of at least 10% on imports of goods allegedly produced using forced labor from 60 trading partners, including China, the EU, and Japan. Investors are also awaiting key economic releases, including the ADP report and the ISM Services PMI, which will provide further insight into the strength of the US economy and shape expectations for the Fed's next policy moves. On Tuesday, JOLTS data showed that job openings in April reached their highest level since November 2024, pointing to continued resilience in the labor market. Markets currently assign almost a 60% probability to a Federal Reserve rate hike by December."
-    },
-    {
-      "id": "mkt:019e8cd3-e63b-744d-81be-d8283df58e8d",
-      "time": "2026-06-03 17:32:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "Germany's DAX index fell 1.00% intraday."
-    },
-    {
-      "id": "4914941",
-      "time": "2026-06-03 17:32:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內蒙古電力（集團）有限責任公司黨委書記張海峰接受審查調查】中央紀委國家監委網站6月3日通報，據內蒙古自治區紀委監委訊息：內蒙古電力（集團）有限責任公司黨委書記、董事長張海峰涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4914940",
-      "time": "2026-06-03 17:32:34",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【內蒙古自治區興安盟政協黨組書記、主席楊冀鵬接受審查調查】中央紀委國家監委網站6月3日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區興安盟政協黨組書記、主席楊冀鵬涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4914939",
-      "time": "2026-06-03 17:32:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏互稱擊落對方大量來襲無人機】俄羅斯國防部6月3日通報稱，過去一夜，俄防空系統在莫斯科州、別爾哥羅德州、布良斯克州等多地共攔截和擊毀超過350架烏克蘭無人機。烏克蘭空軍6月3日通報稱，2日18時至3日凌晨，俄軍共向烏克蘭發射198架無人機。截至3日早晨8時，烏軍共擊落和電子戰壓制其中近190架無人機。（央視新聞）"
-    },
-    {
-      "id": "4914938",
-      "time": "2026-06-03 17:32:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【滙豐資管策略師：美元在利好環境下漲勢有限 或進入結構性下行趨勢】滙豐資產管理預計美元將走弱，認為美元在有利的宏觀環境下漲幅仍然有限，可能表明一旦能源衝擊和地緣政治緊張局勢消退，美元將進入結構性下行趨勢。這家管理資產規模達8,630億美元的基金管理公司表示，美元今年以來的漲勢受限。該公司全球首席策略師Joe Little表示，儘管美國國內增長強勁、地緣政治緊張局勢加劇，美元仍未能明顯上漲，這可能意味著在估值偏高的情況下，美元容易受到衝擊。"
-    },
-    {
-      "id": "4914937",
-      "time": "2026-06-03 17:32:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【紅星發展：公司股票連續3個交易日內日收盤價格漲幅偏離值累計超過20%】紅星發展公告，公司股票交易於2026年5月29日、6月1日、6月2日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司股票連續10個交易日收盤價累計漲幅75.30%，顯著高於同期上證指數大盤整體的波動情況。公司最近10個交易日累計換手率133.06%，換手率明顯偏高。2026年第一季度，公司實現營業收入4.73億元，同比下降11.23%；實現歸屬於上市公司股東的淨利潤為2864.98萬元，同比下降2.25%。"
-    },
-    {
-      "id": "4914936",
-      "time": "2026-06-03 17:31:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多地銀行正按要求適當加大信貸投放】記者從多方渠道獲悉，近期多地銀行正按有關部門的關注和指導，適當加大信貸投放力度。部分受訪銀行人士透露，計劃推動具備條件的分支機構透過經營貸、個人抵押貸款乃至票據融資等方式補充投放規模。對於信貸風險的把控，多位受訪人士均向記者表示，目前並未出現明顯放鬆風險標準的趨勢。對於銀行而言，擴大投放與控制風險仍需保持平衡。（藍鯨新聞）"
-    },
-    {
-      "id": "mkt:019e8cd2-c802-744d-81be-d1061c4c9be1",
-      "time": "2026-06-03 17:31:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "Hang Seng Index",
-        "Impact bullish",
-        "0700.HK",
-        "0992.HK",
-        "Impact bearish"
-      ],
-      "text": "Southbound Stock Connect posted net inflows of CNY 18.68bn today. Via Shanghai Stock Connect (southbound), Tracker Fund of Hong Kong and Tencent were net bought HKD 5.717bn and HKD 1.205bn respectively; Lenovo Group was the largest net seller at HKD 874mn. Via Shenzhen Stock Connect (southbound), Tracker Fund and Hang Seng China Enterprises were net bought HKD 1.816bn and HKD 1.661bn respectively; Yangtze Optical Fibre & Cable was the top net seller at HKD 509mn."
-    },
-    {
-      "id": "4914934",
-      "time": "2026-06-03 17:31:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【近期出現厄爾尼諾事件機率為80%】當地時間6月2日，世界氣象組織表示，厄爾尼諾條件正在熱帶太平洋地區形成，考慮到熱帶太平洋海水異常溫暖等因素，今年6月至8月出現厄爾尼諾事件的機率為80%，未來數月極端天氣出現風險隨之攀升。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e8cd2-1852-744d-81be-cc07a996d450",
-      "time": "2026-06-03 17:30:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says Russia's response to such attacks will be \"systematic\" and that it will continue military operations in Ukraine to prevent further drone strikes on St. Petersburg."
-    },
-    {
-      "id": "4914933",
-      "time": "2026-06-03 17:30:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮在被問及烏克蘭無人機襲擊聖彼得堡一事時重申，俄方對此類襲擊的回應將具有系統性。"
-    },
-    {
-      "id": "4914932",
-      "time": "2026-06-03 17:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮表示，俄羅斯將繼續在烏克蘭開展作戰行動，以杜絕此類無人機襲擊再度發生。"
-    },
-    {
-      "id": "4914931",
-      "time": "2026-06-03 17:29:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尼日和貝南領導人表示將推動邊境重新開放】尼亞美訊息：尼日國家元首、保衛祖國國家委員會主席奇亞尼2日在首都尼亞美同到訪的貝南總統瓦達尼發表聯合宣告，表示將致力於消除阻礙兩國合作發展的各種障礙，包括重新開放兩國邊境口岸。 宣告說，兩國已成立一個專家委員會，負責梳理影響雙邊合作的相關問題並提出解決方案。委員會將在15天內向兩國領導人提交報告。 在安全領域，雙方重點討論了非洲薩赫勒地區和西非面臨的恐怖主義威脅。宣告說，相關安全威脅長期困擾地區國家，影響各國發展計劃有效實施。兩國領導人表示將加強協調配合，共同打擊恐怖主義。 雙方重申將進一步加強和深化政治、經濟、科技和文化等領域合作，同意加強各層級交流，定期召開雙邊合作會議。 受地區局勢變化及雙邊關係影響，兩國邊境目前處於關閉狀態。（新華社）"
-    },
-    {
-      "id": "mkt:019e8cd1-3aeb-744d-81be-c543aee1f7d5",
-      "time": "2026-06-03 17:29:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bullish"
-      ],
-      "text": "HKEX filing shows Tencent Holdings (00700.HK) repurchased 275,500 shares on June 3 for HK$127.4 mln."
-    },
-    {
-      "id": "4914930",
-      "time": "2026-06-03 17:29:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "港交所檔案顯示，騰訊6月3日耗資1.274億港元回購275,500股股份。"
     }
   ]
 }
