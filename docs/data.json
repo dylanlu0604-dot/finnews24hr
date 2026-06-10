@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-10 23:04:05",
-  "count": 18340,
+  "updated": "2026-06-10 23:08:13",
+  "count": 18342,
   "items": [
+    {
+      "id": "mkt:019eb212-db1f-7dd8-afa6-ee3f9e96c7be",
+      "time": "2026-06-10 23:07:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump asked Federal Housing Finance Agency Director Pulte to immediately implement necessary layoffs and return staff to their original agencies."
+    },
+    {
+      "id": "4928671",
+      "time": "2026-06-10 23:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思在訪問期間表示，古巴若尋求研發可打擊美軍關塔那摩灣基地或美國本土的武器，乃是不智之舉。"
+    },
+    {
+      "id": "4928670",
+      "time": "2026-06-10 23:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已要求普爾特立即對該辦公室進行必要的裁員縮編，將工作人員遣返至其原所屬機構。"
+    },
+    {
+      "id": "te:markets:558115",
+      "time": "2026-06-10 23:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Strengthens After BoC Holds Rates — The Canadian dollar strengthened slightly to around 1.39 per US dollar after the Bank of Canada left its key interest rate unchanged at 2.25%, as widely expected. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, but reiterated that it stands ready to act if needed and will not allow higher energy prices to feed sustained inflation. Investors largely expect the central bank to raise borrowing costs by 25bps in December. Still, the loonie remained near December lows, as the conflict with Iran continued to support demand for the US dollar as a safe haven."
+    },
+    {
+      "id": "4928669",
+      "time": "2026-06-10 23:06:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我正在尋找一名具備國家安全領域經驗的永久國家情報總監提名人選。"
+    },
+    {
+      "id": "4928668",
+      "time": "2026-06-10 23:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要求國會批准《外國情報監視法》的短期延期。"
+    },
+    {
+      "id": "4928667",
+      "time": "2026-06-10 23:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：我將全力恪守該局的公正性與獨立性。"
+    },
+    {
+      "id": "mkt:019eb212-2cb8-7dd8-afa6-e5b178a25b9f",
+      "time": "2026-06-10 23:06:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Bureau of Labor Statistics (BLS) director nominee Matsumoto pledged to preserve the agency's integrity and independence."
+    },
+    {
+      "id": "mkt:019eb211-c9fe-7dd8-afa6-ddde636bf58d",
+      "time": "2026-06-10 23:06:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Google said it will roll out Chrome's GEMINI features to users in Latin America, Africa and the Middle East."
+    },
+    {
+      "id": "4928666",
+      "time": "2026-06-10 23:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊發言人：伊朗對美國總統特朗普的每一次威脅都予以了“當頭棒喝”，在特朗普威脅要襲擊伊朗基礎設施後，伊朗將採取比以往更加強硬的回應；面對“全球霸權體系和世界惡魔”，尤其是特朗普和內塔尼亞胡，我們絕不會退縮。"
+    },
+    {
+      "id": "4928665",
+      "time": "2026-06-10 23:04:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS Graviton5現已全面推出，為智慧體AI時代提供專屬定製效能。"
+    },
+    {
+      "id": "4928664",
+      "time": "2026-06-10 23:03:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡特彼勒股價跌5%。"
+    },
+    {
+      "id": "mkt:019eb20f-673f-7dd8-afa6-d2c9d245bdde",
+      "time": "2026-06-10 23:03:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BOC Governor Macklem said if core inflation begins to rise, it would certainly draw the bank's attention."
+    },
     {
       "id": "4928663",
       "time": "2026-06-10 23:03:17",
@@ -168963,100 +169079,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：確實有法律規定，美國貨幣上不得印有任何在世人士的肖像。"
-    },
-    {
-      "id": "4915728",
-      "time": "2026-06-03 23:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：巴西不應該向任何人低頭。"
-    },
-    {
-      "id": "4915727",
-      "time": "2026-06-03 23:07:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普稅務記錄遭外洩一事涉嫌違法。"
-    },
-    {
-      "id": "4915726",
-      "time": "2026-06-03 23:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛彼迎：平臺推出收益保障及全新保險方案，為美國房東提供經濟兜底保障。"
-    },
-    {
-      "id": "mkt:019e8e05-7802-744e-9fd3-d26e47891e02",
-      "time": "2026-06-03 23:06:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Sources say Russia's Saratov oil refinery has been offline since May 31 after a drone attack."
-    },
-    {
-      "id": "4915725",
-      "time": "2026-06-03 23:06:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會就 X 公司申請撤銷推特相關隱私監管令徵求公眾意見。"
-    },
-    {
-      "id": "mkt:019e8e05-1531-7ff7-b12c-5e7c9dfe6123",
-      "time": "2026-06-03 23:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Federal Trade Commission seeks public comment on X's petition to terminate the Twitter privacy consent decree."
-    },
-    {
-      "id": "4915724",
-      "time": "2026-06-03 23:05:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥：有信心規避美國新關稅。"
-    },
-    {
-      "id": "4915723",
-      "time": "2026-06-03 23:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯薩拉托夫煉油廠遭無人機襲擊後，自 5 月 31 日起已停產。"
-    },
-    {
-      "id": "4915722",
-      "time": "2026-06-03 23:04:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星源材質透過港交所上市聆訊】據港交所檔案，6月3日，深圳市星源材質科技股份有限公司透過港交所上市聆訊。這家鋰離子電池隔膜製造商於2003年創立，為鋰離子電池製造商提供服務，例如LG新能源、三星SDI、遠景動力、村田、SK On、SAFT、寧德時代、比亞迪、國軒高科、中創新航、億緯鋰能和欣旺達。"
-    },
-    {
-      "id": "mkt:019e8e03-812b-744e-9fd3-c38cd5a9a6d6",
-      "time": "2026-06-03 23:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USD/CAD fell 0.3% to 1.3880, an eight-week low."
-    },
-    {
-      "id": "4915721",
-      "time": "2026-06-03 23:04:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥：美國擬加徵的新關稅不會波及汽車、鋼材品類。"
     }
   ]
 }
