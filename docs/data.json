@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-11 04:55:49",
-  "count": 18355,
+  "updated": "2026-06-11 04:59:44",
+  "count": 18359,
   "items": [
+    {
+      "id": "mkt:019eb354-f1d3-7dd8-afac-aff3ccca1277",
+      "time": "2026-06-11 04:59:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said Tehran is opting to play games and delay rather than seize the opportunity to reach an agreement."
+    },
+    {
+      "id": "mkt:019eb354-a348-7dd8-afac-a65a88eceb2a",
+      "time": "2026-06-11 04:58:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr news agency said Iran had activated air-defence systems in Fars province."
+    },
+    {
+      "id": "4928992",
+      "time": "2026-06-11 04:58:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社：法爾斯省防空系統已啟動。"
+    },
+    {
+      "id": "4928991",
+      "time": "2026-06-11 04:58:22",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【6月11日美股成交額前20：超微電腦擬進行70億美元股權融資，股價重挫約30%】週三美股成交額第16名超微電腦收跌27.98%，成交59.76億美元。該公司宣佈，擬同時進行一系列股權及股權關聯融資交易，預計總金額為70億美元，此舉旨在為其近期收到的高效能AI伺服器訂單所對應的元件採購提供資金支援。此次股權融資將包括50億美元的承銷發售，具體包含約12.5億美元普通股和約37.5億美元存托股份；以及不超過20億美元的普通股市價發售，預計最早於2026年第三季度啟動。"
+    },
+    {
+      "id": "mkt:019eb354-24ca-7dd8-afac-9d14db2fb1f3",
+      "time": "2026-06-11 04:58:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P upgraded Argentina's long-term sovereign rating to B- and set the outlook to stable, citing improved access to financing."
+    },
+    {
+      "id": "4928990",
+      "time": "2026-06-11 04:57:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME）與晨星公司達成獨家指數衍生品許可協議。"
+    },
+    {
+      "id": "4928989",
+      "time": "2026-06-11 04:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思： 我們無需重新開啟談判。國防部已準備好擬定相關條件，確保達成特朗普預期的協議。"
+    },
+    {
+      "id": "4928988",
+      "time": "2026-06-11 04:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：我們利用停火期間發展了情報資訊，我們當前的打擊目標和打擊能力遠超“史詩憤怒”行動開始時的水平。"
+    },
+    {
+      "id": "mkt:019eb351-ddb3-7dd8-afac-9789e470ff26",
+      "time": "2026-06-11 04:55:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Hegseth says US to strike Iran, bomb key facilities】On June 10 (US local time) / early June 11 Beijing time US Defense Secretary Hegseth said US Central Command will be “very busy” that evening because the US military “will strike Iran fiercely” and “will bomb key facilities inside Iran.” He said any action is intended to advance US military interests and bolster its diplomatic position, adding “if you need to talk to Iran with bombs, we’ll talk with bombs.”"
+    },
+    {
+      "id": "mkt:019eb351-c1a5-7dd8-afac-899f2ee9d0e6",
+      "time": "2026-06-11 04:55:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said the Pentagon used the ceasefire to develop intelligence and that current strike targets and strike capabilities far exceed those at the start of the 'Epic Fury' operation."
+    },
+    {
+      "id": "4928987",
+      "time": "2026-06-11 04:55:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長稱將猛烈打擊伊朗】當地時間6月10日下午，北京時間今天（6月11日）凌晨，美國國防部長赫格塞思稱，美軍中央司令部（美東時間）6月10日晚將“十分忙碌”，（因為）美軍當晚“將猛烈打擊伊朗”，“將轟炸伊朗境內關鍵設施”。赫格塞思稱，美軍採取的任何行動都“旨在推進美國的軍事利益並增強外交地位”。他稱，如果需要用炸彈來與伊朗“談判”，那美國就“用炸彈來談”。（CCTV國際時訊）"
+    },
     {
       "id": "4928986",
       "time": "2026-06-11 04:54:25",
@@ -169076,65 +169187,6 @@
         "Important"
       ],
       "text": "South Korea | Foreign Exchange Reserves (May) | actual 426989999999.99994B | previous 427880000000B"
-    },
-    {
-      "id": "4916026",
-      "time": "2026-06-04 04:59:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱與伊朗談判進展“非常順利”】當地時間3日，美國總統特朗普表示，與伊朗的談判進展非常順利，新一輪談判可能在本週末舉行。一旦協議簽署後，霍爾木茲海峽將立即重新開放。特朗普稱，如果伊朗簽署了協議，那就意味著他們已承諾絕不擁有核武器，絕不自行研發，也絕不從外部購買。特朗普稱，最初的協議草案中只規定了“不自行研發”這一項，並沒有“絕不從外部購買”。這個問題引發了長達兩週的談判，但最終美國把這一條也加了進去。只要伊朗簽署那份檔案，協議便正式生效。特朗普表示，理論上講，“他們距離簽署協議已經非常接近了”。"
-    },
-    {
-      "id": "4916025",
-      "time": "2026-06-04 04:58:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍參謀長聯席會議披露，凱恩與委內瑞拉臨時政府官員舉行會晤。"
-    },
-    {
-      "id": "4916024",
-      "time": "2026-06-04 04:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "全國有色人種協進會在法庭檔案中稱，美國郵政署要求各州提交選民名單的計劃違反了郵寄選舉和解協議。"
-    },
-    {
-      "id": "4916023",
-      "time": "2026-06-04 04:58:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣下跌4%，至64721.39美元，創2月28日以來最低價位。"
-    },
-    {
-      "id": "4916022",
-      "time": "2026-06-04 04:58:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍參謀長聯席會議稱，凱恩將軍今日出訪委內瑞拉首都加拉加斯。"
-    },
-    {
-      "id": "4916021",
-      "time": "2026-06-04 04:57:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：簽署協議後霍爾木茲海峽將“立即”開放】美國總統特朗普表示，一旦與伊朗簽署諒解備忘錄，霍爾木茲海峽將“立即”開放。特朗普稱，霍爾木茲海峽開放取決於“幾個區域”被“清理完畢”，並稱他認為沒有任何水雷，因此開放會“非常快”實現。特朗普還表示，美國無論如何都會走南部航線。特朗普還稱，根據協議，伊朗將不會擁有核武器。"
-    },
-    {
-      "id": "mkt:019e8f45-99d0-7443-8fe4-9c95570776c5",
-      "time": "2026-06-04 04:56:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium fell nearly 5% intraday to $1,302/oz."
     }
   ]
 }
