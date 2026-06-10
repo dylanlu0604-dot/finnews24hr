@@ -1,7 +1,179 @@
 {
-  "updated": "2026-06-11 00:01:45",
-  "count": 18401,
+  "updated": "2026-06-11 00:05:53",
+  "count": 18406,
   "items": [
+    {
+      "id": "mkt:019eb246-fe5a-7dd8-afa8-b5d7f4528bf2",
+      "time": "2026-06-11 00:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Trump said the U.S. has seized 22 Iranian vessels."
+    },
+    {
+      "id": "te:markets:558133",
+      "time": "2026-06-11 00:04:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Middle East Tensions Escalation — The CAC 40 fell 0.5% to close at 8,162 on Wednesday, weighed down by escalating tensions in the Middle East. Iran launched attacks against several Gulf nations after US retaliatory strikes following the downing of an American helicopter. Oil prices rose, renewing inflation fears and pushing bond yields higher. Financials traded mixed, with BNP Paribas down 1.5% and Societe Generale losing 2.3%, while AXA gained 0.9%. Luxury shares weighed on the index, with LVMH falling 0.9% and Hermes shedding 2.8%. Safran lost 1.4%. STMicroelectronics erased earlier gains despite a Bank of America upgrade to \"buy\", as enthusiasm around AI faded. Sanofi fell 1.3% after halting a late-stage trial for an experimental autoimmune treatment. Investors also awaited Thursday's ECB meeting, with markets expecting a rate hike."
+    },
+    {
+      "id": "4928777",
+      "time": "2026-06-11 00:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：前幾天晚上擊沉了22艘伊朗船隻。"
+    },
+    {
+      "id": "4928776",
+      "time": "2026-06-11 00:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及通脹資料時說：資料很好。"
+    },
+    {
+      "id": "mkt:019eb246-37e5-7dd8-afa8-ae6ead449f1b",
+      "time": "2026-06-11 00:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said on World Cup and visa issues the U.S. is working to ensure appropriate individuals can enter the country."
+    },
+    {
+      "id": "4928775",
+      "time": "2026-06-11 00:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及世界盃簽證：我們正全力推進，確保符合資格的人員入境。"
+    },
+    {
+      "id": "te:markets:558132",
+      "time": "2026-06-11 00:03:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Outperform — London’s FTSE 100 reversed early losses to close around 0.3% higher at 10,255 on Wednesday, recovering from the previous session’s decline and outperforming major European peers. The main support came from Tritax Big Box REIT, which jumped 4.9% after confirming it had secured a successful appeal for its £360m Heathrow data centre project, boosting sentiment across property-linked stocks. Broader gains were supported by Entain, insurer Admiral Group and grocer Tesco. Among heavyweights, Shell and BP provided key uplift, alongside defensives British American Tobacco, Unilever, GSK and Compass Group, all rising between 1%-2%. On the downside, miners such as Endeavour Mining (-4.1%), Fresnillo (-1.7%) and Glencore (-0.9%) weakened. UK lenders faced pressure too, with HSBC down 1.3% and Standard Chartered falling 1.1%, following a JP Morgan note on the impact of new Chinese regulations."
+    },
+    {
+      "id": "4928774",
+      "time": "2026-06-11 00:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在密切關注世界盃簽證事宜。"
+    },
+    {
+      "id": "te:markets:558131",
+      "time": "2026-06-11 00:02:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cheese Hits 12-week Low — Cheese decreased to 1.60 USD/Lbs, the lowest since March 2026. Over the past 4 weeks, Cheese lost 4.19%, and in the last 12 months, it decreased 17.24%."
+    },
+    {
+      "id": "4928773",
+      "time": "2026-06-11 00:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談國家情報總監提名：我們正在對五名候選人進行面試。"
+    },
+    {
+      "id": "te:economy:558130",
+      "time": "2026-06-11 00:02:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Kosovo Inflation Eases in May — Kosovo’s inflation rate declined to 6.8% year-over-year in May 2026, down from a three-year high of 7.5% in April, as price growth slowed for transport (14.1% vs. 16.1%), housing and utilities (13.2% vs. 15.2%), and food and non-alcoholic beverages (5.1% vs. 5.6%). Month-over-month, consumer prices fell 0.4% in May, following a 1.1% increase in April."
+    },
+    {
+      "id": "4928772",
+      "time": "2026-06-11 00:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很高興簽署《美國安全法案》，確保國土安全部在我的任期結束前獲得足額、持續的資金支援。"
+    },
+    {
+      "id": "4928771",
+      "time": "2026-06-11 00:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申房利美和房地美的估值可能達到1萬億美元。"
+    },
+    {
+      "id": "4928770",
+      "time": "2026-06-11 00:01:03",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：5月俄羅斯消費者物價指數（CPI）同比上漲5.31%，路透調查預期為同比上漲5.4%。"
+    },
+    {
+      "id": "mkt:019eb244-0612-7dd8-afa8-a21f9a22ec0a",
+      "time": "2026-06-11 00:01:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump reiterated that Fannie Mae and Freddie Mac could be worth $1 trillion."
+    },
+    {
+      "id": "4928769",
+      "time": "2026-06-11 00:00:59",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：5月俄羅斯消費者物價指數（CPI）環比上漲0.17%，路透調查預期為環比上漲0.2%。"
+    },
+    {
+      "id": "mkt:019eb243-e3de-7dd8-afa8-9c0932558249",
+      "time": "2026-06-11 00:00:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's finance minister says inflation is under control."
+    },
+    {
+      "id": "4928768",
+      "time": "2026-06-11 00:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發表講話後，房利美股價漲1.3%。"
+    },
     {
       "id": "4928767",
       "time": "2026-06-11 00:00:39",
@@ -169512,128 +169684,6 @@
         "國際"
       ],
       "text": "谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。"
-    },
-    {
-      "id": "4915788",
-      "time": "2026-06-04 00:05:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：儘管最新關稅公告落地，仍預計歐洲議會透過《特恩伯裡協定》。"
-    },
-    {
-      "id": "4915787",
-      "time": "2026-06-04 00:05:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元匯率跌至盤中低點160.02。"
-    },
-    {
-      "id": "4915786",
-      "time": "2026-06-04 00:05:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將保證社保福利維持現有標準不變。"
-    },
-    {
-      "id": "mkt:019e8e3b-4ed4-7443-8fdf-96f2fa2312cf",
-      "time": "2026-06-04 00:05:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google (GOOG.O) has launched Gemma 4 12B on its website."
-    },
-    {
-      "id": "4915785",
-      "time": "2026-06-04 00:04:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "俄羅斯財政部：截至 6 月 1 日，俄國家福利基金規模達 1824 億美元（佔國內生產總值 5.5%），其中流動資產 480.46 億美元（佔 GDP1.5%）。"
-    },
-    {
-      "id": "4915784",
-      "time": "2026-06-04 00:04:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國參議院民主黨領導人Schumer週三會見OpenAI的CEO Altman。（Semafor）"
-    },
-    {
-      "id": "4915783",
-      "time": "2026-06-04 00:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：《特恩伯裡協定》中針對歐盟商品徵收 15% 關稅的條款 “協定已定，約定不可更改”  。"
-    },
-    {
-      "id": "te:markets:556227",
-      "time": "2026-06-04 00:03:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Face Further Pressure — European stock indices closed firmly lower on Wednesday amid persistent concerns of pro-inflationary pressures and fresh threats of tarrifs from the US. The Euro STOXX 50 fell 0.7% to 6,065 and the STOXX Europe 600 fell 0.5% to 622. The US Presidential administration threatened additional tariffs of up to 12.5% on multiple trading partners due to their failure to ban goods made from forced labor, reigniting trade barreirs with the EU. Meanwhile, fresh strikes between Iran and GCC countries further deteriorated the ongoing ceasefire, lifting oil prices and Eurozone yields. Banks closed sharply lower with UniCredit, BBVA, and Deutsche Bank, dropping between 3.7% and 2%. Luxury brands were also under pressure with LVMH slipping 3%. In turn, ASML added 1.6% to track the positive momentum for the chip sector."
-    },
-    {
-      "id": "4915782",
-      "time": "2026-06-04 00:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：2026年全球半導體市場規模預計突破1.5萬億美元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告稱，受人工智慧需求的快速擴大，2026年全球半導體市場規模預計同比增加近九成，市場規模將突破1.5萬億美元。報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.5萬億美元（約合人民幣10.2萬億元），預計2027年增長26.6%，市場規模進一步升至1.914萬億美元（約合人民幣12.9萬億元）。報告稱，鑑於資料中心的普及速度超出預期，世界半導體貿易統計組織大幅上調了預測，2026年增幅也將創下歷史新高。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。此外，報告還預測，2027年全球所有主要地區的半導體市場都將延續增長勢頭，其中美洲和亞太地區是引領增長的兩大核心引擎。 (央視財經)"
-    },
-    {
-      "id": "mkt:019e8e39-26c3-7443-8fdf-8f24fc499961",
-      "time": "2026-06-04 00:02:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY climbed above 160, up 0.07% intraday."
-    },
-    {
-      "id": "te:economy:556225",
-      "time": "2026-06-04 00:02:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Jobless Rate Steady at 2.2% — The unemployment rate in Russia stood at 2.2% in April 2026, unchanged from the previous month and in line with market expectations. The tight labor market reflects a widespread shortage affecting all sectors, exacerbated by military recruitment and defense industry hiring following Russia’s invasion of Ukraine in February 2022, as well as emigration."
-    },
-    {
-      "id": "4915780",
-      "time": "2026-06-04 00:02:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯經濟部：俄 4 月國內生產總值同比增長 1.3%，前月修正值為同比增長 1.9%。"
-    },
-    {
-      "id": "4915779",
-      "time": "2026-06-04 00:02:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧重申美對伊軍事行動已結束】當地時間3日，美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。魯比奧稱，“我們已經不再持續對伊朗境內目標實施打擊，因為‘史詩怒火’行動已經結束。”魯比奧還表示，儘管美國和以色列對伊朗軍事能力造成重創，但伊朗“仍保留一定無人機和海上作戰能力”。（央視新聞）"
     }
   ]
 }
