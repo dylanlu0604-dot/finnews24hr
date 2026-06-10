@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-11 06:45:58",
-  "count": 18387,
+  "updated": "2026-06-11 06:49:53",
+  "count": 18386,
   "items": [
+    {
+      "id": "mkt:019eb3b9-9d6c-7dd8-afad-fb77b6e9c1fa",
+      "time": "2026-06-11 06:49:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran military command says Strait of Hormuz closed; vessels attempting transit will be struck】Iran’s Supreme Joint Military Command said, citing continued US aggression and attacks on multiple areas in southern Hormozgan province, it is closing the Strait of Hormuz to all vessel types — including tankers and merchant ships — effective immediately and that any vessel attempting to transit will be struck."
+    },
+    {
+      "id": "4929078",
+      "time": "2026-06-11 06:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗紅新月會進入全面戒備狀態】當地時間今天（6月11日）凌晨，由於美國空襲伊朗部分地區，為提高應對任何突發事件的行動準備，伊朗紅新月會全國所有應急行動中心已進入全面戒備狀態。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019eb3b6-801e-7dd8-afad-f052f75f1ce8",
+      "time": "2026-06-11 06:45:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme Joint Military Command said the order covers oil tankers and merchant vessels."
+    },
+    {
+      "id": "4929077",
+      "time": "2026-06-11 06:45:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗聯合最高軍事指揮部表示，封鎖令適用於油輪及所有民用商船。"
+    },
     {
       "id": "mkt:019eb3b5-f8a1-7dd8-afad-eb2d6667eb7c",
       "time": "2026-06-11 06:45:07",
@@ -169404,56 +169445,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、“中國可以成功，其他發展中國家同樣可以成功”（總書記的人民情懷）\n2、共繪美麗中國新畫卷——生態環境志願者守護綠水青山剪影\n3、丁薛祥在雲南調研時強調 全面貫徹黨的教育方針 深入推進基礎教育高質量發展\n4、韓正會見下任聯合國秘書長候選人巴切萊特\n5、濟南實施公交軌道“兩網融合”行動——交通更順暢 出行更舒心（樹立和踐行正確政績觀·一線見聞）\n6、新中國成立以來建設的首條通江達海的大運河 平陸運河全線通水。"
-    },
-    {
-      "id": "4916096",
-      "time": "2026-06-04 06:48:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲霄直流通道輸電權市場化交易啟動】記者從國家發展改革委、國家能源局瞭解到，自6月1日起，位於福建省漳州市雲霄縣，連線福建與廣東的雲霄直流通道開展輸電權市場化交易。為各類經營主體平等參與交易、高效使用通道提供實現路徑。作為我國首個跨國家電網與南方電網兩大電網經營區的輸電權市場化專案，此舉標誌著全國統一電力市場建設在跨區輸電資源市場化配置領域邁出關鍵性步伐。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8fac-0f89-7443-8fe5-ade480e66b55",
-      "time": "2026-06-04 06:47:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Lebanon and Israel said in a joint statement after talks they agreed to resume political and security-level dialogue in the week of June 22, aiming to reach a comprehensive agreement. The US said it will continue to assist communications between the parties during the transition."
-    },
-    {
-      "id": "mkt:019e8fab-ecbc-7443-8fe5-a50db3fcb3e9",
-      "time": "2026-06-04 06:47:49",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "After talks, Lebanon and Israel issued a joint statement reaffirming no hostile intent and committing to continue direct talks to build trust, resolve outstanding issues and pursue a comprehensive bilateral agreement."
-    },
-    {
-      "id": "mkt:019e8fab-22a7-7443-8fe5-9ea78bc03dd5",
-      "time": "2026-06-04 06:46:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "After talks between Lebanon and Israel, a joint statement said the parties reiterated that the future of Israel–Lebanon relations must be decided by the two sovereign governments and rejected any attempts by state or non-state actors to hold Lebanon’s future hostage."
-    },
-    {
-      "id": "mkt:019e8faa-a4ec-7443-8fe5-972078836787",
-      "time": "2026-06-04 06:46:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon and Israel, under U.S. guidance, agreed to rapidly advance creation of \"pilot zones\"; within those zones the Lebanese Armed Forces will exercise exclusive territorial jurisdiction and non-state actors will be excluded."
     }
   ]
 }
