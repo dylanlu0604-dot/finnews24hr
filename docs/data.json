@@ -1,7 +1,307 @@
 {
-  "updated": "2026-06-10 14:44:12",
-  "count": 18669,
+  "updated": "2026-06-10 14:56:33",
+  "count": 18661,
   "items": [
+    {
+      "id": "mkt:019eb050-739a-799a-b41d-de84bee64ced",
+      "time": "2026-06-10 14:55:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【MIIT issues 2026–2028 AI+ICT guidance to build new industrial networks and multi-tier industrial internet platforms】The Ministry of Industry and Information Technology issued the \"AI+ICT Innovation Development Implementation Opinions (2026–2028)\", directing support for raw materials, electronic information and equipment manufacturing sectors to pursue intelligent upgrades, digital transformation and networked connectivity. It calls for building new industrial networks, accelerating industrial-internet adoption, and creating a multi-layer, systemized industrial internet platform ecosystem; cultivating industrial intelligent agents; and promoting integrated network-solution plus industry-specific large-model informatization services. The notice orders faster scale deployment of 5G and optical networks for smart transport, intelligent equipment inspection and industrial machine-vision inspection, and mandates package-style, modular \"network+AI\" offerings for SMEs to meet bespoke needs. It also pushes intelligent upgrades of innovative industrial clusters to accelerate formation of so-called smart clusters."
+    },
+    {
+      "id": "4927462",
+      "time": "2026-06-10 14:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍對黎巴嫩南部居民釋出緊急撤離警告】當地時間10日，以色列軍隊對黎巴嫩南部2個村鎮居民釋出緊急撤離警告。以軍稱，鑑於黎巴嫩真主黨違反停火協議，以軍將對其採取強力打擊行動。警告要求當地民眾立即撤離至距離相關村鎮至少一公里的開闊地帶。此外，以色列國防軍當天表示，過去一天，以軍繼續在黎巴嫩南部打擊黎真主黨相關基礎設施，其中包括一處用於發射無人機的地點、火箭彈發射裝置以及相關武裝人員。（央視新聞）"
+    },
+    {
+      "id": "4927460",
+      "time": "2026-06-10 14:54:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將意法半導體評級從“中性”上調至“買入”，目標價從71歐元上調至86歐元。"
+    },
+    {
+      "id": "mkt:019eb04f-58de-799a-b41d-d705311a1133",
+      "time": "2026-06-10 14:54:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Polysilicon most-active futures contract surged over 2.00% intraday to 35,085 yuan/ton."
+    },
+    {
+      "id": "4927459",
+      "time": "2026-06-10 14:53:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東鼓勵銀行機構針對二手車出口企業開發金融產品】近日，廣東省商務廳等11部門印發《廣東省加強二手車出口管理若干措施》，其中提出，加大金融支援力度。鼓勵銀行機構針對二手車出口企業開發金融產品，用好中小微企業貸款貼息、民間投資專項擔保計劃等財政支援政策，加大金融支援力度，進一步提高二手車出口結算便利化水平。"
+    },
+    {
+      "id": "mkt:019eb04e-8433-799a-b41d-ce42b351711f",
+      "time": "2026-06-10 14:53:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【MIIT to build integrated \"compute+data+model+AI application\" service ecosystem】China's Ministry of Industry and Information Technology published its AI+ICT Innovation Development Implementation Opinions (2026–2028). It directs upgrades to AI-dedicated line services: optimize network resource scheduling, introduce flexible on‑demand and time‑shared billing, and enable rapid end‑to‑end dedicated‑line provisioning and fast bandwidth adjustment using SRv6 and optical technologies such as OSU/fgOTN. It requires network upgrades for AI workloads, including trials of distributed inference across wide‑area IP networks and a network resource utilization target of at least 90%. It mandates improved access for 5G‑A and PON upstream services and sets a home/enterprise WLAN access latency target of no more than 5ms. It promotes model application platforms to establish an integrated compute+data+model+AI‑application service ecosystem and a full development chain from model training and scenario validation to commercial deployment to accelerate scaled adoption of domestic AI technologies in key industries."
+    },
+    {
+      "id": "4927458",
+      "time": "2026-06-10 14:52:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【申萬宏源周海晨：中國資產正迎來重新審視、重新定價、重新配置的戰略期】6月10日，申萬宏源2026資本市場夏季策略會在深圳舉辦。申萬宏源證券副總經理，研究所黨委書記、董事長周海晨在會上表示，中國資產正迎來重新審視、重新定價、重新配置的戰略期，中國資產的價值重估不再是簡單依賴政策支援，也不是單一行業驅動的階段性行情，而是來自宏觀經濟修復、產業結構升級和資本市場改革三大力量的同頻共振。"
+    },
+    {
+      "id": "mkt:019eb04d-aaee-799a-b41d-c5c73fda381f",
+      "time": "2026-06-10 14:52:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【MIIT to boost R&D in high-end optoelectronic chips and devices (AI+ICT 2026–2028)】The Ministry of Industry and Information Technology issued AI+ICT Innovation Development Implementation Opinions (2026–2028), directing stepped-up R&D and validation for high-speed optoelectronic chips, high‑speed forwarding/switching chips, all‑optical switching devices and co‑packaged optics, and ordering optical‑electrical hybrid networking trials to accelerate technology maturity. The plan also mandates work on optical interconnects for intelligent‑computing super‑nodes and validation of intelligent‑computing network technologies and products, plus wide‑area intelligent‑computing network transmission experiments — including lossless WANs, task‑based scheduling and compute‑network operations intelligent agents — to boost inter‑compute network scheduling and transmission efficiency and lower bit‑bandwidth cost."
+    },
+    {
+      "id": "te:markets:557934",
+      "time": "2026-06-10 14:52:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Rebounds on Retail, Utilities Strength — The ASX 200 advanced 49 points, or 0.6%, to close at 8,653 on Wednesday, halting losses in the prior three sessions amid strength in retail trade, logistics, utilities, and transport. Traders shrugged off weaker U.S. futures, betting the Reserve Bank of Australia may pause cash rates next week after three hikes this year. Meanwhile, business sentiment in May improved, with the reading hitting a three-month high despite staying in negative readings, while business conditions held steady. In main trading partner China, annual inflation was stable at 1.2% in May, with transport costs rising while food prices posted the steepest drop in seven months. Notable gainers included Coles Group (5.0%), CSL Ltd. (3.5%), Woolworths Group (3.2%), and Aristocrat Leisure (2.2%). Three of the big four banks also rose between 0.9% and 2%. In contrast, Sigma Healthcare slumped 5.5% after confirming preliminary talks over a potential acquisition of British pharmacy chain Boots."
+    },
+    {
+      "id": "mkt:019eb04d-22fe-799a-b41d-bccb7ef46058",
+      "time": "2026-06-10 14:51:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "A-share photovoltaic equipment sector surged. JA Solar Technology hit the daily trading limit; LONGi Green Energy rose over 6%. Trina Solar, Tongwei, TCL Zhonghuan and Ainengju also gained."
+    },
+    {
+      "id": "4927457",
+      "time": "2026-06-10 14:51:35",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "A股光伏裝置板塊異動拉昇，晶澳科技觸達漲停，隆基綠能漲超6%，天合光能、通威股份、TCL中環、艾能聚等個股跟漲。"
+    },
+    {
+      "id": "mkt:019eb04c-c98a-799a-b41d-b4aec32f8a4d",
+      "time": "2026-06-10 14:51:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "【MIIT to boost edge inference capability, aim to cut inference latency and terminal compute demand】The Ministry of Industry and Information Technology issued AI+ICT Innovation Development Implementation Opinions (2026–2028), directing deployment of inference compute at edge devices across 5G/5G‑A, optical, IP and new industrial networks to provide integrated sensing‑compute‑intelligence edge services for transport, low‑altitude economy, manufacturing and entertainment. It calls for exploring cloud‑network‑edge‑end collaborative inference to reduce inference latency and terminal compute requirements and enable collaboration between large and small AI models."
+    },
+    {
+      "id": "mkt:019eb04c-7571-799a-b41d-aa0237286ad5",
+      "time": "2026-06-10 14:51:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【MIIT to accelerate 400Gbps/800Gbps backbone network construction】The Ministry of Industry and Information Technology issued its AI+ICT Innovation Development Implementation Opinions (2026–2028), directing accelerated deployment of 400Gbps and 800Gbps backbone transmission networks and optimization of four-channel transmission between eastern, central and western national hub nodes. It calls for orderly rollout of metro 400Gbps+ networks and high-speed optical transmission equipment including full-optical cross-connects; optimization of backbone peering points and new internet exchange center layouts to improve inter-network data transfer quality; simplification of core-to-edge network layers; and enhancement of compute-access network layouts at key sites to enable millisecond-level metro low-latency access to compute resources."
+    },
+    {
+      "id": "4927456",
+      "time": "2026-06-10 14:50:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州1宗宅地3.24億元底價成交】6月10日，蘇州出讓1宗高新區宅地，土地出讓面積39274.50㎡，規劃建築面積43201.95㎡，容積率1.1，起始價3.24億元，起始樓面價7500元/㎡。最終蘇州科泓置業有限公司以底價3.24億元競得該地塊。"
+    },
+    {
+      "id": "4927455",
+      "time": "2026-06-10 14:50:51",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【工信部：到2028年城域算力1毫秒時延圈覆蓋率不低於75%】工信部印發《“人工智慧+資訊通訊”創新發展實施意見（2026—2028年）》的通知。到2028年，人工智慧與資訊通訊初步構建融合互促的創新發展格局。資訊通訊智慧運營和服務能力達到國際先進水平，資訊通訊網路初步實現高等級自智，形成30個以上高價值典型場景，打造一批典型應用和特色智慧體。網路、算力等資訊基礎設施支撐人工智慧能力進一步提升，城域算力1毫秒時延圈覆蓋率不低於75%。"
+    },
+    {
+      "id": "mkt:019eb04c-26a7-799a-b41d-a410f237c3d8",
+      "time": "2026-06-10 14:50:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Metzler: ECB faces dilemma, should preserve policy flexibility】Metzler Asset Management economist Edgar Walker says the ECB’s task is to anchor market expectations that temporary shocks will not be permanently monetized, not to respond to every price spike. That creates a policy dilemma: insufficient action could be perceived as treating rising inf as merely an energy shock, while overreaction could further strain an already fragile euro-area economy. Walker says the appropriate response is credible policy flexibility rather than bold forward guidance."
+    },
+    {
+      "id": "mkt:019eb04b-b3f0-799a-b41d-9bd7308feaed",
+      "time": "2026-06-10 14:50:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【MIIT to step up R&D on intelligent mobile air interface, space-based computing networks and internet of intelligent agents】China's Ministry of Industry and Information Technology issued the AI+ICT Innovation Development Implementation Opinions (2026–2028), directing AI-driven evolution of information and communications. The plan prioritizes AI integration with 5G‑A/6G, next‑generation optical networks, IPv6+ and the industrial Internet; it mandates research on AI‑driven network architectures and intensified R&D on core technologies including intelligent mobile air interfaces, high‑level network self‑intelligence, intrinsic network intelligence, space‑based computing networks and the internet of intelligent agents."
+    },
+    {
+      "id": "4927454",
+      "time": "2026-06-10 14:50:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【風華高科成交額達100億元】6月10日下午，風華高科成交額達100億元，現跌3.19%。"
+    },
+    {
+      "id": "4927453",
+      "time": "2026-06-10 14:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業富聯成交額達100億元】6月10日下午，工業富聯成交額達100億元，現跌4.8%。"
+    },
+    {
+      "id": "4927452",
+      "time": "2026-06-10 14:49:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量130億元。"
+    },
+    {
+      "id": "4927451",
+      "time": "2026-06-10 14:49:33",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【工信部：加強高階光電晶片和器件研發】工業和資訊化部印發《“人工智慧+資訊通訊”創新發展實施意見（2026—2028年）》的通知。其中指出，加強高階光電晶片和器件研發：加強高速光電晶片、高速轉發/交換晶片、全光交換器件、光電共封裝器件等技術和產品研發驗證，開展光電混合組網技術試驗，加速技術方案成熟。加強智算超節點光電互聯技術攻關，開展智算網路技術與產品驗證。加強廣域智算網路傳輸技術研究試驗：加大廣域無損網路、任務式排程、算網運維智慧體等技術驗證和落地，提升算間網路排程能力和傳輸效率，降低位元頻寬成本。"
+    },
+    {
+      "id": "mkt:019eb04a-7d47-799a-b41d-93411d3e4666",
+      "time": "2026-06-10 14:48:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT targets at least 75% city-level compute coverage within 1 ms latency by 2028】China’s Ministry of Industry and Information Technology (MIIT) issued implementation opinions for “AI + ICT” innovation development (2026–2028). The plan targets an initial integrated AI–ICT innovation ecosystem by 2028, with intelligent operation and service capabilities in information and communications reaching internationally advanced levels and networks achieving high-level autonomous intelligence. MIIT seeks to establish 30+ high‑value scenarios, develop flagship applications and specialized intelligent agents, and upgrade network and compute infrastructure to support AI — including a target that city‑level compute capacity have at least 75% coverage within a 1 ms latency circle."
+    },
+    {
+      "id": "4927449",
+      "time": "2026-06-10 14:48:14",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【工信部：加快建設400Gbps/800Gbps等骨幹傳輸網路，最佳化東中西部國家樞紐節點之間網路傳輸通道】工業和資訊化部印發《“人工智慧+資訊通訊”創新發展實施意見（2026—2028年）》的通知。其中指出，夯實網路支撐底座。加快建設400Gbps/800Gbps等骨幹傳輸網路，最佳化東中西部國家樞紐節點之間網路傳輸通道。有序推進城域400Gbps及以上、全光交叉等高速光傳輸系統裝置應用。最佳化網際網路骨幹直聯點、新型網際網路交換中心等佈局，提升網間資料傳輸質量。簡化核心到邊緣網路層級，完善重點場所算力接入網路佈局，構建城域毫秒級低時延入算能力。"
+    },
+    {
+      "id": "4927448",
+      "time": "2026-06-10 14:47:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曠達科技：相關織物產品已與部分具身智慧機器人企業開展定製化開發與送樣驗證】曠達科技6月10日在互動平臺上回答投資者提問時表示，公司柔性感測相關技術尚處於研發與中試線建設推進階段。公司已與科研機構合作建立聯合實驗室，加快關鍵技術攻關與中試線籌備工作；相關織物產品已與國內部分領先的具身智慧機器人企業開展定製化開發與送樣驗證。"
+    },
+    {
+      "id": "4927447",
+      "time": "2026-06-10 14:47:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港宏福苑大火後續：警方與廉政公署起訴7人及2家公司，共涉25項控罪】據香港電臺網站報道，大埔宏福苑火災事故發生後，香港警方與廉政公署於6月10日落案起訴7名人士及2家公司，共涉及25項控罪，包括誤殺、串謀詐騙、洗黑錢、企圖妨礙司法公正以及逃稅。兩起案件於當日下午在西九龍裁判法院開庭審理。被起訴的7人分別在宏福苑大樓維修工程期間擔任不同角色，包括工程顧問公司的董事及其聘用的註冊檢驗人員，以及工程總承建商的董事。被起訴的兩家公司分別為宏福苑大樓維修工程的工程顧問公司及工程總承建商。香港警方與廉政公署的聯合調查小組將在案件開庭後會見媒體，介紹關於火災原因全面調查、以及該屋苑維修工程涉嫌貪汙等事宜的最新進展。"
+    },
+    {
+      "id": "4927446",
+      "time": "2026-06-10 14:47:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋰礦大訊息引發鋰市場異動】一則有關寧德時代梘下窩鋰礦用地手續的資訊，引發鋰礦市場異動。6月8日，江西省自然資源廳釋出公告，依法登出編號為“用字第3609002025XS0001571號”的《建設專案用地預審與選址意見書》。公告顯示，該登出系根據宜春時代新能源礦業有限公司提出的申請，依據《中華人民共和國行政許可法》等相關規定作出，自即日起該意見書依法登出。\n\n\n江西省自然資源廳有關人士回覆記者稱，這份意見書登出是按照正常流程走下來的，此次只是公告該情況。\n\n據瞭解，《建設專案用地預審與選址意見書》是專案落地的法定前置檔案。一位熟悉土地投資領域的專家告訴記者，該意見書是專案流程中非常靠前的步驟，沒有它，後續手續難以進行，土地也無法使用。意見書登出後，整個專案的後續用地流程需要重新走一遍，專案進度可能會延緩。\n\n另一位業內專家告訴記者，該意見書登出意味著專案前期空間規劃合規性審查的終止，其法律意義在於解除土地用途的預審約束。《建設專案用地預審與選址意見書》是《中華人民共和國土地管理法實施條例》規定的法定前置檔案，需在立項前完成。該意見書在申請過程中，環評、採礦權等手續可同步推進前期準備工作，但土地使用權證辦理必須取得該意見書。\n\n關於企業主動申請登出的原因，該專家分析，通常有三種可能：專案規劃重大調整（如選址變更）；土地指標無法落實；投資主體或建設內容變更。登出後，企業可以立即重新申報，但需要重新履行全部審批流程，辦理時間受地方政務效率影響，通常需要15至30個工作日（含公示期）。他還特別提示，在新意見書辦結之前擅自採礦，屬於《中華人民共和國礦產資源法》禁止的“未批先採”行為。（上證報）"
+    },
+    {
+      "id": "4927445",
+      "time": "2026-06-10 14:47:02",
+      "tags": [
+        "宏觀",
+        "其他"
+      ],
+      "text": "【瀘州明確65項重點任務 打造超百億元、超五百億元、超千億元主導產業和產業叢集等】6月10日，瀘州釋出官微訊息，《瀘州市2026年新型城鎮化和城鄉融合發展工作實施方案》於日前印發，圍繞加快推進農業轉移人口市民化、營造高品質城市生活空間、推進以縣城為重要載體的城鎮化建設、深入推進城鄉融合發展四個方面，明確了今年瀘州市推進新型城鎮化和城鄉融合發展的65項重點任務。產城融合方面，《實施方案》提出，推進以縣城為重要載體的城鎮化建設，‌系統推進縣域百億主導產業培育行動，打造超百億元、超五百億元、超千億元主導產業和產業叢集。"
+    },
+    {
+      "id": "4927444",
+      "time": "2026-06-10 14:45:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：內塔尼亞胡準備必要時單獨對伊朗採取行動】據德新社6月9日報道，以色列i24新聞臺9日報道，在特定條件下，以色列總理本雅明·內塔尼亞胡可能準備應對得不到美國支援的情況。 報道稱，該電視臺提及8日晚間的一次內閣會議，並援引內塔尼亞胡的話說：“我們可能會進入這樣一種狀況，即我們不得不獨自對抗伊朗，沒有美國的支援，獨自承受相關的全部代價——包括武器裝備和全球孤立。” 報道援引內塔尼亞胡的話說，以色列並不希望走到這一步，但知道可能出現這種狀況。（參考訊息）"
+    },
+    {
+      "id": "4927443",
+      "time": "2026-06-10 14:44:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京電控等成立新電子科技公司 註冊資本20億】天眼查App顯示，近日，北京鴻晟融信電子科技有限公司成立，法定代表人為呂景瀟，註冊資本20億人民幣，經營範圍包括機械裝置銷售、貨物進出口、積體電路設計等，由北京御極科技有限公司、北京電子控股有限責任公司共同持股。"
+    },
+    {
+      "id": "4927442",
+      "time": "2026-06-10 14:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國研究提出基於微氣泡強化淬冷的不溶性硫磺製備技術 萃取後的產品IS含量高達97.33%】不溶性硫磺（IS）因其分散均勻、自粘性高等特性，被廣泛應用於高效能綠色輪胎生產領域。近日，中國科學院青島生物能源與過程研究所研究團隊開發出基於微氣泡技術的新型快速淬冷方法。研究團隊研製的旋流式絕熱噴射器採用不鏽鋼與玻璃複合結構設計，透過軸向引入高溫氣態硫與切向注入淬冷液的協同作用，實現溫差極大的氣液兩相高效對流傳熱。該裝置使高溫硫蒸氣在毫秒級接觸時間內分散為微小氣泡，直接生成粒度均勻的IS粉末產品，同時省去傳統工藝的粉碎工序。研究團隊以研製的新型旋流式絕熱噴射器為關鍵淬冷裝備，系統地考察了工藝條件、穩定劑種類和新增量等對產品IS含量及105℃下熱穩定性的影響。結果表明，萃取後的產品IS含量高達97.33%，充油型產品IS的熱穩定性達到86.49%。該旋流式絕熱噴射器淬冷效果優良，為高品質不溶性硫磺的連續化工業生產提供了理想淬冷裝備。相關研究成果發表於《過程工程學報》。研究工作得到國家科技重大專項的支援。"
+    },
     {
       "id": "4927441",
       "time": "2026-06-10 14:41:15",
@@ -171982,356 +172282,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3334億元。"
-    },
-    {
-      "id": "4914439",
-      "time": "2026-06-03 14:56:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗最高領袖批准成立霍爾木茲海峽問題工作組】據伊朗塔斯尼姆通訊社3日報道，伊朗伊斯蘭議會副議長阿里·尼克扎德表示，伊朗外交部已獲伊朗最高領袖穆傑塔巴·哈梅內伊批准，成立霍爾木茲海峽問題工作組。 尼克扎德說，該工作組將與包括武裝部隊等其他機構協調，起草有關霍爾木茲海峽的法律制度。相關法律草案採納了伊朗國家安全委員會等機構及有關人士的意見。(新華社)"
-    },
-    {
-      "id": "te:markets:556024",
-      "time": "2026-06-03 14:56:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Nikkei Closes Above 68,000 for First Time — The Nikkei 225 Index jumped more than 2% to close above the 68,000 mark for the first time on Wednesday, setting a fresh record as a continued rally in technology stocks lifted the market. Optimism surrounding artificial intelligence-related opportunities outweighed concerns over the lack of progress in US–Iran peace negotiations. Japanese firms continue to play a significant role in the expansion of AI infrastructure worldwide, positioning them to benefit from the sector’s rapid growth. Leading gains in the technology sector were chipmaking equipment manufacturer Tokyo Electron and semiconductor testing equipment maker Advantest, which surged 13.4% and 5.1%, respectively. Other top performers included Kioxia Holdings (+0.7%), Fujikura (+9.3%), and Furukawa Electric (+4.3%). Meanwhile, investors continued to monitor US–Iran talks, with mixed signals from both sides keeping geopolitical uncertainty elevated."
-    },
-    {
-      "id": "4914438",
-      "time": "2026-06-03 14:56:10",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "市場訊息：大金重工擬在香港上市籌集8.47億美元。"
-    },
-    {
-      "id": "4914437",
-      "time": "2026-06-03 14:55:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "巴林國防軍3日發表宣告說，巴林防空系統當天攔截並摧毀3枚來自伊朗的導彈和多架無人機。（新華社）"
-    },
-    {
-      "id": "4914436",
-      "time": "2026-06-03 14:54:30",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：上調招金礦業目標價至41.4港元，續予“買入”評級】花旗發表研報指，對黃金短期走勢維持謹慎，但預計當霍爾木茲海峽局勢最終緩解時，黃金面對的宏觀逆風將可減輕，金價或會走出谷底，預計2026年及27年的平均金價分別為每盎司4775美元及5000美元。考慮到較高的金價預測、成本及較低的自產金產量預測後，該行將招金礦業2026及27財年的盈利預測上調14%及54%，分別至48.39億及64.88億元，並預計2028年盈利達99.56億元；將公司目標價由37.5港元上調至41.4港元，續予“買入”評級。"
-    },
-    {
-      "id": "mkt:019e8c42-3cb7-7ee2-b142-498e7ce08f4c",
-      "time": "2026-06-03 14:53:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia said it will continue to take prudent measures to maintain rupiah stability and bolster external resilience."
-    },
-    {
-      "id": "4914435",
-      "time": "2026-06-03 14:53:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達140億港元。"
-    },
-    {
-      "id": "4914434",
-      "time": "2026-06-03 14:52:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【印度尼西亞繼續對進口窗簾實施保障措施】6月2日，WTO保障措施委員會發布印尼代表團向其提交的保障措施通報。2026年5月21日，印尼財政部在官方公報釋出第36號令，決定繼續對進口窗簾（包括帷簾）、百葉窗、床帷及其他裝飾用織物製品徵收保障措施稅，措施自2026年5月22日起生效，有效期為兩年，具體如下：2026年5月22日至2027年5月21日為9,841印尼盾/千克、2027年5月22日至2028年5月21日為9,248印尼盾/千克。涉案產品的印尼稅號為6303.12.00、6303.1990、6303.91.00、6303.92.00、6303.99.00、6304.19.90、6304.91.90和6304.92.00。"
-    },
-    {
-      "id": "mkt:019e8c41-9efa-7ee2-b142-40048eba6a09",
-      "time": "2026-06-03 14:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia spokesperson said the central bank will continue participating in markets, optimize its tools to ensure ample FX liquidity and support market stability."
-    },
-    {
-      "id": "mkt:019e8c41-784b-7ee2-b142-3fbd4b51eaa0",
-      "time": "2026-06-03 14:52:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hong Kong: first large EV battery recycling plant to start this month; retired battery volumes to rise to ~6,700 tonnes by 2030】Hong Kong’s first large-scale electric-vehicle battery recycling facility at the Environmental Park is expected to begin operations this month and will convert retired batteries into recovered black mass, Acting Secretary for Environment and Ecology said in a written reply to lawmakers on June 3. The Environmental Protection Department estimates retired battery volumes will increase from about 1,300 tonnes this year to roughly 6,700 tonnes by 2030, based on historic EV first-registration data. The EPD commissioned an independent assessment of an EV battery producer-responsibility scheme earlier this year; the consultant found the scheme would generate material economic benefits, spur green-tech investment, add about HKD 66 million to local GDP and create more than 100 full-time jobs, equivalent to roughly 3% of the 2024 workforce in waste management and recycling."
-    },
-    {
-      "id": "4914433",
-      "time": "2026-06-03 14:52:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人表示，央行持續維持市場活躍度，並最佳化政策工具，以確保外匯流動性充足，支撐市場穩定。"
-    },
-    {
-      "id": "4914432",
-      "time": "2026-06-03 14:51:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【土耳其對原產於中國的鋁箔作出反傾銷日落複審終裁】5月24日，土耳其貿易部發布第2026/16號公告，對原產於中國的厚度≦0.2毫米的鋁箔作出反傾銷第二次日落複審肯定性終裁，決定繼續以到岸價（CIF）徵收22%的反傾銷稅。涉案產品的土耳其稅號為7607.11和7607.19。措施自公告發布之日起生效，有效期為五年。"
-    },
-    {
-      "id": "4914431",
-      "time": "2026-06-03 14:51:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "東方航空：6月3日，由東航物流和上海機場物流聯合出資建設的上海浦東機場智匯港航空智慧貨站正式投運，標誌著上海國際航空樞紐建設迎來又一重要里程碑。"
-    },
-    {
-      "id": "mkt:019e8c40-382c-7ee2-b142-30a0588e8e7f",
-      "time": "2026-06-03 14:51:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Zelenskiy says Ukrainian long-range strikes hit St. Petersburg oil terminal, Russian military base】Ukrainian President Zelenskiy said Ukrainian long-range strike operations have hit key facilities on Russian territory overnight, including an oil terminal in St. Petersburg roughly 1,100 km from the Ukrainian border. He said purely military targets at the Kronstadt naval base were struck and a weapons manufacturer in Tambov region about 600 km from the front line was also hit. Zelenskiy said the long-range sanctions strike plan is being implemented as necessary to help secure an early peace."
-    },
-    {
-      "id": "mkt:019e8c40-2c2c-7ee2-b142-2b27bd81406f",
-      "time": "2026-06-03 14:51:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "【Goldman Sachs maintains overweight on A-shares】Goldman Sachs maintains an overweight on China A-shares, citing superior Sharpe ratios versus regional peers driven by an improved growth outlook, favorable liquidity, diversified return sources and exposure to hard‑tech, AI-related names. It downgraded Hong Kong stocks to market weight, saying the opportunity cost of staying overweight has risen and preferring targeted alpha themes or waiting for confirmation of its expected earnings-growth path before increasing beta exposure."
-    },
-    {
-      "id": "4914430",
-      "time": "2026-06-03 14:51:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包導航欄新增“雲盤”固定入口，原“通知”欄目下線】豆包App底部導航欄佈局迎來關鍵性改動，原“通知”欄目下線，替換為新的“雲盤”固定入口，意味著豆包App的辦公屬性正在增強。（Tech星球）"
-    },
-    {
-      "id": "4914429",
-      "time": "2026-06-03 14:50:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【挪威航空將購買一架在租的波音737-800飛機】挪威航空(Norwegian Air Shuttle)達成一項協議，將購買一架目前由其租賃的波音(Boeing) 737-800飛機。挪威航空表示，交易完成後，預計將錄得約8,500萬挪威克朗（合920萬美元）的非經常性收益，這筆收益反映了該飛機的價格以及租賃負債的相應減少。該交易預計每年還將產生約1,000萬克朗的經常性成本節省。該航空公司表示，此項交易有助於鞏固其未來機隊、增強財務靈活性並提高資產所有權比例，從而支援長期運營和戰略增長，同時降低總體擁有成本。該交易預計將在第二季度完成。挪威航空表示，已為此次收購獲得了長期融資。"
-    },
-    {
-      "id": "4914428",
-      "time": "2026-06-03 14:50:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港：電動車電池回收設施本月投入運作，退役電池量未來5年逐步上升】6月3日，香港署理環境及生態局局長黃淑嫻書面回覆立法會議員質詢時表示，香港首間大型電動車電池回收設施正在環保園建設，預計於本月投入運作，將退役電池轉化為再生黑粉，轉廢為材。環保署根據過去電動車首次登記的數字，就未來5年退役電池量作出粗略估算，由今年約1300公噸逐步上升至2030年約6700公噸。黃淑嫻表示，環保署於今年初委託獨立顧問，評估電動車電池生產者責任計劃的社會和經濟影響。結果顯示，計劃預計將為香港帶來顯著經濟效益，推動綠色科技投資，為本地生產總值帶來約6600萬元的附加價值，並且為廢物管理及回收行業創造超過100個全職職位就業機會，約佔2024年相關行業總勞動力的3%。她表示，現時全港共有5個持牌化學廢物處置設施可處理電動車退役電池，過去3年經初步處理後，運往外地認可合適處置設施迴圈再造的車用退役鋰電池合共約130公噸。"
-    },
-    {
-      "id": "4914427",
-      "time": "2026-06-03 14:49:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量3256億元。"
-    },
-    {
-      "id": "mkt:019e8c3d-7f1b-7ee2-b142-219243730c0e",
-      "time": "2026-06-03 14:48:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SERES–ByteDance new car brand's autonomous-driving supplier expected to be Yuanrong Qihang】Saidou Technology, part-owned by SERES and developed in close partnership with ByteDance’s Volcano Engine, will unveil a new car brand at a June 9 launch; sources say the vehicle’s autonomous-driving system is expected to be supplied by Yuanrong Qihang. Saidou declined to comment and said official details, including brand and logo, will be released at the event."
-    },
-    {
-      "id": "4914426",
-      "time": "2026-06-03 14:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【賽力斯位元組合作新車品牌智駕方案商預計為元戎啟行】由賽力斯參股，並與位元組跳動旗下火山引擎深度合作的賽豆科技新汽車品牌神秘面紗本月即將揭開。從知情人士處獨家瞭解到，該車的智駕方案預計將與元戎啟行合作。對此，賽豆科技並未置評，相關人士表示：“不太清楚，沒有確切的訊息。”其並表示，“我們將在6月9日釋出會上釋出全新品牌和LOGO等，到時以我們官方公佈的為準。”（藍鯨新聞）"
-    },
-    {
-      "id": "mkt:019e8c3d-3f9c-7ee2-b142-1e76945dd813",
-      "time": "2026-06-03 14:48:04",
-      "tags": [
-        "MKT News",
-        "BABA.N"
-      ],
-      "text": "【Alibaba's QoderWork CN launches AI productivity program】Alibaba's desktop AI agent workspace QoderWork CN launched an AI productivity program, offering free distribution of 10 billion points effective immediately. QoderWork CN supports Qwen3.7-Max, Qwen3.7-Plus, GLM-5.1, DeepSeek-V4-Pro and Kimi-K2.6; it provides a general conversational interface, role-specific expert suites for product, finance and legal teams, and new deep-vertical workbenches for design, slides and writing tasks."
-    },
-    {
-      "id": "4914425",
-      "time": "2026-06-03 14:47:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "液化空氣集團宣佈將在韓國進行大規模投資，為SK海力士的人工智慧儲存晶片生產提供支援。"
-    },
-    {
-      "id": "4914424",
-      "time": "2026-06-03 14:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風致日本多地人員受傷】據日本總務省消防廳統計，截至當地時間今天（6月3日）下午2時，受今年第6號颱風“薔薇”影響，日本愛知縣、奈良縣、德島縣、宮崎縣、鹿兒島縣和沖繩縣共6個縣已有23人受傷。其中，沖繩縣傷者人數最多，達17人，1人傷勢嚴重。（CCTV國際時訊）"
-    },
-    {
-      "id": "4914423",
-      "time": "2026-06-03 14:47:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智利逮捕19名委內瑞拉人 涉“阿拉瓜火車”洗錢案】智利警方2日逮捕了19名涉嫌參與洗錢的委內瑞拉公民。他們被控與跨國黑幫“阿拉瓜火車”有關聯，涉案金額至少8000萬美元。（新華社）"
-    },
-    {
-      "id": "te:markets:556020",
-      "time": "2026-06-03 14:47:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Breaks 46,000 for First Time, Closes Up 2.0% — The TAIEX, Taiwan’s benchmark stock index, advanced 902 points, or 2.0%, to close at 46,459 on Wednesday, gaining for the fourth straight session and tracking gains on Wall Street overnight as optimism surrounding AI investment persisted. The broader index hit a fresh record high, closing above the 46,000 mark for the first time, with nearly all sectors ending in positive territory, including electronic technology, financials, and commercial services. Positive data from China also boosted sentiment, as fresh data showed business activity in the mainland's private sector grew at the fastest pace in three months in May. Electronic technology stocks rose 1.8%, as optimism over AI demand continued to lift sentiment. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, gained 1.7%, following a 1.1% rise in the previous session. Meanwhile, Delta Electronics rose 3.2%, Hon Hai Precision climbed 2.8%, and ASE Technology surged 4.9%."
-    },
-    {
-      "id": "4914422",
-      "time": "2026-06-03 14:47:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神工股份在北京成立半導體科技公司 註冊資本1000萬】天眼查App顯示，近日，北方晶圓半導體科技（北京）有限公司成立，法定代表人為袁欣，註冊資本1000萬人民幣，經營範圍包括電子專用材料研發、電子專用材料製造、電子專用材料銷售等，由神工股份（688233）全資持股。"
-    },
-    {
-      "id": "te:markets:556019",
-      "time": "2026-06-03 14:46:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Hovers Near Record High — Copper futures fell below $6.6 per pound on Wednesday but remained close to the record high reached in the previous session amid uncertainty over a US tariff on the metal and tightening supply elsewhere. President Donald Trump earlier this week signed a proclamation adjusting tariffs on selected metal imports, but it left unresolved the broader copper tariff issue. Meanwhile, Chile, the world’s largest copper producer, reported its weakest April output in 23 years, heightening concerns over constrained global availability. Demand prospects also remain supportive amid optimism around the expansion of artificial intelligence technologies and rapid data center buildouts. In addition, the ongoing transition toward cleaner energy systems is increasing demand from global power grid upgrades, reinforcing a generally bullish long-term outlook for the metal."
-    },
-    {
-      "id": "4914421",
-      "time": "2026-06-03 14:46:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里QoderWork中國版推出AI生產力計劃】6月3日，阿里桌面智慧體工作臺QoderWork CN推出AI生產力計劃，即日起將免費發放百億積分。據瞭解，QoderWork CN支援Qwen3.7-Max、Qwen3.7-Plus、GLM-5.1、DeepSeek-V4-Pro、Kimi-K2.6等模型；QoderWork CN不僅有通用對話入口，還支援面向產品、財務、法務等崗位的專家套件，並上線了設計工作臺、幻燈片工作臺、寫作工作臺三大深度垂直任務的互動入口，可滿足不同崗位、不同工作場景的任務需求。"
-    },
-    {
-      "id": "4914420",
-      "time": "2026-06-03 14:46:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報97.93美元/桶。"
-    },
-    {
-      "id": "mkt:019e8c3b-3897-7ee2-b142-14fcdbf2edf3",
-      "time": "2026-06-03 14:45:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine's far-reaching sanctions plan is being implemented as required to help secure an earlier peace."
-    },
-    {
-      "id": "4914419",
-      "time": "2026-06-03 14:45:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：印度塔塔集團藉助中國奇瑞推動高階電動汽車發展】四位知情人士透露，塔塔汽車計劃從中國奇瑞汽車獲得汽車製造平臺授權，這家印度汽車製造商正試圖讓延遲推出的高階電動汽車重回正軌。塔塔在給媒體的一份宣告中表示，將利用奇瑞與捷豹路虎在中國合資生產的 Freelander 平臺，相關車型將在其位於印度南部泰米爾納德邦的新建工廠生產。 三位知情人士透露，印度最大電動汽車製造商塔塔將採用奇瑞的平臺，以旗下高階品牌 Avinya 在本地生產電動汽車，計劃推出至少兩款車型，首款車型將於 2027 年上市。這一戰略標誌著塔塔從原計劃的轉變——其最初計劃使用捷豹路虎的電動化模組架構（EMA）來打造原定於 2025 年推出的 Avinya 車型。據媒體此前報道，該路線圖於去年擱淺，原因是捷豹路虎暫停了在印度基於 EMA 平臺生產電動汽車的計劃，迫使塔塔重新調整方向。知情人士表示，與奇瑞的平臺合作預計將彌補失去的時間，使塔塔能夠獲得先進功能和技術，否則這些技術需要更長時間和更多資金才能自主研發。"
-    },
-    {
-      "id": "mkt:019e8c3b-329e-7ee2-b142-0a22b0be3dc2",
-      "time": "2026-06-03 14:45:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Refinitiv eyewitnesses reported smoke rising after a Ukrainian drone strike on the outskirts of St. Petersburg, Russia."
-    },
-    {
-      "id": "4914418",
-      "time": "2026-06-03 14:45:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟200億歐元人工智慧資料中心計劃因延誤和資金等問題受阻】據知情人士透露，歐盟為五個大型人工智慧資料中心制定的200億歐元（約合233億美元）投資計劃正陷入困境，其中出現的延誤和資金問題導致一些潛在合作伙伴望而卻步。去年，歐盟宣佈計劃支援所謂的“超級工廠”，以加速私營企業對人工智慧基礎設施的投資，但有關需求的不明確以及補貼何時發放的問題，正威脅著這一計劃的實施，這些人士要求不具名，因為相關討論是私下進行的。波蘭數字部長達裡烏什·斯坦德斯基正在參與歐盟關於這些資料中心的談判，他稱招標程式原定於5月開始，現預計將於7月啟動。他還在一次採訪中表示，這些專案將分兩階段進行融資，資金分別在2028年和2030年到位。"
-    },
-    {
-      "id": "mkt:019e8c3a-8a78-7ee2-b142-02d8541d7d7a",
-      "time": "2026-06-03 14:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said another struck target was a company in Russia's Tambov region involved in weapons production, about 600 km from the front line."
-    },
-    {
-      "id": "em:qqyh_mlc:202606033758940430",
-      "time": "2026-06-03 14:45:07",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲“變天”序幕拉開？沃什首份內部備忘錄流出 兩大親信已就位！】據媒體本週看到的一份內部備忘錄顯示，美聯儲主席凱文·沃什在開始其四年任期之際，向內部2萬多名員工發表了一封開篇致辭，承諾將遵循“美聯儲最優良的傳統”，但同時也表示，將全面審視哪些方面可以做出改變。"
-    },
-    {
-      "id": "4914417",
-      "time": "2026-06-03 14:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "目擊者稱：烏克蘭發動無人機襲擊後，聖彼得堡市郊上空濃煙滾滾。"
-    },
-    {
-      "id": "mkt:019e8c3a-3b71-7ee2-b141-fccd29cce282",
-      "time": "2026-06-03 14:44:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Zelenskiy said targets struck included a St. Petersburg oil terminal. The Russian oil facility is roughly 1,100 km from the Ukrainian border."
     }
   ]
 }
