@@ -1,7 +1,141 @@
 {
-  "updated": "2026-06-10 16:34:26",
-  "count": 18619,
+  "updated": "2026-06-10 16:38:24",
+  "count": 18608,
   "items": [
+    {
+      "id": "mkt:019eb0ad-9ac6-7aad-8123-52d9532e0d29",
+      "time": "2026-06-10 16:37:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Hapag-Lloyd CEO said once the Strait of Hormuz reopens the company will reassess long-term servicing of the Gulf region, but many practices will revert to their pre-Iran-war state."
+    },
+    {
+      "id": "4927744",
+      "time": "2026-06-10 16:37:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓南部地震已造成53人死亡】總檯記者當地時間10日獲悉，菲律賓消防局方面表示，菲律賓南部6月8日發生的地震已造成53人死亡。菲律賓火山地震研究所8日釋出訊息稱，棉蘭老島附近當日7時37分發生7.8級強震，震源深度33公里，6個監測站監測到不同高度的海嘯波，其中最高約1.4米。 (央視新聞)"
+    },
+    {
+      "id": "4927743",
+      "time": "2026-06-10 16:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行宣佈任命Tanate Phutrakul為獨立非執行董事，自2026年7月1日起生效。"
+    },
+    {
+      "id": "4927742",
+      "time": "2026-06-10 16:36:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST聯翔：股票交易異常波動 存在終止上市風險】*ST聯翔公告稱，公司股票於2026年6月8日-6月10日連續三個交易日內收盤價格跌幅偏離值累計超12%，屬異常波動。經自查，公司生產經營正常，不存在應披露未披露重大資訊。2025年公司營收14161.05萬元，淨利潤虧損1144.88萬元，股票已於2026年4月29日被實施退市風險警示，若2026年度財務資料仍觸及強制退市情形，股票將終止上市。"
+    },
+    {
+      "id": "4927741",
+      "time": "2026-06-10 16:36:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新五豐：2026年5月生豬銷售量48.97萬頭 同比增26.54%】新五豐公告稱，2026年5月，公司生豬銷售量48.97萬頭，同比增長26.54%，商品豬銷價9.41元/公斤。1-5月累計銷售生豬238.82萬頭，其中商品豬138.40萬頭。公司提示，受動物疫情、市場價格波動和養殖節奏變化等因素影響，未來生豬銷量存在月度波動風險。"
+    },
+    {
+      "id": "4927740",
+      "time": "2026-06-10 16:36:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "GitLab：谷歌Gemini 3.5現已接入GitLab Duo智慧代理平臺，Gemma 4已部署至自託管版GitLab Duo。"
+    },
+    {
+      "id": "4927739",
+      "time": "2026-06-10 16:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國航運公司赫伯羅特執行長表示：霍爾木茲海峽重新開放後，我們將重新審視長期服務海灣地區的方式，但大部分業務仍會迴歸伊朗衝突前的常態。"
+    },
+    {
+      "id": "4927738",
+      "time": "2026-06-10 16:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "GitLab 擴大與谷歌的合作，搭載最新 Gemini大模型與 Gemma開源大模型，推出全託管式DevSecOps平臺。"
+    },
+    {
+      "id": "4927737",
+      "time": "2026-06-10 16:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST中珠：持股5%以上股東減持1%股份 減持計劃實施完畢】ST中珠公告稱，持股5%以上股東中盛源因自身資金需求，原計劃自2026年3月11日至6月10日減持不超59,786,089股，佔總股本比例不超3%。截至公告披露日，中盛源透過集中競價方式減持19,855,600股，佔總股本1%，減持總金額5626.66萬元，減持計劃實施完畢。減持後，中盛源持股99,872,400股，佔比5.01%。"
+    },
+    {
+      "id": "mkt:019eb0ab-fb8e-7aad-8123-4ed2539d0877",
+      "time": "2026-06-10 16:35:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A Russian foreign ministry spokesperson said the EU's sanctions have failed to achieve their objectives and will be unable to do so in future."
+    },
+    {
+      "id": "mkt:019eb0ab-8309-7aad-8123-46e24e0cd11d",
+      "time": "2026-06-10 16:34:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian Foreign Ministry spokesman said Moscow will respond to the EU's proposed new round of sanctions."
+    },
+    {
+      "id": "mkt:019eb0ab-4b40-7aad-8123-3b41fdf8855e",
+      "time": "2026-06-10 16:34:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia condemned the EU's authorization to intercept and inspect vessels in the Mediterranean suspected of belonging to Russia's \"shadow fleet\"."
+    },
+    {
+      "id": "4927735",
+      "time": "2026-06-10 16:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱，歐盟動用海軍力量恐嚇民用船隻，對航行安全構成威脅。"
+    },
+    {
+      "id": "4927734",
+      "time": "2026-06-10 16:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小紅書釋出《Skill上傳規範》，明確平臺立場】6月10日，小紅書正式釋出《Skill上傳規範》，明確平臺立場。小紅書鼓勵：釋出功能描述真實、清晰，有實際使用價值的Skill，內容具有原創性、創新性；在Skill中準確說明所需許可權及用途，不超出功能範圍請求許可權；程式碼邏輯透明，不包含隱藏行為或後門，確保使用者能夠按照說明實現預期效果；尊重他人原創，不搬運、抄襲他人Skill。平臺將持續建設對Skill的風險識別能力，違規Skill將被下架處理，情節嚴重者將限制開發者的釋出許可權。"
+    },
+    {
+      "id": "4927733",
+      "time": "2026-06-10 16:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人表示：歐盟制裁未能達成其既定目標，未來也終將無法實現目標。"
+    },
     {
       "id": "4927730",
       "time": "2026-06-10 16:33:34",
@@ -171535,251 +171669,6 @@
         "MKT News"
       ],
       "text": "Bank of Japan Governor Ueda said he cannot rule out a large-scale supply‑chain disruption, which would significantly impair Japanese firms' production activity."
-    },
-    {
-      "id": "mkt:019e8ca2-591d-7ccb-b85d-56f767c83a6c",
-      "time": "2026-06-03 16:38:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine reports outages in multiple regions after Russian shelling; repairs under way】On the morning of June 3 (local time) Ukraine's state grid operator Ukrenergo said Russian shelling caused new power outages in Kharkiv, Chernihiv, Dnipropetrovsk and Zaporizhia regions. Ukrenergo said repair and restoration work has begun where safety conditions permit. Russia had no immediate comment."
-    },
-    {
-      "id": "4914723",
-      "time": "2026-06-03 16:38:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "高市早苗：期待日本央行圍繞 2% 通脹目標制定貨幣政策。"
-    },
-    {
-      "id": "4914722",
-      "time": "2026-06-03 16:38:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：不能排除供應鏈出現大規模中斷的可能性，這將對日本企業的生產活動產生重大影響。"
-    },
-    {
-      "id": "4914721",
-      "time": "2026-06-03 16:38:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國多方呼籲防範針對供電設施的無人機襲擊】英國多名政府官員、議員及行業人士近日接連發聲，呼籲升級供電基礎設施的安防措施，強化針對無人機襲擊的防護，防範無人機襲擾引發大面積停電事故。英國天空新聞頻道網站2日報道，這些人擔憂，由變電站、輸電鐵塔、電纜組成的整個供電網路存在安防隱患，一旦發生衝突，極易淪為無人機打擊目標。他們批評相關部門一味壓低造價、追求施工速度，不願投入資金加裝無人機攔截網等防護裝置，也不願進行大規模電纜入地改造。（新華社）"
-    },
-    {
-      "id": "mkt:019e8ca1-b431-7998-8c64-8c4df44f1532",
-      "time": "2026-06-03 16:37:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "NHC: A low-pressure system is gradually strengthening and is expected to become a tropical storm later today."
-    },
-    {
-      "id": "4914720",
-      "time": "2026-06-03 16:37:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【品茗科技：回購價格上限調整至152.75元/股】品茗科技公告，2025年年度權益分派實施完畢，公司對回購價格上限進行相應調整，調整前的回購價格上限為153元/股，調整後的回購價格上限為152.75元/股。同時，回購股份資金來源由“自有資金”調整為“自有資金和自籌資金（含股票回購專項貸款等）”。公司已取得招商銀行杭州分行出具的《貸款承諾函》，其同意為公司股份回購提供不超過人民幣7200萬元的貸款額度。"
-    },
-    {
-      "id": "4914719",
-      "time": "2026-06-03 16:37:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：經濟與物價前景本身可能因中東局勢未來走向及其他因素髮生大幅變動，對此需保持關注。"
-    },
-    {
-      "id": "mkt:019e8ca1-7c5e-7998-8c64-82f7065863e6",
-      "time": "2026-06-03 16:37:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ueda, governor of the Bank of Japan, said Japan's economic and inflation outlooks could change materially depending on developments in the Middle East and other future events."
-    },
-    {
-      "id": "mkt:019e8ca1-5868-7998-8c64-7f392a6f6c32",
-      "time": "2026-06-03 16:37:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Governor Ueda said the central bank must monitor stability in the Japanese government bond market, and that portfolio adjustments by banks and individual investors may take some time."
-    },
-    {
-      "id": "4914718",
-      "time": "2026-06-03 16:37:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家颶風中心風暴公告：低壓系統正逐步增強，預計今日晚些時候將發展為熱帶風暴。"
-    },
-    {
-      "id": "4914717",
-      "time": "2026-06-03 16:37:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商積餘：聘任王曉波為公司副總經理】招商積餘6月3日公告，公司當天召開第十一屆董事會第九次會議，審議透過了《關於聘任公司副總經理的議案》。根據工作需要，經公司總經理提名、董事會提名和薪酬委員會資格審查，董事會同意聘任王曉波為公司副總經理，任期自本次董事會審議透過之日起至第十一屆董事會屆滿之日止。"
-    },
-    {
-      "id": "mkt:019e8ca1-49a3-7998-8c64-741458173b95",
-      "time": "2026-06-03 16:37:06",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Governor Ueda said CPI YoY growth could rise markedly, especially in fiscal 2026."
-    },
-    {
-      "id": "4914716",
-      "time": "2026-06-03 16:36:48",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：日本央行必須密切關注日本國債市場的穩定性，銀行與個人投資者的投資組合調整可能需要一段時間才能完成。"
-    },
-    {
-      "id": "4914715",
-      "time": "2026-06-03 16:36:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏克蘭稱多地受襲擊影響發生斷電 正在進行搶修】當地時間6月3日上午，烏克蘭國家電力公司通報，受俄方炮擊影響，哈爾科夫州、切爾尼戈夫州、第聶伯羅彼得羅夫斯克州、扎波羅熱州四地新增斷電情況。該電力公司同時表示，目前已在安全條件達標區域，啟動電力搶修與恢復作業。俄羅斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4914714",
-      "time": "2026-06-03 16:36:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "高市早苗：貨幣政策具體細則應交由日本央行敲定。"
-    },
-    {
-      "id": "mkt:019e8ca0-9bcd-7998-8c64-6a8d6938b89b",
-      "time": "2026-06-03 16:36:29",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Governor Ueda said he expects the economy to continue growing moderately despite a slowdown, a trend that may be supported by high corporate profits, policy measures and an accommodative financial environment."
-    },
-    {
-      "id": "4914713",
-      "time": "2026-06-03 16:36:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏輝果蔬：收購施美藥業41.128%股份已完成】宏輝果蔬公告，公司全資子公司上海騰暉醫藥技術有限公司已完成對江西施美藥業股份有限公司41.128%股份的收購。本次交易金額為7億元，分為兩期支付，首期2.1億元已於2026年5月19日支付，第二期1.4億元已於2026年5月22日支付。施美藥業已完成股東名冊變更，上海騰暉成為其股東。公司已實現對施美藥業的實質管理控制。"
-    },
-    {
-      "id": "mkt:019e8ca0-1a75-7998-8c64-678d40c1e08e",
-      "time": "2026-06-03 16:36:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "UEDA said Japan's government bond market is steadily improving as the Bank of Japan has made progress in reducing JGB purchases."
-    },
-    {
-      "id": "4914712",
-      "time": "2026-06-03 16:35:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男稱：儘管經濟增速有所放緩，但預計仍將保持溫和增長，增長動能大機率來自處於高位的企業利潤、各項經濟政策措施，以及寬鬆的金融環境。"
-    },
-    {
-      "id": "4914711",
-      "time": "2026-06-03 16:35:44",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【金富科技三日跌22.63% 東吳證券蘇州石路三日淨賣出2.54億元】金富科技三日跌22.63%，三日成交額30.05億元，盤後龍虎榜資料顯示，東吳證券蘇州石路三日淨賣出2.54億元，3家機構專用席位三日淨買入4800.4萬元，有1家機構專用席位三日淨賣出2056.75萬元。"
-    },
-    {
-      "id": "4914710",
-      "time": "2026-06-03 16:35:34",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：隨著日本央行在縮減日本國債購買量方面取得進展，日本國債市場的執行狀況正在穩步改善。"
-    },
-    {
-      "id": "mkt:019e8c9f-bb09-7998-8c64-5ab314d209c5",
-      "time": "2026-06-03 16:35:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Governor Ueda said the central bank will strive to achieve price stability through appropriate monetary policy, saying this is essential to prevent rising prices from weighing on economic activity and to help safeguard stability in financial and capital markets."
-    },
-    {
-      "id": "4914709",
-      "time": "2026-06-03 16:35:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上期所：釋出《上海期貨交易所有色金屬交割商品管理規定》（2026年6月修訂版）的公告】上期所公告：為保障上海期貨交易所鉛期貨平穩執行，加強對期貨交割商品的管理，維護期貨交易各方的合法權益，根據《上海期貨交易所交易規則》及有關規定，我所對《上海期貨交易所有色金屬交割商品管理規定》（2025年5月修訂版）進行了修訂，主要修訂內容詳見附件。本規定自發布之日起實施。《上海期貨交易所有色金屬交割商品管理規定》（2025年5月修訂版）同時廢止。"
-    },
-    {
-      "id": "4914708",
-      "time": "2026-06-03 16:35:17",
-      "tags": [
-        "央行",
-        "宏觀",
-        "公司"
-      ],
-      "text": "【央行副行長陶玲：中國網際網路金融協會要強化行業自律功能，助力金融監管】近日，中國網際網路金融協會召開成立十週年工作座談會。中國人民銀行黨委委員、副行長陶玲出席會議並講話。陶玲指出，十年來，中國人民銀行以習近平新時代中國特色社會主義思想為指導，認真落實黨中央國務院決策部署，推動中國網際網路金融協會走中國特色金融發展之路，以強監管、防風險、促發展為主線，敦促網際網路金融行業深刻汲取風險教訓，強化金融執行規律認識，依法合規經營，全面接受金融監管。下一步，中國網際網路金融協會要立足全國性行業自律組織定位，進一步健全自身治理機制，完善行業自律制度，強化行業自律功能，助力金融監管；要帶領廣大會員機構，嚴格樹立法治理念，健全公司治理和內部管理，規範經營行為，加強風險防控，促進行業規範健康發展，服務經濟社會高質量發展。"
-    },
-    {
-      "id": "4914707",
-      "time": "2026-06-03 16:35:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：這一點至關重要，不僅關係到遏制物價上漲對經濟活動帶來的下行壓力，也關乎保障金融市場與資本市場的穩定。"
-    },
-    {
-      "id": "4914706",
-      "time": "2026-06-03 16:34:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：央行將努力透過恰當的貨幣政策履行實現物價穩定的職責。"
     }
   ]
 }
