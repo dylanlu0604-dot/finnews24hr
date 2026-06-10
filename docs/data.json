@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-10 12:22:23",
-  "count": 18722,
+  "updated": "2026-06-10 12:26:18",
+  "count": 18725,
   "items": [
+    {
+      "id": "4927283",
+      "time": "2026-06-10 12:24:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌7.9%。"
+    },
+    {
+      "id": "4927282",
+      "time": "2026-06-10 12:24:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5%，至7691.62。"
+    },
+    {
+      "id": "4927281",
+      "time": "2026-06-10 12:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華平投資、KKR 擬出售英國寬頻業務】據英國金融時報援引知情人士訊息，華平投資與 KKR 正考慮出售旗下英國光纖寬頻相關資產。華平投資已聘請投行機構，為旗下 Community Fibre 接洽潛在收購方。KKR 也已就旗下寬頻運營商 Hyperoptic，與多家意向買家展開接觸。"
+    },
+    {
+      "id": "mkt:019eafc5-b89a-7444-ba07-f8ab2c40ec60",
+      "time": "2026-06-10 12:23:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Vietnam's government has permitted coal miners to raise output to meet power-generation demand."
+    },
+    {
+      "id": "mkt:019eafc5-4708-7444-ba07-f0facbd86d91",
+      "time": "2026-06-10 12:23:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "S&P500"
+      ],
+      "text": "South Korea's KOSPI index plunged 5.00% intraday to 7,691.62."
+    },
+    {
+      "id": "4927280",
+      "time": "2026-06-10 12:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊美最新衝突加深雙方敵對和裂痕 】伊朗當地時間今天（6月10日）凌晨，伊朗南部阿巴斯港、格什姆島、錫裡克地區、賈斯克地區等地多次傳出爆炸聲。美軍稱對伊朗展開所謂“自衛性打擊”，伊朗軍方則稱針對美軍目標展開回擊。根據總檯記者在伊朗的觀察，本輪衝突是近一段時間以來，伊美髮生的最為激烈的衝突。本次衝突源於美國稱伊朗擊落美軍的一架“阿帕奇”直升機，但在美軍行動開始前，美方已經透過媒體，作出將要襲擊伊朗的表態，截至目前美軍的打擊範圍並沒有超過伊朗的南部地區。在當前伊美談判程序並未中斷的背景下，此類衝突凸顯地區局勢的緊張，並勢必會影響相關談判程序，同時更加加深伊朗與美以之間的敵對和裂痕。（ CCTV國際時訊 ）"
+    },
+    {
+      "id": "4927279",
+      "time": "2026-06-10 12:22:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國長安汽車集團入股鈴木摩托車】天眼查工商資訊顯示，近日，濟南輕騎鈴木摩托車有限公司發生工商變更，原股東中國兵器裝備集團有限公司退出，新增中國長安汽車集團有限公司為股東。濟南輕騎鈴木摩托車有限公司成立於1994年7月，註冊資本2400萬美元，經營範圍包括道路機動車輛生產、摩托車零配件製造、機動車修理和維護等。股東資訊顯示，該公司現由鈴木株式會社及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:019eafc4-408c-7444-ba07-e96f74b9f59e",
+      "time": "2026-06-10 12:22:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated its circuit-breaker mechanism and suspended program trading on the KOSPI."
+    },
     {
       "id": "te:markets:557885",
       "time": "2026-06-10 12:20:56",
@@ -172814,55 +172887,6 @@
         "其他"
       ],
       "text": "【低估值優質科技股梳理】據統計，在TMT板塊（電子、計算機、通訊、傳媒行業），10家及以上機構評級的個股中，有20股根據機構一致預測2027年淨利測算的市盈率不足20倍。其中，TCL科技、巨人網路兩隻個股前瞻市盈率均不足10倍。從股價表現來看，立訊精密、京東方A、工業富聯年內累計漲幅均漲超20%。傳媒股出現普跌，巨人網路、芒果超媒、愷英網路等均跌超20%。(證券時報)"
-    },
-    {
-      "id": "4914224",
-      "time": "2026-06-03 12:25:07",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：印尼通脹風險偏向上行】RHB經濟學家Wong Xian Yong在一份報告中表示，受供應受限、物流受阻以及潛在的與厄爾尼諾相關的天氣風險推動，預計印尼的食品通脹將走高。他說，全球能源價格上漲和印尼盾持續疲軟可能會透過生產和進口成本上升增加進一步的通脹壓力。考慮到這些風險，Wong將他對印尼2026年整體通脹的預測從2.5%上調至2.8%，並將核心通脹預測從2.0%上調至2.5%。他補充說，預計印尼央行將在6月份的會議上維持基準利率不變，因為進一步加息對印尼盾的支撐可能有限，同時會對國內經濟增長構成風險。"
-    },
-    {
-      "id": "4914223",
-      "time": "2026-06-03 12:24:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股創新藥企雲頂新耀宣佈與Travere Therapeutics, Inc.達成獨家授權許可與合作，後者將獲得EVER001（希布替尼）除大中華區及部分東南亞國家以外區域的獨家開發及商業化權益，雲頂新耀將獲得1.125億美元的首付款，並有資格在最多五個適應症上獲得高達10.3億美元的開發、註冊及商業化里程碑付款。"
-    },
-    {
-      "id": "4914222",
-      "time": "2026-06-03 12:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽馬鞍山市和縣一大巴車失控造成2人死亡2受傷】今日（6月3日），安徽省馬鞍山市和縣公安局釋出警情通報，2026年6月2日10時08分，和縣歷陽鎮龍潭路與迎江路交叉口附近發生一起交通事故。接警後，公安機關警力到達現場，聯動120急救部門進行救援，同步開展交通秩序維護、事故情況調查等相關工作。經查，張某某（男，57歲）駕駛大型普通客車行至該路段時突發昏厥致車輛失控，碰撞行人和車輛，造成2人死亡，2人受傷（生命體徵平穩），其餘人員經檢查無明顯傷情。目前，張某某正在接受公安機關調查，經檢測，已排除酒駕、毒駕嫌疑，事故調查、傷者救治、善後處置等工作正在進行。（央視）"
-    },
-    {
-      "id": "mkt:019e8bb8-bc10-7ee2-b13f-428cfa36a8b0",
-      "time": "2026-06-03 12:23:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "Market Themes",
-        "AI Revolution",
-        "00780.HK",
-        "Impact bullish"
-      ],
-      "text": "【CITIGROUP: Tongcheng Travel likely beneficiary of potential Tencent WeChat AI agent integration】Tencent (00700.HK) is testing an AI agent prototype on WeChat. CITIGROUP says Tongcheng Travel (00780.HK) — with an all-WeChat strategy, comprehensive mini-program capabilities, close Tencent ties and the only OTA presence in WeChat Wallet — would be among the beneficiaries if Tencent deploys the AI agent on WeChat. Tongcheng shares have been pressured by a valuation cut at Trip.com Group (09961.HK) and higher oil prices weighing on domestic travel demand; the stock trades at under 8x 2026 forecast P/E. CITIGROUP maintains Buy, PT HKD25."
-    },
-    {
-      "id": "4914221",
-      "time": "2026-06-03 12:23:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：美聯儲6月料將不會調整利率】Federated Hermes的Deborah Cunningham表示，在6月16日至17日舉行的美國聯邦公開市場委員會會議上，目前為3.50%-3.75%的聯邦基金目標區間發生變動的可能性幾乎為零。這位高階基金經理在一份報告中表示，雖然不斷上升的通貨膨脹尚未完全抑制消費者支出，但擔憂正在升溫。她表示，通貨膨脹雖然可能繼續上升，但一旦伊朗衝突降溫，上升步伐將會放緩。3月份釋出的上一份經濟預測摘要曾暗示今年將降息25個基點。她表示，6月份的預測幾乎肯定會預計利率保持不變。不過她補充說，點陣圖可能會包含一些決策者傾向於加息的跡象。"
     }
   ]
 }
