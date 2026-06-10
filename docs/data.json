@@ -1,7 +1,306 @@
 {
-  "updated": "2026-06-10 09:32:36",
-  "count": 18713,
+  "updated": "2026-06-10 09:36:23",
+  "count": 18739,
   "items": [
+    {
+      "id": "mkt:019eaf2b-e934-7993-ad59-1000601ad8b5",
+      "time": "2026-06-10 09:35:50",
+      "tags": [
+        "MKT News",
+        "300347.SZ",
+        "Impact bullish",
+        "603259.SS"
+      ],
+      "text": "China A-share CRO sector gained in early trade; Tigermed rose over 6%, with Baihua Pharmaceutical, Kailaiying, WuXi AppTec, Weilan Bio, Haoyuan Pharma and Nuosige also advancing."
+    },
+    {
+      "id": "te:economy:557820",
+      "time": "2026-06-10 09:35:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "China Inflation Slightly Below Forecasts — China’s consumer inflation held steady at 1.2% year-on-year in May 2026, unchanged from April and slightly below market expectations of 1.3%. On a monthly basis, consumer prices fell 0.1%, reversing a 0.3% increase in the previous month. However, the decline was milder than market forecasts of a 0.2% drop."
+    },
+    {
+      "id": "4927004",
+      "time": "2026-06-10 09:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4927003",
+      "time": "2026-06-10 09:35:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "模組化電源系統公司EROCK透過IPO籌集了6億美元。"
+    },
+    {
+      "id": "4927002",
+      "time": "2026-06-10 09:35:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI智慧體概念盤初走強 南興股份一字漲停】早盤AI智慧體概念走強，南興股份一字漲停，南威軟體觸及漲停，宇信科技、天娛數科、思特奇、返利科技跟漲。"
+    },
+    {
+      "id": "4927001",
+      "time": "2026-06-10 09:34:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長飛光纖股價創歷史新高】長飛光纖盤中股價創歷史新高，現漲0.14%，報485.00元，總市值為2904.27億元。"
+    },
+    {
+      "id": "mkt:019eaf2b-111c-7993-ad59-0ba16461c1c8",
+      "time": "2026-06-10 09:34:54",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【NBS Urban Department chief statistician Dong Lijuan interprets May 2026 CPI and PPI data】NBS Urban Department chief statistician Dong Lijuan said May 2026 CPI fell 0.1% MoM and rose 1.2% YoY; core CPI excluding food and energy rose 1.1% YoY. Producer prices (PPI) rose 0.5% MoM and 3.9% YoY, driven by firmer domestic industrial demand and pass-through from international commodity price volatility."
+    },
+    {
+      "id": "4927000",
+      "time": "2026-06-10 09:34:44",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI和PPI資料】5月份，居民消費市場執行總體平穩，居民消費價格指數（CPI）環比下降0.1%，同比上漲1.2%，扣除食品和能源價格的核心CPI同比上漲1.1%。受國內部分行業需求增加以及國際大宗商品價格波動傳導等因素影響，工業生產者出廠價格指數（PPI）環比上漲0.5%，同比上漲3.9%。"
+    },
+    {
+      "id": "4926999",
+      "time": "2026-06-10 09:34:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉確診病例升至598例】剛果（金）衛生部9日釋出報告說，截至8日，剛果（金）本輪埃博拉疫情累計確診病例升至598例，其中115例死亡。報告顯示，目前共有297名患者處於隔離或住院治療狀態，累計治癒人數升至22人。"
+    },
+    {
+      "id": "4926998",
+      "time": "2026-06-10 09:33:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊迅速拉昇，海光資訊漲超10%】半導體板塊迅速拉昇，海光資訊漲超10%，中晶科技、氣派科技、富滿微、康強電子、傑華特跟漲。"
+    },
+    {
+      "id": "te:markets:557819",
+      "time": "2026-06-10 09:33:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slide on Middle East Tensions — The benchmark KOSPI fell more than 2% to around 7,880 on Wednesday, reversing gains from the previous session and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Risk appetite deteriorated after the US launched new strikes against Iran in response to the downing of an American military helicopter, raising concerns over broader regional instability and pushing oil prices higher. Technology shares also came under pressure after a selloff in US chipmakers, with investors locking in profits following the market's recent AI-driven rally as concerns over stretched valuations resurfaced. Samsung Electronics (-4.9%) and SK hynix (-4.3%) led the decline, while losses were also recorded in SK Square (-3.9%) and Hyundai Motor (-2.8%). In contrast, Hanwha Aerospace (1.9%) outperformed on expectations of increased defense spending amid heightened geopolitical uncertainty."
+    },
+    {
+      "id": "mkt:019eaf2a-58e7-7ff4-a105-66c593151f02",
+      "time": "2026-06-10 09:33:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【National Bureau of Statistics: May chemical raw material prices up 11.8%】China's National Bureau of Statistics said in May producer purchase prices rose for non-ferrous metal materials and wire (+22.0%), chemical raw materials (+11.8%), fuel and power (+10.0%), textile raw materials (+2.5%) and ferrous metal materials (+0.3%); building materials and non‑metallics fell 5.5% and agricultural products fell 1.6%."
+    },
+    {
+      "id": "4926997",
+      "time": "2026-06-10 09:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【林洋能源成立新能源算力技術公司，含多項AI業務】企查查APP顯示，近日，雄安林洋新能源算力技術有限公司成立，註冊資本2億元，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧硬體銷售；量子計算技術服務等。企查查股權穿透顯示，該公司由林洋能源全資持股。"
+    },
+    {
+      "id": "4926996",
+      "time": "2026-06-10 09:33:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電子特氣概念反覆活躍 和遠氣體5天3板】電子特氣概念反覆活躍，和遠氣體走出5天3板，中船特氣漲超10%，續創歷史新高，昊華科技、凱美特氣、廣鋼氣體等衝高。"
+    },
+    {
+      "id": "4926995",
+      "time": "2026-06-10 09:33:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌1.5個基點至3.850%。"
+    },
+    {
+      "id": "mkt:019eaf29-edc4-7ff4-a105-5c57ba16ca1c",
+      "time": "2026-06-10 09:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "SSE Composite",
+        "Impact mixed"
+      ],
+      "text": "【China NBS: May food, tobacco, alcohol and dining-out prices down 0.2% MoM】China's National Bureau of Statistics said in May food, tobacco, alcohol and dining-out prices fell 0.2% MoM, shaving about 0.06 percentage points off CPI. Fresh vegetables fell 3.6% MoM (≈‑0.06 ppt impact); livestock meat fell 0.8% (≈‑0.03 ppt), with pork down 1.6% (≈‑0.03 ppt). Eggs rose 5.0% (≈+0.03 ppt) and fresh fruit rose 0.6% (≈+0.01 ppt). Of the other seven major categories, one rose, two were flat and four fell: clothing +0.6%; education, culture & entertainment and healthcare flat; household goods & services and other goods & services ‑0.4%; transport & communications ‑0.3%; housing ‑0.1%."
+    },
+    {
+      "id": "mkt:019eaf29-cefc-7ff4-a105-556c5d9bbf25",
+      "time": "2026-06-10 09:33:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share poultry sector spiked intraday; Jingji Zhinong hit the daily limit, Yike Food, Xiangjia and Yisheng also rose."
+    },
+    {
+      "id": "4926994",
+      "time": "2026-06-10 09:32:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養雞板塊短線拉昇，京基智農漲停】養雞板塊短線拉昇，京基智農漲停，益客食品、湘佳股份、益生股份跟漲。"
+    },
+    {
+      "id": "mkt:019eaf29-6e81-7ff4-a105-4ee2038822eb",
+      "time": "2026-06-10 09:32:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's Sci‑Tech Innovation 50 Index rose over 1%, led by sharp rallies in aerospace equipment, memory chips and photolithography (photoresist) stocks."
+    },
+    {
+      "id": "mkt:019eaf29-5571-7ff4-a105-42310ac6909f",
+      "time": "2026-06-10 09:32:42",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【National Bureau of Statistics: May pork down 16.1%, cuts CPI by about 0.31 percentage points】The National Bureau of Statistics said food, tobacco & alcohol and catering prices fell 0.9% YoY in May, reducing CPI by about 0.26 percentage points. Meat prices were down 7.4% YoY, trimming CPI by roughly 0.31ppt; pork plunged 16.1% YoY and accounted for most of that reduction (~0.31ppt). Fresh fruit -2.2% YoY (-0.04ppt); eggs +6.6% (+0.03ppt); fresh vegetables +1.6% (+0.02ppt); aquatic products +0.6% (+0.01ppt). Of the seven other major CPI categories, six rose YoY and one fell: other goods and services +9.9%, transport & communications +5.4%, healthcare +2.1%, household goods & services +1.8%, clothing +1.4%, education/culture/recreation +1.3%; housing -0.2%."
+    },
+    {
+      "id": "4926993",
+      "time": "2026-06-10 09:32:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機器人板塊大幅調整，*ST聯翔等跌停】機器人板塊大幅調整，*ST聯翔、*ST寶馨跌停，瑞晟智慧、麥格米特、XD美湖股、中重科技、商絡電子、雅創電子等跟跌。"
+    },
+    {
+      "id": "4926992",
+      "time": "2026-06-10 09:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.09%，成分股中，海光資訊漲9.38%，盛科通訊漲5.52%，滬矽產業漲4.63%，佰維儲存漲4.54%。"
+    },
+    {
+      "id": "4926991",
+      "time": "2026-06-10 09:32:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【力諾藥包與Changjiang Investment Holding就埃及專案建設簽署協議】6月9日，力諾藥包與Changjiang Investment Holding在埃及蘇伊士省中埃·泰達蘇伊士經貿合作區就埃及專案建設事項簽署相關協議。此次簽約將顯著提升公司在全球醫藥包裝、耐熱玻璃及高階特種玻璃材料市場的海外供應、區域服務與國際市場響應效率。力諾藥包埃及專案依託埃及連線亞非歐三大市場的區位優勢，以及中埃·泰達蘇伊士經貿合作區成熟的平臺和產業服務能力，打造面向區域市場的先進製造基地和全球化供應支點，為力諾藥包進一步拓展國際市場、最佳化全球供應鏈佈局提供重要支撐。"
+    },
+    {
+      "id": "mkt:019eaf28-753f-7ff4-a105-3b5a9cb909cb",
+      "time": "2026-06-10 09:31:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NBS: China factory-gate producer prices +3.9% YoY in May 2026, +0.5% MoM】The National Bureau of Statistics said China’s factory-gate industrial producer prices rose 3.9% year-on-year and 0.5% month-on-month in May 2026. Industrial producers’ purchase prices rose 5.8% YoY and 1.3% MoM. Average Jan–May: factory-gate prices +1.0% YoY; purchase prices +1.6% YoY."
+    },
+    {
+      "id": "mkt:019eaf28-3aff-7ff4-a105-370ed92fc3b6",
+      "time": "2026-06-10 09:31:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Select A-share chemical stocks rallied; Sinochem International and Heyuan Gas hit the daily trading limit, Kangda New Materials rose over 5%, and Haohua Technology, Zhejiang Longsheng and Dinglong Technology also advanced. Market reports say overseas supply-chain tightening coupled with a burst in downstream demand has widened the supply–demand gap, sending tungsten hexafluoride (WF6) prices sharply higher."
+    },
+    {
+      "id": "mkt:019eaf28-2926-7ff4-a105-2d6ed7dc2d0e",
+      "time": "2026-06-10 09:31:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bahrain Interior Ministry says an alarm has sounded and urges the public to move to the nearest safe location."
+    },
+    {
+      "id": "mkt:019eaf27-fd42-7ff4-a105-246432babda2",
+      "time": "2026-06-10 09:31:23",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China A-share index futures open lower in early session】CSI 300 index futures (IF) most-active contract down 0.58%; SSE 50 index futures (IH) down 0.13%; CSI 500 index futures (IC) down 0.49%; CSI 1000 index futures (IM) down 0.62% in early trade."
+    },
+    {
+      "id": "mkt:019eaf27-fcec-7ff4-a105-14174fb4a4d2",
+      "time": "2026-06-10 09:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【National Bureau of Statistics: May 2026 CPI up 1.2% YoY】China National Bureau of Statistics: May 2026 consumer prices (CPI) rose 1.2% YoY; urban +1.3%, rural +1.1%. Food -1.7%, non-food +1.9%; goods +1.6%, services +0.8%. Jan–May average CPI +1.0% YoY. MoM, CPI fell 0.1% in May (urban -0.1%, rural -0.1%); food -0.4%, non-food -0.1%; goods -0.2%, services -0.1%."
+    },
+    {
+      "id": "mkt:019eaf27-fcec-7ff4-a105-1d19dcadc220",
+      "time": "2026-06-10 09:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China May PPI MoM +0.5% (prior +1.7%)."
+    },
     {
       "id": "4926990",
       "time": "2026-06-10 09:31:16",
@@ -13,12 +312,32 @@
       "text": "【有色金屬板塊大幅調整，*ST威領跌停】有色金屬板塊大幅調整，*ST威領跌停，中金黃金、福達合金、錫業股份、興業銀錫、湖南黃金、赤峰黃金等跟跌。"
     },
     {
+      "id": "mkt:019eaf27-e6f9-7ff4-a105-0bd080c60a33",
+      "time": "2026-06-10 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open in morning trade】Main contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.01%, 10-year (T) unchanged, 30-year (TL) up 0.02%."
+    },
+    {
       "id": "4926989",
       "time": "2026-06-10 09:31:11",
       "tags": [
         "公司"
       ],
       "text": "【安克創新投資成立新公司，含AI及機器人業務】企查查APP顯示，近日，深圳市安克熠身通用裝置有限責任公司成立，經營範圍包含：服務消費機器人制造；工業機器人制造；智慧機器人的研發；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由安克創新旗下深圳市安克熠身科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019eaf27-d319-7ff4-a105-038e5a7e1457",
+      "time": "2026-06-10 09:31:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (MoM) (May) | actual 0.5% | previous 1.7%"
     },
     {
       "id": "4926988",
@@ -46,6 +365,15 @@
       "text": "創業板指跌2.01%，現報3882.282點；上證指數跌0.59%，現報3986.309點；深證成指跌1.55%，現報15031.637點。"
     },
     {
+      "id": "mkt:019eaf27-5a6a-7ff4-a104-fdab0283ac9a",
+      "time": "2026-06-10 09:30:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China consumer price index (CPI) rose 1.2% YoY in May 2026, the National Bureau of Statistics said."
+    },
+    {
       "id": "4926985",
       "time": "2026-06-10 09:30:38",
       "tags": [
@@ -68,6 +396,83 @@
         "資料"
       ],
       "text": "中國5月CPI年率 1.2%，預期1.30%，前值1.20%。"
+    },
+    {
+      "id": "mkt:019eaf26-fc04-7ff4-a104-f13f1326683d",
+      "time": "2026-06-10 09:30:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China May CPI MoM -0.1% vs -0.2% expected; April +0.3% prior."
+    },
+    {
+      "id": "mkt:019eaf26-fb17-7ff4-a104-eb518e61d58e",
+      "time": "2026-06-10 09:30:23",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "China May PPI YoY 3.9% vs expected 3.8%; April 2.8%."
+    },
+    {
+      "id": "mkt:019eaf26-fade-7ff4-a104-e2912ab35e8f",
+      "time": "2026-06-10 09:30:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "China May CPI YoY 1.2% vs consensus 1.3%; prior 1.2%."
+    },
+    {
+      "id": "mkt:019eaf26-f93a-7ff4-a104-dfa342235d38",
+      "time": "2026-06-10 09:30:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (MoM) (May) | actual -0.1% | consensus -0.2% | previous 0.3%"
+    },
+    {
+      "id": "mkt:019eaf26-caac-7ff4-a104-d1ab49526f8a",
+      "time": "2026-06-10 09:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (YoY) (May) | actual 3.9% | consensus 3.8% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019eaf26-caa7-7ff4-a104-ceb280e38930",
+      "time": "2026-06-10 09:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (YoY) (May) | actual 1.2% | consensus 1.30% | previous 1.20%"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606103766000048",
+      "time": "2026-06-10 09:30:13",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：5月CPI同比上漲1.2% PPI同比上漲3.9%】2026年5月份，全國居民消費價格同比上漲1.2%。其中，城市上漲1.3%，農村上漲1.1%；食品價格下降1.7%，非食品價格上漲1.9%；消費品價格上漲1.6%，服務價格上漲0.8%。1--—5月平均，全國居民消費價格比上年同期上漲1.0%。2026年5月份，全國工業生產者出廠價格同比上漲3.9%，環比上漲0.5%。工業生產者購進價格同比上漲5.8%，環比上漲1.3%。1—5月平均，工業生產者出廠價格比上年同期上漲1.0%，工業生產者購進價格上漲1.6%。"
     },
     {
       "id": "4926982",
@@ -103,12 +508,36 @@
       "text": "【巴西對涉華酸式焦磷酸鈉作出第二次反傾銷日落複審終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第903號決議，對原產於加拿大、中國和美國的酸式焦磷酸鈉[葡萄牙語：pirofosfato ácido de sódio(SAPP)]作出第二次反傾銷日落複審終裁，決定繼續對加拿大和美國徵收為期5年的反傾銷稅，分別為加拿大546.30－1066.30美元/噸，美國418.13－734.28美元/噸；決定不再繼續對中國涉案徵收反傾銷稅。本案涉及南共市稅號2835.39.20項下的產品。本決議自發布之日起生效。"
     },
     {
+      "id": "mkt:019eaf26-4692-7ff4-a104-c0b645ed96f8",
+      "time": "2026-06-10 09:29:41",
+      "tags": [
+        "MKT News",
+        "02178.HK",
+        "Impact bullish",
+        "00568.HK"
+      ],
+      "text": "Hong Kong-listed oil and gas equipment and services sector showed pockets of strength; 02178.HK jumped over 14%, 00568.HK rose more than 4%."
+    },
+    {
       "id": "4926978",
       "time": "2026-06-10 09:28:32",
       "tags": [
         "其他"
       ],
       "text": "阿富汗官員：巴基斯坦襲擊了庫納爾省和霍斯特省。"
+    },
+    {
+      "id": "mkt:019eaf25-27d9-7ff4-a104-ba123ce98302",
+      "time": "2026-06-10 09:28:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share components sector opened lower; Baoding Technology neared its daily limit-down, with Zhongfu Circuit, Zecheng Technology, Jingsai Technology, Sunlord Electronics and Hudian Co. among the largest decliners."
     },
     {
       "id": "4926977",
@@ -172607,142 +173036,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4913954",
-      "time": "2026-06-03 09:36:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "玻璃基板概念反覆走強，紅星發展走出7天5板，TCL科技一度逼近漲停，美迪凱、鴻利智匯、京東方A、沃格光電跟漲。"
-    },
-    {
-      "id": "4913953",
-      "time": "2026-06-03 09:36:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.03%，現報4097.609點；上證指數跌0.21%，現報4066.465點；深證成指漲0.39%，現報15651.754點。"
-    },
-    {
-      "id": "mkt:019e8b1f-a607-7ee2-b13b-7fd38387d00a",
-      "time": "2026-06-03 09:36:05",
-      "tags": [
-        "MKT News",
-        "000802.SZ",
-        "Impact bearish",
-        "002292.SZ"
-      ],
-      "text": "China A-share film and cinema chain sector slid; Beijing Culture hit its daily limit down, while Bona Film, Baina Qiancheng, China Film, Shanghai Film and Aofei Entertainment declined."
-    },
-    {
-      "id": "4913952",
-      "time": "2026-06-03 09:35:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊下挫，北京文化跌停】影視院線板塊下挫，北京文化跌停，博納影業、百納千成、中國電影、上海電影、奧飛娛樂跟跌。"
-    },
-    {
-      "id": "4913951",
-      "time": "2026-06-03 09:35:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股光通訊股盤初全線走強，曦智科技漲超10%，長飛光纖光纜漲超6%，劍橋科技漲超5%，FIT HON TENG漲超3%。"
-    },
-    {
-      "id": "mkt:019e8b1e-ed8a-7ee2-b13b-753ea0b2342e",
-      "time": "2026-06-03 09:35:18",
-      "tags": [
-        "MKT News",
-        "SZSE Component",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Shenzhen state funds direct over 90% into \"20+8\" strategic and future industries】Shenzhen has built a full‑lifecycle state capital fund system with over 500 funds; more than 90% of allocations target the \"20+8\" strategic emerging and future industries. As of last year there were about 1,500 private equity and venture managers in the city managing CNY1.4 tln of funds, roughly 10% of the national total. By end‑Q1 state capital funds dedicated to early‑stage projects exceeded CNY70 bln, reflecting a focus on earlier, smaller, longer‑term and hard‑tech investments. The Shenzhen government guidance fund managed by Shenzhen Capital Group has invested in 3,500+ projects, helped 408 portfolio firms list across capital markets, and about 1,000 invested companies have been designated national \"specialized, refined, differentiated and innovative\" small‑giant enterprises."
-    },
-    {
-      "id": "mkt:019e8b1e-ab2d-7ee2-b13b-6bb6133f074d",
-      "time": "2026-06-03 09:35:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "China's May RatingDog services PMI due in 10 minutes."
-    },
-    {
-      "id": "4913950",
-      "time": "2026-06-03 09:34:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光纖概念延續強勢 亨通光電2連板】光纖概念延續強勢，亨通光電2連板，股價續創歷史新高，永鼎股份、長飛光纖、法爾勝跟漲。"
-    },
-    {
-      "id": "mkt:019e8b1d-bfa9-7ee2-b13b-60539db1d2a0",
-      "time": "2026-06-03 09:34:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) extends gains to 2%."
-    },
-    {
-      "id": "mkt:019e8b1d-bf95-7ee2-b13b-59aea3a00edd",
-      "time": "2026-06-03 09:34:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CSI Convertible Bond Index opened down 0.09%. Shanbo CB -6.15%, Chun23 CB -4.20%, Shengxun CB -3.79%; Shenglan 02 CB +7.55%, Huamao CB +4.34%."
-    },
-    {
-      "id": "4913949",
-      "time": "2026-06-03 09:33:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳國資基金九成投向“20+8”產業】深圳已構建起覆蓋企業全生命週期的國資基金體系，各類基金超過500支，投向“20+8”戰略性新興產業叢集和未來產業資金佔比超過90%，形成專業化平臺主導、社會資本協同、政策導向鮮明的國資創投體系。深圳作為創新之城，也是國內創投行業發源地之一，創投產業根基深厚。截至去年，全市存續私募股權、創業投資基金管理機構約1500家，管理基金規模1.4萬億元，約佔全國總量十分之一，產學研資深度融合的創投生態日趨成熟。（深圳釋出）"
-    },
-    {
-      "id": "4913948",
-      "time": "2026-06-03 09:33:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股光通訊股走強 曦智科技漲超9%】截至發稿，曦智科技-P(01879.HK)漲9.32%，劍橋科技(06166.HK)漲5.58%，長飛光纖光纜(06869.HK)漲4.90%。"
-    },
-    {
-      "id": "4913947",
-      "time": "2026-06-03 09:33:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "半導體產業鏈盤初上揚，裕太微、優迅股份、盛科通訊漲超10%，帝奧微、揚傑科技、卓盛微、通富微電漲超8%。"
-    },
-    {
-      "id": "4913946",
-      "time": "2026-06-03 09:33:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基2日在社交媒體上說，俄羅斯發動大規模襲擊後，烏克蘭經歷艱難一天，基輔和第聶伯市2日當天共有22人在襲擊中身亡。（新華社）"
-    },
-    {
-      "id": "4913945",
-      "time": "2026-06-03 09:32:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光學光電子板塊短線衝高，實益達漲停】光學光電子板塊短線衝高，實益達漲停，長信科技漲超10%，TCL科技、蘇大維格、聯域股份、龍騰光電、光莆股份跟漲。"
     }
   ]
 }
