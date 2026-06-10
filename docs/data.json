@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-10 08:56:43",
-  "count": 18698,
+  "updated": "2026-06-10 09:01:20",
+  "count": 18690,
   "items": [
+    {
+      "id": "mkt:019eaf0b-3eae-7ff4-a103-cb2ed9bcddde",
+      "time": "2026-06-10 09:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.58%."
+    },
+    {
+      "id": "4926921",
+      "time": "2026-06-10 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.63%。"
+    },
+    {
+      "id": "4926920",
+      "time": "2026-06-10 08:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊公共關係部門10日釋出宣告說，伊朗在布什爾省“攔截並摧毀”了一架MQ－9型“死神”無人機。"
+    },
+    {
+      "id": "mkt:019eaf0a-a79b-7ff4-a103-c1536c8838de",
+      "time": "2026-06-10 08:59:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【CENTCOM says U.S. completed defensive strikes on Iran】CENTCOM said U.S. forces completed defensive strikes on Iran on June 9 in response to the previous day’s downing of a U.S. Army Apache helicopter. Using precision munitions from U.S. Air Force and Navy aircraft, forces struck Iranian air-defense systems, ground-control nodes and surveillance radar sites near the Strait of Hormuz. CENTCOM said the action was a proportionate response to recent attacks on U.S. forces and international merchant shipping transiting the area and that U.S. forces remain vigilant and prepared to defend against further Iranian aggression."
+    },
+    {
+      "id": "4926919",
+      "time": "2026-06-10 08:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊稱“猛烈打擊”中東地區美軍基地】據伊朗媒體10日報道，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告稱，為回應美軍以其直升機墜毀為藉口對伊朗南部地區的“侵略”，伊朗軍隊和伊朗伊斯蘭革命衛隊對中東地區美軍基地進行了“猛烈打擊”。（新華社）"
+    },
+    {
+      "id": "4926918",
+      "time": "2026-06-10 08:58:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國完成就阿帕奇直升機被擊落事件對伊朗實施的打擊。"
+    },
+    {
+      "id": "mkt:019eaf09-f30c-7ff4-a103-bd952bfc7d0c",
+      "time": "2026-06-10 08:58:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it launched heavy strikes on US bases in Middle East】Iranian media on the 10th quoted the Khatam al-Anbiya Central Headquarters as saying Iran's army and the Islamic Revolutionary Guard Corps carried out heavy strikes on US bases in the Middle East in retaliation for what Tehran called US \"aggression\" against southern Iran, which it says the US justified using a helicopter crash."
+    },
+    {
+      "id": "mkt:019eaf09-098a-7ff4-a103-b4789e707222",
+      "time": "2026-06-10 08:57:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said it has completed a retaliatory strike against Iran."
+    },
+    {
+      "id": "4926917",
+      "time": "2026-06-10 08:56:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐宏都拉斯使館提醒在洪中國公民防範熱帶風暴影響】6月9日，宏都拉斯應急管理部就熱帶風暴“克里斯蒂娜”來襲預警，將該國太平洋豐塞卡灣沿岸、巴列省阿利安薩市定為黃色中風險地區，將弗朗西斯科·莫拉桑、科馬亞瓜、喬盧特卡等九個省份定為綠色低風險地區。 中國駐宏都拉斯使館提醒在洪中國公民、中資企業及機構密切關注洪官方部門釋出的預警提醒及風險動態，提高災害防範意識，做好應急準備工作，儘量避免前往風險地區，不要靠近漲潮海岸及河流，遠離洪水和山體滑坡高發區域，切實保護好人身及財產安全。"
+    },
     {
       "id": "4926916",
       "time": "2026-06-10 08:56:06",
@@ -172474,164 +172561,6 @@
         "MKT News"
       ],
       "text": "The regional governor said Russia continues to repel drone attacks on the Leningrad Region."
-    },
-    {
-      "id": "mkt:019e8aff-c534-7ee2-b13a-55047df1a0c7",
-      "time": "2026-06-03 09:01:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened up 724.12 points, or 1.59%, at 46,281.43 on June 3 (Wednesday)."
-    },
-    {
-      "id": "4913899",
-      "time": "2026-06-03 09:01:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "技嘉在2026年臺北國際電腦展釋出下一代遊戲外設，推出AORUS K10 Infinity機械鍵盤與M10 Infinity滑鼠。"
-    },
-    {
-      "id": "mkt:019e8aff-b2d3-7ee2-b13a-4a0c69c68e52",
-      "time": "2026-06-03 09:01:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 0.26% to 976.69 yuan/gram in early trade on Wednesday June 3; Shanghai Gold Exchange Silver T+D fell 0.97% to 18,038 yuan/kg."
-    },
-    {
-      "id": "mkt:019e8aff-9568-7ee2-b13a-4464af20cda3",
-      "time": "2026-06-03 09:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The regional governor said Russian forces shot down three drones over Leningrad region."
-    },
-    {
-      "id": "4913898",
-      "time": "2026-06-03 09:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【玻利維亞國防部長辭職 埃內斯托·胡斯蒂尼亞諾接任】當地時間6月2日，記者獲悉，玻利維亞國防部長馬塞洛·薩利納斯已於當日辭職，原社會防衛與管制品事務副部長埃內斯托·胡斯蒂尼亞諾將接任該部部長職務。近日，玻利維亞爆發大規模抗議活動，主要城市街道被封鎖，多處物流供應鏈中斷，因物資短缺嚴重，玻利維亞醫療委員會已宣佈進入衛生緊急狀態。"
-    },
-    {
-      "id": "4913897",
-      "time": "2026-06-03 09:00:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯州長稱，俄軍在列寧格勒州上空擊落三架無人機。該州仍在擊退無人機襲擊。"
-    },
-    {
-      "id": "4913896",
-      "time": "2026-06-03 09:00:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.1%至46,051.58點。"
-    },
-    {
-      "id": "4913895",
-      "time": "2026-06-03 09:00:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報45,660.46。"
-    },
-    {
-      "id": "mkt:019e8afe-fc10-7ee2-b13a-390591e0fe5f",
-      "time": "2026-06-03 09:00:25",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.16%."
-    },
-    {
-      "id": "mkt:019e8afe-ed0c-7ee2-b13a-32f3f9982547",
-      "time": "2026-06-03 09:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "At the open, China's most-active futures contracts were mixed with gains outnumbering losses. Shanghai tin rose over 2%; 20# rubber jumped nearly 2%; Shanghai zinc, LME copper, Shanghai copper and coke advanced more than 1%; other rubber contracts, aluminum alloy and Shanghai aluminum gained about 1%. On the downside, container freight on the Europe route fell over 2%; polysilicon, asphalt and alumina dropped more than 1%; methanol slipped about 1%."
-    },
-    {
-      "id": "4913894",
-      "time": "2026-06-03 09:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月份中國物流業景氣指數為50.3% 重回擴張區間】中國物流與採購聯合會今天（3日）公佈5月份中國物流業景氣指數。5月份，物流業務需求穩中有升，物流業景氣指數重回擴張區間。5月份中國物流業景氣指數為50.3%，較上月上升0.6個百分點，重回擴張區間。分項指數中，大多數較上月有所回升。其中，業務總量指數、新訂單指數、固定資產投資完成額指數、從業人員指數等均位於擴張區間。5月份新訂單指數為50.2%，連續三個月回升。"
-    },
-    {
-      "id": "4913893",
-      "time": "2026-06-03 09:00:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報6290.00元。"
-    },
-    {
-      "id": "4913892",
-      "time": "2026-06-03 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續跌2.31%，錫連續漲2.24%，20號膠連續漲1.82%，滬鋅連續漲1.65%，多晶矽連續跌1.35%。"
-    },
-    {
-      "id": "4913891",
-      "time": "2026-06-03 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.15%。"
-    },
-    {
-      "id": "4913890",
-      "time": "2026-06-03 08:59:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里副總裁張凱夫離職創業】據悉，阿里副總裁張凱夫已經離職創業，方向是構建面向市場的世界模型。張凱夫在社交媒體發文稱，預測集體人類行為，尤其是市場行為，是人工智慧尚未征服的終極超能力挑戰之一。他相信目前正是啟程之時，並招募相關人才加入。"
-    },
-    {
-      "id": "4913889",
-      "time": "2026-06-03 08:59:19",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲央行政策立場轉趨鷹派 AI熱潮和原油衝擊加劇通脹壓力】亞洲央行面臨的貨幣政策從緊壓力越來越大，目前地區正困在能源短缺和AI熱潮之間，這兩種因素疊加可能會使通脹居高不下。亞洲尤其易受衝擊，因為這裡是全球製造業和技術供應鏈的中心，同時又嚴重依賴進口能源，這導致政策制定者面臨成本推動型和需求驅動型通脹雙重壓力的罕見局面。這兩重因素共同增強了升息情境。印度和日本可能在本月提高借貸成本，韓國預計將在7月跟進。印尼和斯里蘭卡已經大幅加息，而澳大利亞今年已加息三次。在數月對伊朗戰爭帶來的經濟影響進行觀望後，決策者正轉向應對通貨膨脹的模式，衝突解決方案的不確定引發了人們對亞洲燃料成本持續上漲的擔憂，而亞洲嚴重依賴霍爾木茲海峽運輸的供應。與此同時，今年全球對人工智慧的需求激增，刺激了經濟活動，這可能會波及發達亞洲晶片製造巨頭的消費價格。"
-    },
-    {
-      "id": "mkt:019e8afc-bcb2-7ee2-b13a-2906c8772310",
-      "time": "2026-06-03 08:57:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China two-exchange margin financing balance rises CNY 1.338 bln】As of June 2, Shanghai Stock Exchange margin financing balance was CNY 1,469.025 bln, up CNY 835 mln from the prior trading day; Shenzhen Stock Exchange was CNY 1,406.806 bln, up CNY 503 mln; combined margin financing balance CNY 2,875.831 bln, up CNY 1.338 bln."
     }
   ]
 }
