@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-10 23:28:46",
-  "count": 18354,
+  "updated": "2026-06-10 23:32:51",
+  "count": 18352,
   "items": [
+    {
+      "id": "4928710",
+      "time": "2026-06-10 23:31:36",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數平收，歐元斯托克指數下跌0.3%，歐元區藍籌股指數下跌0.39%。法國CAC 40指數下跌0.29%，西班牙IBEX指數下跌0.08%，英國富時100指數上漲0.27%，德國DAX指數下跌0.88%。"
+    },
+    {
+      "id": "mkt:019eb228-2842-7dd8-afa7-874a6c3352bb",
+      "time": "2026-06-10 23:30:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BLS commissioner nominee Matsumoto said the bureau's budget is determined by Congress and he hopes to have a voice/input in the budget process."
+    },
+    {
+      "id": "4928709",
+      "time": "2026-06-10 23:30:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國船舶集團總經理王國強與中國農業銀行行長王志恆舉行會談】6月10日，中國船舶集團有限公司黨組副書記、董事、總經理王國強與中國農業銀行股份有限公司黨委副書記、行長王志恆舉行會談。雙方圍繞國家戰略需求與金融服務實體經濟等主題，就進一步加強銀企合作、深化資源對接進行深入交流並達成共識。"
+    },
+    {
+      "id": "te:economy:558119",
+      "time": "2026-06-10 23:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 14 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (13.50bps), Germany 10Y (1.15bps), Japan 10Y (1.08bps) and US 10Y (0.60bps)."
+    },
+    {
+      "id": "4928708",
+      "time": "2026-06-10 23:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：勞工統計局預算由國會決定，我希望能對預算流程提出部分意見。"
+    },
+    {
+      "id": "4928707",
+      "time": "2026-06-10 23:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿波羅全球管理示警 律所和諮詢公司等專業服務行業將面臨AI顛覆】阿波羅全球管理公司聯席總裁Scott Kleinman表示，包括律師事務所、會計師事務所和諮詢公司在內的專業服務行業，很可能是下一個面臨人工智慧顛覆的領域。投資者此前一直把擔憂集中在軟體行業，以及AI將在多大程度上顛覆這些企業。但Kleinman週三在柏林SuperReturn會議的一個小組討論上表示，展望未來，收購公司應關注在專業服務領域的投資。“向在座的律師、會計師、諮詢顧問們說聲抱歉，但我確實認為，那將是一個會看到很大壓力的領域，”Kleinman表示。"
+    },
+    {
+      "id": "mkt:019eb226-b5b9-7dd8-afa7-7f2ef24cbda4",
+      "time": "2026-06-10 23:29:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Bureau of Labor Statistics commissioner nominee Matsumoto said she does not believe employment data were fabricated and attributed large revisions to technical reasons."
+    },
+    {
+      "id": "mkt:019eb226-8d04-7dd8-afa7-77495b584d40",
+      "time": "2026-06-10 23:28:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Matsumoto, nominee for U.S. Bureau of Labor Statistics director, said the agency's staff dedication and professionalism are impressive and that they would not accept the post unless they had full confidence in the personnel."
+    },
+    {
+      "id": "4928706",
+      "time": "2026-06-10 23:28:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：不認為就業資料被偽造，大幅修正源於技術層面原因。"
+    },
+    {
+      "id": "mkt:019eb226-430e-7dd8-afa7-6a27e1676314",
+      "time": "2026-06-10 23:28:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fitch says if the Iran conflict persists or global commodity volatility continues, North American midstream infrastructure for crude oil, LNG and natural gas condensate could benefit."
+    },
     {
       "id": "4928705",
       "time": "2026-06-10 23:27:48",
@@ -169056,126 +169145,6 @@
         "MKT News"
       ],
       "text": "U.S. 4-month Treasury auction as of June 3: 93.35% of allotment at the stop-out yield; prior 25.59%."
-    },
-    {
-      "id": "mkt:019e8e1d-b9dc-744e-9fd4-77b13de5097a",
-      "time": "2026-06-03 23:32:47",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction on June 3 bid-cover ratio 3.15, versus 3.01 previously."
-    },
-    {
-      "id": "mkt:019e8e1d-a31c-744e-9fd4-6f15b4391ad4",
-      "time": "2026-06-03 23:32:44",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction on June 3 stop-out yield 3.635%, prior 3.63%."
-    },
-    {
-      "id": "4915754",
-      "time": "2026-06-03 23:32:38",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.635%，投標倍數3.15。"
-    },
-    {
-      "id": "mkt:019e8e1d-7958-744e-9fd4-610769fab2b3",
-      "time": "2026-06-03 23:32:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.3) | actual 3.15 | previous 3.01"
-    },
-    {
-      "id": "mkt:019e8e1d-61c1-744e-9fd4-5aa436bedab5",
-      "time": "2026-06-03 23:32:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.3) | actual 3.635% | previous 3.63%"
-    },
-    {
-      "id": "mkt:019e8e1c-1502-744e-9fd4-57215fdb6d96",
-      "time": "2026-06-03 23:31:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium fell 3% to $1,329 an ounce."
-    },
-    {
-      "id": "te:economy:556220",
-      "time": "2026-06-03 23:30:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Colombia Exports Rise in April — Colombia’s exports rose 11.7% year-on-year to $4.6 billion in April 2026, following a 20.9% increase in March. The expansion was mainly driven by a 46.2% rise in exports of fuels and extractive industry products, supported by a 72.3% surge in shipments of petroleum and petroleum-related products. Exports from the other sectors category jumped 78.3%, entirely due to higher sales of non-monetary gold. In contrast, manufactured exports fell 8.3%, weighed down by lower shipments of machinery and transport equipment (-24.8%) and manufactured goods classified chiefly by material (-10.4%). Agricultural products, food, and beverages exports declined 27%, largely reflecting weaker sales of unroasted coffee (-49.9%) and cut flowers and foliage (-20%). In the first four months of 2026, Colombian exports totaled $18.4 billion, up 14.5% from the same period a year earlier."
-    },
-    {
-      "id": "mkt:019e8e1b-b2e9-744e-9fd4-4d2a4d05b857",
-      "time": "2026-06-03 23:30:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces chief of staff said IDF forces in Lebanon will not observe a ceasefire and that the military is taking offensive action, conducting operations and striking all threats."
-    },
-    {
-      "id": "4915753",
-      "time": "2026-06-03 23:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌1.33%，報24789.85點。法國股指初步收跌0.60%，義大利股指初步收跌0.88%、銀行指數跌1.48%，英國股指初步收跌0.40%。"
-    },
-    {
-      "id": "4915752",
-      "time": "2026-06-03 23:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌0.63%，報621.40點。歐元區STOXX 50指數初步收跌0.82%，報6058.21點。富時泛歐績優300指數初步收跌0.67%，報2480.64點。"
-    },
-    {
-      "id": "te:economy:556219",
-      "time": "2026-06-03 23:30:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Italy 10Y Bond Yield Rises by 10 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (10.17bps), Japan 10Y (8.04bps), Germany 10Y (6.35bps) and US 10Y (4.70bps)."
-    },
-    {
-      "id": "4915751",
-      "time": "2026-06-03 23:29:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會要員：停止所有戰線戰爭是伊美談判首要內容】當地時間3日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，停止所有戰線的戰爭是伊朗與美國談判的首要內容，伊朗絕不允許美國和以色列破壞地區“抵抗陣線”的團結。阿齊茲表示，伊朗堅信“抵抗陣線”能獲得勝利，並相信只要共同努力，“摧毀以色列這一最終目標就能夠實現。（央視新聞）"
     }
   ]
 }
