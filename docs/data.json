@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-11 05:23:04",
-  "count": 18342,
+  "updated": "2026-06-11 05:26:57",
+  "count": 18341,
   "items": [
+    {
+      "id": "mkt:019eb36c-547b-7dd8-afad-003fb2b12fb3",
+      "time": "2026-06-11 05:24:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard in the Sirik region of Iran."
+    },
+    {
+      "id": "4929006",
+      "time": "2026-06-11 05:24:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：錫裡克地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019eb36a-8804-7dd8-afac-fcc907338d77",
+      "time": "2026-06-11 05:22:43",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days."
+    },
     {
       "id": "mkt:019eb36a-6255-7dd8-afac-f00d7d4b5cca",
       "time": "2026-06-11 05:22:34",
@@ -168984,46 +169015,6 @@
         "公司"
       ],
       "text": "博通執行長：認可谷歌會採用多渠道採購晶片。"
-    },
-    {
-      "id": "mkt:019e8f5f-f208-7443-8fe5-2655468a73e0",
-      "time": "2026-06-04 05:24:50",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom CEO said Q2 non-AI semiconductor revenue rose 6%."
-    },
-    {
-      "id": "mkt:019e8f5f-9b75-7443-8fe5-1f8862240291",
-      "time": "2026-06-04 05:24:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Broadcom CEO reiterates expectation that AI semiconductor revenue will top $100 billion in fiscal 2027 and says AI semiconductor revenue will continue to grow in fiscal 2028."
-    },
-    {
-      "id": "4916053",
-      "time": "2026-06-04 05:24:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱愛國者導彈致科威特機場受損】伊朗伊斯蘭革命衛隊當地時間6月3日稱，革命衛隊航空航天部隊當天並未向科威特國際機場航站樓發射任何導彈。有證據顯示，美製“愛國者”反導系統在未能攔截伊朗導彈之後誤操作，導致攔截彈落入機場客運航站樓，從而造成損毀。而美軍中央司令部隨即在社交媒體平臺發表宣告，稱伊朗所稱完全是“虛假資訊”，並稱伊朗“使用無人機蓄意、有計劃且毫無道理地襲擊了該民用機場”。 科威特方面稱，科威特國際機場等多處民用設施當天“遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷”。伊朗外長阿拉格齊則在社媒平臺發文，強調伊朗武裝部隊是“自衛性打擊”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4916052",
-      "time": "2026-06-04 05:23:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國鷹牌服飾公司：需將2026年5月2日後收到的關稅退稅款中的3310萬美元支付給買方。"
     }
   ]
 }
