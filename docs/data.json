@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-10 12:26:18",
-  "count": 18725,
+  "updated": "2026-06-10 12:30:17",
+  "count": 18723,
   "items": [
+    {
+      "id": "mkt:019eafc9-a8c1-7444-ba08-0dcff441fcfb",
+      "time": "2026-06-10 12:28:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SSE Composite",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【East Money Securities' Chen Guo: seize rare opportunity to position for new China equity leg】East Money Securities deputy head of research Chen Guo said the Shanghai Composite has corrected from prior highs and, irrespective of external volatility, he no longer adopts a structural bearish view on A-shares. He expects index upside to materially exceed downside over the next quarter and advises actively seeking structural long opportunities. Chen says the next market phase will be more balanced; in tech he prefers selective China AI supply-chain names that meet four criteria: revenue and profit growth that won’t peak this year, market cap not overstating their industrial/economic position, H1 results likely to beat optimistic expectations, and no expected downward revision to next-year earnings. He is especially bullish on carbon-related large caps in H2 and highlights A-share and Hong Kong-listed leaders in new and legacy energy, financials and property, new consumption, and internet as candidates for systemic re-rating."
+    },
+    {
+      "id": "mkt:019eafc9-0c4a-7444-ba08-052a7664a1b4",
+      "time": "2026-06-10 12:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF said trading will be suspended from the afternoon market open on June 10, 2026 through that day's market close; redemption services will continue to operate as normal during the suspension."
+    },
+    {
+      "id": "4927286",
+      "time": "2026-06-10 12:27:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方財富證券陳果：抓住難得機遇，積極佈局中國股市新一輪行情】6月10日，東方財富證券研究所副所長陳果釋出A股市場點評稱，抓住難得機遇，積極佈局中國股市新一輪行情。“當前上證指數已從前期高點有所調整，無論後續外部如何動盪，我認為戰略上都不能再看空A股。未來一個季度，指數上漲空間將遠遠大於下跌空間，後續應該先積極尋找結構做多方向。”陳果表示。陳果表示，下一輪行情風格將更加平衡。在科技股中，他傾向去偽存真，精選“營收、盈利增速今年不會見頂+市值未透支其在產業與經濟中地位+半年報有望好於市場樂觀預期+明年盈利預期不會下修”的優質中國AI產業鏈公司。同時，陳果特別看好下半年A股碳基龍頭股的表現。重點看好中國A股及港股的新老能源、金融地產、新消費和網際網路龍頭資產，認為其有望迎來系統性重估機會。"
+    },
+    {
+      "id": "4927285",
+      "time": "2026-06-10 12:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗告誡地區各國，勿允許美方使用其領土。"
+    },
+    {
+      "id": "4927284",
+      "time": "2026-06-10 12:26:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代汽車印度公司：金奈工廠將於6月22日前恢復正常生產】現代汽車印度公司週三表示，受供應商摩比斯印度工廠上週火災影響，金奈工廠生產一度中斷，該工廠預計將於 6 月 22 日全面恢復正常生產。"
+    },
     {
       "id": "4927283",
       "time": "2026-06-10 12:24:48",
@@ -172831,62 +172879,6 @@
         "Japan & APAC"
       ],
       "text": "Japan 5-year bond yield rose 5.0 bps to 1.905%."
-    },
-    {
-      "id": "4914231",
-      "time": "2026-06-03 12:30:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：長江儲存有望憑藉儲存需求躍居全球市場第三】研究公司Counterpoint表示，中國儲存晶片製造商長江儲存有望從人工智慧基礎設施建設中受益。人工智慧熱潮正推動對長江儲存專攻的Nand快閃記憶體創紀錄的需求，推動第一季度該市場規模同比增至3.5倍，達到460億美元。Counterpoint在一份報告中稱，在第一季度，隨著長江儲存從強勁的國內需求和供應短缺中獲利，其收入同比飆升445%，使其在全球市場的份額達到13%。研究員MS Hwang認為，注資將為長江儲存提供所需的火力，使其領先於競爭對手鎧俠和美光科技，並確立其作為全球第三大Nand供應商的地位。"
-    },
-    {
-      "id": "4914230",
-      "time": "2026-06-03 12:29:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【提前瞄定今夏野火 歐盟部署最大規模應對措施】歐盟委員會2日發表宣告說，鑑於歐洲各地野火風險日益加劇，歐盟正部署最大規模應對措施，包括透過歐盟民防機制協助籌措資金，協調部署創紀錄數量的消防員、飛機和應急專家。宣告說，來自14個歐洲國家和地區的近800名消防員將被派往塞普勒斯、希臘、義大利、法國、西班牙和葡萄牙等野火高發地區。此外，22架飛機和5架直升機已處於待命狀態，隨時提供支援。這是旨在應對野火的預先部署計劃2022年推出以來部署規模最大的一次。"
-    },
-    {
-      "id": "4914229",
-      "time": "2026-06-03 12:29:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國信證券：英偉達Rubin架構釋出 CCL上游材料體系升級】國信證券釋出研報稱，基礎化工業建議關注聖泉集團(605589.SH)，自主研發的聚苯醚樹脂透過國內重點頭部企業認證，公司同時擁有碳氫樹脂(ODV)生產能力，產能快速擴張。東材科技(601208.SH)，公司自主研發出碳氫樹脂、聚苯醚樹脂、苯並噁嗪樹脂和特種環氧樹脂等電子級樹脂材料，多種產品應用於下游頭部覆銅板廠商。未來聚四氟乙烯由於極低的介電損耗(Df)數值，有望進入M10材料體系，建議關注國內聚四氟乙烯龍頭企業東嶽集團(00189)。"
-    },
-    {
-      "id": "4914228",
-      "time": "2026-06-03 12:29:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【韓冬已任寧夏回族自治區黨委常委、宣傳部部長】“寧夏宣傳”微信公眾號訊息，6月2日，寧夏回族自治區黨委常委、宣傳部部長韓冬在銀川市永寧縣閩寧鎮調研基層文化工作。上述資訊顯示，韓冬已任寧夏回族自治區黨委常委、宣傳部部長。"
-    },
-    {
-      "id": "4914227",
-      "time": "2026-06-03 12:28:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普渡機器人CEO稱公司正在為香港上市做準備】日經新聞報道稱，普渡機器人創始人和執行長張濤接受採訪時表示，公司正在為香港上市做準備。"
-    },
-    {
-      "id": "4914226",
-      "time": "2026-06-03 12:27:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將維多利亞的秘密評級從買入下調至持有，並將目標價從65美元上調至73美元。"
-    },
-    {
-      "id": "4914225",
-      "time": "2026-06-03 12:26:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【低估值優質科技股梳理】據統計，在TMT板塊（電子、計算機、通訊、傳媒行業），10家及以上機構評級的個股中，有20股根據機構一致預測2027年淨利測算的市盈率不足20倍。其中，TCL科技、巨人網路兩隻個股前瞻市盈率均不足10倍。從股價表現來看，立訊精密、京東方A、工業富聯年內累計漲幅均漲超20%。傳媒股出現普跌，巨人網路、芒果超媒、愷英網路等均跌超20%。(證券時報)"
     }
   ]
 }
