@@ -1,7 +1,188 @@
 {
-  "updated": "2026-06-10 15:48:02",
-  "count": 18615,
+  "updated": "2026-06-10 15:51:51",
+  "count": 18617,
   "items": [
+    {
+      "id": "mkt:019eb083-133e-7aad-8121-ed9b114c7811",
+      "time": "2026-06-10 15:50:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "2357.TW"
+      ],
+      "text": "【Tencent Cloud, ASUS sign strategic cooperation to deploy personal cloud drives on notebooks】Tencent Cloud and ASUS signed a strategic cooperation to jointly launch a personal cloud drive for millions of notebook users, based on Tencent Cloud’s self-developed AgentBucket intelligent storage. The deal is the first large-scale commercial roll-out of Tencent Cloud’s enterprise-grade, scenario-based storage capability on a leading PC brand and signals cloud storage shifting from an optional PC add-on to core infrastructure supporting the AI‑PC trend."
+    },
+    {
+      "id": "mkt:019eb082-b46a-7aad-8121-e05a0058c748",
+      "time": "2026-06-10 15:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India does not possess the excess manufacturing capacity in textiles and steel alleged in the US Section 301 investigation."
+    },
+    {
+      "id": "4927592",
+      "time": "2026-06-10 15:50:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林稱其攔截了來自伊朗的導彈和無人機】巴林國防軍10日在宣告中表示，攔截了“多次”伊朗空襲，並譴責伊朗“用導彈和無人機襲擊巴林平民”。"
+    },
+    {
+      "id": "4927591",
+      "time": "2026-06-10 15:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印度並不像美國貿易代表辦公室301調查所指控的那樣，擁有過剩的紡織、鋼鐵製造業產能。"
+    },
+    {
+      "id": "4927590",
+      "time": "2026-06-10 15:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲與華碩電腦簽署戰略合作協議】6月9日，騰訊雲與華碩電腦正式簽署戰略合作協議：雙方將基於騰訊雲自研的Agent Bucket智慧儲存能力，共同打造面向百萬級筆記本使用者的“個人空間盤”。這是騰訊雲端儲存的企業級雲端儲存場景化能力，首次在頭部PC品牌側實現大規模的商用落地；也意味著雲端儲存正在從過去PC的可選配件，正式升級為擁抱AI PC趨勢的基礎設施之一。"
+    },
+    {
+      "id": "4927588",
+      "time": "2026-06-10 15:49:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構稱800VDC與CPO落地時間都將延後 預計Scale-up CPO大規模匯入時間將在2029年】AI產業鏈明星分析機構SemiAnalysis最新發布的一篇報告稱800VDC與CPO落地時間都將延後。800VDC方面，該報告指出，這一架構遭到超大規模雲廠商質疑，部署進度正在放緩，相關產品量產出貨時間已延遲至2028年以後，同時400VDC方案仍在按計劃推進下半年落地。CPO方面，該報告直言2027年落地的市場預期過於樂觀，實際部署進度將晚於華爾街當前普遍預測。報告計劃下調2026年和2027年的Scale-out CPO出貨預測，預計Scale-up CPO大規模匯入時間將在2029年，而市場此前普遍預期在2027-2028年。相較之下，未來幾年更多將是NPO專案進入量產。"
+    },
+    {
+      "id": "4927587",
+      "time": "2026-06-10 15:49:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果延遲“上新”賴歐盟？歐委會拒“背鍋”】歐盟委員會9日指責美國蘋果公司把在歐盟地區延遲上線語音助手Siri的人工智慧(AI)升級版歸咎於歐盟《數字市場法》，稱這是蘋果單方面決定，與歐盟法律法規無關。（新華社）"
+    },
+    {
+      "id": "4927586",
+      "time": "2026-06-10 15:49:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超聲電子旗下汕頭印製板公司增資至8.6億 增幅約88%】天眼查App顯示，近日，汕頭超聲印製板（三廠）有限公司發生工商變更，註冊資本由約4.6億人民幣增至約8.6億人民幣，增幅約88%。該公司成立於2019年9月，法定代表人為莫翊斌，經營範圍包括生產經營雙面及多層印製板、高密度互連積層板、封裝載板。股東資訊顯示，該公司由超聲電子（000823）、汕華髮展有限公司共同持股。"
+    },
+    {
+      "id": "te:markets:557971",
+      "time": "2026-06-10 15:49:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE MIB Rises for 3rd Session — The FTSE MIB rose 0.6% to around 50,585 in early trading on Wednesday, marking a third consecutive session of gains, with most heavyweight stocks supporting the advance despite new US strikes against Iran. Investors appeared to shrug off persistent Middle East tensions after the US launched retaliatory strikes on Iran following the crash of a US Army helicopter. Market participants are now awaiting key US inflation data later in the day for further clues on the Federal Reserve’s policy path. Attention is also on the ECB’s policy decision on Thursday, where policymakers are widely expected to deliver a 25-basis-point rate hike. Among the index’s top performers were Unicredit (+1.4%), Poste Italiane (+1.4%), Leonardo (+1.6%), STMicroelectronics (+2.2%), and Banca Monte dei Paschi di Siena (+1.9%)."
+    },
+    {
+      "id": "mkt:019eb081-af73-7aad-8121-daa62ac9341b",
+      "time": "2026-06-10 15:49:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard near Qeshm Island, Iran; cause unclear."
+    },
+    {
+      "id": "4927585",
+      "time": "2026-06-10 15:49:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電鑫龍：蘇州算力中心專案正按計劃正常推進】中電鑫龍6月10日在互動平臺表示，蘇州算力中心專案目前正按合同約定與既定計劃正常推進，公司將嚴格遵循企業會計準則和會計政策，根據專案實際完工進度進行相關財務核算。有關專案及業績情況，敬請關注公司相關公告。"
+    },
+    {
+      "id": "4927584",
+      "time": "2026-06-10 15:49:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫燕食品：實際控制人鍾懷軍提前全部購回質押股票】紫燕食品公告稱，2026年6月9日，實際控制人鍾懷軍提前全部購回質押股票，本次解除質押346.88萬股，佔其所持股份比例5.07%，佔公司總股本比例0.84%。解除質押後，鍾懷軍剩餘累計質押股份為0股。截至公告披露日，實際控制人及其一致行動人合計持股3.22億股，佔公司總股本比例78.19%，累計質押3830.29萬股，佔所持公司股份總數的11.89%，佔公司總股本的9.30%。"
+    },
+    {
+      "id": "4927583",
+      "time": "2026-06-10 15:48:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：義大利聯盟黨考慮重組以結束危機。"
+    },
+    {
+      "id": "4927582",
+      "time": "2026-06-10 15:48:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【凱投宏觀：AI可能對美國就業產生輕微的正面影響】凱投宏觀的Stephen Brown在一份報告中表示，根據最新的就業資料，AI的發展可能對美國就業產生了適度的正面影響。他說：“我們現在開始看到資料中心建設對製造業和非住宅建築業就業人數產生更明顯的正面影響。”Brown說，自今年年初以來，與資料中心建設相關的非住宅建築和製造行業的就業崗位顯著增加。“在微觀層面上，美聯儲最近的幾篇論文未能找到證據表明AI的使用正在導致勞動力市場出現任何明顯的疲軟。”"
+    },
+    {
+      "id": "te:markets:557970",
+      "time": "2026-06-10 15:48:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX on Cautious Note — The DAX 40 traded near the flatline around 24,400 on Wednesday, as caution prevailed amid renewed US attacks on Iran following the downing of a helicopter in the Strait of Hormuz. However, the latest developments had a limited effect on oil prices, as hopes for a peace deal remained alive. Meanwhile, traders looked ahead to the ECB's policy decision scheduled for tomorrow. Infineon Technologies topped the index along with Qiagen NV, both adding around 2%."
+    },
+    {
+      "id": "4927581",
+      "time": "2026-06-10 15:48:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，格什姆島附近發生爆炸，目前爆炸原因尚不清楚。"
+    },
+    {
+      "id": "4927580",
+      "time": "2026-06-10 15:47:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華醫療：子公司產品獲二類醫療器械註冊證】新華醫療公告稱，子公司山東新華醫用環保裝置有限公司近日收到山東省藥監局頒發的《中華人民共和國醫療器械註冊證》，產品為醫用分子篩製氧系統，批准日期為2026年6月3日，有效期至2031年6月2日。該產品整合多項技術，具備多種優勢，可與現有產品線形成協同效應。不過，產品上市後實際銷售情況取決於市場推廣效果，目前無法預測對公司未來經營業績的具體影響。"
+    },
+    {
+      "id": "4927579",
+      "time": "2026-06-10 15:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【擔心閣員“變節” 斯塔默強勢“守位”】多名知情人士9日披露，英國首相斯塔默打算警告其內閣成員，如果他們在工黨黨首競選中支援他的對手，就辭職走人。大曼徹斯特市市長安迪·伯納姆被認為有望替代斯塔默，但目前尚未明確表態是否對後者發起挑戰，工黨內部不少人擔心這場黨首之爭愈演愈烈，可能引發政壇動盪。（新華社）"
+    },
+    {
+      "id": "4927578",
+      "time": "2026-06-10 15:47:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美圖CPO 陳劍毅：面向垂直場景 影像節將推出8款產品】2026美圖影像節將於6月17日在廈門舉辦。會前，美圖首席產品官陳劍毅透露，今年的影像節將推出8款產品，其中包括一款“AI時代的美圖秀秀或美顏相機”。陳劍毅表示，當前AI行業正從單Agent模式向多Agent模式演進，共同向使用者交付結果。他進一步解釋說，美圖將面向垂直場景推出全新產品，“不是做大而全的產品。（新浪科技）"
+    },
+    {
+      "id": "4927577",
+      "time": "2026-06-10 15:47:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepWay深向向馬士基交付10臺新能源重卡】6月10日，DeepWay深向與馬士基在上海臨港完成交付儀式，10臺智慧新能源重卡正式落地投運。這批車輛將專職承擔馬士基臨港綜合物流旗艦倉與上海洋山深水港之間的集裝箱專線運輸任務。"
+    },
     {
       "id": "mkt:019eb07f-c179-7aad-8121-d6b7a4361a53",
       "time": "2026-06-10 15:47:03",
@@ -171689,176 +171870,6 @@
         "Importance 1"
       ],
       "text": "Italy Private Sector Activity Growth Largely Unchanged — The S&P Global Italy Composite PMI came in at 50.4 in May 2026, largely unchanged from April's 50.5. Beneath the headline figure, a sharper contraction in services activity was largely offset by stronger growth in manufacturing output. Overall, new business volumes declined slightly, with the weakness concentrated in the services sector, in contrast to April. Both manufacturing and services firms reported modest employment growth, while backlogs of work remained broadly stable. Meanwhile, inflationary pressures intensified, with input cost inflation accelerating to its highest level in more than three and a half years. Firms also raised selling prices at the fastest pace in just over three years, reflecting efforts to pass higher costs on to customers."
-    },
-    {
-      "id": "te:markets:556069",
-      "time": "2026-06-03 15:51:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Trades Lower — Frankfurt's DAX 40 fell 0.8% to around 24,900 on Wednesday, pressured by geopolitical uncertainty and the return of President Trump’s trade policy rhetoric. Reports of renewed clashes between the US and Iran raised concerns over the fragile ceasefire, pushing oil prices higher. At the same time, the US administration on Tuesday proposed imposing additional tariffs of 10% or 12.5% on imports from 60 economies, including the EU and the UK, linked to forced labour imports, potentially reopening trade tensions. Energy-sensitive airlines came under pressure, with Lufthansa down around 1%, while autos and banks also posted losses."
-    },
-    {
-      "id": "4914593",
-      "time": "2026-06-03 15:51:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【OECD警告中東衝突若久拖不決 全球經濟或面臨滑坡風險】經合組織(OECD)表示，全球經濟的命運取決於中東衝突，這場衝突已經抑制了經濟增長，還 可能引發衰退和更嚴重的通脹。這家總部位於巴黎的機構在其最新經濟展望報告中指出，價格壓力和需求疲軟的局面預計將持續一段時間，即使在霍爾木茲海峽可能重開後，情況仍可能進一步惡化。即便在預測相關干擾僅限於短期的情境下，OECD也上調了對2027年的通脹預期，並對3月公佈的已然疲弱的增長預測僅作了微調。報告還描繪了一種更為黯淡的情境：長期對抗和經濟衝擊將引發40年來最嚴重的全球放緩，程度僅次於新冠疫情和2009年金融危機。全球通脹率今年料上升0.4個百分點，2027年料上升1.3個百分點。“中東衝突已成為影響全球經濟前景的主要因素，”首席經濟學家Stefano Scarpetta表示。“全球經濟如今再次承壓。”"
-    },
-    {
-      "id": "4914592",
-      "time": "2026-06-03 15:51:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【通合科技可轉債中籤號出爐 共約16.54萬個】通合科技(300491)6月3日披露可轉債網上中籤結果，中籤號碼共約16.54萬個，每個中籤號碼只能認購10張（1000元）通合轉債。"
-    },
-    {
-      "id": "4914591",
-      "time": "2026-06-03 15:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國多方呼籲防範針對供電設施的無人機襲擊】英國多名政府官員、議員及行業人士近日接連發聲，呼籲升級供電基礎設施的安防措施，強化針對無人機襲擊的防護，防範無人機襲擾引發大面積停電事故。英國天空新聞頻道網站2日報道，這些人擔憂，由變電站、輸電鐵塔、電纜組成的整個供電網路存在安防隱患，一旦發生衝突，極易淪為無人機打擊目標。他們批評相關部門一味壓低造價、追求施工速度，不願投入資金加裝無人機攔截網等防護裝置，也不願進行大規模電纜入地改造。他們提及英國國家電力公司一項總額300億英鎊（約合2733億元人民幣）的老舊電網升級擴建計劃，認為本輪升級改造幾乎沒有對防範能源設施遭無人機侵擾作出針對性的投入與部署。（新華社）"
-    },
-    {
-      "id": "4914590",
-      "time": "2026-06-03 15:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪鵬科技：完成土地及在建工程權屬變更 推進總部及研發基地建設】豪鵬科技公告稱，公司2026年4月28日以5693.19萬元競得廣東省深圳市龍崗區平湖街道土地使用權50%份額及其地上在建工程50%份額。近日，公司已辦理完成相關權屬變更手續，取得《中華人民共和國不動產權證書》。此前公司已擁有該拍賣標的50%份額，至此公司擁有100%份額。後續將以自有或自籌資金建設總部及研發基地，但專案存在投資超支、工期延誤等風險，短期內對業績無重大影響。"
-    },
-    {
-      "id": "mkt:019e8c76-2df3-7dd8-946d-e235ef78e3c3",
-      "time": "2026-06-03 15:50:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "France May services PMI (final) 44.3 vs consensus 42.9; April final 42.9."
-    },
-    {
-      "id": "4914589",
-      "time": "2026-06-03 15:50:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國5月服務業PMI終值 44.3，預期 42.9，初值 42.9。法國5月綜合PMI終值 44.9，預期 43.5，初值 43.5。"
-    },
-    {
-      "id": "mkt:019e8c76-224b-7dd8-946d-df1ef4151279",
-      "time": "2026-06-03 15:50:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France May final composite PMI 44.9, expected 43.5, prior 43.5."
-    },
-    {
-      "id": "4914588",
-      "time": "2026-06-03 15:50:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【動物代替人物 英國將票選新版英鎊鈔票圖案】英國民眾眼下面臨一個抉擇：為計劃發行的新版英鎊鈔票選擇動物圖案，代替如今鈔票上的知名人物肖像。路透社2日以英國央行英格蘭銀行為訊息源報道，英國在位君主肖像自1960年起就被印在紙幣上，新版英鎊鈔票也將保留這個傳統，但鈔票另一面的人物將被替換成動物。當前，5英鎊鈔票上的人物是二戰時期英國首相丘吉爾，10英鎊上是小說家簡·奧斯汀，20英鎊上是畫家透納，50英鎊上則是數學家圖靈。為選出4種動物代替這4個人物，英格蘭銀行和動物學家給出18種備選動物，包括寬吻海豚、大西洋海鸚、大西洋鮭、歐洲棕兔、倉鴞、姥鯊、歐洲刺蝟、普通翠鳥、黃尾熊蜂、灰海豹、白腰杓鷸、普通蛙、松貂、大斑啄木鳥、帝王偉蜓、赤狐、白尾海雕和沼澤貝母蝶。（新華社）"
-    },
-    {
-      "id": "mkt:019e8c75-f36b-7dd8-946d-d1a9969521db",
-      "time": "2026-06-03 15:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Services PMI Final (May) | actual 44.3 | consensus 42.9 | previous 42.9"
-    },
-    {
-      "id": "mkt:019e8c75-f361-7dd8-946d-cc6aeb5213ef",
-      "time": "2026-06-03 15:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Composite PMI Final (May) | actual 44.9 | consensus 43.5 | previous 43.5"
-    },
-    {
-      "id": "te:markets:556066",
-      "time": "2026-06-03 15:49:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Declines — The FTSE MIB fell to around 50,000 on Wednesday, giving back gains from the previous session, as renewed tensions in the Middle East and fresh US tariff threats dampened investor sentiment. The US Trade Representative has proposed additional duties of up to 12.5% on 60 trading partners, including the EU, over alleged failures to ban goods made with forced labor. Meanwhile, the US and Iran reportedly exchanged fresh strikes, despite President Trump saying US–Iran talks were ongoing toward a peace deal, while Iranian media reported communications had broken down. Heavyweight financials were among the top laggards as yields rose again and oil prices continued to advance. Leading the losses were UniCredit (-1.5%), Intesa Sanpaolo (-1%), Assicurazioni Generali (-0.6%), Mediobanca (-1.3%), BPER Banca (-1.1%), and Banca Mediolanum (-1.5%). On the data front, PMI surveys showed that Italy’s private sector growth edged down in May, with the services sector remaining in contraction."
-    },
-    {
-      "id": "4914587",
-      "time": "2026-06-03 15:49:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧美集團中國任命袁勇為執行長】6月3日，奧美集團中國宣佈，原奧美廣告中國總裁袁勇即日起晉升為奧美集團中國執行長。在新的領導崗位上，袁勇將全面負責奧美集團中國的人才發展、客戶業務及增長戰略，並向WPP大中華區執行長韋棠夢彙報。"
-    },
-    {
-      "id": "4914586",
-      "time": "2026-06-03 15:49:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國臺灣證券交易所：2025全年共有45宗首次公開募股（IPO），總計募資270億美元，幾乎是2024年募資額的兩倍。"
-    },
-    {
-      "id": "4914585",
-      "time": "2026-06-03 15:48:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞阿姆pec農業公司預測，馬來西亞5月棕櫚油出口量為113.8781萬噸，4月出口量為134.6859萬噸。"
-    },
-    {
-      "id": "4914584",
-      "time": "2026-06-03 15:48:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "奈及利亞將6月份伊博原油官方售價下調至每桶上漲5.26美元。"
-    },
-    {
-      "id": "4914583",
-      "time": "2026-06-03 15:48:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海口市委書記範少軍會見京東集團副總裁王彬】據海口釋出，6月3日，海口市委書記範少軍在市行政辦公區會見京東集團副總裁王彬一行。會談中，雙方圍繞把握海南自由貿易港封關運作新機遇，充分發揮各自優勢，在總部經濟、數字經濟、消費場景創新等領域深化市企合作進行交流。雙方表示，將立足現有良好合作基礎，加快推進合作專案建設和落地展業，助力自貿港核心引領區和“六個之城”建設，實現互利共贏發展。"
-    },
-    {
-      "id": "4914582",
-      "time": "2026-06-03 15:48:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鐵特貨：聘任穆鑫為總經理並提名為非獨立董事候選人】中鐵特貨公告稱，公司第三屆董事會第九次會議於2026年6月3日召開，審議透過聘任穆鑫為公司總經理，任期與第三屆董事會一致；提名穆鑫為公司第三屆董事會非獨立董事候選人，尚需提交2026年第一次臨時股東會審議。此外，董事會決定於6月23日召開2026年第一次臨時股東會。穆鑫曾在多家鐵路部門任職，2026年5月至今任公司黨委副書記、總經理。"
     }
   ]
 }
