@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-11 01:11:18",
-  "count": 18415,
+  "updated": "2026-06-11 01:15:23",
+  "count": 18421,
   "items": [
+    {
+      "id": "mkt:019eb287-a2a3-7dd8-afa9-8adb19319311",
+      "time": "2026-06-11 01:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran president PEZESHKIAN: Iran will steadfastly resist pressure and threats】On the 10th local time, Iranian president PEZESHKIAN said threats against infrastructure — from transport networks to power and water utilities — are not demonstrations of strength but desperate acts against national will, and Iran will steadfastly resist any pressure or threat. Fox News reported on the 10th that U.S. President Trump said he was \"close\" to ordering new strikes on Iranian power plants and bridges, describing the move as a response to Iran \"dragging out\" negotiations."
+    },
+    {
+      "id": "4928832",
+      "time": "2026-06-11 01:14:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首次公開募股認購超額倍數超四倍。"
+    },
+    {
+      "id": "mkt:019eb287-42e6-7dd8-afa9-83ebaa5249f2",
+      "time": "2026-06-11 01:14:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish",
+        "CNA.L",
+        "EDF.PA"
+      ],
+      "text": "Market sources said French utility EDF and UK energy firm Centrica are poised to agree a draft deal with the UK government to extend the operating life of the Sizewell B nuclear plant by 20 years."
+    },
+    {
+      "id": "4928831",
+      "time": "2026-06-11 01:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力集團（EDF）與森特理克集團（Centrica）即將與英國政府達成框架協議，將賽茲韋爾B核電站的運營壽命延長20年。"
+    },
+    {
+      "id": "4928830",
+      "time": "2026-06-11 01:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：伊朗將堅定不移抵禦任何壓力和威脅】當地時間10日，伊朗總統佩澤希齊揚表示，從交通網路到電力和水務行業，任何針對這些基礎設施的威脅都不是實力展示，而是違背國家意志的絕望之舉。伊朗將堅定不移地抵禦任何壓力和威脅。美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb285-e094-7dd8-afa9-7d2cc5ba6e80",
+      "time": "2026-06-11 01:12:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Trump says US removing millions of barrels of oil from Iran nightly; Energy Secretary Wright says unaware】President Trump told reporters at the White House the US has been removing \"millions of barrels\" of oil from Iran every night, saying those shipments explain why oil trades around $85-90/bbl rather than $250 and that fuel prices would fall immediately once the war ends. Asked about the claim, Energy Secretary Wright said he was not aware of US shipments of Iranian oil."
+    },
+    {
+      "id": "4928829",
+      "time": "2026-06-11 01:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部長馬林表示，要等到7月19日世界盃落幕，他才能睡個安穩覺。"
+    },
+    {
+      "id": "4928828",
+      "time": "2026-06-11 01:11:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果稱，埃博拉確診病例數已升至635例。"
+    },
+    {
+      "id": "te:markets:558142",
+      "time": "2026-06-11 01:10:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Qualcomm Stock Price Hits 4-week Low — Qualcomm shares decreased to 191.01 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 19.48%, and in the last 12 months, it increased 19.92%."
+    },
     {
       "id": "4928827",
       "time": "2026-06-11 01:08:55",
@@ -169746,35 +169830,6 @@
         "WTI"
       ],
       "text": "Iranian outlet Fars News, citing a member of Tehran’s negotiation team, said the first phase of talks in Islamabad failed because Iran refused to enter nuclear negotiations."
-    },
-    {
-      "id": "te:markets:556240",
-      "time": "2026-06-04 01:14:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Ease Further — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and the Dow lost more than 0.5%. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, AI infrastructure stocks were resilient. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade. Broadcom was slightly higher ahead of its earnings after the bell."
-    },
-    {
-      "id": "4915838",
-      "time": "2026-06-04 01:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員表態：我方不會簽署一份漠視黎巴嫩利益的協議。"
-    },
-    {
-      "id": "4915837",
-      "time": "2026-06-04 01:13:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員的話：伊斯蘭堡首輪談判未能取得成果，原因是伊朗拒絕開展核談判。"
     }
   ]
 }
