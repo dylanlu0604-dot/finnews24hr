@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-11 02:49:02",
-  "count": 18439,
+  "updated": "2026-06-11 02:52:53",
+  "count": 18444,
   "items": [
+    {
+      "id": "mkt:019eb2df-f3dd-7dd8-afaa-e3a90a60d2a1",
+      "time": "2026-06-11 02:51:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $4,100/oz, lowest since November】Spot gold fell below $4,100/oz to $4,097.68/oz, the weakest level since November last year."
+    },
+    {
+      "id": "4928910",
+      "time": "2026-06-11 02:50:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4100美元/盎司，日內跌3.77%。"
+    },
+    {
+      "id": "4928909",
+      "time": "2026-06-11 02:50:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶93.10美元，上漲1.65美元，漲幅1.8%。"
+    },
+    {
+      "id": "mkt:019eb2de-b634-7dd8-afaa-d924656ca6a1",
+      "time": "2026-06-11 02:50:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "MOL",
+        "Impact bullish"
+      ],
+      "text": "Serbia's energy minister said Serbia has completed negotiations with Hungary's MOL on a shareholders' agreement for the Serbian Oil Industry company."
+    },
+    {
+      "id": "4928908",
+      "time": "2026-06-11 02:49:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "塞爾維亞能源部長表示，塞爾維亞已完成與匈牙利摩爾集團（MOL）就塞爾維亞石油工業公司（NIS）股東協議的談判。"
+    },
+    {
+      "id": "4928907",
+      "time": "2026-06-11 02:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員伊麗莎白·沃倫要求美國證券交易委員會暫緩推進SpaceX的首次公開募股。"
+    },
     {
       "id": "4928906",
       "time": "2026-06-11 02:46:51",
@@ -169952,14 +170010,6 @@
         "Impact bearish"
       ],
       "text": "【Guo Mingchi: Apple cuts Vision Pro from glasses roadmap, shifts resources to mass‑market smart glasses】Tianfeng analyst Guo Mingchi said John Ternus, expected to become Apple’s next CEO, has approved scaling back Apple’s glasses roadmap—removing the Vision Pro line and reallocating resources to smart‑glasses with broader consumer appeal. Supply‑chain checks show AR/XR smart glasses with displays using waveguide optics delayed to 2029; non‑display AI glasses (Ray‑Ban Meta‑style) remain on track for 2027."
-    },
-    {
-      "id": "4915890",
-      "time": "2026-06-04 02:50:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "橡樹資本高管Christina Lee：私人信用行業現在面臨壓力測試。一旦喪失（投資者的）信任，就再難贏回來。（彭博電視）"
     }
   ]
 }
