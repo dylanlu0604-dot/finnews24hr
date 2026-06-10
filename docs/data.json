@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-10 14:32:47",
-  "count": 18681,
+  "updated": "2026-06-10 14:36:28",
+  "count": 18682,
   "items": [
+    {
+      "id": "mkt:019eb03e-9600-799a-b41d-804a0b4b1526",
+      "time": "2026-06-10 14:35:52",
+      "tags": [
+        "MKT News",
+        "CHL.N",
+        "Impact bullish",
+        "0941.HK"
+      ],
+      "text": "【Meiri Interactive signs strategic cooperation with China Mobile Zhejiang】On June 9, Meiri Interactive signed a strategic cooperation agreement with China Mobile Zhejiang to focus on \"trusted data spaces and controllable large models\", collaborating on data element infrastructure and AI application deployment."
+    },
+    {
+      "id": "te:economy:557920",
+      "time": "2026-06-10 14:35:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Household Spending MoM",
+        "Importance 1"
+      ],
+      "text": "Swedish Household Spending Rebounds in May — Household spending in Sweden increased 0.7% month-on-month in May 2026, rebounding from a 0.8% drop in the previous month. Consumption recovered for housing and utilities (1.4% vs -0.1% in April), transportation (1.3% vs -5.5%), and restaurants and hotels (1% vs -0.1%). At the same time, spending declined at a slower pace for clothing and footwear (-0.2% vs -5.8%), recreation and culture (-2.6% vs -5.3%), and miscellaneous goods and services (-1.3% vs -3.8%), while consumption recorded an increase for information and communication (2.6% vs 2.5%). On the other hand, spending moderated for food and non-alcoholic beverages (1.3% vs 1.8%) and dropped for alcoholic beverages and tobacco (-0.4% vs 1.7%) and healthcare (-4.5% vs 3.1%). On a yearly basis, household consumption advanced 3.4% in May, following a 1.8% rise in the preceding period."
+    },
+    {
+      "id": "4927432",
+      "time": "2026-06-10 14:35:03",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元在美國通脹資料公佈前下跌】隨著投資者在今日晚些時候美國通脹資料公佈前變得謹慎，美元小幅下跌。德意志銀行分析師在一份報告中說：“這是一個重要的資料，因為最近幾周關於美聯儲加息的猜測不斷升溫。“他們表示，這最初是由能源價格衝擊推動的，但已經連續三份就業報告好於預期。他們說，美聯儲雙重使命中勞動力市場方面似乎越來越穩固，使其能夠專注於通脹。倫敦證券交易所集團的資料顯示，目前市場預期年底前將加息25個基點，明年將再次加息。該資料定於格林威治時間1230公佈。DXY美元指數下跌0.1%，至99.854。"
+    },
+    {
+      "id": "4927431",
+      "time": "2026-06-10 14:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【每日互動與浙江移動戰略合作 在資料要素基礎設施、人工智慧應用落地等場景協同合作】據每日互動訊息，6月9日，每日互動與中國移動浙江公司（簡稱“浙江移動”）正式簽署戰略合作協議。根據協議，雙方將聚焦“可信資料空間與可控大模型”核心方向，在資料要素基礎設施、人工智慧應用落地等場景開展協同合作。"
+    },
+    {
+      "id": "4927430",
+      "time": "2026-06-10 14:34:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "微信官宣朋友圈搜尋功能。"
+    },
+    {
+      "id": "mkt:019eb03c-a1d9-799a-b41d-7ecfc15511cf",
+      "time": "2026-06-10 14:33:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "Tencent's official WeChat account Weixin Pai announced a search feature for Moments."
+    },
+    {
+      "id": "te:markets:557916",
+      "time": "2026-06-10 14:33:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Turns Lower Despite Mideast Escalation — Brent fell toward $91 per barrel on Wednesday, reversing gains from earlier in the session even as escalating tensions in the Middle East threatened to undermine peace negotiations. Iran launched attacks against several Gulf nations, including Bahrain, Jordan, and Kuwait, after the US carried out “self-defense strikes” in response to the downing of an American helicopter. Oil prices also faced pressure ahead of a key US inflation report that could reinforce the case for a Federal Reserve interest rate hike later this year. Higher borrowing costs are expected to eventually curb economic activity, clouding the outlook for global growth and energy demand. Meanwhile, industry data from the API showed US crude inventories dropped by 9.1 million barrels last week to their lowest level in four months, as buyers sought to replace supplies disrupted by the turmoil in the Persian Gulf."
+    },
+    {
+      "id": "mkt:019eb03b-908c-799a-b41d-70ac6dd7f04a",
+      "time": "2026-06-10 14:32:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【June 10: Agricultural Products Wholesale Price 200 Index down 0.15 points】The Ministry of Agriculture and Rural Affairs said the Agricultural Products Wholesale Price 200 Index was 113.16 at 14:00 on June 10, down 0.15 points from the previous day; the vegetable-basket wholesale price index was 113.20, down 0.17 points. At 14:00 national wholesale-market average prices were: pork 14.66 yuan/kg (-0.3%); beef 66.70 yuan/kg (+0.2%); mutton 64.10 yuan/kg (+0.5%); eggs 10.79 yuan/kg (-0.6%); dressed chicken 17.02 yuan/kg (-0.6%)."
+    },
+    {
+      "id": "te:markets:557915",
+      "time": "2026-06-10 14:32:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Turns Lower Despite Mideast Escalation — Crude oil fell to around $88 per barrel on Wednesday, reversing gains from earlier in the session even as escalating tensions in the Middle East threatened to undermine peace negotiations. Iran launched attacks against several Gulf nations, including Bahrain, Jordan, and Kuwait, after the US carried out “self-defense strikes” in response to the downing of an American helicopter. Oil prices also faced pressure ahead of a key US inflation report that could reinforce the case for a Federal Reserve interest rate hike later this year. Higher borrowing costs are expected to eventually curb economic activity, clouding the outlook for global growth and energy demand. Meanwhile, industry data from the API showed US crude inventories dropped by 9.1 million barrels last week to their lowest level in four months, as buyers sought to replace supplies disrupted by the turmoil in the Persian Gulf."
+    },
+    {
+      "id": "4927429",
+      "time": "2026-06-10 14:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源資訊局下調今年美石油庫存預期】美國能源部下屬能源資訊局9日釋出報告，下調今年美國石油庫存預期。報告說，到今年年底美國商業原油庫存量預計為4.19億桶，比上月預測少1200萬桶。報告還顯示，在截至5月29日的一週，美國商業原油庫存量為4.34億桶，與4月中旬4.66億桶的階段高點相比減少約3200萬桶。報告說，由於霍爾木茲海峽航運受阻，5月中東地區日均原油產量比2月衝突爆發前減少超1100萬桶，全球石油市場依然充滿高度波動性，預計三季度石油運輸將開始恢復，但到2027年初才會恢復到衝突爆發前水平。（新華社）"
+    },
     {
       "id": "mkt:019eb03a-e61a-799a-b41d-6962c9fc546e",
       "time": "2026-06-10 14:31:50",
@@ -172368,90 +172466,6 @@
         "其他"
       ],
       "text": "【千問宣佈向第三方Agent、Skill全面開放，肯德基瑞幸蜜雪冰城東航將首批接入】6月3日，千問APP宣佈將向第三方Agent、Skill全面開放，所有企業均可在千問運營自己的品牌Agent。目前，瑞幸、肯德基、蜜雪冰城、東方航空等首批企業正在千問進行Agent服務測試，並將陸續上線。"
-    },
-    {
-      "id": "mkt:019e8c32-11c3-7ee2-b141-9e0f9e87ef3f",
-      "time": "2026-06-03 14:35:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's A-share oil and gas sector moved sharply higher; Keli Co. rose over 10%, while Tongyuan Petroleum, Qianneng Hengxin, Shandong Molong, Zhongman Petroleum, CNOOC and China Oil Engineering also advanced."
-    },
-    {
-      "id": "4914405",
-      "time": "2026-06-03 14:35:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方電纜增資至8.2億，增幅約20%】天眼查App顯示，6月2日，東方電纜發生工商變更，註冊資本由約6.9億人民幣增至約8.2億人民幣，增幅約20%。該公司成立於1998年10月，法定代表人為夏崇耀，經營範圍包括電線、電纜製造，建設工程設計，港口經營等。股東資訊顯示，該公司由寧波東方集團有限公司、袁黎雨、香港中央結算有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:019e8c31-66ac-7ee2-b141-9599bf635185",
-      "time": "2026-06-03 14:35:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "【China's Shanghai Composite, Shenzhen Composite turn negative】China's Shanghai Composite and Shenzhen Composite fell through the afternoon and are now trading in the red. ChiNext Index's gain narrowed to 0.2% after earlier rising more than 4%."
-    },
-    {
-      "id": "4914404",
-      "time": "2026-06-03 14:34:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度BSE Sensex指數<.BSESN>下跌1.53%。"
-    },
-    {
-      "id": "4914403",
-      "time": "2026-06-03 14:34:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月3日：“農產品批發價格200指數”比昨天上升0.07個點】據農業農村部監測，6月3日“農產品批發價格200指數”為113.35，比昨天上升0.07個點，“菜籃子”產品批發價格指數為113.42，比昨天上升0.08個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.74元/公斤，比昨天下降0.3%；牛肉66.65元/公斤，與昨天持平；羊肉63.87元/公斤，比昨天下降0.1%；雞蛋10.44元/公斤，比昨天上升1.6%；白條雞17.14元/公斤，比昨天上升0.1%。重點監測的28種蔬菜平均價格為4.21元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.74元/公斤，比昨天上升1.0%。鯽魚20.13元/公斤，比昨天下降0.2%；鯉魚14.84元/公斤，比昨天上升1.4%；白鰱魚10.30元/公斤，比昨天上升0.1%；大帶魚41.30元/公斤，比昨天上升1.0%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、油菜、平菇、大蔥和巨峰葡萄，幅度分別為6.1%、4.9%、3.6%、1.8%和1.8%；價格降幅前五名的是西瓜、大黃花魚、豆角、土豆和香蕉，幅度分別為2.5%、2.4%、1.9%、1.7%和1.2%。"
-    },
-    {
-      "id": "4914402",
-      "time": "2026-06-03 14:34:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達120億港元。"
-    },
-    {
-      "id": "4914401",
-      "time": "2026-06-03 14:33:51",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【深證成指翻綠】深證成指下跌翻綠，此前一度漲超2.38%，上證指數跌0.05%，創業板指漲0.64%，戶外露營、小紅書概念、智譜AI概念等板塊跌幅居前。"
-    },
-    {
-      "id": "4914400",
-      "time": "2026-06-03 14:33:45",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【智元開源行業首個專屬於世界模型的具身資料集】6月3日，智元正式開源AGIBOT WORLD 2026資料集第二期主題“多樣互動（Rich Interaction）”。這是行業首個聚焦物理互動的開源具身資料集，面向世界模型、神經模擬器、物理感知以及表徵學習等具身智慧研究，系統記錄機器人與真實物理世界之間複雜、高密度、非理想的互動過程，旨在補齊當前世界模型訓練中長期缺失的真實物理互動資料。本期資料集已在Hugging Face平臺開放下載。繼此前釋出以“模仿學習”為主題的第一期資料集後，AGIBOT WORLD 2026進一步將資料建設從專家示範和成功軌跡，推進到真實環境中更復雜、更不確定、也更接近物理世界本質的互動學習階段。"
-    },
-    {
-      "id": "4914399",
-      "time": "2026-06-03 14:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.04%，成分股中，諾思蘭德跌8.03%，安達科技跌4.18%，聚星科技跌3.72%，國子軟體跌3.55%。"
     }
   ]
 }
