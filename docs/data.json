@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-10 07:57:35",
+  "updated": "2026-06-10 08:01:25",
   "count": 18680,
   "items": [
+    {
+      "id": "4926849",
+      "time": "2026-06-10 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.4%，至7899.77點。"
+    },
+    {
+      "id": "4926848",
+      "time": "2026-06-10 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報64952.38點，跌幅0.71%。"
+    },
+    {
+      "id": "mkt:019eaed4-726c-7bbf-ae38-8db11af5a2fd",
+      "time": "2026-06-10 08:00:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry will scrutinize speculative trading and disorderly conduct in the foreign-exchange market."
+    },
+    {
+      "id": "4926847",
+      "time": "2026-06-10 08:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報92.56美元/桶。"
+    },
+    {
+      "id": "4926846",
+      "time": "2026-06-10 07:59:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：預計市場主線將進一步向高業績確定性靠攏】中信證券研報表示，25Y至2026Q1港股基本面經歷了從“內卷承壓”到“觸底企穩”的邏輯演變。25Y大盤受國內價格戰及內需低迷拖累利潤承壓，但產業鏈利潤加速向上遊資源及出海板塊集中。2026Q1季報確立了基本面築底回升態勢，核心特徵依然是外需強、內需弱：全球定價的大宗商品、出海溢價敘事以及海外算力外溢的AI核心產業鏈構成業績釋放強動能；反觀國內傳統內需相關的基建、地產鏈及汽車賽道則因供給過剩和內卷持續築底。進入5月，季報落地帶動盈利預期下修顯著鈍化，悲觀預期基本出清。在指數缺乏整體彈性的業績空窗期，預計市場主線將進一步向高業績確定性靠攏。建議關注三條主線：一是供給約束下的強景氣週期板塊；二是算力紅利驅動的AI外溢硬科技；三是提供高確定性溢價補償的泛紅利方向。"
+    },
+    {
+      "id": "4926845",
+      "time": "2026-06-10 07:59:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：多重因素利好下，下半年進出口均有望保持較強韌性】中信證券研報表示，今年5月出口增速高於前值和預期，反映出外貿出口鏈仍處於較高景氣區間。5月電子與AI、汽車產業鏈出口較強，終端消費品出口相對較差，對映出發達經濟體K型分化的經濟修復特徵。電子與AI、汽車產業鏈出口表現好分別與全球AI投資需求快速增長、傳統能源漲價帶動新能源汽車出口相關。量價拆分角度看，我們判斷4-5月份外貿出口的超預期表現有較大比例來自於價格端的貢獻。5月進口增速同樣超預期，主要原因為國內製造業景氣保持改善、AI算力需求快速增長帶動積體電路等產品漲價以及上游傳統能源價格保持高位。展望後續，我們判斷多重因素利好下，下半年進出口均有望保持較強韌性。出口品類上，考慮到海外經濟體K型分化的修復特徵，我們預計電子與AI、汽車產業鏈出口表現會繼續好於終端消費品。"
+    },
+    {
+      "id": "4926844",
+      "time": "2026-06-10 07:58:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【逼近歷史年度紀錄 FOF今年新發規模已逾1060億元】FOF正成為資金湧入的重要方向。截至6月9日，今年以來已成立了83只FOF，發行規模合計達1061.64億元，接近2021年創下的年度最高紀錄。相比之下，2025年全年成立89只FOF，發行規模合計為845.29億元。當前仍有多隻FOF正在或即將發行。Choice資料顯示，截至6月9日，共有13只FOF正在發行，另有3只FOF釋出了基金份額髮售公告，即將啟動發行。與此同時，基金公司還在密集上報FOF新品。（上證報）"
+    },
+    {
+      "id": "te:markets:557798",
+      "time": "2026-06-10 07:58:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slip on Middle East Tensions — US stock futures declined on Wednesday after the US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, escalating tensions in the region. Investors also awaited the release of US inflation data for fresh signals on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate hike before the end of the year. In regular trading on Tuesday, the S&P 500 and Nasdaq Composite fell 0.26% and 0.97%, respectively, while the Dow gained 0.17%. Semiconductor stocks remained under pressure, with the iShares Semiconductor ETF dropping more than 3% after surging 6% on Monday. The fund had tumbled 10% on Friday, marking its steepest one-day decline in six years, as investors grew increasingly concerned that the AI-driven rally in chip stocks had become overheated."
+    },
+    {
+      "id": "te:economy:557797",
+      "time": "2026-06-10 07:57:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Japan Producer Prices Rise the Most in Over 3 Years — Japan’s producer prices rose 6.3% yoy in May 2026, accelerating from an upwardly revised 5.3% increase in the prior month and topping market expectations of 5.5%. It was the fastest annual growth since March 2023, reflecting persistent cost pressures, particularly from higher energy prices amid supply chain disruptions stemming from the conflict involving Iran. On a monthly basis, producer prices increased 0.9%, easing from an upwardly revised 2.8% rise in April, which had been the strongest monthly gain since April 2014."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606103765551870",
+      "time": "2026-06-10 07:56:32",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【能源衝擊令歐洲央行陷入兩難】近期，面對歐元區通貨膨脹加劇和經濟增速走軟這一趨勢，歐洲央行站在了加息與按兵不動的抉擇岔路口。歐洲央行當前面臨最棘手的問題就是中東衝突引發的能源價格飆升和通脹再起。"
+    },
     {
       "id": "4926843",
       "time": "2026-06-10 07:55:48",
@@ -172360,87 +172451,6 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei 225 opened up 529.71 points, or 0.79%, at 67,263.95 on Wednesday, June 3."
-    },
-    {
-      "id": "mkt:019e8ac8-d9fc-733d-881c-c4c2a1a7ea34",
-      "time": "2026-06-03 08:01:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM denied reports that Iran's Islamic Revolutionary Guard Corps attacked the U.S. Fifth Fleet headquarters in Bahrain and a U.S. air base."
-    },
-    {
-      "id": "4913832",
-      "time": "2026-06-03 08:01:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經平均股價指數創下歷史新高。"
-    },
-    {
-      "id": "4913831",
-      "time": "2026-06-03 08:00:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【打擊跨境電商“黑註冊” 3人非法倒賣公民資料被刑拘】全國公安機關深入推進“淨網”專項行動，始終保持對侵犯公民個人資訊犯罪的高壓嚴打態勢，緊盯資訊獲取、資訊倒賣、資訊使用等關鍵環節，堅決斬斷侵犯公民個人資訊犯罪鏈條，有力維護公民合法權益和資訊保安。近日，山西太原公安網安部門重拳出擊，成功打掉一個專門從事非法註冊、買賣跨境電商店鋪的犯罪團伙。（央視）"
-    },
-    {
-      "id": "4913830",
-      "time": "2026-06-03 08:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多家民營銀行中長期定存利率跌至“1字頭”】近期，多家民營銀行集中下調中長期定期存款利率，此前不少利率水平處於“2字頭”的中長期定存產品，如今利率回落至“1字頭”，部分銀行更是直接下架中長期定期存款產品。受訪專家分析，民營銀行高息存款優勢逐步消退，行業轉型提速；受利率變化影響，居民儲蓄配置邏輯明顯轉變，民營銀行亟須破除同質化困局，依靠差異化路徑謀求長遠發展。（證券日報）"
-    },
-    {
-      "id": "4913829",
-      "time": "2026-06-03 08:00:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日經225指數上午開盤報67238.53點，漲幅0.76%。韓國股市休市。"
-    },
-    {
-      "id": "4913828",
-      "time": "2026-06-03 07:59:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部否認伊朗伊斯蘭革命衛隊有關其襲擊了美國第五艦隊駐巴林總部及一處美國空軍基地的說法。"
-    },
-    {
-      "id": "4913827",
-      "time": "2026-06-03 07:58:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "稀美資源：認購事項所得款項總額將約為5.49億港元。"
-    },
-    {
-      "id": "4913826",
-      "time": "2026-06-03 07:58:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬達小貸股權“上架”拍賣 小貸行業加快洗牌】王健林名下公司股權第三次擺上“貨架”。日前，大連萬達集團股份有限公司持有的上海萬達小額貸款有限公司（簡稱“萬達小貸”）70%股權，正式進入司法變賣程式。京東司法拍賣平臺資訊顯示，上述股權底價4.09億元，僅為7.31億元的評估價的近6折。業內專家表示，目前，小貸行業正從“數量擴張”階段邁向“質量求生”階段，萬達小貸股權能否找到合適買家仍存變數。未來，小貸行業需透過差異化定位與技術賦能實現“突圍”。（經濟參考報）"
-    },
-    {
-      "id": "4913825",
-      "time": "2026-06-03 07:58:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "稀美資源：配售現有股份及根據一般授權先舊後新認購新股份，購買價為每股銷售股份16.10港元。"
-    },
-    {
-      "id": "4913824",
-      "time": "2026-06-03 07:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊再次互襲】美軍中央司令部今天（6月3日）在社交媒體平臺發宣告稱，伊朗向地區鄰國發射了數枚彈道導彈，其中，兩枚射向科威特的導彈在途中墜落或解體，三枚射向巴林的導彈被美軍和巴林防空部隊攔截。據稱，稍早前，美軍還擊落了三架由伊朗發射、“針對正常航行民用船隻”的攻擊型無人機。美軍隨後對位於伊朗格什姆島上一處伊朗軍方地面控制站實施了所謂的“自衛打擊”。 宣告稱，此次行動中沒有美軍人員傷亡。在當前停火持續期間，美軍將繼續保持高度警戒。 （CCTV國際時訊 ）"
     }
   ]
 }
