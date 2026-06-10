@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-10 12:30:17",
-  "count": 18723,
+  "updated": "2026-06-10 12:34:18",
+  "count": 18719,
   "items": [
+    {
+      "id": "mkt:019eafcd-6b5f-799a-b41b-bd6cad3736e2",
+      "time": "2026-06-10 12:32:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said it shot down 326 Ukrainian drones overnight."
+    },
+    {
+      "id": "4927287",
+      "time": "2026-06-10 12:30:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市跌幅擴大】日經平均指數跌幅擴大，目前下跌2%，報64100.27點。韓國綜合股價指數(Kospi)跌幅擴大，最新報7660.74點，下跌5.4%。"
+    },
+    {
+      "id": "mkt:019eafcb-a38f-799a-b41b-b18ae8cc00ec",
+      "time": "2026-06-10 12:30:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
+    },
     {
       "id": "mkt:019eafc9-a8c1-7444-ba08-0dcff441fcfb",
       "time": "2026-06-10 12:28:08",
@@ -172804,81 +172833,6 @@
         "其他"
       ],
       "text": "【名創優品非會員無法買單？客服回應：僅盲盒類需會員，其他憑個人意願】近日，多名消費者在社交平臺反映，在名創優品門店購物時遭遇“非會員無法結賬”的強制要求，甚至連購買紙巾、驅蚊液等普通日用品也被要求註冊會員。6月3日，就此事諮詢名創優品客服，對方表示：“目前是購買盲盒類產品時，需要出示有效會員憑證後方可完成銷售。除潮玩外的其他產品在購買時，根據您個人意願，看是否需要出示會員憑證。”該客服還表示，如果遇到購買非潮玩商品也被要求出示會員憑證的情況，可以線上上反饋。（介面新聞）"
-    },
-    {
-      "id": "4914233",
-      "time": "2026-06-03 12:33:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉羅德里格斯將出訪印度 地緣衝突改寫原油貿易格局】委內瑞拉代總統德爾西・羅德里格斯本週將會見印度總理納倫德拉・莫迪。受伊朗戰事衝擊，印度原油供應承壓、謀求進口來源多元化，能源安全或將成為雙方會談核心議題。印度外交部發言人蘭迪爾・賈伊斯瓦爾週二稱，與莫迪的雙邊會談“將覆蓋印委雙邊合作全領域，探尋在能源、貿易、投資、製藥及醫療衛生領域深化合作的途徑”。羅德里格斯出訪日期為6月3日至7日。此前伊朗衝突造成霍爾木茲海峽通航受阻，戰前印度近四成原油經由該咽喉水道進口，印度隨即再度積極拓展原油進口渠道，本次出訪恰逢其時。印度約90%消費原油依靠進口。在美國放寬對這名歐佩克產油國的制裁後，印度時隔一年，已於4月恢復進口一批委內瑞拉原油。"
-    },
-    {
-      "id": "mkt:019e8bc2-01d6-7ee2-b13f-621121800f8e",
-      "time": "2026-06-03 12:33:27",
-      "tags": [
-        "MKT News",
-        "NIFTY.NS",
-        "Impact bearish"
-      ],
-      "text": "India's Nifty 50 fell 1%."
-    },
-    {
-      "id": "mkt:019e8bc1-d3d3-7ee2-b13f-5b6d0f4a3ef2",
-      "time": "2026-06-03 12:33:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "MU.O",
-        "Impact bearish"
-      ],
-      "text": "【Counterpoint: Yangtze Memory could rise to third-largest global NAND supplier on AI-driven storage demand】Counterpoint says China’s Yangtze Memory (YMTC) is benefiting from AI infrastructure buildout. In Q1 YMTC’s revenue surged 445% YoY on strong domestic demand and supply shortages, lifting its global NAND share to 13%. Researcher MS Hwang said capital injections would give YMTC the firepower to overtake Kioxia and Micron and cement its position as the world’s third-largest NAND supplier."
-    },
-    {
-      "id": "mkt:019e8bc1-3e83-7ee2-b13f-504bba672b1e",
-      "time": "2026-06-03 12:32:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "RIA Novosti, citing the Russian Defense Ministry, said Russian forces shot down 354 drones overnight."
-    },
-    {
-      "id": "4914232",
-      "time": "2026-06-03 12:31:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯通訊社援引俄國防部訊息稱，俄羅斯昨夜擊落354架無人機。"
-    },
-    {
-      "id": "te:economy:555974",
-      "time": "2026-06-03 12:31:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Egypt Non-Oil Private Sector Contraction Eases — The S&P Global Egypt PMI rose to 47.1 in May 2026 from 46.6 in April, signalling a slower deterioration in non-oil private sector conditions. Manufacturing and construction returned to growth, while inventories rose at the fastest pace in nearly three years. Despite these improvements, inflationary pressures intensified, with input costs rising at the fastest pace since January 2023 due to higher fuel and electricity prices, currency weakness, and stronger wage pressures. Supply chain conditions also worsened, with delivery times lengthening at the fastest pace in nearly four years amid shipping disruptions and Middle East tensions. Firms responded by cutting jobs at the fastest rate since June 2020 as weak demand and rising costs weighed on activity. Looking ahead, business confidence improved to its highest level since August 2024 on hopes of improved economic conditions and exchange rate stability, despite persistent inflation concerns."
-    },
-    {
-      "id": "mkt:019e8bbf-a86e-7ee2-b13f-4ef274ef4787",
-      "time": "2026-06-03 12:30:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 5-year bond yield rose 5.0 bps to 1.905%."
     }
   ]
 }
