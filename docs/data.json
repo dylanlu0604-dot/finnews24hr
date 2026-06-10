@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-11 06:34:17",
-  "count": 18384,
+  "updated": "2026-06-11 06:38:07",
+  "count": 18387,
   "items": [
+    {
+      "id": "mkt:019eb3ae-2639-7dd8-afad-d9b024ed362b",
+      "time": "2026-06-11 06:36:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera, citing Iran's Bushehr provincial officials, reported the Assaluyeh gas complex has not experienced any explosions to date."
+    },
+    {
+      "id": "te:markets:558164",
+      "time": "2026-06-11 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Gold Falls by 4.92% — Top commodity losers are Gold (-4.92%), Silver (-3.81%) and Platinum (-3.25%). Gains are led by Silicon (3.21%), Iron Ore CNY (1.51%) and Lithium Carbonate (1.22%)."
+    },
+    {
+      "id": "4929071",
+      "time": "2026-06-11 06:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科市長索比亞寧： 逼近莫斯科的無人機被擊落數量已增至九架。"
+    },
+    {
+      "id": "4929070",
+      "time": "2026-06-11 06:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：一架 F-16 戰鬥機侵犯波斯灣領空，革命衛隊防空系統隨即發射導彈進行攔截，來犯戰機隨後逃離。"
+    },
+    {
+      "id": "mkt:019eb3ac-054e-7dd8-afad-d039c43c7525",
+      "time": "2026-06-11 06:34:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said an F-16 fighter violated Persian Gulf airspace and departed after IRGC air-defence systems fired missiles at it."
+    },
     {
       "id": "4929069",
       "time": "2026-06-11 06:33:21",
@@ -169397,28 +169448,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Palm Oil Gains by 3.13% — Top commodity gainers are Palm Oil (3.13%) and Rubber (2.40%). Biggest loser is Oat (-2.75%)."
-    },
-    {
-      "id": "te:markets:556262",
-      "time": "2026-06-04 06:35:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 4.32% — Top commodity losers are Platinum (-4.32%), Silver (-3%), Lithium Carbonate (-2.99%) and Gold (-1.14%). Gains are led by Silicon (0.76%)."
-    },
-    {
-      "id": "mkt:019e8fa0-4775-7443-8fe5-798d1938a133",
-      "time": "2026-06-04 06:35:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude down 1.00% intraday, trading at $96.81/bbl."
     }
   ]
 }
