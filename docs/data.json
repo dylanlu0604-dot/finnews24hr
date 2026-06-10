@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-10 11:35:54",
-  "count": 18737,
+  "updated": "2026-06-10 11:39:56",
+  "count": 18740,
   "items": [
+    {
+      "id": "4927222",
+      "time": "2026-06-10 11:39:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "安巴尼支援的機器人初創公司ADDVERB尋求1億美元融資。"
+    },
+    {
+      "id": "mkt:019eaf9c-0406-7444-ba07-747b16e42338",
+      "time": "2026-06-10 11:38:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Over 110 million received personal income tax refunds】China's State Taxation Administration says the 2025 annual settlement of comprehensive individual income tax closes on June 30; filings have risen steadily. As of end-May, more than 160 mln people completed filings and over 110 mln received refunds; refund amounts have increased and total refunds are up over 17% YoY, signaling continued release of policy benefits."
+    },
+    {
+      "id": "te:markets:557874",
+      "time": "2026-06-10 11:38:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Hovers Near 2-Month Low — The New Zealand dollar traded near a two-month low at around $0.581, as traders remained wary following US retaliatory strikes against Iran. Washington said it completed self-defense strikes against Tehran in response to the downing of a US helicopter that was patrolling over the Strait of Hormuz, further complicating prospects for a peace deal between the two countries and adding strain to an already fragile ceasefire. Meanwhile, investors are now awaiting key US inflation data for further clues on the Federal Reserve’s rate path. Supporting the kiwi, however, is the prospect of higher interest rates following a hawkish outlook from the Reserve Bank of New Zealand. Markets continue to price in a potential rate hike as early as July, with the OCR seen to peak around 3.50% late next year."
+    },
+    {
+      "id": "4927221",
+      "time": "2026-06-10 11:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理表示，馬來西亞和日本正在探索更多地使用林吉特和日元進行貿易。"
+    },
+    {
+      "id": "4927220",
+      "time": "2026-06-10 11:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿富汗稱遭巴基斯坦空襲致13死14傷】阿富汗政府發言人穆賈希德10日在社交媒體上說，巴基斯坦軍隊當天凌晨空襲阿巴邊境的庫納爾省、霍斯特省和帕克提卡省，造成13人死亡，另有14人受傷。穆賈希德表示，死者包含11名兒童和一名女性，阿富汗政府強烈譴責此次襲擊。"
+    },
+    {
+      "id": "mkt:019eaf9a-42e8-7444-ba07-6d9c69e6baa9",
+      "time": "2026-06-10 11:36:22",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's 30-year government bond auction bid-cover ratio was 2.94, down from 3.49 at the previous auction."
+    },
+    {
+      "id": "mkt:019eaf9a-0df7-7444-ba07-6340f1bc9389",
+      "time": "2026-06-10 11:36:09",
+      "tags": [
+        "MKT News",
+        "02563.HK",
+        "Impact bullish",
+        "01093.HK",
+        "02359.HK"
+      ],
+      "text": "Hong Kong-listed biopharma stocks active: 02563.HK up over 40%, 01530.HK up more than 5%; 06990.HK, CSPC PHARMA (01093.HK) and WuXi AppTec (02359.HK) also gained."
+    },
+    {
+      "id": "4927219",
+      "time": "2026-06-10 11:35:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債拍賣的投標倍數為2.94，上一次拍賣該指標為3.49。"
+    },
     {
       "id": "mkt:019eaf98-7dc5-7444-ba07-5a875b02d124",
       "time": "2026-06-10 11:34:26",
@@ -172976,53 +173057,6 @@
         "國際"
       ],
       "text": "軟銀參與競購黑石集團旗下日本支付公司。"
-    },
-    {
-      "id": "mkt:019e8b90-4a27-7ee2-b13e-668f471437c3",
-      "time": "2026-06-03 11:39:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's Jakarta Composite Index fell 3.7% to 5,979.13, its lowest level since May 22."
-    },
-    {
-      "id": "4914165",
-      "time": "2026-06-03 11:38:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty指數盤前交易下跌0.3%，至23415.95點。"
-    },
-    {
-      "id": "4914164",
-      "time": "2026-06-03 11:38:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部發行30年期債券，規模850億元，發行利率2.2046%，預期2.2000%，投標倍數3.67倍，邊際倍數1.56倍。"
-    },
-    {
-      "id": "4914163",
-      "time": "2026-06-03 11:37:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指下跌3.7%，至5979.13點，創5月22日以來新低。"
-    },
-    {
-      "id": "mkt:019e8b8d-6f71-7ee2-b13e-5eab8d50f9d2",
-      "time": "2026-06-03 11:35:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's TOPIX surged past 4,000 for the first time, rising over 2% intraday."
     }
   ]
 }
