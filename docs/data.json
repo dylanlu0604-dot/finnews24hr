@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-11 05:03:38",
+  "updated": "2026-06-11 05:07:32",
   "count": 18359,
   "items": [
+    {
+      "id": "4928998",
+      "time": "2026-06-11 05:06:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）： 基什島上空傳來遠處異響，聲源暫不明確。有報道稱該島遠區疑似出現異動。"
+    },
+    {
+      "id": "4928997",
+      "time": "2026-06-11 05:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（6月10日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7822元，較週二紐約尾盤跌36點，日內整體交投於6.7746-6.7837元區間。"
+    },
     {
       "id": "mkt:019eb357-c018-7dd8-afac-bbbac8bbd5e7",
       "time": "2026-06-11 05:02:12",
@@ -169165,26 +169181,6 @@
         "國際"
       ],
       "text": "【加拿大將鋼鐵和鋁的進口限制延長一年】加拿大週三表示，將把針對美國和墨西哥以外國家鋼鐵和鋁的進口限制延長一年。此舉表明，在美國總統特朗普掀起的貿易動盪之下，加拿大國內製造業的困境仍在持續。加拿大財政部長表示，這些進口措施將延長至2027年6月底，尚待內閣批准，此舉代表了加拿大“捍衛鋼鐵工人和產業，抵禦鋼鐵貿易轉移以及導致全球產能過剩的非市場化政策和行為”的承諾。"
-    },
-    {
-      "id": "te:economy:556259",
-      "time": "2026-06-04 05:06:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "South Korea FX Reserves Edge Lower in May — South Korea’s foreign exchange reserves edged down to $427.0 billion in May 2026 from $427.9 billion in April. Securities remained the largest component of the country's reserve assets, totaling $380.7 billion and accounting for 89.2% of the total. Deposits stood at $21.4 billion, representing 5.0% of reserves, while Special Drawing Rights (SDRs) amounted to $15.8 billion, or 3.7%. Gold holdings were valued at $4.8 billion, accounting for 1.1% of total reserves, and the country's reserve position at the International Monetary Fund totaled $4.4 billion, equivalent to 1.0% of overall holdings."
-    },
-    {
-      "id": "4916029",
-      "time": "2026-06-04 05:05:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：Meta元宇宙負責人加布裡埃爾·奧爾四個月前悄然離職。"
     }
   ]
 }
