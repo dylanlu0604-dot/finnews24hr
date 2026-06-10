@@ -1,7 +1,262 @@
 {
-  "updated": "2026-06-10 20:32:50",
-  "count": 18514,
+  "updated": "2026-06-10 20:36:52",
+  "count": 18527,
   "items": [
+    {
+      "id": "mkt:019eb187-de33-7dd8-afa1-0e3ddf4f11af",
+      "time": "2026-06-10 20:35:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Emerging-market currencies pared losses after the CPI report."
+    },
+    {
+      "id": "mkt:019eb187-c025-7dd8-afa1-00429969fcee",
+      "time": "2026-06-10 20:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's foreign minister said officials are arranging a meeting between the Hungarian prime minister and the Ukrainian president."
+    },
+    {
+      "id": "4928398",
+      "time": "2026-06-10 20:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國通脹報告公佈後，新興市場貨幣跌幅收窄。"
+    },
+    {
+      "id": "mkt:019eb187-811c-7dd8-afa0-fe5d945a565b",
+      "time": "2026-06-10 20:35:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "After the CPI release, S&P 500 futures and Nasdaq-100 futures pared losses."
+    },
+    {
+      "id": "4928397",
+      "time": "2026-06-10 20:35:00",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國5月CPI同比上漲4.2% 美聯儲年內加息25個基點預期機率上升】美國勞工部10日釋出的資料顯示，受能源價格上漲推動，美國5月消費者價格指數（CPI）同比上漲4.2%，創2023年5月以來新高。剔除食品和能源價格後，美國5月核心CPI同比上漲2.9%。分析人士認為，上週五遠高出預期的非農資料已令市場降息預期消退，芝商所“美聯儲觀察工具”顯示，美聯儲年內加息25個基點的預期機率已升至約43%，並且不排除年內累計加息50個基點的可能。"
+    },
+    {
+      "id": "mkt:019eb187-5919-7dd8-afa0-f227d0cfb1a8",
+      "time": "2026-06-10 20:34:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's foreign minister said he is optimistic that accession talks for Ukraine can begin soon."
+    },
+    {
+      "id": "mkt:019eb187-2340-7dd8-afa0-eebec86dd2a6",
+      "time": "2026-06-10 20:34:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 2-year Treasury yield rose 0.9 bps to 4.133%; 10-year yield rose 0.8 bps to 4.536%."
+    },
+    {
+      "id": "em:qqyh_mlc:202606103766901792",
+      "time": "2026-06-10 20:34:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國5月CPI同比上漲4.2% 美聯儲年內加息25個基點預期機率上升】美國勞工部10日釋出的資料顯示，受能源價格上漲推動，美國5月消費者價格指數（CPI）同比上漲4.2%，創2023年5月以來新高。剔除食品和能源價格後，美國5月核心CPI同比上漲2.9%。分析人士認為，上週五遠高出預期的非農資料已令市場降息預期消退，芝商所“美聯儲觀察工具”顯示，美聯儲年內加息25個基點的預期機率已升至約43%，並且不排除年內累計加息50個基點的可能。"
+    },
+    {
+      "id": "4928396",
+      "time": "2026-06-10 20:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：對烏克蘭入盟談判能很快啟動持樂觀態度。"
+    },
+    {
+      "id": "mkt:019eb186-c6ba-7dd8-afa0-e19dec3fe122",
+      "time": "2026-06-10 20:34:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DJT.O"
+      ],
+      "text": "Trump Media & Technology Group (DJT.O) said relevant parties have agreed not to proceed at this time with a potential spin-off of certain media assets, including Truth Social."
+    },
+    {
+      "id": "te:economy:558054",
+      "time": "2026-06-10 20:34:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "US Core CPI Rises Less Than Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.2% from the previous month in May 2026, following a 0.4% advance in April and slightly below market expectations of a 0.3% increase. Prices increased in communication, airline fares, medical care, personal care, and recreation, but decreased in motor vehicle insurance, household furnishings, and new vehicles."
+    },
+    {
+      "id": "em:qqyh_mlc:202606103766900252",
+      "time": "2026-06-10 20:33:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "在通脹報告公佈後，交易員減少了對美聯儲加息的押注。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606103766900642",
+      "time": "2026-06-10 20:33:52",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月份實際平均時薪同比下降0.7%。"
+    },
+    {
+      "id": "4928395",
+      "time": "2026-06-10 20:33:39",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率在CPI資料公佈後微幅上行，最新上漲0.8個基點，報4.536%。"
+    },
+    {
+      "id": "4928394",
+      "time": "2026-06-10 20:33:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新上漲0.9個基點，報4.133%。"
+    },
+    {
+      "id": "4928393",
+      "time": "2026-06-10 20:33:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期和10年期美國國債收益率曲線最新錄得正利差39.9個基點。"
+    },
+    {
+      "id": "4928392",
+      "time": "2026-06-10 20:33:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國5月能源通脹繼續加速，同比增速保持兩位數】美國勞工統計局資料顯示，美國5月季調後能源通脹環比增長3.9%，4月為增長3.8%；其中，能源大宗商品通脹環比增長6.7%，4月為5.6%，汽油通脹環比增長7%，4月為5.4%，燃料油通脹環比增長3.8%，4月為5.8%。5月未季調能源通脹同比增長23.5%，4月為增長17.9%；其中，能源大宗商品通脹同比增長40.6%，汽油通脹同比增長40.5%，燃料油通脹同比增長58.9%。"
+    },
+    {
+      "id": "mkt:019eb185-a6de-7dd8-afa0-d83c8395edd3",
+      "time": "2026-06-10 20:33:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "After the CPI release, the dollar index (DXY) briefly swung about 10 points to 99.93."
+    },
+    {
+      "id": "4928391",
+      "time": "2026-06-10 20:33:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團：各方目前決定暫不推進分拆包括Truth Social在內的部分集團媒體資產的潛在計劃。"
+    },
+    {
+      "id": "4928390",
+      "time": "2026-06-10 20:32:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體集團、TAE 及 TVA 不再推進真相社交平臺分拆計劃。"
+    },
+    {
+      "id": "te:economy:558053",
+      "time": "2026-06-10 20:32:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "US Inflation Rate Accelerates to 2023-Highs — The annual inflation rate in the US rose to 4.2% in May 2026, marking its highest level since April 2023, from 3.8% in April and in line with market expectations. This represents the third consecutive monthly acceleration in headline inflation, with energy costs jumping 23.5% (vs 17.9% in April), due to the energy shock triggered by the conflict with Iran. Gasoline prices soared 40.5%, after a 28.4% gain."
+    },
+    {
+      "id": "mkt:019eb185-1c0c-7dd8-afa0-d0a0a2699a02",
+      "time": "2026-06-10 20:32:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude were little changed after the CPI release, trading at $89.76/bbl and $91.85/bbl respectively."
+    },
+    {
+      "id": "mkt:019eb184-fac4-7dd8-afa0-ccce2eb9d287",
+      "time": "2026-06-10 20:32:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Short-term interest-rate futures show the market has scaled back expectations for further Fed rate hikes."
+    },
+    {
+      "id": "4928389",
+      "time": "2026-06-10 20:32:08",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國核心CPI漲幅低於預期，美國國債跌幅收窄。"
+    },
     {
       "id": "4928388",
       "time": "2026-06-10 20:31:51",
@@ -328,6 +583,15 @@
         "國際"
       ],
       "text": "【美國CPI年率繼續走高 重回“4字頭”】美國5月未季調CPI年率錄得4.2%，符合市場預期，創2023年4月以來新高。\n美國5月季調後核心CPI月率 0.2%，預期0.30%，前值0.40%。\n美國5月季調後CPI月率 0.5%，預期0.50%，前值0.60%。\n美國5月未季調CPI年率 4.2%，預期4.20%，前值3.80%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606103766898978",
+      "time": "2026-06-10 20:30:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國4月核心CPI同比增長2.9% 創2025年9月以來新高】美國4月核心CPI同比增長2.9%，創2025年9月以來新高；預估為2.9%，前值為2.8%。環比增長0.2%，預期0.30%，前值0.40%。"
     },
     {
       "id": "mkt:019eb182-db0b-7dd8-afa0-15489947b6b3",
@@ -170688,126 +170952,6 @@
         "其他"
       ],
       "text": "【黑龍江將迎大範圍強降雨】受東北冷渦影響，預計6月4日至6日，黑龍江省大部地區將出現一次較大範圍強降雨過程。此次降雨過程雨量大、範圍廣，東部地區為主要影響區域，並伴有強對流天氣。"
-    },
-    {
-      "id": "4915402",
-      "time": "2026-06-03 20:36:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長光華芯：全資子公司蘇州長光華芯半導體鐳射創新研究院有限公司擬出資人民幣2500萬元認購關聯方蘇州惟清半導體有限公司新增註冊資本人民幣333.33萬元】長光華芯公告，全資子公司蘇州長光華芯半導體鐳射創新研究院有限公司擬出資人民幣2500萬元認購關聯方蘇州惟清半導體有限公司新增註冊資本人民幣333.33萬元。本次增資完成後，研究院持有目標公司32.48%的股權。本次交易構成關聯交易，但不構成重大資產重組。交易已透過公司董事會審議，無需提交股東會審議。惟清半導體當前處於小批次投產階段，增資旨在保障其產線建設與運營資金需求。"
-    },
-    {
-      "id": "4915401",
-      "time": "2026-06-03 20:36:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家廣播電視總區域性署開展微短劇有害低俗內容和侵權盜版專項治理】6月1日，國家廣播電視總區域性署開展微短劇有害低俗內容和侵權盜版專項治理。本次專項治理為期2個月，將依法依規集中治理部分微短劇存在的涉兒童有害、軟色情擦邊、拜金炫富、畸形婚戀觀、封建糟粕、暴力復仇、低俗片名、侵權盜版等8個重點問題，規範微短劇創作傳播行為，進一步營造清朗健康的行業發展生態。"
-    },
-    {
-      "id": "4915400",
-      "time": "2026-06-03 20:35:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【訊息稱高效能碳纖維領域技術研發獲重大突破，多家上市公司獨家回應產業佈局情況】6月3日，多隻高效能碳纖維概念股大漲。截至收盤，上海石化“一字”漲停，中復神鷹收漲8.71%，吉林碳谷、光威復材等跟漲。有訊息稱，高效能碳纖維領域技術研發獲重大突破，上海石化聯合上海石油化工研究院攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產。中國證券報·中證金牛座記者瞭解到，上海石化此次研發量產的高效能碳纖維為12K小絲束，即每束碳纖維由12000根單絲組成，單絲直徑相當於頭髮絲直徑的十分之一，而單股絲束拉伸強度超過6.5吉帕、拉伸模量超過300吉帕，相當於能拉動一輛重約10噸的中型卡車。對此，有不願具名的上市公司高管回應記者稱，T代表強度，牌號數字越大，材料抗拉強度越高，對應下游應用場景越高階。今天高效能碳纖維板塊大漲，是由於市場對高效能碳纖維有較好的預期。中復神鷹方面獨家回應記者稱，公司在前幾年已經攻克T1000級高效能碳纖維技術，對比上海石化此次攻克的T1000級高效能碳纖維技術，主要區別在於公司使用幹噴溼紡的方式進行生產。今年3月，公司已經發布了T1200級高效能碳纖維產品。高效能碳纖維整體屬於新興產業，目前來看，越高階的產品毛利率越高，同時產品供不應求。（中證金牛座）"
-    },
-    {
-      "id": "em:qqyh_mlc:202606033759227332",
-      "time": "2026-06-03 20:35:04",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【ADP公佈後 美聯儲6月維持利率不變的機率基本不變】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.3%（資料公佈前為98.4%），累計降息25個基點的機率為1.7%。美聯儲到7月維持利率不變的機率為88%，累計加息25個基點的機率10.5%，累計降息25個基點的機率為1.5%。"
-    },
-    {
-      "id": "4915399",
-      "time": "2026-06-03 20:34:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【華爾街最樂觀機構Yardeni對標普500指數態度轉謹慎】Yardeni是華爾街最樂觀的預測機構，其對標普500指數的預測目標值為8250點。儘管該指數已突破7600點，但該機構近期表示將變得謹慎起來。該機構指出，中東局勢緊張、石油供應緊張的風險、美聯儲可能的緊縮政策以及即將進行的首次公開募股等因素是導致市場波動的原因。不過，該機構仍對未來持樂觀態度，認為強勁的盈利增長勢頭以及由人工智慧驅動的經濟增長將推動市場發展。"
-    },
-    {
-      "id": "mkt:019e8d7a-6658-7ccb-b659-81f6785213d8",
-      "time": "2026-06-03 20:34:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Kuwait military says intercepted 13 ballistic missiles, 17 drones; defense ministry blames Iran】Kuwait’s defense ministry said on the afternoon of the 3rd it monitored and intercepted 13 “enemy” ballistic missiles and 17 drones in Kuwaiti airspace; some intercepts produced falling debris. The ministry condemned Iran for using missiles and drones to carry out “aggression,” saying multiple civilian and critical facilities — including Kuwait International Airport — were targeted, causing one Indian resident killed, several injured and significant property damage. Kuwait’s foreign ministry earlier said Iranian ballistic missiles and drones attacked multiple civilian sites, including the airport."
-    },
-    {
-      "id": "4915398",
-      "time": "2026-06-03 20:34:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "NAVITAS半導體股價盤前飆升8%；該公司與英偉達合作。"
-    },
-    {
-      "id": "mkt:019e8d7a-0e43-7ccb-b659-7c53598b0794",
-      "time": "2026-06-03 20:34:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "WTI",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Wall Street’s most bullish Yardeni turns cautious on S&P 500】Yardeni, long regarded as Wall Street’s most bullish forecaster, says its S&P 500 target is 8,250 but has grown more cautious after the index cleared 7,600. The firm cited Middle East tensions, oil-supply risks, possible Federal Reserve tightening and a wave of upcoming IPOs as near‑term drivers of market volatility. It remains optimistic on the medium term, citing strong earnings momentum and AI‑driven economic growth as market supports."
-    },
-    {
-      "id": "4915397",
-      "time": "2026-06-03 20:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特軍方稱攔截多枚“敵方”導彈和多架無人機】當地時間3日下午，科威特國防部發布訊息稱，科軍方當天共在該國領空監測到並攔截了13枚“敵方”彈道導彈和17架無人機，其中部分導彈被攔截後，導彈碎片墜地。科威特國防部在宣告中譴責伊朗使用導彈和無人機實施“侵略”行為，並以包括科威特國際機場在內的民用設施和重要設施為目標，造成一名印度居民死亡和多人受傷，同時造成重大財產損失。（央視新聞）"
-    },
-    {
-      "id": "4915396",
-      "time": "2026-06-03 20:33:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Kraken：首批代幣化IPO將在未來數週面向Kraken及XSTOCKS聯盟其他成員的客戶開放。"
-    },
-    {
-      "id": "4915395",
-      "time": "2026-06-03 20:33:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國能源部選定標準核能公司，就過剩鈽利用專案進入深度磋商階段。"
-    },
-    {
-      "id": "mkt:019e8d79-0216-7ccb-b659-72ca2ca1a3a5",
-      "time": "2026-06-03 20:32:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said satellite imagery confirms an aircraft shelter at Kuwait's Ali Al Salem Air Base was destroyed after Iran launched missile and drone strikes on the base earlier today. US CENTCOM said the attacks were intercepted."
     }
   ]
 }
