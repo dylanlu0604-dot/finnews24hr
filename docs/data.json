@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-11 04:40:17",
-  "count": 18352,
+  "updated": "2026-06-11 04:44:11",
+  "count": 18348,
   "items": [
+    {
+      "id": "mkt:019eb346-7899-7dd8-afac-1cb38fb1d9d3",
+      "time": "2026-06-11 04:43:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said most Iranian missiles previously failed to hit their targets."
+    },
+    {
+      "id": "4928974",
+      "time": "2026-06-11 04:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思： 伊朗大部分導彈均未命中目標。"
+    },
+    {
+      "id": "mkt:019eb344-f700-7dd8-afac-177bec2d3beb",
+      "time": "2026-06-11 04:41:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Defense Minister Hegseth said the U.S., not Iran, controls the Strait of Hormuz."
+    },
+    {
+      "id": "4928973",
+      "time": "2026-06-11 04:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思： 今晚的打擊行動將力度十足、立場明確。"
+    },
     {
       "id": "mkt:019eb342-3cf6-7dd8-afac-0f3111867325",
       "time": "2026-06-11 04:38:43",
@@ -169039,89 +169074,6 @@
         "國際"
       ],
       "text": "美聯儲洛根：人工智慧產業擴張帶來的需求已對美國貿易流向造成影響。"
-    },
-    {
-      "id": "mkt:019e8f39-faf4-7443-8fe4-460a1fe6f7ff",
-      "time": "2026-06-04 04:43:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Federal Reserve official Logan said the current energy shock is the most severe in history."
-    },
-    {
-      "id": "4916011",
-      "time": "2026-06-04 04:42:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：當前正遭遇史上影響最劇烈的能源領域動盪。"
-    },
-    {
-      "id": "mkt:019e8f38-8494-7443-8fe4-3b99defbad9e",
-      "time": "2026-06-04 04:41:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said the US would use a southern sea lane once the Strait of Hormuz reopens."
-    },
-    {
-      "id": "4916010",
-      "time": "2026-06-04 04:41:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員洛根：資料中心正在創造大量勞動力需求。"
-    },
-    {
-      "id": "4916009",
-      "time": "2026-06-04 04:40:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "霍尼韋爾國際股價盤後上漲1.2%。"
-    },
-    {
-      "id": "mkt:019e8f37-927d-7443-8fe4-305cd9a29b8d",
-      "time": "2026-06-04 04:40:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve official Logan said rising natural gas prices are feeding through into prices of other goods and services."
-    },
-    {
-      "id": "4916008",
-      "time": "2026-06-04 04:40:42",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：天然氣價格上漲正傳導至其他商品和服務的價格。"
-    },
-    {
-      "id": "4916007",
-      "time": "2026-06-04 04:40:26",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【馬斯克旗下SpaceX擬募資750億美元，衝刺史上最大IPO】據招股申報檔案，馬斯克旗下的SpaceX計劃IPO募資750億美元。公司發行5.556億股，發行價定為每股135美元；已遞交申請，擬在納斯達克主機板與納斯達克德州板塊上市，股票程式碼SPCX。目標估值1.77萬億美元。"
     }
   ]
 }
