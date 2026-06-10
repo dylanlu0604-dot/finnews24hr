@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-10 23:57:23",
-  "count": 18391,
+  "updated": "2026-06-11 00:01:45",
+  "count": 18401,
   "items": [
+    {
+      "id": "4928767",
+      "time": "2026-06-11 00:00:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申，普爾特只是臨時情報總監。"
+    },
+    {
+      "id": "mkt:019eb243-8876-7dd8-afa8-97064b38a6bd",
+      "time": "2026-06-11 00:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the White House is interviewing five candidates for the Director of National Intelligence nomination."
+    },
+    {
+      "id": "4928766",
+      "time": "2026-06-11 00:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江門中微子實驗首個物理成果在《自然》發表】6月10日，江門中微子實驗（JUNO）首個物理成果“精確測定中微子的兩個振盪引數”以封面文章形式在國際學術期刊《自然》發表。透過對2025年8月26日至11月2日共59天有效資料的分析，科研團隊完成兩項關鍵振盪引數的高精度測量，相較於過去數十年多項實驗的綜合結果，精度提高了1.6倍。"
+    },
+    {
+      "id": "mkt:019eb243-63c1-7dd8-afa8-881660af9d0e",
+      "time": "2026-06-11 00:00:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he has the authority to sell Fannie Mae and Freddie Mac."
+    },
+    {
+      "id": "4928765",
+      "time": "2026-06-11 00:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦統計局：截至6月8日當週，俄羅斯周度消費者通脹率為0.20%，前一週為0.15%。"
+    },
+    {
+      "id": "mkt:019eb243-1a35-7dd8-afa8-802bee3ab9e7",
+      "time": "2026-06-11 00:00:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump praised FHFA Director Pulte's performance overseeing Fannie Mae and Freddie Mac."
+    },
+    {
+      "id": "mkt:019eb242-fca4-7dd8-afa8-7e9ba562d059",
+      "time": "2026-06-10 23:59:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "On the USMCA, President Trump said he is in talks with the other parties and will wait and see."
+    },
+    {
+      "id": "mkt:019eb242-f391-7dd8-afa8-723b4c043a0e",
+      "time": "2026-06-10 23:59:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: US will resume \"heavy\" strikes on Iran; says Tehran should sign deal】President Trump said the United States would take a very tough line and resume heavy strikes on Iran if a peaceful agreement cannot be reached. Speaking at the White House, he said we will hit them and resume bombing, and cited Iran’s downing of an Apache helicopter in the Strait of Hormuz. Trump said the US has the right to resume strikes and that he wants a meaningful agreement which Iran should sign. A Fox News report earlier said he was close to ordering strikes on Iranian infrastructure; Trump said he would not specify whether bridges or power plants would be targeted."
+    },
+    {
+      "id": "4928764",
+      "time": "2026-06-10 23:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談房利美和房地美：我有權出售它們。"
+    },
+    {
+      "id": "4928763",
+      "time": "2026-06-10 23:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚普爾特在房利美和房地美的工作。"
+    },
+    {
+      "id": "4928762",
+      "time": "2026-06-10 23:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就美墨加協定表態：我們正與他們溝通，靜觀其變。"
+    },
+    {
+      "id": "mkt:019eb241-f8a7-7dd8-afa8-681d569fed06",
+      "time": "2026-06-10 23:58:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: the US does not need Mexico or Canada for anything; Mexico and Canada must treat the US better."
+    },
+    {
+      "id": "4928761",
+      "time": "2026-06-10 23:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：墨西哥和加拿大必須給美國更好待遇。"
+    },
+    {
+      "id": "4928760",
+      "time": "2026-06-10 23:58:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：墨西哥和加拿大必須更好地對待我們。"
+    },
+    {
+      "id": "4928759",
+      "time": "2026-06-10 23:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國不需要墨西哥或加拿大擁有的任何東西。"
+    },
+    {
+      "id": "4928758",
+      "time": "2026-06-10 23:57:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及《美墨加協定》：我不知道是否會重啟該協定。"
+    },
     {
       "id": "mkt:019eb240-10cb-7dd8-afa8-64cc0c4e1872",
       "time": "2026-06-10 23:56:43",
@@ -9,6 +148,14 @@
         "MKT News"
       ],
       "text": "Trump said he does not intend to renew the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "4928757",
+      "time": "2026-06-10 23:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談美墨加協定：不打算續簽。"
     },
     {
       "id": "mkt:019eb23f-faa7-7dd8-afa8-59f6bed45cda",
@@ -169487,62 +169634,6 @@
         "國際"
       ],
       "text": "【魯比奧重申美對伊軍事行動已結束】當地時間3日，美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。魯比奧稱，“我們已經不再持續對伊朗境內目標實施打擊，因為‘史詩怒火’行動已經結束。”魯比奧還表示，儘管美國和以色列對伊朗軍事能力造成重創，但伊朗“仍保留一定無人機和海上作戰能力”。（央視新聞）"
-    },
-    {
-      "id": "4915778",
-      "time": "2026-06-04 00:00:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯福利基金規模增至 1824.1 億美元。"
-    },
-    {
-      "id": "4915777",
-      "time": "2026-06-04 00:00:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "據知情人士透露，智利國家銅業公司（Codelco）將選擇Jorge Gomez為其CEO。"
-    },
-    {
-      "id": "mkt:019e8e37-26f6-7443-8fdf-8442c12e2167",
-      "time": "2026-06-04 00:00:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat: Russia's Q1 capital investment fell 14.3% YoY."
-    },
-    {
-      "id": "4915776",
-      "time": "2026-06-04 00:00:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加州銀行人質劫持事件結束 嫌犯被擊斃】據美國媒體3日報道，在加利福尼亞州貝克斯菲爾德市的一家銀行內被劫持的人質當天已經全部獲救，嫌犯被美國聯邦調查局人員擊斃。 據當地媒體報道，當地時間2日13時左右，一名據稱胸前綁有炸彈的男子在洛杉磯以北約180公里的貝克斯菲爾德市的一家大通銀行建築物內劫持了“多名人質”，導致附近區域被封鎖。當地警方和美國聯邦調查局派出的談判專家與該男子進行10多個小時的談判，有兩名人質在談判期間獲得釋放。 警方3日上午證實，在美國聯邦調查局人員開槍擊斃嫌犯後，“人質劫持事件宣告結束”。警方稱，沒有人質受傷，他們在現場接受了醫療檢查。(新華社)"
-    },
-    {
-      "id": "mkt:019e8e35-35ac-7443-8fdf-7b83fc0c8499",
-      "time": "2026-06-03 23:58:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said the U.S. and the EU are committed to complying with trade agreements."
-    },
-    {
-      "id": "4915775",
-      "time": "2026-06-03 23:57:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：美歐雙方均承諾恪守雙邊貿易協定。"
-    },
-    {
-      "id": "4915774",
-      "time": "2026-06-03 23:57:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐菲律賓大使館：再次提醒在菲律賓中國公民和企業加強安全防範】近段時間，菲律賓軍隊和執法部門針對在菲中國公民和企業的盤查滋擾以及選擇性執法頻發，在菲中國公民和企業面臨的安全風險上升。駐菲律賓使領館再次提醒在菲中國公民和企業密切關注當地形勢，切實加強安全防範，嚴格遵守當地法律法規，合法從業，合規經營，不從事與入境目的或簽證種類不符的活動，並避免逾期居留。如遇緊急情況，請及時聯絡使領館。（中國駐菲律賓大使館微信公眾號）"
     }
   ]
 }
