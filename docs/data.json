@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-10 11:01:02",
-  "count": 18735,
+  "updated": "2026-06-10 11:04:54",
+  "count": 18730,
   "items": [
+    {
+      "id": "mkt:019eaf7c-9cf8-7444-ba06-e5ec97eaa8bf",
+      "time": "2026-06-10 11:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's Armed Forces said they intercepted and shot down five missiles launched from Iran and headed toward Azraq, state television reported. Debris fell after the intercepts; no casualties or damage were reported."
+    },
+    {
+      "id": "4927175",
+      "time": "2026-06-10 11:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦武裝部隊稱，攔截導彈後有碎片墜落，目前暫無人員傷亡或財產損失報告。"
+    },
+    {
+      "id": "4927174",
+      "time": "2026-06-10 11:03:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華友鈷業旗下廣西新材料公司增資至25.9億 增幅約26%】天眼查App顯示，近日，廣西華友新材料有限公司發生工商變更，新增中郵金融資產投資有限公司、興銀金融資產投資有限公司等為股東，徐偉卸任法定代表人，由劉秀慶接任，同時，註冊資本由約20.5億人民幣增至約25.9億人民幣，增幅約26%。該公司成立於2021年4月，經營範圍包括電子專用材料製造、電子專用材料銷售、電子專用材料研發、新材料技術研發等，現由華友鈷業（603799）、華秦（香港）有限公司及上述新增股東等共同持股。"
+    },
+    {
+      "id": "4927173",
+      "time": "2026-06-10 11:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦武裝部隊稱，他們攔截並擊落了五枚從伊朗射向阿茲拉克基地的導彈。"
+    },
+    {
+      "id": "4927172",
+      "time": "2026-06-10 11:03:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "隔夜SHIBOR報1.3840%，上漲0.00個基點。7天SHIBOR報1.4130%，下降0.70個基點。3個月SHIBOR報1.4020%，上漲0.00個基點。"
+    },
+    {
+      "id": "4927171",
+      "time": "2026-06-10 11:02:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率下跌13個基點，此前曾連續4天上漲。"
+    },
+    {
+      "id": "4927170",
+      "time": "2026-06-10 11:00:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【GENMA為泰國客戶打造的4臺RTG順利發運 再獲越南零排放RTG新單】據潤邦股份訊息，近日，GENMA為泰國客戶打造的4臺RTG在完成廠內嚴格除錯後，順利裝船發運。與此同時，GENMA再獲東南亞市場新訂單——將為越南客戶提供全新Zero Emission RTG。"
+    },
     {
       "id": "4927169",
       "time": "2026-06-10 11:00:15",
@@ -172909,116 +172967,6 @@
         "其他"
       ],
       "text": "巴克萊將維多利亞的秘密目標價從67美元上調至108美元。"
-    },
-    {
-      "id": "4914124",
-      "time": "2026-06-03 11:04:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前5個月上海口岸離境退稅20.1萬票 居全國首位】記者6月3日從上海海關獲悉，今年前5個月，上海口岸累計完成離境退稅20.1萬票，涉及退稅商品銷售金額19.2億元，同比分別增長300%、62%；數量和金額均佔全國總量約4成，居全國首位。（央視新聞）"
-    },
-    {
-      "id": "4914123",
-      "time": "2026-06-03 11:04:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨漲超1%。"
-    },
-    {
-      "id": "mkt:019e8b70-532b-7ee2-b13d-da1f7a38bd26",
-      "time": "2026-06-03 11:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesian stock index extends losses to 2%."
-    },
-    {
-      "id": "4914122",
-      "time": "2026-06-03 11:04:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本生命保險公司與黑石集團在私募信貸和房地產領域開展合作，日本生命保險公司將在未來5年內向黑石集團配置 1.5 萬億日元資金。"
-    },
-    {
-      "id": "4914121",
-      "time": "2026-06-03 11:03:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌2%至6071.08點。"
-    },
-    {
-      "id": "te:economy:555948",
-      "time": "2026-06-03 11:02:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Falls After Soft GDP Data — Australia’s 10-year government bond yield fell below 4.9%, staying near eight-week lows as softer-than-expected GDP data reinforced bets of fewer rate hikes. The economy grew by just 0.3% in Q1, below expectations of 0.5% and down from 0.9% previously, while annual growth of 2.5% also missed forecasts, reinforcing signs that higher interest rates are cooling demand. The softer readings feed into the Reserve Bank’s June 15–16 policy meeting, where officials will assess whether current settings are sufficiently restrictive to bring inflation back to target after three rate hikes this year. This comes against a backdrop of geopolitical tensions in the Middle East, which have pushed up global energy costs and added to external inflation risks. RBA board member Ian Harper noted that market measures of future inflation were creeping higher, describing it as a worrying development for expectations. Still, markets have ruled out another rate hike this month, but see a 50-50 chance in August."
-    },
-    {
-      "id": "4914120",
-      "time": "2026-06-03 11:02:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞汽車旗下奇達動力公司增資至25.3億，增幅約1004%】天眼查App顯示，5月29日，蕪湖奇達動力電池系統有限公司發生工商變更，註冊資本由約2.3億人民幣增至約25.3億人民幣，增幅約1004%。該公司成立於2015年6月，法定代表人為李中兵，經營範圍包括電池製造、電池銷售、汽車零部件及配件製造等，由奇瑞汽車全資持股。"
-    },
-    {
-      "id": "4914119",
-      "time": "2026-06-03 11:02:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴州茅臺跌破1300元/股整數關口】6月3日開盤後，貴州茅臺(600519)股價一路走低，跌破1300元/股整數關口；截至發稿時，貴州茅臺股價維持在1281元/股附近，跌幅約2%。"
-    },
-    {
-      "id": "mkt:019e8b6e-877a-7ee2-b13d-d4f919b05233",
-      "time": "2026-06-03 11:02:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "China's STAR 50 Index extended gains to 4%, trading at 1,758.36, led by semiconductor supply-chain stocks Montage Technology, Shengke Communication, VeriSilicon, Baiwei Storage and Cambricon."
-    },
-    {
-      "id": "4914118",
-      "time": "2026-06-03 11:01:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【澳大利亞有關報告兜售臺海危機恐慌，國臺辦：不得人心】國務院臺灣事務辦公室今天（6月3日）上午舉行例行新聞釋出會。有記者問：澳大利亞羅伊研究所近日釋出報告《併吞之後：中國對臺灣的統治計劃》稱，北京對臺策略已從過去強調“和平統一、高度自治”，逐步轉向“先鎮壓、再治理”的“高壓模式”。請問對此有何評論？朱鳳蓮：臺灣問題是中國內政。完成祖國統一是中國人自己的事，是維護國家主權和領土完整的正義事業，所謂“併吞”、“鎮壓”之說完全顛倒黑白。有關報告蓄意散播“中國威脅”謬論，兜售臺海危機恐慌，不得人心。我們要再次強調，“和平統一、一國兩制”是我們解決臺灣問題的基本方針，也是實現國家統一的最佳方式。“一國兩制”在臺灣的具體實現形式會充分考慮臺灣現實情況，會充分吸收兩岸各界意見和建議，會充分照顧到臺灣同胞利益和感情。"
-    },
-    {
-      "id": "4914117",
-      "time": "2026-06-03 11:01:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.21%，成分股中，連城數控漲8.07%，XD富士達漲6.28%，華嶺股份漲5.04%，曙光數創漲4.24%。"
-    },
-    {
-      "id": "4914116",
-      "time": "2026-06-03 11:01:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4.07%，成分股中，瀾起科技漲10.42%，盛科通訊漲8.58%，芯原股份漲7.60%，佰維儲存漲7.57%。"
     }
   ]
 }
