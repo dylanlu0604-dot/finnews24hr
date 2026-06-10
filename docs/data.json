@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-11 05:11:20",
-  "count": 18357,
+  "updated": "2026-06-11 05:15:19",
+  "count": 18353,
   "items": [
+    {
+      "id": "te:economy:558160",
+      "time": "2026-06-11 05:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "El Salvador Producer Prices Rise in May — Producer prices in El Salvador rose by 2.78% year-on-year in May 2026, accelerating from a 1.59% increase in the previous month. The pickup was largely driven by higher costs for electricity, gas, steam and air conditioning (10.34% vs 1.70% in April), activities of administrative and support services (5.20% vs 4.62%), healthcare and social assistance (4.44%, unchanged), transport and storage (3.22% vs 3.26%), and accommodation and food services (2.59% vs 2.20%). Producer prices continued to decline for information and telecommunications (-0.07%, unchanged), while water supply, sewerage, waste management and remediation activities also remained in negative territory (-0.15% vs 0.01%). Other notable increases were recorded in real estate activities (1.36% vs 0.81%) and other service activities (3.80% vs 2.23%)."
+    },
+    {
+      "id": "4929000",
+      "time": "2026-06-11 05:12:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普召開戰情室會議討論對伊朗軍事行動】據美國方面訊息，美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb360-41de-7dd8-afac-dac5f0bddb5e",
+      "time": "2026-06-11 05:11:30",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact mixed"
+      ],
+      "text": "Oracle (ORCL.N) CFO said the company expects an additional 34% of remaining performance obligations to be recognized over the next 13–36 months."
+    },
+    {
+      "id": "mkt:019eb360-1f1c-7dd8-afac-d03b5b9fdf84",
+      "time": "2026-06-11 05:11:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA said fighter-jet noises heard in parts of Lorestan province, western Iran, were related to friendly aircraft operations."
+    },
+    {
+      "id": "4928999",
+      "time": "2026-06-11 05:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：洛雷斯坦省部分割槽域出現的戰機聲響，系己方軍機飛行所致。繼洛雷斯坦省多地傳出戰機轟鳴聲後，經核查確認，該聲響來自己方戰機執行常規巡邏與空中偵察任務。"
+    },
     {
       "id": "mkt:019eb35f-4ef2-7dd8-afac-cfa60a1a8f48",
       "time": "2026-06-11 05:10:28",
@@ -169085,86 +169131,6 @@
         "公司"
       ],
       "text": "博通執行長：公司仍預計2027年人工智慧半導體業務營收將超過1000億美元。"
-    },
-    {
-      "id": "4916040",
-      "time": "2026-06-04 05:15:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "德劭集團將客戶贖回鎖定期延長至四年，關停兩隻基金。"
-    },
-    {
-      "id": "mkt:019e8f57-0bd7-7443-8fe4-d11bf2fdb9cb",
-      "time": "2026-06-04 05:15:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Australian Prime Minister Albanese said any new US tariffs would be unnecessary."
-    },
-    {
-      "id": "4916039",
-      "time": "2026-06-04 05:15:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：將與阿波羅全球管理公司、黑石集團及其他投資者聯合打造AI XPV平臺，到2028年累計部署超過20吉瓦的算力容量。"
-    },
-    {
-      "id": "4916038",
-      "time": "2026-06-04 05:14:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO預計，人工智慧半導體營收增長將在2028財年延續。"
-    },
-    {
-      "id": "4916037",
-      "time": "2026-06-04 05:14:03",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "博通財報電話會議期間，股價跌幅擴大至12%。"
-    },
-    {
-      "id": "4916036",
-      "time": "2026-06-04 05:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：Meta公司1吉瓦規模的初始訂單已收到，該訂單包含AI專用加速晶片（XPUS）及博通的網路產品，將於2027年下半年開始交付。"
-    },
-    {
-      "id": "4916035",
-      "time": "2026-06-04 05:12:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通已向OpenAI交付晶片，並計劃2027年落地130萬千瓦算力基建。"
-    },
-    {
-      "id": "4916034",
-      "time": "2026-06-04 05:11:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：已達成協議，自2027年起，允許Anthropic額外接入5吉瓦基於下一代張量處理單元（TPU）的算力。"
-    },
-    {
-      "id": "mkt:019e8f53-d63a-7443-8fe4-cb8676431ff0",
-      "time": "2026-06-04 05:11:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【USDA probes suspected New World screwworm case in southern Texas; may prompt cattle movement restrictions】The USDA says a suspected New World screwworm case was detected in southern Texas and a sample has been sent to an Iowa lab for confirmation. If confirmed, it would be the first US detection since a 2016 Florida deer case that was eradicated by early 2017. The agency noted the US cattle herd is at a 75-year low. Confirmation would likely trigger cattle movement restrictions and could disrupt meatpackers’ operations."
     }
   ]
 }
