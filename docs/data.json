@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-10 21:37:38",
-  "count": 18522,
+  "updated": "2026-06-10 21:41:40",
+  "count": 18509,
   "items": [
+    {
+      "id": "4928510",
+      "time": "2026-06-10 21:40:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，海天網路漲40.00%，億航漲8.09%，億咖通科技漲4.84%，復朗集團漲4.62%，再鼎醫藥漲4.68%。"
+    },
+    {
+      "id": "te:markets:558084",
+      "time": "2026-06-10 21:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Lower as Tech Sector Drags — US stocks were lower on Wednesday, with the S&P 500 down 0.6%, the Nasdaq falling 0.8%, and the Dow Jones losing 280 points, as a renewed tech selloff weighed on sentiment amid lingering concerns over elevated AI-related valuations. Nvidia (-1.4%), Broadcom (-3.9%), and Micron Technology (-3.5%) were among the steepest decliners, while Oracle slipped 2.4% ahead of its earnings release after the closing bell. The industrial sector also weakened, although energy stocks outperformed as oil prices rose amid continued strikes between Iran and the US. Meanwhile, the latest CPI report showed US annual inflation accelerating to 4.2% in May, in line with expectations, while core inflation rose less than anticipated on a monthly basis, increasing 0.2%. The data offered some reassurance that the energy-driven shock has not yet meaningfully spilled over into broader price pressures. Still, markets continue to fully price in a 25-basis-point rate hike in December."
+    },
+    {
+      "id": "te:markets:558083",
+      "time": "2026-06-10 21:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.52% Lower — The Dow Jones Index is dropping 264 points. Leading the losses are Salesforce (-2.06%), 3M (-2.05%) and Honeywell International (-1.86%). Top gainers were Coca-Cola (1.52%), Verizon (1.46%) and Chevron (1.17%)."
+    },
+    {
+      "id": "mkt:019eb1c2-da2e-7dd8-afa2-c6e7cd0885c3",
+      "time": "2026-06-10 21:39:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose nearly $25 intraday to $4,167.90/oz."
+    },
+    {
+      "id": "4928509",
+      "time": "2026-06-10 21:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將Nuvalent股票評級從買入下調至中性，目標股價從每股138.00美元下調至每股124.00美元。"
+    },
+    {
+      "id": "4928508",
+      "time": "2026-06-10 21:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股部分光通訊股盤初反彈】美股部分光通訊股盤初反彈，AAOI漲超10%，Credo漲超6%，Lumentum漲超4%。"
+    },
+    {
+      "id": "mkt:019eb1c1-4789-7dd8-afa2-bc176250d21f",
+      "time": "2026-06-10 21:38:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BOT says foreign capital is returning to Thailand's equities and long-term bonds."
+    },
+    {
+      "id": "4928507",
+      "time": "2026-06-10 21:37:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破62000美元，日內漲0.50%。"
+    },
+    {
+      "id": "4928506",
+      "time": "2026-06-10 21:37:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1255.00美元/盎司。"
+    },
+    {
+      "id": "4928505",
+      "time": "2026-06-10 21:37:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "APOTEX HEALTH CORP在多倫多證券交易所首日上市，開盤價為28加元。"
+    },
+    {
+      "id": "4928504",
+      "time": "2026-06-10 21:37:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：外資重新流入泰國股市和長期債券市場。"
+    },
     {
       "id": "4928503",
       "time": "2026-06-10 21:36:39",
@@ -170728,245 +170834,6 @@
         "Impact bullish"
       ],
       "text": "Alphabet (GOOG.O) expects to launch Gemini 3.5 Pro in June."
-    },
-    {
-      "id": "mkt:019e8db7-eaac-7ccb-b65b-a309ddef0d79",
-      "time": "2026-06-03 21:41:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "ALPHABET (GOOG.O): GEMINI app monthly active users exceed 900 million, up 400 million YoY."
-    },
-    {
-      "id": "4915519",
-      "time": "2026-06-03 21:41:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：推出Meta商務代理平臺。"
-    },
-    {
-      "id": "te:markets:556190",
-      "time": "2026-06-03 21:41:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Pull Back — US equity indices pulled back from records amid risks of a hawkish Federal Reserve and the lack of progress between Iran and the US. The S&P 500, Nasdaq 100, and Dow edged lower. Data from the ADP showed the private sector added a net 122,000 jobs in May, above expectations, to consolidate the view of a strong labor market and add leeway for the Fed to raise rates and fight inflation. In turn, fresh strikes by Iran in Bahrain and Kuwait added strain to the current ceasefire, lifting energy prices. Financial stocks were lower as yields rose with JPMorgan dropping 1%. Hyperscalers were also sharply lower, with Oracle, Nvidia, and Microsoft down more than 2.5%. Still, soaring orders for AI infrastructure continued to support the sector. Marvell surged 15% to extend the 30% increase in the last session after Nvidia CEO Huang stated the semiconductor producer could be the next trillion-dollar company. Macy's inched higher on a stronger guidance and AT&T fell on a recommendation downgrade."
-    },
-    {
-      "id": "mkt:019e8db7-7417-7ccb-b65b-9b82ef782473",
-      "time": "2026-06-03 21:41:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports US House Speaker Johnson will meet OpenAI CEO today."
-    },
-    {
-      "id": "4915518",
-      "time": "2026-06-03 21:40:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：眾議院議長邁克·約翰遜今天將與 OPENAI 執行長會面。"
-    },
-    {
-      "id": "4915517",
-      "time": "2026-06-03 21:40:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【環球影城將在英國動工建設其在歐洲的首個主題公園】康卡斯特旗下 NBC 環球將投資超 50 億英鎊，在倫敦北部貝德福德郡打造集團首座歐洲主題樂園；英國政府配套出資 13 億英鎊，用於升級園區周邊公路、鐵路及各類配套基建。這家美國傳媒巨頭週三官宣，這座 2025 年 4 月首次披露規劃的度假區正式定名英國環球度假區（Universal United Kingdom Resort）。目前環球影城已在美國加州、佛羅里達州，以及新加坡、日本、中國落地五大度假區，依託《侏羅紀公園》《哈利?波特》等經典影視 IP 打造遊樂專案。企業透露，英國樂園將規劃多個主題園區，開業首年目標年接待遊客 850 萬人次。"
-    },
-    {
-      "id": "mkt:019e8db7-1e13-7ccb-b65b-956c33c2ee43",
-      "time": "2026-06-03 21:40:40",
-      "tags": [
-        "MKT News",
-        "GOOG.O",
-        "Impact mixed"
-      ],
-      "text": "ALPHABET (GOOG.O) cut GEMINI service costs by 78%."
-    },
-    {
-      "id": "4915516",
-      "time": "2026-06-03 21:40:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：為推進商業化落地，將面向企業推出 AI 智慧代理產品 。"
-    },
-    {
-      "id": "mkt:019e8db6-d042-7ccb-b65b-8b4382bba036",
-      "time": "2026-06-03 21:40:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuelan interim president Rodriguez arrived in India."
-    },
-    {
-      "id": "te:markets:556188",
-      "time": "2026-06-03 21:40:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.33% Lower — The Dow Jones Index is dropping 169 points. Leading the losses are IBM (-5.39%), Salesforce (-3.42%) and Goldman Sachs (-1.96%). Top gainers were Sherwin-Williams (2.31%), Walmart (1.66%) and Caterpillar (1.45%)."
-    },
-    {
-      "id": "4915515",
-      "time": "2026-06-03 21:40:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【唯捷創芯：擬投資2.7億元取得偲百創33.40%股權】唯捷創芯公告，公司擬與偲百創及其股東簽署《增資協議》《股權轉讓協議》，以認購新增資本及受讓股權形式合計投資2.7億元取得偲百創33.40%股權。其中，以自有資金2.53億元認購偲百創新增註冊資本487.64萬元，並以自有資金1747.4萬元受讓戴初賢持有的偲百創註冊資本人民幣48.87萬元。增資及受讓股權完成後，公司將持有偲百創33.40%股權，成為其股東。本次交易不構成關聯交易和重大資產重組，無需提交股東會審議透過。"
-    },
-    {
-      "id": "4915514",
-      "time": "2026-06-03 21:39:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼表示，我們（加拿大）支援美國提案的總體目標，並稱該提案的起草方式不會對絕大多數加拿大出口產品造成影響。"
-    },
-    {
-      "id": "mkt:019e8db6-1d7b-7ccb-b65b-8316b2b5bf05",
-      "time": "2026-06-03 21:39:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Carney says a trade agreement with the U.S. remains Canada's best option."
-    },
-    {
-      "id": "mkt:019e8db5-d67b-7ccb-b65b-7a75d0337dd4",
-      "time": "2026-06-03 21:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said U.S. new tariffs will not affect most Canada-U.S. trade."
-    },
-    {
-      "id": "te:markets:556187",
-      "time": "2026-06-03 21:39:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper is down by 2% — Copper decreased 2% to 6.5166 USD/Lbs"
-    },
-    {
-      "id": "mkt:019e8db5-a09c-7ccb-b65b-75f68cd0cac0",
-      "time": "2026-06-03 21:39:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "ALPHABET (GOOG.O): Paid subscribers for GEMINI recently reached 350 million."
-    },
-    {
-      "id": "4915513",
-      "time": "2026-06-03 21:38:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet：Gemini 應用程式每月使用者超過9億。"
-    },
-    {
-      "id": "mkt:019e8db5-5848-7ccb-b65b-6babf870611a",
-      "time": "2026-06-03 21:38:49",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Auto manufacturers urged the U.S. Environmental Protection Agency (EPA) to promptly revise motor-vehicle pollution emissions regulations and supported delaying the rules' implementation by two years."
-    },
-    {
-      "id": "mkt:019e8db5-54a9-7ccb-b65b-630e65a126e3",
-      "time": "2026-06-03 21:38:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "ALPHABET (GOOG.O): GEMINI app monthly users exceed 900 million."
-    },
-    {
-      "id": "mkt:019e8db4-dfe2-7ccb-b65b-5b84ab8e4f3e",
-      "time": "2026-06-03 21:38:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) announced the launch of enterprise-facing AI business agents and an accompanying agent platform."
-    },
-    {
-      "id": "4915512",
-      "time": "2026-06-03 21:38:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌母公司Alphabet股權募資規模超預期】本週，谷歌母公司Alphabet集團透過承銷型公開售股完成股票發售（該模式由銀行等機構先全額認購股份，再對外分銷）。公司此前規劃透過該方式募資300億美元，作為本輪巨型股權融資的組成部分；最終實際募得350億美元，令本輪整體融資總額增至850億美元。知情人士透露，Alphabet集團在週一官宣募資計劃前，已對接約75家投資機構；公告發布後新增大量意向投資方，促使公司超額配售股份。企業表示，本次募資所得資金將用於擴建資料中心，以及採購算力資源，支撐大模型的訓練與落地部署。"
-    },
-    {
-      "id": "4915511",
-      "time": "2026-06-03 21:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼表示，加拿大與美國同樣對供應鏈中存在強迫勞動問題抱有擔憂。"
-    },
-    {
-      "id": "4915510",
-      "time": "2026-06-03 21:37:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta宣佈推出面向企業端的人工智慧商務代理及商務代理平臺。"
-    },
-    {
-      "id": "mkt:019e8db4-7336-7ccb-b65b-54432bd01c5d",
-      "time": "2026-06-03 21:37:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact mixed"
-      ],
-      "text": "Alphabet (GOOG.O) expects its capital expenditures to be significantly higher than in 2026."
     }
   ]
 }
