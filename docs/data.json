@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-10 16:58:00",
-  "count": 18522,
+  "updated": "2026-06-10 17:01:58",
+  "count": 18512,
   "items": [
+    {
+      "id": "4927811",
+      "time": "2026-06-10 17:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Tensorwave 完成 3.5 億美元 B 輪融資，AMD 與邁格納資本參與投資。"
+    },
+    {
+      "id": "4927810",
+      "time": "2026-06-10 17:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達美股盤前跌超2%】英偉達美股盤前跌超2%，現報204.01美元。"
+    },
+    {
+      "id": "4927809",
+      "time": "2026-06-10 17:00:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：一家對標英偉達的資料中心初創公司估值達 15.5 億美元。"
+    },
+    {
+      "id": "4927808",
+      "time": "2026-06-10 17:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【津藥藥業：子公司硫酸阿米卡星注射液透過一致性評價，累計研發費用約236萬元】津藥藥業公告，公司子公司湖北津藥藥業股份有限公司近日收到國家藥品監督管理局核准簽發的硫酸阿米卡星注射液《藥品補充申請批准通知書》，批准本品透過仿製藥質量和療效一致性評價。該藥品適用於敏感革蘭陰性桿菌與葡萄球菌屬所致的嚴重感染。截至目前，湖北津藥在該專案上已累計投入研發費用約236萬元。根據米內網資料，2024年、2025年硫酸阿米卡星注射液國內銷售額分別為3.88億元、2.65億元。"
+    },
+    {
+      "id": "4927807",
+      "time": "2026-06-10 17:00:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【京基智農股價“兩連板”，公司最新回應：禽類養殖佔比小】6月10日，京基智農股價再度漲停，股價實現“兩連板”。京基智農方面回應表示，當前，公司禽類養殖佔比較小，公司主要業務是生豬養殖。股價最近回暖可能和5月份以來生豬價格止跌企穩有關，公司也發了相關的銷售簡報，和雞蛋價格變動關係不大。依據公司銷售簡報，2026年5月，公司銷售生豬21.47萬頭，銷售收入2.38億元；商品豬銷售均價9.82元/公斤。2026年1-5月，公司累計銷售生豬115.03萬頭，累計銷售收入13.30億元。（中證網）"
+    },
+    {
+      "id": "te:markets:558001",
+      "time": "2026-06-10 17:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.31% — Top currency gainers are Indian Rupee (0.31%), Brazilian Real (0.29%) and Euro (0.09%). Biggest loser is Australian Dollar (-0.26%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
+    {
+      "id": "mkt:019eb0c2-aa26-7aad-8123-d631651d641a",
+      "time": "2026-06-10 17:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jingji Zhinong shares hit second straight daily limit; company says poultry a minor part of operations】On June 10 Jingji Zhinong shares closed at a second consecutive daily limit. The company said poultry farming accounts for a small portion of its business and its core activity is hog production. The recent stock rebound may be linked to hog prices stabilizing since May, the company added, and it has issued a sales brief; it said the move is not closely related to egg-price changes. According to the sales brief, in May 2026 the company sold 214,700 hogs for 238 million yuan, with an average selling price of 9.82 yuan/kg. From January–May 2026 it sold 1,150,300 hogs for cumulative sales of 1.33 billion yuan."
+    },
+    {
+      "id": "4927806",
+      "time": "2026-06-10 17:00:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘4月份工業生產同比增長2.1%。"
+    },
+    {
+      "id": "4927805",
+      "time": "2026-06-10 16:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：美國違反停火協議 損害外交程序】當地時間10日，伊朗外交部發言人巴加埃表示，當天發生的事情證明，伊朗軍隊將毫不猶豫地保衛祖國，美國自相矛盾的資訊和持續違反停火協議的行為損害了外交程序。當天凌晨，伊朗南部阿巴斯港、格什姆島、錫裡克地區、賈斯克地區等地多次傳出爆炸聲。美軍稱對伊朗展開所謂“自衛性打擊”，伊朗軍方則稱針對美軍目標展開回擊。（央視新聞）"
+    },
+    {
+      "id": "4927804",
+      "time": "2026-06-10 16:59:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗媒體：美軍空襲導致伊朗南部至少兩萬居民斷水】據伊朗塔斯尼姆社10日報道，伊朗南部霍爾木茲甘省兩處關鍵供水基礎設施在日前美軍發動的空襲中遭導彈擊中破壞，導致當地至少2萬名居民的飲用水供應完全中斷。霍爾木茲甘省水務公司執行長證實，遭襲擊破壞的民用設施為巴馬尼地區的兩座混凝土蓄水池，總容量為2500立方米。這兩座蓄水池承擔著庫赫斯塔克鎮及周邊10個村莊的全部生活用水供應，目前受損設施已完全停止執行。報道稱，襲擊造成的直接基礎設施經濟損失估計約為1400億託曼（約合79.5萬美元）。由於事發地區近期氣溫高達45攝氏度至50攝氏度，且地下水資源匱乏，當地民眾的飲水安全正面臨嚴峻挑戰。目前，伊朗有關部門已啟動應急機制，透過調集油罐車運送生活用水並部署臨時替代抽水系統，全力緩解受災地區的斷水危機。"
+    },
+    {
+      "id": "4927803",
+      "time": "2026-06-10 16:59:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電：三林萬業提前終止減持計劃，累計減持0.96%股份】先導基電公告，股東三林萬業（上海）企業集團有限公司原計劃自2026年3月17日至6月16日期間，透過集中競價和大宗交易減持不超過1911萬股（佔總股本2.05%）。2026年3月17日至6月9日期間，三林萬業透過集中競價方式累計減持904.75萬股，佔總股本0.96%，減持價格區間17.82~29.91元/股，減持總金額2.08億元。近日公司收到三林萬業告知函，決定提前終止本次減持計劃，剩餘未減持股份不再減持。當前三林萬業持股4543.65萬股，佔總股本4.80%。"
+    },
+    {
+      "id": "4927802",
+      "time": "2026-06-10 16:58:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：歐洲央行或更傾向於在夏季連續加息 而非等到九月】東方匯理的首席投資官們表示，歐洲央行可能會在今年夏天連續兩次加息，而非等到9月。報告稱，“我們預計歐洲央行今年將進行兩次臨時性加息，分別在6月和7月。”該機構表示，這一預期的主要驅動力是通脹預期的持續上升。“我們認為，歐洲央行越來越擔心通脹預期可能固化，尤其是調查資料持續顯示企業提高銷售價格的意願正在增強。”與此同時，該機構認為目前尚無令人信服的證據表明存在顯著的二輪效應。“因此，我們認為歐洲央行不應啟動一個漫長的緊縮週期。”"
+    },
+    {
+      "id": "mkt:019eb0c1-6d83-7aad-8123-cec329d8812c",
+      "time": "2026-06-10 16:58:46",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Credit Agricole CIB says ECB likely to hike in June and July rather than wait until September】Credit Agricole CIB CIOs say the ECB is more likely to deliver consecutive rate increases this summer rather than wait until September. \"We expect the ECB to deliver two one-off rate hikes this year, in June and July,\" the firm said. The call is driven by rising inf expectations; survey data show firms are increasingly willing to raise selling prices, raising the risk that expectations could become entrenched. The firm adds there is currently no convincing evidence of significant second‑round effects, so it does not expect the ECB to start a prolonged tightening cycle."
+    },
+    {
+      "id": "4927801",
+      "time": "2026-06-10 16:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆市市長：本市並未發生爆炸，網傳聽到的爆炸聲與格什姆無關。"
+    },
+    {
+      "id": "4927800",
+      "time": "2026-06-10 16:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首批4所疏解高校雄安校區預計明年開門辦學】“雄安釋出”訊息，2023年11月，首批疏解到雄安的4所高校北京交通大學、北京科技大學、北京林業大學、中國地質大學（北京）開工建設。2025年12月，第一組團首批建築主體結構封頂。目前，首批4所疏解高校雄安校區已進入大規模加速建設階段，預計2027年實現開門辦學。首批4所疏解高校雄安校區均位於雄安新區起步區第五組團北部，自西向東依次是北京交通大學雄安校區、中國地質大學（北京）雄安校區、北京科技大學雄安校區和北京林業大學雄安校區。作為校區建設的先行工程，各校第一組團建築主要為宿舍樓等設施。"
+    },
+    {
+      "id": "4927799",
+      "time": "2026-06-10 16:58:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶澳、愛旭漲停！光伏概念股尾盤集體異動 多家上市公司稱“完全不知道原因”】6月10日收盤前，光伏裝置概念股出現異動。晶澳科技、愛旭股份股價漲停，隆基綠能、天合光能、通威股份等公司股價大幅跳漲。對此，記者聯絡了上述多家上市公司，晶澳科技、隆基綠能等公司負責人均表示“完全不知道原因”。而有行業人士猜測，相關公司股價異動或與市場流傳的相關政策“小作文”有關。訊息稱，6月中旬，工信部將釋出第三項光伏元件強制性國家標準，該標準針對能效提出新要求，按照過往行業口徑，預計將清退約30%落後產能。財聞就該訊息向工信部進行核實，接聽電話的工作人員表示暫不瞭解相關情況，會向業務處室進一步核實，截至發稿，財聞尚未收到官方回覆。另有市場訊息提及，國家能源局法改司於6月10日上午在局116會議室，召開能源領域“反制裁、反干預、反長臂管轄”應對工作，針對國際上對我國出口的歧視性政策和措施等展開討論，並提出應對建議。財聞就此致電核實，接聽電話的工作人員表示僅可對外解讀公開政策，無法證實內部會議相關細節。"
+    },
+    {
+      "id": "4927798",
+      "time": "2026-06-10 16:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思創智聯：控股股東及一致行動人合計質押5.97%】思創智聯公告，控股股東蒼南芯盛及一致行動人蒼南芯創分別將5019.16萬股、1658.6萬股辦理質押，佔各自持股80.00%，佔公司總股本4.49%、1.48%，合計質押6677.76萬股，佔公司總股本5.97%。質押起始日均為2026年6月9日，質權人為上海浦東發展銀行股份有限公司杭州分行，質押用途為自身資金需求。本次股份質押不涉及重大資產重組等業績補償義務。"
+    },
     {
       "id": "mkt:019eb0bf-ecc3-7aad-8123-c28b9059790d",
       "time": "2026-06-10 16:57:08",
@@ -170576,259 +170723,6 @@
         "MKT News"
       ],
       "text": "IMF: Bangladesh authorities have requested a new IMF financial arrangement."
-    },
-    {
-      "id": "mkt:c5599511-07f6-4ffb-9429-ca35d0d9ec0b",
-      "time": "2026-06-03 17:01:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Russian Finance Ministry said it will raise daily foreign-exchange purchases to 9.9 bln rubles from 5.8 bln between June 5 and July 6, and will buy 208.2 bln rubles of FX over the period, up from 110.3 bln."
-    },
-    {
-      "id": "4914836",
-      "time": "2026-06-03 17:01:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：孟加拉國當局已申請一項新的基金組織融資安排."
-    },
-    {
-      "id": "mkt:019e8cb7-954d-7dde-9693-8cc43480b0c8",
-      "time": "2026-06-03 17:01:31",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC, Central Bank of Egypt renew bilateral local‑currency swap; size raised to CNY30 bln/EGP203 bln】China’s State Council approved renewal of a bilateral local‑currency swap between the People’s Bank of China and the Central Bank of Egypt, expanding the facility from CNY18 bln/EGP80.7 bln to CNY30 bln/EGP203 bln. The agreement is for three years and may be extended by mutual consent; officials said the expansion aims to deepen monetary‑financial cooperation, increase use of local currencies in bilateral trade and investment, and support financial‑market stability."
-    },
-    {
-      "id": "4914834",
-      "time": "2026-06-03 17:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖軍事顧問：將堅決回應每一次侵略】伊朗最高領袖軍事顧問雷扎伊3日在社交媒體發文稱，伊朗絕不允許美國在談判或停火程序中提出過分要求。對於每一次炮火和侵略，伊朗都將以導彈和無人機的猛烈攻擊予以回應。伊朗武裝部隊哈塔姆·安比亞中央司令部當天發表宣告稱，美國和以色列近期的軍事行動，向世界揭示了這些“偽人權捍衛者”的真面目，“米納卜小學超160名無辜兒童的死亡只是他們數百起罪行中的一例”。宣告稱，伊朗人民不會在威脅和侵略面前退縮，而是將團結一致，堅定信念，伊朗強大的武裝力量將誓死捍衛伊朗國家主權，絕不讓敵人得逞。宣告表示，美以別無選擇，只能向伊朗武裝力量和伊朗人民投降。（央視新聞"
-    },
-    {
-      "id": "mkt:019e8cb7-5030-7dde-9693-80af060366f0",
-      "time": "2026-06-03 17:01:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ARAMCO vice president for market analysis and sustainability said refining capacity fell by 3 mln bpd between 2020 and 2023, exacerbating system strains in the current crisis."
-    },
-    {
-      "id": "4914833",
-      "time": "2026-06-03 17:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北釋出冰雹、雷電預警訊號 這些地方注意防範】河北省氣象臺2026年6月3日16時22分發布冰雹橙色預警訊號：預計未來3小時，保定、雄安新區、廊坊南部、石家莊、滄州西部、衡水西部、邢臺中西部、邯鄲中西部地區將受冰雹天氣影響，請注意防範。河北省氣象臺2026年6月3日15時19分釋出雷電黃色預警訊號：預計今天下午到前半夜，唐山、秦皇島、保定、雄安新區、廊坊中南部、石家莊、滄州、衡水、邢臺、邯鄲和渤海海域有雷陣雨，雷雨時伴有雷暴大風（8-10級，局地可達11級以上）、短時強降水（小時雨量20—40毫米，局地可達50毫米以上）、冰雹等強對流天氣。請注意防範。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8cb7-090b-7dde-9693-786cf5fe38c2",
-      "time": "2026-06-03 17:01:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ARAMCO's vice president for market analysis and sustainability said investment in oil refining is insufficient."
-    },
-    {
-      "id": "mkt:019e8cb7-07bd-7dde-9693-73a806649981",
-      "time": "2026-06-03 17:00:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【17 trust companies approved for stock-index futures trading】The Beijing Supervision Bureau of the National Financial Regulatory Administration approved Jianxin Trust to conduct stock-index futures trading. A regulator review shows 17 trust companies now hold stock-index futures trading qualifications and the pace of approvals has noticeably accelerated. Huabao Trust was the first to gain the qualification in 2011; subsequent approvals include Jiangsu Trust, Guomin Trust, COFCO Trust, Zhejin Trust, Huaxin Trust, Caixin Trust, Yuecai Trust and Guotou Taikang Trust."
-    },
-    {
-      "id": "4914832",
-      "time": "2026-06-03 17:00:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特阿美市場分析與可持續發展副總裁：當前煉油領域存在投資不足的問題。"
-    },
-    {
-      "id": "4914831",
-      "time": "2026-06-03 17:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "挪威房價可能受季節性因素影響，環比上漲0.1%。"
-    },
-    {
-      "id": "mkt:019e8cb6-9a33-7dde-9693-6fe41023d731",
-      "time": "2026-06-03 17:00:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Advisor to Iran's supreme leader says Tehran will respond to every aggression】Advisor to Iran's supreme leader Rezai said on the 3rd via social media that Iran will not accept excessive US demands in negotiations or any ceasefire and will respond to every shelling or aggression with heavy missile and drone strikes. The Khatam al-Anbia Central Command said in a separate statement that recent US and Israeli military actions have exposed “fake human-rights defenders” and blamed them for the killing of more than 160 children at Minab Primary School, calling that one of hundreds of alleged crimes. The command said Iranians will not yield to threats, will defend national sovereignty, and that the US and Israel have no choice but to surrender to Iran’s armed forces and people."
-    },
-    {
-      "id": "4914830",
-      "time": "2026-06-03 17:00:15",
-      "tags": [
-        "資料"
-      ],
-      "text": "歐元區4月PPI月率 0.6%，預期0.5%，前值3.40%。\n歐元區4月PPI年率 4.9%，預期4.9%，前值由2.10%修正為2%。"
-    },
-    {
-      "id": "te:markets:556118",
-      "time": "2026-06-03 17:00:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Depreciates by 0.62% — Top currency losers are South Korean Won (-0.62%), Swedish Krona (-0.61%), New Zealand Dollar (-0.49%), Euro (-0.21%) and British Pound (-0.16%). Gains are led by Brazilian Real (0.34%), Dollar Index (0.16%) and Japanese Yen (0.09%)."
-    },
-    {
-      "id": "mkt:019e8cb6-7ff9-7990-baac-f35468762c3c",
-      "time": "2026-06-03 17:00:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Eurozone producer prices YoY for April 4.9%, matching consensus 4.9%; prior reading revised to 2.0% from 2.1%."
-    },
-    {
-      "id": "mkt:019e8cb6-7f4e-7990-baac-ed38d3c89b1e",
-      "time": "2026-06-03 17:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Eurozone April PPI MoM +0.6% vs +0.5% expected; prior +3.40%."
-    },
-    {
-      "id": "mkt:019e8cb6-0d7b-7990-baac-dfbf0fd34475",
-      "time": "2026-06-03 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | PPI (YoY) (Apr) | actual 4.9% | consensus 4.9% | previous 2.10%"
-    },
-    {
-      "id": "mkt:019e8cb6-0eaa-7990-baac-e312ff198b88",
-      "time": "2026-06-03 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | PPI (MoM) (Apr) | actual 0.6% | consensus 0.5% | previous 3.40%"
-    },
-    {
-      "id": "4914829",
-      "time": "2026-06-03 16:59:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【17家信託公司獲批開展股指期貨交易業務資格】據金融時報，近日，國家金融監督管理總局北京監管局批覆，批准建信信託有限責任公司開展股指期貨交易業務。記者梳理國家金融監督管理總局及各地監管機構批覆資訊發現，目前行業內已有17家信託公司持有股指期貨交易業務資格，且獲批節奏正在明顯提速。記者透過國家金融監督管理總局批覆的資訊發現，自2011年華寶信託成為業內首家獲得股指期貨交易業務資格的信託公司以來，截至發稿已有江蘇信託、國民信託、中糧信託、浙金信託、華鑫信託、財信信託、粵財信託、國投泰康信託等17家信託公司獲批股指期貨交易相關業務資格。"
-    },
-    {
-      "id": "4914828",
-      "time": "2026-06-03 16:59:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京滬高鐵：董事長劉洪潤因工作調動辭職】京滬高鐵6月3日公告，公司董事會近日收到董事長劉洪潤的書面辭職報告。劉洪潤因工作調動，申請辭去公司董事、董事長等職務。辭任後，劉洪潤將不在公司及公司控股子公司擔任任何職務。劉洪潤的辭職報告自送達董事會之日起生效。"
-    },
-    {
-      "id": "4914827",
-      "time": "2026-06-03 16:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度與南非擬擴大前沿科技領域合作。"
-    },
-    {
-      "id": "4914826",
-      "time": "2026-06-03 16:59:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浩瀚深度：股東雷振明減持229.88萬股 持股降至10%】浩瀚深度公告稱，股東雷振明因自身資金需要減持股份。2026年5月8日公司披露減持計劃，雷振明擬減持不超475.05萬股，不超總股本3%。截至6月3日，雷振明透過集中競價減持229.88萬股，佔公司股份1.45%，持股比例由11.45%降至10%。其持有股份均為無限售流通股，無權利限制。此外，除上述減持計劃外，不排除未來12個月增減持股可能。"
-    },
-    {
-      "id": "4914825",
-      "time": "2026-06-03 16:59:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美：煉油廠開工率創歷史新高，原油需求展現韌性。"
-    },
-    {
-      "id": "4914824",
-      "time": "2026-06-03 16:58:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國農業發展銀行：取消7年期債券(債券程式碼09250407)發行承銷額度，該期債券中標價格明顯偏離二級市場估值。"
-    },
-    {
-      "id": "4914823",
-      "time": "2026-06-03 16:58:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST諾泰：瑞他魯肽原料藥處於小試階段】ST諾泰(688076)6月3日在互動平臺表示，公司瑞他魯肽原料藥處於小試階段。"
-    },
-    {
-      "id": "4914822",
-      "time": "2026-06-03 16:58:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【小摩：李寧與庫里長期合作成品牌資產催化劑，維持“增持”評級】摩根大通發表研報指，李寧宣佈與四屆NBA總冠軍及兩屆NBA常規賽最有價值球員(MVP)庫裡(Stephen Curry)以及Curry品牌達成長期合作關係。該行認為，這次合作標誌著中國品牌與全球一線NBA球星之間的里程碑式協作，預期將為李寧的品牌資產、產品供應及海外擴張帶來正面效益。該行補充指，雖然這項合作可能需要時間才能開花結果，且執行力是關鍵因素，但這將成為推動其品牌與增長機遇的催化劑。該行預計此合作對李寧2026財年的財務表現影響有限。該行維持對其“增持”評級，基於現金流折現法(DCF)計算2026年12月的目標價為25.6港元，對應12個月預測市盈率的17倍。"
-    },
-    {
-      "id": "4914821",
-      "time": "2026-06-03 16:58:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4441.25美元/盎司。"
-    },
-    {
-      "id": "4914820",
-      "time": "2026-06-03 16:58:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4470美元/盎司，日內跌1.11%。"
     }
   ]
 }
