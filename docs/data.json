@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-10 11:12:57",
+  "updated": "2026-06-10 11:16:42",
   "count": 18732,
   "items": [
+    {
+      "id": "mkt:019eaf87-a21c-7444-ba07-173c39569814",
+      "time": "2026-06-10 11:16:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Afghan Taliban spokesman said a Pakistani airstrike killed at least 13 people and injured 14."
+    },
+    {
+      "id": "4927194",
+      "time": "2026-06-10 11:16:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "泡泡瑪特營運長表示，目前其在美國的收入有一半來自非Labubu產品。"
+    },
+    {
+      "id": "4927193",
+      "time": "2026-06-10 11:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股科網股反彈，美團-W漲超3%】港股科網股反彈，美團-W、快手-W漲超3%，騰訊控股漲超2%，嗶哩嗶哩-W漲超1%。"
+    },
+    {
+      "id": "4927192",
+      "time": "2026-06-10 11:12:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦稱攔截伊朗發射的導彈】路透社今天（6月10日）援引約旦武裝部隊的訊息稱，約旦攔截並擊落了從伊朗向阿茲拉克發射的五枚導彈。導彈被攔截後的碎片墜落，目前暫沒有人員傷亡或財產損失的報道。 伊朗伊斯蘭革命衛隊當地時間今天（6月10日）凌晨發宣告稱，襲擊了約旦境內的阿茲拉克美軍基地。（CCTV國際時訊）"
+    },
     {
       "id": "4927191",
       "time": "2026-06-10 11:12:08",
@@ -172949,42 +172984,6 @@
         "Energy"
       ],
       "text": "Documents from Malaysia's national oil company show it set the May official selling price for Malaysian crude at a premium of $126.80 per barrel."
-    },
-    {
-      "id": "4914141",
-      "time": "2026-06-03 11:15:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞國家石油公司（PETRONAS）公佈5月馬來西亞原油官方售價定為每桶升水126.80美元。"
-    },
-    {
-      "id": "mkt:019e8b79-ebf0-7ee2-b13e-046d1e527234",
-      "time": "2026-06-03 11:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch says New Zealand's earlier return to fiscal surplus still depends on economic growth."
-    },
-    {
-      "id": "4914139",
-      "time": "2026-06-03 11:13:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【工業富聯股價創歷史新高】工業富聯盤中股價創歷史新高，現漲5.11%，報84.10元，總市值為16538.07億元。"
-    },
-    {
-      "id": "te:markets:555953",
-      "time": "2026-06-03 11:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Rise on Escalating Middle East Tensions — European natural gas futures rose above €48 per megawatt as tensions in the Middle East intensified and diplomatic negotiations remained stalled. The US military said that Iran fired several ballistic missiles toward regional neighbors but failed to hit their targets, as American and allied forces intercepted missiles aimed at Kuwait and Bahrain, while the US also struck an Iranian military ground control station on Qeshm Island in response. This comes as Israel continued its attacks in Lebanon. These developments risk undermining already fragile and long-running talks between the two nations. The lack of progress toward a resolution has fueled concerns that disruptions to energy flows from the Persian Gulf could persist, raising fears over Europe's ability to replenish gas inventories ahead of winter, with storage facilities currently only around 38% full."
     }
   ]
 }
