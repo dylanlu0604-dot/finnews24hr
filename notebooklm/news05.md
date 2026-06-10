@@ -1,7 +1,273 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-10 18:59:19_
-_本檔包含 3709 則快訊，約 671371 字_
+_更新時間：2026-06-10 19:07:15_
+_本檔包含 3708 則快訊，約 671734 字_
+
+---
+
+### 2026-06-04 20:35:46  #公司
+
+【江西省與科大訊飛簽署戰略合作協議】據江西省人民政府訊息，6月3日，江西省與科大訊飛股份有限公司簽署戰略合作協議。江西省省長葉建春會見科大訊飛董事長劉慶峰一行，並共同見證簽約。葉建春表示，希望科大訊飛以此次簽約為契機，更好對接江西的產業、資源等優勢，加大在江西的投資力度，深度參與江西“人工智慧+”場景建設，帶動更多人工智慧產業鏈上下游企業來江西投資興業，助力江西構建更加完善的人工智慧產業生態。
+
+---
+
+### 2026-06-04 20:35:44  #經濟數據 #美國
+
+美國第一季度勞動力成本終值環比上升1.8%，預估上升2.4%。
+
+---
+
+### 2026-06-04 20:35:05  #其他
+
+【廣西探路AI賦能製造業煥新】4日，由廣西壯族自治區政府主辦、廣西壯族自治區工業和資訊化廳承辦的2026年廣西“人工智慧+製造”大會暨發展對接活動在廣西南寧舉辦。會上，廣西“人工智慧+製造”十大引領應用場景釋出，繪就出智造未來的“路線圖”。記者採訪瞭解到，政策賦能的牽引支撐作用愈發凸顯。廣西密集印發“人工智慧+製造”行動方案（2025—2027年）等系列配套政策，透過多舉措完善平臺載體、補齊產業要素、夯實人才根基，積極推進AI賦能製造業煥新，努力為產業發展鋪路蓄力。同時，本次活動同步釋出了廣西及各地市“人工智慧+製造”診斷報告，直面西部省區依託人工智慧賦能製造業程序中的難點堵點。（新華社）
+
+---
+
+### 2026-06-04 20:34:26  #MKT News #Important #XAUUSD #Impact bearish
+
+【World Gold Council: Global gold ETFs post $2.0 bln net outflow in May; AUM down 2% to $604 bln】World Gold Council data show global gold ETFs recorded a $2.0 bln net outflow in May, reducing total AUM 2% to $604 bln. Europe was the only region with net inflows ($334 mln); Asia saw $1.2 bln of outflows and North America $1.1 bln, the main source of the net outflow. May trading volumes rose modestly; average daily liquidity increased to $424 bln, remaining above the 2025 average.
+
+---
+
+### 2026-06-04 20:34:23  #公司
+
+德國商業銀行執行長：收購需要相對於當前股價支付大幅溢價。
+
+---
+
+### 2026-06-04 20:34:18  #MKT News
+
+Saudi energy minister says the world needs stability in the energy sector.
+
+---
+
+### 2026-06-04 20:34:16  #市場 #焦點 #國際
+
+【世界黃金協會：全球黃金ETF五月轉為淨流出】世界黃金協會：全球黃金ETF資金流向5月轉為淨流出，當月流出規模為20億美元，使總資產管理規模下降2%至6,040億美元。歐洲地區是唯一實現資金淨流入的地區，流入3.34億美元；亞洲地區流出12億美元，北美地區流出11億美元，成為資金淨流出的主要來源。5月黃金市場成交量小幅上升，日均流動性增至4,240億美元，並繼續高於2025年的平均水平。
+
+---
+
+### 2026-06-04 20:34:10  #其他
+
+沙特能源大臣表示：全球能源行業需要穩定。
+
+---
+
+### 2026-06-04 20:33:38  #公司
+
+【方興公司與廣東新粵、浙高信簽署三方戰略合作框架協議】據贛粵高速訊息，6月2日上午，方興公司與廣東新粵交通投資有限公司（簡稱“廣東新粵”）、浙江高信技術股份有限公司（簡稱“浙高信”）正式簽署戰略合作框架協議，根據協議，三方將整合屬地資源、工程建設、軟體研發、硬體供應鏈及科研平臺等優勢，在核心技術攻關、產品協同、市場拓展及產業鏈最佳化等方面開展深度合作。
+
+---
+
+### 2026-06-04 20:33:35  #其他
+
+【網傳“濮陽臺前撤縣融城”？官方：系謠言】“清朗河南”官微援引臺前縣網信辦訊息，近期，一則題為“濮陽縣域格局生變，濮陽臺前撤縣融城受關注”的推文在微信平臺傳播，發帖人稱實地到訪臺前縣，強調“臺前撤縣融城”是一場區域洗牌，將對當地居民生活產生影響等言論。經向民政部門核實，臺前縣從未接到過省、市、縣對臺前縣關於撤縣融城的任何資訊。該網傳資訊不實，網傳“濮陽縣域格局生變，濮陽臺前撤縣融城受關注”系謠言。
+
+---
+
+### 2026-06-04 20:32:41  #焦點 #國際
+
+黎巴嫩真主黨領導人卡西姆4日要求以色列從黎巴嫩撤軍並實現“全面”停火。（新華社）
+
+---
+
+### 2026-06-04 20:32:18  #市場 #國際
+
+美國股指期貨在周度初請失業金資料公佈後變化不大。
+
+---
+
+### 2026-06-04 20:31:57  #經濟數據 #美國
+
+美國5月23日當週持續申領失業救濟人數為177.7萬人，預估為178萬人。
+
+---
+
+### 2026-06-04 20:31:51  #公司
+
+德國商業銀行執行長：始終願意與義大利聯合信貸銀行進行討論。
+
+---
+
+### 2026-06-04 20:31:40  #經濟數據 #美國
+
+【美國上週首次申領失業救濟人數22.5萬】美國上週首次申領失業救濟人數22.5萬，預估為21.3萬，前值為21.5萬。
+
+---
+
+### 2026-06-04 20:31:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US Treasury yields remained lower after initial jobless claims data; 10-year yield down 3.8bps at 4.453%.
+
+---
+
+### 2026-06-04 20:31:12  #市場 #國際
+
+美國國債收益率在初請失業金資料公佈後延續跌勢；10年期美國國債收益率最新下跌3.8個基點，報4.453%。
+
+---
+
+### 2026-06-04 20:31:04  #國際
+
+美國至5月30日當週初請失業金人數錄得22.5萬人，為2026年2月7日當週以來新高。
+美國至5月23日當週續請失業金人數 177.7萬人，預期178萬人，前值由178.6萬人修正為178.5萬人。
+美國至5月30日當週初請失業金人數四周均值 21.475萬人，前值由20.9萬人修正為20.825萬人。
+
+---
+
+### 2026-06-04 20:31:00  #MKT News
+
+Egypt plans to replace in-kind subsidies with cash transfers in the coming fiscal year, the prime minister said.
+
+---
+
+### 2026-06-04 20:30:38  #公司
+
+【國家電網公司召開安全生產暨迎峰度夏保供視訊會議】6月4日，國家電網公司召開安全生產暨迎峰度夏保供視訊會議。公司董事長、黨組書記張智剛出席會議並講話。張智剛強調，要確保大電網安全執行，加強電網執行管控，確保裝置執行安全，強化電網安全治理。全力保障電力供應，服務電源增發穩供，提高電網支撐能力，發揮市場配置作用，持續強化需求側管理。用心做好供電服務，強化民生供電保障，持續最佳化電力營商環境，深入推進供電質量提升。
+
+---
+
+### 2026-06-04 20:30:30  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #XAUUSD
+
+US initial jobless claims for the week ending May 30 rose to 225,000, the highest level since the week of Feb. 7, 2026.
+
+---
+
+### 2026-06-04 20:30:20  #焦點 #國際
+
+美國至5月30日當週初請失業金人數 22.5萬人，預期21.3萬人，前值由21.5萬人修正為21.2萬人。
+
+---
+
+### 2026-06-04 20:30:17  #MKT News #DXY #Impact bullish #US10Y
+
+US continuing unemployment claims for the week ended May 23 1.777 mln, vs 1.78 mln expected; prior reading revised to 1.785 mln from 1.786 mln.
+
+---
+
+### 2026-06-04 20:30:16  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+US initial jobless claims four-week moving average for week ended May 30: 214,750; prior revised from 209,000 to 208,250.
+
+---
+
+### 2026-06-04 20:30:10  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #Impact bearish #DXY
+
+US initial jobless claims for week ended May 30: 225,000; consensus 213,000; prior week revised to 212,000 from 215,000.
+
+---
+
+### 2026-06-04 20:30:10  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #XAUUSD #Impact bullish
+
+US Q1 nonfarm productivity (final) +0.3% vs +0.5% expected; prior +0.8%.
+
+---
+
+### 2026-06-04 20:30:09  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
+
+US Q1 nonfarm unit labor costs, final +1.8% vs. +2.5% expected; prior +2.3%.
+
+---
+
+### 2026-06-04 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Continued Jobless Claims (May.23) | actual 1777000K | consensus 1780000K | previous 1786000K
+
+---
+
+### 2026-06-04 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims 4-Week Average (May.30) | actual 214750K | previous 209000K
+
+---
+
+### 2026-06-04 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims (May.30) | actual 225000K | consensus 213000K | previous 215000K
+
+---
+
+### 2026-06-04 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | NonFarm Unit Labor Costs Final (QoQ) (Q1) | actual 1.8% | consensus 2.5% | previous 2.30%
+
+---
+
+### 2026-06-04 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | NonFarm Labor Productivity Final (QoQ) (Q1) | actual 0.3% | consensus 0.5% | previous 0.80%
+
+---
+
+### 2026-06-04 20:29:57  #國際
+
+埃及總理：埃及計劃在下一財政年度以現金補貼替代實物補貼。
+
+---
+
+### 2026-06-04 20:29:53  #其他
+
+【阿根廷發現一種新的迅猛龍化石】阿根廷貝爾納迪諾·裡瓦達維亞自然科學博物館研究人員參與的國際團隊近期確認，此前在阿根廷南部聖克魯斯省挖掘的恐龍化石屬於迅猛龍的一個新物種。研究人員介紹，這些恐龍化石出土於聖克魯斯省埃爾卡拉法特附近，挖掘工作始於2019年並持續多年。研究人員使用計算機斷層掃描等先進技術，對在此地挖掘的恐龍化石進行了骨骼結構重建，並對其解剖特徵進行了細緻分析。（新華社）
+
+---
+
+### 2026-06-04 20:29:06  #其他
+
+【南昌一網紅餐廳疑多人食物中毒？官方通報】江西南昌紅谷灘區市場監督管理局6月4日通報，針對消費者反映轄區泰鋪餐飲店食品安全問題，該局高度重視，立即開展全面核查和食品抽檢。現已責令該店停業整頓，並立案調查。後續市監局將根據調查情況，依法依規嚴肅查處。消費者可持相關憑證到紅谷灘區市場監督管理局衛東分局（麗景路1188號）登記受理消費投訴。市監局將進一步加大食品安全監管力度，切實守護群眾食品安全。此前，據媒體報道，有網友在社交平臺發帖稱，6月1日在位於江西南昌一商場的“ONEMORETHAI泰鋪”餐廳就餐後出現不適。該網友在帖子中表示，出現這種症狀的並非他一人，多人出現持續發燒、急性腹痛、腹瀉的情況，有顧客症狀較重，連夜到醫院輸液治療。
+
+---
+
+### 2026-06-04 20:28:23  #MKT News
+
+Goldman Sachs (GS.N) India co-chair Samtani will depart at year-end.
+
+---
+
+### 2026-06-04 20:27:28  #其他
+
+【雄安新區：以空天資訊撬動未來產業】雄安空天資訊研究院技術委員會成立暨新設研發中心揭牌儀式在雄安場景匯科創園舉行。中國工程院院士張平接過了雄安空天資訊研究院技術委員會主任的聘書，衛星網際網路檢測中心等四大研發中心同步揭牌。這不僅是研究院的“升級禮”，更是在“十五五”開局之年，雄安新區面向未來產業的一次精準落子。 (雄安釋出)
+
+---
+
+### 2026-06-04 20:27:13  #Trading Economics #Economy #Mexico #Private Investment YoY #Importance 1
+
+Mexico Gross Fixed Investment Contracts — Gross fixed investment in Mexico contracted 2.6% from the previous year in March of 2026, less than market expectations of a 3.1% decline, but still marking 18 months without growth in investment. Capital formation through construction sank 3.5%, as residential construction dropped 8.7% to offset the 2.4% increase in non residential construction. Meanwhile, capital accumulation in machinery dropped by 1.5%, amid a 7.8% plunge in domestic machinery buildup. From the previous month, gross fixed investment inched higher by 0.4%.
+
+---
+
+### 2026-06-04 20:27:03  #公司 #市場
+
+【渣打集團：Strategy的比特幣持倉對加密貨幣前景至關重要】渣打集團的Geoff Kendrick在一份報告中表示，Strategy關於其比特幣持倉的下一份公告，將在決定該加密貨幣是否擴大跌幅方面發揮關鍵作用。週一，這家比特幣儲備公司表示，上週出售了32枚比特幣，價值約250萬美元，這是該公司自2022年以來首次出售該加密貨幣。這一訊息促成了比特幣本週的大幅下跌。Kendrick說，Strategy上一次出售比特幣時，僅僅兩天後就買回了比出售量更多的比特幣。“這一次，我懷疑出售之後的買入會更加激進。“他說，這種買入將遏制比特幣的跌勢。倫敦證券交易所集團的資料顯示，比特幣在隔夜觸及61,344美元的四個月低點後，下跌4.2%，至62,207美元。
+
+---
+
+### 2026-06-04 20:26:38  #公司
+
+【永東股份：永東轉2於6月8日起恢復轉股】永東股份公告稱，因實施2025年度權益分派，公司可轉換公司債券“永東轉2”（債券程式碼：127059）自2026年5月29日起至6月5日暫停轉股，將於6月8日起恢復轉股，轉股起止時間為2022年10月14日至2028年4月7日。
+
+---
+
+### 2026-06-04 20:26:16  #國際
+
+【真主黨：拒絕接受所謂黎以直接談判的結果 只關心全面停火】真主黨領導人表示，拒絕接受黎巴嫩與以色列直接談判所達成的結果，與以色列的停火應包括黎巴嫩南部。我們只關心全面停火以及以色列從南部撤退。他呼籲有關官員終止這場被稱為直接談判的鬧劇和屈辱，並批評華盛頓方面的宣告是“一份消滅部分黎巴嫩人民的路線圖”。他強調，真主黨從未向任何人承諾不會抵抗侵略或作出回應，也拒絕將自身存在與停火或以色列撤軍掛鉤。只要以色列的侵略持續，抵抗就會繼續，以色列北部就不會安全。
+
+---
+
+### 2026-06-04 20:26:09  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Hezbollah rejects outcome of Lebanon‑Israel 'direct talks', demands comprehensive ceasefire and Israeli withdrawal】Hezbollah said it will not accept the results of so‑called direct negotiations between Lebanon and Israel and demands a comprehensive ceasefire that includes southern Lebanon and an Israeli withdrawal. The group urged officials to end the 'farce' of direct talks and denounced a Washington statement as 'a roadmap to eliminate part of the Lebanese people.' Hezbollah said it never pledged not to resist aggression, refuses to tie its existence to a ceasefire or Israeli withdrawal, and warned that resistance will continue while Israeli aggression persists, leaving northern Israel unsafe.
+
+---
+
+### 2026-06-04 20:26:08  #央行 #公司 #市場 #國際
+
+【分析：瑞士央行對瑞郎走強的擔憂或有所減弱】J. Safra Sarasin可持續資產管理經濟學家Karsten Junius在一份報告中表示，瑞士央行可能會在6月18日的會議上淡化干預外匯市場以應對瑞郎走強的必要性。瑞士央行在上一份政策宣告中表示，鑑於中東衝突，其干預外匯市場的意願有所增強。Junius表示，在下一次會議上，瑞士央行可能會改為表示其在外匯市場保持活躍的意願依然很高。“透過減少對該話題的強調，瑞士央行可以明確表明其對匯率的擔憂有所減弱。“倫敦證券交易所集團的資料顯示，歐元兌瑞郎下跌0.1%，至0.9179瑞郎；週三曾觸及0.9193瑞郎的一個月高點。
+
+---
+
+### 2026-06-04 20:25:26  #MKT News #Commodities #Energy
+
+【JinkoSolar signs 10 Tiger Neo 3.0 supply agreements at SNEC 2026 to accelerate global rollout】JinkoSolar said at SNEC 2026 it signed 10 supply agreements for its Tiger Neo 3.0 modules with partners including C&D Emerging Energy, Jiangsu Yude New Energy, Philippines-based Xcel Renewable Energy Corp., Bangladesh’s UCC Group and six core Pakistani partners. Deals span key markets and cover large ground-mounted utility projects and commercial & industrial distributed installations, intended to scale international deployment of its high-efficiency Tiger Neo 3.0 modules.
 
 ---
 
@@ -22067,278 +22333,5 @@ IREN已簽署輸電併網協議，為其在南澳大利亞本迪（Bundey）規�
 ### 2026-06-03 19:08:12  #MKT News #Market Regions #Europe & UK
 
 European Commission says EU member states may use up to 0.3% of GDP from the 1.5% of GDP defence fiscal space for green transition spending.
-
----
-
-### 2026-06-03 19:07:11  #市場 #國際
-
-【俄羅斯多年來首次給出黃金開採量評估，資料遠超預期】俄羅斯公佈了多年來的首個黃金開採量資料，所公佈的數字遠遠超出了業內獨立評估的預期。如果這一資料準確無誤，那麼俄羅斯成為全球最大的黃金生產國。俄羅斯自然資源部部長亞歷山大·科茲洛夫向塔斯社透露，該國今年的礦石產量應為480至500噸。去年的產量約為480噸。該部門證實，科茲洛夫所談及的是黃金的開採量，但未作進一步說明。然而，兩家俄羅斯大型黃金礦企的高管表示，他們對這個數字持懷疑態度，認為這個數字難以解釋。這一訊息對市場而言頗具意義，因為自2022年俄烏衝突以來，莫斯科就不再公佈官方的黃金開採資料。但這一訊息也令人感到驚訝，因為這一數字比世界黃金協會所預測的俄羅斯2024年的礦產產量高出約50%，而且該國近年來並未有重大新礦藏投入生產，這使得其無法迅速提高產量。據世界黃金協會發布的資料，該國在2024年共開採了約330噸黃金。
-
----
-
-### 2026-06-03 19:07:07  #MKT News #Important #Commodities #Precious Metals #XAUUSD
-
-【Russia releases first multi-year gold output estimate; figure far above forecasts】Russia’s Ministry of Natural Resources gave its first multi-year gold output estimate, telling TASS Minister Alexander Kozlov that ore production this year should be 480–500t, roughly in line with last year’s ~480t. The ministry confirmed Kozlov was referring to gold mining but provided no further detail. If accurate, the figure would make Russia the world’s largest gold producer and is about 50% above the World Gold Council’s c.330t 2024 estimate. Executives at two major Russian gold miners said they doubted the number and could not reconcile it. Moscow has not published official gold production data since 2022, and the country has not brought major new deposits into production recently, which would make a rapid output jump difficult.
-
----
-
-### 2026-06-03 19:06:39  #其他
-
-勃林格殷格翰將取消在德國的9億歐元投資。
-
----
-
-### 2026-06-03 19:06:04  #國際
-
-歐盟委員會表示，歐盟各國政府可動用國防財政彈性空間中佔GDP 1.5%裡的0.3個百分點，用於綠色轉型。
-
----
-
-### 2026-06-03 19:05:55  #公司
-
-匈牙利莫爾石油公司（MOL）表示，公司及其合作伙伴已在亞塞拜然ACG油田啟動天然氣生產。
-
----
-
-### 2026-06-03 19:05:44  #公司
-
-【晶豐明源：募投專案結項並將節餘7164.77萬元補充流動資金】晶豐明源公告，公司本次募投專案結項並將節餘募集資金7164.77萬元永久補充流動資金。2026年向特定物件發行股份募集資金總額18億元，募集資金淨額17.88億元。截至公告披露日，募集資金餘額合計6.91億元，扣減自籌資金6.19億元后，擬將節餘7164.77萬元永久補充流動資金。
-
----
-
-### 2026-06-03 19:05:25  #其他
-
-【渤海千億方大氣田二期開發專案主體結構建造完成】據中國海油訊息，6月2日，隨著最後一片甲板片在海油工程天津智慧製造基地完成空間就位，渤中19-6氣田II期開發專案3座平臺主體結構全部建造完成，標誌著渤海首個千億方大氣田進入加速建設新階段。氣田II期開發專案新建3座井口平臺、3座導管架。
-
----
-
-### 2026-06-03 19:05:02  #公司
-
-國際航空運輸協會（IATA）燃料部門主管丹尼爾·謝羅：多家航空公司深受航空燃油價格波動衝擊，無力開展對沖操作。
-
----
-
-### 2026-06-03 19:04:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IATA's head of fuel said demand has been disrupted; some passengers have canceled flights and some regional airports have experienced short-term jet fuel shortages.
-
----
-
-### 2026-06-03 19:04:52  #公司
-
-【銀之傑：澄清“被立案調查”傳聞不屬實】銀之傑公告，公司關注到網路平臺出現關於“被立案調查”的傳聞。經核實，截至目前，公司未收到任何有權機關關於立案調查的通知或相關法律文書。公司生產經營情況正常，各項業務開展有序，不存在應披露而未披露的重大事項。銀之傑提醒投資者理性投資，注意甄別市場傳聞，不輕信未經證實的資訊。
-
----
-
-### 2026-06-03 19:04:49  #其他
-
-國際航空運輸協會燃油部門主管：目前已出現需求破壞，具體表現為民眾取消航班，部分地區部分機場已短時出現航油斷供。
-
----
-
-### 2026-06-03 19:04:13  #MKT News #Commodities #Energy
-
-HUNGARY MOL and partners start gas production at Azerbaijan's ACG (Azeri-Chirag-Gunashli) oilfield.
-
----
-
-### 2026-06-03 19:04:03  #MKT News
-
-Interfax reported Armenian Prime Minister Nikol Pashinyan said he would visit Russia after the elections.
-
----
-
-### 2026-06-03 19:03:34  #MKT News
-
-Guotai Nasdaq ETF will be suspended from market open on 4 June 2026 until 10:30am.
-
----
-
-### 2026-06-03 19:03:16  #MKT News
-
-Huatai-PineBridge's China-Korea Semiconductor ETF will be suspended from trading from market open on June 4, 2026 until 10:30 that day.
-
----
-
-### 2026-06-03 19:03:12  #國際
-
-中韓半導體ETF華泰柏瑞：本基金將於2026年6月4日開市起至當日10:30停牌。
-
----
-
-### 2026-06-03 19:03:08  #公司 #國際
-
-【愛普股份：收購挪亞聖諾股權延期至6月30日】愛普股份公告，公司擬透過全資子公司以4.5億元現金受讓挪亞聖諾歐洲持有的目標公司100%股權。本次交易分兩次進行，首次交易受讓80%股權，第二次交易於業績承諾期滿後啟動，受讓剩餘20%股權。截至本公告披露日，因銀行共管賬戶開立、相關報批手續尚在辦理過程中，本次收購未能在2026年5月29日前簽署正式協議。為保障本次收購事項有序推進，經交易各方協商一致，同意最遲不晚於2026年6月30日簽署正式《股權轉讓協議》。
-
----
-
-### 2026-06-03 19:02:49  #其他
-
-全球晶片LOF：本基金將於2026年6月4日開市起停牌，自2026年6月4日10:30起復牌。
-
----
-
-### 2026-06-03 19:02:48  #MKT News
-
-Global Chip LOF will be suspended from market open on 4 June 2026 and is scheduled to resume trading at 10:30 on 4 June 2026.
-
----
-
-### 2026-06-03 19:02:44  #國際
-
-亞美尼亞總理稱選舉後將訪問俄羅斯。
-
----
-
-### 2026-06-03 19:02:35  #其他
-
-IREN：該專案預計將創造超過200個長期技術崗位以及500個建築施工崗位。
-
----
-
-### 2026-06-03 19:02:18  #公司
-
-【英諾賽科：完成H股全流通，合計3.74億股境內未上市股份已轉換為H股】英諾賽科公告，合計3.74億股境內未上市股份已於2026年6月3日轉換為H股，該等轉換H股將於2026年6月4日上午九時正開始於聯交所上市。
-
----
-
-### 2026-06-03 19:02:08  #其他
-
-IREN宣佈將在南澳大利亞開發容量為800兆瓦的資料中心園區。
-
----
-
-### 2026-06-03 19:01:13  #市場
-
-巴基斯坦 KSE-100 指數收盤下跌 0.6%，報 170182.90 點。
-
----
-
-### 2026-06-03 19:00:56  #公司
-
-惠靈頓資管擬從哈特福德集團收購哈特福德基金業務。
-
----
-
-### 2026-06-03 19:00:51  #公司
-
-聯合健康集團宣佈每股派發現金股息2.32美元，股息將於2026年6月23日支付。
-
----
-
-### 2026-06-03 19:00:43  #公司
-
-【亞士創能：控股股東一致行動人擬被動減持不超過3%股份】 亞士創能公告，控股股東一致行動人上海潤合同彩持股2208.96萬股，佔5.15%，因融資融券違約或被強制平倉，擬被動減持不超過1285.79萬股，佔3%。減持期為2026年6月26日至2026年9月25日，方式為集中競價不超428.6萬股、大宗交易不超857.19萬股，本次事項不致變更控股股東及實際控制人。
-
----
-
-### 2026-06-03 19:00:25  #MKT News #Market Regions #Greater China
-
-【CPCA's Cui Dongshu: Fuel-dependent road tax system shows clear structural imbalance】CPCA secretary-general Cui Dongshu wrote that China’s traditional road tax system, tied to fuel consumption, now exhibits a clear structural imbalance and that a tax-system upgrade is imperative. He called for a new round of reform, saying tax policy should prioritize encouraging consumption and supporting livelihoods. Reform goals are to improve tax fairness, strengthen public infrastructure provision, stabilize aggregate consumption, and seek to avoid increasing ordinary households’ costs for private transport.
-
----
-
-### 2026-06-03 19:00:17  #國際
-
-美國至5月29日當週MBA抵押貸款購買指數 164.8，前值169.7。
-美國至5月29日當週MBA抵押貸款再融資活動指數 736.2，前值753.7。
-美國至5月29日當週MBA30年期固定抵押貸款利率 6.57%，前值6.65%。
-美國至5月29日當週MBA抵押貸款申請活動指數 252.8，前值259.4。
-
----
-
-### 2026-06-03 19:00:14  #MKT News #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. Mortgage Bankers Association (MBA) mortgage applications index, week ended May 29: 252.8 vs 259.4 prior.
-
----
-
-### 2026-06-03 19:00:07  #MKT News #Macro & Rates
-
-MBA 30-year fixed mortgage rate for the week ended May 29 fell to 6.57% from 6.65% the prior week.
-
----
-
-### 2026-06-03 19:00:07  #MKT News #Macro & Rates #US Economy
-
-US MBA mortgage refinance activity index for week ended May 29: 736.2, prior 753.7.
-
----
-
-### 2026-06-03 19:00:06  #MKT News #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-US MBA mortgage purchase index 164.8 in week ended May 29, down from 169.7 the prior week.
-
----
-
-### 2026-06-03 19:00:04  #其他
-
-尼達姆維持對Alphabet的目標股價，為每股450美元。
-
----
-
-### 2026-06-03 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Applications Composite Index (May.29) | actual 252.8 | previous 259.4
-
----
-
-### 2026-06-03 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA 30-Year Mortgage Rate (May.29) | actual 6.57% | previous 6.65%
-
----
-
-### 2026-06-03 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Refinance Index (May.29) | actual 736.2 | previous 753.7
-
----
-
-### 2026-06-03 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Purchase Index (May.29) | actual 164.8 | previous 169.7
-
----
-
-### 2026-06-03 18:59:59  #MKT News
-
-USGS: 5.7 magnitude earthquake 138 km southwest of Pistol River, Oregon.
-
----
-
-### 2026-06-03 18:59:40  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Interfax reports the Russian Defence Ministry said it shot down 754 drones in the past 24 hours.
-
----
-
-### 2026-06-03 18:59:38  #行業
-
-【乘聯分會崔東樹：傳統依附於燃油消費的道路稅費體系已出現明顯結構性失衡，稅制迭代升級勢在必行】6月3日，乘聯分會秘書長崔東樹發表《傳承養路費改革初心 迭代適配新能源時代道路稅制體系》一文。其中提出，傳統依附於燃油消費的道路稅費體系，已出現明顯結構性失衡，稅制迭代升級勢在必行。他建議開展新一輪改革，期待稅制改革始終將“鼓勵消費、惠及民生”作為第一原則，改革目的是最佳化稅制公平、完善公共配套、穩定消費大盤，力爭不增加普通家庭代步用車負擔。具體核心建議如下：一是更名立新，摒棄傳統養路費的規費屬性，設立法定車輛道路使用稅，以法治化、透明化規則消除民眾“變相收費”的顧慮；二是科學計稅，依託北斗定位、國家車輛監管平臺與原廠備案資料，構建“里程+車重+工況載重”綜合計稅機制，徹底杜絕一刀切徵管；三是普惠兜底穩消費，設定私家車年度免稅里程額度，保障絕大多數家庭日常通勤、短途代步零稅負；四是公私分離施策，區分民生代步私家車與盈利性營運車輛，讓經營用車承擔對應公共成本、民生用車享受普惠紅利；五是試點漸進落地，選取典型區域先行試點、打磨細則、積累經驗，成熟後穩步全國推廣。
-
----
-
-### 2026-06-03 18:59:38  #Trading Economics #Economy #Ghana #Inflation Rate #Importance 1
-
-Ghana Inflation Rate Up to 4-Month High of 3.7% — Ghana’s annual inflation rate increased for a second month to 3.7% in May 2026, from 3.4% in April, reaching its highest level since January. Food and non-alcoholic beverage inflation accelerated to 3.3% in May from 2.2% in April, while non-food inflation edged down slightly to 4.1% from 4.2%. On a monthly basis, the CPI rose by 1.1% in May, up from 1% in the prior month.
-
----
-
-### 2026-06-03 18:59:29  #國際
-
-【科威特稱伊朗襲擊致1死多傷 外交使團駐地受損】科威特外交部3日發表宣告說，科威特國際機場等多處民用設施當天遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷。宣告說，當天的襲擊針對科威特關鍵民用基礎設施，並對包括外交使團駐地在內的設施造成了損壞。宣告強烈譴責“伊朗持續發動襲擊”，稱這將進一步加劇地區緊張局勢，並對科威特及海灣地區的安全穩定構成威脅。宣告說，這些襲擊違反國際法、《聯合國憲章》以及聯合國安理會相關決議。宣告強調科威特的主權、安全及本國公民和居民的安全是“不容逾越的紅線”。科方有權維護自身利益，並保留依據國際法採取適當措施回應伊方行為的所有合法權利。（新華社）
-
----
-
-### 2026-06-03 18:59:26  #MKT News #Market Themes #AI Revolution #1211.HK #Impact mixed
-
-【BYD confirms humanoid-robot R&D, cites auto-AI overlap】Chinese automaker BYD said it is developing humanoid robots. Executive Vice President Li Ke said competition will hinge on manufacturing, software and hardware capabilities and that BYD’s automotive AI has commonality with robotics; if robots become suitable for household use, BYD could sell them through its dealership network. The company said it could operate an open platform—building robots itself or partnering with others—and confirmed on June 3 that humanoid-robot R&D is underway.
-
----
-
-### 2026-06-03 18:59:20  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-IATA head of fuel said many carriers are being severely affected by jet-fuel price volatility and are currently unable to hedge.
 
 ---
