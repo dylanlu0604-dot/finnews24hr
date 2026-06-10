@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-11 06:49:53_
-_本檔包含 3693 則快訊，約 669393 字_
+_更新時間：2026-06-11 07:18:13_
+_本檔包含 3701 則快訊，約 669767 字_
+
+---
+
+### 2026-06-10 02:20:39  #MKT News #Important #XAUUSD #Impact bullish #Brent #WTI
+
+Iran's foreign minister said the armed forces have gone on alert in response to airspace incursions.
+
+---
+
+### 2026-06-10 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Falls by 4.09% — Top commodity losers are Silver (-4.09%), Silicon (-1.75%), Platinum (-1.52%) and Gold (-1.17%).
+
+---
+
+### 2026-06-10 02:19:20  #MKT News #Important
+
+Sources said investor demand for SpaceX's IPO is approaching fourfold oversubscription.
+
+---
+
+### 2026-06-10 02:19:10  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
+
+Iran's foreign minister said foreign forces operating near Iranian territory are continuously at risk — from human error, accidents or being drawn into crossfire during a conflict — and that the best way to reduce that risk is for those external forces to withdraw from the region.
+
+---
+
+### 2026-06-10 02:18:07  #公司 #焦點 #國際
+
+市場訊息：SpaceX美國IPO 的認購需求已接近四倍超額認購。
+
+---
+
+### 2026-06-10 02:16:44  #國際
+
+伊朗外長：想要降低風險，最好的辦法就是撤離。我們傾向於透過外交方式溝通，但也做好了其他應對準備。
+
+---
+
+### 2026-06-10 02:16:43  #Trading Economics #Markets #commodity #Importance 0
+
+Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%.
+
+---
+
+### 2026-06-10 02:16:26  #國際
+
+伊朗外長：臨近我國領土的外國駐軍，始終面臨風險，隱患源於人為失誤、意外事故，亦或是捲入交火衝突。
+
+---
+
+### 2026-06-10 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Falls by 3.28% — Top commodity losers are Crude Oil WTI (-3.28%), Natural Gas UK (-3.11%) and Brent Crude Oil (-2.68%). Gains are led by Methanol (1.91%) and Natural gas (0.50%).
+
+---
+
+### 2026-06-10 02:12:38  #公司
+
+黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。
+
+---
+
+### 2026-06-10 02:09:11  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
+
+Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature.
+
+---
+
+### 2026-06-10 02:07:52  #公司
+
+谷歌 Gemini 推出智慧體風險監測功能。
+
+---
+
+### 2026-06-10 01:57:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Abu Dhabi National Oil Company (ADNOC) CEO said ADNOC subsidiary XRG is highly interested in opportunities in Canada’s upstream oil sector and liquefied natural gas (LNG).
+
+---
+
+### 2026-06-10 01:56:00  #國際
+
+【以色列重開一處加沙地帶過境點 聯合國呼籲開放全部通道】聯合國秘書長副發言人法爾漢·哈克在例行記者會上透露，以色列已重新開放加沙地帶的凱雷姆沙洛姆過境點，但聯合國及人道主義夥伴需要開放更多過境點，以滿足日益增加的人道主義需求。聯合國秘書長古特雷斯也呼籲以色列開放所有過境點。 (央視新聞)
+
+---
+
+### 2026-06-10 01:55:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli media reported two suspected aerial targets launched from Lebanon were intercepted before entering Israeli airspace.
+
+---
+
+### 2026-06-10 01:54:48  #公司
+
+阿布扎比國家石油公司CEO：  旗下 XRG 部門對加拿大上游油氣及液化天然氣領域的合作機遇抱有濃厚興趣。
+
+---
+
+### 2026-06-10 01:53:42  #MKT News #Brent #WTI
+
+Russia’s Emergency Situations Ministry reported three explosions on a major trunk gas pipeline in Dagestan.
+
+---
+
+### 2026-06-10 01:49:38  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls on Mining and Energy Losses — The S&P/TSX Composite Index fell more than 0.5% to trade below 34,500 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle and WPM lost about 3%, while Franco-Nevada and Barrick shed around 2.5%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural and Suncor dropped 3%. In the tech sector, Shopify fell 1.5%, while Celestica plunged 7% as investors took profits after the recent AI-driven rally. Investors also looked ahead to the BoC's policy decision on Wednesday, with policymakers expected to leave interest rates unchanged. Meanwhile, prospects for progress in US-Iran negotiations deteriorated after President Trump said Iran had shot down a US helicopter patrolling the Strait of Hormuz and vowed to retaliate.
+
+---
+
+### 2026-06-10 01:49:36  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O): Claude Fable 5 is now available on Amazon Web Services (AWS).
+
+---
+
+### 2026-06-10 01:43:47  #公司
+
+亞馬遜雲科技（AWS）： Claude Fable 5 模型已上線 AWS 平臺的 Claude 專區。
+
+---
+
+### 2026-06-10 01:43:14  #公司
+
+亞馬遜雲科技（AWS）：Claude Fable 5 模型現已登陸亞馬遜 Bedrock 平臺。
+
+---
+
+### 2026-06-10 01:42:02  #MKT News
+
+Abu Dhabi National Oil Company (ADNOC) upstream CEO Al Kaabi said exiting OPEC gives the UAE flexibility.
+
+---
+
+### 2026-06-10 01:41:43  #MKT News
+
+【NYT: Four core US‑Iran nuclear negotiation items — 15‑year enrichment pause, dilution of stockpile, facility dismantling, snap inspections】The New York Times reports US and Iranian officials have a tentative framework for a nuclear deal that US aides say would stall Iran’s nuclear programme for roughly 15 years, contingent on the IRGC and hardliners not ousting Iran’s chief negotiator or derailing planned deeper talks in Switzerland this summer. Four principal items under discussion: 1) Long pause to uranium enrichment — US sought ≥20 years, Iran proposed 10 years, US officials say Iran may accept ~15 years. 2) Dilution of Iran’s existing enriched‑uranium stockpile — US would work with the IAEA; Iran says the US would be limited to observer status. 3) Dismantling nuclear facilities — US seeks removal of Natanz, Fordow and Isfahan; Iran has discussed dismantling two sites but insists on retaining one to demonstrate an asserted right to enrichment, a potential sticking point. 4) Acceptance of snap inspections — US seeks IAEA ability to carry out unannounced inspections anywhere in Iran; Iran’s willingness is unclear.
+
+---
+
+### 2026-06-10 01:40:14  #公司
+
+ADNOC Upstream的CEO Musabbeh al Kaabi：退出OPEC已經給阿聯酋帶來靈活性。
+
+---
+
+### 2026-06-10 01:39:11  #公司
+
+【騰訊的長期美元債和點心債發行總規模料接近47億美元】據報道，騰訊控股擬透過發行長期美元債和點心債籌集近47億美元，這將成為該公司自2020年以來規模最大的一次債券融資。據要求匿名的知情人士透露，騰訊已啟動一筆24.5億美元的美元債發行，並完成一筆150億元人民幣（約合22.1億美元）的點心債定價。其中一名知情人士表示，美元債認購規模已超過92億美元。據知情人士稱，發債募資將用於包括再融資及包括開發AI產品和服務在內的一般公司用途。
+
+---
+
+### 2026-06-10 01:32:04  #市場
+
+週二（6月9日），韓元兌美元最終跌0.26%，報1530.87韓元，全天衝高回落、北京時間14:00曾重新整理日高至1509.58韓元。
+
+---
+
+### 2026-06-10 01:27:16  #國際
+
+【報道：美伊核談判接近達成框架協議】據紐約時報援引瞭解美伊談判情況的美國官員及外交人士訊息，美伊雙方在四大核心議題上的分歧逐步縮小：暫停鈾濃縮活動十五年、稀釋伊朗現有濃縮鈾庫存、拆除大部分核設施，以及擴大國際核查範圍。受美軍直升機遭擊落等新一輪軍事緊張局勢影響，談判前景仍存變數。雙方談判人員還在商討解凍約 250 億美元伊朗凍結資產事宜。美方官員對後續細節談判有望儘快重啟持謹慎樂觀態度，但雙方內部的政治與軍事反對聲音，依舊構成重大風險。
+
+---
+
+### 2026-06-10 01:25:57  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+The New York Times reports the US believes Iran will agree to suspend uranium enrichment for 15 years.
+
+---
+
+### 2026-06-10 01:24:52  #MKT News
+
+According to the New York Times, the United States and Iran are focusing on four nuclear issues in their negotiations.
+
+---
+
+### 2026-06-10 01:24:49  #國際
+
+伊朗稱以色列最新襲擊導致兩名防空部隊士兵身亡。
+
+---
+
+### 2026-06-10 01:24:24  #MKT News #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+According to the Financial Times, UK Prime Minister Starmer plans to require cabinet ministers who backed Andy Burnham or other challengers in the Labour leadership contest to resign; the move could destabilize his government.
+
+---
+
+### 2026-06-10 01:24:09  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+【US officials say Iranian drone struck US helicopter that crashed; intent unconfirmed】Axios reports Trump said US forces have concluded Iran shot down the US helicopter that crashed in the Strait of Hormuz and he pledged a military response. A US official said investigators determined an Iranian drone struck the helicopter, but officials have not confirmed whether the strike was deliberate and the probe remains ongoing. The incident occurred amid US–Iran talks and one day after Trump helped broker a renewed Israel–Iran ceasefire. CENTCOM said two crew were rescued around 7:30 p.m. ET, roughly two hours after the crash near the Omani coast; the personnel were recovered after a prolonged search by a US Navy unmanned surface vessel, the first at-sea rescue by such a system.
+
+---
+
+### 2026-06-10 01:23:06  #國際
+
+據紐約時報： 美方認為伊朗將同意暫停鈾濃縮活動十五年。
+
+---
+
+### 2026-06-10 01:20:57  #其他
+
+據紐約時報：美伊談判聚焦四大核議題。
+
+---
+
+### 2026-06-10 01:20:15  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O
+
+Microsoft (MSFT.O): ANTHROPIC's latest frontier model Claude Fable 5 is now available on Microsoft Foundry.
+
+---
+
+### 2026-06-10 01:19:22  #其他
+
+微軟：Anthropic 最新前沿模型 Claude Fable 5 現已登陸微軟 Foundry 平臺。
+
+---
+
+### 2026-06-10 01:17:07  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $577 million from five counterparties in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-06-10 01:16:29  #央行 #國際
+
+週二（6月9日），美聯儲隔夜逆回購協議（RRP）使用規模為5.77億美元（交易對手13家），上個交易日報18.32億美元。
+
+---
+
+### 2026-06-10 01:15:13  #公司 #國際
+
+【自IPO以來，CoreWeave創始人已瘋狂套現23億美元】自這家人工智慧（AI）資料中心運營商於2025年3月美國IPO以來，CoreWeave Inc.股價已飆升一倍以上。與此同時，公司高管層已高位減持了價值超過23億美元的個人股票。減持大頭主要來自該公司的三位億萬富翁聯合創始人——Michael Intrator、Brannin McBee、以及Brian Venturo。其中，自2025年8月公司IPO禁售期屆滿後，Venturo一人便拋售了價值超過11億美元的股票。上述所有減持均透過合規的10b5-1交易計劃自動執行。目前，創始團隊手中依然握有極具分量的籌碼，其中Intrator仍按10.4%的持股比例穩居公司第一大個人股東。
+
+---
+
+### 2026-06-10 01:09:39  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+According to Axios, a senior U.S. official said investigators concluded an Iranian drone struck the helicopter and caused it to crash. The official said the probe has not yet determined whether the strike was deliberate and remains ongoing.
+
+---
+
+### 2026-06-10 01:08:06  #MKT News #Important #Market Themes #AI Revolution
+
+【Anthropic releases public Mythos version without cybersecurity capability】Anthropic launched a public version of its Mythos model but prohibits its use in cybersecurity and other high-risk areas. The company also introduced Claude Fable 5, which it called its most capable model for broader use, citing strong performance in software engineering and data analysis. Anthropic said Mythos previously uncovered thousands of software vulnerabilities and had earlier restricted access to about 200 institutions, including the US government, under a Glasswing program. It said it conducted extensive testing to prevent users from manipulating Claude Fable 5 to bypass safeguards. Early customers reported Fable 5 carries a higher price per unit but uses fewer tokens per task, lowering total task cost. Users with access to the unprotected Claude Mythos preview can upgrade to Claude Mythos 5. Both models are priced at $10 per mln input tokens and $50 per mln output tokens.
 
 ---
 
@@ -22040,212 +22286,5 @@ Night-session open: China’s main futures contracts mixed. Caustic soda down >2
 ### 2026-06-08 20:57:59  #國際
 
 【中國除溼機在美國賣斷貨 企業開足馬力趕訂單】近日南京、杭州、蘇州、無錫等多地空氣相對溼度也頻頻突破90%，商場除溼類家電需求激增。記者在浙江走訪多家生產企業發現，車間裡機器轟鳴，產線正開足馬力，應對這場突如其來的“防潮大考”。在浙江慈溪的一家除溼機生產企業，記者走近看到，一臺臺除溼機正被推入測試區，通電、開機，再打包準備發往市場。不同功能和價位的產品源源不斷供應國內外市場，負責人表示：“中國市場和美國市場都有斷貨現象，特別是近期，國內潮溼天氣很嚴重，銷售量同比有60%以上增長。”而在浙江慈溪的另一家除溼機企業的生產車間內，每小時就有超過100臺家用除溼機組裝下線，一天總產能超過1000臺。企業負責人表示，除了國內迎來大量訂單，近期歐洲地區受氣候影響，同樣需要交付大量產品。業內預計，2026年全國家用除溼機市場規模將達18億元-19億元，同比增長約17%。 (央視財經)
-
----
-
-### 2026-06-08 20:57:26  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Remains Close to Over Two-Month Low — Gold trimmed earlier losses to trade at $4,330 an ounce on Monday, after hitting its lowest since March 23 but remaining near its weakest close since late last year, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report heightened inflation concerns, boosting expectations of a Federal Reserve rate hike. Markets now price a 70% chance of a December hike, up from 45% a week ago, per the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
-
----
-
-### 2026-06-08 20:57:15  #公司
-
-【強達電路：公司已有量子技術相關PCB產品的樣板試製】強達電路(301628)6月8日在互動平臺表示，量子技術相關PCB屬於高階印製電路板領域，契合公司在高階PCB及前沿應用領域的研釋出局。公司依託在高頻高速板等方面的核心技術積累，針對量子技術應用場景對PCB的低損耗、高穩定性、耐極端環境等效能要求，開展了相關技術研究和工藝開發工作。目前，公司已有量子技術相關PCB產品的樣板試製，後續將持續跟進量子技術產業發展節奏，結合市場需求和技術成熟度推進產品最佳化及產業化佈局。
-
----
-
-### 2026-06-08 20:57:03  #其他
-
-【微信灰測朋友圈搜尋功能】據悉，微信面向部分iOS和安卓使用者灰度測試朋友圈搜尋功能。騰訊客服告訴記者，微信在輕觸“我”->“朋友圈”頁面後，右上角的“放大鏡”圖示已升級為“我的朋友圈搜尋”入口，可透過該入口輸入關鍵詞實時搜尋歷史朋友圈內容。
-
----
-
-### 2026-06-08 20:56:26  #市場 #國際
-
-【以色列和伊朗被敦促停火之際原油漲幅收窄】原油期貨從高位回落，此前美國總統特朗普敦促以色列和伊朗停止打擊，且伊朗表示已結束對以色列的報復性襲擊。伊朗和以色列之間重新爆發的戰鬥導致油價隔夜飆升，因為人們擔心這可能會破壞結束中東衝突的努力。特朗普發帖稱，和平談判正在進行中，並表示對霍爾木茲海峽的封鎖將繼續有效，直到達成“最終協議“。西得州中質油上漲1.4%，至每桶91.78美元；布倫特原油上漲1.8%，至94.73美元。
-
----
-
-### 2026-06-08 20:55:10  #其他
-
-非洲疾控中心：計劃與合作伙伴共同籌集5.18億美元，支援非洲國家做好埃博拉疫情的準備、快速檢測與應對工作。
-
----
-
-### 2026-06-08 20:54:17  #其他
-
-非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。
-
----
-
-### 2026-06-08 20:53:16  #觀點
-
-摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。
-
----
-
-### 2026-06-08 20:52:59  #Trading Economics #Economy #Chile #Inflation Rate #Importance 1
-
-Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services.
-
----
-
-### 2026-06-08 20:52:50  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Pare Losses — The DAX 40 pared early losses to trade slightly down around 24,670 on Monday, the lowest since May 21, as traders closely monitored developments in the Middle East. Iran announced the end of its military operation against Israel after a day of retaliatory strikes between the two countries, while warning it could resume operations if Israel continues actions in Lebanon. This helped curb the increase in oil prices.
-
----
-
-### 2026-06-08 20:52:46  #公司 #焦點
-
-【*ST元道：公司股票可能被實施重大違法強制退市】*ST元道公告稱，公司於2025年7月11日因涉嫌年報等資訊披露檔案財務資料存在虛假記載等違法行為被中國證監會立案。2026年5月8日，公司收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。公司尚未收到正式處罰決定，最終結果以正式處罰決定為準。如觸及相關情形，公司股票將被終止上市，提醒投資者注意風險。
-
----
-
-### 2026-06-08 20:52:36  #公司 #市場
-
-【*ST嶺南：股價異常波動 多項風險待解】*ST嶺南公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司、實控人及相關股東、董高在異常波動期間未買賣股票，不存在應披露未披露重大事項。公司股票因多項問題被實施退市及其他風險警示，包括業績不佳、內控審計否定、財務報告無法表示意見、主要銀行賬戶凍結等。此外，公司及相關當事人擬被行政處罰，原實控人尚有1.49億元佔用資金未歸還，且有多筆債務逾期。
-
----
-
-### 2026-06-08 20:52:22  #公司
-
-【中銳股份：1元轉讓重慶華宇99.5%股權 最佳化資產結構】中銳股份公告稱，公司與上海全昂簽署《股權轉讓協議》，以1元轉讓重慶華宇99.5%股權。上海全昂為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。重慶華宇長期虧損，2025年淨利潤-2.08億元。本次交易完成後，公司不再持有其股權，也不再納入合併報表範圍，可減輕經營和財務負擔，聚焦優勢業務。該交易尚需公司股東會批准。
-
----
-
-### 2026-06-08 20:52:17  #公司
-
-【深桑達A：擬對子公司中國電子雲增資不超10億元】深桑達A(000032.SZ)公告稱，公司控股子公司中電雲端計算技術有限公司擬增資不超過10億元，其中公司以自有資金增資1億元，關聯方中電金投增資1億元，其餘由外部戰略投資人增資。
-
----
-
-### 2026-06-08 20:52:06  #公司
-
-【山東中銳：擬轉讓重慶華宇園林股權 股東權益評估值為-1.93億元】山東中銳產業發展股份有限公司公告稱，擬轉讓重慶華宇園林有限公司股權，北京中天華對其股東全部權益價值進行評估。評估基準日為2025年（日期缺失），採用資產基礎法評估。重慶華宇園林總資產賬面值4.92億元，評估值5.07億元，增值率3.23%；總負債評估值7.00億元，無增減值；淨資產賬面值-2.09億元，評估值-1.93億元，增值率7.59%。評估結論有效期至2026年（日期缺失）。
-
----
-
-### 2026-06-08 20:51:53  #國際
-
-美國雞蛋價格跌至十年低位，在食品通脹持續數年後，為消費者帶來難得的緩解。
-
----
-
-### 2026-06-08 20:51:47  #公司
-
-【天汽模：擬發行股份及支付現金收購東實股份60%股權，交易對價18.3億元】天汽模公告，公司擬透過發行股份及支付現金方式購買德盛拾陸號企業管理（天津）合夥企業（有限合夥）持有的東實汽車科技集團股份有限公司60.00%股份，交易對價18.3億元，其中發行股份支付7.32億元，現金支付10.98億元。同時，公司擬向控股股東新疆建發梵宇產業投資基金合夥企業（有限合夥）發行股份募集配套資金不超過7.32億元，用於支付現金對價。本次交易構成關聯交易，不構成重組上市。標的資產採用收益法評估，100%股權評估值30.51億元，增值率10.51%。本次交易尚需經股東會審議、國資批准、反壟斷審查、深交所稽核及證監會註冊等程式。
-
----
-
-### 2026-06-08 20:51:28  #MKT News #WTI #Impact bullish #Brent
-
-【Sources: Russia plans to cut June crude exports】Market sources said Russia plans to cut crude exports in June to divert barrels to higher refinery runs amid seasonal fuel demand and reported regional shortages. Preliminary data show shipments from western ports Primorsk, Ust-Luga and Novorossiysk could fall from 2.5 mln b/d in May to about 1.7 mln b/d in June; sources said part of the reduction reflects lower crude output. Deputy Prime Minister Novak has said Russian oil output has fallen since the start of the year due to unplanned refinery maintenance. Sources estimate refiners will seek to lift crude processing by 250–400 kb/d in June, but restoring crude output will take considerable time.
-
----
-
-### 2026-06-08 20:51:27  #國際
-
-【訊息人士：俄羅斯計劃削減6月石油出口量】市場訊息人士稱，鑑於燃料短缺的陰雲籠罩，俄羅斯計劃在6月提高煉油廠開工率，因此將減少原油出口。訊息人士提供的初步資料顯示，俄羅斯西部港口普里莫爾斯克、烏斯季盧加和新羅西斯克的原油裝船量可能從5月份的250萬桶/日降至6月份的170萬桶/日。訊息人士稱，這一下降部分可能是由於原油產量水平下降所致。俄羅斯副總理諾瓦克此前表示，自今年年初以來，俄羅斯石油產量有所下降，並將此歸咎於煉油廠的計劃外檢修。訊息人士稱，隨著檢修工作的完成，在季節性燃料需求增長以及部分地區報告供應短缺的背景下，俄羅斯煉油廠將能夠提高加工量，但產量下降意味著必須從出口中調撥額外的原料用於加工。他們估計，俄羅斯將在6月尋求將原油加工量增加25萬至40萬桶/日，而恢復原油產量則需要相當長的時間。
-
----
-
-### 2026-06-08 20:51:22  #國際
-
-市場訊息：烏克蘭最高法院判處前最高法院院長五年監禁。
-
----
-
-### 2026-06-08 20:50:42  #公司
-
-【太陽紙業：推出2026年限制性股票激勵計劃】6月8日，太陽紙業(002078)披露2026年限制性股票激勵計劃。公司擬定向發行A股普通股，向合計1489名激勵物件授予6300萬股第一類限制性股票，佔當前公司總股本的2.25%，首次授予價格為6.79元/股。本次激勵計劃有效期最長不超過60個月，將分三期解鎖，考核週期覆蓋2026至2028年。
-
----
-
-### 2026-06-08 20:48:29  #公司
-
-天娛數科：公司關注到近期有部分媒體對公司業務相關討論涉及“物理AI”概念，截至目前，公司沒有物理AI業務，未形成相關業務收入。
-
----
-
-### 2026-06-08 20:48:16  #其他
-
-英國電信加入Anthropic的“玻璃翼”計劃。
-
----
-
-### 2026-06-08 20:48:10  #公司 #市場 #觀點 #國際
-
-【美股盤前要聞速遞】
-①美股三大指數期貨齊漲，道指期貨漲0.31%，標普500指數期貨漲0.85%，納指期貨漲1.60%。
-②德國DAX指數跌0.36%，英國富時100指數漲0.10%，法國CAC40指數跌0.19%，歐洲斯托克50指數跌0.05%。
-③WTI原油漲1.22%，報91.64美元/桶。布倫特原油漲1.62%，報94.61美元/桶。
-④從當地時間6月7日晚（北京時間6月8日凌晨）起，截至目前，伊朗和以色列已進行了數輪相互打擊。
-⑤摩根士丹利策略師表示，上週五美股因倉位調整引發的拋售是一次良性回撥。在企業盈利增長與經濟資料韌性的支撐下，團隊對股市整體仍持樂觀態度。而高盛集團指出，多項歷史指標顯示當前美國股市的樂觀情緒已明顯高於歷史平均水平，市場出現一定程度的過熱跡象，
-⑥石油輸出國組織（歐佩克）7日發表宣告說，7個“歐佩克+”主要產油國決定7月日均增產原油18.8萬桶。至此，主要產油國已連續四個月宣佈增產。
-⑦英偉達美股盤前漲超2%，此前公司宣佈與SK海力士與SK Telecom達成合作。
-⑧AMD美股盤前漲超4%，市調機構稱，AMD今年一季度的伺服器處理器銷量增長尤其強勁，拿到了33.2%的伺服器處理器市場份額。
-⑨康寧股價盤前上漲9%，此前亞馬遜宣佈達成協議。
-
----
-
-### 2026-06-08 20:48:01  #MKT News #Important
-
-Tasnim News reported all flights in Iran have been cancelled until further notice.
-
----
-
-### 2026-06-08 20:47:31  #其他
-
-【巴克萊：Robotaxi成特斯拉AI戰略核心 但規模化拐點仍未到來】巴克萊在最新研報中指出，自動駕駛計程車（Robotaxi）是特斯拉AI戰略中最關鍵的一環。報告指出，特斯拉目前主要有三大增長引擎：FSD（完全自動駕駛）、Robotaxi和Optimus人形機器人。其中，Optimus擁有最大的潛在市場空間，但仍處於原型機階段；FSD已經開始創造收入，但市場空間相對有限。相比之下，Robotaxi既擁有巨大的潛在市場，又已經開始商業化運營，因此被巴克萊視為特斯拉當前最重要的AI業務。巴克萊給予特斯拉“等權重”評級，目標價360美元。
-
----
-
-### 2026-06-08 20:47:27  #公司
-
-【盈方微：交易方案調整構成重大調整】盈方微公告，公司於2026年6月8日召開董事會會議，審議透過了《關於本次交易方案調整構成重大調整的議案》《關於及其摘要的議案》等有關議案。對本次交易方案進行了調整，具體為：標的資產由上海肖克利100%股份和富士德中國100%股份調整為上海肖克利100%股權，交易對方由陶濤等8名交易對方和RJM Co. Limited等2名交易對方調整為陶濤等8名交易對方。定價基準日調整為2026年6月8日，發行股份的價格為6.85元/股。
-
----
-
-### 2026-06-08 20:46:52  #國際
-
-伊朗媒體：伊朗境內所有航班取消，直至另行通知。
-
----
-
-### 2026-06-08 20:46:45  #MKT News #DXY #Impact bullish
-
-Banking sources said the Central Bank of the Republic of Turkey bought US$4.5 bln of foreign exchange last week. The central bank's gross reserves rose US$1.0 bln to US$160.0 bln and net reserves increased US$1.5 bln to US$47.5 bln.
-
----
-
-### 2026-06-08 20:45:35  #央行 #其他
-
-銀行業人士稱，土耳其央行上週買入了45億美元的外匯。
-
----
-
-### 2026-06-08 20:45:32  #其他
-
-據銀行人士透露，土耳其中央銀行外匯淨儲備上週增加15億美元，升至475億美元。
-
----
-
-### 2026-06-08 20:45:27  #其他
-
-銀行人士稱，土耳其中央銀行總儲備上週增加10億美元，達到1600億美元。
-
----
-
-### 2026-06-08 20:44:33  #公司 #市場 #焦點
-
-【金安國紀：澄清未與英偉達華為合作，116個交易日漲幅112.73%】金安國紀公告，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動。公司股價自4月以來漲幅達112.73%，截至6月8日收盤價63.98元/股，最新動態市盈率97.19倍，高於行業均值61.27倍，存在市場情緒過熱及非理性炒作風險。近期網上傳播關於公司產品納入英偉達、華為供應鏈體系認證等資訊為不實資訊，截至公告日公司未與英偉達、華為有過接觸，未開展任何形式的業務合作。公司高頻高速覆銅板產品尚在實驗室研發及客戶送樣階段，尚未形成收入，其中一款高速覆銅板正在向境內客戶送樣，能否透過客戶認證存在不確定性。公司正在籌劃2025年度向特定物件發行A股股票事項，已獲深交所受理，正在稽核階段。
-
----
-
-### 2026-06-08 20:44:11  #公司
-
-【Wavestone執行長：AI恐慌交易將令IT股繼續承壓一年】Wavestone執行長Pascal Imbert表示，所謂的AI恐慌交易，即那些被認為面臨AI威脅的板塊遭遇的輪番拋售，可能會持續一年左右，直到市場能夠釐清哪些公司將真正面臨顛覆。他在一場媒體釋出會上表示：“我預計，來自‘SaaS末日論’以及遭遇AI風險的ETF帶來的壓力，在我們行業將持續大約一年。”他補充說：“在此期間，我認為選股型投資者和價值投資者將進入這一領域進行投資並獲取回報，這也將讓IT諮詢公司股票之間出現更多的分化。”Wavestone 2025/26財年AI相關銷售額佔比從上年的8%升至17%。Imbert表示，預計這一比例在2026/27財年將至少升至25%。他說：“我們現在正全面押注AI。”
 
 ---

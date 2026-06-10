@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-11 06:49:53_
-_本檔包含 3640 則快訊，約 669217 字_
+_更新時間：2026-06-11 07:18:13_
+_本檔包含 3653 則快訊，約 669218 字_
+
+---
+
+### 2026-06-05 10:02:20  #市場 #國際
+
+印尼盾兌美元跌至18050。
+
+---
+
+### 2026-06-05 10:02:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Extend Losses for Third Session — The Hang Seng Index fell 90 points, or 0.4%, to 25,165 on Friday, marking its third consecutive session of losses as weakness in technology and financial shares continued to weigh on sentiment. Hong Kong equities tracked subdued regional trading after weakness in AI-related stocks on Wall Street prompted profit-taking among select technology and semiconductor shares. Investors also remained cautious amid uncertainty surrounding the fragile US-Iran ceasefire, as reports of stalled negotiations contrasted with President Donald Trump's assertions that talks were continuing and nearing completion, leaving markets wary of renewed geopolitical risks in the Middle East. Among the biggest drags on the benchmark were AIA (-3.3%), Lenovo (-4.4%), Hong Kong Exchanges and Clearing (-0.5%), and Semiconductor Manufacturing International Corporation (-3.7%). In contrast, Tencent and Beijing 51WORLD gained 1.3% and 9.2%, respectively.
+
+---
+
+### 2026-06-05 10:01:33  #其他
+
+【習近平將對朝鮮民主主義人民共和國進行國事訪問】中共中央對外聯絡部發言人5日宣佈：應朝鮮勞動黨總書記、朝鮮民主主義人民共和國國務委員長金正恩邀請，中共中央總書記、中華人民共和國主席習近平將於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。(新華社)
+
+---
+
+### 2026-06-05 10:01:27  #市場 #焦點
+
+紐約期金失守4470美元/盎司，日內跌0.78%。
+
+---
+
+### 2026-06-05 10:00:45  #焦點
+
+習近平將對朝鮮民主主義人民共和國進行國事訪問。（央視新聞）
+
+---
+
+### 2026-06-05 10:00:37  #MKT News #Important #Market Regions #Greater China
+
+Chinese President Xi Jinping will make a state visit to North Korea, Xinhua reported.
+
+---
+
+### 2026-06-05 10:00:25  #其他
+
+【最高法：2025年審結環境資源一審案件22.9萬件】最高人民法院今天（5日）召開新聞釋出會，釋出《中國環境資源審判（2025）》，系統總結全國法院環境資源審判工作進展。報告顯示，2025年，人民法院依法審結環境資源一審案件22.9萬件，切實維護國家利益、社會公共利益和人民群眾生態環境權益。
+
+---
+
+### 2026-06-05 10:00:22  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #09866.HK #Impact bearish #00175.HK #09868.HK
+
+Hong Kong-listed auto stocks weakened; Xpeng (09868.HK) fell over 3%, Nio-SW (09866.HK) fell over 22%, BAIC (01958.HK) and Geely (00175.HK) also declined.
+
+---
+
+### 2026-06-05 09:59:09  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+China A-share small metals sector rallied briefly; Yian Technology jumped over 18%. Huayang New Material, Guocheng Mining, Jintian Titanium, China Rare Earth and Shenghe Resources also gained.
+
+---
+
+### 2026-06-05 09:59:00  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+A-share liquid-cooled server theme saw pockets of buying; Chunzhong Technology recorded a second consecutive daily limit-up, while Tenglong, Qiangrui Technology, Ningbo Jingda and Guanlong Energy-saving rose.
+
+---
+
+### 2026-06-05 09:58:46  #市場
+
+【小金屬板塊短線拉昇】小金屬板塊短線拉昇，宜安科技漲超18%，華陽新材、國城礦業、金天鈦業、中國稀土、盛和資源等跟漲。
+
+---
+
+### 2026-06-05 09:58:01  #公司
+
+【液冷伺服器概念區域性活躍 淳中科技2連板】液冷伺服器概念區域性活躍，淳中科技2連板，騰龍股份、強瑞技術、寧波精達、冠龍節能跟漲。
+
+---
+
+### 2026-06-05 09:57:52  #市場 #國際
+
+馬來西亞林吉特兌美元下跌0.5%，報4.028，創4月7日以來新低。
+
+---
+
+### 2026-06-05 09:56:58  #其他
+
+幾內亞執政黨在議會 147 個席位中贏得 93 席。
+
+---
+
+### 2026-06-05 09:56:30  #MKT News
+
+A-share fiber-optic sector rallied after volatile trading: FiberHome, Sanfu and Tefa Information hit daily limit-up; Wutong Holdings rose over 10%; Far East, Yongding and Yangtze Optical Fibre and Cable were among the top gainers.
+
+---
+
+### 2026-06-05 09:56:01  #公司 #市場
+
+光纖概念震盪拉昇，烽火通訊、三孚股份、特發資訊漲停，吳通控股漲超10%，遠東股份、永鼎股份、長飛光纖漲幅居前。
+
+---
+
+### 2026-06-05 09:55:39  #市場
+
+【光學光電子板塊短線拉昇】光學光電子板塊短線拉昇，維信諾、沃格光電漲停，戈碧迦漲超10%，聯創電子、冠捷科技、緯達光電、聯得裝備、隆利科技等跟漲。
+
+---
+
+### 2026-06-05 09:55:34  #市場 #焦點
+
+北證50日內漲幅達2.12%，成分股中，戈碧迦漲11.87%，星圖測控漲6.49%，同惠電子漲6.39%，富士達漲5.84%。
+
+---
+
+### 2026-06-05 09:55:23  #其他
+
+【科技部組織召開2026年全國科技監督工作會】科技部十司6月1日至3日在廣州市組織召開2026年全國科技監督工作會。科技部黨組成員、副部長邱勇出席會議並就進一步推動科技監督體系建設，加強科技專案監督、科研誠信建設和科技倫理治理等提出要求。
+
+---
+
+### 2026-06-05 09:55:03  #MKT News #Important #Market Themes #AI Revolution
+
+【Shenzhen team trains 1.6 trillion-parameter AI model on domestic Ascend 910C cluster】A Shenzhen Hetao College AI training-platform team, with Harbin Institute of Technology (Shenzhen), Shenzhen Institute of Big Data and Huawei groups, using the Shenzhen Zhicheng AI compute platform and a domestic Ascend 910C AI compute cluster, completed full-parameter training of the 1.6 trillion-parameter model DeepSeek-V4-Pro. The exercise is a rare instance globally of a third-party team completing training at this scale on a domestic compute platform, yielding operational experience and supporting the claim that domestic AI chips can sustain world-class, very large-parameter model training. The team emphasized that running inference on existing models and conducting from-scratch full-parameter training are distinct technical stages with materially different hardware requirements; the results indicate domestic AI compute can handle top-tier training workloads and that the technical path is feasible.
+
+---
+
+### 2026-06-05 09:54:40  #其他
+
+【深圳國產晶片成功訓練萬億級AI大模型】近日，深圳河套學院Al訓練平臺專案團隊，聯合哈爾濱工業大學(深圳)、深圳市大資料研究院、華為有關團隊，協同深智城AI算力平臺，面向國產算力大模型訓練開展聯合攻關。依託昇騰910C國產AI算力叢集，完成1.6萬億引數大模型DeepSeek-V4-Pro全引數後訓練。此次實踐為全球第三方機構在國產算力平臺上完成該級別模型訓練的相關探索積累了重要經驗，也印證了國產AI晶片可支撐世界級超大引數模型訓練工作。從技術應用角度來看，呼叫已有模型開展業務推理，與從零完成模型全引數訓練分屬不同技術環節，二者在技術難度、硬體要求上存在明顯區別。本次試驗結果表明，國產AI算力已可承擔頂級大模型訓練任務，相關技術路徑具備可行性。（深圳釋出）
+
+---
+
+### 2026-06-05 09:54:27  #公司
+
+【瀘州老窖集團等在成都新設企管合夥企業】企查查APP顯示，近日，成都市華格展益企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；企業管理諮詢；資訊諮詢服務（不含許可類資訊諮詢服務）；企業總部管理。企查查股權穿透顯示，該企業由瀘州老窖集團有限責任公司旗下四川金舵投資有限責任公司等共同出資。
+
+---
+
+### 2026-06-05 09:53:42  #市場
+
+三大股指持續回升，滬指率先翻紅，深證成指跌幅收窄至0.7%。
+
+---
+
+### 2026-06-05 09:53:39  #MKT News #SSE Composite #Impact bullish #SZSE Component #Impact mixed #CSI300
+
+China's three major A-share indices continued to recover; the Shanghai Composite turned positive first, while the Shenzhen Composite pared losses to 0.7%.
+
+---
+
+### 2026-06-05 09:53:19  #MKT News #Market Regions #Greater China
+
+A-share glass-substrate theme remained active; Woge Photonics neared the daily limit and hit a fresh record high. Gebijia, Kaisheng Technology, Three Gorges New Materials, Wufang Optoelectronics and Caihong Shares led gains.
+
+---
+
+### 2026-06-05 09:52:44  #公司 #市場
+
+【玻璃基板概念反覆活躍 沃格光電逼近漲停再創歷史新高】玻璃基板概念反覆活躍，沃格光電逼近漲停，再創歷史新高，戈碧迦、凱盛科技、三峽新材、五方光電、彩虹股份漲幅靠前。
+
+---
+
+### 2026-06-05 09:52:19  #MKT News #Market Regions #Emerging Markets
+
+Philippine stock index rose more than 1%.
+
+---
+
+### 2026-06-05 09:51:38  #公司
+
+【廣東面向港澳主體頒發首張資料智慧財產權證書】近日，澳門麥芽科技有限公司“容器模擬環境執行引數資料集”，在廣東資料智慧財產權存證登記平臺成功辦理並獲頒資料智慧財產權登記證書，這是全國首個港澳經營主體透過跨境登記方式在粵獲得資料智慧財產權登記，這標誌著粵港澳大灣區在資料要素合規確權與跨境流動方面實現重要突破。（廣東省市監局）
+
+---
+
+### 2026-06-05 09:50:35  #市場
+
+【航運板塊逆勢走強 鳳凰航運漲停】早盤航運板塊逆勢走強，鳳凰航運漲停，寧波海運、中遠海控、安通控股、國航遠洋跟漲。
+
+---
+
+### 2026-06-05 09:50:26  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-06-05 09:50:21  #市場 #國際
+
+菲律賓股指上漲 1.1%，報 5975.59 點。
+
+---
+
+### 2026-06-05 09:50:19  #MKT News #Market Regions #Greater China #601628.SS #Impact bullish #601336.SS #601318.SS
+
+A-share insurance sector rose; China Life gained over 5%, New China Life Insurance climbed over 4%; PICC, Ping An and CPIC also traded higher.
+
+---
+
+### 2026-06-05 09:49:46  #其他
+
+法拉第未來：FF已向洛杉磯一家知名醫療機構完成Master人形機器人交付，標誌著FF EAI機器人首次落地醫療健康應用場景。此次交付物件為Wonderful Life Dental Group Los Angeles，機器人將主要應用於該機構在醫療健康場景下的前臺接待相關職能，包括患者簽到、預約查詢、接待協助與導覽指引等。
+
+---
+
+### 2026-06-05 09:49:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+A Norwegian union said it reached a wage agreement for oil workers and will not stage strike action.
+
+---
+
+### 2026-06-05 09:49:12  #MKT News #USDJPY
+
+Prime Minister Sanae Takaichi said Japan's economic and fiscal policies are not intended to intervene in the FX market.
+
+---
+
+### 2026-06-05 09:49:03  #市場 #焦點
+
+北證50日內漲幅達1.13%，成分股中，戈碧迦漲7.68%，星圖測控漲5.46%，富士達漲5.29%，天力複合漲4.15%。
+
+---
+
+### 2026-06-05 09:48:53  #公司
+
+【行雲科技等成立新公司 含AI與積體電路晶片業務】企查查APP顯示，近日，杭州行雲智冷科技有限公司成立，註冊資本2000萬元，經營範圍包含：積體電路銷售；積體電路晶片及產品銷售；半導體器件專用裝置銷售；人工智慧硬體銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由行雲科技全資子公司行雲智冷（深圳）科技有限公司等共同持股。
+
+---
+
+### 2026-06-05 09:48:45  #其他
+
+【保險板塊走高，中國人壽漲超5%】保險板塊走高，中國人壽漲超5%，新華保險漲超4%，中國人保、中國平安、中國太保跟漲。
+
+---
+
+### 2026-06-05 09:48:33  #MKT News #Market Regions #Japan & APAC
+
+Japan's prime minister Takaichi said she aims to build an economic structure that can withstand exchange-rate volatility.
+
+---
+
+### 2026-06-05 09:48:27  #MKT News #USDJPY #Impact bearish #DXY
+
+Japanese Prime Minister Takaichi said improving competitiveness would help sustain confidence in the yen.
+
+---
+
+### 2026-06-05 09:48:14  #公司 #觀點
+
+【中科信半導體啟動IPO輔導】證監會網站披露，北京中科信半導體股份有限公司於2026年6月4日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信建投證券。輔導備案報告顯示，該公司控股股東為中電科爍科電子裝備（北京）有限公司，直接持有公司33.11%的股權。
+
+---
+
+### 2026-06-05 09:45:40  #其他
+
+高市早苗：希望構建能夠抵禦匯率波動的經濟結構。
+
+---
+
+### 2026-06-05 09:45:32  #其他
+
+高市早苗：提升競爭力有助於維繫日元市場信心。
+
+---
+
+### 2026-06-05 09:45:05  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
+
+China Mobile Stock Price Hits 6-week Low — China Mobile shares decreased to 82.30 HKD, the lowest since April 2026. Over the past 4 weeks, China Mobile lost 1.85%, and in the last 12 months, it decreased 7.74%.
+
+---
+
+### 2026-06-05 09:44:53  #國際
+
+日本經濟產業大臣赤澤亮正週五表示，日本政府已向晶片製造商Rapidus追加投資1500億日元。
+
+---
+
+### 2026-06-05 09:44:05  #MKT News #CSI300 #Impact bullish
+
+China A-share fiber-optic sector jumped intraday; Dingtong Technology up >13%, Qiuguan Cable up >12%. Changguang Huaxin, Ligong Guangke, Yangtze Optical Fibre & Cable, Jiuzhiyang and Hengtong Optic‑Electric also advanced.
+
+---
+
+### 2026-06-05 09:43:54  #MKT News #Market Regions #Greater China
+
+A-share coal sector showed localized strength: Dayou Energy posted a fifth consecutive daily limit-up; Antai Group a second. Guanghui Energy, Baotailong and Pingmei Coal also climbed.
+
+---
+
+### 2026-06-05 09:43:38  #市場
+
+【光纖概念板塊短線拉昇，鼎通科技漲超13%】光纖概念板塊短線拉昇，鼎通科技漲超13%，球冠電纜漲超12%，長光華芯、理工光科、長飛光纖、久之洋、亨通光電等跟漲。
+
+---
+
+### 2026-06-05 09:43:30  #其他
+
+高市早苗：經濟與財政政策並非用以干預匯率。
+
+---
+
+### 2026-06-05 09:42:44  #MKT News
+
+【China's ambassador to US Xie Feng meets Biocom CEO to discuss U.S.-China biopharma SME cooperation】June 3, 2026 — China's ambassador to the United States Xie Feng met Scott, president and CEO of Biocom (California Life Sciences Association), and exchanged views on U.S.-China cooperation in the biopharmaceutical industry, with emphasis on collaboration among small and medium-sized enterprises.
 
 ---
 
@@ -21688,261 +21988,5 @@ Russia Retail Sales Growth Hits 6-Month High — Retail sales in Russia rose by 
 ### 2026-06-04 07:18:34  #MKT News #XAUUSD #Impact bearish #DXY #WTI
 
 【US State Dept: Israel, Lebanon agree to resume direct talks】The US State Department said on June 3 that Israel and Lebanon have accepted US guidance to rapidly establish pilot zones in which the Lebanese Armed Forces (LAF) will exercise exclusive control and all non-state actors will be excluded. A ceasefire is conditional on two preconditions: Hezbollah must fully stop firing and all Hezbollah personnel must withdraw from south of the Litani River. Delegations, building on May 29 defense talks, discussed a security framework and agreed to restart the political and security track in the week of June 22 aiming for a comprehensive agreement.
-
----
-
-### 2026-06-04 07:17:17  #公司
-
-【時隔8年A股再迎航司IPO，長龍航空擬募資20億元】據上交所官網6月2日晚訊息，浙江長龍航空股份有限公司主機板IPO申請獲受理。招股說明書（申報稿）顯示，長龍航空此次IPO擬募資不超過20億元，將用於A320系列飛機引進專案、備用發動機購置專案和補充流動資金。若成功上市，長龍航空將成為繼2018年3月華夏航空上市後，時隔8年又一家登陸A股的客運航空公司，也將成為第五家民營A股上市航司。（上證報）
-
----
-
-### 2026-06-04 07:17:08  #公司 #市場
-
-【多家上市公司正擴產高效能碳纖維產品】6月3日，多家高效能碳纖維概念股大漲。有訊息稱，我國高效能碳纖維領域技術研發獲重大突破。上海石化聯合上海石油化工研究院攻克溼法T1000級高效能碳纖維關鍵技術，實現批次化生產。對此，有不願具名的上市公司高管對記者表示，T代表拉伸強度，拉伸強度等級越高，則應用場景越高階。6月3日高效能碳纖維概念股大漲，主要是由於市場對於高效能碳纖維領域有比較好的預期。而多家上市公司此前表示，正在對高效能碳纖維產品進行擴產。（中證報）
-
----
-
-### 2026-06-04 07:16:58  #國際
-
-【美國擬削減對北約的飛機和艦艇支援 要求盟友迅速填補】據報道，一名美國高階將領週三表示，隨著華盛頓在相關領域減少投入，美國預計歐洲的北約盟友和加拿大將迅速增加向北約提供的有人和無人飛機以及艦船數量。北約最高指揮官和駐歐美軍司令、美國空軍上將格林克維奇（Alexus Grynkewich）在北約軍事規劃會議後發表了上述言論，此前特朗普政府決定縮減在危機時期提供給北約呼叫的美國軍事能力規模。美國總統特朗普多次批評北約，並表示歐洲成員國必須承擔起歐洲大陸常規防務的主要責任。美國上個月已告知盟友，將減少其在“北約部隊模型”中的貢獻。該框架包含一支可在危機時期啟用的部隊儲備。美國未公開披露計劃削減的細節，但一位軍方訊息人士表示，削減範圍涵蓋多個領域，包括包括空中加油機、戰鬥機、無人機和海軍艦艇等。該匿名人士稱，美國尚未明確說明這些裝備何時將不再提供給北約。
-
----
-
-### 2026-06-04 07:16:04  #其他
-
-【世界半導體貿易統計組織：預計2026年全球半導體市場規模或超10萬億元】由主要半導體廠商組成的世界半導體貿易統計組織6月2日釋出預測報告，報告預測，2026年全球半導體市場規模較2025年增長近90%，達到1.511萬億美元，約合人民幣10.2萬億元，預計2027年增長26.6%，市場規模進一步升至1.914萬億美元，約合人民幣12.9萬億元。從產品分類來看，報告預測儲存晶片今年同比增幅將達到驚人的249.5%，規模突破8000億美元大關，一舉超越2025年半導體整體市場規模。邏輯晶片預計增長37.3%，規模達4100億美元。（央視財經）
-
----
-
-### 2026-06-04 07:15:47  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【Israel and Lebanon agree to ceasefire, conditional on Hezbollah halt and withdrawal】On the 3rd the US, Israel and Lebanon said in a joint statement that following US-led talks Israel and Lebanon have agreed to implement a ceasefire, conditional on Hezbollah fully ceasing fire and withdrawing armed personnel from southern Lebanon south of the Litani River.
-
----
-
-### 2026-06-04 07:15:33  #國際
-
-【以色列和黎巴嫩同意停火 但有前提 】美國、以色列和黎巴嫩3日發表聯合宣告稱，作為美國主導下談判的結果，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨完全停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。（新華社）
-
----
-
-### 2026-06-04 07:15:08  #MKT News #Important
-
-【ICE canola jumps to near three-year high as crude strengthens, planting delays】ICE Canadian canola futures closed higher Wednesday, the benchmark up about 2.6% to a near three-year peak, driven by adverse weather delaying planting, a weak Canadian dollar, and gains in crude and other vegetable oils. The July contract briefly topped C$800 intraday—its highest since early September 2023—on a surge in volume; the November contract also traded and closed above C$800. An analyst said canola has been strong recently and continues to be influenced by the Iran war.
-
----
-
-### 2026-06-04 07:13:33  #MKT News
-
-U.S. State Department said parties condemned Iran's attacks on countries in the region.
-
----
-
-### 2026-06-04 07:13:13  #公司 #市場
-
-【博通股價盤後下跌 AI晶片營收預測不及預期】博通股價盤後下跌，該公司公佈的人工智慧晶片營收預測不及預期，顯示其在這一快速增長行業中爭取更大份額的進展慢於外界預期。博通週三在公告中表示，在截至7月的第三財季，AI半導體營收將在160億美元。資料顯示，分析師平均預期為172億美元。執行長Hock Tan表示，在截至10月的這一財年，博通人工智慧晶片的銷售額將在560億美元，這一預測低於此前576億美元的平均預期。博通股價盤後跌超10%。截至收盤，該股今年迄今已累計上漲38%。
-
----
-
-### 2026-06-04 07:12:26  #市場
-
-【績優科技主題基金頻頻限購，機構：後市關注標的估值與業績匹配度】近期，科技板塊走勢強勁，推動科技主題基金淨值上漲，並吸引大量資金流入。在這種情況下，不少相關績優基金髮布“限購令”，防止短線資金追高買入。從基金經理最新觀點看，AI產業仍處於資本開支投入階段，科技巨頭的算力基礎設施投資是當前主線，依然看好科技板塊後市機會，但在近期漲幅較大的背景下，應關注短期調整的風險。（上證報）
-
----
-
-### 2026-06-04 07:12:10  #國際
-
-【駐英國使館發言人就英情報機構炒作所謂“中國間諜威脅”答記者問】記者：英國軍情五處聯合其它“五眼聯盟”國家情報機構釋出所謂“安全提醒”，聲稱中國情報部門透過虛假線上招聘等方式接觸西方國家人員，竊取軍事、政治、科技機密資訊。中方對此有何評論？使館發言人：所謂“中國間諜威脅”指責純屬無中生有、惡意誹謗，我們對此予以強烈譴責。必須指出，“五眼聯盟”是世界最大的情報組織，其成員在世界各地肆無忌憚地進行間諜竊密活動，它們才是愛好和平國家的真正威脅。我們奉勸英方立即停止這種自編自導、賊喊捉賊的拙劣表演，否則只會自取其辱。
-
----
-
-### 2026-06-04 07:07:35  #宏觀 #國際
-
-【美國稱以色列和黎巴嫩同意執行停火】美國國務院在一份宣告中表示，“在美國主導的談判促成下，以色列和黎巴嫩同意執行停火。”宣告中寫道：“停火的前提條件是，真主黨完全停止開火，並將所有真主黨人員撤離利塔尼河南部區域(South Litani Sector)。”。此前，以色列和黎巴嫩代表於6月2日至3日在美國舉行了第四次高階別三方會談。
-
----
-
-### 2026-06-04 07:06:49  #其他
-
-【維德角總統宣佈新總理人選 】維德角總統府3日釋出公報說，總統內韋斯當天宣佈維德角非洲獨立黨主席弗朗西斯科·卡瓦略為該國新總理人選，並由其組建新一屆政府。公報說，內韋斯是在聽取國民議會政黨意見後，依照憲法作出上述宣佈。在新政府任命和就職前，現政府繼續履職。卡瓦略當天對媒體表示，他將著手組建新政府，在適當時候公佈名單。新政府將推動落實“屬於所有人的維德角”這一施政理念。
-
----
-
-### 2026-06-04 07:06:41  #其他
-
-麥凱森醫療部門在首次公開募股前定價22.5億美元槓桿貸款。
-
----
-
-### 2026-06-04 07:06:02  #其他
-
-聖邦微電子向港交所提交聆訊後上市檔案。
-
----
-
-### 2026-06-04 07:05:49  #公司 #國際
-
-【6月4日隔夜要聞一覽】
-1、當地時間3日，美國總統特朗普表示，與伊朗的談判進展非常順利，協議可能在本週末達成。一旦協議簽署後，霍爾木茲海峽將“立即”恢復通航，“不過，通航的前提是需對個別區域進行最後的掃雷清理”。
-2、美國國會眾議院3日透過一項決議，叫停特朗普政府對伊朗的軍事行動。此舉反映出國會內部對這場戰爭的擔憂正日益加劇。
-3、 據伊朗伊斯蘭共和國通訊社3日報道，伊朗外交部長阿拉格齊近日重申對黎巴嫩的支援，稱如果以色列繼續侵略黎巴嫩首都貝魯特，伊朗武裝部隊將重新開戰並打擊以色列境內目標。
-4、美國聯邦儲備委員會發布的全國經濟形勢調查報告顯示，美國多數地區經濟活動保持輕微至溫和增長，但消費者支出出現分化，通脹壓力上升。
-5、伊朗伊斯蘭革命衛隊發言人表示，其軍隊並未向科威特機場這一目標開火。發言人稱，科威特機場航站樓損毀系美國“愛國者”防空導彈系統故障所致，該系統發射的導彈在攔截伊朗導彈失敗後誤落至該航站樓。
-6、據伊朗方面當地時間3日訊息，伊朗與美國間接談判知情人士表示，伊美正在討論的諒解備忘錄若最終敲定，將分四個主要階段依次推進，其中第三階段將討論核問題。
-7、美國國務卿魯比奧在眾議院撥款委員會舉行的聽證會上表示，美國針對伊朗的“史詩怒火”軍事行動已經結束，並稱美國“已經取得勝利”。
-8、當地時間3日，以色列總理內塔尼亞胡在接受採訪時表示，他與美國總統特朗普“在關於伊朗的主要問題上達成了一致”。
-9、SpaceX擬透過首次公開募股（IPO）募資750億美元，規模將為史上最大。該公司計劃以每股135美元的價格推介約5.556億股，市值將接近1.77萬億美元。
-
----
-
-### 2026-06-04 07:05:28  #其他
-
-【金正恩視察核物質生產工廠】朝鮮勞動黨總書記、國務委員長金正恩當地時間3日視察了該國新投產的核物質生產工廠。金正恩察看了採用新一代技術的生產工序，瞭解了投產指標和遠景生產計劃。金正恩稱，核專家團隊潛心破解核物質生產的一些關鍵性問題，為提高生產工序各系統因素的效率、進一步夯實武器級核物質生產基礎提供了堅實保證。
-
----
-
-### 2026-06-04 07:01:20  #宏觀 #國際
-
-美國國務院：各方均譴責伊朗對該地區國家發動的襲擊。
-
----
-
-### 2026-06-04 07:00:48  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Shares Extend Losses — The NZX 50 dropped 47 points, or 0.4%, to 13,068 in Thursday morning deals, extending losses from the previous session, marking its lowest level since May 25 and tracking a fall on Wall Street overnight amid renewed escalation of the Middle East war. Traders also assessed the possibility that New Zealand faces a new 12.5% tariff from the US, after the US Trade Representative said 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Energy, consumer staples, and healthcare stocks mainly weighed down the index, with notable losses from Ryman Healthcare (-1.8%), ANZ Group (-0.7%), Contact Energy (-0.7%), A2 Milk (-0.6%), Auckland International Airport (-0.4%), and Ebos Group (-0.4%).
-
----
-
-### 2026-06-04 07:00:10  #宏觀 #國際
-
-美國國務院：以色列與黎巴嫩已同意於6月22日所在一週重啟政治與安全軌道談判，以期達成全面協議。
-
----
-
-### 2026-06-04 06:59:43  #宏觀 #國際
-
-美國國務院：美國重申持續支援兩國政府行使各自主權。
-
----
-
-### 2026-06-04 06:58:22  #宏觀 #國際
-
-美國國務院：各方代表團在5月29日五角大樓會談的基礎上，就安全框架展開了討論。
-
----
-
-### 2026-06-04 06:57:51  #MKT News
-
-US State Department said both sides, following US guidance, have agreed to swiftly establish pilot zones; within those zones the Lebanese Armed Forces will exercise exclusive control over the relevant territory and exclude all non-state actors.
-
----
-
-### 2026-06-04 06:57:30  #宏觀 #國際
-
-美國國務院：以色列與黎巴嫩均重申對彼此並無敵意，並承諾繼續進行直接談判。
-
----
-
-### 2026-06-04 06:57:27  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
-
-U.S. State Department says Israel and Lebanon have agreed to implement a ceasefire following U.S.-led talks.
-
----
-
-### 2026-06-04 06:57:20  #市場 #焦點
-
-現貨黃金突破4450美元/盎司，日內漲0.37%。
-
----
-
-### 2026-06-04 06:57:00  #宏觀 #國際
-
-美國國務院：雙方已在美國的協調下，同意加快推進試點區域的設立工作。在這些試點區域內，黎巴嫩武裝部隊將對領土擁有專屬控制權，排除所有非國家行為體介入。
-
----
-
-### 2026-06-04 06:56:55  #市場
-
-WTI原油日內跌1%，現報95.06美元/桶。
-
----
-
-### 2026-06-04 06:56:33  #市場 #焦點
-
-紐約期金突破4470美元/盎司，日內漲0.07%。
-
----
-
-### 2026-06-04 06:56:31  #宏觀 #焦點 #國際
-
-美國國務院：經美國牽頭談判，以色列與黎巴嫩已同意落實停火協議。
-
----
-
-### 2026-06-04 06:55:59  #焦點 #國際
-
-美國：以色列和黎巴嫩同意執行停火協議。
-
----
-
-### 2026-06-04 06:55:31  #其他
-
-【濰宿高鐵至青島連線線跨齊長城連續梁合龍】6月3日凌晨，濰宿高鐵至青島連線線重點控制性工程——跨齊長城連續梁順利合龍。該連續梁位於山東諸城市，全長超237米，主跨達108米。由於下方的齊長城遺址是全國重點文物保護單位，施工要兼顧工程推進與文物保護的雙重目標。對此，專案方組建了技術攻關團隊，透過反覆論證、最佳化方案，最終實現安全、精準合龍。濰坊至宿遷高鐵至青島連線線是國家“八縱八橫”高鐵網中，京滬高鐵輔助通道與沿海通道的重要連線工程。該工程計劃2028年建成通車，屆時將成為膠東半島北上京津冀、南下長三角等地區的快速通道。（央視新聞）
-
----
-
-### 2026-06-04 06:54:11  #公司
-
-【曝VisionPro產品線被移除】北京時間週四凌晨，分析師郭明錤發帖稱，蘋果 XR 頭顯和智慧眼鏡路線圖中僅剩兩款智慧眼鏡產品可見。 郭明錤還表示，這次重大調整由蘋果下一任 CEO 約翰 · 特努斯（John Ternus）批准。這一轉變實際上已經發生一段時間了。對於 Vision Pro 產品線被移除，郭明錤直言這是正確的決定，蘋果應當把資源轉向具有更廣大消費潛力的 AI 眼鏡品類。 郭明錤稱，最新的供應鏈調查顯示，蘋果配備光學波導顯示屏的蘋果 AR / XR 智慧眼鏡裝置（由光學波導驅動）已推遲至 2029 年。類似於 Ray-Ban Meta 的無顯示屏 AI 眼鏡仍預計於 2027 年出貨。 馬克 · 古爾曼此前透露，蘋果更輕薄的 Vision Pro 新品預計將於 2028 年末或 2029 年正式亮相。
-
----
-
-### 2026-06-04 06:53:55  #市場 #焦點
-
-現貨黃金突破4440美元/盎司，日內漲0.16%。
-
----
-
-### 2026-06-04 06:51:53  #國際
-
-【“邊談邊打”僵局持續 美伊再釋放和談訊號 軍事摩擦仍頻發】3日，美國總統特朗普表示，美國與伊朗的談判“進展迅速”且“非常順利”。伊朗伊斯蘭議會副議長當天則表示，如有必要伊朗會進行談判，但不相信美國的任何承諾。在雙方釋放和談訊號的同時，美伊仍不斷髮生軍事摩擦。在阿曼灣，伊朗稱打擊一艘美驅逐艦，但美方迅速否認；在科威特，伊朗否認向科國際機場發射任何導彈，稱航站樓受損是美製“愛國者”導彈防禦系統的攔截彈墜落所致，但美軍同樣迅速予以否認，稱伊朗蓄意攻擊民用機場。（央視新聞）
-
----
-
-### 2026-06-04 06:50:32  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、5月中國物流業景氣指數為50.3% 需求重回擴張區間 市場預期保持向好
-2、全國A級景區去年接待遊客75.1億人次 實現旅遊收入超5500億元
-3、全國首家網上離境退稅商店上線
-4、2026年大中小企業融通對接活動開展
-5、C919運送旅客超500萬人次
-6、跨境電商，賦能南南合作新模式
-7、中老鐵路開通以來寮國段首次大規模擴能改造
-8、七部門印發通知促進工業旅遊發展
-9、以“制度護企”促“生態興企”（人民時評）
-10、“劍網2026”專項行動啟動 打擊網路侵權盜版
-11、166家外資企業獲增值電信業務經營試點批覆
-12、北京太空智算研究院成立 計劃2028年前發射首發試驗星
-13、海南升級自然資源網上交易系統
-14、去年出口總值超600億元，同比增長近36％ 中國變壓器何以走俏全球（中國品牌圈粉海外）
-15、發展種業的決心更加堅定（感言·發展壯大民營經濟）
-16、可可產量佔全球40%以上，是該國重要創匯來源——象牙海岸如何發展可可產業（第一現場）
-17、太空經濟競逐“萬億藍海”（經濟透視）
-18、人工智慧平臺專案“燈塔”即將全面投入執行——希臘計劃建設南歐資料中心
-19、4月貿易順差達105.37億美元，創同期最高紀錄——巴西外貿顯現強勁增長勢頭。
-
----
-
-### 2026-06-04 06:50:20  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“中國可以成功，其他發展中國家同樣可以成功”（總書記的人民情懷）
-2、共繪美麗中國新畫卷——生態環境志願者守護綠水青山剪影
-3、丁薛祥在雲南調研時強調 全面貫徹黨的教育方針 深入推進基礎教育高質量發展
-4、韓正會見下任聯合國秘書長候選人巴切萊特
-5、濟南實施公交軌道“兩網融合”行動——交通更順暢 出行更舒心（樹立和踐行正確政績觀·一線見聞）
-6、新中國成立以來建設的首條通江達海的大運河 平陸運河全線通水。
 
 ---
