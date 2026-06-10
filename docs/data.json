@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-11 05:19:11",
-  "count": 18340,
+  "updated": "2026-06-11 05:23:04",
+  "count": 18342,
   "items": [
+    {
+      "id": "mkt:019eb36a-6255-7dd8-afac-f00d7d4b5cca",
+      "time": "2026-06-11 05:22:34",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid."
+    },
+    {
+      "id": "4929005",
+      "time": "2026-06-11 05:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。"
+    },
+    {
+      "id": "mkt:019eb369-d49e-7dd8-afac-e9eadc848931",
+      "time": "2026-06-11 05:21:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported air-defense activity heard west of Tehran."
+    },
+    {
+      "id": "4929004",
+      "time": "2026-06-11 05:21:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文CEO：公司第四季度簽下價值 670 億美元的人工智慧基礎設施合同，其中大部分合同採用自帶硬體或預付費模式。"
+    },
+    {
+      "id": "4929003",
+      "time": "2026-06-11 05:20:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗德黑蘭市傳出爆炸聲，防空系統啟動。"
+    },
+    {
+      "id": "mkt:019eb368-3c1a-7dd8-afac-e4294054d3dc",
+      "time": "2026-06-11 05:20:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Market reports: explosions heard in Tehran, Iran; air defenses activated."
+    },
     {
       "id": "4929002",
       "time": "2026-06-11 05:17:27",
@@ -168968,47 +169024,6 @@
         "國際"
       ],
       "text": "美國鷹牌服飾公司：需將2026年5月2日後收到的關稅退稅款中的3310萬美元支付給買方。"
-    },
-    {
-      "id": "4916051",
-      "time": "2026-06-04 05:22:18",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國鷹牌服飾公司（American Eagle Outfitters）公告檔案顯示：該公司透過參與協議，於2025年將金額為6890萬美元的關稅退稅申請權以1860萬美元現金出售給第三方。"
-    },
-    {
-      "id": "mkt:019e8f5c-01a4-7443-8fe5-100e2e7b41fd",
-      "time": "2026-06-04 05:20:31",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom CEO said it has received $6 bln in purchase orders to date."
-    },
-    {
-      "id": "mkt:019e8f5b-d0cf-7443-8fe5-0e020849745f",
-      "time": "2026-06-04 05:20:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. House of Representatives passed a resolution limiting presidential authority to use military force against Iran, 215-208; four Republicans joined Democrats, Axios reports."
-    },
-    {
-      "id": "4916050",
-      "time": "2026-06-04 05:20:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX在IPO前夕拿下德克薩斯州晶片專案稅收減免。"
     }
   ]
 }
