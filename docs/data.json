@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-10 13:40:35",
-  "count": 18709,
+  "updated": "2026-06-10 13:44:40",
+  "count": 18703,
   "items": [
+    {
+      "id": "4927366",
+      "time": "2026-06-10 13:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電美股夜盤跌幅收窄至1.3%，此前一度跌超2.3%。"
+    },
+    {
+      "id": "4927365",
+      "time": "2026-06-10 13:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將耐克股票評級從“跑贏大盤”下調至“與大盤持平”，並將目標股價從70美元下調至50美元。"
+    },
+    {
+      "id": "te:markets:557899",
+      "time": "2026-06-10 13:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Recovers Losses to Finish 0.4% Higher — The NZX 50 advanced 50 points, or 0.4%, to close at 13,254 on Wednesday, reversing morning weakness, extending gains from the previous session, and reaching its highest level since May 7, mainly buoyed by communication services, energy, and consumer discretionary stocks. The latest data from China also lifted sentiment, as consumer inflation remained steady, albeit slightly below expectations, while producer prices rose at their fastest pace in nearly four years amid rising oil prices. However, traders remained cautious ahead of US inflation data, which could guide the Federal Reserve's monetary policy at its upcoming meeting. Meanwhile, accelerating oil prices limited gains after the US military reportedly launched strikes against Iran in retaliation for the downing of an American helicopter. Among the top performers were A2 Milk (2.9%), Skellerup Holdings (2.3%), South Port NZ (2.3%), Freightways Group (2.2%), Fisher & Paykel (1.0%), Chorus (0.9%), and Port of Tauranga (0.9%)."
+    },
+    {
+      "id": "mkt:019eb00d-00c0-799a-b41c-c3261ee1172f",
+      "time": "2026-06-10 13:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Traders say the Reserve Bank of India may be selling dollars to support the rupee."
+    },
+    {
+      "id": "4927364",
+      "time": "2026-06-10 13:41:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能正在出售美元以提振盧比匯率。"
+    },
+    {
+      "id": "mkt:019eb00c-6f72-799a-b41c-b87eb8db796e",
+      "time": "2026-06-10 13:41:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell more than 1% intraday, trading at $88.78/bbl."
+    },
+    {
+      "id": "4927363",
+      "time": "2026-06-10 13:40:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光通訊板塊大幅調整，金時科技等跌停】光通訊板塊大幅調整，金時科技、三安光電、ST美克、ST得潤、寶勝股份、鑫科材料跌停，唯特偶、長進光子、騰景科技、紅板科技、環旭電子、精達股份等跟跌。"
+    },
     {
       "id": "4927362",
       "time": "2026-06-10 13:39:45",
@@ -172571,129 +172637,6 @@
         "公司"
       ],
       "text": "據知情人士，龍豐集團計劃將香港IPO價格定在指導價區間低端，擬募資6.48億港元。"
-    },
-    {
-      "id": "mkt:019e8c03-2ccd-7ee2-b140-d006a781f322",
-      "time": "2026-06-03 13:44:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Kioxia market cap briefly tops ¥45 tln, surpasses Toyota】Kioxia Holdings' market value jumped as much as 7.2% on Wednesday, briefly topping ¥45 trillion (~$281 billion) and overtaking Toyota Motor; the company listed only 18 months ago. Junpei Tanaka, head of investment strategy at Pictet Asset Management Japan, said the reshuffle could shift overseas investors' view of Japan from a manufacturing-driven cyclical market to one increasingly defined by AI-driven semiconductor growth, potentially drawing further capital."
-    },
-    {
-      "id": "mkt:019e8c03-19c7-7ee2-b140-ca38f33601b1",
-      "time": "2026-06-03 13:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Civil Aviation Authority says flights suspended and diverted to other airports until further notice."
-    },
-    {
-      "id": "mkt:019e8c02-deb0-7ee2-b140-c304563a8cb9",
-      "time": "2026-06-03 13:44:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait Civil Aviation Authority said Kuwait International Airport activated its emergency plan after Terminal 1 was struck by Iranian drones and missiles, causing significant damage to multiple airport facilities and resulting in injuries."
-    },
-    {
-      "id": "4914316",
-      "time": "2026-06-03 13:44:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特民航總局：航班暫停運營，並將改航至備降機場，直至另行通知。"
-    },
-    {
-      "id": "4914315",
-      "time": "2026-06-03 13:43:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特民航總局：襲擊已造成多個機場設施嚴重損毀，同時有人員受傷。"
-    },
-    {
-      "id": "mkt:019e8c02-3f02-7ee2-b140-bf83aa9186bc",
-      "time": "2026-06-03 13:43:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Indonesian stocks slide to five-year low; rupiah hits record low】Indonesia’s benchmark Jakarta Composite Index plunged as much as 5.2% on Wednesday to its lowest since May 2021; the materials sector led, falling more than 10%. The rupiah dropped 0.5% versus the dollar, the weakest Asian currency, while Brent crude rose for a third day. The sell-off reflects investor concern that higher oil will exacerbate fiscal and external balance pressures, plus fear of government intervention in commodities and the risk of an adverse MSCI reclassification, which has spooked global funds. The JCI is down about 32% year-to-date, the weakest among more than 90 global equity indices tracked by Bloomberg. MNC Sekuritas analyst Wikasana said the index remains in a broader downtrend with no sign of an effective reversal."
-    },
-    {
-      "id": "4914314",
-      "time": "2026-06-03 13:43:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特民航總局：在科威特國際機場T1航站樓遭伊朗無人機和導彈襲擊後，已啟動機場應急預案。"
-    },
-    {
-      "id": "4914313",
-      "time": "2026-06-03 13:42:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【茶顏悅色將入駐安徽合肥】6月3日，茶顏悅色宣佈將在安徽合肥開店，開業時間預估為8月初。"
-    },
-    {
-      "id": "4914312",
-      "time": "2026-06-03 13:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：無人機襲擊NIKOPOLSKA變電站導致停電。"
-    },
-    {
-      "id": "mkt:019e8c00-456a-7ee2-b140-b4fc54b0d73c",
-      "time": "2026-06-03 13:41:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Demand for Australian 7-year bond auction surges as investors bet RBA tightening cycle ending】Demand at Wednesday’s auction for seven-year Australian government bonds jumped: bids covered the A$1 billion Nov-2033 note at over 4.0x, the strongest seven-year bid-to-cover since November last year, the Australian Office of Financial Management said. Investors are increasingly betting the Reserve Bank of Australia’s tightening cycle may be ending and are buying the mid-section of the federal curve to position for a slowdown in tightening, said Eugene, senior rates strategist at DBS Group."
-    },
-    {
-      "id": "mkt:019e8c00-1675-7ee2-b140-ab736f8c1565",
-      "time": "2026-06-03 13:41:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 20-year bond yield rose 3.5bp to 3.535%."
-    },
-    {
-      "id": "4914311",
-      "time": "2026-06-03 13:41:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上升3.5個基點，至3.535%。"
-    },
-    {
-      "id": "4914310",
-      "time": "2026-06-03 13:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行將土耳其2026年GDP增長預期從4%下調至3.5%。"
     }
   ]
 }
