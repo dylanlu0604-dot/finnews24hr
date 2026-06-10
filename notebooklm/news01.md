@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-11 05:03:38_
-_本檔包含 3722 則快訊，約 669546 字_
+_更新時間：2026-06-11 05:26:57_
+_本檔包含 3721 則快訊，約 669434 字_
+
+---
+
+### 2026-06-11 05:24:41  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Mehr News Agency reports explosions heard in the Sirik region of Iran.
+
+---
+
+### 2026-06-11 05:24:29  #國際
+
+伊朗方面訊息：錫裡克地區傳出爆炸聲。
+
+---
+
+### 2026-06-11 05:22:43  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days.
+
+---
+
+### 2026-06-11 05:22:34  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid.
+
+---
+
+### 2026-06-11 05:22:24  #公司
+
+甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。
+
+---
+
+### 2026-06-11 05:21:57  #MKT News
+
+Mehr News Agency reported air-defense activity heard west of Tehran.
+
+---
+
+### 2026-06-11 05:21:55  #公司
+
+甲骨文CEO：公司第四季度簽下價值 670 億美元的人工智慧基礎設施合同，其中大部分合同採用自帶硬體或預付費模式。
+
+---
+
+### 2026-06-11 05:20:20  #焦點 #國際
+
+市場訊息：伊朗德黑蘭市傳出爆炸聲，防空系統啟動。
+
+---
+
+### 2026-06-11 05:20:13  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Market reports: explosions heard in Tehran, Iran; air defenses activated.
+
+---
+
+### 2026-06-11 05:17:27  #其他
+
+中國地震臺網正式測定：06月11日05時10分在青海玉樹州囊謙縣（北緯32.52度，東經95.77度）發生3.0級地震，震源深度10千米。
+
+---
+
+### 2026-06-11 05:15:19  #市場
+
+富時A50期指連續夜盤收跌0.22%，報15187點。
+
+---
+
+### 2026-06-11 05:12:33  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Prices Rise in May — Producer prices in El Salvador rose by 2.78% year-on-year in May 2026, accelerating from a 1.59% increase in the previous month. The pickup was largely driven by higher costs for electricity, gas, steam and air conditioning (10.34% vs 1.70% in April), activities of administrative and support services (5.20% vs 4.62%), healthcare and social assistance (4.44%, unchanged), transport and storage (3.22% vs 3.26%), and accommodation and food services (2.59% vs 2.20%). Producer prices continued to decline for information and telecommunications (-0.07%, unchanged), while water supply, sewerage, waste management and remediation activities also remained in negative territory (-0.15% vs 0.01%). Other notable increases were recorded in real estate activities (1.36% vs 0.81%) and other service activities (3.80% vs 2.23%).
+
+---
+
+### 2026-06-11 05:12:09  #國際
+
+【特朗普召開戰情室會議討論對伊朗軍事行動】據美國方面訊息，美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。（央視新聞）
+
+---
+
+### 2026-06-11 05:11:30  #MKT News #ORCL.N #Impact mixed
+
+Oracle (ORCL.N) CFO said the company expects an additional 34% of remaining performance obligations to be recognized over the next 13–36 months.
+
+---
+
+### 2026-06-11 05:11:21  #MKT News
+
+IRNA said fighter-jet noises heard in parts of Lorestan province, western Iran, were related to friendly aircraft operations.
+
+---
+
+### 2026-06-11 05:11:06  #國際
+
+伊朗方面訊息：洛雷斯坦省部分割槽域出現的戰機聲響，系己方軍機飛行所致。繼洛雷斯坦省多地傳出戰機轟鳴聲後，經核查確認，該聲響來自己方戰機執行常規巡邏與空中偵察任務。
+
+---
+
+### 2026-06-11 05:10:28  #MKT News #ORCL.N
+
+Oracle (ORCL.N) CFO said the company expects 12% of remaining performance obligations to be recognized over the next 12 months.
+
+---
+
+### 2026-06-11 05:08:12  #MKT News
+
+Iranian media reported distant sounds near Kish Island; origin of the sounds is unknown.
+
+---
+
+### 2026-06-11 05:07:58  #Trading Economics #Markets #Brazil #Stock Market #Importance 0
+
+Ibovespa Falls to Lowest Since January — The Ibovespa fell 0.7% to close at 168,619 on Wednesday, extending losses to its lowest level since January as escalating geopolitical tensions fueled risk aversion. US President Donald Trump warned that Washington would strike Iran “with great force” if no peace agreement is reached after Tehran downed a US helicopter near the Strait of Hormuz, raising concerns over a broader conflict. Higher crude prices pushed bond yields up and reinforced expectations of a more hawkish BCB. Market pricing now suggests a pause in the central bank's easing cycle at next week's meeting, with investors increasingly betting that the next move in interest rates will be upward. Banks traded lower, with Bradesco down 1%. WEG extended losses, falling 2.2% after reporting weaker-than-expected earnings on Tuesday. Other notable laggards included Vale (-1%), Rede D'Or (-2.5%), and Embraer (-4.2%). On the upside, Petrobras gained 1.2% on higher oil prices.
+
+---
+
+### 2026-06-11 05:06:39  #國際
+
+伊朗伊斯蘭共和國廣播電視臺（IRIB）： 基什島上空傳來遠處異響，聲源暫不明確。有報道稱該島遠區疑似出現異動。
+
+---
+
+### 2026-06-11 05:04:05  #市場
+
+週三（6月10日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7822元，較週二紐約尾盤跌36點，日內整體交投於6.7746-6.7837元區間。
 
 ---
 
@@ -22291,137 +22417,5 @@ Corning Stock Price Hits 5-week Low — Corning shares decreased to 169.11 USD, 
 ### 2026-06-10 00:15:13  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Finishes in the Red — The DAX 40 reversed course to close about 0.7% lower at 24,418 on Tuesday, the lowest since May 19, amid renewed weakness in the tech sector and geopolitical uncertainties. Concerns about the valuation levels of US tech giants resurfaced amid growing nervousness ahead of SpaceX’s IPO on Friday. Regarding Middle East developments, Israel and Iran agreed to halt strikes following an appeal by US President Trump, who said a deal with Tehran was close to being finalized. Also, US Energy Secretary Chris Wright said that shipping traffic through the Strait of Hormuz is increasing ‘very meaningfully.’” The tech sector was the hardest hit, with Infineon Technologies and SAP down 3.4% and 2.2%, respectively. Siemens Energy also saw pressure, dropping nearly 6%.
-
----
-
-### 2026-06-10 00:15:04  #MKT News #MS.N #Impact bullish
-
-Morgan Stanley (MS.N) CEO Ted Pick said sponsor activity that had been quiet has become active again.
-
----
-
-### 2026-06-10 00:14:57  #公司 #觀點
-
-摩根士丹利CEO：核心投行業務活躍度顯著提升 。
-
----
-
-### 2026-06-10 00:14:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,260/oz, down 1.62% on the day.
-
----
-
-### 2026-06-10 00:14:19  #國際
-
-美國能源資訊署預計，部分中東地區石油產量的中斷情況，將持續至其 2027 年底版短期能源展望預測區間之後。
-
----
-
-### 2026-06-10 00:14:11  #市場 #焦點
-
-現貨黃金失守4260美元/盎司，日內跌1.61%。
-
----
-
-### 2026-06-10 00:14:05  #其他
-
-智利財長：我們將調整公共財政發展方向，將持續把智利總債務佔國內生產總值比重控制在 45% 以內， 工作重心為充實財政儲備， 將著力提升管理效率。
-
----
-
-### 2026-06-10 00:14:05  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Inches Up on Easing Middle East Tensions — The CAC 40 edged up to close at 8,203 on Tuesday on fragile hopes of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, easing concerns about inflation and higher interest rates. However, the situation remained fragile, with the Strait of Hormuz effectively closed and Israel continuing strikes in Lebanon. In Europe, attention also turned to the ECB’s policy meeting on Thursday. While a quarter-point rate cut is expected, markets are focused on signals regarding the policy outlook as elevated energy prices continue to pose inflation risks. Luxury stocks rose, with LVMH rising 2%, L'Oréal adding 1.6%, and Hermès gaining 1.3%, while AXA added 1.2%. In contrast, TotalEnergies fell 1.1% as oil prices fell. STMicroelectronics shed 5.8%, tracking weakness in tech shares as investors took profits following recent rallies.
-
----
-
-### 2026-06-10 00:13:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA now assumes oil shipments through the Strait of Hormuz will resume in Q3 2026. It expects traffic through the Strait will not return to pre-Iran-war levels before early 2027.
-
----
-
-### 2026-06-10 00:13:32  #公司 #觀點
-
-摩根士丹利CEO：沉寂已久的投資方已開始重新開展業務。
-
----
-
-### 2026-06-10 00:12:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA: US oil production is forecast to average 13.83 mln b/d in June, up from 13.71 mln b/d in May; July is forecast at 13.82 mln b/d.
-
----
-
-### 2026-06-10 00:12:29  #國際
-
-美國能源資訊署：預計霍爾木茲海峽航運量要到 2027 年初才能恢復至伊朗局勢動盪前的水平。
-
----
-
-### 2026-06-10 00:12:13  #MKT News
-
-EIA forecasts U.S. natural gas production will average 122.3 billion cubic feet per day (bcf/d) in June, up slightly from May's 122.1 bcf/d; July is forecast at 122.5 bcf/d.
-
----
-
-### 2026-06-10 00:12:01  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.11% Higher — The FTSE MIB Index gained 55 points or 0.11 percent on Tuesday to close at 50263 points. Gains were led by Unipol Gruppo (4.40%), Mediobanca (3.10%) and Bper Banca (2.90%). Biggest losers were STMicroelectronics (-5.75%), Prysmian (-4.46%) and Tenaris (-3.09%).
-
----
-
-### 2026-06-10 00:11:33  #MKT News #Important #Market Themes #Chip Wars #MRVL.O #Impact bearish #ARM.O #QCOM.O
-
-Philadelphia Semiconductor Index fell more than 6%; Marvell (MRVL.O) and Arm (ARM.O) dropped over 10%, Qualcomm (QCOM.O) fell over 9%, AMD (AMD.O) and Micron Technology (MU.O) declined over 7%.
-
----
-
-### 2026-06-10 00:11:29  #焦點 #國際
-
-美國能源資訊署：目前預估霍爾木茲海峽石油運輸將於 2026 年第三季度恢復。
-
----
-
-### 2026-06-10 00:11:11  #市場 #焦點
-
-WTI原油失守86美元/桶，日內跌5.81%。
-
----
-
-### 2026-06-10 00:11:01  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.74% Lower — The DAX Index decreased 183 points or 0.74 percent on Tuesday to close at 24433 points. The decline was led by Siemens Energy (-5.92%), SAP (-2.11%) and Infineon (-2.03%). On the upside, the strongest performers were Symrise (7.46%), Henkel (2.66%) and Beiersdorf (2.47%).
-
----
-
-### 2026-06-10 00:10:01  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.05% Higher — The CAC 40 Index rose 4 points or 0.05 percent on Tuesday to close at 8203 points. Leading the gains are Essilor (3.49%), Kering (2.93%) and Pernod Ricard (2.45%). Top losers were STMicroelectronics (-6.96%), ArcelorMittal (-3.98%) and Schneider Electric (-2.38%).
-
----
-
-### 2026-06-10 00:09:56  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude slid below $89/bbl, down 4.74% intraday.
-
----
-
-### 2026-06-10 00:09:45  #Trading Economics #Markets #commodity #Importance 0
-
-Brent Hits 7-week Low — Brent decreased to 89.68 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Brent Crude Oil lost 13.85%, and in the last 12 months, it increased 34.25%.
-
----
-
-### 2026-06-10 00:09:38  #其他
-
-智利財長：2026 年將把結構性財政缺口控制在 GDP 的 2.6% 。
-
----
-
-### 2026-06-10 00:08:52  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA now forecasts global oil demand at 102.9 mln b/d in 2026, down from a prior 104.2 mln b/d; it sees 2027 demand at 105.3 mln b/d, versus 105.6 mln b/d previously.
 
 ---

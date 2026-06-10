@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-11 05:03:38_
-_本檔包含 3684 則快訊，約 669140 字_
+_更新時間：2026-06-11 05:26:57_
+_本檔包含 3658 則快訊，約 669340 字_
+
+---
+
+### 2026-06-05 09:30:27  #市場
+
+【物理AI概念大幅高開 天娛數科一字漲停】早盤物理AI概念大幅高開，天娛數科一字漲停，凡拓數創、索辰科技高開9%，能科科技、漢鑫科技、雲從科技、奧比中光等跟漲。
+
+---
+
+### 2026-06-05 09:30:06  #國際
+
+【特朗普稱代理國家情報總監不會被正式任命】美國總統特朗普4日表示，他任命的代理國家情報總監、現聯邦住房金融署署長比爾·普爾特不會是國家情報總監這一關鍵安全職位的“長期”人選。據美媒報道，特朗普當天在白宮橢圓形辦公室接受記者提問時透露，他已排除提名普爾特正式擔任國家情報總監的可能性。“他（普爾特）不會是長期人選，因為，你知道，我認為他自己也不想長期擔任這個職務。”報道援引特朗普的話說，普爾特“只是一個暫時接手這一職務的人”，“我們正在面試人選”來擔任國家情報總監一職。（新華社）
+
+---
+
+### 2026-06-05 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.37%， 中證500指數期貨連續跌0.50%， 上證50指數期貨連續跌0.14%。
+
+---
+
+### 2026-06-05 09:30:02  #市場 #焦點
+
+科創50日內跌幅達1.81%，成分股中，佰維儲存跌4.19%，盛美上海跌4.00%，瀾起科技跌3.73%，拓荊科技跌3.38%。
+
+---
+
+### 2026-06-05 09:30:02  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。
+
+---
+
+### 2026-06-05 09:29:59  #市場 #國際
+
+【5月份中國大宗商品價格指數繼續上揚】中國物流與採購聯合會今天公佈5月份中國大宗商品價格指數。隨著國內需求穩定釋放，企業生產活動保持擴張，大宗商品價格指數繼續上揚，大宗商品市場整體執行平穩。5月份中國大宗商品價格指數為132.5點，環比上漲0.3%，同比上漲20.2%。在中國物流與採購聯合會重點監測的50種大宗商品中，5月份價格環比上漲的大宗商品有21種。其中，碳酸鋰、精煉錫和天然橡膠漲幅居前，環比分別上漲12.2%、9.9%和6.2%。分行業看，黑色與有色價格指數環比分別上漲3.3%和1.8%，主要是製造業進入消費旺季，市場需求回升。另外，受中東局勢緩和、國際油價回落等因素影響，能源與化工價格指數則雙雙走低，環比分別下降5.3%和2.1%。
+
+---
+
+### 2026-06-05 09:29:43  #MKT News #Brent #Impact bearish #WTI
+
+【Philippines May inf slows as U.S.-Iran ceasefire hopes weigh on fuel】Philippine consumer price inf eased to 6.8% YoY in May from 7.2% in April, below the 7.8% median survey and the PHILIPPINE C.BANK's prior 7.1%-7.9% projection for May. Preliminary extension of a U.S.-Iran ceasefire has pushed global energy prices down, easing imported fuel pressure for the Philippines, which sources over 90% of its oil from the Middle East. PHILIPPINE C.BANK governor Eli Remolona said policymakers will closely monitor incoming inf data ahead of the June 18 meeting to decide whether a policy rate increase is needed.
+
+---
+
+### 2026-06-05 09:29:11  #其他
+
+標普全球評級：美團面臨補貼帶來的利潤率風險。
+
+---
+
+### 2026-06-05 09:28:56  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share memory-chip sector opened lower; Jiangbolong fell more than 5%, GigaDevice Semiconductor dropped over 4%, and Hua Hong Semiconductor and Demingli also declined.
+
+---
+
+### 2026-06-05 09:28:33  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish #Nasdaq100
+
+【Broadcom CEO says AI growth potential outstrips M&A, forecasts over $100bn AI revenue in FY2027】Broadcom CEO Hock Tan told the Bloomberg Technology conference in San Francisco that the company has shifted focus from M&A to artificial intelligence because AI offers stronger growth potential. He said AI revenue is surging, reducing the appeal of external deals and that acquisitions are disruptive to Broadcom and its customers. Tan described demand for AI infrastructure as nearly insatiable. Broadcom, which sells networking chips and custom accelerators used to develop and run AI models, now expects the AI business to generate more than $100 billion in revenue in fiscal 2027.
+
+---
+
+### 2026-06-05 09:28:32  #MKT News #Star Stocks #AAPL.O #Impact bullish
+
+【Details of Apple's first OLED MacBook Pro leak; may be named MacBook Ultra】Market research firm projects the hybrid OLED notebook-panel market could reach USD 4bln by 2026, driven by expected demand for Apple’s next-generation OLED MacBook Pro, possibly named MacBook Ultra, which would be Apple’s first MacBook Pro with an OLED display. Analysts say Apple’s adoption should boost notebook OLED panel revenue and prompt other makers to shift to similar designs. Forecasts put hybrid OLED at 12.6% of global OLED notebook shipments in 2026, rising to 89.5% by 2033.
+
+---
+
+### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
+
+Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
+
+---
+
+### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
 
 ---
 
@@ -21986,239 +22064,5 @@ The U.S. House passed a motion to discharge H.R.2913, which includes authorizati
 ### 2026-06-04 05:29:54  #公司
 
 博通執行長：認可谷歌會採用多渠道採購晶片。
-
----
-
-### 2026-06-04 05:24:50  #MKT News #AVGO.O #Impact bullish
-
-Broadcom CEO said Q2 non-AI semiconductor revenue rose 6%.
-
----
-
-### 2026-06-04 05:24:28  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish #Nasdaq100
-
-Broadcom CEO reiterates expectation that AI semiconductor revenue will top $100 billion in fiscal 2027 and says AI semiconductor revenue will continue to grow in fiscal 2028.
-
----
-
-### 2026-06-04 05:24:27  #國際
-
-【伊朗稱愛國者導彈致科威特機場受損】伊朗伊斯蘭革命衛隊當地時間6月3日稱，革命衛隊航空航天部隊當天並未向科威特國際機場航站樓發射任何導彈。有證據顯示，美製“愛國者”反導系統在未能攔截伊朗導彈之後誤操作，導致攔截彈落入機場客運航站樓，從而造成損毀。而美軍中央司令部隨即在社交媒體平臺發表宣告，稱伊朗所稱完全是“虛假資訊”，並稱伊朗“使用無人機蓄意、有計劃且毫無道理地襲擊了該民用機場”。 科威特方面稱，科威特國際機場等多處民用設施當天“遭伊朗彈道導彈和無人機襲擊，造成1人死亡、多人受傷”。伊朗外長阿拉格齊則在社媒平臺發文，強調伊朗武裝部隊是“自衛性打擊”。（CCTV國際時訊）
-
----
-
-### 2026-06-04 05:23:39  #公司 #國際
-
-美國鷹牌服飾公司：需將2026年5月2日後收到的關稅退稅款中的3310萬美元支付給買方。
-
----
-
-### 2026-06-04 05:22:18  #公司 #焦點 #國際
-
-美國鷹牌服飾公司（American Eagle Outfitters）公告檔案顯示：該公司透過參與協議，於2025年將金額為6890萬美元的關稅退稅申請權以1860萬美元現金出售給第三方。
-
----
-
-### 2026-06-04 05:20:31  #MKT News #AVGO.O #Impact bullish
-
-Broadcom CEO said it has received $6 bln in purchase orders to date.
-
----
-
-### 2026-06-04 05:20:19  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-U.S. House of Representatives passed a resolution limiting presidential authority to use military force against Iran, 215-208; four Republicans joined Democrats, Axios reports.
-
----
-
-### 2026-06-04 05:20:12  #其他
-
-SpaceX在IPO前夕拿下德克薩斯州晶片專案稅收減免。
-
----
-
-### 2026-06-04 05:18:49  #公司
-
-博通執行長：公司第二季度非人工智慧半導體收入增長6%。
-
----
-
-### 2026-06-04 05:18:35  #MKT News #Important #WTI #Impact bearish #Brent
-
-The U.S. House passed a resolution limiting President Trump's authority to use military force against Iran.
-
----
-
-### 2026-06-04 05:18:20  #公司
-
-博通執行長：截至目前，我們已收到總額達60億美元的採購訂單。
-
----
-
-### 2026-06-04 05:17:53  #MKT News #AVGO.O
-
-Broadcom CEO expects third-quarter software revenue of about $8.9 billion.
-
----
-
-### 2026-06-04 05:17:48  #焦點 #國際
-
-美國眾議院透過限制特朗普伊朗戰爭權力的決議。
-
----
-
-### 2026-06-04 05:17:35  #公司
-
-好市多：本公司認為，任何未決索賠、訴訟程式或訴訟都不會對本公司財務狀況產生重大不利影響。
-
----
-
-### 2026-06-04 05:17:24  #MKT News #Market Themes #Chip Wars #AVGO.O
-
-Broadcom CEO said he expects third-quarter non-AI semiconductor revenue of about $4.5 billion; partnership with Google remains very important.
-
----
-
-### 2026-06-04 05:16:47  #其他
-
-英偉達完成對KUMO AI的收購，為其最新一筆併購專案。
-
----
-
-### 2026-06-04 05:16:41  #公司
-
-博通執行長：預計第三季度軟體收入將約為89億美元。
-
----
-
-### 2026-06-04 05:16:29  #MKT News #Important #AVGO.O #Impact bearish
-
-Broadcom (AVGO.O) after-hours decline widened to 12%.
-
----
-
-### 2026-06-04 05:16:20  #MKT News #Star Stocks #Market Themes #AI Revolution #AVGO.O #Impact bullish #META.O
-
-Broadcom CEO said the company agreed to provide Anthropic an additional 5GW of next-generation TPU-based compute capacity from 2027. Broadcom has received a first order from Meta Platforms (META.O) for 1GW covering XPU and networking solutions, with deliveries starting in H2 2027.
-
----
-
-### 2026-06-04 05:15:59  #MKT News
-
-General CAINE, chairman of the US Joint Chiefs of Staff, is visiting Caracas.
-
----
-
-### 2026-06-04 05:15:52  #公司
-
-博通執行長：與谷歌的合作關係依然“規模龐大”。
-
----
-
-### 2026-06-04 05:15:41  #市場
-
-富時A50期指連續夜盤收跌0.41%，報15946點。
-
----
-
-### 2026-06-04 05:15:35  #公司
-
-博通執行長：公司仍預計2027年人工智慧半導體業務營收將超過1000億美元。
-
----
-
-### 2026-06-04 05:15:18  #公司
-
-德劭集團將客戶贖回鎖定期延長至四年，關停兩隻基金。
-
----
-
-### 2026-06-04 05:15:06  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #Copper
-
-Australian Prime Minister Albanese said any new US tariffs would be unnecessary.
-
----
-
-### 2026-06-04 05:15:00  #公司
-
-博通執行長：將與阿波羅全球管理公司、黑石集團及其他投資者聯合打造AI XPV平臺，到2028年累計部署超過20吉瓦的算力容量。
-
----
-
-### 2026-06-04 05:14:15  #公司
-
-博通CEO預計，人工智慧半導體營收增長將在2028財年延續。
-
----
-
-### 2026-06-04 05:14:03  #公司 #焦點
-
-博通財報電話會議期間，股價跌幅擴大至12%。
-
----
-
-### 2026-06-04 05:12:41  #公司
-
-博通執行長：Meta公司1吉瓦規模的初始訂單已收到，該訂單包含AI專用加速晶片（XPUS）及博通的網路產品，將於2027年下半年開始交付。
-
----
-
-### 2026-06-04 05:12:26  #其他
-
-博通已向OpenAI交付晶片，並計劃2027年落地130萬千瓦算力基建。
-
----
-
-### 2026-06-04 05:11:40  #公司
-
-博通執行長：已達成協議，自2027年起，允許Anthropic額外接入5吉瓦基於下一代張量處理單元（TPU）的算力。
-
----
-
-### 2026-06-04 05:11:36  #MKT News
-
-【USDA probes suspected New World screwworm case in southern Texas; may prompt cattle movement restrictions】The USDA says a suspected New World screwworm case was detected in southern Texas and a sample has been sent to an Iowa lab for confirmation. If confirmed, it would be the first US detection since a 2016 Florida deer case that was eradicated by early 2017. The agency noted the US cattle herd is at a 75-year low. Confirmation would likely trigger cattle movement restrictions and could disrupt meatpackers’ operations.
-
----
-
-### 2026-06-04 05:10:14  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom CEO expects fiscal 2026 AI semiconductor revenue to reach $56 billion.
-
----
-
-### 2026-06-04 05:10:00  #公司
-
-博通執行長：第二季度人工智慧半導體訂單額超過300億美元，出貨額為108億美元。
-
----
-
-### 2026-06-04 05:09:45  #公司
-
-博通執行長：預計2026財年人工智慧半導體營收將達到560億美元。
-
----
-
-### 2026-06-04 05:09:39  #公司
-
-博通執行長：第二財季網路業務占人工智慧營收近40%。
-
----
-
-### 2026-06-04 05:09:28  #宏觀 #國際
-
-【加拿大將鋼鐵和鋁的進口限制延長一年】加拿大週三表示，將把針對美國和墨西哥以外國家鋼鐵和鋁的進口限制延長一年。此舉表明，在美國總統特朗普掀起的貿易動盪之下，加拿大國內製造業的困境仍在持續。加拿大財政部長表示，這些進口措施將延長至2027年6月底，尚待內閣批准，此舉代表了加拿大“捍衛鋼鐵工人和產業，抵禦鋼鐵貿易轉移以及導致全球產能過剩的非市場化政策和行為”的承諾。
-
----
-
-### 2026-06-04 05:06:23  #Trading Economics #Economy #South Korea #Foreign Exchange Reserves #Importance 1
-
-South Korea FX Reserves Edge Lower in May — South Korea’s foreign exchange reserves edged down to $427.0 billion in May 2026 from $427.9 billion in April. Securities remained the largest component of the country's reserve assets, totaling $380.7 billion and accounting for 89.2% of the total. Deposits stood at $21.4 billion, representing 5.0% of reserves, while Special Drawing Rights (SDRs) amounted to $15.8 billion, or 3.7%. Gold holdings were valued at $4.8 billion, accounting for 1.1% of total reserves, and the country's reserve position at the International Monetary Fund totaled $4.4 billion, equivalent to 1.0% of overall holdings.
-
----
-
-### 2026-06-04 05:05:30  #其他
-
-市場資訊：Meta元宇宙負責人加布裡埃爾·奧爾四個月前悄然離職。
 
 ---

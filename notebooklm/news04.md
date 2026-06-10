@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-11 05:03:38_
-_本檔包含 3499 則快訊，約 669802 字_
+_更新時間：2026-06-11 05:26:57_
+_本檔包含 3520 則快訊，約 669387 字_
+
+---
+
+### 2026-06-07 02:49:54  #MKT News
+
+TASNIM NEWS: Iraq's prime minister said he plans a formal visit to the United States in the near term, accompanied by a delegation of Iraqi businessmen and entrepreneurs.
+
+---
+
+### 2026-06-07 02:49:22  #國際
+
+日本將菲律賓列為石油儲備援助的首要物件。
+
+---
+
+### 2026-06-07 02:47:22  #國際
+
+【以軍空襲加沙城致6死15傷】據巴勒斯坦通訊社6日報道，以色列軍隊當天空襲加沙城西部一處容納流離失所者的臨時帳篷區，造成包括兩名婦女在內的6人死亡，另有15人受傷。以軍尚未對此發表回應。（新華社）
+
+---
+
+### 2026-06-07 02:45:19  #MKT News #Commodities #Energy
+
+India will raise the retail price of 14.2 kg domestic LPG cylinders by 29 rupees per cylinder, the Economic Times cited the Press Trust of India.
+
+---
+
+### 2026-06-07 02:45:14  #國際
+
+伊朗核問題負責人：布什爾核電站連續第三年躋身全球效率與安全綜合排名前十，其收益已達到建設成本的五倍。
+
+---
+
+### 2026-06-07 02:44:51  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+Israel's Channel 12 reports Israeli military fatalities since the ceasefire with Lebanon have risen to 16.
+
+---
+
+### 2026-06-07 02:44:27  #國際
+
+印度國內烹飪用氣液化石油氣（LPG）價格上調，每罐14.2千克裝氣瓶漲價29盧比。
+
+---
+
+### 2026-06-07 02:44:16  #MKT News
+
+Iranian Students' News Agency said Iran's interior minister received a letter from Pakistan's army chief Asim Munir addressed to Iran's Supreme Leader.
+
+---
+
+### 2026-06-07 02:43:28  #國際
+
+伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。
+
+---
+
+### 2026-06-07 02:24:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IDF says killed Hamas commander in southern Gaza】The Israel Defense Forces said a nighttime airstrike in southern Gaza on June 6 killed a Hamas military commander. The IDF said the commander had planned multiple recent attacks on Israeli forces and posed a direct threat to IDF deployments. Hamas did not immediately respond.
+
+---
+
+### 2026-06-07 02:24:02  #國際
+
+【以軍稱在加沙南部打死一名哈馬斯指揮官】當地時間6日，以色列國防軍表示，以軍當天夜間在加沙地帶南部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的一名軍事指揮官。以軍表示，該指揮官在衝突期間以及最近幾天參與策劃多起針對以軍部隊的襲擊行動，對以軍在當地的部署構成直接威脅。對此，哈馬斯方面暫無回應。（央視新聞）
+
+---
+
+### 2026-06-07 02:21:45  #國際
+
+【伊朗媒體：哈爾克島附近居民聽到爆炸聲】據多家伊朗媒體報道，伊朗哈爾克島附近的居民6日晚稱聽到強烈爆炸聲。（新華社）
+
+---
+
+### 2026-06-07 02:20:24  #國際
+
+伊朗國家電視臺：今日一艘船隻未與伊朗方面協調，試圖通行霍爾木茲海峽，隨即遭到襲擾。另有三艘船隻在收到伊朗警告後返航。
+
+---
+
+### 2026-06-07 02:19:44  #國際
+
+【以軍稱打擊黎巴嫩南部約150處真主黨目標】當地時間6日，以色列國防軍表示，在5日、6日兩天，以軍在黎巴嫩南部對約150處真主黨武裝基礎設施實施空襲和火力打擊。以軍稱，打擊目標包括武器儲存點、指揮中心、火箭發射裝置以及其他用於開展軍事行動的設施。以軍表示，這些設施被真主黨用於策劃和實施針對以軍部隊的襲擊。（央視新聞）
+
+---
+
+### 2026-06-07 02:17:41  #MKT News #WTI #Brent
+
+TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions.
+
+---
+
+### 2026-06-07 02:16:13  #國際
+
+伊朗塔斯尼姆通訊社表示，哈爾克島聽到的爆炸聲與受控彈藥銷燬爆破有關。
+
+---
+
+### 2026-06-07 02:14:13  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Fars news agency reported explosions were heard near Kharg Island.
+
+---
+
+### 2026-06-07 02:14:07  #國際
+
+克里姆林宮：烏克蘭特別軍事行動的結果對華盛頓已變得清楚。
+
+---
+
+### 2026-06-07 02:13:54  #國際
+
+【巴勒斯坦官方機構：以方5月在約旦河西岸實施超1600起襲擊】巴勒斯坦官方機構“巴勒斯坦隔離牆和定居點抵抗委員會”6月6日釋出月度報告稱，今年5月份，以色列軍隊和以色列猶太人定居者在約旦河西岸共實施1659起襲擊事件。巴方表示，襲擊呈系統性升級趨勢，嚴重影響當地居民生活和農業生產。（央視新聞）
+
+---
+
+### 2026-06-07 02:13:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Global oil inventories at risky lows; another price spike could hit markets and economy】With no agreement restoring passage through the Strait of Hormuz, global oil inventories have fallen to dangerously low levels. JP Morgan warns that unless transit is normalized, oil could surge again in late June. U.S. crude stocks have declined for eight straight weeks to their lowest since Feb 2024. Analysts say the second-round price shock risk stems from the depletion of buffer stocks rather than a formal closure; investors see the Strait as a persistent geopolitical bottleneck and expect prices to remain above $70 even if tensions ease. Higher oil is a modest headwind for U.S. growth but poses greater inflationary risk for Europe and Asia; if crude averaged $120/bbl for a year, growth in the U.S. could slow by roughly 0.4 percentage point.
+
+---
+
+### 2026-06-07 02:13:15  #國際
+
+伊朗法爾斯通訊社稱，哈格島附近聽到爆炸聲。
+
+---
+
+### 2026-06-07 02:12:03  #公司 #焦點
+
+谷歌為安卓系統推出AI虛假來電檢測功能，應對日益增多的電信詐騙。
+
+---
+
+### 2026-06-07 02:11:51  #其他 #焦點
+
+微軟警告稱，Claude Code 存在漏洞，可能導致GitHub賬號憑證洩露。
+
+---
+
+### 2026-06-07 02:07:21  #國際
+
+真主黨襲擊了黎巴嫩南部納巴蒂耶省亞穆爾·沙基夫鎮附近的一輛以色列軍用車輛。
+
+---
+
+### 2026-06-07 02:07:19  #MKT News
+
+HEZBOLLAH attacked an Israeli military target near the town of Yakhmour Shakif in Nabatieh, southern Lebanon.
+
+---
+
+### 2026-06-07 02:02:42  #MKT News
+
+Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council (GCC) labor ministers' coordination meeting.
+
+---
+
+### 2026-06-07 02:01:30  #國際
+
+特朗普： 十年之後，巴拉克·侯賽因·奧巴馬圖書館將全面落成並正式投入使用。
+
+---
+
+### 2026-06-07 01:58:18  #國際
+
+特朗普聲稱，伊朗還剩下22%的導彈。
+
+---
+
+### 2026-06-07 01:48:24  #焦點 #國際
+
+伊朗議會議長助理阿里·尼克扎德：我們已封鎖霍爾木茲海峽，必要時也會封鎖曼德海峽。
+
+---
+
+### 2026-06-07 01:47:03  #國際
+
+菲律賓航空高管：菲航將訂購新飛機，或於未來兩三個月內完成採購。
+
+---
+
+### 2026-06-07 01:46:59  #市場 #國際
+
+菲律賓航空高管：受燃油價格上漲影響，運能同比下降約5%。
+
+---
+
+### 2026-06-07 01:46:48  #國際
+
+伊朗第一副總統穆罕默德·禮薩·阿雷夫：伊朗在與美國的談判中秉持明確策略，所有官員均統一行動、嚴格遵照執行。 伊朗官員在談判相關文字及提案上立場完全一致，不存在分歧。
+
+---
+
+### 2026-06-07 01:42:50  #國際
+
+訊息人士：巴勒斯坦各派別開羅會議已結束。各方在相關議題上立場存在分歧，計劃於今日再度與調解方舉行會談。
+
+---
+
+### 2026-06-07 01:42:33  #MKT News
+
+Palestinian sources said a Cairo meeting of Palestinian factions has ended and a follow-up meeting with mediators is planned for today; parties remain divided on the issues under discussion.
 
 ---
 
@@ -21063,83 +21267,5 @@ Shenzhen Composite Index widened losses to 1% in early trade; STAR 50 Index fell
 ### 2026-06-05 09:30:40  #公司
 
 【時尚奢侈品集團OTB收購VIKTOR&ROLF全部股權】OTB集團當地時間6月4日宣佈，已經完成對旗下設計師品牌Viktor&Rolf的100%股權收購。雙方合作自2008年開始，當時OTB集團收購了該品牌51%股權，後在2019年增持至70%。此次收購進展延續了雙方2025年簽署的協議，該協議確認Viktor&Rolf的兩位創始人Viktor Horsting和Rolf Snoeren繼續擔任品牌創意總監，任期五年。OTB集團來自義大利，旗下還擁有Diesel、Jil Sander、Maison Margiela、Marni等品牌。
-
----
-
-### 2026-06-05 09:30:27  #市場
-
-【物理AI概念大幅高開 天娛數科一字漲停】早盤物理AI概念大幅高開，天娛數科一字漲停，凡拓數創、索辰科技高開9%，能科科技、漢鑫科技、雲從科技、奧比中光等跟漲。
-
----
-
-### 2026-06-05 09:30:06  #國際
-
-【特朗普稱代理國家情報總監不會被正式任命】美國總統特朗普4日表示，他任命的代理國家情報總監、現聯邦住房金融署署長比爾·普爾特不會是國家情報總監這一關鍵安全職位的“長期”人選。據美媒報道，特朗普當天在白宮橢圓形辦公室接受記者提問時透露，他已排除提名普爾特正式擔任國家情報總監的可能性。“他（普爾特）不會是長期人選，因為，你知道，我認為他自己也不想長期擔任這個職務。”報道援引特朗普的話說，普爾特“只是一個暫時接手這一職務的人”，“我們正在面試人選”來擔任國家情報總監一職。（新華社）
-
----
-
-### 2026-06-05 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.37%， 中證500指數期貨連續跌0.50%， 上證50指數期貨連續跌0.14%。
-
----
-
-### 2026-06-05 09:30:02  #市場 #焦點
-
-科創50日內跌幅達1.81%，成分股中，佰維儲存跌4.19%，盛美上海跌4.00%，瀾起科技跌3.73%，拓荊科技跌3.38%。
-
----
-
-### 2026-06-05 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。
-
----
-
-### 2026-06-05 09:29:59  #市場 #國際
-
-【5月份中國大宗商品價格指數繼續上揚】中國物流與採購聯合會今天公佈5月份中國大宗商品價格指數。隨著國內需求穩定釋放，企業生產活動保持擴張，大宗商品價格指數繼續上揚，大宗商品市場整體執行平穩。5月份中國大宗商品價格指數為132.5點，環比上漲0.3%，同比上漲20.2%。在中國物流與採購聯合會重點監測的50種大宗商品中，5月份價格環比上漲的大宗商品有21種。其中，碳酸鋰、精煉錫和天然橡膠漲幅居前，環比分別上漲12.2%、9.9%和6.2%。分行業看，黑色與有色價格指數環比分別上漲3.3%和1.8%，主要是製造業進入消費旺季，市場需求回升。另外，受中東局勢緩和、國際油價回落等因素影響，能源與化工價格指數則雙雙走低，環比分別下降5.3%和2.1%。
-
----
-
-### 2026-06-05 09:29:43  #MKT News #Brent #Impact bearish #WTI
-
-【Philippines May inf slows as U.S.-Iran ceasefire hopes weigh on fuel】Philippine consumer price inf eased to 6.8% YoY in May from 7.2% in April, below the 7.8% median survey and the PHILIPPINE C.BANK's prior 7.1%-7.9% projection for May. Preliminary extension of a U.S.-Iran ceasefire has pushed global energy prices down, easing imported fuel pressure for the Philippines, which sources over 90% of its oil from the Middle East. PHILIPPINE C.BANK governor Eli Remolona said policymakers will closely monitor incoming inf data ahead of the June 18 meeting to decide whether a policy rate increase is needed.
-
----
-
-### 2026-06-05 09:29:11  #其他
-
-標普全球評級：美團面臨補貼帶來的利潤率風險。
-
----
-
-### 2026-06-05 09:28:56  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share memory-chip sector opened lower; Jiangbolong fell more than 5%, GigaDevice Semiconductor dropped over 4%, and Hua Hong Semiconductor and Demingli also declined.
-
----
-
-### 2026-06-05 09:28:33  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish #Nasdaq100
-
-【Broadcom CEO says AI growth potential outstrips M&A, forecasts over $100bn AI revenue in FY2027】Broadcom CEO Hock Tan told the Bloomberg Technology conference in San Francisco that the company has shifted focus from M&A to artificial intelligence because AI offers stronger growth potential. He said AI revenue is surging, reducing the appeal of external deals and that acquisitions are disruptive to Broadcom and its customers. Tan described demand for AI infrastructure as nearly insatiable. Broadcom, which sells networking chips and custom accelerators used to develop and run AI models, now expects the AI business to generate more than $100 billion in revenue in fiscal 2027.
-
----
-
-### 2026-06-05 09:28:32  #MKT News #Star Stocks #AAPL.O #Impact bullish
-
-【Details of Apple's first OLED MacBook Pro leak; may be named MacBook Ultra】Market research firm projects the hybrid OLED notebook-panel market could reach USD 4bln by 2026, driven by expected demand for Apple’s next-generation OLED MacBook Pro, possibly named MacBook Ultra, which would be Apple’s first MacBook Pro with an OLED display. Analysts say Apple’s adoption should boost notebook OLED panel revenue and prompt other makers to shift to similar designs. Forecasts put hybrid OLED at 12.6% of global OLED notebook shipments in 2026, rising to 89.5% by 2033.
-
----
-
-### 2026-06-05 09:28:17  #MKT News #Market Themes #AI Revolution #01119.HK #Impact bullish #00772.HK #02498.HK
-
-Hong Kong AI-application stocks opened higher; Chuangmeng Tiandi (01119.HK) rose over 4%, while China Literature (00772.HK) and Suteng Juchuang (02498.HK) also gained.
-
----
-
-### 2026-06-05 09:28:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Holds Losses — US heating oil futures traded around $3.60 per gallon in early June, holding losses from the previous session, as markets continued to assess diplomatic efforts in the Middle East. President Donald Trump said ceasefire talks were in the “final” stages, contrasting with earlier remarks from Iran’s foreign minister that negotiations had stalled. The contrasting remarks followed a sharp escalation in violence earlier in the week. Further complicating the prospects of a lasting agreement, Iran-backed Hezbollah also turned down a US-brokered ceasefire proposal in Lebanon. These developments led to continued constraints on tanker traffic in the Strait of Hormuz, which accounts for about one-fifth of global oil consumption and has remained largely shut since March, pushing heating oil futures to a record peak of $4.60 that month. Meanwhile, distillate inventories, including diesel and heating oil, increased by 1.502 million barrels in the final week of May.
 
 ---
