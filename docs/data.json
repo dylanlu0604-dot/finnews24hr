@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-11 00:05:53",
-  "count": 18406,
+  "updated": "2026-06-11 00:11:40",
+  "count": 18402,
   "items": [
+    {
+      "id": "te:markets:558136",
+      "time": "2026-06-11 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.51% Lower — The CAC 40 Index decreased 42 points or 0.51 percent on Wednesday to close at 8162 points. The decline was led by Edenred (-7.85%), Stellantis NV (-3.83%) and Societe Generale (-2.28%). On the upside, the strongest performers were Orange (2.07%), Veolia (1.93%) and Danone (1.59%)."
+    },
+    {
+      "id": "4928782",
+      "time": "2026-06-11 00:10:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗分析師警示，比特幣面臨的量子計算風險高於以太坊，到2028年或將有690萬枚比特幣受到影響。"
+    },
+    {
+      "id": "mkt:019eb24c-2e9b-7dd8-afa8-d858be11eb54",
+      "time": "2026-06-11 00:09:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US President Trump said the country is acquiring millions of barrels of oil each night."
+    },
+    {
+      "id": "mkt:019eb24b-9be4-7dd8-afa8-d1dbb431ce2c",
+      "time": "2026-06-11 00:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump signed a $70 billion bill to provide funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol."
+    },
+    {
+      "id": "mkt:019eb24a-c951-7dd8-afa8-c918d01ff05e",
+      "time": "2026-06-11 00:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP on Iran said the U.S. has obtained millions of barrels of oil."
+    },
+    {
+      "id": "4928781",
+      "time": "2026-06-11 00:07:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們每晚截獲數百萬桶石油。"
+    },
+    {
+      "id": "mkt:019eb249-bf76-7dd8-afa8-c1958b456974",
+      "time": "2026-06-11 00:07:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the situation in Iran does not appear as smooth as the Venezuela operation."
+    },
+    {
+      "id": "te:markets:558135",
+      "time": "2026-06-11 00:07:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.30% Higher — The FTSE 100 Index rose 30 points or 0.30 percent on Wednesday to close at 10258 points. Leading the gains are Frasers Group (3.91%), Entain (3.19%) and Land Securities (3.10%). Top losers were Endeavour (-4.02%), Vistry Group (-3.21%) and Mondi (-2.33%)."
+    },
+    {
+      "id": "4928780",
+      "time": "2026-06-11 00:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗會希望達成協議。"
+    },
+    {
+      "id": "mkt:019eb249-550b-7dd8-afa8-bf329908d751",
+      "time": "2026-06-11 00:06:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) launches DiffusionGemma."
+    },
+    {
+      "id": "4928779",
+      "time": "2026-06-11 00:06:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出DiffusionGemma。\n注：DiffusionGemma是谷歌開發的基於擴散模型的生成式AI開源模型，由其Gemma大語言模型系列衍生而來。"
+    },
+    {
+      "id": "4928778",
+      "time": "2026-06-11 00:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞調查與指控委員會成員否認暫停總統佩特羅職務】當地時間10日，哥倫比亞眾議員、調查與指控委員會成員亞歷杭德羅·奧坎波表示，該委員會並未作出暫停總統佩特羅職務的決定。奧坎波說：“我希望向公眾說明，目前並沒有針對總統佩特羅作出任何決定。一些媒體所稱‘調查與指控委員會已暫停佩特羅總統職務’的說法並不屬實。”（央視新聞）"
+    },
     {
       "id": "mkt:019eb246-fe5a-7dd8-afa8-b5d7f4528bf2",
       "time": "2026-06-11 00:04:17",
@@ -169521,169 +169641,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 1.07 percent on Wednesday to close at 50038 points. Leading the losses are Stellantis N.V. (-3.98%), Amplifon (-3.20%) and Leonardo SpA (-2.71%)."
-    },
-    {
-      "id": "te:markets:556231",
-      "time": "2026-06-04 00:11:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.31% Lower — The DAX Index dropped 328 points or 1.31 percent on Wednesday to close at 24796 points. Losses were led by SAP (-4.31%), Deutsche Bank (-3.65%) and HeidelbergCement (-3.44%)."
-    },
-    {
-      "id": "mkt:019e8e40-aff5-7443-8fdf-bbde8a175259",
-      "time": "2026-06-04 00:11:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) said eligible US Google AI Ultra subscribers aged 18 and over can access DreamBeans on Android and iOS starting today."
-    },
-    {
-      "id": "mkt:019e8e40-1b4a-7443-8fdf-b03eb73d59be",
-      "time": "2026-06-04 00:10:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet"
-      ],
-      "text": "Google (GOOG.O): DreamBeans uses personal intelligence to connect information across Google apps to construct story content."
-    },
-    {
-      "id": "4915796",
-      "time": "2026-06-04 00:10:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西基準股指博維斯帕指數 (.BVSP) 跌幅進一步擴大，最新跌幅超 2%。"
-    },
-    {
-      "id": "te:markets:556230",
-      "time": "2026-06-04 00:10:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.61% Lower — The CAC 40 Index decreased 50 points or 0.61 percent on Wednesday to close at 8159 points. The decline was led by Stellantis NV (-3.95%), Kering (-3.64%) and Capgemini (-3.04%). On the upside, the strongest performers were Veolia (2.19%), Air Liquide (1.90%) and TotalEnergies SE (1.49%)."
-    },
-    {
-      "id": "4915795",
-      "time": "2026-06-04 00:09:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通挖角前高盛原油銷售高管，加碼能源業務佈局。"
-    },
-    {
-      "id": "4915794",
-      "time": "2026-06-04 00:09:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國鑄幣局已著手籌備鋅質 5 美分硬幣。"
-    },
-    {
-      "id": "mkt:019e8e3f-2a7b-7443-8fdf-a9cc0b00967c",
-      "time": "2026-06-04 00:09:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O): Google Labs launches DreamBeans."
-    },
-    {
-      "id": "4915793",
-      "time": "2026-06-04 00:09:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：DreamBeans 依託個人智慧技術，打通谷歌各類應用資料並整理生成內容摘要。"
-    },
-    {
-      "id": "4915792",
-      "time": "2026-06-04 00:08:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌旗下 Google Labs 推出 DreamBeans 產品。"
-    },
-    {
-      "id": "mkt:019e8e3d-c71b-7443-8fdf-a6ca7d052aa1",
-      "time": "2026-06-04 00:07:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum falls more than 3% to $1,872.60/oz."
-    },
-    {
-      "id": "4915791",
-      "time": "2026-06-04 00:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "現貨鉑金大跌超 3%，報每盎司 1872.60 美元。"
-    },
-    {
-      "id": "te:markets:556228",
-      "time": "2026-06-04 00:07:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index fell 32 points or 0.30 percent on Wednesday to close at 10342 points. Leading the losses are Intermediate Capital (-5.36%), WPP (-4.85%) and Burberry (-3.68%). Top gainers were B&M European Value (14.66%), Bunzl (4.38%) and SSE (3.79%)."
-    },
-    {
-      "id": "4915790",
-      "time": "2026-06-04 00:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯 4 月建築業產值同比下滑 5%。"
-    },
-    {
-      "id": "mkt:019e8e3c-73d5-7443-8fdf-9fe4da0213d0",
-      "time": "2026-06-04 00:06:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "{\"title\":\"\",\"content\":\"U.S. Trade Representative GREER said the Turnberry Agreement provision imposing a 15% tariff on EU goods \"the agreement stands; an agreement is an agreement\".\"}"
-    },
-    {
-      "id": "4915789",
-      "time": "2026-06-04 00:06:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：谷歌即日起面向美國年滿 18 週歲、符合資質的 Google AI Ultra 訂閱使用者，在安卓與 iOS 端上線 DreamBeans 功能。"
     }
   ]
 }
