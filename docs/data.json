@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-10 13:32:44",
-  "count": 18702,
+  "updated": "2026-06-10 13:36:45",
+  "count": 18706,
   "items": [
+    {
+      "id": "4927360",
+      "time": "2026-06-10 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣加權股價指數收低3.3%報43,225.54。"
+    },
+    {
+      "id": "4927359",
+      "time": "2026-06-10 13:34:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量533億元。"
+    },
+    {
+      "id": "4927358",
+      "time": "2026-06-10 13:34:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼氣象機構表示，該國已做好應對旱季森林火災風險升高的準備。"
+    },
+    {
+      "id": "4927357",
+      "time": "2026-06-10 13:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電5月銷售額環比增長1.5%。"
+    },
+    {
+      "id": "mkt:019eb005-8e7d-799a-b41c-9ec60a559858",
+      "time": "2026-06-10 13:33:34",
+      "tags": [
+        "MKT News",
+        "02583.HK",
+        "Impact bullish"
+      ],
+      "text": "Xipuni (02583.HK) rallies more than 70%."
+    },
+    {
+      "id": "mkt:019eb004-a7a3-799a-b41c-9343061d5d22",
+      "time": "2026-06-10 13:32:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "TSMC reported sales of NT$1.96 trillion in the first five months of the year, up 30% YoY."
+    },
+    {
+      "id": "4927356",
+      "time": "2026-06-10 13:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "佰維儲存成交額達100億元，現漲3.41%。"
+    },
+    {
+      "id": "4927355",
+      "time": "2026-06-10 13:32:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報5477.00元。"
+    },
     {
       "id": "4927354",
       "time": "2026-06-10 13:31:31",
@@ -172591,44 +172663,6 @@
         "市場"
       ],
       "text": "【工業氣體概念震盪回升 華特氣體逼近20cm漲停】半導體產業鏈盤中持續活躍，帶動工業氣體概念震盪回升，電子特氣方向領漲，華特氣體逼近20cm漲停，金宏氣體、雅克科技、南大光電、凱美特氣等衝高。"
-    },
-    {
-      "id": "mkt:019e8bfa-ce4a-7ee2-b140-a2188ec869f2",
-      "time": "2026-06-03 13:35:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index closed up 901.85 points, or 1.98%, at 46,459.16 on Wednesday, June 3."
-    },
-    {
-      "id": "4914307",
-      "time": "2026-06-03 13:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高2%報46,459.16。"
-    },
-    {
-      "id": "mkt:019e8bfa-04b1-7ee2-b140-9d0e4f9d1383",
-      "time": "2026-06-03 13:34:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share coal sector rallied in afternoon trade; Jinkong Coal neared its daily limit-up. Zhengzhou Coal & Power, Lu'an Environmental Energy, Haohua Energy, Baotailong and Yankuang Energy advanced."
-    },
-    {
-      "id": "4914306",
-      "time": "2026-06-03 13:34:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗將招金礦業目標價從37.50港元上調至41.40港元。"
     }
   ]
 }
