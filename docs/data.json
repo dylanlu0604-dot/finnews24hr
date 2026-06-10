@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-10 11:28:05",
-  "count": 18742,
+  "updated": "2026-06-10 11:31:57",
+  "count": 18736,
   "items": [
+    {
+      "id": "mkt:019eaf95-9fa5-7444-ba07-42058456ae4a",
+      "time": "2026-06-10 11:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China index futures morning session close】China index futures morning session close: CSI 300 futures (IF) front-month down 0.71%; SSE 50 futures (IH) front-month up 0.61%; CSI 500 futures (IC) front-month down 1.55%; CSI 1000 futures (IM) front-month down 1.52%."
+    },
+    {
+      "id": "mkt:019eaf95-932f-7444-ba07-38f1c6ab4a93",
+      "time": "2026-06-10 11:31:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "By the morning-session close, China's main futures contracts were mostly lower. Shanghai silver slid nearly 7%, platinum fell over 5% and Shanghai gold dropped almost 4%. Coking coal declined more than 3%; LPG and palladium were down about 3%. No.20 rubber and Shanghai nickel lost over 2%. On the upside, container freight to Europe and alumina rose over 3%, industrial silicon gained more than 2%, caustic soda, ferrosilicon and eggs were up over 1%, while manganese silicon and live hogs rose about 1%."
+    },
+    {
+      "id": "mkt:019eaf95-91ae-7444-ba07-305254e81e6f",
+      "time": "2026-06-10 11:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures morning close】2-year government bond futures (TS) most-active contract fell 0.03%; 5-year (TF) fell 0.06%; 10-year (T) fell 0.08%; 30-year (TL) fell 0.20% in the morning session."
+    },
+    {
+      "id": "4927209",
+      "time": "2026-06-10 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.20%， 10年期主力合約跌0.08%， 5年期主力合約跌0.06%， 2年期主力合約跌0.03%。"
+    },
+    {
+      "id": "4927208",
+      "time": "2026-06-10 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌1.52%， 滬深300指數期貨連續跌0.70%， 中證500指數期貨連續跌1.55%， 上證50指數期貨連續漲0.61%。"
+    },
+    {
+      "id": "4927207",
+      "time": "2026-06-10 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】白銀連續跌6.81%，鉑連續跌5.39%，黃金連續跌3.79%，氧化鋁連續漲3.17%，焦煤連續跌3.17%。"
+    },
     {
       "id": "4927206",
       "time": "2026-06-10 11:27:08",
@@ -172972,114 +173023,6 @@
         "Impact bullish"
       ],
       "text": "At the morning close, China’s main futures contracts were mostly higher: rapeseed oil, live hogs and apples rose over 2%; Shanghai tin was up nearly 2%. Logs, soybean No.1, Shanghai zinc, benzene, styrene, RSS20 rubber, p-xylene, propylene, international copper, PTA, LPG, Shanghai copper and palladium gained more than 1%. On the downside, lithium carbonate fell over 2%, polysilicon dropped nearly 2%, while asphalt and alumina declined more than 1%."
-    },
-    {
-      "id": "4914156",
-      "time": "2026-06-03 11:31:54",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【午評：創業板指半日大漲近4% 站上4200點】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.56%，深證成指漲2.31%，創業板指漲3.97%，北證50漲1.12%，科創50指數漲4.78%。全市場成交額19000億元，較上日放量799億元，全市場超3400只個股下跌。板塊題材上，培育鑽石、光纖概念、CPO、半導體、銅纜高速連線板塊漲幅居前；影視院線、白酒、養雞、房地產、零售板塊跌幅居前。盤面上，光纖概念板塊高開高走持續強勢表現，長飛光纖、亨通光電等股漲停，源傑科技、長光華芯、仕佳光子、天孚通訊漲幅居前。培育鑽石板塊低開高走，黃河旋風、楚江新材等股漲停，惠豐鑽石漲超12%，力量鑽石、博雲新材、四方達跟漲。半導體板塊表現活躍，通富微電、立昂微、康強電子等股漲停，東微半導、瀾起科技、炬光科技等多股漲超10%。影視院線板塊低開下挫，北京文化跌停，中廣天擇盤中觸及跌停，百納千成、歡瑞世紀、博納影業跟跌。養雞板塊低開低走，曉鳴股份跌超6%，湘佳股份、聖農發展、民和股份紛紛下挫。"
-    },
-    {
-      "id": "mkt:019e8b89-6ff5-7ee2-b13e-2cfb4bcda098",
-      "time": "2026-06-03 11:31:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's benchmark stock index extended losses, widening to 3%."
-    },
-    {
-      "id": "te:markets:555957",
-      "time": "2026-06-03 11:31:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Extends Decline to 3-Month Low — Corn futures fell below $4.4 per bushel, extending their recent decline to a three-month low as nearly complete US planting and improving weather conditions boosted crop development. Planting reached about 93% complete as of late May, ahead of the five-year average, with emergence also running above normal at 76%, signaling a crop that is both early and largely established. Warm early-June temperatures are expected to accelerate growth, while forecasts for additional rainfall in the drier western Corn Belt improved soil moisture and reinforced expectations for strong yield potential. USDA reported 67% of corn rated good-to-excellent in top producing states, slightly below expectations but still consistent with a broadly favorable supply outlook. Although crude oil prices remained elevated amid renewed Middle East tensions, typically supportive for grains through biofuel demand links, the influence was limited as favorable crop conditions and ample supply expectations remained dominant."
-    },
-    {
-      "id": "4914155",
-      "time": "2026-06-03 11:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【問界汽車回應浙江省台州市車輛事故：非車輛自身原因導致】6月3日，問界使用者服務釋出關於浙江省台州市車輛事故的說明：6月3日，一輛問界M9在浙江省台州市澤國鎮發生事故，未造成人員傷亡。事故發生後，我們第一時間與使用者取得聯絡，提供必要協助。經現場確認，事故為車輛行駛過程中，撞擊前車掉落的大塊金屬部件，造成強物理衝擊並持續拖行一段時間後導致起火，目前火已撲滅。經初步調查，事發前車輛三電系統狀態正常，且未見車輛其它自身異常，事故非車輛自身原因導致。"
-    },
-    {
-      "id": "4914154",
-      "time": "2026-06-03 11:30:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數下跌3%至6010.62點。"
-    },
-    {
-      "id": "4914153",
-      "time": "2026-06-03 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.32%， 10年期主力合約跌0.07%， 5年期主力合約跌0.04%， 2年期主力合約跌0.03%。"
-    },
-    {
-      "id": "4914152",
-      "time": "2026-06-03 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】碳酸鋰連續跌2.57%，菜油連續漲2.46%，蘋果連續漲2.08%，多晶矽連續跌2.07%，生豬連續漲2.05%。"
-    },
-    {
-      "id": "4914151",
-      "time": "2026-06-03 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲1.49%， 滬深300指數期貨連續漲1.49%， 中證500指數期貨連續漲1.37%， 上證50指數期貨連續漲0.47%。"
-    },
-    {
-      "id": "4914150",
-      "time": "2026-06-03 11:29:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲4.01%，現報4218.331點；上證指數漲0.56%，現報4097.815點；深證成指漲2.32%，現報15952.947點。"
-    },
-    {
-      "id": "4914149",
-      "time": "2026-06-03 11:29:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【軟銀中國實控8家公司】6月2日，福布斯實時富豪榜單顯示，軟銀集團創始人兼CEO孫正義身家攀升至1007億美元，一舉超越印度安巴尼、阿達尼等富豪，時隔十餘年再度登頂亞洲首富寶座。天眼查App顯示，軟銀（中國）投資有限公司成立於2020年7月，法定代表人為吳友耿，註冊資本10億人民幣，經營範圍包括投資興辦實業、創業投資業務、投資諮詢等，由軟銀投資機構株式會社全資持股。控制企業資訊顯示，該公司控制8家公司，其中僅軟銀（深圳）發展有限公司處於存續狀態，其餘公司均已登出。"
-    },
-    {
-      "id": "4914148",
-      "time": "2026-06-03 11:29:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【格羅方德完成收購新思科技處理器IP業務】全球半導體製造商格羅方德宣佈，已完成對新思科技ARC處理器IP解決方案業務的收購，上述業務將併入格羅方德此前買下的半導體IP企業MIPS，成為其拓展的物理AI產品組合之一。上述業務整合後，將把RISC-V處理器IP、軟體工具、定製設計及先進製造結合形成一體化解決方案。"
-    },
-    {
-      "id": "te:economy:555956",
-      "time": "2026-06-03 11:29:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Skips Reverse Repos for First Time Since August 2024 — The People’s Bank of China (PBoC) announced on Wednesday that it conducted zero reverse repo operations, citing primary dealers' funding needs in its open market operations. The move marked the first time since August 2024 that the central bank injected no liquidity through reverse repos, according to Reuters calculations. The absence of operations suggests that liquidity conditions in the banking system were deemed adequate, reducing the need for short-term cash injections by the PBoC."
     }
   ]
 }
