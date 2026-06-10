@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-10 13:02:23",
-  "count": 18726,
+  "updated": "2026-06-10 13:06:25",
+  "count": 18709,
   "items": [
+    {
+      "id": "4927324",
+      "time": "2026-06-10 13:05:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯想（0992.HK）股價下跌超10%。"
+    },
+    {
+      "id": "4927323",
+      "time": "2026-06-10 13:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科聞歌IPO申請已獲得香港交易所批准 料籌資約1.2億美元】IFR援引知情人士報道稱，中科聞歌IPO申請已獲得香港交易所批准，可能籌資約1.2億美元。"
+    },
+    {
+      "id": "4927322",
+      "time": "2026-06-10 13:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度基金與資產管理協會（AMFI）資料顯示，受伊朗戰爭擔憂情緒影響，5月印度股票型共同基金資金流入降至一年低位。"
+    },
+    {
+      "id": "mkt:019eafe9-0511-799a-b41c-6ea27abfdfe3",
+      "time": "2026-06-10 13:02:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext index slid more than 3% intraday; Shanghai Composite down 0.98%. Speed reducers, power, PV equipment and coal-mining stocks led declines."
+    },
     {
       "id": "mkt:019eafe7-d0c5-799a-b41c-622f24ecf86d",
       "time": "2026-06-10 13:01:05",
@@ -172666,224 +172703,6 @@
         "DXY"
       ],
       "text": "Russia's St. Petersburg governor says multiple targets were struck in Ukrainian drone attacks."
-    },
-    {
-      "id": "mkt:019e8be0-1343-7ee2-b140-3370ac9058b3",
-      "time": "2026-06-03 13:06:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "UK's Competition and Markets Authority (CMA) said Google (GOOG.O) must now ensure publishers' content in AI-generated search results is properly attributed and includes clear links."
-    },
-    {
-      "id": "4914271",
-      "time": "2026-06-03 13:06:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "聖彼得堡州長稱，多處目標遭烏克蘭無人機擊中。"
-    },
-    {
-      "id": "4914270",
-      "time": "2026-06-03 13:05:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將諾和諾德目標股價從每股263丹麥克朗上調至305丹麥克朗。"
-    },
-    {
-      "id": "mkt:019e8bdf-b555-7ee2-b140-28e8404fb236",
-      "time": "2026-06-03 13:05:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "UK’s Competition and Markets Authority (CMA) said Google (GOOG.O) will have nine months to implement all changes."
-    },
-    {
-      "id": "4914269",
-      "time": "2026-06-03 13:05:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東非共同體召開應對埃博拉疫情會議】當地時間2日，為期兩天的東非共同體衛生事務部長會議在坦尚尼亞北部的阿魯沙結束。會議討論了遏制本迪布焦型埃博拉病毒疫情的區域措施。東非共同體秘書長史蒂芬·姆本迪表示：“我們正在調動區域機制，並與夥伴國家、非洲疾病預防控制中心、世界衛生組織和發展夥伴密切合作，以加強監測、實驗室診斷、感染預防和控制、風險溝通和快速反應能力。”另據東非共同體成員國烏干達當天公佈的資料，該國新增6例埃博拉確診病例。截至目前，烏干達本輪埃博拉疫情確診病例累計15例，其中1例死亡，2例康復。（央視新聞）"
-    },
-    {
-      "id": "4914268",
-      "time": "2026-06-03 13:05:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲復興開發銀行下調區域2026年經濟增速預期：伊朗戰事推高能源成本】歐洲復興開發銀行週三表示，受中東戰事推升能源價格、擾亂全球供應鏈影響，多個新興發展中市場本年度經濟增速將放緩。該行覆蓋41個經濟體，最新預測區域全年經濟增速僅3.1%，低於此前預期，較2月預測值下調0.5個百分點。歐洲復興開發銀行首席經濟學家貝婭塔・亞沃爾奇克表示：“本報告反映能源衝擊仍在持續。衝擊落地時歐洲本就處境艱難，本土製造業景氣度持續低迷。”該行下調土耳其、烏克蘭、埃及等重點國家經濟增長預判；其中黎巴嫩、伊拉克下調幅度最大，較2月預測值分別下調6個百分點、5.1個百分點。兩國經濟今年預計陷入萎縮：黎巴嫩萎縮2%，伊拉克萎縮1.5%。受益於經濟體快速適應關稅與貿易動盪，歐洲復興開發銀行所轄區域去年經濟增速達3.4%，表現優於早前預估。2至4月區域平均通脹上行1.2個百分點至6.4%。該行警示：若化肥漲價拖累糧食收成，低收入成員國將承受最嚴峻的糧價上漲壓力；同時融資成本抬升，通脹上行難以再像新冠疫情過後那樣壓低各國債務率。"
-    },
-    {
-      "id": "mkt:019e8bdf-6161-7ee2-b140-278b02aef436",
-      "time": "2026-06-03 13:05:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "UK’s Competition and Markets Authority (CMA) has imposed behavioral obligations after designating Google (GOOG.O) as holding strategic market status for general search services."
-    },
-    {
-      "id": "te:economy:555983",
-      "time": "2026-06-03 13:05:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "India Services PMI Revised Upward — The HSBC India Services PMI was revised higher to 59.8 in May 2026 from the preliminary estimate of 58.9 and a final reading of 58.8 in April. Still, the latest reading marked the strongest growth since last November, as output continued to expand while new orders rose at the fastest pace in three months. Output growth was supported by healthy demand conditions, new client wins, and ongoing improvements in new business intakes."
-    },
-    {
-      "id": "4914267",
-      "time": "2026-06-03 13:04:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局：該局已在就谷歌通用搜尋服務授予其戰略市場地位（SMS）認定後，對谷歌施行了行為要求。"
-    },
-    {
-      "id": "mkt:019e8bde-d8ea-7ee2-b140-1c267098dc2c",
-      "time": "2026-06-03 13:04:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "China A-share robotics sector staged an intraday rally; Estun hit the daily limit, with Tuo Si Da, Kai Er Da, Lu De Xie Bo, Efort and Leisai Intelligent also rising."
-    },
-    {
-      "id": "mkt:019e8bde-d76c-7ee2-b140-16f624bb769d",
-      "time": "2026-06-03 13:04:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "UK’s Competition and Markets Authority (CMA) imposed new behavioural obligations on Google (GOOG.O) Search, requiring it to take specified actions under the UK’s digital markets competition regime."
-    },
-    {
-      "id": "4914266",
-      "time": "2026-06-03 13:04:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特境內有導彈無人機殘骸起火】路透社今天（6月3日）釋出了據稱是科威特境內來襲導彈或者無人機殘骸落地起火畫面。科威特國家通訊社科威特通訊社援引軍方訊息報道，科威特防空部隊於今天（6月3日）凌晨攔截了來襲導彈與無人機，但軍方未披露襲擊來源。科威特通訊社援引科威特總參謀部表態稱，民眾聽到的爆炸聲均來自防空攔截作業，同時提醒民眾遵照安全指引，遠離殘骸與不明物品。美東時間6月2日晚，美軍中央司令部在社交媒體發文稱，伊朗向地區鄰國發射多枚彈道導彈，但所有導彈均未命中。其中，兩枚射向科威特的導彈未能飛抵目標區域或者在飛行途中解體；三枚射向巴林的導彈被防空部隊攔截。(CCTV國際時訊)"
-    },
-    {
-      "id": "4914265",
-      "time": "2026-06-03 13:04:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機器人板塊短線拉昇，埃斯頓漲停】機器人板塊短線拉昇，埃斯頓漲停，拓斯達、凱爾達、綠的諧波、埃夫特、雷賽智慧等跟漲。"
-    },
-    {
-      "id": "4914264",
-      "time": "2026-06-03 13:04:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局：為英國出版商爭取到更公平協議，同時最佳化谷歌搜尋服務。"
-    },
-    {
-      "id": "mkt:019e8bde-22e0-7ee2-b140-0e51ae796347",
-      "time": "2026-06-03 13:04:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Vietnam's Ministry of Industry and Trade said it will extend anti-dumping duties on certain sugar products imported from Thailand until 2031."
-    },
-    {
-      "id": "4914263",
-      "time": "2026-06-03 13:03:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行：將伊拉克2026年經濟增長預測下調5.1個百分點至-1.5%，將黎巴嫩2026年經濟增長預測下調6個百分點至-2%；預計羅馬尼亞經濟2026年將萎縮0.2%；將土耳其2026年經濟增長預期下調0.5個百分點，至3.5%。烏克蘭能源與基礎設施遭受的大規模中斷將推高通脹，已將該國經濟增長預期下調至2.2%。"
-    },
-    {
-      "id": "mkt:019e8bdd-ccaa-7ee2-b140-04cb847aefa3",
-      "time": "2026-06-03 13:03:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "The European Bank for Reconstruction and Development (EBRD) expects economic growth in Egypt and Kazakhstan to slow."
-    },
-    {
-      "id": "mkt:019e8bdd-b20d-7ee2-b13f-fa0f1f99f1a9",
-      "time": "2026-06-03 13:03:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EBRD lowered its 2026 GDP growth forecast for Turkey by 0.5 percentage point to 3.5%, cut Senegal’s 2026 growth forecast by 1.5 percentage points to 2.6%, and now expects Romania’s economy to contract 0.2% in 2026."
-    },
-    {
-      "id": "mkt:019e8bdc-f491-7ee2-b13f-f0406ac53199",
-      "time": "2026-06-03 13:02:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "European Bank for Reconstruction and Development (EBRD) says widespread energy and infrastructure disruptions in Ukraine will push up inflation and cuts Ukraine's growth forecast to 2.2%."
-    },
-    {
-      "id": "mkt:019e8bdc-bc2d-7ee2-b13f-e9430f44d212",
-      "time": "2026-06-03 13:02:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "European Bank for Reconstruction and Development (EBRD) says exports of products linked to AI supply chains from its operational regions have grown faster than those regions' other exports."
-    },
-    {
-      "id": "mkt:019e8bdc-bb76-7ee2-b13f-e1801996fea9",
-      "time": "2026-06-03 13:02:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "ChiNext Index widened afternoon gains, now up over 4%; China's Shanghai Composite Index +0.44%, Shenzhen Composite Index +2.1%. Fiber-optic, F5G and CPO-related stocks continued to rally."
     }
   ]
 }
