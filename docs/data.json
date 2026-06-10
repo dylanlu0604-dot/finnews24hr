@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-10 21:25:02",
-  "count": 18535,
+  "updated": "2026-06-10 21:29:23",
+  "count": 18534,
   "items": [
+    {
+      "id": "mkt:019eb1b7-ed9f-7dd8-afa2-702b9481ce0a",
+      "time": "2026-06-10 21:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian central bank: analysts expect 2026 GDP growth of 0.7%."
+    },
+    {
+      "id": "4928481",
+      "time": "2026-06-10 21:27:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯分析師預計2026年GDP增長0.7% 。"
+    },
+    {
+      "id": "4928480",
+      "time": "2026-06-10 21:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯分析師預計2026年平均關鍵利率為14.1%。"
+    },
+    {
+      "id": "4928479",
+      "time": "2026-06-10 21:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞調查與指控委員會已暫時暫停總統古斯塔沃·佩特羅的職務，直至6月21日。"
+    },
+    {
+      "id": "mkt:019eb1b6-511d-7dd8-afa2-6f8b9d776723",
+      "time": "2026-06-10 21:26:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Colombia's Committee on Investigations and Accusations said it has suspended President Petro from his duties until June 21."
+    },
+    {
+      "id": "te:markets:558076",
+      "time": "2026-06-10 21:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Holds Near Eight-Month Lows — Palladium traded around $1,250 per ounce, lingering near eight-month lows, as precious metals remained under pressure amid renewed Middle East tensions. Fresh US strikes pushed oil prices higher, fueling inflation concerns and casting doubt on a fragile ceasefire and broader peace prospects, while the Strait of Hormuz remained nearly closed. Rising energy costs heightened inflation fears and the risk of further central bank tightening, weighing on non-yielding assets. Additionally, palladium faced pressure from weaker catalytic converter demand due to the shift toward electric vehicles. However, losses were capped by tight supply conditions, including disruptions in South Africa and uncertainty over Russian exports."
+    },
+    {
+      "id": "4928477",
+      "time": "2026-06-10 21:24:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "EXODUSPOINT 完成 20 億美元融資，阿布扎比投資公司（ADIC）為投資方之一。"
+    },
     {
       "id": "te:markets:558075",
       "time": "2026-06-10 21:23:53",
@@ -171022,80 +171082,6 @@
         "Important"
       ],
       "text": "Politico reports Lithuania is negotiating to receive US nuclear weapons."
-    },
-    {
-      "id": "4915485",
-      "time": "2026-06-03 21:27:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "瑞銀將巴西評級下調至中性後，巴西市場指數（MRV）下跌6.2%。"
-    },
-    {
-      "id": "4915484",
-      "time": "2026-06-03 21:27:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴克萊將維多利亞的秘密公司（DJ Victorias Secret & Co.）普通股目標股價從每股67.00美元上調至108.00美元。"
-    },
-    {
-      "id": "mkt:019e8daa-cf06-7ccb-b65a-bf18880287ff",
-      "time": "2026-06-03 21:27:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reported the Kremlin called former German chancellor Schroder's visit to Russia positive."
-    },
-    {
-      "id": "mkt:019e8daa-8347-7ccb-b65a-b651f769a91f",
-      "time": "2026-06-03 21:27:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russian deputy foreign minister says Russia may use nuclear weapons if territorial integrity is violated】Deputy Foreign Minister Ryabkov told media at the St. Petersburg International Economic Forum on the 3rd that extreme scenarios for possible Russian nuclear use are spelled out in military doctrine and core nuclear deterrence policy. He said that if Russia’s territorial integrity is deliberately violated, Moscow reserves the option to respond with nuclear weapons — including, in the worst case, against adversaries that do not possess nuclear arms."
-    },
-    {
-      "id": "4915483",
-      "time": "2026-06-03 21:26:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：德國前總理施羅德對俄羅斯的訪問具有積極意義。"
-    },
-    {
-      "id": "4915482",
-      "time": "2026-06-03 21:26:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：由於伊朗戰爭的影響，迦納將增加40%的外匯出售用於石油進口。"
-    },
-    {
-      "id": "mkt:019e8da9-c68a-7ccb-b65a-af9ef64d422d",
-      "time": "2026-06-03 21:26:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ghana will increase foreign-exchange sales by 40% to fund oil imports amid disruptions from the Iran conflict."
-    },
-    {
-      "id": "4915481",
-      "time": "2026-06-03 21:25:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄副外長：若領土完整遭侵犯 俄保留以核武器回擊可能性】當地時間3日，俄羅斯外交部副部長里亞布科夫表示，若出現侵害俄領土完整的行為，俄方保留以核手段進行回應的可能性。里亞布科夫在聖彼得堡國際經濟論壇上向媒體表示，關於俄羅斯可能使用核武器的極端情勢在軍事學說和核威懾國家基本政策中已做詳細描述。如果俄羅斯的領土完整遭到侵略者的蓄意侵犯，即便對方並不擁有核武器，在最壞情況下俄方可以使用核武器進行回擊。（央視新聞）"
     }
   ]
 }
