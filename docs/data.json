@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-11 03:08:32",
+  "updated": "2026-06-11 03:12:26",
   "count": 18447,
   "items": [
+    {
+      "id": "4928923",
+      "time": "2026-06-11 03:11:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌4%，現報4114.80美元/盎司。"
+    },
+    {
+      "id": "4928922",
+      "time": "2026-06-11 03:09:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆期貨漲超0.6%】週三（6月10日）紐約尾盤，彭博穀物分類指數漲0.31%，報29.5505點，整體衝高回落，北京時間19:05曾達到29.8885點。CBOT玉米期貨漲0.39%，CBOT小麥期貨漲0.38%。CBOT大豆期貨漲0.64%，報11.3925美元/蒲式耳，豆粕期貨跌0.05%，豆油期貨漲0.41%。"
+    },
     {
       "id": "4928921",
       "time": "2026-06-11 03:06:06",
@@ -170012,24 +170028,6 @@
         "Brent"
       ],
       "text": "CNN reports monetary compensation has become the key sticking point in the Iran agreement."
-    },
-    {
-      "id": "mkt:019e8ee4-f34f-7443-8fe2-1260054bb983",
-      "time": "2026-06-04 03:10:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Vice President Pence and Republicans are doing an excellent job in states cracking down on fraud, that billions of dollars are being uncovered, and that if all funds are found they could balance the budget and reduce taxes."
-    },
-    {
-      "id": "4915901",
-      "time": "2026-06-04 03:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：資金賠付是伊朗相關協議談判的核心癥結。"
     }
   ]
 }
