@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-11 03:00:54",
-  "count": 18445,
+  "updated": "2026-06-11 03:04:39",
+  "count": 18447,
   "items": [
+    {
+      "id": "mkt:019eb2eb-b45d-7dd8-afab-1176f76527e0",
+      "time": "2026-06-11 03:04:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSNBC reports U.S. President Trump is expected to meet defense industry executives this week to press firms to raise production."
+    },
+    {
+      "id": "4928918",
+      "time": "2026-06-11 03:02:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7738元，較週二夜盤收盤跌4點。成交量363.03億美元。"
+    },
+    {
+      "id": "4928917",
+      "time": "2026-06-11 03:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱保障上億桶石油透過海峽】美國總統特朗普在社交媒體平臺發文稱，他於上個月指示美軍執行“秘密任務”，“支援油輪和其他商船透過霍爾木茲海峽”。特朗普在帖文中稱，這一行動“已促成超過一億桶石油透過霍爾木茲海峽進入公開市場，已有超過200艘商船安全透過了該海峽”。特朗普強調，“這一行動取得巨大成功，是因為美國控制著霍爾木茲海峽——而不是伊朗。他們的軍隊已被擊敗，他們的經濟已經完蛋。伊朗大勢已去！” (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:019eb2e9-4a5f-7dd8-afab-0abe76bd8139",
+      "time": "2026-06-11 03:01:33",
+      "tags": [
+        "MKT News",
+        "CG.O"
+      ],
+      "text": "Carlyle Group CFO says the firm needs to hire junior staff, noting AI cannot perform all tasks."
+    },
+    {
+      "id": "mkt:019eb2e9-3831-7dd8-afab-037e4bae519e",
+      "time": "2026-06-11 03:01:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Carlyle Group CFO said artificial intelligence will materially affect future investment processes, but it has not reached that stage yet."
+    },
+    {
+      "id": "mkt:019eb2e9-16d5-7dd8-afaa-f9d40c52d694",
+      "time": "2026-06-11 03:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.12% at 24,307, trading 101 points below the spot index."
+    },
+    {
+      "id": "mkt:019eb2e8-ee49-7dd8-afaa-f79b469197b5",
+      "time": "2026-06-11 03:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. B-52 strategic bomber has landed at Bahrain's Isa Air Base."
+    },
+    {
+      "id": "4928915",
+      "time": "2026-06-11 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.07%，報24294.22點，低水113.74點。"
+    },
     {
       "id": "4928914",
       "time": "2026-06-11 02:59:46",
@@ -169962,63 +170032,6 @@
         "市場"
       ],
       "text": "霍尼韋爾下跌3.7%。"
-    },
-    {
-      "id": "mkt:019e8edf-7235-7443-8fe1-ffc956bcbce8",
-      "time": "2026-06-04 03:04:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said Iran used drones to attack a civilian airport, calling the strike deliberate, calculated and unjustified."
-    },
-    {
-      "id": "4915897",
-      "time": "2026-06-04 03:03:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若所有欺詐款項悉數查實，便有望實現預算平衡。"
-    },
-    {
-      "id": "4915896",
-      "time": "2026-06-04 03:03:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若查實所有舞弊問題，將有望實施減稅。"
-    },
-    {
-      "id": "4915895",
-      "time": "2026-06-04 03:02:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧地利等5國當選聯合國安理會非常任理事國】當地時間3日，聯合國大會選舉奧地利、吉爾吉斯斯坦、葡萄牙、千里達及托巴哥、辛巴威為安理會非常任理事國。其中，吉爾吉斯斯坦是首次當選。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8edd-1c91-7443-8fe1-f0347f8b7a37",
-      "time": "2026-06-04 03:01:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said Iran's claim that it did not strike the passenger terminal at Kuwait International Airport and that damage was caused by U.S. missile interceptors is categorically false."
-    },
-    {
-      "id": "4915894",
-      "time": "2026-06-04 03:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部否認科威特機場受損系美國導彈攔截器所致。"
     }
   ]
 }
