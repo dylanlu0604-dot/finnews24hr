@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-10 21:08:46",
-  "count": 18549,
+  "updated": "2026-06-10 21:13:03",
+  "count": 18543,
   "items": [
+    {
+      "id": "4928463",
+      "time": "2026-06-10 21:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息：卡達代表團已抵達德黑蘭，以就美伊局勢進行調解。"
+    },
+    {
+      "id": "mkt:019eb1a8-e181-7dd8-afa2-32ceaa13c8fd",
+      "time": "2026-06-10 21:11:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【U.S. May core inflation unexpectedly cools; traders still price Fed hike by year-end】U.S. May core CPI rose 0.2% MoM, below the 0.3% consensus. U.S. Treasuries strengthened; yields mostly fell by under 1bp, with the two‑year at 4.11% versus about 4.13% earlier. Bond traders continue to price a Federal Reserve rate increase before year‑end. The print was seen as easing some pressure ahead of Kevin Walsh's first meeting as Fed chair next week. Dan Carter, senior portfolio manager at Fort Washington Investment Advisors, said: \"This gives the Fed a bit of breathing room.\""
+    },
+    {
+      "id": "mkt:019eb1a8-c9f3-7dd8-afa2-2c30f6ec9869",
+      "time": "2026-06-10 21:11:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRIB reports a Qatari delegation has arrived in Tehran to mediate U.S.-Iran tensions."
+    },
+    {
+      "id": "4928462",
+      "time": "2026-06-10 21:10:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性：特里斯坦-達庫尼亞群島的一例個案此前已被世衛組織列為可能病例，並非新增病例。"
+    },
+    {
+      "id": "mkt:019eb1a8-2f53-7dd8-afa2-241706221080",
+      "time": "2026-06-10 21:10:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US data in line with expectations eases pressure on German Bunds】US data broadly matched expectations; core CPI MoM was slightly softer. That allowed German Bunds to retrace earlier losses and return to roughly pre-release levels after an oil-price spike — triggered by Trump saying talks with Iran were taking too long and Iran would \"have to pay a price\" — had pushed Bunds lower. High-beta markets remained under pressure: 10-year French bond futures fell more than 6 bps and 10-year Italian futures fell over 12 bps."
+    },
+    {
+      "id": "4928461",
+      "time": "2026-06-10 21:10:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智象未來登上Artificial Analysis文生圖榜單中國第一】6月10日訊息，智象未來（HiDream.ai） 最新推出的商用版影象生成模型HiDream-O1-Image-1.5，在獨立AI模型評測與分析平臺 Artificial Analysis的文生圖榜單（Text to Image Leaderboard）登上中國影象生成模型第一，評分僅次於OpenAI，超過Google Nano Banana 2（Gemini 3.1 Flash Image Preview）、NVIDIA Cosmos3-Super-Text2Image和位元組跳動Seedream 4.0等。"
+    },
+    {
+      "id": "4928460",
+      "time": "2026-06-10 21:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎哈羅娃：俄中電影合作成果豐碩 人文交流持續深化】俄羅斯外交部發言人扎哈羅娃在當日簡報會上表示，俄中在人文領域的合作，特別是2024至2025年互辦文化年，為雙邊文化交流注入了新動力。扎哈羅娃稱，兩國聯合制作的影片《紅絲綢》已取得成功，續作《黑絲綢》在華拍攝部分也已殺青。此外，俄羅斯影片參加了今年4月舉行的北京國際電影節，中國影片也在莫斯科國際電影節上展映。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb1a6-92b0-7dd8-afa2-1d563390d3c3",
+      "time": "2026-06-10 21:09:04",
+      "tags": [
+        "MKT News",
+        "BAC.N"
+      ],
+      "text": "BofA (BAC.N) to launch new compensation-plan tool."
+    },
+    {
+      "id": "mkt:019eb1a6-7615-7dd8-afa2-13dd7e7dbceb",
+      "time": "2026-06-10 21:08:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) is working with Beckett to advance its New York semiconductor project."
+    },
+    {
+      "id": "4928459",
+      "time": "2026-06-10 21:08:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：巴西參議院委員會批准央行金融自主權法案。"
+    },
+    {
+      "id": "4928458",
+      "time": "2026-06-10 21:08:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，美光科技選定建築工程公司貝泰爾（Bechtel）作為其紐約半導體專案的施工合作伙伴。"
+    },
     {
       "id": "4928457",
       "time": "2026-06-10 21:07:30",
@@ -9,6 +110,14 @@
         "國際"
       ],
       "text": "市場訊息：美國銀行即將推出新的薪酬計劃工具。"
+    },
+    {
+      "id": "4928456",
+      "time": "2026-06-10 21:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車盤前漲0.8%。據華爾街日報報道，其主要鋁供應商諾貝麗斯將重啟工廠運營，此前發生火災。"
     },
     {
       "id": "mkt:019eb1a4-28ab-7dd8-afa2-0c1a56f6cc5d",
@@ -171054,176 +171163,6 @@
         "公司"
       ],
       "text": "市場訊息：太空探索技術公司（SpaceX）計劃在首次公開募股中發行 5.556 億股股票 。"
-    },
-    {
-      "id": "mkt:019e8d9d-9e50-7ccb-b65a-5eb4fcca3bd0",
-      "time": "2026-06-03 21:12:54",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Kuwait's Foreign Ministry said it will reduce the size of Iran's diplomatic mission in Kuwait following related attacks."
-    },
-    {
-      "id": "mkt:019e8d9d-2e29-7ccb-b65a-5549ea01ca02",
-      "time": "2026-06-03 21:12:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Kuwait's foreign ministry summoned Iran's chargé d'affaires and declared two Iranian diplomats persona non grata, citing \"ongoing aggression\"."
-    },
-    {
-      "id": "4915461",
-      "time": "2026-06-03 21:12:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【總投資300億元打造GW級綠電直連資料中心叢集 萬國資料與烏蘭察布市政府簽署戰略合作協議】6月3日，萬國資料與烏蘭察布市人民政府正式簽署戰略合作協議。根據規劃，萬國資料將於未來五年在烏蘭察布投資超過300億元，打造多個高密度資料中心園區和GW級資料中心園區，滿足智算客戶不同型別的業務部署需求，透過綠電直連、綠電交易等方式實現80%以上綠電覆蓋，形成規模化零碳資料中心叢集。"
-    },
-    {
-      "id": "4915460",
-      "time": "2026-06-03 21:12:15",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根士丹利即將開放萬億資管業務介面 接入各類人工智慧智慧體】摩根士丹利很快將向數千家企業的人工智慧智慧體開放旗下一條核心財富管理業務通道，這也是華爾街大型投行中較早對外接入第三方AI工具平臺的案例。 摩根士丹利職場業務首席產品官馬克·米切爾介紹，本次落地後，客戶側自主AI智慧體可繞開面向自然人設計的傳統軟體互動介面，直接從券商股權管理平臺ShareWorks、Equity Edge調取資料與分析結論。 米切爾表示：“在我們預判的未來業態中，企業客戶將不再手動登入ShareWorks與Equity Edge系統。” 取而代之的是，客戶在企業內網環境部署基於智慧體AI的工具，全程由AI程式自動對接摩根士丹利後臺平臺。 目前該行已向少量合作客戶開放試點接入許可權，計劃最晚於明年全面落地，覆蓋其3400家企業託管客戶。"
-    },
-    {
-      "id": "4915459",
-      "time": "2026-06-03 21:11:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特外交部：科威特傳召伊朗駐科代辦，因“持續侵略行為”宣佈兩名伊朗外交官為不受歡迎人物。"
-    },
-    {
-      "id": "te:markets:556175",
-      "time": "2026-06-03 21:11:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Approaches March-Lows — Gold prices fell below $4,500 per ounce on Wednesday, edging closer to the March lows touched last week, as expectations grew that central banks may need to adopt a more hawkish stance and keep interest rates higher for longer. Sentiment was also weighed by continued uncertainty over a US-Iran agreement to end the conflict. At the same time, oil prices extended their gains, further stoking concerns about inflationary pressures. In the US, recent labor market data point to an acceleration in employment growth, consistent with earlier ADP and JOLTS reports. As a result, markets now ECB is expected to raise borrowing costs next week, with traders also pricing in another 25-basis-point hike in September. Although gold is typically viewed as a hedge against inflation, it tends to lose appeal as a non-yielding asset when interest rates are high."
-    },
-    {
-      "id": "mkt:019e8d9c-31d1-7ccb-b65a-48d38c1b4987",
-      "time": "2026-06-03 21:11:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Poland's central bank governor Glapinski said unrealised gains on the central bank's gold reserves were about PLN153 bln."
-    },
-    {
-      "id": "mkt:019e8d9b-e73c-7ccb-b65a-42a5bf958cec",
-      "time": "2026-06-03 21:11:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Poland's central bank governor Glapinski confirmed a gold reserves target of 700 tonnes."
-    },
-    {
-      "id": "4915458",
-      "time": "2026-06-03 21:10:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州六盤水農商行獲批籌建】6月3日，國家金融監督管理總局貴州監管局官網披露了關於籌建貴州六盤水農村商業銀行股份有限公司（以下簡稱“貴州六盤水農商銀行”）的批覆，同意籌建貴州六盤水農商銀行。（中國證券報）"
-    },
-    {
-      "id": "mkt:019e8d9b-9d7d-7ccb-b65a-3d24fce5de2d",
-      "time": "2026-06-03 21:10:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish central bank governor Glapinski said the country's gold reserves rose to 613 tonnes."
-    },
-    {
-      "id": "4915457",
-      "time": "2026-06-03 21:10:06",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "波蘭央行格拉平斯基：波蘭黃金儲備增至613噸。"
-    },
-    {
-      "id": "mkt:019e8d9a-fe00-7ccb-b65a-31308a62c523",
-      "time": "2026-06-03 21:10:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News: U.S. House Majority Leader Steve Scalise said he does not know what the outcome of the Iran war-powers vote will be and that many now believe the conflict is moving toward a peaceful outcome."
-    },
-    {
-      "id": "mkt:019e8d9a-7d2d-7ccb-b65a-2be406275dac",
-      "time": "2026-06-03 21:09:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BDI falls as capesize and panamax rates slide】Baltic Dry Index (BDI) fell 81 pts (2.5%) to 3,124 on Wednesday, pressured by weaker capesize and panamax rates. Capesize index dropped 206 pts (3.8%) to 5,253; capesize daily earnings fell $1,870 to $44,138. Panamax index declined 31 pts to 2,290; panamax daily earnings fell $282 to $20,607. Supramax index rose 6 pts to 1,583."
-    },
-    {
-      "id": "4915456",
-      "time": "2026-06-03 21:09:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部表示，2026/27年度將向韓國出售13.6萬噸玉米。"
-    },
-    {
-      "id": "4915455",
-      "time": "2026-06-03 21:09:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國西南部海軍直升機墜毀事件造成三人遇難。"
-    },
-    {
-      "id": "4915454",
-      "time": "2026-06-03 21:09:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息： 摩根士丹利擬啟用智慧代理調取股票交易平臺資料 。"
-    },
-    {
-      "id": "te:markets:556173",
-      "time": "2026-06-03 21:08:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Ease After Record High — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday after the benchmark reached a record high in the previous session, as a fresh exchange of strikes between the US and Iran dampened hopes for a peace deal. Oil prices rose amid renewed doubts over the prospects of an agreement that could reopen the Strait of Hormuz, reviving concerns about energy-driven inflation and higher borrowing costs. Meanwhile, gold prices declined, pressuring mining stocks. In corporate news, Shopify announced that its board had approved an additional $3 billion share repurchase program. On the trade front, Canada's minister responsible for Canada-US trade, Dominic LeBlanc, said talks with US officials on the review of the countries' free trade agreement were constructive, though he provided few details on the discussions."
-    },
-    {
-      "id": "mkt:019e8d99-cfce-7ccb-b65a-24cd9778ab47",
-      "time": "2026-06-03 21:08:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MS.O"
-      ],
-      "text": "CNBC reports Morgan Stanley will allow AI agents to extract data from its equities platform."
     }
   ]
 }
