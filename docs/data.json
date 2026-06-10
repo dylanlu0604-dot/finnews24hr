@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-10 23:45:06",
+  "updated": "2026-06-10 23:49:09",
   "count": 18352,
   "items": [
+    {
+      "id": "mkt:019eb238-9c44-7dd8-afa7-e0f0afdbadad",
+      "time": "2026-06-10 23:48:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said the US will carry out a powerful strike against Iran and asserted the US has the right to resume strikes against Iran."
+    },
+    {
+      "id": "4928730",
+      "time": "2026-06-10 23:48:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們有權恢復對伊朗的攻擊。"
+    },
+    {
+      "id": "4928729",
+      "time": "2026-06-10 23:48:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破91美元/桶，日內漲3.19%。"
+    },
+    {
+      "id": "4928728",
+      "time": "2026-06-10 23:48:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報90.85美元/桶。"
+    },
+    {
+      "id": "4928727",
+      "time": "2026-06-10 23:47:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：將對伊朗發起猛烈攻擊。"
+    },
+    {
+      "id": "4928726",
+      "time": "2026-06-10 23:47:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向韓國對外軍售AIM-120C-8先進中程空對空導彈，交易預估金額2.92億美元。"
+    },
+    {
+      "id": "mkt:019eb236-999a-7dd8-afa7-ddd949657106",
+      "time": "2026-06-10 23:46:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "RUSSIAN CENBANK said economic activity recovered in April–May after a Q1 GDP contraction, supported by demand for Russian exports."
+    },
+    {
+      "id": "4928725",
+      "time": "2026-06-10 23:46:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI正準備於本月釋出一款代號為5.6的新型人工智慧模型。"
+    },
+    {
+      "id": "4928724",
+      "time": "2026-06-10 23:45:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：第一季度GDP收縮後，4-5月經濟活動在俄羅斯出口需求的支撐下回升。"
+    },
+    {
+      "id": "4928723",
+      "time": "2026-06-10 23:44:24",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "OpenAI執行長奧特曼告知員工，OpenAI準備“很快”推出一項以當前股價進行的要約收購，該股價為每股687.69美元。"
+    },
     {
       "id": "4928722",
       "time": "2026-06-10 23:42:51",
@@ -169074,95 +169163,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Dips on Middle East Conflict and US Tariffs — The FTSE MIB fell 1.1% to close at 50,038 on Wednesday as renewed tensions in the Middle East and fresh US tariff threats weighed on sentiment. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased and the BTP-Bund spread widened. Financials led losses, with UniCredit and Intesa Sanpaolo down 1.9%, while MPS and BPER fell 2.1%. Luxury shares also weakened, with Ferrari losing 2.4% and Moncler down 2%. Stellantis shed 4% after denying it had committed to producing one million vehicles annually in Italy."
-    },
-    {
-      "id": "mkt:019e8e2c-577a-7660-9ad8-4463c47d3cc3",
-      "time": "2026-06-03 23:48:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said individuals who illegally evade taxes should be investigated."
-    },
-    {
-      "id": "4915770",
-      "time": "2026-06-03 23:48:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：沒錯，非法逃稅人員理應接受調查。"
-    },
-    {
-      "id": "mkt:019e8e2b-94a1-7660-9ad8-3c6257d21f3b",
-      "time": "2026-06-03 23:48:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council as non-permanent members】On the 3rd the UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council. One non‑permanent seat remains to be filled."
-    },
-    {
-      "id": "4915769",
-      "time": "2026-06-03 23:47:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡夫亨氏：力求避免漲價，計劃在 2026 年自行消化約八成通脹成本。"
-    },
-    {
-      "id": "4915768",
-      "time": "2026-06-03 23:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：隨著歐洲各國增加國防開支，德國經濟有望從中獲益。"
-    },
-    {
-      "id": "4915767",
-      "time": "2026-06-03 23:46:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國大會3日選舉奧地利、葡萄牙、千里達及托巴哥、辛巴威為聯合國安理會非常任理事國。尚有一個非常任理事國待選出。（新華社）"
-    },
-    {
-      "id": "mkt:019e8e29-e829-7443-8fdf-6aedc951ad34",
-      "time": "2026-06-03 23:46:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Tropical depression strengthened into the first tropical storm of the 2026 eastern Pacific hurricane season."
-    },
-    {
-      "id": "mkt:019e8e29-a051-7443-8fdf-63b3e7fe9784",
-      "time": "2026-06-03 23:45:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "FITCH says the German economy will benefit from increased European defence spending."
-    },
-    {
-      "id": "te:markets:556222",
-      "time": "2026-06-03 23:45:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "T-Mobile Us Stock Price Hits 22-month Low — T-Mobile Us shares decreased to 180.82 USD, the lowest since July 2024. Over the past 4 weeks, T-Mobile Us lost 6.94%, and in the last 12 months, it decreased 25.23%."
-    },
-    {
-      "id": "4915766",
-      "time": "2026-06-03 23:45:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三安光電：金剛石熱沉基板已向客戶小批次出貨】三安光電在互動平臺表示，在熱沉散熱領域，公司生產的碳化矽襯底已向行業頭部客戶送樣驗證，金剛石熱沉基板已向客戶小批次出貨。"
     }
   ]
 }
