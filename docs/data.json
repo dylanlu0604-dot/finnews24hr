@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-11 02:29:43",
-  "count": 18432,
+  "updated": "2026-06-11 02:33:37",
+  "count": 18431,
   "items": [
+    {
+      "id": "4928891",
+      "time": "2026-06-11 02:32:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：美國零售業破產案例顯示覆蘇乏力，清算率居高不下。"
+    },
+    {
+      "id": "mkt:019eb2cd-aa1d-7dd8-afaa-8ef186a7711b",
+      "time": "2026-06-11 02:31:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the night session close at 02:30, SHFE gold main contract fell 3.37% to 899 yuan/gram, SHFE silver main contract fell 1.08% to 15,604 yuan/kg, and Shanghai crude (SC) main contract rose 1.94% to 584 yuan/barrel."
+    },
+    {
+      "id": "mkt:019eb2cd-8853-7dd8-afaa-85c0c1541fd7",
+      "time": "2026-06-11 02:31:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 2.19% at 896.69 yuan/gram in Wednesday evening trade on June 10; silver T+D closed up 0.17% at 15,564.0 yuan/kg."
+    },
+    {
+      "id": "4928890",
+      "time": "2026-06-11 02:30:50",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶90.03美元，上漲1.83美元，漲幅2.07%。"
+    },
+    {
+      "id": "4928889",
+      "time": "2026-06-11 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.94%，報584.20元人民幣/桶。滬金夜盤收跌3.37%，滬銀收跌1.08%。"
+    },
+    {
+      "id": "4928888",
+      "time": "2026-06-11 02:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普因伊朗拖延兩週未回應相關提議心生不滿。"
+    },
     {
       "id": "te:markets:558147",
       "time": "2026-06-11 02:26:15",
@@ -169842,79 +169903,6 @@
         "國際"
       ],
       "text": "據塔斯尼姆通訊社：伊朗外長稱伊美談判暫無實質性進展。"
-    },
-    {
-      "id": "4915880",
-      "time": "2026-06-04 02:32:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【玻利維亞新防長上任 強調恢復秩序】玻利維亞總統帕斯3日在該國行政首都拉巴斯舉行儀式，任命埃內斯托·胡斯蒂尼亞諾為新任國防部長，接替2日辭職的馬塞洛·薩利納斯。此次國防部長更換正值玻利維亞持續面臨社會抗議和道路封鎖之際。據當地媒體報道，抗議活動已持續超30天，全國仍有上百處封鎖點，部分地區物資運輸和民眾出行受到影響。（新華社）"
-    },
-    {
-      "id": "mkt:019e8ec1-10e3-7443-8fe1-9ac8b7cadb5d",
-      "time": "2026-06-04 02:31:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, the SHFE main gold contract fell 0.74% to 973 yuan/gram, the SHFE main silver contract fell 2.24% to 17,795 yuan/kg, and the SC crude main contract rose 1.16% to 611 yuan/barrel."
-    },
-    {
-      "id": "4915879",
-      "time": "2026-06-04 02:31:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收漲2.26美元，漲幅2.41%，報96.02美元/桶。NYMEX 7月天然氣期貨收報3.2140美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.1316美元/加侖，NYMEX 7月取暖油期貨收報3.8481美元/加侖。"
-    },
-    {
-      "id": "mkt:019e8ec0-6105-7443-8fe1-94d75c6a6e82",
-      "time": "2026-06-04 02:30:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 0.55% to 970.59 yuan/gram at the close of the June 3 evening session; silver T+D fell 1.32% to 17,783.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019e8ec0-586e-7443-8fe1-8a82de2656da",
-      "time": "2026-06-04 02:30:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "【Fed's Beige: Consumer spending uneven across districts】Fed's Beige reports 10 of 12 districts saw slow-to-moderate economic growth, one showed slight decline and one was unchanged. Consumer spending is uneven; rising cost pressures have widened differences across income groups—high-income households remain relatively resilient and less price-sensitive, middle-income households are “scrimping every penny before spending,” and low-income households face greater financial strain. Several districts reported higher credit-card use, softer retail sales and stronger demand for necessities. Auto dealers cited weaker new-car demand due to cost and fuel pressures, with increased purchases of used cars and hybrids. Manufacturing expanded at a moderate-to-strong pace in nine districts, with one district reporting a slight decline. Banking conditions are largely stable, but multiple districts reported rising delinquencies in mortgages, consumer and agricultural loans. Six-month business outlooks were little changed amid elevated uncertainty and signs of weaker consumer spending."
-    },
-    {
-      "id": "4915878",
-      "time": "2026-06-04 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲1.16%，報611.00元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌2.24%。"
-    },
-    {
-      "id": "te:markets:556248",
-      "time": "2026-06-04 02:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 3.59% — Top crypto losers are Binance (-3.59%), Ether (-1.95%) and Bitcoin (-1.41%)."
     }
   ]
 }
