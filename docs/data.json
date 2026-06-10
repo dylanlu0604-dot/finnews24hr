@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-11 00:27:37",
-  "count": 18398,
+  "updated": "2026-06-11 00:31:35",
+  "count": 18400,
   "items": [
+    {
+      "id": "mkt:019eb25e-66cd-7dd8-afa9-0f49dec3c238",
+      "time": "2026-06-11 00:29:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "【ASML to cut fewer jobs than planned after union talks】ASML (ASML.O) said after negotiations with Dutch unions it will cut fewer jobs than previously planned and that dismissals will not take effect until after May 1 next year. A union spokesperson said employees will be notified next month after consultation with the works council; affected staff have until May 2027 to secure new roles and may receive up to €400,000 in compensation. ASML said the final headcount will be set once the process is complete and the company aims to reduce the overall scale of the cuts; in January it had announced plans to cut about 1,700 roles, roughly 4% of its workforce."
+    },
+    {
+      "id": "4928793",
+      "time": "2026-06-11 00:28:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【法官敦促特朗普政府撤回上訴 政府稱上訴涉及114億美元IEEPA關稅退款】一名法官敦促特朗普政府撤回對其命令的上訴。該命令要求全額退還1660億美元被美國最高法院推翻的關稅。法官稱，上訴沒有必要，只會讓進口商拿回退款的時間進一步推遲。美國海關和邊境保護局一個多月來一直透過新的線上門戶處理退款申請，然而，在如何處理政府認為已成最終狀態的關稅繳款方面出現了爭議。政府主張，若沒有針對每家受影響進口商的法院命令，就無法退還這部分款項。週二，在美國國際貿易法院的聽證會上，一名海關官員首次證實，政府認為有爭議的金額約為114億美元。司法部一名律師隨後稱，相關金額約為100億美元，暗示爭議範圍有限。“就連我都覺得那也是真金白銀，”法官Richard Eaton在座無虛席的曼哈頓法庭上反駁道，現場一片笑聲。"
+    },
+    {
+      "id": "4928792",
+      "time": "2026-06-11 00:28:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "OpenAI執行長奧特曼淡化人工智慧帶來的就業風險，而高盛報告稱美國每月有1.1萬個崗位因人工智慧被取代。"
+    },
     {
       "id": "mkt:019eb25a-d17d-7dd8-afa9-03d872cde413",
       "time": "2026-06-11 00:25:56",
@@ -169609,16 +169640,6 @@
         "MKT News"
       ],
       "text": "【Russian Defence Ministry says nuclear submarine launched cruise missile during exercise】On June 3 the Russian Defence Ministry said the Northern Fleet nuclear submarine Arkhangelsk launched a \"Gao Manao\" cruise missile during live-fire training in the Barents Sea, striking a simulated enemy ship more than 200 km away; monitoring showed a successful hit. The ministry said the Kola Bay flotilla imposed navigation and flight restrictions in the area ahead of the test for safety."
-    },
-    {
-      "id": "mkt:019e8e51-1c40-7443-8fdf-f068e5dd1858",
-      "time": "2026-06-04 00:29:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【France says it has detained captain of Russian tanker intercepted by navy】The prosecutor’s office in Brest said on the 3rd that the captain of a Russian oil tanker intercepted earlier by the French navy has been held since the 2nd. The maritime gendarmerie carried out the detention. The Russian national is accused of commanding a vessel not flying a flag and refusing to cooperate with law enforcement at sea; he faces up to one year in prison and a €150,000 fine, and the vessel may be seized. The shipowner’s identity is still being verified."
     }
   ]
 }
