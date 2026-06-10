@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-11 06:42:04",
-  "count": 18389,
+  "updated": "2026-06-11 06:45:58",
+  "count": 18387,
   "items": [
+    {
+      "id": "mkt:019eb3b5-f8a1-7dd8-afad-eb2d6667eb7c",
+      "time": "2026-06-11 06:45:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme Joint Military Command said any vessel attempting to pass will become a target."
+    },
+    {
+      "id": "te:markets:558166",
+      "time": "2026-06-11 06:45:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.17% — Top crypto losers are Binance (-1.17%), Ether (-1.08%) and Bitcoin (-0.32%)."
+    },
+    {
+      "id": "mkt:019eb3b5-d16a-7dd8-afad-e15623709fb9",
+      "time": "2026-06-11 06:44:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Supreme Joint Military Command said it will close the Strait of Hormuz and ban all vessel transits."
+    },
+    {
+      "id": "4929076",
+      "time": "2026-06-11 06:44:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗聯合最高軍事指揮部宣佈，霍爾木茲海峽禁止所有船隻通行，任何試圖通行的船隻都將遭到打擊。"
+    },
+    {
+      "id": "4929075",
+      "time": "2026-06-11 06:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：阿巴斯港當地民眾目擊，數枚防禦導彈射向一架美軍戰機。"
+    },
     {
       "id": "4929074",
       "time": "2026-06-11 06:41:29",
@@ -169400,70 +169454,6 @@
         "MKT News"
       ],
       "text": "Lebanon and Israel, under U.S. guidance, agreed to rapidly advance creation of \"pilot zones\"; within those zones the Lebanese Armed Forces will exercise exclusive territorial jurisdiction and non-state actors will be excluded."
-    },
-    {
-      "id": "mkt:019e8faa-27c1-7443-8fe5-8a7d213184be",
-      "time": "2026-06-04 06:45:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "A joint statement after Lebanon‑Israel talks said Israel and Lebanon agreed to implement a ceasefire contingent on US‑led negotiations producing results. The statement conditions the truce on Hezbollah fully ceasing fire and withdrawing all fighters from south of the Litani River."
-    },
-    {
-      "id": "4916095",
-      "time": "2026-06-04 06:45:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里米亞州長稱，烏克蘭對克里米亞辛菲羅波爾發動襲擊，已造成3人死亡、7人受傷。"
-    },
-    {
-      "id": "4916094",
-      "time": "2026-06-04 06:45:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭第一季度非住宅建築環比下降4.0%。"
-    },
-    {
-      "id": "4916093",
-      "time": "2026-06-04 06:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭第一季度建築工程量環比下降3.5%，此前預期增長1.5%。"
-    },
-    {
-      "id": "te:markets:556264",
-      "time": "2026-06-04 06:45:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 3.12% — Top crypto losers are Binance (-3.12%), Bitcoin (-2.71%) and Ether (-1.68%)."
-    },
-    {
-      "id": "4916092",
-      "time": "2026-06-04 06:43:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Quantinuum IPO發行2800萬股，發行價定為每股60美元。"
-    },
-    {
-      "id": "4916091",
-      "time": "2026-06-04 06:42:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新一代AppleWatch續航或升級】蘋果正在開展高遷移率氧化物（HMO）新型OLED背板技術的評估工作。 若該技術落地應用，新一代Apple Watch有望進一步降低螢幕功耗，最佳化續航表現。"
     }
   ]
 }
