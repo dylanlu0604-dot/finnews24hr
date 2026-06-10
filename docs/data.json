@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-11 04:32:30",
-  "count": 18365,
+  "updated": "2026-06-11 04:36:24",
+  "count": 18357,
   "items": [
+    {
+      "id": "te:markets:558157",
+      "time": "2026-06-11 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.76% Lower — The Dow Jones Index fell 898 points or 1.76 percent on Wednesday to close at 49974 points. Leading the losses are Caterpillar (-6.34%), Honeywell International (-4.57%) and Nvidia (-3.39%)."
+    },
+    {
+      "id": "4928970",
+      "time": "2026-06-11 04:33:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Humana將出售其在Gentiva所持的少數股權。"
+    },
+    {
+      "id": "4928969",
+      "time": "2026-06-11 04:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "格瑞夫：未塗布再生紙板每噸（短噸）漲價 60 美元， 未塗布再生紙板（URB）提價將於 2026 年 7 月 6 日及之後的訂單和發貨正式生效。 紙管、紙芯及防護包裝產品價格最低上調 6.5%， 自 2026 年 7 月 13 日起生效。"
+    },
     {
       "id": "4928968",
       "time": "2026-06-11 04:28:29",
@@ -169133,99 +169161,6 @@
         "焦點"
       ],
       "text": "紐約期銀失守73美元/盎司，日內跌3.39%。"
-    },
-    {
-      "id": "mkt:019e8f33-8e4a-7443-8fe4-182e57f832bb",
-      "time": "2026-06-04 04:36:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump says milder fighting constitutes a ceasefire】When asked how to define a ceasefire, U.S. President Trump said: \"In that area, a ceasefire means the fighting becomes milder. That's indeed the case. Ceasefires there are different from those elsewhere.\""
-    },
-    {
-      "id": "4916001",
-      "time": "2026-06-04 04:36:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX計劃募資750億美元，衝刺史上規模最大IPO。"
-    },
-    {
-      "id": "mkt:019e8f33-24bb-7443-8fe4-113707fa8ebd",
-      "time": "2026-06-04 04:35:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Honeywell-owned Quantinuum expanded its U.S. IPO, pricing shares at $60 each and seeking to raise $1.68 bln."
-    },
-    {
-      "id": "4916000",
-      "time": "2026-06-04 04:35:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX敲定IPO發行股份數量為5.556億股。"
-    },
-    {
-      "id": "mkt:019e8f32-e8af-7443-8fe4-0c523fc64d4c",
-      "time": "2026-06-04 04:35:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources say the Trump administration plans to invest $700 million to promote construction of coal-fired power plants and export facilities."
-    },
-    {
-      "id": "4915999",
-      "time": "2026-06-04 04:35:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX擬定IPO發行價每股135美元。"
-    },
-    {
-      "id": "te:markets:556256",
-      "time": "2026-06-04 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.04% Lower — The Dow Jones Index fell 532 points or 1.04 percent on Wednesday to close at 50776 points. Leading the losses are IBM (-7.06%), Honeywell International (-5.09%) and Salesforce (-4.92%)."
-    },
-    {
-      "id": "4915998",
-      "time": "2026-06-04 04:34:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普計劃出資7億美元推動建設燃煤電廠及煤炭出口基地。"
-    },
-    {
-      "id": "4915997",
-      "time": "2026-06-04 04:33:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大對非美墨加協定夥伴延長鋼鐵關稅配額政策。"
-    },
-    {
-      "id": "4915996",
-      "time": "2026-06-04 04:33:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：商船三井擬向美國海上液化天然氣專案投資3億美元。"
-    },
-    {
-      "id": "4915995",
-      "time": "2026-06-04 04:33:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約市長馬姆達尼是個非常聰明的人。"
     }
   ]
 }
