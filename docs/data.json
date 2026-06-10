@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-10 11:04:54",
-  "count": 18730,
+  "updated": "2026-06-10 11:08:58",
+  "count": 18732,
   "items": [
+    {
+      "id": "mkt:019eaf80-86b0-7444-ba06-fde758920c95",
+      "time": "2026-06-10 11:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong internet and tech names rallied amid choppy trading; Meituan (03690.HK), Tencent Holdings (00700.HK) and NetEase-S (09999.HK) gained over 3%, while JD Health (06618.HK), Bilibili (09626.HK) and Tencent Music (01698.HK) also advanced."
+    },
+    {
+      "id": "mkt:019eaf80-516e-7444-ba06-f79489a4bd96",
+      "time": "2026-06-10 11:08:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Taiwan Affairs Office says preparations for 18th Straits Forum basically ready】The Taiwan Affairs Office of the State Council said the 18th Straits Forum will be held on June 13 in Xiamen. Kuomintang vice chairman Zhang Ronggong and other representatives from Taiwan are expected to attend. The office said preparations are basically complete, with forum activities rolling out across Fujian; the event will emphasize grassroots and youth engagement and aims to extend the benefits of cross‑strait integration to a broader range of people."
+    },
+    {
+      "id": "4927184",
+      "time": "2026-06-10 11:07:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大；最新報211.1萬韓元，下跌4.7%"
+    },
+    {
+      "id": "4927183",
+      "time": "2026-06-10 11:07:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團(00992.HK)跌超10%。"
+    },
+    {
+      "id": "4927182",
+      "time": "2026-06-10 11:06:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美公佈“阿耳忒彌斯3號”任務宇航員名單】美國航空航天局9日公佈執行“阿耳忒彌斯3號”任務的4名宇航員名單，包括3名美國宇航員和1名來自義大利的歐洲航天局宇航員。執行此次任務的宇航員分別是：擔任指令長的美航空航天局宇航員蘭迪·佈雷斯尼克，擔任飛行員的歐航局宇航員盧卡·帕爾米塔諾，以及擔任任務專家的美航空航天局宇航員安德烈·道格拉斯和弗蘭克·魯比奧。美航空航天局宇航員鮑勃·海因斯被指定為任務後備宇航員。“阿耳忒彌斯3號”任務計劃2027年實施，屆時美國新一代登月火箭“太空發射系統”將搭載4名宇航員的“獵戶座”飛船送入近地軌道。預計宇航員將在太空停留約兩週，他們將在近地軌道開展飛船與商業載人登月系統的交會對接等關鍵技術驗證，為後續“阿耳忒彌斯4號”載人登月任務做準備。"
+    },
+    {
+      "id": "mkt:019eaf7f-1c3f-7444-ba06-ee780aae3692",
+      "time": "2026-06-10 11:06:43",
+      "tags": [
+        "MKT News",
+        "00992.HK",
+        "Impact bearish"
+      ],
+      "text": "Lenovo Group (00992.HK) fell more than 10%."
+    },
+    {
+      "id": "4927181",
+      "time": "2026-06-10 11:06:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子特氣概念持續走高 雅克科技等多股漲停】電子特氣概念持續走高，雅克科技封漲停，此前和遠氣體、昊華科技、杭氧股份漲停，中船特氣漲超10%，巨化股份、中泰股份、矽烷科技、凱美特氣均漲超6%。"
+    },
+    {
+      "id": "te:markets:557862",
+      "time": "2026-06-10 11:06:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Equities Jump for Second Day, Fuel Price Hike Caps Mood — Indonesian shares surged 149 points, or 2.6%, to 5,895 on Wednesday morning deals, extending the prior session’s rally amid broad gains across major sectors. The local market moved further off last week’s six-year low as investors welcomed Bank Indonesia’s surprise 25bp hike to 5.5% on Tuesday, aimed at stabilising the rupiah after repeated record lows. Investor confidence was also reinforced by sovereign wealth fund Danantara’s pledge not to take profit margins on strategic commodity exports and to honor existing contracts under the new centralization framework. In top trading partner China, May inflation held steady at 1.2%, reflecting stable consumer demand. However, sentiment was tempered by a 32% jump in domestic non-subsidized fuel prices, effective today, as energy-import costs rise amid elevated global crude and a weaker currency. Standout performers included Barito Pacific (14.2%), Bank Negara Indonesia (8.6%), Bank Central Asia (7.3%), and Pertamina Geothermal (4.2%)."
+    },
+    {
+      "id": "4927178",
+      "time": "2026-06-10 11:05:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：第十八屆海峽論壇各項籌備工作基本就緒】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問：第十八屆海峽論壇即將召開，請介紹有關籌備進展情況，請問有哪些臺灣嘉賓將出席本屆海峽論壇？發言人張晗表示，第十八屆海峽論壇大會將於6月13日在廈門舉辦，中國國民黨副主席張榮恭等臺灣各界代表人士將出席大會。目前，論壇各項籌備工作基本就緒，論壇系列活動在福建各地陸續開展。本屆論壇持續關注、服務基層和青年群體，讓兩岸融合發展成果惠及更多兩岸同胞。（央視新聞）"
+    },
+    {
+      "id": "4927177",
+      "time": "2026-06-10 11:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "CLEAN MAX：兩公司將合作開發837兆瓦新的太陽能和風能發電容量。"
+    },
+    {
+      "id": "4927176",
+      "time": "2026-06-10 11:04:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "CLEAN MAX：與META合作建設900兆瓦可再生能源發電容量。"
+    },
     {
       "id": "mkt:019eaf7c-9cf8-7444-ba06-e5ec97eaa8bf",
       "time": "2026-06-10 11:03:59",
@@ -172891,82 +172988,6 @@
         "公司"
       ],
       "text": "【海辰儲能釋出10小時+儲能系統，明年開啟交付】6月3日，2026年SNEC展會期間，海辰儲能釋出10小時+儲能系統新品(∞Cell 650 Ah & ∞Power 10+ MWh)，搭載650 Ah儲能電芯。據海辰儲能區域解決方案負責人葉紫介紹，該款新品的交付時間為2027年。海辰儲能表示，新品的釋出進一步豐富了公司大容量電池產品和系統佈局，透過更高的能量密度和系統整合效率，能夠進一步提升整站綜合收益。"
-    },
-    {
-      "id": "4914132",
-      "time": "2026-06-03 11:08:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將阿斯麥目標股價從1515歐元上調至1900歐元。"
-    },
-    {
-      "id": "4914131",
-      "time": "2026-06-03 11:08:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國稀土集團、中國鈾業等在江西成立國家稀土技術創新中心】企查查APP顯示，近日，江西國家稀土技術創新中心有限公司成立，法定代表人為謝志宏，註冊資本為12.5億元，經營範圍包含：礦產資源勘查，選礦，稀有稀土金屬冶煉，新材料技術研發，稀土功能材料銷售，新型金屬功能材料銷售等。企查查股權穿透顯示，該公司由中國稀土集團有限公司、中國科學院贛江創新研究院、中國鈾業旗下中核資源發展有限公司共同持股。"
-    },
-    {
-      "id": "4914130",
-      "time": "2026-06-03 11:07:51",
-      "tags": [],
-      "text": "創業板指大漲近3.7％，站上4200點，CPO、半導體概念股爆發。"
-    },
-    {
-      "id": "4914129",
-      "time": "2026-06-03 11:06:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【艾為電子：音訊是AI的核心入口 佈局AI NPU】6月3日，在第十六屆松山湖中國IC創新高峰論壇上，艾為電子產品總監呂洋表示，音訊是AI的核心入口，也是AI眼鏡互動的重要形式，並向超低功耗與小型化、整合化發展。針對AI語音互動場景，艾為大力佈局AI NPU，覆蓋智慧家居、安防、AI玩具、可穿戴裝置、AI眼鏡等產品，並開發了獨立的上行神仙演算法。"
-    },
-    {
-      "id": "mkt:019e8b72-5b5b-7ee2-b13d-e47c750dbac6",
-      "time": "2026-06-03 11:06:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "2354.HK",
-        "Impact bullish"
-      ],
-      "text": "【Foxconn Industrial's market value surpasses Kweichow Moutai】Foxconn Industrial rose more than 3%, lifting its market capitalization above 1.65 trillion yuan and surpassing Kweichow Moutai's 1.6 trillion yuan market value."
-    },
-    {
-      "id": "4914128",
-      "time": "2026-06-03 11:06:23",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【工業富聯市值超越貴州茅臺】工業富聯漲超3%，市值超1.65萬億，超越貴州茅臺1.6萬億市值。"
-    },
-    {
-      "id": "4914127",
-      "time": "2026-06-03 11:06:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【國臺辦：所謂“防務科技生態系”包藏民進黨當局謀“獨”禍心】國務院臺灣事務辦公室今天（6月3日）上午舉行例行新聞釋出會，國臺辦發言人朱鳳蓮主持本次新聞釋出會。香港中評社記者：近日，所謂“臺美國防產業論壇”在臺舉行，臺“外貿協會”董事長黃志芳稱，臺灣產業界已準備好與美國攜手合作，共同為印太地區打造更具可靠性的“防務科技生態系”。請問對此有何評論？朱鳳蓮：我們堅決反對美國與中國臺灣地區開展任何形式的軍事聯絡。所謂“防務科技生態系”包藏著民進黨當局“倚外謀獨”、“以武謀獨”和成為美國“以臺製華”棋子的禍心，只會讓臺灣陷入更加危險的境地，給臺灣同胞帶來深重災難。民進黨當局不斷勾連外部勢力謀“獨”挑釁，自不量力、以卵擊石，只會加速“臺獨”必然敗亡的結局。"
-    },
-    {
-      "id": "4914126",
-      "time": "2026-06-03 11:05:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【創業板指站上4200點】創業板指站上4200點，現漲3.58%。"
-    },
-    {
-      "id": "4914125",
-      "time": "2026-06-03 11:04:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將維多利亞的秘密目標價從67美元上調至108美元。"
     }
   ]
 }
