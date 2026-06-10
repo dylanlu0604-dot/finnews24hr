@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-10 22:47:08",
-  "count": 18345,
+  "updated": "2026-06-10 22:51:18",
+  "count": 18341,
   "items": [
+    {
+      "id": "4928636",
+      "time": "2026-06-10 22:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：近百艘船舶已使用《瓊斯法案》豁免權。"
+    },
+    {
+      "id": "mkt:019eb202-f657-7dd8-afa6-4f47959bfb85",
+      "time": "2026-06-10 22:49:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said he has not yet seen a broad-based decline in economic activity."
+    },
+    {
+      "id": "4928635",
+      "time": "2026-06-10 22:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "賴特：石油將於明年初重返美國儲備。"
+    },
+    {
+      "id": "mkt:019eb202-b4af-7dd8-afa6-4306b7aded00",
+      "time": "2026-06-10 22:49:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Ministry of External Affairs condemned attacks on vessels off Oman's coast."
+    },
+    {
+      "id": "mkt:019eb202-912b-7dd8-afa6-3a74c15052aa",
+      "time": "2026-06-10 22:49:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "The EU and South Korea issued a joint statement launching a high-level economic dialogue."
+    },
+    {
+      "id": "te:markets:558108",
+      "time": "2026-06-10 22:49:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Stock Price Hits 4-week High — McDonalds shares increased to 285.33 USD, the highest since May 2026. Over the past 4 weeks, McDonalds gained 3.89%, and in the last 12 months, it decreased 5.04%."
+    },
+    {
+      "id": "4928634",
+      "time": "2026-06-10 22:49:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟與韓國對數字貿易協定的簽署表示歡迎。"
+    },
+    {
+      "id": "4928633",
+      "time": "2026-06-10 22:49:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯指數下跌390點，卡特彼勒、波音股價領跌。"
+    },
+    {
+      "id": "mkt:019eb201-68be-7dd8-afa6-35cb9640719e",
+      "time": "2026-06-10 22:48:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Matsumoto, nominee to lead the U.S. Bureau of Labor Statistics, said if confirmed she will publish data compiled by BLS staff."
+    },
+    {
+      "id": "4928632",
+      "time": "2026-06-10 22:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟與韓國在峰會結束後發表聯合宣告。"
+    },
+    {
+      "id": "mkt:019eb200-f96d-7dd8-afa6-2a780a07db65",
+      "time": "2026-06-10 22:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said the economy did not truly grow over the past year but also did not contract."
+    },
+    {
+      "id": "4928631",
+      "time": "2026-06-10 22:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局(BLS)局長提名人松本表示：我將遵循法律，由BLS工作人員編制的資料將作為公開發布的資料。"
+    },
+    {
+      "id": "mkt:019eb200-cdf3-7dd8-afa6-224c3ae91fc6",
+      "time": "2026-06-10 22:47:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said she does not believe President Trump would ask her to alter data."
+    },
+    {
+      "id": "4928630",
+      "time": "2026-06-10 22:47:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長：過去一年經濟實際並未增長，但也沒有萎縮。"
+    },
+    {
+      "id": "4928629",
+      "time": "2026-06-10 22:47:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "松本：我認為特朗普不會要求我篡改資料。"
+    },
+    {
+      "id": "mkt:019eb200-5868-7dd8-afa6-1e0e9368eb5d",
+      "time": "2026-06-10 22:47:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said Canada’s economy has not clearly entered a recession."
+    },
+    {
+      "id": "mkt:019eb200-3044-7dd8-afa6-1428753be16c",
+      "time": "2026-06-10 22:46:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said Q1 consumer spending was fairly healthy."
+    },
+    {
+      "id": "4928628",
+      "time": "2026-06-10 22:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京認為，隨著俄羅斯通脹放緩，大幅降息的可能性依然存在。"
+    },
     {
       "id": "4928627",
       "time": "2026-06-10 22:46:02",
@@ -168895,198 +169050,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：以色列吸引了大量投資。由於戰爭，以色列科技崛起，中東及周邊國家表示“我們想與您合作”。我們希望將與美國的關係從援助轉變為夥伴關係。我希望立即開始轉變。希望美以雙方對等投資，共享投資收益。"
-    },
-    {
-      "id": "mkt:019e8df7-a9ab-7ff5-8348-3e1db490b63d",
-      "time": "2026-06-03 22:51:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he wants to shift relations with the United States from aid to partnership and wants the transition to begin immediately."
-    },
-    {
-      "id": "mkt:019e8df7-54cc-7ff5-8348-337708568c99",
-      "time": "2026-06-03 22:50:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu: war has accelerated Israel's tech rise; regional states seek cooperation】Prime Minister Netanyahu said the war has accelerated the rise of Israel's technology sector and that Middle Eastern and neighboring states have approached Israel saying \"we want to cooperate with you.\""
-    },
-    {
-      "id": "4915696",
-      "time": "2026-06-03 22:50:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥經濟部在一份宣告中表示，符合《美墨加協定》規則的貿易將可豁免美國擬議中與強迫勞動相關的關稅。"
-    },
-    {
-      "id": "4915695",
-      "time": "2026-06-03 22:50:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國皇家海軍直升機墜毀致3人死亡】英國國防部3日在社交媒體上釋出訊息說，當天早些時候發生的英國皇家海軍直升機墜毀事件已造成3名英國皇家海軍成員死亡。據英國媒體此前報道，3日凌晨4時左右，一架英國皇家海軍直升機在訓練演習過程中墜入英國德文郡的田野，事發地位於兩個皇家海軍的空軍基地之間，靠近一處用於訓練直升機機組人員的戰鬥營。英國首相斯塔默在當天議會下院的首相質詢環節中說，他已注意到這起事件，“對於涉事人員家屬而言，這將是一段極其令人擔憂的時期，我們將盡快公佈更多資訊”。（新華社）"
-    },
-    {
-      "id": "mkt:019e8df6-c2b4-7ff5-8348-2fbfd6e02766",
-      "time": "2026-06-03 22:50:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister NETANYAHU says Israel has attracted substantial investment inflows."
-    },
-    {
-      "id": "4915694",
-      "time": "2026-06-03 22:49:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列新領導層的更迭將由民眾來決定。"
-    },
-    {
-      "id": "mkt:019e8df5-f727-7ff5-8348-21e0bf80d015",
-      "time": "2026-06-03 22:49:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel is ready to accept new leadership whenever the public decides."
-    },
-    {
-      "id": "mkt:019e8df5-f673-7ff5-8348-1dd966953f59",
-      "time": "2026-06-03 22:49:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "AI Revolution",
-        "ASML.AS",
-        "Impact bullish"
-      ],
-      "text": "【ASML becomes Europe's most valuable company on record】Investors buying stocks tied to AI data-center builds have driven ASML up about 60% YTD. On Wednesday ASML rose as much as 2.3% to a market capitalization near $674 billion, overtaking Novo Nordisk's June 2024 record to become the largest company by market value in European history. ASML is the Stoxx 50's second-best performer YTD, though a number of semiconductor peers have outperformed, roughly doubling in price."
-    },
-    {
-      "id": "4915693",
-      "time": "2026-06-03 22:49:18",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【阿斯麥成為歐洲有史以來市值最高的公司】投資者紛紛搶購那些與人工智慧資料中心建設相關的股票，阿斯麥今年迄今已經暴漲60%。週三，阿斯麥公司的股價上漲了多達2.3%，使其市值達到了約6740億美元，成為歐洲有史以來市值最高的公司，超過了丹麥製藥公司諾和諾德在2024年6月創下的紀錄。阿斯麥今年在歐洲斯托克50指數中表現位居第二，但其表現卻遜於一系列半導體股票，其價格已上漲近一倍。"
-    },
-    {
-      "id": "4915692",
-      "time": "2026-06-03 22:49:12",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩：預期記憶體供應緊張最少持續兩至三年，美光目標價看高至1050美元】摩根士丹利發表報告，上調美光及閃迪收入及盈利預測，將美光目標價由520美元大幅上調至1050美元，閃迪目標價由1100美元上調至1750美元，評級同為“增持”。大摩稱，記憶體晶片股在2025年表現強勁，並在2026年繼續引領市場，但該行認為這波強勁表現尚未結束。大摩稱，記憶體短缺並無快速解決方案。這將推動記憶體供應緊張的狀況持續兩至三年(或更長)。短缺在DRAM中最為嚴峻，但NAND Flash亦然。該行認為兩者股價可繼續跑贏大市，因為基於近期預測的倍數仍然合理(兩者2027財年預估市盈率均低於10倍)，且大規模股票回購可能於2027年啟動、專用AI記憶體合約價格談判走高，以及閃迪在資料中心市場的滲透率提高。在此背景下，市場對新的多年期供應協議關注甚多，該行認為長期協議應被視為“高增長持續更久”前景的結果而非原因，並且證明了超大型企業有意在未來幾年繼續擴大記憶體採購，並視承諾為確保供應的必要條件。該行認為市場將獎勵這種隱含的持續性，但該行最關注的仍是供需狀況。"
-    },
-    {
-      "id": "mkt:019e8df5-783c-7ff5-8348-1680df4b3911",
-      "time": "2026-06-03 22:48:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu: The market is not wrong."
-    },
-    {
-      "id": "mkt:019e8df5-57de-7ff5-8348-0d4920afde5d",
-      "time": "2026-06-03 22:48:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said the war has demonstrated Israel's technological strength, not only on the battlefield but also on the civilian front."
-    },
-    {
-      "id": "4915691",
-      "time": "2026-06-03 22:48:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：“市場並沒有錯”。"
-    },
-    {
-      "id": "mkt:019e8df5-2b4c-7996-b2ac-d4c1a27d3315",
-      "time": "2026-06-03 22:48:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said after two-and-a-half years of war Israel's currency is at its strongest level in history and exports are surging."
-    },
-    {
-      "id": "4915690",
-      "time": "2026-06-03 22:48:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "安克創新科技重新遞交港股上市申請。"
-    },
-    {
-      "id": "mkt:019e8df5-04be-7996-b2ac-c905d5e6c6f8",
-      "time": "2026-06-03 22:48:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "NETANYAHU said Israel must decide when to act in Gaza and will determine with the Peace Committee what action to take."
-    },
-    {
-      "id": "mkt:019e8df4-7aab-7996-b2ac-c0b39e032612",
-      "time": "2026-06-03 22:47:43",
-      "tags": [
-        "MKT News",
-        "DAL.O"
-      ],
-      "text": "Delta Air Lines executive says recent Blue Origin incident will not affect the airline's plan to deploy onboard Wi-Fi in 2028."
-    },
-    {
-      "id": "mkt:019e8df4-7475-7996-b2ac-b8de65352184",
-      "time": "2026-06-03 22:47:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said he believes Iran's internal fractures will spread and the regime will eventually collapse."
-    },
-    {
-      "id": "4915689",
-      "time": "2026-06-03 22:47:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲威廉姆斯：目前無需上調或下調利率】美聯儲威廉姆斯表示，目前美國的貨幣政策已處於良好狀態，但他認為未來利率走勢並無明顯方向可循。“貨幣政策目前的設定完全恰當。我認為目前無需上調或下調利率，”威廉姆斯表示。“而且我也認為未來我們不會朝著某個明確的方向發展，”他補充道。今年到目前為止，美聯儲一直維持著利率不變。然而，政策制定者們在面對能源價格飆升的情況下，對於應對通貨膨脹應採取何種措施的問題上產生了分歧。一些官員警告稱，如果霍爾木茲海峽的航運流量不能很快恢復，那麼很快可能就需要加息了。美聯儲青睞通脹指標在4月份較上年同期上漲了3.8%，這是自2023年以來的最大漲幅。目前的失業率維持在4.3%，一些美聯儲官員將這一水平描述為接近充分就業的狀態。"
-    },
-    {
-      "id": "4915688",
-      "time": "2026-06-03 22:47:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：特朗普希望與伊朗當前政權達成協議，但這並不意味著他希望政權繼續存在。"
-    },
-    {
-      "id": "mkt:019e8df4-1b73-7996-b2ac-b53236de421e",
-      "time": "2026-06-03 22:47:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said, regarding civilian deaths, that civilians are warned to evacuate ahead of military operations."
-    },
-    {
-      "id": "4915687",
-      "time": "2026-06-03 22:47:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧多比（Adobe）瞄準內部人選瓦德瓦尼、查克拉瓦蒂接任執行長一職。  微軟高管拉曼納曾洽談出任奧多比執行長一職，但最終放棄競聘。 奧多比考慮外部候選人，聘請海德思哲獵頭公司。"
     }
   ]
 }
