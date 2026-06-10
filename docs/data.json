@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-11 07:10:34",
-  "count": 18395,
+  "updated": "2026-06-11 07:14:25",
+  "count": 18399,
   "items": [
+    {
+      "id": "4929107",
+      "time": "2026-06-11 07:13:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.03%。"
+    },
+    {
+      "id": "4929106",
+      "time": "2026-06-11 07:13:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4050.50美元/盎司。"
+    },
+    {
+      "id": "4929105",
+      "time": "2026-06-11 07:12:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯新聞報道，一位美國官員否認了伊朗關於美軍與伊朗伊斯蘭革命衛隊海軍發生海空衝突的說法。"
+    },
+    {
+      "id": "4929104",
+      "time": "2026-06-11 07:12:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：哈塔姆·安比亞中央總部：美國關於一艘船透過霍爾木茲海峽的說法是虛假的。"
+    },
+    {
+      "id": "mkt:019eb3cf-1927-7dd8-afae-5ec2a00b2dff",
+      "time": "2026-06-11 07:12:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Fox News reports US officials say military strikes against Iran remain ongoing."
+    },
+    {
+      "id": "4929103",
+      "time": "2026-06-11 07:11:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1220.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019eb3cd-7248-7dd8-afae-508ac7512379",
+      "time": "2026-06-11 07:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials deny any maritime clashes with Iran's Islamic Revolutionary Guard Corps Navy, despite Iranian claims, Fox News reports."
+    },
+    {
+      "id": "em:jjsj_zgsj:202606113767123190",
+      "time": "2026-06-11 07:10:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【算力需求增長帶動多行業價格上漲 5月PPI同比漲幅創近年來新高】國家統計局6月10日公佈的資料顯示，5月，CPI同比上漲1.2%，漲幅與4月相同；環比下降0.1%。PPI同比漲幅擴大至3.9%，創近年來新高；環比上漲0.5%。產業結構最佳化升級，帶動部分行業價格環比上行。比如，人工智慧與各領域深度融合，算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲。"
+    },
     {
       "id": "4929102",
       "time": "2026-06-11 07:08:09",
@@ -169500,39 +169571,6 @@
         "Important"
       ],
       "text": "【ICE canola jumps to near three-year high as crude strengthens, planting delays】ICE Canadian canola futures closed higher Wednesday, the benchmark up about 2.6% to a near three-year peak, driven by adverse weather delaying planting, a weak Canadian dollar, and gains in crude and other vegetable oils. The July contract briefly topped C$800 intraday—its highest since early September 2023—on a surge in volume; the November contract also traded and closed above C$800. An analyst said canola has been strong recently and continues to be influenced by the Iran war."
-    },
-    {
-      "id": "mkt:019e8fc3-7cc3-7443-8fe5-c6a1723520ed",
-      "time": "2026-06-04 07:13:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department said parties condemned Iran's attacks on countries in the region."
-    },
-    {
-      "id": "4916124",
-      "time": "2026-06-04 07:13:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【博通股價盤後下跌 AI晶片營收預測不及預期】博通股價盤後下跌，該公司公佈的人工智慧晶片營收預測不及預期，顯示其在這一快速增長行業中爭取更大份額的進展慢於外界預期。博通週三在公告中表示，在截至7月的第三財季，AI半導體營收將在160億美元。資料顯示，分析師平均預期為172億美元。執行長Hock Tan表示，在截至10月的這一財年，博通人工智慧晶片的銷售額將在560億美元，這一預測低於此前576億美元的平均預期。博通股價盤後跌超10%。截至收盤，該股今年迄今已累計上漲38%。"
-    },
-    {
-      "id": "4916123",
-      "time": "2026-06-04 07:12:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【績優科技主題基金頻頻限購，機構：後市關注標的估值與業績匹配度】近期，科技板塊走勢強勁，推動科技主題基金淨值上漲，並吸引大量資金流入。在這種情況下，不少相關績優基金髮布“限購令”，防止短線資金追高買入。從基金經理最新觀點看，AI產業仍處於資本開支投入階段，科技巨頭的算力基礎設施投資是當前主線，依然看好科技板塊後市機會，但在近期漲幅較大的背景下，應關注短期調整的風險。（上證報）"
-    },
-    {
-      "id": "4916122",
-      "time": "2026-06-04 07:12:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【駐英國使館發言人就英情報機構炒作所謂“中國間諜威脅”答記者問】記者：英國軍情五處聯合其它“五眼聯盟”國家情報機構釋出所謂“安全提醒”，聲稱中國情報部門透過虛假線上招聘等方式接觸西方國家人員，竊取軍事、政治、科技機密資訊。中方對此有何評論？使館發言人：所謂“中國間諜威脅”指責純屬無中生有、惡意誹謗，我們對此予以強烈譴責。必須指出，“五眼聯盟”是世界最大的情報組織，其成員在世界各地肆無忌憚地進行間諜竊密活動，它們才是愛好和平國家的真正威脅。我們奉勸英方立即停止這種自編自導、賊喊捉賊的拙劣表演，否則只會自取其辱。"
     }
   ]
 }
