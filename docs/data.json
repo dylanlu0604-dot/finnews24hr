@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-11 00:15:46",
+  "updated": "2026-06-11 00:19:46",
   "count": 18407,
   "items": [
+    {
+      "id": "4928788",
+      "time": "2026-06-11 00:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：過去24小時內，以軍對黎巴嫩南部的提爾地區及其他區域的真主黨設施發動打擊，並擊斃多名武裝人員。 其中一次襲擊命中真主黨一處武器庫，打擊過後現場發生二次爆炸，證實該地點存有大量武器。"
+    },
+    {
+      "id": "mkt:019eb252-a7b4-7dd8-afa8-fc311426b659",
+      "time": "2026-06-11 00:17:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli president: Lebanon must rid itself of HEZBOLLAH and Iranian influence】Israeli President Isaac Herzog said on the 10th he wants peace with Lebanon but that Beirut must remove HEZBOLLAH and Iranian influence. Speaking in a video after inspecting Israel’s northern border, he said HEZBOLLAH violated the Israel-Lebanon ceasefire and that Israel \"cannot accept attacks on its citizens, cross-border strikes or any terrorist attacks.\" He added that without clear arrangements guaranteeing Israel’s security, bilateral relations cannot improve."
+    },
+    {
+      "id": "te:markets:558139",
+      "time": "2026-06-11 00:16:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Slides Amid Rising Geopolitical Risks — The FTSE MIB fell 0.5% to close at 50,029 on Wednesday, weighed down by escalating tensions in the Middle East. Iran launched attacks against several Gulf nations after US retaliatory strikes following the downing of an American helicopter. Oil prices rose, renewing inflation fears and pushing bond yields higher. Financials traded mixed, with UniCredit down 1.3% and Intesa Sanpaolo losing 0.9%, while Generali gained 0.7% and Banco BPM rose 3.7%. Earlier this week, Intesa Sanpaolo, together with Unipol (+1.5%), launched a public exchange offer for MPS (-0.9%), a move that will also affect affiliate BPER (+0.2%). Banco BPM had proposed a friendly merger with MPS on Sunday. Luxury shares weakened amid higher risk aversion, with Ferrari down 1.5% and Moncler losing 0.9%. In contrast, Eni gained 1.6% on rising oil prices."
+    },
+    {
+      "id": "4928787",
+      "time": "2026-06-11 00:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：6月9日，帛琉籍油輪塞特貝洛號不服從指令被美軍攻擊而失去航行能力。"
+    },
     {
       "id": "4928786",
       "time": "2026-06-11 00:14:08",
@@ -169658,42 +169698,6 @@
         "MKT News"
       ],
       "text": "【Russian Defence Ministry says Northern Fleet nuclear submarine fired cruise missile during Barents Sea exercise】On June 3, the Russian Defence Ministry said Northern Fleet nuclear submarine Arkhangelsk launched a Gaomanao cruise missile during live-fire training in the Barents Sea. The ministry said the missile struck a simulated enemy ship more than 200 km away and monitoring data confirmed a successful hit. The Kola Bay flotilla imposed navigation and flight restrictions on the relevant sea areas ahead of the test for safety."
-    },
-    {
-      "id": "4915800",
-      "time": "2026-06-04 00:19:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：去年夏季，我告訴聯邦住房金融局（FHFA）局長Pulte“我會踹他屁股”。"
-    },
-    {
-      "id": "4915799",
-      "time": "2026-06-04 00:19:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國防部稱核潛艇訓練時發射一枚巡航導彈】當地時間6月3日，俄羅斯國防部通報稱，北方艦隊“阿爾漢格爾斯克”號核潛艇在巴倫支海舉行實戰訓練期間，成功發射一枚“縞瑪瑙”巡航導彈。通報稱，打擊目標為距離200多公里外的“模擬敵方艦船”。監控資料顯示已成功命中目標。通報稱，為保障安全，科拉灣分艦隊在導彈試射前已對相關海域實施了通航與飛行管制。（央視新聞）"
-    },
-    {
-      "id": "te:markets:556233",
-      "time": "2026-06-04 00:17:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes on Negative Note — The DAX 40 closed about 1.3% down at 24,812 on Wednesday, reversing yesterday's advance, amid fading hopes of a quick resolution to the Middle East conflict and possible new tariffs from the Trump administration. Hostilities flared up, while conflicting signals over the status of negotiations kept investors on edge. Meanwhile, the US administration vowed to impose a 10%-12.5% tariff on its top trading partners, including the EU and the UK, over alleged links to goods produced with forced labour. Scout24 and SAP were the top losers among stocks, falling 5% and 4.3%. Deutsche Bank dropped 3.7% after CFO Raja Akram signalled that provisions for bad loans in the June quarter could exceed analysts’ expectations."
-    },
-    {
-      "id": "4915798",
-      "time": "2026-06-04 00:15:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達利歐稱人工智慧泡沫終將破裂 投資兌現時往往會刺破泡沫】億萬富豪投資人瑞·達利歐表示，火熱的人工智慧市場已顯現出泡沫跡象，而這一泡沫最終會破裂。這位橋水基金創始人週三在接受採訪時說：“所有重大的科技變革都會催生泡沫。沒有人能把握得恰到好處。你要麼投入大量資金去搶佔市場份額，不去擔心是否投得過多；要麼投入不足，結果失去市場份額。”達利歐表示，泡沫往往會在投資需要兌現回報時破裂。他提到市場對於AI公司盈利能力的擔憂。他說：“刺破泡沫的過程，就是把財富轉化為現金的過程。”他還表示，當下由AI驅動的市場“正沿著這樣的路徑演進，儘管這是一項了不起的技術”。"
     }
   ]
 }
