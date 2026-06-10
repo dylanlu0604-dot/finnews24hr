@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-10 16:07:53",
-  "count": 18621,
+  "updated": "2026-06-10 16:11:56",
+  "count": 18619,
   "items": [
+    {
+      "id": "mkt:019eb095-6136-7aad-8122-8a600aee22d5",
+      "time": "2026-06-10 16:10:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said New Delhi expects the US to re-examine anti-dumping duties on Indian solar products."
+    },
+    {
+      "id": "4927652",
+      "time": "2026-06-10 16:10:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中泰證券：獲證監會批覆，可發不超300億元公司債券】中泰證券公告稱，近日收到中國證監會批覆，同意公司向專業投資者公開發行面值總額不超過300億元公司債券。本次發行應按報送上海證券交易所的募集說明書進行，批覆自同意註冊之日起24個月內有效，可分期發行。發行結束前如發生重大事項，應及時報告處理。公司將按要求辦理髮行事宜並履行資訊披露義務。"
+    },
+    {
+      "id": "te:markets:557981",
+      "time": "2026-06-10 16:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Gains by 1.12% — Top commodity gainers are Wheat (1.12%), Corn (0.81%) and Cotton (0.57%). Biggest losers are Sugar (-0.77%) and Rice (-0.64%)."
+    },
+    {
+      "id": "4927651",
+      "time": "2026-06-10 16:10:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：印度預計美國將對印度輸美太陽能產品的反傾銷稅展開復審。"
+    },
+    {
+      "id": "mkt:019eb094-c4a0-7aad-8122-83c948d7e9a3",
+      "time": "2026-06-10 16:10:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks closed lower: HSI down 0.64%, Hang Seng Tech Index down 0.94%. Biopharma and Chinese broker stocks led gains; solar PV names rallied in the afternoon. PCB, optical-communications and chip-related sectors posted the largest declines."
+    },
+    {
+      "id": "4927650",
+      "time": "2026-06-10 16:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日立以液冷、光模組和電力裝置切入全球資料中心建設熱】全球資料中心建設熱潮給日立這家已經延續上百年的企業提供了新的市場空間。在海外市場，日立與OpenAI、新加坡電信等企業達成了合作。在國內，日立正在將旗下與資料中心相關的多項業務統一展示，涵蓋液冷冷卻、光模組、電力裝置、數字化運維等方向，參與的子公司包括日立產機系統、日立高新技術、日立能源等。其中，日立正在為前沿的1.6T（Tbps）光模組技術提供設計、封測等方面的支援。"
+    },
+    {
+      "id": "mkt:019eb094-63e6-7aad-8122-7b26ba7526b9",
+      "time": "2026-06-10 16:09:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moore Threads open-sources MusaCoder, first code LLM fully trained on domestic full‑stack GPUs】Moore Threads has released and open‑sourced MusaCoder, a code‑focused large language model optimized for GPU‑level operator generation. It is the first open‑source code LLM trained and validated end‑to‑end on a domestic full‑stack GPU compute base; all post‑training was completed on the Kua'e intelligent compute cluster built on MTTS 5000. In KernelBench's strict evaluation, MusaCoder‑27B‑RL recorded OverallPass@893.2% and Avg.@888.60%, outperforming Claude OPUS 4.7, DeepSeek‑V4 Pro, GLM‑5.1 and Kimi K2.6 and reaching industry‑leading performance."
+    },
+    {
+      "id": "4927649",
+      "time": "2026-06-10 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌0.696%，恒生科技指數跌0.911%】中信股份跌4.505%，零跑汽車跌4.631%，滙豐控股跌5.278%，寧德時代跌5.427%，蔚來-SW跌6.505%，智譜跌8.011%，聯想集團跌9.535%。"
+    },
+    {
+      "id": "4927648",
+      "time": "2026-06-10 16:08:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯未能成功拍賣黃金生產商UGC的股權。"
+    },
+    {
+      "id": "4927647",
+      "time": "2026-06-10 16:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【彤程新材：擬修訂公司章程等制度以適配H股發行上市】彤程新材公告稱，公司擬發行H股並在港交所主機板上市，為完善公司治理結構，將增加1名獨立董事，董事會人數從9名調至10名，獨立董事從3名增至4名。同時，修訂累積投票條款，將常住香港的獨立董事津貼調至20萬港幣/年。《公司章程》等現行制度待股東會審議透過後生效，《公司章程（草案）》等則在H股掛牌上市日起生效。公司董事會提請股東會授權辦理工商變更等事宜。"
+    },
+    {
+      "id": "4927646",
+      "time": "2026-06-10 16:07:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳科鐳射：擬無償劃轉生產裝置並擬定2026年用工計劃】銳科鐳射公告稱，6月10日召開第四屆董事會第二十六次會議，審議透過《關於銳科鐳射擬向智慧光子、銳威公司、睿芯公司、無錫銳科及無錫銳科擬向銳科鐳射無償劃轉生產裝置的議案》，以盤活閒置資產。還審議透過《關於銳科鐳射2026年用工計劃的議案》，將聚焦技術人才引進儲備，最佳化人才結構與提升組織效能，該議案尚需提交股東會審議。"
+    },
+    {
+      "id": "4927645",
+      "time": "2026-06-10 16:07:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多浦樂：聘任王曉寧為公司副總經理】多浦樂公告稱，公司於2026年6月10日召開第三屆董事會第六次會議，審議透過聘任王曉寧為公司副總經理的議案，任期至第三屆董事會任期屆滿。王曉寧1980年生，畢業於北京航空航天大學，曾任職於奧林巴斯（中國）有限公司等，截至目前未持有公司股份，與公司相關方不存在關聯關係，符合任職資格。"
+    },
+    {
+      "id": "4927644",
+      "time": "2026-06-10 16:07:42",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【摩爾執行緒MusaCoder正式開源：基於國產全功能GPU全棧訓練，效能比肩國際SOTA】近日，摩爾執行緒正式釋出並開源面向GPU底層運算元生成的專用程式碼大模型MusaCoder。這是業內首個基於國產GPU算力底座完成全鏈路訓練與驗證的開原始碼大模型，其完整後訓練流程均在基於MTT S5000構建的誇娥智算叢集上完成。在KernelBench嚴格評測中，MusaCoder-27B-RL以Overall Pass@8 93.2%、Avg.@8 88.60%的成績，超越Claude Opus 4.7、GLM-5.1、DeepSeek-V4 Pro、Kimi K2.6等主流SOTA程式碼模型，展現出在GPU原生Kernel生成任務上的領先效能。"
+    },
+    {
+      "id": "4927643",
+      "time": "2026-06-10 16:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬輝能源在廣州成立智飛動能科技公司 註冊資本500萬】天眼查App顯示，近日，廣州鵬輝智飛動能科技有限公司成立，法定代表人為方李一凡，註冊資本500萬人民幣，經營範圍包括電池銷售、蓄電池租賃、電池零配件銷售、電力電子元器件銷售等。股東資訊顯示，該公司由鵬輝能源（300438）全資持股。"
+    },
     {
       "id": "4927642",
       "time": "2026-06-10 16:06:43",
@@ -171717,155 +171843,6 @@
         "其他"
       ],
       "text": "【山西釋出冰雹橙色預警 忻州東部、太原東部等地注意防禦】6月3日下午，山西省氣象臺釋出冰雹橙色預警，預警區域為忻州市東部、太原市東部、陽泉市、晉中市、長治市北部、臨汾市南部、運城市北部。預計未來6小時預警區域可能出現冰雹天氣，並可能造成雹災。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e8c89-f0ea-7008-890c-f6b24b92f694",
-      "time": "2026-06-03 16:11:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "The Hang Seng Index (HSI) fell 405.11 points, or 1.56%, to 25,633.21 at the close on Wednesday, June 3. The Hang Seng Tech Index fell 142.31 points, or 2.74%, to 5,056.97. The Hang Seng China Enterprises Index (HSCEI) fell 166.38 points, or 1.90%, to 8,596.59. The Red Chip Index fell 11.53 points, or 0.26%, to 4,456.84."
-    },
-    {
-      "id": "4914646",
-      "time": "2026-06-03 16:11:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新大洲A：向特定物件發行股票方案到期失效】新大洲A(000571)6月3日公告，公司於2025年6月3日召開2025年第五次臨時股東會，審議透過了《關於公司符合向特定物件發行A股股票條件的提案》、《關於公司向特定物件發行A股股票方案（修訂稿）的提案》等議案。因在確定的時間內未完成申報材料相關工作，截至本公告日，審議本次向特定物件發行股票方案的股東會決議已屆滿12個月，因此本次向特定物件發行A股股票方案已到期自動失效，該事項不會對公司生產經營造成重大影響。"
-    },
-    {
-      "id": "4914645",
-      "time": "2026-06-03 16:10:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【PayPal：歐美仍是中國企業出海主要市場，歐洲市場呈現強勁增長勢頭】記者從數字移動支付企業PayPal獲悉，2025年5月1日至2026年4月30日期間PayPal跨境交易資料顯示，美國依然是中國企業出海的核心市場。在中國商戶透過PayPal完成的跨境交易額中佔67.2%；德國、英國和澳大利亞等成熟市場則持續釋放增長潛力，美、英、德、澳四大市場合計貢獻了中國商戶透過PayPal完成跨境交易額的95%。與此同時，歐洲市場正展現出強勁增長勢頭。西班牙、義大利、德國和法國等市場跨境交易額分別實現12.3%、8.8%、8.3%和5.5%的同比增長。隨著全球消費者對中國商品接受度持續提升，以及跨境購物習慣日益成熟，中國企業正迎來更加多元化的全球增長機遇。（證券時報）"
-    },
-    {
-      "id": "4914644",
-      "time": "2026-06-03 16:10:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隆基綠能：控股股東李振國質押1.3億股用於償還前期質押融資】隆基綠能公告稱，公司控股股東李振國持有公司股份10.67億股，佔2026年6月2日總股本的14.08%。6月3日，李振國將1.3億股辦理質押，佔其持股數量的12.18%，佔公司總股本的1.72%，質押融資用於償還2025年6月質押到期的1.55億股前期質押融資。本次質押完成後，李振國累計質押3.65億股，佔其持股數量的34.20%。李振國資信良好，無平倉或控制權變更風險。"
-    },
-    {
-      "id": "4914643",
-      "time": "2026-06-03 16:10:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香飄飄：參與認購投資基金份額，合夥企業增資至9.7億元】香飄飄公告稱，基於長沙泉仲創業投資合夥企業投資發展規劃，全體合夥人一致同意新增紀翌等4名有限合夥人，普通合夥人蘇州維特力新增認繳出資100萬元。調整後，合夥企業認繳出資總額從8.89億元增加至9.7億元，香飄飄出資1億元，佔比10.309%。新增合夥人與公司無關聯關係，重新簽署協議對公司財務及經營無重大影響，公司將持續關注投資進展並披露資訊。"
-    },
-    {
-      "id": "te:markets:556086",
-      "time": "2026-06-03 16:10:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Canola Rises by 1.88% — Top commodity gainers are Canola (1.88%), Rice (1.28%) and Sugar (1.05%). Biggest losers are Wheat (-0.88%) and Corn (-0.51%)."
-    },
-    {
-      "id": "4914642",
-      "time": "2026-06-03 16:10:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Soul App開源端到端多人對話轉錄模型】6月3日，據Soul官方訊息，Soul App AI團隊（Soul AI Lab）聯合西北工業大學音訊語音與語言處理研究組ASLP@NPU團隊及Moonstep AI，正式開源端到端多人對話轉錄模型SoulX-Transcriber。作為一款面向長音訊、多說話人場景設計的語音理解模型，該模型能夠直接從多人對話音訊中生成包含時間戳、說話人身份和轉錄文字的結構化結果。"
-    },
-    {
-      "id": "4914641",
-      "time": "2026-06-03 16:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方：聖彼得堡油終端、米丘林斯克的“進步”工廠以及薩基機場已被擊中。伊爾斯克煉油廠遭打擊的結果已得到確認。曾澤瓦特卡泵站已被關閉。"
-    },
-    {
-      "id": "mkt:019e8c88-20e2-7008-890c-eb1e8a6d943e",
-      "time": "2026-06-03 16:09:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry says Kuwait, Bahrain bear direct responsibility for attack; will be treated as aggression against Iran】Iran's foreign ministry condemned US strikes on an Iranian tanker and a telecom tower on Qeshm Island, saying the actions violated the April 8 ceasefire and the UN Charter. Tehran accused Kuwait and Bahrain of direct responsibility for last night's aggression and warned any state that allows an aggressor to use its land, sea, airspace or facilities to carry out or support military action against Iran would violate international law and UN General Assembly resolution 3314 and will be treated as committing aggression. Iran said it will use all available means to resist aggression, including striking the sources of attacks."
-    },
-    {
-      "id": "4914640",
-      "time": "2026-06-03 16:09:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【菜百股份：2025年度擬派發現金紅利6.07億元】菜百股份公告稱，2025年度利潤分配方案已獲2026年5月22日的年度股東會審議透過。本次以總股本777,777,800股為基數，每股派現金紅利0.78元（含稅），共計派發現金紅利6.07億元（含稅）。股權登記日為2026年6月10日，除權（息）日和現金紅利發放日為6月11日。不同股東型別扣稅方式有別。"
-    },
-    {
-      "id": "te:markets:556084",
-      "time": "2026-06-03 16:09:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Track European Peers Lower — The CAC 40 fell 0.5% to 8,166 on Wednesday, tracking broader European markets lower as investors weighed uncertainty surrounding the US-Iran ceasefire and fresh tariff threats from the US. Renewed tensions resurfaced in the Middle East after Iran launched ballistic missiles toward neighboring countries, prompting retaliatory US strikes on Qeshm Island. Trade concerns also emerged after the US Trade Representative proposed tariffs of up to 12.5% on 60 trading partners, including the European Union, over alleged failures to prohibit imports linked to forced labor. Domestically, final estimates showed the Composite PMI was revised up to 44.9 in May 2026, though it stillmarked the sharpest downturn since January 2024. The Services PMI was also revised higher to 44.3 but remained at its steepest contraction since November 2020. Industrial and aerospace shares led the decline, with Schneider Electric (-0.9%), Airbus (-1.8%), and Safran (-1.7%) among the biggest drags on the index."
-    },
-    {
-      "id": "mkt:019e8c87-74fc-7008-890c-e3f20d1abefb",
-      "time": "2026-06-03 16:09:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong shares closed lower: the Hang Seng Index fell 1.56% and the Hang Seng Tech Index dropped 2.74%; heavyweight tech stocks were broadly weaker."
-    },
-    {
-      "id": "4914639",
-      "time": "2026-06-03 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.556%，恒生科技指數跌2.737%】商湯-W跌4.972%，金山軟體跌5.013%，小鵬集團-W跌5.556%，美團-W跌5.848%，零跑汽車跌6.216%，藥明生物跌7.228%，金蝶國際跌7.564%。"
-    },
-    {
-      "id": "4914638",
-      "time": "2026-06-03 16:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟法院就維旺迪<VIV.PA>未獲歐盟批准即完成對拉加代爾<LAGA.PA>交易而遭到歐盟指控一案，裁定維旺迪敗訴。"
-    },
-    {
-      "id": "4914637",
-      "time": "2026-06-03 16:08:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部在一份宣告中表示，伊朗保留對任何允許美國利用其領土或空域對伊朗發動襲擊的國家進行自衛的權利。"
-    },
-    {
-      "id": "4914636",
-      "time": "2026-06-03 16:08:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【淳厚基金薛莉麗離任副總經理】6月3日，淳厚基金髮布高管變更公告，薛莉麗因個人原因，於6月2日離任公司副總經理。履歷顯示，薛莉麗加入淳厚基金後，歷任總經理助理、權益投資部總監、研究部總監等職。"
     }
   ]
 }
