@@ -1,7 +1,173 @@
 {
-  "updated": "2026-06-10 15:00:51",
-  "count": 18653,
+  "updated": "2026-06-10 15:04:37",
+  "count": 18635,
   "items": [
+    {
+      "id": "mkt:019eb058-169e-799a-b41e-21ce6bb14992",
+      "time": "2026-06-10 15:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai-Shenzhen turnover CNY2.62tn on June 10; Zhongji Xuchuang tops by turnover】On June 10, combined turnover on the Shanghai and Shenzhen exchanges was CNY2.62 trillion, down CNY21.05 billion from the prior session. Shanghai turnover was CNY1.23 trillion (prev. CNY1.17 trillion) with volume 599 million lots (prev. 577 million); Shenzhen turnover was CNY1.39 trillion (prev. CNY1.47 trillion) with volume 710 million lots (prev. 718 million). Zhongji Xuchuang led stocks by turnover at CNY26.38 billion, followed by Xinyisheng CNY24.04bn, Hengtong Optic‑Electric CNY22.67bn, BOE Technology (BOE A) CNY19.65bn and Zhongtian Technology CNY19.56bn."
+    },
+    {
+      "id": "4927479",
+      "time": "2026-06-10 15:03:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法國Soitec半導體公司股價下跌3.5%，此前傑富瑞將其股票評級從持有下調至表現不佳。"
+    },
+    {
+      "id": "mkt:019eb057-9e94-799a-b41e-1ccee45491ac",
+      "time": "2026-06-10 15:03:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Chinese equities closed lower on June 10: Shanghai Composite down 0.42% at 3,993.23; Shenzhen Composite down 2.06% at 14,954.10; CSI 300 Index down 1.11% at 4,748.59; ChiNext Index down 2.70% at 3,854.79; STAR 50 Index down 0.65% at 1,652.22."
+    },
+    {
+      "id": "mkt:019eb056-3c4c-799a-b41e-12d9c4b51a2d",
+      "time": "2026-06-10 15:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Euro Stoxx 50"
+      ],
+      "text": "European stocks opened higher on Wednesday June 10: Germany's DAX up 86.27 pts (+0.35%) at 24,504.34; UK's FTSE 100 up 22.72 pts (+0.22%) at 10,250.05; France's CAC 40 up 15.23 pts (+0.19%) at 8,218.66; Euro Stoxx 50 up 14.01 pts (+0.23%) at 6,063.75; Spain's IBEX 35 up 74.05 pts (+0.41%) at 18,260.75; Italy's FTSE MIB up 238.74 pts (+0.47%) at 50,501.50."
+    },
+    {
+      "id": "4927478",
+      "time": "2026-06-10 15:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報3820.27億元，較昨日此時縮量123.02億元】截至目前，ETF兩市成交額報3820.27億元，較昨日此時縮量123.02億元，分型別來看，股票型ETF成交額1387.39億元，債券型ETF成交額1205.83億元，貨幣型ETF成交額233.79億元，商品型ETF成交額115.05億元，QDII型ETF成交額878.22億元。"
+    },
+    {
+      "id": "4927477",
+      "time": "2026-06-10 15:01:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "意法半導體米蘭上市股價上漲2.7%，此前美國銀行將其評級從“中性”上調至“買入”。"
+    },
+    {
+      "id": "mkt:019eb055-f47e-799a-b41e-0ee501fe740f",
+      "time": "2026-06-10 15:01:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IF",
+        "Impact bearish",
+        "IH",
+        "Impact bullish",
+        "IC"
+      ],
+      "text": "【Index futures midday close】CSI 300 index futures (IF) most-active contract down 0.44%; SSE 50 index futures (IH) most-active contract up 0.55%; CSI 500 index futures (IC) most-active contract down 1.01%; CSI 1000 index futures (IM) most-active contract down 0.92%."
+    },
+    {
+      "id": "mkt:019eb055-ecaa-799a-b41e-060a0ee5f697",
+      "time": "2026-06-10 15:01:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "At the midday close, front-month domestic futures contracts were mostly lower. SHFE silver fell nearly 5% and platinum dropped over 4%. Fuel oil, SHFE gold and low-sulfur fuel oil (LU) lost more than 3%; LPG declined nearly 3%. SC crude and PET bottle-chip futures slipped over 2%. Winners included polysilicon, up nearly 5%; silicon metal and alumina, up over 3%; Europe-route container freight, up more than 2%; caustic soda, iron ore, eggs and lithium carbonate, each up over 1%."
+    },
+    {
+      "id": "4927476",
+      "time": "2026-06-10 15:01:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃自動駕駛解決方案部門目標在2027年第一季度實現無人駕駛商業化運營，計劃五年內達到30億美元營收。"
+    },
+    {
+      "id": "4927475",
+      "time": "2026-06-10 15:01:11",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【收評：科創50指數衝高回落跌0.65%，環氧丙烷、兵裝重組概念、保險板塊漲幅居前】A股三大指數今日集體下跌，截至收盤，上證指數收跌%，深證成指跌2.06%，創業板指跌2.7%，北證50跌3.16%，科創50指數跌0.65%。全市場成交額26441億元，較上日成交額縮量226億元，全市場超3800只個股下跌。板塊題材上，兵裝重組概念、環氧丙烷、保險、旅遊及酒店、銀行板塊漲幅居前；煤炭開採加工、元件、電力、銅纜高速連線、培育鑽石板塊跌幅居前。盤面上，兵裝重組概念板塊維持強勢表現，東安動力、湖南天雁漲停，長城軍工、華強科技、建設工業跟漲。環氧丙烷板塊震盪走高，怡達股份、中化國際、紅寶麗、濱化股份漲停，美邦科技漲超17%，一諾威、惠通科技、紅牆股份漲幅居前。銀行板塊逆市走高，廈門銀行漲超5%，青島銀行、齊魯銀行、中信銀行漲幅居前。煤炭開採加工板塊全天震盪走低，華電能源、昊華能源、安泰集團領跌，遼寧能源、陝西黑貓、鄭州煤電跌幅居前。元件板塊表現不佳，金祿電子盤中跌超15%，紅板科技跌停，勝業電氣、鈞崴電子、麥捷科技跌幅居前。電力板塊延續調整，協鑫能科觸及跌停，華電遼能、京能電力、金開新能等多股大幅下挫。"
+    },
+    {
+      "id": "4927474",
+      "time": "2026-06-10 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.42%，深證成指跌2.06%，創業板指跌2.70%。"
+    },
+    {
+      "id": "te:markets:557939",
+      "time": "2026-06-10 15:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 5-week Low — HSBC Holdings shares decreased to 1295.00 GBp, the lowest since May 2026. Over the past 4 weeks, HSBC Holdings lost 1.43%, and in the last 12 months, it increased 49.84%."
+    },
+    {
+      "id": "4927473",
+      "time": "2026-06-10 15:00:17",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "全球政府債券發行量上半年達到創紀錄的5040億美元。"
+    },
+    {
+      "id": "4927472",
+      "time": "2026-06-10 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】多晶矽連續漲4.97%，白銀連續跌4.91%，鉑連續跌4.24%，燃料油連續跌3.16%，黃金連續跌3.15%。"
+    },
+    {
+      "id": "4927471",
+      "time": "2026-06-10 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.74%，英國富時100指數跌1.41%，法國CAC40指數漲0.05%，歐洲斯托克50指數跌0.23%，義大利富時MIB指數漲0.11%。"
+    },
+    {
+      "id": "4927470",
+      "time": "2026-06-10 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.87%， 滬深300指數期貨連續跌0.42%， 中證500指數期貨連續跌0.97%， 上證50指數期貨連續漲0.56%。"
+    },
     {
       "id": "4927469",
       "time": "2026-06-10 14:59:45",
@@ -62,6 +228,15 @@
         "公司"
       ],
       "text": "迪拜工商會宣佈成立迪拜承包商商業集團，為承包企業提供支援。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606103766633737",
+      "time": "2026-06-10 14:59:04",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【“4字頭”通脹要來了？今晚八點半 全球市場“決戰”美國CPI……】上週五，一份火熱到爆表的美國非農就業資料，可以說成為了美股乃至全球市場投資者眼中最大的“夢魘”。而在今晚，這出美聯儲加息“狼來了”的故事，顯然將迎來第二波高潮——按照日程安排，美國勞工統計局將於北京時間今晚20點半公佈美國5月CPI資料……"
     },
     {
       "id": "4927464",
@@ -171880,352 +172055,6 @@
         "SZSE Component"
       ],
       "text": "【China A‑shares close higher; oil & gas upstream names rally in afternoon】China A‑shares closed higher: Shanghai Composite +0.22%, Shenzhen Composite +0.73%, ChiNext +1.65%; STAR 50 +2.11%. Shanghai/Shenzhen turnover CNY3.13tn, up CNY337.3bn vs prior session. More than 1,700 stocks advanced. Lab‑grown diamond names jumped—Huifeng Diamond +15%, Hengsheng Energy hit daily limit. Coal mining & processing surged in the afternoon with Zhengzhou Coal & Power and Dayou Energy limiting up; Jinkong Coal, Lu'an Environmental Energy and Huadian Energy also outperformed. Oil & gas exploration and services extended afternoon gains: Keli rose over 22% intraday; Tongyuan Petroleum, Qianeng Hengxin and Zhongman Petroleum rallied. Cinema exhibitors lagged, led lower by Zhongguang Tianze (limit down), Beijing Culture, Baina Qiancheng and Shanghai Film."
-    },
-    {
-      "id": "mkt:019e8c4c-813b-7ee2-b142-fea38c9a54e9",
-      "time": "2026-06-03 15:04:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian government says the proposed tariff scheme is not final; stakeholders may apply to participate in public hearings until June 22, 2026."
-    },
-    {
-      "id": "mkt:019e8c4b-eec4-7ee2-b142-f291e1e32c28",
-      "time": "2026-06-03 15:04:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Indian government said it is in talks with the United States to finalise a framework trade agreement."
-    },
-    {
-      "id": "4914472",
-      "time": "2026-06-03 15:03:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "CVC資本合夥人股價下跌3.3%，位列阿姆斯特丹泛歐交易所AEX指數跌幅榜首。"
-    },
-    {
-      "id": "mkt:019e8c4b-a30c-7ee2-b142-edae37acd822",
-      "time": "2026-06-03 15:03:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "On Wednesday, June 3, European stocks opened mixed: Germany's DAX fell 184.51 pts (-0.73%) to 24,932.35; the FTSE 100 fell 7.02 pts (-0.07%) to 10,366.49; France's CAC 40 fell 25.99 pts (-0.32%) to 8,183.10; the Euro Stoxx 50 fell 14.35 pts (-0.23%) to 6,093.50; Spain's IBEX 35 rose 69.37 pts (+0.38%) to 18,341.37; Italy's FTSE MIB fell 198.04 pts (-0.39%) to 50,380.50."
-    },
-    {
-      "id": "4914471",
-      "time": "2026-06-03 15:03:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【高效能碳纖維技術研發獲重大突破 相關概念股一季度業績報喜】今年以來，我國在高效能碳纖維領域持續取得突破。3月，我國自主研發的T1200級超高強度碳纖維正式全球首發；6月，上海石化攻克T1000級高效能碳纖維關鍵技術，實現批次化生產。據證券時報·資料寶統計，A股中碳纖維概念股共有26只，今年以來平均上漲11.32%，遠東股份漲幅居首，達到214.04%，博雲新材、光大同創、中復神鷹年內漲幅均超過40%。按業績來看，今年一季度碳纖維概念股盈利能力普遍增強，14股歸母淨利潤實現同比增長，3股同比減虧，中復神鷹扭虧為盈。"
-    },
-    {
-      "id": "4914470",
-      "time": "2026-06-03 15:03:01",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【經合組織將2026年全球經濟增速預期下調至2.8%】經濟合作與發展組織（經合組織）3日釋出最新經濟展望報告，預計2026年全球經濟增速為2.8％，較今年3月預測值下調0.1個百分點；2027年全球經濟增速將回升至3.1％，較3月預測值上調0.1個百分點。（新華社）"
-    },
-    {
-      "id": "mkt:019e8c4b-04d0-7ee2-b142-e7f90f36f2c1",
-      "time": "2026-06-03 15:03:00",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "OECD says if economic turbulence persists it expects central banks to raise policy rates by 50–75bps."
-    },
-    {
-      "id": "mkt:019e8c4a-d432-7ee2-b142-df7393608be2",
-      "time": "2026-06-03 15:02:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "OECD says central banks may pause quantitative tightening and could even resume quantitative easing."
-    },
-    {
-      "id": "mkt:019e8c4a-c000-7ee2-b142-d2b995a124ef",
-      "time": "2026-06-03 15:02:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Myanmar foreign minister Ding Maorui to visit China】Myanmar foreign minister Ding Maorui will make an official visit to China from June 4 to 6 at the invitation of CHINA FOREIGN MINISTER Wang Yi, the foreign ministry spokesperson said."
-    },
-    {
-      "id": "mkt:019e8c4a-a9c8-7ee2-b142-c911d3e19d58",
-      "time": "2026-06-03 15:02:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "OECD estimates that if Middle East unrest persists, global economic growth in 2026 would slow to 2.1%."
-    },
-    {
-      "id": "4914469",
-      "time": "2026-06-03 15:02:40",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "經合組織：如果中東地區動盪持續，預計2026年全球經濟增速將降至2.1%。央行可能會暫停量化緊縮，甚至可能恢復量化寬鬆。如果經濟動盪持續，預計各國央行將加息50至75個基點。"
-    },
-    {
-      "id": "4914468",
-      "time": "2026-06-03 15:02:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車：儘管面臨各類外部挑戰，我們仍憑藉電氣化戰略持續實現歐洲市場增長。"
-    },
-    {
-      "id": "mkt:019e8c4a-75ba-7ee2-b142-c32a58bc6719",
-      "time": "2026-06-03 15:02:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite Index closed up 8.87 points, or 0.22%, at 4,083.97 on Wednesday, June 3. Shenzhen Composite Index closed up 113.58 points, or 0.73%, at 15,704.71. CSI 300 Index closed up 24.25 points, or 0.49%, at 4,938.81. ChiNext Index closed up 67.12 points, or 1.65%, at 4,122.99. China STAR 50 Index closed up 35.62 points, or 2.11%, at 1,726.18."
-    },
-    {
-      "id": "mkt:019e8c4a-747b-7ee2-b142-bec88756aec2",
-      "time": "2026-06-03 15:02:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OECD says prolonged disruptions could weaken investment in artificial intelligence."
-    },
-    {
-      "id": "mkt:019e8c4a-5b72-7ee2-b142-b4c72898b4aa",
-      "time": "2026-06-03 15:02:17",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "OECD lowers Japan GDP growth forecasts to 0.6% for 2026 (previously 0.9%) and 0.8% for 2028 (previously 0.9%)."
-    },
-    {
-      "id": "mkt:019e8c4a-4bfc-7ee2-b142-a96ad593a223",
-      "time": "2026-06-03 15:02:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China A-share turnover CNY3.13 trln; Zhongji Xuchuang tops list】China A-share turnover (Shanghai and Shenzhen) totaled CNY3.13 trillion on June 3, up CNY337.3 billion from the previous session. Shanghai turnover was CNY1.43 trillion with volume of 668 million lots; Shenzhen turnover was CNY1.70 trillion with volume of 793 million lots. Zhongji Xuchuang led single-stock turnover at CNY43.88 billion, followed by Xinyisheng CNY33.71 billion, FOXCONN INDUSTRIAL CNY31.59 billion, Tianfu Communication CNY30.16 billion and Zhaoyi Innovation CNY28.84 billion."
-    },
-    {
-      "id": "4914467",
-      "time": "2026-06-03 15:02:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【緬甸外交部長丁貌瑞將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，緬甸外交部長丁貌瑞將於6月4日至6日對中國進行正式訪問。（外交部）"
-    },
-    {
-      "id": "4914466",
-      "time": "2026-06-03 15:02:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車（VOLCARb.ST）：在美國，行業整體與沃爾沃汽車均已出現復甦苗頭，這一點已在交付量的逐步回升中得到體現。"
-    },
-    {
-      "id": "mkt:019e8c4a-2302-7ee2-b142-9bc1f6e8177d",
-      "time": "2026-06-03 15:02:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the midday close, China's most-active futures contracts were mixed. Rapeseed oil rose over 3%; low-sulfur fuel oil (LU) and propylene gained more than 2%. Live hogs, LPG, PTA, logs, benzene, paraxylene (PX) and apples advanced around 2%. On the downside, lithium carbonate fell over 4% and polysilicon dropped more than 3%; alumina, red dates, asphalt and Shanghai nickel (SHFE) declined over 1%."
-    },
-    {
-      "id": "mkt:019e8c4a-4a0f-7ee2-b142-a759f6017181",
-      "time": "2026-06-03 15:02:06",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Equity index futures midday close】CSI 300 index futures (IF) most-active contract +0.62%; SSE 50 index futures (IH) most-active contract +0.10%; CSI 500 index futures (IC) most-active contract +0.50%; CSI 1000 index futures (IM) most-active contract +0.36%."
-    },
-    {
-      "id": "4914465",
-      "time": "2026-06-03 15:02:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾進一步走貶，兌美元跌至17950印尼盾兌1美元的歷史低點。"
-    },
-    {
-      "id": "mkt:019e8c49-defc-7ee2-b142-91a3017c8131",
-      "time": "2026-06-03 15:01:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "OECD projects US GDP growth at 2.0% in 2026 (unchanged from its prior forecast) and 1.8% in 2027, revised up from 1.7%."
-    },
-    {
-      "id": "4914464",
-      "time": "2026-06-03 15:01:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF兩市成交額4921.55億元】截至收盤，ETF兩市成交額報4921.55億元，分型別來看，股票型ETF成交額1762億元，債券型ETF成交額2004.50億元，貨幣型ETF成交額290.94億元，商品型ETF成交額72.51億元，QDII型ETF成交額494.49億元。其中，成交額最高的非貨幣型ETF分別是科創50ETF（588000）、創業板ETF（159915）、科創晶片ETF（588200），成交額分別為：75.13億元、68.38億元、67.98億元。"
-    },
-    {
-      "id": "4914463",
-      "time": "2026-06-03 15:01:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【跨境電商保稅進口假冒雅詩蘭黛產品被法院判賠110萬元】近日，廣東省深圳市福田區人民法院就雅詩蘭黛（上海）商貿有限公司訴某管理有限公司侵害商標權糾紛案作出一審判決。判決書披露，被告因進出口假冒“ESTEE LAUDER”“LAMER”等品牌化妝品，被判賠償經濟損失及合理開支共計110萬元，並需在法院監督或原告見證下銷燬涉案進口侵權商品。"
-    },
-    {
-      "id": "4914462",
-      "time": "2026-06-03 15:01:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車3-5月純電動汽車銷量同比增長10%。"
-    },
-    {
-      "id": "mkt:019e8c49-8b7b-7ee2-b142-8e7df5347f23",
-      "time": "2026-06-03 15:01:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PBOC Deputy Governor Zou Lan Attends SCO Finance Ministers and Central Bank Governors Meeting】On May 29, 2026, PBOC Deputy Governor Zou Lan attended the Shanghai Cooperation Organization finance ministers and central bank governors meeting in Bishkek, Kyrgyzstan, discussing SCO fiscal and financial cooperation, the monetary policy outlook and financial stability risks. Zou met Kyrgyz central bank Deputy Governor Azat Aibekovich Kozhubekov to exchange views on deepening bilateral cooperation."
-    },
-    {
-      "id": "4914461",
-      "time": "2026-06-03 15:01:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【中國人民銀行副行長鄒瀾出席上海合作組織成員國財長和央行行長會議】2026年5月29日，中國人民銀行副行長鄒瀾出席在吉爾吉斯斯坦比什凱克召開的上海合作組織成員國財長和央行行長會議，與各方就上海合作組織成員國財金合作、貨幣政策形勢及金融穩定風險等議題進行討論。會議期間，鄒瀾副行長會見了吉爾吉斯斯坦央行副行長阿扎特·艾別科維奇·科祖別科夫，就深化雙方合作交換了意見。（中國人民銀行）"
-    },
-    {
-      "id": "mkt:019e8c49-619a-7ee2-b142-868619b5baac",
-      "time": "2026-06-03 15:01:19",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "OECD forecasts euro area GDP growth of 0.8% in 2026 and 1.2% in 2027, unchanged from its prior projections."
-    },
-    {
-      "id": "4914460",
-      "time": "2026-06-03 15:01:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽微微電：已研發出系列超低功耗電源方案】6月3日，在第十六屆松山湖中國IC創新高峰論壇上，賽微微電高階產品經理楊劍介紹，鋰電池保護IC具有三種不同解決方案，公司基於單晶圓整合IC方案，已經研發出系列超低功耗電源方案，適用於AI可穿戴裝置。其中，最新推出的CW1312系列整合MOS的單節鋰電池保護晶片，比上一代產品面積減少64%，功耗降低75%。"
-    },
-    {
-      "id": "mkt:019e8c49-59c2-7ee2-b142-784bf9affb8b",
-      "time": "2026-06-03 15:01:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "UBER.N"
-      ],
-      "text": "【Uber caps employee AI usage to curb rising AI costs】Uber (UBER.N) imposed internal limits on employee AI use to curb escalating AI spending, capping AI call costs at $1,500 per employee per code-oriented AI tool per month (examples: Anthropic’s ClaudeCode, Cursor). Employees can track consumption on an internal dashboard; exceptions require approval. The measure follows prior internal encouragement of heavy AI use and an internal leaderboard; Uber’s CTO said in April the company exhausted its annual AI budget within four months."
-    },
-    {
-      "id": "4914459",
-      "time": "2026-06-03 15:01:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車3-5月銷量同比增長10%。"
-    },
-    {
-      "id": "mkt:019e8c49-24c5-7ee2-b142-75704c37a34f",
-      "time": "2026-06-03 15:01:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "OECD projects global GDP growth of 2.8% in 2026 (previously 2.9%) and 3.1% in 2027 (previously 3.0%)."
-    },
-    {
-      "id": "4914458",
-      "time": "2026-06-03 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.22%，深證成指漲0.73%，創業板指漲1.65%。"
-    },
-    {
-      "id": "4914457",
-      "time": "2026-06-03 15:01:00",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：科創50指數衝高回落漲2.11% 算力硬體股維持強勢】A股三大指數今日集體上漲，截至收盤，上證指數漲0.22%，深證成指漲0.73%，創業板指漲1.65%，北證50跌0.48%，科創50指數漲2.11%。全市場成交額31531億元，較上日成交額放量3403億元，全市場超3700支個股下跌。板塊題材上，培育鑽石、煤炭開採加工、光纖概念、油氣開採及服務、銅纜高速連線板塊漲幅居前；教育、影視院線、機場航運、文化傳媒、AI語料板塊跌幅居前。盤面上，培育鑽石板塊高開高走，惠豐鑽石漲超15%，恆盛能源漲停，楚江新材、黃河旋風、四方達跟漲。煤炭開採加工板塊午後大幅拉昇，鄭州煤電、大有能源收穫漲停，晉控煤業、潞安環能、華電能源漲幅居前。油氣開採及服務板塊午後亦持續拉昇，科力股份盤中漲超22%，通源石油、潛能恆信、中曼石油紛紛上揚。影視院線板塊全天低迷，中廣天擇跌停，北京文化、百納千成、上海電影跌幅居前。AI語料板塊震盪走低，天娛數科、世紀天鴻、達夢資料領跌板塊。"
-    },
-    {
-      "id": "4914456",
-      "time": "2026-06-03 15:00:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "經合組織：預計2026年非經合組織國家GDP同比增長3.8%；2027年同比增長4.2%。"
     }
   ]
 }
