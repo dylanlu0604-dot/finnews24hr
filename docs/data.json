@@ -1,7 +1,421 @@
 {
-  "updated": "2026-06-10 20:28:41",
-  "count": 18489,
+  "updated": "2026-06-10 20:32:50",
+  "count": 18514,
   "items": [
+    {
+      "id": "4928388",
+      "time": "2026-06-10 20:31:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在通脹資料釋出後上漲，因交易員縮減對美聯儲加息的押注。"
+    },
+    {
+      "id": "mkt:019eb184-73f3-7dd8-afa0-c057daec690b",
+      "time": "2026-06-10 20:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver rallied more than $1.50 intraday to $64.90/oz."
+    },
+    {
+      "id": "4928387",
+      "time": "2026-06-10 20:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西省應急管理廳副廳長張和平接受審查調查】據山西省紀委監委訊息：山西省應急管理廳副廳長張和平涉嫌嚴重違紀違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019eb184-4ed0-7dd8-afa0-ba144dca309b",
+      "time": "2026-06-10 20:31:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US May seasonally adjusted core CPI rose 0.2% MoM, below the median market forecast of 0.3% and down from April's 0.4%."
+    },
+    {
+      "id": "mkt:019eb184-08ae-7dd8-afa0-b30c28bf29eb",
+      "time": "2026-06-10 20:31:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US monthly CPI edges down, meets expectations】US seasonally adjusted May CPI rose 0.5% MoM, in line with expectations; April was +0.6%."
+    },
+    {
+      "id": "mkt:019eb183-d1f5-7dd8-afa0-add33b8e4e53",
+      "time": "2026-06-10 20:31:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rallied about $20 shortly after the CPI release, trading at $4,166.85/oz."
+    },
+    {
+      "id": "mkt:019eb183-a4a5-7dd8-afa0-a35bb15667e0",
+      "time": "2026-06-10 20:30:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US May unadjusted shelter inflation YoY 3.4%, prior 3.3%."
+    },
+    {
+      "id": "mkt:019eb183-a2b6-7dd8-afa0-9a4d51a39fe1",
+      "time": "2026-06-10 20:30:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【US May core CPI YoY edges up, in line with expectations】US May unadjusted core CPI YoY 2.9%, matching market expectations and the highest since Sep 2025."
+    },
+    {
+      "id": "4928386",
+      "time": "2026-06-10 20:30:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團與TAE科技公司提供合併進展更新。"
+    },
+    {
+      "id": "mkt:019eb183-9375-7dd8-afa0-967acb1b171e",
+      "time": "2026-06-10 20:30:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. May not seasonally adjusted used cars and trucks inflation YoY -2%, prior -2.7%."
+    },
+    {
+      "id": "mkt:019eb183-8a78-7dd8-afa0-8aae794effdd",
+      "time": "2026-06-10 20:30:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Shelter Inflation Rate (YoY) (May) | actual 3.4% | previous 3.3%"
+    },
+    {
+      "id": "mkt:019eb183-8882-7dd8-afa0-8421f012cad9",
+      "time": "2026-06-10 20:30:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US unadjusted new-vehicle inf, May YoY 0.2% (prev. 0.2%)."
+    },
+    {
+      "id": "mkt:019eb183-768f-7dd8-afa0-7ff5533ff7c5",
+      "time": "2026-06-10 20:30:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Used Car and Truck Inflation Rate (YoY) (May) | actual -2% | previous -2.7%"
+    },
+    {
+      "id": "4928385",
+      "time": "2026-06-10 20:30:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1242.59美元/盎司。"
+    },
+    {
+      "id": "4928384",
+      "time": "2026-06-10 20:30:39",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "CPI資料公佈後，標普500指數期貨和納斯達克100指數期貨跌幅收窄。"
+    },
+    {
+      "id": "mkt:019eb183-65be-7dd8-afa0-75bf5629961b",
+      "time": "2026-06-10 20:30:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | New Vehicle Inflation Rate (YoY) (May) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:019eb183-5f1a-7dd8-afa0-69e2bdf35bf4",
+      "time": "2026-06-10 20:30:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. seasonally unadjusted energy inf YoY (May) 23.5% vs 17.9% prior."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606103766897790",
+      "time": "2026-06-10 20:30:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月消費者價格指數（CPI）同比增長4.2%，預估為4.2%，前值為3.8%。"
+    },
+    {
+      "id": "mkt:019eb183-4372-7dd8-afa0-612eecb86a76",
+      "time": "2026-06-10 20:30:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US May CPI YoY returns to 4% range at 4.2%】US not-seasonally-adjusted May CPI YoY 4.2%, in line with expectations and the highest reading since April 2023."
+    },
+    {
+      "id": "mkt:019eb183-3ff2-7dd8-afa0-5a6629677e19",
+      "time": "2026-06-10 20:30:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. unadjusted food inflation, May YoY 3.1% (prev. 3.2%)."
+    },
+    {
+      "id": "mkt:019eb183-3a69-7dd8-afa0-53b66c754baa",
+      "time": "2026-06-10 20:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Energy Inflation Rate (YoY) (May) | actual 23.5% | previous 17.9%"
+    },
+    {
+      "id": "mkt:019eb183-2d62-7dd8-afa0-4a953abd89fe",
+      "time": "2026-06-10 20:30:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. May core CPI (not seasonally adjusted) +2.9% YoY vs. consensus 2.9%, prior 2.8%."
+    },
+    {
+      "id": "mkt:019eb183-2d4c-7dd8-afa0-40628d73f6a6",
+      "time": "2026-06-10 20:30:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US May CPI, not seasonally adjusted, rose 4.2% YoY, matching expectations of 4.2% and up from April's 3.8%."
+    },
+    {
+      "id": "mkt:019eb183-2488-7dd8-afa0-3c121b74df84",
+      "time": "2026-06-10 20:30:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US May seasonally adjusted core CPI rose 0.2% MoM, versus 0.3% expected and 0.4% prior."
+    },
+    {
+      "id": "mkt:019eb183-2364-7dd8-afa0-3234a8f7c16f",
+      "time": "2026-06-10 20:30:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US unadjusted CPI index for May 335.123, consensus 335.114, prior 333.02."
+    },
+    {
+      "id": "mkt:019eb183-228e-7dd8-afa0-29cba2276fcb",
+      "time": "2026-06-10 20:30:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US real personal income, May m/m -0.2%; prior -0.2%."
+    },
+    {
+      "id": "mkt:019eb183-228d-7dd8-afa0-253f8a730ce2",
+      "time": "2026-06-10 20:30:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US seasonally adjusted CPI rose 0.5% MoM in May, matching the 0.50% consensus; April was 0.60%."
+    },
+    {
+      "id": "mkt:019eb183-186a-7dd8-afa0-1f10ac68f869",
+      "time": "2026-06-10 20:30:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Food Inflation Rate (YoY) (May) | actual 3.1% | previous 3.2%"
+    },
+    {
+      "id": "4928383",
+      "time": "2026-06-10 20:30:18",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國CPI年率繼續走高 重回“4字頭”】美國5月未季調CPI年率錄得4.2%，符合市場預期，創2023年4月以來新高。\n美國5月季調後核心CPI月率 0.2%，預期0.30%，前值0.40%。\n美國5月季調後CPI月率 0.5%，預期0.50%，前值0.60%。\n美國5月未季調CPI年率 4.2%，預期4.20%，前值3.80%。"
+    },
+    {
+      "id": "mkt:019eb182-db0b-7dd8-afa0-15489947b6b3",
+      "time": "2026-06-10 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (May) | actual 335.123 | consensus 335.114 | previous 333.02"
+    },
+    {
+      "id": "mkt:019eb182-dad4-7dd8-afa0-0e66a9ed8ba2",
+      "time": "2026-06-10 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI excluding Food and Energy (YoY) (May) | actual 2.9% | consensus 2.90% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019eb182-da30-7dd8-afa0-061f56c78695",
+      "time": "2026-06-10 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (YoY) (May) | actual 4.2% | consensus 4.20% | previous 3.80%"
+    },
+    {
+      "id": "mkt:019eb182-d8de-7dd8-af9f-f84d9b98b1e9",
+      "time": "2026-06-10 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI excluding Food and Energy (MoM) (May) | actual 0.2% | consensus 0.30% | previous 0.40%"
+    },
+    {
+      "id": "mkt:019eb182-d7c7-7dd8-af9f-f22ba856910b",
+      "time": "2026-06-10 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (MoM) (May) | actual 0.5% | consensus 0.50% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019eb182-d6e6-7dd8-af9f-eb14f997c145",
+      "time": "2026-06-10 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Real Earnings All Private Workers (MoM) (May) | actual -0.2% | previous -0.2%"
+    },
+    {
+      "id": "4928382",
+      "time": "2026-06-10 20:29:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST金剛：公司股票撤銷“雙警示” 6月12日起復牌】*ST金剛公告稱，公司股票於2026年6月11日停牌一天，6月12日開市起復牌。自6月12日開市起，撤銷“退市風險警示”“其他風險警示”，股票簡稱由“*ST金剛”變更為“金剛光伏”，證券程式碼仍為“300093”，日漲跌幅限制仍為20%。2025年度，公司經審計的淨資產為20.06億元，扣除後營業收入為2.89億元，利潤總額為2.16億元，淨利潤2.03億元，扣非淨利潤為-5.71億元。"
+    },
+    {
+      "id": "4928380",
+      "time": "2026-06-10 20:28:32",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【知情人士：SpaceX IPO獲中東基金數十億美元認購】多位知情人士透露，海灣主權財富基金已大手筆認購SpaceX IPO股份，總額達數十億美元，這也再度印證中東希望持續主導全球人工智慧產業資金供給的宏大布局。 訊息人士稱，沙特公共投資基金（PIF）、科威特投資局（KIA）分別遞交了10億—50億美元的認購單；管理5800億美元資產的卡達投資局（QIA）大機率也會大手筆參投。 知情人士表示，中東本土機構本就是馬斯克這家火箭、衛星、AI企業的重要股東；按照公司1.8萬億美元的目標估值，這些持倉賬面浮盈豐厚。目前暫不清楚各大基金此番新增認購中，有多少資金是用來對沖上市後的股權稀釋。 不止中東，全球各大機構都在爭搶份額，整體認購需求已經超額。彭博此前報道，部分機構申報認購金額超100億美元，不過最終實際配售額度大機率會縮水。 沙特公共投資基金、卡達投資局發言人拒絕置評，科威特投資局尚未回應採訪問詢。（環球市場播報）"
+    },
+    {
+      "id": "4928379",
+      "time": "2026-06-10 20:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026上海國際碳中和博覽會開幕，龔正包鋼劉振民出席並致辭】以“零碳變革，要素賦能”為主題的2026上海國際碳中和技術、產品與成果博覽會今天（6月10日）在上海新國際博覽中心開幕。上海市委副書記、市長龔正，內蒙古自治區黨委副書記、主席包鋼，中國氣候變化事務特使劉振民出席開幕式並致辭。龔正在致辭中指出，綠色低碳轉型是時代潮流、大勢所趨，是厚植高質量發展綠色底色的內在要求。上海將全面貫徹落實習近平生態文明思想，以碳達峰碳中和為牽引，協同推進降碳、減汙、擴綠、增長，加快形成綠色生產方式和生活方式，推動經濟社會發展全面綠色低碳轉型。上海國際碳博會自2023年舉辦以來，已成為展示綠色低碳轉型成果、促進綠色低碳交流的重要平臺。我們願與各方一道，共赴綠色之約、共創美好未來，攜手共建清潔、美麗、可持續的世界。（上海釋出）"
+    },
     {
       "id": "mkt:019eb180-d310-7dd8-af9f-e73fb385506d",
       "time": "2026-06-10 20:27:50",
@@ -183,6 +597,14 @@
         "DXY"
       ],
       "text": "【Fox: US-Iran talks ongoing; Trump to keep up maximum pressure】Fox News reported a senior White House official said negotiations with Iran remain ongoing after President Trump's social-media comments. The White House said the US responded to an Apache helicopter attack, and Trump will continue to apply maximum pressure to secure an agreement."
+    },
+    {
+      "id": "4928365",
+      "time": "2026-06-10 20:20:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全島封關以來 海南海關備案外貿企業總數突破10萬家】6月10日上午，海南省宣傳部召開《中華人民共和國海南自由貿易港法》頒佈實施五週年新聞釋出會。在會上，海南省委深改辦相關負責人介紹，海南自由貿易港法頒佈實施五年來，為海南自由貿易港建設行穩致遠、全島封關運作正式啟動、封關運作後平穩有序執行提供了堅實法律依據和制度保障，確保了海南自由貿易港改革創新於法有據、方向正確。新增外資企業1016戶，同比增長35.5%。海關備案外貿企業總數歷史性突破10萬家。離島免稅銷售金額184.3億元，同比增長23.2%；島內居民日消品“零關稅”政策落地，居民和旅客享惠可感可及。西門子能源、博鰲富隆國際醫院等一批外資企業專案落地，越來越多企業搶抓機遇、紮根海南。（央視新聞）"
     },
     {
       "id": "mkt:019eb179-c3ef-7dd8-af9f-b4c2c659c67d",
@@ -170386,131 +170808,6 @@
         "DXY"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps said satellite imagery confirms an aircraft shelter at Kuwait's Ali Al Salem Air Base was destroyed after Iran launched missile and drone strikes on the base earlier today. US CENTCOM said the attacks were intercepted."
-    },
-    {
-      "id": "4915394",
-      "time": "2026-06-03 20:32:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "全球基金6月3日淨賣出562億印度盧比的印度股票。"
-    },
-    {
-      "id": "4915393",
-      "time": "2026-06-03 20:31:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "Kraken：即將允許全球散戶投資者以IPO價格參與美國上市新股的首次公開發行申購。"
-    },
-    {
-      "id": "mkt:019e8d78-0acf-7ccb-b659-699c7a936b8e",
-      "time": "2026-06-03 20:31:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【U.S. to adjust contribution model to NATO forces, EUCOM says】U.S. European Command posted on social media on the 3rd that PENTAGON officials informed allies the U.S. will, in line with the 2026 defense strategy and the PENTAGON’s NATO 3.0 vision, make a reasonable adjustment to its contribution model for NATO forces."
-    },
-    {
-      "id": "4915392",
-      "time": "2026-06-03 20:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永冠新材：擬向特定物件發行股票募資不超9.27億元 用於電子級玻璃纖維布建設專案及流動補充資金】永冠新材公告，公司2026年度擬向特定物件發行股票募集資金不超過9.45億元，扣除1800萬元財務性投資後，募集資金總額將調整為不超過9.27億元。募集資金將用於年產2000噸電子級玻璃纖維布建設專案、年產16500噸線束膠帶建設專案、智慧製造數智化技術升級專案及補充流動資金。本次發行股票數量不超過7132.25萬股，發行價格不低於定價基準日前20個交易日公司股票交易均價的80%。"
-    },
-    {
-      "id": "4915391",
-      "time": "2026-06-03 20:31:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【ADP公佈後，美聯儲6月維持利率不變的機率基本不變】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.3%（資料公佈前為98.4%），累計降息25個基點的機率為1.7%。美聯儲到7月維持利率不變的機率為88%，累計加息25個基點的機率10.5%，累計降息25個基點的機率為1.5%。"
-    },
-    {
-      "id": "4915390",
-      "time": "2026-06-03 20:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "格芯以產業合作伙伴身份加入美國能源部GENESIS MISSION。"
-    },
-    {
-      "id": "4915389",
-      "time": "2026-06-03 20:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍歐洲司令部3日在社交媒體發文稱，美國國防部官員通知盟友，美國將根據2026年國防戰略以及國防部對“北約3.0”的願景，就美國“對北約部隊模式的貢獻進行合理調整”。（新華社）"
-    },
-    {
-      "id": "4915388",
-      "time": "2026-06-03 20:30:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Kpler從第六街資本獲超 10 億美元融資。"
-    },
-    {
-      "id": "mkt:019e8d76-ace4-7ccb-b659-63102c78b237",
-      "time": "2026-06-03 20:30:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada Q1 labour productivity -0.5% q/q; prior -0.1%."
-    },
-    {
-      "id": "4915387",
-      "time": "2026-06-03 20:30:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大一季度勞動生產率季度環比 -0.5%，預期 0.3%，前值 -0.1%。"
-    },
-    {
-      "id": "mkt:019e8d76-70a4-7ccb-b659-5d4de25a0074",
-      "time": "2026-06-03 20:30:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Labor Productivity SA (QoQ) (Q1) | actual -0.5% | previous -0.10%"
-    },
-    {
-      "id": "4915386",
-      "time": "2026-06-03 20:29:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯天然氣工業股份公司總裁米勒於聖彼得堡會見法國開發署負責人弗羅恩邁爾。"
-    },
-    {
-      "id": "4915385",
-      "time": "2026-06-03 20:29:40",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國兩大自動駕駛企業納入港股通】6月3日訊息，中國兩大自動駕駛科技公司小馬智行、文遠知行WeRide宣佈，正式被納入港股通標的證券名單，該調整將於6月4日正式生效。納入港股通後，符合條件的內地投資者可透過港股通機制買賣文遠知行在香港聯交所交易的股票。內地資金首迎L4自動駕駛標的。"
-    },
-    {
-      "id": "mkt:019e8d75-a023-7ccb-b659-515c2b4e20b7",
-      "time": "2026-06-03 20:29:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "According to Swedish media, a Swedish union announced it is cancelling planned strikes at other Tesla sites."
     }
   ]
 }
