@@ -1,7 +1,219 @@
 {
-  "updated": "2026-06-10 23:53:21",
-  "count": 18372,
+  "updated": "2026-06-10 23:57:23",
+  "count": 18391,
   "items": [
+    {
+      "id": "mkt:019eb240-10cb-7dd8-afa8-64cc0c4e1872",
+      "time": "2026-06-10 23:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he does not intend to renew the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "mkt:019eb23f-faa7-7dd8-afa8-59f6bed45cda",
+      "time": "2026-06-10 23:56:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump praised Turkish President Erdogan."
+    },
+    {
+      "id": "mkt:019eb23f-c655-7dd8-afa8-551d99804bf1",
+      "time": "2026-06-10 23:56:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said he will meet AI industry leaders to discuss corporate giving. He said he expects executives to return gains to the public and that AI will make the public very wealthy."
+    },
+    {
+      "id": "4928756",
+      "time": "2026-06-10 23:55:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我希望世界迎來和平。"
+    },
+    {
+      "id": "4928755",
+      "time": "2026-06-10 23:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 伊朗不得擁有核武器，也絕不會擁有核武器，他們已然就此達成共識。 現在他們只需簽署協議即可，相關事宜已全部磋商完畢。"
+    },
+    {
+      "id": "te:markets:558126",
+      "time": "2026-06-10 23:55:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Milk Hits 10-week Low — Milk decreased to 16.01 USD/CWT, the lowest since March 2026. Over the past 4 weeks, Milk lost 5.7%, and in the last 12 months, it decreased 14.68%."
+    },
+    {
+      "id": "mkt:019eb23f-092f-7dd8-afa8-4a2d73cdeb1c",
+      "time": "2026-06-10 23:55:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said he will soon meet with executives from 12 leading artificial intelligence companies."
+    },
+    {
+      "id": "4928754",
+      "time": "2026-06-10 23:55:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚土耳其總統埃爾多安。"
+    },
+    {
+      "id": "te:markets:558125",
+      "time": "2026-06-10 23:55:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Slip Ahead of ECB — European stocks ended lower on Wednesday, with the STOXX 50 declining 0.4% and the STOXX 600 remaining flat, as investors adopted a cautious stance amid renewed Middle East tensions following US-Iran strikes and ahead of the ECB’s monetary policy decision on Thursday. The ECB is widely expected to raise interest rates by 25 basis points, with investors closely monitoring policymakers’ signals on the future path of monetary policy. In the US, the May CPI report confirmed inflation reached a three-year high of 4.2%, matching expectations and reinforcing bets on a Federal Reserve rate hike in December. Meanwhile, UK lenders extended losses from the previous session after a JP Morgan note warned of a potentially greater impact from new Chinese regulations. STMicroelectronics also closed slightly lower, despite an upgrade to \"buy\" from \"neutral\" by BofA Global Research."
+    },
+    {
+      "id": "4928753",
+      "time": "2026-06-10 23:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：公眾將因人工智慧行動而變得非常富有。"
+    },
+    {
+      "id": "4928752",
+      "time": "2026-06-10 23:54:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：認為人工智慧行業高管將回饋公眾。"
+    },
+    {
+      "id": "mkt:019eb23e-429f-7dd8-afa8-42a78e38c8ef",
+      "time": "2026-06-10 23:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. stocks extended losses: Nasdaq fell nearly 1.5%, the Dow dropped 1.2% and the S&P 500 declined 0.94%. Trump said he would resume strikes on Iran."
+    },
+    {
+      "id": "4928751",
+      "time": "2026-06-10 23:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗要做的就是開始簽署協議。"
+    },
+    {
+      "id": "4928750",
+      "time": "2026-06-10 23:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧企業持股問題：短期內將與15家頂尖企業高管會晤。"
+    },
+    {
+      "id": "4928749",
+      "time": "2026-06-10 23:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正與人工智慧行業相關人士舉行會談。"
+    },
+    {
+      "id": "4928748",
+      "time": "2026-06-10 23:53:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：一切均已協商完畢。"
+    },
+    {
+      "id": "mkt:019eb23d-1a3c-7dd8-afa8-3dca66f050cc",
+      "time": "2026-06-10 23:53:29",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said they have agreed not to possess nuclear weapons; only signing the documents remains."
+    },
+    {
+      "id": "mkt:019eb23c-d99e-7dd8-afa8-353cfb87e209",
+      "time": "2026-06-10 23:53:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump declined to say whether he would destroy Iran's bridges and power plants."
+    },
+    {
+      "id": "4928747",
+      "time": "2026-06-10 23:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊朗已同意不發展核武器，他們只需簽署協議文字即可。"
+    },
+    {
+      "id": "4928746",
+      "time": "2026-06-10 23:52:51",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普講話後，納斯達克100指數跌幅擴大至盤中低點1.6%。"
+    },
+    {
+      "id": "4928745",
+      "time": "2026-06-10 23:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我不會透露是否會炸掉伊朗的橋樑和發電廠。"
+    },
+    {
+      "id": "4928744",
+      "time": "2026-06-10 23:52:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油和布倫特原油期貨延續漲勢，此前特朗普表示今天將再次嚴厲打擊伊朗；布倫特原油最新上漲2.7%，WTI原油上漲3.5%。"
+    },
     {
       "id": "4928743",
       "time": "2026-06-10 23:52:15",
@@ -169331,36 +169543,6 @@
         "國際"
       ],
       "text": "【中國駐菲律賓大使館：再次提醒在菲律賓中國公民和企業加強安全防範】近段時間，菲律賓軍隊和執法部門針對在菲中國公民和企業的盤查滋擾以及選擇性執法頻發，在菲中國公民和企業面臨的安全風險上升。駐菲律賓使領館再次提醒在菲中國公民和企業密切關注當地形勢，切實加強安全防範，嚴格遵守當地法律法規，合法從業，合規經營，不從事與入境目的或簽證種類不符的活動，並避免逾期居留。如遇緊急情況，請及時聯絡使領館。（中國駐菲律賓大使館微信公眾號）"
-    },
-    {
-      "id": "te:markets:556224",
-      "time": "2026-06-03 23:57:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls on Tariff Threats and Middle East Tensions — The CAC 40 fell 0.7% to close at 8,150 on Wednesday, tracking broader European losses as investors weighed uncertainty surrounding the US-Iran conflict and fresh US tariff threats. The US Trade Representative proposed additional duties of up to 12.5% on imports from 60 trading partners, including the EU. Meanwhile, hostilities in the Gulf intensified after Iranian attacks on Kuwait damaged the country's airport and injured dozens, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs as bond yields increased. Financials weakened, with BNP Paribas down 1.3% and AXA losing 1.9%. Luxury shares also came under pressure, with LVMH shedding 3% and L'Oréal falling 2.2%. Airbus lost 2%, Safran retreated 1.4%, and Stellantis dropped 4% despite announcing new investments in France."
-    },
-    {
-      "id": "mkt:019e8e33-7672-7443-8fdf-71ccaa78f1b0",
-      "time": "2026-06-03 23:56:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. has all the ingredients for a very strong economy."
-    },
-    {
-      "id": "4915773",
-      "time": "2026-06-03 23:56:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：經濟具備實現強勁增長的全部有利條件。"
     }
   ]
 }
