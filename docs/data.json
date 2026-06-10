@@ -1,7 +1,163 @@
 {
-  "updated": "2026-06-10 20:43:03",
-  "count": 18525,
+  "updated": "2026-06-10 20:47:26",
+  "count": 18528,
   "items": [
+    {
+      "id": "4928414",
+      "time": "2026-06-10 20:46:14",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普媒體科技：暫不推進Truth Social等資產分拆計劃】特朗普媒體科技集團與TAE科技公司（簡稱“TAE”）今日公告稱，雙方仍全力推進此前公佈的合併交易，力爭在2026年第四季度或更早完成交割。 另外，雙方曾於2026年2月27日披露，TMTG、TAE與德州風投收購三期公司一直在商討分拆方案：計劃將TMTG旗下部分媒體資產（含真相社交平臺Truth Social）剝離，組建一家全新上市公司，並在TAE合併交割完成後，由這家新公司與德州風投三期合併。經深度評估後，各方決定現階段不再推進該分拆計劃。 TAE合併交易交割完畢後，合併主體的董事會將評估集團原有各業務板塊（包含但不限於TMTG媒體資產）的各類戰略最佳化方案，以提升股東價值。"
+    },
+    {
+      "id": "4928413",
+      "time": "2026-06-10 20:44:00",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "“美聯儲傳聲筒”Nick Timiraos：核心CPI在5月份上漲了0.21%，非常接近預測值，這使得12個月的衡量指標上升至2.9%。 這是自2022年12月以來，12個月核心CPI讀數首次高於前一年同期的讀數。"
+    },
+    {
+      "id": "mkt:019eb18f-7360-7dd8-afa1-4f2ad1939dfa",
+      "time": "2026-06-10 20:43:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "TIMIRAOS: May core CPI rose 0.21% MoM, roughly in line with expectations, lifting 12-month core CPI to 2.9%."
+    },
+    {
+      "id": "mkt:019eb18f-608c-7dd8-afa1-45603e5d5313",
+      "time": "2026-06-10 20:43:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Energy-driven US inflation hits three-year high; core CPI unexpectedly cools】BLS data show US headline CPI rose 4.2% YoY in May, the largest increase since early 2023, driven by higher energy prices linked to the Iran-related conflict. Core CPI (ex food and energy) rose 0.2% MoM (market est. 0.3%) and 2.9% YoY. The report shows offsets in items including transportation services, health insurance and new-vehicle prices. Economists warn headline pressures could persist and further upside in consumer prices would keep rate-hike options on the Fed’s table. Even if the conflict eases quickly, oil supply normalization may lag, sustaining cost pressures; fertilizer market disruptions risk lifting grocery prices over time and higher transport costs would push up consumer goods inflation."
+    },
+    {
+      "id": "te:economy:558060",
+      "time": "2026-06-10 20:43:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "US CPI Rises 0.5% MoM in May — The CPI in the US rose 0.5% month-over-month in May 2026, slowing from a 0.6% rise in April and matching forecasts. Energy prices increased 3.9%, after rising 3.8% in April and 10.9% in March. The energy index accounted for over 60% of the monthly increase, amid the energy shock caused by the conflict with Iran. Gasoline soared 7% and fuel oil went up 3.8%. Meanwhile, prices also increased for shelter (0.3%) and food (0.2%). Other gains were seen in prices for communication, airline fares, medical care, personal care, and recreation. Conversely, the indexes for motor vehicle insurance, household furnishings and operations, and new vehicles decreased."
+    },
+    {
+      "id": "4928412",
+      "time": "2026-06-10 20:43:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英媒：歐盟欲勸七國集團給俄羅斯石油壓價】英國《金融時報》9日報道，歐盟希望勸說七國集團推遲上調俄羅斯石油價格上限，以阻止俄羅斯“吃到”國際原油價格高企的“紅利”。《金融時報》援引知情人士的話報道，歐盟意圖爭取七國集團內非歐盟國家的支援，在對俄羅斯石油限價方面協調立場。報道說，歐盟希望加拿大、英國等國推遲調整俄羅斯石油價格上限。（新華社）"
+    },
+    {
+      "id": "4928411",
+      "time": "2026-06-10 20:42:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：未來空戰系統專案（FCAS）仍將作為歐洲的一個系統推進。將在七月討論該專案。將加強歐洲防務和防務工業。"
+    },
+    {
+      "id": "4928410",
+      "time": "2026-06-10 20:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理談核威懾：希望充分發揮我們在德國無人機技術領域的潛力。"
+    },
+    {
+      "id": "te:economy:558059",
+      "time": "2026-06-10 20:41:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "US Core Inflation Hits Seven-Month High — The US core inflation rate, excluding volatile food and fuel costs, climbed to 2.9% year-over-year in May 2026, matching market forecasts and reaching its highest level since September 2025. Key drivers included shelter (+3.4%), transportation services (+4.1%), medical care services (+3.6%), and apparel (+4.8%), while used cars and trucks (-2.0%) and medical care commodities (-1.8%) declined. Month-over-month, core consumer prices rose 0.2% in May, following a 0.4% increase in April, slightly below expectations of 0.3%."
+    },
+    {
+      "id": "mkt:019eb18d-753b-7dd8-afa1-3f33c21c4668",
+      "time": "2026-06-10 20:41:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ, on nuclear deterrence, said Germany will strengthen European defense and its defense industry."
+    },
+    {
+      "id": "mkt:019eb18d-40ab-7dd8-afa1-34f565ce0a63",
+      "time": "2026-06-10 20:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said the Future Combat Air System (FCAS) project will continue to be advanced as a European system and will be discussed in July."
+    },
+    {
+      "id": "4928409",
+      "time": "2026-06-10 20:41:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨就核威懾問題表示：希望與法國推進相關合作。"
+    },
+    {
+      "id": "4928408",
+      "time": "2026-06-10 20:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【享界G9新車申報圖公佈】6月10日，根據工信部第408批《道路機動車輛生產企業及產品公告》新產品公示，鴻蒙智行新車享界G9提供插電式增程混合動力和純電動力選擇，定位運動型乘用車；車輛尺寸為5206/5377×2050×1897mm、軸距3160mm，提供5座、6座兩種佈局。"
+    },
+    {
+      "id": "mkt:019eb18c-6cb1-7dd8-afa1-28e85b22c90b",
+      "time": "2026-06-10 20:40:30",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "German Chancellor Merz said he and French President Macron agree not to proceed with the joint fighter jet program."
+    },
+    {
+      "id": "mkt:019eb18c-5413-7dd8-afa1-25aaa125d92a",
+      "time": "2026-06-10 20:40:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【US May inflation returns to 4% range, in line with expectations】US consumer prices accelerated in May, with CPI up 4.2% YoY in the 12 months to May — the biggest gain since April 2023 — and 0.5% MoM versus 0.6% in April. Higher gasoline and energy prices linked to the Middle East conflict were a key driver. CPI’s third consecutive monthly jump and the second month in which inflation exceeded wage growth add to downside risks for activity and bolster the case for the Fed to keep policy rates on hold into 2027. There are signs consumers are drawing on savings to cover spending, and the sharp rise in living costs is a political headwind ahead of November’s midterms."
+    },
     {
       "id": "4928407",
       "time": "2026-06-10 20:39:44",
@@ -170807,130 +170963,6 @@
         "其他"
       ],
       "text": "肯亞衛生國務秘書表示，美方援建埃博拉診療單元專案將繼續施工。"
-    },
-    {
-      "id": "4915418",
-      "time": "2026-06-03 20:47:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "梅西百貨高管：燃油成本上漲已被關稅下調抵消，有助於本年度淨成本維持穩定。"
-    },
-    {
-      "id": "4915417",
-      "time": "2026-06-03 20:46:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "梅西百貨高管：燃料價格上漲將給全年業績帶來約210至220個基點的不利影響。"
-    },
-    {
-      "id": "mkt:019e8d85-c702-7ccb-b659-bddb3b2a7fff",
-      "time": "2026-06-03 20:46:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVTS.O",
-        "Impact bullish"
-      ],
-      "text": "Navitas shares rose 15.4% premarket after the company announced a partnership with NVIDIA's MGX ecosystem to accelerate deployment of 800V DC AI infrastructure."
-    },
-    {
-      "id": "4915416",
-      "time": "2026-06-03 20:46:46",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團的資料顯示，期權市場預計該指數在週五將上下波動0.6%，這將是數月來就業市場最為平靜的一天。"
-    },
-    {
-      "id": "mkt:019e8d85-7afb-7ccb-b659-b763542f80bc",
-      "time": "2026-06-03 20:46:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact mixed",
-        "WTI",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Options traders shrug off jobs report, shift focus to inflation】Wall Street expects a strong jobs report Friday, but traders may not be reassured as war-driven crude volatility has refocused attention on inflation. Crude prices continue to climb while equities have held up, yet concerns about inflation persistence and the Fed's likely response are increasing. Traders say the June Fed rate decision — preceded by the June CPI release — is the S&P 500's key near-term event. Citigroup data show options imply a ±0.6% move for the S&P 500 on Friday, the calmest jobs-day implied move in months."
-    },
-    {
-      "id": "4915415",
-      "time": "2026-06-03 20:45:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Navitas股價盤前上漲15.4%，此前該公司宣佈與英偉達MGX生態系統展開合作，以推進800伏直流人工智慧基礎設施的發展。"
-    },
-    {
-      "id": "4915414",
-      "time": "2026-06-03 20:45:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ADP就業資料超預期，美國國債收益率與美元走高】隨著中東衝突升級和美國就業市場走強，美國國債遭到拋售，推動收益率走高。ADP表示，5月份私營僱主增加12.2萬人，超過平均預期的11萬人，招聘情況廣泛。預計明日的首次申請失業救濟人數將保持穩定，週五的就業人數增幅預計將放緩。美國和伊朗不斷交鋒，引發油價上漲。美元指數上漲0.1%，延續了收益率和美元跟隨油價走勢的模式。10年期國債收益率達到4.491%，高於就業資料公佈前的4.479%。兩年期國債收益率從4.070%升至4.082%。"
-    },
-    {
-      "id": "mkt:019e8d83-7235-7ccb-b659-ab97354f2fe7",
-      "time": "2026-06-03 20:44:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of America CEO Moynihan told New York Mayor Mandani that the city needs to build more housing."
-    },
-    {
-      "id": "te:economy:556163",
-      "time": "2026-06-03 20:44:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Productivity",
-        "Importance 2"
-      ],
-      "text": "Canada Labor Productivity Falls Unexpectedly — Canadian business labor productivity fell 0.5% in the first quarter of 2026, following a 0.3% decline in the previous quarter and missing expectations for a 0.7% increase. The drop reflected a mild contraction in business output alongside a 0.4% increase in hours worked. Goods-producing industries led the decline, with productivity falling 1.7%, while services-producing industries posted a modest 0.3% gain. Overall, productivity decreased in 10 of the 16 major industry sectors. Construction and agriculture, forestry, fishing and hunting were the main drags, while retail trade and transportation and warehousing recorded the strongest productivity gains. As labor productivity declined and hourly compensation rose 0.9%, unit labor costs increased 1.4% during the quarter."
-    },
-    {
-      "id": "4915413",
-      "time": "2026-06-03 20:43:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國原子能公司宣佈成立正式顧問委員會，前白宮經濟顧問委員會主席托馬斯·J·菲利普森博士將擔任該委員會主席。"
-    },
-    {
-      "id": "4915412",
-      "time": "2026-06-03 20:43:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "美銀CEO莫伊尼漢稱已向曼達尼表示紐約市需新建更多住房。"
-    },
-    {
-      "id": "te:economy:556162",
-      "time": "2026-06-03 20:43:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Treasury Yields Rise Further After Strong ADP Report — The yield on the US 10-year Treasury note climbed further to 4.49% on Wednesday after the ADP report showed that the private sector added 122K jobs in May, exceeding expectations and marking a new high since January 2025. The data pointed to a labor market that continues to gain momentum, reinforcing expectations that the Fed could raise interest rates later this year. Earlier this week, JOLTS data showed that job openings in April rose to their highest level since November 2024, further highlighting the resilience of labor demand. Treasury prices also came under pressure from escalating tensions in the Middle East, which pushed oil prices higher for a third consecutive session and renewed concerns about inflation. Markets now price in an 85% probability of a quarter-point Federal Reserve rate hike by year-end, up from 60% a week ago."
     }
   ]
 }
