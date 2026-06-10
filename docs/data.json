@@ -1,7 +1,300 @@
 {
-  "updated": "2026-06-10 19:03:12",
-  "count": 18466,
+  "updated": "2026-06-10 19:07:15",
+  "count": 18484,
   "items": [
+    {
+      "id": "4928191",
+      "time": "2026-06-10 19:06:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數扭轉跌勢；歐元下跌。"
+    },
+    {
+      "id": "mkt:019eb136-54bc-7aad-8126-d9401fc2f063",
+      "time": "2026-06-10 19:06:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu says Iran will not obtain nuclear weapons."
+    },
+    {
+      "id": "mkt:019eb136-1289-7aad-8126-d63c2e264a8f",
+      "time": "2026-06-10 19:06:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhang Xue on IPO plans: 'let nature take its course'】At a China motorcycle industry development roundtable, Zhang Xue, chairman of Zhang Xue Motorcycles Co., said when asked about listing plans that timing would 'let nature take its course', signaling no firm IPO timetable. Media reports show two external investments: in July 2024 a Gaoxin Capital fund (Shanghai Gaoxin Lingzhi VC) invested 20 mln yuan for roughly a 9.17% stake; in January 2026 Zhejiang State-owned Capital Operation Co.'s Zhechuangtou completed a Series A via two funds totaling 90 mln yuan, valuing the company at 1.09 bln yuan."
+    },
+    {
+      "id": "4928190",
+      "time": "2026-06-10 19:06:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "國際原油期貨短線拉昇，WTI原油期貨價格漲1.27%，報89.316美元/桶；布倫特原油期貨價格漲0.93%，報92.299美元/桶。"
+    },
+    {
+      "id": "4928189",
+      "time": "2026-06-10 19:06:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌至當日低點1.5%。"
+    },
+    {
+      "id": "mkt:019eb135-e84a-7aad-8126-c99eb9681f4b",
+      "time": "2026-06-10 19:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv reported a source saying Qatar's negotiator, after consultations with the US, traveled to Tehran Wednesday morning to try to finalize an agreement."
+    },
+    {
+      "id": "mkt:019eb135-b85c-7aad-8126-c64307e63432",
+      "time": "2026-06-10 19:05:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent each rose about $2 intraday to $89.60/bbl and $92.27/bbl respectively."
+    },
+    {
+      "id": "4928188",
+      "time": "2026-06-10 19:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：必須擺脫“非戰非和”狀態】伊朗總統佩澤希齊揚當天表示，伊朗必須擺脫“非戰非和”的狀態。佩澤希齊揚在出席為紀念已故最高領袖阿里·哈梅內伊舉辦的活動時說：“我們必須擺脫既不打仗也不和談的狀況。戰爭不符合國家利益，但如果他們攻擊我們的領土，我們絕不投降、決不退縮。”(新華社)"
+    },
+    {
+      "id": "4928187",
+      "time": "2026-06-10 19:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：伊朗如今必將付出代價】特朗普：伊朗軍隊如今亂象叢生。其海軍、空軍等諸多部隊名存實亡，已然徹底落敗。伊朗只會空談，毫無實際行動。這個中東地區的霸道勢力已經垮臺！他們遲遲未能促成本可讓自身獲益的協議，如今必將付出代價！"
+    },
+    {
+      "id": "4928185",
+      "time": "2026-06-10 19:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦軍方10日說，一架軍用直升機在巴控克什米爾地區墜毀，機上人員全部遇難。（新華社）"
+    },
+    {
+      "id": "mkt:019eb135-1736-7aad-8126-bf610fa7ee86",
+      "time": "2026-06-10 19:05:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said Iran's military has been thoroughly defeated; much of its navy and air force no longer exist and Iran is limited to rhetoric without substantive action."
+    },
+    {
+      "id": "te:markets:558033",
+      "time": "2026-06-10 19:04:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in United Kingdom Hit 10-week Low — GB100 decreased to 10143.00 Index Points, the lowest since March 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) lost 0.83%, and in the last 12 months, it increased 14.89%."
+    },
+    {
+      "id": "4928184",
+      "time": "2026-06-10 19:04:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛爾眼科：擬透過全資子公司增資6.96億元收購巴西眼科醫療服務集團控制權】愛爾眼科(300015.SZ)公告稱，公司擬透過境外全資子公司AIERBrazil以現金方式向目標公司增資認購其新增股份，認購金額為5.30億巴西雷亞爾(摺合人民幣約6.96億元)。交易完成後，AIERBrazil將持有目標公司60.57%股權，間接控制巴西眼科醫療服務及視光相關業務集團。本次交易旨在推進全球化戰略，拓展拉丁美洲業務佈局。"
+    },
+    {
+      "id": "mkt:019eb134-ceeb-7aad-8126-b5c9aee01d08",
+      "time": "2026-06-10 19:04:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump on Iran said they spent too long negotiating a deal favorable to them and will now have to pay the price."
+    },
+    {
+      "id": "4928183",
+      "time": "2026-06-10 19:04:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗將付出代價。"
+    },
+    {
+      "id": "4928182",
+      "time": "2026-06-10 19:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗談判達成協議的時間太長了。"
+    },
+    {
+      "id": "4928181",
+      "time": "2026-06-10 19:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗只會空談，不會採取行動。"
+    },
+    {
+      "id": "4928180",
+      "time": "2026-06-10 19:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：亞美尼亞選舉表明，在地緣政治風險持續存在的背景下政策將保持延續性。"
+    },
+    {
+      "id": "4928179",
+      "time": "2026-06-10 19:04:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張雪機車是否有上市計劃？張雪回應：順其自然】在中國摩托車產業高質量發展圓桌會議期間，張雪機車有限公司董事長張雪與媒體對話。被問及張雪機車有沒有登陸資本市場的相關規劃，張雪表示：“順其自然”。據媒體報道，張雪機車一共曾拿到兩筆投資。2024年7月，高信資本名下基金上海高信領智創業投資合夥企業（有限合夥）投資了2000萬元，持股約9.17%；2026年1月，浙江省國有資本運營有限公司旗下浙創投透過兩隻基金完成對張雪機車的A輪投資，投資總額9000萬元，估值提升至10.9億元。（新浪科技）"
+    },
+    {
+      "id": "4928178",
+      "time": "2026-06-10 19:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們在談判一份本可對己方有利的協議上拖延太久，現在他們必將為此付出代價。"
+    },
+    {
+      "id": "4928177",
+      "time": "2026-06-10 19:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士向路透社透露，在與美國方面磋商後，卡達談判代表已於週三上午前往德黑蘭，力求最終敲定一項協議。"
+    },
+    {
+      "id": "4928176",
+      "time": "2026-06-10 19:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【應用材料斥資5億美元擴大在新加坡製造與研發業務】應用材料公司6月10日宣佈，斥資5億美元在新加坡淡濱尼建設的新園區正式啟用，進一步擴大在新制造與研發業務。新設施目前已投入量產，先進潔淨無塵室產能將倍增。未來幾年，應用材料預計在新加坡新增約1000個就業崗位，以支援半導體產業增長和技術商業化。"
+    },
+    {
+      "id": "4928175",
+      "time": "2026-06-10 19:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默：貝爾法斯特發生的暴力及縱火行為完全毫無道理。"
+    },
+    {
+      "id": "4928174",
+      "time": "2026-06-10 19:03:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輕鬆健康：與巴塞爾醫療集團有限公司簽訂三年戰略合作備忘錄】輕鬆健康公告，公司與巴塞爾醫療集團有限公司（BMGL.US）於2026年6月10日簽訂了一份有效期為三年的戰略合作備忘錄。根據備忘錄，輕鬆健康將依託其自研的證元芳·MedClaw醫療AI協作體系統及AIcare技術棧優勢，與巴塞爾醫療在東南亞地區開展AI-native的醫療服務升級，並共同拓展區域市場。合作領域包括提升巴塞爾醫療現有業務的智慧化水平和共同開拓新市場。"
+    },
+    {
+      "id": "4928173",
+      "time": "2026-06-10 19:03:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石藥集團：安尼妥單抗聯合HB1801用於HER2陽性晚期乳腺癌一線治療的Ⅲ期研究達到主要終點】石藥集團公告，本公司附屬公司上海津曼特生物科技有限公司與江蘇康寧傑瑞生物製藥有限公司合作開發的安尼妥單抗（KN026）聯合本集團自主研發的注射用多西他賽（白蛋白結合型）（HB1801）用於HER2陽性晚期乳腺癌一線治療的III期臨床研究（研究方案號：KN026–003）經獨立資料監察委員會評估，成功達到預先設定的主要終點無進展生存期（PFS），結果具有顯著的統計學和臨床雙重意義，且安全性良好。"
+    },
+    {
+      "id": "4928172",
+      "time": "2026-06-10 19:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第三輪第六批中央生態環保督察完成進駐階段工作】記者10日從生態環境部獲悉，第三輪第六批7箇中央生態環境保護督察組於5月8日至9日陸續進駐遼寧、吉林、黑龍江、廣東、廣西、西藏、新疆7省（區）和新疆生產建設兵團，近日已全面完成督察進駐階段工作。截至6月9日，各督察組共收到群眾來電、來信舉報34896件，受理有效舉報27504件，經梳理合併重複舉報，累計向被督察物件轉辦20154件。被督察物件已辦結或階段辦結12059件。（新華社）"
+    },
+    {
+      "id": "mkt:019eb133-6ac8-7aad-8126-af2e31474d16",
+      "time": "2026-06-10 19:03:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SASAC deputy attends central SOE–Hong Kong tech innovation integration meeting】June 5, Shenzhen — Li Zhen, deputy director of the State-owned Assets Supervision and Administration Commission (SASAC), attended a meeting on integration between central state-owned enterprises and Hong Kong science and technology innovation. SASAC said it will prioritize source-level innovation cooperation, accelerate commercialization of R&D outcomes, deepen tech‑finance linkages and promote global talent aggregation to push central enterprises to deepen collaboration with Hong Kong and support construction of Hong Kong as an international sci‑tech center to serve China’s innovation-driven development strategy. The meeting included 37 central enterprises and 10 Hong Kong universities and research institutes and announced 33 joint projects in AI, next‑generation mobile communications, smart manufacturing, new energy, new materials, life sciences and financial services."
+    },
+    {
+      "id": "mkt:019eb133-58a5-7aad-8126-a06477707241",
+      "time": "2026-06-10 19:03:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Huatai‑PineBridge said its China‑Korea Semiconductor ETF's secondary-market price is trading materially above the fund's indicative NAV, creating a large premium. Secondary-market trading will be suspended from market open on June 11, 2026 until 10:30."
+    },
+    {
+      "id": "4928171",
+      "time": "2026-06-10 19:03:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "中韓半導體ETF華泰柏瑞：本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。將於2026年6月11日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "4928170",
+      "time": "2026-06-10 19:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南 VinFast 品牌 5 月電動汽車交付量達 19503 輛。"
+    },
+    {
+      "id": "4928169",
+      "time": "2026-06-10 19:02:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【富信科技：股票交易異常波動 市盈率高於行業水平】富信科技公告稱，公司股票在2026年6月9日、6月10日連續兩個交易日收盤價格漲幅偏離值累計達30%，屬異常波動。截至6月10日，公司收盤價112.24元/股，滾動市盈率249.09倍，高於行業平均的62.89倍。經自查，公司經營正常，無應披露未披露重大資訊。此外，董事羅嘉恆已完成減持11,250股，洪雲減持10,000股，減持計劃仍在進行中。"
+    },
+    {
+      "id": "4928168",
+      "time": "2026-06-10 19:02:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委副主任李鎮出席中央企業與香港科技創新融合發展專題會】6月5日，中央企業與香港科技創新融合發展專題會在深圳舉辦，國務院國資委副主任李鎮出席並致辭。李鎮表示，國務院國資委將圍繞夯實源頭創新合作、加速成果落地轉化、深化科創金融聯動、促進全球人才集聚等重點方向，持續推動中央企業深化與香港科創協同，助力香港國際創科中心建設，更好服務國家創新驅動發展戰略。本次專題會共有37家中央企業與10家香港高校、科研機構等參加，在人工智慧、下一代行動通訊、智慧製造、新能源、新材料、生命健康、金融服務等領域聯合釋出了33項合作專案。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606103766837994",
+      "time": "2026-06-10 19:01:57",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國MBA抵押貸款申請指數上週上升10.8%。"
+    },
     {
       "id": "4928167",
       "time": "2026-06-10 19:01:55",
@@ -405,6 +698,14 @@
         "公司"
       ],
       "text": "【綠色動力：副總經理黃建中、郝敬立及總工程師張衛辭職】綠色動力公告，公司副總經理黃建中、郝敬立及總工程師張衛因接近退休年齡，於2026年6月10日提交辭任申請，自送達董事會之日起生效。黃建中、郝敬立及張衛將繼續在公司任職並承擔專項工作。公司董事會同意聘任劉林為副總經理，任期自2026年6月10日起生效。"
+    },
+    {
+      "id": "4928132",
+      "time": "2026-06-10 18:50:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中體產業：全資子公司中奧公司一審獲判1024.32萬元及利息】中體產業公告，全資子公司中奧公司作為原告的民間借貸糾紛案，北京市東城區人民法院已作出一審判決。中奧公司訴中體海盈國際體育文化發展（北京）有限公司及風水船行體育科技發展（上海）有限公司，涉案本金1024.32萬元。判決要求中體海盈償還借款本金及利息，風船公司在未實繳出資範圍內承擔補充清償責任。目前判決處於上訴期內，尚未生效，對公司本期利潤或期後利潤的影響存在不確定性。"
     },
     {
       "id": "4928129",
@@ -170131,146 +170432,6 @@
         "Europe & UK"
       ],
       "text": "European Commission says EU member states may use up to 0.3% of GDP from the 1.5% of GDP defence fiscal space for green transition spending."
-    },
-    {
-      "id": "4915205",
-      "time": "2026-06-03 19:07:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯多年來首次給出黃金開採量評估，資料遠超預期】俄羅斯公佈了多年來的首個黃金開採量資料，所公佈的數字遠遠超出了業內獨立評估的預期。如果這一資料準確無誤，那麼俄羅斯成為全球最大的黃金生產國。俄羅斯自然資源部部長亞歷山大·科茲洛夫向塔斯社透露，該國今年的礦石產量應為480至500噸。去年的產量約為480噸。該部門證實，科茲洛夫所談及的是黃金的開採量，但未作進一步說明。然而，兩家俄羅斯大型黃金礦企的高管表示，他們對這個數字持懷疑態度，認為這個數字難以解釋。這一訊息對市場而言頗具意義，因為自2022年俄烏衝突以來，莫斯科就不再公佈官方的黃金開採資料。但這一訊息也令人感到驚訝，因為這一數字比世界黃金協會所預測的俄羅斯2024年的礦產產量高出約50%，而且該國近年來並未有重大新礦藏投入生產，這使得其無法迅速提高產量。據世界黃金協會發布的資料，該國在2024年共開採了約330噸黃金。"
-    },
-    {
-      "id": "mkt:019e8d2a-6afd-7ccb-b657-5df83a21937e",
-      "time": "2026-06-03 19:07:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "【Russia releases first multi-year gold output estimate; figure far above forecasts】Russia’s Ministry of Natural Resources gave its first multi-year gold output estimate, telling TASS Minister Alexander Kozlov that ore production this year should be 480–500t, roughly in line with last year’s ~480t. The ministry confirmed Kozlov was referring to gold mining but provided no further detail. If accurate, the figure would make Russia the world’s largest gold producer and is about 50% above the World Gold Council’s c.330t 2024 estimate. Executives at two major Russian gold miners said they doubted the number and could not reconcile it. Moscow has not published official gold production data since 2022, and the country has not brought major new deposits into production recently, which would make a rapid output jump difficult."
-    },
-    {
-      "id": "4915204",
-      "time": "2026-06-03 19:06:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "勃林格殷格翰將取消在德國的9億歐元投資。"
-    },
-    {
-      "id": "4915201",
-      "time": "2026-06-03 19:06:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會表示，歐盟各國政府可動用國防財政彈性空間中佔GDP 1.5%裡的0.3個百分點，用於綠色轉型。"
-    },
-    {
-      "id": "4915200",
-      "time": "2026-06-03 19:05:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "匈牙利莫爾石油公司（MOL）表示，公司及其合作伙伴已在亞塞拜然ACG油田啟動天然氣生產。"
-    },
-    {
-      "id": "4915199",
-      "time": "2026-06-03 19:05:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶豐明源：募投專案結項並將節餘7164.77萬元補充流動資金】晶豐明源公告，公司本次募投專案結項並將節餘募集資金7164.77萬元永久補充流動資金。2026年向特定物件發行股份募集資金總額18億元，募集資金淨額17.88億元。截至公告披露日，募集資金餘額合計6.91億元，扣減自籌資金6.19億元后，擬將節餘7164.77萬元永久補充流動資金。"
-    },
-    {
-      "id": "4915198",
-      "time": "2026-06-03 19:05:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渤海千億方大氣田二期開發專案主體結構建造完成】據中國海油訊息，6月2日，隨著最後一片甲板片在海油工程天津智慧製造基地完成空間就位，渤中19-6氣田II期開發專案3座平臺主體結構全部建造完成，標誌著渤海首個千億方大氣田進入加速建設新階段。氣田II期開發專案新建3座井口平臺、3座導管架。"
-    },
-    {
-      "id": "4915197",
-      "time": "2026-06-03 19:05:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "國際航空運輸協會（IATA）燃料部門主管丹尼爾·謝羅：多家航空公司深受航空燃油價格波動衝擊，無力開展對沖操作。"
-    },
-    {
-      "id": "mkt:019e8d28-b516-744d-81c2-1822bc988c34",
-      "time": "2026-06-03 19:04:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IATA's head of fuel said demand has been disrupted; some passengers have canceled flights and some regional airports have experienced short-term jet fuel shortages."
-    },
-    {
-      "id": "4915196",
-      "time": "2026-06-03 19:04:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀之傑：澄清“被立案調查”傳聞不屬實】銀之傑公告，公司關注到網路平臺出現關於“被立案調查”的傳聞。經核實，截至目前，公司未收到任何有權機關關於立案調查的通知或相關法律文書。公司生產經營情況正常，各項業務開展有序，不存在應披露而未披露的重大事項。銀之傑提醒投資者理性投資，注意甄別市場傳聞，不輕信未經證實的資訊。"
-    },
-    {
-      "id": "4915195",
-      "time": "2026-06-03 19:04:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際航空運輸協會燃油部門主管：目前已出現需求破壞，具體表現為民眾取消航班，部分地區部分機場已短時出現航油斷供。"
-    },
-    {
-      "id": "mkt:019e8d27-d6d0-744d-81c2-1105bbcddedb",
-      "time": "2026-06-03 19:04:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "HUNGARY MOL and partners start gas production at Azerbaijan's ACG (Azeri-Chirag-Gunashli) oilfield."
-    },
-    {
-      "id": "mkt:019e8d27-b8c5-744d-81c2-0be94df602fc",
-      "time": "2026-06-03 19:04:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reported Armenian Prime Minister Nikol Pashinyan said he would visit Russia after the elections."
-    },
-    {
-      "id": "mkt:019e8d27-4be0-744d-81c2-05f10381f777",
-      "time": "2026-06-03 19:03:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Guotai Nasdaq ETF will be suspended from market open on 4 June 2026 until 10:30am."
-    },
-    {
-      "id": "mkt:019e8d26-edb2-744d-81c1-f80bb5492698",
-      "time": "2026-06-03 19:03:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huatai-PineBridge's China-Korea Semiconductor ETF will be suspended from trading from market open on June 4, 2026 until 10:30 that day."
-    },
-    {
-      "id": "4915194",
-      "time": "2026-06-03 19:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF華泰柏瑞：本基金將於2026年6月4日開市起至當日10:30停牌。"
     }
   ]
 }
