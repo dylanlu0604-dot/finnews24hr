@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-10 09:24:28",
-  "count": 18722,
+  "updated": "2026-06-10 09:28:24",
+  "count": 18725,
   "items": [
+    {
+      "id": "mkt:019eaf24-976b-7ff4-a104-b485febc8d41",
+      "time": "2026-06-10 09:27:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At Wednesday open (June 10), CHINA'S SHANGHAI COMPOSITE INDEX opened down 24.91 pts (-0.62%) at 3,985.12; Shenzhen Composite opened down 206.21 pts (-1.35%) at 15,062.51; CSI 300 INDEX opened down 48.70 pts (-1.01%) at 4,753.12; ChiNext Index opened down 64.02 pts (-1.62%) at 3,897.73; CHINA SCI-TECH INNOVATION 50 INDEX opened down 0.26 pts (-0.02%) at 1,662.85."
+    },
+    {
+      "id": "mkt:019eaf24-93ad-7ff4-a104-a87a22daa9b1",
+      "time": "2026-06-10 09:27:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Precious metals-themed LOFs weaken】China precious metals-themed LOFs weakened: SDIC Silver LOF fell more than 5%; gold-themed LOF, Gold LOF and Harvest Gold LOF each dropped over 2%. Earlier, spot gold slipped below $4,200/oz, a near three-month low."
+    },
+    {
+      "id": "4926975",
+      "time": "2026-06-10 09:27:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊低開，寶鼎科技逼近跌停】元件板塊低開，寶鼎科技逼近跌停。中富電路、則成科技、晶賽科技、順絡電子、滬電股份跌幅居前。"
+    },
+    {
+      "id": "4926974",
+      "time": "2026-06-10 09:27:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華媒控股：最佳化業務架構聚焦主業 數字化應用尚處探索階段】華媒控股6月10日在互動平臺表示，公司將圍繞“聚焦、瘦身、提效、轉型”對低效、虧損業務及子公司進行梳理整合，透過業務調整、組織最佳化、降本減支、關停並轉等方式最佳化架構，聚焦主責主業，提升經營質量。部分傳媒子公司正擴大媒體數字化應用，但相關技術應用與專案實踐尚處初步探索階段，暫未體現業績貢獻。"
+    },
+    {
+      "id": "mkt:019eaf23-8bdf-7ff4-a104-a521db4b1d43",
+      "time": "2026-06-10 09:26:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share 5G names outperformed: Zhongbei Communications rose more than 7%, Dongcai Technology gained over 4%; Shiyida, Datang Telecom, Hytera and Jingwang Electronics also advanced. Media reported the new-generation communications network could generate about 7 trillion yuan in upstream/downstream output and add roughly 1.5 percentage points to GDP over the next five years."
+    },
+    {
+      "id": "4926973",
+      "time": "2026-06-10 09:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指下跌1.2%，至4961.89點。"
+    },
+    {
+      "id": "mkt:019eaf23-47dc-7ff4-a104-9b27ed5117a2",
+      "time": "2026-06-10 09:26:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's benchmark stock index fell more than 1%."
+    },
+    {
+      "id": "mkt:019eaf22-e62a-7ff4-a104-91e1e44a171a",
+      "time": "2026-06-10 09:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novokuybyshevsk in Russia's Samara region was hit by a drone strike, the local governor said."
+    },
+    {
+      "id": "mkt:019eaf22-95b2-7ff4-a104-8e1e75596e54",
+      "time": "2026-06-10 09:25:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "A-shares opened: Shanghai Composite down 0.62%, Shenzhen Composite Index down 1.35%, ChiNext down 1.62%. CRO and tax-refund-store concepts led gains; precious metals, CPO and storage-chip sectors pulled back."
+    },
+    {
+      "id": "4926972",
+      "time": "2026-06-10 09:25:28",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.62％，深成指跌1.35％，創業板跌1.62％。"
+    },
+    {
+      "id": "4926971",
+      "time": "2026-06-10 09:25:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿富汗聲稱巴基斯坦昨晚侵犯了其領空。"
+    },
+    {
+      "id": "4926970",
+      "time": "2026-06-10 09:24:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯薩馬拉州諾伏庫比舍夫斯克遭無人機襲擊。"
+    },
     {
       "id": "4926969",
       "time": "2026-06-10 09:22:22",
@@ -61,6 +173,15 @@
         "Impact bullish"
       ],
       "text": "PBOC conducted a CNY159bn 7-day reverse repo today; bids and allotment both CNY159bn; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "em:qqyh_zgyh:202606103765990290",
+      "time": "2026-06-10 09:21:25",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1590億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019eaf1e-9761-7ff4-a104-6e24cd54163d",
@@ -172753,107 +172874,6 @@
         "SZSE Component"
       ],
       "text": "A-share CPO concept stocks extended gains. Tianyang New Materials recorded a third consecutive daily limit-up; Yibo Technology opened locked at the daily upper circuit. Tianfu Communications, Hengtong Optic-Electric, Yihua Co. and Robotech rose more than 6%."
-    },
-    {
-      "id": "4913929",
-      "time": "2026-06-03 09:28:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：伊朗新一輪無人機襲擊科威特境內美軍目標失敗。"
-    },
-    {
-      "id": "mkt:019e8b18-7f34-7ee2-b13a-f20a64ce3925",
-      "time": "2026-06-03 09:28:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Lithium carbonate most-active futures contract fell more than 4.00% intraday to 166,900 yuan/ton."
-    },
-    {
-      "id": "4913928",
-      "time": "2026-06-03 09:27:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CPO概念股延續漲勢，天洋新材3連板，一博科技一字漲停，天孚通訊、亨通光電、意華股份、羅博特科漲超6%。"
-    },
-    {
-      "id": "4913927",
-      "time": "2026-06-03 09:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方：擊落多架襲擊科威特駐軍的伊朗無人機 。"
-    },
-    {
-      "id": "mkt:019e8b17-f485-7ee2-b13a-ef37c7d1dcec",
-      "time": "2026-06-03 09:27:41",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "The U.S. military said local time tonight another wave of Iranian drones attempted to strike U.S. forces in Kuwait but failed to hit targets."
-    },
-    {
-      "id": "mkt:019e8b16-e0c4-7ee2-b13a-e6a200df4e0d",
-      "time": "2026-06-03 09:26:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "【Analyst: Intervention fears spark psychological battle; USD/JPY test of 160 could happen at any time】Traders are reluctant to push USD/JPY above the 160 threshold amid intervention risk; the yen slipped Wednesday morning toward 160, its weakest since authorities intervened at end‑April. Japan spent a record JPY 11.73 tln (about $73.35 bln) supporting the currency between Apr.28 and May.27. Finance Minister Satsuki Katayama reiterated officials stand ready to respond to FX volatility as needed. Gaitame.com Institute analyst Tsutomu Nakamura said intervention fears intensified as USD/JPY neared 160, creating a psychological battle and making a test of 160 possible at any time. Limited progress in US‑Iran permanent cease‑fire talks and a large US‑Japan interest‑rate differential after the BOJ held rates in April are adding pressure. BOJ governor UEDA is due to speak Wednesday afternoon ahead of the June 16 policy meeting. Overnight index swaps imply roughly an 84% probability of a rate hike this month."
-    },
-    {
-      "id": "mkt:019e8b16-dd55-7ee2-b13a-db258d4dc0de",
-      "time": "2026-06-03 09:26:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【16th Songshan Lake China IC Innovation Summit held; 119 promoted chips in mass production】The 16th Songshan Lake China IC Innovation Summit convened in Dongguan. Dai Weimin, vice-chair of the China Semiconductor Industry Association IC Design Branch, said the forum typically recommends about 10 Chinese chips a year and has promoted 93 companies to date; the post-forum listing rate is 20.4% with seven companies currently pursuing listings. Cumulatively the forum has promoted 129 chips, of which 119 are in mass production, implying a mass-production rate of 92.2%."
-    },
-    {
-      "id": "mkt:019e8b16-4457-7ee2-b13a-d066c6f85cc1",
-      "time": "2026-06-03 09:25:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "At the open in A-shares, the Shanghai Composite fell 0.17%, the Shenzhen Composite Index rose 0.36% and the ChiNext rose 0.82%; F5G and copper-cable high-speed connectivity concept stocks led gains."
-    },
-    {
-      "id": "4913926",
-      "time": "2026-06-03 09:25:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第十六屆松山湖中國IC創新高峰論壇召開 已推介量產晶片119款】6月3日，第十六屆松山湖中國IC創新高峰論壇在東莞松山湖召開。中國半導體行業協會IC設計分會副理事長，芯原股份董事長、執行長、總裁戴偉民介紹，論壇每年推介約10款國產晶片，共推介了93家公司，會後上市率達到20.4%，7家上市在程序中。另據統計，論壇累計推介晶片129款，量產晶片119款，總量產率92.2%。"
-    },
-    {
-      "id": "4913925",
-      "time": "2026-06-03 09:25:17",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.17％，深成指漲0.36％，創業板漲0.82％。"
     }
   ]
 }
