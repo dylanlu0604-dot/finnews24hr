@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-11 04:36:24",
-  "count": 18357,
+  "updated": "2026-06-11 04:40:17",
+  "count": 18352,
   "items": [
+    {
+      "id": "mkt:019eb342-3cf6-7dd8-afac-0f3111867325",
+      "time": "2026-06-11 04:38:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. defense secretary Hegseth on Iran said Central Command (CENTCOM) will be very busy tonight and the United States will carry out heavy strikes tonight, bombing key Iranian facilities."
+    },
+    {
+      "id": "4928972",
+      "time": "2026-06-11 04:38:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思談及伊朗局勢：中央司令部今晚將十分忙碌，美國今晚將重擊伊朗，將轟炸伊朗關鍵設施。"
+    },
+    {
+      "id": "4928971",
+      "time": "2026-06-11 04:38:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【白宮或再與軍工企業磋商加速生產】據訊息人士當地時間6月10日透露，隨著美國對伊朗的打擊及其他近期軍事行動消耗了庫存補給，特朗普政府計劃最早於下週在白宮會見美國多家國防承包商的高管，討論加速武器生產事宜。此次會議將是白宮就該議題第二次召集美國頂級國防承包商執行長開會。路透社的報道指出，對伊朗的戰爭以及近年向烏克蘭提供的軍援，已耗盡了美國的武器儲備。目前，美國國防部正持續施壓軍工企業大幅提速，落實今年早些時候敲定的一些“框架性協議”，其中包括：與洛克希德·馬丁達成的一項多年期協議，旨在將PAC-3型“愛國者”反導系統攔截彈的產量提高兩倍，並將“薩德”系統攔截彈的產量翻兩番；與雷神公司達成的多項獨立多年期協議，以提升“戰斧”巡航導彈和先進中程空對空導彈的產量。不過據悉，這些“框架性協議”尚未轉化為正式合同。（CCTV國際時訊）"
+    },
     {
       "id": "te:markets:558157",
       "time": "2026-06-11 04:35:02",
@@ -169090,77 +169122,6 @@
         "焦點"
       ],
       "text": "【馬斯克旗下SpaceX擬募資750億美元，衝刺史上最大IPO】據招股申報檔案，馬斯克旗下的SpaceX計劃IPO募資750億美元。公司發行5.556億股，發行價定為每股135美元；已遞交申請，擬在納斯達克主機板與納斯達克德州板塊上市，股票程式碼SPCX。目標估值1.77萬億美元。"
-    },
-    {
-      "id": "mkt:019e8f36-2536-7443-8fe4-282118fd1dbb",
-      "time": "2026-06-04 04:39:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "After SpaceX's IPO, Elon Musk will hold about 82.4% of the company's voting power."
-    },
-    {
-      "id": "4916006",
-      "time": "2026-06-04 04:38:38",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX擬登陸納斯達克IPO，目標估值1.77萬億美元。"
-    },
-    {
-      "id": "mkt:019e8f34-de97-7443-8fe4-2689664165d1",
-      "time": "2026-06-04 04:37:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX IPO includes an 83.3 mln-share overallotment (greenshoe) option."
-    },
-    {
-      "id": "4916005",
-      "time": "2026-06-04 04:37:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及霍爾木茲海峽通航開放後的航線選用：我方將走南部航道。"
-    },
-    {
-      "id": "4916004",
-      "time": "2026-06-04 04:37:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通計劃面向投行客戶舉辦SpaceX IPO專場私密會議，參會人員含摩根大通CEO戴蒙、SpaceX總裁肖特韋爾，本次摩根大通與SpaceX合作的活動將於週四同步轉播至90個會場。"
-    },
-    {
-      "id": "te:markets:556257",
-      "time": "2026-06-04 04:37:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Retreat from Record Highs — The S&P/TSX Composite Index fell 1% to close at 34,801 on Wednesday, retreating from the record high reached in the previous session as renewed hostilities between the US and Iran dampened hopes for a peace deal. Tensions escalated after Iranian attacks targeted Kuwait and Bahrain, while the US carried out strikes near the Strait of Hormuz. Oil prices rose, reviving concerns about energy-driven inflation and higher borrowing costs. Financial stocks traded lower, with BMO down 1.5%, while Brookfield lost 3.4% after announcing a joint venture with a Concert Properties affiliate involving an industrial portfolio valued at roughly $1 billion. Mining shares also weighed on the index as gold prices declined, with Agnico Eagle falling 3.6%, Barrick losing 2.5%, and WPM shedding 3.5%. Technology stocks followed losses on Wall Street, with Shopify down 3% and Constellation Software retreating 4.7%."
-    },
-    {
-      "id": "4916003",
-      "time": "2026-06-04 04:36:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX稱馬斯克將持有約82.4%的投票權。"
-    },
-    {
-      "id": "4916002",
-      "time": "2026-06-04 04:36:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守73美元/盎司，日內跌3.39%。"
     }
   ]
 }
