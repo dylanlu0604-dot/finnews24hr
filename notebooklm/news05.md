@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-11 03:08:32_
-_本檔包含 3785 則快訊，約 670758 字_
+_更新時間：2026-06-11 03:35:31_
+_本檔包含 3771 則快訊，約 670874 字_
+
+---
+
+### 2026-06-05 08:42:19  #MKT News #Important #Market Themes #AI Revolution
+
+【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs.
+
+---
+
+### 2026-06-05 08:41:08  #觀點
+
+【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。
+
+---
+
+### 2026-06-05 08:38:23  #市場 #國際
+
+日本財務省官員：5月外匯儲備降幅為2000年有統計資料以來最大。注：在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。
+
+---
+
+### 2026-06-05 08:37:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's Ministry of Finance official said May's decline in foreign exchange reserves was the largest since 2000.
+
+---
+
+### 2026-06-05 08:37:22  #觀點
+
+【中信證券：預計AI相關商品將成為我國外貿增長的新引擎】中信證券研報認為，展望2026年全年，根據WTO最新發布的《全球貿易展望（3月版）》，受益於AI相關的資本開支快速增長，相關商品出口需求也實現高增，其上修了2026年全球貿易量同比增速預測，讀數從0.5%上調至1.9%。基於此，我們預計AI相關商品將成為我國外貿增長的新引擎，疊加傳統能源價格中樞抬升及其驅動的綠色產品增量需求，我國2026年的進出口均有望維持高景氣，預計全年出口和進口同比增速或達13.2%和15.5%左右，對應的貿易順差規模仍有望保持較高規模。
+
+---
+
+### 2026-06-05 08:35:53  #國際
+
+【特朗普稱對伊朗無論如何都會贏】美國總統特朗普當地時間6月4日在白宮對媒體表示，美國無需同伊朗達成協議，就能透過派兵進入伊朗獲取其濃縮鈾庫存，但他“不喜歡這個主意”。特朗普表示，在對伊朗問題上，他覺得目前“做得很好”。特朗普強調，“美國終將會贏，無論如何都會贏——要麼在紙面（協議）上贏，要麼在軍事上贏。”（CCTV國際時訊）
+
+---
+
+### 2026-06-05 08:35:19  #公司 #國際
+
+【谷歌將在美國得州新建資料中心和能源設施】當地時間6月4日，谷歌和Intersect宣佈將在美國得州建設Meitner能源中心，該中心將包括一座新的資料中心以及配套的能源發電設施。
+
+---
+
+### 2026-06-05 08:34:46  #國際
+
+【普京稱待衝突結束俄烏應說謝天謝地 】當地時間4日，俄羅斯總統普京在聖彼得堡會見全球主要通訊社負責人時，就俄烏衝突作出多項表態。談及衝突結束時俄烏應對彼此說什麼時，普京表示，至少應該說一句：“謝天謝地，一切都結束了”。
+
+---
+
+### 2026-06-05 08:34:27  #MKT News
+
+【Putin says Russia and Ukraine should say "Thank God it's over" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say "Thank God it's over".
+
+---
+
+### 2026-06-05 08:32:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Slip Ahead of Key Jobs Data — US stock futures declined on Friday as investors awaited the release of the May employment report for fresh insight into labor market conditions and the likely path of Federal Reserve policy. Uncertainty also lingered on Wall Street as the fragile ceasefire between the US and Iran held amid reports of stalled negotiations, despite President Donald Trump’s insistence that talks are nearing completion. On the corporate front, shares of Lululemon Athletica tumbled more than 11% in extended trading after the athleisure retailer cut its full-year earnings and revenue forecasts. During Thursday’s regular session, the Dow Jones surged 1.73% to a fresh record high, led by gains in healthcare and financial stocks. The S&P 500 advanced 0.41%, while the tech-heavy Nasdaq Composite slipped 0.09% as a weak outlook from Broadcom weighed on AI-related shares.
+
+---
+
+### 2026-06-05 08:31:27  #觀點
+
+【中信證券：科創板“1+6”改革成效顯著 生態形成良性閉環】中信證券研報認為，回顧“1+6”改革一週年，投融資生態已形成良性閉環，在融資、併購、企業生態等多維度助力相關企業的高效發展。當前節點來看，改革已跨過制度宣示階段，進入生態驗證階段，後續值得關注的是盈利轉化能力及業績兌現能力等中長期趨勢，進行線路的驗證及反哺。分賽道來看，細分賽道的政策傳導已經呈現出清晰梯度，生物醫藥率先完成驗證，人工智慧正在加速接棒，良好的發展態勢正在推動科創板從“試驗田”真正走向“示範田”。
+
+---
+
+### 2026-06-05 08:30:53  #公司 #市場 #央行 #國際
+
+【韓國股市此前領跑全球大漲行情現裂痕，股指大跌】規模達4.9萬億美元的韓國股市在一輪領跑全球的上漲行情後開始顯露承壓跡象。韓國綜合股價指數（Kospi）週五早盤最大跌幅達6.4%，三星電子、SK海力士跌幅均超7%，極端跌幅凸顯股指波動加劇。受期貨大跌拖累，韓國交易所一度暫停韓綜指程式化賣單。截至本週四，韓綜指年內漲幅超100%，但行情高度集中於兩大晶片龍頭股，一旦人工智慧題材行情降溫，大盤極易快速走弱。散戶入場熱度同步回落，融資融券規模高企還面臨韓國央行加息帶來的平倉風險。分析師表示，主打放大單日漲跌幅的槓桿型ETF普及，或將進一步放大行情回撥幅度。首爾 Eugene資產管理首席投資官Ha SeokKeun稱：“相較於基本面走弱，當前我更擔憂市場持倉過熱。未來一至兩個月，市場大機率進入高波動的盤整休整階段。”市場結構分化是核心隱憂。韓國交易所資料顯示，受人工智慧晶片需求提振的三星電子與SK海力士合計佔到韓國綜合指數（Kospi）權重的54%，在5月日均成交額中佔比近五成；韓綜指今年近七成漲幅均由這兩家企業貢獻。
+
+---
+
+### 2026-06-05 08:28:36  #國際
+
+【日本財務大臣：減免食品消費稅所需財源不會依賴新增發債】日本財務大臣片山皋月重申，政府已決定，針對食品的臨時性消費稅下調將不會依賴額外發債來籌措資金。片山皋月對記者表示，一個工作小組正在研究多種財源方案，包括審查冗餘補貼和稅收措施，以及利用非稅收入；不過她補充稱，目前尚未作出最終決定。片山皋月還表示，政府已做好準備，必要時可隨時就匯率波動作出適當應對。
+
+---
+
+### 2026-06-05 08:27:30  #國際
+
+市場訊息：美國國務卿魯比奧將於美國東部時間週五上午 9:30 與菲律賓外交部長會面。
+
+---
+
+### 2026-06-05 08:26:52  #市場 #央行 #國際
+
+【凱投宏觀：日本工資增長進一步鞏固日本央行加息理由】凱投宏觀表示，工資持續強勁增長為日本央行本月恢復緊縮政策開了綠燈。初步估計資料顯示，4月份勞動者現金收入增長加速。經濟學家Abhijit Surya表示，這一加速反映了獎金和加班費的增加，但常規收入增長保持在三十多年來的最強勁水平。誠然，日本央行強調的一項替代性指標顯示基本工資增速略有放緩，但該增速明顯強於去年的平均水平。在失業率處於低位且企業報告勞動力短缺的背景下，工資壓力可能保持在高位。而且正如植田和男所說，這些短缺應會支援工資和物價“在相互作用中溫和上漲“。在凱投宏觀看來，本月加息25個基點幾乎是板上釘釘的事。
 
 ---
 
@@ -22652,179 +22742,5 @@ Rubio said the previously delayed $660 mln U.S. contribution to Gavi, the Global
 ### 2026-06-04 03:36:18  #國際
 
 卡達埃米爾辦公廳：卡達埃米爾與特朗普通電話，討論地區局勢發展。
-
----
-
-### 2026-06-04 03:35:09  #公司 #國際
-
-特朗普：我將前往法國參加七國集團峰會。
-
----
-
-### 2026-06-04 03:35:02  #MKT News
-
-【US media: payment mechanism a key sticking point in US–Iran talks】CNN reports a U.S. official says one of the remaining key sticking points in U.S.–Iran negotiations is economic compensation. Iran has told mediators it expects some form of payment promptly once parties agree a preliminary MoU, rather than deferred disbursement. Trump administration officials fear early unfreezing of funds would ease Iran’s economic pain and weaken Washington’s leverage heading into a second phase to negotiate nuclear details. Trump has told aides he wants any deal to appear tougher than the 2015 agreement and to avoid actions that could be construed as delivering large cash payments, a critique he directed at the Obama-era settlement.
-
----
-
-### 2026-06-04 03:31:39  #MKT News
-
-【Bolivia names Ernesto Justiniano as defense minister】In La Paz on the 3rd, President Paz appointed Ernesto Justiniano as defense minister, replacing Marcelo Salinas, who resigned on the 2nd. Paz said drug crime is a "cancer" that must be eradicated and praised Justiniano's experience combating narcotics. Justiniano, born in 1969, is a former vice minister of social defense and ex-legislator with long experience in public administration and anti-narcotics roles.
-
----
-
-### 2026-06-04 03:31:29  #MKT News
-
-The Israeli military said alarms in Zarit in northern Israel that warned of an 'enemy aircraft incursion' were a false alarm caused by a misidentification.
-
----
-
-### 2026-06-04 03:31:27  #國際
-
-美國國務卿魯比奧：約6.6億美元暫停撥付給全球疫苗免疫聯盟（GAVI）的美國資助資金很快將到位。
-
----
-
-### 2026-06-04 03:30:57  #市場 #焦點
-
-道指跌1.01%，現報50788.949點；納指跌0.84%，現報26867.219點；標普500指數跌0.59%，現報7564.850點。
-
----
-
-### 2026-06-04 03:28:51  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500
-
-US stocks extended losses; Dow Jones Industrial Average down 1%, S&P 500 down 0.6%.
-
----
-
-### 2026-06-04 03:28:37  #國際
-
-以色列軍方表示，針對以色列北部扎裡特地區拉響的“敵方軍機入侵”防空警報為誤報。
-
----
-
-### 2026-06-04 03:26:41  #市場 #國際
-
-美國股市跌幅擴大，道瓊斯工業平均指數下跌1.00%。
-
----
-
-### 2026-06-04 03:26:23  #市場
-
-行業參考資料顯示：NFL本年度廣告銷售收入預計上漲8%。
-
----
-
-### 2026-06-04 03:26:11  #國際
-
-【美軍：伊朗關於“美方導彈攔截器致科威特機場受損”說法不實】當地時間6月3日，美軍中央司令部發布訊息稱，伊朗聲稱其並未襲擊科威特國際機場的客運航站樓，機場受損實為美方導彈攔截器所致，此說法純屬虛假。美軍中央司令部稱，伊朗利用無人機對該民用機場發動了“蓄意、經過精心策劃且毫無正當理由”的襲擊。（央視新聞）
-
----
-
-### 2026-06-04 03:25:44  #其他
-
-人工智慧資料中心零部件製造商XNRGY據傳考慮以100億美元整體出售企業。
-
----
-
-### 2026-06-04 03:24:36  #MKT News #UBER.N
-
-Uber (UBER.N) has committed nearly $500m in total financing to autonomous-vehicle startup Nuro, market sources say.
-
----
-
-### 2026-06-04 03:23:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran's military says it struck U.S. warship after action in Gulf of Oman】Iran's armed forces said they struck a U.S. warship hours after U.S. forces carried out an 'aggressive' action against an Iranian merchant ship in the Gulf of Oman; Iran said the targeted vessel served as the 'command and control center' for the hostile action.
-
----
-
-### 2026-06-04 03:23:08  #MKT News
-
-According to Axios, a U.S. official said U.S.-brokered Israel-Lebanon talks are ongoing at the State Department; initial progress was slow but later made major progress on an action plan.
-
----
-
-### 2026-06-04 03:22:50  #焦點 #國際
-
-【伊朗軍隊稱剛剛打擊美軍指揮艦】據伊朗塔斯尼姆通訊社3日援引伊朗軍隊訊息報道，數小時前，在美軍針對阿曼海的伊朗商船實施“侵略”行動之後，伊朗伊斯蘭共和國軍隊對該敵對行動“指揮與控制中心”所在的一艘美國軍艦實施打擊。（新華社）
-
----
-
-### 2026-06-04 03:22:27  #市場
-
-鈀金期貨日內跌5%，現報1322.60美元/盎司。
-
----
-
-### 2026-06-04 03:22:24  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium is down by 5.03% — Palladium decreased 5.03% to 1322.5 USD/t.oz
-
----
-
-### 2026-06-04 03:22:20  #其他
-
-訊息人士透露，優步對自動駕駛初創企業努洛（Nuro）的總投資承諾已接近5億美元。
-
----
-
-### 2026-06-04 03:21:32  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish
-
-Goldman president Waldron said the Fed under Wosh's leadership would focus primarily on its balance sheet and inflation.
-
----
-
-### 2026-06-04 03:19:25  #觀點 #央行 #國際
-
-高盛總裁約翰·沃爾德倫：沃什執掌下的美聯儲將聚焦資產負債表與通脹問題。
-
----
-
-### 2026-06-04 03:18:53  #焦點 #國際
-
-【資金賠付成伊朗談判核心僵持點】美國媒體表示，向伊朗支付資金賠付是伊美談判的主要癥結之一。伊朗已向調停方表態，希望在諒解備忘錄敲定後立刻落實相關賠付資金，不願將款項延後撥付。
-
----
-
-### 2026-06-04 03:17:58  #MKT News #NVDA.O #Impact bullish #MSFT.O #Nasdaq100
-
-The Trump administration proposed exempting "trusted applicants" from stringent national-security license reviews required before releasing frontier AI models, in exchange for ongoing oversight and monitoring.
-
----
-
-### 2026-06-04 03:17:31  #MKT News
-
-【Cayetano denies he was removed as Philippine Senate president】On the 3rd, Alan Cayetano said he was not "legally removed" as Philippine Senate president. He said electing or removing Senate officers requires participation by 13 of the 24 senators, and that he has not resigned, been legally removed, or become incapacitated.
-
----
-
-### 2026-06-04 03:17:25  #觀點
-
-高盛總裁約翰·沃爾德倫：今年私募股權作為併購交易推手的勢頭有所放緩，市場承接大型 IPO 的消化能力十分充足。
-
----
-
-### 2026-06-04 03:14:20  #國際
-
-特朗普政府擬對“可信申請人”免除嚴格的國家安全層面許可證審查，前提是申請人同意接受持續監督與管控。
-
----
-
-### 2026-06-04 03:14:15  #MKT News #WTI #Impact mixed #Brent
-
-CNN reports monetary compensation has become the key sticking point in the Iran agreement.
-
----
-
-### 2026-06-04 03:10:27  #MKT News #Market Themes #The Trump Trade
-
-Trump said Vice President Pence and Republicans are doing an excellent job in states cracking down on fraud, that billions of dollars are being uncovered, and that if all funds are found they could balance the budget and reduce taxes.
-
----
-
-### 2026-06-04 03:10:18  #國際
-
-市場資訊：資金賠付是伊朗相關協議談判的核心癥結。
 
 ---

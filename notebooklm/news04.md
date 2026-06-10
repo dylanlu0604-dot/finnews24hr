@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-11 03:08:32_
-_本檔包含 3461 則快訊，約 671082 字_
+_更新時間：2026-06-11 03:35:31_
+_本檔包含 3467 則快訊，約 671121 字_
+
+---
+
+### 2026-06-06 20:57:09  #國際
+
+伊朗外交部表示，美國需為其“非法行動”造成的一切後果以及局勢進一步升級承擔全部責任。
+
+---
+
+### 2026-06-06 20:56:21  #國際
+
+伊朗外交部表示，多次違反停火協議的行為表明美國無意緩和局勢。
+
+---
+
+### 2026-06-06 20:55:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign ministry condemns US strikes on Sirik region and Qeshm Island as ceasefire violations】Iran's foreign ministry condemned U.S. military strikes on radar and coastal surveillance facilities in the Sirik region and Qeshm Island, calling them a blatant violation of the ceasefire and an act of military aggression against Iran's sovereignty and territorial integrity. The ministry said repeated U.S. breaches indicate Washington is not seeking de‑escalation, warn that such risky actions endanger regional security, and assign responsibility for any consequences or escalation to the U.S. It affirmed Iran's inherent right of self‑defense and said it will use all available capabilities and resources to defend its sovereignty, security and national interests.
+
+---
+
+### 2026-06-06 20:55:40  #國際
+
+伊朗外交部表示，美國對錫裡克地區和格什姆島的雷達及海岸監視設施發動的襲擊違反了4月8日的停火協議。
+
+---
+
+### 2026-06-06 20:51:29  #MKT News #WTI
+
+RIA reported that a fire at an oil refinery in Russia's Tyumen region has been extinguished.
+
+---
+
+### 2026-06-06 20:50:20  #國際
+
+俄羅斯秋明州煉油廠大火已被撲滅。
+
+---
+
+### 2026-06-06 20:34:57  #公司
+
+【凱越機車闢謠吞張雪股份、多次求張雪救命等資訊】有傳言稱 "凱越機車資金鍊斷裂即將破產"、"凱越撐不住了多次求張雪救命"、"凱越銷量跌三成，嚴凱急了找張雪"、"凱越最大的敗筆，不是沒留住張雪，而是連他 36% 的股份都吞完" 等。凱越機車釋出宣告：針對近期網路平臺上集中出現的關於凱越機車及董事長嚴凱先生的一系列不實言論和惡意造謠資訊，我司在此鄭重宣告：所有傳言均為無中生有、蓄意捏造，純屬惡意抹黑。
+
+---
+
+### 2026-06-06 20:32:53  #MKT News
+
+Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press for expanded industrial, trade and logistics cooperation, focusing on joint production, machinery supplies and transport development.
+
+---
+
+### 2026-06-06 20:27:59  #MKT News
+
+【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict.
+
+---
+
+### 2026-06-06 20:25:15  #國際
+
+【普京與施羅德“熱聊”，“冷拒”澤連斯基】俄羅斯總統助理尤里·烏沙科夫5日告訴俄羅斯媒體，俄總統普京當天在克里姆林宮與德國前總理施羅德舉行“友好的一對一”會面。同日，普京拒絕烏克蘭總統澤連斯基的會面邀約，認為二人見面“沒有意義”，並指出後者的公開信中含有“挑釁內容”。 俄新社援引烏沙科夫的話報道，普京與施羅德的會面以“私下密談”方式展開，他不清楚會談細節，只知道地點是在俄首都莫斯科克里姆林宮。（新華社）
+
+---
+
+### 2026-06-06 20:17:38  #MKT News
+
+【China launches maritime traffic enforcement operation in eastern waters off Taiwan】June 6 — China’s Ministry of Transport launched a special maritime traffic law‑enforcement operation in the eastern waters off Taiwan, deploying the Fujian and Guangdong maritime administrations, the East China Sea Navigation Protection Center and the East China Sea Rescue Bureau. The operation is intended to assert Chinese maritime administrative jurisdiction, strengthen deep‑sea patrol and key‑waters traffic control, and safeguard maritime traffic safety and national rights. Beijing said the action responds to Japan and the Philippines’ unilateral initiation of sea‑boundary delimitation talks east of Taiwan, which it described as a serious infringement on China’s territorial sovereignty and maritime rights.
+
+---
+
+### 2026-06-06 20:11:35  #焦點
+
+【臺灣島東部海域海上交通專項執法行動啟動】6月6日，交通運輸部組織福建海事局、廣東海事局、東海航海保障中心、東海救助局開展臺灣島東部海域海上交通專項執法行動，全面履行我國海上行政執法管轄權，增強深遠海巡航執法和重點水域交通管控能力，保障海上交通安全，維護國家權益。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東“海域劃界談判”、嚴重侵犯中國領土主權和海洋權益採取的必要行動。（新華社）
+
+---
+
+### 2026-06-06 20:05:14  #國際
+
+【法國前總統希拉剋遺孀貝爾納黛特去世】據法國媒體6日報道，法國前總統希拉剋遺孀貝爾納黛特5日晚去世，終年93歲。 貝爾納黛特1956年與希拉剋結婚。她曾擔任法國科雷茲省議會議員，熱衷於兒童公益事業。 法國總統馬克龍6日在社交媒體發文悼念。（新華社）
+
+---
+
+### 2026-06-06 20:04:13  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait's military says Iranian strike caused material damage but no casualties.
+
+---
+
+### 2026-06-06 20:03:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwaiti military says it intercepted seven missiles from Iran on Saturday.
+
+---
+
+### 2026-06-06 20:03:34  #國際
+
+【以軍稱正調查以方襲擊黎政府軍車輛事件】以色列國防軍6日發表宣告證實，以軍當天在黎巴嫩南部襲擊了一輛黎政府軍軍車，以方正在著手調查此事件。宣告說，以軍6日在黎南部泰卜尼特地區發現一“可疑車輛”向以軍駛來，該車穿行區域系“活躍戰區”。以軍此前收到情報稱，黎真主黨會從該區域向以軍開火。鑑於上述情報且該車對“以軍士兵構成威脅”，以軍對該車實施了打擊。宣告說，初步調查顯示，車內有2名黎巴嫩政府軍軍官和1名士兵，相關調查正在進行中。宣告還說，以軍的“行動目標是黎真主黨，而非黎政府軍”。（新華社）
+
+---
+
+### 2026-06-06 20:02:36  #其他
+
+科威特國防部發言人：今天上午，武裝部隊在科威特領空探測並攔截了七枚敵方彈道導彈。這些導彈在多個居民區上空被攔截，導致一些碎片墜落。
+
+---
+
+### 2026-06-06 20:01:03  #MKT News
+
+【HKO issues red rainstorm warning signal】The Hong Kong Observatory (HKO) issued a red rainstorm warning signal today, June 6.
+
+---
+
+### 2026-06-06 20:01:01  #其他
+
+【東風汽車無人物流車品牌東風OpenVAN釋出】6月6日，東風汽車無人物流車品牌東風OpenVAN釋出，四款東風OpenVAN全場景無人物流車產品亮相。釋出會現場，東風汽車綜合物流、新能源運營、裝備製造、城市服務及零售配送等多元領域的行業龍頭企業簽約，簽約訂單超過4000臺，預計將於8月進行交付。
+
+---
+
+### 2026-06-06 20:00:02  #市場 #焦點
+
+本週大盤主力資金累計淨流入-2223.19億元，光學光電子、國有大型銀行Ⅱ板塊淨流入居前，個股京東方A、中興通訊淨流入最多。
+
+---
+
+### 2026-06-06 19:59:59  #其他
+
+【香港發出紅色暴雨警告訊號】香港天文臺今日（6日）發出紅色暴雨警告訊號。香港特區政府教育局表示，由於紅色暴雨警告訊號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。（大灣區之聲）
 
 ---
 
@@ -20823,95 +20949,5 @@ Japanese Shares Extend Decline on Tech Weakness — The Nikkei 225 Index fell 1.
 ### 2026-06-05 08:44:28  #國際
 
 【澤連斯基提議會晤 普京重申願意和談】烏克蘭總統澤連斯基4日公開致信俄羅斯總統普京，提議在第三國舉行面對面會晤以結束戰事。普京稍早時候重申，俄方願與烏方在俄美安克雷奇會晤成果基礎上以和平方式達成協議。澤連斯基在烏克蘭總統網站釋出的這封公開信中寫道，眼下，美國專注於伊朗問題，不應坐等“這場發生在歐洲的戰爭”重新成為美方關注點。烏方提議，兩國領導人就結束戰事舉行會晤並就此確定日期。澤連斯基表示，烏俄領導人在俄首都莫斯科或烏首都基輔會晤都不合適，但可以在瑞士、土耳其或阿拉伯國家會晤，這些國家有接待外國領導人“解決戰爭與和平問題”的傳統。俄總統新聞秘書佩斯科夫回應說，克里姆林宮方面已經看到澤連斯基的公開信，稍後會向普京彙報。他表示，澤連斯基如果想要談判，隨時可以來莫斯科談。當天稍早時候，普京在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄方完全準備好並願意在安克雷奇會晤的基礎上，透過和平方式與烏克蘭達成協議。普京說，俄羅斯同意按照安克雷奇會晤達成的方案，在烏克蘭問題上作出妥協，但前提是烏克蘭也準備這樣做。另據俄方訊息稱，澤連斯基釋出致普京公開信後，瑞士、土耳其訊息人士均透露，這兩國都願意舉辦俄烏領導人會晤。（央視）
-
----
-
-### 2026-06-05 08:42:19  #MKT News #Important #Market Themes #AI Revolution
-
-【Reuters/NOTUS: US officials hold preliminary talks on equity stakes in major AI firms】Reuters, citing digital outlet NOTUS and three people familiar with the matter, reports senior US officials have held preliminary talks with major AI companies about the government taking equity stakes. Discussions are exploratory and details remain unsettled; the proposal centers on companies voluntarily selling shares. Proceeds from any stakes would be used for public purposes, including potential dividends to all US households. The report notes OpenAI and ANTHROPIC are preparing high-profile IPOs.
-
----
-
-### 2026-06-05 08:41:08  #觀點
-
-【中信證券：建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解】中信證券研報表示，當前A股資金縮圈與虹吸、個股收益率分化均已觸及歷史極值，頭部資產與長尾資產的收益率相關係數正逼近0.5的背離臨界點。覆盤歷史，極致縮圈見頂並不決定大盤方向，但相關性背離往往預示著前期抱團的主線步入休整，資金行為與市場情緒面臨結構性切換。展望後市，市場能否從極致分化走向系統性收斂，取決於宏觀基本面增長與全球流動效能否實現順暢接力。在宏觀外部靴子落地前的模糊期，單純依賴產業微觀敘事已很難打破“縮圈”僵局，建議以“AI+能化”的新槓鈴結構作為兼顧降波與收益的戰略解。
-
----
-
-### 2026-06-05 08:38:23  #市場 #國際
-
-日本財務省官員：5月外匯儲備降幅為2000年有統計資料以來最大。注：在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。
-
----
-
-### 2026-06-05 08:37:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan's Ministry of Finance official said May's decline in foreign exchange reserves was the largest since 2000.
-
----
-
-### 2026-06-05 08:37:22  #觀點
-
-【中信證券：預計AI相關商品將成為我國外貿增長的新引擎】中信證券研報認為，展望2026年全年，根據WTO最新發布的《全球貿易展望（3月版）》，受益於AI相關的資本開支快速增長，相關商品出口需求也實現高增，其上修了2026年全球貿易量同比增速預測，讀數從0.5%上調至1.9%。基於此，我們預計AI相關商品將成為我國外貿增長的新引擎，疊加傳統能源價格中樞抬升及其驅動的綠色產品增量需求，我國2026年的進出口均有望維持高景氣，預計全年出口和進口同比增速或達13.2%和15.5%左右，對應的貿易順差規模仍有望保持較高規模。
-
----
-
-### 2026-06-05 08:35:53  #國際
-
-【特朗普稱對伊朗無論如何都會贏】美國總統特朗普當地時間6月4日在白宮對媒體表示，美國無需同伊朗達成協議，就能透過派兵進入伊朗獲取其濃縮鈾庫存，但他“不喜歡這個主意”。特朗普表示，在對伊朗問題上，他覺得目前“做得很好”。特朗普強調，“美國終將會贏，無論如何都會贏——要麼在紙面（協議）上贏，要麼在軍事上贏。”（CCTV國際時訊）
-
----
-
-### 2026-06-05 08:35:19  #公司 #國際
-
-【谷歌將在美國得州新建資料中心和能源設施】當地時間6月4日，谷歌和Intersect宣佈將在美國得州建設Meitner能源中心，該中心將包括一座新的資料中心以及配套的能源發電設施。
-
----
-
-### 2026-06-05 08:34:46  #國際
-
-【普京稱待衝突結束俄烏應說謝天謝地 】當地時間4日，俄羅斯總統普京在聖彼得堡會見全球主要通訊社負責人時，就俄烏衝突作出多項表態。談及衝突結束時俄烏應對彼此說什麼時，普京表示，至少應該說一句：“謝天謝地，一切都結束了”。
-
----
-
-### 2026-06-05 08:34:27  #MKT News
-
-【Putin says Russia and Ukraine should say "Thank God it's over" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say "Thank God it's over".
-
----
-
-### 2026-06-05 08:32:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Slip Ahead of Key Jobs Data — US stock futures declined on Friday as investors awaited the release of the May employment report for fresh insight into labor market conditions and the likely path of Federal Reserve policy. Uncertainty also lingered on Wall Street as the fragile ceasefire between the US and Iran held amid reports of stalled negotiations, despite President Donald Trump’s insistence that talks are nearing completion. On the corporate front, shares of Lululemon Athletica tumbled more than 11% in extended trading after the athleisure retailer cut its full-year earnings and revenue forecasts. During Thursday’s regular session, the Dow Jones surged 1.73% to a fresh record high, led by gains in healthcare and financial stocks. The S&P 500 advanced 0.41%, while the tech-heavy Nasdaq Composite slipped 0.09% as a weak outlook from Broadcom weighed on AI-related shares.
-
----
-
-### 2026-06-05 08:31:27  #觀點
-
-【中信證券：科創板“1+6”改革成效顯著 生態形成良性閉環】中信證券研報認為，回顧“1+6”改革一週年，投融資生態已形成良性閉環，在融資、併購、企業生態等多維度助力相關企業的高效發展。當前節點來看，改革已跨過制度宣示階段，進入生態驗證階段，後續值得關注的是盈利轉化能力及業績兌現能力等中長期趨勢，進行線路的驗證及反哺。分賽道來看，細分賽道的政策傳導已經呈現出清晰梯度，生物醫藥率先完成驗證，人工智慧正在加速接棒，良好的發展態勢正在推動科創板從“試驗田”真正走向“示範田”。
-
----
-
-### 2026-06-05 08:30:53  #公司 #市場 #央行 #國際
-
-【韓國股市此前領跑全球大漲行情現裂痕，股指大跌】規模達4.9萬億美元的韓國股市在一輪領跑全球的上漲行情後開始顯露承壓跡象。韓國綜合股價指數（Kospi）週五早盤最大跌幅達6.4%，三星電子、SK海力士跌幅均超7%，極端跌幅凸顯股指波動加劇。受期貨大跌拖累，韓國交易所一度暫停韓綜指程式化賣單。截至本週四，韓綜指年內漲幅超100%，但行情高度集中於兩大晶片龍頭股，一旦人工智慧題材行情降溫，大盤極易快速走弱。散戶入場熱度同步回落，融資融券規模高企還面臨韓國央行加息帶來的平倉風險。分析師表示，主打放大單日漲跌幅的槓桿型ETF普及，或將進一步放大行情回撥幅度。首爾 Eugene資產管理首席投資官Ha SeokKeun稱：“相較於基本面走弱，當前我更擔憂市場持倉過熱。未來一至兩個月，市場大機率進入高波動的盤整休整階段。”市場結構分化是核心隱憂。韓國交易所資料顯示，受人工智慧晶片需求提振的三星電子與SK海力士合計佔到韓國綜合指數（Kospi）權重的54%，在5月日均成交額中佔比近五成；韓綜指今年近七成漲幅均由這兩家企業貢獻。
-
----
-
-### 2026-06-05 08:28:36  #國際
-
-【日本財務大臣：減免食品消費稅所需財源不會依賴新增發債】日本財務大臣片山皋月重申，政府已決定，針對食品的臨時性消費稅下調將不會依賴額外發債來籌措資金。片山皋月對記者表示，一個工作小組正在研究多種財源方案，包括審查冗餘補貼和稅收措施，以及利用非稅收入；不過她補充稱，目前尚未作出最終決定。片山皋月還表示，政府已做好準備，必要時可隨時就匯率波動作出適當應對。
-
----
-
-### 2026-06-05 08:27:30  #國際
-
-市場訊息：美國國務卿魯比奧將於美國東部時間週五上午 9:30 與菲律賓外交部長會面。
-
----
-
-### 2026-06-05 08:26:52  #市場 #央行 #國際
-
-【凱投宏觀：日本工資增長進一步鞏固日本央行加息理由】凱投宏觀表示，工資持續強勁增長為日本央行本月恢復緊縮政策開了綠燈。初步估計資料顯示，4月份勞動者現金收入增長加速。經濟學家Abhijit Surya表示，這一加速反映了獎金和加班費的增加，但常規收入增長保持在三十多年來的最強勁水平。誠然，日本央行強調的一項替代性指標顯示基本工資增速略有放緩，但該增速明顯強於去年的平均水平。在失業率處於低位且企業報告勞動力短缺的背景下，工資壓力可能保持在高位。而且正如植田和男所說，這些短缺應會支援工資和物價“在相互作用中溫和上漲“。在凱投宏觀看來，本月加息25個基點幾乎是板上釘釘的事。
 
 ---

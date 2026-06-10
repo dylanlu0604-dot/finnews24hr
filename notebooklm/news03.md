@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-11 03:08:32_
-_本檔包含 3813 則快訊，約 670918 字_
+_更新時間：2026-06-11 03:35:31_
+_本檔包含 3818 則快訊，約 671561 字_
+
+---
+
+### 2026-06-08 19:40:40  #國際
+
+美國地質調查局：菲律賓巴蘭貢南西南方向 12 公里處發生 5.5 級地震。
+
+---
+
+### 2026-06-08 19:40:09  #公司 #國際
+
+英偉達CEO黃仁勳：與SK海力士和SK Telecom的合作關係未來可能為韓國帶來數千億美元的業務。
+
+---
+
+### 2026-06-08 19:39:50  #國際
+
+印度貿易官員：4-5月印度商品出口同比增長15%。
+
+---
+
+### 2026-06-08 19:39:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Rebound — Futures tracking US equities were firmly higher on Monday on signs of caution de-escalation in the Middle East and a halt to the selloff for chip producers. Contracts for the S&P 500 and Nasdaq 100 gained around 1%, while those for the Dow were 0.4% higher. Iran stated it had ended its military operation in Israel following strikes over the weekend, easing concerns that escalation would have broken ongoing negotiations between Tehran and the US to end the wider conflict. Energy prices and Treasury yields pared their rebound to support equities. Meanwhile, speculative positions on the AI economy returned as after Broadcom's earnings ignited a selloff in chip producers last week. Nvidia gained over 2% premarket while Micron and Marvell jumped over 4% each. AI infrastructure and datacenter investment will be tested Wednesday evening with Oracle's earnings. Its shares were 2% higher.
+
+---
+
+### 2026-06-08 19:39:37  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #000660.KS #Impact bullish #017670.KS
+
+NVIDIA (NVDA.O) CEO Jensen Huang said partnerships with SK Hynix and SK Telecom could generate several hundred billion dollars of business for South Korea over time.
+
+---
+
+### 2026-06-08 19:39:31  #其他
+
+西南航空表示，商務出行需求保持穩健。
+
+---
+
+### 2026-06-08 19:39:27  #國際
+
+印度貿易官員：印度在對美貿易協定中，正爭取相較於其他競爭經濟體更優惠的關稅待遇。
+
+---
+
+### 2026-06-08 19:38:48  #國際
+
+印度貿易官員：印美貿易協定可在美國貿易代表辦公室（USTR）301調查結束後敲定。
+
+---
+
+### 2026-06-08 19:38:41  #MKT News #XAUUSD #Impact bullish #Brent
+
+Refinitiv Middle East correspondent reports no Israeli response yet to Iran's statement. Earlier today the Israeli military said it will continue to strike HEZBOLLAH.
+
+---
+
+### 2026-06-08 19:38:24  #其他
+
+【中國加入港口國措施協定首年履約情況在滬公佈】《關於預防、制止和消除非法、不報告、不管制捕魚的港口國措施協定》全球實施十週年中國主題活動近日在上海舉行。港口國措施協定中國國家聯絡點代表介紹中國加入協定一年來主要履約情況。據介紹，中國加入港口國措施協定一年來，認真履行各項義務要求，建設制度體系，建立多部門工作協調機制，指定國家聯絡點，完善法律保障，印發工作意見；規範港口檢查，完成第一批23個港口指定工作，組織開展涉漁外國籍船舶港口國檢查，指導中國籍遠洋漁船接受其他港口國的檢查；參與國際合作，參加港口國措施協定締約方大會和相關國際會議，積極參與規則討論，中國專家被提名為港口國措施協定可持續執行工作組亞洲區代表；開展履約培訓，舉辦港口國措施協定國際研討會，提升履約能力；加強港口國措施協定履約宣傳，實施相關工作紮實起步。（新華社）
+
+---
+
+### 2026-06-08 19:37:45  #其他
+
+【Rokid回應“拍空姐上傳社群”：高度重視，侵犯隱私內容已全部清理下架】6月8日晚間訊息，針對近日被曝“乘客用智慧眼鏡偷拍空姐上傳社群”一事，Rokid今日釋出關於社群生態治理與隱私保護的宣告稱：“對此，我們高度重視，並緊急啟動了專項整改。”“新物種融入社會必然經歷邊界的碰撞，全世界和全行業都面臨同樣的考驗。”樂奇Rokid方面表示，“科技的初衷是給使用者提供更好的產品和技術，去記錄身邊的美好，我們呼籲大家尊重法律法規與社會公序良俗，守住隱私保護的底線。”（新浪科技）
+
+---
+
+### 2026-06-08 19:37:42  #其他
+
+越南電動汽車製造商Vinfast：預計2026年兩輪車交付量至少為2025年的2.5倍。
+
+---
+
+### 2026-06-08 19:36:16
+
+【五糧液：擬免去曾從欽董事職務 其擔任的董事長等職務自董事解任生效之日起自動解除】五糧液公告，根據宜賓市人民政府相關檔案，經提名委員會稽核、公司董事會提名，同意免去曾從欽董事職務，曾從欽擔任的董事長、董事會專門委員會主任委員及委員職務，自董事解任生效之日起自動解除；同意增補鄧敏為公司第七屆董事會非獨立董事候選人，任期自公司股東會審議透過之日起至公司第七屆董事會任期屆滿之日止。
+
+---
+
+### 2026-06-08 19:35:36  #其他
+
+越南電動汽車製造商Vinfast：預計全年汽車交付量至少為30萬輛，第一季度電動汽車交付量為58577輛。
+
+---
+
+### 2026-06-08 19:35:05  #其他
+
+【南海夏季風已於6月爆發 我國進入主汛期】記者今天從國家氣候中心獲悉，2026年南海夏季風已於6月全面爆發，強度接近常年到偏強。南海夏季風爆發，標誌著來自熱帶的溼潤氣流造訪南海，西太平洋副熱帶高壓明顯減弱、東撤，南海區域開始盛行西南風，強大的熱帶、副熱帶暖溼氣流將顯著加強，對流活動開始活躍，華南等地降水顯著增加，隨後季風雨帶將隨之從華南一帶逐漸北推，我國進入主汛期。（央視新聞）
+
+---
+
+### 2026-06-08 19:34:38  #公司 #市場 #國際
+
+印度國家證券交易所公告：埃克西斯共同基金臨時暫停埃克西斯黃金ETF及埃克西斯黃金基金的單位認購。
+
+---
+
+### 2026-06-08 19:34:07  #公司
+
+【廣藥集團在哈薩克、烏茲別克與多方達成合作意向】廣藥集團黨委書記、董事長李小軍近日隨香港特區行政長官李家超率領的商貿代表團訪問哈薩克和烏茲別克。訪問期間，廣藥集團簽署及達成多項合作協議：旗下白雲山漢方與科倫（哈薩克）藥業簽署抗腫瘤原料藥合作協議；白雲山天心製藥與烏茲別克藥企ADN Pharm-Sanoat簽署合作備忘錄，涉及藥品註冊及本地運營，並與OMON MED PHARM達成聯合建廠及協同研發合作意向；同時，廣藥集團與哈薩克主權財富基金（Samruk-Kazyna）、中烏物流公司分別就產業投資、冷鏈運輸及保稅倉儲等業務達成合作意向。據瞭解，廣藥集團計劃在2026年至2030年期間，投入200億元用於科研創新、300億元用於產業投資，其中中亞被列為重要投資區域。
+
+---
+
+### 2026-06-08 19:33:01  #公司
+
+【一輛小米SU7 Ultra在江西南昌起火，公司回應：初步排除電池自燃引發】@小米公司發言人 6月8日發文：6月7日，一輛小米SU7 Ultra在江西省南昌市英雄大橋起火，火情由消防部門及時控制，未造成人員傷亡。事件發生後，我們第一時間聯絡車主，將積極配合完成後續車輛處置事宜。目前，相關情況已向監管部門報備，經現場調查及後臺資料分析，事發前車輛動力電池全程處於正常工作狀態，未出現熱失控訊號，初步排除電池自燃引發起火。具體起火原因待消防部門勘察鑑定後確認，我們將持續跟進消防部門勘察進展。請廣大網友不信謠、不傳謠，感謝大家的理解與關注。
+
+---
+
+### 2026-06-08 19:32:44  #公司 #國際
+
+【菲律賓和印尼宣佈解除海嘯預警】6月8日早些時候，中國地震臺網正式測定，菲律賓群島地區發生7.9級地震。隨後菲律賓火山地震研究所以及印尼氣象、氣候和地球物理局分別釋出海嘯預警。8日下午，菲火山地震研究所釋出公告稱，經過持續監測分析，發生的海嘯波不足以造成嚴重破壞，因此宣佈取消當天釋出的海嘯預警。印尼氣象、氣候和地球物理局最新通報稱，目前海嘯預警已解除。（央視新聞）
+
+---
+
+### 2026-06-08 19:32:42  #Trading Economics #Economy #Angola #Inflation Rate #Importance 1
+
+Angola Inflation Rate Hits 3-Year Low in May — Angola’s annual inflation rate eased to 10.88% in May 2026 from 11.58% in April, marking the lowest since May 2023 and extending the downward trend observed since mid-2024. The relative stability of the exchange rate has helped limit inflationary pressures. Prices continued to slow for most CPI categories, including food & non-alcoholic beverages (11.33% vs 11.96% in April); alcoholic beverages & tobacco (9.22% vs 9.63%); clothing & footwear (7.39% vs 8.47%); housing & utilities (14.32% vs 15.17%); transportation (15.73% vs 16.45%); hotels & restaurants (6.07% vs 6.62%), among others. On a monthly basis, the CPI rose by 0.53% in May, after a 0.58% increase in the previous month.
+
+---
+
+### 2026-06-08 19:32:41  #國際
+
+【英、歐峰會召開在即，英國金融業強烈呼籲深化雙邊聯絡】英國行業遊說機構“英國金融業行會”（UK Finance）於週一釋出報告指出，英國各銀行正尋求與歐盟建立更緊密的聯絡。報告稱，銀行業並非試圖推翻英國脫歐的結果，也無意“逆向重新融入歐盟單一市場”，而是希望將英歐雙方在2023年簽署的《金融服務合作諒解備忘錄》中的相關條款進行制度化和正式化。這標誌著英國金融業自2016年6月脫歐公投（導致英國脫離歐盟並失去了部分進入歐洲金融市場的渠道）十年以來，就“尋求與歐洲同行進一步融合”所做出的最強硬表態之一。
+
+---
+
+### 2026-06-08 19:32:14  #公司
+
+韋德布什證券公司對Cerebras首次覆蓋，給予“跑贏大盤”評級，目標價為270美元。
+
+---
+
+### 2026-06-08 19:31:47  #市場 #國際
+
+印度10年期基準政府債券收益率<IN064835G=CC>收於6.9532%，前一交易日收盤為6.9772%。
+
+---
+
+### 2026-06-08 19:31:46  #MKT News
+
+Turkey's major banks index extended gains, rising 3.6%.
+
+---
+
+### 2026-06-08 19:31:22  #其他
+
+阿瑞斯資本：計劃發行至多 10 億美元短期無擔保票據。
+
+---
+
+### 2026-06-08 19:31:02  #公司
+
+【諾唯贊：控股股東諾唯贊投資擬增持，金額不低於1.15億元】諾唯贊公告，控股股東南京諾唯贊投資管理有限公司擬自2026年6月9日起6個月內，透過集中競價方式增持公司股份，增持總金額不低於1.15億元且不高於2.25億元，資金來源為自有資金和自籌資金（包括股票增持專項貸款）。上海浦東發展銀行南京分行已向諾唯贊投資出具《貸款承諾函》，提供額度不超過2億元、期限3年的專項貸款。本次增持不設定價格區間，不觸及要約收購，不會導致公司控股股東及實際控制人發生變化。
 
 ---
 
@@ -22834,131 +22990,5 @@ Iranian Students' News Agency reported Pakistan's interior minister has departed
 ### 2026-06-06 21:00:44  #其他
 
 【廣東召開2026年全省大灣區辦工作會議】據廣東省發展改革委訊息，6月5日，2026年全省大灣區辦工作會議在廣州召開。會議傳達中央區域協調發展領導小組第四次全體會議和省推進粵港澳大灣區建設領導小組第十一次會議精神，全面總結近年來我省推進粵港澳大灣區建設的工作成效，研究部署下一階段重點任務。會議要求，要聚焦重大戰略任務，攜手港澳推動大灣區建設再上新臺階。一是持續深化產業科技合作，構建雙向互動的科創合作體系，推動粵港澳三地協同育才引才用才，加快建設具有國際競爭力的現代化產業體系，培育國際競爭合作新優勢。二是持續強化全方位互聯互通，不斷完善基礎設施高效網際網路絡，深化規則銜接機制對接，加快構建宜居宜業宜遊優質生活圈，有效提升大灣區市場一體化水平。三是持續建強重大合作平臺，準確把握平臺功能定位，充分發揮平臺試驗示範作用，因地制宜與港澳探索共建特色合作平臺，“以點帶面”引領粵港澳全面合作。四是持續深化大灣區內地九市內涵式發展，堅持機制先行、最佳化要素配置、注重兩岸融合，率先探索彰顯灣區特色的城市群發展路徑。
-
----
-
-### 2026-06-06 20:57:09  #國際
-
-伊朗外交部表示，美國需為其“非法行動”造成的一切後果以及局勢進一步升級承擔全部責任。
-
----
-
-### 2026-06-06 20:56:21  #國際
-
-伊朗外交部表示，多次違反停火協議的行為表明美國無意緩和局勢。
-
----
-
-### 2026-06-06 20:55:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign ministry condemns US strikes on Sirik region and Qeshm Island as ceasefire violations】Iran's foreign ministry condemned U.S. military strikes on radar and coastal surveillance facilities in the Sirik region and Qeshm Island, calling them a blatant violation of the ceasefire and an act of military aggression against Iran's sovereignty and territorial integrity. The ministry said repeated U.S. breaches indicate Washington is not seeking de‑escalation, warn that such risky actions endanger regional security, and assign responsibility for any consequences or escalation to the U.S. It affirmed Iran's inherent right of self‑defense and said it will use all available capabilities and resources to defend its sovereignty, security and national interests.
-
----
-
-### 2026-06-06 20:55:40  #國際
-
-伊朗外交部表示，美國對錫裡克地區和格什姆島的雷達及海岸監視設施發動的襲擊違反了4月8日的停火協議。
-
----
-
-### 2026-06-06 20:51:29  #MKT News #WTI
-
-RIA reported that a fire at an oil refinery in Russia's Tyumen region has been extinguished.
-
----
-
-### 2026-06-06 20:50:20  #國際
-
-俄羅斯秋明州煉油廠大火已被撲滅。
-
----
-
-### 2026-06-06 20:34:57  #公司
-
-【凱越機車闢謠吞張雪股份、多次求張雪救命等資訊】有傳言稱 "凱越機車資金鍊斷裂即將破產"、"凱越撐不住了多次求張雪救命"、"凱越銷量跌三成，嚴凱急了找張雪"、"凱越最大的敗筆，不是沒留住張雪，而是連他 36% 的股份都吞完" 等。凱越機車釋出宣告：針對近期網路平臺上集中出現的關於凱越機車及董事長嚴凱先生的一系列不實言論和惡意造謠資訊，我司在此鄭重宣告：所有傳言均為無中生有、蓄意捏造，純屬惡意抹黑。
-
----
-
-### 2026-06-06 20:32:53  #MKT News
-
-Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press for expanded industrial, trade and logistics cooperation, focusing on joint production, machinery supplies and transport development.
-
----
-
-### 2026-06-06 20:27:59  #MKT News
-
-【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict.
-
----
-
-### 2026-06-06 20:25:15  #國際
-
-【普京與施羅德“熱聊”，“冷拒”澤連斯基】俄羅斯總統助理尤里·烏沙科夫5日告訴俄羅斯媒體，俄總統普京當天在克里姆林宮與德國前總理施羅德舉行“友好的一對一”會面。同日，普京拒絕烏克蘭總統澤連斯基的會面邀約，認為二人見面“沒有意義”，並指出後者的公開信中含有“挑釁內容”。 俄新社援引烏沙科夫的話報道，普京與施羅德的會面以“私下密談”方式展開，他不清楚會談細節，只知道地點是在俄首都莫斯科克里姆林宮。（新華社）
-
----
-
-### 2026-06-06 20:17:38  #MKT News
-
-【China launches maritime traffic enforcement operation in eastern waters off Taiwan】June 6 — China’s Ministry of Transport launched a special maritime traffic law‑enforcement operation in the eastern waters off Taiwan, deploying the Fujian and Guangdong maritime administrations, the East China Sea Navigation Protection Center and the East China Sea Rescue Bureau. The operation is intended to assert Chinese maritime administrative jurisdiction, strengthen deep‑sea patrol and key‑waters traffic control, and safeguard maritime traffic safety and national rights. Beijing said the action responds to Japan and the Philippines’ unilateral initiation of sea‑boundary delimitation talks east of Taiwan, which it described as a serious infringement on China’s territorial sovereignty and maritime rights.
-
----
-
-### 2026-06-06 20:11:35  #焦點
-
-【臺灣島東部海域海上交通專項執法行動啟動】6月6日，交通運輸部組織福建海事局、廣東海事局、東海航海保障中心、東海救助局開展臺灣島東部海域海上交通專項執法行動，全面履行我國海上行政執法管轄權，增強深遠海巡航執法和重點水域交通管控能力，保障海上交通安全，維護國家權益。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東“海域劃界談判”、嚴重侵犯中國領土主權和海洋權益採取的必要行動。（新華社）
-
----
-
-### 2026-06-06 20:05:14  #國際
-
-【法國前總統希拉剋遺孀貝爾納黛特去世】據法國媒體6日報道，法國前總統希拉剋遺孀貝爾納黛特5日晚去世，終年93歲。 貝爾納黛特1956年與希拉剋結婚。她曾擔任法國科雷茲省議會議員，熱衷於兒童公益事業。 法國總統馬克龍6日在社交媒體發文悼念。（新華社）
-
----
-
-### 2026-06-06 20:04:13  #MKT News #WTI #Impact bullish #Brent
-
-Kuwait's military says Iranian strike caused material damage but no casualties.
-
----
-
-### 2026-06-06 20:03:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwaiti military says it intercepted seven missiles from Iran on Saturday.
-
----
-
-### 2026-06-06 20:03:34  #國際
-
-【以軍稱正調查以方襲擊黎政府軍車輛事件】以色列國防軍6日發表宣告證實，以軍當天在黎巴嫩南部襲擊了一輛黎政府軍軍車，以方正在著手調查此事件。宣告說，以軍6日在黎南部泰卜尼特地區發現一“可疑車輛”向以軍駛來，該車穿行區域系“活躍戰區”。以軍此前收到情報稱，黎真主黨會從該區域向以軍開火。鑑於上述情報且該車對“以軍士兵構成威脅”，以軍對該車實施了打擊。宣告說，初步調查顯示，車內有2名黎巴嫩政府軍軍官和1名士兵，相關調查正在進行中。宣告還說，以軍的“行動目標是黎真主黨，而非黎政府軍”。（新華社）
-
----
-
-### 2026-06-06 20:02:36  #其他
-
-科威特國防部發言人：今天上午，武裝部隊在科威特領空探測並攔截了七枚敵方彈道導彈。這些導彈在多個居民區上空被攔截，導致一些碎片墜落。
-
----
-
-### 2026-06-06 20:01:03  #MKT News
-
-【HKO issues red rainstorm warning signal】The Hong Kong Observatory (HKO) issued a red rainstorm warning signal today, June 6.
-
----
-
-### 2026-06-06 20:01:01  #其他
-
-【東風汽車無人物流車品牌東風OpenVAN釋出】6月6日，東風汽車無人物流車品牌東風OpenVAN釋出，四款東風OpenVAN全場景無人物流車產品亮相。釋出會現場，東風汽車綜合物流、新能源運營、裝備製造、城市服務及零售配送等多元領域的行業龍頭企業簽約，簽約訂單超過4000臺，預計將於8月進行交付。
-
----
-
-### 2026-06-06 20:00:02  #市場 #焦點
-
-本週大盤主力資金累計淨流入-2223.19億元，光學光電子、國有大型銀行Ⅱ板塊淨流入居前，個股京東方A、中興通訊淨流入最多。
-
----
-
-### 2026-06-06 19:59:59  #其他
-
-【香港發出紅色暴雨警告訊號】香港天文臺今日（6日）發出紅色暴雨警告訊號。香港特區政府教育局表示，由於紅色暴雨警告訊號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。（大灣區之聲）
 
 ---
