@@ -1,7 +1,181 @@
 {
-  "updated": "2026-06-10 22:55:41",
-  "count": 18336,
+  "updated": "2026-06-10 22:59:57",
+  "count": 18338,
   "items": [
+    {
+      "id": "4928654",
+      "time": "2026-06-10 22:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭銀行旗下機構稱參與SpaceX上市猶如豪賭 與早年投資加密貨幣類似】荷蘭銀行旗下ABN Amro Investment Solutions的首席投資官Christophe Boucher表示，參與SpaceX首次公開募股，類似於大約15年前買入加密貨幣，要麼可能損失全部本金，要麼可能獲得指數級的回報。儘管有理由對埃隆·馬斯克為SpaceX設定的約1.8萬億美元目標估值持懷疑態度，但仍需考慮其風險回報比。"
+    },
+    {
+      "id": "4928653",
+      "time": "2026-06-10 22:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳市星源材質科技股份有限公司透過港交所上市聆訊】據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:019eb20a-d227-7dd8-afa6-a959def118be",
+      "time": "2026-06-10 22:58:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM said talks on the US-Mexico-Canada Agreement will continue for months."
+    },
+    {
+      "id": "mkt:019eb20a-bd58-7dd8-afa6-a7200cb27799",
+      "time": "2026-06-10 22:58:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Dow Jones Industrial Average losses widened to 1.0%; Nasdaq Composite down 0.95%; S&P 500 down 0.7%."
+    },
+    {
+      "id": "te:markets:558109",
+      "time": "2026-06-10 22:58:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South African Rand Subdued — The South African rand hovered around 16.5 per USD, near the lowest since mid-May, pressured by falling prices of key precious metals, particularly gold and PGMs. Markets turned cautious as Middle East tensions flared again with US–Iran strikes, while Trump’s remarks unsettled a fragile ceasefire and clouded hopes for a broader peace deal. Meanwhile, the South African Reserve Bank noted in its Financial Stability Review that the oil price shock could prolong inflationary pressures, increasing the likelihood of further tightening. It added that its quarterly projection model now suggests another rate hike in 2026 following the 25-basis-point increase on May 28."
+    },
+    {
+      "id": "4928652",
+      "time": "2026-06-10 22:58:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.02%，現報50355.352點；納指跌0.90%，現報25448.055點；標普500指數跌0.70%，現報7335.140點。"
+    },
+    {
+      "id": "4928651",
+      "time": "2026-06-10 22:58:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX取暖油主力合約漲超2%】NYMEX取暖油主力合約漲超2%，現報3.62美元/加侖。"
+    },
+    {
+      "id": "4928650",
+      "time": "2026-06-10 22:57:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長：關於美墨加協定談判的基本預期是談判將持續數月。"
+    },
+    {
+      "id": "4928649",
+      "time": "2026-06-10 22:57:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌3.28%。"
+    },
+    {
+      "id": "4928648",
+      "time": "2026-06-10 22:57:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "mkt:019eb209-2437-7dd8-afa6-9f5d39f47a88",
+      "time": "2026-06-10 22:56:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "BOC Governor Macklem said the longer the war drags on, the greater the risk of broad-based inflation."
+    },
+    {
+      "id": "mkt:019eb208-eae6-7dd8-afa6-97fe872ac2d6",
+      "time": "2026-06-10 22:56:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell to $4,130/oz, down 3.06% on the day."
+    },
+    {
+      "id": "4928647",
+      "time": "2026-06-10 22:56:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌3%，現報4128.85美元/盎司。"
+    },
+    {
+      "id": "4928646",
+      "time": "2026-06-10 22:56:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌3.06%。"
+    },
+    {
+      "id": "4928645",
+      "time": "2026-06-10 22:56:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內跌3.20%。"
+    },
+    {
+      "id": "4928644",
+      "time": "2026-06-10 22:55:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長：中東衝突短期內無明顯解決跡象。"
+    },
+    {
+      "id": "4928643",
+      "time": "2026-06-10 22:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍證實，本週早些時候伊朗發動彈道導彈襲擊期間，拉馬特大衛空軍基地出現損毀。初步調查顯示，損毀大機率由防空攔截殘骸墜落所致，並非導彈直接命中。"
+    },
+    {
+      "id": "mkt:019eb207-b31b-7dd8-afa6-8dee3eddf5d9",
+      "time": "2026-06-10 22:55:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor MACKLEM said persistently elevated energy prices pose a greater risk to headline CPI."
+    },
     {
       "id": "4928642",
       "time": "2026-06-10 22:53:49",
@@ -168866,151 +169040,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】焦煤連續漲3.32%，菜油連續漲2.12%，焦炭連續漲2.05%，20號膠連續跌1.38%，瀝青連續漲1.05%。"
-    },
-    {
-      "id": "mkt:019e8dff-8ec2-7ff7-b12c-1cdcd777d8f6",
-      "time": "2026-06-03 22:59:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Kuwait declares two Iranian diplomats persona non grata, orders expulsion】Kuwait’s Foreign Ministry said on the 3rd it had declared two members of the Iranian diplomatic mission persona non grata and ordered them to leave within 24 hours. The ministry said the decision was made against the backdrop of \"Iran’s continued ballistic missile and drone attacks.\""
-    },
-    {
-      "id": "mkt:019e8dff-0781-7ff7-b12c-141828f99738",
-      "time": "2026-06-03 22:59:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Zelenskiy says willing to begin immediate direct talks with Putin】On June 3, Ukrainian President Zelenskiy said he was willing to begin immediate direct talks with Russian President Putin, seeking top-level dialogue to accelerate an end to the Russia-Ukraine conflict and saying Ukraine will not wait for the US to resolve other global priorities before advancing its own issues. Russia had no immediate response."
-    },
-    {
-      "id": "mkt:019e8dfe-ae63-7ff7-b12c-0b2d746331db",
-      "time": "2026-06-03 22:58:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said annual budget fraud losses are estimated at at least $500 bln, and once funds flow out recovery is very difficult."
-    },
-    {
-      "id": "mkt:019e8dfe-9fa4-7ff7-b12c-00a4ce84a53b",
-      "time": "2026-06-03 22:58:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "HKEX documents show Anker Innovations Technology Co Ltd has submitted a listing application to HKEX."
-    },
-    {
-      "id": "4915714",
-      "time": "2026-06-03 22:58:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "mkt:019e8dfe-86a1-7ff7-b12b-f821733c4de2",
-      "time": "2026-06-03 22:58:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "According to HKEX filings, Shenzhen Xingyuan Material Technology Co., Ltd. has cleared its listing hearing."
-    },
-    {
-      "id": "4915713",
-      "time": "2026-06-03 22:58:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：資金一旦撥付出去，想要追回難度極大。"
-    },
-    {
-      "id": "4915712",
-      "time": "2026-06-03 22:58:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：財政預算每年預估至少存在 5000 億美元欺詐款項。"
-    },
-    {
-      "id": "4915711",
-      "time": "2026-06-03 22:58:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【華爾街知名科技股多頭Ives：準備好爆米花 SpaceX上市將是分水嶺事件】Wedbush Securities的Dan Ives表示，SpaceX的首次公開募股將是一場“分水嶺事件”，不僅會打破紀錄，也將為隨後OpenAI和Anthropic PBC的IPO奠定基調。這位全球科技研究主管兼資深股票分析師週三表示：“把爆米花準備好吧：SpaceX、OpenAI、Anthropic，未來幾個月會非常有看頭。”他還說，這將是“對市場具有歷史意義”的事件。圍繞這些IPO的熱情，正在廣泛傳導至科技板塊，而科技股正是推動美國主要股指創出新高的重要力量。截至週二，以科技股為主的納斯達克100指數今年已上漲21%，漲幅幾乎是標普500指數的兩倍。"
-    },
-    {
-      "id": "mkt:019e8dfd-c601-7ff7-b12b-f7e25c159faa",
-      "time": "2026-06-03 22:57:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says QR-code-based cross-border merchant payment link between India and Cambodia has gone live."
-    },
-    {
-      "id": "4915710",
-      "time": "2026-06-03 22:57:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：印度與柬埔寨推出掃碼跨境商戶支付支付系統互聯互通專案。"
-    },
-    {
-      "id": "4915709",
-      "time": "2026-06-03 22:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱願即刻與普京展開直接談判】當地時間3日，烏克蘭總統澤連斯基稱，他願意即刻與俄羅斯總統普京展開直接談判，希望透過兩國元首對話，推動俄烏衝突早日結束。澤連斯基強調談判的緊迫性，稱烏克蘭無意等待美國處理完其他全球事務後，再推進烏克蘭相關問題。他表示，烏方希望依託兩國最高層級直接對話，加速止戰程序。對於這一表態，俄羅斯方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4915708",
-      "time": "2026-06-03 22:56:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "紐約州總檢察長因反壟斷相關問題調查康帕斯公司。"
-    },
-    {
-      "id": "4915707",
-      "time": "2026-06-03 22:55:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "達美航空高管：儘管全球局勢存在不確定性，需求依然強勁。企業客戶、高階艙及經濟艙的需求均有所上升。"
-    },
-    {
-      "id": "4915706",
-      "time": "2026-06-03 22:55:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【策略師：美國新關稅對歐洲市場毫無影響】Panmure Liberum策略師Joachim Klement寫道，新提議的10%的美國關稅對歐洲出口商沒有任何改變。Klement說：“這對歐洲市場來說毫無影響，因為臨時的10%關稅已被永久性的10%關稅所取代。對出口商來說，其實沒有任何改變。“對歐洲和英國出口商新提議的關稅，是在另一項臨時的10%關稅料將於7月底到期之前出臺的。美國貿易代表賈米森·格里爾表示，徵收這些關稅是因為對強迫勞動的擔憂。Klement說：“徵收關稅的理由表面上看起來很荒謬，因為歐洲的反奴隸制法律比美國更嚴格。”"
-    },
-    {
-      "id": "mkt:019e8dfb-e140-7ff5-8348-89b4fed53b15",
-      "time": "2026-06-03 22:55:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Delta Air Lines executive said demand remains strong despite global uncertainty, with corporate bookings and both premium and economy cabin demand rising."
     }
   ]
 }
