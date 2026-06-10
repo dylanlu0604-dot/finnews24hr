@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-10 12:41:57",
-  "count": 18727,
+  "updated": "2026-06-10 12:46:02",
+  "count": 18732,
   "items": [
+    {
+      "id": "4927303",
+      "time": "2026-06-10 12:44:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本《讀賣新聞》報道，三菱重工將在2030財年末前，將燃氣輪機產能在2024財年水平基礎上翻番，以滿足資料中心需求。"
+    },
+    {
+      "id": "4927302",
+      "time": "2026-06-10 12:43:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【茅臺股東大會報到酒店多房型售罄，僅剩4999元房間可定】貴州茅臺2025年度股東會定於明日召開，會址選定茅臺會議中心大禮堂。據悉，股東們將於今日下午2點至8點，在茅臺國際大酒店大堂簽到處進行報到，並領取證件、餐券及會議相關資料。查詢發現，目前茅臺大酒店共8個房型，7個已被訂滿，僅剩“豪華別墅”一個房型可定，單晚價格為4999元。（酒業內參）"
+    },
+    {
+      "id": "mkt:019eafd7-c0b3-799a-b41c-1da14170fd50",
+      "time": "2026-06-10 12:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pop Mart: non‑Labubu products accounted for about 50% of US revenue last year】Pop Mart International Group COO said non‑Labubu products made roughly 50% of US revenue last year and represent the majority of sales in Japan, South Korea and Southeast Asia. While Labubu’s viral hit last year drew market attention, other IPs also recorded strong growth; the Twinkle Twinkle series is among Asia’s fastest‑growing IPs. The company expects overseas headcount to rise from about 20–30% today to roughly 50% within several years. Pop Mart operates ~80 US stores and plans to exceed 100 this year, with flagship openings in Times Square and Fifth Avenue scheduled for Q4. The company is working with Sony on a Labubu film, targeting the earliest release in summer 2028."
+    },
+    {
+      "id": "mkt:019eafd7-a04c-799a-b41c-16363f71ef97",
+      "time": "2026-06-10 12:43:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai business group raises 2026 inf forecast to 2.5-3.0% from 2.0-3.0%."
+    },
+    {
+      "id": "mkt:019eafd7-7727-799a-b41c-0be64de64b2b",
+      "time": "2026-06-10 12:43:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai business group says Thailand's exports are forecast to rise 8-10% in 2026, versus a prior forecast of a 0.5-1.5% decline."
+    },
+    {
+      "id": "4927301",
+      "time": "2026-06-10 12:42:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商會預計，2026年泰國出口將增長8%至10%（此前預期為下降0.5%至1.5%）。"
+    },
+    {
+      "id": "mkt:019eafd7-1773-799a-b41c-049e1ac0a073",
+      "time": "2026-06-10 12:42:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares plunged 9%."
+    },
+    {
+      "id": "4927300",
+      "time": "2026-06-10 12:42:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商會預測2026年泰國國內生產總值增速為1.6%至2.0%，此前預測為1.2%至1.6%。"
+    },
+    {
+      "id": "4927299",
+      "time": "2026-06-10 12:42:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗警告海灣國家不要允許領土供人發動攻擊】根據一份宣告，伊朗外交部“提醒該地區所有國家，特別是波斯灣南岸國家，它們有法律和道德責任阻止美國或以色列利用其領土對伊朗發動攻擊”。 伊朗“將毫不猶豫地行使其固有的自衛權，包括打擊襲擊源頭，以及用於策劃、執行和支援侵略行動的基地和後勤設施”。宣告稱伊朗沉重打擊了該地區發動這些侵略行為的源頭，即美國基地和資產。"
+    },
+    {
+      "id": "mkt:019eafd6-d458-799a-b41b-f8d12239cc73",
+      "time": "2026-06-10 12:42:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "A Thai business group expects Thailand's 2026 GDP growth at 1.6–2.0%, up from its prior forecast of 1.2–1.6%."
+    },
+    {
+      "id": "mkt:019eafd6-3eda-799a-b41b-f1ace0f7fdf7",
+      "time": "2026-06-10 12:41:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDONESIA FINMIN says higher fuel prices should have limited impact on inf."
+    },
     {
       "id": "4927298",
       "time": "2026-06-10 12:40:31",
@@ -172846,61 +172939,6 @@
         "公司"
       ],
       "text": "【領先股份在深圳成立先進創新材料公司】企查查APP顯示，近日，先進創新（深圳）材料有限公司成立，經營範圍包含：新材料技術研發；電子專用材料研發；電子專用材料製造；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由領先股份間接全資持股。"
-    },
-    {
-      "id": "4914244",
-      "time": "2026-06-03 12:45:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比兌美元延續跌勢，跌至1美元兌95.75盧比，日內跌幅達0.5%。"
-    },
-    {
-      "id": "4914243",
-      "time": "2026-06-03 12:44:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本生命保險將向黑石集團的信貸策略投資約94億美元】日本生命保險(Nippon Life Insurance)計劃向黑石集團的信貸策略投資約94億美元，這是雙方一項新戰略合作伙伴關係的一部分。Nippon Life週三表示，預計將擴大對黑石集團投資級私募信貸和結構性信貸策略的配置，並計劃在未來五年向這家美國另類資產管理公司投入約1.5萬億日元（相當於93.8億美元）。Nippon Life還表示，將利用黑石集團的資產管理能力來提升其房地產資產的價值，並探討在包括大型城市資產在內的約12處房產上進行合作。黑石集團和Nippon Life表示，雙方已就該合作關係簽署了一份諒解備忘錄，黑石集團計劃在私募信貸和房地產領域提供投資管理服務。"
-    },
-    {
-      "id": "te:markets:555979",
-      "time": "2026-06-03 12:44:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Hold Gains — Gasoline futures in the US traded above $3.10 per gallon, holding a two-day gain, as renewed clashes in the Middle East undermined expectations for progress in US–Iran negotiations. Both sides reportedly exchanged fresh strikes, despite President Donald Trump stating that talks with Iran were still ongoing toward a possible peace deal, contradicting Iranian media reports that communications had broken down. The mix of conflicting signals and continued hostilities has kept markets uneasy, fueling heightened volatility across energy commodities. Supporting prices further, industry data showed that gasoline inventories rose by 3.5 million barrels in the final week of May after falling by 3.2 million barrels a week earlier, as refineries ran at elevated utilization levels, processing crude from strategic reserves, with some output capacity redirected toward diesel and jet fuel production to ease supply pressures."
-    },
-    {
-      "id": "mkt:019e8bcb-9eba-7ee2-b13f-75887b7183ec",
-      "time": "2026-06-03 12:43:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【NSFC and Shuli Innovation establish private-enterprise joint fund (brain–computer interface focus)】May 2026 — China’s National Natural Science Foundation (NSFC) and Shuli Innovation co-funded a private-enterprise innovation development joint fund. The fund will use NSFC’s strategic guidance and resources to finance basic research in brain–computer interface (BCI) areas, concentrating on core scientific questions in key technologies. Shuli Innovation will propose industry-driven research topics; NSFC will provide the platform and, via the joint fund, solicit and support leading research teams nationwide."
-    },
-    {
-      "id": "4914242",
-      "time": "2026-06-03 12:43:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：人民幣料將繼續跑贏其他亞洲貨幣】LGT Private Banking Asia在其最新的外匯展望報告中表示，人民幣可能繼續跑贏亞洲貨幣。該行表示，在整個霍爾木茲海峽能源危機期間，人民幣展現出了防禦特質。"
-    },
-    {
-      "id": "mkt:019e8bca-a729-7ee2-b13f-6c7f900a60a6",
-      "time": "2026-06-03 12:42:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Drone attack in Russia's Leningrad Oblast; Pulkovo Airport restricts flights】Leningrad Oblast governor Alexander Drozdenko said on June 3 the region was struck by a drone attack early that day and air defenses have shot down 50 drones. Counter-drone operations are ongoing and a drone-threat alert has been issued for the oblast's airspace; officials warned mobile network speeds may decline. St. Petersburg declared a drone threat and Pulkovo Airport has imposed flight restrictions."
     }
   ]
 }
