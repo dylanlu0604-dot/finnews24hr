@@ -1,7 +1,163 @@
 {
-  "updated": "2026-06-10 09:05:14",
-  "count": 18702,
+  "updated": "2026-06-10 09:09:10",
+  "count": 18717,
   "items": [
+    {
+      "id": "te:markets:557810",
+      "time": "2026-06-10 09:08:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Rise After Recent Declines — Australian equities rose 29 points, or 0.3%, to 8,633 in Wednesday morning trade, snapping a three-session losing streak on strength in logistics, consumer services, and retail. Sentiment was supported by robust May trade data from top trading partner China, where exports hit a record, and imports accelerated. Locally, Australia's trade surplus shifted to a surplus in April as exports rebounded. Meanwhile, hopes grew that the Reserve Bank will pause cash rates next week after three hikes this year. However, gains were capped as U.S. stock futures slipped following Washington’s “self-defense strikes” against Iran in response to a helicopter downing. Early standouts included PLS Group (2.0%), Insurance Australia Group (1.9%), and Medibank Private (1.2%), while two of the big four banks posted modest gains. Investors now await China’s May CPI and PPI data later today, amid signs of growing inflationary pressures in recent months."
+    },
+    {
+      "id": "4926950",
+      "time": "2026-06-10 09:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓地震已致45人死亡】菲律賓民防部門官員今天（6月10日）稱，菲律賓南部6月8日發生的地震已造成45人死亡。（CCTV國際時訊）"
+    },
+    {
+      "id": "4926949",
+      "time": "2026-06-10 09:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【渤海海峽部分海域進行實彈射擊 禁止駛入】據中國海事局網站訊息，煙臺海事局釋出航行警告，6月11日7時至12日17時，渤海海峽部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:019eaf11-8b64-7ff4-a104-12e0e3c25550",
+      "time": "2026-06-10 09:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Oil, Gas and Metals National Corporation (JOGMEC): Japan LNG spot landed price $18.10/MMBtu."
+    },
+    {
+      "id": "mkt:019eaf11-1cf2-7ff4-a104-0a6bdaf30e7c",
+      "time": "2026-06-10 09:06:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell as much as 2.00% intraday, now $63.94/oz."
+    },
+    {
+      "id": "mkt:019eaf10-d5f4-7ff4-a104-03c8577ae5fc",
+      "time": "2026-06-10 09:06:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,190/oz, down 1.66% on the day."
+    },
+    {
+      "id": "4926948",
+      "time": "2026-06-10 09:06:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌7%，現報15274.00元。"
+    },
+    {
+      "id": "te:markets:557809",
+      "time": "2026-06-10 09:06:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Rise as US Launches New Strikes on Iran — European natural gas prices rose to around €49.6 per MWh, recouping part of the previous session’s losses after the US carried out strikes on Iran in response to a downed helicopter. President Donald Trump earlier accused Tehran of shooting down the aircraft, which he said was conducting patrol operations over the Strait of Hormuz, and pledged retaliation. The new US strikes have again raised concerns about the durability of their ceasefire and ongoing peace negotiations, increasing the risk of prolonged disruptions to traffic through Hormuz, where shipping has already been constrained by blockades imposed by both sides. This development comes after Israel and Iran agreed to suspend mutual attacks following a recent escalation in hostilities. For Europe, attention remains focused on refilling storage facilities for next winter, with the ongoing conflict tightening global supply and intensifying competition for LNG cargoes."
+    },
+    {
+      "id": "4926947",
+      "time": "2026-06-10 09:05:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢凡谷：氮化鋁陶瓷基板有技術儲備但無產品交付】武漢凡谷6月10日在互動平臺表示，公司在氮化鋁陶瓷基板方面具有一定的技術儲備，但目前沒有產品交付，為有效減少虧損，公司主動最佳化組織機構和產業佈局，聚焦高價值業務或訂單，強化成本管控，持續降本增效，努力搶抓市場機遇。"
+    },
+    {
+      "id": "4926946",
+      "time": "2026-06-10 09:05:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4190美元/盎司，日內跌1.67%。"
+    },
+    {
+      "id": "4926945",
+      "time": "2026-06-10 09:05:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.91美元/盎司。"
+    },
+    {
+      "id": "4926944",
+      "time": "2026-06-10 09:05:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守64美元/盎司，日內跌1.91%。"
+    },
+    {
+      "id": "4926943",
+      "time": "2026-06-10 09:05:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守64美元/盎司，日內跌2.02%。"
+    },
+    {
+      "id": "4926942",
+      "time": "2026-06-10 09:05:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報63.98美元/盎司。"
+    },
+    {
+      "id": "4926941",
+      "time": "2026-06-10 09:05:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣基準股指下跌1.2%，報44185.40點。"
+    },
+    {
+      "id": "4926940",
+      "time": "2026-06-10 09:05:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1204.95美元/盎司。"
+    },
+    {
+      "id": "4926937",
+      "time": "2026-06-10 09:04:47",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金市場觀望情緒濃厚，氛圍偏悲觀】中金財富期貨觀點稱，美國重啟對伊朗打擊，以及即將公佈的CPI資料，黃金市場觀望情緒濃厚，氛圍偏悲觀，國際金價一度跌破4300美元關口。中金財富期貨一直強調黃金面對的流動性問題難解以及高油價對黃金形成直接壓力，參與價值不大，目前維持這一觀點。"
+    },
     {
       "id": "4926936",
       "time": "2026-06-10 09:04:36",
@@ -120,6 +276,16 @@
         "國際"
       ],
       "text": "【俄稱打擊烏軍彈藥庫 烏稱襲擊俄燃料設施】當地時間9日，俄羅斯國防部通報稱，過去24小時，俄軍打擊了烏軍彈藥庫、油料庫以及其使用的交通和能源基礎設施等目標。俄軍防空部隊則攔截了烏軍9枚制導航空炸彈、2枚“海馬斯”火箭彈和數百架無人機。同一天，烏克蘭武裝部隊總參謀部釋出戰報稱，8日夜間到9日凌晨，烏軍打擊了俄軍彈藥庫、指揮所、物流樞紐等多個軍事目標。另外，烏軍還確認，其部隊於近期打擊了俄軍燃料儲存和轉運設施等目標。"
+    },
+    {
+      "id": "mkt:019eaf12-f560-7ff4-a104-1dd665f37dbc",
+      "time": "2026-06-10 09:00:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.98% in early trade on Wednesday, June 10, to 918.42 yuan/gram; silver T+D dropped 6.04% to 15,358.0 yuan/kg."
     },
     {
       "id": "mkt:019eaf0b-98ef-7ff4-a103-da033d3e9ffe",
@@ -172643,31 +172809,6 @@
         "Greater China"
       ],
       "text": "【Pinglu Canal reaches full impoundment, enters wet commissioning】On the morning of June 3, the Madao and Qishi hubs began filling, marking full-line impoundment of the Pinglu Canal and the start of wet commissioning. The canal, the first state-coordinated river-to-sea canal since the founding of the People’s Republic of China, will accommodate 5,000-ton vessels and is scheduled to open to navigation in September."
-    },
-    {
-      "id": "4913909",
-      "time": "2026-06-03 09:06:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥格米特等成立智元科技公司 含AI及機器人業務】企查查APP顯示，近日，北京麥米智元科技有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧行業應用系統整合服務；物聯網應用服務；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由麥格米特等共同持股。"
-    },
-    {
-      "id": "4913908",
-      "time": "2026-06-03 09:06:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月3日價格釋出：青花汾20國窖1573領漲 總價創近5天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月3日整體明顯回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9925元，較昨日大幅上漲25元，創下近5天以來最高。市場在前期探底後震盪回升，終端交投情緒有所回暖，今日除普五八代微跌外其餘十大品種均上漲或平盤。今日白酒市場11大單品八漲一跌兩平，贏家佔據絕對優勢。上漲方面，青花汾20、國窖1573、洋河夢之藍M6+及水晶劍南春均上漲4元/瓶，其中青花汾20終結此前7日的連續下探走勢，但仍囿於月內低位；國窖1573重返890元上方；水晶劍南春漲幅平月內最高紀錄，價格亦追平月內最高紀錄。精品茅臺與古井貢古20各上漲3元/瓶；飛天茅臺與習酒君品各上漲2元/瓶。下跌方面，五糧液普五八代微跌1元/瓶，繼續在月內低位徘徊。五糧液1618與青花郎的價格環比保持不變，前者近一個月走勢頗為平穩，而後者仍深陷月內次低位。"
-    },
-    {
-      "id": "4913907",
-      "time": "2026-06-03 09:05:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【2026中國國際礦業大會將設礦業權交易“大賣場”】5月28日，中國礦業聯合會釋出《2026（第二十八屆）中國國際礦業大會關於舉辦礦業權交易專場活動的通知》，對大會期間礦業權轉讓大市場專場交易活動的內容、形式及有關報名的具體事宜進行了說明。 由中國礦業聯合會主辦的2026（第二十八屆）中國國際礦業大會將於9月10日至12日在天津召開。為深入貫徹全國統一大市場建設要求，統籌國內國際兩個市場，探索完善礦業權市場轉讓體制機制，推動礦產資源要素規範、高效流通與配置，大會期間將繼續舉辦礦業權轉讓大市場專場交易活動。 專場活動交易內容主要分為4個方面：一是礦業權，包括探礦權、採礦權的轉讓以及勘探、開發合作等。二是股權，礦業公司及其所屬專案的全部或者部分股權交易，包括收益權及相關資產權益的轉讓及合作等。三是礦產品及機械裝置，礦產品現貨、期貨及相關組合；勘查及開採機械裝置和相關物資的交易與合作。四是技術、工程及其他礦業要素，地質勘查、礦山工程、採礦選礦技術、專業諮詢服務及符合國家政策的其他礦業要素的交易與合作。本次交易形式靈活多樣，自主協商、委託競爭、定向撮合、獨家談判，均可根據需求進行選擇。（中國自然資源報）"
     }
   ]
 }
