@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-11 03:16:24",
-  "count": 18457,
+  "updated": "2026-06-11 03:20:16",
+  "count": 18454,
   "items": [
+    {
+      "id": "4928931",
+      "time": "2026-06-11 03:18:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蓋茨：曾遭到愛潑斯坦窒息性敲詐】微軟公司聯合創始人比爾·蓋茨在接受美國國會眾議院一個小組委員會聆訊時坦承，他此前與已故惡名昭彰的金融家傑弗裡·愛潑斯坦（Jeffrey Epstein）的多次會面是“極其嚴重的判斷錯誤”。蓋茨強調，如果他的這種過從甚密在當時客觀上為愛潑斯坦提供了政治或社會信譽背書，他對此表示“深感自責與歉意”。蓋茨在聆訊期間披露稱，在他斷絕與該金融家的一切聯絡後，愛潑斯坦曾惡意利用“刺探到的關於我個人生活的敏感隱秘資訊”（包括掌握蓋茨當年的婚外情線索），對蓋茨施加窒息性敲詐，試圖逼迫其重新回到自己的核心社交圈中。"
+    },
+    {
+      "id": "te:economy:558152",
+      "time": "2026-06-11 03:17:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "US Budget Deficit Narrows in May — The US government recorded a $293 billion budget deficit in May 2026, compared with a $316 billion gap a year earlier, but wider than forecasts of a $275 billion shortfall. Government outlays declined to $628 billion from $687 billion. The largest spending categories were Social Security ($140 billion), net interest payments ($107 billion), Medicare ($87 billion), and health programs ($82 billion). Meanwhile, receipts fell to $335 billion from $371 billion. The main sources of revenue were social insurance and retirement contributions ($157 billion), individual income taxes ($152 billion), and corporate income taxes ($11 billion). In the first eight months of fiscal year 2026, the federal budget deficit totaled $1.25 trillion."
+    },
     {
       "id": "mkt:019eb2f6-6659-7dd8-afab-3fd371d8cbc8",
       "time": "2026-06-11 03:15:52",
@@ -170069,53 +170090,6 @@
         "Impact bearish"
       ],
       "text": "Goldman president Waldron said the Fed under Wosh's leadership would focus primarily on its balance sheet and inflation."
-    },
-    {
-      "id": "4915907",
-      "time": "2026-06-04 03:19:25",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛總裁約翰·沃爾德倫：沃什執掌下的美聯儲將聚焦資產負債表與通脹問題。"
-    },
-    {
-      "id": "4915906",
-      "time": "2026-06-04 03:18:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【資金賠付成伊朗談判核心僵持點】美國媒體表示，向伊朗支付資金賠付是伊美談判的主要癥結之一。伊朗已向調停方表態，希望在諒解備忘錄敲定後立刻落實相關賠付資金，不願將款項延後撥付。"
-    },
-    {
-      "id": "mkt:019e8eeb-ced6-7443-8fe2-284d9b031bff",
-      "time": "2026-06-04 03:17:58",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "Nasdaq100"
-      ],
-      "text": "The Trump administration proposed exempting \"trusted applicants\" from stringent national-security license reviews required before releasing frontier AI models, in exchange for ongoing oversight and monitoring."
-    },
-    {
-      "id": "mkt:019e8eeb-639c-7443-8fe2-23f1ce3d152f",
-      "time": "2026-06-04 03:17:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cayetano denies he was removed as Philippine Senate president】On the 3rd, Alan Cayetano said he was not \"legally removed\" as Philippine Senate president. He said electing or removing Senate officers requires participation by 13 of the 24 senators, and that he has not resigned, been legally removed, or become incapacitated."
-    },
-    {
-      "id": "4915905",
-      "time": "2026-06-04 03:17:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛總裁約翰·沃爾德倫：今年私募股權作為併購交易推手的勢頭有所放緩，市場承接大型 IPO 的消化能力十分充足。"
     }
   ]
 }
