@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-11 05:07:32",
-  "count": 18359,
+  "updated": "2026-06-11 05:11:20",
+  "count": 18357,
   "items": [
+    {
+      "id": "mkt:019eb35f-4ef2-7dd8-afac-cfa60a1a8f48",
+      "time": "2026-06-11 05:10:28",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) CFO said the company expects 12% of remaining performance obligations to be recognized over the next 12 months."
+    },
+    {
+      "id": "mkt:019eb35d-3e53-7dd8-afac-c20ab654d545",
+      "time": "2026-06-11 05:08:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported distant sounds near Kish Island; origin of the sounds is unknown."
+    },
+    {
+      "id": "te:markets:558159",
+      "time": "2026-06-11 05:07:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Ibovespa Falls to Lowest Since January — The Ibovespa fell 0.7% to close at 168,619 on Wednesday, extending losses to its lowest level since January as escalating geopolitical tensions fueled risk aversion. US President Donald Trump warned that Washington would strike Iran “with great force” if no peace agreement is reached after Tehran downed a US helicopter near the Strait of Hormuz, raising concerns over a broader conflict. Higher crude prices pushed bond yields up and reinforced expectations of a more hawkish BCB. Market pricing now suggests a pause in the central bank's easing cycle at next week's meeting, with investors increasingly betting that the next move in interest rates will be upward. Banks traded lower, with Bradesco down 1%. WEG extended losses, falling 2.2% after reporting weaker-than-expected earnings on Tuesday. Other notable laggards included Vale (-1%), Rede D'Or (-2.5%), and Embraer (-4.2%). On the upside, Petrobras gained 1.2% on higher oil prices."
+    },
     {
       "id": "4928998",
       "time": "2026-06-11 05:06:39",
@@ -169136,51 +169165,6 @@
         "MKT News"
       ],
       "text": "【USDA probes suspected New World screwworm case in southern Texas; may prompt cattle movement restrictions】The USDA says a suspected New World screwworm case was detected in southern Texas and a sample has been sent to an Iowa lab for confirmation. If confirmed, it would be the first US detection since a 2016 Florida deer case that was eradicated by early 2017. The agency noted the US cattle herd is at a 75-year low. Confirmation would likely trigger cattle movement restrictions and could disrupt meatpackers’ operations."
-    },
-    {
-      "id": "mkt:019e8f52-95f6-7443-8fe4-c1196d39aa6f",
-      "time": "2026-06-04 05:10:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom CEO expects fiscal 2026 AI semiconductor revenue to reach $56 billion."
-    },
-    {
-      "id": "4916033",
-      "time": "2026-06-04 05:10:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：第二季度人工智慧半導體訂單額超過300億美元，出貨額為108億美元。"
-    },
-    {
-      "id": "4916032",
-      "time": "2026-06-04 05:09:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：預計2026財年人工智慧半導體營收將達到560億美元。"
-    },
-    {
-      "id": "4916031",
-      "time": "2026-06-04 05:09:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：第二財季網路業務占人工智慧營收近40%。"
-    },
-    {
-      "id": "4916030",
-      "time": "2026-06-04 05:09:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【加拿大將鋼鐵和鋁的進口限制延長一年】加拿大週三表示，將把針對美國和墨西哥以外國家鋼鐵和鋁的進口限制延長一年。此舉表明，在美國總統特朗普掀起的貿易動盪之下，加拿大國內製造業的困境仍在持續。加拿大財政部長表示，這些進口措施將延長至2027年6月底，尚待內閣批准，此舉代表了加拿大“捍衛鋼鐵工人和產業，抵禦鋼鐵貿易轉移以及導致全球產能過剩的非市場化政策和行為”的承諾。"
     }
   ]
 }
