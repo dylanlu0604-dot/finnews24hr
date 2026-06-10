@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-11 02:52:53",
+  "updated": "2026-06-11 02:56:38",
   "count": 18444,
   "items": [
+    {
+      "id": "mkt:019eb2e3-e78c-7dd8-afaa-eda312708fb5",
+      "time": "2026-06-11 02:55:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC CEO says government should be able to block deployment of new AI models】ANTHROPIC CEO Dario Amodei said in a long post Wednesday that governments should have the authority to block deployment of new AI models that pose specific or \"unacceptable\" risks. He called for mandatory third-party testing to assess models' risks across multiple domains and compared the current phase of AI development to cars, planes and drugs — critical to the economy but capable of causing mass harm if misdesigned or misused. Amodei's remarks are his strongest to date in favor of tighter AI regulation. Anthropic had warned its MYTHOS model could find and exploit critical software vulnerabilities and limited access to a small set of partners; this week the company released an updated version that removes the model's cyber-attack capabilities."
+    },
+    {
+      "id": "te:markets:558150",
+      "time": "2026-06-11 02:54:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Stock Price Hits 3-1/2-year High — CVS Health shares increased to 98.44 USD, the highest since December 2022. Over the past 4 weeks, CVS Health gained 6.71%, and in the last 12 months, it increased 49.74%."
+    },
     {
       "id": "mkt:019eb2df-f3dd-7dd8-afaa-e3a90a60d2a1",
       "time": "2026-06-11 02:51:21",
@@ -169988,28 +170010,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.71%，報25309.69點，低水323.52點。"
-    },
-    {
-      "id": "mkt:019e8ed5-c3f3-7443-8fe1-ef2db4b93b6c",
-      "time": "2026-06-04 02:53:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IRGC denies firing on Kuwait airport】On the 3rd (local time), an Islamic Revolutionary Guard Corps spokesman said IRGC forces did not fire at Kuwait Airport. He said damage to the airport terminal was caused by a malfunction of a US Patriot air-defence system, with a Patriot missile falling onto the terminal after failing to intercept an Iranian missile."
-    },
-    {
-      "id": "mkt:019e8ed5-1884-7443-8fe1-e6a32e73dd6a",
-      "time": "2026-06-04 02:53:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Guo Mingchi: Apple cuts Vision Pro from glasses roadmap, shifts resources to mass‑market smart glasses】Tianfeng analyst Guo Mingchi said John Ternus, expected to become Apple’s next CEO, has approved scaling back Apple’s glasses roadmap—removing the Vision Pro line and reallocating resources to smart‑glasses with broader consumer appeal. Supply‑chain checks show AR/XR smart glasses with displays using waveguide optics delayed to 2029; non‑display AI glasses (Ray‑Ban Meta‑style) remain on track for 2027."
     }
   ]
 }
