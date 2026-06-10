@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-11 06:49:53",
-  "count": 18386,
+  "updated": "2026-06-11 06:53:48",
+  "count": 18391,
   "items": [
+    {
+      "id": "4929083",
+      "time": "2026-06-11 06:53:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：兩艘試圖非法穿越霍爾木茲海峽的違規船隻被擊中。"
+    },
+    {
+      "id": "mkt:019eb3bd-4583-7dd8-afae-0ffff2fb6bf7",
+      "time": "2026-06-11 06:53:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it struck two vessels attempting to illegally transit the Strait of Hormuz."
+    },
+    {
+      "id": "4929082",
+      "time": "2026-06-11 06:52:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報92.75美元/桶。"
+    },
+    {
+      "id": "4929081",
+      "time": "2026-06-11 06:52:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中證報：織密監管網路，重拳整治市場操縱】證監會日前明確堅決打擊操縱市場、擾亂市場秩序等違法違規行為，公安部近期釋出多宗操縱市場罪案例，最高法明確儘快制定涉操縱市場的民事賠償司法解釋……多方同向發力，劍指資本市場操縱行為。可以預見，隨著交易監管持續強化、操縱市場民事賠償司法解釋加速落地，行政、司法多方形成合力，資本市場將編織起更加嚴密的全鏈條監管網路。在重拳整治與制度完善的雙重驅動下，市場生態將持續淨化，投資者合法權益將得到更堅實保障，資本市場長期穩健發展的根基將更加牢固。"
+    },
+    {
+      "id": "mkt:019eb3bc-52e2-7dd8-afae-00d8f9923a0c",
+      "time": "2026-06-11 06:52:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's Supreme Joint Military Command said earlier US assertions that ships had transited the Strait of Hormuz were false."
+    },
+    {
+      "id": "4929080",
+      "time": "2026-06-11 06:52:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據華爾街日報：批准對伊朗實施打擊後，特朗普透過卡達傳話，強調此次行動是針對阿帕奇直升機事件的報復，並非全面戰爭的開端。"
+    },
+    {
+      "id": "te:markets:558167",
+      "time": "2026-06-11 06:51:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Drop, Tracking Wall Street Lower — The NZX 50 fell 45 points, or 0.3%, to 13,208 in Thursday morning deals, erasing gains from the previous two sessions and retreating from its highest level since May 7, reached a day earlier, tracking a fall on Wall Street overnight as renewed tensions in the Middle East drove oil prices higher. US inflation data also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady at its upcoming meeting. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Most sectors traded in the red, including financials, healthcare, and utility stocks. Among early losers were Mainfreight (-1.5%), Fisher & Paykel Healthcare (-0.9%), Freightways Group (-0.8%), ANZ Group (-0.7%), Infratil (-0.5%), and Ebos Group (-0.4%)."
+    },
+    {
+      "id": "4929079",
+      "time": "2026-06-11 06:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗對所有船隻關閉霍爾木茲海峽】當地時間今天（6月11日）凌晨，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，鑑於本地區安全域性勢動盪，霍爾木茲海峽即日起對包括油輪和商船在內的所有型別船隻關閉，任何試圖透過該海峽的船隻“都將受到攻擊”。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019eb3b9-9d6c-7dd8-afad-fb77b6e9c1fa",
       "time": "2026-06-11 06:49:06",
@@ -169420,31 +169495,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4440美元/盎司，日內漲0.16%。"
-    },
-    {
-      "id": "4916099",
-      "time": "2026-06-04 06:51:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“邊談邊打”僵局持續 美伊再釋放和談訊號 軍事摩擦仍頻發】3日，美國總統特朗普表示，美國與伊朗的談判“進展迅速”且“非常順利”。伊朗伊斯蘭議會副議長當天則表示，如有必要伊朗會進行談判，但不相信美國的任何承諾。在雙方釋放和談訊號的同時，美伊仍不斷髮生軍事摩擦。在阿曼灣，伊朗稱打擊一艘美驅逐艦，但美方迅速否認；在科威特，伊朗否認向科國際機場發射任何導彈，稱航站樓受損是美製“愛國者”導彈防禦系統的攔截彈墜落所致，但美軍同樣迅速予以否認，稱伊朗蓄意攻擊民用機場。（央視新聞）"
-    },
-    {
-      "id": "4916098",
-      "time": "2026-06-04 06:50:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、5月中國物流業景氣指數為50.3% 需求重回擴張區間 市場預期保持向好\n2、全國A級景區去年接待遊客75.1億人次 實現旅遊收入超5500億元\n3、全國首家網上離境退稅商店上線\n4、2026年大中小企業融通對接活動開展\n5、C919運送旅客超500萬人次\n6、跨境電商，賦能南南合作新模式\n7、中老鐵路開通以來寮國段首次大規模擴能改造\n8、七部門印發通知促進工業旅遊發展\n9、以“制度護企”促“生態興企”（人民時評）\n10、“劍網2026”專項行動啟動 打擊網路侵權盜版\n11、166家外資企業獲增值電信業務經營試點批覆\n12、北京太空智算研究院成立 計劃2028年前發射首發試驗星\n13、海南升級自然資源網上交易系統\n14、去年出口總值超600億元，同比增長近36％ 中國變壓器何以走俏全球（中國品牌圈粉海外）\n15、發展種業的決心更加堅定（感言·發展壯大民營經濟）\n16、可可產量佔全球40%以上，是該國重要創匯來源——象牙海岸如何發展可可產業（第一現場）\n17、太空經濟競逐“萬億藍海”（經濟透視）\n18、人工智慧平臺專案“燈塔”即將全面投入執行——希臘計劃建設南歐資料中心\n19、4月貿易順差達105.37億美元，創同期最高紀錄——巴西外貿顯現強勁增長勢頭。"
-    },
-    {
-      "id": "4916097",
-      "time": "2026-06-04 06:50:20",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、“中國可以成功，其他發展中國家同樣可以成功”（總書記的人民情懷）\n2、共繪美麗中國新畫卷——生態環境志願者守護綠水青山剪影\n3、丁薛祥在雲南調研時強調 全面貫徹黨的教育方針 深入推進基礎教育高質量發展\n4、韓正會見下任聯合國秘書長候選人巴切萊特\n5、濟南實施公交軌道“兩網融合”行動——交通更順暢 出行更舒心（樹立和踐行正確政績觀·一線見聞）\n6、新中國成立以來建設的首條通江達海的大運河 平陸運河全線通水。"
     }
   ]
 }
