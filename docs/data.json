@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-11 00:31:35",
-  "count": 18400,
+  "updated": "2026-06-11 00:35:30",
+  "count": 18396,
   "items": [
+    {
+      "id": "te:economy:558141",
+      "time": "2026-06-11 00:32:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Inflation Rate at Near 3-Year Low — Russia's headline annual inflation rate fell for the second month to 5.3% in May 2026, down from 5.6% in April and below market estimates of 5.4%. This was the lowest reading since August 2023, but it remains well above the CBR’s target of 4%. Food price growth slowed to 2.9%, compared to 4% in April, as fruit and vegetable prices continued to decline (-10.4% vs -6.6%). Meanwhile, prices advanced faster for services (10.1% vs 9.9%) and non-food products (4.2% vs 3.9%). The core rate edged down to 4.9% in May from 5% in the previous month. On a monthly basis, the CPI rose by 0.2%, after a 0.1% increase in the prior month, in line with forecasts."
+    },
     {
       "id": "mkt:019eb25e-66cd-7dd8-afa9-0f49dec3c238",
       "time": "2026-06-11 00:29:51",
@@ -169591,55 +169603,6 @@
         "國際"
       ],
       "text": "【紐約聯儲行長：未來利率路徑無明顯方向 不太擔心通脹持續】紐約聯儲行長約翰·威廉姆斯表示，美國的貨幣政策目前處於恰當位置，未來的利率路徑並無明顯方向。“貨幣政策目前正處於完全恰當的位置，我認為沒有加息或降息的必要，”威廉姆斯週三在接受採訪時表示，“我也看不出我們未來會朝哪個方向前進。”美聯儲決策者預計將於6月16日至17日在華盛頓召開會議。在新任主席凱文·沃什的主持下，預計他們將討論是否修改會後宣告措辭。許多官員希望刪除宣告中暗示下一步行動仍可能是降息的措辭。威廉姆斯指出，通脹依然居高不下，能源價格、關稅以及與AI相關的投資構成物價上行壓力。不過他也表示，服務通脹出現“相當大程度”的放緩。"
-    },
-    {
-      "id": "te:markets:556236",
-      "time": "2026-06-04 00:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Index Hits 8-week High — DXY increased to 99.54, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.18%, and in the last 12 months, it increased 0.76%."
-    },
-    {
-      "id": "4915810",
-      "time": "2026-06-04 00:35:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "杜克能源CEO：資料中心將壓低用電費率成本，利率漲幅低於通脹增速。"
-    },
-    {
-      "id": "mkt:019e8e55-7eee-7443-8fe0-0efa3bfd0ed6",
-      "time": "2026-06-04 00:33:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "A UK Foreign Office spokesperson said London summoned the Russian ambassador today, condemning last week’s Russian violation of NATO airspace and the strike on a residential building in Romania as reckless and dangerous. The spokesperson added Russia’s continued bombing inside Ukraine shows a disregard for civilian life and said the UK firmly supports Ukraine, Romania and all NATO allies."
-    },
-    {
-      "id": "mkt:019e8e54-61f9-7443-8fe0-077eef7e777a",
-      "time": "2026-06-04 00:32:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's foreign minister said it is well known that Russia opposes Germany's seat on the UN Security Council."
-    },
-    {
-      "id": "mkt:019e8e53-ab84-7443-8fdf-feb381938690",
-      "time": "2026-06-04 00:31:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian Defence Ministry says nuclear submarine launched cruise missile during exercise】On June 3 the Russian Defence Ministry said the Northern Fleet nuclear submarine Arkhangelsk launched a \"Gao Manao\" cruise missile during live-fire training in the Barents Sea, striking a simulated enemy ship more than 200 km away; monitoring showed a successful hit. The ministry said the Kola Bay flotilla imposed navigation and flight restrictions in the area ahead of the test for safety."
     }
   ]
 }
