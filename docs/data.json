@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-11 02:33:37",
-  "count": 18431,
+  "updated": "2026-06-11 02:37:21",
+  "count": 18437,
   "items": [
+    {
+      "id": "mkt:019eb2d2-a94c-7dd8-afaa-bda4cc67796c",
+      "time": "2026-06-11 02:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AXIOS reported, citing a regional source, that Iranian and U.S. officials held separate parallel talks in Doha with Qatari mediators over the past two days. Qatar sought a trilateral meeting to negotiate remaining differences directly, but Iran declined."
+    },
+    {
+      "id": "4928898",
+      "time": "2026-06-11 02:36:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：今年第一季度，墨西哥經濟非金融部門融資總額按實際年度計算達到GDP的103.9%。"
+    },
+    {
+      "id": "4928897",
+      "time": "2026-06-11 02:36:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗和美國官員在多哈與卡達調解人舉行了會談。"
+    },
+    {
+      "id": "mkt:019eb2d1-f570-7dd8-afaa-b6c9e9affa7d",
+      "time": "2026-06-11 02:36:04",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "The Trump administration announced Oracle (ORCL.N) won a U.S. government contract to provide human-resources software."
+    },
+    {
+      "id": "4928896",
+      "time": "2026-06-11 02:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "甲骨文中標美國政府人力資源軟體採購合同。"
+    },
+    {
+      "id": "mkt:019eb2d1-81b0-7dd8-afaa-aee5a5305b9d",
+      "time": "2026-06-11 02:35:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carlyle Group CFO said the global economy has been surprisingly resilient given events since 2026."
+    },
+    {
+      "id": "4928895",
+      "time": "2026-06-11 02:35:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：壓力測試證實，墨西哥銀行體系具備充足資本應對不利情景。"
+    },
+    {
+      "id": "mkt:019eb2d1-3c9a-7dd8-afaa-a6eaec4ae612",
+      "time": "2026-06-11 02:35:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic CEO Dario Amodei said governments should have the authority to halt the release of new AI models."
+    },
+    {
+      "id": "4928894",
+      "time": "2026-06-11 02:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "凱雷集團首席財務官賈斯汀·普魯夫表示，考慮到2026年迄今為止發生的所有事件，全球經濟展現出的韌性實際上相當出人意料。"
+    },
+    {
+      "id": "mkt:019eb2d0-ca84-7dd8-afaa-9ebae0b5e853",
+      "time": "2026-06-11 02:34:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic CEO Amodei urged regulators to implement stricter AI safety oversight."
+    },
+    {
+      "id": "mkt:019eb2d0-54ed-7dd8-afaa-9767466920ff",
+      "time": "2026-06-11 02:34:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "CRM.O"
+      ],
+      "text": "DDN, a data hardware and software supplier, plans a new funding round by year-end, CEO Alex Bouzari said. The company partners with NVIDIA and counts Google and Salesforce among its customers."
+    },
+    {
+      "id": "4928893",
+      "time": "2026-06-11 02:33:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行在金融穩定報告中表示，墨西哥金融體系具備韌性且基本面穩健。"
+    },
+    {
+      "id": "4928892",
+      "time": "2026-06-11 02:33:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪表示，政府應有權叫停新AI模型。阿莫迪在公司釋出的文章中闡述了相關安全防護舉措。"
+    },
     {
       "id": "4928891",
       "time": "2026-06-11 02:32:45",
@@ -169834,75 +169956,6 @@
         "Impact bearish"
       ],
       "text": "Brazil's government said in a statement it strongly opposes recent U.S. proposals for tariffs."
-    },
-    {
-      "id": "mkt:019e8ec6-3814-7443-8fe1-beeacc167dcc",
-      "time": "2026-06-04 02:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim news agency reported Iran's foreign minister said return to the negotiating table is conditional on guarantees of Iran's national rights, an end to the war in Lebanon and a de‑escalation of regional tensions."
-    },
-    {
-      "id": "4915883",
-      "time": "2026-06-04 02:36:51",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛替代架構集團（AOG）全球主管Christina Minnis：在驅動市場方面，AI投資的繁榮是“根本性的、一代人的”現象。"
-    },
-    {
-      "id": "4915882",
-      "time": "2026-06-04 02:36:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "巴西政府發表宣告，對美國擬出臺的涉強迫勞動相關關稅舉措深表異議。"
-    },
-    {
-      "id": "mkt:019e8ec5-51a6-7443-8fe1-b5da247ed9bf",
-      "time": "2026-06-04 02:35:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium fell as much as 4.00% intraday, trading at $1,312.90/oz."
-    },
-    {
-      "id": "mkt:019e8ec5-2384-7443-8fe1-abe11bef61f0",
-      "time": "2026-06-04 02:35:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Lebanese TV channel Al-Mayadeen, Iran's foreign minister said contacts with the United States have not been severed, but negotiations have made no progress."
-    },
-    {
-      "id": "mkt:019e8ec3-c12b-7443-8fe1-a6dbb482e98c",
-      "time": "2026-06-04 02:34:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Fed's Beige Book: Employment Essentially Flat; Manufacturing Hiring Strong in Several Districts】Across the Fed's 12 districts, employment was essentially unchanged in 11 districts and slightly higher in one. Several districts reported the strongest hiring in manufacturing, driven by defense-related work and rising data-center demand. Wage growth remained modest-to-moderate and broadly in line with inflation, though districts said they are making more frequent wage and cost-of-living adjustments to offset rising fuel and other household costs. Most districts described cautious hiring and cautious layoffs; workers are increasingly reluctant to change jobs amid economic uncertainty, so hiring is concentrated on critical roles and replacing turnover. Demand in professional services was mixed, reflecting technology and operational shifts."
-    },
-    {
-      "id": "4915881",
-      "time": "2026-06-04 02:34:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據塔斯尼姆通訊社：伊朗外長稱伊美談判暫無實質性進展。"
     }
   ]
 }
