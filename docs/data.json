@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-10 12:58:04",
-  "count": 18733,
+  "updated": "2026-06-10 13:02:23",
+  "count": 18726,
   "items": [
+    {
+      "id": "mkt:019eafe7-d0c5-799a-b41c-622f24ecf86d",
+      "time": "2026-06-10 13:01:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araghchi spoke by phone with Saudi Arabia's and Turkey's foreign ministers about the situation following US strikes."
+    },
+    {
+      "id": "4927321",
+      "time": "2026-06-10 13:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將意法半導體評級上調至買入，目標價100美元。"
+    },
+    {
+      "id": "mkt:019eafe7-6884-799a-b41c-5941daee9d91",
+      "time": "2026-06-10 13:00:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell more than 2% intraday."
+    },
+    {
+      "id": "4927320",
+      "time": "2026-06-10 13:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.01%，現報3969.655點；深證成指跌2.48%，現報14890.145點；創業板指跌2.94%，現報3845.445點。"
+    },
+    {
+      "id": "4927319",
+      "time": "2026-06-10 13:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.02%，現報3842.058點；上證指數跌0.85%，現報3975.815點；深證成指跌2.53%，現報14881.858點。"
+    },
+    {
+      "id": "4927318",
+      "time": "2026-06-10 13:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4671.020點；恒生指數現跌1.377%。"
+    },
+    {
+      "id": "4927317",
+      "time": "2026-06-10 12:59:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子考慮在光州興建先進半導體封裝廠】韓國經濟新聞報道，三星電子正考慮在韓國西南部城市光州建設一座先進半導體封裝工廠。報道引述匿名行業訊息人士稱，三星預計在6月29日韓國總統李在明與國內大型企業負責人會晤時，公佈該項投資計劃。此次會議將在總統府舉行，主題為“增長戰略的重大轉型”，預計三星電子會長李在鎔和SK集團會長崔泰源將出席。此外，東亞日報週三報道稱，SK海力士也正考慮在西南地區興建新的晶片封裝生產設施，地點可能位於全羅南道。三星與SK海力士均不予置評。韓國總統府表示，企業投資決策由企業自行決定。 韓國經濟新聞表示，三星的這項投資被視為該公司希望在外界普遍預期AI需求將帶動半導體產業回升之前，加速資本支出的訊號。"
+    },
+    {
+      "id": "4927316",
+      "time": "2026-06-10 12:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【旅韓大熊貓“愛寶”“樂寶”夫婦三胎女兒出生】據韓國愛寶樂園方面10日通報，當地時間6月3日10時53分，旅居愛寶樂園的大熊貓“樂寶”“愛寶”夫婦的三胎女兒出生。這是“樂寶”“愛寶”繼2020年誕下“福寶”、2023年誕下雙胞胎熊貓“睿寶”“輝寶”之後，第三次透過自然受孕誕下的大熊貓寶寶。（央視新聞）"
+    },
+    {
+      "id": "4927315",
+      "time": "2026-06-10 12:57:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙飛集團收到77.34萬元業績承諾補償款】雙飛集團6月10日午間公告，公司近日收到業績承諾方浙江搏樂液壓科技有限公司原股東徐惠良、賴龍城向公司支付的業績承諾補償款77.34萬元。"
+    },
     {
       "id": "mkt:019eafe2-e96f-799a-b41c-5162c6ce22be",
       "time": "2026-06-10 12:55:44",
@@ -172800,151 +172884,6 @@
         "SZSE Component"
       ],
       "text": "ChiNext Index widened afternoon gains, now up over 4%; China's Shanghai Composite Index +0.44%, Shenzhen Composite Index +2.1%. Fiber-optic, F5G and CPO-related stocks continued to rally."
-    },
-    {
-      "id": "4914262",
-      "time": "2026-06-03 13:01:59",
-      "tags": [],
-      "text": "科創50指數午後漲幅擴大至5％，瀾起科技、盛美上海漲超10％。"
-    },
-    {
-      "id": "mkt:019e8bdc-46db-7ee2-b13f-d96325d2ce4a",
-      "time": "2026-06-03 13:01:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The European Bank for Reconstruction and Development expects regional GDP growth to slow to 3.1% this year from 3.4% in 2025."
-    },
-    {
-      "id": "4914261",
-      "time": "2026-06-03 13:01:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行（EBRD）表示，烏克蘭能源與基礎設施遭受的大規模中斷將推高通脹；該行已將經濟增長預期下調至2.2%。"
-    },
-    {
-      "id": "4914260",
-      "time": "2026-06-03 13:01:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達70億港元。"
-    },
-    {
-      "id": "mkt:019e8bdb-e705-7ee2-b13f-d07e477ea0a8",
-      "time": "2026-06-03 13:01:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's STAR 50 Index widened gains to about 5% in afternoon trading; Lanqi Technology and Shengmei Shanghai climbed over 10%."
-    },
-    {
-      "id": "mkt:019e8bdb-e446-7ee2-b13f-cb2ac65e23af",
-      "time": "2026-06-03 13:01:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "EBRD said inflation rose 1.2 percentage points from February to April and may remain higher than previously expected for longer."
-    },
-    {
-      "id": "mkt:019e8bdb-066c-7ee2-b13f-c36463e88780",
-      "time": "2026-06-03 13:00:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "EBRD cuts its 2026 real GDP growth forecast for Iraq by 5.1 percentage points to -1.5% and for Lebanon by 6 percentage points to -2%."
-    },
-    {
-      "id": "4914259",
-      "time": "2026-06-03 13:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行預計，埃及、哈薩克和羅馬尼亞的經濟增長也將走弱。"
-    },
-    {
-      "id": "4914258",
-      "time": "2026-06-03 13:00:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行將塞內加爾2026年經濟增長預測較此前下調1.5個百分點至2.6%。"
-    },
-    {
-      "id": "mkt:019e8bda-88f2-7ee2-b13f-bc488d1de04e",
-      "time": "2026-06-03 13:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India final May services PMI 59.8, vs 59.0 expected and April final 58.9."
-    },
-    {
-      "id": "mkt:019e8bda-88ec-7ee2-b13f-b11ec874eee6",
-      "time": "2026-06-03 13:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India May composite PMI (final) 59.3; previous 58.1."
-    },
-    {
-      "id": "mkt:019e8bda-507b-7ee2-b13f-ab04cb30fd3a",
-      "time": "2026-06-03 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | Services PMI (May) | actual 59.8 | consensus 59 | previous 58.9"
-    },
-    {
-      "id": "mkt:019e8bda-5076-7ee2-b13f-a00e2db19a80",
-      "time": "2026-06-03 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | Composite PMI (May) | actual 59.3 | previous 58.1"
-    },
-    {
-      "id": "4914257",
-      "time": "2026-06-03 12:59:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【鎧俠市值一度超越豐田 日本企業市值格局迎來洗牌】受全球人工智慧熱潮重塑本土企業格局影響，鎧俠控股正衝刺日本市值第二大企業寶座。週三該股盤中最高大漲7.2%，這家儲存晶片廠商市值直逼豐田汽車。鎧俠上市僅18個月便迎來股價強勢拉昇，市值一度突破45萬億日元（摺合2810億美元），短暫超越豐田。百達資產管理（日本）投資策略負責人JumpeiTanaka表示，日本頭部企業市值位次重排或將改變海外資金對日股的定價邏輯。“市場對日本的固有印象或將轉變：不再是製造業週期股主導的市場，轉而逐步變成由AI半導體引領成長股的市場。這會促使全球資金提高日本在AI投資組合中的配置比例，有望持續吸引增量外資入場。”東京午後早盤鎧俠股價上漲1.7%，市值小幅落後於漲幅2.5%的豐田。資金從日本傳統龍頭企業撤離，凸顯出AI資料中心儲存晶片需求激增，在全球範圍內點燃了投資者對半導體企業的投資熱情，鎧俠與同業公司市值同步抬升。這家日本企業年內股價漲幅超660%，位列明晟全球指數成分股漲幅榜首。"
-    },
-    {
-      "id": "mkt:019e8bd9-51ec-7ee2-b13f-9b475e074f0b",
-      "time": "2026-06-03 12:58:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesia's stock index plunged 5% intraday to its lowest level since May 2021."
-    },
-    {
-      "id": "mkt:019e8bd9-1f72-7ee2-b13f-90df0afac0f3",
-      "time": "2026-06-03 12:58:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Australia co‑host WTO seminar in Geneva on carbon accounting; call to tackle rule fragmentation】China and Australia co‑hosted a WTO seminar in Geneva during Trade and Environment Week on carbon accounting, standards and trade. China’s deputy permanent representative to the WTO, Hu Yingzhi, said the key problem is not a lack of standards but rising fragmentation of rules, and urged the WTO to address the issue from a trade perspective by improving transparency, promoting policy coordination, and strengthening development cooperation and capacity building."
     }
   ]
 }
