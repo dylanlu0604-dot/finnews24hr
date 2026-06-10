@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-10 15:04:37",
-  "count": 18635,
+  "updated": "2026-06-10 15:08:39",
+  "count": 18630,
   "items": [
+    {
+      "id": "mkt:019eb05b-ae1e-799a-b41e-3898077d3bc9",
+      "time": "2026-06-10 15:07:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China Media Group issued a statement on copyright protection for the 23rd FIFA World Cup."
+    },
+    {
+      "id": "4927485",
+      "time": "2026-06-10 15:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "和碩5月銷售額959.6億元新臺幣。"
+    },
+    {
+      "id": "4927484",
+      "time": "2026-06-10 15:07:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "本田（美國本田汽車公司）正在召回880,514輛美國市場車輛。"
+    },
+    {
+      "id": "4927483",
+      "time": "2026-06-10 15:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：英偉達下調Vera CPU搭載容量，對整體DRAM供需無實質負面影響】6月10日，TrendForce集邦諮詢調研結果指出，NVIDIA（英偉達）決議將次世代Vera Rubin Superchip模組所搭載的SOCAMM容量砍半，此一調整並非英偉達下修儲存器總需求量，而是應對供應端2027年初步規劃配給英偉達的產能不足的事實。在此背景下，英偉達選擇調降單顆容量、擴大模組出貨數量，以強化其市佔，同時凸顯LPDDR5X供給缺口難以被填補與中長期需求上揚的趨勢。該機構強調，此次規格調整屬於供應端主導的架構妥協，對整體DRAM供需並無實質負面影響，亦不代表英偉達下修總體儲存器需求。"
+    },
+    {
+      "id": "4927482",
+      "time": "2026-06-10 15:06:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【林園股東大會前夕再談茅臺：買這種公司，你就踏實回去睡覺】6月10日，貴州茅臺2025年度股東會定於明日召開，會址選定茅臺會議中心大禮堂。據悉，本次股東大會將有約1500名股東、分析師等到達現場聆聽提問。股東們於今日下午2點至8點，在茅臺國際大酒店大堂簽到處進行報到。而在報道前夕，知名私募、林園投資董事長林園和家人們已提前抵達茅臺國際大酒店入住。談及對茅臺今年市場化改革及未來前景的看法，林園向新浪財經《酒業內參》表示非常樂觀：“買茅臺這種公司，你就（踏實）回去睡覺，一年分紅就能分幾十塊。”（酒業內參）"
+    },
+    {
+      "id": "mkt:019eb05a-cab4-799a-b41e-31e197b7a2b2",
+      "time": "2026-06-10 15:06:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【A-shares close: Shanghai Composite down 0.42%; bank stocks trade higher】China A-shares closed lower. Shanghai Composite fell 0.42%, Shenzhen Composite declined 2.06%, ChiNext slipped 2.70%. Turnover across Shanghai and Shenzhen was 2.62 trillion yuan, about 21.1 billion yuan below yesterday. Advancers roughly 1,600 versus about 3,900 decliners. Bank stocks traded higher amid mixed flows. Chemicals led sector gains with multiple limit-ups, including Sinochem International; tourism & hotels and photolithography/photoresist names also rallied; photovoltaic equipment firms strengthened late. Also active: livestock, brokerages, liquor, innovative drugs and airlines/airports. Biggest sector declines: coal, electronic components, CPO, humanoid robots, commercial space and lab-grown diamonds."
+    },
+    {
+      "id": "mkt:019eb05a-7e4e-799a-b41e-2b3f55ceac36",
+      "time": "2026-06-10 15:06:20",
+      "tags": [
+        "MKT News",
+        "HMC.O",
+        "Impact bearish"
+      ],
+      "text": "The National Highway Traffic Safety Administration says Honda is recalling certain vehicles in the United States."
+    },
+    {
+      "id": "4927481",
+      "time": "2026-06-10 15:06:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中央廣播電視總檯釋出關於第23屆國際足聯世界盃版權保護的宣告。（央視新聞）"
+    },
+    {
+      "id": "4927480",
+      "time": "2026-06-10 15:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：今年汛期多款堤防安全技術裝備將投入使用】今年汛期多款堤防安全技術裝備將投入使用。日前，針對堤壩常見隱蔽隱患與坡面險情自主研發的一批防汛新技術、新裝備已在河南中牟黃河大堤完成測試。這次測試的裝備體系涵蓋堤防隱患探測與智慧巡堤查險兩大領域，包括探地雷達、瞬變電磁儀等高精度探測裝置，以及新型無人機、機器狗等智慧化巡檢裝備。其中，瞬變電磁儀如同靈敏的大地“感應器”，僅需在地面佈設線圈併發射電磁訊號，即可捕捉堤壩深部的含水異常，讓潛藏的滲漏無處遁形。探地雷達則像醫生做B超一樣，能夠在不損傷堤壩的前提下，清晰掃描並呈現其內部“健康狀況”。據瞭解，這批經過實戰化測試的新技術新裝備，計劃在今年汛期部署應用。"
+    },
     {
       "id": "mkt:019eb058-169e-799a-b41e-21ce6bb14992",
       "time": "2026-06-10 15:03:43",
@@ -171913,148 +171994,6 @@
         "國際"
       ],
       "text": "【韓國四家機器人概念股年內平均暴漲155%】韓國交易所週三釋出資料：受全球實體人工智慧產業景氣帶動，韓國主機板上市的四家機器人相關龍頭企業，今年股價平均漲幅達155%。 統計資料截至本週二，統計標的為四家市值均不低於50萬億韓元（約合328億美元）的大盤標的：現代汽車、現代摩比斯、起亞、LG電子。LG電子週二收盤報392500韓元，相較年內首個交易日91400韓元的股價，漲幅超3倍。依託集團子公司波士頓動力研發的Atlas人形機器人市場預期升溫，現代汽車、現代摩比斯、起亞年內股價分別上漲144%、105%、40%。 英偉達CEO黃仁勳定於本週晚些時候訪韓，他在出訪前表態將把機器人列為韓國重點投資方向，這一訊息進一步助推韓國機器人板塊做多情緒。"
-    },
-    {
-      "id": "4914479",
-      "time": "2026-06-03 15:08:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭鐵路公司執行長表示，俄羅斯在2026年對該公司發動的襲擊次數翻倍。"
-    },
-    {
-      "id": "4914478",
-      "time": "2026-06-03 15:08:18",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：維持百濟神州“跑贏行業”評級，ASCO公佈CDK4i亮眼資料】中金公司研報指出，百濟神州於ASCO會議上公佈了實體瘤管線的最新進展，重點包括CDK4i、B7-H4 ADC、GPC3/4-1BB雙抗等。CDK4i用於1L HR+/HER2- BC展示了亮眼的療效和安全性資料。公司更新了BGB-43395 (CDK4i)聯合來曲唑用於治療1LHR+/HER2- BC的I期臨床資料，n=58，中位隨訪時間10.8-12.5個月：有效性方面，400mg劑量組cORR=63.2%（12/19），ucORR= 73.7（14/19），mPFS未成熟，這也是公司III期臨床採用的推薦劑量，該資料與輝瑞同類藥物接近（17 個月隨訪ORR59%，23 個月隨訪ORR 68%）；安全性方面，400mg劑量組≥Gr3中性粒細胞減少為0%，依舊明顯好於輝瑞（23.5%-26.5%），且隨餐給藥可減輕胃腸道TRAE，出現的TRAE均為1 級。公司計劃該產品將於本月開始入組患者，建議重點關注。維持“跑贏行業”評級，基於DCF模型，維持A/H/US股目標價320元/250港幣/420美元（44.9%/48.1%/50.2%上行空間）。"
-    },
-    {
-      "id": "mkt:019e8c4f-ef10-7ee2-b143-36ddd783b1f6",
-      "time": "2026-06-03 15:08:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "Ukrainian Railways' CEO said Russia doubled the number of attacks against the company in 2026."
-    },
-    {
-      "id": "mkt:019e8c4f-8c92-7ee2-b143-2d0d0284d9cb",
-      "time": "2026-06-03 15:07:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Sberbank's first deputy chairman expects the ruble to reach 85 per dollar by end-2026."
-    },
-    {
-      "id": "4914477",
-      "time": "2026-06-03 15:07:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【北京文化股價跌停 回應稱《封神3》檔期未定，無延期說法】據中國證券報訊息，6月3日，北京文化股價跌停，市值僅剩34億元，主要因《封神3》開拍延期傳聞及公司業績虧損。對此，北京文化回應稱，股價受多重因素影響，經營正常，《封神3》檔期未定，無延期說法。公司2025年年報顯示，儘管營業收入增長，但因電影票房不及預期等原因，淨利潤虧損約4.07億元，電影業務毛利率為-142.37%。公司目前無具體定檔專案。"
-    },
-    {
-      "id": "4914476",
-      "time": "2026-06-03 15:07:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta針對歐盟將Messenger劃歸守門人稱號的訴訟敗訴。"
-    },
-    {
-      "id": "mkt:019e8c4f-2cd9-7ee2-b143-27631590b39b",
-      "time": "2026-06-03 15:07:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sberbank's first deputy chairman expects the Bank of Russia to cut its key rate by more than 50 bps at the June 19 board meeting."
-    },
-    {
-      "id": "4914475",
-      "time": "2026-06-03 15:07:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【NHTSA：召回部分福特、斯巴魯汽車】美國國家公路交通安全管理局：美國斯巴魯公司正在召回69663輛美國在售車輛，原因是（車輛的）一塊玻璃面板可能脫落，成為道路安全隱患，提升碰撞事故風險；福特汽車公司正在召回419967輛美國市場車輛，問題車輛安全帶存在無法收縮或拉出的問題，無法按設計要求約束車內乘員，這會增加碰撞事故中乘員受傷的風險。"
-    },
-    {
-      "id": "mkt:019e8c4e-739c-7ee2-b143-1863dc3521f8",
-      "time": "2026-06-03 15:06:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sberbank's first deputy chairman said the bank expects Russia's GDP to expand 0.5–1% in 2026."
-    },
-    {
-      "id": "4914474",
-      "time": "2026-06-03 15:06:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達150億港元。"
-    },
-    {
-      "id": "mkt:019e8c4d-faf3-7ee2-b143-130ccd6b7c97",
-      "time": "2026-06-03 15:06:10",
-      "tags": [
-        "MKT News",
-        "F.N",
-        "Impact bearish"
-      ],
-      "text": "The U.S. National Highway Traffic Safety Administration (NHTSA) said Ford Motor is recalling 419,967 U.S. vehicles because seat belts may fail to retract or extend and therefore may not properly restrain occupants, increasing the risk of injury in a crash."
-    },
-    {
-      "id": "4914473",
-      "time": "2026-06-03 15:05:18",
-      "tags": [
-        "公司",
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "阿斯麥股價創歷史新高，漲幅1.6%。"
-    },
-    {
-      "id": "mkt:019e8c4d-0969-7ee2-b143-0cfb02a79d72",
-      "time": "2026-06-03 15:05:05",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "OECD now expects UK GDP to expand 0.9% in 2026 (previously 0.7%) and 1.1% in 2027 (previously 1.3%)."
-    },
-    {
-      "id": "mkt:019e8c4d-0909-7ee2-b143-04060c4c06de",
-      "time": "2026-06-03 15:05:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【China A‑shares close higher; oil & gas upstream names rally in afternoon】China A‑shares closed higher: Shanghai Composite +0.22%, Shenzhen Composite +0.73%, ChiNext +1.65%; STAR 50 +2.11%. Shanghai/Shenzhen turnover CNY3.13tn, up CNY337.3bn vs prior session. More than 1,700 stocks advanced. Lab‑grown diamond names jumped—Huifeng Diamond +15%, Hengsheng Energy hit daily limit. Coal mining & processing surged in the afternoon with Zhengzhou Coal & Power and Dayou Energy limiting up; Jinkong Coal, Lu'an Environmental Energy and Huadian Energy also outperformed. Oil & gas exploration and services extended afternoon gains: Keli rose over 22% intraday; Tongyuan Petroleum, Qianeng Hengxin and Zhongman Petroleum rallied. Cinema exhibitors lagged, led lower by Zhongguang Tianze (limit down), Beijing Culture, Baina Qiancheng and Shanghai Film."
     }
   ]
 }
