@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-10 15:16:26",
-  "count": 18630,
+  "updated": "2026-06-10 15:20:09",
+  "count": 18634,
   "items": [
+    {
+      "id": "mkt:019eb066-c52a-799a-b41e-802db94f8c7c",
+      "time": "2026-06-10 15:19:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China responds to EU comment that Russia sanctions may target Chinese firms】June 10 — After EU High Representative Kallas said a new round of Russia sanctions may include firms in China, Turkey and India, Foreign Ministry spokesman Lin Jian said China opposes illegal unilateral sanctions that lack UN Security Council authorization, has lodged stern representations with the EU and urged retraction, and will closely monitor developments and take necessary measures to safeguard its legitimate rights."
+    },
+    {
+      "id": "4927510",
+      "time": "2026-06-10 15:19:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能集團等在內蒙古成立新公司】天眼查App顯示，近日，北方（錫林郭勒盟鑲黃旗）新能源有限責任公司成立，法定代表人為趙飛軍，註冊資本100萬人民幣，經營範圍包括風力發電技術服務等。股東資訊顯示，該公司由中國華能集團有限公司旗下北方聯合電力有限責任公司、維貝德（內蒙古）科技有限公司、四合光能（內蒙古）有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019eb066-340a-799a-b41e-7d5de5dca3a6",
+      "time": "2026-06-10 15:19:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【China urges prompt comprehensive, lasting ceasefire as US‑Iran clashes escalate】Foreign Ministry spokesman Lin Jian, at a routine briefing, said China is deeply concerned after US strikes on Iran on the morning of June 10 (Beijing time) and Iran’s retaliatory strikes on US bases in Jordan, Kuwait and Bahrain. He urged all parties to remain calm and restrained, stop escalating tensions, take practical steps to de‑escalate, and resolve disputes through political and diplomatic channels to achieve an early, comprehensive and lasting ceasefire."
+    },
+    {
+      "id": "4927509",
+      "time": "2026-06-10 15:18:53",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐盟對俄製裁可能涉及中國企業，中方回應】6月10日，外交部發言人林劍主持例行記者會。 有外媒記者提問，歐盟外交與安全政策高階代表卡拉斯表示，針對俄羅斯的新一輪制裁方案可能包括針對中國、土耳其、印度等國境內的企業。請問中方對此有何評論？ 林劍表示，中方一貫堅決反對缺乏國際法依據，沒有聯合國安理會授權的非法單邊制裁，已多次向歐方提出嚴正交涉，敦促歐方糾正錯誤的做法，撤回非法單邊制裁。 “中方將密切關注有關的動向，並將採取必要的措施，堅決維護自身的正當權益。”林劍說。（北京日報）"
+    },
+    {
+      "id": "te:economy:557947",
+      "time": "2026-06-10 15:18:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Slovakia Industrial Output Drops Faster in April — Industrial production in Slovakia dropped by 3.2% year-on-year in April 2026, better than market expectations for a 3.5% contraction, though a sharper decline than the slightly downwardly revised 0.8% fall in March. The latest reading marked the third consecutive month of contraction in industrial activity and the steepest decline in the current downturn, as output fell in 10 of the 15 monitored industrial sectors. The manufacture of transport equipment remained the biggest drag on production, with output declining by 5.4% (vs -5.3% in March), followed by an 8.1% drop (vs -4.1%) in the manufacture of basic metals and an 11.4% fall (vs -45.7%) in coke and refined petroleum products. Partly offsetting these declines were gains in the manufacture of electrical equipment (5% vs 9.8%), and machinery and equipment (3.4% vs 3.2%). On a seasonally adjusted basis, industrial production was unchanged from the previous month."
+    },
+    {
+      "id": "4927508",
+      "time": "2026-06-10 15:17:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：中方對當前伊朗局勢深表關切，各方應保持冷靜剋制】6月10日，外交部發言人林劍主持例行記者會。 中阿衛視記者提問，北京時間6月10日上午，美國對伊朗發起了三輪襲擊，隨後伊朗為作出回應，對約旦、科威特、巴林的美軍基地發起了回擊。請問中方對中東局勢再次升級有何評論？ 林劍表示，中方對當前的伊朗局勢深表關切。相關各方應保持冷靜剋制，停止激化矛盾、升級局勢，採取切實的措施緩局降溫，堅持透過政治外交途徑化解爭端，儘早實現全面持久停火。（北京日報）"
+    },
+    {
+      "id": "te:economy:557945",
+      "time": "2026-06-10 15:17:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Inflation Rate at Confirmed at 2.1% — The annual inflation rate in the Czech Republic eased to 2.1% year-on-year in May 2026 from 2.5% in the previous month, confirming preliminary estimates. Price growth moderated across several categories, including alcoholic beverages and tobacco (3.7% vs 5.2% in April), recreation, sports and culture (3.0% vs 3.4%), health (2.8% vs 4.0%), information and communication (2.5% vs 3.4%), furnishings, household equipment and routine maintenance (1.1% vs 1.4%), and personal care, social protection, and miscellaneous goods and services (3.3% vs 3.5%). Meanwhile, deflation persisted for food and non-alcoholic beverages (-1.9% vs -1.3%) and clothing and footwear (-2.5% vs -2.4%). Conversely, inflation increased for housing and utilities (1.3% vs 1.2%), transport (9.4% vs 8.7%), education (4.0% vs 3.9%), and restaurants and hotels (4.4% vs 4.3%). On a monthly basis, consumer prices eased 0.1% in May from a 0.5% increase in April and marking the softest monthly gain since February."
+    },
+    {
+      "id": "4927507",
+      "time": "2026-06-10 15:17:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月10日滬深兩市漲停分析】創業板指低開低走跌2.7%，工業氣體概念逆勢大漲。天娛數科4連板，金安國紀3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019eb064-22e6-799a-b41e-76fb32cc1943",
+      "time": "2026-06-10 15:16:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian military says it has destroyed multiple key facilities at the Russian-occupied port of Mariupol."
+    },
+    {
+      "id": "4927506",
+      "time": "2026-06-10 15:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，已摧毀馬裡烏波爾港口的多處關鍵設施。"
+    },
+    {
+      "id": "mkt:019eb063-b2ca-799a-b41e-69274542e03f",
+      "time": "2026-06-10 15:16:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures midday close】2-year (TS) most-active contract down 0.05%; 5-year (TF) most-active down 0.13%; 10-year (T) most-active down 0.17%; 30-year (TL) most-active down 0.36%."
+    },
+    {
+      "id": "mkt:019eb063-7cfe-799a-b41e-6549e044b38f",
+      "time": "2026-06-10 15:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CUSTOMS deputy Zhang Baofeng meets Macau SAR Secretary Huang Shaoze; signs cooperation on Hengqin zone and customs facilitation】On June 9, CUSTOMS deputy director Zhang Baofeng met Macau SAR Secretary for Administration and Justice Huang Shaoze to advance high‑quality development of the Hengqin Guangdong–Macao Deep Cooperation Zone. They agreed to deepen regulatory alignment, streamline cross‑border customs clearance and enhance cooperation to support moderate economic diversification in Macau, and signed related cooperation documents."
+    },
+    {
+      "id": "mkt:019eb063-72c3-799a-b41e-58989cc17fbc",
+      "time": "2026-06-10 15:16:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX and XAI sued in Mississippi over alleged nuisance from data-center power plant】Three Mississippi residents filed a federal class action representing more than 10,000 people against ELON MUSK’s SpaceX and newly merged XAI, alleging a power plant supplying a data center has produced sustained excessive noise. Court filings published on the 9th say plaintiffs accuse the companies of failing to curb the noise, causing mental distress and property devaluation, and seek damages."
+    },
+    {
+      "id": "te:markets:557942",
+      "time": "2026-06-10 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.42% Lower — The Shangai Composite Index decreased 17 points or 0.42 percent on Wednesday to close at 3993 points. The decline was led by Sanan Optoelectron (-10.00%), Shanghai Petrochemical (-5.71%) and Sany Heavy Industry (-5.32%). On the upside, the strongest performers were China Life Insurance (4.53%), New China Life (4.19%) and Great Wall Motor (3.38%)."
+    },
+    {
+      "id": "4927505",
+      "time": "2026-06-10 15:15:47",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：儘管近期表現疲軟，黃金料仍有催化劑】威廉博萊公司的Alexandra Symeonidi在一封電子郵件中表示，儘管近期表現疲軟，黃金仍有催化劑。她說，雖然今年以來這種黃色金屬表現不佳，但它仍然是結構性儲備的多元化工具，即使在地緣政治不確定性加劇的情況下也是如此。繼3月份拋售之後，各國央行在4月份重新成為這種貴金屬的淨買家。她補充說，與2026年初的水平相比，黃金的ETF頭寸和投機興趣處於低位。她說，這是一個“相當重要的需求來源，一旦被更明確的美聯儲寬鬆訊號重新啟用，可能會推動新一輪反彈“。威廉博萊公司對黃金的中期前景保持建設性看法。現貨黃金下跌1.3%，至每盎司4,204.15美元。"
+    },
     {
       "id": "4927504",
       "time": "2026-06-10 15:15:22",
@@ -25,6 +172,14 @@
         "市場"
       ],
       "text": "【國債期貨收盤】 30年期主力合約跌0.36%， 10年期主力合約跌0.17%， 5年期主力合約跌0.13%， 2年期主力合約跌0.05%。"
+    },
+    {
+      "id": "4927501",
+      "time": "2026-06-10 15:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問釋出高考志願填報Agent，免費提供志願填報諮詢】千問上線首個全週期高考志願填報Agent，為全國考生免費提供志願填報和諮詢服務。基於千問高考志願大模型和夸克8年高考資料經驗打造，高考Agent具備“志願報告”、“志願日曆”、“志願問答”三項核心能力，相當於為每位考生配備了一位貼身的AI高考志願填報專家。 據悉，考生向千問提供選科、估分等基礎資訊後，即可在“志願日曆”的規劃下，一步步形成對專業院校、性格偏好和志願方案的深入瞭解，並免費獲取定製化的“高考志願報告”，涵蓋填報所需的幾十種志願組合，可直接寫入填報系統。類似的深度志願服務，在市場上收費往往超過5000元。 為確保內容的專業性與準確性，高考志願填報Agent基於千問高考志願大模型打造，並結合了夸克8年高考服務積累的資料與經驗。 千問事業部產品負責人鄭嗣壽介紹，中國每年有超過1000萬考生參加高考。其中為考生聘請專業志願填報師的家庭佔比不到5%，剩下95%的家庭和考生更多靠自己的摸索完成志願填報。“千問希望能為每位考生提供一位免費的AI高考志願填報專家”。（新浪科技）"
     },
     {
       "id": "4927500",
@@ -171858,121 +172013,6 @@
         "Importance 2"
       ],
       "text": "Spain Services Sector Stabilises in May — The S&P Global Spain Services PMI rose to 50.1 in May 2026 from 47.9 in April, above market expectations of 48 and signalling a stabilization in activity after the previous month’s contraction. The slight improvement was supported by a return to growth in new business, driven by stronger demand. However, growth remained modest as uncertainty linked to the Middle East conflict continued to weigh on market conditions and export orders declined for a fifth consecutive month. Input costs increased sharply, largely due to higher energy and fuel expenses, alongside rising supplier and labour costs. In response, service providers raised their selling prices, although output price inflation eased to a three-month low. Business confidence improved slightly but remained below historical norms due to ongoing geopolitical uncertainty. Despite this, firms expanded hiring, with employment growth strengthening through a mix of temporary and permanent recruitment."
-    },
-    {
-      "id": "mkt:019e8c5a-8bed-7dd8-946c-d65e55909ae7",
-      "time": "2026-06-03 15:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Tech Index",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Tech Index extended afternoon losses to 3%; Hang Seng Index (HSI) down 1.67%."
-    },
-    {
-      "id": "4914501",
-      "time": "2026-06-03 15:19:59",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【報告：黃金在美國非農就業報告公佈前承壓】XS.com的Simon-Peter Massabni在一封電子郵件中表示，隨著市場在將於本週五出爐的美國非農就業報告公佈前變得謹慎，黃金在每盎司4,500美元下方承壓。這位業務拓展主管表示，在資料釋出前，投資者似乎在避免建立大量新頭寸，該資料可能會影響對美聯儲利率軌跡的預期。“如果沒有來自資料的明確訊號，黃金可能會繼續呈盤整走勢，”Massabni補充道。現貨黃金下跌0.4%，報每盎司4,469.31美元。"
-    },
-    {
-      "id": "4914500",
-      "time": "2026-06-03 15:19:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆力重工簽訂21+4艘新造船專案 總價值近150億元】恆力集團官微訊息，2026年希臘國際海事展覽會期間，恆力重工簽訂21+4艘新造船專案，涵蓋六大船東、五大船型、總價值近150億元。"
-    },
-    {
-      "id": "4914499",
-      "time": "2026-06-03 15:19:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超3%，現報5043.270點；恒生指數現跌1.678%。"
-    },
-    {
-      "id": "4914498",
-      "time": "2026-06-03 15:19:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達160億港元。"
-    },
-    {
-      "id": "mkt:019e8c59-97b5-7dd8-946c-cd4b68ded75c",
-      "time": "2026-06-03 15:19:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Xingyin Fund's Weng Zichen: AI hardware rally not over but watch valuation bubble】Xingyin Fund fund manager Weng Zichen said recent debate around the so‑called 'Tao law' signals resilience in China’s tech supply chain under external pressure and a shift from follower‑type development to independent innovation, supporting the domestic tech cycle. He said market hopes that AI applications would lead have been premature: since the start of the year compute demand from training and inference has driven outperformance in AI hardware—GPUs, optical modules and servers—which is translating into earnings and sustaining the rally. Capital markets ultimately price around earnings and cyclical strength, he added; hardware strength leading application take‑off is a reasonable industry cadence, but investors should beware valuation bubbles."
-    },
-    {
-      "id": "4914497",
-      "time": "2026-06-03 15:18:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿克蘇諾貝爾股價下跌22%，潛在收購方終止競購。"
-    },
-    {
-      "id": "4914496",
-      "time": "2026-06-03 15:18:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【微軟 CEO 納德拉：確保資料中心不推高電價，繼續建設才會獲得許可】微軟 CEO 薩提亞 · 納德拉在微軟 Build 開發者大會主題演講中回應了微軟大規模建設 AI 資料中心面臨的一項核心挑戰：社群反對。AI 資料中心已經成為政治爭議焦點。蓋洛普近期一項民調顯示，相比住在 AI 資料中心附近，更多受訪者寧願住在核反應堆附近。隨著資料中心建設熱潮升溫，電費上漲、環境影響以及 AI 可能衝擊就業等問題，也讓雲服務商承受越來越大壓力。微軟 1 月提出“社群優先”的 AI 基礎設施計劃，承諾資料中心不會推高居民電價。納德拉說：“我們如何確保資料中心不會推高電價？如何確保補充所有用水，在當地社群為居民創造就業，增加稅基，並透過投資本地培訓和當地非營利組織來強化社群？只有在我們兌現這些原則，並圍繞這些原則完成艱苦工作時，我們才會獲得繼續創新和建設的許可。”"
-    },
-    {
-      "id": "4914495",
-      "time": "2026-06-03 15:17:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【興銀基金翁子晨：AI硬體行情未結束，但需警惕估值泡沫】近期，科技領域的“韜定律”引發市場廣泛討論。興銀基金指數與量化投資部基金經理翁子晨表示，這一定律的“出圈”並非偶然，其本質是我國科技產業鏈在外部壓力下，長期堅持自主創新所形成的韌性體現，也標誌著我國科技產業正從“跟隨式發展”向“自主創新”階段邁進。針對當前市場關注的AI投資主線，翁子晨分享了他的深度見解。他表示，儘管年初市場普遍期待AI應用端成為新主線，但今年以來，硬體科技板塊卻持續佔據市場“C位”。究其原因，AI應用的大規模商業化落地尚需時間驗證，而來自訓練與推理端的算力需求卻持續爆發，推動GPU、光模組、伺服器等硬體環節不斷兌現業績，形成了基本面支撐。“資本市場最終圍繞業績和景氣度定價，”翁子晨指出，“從產業發展節奏看，硬體景氣度領先於應用爆發是合理的路徑。”（中國基金報）"
-    },
-    {
-      "id": "mkt:019e8c57-8dc3-7dd8-946c-c4596843f459",
-      "time": "2026-06-03 15:16:48",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain composite PMI rose to 50.2 in May from 48.7 in April."
-    },
-    {
-      "id": "mkt:019e8c57-7467-7dd8-946c-bc2eb153a80a",
-      "time": "2026-06-03 15:16:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Composite PMI (May) | actual 50.2 | previous 48.7"
-    },
-    {
-      "id": "4914494",
-      "time": "2026-06-03 15:16:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光聯芯科宣佈完成A輪近5億元融資】6月3日，國內光互連（OIO）賽道初創公司光聯芯科宣佈，已完成A輪近5億元融資，估值和累計融資規模重新整理行業初創公司紀錄。新股東由高榕創投、聯想創投、基石資本聯合領投，普洛斯隱山資本、仁愛資本、芯禾資本等一線產業資本以及裴振華等企業家個人跟投；君聯資本、紅杉中國、高瓴創投、真知創投、尚勢資本等老股東超額追投。"
     }
   ]
 }
