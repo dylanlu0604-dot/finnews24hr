@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-10 09:12:56",
-  "count": 18719,
+  "updated": "2026-06-10 09:16:45",
+  "count": 18722,
   "items": [
+    {
+      "id": "4926961",
+      "time": "2026-06-10 09:16:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8130，較上日調高17點】人民幣兌美元中間價報6.8130，較上日調高17點。"
+    },
+    {
+      "id": "mkt:019eaf19-67c0-7ff4-a104-3c08e0d3bf83",
+      "time": "2026-06-10 09:15:38",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.98% at 24,382, trading 184 points below the spot index."
+    },
+    {
+      "id": "4926960",
+      "time": "2026-06-10 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌1.06%，報24362.77點，低水203.13點。"
+    },
+    {
+      "id": "mkt:019eaf18-cc10-7ff4-a104-3603f11c9aa7",
+      "time": "2026-06-10 09:14:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Fox News reporter cited a senior U.S. official saying 20 targets inside Iran were struck."
+    },
+    {
+      "id": "4926959",
+      "time": "2026-06-10 09:14:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1346.50元。"
+    },
+    {
+      "id": "4926958",
+      "time": "2026-06-10 09:13:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國空軍對波音KC-46空中加油機的修復方案充滿信心】美國空軍部長特洛伊·明克週二向參議院一個小組委員會表示，美國空軍確信已找到解決波音公司 BA.N KC-46空中加油機關鍵系統長期存在問題的辦法。多年來，波音公司和美國空軍一直致力於解決該加油機遠端視覺系統的問題，該系統對於使用飛機加油探管（一種用於輸送燃油的剛性管道）進行空中加油至關重要。“好訊息是，我們相信已經修復並測試了新的2.0版視覺系統，預計將於2028年將其投入生產線，”明克在週二的國防撥款小組委員會聽證會上表示。這比最初計劃晚了五年。"
+    },
+    {
+      "id": "4926957",
+      "time": "2026-06-10 09:13:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【翻倍基增至15只 同一基金經理批次上榜】Wind資料統計，截至6月9日，僅統計主程式碼口徑下，主動權益類基金中年內復權單位淨值增長率超過100%的產品已增至15只。財通多策略福鑫、財通匠心優選一年持有、華商均衡成長、財通景氣甄選一年持有等產品年內收益均超過115%。從基金經理維度看，榜單集中度較高，15只翻倍基中，金梓才管理的財通基金產品佔據6席；張明昕、陳文凱、孫碩旗下也分別有2只產品進入翻倍名單。持倉方面，金梓才管理的6只翻倍基前十大重倉股中，有9只股票重複出現，部分同一基金經理旗下上榜產品也存在較高持倉重合度，持倉方向多集中在光通訊、PCB等AI算力鏈環節。業內人士認為，多隻產品同時上榜，未必對應多套差異化策略，若底層組合相近，淨值表現同步衝高並不意外。"
+    },
+    {
+      "id": "4926956",
+      "time": "2026-06-10 09:12:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【490股獲融資買入超億元，中際旭創穫買入70.93億元居首】Wind資料顯示，A股6月9日共有3775只個股獲融資資金買入，有490股買入金額超億元。其中，中際旭創、京東方A、兆易創新融資買入金額排名前三，分別獲買入70.93億元、40.89億元、38.62億元。從融資買入額佔當日總成交金額比重來看，有10只個股融資買入額佔比超30%。其中龍利得、海能技術、宗申動力融資買入額佔成交額比重排名前三，分別為40.82%、36.39%、33.64%。從融資淨買入金額來看，有59只個股獲融資淨買入超億元。其中，滬電股份、勝宏科技、兆易創新融資淨買入金額排名前三，分別獲淨買入9.64億元、9.41億元、9.03億元。"
+    },
     {
       "id": "mkt:019eaf16-3712-7ff4-a104-2a9c344c84ef",
       "time": "2026-06-10 09:12:09",
@@ -46,6 +118,15 @@
         "觀點"
       ],
       "text": "惠譽：中信證券首次獲得“A-”評級；展望穩定。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606103765930491",
+      "time": "2026-06-10 09:10:20",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【9月加息？華爾街開始押注美聯儲極限緊縮劇本】最新跡象顯示，華爾街的債券交易員近來正紛紛建倉，押注美聯儲未來數月將多次加息，其中部分交易員甚至預期最早在9月的政策會議上就會採取行動。"
     },
     {
       "id": "4926951",
@@ -172776,59 +172857,6 @@
         "MKT News"
       ],
       "text": "The US Supreme Court rejected a judicial ruling that had barred Alabama from advancing a Republican-leaning congressional map."
-    },
-    {
-      "id": "mkt:019e8b0c-eef5-7ee2-b13a-91021f587a18",
-      "time": "2026-06-03 09:15:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China International Capital Co: Communication PCB chain likely to see sustained volume and price gains】China International Capital Co said 6G ISAC commercialization—bringing more channels, higher frequency bands and greater integration—will drive comprehensive upgrades in RF PCB materials, processes and design, creating incremental demand across the PCB supply chain. The firm expects penetration of advanced materials, adoption of more complex processes and rising multilayer-board demand to support sustained volume and price appreciation in the communication PCB chain. To accommodate higher-frequency transmission, copper-clad laminate materials with lower dielectric constant (Dk), lower dielectric loss (Df) and superior thermal stability will become required, making upstream high-performance high-frequency materials such as PTFE early beneficiaries."
-    },
-    {
-      "id": "4913916",
-      "time": "2026-06-03 09:15:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8184，較上日調高3點】人民幣兌美元中間價報6.8184，較上日調高3點。"
-    },
-    {
-      "id": "4913915",
-      "time": "2026-06-03 09:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院推翻了叫停阿拉巴馬州推行偏向共和黨的國會選區地圖的司法裁決。"
-    },
-    {
-      "id": "4913914",
-      "time": "2026-06-03 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.41%，報25841.60點，低水196.72點。"
-    },
-    {
-      "id": "4913913",
-      "time": "2026-06-03 09:14:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【景興紙業：公司瓦楞原紙銷售價格5月有多輪上調】景興紙業(002067)在互動平臺表示，公司瓦楞原紙銷售價格5月經過多輪的上調，至今上調幅度300—350元。"
-    },
-    {
-      "id": "4913912",
-      "time": "2026-06-03 09:14:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【東南亞多國擔憂今夏旅遊旺季“難旺”】夏季是東南亞多國接待國際遊客、賺取外匯的重要季節，但受伊朗戰事所致燃料價格大漲等多重因素影響，泰國、越南、柬埔寨等多國旅遊業人士擔心，今夏的旅遊旺季可能不會如以往那般興旺。旅遊業是東南亞不少國家的支柱產業。據美聯社資料，旅遊業收入佔泰國國內生產總值的近13%、越南的近9%。在柬埔寨，旅遊業提供了數百萬人賴以生存的工作崗位。在菲律賓，旅遊業是重要的創匯行業。在國際油價大漲背景下，對燃料依賴進口的國家而言，旅遊創匯變得更為重要。（新華社）"
     }
   ]
 }
