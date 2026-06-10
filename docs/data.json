@@ -1,7 +1,769 @@
 {
-  "updated": "2026-06-11 07:18:13",
-  "count": 18405,
+  "updated": "2026-06-11 07:55:09",
+  "count": 18425,
   "items": [
+    {
+      "id": "mkt:019eb3f4-cb07-7dd8-afaf-6cafd5365aef",
+      "time": "2026-06-11 07:53:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan Q2 BSI for large non-manufacturing firms -0.5; previous 4.6."
+    },
+    {
+      "id": "4929160",
+      "time": "2026-06-11 07:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：美國中央司令部在許願】據伊朗邁赫爾通訊社報道，伊朗方面表示，根據衛星影象，在革命衛隊海軍發出威脅之後，霍爾木茲海峽沒有任何船隻通行。而美國中央司令部幾分鐘前聲稱霍爾木茲海峽仍然開放，他們是在用願望寫宣告。"
+    },
+    {
+      "id": "mkt:019eb3f4-ac48-7dd8-afaf-6050d78d5a8d",
+      "time": "2026-06-11 07:53:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | BSI On Large Enterprises Business Conditions (Nonmanufacturing) (Q2) | actual -0.5 | previous 4.6"
+    },
+    {
+      "id": "4929159",
+      "time": "2026-06-11 07:53:08",
+      "tags": [
+        "央行",
+        "資料",
+        "觀點"
+      ],
+      "text": "【中信建投：近期市場對加息敘事十分敏感，並不是真的要加息】中信建投指出，近期宏觀環境，對降息敘事不友好，但降息視窗未全面關閉，關注三條邏輯：①6月：美股和美債二次探底，會加速美伊談判和霍爾木茲海峽重開，一旦油價回落，加息敘事的前提或將鬆動。②三季度：就業資料如何看待，不取決於其自身，通脹才是判官，只要核心CPI保持穩定，降息的希望之火就不會完全熄滅。③下半年：K型分化下，若消費繼續低迷，聯儲對就業的訴求，或不滿足於失業率企穩，而是更大幅度的下降，降息仍是潛在選項。 目前對加息的定價趨向極致，下半年均值迴歸的方向更可能是寬鬆。此外，近期市場對加息敘事十分敏感，並不是真的要加息，而是美股恐高，待回撤完成，情緒緩和，加息敘事容易淡化。"
+    },
+    {
+      "id": "4929158",
+      "time": "2026-06-11 07:51:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月5日當週外資淨買進日本股票 -7010億日元，前值 -4912億日元。日本6月5日當週淨買進國外債券 1975億日元，前值 -1848億日元。日本6月5日當週外資淨買進日本債券 -10385億日元，前值 12458億日元。日本6月5日當週淨買進國外股票 -9436億日元，前值 -10720億日元。"
+    },
+    {
+      "id": "4929157",
+      "time": "2026-06-11 07:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普把近期與伊朗達成的停火協議形容為 史上被違反、破壞得最嚴重的協議】據報道，美國總統特朗普表示，他已與伊朗官員舉行直接會談，且對方要求停止當前的打擊行動。特朗普稱，美國戰鬥機目前正在伊朗領空上空執行任務，並聲稱 “轟炸很快就會停止”，暗示局勢可能轉向緩和。他還將近期與伊朗達成的停火協議形容為 “史上被違反、破壞得最嚴重的協議”。"
+    },
+    {
+      "id": "mkt:019eb3f2-97e8-7dd8-afaf-59424bdbf0f9",
+      "time": "2026-06-11 07:51:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan bought foreign bonds in the week to June 5, net purchases 197.5 bln yen; prior week net sales 184.8 bln yen."
+    },
+    {
+      "id": "em:jjsj_rbsj:202606113767303535",
+      "time": "2026-06-11 07:51:18",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至6月5日當週外資買進日股-7010億日元，前值-4912億日元。"
+    },
+    {
+      "id": "mkt:019eb3f2-74b3-7dd8-afaf-570c36d242b4",
+      "time": "2026-06-11 07:51:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's net purchases of foreign equities in the week to June 5 were -¥943.6 billion, versus -¥1,072.0 billion in the prior week."
+    },
+    {
+      "id": "mkt:019eb3f2-6d72-7dd8-afaf-4c328c3ac603",
+      "time": "2026-06-11 07:51:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jun.5) | actual 197500000000B | previous -184800000000B"
+    },
+    {
+      "id": "mkt:019eb3f2-655b-7dd8-afaf-4105634fde2c",
+      "time": "2026-06-11 07:51:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors were net sellers of ¥1.04 tln of Japanese government bonds in the week to June 5, versus net purchases of ¥1.25 tln in the prior week."
+    },
+    {
+      "id": "mkt:019eb3f2-57ff-7dd8-afaf-39123f969684",
+      "time": "2026-06-11 07:51:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jun.5) | actual -943600000000B | previous -1072000000000B"
+    },
+    {
+      "id": "mkt:019eb3f2-3e96-7dd8-afaf-35ca52fc5705",
+      "time": "2026-06-11 07:50:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jun.5) | actual -1038500000000B | previous 1245800000000B"
+    },
+    {
+      "id": "mkt:019eb3f2-3a4a-7dd8-afaf-2acfc960ef71",
+      "time": "2026-06-11 07:50:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors were net sellers of Japanese equities, -701.0 bln yen in the week to June 5, versus -491.2 bln yen the prior week."
+    },
+    {
+      "id": "mkt:019eb3f2-15f2-7dd8-afaf-27c90fd93be6",
+      "time": "2026-06-11 07:50:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jun.5) | actual -701000000000B | previous -491200000000B"
+    },
+    {
+      "id": "mkt:019eb3f1-f9dc-7dd8-afaf-1a242db239f3",
+      "time": "2026-06-11 07:50:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan Q2 BSI for large manufacturers -1.8, prior 3.8."
+    },
+    {
+      "id": "mkt:019eb3f1-da3b-7dd8-afaf-17c698dd2a9a",
+      "time": "2026-06-11 07:50:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | BSI On Large Enterprises Business Conditions (Manufacturing) (Q2) | actual -1.8 | previous 3.8"
+    },
+    {
+      "id": "4929156",
+      "time": "2026-06-11 07:50:12",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本二季度BSI大型製造業信心指數 -1.8，前值 3.8。"
+    },
+    {
+      "id": "4929155",
+      "time": "2026-06-11 07:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞總統要求特朗普停止干涉選舉】哥倫比亞總統佩特羅針對特朗普公開表態支援極右翼候選人德拉埃斯普列利亞一事，在社交媒體上要求特朗普停止干涉該國總統選舉，並強調選舉應由哥倫比亞人民自主決定。佩特羅指出，哥倫比亞憲法禁止總統選舉接受外國資金與支援。特朗普承諾若德拉埃斯普列利亞當選，美國將給予全力支援。初步計票結果顯示，德拉埃斯普列利亞和左翼候選人塞佩達進入第二輪投票，將於6月21日舉行，新任總統8月7日宣誓就職。（新華社）"
+    },
+    {
+      "id": "4929154",
+      "time": "2026-06-11 07:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍：商船仍在繼續進出霍爾木茲海峽】當地時間6月10日，美軍中央司令部發布訊息稱，伊朗伊斯蘭革命衛隊聲稱霍爾木茲海峽已關閉的說法是錯誤的。當晚，商船仍在繼續進出霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍當地時間11日宣佈，鑑於美國屢次違反停火協議，霍爾木茲海峽已關閉，直至另行通知。（央視）"
+    },
+    {
+      "id": "mkt:019eb3ee-d33b-7dd8-afaf-0eac4948d111",
+      "time": "2026-06-11 07:47:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US military: commercial vessels continue transiting Strait of Hormuz】US Central Command said on June 10 local time that Iran’s Islamic Revolutionary Guard Corps’ claim the Strait of Hormuz had been closed was false and commercial vessels were still transiting the strait that evening. On June 11 local time the IRGC navy announced the Strait of Hormuz was closed until further notice, citing repeated US violations of a ceasefire agreement."
+    },
+    {
+      "id": "4929153",
+      "time": "2026-06-11 07:45:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.23點。"
+    },
+    {
+      "id": "4929152",
+      "time": "2026-06-11 07:45:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌2%。"
+    },
+    {
+      "id": "te:markets:558181",
+      "time": "2026-06-11 07:45:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Languishes at 7-Month Lows — Gold held below $4,100 an ounce on Thursday, hovering at its lowest levels since November last year as the US launched strikes against Iran for the second day, threatening to prolong the conflict that has rattled global markets and fueled inflation concerns. The attacks followed President Donald Trump's accusation that Iran was delaying negotiations over an interim peace agreement, while Tehran vowed to resist any threats. The protracted conflict and the ongoing near-total closure of the Strait of Hormuz disrupted energy flows from the Persian Gulf, raising concerns about resurgent inflation and potential central bank interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the figure matched market expectations. Traders modestly pared expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced."
+    },
+    {
+      "id": "mkt:019eb3ec-909f-7dd8-afaf-03c98c9d0dcf",
+      "time": "2026-06-11 07:44:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Mehr news agency reported that Iran's Islamic Revolutionary Guard Corps has completed the first phase of its missile and drone offensive."
+    },
+    {
+      "id": "4929151",
+      "time": "2026-06-11 07:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：沒有美國軍艦在霍爾木茲海峽遭到打擊。"
+    },
+    {
+      "id": "4929150",
+      "time": "2026-06-11 07:43:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社稱，伊斯蘭革命衛隊導彈與無人機進攻行動的第一階段已執行完畢。"
+    },
+    {
+      "id": "mkt:019eb3eb-7edf-7dd8-afae-fa8a4a7adb13",
+      "time": "2026-06-11 07:43:35",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "CENTCOM says Iranian claim that it attacked a U.S. warship in the Strait of Hormuz is false."
+    },
+    {
+      "id": "4929149",
+      "time": "2026-06-11 07:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引知情人士的話回應特朗普言論：任何美國的”侵略行為”都將遭到果斷的軍事回應，而非”政治訛詐”。"
+    },
+    {
+      "id": "mkt:019eb3ea-9f39-7dd8-afae-f5a2eebb6fea",
+      "time": "2026-06-11 07:42:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Tasnim News Agency quoted sources saying every US 'aggression' will be met with a decisive military response."
+    },
+    {
+      "id": "4929148",
+      "time": "2026-06-11 07:42:09",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【Anthropic敦促對失業救濟金系統進行技術升級，以應對AI引發的裁員潮】Anthropic公司週三呼籲美國國會，在聯邦標準出臺之前不要阻止各州制定人工智慧法規，以防範“災難性的人工智慧風險”。該公司還敦促國會和各州對用於支付失業救濟金的技術進行現代化改造，以應對人工智慧可能引發的裁員潮。此前一項民意調查顯示，半數美國人擔心人工智慧的興起可能導致他們或家中的某位成員失業。該公司表示，現有的用於支付失業救濟金的技術“尚未做好充分準備應對大規模的勞動力市場衝擊”。"
+    },
+    {
+      "id": "4929147",
+      "time": "2026-06-11 07:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會：市場穩定儲備配額有效期延長至2030年後，歐盟碳排放交易體系評估預計於2026年7月進行。"
+    },
+    {
+      "id": "4929146",
+      "time": "2026-06-11 07:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會：共同立法者修訂了針對建築、道路運輸及其他行業歐盟排放交易體系的市場穩定儲備機制。"
+    },
+    {
+      "id": "4929145",
+      "time": "2026-06-11 07:38:55",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：兩點因素支撐後續出口延續強勢】中信建投指出，5月出口同比增19.4%，單月出口規模創歷史新高。出口大超預期的核心驅動力是“價漲量穩”。 在高油價推動全球通脹預期再定價的背景下，中國出口正逐步從“以量換價”向“以價補量”切換。（1）價增量穩的是AI產業鏈；（2）價增量減的是稀土、手機、成品油、肥料；（3）量價齊升的是鋁材；（4）量價跌幅有所收窄的是鞋靴和箱包等勞動密集型產品；（5）以價換量的是汽車。中信建投維持後續出口延續強勢的判斷，有兩點支撐因素：一是中國依託能源成本優勢，正在承接更多“被動替代式”轉移訂單，出口產品“價漲量穩”的趨勢有望進一步擴散，出口企業利潤率與出口額或迎來同步改善。二是後續若中美達成對等降稅，鞋帽、家居等非敏感商品將受益。"
+    },
+    {
+      "id": "4929144",
+      "time": "2026-06-11 07:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍證實其空軍基地遭導彈殘骸擊中】當地時間10日，以色列國防軍證實，在本月以色列和伊朗發生衝突時，位於以色列北部的拉馬特戴維空軍基地遭導彈殘骸擊中，造成輕微損壞，但未造成人員傷亡，也未影響整體執行。據悉，事件發生在8日夜間至9日凌晨。以軍說基地內部分裝置和後勤保障設施受到輕微損壞，基地內部一段通道可能受損，但整體執行未受影響。以軍並未說明導彈殘骸的具體來源及型號。"
+    },
+    {
+      "id": "mkt:019eb3e6-bcee-7dd8-afae-eef2cb9ae860",
+      "time": "2026-06-11 07:38:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said it was the most egregiously violated ceasefire agreement in world history."
+    },
+    {
+      "id": "mkt:019eb3e6-2841-7dd8-afae-e4fbb7f86858",
+      "time": "2026-06-11 07:37:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "CENTCOM said tonight commercial vessels continued to transit in and out of the Strait of Hormuz."
+    },
+    {
+      "id": "4929143",
+      "time": "2026-06-11 07:37:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：商業船隻今夜繼續進出霍爾木茲海峽。"
+    },
+    {
+      "id": "4929142",
+      "time": "2026-06-11 07:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）：在伊朗武裝部隊迫使一架美國戰鬥機撤退並霍爾木茲海峽再次關閉之後，特朗普再次退縮了。 特朗普對福克斯新聞說：對伊朗的轟炸很快將停止；以色列人在這次襲擊中沒有扮演任何角色。"
+    },
+    {
+      "id": "mkt:019eb3e5-0640-7dd8-afae-df344f2359f7",
+      "time": "2026-06-11 07:36:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. is currently engaging both moderate and extremist elements inside Iran."
+    },
+    {
+      "id": "mkt:019eb3e4-fdc4-7dd8-afae-d5e91643a98a",
+      "time": "2026-06-11 07:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Munitions depot explosion near Aden kills at least 11】As of local time on the 11th, a munitions depot explosion near Aden, Yemen has killed at least 11 and injured three, with casualties possibly rising. The blasts occurred between midnight and the early hours of the 10th and 11th near the Sorban military camp southeast of Aden. Sources close to the scene say the site is suspected to be a 'Giant Brigade' ammunition depot."
+    },
+    {
+      "id": "4929141",
+      "time": "2026-06-11 07:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認與特朗普接觸 】據伊朗官方媒體援引伊朗高階官員訊息報道，伊朗沒有任何官員與美國總統特朗普接觸。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "4929140",
+      "time": "2026-06-11 07:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門亞丁附近一彈藥庫爆炸已致11人死亡】截至當地時間11日，葉門臨時首都亞丁附近彈藥庫爆炸已造成至少11人死亡、3人受傷，傷亡人數還可能進一步上升。當地時間10日午夜至11日凌晨，位於葉門臨時首都亞丁東南部的索爾班軍營附近傳出連續爆炸聲。據接近現場的知情人士稱，發生爆炸的地點疑似是“巨人旅”彈藥庫。"
+    },
+    {
+      "id": "mkt:019eb3e3-f3da-7dd8-afae-ce9251c1321b",
+      "time": "2026-06-11 07:35:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS: Senior Iranian officials said Trump's 'false claims' about contacts with Iranian officials are a pretext to avoid going to war with Iran."
+    },
+    {
+      "id": "4929139",
+      "time": "2026-06-11 07:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體援引高階官員稱，特朗普關於與伊朗官員接觸的\"虛假說法\"是\"避免對伊朗開戰的幌子\"。"
+    },
+    {
+      "id": "4929138",
+      "time": "2026-06-11 07:34:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【訊息人士：白宮將再次會見國防承包商，商討加快武器生產】訊息人士稱，特朗普政府計劃最早於下週在白宮會見美國最大幾家國防承包商的高管，商討加快武器生產的問題。美國對伊朗的打擊，以及近年來向烏克蘭提供軍援，導致美國武器庫存減少。這將是白宮第二次召集主要防務企業高管商討提升武器產量。美國此前曾於3月舉行類似會議，與會者包括國防部長赫格塞思(Pete Hegseth)，以及BAE系統、洛克希德馬丁(Lockheed Martin) 、諾斯洛普格拉曼(Northrop Grumman)、RTX Corporation 、波音、 Honeywell Aerospace以及L3Harris Technologies的執行長及其他高管。"
+    },
+    {
+      "id": "4929137",
+      "time": "2026-06-11 07:34:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內最大噸位石化管廊完成海上高空吊裝】記者昨天（10日）從中國石化瞭解到，國內首次大跨距大噸位跨海石化管廊模組海上高空精準吊裝作業，日前在浙江舟山順利完成。本次吊裝的管廊單體模組重達515噸、最長尺寸43米，重新整理國內同類施工噸位紀錄，成功填補我國海上大噸位管廊施工技術空白。"
+    },
+    {
+      "id": "mkt:019eb3e2-4a9f-7dd8-afae-c2dacc52ebe4",
+      "time": "2026-06-11 07:33:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Fox News reported U.S. President Trump said if Iran refuses to sign an agreement, he would order military strikes tomorrow night."
+    },
+    {
+      "id": "mkt:019eb3e1-99dd-7dd8-afae-bf2ce4008e15",
+      "time": "2026-06-11 07:32:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media report a senior Iranian official said Trump's claim that Iranian officials contacted him was fabricated."
+    },
+    {
+      "id": "4929136",
+      "time": "2026-06-11 07:32:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方媒體援引高階官員的話，否認伊朗官員曾與特朗普接觸。"
+    },
+    {
+      "id": "4929135",
+      "time": "2026-06-11 07:31:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "兩位知情人士透露，塔吉特公司股東要求設立獨立董事會主席的提案在年度股東大會上未獲透過。"
+    },
+    {
+      "id": "4929134",
+      "time": "2026-06-11 07:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，熱帶風暴克里斯蒂娜正逼近薩爾瓦多海岸，預計週四前中美洲部分地區將持續出現強降雨。"
+    },
+    {
+      "id": "4929133",
+      "time": "2026-06-11 07:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新交所開盤下跌1345點，報62985點。"
+    },
+    {
+      "id": "mkt:019eb3df-dc52-7dd8-afae-b0a521acd87b",
+      "time": "2026-06-11 07:30:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he spoke directly with Iran; Iran demanded bombing stop】On June 10 ET, President Trump told Fox News US fighter jets were operating over Iran and he had spoken \"directly\" with Iranian officials, who demanded the bombing stop. Trump said \"the bombing will stop soon\" but did not rule out further strikes, and said Israel did not take part in the strikes."
+    },
+    {
+      "id": "4929132",
+      "time": "2026-06-11 07:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱與伊朗直接通話】美東時間6月10日晚，美國總統特朗普在接受美國福克斯新聞採訪時稱，美軍戰鬥機正在伊朗上空執行任務。他已與伊朗官員“直接通話”，“伊朗要求停止轟炸”。特朗普稱，“轟炸襲擊很快就會停止”，但不排除對伊朗發動更多襲擊。特朗普還稱，以色列沒有參與這些針對伊朗的襲擊。"
+    },
+    {
+      "id": "4929131",
+      "time": "2026-06-11 07:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【統籌調配車輛晶片算力 中國汽車軟體技術躋身全球核心標準】國際汽車開放系統架構組織昨天（10日）在上海宣佈，中國自主研發的智慧駕駛作業系統，正式成為全球智慧駕駛系統公共程式碼庫的核心基線，這也是中國汽車基礎軟體技術首次進入全球行業標準。中國打造的智慧駕駛作業系統，就像是智慧汽車的“軟體地基”，它可以統籌調配車輛晶片算力，保障各類智慧駕駛功能穩定運轉。通俗來說，今後全球車企研發智慧駕駛相關軟體，都可以用這套中國技術作為基礎參考。（央視）"
+    },
+    {
+      "id": "4929130",
+      "time": "2026-06-11 07:29:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度已過七成 夏播糧食進度過四成】農業農村部最新小麥機收進度顯示，目前，全國小麥收穫進度已過七成。而隨著麥收的有序推進，夏播也進入高峰。"
+    },
+    {
+      "id": "te:markets:558177",
+      "time": "2026-06-11 07:29:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Jumps as US Hits Iran for Second Day — Brent climbed toward $96 per barrel on Thursday, extending gains from the previous session as the US military launched strikes against Iran for the second day, raising fears that peace efforts could collapse and the conflict disrupting global markets could drag on. President Donald Trump accused Tehran of stalling negotiations over an interim peace deal, while Tehran said it would stand firm against any threat. Earlier this week, the US launched what it described as “self-defense strikes” in response to the downing of an American helicopter, with Iran retaliating by targeting US military facilities in Bahrain, Jordan, and Kuwait. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, although there were indications that limited volumes of oil were still leaving the Persian Gulf. Meanwhile, EIA data showed US crude inventories dropped by 7.2 million barrels last week, marking a seventh consecutive weekly decline."
+    },
+    {
+      "id": "te:markets:558176",
+      "time": "2026-06-11 07:27:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Jumps as US Hits Iran for Second Day — Crude oil climbed toward $93 per barrel on Thursday, extending gains from the previous session as the US military launched strikes against Iran for the second day, raising fears that peace efforts could collapse and the conflict disrupting global markets could drag on. President Donald Trump accused Tehran of stalling negotiations over an interim peace deal, while Tehran said it would stand firm against any threat. Earlier this week, the US launched what it described as “self-defense strikes” in response to the downing of an American helicopter, with Iran retaliating by targeting US military facilities in Bahrain, Jordan, and Kuwait. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, although there were indications that limited volumes of oil were still leaving the Persian Gulf. Meanwhile, EIA data showed US crude inventories dropped by 7.2 million barrels last week, marking a seventh consecutive weekly decline."
+    },
+    {
+      "id": "mkt:019eb3db-f32b-7dd8-afae-a8356bbb785a",
+      "time": "2026-06-11 07:26:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the U.S. fired 49 Tomahawk cruise missiles."
+    },
+    {
+      "id": "4929127",
+      "time": "2026-06-11 07:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普對福克斯新聞稱，美軍使用了49枚戰斧導彈。"
+    },
+    {
+      "id": "4929126",
+      "time": "2026-06-11 07:23:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，以色列並未參與此次襲擊伊朗事件。"
+    },
+    {
+      "id": "mkt:019eb3d8-fd36-7dd8-afae-a3a7b41fd0fc",
+      "time": "2026-06-11 07:23:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said Israel was not involved in this attack on Iran."
+    },
+    {
+      "id": "4929125",
+      "time": "2026-06-11 07:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI與甲骨文合作，OCI客戶可用雲額度直接呼叫OpenAI模型及Codex】OpenAI與甲骨文當地時間6月10日宣佈合作，甲骨文雲基礎設施（OCI）客戶將可在數週內透過現有甲骨文雲承諾額度（UCM積分）訪問OpenAI前沿模型及Codex，無需新增獨立採購流程。"
+    },
+    {
+      "id": "mkt:019eb3d7-3d57-7dd8-afae-9d1f445923e8",
+      "time": "2026-06-11 07:21:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Fox News reported that Trump is open to the possibility of further strikes against Iran."
+    },
+    {
+      "id": "4929124",
+      "time": "2026-06-11 07:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：仍保留對伊朗實施更多打擊的可能性。"
+    },
+    {
+      "id": "te:economy:558174",
+      "time": "2026-06-11 07:20:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "RICS House Price Balance",
+        "Importance 1"
+      ],
+      "text": "UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance remained at -35% in May 2026, unchanged from a slightly upwardly revised April reading. This came in above market expectations of -31% and still marked the weakest level since November 2023, despite emerging signs of stabilization. New buyer enquiries steadied at -34%, marking the first month since January in which demand did not deteriorate further, while the agreed sales balance was unchanged at -37%, suggesting the recent slowdown in transactions may be losing momentum rather than accelerating. Regionally, the South East and East Anglia continued to experience greater downward pressure on prices, while Northern Ireland remained a notable outperformer with prices still rising firmly. Looking ahead, the near-term house price expectations index fell to a net balance of -45% in May at the UK-wide level, down sharply from -39%, pointing to further softness over the coming months."
+    },
+    {
+      "id": "mkt:019eb3d6-935e-7dd8-afae-909b53fee8f4",
+      "time": "2026-06-11 07:20:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran has asked him to stop the bombing and that the bombing will stop soon."
+    },
+    {
+      "id": "4929123",
+      "time": "2026-06-11 07:20:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：轟炸很快就會停止。"
+    },
+    {
+      "id": "4929122",
+      "time": "2026-06-11 07:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗已經請求我停止轟炸，已與伊朗官員直接對話。"
+    },
+    {
+      "id": "mkt:019eb3d6-07ea-7dd8-afae-8f8cecbdb122",
+      "time": "2026-06-11 07:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Trump said he has held direct talks with Iranian officials."
+    },
+    {
+      "id": "4929121",
+      "time": "2026-06-11 07:20:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普接受福克斯新聞採訪表示：美國戰機正在伊朗上空執行飛行任務。"
+    },
+    {
+      "id": "mkt:019eb3d5-d9e8-7dd8-afae-81e4fcdafee2",
+      "time": "2026-06-11 07:19:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Trump says U.S. fighter jets are flying over Iran."
+    },
+    {
+      "id": "mkt:019eb3d5-815b-7dd8-afae-7d7a04438b22",
+      "time": "2026-06-11 07:19:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures extended losses to 1%; S&P 500 futures fell 0.6% after reports said U.S. military strikes on Iran are ongoing."
+    },
+    {
+      "id": "4929120",
+      "time": "2026-06-11 07:19:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報93.64美元/桶。"
+    },
+    {
+      "id": "4929119",
+      "time": "2026-06-11 07:18:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.63%，道瓊斯指數期貨跌0.46%。"
+    },
+    {
+      "id": "mkt:019eb3d4-5876-7dd8-afae-720799aa64ee",
+      "time": "2026-06-11 07:18:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fox News reported U.S. officials said Iran's South Pars gas field was not a target of strikes."
+    },
     {
       "id": "4929118",
       "time": "2026-06-11 07:17:35",
@@ -169085,545 +169847,6 @@
         "MA.O"
       ],
       "text": "【Visa, Mastercard to suspend Cuba transactions; Melia to exit 15 hotels】Cuban state media, citing the central bank, said Visa and Mastercard will suspend card transaction services in Cuba effective this weekend under President Trump’s latest sanctions. Separately, Melia Hotels International said it will withdraw from Cuba and immediately terminate operating agreements for 15 hotels; the company did not explicitly cite U.S. sanctions, attributing the decision to Cuba’s geopolitical, social, legal and economic environment."
-    },
-    {
-      "id": "4916166",
-      "time": "2026-06-04 07:52:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【AI基建催生“算力金屬”熱潮 供給端“硬約束”成為核心邏輯】隨著全球人工智慧（AI）競賽持續升溫，圍繞算力基建展開的新一輪投資浪潮正席捲全球。從海外科技巨頭持續加碼資料中心，到國內“東數西算”工程加速推進，再到AI伺服器、光模組及先進封裝需求爆發，一批原本相對小眾的金屬品種正在迎來價值重估。今年以來，被市場冠以“算力金屬”概念的銅、錫、銦、鍺、鎵等品種集體走強。其中，滬錫主力合約累計漲幅接近40%，銅價中樞穩步抬升，銦、鍺等部分稀散金屬價格更是實現翻倍上漲。6月3日，滬錫主力合約盤中觸及45萬元/噸，創下近3個月新高。相比於需求增長，市場更關注的是供給端長期存在的瓶頸。國信期貨首席分析師顧馮達認為，本輪“算力金屬”行情背後最核心的邏輯並非AI概念本身，而是供給側持續收緊帶來的資源稀缺性溢價。"
-    },
-    {
-      "id": "mkt:019e8fe6-11dc-7443-8fe6-4f5393a6b20d",
-      "time": "2026-06-04 07:51:07",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Japan's net purchases of foreign equities were -¥1.07 tln in the week to May 29, versus a prior reading revised from -¥358.7 bln to -¥367.8 bln."
-    },
-    {
-      "id": "4916165",
-      "time": "2026-06-04 07:51:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月29日當週外資淨買進日本股票 -4912億日元，前值 10804億日元。日本5月29日當週外資淨買進日本債券 12458億日元，前值 13460億日元。日本5月29日當週淨買進國外債券 -1848億日元，前值 103億日元。日本5月29日當週淨買進國外股票 -10720億日元，前值 -3587億日元。"
-    },
-    {
-      "id": "mkt:019e8fe6-1111-7443-8fe6-460e922c13df",
-      "time": "2026-06-04 07:51:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Foreign investors bought JGBs totalling JPY1,245.8bn in the week to May 29; prior week revised from JPY1,346.0bn to JPY1,350.2bn."
-    },
-    {
-      "id": "mkt:019e8fe6-110e-7443-8fe6-386c848b67d1",
-      "time": "2026-06-04 07:50:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (May.29) | actual -1072000000000B | previous -358700000000B"
-    },
-    {
-      "id": "mkt:019e8fe5-b54e-7443-8fe6-2972607dc909",
-      "time": "2026-06-04 07:50:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.29) | actual 1245800000000B | previous 1346000000000B"
-    },
-    {
-      "id": "mkt:019e8fe5-1f36-7443-8fe6-250f784a508d",
-      "time": "2026-06-04 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Foreign investors were net sellers of Japanese equities by ¥491.2 bln in the week to May 29; the prior week's net buying was revised from ¥1,080.4 bln to ¥1,079.7 bln."
-    },
-    {
-      "id": "mkt:019e8fe5-1ecf-7443-8fe6-1e6b8911f4bc",
-      "time": "2026-06-04 07:50:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's net purchases of foreign bonds were -184.8 bln yen in the week to May 29; the prior reading was revised from 10.3 bln yen to 12.9 bln yen."
-    },
-    {
-      "id": "4916164",
-      "time": "2026-06-04 07:50:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在對伊朗衝突的擔憂重燃之際 日經指數或下跌】隨著對伊朗衝突和能源價格上漲的擔憂重燃，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.6%，至67480點。美元報159.93日元，週三東京股市收盤時為159.94日元。在科威特遭到彈道導彈和無人機密集攻擊後，投資者正關注中東局勢的發展。日經指數週三上漲2.5%，達到創紀錄的68402.13點。"
-    },
-    {
-      "id": "mkt:019e8fe4-ed00-7443-8fe6-10b4105d9446",
-      "time": "2026-06-04 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.29) | actual -491200000000B | previous 1080400000000B"
-    },
-    {
-      "id": "mkt:019e8fe4-dc55-7443-8fe6-0bce6cf21213",
-      "time": "2026-06-04 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (May.29) | actual -184800000000B | previous 10300000000B"
-    },
-    {
-      "id": "4916163",
-      "time": "2026-06-04 07:49:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【量子計算公司Quantinuum美股IPO據稱獲逾20倍超額認購】據報道，霍尼韋爾旗下量子計算公司Quantinuum的IPO獲得逾20倍超額認購，預計將於當地時間6月3日晚些時候將發行價定在已上調後的區間上方。當地時間6月1日，Quantinuum在向美國證監會提交的檔案中披露，將首次公開發行2650萬股A類普通股，預計發行價將在每股53美元至55美元之間。"
-    },
-    {
-      "id": "4916162",
-      "time": "2026-06-04 07:49:23",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價下跌 此前美國稱以色列和黎巴嫩同意停火】油價連漲三日後出現回落，此前美國表示以色列和黎巴嫩同意停火，這將消除華盛頓與德黑蘭談判中的一個關鍵障礙。WTI原油價格跌至每桶95美元附近，在本週前三個交易日累計上漲近10%；而布倫特原油週三收盤價則維持在每桶98美元左右。美國國務院表示：“停火的前提條件是，真主黨完全停止開火，並將所有真主黨人員撤離利塔尼河以南地區。”"
-    },
-    {
-      "id": "4916161",
-      "time": "2026-06-04 07:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：俄烏談判陷停滯 局勢存升級風險】美國國務卿魯比奧3日說，近幾個月，俄羅斯和烏克蘭之間的談判陷入停滯，局勢存在升級風險。魯比奧當天在美國國會參議院撥款委員會一個小組委員會的聽證會上說，俄烏衝突無法透過軍事手段解決，只能透過外交途徑解決，但這一途徑迄今未取得成效。“雙方似乎都尚未準備作出達成協議所需的讓步，因此前景並不樂觀。”他說，俄羅斯具備實施遠端打擊的能力，但烏克蘭也有能力對等反擊，這意味著“局勢升級的風險真實存在，且比兩年前更為真切”。（新華社）"
-    },
-    {
-      "id": "4916160",
-      "time": "2026-06-04 07:47:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【CPU重回AI算力聚光燈下 國產廠商有望迎來雙重機遇】曾被GPU搶盡風頭的CPU，正在重回AI算力的舞臺中央。6月1日，英偉達創始人兼CEO黃仁勳在GTC大會上宣佈，旗下首款獨立資料中心CPU Vera正式進入量產，將於今年第三季度投產。5月下旬，超威半導體（AMD）已宣佈下一代EPYC資料中心CPU“Venice”進入量產。國內CPU廠商亦動作不斷，5月28日龍芯中科推出23億元定增方案，其中4.85億元投向CPU關鍵核心技術研發專案。中關村物聯網產業聯盟副秘書長袁帥接受證券時報記者採訪時表示，Agentic AI（代理式人工智慧）時代的到來，正在重新定義算力需求結構。伴隨CPU產業需求爆發，以及自主可控趨勢深化，國產CPU廠商亦有望迎來規模化替代與產業地位重估的機遇。"
-    },
-    {
-      "id": "4916159",
-      "time": "2026-06-04 07:46:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "指標10年期日本國債期貨早盤下跌0.07點。"
-    },
-    {
-      "id": "4916158",
-      "time": "2026-06-04 07:46:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌1.2%。"
-    },
-    {
-      "id": "4916157",
-      "time": "2026-06-04 07:46:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【訊息人士：摩根大通的戴蒙將向富豪客戶推介SpaceX的IPO】一位知情人士週三透露，摩根大通執行長戴蒙本週將向該行的高淨值客戶 推介SpaceX即將進行的首次公開募股（IPO），旨在推動散戶參與這場創紀錄的募股活動。戴蒙將與高管埃爾多斯（Mary Erdoes）和萊克（Marianne Lake）在摩根大通位於紐約市的總部共同主持此次活動，預計將有超過2,500名客戶出席，這將是該行首次舉辦如此大規模的活動。訊息人士稱，SpaceX 營運長肖特韋爾（Gwynne Shotwell）和首席財務官約翰森（Bret Johnsen）也將出席。SpaceX週三將IPO定價定為每股135美元，計劃透過此次IPO籌集750億美元，創下IPO融資規模的歷史新高，交易估值將達1.75萬億美元，使其立即躋身美國上市企業市值前十之列。訊息人士稱，作為參與SpaceX IPO的龐大銀行承銷團成員之一，摩根大通將在26個州的90個地點（包括部分摩根大通分行）為高淨值客戶直播此次活動。"
-    },
-    {
-      "id": "4916156",
-      "time": "2026-06-04 07:46:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4460美元/盎司，日內漲0.67%。"
-    },
-    {
-      "id": "mkt:019e8fe1-5f9b-7443-8fe6-02c7b5420810",
-      "time": "2026-06-04 07:46:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose above $4,460/oz, up 0.60% intraday."
-    },
-    {
-      "id": "te:markets:556271",
-      "time": "2026-06-04 07:46:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Pressured by Rate Hike Concerns — Silver traded near $73 an ounce on Thursday after losing over 3% in the previous session, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook."
-    },
-    {
-      "id": "4916155",
-      "time": "2026-06-04 07:46:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4490美元/盎司，日內漲0.52%。"
-    },
-    {
-      "id": "mkt:019e8fe0-f6af-7443-8fe5-f82ca5e847f6",
-      "time": "2026-06-04 07:45:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said JP Morgan CEO Dimon will pitch SpaceX's IPO to wealthy clients."
-    },
-    {
-      "id": "4916154",
-      "time": "2026-06-04 07:44:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "訊息人士稱，摩根大通戴蒙將向富裕客戶推介SpaceX上市計劃。"
-    },
-    {
-      "id": "te:markets:556270",
-      "time": "2026-06-04 07:44:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Pressured by Rate Hike Expectations — Gold traded around $4,450 an ounce on Thursday and was down almost 2% for the week, weighed down by growing expectations that central banks may need to raise interest rates to counter an energy-driven inflation shock stemming from the Middle East conflict. Hopes for a peace agreement also faded after the US and Iran exchanged strikes, with Bahrain and Kuwait caught in the crossfire during the most serious escalation since the ceasefire took effect in early April. The prolonged conflict and the near-shutdown of the crucial Strait of Hormuz have kept energy prices elevated, fueling inflation concerns and reinforcing expectations of tighter monetary policy. In the US, Cleveland Fed President Beth Hammack said the Fed could be forced to raise rates soon if inflation pressures continue to intensify. Investors are now focused on Friday’s nonfarm payrolls report for further clues on the Fed’s policy outlook."
-    },
-    {
-      "id": "4916153",
-      "time": "2026-06-04 07:43:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國SK電信：加入Anthropic的Glasswing專案。"
-    },
-    {
-      "id": "4916152",
-      "time": "2026-06-04 07:43:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4480美元/盎司，日內漲0.30%。"
-    },
-    {
-      "id": "4916151",
-      "time": "2026-06-04 07:42:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球規模最大海上換流站“海風之心”將開展海上安裝作業】歷經一千多海里海上運輸後，全球規模最大海上換流站——“海風之心”抵達廣東陽江青洲海上風電場安裝海域，今天將開展海上浮托安裝作業。“海風之心”是全球首個±500千伏/2000兆瓦柔性直流海上換流站，平面面積接近一個標準足球場，高度約等於15層樓，重達2.5萬噸。由於重量遠超國內船機吊裝能力極限，將採用國際先進的整體浮托安裝工藝進行作業"
-    },
-    {
-      "id": "4916150",
-      "time": "2026-06-04 07:40:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏總理：歐盟同意啟動首個叢集談判，烏克蘭距入盟“又近一步”】烏克蘭總理斯維裡登科(Yulia Svyrydenko)週四早些時候表示，歐盟所有成員國已同意啟動烏克蘭和摩爾多瓦入盟談判首個叢集的談判。“好訊息，”她在X平臺發文稱，“我們距離加入歐盟又近了一步：正穩步朝著目標邁進。”現任歐盟輪值主席國塞普勒斯在X平臺表示，已開始準備正式就首個談判叢集(涵蓋法治和民主標準)與兩國開啟談判。“這標誌著兩國歐洲一體化程序中的重要里程碑，並向外界傳遞了歐盟團結與決心的強烈訊號，”塞普勒斯方面表示，將致力於“完成相關討論”，以正式啟動談判。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606043759401952",
-      "time": "2026-06-04 07:40:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【業內人士預計：5月份PPI有望繼續回升】6月3日記者採訪多位業內人士，對5月份居民消費價格指數（CPI）與工業生產者出廠價格指數（PPI）走勢進行前瞻。受訪專家普遍認為，5月份季節性效應延續，CPI總體較4月份小幅回落，但同比繼續復甦；工業方面，在基數優勢疊加輸入性通脹傳導下，PPI同比有望延續回升態勢。"
-    },
-    {
-      "id": "4916149",
-      "time": "2026-06-04 07:39:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三安光電：金剛石熱沉基板已向客戶小批次出貨】三安光電(600703)在互動平臺表示，在熱沉散熱領域，公司生產的碳化矽襯底已向行業頭部客戶送樣驗證，金剛石熱沉基板已向客戶小批次出貨。"
-    },
-    {
-      "id": "4916148",
-      "time": "2026-06-04 07:38:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達入局PC領域 端側AI賽道全面開啟】6月1日，英偉達CEO黃仁勳宣佈英偉達正式進軍PC處理器市場，併發布了面向Windows PC的新款處理器系統級晶片RTX Spark，推動AI從資料中心走向個人終端。受此訊息影響，A股AI PC板塊接連上漲。截至6月3日收盤，春秋電子、雷神科技、英力股份等個股漲幅顯著。“英偉達與聯發科、Arm合作，推出CPU+GPU的方案，確實可能對Wintel（Windows+Intel）聯盟形成衝擊，但其更為重要的意義是，這意味著端側AI的解決方案將更強調算力和生態。”Omdia分析師總監何暉在接受記者採訪時表示，英偉達入局PC，是端側AI爆發的起點和風向標，AI推理時代就此全面開啟。國內產業界可對標英偉達的“組圈”模式，在應用端發力，落地更多AI推理場景應用。"
-    },
-    {
-      "id": "4916146",
-      "time": "2026-06-04 07:38:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：香港與烏茲別克互免簽證30天】香港特區行政長官李家超率領代表團抵達烏茲別克，經商討，香港特區政府與烏茲別克政府雙方同意就互免簽證安排落實細節，讓雙方旅客可免簽證逗留30天。雙方政府會隨即推進落實的具體內容，以早日實施安排。 現時，香港特區護照持有人可免簽證訪問烏茲別克10天；烏茲別克外交及公務護照持有人可免簽證訪港14 天，而烏茲別克普通護照持有人訪港須申領簽證。 李家超表示，落實兩地互免簽證安排，可促進兩地交流，帶動旅遊、留學及商貿合作發展，為雙方長遠經貿往來和合作奠定良好基礎，亦協助香港拓展中亞新興市場。"
-    },
-    {
-      "id": "4916145",
-      "time": "2026-06-04 07:37:21",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【紐西蘭聯儲與澳審慎監管局敲定跨塔斯曼大型銀行壓力測試】紐西蘭儲備銀行官網公告稱，該行確認將聯合澳大利亞審慎監管局（APRA）開展跨塔斯曼地區大型銀行聯合壓力測試。測試覆蓋紐西蘭四大本土銀行：澳新銀行紐西蘭分行、奧克蘭儲蓄銀行、紐西蘭銀行、西太平洋銀行紐西蘭分行及其它們的澳洲母行。承壓假設情景：中東爆發長期地緣衝突，霍爾木茲海峽實質封航，原油價格飆升至每桶 160 美元；全球主要經濟體經濟大幅失速，三年後全球經濟才開啟分化式緩慢復甦；紐西蘭受能源、化肥成本暴漲拖累，通脹大幅突破政策目標，官方現金利率（OCR）峰值升至 4%，國內陷入衰退：GDP 萎縮 5.7%，失業率衝高至 10.5%；市場出現大範圍信用評級下調，同時發生大型企業主體債務違約。各銀行將測算上述情景未來五年對自身資本金的衝擊。本次測試旨在核驗銀行資本抗風險能力、完善母子銀行風險協同處置機制，併為監管機構風險評估提供參考，測試結果預計於 11 月出爐。"
-    },
-    {
-      "id": "mkt:019e8fd7-c490-7443-8fe5-f6282325a729",
-      "time": "2026-06-04 07:35:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US agriculture secretary Rollins said suspected screwworm fly cases have been fully contained and do not pose a threat to the US food supply or consumer safety."
-    },
-    {
-      "id": "4916144",
-      "time": "2026-06-04 07:34:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【投資長鑫科技與宇樹科技 險資“耐心資本”布棋新質生產力】當前，長鑫科技和宇樹科技這兩家硬科技企業的上市工作正加快推進，備受市場關注。記者統計發現，多家險資機構的身影出現在兩家企業的股東名單中：和諧健康、陽光人壽等險資機構直接投資了長鑫科技，而中國太保、友邦人壽等險資機構間接投資了宇樹科技。保險資金成為支援兩家企業成長的“耐心資本”。中泰證券非銀金融首席分析師葛玉翔在接受記者採訪時表示，由於險資具有周期長、來源穩等特點，在“投小、投早、投科技”領域，險資股權投資具備一定先天優勢，可以發揮長期資金和耐心資本的作用。（上海證券報）"
-    },
-    {
-      "id": "4916143",
-      "time": "2026-06-04 07:34:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯：此次潛在的新大陸螺旋蠅新疫情已得到全面管控，不會對美國食品供應或消費者安全構成危害。"
-    },
-    {
-      "id": "4916142",
-      "time": "2026-06-04 07:33:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK集團和臺積電董事長同意深化在HBM和先進封裝領域的合作】SK海力士在網站表示，SK集團董事長Chey Tae-won週三會見了臺積電董事長魏哲家，雙方就下一代人工智慧技術的最新發展趨勢交換了意見。雙方同意在下一代HBM研發和先進封裝等領域進一步拓展合作。未來兩家公司計劃加快相關工作，強化在定製化AI記憶體市場的競爭力，以滿足全球大型科技公司客戶日益多樣化、不斷增長的需求。透過與臺積電的合作，SK海力士將尋求在合適的時間向市場提供高效能產品。"
-    },
-    {
-      "id": "te:markets:556269",
-      "time": "2026-06-04 07:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Eases as Markets Assess US-Iran Tensions — Brent crude futures fell toward $97 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels."
-    },
-    {
-      "id": "4916141",
-      "time": "2026-06-04 07:30:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【科威特遇襲後澳大利亞股市料將下跌】在伊朗與美國發生衝突並對科威特機場發動無人機襲擊之後，澳大利亞股市開盤料將下跌。週四開盤前，ASX期貨下跌近0.9%，意味著S&P/ASX 200指數將追隨美國股指的走勢。道瓊斯指數下跌1.2%，標普500指數下跌0.7%，納斯達克綜合指數下跌0.9%。在ASX開盤前，富邑葡萄酒集團表示將整合其加州業務，剝離部分酒莊，作為削減1億澳元成本和重新平衡供應舉措的一部分。"
-    },
-    {
-      "id": "mkt:019e8fd2-5d58-7443-8fe5-ef013154ee55",
-      "time": "2026-06-04 07:29:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Gold ETFs see over CNY10bn net outflows in past month】Gold has traded choppily and investor uncertainty has reduced gold ETF assets. As of June 3, 14 gold ETFs posted combined net outflows exceeding CNY10bn over the past month. The previously common \"buy-the-dip\" view is splintering amid the volatility. Market contacts expect short-term price oscillation to persist, but say the core medium-to-long-term case for holding gold remains intact."
-    },
-    {
-      "id": "te:markets:556268",
-      "time": "2026-06-04 07:29:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Eases as Markets Assess US-Iran Tensions — WTI crude futures fell toward $95 per barrel on Thursday after three consecutive sessions of gains, as investors assessed escalating tensions between the US and Iran that continue to cloud prospects for a peace agreement and the normalization of Middle Eastern energy flows. Following a US strike on an empty oil tanker bound for Iran on Tuesday, Iran launched attacks on US naval bases in Bahrain and Kuwait, as well as commercial vessels. Shipping through the Strait of Hormuz, a key route for roughly one-fifth of global oil and LNG supplies, has remained subdued since the conflict began. Still, reports suggest traffic through the waterway has picked up over the past two weeks, with some vessels operating in coordination with the US military, though volumes remain well below pre-conflict levels. Meanwhile, EIA data showed US crude inventories declined for a sixth consecutive week, approaching minimum operating levels."
-    },
-    {
-      "id": "te:economy:556267",
-      "time": "2026-06-04 07:28:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Retail Sales YoY",
-        "Importance 0"
-      ],
-      "text": "Russia Retail Sales Growth Hits 6-Month High — Retail sales in Russia rose by 6.5% year-on-year in April 2026, up from a 6.2% increase in March and marking the strongest growth since last October. Growth continued to be driven by non-food goods, whose sales jumped 9.2% annually in April, accelerating slightly from 9.0% in March. Sales of food products, beverages, and tobacco also strengthened, rising 3.6% after a 3.2% gain in the previous month. On a monthly basis, retail turnover eased 2.2% following a revised 14.9% surge in March. In the first four months of the year, cumulative retail sales climbed 4.3% from a year earlier."
-    },
-    {
-      "id": "4916140",
-      "time": "2026-06-04 07:28:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：模擬IC大廠集中開啟新一輪漲價】中信建投研報指出，模擬IC板塊正處於從“庫存週期修復”向“需求修復+價格反彈+結構升級”切換的關鍵視窗。海外龍頭的密集提價不僅為行業開啟了價格空間，也有效緩解了國內廠商此前因低價競爭帶來的盈利壓力，推動行業毛利率水平企穩回升。對於產業鏈而言，具備AI伺服器電源、高階光模組等產品佈局的國產模擬廠商將率先享受這一波“推理紅利”帶來的盈利彈性。未來幾個季度，隨著AI基建支出持續放量，掌握高效能、低延遲模擬技術的領軍企業，將在這一輪由AI定義的產業重塑中持續佔據競爭優勢。"
-    },
-    {
-      "id": "4916139",
-      "time": "2026-06-04 07:28:25",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：國產燃機出海趨勢明確，人形機器人是物理AI最好載體】中信建投研報指出，機器人是AI應用的重要方向，板塊波動聚焦優質環節。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，未來將有數十億個自主系統和機器人系統在物理世界中執行。近期機器人板塊有所調整，判斷主要系資金情緒面波動，但物理AI敘事是切實推進的產業趨勢，值得高度重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，板塊催化不斷，聚焦優質環節。"
-    },
-    {
-      "id": "4916138",
-      "time": "2026-06-04 07:27:40",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【央行購金託底 黃金坐上儲備資產“頭把交椅”】黃金超越美債，成為全球官方儲備第一大資產。日前，歐洲中央銀行最新發布的報告顯示，截至2025年年底，黃金在全球官方儲備資產中的佔比升至27%，超過美債的22%。自佈雷頓森林體系解體以來，美元資產長期佔據全球官方儲備資產的首位。業內人士認為，黃金“上位”並非偶然，其背後既有金價大漲帶來的估值效應，也有全球央行持續購金、儲備資產多元化以及市場對美元資產安全性擔憂升溫等深層因素。展望後市，央行購金仍將為金價提供底部支撐，但美元走勢、美債收益率、通脹壓力、地緣局勢風險和投資需求變化，將共同決定金價下一階段的走勢方向。（中國證券報）"
-    },
-    {
-      "id": "4916137",
-      "time": "2026-06-04 07:27:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【黃金ETF近一個月資金淨流出超百億元】近期，黃金價格持續震盪。受行情不確定性擾動，黃金ETF規模整體出現縮水，部分產品資金淨流出明顯。截至6月3日記者發稿時，14只黃金ETF近一個月資金淨流出超100億元。 此前廣受投資者認可的“金價回落、逢低加倉”觀點，在震盪行情下開始出現分歧。當前黃金是否還有配置價值？在受訪人士看來，短期金價震盪格局或將延續，但從中長期維度來看，支撐黃金配置價值的核心邏輯並未發生改變。（證券日報）"
-    },
-    {
-      "id": "4916136",
-      "time": "2026-06-04 07:26:42",
-      "tags": [
-        "資料"
-      ],
-      "text": "【業內人士預計：5月份PPI有望繼續回升】專家普遍認為，5月份季節性效應延續，CPI總體較4月份小幅回落，但同比繼續復甦；工業方面，在基數優勢疊加輸入性通脹傳導下，PPI同比有望延續回升態勢。（證券日報）"
-    },
-    {
-      "id": "mkt:019e8fcf-66b5-7443-8fe5-e3da12899078",
-      "time": "2026-06-04 07:26:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CSC Financial: Bond rally to slow; 10Y China government bond to consolidate near 1.70%】CSC Financial says May mostly traded rangebound and strengthened at month-end amid faster US–Iran de‑escalation, easing imported inflation expectations, widened monetary policy space and equity market corrections that shifted funds into bonds. It expects the pace of further bond gains to slow; near term the 10Y China government bond yield should consolidate around 1.70%, and any further drop would need fresh supporting information. Watch upcoming May economic releases—if data continue to weaken the 10Y could test the 1.65%–1.70% range."
-    },
-    {
-      "id": "4916135",
-      "time": "2026-06-04 07:25:25",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：預計後續債市走強節奏有所放緩，短期內10Y國債在1.70%一線盤整震盪】中信建投研報認為，5月總體維持盤整震盪狀態，至月末出現集中下行。月末的集中走強同美伊衝突和解程序加速、輸入性通脹預期壓力減輕、助推開啟後續貨幣政策空間有關，亦同月末權益市場調整、資金向債市轉移有關。點位上，預計後續債市走強節奏有所放緩，短期內10Y國債在1.70%一線盤整震盪，進一步下探需要增量資訊的助推。可關注後續公佈的5月經濟資料是否繼續支援債市走強，如資料繼續走弱則10Y國債有望下探1.65%-1.70%區間。"
-    },
-    {
-      "id": "4916134",
-      "time": "2026-06-04 07:25:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國眾院透過停止伊朗戰爭決議 四名共和黨議員倒戈凸顯特朗普壓力】由共和黨控制的眾議院透過停止美國與伊朗戰爭的議案，使其與美國總統唐納德·特朗普在一場不得人心的海外衝突上出現分歧，這場衝突正對美國人造成日益加劇的經濟負擔。週三215票贊成、208票反對的投票結果顯示，在距離國會選舉還有五個月之際，特朗普所屬的共和黨也開始擔憂戰爭擴散。眾議院這次表決不會終止美軍對伊朗的軍事攻擊。參議院仍必須透過該決議案，且眾議院此次援引的《1973年戰爭權力法》相關條款本身也存在法律上的爭議。共有四名共和黨議員加入所有出席的民主黨議員，支援透過該決議案：肯塔基州的Thomas Massie、密歇根州的Tom Barrett、俄亥俄州的Warren Davidson和賓夕法尼亞州的Brian Fitzpatrick。這是民主黨今年第四次推動就伊朗戰爭問題進行表決，也是他們首次獲得足夠的共和黨支援而取得勝利。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606043759399389",
-      "time": "2026-06-04 07:24:06",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【逆回購操作量為零：市場理性比價的結果】公開市場逆回購操作量在6月2日降至2億元后，昨日進一步降至零。作為一個高頻操作的基礎貨幣管理工具，逆回購操作量反映的是市場的需求，而非央行的貨幣政策取向。當市場不缺流動性，或者央行提供流動性的價格讓市場覺得“不划算”時，投標量自然就會減少。"
-    },
-    {
-      "id": "4916133",
-      "time": "2026-06-04 07:22:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商業銀行二永債發行持續升溫】6月2日，郵儲銀行發行規模為200億元的永續債；6月3日，興業銀行發行規模為300億元的二級資本債；本週內，還有兩隻、規模總計500億元的商業銀行二永債計劃發行……步入6月，二永債發行熱度延續。專家表示，二永債6月延續發行熱潮，是低利率融資視窗、政策“補血”賦能等多重因素共振的結果。在流動性寬鬆延續、市場仍保持對二永債較高需求下，二季度二永債配置價值顯現。（中證報）"
-    },
-    {
-      "id": "4916132",
-      "time": "2026-06-04 07:21:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普欲將以黎衝突和美伊談判“分開處理” 】美國總統特朗普3日在白宮對媒體表示，他希望將以色列同黎巴嫩的衝突和美國與伊朗的談判分開處理。伊朗在談判中一直主張將兩者掛鉤，要求包括黎巴嫩在內的所有戰線均實現停火。特朗普稱“這是性質截然不同的兩件事”，並說“我們有史以來第一次與黎巴嫩真主黨進行了對話，我們此前並不知道他們願意對話”。他稱，黎真主黨和以色列都已同意不再開火。特朗普說，目前美方正在觀望事態發展，但“我希望將這兩件事區分處理，我希望將它（以黎衝突）作為一件獨立的事情來處理”。"
-    },
-    {
-      "id": "4916131",
-      "time": "2026-06-04 07:19:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【新一輪國資國企改革三維度協同發力】國家發展改革委網站6月3日訊息，國家發展改革委主任鄭柵潔2日主持召開國有企業座談會，與7家國企座談交流，貫徹落實黨中央和國務院關於進一步深化國資國企改革重要部署。記者瞭解到，進一步深化國資國企改革的方案近期已下發，中央企業及多地政府部門正密集部署推進。專家認為，新一輪國資國企改革正從國資佈局重塑、科技創新加碼、監管同步升級三條主線協同發力，推動國有經濟進入高質量發展新階段。（中國證券報）"
-    },
-    {
-      "id": "4916130",
-      "time": "2026-06-04 07:18:49",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【日元對美元小幅上漲 以色列和黎巴嫩朝著停火方向邁進】4日，東京外匯市場日元兌美元匯率短暫小幅上漲至159.83日元。據美國國務院訊息，以色列和黎巴嫩已同意實施停火。"
-    },
-    {
-      "id": "mkt:019e8fc8-1458-7443-8fe5-db6346778643",
-      "time": "2026-06-04 07:18:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【US State Dept: Israel, Lebanon agree to resume direct talks】The US State Department said on June 3 that Israel and Lebanon have accepted US guidance to rapidly establish pilot zones in which the Lebanese Armed Forces (LAF) will exercise exclusive control and all non-state actors will be excluded. A ceasefire is conditional on two preconditions: Hezbollah must fully stop firing and all Hezbollah personnel must withdraw from south of the Litani River. Delegations, building on May 29 defense talks, discussed a security framework and agreed to restart the political and security track in the week of June 22 aiming for a comprehensive agreement."
     }
   ]
 }
