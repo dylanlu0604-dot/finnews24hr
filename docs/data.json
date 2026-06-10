@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-11 01:19:22",
-  "count": 18419,
+  "updated": "2026-06-11 01:23:11",
+  "count": 18420,
   "items": [
+    {
+      "id": "4928838",
+      "time": "2026-06-11 01:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic 在日本上線Claude人工智慧，用於軟體開發自動化。"
+    },
+    {
+      "id": "mkt:019eb28c-8c40-7dd8-afa9-a752a1be8ce4",
+      "time": "2026-06-11 01:20:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israeli source: NETANYAHU and TRUMP in close daily contact on Iran】Israeli sources said on the 10th local time that amid rising regional tensions Prime Minister NETANYAHU and US President TRUMP have maintained close contact on Iran. A prime minister’s office source said the two leaders speak almost daily and are \"fully coordinated\" in responding to Iran."
+    },
+    {
+      "id": "4928837",
+      "time": "2026-06-11 01:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列訊息人士稱內塔尼亞胡與特朗普保持密切溝通】當地時間10日，以色列方面訊息稱，在地區緊張局勢持續升溫之際，以色列總理內塔尼亞胡與美國總統特朗普在涉伊朗問題上保持密切溝通。一名以色列總理辦公室訊息人士稱，兩位領導人幾乎每天通話，並在應對伊朗問題上“完全協調”。（央視新聞）"
+    },
+    {
+      "id": "4928836",
+      "time": "2026-06-11 01:19:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場資訊：歐洲央行擬加息25個基點，通脹風險預示後續將進一步收緊貨幣政策。"
+    },
+    {
+      "id": "mkt:019eb28b-ecc7-7dd8-afa9-9a8bf903b738",
+      "time": "2026-06-11 01:19:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ZELENSKIY signed a decree establishing June 11 as an annual Unmanned Systems Forces Day and said Ukraine is fully developing its unmanned systems forces. He said the Ukrainian Armed Forces' unmanned drone force (UMSF), formed a year ago, has inflicted nearly $40 billion of damage on Russian targets and that Ukrainian drones can now strike Russian forces' logistical supply lines in temporarily occupied areas."
+    },
     {
       "id": "mkt:019eb288-fc38-7dd8-afa9-9491e7cd44e3",
       "time": "2026-06-11 01:16:22",
@@ -169764,46 +169813,6 @@
         "MKT News"
       ],
       "text": "【WHO: DRC 344 confirmed Ebola cases, 60 deaths; Uganda 15 cases, 1 death】On the 3rd, WHO said latest data show the Democratic Republic of Congo has reported 344 confirmed Ebola cases, including 60 deaths. Uganda has reported 15 confirmed cases and 1 death. The outbreak is caused by the Bundibugyo ebolavirus."
-    },
-    {
-      "id": "mkt:019e8e82-2885-7443-8fe0-a655162da6cb",
-      "time": "2026-06-04 01:22:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $2.062 billion from 35 counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "4915842",
-      "time": "2026-06-04 01:19:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：剛果（金）和烏干達已報告61例埃博拉死亡病例】當地時間3日，世界衛生組織表示，最新資料顯示，剛果（金）目前累計報告344例埃博拉確診病例，其中60人死亡。烏干達累計報告15例確診病例，其中1人死亡。疫情由本迪布焦型埃博拉病毒引發。"
-    },
-    {
-      "id": "te:markets:556241",
-      "time": "2026-06-04 01:19:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 5-week Low — Oat decreased to 325.25 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Oat lost 4.52%, and in the last 12 months, it decreased 15.91%."
-    },
-    {
-      "id": "mkt:019e8e7f-70c3-7443-8fe0-9c6b0e6ad361",
-      "time": "2026-06-04 01:19:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fars News, citing a member of Tehran’s negotiating team, said if a deal is reached a U.S.-Iran memorandum of understanding would be implemented via a four-stage mechanism."
     }
   ]
 }
