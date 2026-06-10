@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-11 00:51:42",
-  "count": 18399,
+  "updated": "2026-06-11 00:55:30",
+  "count": 18410,
   "items": [
+    {
+      "id": "4928814",
+      "time": "2026-06-11 00:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度高階專員：全球投資者仍對加拿大的監管流程與專案審批流程持謹慎態度。"
+    },
+    {
+      "id": "mkt:4fdd354c-b7c1-4113-8398-d3f8548ca3fa",
+      "time": "2026-06-11 00:54:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's high commissioner to Canada said global investors remain cautious about Canada's regulatory processes and project approval procedures."
+    },
+    {
+      "id": "mkt:aa95d2d6-7a64-4a73-a386-7b37253b4544",
+      "time": "2026-06-11 00:53:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian Sea Ports Authority said two vessels were attacked while transiting the Ukrainian Black Sea corridor; the damaged ships were flagged Panama and Barbados."
+    },
+    {
+      "id": "4928813",
+      "time": "2026-06-11 00:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭港務局表示，兩艘分別懸掛巴拿馬國旗和巴貝多國旗的船隻在經由烏克蘭黑海航道航行時遇襲受損。"
+    },
+    {
+      "id": "mkt:ae4313ef-4f6b-453e-995a-fa9b949ad3db",
+      "time": "2026-06-11 00:53:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's high commissioner to Canada said India's new refineries are configured to process heavy crude, making Canadian barrels a potential source. India and Natural Resources Canada are holding regular meetings to explore purchases of Canadian energy."
+    },
+    {
+      "id": "4928812",
+      "time": "2026-06-11 00:53:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌正面向拉美、非洲、中東等地區使用者，在瀏覽器Chrome中上線Gemini人工智慧功能。"
+    },
+    {
+      "id": "4928811",
+      "time": "2026-06-11 00:52:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "比爾·蓋茨向美國國會表示：與愛潑斯坦斷絕往來後，對方曾利用掌握的其婚外情資訊對我進行施壓。我得知愛潑斯坦掌握了我的私人隱私，包括我婚內出軌一事。"
+    },
+    {
+      "id": "mkt:eb179e9b-ce5e-461b-a329-a11410351e3e",
+      "time": "2026-06-11 00:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu told the people of Lebanon that Israel is not at war with the Lebanese people and that its fight is against Hezbollah."
+    },
+    {
+      "id": "mkt:575a2dc4-2580-4650-8a54-1cd08767c0d1",
+      "time": "2026-06-11 00:51:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's Ministry of Mines and Energy has launched tenders for clean-energy and energy-storage projects to secure long-term power supply."
+    },
+    {
+      "id": "mkt:db715e13-061b-41fc-bad9-849823ee377d",
+      "time": "2026-06-11 00:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's high commissioner to Canada said India is considering Canada as a potential crude oil supplier."
+    },
+    {
+      "id": "4928810",
+      "time": "2026-06-11 00:51:17",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【亞馬遜獲得花旗牽頭銀團總計175億美元貸款額度】亞馬遜公司在監管檔案中披露，已與由花旗集團牽頭的銀團簽署了一項總額175億美元的貸款協議。根據週三提交的監管檔案，貸款方同意提供這筆延遲提取定期貸款(DDTL)，額度將保留至今年9月底。亞馬遜每次動用信貸額度借款時，均需在借款之日起三年內償還。該貸款的利率將在有擔保隔夜融資利率(SOFR)的基礎上，上浮0.625至0.875個百分點，具體幅度取決於亞馬遜的信用評級。參與此次交易的其他銀行包括摩根大通、美國銀行、滙豐銀行和富國銀行。此外，還有十幾家銀行也參與了此次融資。"
+    },
     {
       "id": "4928809",
       "time": "2026-06-11 00:51:07",
@@ -25,6 +116,23 @@
         "其他"
       ],
       "text": "哥倫比亞礦業與能源部：哥倫比亞啟動清潔能源與儲能專案拍賣，以保障長期電力供應。"
+    },
+    {
+      "id": "mkt:724d27c6-b076-4e83-99c3-e7a2ebb3e30f",
+      "time": "2026-06-11 00:50:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. 10-yr Treasury auction (June 10): award yield and bid-cover ratio due in 10 minutes."
+    },
+    {
+      "id": "mkt:9e6a3bc7-0ac4-45fb-b07c-34eb17ddbad1",
+      "time": "2026-06-11 00:49:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Russia's Kuibyshev refinery has suspended refining operations since June 10 after a drone attack."
     },
     {
       "id": "4928806",
@@ -59,6 +167,23 @@
       "text": "【美國中央司令部在阿曼海灣截停違規船隻】美國中央司令部表示，6月9日晚間11時14分，又一艘船隻違反現行封鎖規定，試圖運送伊朗石油，美軍遂在阿曼海灣截停一艘油輪，這已是連續第二天採取此類行動。帛琉籍油輪“塞特貝洛”號在阿曼海灣航行途中被美國中央司令部截停。該船船員多次拒不服從美軍指令，隨後美軍戰機向其機艙發射精確彈藥。自4月13日實施封鎖以來，美軍中央司令部已截停八艘違規船隻，引導134艘合規船隻改道，並放行42艘執行人道主義援助任務的船隻。"
     },
     {
+      "id": "mkt:559c2012-d446-405b-8c41-7d940d5fc490",
+      "time": "2026-06-11 00:44:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's president said threats targeting infrastructure are not a show of strength but a sign of desperation."
+    },
+    {
+      "id": "mkt:6b6913de-fdf0-4292-9de8-8020b9ac3a85",
+      "time": "2026-06-11 00:44:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Council President Costa said the EU and South Korea are strengthening a strategic partnership and expanding cooperation on security, trade, economic and industrial policy."
+    },
+    {
       "id": "4928802",
       "time": "2026-06-11 00:44:07",
       "tags": [
@@ -81,6 +206,14 @@
         "國際"
       ],
       "text": "歐洲理事會主席科斯塔：歐盟與韓國正深化戰略伙伴關係，在安全、貿易、經濟及產業政策領域加強合作，攜手為民眾謀求福祉與安全。"
+    },
+    {
+      "id": "mkt:f260cb92-74f2-44ce-9b7b-347556e004ad",
+      "time": "2026-06-11 00:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury says on its website the United States has imposed new sanctions on Iran."
     },
     {
       "id": "4928799",
@@ -169580,51 +169713,6 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces said over the past 24 hours it continued strikes on Hezbollah and its infrastructure in southern Lebanon."
-    },
-    {
-      "id": "4915823",
-      "time": "2026-06-04 00:55:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨就黎巴嫩、以色列相關事宜發表表態： 將重創以色列， 繼續保衛黎巴嫩境內己方民眾與領土。"
-    },
-    {
-      "id": "mkt:019e8e69-1824-7443-8fe0-3eb1c54ddf5b",
-      "time": "2026-06-04 00:55:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "The IDF said soldiers in a nighttime operation in southern Lebanon discovered and searched a Hezbollah weapons storage site holding large quantities of arms, then used explosives to destroy more than 20 Hezbollah facilities in the area within minutes."
-    },
-    {
-      "id": "4915822",
-      "time": "2026-06-04 00:52:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲關注銀行信貸以及非銀機構的私募信貸違約情況。"
-    },
-    {
-      "id": "4915821",
-      "time": "2026-06-04 00:52:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌216美元，報13825美元/噸。LME期鋁收跌49美元，報3704美元/噸。LME期鋅收跌31美元，報3610美元/噸。"
-    },
-    {
-      "id": "4915820",
-      "time": "2026-06-04 00:51:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱對伊朗的海上封鎖已使125艘商船改變航向】當地時間3日，美軍中央司令部稱，美軍正在阿拉伯海執行針對伊朗的海上封鎖行動。截至當天，美軍已使125艘商業船隻改變航向，並使6艘不遵守封鎖要求的船隻失去行動能力。美軍中央司令部稱，正在阿拉伯海巡邏的“拉斐爾·佩拉爾塔”號導彈驅逐艦持續監控過往商船，以執行美國針對伊朗的海上封鎖措施。（央視新聞）"
     }
   ]
 }
