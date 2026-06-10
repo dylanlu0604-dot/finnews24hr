@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-10 23:08:13",
+  "updated": "2026-06-10 23:12:25",
   "count": 18342,
   "items": [
+    {
+      "id": "4928676",
+      "time": "2026-06-10 23:11:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點0.8%。"
+    },
+    {
+      "id": "4928675",
+      "time": "2026-06-10 23:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦因70億美元融資計劃，股價跌幅擴大至17%。"
+    },
+    {
+      "id": "mkt:019eb215-60d6-7dd8-afa7-16823f4ab7f2",
+      "time": "2026-06-10 23:10:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "FOXA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. House Democrats said the Trump administration’s probe into sports broadcasting rights is intended to help Fox secure a better deal."
+    },
+    {
+      "id": "mkt:019eb214-d7e6-7dd8-afa7-0c9aa2efc653",
+      "time": "2026-06-10 23:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nominee for Bureau of Labor Statistics commissioner Matsumoto said maintaining transparency for data users helps ensure the Bureau's statistical processes remain free from political interference."
+    },
+    {
+      "id": "4928674",
+      "time": "2026-06-10 23:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨人表示，特朗普政府對體育轉播權展開調查，目的是幫助福克斯達成更有利的交易。"
+    },
+    {
+      "id": "4928673",
+      "time": "2026-06-10 23:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：要求國會批准《外國情報監視法》的短期延期】美國總統特朗普表示：“就像此前邊境資金議題一樣，激進左翼民主黨人正借無關議題挾持國家安全事務。他們不該拿我們偉大國家的安全玩弄政治手段。我已任命威廉·普爾特擔任國家情報代理局長，其將於6月19日正式履職。我要求他立即對該機構進行必要精簡，將人員調回原所屬部門。與此同時，我正在物色一名具備國家安全領域經驗的正式國家情報總監人選。《外國情報監視法》第702條款對我方軍方以及保障美國民眾安全至關重要，當下正值世界盃賽事與美國建國250週年慶祝活動期間，該法案的作用尤為突出。若未能採取行動，這項重要法案將於本週到期。我請求國會批准短期延期《外國情報監視法》，為遴選並提名任命該機構正式負責人留出時間。”"
+    },
+    {
+      "id": "mkt:019eb214-56e0-7dd8-afa7-04f7fae4de53",
+      "time": "2026-06-10 23:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump asked Congress to submit a short-term extension of the Foreign Intelligence Surveillance Act for his signature."
+    },
+    {
+      "id": "mkt:019eb213-fe26-7dd8-afa6-fc524cd256da",
+      "time": "2026-06-10 23:08:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said it would be unwise for Cuba to seek weapons capable of striking the U.S. base at Guantanamo Bay or the U.S. homeland."
+    },
+    {
+      "id": "mkt:019eb213-8409-7dd8-afa6-f12ffa6521da",
+      "time": "2026-06-10 23:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump is seeking a nominee for permanent Director of National Intelligence with national security experience."
+    },
+    {
+      "id": "4928672",
+      "time": "2026-06-10 23:07:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：向資料使用者提高資料透明度，有助於保障統計流程不受政治干預。"
+    },
     {
       "id": "mkt:019eb212-db1f-7dd8-afa6-ee3f9e96c7be",
       "time": "2026-06-10 23:07:20",
@@ -168991,94 +169076,6 @@
         "MKT News"
       ],
       "text": "【xAI pauses hiring of \"AI tutors\" for Grok, sources say】Elon Musk's xAI has paused hiring of \"AI tutors\" used to train its Grok chatbot, people familiar with the matter said. Since early this year xAI had been recruiting accountants, finance specialists, scientists and comedians to teach Grok skills from tax knowledge to humor to broaden the bot's appeal, an approach that differs from rivals that mainly rely on large contractor pools. Sources said the pause — roles internally labeled \"AI tutors\" — is at least partly due to concerns HR could not handle the hiring volume. The company cut multiple AI tutors last autumn, shifted to hiring data‑labeling staff, and carried out another round of layoffs in early March, with additional team reductions reported."
-    },
-    {
-      "id": "4915733",
-      "time": "2026-06-03 23:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "受紐約州總檢察長反壟斷調查報道的影響，COMPASS股價跌幅擴大至16%。"
-    },
-    {
-      "id": "te:markets:556215",
-      "time": "2026-06-03 23:11:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Extends Gains after EIA Data — WTI crude oil futures extended gains to 2%, reaching $95.7 per barrel after EIA data showed a sixth consecutive weekly decline in US crude inventories. Stockpiles fell by 7.97 million barrels last week, the largest draw since February and well above expectations for a 4 million barrel decrease. Meanwhile, President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire."
-    },
-    {
-      "id": "mkt:019e8e09-d836-744e-9fd3-f40756bc0c0b",
-      "time": "2026-06-03 23:11:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said using military force to open the Strait of Hormuz is possible; US President Trump is considering multiple options."
-    },
-    {
-      "id": "4915732",
-      "time": "2026-06-03 23:10:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛彼迎：收益保障服務已覆蓋美國 45 個州。"
-    },
-    {
-      "id": "mkt:019e8e09-7631-744e-9fd3-ed4cebcdc4a0",
-      "time": "2026-06-03 23:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he will not advance plans to put Trump on U.S. banknotes without legal authority."
-    },
-    {
-      "id": "4915731",
-      "time": "2026-06-03 23:10:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本“石腦油危機”蔓延 多個行業受波及】日本約80%的石腦油供應依賴中東地區。由於霍爾木茲海峽航運遇阻，一場“石腦油危機”正在日本蔓延。一家位於東京臺東區的商店店家表示，從大概一個多月前開始，店裡的部分保鮮膜、塑膠袋等商品就開始缺貨了，主要是與日本的石腦油供應有關。石腦油是製造業和化工產業的核心基礎原料，其衍生物廣泛用於生產塑膠、合成纖維、合成橡膠、表面活性劑和印刷油墨溶劑等。（央視新聞）"
-    },
-    {
-      "id": "4915730",
-      "time": "2026-06-03 23:09:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： 若無相關法律依據，不會推進將特朗普頭像印上紙幣的相關事宜。"
-    },
-    {
-      "id": "mkt:019e8e08-0341-7ff7-b12c-6d3f0fc55eed",
-      "time": "2026-06-03 23:09:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said there is a law prohibiting the depiction of any living person on U.S. currency."
-    },
-    {
-      "id": "mkt:019e8e07-c258-744e-9fd3-df859109e9b8",
-      "time": "2026-06-03 23:08:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the leak of Trump's tax records involves criminal conduct."
-    },
-    {
-      "id": "4915729",
-      "time": "2026-06-03 23:08:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：確實有法律規定，美國貨幣上不得印有任何在世人士的肖像。"
     }
   ]
 }
