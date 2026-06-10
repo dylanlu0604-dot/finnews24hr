@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-11 02:37:21",
-  "count": 18437,
+  "updated": "2026-06-11 02:41:13",
+  "count": 18439,
   "items": [
+    {
+      "id": "4928901",
+      "time": "2026-06-11 02:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗拒絕與美國和卡達舉行三方會談。"
+    },
+    {
+      "id": "te:markets:558149",
+      "time": "2026-06-11 02:39:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall More Than 1% — US stocks extended their losses on Wednesday, with the S&P 500 falling 1.1%, the Nasdaq declining 1.3%, and the Dow Jones plunging 660 points. Investor sentiment remained under pressure as renewed tensions in the Middle East drove oil prices higher. President Trump reiterated threats of a forceful response against Iran, stating that Tehran had taken too long to negotiate a deal. Technology and semiconductor stocks also came under renewed selling pressure amid persistent concerns about elevated AI-related valuations and growing investor caution ahead of SpaceX's highly anticipated IPO on Friday. Among the notable decliners, Nvidia fell 2.9%, Broadcom dropped 3.7%, AMD lost 4.5%, and Micron Technology slid 4.1%, while Tesla retreated 3.4%. Industrial stocks were likewise hit by broad-based selling. On the economic front, the latest CPI report showed that US annual inflation accelerated to 4.2% in May. However, core inflation rose by a softer-than-expected 0.2% on a monthly basis."
+    },
+    {
+      "id": "4928900",
+      "time": "2026-06-11 02:38:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥銀行體系的資本充足率與流動性水平均高於監管最低要求。"
+    },
+    {
+      "id": "4928899",
+      "time": "2026-06-11 02:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "凱雷集團首席財務官表示，目前公司坐擁創紀錄規模的待投資資本金，正積極開展投資佈局。"
+    },
     {
       "id": "mkt:019eb2d2-a94c-7dd8-afaa-bda4cc67796c",
       "time": "2026-06-11 02:36:50",
@@ -169936,26 +169973,6 @@
         "Importance 1"
       ],
       "text": "Brazil's Trade Surplus Beats Forecasts — Brazil’s trade surplus widened to $7.82 billion in May 2026, up 10.8% from a year earlier and above market expectations of $7.65 billion. Exports rose 6.6% year-on-year to $31.90 billion, driven by stronger shipments from agriculture (9.8%) and manufacturing (9.0%), which more than offset a 1.9% decline in extractive industries. Higher exports of corn, soybeans, cotton, beef, fuel oils, and gold supported the increase, while shipments of coffee, iron ore, crude oil, sugar, and cellulose fell. Imports increased 5.3% to $24.08 billion, mainly due to a 6.3% rise in manufacturing purchases, led by fuel oils, semiconductors, and passenger vehicles. Trade with China remained strong, with exports rising 9.5% and imports surging 24.2%, while exports to the EU increased 8.8%. In contrast, exports to the US fell 14.0% and shipments to Argentina dropped 21.7%. In January-May, exports rose 8.7% and imports increased 3.2% from a year earlier."
-    },
-    {
-      "id": "4915885",
-      "time": "2026-06-04 02:40:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府：保障體面勞動條件這一議題正遭歪曲，被用來為單邊貿易保護措施尋找藉口。"
-    },
-    {
-      "id": "mkt:019e8ec6-ba18-7443-8fe1-c4490e6a31c4",
-      "time": "2026-06-04 02:37:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Brazil's government said in a statement it strongly opposes recent U.S. proposals for tariffs."
     }
   ]
 }
