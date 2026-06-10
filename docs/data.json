@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-10 14:40:14",
-  "count": 18683,
+  "updated": "2026-06-10 14:44:12",
+  "count": 18669,
   "items": [
+    {
+      "id": "4927441",
+      "time": "2026-06-10 14:41:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
+    {
+      "id": "4927440",
+      "time": "2026-06-10 14:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國對伊朗濃縮鈾要求有變：“外運”變“稀釋”？】美國媒體9日援引美國官員和多名外交官的話報道，美國與伊朗透過巴基斯坦斡旋展開的談判出現“重大進展”，其中在伊朗濃縮鈾處置問題上，美國立場有變：不再要求伊朗將其高丰度濃縮鈾庫外運至別國，而是與國際原子能機構合作進行稀釋。據《紐約時報》9日報道，美伊達成協議的可能性較先前預期大得多，雙方現階段主要圍繞美方所提四項要求進行“討價還價”，包括伊朗延長暫停濃縮鈾活動的期限；對庫存的高丰度濃縮鈾進行稀釋；拆除多處核設施；允許國際核監督機構在伊境內開展突擊檢查。該報同時援引伊朗訊息人士的說法報道，伊朗領導層認為將濃縮鈾運至別國會使伊朗更容易遭受美以打擊。（新華社）"
+    },
     {
       "id": "4927439",
       "time": "2026-06-10 14:39:21",
@@ -172315,158 +172332,6 @@
         "Brent"
       ],
       "text": "Zelenskiy said targets struck included a St. Petersburg oil terminal. The Russian oil facility is roughly 1,100 km from the Ukrainian border."
-    },
-    {
-      "id": "4914416",
-      "time": "2026-06-03 14:44:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度IT股邁向四個月來最糟糕單日表現，塔塔諮詢服務股價暴跌9%。"
-    },
-    {
-      "id": "mkt:019e8c39-9390-7ee2-b141-f4d657c6cf75",
-      "time": "2026-06-03 14:44:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SmartSens launches multiple CMOS sensors for AI glasses】At the 16th Songshan Lake China IC Innovation Summit, SmartSens said the global AI glasses market is shifting from proof-of-concept to scale and could expand nearly fourfold by 2026, with China growing notably faster than the global average. SmartSens has launched several dedicated CMOS image sensors for AI glasses and moved them into mass production. Its second-generation SC1220IOT features an Always‑On low‑power mode down to 1 mW — over 20% lower power than comparable products — a package roughly 10% smaller than the prior generation, supports high‑frame‑rate video up to 12MP@60fps, and retains high dynamic range with low noise."
-    },
-    {
-      "id": "mkt:019e8c39-8a6e-7ee2-b141-e869f7f90a22",
-      "time": "2026-06-03 14:44:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Brent crude up 2.00% intraday, trading at $97.16/bbl."
-    },
-    {
-      "id": "4914415",
-      "time": "2026-06-03 14:44:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭的遠端制裁打擊行動取得了良好成效。昨夜，俄羅斯領土上的重要設施被擊中。"
-    },
-    {
-      "id": "4914414",
-      "time": "2026-06-03 14:43:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "科威特航空宣告：伊朗襲擊科威特國際機場後，公司將暫停運營，直至另行通知。"
-    },
-    {
-      "id": "te:markets:556017",
-      "time": "2026-06-03 14:43:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Rebounds to One-Month Peak — Australia's ASX 200 rose 61 points, or 0.7%, to close at 8,786 on Wednesday, recovering from subdued trade in the prior two sessions and reaching its highest level in a month. A weaker Q1 GDP reading reinforced views that the central bank may pause further policy tightening after delivering three rate hikes so far this year amid persistent inflation pressures. Gains were led by producer manufacturing, non-energy minerals, and process industries, which more than offset weakness in consumer, healthcare, and commercial services stocks. BHP Group jumped 2.5% to a record high as copper and iron ore prices increased. Rio Tinto gained 1.9%, also reaching a fresh peak. Northern Star Resources surged 4% after Morningstar highlighted the possibility of a sale of the gold miner. Fuel retailer Ampol added over 2% after Australia's competition regulator approved its acquisition of EG Australia. Financial stocks also advanced, with the four major banks posting gains of between 1.0% and 1.7%."
-    },
-    {
-      "id": "mkt:019e8c39-2c07-7ee2-b141-e061da32e196",
-      "time": "2026-06-03 14:43:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Zelenskiy said Ukraine’s long-range punitive strikes have been effective; key facilities on Russian territory were struck overnight."
-    },
-    {
-      "id": "4914413",
-      "time": "2026-06-03 14:43:32",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【思特威：已推出多款AI眼鏡專用CMOS影象感測器】6月3日，在第十六屆松山湖中國IC創新高峰論壇上，思特威高階銷售總監宗翔介紹，全球AI眼鏡市場正迎來從“概念驗證”到“規模化落地”的關鍵轉折點，預計2026年市場規模將實現近4倍的跨越式增長，而中國市場增速顯著高於全球平均水平。針對AI眼鏡，思特威已經推出了多款專用CMOS影象感測器並實現量產，其中，第二代AI眼鏡產品SC1220IOT 低功耗常開模式Always-On低至1mW，功耗低於同級產品低20%以上，超小封裝尺寸，比上一代小了10%左右，高幀率影片支援最12MP@60fps，兼顧了高動態範圍與低噪聲表現。"
-    },
-    {
-      "id": "mkt:019e8c39-08cb-7ee2-b141-db9242ed983c",
-      "time": "2026-06-03 14:43:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Fliggy says 618 GMV for group tours, chartered tours and attraction tickets doubled YoY】As of 24:00 on June 2, Fliggy reported transaction value (GMV) for domestic group tours, chartered tours, attraction tickets and local activities during its 618 promotion more than doubled YoY. Newly launched domestic cruise packages debuted in the 618 event and have driven cumulative cruise bookings past 10,000."
-    },
-    {
-      "id": "4914412",
-      "time": "2026-06-03 14:43:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【飛豬618跟團遊、包車遊、景區門票成交額均翻倍】近日，飛豬宣佈，截至6月2日24時，參與618大促的國內跟團遊、包車遊、景區門票、當地玩樂成交額同比全部翻倍增長。首次亮相618大促的國內郵輪新品也備受歡迎，帶動郵輪累計銷量已破萬件。"
-    },
-    {
-      "id": "mkt:019e8c38-3f42-7ee2-b141-d181396f4962",
-      "time": "2026-06-03 14:42:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA Director General GROSSI said the agency will continue to support the UAE in maintaining the highest standards of nuclear safety and security."
-    },
-    {
-      "id": "mkt:019e8c38-1811-7ee2-b141-c902bf954803",
-      "time": "2026-06-03 14:42:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "CNH",
-        "Impact bullish",
-        "Brent",
-        "Copper"
-      ],
-      "text": "【Morgan Stanley: MSCI Emerging Markets EPS seen up 40% in 2026】Morgan Stanley Asia and emerging markets equity strategist Daniel Blake projects MSCI Emerging Markets index EPS to rise 40% in 2026 and slow to 9% in 2027, slightly below consensus. He says recent consensus earnings revisions in EM have been driven mainly by information technology and energy. The firm favors North Asia, Brazil, Greece, Hungary and Saudi Arabia, prefers China A‑shares, and highlights capital expenditure (capex) outperformance versus consumption."
-    },
-    {
-      "id": "4914411",
-      "time": "2026-06-03 14:42:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達130億港元。"
-    },
-    {
-      "id": "mkt:019e8c37-ff0c-7ee2-b141-c3eae0093d45",
-      "time": "2026-06-03 14:42:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "GROSSI says the UAE's peaceful nuclear energy program is built on the highest standards of safety, transparency and international cooperation."
-    },
-    {
-      "id": "4914410",
-      "time": "2026-06-03 14:41:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根士丹利：預計2026年MSCI新興市場指數每股收益將增長40%】摩根士丹利亞洲及新興市場股票策略師丹尼爾·布萊克近日在全球宏觀論壇上提出了中期展望，預計2026年MSCI新興市場指數每股收益將增長40%，2027年將降至9%，略低於市場一致預期。當前新興市場的一致預期盈利修正主要受資訊科技和能源板塊驅動。該機構表示，看好北亞、巴西、希臘、匈牙利和沙烏地阿拉伯地區，更看好中國A股市場，並強調資本支出優於消費。"
-    },
-    {
-      "id": "mkt:019e8c36-f017-7ee2-b141-bf01215abf18",
-      "time": "2026-06-03 14:41:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Bahrain's military said it shot down Iranian drones and missiles during defensive operations. Earlier reports said Bahrain intercepted three missiles and multiple drones."
     }
   ]
 }
