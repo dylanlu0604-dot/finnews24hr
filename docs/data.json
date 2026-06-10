@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-11 03:24:10",
-  "count": 18453,
+  "updated": "2026-06-11 03:27:52",
+  "count": 18449,
   "items": [
+    {
+      "id": "mkt:019eb2fe-4c14-7dd8-afab-48f08b6b24bd",
+      "time": "2026-06-11 03:24:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【40 mln barrels left under US SPR loan plan】The US Department of Energy said on Wednesday it will seek to lend up to 40 mln barrels from the Strategic Petroleum Reserve to energy firms to help lower fuel prices. The loans are part of a previously announced 172 mln-barrel SPR release; about 133 mln barrels have been lent so far. In March, after the US and Israel launched a war on Iran on Feb. 28, the US and roughly 30 IEA members agreed to jointly release about 400 mln barrels to help stabilize the oil market. US SPR stocks stood at 349.2 mln barrels, the lowest since Aug 2023. Borrowers must return an equivalent volume and pay up to a 24% premium in additional oil."
+    },
     {
       "id": "4928936",
       "time": "2026-06-11 03:23:12",
@@ -170036,48 +170049,6 @@
         "國際"
       ],
       "text": "以色列軍方表示，針對以色列北部扎裡特地區拉響的“敵方軍機入侵”防空警報為誤報。"
-    },
-    {
-      "id": "4915914",
-      "time": "2026-06-04 03:26:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市跌幅擴大，道瓊斯工業平均指數下跌1.00%。"
-    },
-    {
-      "id": "4915913",
-      "time": "2026-06-04 03:26:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "行業參考資料顯示：NFL本年度廣告銷售收入預計上漲8%。"
-    },
-    {
-      "id": "4915912",
-      "time": "2026-06-04 03:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍：伊朗關於“美方導彈攔截器致科威特機場受損”說法不實】當地時間6月3日，美軍中央司令部發布訊息稱，伊朗聲稱其並未襲擊科威特國際機場的客運航站樓，機場受損實為美方導彈攔截器所致，此說法純屬虛假。美軍中央司令部稱，伊朗利用無人機對該民用機場發動了“蓄意、經過精心策劃且毫無正當理由”的襲擊。（央視新聞）"
-    },
-    {
-      "id": "4915911",
-      "time": "2026-06-04 03:25:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "人工智慧資料中心零部件製造商XNRGY據傳考慮以100億美元整體出售企業。"
-    },
-    {
-      "id": "mkt:019e8ef1-e29b-7443-8fe2-48bfc7419d73",
-      "time": "2026-06-04 03:24:36",
-      "tags": [
-        "MKT News",
-        "UBER.N"
-      ],
-      "text": "Uber (UBER.N) has committed nearly $500m in total financing to autonomous-vehicle startup Nuro, market sources say."
     }
   ]
 }
