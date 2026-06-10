@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-11 06:07:10",
+  "updated": "2026-06-11 06:11:05",
   "count": 18354,
   "items": [
+    {
+      "id": "mkt:019eb396-253b-7dd8-afad-be03d89e841d",
+      "time": "2026-06-11 06:10:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% in early trade to $62.74/oz."
+    },
+    {
+      "id": "mkt:019eb393-a2f7-7dd8-afad-b59c683a04f7",
+      "time": "2026-06-11 06:07:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported that U.S. vessels near the Strait of Hormuz have been targeted by missile and drone strikes by the Iranian armed forces."
+    },
+    {
+      "id": "4929042",
+      "time": "2026-06-11 06:07:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗武裝部隊動用導彈和無人機，對霍爾木茲海峽附近的美軍艦船發起襲擊。"
+    },
+    {
+      "id": "4929041",
+      "time": "2026-06-11 06:06:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4080美元/盎司，日內跌1.31%。"
+    },
     {
       "id": "4929040",
       "time": "2026-06-11 06:06:00",
@@ -169129,43 +169165,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: New Zealand Dollar Depreciates by 1.01% — Top currency losers are New Zealand Dollar (-1.01%), Swedish Krona (-0.98%), South Korean Won (-0.85%), British Pound (-0.39%), Euro (-0.31%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.33%)."
-    },
-    {
-      "id": "mkt:019e8f88-0876-7443-8fe5-75f7aff6b8ce",
-      "time": "2026-06-04 06:08:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says US-Iran deal could be reached this weekend】At the White House on the 3rd, President Trump said negotiations with Iran are progressing very smoothly and an agreement could be reached and announced this weekend. Asked whether a ceasefire remained in effect after a recent Iranian strike on Kuwait, he said recent US strikes on Iran in the previous nights were quite heavy and that such actions have reasons; he called the Iranian move not a big deal and said US forces have the situation under control and snuffed it out quickly."
-    },
-    {
-      "id": "4916087",
-      "time": "2026-06-04 06:08:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達以至少4億美元收購企業級模型開發商Kumo AI。"
-    },
-    {
-      "id": "4916086",
-      "time": "2026-06-04 06:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊協議可能在本週末達成】美國總統特朗普3日在白宮對媒體說，美國同伊朗的談判進展順利，協議可能在本週末達成。特朗普說：“我聽說談判本身進行得非常順利，實際上是相當順利……如果真能達成協議，那可能會在這個週末揭曉。”（新華社）"
-    },
-    {
-      "id": "4916085",
-      "time": "2026-06-04 06:07:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Meta擬推出“Hatch”人工智慧智慧體，月費最高200美元】Meta正考慮對旗下面向普通消費者的OpenClaw智慧體工具新品設定最高每月200美元的定價。該定價目標定位激進，將對標頭部AI大廠的高階付費產品。這款暫定名為Hatch的產品將採用分級定價，高階訂閱檔定價199.99美元/月。Hatch功能覆蓋面廣泛：可按需編寫定製軟體、在使用者日曆建立日程、代為傳送郵件。使用者僅需使用日常口語提出需求，產品就能生成可正常執行的程式，和自然語言程式設計類應用操作邏輯一致。Hatch推出付費高階版本後，Meta將直面與OpenAI、Anthropic等AI企業的正面競爭，上述企業的程式碼生成與智慧體付費產品已積累海量使用者：OpenAI的ChatGPT專業版、Anthropic Cladue Max頂配套餐定價均為每月200美元。"
     }
   ]
 }
