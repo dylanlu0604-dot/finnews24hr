@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-10 12:49:49",
-  "count": 18730,
+  "updated": "2026-06-10 12:53:57",
+  "count": 18735,
   "items": [
+    {
+      "id": "mkt:019eafe0-86cd-799a-b41c-4b8a265fe511",
+      "time": "2026-06-10 12:53:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iranian foreign ministry condemns U.S. military action; says Iranian forces struck U.S. bases, assets】On the morning of the 10th local time, the Iranian foreign ministry said the U.S. used Iran’s downing of an Apache helicopter as a pretext to strike southern Iran, calling the action a serious violation of the UN Charter. Iran said its armed forces, exercising their inherent right of self-defense, launched strikes on U.S. bases and assets in the area identified as the source of the aggression. The ministry urged regional states to prevent their territory and facilities from being used by the U.S. and Israel to plan or carry out attacks against Iran."
+    },
+    {
+      "id": "4927312",
+      "time": "2026-06-10 12:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【別克至境E7 5月銷量7668臺】6月10日，據別克官方訊息，旗下首款高階新能源SUV——至境E7的5月銷量為7668臺，該車提供三款配置，置換權益價15.49萬起。"
+    },
+    {
+      "id": "4927311",
+      "time": "2026-06-10 12:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部譴責美國對伊軍事行動 】 當地時間10日上午，伊朗外交部發表宣告稱，美國以伊朗擊落一架“阿帕奇”直升機為藉口，對伊朗南部地區發動襲擊，此行為嚴重違反《聯合國憲章》，再次暴露了美國罪惡的戰爭本性。為回應美國對伊朗的軍事侵略以及對伊朗國家主權和領土完整的公然侵犯，伊朗武裝部隊行使其固有的合法自衛權，對該地區作為侵略源頭的美國基地和資產進行了嚴厲打擊。伊朗外交部強烈譴責美國對伊朗的軍事侵略行為，並再次重申地區所有國家負有法律和道義責任，防止美國和以色列利用其領土和設施策劃、組織、實施針對伊朗的侵略行動。"
+    },
+    {
+      "id": "4927310",
+      "time": "2026-06-10 12:52:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【五部門：出臺多項改革舉措 便利企業辦理不動產登記】 記者今天（10日）從自然資源部獲悉，為深化政務服務改革、最佳化營商環境，自然資源部等五部門近日聯合印發通知，出臺7方面改革舉措，幫助企業高效辦理買房買地等不動產登記手續，進一步最佳化營商環境，激發市場活力。為了加強登記服務整合，《通知》明確，將企業購置不動產涉及的轉移登記、抵押登記、申報納稅、貸款辦理等事項整合為“一件事”，推動綜合視窗升級為 “一窗辦理、整合服務”，設立企業專窗，實現登記、辦稅、領證等事項一窗通辦。精簡共性材料，實行一個表格、一套材料、一次提交，同時各地要實現企業購置不動產轉移登記“一件事”“同市同標”，做到同一事項統一申請材料、統一辦理標準，並逐步向省域範圍拓展，推動實現“同省同標”。在部門協同方面，《通知》要求，深化登記稅務聯動，實行“一窗收件、後臺流轉”，一般性業務即時辦結，複雜業務限時辦結。強化登記金融協同，各地要透過不動產登記網上“一窗辦事”平臺、部門專線等多種方式，向銀行業金融機構延伸不動產登記服務網點，進一步擴大網點覆蓋面。同時，《通知》還明確要深化“帶押過戶”改革，大力推進資訊共享，讓資料“多跑路”，加快實現“全程網辦”“跨省通辦”。"
+    },
+    {
+      "id": "mkt:019eafdf-2c36-799a-b41c-45a54c1c58c0",
+      "time": "2026-06-10 12:51:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency says El Nifio has a 100% probability of persisting through autumn."
+    },
+    {
+      "id": "4927309",
+      "time": "2026-06-10 12:51:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本製鐵：將按面值發行總額461億日元、票面利率2.014%的三年期債券。"
+    },
+    {
+      "id": "mkt:019eafde-dce8-799a-b41c-3b5cb0a30ee5",
+      "time": "2026-06-10 12:51:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency says El Nifio appears to have begun developing since spring 2026."
+    },
+    {
+      "id": "4927308",
+      "time": "2026-06-10 12:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本氣象廳：厄爾尼諾現象持續至秋季的機率為100%。"
+    },
+    {
+      "id": "te:economy:557892",
+      "time": "2026-06-10 12:50:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "Dutch Manufacturing Growth Eases — Manufacturing production in the Netherlands increased by 1.4% month-on-month in April 2026, slowing from a more than two-year high of 2.8% in the previous month. Growth slowed across several industries, including food (1.1% vs 1.4% in March), petroleum (2.3% vs 10.7%), chemicals (0.2% vs 1.9%), building materials (0.4% vs 2.2%), and machinery (3.9% vs 4.4%). In contrast, output rebounded in textiles (4.7% vs -2.1%), leather and footwear (5.3% vs -10.1%), and basic metals (0.2% vs -2.3%). On a yearly basis, manufacturing production climbed to 4.7% from 1.9% in March, marking its strongest annual gain since October 2022."
+    },
+    {
+      "id": "4927307",
+      "time": "2026-06-10 12:50:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本氣象廳：厄爾尼諾現象似乎自2026年春季起已經形成。"
+    },
+    {
+      "id": "4927306",
+      "time": "2026-06-10 12:49:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "日韓晶片股延續早盤跌勢，軟銀集團跌超10%，三星電子跌7%。"
+    },
     {
       "id": "4927305",
       "time": "2026-06-10 12:47:50",
@@ -172865,61 +172962,6 @@
         "國際"
       ],
       "text": "印尼股市指數下跌5.1%，創2021年5月以來新低。"
-    },
-    {
-      "id": "4914253",
-      "time": "2026-06-03 12:52:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數下跌4.9%，至5889點。"
-    },
-    {
-      "id": "mkt:019e8bd3-8b33-7ee2-b13f-82f20d83b668",
-      "time": "2026-06-03 12:52:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Malaysian ringgit fell to 3.981 per US dollar, its weakest since April 9, down 0.5%."
-    },
-    {
-      "id": "4914252",
-      "time": "2026-06-03 12:52:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特兌美元跌幅達0.5%，跌至1美元兌3.981林吉特，創4月9日以來最低水平。"
-    },
-    {
-      "id": "4914251",
-      "time": "2026-06-03 12:51:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【全球資金撤離韓國等亞洲熱門股市 轉而加倉日本市場】受全球AI產業行情帶動，韓國與中國臺灣地區股市成為今年亞洲表現領跑的兩大市場。但對海外資金而言，該區域最具配置價值的投資目的地另有選擇——日本。據彙總資料，海外資金今年外資累計淨賣出近700億美元韓國股票，流入中國臺灣地區股市的資金也由正轉負；與之形成鮮明對比的是，截至5月22日，日本股市吸納外資淨流入736億美元。美國銀行5月8日至14日開展的基金經理調研顯示，日本已然成為機構最青睞的亞洲股票市場。資金流向分化體現出全球投資者愈發看重日本市場的基本面優勢：市場體量龐大、行業品類齊全，疊加本土公司治理改革落地。而外資從韓國等市場撤資，也令市場再度質疑：本輪由少數晶片企業主導、靠槓桿資金快速推升的AI板塊暴漲行情能否持續。"
-    },
-    {
-      "id": "4914250",
-      "time": "2026-06-03 12:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱烏襲擊頓涅茨克地區一客運汽車 已致7死11傷】當地時間6月3日，俄方任命的頓涅茨克地區領導人普希林通報稱，當天一輛大型客運汽車遭到烏克蘭無人機襲擊，造成7人死亡，11人受傷。烏克蘭方面對此暫無回應。"
-    },
-    {
-      "id": "4914249",
-      "time": "2026-06-03 12:49:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【麥格理：在從通用AI轉型之際，物理AI料將迅速成熟】麥格理分析師在一份報告中表示，物理AI正在迅速成熟，並將很快被部署以降低整個工廠車間的成本並提高運營效率。他們表示，AI行業正在從通用AI向物理AI轉型，並透過先進的資料和測試模擬，被用於加速物理AI模型的訓練和測試。他們表示，為了支援這一轉型，主要晶片製造商正在建立強大的生態系統，釋出參考機器人設計，允許開發者使用專有晶片（如英偉達的GR00T和高通的IQ10）進行原型設計，這有助於將原型開發時間從幾個月縮短到幾天。"
     }
   ]
 }
