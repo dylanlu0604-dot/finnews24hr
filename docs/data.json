@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-11 04:51:53",
-  "count": 18354,
+  "updated": "2026-06-11 04:55:49",
+  "count": 18355,
   "items": [
+    {
+      "id": "4928986",
+      "time": "2026-06-11 04:54:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "XBOX計劃在新任CEO領導下轉型之際大幅裁員。"
+    },
+    {
+      "id": "mkt:019eb34f-9e61-7dd8-afac-8521a907251b",
+      "time": "2026-06-11 04:53:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth said the message to Cuba is to refrain from actions that threaten the American people or the US homeland, warning such moves would not end well for Cuba."
+    },
+    {
+      "id": "mkt:019eb34f-7def-7dd8-afac-788933743315",
+      "time": "2026-06-11 04:53:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Embassy in Baghdad warned that, given current developments, travel disruptions or airspace closures may occur and could happen suddenly without prior notice."
+    },
+    {
+      "id": "4928985",
+      "time": "2026-06-11 04:53:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思： 我們向古巴發出警告，切勿做出威脅美國公民或美國本土的舉動，否則後果不堪設想。"
+    },
+    {
+      "id": "mkt:019eb34e-25e0-7dd8-afac-7004a3284832",
+      "time": "2026-06-11 04:51:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS cited Iranian military sources saying that last night Iran demonstrated to the US that any new provocative action will be met with immediate retaliation and that it will not ignore any aggression."
+    },
     {
       "id": "te:markets:558158",
       "time": "2026-06-11 04:50:48",
@@ -169091,47 +169135,6 @@
         "Precious Metals"
       ],
       "text": "Spot palladium fell nearly 5% intraday to $1,302/oz."
-    },
-    {
-      "id": "mkt:019e8f44-32b4-7443-8fe4-93d1dd15cf26",
-      "time": "2026-06-04 04:54:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX sets IPO price at $135, implied valuation $1.77 trillion】SpaceX filed with the SEC on Wednesday saying it has fixed an IPO price at $135 per share ahead of a formal roadshow, matching earlier reports. The company plans to issue 555.6 million shares to raise about $75.0 bln. The fixed-price step departs from the usual practice of publishing a price range to test demand. At $135 the implied valuation is $1.77 tln, which would make SpaceX the seventh-largest U.S.-listed company by market cap and larger than Tesla’s roughly $1.6 tln valuation. SpaceX plans to list on Nasdaq on June 12."
-    },
-    {
-      "id": "mkt:019e8f43-6ef3-7443-8fe4-8a7af1837900",
-      "time": "2026-06-04 04:53:41",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "LOGAN: Current monetary policy is neutral to even slightly accommodative; there is a need to maintain a mildly restrictive policy stance."
-    },
-    {
-      "id": "4916019",
-      "time": "2026-06-04 04:52:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣自3月30日以來首次跌破65000美元。"
-    },
-    {
-      "id": "4916018",
-      "time": "2026-06-04 04:51:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國晶片行業組織敦促美國增加儲存晶片供應，以緩解AI造成的供應緊張。"
     }
   ]
 }
