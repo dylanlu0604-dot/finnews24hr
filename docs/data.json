@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-11 04:47:57",
-  "count": 18349,
+  "updated": "2026-06-11 04:51:53",
+  "count": 18354,
   "items": [
+    {
+      "id": "te:markets:558158",
+      "time": "2026-06-11 04:50:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits Three-Week Low — The S&P/TSX Composite Index shed 0.8% to close at 34,151, a three-week low, reflecting a broader risk-off tone as tensions in the Middle East escalated. US President Donald Trump vowed to strike Iran forcefully if a peace deal is not reached, raising the risk of further hostilities after some of the most significant clashes in two months. Meanwhile, the Bank of Canada held interest rates steady as expected, citing mixed domestic economic signals, though markets continue to price in a 25bps rate hike by year-end. Financial stocks were broadly weaker, with Brookfield slipping 1.9%. Mining shares declined as gold prices eased, with Agnico Eagle down 4.7%, Barrick losing 5%, and WPM shedding 4.4%. Shopify fell 2.1%, tracking global losses in AI-related stocks. On the upside, Apotex closed 12.5% above its C$24 IPO price. Energy shares gained on higher oil prices, with Cenovus up 2.7% and Canadian Natural adding 1.9%."
+    },
+    {
+      "id": "4928984",
+      "time": "2026-06-11 04:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：古巴政權正承受巨大壓力。"
+    },
+    {
+      "id": "mkt:019eb34c-ed7a-7dd8-afac-697580433510",
+      "time": "2026-06-11 04:50:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said a negotiating team led by President Trump, Vance, Kushner, Witkoff and Rubio is ready to secure a major deal favorable to Iran."
+    },
+    {
+      "id": "mkt:019eb34c-e9f6-7dd8-afac-61e14505bbb5",
+      "time": "2026-06-11 04:50:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth says the Cuban regime faces significant pressure."
+    },
+    {
+      "id": "4928983",
+      "time": "2026-06-11 04:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思： 我們將按照我方節奏予以強力打擊。如果談判需要炸彈，我們就會用炸彈來談判。"
+    },
+    {
+      "id": "mkt:019eb34c-06fe-7dd8-afac-587b7e608c11",
+      "time": "2026-06-11 04:49:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Embassy in Baghdad urged U.S. citizens in Iraq to remain vigilant due to recent regional developments."
+    },
+    {
+      "id": "4928982",
+      "time": "2026-06-11 04:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐巴格達大使館因近期地區局勢變化，要求在伊美國公民保持警惕。"
+    },
+    {
+      "id": "4928981",
+      "time": "2026-06-11 04:48:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際海事組織譴責美軍襲擊油輪致三名海員失蹤 】國際海事組織秘書長多明格斯10日強烈譴責美軍在霍爾木茲海峽附近對油輪發起襲擊。該事件導致一艘油輪起火，三名海員失蹤。國際海事組織當天發表宣告說，一艘懸掛帛琉國旗的油輪在阿曼灣遭到彈射物襲擊後發生火災。宣告說，多明格斯對事件表示“深切關切並予以強烈譴責”，強調任何危及海員生命和國際航運安全的行為“完全不可接受”。（新華社）"
+    },
+    {
+      "id": "mkt:019eb34b-71df-7dd8-afac-534f54f39ca0",
+      "time": "2026-06-11 04:48:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said if negotiations require bombs, the U.S. will use bombs to negotiate."
+    },
+    {
+      "id": "mkt:019eb34a-a7a4-7dd8-afac-4d12ef7c9528",
+      "time": "2026-06-11 04:47:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Tasnim News quoted Iranian military sources saying Iran would target new U.S. interests if the United States takes action."
+    },
+    {
+      "id": "4928980",
+      "time": "2026-06-11 04:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引軍方訊息：若美方採取行動，伊朗將打擊美國新的相關目標。"
+    },
     {
       "id": "mkt:019eb34a-1af8-7dd8-afac-430e3b0bc9eb",
       "time": "2026-06-11 04:47:18",
@@ -169027,71 +169132,6 @@
         "國際"
       ],
       "text": "美國晶片行業組織敦促美國增加儲存晶片供應，以緩解AI造成的供應緊張。"
-    },
-    {
-      "id": "mkt:019e8f41-7c17-7443-8fe4-815aa9cf93ed",
-      "time": "2026-06-04 04:51:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Fed's Logan says loan demand is strong."
-    },
-    {
-      "id": "4916017",
-      "time": "2026-06-04 04:51:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX定於6月11日確定IPO發行價，6月12日掛牌交易。"
-    },
-    {
-      "id": "4916016",
-      "time": "2026-06-04 04:51:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：當前貨幣政策處於中性或偏寬鬆區間。"
-    },
-    {
-      "id": "mkt:019e8f41-220c-7443-8fe4-7a60643cbc3d",
-      "time": "2026-06-04 04:51:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed's LOGAN: inflation carries upside risks; labor market remains stable; economic growth steady; AI provides an additional boost."
-    },
-    {
-      "id": "te:markets:556258",
-      "time": "2026-06-04 04:50:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Hit by Tariff Concerns and US-IranTensions — The Ibovespa fell 2.2% to close at 170,330 on Wednesday as investors assessed escalating trade tensions with the US, fading hopes for a US-Iran peace deal, and weak domestic economic data. President Luiz Inácio Lula da Silva convened a cabinet meeting after Washington proposed additional tariffs on imports from 60 economies, including Brazil. Meanwhile, oil prices rose as renewed hostilities in the Persian Gulf increased geopolitical uncertainty. Domestically, Brazil's services sector nearly stagnated in May, with firms citing competitive pressures, financial constraints, and weak demand. Financial stocks led losses, with Bradesco and Itaú down 2%, while B3 tumbled 4.7%. Vale retreated 3.8% amid lower iron ore prices. Healthcare and utility shares also underperformed, with Rede D'Or falling 3.3% and Auren shedding 3.1%."
-    },
-    {
-      "id": "4916015",
-      "time": "2026-06-04 04:49:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【貿易資料存在差額，特朗普簽署行政令加碼海關稽查】美國總統特朗普簽署一項行政命令，從嚴落實海關執法，這是其推進貿易保護政策的最新舉措。白宮釋出宣告稱，特朗普於週三簽署該政令，要求海關人員依託新技術，嚴防違禁品與非法貨品入境美國，同時精準登記所有入境商品。白宮行政秘書威爾·沙夫表示，此項政令旨在督促備案進口商如實申報進口貨品明細。特朗普政府計劃重拳整治所謂關稅瞞報行為，杜絕進口貨物偷逃關稅。"
     }
   ]
 }
