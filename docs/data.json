@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-10 11:16:42",
-  "count": 18732,
+  "updated": "2026-06-10 11:20:24",
+  "count": 18739,
   "items": [
+    {
+      "id": "mkt:019eaf8a-695a-7444-ba07-20691c66217c",
+      "time": "2026-06-10 11:19:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【WeChat HarmonyOS beta user cap raised】Tencent PR director Zhang Jun said previously recruited users had hit Huawei AppGallery's per-app test-user cap for the HarmonyOS version of WeChat. After Tencent raised the request with Huawei, the test-user limit was recently increased, enabling more users to join the beta and provide feedback."
+    },
+    {
+      "id": "4927199",
+      "time": "2026-06-10 11:19:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微信鴻蒙版內測使用者上限提升】微信鴻蒙版內測使用者上限提升。騰訊公司公關總監張軍表示，“之前我們招募的使用者，已經達到鴻蒙應用商店針對單一軟體的測試使用者的上限了。導致很多同學無法直接反饋問題和意見我們跟華為的同學反饋了這個需求，最近測試使用者上限終於提升了，感謝鴻蒙應用商店的朋友們。歡迎更多的朋友加入測試。”"
+    },
+    {
+      "id": "te:markets:557870",
+      "time": "2026-06-10 11:18:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Hold Steady — US heating oil prices held steady around $3.55 per gallon after falling in the prior session, as tensions between the US and Iran have flared again. US Central Command said that it conducted \"self-defense strikes\" in Tehran at President Donald Trump's direction in response to the downing of a US helicopter that was patrolling in the Strait of Hormuz. The fresh strikes risk undermining an already fragile ceasefire in the region and raised doubts over efforts to secure a more lasting peace agreement that could reopen the strait. The critical waterway remained largely closed under a dual blockade from both sides, sharply limiting exports of distillate products from the region. On the supply side, US distillate inventories, including diesel and heating oil, rose by 1.502 million barrels in the final week of May."
+    },
+    {
+      "id": "te:economy:557869",
+      "time": "2026-06-10 11:18:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10-Year Yield Edges Higher — Australia’s 10-year government bond yield edged higher around 4.9%, after falling from a two-week high, as investors weighed policy signals ahead of the RBA meeting next week, while renewed Middle East tensions stoked inflation concerns. The conflict intensified after the US launched fresh strikes on Iran, with President Trump accusing Tehran of downing a helicopter in the Strait of Hormuz, casting doubt on an already fragile ceasefire. The escalation drove energy prices higher, fueling inflation concerns and increasing the risk of further central bank rate hikes. In Australia, attention will be on the Reserve Bank's upcoming policy decision next week, where rates are widely expected to remain unchanged. Governor Bullock reiterated last week that the RBA remains firmly focused on bringing inflation down, following three rate hikes earlier this year. Meanwhile, economists have scaled back expectations for an August move and now see the cash rate peaking at 4.35% at year-end."
+    },
+    {
+      "id": "te:markets:557868",
+      "time": "2026-06-10 11:18:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Extends Slide — Platinum futures fell further below $1,700 an ounce, hitting their lowest level since late November 2025 as precious metals broadly weakened amid renewed Middle East tensions. The US launched fresh strikes against Iran following the downing of an American helicopter, pushing oil prices higher and stoking inflation concerns. The escalation has raised doubts over a fragile ceasefire and broader peace prospects, while the near-closure of the Strait of Hormuz persists. Higher energy costs have intensified inflation fears and the risk of further central bank tightening, weighing on non-yielding assets. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while automotive demand is supported by hybrid vehicle growth and stricter emissions standards."
+    },
+    {
+      "id": "4927198",
+      "time": "2026-06-10 11:18:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰維儲存：與某儲存原廠簽訂的百億級採購合同鎖住的是“固定價格”】記者以投資者身份致電佰維儲存瞭解到，該公司昨晚公告中所說的“鎖價鎖量”鎖住的是固定價格，不受市場價格波動影響。而記者多方採訪瞭解到，下游廠商與儲存原廠簽訂的長期供應協議（LTA）常會設定產品售價的範圍區間，隨著市場變化小幅波動，佰維儲存此次公告的協議內容與市場常見的LTA存在差異。(藍鯨新聞)"
+    },
+    {
+      "id": "4927197",
+      "time": "2026-06-10 11:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中偉新材在海南投資成立物貿公司】企查查APP顯示，近日，海南中偉偉創物貿有限公司成立，法定代表人為宋劍鋒，註冊資本為1000萬元，經營範圍包含：電池銷售；電子產品銷售；金屬材料銷售；金屬礦石銷售；高效能有色金屬及合金材料銷售等。企查查股權穿透顯示，該公司由中偉新材全資持股。"
+    },
+    {
+      "id": "4927196",
+      "time": "2026-06-10 11:17:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "氧化鋁連續主力合約日內漲3%，現報2891.00元。"
+    },
+    {
+      "id": "mkt:019eaf88-8f2f-7444-ba07-1994cf59f9f2",
+      "time": "2026-06-10 11:17:02",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Five agencies issue notice to deepen transfer-with-mortgage reform, cut corporate bridge funding costs】The Ministry of Natural Resources, together with the Ministry of Public Security, State Taxation Administration, SAMR and the National Financial Regulatory Administration, jointly issued a notice to streamline registration for corporate real estate acquisitions, deepen transfer-with-mortgage reforms and reduce firms’ bridge financing costs. The notice calls for flexible, location‑specific models, including combining transfer and mortgage registration to enable seamless rollover of new loans to repay old loans; promoting cross‑bank implementation of transfer-with-mortgage procedures; and encouraging advance notice (pre‑registration) to prevent gaps in mortgage rights. It instructs protection of legal rights for buyers, sellers and incumbent and incoming lenders and emphasizes safeguarding financial stability."
+    },
+    {
+      "id": "4927195",
+      "time": "2026-06-10 11:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【五部門發文：深化“帶押過戶”改革，降低企業“過橋”資金成本】近日，自然資源部會同公安部、國家稅務總局、國家市場監督管理總局、國家金融監督管理總局聯合印發《關於做好企業購置不動產轉移登記“高效辦成一件事”的通知》（以下簡稱《通知》）。《通知》聚焦企業購置不動產轉移登記全流程，深化“帶押過戶”改革，降低企業“過橋”資金成本。《通知》指出，要因地制宜靈活採取多種模式，透過合併辦理轉移登記與抵押登記，實現借新貸與還舊貸無縫銜接。推動跨銀行業金融機構“帶押過戶”。鼓勵地方引入預告登記，防止抵押權懸空風險，維護買賣企業雙方、新舊銀行等各方當事人合法權益，保障金融安全。"
+    },
     {
       "id": "mkt:019eaf87-a21c-7444-ba07-173c39569814",
       "time": "2026-06-10 11:16:02",
@@ -172956,34 +173053,6 @@
         "公司"
       ],
       "text": "【哥倫比亞選舉機構回應佩特羅質疑 否認總統選舉程式存在異常】當地時間6月2日，哥倫比亞國家民事登記處釋出公告，回應總統佩特羅針對總統選舉提出的有關選民名冊、投票資料和計票系統的質疑。登記處表示，2026年總統選舉最終選民名冊於4月30日正式確定，共有4142萬餘名選民具備投票資格，不存在選民名冊提前關閉的問題。針對部分投票桌出現較高投票人數的情況，登記處稱，不同投票站設定標準存在差異，相關資料屬於正常範圍。對於計票系統遭修改的質疑，登記處予以否認，稱相關時間記錄僅反映資料向各政黨審計人員開放的時間，並非軟體被改動的證據。"
-    },
-    {
-      "id": "mkt:019e8b7c-401f-7ee2-b13e-16d956f650f9",
-      "time": "2026-06-03 11:17:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Two embodied‑intelligence startups say cumulative financing tops 1 bln yuan】Tethered AI-robotics firm Xingchen Intelligent and embodied‑brain service provider Xingyuan Zhi each disclosed financing that brings their cumulative funding above 1 billion yuan. Xingchen said it closed a Series B financing round with investors including Liangxi Sci‑Tech Industry Phase II parent fund (managed by Bohua Capital), Yangzhou Longtou Xinli, Zhongbo Juli and other state‑backed and leading financial investors, alongside industrial backers ThunderSoft and Kede Education; Huaxing Capital acted as exclusive financial adviser. Xingyuan Zhi, founded about 10 months ago, reported participation from leading financial investors, state capital and industry funds including Songhe Capital, Chuangdongfang, HuaKong Fund, CRRC Capital, Beigong Investment, Guojun Innovation Investment and Jiangxi Financial Holding, plus industrial investors AETek, Hengxing Group and Qi’an Investment; incumbent investor Yuansheng Venture Capital also increased its stake."
-    },
-    {
-      "id": "4914142",
-      "time": "2026-06-03 11:16:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華東醫藥在北京成立新藥研發中心公司】企查查APP顯示，近日，華東醫藥新藥研發中心（北京）有限公司成立，法定代表人為呂梁，註冊資本為5000萬元，經營範圍包含：細胞技術研發和應用；人體幹細胞技術開發和應用；醫學研究和試驗發展；新材料技術研發；藥品批發等。企查查股權穿透顯示，該公司由華東醫藥間接全資持股。"
-    },
-    {
-      "id": "mkt:019e8b7b-d30a-7ee2-b13e-0dbb61d00c65",
-      "time": "2026-06-03 11:16:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Documents from Malaysia's national oil company show it set the May official selling price for Malaysian crude at a premium of $126.80 per barrel."
     }
   ]
 }
