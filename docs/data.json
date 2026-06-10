@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-10 12:46:02",
-  "count": 18732,
+  "updated": "2026-06-10 12:49:49",
+  "count": 18730,
   "items": [
+    {
+      "id": "4927305",
+      "time": "2026-06-10 12:47:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數進一步下跌，最新跌6.5%；SK海力士股價下跌9%。"
+    },
+    {
+      "id": "mkt:019eafdb-9f37-799a-b41c-30c825da1509",
+      "time": "2026-06-10 12:47:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "SoftBank Group shares fell 10%."
+    },
+    {
+      "id": "mkt:019eafda-720f-799a-b41c-2b95bde99ad5",
+      "time": "2026-06-10 12:46:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Kazakhstan's energy minister says maintenance at the Kashagan oilfield in 2027 will last 35-40 days."
+    },
+    {
+      "id": "4927304",
+      "time": "2026-06-10 12:46:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【火山方舟版權商業化平臺上線，周星馳經典影視IP入駐】6月10日，火山方舟版權商業化平臺正式上線。同期，火山引擎與周星馳旗下比高集團達成版權合作，周星馳經典影視IP首批入駐平臺。透過與周星馳旗下比高集團合作，火山引擎已正式獲得《喜劇之王》《食神》《長江七號》三部影片在AI影片創作場景下的版權使用許可權，並依託Seedance 2.0技術能力，打造出影片經典橋段AI創作模板。"
+    },
+    {
+      "id": "mkt:019eafd9-7dab-799a-b41c-23cff096aa14",
+      "time": "2026-06-10 12:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai business group said government stimulus measures will boost Thailand's economy."
+    },
     {
       "id": "4927303",
       "time": "2026-06-10 12:44:22",
@@ -172873,72 +172920,6 @@
         "其他"
       ],
       "text": "【麥格理：在從通用AI轉型之際，物理AI料將迅速成熟】麥格理分析師在一份報告中表示，物理AI正在迅速成熟，並將很快被部署以降低整個工廠車間的成本並提高運營效率。他們表示，AI行業正在從通用AI向物理AI轉型，並透過先進的資料和測試模擬，被用於加速物理AI模型的訓練和測試。他們表示，為了支援這一轉型，主要晶片製造商正在建立強大的生態系統，釋出參考機器人設計，允許開發者使用專有晶片（如英偉達的GR00T和高通的IQ10）進行原型設計，這有助於將原型開發時間從幾個月縮短到幾天。"
-    },
-    {
-      "id": "4914248",
-      "time": "2026-06-03 12:49:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）將於2026年6月3日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "mkt:019e8bcf-b5d6-7ee2-b13f-7b1839bcfa03",
-      "time": "2026-06-03 12:48:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Shanghai Stock Exchange: INVESCO Great Wall Global Semiconductor Chip Industry Equity Securities Investment Fund (QDII-LOF) temporarily suspended】As of midday close June 3, 2026 the fund's latest secondary-market trade price was 4.546 yuan; NAV as of June 1, 2026 was 3.2116 yuan. The exchange warned of secondary-market premium risk. Trading will be suspended from the start of the afternoon session on June 3, 2026 through that day's close; redemption services will continue during the suspension."
-    },
-    {
-      "id": "4914247",
-      "time": "2026-06-03 12:47:47",
-      "tags": [
-        "觀點"
-      ],
-      "text": "大和資本市場將鎧俠控股目標股價從5萬日元上調至12.3萬日元。"
-    },
-    {
-      "id": "te:markets:555981",
-      "time": "2026-06-03 12:47:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Zinc Climbs to Near 4-Year High — Zinc futures rose to $3,630 per tonne, the highest in nearly four years, as supply conditions tightened amid recent disruptions. Glencore’s Kazzinc facility in Kazakhstan has been operating at reduced capacity following a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it has recently announced a gradual resumption of production. These disruptions have heightened concerns about refined zinc availability, especially given already low inventory levels, with LME zinc stocks at 111,250 tonnes, equivalent to less than three days of global consumption. Mine closures and project delays have also added to supply-side strain. However, the supply outlook is expected to gradually improve later in the year, with the anticipated restart of Boliden’s Garpenberg mine in the second quarter, as well as Japan’s Mitsui Mining and Smelting plans to raise output by 3.2% in the first half of the 2026/27 financial year."
-    },
-    {
-      "id": "4914246",
-      "time": "2026-06-03 12:46:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【晶科能源錢晶：元件價格變化的影響正逐漸減少】SNEC 2026期間，晶科能源副總裁錢晶在接受媒體採訪時表示，今年公司儲能訂單已籤4.76GWh ，高潛訂單為5.3GWh，儲備訂單超20GWh。對於今年元件價格的預判，其認為，目前來看降價空間較小，但“元件價格在整個系統中的佔比愈發減少，相關價格變化的影響隨之逐漸減少。海外客戶，尤其是歐美客戶等，也願意為高功率產品議價”。此外，在其看來，現階段美國AIDC資料中心配套光儲滲透率不足10%，AIDC有望成為美國儲能新增裝機第一大應用場景。"
-    },
-    {
-      "id": "te:markets:555980",
-      "time": "2026-06-03 12:46:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Under Strain from Narrowing Trade Surplus, Inflation Risks — The Indonesian rupiah slipped toward IDR 17,930 per U.S. dollar on Wednesday, extending prior weakness and moving closer to the 18,000 mark as a firm greenback and heightened Middle East tensions boosted demand for haven assets. Meanwhile, domestic fundamentals offered little cushion, with April's trade surplus narrowing to its lowest since 2020, reducing support from export inflows. Market caution persisted despite government measures to bolster dollar liquidity via a new state-owned commodity trading firm and tighter retention rules for exporters. Reports of local banks quoting above 18,000 underscored ongoing pressure. Meanwhile, annual inflation accelerated to 3.08% in May from 2.42% in April, driven by food and transport costs. Risks remain from global energy prices and El Niño-related disruptions. Analysts expect Bank Indonesia to keep balancing rupiah stability against growth worries after its May 50bp rate hike, with imported inflation risks still significant."
-    },
-    {
-      "id": "4914245",
-      "time": "2026-06-03 12:46:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【領先股份在深圳成立先進創新材料公司】企查查APP顯示，近日，先進創新（深圳）材料有限公司成立，經營範圍包含：新材料技術研發；電子專用材料研發；電子專用材料製造；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由領先股份間接全資持股。"
     }
   ]
 }
