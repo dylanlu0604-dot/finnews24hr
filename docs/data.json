@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-10 21:41:40",
-  "count": 18509,
+  "updated": "2026-06-10 21:45:35",
+  "count": 18496,
   "items": [
+    {
+      "id": "mkt:019eb1c7-9a68-7dd8-afa2-df6c77e6d6af",
+      "time": "2026-06-10 21:45:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【BOC holds policy rate at 2.25% as expected】BOC left its policy rate unchanged at 2.25% for a fifth consecutive meeting, in line with market expectations."
+    },
+    {
+      "id": "mkt:019eb1c7-7a14-7dd8-afa2-d2673cb0b4e7",
+      "time": "2026-06-10 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Bank of Canada Interest Rate Decision (Jun.10) | actual 2.25% | consensus 2.25% | previous 2.25%"
+    },
+    {
+      "id": "4928522",
+      "time": "2026-06-10 21:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中創新航簽約日本220MWh儲能專案】據中創新航訊息，近日，中創新航與日本GRF株式會社正式簽署220MWh儲能系統採購協議，雙方強強聯合，深耕日本高階儲能市場，拓展全球綠電儲能版圖。"
+    },
+    {
+      "id": "4928521",
+      "time": "2026-06-10 21:44:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，海天網路漲47.77%，億航漲9.58%，億咖通科技漲7.66%，再鼎醫藥漲6.19%，360數科漲5.14%。"
+    },
+    {
+      "id": "4928520",
+      "time": "2026-06-10 21:44:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲股市抹去跌幅，斯托克歐洲600指數上漲0.2%。"
+    },
+    {
+      "id": "4928519",
+      "time": "2026-06-10 21:44:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "SALLIE MAE 的降幅擴大至 6.5%，此前管理層在會議上發表了講話。"
+    },
+    {
+      "id": "4928518",
+      "time": "2026-06-10 21:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國家杜馬譴責美國對古巴實施侵略性政策】俄羅斯國家杜馬（議會下院）10日發表宣告譴責說，圍繞古巴的緊張局勢急劇升級，這源於美國對古巴施加“前所未有、毫無道理、不符合國際法準則”的壓力。據俄新社報道，俄國家杜馬10日在全體會議上透過一份致聯合國、國際議會組織和世界各國議會的宣告，旨在批評美國對古巴實施的日益加劇的侵略性政策。宣告說，美國當下對古巴實施的經濟、金融封鎖和能源禁運是對主權國家內政的公然干涉，嚴重違背《聯合國憲章》原則。美方妄圖透過經濟、軍事訛詐逼迫古巴領導層作出無理讓步，伺機推動古巴政權更迭，最終實現對古巴的全面掌控。宣告說，俄方要求立即停止對古巴的所有政治與經濟施壓，終止美國借訛詐、威脅開展政治交易的新殖民主義行徑。宣告呼籲各方譴責美方相關做法，敦促美方立即解除對古巴的貿易、經濟、金融及能源封鎖。（新華社）"
+    },
+    {
+      "id": "te:markets:558087",
+      "time": "2026-06-10 21:43:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Holds Near Two-Month Low — The Brazilian real traded near 5.19 per USD in June, remaining close to its weakest level in two months as broad dollar strength prevailed amid heightened tensions in the Middle East. Concerns intensified after a US helicopter was shot down near the Strait of Hormuz, prompting retaliatory US strikes and boosting demand for safe-haven assets. Meanwhile, elevated US inflation and a tight labor market reinforced expectations of a hawkish Federal Reserve. In Brazil, investors also monitored a poll showing President Lula widening his lead over Senator Flávio Bolsonaro. Economic data remained resilient, with GDP expanding 1.1% in the first quarter, above expectations, while annual inflation accelerated to 4.39% in April. Market pricing now suggests a pause in the central bank's easing cycle at next week's meeting, with investors increasingly betting that the next move in interest rates will be upward."
+    },
+    {
+      "id": "4928517",
+      "time": "2026-06-10 21:43:43",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會（CFTC）擬出臺預測市場規則，打擊戰爭賭局。"
+    },
+    {
+      "id": "4928516",
+      "time": "2026-06-10 21:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內轉漲，此前一度跌超3%。"
+    },
+    {
+      "id": "4928515",
+      "time": "2026-06-10 21:43:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“磁吸”效應顯著 香港登頂全球最大財富管理中心】波士頓諮詢公司近期釋出的報告顯示，香港已超越瑞士，成為全球最大跨境財富管理中心，比此前的市場預計提前兩年左右。金融業界人士認為，排名的變化體現了全球財富格局的重組，而香港正處於這一轉變的中心，能憑藉其獨特優勢保持對跨境財富的“磁吸”效應。（新華社）"
+    },
+    {
+      "id": "4928513",
+      "time": "2026-06-10 21:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防控埃博拉 非洲疾控中心呼籲加強口岸篩查】非洲疾病預防控制中心9日釋出宣告，呼籲所有非洲聯盟成員國緊急評估、加強並落實機場、港口及主要陸路口岸的篩查和公共衛生措施，以遏制當前埃博拉病毒的傳播。 宣告說，非洲疾控中心主任卡塞亞致信非盟各成員國衛生部長，敦促各國採取協調一致行動，在保障人員安全流動、貿易、人道主義行動和經濟活動的同時，從源頭上遏制埃博拉病毒跨境傳播。該機構強調，在出入境口岸採取強有力的公共衛生措施，是降低風險、維護國際信心的切實、可見且可驗證的方法。（新華社）"
+    },
+    {
+      "id": "4928512",
+      "time": "2026-06-10 21:41:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金短線走高近25美元，報4167.9美元/盎司。"
+    },
+    {
+      "id": "mkt:019eb1c4-3673-7dd8-afa2-c8649a8b4a57",
+      "time": "2026-06-10 21:41:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Analyst: Fed faces major difficulty in final phase of fighting inflation】Northwestern Mutual Wealth Management CIO Brent Schutte said today’s inflation print does little to change that the Fed is struggling in the final phase of fighting inflation. Inflation has remained above the 2% target for years with little to no improvement. A weak labor market has given the Fed cover to cut rates; as the labor market recovers, investors should reassess whether the Fed will need to refocus on actually delivering its inflation target."
+    },
+    {
+      "id": "4928511",
+      "time": "2026-06-10 21:41:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元推出靈犀X2 EDU（人人造）版本，面向科教實訓等場景】6月10日，智元推出靈犀X2 EDU（人人造）版本，面向科研教育、工程實訓、機器人賽事開發等多元場景，聚焦裝置拆裝實訓與軟體二次開發。據介紹，靈犀X2 EDU（人人造）版本在硬體設計上強調可拆裝、可擴充套件與可二次開發。整機含假頭身高130釐米，重量35千克，全身具備29個自由度，單臂具備7個自由度；最大末端負載可達3千克，最高行走速度可達1.8米/秒，可滿足教學演示、結構認知、運動控制實驗和賽事開發等多類實操需求。"
+    },
     {
       "id": "4928510",
       "time": "2026-06-10 21:40:06",
@@ -495,6 +633,14 @@
         "Important"
       ],
       "text": "Colombia's Committee on Investigations and Accusations said it has suspended President Petro from his duties until June 21."
+    },
+    {
+      "id": "4928478",
+      "time": "2026-06-10 21:26:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【李希在河南調研時強調 牢固樹立和踐行正確政績觀 推進新徵程紀檢監察工作高質量發展】中共中央政治局常委、中央紀委書記李希8日至10日到河南調研。他強調，紀檢監察機關要深入學習貫徹習近平新時代中國特色社會主義思想，深刻領悟“兩個確立”的決定性意義、堅決做到“兩個維護”，認真落實中央紀委五次全會部署，紮實開展樹立和踐行正確政績觀學習教育，持續加強紀檢監察工作規範化法治化正規化建設，以紀檢監察工作高質量發展新成效服務保障“十五五”開好局起好步。（新華社）"
     },
     {
       "id": "te:markets:558076",
@@ -170541,299 +170687,6 @@
         "其他"
       ],
       "text": "【總投資近65億元 重慶15個綠色低碳環保專案集中籤約】6月3日，在長壽舉行的第二屆重慶綠色低碳環保產業推介會現場，15個重點專案集中籤約，簽約總金額近65億元，涵蓋固廢資源化利用、綠色能源供給、再生資源迴圈、高階綠色製造、智慧市政建設、特色生態產業等多個領域。其中，AI+固廢智慧化全連續低溫熱解技術專案總投資5億元，將在兩江新區建設年處理14萬噸混合廢舊塑膠的低溫無氧熱解樣板工廠，透過自研核心技術將廢塑膠轉化為高價值能源產品，實現無廢水、廢渣、二噁英排放。（上游）"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606033759318416",
-      "time": "2026-06-03 21:45:22",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月標普全球服務業PMI終值50.7 前值50.9】美國5月標普全球服務業PMI終值50.7，前值50.9。"
-    },
-    {
-      "id": "4915533",
-      "time": "2026-06-03 21:45:21",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國5月標普全球服務業PMI終值 50.7，前值50.9；美國5月標普全球綜合PMI終值 51.5，前值51.7。"
-    },
-    {
-      "id": "mkt:019e8dbb-1682-777f-86b0-e7b54b37e64b",
-      "time": "2026-06-03 21:45:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US May S&P Global Services PMI (final) 50.7, prior 50.9."
-    },
-    {
-      "id": "mkt:019e8dbb-1617-7ccb-b65b-bdcf12aca3c5",
-      "time": "2026-06-03 21:45:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US May S&P Global Composite PMI, final 51.5; prior 51.7."
-    },
-    {
-      "id": "mkt:019e8dbb-15c8-7ccb-b65b-b13e30d55fe0",
-      "time": "2026-06-03 21:45:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources said that after maintenance Russia's oil exports to Hungary and Slovakia via the Druzhba pipeline returned to normal in May at 165,000 bpd."
-    },
-    {
-      "id": "4915532",
-      "time": "2026-06-03 21:45:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，經德魯日巴輸油管道輸往匈牙利、斯洛伐克的俄羅斯石油在管道維護完成後，已於5月恢復正常，日均輸油量為16.5萬桶。"
-    },
-    {
-      "id": "te:markets:556194",
-      "time": "2026-06-03 21:45:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil Tops $97 — Brent crude oil futures rose more than 1% to above $97 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles."
-    },
-    {
-      "id": "mkt:019e8dbb-0042-777f-86b0-cf907af82230",
-      "time": "2026-06-03 21:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Markit Services PMI Final (May) | actual 50.7 | previous 50.9"
-    },
-    {
-      "id": "mkt:019e8dbb-003b-777f-86b0-c6752790cd00",
-      "time": "2026-06-03 21:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Composite PMI Final (May) | actual 51.5 | previous 51.7"
-    },
-    {
-      "id": "4915531",
-      "time": "2026-06-03 21:44:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4430美元/盎司，日內跌1.30%。"
-    },
-    {
-      "id": "mkt:019e8dba-eb34-777f-86b0-bc6c1f9a0d26",
-      "time": "2026-06-03 21:44:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Alphabet (GOOG.O): monthly tokens processed across products and platforms reached 3.2 quadrillion; AI Overview monthly active users topped 2.5 billion."
-    },
-    {
-      "id": "mkt:019e8dba-eb2c-777f-86b0-b5998e2dd387",
-      "time": "2026-06-03 21:44:51",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Russell 2000 fell 1.1%."
-    },
-    {
-      "id": "4915530",
-      "time": "2026-06-03 21:44:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4460美元/盎司，日內跌1.35%。"
-    },
-    {
-      "id": "4915529",
-      "time": "2026-06-03 21:44:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普擬對貿易伙伴加徵 10%–12.5% 關稅的方案正穩步推進。"
-    },
-    {
-      "id": "mkt:019e8dba-1334-777f-86b0-ae3e82782b91",
-      "time": "2026-06-03 21:44:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell $20 intraday to $4,434.72/oz. Spot silver dropped 2.00% intraday to $73.62/oz. New York silver futures slipped below $74/oz, down 2.09% on the day."
-    },
-    {
-      "id": "te:markets:556193",
-      "time": "2026-06-03 21:44:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Crude Oil Prices Rise for 3rd Session — WTI crude oil futures rose more than 1% to around $95 per barrel on Wednesday, extending gains for the third session, after President Donald Trump said Iran had agreed not to pursue a nuclear weapon and suggested he could meet Supreme Leader Mojtaba Khamenei if developments continue positively. Despite the comments, tensions between Washington and Tehran remained elevated as negotiations over an interim peace agreement continued. The situation has been further complicated by Israel’s expanding operations in Lebanon, with Trump confirming he had urged Israeli Prime Minister Benjamin Netanyahu to de-escalate the conflict during a recent call. Overnight, US and Iranian forces were involved in one of the most serious confrontations since the ceasefire began, with Kuwait and Bahrain caught in the crossfire. Meanwhile, the latest data showed US crude inventories fell by 6.8 million barrels last week, marking a sixth consecutive weekly decline in stockpiles."
-    },
-    {
-      "id": "mkt:019e8db9-c62f-777f-86b0-a3071b9728e1",
-      "time": "2026-06-03 21:43:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai silver most-active contract fell as much as 2.00% intraday, last at 17,836.00 yuan/kg."
-    },
-    {
-      "id": "4915528",
-      "time": "2026-06-03 21:43:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：推出元商業智慧體，使用者可直接在WhatsApp上更便捷地查詢商家。"
-    },
-    {
-      "id": "4915527",
-      "time": "2026-06-03 21:43:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東開源JoyAI-Echo長音影片生成框架】6月3日，京東推出JoyAI-Echo長音影片生成框架。據介紹，框架引入智慧“導演助理”——Director Agent，並內建了一個專門的記憶庫，能在多鏡頭生成過程中，持續儲存並呼叫角色的外觀特徵和說話人音色資訊。JoyAI-Echo的程式碼與權重已全部開源。"
-    },
-    {
-      "id": "4915526",
-      "time": "2026-06-03 21:43:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1350.45美元/盎司。"
-    },
-    {
-      "id": "te:markets:556191",
-      "time": "2026-06-03 21:43:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Equinix Stock Price Hits 4-week High — Equinix shares increased to 1096.00 USD, the highest since May 2026. Over the past 4 weeks, Equinix gained 0.76%, and in the last 12 months, it increased 19.65%."
-    },
-    {
-      "id": "mkt:019e8db9-2e3b-777f-86b0-9d63543ee5cd",
-      "time": "2026-06-03 21:43:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Politico reports U.S. House Speaker Johnson will meet OpenAI founder Altman to discuss an AI framework."
-    },
-    {
-      "id": "4915525",
-      "time": "2026-06-03 21:42:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報73.46美元/盎司。"
-    },
-    {
-      "id": "4915524",
-      "time": "2026-06-03 21:42:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：約翰遜將與山姆·奧特曼討論人工智慧框架。"
-    },
-    {
-      "id": "4915523",
-      "time": "2026-06-03 21:42:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守74美元/盎司，日內跌2.09%。"
-    },
-    {
-      "id": "4915522",
-      "time": "2026-06-03 21:42:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報74.03美元/盎司。"
-    },
-    {
-      "id": "4915521",
-      "time": "2026-06-03 21:42:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta推出面向企業的AI“商業代理” 旨在實現日常運營自動化】Meta週三推出了一款人工智慧助手，旨在協助企業開展日常運營，此舉標誌著這家社交媒體巨頭正式進軍企業級人工智慧市場。 該產品在倫敦舉行的以WhatsApp為主題的“Conversations”大會上釋出，透過引入“代理”功能，在現有企業訊息服務的基礎上進行了擴充套件。該助手能夠代表企業執行諸如預訂日曆預約和完成銷售等操作。 該公司表示，已有超過100萬家企業正在WhatsApp和Messenger上使用此類助手的早期聊天機器人版本。新版本還將引入Instagram，並面向全球各類規模的企業推出。 此舉表明，Meta計劃利用WhatsApp、Instagram和Facebook應用的廣泛覆蓋，在AI工具的企業應用市場中與OpenAI、Anthropic以及Alphabet旗下的Google等競爭對手一較高下。"
-    },
-    {
-      "id": "4915520",
-      "time": "2026-06-03 21:42:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet：預計Gemini 3.5 Pro將於六月釋出。"
-    },
-    {
-      "id": "mkt:019e8db8-21f2-7ccb-b65b-afe3bca5dbe1",
-      "time": "2026-06-03 21:41:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O) expects to launch Gemini 3.5 Pro in June."
     }
   ]
 }
