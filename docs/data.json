@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-11 03:20:16",
-  "count": 18454,
+  "updated": "2026-06-11 03:24:10",
+  "count": 18453,
   "items": [
+    {
+      "id": "4928936",
+      "time": "2026-06-11 03:23:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4110美元/盎司，日內跌4.12%。"
+    },
+    {
+      "id": "mkt:019eb2fc-ea8f-7dd8-afab-43a0ce2ffa5f",
+      "time": "2026-06-11 03:22:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "Nasdaq's late-session losses widened to 2%; Dow fell 1.6% and the S&P 500 fell 1.5%."
+    },
+    {
+      "id": "4928935",
+      "time": "2026-06-11 03:22:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌2.00%，現報25165.234點；道指跌1.67%，現報50021.910點；標普500指數跌1.54%，現報7272.940點。"
+    },
+    {
+      "id": "4928934",
+      "time": "2026-06-11 03:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic 呼籲美國國會要求頂尖人工智慧模型接受安全測試。"
+    },
+    {
+      "id": "4928933",
+      "time": "2026-06-11 03:21:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：隨著戴維・埃利森的技術佈局日漸明晰，派拉蒙正重組流媒體業務團隊。"
+    },
+    {
+      "id": "4928932",
+      "time": "2026-06-11 03:21:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "Anthropic 呼籲美國在聯邦層面出臺統一法規前，不要叫停各州自主制定的人工智慧相關法律。"
+    },
     {
       "id": "4928931",
       "time": "2026-06-11 03:18:11",
@@ -170020,76 +170078,6 @@
         "UBER.N"
       ],
       "text": "Uber (UBER.N) has committed nearly $500m in total financing to autonomous-vehicle startup Nuro, market sources say."
-    },
-    {
-      "id": "mkt:019e8ef1-3c1e-7443-8fe2-47a02be92532",
-      "time": "2026-06-04 03:23:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran's military says it struck U.S. warship after action in Gulf of Oman】Iran's armed forces said they struck a U.S. warship hours after U.S. forces carried out an 'aggressive' action against an Iranian merchant ship in the Gulf of Oman; Iran said the targeted vessel served as the 'command and control center' for the hostile action."
-    },
-    {
-      "id": "mkt:019e8ef0-89b6-7443-8fe2-3de275d806c2",
-      "time": "2026-06-04 03:23:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, a U.S. official said U.S.-brokered Israel-Lebanon talks are ongoing at the State Department; initial progress was slow but later made major progress on an action plan."
-    },
-    {
-      "id": "4915910",
-      "time": "2026-06-04 03:22:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗軍隊稱剛剛打擊美軍指揮艦】據伊朗塔斯尼姆通訊社3日援引伊朗軍隊訊息報道，數小時前，在美軍針對阿曼海的伊朗商船實施“侵略”行動之後，伊朗伊斯蘭共和國軍隊對該敵對行動“指揮與控制中心”所在的一艘美國軍艦實施打擊。（新華社）"
-    },
-    {
-      "id": "4915909",
-      "time": "2026-06-04 03:22:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌5%，現報1322.60美元/盎司。"
-    },
-    {
-      "id": "te:markets:556250",
-      "time": "2026-06-04 03:22:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium is down by 5.03% — Palladium decreased 5.03% to 1322.5 USD/t.oz"
-    },
-    {
-      "id": "4915908",
-      "time": "2026-06-04 03:22:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士透露，優步對自動駕駛初創企業努洛（Nuro）的總投資承諾已接近5億美元。"
-    },
-    {
-      "id": "mkt:019e8eef-1043-7443-8fe2-34616e07599c",
-      "time": "2026-06-04 03:21:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Goldman president Waldron said the Fed under Wosh's leadership would focus primarily on its balance sheet and inflation."
     }
   ]
 }
