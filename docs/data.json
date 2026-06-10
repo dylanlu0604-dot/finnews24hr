@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-11 05:15:19",
-  "count": 18353,
+  "updated": "2026-06-11 05:19:11",
+  "count": 18340,
   "items": [
+    {
+      "id": "4929002",
+      "time": "2026-06-11 05:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月11日05時10分在青海玉樹州囊謙縣（北緯32.52度，東經95.77度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "4929001",
+      "time": "2026-06-11 05:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.22%，報15187點。"
+    },
     {
       "id": "te:economy:558160",
       "time": "2026-06-11 05:12:33",
@@ -168993,144 +169009,6 @@
         "其他"
       ],
       "text": "SpaceX在IPO前夕拿下德克薩斯州晶片專案稅收減免。"
-    },
-    {
-      "id": "4916049",
-      "time": "2026-06-04 05:18:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：公司第二季度非人工智慧半導體收入增長6%。"
-    },
-    {
-      "id": "mkt:019e8f5a-475d-7443-8fe5-01a6446bc896",
-      "time": "2026-06-04 05:18:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The U.S. House passed a resolution limiting President Trump's authority to use military force against Iran."
-    },
-    {
-      "id": "4916048",
-      "time": "2026-06-04 05:18:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：截至目前，我們已收到總額達60億美元的採購訂單。"
-    },
-    {
-      "id": "mkt:019e8f59-97e9-7443-8fe4-f9c9c9ebaf10",
-      "time": "2026-06-04 05:17:53",
-      "tags": [
-        "MKT News",
-        "AVGO.O"
-      ],
-      "text": "Broadcom CEO expects third-quarter software revenue of about $8.9 billion."
-    },
-    {
-      "id": "4916047",
-      "time": "2026-06-04 05:17:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國眾議院透過限制特朗普伊朗戰爭權力的決議。"
-    },
-    {
-      "id": "4916046",
-      "time": "2026-06-04 05:17:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "好市多：本公司認為，任何未決索賠、訴訟程式或訴訟都不會對本公司財務狀況產生重大不利影響。"
-    },
-    {
-      "id": "mkt:019e8f59-3380-7443-8fe4-f5cef448b472",
-      "time": "2026-06-04 05:17:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O"
-      ],
-      "text": "Broadcom CEO said he expects third-quarter non-AI semiconductor revenue of about $4.5 billion; partnership with Google remains very important."
-    },
-    {
-      "id": "4916045",
-      "time": "2026-06-04 05:16:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達完成對KUMO AI的收購，為其最新一筆併購專案。"
-    },
-    {
-      "id": "4916044",
-      "time": "2026-06-04 05:16:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：預計第三季度軟體收入將約為89億美元。"
-    },
-    {
-      "id": "mkt:019e8f58-4d39-7443-8fe4-ec0ddea715be",
-      "time": "2026-06-04 05:16:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "Broadcom (AVGO.O) after-hours decline widened to 12%."
-    },
-    {
-      "id": "mkt:019e8f58-2a26-7443-8fe4-e04a183c354c",
-      "time": "2026-06-04 05:16:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish",
-        "META.O"
-      ],
-      "text": "Broadcom CEO said the company agreed to provide Anthropic an additional 5GW of next-generation TPU-based compute capacity from 2027. Broadcom has received a first order from Meta Platforms (META.O) for 1GW covering XPU and networking solutions, with deliveries starting in H2 2027."
-    },
-    {
-      "id": "mkt:019e8f57-d9e8-7443-8fe4-d8cedb94f7df",
-      "time": "2026-06-04 05:15:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "General CAINE, chairman of the US Joint Chiefs of Staff, is visiting Caracas."
-    },
-    {
-      "id": "4916043",
-      "time": "2026-06-04 05:15:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：與谷歌的合作關係依然“規模龐大”。"
-    },
-    {
-      "id": "4916042",
-      "time": "2026-06-04 05:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.41%，報15946點。"
-    },
-    {
-      "id": "4916041",
-      "time": "2026-06-04 05:15:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通執行長：公司仍預計2027年人工智慧半導體業務營收將超過1000億美元。"
     }
   ]
 }
