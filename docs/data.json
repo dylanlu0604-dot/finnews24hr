@@ -1,7 +1,153 @@
 {
-  "updated": "2026-06-10 23:24:50",
-  "count": 18341,
+  "updated": "2026-06-10 23:28:46",
+  "count": 18354,
   "items": [
+    {
+      "id": "4928705",
+      "time": "2026-06-10 23:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：勞工統計局工作人員的奉獻精神與專業素養令人印象深刻，除非我完全信任該局的員工，否則我不會接受這份職位。"
+    },
+    {
+      "id": "4928704",
+      "time": "2026-06-10 23:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：若伊朗衝突持續或全球大宗商品波動延續，北美原油、液化天然氣、天然氣液體的中游基礎設施料將受益。"
+    },
+    {
+      "id": "mkt:019eb224-e24d-7dd8-afa7-6532cc2db585",
+      "time": "2026-06-10 23:27:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fars news agency cited a member of Iran's National Security Council saying a plan for the Strait of Hormuz is ready."
+    },
+    {
+      "id": "4928703",
+      "time": "2026-06-10 23:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會成員表示，霍爾木茲海峽相關預案已準備就緒。"
+    },
+    {
+      "id": "mkt:019eb224-435e-7dd8-afa7-587311aee4cb",
+      "time": "2026-06-10 23:26:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Precious metals futures extended losses. SHFE gold main contract dropped over 3%, briefly trading below 900 yuan/gram and now at 902.16 yuan/gram. SHFE silver main contract fell just over 1%, at 15,568 yuan/kg."
+    },
+    {
+      "id": "mkt:019eb224-3fc8-7dd8-afa7-53d0b912d82a",
+      "time": "2026-06-10 23:26:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said officials should study ways to integrate alternative data, saying survey-based data systems will eventually be phased out."
+    },
+    {
+      "id": "mkt:019eb223-e5d9-7dd8-afa7-4876fac7d0e6",
+      "time": "2026-06-10 23:25:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bureau of Labor Statistics director nominee Matsumoto said there may be ways to incentivize responses to labor-market surveys."
+    },
+    {
+      "id": "4928702",
+      "time": "2026-06-10 23:25:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Anthropic執行長稱，他並不清楚旗下人工智慧模型在伊朗一所小學遭導彈襲擊、約120名兒童遇難這起事件中扮演了何種角色。"
+    },
+    {
+      "id": "4928701",
+      "time": "2026-06-10 23:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：我們應當研究整合替代資料的方法，基於調查的資料體系最終會退出歷史舞臺。"
+    },
+    {
+      "id": "4928700",
+      "time": "2026-06-10 23:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局局長提名人松本：或可採取多種激勵措施，提高勞動力市場調查的回覆率。"
+    },
+    {
+      "id": "mkt:019eb222-4981-7dd8-afa7-447fafb04566",
+      "time": "2026-06-10 23:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BLS commissioner nominee Matsumoto said the impact of declining survey response rates needs to be determined."
+    },
+    {
+      "id": "4928699",
+      "time": "2026-06-10 23:24:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯泰蘭蒂斯米蘭上市股票停牌後恢復交易，股價下跌3.8%。"
+    },
+    {
+      "id": "te:economy:558118",
+      "time": "2026-06-10 23:24:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mozambique",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Mozambique Inflation Rate Hits 2023-Peak — The annual inflation rate in Mozambique picked up to 7.22% in May 2026, accelerating from 4.41% in the prior month and marking the steepest rise since May 2023. The increase was largely driven by a fuel shock, following supply disruptions in April tied to geopolitical tensions in the Middle East, which led to sharp adjustments in diesel and gasoline prices earlier in May. On a monthly basis, the CPI climbed by 2.32% in May, the steepest increase since February 2019, after a 0.63% rise in the prior month."
+    },
+    {
+      "id": "te:economy:558117",
+      "time": "2026-06-10 23:24:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Steady After BoC Rate Hold — Canada’s 10-year government bond yield held steady near 3.5% after the Bank of Canada left its benchmark interest rate unchanged at 2.25%, in line with expectations. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, while reiterating that it stands ready to act if necessary and will not allow higher energy prices to feed persistent inflation. Markets continue to price in a 25bps rate hike by December. However, the 10-year yield remains below its May highs, tracking a decline in US Treasury yields as investors speculate that a potential US–Iran agreement could help ease geopolitical tensions."
+    },
+    {
+      "id": "4928698",
+      "time": "2026-06-10 23:23:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽關於北美中游能源展望：預計2026年資本支出將高於此前預期。"
+    },
+    {
+      "id": "4928697",
+      "time": "2026-06-10 23:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯確認已解除對美國元宇宙遊戲平臺Roblox的封禁。"
+    },
     {
       "id": "mkt:019eb221-2d9c-7dd8-afa7-392a4430b5db",
       "time": "2026-06-10 23:22:59",
@@ -169030,31 +169176,6 @@
         "國際"
       ],
       "text": "【伊朗議會要員：停止所有戰線戰爭是伊美談判首要內容】當地時間3日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，停止所有戰線的戰爭是伊朗與美國談判的首要內容，伊朗絕不允許美國和以色列破壞地區“抵抗陣線”的團結。阿齊茲表示，伊朗堅信“抵抗陣線”能獲得勝利，並相信只要共同努力，“摧毀以色列這一最終目標就能夠實現。（央視新聞）"
-    },
-    {
-      "id": "4915750",
-      "time": "2026-06-03 23:28:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列國防軍負責人稱以軍在黎巴嫩沒有停火協議。"
-    },
-    {
-      "id": "mkt:019e8e17-509a-744e-9fd4-46fc0a1bc40f",
-      "time": "2026-06-03 23:25:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kuwait International Airport resumes operations; Bahrain and UAE airports operating normally】Kuwait Civil Aviation Authority said Kuwait International Airport, hit in a pre-dawn attack on June 3, has resumed flight operations after damage assessments and safety measures. Flights at terminals T4 and T5 operated by Kuwait Airways and Peninsula Airways have resumed. Xinhua reported Bahrain International Airport and major UAE airports in Dubai and Abu Dhabi were operating normally on June 3; only flights to Kuwait experienced delays or cancellations."
-    },
-    {
-      "id": "4915749",
-      "time": "2026-06-03 23:25:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：新增金屬關稅有效期至 2027 年 12 月 31 日。"
     }
   ]
 }
