@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-11 00:11:40",
-  "count": 18402,
+  "updated": "2026-06-11 00:15:46",
+  "count": 18407,
   "items": [
+    {
+      "id": "4928786",
+      "time": "2026-06-11 00:14:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：伊朗一直把我們當傻瓜耍】美國總統特朗普表示：“和伊朗的協議已近在咫尺，但對方卻一再敷衍拖延。他們一直把我們當傻瓜耍。不得不說，此前幾任總統實在缺乏手腕，想到這點我都覺得難堪。”"
+    },
+    {
+      "id": "mkt:019eb24f-831c-7dd8-afa8-f399531c076f",
+      "time": "2026-06-11 00:13:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said US forces on June 9 disabled an oil tanker in the Gulf of Oman after the vessel violated blockade measures."
+    },
+    {
+      "id": "4928785",
+      "time": "2026-06-11 00:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國在阿曼灣擊沉不服從指令的船隻。"
+    },
+    {
+      "id": "mkt:019eb24e-76d3-7dd8-afa8-eb85c00f3882",
+      "time": "2026-06-11 00:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said India lodged a \"strong protest\" with U.S. diplomat Jason Miks."
+    },
+    {
+      "id": "mkt:019eb24e-3dda-7dd8-afa8-e065938f8674",
+      "time": "2026-06-11 00:12:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Sources said India has summoned the US deputy chief of mission in New Delhi after an oil tanker was attacked off the coast of Oman; three Indian nationals are missing."
+    },
+    {
+      "id": "4928784",
+      "time": "2026-06-11 00:12:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士透露，因阿曼灣油輪遇襲造成三名印度人失蹤，印度召見了美國駐新德里使團副團長。印度已就此事向美國外交官賈森·米克斯提出“強烈抗議”。"
+    },
+    {
+      "id": "te:markets:558138",
+      "time": "2026-06-11 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.46% Lower — The FTSE MIB Index fell 234 points or 0.46 percent on Wednesday to close at 50029 points. Leading the losses are Prysmian (-4.35%), Stellantis N.V. (-3.83%) and Davide Campari-Milano (-1.68%). Top gainers were Banco BPM SPA (3.70%), Poste Italiane (2.36%) and Unipol Gruppo (2.15%)."
+    },
+    {
+      "id": "4928783",
+      "time": "2026-06-11 00:11:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【阿波羅資產管理高管：太多人工智慧支出被耗費於低智商任務】阿波羅全球管理的John Zito表示，太多公司將AI工具用於相對平常的任務，這並不足以證明高昂成本和算力投入的合理性。“我們的智商太低了，以至於竟然要用AI工具來搜尋法式吐司的做法，”阿波羅資產管理聯席總裁Zito說道，“這就是價格上漲的原因。”他表示，只有“少數”人有能力和必要使用最前沿的AI工具。談到Anthropic PBC最新的Claude AI模型，他笑稱自己的智商“沒高到能使用Mythos 2強大功能的程度”。"
+    },
+    {
+      "id": "te:markets:558137",
+      "time": "2026-06-11 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.97% Lower — The DAX Index dropped 238 points or 0.97 percent on Wednesday to close at 24195 points. Losses were led by Siemens Energy (-6.49%), SAP (-3.28%) and Commerzbank (-2.03%). Offsetting the fall, top gainers were Deutsche Telekom (3.06%), Adidas (2.84%) and Symrise (2.47%)."
+    },
     {
       "id": "te:markets:558136",
       "time": "2026-06-11 00:10:08",
@@ -169604,43 +169694,6 @@
         "公司"
       ],
       "text": "【達利歐稱人工智慧泡沫終將破裂 投資兌現時往往會刺破泡沫】億萬富豪投資人瑞·達利歐表示，火熱的人工智慧市場已顯現出泡沫跡象，而這一泡沫最終會破裂。這位橋水基金創始人週三在接受採訪時說：“所有重大的科技變革都會催生泡沫。沒有人能把握得恰到好處。你要麼投入大量資金去搶佔市場份額，不去擔心是否投得過多；要麼投入不足，結果失去市場份額。”達利歐表示，泡沫往往會在投資需要兌現回報時破裂。他提到市場對於AI公司盈利能力的擔憂。他說：“刺破泡沫的過程，就是把財富轉化為現金的過程。”他還表示，當下由AI驅動的市場“正沿著這樣的路徑演進，儘管這是一項了不起的技術”。"
-    },
-    {
-      "id": "mkt:019e8e43-79f3-7443-8fdf-cf82943140cb",
-      "time": "2026-06-04 00:14:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Austria, Portugal, Trinidad and Tobago, Zimbabwe elected to UN Security Council non‑permanent seats】The UN General Assembly elected Austria, Portugal, Trinidad and Tobago and Zimbabwe as non‑permanent members of the UN Security Council; one seat remains to be decided in a second ballot between the Philippines and Kyrgyzstan. Germany failed to win a 2027–28 non‑permanent seat. Terms for the newly elected members run Jan. 1, 2027–Dec. 31, 2028."
-    },
-    {
-      "id": "4915797",
-      "time": "2026-06-04 00:13:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "霍尼韋爾高管預計，到2030年，配備該公司HTF7000發動機的飛機數量將以約9%的年複合增長率增長。"
-    },
-    {
-      "id": "mkt:019e8e42-9995-7443-8fdf-c38913334782",
-      "time": "2026-06-04 00:13:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Rubio says US military operation against Iran has ended】On the 3rd at a House Appropriations Committee hearing, US Secretary of State Rubio said the US military campaign against Iran, \"Operation Epic Fury,\" has ended and that the US \"has achieved victory.\" Rubio said the US is no longer striking targets inside Iran because the operation has concluded, and added that while US and Israeli actions have significantly degraded Iranian military capability, Iran still retains some drone and maritime combat capabilities."
-    },
-    {
-      "id": "te:markets:556232",
-      "time": "2026-06-04 00:12:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.07% Lower — The FTSE MIB Index fell 540 points or 1.07 percent on Wednesday to close at 50038 points. Leading the losses are Stellantis N.V. (-3.98%), Amplifon (-3.20%) and Leonardo SpA (-2.71%)."
     }
   ]
 }
