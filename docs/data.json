@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-11 04:59:44",
+  "updated": "2026-06-11 05:03:38",
   "count": 18359,
   "items": [
+    {
+      "id": "mkt:019eb357-c018-7dd8-afac-bbbac8bbd5e7",
+      "time": "2026-06-11 05:02:12",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "Google said it is committed to working with the Canadian government to establish higher security standards across all its platforms."
+    },
+    {
+      "id": "4928996",
+      "time": "2026-06-11 05:01:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌發言人表示，公司致力於與加拿大聯邦政府合作，為所有平臺制定更高的安全標準。"
+    },
+    {
+      "id": "mkt:019eb356-7f7a-7dd8-afac-b42344c08f5e",
+      "time": "2026-06-11 05:00:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it will respond forcefully to any U.S. aggression】Early on June 11, state media citing military sources said Iran's armed forces are prepared and any U.S. aggression would be met with a forceful response; Iran also said it would strike additional U.S. interests."
+    },
+    {
+      "id": "4928995",
+      "time": "2026-06-11 05:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將強力回應美侵略行動】伊朗塔斯尼姆通訊社當地時間今天（6月11日）凌晨援引軍方訊息人士報道稱，伊朗武裝部隊已做好準備，美方採取任何侵略行動都將再次遭到強力回擊，伊朗將打擊新的美方利益目標。（CCTV國際時訊）"
+    },
+    {
+      "id": "4928994",
+      "time": "2026-06-11 04:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克旗下xAI聯合創始人Babuschkin自立門戶，宣佈與特斯拉舊部成立新公司River AI，主攻顛覆性“全個性化AI智慧體”。"
+    },
+    {
+      "id": "4928993",
+      "time": "2026-06-11 04:59:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：上調阿根廷評級至B-。 上調阿根廷主權評級，反映其經濟脆弱性有所緩解、對外流動性逐步改善。"
+    },
     {
       "id": "mkt:019eb354-f1d3-7dd8-afac-aff3ccca1277",
       "time": "2026-06-11 04:59:09",
@@ -169132,61 +169185,6 @@
         "其他"
       ],
       "text": "市場資訊：Meta元宇宙負責人加布裡埃爾·奧爾四個月前悄然離職。"
-    },
-    {
-      "id": "mkt:019e8f4b-477d-7443-8fe4-bb8a00073508",
-      "time": "2026-06-04 05:02:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump calls Netanyahu 'a great partner'】According to CNN, Trump said on Wednesday that Israeli Prime Minister Netanyahu is \"a great partner\" following a tense phone call between them; he added, \"to me, Netanyahu has always been a great partner; others may not.\""
-    },
-    {
-      "id": "mkt:019e8f4a-fd65-7443-8fe4-b126ea9cc19e",
-      "time": "2026-06-04 05:01:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump says talks with Iran progressing very smoothly】U.S. President Trump said talks with Iran are progressing very smoothly and a new round could take place this weekend; he added the Strait of Hormuz would reopen immediately once an agreement is signed. He said signing would commit Iran to never possess nuclear weapons — prohibiting both domestic development and external procurement — and that the U.S. pushed to add the ban on external purchases after two weeks of negotiation. Trump said Iran is theoretically very close to signing and that, while the U.S. could eliminate Iran militarily within two to three weeks, he prefers a written agreement to avoid large-scale casualties. He said officials are trying to separate the Hormuz issue from the Lebanon fighting and that the U.S. has held first-ever talks with Hezbollah, reaching an understanding that Hezbollah will not attack Israel and Israel will not attack Hezbollah."
-    },
-    {
-      "id": "4916028",
-      "time": "2026-06-04 05:00:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：截至5月末韓國外匯儲備為4269.9億美元，4月末為4278.8億美元。"
-    },
-    {
-      "id": "4916027",
-      "time": "2026-06-04 05:00:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "歐特克與亞馬遜雲科技簽署戰略協作協議。"
-    },
-    {
-      "id": "mkt:019e8f49-5c34-7443-8fe4-ae256804bb62",
-      "time": "2026-06-04 05:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May foreign exchange reserves $426.99 bln, previously $427.88 bln."
-    },
-    {
-      "id": "mkt:019e8f49-36b0-7443-8fe4-a1d586b6d36d",
-      "time": "2026-06-04 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Foreign Exchange Reserves (May) | actual 426989999999.99994B | previous 427880000000B"
     }
   ]
 }
