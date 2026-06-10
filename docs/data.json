@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-11 00:35:30",
+  "updated": "2026-06-11 00:39:40",
   "count": 18396,
   "items": [
+    {
+      "id": "4928796",
+      "time": "2026-06-11 00:38:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：看看委內瑞拉和尼古拉斯·馬杜羅，他曾以為可以公然挑釁美國。結果在深夜短短45分鐘內，該國首都戒備最森嚴的基地裡，一處防守最強的據點就被攻克。要知道，俄方防空力量和古巴守衛都無力抵擋我方特戰人員、遊騎兵部隊，這些勇士總能完成艱鉅任務。"
+    },
+    {
+      "id": "4928795",
+      "time": "2026-06-11 00:38:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱他認為AI公司會同意“回饋”公眾】美國總統特朗普週三表示，他預計頂級人工智慧（AI）公司將同意向公眾“回饋”，這顯然是指政府可能入股這些公司。“我很快將與12到15位高管舉行會議，我們將討論向公眾回饋一些東西，如果我們這樣做，公眾將變得非常富有，”特朗普在白宮橢圓形辦公室對記者稱。“我認為他們會這麼做，而且我認為這會讓他們非常受歡迎。”"
+    },
+    {
+      "id": "mkt:cf3d1cf6-2c66-4c4f-af1a-085bc8136c99",
+      "time": "2026-06-11 00:37:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump: I love inflation】Asked whether he was worried about today’s inflation print, US President Trump said, \"No, I like it. I love inflation.\" Data showed US May CPI rose 4.2% YoY, a three-year high; core CPI YoY at its highest since September last year."
+    },
+    {
+      "id": "4928794",
+      "time": "2026-06-11 00:35:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱將與人工智慧公司高管討論回饋公眾】美國總統特朗普在白宮向記者表示，他在與人工智慧企業高管討論“向公眾回饋一些東西”。特朗普稱，他將“很快”與12至15位AI領域主要高管會面。"
+    },
     {
       "id": "te:economy:558141",
       "time": "2026-06-11 00:32:00",
@@ -169570,39 +169605,6 @@
         "MKT News"
       ],
       "text": "Fars News reported Iran's parliament speaker Ghalibaf said the era of cost-free threats against Iran is over and any act of aggression will be met with a regrettable response."
-    },
-    {
-      "id": "4915813",
-      "time": "2026-06-04 00:37:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特出席的參議院財政委員會聽證會已結束。"
-    },
-    {
-      "id": "mkt:019e8e58-c0e6-7443-8fe0-127fa6ba806f",
-      "time": "2026-06-04 00:37:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said President Trump will attend the next NATO leaders' summit."
-    },
-    {
-      "id": "4915812",
-      "time": "2026-06-04 00:37:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：特朗普將出席下一屆北約國家元首會議。"
-    },
-    {
-      "id": "4915811",
-      "time": "2026-06-04 00:35:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【紐約聯儲行長：未來利率路徑無明顯方向 不太擔心通脹持續】紐約聯儲行長約翰·威廉姆斯表示，美國的貨幣政策目前處於恰當位置，未來的利率路徑並無明顯方向。“貨幣政策目前正處於完全恰當的位置，我認為沒有加息或降息的必要，”威廉姆斯週三在接受採訪時表示，“我也看不出我們未來會朝哪個方向前進。”美聯儲決策者預計將於6月16日至17日在華盛頓召開會議。在新任主席凱文·沃什的主持下，預計他們將討論是否修改會後宣告措辭。許多官員希望刪除宣告中暗示下一步行動仍可能是降息的措辭。威廉姆斯指出，通脹依然居高不下，能源價格、關稅以及與AI相關的投資構成物價上行壓力。不過他也表示，服務通脹出現“相當大程度”的放緩。"
     }
   ]
 }
