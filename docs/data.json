@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-11 01:15:23",
-  "count": 18421,
+  "updated": "2026-06-11 01:19:22",
+  "count": 18419,
   "items": [
+    {
+      "id": "mkt:019eb288-fc38-7dd8-afa9-9491e7cd44e3",
+      "time": "2026-06-11 01:16:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Fed accepted $387 mln from four counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4928835",
+      "time": "2026-06-11 01:16:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（6月10日），美聯儲隔夜逆回購協議（RRP）使用規模為3.87億美元（交易對手4家），上個交易日報5.77億美元。"
+    },
+    {
+      "id": "4928834",
+      "time": "2026-06-11 01:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國能源部長駁斥伊朗石油扣押相關說法】美國能源部長賴特表示，他並不知曉美方有扣押數百萬桶伊朗石油的行動，這一表態與特朗普此前的言論相矛盾。賴特向國會議員說明，美軍近期協助部分油輪透過霍爾木茲海峽，並指出過去一週該海峽的油輪通行量已顯著增加。"
+    },
+    {
+      "id": "4928833",
+      "time": "2026-06-11 01:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國審計監管機構將對與破產抵押貸款機構MFS存在關聯的企業展開調查。"
+    },
     {
       "id": "mkt:019eb287-a2a3-7dd8-afa9-8adb19319311",
       "time": "2026-06-11 01:14:53",
@@ -169771,65 +169804,6 @@
         "Brent"
       ],
       "text": "Fars News, citing a member of Tehran’s negotiating team, said if a deal is reached a U.S.-Iran memorandum of understanding would be implemented via a four-stage mechanism."
-    },
-    {
-      "id": "4915841",
-      "time": "2026-06-04 01:18:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社援引伊朗談判代表團媒體組成員訊息：若美伊雙方敲定並達成一致，兩國諒解備忘錄將透過四階段落地機制推進。"
-    },
-    {
-      "id": "4915840",
-      "time": "2026-06-04 01:17:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（6月3日），美聯儲隔夜逆回購協議（RRP）使用規模為20.62億美元（交易對手35家），上個交易日報25.02億美元。"
-    },
-    {
-      "id": "mkt:019e8e7c-d490-7443-8fe0-97191f467fdc",
-      "time": "2026-06-04 01:16:45",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US stocks extended declines: S&P 500 fell 0.7%, Nasdaq down 1.1%, Dow Jones down 0.9%."
-    },
-    {
-      "id": "mkt:019e8e7c-735b-7443-8fe0-8a111b76a219",
-      "time": "2026-06-04 01:16:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian outlet Fars News Agency, citing a member of Tehran’s negotiating team, said Iran will not sign any agreement that ignores Lebanon."
-    },
-    {
-      "id": "4915839",
-      "time": "2026-06-04 01:16:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：已加入巴西加密經濟協會 ABCRIPTO，並將出任該協會理事會成員。"
-    },
-    {
-      "id": "mkt:019e8e7c-1429-7443-8fe0-802b89e85ab6",
-      "time": "2026-06-04 01:15:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iranian outlet Fars News, citing a member of Tehran’s negotiation team, said the first phase of talks in Islamabad failed because Iran refused to enter nuclear negotiations."
     }
   ]
 }
