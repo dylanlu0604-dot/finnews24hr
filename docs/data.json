@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-10 12:34:18",
-  "count": 18719,
+  "updated": "2026-06-10 12:38:11",
+  "count": 18726,
   "items": [
+    {
+      "id": "mkt:019eafd1-ecf6-799a-b41b-e383594ab3b8",
+      "time": "2026-06-10 12:37:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Personal pension accounts allowed to buy savings bonds; June 10-19 offering】China’s Ministry of Finance said the latest savings treasury bonds will be on sale June 10-19. The offering comprises the 2026 third and fourth issues (electronic), both fixed-rate, fixed-term, with a combined maximum issuance of 70 bln yuan. For the first time, purchases may be made using personal pension accounts as well as ordinary bank deposit accounts; savings bonds have been added to the personal pension product pool."
+    },
+    {
+      "id": "4927293",
+      "time": "2026-06-10 12:36:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌6.1%，至7604.46點。"
+    },
+    {
+      "id": "mkt:019eafd0-e739-799a-b41b-ddf58382fb4b",
+      "time": "2026-06-10 12:36:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MPOB May palm oil monthly report】Malaysian Palm Oil Board (MPOB) reported May palm oil stocks at 2,427,835 tonnes, up 5.15% MoM."
+    },
+    {
+      "id": "mkt:019eafd0-cc94-799a-b41b-d27f318a3595",
+      "time": "2026-06-10 12:35:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MPOB May palm oil monthly report】Malaysia Palm Oil Board (MPOB) said May palm oil imports were 43,816 tonnes, down 42.23% MoM."
+    },
+    {
+      "id": "mkt:019eafd0-c81b-799a-b41b-c9089696e1f5",
+      "time": "2026-06-10 12:35:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MPOB May palm oil monthly report】Malaysia Palm Oil Board (MPOB) said Malaysia's May palm oil production was 1,516,327 tonnes, down 6.96% month-on-month."
+    },
+    {
+      "id": "mkt:019eafd0-af2d-799a-b41b-c075d04169af",
+      "time": "2026-06-10 12:35:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MPOB May palm oil monthly report】MPOB: Malaysia exported 1,105,760 tonnes of palm oil in May, down 14.45% MoM."
+    },
+    {
+      "id": "4927292",
+      "time": "2026-06-10 12:35:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油局（MPOB）資料顯示，馬來西亞5月棕櫚油期末庫存為243萬噸，較4月上漲5.15%。"
+    },
+    {
+      "id": "4927291",
+      "time": "2026-06-10 12:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油局（MPOB）資料顯示，馬來西亞5月毛棕櫚油產量為152萬噸，較4月下降6.96%。"
+    },
+    {
+      "id": "4927289",
+      "time": "2026-06-10 12:34:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油局（MPOB）資料顯示，馬來西亞5月棕櫚油出口量為111萬噸，較4月下降14.45%。"
+    },
+    {
+      "id": "4927288",
+      "time": "2026-06-10 12:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱完成對伊打擊 雙方對抗會否升級引關注】當地時間9日，美軍中央司令部稱完成了對伊朗的“自衛性打擊”。此次打擊是對8日一架美軍直升機被擊落的回應。值得關注的是，就在軍事行動發生前，特朗普政府仍在推動與伊朗達成新的和平協議。特朗普此前還表示，美伊談判距離取得突破可能只剩數天時間。有分析認為，此次軍事打擊雖然規模有限，但無疑給原本脆弱的外交程序增添了新的不確定性。也有分析稱，從美軍最新表態來看，中央司令部強調將繼續保持高度警戒狀態，並維持必要兵力部署，以應對可能出現的進一步威脅。這也意味著，雖然美方將此次行動定義為“有限且自衛性質的回應”，但未來幾天雙方是否會進一步升級軍事對抗，仍將是外界關注的焦點。（央視）"
+    },
+    {
+      "id": "te:markets:557888",
+      "time": "2026-06-10 12:33:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises on Second Day — India’s BSE Sensex rose about 0.7% to 74,402 at the open on Wednesday, extending gains from the previous session despite mounting geopolitical tensions in the Middle East that continued to cloud investor sentiment. The benchmark index advanced despite broader weakness across Asian markets, as investors balanced support from the Reserve Bank of India's recent liquidity and forex measures against renewed concerns over escalating Middle East tensions, which drove oil prices higher. The index was driven higher by gains in consumer non-durables, with top performers including Hindustan (+2.9%), Cupid (+2.7%), Nestle (+2.8%), COLPAL (+2.9%), and Varun (+1.0%). Other notable gainers across sectors included Meesho (+1.7%), Himadri (+1.6%), Reliance (+2.1%), Afcons (+5.9%), and TCS (+1.2%). Meanwhile, investors will continue to monitor developments in the Middle East, movements in crude oil prices, foreign portfolio flows, and the rupee for further direction throughout the session."
+    },
     {
       "id": "mkt:019eafcd-6b5f-799a-b41b-bd6cad3736e2",
       "time": "2026-06-10 12:32:15",
@@ -172801,38 +172899,6 @@
         "國際"
       ],
       "text": "【日本國債下跌，受可能的技術性回撥影響】日本國債在東京市場價格下跌，這可能是由於大多數日本主權債券在週二錄得穩健的價格漲幅後出現的技術性回撥。市場焦點普遍預計將集中在日本央行行長植田和男今日晚些時候在東京舉行的Kisaragi-kai會議上的講話，以尋找有關該央行加息軌跡的線索。在5月下旬的一次國際會議上，植田和男沒有就日本央行下一步行動的時機給出任何暗示。日本央行的下一次會議定於6月15日至16日舉行。日本五年期國債收益率上升5個基點，至1.905%；日本30年期國債收益率上升1.0個基點，至3.855%；日本10年期國債收益率上漲5個基點，至2.615%。"
-    },
-    {
-      "id": "4914237",
-      "time": "2026-06-03 12:35:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將考慮重新審視汽油補貼政策。"
-    },
-    {
-      "id": "4914236",
-      "time": "2026-06-03 12:34:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤下跌0.4%，至170,402.70點。"
-    },
-    {
-      "id": "4914235",
-      "time": "2026-06-03 12:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF華泰柏瑞：將於2026年6月3日下午開市起至當日收市停牌。"
-    },
-    {
-      "id": "4914234",
-      "time": "2026-06-03 12:34:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【名創優品非會員無法買單？客服回應：僅盲盒類需會員，其他憑個人意願】近日，多名消費者在社交平臺反映，在名創優品門店購物時遭遇“非會員無法結賬”的強制要求，甚至連購買紙巾、驅蚊液等普通日用品也被要求註冊會員。6月3日，就此事諮詢名創優品客服，對方表示：“目前是購買盲盒類產品時，需要出示有效會員憑證後方可完成銷售。除潮玩外的其他產品在購買時，根據您個人意願，看是否需要出示會員憑證。”該客服還表示，如果遇到購買非潮玩商品也被要求出示會員憑證的情況，可以線上上反饋。（介面新聞）"
     }
   ]
 }
