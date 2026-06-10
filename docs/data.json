@@ -1,7 +1,131 @@
 {
-  "updated": "2026-06-10 13:49:06",
-  "count": 18705,
+  "updated": "2026-06-10 13:56:51",
+  "count": 18693,
   "items": [
+    {
+      "id": "mkt:019eb019-ed65-799a-b41c-d13dd183b018",
+      "time": "2026-06-10 13:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share banking sector climbed in choppy trade; Xiamen Bank rose nearly 7%, Qingdao Bank gained over 5%, and China CITIC Bank, Qilu Bank and Chengdu Bank also advanced."
+    },
+    {
+      "id": "4927384",
+      "time": "2026-06-10 13:55:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行板塊震盪走高，廈門銀行漲近7%】銀行板塊震盪走高，廈門銀行漲近7%，青島銀行漲超5%，中信銀行、齊魯銀行、成都銀行跟漲。"
+    },
+    {
+      "id": "4927383",
+      "time": "2026-06-10 13:55:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔集團董事長納塔拉詹·錢德拉塞卡蘭預測，未來人工智慧代理將取代塔塔諮詢服務公司一半的工作崗位。"
+    },
+    {
+      "id": "4927382",
+      "time": "2026-06-10 13:54:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "印度市場監管機構：就修訂資產管理公司高管薪酬披露相關規定釋出諮詢檔案。"
+    },
+    {
+      "id": "4927381",
+      "time": "2026-06-10 13:53:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國據悉將重啟加入《全面與進步跨太平洋夥伴關係協定》（CPTPP）的審議。"
+    },
+    {
+      "id": "mkt:019eb017-f29b-799a-b41c-c918256e2aa0",
+      "time": "2026-06-10 13:53:39",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Bank of America raises Oracle (ORCL.N) PT to $240 from $200."
+    },
+    {
+      "id": "4927380",
+      "time": "2026-06-10 13:53:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將甲骨文目標股價從200美元上調至240美元。"
+    },
+    {
+      "id": "4927379",
+      "time": "2026-06-10 13:52:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【火山方舟版權商業化平臺上線 周星馳比高集團三大電影IP首批入駐】6月10日，火山方舟版權商業化平臺正式上線。火山引擎與周星馳旗下比高集團達成版權合作，獲得《喜劇之王》《長江七號》《食神》三部經典電影的AI影片創作版權授權，並依託Seedance 2.0技術能力，打造出影片經典橋段AI創作模板。目前，模板已在火山方舟體驗中心、火山引擎Kickart上線，也同步開放給LibTV、筷子科技麗幀引擎、萬興劇廠、萬興喵影、Pixmax 、奈米P影片、快剪輯、360 AI智剪、美片等工具合作伙伴平臺。"
+    },
+    {
+      "id": "4927378",
+      "time": "2026-06-10 13:51:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部長稱：合作伙伴敦促該國增加石油供應。"
+    },
+    {
+      "id": "4927377",
+      "time": "2026-06-10 13:51:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【許昌釋出網約車行業風險預警提醒：運力趨飽和，收入不穩定】據“許昌釋出”微信公眾號，6月10日，河南許昌市交通運輸局釋出中心城區網約車行業風險預警提醒，建議有意在市區從事網約車經營的企業和個人深入瞭解經營風險，增強風險意識，謹慎進入網約車市場。許昌市交通運輸局表示，為進一步維護好許昌市中心城區網約車公平競爭的市場秩序，引導社會資金、人員等資源要素理性進入，促進行業健康平穩發展，根據交通運輸部等六部委《網路預約出租汽車經營服務管理暫行辦法》《許昌市中心城區網路預約出租汽車經營服務管理暫行辦法》等相關檔案精神，現釋出許昌市中心城區網約車行業風險預警提醒函。"
+    },
+    {
+      "id": "4927376",
+      "time": "2026-06-10 13:50:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報8067.20點。"
+    },
+    {
+      "id": "4927375",
+      "time": "2026-06-10 13:49:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非警方表示，南非約翰內斯堡發生一起槍擊事件，造成至少12人死亡、9人受傷。"
+    },
+    {
+      "id": "4927374",
+      "time": "2026-06-10 13:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯4月工業生產同比下降19.1%。"
+    },
+    {
+      "id": "4927373",
+      "time": "2026-06-10 13:48:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工板塊大幅調整，ST際華等跌停】軍工板塊大幅調整，ST際華、國機精工、*ST大立、*ST天箭、*ST寶實、*ST春興、ST海龍跌停，長進光子、鉑力特、航天環宇、泰和新材、萬澤股份、龍溪股份等跟跌。"
+    },
     {
       "id": "4927372",
       "time": "2026-06-10 13:47:47",
@@ -172420,243 +172544,6 @@
         "國際"
       ],
       "text": "【科威特國際機場因襲擊暫停起降】科威特民航總局今天（6月3日）上午釋出訊息稱，科威特國際機場1號航站樓在當天早間的“敵對”無人機襲擊中被嚴重損毀，襲擊還造成現場多人受傷。受此影響，民航部門已暫停在科威特國際機場的飛機起降，並啟動了應急計劃。科威特國防部發言人在一份宣告中稱無人機襲擊是“伊朗的侵略行徑”，並強調科威特軍方正在與相關部門密切關注相關局勢，並已做好充分準備應對事態變化，確保將採取一切必要措施維護國家安全與穩定。"
-    },
-    {
-      "id": "4914339",
-      "time": "2026-06-03 13:56:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲復興開發銀行預測，烏克蘭2026年GDP將增長2.2%。"
-    },
-    {
-      "id": "4914338",
-      "time": "2026-06-03 13:56:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭計劃禁止小學生在校使用手機】波蘭總理圖斯克2日表示，波蘭計劃自9月1日起禁止小學生在校使用手機。波蘭政府當天透過《教育法》修正案草案，小學生將被禁止在校園內使用手機，包括課間休息以及在校外組織的教育活動期間。具有錄音、錄影和資訊通訊功能的電子裝置同樣受到限制。波蘭小學教育學制為8年，面向7至15歲的兒童。草案還將提交波蘭眾議院和參議院審議，並交由總統簽署。根據安排，該法將於今年9月1日正式生效。"
-    },
-    {
-      "id": "4914337",
-      "time": "2026-06-03 13:55:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本四大車企5月在美銷量增加6% 汽油漲價帶動混動車熱銷】日本四大汽車廠商2日公佈資料稱，5月美國新車銷量總計為48.4517萬輛，比上年同期增加6.1%。豐田汽車比上年微減，但在旺盛的新車需求刺激下，各公司均銷售勢頭良好。在中東局勢導致汽油價格上漲等背景下，混合動力車（HV）增勢明顯。"
-    },
-    {
-      "id": "4914336",
-      "time": "2026-06-03 13:55:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "塔塔諮詢公司股價下跌8.4%，創2021年2月以來最大跌幅。"
-    },
-    {
-      "id": "4914335",
-      "time": "2026-06-03 13:54:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本召開臨時內閣會議 正式決定2026財年補充預算案】日本政府於6月3日上午召開臨時內閣會議，正式決定2026財年補充預算案。補充預算案中，一般會計支出總額為31135億日元。在支出方面，包括向地方政府提供“重點支援地方交付金”，預計將用於支援液化石油氣使用者等措施，計1000億日元；將因電費、燃氣費補貼而動用的預備費恢復至原先的1萬億日元規模，計5135億日元；設立應對中東局勢預備費，以防能源價格上漲等因素對經濟造成影響，計2.5萬億日元。在收入方面，31135億日元的資金將全部透過發行赤字國債來籌措。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019e8c0b-e959-7ee2-b141-00f38db60a6a",
-      "time": "2026-06-03 13:54:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) said it will solicit feedback from publishers and creators and engage the UK’s Competition and Markets Authority (CMA) and other regulators to ensure website owners have appropriate tools."
-    },
-    {
-      "id": "4914334",
-      "time": "2026-06-03 13:54:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：傾聽出版商和創作者的反饋，並與英國競爭與市場管理局 (CMA) 等監管機構合作，以確保網站所有者擁有合適的工具。"
-    },
-    {
-      "id": "mkt:019e8c0b-38bb-7ee2-b140-ff3ef48d4a86",
-      "time": "2026-06-03 13:53:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) rolled out tools to help website owners respond to AI in search, adding new features to Search Console and a Performance Insights blog."
-    },
-    {
-      "id": "4914333",
-      "time": "2026-06-03 13:53:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：推出新工具幫助網站所有者應對搜尋領域的人工智慧應用，其中包括搜尋控制檯的全新控制功能與成效分析。"
-    },
-    {
-      "id": "4914332",
-      "time": "2026-06-03 13:53:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至17,930的歷史新低。"
-    },
-    {
-      "id": "4914331",
-      "time": "2026-06-03 13:53:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美銀證券高管表示，受能源危機影響，印度盧比兌美元匯率到7月可能跌至98比1。"
-    },
-    {
-      "id": "mkt:019e8c0a-7ab5-7ee2-b140-f0580268be15",
-      "time": "2026-06-03 13:52:37",
-      "tags": [
-        "MKT News",
-        "TATAMOTORS.NS"
-      ],
-      "text": "Sources: Tata Motors said the first Avinya model will use the Freelander platform produced by the Chery–Jaguar Land Rover joint venture."
-    },
-    {
-      "id": "te:markets:555990",
-      "time": "2026-06-03 13:52:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Reverses Morning Gains, Closes Down 0.4% — The NZX 50 fell 56 points, or 0.4%, to close at 13,115 on Wednesday, reversing morning gains and extending losses from the previous session, mainly weighed down by materials, industrials, and consumer staples stocks. Traders remained cautious amid uncertainty surrounding the US-Iran peace talks. Disappointing economic data also pressured sentiment, with New Zealand's merchandise terms of trade declining more than expected in the first quarter of 2026, indicating reduced purchasing power for New Zealand exporters despite rising export volumes. However, losses were capped by stronger building consents data, as new dwelling consents rebounded 10.9% in April. Among the biggest laggards were Mainfreight (-3.5%), Ebos Group (-2.5%), and Ventia Services Group (-1.7%), while Sky Network Television and Turners Automotive each fell 1.6%."
-    },
-    {
-      "id": "4914330",
-      "time": "2026-06-03 13:52:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔表示，首款Avinya車型將採用奇瑞與捷豹路虎合資企業生產的Freelander平臺打造。"
-    },
-    {
-      "id": "mkt:019e8c09-23f9-7ee2-b140-e809cd60262c",
-      "time": "2026-06-03 13:51:08",
-      "tags": [
-        "MKT News",
-        "TATAMOTORS.NS"
-      ],
-      "text": "Sources say Tata Motors will use the platform to produce at least two electric vehicles under its high-end Avinya brand. Tata plans to launch the first Avinya EV in 2027 and a second in 2029, and is in talks to possibly add two more models."
-    },
-    {
-      "id": "4914329",
-      "time": "2026-06-03 13:50:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【璞泰來在四川成立高聚材料科技公司】企查查APP顯示，近日，四川高聚材料科技有限公司成立，註冊資本1億元，經營範圍包含：新型膜材料製造；新型膜材料銷售；新材料技術研發；電子專用材料製造等。企查查股權穿透顯示，該公司由璞泰來全資持股。"
-    },
-    {
-      "id": "mkt:019e8c08-da68-7ee2-b140-e1932da70215",
-      "time": "2026-06-03 13:50:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "TATAMOTORS.NS",
-        "Impact bullish"
-      ],
-      "text": "Sources say India's Tata Motors will license its vehicle platform to China's Chery Automobile to accelerate Chery's market launch of premium electric vehicles."
-    },
-    {
-      "id": "4914328",
-      "time": "2026-06-03 13:50:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【矽業分會：預計6月國內多晶矽產量將增加至9-9.1萬噸】矽業分會訊息，據安泰科統計，n型復投料（棒狀矽）成交價格區間為3.4-3.5萬元/噸，成交均價為3.47萬元/噸，環比下滑1.70%；n型顆粒矽成交價格區間為3.3-3.5萬元/噸，成交均價為3.40萬元/噸，環比下滑0.87%。根據企業排產計劃，6月份多晶矽市場將進入供需雙增階段。供應端，預計5家企業有復產增量釋放，同時另有一家企業安排檢修，綜合影響下，預計6月國內多晶矽產量將增加至9-9.1萬噸。需求端，下游矽片排產也有提升預期，對應多晶矽需求量預計在8.7萬噸左右。綜合判斷，6月份市場或將處於微幅累庫或供需緊平衡狀態，但在行業庫存尚未實現有效去化的前提下，供應增量的預期對市場情緒影響更為直接。下游需求的增長預期是否能有效消化這部分供應增量並實現真正的平衡，將是影響未來市場走勢的關鍵。"
-    },
-    {
-      "id": "4914327",
-      "time": "2026-06-03 13:50:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：扎波羅熱核電站暫時失去外部電源。"
-    },
-    {
-      "id": "4914326",
-      "time": "2026-06-03 13:50:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，塔塔將依託該平臺為其高階品牌Avinya生產至少兩款電動汽車。"
-    },
-    {
-      "id": "te:markets:555989",
-      "time": "2026-06-03 13:50:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Hits 8-week Low — The South Korean Won touched 1523.00 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar South Korean Won gained 2.93%, and in the last 12 months, it increased 11.56%."
-    },
-    {
-      "id": "4914325",
-      "time": "2026-06-03 13:49:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，塔塔計劃2027年推出首款Avinya系列電動汽車，2029年推出第二款，目前正就新增兩款車型進行洽談。"
-    },
-    {
-      "id": "4914324",
-      "time": "2026-06-03 13:49:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，印度塔塔汽車將從中國奇瑞汽車授權獲取汽車平臺，以加快高階電動汽車的推出進度。"
-    },
-    {
-      "id": "4914323",
-      "time": "2026-06-03 13:49:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【晶片電感概念震盪拉昇 麥捷科技、美信科技雙雙漲超10%創歷史新高】午後晶片電感概念震盪拉昇，麥捷科技、美信科技漲超10%，雙雙創歷史新高，科瑞思、屹通新材、鉑科新材、悅安新材跟漲。"
-    },
-    {
-      "id": "4914322",
-      "time": "2026-06-03 13:49:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達90億港元。"
-    },
-    {
-      "id": "4914321",
-      "time": "2026-06-03 13:49:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中煤在武漢成立新能源公司】企查查APP顯示，近日，中煤資源（武漢）新能源有限公司成立，註冊資本6500萬元，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。"
     }
   ]
 }
