@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-10 08:29:24",
-  "count": 18687,
+  "updated": "2026-06-10 08:33:17",
+  "count": 18689,
   "items": [
+    {
+      "id": "4926886",
+      "time": "2026-06-10 08:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元升值超1%。"
+    },
+    {
+      "id": "mkt:019eaef1-92b0-7ff4-a103-402c961ce534",
+      "time": "2026-06-10 08:32:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "South Korean won rose more than 1% against the dollar after South Korea's Finance Ministry said it would inspect speculative trading in the foreign-exchange market."
+    },
+    {
+      "id": "4926885",
+      "time": "2026-06-10 08:31:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國：將協調一致落實各項宏觀政策。"
+    },
+    {
+      "id": "mkt:019eaef0-ef7d-7ff4-a103-3afc2423bf92",
+      "time": "2026-06-10 08:31:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 1.00% intraday at $92.04/bbl."
+    },
+    {
+      "id": "4926884",
+      "time": "2026-06-10 08:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省委副書記、省長周乃翔深入煤礦井下督導安全生產】6月9日，山東省委副書記、省長周乃翔在棗莊滕州市檢查督導煤礦安全生產工作並主持召開座談會。他指出，安全生產是人命關天的大事，一刻也不能鬆懈。（澎湃）"
+    },
+    {
+      "id": "4926883",
+      "time": "2026-06-10 08:30:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱，將努力穩定民生經濟，降低風險。"
+    },
+    {
+      "id": "4926882",
+      "time": "2026-06-10 08:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額下跌0.1%至14,522.2億元。"
+    },
+    {
+      "id": "4926881",
+      "time": "2026-06-10 08:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱金融業波動性擴大。"
+    },
+    {
+      "id": "4926880",
+      "time": "2026-06-10 08:29:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟對Meta採取臨時措施，要求其暫停對AI競爭對手的WhatsApp接入限制】當地時間6月9日，歐盟已下令Meta恢復競對通用型AI助手對WhatsApp的免費訪問許可權，並維持該狀態直至委員會的反壟斷調查結束。歐盟委員會稱，此舉旨在防止Meta的行為對這一快速增長的市場造成嚴重且不可彌補的損害。其表示，初步證據表明，Meta已違反了歐盟競爭規則。"
+    },
+    {
+      "id": "4926879",
+      "time": "2026-06-10 08:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產硼藥聯合國產BNCT裝置I期臨床治療後30天觀察期結束，安全性獲關鍵驗證，預計今年第三季度將啟動II期臨床】近日，由海南普利製藥股份有限公司（簡稱“普利製藥”）、國科中子醫療科技有限公司（簡稱“國科中子”）、中國科學院高能物理研究所、雜湊中子源科學中心以及南方醫科大學第十附屬醫院（東莞市人民醫院）聯合開展的硼中子俘獲治療（Boron Neutron Capture Therapy，BNCT）I期臨床試驗，迎來關鍵里程碑——全部複發性頭頸部惡性腫瘤受試者的治療後30天觀察期正式結束。這一關鍵節點的達成，標誌著中國高階中子醫療裝備與創新硼藥的研發在臨床轉化應用中取得實質性突破，為後續關鍵性註冊臨床研究奠定了堅實基礎。預計今年第三季度啟動II期臨床。"
+    },
     {
       "id": "4926878",
       "time": "2026-06-10 08:28:01",
@@ -172459,81 +172550,6 @@
         "觀點"
       ],
       "text": "【中金：特斯拉FSD全球版圖擴張 或加速全球智駕滲透率提升】中金髮布研報稱，特斯拉FSD全球版圖擴張速度加快，預計或加速全球智駕滲透率提升。同時，特斯拉對高階智駕及Robotaxi帶來鯰魚效應，進一步提升消費者對智慧駕駛的接受度，從而推動產業鏈進入放量週期。FSD的出海版圖擴張至10個國家，其中對於中國市場，特斯拉已在資料合規、自建算力中心、以及與國內圖商深度合作獲取資質等方面做了充分準備。得益於FSDv14體驗提升，FSD行駛里程及訂閱率實現快速增長，該行認為，隨著FSD進入全球多個市場，且FSD逐步切換至訂閱模式，推動智駕軟體收費商業模式，同時推動全球智駕滲透率進一步提升。"
-    },
-    {
-      "id": "mkt:019e8ae6-4678-733d-881d-515329c781de",
-      "time": "2026-06-03 08:33:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Qianxun Intelligence raises CNY1.5bn in A+ round】June 3 — Qianxun Intelligence said it raised CNY1.5bn in an A+ financing round from a mix of top-tier US dollar funds, large strategic industry investors and state-backed capital, with existing shareholders increasing their stakes. Proceeds will be allocated to three areas: R&D and iteration of a next‑generation embodied AI base model, building a global real‑data infrastructure, and scaling commercial deployment across multiple industry scenarios. This is Qianxun’s fourth fundraising round in three months, bringing total proceeds to nearly CNY5.0bn."
-    },
-    {
-      "id": "te:markets:555885",
-      "time": "2026-06-03 08:32:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Record-Setting Session — US stock futures were little changed on Wednesday after the major averages closed at a new record high in the previous session. On Tuesday, the Dow advanced 0.45%, the S&P 500 gained 0.13%, and the Nasdaq Composite edged up 0.03%. Eight of the 11 S&P sectors closed in positive territory, with utilities, materials, and industrials leading the gains. Technology shares also remained in focus, particularly among semiconductor manufacturers and AI infrastructure firms. Hewlett Packard Enterprise jumped 19.5% after raising its outlook on the back of strong AI-related demand, while Marvell Technology surged 32.5% following comments from Nvidia CEO Jensen Huang suggesting the company could become the next trillion-dollar enterprise. Investors also continued to monitor developments in US-Iran peace negotiations, where mixed signals from both sides kept geopolitical uncertainty elevated."
-    },
-    {
-      "id": "4913864",
-      "time": "2026-06-03 08:31:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千尋智慧再獲15億元A+輪融資】6月3日，千尋智慧宣佈再獲15億元A+輪融資，股東包含一線美元基金、大型產業投資方以及國資基金，老股東持續加碼。至此，千尋智慧已構築起頂級財務PE、國際美元基金、實業產業資本、各地方國資等全方位合圍的資本陣容。據悉，本輪所融資金，將聚焦三大核心方向投入使用：新一代具身智慧基座模型持續研發迭代、全球化真實資料基礎設施體系建設、多行業場景規模化商業落地推進。至此，千尋智慧在3個月內完成四輪密集融資，累計融資額已近50億元。同時，千尋智慧宣佈自研具身基座模型Spirit v1.6在被稱為北美具身智慧“奧林匹克”的RoboArena中登頂，成為首個登頂的中國具身模型。"
-    },
-    {
-      "id": "4913863",
-      "time": "2026-06-03 08:31:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX執行長埃隆·馬斯克將在SpaceX IPO後面臨366天的股票鎖定期。"
-    },
-    {
-      "id": "4913862",
-      "time": "2026-06-03 08:31:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本標普全球5月服務業採購經理人指數為50.0，與初值一致；日本5月綜合採購經理人指數終值 51.1，與初值一致。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606033758218983",
-      "time": "2026-06-03 08:30:38",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本5月綜合PMI終值報51.1，前值51.1；5月服務業PMI終值報50，前值50。"
-    },
-    {
-      "id": "mkt:019e8ae3-68e6-733d-881d-4be1b93898b9",
-      "time": "2026-06-03 08:30:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong May S&P Global manufacturing PMI 50.4; prior 48.6."
-    },
-    {
-      "id": "4913861",
-      "time": "2026-06-03 08:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國新澤西州發生槍擊事件 兩名警察中槍】當地時間6月2日下午，美國新澤西州大西洋城發生一起槍擊事件，兩名警察中槍，嫌疑人死亡。據大西洋城市長介紹，事件發生於當天15時左右，當時警方正在執行一份搜查令。槍擊事件經過尚不清楚，但一名男性嫌疑人被警方開槍擊中後身亡，其身份尚未公佈。事件中有兩名警員中槍受傷，其中一人傷勢危及生命。警方表示，目前不存在針對公眾的安全威脅，調查仍在進行當中。"
     }
   ]
 }
