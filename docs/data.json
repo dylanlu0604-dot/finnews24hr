@@ -1,7 +1,220 @@
 {
-  "updated": "2026-06-10 09:36:23",
-  "count": 18739,
+  "updated": "2026-06-10 09:40:15",
+  "count": 18742,
   "items": [
+    {
+      "id": "te:economy:557824",
+      "time": "2026-06-10 09:39:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "China Food Prices Extend Decline — China’s food prices fell 1.7% year-on-year in May 2026, following a 1.6% decline in the previous month. It was the second straight month of decrease and the steepest pace since last October."
+    },
+    {
+      "id": "mkt:019eaf2f-4a89-7993-ad59-44c355fa71c3",
+      "time": "2026-06-10 09:39:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "CNH"
+      ],
+      "text": "Sci‑Tech Innovation 50 Index (STAR 50) rose more than 2% intraday as the semiconductor sector rallied; constituents included China's CPU maker Haiguang, up over 10%, Shanghai Silicon Industry, up over 7%, and Cambricon, up over 4%."
+    },
+    {
+      "id": "te:economy:557823",
+      "time": "2026-06-10 09:39:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Inflation Nears 4-Year High — China’s producer prices increased 3.9% year-on-year in May 2026, accelerating from a 2.8% rise in the previous month and surpassing market forecasts of 3.8%. It was the second consecutive monthly increase and the fastest pace since July 2022, driven by soaring global commodity and energy prices amid supply disruptions stemming from the war in Iran."
+    },
+    {
+      "id": "mkt:019eaf2f-092f-7993-ad59-386960304174",
+      "time": "2026-06-10 09:39:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【U.S. official says latest strike on Iran will not impede talks to end the war】A U.S. official said the recent retaliatory strike was intended as a warning to Iran and that U.S. officials do not believe it will impede negotiations to end the war."
+    },
+    {
+      "id": "4927018",
+      "time": "2026-06-10 09:38:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兵裝重組概念板塊拉昇，湖南天雁漲停】兵裝重組概念板塊拉昇，湖南天雁漲停，東安動力、長城軍工、建設工業、華強科技跟漲。"
+    },
+    {
+      "id": "4927017",
+      "time": "2026-06-10 09:38:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲2%，現報4789.00元。"
+    },
+    {
+      "id": "mkt:019eaf2e-38a5-7993-ad59-358d46a2a76a",
+      "time": "2026-06-10 09:38:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China A-share energy and metals sector strengthened in early trade; Zhongkuang Resources and Shengxin Lithium Energy rose over 4%, while Yongxing Materials, Ganfeng Lithium, Tibet Mining and TTANQT LITHIUM also gained."
+    },
+    {
+      "id": "4927016",
+      "time": "2026-06-10 09:38:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停】工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停，中船特氣、凱美特氣、中泰股份、杭氧股份、金宏氣體、廣鋼氣體等跟漲。"
+    },
+    {
+      "id": "mkt:019eaf2d-edfb-7993-ad59-2fb1589f66a0",
+      "time": "2026-06-10 09:38:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump will sign the Secure America Act tomorrow at 10:00 a.m. local time (22:00 Beijing time) in the Oval Office; the ceremony will be open to the White House press pool."
+    },
+    {
+      "id": "4927015",
+      "time": "2026-06-10 09:38:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品飲料行業板塊異動拉昇，元祖股份漲停】食品飲料行業板塊異動拉昇，元祖股份漲停，金字火腿、惠泉啤酒、百潤股份、歐福蛋業、迎駕貢酒、安井食品等跟漲。"
+    },
+    {
+      "id": "4927014",
+      "time": "2026-06-10 09:37:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【環氧丙烷板塊走高，紅寶麗漲停】環氧丙烷板塊走高，中化國際2連板，紅寶麗漲停，美邦科技、紅牆股份、國恩股份、石大勝華、維遠股份跟漲。"
+    },
+    {
+      "id": "4927013",
+      "time": "2026-06-10 09:37:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【物理AI概念反覆活躍 天娛數科4連板】物理AI概念反覆活躍，天娛數科4連板，能科科技、凡拓數創、索辰科技跟漲。"
+    },
+    {
+      "id": "4927012",
+      "time": "2026-06-10 09:37:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【測繪股份成立地理資訊公司，含AI及衛星相關業務】企查查APP顯示，近日，南京江新地理資訊有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；智慧水務系統開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由測繪股份全資持股。"
+    },
+    {
+      "id": "4927011",
+      "time": "2026-06-10 09:37:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019eaf2d-5d23-7993-ad59-2325cd12cdc5",
+      "time": "2026-06-10 09:37:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Baiwei Storage shares rose more than 5% after the company signed a $1.861 billion contract to purchase enterprise-grade flash memory chips."
+    },
+    {
+      "id": "4927010",
+      "time": "2026-06-10 09:37:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鐳射雷達板塊大幅調整，XD美湖股跌停】鐳射雷達板塊大幅調整，XD美湖股跌停，天孚通訊、騰景科技、光庫科技、長光華芯、炬光科技、美迪凱等跟跌。"
+    },
+    {
+      "id": "4927009",
+      "time": "2026-06-10 09:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱最新對伊打擊不會阻礙雙方談判】據美國方面9日訊息稱，一名美國官員表示，美軍最新發動的報復性打擊是為了警告伊朗，美方認為此次打擊不會阻礙關於結束戰爭的談判。美軍中央司令部9日在社交媒體發文稱，美軍當天對伊朗實施打擊，以回應美軍一架“阿帕奇”武裝直升機被伊朗擊落事件。（央視）"
+    },
+    {
+      "id": "4927008",
+      "time": "2026-06-10 09:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾價格集體跳水，跌破1300元】6月10日亞洲早盤，黃金白銀盤中持續下挫，均跌超1.4%。國際金價跌破4200美元關口。前一日，金銀油亦全線下跌。現貨黃金、COMEX黃金期貨均跌超1%；現貨白銀、COMEX白銀期貨均跌超4%。6月10日，國內多家品牌金飾價格大幅下調，集體跌破1300元/克。周生生足金飾品報1277元/克，較前一日1322元/克大跌45元；老廟黃金足金飾品報1283元/克，相較前一日1317元/克大跌34元；老鳳祥足金飾品報1276元/克，相較前一日1316/克大跌40元。"
+    },
+    {
+      "id": "4927007",
+      "time": "2026-06-10 09:36:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【農林牧漁板塊開盤快速拉昇，京基智農漲停】農林牧漁板塊開盤快速拉昇，京基智農漲停，賢豐控股、眾興菌業、天康生物等跟漲。"
+    },
+    {
+      "id": "4927006",
+      "time": "2026-06-10 09:36:20",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：5月份CPI環比下降主要是受能源和服務價格變動影響】國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI資料，從環比看，全國CPI下降0.1%，上月為上漲0.3%，主要是受能源和服務價格變動影響。受國際油價傳導影響，國內汽油價格由上月上漲12.6%轉為下降0.3%，帶動能源價格由上月上漲5.7%轉為下降0.1%，對CPI環比的影響由上月上拉0.39個百分點轉為下拉0.01個百分點。受“五一”節後出行季節性回落影響，服務價格由上月上漲0.5%轉為下降0.1%，對CPI環比的影響由上月上拉0.22個百分點轉為下拉0.03個百分點。其中，交通工具租賃和飛機票價格分別由上月上漲8.6%和29.2%轉為下降6.8%和6.3%，合計影響CPI環比下降約0.04個百分點。夏裝換季上新帶動服裝價格上漲0.6%，AI相關需求旺盛帶動行動電話機和平板電腦價格分別上漲1.6%和1.1%，上述三項合計影響CPI環比上漲約0.05個百分點。食品價格下降0.4%，降幅比上月收窄1.2個百分點，影響CPI環比下降約0.07個百分點。食品中，應季蔬菜大量上市，鮮菜價格下降3.6%，影響CPI環比下降約0.06個百分點；豬肉供應充足，價格下降1.6%，降幅比上月收窄4.1個百分點，影響CPI環比下降約0.03個百分點；階段性供給偏緊疊加夏季高溫產蛋率下降、端午節前集中備貨等因素影響，雞蛋價格上漲6.1%，影響CPI環比上漲約0.03個百分點。"
+    },
+    {
+      "id": "mkt:019eaf2c-4f34-7993-ad59-1ccd0810bbc9",
+      "time": "2026-06-10 09:36:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【NBS: China CPI -0.1% MoM in May vs +0.3% in April; energy and services drove move】China's national CPI fell 0.1% MoM in May, after a 0.3% MoM rise in April, NBS urban statistics chief Dong Lijuan said. Domestic gasoline swung from +12.6% to -0.3% on international oil-price pass-through; energy CPI moved from +5.7% to -0.1%, shifting its MoM contribution from +0.39 percentage points to -0.01 percentage points. Services prices eased from +0.5% to -0.1% as post-May Day travel declined, with the services contribution to MoM CPI moving from +0.22ppt to -0.03ppt; vehicle rental and airfares alone flipped from +8.6% and +29.2% to -6.8% and -6.3%, together reducing MoM CPI by ~0.04ppt. Seasonal summer clothing (+0.6%) and stronger AI-related demand boosting mobile phones (+1.6%) and tablets (+1.1%) added roughly +0.05ppt to May MoM CPI."
+    },
+    {
+      "id": "4927005",
+      "time": "2026-06-10 09:36:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "半導體板塊盤初拉昇，中晶科技2連板，海光資訊漲超10%，氣派科技、富滿微、康強電子、傑華特跟漲。"
+    },
     {
       "id": "mkt:019eaf2b-e934-7993-ad59-1000601ad8b5",
       "time": "2026-06-10 09:35:50",
@@ -172859,183 +173072,6 @@
         "市場"
       ],
       "text": "銅纜高速連線概念大幅走強，金田股份、鑫科材料雙雙漲停，金信諾漲超15%，顯盈科技、華工科技、神宇股份、中天科技漲超5%。"
-    },
-    {
-      "id": "4913967",
-      "time": "2026-06-03 09:39:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊短線拉昇】元件板塊短線拉昇，一博科技漲停， 迅捷興、晶賽科技漲超10%，達利凱普、麥捷科技、勝宏科技、中富電路、科翔股份等跟漲。"
-    },
-    {
-      "id": "4913966",
-      "time": "2026-06-03 09:39:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量542億元。"
-    },
-    {
-      "id": "4913965",
-      "time": "2026-06-03 09:39:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念震盪拉昇 同有科技漲超10%】儲存晶片概念震盪拉昇，同有科技漲超10%，江波龍、朗科科技、夏農芯創、德明利、兆易創新、大為股份、神工股份跟漲。"
-    },
-    {
-      "id": "mkt:019e8b22-772f-7ee2-b13b-a435b442ca31",
-      "time": "2026-06-03 09:39:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cuba rebuts US sanctions designation of Cuban Enterprise Management Group】The Cuban government on the 2nd rejected US sanctions and allegations against the Cuban Enterprise Management Group, saying the company exists to promote Cuba’s economic and social development. Cuba said the US executive order published May 1 designated the group and threatens secondary sanctions on foreign entities that do business with it, calling the measure the most intense, disproportionate and dangerous escalation in recent bilateral relations aimed at isolating Cuba across diplomatic, commercial, financial and energy sectors and creating a pretext for possible military intervention."
-    },
-    {
-      "id": "4913964",
-      "time": "2026-06-03 09:39:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【古巴駁斥美國對古巴企業管理集團公司指控】古巴政府2日發表宣告，駁斥美國對古巴企業管理集團公司的制裁和指控，強調這家公司旨在促進古巴經濟和社會發展。宣告說，美國5月1日公佈的行政令將古巴企業管理集團公司列為制裁目標，並宣佈對與該公司有業務往來的外國實體實施次級制裁。美方行政令是近期“美古關係最激烈、最不成比例和最危險的升級”，目的是從外交、商業、金融和能源領域全面孤立古巴，併為可能的軍事幹預製造藉口。（新華社）"
-    },
-    {
-      "id": "4913963",
-      "time": "2026-06-03 09:38:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國政府朝鮮半島事務特別代表劉曉明同俄羅斯副外長魯登科舉行磋商】2026年6月1日，中國政府朝鮮半島事務特別代表劉曉明在莫斯科同俄羅斯副外長魯登科舉行磋商，雙方就東北亞和朝鮮半島局勢深入交換意見。雙方一致認為，維護東北亞和朝鮮半島和平穩定符合地區國家共同利益和國際社會共同期待，中俄雙方將繼續加強溝通協調，為維護東北亞地區長治久安發揮建設性作用。（外交部）"
-    },
-    {
-      "id": "mkt:019e8b21-6312-7ee2-b13b-9b9a99047bac",
-      "time": "2026-06-03 09:37:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "Mainland A-share semiconductor sector rallied: Yutai Micro up >15%, Youxun and Shengke Communication up >10%, Kangqiang Electronics hit the daily trading limit; Diao Micro, Yangjie Technology and Maxscend among top gainers."
-    },
-    {
-      "id": "4913962",
-      "time": "2026-06-03 09:37:57",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【標普全球香港5月PMI升至50.4，重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。企業5月新出口訂單有實質增長，且擴張速度加快，受新產品上市帶動；但競爭激烈加上本地需求較弱，整體銷情受壓。企業營運成本壓力仍大，採購價格升幅創4年半最高，燃油相關產品升幅更大。有受訪公司為刺激銷量推出減價優惠，產出售價整體升幅比4月收窄。員工成本溫和上升，增幅為3月以來最小。"
-    },
-    {
-      "id": "mkt:019e8b21-01d3-7ee2-b13b-934af1f31ef6",
-      "time": "2026-06-03 09:37:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CENTCOM says it shot down Iranian drones targeting U.S. forces in Kuwait】CENTCOM said on social media on June 3 that Iran launched a new wave of drone attacks attempting to strike U.S. forces in Kuwait but failed to hit intended targets. CENTCOM air defenses shot down multiple drones, and U.S. personnel and equipment were reported unharmed."
-    },
-    {
-      "id": "em:jjsj_zgsj:202606033758475477",
-      "time": "2026-06-03 09:37:30",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【標普全球香港5月PMI升至50.4 重返擴張區間】標普全球公佈，經季節調整後，5月香港採購經理指數（PMI）升至50.4，高過4月的48.6，是3個月以來首次重返50以上擴張區間，營商環境重拾景氣，受新訂單微升帶動。"
-    },
-    {
-      "id": "4913961",
-      "time": "2026-06-03 09:37:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "ST海王盤中跌停，上演“天地板”，現報1.76元，成交額1.09億元。"
-    },
-    {
-      "id": "4913960",
-      "time": "2026-06-03 09:37:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊走強 裕太微漲超15%】半導體板塊走強，裕太微漲超15%，優迅股份、盛科通訊漲超10%，康強電子漲停，帝奧微、揚傑科技、卓勝微漲幅居前。"
-    },
-    {
-      "id": "4913959",
-      "time": "2026-06-03 09:37:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST聞泰盤中跌停，上演“天地板”，現報21.65元，成交額7.69億元。"
-    },
-    {
-      "id": "4913958",
-      "time": "2026-06-03 09:37:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝概念盤初活躍 康強電子漲停】早盤先進封裝概念活躍，康強電子漲停，通富微電逼近漲停，晶方科技、士蘭微、華潤微、長電科技、雅克科技跟漲。"
-    },
-    {
-      "id": "mkt:019e8b20-6db7-7ee2-b13b-8f6b04dcfc12",
-      "time": "2026-06-03 09:36:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share glass-substrate names continued to rally; Hongxing Development notched five daily limit-ups in seven sessions, TCL Technology briefly neared the daily limit, and Meidike, Hongli Zhihui, BOE A and Woge Optoelectronics also advanced."
-    },
-    {
-      "id": "4913957",
-      "time": "2026-06-03 09:36:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美稱擊落伊朗襲科威特美軍無人機】美軍中央司令部今天（6月3日）在社交媒體平臺最新發帖稱，“伊朗發動新一輪無人機襲擊，試圖攻擊駐科威特美軍，但未能命中預定目標。美國中央司令部防空系統成功擊落多架無人機，確保美方人員及裝備均未受損。”"
-    },
-    {
-      "id": "mkt:019e8b20-2cd3-7ee2-b13b-835ba15a1a52",
-      "time": "2026-06-03 09:36:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "China's ChiNext index rose as much as 1% intraday, the Shenzhen Composite Index gained 0.5% and the Shanghai Composite Index was down 0.2%."
-    },
-    {
-      "id": "4913956",
-      "time": "2026-06-03 09:36:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "ST洲際盤中跌停，上演“天地板”，現報2.9元，成交額2.91億元。"
-    },
-    {
-      "id": "4913955",
-      "time": "2026-06-03 09:36:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }
