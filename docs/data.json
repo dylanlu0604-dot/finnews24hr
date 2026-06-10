@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-10 21:13:03",
-  "count": 18543,
+  "updated": "2026-06-10 21:16:57",
+  "count": 18539,
   "items": [
+    {
+      "id": "te:markets:558072",
+      "time": "2026-06-10 21:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Falls to Late-2025 Lows — Gold prices extended their decline toward $4,150 per ounce on Wednesday, reaching levels last seen in late November 2025, as US inflation data largely matched expectations and the Iran conflict intensified. Headline inflation rose to 4.2% in May, its highest since April 2023, fueled by soaring energy costs tied to the Iran conflict, while the core rate climbed to a seven-month high of 2.9%. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, though a quarter-point increase in December remains fully priced in after stronger-than-expected US employment data last week. Meanwhile, Middle East tensions escalated as the US and Iran exchanged fresh strikes, with President Donald Trump stating that Iran will \"have to pay the price\" for delaying negotiations, undermining a fragile ceasefire and dimming prospects for a broader peace agreement. The conflict has also prolonged the near-total closure of the Strait of Hormuz, pushing up oil prices."
+    },
+    {
+      "id": "4928468",
+      "time": "2026-06-10 21:15:55",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【國務院安委會辦公室聯合三部委約談中國交通建設集團有限公司和中國電力建設集團有限公司】6月10日，國務院安委會辦公室、住房城鄉建設部、交通運輸部、國務院國資委聯合約談中國交通建設集團有限公司、中國電力建設集團有限公司董事長及其有關下屬二級公司主要負責人。約談強調，中國交通建設集團有限公司、中國電力建設集團有限公司要深刻吸取災害事故教訓，切實提高政治站位，真正把安全生產擺在首要位置；要落實事故調查“兩個閉環”要求,堅持問題導向，重拳整治弄虛作假、偷工減料問題；要嚴格分包管理，徹底解決“以包代管、包而不管”問題；要深入開展隱患排查治理，全面提升風險管控水平。今年汛期極端天氣多發，要高度警惕，以更強的決心、更大的力度和更實的舉措抓好安全生產工作。"
+    },
+    {
+      "id": "mkt:019eb1ac-84e1-7dd8-afa2-401af444392e",
+      "time": "2026-06-10 21:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Office of State Council Work Safety Committee and three ministries summon China Communications Construction Group and PowerChina】On June 10 the Office of the State Council Work Safety Committee, the Ministry of Housing and Urban‑Rural Development, the Ministry of Transport and the State‑owned Assets Supervision and Administration Commission (SASAC) jointly summoned the chairmen of China Communications Construction Group and PowerChina and senior heads of certain second‑tier subsidiaries. Regulators told the firms to absorb lessons from recent disaster accidents, raise political priority on safety and put production safety first; implement the accident‑investigation \"two closed‑loop\" requirements; pursue problem‑oriented rectification and crack down on falsification and shoddy workmanship. They ordered stricter subcontracting controls to end 'contracting instead of management', deeper hidden‑hazard inspections and comprehensive upgrades to risk controls. With extreme weather expected during the flood season, the groups were instructed to increase vigilance and take stronger, more decisive measures to secure safety."
+    },
+    {
+      "id": "te:economy:558071",
+      "time": "2026-06-10 21:14:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Ghana Economy Gains Traction in Q1 — The economy of Ghana expanded by 6.4% year-on-year in Q1 2026, faster than 5.8% in the previous three-month period and marking the strongest performance since Q2 2025. Growth continued to be driven mainly by non-oil activities, particularly the services sector. Additional support came from the industrial and agricultural sectors."
+    },
+    {
+      "id": "4928467",
+      "time": "2026-06-10 21:13:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金盾股份：籌劃控制權變更事項，股票停牌】金盾股份6月10日公告，公司大股東王淼根、5%以上股東陳根榮正在籌劃重大事項，該事項可能導致公司控制權發生變動。經公司向深圳證券交易所申請，公司股票自2026年6月11日（星期四）開市起停牌，預計停牌時間不超過2個交易日。"
+    },
+    {
+      "id": "mkt:019eb1aa-8d13-7dd8-afa2-3a473485b5dc",
+      "time": "2026-06-10 21:13:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Apple",
+        "QCOM.O",
+        "Impact bearish",
+        "AAPL.O",
+        "2454.TW"
+      ],
+      "text": "【Q1 2026 global smartphone SoC shipments down 8% YoY, Counterpoint says】Counterpoint Research reports Q1 2026 global smartphone SoC shipments fell 8% YoY; analysts cite persistent memory supply shortages as the main driver. Market share: MediaTek 32%, Qualcomm 23%, Apple 19%, UNISOC 14%, Samsung 7%, HiSilicon 4%."
+    },
+    {
+      "id": "4928466",
+      "time": "2026-06-10 21:13:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國參議員沃倫呼籲美國證券交易委員會推遲SpaceX的IPO】美國參議員沃倫在週二致美國證券交易委員會主席保羅・阿特金斯的信函中提出，希望監管機構暫緩 SpaceX 的上市程序。她表示，此次 IPO “似乎會給普通投資者及其退休儲蓄帶來巨大風險”。這位參議員擔憂，華爾街正熱烈追捧此次上市，納斯達克與富時羅素指數公司還計劃加快將 SpaceX 納入旗下指數，這會倒逼指數基金被動買入該公司股票，一夜之間讓數百萬美國民眾的投資組合都被迫持倉 SpaceX。這封信函大機率無法達到暫緩上市的目的，但其中提出了多項風險顧慮。沃倫對 SpaceX 的估值尤為質疑。該估值參考了馬斯克旗下人工智慧實驗室 xAI 的收購交易，相當於這位億萬富豪同時身兼交易買賣雙方。沃倫在接受《交易錄》採訪時表示：“正常情況下，美國證券交易委員會會要求企業拿出更詳實嚴謹的依據，證明估值資料的來源，以及外部佐證材料。讓埃隆・馬斯克自己和自己交易，還定下一個高得離譜的估值，這一幕讓市場分析師啼笑皆非。”"
+    },
+    {
+      "id": "4928465",
+      "time": "2026-06-10 21:13:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰維儲存：全資子公司海南南佰算參與臻寶科技戰略配售，獲配金額2086.06萬元】佰維儲存公告，公司的全資子公司海南南佰算擬以自有資金參與認購臻寶科技首次公開發行人民幣普通股（A股）並在上海證券交易所科創板上市的戰略投資者配售。海南南佰算擬獲配股數為46.81萬股，獲配金額為人民幣2086.06萬元。本次交易構成關聯交易，因為公司關聯方國家積體電路基金二期持有臻寶科技3.94%股權。"
+    },
+    {
+      "id": "4928464",
+      "time": "2026-06-10 21:13:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zito預測，隨著投資回報率壓力增大，人工智慧牛市將出現洗牌。"
+    },
     {
       "id": "4928463",
       "time": "2026-06-10 21:11:36",
@@ -171039,130 +171130,6 @@
         "國際"
       ],
       "text": "波蘭央行行長格拉平斯基：當前利率水平處於合理區間。"
-    },
-    {
-      "id": "4915469",
-      "time": "2026-06-03 21:16:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長格拉平斯基：通脹已得到控制。"
-    },
-    {
-      "id": "4915468",
-      "time": "2026-06-03 21:16:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車美國5月卡車銷量為111,119輛，同比下降8.4%。"
-    },
-    {
-      "id": "4915467",
-      "time": "2026-06-03 21:16:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1413.50元。"
-    },
-    {
-      "id": "4915466",
-      "time": "2026-06-03 21:16:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【月之暗面宣佈Kimi Work開啟公測】月之暗面宣佈面向知識工作者的通用型本地Agent——Kimi Work開啟公測，將隨Kimi最新測試版Mac和Windows客戶端推出。據介紹，只需要用自然語言描述目標，Kimi Work就可以在使用者的電腦上拆解任務、並行執行、呼叫工具、使用瀏覽器、建立和整理資料夾，並交付文件、表格、PPT等工作產物。"
-    },
-    {
-      "id": "te:markets:556177",
-      "time": "2026-06-03 21:16:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 7-week Low — The Canadian Dollar touched 1.39 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 1.78%, and in the last 12 months, it increased 1.38%."
-    },
-    {
-      "id": "4915465",
-      "time": "2026-06-03 21:16:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長格拉平斯基：本輪通脹衝擊力度遠弱於 2022 年 。"
-    },
-    {
-      "id": "mkt:019e8da0-704d-7ccb-b65a-7041a5fd3b2f",
-      "time": "2026-06-03 21:16:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish central bank governor Glapinski said the inflation shock is smaller than initially thought."
-    },
-    {
-      "id": "mkt:019e8da0-5fa0-7ccb-b65a-69d0e62864fe",
-      "time": "2026-06-03 21:15:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Polish central bank governor Glapinski said rising inflation will slow Poland's economic growth."
-    },
-    {
-      "id": "4915464",
-      "time": "2026-06-03 21:15:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長格拉平斯基：通脹衝擊幅度小於最初預期。"
-    },
-    {
-      "id": "4915463",
-      "time": "2026-06-03 21:15:34",
-      "tags": [
-        "央行",
-        "資料",
-        "國際"
-      ],
-      "text": "波蘭央行行長格拉平斯基：薪資增速放緩有利於波蘭 CPI 走勢回落 。"
-    },
-    {
-      "id": "mkt:019e8d9f-4571-7ccb-b65a-6276c0814c4d",
-      "time": "2026-06-03 21:14:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "GDS.O",
-        "Impact bullish"
-      ],
-      "text": "【GDS to invest over 30 bln yuan in GW‑level green direct‑connect data center cluster with Ulanqab city government】GDS signed a strategic cooperation agreement with the Ulanqab municipal government (Inner Mongolia) on June 3. GDS will invest more than 30 billion yuan over the next five years to develop multiple high‑density and gigawatt‑level data center parks to serve intelligent/advanced compute clients. The project aims for over 80% green‑power coverage via direct connection and green‑power trading, targeting a scaled zero‑carbon data center cluster."
-    },
-    {
-      "id": "te:economy:556176",
-      "time": "2026-06-03 21:14:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Brazil Services PMI Falls to Near-Stagnation — Brazil’s S&P Global Services PMI fell to 50.4 in May 2026 from 52.3 in April, moving closer to the 50-point threshold and signaling only marginal expansion in the sector. The survey showed that new business was broadly stagnant during the month, with transport, information and communication the only monitored segment to record higher output. The slowdown in demand coincided with elevated price pressures, as output charge inflation remained the second-highest in 15 months despite easing from April. Input costs rose at the fastest pace since February 2025, with consumer services facing the strongest cost pressures. Rising operating expenses and fragile demand also weighed on hiring activity, with employment growth slowing to the weakest pace in the current four-month expansion. Meanwhile, high inflation, intense competition, and challenging business conditions dampened confidence among service providers."
-    },
-    {
-      "id": "4915462",
-      "time": "2026-06-03 21:14:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：太空探索技術公司（SpaceX）計劃在首次公開募股中發行 5.556 億股股票 。"
     }
   ]
 }
