@@ -1,7 +1,543 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-11 21:28:14_
-_本檔包含 3750 則快訊，約 669648 字_
+_更新時間：2026-06-11 21:55:52_
+_本檔包含 3760 則快訊，約 669703 字_
+
+---
+
+### 2026-06-06 01:35:09  #國際
+
+洲際交易所歐洲分部持倉報告（COT）：截至 6 月 2 日，白糖投機客淨多頭頭寸增持 3394 手，淨多持倉升至 27079 手。
+
+---
+
+### 2026-06-06 01:34:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+U.S. Senator Warren urged NVIDIA (NVDA.O) president to attend a hearing on June 11, market sources said.
+
+---
+
+### 2026-06-06 01:31:47  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian President Zelenskiy, responding to Russian President Putin's open letter and proposal for a meeting, said Russia has again chosen war and that Putin does not want to end it.
+
+---
+
+### 2026-06-06 01:31:40  #MKT News #XAUUSD #Impact bullish #Brent
+
+Ukraine's President Zelenskiy said many will be disappointed by Russian President Putin's response and that greater pressure should be applied to Russia.
+
+---
+
+### 2026-06-06 01:31:38  #MKT News
+
+【Han Zheng addresses plenary at 29th St. Petersburg International Economic Forum】On June 5, 2026 China's Vice President Han Zheng addressed the plenary of the 29th St. Petersburg International Economic Forum and set out four global-governance proposals: uphold genuine multilateralism with equal participation and decision-making and strengthen developing countries’ representation; defend international fairness by protecting the UN’s authority and opposing double standards and selective application of international law; promote shared development through full implementation of the UN 2030 Sustainable Development Agenda, citing China’s upcoming informal APEC leaders’ meeting as a vehicle to build an Asia‑Pacific community to spur regional and global growth; and enhance policy coordination among states, international organizations and multilateral institutions to deliver tangible results on global challenges.
+
+---
+
+### 2026-06-06 01:30:17  #國際
+
+烏克蘭總統澤連斯基：許多人會對普京的回應感到失望，需對俄羅斯施加更大壓力。
+
+---
+
+### 2026-06-06 01:28:25  #其他
+
+【韓正出席第二十九屆聖彼得堡國際經濟論壇全會並致辭 】當地時間2026年6月5日，國家副主席韓正在聖彼得堡出席第二十九屆聖彼得堡國際經濟論壇全會，並發表題為“踐行全球治理倡議 攜手共創美好未來”的致辭。（新華社）
+
+---
+
+### 2026-06-06 01:27:20  #MKT News #PSKY.O #Impact bearish
+
+Paramount (PSKY.O) shares dropped sharply, down more than 4%.
+
+---
+
+### 2026-06-06 01:24:47  #國際
+
+市場訊息：美國多個州正準備提起訴訟，以阻止派拉蒙收購華納兄弟。
+
+---
+
+### 2026-06-06 01:24:45  #MKT News #WBD.O
+
+Warner Bros. Discovery (WBD.O) shares fell 1.4%.
+
+---
+
+### 2026-06-06 01:24:19  #MKT News
+
+Several US states are preparing to file lawsuits seeking to block Paramount's acquisition of Warner Bros.
+
+---
+
+### 2026-06-06 01:24:17  #其他
+
+華納兄弟股價快速下挫，跌幅 1.3%。
+
+---
+
+### 2026-06-06 01:24:03  #MKT News #WTI #Impact bullish #Brent
+
+【Adviser to Iran's supreme leader reiterates Iran, Oman sovereignty over Strait of Hormuz】An adviser to Iran's supreme leader told CNN that Iran and Oman have sovereignty over the Strait of Hormuz and will jointly manage the waterway, which previously handled about one-fifth of global oil and LNG shipments. He resisted calling proposed charges 'transit fees', saying Iran would impose maintenance fees to cover management costs rather than bear them alone.
+
+---
+
+### 2026-06-06 01:21:41  #MKT News #EQIX.O #Impact bearish #DLR.O #CONE.O
+
+Per NBC, Illinois Governor J.B. Pritzker will suspend tax incentives for data centers.
+
+---
+
+### 2026-06-06 01:20:40  #市場 #國際
+
+本週，ICE英國天然氣期貨累計上漲6.18%，週五（6月5日）歐市尾盤報117.640便士/千卡。TTF基準荷蘭天然氣期貨累漲8.87%，報48.759歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）累跌4.84%，報75.74歐元/噸。
+
+---
+
+### 2026-06-06 01:20:19  #Trading Economics #Economy #Costa Rica #Inflation Rate #Importance 1
+
+Costa Rica Deflation Eases in May — Costa Rica's consumer prices fell 0.97% year-on-year in May 2026, following a 1.64% decline in April, extending the country's deflationary trend. The decrease was mainly driven by lower prices for food (-3.89%), clothing and footwear (-2.69%), housing and utilities (-1.20%), furniture and household services (-2.04%), information and communication (-0.96%), and insurance and financial services (-0.55%). Meanwhile, the largest price increases were recorded in education (2.75%), alcoholic beverages and tobacco (2.21%), and healthcare (1.72%). On a monthly basis, consumer prices rose 0.27% in May, reversing a 0.04% decline in April.
+
+---
+
+### 2026-06-06 01:18:28  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $761 million from five counterparties in fixed-rate reverse repo operations.
+
+---
+
+### 2026-06-06 01:16:29  #央行 #國際
+
+週五（6月5日），美聯儲隔夜逆回購協議（RRP）使用規模為7.61億美元（交易對手5家），上個交易日報11.22億美元。
+
+---
+
+### 2026-06-06 01:16:02  #MKT News
+
+White House official says Iranian World Cup players have been issued visas to enter the U.S.
+
+---
+
+### 2026-06-06 01:15:31  #國際
+
+白宮官員：伊朗世界盃足球隊球員已獲批赴美簽證。
+
+---
+
+### 2026-06-06 01:12:59  #MKT News
+
+Interfax reported Russian President Putin met with former German Chancellor Gerhard Schroder.
+
+---
+
+### 2026-06-06 01:11:12  #MKT News #S&P500 #Impact bearish
+
+VIX jumps to highest in over two weeks, up 3.32 points at 18.72.
+
+---
+
+### 2026-06-06 01:06:36  #市場
+
+芝加哥期權交易所波動率指數（VIX）飆升至兩週以來高位，最新上漲 3.32 點，報 18.72。
+
+---
+
+### 2026-06-06 01:04:59  #國際
+
+市場訊息：俄羅斯總統普京同德國前總理格哈德・施羅德舉行會晤。
+
+---
+
+### 2026-06-06 01:02:48  #國際
+
+貝克休斯資料：美國油氣鑽井平臺數量連續第七週環比增加。
+
+---
+
+### 2026-06-06 01:01:52  #MKT News #Commodities #Energy
+
+US natural gas rig count stood at 124 in the week to June 5, down from 125 the prior week.
+
+---
+
+### 2026-06-06 01:01:46  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US total rig count for the week to June 5: 563 rigs, compared with 562 the prior week.
+
+---
+
+### 2026-06-06 01:01:44  #MKT News #Economic Calendar #Important
+
+United States | Weekly Total Natural Gas Rig Count (Jun.5) | actual 124 | previous 125
+
+---
+
+### 2026-06-06 01:01:37  #MKT News #Economic Calendar #Important
+
+United States | Weekly Total Rig Count (Jun.5) | actual 563 | previous 562
+
+---
+
+### 2026-06-06 01:01:28  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+US oil rig count rose to 431 in the week to June 5 from 429 the prior week.
+
+---
+
+### 2026-06-06 01:01:21  #MKT News #Economic Calendar #Important
+
+United States | Weekly Total Oil Rig Count (Jun.5) | actual 431 | previous 429
+
+---
+
+### 2026-06-06 01:01:13  #焦點 #國際
+
+美國6月5日當週總鑽井數 563，前值 562。
+美國6月5日當週石油鑽井數 431，前值 429。
+美國6月5日當週天然氣鑽井數 124，前值 125。
+
+---
+
+### 2026-06-06 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌2.07%，滬銅收跌1.84%，滬鋁收跌0.76%，滬鋅收跌0.60%，滬鉛收跌0.03%，滬鎳收跌0.31%，滬錫收跌5.27%。氧化鋁夜盤收漲0.65%，鋁合金收跌0.61%。不鏽鋼夜盤收跌0.14%。
+
+---
+
+### 2026-06-06 00:54:50  #MKT News
+
+U.S. State Department approved a possible foreign military sale to Italy of amphibious assault vehicles and related equipment worth about $30.6 million.
+
+---
+
+### 2026-06-06 00:54:22  #其他
+
+LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。LME期鉛收跌12美元，報2005美元/噸。LME期鎳收跌108美元，報18581美元/噸。LME期錫收跌2809美元，報52935美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-06-06 00:53:22  #MKT News
+
+The U.S. State Department said it has approved a possible arms sale to South Korea of Joint Direct Attack Munitions (JDAMs) valued at about $106 million.
+
+---
+
+### 2026-06-06 00:52:43  #其他
+
+LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。
+
+---
+
+### 2026-06-06 00:52:35  #宏觀 #國際
+
+美國國務院：批准擬向義大利出售兩棲突擊車及相關配套裝備，交易金額 3060 萬美元。
+
+---
+
+### 2026-06-06 00:52:07  #MKT News #Market Regions #Europe & UK
+
+The IAEA said on the incident at the ZAPORIZHZHIA NUCLEAR PLANT that Director General GROSSI urged all parties to exercise maximum military restraint and fully comply with the ceasefire agreement.
+
+---
+
+### 2026-06-06 00:50:28  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Russian President Putin said drones attacked a shelter in St. Petersburg, striking some targets.
+
+---
+
+### 2026-06-06 00:50:17  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #DXY
+
+IAEA: Ukraine has notified the agency it remains committed to observing the ceasefire agreement brokered by the IAEA following a serious incident at the Zaporizhzhia nuclear plant.
+
+---
+
+### 2026-06-06 00:50:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
+
+U.S. oil rig count for week through June 5 due in 10 minutes.
+
+---
+
+### 2026-06-06 00:48:36  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+IAEA said it had been informed that a serious incident occurred today at the Zaporizhzhia nuclear plant during a local ceasefire and demining phase agreed between the parties, injuring several Russian military personnel.
+
+---
+
+### 2026-06-06 00:48:22  #國際
+
+俄羅斯總統普京： 無人機襲擊了聖彼得堡一處避難場所，襲擊方達成部分目標。
+
+---
+
+### 2026-06-06 00:47:26  #國際
+
+國際原子能機構：多名俄方軍事人員受傷。事故目前正在調查中。烏克蘭方面告知國際原子能機構，烏方仍恪守經由原子能機構斡旋、俄烏歷經數週繁複談判達成的停火協議。 國際原子能機構總幹事格羅西呼籲各方最大限度保持軍事剋制、嚴格遵守停火協定，保障後續數日內輸電線路修繕工作按計劃開展；他指出，線路搶修是防範扎波羅熱核電站發生核事故的關鍵舉措。
+
+---
+
+### 2026-06-06 00:45:53  #其他
+
+國際原子能機構：獲悉扎波羅熱核電站附近商定區域性停火區域今日排雷作業期間發生嚴重事故。
+
+---
+
+### 2026-06-06 00:45:34  #MKT News
+
+Putin said Iran did not request weapons and Russia did not provide any.
+
+---
+
+### 2026-06-06 00:45:11  #MKT News #Important #Nasdaq100 #Impact bearish #TSLA.O
+
+U.S. equities extended losses; the Nasdaq fell 3.00% and Tesla (TSLA.O) slipped more than 5% intraday.
+
+---
+
+### 2026-06-06 00:44:39  #焦點 #國際
+
+俄羅斯總統普京： 伊朗未曾提出武器採購請求，俄方也未向其提供任何武器。
+
+---
+
+### 2026-06-06 00:43:49  #市場 #焦點
+
+納指跌3.00%，現報26025.983點；道指跌0.82%，現報51139.031點；標普500指數跌1.83%，現報7445.830點。
+
+---
+
+### 2026-06-06 00:38:57  #MKT News
+
+Toronto stock index fell as much as 2%.
+
+---
+
+### 2026-06-06 00:38:39  #MKT News #LMT.O #Impact bullish
+
+U.S. State Department approved sale of MH-60R multi-mission helicopters and related equipment to New Zealand, estimated at $1.5 billion.
+
+---
+
+### 2026-06-06 00:36:32  #宏觀 #國際
+
+美國國務院：批准擬向紐西蘭出售 MH-60R 多用途直升機及相關配套裝備，預估合同金額 15 億美元。
+
+---
+
+### 2026-06-06 00:35:31  #MKT News
+
+U.S. State Department approved sale of MK 54 torpedoes to New Zealand; estimated deal value $69 mln.
+
+---
+
+### 2026-06-06 00:35:30  #宏觀
+
+國國務院：批准擬向紐西蘭出售 MK 54 魚雷，預估交易額 6900 萬美元。
+
+---
+
+### 2026-06-06 00:34:42  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+New York copper futures slid 4.00% intraday to $6.2735 per lb.
+
+---
+
+### 2026-06-06 00:32:41  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intel Stock Price Hits 4-week Low — Intel shares decreased to 102.36 USD, the lowest since May 2026. Over the past 4 weeks, Intel lost 9.08%, and in the last 12 months, it increased 412.21%.
+
+---
+
+### 2026-06-06 00:32:14  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+New York gold futures fell below $4,350/oz, down 3.44% intraday.
+
+---
+
+### 2026-06-06 00:32:09  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+U.S. 2-year Treasury yield extended gains, up 13 bps to 4.17%.
+
+---
+
+### 2026-06-06 00:31:41  #市場 #焦點
+
+紐約期金失守4350美元/盎司，日內跌3.44%。
+
+---
+
+### 2026-06-06 00:31:23  #MKT News
+
+【Two potential air leaks detected in ISS Russian Zvezda service module】Roscosmos confirmed on the 5th (local time) that two potential air leaks were detected in the International Space Station’s Russian Zvezda service module. The agency said the crew and station systems are not threatened. Russian cosmonauts have sealed the first leak and are preparing to seal the second.
+
+---
+
+### 2026-06-06 00:30:42  #MKT News #Brent #Impact bearish
+
+Brent crude fell below $92/bbl, down 2.52% on the day.
+
+---
+
+### 2026-06-06 00:30:18  #公司 #國際
+
+據Business Insider：埃隆·馬斯克計劃向歐洲最大科技公司的員工介紹SpaceX的Terafab晶片計劃，該專案被視為SpaceX在AI算力領域的一項重大技術押注。
+
+---
+
+### 2026-06-06 00:30:06  #市場
+
+【費城半導體指數跌幅擴大至7%】費城半導體指數跌幅擴大至7%。英偉達股價下跌4.71%，臺積電股價下跌5.15%，博通股價下跌6.24%，美光科技股價下跌8.26%，超威半導體股價下跌8.62%，阿斯麥股價下跌4.62%。
+
+---
+
+### 2026-06-06 00:29:54  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bearish #ASML.O #TSM.N
+
+Philadelphia Semiconductor Index fell as much as 7%. NVIDIA (NVDA.O) declined 4.5%, ASML (ASML.O) fell 4.65%, TSMC (TSM.N) fell 5.22%.
+
+---
+
+### 2026-06-06 00:28:21  #市場 #國際
+
+【德國兩年期國債收益率於美國非農日漲超3個基點，本週累漲超16個基點】週五（6月5日）歐市尾盤，德國10年期國債收益率上漲1.6個基點，報3.038%，美國非農就業報告發布時從3.028%拉昇至3.046%，本週累計上漲10.1個基點，交投於2.946%-3.051%區間，過半時間交投於3.030%附近。兩年期德債收益率漲3.1個基點，報2.692%，本週累漲16.3個基點，交投於2.571%-2.697%區間；30年期德債收益率漲0.7個基點，報3.571%，本週累漲7.1個基點。2/10年期德債收益率利差跌1.383個基點，報+34.432個基點，本週累跌6.264個基點。
+
+---
+
+### 2026-06-06 00:28:14  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+Business Insider reports Elon Musk plans to present SpaceX's Terafab chip program to employees of Europe's largest tech company; the program is viewed as a major SpaceX technology bet on AI compute.
+
+---
+
+### 2026-06-06 00:27:12  #市場 #焦點
+
+WTI原油失守90美元/桶，日內跌3.29%。
+
+---
+
+### 2026-06-06 00:26:45  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude fell 3.00% intraday to $91.62/bbl.
+
+---
+
+### 2026-06-06 00:25:26  #市場 #焦點
+
+布倫特原油失守93美元/桶，日內跌2.16%。
+
+---
+
+### 2026-06-06 00:25:12  #市場 #國際
+
+美國 2 年期國債收益率延續上行走勢，上漲 13 個基點至 4.17%。
+
+---
+
+### 2026-06-06 00:23:45  #市場
+
+布倫特原油日內跌2%，現報93.11美元/桶。
+
+---
+
+### 2026-06-06 00:23:43  #市場
+
+WTI原油日內跌3%，現報90.25美元/桶。
+
+---
+
+### 2026-06-06 00:23:05  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran adviser says talks stalled over $24bn asset freeze; demands $12bn immediate unfreeze; warns of wider attacks if U.S. restarts military action, denies meeting with Trump】Iran’s Supreme Leader adviser said negotiations with the U.S. are stalled over frozen assets and that any interim deal hinges on Washington unfreezing $24bn, with $12bn released immediately and the remaining $12bn in a later phase. He said U.S. officials worry an early unfreeze would weaken their leverage. The adviser warned that if the U.S. restarts military action Iran would expand attacks beyond the Persian Gulf — from the Strait of Hormuz to the Indian Ocean, Bab al‑Mandeb, the Red Sea and the Mediterranean — and could strike other U.S. bases previously hit, while adding the risk of full-scale war remains low. He denied any meeting between the Supreme Leader and Trump; Trump this week said he would be willing to meet.
+
+---
+
+### 2026-06-06 00:19:54  #市場
+
+【油氣類基金年內回報率普遍走高】今年以來，油氣類基金回報率持續向好。資料顯示，截至6月5日，年內47只油氣類基金的回報率全部走高，其中多隻原油QDII（合格境內機構投資者）基金總回報率甚至超過70%。同時，部分油氣ETF（交易型開放式指數基金）及聯接基金規模也在快速擴張，持續受到資金青睞。多隻跟蹤原油價格或原油相關指數的QDII基金表現突出。例如，易方達原油A美元現匯以年內73.80%的回報率位居同類第一，緊隨其後的是南方原油A年內回報率為70.56%；同時，易方達原油A人民幣和嘉實原油年內回報率也都保持在65%以上。綜合來看，上述產品主要配置境外原油期貨或相關結構性工具。除原油主題基金外，標普石油天然氣勘探及生產精選行業指數系列產品同樣有不俗表現。資料顯示，博時標普石油天然氣勘探及生產精選行業指數A美元現匯年內回報率為34.18%；華寶標普油氣A美元、富國標普石油天然氣勘探及生產精選行業ETF、嘉實標普石油天然氣勘探及生產精選行業ETF等產品的年內回報率也均超31%。值得一提的是，年內回報率排名居前的油氣類基金，幾乎被原油主題QDII包攬，前7名漲幅均超65%，與跟蹤油氣開採、資源指數的ETF產品形成明顯差距。(證券日報)
+
+---
+
+### 2026-06-06 00:19:34  #市場
+
+【跨境ETF規模增長 溢價率高企】近期，多隻跨境ETF（交易型開放式指數基金）溢價率持續高企，引發市場廣泛關注。例如，6月4日，景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）因前一個交易日二級市場溢價率超20%再度觸發臨時停牌。此外，還有嘉實納斯達克100ETF（QDII）、廣發納指100ETF等多隻跨境ETF近期持續高溢價執行，其中部分產品溢價率長期維持在5%—15%區間，跨境ETF溢價已從偶發事件演變為“半常態化”態勢。資料顯示，截至6月5日，全市場共238只跨境ETF，整體規模達8764.95億元，同比增長62.87%，顯示跨境配置需求持續旺盛。其中，主要跟蹤納斯達克100等海外熱門標的的6只產品溢價率超過5%。(證券日報)
+
+---
+
+### 2026-06-06 00:19:06  #其他
+
+納斯達克100指數跌幅擴大至3%。
+
+---
+
+### 2026-06-06 00:17:12  #國際
+
+市場訊息：特朗普正在甄選、面試國家情報總監正式人選。
+
+---
+
+### 2026-06-06 00:16:50  #國際
+
+【伊朗最高領袖顧問：特朗普同伊朗最高領袖會晤“絕無可能”】伊朗最高領袖的軍事顧問穆赫辛・雷扎伊在德黑蘭接受 CNN 獨家專訪，被問及哈梅內伊的身體健康狀況以及在國家決策中的權責，雷扎伊未予以答覆，但明確否認二人會面的可能：“此事絕無可能。現階段談判才剛進入首輪，正是特朗普致使談判停滯，雙方不會舉行會晤。”
+
+---
+
+### 2026-06-06 00:14:30  #其他
+
+市場訊息：特斯拉將 Roadster 跑車實車演示推遲至 8 月。 特斯拉 Roadster 跑車演示旨在展示特斯拉與 SpaceX 合作研發的冷氣推進系統成果。
+
+---
+
+### 2026-06-06 00:13:42  #MKT News
+
+【6.0-magnitude earthquake off Indonesia's Maluku province】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a magnitude-6.0 earthquake at 22:57 local time on the 5th, centered about 60 km southeast of Maluku province with a depth of 120 km. No tsunami risk expected.
+
+---
+
+### 2026-06-06 00:13:22  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+Russell 2000 fell to a two-week low, down 2.4%.
+
+---
+
+### 2026-06-06 00:12:58  #國際
+
+據CNN：哈梅內伊助手稱伊朗和阿曼對霍爾木茲海峽擁有主權。
+
+---
+
+### 2026-06-06 00:12:28  #國際
+
+【印尼馬魯古省附近海域發生6.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間5日22時57分，印尼馬魯古省東南60公里海域發生6.0級地震，震源深度120公里。預計不會有海嘯風險。（央視新聞）
+
+---
+
+### 2026-06-06 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.56% Lower — The FTSE MIB Index dropped 281 points or 0.56 percent on Friday to close at 49893 points. Losses were led by STMicroelectronics (-5.38%), Prysmian (-3.52%) and Stellantis N.V. (-2.85%). Offsetting the fall, top gainers were Infrastrutture Wire (3.27%), Italgas (3.09%) and Hera (2.08%).
+
+---
+
+### 2026-06-06 00:11:43  #市場 #焦點
+
+比特幣自 2024 年 10 月以來首次跌破 6 萬美元關口。
+
+---
+
+### 2026-06-06 00:11:37  #MKT News
+
+According to the Wall Street Journal, President Trump said he asked the intelligence chief to fire the agency's employees and that the Office of the Director of National Intelligence should be substantially scaled back or possibly abolished.
+
+---
+
+### 2026-06-06 00:11:10  #市場 #焦點
+
+比特幣跌破60000美元，日內跌6.15%。
+
+---
+
+### 2026-06-06 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.75% Lower — The DAX Index decreased 186 points or 0.75 percent on Friday to close at 24759 points. The decline was led by Infineon (-8.62%), Mercedes-Benz AG (-2.38%) and Qiagen NV (-2.18%). On the upside, the strongest performers were Scout24 (4.16%), Zalando (3.87%) and Beiersdorf (3.61%).
 
 ---
 
@@ -22180,479 +22716,5 @@ Pinterest與亞馬遜簽署40億美元雲服務協議後，其股價上漲4.2%�
 ### 2026-06-04 21:56:12  #國際
 
 【黎真主黨拒絕以黎停火】黎巴嫩真主黨領導人納伊姆·卡西姆今天（4日）發表宣告，拒絕美國、以色列與黎巴嫩政府就以黎停火發表的聯合宣告，拒絕執行聯合宣告中要求真主黨武裝人員撤離黎巴嫩南部的要求，並強調以色列必須完全撤出黎巴嫩領土。卡西姆在透過黎巴嫩“燈塔”電視臺釋出的這份宣告中表示，該聯合宣告打著“虛假停火”的旗號推進安全議程，實質上“就是投降，就是失敗，就是實現敵人的目標”。真主黨唯一關心的是“結束以色列的全面侵略、實現停火以及以色列撤軍”。卡西姆在宣告中強調，“停火必須是全面的，黎巴嫩南部與其餘地區不可分割，絕不允許以色列在黎巴嫩境內擁有殺戮的自由。只要佔領存在，抵抗就不會停止。”（CCTV國際時訊）
-
----
-
-### 2026-06-04 21:55:41  #MKT News #FNMA.O #Impact bullish
-
-Fannie Mae shares climbed to an intraday high, up 5.5%.
-
----
-
-### 2026-06-04 21:55:38  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish
-
-EU Trade Commissioner SEFCOVIC said that for an EU‑US trade agreement it is vital that, by the end of negotiations, the deal fully meets the "Ternberg" framework parameters — for the US this would imply a harmonized 15% tariff.
-
----
-
-### 2026-06-04 21:55:24  #國際
-
-【俄稱俄美圍繞烏克蘭問題的接觸已取得“實質性進展” 】俄羅斯總統特別代表德米特里耶夫4日表示，儘管部分“企圖延續戰事”的勢力正試圖阻撓俄美雙邊對話，但兩國圍繞烏克蘭問題的接觸已經取得了“實質性進展”。德米特里耶夫在第29屆聖彼得堡國際經濟論壇期間對俄媒表示，有關“俄美接觸陷入停滯”的說法並不屬實。他說：“我不認同相關說法，談判並未停滯，雙邊對話正積極推進。”（新華社）
-
----
-
-### 2026-06-04 21:54:47  #市場
-
-房利美股價飆升至盤中最高點5.5%。
-
----
-
-### 2026-06-04 21:54:44  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish
-
-Market sources say PwC is partnering with Google Cloud to accelerate AI threat defense capabilities.
-
----
-
-### 2026-06-04 21:54:35  #國際
-
-歐盟貿易委員：在歐美貿易協定問題上，對我方而言最關鍵的一點是，談判程序收尾時，最終結果必須嚴格遵循特恩貝里框架設定的範圍；對我們來說，這指的就是涵蓋所有專案的15%關稅。
-
----
-
-### 2026-06-04 21:53:13  #公司
-
-市場訊息：普華永道與谷歌雲達成合作，合力加快人工智慧安全防禦業務落地。
-
----
-
-### 2026-06-04 21:53:05  #MKT News
-
-Market sources: PwC and Google Cloud have reached a cooperation agreement.
-
----
-
-### 2026-06-04 21:51:35  #MKT News
-
-【CSRC approves Zhuhai Tainuo Maibo Pharmaceutical IPO for STAR Market listing】The CSRC has approved the registration application for Zhuhai Tainuo Maibo Pharmaceutical Co., Ltd. to proceed with an initial public offering and list on the STAR Market (Sci‑Tech Innovation Board).
-
----
-
-### 2026-06-04 21:51:30  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bearish #AVGO.O #AMD.O
-
-Philadelphia Semiconductor Index fell more than 5%. Micron Technology (MU.O) dropped over 8%, its shares slipped below the $1,000 mark; Broadcom (AVGO.O) slid nearly 16%; Arm Ltd (ARM.O) fell over 8%; AMD (AMD.O) lost more than 7%; Qualcomm (QCOM.O) declined over 4%; Intel (INTC.O) fell more than 3%.
-
----
-
-### 2026-06-04 21:50:50  #公司
-
-【證監會同意泰諾麥博科創板IPO註冊】證監會同意珠海泰諾麥博製藥股份有限公司（簡稱“泰諾麥博”）首次公開發行股票並在科創板上市的註冊申請。
-
----
-
-### 2026-06-04 21:50:46  #公司
-
-【SpaceX用17分鐘的影片向散戶推介IPO 闡釋未來願景並勾勒宏大目標】SpaceX週四一早透過一段影片向散戶投資者展開IPO推介。在這段影片中，首席財務官Bret Johnsen把公司的火箭、衛星和人工智慧業務串聯了起來。這段時長17分鐘的演示影片，是這家由埃隆·馬斯克領導的公司吸引全球普通投資者的行動之一。媒體此前報道，這些買家是SpaceX此次IPO策略中的關鍵組成部分，在750億美元發行規模中，多達30%將分配給這類投資者。Johnsen是影片中唯一出鏡的人。他首先介紹自己是公司有史以來唯一一位首席財務官。影片位於公司網站spacexipo.com上，上面有顯著提示，鼓勵訪問者開設券商賬戶。Johnsen說：“埃隆創立SpaceX的目標，是改變人類，讓我們成為一個多星球物種。非常令人振奮的是，我們已經能夠透過Starlink星座以及我們的AI解決方案來擴充套件這一願景。”這次路演列出了一些未來目標，但未說明具體實現時間，包括把毛利率從去年的49%提高到約70%，並實現約45%的淨利潤率，而去年這一指標為負26%。公司在影片中勾勒了宏大的抱負，包括把資料中心送入太空。影片還介紹了其業務，包括可重複使用火箭，以及為地球提供寬頻網際網路接入的Starlink衛星系統。
-
----
-
-### 2026-06-04 21:50:05  #MKT News #Important
-
-US May global supply-chain pressure index due in 10 minutes.
-
----
-
-### 2026-06-04 21:49:36  #其他
-
-【Pimco首席投資官：信用市場違約潮已經開始】品浩(Pimco)首席投資官發出警告稱，信用市場多年來首個持續性的違約週期已經開始，市場將面臨比以往習慣了的水平更高的虧損。儘管利差已接近歷史最窄水平，但“表面之下暗流湧動”，Daniel Ivascyn在一份由影片發言整理而成的電子郵件通報中稱。隨著大量債務即將到期，償債高峰將至，Ivascyn加入了Davidson Kempner合夥人Suzanne Gibbons以及巴克萊銀行的Na Wei的行列，對違約率上升的風險發出了警告。Glendon Capital Management創始合夥人Holly Kim週三表示，問題將主要集中在2021年和2022年那些依靠廉價借貸融資的槓桿收購專案上。
-
----
-
-### 2026-06-04 21:49:26  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Pimco's chief investment officer said a wave of defaults in the credit market has already begun.
-
----
-
-### 2026-06-04 21:49:10  #市場 #焦點
-
-【費城半導體指數跌超5%】費城半導體指數跌超5%，美光科技跌超8%，股價失守1000美元關口；博通跌幅擴大至近16%，ARM跌超8%，AMD跌超7%，高通跌超4%，英特爾跌超3%。
-
----
-
-### 2026-06-04 21:49:06  #央行 #其他
-
-【央行宏審局局長周永坤“空降”四川 接替嚴寶玉出任省分行行長】近日，記者獲悉，人民銀行宏觀審慎管理局局長周永坤已調任四川，接替嚴寶玉出任央行四川省分行黨委書記、行長，兼任國家外匯局四川省分局局長。公開資訊顯示，嚴寶玉已於今年4月被四川省人民政府聘任為省政府參事。（21財經）
-
----
-
-### 2026-06-04 21:48:50  #公司 #國際
-
-【Quobly完成1.15億歐元A輪融資】6月4日，法國量子計算公司Quobly宣佈完成1.15億歐元A輪融資，旨在加速其矽基量子計算機的產業化程序，並計劃於2026年底前將首款商用產品推向市場。本輪融資由Bpifrance、SEALSQ和意法半導體（STMicroelectronics）領投，歐洲創新理事會（European Innovation Council, EIC）、Blast、ALIAD（Air Liquide Venture Capital）以及現有投資者Innovacom參與投資。
-
----
-
-### 2026-06-04 21:48:45  #MKT News #Market Themes #AI Revolution #Commodities #Energy #Brent #Impact bullish #EURUSD #S&P500 #Impact mixed
-
-【Fitch: Oil shock trims global growth outlook; AI investment outperforms】Fitch says the US‑Iran war‑driven oil shock has weakened global growth prospects, cutting its 2026 global growth forecast by 0.2ppt to 2.4%. Higher inflation is squeezing real wages, curbing consumption and raising corporate input costs, prompting broad downward revisions to growth. Stronger‑than‑expected AI‑related IT investment is offsetting some weakness, supporting world trade and Asian exports. The Strait of Hormuz has been closed for 14 weeks; Fitch assumes reopening in July. Fitch raised its 2026 average Brent forecast to $87/bbl from $70/bbl in March. The agency views the oil shock as a material headwind but not as severe as 1970s oil crises. Fitch expects the Fed and Bank of England to hold rates this year and resume cuts in 2027; it forecasts a 25bp ECB hike in June, with policy reversal next year.
-
----
-
-### 2026-06-04 21:48:04  #市場 #國際
-
-世界黃金理事會資料顯示，受投資者獲利了結金價漲勢影響，印度黃金ETF在5月迎來一年來首次資金淨流出。
-
----
-
-### 2026-06-04 21:46:45  #其他
-
-美股光通訊股跌幅進一步擴大，Lumentum跌7.3%，諾基亞跌近7%，康寧跌6.8%。
-
----
-
-### 2026-06-04 21:46:01  #公司 #市場 #國際
-
-美國資產管理公司股價在週三下跌後反彈。黑石股價上漲3.6%，KKR上漲3.5%，阿波羅全球管理上漲2%。藍貓頭鷹資本股價上漲3.2%，阿瑞斯管理集團股價上漲4%，凱雷集團股價上漲2.2%。
-
----
-
-### 2026-06-04 21:44:10  #其他
-
-惠譽：由美伊戰爭引發的油價危機已衝擊全球增長前景，將2026年全球增長預測下調0.2個百分點至2.4%。霍爾木茲海峽關閉已持續14周，我們假設其要到7月才開始重開。將2026年布倫特原油平均價格假設從3月的70美元/桶上調至87美元/桶。
-
----
-
-### 2026-06-04 21:44:03  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Broadcom Stock Price Hits 5-week Low — Broadcom shares decreased to 404.45 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 2.6%, and in the last 12 months, it increased 55.39%.
-
----
-
-### 2026-06-04 21:43:33  #市場
-
-【美光科技股價跌破1000美元】美光科技股價下跌7.61%，報997.4美元/股，總市值報1.12萬億美元。
-
----
-
-### 2026-06-04 21:43:02  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Fitch: Strait of Hormuz closure has lasted 14 weeks and is assumed to begin reopening only in July. Fitch raises its 2026 average Brent crude assumption to $87/bbl from $70/bbl in March.
-
----
-
-### 2026-06-04 21:42:38  #市場
-
-寵物零售商Petco股價在其公佈一季度業績及展望後下跌15.4%。
-
----
-
-### 2026-06-04 21:42:36  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-Fitch says an oil-price shock triggered by a US-Iran war has weakened the global growth outlook and cuts its 2026 global growth forecast by 0.2 percentage point to 2.4%.
-
----
-
-### 2026-06-04 21:41:12  #MKT News #CIEN.O #Impact bearish #LITE.O #GLW.N
-
-US-listed optical-communications stocks opened lower; Ciena fell nearly 16% after reporting earnings, POET dropped about 7%, Lumentum fell ~6%, Marvell and Nokia were off more than 5%, and Corning declined over 4%.
-
----
-
-### 2026-06-04 21:40:48  #國際
-
-Mobix Labs 擬收購美國本土無人機製造商 Vision Aerial。
-
----
-
-### 2026-06-04 21:40:23  #市場
-
-【美股光通訊股盤初下跌】美股光通訊股盤初下跌，Ciena績後大跌近16%，POET跌近7%，Lumentum跌近6%，邁威爾科技、諾基亞跌超5%，康寧跌超4%。
-
----
-
-### 2026-06-04 21:40:18  #MKT News
-
-EU High Representative for Foreign Affairs and Security Policy Kallas said the best way to reduce the threat posed by Hezbollah is to strengthen the Lebanese state.
-
----
-
-### 2026-06-04 21:40:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 1.08% Higher — The Dow Jones Index is up by 549 points or 1.08 percent on Thursday. Top gainers are UnitedHealth (4.86%), Merck (3.61%) and American Express (2.75%).
-
----
-
-### 2026-06-04 21:39:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Fitch: oil crisis hits global growth outlook.
-
----
-
-### 2026-06-04 21:39:46  #國際
-
-歐盟外歐盟外交與安全政策高階代表卡拉斯：削弱真主黨構成威脅的最佳方式是強化黎巴嫩國家政權。
-
----
-
-### 2026-06-04 21:39:29  #其他
-
-惠譽評級：石油危機衝擊全球經濟增長前景，預測下調。
-
----
-
-### 2026-06-04 21:39:23  #MKT News
-
-EU High Representative for Foreign Affairs and Security Policy Kallas said the EU today agreed to provide an additional €100 mln in assistance to the Lebanese Armed Forces.
-
----
-
-### 2026-06-04 21:39:01  #國際
-
-歐盟外交與安全政策高階代表卡拉斯：歐盟今日同意額外向黎巴嫩武裝部隊提供1億歐元撥款。
-
----
-
-### 2026-06-04 21:38:04  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-At the open on June 4, the Dow Jones Industrial Average rose 523.73 points, or 1.03%, to 51,210.80; the S&P 500 fell 24.66 points, or 0.33%, to 7,529.02; the Nasdaq Composite fell 279.95 points, or 1.04%, to 26,574.02.
-
----
-
-### 2026-06-04 21:37:41  #公司 #市場
-
-應用航空航天與國防公司（Applied Aerospace & Defense）紐交所上市次日股價上漲3.2%。
-
----
-
-### 2026-06-04 21:37:37  #MKT News
-
-Shares of Applied Aerospace & Defense rose 3.2% on the day after its NYSE listing.
-
----
-
-### 2026-06-04 21:37:18  #市場 #央行 #國際
-
-【道明證券：美元表現比歐洲央行更有可能推動歐元走勢】道明證券策略師在一份報告中表示，歐元上漲的潛力更多地取決於美元下跌，而不是歐洲央行可能加息。他們表示，歐洲央行可能會在6月11日加息，但歐元的任何漲幅都可能有限，因為市場預期今年將有超過兩次的加息，而且近期歐元區資料弱於預期。“雖然我們繼續預計歐元到今年年底將升至1.20美元，但進一步走強可能需要美元全面走弱。“他們表示，美國資料和美聯儲6月17日的決定將決定美元是否下跌。
-
----
-
-### 2026-06-04 21:36:34  #公司 #市場
-
-riot股價下跌2.7%，Hut 8礦業公司股價下跌4.9%，瑪拉控股股價下跌2.2%。
-
----
-
-### 2026-06-04 21:36:22  #市場
-
-加密貨幣個股下跌，比特幣價格觸及近四個月低位。ProShares比特幣策略交易所交易基金下跌2.6%，iShares比特幣信託下跌2.6%。
-
----
-
-### 2026-06-04 21:36:16  #MKT News
-
-Lebanese military said Israeli forces withdrew from a town in southern Lebanon.
-
----
-
-### 2026-06-04 21:36:08  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，大全新能源漲6.94%，小牛電動漲6.25%，騰訊音樂漲3.99%，億咖通科技漲3.76%，嗶哩嗶哩漲3.47%。
-
----
-
-### 2026-06-04 21:36:06  #國際
-
-黎巴嫩軍方稱以色列部隊撤出黎巴嫩南部城鎮。
-
----
-
-### 2026-06-04 21:36:03  #MKT News #BAC.N
-
-BofA (BAC.N) said it will roll out a cross-border real-time payments solution next quarter to expand its global payments options.
-
----
-
-### 2026-06-04 21:35:36  #國際
-
-美國銀行將於下季度推出跨境實時支付解決方案。
-
----
-
-### 2026-06-04 21:35:24  #國際
-
-美國銀行將推出跨境實時支付服務，拓展全球支付選擇範圍。
-
----
-
-### 2026-06-04 21:35:14  #公司
-
-睡眠數字公司（Sleep Number）股價暴跌65%，至每股0.38美元，此前報道稱公司正準備提交破產申請。
-
----
-
-### 2026-06-04 21:34:55  #國際
-
-【李飛飛長文拆解世界模型實現路徑】世界模型是自去年以來人工智慧領域的熱詞，不僅備受追捧，且存在多種技術路線。作為世界模型的領軍人物之一，AI科學家李飛飛6月4日與其創辦的World Labs團隊在美國內容釋出與訂閱平臺substack上發表題為《世界模型的功能分類：渲染器、模擬器、規劃器，以及連線它們的迴圈》的長文，試圖釐清2025年以來“世界模型”這個概念在使用上的混亂。李飛飛表示，大語言模型讓機器學會了遣詞造句和邏輯推理，但物理世界執行的底層邏輯完全不同。語言模型學的是文字的統計規律，而世界模型學的是時空的統計規律，比如光怎麼照在物體上、東西受力後怎麼運動。正因為涉及物理世界，計算機視覺、機器人、強化學習、生成式AI等領域都在用“世界模型”這個詞。一個能生成火焰影片的模型、一個能憑空生成可玩遊戲的語言模型、一個能精確模擬燃燒過程的物理引擎，現在都被叫作世界模型，但它們實際在做三件完全不同的事：渲染、模擬和規劃。其中，模擬器得到的公眾關注最少，卻可能是讓AI真正理解物理世界的基礎。（澎湃新聞）
-
----
-
-### 2026-06-04 21:34:53  #MKT News
-
-Sleep Number shares plunged 65% to $0.38 per share after the Wall Street Journal reported the company is preparing to file for bankruptcy.
-
----
-
-### 2026-06-04 21:34:48  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Mixed on Thursday — US equity indices were mixed on Thursday as fresh pressure on the AI economy offset support from some respite in Treasuries. The S&P 500 dropped 0.5% and the Nasdaq 100 fell 1%. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. The signals reignited lingering concerns that the surge in AI capital expenditure by the largest companies in the US, which have carried US equity indices in recent quarters, may not be sustainable. Also, Crowdstrike also slipped over 10% after posting its earnings. Still, energy prices trimmed their increase last sessions on signals that the US is attempting to strike a deal with Iran. Bonds were also supported by the increase in job cuts per the latest data. The Dow added over 1% with support from defensive stocks as P&G and J&J added 2%. Blackstone gained 1.5%, rebounding from the slump yesterday despite being the latest private credit firm to cap withdrawals.
-
----
-
-### 2026-06-04 21:34:43  #市場
-
-Five Below股價在一季度業績釋出後下跌10.9%，業績顯示銷售額增速正在放緩。
-
----
-
-### 2026-06-04 21:33:12  #市場 #國際
-
-博通不及預期，美國晶片製造商股價集體下跌。美光科技下跌6.8%，超威半導體（AMD）下跌4.6%，英特爾下跌4.2%，高通下跌3.5%，美滿電子科技下跌5.8%。
-
----
-
-### 2026-06-04 21:33:09  #MKT News
-
-UnitedHealth (UNH.N) rose 4.8% after BofA Global Research upgraded the stock to Buy from Neutral.
-
----
-
-### 2026-06-04 21:32:54  #公司 #市場
-
-聯合健康集團股價上漲4.8%，此前美銀全球研究將其評級從“中性”上調至“買入”。
-
----
-
-### 2026-06-04 21:32:52  #MKT News #Important
-
-Broadcom (AVGO.O) shares plunged 15%, the largest decline since January 2025.
-
----
-
-### 2026-06-04 21:32:48  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AbbVie Stock Price Hits 11-week High — AbbVie shares increased to 223.68 USD, the highest since March 2026. Over the past 4 weeks, AbbVie gained 4.28%, and in the last 12 months, it increased 15.87%.
-
----
-
-### 2026-06-04 21:32:41  #公司
-
-加拿大皇家銀行資本市場將博通（Broadcom）的目標股價從 360.00 美元上調至 400.00 美元。
-
----
-
-### 2026-06-04 21:32:40  #MKT News
-
-U.S. Trade Representative Greer, on the EU-U.S. agreement and Section 301 tariffs: an agreement is an agreement.
-
----
-
-### 2026-06-04 21:32:28  #公司 #國際
-
-【德國一客機起落架坍塌多人傷】德國漢莎航空公司一架波音787-9“夢想客機”今天（4日）在法蘭克福機場停靠登機口時，前起落架突然坍塌，導致機身受損，多名機組人員受傷接受醫療救治。受此影響，該客機原定於今日執飛LH450次航班前往美國洛杉磯的航程已被取消。法蘭克福機場和漢莎航空方面尚未公佈事故原因。據悉，這架客機今年1月交付使用。 (CCTV國際時訊)
-
----
-
-### 2026-06-04 21:32:18  #公司 #市場
-
-CrowdStrike股價下跌7.6%，此前該公司公佈第一季度運營支出高於預期。
-
----
-
-### 2026-06-04 21:32:03  #其他
-
-博通股價暴跌15%，創2025年1月以來最大跌幅。
-
----
-
-### 2026-06-04 21:31:47  #MKT News
-
-U.S. Trade Representative Greer said U.S. consumers and global trade have shown resilience.
-
----
-
-### 2026-06-04 21:31:05  #國際
-
-美國貿易代表格里爾稱美國消費者和全球貿易都展現出了韌性。
-
----
-
-### 2026-06-04 21:30:57  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #AVGO.O #Impact bearish #Nasdaq100 #S&P500
-
-【US stocks open mixed; Broadcom plunges 14% after earnings】U.S. stocks opened mixed: Dow +1.0%, S&P 500 -0.4%, Nasdaq -1.0%. Broadcom (AVGO) plunged 14% after earnings, trimming its market value below $2 trillion after guiding AI-chip revenue under market expectations. Semiconductor names were pressured: Micron Technology (MU) -6.7%, Arm (ARM) -7.3%, AMD (AMD) -5.3%, Intel (INTC) -3.4%, NVIDIA (NVDA) -0.5%.
-
----
-
-### 2026-06-04 21:30:50  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指漲0.95%，標普500指數跌0.37%，納指跌1.04%。博通跌13.67%，Ciena科技跌13.28%，CrowdStrike跌8.91%，挪威郵輪漲6.78%，聯合健康漲4.21%。“七姐妹”方面：亞馬遜漲0.92%，微軟漲0.91%，Meta Platforms漲0.81%，蘋果漲0.62%，谷歌漲0.49%，英偉達跌0.42%，特斯拉跌1.09%。
-
----
-
-### 2026-06-04 21:30:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 6-week High — Deere & Company shares increased to 594.95 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 2.43%, and in the last 12 months, it increased 16.67%.
-
----
-
-### 2026-06-04 21:30:34  #國際
-
-美國貿易代表格里爾： 針對產能過剩問題的 301 條款複雜調查將於數週內啟動。
-
----
-
-### 2026-06-04 21:30:33  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Abbott Stock Price Hits 4-week High — Abbott shares increased to 90.00 USD, the highest since May 2026. Over the past 4 weeks, Abbott lost 0.59%, and in the last 12 months, it decreased 34.55%.
-
----
-
-### 2026-06-04 21:30:19  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bank Of America Stock Price Hits 4-week High — Bank Of America shares increased to 53.13 USD, the highest since May 2026. Over the past 4 weeks, Bank Of America gained 0.4%, and in the last 12 months, it increased 18.12%.
-
----
-
-### 2026-06-04 21:30:15  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Amgen Stock Price Hits 5-week High — Amgen shares increased to 345.87 USD, the highest since April 2026. Over the past 4 weeks, Amgen gained 6.8%, and in the last 12 months, it increased 20.51%.
-
----
-
-### 2026-06-04 21:30:14  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Wells Fargo Stock Price Hits 4-week High — Wells Fargo shares increased to 80.00 USD, the highest since May 2026. Over the past 4 weeks, Wells Fargo lost 0.63%, and in the last 12 months, it increased 4.38%.
-
----
-
-### 2026-06-04 21:29:41  #MKT News #Market Regions #Greater China
-
-【China launches 11 Qianfan polar-orbit satellites】China launched 11 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center today aboard a modified Long March-6 carrier rocket; the satellites entered their planned orbit and the mission was successful.
-
----
-
-### 2026-06-04 21:29:40  #其他
-
-【千帆極軌11組衛星發射成功】今天，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌11組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。（央視新聞）
-
----
-
-### 2026-06-04 21:29:05  #公司
-
-【航新科技：公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付】航新科技在互動平臺表示，公司在國產飛機附件研製生產方面取得了良好進展。公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付。實時監控管理元件（RTMU）、無線快速存取記錄器（WQAR）等關鍵機載裝置已完成適航審定，實現批次交付與裝機運營，產品可適配商飛、空客、波音多系列機型。
-
----
-
-### 2026-06-04 21:28:34  #市場
-
-【禮來美股盤前漲超2%】禮來美股盤前漲超2%，現報1101.0美元。
 
 ---
