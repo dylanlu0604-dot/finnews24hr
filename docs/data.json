@@ -1,7 +1,252 @@
 {
-  "updated": "2026-06-11 15:21:29",
-  "count": 18327,
+  "updated": "2026-06-11 15:25:40",
+  "count": 18338,
   "items": [
+    {
+      "id": "mkt:019eb591-b7a8-7dd8-afb6-e1740197fcba",
+      "time": "2026-06-11 15:24:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's prime minister urged establishing a unified European representative for talks between Russia and Ukraine."
+    },
+    {
+      "id": "4929824",
+      "time": "2026-06-11 15:24:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌0.05%。"
+    },
+    {
+      "id": "4929823",
+      "time": "2026-06-11 15:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約一匹拉著遊覽車的馬死在路上引輿論關注，紐約市長髮聲】據美國《紐約每日新聞》報道，當地時間9日，在美國紐約，一匹拉馬車的馬死在路上，事件引發輿論關注。對此，紐約市長馬姆達尼10日在記者會上呼籲限制商業馬車運營。據報道，一段在網路上熱傳的影片顯示，在紐約中央公園，一匹馬倒在路上痛苦掙扎隨後死亡。這匹馬死亡時正拉著供遊客乘坐的遊覽馬車。這起事件引發輿論關注。紐約市長馬姆達尼10日呼籲限制商業馬車運營。他說，“我知道很多紐約市民對昨天發生的事情感到不安，我也是其中之一，我支援從中央公園移除馬車。”他補充說，他還希望“找到一種方法”來禁止馬車。（環球網）"
+    },
+    {
+      "id": "4929822",
+      "time": "2026-06-11 15:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理：過度債務會威脅主權並限制政策空間，部分歐盟國家的利息支出已超過國防開支。"
+    },
+    {
+      "id": "4929821",
+      "time": "2026-06-11 15:24:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌0.15%。"
+    },
+    {
+      "id": "4929820",
+      "time": "2026-06-11 15:24:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺董事長陳華作2026年規劃：全面推進市場化轉型，以消費者為中心、市場需求為驅動】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。茅臺集團黨委書記、董事長陳華作《2025年度董事會工作報告》。對於2026年重點工作安排，陳華強調全面推進市場化轉型，“以消費者為中心，市場需求為驅動，系統推進營銷體系市場化轉型”。他表示：“茅臺酒營銷方面，打造穩固金字塔型產品結構，構建“隨行就市、相對平穩”的自營體系零售價格動態調整機制。（酒業內參）"
+    },
+    {
+      "id": "mkt:019eb591-57b5-7dd8-afb6-d8acde6bacb6",
+      "time": "2026-06-11 15:24:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: Short positions in the Indian rupee were trimmed after the Reserve Bank of India's latest measures."
+    },
+    {
+      "id": "4929819",
+      "time": "2026-06-11 15:24:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准古莫奇單抗注射液上市】近日，國家藥品監督管理局批准中山康方生物醫藥有限公司申報的古莫奇單抗注射液（商品名：奇佑康）上市，用於治療適合接受系統治療或光療的中度至重度斑塊狀銀屑病成人患者。該品種的上市為相關患者提供了新的治療選擇。"
+    },
+    {
+      "id": "4929818",
+      "time": "2026-06-11 15:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首藥控股康特替尼顆粒獲批上市】近日，國家藥品監督管理局批准首藥控股（北京）股份有限公司申報的1類創新藥康特替尼顆粒（商品名：首要澤）上市，該藥品單藥適用於未經過間變性淋巴瘤激酶（ALK）抑制劑治療的ALK陽性的區域性晚期或轉移性非小細胞肺癌（NSCLC）患者的治療。該藥品上市為患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019eb591-067b-7dd8-afb6-d6ac17e5e7d9",
+      "time": "2026-06-11 15:24:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reuters survey: Investors turned bearish on the Malaysian ringgit for the first time since April 2025."
+    },
+    {
+      "id": "4929817",
+      "time": "2026-06-11 15:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家能源局負責人會見沙特阿美公司總裁】6月9日，中國國家能源局副局長宋宏坤在京會見沙特阿美公司總裁穆罕默德·卡塔尼。雙方就國際能源安全、中沙油氣合作等交換意見。宋宏坤錶示，沙特阿美公司是全球最重要的原油生產和供應企業之一。中國企業與沙特阿美公司保持長期穩定的合作關係，在原油貿易、煉化專案等多個領域取得積極合作成果。希望中沙雙方企業加強交流，穩妥應對風險，不斷深化合作。（國家能源局）"
+    },
+    {
+      "id": "mkt:019eb590-f3b6-7dd8-afb6-ce8e155d608c",
+      "time": "2026-06-11 15:23:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【NEA deputy director meets ARAMCO president】National Energy Administration deputy director Song Hongkun met ARAMCO president Mohammed Al‑Kahtani in Beijing on June 9 to discuss international energy security and China‑Saudi oil and gas cooperation. Song described ARAMCO as one of the world’s most important crude producers and suppliers, said Chinese firms have long‑standing cooperation with ARAMCO in crude trading and refining projects with positive results, and urged companies to strengthen exchanges, prudently manage risks and deepen cooperation."
+    },
+    {
+      "id": "mkt:019eb590-bdd2-7dd8-afb6-c241236f8805",
+      "time": "2026-06-11 15:23:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: Short positions on the Indonesian rupiah reached their highest level since the survey began in 2006."
+    },
+    {
+      "id": "te:economy:558294",
+      "time": "2026-06-11 15:23:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US PPI Seen Cooling Monthly, Heating Up Annually — US producer prices likely increased by 0.7% month-over-month in May 2026, following a 1.4% surge in April which was the largest monthly gain since March 2022. Energy prices are expected to remain a major driver of inflation, particularly gasoline and jet fuel, as the ongoing conflict with Iran continues to disrupt oil supplies and push crude prices sharply higher. Core producer prices, which exclude the more volatile food and energy components, are forecast to rise by 0.5% in May, moderating from the 1% increase recorded in April. On an annual basis however, headline producer inflation is projected to accelerate for a fourth consecutive month to 6.4%, up from 6% in April and marking its highest level since December 2022. Meanwhile, annual core producer inflation is expected to edge up to 5.4% from 5.2%, also reaching its highest reading since December 2022."
+    },
+    {
+      "id": "4929816",
+      "time": "2026-06-11 15:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：印尼盾空倉規模創2006年調查啟動以來新高。"
+    },
+    {
+      "id": "4929815",
+      "time": "2026-06-11 15:23:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "4929814",
+      "time": "2026-06-11 15:23:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：印度盧比空頭頭寸在央行最新政策措施後有所縮減。"
+    },
+    {
+      "id": "4929813",
+      "time": "2026-06-11 15:23:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：投資者自2025年4月以來首次轉而看空馬來西亞林吉特。"
+    },
+    {
+      "id": "4929811",
+      "time": "2026-06-11 15:23:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：歐盟必須找到代表與俄羅斯談判。"
+    },
+    {
+      "id": "mkt:019eb58f-ed0d-7dd8-afb6-bcadbb5bcdee",
+      "time": "2026-06-11 15:22:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor MERZ says new EU debt is not the solution."
+    },
+    {
+      "id": "mkt:019eb58f-caca-7dd8-afb6-b10e2ebdf9ac",
+      "time": "2026-06-11 15:22:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【UBS sees upside risk to expectation of two ECB hikes this year】UBS says there is upside risk to its view that the ECB will raise rates only twice this year. UBS expects a 25bp hike on June 11 to 2.25%, in line with market pricing, and does not expect the ECB to consider a 50bp move necessary. Media reports that the ECB may have to \"raise rates at least twice\" imply a three-hike outcome; markets have partly priced that scenario (56.3bp by Dec 2026). UBS therefore acknowledges upside risk to its two-25bp-hike forecast. It expects the ECB is unlikely to send a strong signal for July; if the ECB signals a July hike, UBS will assess either bringing a September hike forward while keeping total hikes at two, or treating July as one of three hikes, and remains open to both outcomes."
+    },
+    {
+      "id": "mkt:019eb58f-8829-7dd8-afb6-a89933c2d199",
+      "time": "2026-06-11 15:22:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Chancellor MERZ said EU measures to deregulate businesses must be launched no later than mid-next year."
+    },
+    {
+      "id": "4929810",
+      "time": "2026-06-11 15:22:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺董事長陳華：i茅臺使用者規模與活躍度持續提升】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。茅臺集團黨委書記、董事長陳華作《2025年度董事會工作報告》。 他披露：“茅臺數字化轉型與智慧運營成效顯著。精細化運營“i茅臺”平臺，使用者規模與活躍度、平臺體系化能力與服務健康度持續提升。” 另外，報告還顯示，茅臺圍繞業財一體化、專案管理、資產管理等重點領域，持續深化運營管控數字化。"
+    },
+    {
+      "id": "4929809",
+      "time": "2026-06-11 15:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：歐盟為企業鬆綁的監管改革最遲須在明年年中啟動。"
+    },
+    {
+      "id": "4929808",
+      "time": "2026-06-11 15:21:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.67%，道瓊斯指數期貨漲0.62%。"
+    },
+    {
+      "id": "4929807",
+      "time": "2026-06-11 15:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼在歐盟理事會召開前向議員們發表講話：義大利支援對俄羅斯的制裁方案。"
+    },
+    {
+      "id": "4929806",
+      "time": "2026-06-11 15:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外長與埃及外長通電話】巴基斯坦外交部長穆罕默德·伊沙克·達爾於週四與埃及外交部長巴德爾·阿卜杜拉提通電話，討論了地區發展情況和持續的外交接觸，巴基斯坦外交部表示。 巴基斯坦外交部表示，阿卜杜拉提歡迎巴基斯坦的調解努力，並表示雙方希望當前的努力將促成各方之間的早期共識。"
+    },
     {
       "id": "mkt:019eb58d-741a-7dd8-afb6-a4be4d51ec13",
       "time": "2026-06-11 15:20:06",
@@ -14,6 +259,15 @@
         "EURUSD"
       ],
       "text": "MERZ said Germany has ensured industrial AI will not be subject to EU AI rules."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768243970",
+      "time": "2026-06-11 15:20:06",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【德商銀行：歐洲央行難現鷹派意外 歐元短期下行風險佔據主導】德國商業銀行分析師指出，歐洲央行加息預期已充分反映在歐元兌美元匯率中。歐洲央行難現鷹派意外，歐元短期下行風險佔據主導。"
     },
     {
       "id": "4929805",
@@ -168591,173 +168845,6 @@
         "XAUUSD"
       ],
       "text": "【Multinationals cash out nearly $5bn amid India IPO boom】Prime Database data show India's hot IPO market is being used to repatriate capital: since 2024, six foreign-backed companies listed in Mumbai, but only one raised fresh capital. The other five listed via Offer for Sale (OFS), where existing shareholders sell shares and the company receives no proceeds. That structure routes IPO proceeds to selling shareholders and ultimately to overseas parents. Multinational parents have cashed out nearly $5bn through such listings, with Hyundai Motor and LG Electronics accounting for over 80% of the total."
-    },
-    {
-      "id": "mkt:019e9186-0383-711a-bad8-b150dc4fd8e8",
-      "time": "2026-06-04 15:25:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian Finance Minister Siluanov said the government should lower the budget oil price from current levels going forward to maintain budget balance."
-    },
-    {
-      "id": "4916788",
-      "time": "2026-06-04 15:25:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "Quantum Helium公司正考慮進行股份合併，以支撐潛在的場外交易市場上市計劃。"
-    },
-    {
-      "id": "mkt:019e9185-7b9d-711a-bad8-adbb3c30c742",
-      "time": "2026-06-04 15:25:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China urges US to end Cuba blockade, backs Cuban sovereignty】China's Foreign Ministry spokesperson Mao Ning said at a June 4 briefing that Washington's long-term unilateral blockade and sanctions have severely hurt Cuba's economy and livelihoods. China firmly supports Cuba's protection of its sovereignty and security, opposes external interference, and urged the US to heed international calls and immediately end the blockade, sanctions and coercive pressure."
-    },
-    {
-      "id": "4916787",
-      "time": "2026-06-04 15:24:45",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【比特幣依然疲軟，受地緣政治不確定性和美國加息押注影響】隨著地緣政治不確定性和美國加息預期拖累市場情緒，比特幣在隔夜觸及四個月低點後依然疲軟。海灣王國科威特週三遭到彈道導彈和無人機的猛烈襲擊，而強於預期的美國ADP私營部門就業人數和美國供應管理學會服務業資料提振了對美聯儲可能加息的預期。Zaye Capital Markets分析師Naeem Aslam在一份報告中表示，美國針對與伊朗有關聯的加密貨幣交易所採取的行動也表明，數字資產正受到更多監管和監控，且在政治上變得更加敏感。倫敦證券交易所集團資料顯示，比特幣下跌1.2%，至64,126美元，隔夜曾低見61,344美元。"
-    },
-    {
-      "id": "mkt:019e9185-2d10-711a-bad8-a560f1220ee3",
-      "time": "2026-06-04 15:24:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's Foreign Ministry says it firmly supports Cuba in safeguarding national sovereignty and security, Xinhua reports."
-    },
-    {
-      "id": "te:economy:556437",
-      "time": "2026-06-04 15:24:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Slovakia Retail Sales Fall in April — Retail sales in Slovakia fell 0.2% year-on-year in April 2026, following a 6.2% jump in the previous month. The drop was mainly driven by a decrease in 4 of the 9 retail segments. Growth slowed in sales of automotive fuel in specialized stores (5.8% vs 22.1% in March), while activity declined sharply in hypermarkets and supermarkets (-7.3% vs 7.3%) and via stalls and supermarkets (-14.2% vs 2%). At the same time, sales declined further in food, beverage, and tobacco (-4.6% vs -1.6%) and trade outside shops, stalls, and markets (-9.2% vs -7.5%). In contrast, activity recorded increases in ICT equipment (8.9% vs 8.4%), cultural and recreation goods in specialized stores (15.5% vs 9%), and other household equipment in specialized stores (11.9% vs 6.7%). On a seasonally adjusted monthly basis, retail sales dropped 1.8% in April from a 2.6% rise in the preceding period, marking the lowest reading since January 2025."
-    },
-    {
-      "id": "te:markets:556436",
-      "time": "2026-06-04 15:24:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Swiss Franc Near April Lows on Soft Inflation — The Swiss franc traded at 0.79 per USD, near its weakest since early April, after softer-than-expected inflation data reduced expectations for a Swiss National Bank rate hike this month. Annual inflation in May held at 0.6%, its highest since December 2024 but below the 0.8% forecast. Inflation had been nearly flat at the start of the year but rose slightly after strikes on Iran in late February. Switzerland’s lower reliance on oil and gas, thanks to its Alpine hydropower and nuclear energy, shields it more than the eurozone. SNB Chairman Martin Schlegel noted on Wednesday that, despite recent inflation upticks, medium-term pressures remain largely unchanged. Investors now expect the bank to maintain its key rate at 0% through year-end. Meanwhile, investors monitored Middle East developments: Iran claimed it targeted a US command ship in the Gulf of Oman, the Republican-led House voted to halt US military action against Iran, and Israel and Lebanon agreed to a conditional ceasefire."
-    },
-    {
-      "id": "4916786",
-      "time": "2026-06-04 15:24:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SAP大中華區總裁原欣：AI時代的企業壁壘，不在於有多少智慧體】6月4日下午訊息 ，在2026 SAP中國峰會上，SAP首次面向中國市場闡述了“自主運營企業”戰略願景——定義了一種從“人工驅動流程”邁向“AI驅動業務結果”的全新企業執行模式。該願景本質是希望AI深度融入企業流程、資料與治理體系，使其能真正理解並參與企業運營邏輯，從而推動企業系統從“記錄業務”走向“執行業務”。SAP大中華地區總裁原欣表示：“AI能為企業創造多大價值，不取決於模型能力有多強，而取決於企業最薄弱的一環能否打通，對今天大多數企業而言，這道‘弱鏈’就是AI與核心業務系統之間的斷層。”在她看來，“AI時代企業的競爭壁壘不在於有多少智慧體，而在於企業的資料、流程與業務知識，是否已經為智慧體做好了準備，而這正是SAP自主運營企業架構的出發點，也是中國企業在這場組織變革中能否搶佔先機的關鍵。”（新浪科技）"
-    },
-    {
-      "id": "4916785",
-      "time": "2026-06-04 15:24:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：中方堅定支援古巴維護國家主權和安全】外交部發言人毛寧6月4日在例行記者會上答問時說，炮製藉口、造謠抹黑，不能成為美方對古巴野蠻封鎖、非法制裁的理由。美國長期對古巴實施單邊制裁封鎖，嚴重衝擊古巴經濟民生，給古巴人民造成巨大災難，國際社會普遍反對。中方堅定支援古巴維護國家主權和安全，反對外來干涉。美方應傾聽國際社會的呼聲，立即全面終止對古巴的封鎖制裁和脅迫施壓。（新華社）"
-    },
-    {
-      "id": "4916784",
-      "time": "2026-06-04 15:23:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元跌幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019e9183-811a-7ffc-b902-0404fe2ba8b0",
-      "time": "2026-06-04 15:22:48",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【China urges Germany to adhere to One-China principle】China’s Foreign Ministry said it expects Germany to adhere to the One-China principle after reports that German MPs visited Taiwan in May. Spokeswoman Mao Ning said One-China is international consensus and the political basis of Sino-German ties, urged Berlin not to use the Taiwan issue to interfere in China’s internal affairs, and warned that crossing China’s red line on Taiwan would exact a price."
-    },
-    {
-      "id": "mkt:019e9183-0393-7ffc-b901-fec703b0931e",
-      "time": "2026-06-04 15:22:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Finance Minister Siluanov said the current ruble exchange rate is \"not comfortable\" for exporters."
-    },
-    {
-      "id": "4916783",
-      "time": "2026-06-04 15:22:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天海電子：公司暫無產品應用到算力領域】天海電子(001365)6月4日在互動平臺回覆投資者稱，公司產品已實現光伏儲能、智慧座艙等領域的同步開發或供貨配套，暫無產品應用到算力領域。目前相關產品以客戶送樣及小批次驗證為主，暫未實現大規模量產及批次交付。"
-    },
-    {
-      "id": "mkt:019e9182-db01-7ffc-b901-f4d61aff0ad1",
-      "time": "2026-06-04 15:22:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Russian Deputy Prime Minister Novak said Russia would consider banning diesel exports if necessary."
-    },
-    {
-      "id": "mkt:019e9182-b12c-7ffc-b901-ed91721c8f33",
-      "time": "2026-06-04 15:21:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Deputy Prime Minister Novak said the calculation of OPEC+ countries' production capacity will be completed by year-end."
-    },
-    {
-      "id": "mkt:019e9182-7fee-7ffc-b901-e2de71c043d3",
-      "time": "2026-06-04 15:21:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Deputy Prime Minister Novak said about 12 mln bpd of oil failed to reach the market."
-    },
-    {
-      "id": "mkt:019e9182-3d65-7ffc-b901-dd86dafc5366",
-      "time": "2026-06-04 15:21:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Russia's deputy prime minister Novak said on the UAE's exit from OPEC that OPEC remains an important player in the global oil market because it accounts for a large share of oil production and exports."
     }
   ]
 }
