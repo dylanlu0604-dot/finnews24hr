@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12 04:41:14",
-  "count": 18430,
+  "updated": "2026-06-12 04:45:07",
+  "count": 18428,
   "items": [
     {
       "id": "te:markets:558462",
@@ -169941,28 +169941,6 @@
         "MKT News"
       ],
       "text": "President Trump said he will soon nominate acting U.S. Attorney General Blanche for the permanent attorney general post; nomination paperwork is being prepared."
-    },
-    {
-      "id": "mkt:019e9460-fe35-7cc8-bdee-68ddcd35591b",
-      "time": "2026-06-05 04:44:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "The Wall Street Journal reported ANTHROPIC has urged a global pause on AI development and warned models are approaching the ability to \"self-evolve\" without human intervention."
-    },
-    {
-      "id": "4918169",
-      "time": "2026-06-05 04:43:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【6月5日美股成交額前20：博通財測平淡股價大跌12.6%】第3名博通收跌12.59%，成交億美元。儘管博通交出了強勁的季度業績並上調了增長預期，但因未進一步提高全年人工智慧業務收入展望，其股價週四大跌，並拖累英偉達、AMD等半導體板塊整體走弱。市場擔憂主要源於投資者對AI概念股的預期已大幅提高，任何增長指引未進一步上調的訊號都可能觸發獲利回吐。不過，多家華爾街機構認為市場反應過度。伯恩斯坦分析師指出，博通AI業務仍將保持約200%的同比增速，2027財年AI半導體收入有望突破千億美元，且高毛利率和運營槓桿足以抵消利潤率壓力。高盛也建議積極買入，認為公司2027年增長前景明朗，定製晶片專案進展順利且供應鏈有保障。KeyBanc和瑞穗紛紛上調目標價，僅麥格理將評級下調至“中性”。"
     }
   ]
 }
