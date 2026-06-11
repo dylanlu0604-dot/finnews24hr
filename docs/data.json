@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-12 07:33:24",
-  "count": 18438,
+  "updated": "2026-06-12 07:37:08",
+  "count": 18436,
   "items": [
+    {
+      "id": "4931364",
+      "time": "2026-06-12 07:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京入汛以來降水量達去年同期7倍】根據北京市氣象臺釋出的全市雨量氣候統計（20個國家級站平均），從今年1月1日至6月11日8時，全市累計降水量已達156毫米，比常年同期97.9毫米偏多59.3%，比去年同期111毫米偏多40.5%；入汛以來（6月1日至11日8時），全市累計降水量29.2毫米，比常年同期22.5毫米偏多29.8%，是去年同期4.1毫米的7.1倍。"
+    },
+    {
+      "id": "4931363",
+      "time": "2026-06-12 07:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍或進一步擴大在黎南部軍事行動】當地時間11日，以色列方面援引安全部門訊息人士的話稱，以色列軍隊目前已推進至距離黎巴嫩南部主要城市奈拜提耶僅幾公里的區域，目前正等待政府高層的最終決定，以確定是否將地面行動進一步擴大至黎巴嫩真主黨的核心據點。以軍強調，如果以軍繼續向黎北部縱深推進，將被定性為“進攻性行動”，不再屬於防禦活動的範疇。以色列國防軍11日還發表宣告稱，以軍部隊已經在黎南部利塔尼河的支流薩盧基河以北地區完成相關軍事行動，並取得該區域的“行動控制權”。"
+    },
+    {
+      "id": "4931362",
+      "time": "2026-06-12 07:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Alphabet旗下自動駕駛公司Waymo將推出30美元月費會員計劃】當地時間6月11日，Alphabet旗下自動駕駛公司Waymo宣佈，將推出僅限受邀使用者參與的Waymo Premier30美元月費會員計劃，會員可享受優先接送、每次行程10%的乘車返現（以乘車積分形式返還）、在新城市優先體驗Waymo服務以及每月最多五次免費取消行程等權益。"
+    },
     {
       "id": "te:markets:558491",
       "time": "2026-06-12 07:32:54",
@@ -169985,55 +170009,6 @@
         "USDJPY"
       ],
       "text": "South Korea's finance minister said authorities will take appropriate measures if exchange-rate volatility intensifies or infary pressures worsen."
-    },
-    {
-      "id": "te:economy:556607",
-      "time": "2026-06-05 07:36:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Wage Growth",
-        "Importance 2"
-      ],
-      "text": "Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month."
-    },
-    {
-      "id": "4918268",
-      "time": "2026-06-05 07:36:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東事態發展喜憂參半之際，油價小幅走低】在中東事態發展喜憂參半之際，油價在早盤交易中小幅走低。澳新銀行研究部分析師在一份研究報告中稱，一方面，“以色列和黎巴嫩宣佈停火，這讓人們燃起希望，認為伊朗與美國達成協議的關鍵條件之一已經滿足。“然而，另一方面，“幾乎沒有跡象表明雙方的關係正在拉近，“澳新銀行研究部的分析師表示。澳新銀行研究部的分析師指出，美國總統特朗普表示談判已進入最後階段，但伊朗外交部長Araghchi表示談判已經停滯。近月西得州中質油期貨下跌0.2%，報每桶92.84美元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606053760772162",
-      "time": "2026-06-05 07:36:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行連續縮量續做3個月期買斷式逆回購】昨日，中國人民銀行釋出公開市場買斷式逆回購招標公告。由於本月有8000億元3個月期買斷式逆回購到期，因此在開展上述操作後，3個月期買斷式逆回購將實現淨回籠3000億元。這也是中國人民銀行連續第4個月縮量續做3個月期買斷式逆回購。"
-    },
-    {
-      "id": "4918267",
-      "time": "2026-06-05 07:34:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：若匯率波動加劇、通脹壓力惡化，將採取應對措施。"
-    },
-    {
-      "id": "4918266",
-      "time": "2026-06-05 07:34:05",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本實際工資連續第四個月上漲 為日央行加息提供支撐】日本勞動者實際工資連續第四個月走高，創下四年以來最長連漲週期，利好日本央行本月加息。日本厚生勞動省週五公佈資料：剔除通脹後的實際工資同比上漲1.9%，較上月修正值1.4%進一步提速，高於經濟學家預期的1.7%，創下2021年末以來最長月度連增紀錄。名義薪資同比增長3.5%，同樣超出市場一致預期的3.1%。基本工資漲幅3.4%；日本央行重點跟蹤、規避抽樣偏差的全職員工薪資指標上漲2.6%，兩項資料均體現薪資基本面走強。薪資資料出爐之際，日本央行正籌備6月15日至16日的貨幣政策會議，市場普遍預計央行理事會將上調基準利率25個基點。薪資穩步增長預示內需韌性充足，進一步支撐貨幣政策迴歸常態化。知情人士本週透露，日本監管機構將在本次議息會議上考量加息事宜，同時研討2026年後續階段進一步加息的空間。"
     }
   ]
 }
