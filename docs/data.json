@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-11 08:06:34",
-  "count": 18432,
+  "updated": "2026-06-11 08:10:22",
+  "count": 18430,
   "items": [
+    {
+      "id": "4929187",
+      "time": "2026-06-11 08:09:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數擴大跌幅，最新下跌2.5%，報62,549.24點。"
+    },
+    {
+      "id": "4929186",
+      "time": "2026-06-11 08:09:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌7%。"
+    },
+    {
+      "id": "4929185",
+      "time": "2026-06-11 08:08:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌4.6%，至288,500韓元。"
+    },
+    {
+      "id": "4929184",
+      "time": "2026-06-11 08:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞西太平洋銀行表示，自澳大利亞政府宣佈稅收調整以來，過去三週該行抵押貸款申請量下降了10%。"
+    },
+    {
+      "id": "4929183",
+      "time": "2026-06-11 08:07:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數（TOPIX）延續跌勢，最新下跌1.7%，報3783.49點。"
+    },
+    {
+      "id": "4929182",
+      "time": "2026-06-11 08:07:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌1%，報8566.80點。"
+    },
     {
       "id": "4929181",
       "time": "2026-06-11 08:06:08",
@@ -25,6 +77,15 @@
         "國際"
       ],
       "text": "日本日經平均股指延續跌勢，跌幅達2%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606113767350959",
+      "time": "2026-06-11 08:05:20",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中金：維持美聯儲年內不降息、不加息的基準判斷】中金認為，當前通脹仍以能源衝擊等結構性因素為主，週期性通脹尚不明顯，但需警惕AI資本開支擴張與就業改善帶來的總需求回升風險。貨幣政策上，中金維持美聯儲年內不降息、不加息的基準判斷。預計聯儲態度將保持鷹派，沃什上任後首要任務是重建政策公信力，更可能透過強化縮表預期而非暗示加息來展示決心。"
     },
     {
       "id": "4929179",
@@ -169820,102 +169881,6 @@
         "其他"
       ],
       "text": "【強化覆蓋力度 發力未來汽車 汽車行業標準化建設提速進階】作為產業規範發展、技術創新落地、市場秩序規整的核心基石，汽車標準化體系建設迎來系統性升級視窗期：《換電場景下動力蓄電池缺陷監測與分析規範》（GB/T47283—2026）推薦性國家標準6月1日起實施；《2026年汽車標準化工作要點》釋出，四方面15項內容部署進一步健全汽車標準體系，提升標準供給質量，深化標準國際合作……多位專家表示，一系列標準、規劃的密集落地與前瞻佈局，致力於破解行業內卷、技術參差、安全短板等痛點，持續夯實產業新質生產力，為中國汽車品牌技術自立、產品升級築牢規則底座。中國汽車產業標準持續創新、國際交流不斷加深，也讓更多國家能夠參與全球汽車產業發展程序，共享技術進步帶來的機遇。（經濟參考報）"
-    },
-    {
-      "id": "mkt:019e8ff7-4f5f-7003-8287-bfdb4efab8ae",
-      "time": "2026-06-04 08:10:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 slid as much as 1.2% intraday."
-    },
-    {
-      "id": "mkt:019e8ff6-a168-7003-8287-b2dfa6ebd216",
-      "time": "2026-06-04 08:09:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【US media: Trump willing to tolerate sporadic clashes if Iran avoids causing US troop deaths】The Wall Street Journal reports US officials say President Trump privately told aides he would consider ending the ceasefire with Iran if Tehran causes US troop deaths. Officials say the weeks-long pause in airstrikes remains in place. Trump’s stated reluctance to spark a wider Middle East war indicates he may tolerate isolated clashes lasting weeks or months to avoid broader escalation."
-    },
-    {
-      "id": "4916188",
-      "time": "2026-06-04 08:09:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翰森製藥：奧萊泊肽注射液上市許可申請獲國家藥監局受理】翰森製藥6月4日在港交所公告，於6月3日，公司創新藥奧萊泊肽注射液上市許可申請(NDA)獲中國國家藥品監督管理局(NMPA)受理，適用於肥胖或超重成人的長期體重管理。奧萊泊肽是一款公司自主研發的每週一次給藥胰高血糖素樣肽-1(GLP-1)╱葡萄糖依賴性促胰島素多肽(GIP)雙受體激動劑。"
-    },
-    {
-      "id": "4916187",
-      "time": "2026-06-04 08:09:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元下跌0.7%，市場在假期後重新開市。"
-    },
-    {
-      "id": "te:economy:556273",
-      "time": "2026-06-04 08:08:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Services PMI Hits 3-Month High — The AIB Ireland Services PMI rose to 50.8 in May 2026 from 49.7 in April, signaling a marginal rise in activity, though it remained below its long-run trend of 55. It was the highest reading since February, supported by a renewed increase in new business. The rate of new business growth was the fastest in three months but still subdued by the survey's historical standards."
-    },
-    {
-      "id": "4916186",
-      "time": "2026-06-04 08:08:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【當前我國夏糧收穫進度超四成】從農業農村部獲悉，截至6月3日17時，全國已收穫夏糧小麥1.43億畝，收穫進度42.23%。當日收穫2420萬畝、投入聯合收割機29.41萬臺。當前安徽麥收進度過八成，河南過六成，江蘇近三成，陝西、山東過一成。"
-    },
-    {
-      "id": "4916185",
-      "time": "2026-06-04 08:07:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均股指下跌1.1%，報67641.25點。"
-    },
-    {
-      "id": "4916184",
-      "time": "2026-06-04 08:07:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【謝鋒大使同知名跨國公司高管集體交流】2026年6月2日，中國駐美國大使謝鋒同知名跨國公司高管集體交流。黑石、谷歌、微軟、IBM、得州儀器、霍尼韋爾、拜耳、強生、康菲石油、雪佛龍、迪士尼、寶潔等跨國公司高管參加。謝鋒宣介中美元首北京會晤成果，指出習近平主席和特朗普總統同意將“中美建設性戰略穩定關係”作為兩國關係新定位，為未來3年乃至更長時間的中美關係作出戰略指引。希工商界積極行動，落實元首的重要共識，不斷拉長合作清單，取得更多造福兩國、惠及世界的務實成果。與會工商界人士熱烈歡迎“中美建設性戰略穩定關係”新定位，表示這為企業經營提供了穩定預期，看好中國經濟發展，期待擴大對華投資合作。（中國駐美國大使館）"
-    },
-    {
-      "id": "mkt:019e8ff4-5a00-7003-8287-a97532027718",
-      "time": "2026-06-04 08:06:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Microsoft",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China's ambassador to US meets senior executives from major multinationals】On June 2, 2026 China's ambassador to the United States Xie Feng met with senior executives from major multinationals including Blackstone, Google, Microsoft, IBM, Texas Instruments, Honeywell, Bayer, Johnson & Johnson, ConocoPhillips, Chevron, Disney and Procter & Gamble. Participants welcomed the new “constructive strategic stability” positioning in China–US ties, said it affords more stable operating expectations, expressed confidence in China’s economic outlook and signalled intentions to expand investment and cooperation in China."
     }
   ]
 }
