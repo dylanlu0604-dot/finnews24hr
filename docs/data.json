@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-12 04:45:07",
-  "count": 18428,
+  "updated": "2026-06-12 04:48:50",
+  "count": 18426,
   "items": [
+    {
+      "id": "mkt:019eb871-7241-7dd8-afcb-ac97b517c923",
+      "time": "2026-06-12 04:48:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran foreign ministry: Strait currently still closed】Iran's foreign ministry spokesperson said the Strait of Hormuz remains closed due to illegal U.S. actions and that vessels should exercise caution because no safe passage exists."
+    },
+    {
+      "id": "te:economy:558467",
+      "time": "2026-06-12 04:47:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "Argentina Inflation Rate Eases in May — Argentina's consumer price index rose 2.1% month-over-month in May 2026, easing from a 2.6% increase in April and coming slightly below market expectations of 2.3%. Seasonal prices posted the largest gain, rising 3.5%, driven by higher vegetable prices despite a decline in fruit prices. Regulated prices increased 2.4%, reflecting higher fuel, electricity, and water costs, while core inflation rose 1.9%, supported by increases in restaurant and catering services and pharmaceutical products. Among major categories, communication recorded the strongest increase, up 3.4% due to higher telephone service charges, followed by education, which advanced 2.9%. The smallest increases were seen in alcoholic beverages and tobacco (0.8%) and clothing and footwear (0.3%). Year-to-date inflation reached 14.7%."
+    },
+    {
+      "id": "4931250",
+      "time": "2026-06-12 04:47:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX股東Ark投資看好軌道資料中心，預計可帶來3000億美元收益】Ark投資管理公司首席未來學家Brett Winton表示，如果按目前的租賃費率在2020年代末部署數十吉瓦的軌道資料中心容量，SpaceX有望創造3000億美元的年收入。Winton指出，僅星鏈（Starlink）專案就能實現六個月的現金回本週期，因為一次滿載衛星的SpaceX發射成本約為5億美元，但在這些衛星5年的使用壽命內每年將產生10億美元的收入。Ark曾預測SpaceX到2030年企業價值可能達到2.5萬億美元。Winton還表示，馬斯克可能會選擇在IPO限制解除後，將SpaceX與其上市的特斯拉公司合併。"
+    },
+    {
+      "id": "te:markets:558466",
+      "time": "2026-06-12 04:46:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Drops Toward $89 — Brent crude oil fell over 4% toward $89 per barrel on Thursday, the lowest since March, after President Trump suspended planned attacks against Iran scheduled for this evening, while also suggesting that Washington and Tehran were close to reaching an agreement to end the war. He later told reporters that a deal, including the reopening of the Strait of Hormuz, could be signed as early as this weekend. Meanwhile, Iran's semi-official Fars news agency reported that Tehran was likely to approve the agreement, though it has yet to give a formal response. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased."
+    },
     {
       "id": "te:markets:558462",
       "time": "2026-06-12 04:40:09",
@@ -169885,62 +169925,6 @@
         "MKT News"
       ],
       "text": "【Trump says he would not rule out meeting Iran’s new Supreme Leader if a deal is reached】On the 4th, US President Trump said he would not rule out meeting Iran’s new Supreme Leader if the US and Iran ultimately reach an agreement. He reiterated the US will never allow Iran to acquire nuclear weapons and said prior strikes on Iranian nuclear sites had \"completely destroyed\" the related facilities. Trump added the US considered sending troops into Iranian nuclear sites to remove enriched uranium but abandoned the plan to avoid prolonged ground operations and casualties, saying such an operation would take one to two weeks, require heavy equipment and airlift capacity, and carry high risk."
-    },
-    {
-      "id": "mkt:019e9465-1f05-7cc8-bdee-878835577b1f",
-      "time": "2026-06-05 04:48:35",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "ICI: Money market fund assets increased by $109.25 bln to $7.89 tln in the week to June 3."
-    },
-    {
-      "id": "4918172",
-      "time": "2026-06-05 04:48:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國唐寧街發言人：首相斯塔默不會離職。"
-    },
-    {
-      "id": "4918171",
-      "time": "2026-06-05 04:47:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱若達成協議 不排除與伊朗最高領袖會晤】當地時間4日，美國總統特朗普表示，如果美國與伊朗最終達成協議，他不排除與伊朗新任最高領袖舉行會晤的可能性。他重申，美國絕不會允許伊朗擁有核武器，並稱美國此前對伊朗核設施的打擊已將相關設施“徹底摧毀”。特朗普還表示，美國曾考慮派遣美軍進入伊朗核設施所在地運走濃縮鈾，但最終放棄這一方案，以避免美軍陷入長期地面行動並遭受傷亡。他說，相關行動需要持續一至兩週，並動用大量重型裝置和空運能力，因此存在較高風險。（央視新聞）"
-    },
-    {
-      "id": "4918170",
-      "time": "2026-06-05 04:47:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lululemon： 一季度並非所有新品釋出都達到預期。"
-    },
-    {
-      "id": "mkt:019e9462-d786-7cc8-bdee-79e4319d7715",
-      "time": "2026-06-05 04:46:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said automakers did not request any tariff adjustments at the meeting; discussions focused on vehicle repair issues."
-    },
-    {
-      "id": "mkt:019e9462-4336-7cc8-bdee-716a626a4d21",
-      "time": "2026-06-05 04:45:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will soon nominate acting U.S. Attorney General Blanche for the permanent attorney general post; nomination paperwork is being prepared."
     }
   ]
 }
