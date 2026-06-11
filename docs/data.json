@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-11 23:42:23",
-  "count": 18486,
+  "updated": "2026-06-11 23:46:40",
+  "count": 18478,
   "items": [
+    {
+      "id": "4930945",
+      "time": "2026-06-11 23:45:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織表示，歐洲央行在週四加息後可能需要繼續加息。"
+    },
+    {
+      "id": "4930944",
+      "time": "2026-06-11 23:44:48",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗正在評估將馬斯克旗下企業納入軍事目標清單】據伊朗法爾斯通訊社11日報道，伊朗方面正在評估將與美國企業家埃隆·馬斯克旗下企業相關的部分資產和基礎設施納入潛在軍事目標清單，理由是這些企業被指向美國和以色列提供技術支援。報道說，伊方認為美國和以色列軍方曾使用由馬斯克相關企業運營的通訊基礎設施，因此正在評估將西亞地區部分相關設施列入軍事目標清單。根據報道，位於以色列、卡達、約旦、阿聯酋和阿曼等地區的部分“星鏈”地面設施，以及與太空探索技術公司（SpaceX）投資方相關的部分基礎設施，被伊方列為正在評估的目標。（新華社）"
+    },
+    {
+      "id": "mkt:019eb75b-290a-7dd8-afc5-f8c037c8d6af",
+      "time": "2026-06-11 23:44:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Geely Galaxy ramps up sports marketing for 2026 World Cup】On June 11 Geely Galaxy said it will intensify sports marketing around the 2026 US‑Canada‑Mexico World Cup, linking match viewing, prize promotions, test drives and purchase incentives to convert event exposure into retail sales and refine its sports-marketing commercial model. The company announced it will issue 1 mln yuan in car-purchase vouchers daily during the tournament. Geely also said its Mexico unit will offer free airport pick-up for Geely owners travelling to overseas matches."
+    },
+    {
+      "id": "4930942",
+      "time": "2026-06-11 23:42:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳振林率團赴國家國際發展合作署調研交流 共商深化國際發展合作 助力全球防災減災與氣候治理】6月11日，中國氣象局黨組書記、局長陳振林率團赴國家國際發展合作署（以下簡稱“國合署”）調研交流，與國合署黨組書記、署長陳曉東座談，共同回顧總結合作成果，並就持續深化多領域務實合作進行深入交流。陳振林感謝國合署長期以來對氣象領域國際合作的鼎力支援。他重點介紹全民早期預警中國方案“媽祖（MAZU）”相關情況，並提出希望雙方合力推進氣候韌性專案建設，推動“媽祖（MAZU）”方案融入各類對外合作專案，共同強化全球氣象人員能力建設，開展氣象人工智慧等領域海外專業人才培訓，推動氣象防災減災工作在踐行全球發展倡議和構建人類命運共同體程序中發揮更大價值。（中國氣象局）"
+    },
+    {
+      "id": "4930941",
+      "time": "2026-06-11 23:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年郵政業綠色包裝推廣會在福建三明召開】6月11日，2026年郵政業綠色包裝推廣會在福建省三明市召開。會議由中國快遞協會主辦，聚焦快遞業“以竹代塑”應用推廣，釋出行業首個專項倡議，明確“以竹代塑”五年推進目標，力爭到2030年實現竹製快遞包裝使用量年均增幅50%，為快遞業綠色發展注入新動能。國家郵政局黨組成員、副局長廖進榮，福建省政府黨組成員康濤，中國快遞協會會長趙曉光，三明市委書記李春出席會議並致辭。會上，中國快遞協會發布“以竹代塑、向綠而行”倡議。為響應中國政府與國際竹藤組織共同發起的“以竹代塑”全球倡議，深入貫徹國家生態文明建設和綠色低碳發展部署，落實《快遞暫行條例》中快遞包裝綠色化、減量化、可迴圈要求，協會倡議全行業加快推廣使用竹製快遞包裝。倡議明確2026—2030年快遞業“以竹代塑”包裝五年階段性目標，設定逐年量化使用指標：竹製快遞包裝年使用量分別不低於2億、3億、4.5億、6.8億、10 億個，預計年均增長率50%。（國家郵政局）"
+    },
     {
       "id": "mkt:019eb757-d182-7dd8-afc5-f439ecb3fad4",
       "time": "2026-06-11 23:40:46",
@@ -170260,138 +170303,6 @@
         "市場"
       ],
       "text": "洲際交易所英國 7 月天然氣期貨收盤結算價報 117.93 便士 / 熱量單位。"
-    },
-    {
-      "id": "4917830",
-      "time": "2026-06-04 23:46:28",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國參議員沃倫敦促貝森特加強金融網路安全保護】鑑於AI驅動的網路攻擊帶來“日益增長的風險”，美國民主黨參議員伊麗莎白·沃倫敦促財政部加強金融領域的網路安全防護。在6月3日致財政部部長斯科特·貝森特的信函中，沃倫表示，“鑑於Mythos具備發現並利用零日漏洞的能力”，她要求瞭解財政部採取了哪些具體行動以確保金融機構具備抵禦網路攻擊的韌性。“請解釋Mythos的最新進展，以及金融機構日益嚴重的網路安全漏洞問題在多大程度上影響了財政部對聯邦存款保險公司(FDIC)和貨幣監理署(OCC)的指引，”沃倫在信中指出。沃倫要求在6月16日前收到答覆。"
-    },
-    {
-      "id": "mkt:019e9350-4616-711f-ac52-02292f4a9433",
-      "time": "2026-06-04 23:46:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said real wages rose every month under Trump 2.0 policies except in April."
-    },
-    {
-      "id": "te:markets:556560",
-      "time": "2026-06-04 23:46:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Ends Higher on Middle East Ceasefire Hopes — London’s FTSE 100 erased early losses to close marginally higher at 10,345 on Thursday, in line with gains across European markets as investors welcomed signs of easing tensions in the Middle East. However, the UK benchmark underperformed regional peers as declines in oil majors and Asia-focused banks limited gains. Sentiment improved after Israel and Lebanon agreed to a ceasefire, raising hopes for broader de-escalation in the region. Meanwhile, the Republican-led US House voted to end military operations against Iran, a rare rebuke of President Trump’s administration. Lower crude prices weighed on energy stocks, with Shell down 1.4% and BP falling 0.7%, while investors also pared back expectations for further Bank of England rate hikes. Among the biggest laggards, Prudential (-7.3%), Standard Chartered (-3.2%), and HSBC (-2.0%) declined after reports that some banks had suspended the opening of Hong Kong accounts for mainland Chinese clients, a key channel for overseas investments."
-    },
-    {
-      "id": "4917829",
-      "time": "2026-06-04 23:45:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普第二屆任期內，除 4 月外各月實際薪資均實現增長。"
-    },
-    {
-      "id": "mkt:019e934f-f71b-711f-ac51-ffca24c5b7ce",
-      "time": "2026-06-04 23:45:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Federal Reserve's Daly said she has not yet seen AI investment raise financial stability concerns."
-    },
-    {
-      "id": "mkt:019e934f-d583-711f-ac51-f0fac4de9733",
-      "time": "2026-06-04 23:45:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "Nasdaq100"
-      ],
-      "text": "DALY said she is optimistic about artificial intelligence and that next year will be a key test of the industry's development direction."
-    },
-    {
-      "id": "4917828",
-      "time": "2026-06-04 23:45:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：目前未發現人工智慧投資引發金融穩定層面的隱患。"
-    },
-    {
-      "id": "mkt:019e934f-7820-711f-ac51-eb9ffef54dd2",
-      "time": "2026-06-04 23:45:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. is seeing short-term price increases that he expects will ease."
-    },
-    {
-      "id": "4917827",
-      "time": "2026-06-04 23:44:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：看好人工智慧發展，明年將成為關鍵試金石。"
-    },
-    {
-      "id": "4917826",
-      "time": "2026-06-04 23:44:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國物價短期上行，後續將會回落。"
-    },
-    {
-      "id": "4917825",
-      "time": "2026-06-04 23:43:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：資料中尚未體現人工智慧帶來的生產率提升。"
-    },
-    {
-      "id": "mkt:019e934d-fff1-711f-ac51-e1ffb623256d",
-      "time": "2026-06-04 23:43:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Daly said she has not yet seen evidence in the data of productivity gains from artificial intelligence."
-    },
-    {
-      "id": "4917824",
-      "time": "2026-06-04 23:42:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI北歐國家指數漲0.2%，報392.19點。在十個板塊中，北歐醫療保健板塊漲幅最大。馬士基漲8.3%，在一眾北歐個股裡領跑。"
     }
   ]
 }
