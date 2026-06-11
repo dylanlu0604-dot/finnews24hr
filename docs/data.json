@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-11 12:14:35",
+  "updated": "2026-06-11 12:18:28",
   "count": 18402,
   "items": [
+    {
+      "id": "te:markets:558250",
+      "time": "2026-06-11 12:17:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls to 3-Week Low — Copper futures dropped below $6.2 per pound on Thursday, touching their lowest levels in three weeks as heightened uncertainty in the Middle East and growing expectations of central bank interest rate hikes weighed on the outlook for industrial metals. The US and Iran exchanged attacks this week in a major violation of their ceasefire, although the US military later said it had completed its latest strikes on Iran, raising hopes that tensions may ease. Meanwhile, US consumer inflation accelerated in May to its fastest pace in more than three years due to soaring energy costs, though the reading matched market expectations. Traders modestly pared expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced. The prospect of higher borrowing costs continued to cloud the demand outlook for metals, as tighter monetary policy is expected to eventually slow economic activity and industrial consumption."
+    },
+    {
+      "id": "4929559",
+      "time": "2026-06-11 12:17:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內品牌金飾價格再次大幅下跌】今日國內黃金飾品價格對比顯示，多家品牌金飾價格較昨日下跌近40元/克，普遍報1236-1240元/克；菜百首飾足金價格跌幅較大，較昨日1305元/克下跌50元/克。"
+    },
+    {
+      "id": "4929558",
+      "time": "2026-06-11 12:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國與衣索比亞簽署中文教育合作協議 】中國-衣索比亞中文教育合作協議簽約儀式暨中埃塞人文交流招待會10日在埃塞首都亞的斯亞貝巴舉行，來自兩國教育、文化、外交、媒體、智庫等領域近百名嘉賓出席活動。中國駐衣索比亞大使陳海和衣索比亞教育部國務部長金德亞·加布雷希沃特分別代表兩國教育部簽署合作協議，這標誌著中文教育正式納入埃塞國民教育體系。"
+    },
+    {
+      "id": "4929557",
+      "time": "2026-06-11 12:14:50",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【因人工智慧漲勢存疑 外國人連續第二週拋售日股】週四公佈的資料顯示，截至6月6日，海外投資者已連續第二週拋售日本股票。此前，博通 公佈的財報表現不及預期，加劇了市場對科技股領漲行情已過頭的擔憂，投資者因此選擇在估值較高的科技股中獲利了結。此外，美國就業報告表現強勁，可能促使美聯儲更長時間保持鷹派立場，以及中東局勢 持續緊張，也對市場情緒構成壓力。根據日本財務省的資料，本週外國投資者淨拋售了7,010億日元（43.7億美元）的日本股票，較前一週4,915億日元的淨拋售額大幅增加。日經指數較上週創下的68,786.49點歷史高點已下跌約7.3%。儘管近期出現淨拋售，但今年迄今為止，外國投資者仍向日本股市注入了約10.63萬億日元，而去年同期僅買入約1.26萬億日元。"
+    },
+    {
+      "id": "te:economy:558248",
+      "time": "2026-06-11 12:14:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Retail Sales Drop for First Time in Year — Indonesia’s retail sales fell 3.7% yoy in April 2026, reversing a 3.4% increase in the prior month and marking the first decline since April 2025. The pullback underscored weaker household spending conditions, with higher non-subsidized fuel prices weighing on consumers’ purchasing power. Sales shrank more sharply for clothing (-7.0% vs -2.4% in March), and purchases of information and communication equipment stayed deeply negative (-26.4% vs -26.4%). Sales of food, beverages, and tobacco fell 3.8%, after a 4.7% rise in March, and fuel sales also weakened (-0.9% vs 2.1%). Growth eased for automotive parts (14.7% vs 15.5%) and recreational goods (0.7% vs 14.8%). In contrast, sales of other household appliances returned to growth (0.6% vs -3.5%). Monthly, retail sales plunged 11.6%, swinging from March’s 10.3% gain and recording the steepest fall since June 2022. Looking ahead, retail activity is likely to remain subdued as households continue to face pressure from elevated living costs."
+    },
     {
       "id": "4929556",
       "time": "2026-06-11 12:13:27",
@@ -169553,53 +169603,6 @@
         "Important"
       ],
       "text": "【New public-cloud large-model Token service performance monitoring platform to launch】A High-Quality Token Service seminar will be held on June 16, where organizers will launch a new public-cloud large-model Token service performance monitoring platform and publish Public-Cloud Large-Model Token Service Performance Monitoring Results (June 2026). The report will present objective, quantitative comparisons of Token throughput and latency across mainstream Token service platforms to inform vendor selection and service-quality improvements; the forum will also issue a series of Token service standards with authoritative interpretation."
-    },
-    {
-      "id": "4916547",
-      "time": "2026-06-04 12:18:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東和平協議預期升溫，外資湧入日本債市規模創八週新高】受中東衝突有望迎來解決方案提振、債券收益率從數十年高位回落影響，截至5月30日當週，外資淨流入日本債券規模創下八週峰值。日本財務省週四公佈資料顯示，當週外資合計淨買入日本債券1.74萬億日元（摺合108.8億美元），創4月4日當週淨增持1.99萬億日元以來的單週最高淨買入額。其中外資淨買入短期國庫券4947億日元、長期債券1.25萬億日元，實現連續第二週淨增持。此前一週日本10年期國債收益率一度觸及2.8%，創下29年新高；上週該收益率回落15個基點，最新報2.645%。與此同時，日本股票市場方面，外資當週淨賣出股票4912億日元，終結了此前連續八週淨買入的態勢。"
-    },
-    {
-      "id": "te:markets:556360",
-      "time": "2026-06-04 12:17:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Pulls Back on Profit-Taking, Weak May Exports — Malaysian palm oil futures traded below MYR 4,650 per tonne, retreating from a recent rally as investors locked in profits after prices reached a two-week high. Sentiment was also pressured by weakness in competing edible oils on the Dalian and Chicago exchanges, while lower crude oil prices reduced support for the vegetable oil complex. Fundamentals remained bearish as a Reuters survey projected Malaysia's palm oil inventories to rise for a second straight month in May, with sluggish exports offsetting lower output. Cargo surveyors reported shipments fell 8.8%–15.5% in May from April, underscoring weak overseas demand. Meanwhile, palm oil purchases by India, the world's largest buyer, increased slightly from April's four-month low but remained below normal levels. Moreover, uncertainty over Indonesia’s export policies and stronger competition from alternative oils added pressure. Still, a softer ringgit helped cushion losses by improving the appeal of Malaysian exports."
-    },
-    {
-      "id": "mkt:019e90d9-37e1-7cc0-ba24-6b7c082b7957",
-      "time": "2026-06-04 12:16:55",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Quant 'fixed‑income+' funds see surge; assets almost double】Kaiyuan Securities research, covering publicly offered quant 'fixed‑income+' funds with ≥ CNY100 mln AUM, shows rapid expansion since 2020 and an acceleration from Q3 2025. As of April 26, 2026 there are 70 such funds with combined AUM of CNY159.6 bln; assets have nearly doubled in under a year amid lower risk‑free rates and widening A‑share dispersion as managers deploy quant strategies to capture equity opportunities."
-    },
-    {
-      "id": "4916546",
-      "time": "2026-06-04 12:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新版“公有云大模型Token服務效能監測平臺”即將上線】“高質量Token服務研討會”將於6月16日召開。記者獲悉，論壇將上線新版“公有云大模型Token服務效能監測平臺”，併發布“公有云大模型Token服務效能監測結果（2026年6月）”，對主流Token服務平臺的Token吞吐率、時延等效能進行客觀量化評估，為產業各方選型參考與服務質量提升提供參考依據。另外，論壇將集中釋出“Token服務”系列標準並進行權威解讀。"
-    },
-    {
-      "id": "4916545",
-      "time": "2026-06-04 12:15:59",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：閱文集團今年利潤可能低於預期  維持買入評級】花旗分析師在一份研究報告中表示，閱文集團今年的利潤可能低於此前的預期。他們指出，這主要是由於稅務問題，因為該公司需補繳2020年至2022年的人民幣3億元企業所得稅及滯納金。他們補充說，這筆款項將記錄在2026年的財務報表中。“我們預計這一一次性影響將導致平均預期下調，而該事項不會對公司的正常運營產生重大影響，“他們指出。花旗繼續將該公司視為透過短劇和AI劇集釋放其IP價值的AI技術的“主要受益者“。花旗維持買入評級，目標價為37.00港元。"
     }
   ]
 }
