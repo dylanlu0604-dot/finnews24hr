@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-12 05:19:07",
-  "count": 18423,
+  "updated": "2026-06-12 05:23:03",
+  "count": 18422,
   "items": [
+    {
+      "id": "4931264",
+      "time": "2026-06-12 05:21:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體：錫裡克海岸附近傳出爆炸聲，事發原因及爆炸來源尚不明確。"
+    },
+    {
+      "id": "mkt:019eb88f-f45d-7dd8-afcb-da8f01edcf6d",
+      "time": "2026-06-12 05:21:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv, citing Iranian media, reported explosions were heard near the coast of Sirik, Iran; cause and origin unclear."
+    },
     {
       "id": "mkt:019eb88d-0a27-7dd8-afcb-d255f4d48d6a",
       "time": "2026-06-12 05:18:31",
@@ -169877,30 +169894,6 @@
         "公司"
       ],
       "text": "標普道瓊斯指數公司計劃不對超大市值公司指數的入選資格期限做出任何調整。"
-    },
-    {
-      "id": "4918187",
-      "time": "2026-06-05 05:21:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普道瓊斯指數：巨型市值股票指數入選視窗期暫無調整計劃。"
-    },
-    {
-      "id": "4918186",
-      "time": "2026-06-05 05:19:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據CNN：影片顯示，今年3月參與對伊朗軍事行動時發生火災的美國“福特”號航母，其損壞程度比海軍方面所說的要嚴重得多。"
-    },
-    {
-      "id": "mkt:019e9481-8e22-7cc8-bdee-c694837644a2",
-      "time": "2026-06-05 05:19:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to CNN, video footage shows the US carrier USS Ford, which suffered a fire in March during operations against Iran, appears more severely damaged than the US Navy has reported."
     }
   ]
 }
