@@ -1,7 +1,199 @@
 {
-  "updated": "2026-06-12 03:31:46",
-  "count": 18454,
+  "updated": "2026-06-12 03:35:34",
+  "count": 18463,
   "items": [
+    {
+      "id": "mkt:019eb82e-41eb-7dd8-afca-3ac7fd78f5af",
+      "time": "2026-06-12 03:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he cannot attend the signing ceremony."
+    },
+    {
+      "id": "te:markets:558454",
+      "time": "2026-06-12 03:34:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 7-week Low — Crude Oil decreased to 85.94 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Crude Oil WTI lost 15.74%, and in the last 12 months, it increased 26.54%."
+    },
+    {
+      "id": "4931206",
+      "time": "2026-06-12 03:34:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守86美元/桶，日內跌4.49%。"
+    },
+    {
+      "id": "4931205",
+      "time": "2026-06-12 03:34:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4210美元/盎司，日內漲3.46%。"
+    },
+    {
+      "id": "mkt:019eb82d-ef3b-7dd8-afca-30a1f4578009",
+      "time": "2026-06-12 03:34:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the Iran agreement could be signed this weekend; Vice President Pence will attend."
+    },
+    {
+      "id": "4931204",
+      "time": "2026-06-12 03:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗事務：美國副總統萬斯將到場出席。"
+    },
+    {
+      "id": "4931203",
+      "time": "2026-06-12 03:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：相關協議或於本週末簽署。"
+    },
+    {
+      "id": "mkt:019eb82d-54fa-7dd8-afca-2aa2aa1342b5",
+      "time": "2026-06-12 03:33:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said multiple ships were destroyed in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019eb82c-b2a7-7dd8-afca-21544805d4e3",
+      "time": "2026-06-12 03:33:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he just spoke with the leaders of Qatar, the UAE and Saudi Arabia."
+    },
+    {
+      "id": "mkt:019eb82c-7b55-7dd8-afca-1c40e8e0547a",
+      "time": "2026-06-12 03:33:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the Strait of Hormuz will be open immediately after we sign the agreement."
+    },
+    {
+      "id": "mkt:019eb82c-6aea-7dd8-afca-12b1008d6ef7",
+      "time": "2026-06-12 03:32:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver jumped $4 intraday to $67.41/oz, up 6.35%."
+    },
+    {
+      "id": "4931201",
+      "time": "2026-06-12 03:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：協議簽署後海峽將立即開放。"
+    },
+    {
+      "id": "mkt:019eb82c-021c-7dd8-afca-099a8d6a2ddc",
+      "time": "2026-06-12 03:32:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump will speak with Turkish President Erdogan."
+    },
+    {
+      "id": "mkt:019eb82b-b962-7dd8-afca-00d329fed548",
+      "time": "2026-06-12 03:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump phoned Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "mkt:019eb82b-b70b-7dd8-afc9-f8d3284fde1b",
+      "time": "2026-06-12 03:32:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude down 6.00% intraday at $88.12/bbl. Trump is speaking on Iran."
+    },
+    {
+      "id": "4931200",
+      "time": "2026-06-12 03:32:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：剛剛與卡達、阿聯酋、沙烏地阿拉伯的領導人通了電話。"
+    },
+    {
+      "id": "4931199",
+      "time": "2026-06-12 03:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能在接下來的幾天內達成最終協議。伊朗協議的簽署可能在歐洲進行。檔案已接近最終階段。"
+    },
+    {
+      "id": "mkt:019eb82b-5c6e-7dd8-afc9-f5ca23ab136b",
+      "time": "2026-06-12 03:31:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said the document is nearing its final stage."
+    },
+    {
+      "id": "mkt:019eb82b-3ed3-7dd8-afc9-e9bef320e570",
+      "time": "2026-06-12 03:31:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the signing of an Iran agreement may take place in Europe."
+    },
+    {
+      "id": "mkt:019eb82b-0ad2-7dd8-afc9-e1f598f25e07",
+      "time": "2026-06-12 03:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said a final agreement may be reached within the next few days."
+    },
     {
       "id": "mkt:019eb82a-edca-7dd8-afc9-dbf6dd738997",
       "time": "2026-06-12 03:31:21",
@@ -170028,113 +170220,6 @@
         "The Trump Trade"
       ],
       "text": "President Trump said he will invoke the Defense Production Act to keep 13 coal-fired power plants operational."
-    },
-    {
-      "id": "4918097",
-      "time": "2026-06-05 03:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將保全 14 座燃煤電廠、42 座煤礦，新建兩座燃煤發電廠以及一座大型煤炭出口碼頭，煤炭出口是前景廣闊的優質外貿產業，煤炭發電的穩定性更是其他能源難以替代，各類替代能源都無法實現同等穩定的供電能力。"
-    },
-    {
-      "id": "4918096",
-      "time": "2026-06-05 03:34:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "據POLITICO：五角大樓可能因俄羅斯問題取消向德國出售導彈。"
-    },
-    {
-      "id": "mkt:019e9421-320c-755d-92d5-97e7af989504",
-      "time": "2026-06-05 03:34:23",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "F.N"
-      ],
-      "text": "President Trump said he had a good meeting with executives from GM and Ford."
-    },
-    {
-      "id": "4918095",
-      "time": "2026-06-05 03:34:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic總裁認為：高昂的計算成本是推動公司IPO的主因】人工智慧（AI）科技公司Anthropic PBC聯合創始人兼總裁Daniela Amodei表示，開發人工智慧模型的驚人成本，正促使像她們這樣的公司轉向公開資本市場尋求資金。Amodei認為，“訓練AI模型是一項極其消耗資本的業務，”公開市場“非常適合這一特性”。 就在Claude的開發商秘密提交美國IPO申請檔案的幾天後，Amodei在舊金山峰會的舞臺上坦言，“秘密申請讓我們擁有了在美國證券交易委員會（SEC）審查後，擇機選擇上市的權利，遺憾的是，關於IPO相關的任何事情，我目前只能透露這麼多。”Amodei表示，Anthropic希望為最好的結果做好規劃，但不會購買超過其能高效產出的計算資源。她說道：“我們更希望看到產品面臨的需求，比我們現有的服務能力還要多出那麼一點點。”"
-    },
-    {
-      "id": "mkt:019e9420-d439-755d-92d5-8d951547f24d",
-      "time": "2026-06-05 03:33:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Politico reports the Pentagon may cancel a planned missile sale to Germany over concerns about Russia."
-    },
-    {
-      "id": "4918093",
-      "time": "2026-06-05 03:33:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：與通用汽車、福特公司高管舉行了一場富有成效的會談。"
-    },
-    {
-      "id": "4918092",
-      "time": "2026-06-05 03:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：昨天與通用汽車總裁的會面非常棒。"
-    },
-    {
-      "id": "mkt:019e9420-2818-755d-92d5-80eb8e840494",
-      "time": "2026-06-05 03:33:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact mixed"
-      ],
-      "text": "MOODY'S said ALPHABET's $84 bln equity financing is positive for the company's credit rating."
-    },
-    {
-      "id": "mkt:019e941f-87ec-755d-92d5-7b4369331604",
-      "time": "2026-06-05 03:32:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Bessent: U.S. likely to grant country-specific exemptions for Russian oil】U.S. Treasury Secretary Bessent told the House Appropriations Committee on Thursday that any future exemptions allowing countries to buy Russian oil would likely be granted on a country-by-country basis rather than as a blanket waiver, and that the incremental revenue Russia would gain from such exemptions would be negligible."
-    },
-    {
-      "id": "mkt:019e941f-4899-755d-92d5-75081b778a05",
-      "time": "2026-06-05 03:32:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. President Trump said he will build two new coal-fired power plants and export coal."
-    },
-    {
-      "id": "mkt:019e941f-4892-755d-92d5-6d7cdab64e11",
-      "time": "2026-06-05 03:32:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. President Trump: wind energy has underperformed."
     }
   ]
 }
