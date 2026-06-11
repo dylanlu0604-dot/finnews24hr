@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-11 17:22:49",
-  "count": 18336,
+  "updated": "2026-06-11 17:26:35",
+  "count": 18338,
   "items": [
+    {
+      "id": "mkt:019eb600-ec1a-7dd8-afb9-dc68a411e205",
+      "time": "2026-06-11 17:26:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Invesco Nasdaq Technology ETF said trading will be suspended from the market open on June 12 until 10:30 that day."
+    },
+    {
+      "id": "4930154",
+      "time": "2026-06-11 17:25:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【MPOB報告確認產量下滑 棕櫚油市場或完成築底】MPOB報告資料顯示，5月馬來西亞棕櫚仁油產量、庫存雙下滑，雖然需求量也環比減少，但報告確認5月供應量收窄，對市場形成支撐。6月棕櫚仁油供需端及訊息面以偏多驅動為主，預計市場價格或維持震盪偏強執行。"
+    },
+    {
+      "id": "mkt:019eb600-8f2d-7dd8-afb9-d6003faa4853",
+      "time": "2026-06-11 17:25:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's foreign minister said during a meeting with Russian foreign minister Lavrov that 36 drones attacked Bahraini territory this morning."
+    },
+    {
+      "id": "4930153",
+      "time": "2026-06-11 17:24:52",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將在七國集團會議上提議出臺石油儲備相關舉措。"
+    },
+    {
+      "id": "4930152",
+      "time": "2026-06-11 17:24:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林外交大臣在與拉夫羅夫會晤時稱，今晨有 36 架無人機襲擊了巴林境內目標。"
+    },
+    {
+      "id": "4930151",
+      "time": "2026-06-11 17:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "由美國支援的人工智慧中心或將為菲律賓初步引入 100 億美元資金 。"
+    },
+    {
+      "id": "4930150",
+      "time": "2026-06-11 17:23:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太陽電纜：億力集團擬減持公司不超過3%股份】太陽電纜公告，持股10.4%的股東福建億力集團有限公司計劃於2026年7月6日至2026年9月30日，以集中競價方式減持不超過722.33萬股（佔總股本1%），以大宗交易方式減持不超過1444.67萬股（佔總股本2%），合計減持不超過2167萬股（佔總股本3%），減持原因為自身經營需要。"
+    },
+    {
+      "id": "mkt:019eb5fe-a9ba-7dd8-afb9-ce1505279f27",
+      "time": "2026-06-11 17:23:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan economic survey projects real GDP growth of 3.7% in FY2026."
+    },
+    {
+      "id": "4930149",
+      "time": "2026-06-11 17:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順鑫農業：下屬分公司鵬程食品因超標排放廢水被罰款25萬元】順鑫農業公告，下屬分公司鵬程食品分公司因汙水治理設施加藥泵故障，自測總磷合格後繼續排放廢水，當日汙水總排口總磷有效日均值達9.43mg/L，超出排汙許可證規定的8.0mg/L排放限值，超許可排放濃度倍數0.178倍，當日非停排時段累計排放廢水562.5噸，被北京市順義區生態環境局處以25萬元罰款。公司已要求鵬程食品積極配合環保部門完成整改措施，全面排查汙水治理設施、自動監控裝置，強化設施日常巡檢、維護及運維管理，完善環境管理制度，杜絕同類問題再次發生。"
+    },
+    {
+      "id": "te:economy:558339",
+      "time": "2026-06-11 17:23:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malta",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Malta Industrial Production Rebounds to 13-Month High — Industrial production in Malta rose by 7.3% year-on-year in April 2026, rebounding from a revised 3.8% decline in the previous month and marking the strongest growth since March 2025. The turnaround was mainly driven by higher output in the manufacturing sector (8.1% vs -5.0% in March), particularly in wood, paper products and printing (62.9%), followed by computer, electronic and optical products and motor vehicles (34.9%), and food products and beverages (13.0%). Among main industrial groupings, output accelerated for intermediate goods (11.0% vs 0.4%) and consumer durable goods (4.3% vs 0.1%), while consumer goods (7.6% vs -6.9%) and consumer non-durable goods (7.9% vs -7.4%) rebounded. In contrast, energy output declined (-9.2% vs 18.0%) and capital goods output fell further (-2.1% vs -0.3%).. On a seasonally adjusted monthly basis, industrial activity rose by 5.2% in April."
+    },
+    {
+      "id": "4930148",
+      "time": "2026-06-11 17:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦經濟調查：預計2026財年實際GDP增長率為3.7%。"
+    },
+    {
+      "id": "4930147",
+      "time": "2026-06-11 17:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多重原因影響下 花生山東產區播種面積繼續下滑】根據卓創資訊從產區調研情況反饋來看，山東地區新花生播種積極性繼續維持低位。初步測算2026產季新花生播種面積約50.55萬公頃，同比下滑6.64%。本產季山東產區整體播種時間正常，播種階段雨水適宜。"
+    },
+    {
+      "id": "mkt:019eb5fe-208c-7dd8-afb9-c539388e785d",
+      "time": "2026-06-11 17:23:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Turkey's foreign minister said Iran and the US must stop attacking and return to the negotiating table to reach an agreement."
+    },
     {
       "id": "4930146",
       "time": "2026-06-11 17:22:15",
@@ -168706,98 +168824,6 @@
         "國際"
       ],
       "text": "印度外交部：委內瑞拉將印度視為能源領域的優先合作伙伴。"
-    },
-    {
-      "id": "4917110",
-      "time": "2026-06-04 17:26:34",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【上海石化：關注到T1000級高效能碳纖維相關報道，本批次尚未形成銷售收入】上海石化公告，公司A股股票在2026年6月2日、6月3日和6月4日連續三個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經公司自查並向控股股東及實際控制人書面問詢，確認不存在應披露而未披露的重大資訊。公司關注到市場對T1000級高效能碳纖維的相關報道，該產品為12K小絲束，本批次產品尚未形成銷售收入，預計後續銷售收入佔公司整體營收、利潤比重較低，不會對主營業務與盈利水平構成重大影響。此外，公司生產經營正常，市場環境或行業政策未發生重大調整。"
-    },
-    {
-      "id": "4917109",
-      "time": "2026-06-04 17:25:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：在全國範圍內廣泛徵集第二批產業計量成果】市場監管總局辦公廳釋出關於徵集第二批產業計量成果的函，決定在全國範圍內廣泛徵集第二批產業計量成果。此次徵集主要包括四類產業計量成果：一是聚焦產業實際需求與“卡脖子”測量難題，自主研製的計量測試裝置；二是面向重點產業領域突破測量瓶頸，自主攻關的感測、線上、動態等關鍵計量測試技術；三是已起草或釋出的普適性強、推廣價值高的計量測試方法；四是圍繞服務模式創新與數字化、綠色化、智慧化等方面提質增效的計量促進產業發展典型案例。"
-    },
-    {
-      "id": "4917108",
-      "time": "2026-06-04 17:24:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【久量股份：擬公開掛牌出售全資子公司100%股權】久量股份公告稱，公司為最佳化資產結構，提高運營效率，擬出售全資子公司廣州久量小家電有限公司全部股權。該事項已獲十堰市國資委及湖北國鑫產業投資集團同意，還需在武漢光谷聯合產權交易所進行不少於20個工作日的資訊預披露，之後進行產權轉讓資訊正式披露。受讓方、最終交易價格和時間尚未確定，交易存在不確定性。"
-    },
-    {
-      "id": "4917107",
-      "time": "2026-06-04 17:24:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長飛光纖：2025年營收142.52億元 擬派現2.44億元】長飛光纖公告稱，2025年公司營業收入142.52億元，同比增長16.85%；淨利潤8.14億元，同比增長20.40%。公司擬以總股本827,905,108股為基數，向全體股東每10股派發現金紅利2.95元（含稅），合計派發現金紅利2.44億元。此外，2025年4 - 5月公司完成600萬股A股股份回購，金額1.97億元。公司2026年6月30日將召開年度股東會，審議14項議案。"
-    },
-    {
-      "id": "4917106",
-      "time": "2026-06-04 17:24:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國能建：簽署114.20億元海外電站專案EPC合同】中國能建公告稱，公司所屬子公司組建的聯營體作為總承包方，與沙特和勝科組成的專案公司簽署了阿布扎位元維拉C燃氣聯合迴圈電站專案EPC合同，合同金額16.87億美元，摺合人民幣114.20億元。專案位於阿聯酋，工程內容包括電站建設等工作，總工期32個月。"
-    },
-    {
-      "id": "4917105",
-      "time": "2026-06-04 17:23:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶青山鎂合金分散式電驅成功下線】據辰致集團訊息，近日，重慶青山鎂合金分散式電驅成功下線，標誌著其在新能源電驅輕量化領域實現關鍵產業化突破。目前，該電驅總成已進入後續專項測試階段，將全面驗證產品可靠性、耐久性及各項效能指標。"
-    },
-    {
-      "id": "4917104",
-      "time": "2026-06-04 17:23:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【密爾克衛：首次回購16萬股 支付金額849.57萬元】密爾克衛公告稱，公司於2026年5月26日審議透過回購議案，擬用8000萬元-12000萬元自有資金以集中競價方式回購股份，用於員工持股計劃或股權激勵，回購期限至2026年8月25日。6月4日，公司首次回購16萬股，佔總股本0.10%，回購價格52.43元/股-53.31元/股，已支付總金額849.57萬元。"
-    },
-    {
-      "id": "4917103",
-      "time": "2026-06-04 17:23:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【永鼎股份：股票交易異常波動 不存在應披露未披露事項】永鼎股份公告稱，公司股票於2026年6月2日至6月4日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬於異常波動。經自查及向控股股東、實控人查證，截至公告披露日，不存在應披露而未披露的重大事項。目前公司生產經營正常，控股股東、實控人及董高人員在異常波動期間無買賣公司股票情況。另外，公司市盈率高於行業水平，鄭重提醒投資者注意交易風險。"
-    },
-    {
-      "id": "4917102",
-      "time": "2026-06-04 17:23:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【長華集團：股票交易異常波動 不存在應披露未披露重大資訊】長華集團公告稱，公司股票於2026年6月2日、6月3日、6月4日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。經自查，公司目前經營正常，不存在應披露而未披露的重大資訊。此外，控股股東及實控人擬協議轉讓公司5.0121%股份，尚需交易所確認；公司籌劃對外投資，處於前期階段，存在不確定性。提醒投資者注意交易風險。"
-    },
-    {
-      "id": "mkt:019e91f1-8e13-7668-960e-67a0eed5db7c",
-      "time": "2026-06-04 17:23:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MIIT deputy minister Xiong Jijun meets SK China chairman Park Seong-jae on SK's China development】China's Ministry of Industry and Information Technology (MIIT) deputy minister Xiong Jijun met SK China chairman Park Seong-jae in Beijing to discuss SK Group's development in China. Xiong said China offers large growth potential, broad market prospects, stable policy expectations and a sound security environment, that MIIT values foreign firms including Korean companies, and encouraged SK to deepen investment, participate in China's new-type industrialization, build stable, predictable supply-demand partnerships with Chinese firms and advance higher-level industrial cooperation while MIIT continues to promote a market-oriented, rule-of-law, international business environment. Park said SK, long present in China, is optimistic about the economic outlook and business environment and plans to continue investing to support high-quality industrial cooperation between the two countries."
-    },
-    {
-      "id": "4917101",
-      "time": "2026-06-04 17:23:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先鋒精科：向不特定物件發行可轉換公司債券申請獲透過】先鋒精科(688605)6月4日公告，上海證券交易所上市稽核委員會於6月4日召開2026年第33次審議會議對公司向不特定物件發行可轉換公司債券的申請進行了審議，根據會議審議結果，公司本次向不特定物件發行可轉換公司債券的申請符合發行條件、上市條件和資訊披露要求。"
     }
   ]
 }
