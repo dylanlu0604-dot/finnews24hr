@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-11 14:53:53",
-  "count": 18326,
+  "updated": "2026-06-11 14:57:38",
+  "count": 18332,
   "items": [
+    {
+      "id": "mkt:019eb578-5f23-7dd8-afb5-c98d95c11c99",
+      "time": "2026-06-11 14:57:05",
+      "tags": [
+        "MKT News",
+        "AMKR.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "【Amkor weighing 1 trillion-won Gwangju expansion after surge in TSMC orders】Amkor is considering a roughly 1 trillion won (about CNY 4.42 bln) investment to expand its Gwangju, South Korea, packaging and testing plant and is conducting feasibility studies. The move is being driven by a recent sharp increase in orders from TSMC."
+    },
+    {
+      "id": "4929749",
+      "time": "2026-06-11 14:56:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【集安組織成員國認為應發揮歐亞地區穩定作用】集體安全條約組織（集安組織）外長理事會會議10日在俄西部城市喀山舉行，會議認為需共同採取措施以提升該組織能力，發揮歐亞地區穩定作用。據俄外交部網站10日訊息，俄羅斯、白俄羅斯、哈薩克、吉爾吉斯斯坦、塔吉克外長出席了本次會議。與會各方就當前國際安全問題交換意見，討論了集安組織區域內及周邊地區局勢。（新華社）"
+    },
+    {
+      "id": "4929748",
+      "time": "2026-06-11 14:55:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國司法部正式撤回對哈爾克銀行的案件後，土耳其哈爾克銀行股價在早盤交易中上漲3.93%。"
+    },
+    {
+      "id": "4929747",
+      "time": "2026-06-11 14:55:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達和亞馬遜支援Neura Robotics的14億美元融資】德國機器人公司Neura Robotics表示，該公司已獲得至多14億美元的融資，用於構建一個物理AI平臺，此輪融資獲得了亞馬遜、英偉達和歐洲投資銀行(European Investment Bank)的支援。這家機器人公司週三表示，隨著物理AI在製造業、物流、醫療健康和消費應用領域的需求不斷擴大，此筆資金旨在到2030年將生產規模擴大到數百萬臺機器人。該公司稱其儲備訂單已超過10億美元，並已獲得Tether、亞馬遜、英偉達、Qualcomm Technologies、博世(Bosch)、舍弗勒(Schaeffler)和歐洲投資銀行等科技和金融公司的支援。Neura表示，這筆資金將用於支援認知機器人和人形機器人的大規模商業化，並擴充套件該公司由AI驅動的機器人平臺。該公司補充稱，還將開發一個用於在真實環境中訓練機器人的網路。"
+    },
+    {
+      "id": "4929746",
+      "time": "2026-06-11 14:55:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量789億元。"
+    },
+    {
+      "id": "4929745",
+      "time": "2026-06-11 14:55:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代成交額達100億元，現跌1.8%】6月11日下午，寧德時代成交額達100億元，現跌1.83%。"
+    },
+    {
+      "id": "4929744",
+      "time": "2026-06-11 14:54:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業富聯成交額達100億元，現跌2%】6月11日下午，工業富聯成交額達100億元，現跌2.45%。"
+    },
+    {
+      "id": "4929743",
+      "time": "2026-06-11 14:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【來自臺積電的訂單大增 Amkor考慮投資1萬億韓元擴建韓國光州廠】半導體封測商Amkor考慮投資1萬億韓元（約合44.2億元人民幣）擴建其韓國光州廠，目前正在進行相關評估研究。據悉，推進擴建主要原因在於，近期來自臺積電的訂單近期大幅增長。"
+    },
+    {
+      "id": "4929742",
+      "time": "2026-06-11 14:54:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽主力合約觸及漲停，漲幅8.99％，報37710元/噸，年內第三次觸及漲停板。"
+    },
+    {
+      "id": "4929741",
+      "time": "2026-06-11 14:54:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國通脹高企 特朗普稱“我愛通脹”遭批】美國5月通貨膨脹水平創3年來新高，民眾生活成本壓力增大。美國總統特朗普10日卻表示“我愛通脹”。這一言論隨即在美國引發批評，也令共和黨人擔憂可能拖累該黨今年國會中期選舉選情。（新華社）"
+    },
+    {
+      "id": "4929740",
+      "time": "2026-06-11 14:53:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生指數一度跌破24000點，業內人士建議“分批佈局”】6月11日上午，恒生指數一度跌破24000點，擊穿了3月的低點，延續了過去幾個月對A股和外盤都“跟跌不跟漲”的走勢。業內人士看來，港股估值並不高，當前位置適合分批佈局，而非重倉追漲殺跌，建議投資者優先選擇盈利穩定、估值合理、具備競爭優勢的優質資產；此外，部分權重網際網路公司因為估值已經處於低點，能給市場提供一定的穩定性。（第一財經）"
+    },
     {
       "id": "mkt:019eb574-b285-7dd8-afb5-c5c144e3d418",
       "time": "2026-06-11 14:53:04",
@@ -168754,51 +168850,6 @@
         "MKT News"
       ],
       "text": "【China, Vietnam hold new round of Gulf of Tonkin outer-sea delimitation and offshore joint-development talks】June 3, 2026 — Chinese and Vietnamese delegations met in Vung Tau for the 18th round of the Gulf of Tonkin outer-sea delimitation working group and the 15th round of the offshore joint development working group. Chaired by China’s foreign ministry boundary and maritime affairs representative and Vietnam’s national boundary committee director, the sides exchanged detailed views and agreed to implement the important consensus reached by their leaders, accelerate synchronized progress on delimitation and South China Sea joint development, and seek early substantive results. They also agreed to properly manage maritime differences and to advance cooperation to maintain peace and stability in the South China Sea."
-    },
-    {
-      "id": "4916735",
-      "time": "2026-06-04 14:57:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中證投服中心啟動新一期課題申報 研究網紅非法薦股亂象成監管重點】中證中小投資者服務中心最新啟動了第10期課題研究申報工作，旨在推進資本市場法治和投資者保護領域研究，有效提升投資者獲得感。申報設有兩大選題，分別為證券虛假陳述重大性認定問題研究、網路社交媒體對中小投資者交易行為的影響及監管研究。其中，對於網紅非法薦股亂象的研究契合近年來資本市場重點，中證投服中心稱，財經網紅無牌推廣、虛假資訊傳播、大V非法薦股、利用平臺喊單拉漲後拋售等問題頻發，嚴重擾亂市場秩序及侵害投資者合法權益。依據以往情況，依託實證研究，有望後續完善制度細則，補齊投資者保護制度短板，為資本市場精細化監管落地提供實務參考。"
-    },
-    {
-      "id": "4916734",
-      "time": "2026-06-04 14:57:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中越舉行北部灣灣口外海域工作組和海上共同開發磋商工作組新一輪磋商】2026年6月3日，外交部邊界與海洋事務代表胡煒與越南外交部國家邊界委主任阮登勝在越南頭頓共同主持中越北部灣灣口外海域工作組第十八輪磋商和海上共同開發磋商工作組第十五輪磋商，兩國有關部門代表參加。雙方就北部灣灣口外海域劃界和南海共同開發深入交換意見，一致表示要認真落實兩黨兩國領導人達成的重要共識，加快同步推進北部灣灣口外海域劃界和南海共同開發，爭取早日取得實質進展。雙方還就其他涉海問題進行了溝通，一致認為應妥善管控海上分歧，積極推進涉海合作，共同維護南海和平穩定。（央視新聞）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606043760353178",
-      "time": "2026-06-04 14:55:37",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "據報道，日本央行傾向於從2027財年起暫停或放緩縮減購債規模的步伐。"
-    },
-    {
-      "id": "4916733",
-      "time": "2026-06-04 14:55:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【納微半導體與英偉達達成合作】當地時間6月3日，美國納微半導體公司宣佈與英偉達達成合作，將共同加速800伏直流AI基礎設施建設，成為最新搭乘英偉達“AI基建快車”的半導體企業。受合作訊息提振，納微半導體股價當天一度創下盤中新高，收漲19.26%至每股30.84美元。今年以來公司股價累計上漲331.93%，市值約為73.1億美元。（央視財經）"
-    },
-    {
-      "id": "mkt:019e9169-31f7-7113-83c8-c329ad4a8546",
-      "time": "2026-06-04 14:54:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Horgos port entries and exits reach 646,000 in Jan–May】Cross-border travel and trade at the Horgos road port have surged since implementation of the China‑Kazakhstan 30‑day mutual visa exemption this year, driving record passenger and group travel volumes. Horgos immigration inspection station data show the port cleared 646,000 entries and exits in Jan–May, up 19.8% YoY — a historical high."
     }
   ]
 }
