@@ -1,7 +1,437 @@
 {
-  "updated": "2026-06-11 20:14:37",
-  "count": 18340,
+  "updated": "2026-06-11 20:18:34",
+  "count": 18376,
   "items": [
+    {
+      "id": "mkt:019eb69e-2964-7dd8-afbe-d4b242e49654",
+      "time": "2026-06-11 20:17:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB says outlook remains uncertain; inflation carries upside risks while economic growth faces downside risks."
+    },
+    {
+      "id": "4930566",
+      "time": "2026-06-11 20:17:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：局勢的整體影響取決於衝突的持續時長與激烈程度。"
+    },
+    {
+      "id": "mkt:019eb69e-00a1-7dd8-afbe-ccec359c6d0e",
+      "time": "2026-06-11 20:17:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB said its decision to raise rates is robust across scenarios in addressing evolving shocks and their impact on the euro area's medium-term outlook."
+    },
+    {
+      "id": "mkt:019eb69d-e0aa-7dd8-afbe-c2f83c27e63f",
+      "time": "2026-06-11 20:17:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB: With today's decision the Governing Council remains well placed to address uncertainty arising from the war."
+    },
+    {
+      "id": "4930565",
+      "time": "2026-06-11 20:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無錫（惠山）國產智算中心一期正式點亮】在今天舉行的2026長三角機器人及自動化展覽會暨無錫具身智慧機器人產業鏈夥伴大會上，由摩爾執行緒提供算力支援的無錫（惠山）國產智算中心一期正式點亮。同時，摩爾執行緒已在無錫落地工業具身智慧創新中心。"
+    },
+    {
+      "id": "mkt:019eb69d-bd59-7dd8-afbe-bf5468556317",
+      "time": "2026-06-11 20:17:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "EURUSD",
+        "XAUUSD"
+      ],
+      "text": "ECB says the war in the Middle East is generating inflationary pressures."
+    },
+    {
+      "id": "4930564",
+      "time": "2026-06-11 20:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗錫裡克海岸附近發生爆炸。"
+    },
+    {
+      "id": "mkt:019eb69d-839b-7dd8-afbe-b74e17030977",
+      "time": "2026-06-11 20:17:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB says it has not precommitted to a specific interest-rate path."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768497791",
+      "time": "2026-06-11 20:17:16",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行：並未預先承諾採取特定的利率路徑】歐洲央行稱，並未預先承諾採取特定的利率路徑，將採取資料驅動、逐次會議審議的方式。"
+    },
+    {
+      "id": "4930563",
+      "time": "2026-06-11 20:17:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將2026年核心通脹預測從2.3%上調至2.5%。"
+    },
+    {
+      "id": "4930562",
+      "time": "2026-06-11 20:17:09",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行宣佈上調三大關鍵利率】記者獲悉，當地時間6月11日，歐洲央行宣佈將歐元區三大關鍵利率分別上調25個基點，歐元區存款機制利率、主要再融資利率和邊際借貸利率分別為2.25%、2.40%和2.65%。本月初，歐盟統計局公佈的初步資料顯示，歐元區5月消費者價格指數（CPI）同比上漲3.2%，創下自2023年9月以來的最高水平。歐元區能源價格同比漲幅連續兩個月超過10%。分析認為，在中東衝突引發能源價格上漲、導致歐元區通脹壓力再度抬頭的背景下，歐洲央行希望在成本衝擊進一步擴散至整體經濟之前，透過加息遏制通脹。（央視財經）"
+    },
+    {
+      "id": "mkt:019eb69d-5ad7-7dd8-afbe-ae6073d0f50a",
+      "time": "2026-06-11 20:17:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB will closely monitor developments and determine its monetary policy stance on a data-dependent, meeting-by-meeting basis."
+    },
+    {
+      "id": "mkt:019eb69d-5238-7dd8-afbe-a4fb57e83ae5",
+      "time": "2026-06-11 20:17:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The ECB raised rates by 25 bps as expected; EUR/USD briefly edged up to 1.1537."
+    },
+    {
+      "id": "mkt:019eb69d-39ad-7dd8-afbe-9f79b61f6cd8",
+      "time": "2026-06-11 20:16:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB projects GDP growth of 0.8% in 2026, 1.2% in 2027 and 1.5% in 2028, versus March projections of 0.9%, 1.3% and 1.4% respectively."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768497463",
+      "time": "2026-06-11 20:16:49",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行稱，2026年和2027年剔除能源和食品的通脹基線預測平均為2.5%，2028年為2.2%。"
+    },
+    {
+      "id": "4930561",
+      "time": "2026-06-11 20:16:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將2028年通脹預測從2.1%下調至2%。"
+    },
+    {
+      "id": "4930560",
+      "time": "2026-06-11 20:16:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將2026年歐元區通脹預測從2.6%上調至3%；2026年和2027年剔除能源和食品的通脹基線預測平均為2.5%，2028年為2.2%。"
+    },
+    {
+      "id": "mkt:019eb69c-dbcc-7dd8-afbe-9392b3263be6",
+      "time": "2026-06-11 20:16:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB expects inflation of 3.0% in 2026, 2.3% in 2027 and 2.0% in 2028, revised from March projections of 2.6%, 2.0% and 2.1%, respectively."
+    },
+    {
+      "id": "4930559",
+      "time": "2026-06-11 20:16:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：戰爭對中期通脹和增長的全部影響，將取決於能源價格衝擊的強度與持續時間，以及其間接影響和第二輪效應的規模。"
+    },
+    {
+      "id": "4930558",
+      "time": "2026-06-11 20:16:16",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【德意志銀行：本屆世界盃有望創造400億美元GDP】根據德意志銀行的預測，本屆世界盃有望為全球帶來最高約400億美元的國內生產總值（GDP）增量，超過80萬個臨時就業崗位。值得注意的是，與2014年巴西、2022年卡達世界盃的大興土木不同，北美三國主要依託現有場館，直接資本投入僅約10億美元，屬於典型的“輕資產”辦賽模式。 據德銀援引的行業估算，美國的絕對收益最大，預計實現約170億美元的經濟增量；墨西哥的相對彈性最為突出，經濟產出增量相當於其GDP的0.1%至0.2%，日常消費品、機場和通訊板塊被視為潛在受益方向。 對FIFA而言，這有望成為史上最賺錢的一屆世界盃：FIFA預計本屆賽事將帶來約89億美元收入，佔其2023至2026年商業週期約130億美元收入預期的近七成。（第一財經）"
+    },
+    {
+      "id": "4930557",
+      "time": "2026-06-11 20:16:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行決議後，歐元/美元匯率基本持平於1.1535。"
+    },
+    {
+      "id": "4930556",
+      "time": "2026-06-11 20:16:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：經濟前景仍不明朗，通脹面臨上行風險，經濟增長面臨下行風險。"
+    },
+    {
+      "id": "4930555",
+      "time": "2026-06-11 20:16:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：將密切監控局勢，並遵循依賴資料、逐次會議決定的策略，來確定合適的貨幣政策立場。"
+    },
+    {
+      "id": "4930554",
+      "time": "2026-06-11 20:16:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：管委會今日作出這一決定後，仍將保有充足空間靈活應對這場戰爭引發的不確定性。"
+    },
+    {
+      "id": "4930553",
+      "time": "2026-06-11 20:15:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行核心通脹預測：2026年與2027年為2.5%，2028年為2.2%。"
+    },
+    {
+      "id": "4930552",
+      "time": "2026-06-11 20:15:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：在描繪此次衝擊可能如何演變並影響歐元區中期前景的一系列情景下，加息決定都具有穩健性。"
+    },
+    {
+      "id": "4930551",
+      "time": "2026-06-11 20:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：致力於實現 2% 的通脹目標。"
+    },
+    {
+      "id": "mkt:019eb69c-35b4-7dd8-afbe-8c1d47afcbce",
+      "time": "2026-06-11 20:15:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB projects inflation excluding energy and food to average 2.5% in 2026-27 and 2.2% in 2028."
+    },
+    {
+      "id": "4930550",
+      "time": "2026-06-11 20:15:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，由於歐元體系不再對到期證券的本金償付進行再投資，其資產購買計劃（APP）與疫情緊急採購專案（PEPP）投資組合正以平穩可預測的節奏縮量。"
+    },
+    {
+      "id": "4930549",
+      "time": "2026-06-11 20:15:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，在歐元體系工作人員最新預測的基準情景下，預計整體通脹2026年平均為3.0%，2027年平均為2.3%，2028年平均為2.0%。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768496575",
+      "time": "2026-06-11 20:15:24",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行近三年來首次加息】歐洲央行將存款利率上調至2.25%，將主要再融資利率上調至2.40%，將邊際貸款利率上調至2.65%，符合市場預期。"
+    },
+    {
+      "id": "4930548",
+      "time": "2026-06-11 20:15:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，與3月相比，工作人員因能源價格上行路徑上調了2026年和2027年的基線通脹預測，預計能源價格漲幅將在一定程度上傳導至食品、商品和服務業通脹。"
+    },
+    {
+      "id": "mkt:019eb69b-c31f-7dd8-afbe-87ef38c58d54",
+      "time": "2026-06-11 20:15:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "ECB marginal lending facility rate in the euro area was 2.65% as of June 11; consensus 2.65%, previous 2.40%."
+    },
+    {
+      "id": "mkt:019eb69b-ac40-7dd8-afbe-7ec568769b75",
+      "time": "2026-06-11 20:15:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB raises rates for first time in nearly three years】ECB raised the deposit facility rate by 25bps to 2.25%, its first increase in nearly three years and in line with market expectations. The main refinancing rate was lifted to 2.40% and the marginal lending rate to 2.65%."
+    },
+    {
+      "id": "4930547",
+      "time": "2026-06-11 20:15:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行近三年來首次加息】歐洲央行將存款機制利率從2.00%上調至2.25%，為近三年來首次上調利率，符合市場預期。主要再融資利率和邊際貸款利率分別上調至2.40%和2.65%。"
+    },
+    {
+      "id": "mkt:019eb69b-a3f3-7dd8-afbe-7424c7db9214",
+      "time": "2026-06-11 20:15:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Marginal Lending Facility Rate (Jun.11) | actual 2.65% | consensus 2.65% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019eb69b-9eeb-7dd8-afbe-6c2af7ac1360",
+      "time": "2026-06-11 20:15:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro area to June 11: ECB main refinancing rate 2.40% (expected 2.40%; previous 2.15%)."
+    },
+    {
+      "id": "mkt:019eb69b-9bc9-7dd8-afbe-67696c38dd03",
+      "time": "2026-06-11 20:15:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone ECB deposit facility rate as of June 11: 2.25%, expected 2.25%, previous 2.00%."
+    },
+    {
+      "id": "mkt:019eb69b-7b62-7dd8-afbe-5f2b636dba51",
+      "time": "2026-06-11 20:15:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Main Refinancing Rate (Jun.11) | actual 2.4% | consensus 2.40% | previous 2.15%"
+    },
+    {
+      "id": "mkt:019eb69b-7b5b-7dd8-afbe-57a9f55d6740",
+      "time": "2026-06-11 20:15:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Deposit Facility Rate (Jun.11) | actual 2.25% | consensus 2.25% | previous 2.00%"
+    },
+    {
+      "id": "mkt:019eb69b-706d-7dd8-afbe-4c681f75f289",
+      "time": "2026-06-11 20:15:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O"
+      ],
+      "text": "【XPeng reportedly launches yacht project codenamed Flying Fish; company says 'not aware'】Reports say China EV maker XPeng has entered the yacht market with a project codenamed Flying Fish and has formed a dedicated R&D team of nearly 100 people led by vehicle architecture head Qian Zhanwei. The project is said to remain in early R&D with no technical specs or launch timetable disclosed. XPeng said it was \"not aware\" of the matter. Automakers including Mercedes‑AMG, Lamborghini, Porsche and Lexus have previously moved into the yacht segment."
+    },
+    {
+      "id": "4930546",
+      "time": "2026-06-11 20:14:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西沁源縣副縣長魏小祥被查】長治市沁源縣人民政府黨組成員、副縣長魏小祥涉嫌嚴重違紀違法，目前正接受長治市紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "4930545",
       "time": "2026-06-11 20:13:51",
@@ -168761,60 +169191,6 @@
         "WTI"
       ],
       "text": "Hezbollah leader said the group never pledged to anyone that it would not resist aggression or respond, and that as long as the aggression continues it will resist with all the force at its disposal."
-    },
-    {
-      "id": "4917501",
-      "time": "2026-06-04 20:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "肯亞總統談及為美國設立埃博拉檢疫設施的計劃時表示：我們正在做正確的事。"
-    },
-    {
-      "id": "4917500",
-      "time": "2026-06-04 20:16:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博傑股份：擬定增募資不超15.03億元用於伺服器檢測裝置及散熱模組零部件產能建設等專案】博傑股份公告，公司2026年度擬向特定物件發行A股股票募集資金不超過15.03億元，扣除發行費用後的募集資金淨額擬用於伺服器檢測裝置及散熱模組零部件產能建設專案、先進研發中心及平臺建設專案及補充流動資金。本次向特定物件發行股票數量不超過發行前公司總股本的30%。"
-    },
-    {
-      "id": "4917499",
-      "time": "2026-06-04 20:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "據港交所檔案：Silvercorp Metals Inc.向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019e9290-1680-7668-9612-f7230bd75eff",
-      "time": "2026-06-04 20:16:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Silvercorp Metals Inc. filed a listing application with HKEX, according to HKEX filings."
-    },
-    {
-      "id": "4917498",
-      "time": "2026-06-04 20:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎總統稱黎以停火協議獲批後24小時內可實施】黎巴嫩總統奧恩4日表示，一旦獲得最終批准，黎以停火協議可在24小時內開始實施。奧恩當天接受黎巴嫩當地媒體採訪時表示，自當地時間凌晨2時起，他一直與國際及國內有關方面保持聯絡，以推動鞏固停火協議。“我們正在等待所有相關方的回應以及履行承諾的保證。一旦協議獲得最終批准，可在24小時內實施。”奧恩表示，該協議是“最後一次機會”，並警告“如果錯失這一機會，各方都將承擔相應責任”。據黎巴嫩國家通訊社4日報道，奧恩當天會見了法國總統特使勒德里昂，並對友好國家和兄弟國家為鞏固停火所提供的幫助表示歡迎。奧恩強調，“必須避免給以色列提供不撤軍的藉口”。黎衛生部3日釋出的資料顯示，自3月2日黎以戰火重燃以來，以色列襲擊黎巴嫩已造成3516人死亡、10674人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019e928e-a923-7668-9612-e9b366e16561",
-      "time": "2026-06-04 20:14:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Hezbollah leader said the group refuses to link its presence to a ceasefire or to an Israeli withdrawal."
     }
   ]
 }
