@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-12 03:24:11",
-  "count": 18444,
+  "updated": "2026-06-12 03:28:00",
+  "count": 18445,
   "items": [
+    {
+      "id": "4931184",
+      "time": "2026-06-12 03:26:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國負責武裝部隊事務的國務大臣卡恩斯釋出辭職信。"
+    },
+    {
+      "id": "4931183",
+      "time": "2026-06-12 03:26:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報89.32美元/桶。"
+    },
+    {
+      "id": "mkt:019eb825-a2f0-7dd8-afc9-bde6c3155cfc",
+      "time": "2026-06-12 03:25:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls on 11th】The dollar index, measuring the greenback against six major currencies, fell 0.1% to 99.852 at the New York close. EUR/USD rose to 1.1558 from 1.1548; GBP/USD to 1.3398 from 1.3380. USD/JPY eased to 160.08 from 160.50; USD/CHF to 0.7970 from 0.7994. USD/CAD strengthened to 1.3981 from 1.3937; USD/SEK dipped to 9.4759 from 9.4948."
+    },
+    {
+      "id": "4931182",
+      "time": "2026-06-12 03:25:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "CBS推文：美國-伊朗諒解備忘錄可能下週簽署。"
+    },
+    {
+      "id": "4931181",
+      "time": "2026-06-12 03:24:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數11日下跌 】衡量美元對六種主要貨幣的美元指數當天下跌0.1%，在匯市尾市收於99.852。截至紐約匯市尾市，1歐元兌換1.1558美元，高於前一交易日的1.1548美元；1英鎊兌換1.3398美元，高於前一交易日的1.3380美元。1美元兌換160.08日元，低於前一交易日的160.50日元；1美元兌換0.7970瑞士法郎，低於前一交易日的0.7994瑞士法郎；1美元兌換1.3981加元，高於前一交易日的1.3937加元；1美元兌換9.4759瑞典克朗，低於前一交易日的9.4948瑞典克朗。"
+    },
+    {
+      "id": "mkt:019eb824-572f-7dd8-afc9-b16729eba242",
+      "time": "2026-06-12 03:24:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Guardian reports the UK's Minister of State for the Armed Forces has resigned from government in protest at Prime Minister Starmer's defence spending plans."
+    },
     {
       "id": "4931180",
       "time": "2026-06-12 03:21:04",
@@ -170006,53 +170059,6 @@
         "國際"
       ],
       "text": "特朗普：採取歷史性行動降低能源價格。"
-    },
-    {
-      "id": "mkt:019e941a-e29f-755d-92d5-3dad14f0bdc0",
-      "time": "2026-06-05 03:27:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran foreign minister says regional states must not allow US to use their territory to strike Iran】On the 4th (local time) Iran’s foreign minister said Tehran has warned regional states that if they participate in aggression against Iran, US military bases on their soil would become legitimate targets. He said Iran’s response is aimed at US bases, not at the territories of regional states, and that many regional countries oppose US use of their airspace and territory to strike Iran but the United States has nonetheless used those facilities to attack Iran."
-    },
-    {
-      "id": "4918087",
-      "time": "2026-06-05 03:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：波音考慮上調 737 機型產能。"
-    },
-    {
-      "id": "4918086",
-      "time": "2026-06-05 03:26:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：地區國家不應讓美國利用其領土攻擊伊朗】當地時間4日，伊朗外長阿拉格齊表示，伊朗此前已警告該地區各國，如果它們參與對伊朗的侵略，其境內的美國軍事基地將成為伊朗的合法打擊目標。阿拉格齊稱，伊朗的反擊針對的是美國軍事基地，而非該地區各國的領土。該地區許多國家反對美國利用其領空和領土攻擊伊朗，但不幸的是，美國卻利用這些設施攻擊伊朗。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9418-43a0-755d-92d5-368ca6b1a2cf",
-      "time": "2026-06-05 03:24:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump issued a statement on coal."
-    },
-    {
-      "id": "4918085",
-      "time": "2026-06-05 03:24:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：LS 電力正洽談以超 40 億歐元收購法國電力集團美國可再生能源子業務。"
     }
   ]
 }
