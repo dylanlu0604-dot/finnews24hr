@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-12 00:41:51",
-  "count": 18494,
+  "updated": "2026-06-12 00:45:46",
+  "count": 18495,
   "items": [
+    {
+      "id": "mkt:019eb792-a3c1-7dd8-afc6-fe54c4dbe7e2",
+      "time": "2026-06-12 00:45:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Retail investor subscriptions for SpaceX's U.S. IPO reportedly exceeded $100 billion."
+    },
+    {
+      "id": "4931009",
+      "time": "2026-06-12 00:42:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：SpaceX美國IPO散戶認購金額突破1000億美元。"
+    },
+    {
+      "id": "mkt:019eb790-2ae5-7dd8-afc6-f6568cca0912",
+      "time": "2026-06-12 00:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Office of Foreign Assets Control (OFAC) issued a Russia-related general license authorizing specified transactions tied to existing civil nuclear energy projects and authorizing certain services related to the Sakhalin-2 project."
+    },
     {
       "id": "4931008",
       "time": "2026-06-12 00:39:43",
@@ -170408,26 +170437,6 @@
         "Macro & Rates"
       ],
       "text": "U.S. Treasury Secretary Bessent said he hopes today’s jobs-market data have been released and that he has not yet been briefed on tomorrow’s employment figures."
-    },
-    {
-      "id": "mkt:019e9384-3b3d-711f-ac52-afcfe6e9dfc8",
-      "time": "2026-06-05 00:42:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq narrows losses, down 0.12%."
-    },
-    {
-      "id": "4917888",
-      "time": "2026-06-05 00:42:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長表示，13億美元天然氣管道專案、2.08億美元鋰專案已獲批享受稅收優惠機制。"
     }
   ]
 }
