@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-11 14:21:44",
-  "count": 18329,
+  "updated": "2026-06-11 14:25:41",
+  "count": 18330,
   "items": [
+    {
+      "id": "4929689",
+      "time": "2026-06-11 14:22:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特(09992.HK)漲超4%。"
+    },
+    {
+      "id": "mkt:019eb558-9eb9-7dd8-afb5-5379f039fcc6",
+      "time": "2026-06-11 14:22:24",
+      "tags": [
+        "MKT News",
+        "09992.HK",
+        "Impact bullish"
+      ],
+      "text": "Pop Mart (09992.HK) up more than 4%."
+    },
+    {
+      "id": "te:economy:558276",
+      "time": "2026-06-11 14:22:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Inflation Confirmed at 7-Month High — Consumer prices in Sweden rose by 0.8% year-on-year in May 2026, confirming initial estimates and rebounding from a 0.1% fall in the previous month. The latest reading also marked the highest inflation rate since October 2025, driven largely by rising energy costs, particularly fuel (26.9% vs. 29.3% in April) and electricity prices (14.9% vs. 4.6%). This, in turn, lifted housing and utility costs (2.6% vs. -0.1%) and transport prices (6.0% vs. 5.2%). In contrast, food prices declined further (-6.2% vs -5.7%), while inflation softened for clothing and footwear (0.7% vs 1.2%). On a monthly basis, consumer prices grew by 1.0%, marking the fastest rise since June 2023, after dropping by 0.6% in the preceding period. Meanwhile, the CPI with a fixed interest rate (CPIF), the Riksbank’s target measure, climbed by 1.5% annually in May, matching preliminary estimates and accelerating from April’s 0.8% rise, which was the softest increase since December 2020."
+    },
+    {
+      "id": "4929688",
+      "time": "2026-06-11 14:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長稱，三名失蹤的印度海員在美國於阿曼海岸外對油輪實施打擊後已確認死亡。"
+    },
+    {
+      "id": "4929687",
+      "time": "2026-06-11 14:21:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲7%，現報37030.00元。"
+    },
+    {
+      "id": "mkt:019eb557-a0b8-7dd8-afb5-4de290b5d1b5",
+      "time": "2026-06-11 14:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 10.90 points, or 0.13%, at 8,642.40 on Thursday, June 11."
+    },
+    {
+      "id": "4929686",
+      "time": "2026-06-11 14:21:08",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【新易盛成交額達300億元，現跌超7%】6月11日下午，新易盛成交額達300億元，現跌7.31%。"
+    },
+    {
+      "id": "4929685",
+      "time": "2026-06-11 14:21:07",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【中際旭創成交額達300億元，現跌近4%】6月11日下午，中際旭創成交額達300億元，現跌3.93%。"
+    },
     {
       "id": "mkt:019eb556-b8db-7dd8-afb5-435cdebf2231",
       "time": "2026-06-11 14:20:19",
@@ -168768,66 +168843,6 @@
         "公司"
       ],
       "text": "【訊息稱Lovable將把谷歌雲服務使用規模提高至原有的5倍】谷歌與瑞典AI程式設計公司Lovable在當地時間週三宣佈擴大合作關係。雙方並未披露交易金額，但據知情人士透露，這項協議意味著Lovable的谷歌雲服務使用規模（包括AI相關服務）將擴大至原來的五倍。"
-    },
-    {
-      "id": "4916692",
-      "time": "2026-06-04 14:25:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國汽車工程學會：預計2030年新能源車型在乘用車新車銷量中佔比超七成】在6月3日召開的第三十三屆中國汽車工程學會年會暨展覽會（SAECCE 2026）和汽車創新技術展（AITX）新聞釋出會上，中國汽車工程學會副理事長兼秘書長侯福深表示，“十五五”是我國汽車產業由規模擴張邁向全面高質量發展的關鍵階段。未來五年，產業將呈現電動化技術加速升級迭代、數智變革向全產業鏈拓展、中外汽車產業競合格局深度重塑等趨勢。預計到2030年，新能源車型在乘用車新車銷量中的佔比將超過70%，L3、L4級自動駕駛功能在乘用車新車中的搭載率將超過35%，我國汽車海外銷量將達到近1000萬輛，國際化將成為產業高質量發展重要增長極。"
-    },
-    {
-      "id": "4916691",
-      "time": "2026-06-04 14:25:02",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【投行Compass Point：比特幣熊市已經進入後期階段】美國投行Compass Point分析師Ed Engel分析稱，過去30天，26%的比特幣賣盤來自那些在比特幣價格高於90000美元時購買該代幣的投資者。他指出，這批頂級買家在整個熊市中一直表現出韌性，但隨著比特幣接近新的週期低點，他們最終還是屈服了。這讓他更加確信，比特幣的熊市已經進入後期階段。比特幣價格週四一度跌破62000美元，現反彈至64200美元上方。"
-    },
-    {
-      "id": "4916690",
-      "time": "2026-06-04 14:24:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鴻海與SK集團深化AI基礎設施合作】鴻海6月4日表示，董事長劉揚偉近日會見韓國SK集團會長崔泰源，雙方就全球AI產業發展進行探討，包括AI伺服器、AI資料中心及能源解決方案等領域的合作，以深化新世代AI基礎設施的競爭力。雙方亦針對機器人、能源管理與電池技術等領域進行交流。"
-    },
-    {
-      "id": "4916689",
-      "time": "2026-06-04 14:23:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濟棗高鐵跨G327國道連續梁順利合龍】6月4日，由山東鐵投集團投資、中鐵五局承建的濟（南）棗（州）高鐵山東曲阜段跨G327國道連續梁順利合龍，為後續架樑施工打通了關鍵通道。據悉，濟棗高鐵是山東省“八縱六橫”高鐵網的重要旅遊通道，對打通省會經濟圈與魯南經濟圈快速通道，促進山東經濟高質量發展具有重要意義。（新華社）"
-    },
-    {
-      "id": "mkt:019e914d-1e42-7cc0-ba27-7a54d81429a7",
-      "time": "2026-06-04 14:23:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Mahan Air fully restores China–Iran routes】Mahan Air announced it has fully restored direct passenger services between China and Iran, operating 16 weekly return flights: Shanghai–Tehran 6 per week, Beijing–Tehran 3 per week, Guangzhou–Tehran 7 per week."
-    },
-    {
-      "id": "4916688",
-      "time": "2026-06-04 14:23:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡回應特朗普指責】當地時間6月3日，以色列總理內塔尼亞胡在接受美國消費者新聞與商業頻道（CNBC）採訪時，被問及日前美國總統特朗普在電話中指責他“瘋了”一事，內塔尼亞胡回應稱，他不願透露太多細節，但是他認為雙方總能找到辦法化解分歧，“我們可能早上還意見不一，下午就可以共同行動”。內塔尼亞胡稱，他與特朗普的關係沒有變化，一直非常融洽。特朗普在3日播出的一檔訪談節目中承認，他曾用憤怒言辭與以色列總理內塔尼亞胡進行了交談，並對內塔尼亞胡不斷與黎巴嫩交戰感到不安。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4916687",
-      "time": "2026-06-04 14:21:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀高管卡恩：得益於人工智慧，投資顧問將能把更多時間投入到客戶服務中。"
     }
   ]
 }
