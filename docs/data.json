@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-11 13:46:13",
-  "count": 18351,
+  "updated": "2026-06-11 13:50:17",
+  "count": 18342,
   "items": [
+    {
+      "id": "4929641",
+      "time": "2026-06-11 13:48:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元下跌0.5%至95.6987。"
+    },
+    {
+      "id": "4929640",
+      "time": "2026-06-11 13:46:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【傳螞蟻國際擬融資10億美元赴香港上市，螞蟻集團：不予置評】近日，有外媒報道稱，螞蟻集團旗下海外板塊、註冊在新加坡的螞蟻國際擬募資約10億美元，以加速業務擴張，併為最快今年赴香港上市鋪路。此輪融資的估值可能達到或超過100億美元。對於該訊息，新浪科技問詢了螞蟻集團，其對上述情況不予置評。（新浪科技）"
+    },
+    {
+      "id": "te:markets:558263",
+      "time": "2026-06-11 13:46:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End 0.4% Lower — The NZX 50 fell 51 points, or 0.4%, to close at 13,202 on Thursday, halting gains from the previous two sessions and marking its lowest level in over two weeks, after retreating from its highest level since May 7, reached a day earlier. The broader index tracked a downbeat session on Wall Street Wednesday as escalating tensions in the Middle East drove oil prices higher. Concerns over the US May inflation figure also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady for longer. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Financials, materials, and industrials stocks mainly weighed on the index, with notable losers including Infratil (-1.9%), Mainfreight (-1.8%), Ebos Group (-1.2%), Fletcher Building (-1.0%), and Westpac Banking Corp. (-0.9%)."
+    },
     {
       "id": "4929639",
       "time": "2026-06-11 13:45:41",
@@ -168956,123 +168986,6 @@
         "MKT News"
       ],
       "text": "Israel's defense minister KATZ said the agreement with Lebanon includes establishing a demilitarized zone."
-    },
-    {
-      "id": "mkt:019e912e-9a0c-7cc0-ba26-98716c820fa1",
-      "time": "2026-06-04 13:50:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "Israel's defense minister KATZ said the current agreement permits IDF operations in southern Lebanon."
-    },
-    {
-      "id": "4916642",
-      "time": "2026-06-04 13:50:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【眾為資本投資韓國眼鏡品牌Gentle Monster母公司IICOMBINED】亞洲私募股權投資機構眾為資本宣佈，已完成對韓國時尚集團IICOMBINED（思諾佰株式會社）的投資。具體投資金額未披露。IICOMBINED旗下品牌包括韓國潮流眼鏡品牌GENTLE MONSTER、創意美妝品牌TAMBURINS、藝術甜品品牌NUDAKE、潮流帽飾品牌ATiiSSU、以及餐具品牌Nuflaat。"
-    },
-    {
-      "id": "mkt:019e912d-d027-7cc0-ba26-949e1655594e",
-      "time": "2026-06-04 13:49:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's defense minister KATZ said any ceasefire in Lebanon is conditional on HEZBOLLAH withdrawing from southern Lebanon promptly."
-    },
-    {
-      "id": "4916641",
-      "time": "2026-06-04 13:49:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "恩智浦執行長表示：人工智慧領域當前供應受限的環境是有利的，因為這有助於避免繁榮過後不時出現的行業崩盤。"
-    },
-    {
-      "id": "mkt:019e912d-7917-7cc0-ba26-8f9de926fbaa",
-      "time": "2026-06-04 13:48:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the trade-off between inf and unemployment is moving in an adverse direction."
-    },
-    {
-      "id": "4916640",
-      "time": "2026-06-04 13:48:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "上證50跌幅擴大至1%。"
-    },
-    {
-      "id": "4916639",
-      "time": "2026-06-04 13:48:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：現階段協議准許以色列國防軍在（黎巴嫩）南部開展行動。"
-    },
-    {
-      "id": "mkt:019e912d-14b7-7cc0-ba26-80e62ceedf8f",
-      "time": "2026-06-04 13:48:30",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "SSE 50 index losses widened to 1%."
-    },
-    {
-      "id": "4916638",
-      "time": "2026-06-04 13:47:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "據黎巴嫩國家媒體報道稱，以色列對黎巴嫩發動了襲擊，此前雙方同意有條件停火。"
-    },
-    {
-      "id": "mkt:019e912c-0a1c-7cc0-ba26-7bf4b515c6ce",
-      "time": "2026-06-04 13:47:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Lebanese state media reported Israel launched an attack on Lebanon after both sides had agreed to a conditional ceasefire."
-    },
-    {
-      "id": "4916637",
-      "time": "2026-06-04 13:47:12",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲行長布洛克：通脹與失業率的權衡關係正出現反向惡化。"
-    },
-    {
-      "id": "4916636",
-      "time": "2026-06-04 13:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：協議包含在黎巴嫩全境解除真主黨武裝的目標。"
     }
   ]
 }
