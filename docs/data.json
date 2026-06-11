@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-12 07:18:11",
-  "count": 18446,
+  "updated": "2026-06-12 07:22:03",
+  "count": 18449,
   "items": [
+    {
+      "id": "mkt:019eb8fd-0b1a-7dd8-afcc-86cabc59702e",
+      "time": "2026-06-12 07:20:51",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "NewsNation cited a Pentagon official saying the Pentagon is preparing to send a supplemental defense funding request to the White House, expected at roughly $50-80 bln."
+    },
+    {
+      "id": "4931348",
+      "time": "2026-06-12 07:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前5個月超七成私募證券產品“賺錢”】前5個月，私募證券產品整體取得不俗收益。私募排排網最新統計資料顯示，前5個月，全市場內12795只有業績記錄的私募證券產品中，9299只產品實現正收益，佔比72.68%。"
+    },
+    {
+      "id": "4931347",
+      "time": "2026-06-12 07:20:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化與內蒙古自治區政府簽署全面深化戰略合作協議】6月10日，中國石化集團公司與內蒙古自治區人民政府在呼和浩特市簽署全面深化戰略合作協議。"
+    },
+    {
+      "id": "4931346",
+      "time": "2026-06-12 07:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國肯尼迪中心的董事會計劃抗辯聯邦法官的命令，該命令要求從表演藝術中心移除特朗普的名字。肯尼迪中心董事會週四投票決定，緊急申請暫緩執行聯邦法官的裁定。該裁定要求本週五前移除該中心建築外與特朗普相關的冠名。"
+    },
+    {
+      "id": "4931345",
+      "time": "2026-06-12 07:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華健未來：擬全球發售1360萬股H股，發售價81.8港元】6月12日早間，華健未來在港交所公告，公司擬全球發售13,600,000股H股，香港發售股份1,360,000股H股，國際發售股份12,240,000股H股，另有15%的超額配股權；發售價為每股81.80港元；預期股份將於2026年6月23日開始在香港聯交所買賣。"
+    },
     {
       "id": "4931344",
       "time": "2026-06-12 07:17:04",
@@ -170111,22 +170153,6 @@
         "MKT News"
       ],
       "text": "【Analysts see Korean stocks entering volatile consolidation in next 1-2 months】After a global-leading rally, South Korea’s US$4.9 trillion equity market is showing strain. The KOSPI hit a record high on Tuesday even as only 2.6% of stocks traded at 52-week highs while 31% were at 52-week lows, signalling a narrow advance. Retail participation is cooling and surging margin loans face downside risk if the Bank of Korea raises rates in July. Investors warn that a market downturn could be as rapid as the prior rise. Ha Seok Keun, chief investment officer at Eugene Asset Management, said he is more worried by overheated positioning than by fundamental deterioration and expects heightened volatility and consolidation over the next one to two months."
-    },
-    {
-      "id": "4918251",
-      "time": "2026-06-05 07:21:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.3%，納斯達克指數期貨下跌0.6%。"
-    },
-    {
-      "id": "4918250",
-      "time": "2026-06-05 07:19:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：北溪管道可以明天就開始輸氣 德國需決定是否恢復採購】俄羅斯總統普京週四表示，俄羅斯已準備好透過北溪管道恢復向德國供氣，而是否恢復供氣取決於德國政府方面如何決定。普京在聖彼得堡對記者表示，北溪二號管道的兩條管線中有一條完好無損，可以“明天”就開始輸送天然氣。“我不是在開玩笑--只要按下按鈕，天然氣就會開始輸送。但為此，需要（德國）政府做出決定，”他說。不過普京指出，北溪專案目前受到美國製裁，德國需就解除這些制裁達成協議。他表示，俄羅斯每年可供應多達280億立方米的天然氣，“但我們只需要德國合作伙伴向俄氣給出一個明確答覆--他們要不要接收。否則，我們將把天然氣投放到其他市場，賣給其他合作伙伴。”"
     }
   ]
 }
