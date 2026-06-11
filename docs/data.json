@@ -1,7 +1,715 @@
 {
-  "updated": "2026-06-11 19:56:27",
-  "count": 18319,
+  "updated": "2026-06-11 20:10:28",
+  "count": 18351,
   "items": [
+    {
+      "id": "mkt:019eb696-a8f5-7dd8-afbe-3580dd1b7222",
+      "time": "2026-06-11 20:09:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OPEC monthly report: secondary sources show Venezuela crude output rose 36,000 b/d in May to 1.072 mln b/d."
+    },
+    {
+      "id": "mkt:019eb696-7f4a-7dd8-afbe-2ad12022cbe4",
+      "time": "2026-06-11 20:09:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Sugon to unveil next-generation high-performance general-purpose computing platform】Sugon said on its WeChat account it will unveil a next-generation high-performance general-purpose computing platform on June 15."
+    },
+    {
+      "id": "mkt:019eb696-6fc8-7dd8-afbe-24cadd8ea6b5",
+      "time": "2026-06-11 20:09:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show Saudi crude production rose 157k b/d in May to 6.912 mln b/d."
+    },
+    {
+      "id": "mkt:019eb696-0341-7dd8-afbe-19647e54d4f3",
+      "time": "2026-06-11 20:09:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show Libya's crude production fell 5,000 b/d in May to 1.302 mln b/d."
+    },
+    {
+      "id": "mkt:019eb695-9a64-7dd8-afbe-17fd51a813ee",
+      "time": "2026-06-11 20:08:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show Kuwait's crude oil production rose 16,000 b/d in May to 573,000 b/d."
+    },
+    {
+      "id": "mkt:019eb695-4c9f-7dd8-afbe-0f17dfb7df37",
+      "time": "2026-06-11 20:08:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show OPEC+ crude output fell by 185,000 b/d in May to 33.13 mln b/d."
+    },
+    {
+      "id": "4930540",
+      "time": "2026-06-11 20:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科曙光：新一代高效能通用計算平臺即將釋出】中科曙光預告，6月15日，新一代高效能通用計算平臺即將釋出。"
+    },
+    {
+      "id": "4930539",
+      "time": "2026-06-11 20:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克再次下調2026年全球石油需求增長預期】石油輸出國組織（歐佩克）月度報告顯示，該機構週四將 2026 年全球原油需求增幅預期下調至每日 97 萬桶，這已是連續第二次下調預測值。相較於美國能源資訊署、國際能源署等其他機構，歐佩克認為伊朗局勢對原油消費造成的衝擊相對有限。後兩者均預計 2026 年全球原油需求將出現下滑。報告同時上調了 2027 年全球原油需求增速預期。"
+    },
+    {
+      "id": "mkt:019eb694-bae0-7dd8-afbe-0337fbc92521",
+      "time": "2026-06-11 20:07:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show Iraq crude production rose 75,000 b/d in May to 1.481 mln b/d."
+    },
+    {
+      "id": "4930538",
+      "time": "2026-06-11 20:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克援引二手資訊表示，5月歐佩克原油日產量減少17.7萬桶，降至每日1883萬桶。"
+    },
+    {
+      "id": "mkt:019eb694-6b0e-7dd8-afbd-fa04966268c6",
+      "time": "2026-06-11 20:07:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show Iran's crude oil production fell by 546,000 b/d in May to 2.33 mln b/d."
+    },
+    {
+      "id": "mkt:019eb694-485e-7dd8-afbd-f26c0370594a",
+      "time": "2026-06-11 20:07:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's Foreign Ministry announces sanctions on Philippine defense minister Teodoro and family】China's Foreign Ministry spokesperson announced sanctions on Philippine Defense Minister Teodoro and his immediate family, saying his repeated anti-China remarks harmed China's legitimate interests and damaged bilateral relations. Measures bar Teodoro, his spouse and children from entry to mainland China, Hong Kong and Macau and prohibit Chinese organizations and individuals from any transactions or cooperation with them."
+    },
+    {
+      "id": "4930537",
+      "time": "2026-06-11 20:07:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯泰蘭蒂斯與Factorial公司將先進固態電池整合至斯泰蘭蒂斯開發的測試車輛中，並啟動道路測試。"
+    },
+    {
+      "id": "4930536",
+      "time": "2026-06-11 20:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克月報：2026年全球原油需求增速預測為97萬桶/日（此前預計為117萬桶/日）；歐佩克+（包括前成員國阿聯酋）5月的原油平均產量為3313萬桶/日，較4月下降19萬桶/日，主要降幅來自伊朗；印度石油製品淨進口較上輪統計增加51萬桶/日至465萬桶/日。"
+    },
+    {
+      "id": "4930535",
+      "time": "2026-06-11 20:06:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鉅泉科技：調整2025年度利潤分配現金分紅總額至3467.82萬元（含稅）】鉅泉科技公告，公司2025年度利潤分配方案擬每10股派發現金紅利3元（含稅）不變，派發現金分紅總額由3455.45萬元（含稅）調整為3467.82萬元（含稅）。此次調整原因為公司發生限制性股票歸屬登記事項，致使可參與權益分派的股份數量發生變動。公司擬維持每股分配比例不變，對2025年度利潤分配方案的分配總額進行調整。"
+    },
+    {
+      "id": "4930534",
+      "time": "2026-06-11 20:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特國防部：伊朗對科威特的襲擊未造成人員傷亡，但僅造成有限物質損失。"
+    },
+    {
+      "id": "4930533",
+      "time": "2026-06-11 20:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI宣佈支援歐盟委員會《人工智慧生成內容透明度實踐準則》。"
+    },
+    {
+      "id": "4930532",
+      "time": "2026-06-11 20:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "長治市沁源縣人民政府黨組成員、副縣長魏小祥涉嫌嚴重違紀違法，目前正接受長治市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4930531",
+      "time": "2026-06-11 20:06:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶豐明源：股東擬詢價轉讓292.85萬股 佔總股本1.44%】晶豐明源(688368.SH)公告稱，股東海南晶哲瑞創業投資合夥企業(有限合夥)擬透過詢價轉讓方式轉讓292.85萬股，佔公司總股本的1.44%，轉讓原因為自身資金需求。本次詢價轉讓不透過集中競價或大宗交易，受讓方在受讓後6個月內不得轉讓。"
+    },
+    {
+      "id": "4930530",
+      "time": "2026-06-11 20:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華特氣體：近日股東合計減持公司總股本1.88% 減持計劃完成】華特氣體(688268.SH)公告稱，公司股東廈門華弘多福、華和多福、華進多福透過大宗交易合計減持公司股份239.99萬股，佔公司總股本1.88%，減持計劃完成。其中，華弘多福提前終止減持計劃，減持115.99萬股，減持總金額1.76億元；華和多福減持68萬股，減持總金額1.03億元；華進多福減持56萬股，減持總金額8474萬元。"
+    },
+    {
+      "id": "mkt:019eb693-4cdf-7dd8-afbd-ed31fbc0f3cc",
+      "time": "2026-06-11 20:06:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait’s defense ministry said it engaged 24 hostile drones in the past 48 hours."
+    },
+    {
+      "id": "4930529",
+      "time": "2026-06-11 20:05:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部發言人宣佈中方對菲律賓國防部長特奧多羅及其親屬實施制裁】菲律賓國防部長特奧多羅多次發表涉華謬論，損害中方正當利益，破壞中菲兩國關係。為維護中國國家主權、安全、發展利益，中方決定，禁止特奧多羅及其配偶、子女入境中國內地和香港、澳門，禁止中國境內的組織、個人與特奧多羅及其配偶、子女進行任何交易、合作等活動。"
+    },
+    {
+      "id": "4930528",
+      "time": "2026-06-11 20:05:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特國防部：過去48小時內，科威特已處置24架無人機。"
+    },
+    {
+      "id": "mkt:019eb692-5e1f-7dd8-afbd-e0257a7febbf",
+      "time": "2026-06-11 20:05:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: China's net refined petroleum product imports fell by 2.9 mln bpd from the previous tally to 9.65 mln bpd."
+    },
+    {
+      "id": "mkt:019eb692-5556-7dd8-afbd-dcd8744ea05a",
+      "time": "2026-06-11 20:05:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "DAX"
+      ],
+      "text": "ECB to announce rate decision in 10 minutes."
+    },
+    {
+      "id": "4930527",
+      "time": "2026-06-11 20:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "勞氏公司：透過與Live Nation的全新多年合作，為忠誠會員推出獨家現場音樂優惠與體驗。"
+    },
+    {
+      "id": "mkt:019eb692-1b43-7dd8-afbd-d17424a7f2a5",
+      "time": "2026-06-11 20:04:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: India's net petroleum products imports rose by 510,000 b/d from the previous report to 4.65 million b/d."
+    },
+    {
+      "id": "mkt:019eb692-1b20-7dd8-afbd-cf0884161898",
+      "time": "2026-06-11 20:04:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintained its 2027 non‑OPEC supply growth forecast at 620,000 bpd."
+    },
+    {
+      "id": "4930526",
+      "time": "2026-06-11 20:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克月報：將2026年歐元區經濟增長預測從1.1%下調至1%。將2027年歐元區經濟增長預測維持在1.2%；將2027年美國經濟增長預測維持在2%；將2027年全球經濟增長預測維持在3.2%。"
+    },
+    {
+      "id": "4930525",
+      "time": "2026-06-11 20:04:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達攜手初創公司 Abridge 研發醫療領域 AI 模型】英偉達持續佈局醫療領域，此番攜手面向醫生打造 AI 病歷記錄應用的初創企業Abridge，聯合訓練一款醫療專用人工智慧模型。兩家企業表示，該模型專為臨床溝通場景打造，將獨家應用於阿布裡奇的平臺，最佳化臨床決策支援、醫療文書記錄等工作。英偉達同時也是阿布裡奇的投資方。英偉達醫療健康副總裁金伯利・鮑威爾介紹，這款醫療模型將基於英偉達Nemotron 系列開源模型進行訓練。開源模型通常允許使用者免費下載和二次修改；而完全開源的模型，還會向使用者開放全部訓練資料與程式碼。鮑威爾表示：“如今我們有機會在模型研發早期，就融入臨床專業知識，對現有模型進行針對性最佳化。”這家初創企業聯合創始人兼執行長希夫・拉奧博士表示，雙方合作期間，阿布裡奇將利用脫敏臨床資料，對Nemotron系列模型開展進一步訓練與定製最佳化。拉奧稱：“通用模型效能強勁，但臨床專業能力仍需專項訓練、針對性打磨，並結合真實應用場景完成效果評估。這也是我們團隊與內摩創團隊現階段的主要試驗與工作內容。”"
+    },
+    {
+      "id": "mkt:019eb691-b6cd-7dd8-afbd-c2813f0241a0",
+      "time": "2026-06-11 20:04:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintained the 2026 non-OPEC supply growth forecast at 630,000 barrels per day."
+    },
+    {
+      "id": "mkt:019eb691-95b7-7dd8-afbd-bab9538108df",
+      "time": "2026-06-11 20:04:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: U.S. net imports of petroleum products fell 110,000 b/d from the prior report to -5.76 mln b/d."
+    },
+    {
+      "id": "4930524",
+      "time": "2026-06-11 20:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克維持2027年非歐佩克協定供應增長預測不變，仍為每日62萬桶。"
+    },
+    {
+      "id": "4930523",
+      "time": "2026-06-11 20:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克：非參與國指未加入《合作宣言》的國家。"
+    },
+    {
+      "id": "4930522",
+      "time": "2026-06-11 20:03:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【石油高管警告白宮：汽油價格恐進一步惡化】據報道，有石油和天然氣行業高管向白宮發出警告，隨著燃料庫存降至極低水平，未來幾個月汽油價格可能大幅上漲。這將使特朗普政府在抑制通脹方面面臨更大困難，而通脹已對美國消費者造成衝擊。據多位熟悉相關對話的人士透露，行業官員表示，他們正竭盡全力發出警告，稱隨著商業和政府庫存迅速耗盡，此前緩解物價上漲的庫存正在快速減少，價格即將飆升。這些高管警告稱，部分庫存可能在幾周內被完全耗盡，而這一情況恰逢夏季旅遊旺季。Rapidan Energy Group創始人Bob McNally表示：“我完全確信，白宮——從總統到下屬各級官員——都充分意識到，石油公司和分析師們對今夏油價走勢幾乎普遍感到擔憂。”"
+    },
+    {
+      "id": "4930521",
+      "time": "2026-06-11 20:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克將2027年全球石油需求增長預測從每日154萬桶上調至每日173萬桶。"
+    },
+    {
+      "id": "mkt:019eb690-dd6c-7dd8-afbd-b49c7b0a235f",
+      "time": "2026-06-11 20:03:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD"
+      ],
+      "text": "【Strategist: ECB rate-hike expectations priced in, euro volatility likely limited】Forex strategist Karamanis says euro options show traders expect the ECB to pass today calmly because rate hikes are already fully priced; the meeting is largely viewed as procedural. If officials signal consecutive hikes in July rather than a pause until September (swap market currently prices that probability below 50%), the euro could move. A larger FX shake-up would require material repricing of three hikes by year-end. Karamanis expects Lagarde to mainly reiterate data-dependence and provide little explicit forward guidance."
+    },
+    {
+      "id": "mkt:019eb690-d17c-7dd8-afbd-a8e11de5a68a",
+      "time": "2026-06-11 20:03:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "OPEC monthly report kept its 2026 US GDP growth forecast unchanged at 2.2%."
+    },
+    {
+      "id": "4930520",
+      "time": "2026-06-11 20:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "石油輸出國組織（歐佩克）將2026年全球石油需求增長預測從每日117萬桶下調至每日97萬桶。"
+    },
+    {
+      "id": "mkt:019eb690-6871-7dd8-afbd-a6509f5ba0e3",
+      "time": "2026-06-11 20:02:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "OPEC monthly report cuts its 2026 euro-area GDP growth forecast to 1.0% from 1.1%."
+    },
+    {
+      "id": "mkt:019eb690-54fc-7dd8-afbd-982d903881f9",
+      "time": "2026-06-11 20:02:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "OPEC monthly report maintains 2027 euro area GDP growth forecast at 1.2%."
+    },
+    {
+      "id": "mkt:019eb690-40de-7dd8-afbd-9501e04436a8",
+      "time": "2026-06-11 20:02:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintains its 2027 US GDP growth forecast at 2%."
+    },
+    {
+      "id": "mkt:019eb690-196b-7dd8-afbd-8e2fd99adc6c",
+      "time": "2026-06-11 20:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OPEC monthly report maintains 2027 global GDP growth forecast at 3.2%."
+    },
+    {
+      "id": "mkt:019eb68f-efdb-7dd8-afbd-86fe3d96ef3d",
+      "time": "2026-06-11 20:02:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OPEC+ (including former member UAE) averaged 33.13 mln b/d of crude in May, down 190,000 b/d from April, with most of the decline attributable to Iran."
+    },
+    {
+      "id": "mkt:019eb68f-e22e-7dd8-afbd-7decdf71cb59",
+      "time": "2026-06-11 20:02:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.21% to 896.5 yuan/gram in early evening trade on June 11; silver T+D was down 0.6% at 15,444.0 yuan/kg."
+    },
+    {
+      "id": "4930518",
+      "time": "2026-06-11 20:02:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌廣告產品Display & Video 360與沃爾瑪廣告平臺Walmart Connect達成合作，助力廣告商透過YouTube營銷活動觸達購買意願強烈的購物者。"
+    },
+    {
+      "id": "4930517",
+      "time": "2026-06-11 20:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：投資保護運動員與消費者線上安全，及保護賽事智慧財產權。"
+    },
+    {
+      "id": "mkt:019eb68f-8b0a-7dd8-afbd-77545c9af4ca",
+      "time": "2026-06-11 20:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: forecasts 2026 global oil demand growth at 970,000 bpd, down from a prior forecast of 1.17 mln bpd."
+    },
+    {
+      "id": "4930516",
+      "time": "2026-06-11 20:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與ABRIDGE合作開發人工智慧醫療保健模型，該模型將基於英偉達 Nemotron 開源模型開展訓練。"
+    },
+    {
+      "id": "4930515",
+      "time": "2026-06-11 20:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：將為Threads、Instagram、Facebook和WhatsApp推出全新足球功能與觀賽體驗"
+    },
+    {
+      "id": "4930514",
+      "time": "2026-06-11 20:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克月報：2027年全球原油需求增速預測為173萬桶/日（此前預計為154萬桶/日）。"
+    },
+    {
+      "id": "mkt:019eb68f-0f7f-7dd8-afbd-6d66e7d951f9",
+      "time": "2026-06-11 20:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report raises its 2027 global oil demand growth forecast to 1.73 mln b/d from 1.54 mln b/d."
+    },
+    {
+      "id": "4930513",
+      "time": "2026-06-11 20:01:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團正推出非上市公司代幣化股票業務。"
+    },
+    {
+      "id": "mkt:019eb68e-9a2d-7dd8-afbd-648749f55e84",
+      "time": "2026-06-11 20:00:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports NVIDIA (NVDA.O) is partnering with Abridge to develop AI medical models."
+    },
+    {
+      "id": "mkt:019eb68e-938a-7dd8-afbd-5e52fc048716",
+      "time": "2026-06-11 20:00:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil executives warn White House gasoline prices could spike as inventories run low】The Washington Post reported oil and gas executives warned the White House that gasoline prices could rise sharply in coming months as commercial and government fuel stocks fall to very low levels. Industry officials said inventories that have tempered price moves are being rapidly drawn down and some stocks could be exhausted within weeks, coinciding with the US summer driving season. Executives warned the squeeze would make it harder for the Trump administration to rein in inflation. Rapidan Energy Group founder Bob McNally said White House officials are broadly aware and industry concern about summer oil-price upside is widespread."
+    },
+    {
+      "id": "mkt:019eb68e-91fa-7dd8-afbd-5402d3164ba8",
+      "time": "2026-06-11 20:00:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nanjing holds football work meeting; to attract high-level competitions and stage local events】Nanjing held a municipal football work meeting that reviewed reports on national key-city football development, citywide campus football and preparations for the \"Su-Chao\" competition. Officials directed full implementation of football reform and development tasks and set four priorities: strengthen youth development—build the youth-training system, solidify campus football and smooth player advancement channels to expand the youth talent pool; reinforce teams—support healthy development of professional clubs and deepen community football participation to underpin professional squads; build the brand—actively attract high-level events, fully stage local competitions and amplify event spillovers to raise Nanjing’s football profile; and optimise the ecosystem—improve football culture and industry governance to create a clean, supportive environment for growth."
+    },
+    {
+      "id": "4930512",
+      "time": "2026-06-11 20:00:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "DXC 技術公司與 Anthropic 宣佈達成多年全球合作聯盟。"
+    },
+    {
+      "id": "4930511",
+      "time": "2026-06-11 19:59:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京市召開足球工作會議：積極引進高水平賽事 全力辦好本土性賽事】6月11日，南京市召開足球工作會議。會議聽取了全國足球發展重點城市建設、全市校園足球發展、“蘇超”賽事籌備等工作彙報，市相關板塊作交流發言。會議強調，要全力推動足球改革發展重點任務落地落實。聚焦“育苗子”，加強青訓體系建設，夯實校園足球基礎，暢通球員上升通道，促進青少年足球人才規模化成長。聚焦“強隊伍”，推動職業足球隊伍健康發展，深耕社會足球沃土，築牢專業隊伍支撐。聚焦“塑品牌”，積極引進高水平賽事，全力辦好本土性賽事，持續放大賽事溢位效應，以精品賽事擦亮南京足球名片。聚焦“優生態”，抓好足球文化建設和行業管理，營造風清氣正的足球生態，不斷為足球發展注入動力活力。"
+    },
+    {
+      "id": "mkt:019eb68d-9eae-7dd8-afbd-49ad6ce7dc21",
+      "time": "2026-06-11 19:59:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Analyst: ECB's Lagarde likely to use ambiguous language while stressing vigilance】Analyst Weber says markets largely expect the ECB to lift rates later — the first increase since 2023. The ECB faces a dilemma after a shock from the Iran conflict: headline inflation is above 3% and inflation ex-food and energy has accelerated to 2.5%, well above the 2% target, while growth appears hit — business surveys show a sharp May downturn. A rate hike would heighten downside pressure on activity, but consensus sees inflationary forces as large enough to warrant action, which could mean further measures after tonight. Given high uncertainty and ongoing US–Iran efforts to end hostilities, Lagarde’s wording is likely to be deliberately vague; she will emphasize vigilance and close monitoring of incoming data to avoid appearing complacent."
+    },
+    {
+      "id": "4930510",
+      "time": "2026-06-11 19:59:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【祥源新材：與天津博佳展嶽等簽署《股權轉讓協議》，合計轉讓靈心巧手2301.87萬股，佔總股本0.1828%】祥源新材公告，公司於2026年6月10日分別與天津博佳展嶽股權投資基金合夥企業（有限合夥）、北京慧辰資道資訊股份有限公司、共青城嘉澤宏遠創業投資中心（有限合夥）簽署了《股權轉讓協議》，擬將其持有的靈心巧手（北京）科技股份有限公司部分股權轉讓給上述三方。公司目前持有靈心巧手3609.11萬股，持股比例0.29%，計劃分別轉讓767.29萬股給博佳展嶽、慧辰資道、嘉澤宏遠，合計轉讓2301.87萬股，佔靈心巧手當前總股本比例0.1828%，股權轉讓款分別為1000萬元，合計3000萬元。交易完成後，公司持有靈心巧手股份比例將下降至0.10%。"
+    },
+    {
+      "id": "4930509",
+      "time": "2026-06-11 19:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐茂股份：向不特定物件發行可轉換公司債券申請獲得深圳證券交易所上市稽核委員會稽核透過】豐茂股份公告，2026年6月11日，深圳證券交易所上市稽核委員會召開2026年第32次上市稽核委員會審議會議，對公司向不特定物件發行可轉換公司債券的申請進行了稽核。根據會議審議結果，公司本次發行的申請符合發行條件、上市條件和資訊披露要求。公司本次發行事項尚需履行中國證券監督管理委員會註冊程式，最終中國證監會能否同意註冊及其時間尚存在不確定性。公司將在收到中國證監會作出的予以註冊或不予註冊的決定檔案後另行公告。敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "4930508",
+      "time": "2026-06-11 19:59:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度監管機構提議，以某隻股票交易所在交易所的收盤價，來確定該股票未上市交易的其他交易所的價格漲跌幅限制。"
+    },
+    {
+      "id": "mkt:019eb68c-b895-7dd8-afbd-44950a62b823",
+      "time": "2026-06-11 19:58:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Indian Prime Minister Narendra Modi will discuss the West Asia crisis while attending the G7 summit."
+    },
+    {
+      "id": "4930507",
+      "time": "2026-06-11 19:58:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度證券交易委員會就股票出借集合競價盤前定價機制徵求意見，意見徵集截止至7月2日。"
+    },
+    {
+      "id": "4930506",
+      "time": "2026-06-11 19:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛尼爾能源位於德克薩斯州科珀斯克里斯蒂液化天然氣出口廠的1至6號中型液化天然氣生產線，在週三停運後，預計週四將恢復接收更多天然氣。"
+    },
+    {
+      "id": "mkt:019eb68b-f38c-7dd8-afbd-3b438fccb4da",
+      "time": "2026-06-11 19:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Securities and Exchange Board of India (SEBI) has invited comments on the pre-open stock call auction mechanism; consultation closes July 2."
+    },
+    {
+      "id": "4930505",
+      "time": "2026-06-11 19:57:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "莫迪將在七國集團會議期間就西亞局勢展開磋商。"
+    },
+    {
+      "id": "mkt:019eb68b-65af-7dd8-afbd-30e18f37eabf",
+      "time": "2026-06-11 19:57:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said its air defenses shot down 122 Ukrainian drones over various Russian regions between 07:00 and 14:00 Moscow time (12:00–19:00 Beijing time)."
+    },
+    {
+      "id": "4930504",
+      "time": "2026-06-11 19:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安： 現任以色列政府已將該國變成製造紛爭的溫床，這裡唯有鮮血與淚水，不斷滋生動盪與混亂。"
+    },
+    {
+      "id": "4930503",
+      "time": "2026-06-11 19:56:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，莫斯科時間 7 時至 14 時，俄境內防空系統共擊落 122 架烏克蘭無人機。"
+    },
+    {
+      "id": "4930502",
+      "time": "2026-06-11 19:56:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多城跟進推動住房以舊換新 樓市置換鏈條加速打通】作為推動樓市穩定的政策抓手之一，住房“以舊換新”正在各大城市相繼落地、取得進展。 近日，蘇州城投集團落地了住房“以舊換新”實施方案，以“不限區域、不限套數、不限比例”的置換條件實現低門檻、廣覆蓋；同期，浙江省嘉興市也確定了5家評估機構，落實換房中的關鍵問題“房子能賣多少錢”；更早推進“以舊換新”的廣州南沙開建集團則已收穫超400組客戶諮詢報名…… 58安居客研究院院長張波表示，近兩年全國多地住房“以舊換新”政策落地不斷增多，且大都體現為 “政府引導、市場參與”，同時國企正逐步成為置換交易的主力，透過提供一站式置換服務以縮短換房週期，同時各地政策覆蓋範圍更廣、辦理流程更簡化，群眾參與意願度有望明顯提升。（第一財經）"
+    },
+    {
+      "id": "4930501",
+      "time": "2026-06-11 19:55:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【能耗標準加嚴實施代表光伏整體出清格局的開始 多晶矽盤面仍有上行可能】雖當前光伏產業鏈各環節價格深陷谷底，多晶矽N緻密34元/千克，矽片210RN 0.98元/片，電池片210RN 0.31元/瓦，光伏元件210RN 0.74元/瓦。但能耗標準的加嚴實施以及管控代表光伏整體出清格局的開始，短期來看多晶矽盤面或將在情緒推動下仍有上行可能，現貨方面或隨著能耗標準管控實施後有所回暖，但具體仍需關注頭部企業出貨策略以及政策落地實施情況。 (Mysteel)"
+    },
     {
       "id": "4930500",
       "time": "2026-06-11 19:55:15",
@@ -168196,361 +168904,6 @@
         "公司"
       ],
       "text": "【初靈資訊：控股股東擬減持不超634萬股公司股份】初靈資訊公告稱，持有公司35.2665%股份的控股股東洪愛金，計劃自可減持之日起三個月內，以集中競價、大宗交易方式減持不超634萬股，佔公司總股本的2.9973%。減持原因是自身資金需求，來源為公司首次公開發行前股份等。本次減持計劃實施存在不確定性，且不會導致公司控制權變更。"
-    },
-    {
-      "id": "mkt:019e928a-afd3-7668-9612-bc5cf2bacda8",
-      "time": "2026-06-04 20:10:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Hezbollah leader says talks with Israel are 'shameless'."
-    },
-    {
-      "id": "4917485",
-      "time": "2026-06-04 20:10:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓新藥業：持股5%以上股東擬減持不超2%股份】拓新藥業公告稱，持股13.67%的股東1461565安大略省公司計劃自2026年6月29日-9月28日，以大宗交易方式減持不超2530890股，即不超公司總股本的2%。減持原因為自身資金需求，股份來源為公司首次公開發行前已發行股份。本次減持不會對公司治理、股權結構及經營產生重大影響，減持計劃存在不確定性。"
-    },
-    {
-      "id": "4917484",
-      "time": "2026-06-04 20:10:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首都線上：擬3000萬元與天陽科技設合資公司開展算力租賃業務】首都線上公告稱，公司與天陽科技於6月4日簽署《合資協議》，共同設立甘肅天陽數金智雲科技有限公司，開展算力租賃業務。合資公司註冊資本1億元，首都線上出資3000萬元，持股30%；天陽科技出資7000萬元，持股70%。天陽科技曾為公司持股5%以上股東，本次交易構成關聯交易。該事項已透過董事會審議，無需股東會審議。投資使用自有資金，短期對業績貢獻有限，長期有望提升競爭力和盈利能力。"
-    },
-    {
-      "id": "4917483",
-      "time": "2026-06-04 20:09:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨領導人稱，與以色列開展談判是 “毫無底線之舉”。"
-    },
-    {
-      "id": "4917482",
-      "time": "2026-06-04 20:08:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中大力德：控股股東及其一致行動人減持99.61萬股】中大力德公告稱，6月3 - 4日，控股股東寧波中大力德投資有限公司及其一致行動人，透過集中競價方式減持99.61萬股，佔公司總股本的0.51%。本次權益變動後，其合計持股比例從45.51%降至45.00%，上市公司控股股東、實際控制人未發生變更。此前公司披露減持計劃尚未實施完畢，未來12個月內，不排除繼續增減公司股份，將依規履行資訊披露義務。"
-    },
-    {
-      "id": "4917481",
-      "time": "2026-06-04 20:08:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金時科技：股票交易異常波動 多項業務存不確定性】金時科技公告稱，公司股票於2026年6月2日至6月4日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司超級電容器業務處於前期階段，2025年營收1.35萬元，2026年一季度為0，暫無在手訂單。公司間接持有江蘇華興約1.6871%股權、易纜微約2.0408%股權，持股比例低，不涉及光通訊業務。6月3日，獨立董事鄭春燕增持4000股，佔總股本0.001%。提醒投資者注意風險。"
-    },
-    {
-      "id": "4917480",
-      "time": "2026-06-04 20:07:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守94美元/桶，日內跌3.93%。"
-    },
-    {
-      "id": "4917479",
-      "time": "2026-06-04 20:07:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅永浩，卸任錘子軟體核心崗位！知情人士：既定人事安排，他已還債近10億元】天眼查顯示，近日，錘子科技創始人羅永浩工商職務發生變動，在錘子軟體（北京）有限公司的職務由“執行董事”變更為“董事”，這是羅永浩近年來又一次退出錘子系企業核心管理崗位。6月4日，錘子科技內部知情人士向記者透露，此次職務調整為企業常規工商變更，屬於公司既定人事安排，無特殊變動原因。"
-    },
-    {
-      "id": "mkt:019e9288-160c-7668-9612-b02bfd2993d5",
-      "time": "2026-06-04 20:07:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell below $92/bbl, down 4.23% intraday."
-    },
-    {
-      "id": "4917478",
-      "time": "2026-06-04 20:07:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守92美元/桶，日內跌4.21%。"
-    },
-    {
-      "id": "4917477",
-      "time": "2026-06-04 20:07:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普全球推出由智慧代理式人工智慧驅動的信貸備忘錄生成工具。"
-    },
-    {
-      "id": "mkt:019e9287-b28c-7668-9612-accfc3b325db",
-      "time": "2026-06-04 20:07:07",
-      "tags": [
-        "MKT News",
-        "SPGI.O",
-        "Impact bullish"
-      ],
-      "text": "S&P Global launches AI agent-driven credit memo generation tool."
-    },
-    {
-      "id": "4917476",
-      "time": "2026-06-04 20:07:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報92.17美元/桶。"
-    },
-    {
-      "id": "mkt:019e9287-0567-7668-9612-a190a310d455",
-      "time": "2026-06-04 20:06:22",
-      "tags": [
-        "MKT News",
-        "BX.N",
-        "Impact bullish"
-      ],
-      "text": "Blackstone (BX.N) shares rose 2.2% in premarket trading after its private credit funds set an investor redemption cap of 5%."
-    },
-    {
-      "id": "4917475",
-      "time": "2026-06-04 20:06:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST華西：股票交易異常波動 存在終止上市風險】*ST華西公告稱，公司股票2026年6月2日至6月4日連續三個交易日內日收盤價格漲幅偏離值累計超12%，屬異常波動。2025年公司營收16.77億元，同比降35.35%，淨虧損2.87億元，期末淨資產為-5806.51萬元。公司因連續兩年內控審計報告無法表示意見、2025年末淨資產為負，於4月30日起被實施退市風險警示。若2026年出現相關規則規定情形，公司股票存在被終止上市風險。"
-    },
-    {
-      "id": "4917474",
-      "time": "2026-06-04 20:06:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "黑石股價盤前上漲2.2%。"
-    },
-    {
-      "id": "4917473",
-      "time": "2026-06-04 20:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日月明：股東擬減持不超1%公司股份】日月明公告稱，持股1.75%的股東南昌市國金產業投資有限公司，因自身資金需求，計劃自公告披露之日起3個交易日後的3個月內，以集中競價交易方式減持不超800,000股，佔公司總股本比例1%。股份來源為公司首次公開發行前取得的股份。本次減持計劃存在不確定性，且不會導致公司控制權變更，不會對公司經營產生重大影響。"
-    },
-    {
-      "id": "4917472",
-      "time": "2026-06-04 20:04:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德福科技：持股5%以上股東及其一致行動人累計減持0.08%股份】德福科技公告稱，公司於2026年5月13日披露減持計劃，持股5%以上股東拓陣基金及其一致行動人瑞瀟芃泰合計持有44,413,083股（佔總股本7.05%），計劃減持不超18,909,660股（佔總股本3%）。截至6月4日，二者透過大宗交易累計減持500,000股，持股比例由7.05%降至6.97%，本次權益變動達1%整數倍，減持計劃尚未完成。"
-    },
-    {
-      "id": "4917471",
-      "time": "2026-06-04 20:04:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三博腦科：持股5%以上股東擬減持不超2%股份】三博腦科公告稱，持股14.88%的股東TBP 3Doctors (HK) Limited計劃在公告披露之日起十五個交易日後的三個月內，以集中競價和大宗交易方式減持不超4,059,796股，佔剔除公司回購專用賬戶股份數量後總股本的2%。其中，集中競價、大宗交易方式分別減持不超2,029,898股，各佔1%。減持原因系企業發展資金需求，本次減持不會導致公司控制權變更，也不影響持續性經營。"
-    },
-    {
-      "id": "4917470",
-      "time": "2026-06-04 20:04:26",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "美國金融科技公司Ramp：新進投資方包括高盛另類投資部、德劭基金、摩根士丹利資管、Insight Partners、Broadlight Capital。"
-    },
-    {
-      "id": "4917469",
-      "time": "2026-06-04 20:03:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石私人信貸基金：第二季度股份回購申請約佔流通在外股份的10%。"
-    },
-    {
-      "id": "4917468",
-      "time": "2026-06-04 20:03:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "貝萊德私人信貸基金：根據美國證監會檔案披露，該基金擬於2026年6月30日，以資產淨值為定價回購最多9310萬股股份。"
-    },
-    {
-      "id": "4917467",
-      "time": "2026-06-04 20:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統特別代表：本週已與美方通電話】總檯記者當地時間4日獲悉，俄羅斯總統特別代表德米特里耶夫表示，他計劃在下週與美國總統特使威特科夫、美國總統女婿庫什納進行接觸。據俄方訊息，德米特里耶夫表示，他已於6月3日與威特科夫和庫什納通話，討論了雙邊經濟合作。他指出，美國正努力推動和平，並呼籲烏克蘭方面也加入這一程序。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9283-b847-7668-9612-9fa34b6017de",
-      "time": "2026-06-04 20:02:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Market sources said a Blackstone private credit fund has set an investor redemption cap at 5%."
-    },
-    {
-      "id": "4917466",
-      "time": "2026-06-04 20:02:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿創微納：擬將496.36萬股回購股份用於登出並減少註冊資本】睿創微納公告，擬將存放於公司回購專用證券賬戶中已回購尚未使用的496.36萬股回購股份的用途進行變更，由“用於實施員工持股計劃或者股權激勵”變更為“用於登出並減少註冊資本”。"
-    },
-    {
-      "id": "4917465",
-      "time": "2026-06-04 20:01:47",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "黑石私人信貸基金將投資者贖回額度上限設為5%。"
-    },
-    {
-      "id": "4917464",
-      "time": "2026-06-04 20:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞維州擬立法重拳整治非法菸草商家】為遏制本國尼古丁產品消費量激增的勢頭，澳大利亞維多利亞州政府4日提出新法案，賦予執法部門關停售賣非法菸草商家的許可權。在澳大利亞，每支合法出售的香菸價格中含大約1.5澳元（約合7.25元人民幣）的聯邦菸草稅，一包香菸的售價可能超過60澳元，高昂價格被認為是催生非法菸草市場的主要原因之一。（新華社）"
-    },
-    {
-      "id": "mkt:019e9282-7ef2-7668-9612-95cfdd85c8e7",
-      "time": "2026-06-04 20:01:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.92% to 983.5 yuan/gram at the open of Thursday evening trade on June 4; Silver T+D rose 1.46% to 18,000 yuan/kg."
-    },
-    {
-      "id": "4917463",
-      "time": "2026-06-04 20:00:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐巴基斯坦大使姜再冬會見巴基斯坦總理夏巴茲】2026年6月3日，中國駐巴基斯坦大使姜再冬會見巴基斯坦總理夏巴茲，就雙邊關係和地區形勢交換意見。夏巴茲總理向習近平主席、李強總理致以誠摯問候和美好祝福，愉快憶及不久前訪華取得豐碩成果，衷心感謝中方給予熱情友好接待，表示期待同中方加快落實此訪高層共識和務實成果，打造中巴經濟走廊“2.0升級版”，深化巴中全天候戰略合作伙伴關係，更好造福兩國人民，攜手維護地區和平穩定。（介面）"
-    },
-    {
-      "id": "4917462",
-      "time": "2026-06-04 19:59:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用電氣醫療集團：GE醫療旗下MIM Contour Protégé AI 2.0獲美國食品藥品監督管理局（FDA）510(K) clearance許可，該產品可拓展臨床應用能力，推動人工智慧輔助放射治療方案規劃技術發展。"
-    },
-    {
-      "id": "mkt:019e9280-cff9-7668-9612-8afb53604b65",
-      "time": "2026-06-04 19:59:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices slide】WTI crude extends intraday losses to 4%, trading at $93.98/bbl; Brent crude down 3.74% at $93.71/bbl."
-    },
-    {
-      "id": "4917461",
-      "time": "2026-06-04 19:58:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅省副省長王兵已任甘肅省委常委】甘肅省人民政府網站近日更新後顯示，此前擔任甘肅省副省長的王兵已任甘肅省委常委。（澎湃）"
-    },
-    {
-      "id": "4917460",
-      "time": "2026-06-04 19:58:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國擬向加拿大提供的氫能專案估值為31億加元。"
-    },
-    {
-      "id": "4917459",
-      "time": "2026-06-04 19:57:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4540美元/盎司，日內漲1.64%。"
-    },
-    {
-      "id": "4917458",
-      "time": "2026-06-04 19:57:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4510美元/盎司，日內漲1.71%。"
-    },
-    {
-      "id": "mkt:019e927e-985e-7668-9612-82684ea57c0c",
-      "time": "2026-06-04 19:57:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Li Chenggang attends WTO mini-ministerial in Paris】June 3 — A WTO mini-ministerial met in Paris with ministers or representatives from more than 20 members, including China, the US, the EU, Australia, Brazil and the UK; WTO director-general Okonjo-Iweala attended. China's international trade negotiator and MOFCOM vice minister Li Chenggang said reform should be centred on development and that multilateral rules should be used to better achieve trade-led development, advocating trade‑investment integration to support industrialization and tighter policy coordination in digital and green economy sectors. China backed discussions on fair competition — including constraints on market‑distorting industrial subsidies and improved policy transparency to strengthen multilateral disciplines and coordination — and urged a swift multilateral consensus to extend the WTO moratorium on customs duties on electronic transmissions."
-    },
-    {
-      "id": "4917457",
-      "time": "2026-06-04 19:56:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【退市國化：股票交易異常波動 6月2 - 4日回購1.50%股份】退市國化公告稱，公司股票於2026年6月2日、6月3日、6月4日連續三個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。公司自查顯示，目前生產經營正常，控股股東無影響股價波動的重大事項，未籌劃重大事項，未發現相關媒體報道、市場傳聞及熱點概念。2026年6月2 - 4日，公司累計回購股份6,579,302股，佔總股本1.50%。公司股票於6月1日進入退市整理期，預計最後交易日為6月22日。"
-    },
-    {
-      "id": "mkt:019e927e-47ca-7668-9612-78b980f4c762",
-      "time": "2026-06-04 19:56:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Canadian broadcaster CTV, South Korea has offered Canada hydrogen-fuel freight trucks and refueling/charging stations as part of its bid to win a submarine contract."
-    },
-    {
-      "id": "4917456",
-      "time": "2026-06-04 19:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國為贏得加拿大潛艇採購合同，在投標中提出為加拿大提供氫燃料貨運卡車及加氫站。"
-    },
-    {
-      "id": "4917455",
-      "time": "2026-06-04 19:56:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部國際貿易談判代表兼副部長李成鋼出席巴黎世貿組織小型部長會議】6月3日，世貿組織小型部長會議在法國巴黎舉行。中國、美國、歐盟、澳大利亞、巴西、英國等20多個世貿組織成員部長或代表和世貿組織總幹事伊維拉出席會議。商務部國際貿易談判代表兼副部長李成鋼出席會議併發言。中國常駐世貿組織代表團大使李詠箑參加。李成鋼表示，中方上個月主辦的亞太經合組織（APEC）貿易部長會議成功發表《蘇州宣告》，各方就世貿組織改革必要性、攜手完善世貿組織等達成共識。這既體現出APEC對世貿組織工作的有力支援，也表明在成員多元各異的情況下，建設性尋找最大公約數是達成共識的關鍵所在。當前形勢下，成員應探索更靈活、更包容的決策方式，允許符合大多數成員利益的倡議透過諸邊方式在世貿組織框架內先行一步。（商務部）"
     }
   ]
 }
