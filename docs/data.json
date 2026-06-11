@@ -1,7 +1,232 @@
 {
-  "updated": "2026-06-11 20:26:48",
-  "count": 18403,
+  "updated": "2026-06-11 20:30:51",
+  "count": 18407,
   "items": [
+    {
+      "id": "mkt:019eb6a9-69e2-7dd8-afbf-af52d51695ac",
+      "time": "2026-06-11 20:30:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US initial jobless claims for week ending June 6: 229,000; expected 219,000; prior 225,000."
+    },
+    {
+      "id": "mkt:019eb6a9-5a75-7dd8-afbf-9ebe9d3f5be0",
+      "time": "2026-06-11 20:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US continuing jobless claims for the week to May 30 rose to 1.795 mln, above the 1.78 mln consensus; prior week revised to 1.771 mln from 1.777 mln."
+    },
+    {
+      "id": "mkt:019eb6a9-69df-7dd8-afbf-a48d14b41354",
+      "time": "2026-06-11 20:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US four-week moving average of initial jobless claims for week ending June 6: 219,000, prior 214,750."
+    },
+    {
+      "id": "4930613",
+      "time": "2026-06-11 20:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國將對伊朗實施“猛烈打擊”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb6a9-3d58-7dd8-afbf-9531cab8e688",
+      "time": "2026-06-11 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (May) | actual 0.4% | consensus 0.5% | previous 1.00%"
+    },
+    {
+      "id": "mkt:019eb6a9-3b8c-7dd8-afbf-88d2938f499d",
+      "time": "2026-06-11 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (May) | actual 1.1% | consensus 0.7% | previous 1.40%"
+    },
+    {
+      "id": "mkt:019eb6a9-3b86-7dd8-afbf-84accd390158",
+      "time": "2026-06-11 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (May) | actual 4.9% | consensus 5.4% | previous 5.20%"
+    },
+    {
+      "id": "mkt:019eb6a9-3a7e-7dd8-afbf-7bc400f01028",
+      "time": "2026-06-11 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (May) | actual 6.5% | consensus 6.4% | previous 6.00%"
+    },
+    {
+      "id": "mkt:019eb6a9-34fd-7dd8-afbf-7722be9f59d1",
+      "time": "2026-06-11 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Building Permits (MoM) (Apr) | actual -7.6% | consensus -3.5% | previous 10.30%"
+    },
+    {
+      "id": "mkt:019eb6a9-3017-7dd8-afbf-6c0d4e8432a4",
+      "time": "2026-06-11 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (May.30) | actual 1795000K | consensus 1780000K | previous 1777000K"
+    },
+    {
+      "id": "mkt:019eb6a9-2fac-7dd8-afbf-6009a2b93902",
+      "time": "2026-06-11 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Jun.6) | actual 219000K | previous 214750K"
+    },
+    {
+      "id": "mkt:019eb6a9-2fa7-7dd8-afbf-5d013e3aec2c",
+      "time": "2026-06-11 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Jun.6) | actual 229000K | consensus 219000K | previous 225000K"
+    },
+    {
+      "id": "4930612",
+      "time": "2026-06-11 20:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國結算關於2026年端午節休市期間證券資金清算交收安排的通知。"
+    },
+    {
+      "id": "te:markets:558372",
+      "time": "2026-06-11 20:29:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slips as ECB Hikes Rates and Lifts Inflation Outlook — The euro edged closer to $1.15, hovering near its lowest level since early April, after the European Central Bank delivered an expected 25-basis-point rate hike, its first since 2023. Policymakers cited surging energy costs and persistent inflation risks, exacerbated by the Iran conflict and disruptions to oil shipments through the Strait of Hormuz. The ECB also raised its inflation forecasts, projecting headline inflation at 3.0% for 2026 (up from 2.6%) and 2.3% for 2027 (up from 2.0%), with core inflation now expected at 2.5% for both years (revised up from 2.3% and 2.2%). Growth outlook was slightly downgraded, with Eurozone GDP now forecast at 0.8% in 2026 (down from 0.9%) and 1.2% in 2027 (down from 1.3%). Meanwhile, the dollar remained firm amid ongoing Middle East tensions, as repeated military strikes and diplomatic setbacks dimmed hopes for a US-Iran resolution."
+    },
+    {
+      "id": "4930611",
+      "time": "2026-06-11 20:29:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佑駕創新：公司與樂動機器人正式簽署戰略合作協議】佑駕創新公告，公司近期與深圳樂動機器人股份有限公司正式簽署戰略合作協議。雙方旨在充分發揮各自在自動駕駛和機器人領域的技術優勢與市場資源，以物理AI技術共創、全場景落地、產業生態賦能為核心，依託本集團基於資料飛輪的端到端大模型技術和多模態智慧互動技術，並結合樂動機器人圍繞「感知入口+資料基石」形成的物理AI 基礎設施能力、具身機器人整機研發能力及全球機器人生態資源，聯合研發跨場景的物理AI解決方案，共同拓寬移動機器人場景邊界，力爭成為全球物理AI產業標杆。"
+    },
+    {
+      "id": "4930610",
+      "time": "2026-06-11 20:29:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普宣稱美國將強力打擊伊朗後，美債收益率跌幅收窄，10 年期美債收益率最新下跌 0.8 個基點，報 4.532%。"
+    },
+    {
+      "id": "mkt:019eb6a8-74fb-7dd8-afbf-544395940fbc",
+      "time": "2026-06-11 20:29:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 10-year Treasury yield fell 0.8 bps to 4.532%."
+    },
+    {
+      "id": "4930609",
+      "time": "2026-06-11 20:28:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見英國環境、食品和農村事務大臣艾瑪·雷諾茲】6月10日下午，海關總署署長孫梅君在署會見英國環境、食品和農村事務大臣艾瑪·雷諾茲一行。雙方就落實兩國領導人重要共識，深化中英海關檢驗檢疫合作、推進農食產品貿易、加強動植物疫情疫病防控合作等議題交換意見。副署長張寶峰參加會見。"
+    },
+    {
+      "id": "te:markets:558371",
+      "time": "2026-06-11 20:28:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Gain After US Signals End to Iran Strikes — Futures tracking the S&P/TSX Composite Index moved higher on Thursday after the US signaled that its strikes against Iran had concluded, paving the way for negotiations to resume. President Trump said no further retaliatory action would be needed if Iran refrains from additional attacks and added that both countries remained close to an agreement that could allow energy exports through the Persian Gulf to resume. Oil prices retreated, easing inflation concerns and pushing bond yields lower, supporting financial stocks and the broader index as fears of higher borrowing costs and hawkish central banks subsided. On Wednesday, the Bank of Canada kept interest rates unchanged, as expected. Meanwhile, Trump suggested that the US may not extend its free trade agreement with Canada and Mexico, even as negotiations with both countries continue."
+    },
+    {
+      "id": "mkt:019eb6a8-0ee4-7dd8-afbf-4d85e6871fcc",
+      "time": "2026-06-11 20:28:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【ECB raises inflation forecast, cuts growth outlook】The ECB on Thursday, alongside a rate decision, raised its inflation forecasts and trimmed some growth projections, citing an energy shock from the Iran war that is spilling across the 21-member currency union. Euro-area inflation rose above 3% last month and further consumer-price pressure is likely as energy costs climb. With inflation already evident and risks of second-round effects mounting, the ECB hiked rates; market participants price roughly two more hikes over the next year. Higher prices and borrowing costs are eroding household purchasing power and corporate margins, weighing on growth in an economy that was only marginally expanding before the conflict."
+    },
+    {
+      "id": "4930607",
+      "time": "2026-06-11 20:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特公共投資基金僅兌現對LIV高爾夫6億美元承諾資金的三分之一 用以支撐2026賽季剩餘賽程】沙特主權財富基金原本承諾拿出6億美元，資助LIV高爾夫打完本賽季餘下賽事，但目前實際到位資金僅約三分之一。這項資金缺口加劇了賽事面臨的生存危機，LIV正緊急尋覓新投資方。 自4月官宣將不再持續注資這家持續虧損的高爾夫聯賽後，沙特公共投資基金（PIF）僅向LIV撥付了約2億美元，而當初承諾總額約6億美元。受伊朗戰事影響，沙特整體投資重心大幅調整，削減了對LIV這類專案的長期投入意願。兩名知情人士補充道：LIV遲遲找不到新金主的時間越久，PIF補齊賽季尾款的動力就越弱。 沙特公共投資基金拒絕直接回應採訪，僅讓媒體參考其4月釋出的舊宣告：“PIF決定僅資助LIV高爾夫完成2026賽季剩餘賽程。LIV高爾夫長期運營所需的鉅額投入，已不符合PIF現階段的投資戰略佈局。”"
+    },
+    {
+      "id": "mkt:019eb6a7-2124-7dd8-afbf-40fb5c5af0d4",
+      "time": "2026-06-11 20:27:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US will strike Iran tonight】Trump posted that the US will carry out a severe strike on Iran tonight, claiming Iran's navy, air force, radar, air defenses and other defensive systems, along with most of its offensive capabilities, are gone. He said that in the near future the US will seize kharg island and other oil infrastructure and take full control of Iran's oil and gas market, citing parallel action in Venezuela and saying it produced excellent results for both Venezuela and the United States."
+    },
+    {
+      "id": "4930606",
+      "time": "2026-06-11 20:26:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數在特朗普稱將“嚴厲打擊”伊朗後，大幅回吐早前漲幅，截至最新，該指數日內上漲0.27%。"
+    },
     {
       "id": "4930605",
       "time": "2026-06-11 20:25:33",
@@ -136,6 +361,15 @@
         "國際"
       ],
       "text": "【特朗普： 今晚美國將對伊朗展開猛烈打擊】特朗普稱：“今晚美國將對伊朗展開猛烈打擊。伊朗的海軍、空軍、雷達、防空系統及各類防禦設施，連同其大部分進攻能力均已被摧毀。在不久的將來，我們還會攻佔哈爾克島及其他石油設施據點，全面掌控伊朗油氣市場，就像我們此前對委內瑞拉採取的舉措一樣，該模式目前讓委美雙方都收穫了極佳成效。特此告知。”"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768503259",
+      "time": "2026-06-11 20:23:45",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【交易員維持對歐洲央行利率預期不變】交易員維持對歐洲央行利率預期不變，預計2026年還將加息43個基點。"
     },
     {
       "id": "4930593",
@@ -169260,221 +169494,6 @@
         "MKT News"
       ],
       "text": "Egypt plans to replace in-kind subsidies with cash transfers in the coming fiscal year, the prime minister said."
-    },
-    {
-      "id": "4917522",
-      "time": "2026-06-04 20:30:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電網公司召開安全生產暨迎峰度夏保供視訊會議】6月4日，國家電網公司召開安全生產暨迎峰度夏保供視訊會議。公司董事長、黨組書記張智剛出席會議並講話。張智剛強調，要確保大電網安全執行，加強電網執行管控，確保裝置執行安全，強化電網安全治理。全力保障電力供應，服務電源增發穩供，提高電網支撐能力，發揮市場配置作用，持續強化需求側管理。用心做好供電服務，強化民生供電保障，持續最佳化電力營商環境，深入推進供電質量提升。"
-    },
-    {
-      "id": "mkt:019e929d-48e3-7668-9613-ab5df17416a1",
-      "time": "2026-06-04 20:30:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US initial jobless claims for the week ending May 30 rose to 225,000, the highest level since the week of Feb. 7, 2026."
-    },
-    {
-      "id": "4917521",
-      "time": "2026-06-04 20:30:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月30日當週初請失業金人數 22.5萬人，預期21.3萬人，前值由21.5萬人修正為21.2萬人。"
-    },
-    {
-      "id": "mkt:019e929d-4124-7668-9613-a64272cb1012",
-      "time": "2026-06-04 20:30:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US continuing unemployment claims for the week ended May 23 1.777 mln, vs 1.78 mln expected; prior reading revised to 1.785 mln from 1.786 mln."
-    },
-    {
-      "id": "mkt:019e929d-40e3-7668-9613-9b1614947ab8",
-      "time": "2026-06-04 20:30:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US initial jobless claims four-week moving average for week ended May 30: 214,750; prior revised from 209,000 to 208,250."
-    },
-    {
-      "id": "mkt:019e929d-24cb-7668-9613-933c682d84b9",
-      "time": "2026-06-04 20:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US initial jobless claims for week ended May 30: 225,000; consensus 213,000; prior week revised to 212,000 from 215,000."
-    },
-    {
-      "id": "mkt:019e929d-00e5-7668-9613-88bf72f09e5e",
-      "time": "2026-06-04 20:30:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "US Q1 nonfarm productivity (final) +0.3% vs +0.5% expected; prior +0.8%."
-    },
-    {
-      "id": "mkt:019e929d-00e2-7668-9613-8352a9151c78",
-      "time": "2026-06-04 20:30:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US Q1 nonfarm unit labor costs, final +1.8% vs. +2.5% expected; prior +2.3%."
-    },
-    {
-      "id": "mkt:019e929c-bb02-7668-9613-716cb2cebfb0",
-      "time": "2026-06-04 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Continued Jobless Claims (May.23) | actual 1777000K | consensus 1780000K | previous 1786000K"
-    },
-    {
-      "id": "mkt:019e929c-baf7-7668-9613-6f011ee1f30a",
-      "time": "2026-06-04 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims 4-Week Average (May.30) | actual 214750K | previous 209000K"
-    },
-    {
-      "id": "mkt:019e929c-d140-7668-9613-791322f19fd0",
-      "time": "2026-06-04 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims (May.30) | actual 225000K | consensus 213000K | previous 215000K"
-    },
-    {
-      "id": "mkt:019e929c-ba9d-7668-9613-58631cbb94ec",
-      "time": "2026-06-04 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | NonFarm Unit Labor Costs Final (QoQ) (Q1) | actual 1.8% | consensus 2.5% | previous 2.30%"
-    },
-    {
-      "id": "mkt:019e929c-ba94-7668-9613-56bc4d88a367",
-      "time": "2026-06-04 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | NonFarm Labor Productivity Final (QoQ) (Q1) | actual 0.3% | consensus 0.5% | previous 0.80%"
-    },
-    {
-      "id": "4917520",
-      "time": "2026-06-04 20:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及總理：埃及計劃在下一財政年度以現金補貼替代實物補貼。"
-    },
-    {
-      "id": "4917519",
-      "time": "2026-06-04 20:29:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷發現一種新的迅猛龍化石】阿根廷貝爾納迪諾·裡瓦達維亞自然科學博物館研究人員參與的國際團隊近期確認，此前在阿根廷南部聖克魯斯省挖掘的恐龍化石屬於迅猛龍的一個新物種。研究人員介紹，這些恐龍化石出土於聖克魯斯省埃爾卡拉法特附近，挖掘工作始於2019年並持續多年。研究人員使用計算機斷層掃描等先進技術，對在此地挖掘的恐龍化石進行了骨骼結構重建，並對其解剖特徵進行了細緻分析。（新華社）"
-    },
-    {
-      "id": "4917518",
-      "time": "2026-06-04 20:29:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南昌一網紅餐廳疑多人食物中毒？官方通報】江西南昌紅谷灘區市場監督管理局6月4日通報，針對消費者反映轄區泰鋪餐飲店食品安全問題，該局高度重視，立即開展全面核查和食品抽檢。現已責令該店停業整頓，並立案調查。後續市監局將根據調查情況，依法依規嚴肅查處。消費者可持相關憑證到紅谷灘區市場監督管理局衛東分局（麗景路1188號）登記受理消費投訴。市監局將進一步加大食品安全監管力度，切實守護群眾食品安全。此前，據媒體報道，有網友在社交平臺發帖稱，6月1日在位於江西南昌一商場的“ONEMORETHAI泰鋪”餐廳就餐後出現不適。該網友在帖子中表示，出現這種症狀的並非他一人，多人出現持續發燒、急性腹痛、腹瀉的情況，有顧客症狀較重，連夜到醫院輸液治療。"
-    },
-    {
-      "id": "mkt:019e929b-39e2-7668-9613-4a687674affc",
-      "time": "2026-06-04 20:28:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs (GS.N) India co-chair Samtani will depart at year-end."
-    },
-    {
-      "id": "4917517",
-      "time": "2026-06-04 20:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雄安新區：以空天資訊撬動未來產業】雄安空天資訊研究院技術委員會成立暨新設研發中心揭牌儀式在雄安場景匯科創園舉行。中國工程院院士張平接過了雄安空天資訊研究院技術委員會主任的聘書，衛星網際網路檢測中心等四大研發中心同步揭牌。這不僅是研究院的“升級禮”，更是在“十五五”開局之年，雄安新區面向未來產業的一次精準落子。 (雄安釋出)"
-    },
-    {
-      "id": "te:economy:556527",
-      "time": "2026-06-04 20:27:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Private Investment YoY",
-        "Importance 1"
-      ],
-      "text": "Mexico Gross Fixed Investment Contracts — Gross fixed investment in Mexico contracted 2.6% from the previous year in March of 2026, less than market expectations of a 3.1% decline, but still marking 18 months without growth in investment. Capital formation through construction sank 3.5%, as residential construction dropped 8.7% to offset the 2.4% increase in non residential construction. Meanwhile, capital accumulation in machinery dropped by 1.5%, amid a 7.8% plunge in domestic machinery buildup. From the previous month, gross fixed investment inched higher by 0.4%."
-    },
-    {
-      "id": "4917516",
-      "time": "2026-06-04 20:27:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【渣打集團：Strategy的比特幣持倉對加密貨幣前景至關重要】渣打集團的Geoff Kendrick在一份報告中表示，Strategy關於其比特幣持倉的下一份公告，將在決定該加密貨幣是否擴大跌幅方面發揮關鍵作用。週一，這家比特幣儲備公司表示，上週出售了32枚比特幣，價值約250萬美元，這是該公司自2022年以來首次出售該加密貨幣。這一訊息促成了比特幣本週的大幅下跌。Kendrick說，Strategy上一次出售比特幣時，僅僅兩天後就買回了比出售量更多的比特幣。“這一次，我懷疑出售之後的買入會更加激進。“他說，這種買入將遏制比特幣的跌勢。倫敦證券交易所集團的資料顯示，比特幣在隔夜觸及61,344美元的四個月低點後，下跌4.2%，至62,207美元。"
     }
   ]
 }
