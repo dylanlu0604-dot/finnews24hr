@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-11 17:49:53",
-  "count": 18332,
+  "updated": "2026-06-11 17:53:40",
+  "count": 18330,
   "items": [
+    {
+      "id": "mkt:019eb619-ab68-7dd8-afba-8eda32f58472",
+      "time": "2026-06-11 17:53:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's foreign ministry reiterated firm support for Bahrain and Jordan on security and stability, and said it fully supports any measures they take to protect their security and sovereignty."
+    },
+    {
+      "id": "4930226",
+      "time": "2026-06-11 17:53:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南省瀏陽市應急管理局黨委副書記、局長楊海被查】據“三湘風紀”，湖南省瀏陽市應急管理局黨委副書記、局長楊海涉嫌嚴重違紀違法，目前正接受長沙市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4930225",
+      "time": "2026-06-11 17:52:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東釋出國內首個智慧體自主支付協議 為AI“花錢”定規則】京東正式釋出智慧體自主支付協議，即Agent Autonomous Payment Protocol。這是國內首個專門為智慧體自主支付設計的協議，目的是讓使用者用AI省心又放心地花錢，同時每一筆都能查、都能追溯。這意味著，你的智慧體不再只是幫你把商品放進購物車、等你親手付錢，而是真正具備了在規則約束下自主完成支付的能力。未來，智慧體的自主支付在供應鏈流轉與生活消費場景中將扮演越來越重要的角色。京東A2P2協議補上了智慧經濟時代支付領域最關鍵的信任短板，為未來數億的智慧體應用提供安全、合規、可監管的支付基礎設施。（京東黑板報）"
+    },
+    {
+      "id": "mkt:019eb618-7ab3-7dd8-afba-8332533ffe34",
+      "time": "2026-06-11 17:51:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "JD.O"
+      ],
+      "text": "【JD.com launches China's first Agent Autonomous Payment Protocol to govern AI spending】JD.com launched the Agent Autonomous Payment Protocol (A2P2), China’s first payment standard designed specifically for AI agents. A2P2 enables agents to execute payments autonomously within rule constraints while ensuring transaction traceability and auditability. JD positions the protocol for supply-chain settlement and consumer spending scenarios, saying it fills a key trust gap in payments for the emerging intelligent economy and provides secure, compliant, and regulatorily accessible payment infrastructure for large-scale agent applications."
+    },
+    {
+      "id": "4930222",
+      "time": "2026-06-11 17:51:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【稅務總局在成品油零售領域全面推廣“交易即開票”成品油零售開啟智慧開票新模式】近日，為提升成品油消費者開具發票便利度、降低企業經營管理成本、強化成品油零售領域稅收監管，國家稅務總局在前期試點基礎上，印發《關於在成品油零售領域全面推廣“交易即開票”有關事項的公告》（以下簡稱《公告》），明確自2026年11月1日起，在全國成品油零售加油站全面推廣“交易即開票”，實現加油交易與發票開具無縫銜接。（稅務總局）"
+    },
+    {
+      "id": "4930221",
+      "time": "2026-06-11 17:50:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士ETF熱潮正逐漸成為該股交易中的重要力量】Leverage Shares的分析師Sandeep Rao稱，與SK海力士公司掛鉤的一系列槓桿式交易所交易基金（ETF）引發了大量衍生品交易，令這些產品及其相關的對沖資金流目前約佔這個晶片製造商股票交易量的60%至70%。這一現象凸顯了人們對人工智慧的熱情已從投資者買入股票，逐漸演變為槓桿型ETF在其中佔據更大份額。在SK海力士股價過去一年內飆升約780%的情況下，由此產生的期權交易規模已足夠龐大，一些市場參與者表示，資金流向可能與公司的基本面一樣重要。Rao表示：“SK海力士股票的流入資金越來越多來自槓桿型ETF，而非公司股票本身的吸引力，從實質意義上看，現金股票市場如今正被槓桿ETF所主導，而非相反。”"
+    },
+    {
+      "id": "4930220",
+      "time": "2026-06-11 17:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾表示，正在為與澤連斯基的會面開展籌備工作。"
+    },
+    {
+      "id": "te:economy:558345",
+      "time": "2026-06-11 17:49:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Mining Production",
+        "Importance 1"
+      ],
+      "text": "South Africa Mining Output Rises Faster in April — Mining production in South Africa climbed by 8.2% year-on-year in April 2026, following a 2.5% rise in the prior month, mainly due to a weak base of comparison. This marked the fifth consecutive month of growth in mining activity, largely supported by PGMs (+36.5%), manganese ore (+19%) and chromium ore (+17.5%). On a seasonally adjusted monthly basis, mining output rose by 3.3%, after a downwardly revised 4.8% decline in the preceding month. Mining production increased by 2.4% in the three months ended April 2026 compared with the previous three months."
+    },
+    {
+      "id": "4930219",
+      "time": "2026-06-11 17:49:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工大高科：中標1378.35萬元鐵路專用線專案】工大高科公告，公司於近日收到“中鐵三局集團有限公司南京港龍潭港區鐵路專用線擴能增效建設工程專案”的《中標通知書》，中標金額為人民幣1378.35萬元（含稅）。該專案是公司在江蘇省港口專用線的首個專案，是公司產品向AI轉型的重要標誌。公司已取得中標通知書，但尚未簽訂正式合同，合同條款尚存在不確定性。"
+    },
     {
       "id": "mkt:019eb615-835a-7dd8-afba-7a0977f0e0b8",
       "time": "2026-06-11 17:48:43",
@@ -168612,108 +168691,6 @@
         "國際"
       ],
       "text": "馬來西亞國家石油公司簽署諒解備忘錄，將聯合評估海上區塊提高石油採收率（IOR/EOR）的合作機遇。"
-    },
-    {
-      "id": "4917178",
-      "time": "2026-06-04 17:53:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：馬來西亞國家石油公司與區域合作伙伴推進海上石油開採。"
-    },
-    {
-      "id": "4917177",
-      "time": "2026-06-04 17:52:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港華能源與晶澳達成戰略合作】6月3日，晶澳太陽能科技股份有限公司（以下簡稱“晶澳”）與港華能源投資有限公司在上海正式簽署戰略合作協議。根據協議，雙方將聚焦新能源及儲能領域，圍繞獨立儲能建設、聯合創新探索、產品服務與資產運營協同三大方向開展深度合作。"
-    },
-    {
-      "id": "mkt:019e920c-9c63-7668-960f-63e22a0588f1",
-      "time": "2026-06-04 17:52:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Malaysia's national oil company Petronas and regional partners are advancing offshore oil production."
-    },
-    {
-      "id": "4917176",
-      "time": "2026-06-04 17:52:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "盤前：美光科技下跌5.7%，AMD下跌3.6%，英特爾下跌3.8%，高通下跌4%，美滿電子科技下跌6.5%。"
-    },
-    {
-      "id": "4917175",
-      "time": "2026-06-04 17:52:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST人福：擬公開掛牌轉讓樂福思16.34%股權】ST人福公告，全資子公司RFSWHoldingPte.Ltd.擬在產權交易所以公開掛牌方式轉讓所持有的樂福思8170萬股股份（即16.34%股權），掛牌轉讓價格擬不低於樂福思16.34%股權對應評估值10.56億元。交易完成後公司不再持有樂福思的股權。"
-    },
-    {
-      "id": "4917174",
-      "time": "2026-06-04 17:52:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國能建：聯營體簽署阿布扎位元維拉C燃氣聯合迴圈電站專案EPC合同 金額16.87億美元】中國能建(601868)6月4日公告，近日，中國能源建設股份有限公司所屬子公司中能建國際建設集團有限公司、中國能源建設集團廣東火電工程有限公司、中國能源建設集團廣東省電力設計研究院有限公司組建的聯營體作為總承包方，與沙特阿爾朱美亞能源水務公司和勝科特維拉C有限公司組成的專案公司，簽署了阿布扎位元維拉C燃氣聯合迴圈電站專案EPC合同。合同金額為16.87億美元，摺合人民幣114.2億元。"
-    },
-    {
-      "id": "4917173",
-      "time": "2026-06-04 17:51:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建省住房和城鄉建設廳黨組成員、副廳長蔣金明接受審查調查】據福建省紀委監委訊息：福建省住房和城鄉建設廳黨組成員、副廳長蔣金明涉嫌嚴重違紀違法，目前正接受福建省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019e920b-422c-7668-960f-5851911a9636",
-      "time": "2026-06-04 17:51:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Challenger data: US tech still leads in layoffs】Outplacement firm Challenger said U.S. tech firms announced 38,242 layoffs in May, the sector’s largest monthly total since Aug 2024. Tech has posted 123,653 layoffs year-to-date in 2026, up 66% from 74,716 in the same period of 2025, and remains the biggest source of cuts so far this year. Challenger said technology is reshaping the labor market in real time and that artificial intelligence is now the most-cited reason for company layoffs, with tech the most affected sector. It added AI has not produced mass job destruction to date and should raise productivity over time, but companies are already citing AI in more layoffs than any other reason; the key uncertainty is the speed of change."
-    },
-    {
-      "id": "4917172",
-      "time": "2026-06-04 17:51:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報94.08美元/桶。"
-    },
-    {
-      "id": "4917171",
-      "time": "2026-06-04 17:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粉筆CEO張小龍再發文致歉：那一瞬間我破防了】粉筆公考CEO張小龍再次就人大髒話事件發表致歉信。其中提到：“我承認我這樣說是很不合適的，我說美股科技股的時候我看到有同學投來鄙夷加驚訝的目標，這讓我有點情緒。不過更多的是大家沒有什麼反應，我既尷尬自尊心也受到了挑戰。”張小龍稱，“那一瞬間我破防了，不要以為你們是人大的有什麼了不起......後面都是情緒化罵人的話。”"
-    },
-    {
-      "id": "mkt:019e920a-6926-7668-960f-518ae34b1dd1",
-      "time": "2026-06-04 17:50:16",
-      "tags": [
-        "MKT News",
-        "UBSG.SW",
-        "Impact bearish"
-      ],
-      "text": "UBS Group's Swiss-listed shares fell 2.3%."
     }
   ]
 }
