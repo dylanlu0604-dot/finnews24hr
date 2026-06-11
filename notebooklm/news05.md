@@ -1,7 +1,308 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-12 03:58:17_
-_本檔包含 3565 則快訊，約 672251 字_
+_更新時間：2026-06-12 05:04:04_
+_本檔包含 3488 則快訊，約 673140 字_
+
+---
+
+### 2026-06-06 13:57:03  #公司
+
+【安科生物：全球首款CD7 CAR-T兒童適應症一期臨床啟動】據安科生物訊息，復發難治T淋巴母細胞白血病/淋巴瘤是兒童血液腫瘤中極具侵襲性的惡性疾病。患兒在常規化療、造血幹細胞移植失敗後，臨床可選方案寥寥。6月4日，安科生物參股公司博生吉醫藥自主研發的全球首款進入臨床階段的靶向CD7自體CAR-T產品PA3-17兒童適應症臨床試驗啟動會在組長單位中國醫學科學院血液病醫院（血液學研究所）召開，專案正式進入Ⅰ期臨床籌備階段，中國原創細胞治療在兒童血液病領域迎來突破。
+
+---
+
+### 2026-06-06 13:53:42  #其他
+
+·【全國首例盲人腦機介面復明成功】湖南長沙湘雅醫院成功用侵入式腦機介面，使一名女性失明患者重獲光明，患者已能精準識別地面的黑色路線自行行走。（重慶廣電）
+
+---
+
+### 2026-06-06 13:50:19  #國際
+
+【美得州因蟲害進入“災難狀態” 聯邦機構被批應對不力】美國“新大陸螺旋蠅蛆病”再起，檢出病牛的得克薩斯州5日進入“災難狀態”。不少牧場主批評美國聯邦政府應對不力。目前，美方著手投放絕育雄蠅並出動嗅探犬在重要區域巡查。專家表示，能否奏效尚待觀察。得州薩瓦拉縣一頭牛犢3日檢出新大陸螺旋蠅蛆，美國農業部5日確認在得州距第一頭病牛所在地約9公里的一處牧場發現第二頭病牛。得州州長格雷格·阿博特5日宣佈得州進入“災難狀態”，要求聯邦政府加快建設一處絕育雄蠅繁育工廠。
+
+---
+
+### 2026-06-06 13:49:29  #國際
+
+【扎哈羅娃駁斥拉夫羅夫辭職傳聞】據俄新社6月6日報道，俄羅斯外交部發言人瑪麗亞·扎哈羅娃在聖彼得堡國際經濟論壇期間駁斥了有關俄外長謝爾蓋·拉夫羅夫打算辭職的傳聞。報道稱，扎哈羅娃在接受採訪時表示：“（他是）一名傑出的外交官與領導者，一直在為國家利益履職盡責，其工作成果就連敵人都心生豔羨。”扎哈羅娃指出，有關俄外長即將卸任的傳言是對俄不友好勢力散佈的，該傳言與事實不符。（參考訊息）
+
+---
+
+### 2026-06-06 13:48:27  #MKT News
+
+【Putin urges government to restore steady growth from next year by boosting investment】President Putin told the St. Petersburg International Economic Forum the government’s task is to work from next year to restore steady economic growth, and that a condition for this is higher investment and launching a new investment cycle. He said real investment rose nearly 38% in 2021–24 but fell last year, and that investment growth will be a key metric for government performance. Putin said balanced growth should rely on domestic demand and require keeping the downward trend in inflation; inflation has slowed markedly and is expected at about 5.2% this year. He added Russia must not be closed off: the state should ensure domestic production of critical goods and strengthen infrastructure while continuing cooperation and cross‑border projects with foreign partners.
+
+---
+
+### 2026-06-06 13:47:49  #國際
+
+【普京要求俄政府從明年起促使經濟恢復平穩增長】俄羅斯總統普京5日在第29屆聖彼得堡國際經濟論壇全體會議上說，俄政府任務是從明年起努力促使本國經濟恢復平穩增長，完成這項任務的條件之一是增加投資並啟動新的投資週期。 普京說，2021年至2024年，俄羅斯獲得的實際投資增長近38%，但去年該資料下滑。啟動新投資週期是政府經濟部門的一項關鍵任務，投資增長是衡量其工作成效的重要指標。他還說，為使經濟均衡增長，需依託內需並維持通脹率繼續下降。目前，俄通脹已顯著放緩，預計今年的通脹率接近5.2%。 普京強調，一個強大的主權國家不能封閉。俄既要自主生產至關重要的產品，加強基礎設施建設，同時還要與外國夥伴加強往來、開展協作、推進跨境合作專案。 普京還說，俄將繼續落實公路、鐵路運力提升計劃，發展基於本國技術的高鐵網路；還要提高海港吞吐能力，將跨北極運輸走廊打造成“運輸大動脈”；發展俄商用船隊和破冰船隊，建造各類油輪和其他各級船舶，使俄商船總載重噸位躋身世界前十。(新華社)
+
+---
+
+### 2026-06-06 13:47:45  #國際
+
+【特朗普稱只有中美能從伊朗廢墟中取出濃縮鈾】美國和伊朗的談判陷入僵局，雙方在濃縮鈾處置方式上依然存在分歧。據美國福克斯新聞網6月5日報道，美國總統特朗普堅持要求伊朗放棄濃縮鈾庫存。他宣稱，美國去年的空襲對伊朗核設施造成“嚴重打擊”，只有美國和中國有能力取出廢墟中的濃縮鈾。 （觀察者網）
+
+---
+
+### 2026-06-06 13:43:48  #國際
+
+【俄稱聖彼得堡市遭大規模無人機襲擊】總檯記者當地時間6日獲悉，俄羅斯聖彼得堡市市長別格洛夫稱，該市當天遭到大規模軍用無人機襲擊，建議市民不要外出，並告知行動網路可能中斷。列寧格勒州州長德羅茲堅科當天凌晨3時59分發布無人機危險預警，並於7時31分通報稱該州上空已有86架無人機被擊落。（央視新聞）
+
+---
+
+### 2026-06-06 13:43:45  #MKT News #Important
+
+【Russia says St. Petersburg hit by large-scale military drone attack】St. Petersburg mayor Beglov said the city was struck by a large-scale military drone attack, urged residents to stay indoors and warned mobile networks could be disrupted. Leningrad Oblast governor Drozdenko issued a drone-danger alert at 03:59 and at 07:31 reported 86 drones had been shot down over the region.
+
+---
+
+### 2026-06-06 13:43:02  #國際
+
+【白宮：伊朗國足已獲得簽證】美國白宮官員5日說，參加2026美加墨世界盃的伊朗國家足球隊已獲得美國簽證，此時距伊朗隊15日在美國洛杉磯的首場比賽僅剩10天。路透社5日報道，針對伊朗駐墨西哥大使阿布勒法茲勒·帕桑迪德4日關於伊朗隊尚未收到美國簽證的說法，一名白宮官員說，伊朗隊的美國簽證已獲批。（新華社）
+
+---
+
+### 2026-06-06 13:41:50  #MKT News
+
+【Zakharova denies reports that Lavrov plans to resign】RIA reported on June 6 that Russian Foreign Ministry spokeswoman Maria Zakharova, speaking at the St. Petersburg International Economic Forum, denied reports that Foreign Minister Sergey Lavrov intends to resign. Zakharova called Lavrov an outstanding diplomat and leader who has served the national interest, saying his results are envied even by enemies, and described the resignation rumours as spread by unfriendly forces and false.
+
+---
+
+### 2026-06-06 13:40:51  #其他
+
+【中央安全生產考核巡查組曝光】近日，2026年度中央安全生產考核巡查季度明查暗訪工作啟動，各考核巡查組聚焦消防、危化品生產領域安全生產工作，分赴各地開展明查暗訪。記者跟隨工作組檢查人員密集場所消防安全發現，部分商業樓、養老院內部空間未做防火分隔，火災隱患突出。（央視新聞）
+
+---
+
+### 2026-06-06 13:38:08  #其他
+
+【多地臨時調整上下班時間緩解交通壓力】2026年全國高考將於6月7日開始舉行。由於6月8日是星期一，9日是星期二，多地黨政機關單位近期下發通知臨時調整上班時間或作息時間。（澎湃）
+
+---
+
+### 2026-06-06 13:37:43  #國際
+
+市場訊息：週五，洛杉磯附近的索菲體育場工作人員投票贊成舉行罷工以爭取加薪，而一週後這座場館將承辦美國男足的首場世界盃賽事。
+
+---
+
+### 2026-06-06 13:33:08  #MKT News #Commodities #Energy #Market Regions #Emerging Markets
+
+【China Energy signs financing master agreement for 372 MW Songon gas-turbine project in Côte d'Ivoire】On June 1 China Energy Engineering Corp's Songon project company signed a financing master agreement with a syndicate of 11 banks and multilateral institutions led by Standard Chartered, South Africa's Standard Bank, Pan‑African Bank and Atlantic Bank to fund the 372 MW Songon gas‑turbine project in Côte d'Ivoire. Total investment is about €659m; the project is backed by China Energy's Haitou unit. The plant carries a 35‑year concession and is expected to produce roughly 2.8 bln kWh a year. China Energy said the deal is the first instance of a China-backed African project financing being led exclusively by an international syndicate.
+
+---
+
+### 2026-06-06 13:32:43  #其他
+
+【深圳市解除分割槽雷雨大風橙色預警訊號】雷暴雲團已減弱移出，風力逐漸減弱，深圳市氣象臺2026年06月06日13時27分解除大鵬灣和大亞灣雷雨大風橙色預警訊號。
+
+---
+
+### 2026-06-06 13:30:28  #國際
+
+【新加坡海事及港務管理局：一艘集裝箱貨輪週五在巴淡島附近海域沉沒】新加坡海事及港務管理局（MPA）通報，一艘坦尚尼亞籍集裝箱船 “金星 1 號” 於 6 月 5 日晚間 10 時 30 分左右，在巴淡島離岸約 6 公里處沉沒。 船上 9 名船員均被印尼方面安全救起。馬六甲海峽與新加坡海峽船舶通航未受事故影響。新加坡海事局已通報印尼相關部門，並持續跟進事態。
+
+---
+
+### 2026-06-06 13:24:45  #國際
+
+【媒體爆料白宮幕僚長與特朗普意見不合準備辭職，本人嚴辭否認】據美國《紐約郵報》5日報道，白宮幕僚長蘇珊·懷爾斯在一份宣告中嚴辭反駁了有關她準備辭職的傳聞。此前有報道稱，懷爾斯與美國總統特朗普意見不合。據報道，此前有媒體援引訊息人士的說法稱，懷爾斯對特朗普選擇美國聯邦住房金融署署長比爾·普爾特擔任代理國家情報總監感到不滿，她對此“完全反對”。針對媒體爆料，懷爾斯發表了罕見的公開譴責宣告，稱有關她不支援總統任命問題的說法“完全是虛假和誹謗性的”，她支援普爾特擔任代理國家情報總監。她還明確否認有關她準備辭職的說法。（環球網）
+
+---
+
+### 2026-06-06 13:21:58  #國際
+
+【普京批澤連斯基公開信存在“失禮措辭”】據塔斯社網站6月6日報道，俄羅斯總統普京對烏克蘭總統澤連斯基的公開信作出了回應，提到了信中存在“失禮措辭”，並表示在沒有事先達成協議的情況下會晤毫無意義，他呼籲俄羅斯軍人們“幹活吧”。 報道稱，普京在聖彼得堡國際經濟論壇全會上表示，這封帶有“失禮措辭”的信可被視為在給雙方的接觸製造障礙。（參考訊息）
+
+---
+
+### 2026-06-06 13:20:08  #市場 #國際
+
+【瘦肉豬期貨結算價走低】瘦肉豬期貨結算價走低，結束當日交易，交投最活躍的合約下跌2.9%，至每磅98.7美分。這是生豬期貨連續第二天走低，使其回落至每磅1美元的關口下方。推動該期貨合約走低的因素是平均豬肉胴體分割價格下滑，昨天晚些時候每英擔下跌38美分，至每英擔98.13美元。與此同時，活牛期貨收盤幾乎持平，報每磅2.41625美元，在美國確認出現新大陸螺旋蠅病例的背景下，市場受到衝擊。
+
+---
+
+### 2026-06-06 13:19:36  #MKT News
+
+【Argentina expands hantavirus probe to Mendoza Province】Argentina's Health Ministry said it will expand its hantavirus investigation to western Mendoza Province and dispatch an expert team. Citing rodent habits and epidemiological criteria, the team—comprising Argentina's National Laboratory, the Carlos Malbrán Institute and US CDC experts—will work in Mendoza from the 8th to 12th, deploying traps for long‑tailed pygmy rice rats and other rodents linked to hantavirus transmission. Samples will be initially processed at a field laboratory, stored locally, then transferred to the Malbrán Institute.
+
+---
+
+### 2026-06-06 13:18:57  #MKT News #Commodities #Energy
+
+【Jamaica hit by nationwide blackout; partial restoration underway】Jamaica suffered a nationwide blackout on the evening of the 5th, Energy, Technology and Transport Minister Daryl Vaz said on social media. The national power company activated emergency response procedures to repair and assess faults and is carrying out phased restoration under its contingency plan. The company reported all generating stations have begun restart procedures and some customers’ supply has been restored; nationwide supply is expected to be restored in phases overnight into the morning of the 6th (local time). Vaz has ordered the power company to submit a full report within 24 hours detailing the cause and related circumstances.
+
+---
+
+### 2026-06-06 13:17:47  #公司 #觀點
+
+【8億元長租公寓REIT落地上海，外資巨頭博楓操刀】中金-博鄰長租公寓持有型不動產資產支援專項計劃（機構間REIT）在上交所成功發行設立。專項計劃發行規模8億元，是全國首單市場化長租公寓機構間REIT。本專項計劃由Brookfield Asset Management（簡稱博楓）發起，並由其境內公司擔任原始權益人及運營管理機構（21財經）
+
+---
+
+### 2026-06-06 13:15:17  #其他
+
+【福州海關公佈海洋垃圾處理案例】近日，福州海關所屬榕城海關駐福清辦事處關員對一票申報為“銅礦粉”的進境貨物進行查驗時，發現貨物多為粉末狀，存在結團現象，呈現灰白色、黃褐色、灰黑色、灰綠色、黃色等多種顏色，與正常銅礦粉差異較大，初步判斷存在較高洋垃圾風險，隨即取樣送檢。經福州海關技術中心鑑定，該批貨物屬於國家禁止進口的洋垃圾，共計67.498噸。目前，該案已移交緝私部門作進一步處理。我國禁止以任何方式進口洋垃圾，禁止洋垃圾在我國傾倒、堆放、處置。進口企業應嚴格遵守《中華人民共和國固體廢物汙染環境防治法》及相關法律法規規定，對於違法將洋垃圾輸入境內的，由海關依法責令退運並處以罰款，構成犯罪的，將依法追究刑事責任。 （海關釋出）
+
+---
+
+### 2026-06-06 13:15:02  #國際
+
+【今日特朗普要聞】
+1、重創伊朗軍力：美國總統特朗普5日受訪稱美方已徹底重創伊朗軍事體系，伊朗現存導彈僅剩兩成左右，戰力大幅縮水但仍保有部分作戰能力。特朗普同時表態將盡快結束伊朗戰事，藉此緩解國內物價走高壓力。
+2、機構管理權變更：美國總統特朗普5日改口表態，肯尼迪表演藝術中心仍由自己掌管，推翻此前移交國會管轄的表態，該變故源於此前法院裁定移除其冠名、叫停場館關停翻修計劃。
+3、赦免涉案前議員：白宮6月5日確認，特朗普簽署赦免令，赦免因內幕交易罪名獲刑的前共和黨眾議員斯蒂芬・拜爾，拜爾此前因鉅額併購內幕交易被判22個月監禁。
+4、調研AI全民持股：據觀察者網，特朗普5日在空軍一號透露，幕僚團隊正在研究AI企業向普通民眾出讓股份方案，計劃下週約談各大AI企業高管，美國官員此前還探討過政府入股相關科創企業。
+5、博爾頓達成認罪：知情人士訊息，特朗普昔日幕僚博爾頓和司法部達成認罪協議，就非法留存機密檔案案認罰最高225萬美金，有望免去五年牢獄，該案將於本月26日開庭確認認罪結果。
+6、辯駁倒影池工程：特朗普發文為華盛頓大倒影池翻修專案辯解，否認工程只是簡易粉刷，稱施工用料工藝精良，建築使用壽命能夠長達百年。
+7、點評經濟資料：特朗普評價最新就業資料表現優異，認為基本面支撐股市上行，對當下股市走低的行情表示不解。
+
+---
+
+### 2026-06-06 13:13:57  #市場 #央行 #國際
+
+【分析師：持有黃金的成本正在變得越來越高】美國5月超預期強勁的非農就業資料，引爆市場對美聯儲年內加息的擔憂。本週五，此前擁擠度極高、估值高企的AI及科技類美股遭到重挫，同時金銀價格也出現暴跌。Carson Group首席市場策略師Ryan Detrick指出：“過去九周，科技和半導體板塊經歷了創紀錄的上漲行情，今天市場堤壩終於決口了。強於預期的就業報告讓美聯儲在今年剩餘時間內是否降息的問題上陷入兩難，市場透過拋售今年以來表現最好的股票來表達不滿。”Blue Line Futures首席市場策略師Phil Streible指出，部分投資者為彌補其他資產虧損而削減黃金持倉，加劇了貴金屬的拋售壓力。道明證券全球大宗商品策略主管Bart Melek表示：“非農就業資料明顯高於市場預期。考慮到中東戰爭仍在持續，能源價格高企且通脹壓力顯著，美聯儲幾乎沒有任何降息的意願。在這種背景下，持有黃金的成本正在變得越來越高。”
+
+---
+
+### 2026-06-06 13:12:20  #國際
+
+市場訊息：哈馬斯代表團抵達開羅，同巴勒斯坦各派系舉行會晤，磋商加沙局勢以及下一階段的停火相關議題。
+
+---
+
+### 2026-06-06 13:10:59  #公司 #國際
+
+【馬克龍準備用凡爾賽宮晚宴留住特朗普】日本時事社6月6日援引美國《政治報》報道稱，法國總統馬克龍正計劃17日在巴黎郊外的凡爾賽宮舉辦晚宴，款待來訪的美國總統特朗普。 報道稱，七國集團峰會將於本月15日至17日在法國東部的埃維昂萊班舉行，為避免特朗普中途退場返回美國，東道主法國正試圖利用富麗堂皇的凡爾賽宮留住特朗普。 報道稱，去年加拿大主辦七國集團峰會期間，特朗普就曾中途退場回國。 雖然特朗普已明確表示將出席今年的峰會，但考慮到他與七國集團中的歐洲國家領導人因伊朗戰事等問題關係不斷惡化，不能排除去年提前退場的劇情會再次上演。（參考訊息）
+
+---
+
+### 2026-06-06 13:09:42  #國際
+
+【阿根廷擴大漢坦病毒調查範圍 】阿根廷衛生部5日表示，將擴大漢坦病毒調查範圍，向該國西部的門多薩省派出專家團隊。阿根廷衛生部在一份宣告中說，根據齧齒類動物的習性和流行病學標準，專家團隊決定將調查範圍擴大至門多薩省。由阿根廷國家實驗室與衛生研究所管理局卡洛斯·馬爾夫蘭研究所、以及美國疾病控制和預防中心專家組成的團隊將於8日至12日在門多薩省展開調查。（新華社）
+
+---
+
+### 2026-06-06 13:07:18  #公司
+
+【劉曉豔當選基金業協會兼職會長】6月6日，中國證券投資基金業協會第四屆會員代表大會舉行，劉曉豔當選中國證券投資基金業協會第四屆理事會兼職會長。 資料顯示，劉曉豔博士，現任易方達基金董事長，公司創始團隊成員，2011年10月至2025年3月任公司總經理，擁有32年證券行業從業經驗。（新浪證券）
+
+---
+
+### 2026-06-06 13:03:45  #公司
+
+【天博智慧定於6月12日上會】上海證券交易所上市稽核委員會定於2026年6月12日召開2026年第36次上市稽核委員會審議會議，審議天博智慧科技（山東）股份有限公司（首發）。
+
+---
+
+### 2026-06-06 13:03:31  #MKT News
+
+【Tianbo Intelligent to face Shanghai Stock Exchange listing review on June 12】The Shanghai Stock Exchange listing committee will hold its 36th review meeting of 2026 on June 12 to consider the initial public offering of Tianbo Intelligent Technology (Shandong) Co., Ltd.
+
+---
+
+### 2026-06-06 12:59:49  #公司
+
+【中國能建：象牙海岸松貢372兆瓦燃機投資專案融資主協議簽署】據中國能建訊息，當地時間6月1日，中國能建松貢專案公司與由渣打銀行、南非標準銀行、泛非銀行和大西洋銀行牽頭，共11家銀行和多邊機構組成的銀團簽署了象牙海岸松貢372兆瓦燃機投資專案融資主協議，開創了中資企業非洲專案融資由純國際銀團主導的行業先例。松貢燃機電站專案由中國能建海投公司投資，總投資規模約6.59億歐元，是中國能建在西非首個能源類投資專案，特許經營期35年，建成後年發電量約28億千瓦時，將為當地提供穩定、清潔、高效的電力保障。
+
+---
+
+### 2026-06-06 12:53:31  #宏觀
+
+【一人銷售KAMAGRA果凍被檢出含西地那非，日照警方已立案偵查】6月5日，山東省市場監督管理局公眾號“山東市場監管”釋出了一批涉食品安全典型案例，其中包含日照山海天旅遊度假區市場監管局查處的程某涉嫌銷售新增其他可能危害人體健康物質的食品案。案例顯示，根據投訴舉報線索，日照山海天旅遊度假區市場監管局對程某透過微信銷售的KAMAGRA果凍進行抽檢，經檢驗，該果凍中含有達泊西汀1.27*104 mg/kg、西地那非2.30*104mg/kg。當事人的行為違反了《中華人民共和國食品安全法》第三十四條的規定，涉嫌犯罪。（澎湃）
+
+---
+
+### 2026-06-06 12:49:18  #其他
+
+【位元組跳動釋出宣告，否認位元組跳動造車】我們注意到，近期有部分報道將“賽豆”解讀為“豆包汽車品牌”或“位元組跳動造車”:1.相關說法不準確，位元組跳動沒有造車或推出汽車品牌的計劃。2.賽豆不是位元組跳動或豆包推出的汽車品牌，位元組和賽豆沒有股權合作。3.豆包、火山引擎與汽車行業夥伴的合作，主要是給行業夥伴提供豆包大模型、智慧座艙等技術服務，幫助合作伙伴提升車載智慧互動體驗。
+
+---
+
+### 2026-06-06 12:45:14  #其他
+
+【阿拉伯議會議長亞馬希：阿中合作已成為全球南南合作的典範】阿拉伯議會議長穆罕默德·艾哈邁德·亞馬希日前接受新華社記者書面採訪時說，阿中夥伴關係建立在相互尊重、互不干涉內政、互利共贏的理念之上，雙方在涉及彼此核心利益的問題上始終堅定相互支援，“阿中合作已成為全球南南合作的典範”。亞馬希說，今年是中國與阿拉伯國家開啟外交關係70週年，雙方正致力於構建面向未來的長遠夥伴關係。“中國同阿拉伯國家合作並非單純從利益角度考量，而是著眼於構建公平的發展夥伴關係，為發展中國家拓展增長機遇。”（新華社）
+
+---
+
+### 2026-06-06 12:42:28  #其他
+
+【“愛達·魔都號”今日將開啟國內首次無目的地海上游】中國首艘國產大型郵輪“愛達·魔都號”今天下午將搭載4000多名旅客從上海吳淞口國際郵輪港啟航，開啟國內首次無目的地海上游。與傳統郵輪航線不同，無目的地海上游是指郵輪從國內母港始發，全程在公海巡遊，不停靠任何具體港口，並原港折返的短途郵輪旅遊業態。
+
+---
+
+### 2026-06-06 12:42:09  #公司
+
+【萬興科技攜萬興劇廠亮相華為雲INSPIRE 2026】6月5日至6日，華為雲INSPIRE 2026創想者大會在上海舉辦。作為大會特邀合作伙伴，AIGC軟體A股上市公司萬興科技攜旗下AI驅動的一站式精品漫劇創作平臺萬興劇廠亮相，集中展示其在AI漫劇等領域的產業化落地能力。（新浪科技）
+
+---
+
+### 2026-06-06 12:40:16  #其他
+
+【AI模型也能流水線生產了】在濟南，AI模型已經像汽車一樣，走上流水線批次生產了！一年能“下線”上千個AI模型！生產一個AI模型，總共分幾步呢？生產AI模型的第一步是從資料車間開始的。記者表示，資料車間其實就是整個大模型工廠的原料倉。海量原始資料在這裡進行清洗、篩選、標註，變成合格的模型生產原材料。第二步，模型鍛造。在模型車間，產線上的員工是“大模型”本身，各類大模型化身“數字工匠”，根據訂單需求進行模型訓練。訓練好的AI模型緊接著進入第三步，嚴苛的出廠考試。從模型車間出爐的還只是半成品。在工廠的評測中心，評測模型會不斷地給新模型“出題”，如果考試不合格，就會被打回去重造，只有透過嚴苛的“出廠考試”，模型才能走向市場。考試過關還要進入第四步——灌裝訓練。在整合車間，模型被“灌裝”進機械臂、機器人裡。透過反覆的動作採集和訓練，AI或者智慧體能夠掌握實體技能後，才能去賦能千行百業。看似簡單的四步流程，實則包含75道精細化工序，讓AI模型開發週期從90人天壓縮到20人天。 (央視財經)
+
+---
+
+### 2026-06-06 12:39:34  #其他
+
+【京東方落子深圳，攜手創維、vivo等成立聯合實驗室】6月5日，BOE（京東方）粵港澳大灣區產品研發與客戶營銷服務中心在深圳前海成立。 粵港澳大灣區產品研發與客戶營銷服務中心集前沿技術研發、創新產品展示、全流程客戶服務、產業生態協同於一體，將BOE（京東方）的顯示與物聯網核心技術能力直接嵌入區域創新鏈條，大幅縮短從技術研發到市場響應的距離，實現與客戶“肩並肩”的敏捷協同。
+
+---
+
+### 2026-06-06 12:39:04  #MKT News #Market Regions #Greater China
+
+【Aida Modu to launch China’s first domestic cruise-to-nowhere today】The afternoon of June 6, China’s first domestically built large cruise ship Aida Modu will depart Shanghai Wusongkou International Cruise Port with more than 4,000 passengers to begin the country's first domestic cruise-to-nowhere. The short voyage will remain on the high seas without calling at any port and return to its home port.
+
+---
+
+### 2026-06-06 12:38:28  #其他
+
+【河南漯河市發生一起交通事故，造成2人死亡、6人受傷】6月6日上午，漯河市公安局交通管理支隊訊息，6月5日 20時35分，我市源匯區五一路與建設路交叉口發生一起交通事故。經公安機關初查，駕駛人張某某（男，58歲）駕駛一輛小型轎車沿五一路由南向北行駛至建設路交叉口南側時，因操作不當，與同向行駛的一輛越野車追尾後失控，後與路口等紅綠燈的一輛轎車及5輛電動車相撞，事故造成2人死亡（女，27歲；女，32歲），6人受傷，傷員已第一時間全部送至醫院治療，均無生命危險。駕駛員張某某因交通肇事被公安機關現場控制，事故調查正在依法進行中。（漯河釋出）
+
+---
+
+### 2026-06-06 12:34:16  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
+
+【AI models enter assembly-line mass production in Jinan, China】In Jinan, AI models are being produced on assembly lines using a four-step factory process. Step one: a data workshop cleans, filters and labels raw data into production-grade training material. Step two: a model forging workshop runs ordered training on large models as production-line units. Step three: an evaluation center conducts strict factory acceptance tests and returns failed models for retraining. Step four: an integration workshop embeds trained models into robotic arms and robots, using repeated motion capture and training to teach physical skills. The process spans 75 refined procedures and has shortened model development cycles from about 90 person-days to roughly 20 person-days.
+
+---
+
+### 2026-06-06 12:33:25  #國際
+
+【新華社：事故頻發凸顯美國航空系統積弊 】美國航空系統近年來已多次暴露執行壓力加大等問題。美國交通部長達菲去年5月接受媒體採訪時說，美國航空系統整體面臨裝置老舊問題，隱患已不容忽視。美聯邦航空局局長貝德福德等官員也多次表示，美國空中交通管制系統執行遲緩、效率低下，一旦發生故障，容易引發連鎖反應。美聯邦航空局承認，老舊空管系統已對空管人員工作造成顯著影響。頻繁發生的裝置故障、通訊中斷等問題，使空管團隊長期承受較大壓力。（新華社）
+
+---
+
+### 2026-06-06 12:21:54  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
+
+【Chinese-led team publishes Asia's first 10-year synthetic cell roadmap】A team led by researcher Liu Chenli at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, together with scientists from Japan, South Korea, Singapore, Malaysia and Thailand, has published Asia’s first 10-year synthetic cell technology roadmap in Nature Biotechnology. The roadmap focuses on artificial synthesis of single-cell life, identifies four core technical challenges and sets phased development targets to shift research from modular exploration to system-level integration, and calls for deeper convergence of quantitative synthetic biology, artificial intelligence and biomanufacturing, opening new development paths for synthetic biology and future biotech.
+
+---
+
+### 2026-06-06 12:20:40  #國際
+
+【深圳科學家領銜釋出亞洲首個合成細胞技術路線圖】由中國科學院深圳先進技術研究院劉陳立研究員領銜，來自中國、日本、韓國、新加坡、馬來西亞、泰國等六國的科學家近日聯合在國際學術期刊《自然·生物技術》上發表文章，釋出亞洲首個合成細胞10年技術路線圖。文章聚焦“人工合成單細胞生命”這一科學前沿問題，規劃了亞洲未來10年攻關合成細胞的發展方向，系統梳理了構建合成細胞面臨的四大核心挑戰，並提出分階段目標。該技術路線圖將推動合成細胞研究從模組化探索邁向系統化整合，促進定量合成生物學、人工智慧與生物製造等領域的深度融合，為合成生物學與未來生物技術的發展開闢全新路徑。 (深圳釋出)
+
+---
+
+### 2026-06-06 12:20:11  #MKT News
+
+【Chinese-built Ro-Ro vessel for aircraft components launched】June 6 — A roll-on/roll-off vessel built in China for transporting aircraft components was launched today at CSSC’s Wuchang Shipyard. The 169m by 23.32m ship is fitted with six cylindrical rotor sails made from aerospace-grade lightweight materials and an aerodynamically optimized design intended to significantly improve fuel efficiency. It uses dual-fuel methanol/diesel propulsion, enables zero-sulfur emissions and cuts NOx by more than 80% versus conventional fuel, meeting the latest IMO emission standards. Launched via an inclined slipway, the vessel will complete engine, propeller and electrical system trials at berth and is scheduled for delivery in November for deployment on transatlantic aircraft-parts routes.
+
+---
+
+### 2026-06-06 12:19:00  #公司
+
+【主要用於運飛機部件的滾裝船，今日下水】今天（6日），我國建造的用於運輸飛機部件的滾裝船在中船集團武昌造船廠順利下水。這艘船交付後，將主要用於飛機部件的運輸。（央視新聞）
+
+---
+
+### 2026-06-06 12:18:07  #其他
+
+【樓面價首破10萬、溢價150%，深圳新“單價地王”誕生】深圳涉宅用地的樓面單價，首次突破了10萬元/平方米。6月5日下午，深圳南山區粵海街道T204-0153宗地迎來拍賣，地塊建設用地14116.04平方米，起拍價23.02億元。據瞭解，保利置業、華潤置地、中海地產、招商蛇口、建發房產、越秀地產共六家頭部央國企參與了這場競拍。競價過程十分膠著，經過291輪舉牌拉鋸，保利置業最終以57.72億元的總價將地塊收入囊中，溢價率達到150.74%，摺合樓面價約10.87萬元/平方米。這一價格大幅超越了2025年前海桂灣地塊8.42萬元/平方米的紀錄，重新整理深圳涉宅用地的單價紀錄。（介面）
 
 ---
 
@@ -20819,761 +21120,5 @@ State Department: U.S. Secretary of State Rubio spoke with Bolivian President Pa
 ### 2026-06-05 05:04:36  #國際
 
 【美國法官罕見公開回應關稅案，警告稱上訴可能衝擊退稅程序】一位美國貿易法官採取了罕見的行動，親自回應特朗普政府對他有關退還1660億美元關稅的裁定提出的上訴。這些關稅此前已被最高法院裁定為非法。這名法官在回應中稱政府提交的檔案措辭“花哨”，並對其法律立場提出質疑。在6月3日公開的一封信函中，法官Richard Eaton指出，如果司法部成功請求上訴法院立即介入，可能會對目前的一個線上退稅系統產生不利影響。該系統迄今為止已處理了至少850億美元的退稅。
-
----
-
-### 2026-06-05 05:01:57  #MKT News #Important #Market Themes #AI Revolution
-
-【Anthropic calls for global pause in frontier AI development】Anthropic on Thursday urged leading AI labs to consider slowing frontier AI development, saying rapid model advances could soon enable autonomous self‑improvement without human intervention and create major societal risk. In a blog post releasing internal data, Anthropic documented swift performance gains in its top models and said progress appears to be moving toward “recursive self‑improvement.” The company proposed a global agreement to slow frontier AI work and a mechanism to verify competitors’ compliance, arguing a pause would allow social institutions and related research to catch up.
-
----
-
-### 2026-06-05 05:00:37  #市場
-
-【現貨黃金漲0.9%，白銀漲1.6%】週四（6月4日）紐約尾盤，現貨黃金漲0.91%，報4475.02美元/盎司，亞太盤初曾短暫地微幅下跌至4424.19美元重新整理日低，隨後逐步上揚，日內主要持穩於4480美元附近，美股盤初重新整理日高至4515.40美元。COMEX黃金期貨漲0.83%，報4504.10美元/盎司。現貨白銀漲1.62%，報73.8903美元/盎司。COMEX白銀期貨漲1.69%，報74.160美元/盎司。COMEX銅期貨漲0.77%，報6.53美元/磅。
-
----
-
-### 2026-06-05 04:58:35  #公司 #國際
-
-【美眾議院稅收立法議員稱數字服務稅將面臨美國報復風險】一項獲得美國眾議院跨黨派支援的決議案對數字服務稅表示反對，立法議員稱該稅種不公平地針對了美國企業。該決議案建議各國放棄數字服務稅，並對數字經濟採取多邊應對方法，以避免面臨由美國主導的貿易或稅收報復。美國官員堅稱，數字服務稅對美國科技公司造成了不成比例的影響，其中包括亞馬遜、以及字Alphabet旗下谷歌公司和YouTube業務。
-
----
-
-### 2026-06-05 04:57:32  #MKT News #Market Themes #The Trump Trade
-
-CNN reports Trump has confirmed he will attend the New York Knicks' NBA Finals game in New York next Monday.
-
----
-
-### 2026-06-05 04:54:02  #MKT News
-
-Argentina's central bank market expectations survey projects GDP growth of 2.9% by end-2026, a 0.1 percentage-point upward revision from the prior forecast; inflation is projected at 30.5%.
-
----
-
-### 2026-06-05 04:52:34  #其他
-
-Lululemon：進入二季度後，新品上市未能收穫預期的消費者反響。
-
----
-
-### 2026-06-05 04:52:15  #央行 #其他
-
-阿根廷央行市場預期調查顯示，該國 2026 年全年通脹預期為 30.5%。
-
----
-
-### 2026-06-05 04:51:50  #MKT News
-
-UK Prime Minister Starmer's spokesperson said he has no intention of resigning.
-
----
-
-### 2026-06-05 04:51:24  #央行 #其他
-
-阿根廷央行市場預期調查顯示，該國 2026 年末國內生產總值增速預估為 2.9%，較此前預測上調 0.1 個百分點。
-
----
-
-### 2026-06-05 04:49:23  #MKT News
-
-【Trump says he would not rule out meeting Iran’s new Supreme Leader if a deal is reached】On the 4th, US President Trump said he would not rule out meeting Iran’s new Supreme Leader if the US and Iran ultimately reach an agreement. He reiterated the US will never allow Iran to acquire nuclear weapons and said prior strikes on Iranian nuclear sites had "completely destroyed" the related facilities. Trump added the US considered sending troops into Iranian nuclear sites to remove enriched uranium but abandoned the plan to avoid prolonged ground operations and casualties, saying such an operation would take one to two weeks, require heavy equipment and airlift capacity, and carry high risk.
-
----
-
-### 2026-06-05 04:48:35  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-ICI: Money market fund assets increased by $109.25 bln to $7.89 tln in the week to June 3.
-
----
-
-### 2026-06-05 04:48:21  #其他
-
-英國唐寧街發言人：首相斯塔默不會離職。
-
----
-
-### 2026-06-05 04:47:24  #焦點 #國際
-
-【特朗普稱若達成協議 不排除與伊朗最高領袖會晤】當地時間4日，美國總統特朗普表示，如果美國與伊朗最終達成協議，他不排除與伊朗新任最高領袖舉行會晤的可能性。他重申，美國絕不會允許伊朗擁有核武器，並稱美國此前對伊朗核設施的打擊已將相關設施“徹底摧毀”。特朗普還表示，美國曾考慮派遣美軍進入伊朗核設施所在地運走濃縮鈾，但最終放棄這一方案，以避免美軍陷入長期地面行動並遭受傷亡。他說，相關行動需要持續一至兩週，並動用大量重型裝置和空運能力，因此存在較高風險。（央視新聞）
-
----
-
-### 2026-06-05 04:47:09  #其他
-
-Lululemon： 一季度並非所有新品釋出都達到預期。
-
----
-
-### 2026-06-05 04:46:04  #MKT News #Market Themes #The Trump Trade
-
-Trump said automakers did not request any tariff adjustments at the meeting; discussions focused on vehicle repair issues.
-
----
-
-### 2026-06-05 04:45:28  #MKT News
-
-President Trump said he will soon nominate acting U.S. Attorney General Blanche for the permanent attorney general post; nomination paperwork is being prepared.
-
----
-
-### 2026-06-05 04:44:04  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
-
-The Wall Street Journal reported ANTHROPIC has urged a global pause on AI development and warned models are approaching the ability to "self-evolve" without human intervention.
-
----
-
-### 2026-06-05 04:43:00  #公司 #觀點
-
-【6月5日美股成交額前20：博通財測平淡股價大跌12.6%】第3名博通收跌12.59%，成交億美元。儘管博通交出了強勁的季度業績並上調了增長預期，但因未進一步提高全年人工智慧業務收入展望，其股價週四大跌，並拖累英偉達、AMD等半導體板塊整體走弱。市場擔憂主要源於投資者對AI概念股的預期已大幅提高，任何增長指引未進一步上調的訊號都可能觸發獲利回吐。不過，多家華爾街機構認為市場反應過度。伯恩斯坦分析師指出，博通AI業務仍將保持約200%的同比增速，2027財年AI半導體收入有望突破千億美元，且高毛利率和運營槓桿足以抵消利潤率壓力。高盛也建議積極買入，認為公司2027年增長前景明朗，定製晶片專案進展順利且供應鏈有保障。KeyBanc和瑞穗紛紛上調目標價，僅麥格理將評級下調至“中性”。
-
----
-
-### 2026-06-05 04:41:12  #國際
-
-據半島電視臺：以色列對黎巴嫩南部城市提爾發動空襲。
-
----
-
-### 2026-06-05 04:41:11  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Al Jazeera reports Israel carried out airstrikes on the southern Lebanese city of Tyre.
-
----
-
-### 2026-06-05 04:39:08  #國際
-
-特朗普白宮講話結束。
-
----
-
-### 2026-06-05 04:38:40  #國際
-
-特朗普稱將很快提名布蘭奇出任司法部長。
-
----
-
-### 2026-06-05 04:37:46  #MKT News
-
-President Trump said Cuba is facing food shortages and lacks energy and oil.
-
----
-
-### 2026-06-05 04:37:29  #國際
-
-特朗普：汽車製造商並未要求關稅調整。
-
----
-
-### 2026-06-05 04:36:21  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Brent
-
-【Trump says progress in Lebanon-Israel peace talks】Trump said on the 4th that although Hezbollah earlier rejected a U.S.-brokered peace plan, negotiations remain underway and have made some progress. He said the Lebanon situation is linked to Iran and that parties have contacted the U.S. to discuss a ceasefire — "they called us asking whether the fighting could stop." Trump added he has spoken with Israeli Prime Minister Netanyahu and has had contact with Hezbollah.
-
----
-
-### 2026-06-05 04:35:45  #國際
-
-【特朗普稱黎以和平談判取得一定進展】當地時間4日，美國總統特朗普表示，儘管黎巴嫩真主黨此前拒絕美國斡旋的和平方案，但相關談判仍在推進之中，並已取得一定進展。特朗普表示，黎巴嫩局勢與伊朗問題相互關聯。他透露，相關方面曾主動與美方聯絡討論停火問題。“他們給我們打電話，詢問是否能夠停止衝突。”特朗普說。特朗普稱，他已就此問題與以色列總理內塔尼亞胡進行了溝通，同時也與黎巴嫩真主黨方面進行了接觸。（央視新聞）
-
----
-
-### 2026-06-05 04:35:30  #國際
-
-特朗普談及汽車行業會談：會談內容主要圍繞汽車維修展開。
-
----
-
-### 2026-06-05 04:35:15  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.73% Higher — The Dow Jones Index went up by 875 points or 1.73 percent on Thursday to close at 51562 points. The rise was led by UnitedHealth (5.36%), Goldman Sachs (4.98%) and Merck (4.86%).
-
----
-
-### 2026-06-05 04:33:54  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said the U.S. will address the Cuba issue.
-
----
-
-### 2026-06-05 04:33:39  #國際
-
-特朗普：我們會妥善處理古巴問題。
-
----
-
-### 2026-06-05 04:33:28  #MKT News
-
-U.S. President Trump said he has some very good plans for Cuba.
-
----
-
-### 2026-06-05 04:33:20  #MKT News
-
-US President Trump: After we finish with Iran, we will deal with Cuba.
-
----
-
-### 2026-06-05 04:33:15  #國際
-
-特朗普：我們先解決伊朗，再來處理古巴。
-
----
-
-### 2026-06-05 04:33:05  #國際
-
-特朗普談及古巴：該國正陷入糧食短缺困境，缺少能源與石油。古巴可以興建優質度假勝地，但不許開採石油。
-
----
-
-### 2026-06-05 04:32:07  #國際
-
-特朗普談及對古巴制裁：制裁並非旨在加速（古巴）政權垮臺。我們只希望他們能成為一個管理良好的國家。
-
----
-
-### 2026-06-05 04:31:57  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Stocks Hit Fresh Record High — Canada's S&P/TSX Composite Index rose 1.2% to a record closing high of 35,217 on Thursday, supported by improving global risk sentiment following reports of a conditional ceasefire between Israel and Lebanon, which fueled hopes that a broader agreement involving Iran could be reached. Healthcare, industrial, and financial stocks led the advance, while battery metals and telecommunications shares underperformed. Among the top gainers were Royal Bank of Canada (+1.9%), Toronto-Dominion Bank (+1.2%), Agnico Eagle Mines (+2.9%), and Barrick Mining Corporation (+2.1%). In contrast, TransAlta Corporation and Transcontinental were the session's weakest performers, falling 10.4% and 9.8%, respectively.
-
----
-
-### 2026-06-05 04:31:36  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-Foreign official holdings of US Treasuries fell $32.69 bln in the week to May 29; prior week +$12.83 bln.
-
----
-
-### 2026-06-05 04:31:36  #MKT News
-
-President Trump, referring to Cuba, said he hopes it becomes a well-governed country.
-
----
-
-### 2026-06-05 04:31:33  #國際
-
-特朗普：將與印度達成相關協議，（美國）與印度關係良好。
-
----
-
-### 2026-06-05 04:31:24  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (May.29) | actual -32686000000B | previous 12829000000B
-
----
-
-### 2026-06-05 04:31:17  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #USDJPY
-
-U.S. President Trump said the United States will reach a trade deal with India.
-
----
-
-### 2026-06-05 04:30:30  #國際
-
-特朗普談及印度貿易協議：沒錯，我們已經敲定了。印度多年來一直在佔美國的便宜。
-
----
-
-### 2026-06-05 04:28:38  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the US will win both militarily and on paper.
-
----
-
-### 2026-06-05 04:28:29  #國際
-
-特朗普：人工智慧對醫療行業來說將是巨大的福音。
-
----
-
-### 2026-06-05 04:28:15  #MKT News #WTI #Impact bearish #Brent
-
-U.S. President Trump, on Iran, said the public will eventually know the agreement's contents and that its main provision is immediate reopening of the strait.
-
----
-
-### 2026-06-05 04:28:04  #國際
-
-特朗普：無論訴諸軍事手段還是透過紙面協議，我們都將取勝。
-
----
-
-### 2026-06-05 04:27:44  #國際
-
-特朗普談及伊朗：協議核心條款為（伊朗）不得擁有核武器。
-
----
-
-### 2026-06-05 04:27:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-US President Trump said the US will take corresponding action against anyone who approaches Iranian nuclear facilities.
-
----
-
-### 2026-06-05 04:27:19  #國際
-
-特朗普談及伊朗：協議核心內容之一是海峽立即通航。
-
----
-
-### 2026-06-05 04:27:05  #國際
-
-特朗普談及伊朗：相關協議內容，後續將會揭曉。
-
----
-
-### 2026-06-05 04:26:32  #MKT News #XAUUSD #Impact bullish #WTI
-
-Trump says the U.S. is using satellites to monitor Iran's nuclear facilities.
-
----
-
-### 2026-06-05 04:25:06  #國際
-
-特朗普：若能會見伊朗最高領袖，將很榮幸。
-
----
-
-### 2026-06-05 04:24:31  #MKT News #Commodities #Energy
-
-Asked whether he would seize Iran's uranium stockpile, Trump said he would not repeat the weak stance of former US President Carter.
-
----
-
-### 2026-06-05 04:24:01  #國際
-
-特朗普：我們有強大的攝像頭監控伊朗的鈾。
-
----
-
-### 2026-06-05 04:23:02  #MKT News
-
-US President Trump said he has not considered covert operations to seize Iran's uranium and that there is no need to recover Iran's nuclear debris because it is buried.
-
----
-
-### 2026-06-05 04:22:50  #MKT News
-
-President Trump said he does not want to meet Iran's Supreme Leader, but would do so if necessary to reach an agreement.
-
----
-
-### 2026-06-05 04:22:22  #國際
-
-特朗普談及伊朗問題：倘若要達成協議，我們可以會面磋商。
-
----
-
-### 2026-06-05 04:22:06  #國際
-
-特朗普談伊朗：我不想見伊朗最高領袖。
-
----
-
-### 2026-06-05 04:21:52  #國際
-
-特朗普： 暫不考慮採取秘密行動奪取伊朗鈾原料。沒有理由去獲取伊朗的核塵埃，它已經被掩埋。
-
----
-
-### 2026-06-05 04:21:08  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-President Trump said the US does not need a deal with Iran and can obtain Iran's enriched uranium.
-
----
-
-### 2026-06-05 04:21:05  #MKT News
-
-U.S. Treasury said on its website it has sanctioned Cuban President Miguel Díaz.
-
----
-
-### 2026-06-05 04:20:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said the United States will take control of Iran's nuclear stockpile.
-
----
-
-### 2026-06-05 04:20:15  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Trump says an agreement is likely to be reached to ensure Iran remains free of nuclear weapons.
-
----
-
-### 2026-06-05 04:19:52  #國際
-
-特朗普談及伊朗： 我們不必透過和伊朗簽署協議，就能拿到伊朗的濃縮鈾。
-
----
-
-### 2026-06-05 04:18:53  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Dow Closes at New High — The Dow Jones surged 875 points on Thursday to close at a record high, while the S&P 500 gained 0.4%. The Nasdaq underperformed, edging 0.1% lower as investors rotated out of technology stocks and into other sectors. Health care, financials, communication services, and real estate led the market higher. Notable gainers included JPMorgan Chase (+3.3%), Visa (+2.5%), Johnson & Johnson (+4.6%), UnitedHealth Group (+5.2%), and Goldman Sachs (+4.9%). In contrast, tech stocks were the weakest performers. Broadcom plunged 12.6% as its forecast for AI-chip revenue fell short of most expectations. Advanced Micro Devices and Micron Technology also declined, falling 3.6% and 7.7%, respectively. Meanwhile, investors continued to monitor developments in the Middle East. Reports of a conditional ceasefire between Israel and Lebanon raised hopes that a broader agreement involving Iran could be reached, contributing to a decline in oil prices.
-
----
-
-### 2026-06-05 04:18:45  #MKT News
-
-【Switzerland to deploy about 4,000 troops to border during G7 summit in France】Swiss federal government said on June 4 it will deploy about 4,000 armed forces personnel to border areas near the G7 summit venue. The G7 and several other leaders will meet June 15-17 in Evian-les-Bains on the French shore of Lake Geneva; the venue’s proximity to Switzerland has strained cantonal security in Geneva, Vaud and Valais. The Federal Council and parliament approved the troop reinforcement to support cantonal security forces.
-
----
-
-### 2026-06-05 04:18:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US Energy Secretary Wright said Democrats' green-energy policies pose a greater threat to US energy prices than the Iran conflict and have pushed energy costs far more than that dispute.
-
----
-
-### 2026-06-05 04:18:02  #公司
-
-【瑞士將在G7法國峰會期間向毗鄰邊境派兵四千】瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。 瑞士政府說，6月15日至17日，七國集團成員及其他一些國家的領導人將在日內瓦湖南岸的埃維昂萊班（又稱依雲小鎮）舉行會議。由於會址位於瑞士邊境附近，日內瓦州、沃州和瓦萊州三州的州級安全部隊面臨著嚴峻挑戰，瑞士聯邦委員會和議會為此批准增派軍隊支援。 瑞士政府說，軍事人員將在會議期間負責保護日內瓦機場等敏感基礎設施，併為邊境安全提供支援。空軍將加強空中警戒力量，並在國際合作下，在6月10日13時至18日3時執行空域限制措施，包括部署反無人機系統。 法國埃維昂萊班與位於日內瓦湖北岸、素有“奧林匹克之都”稱號的瑞士洛桑隔湖相望。洛桑與日內瓦相距僅60餘公里。2003年，八國集團峰會在埃維昂萊班舉行時，日內瓦和洛桑發生嚴重騷亂。(新華社)
-
----
-
-### 2026-06-05 04:17:53  #國際
-
-特朗普：我們會得到伊朗的核塵埃。
-
----
-
-### 2026-06-05 04:17:39  #國際
-
-特朗普：（被問及在處理伊朗問題時是否考慮了美國國內的反應）不，我只是做我認為正確的事。
-
----
-
-### 2026-06-05 04:17:32  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-U.S. President Trump reiterated that negotiations with Iran are progressing smoothly.
-
----
-
-### 2026-06-05 04:16:48  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-US President Trump, asked whether he had considered domestic reaction in handling Iran, said he had not and was just doing what he thought was right.
-
----
-
-### 2026-06-05 04:16:29  #國際
-
-特朗普：與內塔尼亞胡談了黎巴嫩問題。
-
----
-
-### 2026-06-05 04:16:19  #國際
-
-特朗普稱伊朗相關談判進展順利。
-
----
-
-### 2026-06-05 04:16:14  #國際
-
-美國能源部長賴特：委內瑞拉石油出口相比美軍強行擄走總統馬杜羅時高出三倍。
-
----
-
-### 2026-06-05 04:15:48  #國際
-
-特朗普：若我們達成協議，伊朗就不會擁有核武器。
-
----
-
-### 2026-06-05 04:15:14  #國際
-
-特朗普重申伊朗不能擁有核武器。
-
----
-
-### 2026-06-05 04:15:09  #MKT News
-
-President Trump on Iran: They cannot have nuclear weapons.
-
----
-
-### 2026-06-05 04:14:40  #MKT News
-
-U.S. President Trump said that without U.S. military support, Ukraine would be unable to continue fighting.
-
----
-
-### 2026-06-05 04:14:02  #國際
-
-特朗普談及委內瑞拉：雙邊關係進展喜人。
-
----
-
-### 2026-06-05 04:13:48  #國際
-
-美國對古巴總統實施制裁。
-
----
-
-### 2026-06-05 04:13:35  #MKT News
-
-U.S. President Trump said he believes progress has been made on Lebanon.
-
----
-
-### 2026-06-05 04:13:17  #國際
-
-特朗普談及黎巴嫩：認為相關事態取得了進展。
-
----
-
-### 2026-06-05 04:13:08  #MKT News
-
-US President Trump said he had communicated with Hezbollah on Lebanon.
-
----
-
-### 2026-06-05 04:13:02  #國際
-
-特朗普：以色列-黎巴嫩衝突與伊朗問題息息相關。
-
----
-
-### 2026-06-05 04:12:50  #國際
-
-特朗普談及黎巴嫩：黎巴嫩若能迎來和平，對該國而言是件好事。
-
----
-
-### 2026-06-05 04:12:50  #MKT News
-
-President Trump said Iran still has some missiles remaining, but the number is small.
-
----
-
-### 2026-06-05 04:12:46  #MKT News
-
-U.S. President Trump said he expects developments in Lebanon and that some peace there would be a good thing.
-
----
-
-### 2026-06-05 04:12:37  #國際
-
-特朗普：真主黨主動聯絡了我們。
-
----
-
-### 2026-06-05 04:12:28  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Trump on Iran: If they kill US forces, that would be sufficient justification to restart hostilities.
-
----
-
-### 2026-06-05 04:12:12  #國際
-
-特朗普：倘若伊朗造成美軍人員陣亡，那便是重啟衝突的正當理由。
-
----
-
-### 2026-06-05 04:12:07  #MKT News #Market Regions #Wall Street (US) #Market Themes #The Trump Trade #FNMA.O #Impact bullish #FMCC.O
-
-Fannie Mae and Freddie Mac shares rose 6% on the U.S. OTC market; Trump said the firms could be worth as much as $1 trillion.
-
----
-
-### 2026-06-05 04:12:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said on Iran that all 159 of their ships have sunk to the seabed and that we have photographed them there.
-
----
-
-### 2026-06-05 04:11:48  #國際
-
-特朗普：伊朗還剩少量導彈，但所剩無幾。
-
----
-
-### 2026-06-05 04:10:56  #國際
-
-特朗普：倘若沒有美國的軍事援助與裝備，烏克蘭無法作戰。
-
----
-
-### 2026-06-05 04:09:41  #MKT News
-
-President Trump said you can face roughly four years' imprisonment in the U.S. for killing a bald eagle, yet wind turbines frequently knock them from the air with no consequences; he called that shameful.
-
----
-
-### 2026-06-05 04:09:19  #MKT News
-
-Labour leader Burnham said he would stand in a Labour leadership contest to try to replace Keir Starmer as UK prime minister if a former cabinet minister mounts an internal challenge.
-
----
-
-### 2026-06-05 04:09:13  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-US money market fund assets reached a record $7.894 tln.
-
----
-
-### 2026-06-05 04:08:48  #國際
-
-特朗普：已拍攝下被擊沉的伊朗艦船照片。
-
----
-
-### 2026-06-05 04:08:15  #國際
-
-特朗普重申，伊朗既沒有海軍，也沒有空軍。
-
----
-
-### 2026-06-05 04:07:56  #國際
-
-特朗普：我們幾乎剷除了伊朗所有領導層。
-
----
-
-### 2026-06-05 04:07:51  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said the US does not need Europe's help in the Strait of Hormuz.
-
----
-
-### 2026-06-05 04:07:11  #MKT News #LULU.O #Impact bullish
-
-Lululemon (LULU.O) Q1 revenue $2.50 bln, above IBES consensus $2.43 bln.
-
----
-
-### 2026-06-05 04:07:03  #公司 #國際
-
-美國投資公司協會（ICI）：美國貨幣市場資產7.894萬億美元，創歷史新高。
-
----
-
-### 2026-06-05 04:06:44  #國際
-
-特朗普：霍爾木茲海峽問題不需要歐洲的幫助。
-
----
-
-### 2026-06-05 04:05:58  #其他
-
-DocuSign預計二季度營收8.65億-8.69億美元，分析師預期8.66億美元。
-
----
-
-### 2026-06-05 04:05:33  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact bearish
-
-U.S. equity close, June 4 (Thursday): Dow Jones Industrial Average +875.05 points (1.73 pct) to 51,562.12; S&P 500 +30.65 points (0.41 pct) to 7,584.33; Nasdaq Composite -23.02 points (0.09 pct) to 26,830.96.
-
----
-
-### 2026-06-05 04:05:22  #其他
-
-Lululemon給出本財年淨營收指引區間 110 億至 111.5 億美元，此前指引為 113.5 億至 115 億美元。
-
----
-
-### 2026-06-05 04:03:50  #MKT News
-
-US President Trump said on the Ukraine conflict that they need to make some compromises.
-
----
-
-### 2026-06-05 04:03:17  #市場
-
-KBW銀行指數收盤上漲3.7%，創2月份以來最高。
-
----
-
-### 2026-06-05 04:02:56  #國際
-
-特朗普：普京與澤連斯基雙方都將做出妥協。
-
----
-
-### 2026-06-05 04:02:42  #MKT News
-
-Trump said PULTE's appointment as acting director of national intelligence is a short-term arrangement and that he could be highly effective in the near term.
-
----
-
-### 2026-06-05 04:02:31  #公司
-
-黑石集團收漲7.5%，創2025年4月份以來最大單日漲幅。
-
----
-
-### 2026-06-05 04:02:21  #MKT News #Commodities #Energy
-
-Investors' demand for clarity on Venezuela's measures to revive its oil-rich economy and restructure debt has prompted JP Morgan and Jefferies to arrange fact‑finding visits to Caracas. Jefferies executives visited this week and are considering a return in the coming weeks; JP Morgan is working to schedule a trip and may bring clients.
-
----
-
-### 2026-06-05 04:01:30  #國際
-
-特朗普談及普爾特出任代理國家情報總監：該任命為臨時安排，短期內他大機率能高效履職。
-
----
-
-### 2026-06-05 04:01:21  #MKT News
-
-President Trump said the combined value of Fannie Mae and Freddie Mac could be as high as $1 trillion.
-
----
-
-### 2026-06-05 04:01:16  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #AVGO.O #Impact bearish #MU.O #NVDA.O #Impact bullish
-
-【US close: Dow hits record high; Broadcom tumbles over 12%】US stocks closed Thursday. Dow Jones Industrial Average rose about 1.7% to a record close; S&P 500 up 0.4%; Nasdaq Composite marginally lower. NVIDIA (NVDA.O) +~2%; Micron Technology (MU.O) -7.7%; Broadcom (AVGO.O) -over 12%. Nasdaq Golden Dragon China Index -0.6%; XPeng (XPEV.N) -3.5%.
-
----
-
-### 2026-06-05 04:01:07  #國際
-
-特朗普：普爾特不會長期擔任情報主管。
-
----
-
-### 2026-06-05 04:00:45  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲1.73%，標普500指數漲0.41%，納指跌0.07%。黑石漲7.50%，休曼納漲6.80%，羅賓漢漲6.60%，Axon Enterprise漲6.59%，Ciena科技跌13.58%，博通跌12.59%。“七姐妹”方面：谷歌漲3.87%，英偉達漲1.92%，亞馬遜漲1.51%，Meta Platforms漲0.69%，蘋果漲0.34%，微軟漲0.19%，特斯拉跌1.24%。
-
----
-
-### 2026-06-05 04:00:26  #國際
-
-特朗普談及普爾特：他十分精明。房利美、房地美的價值可能有1萬億美元。
-
----
-
-### 2026-06-05 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.53%】海天網路跌22.77%，中進醫療跌15.89%，逸仙電商跌12.07%，金生遊樂跌10.73%，1藥網跌10.27%。
-
----
-
-### 2026-06-05 03:59:31  #MKT News
-
-US President Trump said on Ukraine it would be good if Zelenskiy and Putin could meet.
-
----
-
-### 2026-06-05 03:59:04  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，海天網路跌23.35%，中進醫療跌15.89%，逸仙電商跌10.78%，金生遊樂跌10.73%，1藥網跌10.27%。
-
----
-
-### 2026-06-05 03:58:55  #國際
-
-特朗普：對俄烏雙方商討會面一事感到欣慰。
-
----
-
-### 2026-06-05 03:58:38  #國際
-
-特朗普：若澤連斯基與普京舉行會晤，將是件好事。
-
----
-
-### 2026-06-05 03:58:25  #國際
-
-特朗普就澤連斯基致普京的信發表評論：很高興他們正在對話。
 
 ---
