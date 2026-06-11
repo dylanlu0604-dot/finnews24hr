@@ -1,7 +1,199 @@
 {
-  "updated": "2026-06-11 23:30:24",
-  "count": 18474,
+  "updated": "2026-06-11 23:34:14",
+  "count": 18477,
   "items": [
+    {
+      "id": "mkt:019eb751-31a2-7dd8-afc5-c1d2f688e479",
+      "time": "2026-06-11 23:33:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 8-week Treasury bill auction on June 11: bid-cover ratio 2.94, prior 3.2."
+    },
+    {
+      "id": "4930930",
+      "time": "2026-06-11 23:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：伊朗談判團隊未在主要問題上對美讓步】據伊朗法爾斯通訊社11日報道，一名接近伊朗談判代表團的訊息人士否認了美國有線電視新聞閘道器於伊朗與美國近期舉行新一輪談判的報道，並表示伊方在談判中仍堅持既定立場和核心訴求，未在主要問題上作出讓步。 這名訊息人士表示，此前由伊方提出的談判文字仍是當前其立場的基礎。該文字重點體現伊方的利益和訴求，未獲美方完全認可，這也是當前達成最終諒解所面臨的主要障礙之一。伊朗談判團隊認為，“美方最終將不得不接受該文字的主要框架”。這名訊息人士還說，美國近期加大政治施壓和軍事威脅力度，與伊朗拒絕接受美方超出既有談判範圍的要求有關。（新華社）"
+    },
+    {
+      "id": "mkt:019eb750-aefd-7dd8-afc5-be596171fcc0",
+      "time": "2026-06-11 23:32:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 8-week Treasury bill auction on June 11 — share allocated at the stop-out yield 65.5%, prior 68.26%."
+    },
+    {
+      "id": "mkt:019eb750-a90d-7dd8-afc5-b69f5d5e942f",
+      "time": "2026-06-11 23:32:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jun.11) | actual 2.94 | previous 3.2"
+    },
+    {
+      "id": "mkt:019eb750-7a04-7dd8-afc5-aeb74b707002",
+      "time": "2026-06-11 23:32:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 8-week Treasury auction to June 11 — stop-out yield 3.61%, previous 3.61%."
+    },
+    {
+      "id": "4930929",
+      "time": "2026-06-11 23:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：出於安全考慮，某些內部IT系統已下線。"
+    },
+    {
+      "id": "mkt:019eb750-5062-7dd8-afc5-a771e4edd22d",
+      "time": "2026-06-11 23:32:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jun.11) | actual 3.61% | previous 3.61%"
+    },
+    {
+      "id": "4930928",
+      "time": "2026-06-11 23:32:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至6月11日4周國債競拍-得標利率 3.595%，前值3.615%。\n美國至6月11日4周國債競拍-得標利率配置百分比 70.32%，前值27.64%。\n美國至6月11日4周國債競拍-投標倍數 3.13，前值3.07。"
+    },
+    {
+      "id": "mkt:019eb750-069c-7dd8-afc5-9ddf9062ec4a",
+      "time": "2026-06-11 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-week Treasury auction (June 11) bid-cover ratio 3.13, prior 3.07."
+    },
+    {
+      "id": "mkt:019eb750-04d2-7dd8-afc5-90de250af95b",
+      "time": "2026-06-11 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US 4-week Treasury bill auction (settlement June 11) stop-out yield 3.595%, prior 3.615%."
+    },
+    {
+      "id": "mkt:019eb74f-fd1f-7dd8-afc5-8e56d173e5d4",
+      "time": "2026-06-11 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US 4-week Treasury auction through June 11: percentage allocated at the stop-out rate 70.32%, prior 27.64%."
+    },
+    {
+      "id": "mkt:019eb74f-d9b0-7dd8-afc5-819f4bed5f8b",
+      "time": "2026-06-11 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.11) | actual 3.13 | previous 3.07"
+    },
+    {
+      "id": "mkt:019eb74f-d9af-7dd8-afc5-7caeee04d21b",
+      "time": "2026-06-11 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jun.11) | actual 70.32% | previous 27.64%"
+    },
+    {
+      "id": "mkt:019eb74f-d99a-7dd8-afc5-7647de1b8092",
+      "time": "2026-06-11 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jun.11) | actual 3.595% | previous 3.615%"
+    },
+    {
+      "id": "mkt:019eb74f-8278-7dd8-afc5-69c8891eef07",
+      "time": "2026-06-11 23:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novo Nordisk (NVO.N) has taken certain internal IT systems offline for security reasons."
+    },
+    {
+      "id": "4930927",
+      "time": "2026-06-11 23:31:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國國債上漲 受油價下跌和喜憂參半的通脹資料推動】隨著油價下跌改善通脹前景，美國國債價格上漲。週四，各期限國債收益率下降2至3個基點，並在美國早盤時段觸及日內低點。與此同時，歐洲債券走高。美伊停火前景波折不斷導致油價波動劇烈。有關阿聯酋與伊朗官員本週舉行關鍵會晤的報道，沖淡了特朗普威脅奪取伊朗關鍵石油樞紐的影響，油價重拾跌勢。油價變動對債市的影響因美國通脹資料的釋出而變得更為複雜。資料顯示，5月生產者價格漲幅超過經濟學家預期。不過，剔除能源和食品價格後的核心價格指標漲幅低於預期。"
+    },
+    {
+      "id": "4930926",
+      "time": "2026-06-11 23:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.21%，報24245.97點。法國股指初步收漲0.59%，義大利股指初步收漲1.17%、銀行指數漲0.15%，英國股指初步收漲0.68%。"
+    },
+    {
+      "id": "4930925",
+      "time": "2026-06-11 23:30:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐元區股市在歐洲央行加息日收漲】歐洲STOXX 600指數初步收漲0.71%，報622.53點。歐元區STOXX 50指數初步收漲1.02%，報6070.96點。富時泛歐績優300指數初步收漲0.90%，報2490.51點。"
+    },
+    {
+      "id": "te:economy:558434",
+      "time": "2026-06-11 23:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 13 bps — Majority of government bonds yields are lower on Thursday. Top losers are Brazil 10Y (-12.50bps), Germany 10Y (-4.40bps) and US 10Y (-3.90bps). Gains are led by Japan 10Y (0.26bps)."
+    },
     {
       "id": "4930924",
       "time": "2026-06-11 23:27:22",
@@ -170124,165 +170316,6 @@
         "其他"
       ],
       "text": "羅馬尼亞總統達恩4日任命歐金·托馬茨為總理。（新華社）"
-    },
-    {
-      "id": "mkt:019e9344-80d0-7885-9cdb-e704c932012b",
-      "time": "2026-06-04 23:33:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 8-week Treasury auction through June 4 — share of allotment awarded at the stop-out yield 68.26% (previous 82.33%)."
-    },
-    {
-      "id": "4917819",
-      "time": "2026-06-04 23:32:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音發言人：我們已獲悉法蘭克福事件，目前正為客戶提供支援。"
-    },
-    {
-      "id": "mkt:019e9344-1d58-7885-9cdb-dc4378f5cb49",
-      "time": "2026-06-04 23:32:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 8-week Treasury auction on June 4 stop-out yield 3.61% vs 3.615% prior."
-    },
-    {
-      "id": "mkt:019e9344-0570-7885-9cdb-d21e28b9e226",
-      "time": "2026-06-04 23:32:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Jun.4) | actual 3.61% | previous 3.615%"
-    },
-    {
-      "id": "mkt:019e9343-d6d3-7885-9cdb-cea2e5e917c0",
-      "time": "2026-06-04 23:32:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 8-week Treasury bill auction on June 4: bid-cover ratio 3.20, prior 3.08."
-    },
-    {
-      "id": "4917818",
-      "time": "2026-06-04 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四周期國債，得標利率3.615%，投標倍數3.07。拍賣八週期國債，得標利率3.610%，投標倍數3.20。"
-    },
-    {
-      "id": "mkt:019e9343-bf5e-7885-9cdb-c6ad415e085e",
-      "time": "2026-06-04 23:32:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jun.4) | actual 3.2 | previous 3.08"
-    },
-    {
-      "id": "mkt:019e9343-9343-7885-9cdb-bc68f7abc73b",
-      "time": "2026-06-04 23:32:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 4-week Treasury auction to June 4: stop-out yield 3.615%, prior 3.63%."
-    },
-    {
-      "id": "mkt:019e9343-933d-7885-9cdb-b17e887730a3",
-      "time": "2026-06-04 23:32:16",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 4-week Treasury auction to June 4 bid-cover ratio 3.07; prior 2.76."
-    },
-    {
-      "id": "mkt:019e9343-9332-7885-9cdb-a9037c72cd9c",
-      "time": "2026-06-04 23:32:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 4-week Treasury auction on June 4 — share allocated at the stop-out rate 27.64%, prior 41.91%."
-    },
-    {
-      "id": "mkt:019e9343-5d27-7885-9cdb-a60ba914177d",
-      "time": "2026-06-04 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.4) | actual 3.07 | previous 2.76"
-    },
-    {
-      "id": "mkt:019e9343-5cd0-7885-9cdb-999944d8a29f",
-      "time": "2026-06-04 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Jun.4) | actual 3.615% | previous 3.63%"
-    },
-    {
-      "id": "mkt:019e9343-5cae-7885-9cdb-90026e5785c8",
-      "time": "2026-06-04 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Jun.4) | actual 27.64% | previous 41.91%"
-    },
-    {
-      "id": "4917817",
-      "time": "2026-06-04 23:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國最高法院鞏固了美國證券交易委員會追繳非法所得的權力】美國最高法院在一場圍繞美國證券交易委員會(SEC)最強有力執法工具之一的訴訟中，鞏固了該機構追繳非法所得的權力。大法官們週四一致裁定，SEC在追繳違反聯邦證券法的個人或企業的違法所得時，無需證明存在可識別的投資者損失。這一裁決將影響一系列受害者難以明確界定的SEC案件，涵蓋從性質較輕的賬簿記錄違規，到重大的內幕交易指控。在2024財年，SEC曾利用違法所得追繳機制獲取了超過60億美元的追繳令，而去年這一數字接近110億美元。SEC未立即回應置評請求。"
-    },
-    {
-      "id": "4917816",
-      "time": "2026-06-04 23:30:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "截至5月末，愛爾蘭剔除蘋果公司相關稅款後的稅收收入同比增長6.1%，表決透過的總支出毛額同比增長7.2%。"
-    },
-    {
-      "id": "4917815",
-      "time": "2026-06-04 23:30:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收漲0.48%，報24908.69點。法國股指初步收漲0.86%，義大利股指初步收漲0.06%、銀行指數漲0.65%，英國股指初步收漲0.06%。"
     }
   ]
 }
