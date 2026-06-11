@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-11 13:58:14",
-  "count": 18335,
+  "updated": "2026-06-11 14:02:17",
+  "count": 18337,
   "items": [
+    {
+      "id": "mkt:019eb545-679e-7dd8-afb5-1d9934c3f830",
+      "time": "2026-06-11 14:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huafu Technology launches Token factory solution】Huafu Technology, a unit of Huafu Fashion, launched a standardized Token generation service on its Huafu MaaS platform, marking a move from traditional compute services to Token production and delivery. The Token factory concept stems from operations at the Shangyu AIGC compute center; as of May 2026 the phase-one 800P cluster is in stable operation with compute utilization above 98%. By optimizing energy use, heterogeneous compute scheduling and large-model inference efficiency, Huafu reported it has cut per-Token production costs by more than 30% and established scalable Token production capacity."
+    },
+    {
+      "id": "4929655",
+      "time": "2026-06-11 14:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華孚科技推出Token工廠解決方案】華孚時尚旗下華孚科技基於華孚MaaS平臺推出標準化Token生成服務。此次Token工廠解決方案發布，標誌著華孚科技從傳統算力服務向Token生產與交付服務邁進。華孚科技Token工廠理念源於上虞智算中心的長期運營實踐。截至2026年5月，上虞AIGC智算中心一期800P算力叢集已實現穩定運營，算力資源利用率超過98%。透過持續最佳化能源利用、異構算力排程及大模型推理效率，華孚科技已將單位Token生產成本降低30%以上，形成規模化Token生產能力。"
+    },
+    {
+      "id": "mkt:019eb544-d066-7dd8-afb5-15d5c806f42c",
+      "time": "2026-06-11 14:00:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China advances integrated space‑air‑ground carbon monitoring technology】The State Administration for Market Regulation mobilized domestic science and tech teams to tackle long-standing reliance on foreign equipment and methods for space-, airborne- and ground-based greenhouse gas monitoring that constrained autonomous, precise quality control of carbon emissions data at national, regional and sector levels. It announced breakthroughs in high‑resolution domestic satellite CO2 and CH4 column-concentration measurement and emission‑inversion core technologies, and said it has broken foreign technical monopolies in mid‑scale CO2 flux detection using lidar with concurrent wind‑field measurement."
+    },
+    {
+      "id": "te:markets:558271",
+      "time": "2026-06-11 14:00:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were on track for a weaker open on Thursday as investors remained cautious ahead of the European Central Bank’s policy decision. The ECB is widely expected to raise its benchmark interest rate by 25 basis points to 2.25% as policymakers seek to contain inflationary pressures fueled by soaring energy costs linked to the Middle East conflict. If delivered, it would mark the central bank’s first rate increase since September 2023. Meanwhile, the US and Iran exchanged attacks this week in a major breach of their ceasefire, although the US military said it has completed its latest strikes on Iran, raising hopes that peace negotiations could resume. In premarket trading, both Euro Stoxx 50 and Stoxx 600 futures were down about 0.5%."
+    },
+    {
+      "id": "4929654",
+      "time": "2026-06-11 14:00:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國星空地一體化碳監測關鍵技術取得重大進展】針對我國溫室氣體監測與計量領域中，星基、空基、地基主流監測裝置及核心方法長期依賴國外技術，致使國家、區域及行業層面碳排放監測資料難以實現自主、精準的質量控制這一關鍵問題，市場監管總局組織國內優勢科技力量，開展星空地一體化溫室氣體濃度監測、排放反演演算法及監測裝備等關鍵技術攻關，成功突破高解析度國產衛星CO2、CH4柱濃度與排放反演核心技術，打破了國外在中尺度CO2通量探測鐳射雷達濃度與風場同步探測領域的技術壟斷。研究團隊成功研發中尺度鐳射雷達監測設施、現場測量與計量物聯網裝置，以及區域和行業領域溫室氣體排放清單反演與校驗演算法，相關產品可以用於國家、省市、工業、能源、交通、居民等溫室氣體排放的高精度、快速化監測與計量。研究團隊牽頭起草《大氣成分觀測規範 溫室氣體》等2項氣象行業技術標準和《平板玻璃生產企業碳排放核算資料計量溯源性核驗方法》等3項具有國際先進性的團體標準，獲批福建省能源領域首套重大裝置，為規範我國溫室氣體觀測、精準核算碳收支、科學評估減排成效等提供了關鍵技術支撐。目前，相關研究成果已在國家、省市氣象和環保部門，以及鋼鐵、煤炭、平板玻璃等行業企業開展應用，取得了較好的示範效果。"
+    },
+    {
+      "id": "mkt:019eb544-6a71-7dd8-afb5-0a0a408b7b1d",
+      "time": "2026-06-11 14:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister asked exporters to help improve supply‑demand conditions in the foreign-exchange market and ease volatility."
+    },
+    {
+      "id": "mkt:019eb544-4686-7dd8-afb5-025b910e0544",
+      "time": "2026-06-11 14:00:10",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bearish"
+      ],
+      "text": "Oracle shares fell 10.3% on Tradegate after its large-scale spending plan raised market concern."
+    },
+    {
+      "id": "te:markets:558268",
+      "time": "2026-06-11 13:59:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Commonwealth Bank Stock Price Hits 4-week Low — Commonwealth Bank shares decreased to 156.57 AUD, the lowest since May 2026. Over the past 4 weeks, Commonwealth Bank lost 8.73%, and in the last 12 months, it decreased 13.26%."
+    },
+    {
+      "id": "4929653",
+      "time": "2026-06-11 13:59:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最強Arm CPU正式上線 3奈米192核】亞馬遜雲科技（AWS）宣佈，基於第五代自研Arm處理器Graviton5的Amazon EC2 M9g和M9gd例項正式上線。AWS在公告中明確表示，Graviton5為“迄今為止效能最強、能效最高的自研CPU”。其核心數量從Graviton4的96核翻倍至192核，架構層面放棄了單一計算核心晶片設計，轉而採用4晶片組（Chiplet）方案，每個晶片組包含48個核心，並整合專屬的DRAM記憶體控制器和PCIe 6.0 I/O控制器。四個晶片組之間透過定製互連提供高達420GB/s頻寬，L3快取暴增5倍至192MB，分支預測能力大幅提升，執行真實資料庫等複雜程式碼時效能提升高達30%。Graviton5採用了臺積電3nm製程工藝，在同樣功耗下封裝了更多電晶體，實現了更高的電路密度與能效比。根據AWS官方資料，M9g例項相比基於Graviton4的M8g例項，通用計算效能提升25%，Web應用提升35%，機器學習推理提升35%，資料庫提升30%。"
+    },
+    {
+      "id": "4929652",
+      "time": "2026-06-11 13:57:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價在Tradegate平臺下跌10.3%。"
+    },
     {
       "id": "mkt:019eb541-dfce-7dd8-afb4-ff24658dc748",
       "time": "2026-06-11 13:57:33",
@@ -168831,78 +168923,6 @@
         "其他"
       ],
       "text": "【2026年，位元組AI有四個重要的命題】從多個信源處獲悉，2026年，位元組AI有四個重要的命題：加大對世界模型訓練的投入，年底前，模型效能達到現階段世界模型全球 SOTA（最佳）Google Genie 3的水平。影片模型繼續保持領先地位，探索“動態生成”等新方向。進一步打好Coding的地基，做好Coding的Dogfooding（資料迴流、評測，形成飛輪），提升Agent能力。豆包強化商業化能力，重點場景是“辦公”。（36氪）"
-    },
-    {
-      "id": "4916658",
-      "time": "2026-06-04 14:02:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報6166.00元。"
-    },
-    {
-      "id": "4916657",
-      "time": "2026-06-04 14:01:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份觸及漲停】滬電股份觸及漲停，成交額103.60億元。"
-    },
-    {
-      "id": "mkt:019e9138-3e31-7cc0-ba26-fb673ba551fe",
-      "time": "2026-06-04 14:00:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KATZ said Israeli measures in Lebanon will lead to an agreement that would secure northern Israel for the first time in 50 years."
-    },
-    {
-      "id": "4916656",
-      "time": "2026-06-04 14:00:27",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞典5月CPIF初步資料顯示同比增長1.5%；預期為增長1.3%。"
-    },
-    {
-      "id": "mkt:019e9137-e28d-7cc0-ba26-f4c566a93094",
-      "time": "2026-06-04 14:00:17",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share electronic chemicals sector rallied. Longchen Technology and Zhongchuan Teqi hit limit-up earlier; Weiteou and Aolaide rose about 20%. Huate Gas, Sanfu Xinke, Xingfu Electronics and Feikai Materials also advanced."
-    },
-    {
-      "id": "4916655",
-      "time": "2026-06-04 13:59:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨<STXEc1>下跌0.33%，德國DAX指數期貨<FDXc1>下跌0.26%，富時指數期貨<FFIc1>下跌0.51%。"
-    },
-    {
-      "id": "4916654",
-      "time": "2026-06-04 13:59:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電子化學品板塊震盪上揚，龍辰科技30cm漲停】電子化學品板塊震盪上揚，龍辰科技30cm漲停，中船特氣此前漲停，唯特偶、奧來德漲近20%，華特氣體、三孚新科、興福電子、飛凱材料跟漲。"
-    },
-    {
-      "id": "mkt:019e9136-6c47-7cc0-ba26-ed37a3deb429",
-      "time": "2026-06-04 13:58:34",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share banking sector slid; Chongqing Rural Commercial Bank fell over 3%, while Bank of Ningbo, Bank of Hangzhou, Huaxia Bank and Ping An Bank each dropped more than 2%."
     }
   ]
 }
