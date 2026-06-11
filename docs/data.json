@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-11 08:41:31",
-  "count": 18434,
+  "updated": "2026-06-11 08:45:17",
+  "count": 18436,
   "items": [
+    {
+      "id": "te:markets:558192",
+      "time": "2026-06-11 08:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "apanese Shares Sink to 3-Week Lows — The Nikkei 225 Index fell 2.1% to below 63,000, while the broader Topix Index lost 1.4% to 3,793 on Thursday, with both benchmarks touching three-week lows after the US launched fresh strikes against Iran, driving oil prices higher. Technology stocks also remained under pressure amid persistent concerns over elevated AI-related valuations, weighing heavily on Japanese companies with significant exposure to the global AI expansion. At home, the Bank of Japan is widely expected to raise interest rates next week as policymakers contend with soaring energy costs linked to the Middle East conflict. Tech and AI-related shares led the losses, with Tokyo Electron (-1.3%), Taiyo Yuden (-3.4%), SoftBank Group (-4.6%), Fujikura (-4.8%), and Advantest (-3.3%) posting notable declines. Financial and consumer stocks also weakened, adding to the broader market downturn."
+    },
+    {
+      "id": "mkt:019eb423-4246-7dd8-afb0-165ae1092ac3",
+      "time": "2026-06-11 08:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yitong New Materials: battery powder growth accelerating with downstream LFP demand】Yitong New Materials said in a conference call that gross margin on its traditional powder‑metallurgy iron powder is about 20%. Battery‑grade powder requires fewer processing steps and yields a lower gross margin than powder‑metallurgy iron powder. Forgings remain in capacity ramp‑up and are not yet at full production; higher per‑unit labor and depreciation keep forging margins below traditional powder. Traditional powder shows stable growth, battery powder is expanding rapidly alongside downstream LFP battery development, and forgings present sizable market potential. The company said this year’s faster growth partly reflects a small base last year."
+    },
+    {
+      "id": "4929230",
+      "time": "2026-06-11 08:44:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印航空難調查報告推遲釋出 因通用電氣發動機檢測工作尚未完成】據知情人士透露，由於這架波音客機的發動機仍在美國接受檢測且相關工作尚未收尾，調查人員無法在本週五（一週年節點）如期釋出印度航空客機起飛後墜毀事故的調查報告。知情人士稱，印度航空事故調查局本週或將先發布一份進展報告，說明調查延期原因。相關最終報告預計在三個月內出爐。因資訊尚未公開，相關人士要求匿名。其中一名知情人士表示，通用電氣航空發動機的檢測工作屆時將全部完成。此次檢測在美國開展，原因是全球範圍內僅有少數機構具備拆解發動機的專業條件與配套裝置。"
+    },
+    {
+      "id": "4929229",
+      "time": "2026-06-11 08:43:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【屹通新材：電池粉隨著下游磷酸鐵鋰電池業務發展而增速較快】屹通新材近日在電話會議中表示，毛利率方面，傳統粉末冶金用粉的毛利率約為20%；電池粉由於工序相對較少，毛利率低於粉末冶金用鐵粉。鍛件業務目前仍處於產能爬坡階段，尚未完全達產，單位產品的人工成本及折舊攤銷費用相對較高，其毛利率相對低於傳統粉末冶金用鐵粉。傳統粉末冶金用鐵粉保持相對穩定的增長，電池粉隨著下游磷酸鐵鋰電池業務的發展，增速較快，鍛件業務市場空間較大，由於公司去年業務基礎相對較小，今年增速相對較快。"
+    },
+    {
+      "id": "4929228",
+      "time": "2026-06-11 08:43:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【通用汽車調整電池戰略 擬棄LFP路線轉攻LMR技術】通用汽車電池技術負責人Kurt Kelty表示，該公司可能放棄使用一種低成本鐵基電池化學體系的計劃。許多汽車製造商正採用這種電池來降低電動汽車成本。通用汽車此前曾表示，計劃開發磷酸鐵鋰電池(LFP)用於未來的電動汽車車型，並將於2027年底在田納西州的一家合資工廠開始生產此類電池。但Kurt Kelty告訴媒體，通用汽車目前轉而專注於研發另一種電池化學體系--富鋰錳基電池(LMR)。該公司曾表示，這種電池在美國的生產成本與LFP電池大致相當，但在同等重量和體積下可儲存更多能量。Kelty表示，通用汽車可能不再尋求將LFP電池用於電動汽車。他稱田納西州工廠將於本月開始生產LFP電池，但這些電池將用於儲能系統。“LFP電池有可能不會進入我們的產品組合，”Kelty在舊金山參加通用汽車活動後表示，並稱LMR是通用汽車的“主力”電池技術。“這將是我們進行大規模應用的方向，”他說。"
+    },
+    {
+      "id": "4929227",
+      "time": "2026-06-11 08:43:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中非經貿博覽會摩洛哥專場活動開幕 】2026年中非經貿博覽會“走進非洲”（摩洛哥專場）活動10日在摩洛哥卡薩布蘭卡開幕，來自中摩兩國政府部門、商協會、金融機構、企業及媒體的400多名代表出席。本次活動以“中非共行動 一起創未來”為主題，是中國對53個非洲建交國全面實施零關稅舉措後，湖南省在非洲落地的首場大型境外經貿活動。（新華社）"
+    },
+    {
+      "id": "4929226",
+      "time": "2026-06-11 08:41:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【瑞銀上調紐西蘭第一季度GDP預測，正值紐西蘭央行考慮加息之際】瑞銀將紐西蘭第一季度GDP增長預測從0.8%上調至0.9%。經濟學家Stephen Wu表示，製造業正迎來表現強勁的一個季度，銷售量正在上升。瑞銀表示，批發貿易以及程度較輕的零售銷售，都應會為增長做出堅實貢獻。儘管如此，其修正後的預測仍低於紐西蘭央行的預期，該央行在5月份預測第一季度GDP環比增長1.0%。瑞銀表示，如果結果與預期大體一致，紐西蘭央行將在7月份上調官方隔夜拆款利率。"
+    },
     {
       "id": "4929225",
       "time": "2026-06-11 08:40:08",
@@ -169889,46 +169952,6 @@
         "國際"
       ],
       "text": "【日本家電零售商山田控股和愛電王計劃合併】據6月4日宣告，日本家用電器零售商山田控股和愛電王集團（EDION）計劃合併，旨在打造一家年銷售額近2.5萬億日元（約合156億美元）的連鎖巨頭。兩家公司均表示，董事會將於5日召開會議，審查合併計劃並討論相關提案。雙方未透露合併具體條款。"
-    },
-    {
-      "id": "4916231",
-      "time": "2026-06-04 08:44:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港南方東英稱與滙豐推出貨幣市場基金非上市代幣化類別。"
-    },
-    {
-      "id": "4916230",
-      "time": "2026-06-04 08:43:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "6月2日至3日，由國務院新聞辦公室指導的“2026世界市長對話·北京”活動在北京市舉行。來自摩洛哥、塞席爾、突尼西亞、塞內加爾等6個非洲國家的30餘位市長和城市代表共同參加了活動。（央視）"
-    },
-    {
-      "id": "4916229",
-      "time": "2026-06-04 08:41:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "深交所港股通標的證券名單發生調整並自2026年06月04日起生效，調入文遠知行-W、小馬智行-W。"
-    },
-    {
-      "id": "4916228",
-      "time": "2026-06-04 08:41:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：特朗普擬很快提名託德・布蘭奇出任司法部長】據報道，知情人士透露，特朗普總統預計不久將提名託德・布蘭奇（Todd Blanche）擔任美國司法部長。訊息人士稱，提名最早或於今晚官宣。白宮暫未證實總統的這項任命決定，但白宮發言人Abigail Jackson在致美國有線電視新聞網的宣告中表示：“特朗普總統與代理司法部長託德・布蘭奇關係融洽，對其迄今為止的履職表現十分滿意。”她補充道：“託德・布蘭奇是一名愛國人士，曾無畏地代表特朗普總統抵禦民主黨發起的空前司法打壓。司法部總統團隊全體成員履職出色，堅守法理與秩序，推行保障美國民眾安全的相關政策。”"
-    },
-    {
-      "id": "mkt:019e9014-1e9b-7003-8288-1ab918cd32e1",
-      "time": "2026-06-04 08:41:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shenzhen Stock Exchange adjusted its Hong Kong Stock Connect eligible securities list, effective June 4, 2026; added WeRide-W and Pony.ai-W."
     }
   ]
 }
