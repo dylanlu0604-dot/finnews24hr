@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-11 12:41:38",
-  "count": 18383,
+  "updated": "2026-06-11 12:45:41",
+  "count": 18385,
   "items": [
+    {
+      "id": "mkt:019eb4fe-8122-7dd8-afb4-55f76d42e6b3",
+      "time": "2026-06-11 12:43:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rose 0.3%, erasing earlier losses."
+    },
+    {
+      "id": "4929585",
+      "time": "2026-06-11 12:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部：今年計劃招錄消防員17000名】記者11日從應急管理部獲悉，國家綜合性消防救援隊伍2026年度消防員招錄工作近日啟動。今年消防員招錄計劃17000名，其中城鄉消防救援隊伍14150名，機動消防救援隊伍2850名；面向高校應屆畢業生、退役士兵、社會青年三類人員分別招錄5667名、5667名、5666名。（新華社）"
+    },
+    {
+      "id": "4929584",
+      "time": "2026-06-11 12:42:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲0.3%，抹去早前的跌幅。"
+    },
+    {
+      "id": "4929583",
+      "time": "2026-06-11 12:42:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中韓半導體ETF華泰柏瑞：本基金將於2026年6月11日下午開市起至當日收市停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱“本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金(QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱“本基金”）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。 為保護投資者的利益，本基金將於 2026 年 6 月 11 日開市起至當日 10:30 停牌。若本基金午間收盤二級市場交易價格溢價幅度仍處於較高水平，本基金有權向上海證券交易所申請 2026 年 6 月 11 日下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。"
+    },
+    {
+      "id": "mkt:019eb4fc-fc2f-7dd8-afb4-4a335f4ef8e1",
+      "time": "2026-06-11 12:42:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 5-year bond yield fell 1.5 bps to 1.920%."
+    },
+    {
+      "id": "mkt:019eb4fc-f262-7dd8-afb4-417710bbabbe",
+      "time": "2026-06-11 12:42:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 40-year government bond yield rose 3.0 bps to 3.765%."
+    },
+    {
+      "id": "mkt:019eb4fc-eeba-7dd8-afb4-3952c9dfeeee",
+      "time": "2026-06-11 12:42:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Market analysis: ECB poised to hike on June 11; further July risk】BMO analysts say some ECB governing council members are inclined to act and expect a rate hike at the June 11 meeting, with a risk of a follow-up increase as early as July. Since the outbreak of the Iran conflict, the RESERVE BANK OF AUSTRALIA and NORWAY C.BANK have already tightened, and the ECB would be the first G7 central bank to move. Eurozone inflation has not eased since the last meeting; worries that the Iran conflict’s duration or a fragile peace could boost inflation expectations and wage pressures, alongside rising stagnation risk, are prompting a shift toward tightening. The ECB must tread carefully, but additional hikes remain possible."
+    },
+    {
+      "id": "mkt:019eb4fc-292c-7dd8-afb4-3393b0eb59d4",
+      "time": "2026-06-11 12:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huatai-PineBridge said its China-Korea Semiconductor ETF will be suspended from the afternoon market open on June 11, 2026, until market close the same day."
+    },
     {
       "id": "4929582",
       "time": "2026-06-11 12:41:05",
@@ -169344,66 +169425,6 @@
         "Hang Seng Index"
       ],
       "text": "【China to bar entry to certain New Zealand MPs】China's embassy in Wellington said on June 4 it will bar entry and impose other measures on a small group of New Zealand MPs who visited Taiwan despite repeated warnings, saying their meetings with local politicians violated the One China principle. The embassy said the MPs' actions, publicized in local media, amounted to interference in China's internal affairs and fall under relevant PRC laws. Beijing reiterated it opposes visits to Taiwan by foreign legislators and that similar cases will not be exempt from consequences."
-    },
-    {
-      "id": "4916579",
-      "time": "2026-06-04 12:45:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魏哲家：臺積電沒有失去競爭優勢的風險】臺積電執行長表示，該公司在下一代晶片製造領域並未落後。此舉駁斥了外界疑慮。外界此前擔心，競爭對手已採用極昂貴裝置製造尖端晶片，使臺積電處於劣勢。在年度股東大會上，臺積電執行長魏哲家闡明瞭這家晶片巨頭對荷蘭公司阿斯麥(ASML)獨家制造的裝置的立場。這些裝置被視為突破微晶片製造極限的關鍵。魏哲家週四表示：事實上，我們已經購買了這類裝置，我們的團隊正在積極進行相關研發，只是目前還沒有將其部署於大批次規模化生產。當一位股東追問這家臺灣公司從阿斯麥購買了多少臺裝置時，魏哲家不予給出具體數字。"
-    },
-    {
-      "id": "mkt:019e90f3-000e-7cc0-ba25-0934a20836ae",
-      "time": "2026-06-04 12:45:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TSMC CEO said the company is doing its utmost to ensure it does not become a supply bottleneck."
-    },
-    {
-      "id": "mkt:019e90f2-c896-7cc0-ba25-03ffba8c4683",
-      "time": "2026-06-04 12:44:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ASML.AS",
-        "Impact bullish",
-        "LRCX.O",
-        "AMAT.O"
-      ],
-      "text": "TSMC CEO says rapid AI-driven growth is leaving many suppliers unable to keep up with demand."
-    },
-    {
-      "id": "4916578",
-      "time": "2026-06-04 12:44:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：人工智慧的快速增長已導致許多供應商難以滿足需求。"
-    },
-    {
-      "id": "mkt:019e90f2-8af5-7cc0-ba24-fc0603da4480",
-      "time": "2026-06-04 12:44:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Sources say India will soon launch an incentive scheme for lithium and nickel processing, allocating about INR 30 billion."
-    },
-    {
-      "id": "4916577",
-      "time": "2026-06-04 12:44:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長表示：我們正盡全力確保臺積電不會成為（供應鏈）瓶頸。"
     }
   ]
 }
