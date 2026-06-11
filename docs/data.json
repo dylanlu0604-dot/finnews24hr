@@ -1,7 +1,174 @@
 {
-  "updated": "2026-06-12 03:28:00",
-  "count": 18445,
+  "updated": "2026-06-12 03:31:46",
+  "count": 18454,
   "items": [
+    {
+      "id": "mkt:019eb82a-edca-7dd8-afc9-dbf6dd738997",
+      "time": "2026-06-12 03:31:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said the US had just reached a major reconciliation with Iran."
+    },
+    {
+      "id": "4931197",
+      "time": "2026-06-12 03:31:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲2.02%，現報50927.148點；納指漲2.56%，現報25813.768點；標普500指數漲1.93%，現報7406.950點。"
+    },
+    {
+      "id": "4931196",
+      "time": "2026-06-12 03:31:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：白宮記者團已被召集前往橢圓形辦公室，出席一項總統公告的簽署儀式。"
+    },
+    {
+      "id": "4931195",
+      "time": "2026-06-12 03:30:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守89美元/桶，日內跌4.46%。"
+    },
+    {
+      "id": "4931194",
+      "time": "2026-06-12 03:30:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲6%，現報67.26美元/盎司。"
+    },
+    {
+      "id": "mkt:019eb82a-7a06-7dd8-afc9-d0ede6989f0b",
+      "time": "2026-06-12 03:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold reclaims $4,200 level】Spot gold continued higher, reclaiming the $4,200 mark after an intraday rise of about $130."
+    },
+    {
+      "id": "4931193",
+      "time": "2026-06-12 03:30:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4230美元/盎司，日內漲2.34%。"
+    },
+    {
+      "id": "4931192",
+      "time": "2026-06-12 03:30:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破67美元/盎司，日內漲5.93%。"
+    },
+    {
+      "id": "4931191",
+      "time": "2026-06-12 03:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4200美元/盎司，日內漲3.21%。"
+    },
+    {
+      "id": "4931190",
+      "time": "2026-06-12 03:30:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們剛剛與伊朗達成了一項偉大的戰爭和解協議。"
+    },
+    {
+      "id": "te:markets:558453",
+      "time": "2026-06-12 03:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil WTI is down by 4.1% — Crude Oil WTI decreased 4.1% to 86.336 USD/Bbl"
+    },
+    {
+      "id": "4931189",
+      "time": "2026-06-12 03:30:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報67.33美元/盎司。"
+    },
+    {
+      "id": "4931188",
+      "time": "2026-06-12 03:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報86.36美元/桶。"
+    },
+    {
+      "id": "mkt:019eb829-d530-7dd8-afc9-cb519fd393b2",
+      "time": "2026-06-12 03:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX priced its IPO at $135.00 a share."
+    },
+    {
+      "id": "4931187",
+      "time": "2026-06-12 03:30:00",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "SPACEX IPO定價為每股135美元，創史上最大規模上市交易。"
+    },
+    {
+      "id": "mkt:019eb829-800e-7dd8-afc9-c36ef8f25930",
+      "time": "2026-06-12 03:29:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall on 11th】At the close, NYMEX July light sweet crude fell $2.32 to $87.71/bbl (-2.58%). ICE Brent August fell $2.72 to $90.38/bbl (-2.92%)."
+    },
+    {
+      "id": "4931186",
+      "time": "2026-06-12 03:29:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4220美元/盎司，日內漲2.10%。"
+    },
+    {
+      "id": "4931185",
+      "time": "2026-06-12 03:27:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價11日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.32美元，收於每桶87.71美元，跌幅為2.58%；8月交貨的倫敦布倫特原油期貨價格下跌2.72美元，收於每桶90.38美元，跌幅為2.92%。"
+    },
     {
       "id": "4931184",
       "time": "2026-06-12 03:26:43",
@@ -169968,97 +170135,6 @@
         "Energy"
       ],
       "text": "U.S. President Trump: wind energy has underperformed."
-    },
-    {
-      "id": "mkt:019e941e-a960-755d-92d5-62263407b14c",
-      "time": "2026-06-05 03:31:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US President Trump said he will invest $700 million in the coal industry."
-    },
-    {
-      "id": "4918091",
-      "time": "2026-06-05 03:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：向煤炭領域投資 7 億美元。"
-    },
-    {
-      "id": "mkt:019e941e-1d69-755d-92d5-585592b29e2e",
-      "time": "2026-06-05 03:31:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. President Trump pledged to take historic action to lower energy prices."
-    },
-    {
-      "id": "mkt:019e941d-7751-755d-92d5-51124dc39975",
-      "time": "2026-06-05 03:30:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump says he will act to harness coal to reduce energy prices."
-    },
-    {
-      "id": "mkt:019e941d-50d9-755d-92d5-48a2b3e5bc03",
-      "time": "2026-06-05 03:30:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "【Daly: Forward guidance not appropriate now】Daly said Fed policy is currently in a good place but the economic outlook is too uncertain to signal a clear path for rates, so providing forward guidance is inappropriate. She identified inflation—driven by rising energy and food prices—as the Fed's primary concern and said returning inflation to target is the top priority. Daly said current data do not show clear productivity gains from AI, but she is optimistic and views 2027 as a potential litmus test; she sees no financial-stability risks from AI-related investment."
-    },
-    {
-      "id": "4918090",
-      "time": "2026-06-05 03:30:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：風能專案運營效果很不理想。"
-    },
-    {
-      "id": "4918089",
-      "time": "2026-06-05 03:29:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將針對煤炭行業採取相關舉措。"
-    },
-    {
-      "id": "mkt:019e941c-bc53-755d-92d5-41afdb9e114c",
-      "time": "2026-06-05 03:29:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Foreign Ministry said the prime minister reiterated in a call with Lebanon's president that Qatar condemns Israel's continued attacks on Lebanon."
-    },
-    {
-      "id": "4918088",
-      "time": "2026-06-05 03:29:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：採取歷史性行動降低能源價格。"
     }
   ]
 }
