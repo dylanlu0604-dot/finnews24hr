@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-11 20:35:00",
-  "count": 18419,
+  "updated": "2026-06-11 20:38:55",
+  "count": 18416,
   "items": [
+    {
+      "id": "te:economy:558377",
+      "time": "2026-06-11 20:38:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Canada Building Permits Fall More Than Expected — Canada’s building permits fell by 7.6% month-on-month to C$12.5 billion in April 2026, reversing a 10.3% increase in the previous month and missing forecasts of a 3.5% decline. The value of non-residential permits dropped 10.5% to C$5.0 billion, led by declines in the institutional (-C$388.2 million) and industrial (-C$323.2 million) components, partly offset by a rise in commercial permits (+C$125.6 million). Residential construction intentions fell 5.5% to C$7.5 billion, mainly due to a decline in multi-family permits (-C$429.7 million), while the value of single-family permits remained virtually unchanged at C$2.7 billion. Despite the monthly decline, the total value of building permits issued in April was 2.7% higher than a year earlier."
+    },
+    {
+      "id": "4930636",
+      "time": "2026-06-11 20:37:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "交易商稱，阿根廷國家風險指數下跌至約460個基點，為米萊擔任總統以來的最低水平。"
+    },
+    {
+      "id": "4930635",
+      "time": "2026-06-11 20:37:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印尼、香港將使用印尼盾與離岸人民幣進行雙邊交易】記者從香港金融管理局獲悉，中國人民銀行、印尼央行、香港金管局11日簽署合作備忘錄，建立合作框架，促進印尼與香港在雙邊交易中使用印尼盾和離岸人民幣。（新華社）"
+    },
+    {
+      "id": "te:economy:558376",
+      "time": "2026-06-11 20:36:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Rise to 3-Month High — The number of people claiming unemployment benefits in the US rose by 4,000 to a three-month high of 229,000 in the first week of June, firmly above market expectations of a decrease to 219,000. Meanwhile, continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose to 24,000 to 1,795,000, slightly above expectations of 1,780,000. While marking a momentary departure from the low figures from early May, the data continued to reflect a relatively strong labor market in historical standards, extending the period of a low-firing labor backdrop. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 89 to 553."
+    },
+    {
+      "id": "mkt:019eb6ae-c35c-7dd8-afc0-1214fb765424",
+      "time": "2026-06-11 20:36:06",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures and Nasdaq-100 futures trimmed gains after a US data release."
+    },
+    {
+      "id": "te:economy:558375",
+      "time": "2026-06-11 20:35:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Hold Near Three-Week Highs After ECB Rate Hike — Germany’s 10-year Bund yields remained steady just above 3.05%, close to three-week highs, following the European Central Bank’s expected 25-basis-point rate increase, its first since 2023. The move came as policymakers highlighted rising energy costs and persistent inflation risks, compounded by the Iran conflict and disruptions to oil shipments through the Strait of Hormuz. The ECB also upwardly revised its inflation forecasts, now expecting headline inflation to reach 3.0% in 2026 (up from 2.6%) and 2.3% in 2027 (up from 2.0%), with core inflation projected at 2.5% for both years (up from 2.3% and 2.2%). Meanwhile, the growth outlook was slightly lowered, with Eurozone GDP now forecast at 0.8% in 2026 (down from 0.9%) and 1.2% in 2027 (down from 1.3%). Elsewhere, Middle East tensions escalated, as repeated military strikes and diplomatic setbacks reduced prospects for a US-Iran resolution."
+    },
+    {
+      "id": "te:economy:558374",
+      "time": "2026-06-11 20:35:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Inflation Above Forecasts — Producer prices for final demand in the US increased 1.1% month-over-month in May 2026, the same as a downwardly revised 1.1% rise in April, and once again above forecasts of 0.7%. Prices of goods soared 2.8%, following a 1.9% jump in April, with over half of advance attributable to a 23.4% increase in gasoline. Prices for diesel fuel, jet fuel, plastic resins and materials, industrial chemicals, and natural gas liquids also rose. In contrast, a 10.1% decline was seen in prices for pork and decreases were also recorded for residential electric power and for sanitary paper products"
+    },
+    {
+      "id": "4930634",
+      "time": "2026-06-11 20:35:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國就業報告發布後，標普500指數和納斯達克100指數期貨漲幅收窄。"
+    },
+    {
+      "id": "te:economy:558373",
+      "time": "2026-06-11 20:35:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Producer Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Core PPI Rises Less than Anticipated — Core producer prices in the United States, which exclude food and energy, rose by 0.4% over a month earlier in May 2026, following a downwardly revised 0.7% increase in April and slightly below market forecasts of a 0.5% advance. On a yearly basis, core producer prices rose by 4.9%, matching April's revised reading, below forecasts of a 5.4% surge."
+    },
+    {
+      "id": "4930633",
+      "time": "2026-06-11 20:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美元指數觸及日內高點，此前特朗普表示，美國將於11日晚對伊朗進行重創。"
+    },
+    {
+      "id": "mkt:019eb6ad-d73e-7dd8-afc0-0e5eb7d9d92a",
+      "time": "2026-06-11 20:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President Lagarde to hold monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "4930632",
+      "time": "2026-06-11 20:34:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐巴基斯坦大使表示：若美方繼續一意孤行，內塔尼亞胡及其在華盛頓的遊說勢力，將會成為這場外交行動失敗的唯一受益者。而美國接連發起軍事行動，只會進一步損耗自身公信力。作為一個超級大國，美國罔顧本國利益，甘願為實行種族隔離、犯下種族滅絕行徑的勢力充當幫兇。"
+    },
+    {
+      "id": "4930631",
+      "time": "2026-06-11 20:34:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST泉為：控股子公司山東泉為、安徽泉為擬申請重整】*ST泉為公告，因受光伏行業外部市場環境等因素影響，公司控股子公司山東泉為、安徽泉為近三年經營業績持續虧損，已明顯缺乏債務清償能力。截至2025年12月31日，山東泉為總資產為3.7億元，總負債為5.93億元，淨資產為-2.23億元；2025年度營業收入為3959.2萬元，淨利潤為-1.22億元。安徽泉為總資產為2.74億元，總負債為2.36億元，淨資產為3772.08萬元；2025年度營業收入為929.53萬元，淨利潤為-1.42億元。公司擬同意山東泉為、安徽泉為向人民法院申請重整。"
+    },
+    {
+      "id": "4930630",
+      "time": "2026-06-11 20:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐巴基斯坦大使表示：美國行事魯莽冒進、動輒訴諸武力、虛張聲勢，這充分說明美方並非真心希望透過務實方式和平解決問題，而是一味推行邊緣政策、玩弄欺詐手段。倘若美方企圖憑藉武力脅迫，向伊朗強加不平等條款，那麼我們可以明確表態：這種企圖絕無可能得逞。"
+    },
     {
       "id": "4930629",
       "time": "2026-06-11 20:34:14",
@@ -169473,173 +169613,6 @@
         "公司"
       ],
       "text": "【*ST嶺南：連續十二個月新增涉案金額約1.39億元】*ST嶺南公告稱，截至2026年6月3日，公司及控股子公司連續十二個月內新增未披露訴訟、仲裁事項涉案金額約1.39億元，佔最近一期經審計歸屬於母公司淨資產絕對值的10.33%。其中，公司及控股子公司作為原告涉案金額1386.01萬元，佔比9.94%；作為被告、第三人涉案金額1.26億元，佔比90.06%。部分案件結果未出，對利潤影響不確定。"
-    },
-    {
-      "id": "mkt:019e92a4-c883-7eec-b8a9-a227c6ae0499",
-      "time": "2026-06-04 20:38:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's prime minister said an announcement on an IMF inspection mission is expected soon."
-    },
-    {
-      "id": "4917542",
-      "time": "2026-06-04 20:38:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界黃金協會：實物市場降溫疊加能源風險 黃金或延續疲弱表現】世界黃金協會：部分實物黃金市場似乎有所走弱，印度和韓國出現貼水交易，日本市場也有零星拋售跡象。全球黃金ETF資金流入在5月表現疲弱。隨著霍爾木茲海峽對峙持續，不排除官方部門不時進行黃金互換或出售的可能性。短期內最大的風險可能來自能源市場。油價正主導市場焦點、通脹預期以及債券收益率走勢。如果庫存下降推動能源價格大幅上漲，可能首先推高債券收益率、提振美元，並延長黃金當前的疲弱表現，隨後市場才會逐漸反映出其更長期的影響。"
-    },
-    {
-      "id": "mkt:019e92a4-b9f7-7eec-b8a9-991a5e8f0a4c",
-      "time": "2026-06-04 20:38:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【World Gold Council: physical-market cooling and energy risks may prolong gold weakness】World Gold Council says parts of the physical gold market have weakened: India and South Korea trading at discounts, Japan showing sporadic selling, and global gold ETF inflows weak in May. With the Strait of Hormuz standoff ongoing, official holders could intermittently conduct gold swaps or sales. Near-term biggest risk is the energy market—oil is driving inf expectations and bond-yield moves. If inventories fall and energy prices spike, yields would likely rise first, lifting the USD and extending gold's current weakness, with any longer-term safe-haven response to come later."
-    },
-    {
-      "id": "4917541",
-      "time": "2026-06-04 20:38:28",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【深交所向唯特偶下發關注函 要求說明公司目前主營產品分別應用在光模組生產三大環節的具體情況】深交所釋出《關於對深圳市唯特偶新材料股份有限公司的關注函》，其中指出，近期，公司股價漲幅較大，5月20日觸及嚴重異常波動，6月4日觸及漲停。4月25日至5月21日，公司路演頻繁，共計釋出7份投資者關係記錄表，並多次在問答環節提及光模組、先進封裝等熱點領域相關業務。要求公司說明光模組生產商在光模組及其部件生產過程中各環節所需使用錫膏的含量，對應單價及金額、佔光模組產品價格的比例；說明公司目前主營產品分別應用在光模組生產三大環節的具體情況，包括各環節對應的主要客戶名稱、最近一年及一期已實現的銷售金額、毛利率、在手訂單金額。請公司自查並列示近期接受媒體採訪、機構和投資者調研、回覆投資者諮詢等情況，說明是否存在違反資訊披露公平性原則的情形；並進一步說明公司在上述期間多次開展特定物件調研、路演活動等投資者關係活動的具體考慮、方案設計的具體職能部門，履行的內部程式、審批人員，較此前次數、頻率均顯著增加的原因及合理性，光模組應用、先進封裝領域應用的提問人員。"
-    },
-    {
-      "id": "4917540",
-      "time": "2026-06-04 20:38:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合肥城建：持股5%以上股東及董高擬減持不超1.0014%股份】合肥城建公告稱，持股22.43%的股東工投控股，計劃2026年6月29日至9月28日以集中競價方式減持不超8,032,900股，佔總股本不超1%；董事兼總經理王慶生持有0.0057%股份，同期擬減持不超11,378股，佔總股本不超0.0014%。本次減持計劃存在不確定性，不會導致公司控制權變更，也不影響公司治理及經營。"
-    },
-    {
-      "id": "te:economy:556531",
-      "time": "2026-06-04 20:38:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Unit Labour Costs QoQ",
-        "Importance 1"
-      ],
-      "text": "US Labor Costs Rise Less Than Initially Thought — Unit labor costs in the US nonfarm business sector rose by 1.8% in Q1 2026, slowing from a downwardly revised 2.1% increase in Q4 2025 and falling short of the preliminary estimate of 2.3%. The deceleration reflected a 2.1% rise in hourly compensation, down from 3.7% in the previous quarter, while productivity grew by just 0.3%, compared to a 1.6% increase in Q4. In the manufacturing sector, unit labor costs increased by 2.2%, driven by a 5.5% surge in hourly compensation and a 3.2% rise in productivity. On an annual basis, labor costs edged up by 0.5%."
-    },
-    {
-      "id": "4917539",
-      "time": "2026-06-04 20:37:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【退市岩石：股票交易異常波動 已進入退市整理期】退市岩石公告稱，截至6月4日，公司股票連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。公司於5月22日收到上交所終止其股票上市的決定，6月1日起進入15個交易日的退市整理期，預計最後交易日為6月22日，屆滿後5個交易日內將被摘牌。公司經營正常，但自2024年以來營收大減、現金流承壓。控股股東股份已全部被司法凍結，實控人已被採取刑事強制措施。"
-    },
-    {
-      "id": "4917538",
-      "time": "2026-06-04 20:37:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古茗澄清：本公司的公眾持股量百分比仍高於25%的初始指定門檻】古茗在港交所公告，本公司謹此澄清，於本公告日期，本公司的公眾持股量百分比仍高於25%的初始指定門檻，而本公司繼續選用初始指定門檻以遵守上市規則第13.32B條項下的最低公眾持股量要求。本公司擬於日後選用替代門檻，以於進行以資本管理為目的之交易時享有更大靈活性。"
-    },
-    {
-      "id": "te:economy:556530",
-      "time": "2026-06-04 20:37:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Nonfarm Productivity QoQ",
-        "Importance 1"
-      ],
-      "text": "US Productivity Revised Lower in Q1 — US nonfarm business sector labor productivity rose by 0.3% in the first quarter of 2026, less than 0.8% in the preliminary estimate and compared to a 1.6% increase in the previous quarter. Output increased 1% and hours worked rose 0.7%, compared to 1.5% and 0.7% respectively in the first estimate. In the manufacturing sector, productivity surged by 3.2%, less than 3.6% in the previous release as output increased 3.3% and hours worked saw no growth."
-    },
-    {
-      "id": "4917537",
-      "time": "2026-06-04 20:37:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃及總理：預計國際貨幣基金組織代表團審查結果公告即將釋出。"
-    },
-    {
-      "id": "4917536",
-      "time": "2026-06-04 20:36:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英法敲定計劃 擬在美伊協議達成後數日內主導海峽掃雷行動】據知情人士透露，英國和法國已敲定計劃，將在美國與伊朗達成重新開放霍爾木茲海峽航道的協議後數日內，領導一項在該水道的多國掃雷行動。五位熟悉談判的人士表示，多個國家的軍事規劃人員已處於加入清除海峽內伊朗革命衛隊所佈設水雷行動的計劃制定後期階段。週三，美國總統特朗普淡化了伊朗水雷對商船構成的威脅。他表示，美軍已“清除了大部分水雷”。一天前，美國國務卿魯比奧向參議員們表示，伊朗在海峽的大部分割槽域佈設了水雷。特朗普補充說，一旦伊朗簽署結束敵對行動的諒解備忘錄，海峽將“立即”重新開放。然而，兩國正就條款達成一致而陷入困境，伊朗外長週四表示，在以色列繼續對黎巴嫩南部發動攻勢期間，他們的談判沒有取得任何進展。"
-    },
-    {
-      "id": "te:economy:556529",
-      "time": "2026-06-04 20:36:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Initial Jobless Claims Rise to 3-Month High — The number of people claiming unemployment benefits in the US rose by 13,000 to 225,000 in the last week of May, above market expectations of 212,000. It was the highest initial claim count since the first week of February. Still, continuing jobless claims, which are seen as a gauge of outstanding unemployment in the US, eased by 8,000 in the earlier week to 1,777,000. While failing to maintain the low levels of the last quarter, the figure remained within the average of the last two years, extending the period of a low-firing labor backdrop. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 37 to 464."
-    },
-    {
-      "id": "4917535",
-      "time": "2026-06-04 20:36:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珂瑪科技：擬用5346.71萬元募集資金置換自籌資金】珂瑪科技公告稱，公司於2026年6月4日召開董事會，同意使用5346.71萬元募集資金置換預先投入募投專案及已支付發行費用的自籌資金。截至2026年5月31日，公司以自籌資金實際已投入募投專案5125.76萬元，預先支付發行費用220.96萬元。本次置換符合相關法規規定，不影響募投計劃，也不存在變相改變投向和損害股東利益的情形。"
-    },
-    {
-      "id": "mkt:019e92a2-af5d-7eec-b8a9-92ff127fdc10",
-      "time": "2026-06-04 20:36:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UK, France set plan to lead Strait of Hormuz mine‑clearing days after US‑Iran deal】Britain and France have finalized plans to lead a multinational mine‑clearing operation in the Strait of Hormuz within days of a US‑Iran agreement to reopen the shipping lane. Military planners from several countries are in late‑stage preparations to join efforts to clear mines laid by the IRGC. President Trump downplayed the threat on Wednesday, saying US forces have \"cleared most of the mines\"; Secretary of State Rubio told senators a day earlier that Iran had placed mines across much of the Strait. Trump said the waterway would reopen \"immediately\" once Iran signs a memorandum of understanding to end hostilities, but negotiators remain deadlocked over terms and Iran's foreign minister said Thursday there has been no progress amid Israel's continued offensive in southern Lebanon."
-    },
-    {
-      "id": "4917534",
-      "time": "2026-06-04 20:35:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江西省與科大訊飛簽署戰略合作協議】據江西省人民政府訊息，6月3日，江西省與科大訊飛股份有限公司簽署戰略合作協議。江西省省長葉建春會見科大訊飛董事長劉慶峰一行，並共同見證簽約。葉建春表示，希望科大訊飛以此次簽約為契機，更好對接江西的產業、資源等優勢，加大在江西的投資力度，深度參與江西“人工智慧+”場景建設，帶動更多人工智慧產業鏈上下游企業來江西投資興業，助力江西構建更加完善的人工智慧產業生態。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606043760607261",
-      "time": "2026-06-04 20:35:44",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第一季度勞動力成本終值環比上升1.8%，預估上升2.4%。"
-    },
-    {
-      "id": "4917533",
-      "time": "2026-06-04 20:35:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西探路AI賦能製造業煥新】4日，由廣西壯族自治區政府主辦、廣西壯族自治區工業和資訊化廳承辦的2026年廣西“人工智慧+製造”大會暨發展對接活動在廣西南寧舉辦。會上，廣西“人工智慧+製造”十大引領應用場景釋出，繪就出智造未來的“路線圖”。記者採訪瞭解到，政策賦能的牽引支撐作用愈發凸顯。廣西密集印發“人工智慧+製造”行動方案（2025—2027年）等系列配套政策，透過多舉措完善平臺載體、補齊產業要素、夯實人才根基，積極推進AI賦能製造業煥新，努力為產業發展鋪路蓄力。同時，本次活動同步釋出了廣西及各地市“人工智慧+製造”診斷報告，直面西部省區依託人工智慧賦能製造業程序中的難點堵點。（新華社）"
     }
   ]
 }
