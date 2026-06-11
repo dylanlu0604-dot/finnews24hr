@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-12 05:04:04_
-_本檔包含 3630 則快訊，約 673045 字_
+_更新時間：2026-06-12 05:53:38_
+_本檔包含 3637 則快訊，約 673196 字_
+
+---
+
+### 2026-06-09 21:04:34  #公司 #觀點
+
+【國金證券：擬1.5億元-3億元回購公司股份】國金證券6月9日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於1.5億元且不超過3億元。回購價格不超過13元/股。回購股份將用於維護公司市場價值及股東權益。回購期限為自董事會審議透過本次回購方案之日起3個月內。
+
+---
+
+### 2026-06-09 21:04:28  #MKT News
+
+American Airlines agreed to release 35 mln gallons of sustainable aviation fuel over three years, cutting nearly 300,000 tonnes of CO2e.
+
+---
+
+### 2026-06-09 21:04:22  #公司
+
+【*ST新元：與財務投資人簽署重整投資協議】*ST新元(300472)6月9日公告，公司與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。6月8日，公司與財務投資人臨川國控簽署《重整投資協議》。
+
+---
+
+### 2026-06-09 21:04:12  #觀點
+
+摩根大通：如果通脹持續更長時間處於高位，則可能存在一定風險。
+
+---
+
+### 2026-06-09 21:03:52  #其他
+
+博通(AVGO.O)：首期350億美元將用於支援Anthropic此前宣佈的超過1吉瓦計算基礎設施的產能擴建。
+
+---
+
+### 2026-06-09 21:03:48  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) said a first tranche of $35 bln will support Anthropic's previously announced expansion of more than 1 GW of compute infrastructure capacity.
+
+---
+
+### 2026-06-09 21:03:29  #MKT News #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) premarket gains widen to 3%.
+
+---
+
+### 2026-06-09 21:03:25  #國際
+
+美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。
+
+---
+
+### 2026-06-09 21:02:40  #其他
+
+博通盤前股價漲幅擴大至3%。
+
+---
+
+### 2026-06-09 21:02:20  #公司
+
+【恆鋒資訊：實際控制人歐霖傑解除留置並取保候審】恆鋒資訊公告，公司收到控股子公司福建微尚生活服務有限公司通知，相關監察機關已解除對該公司法定代表人、公司實際控制人兼副董事長、總裁歐霖傑的留置措施，相關公安機關決定對其取保候審。同日，歐霖傑已返回工作崗位。
+
+---
+
+### 2026-06-09 21:02:15  #國際
+
+烏克蘭總統澤連斯基稱其已與拉脫維亞簽署無人機協議。
+
+---
+
+### 2026-06-09 21:01:45  #MKT News
+
+Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure.
+
+---
+
+### 2026-06-09 21:01:45  #公司
+
+博通(AVGO.O)、阿波羅、黑石集團(BX.N)成立戰略平臺，以加速超過20吉瓦的全球人工智慧部署。
+
+---
+
+### 2026-06-09 21:01:34  #市場 #焦點
+
+焦煤連續主力合約日內跌1%，現報1360.00元。
+
+---
+
+### 2026-06-09 21:00:30  #MKT News
+
+IMF says Nigeria's central bank should maintain tight monetary policy.
+
+---
+
+### 2026-06-09 21:00:28  #MKT News #Important #Commodities #Energy #Industrial Metals #WTI #Impact bearish #Copper #Impact bullish
+
+Night session open: China's domestic commodity futures main contracts were mostly lower. SC crude oil, fuel oil and styrene (EB) fell about 2%; synthetic rubber, PET bottle flake, PTA, paraxylene (PX) and short fiber dropped over 1%. On the upside, SHFE tin rose nearly 2%, alumina gained more than 1%, and SHFE copper and zinc were up about 1%.
+
+---
+
+### 2026-06-09 21:00:19  #其他
+
+國際貨幣基金組織：奈及利亞應保持緊縮貨幣政策以抑制通貨膨脹。
+
+---
+
+### 2026-06-09 21:00:03  #市場 #焦點
+
+PTA連續主力合約日內跌1%，現報6244.00元。
+
+---
+
+### 2026-06-09 21:00:02  #市場
+
+【國內期貨夜盤開盤】多晶矽連續跌3.55%，碳酸鋰連續漲3.45%，集運指數歐線期貨連續漲3.08%，雞蛋連續漲2.78%，菜籽連續跌2.40%。
+
+---
+
+### 2026-06-09 20:59:39  #國際
+
+【英法澳等五國發布新制裁追究以色列定居者責任，警告以政府採取緊急措施】據半島電視臺網站6月9日報道，英國、澳大利亞、加拿大、法國和挪威五國當地時間8日發表宣告，稱已採取協同行動追究以色列強硬派定居者的責任，以回應被佔領約旦河西岸日益惡化的局勢。報道稱，上述五國在釋出新制裁措施後警告稱，如果以色列政府未能採取緊急措施解決當地局勢，他們準備隨時採取進一步行動。（環球網）
+
+---
+
+### 2026-06-09 20:58:12  #資料
+
+【美銀：5月CPI料創2023年4月以來最高水平】美銀的一份報告顯示，定於週三公佈的5月CPI同比增幅料升至4.2%，為2023年4月以來的最高水平。這一增幅符合接受《華爾街日報》調查的經濟學家的預期。該報告稱，對於政策前景，焦點可能會放在對核心個人消費支出價格指數(PCE)通脹的影響上，因為自去年11月以來，該指數一直高於CPI。
+
+---
+
+### 2026-06-09 20:58:01  #MKT News #NVO #Impact bullish #LLY
+
+【Goldman Sachs lifts global obesity-drug forecast to $114bn by 2030 as oral GLP-1s go mainstream】Goldman Sachs raised its forecast for the global obesity-drug market to $114bn by 2030, up roughly 13% from a $101bn projection in December, citing rapid adoption of oral GLP-1 obesity drugs and a shift from a niche, high-price segment to a mass-consumer market.
+
+---
+
+### 2026-06-09 20:57:49  #MKT News
+
+PTI reports India will raise domestic aviation fuel prices by 10%.
+
+---
+
+### 2026-06-09 20:57:25  #公司
+
+【中國金茂：5月簽約銷售金額104.93億元】6月9日，中國金茂在港交所公告，2026年5月份，集團取得簽約銷售金額人民幣104.93億元，簽約銷售建築面積368,427.48平方米。截至2026年5月31日止5個月，集團累計取得簽約銷售金額共計人民幣417.27億元（其中包含（如有）長沙梅溪湖國際新城專案、南京青龍山國際生態新城專案、寧波生命科學城專案、嘉興上海之窗智慧科學城專案、鄭州二七區馬寨新城專案、溫州鰲江國際新城專案、金華金茂未來科學城專案及上海橫沔城市運營專案的成交銷售金額），以及累計簽約銷售建築面積1,682,883.74平方米。
+
+---
+
+### 2026-06-09 20:57:08  #公司
+
+【我國成功發射衛星網際網路技術試驗衛星】記者從工業和資訊化部瞭解到，2026年6月9日，我國在酒泉衛星發射中心使用朱雀二號改進型遙六運載火箭，成功將“中國移動02星”送入預定軌道。中國移動02星是由中國行動通訊集團公司牽頭研製的衛星網際網路技術試驗衛星，主要用於開展手機直連衛星、天地網路融合等技術試驗驗證。工業和資訊化部前期指導完成了相關衛星的國內頻率協調，頒發了空間無線電臺執照和無線電頻率使用許可，為衛星網際網路技術試驗衛星專案的順利實施提供了有力支撐。（央視新聞）
+
+---
+
+### 2026-06-09 20:56:50  #公司
+
+【永泰運：調整2024年度向特定物件發行股票方案】永泰運公告，公司於2026年6月9日召開第三屆董事會第八次會議，審議透過了《關於調整公司2024年度向特定物件發行股票方案的議案》等相關議案。本次發行方案主要調整了定價基準日、發行價格及定價原則。調整前定價基準日為公司第二屆董事會第二十六次會議決議公告日（2024年12月5日），發行價格為定價基準日前20個交易日公司A股股票交易均價的80%。調整後定價基準日為發行期首日，發行價格為不低於定價基準日前20個交易日公司股票交易均價的80%。本次向特定物件發行股票募集資金總額與調整前保持不變，即不超過人民幣3.92億元，發行數量不超過2185.06萬股。
 
 ---
 
@@ -21753,119 +21909,5 @@ UK Ministry of Defence says Sweden is leading a new agreement to supply Gripen f
 ### 2026-06-08 18:22:12  #MKT News #Market Regions #Greater China
 
 【Price, Cost and Certification Center holds talks at China Academy of Information and Communications Technology】Deputy director Cheng Gang led the Price, Cost and Certification Center delegation to the China Academy of Information and Communications Technology to discuss construction and application of an emergency location service auxiliary platform. Representatives from the center’s New Energy Price and Cost Department attended.
-
----
-
-### 2026-06-08 18:21:50  #國際
-
-英國國防部：瑞典牽頭達成一項重大新協議，向烏克蘭供應 “鷹獅” 戰鬥機。該機型超三成零部件在英國生產，預計將為英國創造 5000 餘個就業崗位、惠及國內 50 餘家企業，併為經濟帶來 5 億英鎊提振。 支援烏克蘭，助力英國本土發展。
-
----
-
-### 2026-06-08 18:21:50  #MKT News #Commodities #Energy
-
-Industry sources say Bharat Petroleum (BPCL) plans to shut its 120,000 bpd crude unit and associated secondary processing units at the Mumbai refinery for 3-4 weeks in September–October for maintenance.
-
----
-
-### 2026-06-08 18:21:30  #宏觀
-
-【國家發改委價格成本和認證中心赴中國信通院開展座談交流】近日，國家發改委價格成本和認證中心副主任成鋼同志帶隊赴中國資訊通訊研究院開展座談交流。雙方圍繞緊急位置服務輔助平臺建設、應用等有關問題展開交流。
-
----
-
-### 2026-06-08 18:21:03  #公司 #市場 #央行 #國際
-
-【德國商業銀行：美國加息押注推高歐元兌美元隱含波動率】德國商業銀行的Thu Lan Nguyen表示，在期權市場對沖歐元兌美元可能出現的波動的成本（即隱含波動率）隨著美國加息預期的升溫而上升。倫敦證券交易所集團的資料顯示，隨著市場完全反映了年底前美國加息的預期，歐元兌美元的一個月隱含波動率隔夜觸及5.833%的兩週高點。Nguyen在一份報告中說，相當長一段時間以來，市場預計美聯儲將維持利率不變，這使得外匯波動率保持在低位。她表示，未來的波動率取決於美聯儲是否預計會更激進地加息以應對能源價格衝擊，考慮到美國經濟充滿韌性，這是有可能的。
-
----
-
-### 2026-06-08 18:20:29  #公司
-
-【步長製藥：房克瑞擬轉讓濟南步長馳騁2%股權】步長製藥公告，公司控股子公司濟南步長馳騁的股東房克瑞擬將其所持有的濟南步長馳騁1.00%股權以人民幣5942元的價格轉讓給曾令明慧；將其所持有的濟南步長馳騁1.00%股權以人民幣5942元的價格轉讓給何宇。公司同意放棄優先受讓權。本次股權轉讓完成後，公司持有濟南步長馳騁91.00%股權比例不變。
-
----
-
-### 2026-06-08 18:20:15  #公司
-
-【倍輕鬆：二審上訴金額為4451.49萬元】倍輕鬆公告，公司作為一審被告（反訴原告）、二審上訴人涉及的訴訟案件已進入二審程式。一審本訴初始請求金額為人民幣183.12萬元，公司一審反訴最終請求金額為人民幣4451.49萬元。二審上訴請求金額為人民幣4451.49萬元。公司已就一審判決不服提起上訴，本次訴訟二審審理結果、最終責任認定及後續進展、執行情況存在不確定性，最終的判決結果尚不確定。
-
----
-
-### 2026-06-08 18:20:10  #公司
-
-【退市觀典：上交所將在6月10日對公司股票予以摘牌】退市觀典公告，截至2026年6月8日，公司股票已於退市整理期交易滿15個交易日，退市整理期已結束。上海證券交易所將在2026年6月10日對公司股票予以摘牌，公司股票終止上市。
-
----
-
-### 2026-06-08 18:20:04  #其他
-
-【螞蟻國際推移動智慧體協議 破解AI智慧體購物支付難題】螞蟻國際近日面向全球推出移動智慧體協議（AMP），統一解決AI智慧體購物中的支付、認證與信任難題，實現商戶"一次構建、全球運營"。該協議首次將智慧體身份、授權、支付、結算及信任納入統一框架，填補了全球智慧體商業基礎設施空白。目前螞蟻國際已連結全球20億消費者賬戶及1.5億商戶，並與千問、Gemini等主流AI平臺打通接入。
-
----
-
-### 2026-06-08 18:19:59  #MKT News #Market Regions #Europe & UK
-
-【Han Zheng visits Belarus】Vice President Han Zheng visited Belarus from June 6-8, 2026 (local time) at the invitation of the Government of the Republic of Belarus. In Minsk he met separately with President Lukashenko, Prime Minister Turchin and First Deputy Prime Minister Snopkov.
-
----
-
-### 2026-06-08 18:19:54  #國際
-
-【韓正訪問白俄羅斯】當地時間2026年6月6日至8日，應白俄羅斯共和國政府邀請，國家副主席韓正訪問白俄羅斯，在明斯克分別會見白俄羅斯總統盧卡申科、總理圖爾欽、第一副總理斯諾普科夫。（新華社）
-
----
-
-### 2026-06-08 18:19:53  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Israel Defense Forces said the Iranian facilities that were struck produced specialized materials used to develop ballistic missiles that pose a direct threat to Israel and its citizens. The facilities are key components of Iran's existing missile-production infrastructure.
-
----
-
-### 2026-06-08 18:19:51  #MKT News
-
-Israel Defense Forces said the strike was one of multiple attacks on the complex carried out under Operation "Roaring Lion".
-
----
-
-### 2026-06-08 18:19:35  #其他
-
-名創優品：預計截至2026年3月31日止年度淨利潤將增長約145%。
-
----
-
-### 2026-06-08 18:19:00  #公司 #國際
-
-業內訊息人士透露，印度巴拉特石油公司（BPCL） Mumbai煉油廠一套日加工量12萬桶的原油裝置及多套二次裝置將於9-10月停工，開展為期3-4周的檢修。
-
----
-
-### 2026-06-08 18:18:53  #國際
-
-菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成32人死亡。（新華社）
-
----
-
-### 2026-06-08 18:18:42  #公司
-
-【北京軟體和資訊服務業協會工業網路與資料安全工作委員會正式成立】6月5日，北京軟體和資訊服務業協會工業網路與資料安全工作委員會（以下簡稱“工委會”）成立大會在北汽新能源享界超級工廠召開。工委會由北汽科服、中國信通院、國家工業資訊保安發展研究中心、中國工業網際網路研究院、中國軟體評測中心、小米集團、啟明星辰、和利時等22家科研院所、企業代表共同發起成立，同步組建12人專家服務團。專家團隊覆蓋政策研究、標準編制、安全測評、技術評審等專業領域，將為工委會各項工作開展、行業創新發展、企業數字化轉型提供專業智力支撐與技術指導。
-
----
-
-### 2026-06-08 18:18:37  #公司 #市場
-
-【津膜科技：股票交易異常波動 不存在應披露未披露事項】津膜科技公告稱，公司股票2026年6月4日、6月5日、6月8日連續三個交易日內收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無需更正補充，經營及內外部環境未變，不存在應披露未披露事項，異動期間控股股東、實控人未買賣公司股票。2025年公司淨虧損3304.13萬元，同比下降399.09%，提醒投資者注意風險。
-
----
-
-### 2026-06-08 18:18:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel Defense Forces said this morning the air force, guided by military intelligence, struck multiple facilities inside the Mahshahr petrochemical complex in southwest Iran that had been used by the Iranian armed forces to produce and export weapons precursors.
-
----
-
-### 2026-06-08 18:18:28  #公司 #市場
-
-【祥和實業：生產經營活動一切正常】祥和實業公告，公司股票於2026年6月3日、6月4日、6月5日連續3個交易日內日收盤價格漲幅偏離值累計達到20%，2026年6月8日，公司股票再次以漲停價收盤，股票價格近期波動較大。2026年第一季度，公司實現營業收入1.81億元，同比下降4.58%。截至目前，公司生產經營活動一切正常，內外部經營環境未發生重大變化。主要客戶關係穩定，客戶群體未發生較大變化。
 
 ---

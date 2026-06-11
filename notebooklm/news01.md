@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-12 05:04:04_
-_本檔包含 3777 則快訊，約 673592 字_
+_更新時間：2026-06-12 05:53:38_
+_本檔包含 3782 則快訊，約 673031 字_
+
+---
+
+### 2026-06-12 05:52:50  #公司 #市場
+
+【奧多比股價盤後下跌 CFO離職訊息蓋過業績和展望利好】奧多比稱，其首席財務官將離職。在執行長Shantanu Narayen於3月宣佈將卸任後，這意味著公司資深領導層的核心陣容將再少一員。奧多比周四在宣告中表示，首席財務官Dan Durn將於週一離任。公司正在繼續尋找新CEO，接替已任職18年的Narayen。另外，晶片製造商美滿電子科技宣佈，Durn將加入該公司。CFO離職的訊息蓋過了奧多比的季度業績和本期展望，二者均超分析師預期。“每當CEO換人時，通常不會希望CFO也在同一時間更替，”D.A. Davidson & Co.分析師Gil Luria在接受採訪時表示，“顯然，投資者目前對這兩個職位同時過渡感到不安。”
+
+---
+
+### 2026-06-12 05:50:19  #國際
+
+據伊朗塔斯尼姆通訊社： 伊朗霍爾木茲省一名訊息人士表示，錫裡克地區未出現彈藥襲擊及衝突情況，相關聲響來自海上，與霍爾木茲海峽有關。
+
+---
+
+### 2026-06-12 05:49:16  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+TASNIM NEWS said there have been no shell impacts or clashes in the Sirik area as of now. Sounds heard originated at sea and were linked to the Strait of Hormuz.
+
+---
+
+### 2026-06-12 05:48:25  #國際
+
+據伊朗塔斯尼姆通訊社：協議草案尚未獲得伊朗官方最終批准。 據知情訊息人士稱，在軍事與外交施壓未果後，美方不再要求修改伊朗提出的十四點回應內容。 伊朗已拒絕美方最新修訂提議，協議文字仍由伊朗相關機構審議。 在審議工作結束前，各方需審慎看待相關傳聞與猜測。
+
+---
+
+### 2026-06-12 05:44:59  #公司 #國際
+
+Deltec資產管理公司專注於新興市場股票的投資組合經理Greg Lesko：市場感覺到我們終於接近這場（與伊朗相關的）衝突的尾聲了，無論是如目前預期的那樣達成協議，還是繼續轟炸。魔鬼藏在細節中，而我們目前還沒看到這些細節。
+
+---
+
+### 2026-06-12 05:34:45  #其他
+
+加拿大總理卡尼：加拿大正尋求與墨西哥達成雙邊協議。
+
+---
+
+### 2026-06-12 05:33:12  #國際
+
+【伊朗錫裡克地區海岸附近傳出爆炸聲】據伊朗媒體12日報道，伊朗錫裡克地區海岸附近多次傳出爆炸聲，原因不明。 (新華社)
+
+---
+
+### 2026-06-12 05:33:07  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+NVIDIA (NVDA.O) shareholder meeting scheduled for June 24; individual investors may participate online.
+
+---
+
+### 2026-06-12 05:32:57  #其他
+
+英偉達股東大會定於 6 月 24 日舉行，個人可線上參會。
+
+---
+
+### 2026-06-12 05:31:55  #MKT News #Important #Commodities #Energy #Precious Metals #XAUUSD #Impact bullish #WTI
+
+【CME plans 24/7 trading for new crude and gold contracts】CME said, pending regulatory review, it will offer 24/7 trading for new, smaller crude and gold futures. The new crude contract will be one-tenth the size of CME’s micro WTI and is scheduled to launch on Aug. 30. CME’s existing 1-ounce gold futures will move to around-the-clock trading from July 26. Derek Sammann, head of global commodity markets, said regulated 24/7 products will allow traders to manage exposures immediately amid geopolitical uncertainty.
+
+---
+
+### 2026-06-12 05:29:54  #MKT News #WTI #Impact bearish #SHEL.O #Impact mixed
+
+Venezuela signed an oil and gas agreement with Shell that includes Shell's participation in the Loran offshore gas field project.
+
+---
+
+### 2026-06-12 05:29:51  #公司
+
+日產汽車總裁：公司將藉助人工智慧把新車型的研發週期縮短一半，加快產品上市節奏。
+
+---
+
+### 2026-06-12 05:27:20  #國際
+
+加拿大總理卡尼：“推遲密歇根-安大略”大橋開放是美國的請求。
+
+---
+
+### 2026-06-12 05:23:44  #其他
+
+加拿大總理卡尼： 應美方要求，已同意推遲底特律 - 溫莎大橋的通車時間。
+
+---
+
+### 2026-06-12 05:21:55  #國際
+
+伊朗官方媒體：錫裡克海岸附近傳出爆炸聲，事發原因及爆炸來源尚不明確。
+
+---
+
+### 2026-06-12 05:21:42  #MKT News #Important
+
+Refinitiv, citing Iranian media, reported explosions were heard near the coast of Sirik, Iran; cause and origin unclear.
+
+---
+
+### 2026-06-12 05:18:31  #MKT News #Important
+
+CME will expand round‑the‑clock trading hours for WTI crude oil and gold.
+
+---
+
+### 2026-06-12 05:18:07  #公司 #市場 #國際
+
+美國芝加哥商業交易所集團（CME）將WTI原油與黃金交易時間拓展至7*24交易模式。
+
+---
+
+### 2026-06-12 05:18:02  #公司
+
+【SpaceX持股方Ark稱軌道資料中心或帶來3,000億美元年營收】Ark Investment Management的Brett Winton表示，按當前租賃費率計算，到本十年末，SpaceX透過部署數十吉瓦的軌道資料中心容量，可能產生3,000億美元年營收。Ark首席未來學家Winton週四在SpaceX創紀錄的首次公開募股(IPO)定價之前作出上述評估，詳細解釋了他眼中這家公司背後的估算邏輯。SpaceX目前是Ark旗下風投基金的最大持倉。SpaceX的機遇包括新型助推火箭以及利潤豐厚的星鏈衛星網際網路業務。“單是星鏈業務，就能在六個月內收回現金投入，”Winton週四在接受採訪時表示，因為一次滿載衛星的SpaceX發射成本約為5億美元，但這些衛星在五年壽命期內每年將產生10億美元收入。
+
+---
+
+### 2026-06-12 05:15:24  #市場
+
+富時A50期指連續夜盤收漲0.81%，報15318點。
+
+---
+
+### 2026-06-12 05:15:21  #公司
+
+Adobe高管表示，公司計劃敲定下一任執行長人選，使其主導 2027 財年及後續規劃制定工作。
+
+---
+
+### 2026-06-12 05:06:04  #MKT News
+
+US State Department approves sale of FIM-92K Stinger missiles to Brazil, estimated value $330 million.
+
+---
+
+### 2026-06-12 05:05:15  #其他
+
+【世界盃揭幕戰 東道主墨西哥隊2-0戰勝南非隊】北京時間6月12日3時，2026年美加墨世界盃揭幕戰（A組第一輪）在阿茲特克球場舉行，東道主墨西哥隊迎戰南非隊。最終，東道主墨西哥隊2-0戰勝南非隊。
 
 ---
 
@@ -22664,114 +22802,5 @@ Sources said India lodged a "strong protest" with U.S. diplomat Jason Miks.
 ### 2026-06-11 00:12:12  #MKT News #Brent #Impact bullish #WTI #XAUUSD
 
 Sources said India has summoned the US deputy chief of mission in New Delhi after an oil tanker was attacked off the coast of Oman; three Indian nationals are missing.
-
----
-
-### 2026-06-11 00:12:11  #國際
-
-訊息人士透露，因阿曼灣油輪遇襲造成三名印度人失蹤，印度召見了美國駐新德里使團副團長。印度已就此事向美國外交官賈森·米克斯提出“強烈抗議”。
-
----
-
-### 2026-06-11 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.46% Lower — The FTSE MIB Index fell 234 points or 0.46 percent on Wednesday to close at 50029 points. Leading the losses are Prysmian (-4.35%), Stellantis N.V. (-3.83%) and Davide Campari-Milano (-1.68%). Top gainers were Banco BPM SPA (3.70%), Poste Italiane (2.36%) and Unipol Gruppo (2.15%).
-
----
-
-### 2026-06-11 00:11:15  #公司 #市場 #焦點
-
-【阿波羅資產管理高管：太多人工智慧支出被耗費於低智商任務】阿波羅全球管理的John Zito表示，太多公司將AI工具用於相對平常的任務，這並不足以證明高昂成本和算力投入的合理性。“我們的智商太低了，以至於竟然要用AI工具來搜尋法式吐司的做法，”阿波羅資產管理聯席總裁Zito說道，“這就是價格上漲的原因。”他表示，只有“少數”人有能力和必要使用最前沿的AI工具。談到Anthropic PBC最新的Claude AI模型，他笑稱自己的智商“沒高到能使用Mythos 2強大功能的程度”。
-
----
-
-### 2026-06-11 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.97% Lower — The DAX Index dropped 238 points or 0.97 percent on Wednesday to close at 24195 points. Losses were led by Siemens Energy (-6.49%), SAP (-3.28%) and Commerzbank (-2.03%). Offsetting the fall, top gainers were Deutsche Telekom (3.06%), Adidas (2.84%) and Symrise (2.47%).
-
----
-
-### 2026-06-11 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.51% Lower — The CAC 40 Index decreased 42 points or 0.51 percent on Wednesday to close at 8162 points. The decline was led by Edenred (-7.85%), Stellantis NV (-3.83%) and Societe Generale (-2.28%). On the upside, the strongest performers were Orange (2.07%), Veolia (1.93%) and Danone (1.59%).
-
----
-
-### 2026-06-11 00:10:05  #觀點
-
-花旗分析師警示，比特幣面臨的量子計算風險高於以太坊，到2028年或將有690萬枚比特幣受到影響。
-
----
-
-### 2026-06-11 00:09:57  #MKT News #Commodities #Energy
-
-US President Trump said the country is acquiring millions of barrels of oil each night.
-
----
-
-### 2026-06-11 00:09:19  #MKT News
-
-Trump signed a $70 billion bill to provide funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol.
-
----
-
-### 2026-06-11 00:08:26  #MKT News #Important #WTI #Impact bearish #Brent
-
-TRUMP on Iran said the U.S. has obtained millions of barrels of oil.
-
----
-
-### 2026-06-11 00:07:36  #國際
-
-特朗普談伊朗：我們每晚截獲數百萬桶石油。
-
----
-
-### 2026-06-11 00:07:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said the situation in Iran does not appear as smooth as the Venezuela operation.
-
----
-
-### 2026-06-11 00:07:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.30% Higher — The FTSE 100 Index rose 30 points or 0.30 percent on Wednesday to close at 10258 points. Leading the gains are Frasers Group (3.91%), Entain (3.19%) and Land Securities (3.10%). Top losers were Endeavour (-4.02%), Vistry Group (-3.21%) and Mondi (-2.33%).
-
----
-
-### 2026-06-11 00:06:50  #國際
-
-特朗普：我認為伊朗會希望達成協議。
-
----
-
-### 2026-06-11 00:06:50  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-Google (GOOG.O) launches DiffusionGemma.
-
----
-
-### 2026-06-11 00:06:32  #公司
-
-谷歌推出DiffusionGemma。
-注：DiffusionGemma是谷歌開發的基於擴散模型的生成式AI開源模型，由其Gemma大語言模型系列衍生而來。
-
----
-
-### 2026-06-11 00:05:27  #其他
-
-【哥倫比亞調查與指控委員會成員否認暫停總統佩特羅職務】當地時間10日，哥倫比亞眾議員、調查與指控委員會成員亞歷杭德羅·奧坎波表示，該委員會並未作出暫停總統佩特羅職務的決定。奧坎波說：“我希望向公眾說明，目前並沒有針對總統佩特羅作出任何決定。一些媒體所稱‘調查與指控委員會已暫停佩特羅總統職務’的說法並不屬實。”（央視新聞）
-
----
-
-### 2026-06-11 00:04:17  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Trump said the U.S. has seized 22 Iranian vessels.
-
----
-
-### 2026-06-11 00:04:03  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls on Middle East Tensions Escalation — The CAC 40 fell 0.5% to close at 8,162 on Wednesday, weighed down by escalating tensions in the Middle East. Iran launched attacks against several Gulf nations after US retaliatory strikes following the downing of an American helicopter. Oil prices rose, renewing inflation fears and pushing bond yields higher. Financials traded mixed, with BNP Paribas down 1.5% and Societe Generale losing 2.3%, while AXA gained 0.9%. Luxury shares weighed on the index, with LVMH falling 0.9% and Hermes shedding 2.8%. Safran lost 1.4%. STMicroelectronics erased earlier gains despite a Bank of America upgrade to "buy", as enthusiasm around AI faded. Sanofi fell 1.3% after halting a late-stage trial for an experimental autoimmune treatment. Investors also awaited Thursday's ECB meeting, with markets expecting a rate hike.
 
 ---
