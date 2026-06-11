@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-12 01:40:23",
+  "updated": "2026-06-12 01:44:15",
   "count": 18484,
   "items": [
+    {
+      "id": "4931095",
+      "time": "2026-06-12 01:43:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員不再完全計入美聯儲今年加息的預期。"
+    },
+    {
+      "id": "mkt:019eb7c8-0fab-7dd8-afc8-15856914bcab",
+      "time": "2026-06-12 01:43:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index rose 2%."
+    },
+    {
+      "id": "mkt:019eb7c7-ed6e-7dd8-afc8-08360df9abe8",
+      "time": "2026-06-12 01:43:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold up 2.20% to $4,160/oz; spot silver up 5.00% to $66.55/oz】Spot gold climbed to $4,160/oz, up 2.20% on the day. Spot silver jumped 5.00% to $66.55/oz; New York silver futures rose over 3.00% to $66.69/oz."
+    },
+    {
+      "id": "4931094",
+      "time": "2026-06-12 01:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特民航局在一份宣告中表示，已就科威特機場雷達遭針對性襲擊一事向國際民用航空組織（ICAO）發出第三份抗議函。"
+    },
+    {
+      "id": "4931093",
+      "time": "2026-06-12 01:42:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲1.38%。"
+    },
+    {
+      "id": "4931092",
+      "time": "2026-06-12 01:42:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報15958.00元。"
+    },
+    {
+      "id": "4931091",
+      "time": "2026-06-12 01:42:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報66.70美元/盎司。"
+    },
+    {
+      "id": "4931090",
+      "time": "2026-06-12 01:42:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲2.29%。"
+    },
+    {
+      "id": "4931089",
+      "time": "2026-06-12 01:41:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內漲1.13%。"
+    },
+    {
+      "id": "4931088",
+      "time": "2026-06-12 01:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓發言人表示，大樓內暫無安全險情。"
+    },
     {
       "id": "mkt:019eb7c4-9668-7dd8-afc8-04cd66af8ebe",
       "time": "2026-06-12 01:39:34",
@@ -170269,106 +170359,6 @@
         "Impact bearish"
       ],
       "text": "Fed's Schmid: The crux is whether the Fed needs to raise rates to 'suppress inf' and meet its inf target."
-    },
-    {
-      "id": "mkt:019e93bc-3acd-799e-8472-0efba2b9b194",
-      "time": "2026-06-05 01:44:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "On the 4th, Putin told heads of major international news agencies at the 29th St. Petersburg International Economic Forum that China is developing strongly and is playing an increasingly important role in the global economy, world politics and international affairs."
-    },
-    {
-      "id": "4917973",
-      "time": "2026-06-05 01:44:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【普京：俄方願在美國安克雷奇與烏方談判】俄羅斯總統普京4日說，俄方完全準備好並願意在美國阿拉斯加州安克雷奇市的美軍基地與烏克蘭進行和平談判。 普京表示，俄方準備接受俄美領導人去年8月在安克雷奇會晤時達成的妥協方案，但烏方必須同意這些方案。如果烏方同意按照俄美安克雷奇協議作出妥協，俄烏衝突將很快結束。(新華社)"
-    },
-    {
-      "id": "4917972",
-      "time": "2026-06-05 01:43:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【沙烏地阿拉伯計劃到2040年將磷肥產量提高兩倍】沙烏地阿拉伯計劃到2040年將該國的磷肥產量提高至目前的三倍。此前爆發的伊朗戰爭以及霍爾木茲海峽的實際關閉，引發了外界對未來供應安全性的擔憂。沙烏地阿拉伯國家工業發展中心（NIDC）執行長Saleh Al-Solami在俄羅斯舉行的聖彼得堡國際經濟論壇上表示，該國的目標是到2040年生產1800萬噸磷質作物營養素（磷肥），而目前這一數字僅為600萬噸。"
-    },
-    {
-      "id": "4917971",
-      "time": "2026-06-05 01:43:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國官方：藍源公司火箭爆炸事故後仍可參與太空發射專案競標。"
-    },
-    {
-      "id": "mkt:019e93bb-16a2-799e-8472-050343247c16",
-      "time": "2026-06-05 01:42:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Schmid: the key question is whether the Fed should continue to be patient on interest rates."
-    },
-    {
-      "id": "mkt:019e93bb-0c10-7114-9155-57292e5e5755",
-      "time": "2026-06-05 01:42:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Putin says strong personal ties between leaders underpin expansion of Russia‑China relations】On the 4th, meeting with heads of major global news agencies at the 29th St. Petersburg International Economic Forum, Putin said the good personal relationship between Russia's and China's heads of state provides a solid foundation for opening new prospects in bilateral ties."
-    },
-    {
-      "id": "4917970",
-      "time": "2026-06-05 01:42:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，中國發展強勁，在全球經濟、世界政治及國際事務中扮演著日益重要的角色。（新華社）"
-    },
-    {
-      "id": "4917969",
-      "time": "2026-06-05 01:42:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：問題在於美聯儲是否需要加息以“給當前局勢降溫”，並實現通脹目標。"
-    },
-    {
-      "id": "4917968",
-      "time": "2026-06-05 01:41:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：目前的核心問題是美聯儲是否應在利率問題上繼續保持耐心。"
-    },
-    {
-      "id": "4917967",
-      "time": "2026-06-05 01:41:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄中兩國元首的良好關係是推動俄中關係不斷開闢新前景的堅實基礎。（新華社）"
     }
   ]
 }
