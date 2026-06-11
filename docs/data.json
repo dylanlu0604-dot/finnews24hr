@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-12 03:05:16",
+  "updated": "2026-06-12 03:09:04",
   "count": 18423,
   "items": [
+    {
+      "id": "4931159",
+      "time": "2026-06-12 03:07:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾與特朗普覆盤美伊磋商成果，雙方在談判議題的相關諒解事項上取得進展。"
+    },
+    {
+      "id": "mkt:019eb813-5118-7dd8-afc9-52dcecfde513",
+      "time": "2026-06-12 03:05:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Qatar's emir spoke by phone with US President Trump."
+    },
+    {
+      "id": "4931158",
+      "time": "2026-06-12 03:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾與特朗普通電話。"
+    },
     {
       "id": "mkt:019eb812-bf68-7dd8-afc9-4c90f4f6ea65",
       "time": "2026-06-12 03:04:56",
@@ -169821,30 +169847,6 @@
         "國際"
       ],
       "text": "克里姆林宮：普京晚些時候將收到有關澤連斯基信函的相關彙報。"
-    },
-    {
-      "id": "mkt:019e9408-a4f3-755d-92d5-0aae432975fa",
-      "time": "2026-06-05 03:07:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia updates Gulf security concept, submits it to GCC and Iran】Russian Foreign Minister Lavrov said at the St. Petersburg International Economic Forum on June 4 that Moscow has updated its Gulf security concept and submitted it to the Gulf Cooperation Council (GCC) and Iran, and is awaiting responses. The proposal affirms a non‑aggression principle and calls for consultations to: sign an agreement to increase military transparency and constrain military actions and exercise preparations; and adopt a package of confidence‑building measures. Deputy Foreign Minister Ryabkov said on June 1 that Russia has prepared the concept and is ready, via diplomatic channels, to assist any subsequent U.S.‑Iran agreement."
-    },
-    {
-      "id": "4918079",
-      "time": "2026-06-05 03:06:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "QUANTINUUM股價漲幅迅速收窄至 2%。"
-    },
-    {
-      "id": "mkt:019e9406-a6af-755d-92d5-00ca923849e3",
-      "time": "2026-06-05 03:05:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said the U.S. will continue to support Bolivia."
     }
   ]
 }
