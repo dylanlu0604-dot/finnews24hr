@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-12 01:05:25",
-  "count": 18483,
+  "updated": "2026-06-12 01:09:18",
+  "count": 18489,
   "items": [
+    {
+      "id": "4931028",
+      "time": "2026-06-12 01:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名美國訊息人士證實已收到協議草案，但未披露具體內容。若該協議獲批，或將為霍爾木茲海峽重新通航以及重啟核談判鋪平道路。"
+    },
+    {
+      "id": "4931027",
+      "time": "2026-06-12 01:08:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，伊朗透過卡達調解人向美國提交了一份協議草案，訊息人士稱該文字已定稿併傳送至華盛頓供審查。"
+    },
+    {
+      "id": "te:markets:558445",
+      "time": "2026-06-12 01:05:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Rebound on Thursday — US stocks rebounded from one-month lows on Thursday as gains for chip producers offset risks of higher interest rates. The Nasdaq 100 gained 0.8%, the Dow added 0.5%, and the S&P 500 rose 0.3%. AI infrastructure stocks continued to carry the momentum ahead of the SpaceX IPO tomorrow. Retail investors submitted more than $100 billion for the event, due to be the largest in history, as AI companies raise cash for data center expenditure. Micron and AMD added more than 3%, while Lam Research and Applied Materials surged over 8%. Intel jumped 9% after being upgraded by BofA on soaring CPU orders. On the other hand, Oracle slumped 12% as it will take in more debt to finance data centers despite flat sales. Defensive stocks were higher after President Trump stated strikes will against Iran will resume and the US plans to capture Kharg Island \"at some point\". Simultaneously, a new PPI print pointed to accelerating prices in May, consolidating bets that the Fed will raise rates this year."
+    },
+    {
+      "id": "4931026",
+      "time": "2026-06-12 01:05:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯：對中東局勢升級深表關切 呼籲美伊重返對話談判】當地時間6月11日，聯合國秘書長古特雷斯釋出宣告稱，對中東局勢持續升級深表關切，敦促有關各方全面恢復執行停火，避免局勢進一步惡化。他同時呼籲美國和伊朗透過對話和談判達成和平、全面、持久的協議。古特雷斯表示，他對中東地區持續升級的局勢深感關切，包括近期美伊互襲，以及敵對言論顯著增加。古特雷斯敦促各方恢復全面執行停火，避免局勢進一步惡化。他再次警告，局勢繼續惡化可能導致衝突全面恢復，並給地區和世界，特別是最脆弱國家，帶來不可預測的後果。古特雷斯強調，必須根據國際法尊重航行權利和自由。他還呼籲各方履行國際法義務，並採取一切可行預防措施保護平民。古特雷斯重申，真誠對話和談判是唯一出路。他呼籲美國和伊朗加倍努力，推動達成一項和平、全面、持久的協議，以促進地區和國際和平與安全。（央視新聞）"
+    },
+    {
+      "id": "4931025",
+      "time": "2026-06-12 01:04:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗警告美勿再攻擊否則戰火蔓延】伊朗武裝部隊哈塔姆·安比亞中央司令部當地時間6月11日晚發宣告警告稱：“如果美國企圖再次對伊朗發動攻擊，必將遭到比以往更為嚴厲的回擊。並且戰火將蔓延擴散，導致整個地區陷入不安全的泥潭。”宣告指出，“美國自相矛盾的行徑是導致地區、特別是霍爾木茲海峽局勢不穩的主要根源。鑑於美方威脅伊朗石油基礎設施，那麼伊朗要麼讓石油和天然氣出口惠及各方，要麼就讓所有油氣都無法透過霍爾木茲海峽運輸。” （CCTV國際時訊）"
+    },
     {
       "id": "mkt:019eb7a4-556b-7dd8-afc7-51250e675220",
       "time": "2026-06-12 01:04:20",
@@ -22,6 +67,15 @@
         "國際"
       ],
       "text": "美國30年期國債收益率在國債拍賣後收窄早前跌幅，目前下跌0.8個基點，報5.018%。"
+    },
+    {
+      "id": "4931023",
+      "time": "2026-06-12 01:04:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴國家石油公司（Union Cuba Petroleo）在美國的財產和利益被封鎖。"
     },
     {
       "id": "mkt:019eb7a3-e177-7dd8-afc7-48050684caf0",
@@ -50,6 +104,14 @@
         "國際"
       ],
       "text": "【美聯儲資料顯示美國商業票據規模上週擴大】美聯儲週四公佈的資料顯示，截至6月10日當週，美國商業票據規模增加。最新一週，經季節性調整後的美國未償商業票據規模增加114億美元，至1.413萬億美元。未經季節性調整的未償商業票據規模下降69億美元，至1.466萬億美元。一些分析師認為，未經季節性調整的資料比經季節性調整的資料更可靠，因為後者受到金融危機影響而出現失真。未經季節性調整的外國金融機構商業票據未償規模下降72億美元，至3560億美元。"
+    },
+    {
+      "id": "4931020",
+      "time": "2026-06-12 01:02:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國的目標是削弱古巴利用能源貿易的能力。"
     },
     {
       "id": "mkt:019eb7a2-91d8-7dd8-afc7-426eeb0d9b7f",
@@ -104,6 +166,15 @@
       "text": "US 30-year Treasury auction on June 11: stop-out yield 5.02%, prior 5.046%."
     },
     {
+      "id": "4931019",
+      "time": "2026-06-12 01:02:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴國家石油公司（Union Cuba Petroleo）因在古巴能源領域開展業務被列入制裁名單。"
+    },
+    {
       "id": "mkt:019eb7a2-46a3-7dd8-afc7-22b2ebfe13d9",
       "time": "2026-06-12 01:02:05",
       "tags": [
@@ -129,6 +200,15 @@
         "Economic Calendar"
       ],
       "text": "United States | 30-Year Bond Auction High Yield Rate (Jun.11) | actual 5.02% | previous 5.046%"
+    },
+    {
+      "id": "4931018",
+      "time": "2026-06-12 01:00:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴國家石油公司多年前非法侵佔美國所有者資產。"
     },
     {
       "id": "4931017",
@@ -170328,34 +170408,6 @@
         "國際"
       ],
       "text": "美國中央司令部：美國中央司令部太空軍，作為中央司令部的太空作戰力量，在中東地區佔據著戰略制高點，支援美國戰鬥人員執行維護地區安全與穩定的任務。太空部隊具備隨時可用的攻防能力，全天候待命。"
-    },
-    {
-      "id": "4917914",
-      "time": "2026-06-05 01:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們將繼續發展與印度的關係。"
-    },
-    {
-      "id": "4917913",
-      "time": "2026-06-05 01:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：印美關係不會妨礙俄印關係。"
-    },
-    {
-      "id": "te:markets:556574",
-      "time": "2026-06-05 01:07:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Dow Rises to New Record — US stocks swung to trade mostly higher on Thursday as a pullback in oil prices softened inflationary risks, offsetting a pivot out of semiconductor companies after Broadcom released results. The S&P 500 rose 0.4% and the Dow gained over 900 points to a new record high. Despite repeated clashes, Israel and Lebanon signed a ceasefire that could pave the way for a US-Iran peace deal, lowering oil prices and bond yields. Banks and asset managers rebounded, with JPMorgan, Wells Fargo, and Morgan Stanley adding 4%, while Blackstone soared 8% despite capping private credit redemptions. In turn, the Nasdaq 100 fell 0.5% amid fresh selling for semiconductors, which have supported equity indices this year. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. Micron and AMD followed with losses of over 4%. Also, Crowdstrike also slipped 6% after posting its earnings."
     }
   ]
 }
