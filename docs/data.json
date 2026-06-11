@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-11 18:56:00",
-  "count": 18326,
+  "updated": "2026-06-11 19:00:13",
+  "count": 18317,
   "items": [
+    {
+      "id": "4930374",
+      "time": "2026-06-11 18:59:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "伊頓公司股價盤前上漲1.9%，此前該公司同意將其出行業務部門與德納公司合併。"
+    },
+    {
+      "id": "4930372",
+      "time": "2026-06-11 18:58:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "據香港交易所披露，6月5日瑞銀集團持有的美的集團H股<0300.HK>空頭頭寸從2.79%提升至4.02%。"
+    },
+    {
+      "id": "4930371",
+      "time": "2026-06-11 18:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙農股份：首次回購0.36%公司股份】浙農股份公告，2026年6月11日，公司透過股份回購專用證券賬戶以集中競價交易方式首次回購公司股份186.5萬股，約佔公司總股本的0.36%。此次回購股份最高成交價為7.96元/股，最低成交價為7.77元/股，成交總金額為1469.77萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019eb654-7380-7dd8-afbb-aaaa46969fd1",
+      "time": "2026-06-11 18:57:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry said Iran's aggressive attacks clearly violate the sovereignty of Bahrain, Kuwait and Jordan and threaten their security and stability."
+    },
+    {
+      "id": "mkt:019eb654-3b8b-7dd8-afbb-a7fb7022b49c",
+      "time": "2026-06-11 18:57:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's five-year government bond yield fell 5bp to 6.52%."
+    },
+    {
+      "id": "4930370",
+      "time": "2026-06-11 18:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "據香港交易所披露，瑞銀集團於6月5日增持美的集團H股<0300.HK>，多頭持倉佔比由此前的5.66%升至6.89%。"
+    },
+    {
+      "id": "4930369",
+      "time": "2026-06-11 18:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞稱空襲恐怖分子據點 打死數十人】當地時間6月10日，奈及利亞空軍公共關係和資訊主管埃希門·埃喬達梅表示，當天凌晨尼空軍對查德湖地區發動精確打擊，打死了數十名恐怖分子，並摧毀了他們的據點。宣告稱，被摧毀的據點位於查德湖盆地北部通布恩斯地區，裡面有一名恐怖組織的高階指揮官，“戰鬥損失評估證實，數十名恐怖分子被消滅”。（央視新聞）"
+    },
+    {
+      "id": "4930368",
+      "time": "2026-06-11 18:56:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 5 年期國債收益率下跌 5 個基點，報 6.52%。"
+    },
+    {
+      "id": "4930367",
+      "time": "2026-06-11 18:56:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "港交所檔案顯示，滙豐銀行所持美的集團H股<0300.HK>的空頭頭寸於6月5日從4.67%降至2.93%。"
+    },
+    {
+      "id": "4930366",
+      "time": "2026-06-11 18:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專家：美伊互襲嚴重升級，局勢恐將進一步惡化】新加坡國際戰略研究所高階研究員薩米爾·普里指出，隔夜美伊襲擊表明局勢“不會很快降溫”。他表示，這是自4月停火以來戰鬥和互襲最嚴重的一次升級，極有可能進一步惡化。但仍存在外交斡旋空間，希望事態不要失控。他補充稱，特朗普與美國國防部長赫格塞思視此次打擊為“對伊朗擊落美阿帕奇直升機及違約行為的懲罰”。普里表示，近日美軍接連打擊阿巴斯港和格什姆島，伊朗革命衛隊也承認部分雷達設施被擊中。此舉不禁引發猜測：美軍是否決心從物理上摧毀伊朗監視霍爾木茲海峽及發動反艦襲擊的能力。"
+    },
     {
       "id": "4930365",
       "time": "2026-06-11 18:55:10",
@@ -168443,169 +168529,6 @@
         "PLTR.N"
       ],
       "text": "Palantir (PLTR.N) has reached an agreement to work with law firm Kirkland & Ellis."
-    },
-    {
-      "id": "4917328",
-      "time": "2026-06-04 19:00:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST節能：神霧集團所持5.10%公司股份將被司法拍賣】*ST節能公告，北京市第一中級人民法院將於2026年7月5日10時至2026年7月6日10時止在淘寶網路司法拍賣平臺上公開拍賣公司5%以上股東神霧科技集團股份有限公司持有的3300萬股公司股票，佔神霧集團所持公司股份總數的45.45%，佔公司股份總數的5.10%。上述股份均已被司法凍結及輪候凍結。"
-    },
-    {
-      "id": "4917327",
-      "time": "2026-06-04 18:59:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【節能風電：調整2025年年度利潤分配方案 每股派發現金紅利調整為人民幣0.00295元（含稅）】節能風電公告，調整2025年年度利潤分配方案，每股派發現金紅利由人民幣0.003元（含稅）調整為人民幣0.00295元（含稅）。2025年年度利潤分配方案以截至2025年12月31日公司股本總額為基數，自2026年1月1日至本公告披露日期間，公司因可轉換公司債券“節能轉債”部分持有人將“節能轉債”進行轉股，公司總股本由64.4億股增加至65.44億股，故本次實際參與利潤分配的股本總數為65.44億股。公司按照維持分配總額不變的原則，相應調整每股分配比例，對2025年年度利潤分配方案每股現金分紅金額進行相應調整。"
-    },
-    {
-      "id": "4917326",
-      "time": "2026-06-04 18:59:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【悅心健康：聯合關聯方受讓斯米克健康科技36%股權】悅心健康公告，為進一步完善公司在康養產業鏈中的業務佈局，公司擬聯合斯米克健康科技現有股東上海斯米克有限公司，共同受讓悅心科技發展持有的斯米克健康科技75%全部股權。本次拆分受讓比例為公司受讓36%股權，上海斯米克有限公司受讓39%股權。交易完成後，上海斯米克有限公司合計持有斯米克健康科技64%股權，公司持有36%股權。標的公司註冊資本為5000萬元，尚未開展實際生產經營活動，本次75%股權轉讓對價合計為0元，公司受讓36%股權對應交易對價為0元。"
-    },
-    {
-      "id": "4917325",
-      "time": "2026-06-04 18:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "Palantir宣佈其產品上線谷歌雲市場，涵蓋BigQuery與Foundry之間的雙向整合，以及Gemini與AIP之間的深度連通。"
-    },
-    {
-      "id": "4917324",
-      "time": "2026-06-04 18:59:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "AirAsia X Bhd：菲律賓亞洲航空所有航班仍全面正常運營。"
-    },
-    {
-      "id": "mkt:019e9249-3b22-7668-9610-c318d152c579",
-      "time": "2026-06-04 18:58:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India is considering imposing spending caps to protect its fiscal deficit target."
-    },
-    {
-      "id": "mkt:019e9249-1fde-7668-9610-b98c9dcab0cf",
-      "time": "2026-06-04 18:58:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Israeli forces begin withdrawal from Debbin in southern Lebanon】Lebanese security sources and local witnesses confirmed on the 4th that Israeli forces have begun a gradual withdrawal from the town of Debbin in southern Lebanon’s Marjayoun area."
-    },
-    {
-      "id": "4917323",
-      "time": "2026-06-04 18:58:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度考慮出臺開支管控措施，以守住財政赤字目標。"
-    },
-    {
-      "id": "4917322",
-      "time": "2026-06-04 18:58:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "黎巴嫩安全部門訊息人士和當地目擊者4日向新華社記者證實，以色列軍隊已開始從黎南部邁爾季歐雲地區的德賓鎮逐步撤出。（新華社）"
-    },
-    {
-      "id": "4917321",
-      "time": "2026-06-04 18:57:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民營銀行停售中長期定存：助貸新規下的“戒斷反應”】近日，多家銀行下架3年期、5年期定期存款的話題衝上了微博熱搜，據瞭解，能夠“狠心”下架3年期定存產品的目前主要集中於個別民營銀行。這種壓降高息存款、最佳化存款結構的現象，其背後是民營銀行應對助貸新規的“戒斷反應”。民營銀行長期依賴助貸模式實現規模擴張，如今在助貸新規的影響下，網際網路貸款被壓縮，相應地，負債端也進行了同步壓縮。比如，網商銀行行長馮亮在年報致辭中稱，網際網路金融上半場“流量”加“爆款”的粗放運營模式，在新增使用者、新增使用時長都已見頂的下半場已經不再奏效。（一財）"
-    },
-    {
-      "id": "4917320",
-      "time": "2026-06-04 18:57:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【供需錯配點燃“火箭蛋”行情 6月上中旬或現價格拐點】近期，雞蛋價格持續攀升成為市場焦點。卓創資訊雞蛋分析師劉宏表示，此輪蛋價普漲是產能降低、供應結構失衡與業者情緒共振的結果。除了總量收縮，蛋雞養殖的內部結構性失衡也加劇了矛盾。6月上旬至中旬或將成為本輪行情的拐點。一方面，中高考結束後及端午節後，集中採購需求存在減弱預期，階段性需求支撐將有所消退；另一方面，南方梅雨季影響程度正逐步加深，高溫高溼環境將顯著增加雞蛋儲存難度，貿易商和下游環節為規避風險將加快出貨、放緩採購，走貨速度放緩將拖累蛋價從高位回撥。"
-    },
-    {
-      "id": "mkt:019e9247-74aa-7668-9610-b05bfd41039c",
-      "time": "2026-06-04 18:56:56",
-      "tags": [
-        "MKT News",
-        "UNH.N",
-        "Impact bullish"
-      ],
-      "text": "UnitedHealth Group (UNH.N) rose 2.4% in pre-market trading after BofA Global Research upgraded the stock from Neutral to Buy."
-    },
-    {
-      "id": "4917319",
-      "time": "2026-06-04 18:56:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "東材科技：董事唐安斌擬減持不超過0.2872%。"
-    },
-    {
-      "id": "4917318",
-      "time": "2026-06-04 18:56:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國聯合健康集團股價盤前上漲2.4%，此前美銀全球研究將其評級從中性上調至買入。"
-    },
-    {
-      "id": "te:markets:556512",
-      "time": "2026-06-04 18:56:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indian Stocks Close Flat — Indian stocks closed marginally above the flatline on Thursday, maintaining the narrow trading momentum since testing two month lows on Monday amid persistent pressure from geopolitical tension in the Middle East. The S&P BSE Sensex closed at 23,416 and the NSE Nifty 50 at 74,360. Strikes between Iran and US allies in the Persian Gulf further strained the ongoing ceasefire in the conflict. The prolonged blockade of tankers leaving the region pressed Indian assets by weakening the rupee and driving foreign investors to pivot their positions elsewhere. It also raised expectations that the RBI may lift interest rates tomorrow, although a slight majority of the market still expects the central bank to hold. Tech stocks led the decline, tracking US counterparts following earnings from Broadcom and Crowdstrike with Infosys and HCL Tech dropping 1.7% and 0.6%. In turn, banks were mostly higher with ICICI and IndusInd adding nearly 1%."
-    },
-    {
-      "id": "4917317",
-      "time": "2026-06-04 18:56:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "東材科技：經公司自查，本次公司股票異常波動期間，公司高階管理人員李文權先生、梁倩倩女士存在減持公司股票的情形，其減持行為與此前披露的減持計劃一致，亦不存在違規減持的情形。"
-    },
-    {
-      "id": "mkt:019e9247-3c8f-7668-9610-ab2f87c7de97",
-      "time": "2026-06-04 18:56:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Private banks pull 3- and 5-year term deposits amid assisted-lending rule fallout】Several private banks have recently removed 3‑year and 5‑year term deposits from sale, a move concentrated among a small number of private lenders. Banks say the delistings are part of cutting high-rate deposits and rebalancing deposit mixes in response to new assisted‑lending rules; as internet-originated lending has been curtailed, liability bases have been reduced in parallel. MyBank president Feng Liang said the prior internet‑finance playbook—growth driven by traffic and hit products—no longer works as new user additions and usage have peaked."
-    },
-    {
-      "id": "4917316",
-      "time": "2026-06-04 18:56:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技向下跌破1000美元】美光科技盤前跌幅擴大至7.4%，報999.5美元，總市值縮水約900億美元。"
-    },
-    {
-      "id": "4917315",
-      "time": "2026-06-04 18:56:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃坤明孟凡利會見中國海油集團董事長張傳江總經理黃永章】據南方+客戶端，6月4日上午，廣東省委書記黃坤明，省委副書記、省長孟凡利在廣州會見了中國海洋石油集團有限公司黨組書記、董事長張傳江，黨組副書記、總經理黃永章一行，雙方就進一步深化省企合作進行深入交流。黃坤明表示，希望繼續加強省企戰略合作，充分發揮中國海油產運儲銷全鏈條一體化佈局優勢，突出做好能源保供穩價，幫助廣東提升全週期抗風險能力，既助力當前順利實現迎峰度夏，又著眼長遠推動在粵油氣專案增儲上產；同時發揮優勢全面發力海上油氣、海底礦產等勘探利用，將海上風電開發與海洋牧場建設緊密結合起來，把更多海工裝備製造專案放在廣東，更好賦能廣東海洋產業高質量發展。"
     }
   ]
 }
