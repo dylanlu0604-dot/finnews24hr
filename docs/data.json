@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-11 14:29:30",
-  "count": 18335,
+  "updated": "2026-06-11 14:33:27",
+  "count": 18324,
   "items": [
+    {
+      "id": "4929705",
+      "time": "2026-06-11 14:32:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：06月11日14時29分在新疆巴音郭楞州若羌縣附近（北緯38.77度，東經88.61度）發生4.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:019eb561-bd93-7dd8-afb5-76aef2d67aad",
+      "time": "2026-06-11 14:32:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Polysilicon futures contract 2609 strengthened intraday, gains widening to 7% at 36,970 yuan/ton, turnover exceeding 19.9 billion yuan; open interest rose by nearly 400 contracts and trading activity picked up."
+    },
+    {
+      "id": "mkt:019eb561-7aa6-7dd8-afb5-6f0569caa9f7",
+      "time": "2026-06-11 14:32:04",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs raises ASML PT to €1,770 from €1,600."
+    },
+    {
+      "id": "4929704",
+      "time": "2026-06-11 14:31:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將阿斯麥目標股價從1600歐元上調至1770歐元。"
+    },
+    {
+      "id": "4929703",
+      "time": "2026-06-11 14:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲0.06%，報64217.27點。韓國綜指收漲0.42%，報7762.94點。"
+    },
+    {
+      "id": "4929701",
+      "time": "2026-06-11 14:30:59",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【GLP-1減重藥“吃掉”全球15%乳清供給】以司美格魯肽為代表的GLP-1減重藥需求大增，正在引發一場全球乳清原料價格大漲的“蝴蝶效應”。近期，各大品牌蛋白粉漲價的新聞在減重、增肌人群中刷屏。據行業人士透露，GLP-1減重藥創造的乳清蛋白補充需求，吃掉了全球15%的乳清供給。疊加產能受限、營養品市場擴容，運動營養食品核心乳清蛋白原料WPC80價格近一年上漲了120%–150%。受價格和利潤驅使，原本可用於生產D90脫鹽乳清粉的原料被“虹吸”至WPC80產線，導致國內D90採購價較年初翻倍，這意味著以D90為原料的嬰幼兒配方奶粉也存在調價壓力。(新京報)"
+    },
+    {
+      "id": "4929700",
+      "time": "2026-06-11 14:30:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海通國際張憶東：今年夏季行情N型向下的變盤點，很可能就在6月10日-18日】近日，海通國際執委會委員、首席經濟學家張憶東表示，今年夏季行情N型向下的變盤點，很可能就在6月10日-18日。（澎湃新聞）"
+    },
+    {
+      "id": "te:markets:558281",
+      "time": "2026-06-11 14:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.11% Lower — The Nikkei 225 Index decreased 71 points or 0.11 percent on Thursday to close at 64108 points. The decline was led by Hino Motors (-5.42%), Kawasaki (-4.21%) and Toho Zinc (-4.13%). On the upside, the strongest performers were Toppan (15.07%), Ajinomoto (8.37%) and Resonac Holdings (6.59%)."
+    },
+    {
+      "id": "4929699",
+      "time": "2026-06-11 14:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，截至週四亞洲午後，投資者對Danantara投資管理公司美元債券的投標規模已超過15億美元，而目標上限為10億美元。"
+    },
     {
       "id": "4929697",
       "time": "2026-06-11 14:28:46",
@@ -168708,190 +168790,6 @@
         "Industrial Metals"
       ],
       "text": "SHFE tin 2607 futures weakened sharply intraday, extending losses to 4.0% and sliding to 430,120 yuan/ton. Trading value exceeded 120 billion yuan; open interest fell roughly 6,200 contracts, leaving positions marginally lower."
-    },
-    {
-      "id": "4916707",
-      "time": "2026-06-04 14:32:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內跌4%，現報430010.00元。"
-    },
-    {
-      "id": "4916706",
-      "time": "2026-06-04 14:32:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收低】日經225指數收盤下跌931.44點，跌幅1.36%，報67470.69點。韓國KOSPI指數收盤下跌162.11點，跌幅1.84%，報8639.38點。"
-    },
-    {
-      "id": "mkt:019e9155-408b-7cc0-ba27-cd95ff6bb123",
-      "time": "2026-06-04 14:32:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI closed down 162.11 points, or 1.84%, at 8,639.38 on Thursday, June 4."
-    },
-    {
-      "id": "4916704",
-      "time": "2026-06-04 14:31:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農銀投資等在深圳成立私募股權投資基金 出資額39.4億】天眼查App顯示，近日，深圳市重投一號重大產業生態發展私募股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為深圳市重投資本管理有限公司、農銀資本管理有限公司，出資額39.4億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由農銀金融資產投資有限公司、深圳市重大產業投資集團有限公司、寧波市甬元投資基金有限公司、佛山市創新創業投資有限公司、前海金融控股有限公司等共同出資。"
-    },
-    {
-      "id": "4916703",
-      "time": "2026-06-04 14:31:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本麥當勞 5 月同店銷售額同比上漲 5.7%。"
-    },
-    {
-      "id": "4916702",
-      "time": "2026-06-04 14:31:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【浙商證券：維持欣旺達“買入”評級，限制性股票與股票期權計劃落地】浙商證券研報指出，欣旺達限制性股票與股票期權計劃落地，開啟成長新篇章。將這次2026限制性股票與股票期權激勵計劃與過往2024和2022年的對比來看，首當其衝的亮點就是本次授予股份數的規模大幅超出以往；此外，過往兩次的業績考核目標主要落地在營收的穩健成長，這次則是聚焦於未來三年歸母淨利潤與扣非歸母淨利潤的持續高增長。在全球化產能佈局方面，越南消費類電芯生產基地開工，泰國動力電池生產基地一期專案投產、二期專案籌備同步啟動，進一步強化了區域供應鏈韌性與關鍵客戶的市場響應能力。2026下半年大客戶進入全新換機週期、AI端側落地驅動公司高質量持續成長。預計公司2026-2028年營業收入分別為839億元、998億元和1252億元，對應歸母淨利潤分別為30.24億元、41.76億元和53.81億元，當下市值對應的PE分別為13.73、9.94和7.71倍，維持“買入”評級。"
-    },
-    {
-      "id": "mkt:019e9154-0673-7cc0-ba27-c15607c9e1d4",
-      "time": "2026-06-04 14:30:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 closed down 931.44 points, or 1.36%, at 67,470.69 on Thursday, June 4."
-    },
-    {
-      "id": "mkt:019e9153-dfc2-7cc0-ba27-b8c0804b26c2",
-      "time": "2026-06-04 14:30:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China Automotive Engineering Society: NEVs to exceed 70% of new passenger-car sales by 2030】The China Automotive Engineering Society forecasts new-energy vehicles (NEVs) will account for more than 70% of new passenger-car sales by 2030; L3/L4 autonomous-driving features will be fitted on over 35% of new passenger cars, and Chinese automakers' overseas sales will reach nearly 10 mln units. The society expects the next five years to bring accelerated electrification, digital-intelligent transformation across the full industry chain, and a deep reshaping of competitive and cooperative dynamics between domestic and foreign automakers. Vice chairman and secretary-general Hou Fushen made the remarks at the society's June 3 annual meeting press briefing."
-    },
-    {
-      "id": "4916701",
-      "time": "2026-06-04 14:30:31",
-      "tags": [
-        "宏觀",
-        "公司",
-        "兩會"
-      ],
-      "text": "【工業和資訊化部財務司、原材料工業司調研先進製造業增值稅加計抵減政策落實情況】2026年6月1－2日，為貫徹落實中央經濟工作會議精神和《政府工作報告》部署要求，發揮好稅收政策對先進製造業高質量發展的支撐保障作用，工業和資訊化部財務司、原材料工業司聯合財政部稅政司、稅務總局貨物和勞務稅司，赴河北省開展增值稅加計抵減政策調研。調研組一行與中國鋼鐵工業協會等行業組織，冀南鋼鐵、河鋼集團等企業，以及地方工信、財政、稅務、科技等部門座談交流，詳細瞭解企業發展情況、先進製造業增值稅加計抵減政策落實成效、存在問題和意見建議。後續，我們將會同相關部門進一步最佳化完善政策舉措，增強稅收政策與產業政策協同。（工信部）"
-    },
-    {
-      "id": "4916700",
-      "time": "2026-06-04 14:30:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【嚴打珠寶玉石假證書、假產品等問題 一批典型案例公佈】記者今天瞭解到，為切實整治珠寶玉石、貴金屬飾品、紅木製品等傳統工藝市場“假證書、假機構、假產品、假網站”等突出問題，嚴厲打擊違法違規行為，規範市場秩序，維護消費者權益，2026年以來，市場監管部門以珠寶首飾等傳統工藝品為重點，深入開展“打假清源”專項行動，依法查辦了一批違法違規案件。選取部分典型案例予以公佈。（央視新聞）"
-    },
-    {
-      "id": "te:markets:556384",
-      "time": "2026-06-04 14:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.51% Lower — The Nikkei 225 Index decreased 1030 points or 1.51 percent on Thursday to close at 67372 points. The decline was led by Softbank (-10.92%), Toppan (-6.37%) and Dowa (-6.05%)."
-    },
-    {
-      "id": "4916699",
-      "time": "2026-06-04 14:30:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士5月CPI月率 0.2%，預期0.30%，前值0.30%。瑞士5月CPI年率 0.6%，預期0.8%，前值0.60%。"
-    },
-    {
-      "id": "mkt:019e9153-3501-7cc0-ba27-b78517a6caa1",
-      "time": "2026-06-04 14:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss May CPI YoY 0.6% (consensus 0.8%), prior 0.60%."
-    },
-    {
-      "id": "mkt:019e9153-3317-7cc0-ba27-af3215502a21",
-      "time": "2026-06-04 14:30:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Swiss May CPI m/m +0.2% vs +0.3% expected and +0.3% prior."
-    },
-    {
-      "id": "4916698",
-      "time": "2026-06-04 14:30:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月4日：“農產品批發價格200指數”比昨天上升0.12個點】據農業農村部監測，6月4日“農產品批發價格200指數”為113.47，比昨天上升0.12個點，“菜籃子”產品批發價格指數為113.55，比昨天上升0.13個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.73元/公斤，比昨天下降0.1%；牛肉66.48元/公斤，比昨天下降0.3%；羊肉63.61元/公斤，比昨天下降0.4%；雞蛋10.48元/公斤，比昨天上升0.4%；白條雞17.29元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.26元/公斤，比昨天上升1.2%；重點監測的6種水果平均價格為7.58元/公斤，比昨天下降2.1%。鯽魚20.34元/公斤，比昨天上升1.0%；鯉魚14.85元/公斤，比昨天上升0.1%；白鰱魚10.45元/公斤，比昨天上升1.5%；大帶魚40.56元/公斤，比昨天下降1.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是冬瓜、蓮藕、蔥頭、韭菜和萵筍，幅度分別為3.6%、2.8%、2.6%、2.5%和2.5%；價格降幅前五名的是巨峰葡萄、大帶魚、富士蘋果、洋白菜和羊肉，幅度分別為5.7%、1.8%、1.6%、0.6%和0.4%。"
-    },
-    {
-      "id": "mkt:019e9153-1056-7cc0-ba27-a4103438197f",
-      "time": "2026-06-04 14:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | CPI (MoM) (May) | actual 0.2% | consensus 0.30% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019e9153-1055-7cc0-ba27-982a2f07e58d",
-      "time": "2026-06-04 14:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | CPI (YoY) (May) | actual 0.6% | consensus 0.8% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019e9153-035e-7cc0-ba27-9063b2cd71bb",
-      "time": "2026-06-04 14:29:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【S Korea industry minister: U.S. reiterates tariff cap for Korean imports at no more than 15%】South Korea’s industry minister said the U.S. reiterated that tariffs on Korean imports will not exceed the 15% cap agreed under last year’s tariff deal. The minister said he held a video call with U.S. Commerce Secretary Howard Lutnick to review implementation of the agreement amid ongoing U.S. Section 301 probes."
-    },
-    {
-      "id": "4916697",
-      "time": "2026-06-04 14:29:47",
-      "tags": [
-        "行業",
-        "其他"
-      ],
-      "text": "【《給阿嬤的情書》票房破15億】據網路平臺資料，電影《給阿嬤的情書》票房突破15億。影片講述了跨海家書背後跨越半個世紀的親情、守望與善意，目前暫列2026年度票房榜亞軍。（央視新聞）"
-    },
-    {
-      "id": "4916696",
-      "time": "2026-06-04 14:29:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【乳業板塊區域性衝高，貝因美直線漲停】乳業板塊區域性衝高，貝因美直線漲停，騎士乳業、西部牧業跟漲。"
     }
   ]
 }
