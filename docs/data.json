@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-11 23:03:06",
-  "count": 18515,
+  "updated": "2026-06-11 23:06:52",
+  "count": 18506,
   "items": [
+    {
+      "id": "4930904",
+      "time": "2026-06-11 23:06:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國防部發言人帕內爾證實，國防部內部系統監測到空氣質量異常，在查明具體影響前，相關區域已採取防範措施。"
+    },
+    {
+      "id": "mkt:019eb738-14ce-7dd8-afc5-13b54e58d26e",
+      "time": "2026-06-11 23:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN: Pentagon spokesman Parnell said the department's internal systems detected an air quality issue and that precautionary measures are being taken until its severity is determined."
+    },
+    {
+      "id": "mkt:019eb736-e14e-7dd8-afc5-0ead648a43ed",
+      "time": "2026-06-11 23:04:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CNN reports a hazardous-materials incident at the Pentagon; firefighters are on scene and multiple floors have been evacuated."
+    },
+    {
+      "id": "4930903",
+      "time": "2026-06-11 23:04:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓多個樓層人員已疏散。"
+    },
+    {
+      "id": "4930902",
+      "time": "2026-06-11 23:04:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "義大利外交部長表示，歐洲央行加息於事無補。"
+    },
+    {
+      "id": "mkt:019eb736-45d5-7dd8-afc5-044ade534a62",
+      "time": "2026-06-11 23:04:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's foreign minister said ECB rate hikes are ineffective."
+    },
+    {
+      "id": "4930901",
+      "time": "2026-06-11 23:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "消防官員：五角大樓發生危險物料事故，消防員已抵達現場處置。"
+    },
+    {
+      "id": "4930900",
+      "time": "2026-06-11 23:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已達成協議收購ONA。"
+    },
     {
       "id": "4930899",
       "time": "2026-06-11 23:02:16",
@@ -170473,161 +170539,6 @@
         "Magnificent 7"
       ],
       "text": "Meta Platforms (META.O) launched a Creator Assistant and expanded language support for Facebook's AI translation."
-    },
-    {
-      "id": "4917774",
-      "time": "2026-06-04 23:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織表示，其已加快與馬拉維就一項新的基金支援專案展開磋商，目標是“儘快”公佈相關訊息。"
-    },
-    {
-      "id": "te:markets:556555",
-      "time": "2026-06-04 23:06:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "US Natural Gas Prices Rise to 4-Month High — US natural gas futures rose past $3.3 per MMBtu, the highest in four months, amid no progress in supply from the Middle East and higher demand domestically. Israel and Lebanon continued to exchange strikes to strain their ceasefire, limiting the likelihood of an imminent agreement between the US and Iran that would lift the tanker blockade from the Persian Gulf. Exports of liquified natural gas from the region have slumped since the start of the war in March, driving European and Asian consumers to increase their dependency on US supplies. Consequently, the latest data from the EIA showed that US LNG exports rose to a record high of 573.5 billion cubic feet gaseous equivalent. Meanwhile, forecasts of higher temperatures in the US northeast increased the outlook of gas-intensive air conditioning, also lifting prices. Consistently, inventory in the US rose by 95 bcf, below forecasts of a sharper 101 bcf build."
-    },
-    {
-      "id": "4917773",
-      "time": "2026-06-04 23:06:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：匈牙利擬支援歐盟對俄製裁延期一年。"
-    },
-    {
-      "id": "4917772",
-      "time": "2026-06-04 23:05:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "Quantinuum納斯達克上市首發，開盤指示價為78美元，IPO發行價為60美元。"
-    },
-    {
-      "id": "mkt:019e932b-6ca9-7ff8-893b-7cc3af27e5a8",
-      "time": "2026-06-04 23:05:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Hungary will support the EU extending sanctions on Russia for one year."
-    },
-    {
-      "id": "4917771",
-      "time": "2026-06-04 23:05:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗相關衝突 “已得到遏制。”"
-    },
-    {
-      "id": "mkt:019e932b-48b0-7ff8-893b-775377d87e07",
-      "time": "2026-06-04 23:05:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent: Iran conflict \"has been paused\"."
-    },
-    {
-      "id": "mkt:019e932a-df51-7ff8-893b-68fdcb023292",
-      "time": "2026-06-04 23:05:10",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "USD/JPY again touched the 160.00 area, trading up 0.04% intraday."
-    },
-    {
-      "id": "mkt:019e932a-c37d-7ff8-893b-648ed1c7de86",
-      "time": "2026-06-04 23:04:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chairman of the Russian Fertilizer Producers Association said Russia's fertilizer trade lost roughly 15 mln tonnes between Feb and May; nitrogen fertilizer shortages could cut crop yields by 20–40%."
-    },
-    {
-      "id": "4917770",
-      "time": "2026-06-04 23:04:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織擬調整衣索比亞專案撥款撥付階段安排，將約2億美元撥付提前至2026年。"
-    },
-    {
-      "id": "4917769",
-      "time": "2026-06-04 23:04:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯化肥生產商協會主席：2 至 5 月俄羅斯化肥貿易量減少 1500 萬噸。氮肥短缺可能導致作物產量下降20%至40%。"
-    },
-    {
-      "id": "mkt:019e9329-e1c7-7ff8-893b-5d5759b17e3c",
-      "time": "2026-06-04 23:04:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the White House has asked Congress to advance fuel-tax measures."
-    },
-    {
-      "id": "mkt:019e9329-dd0a-7ff8-893b-53a1fc9668c9",
-      "time": "2026-06-04 23:03:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US Treasury Secretary Bessent said he is urging Congress to act to repeal the fuel tax."
-    },
-    {
-      "id": "4917768",
-      "time": "2026-06-04 23:03:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：將繼續支援巴勒斯坦的“抵抗”。"
-    },
-    {
-      "id": "mkt:019e9329-ba7e-7ff8-893b-4b88c25e9d23",
-      "time": "2026-06-04 23:03:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said Iran will continue to support Palestinian \"resistance\"."
-    },
-    {
-      "id": "mkt:019e9329-0ab6-7ff8-893b-41f54df172fc",
-      "time": "2026-06-04 23:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi held a phone call with a member of Hamas' leadership council."
-    },
-    {
-      "id": "4917767",
-      "time": "2026-06-04 23:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已提請國會著手取消燃油稅。"
     }
   ]
 }
