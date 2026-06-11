@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-11 18:44:21",
-  "count": 18312,
+  "updated": "2026-06-11 18:48:15",
+  "count": 18315,
   "items": [
+    {
+      "id": "4930342",
+      "time": "2026-06-11 18:47:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【洩露超3000萬使用者資料 韓國電商酷澎被罰4億美元】韓國個人資訊保護委員會11日通報，因電商巨頭酷澎公司大規模洩露使用者資料、違規採集使用者網路活動記錄等，決定對其處以合計約6247億韓元（約合4.08億美元）罰款。這是該機構就資料洩露事件對單一企業開出的最高罰單。（新華社）"
+    },
+    {
+      "id": "4930341",
+      "time": "2026-06-11 18:46:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：PC獨立顯示卡Q1出貨1182萬塊 同比增長28.3%】分析公司Jon Peddie Research (JPR) 當地時間根據最新研究報告指出，PC獨立顯示卡在2026年第一季度的出貨規模達到1182萬塊，同比增長28.3%、環比下降0.6%，較十年同期平均值減少12.07%。JPR稱桌面PC獨立顯示卡配備率在Q1達到76%，相較2025年Q4增長約33.2個百分點；英特爾在獨立顯示卡市場的佔比出現0.4%增長、英偉達對應下滑0.4%、AMD市佔維持不變。"
+    },
+    {
+      "id": "mkt:019eb64a-c2ed-7dd8-afbb-798304f8cd25",
+      "time": "2026-06-11 18:46:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "INTC.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish",
+        "AMD.O"
+      ],
+      "text": "【JPR: PC discrete GPU shipments 11.82 mln in Q1 2026, up 28.3% YoY】Jon Peddie Research said PC discrete GPU shipments totaled 11.82 mln in Q1 2026, up 28.3% YoY and down 0.6% QoQ, about 12.07% below the ten‑year same‑quarter average. Desktop discrete‑GPU attach rate rose to 76% in Q1, up roughly 33.2 percentage points versus Q4 2025. Intel's market share in discrete GPUs increased about 0.4 percentage points, NVIDIA's fell about 0.4 percentage points, and AMD's share was flat."
+    },
+    {
+      "id": "4930340",
+      "time": "2026-06-11 18:46:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【證監會准予華泰三峽清潔能源封閉式基礎設施證券投資基金註冊】證監會發布關於准予華泰三峽清潔能源封閉式基礎設施證券投資基金註冊的批覆。准予華泰證券（上海）資產管理有限公司註冊華泰三峽清潔能源封閉式基礎設施證券投資基金，基金型別為契約型封閉式，基金合同期限為20年。基金的募集份額總額為5億份。同意你華泰證券（上海）資產管理有限公司為基金的基金管理人，中國農業銀行股份有限公司為基金的基金託管人。"
+    },
+    {
+      "id": "mkt:019eb649-ef1c-7dd8-afbb-711ad69ced8f",
+      "time": "2026-06-11 18:45:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSRC approves registration of Huatai Three Gorges Clean Energy closed-end infrastructure securities fund】The CSRC has approved registration of the Huatai Three Gorges Clean Energy closed-end infrastructure securities investment fund. Huatai Securities (Shanghai) Asset Management Co., Ltd. will act as fund manager and Agricultural Bank of China as custodian. The contract-based closed-end fund has a 20-year term and a total issuance of 500 mln units."
+    },
+    {
+      "id": "mkt:019eb649-d2fa-7dd8-afbb-69557484ccae",
+      "time": "2026-06-11 18:45:51",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "BMO raised its price target for Oracle (ORCL.N) to $220 from $200."
+    },
+    {
+      "id": "4930339",
+      "time": "2026-06-11 18:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "默沙東（默克）旗下動物健康部門將以未披露價格收購Targan。"
+    },
+    {
+      "id": "4930338",
+      "time": "2026-06-11 18:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長批評聯合國成員國對此保持沉默，並警告稱，國際社會的不作為將進一步加劇地區及全球安全風險。"
+    },
+    {
+      "id": "4930337",
+      "time": "2026-06-11 18:45:05",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【京東方Ａ：被美國國防部列入“中國軍事企業清單”並無正當理由】京東方Ａ公告，公司關注到美國國防部於當地時間 2026 年 6 月 8 日釋出“中國軍事企業清單”，其中包括京東方。京東方持續致力於產品和技術創新，目前產品和技術廣泛應用於手機、平板、筆記本、顯示器、電視等消費電子領域。京東方既不是中國軍事企業，也不是中國國防工業的軍民融合企業，將公司列入該名單並無正當理由。根據美國相關法律規則，“中國軍事企業清單”的限制措施與美國國防採購事宜相關，並不禁止其他任何人與本公司進行業務往來。目前公司生產經營情況正常，各項業務穩步推進。公司將持續跟進上述事項的進展情況，積極與相關方溝通，堅決維護公司、全體股東及所有合作伙伴的合法權益，並根據有關規定及時履行資訊披露義務。"
+    },
+    {
+      "id": "4930336",
+      "time": "2026-06-11 18:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長強烈譴責美方此次挑釁行為，指出此舉明顯違反《聯合國憲章》與國際法，徹底打破停火狀態，美方需為由此引發的危險後果承擔全部責任。"
+    },
+    {
+      "id": "mkt:019eb648-d5de-7dd8-afbb-65ae1f4043e7",
+      "time": "2026-06-11 18:44:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Lebanon's economy minister said Saudi Arabia opening its market to Lebanon is an important economic and political step."
+    },
     {
       "id": "mkt:019eb647-d80b-7dd8-afbb-5d03ba9bda62",
       "time": "2026-06-11 18:43:42",
@@ -168408,82 +168511,6 @@
         "國際"
       ],
       "text": "泰國消費者保護機構表示將起訴Meta旗下的臉書，原因是該平臺允許詐騙者利用臉書欺詐公眾。"
-    },
-    {
-      "id": "4917297",
-      "time": "2026-06-04 18:48:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯里蘭卡一養老機構發生火災致12人死亡】據斯里蘭卡方面4日訊息，位於該國西部省霍勒訥地區的一家養老機構3日晚發生火災，截至4日中午已致12人死亡。訊息稱，事故發生後，救援人員從養老機構安全轉移出44人，另有7名傷者被送往附近醫院救治。目前，仍有3人下落不明。當地警方正在調查火災具體原因。（央視新聞）"
-    },
-    {
-      "id": "4917296",
-      "time": "2026-06-04 18:46:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵電力A：控股股東因可交換債券換股致持股比例降至67.89%】粵電力A公告稱，2026年6月2日至3日，控股股東廣東能源集團發行的可交換債券持有人累計換股2151.1782萬股，導致廣東能源集團及其全資子公司對公司合計直接持股比例由68.30%被動降至67.89%，權益變動比例跨越1%整數倍。本次權益變動不會導致控股股東或實控人變更，對公司治理結構及經營無重大影響。換股期內，廣東能源集團持股可能因換股減少，存在不確定性。"
-    },
-    {
-      "id": "4917295",
-      "time": "2026-06-04 18:46:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "道瓊斯指數期貨漲0.41%，標普500指數期貨跌0.49%。"
-    },
-    {
-      "id": "mkt:019e923c-88d3-7668-9610-8866a09dbd85",
-      "time": "2026-06-04 18:45:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq-100 futures extended losses to 1.3%, hitting an intraday low; S&P 500 futures fell 0.4% while Dow futures rose 0.4%."
-    },
-    {
-      "id": "4917294",
-      "time": "2026-06-04 18:44:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克100指數期貨繼續下跌，跌幅達到1.3%，達本交易日的最低點。"
-    },
-    {
-      "id": "4917293",
-      "time": "2026-06-04 18:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "TD考恩將Netskope目標股價從25美元下調至19美元。"
-    },
-    {
-      "id": "mkt:019e923c-1d36-7668-9610-8337d3d09a4b",
-      "time": "2026-06-04 18:44:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Katz says current Lebanon developments could pave way for Israel-Lebanon peace accord】Israeli defense minister Katz said on the 4th that recent developments in Lebanon could create conditions for an Israel-Lebanon peace accord. He said a US-mediated principled statement reached in Washington between Israel and the Lebanese government reflects ground-level progress, including steps to reduce Hezbollah’s military capability, pull its forces north of the Litani River and establish a demilitarized zone. An IDF spokesman said fighting in southern Lebanon remains ongoing. Katz added Israel \"will not entrust its security to any other party\" and said the unfolding situation could, for the first time in nearly 50 years, offer northern Israeli residents \"real and lasting security.\""
-    },
-    {
-      "id": "4917292",
-      "time": "2026-06-04 18:44:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將雷神科技評級從持有上調至買入，將目標價從210美元上調至220美元。"
     }
   ]
 }
