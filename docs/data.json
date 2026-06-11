@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-11 13:09:14",
-  "count": 18365,
+  "updated": "2026-06-11 13:13:06",
+  "count": 18360,
   "items": [
+    {
+      "id": "4929610",
+      "time": "2026-06-11 13:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鎢原料長單含稅單價較上月漲幅明顯 翔鷺鎢業：之前回落太多】記者獲悉，翔鷺鎢業6月份上半月55%黑鎢精礦、55%白鎢精礦、仲鎢酸銨（國際零級）的長單採購報價(含稅）分別為518000元/標噸、517000元/標噸、780000元/噸。此前，5月份下半月，公司55%黑鎢精礦、55%白鎢精礦、仲鎢酸銨報價（含稅）分別為414000元/標噸、413000元/標噸、660000元/噸。6月上半月漲幅明顯。對於漲價原因，翔鷺鎢業證券部工作人員稱：“之前回落太多”。（財聯社）"
+    },
+    {
+      "id": "4929609",
+      "time": "2026-06-11 13:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇算力規模位居全國前列】6月9日，由江蘇省資料局等單位編制的《江蘇省資料基礎設施發展報告（2025年）》釋出。報告顯示，截至2025年底，江蘇算力總規模位居全國前列，綜合算力指數位列全國第二。算力是數字經濟時代的新型生產力，是人工智慧的基石之一。截至2025年底，全省在用資料中心284個，算力總規模達88.29EFlops，其中，智算規模達65.51EFlops，佔比超74%。"
+    },
     {
       "id": "4929608",
       "time": "2026-06-11 13:07:41",
@@ -169164,71 +169180,6 @@
         "其他"
       ],
       "text": "澳大利亞儲備銀行行長：如果通貨膨脹持續下去，利率將在較長一段時間內維持在高位。"
-    },
-    {
-      "id": "mkt:019e910b-ee99-7cc0-ba25-c0807b1070af",
-      "time": "2026-06-04 13:12:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share power sector extended gains in the afternoon; Huadian Energy, Henan Yuneng Holdings, Xinzhonggang, Meiyan Jixiang and Baitong Energy hit the daily limit, while Jingneng Power, Jinkai New Energy, Jiangsu Guoxin and Huadian Liaoning Energy rallied."
-    },
-    {
-      "id": "4916610",
-      "time": "2026-06-04 13:12:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【儲存晶片板塊震盪走強，德明利觸及漲停】儲存晶片板塊震盪走強，德明利觸及漲停，佰維儲存漲超10%，江波龍、夏農芯創跟漲。"
-    },
-    {
-      "id": "mkt:019e910b-5884-7cc0-ba25-b9f498ddc808",
-      "time": "2026-06-04 13:11:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share gas-turbine names extended gains. Boyingte Han hit the daily limit; Zhongguo Dongli and Jereh earlier hit limit-up, while Liande, Wanze and Yingliu also rose."
-    },
-    {
-      "id": "mkt:019e910b-37e3-7cc0-ba25-b0c7bd91b276",
-      "time": "2026-06-04 13:11:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the budget's impact may not be materially different from the bank's expectations."
-    },
-    {
-      "id": "4916609",
-      "time": "2026-06-04 13:11:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【六安高新建設投資集團有限公司董事長吳昌東接受紀律審查和監察調查】安徽紀檢監察網6月4日通報，六安高新建設投資集團有限公司黨支部書記、董事長、總經理吳昌東涉嫌嚴重違紀違法，目前正接受六安市裕安區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "em:qqyh_ozlc:202606043760229844",
-      "time": "2026-06-04 13:10:31",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "澳洲央行總裁布洛克表示，預期短期內通脹將進一步上升，將密切關注情勢，評估利率上升和能源價格衝擊的綜合影響將如何顯現。"
-    },
-    {
-      "id": "4916608",
-      "time": "2026-06-04 13:10:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：投資是近期經濟中的一大亮點。"
     }
   ]
 }
