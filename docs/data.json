@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-12 04:52:43",
-  "count": 18424,
+  "updated": "2026-06-12 04:56:38",
+  "count": 18428,
   "items": [
+    {
+      "id": "mkt:019eb878-7b4b-7dd8-afcb-c2d295624f4e",
+      "time": "2026-06-12 04:56:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry says no final conclusion yet on Iran-US agreement】Iranian foreign ministry spokesman Baghaei said on the 11th that proposals in the Iran-US agreement are speculative and Iran has not reached a final conclusion. He said US actions have made the Strait of Hormuz less secure; Qatar and Pakistan are actively mediating but US moves have affected the diplomatic process. Baghaei said Tehran has been clear on negotiation progress, that most of the draft text is complete, the US keeps changing its position, and Iran will not compromise on matters it has designated as \"red lines\"."
+    },
+    {
+      "id": "4931255",
+      "time": "2026-06-12 04:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：尚未就伊美協議達成最終結論】伊朗外交部發言人巴加埃當地時間11日表示，關於美伊協議提出的事項都是猜測。到目前為止，伊朗尚未就協議達成最終結論。巴加埃還稱，由於美國的行動，霍爾木茲海峽的局勢更加不安全。巴加埃還表示，卡達和巴基斯坦正積極發揮調解作用，但美國的行動影響了外交程序。他稱，伊朗方面從一開始就清楚談判的進展狀況，協議文字的大部分內容已經完成，但美國方面不斷改變其立場。伊朗已證明，對於其劃定為“紅線”的問題，伊方絕不會作出妥協。美國總統特朗普早些時候稱，據他了解，伊朗最高領袖已同意美伊協議，伊朗各方均已批准該協議。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb876-1c50-7dd8-afcb-bae93d7aa588",
+      "time": "2026-06-12 04:53:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry says no final conclusion on Iran-US agreement】Iran's foreign ministry said on state TV on the 11th that it has not reached a final conclusion on an Iran-US agreement, described outside reports as speculative and said the matter remains unsettled."
+    },
+    {
+      "id": "4931254",
+      "time": "2026-06-12 04:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：尚未就伊美協議達成最終結論】據伊朗國家電視臺11日報道，伊朗外交部發言人表示，迄今為止，伊朗尚未就伊美協議達成最終結論，外界針對該協議傳出的說法均為猜測，相關事宜尚未敲定。（新華社）"
+    },
+    {
+      "id": "4931253",
+      "time": "2026-06-12 04:52:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【彭博美元指數創逾1個月最大跌幅，特朗普暗示美伊協議即將達成】彭博美元指數創下逾1個月最大跌幅，此前美國總統特朗普取消原定對伊朗的襲擊計劃，並稱美伊協議僅待最終檔案敲定。彭博美元指數週四下跌0.3%，創下5月6日以來最差單日表現。美國國債收益率也跟隨油價走低。美國銀行外匯策略師Alex Cohen表示：“今天下午的訊息明顯釋放出更具建設性的基調，提振了市場對和平協議即將達成的預期，這令美元承壓。”自2月末美國和以色列襲擊伊朗以來，彭博美元指數已上漲1.6%，主要得益於投資者對安全資產的需求。美元與油價也表現出高度相關性，走勢通常同步。"
+    },
     {
       "id": "mkt:019eb874-6ce5-7dd8-afcb-b1be3257b948",
       "time": "2026-06-12 04:51:38",
@@ -169901,14 +169946,6 @@
         "The Trump Trade"
       ],
       "text": "CNN reports Trump has confirmed he will attend the New York Knicks' NBA Finals game in New York next Monday."
-    },
-    {
-      "id": "mkt:019e946a-1d7a-7cc8-bdee-99b193a15696",
-      "time": "2026-06-05 04:54:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's central bank market expectations survey projects GDP growth of 2.9% by end-2026, a 0.1 percentage-point upward revision from the prior forecast; inflation is projected at 30.5%."
     }
   ]
 }
