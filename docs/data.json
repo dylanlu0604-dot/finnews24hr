@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-11 15:37:49",
+  "updated": "2026-06-11 15:42:08",
   "count": 18349,
   "items": [
+    {
+      "id": "4929869",
+      "time": "2026-06-11 15:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道稱，對敵方行動的戰術回應只是伊斯蘭共和國反應的部分內容，但嚴厲且最終的報復將基於革命耐心在適當的時候實現。"
+    },
+    {
+      "id": "4929868",
+      "time": "2026-06-11 15:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗報道：嚴厲且最終的報復將在適當的時候實現。"
+    },
+    {
+      "id": "mkt:019eb5a0-053d-7dd8-afb7-923ff30922ea",
+      "time": "2026-06-11 15:40:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01888.HK",
+        "Impact bullish",
+        "02476.HK",
+        "00148.HK"
+      ],
+      "text": "Hong Kong PCB sector traded higher after choppy moves; Kingboard Laminates (01888.HK) climbed more than 10%, Shenghong Technology (02476.HK) rose over 5% and Kingboard Group (00148.HK) gained over 5%."
+    },
+    {
+      "id": "4929867",
+      "time": "2026-06-11 15:40:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股PCB板塊震盪走高，建滔積層板(01888.HK)漲超10%，勝宏科技(02476.HK)漲超5%，建滔集團(00148.HK)漲超5%。"
+    },
+    {
+      "id": "mkt:019eb59f-faae-7dd8-afb7-8832e5cc22db",
+      "time": "2026-06-11 15:40:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Changjiang Securities' Wu Ge: Oil may have peaked; export advantage persists】Changjiang Securities chief economist Wu Ge said oil prices may have peaked as multiple channels are filling crude supply gaps and high prices risk reflexive political effects on the US midterms. He said demand for AI-related compute and tokens is showing non-linear growth while global power and related supply remain linear, creating cost pressure; together with economic resilience this is lifting overseas risk-free rates and returning assets to a macro-driven pricing paradigm, with the scale depending on the earnings-versus-rates trade-off. Domestically, a small pickup in some second‑hand housing markets is visible, but household lending suggests housing and consumption are bottoming. Wu said China’s export comparative advantage persists."
+    },
+    {
+      "id": "4929865",
+      "time": "2026-06-11 15:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天正電氣：擬以7500萬元-1.5億元回購公司股份】天正電氣公告，擬以7500萬元-1.5億元回購公司股份，回購價格不超過11.5元/股。"
+    },
+    {
+      "id": "4929864",
+      "time": "2026-06-11 15:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅洛尼：義大利國防開支佔GDP的2.8%。"
+    },
+    {
+      "id": "4929863",
+      "time": "2026-06-11 15:38:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據美國內政部公佈的規劃檔案，為在唐納德・特朗普卸任前建成其“凱旋拱門”，美國國家公園管理局計劃在未來兩至三年內、每天施工20小時推進建設。"
+    },
+    {
+      "id": "mkt:019eb59d-aa4b-7dd8-afb7-824efcf80bb6",
+      "time": "2026-06-11 15:37:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr News Agency reports five crew members were rescued with assistance from passing vessels and transferred to Oman."
+    },
+    {
+      "id": "mkt:019eb59d-a739-7dd8-afb7-786bb0a71f17",
+      "time": "2026-06-11 15:37:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【TD Securities: Expectation that ECB's rate hike will not be a one-off is reasonable】TD Securities says with inflation re-accelerating and energy-driven pressures likely to spill into core prices and services, the ECB appears poised to raise rates 25bp to 2.25%. Markets treat a June hike as the start of limited tightening; the probability of a further move in September is about 65% and December is fully priced. Given the broadening inflation risk—energy-led increases feeding services, wages and expectations—TD Securities views this market pricing as reasonable. If incoming data confirm underlying inflation is not easing fast enough, a September follow-up is likely."
+    },
+    {
+      "id": "te:markets:558305",
+      "time": "2026-06-11 15:37:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Higher, ECB Awaited — Stocks in Europe traded higher on Thursday, with both the STOXX 50 and the STOXX 600 gaining 0.4%, as investors assessed the evolving situation in the Middle East and brace for the ECB', monetary policy decision. The US military announced that it had completed strikes in Iran, while Israel reported missile launches from Lebanon and Kuwait closed its airspace amid what it described as \"Iranian aggression\". Meanwhile, the ECB is widely expected to deliver its first interest rate hike since 2023 later in the morning. Technology stocks provided support as the semiconductor sector attempted to recover from recent losses. STMicroelectronics rose 2.7%, ASML Holding gained 2.6%, and Infineon Technologies advanced 1.2%. Meanwhile, Hugo Boss surged more than 6% after its largest shareholder, Frasers Group, launched a $2 billion takeover bid for the fashion house."
+    },
+    {
+      "id": "4929862",
+      "time": "2026-06-11 15:37:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【朱鶴新會見巴西財政部副部長阿倫卡斯特羅】2026年6月10日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的巴西財政部副部長阿倫卡斯特羅（Mathias Alencastro）。雙方就進一步發揮中巴可持續發展擴大產能合作基金作用、深化雙邊金融開放合作、加強可持續投資領域對話等議題進行了交流。國家外匯管理局副局長李紅燕陪同會見。"
+    },
+    {
+      "id": "mkt:019eb59d-7a70-7dd8-afb7-7212cefab275",
+      "time": "2026-06-11 15:37:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reported the governor of Iran’s Sistan and Baluchestan province said a U.S. shell struck a merchant vessel in the Gulf of Oman."
+    },
     {
       "id": "4929861",
       "time": "2026-06-11 15:37:06",
@@ -27,6 +160,14 @@
         "國際"
       ],
       "text": "【長江證券伍戈：油價或有“頂” 出口比較優勢猶存】6月11日，由證券時報社主辦、長江證券協辦的“逐光而行，聚力共進——2026中國金長江私募基金髮展論壇暨第十一屆中國私募基金金長江獎頒獎典禮”在上海舉行。長江證券首席經濟學家伍戈在論壇上發表了主題演講。伍戈認為，宏觀經濟中供給衝擊與需求波動相互交織，鑑於多種渠道填補原油供給缺口，及高油價對美國中期選舉的反身性影響，油價或是有“頂”的。儘管各界對AI科技估值存在爭議，但對算力、Token等需求還停不下來，甚至有非線性增長趨勢，然而全球電力等相關供給卻是線性的，成本衝擊及經濟韌性共同推升海外無風險利率，相關資產似重歸宏觀定價正規化，但幅度仍取決於盈利預期與利率的平衡。伍戈表示，儘管國內部分二手房市場現“小陽春”，但居民貸款預示住房、消費等內生動能仍在築底。與此同時，伍戈認為，我國出口的比較優勢猶存。"
+    },
+    {
+      "id": "4929859",
+      "time": "2026-06-11 15:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方支援泰方依法審判相關案件，嚴懲兇手】6月11日，外交部發言人林劍主持例行記者會。法新社記者提問，泰國的法院裁定兩名來自中國的維吾爾族男子因參與2015年的曼谷爆炸案被判處死刑，之前也有中國的受害人在爆炸中去世。請問對此有何評論？林劍表示，我們注意到泰方已就相關案件作出判決。當年的恐襲爆炸造成包括7名中國公民在內20人罹難、一百多人受傷。施襲者毫無人性、罪大惡極。中方支援泰方依法審判，嚴懲兇手。"
     },
     {
       "id": "4929858",
@@ -168787,145 +168928,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖穆傑塔巴·哈梅內伊在一封信中指出，任何引發民眾悲觀與沮喪的行為，本質上都是在幫助敵人。"
-    },
-    {
-      "id": "mkt:019e9194-32a7-7668-960b-e40e923be80d",
-      "time": "2026-06-04 15:41:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China MIIT to cultivate 6G application scenarios in immersive comms, industrial manufacturing, low‑altitude economy, embodied intelligence and smart ocean】The Ministry of Industry and Information Technology General Office issued a notice launching a provincial collaborative pilot for 6G innovation. It targets potential 6G scenarios — immersive communications, industrial manufacturing, low‑altitude economy, embodied intelligence and smart ocean — and calls for policy, data, talent and capital support. The plan seeks stronger guarantees on approvals, spectrum allocation and land use and advocates localised cultivation of application scenarios. Vertical industry firms will work with telecom companies to validate 6G applications and security solutions and to explore new application demands. SMEs are encouraged to engage in requirement discovery and business‑model trials to promote 6G application development."
-    },
-    {
-      "id": "4916828",
-      "time": "2026-06-04 15:41:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月4日滬深兩市漲停分析】創業板指縮量調整跌0.83%，算力硬體、半導體產業鏈逆勢走強。天洋新材、紅星發展、大有能源均4連板，鑫科材料3連板，一圖看懂>>"
-    },
-    {
-      "id": "4916827",
-      "time": "2026-06-04 15:41:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【眾鑫股份：中東業務營收佔整體比重較小 該區域在二季度大多已恢復正常出貨】眾鑫股份(603091)6月4日在互動平臺表示，公司中東業務營收佔整體比重較小，該區域在二季度大多已恢復正常出貨，美伊衝突未帶來重大經營影響；泰國基地出貨秩序平穩，海運運費變動尚未對公司經營產生不利影響。"
-    },
-    {
-      "id": "mkt:019e9193-8875-7668-960b-dda0d0111805",
-      "time": "2026-06-04 15:40:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "South Korean won (KRW/USD) fell to its weakest level since March 2009."
-    },
-    {
-      "id": "4916826",
-      "time": "2026-06-04 15:40:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伊之密：目前與蔚來未有合作】伊之密6月4日在互動平臺表示，公司目前與蔚來未有合作。"
-    },
-    {
-      "id": "te:markets:556456",
-      "time": "2026-06-04 15:39:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Below $97 — Brent crude futures fell nearly 1% to below $97 per barrel on Thursday, snapping a three-day rally, as hopes for an agreement with Iran to end the conflict increased modestly. Sentiment was supported by reports that Israel and Lebanon had agreed to a ceasefire, conditional on Hezbollah also halting its attacks. However, there was no immediate indication that Hezbollah had accepted the terms of the agreement. Also, President Trump said on Wednesday that progress in negotiations with Iran could be achieved as early as this weekend. Despite these diplomatic and political signals, tensions in the region remain elevated. The US and Iran have exchanged strikes in recent days, while the conflict has spilled over into Bahrain and Kuwait. On the supply side, EIA data showed that US crude oil inventories fell for a sixth consecutive week, bringing stockpiles closer to minimum operating levels."
-    },
-    {
-      "id": "mkt:019e9193-0a81-7668-960b-d5c12e95ca74",
-      "time": "2026-06-04 15:39:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme Leader Mojtaba Khamenei said in a letter that Iran's enemies, after being defeated on the battlefield, are trying to \"undermine the people's resilience and foment internal division.\""
-    },
-    {
-      "id": "4916825",
-      "time": "2026-06-04 15:39:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "韓元兌美元匯率跌破2009年3月以來最低水平。"
-    },
-    {
-      "id": "4916824",
-      "time": "2026-06-04 15:39:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊在一封信件中表示，伊朗的敵人在戰場落敗後，正試圖“破壞民眾的韌性，製造內部分裂”。"
-    },
-    {
-      "id": "4916823",
-      "time": "2026-06-04 15:38:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：加強新型終端、晶片器件、作業系統、商業航天等6G關聯產業培育】工業和資訊化部辦公廳釋出關於組織開展6G創新發展部省協同試點專項行動的通知。重點任務方面，加強產業研發協同。結合6G標準和產業發展節奏，加強6G基站、核心網、承載網、專用儀器儀表等通訊裝置產業研發，提升產品效能和安全保障水平，支撐6G商用部署。最佳化關聯產業研釋出局，加強新型終端、晶片器件、作業系統、商業航天等6G關聯產業培育，打造地方6G特色產業叢集。"
-    },
-    {
-      "id": "te:economy:556454",
-      "time": "2026-06-04 15:38:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Little Changed as Oil Prices Ease, Geopolitical Risks Persist — German 10-year Bund yields held at 3.02%, slightly lower as oil prices dipped but remained near multi-year highs. Ongoing Iran-US tensions and concerns about prolonged conflict fueling inflation kept markets on edge. Iran claimed it targeted a US command ship in the Gulf of Oman, while the Republican-led House voted to halt US military action against Iran, marking a rare challenge to President Trump’s administration. Israel and Lebanon also agreed to a conditional ceasefire, though Prime Minister Netanyahu warned of potential further strikes. On monetary policy, markets are pricing in a near-certain 25-basis-point ECB rate hike at the June 11 meeting, with two or possibly three increases expected this year. This comes after Euro-area inflation hit 3.2% in May, its highest in over two and a half years, driven by surging energy costs tied to the conflict. Core inflation also rose to 2.5%, and services inflation reached 3.5%, signaling broadening price pressures beyond energy."
-    },
-    {
-      "id": "te:markets:556453",
-      "time": "2026-06-04 15:38:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Fall on Thursday — WTI crude futures fell nearly 1% to around $95 per barrel on Thursday, snapping a three-day rally, as hopes for an agreement with Iran to end the conflict increased modestly. Sentiment was supported by reports that Israel and Lebanon had agreed to a ceasefire, conditional on Hezbollah also halting its attacks. However, there was no immediate indication that Hezbollah had accepted the terms of the agreement. Also, President Trump said on Wednesday that progress in negotiations with Iran could be achieved as early as this weekend. Despite these diplomatic and political signals, tensions in the region remain elevated. The US and Iran have exchanged strikes in recent days, while the conflict has spilled over into Bahrain and Kuwait. On the supply side, EIA data showed that US crude oil inventories fell for a sixth consecutive week, bringing stockpiles closer to minimum operating levels."
-    },
-    {
-      "id": "4916822",
-      "time": "2026-06-04 15:38:09",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【以色列和黎巴嫩同意有條件停火後，原油期貨下跌】在以色列和黎巴嫩同意以伊朗支援的真主黨結束敵對行動為條件的停火協議後，油價下跌。在歐洲交易時段早盤，布倫特原油下跌0.8%，至每桶97.03美元，而西得州中質油期貨下跌1%，至每桶95.32美元。與此同時，隨著出口需求保持高位，上週美國商業原油庫存減少了800萬桶，此外戰略石油儲備又釋放了800萬桶。分析師表示，全球庫存為市場提供了緩衝，並可能在進入第三季度時繼續收緊，給價格留下上行風險。荷蘭國際集團的Warren Patterson和Ewa Manthey表示：“如果沒有地區原油供應的正常化，隨著庫存繼續減少，市場越來越容易出現大幅上漲。”"
-    },
-    {
-      "id": "mkt:019e9191-336c-711a-bad8-eea04ccd8f45",
-      "time": "2026-06-04 15:37:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MIIT launches minister‑province 6G innovation pilot】China's Ministry of Industry and Information Technology (MIIT) has issued a notice launching a minister‑province collaborative 6G innovation pilot. The program targets delivery by 2029 to spur local and corporate innovation, generate indigenous 6G technical solutions, cultivate commercially promising application scenarios, and produce a range of new terminal products to support 6G commercial deployment."
     }
   ]
 }
