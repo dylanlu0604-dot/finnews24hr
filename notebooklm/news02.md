@@ -1,7 +1,331 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-12 03:12:47_
-_本檔包含 3680 則快訊，約 672870 字_
+_更新時間：2026-06-12 03:58:17_
+_本檔包含 3701 則快訊，約 672678 字_
+
+---
+
+### 2026-06-10 23:13:43  #國際
+
+特朗普即將發表講話。
+
+---
+
+### 2026-06-10 23:13:27  #國際
+
+歐盟委員會主席馮德萊恩：歐洲與韓國建立了長久的夥伴關係，雙方合作空前緊密。今日我們宣佈簽署數字貿易協定並建立競爭力夥伴關係。
+
+---
+
+### 2026-06-10 23:12:58  #市場
+
+納斯達克100指數跌至盤中低點1.2%。
+
+---
+
+### 2026-06-10 23:12:50  #公司 #市場 #國際
+
+【美股晶片股普遍轉跌】美股晶片股普跌，高通跌逾5%，博通跌逾4%，美國超微公司、臺積電跌逾2%，英偉達跌2%
+
+---
+
+### 2026-06-10 23:12:25  #公司
+
+【長安汽車否認“四折出售長福新能源”，稱股權轉讓屬股東層面正常結構調整】有傳言稱長安汽車“四折出售長安福特新能源公司（簡稱“長福新能源”）40%股權”。6月10日，長安汽車方面回應稱，長安汽車直接持有長福新能源的股權就只有40%。本次股權轉讓是以評估機構對長福新能源的評估值為基準，對應40%股權的評估價值作為掛牌價格，並不存在所謂“四折出售”的情況。長安汽車方面表示，此次股權轉讓屬於股東層面的正常結構調整。
+
+---
+
+### 2026-06-10 23:12:01  #MKT News
+
+【Baltic Dry Index extends decline as capesize rates slide】The Baltic Dry Index extended its decline, falling 47 pts (-1.67%) to 2,771 as weaker capesize rates weighed. The capesize index dropped 140 pts (-3.2%) to 4,301; capesize average daily earnings fell $1,267 to $35,504. The panamax index rose 6 pts (0.3%) to 2,211, with panamax daily earnings up $51 to $19,897. The supramax index gained 4 pts (0.3%) to 1,618 and the handysize index added 7 pts to 875.
+
+---
+
+### 2026-06-10 23:11:18  #市場
+
+標普500指數跌至盤中低點0.8%。
+
+---
+
+### 2026-06-10 23:10:29  #其他
+
+超微電腦因70億美元融資計劃，股價跌幅擴大至17%。
+
+---
+
+### 2026-06-10 23:10:05  #MKT News #Market Themes #The Trump Trade #FOXA.O #Impact bullish
+
+U.S. House Democrats said the Trump administration’s probe into sports broadcasting rights is intended to help Fox secure a better deal.
+
+---
+
+### 2026-06-10 23:09:30  #MKT News
+
+Nominee for Bureau of Labor Statistics commissioner Matsumoto said maintaining transparency for data users helps ensure the Bureau's statistical processes remain free from political interference.
+
+---
+
+### 2026-06-10 23:09:07  #國際
+
+美國眾議院民主黨人表示，特朗普政府對體育轉播權展開調查，目的是幫助福克斯達成更有利的交易。
+
+---
+
+### 2026-06-10 23:08:57  #國際
+
+【特朗普：要求國會批准《外國情報監視法》的短期延期】美國總統特朗普表示：“就像此前邊境資金議題一樣，激進左翼民主黨人正借無關議題挾持國家安全事務。他們不該拿我們偉大國家的安全玩弄政治手段。我已任命威廉·普爾特擔任國家情報代理局長，其將於6月19日正式履職。我要求他立即對該機構進行必要精簡，將人員調回原所屬部門。與此同時，我正在物色一名具備國家安全領域經驗的正式國家情報總監人選。《外國情報監視法》第702條款對我方軍方以及保障美國民眾安全至關重要，當下正值世界盃賽事與美國建國250週年慶祝活動期間，該法案的作用尤為突出。若未能採取行動，這項重要法案將於本週到期。我請求國會批准短期延期《外國情報監視法》，為遴選並提名任命該機構正式負責人留出時間。”
+
+---
+
+### 2026-06-10 23:08:57  #MKT News
+
+President Trump asked Congress to submit a short-term extension of the Foreign Intelligence Surveillance Act for his signature.
+
+---
+
+### 2026-06-10 23:08:35  #MKT News #Important
+
+U.S. Defense Secretary Hegseth said it would be unwise for Cuba to seek weapons capable of striking the U.S. base at Guantanamo Bay or the U.S. homeland.
+
+---
+
+### 2026-06-10 23:08:03  #MKT News
+
+President Trump is seeking a nominee for permanent Director of National Intelligence with national security experience.
+
+---
+
+### 2026-06-10 23:07:33  #國際
+
+美國勞工統計局局長提名人松本：向資料使用者提高資料透明度，有助於保障統計流程不受政治干預。
+
+---
+
+### 2026-06-10 23:07:20  #MKT News #Market Themes #The Trump Trade
+
+President Trump asked Federal Housing Finance Agency Director Pulte to immediately implement necessary layoffs and return staff to their original agencies.
+
+---
+
+### 2026-06-10 23:07:15  #國際
+
+美國國防部長赫格塞思在訪問期間表示，古巴若尋求研發可打擊美軍關塔那摩灣基地或美國本土的武器，乃是不智之舉。
+
+---
+
+### 2026-06-10 23:07:06  #國際
+
+特朗普：已要求普爾特立即對該辦公室進行必要的裁員縮編，將工作人員遣返至其原所屬機構。
+
+---
+
+### 2026-06-10 23:07:02  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Strengthens After BoC Holds Rates — The Canadian dollar strengthened slightly to around 1.39 per US dollar after the Bank of Canada left its key interest rate unchanged at 2.25%, as widely expected. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, but reiterated that it stands ready to act if needed and will not allow higher energy prices to feed sustained inflation. Investors largely expect the central bank to raise borrowing costs by 25bps in December. Still, the loonie remained near December lows, as the conflict with Iran continued to support demand for the US dollar as a safe haven.
+
+---
+
+### 2026-06-10 23:06:58  #國際
+
+特朗普：我正在尋找一名具備國家安全領域經驗的永久國家情報總監提名人選。
+
+---
+
+### 2026-06-10 23:06:44  #國際
+
+特朗普：要求國會批准《外國情報監視法》的短期延期。
+
+---
+
+### 2026-06-10 23:06:38  #國際
+
+美國勞工統計局局長提名人松本：我將全力恪守該局的公正性與獨立性。
+
+---
+
+### 2026-06-10 23:06:35  #MKT News
+
+U.S. Bureau of Labor Statistics (BLS) director nominee Matsumoto pledged to preserve the agency's integrity and independence.
+
+---
+
+### 2026-06-10 23:06:10  #MKT News #Market Regions #Emerging Markets #GOOGL.O #Impact bullish
+
+Google said it will roll out Chrome's GEMINI features to users in Latin America, Africa and the Middle East.
+
+---
+
+### 2026-06-10 23:06:01  #國際
+
+伊朗武裝部隊發言人：伊朗對美國總統特朗普的每一次威脅都予以了“當頭棒喝”，在特朗普威脅要襲擊伊朗基礎設施後，伊朗將採取比以往更加強硬的回應；面對“全球霸權體系和世界惡魔”，尤其是特朗普和內塔尼亞胡，我們絕不會退縮。
+
+---
+
+### 2026-06-10 23:04:47  #公司
+
+亞馬遜：AWS Graviton5現已全面推出，為智慧體AI時代提供專屬定製效能。
+
+---
+
+### 2026-06-10 23:03:59  #其他
+
+卡特彼勒股價跌5%。
+
+---
+
+### 2026-06-10 23:03:34  #MKT News #DXY #Impact bearish
+
+BOC Governor Macklem said if core inflation begins to rise, it would certainly draw the bank's attention.
+
+---
+
+### 2026-06-10 23:03:17  #央行 #其他
+
+加拿大央行行長麥克勒姆：若我們開始看到核心通脹上行偏移，勢必會引起我們的關注。
+
+---
+
+### 2026-06-10 23:02:52  #央行 #市場
+
+加拿大央行行長麥克勒姆：我們將核心通脹作為一項工具，用以判斷價格上漲的普遍程度。
+
+---
+
+### 2026-06-10 23:02:32  #其他
+
+【我國原創RNA編輯技術世界首次應用於罕見病治療】昌平實驗室/北京大學魏文勝教授團隊6月10日釋出，該團隊研發的RNA編輯技術LEAPER在治療杜氏肌營養不良症（簡稱“DMD”）這一嚴重遺傳性罕見病中取得國際領先成果。這是我國原創RNA編輯技術首次進入臨床研究，也是國際上首次將RNA編輯應用於DMD治療。該技術與應用兩項重要成果同期發表於當日上線的國際學術期刊《細胞》。（新華社）
+
+---
+
+### 2026-06-10 23:02:12  #MKT News
+
+India's Ministry of External Affairs is coordinating with Omani authorities on a search-and-rescue operation for missing Indian crew members; 21 have been rescued and three remain missing.
+
+---
+
+### 2026-06-10 23:01:57  #MKT News #Important #Commodities #Energy
+
+At the 23:00 close, China's most-active futures contracts were mostly higher: liquefied petroleum gas (LPG), low-sulfur fuel oil (LU) and coke rose more than 2%; fuel oil rose nearly 2%; propylene, ethylene glycol (EG), methanol and soybean No.2 gained over 1%. Synthetic rubber fell about 1%.
+
+---
+
+### 2026-06-10 23:01:46  #國際
+
+印度外交部：印度正與阿曼官方機構配合，開展針對失蹤印度船員的持續搜救行動。
+
+---
+
+### 2026-06-10 23:01:38  #國際
+
+印度外交部：油輪失聯事件目前已有21名印度船員獲救，仍有3名印度海員下落不明。
+
+---
+
+### 2026-06-10 23:01:27  #國際
+
+印度外交部：印度譴責週三阿曼沿海發生的“塞特貝洛”號商用油輪遇襲事件。
+
+---
+
+### 2026-06-10 23:01:26  #MKT News #Macro & Rates #US Economy
+
+U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said initial and overall survey response rates have declined, which may reduce the representativeness of BLS samples.
+
+---
+
+### 2026-06-10 23:00:03  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Rises by 0.45% — Top currency gainers are Norwegian Krone (0.45%), Mexican Peso (0.41%), Indian Rupee (0.29%), British Pound (0.16%) and Euro (0.08%). Biggest loser is Japanese Yen (-0.08%). Meanwhile Dollar Index was little changed.
+
+---
+
+### 2026-06-10 23:00:02  #市場
+
+【夜盤期貨收盤】焦炭連續漲2.34%，液化石油氣連續漲2.22%，低硫燃料油連續漲2.15%，燃料油連續漲1.92%，乙二醇連續漲1.51%。
+
+---
+
+### 2026-06-10 22:59:54  #MKT News #Macro & Rates #US Economy
+
+Matsumoto, nominee for U.S. Bureau of Labor Statistics commissioner, said some of the issues causing ongoing sizeable downward revisions to employment data may be related to statistical models.
+
+---
+
+### 2026-06-10 22:59:51  #市場
+
+【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，納斯達克100指數期貨跌0.93%，標普500指數期貨跌0.71%。
+
+---
+
+### 2026-06-10 22:59:24  #國際
+
+美國勞工統計局提名人松本表示：導致就業資料持續大幅下修的部分原因，可能源於統計模型存在問題。
+
+---
+
+### 2026-06-10 22:59:10  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Equinix Stock Price Hits 8-week Low — Equinix shares decreased to 1043.00 USD, the lowest since April 2026. Over the past 4 weeks, Equinix lost 3.78%, and in the last 12 months, it increased 16.95%.
+
+---
+
+### 2026-06-10 22:58:59  #其他
+
+【荷蘭銀行旗下機構稱參與SpaceX上市猶如豪賭 與早年投資加密貨幣類似】荷蘭銀行旗下ABN Amro Investment Solutions的首席投資官Christophe Boucher表示，參與SpaceX首次公開募股，類似於大約15年前買入加密貨幣，要麼可能損失全部本金，要麼可能獲得指數級的回報。儘管有理由對埃隆·馬斯克為SpaceX設定的約1.8萬億美元目標估值持懷疑態度，但仍需考慮其風險回報比。
+
+---
+
+### 2026-06-10 22:58:46  #公司
+
+【深圳市星源材質科技股份有限公司透過港交所上市聆訊】據港交所檔案：深圳市星源材質科技股份有限公司透過港交所上市聆訊。
+
+---
+
+### 2026-06-10 22:58:34  #MKT News
+
+BOC Governor MACKLEM said talks on the US-Mexico-Canada Agreement will continue for months.
+
+---
+
+### 2026-06-10 22:58:28  #MKT News #Important #Dow #Impact bearish #Nasdaq100 #S&P500
+
+Dow Jones Industrial Average losses widened to 1.0%; Nasdaq Composite down 0.95%; S&P 500 down 0.7%.
+
+---
+
+### 2026-06-10 22:58:17  #Trading Economics #Markets #South Africa #Currency #Importance 1
+
+South African Rand Subdued — The South African rand hovered around 16.5 per USD, near the lowest since mid-May, pressured by falling prices of key precious metals, particularly gold and PGMs. Markets turned cautious as Middle East tensions flared again with US–Iran strikes, while Trump’s remarks unsettled a fragile ceasefire and clouded hopes for a broader peace deal. Meanwhile, the South African Reserve Bank noted in its Financial Stability Review that the oil price shock could prolong inflationary pressures, increasing the likelihood of further tightening. It added that its quarterly projection model now suggests another rate hike in 2026 following the 25-basis-point increase on May 28.
+
+---
+
+### 2026-06-10 22:58:14  #市場 #焦點
+
+道指跌1.02%，現報50355.352點；納指跌0.90%，現報25448.055點；標普500指數跌0.70%，現報7335.140點。
+
+---
+
+### 2026-06-10 22:58:10  #市場 #國際
+
+【NYMEX取暖油主力合約漲超2%】NYMEX取暖油主力合約漲超2%，現報3.62美元/加侖。
+
+---
+
+### 2026-06-10 22:57:57  #央行 #其他
+
+加拿大央行行長：關於美墨加協定談判的基本預期是談判將持續數月。
+
+---
+
+### 2026-06-10 22:57:54  #市場 #焦點
+
+現貨黃金失守4120美元/盎司，日內跌3.28%。
+
+---
+
+### 2026-06-10 22:57:07  #市場
+
+標普500指數和納斯達克100指數跌幅擴大至0.5%。
 
 ---
 
@@ -21974,203 +22298,5 @@ UN Secretary-General Guterres said ceasefires in Lebanon, Iran and Gaza must be 
 ### 2026-06-09 20:28:35  #Trading Economics #Markets #Commodity #Importance 1
 
 Baltic Dry Index Extends Losing Run Into 8th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the eighth consecutive session on Tuesday, dropping 3.4% to its lowest since May 1st at 2,818 points. Sustained weakness across larger vessel segments continued to weigh. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped by 5.9% to 4,441 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell 0.6% to 2,205 points. Conversely, the supramax index increased by 1.1% to 1,614 points.
-
----
-
-### 2026-06-09 20:28:28  #其他
-
-聯合國秘書長古特雷斯：所有攻擊必須立即停止。
-
----
-
-### 2026-06-09 20:28:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-UN Secretary-General Guterres said he was deeply shocked by the renewed escalation in the Middle East.
-
----
-
-### 2026-06-09 20:27:43  #國際
-
-聯合國古特雷斯：對中東局勢再度升級深感震驚。
-
----
-
-### 2026-06-09 20:27:01  #宏觀
-
-【“三北”工程西部阻擊戰片區現場推進會召開 何立峰出席會議並講話】“三北”工程河西走廊－塔克拉瑪干沙漠邊緣阻擊戰現場推進會9日在新疆維吾爾自治區巴音郭楞蒙古自治州召開。中共中央政治局委員、國務院副總理何立峰出席會議並講話，他強調，要牢固樹立和踐行正確政績觀，出實招、求實效、重實績，全力打好“三北”工程西部片區阻擊戰，推動東中西部三大標誌性戰役如期取得階段性重要成果。 何立峰指出，當前“三北”工程仍處於爬坡過坎、攻堅克難的關鍵階段，特別是西部阻擊戰片區自然環境惡劣、水源條件匱乏，在治理時要更加尊重規律、突出重點、循序漸進、久久為功。在推進西部片區阻擊戰的同時，要繼續打好東部片區殲滅戰和中部黃河“幾字彎”片區攻堅戰，確保到2027年完成六期規劃70%以上的任務，到2030年如期完成六期規劃任務。（新華社）
-
----
-
-### 2026-06-09 20:25:29  #其他
-
-訊息稱，伊瑪目霍梅尼機場航班已恢復執行。
-
----
-
-### 2026-06-09 20:25:10  #公司
-
-【菲菱科思：已具備400G以上資料中心的交換機硬體開發能力】6月9日，菲菱科思在互動平臺上回復有關高速交換機產品情況時介紹，公司在資料通訊產品領域，積極拓展中高階資料中心交換機與國產化替代相關產品的佈局與建設。公司在中高階交換機方面已具備400G以上資料中心的介面速率、高頻寬、大容量交換機的硬體開發能力，在中高階資料通訊產品領域儲備了多樣化實施方案和專案資源。
-
----
-
-### 2026-06-09 20:25:01  #MKT News #WFC.O #Impact bullish
-
-Wells Fargo CFO says credit-card business is performing better than expected.
-
----
-
-### 2026-06-09 20:24:56  #公司
-
-【美晨科技：湖北美晨公司入圍國內某頭部新能源重卡供應鏈體系】據美晨科技訊息，近日，公司旗下湖北美晨公司順利透過國內某頭部新能源重卡整車廠商的供應鏈准入稽核，正式躋身該車企配套供應商名錄，取得混動重卡、氫能源重卡相關零部件配套供貨資質。
-
----
-
-### 2026-06-09 20:24:44  #其他
-
-【李毅仁副會長一行到邢鋼搬遷專案交流】近日，中國鋼鐵工業協會副會長李毅仁一行赴邢鋼轉型升級搬遷改造專案，深入施工現場，重點了解專案最新建設進展、核心工藝技術創新點及產線佈局規劃，並與企業負責人、技術骨幹進行交流，對專案在高階化、綠色化、智慧化方面的探索與實踐成果表示關注。邢鋼董事長張育明，副總經理馬保良參加交流。邢鋼表示，將嚴控工程質量和安全進度，全力推進專案收尾工作，確保專案按期順利投產；將持續聚焦高階特鋼領域，最佳化熔融還原、富氫還原等綠色冶煉工藝，以創新技術驅動產業升級，著力打造現代化鋼鐵生產示範專案。
-
----
-
-### 2026-06-09 20:24:20  #MKT News #DXY #Impact bearish
-
-【Centurion says BOC likely to reiterate hawkish anti-inflation stance】Centurion Asset Management chief economist Carl Gomez says that despite recession talk and rising idle-capacity concerns, the BOC’s policy remains modestly accommodative. The policy rate is 2.25%, at the lower end of the BOC’s estimated neutral-rate range. Gomez does not expect two consecutive quarters of GDP decline to materially affect Wednesday’s policy decision, citing strong May employment data that largely reversed weakness from early 2026. He adds the BOC will continue firm rhetoric to reinforce its anti-inflation credentials and anchor CPI expectations.
-
----
-
-### 2026-06-09 20:23:59  #Trading Economics #Economy #United States #ADP Employment Change Weekly #Importance 1
-
-US Job Growth Eases but Remains Strong — US private employers added an average of 29,000 jobs per week in the four weeks ending May 23, 2026, according to the ADP Research Institute, a slight decrease from the 30,500 weekly gain in the prior period. This marks the third consecutive week of easing job growth. However, last week's ADP monthly report for May showed private businesses added a net 122,000 jobs, the largest increase since January 2025. Dr. Nela Richardson, Chief Economist at ADP, noted, "Hiring was more broad-based in May than we've seen in the last few years. The labor market continues to show sustained momentum going into the summer hiring season."
-
----
-
-### 2026-06-09 20:23:41  #市場
-
-【分析師：恐慌指數VIX飆升後迴歸平靜，市場情緒未現根本性逆轉】分析師Divyang Shah表示，上週五股市尤其是AI與科技板塊遭遇劇烈拋售。其背後原因多樣，但最顯著的影響是波動性的驟然逆轉——VIX恐慌指數一度衝高至20關口以上，期貨曲線也隨之上揚。目前，這一衝擊已逐步消退，儘管VIX現貨水平仍略高於上週五暴跌之前。近月VIX期貨合約與現貨的價差已收窄至持平，期貨曲線小幅下移，但整體仍保持向上傾斜的形態。這表明，儘管波動性一度飆升，但市場情緒並未出現根本性轉折，整體基調依然偏向積極。投資者對AI與科技股近期的漲幅心存謹慎，但隨著上週五的跌幅被逐步消化，市場遠未滑向全面悲觀。
-
----
-
-### 2026-06-09 20:23:35  #公司
-
-【江蘇寧滬高速公路：出資5億元參與紫金信託增資，已簽署增資協議】江蘇寧滬高速公路公告，公司於2026年4月29日第十一屆董事會第二十一次會議審議透過擬以自有資金出資5億元參與紫金信託有限責任公司現有股東增資。本次增資事項已與紫金信託及其他現有股東達成一致，並於2026年6月9日簽署增資協議。本次增資前紫金信託註冊資本為32.71億元，增資後註冊資本為40億元，新增註冊資本7.29億元均由增資股東認購，其中公司出資5億元，計入註冊資本1.46億元，剩餘部分計入資本公積。增資後公司持股比例仍為20.00%。
-
----
-
-### 2026-06-09 20:23:17  #公司
-
-【一汽解放：氫能燃料電池和氫能內燃機相關產品已實現量產】一汽解放(000800)6月9日在互動平臺表示，公司目前具備柴油及燃氣發電動力產品的生產能力，同時已深入佈局氫能賽道，氫能燃料電池和氫能內燃機相關產品已實現量產，未來將結合市場需求，適時開發氫能發電產品。
-
----
-
-### 2026-06-09 20:23:14  #國際
-
-英國外交大臣：伊朗與以色列之間的導彈互襲是停火以來最危險的時刻。我們對伊以宣佈停止互相攻擊表示歡迎。有必要開放霍爾木茲海峽，恢復地區穩定。必須阻止伊朗擁有核武器。
-
----
-
-### 2026-06-09 20:23:09  #MKT News #S&P500 #Impact mixed #Nasdaq100
-
-【Analyst: VIX spike has retraced; no fundamental reversal in market sentiment】Analyst Divyang Shah said equities, led by AI and tech, faced heavy selling last Friday and VIX briefly climbed above 20 while the VIX futures curve steepened. The volatility shock has since eased: spot VIX remains slightly above pre-selloff levels, near-month futures have converged with spot, and the futures curve has moved down modestly but stays upward-sloping. Shah said the pattern suggests the spike did not trigger a structural shift in sentiment—risk tone remains broadly constructive, though investors are cautious on recent AI/tech gains as Friday’s losses are absorbed.
-
----
-
-### 2026-06-09 20:22:55  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UK foreign secretary said Iran must be prevented from acquiring nuclear weapons.
-
----
-
-### 2026-06-09 20:22:43  #Trading Economics #Economy #Mexico #Inflation Rate #Importance 2
-
-Mexico Inflation Eases to 4-Month Low — The annual inflation rate in Mexico eased to 3.94% in the second half of May of 2026 from 4.45% in the corresponding period of the previous month, the lowest in four months. It was slightly under market expectations of 4.02%, marking the return to the Bank of Mexico's tolerance band of one percentage point away from 3%. Inflation was muted for energy (3.27%) despite the surge in oil, natural gas, and coal prices globally since the outbreak of war in the Middle East, largely due heavy fuel tax credits and price caps implemented by the Mexican government. Meanwhile, inflation was also tame for core goods (3.78%) as non-food core goods (2.84%) was lower than core food goods (5.13%). In turn, inflation for services was higher (4.57%). From the previous month, the Mexican CPI fell by 0.2%, the first decline in two years, as the energy subsidies were expanded and drove energy prices to ease from the initial reaction to the war.
-
----
-
-### 2026-06-09 20:22:40  #MKT News #Brent #Impact bearish #WTI
-
-UK foreign secretary says it is necessary to keep the Strait of Hormuz open to restore regional stability.
-
----
-
-### 2026-06-09 20:22:29  #公司
-
-【*ST新元：與財務投資人臨川國控簽署重整投資協議，擬4.55元/股認購1000萬股】*ST新元公告，公司此前披露擬與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署重整投資協議。2026年6月8日，公司與臨川國控正式簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。本次交易構成關聯交易。
-
----
-
-### 2026-06-09 20:22:24  #MKT News #XAUUSD #Impact mixed #WTI #DXY
-
-UK foreign secretary said missile exchanges between Iran and Israel represented the most dangerous moment since the ceasefire and welcomed their announcement to cease mutual attacks.
-
----
-
-### 2026-06-09 20:22:23  #國際
-
-以色列國防軍發言人： 不久前，我方收到初步通報，拉馬斯嶺區域有人員向執勤的以軍部隊開火。部隊隨即還擊，擊斃一名當地恐怖分子，我方人員無傷亡。事件目前仍在持續。
-
----
-
-### 2026-06-09 20:21:57  #國際
-
-全球基金6月9日淨賣出457億印度盧比的印度股票。
-
----
-
-### 2026-06-09 20:21:17  #公司
-
-【bp宣佈重組架構，7月起調整為上下游兩大業務板塊】英國石油（bp）6月9日宣佈新組織架構，將自2026年7月1日起以上游和下游兩大業務板塊取代現有三段式結構，以簡化公司運營、提升業績併為股東創造價值。戈登·比雷爾（Gordon Birrell）出任上游業務執行副總裁，理查德·哈丁（Richard Harding）出任下游業務臨時執行副總裁，下游業務常設執行副總裁招募工作已同步啟動。
-
----
-
-### 2026-06-09 20:21:16  #MKT News #WTI #Impact bullish #Brent
-
-Wells Fargo estimates consumer spending on gasoline may be about 45-50% higher than previously.
-
----
-
-### 2026-06-09 20:21:06  #公司
-
-【中國稀土集團與南開大學簽署戰略合作協議】6月8日，中國稀土集團與南開大學在天津簽署戰略合作協議。中國稀土集團黨委書記、董事長劉雷雲表示，期待雙方聚焦稀土在介入式腦機介面、介入支架靶向藥物釋放、渦噴動力低空飛行器等新興應用場景，在基礎研究、科研攻關、成果轉化、人才培養等方面加強合作。
-
----
-
-### 2026-06-09 20:21:03  #公司
-
-【原華林證券CEO秦湘新去向落地 出任行雲科技非獨立董事】原華林證券CEO秦湘新去向落地。行雲科技今日公告，公司董事會同意提名秦湘為公司第七屆董事會非獨立董事候選人。本次提名旨在進一步推動公司董事會治理結構最佳化，引入更多科技領域背景的董事及金融管理高階人才，更好地支援公司新業務的拓展。履歷顯示，秦湘原為華林證券CEO，IT背景出身並深耕證券行業多年，在資產管理、機構業務、科技應用、實業運作等方面都有建樹。
-
----
-
-### 2026-06-09 20:20:04  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #EURUSD #XAUUSD
-
-U.S. April trade balance due in 10 minutes.
-
----
-
-### 2026-06-09 20:19:40  #央行 #國際
-
-歐洲央行管委穆蘭：歐洲需進一步強化貨幣與支付領域自主權；提升歐元地位存在明顯機遇。不宜對法國GDP疲弱下過多結論。法國央行將上調通脹預測。
-
----
-
-### 2026-06-09 20:19:20  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX #DXY #Impact bearish
-
-ECB executive board member Moulin said Europe could issue common debt to finance certain projects.
-
----
-
-### 2026-06-09 20:19:09  #央行 #國際
-
-歐洲央行管委穆蘭：歐洲可發行聯合債券為部分專案提供資金。
-
----
-
-### 2026-06-09 20:17:46  #其他
-
-【半導體庫存回升 機構：銷售增長遠遠快於庫存增長 整個AI產業鏈仍處於快速擴張階段】今年一季度，全球半導體企業庫存重新出現上升跡象。德意志銀行在最新發布的行業報告指出，半導體行業這輪庫存增長更可能反映企業正在為未來需求擴張提前備貨，而非需求轉弱。今年一季度行業庫存週轉天數環比增長約4%，而從歷史上來看，一季度的季節性增長通常在5%至7%之間。換句話說，儘管庫存有所增加，但需求對新增供給的消化速度依然快於正常年份。報告顯示，2026年一季度，半導體銷售同比增長54%，庫存同比增長23%。這是半導體銷售增速連續第十個季度超過庫存增速。展望未來幾個季度，德銀分析師持樂觀態度。從需求結構看，半導體行業當前同時受到兩股力量支撐。首先，AI相關需求依然是行業最重要的增長引擎。從AI伺服器、GPU、HBM高頻寬儲存到先進封裝，整個AI產業鏈仍處於快速擴張階段。其次，此前相對低迷的工業、汽車等領域開始改善，使半導體需求不再只依賴AI單一主線。隨著傳統終端需求恢復，行業復甦的覆蓋面正在擴大。
-
----
-
-### 2026-06-09 20:17:25  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-ADP weekly data show U.S. job growth slowed for a third consecutive week.
 
 ---

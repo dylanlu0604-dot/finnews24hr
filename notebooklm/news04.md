@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-12 03:12:47_
-_本檔包含 3724 則快訊，約 673378 字_
+_更新時間：2026-06-12 03:58:17_
+_本檔包含 3736 則快訊，約 672584 字_
+
+---
+
+### 2026-06-08 17:51:58  #公司
+
+三星電子晶片部門負責人：我們正合作研發4奈米與8奈米工藝節點所需的自動駕駛晶片，同時也在合作研發英偉達的加速晶片。
+
+---
+
+### 2026-06-08 17:51:56  #MKT News
+
+India's shipping ministry said all Indian seafarers aboard the vessel involved in the reported incident are safe.
+
+---
+
+### 2026-06-08 17:51:44  #公司
+
+【浙江新能：擬收購浙江舟山浙新能海上風力發電有限公司45%股權 交易價格為4.54億元】浙江新能公告，擬收購浙江能源國際有限公司持有的控股子公司浙江舟山浙新能海上風力發電有限公司45%股權，交易價格為4.54億元。本次交易完成後，公司持有舟山海風100%股權。本次交易構成關聯交易，尚需提交公司股東會審議。
+
+---
+
+### 2026-06-08 17:51:34  #公司
+
+三星電子晶片部門負責人：已與英偉達黃仁勳就HBM4及代工領域的短期合作展開討論。
+
+---
+
+### 2026-06-08 17:51:15  #其他
+
+【事關資料賦能人工智慧發展 國家層面首次系統部署】今天，國家資料局釋出《關於推進行業高質量資料集建設行動的實施方案》，這是國家層面首次對資料賦能人工智慧發展作出的系統性部署。《實施方案》圍繞行業高質量資料集供給、流通、應用等關鍵環節，部署六大專項行動，提出面向人工智慧應用需求，持續推進文字、影象、音影片等多模態高質量資料集建設；聚焦智慧體、具身智慧和世界模型等重點方向，要求加快推進資料集建設；引導具備條件的地區因地制宜開展資料標註創新試驗區建設。專家表示，資料是人工智慧訓練的核心原料，高質量資料集可以加快提升大模型的效能。國家資料發展研究院院長 胡堅波：《實施方案》圍繞資料集建設全鏈條作出了系統部署。聚焦科學研究、工業製造、低空經濟、具身智慧等重點和創新領域，有針對性地推進資料集建設，同步推動資料標註轉型升級，全面提升資料供給能力與水平。（央視新聞）
+
+---
+
+### 2026-06-08 17:51:09  #Trading Economics #Economy #Greece #Balance of Trade #Importance 1
+
+Greece Trade Deficit Narrows in April — The trade deficit in Greece narrowed to EUR 2.2 billion in April 2026 from EUR 2.9 billion in the same month last year, as exports rose much faster than imports. Exports soared 35.7% year-on-year to EUR 5.2 billion, the highest since June 2022, driven by higher sales to both the EU (20.2%) and third countries (59.8%). Meanwhile, imports rose at a softer 9.6% to EUR 7.4 billion, supported by a 23.4% increase in imports from third countries despite a 0.6% decline in arrivals from the EU. Over the January–April period, the trade deficit narrowed to EUR 10.4 billion from EUR 11.3 billion in the corresponding period of the previous year.
+
+---
+
+### 2026-06-08 17:50:39  #觀點
+
+【馬斯克唱多美光 目前產能遠不及晶片實際需求】馬斯克近日在摩根大通全球總部的採訪中唱多美光科技。他表示，“真正的瓶頸在於晶片製造能力”，目前美光的產能還遠不及晶片實際需求。
+
+---
+
+### 2026-06-08 17:50:32  #公司 #國際
+
+【交易商：阿聯酋正透過招標向亞洲買家出售大量海灣石油】據報道，阿布扎比國家石油公司正向亞洲的貿易商和煉油商出售大量源自波斯灣的原油，這是自伊朗戰爭爆發以來，此類油種首次進行這類招標。知情交易商透露，透過上週結束的一輪招標，已售出至少1400萬桶阿聯酋原油，包括上扎庫姆（Upper Zakum）、烏姆盧盧（Umm Lulu）和達斯（Das）等品種。此外，預計成交量還將進一步增加，因為該公司正在進行另一輪條款類似的招標，將於本週末結束。這些原油將於6月至8月期間裝船。交易員稱，已售出的大部分原油為上扎庫姆（Upper Zakum）品種，該品種通常從波斯灣的齊爾庫島裝船。該原油可在富查伊拉或索哈爾等位於波斯灣以外的地點提貨，無需經過被封鎖的霍爾木茲海峽。交易員稱，這些原油售予了包括日本、韓國和印度在內的亞洲各國煉油商。他們補充道，這些海灣原油貨物的交易價格大多僅比迪拜基準價高出幾美元，且至少有一批貨甚至以每桶約1美元的折扣價售出。
+
+---
+
+### 2026-06-08 17:50:29  #MKT News #Market Regions #Japan & APAC #Commodities #Energy
+
+【Traders: ADNOC sells large Gulf crude volumes to Asian buyers via tenders】Abu Dhabi National Oil Co (ADNOC) is selling significant Gulf-origin crude to Asian traders and refiners via tenders, the first such sales since the outbreak of the Iran war. A tender concluded last week booked at least 14 mln barrels across Upper Zakum, Umm Lulu and Das grades, with most volumes Upper Zakum, which typically loads from Zirku island. Shipments are slated for June–August, and a further tender with similar terms closes this weekend and is expected to add volumes. Cargoes can be lifted at Fujairah or Sohar, avoiding transit of the Strait of Hormuz. Buyers include refiners in Japan, South Korea and India. Transaction prices were only a few dollars above Dubai quotes, with at least one cargo reportedly sold at about $1/bbl below Dubai.
+
+---
+
+### 2026-06-08 17:50:26  #公司
+
+【中創股份：擬以2000萬元-3000萬元回購公司股份】中創股份公告，擬以2000萬元-3000萬元回購公司股份，回購價格不超過35.83元/股。
+
+---
+
+### 2026-06-08 17:50:25  #MKT News #Market Regions #Europe & UK
+
+Latvia's armed forces said the latest aerial threat has been neutralized.
+
+---
+
+### 2026-06-08 17:50:21  #公司
+
+【萬豐奧威：擬5億元出售上海達克羅100%股權】萬豐奧威公告，公司為聚焦核心主業，最佳化資產結構，減少管理幅度，降低資產負債率水平，擬出售全資子公司上海達克羅塗復工業有限公司100%股權。根據評估報告，上海達克羅在評估基準日（2025年9月30日）的股東全部權益價值為5.28億元，扣減已分配現金紅利2500萬元後的評估值為5.03億元。經協商，本次交易總價格確定為5億元。交割日後，上海達克羅將不再納入公司合併報表範圍。本次交易不構成關聯交易，亦不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。
+
+---
+
+### 2026-06-08 17:50:14  #公司
+
+【金新農：5月生豬銷量15.89萬頭，同比大增95.99%】金新農公告，2026年5月生豬銷量為15.89萬頭，其中商品豬5.9萬頭、仔豬9.98萬頭、種豬0.0034萬頭，同比變動95.99%，環比變動8.60%；生豬銷售收入8409.92萬元，同比變動-24.69%，環比變動-8.12%；商品豬銷售均價9.86元/公斤，同比變動-33.91%，環比變動5.34%。
+
+---
+
+### 2026-06-08 17:50:08  #其他
+
+拉脫維亞武裝部隊：最新空中威脅已解除。
+
+---
+
+### 2026-06-08 17:49:37  #國際
+
+印度航運部：涉事報道船隻上的所有印度海員均安全。
+
+---
+
+### 2026-06-08 17:49:22  #國際
+
+印度航運部：一艘船隻發生火災，船上有24名海員。
+
+---
+
+### 2026-06-08 17:49:06  #行業
+
+【乘聯分會崔東樹：預計2026年國內乘用車零售銷量下降11% 市場仍具恢復潛力】乘聯分會秘書長崔東樹今日表示，車市將在三季度逐步企穩改善，四季度重回增長軌道，全年國內乘用車零售量降幅有望收窄至11%，市場仍具備恢復潛力。“若全球局勢趨於平穩，大宗商品與油價迴歸合理區間，物流運輸成本隨之回落，國內消費者購車信心將逐步修復，汽車零售市場也將迎來持續回暖。”崔東樹分析稱。
+
+---
+
+### 2026-06-08 17:48:29  #MKT News #Market Regions #Greater China
+
+【CHINA urges closer strategic coordination with N. KOREA to defend sovereignty, security and development interests】On the afternoon of June 8 in Pyongyang, CHINA's leader met N. KOREA leader Kim Jong Un at the Kumsusan Guest House. CHINA urged closer strategic coordination and cooperation with N. KOREA to firmly defend each country’s sovereignty, security and development interests and to jointly safeguard regional peace and development.
+
+---
+
+### 2026-06-08 17:48:05  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+EU high representative for foreign affairs and security policy kallas said, 'We are not at that stage yet' on opening talks with Russia.
+
+---
+
+### 2026-06-08 17:47:52  #MKT News
+
+【CHINA says party and government will not change firm stance on traditional China–N. Korea friendship】CHINA met N. Korea leader Kim Jong Un in Pyongyang on June 8. CHINA said the traditional China–N. Korea friendship, rooted in shared ideology and history, is firm; the party and government will not change their stance valuing that friendship, will not change their steadfast support for Kim's leadership of N. Korea's socialist project, and will not change their determination to safeguard shared interests and a favorable strategic environment.
+
+---
+
+### 2026-06-08 17:47:47  #國際
+
+歐盟歐盟外交與安全政策高階代表卡拉斯：就與俄羅斯開啟談判而言，“我們尚未到時機”。
+
+---
+
+### 2026-06-08 17:47:32  #其他
+
+安哥拉統計局資料顯示，5月通貨膨脹率同比為10.88%。
+
+---
+
+### 2026-06-08 17:47:24  #公司 #國際
+
+菲律賓火山地震研究所8日下午釋出公告稱，經過持續監測分析，發生的海嘯波不足以造成嚴重破壞，因此宣佈取消當天就7.8級地震釋出的海嘯預警。（新華社）
+
+---
+
+### 2026-06-08 17:46:34  #MKT News #Important
+
+【China seeks strategic alignment with North Korea, vows to expand pragmatic cooperation in trade, agriculture, construction, tech and healthcare】Chinese leader Xi Jinping met North Korean leader Kim Jong Un in Pyongyang on June 8. China said it is willing to align development strategies with North Korea and expand pragmatic cooperation in trade, agriculture, construction, technology and healthcare. Both sides said the full reopening of border crossings and the resumption of civil aviation and international passenger trains should be used to increase people-to-people exchanges and restore two-way travel.
+
+---
+
+### 2026-06-08 17:45:54  #公司
+
+【利和興：公司及子公司向中信銀行申請9000萬元授信額度】利和興公告稱，公司及下屬子公司利和興江門、利和興電子、利容電子分別與中信銀行深圳分行簽訂《綜合授信合同》，公司申請6000萬元授信額度，三家子公司各申請1000萬元，授信期限為2026年6月5日至2027年4月25日。利和興江門、公司及實際控制人林宜潘、黃月明分別與中信銀行深圳分行簽訂《最高額保證合同》，提供連帶保證責任。截至公告披露日，公司及控股子公司對外擔保總金額為1.04億元，佔最近一期經審計淨資產的156.50%；實際擔保餘額為3395.77萬元，佔比50.98%。
+
+---
+
+### 2026-06-08 17:45:28  #國際
+
+惠譽給予日本政府債券“A”評級。
+
+---
+
+### 2026-06-08 17:45:26  #MKT News #USDJPY
+
+Fitch sets Japan's government bond rating at A.
+
+---
+
+### 2026-06-08 17:45:13  #其他
+
+【習近平同金正恩舉行會談】當地時間6月8日下午，中共中央總書記、國家主席習近平在平壤錦繡山迎賓館同朝鮮勞動黨總書記、國務委員長金正恩舉行會談。 習近平指出，時隔7年再次到訪美麗的平壤，我感到十分高興，也格外親切。我願同總書記同志一道，以這次訪問為契機，加強對新時期中朝關係的頂層設計和戰略指引，推動中朝關係與時俱進、得到更大發展，更好造福兩國和兩國人民，為地區乃至世界和平穩定和發展繁榮作出積極貢獻。 習近平強調，中朝兩國同為共產黨領導的社會主義國家。中朝傳統友誼植根於雙方共同的理想信念和奮鬥目標，有深厚歷史積澱、堅實政治基礎、牢固情感紐帶，世代友好、命運與共、守望相助始終是中朝關係的鮮明特徵。無論國際形勢如何變化，中國黨和政府高度重視中朝傳統友好的堅定立場不會改變，對金正恩總書記同志領導朝鮮社會主義事業的堅定支援不會改變，維護中朝雙方共同利益和良好戰略環境的堅定決心不會改變。(新華社)
+
+---
+
+### 2026-06-08 17:44:55  #央行 #國際
+
+【法巴銀行：美聯儲下一步或轉向加息 美元和美債收益率料走高】法巴銀行預計美聯儲下一步或轉向加息，美元和美債收益率料走高。法國巴黎銀行預計，美聯儲將從12月開始連續三次加息，風險在於加息可能更早啟動，以撤回2025年三次“保險式降息”帶來的貨幣刺激。
+
+---
+
+### 2026-06-08 17:44:48  #公司
+
+【太陽能：今年初至今，公司下屬光伏發電專案公司共收到可再生能源補貼資金5.05億元，較去年同期增加451.99%】太陽能公告，今年初至今，公司下屬光伏發電專案公司共收到可再生能源補貼資金5.05億元，較去年同期增加451.99%，其中國家可再生能源補貼資金4.89億元，較去年同期增加553.32%。
+
+---
+
+### 2026-06-08 17:44:27  #公司
+
+【華測導航：實控人一致行動人增持0.3965%】華測導航公告，控股股東、實際控制人趙延平之一致行動人上海垚合商務諮詢合夥企業（有限合夥）於2026年6月5日透過大宗交易受讓趙延平透過寧波上裕創業投資合夥企業（有限合夥）間接持有的公司股份312萬股，趙延平及其一致行動人合計擁有權益的股份比例由31.7752%增至32.1717%，增加0.3965%，權益變動觸及1%的整倍數。本次變更僅為持股方式調整，不涉及實際增減持，亦不導致控股股東及實際控制人變更。
+
+---
+
+### 2026-06-08 17:44:15  #公司
+
+【浙礦股份：終止收購Alaigyr公司股權】浙礦股份公告，公司控股子公司海南長興決定終止收購Alaigyr公司股權。原計劃透過海南長興使用現金3.5億堅戈購買TKS公司的100%股權，以及TKS公司持有的Alaigyr公司的股東借款，債務金額不低於287.69億堅戈。由於《股權買賣協議》約定的若干先決條件未能於2026年5月29日前完成，雙方簽署補充協議延長交割日，但最終仍未能達成一致，導致收購終止。
+
+---
+
+### 2026-06-08 17:44:11  #MKT News
+
+【Trump: Israel and Iran must immediately stop "exchanging fire"】U.S. President Trump wrote on social media on the 8th that Israel and Iran must immediately stop "exchanging fire".
+
+---
+
+### 2026-06-08 17:44:06  #焦點 #國際
+
+【特朗普：以伊必須立即停止“交火”】美國總統特朗普8日在社交媒體上發文說，“以色列和伊朗必須立即停止‘交火’”。（新華社）
+
+---
+
+### 2026-06-08 17:43:30  #其他
+
+騰訊控股：6月8日於港交所斥資約5億港元回購111.6萬股。
+
+---
+
+### 2026-06-08 17:43:28  #MKT News #Star Stocks #Tencent #00700.HK #Impact bullish
+
+Tencent Holdings (00700.HK) repurchased 1.116 mln shares on the HKEX on June 8, spending about HKD 500 mln.
+
+---
+
+### 2026-06-08 17:43:03  #公司 #市場
+
+【凱盛科技：股票交易異常波動 提醒投資者注意風險】凱盛科技公告稱，公司股票連續3個交易日（2026年6月4日、6月5日、6月8日）內日收盤價格漲幅偏離值累計超20%，屬於異常波動。經自查，公司經營正常，主營業務未變，公司及控股股東、實控人均無應披露未披露重大資訊。公司TGV技術處前期研發階段，未實現營收，產業化程序存不確定性。此外，3個交易日換手率分別為13.01%、14.90%、22.50%，截至6月8日收盤，公司市盈率161.88，高於行業平均的89.54，提醒投資者注意風險。
 
 ---
 
@@ -22283,155 +22505,5 @@ Israel Defense Forces said it monitored a drone crash near the area where it was
 ### 2026-06-06 12:18:07  #其他
 
 【樓面價首破10萬、溢價150%，深圳新“單價地王”誕生】深圳涉宅用地的樓面單價，首次突破了10萬元/平方米。6月5日下午，深圳南山區粵海街道T204-0153宗地迎來拍賣，地塊建設用地14116.04平方米，起拍價23.02億元。據瞭解，保利置業、華潤置地、中海地產、招商蛇口、建發房產、越秀地產共六家頭部央國企參與了這場競拍。競價過程十分膠著，經過291輪舉牌拉鋸，保利置業最終以57.72億元的總價將地塊收入囊中，溢價率達到150.74%，摺合樓面價約10.87萬元/平方米。這一價格大幅超越了2025年前海桂灣地塊8.42萬元/平方米的紀錄，重新整理深圳涉宅用地的單價紀錄。（介面）
-
----
-
-### 2026-06-06 12:18:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-【Shenzhen residential land floor price tops 100k yuan/sq m for first time; 150% premium】Poly Real Estate won Shenzhen Nanshan Yuehai subdistrict plot T204-0153 for 5.772 bln yuan, paying a 150.74% premium and a floor price of about 108,700 yuan/sq m. The 14,116.04 sqm construction land parcel opened at 2.302 bln yuan and saw 291 bidding rounds. Six major developers — CHINA RES LAND, China Overseas Property, China Merchants Shekou, C&D Property and Yuexiu Property — participated. The result eclipses the prior Shenzhen residential land unit-price record of 84,200 yuan/sq m set by the Qianhai Guiwan plot in 2025.
-
----
-
-### 2026-06-06 12:15:56  #市場
-
-【譚德塞稱武裝分子襲擊阻礙抗疫工作】據美聯社6月4日報道，世界衛生組織總幹事譚德塞3日表示，在剛果（金）的埃博拉疫情應對中，“我們目前仍處於落後狀態”。他補充道，武裝分子的襲擊正困擾著受災地區。 剛果（金）軍方表示，2日晚間，一個名為“民主力量聯盟”的“伊斯蘭國”附屬組織發動襲擊，導致北基伍省16人喪生。上個月，該團體還襲擊了靠近烏干達邊境的剛果（金）村莊，造成至少40人死亡。 持續的暴力衝突阻礙了抗擊罕見的本迪布焦型埃博拉病毒的努力。 譚德塞3日表示，在抗擊埃博拉疫情的鬥爭中，檢測工作正取得進展，實驗室檢測和診斷能力已得到提升，不過，剛果（金）境內的“接觸者追蹤工作尚未達到應有的水平”。 他說：“疫情已搶佔了先機，而我們目前仍處於落後地位。”但他同時強調：“我們正在奮起直追。” 譚德塞表示，剛果（金）追蹤接觸者的工作依然滯後，“安全域性勢動盪、民眾流離失所以及人口流動頻繁等因素，使得接觸者追蹤工作變得尤為艱難”。 剛果（金）長期以來一直深陷各類安全危機之中，而這種長期的不安全域性勢產生了一個龐大且極易受害的流離失所者群體。此次暴發埃博拉疫情的剛果（金）東部地區活躍著多個武裝團體。（參考訊息）
-
----
-
-### 2026-06-06 12:09:59  #公司
-
-拓邦股份旗下躍伴釋出智慧如廁機器人，售價28999元。
-
----
-
-### 2026-06-06 12:07:47  #MKT News
-
-【ISS Russian segment leak repaired; crew briefly sheltered in Crew Dragon】NASA said on the 5th that five astronauts sheltered in the docked Crew Dragon while a passage in the ISS Russian segment with a crack and air leak was being repaired; they returned to the station after the related work was paused.
-
----
-
-### 2026-06-06 12:06:07  #其他
-
-【深圳市東部海區分割槽雷雨大風黃色預警訊號升級為橙色】深圳市氣象臺2026年06月06日12時02分發布大鵬灣和大亞灣雷雨大風橙色預警訊號，預計未來1-2小時內上述區域有強雷雨天氣，並伴有短時強降水和10級或以上陣風，區域性可能出現龍捲。請迅速落實各項防風防雷電措施。
-
----
-
-### 2026-06-06 12:05:26  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran adviser Mohsen Rezaee warns US could suffer very heavy losses if conflict continues】Iran’s Supreme Leader military adviser Mohsen Rezaee told CNN on June 5 that if fighting continues and the US does not lift its maritime blockade, the conflict could spread to the Indian Ocean and Iran would strike additional US bases, inflicting very heavy losses on the United States.
-
----
-
-### 2026-06-06 12:05:25  #國際
-
-【伊朗最高領袖軍事顧問警告美國或將“損失慘重”】伊朗最高領袖軍事顧問穆赫辛·雷扎伊6月5日接受美國有線電視新聞網採訪時警告稱，如果戰事持續，美方不解除對伊朗的海上封鎖，戰火或將蔓延至印度洋等更大範圍，伊朗也將打擊更多美軍基地，屆時美國將遭受“非常慘重”的損失。（新華社）
-
----
-
-### 2026-06-06 12:04:16  #其他
-
-【北京豐臺釋出36個航空航天應用場景 總投資約46億元】記者從北京市豐臺區主辦的航空航天產業創新發展論壇獲悉，現場豐臺區集中釋出八大類36個示範應用場景，總投資約46億元，覆蓋商業航天、衛星遙感、衛星通訊、低空技術、中試平臺、導航交通、航天IP、航天金融等全維度，精準實現“為技術找場景、為場景找市場”，推動關鍵技術協同攻關、新技術新產品落地驗證，助力航空航天新質生產力加速培育。
-
----
-
-### 2026-06-06 12:04:02  #MKT News
-
-【Lebanese president accuses Iran of using Lebanon as bargaining chip; Iran FM retorts】Lebanon’s president told CNN Iran is using Lebanon as a bargaining chip in disputes with the US and Israel and vowed to save the country “at all costs,” saying Lebanese are “tired” of the fighting between Israel and Hezbollah. Hezbollah, described in the interview as a well-armed, Iran-backed proxy with strong domestic support, frames itself as defender of southern Lebanon and the Palestinian people. Iran’s foreign minister dismissed the remarks, saying Aoun’s comments imply Iran “occupies one-fifth of Lebanon, has displaced one-quarter of Lebanese and bombs Lebanon every day,” adding “if Lebanon were Iran’s bargaining chip, we would have already made a deal. President, please save Lebanon from your real enemy.”
-
----
-
-### 2026-06-06 12:03:36  #公司 #國際
-
-阿斯利康執行長：阿斯利康或暫停向歐洲供應新藥。
-
----
-
-### 2026-06-06 12:00:12  #公司
-
-南非國家電力公司：解除限電的工作正在推進，目前已有逾70萬戶家庭解除限電。
-
----
-
-### 2026-06-06 11:55:33  #央行 #國際
-
-【美聯儲年內加息機率飆升 美聯儲年內加息機率飆至70%】綜合外媒報道，美國5月份非農就業資料全面超出市場預期，隨著勞動力市場走出長期低迷，投資者押注美聯儲年內加息的機率已飆升至接近70%。在就業資料公佈之前，市場普遍預期美聯儲將在明年4月前加息。然而路透社指出，強勁的就業報告發布後，投資者已將12月加息的機率從週四的約50%提升至約70%。一位美聯儲地區聯儲主席也表示，央行可能很快需要採取行動。（中新經緯）
-
----
-
-### 2026-06-06 11:55:07  #MKT News
-
-【USDA confirms second US New World screw‑worm case in Texas calf】USDA confirmed a second US case of New World screw‑worm in a Texas calf, heightening risk of a wider outbreak that could affect the US beef sector. Low herd inventories have already pressured processors and consumers with higher prices; the new case raises the prospect of further livestock‑movement restrictions. Georgia’s agriculture department will bar livestock and pets from roughly a dozen Texas counties. USDA said the screw‑worm does not threaten the US food supply, and FDA‑approved animal treatment drugs are being shipped to Texas.
-
----
-
-### 2026-06-06 11:54:43  #其他
-
-【中國香港和烏茲別克深化多領域務實合作】中國香港特別行政區行政長官李家超6月3日至5日率商貿代表團訪問烏茲別克，同烏茲別克總統米爾濟約耶夫、總理阿里波夫、外長賽義多夫會面，雙方共達成35份備忘錄及協議，涵蓋經貿、投資、金融、科技、航空等領域。 米爾濟約耶夫在會談中表示，期盼深入挖掘烏各地區與香港現有經濟夥伴關係潛力，相信香港商貿代表團此次訪問將有力推動這一目標的實現。賽義多夫表示，香港作為國際金融和商業中心，擁有獨特經驗與巨大潛力，將在烏茲別克推進經濟現代化、實施高科技合作專案程序中發揮重要作用。(新華社)
-
----
-
-### 2026-06-06 11:53:07  #MKT News
-
-Iran's foreign minister Araghchi replied to the Lebanese president, saying if Lebanon were a 'bargaining chip' Tehran could have reached an agreement with the United States long ago.
-
----
-
-### 2026-06-06 11:52:55  #國際
-
-伊朗外交部長阿拉格齊在回應黎巴嫩總統時表示，若黎巴嫩是“議價籌碼”，德黑蘭很早就能與美國達成協議了。
-
----
-
-### 2026-06-06 11:51:54  #宏觀 #公司
-
-【網售“鮮驢肉”卻檢出馬源性成分，山東滕州一食品公司被罰】6月5日，山東省市場監督管理局公眾號“山東市場監管”釋出了一批涉食品安全典型案例，其中包含一公司用馬肉冒充驢肉的案件。案例顯示，2026年2月，滕州市市場監管局收到市場監管總局關於滕州市承佑食品有限公司在網路平臺經營“鮮驢肉”的食品安全風險檢測報告。經檢測，該批次“鮮驢肉”檢出馬源性成分，未檢出驢源性成分，屬於摻假摻雜食品。經查，當事人銷售的“鮮驢肉”實際採購自省外的騾馬肉。當事人經營摻假摻雜食品的行為，違反了《中華人民共和國食品安全法》第三十四條的規定。（澎湃）
-
----
-
-### 2026-06-06 11:43:59  #MKT News #Market Regions #Greater China
-
-【China, New Zealand hold 34th economic and trade joint committee】June 5, Beijing — MOFCOM vice minister and chief international trade negotiator Li Chenggang and New Zealand Ministry of Foreign Affairs and Trade deputy secretary Mao Rui co‑chaired the 34th China‑New Zealand economic and trade joint committee. Li urged joint defence of the WTO‑centred multilateral trading system and closer coordination under APEC and other regional frameworks to support regional and global stability. Mao said China remains New Zealand’s largest trading partner and top source of international students, called continued Chinese growth important for New Zealand, and said Wellington is willing to expand bilateral trade, accelerate negotiations on a services negative list, and welcome more Chinese investment; he also congratulated China on hosting the recent APEC trade ministers’ meeting and sought strengthened communication in regional and multilateral fora.
-
----
-
-### 2026-06-06 11:43:05  #公司
-
-【通號城交與金華軌道交通簽署戰略合作協議】據中國通號訊息，6月5日，通號城交公司與金華軌道交通控股集團簽訂戰略合作協議。雙方將聚焦實景實效，重點開展共建空軌鐵一體化智慧排程中樞、提檔升級全線場站智慧化、擴容提質全域低空立體物流網路等三大合作內容，持續提升軌道物流服務能力水平。
-
----
-
-### 2026-06-06 11:41:48  #其他
-
-【中國—紐西蘭第34屆經貿聯委會舉行】6月5日，商務部國際貿易談判代表兼副部長李成鋼與紐西蘭外交貿易部副秘書長毛瑞在京共同主持召開第34屆中新經貿聯委會，就深化雙邊經貿關係、加強區域和多邊領域合作深入交換意見。（中華人民共和國商務部）
-
----
-
-### 2026-06-06 11:39:25  #公司
-
-【美格智慧攜手優咔科技釋出“端雲融合AIoT聯合解決方案”】6月5日，在2026高通汽車技術與合作峰會現場，美格智慧攜手萬馬科技全資子公司上海優咔網路科技有限公司（簡稱“優咔科技”），正式釋出“端雲融合AIoT聯合解決方案”，標誌著優咔科技和美格智慧在智慧汽車及AIoT領域的合作邁入了全方位、深層次的新階段。未來，雙方將繼續推動端雲協同技術在更多垂直行業的落地。
-
----
-
-### 2026-06-06 11:39:04  #公司
-
-【160多家上市公司去年環境處罰記錄未消除，煤炭行業超四成公司在榜】2025年內有629家A股上市公司暴露環境風險。截至最後核查日（2026年6月3日），仍有160多家公司未消除信用中國上2025年度的環境風險記錄。這160多家A股公司構成了2025年度A股環境風險榜的主體，其中，四成煤炭行業上市公司在榜，不過，亦有四個行業（紡織服裝、國防軍工、美容護理、通訊）當前實現了綠色風險“零記錄”。（每經）
-
----
-
-### 2026-06-06 11:34:33  #國際
-
-【從盟友變為威脅？美國防部提高對以色列反間諜警戒】據報道，兩名美國現任官員和一名前美國官員透露，五角大樓越來越擔心以色列正在加大對美國的間諜活動力度，並且近期已將這個美國在中東最重要盟友的反間諜威脅等級提升至最高階別。這些官員表示，在以色列與美國因如何應對伊朗衝突而關係緊張之際，五角大樓下屬的國防情報局（DIA）於最近幾周釋出了這份新的反情報威脅評估報告。他們指出，DIA釋出了一份內部通報，將針對以色列的威脅級別定為“危急”（critical）。官員們表示，這一評級源於五角大樓內部的擔憂，即以色列正極力監視美國高層官員，以獲取有關特朗普政府在中東衝突問題上的內部商議及決策過程的情報。以色列駐華盛頓大使館發言人在一份宣告中表示，關於以色列對美進行間諜活動的說法“完全不實”。白宮一名官員表示：“這個故事是虛假的，其訊息來源對實際情況一無所知。”
-
----
-
-### 2026-06-06 11:34:27  #MKT News #Important
-
-【Pentagon raises counterintelligence threat level for Israel to 'critical' — NBC】NBC reports, citing two current and one former US officials, that the Pentagon has increasingly warned Israel is stepping up espionage against the United States and that the Defense Intelligence Agency in recent weeks issued an internal counterintelligence assessment elevating the threat level for Israel to "critical." Officials said the DIA’s concern centers on alleged Israeli monitoring of senior US officials to obtain internal deliberations and decisions on how the Trump administration might handle a conflict with Iran. The Israeli embassy in Washington called the allegations "completely false." A White House official said the story is "false" and that its sources "know nothing of the facts."
-
----
-
-### 2026-06-06 11:32:16  #MKT News
-
-【Researchers link ND1 gene to deep-sea isopod’s five-year fasting ability; Cell paper flags potential obesity, longevity research avenues】A team led by the Chinese Academy of Sciences’ Institute of Oceanology, with collaborators at The Chinese University of Hong Kong and Northwestern Polytechnical University, used multi-omics analysis and functional validation to link the extreme fasting tolerance of a deep-sea giant isopod—able to survive up to five years without stable food—to an energy-metabolism gene ND1 of bacterial origin. The study reports genetic and epigenetic regulation that enables efficient energy use at low metabolic rates and describes a mechanism balancing large body size with low metabolism. Findings were published in Cell on June 5 and are presented as potential new leads for obesity intervention and longevity research.
 
 ---
