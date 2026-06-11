@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-11 19:15:35",
+  "updated": "2026-06-11 19:19:30",
   "count": 18342,
   "items": [
+    {
+      "id": "te:markets:558363",
+      "time": "2026-06-11 19:18:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Slips Toward $89 — Crude oil fell toward $89 per barrel on Thursday as concerns over renewed attacks between the US and Iran were balanced by signs of rising flows through the Strait of Hormuz and weaker demand from China. The US military carried out strikes against multiple targets in Iran for a second day after President Donald Trump accused Tehran of delaying talks on an interim peace deal. However, the latest attacks have not hit energy infrastructure. Also, traders said Chinese buyers are set to take significantly lower volumes of Saudi crude in July as imports already sit at the lowest level in eight years. Even so, global inventories show signs of tightening. In the US, crude stockpiles including strategic reserves fell by 15 million barrels last week and are down more than 70 million over five weeks, the steepest draw since the 1980s. Fuel stocks in Singapore are also at their lowest level since 2013."
+    },
+    {
+      "id": "4930433",
+      "time": "2026-06-11 19:17:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝歐水華：全資子公司購買資產4416.73萬元】帝歐水華公告，全資子公司水華未來與關聯方善思開悟簽署了《業務合作協議》。水華未來以4416.73萬元購買機電設施、伺服器資產，善思開悟無償轉讓相關智慧財產權和存量業務。交易預計2026年度影響公司營業收入不超過600萬元，淨利潤不超過100萬元。"
+    },
+    {
+      "id": "te:economy:558361",
+      "time": "2026-06-11 19:16:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "South Africa Factory Activity Shrinks the Most in a Year — Manufacturing activity in South Africa dropped by 2.9% year-on-year in April 2026, marking the steepest decline in a year, following an upwardly revised 1.5% increase in the prior month. The downturn was largely driven by basic iron and steel, non-ferrous metal products, metal products and machinery (-6%); wood and wood products, paper, publishing and printing (-10%) and motor vehicles, parts and accessories and other transport equipment (-11%). On a seasonally adjusted monthly basis, output shrank by 2.7%, after an upwardly revised 1.2% rise in the prior month. Manufacturing production fell by 1.3% in the three months ended April 2026 compared with the previous three months."
+    },
+    {
+      "id": "4930432",
+      "time": "2026-06-11 19:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【野村： 人工智慧板塊輪動與新股吸金效應顯現 美股面臨結構性調整壓力】野村證券跨資產策略師查理·麥克埃利戈特（Charlie McElligott）強調，在缺乏傳統科技巨頭繼續重倉支撐的背景下，大盤幾無可能重新重新整理歷史高點。 市場分析表明，當前導致美股核心科技股承壓的因素主要來自兩方面： 一是機構資金的結構性調倉， 市場對部分半導體行業指數基金的做空情緒正在升溫。 二是科技行業集中融資引發的股票供應潮， 這一變化扭轉了過去15年因回購和併購導致可投股票數量減少的牛市邏輯，疊加槓桿型交易所交易基金（ETF）的反向助跌效應，進一步加劇了市場的下行壓力。"
+    },
+    {
+      "id": "4930430",
+      "time": "2026-06-11 19:15:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新奇智：出售目標公司2144萬股股份，持股比例降至17.5%】創新奇智公告，公司與上海嵐溯簽訂股權轉讓協議，出售目標公司2144萬股股份，約佔目標公司股份總數的33.5%，交易對價為人民幣2010萬元。交易完成後，公司對目標公司的持股比例將從51%降至17.5%，目標公司不再為公司附屬公司，其財務業績將不再合併入公司財務報表。"
+    },
+    {
+      "id": "mkt:019eb664-c4ba-7dd8-afbc-7ae1a15c7971",
+      "time": "2026-06-11 19:15:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Defence Secretary Healy said defence investment settlement totals failed to meet required levels."
+    },
+    {
+      "id": "4930429",
+      "time": "2026-06-11 19:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府希望軍工企業加速武器生產】據知情人士6月10日透露，隨著美軍在伊朗戰事等行動中持續消耗武器庫存，美國政府計劃最快於下週再次召集美國主要防務企業高管，商議加快武器裝備生產。美國總統特朗普今年3月初曾緊急會晤美國7家軍工巨頭，商討生產進度和增產計劃。美國戰略與國際問題研究中心5月27日釋出的分析報告顯示，美國軍火承包商至少需要三年時間，才能補齊在伊朗戰事中大量使用的“戰斧”巡航導彈、“愛國者”和“薩德”導彈防禦系統攔截彈庫存。（CCTV國際時訊）"
+    },
     {
       "id": "4930428",
       "time": "2026-06-11 19:14:52",
@@ -188,6 +251,14 @@
         "其他"
       ],
       "text": "英國國防大臣希利辭職。"
+    },
+    {
+      "id": "4930414",
+      "time": "2026-06-11 19:10:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度海運部表示，一艘瀝青運輸船 “賈爾維爾號” 在阿曼附近海域疑似遭美軍襲擊，船上 20 名印度船員全部平安。本週該區域已發生兩起涉印度船員的同類遇襲事件。"
     },
     {
       "id": "mkt:019eb660-7c8e-7dd8-afbc-3f2940610e08",
@@ -168683,78 +168754,6 @@
         "Impact bullish"
       ],
       "text": "Microchip Technology (MCHP.O) has received a U.S. export license allowing it to expand advanced FPGA (field-programmable gate array) R&D in Armenia."
-    },
-    {
-      "id": "4917370",
-      "time": "2026-06-04 19:19:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "微芯科技：該許可授權微芯科技在亞美尼亞開展先進半導體研發業務。"
-    },
-    {
-      "id": "4917369",
-      "time": "2026-06-04 19:18:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "微芯科技獲美國出口許可，可在亞美尼亞拓展先進現場可程式設計門陣列（FPGA）開發業務。"
-    },
-    {
-      "id": "4917368",
-      "time": "2026-06-04 19:18:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "新加坡貿工部就美國貿易調查作出回應：無證據牽涉強迫勞動供應鏈。"
-    },
-    {
-      "id": "mkt:019e925b-060e-7668-9611-6d061b72cd48",
-      "time": "2026-06-04 19:18:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing publishes fifth-round plan listing four residential land parcels】Beijing Municipal Commission of Planning and Natural Resources published its 2026 fifth-round planned supply list for commercial residential land: four parcels totaling about 16 hectares and roughly 230,000 sq m GFA, slated for near-term supply. All sites are adjacent to rail stations to boost station-city integration and are distributed across central urban, multi-node and ecological-conservation zones; two plots in Shijingshan, one in Fangshan and one in Mentougou."
-    },
-    {
-      "id": "4917367",
-      "time": "2026-06-04 19:17:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京公佈第五輪共4宗擬供宅地清單】今日，北京市規劃和自然資源委員會網站釋出了2026年第五輪擬供應商品住宅用地清單，共涉及4宗地，土地面積約16公頃，建築規模約23萬平方米，上述用地擬於近期供應。據介紹，本輪清單專案加大站城融合力度，全部位於軌道站點周邊需求突出區域。同時，注重區域均衡佈局，中心城區、多點地區、生態涵養區3個圈層均有涉及。其中，石景山區2宗，房山區、門頭溝區各1宗。"
-    },
-    {
-      "id": "4917366",
-      "time": "2026-06-04 19:15:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【克羅埃西亞一架小型飛機墜毀，造成多人死亡】當地時間6月4日，一架小型飛機在克羅埃西亞伊斯特拉半島南部城鎮梅杜林附近墜毀，造成多人死亡。據非官方訊息稱，死亡人數為4人，另有2人仍在搜尋中。（央視新聞）"
-    },
-    {
-      "id": "4917365",
-      "time": "2026-06-04 19:15:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國正在進行最後談判以結束伊朗戰爭。"
-    },
-    {
-      "id": "mkt:019e9258-b9a2-7668-9611-64088ad2cfb5",
-      "time": "2026-06-04 19:15:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the United States is in final negotiations to end the war with Iran."
     }
   ]
 }
