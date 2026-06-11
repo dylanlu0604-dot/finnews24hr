@@ -1,7 +1,265 @@
 {
-  "updated": "2026-06-12 01:28:54",
-  "count": 18457,
+  "updated": "2026-06-12 01:32:44",
+  "count": 18471,
   "items": [
+    {
+      "id": "4931066",
+      "time": "2026-06-12 01:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報90.27美元/桶。"
+    },
+    {
+      "id": "mkt:019eb7bd-0297-7dd8-afc7-b39228218a81",
+      "time": "2026-06-12 01:31:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the timing and venue for signing the agreement will be announced shortly."
+    },
+    {
+      "id": "4931065",
+      "time": "2026-06-12 01:31:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普取消對伊朗的襲擊，彭博美元指數漲幅收窄。"
+    },
+    {
+      "id": "4931064",
+      "time": "2026-06-12 01:30:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.30%。"
+    },
+    {
+      "id": "4931063",
+      "time": "2026-06-12 01:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報562.30元。"
+    },
+    {
+      "id": "4931062",
+      "time": "2026-06-12 01:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報87.33美元/桶。"
+    },
+    {
+      "id": "4931061",
+      "time": "2026-06-12 01:30:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股短線拉昇，截至目前，道瓊斯指數漲1.57%，標普500指數漲1.27%，納斯達克綜合指數漲1.65%。"
+    },
+    {
+      "id": "4931060",
+      "time": "2026-06-12 01:30:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報65.34美元/盎司。"
+    },
+    {
+      "id": "4931059",
+      "time": "2026-06-12 01:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超1%】道指漲1.57%，現報50704.719點；納指漲1.52%，現報25551.141點；標普500指數漲1.28%，現報7359.830點。"
+    },
+    {
+      "id": "4931058",
+      "time": "2026-06-12 01:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：各方已就討論內容和最終要點，在概念和具體細節上達成一致並予以批准。"
+    },
+    {
+      "id": "4931057",
+      "time": "2026-06-12 01:30:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破65美元/盎司，日內漲3.00%。"
+    },
+    {
+      "id": "4931056",
+      "time": "2026-06-12 01:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "4931055",
+      "time": "2026-06-12 01:30:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報65.42美元/盎司。"
+    },
+    {
+      "id": "4931054",
+      "time": "2026-06-12 01:30:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報64.99美元/盎司。"
+    },
+    {
+      "id": "4931053",
+      "time": "2026-06-12 01:30:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守88美元/桶，日內跌2.29%。"
+    },
+    {
+      "id": "4931052",
+      "time": "2026-06-12 01:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守91美元/桶，日內跌2.38%。"
+    },
+    {
+      "id": "4931051",
+      "time": "2026-06-12 01:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報88.11美元/桶。"
+    },
+    {
+      "id": "4931050",
+      "time": "2026-06-12 01:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破65美元/盎司，日內漲0.46%。"
+    },
+    {
+      "id": "mkt:019eb7bb-d696-7dd8-afc7-ac0c1eda09c7",
+      "time": "2026-06-12 01:30:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US President Trump said the maritime blockade will remain fully effective until an agreement is completed."
+    },
+    {
+      "id": "4931049",
+      "time": "2026-06-12 01:30:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：討論和最終要點在概念和細節上均已獲得所有相關方批准。"
+    },
+    {
+      "id": "4931048",
+      "time": "2026-06-12 01:29:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報91.11美元/桶。"
+    },
+    {
+      "id": "4931047",
+      "time": "2026-06-12 01:29:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：協議簽署的時間和地點將很快公佈。"
+    },
+    {
+      "id": "mkt:019eb7bb-ac5f-7dd8-afc7-a7cbeb4c5f38",
+      "time": "2026-06-12 01:29:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said he has called off tonight's planned strikes and bombings against Iran."
+    },
+    {
+      "id": "4931046",
+      "time": "2026-06-12 01:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海上封鎖將繼續全面實施。"
+    },
+    {
+      "id": "4931045",
+      "time": "2026-06-12 01:29:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：取消了原定對伊朗的襲擊。"
+    },
+    {
+      "id": "4931044",
+      "time": "2026-06-12 01:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：取消了原定的空襲。"
+    },
+    {
+      "id": "4931043",
+      "time": "2026-06-12 01:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士透露，達索航空就法國歐洲無人機採購專案變更向空客提出索賠。"
+    },
+    {
+      "id": "4931042",
+      "time": "2026-06-12 01:29:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.07%，現報50454.289點；納指漲0.92%，現報25400.275點；標普500指數漲0.69%，現報7316.940點。"
+    },
+    {
+      "id": "4931041",
+      "time": "2026-06-12 01:28:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默稱，穩健的公共財政有助於保障英國安全。"
+    },
     {
       "id": "4931040",
       "time": "2026-06-12 01:27:13",
@@ -169987,160 +170245,6 @@
         "Impact bearish"
       ],
       "text": "Fed's Schmid said data indicate the economy is running well."
-    },
-    {
-      "id": "mkt:019e93b1-9ffc-711f-ac53-bdb3d0bc739a",
-      "time": "2026-06-05 01:32:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Boston Fed: Iran war would lift inflation but have limited US labor-market impact】Boston Fed research, reported by Axios, finds an Iran-scale oil shock would materially boost inflation but have negligible effect on national employment. Researchers estimate a US–Iran conflict could lift oil prices about 33%—historically large but not unprecedented—and say the modern US economy is structurally better able to absorb that shock with far less employment damage than in the 1970s. They conclude that if energy supply disruptions pose limited employment risk, the Fed’s policy challenge shifts from managing stagflation to preventing renewed price pressures."
-    },
-    {
-      "id": "mkt:019e93b1-9ff5-711f-ac53-b2ef0755a5ba",
-      "time": "2026-06-05 01:32:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "DALY, when asked about the 5–10-year outlook, said artificial intelligence may lower inflation."
-    },
-    {
-      "id": "4917957",
-      "time": "2026-06-05 01:32:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：目前，人工智慧帶來通縮效應並非當務之急。"
-    },
-    {
-      "id": "4917956",
-      "time": "2026-06-05 01:31:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：貨幣政策決策著眼於未來12個月的經濟形勢。"
-    },
-    {
-      "id": "4917955",
-      "time": "2026-06-05 01:31:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：通脹水平依然過高，這場抗通脹鬥爭已經持續五年，美聯儲目前仍在摸索應對之道。"
-    },
-    {
-      "id": "4917954",
-      "time": "2026-06-05 01:31:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：生產率提升應為通縮創造條件；時機才是關鍵。"
-    },
-    {
-      "id": "4917953",
-      "time": "2026-06-05 01:31:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利在被問及對未來5到10年的展望時表示，人工智慧有可能拉低通脹。"
-    },
-    {
-      "id": "4917952",
-      "time": "2026-06-05 01:31:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：資料顯示美國經濟表現向好。"
-    },
-    {
-      "id": "mkt:019e93af-3d61-711f-ac53-ab682b5f3493",
-      "time": "2026-06-05 01:29:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Federal Reserve's Daly: To date, generative AI has largely been used to augment rather than replace labor."
-    },
-    {
-      "id": "4917951",
-      "time": "2026-06-05 01:29:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：油價正推高能源與食品價格。"
-    },
-    {
-      "id": "mkt:019e93af-045b-711f-ac53-a7a782de9fcf",
-      "time": "2026-06-05 01:29:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve President Daly said oil prices are pushing up energy and food prices."
-    },
-    {
-      "id": "mkt:019e93ae-f057-711f-ac53-9dc0ca4baddd",
-      "time": "2026-06-05 01:29:35",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "DALY: Inflation has been driven mainly by tariffs; those effects are likely to gradually dissipate."
-    },
-    {
-      "id": "4917950",
-      "time": "2026-06-05 01:29:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：生成式人工智慧目前用於輔助人力，而非取代勞動力。"
-    },
-    {
-      "id": "mkt:019e93ae-b817-711f-ac53-96c308675b3d",
-      "time": "2026-06-05 01:29:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DALY said she has not yet seen a clear impact of artificial intelligence on inflation data."
-    },
-    {
-      "id": "mkt:019e93ae-5652-711f-ac53-89920170da01",
-      "time": "2026-06-05 01:28:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "DALY said some firms and sectors have begun to see productivity gains from AI, but those gains have not yet materialized at the aggregate economy level."
     }
   ]
 }
