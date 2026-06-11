@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-12 05:53:38_
-_本檔包含 3479 則快訊，約 672921 字_
+_更新時間：2026-06-12 06:50:45_
+_本檔包含 3458 則快訊，約 672609 字_
+
+---
+
+### 2026-06-06 15:00:20  #國際
+
+【伊朗稱解凍資金是對美談判的考驗】當地時間6月5日，伊朗最高領袖軍事顧問雷扎伊在接受美國有線電視新聞網採訪時表示，伊朗與美國之間的談判陷入了僵局。美國總統特朗普若想打破僵局，就必須解凍伊朗240億美元的被凍結資金。他強調，這是雙方建立信任的標誌，唯有如此，才能進一步開啟談判的道路。 雷扎伊還表示，如果美國繼續戰爭和海上封鎖，伊朗將把戰火蔓延到印度洋、曼德海峽、紅海和地中海，並將持續攻擊美軍基地，使戰爭進入新的階段。他強調，屆時美國損失將非常慘重，他同時呼籲美國總統特朗普擺脫以色列的影響去做出決定。（CCTV國際時訊）
+
+---
+
+### 2026-06-06 14:53:13  #國際
+
+【西班牙一本田倉庫發生火災，火源疑為太陽能電池板】日本富士新聞網報道，當地時間5日在西班牙巴塞羅那市，日本機動車製造商本田的一座倉庫發生火災。據報道，該倉庫為本田在當地的物流中心，火源疑為屋頂的太陽能電池板。火災未造成人員傷亡，但倉庫內部被燒燬。（環球網）
+
+---
+
+### 2026-06-06 14:52:55  #市場
+
+【吳清：過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%，理性投資、價值投資、長期投資成為廣泛共識。同時，基金行業已經成為社保、保險、年金等中長期資金的重要合作伙伴和進行權益投資的重要受託機構，在最佳化資本市場投資者結構、拓寬中長期資金入市渠道、增加市場流動性、減少市場非理性波動等方面發揮了十分關鍵的作用。
+
+---
+
+### 2026-06-06 14:51:51  #市場 #其他
+
+【吳清：過去五年，私募股權創投基金為未上市未掛牌企業注入5.25萬億元創新資本】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，過去五年，私募股權創投基金為未上市未掛牌企業注入5.25萬億元創新資本，相當於同期境內企業股票融資規模的90%，公募基金投資於先進製造和科創領域股票超過6萬億元，有力促進了社會資本向產業資本的轉化，有效帶動了要素資源加快向創新領域集聚。
+
+---
+
+### 2026-06-06 14:50:40  #其他
+
+【吳清：基金行業服務投資者超過8.6億人、滲透率達60%】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，近年來，行業主動適應居民多元化資產配置需要，加快推動指數型、配置型、絕對收益產品發展，服務投資者超過8.6億人、滲透率達60%。其中，公募基金規模已突破39萬億元，五年來累計分紅2.5萬億元，為投資者創造利潤3.6萬億元，已成為投資者共享中國經濟發展紅利的重要渠道之一。私募證券投資基金規模超過7.8萬億元，較“十三五”末增長近一倍，在滿足差異化資產配置需求方面發揮著越來越重要的作用。
+
+---
+
+### 2026-06-06 14:50:26  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Wu Qing: Accelerating tech-industrial revolution requires more adaptive financial services】CSRC Chairman Wu Qing said rising global instability and elevated international market volatility are driving a deep reallocation of global assets. He warned the AI-led wave of technological and industrial change is accelerating and urgently requires a financial services system better adapted to support higher‑level circulation among technology, industry and capital. Wu said China’s fund industry faces a strategic opportunity: economic upgrading during the 15th Five‑Year period is generating fast-growing emerging and future industries that will need capital and provide plentiful investment targets; deep adjustments in financial structure are increasing demand for diversified, integrated and bespoke asset management — an expanding pension system, rising long-term investment needs and a low-rate environment are prompting institutional and household portfolio reallocation; and capital-market institutional reform, including the new 'Guo Jiu Tiao' and the '1+N' policy framework, is reshaping market mechanics, raising regulatory inclusiveness and adaptability, and strengthening the foundation for high-quality fund-sector development.
+
+---
+
+### 2026-06-06 14:49:39  #公司
+
+【銀之傑：“被立案調查”等傳聞不實 公司已報案追究造謠者法律責任】銀之傑6月6日釋出嚴正宣告稱，近日，網路平臺出現關於公司“被立案調查”等不實傳聞。對此，公司已於6月3日釋出澄清公告。經核實，公司、公司各子公司以及公司主要股東、董事、監事、高階管理人員均不存在被任何有權機關立案調查的情況。上述傳聞內容與事實嚴重不符，屬於不實資訊。為維護公司合法權益及正常市場秩序。公司已第一時間就相關謠傳事件向公安機關報案並已收到報案回執，公司將盡最大努力堅決對造謠者依法追究法律責任。目前公司生產經營活動正常開展，各項業務執行平穩，不存在根據法律法規及監管要求應披露而未披露的重大事項。
+
+---
+
+### 2026-06-06 14:48:09  #公司 #國際
+
+美國軍事網站“戰區”報道稱，美國空軍正緊急尋求填補MQ-9無人機庫存，此前該機型在針對伊朗的行動中損失了近30架，在針對胡塞武裝的任務中也有所損失。由於MQ-9A已停產，美國空軍計劃從通用原子公司採購未使用的庫存飛機，但可供採購的數量不足10架。美軍MQ-9機隊規模已從2026財年初的165架減少到目前的約135架。
+
+---
+
+### 2026-06-06 14:47:29  #國際
+
+【普京承認俄羅斯經濟增速放緩】俄羅斯總統普京5日在聖彼得堡國際經濟論壇全體會議上發表講話，主要圍繞全球格局變化、俄羅斯經濟現狀以及技術主權等核心議題展開。普京在開篇指出，全球經濟正在經歷近幾十年來最大規模的結構性轉型，舊的垂直髮展模式正在被多極化格局所取代。普京特別強調，金磚國家的領導地位正在增強。針對外界關於俄羅斯經濟“一切已崩潰”的批評後，普京直接予以駁斥，並列舉關鍵資料，他也承認當前經濟增長放緩，4月GDP同比增長1.3%，前4個月累計增長0.2%，普京要求政府從2027年起回到可持續增長的軌道。
+
+---
+
+### 2026-06-06 14:46:23  #公司
+
+【寶利德殘局後半程 餘海軍與多名下屬遭刑拘】華東頭部豪車經銷商寶利德轟然倒下後，一場“拉大旗作虎皮”的資本迷局就此顯露真容。作為寶利德實控人的餘海軍，在其精心製造的氛圍感中吹起的泡沫被戳破後，近期與多名核心下屬一同被帶走。知情人士稱，接下來案件將在浙江省內指定異地進行偵辦。曾經風光無限的寶利德，正無可挽回地步入破產清算的終局。爆雷之後的賬目清查顯示，寶利德存在真假兩套賬目：一套是經外部審計的賬本，大體真實；另一套則服務於融資與對外展示，存在嚴重造假。投資人認為，餘海軍與其法定配偶陳穎菲大量挪用公司資金，餘海軍在融資過程中將一些長期維護的政商關係轉化為商業信用背書，以獲取投資人信任，其行為已偏離正常商業邊界，涉嫌詐騙。（財新）
+
+---
+
+### 2026-06-06 14:43:56  #市場 #其他 #焦點
+
+【吳清：增強在創新“無人區”陪跑的本領，更好投早、投小、投長期、投硬科技】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，堅持功能為要，更好發揮培育新質生產力作用。推動科技創新和產業創新融合發展，離不開長期資本、耐心資本的持續投入。行業機構特別是私募股權創投基金要堅持長期主義、專業主義，更好發揮在支援創新中的戰略性、基礎性作用。要完善專業化投研體系，聚焦國家戰略和國民經濟重點領域，大力提升對產業和技術發展趨勢的洞察力，增強在創新“無人區”陪跑的本領，更好投早、投小、投長期、投硬科技。要強化投後賦能，為被投企業提供更有效的治理最佳化、資源對接等長期陪伴和服務，助力穿越週期、提升價值。監管部門和自律機構也應當與有關方面一道，進一步完善配套支援政策，積極支援國資基金健全容錯機制、最佳化考核標準，更好與社會資本優勢互補，促進養老金、保險資金、AIC機構等加大股權投資力度，多渠道完善基金退出安排，加力促進暢通募投管退迴圈。
+
+---
+
+### 2026-06-06 14:43:16  #公司 #市場 #焦點
+
+【吳清：堅決杜絕違規募集、侵佔挪用、自融自用、利益輸送等問題，抓緊整改違規代持、通道化等行為，切實築牢合規展業、廉潔自律的“防火牆” 】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，不斷夯實合規風控內在基礎。昨天釋出的私募基金指導意見，全面調整最佳化監管理念，突出完善加強監管、防範風險的制度機制，突出強化法治和市場化監督約束，突出加強央地和部際協同聯動，對未來一段時期監管工作作出全面部署。證監會正按照部署要求，研究制定貫徹落實指導意見的三年行動方案，並會同相關單位建立完善准入、持續監管、風險化解、服務發展等“1+N+X”制度體系，推動行業在規範中發展、在發展中提升。私募基金要切實提高政治站位，把貫徹指導意見及配套的監管制度規則作為重中之重來抓，全面落實到展業全過程各環節，切實在理念、模式、行動上來一個大轉變、大提升。要全面對標對錶意見要求，深刻汲取此前部分機構冒進發展的教訓，認真檢視自身存在的短板不足，主動適應、積極配合監管體制機制調整，全面最佳化完善自身的管理體制、規章制度和工作流程。要立足實際完善治理機制，加強股東、高管等關鍵少數行為約束，加強內部合規制度和風控指標體系建設。嚴格行為規範，依法合規做好資訊披露，堅決杜絕違規募集、侵佔挪用、自融自用、利益輸送等問題，抓緊整改違規代持、通道化等行為，切實築牢合規展業、廉潔自律的“防火牆”。公募基金制度機制和監管規則經多年積累已相對完善，執行總體比較規範，但近年來審計監督、監管檢查、風險個案等也暴露出行業機構在公司治理、股權管理、投資運作、產品銷售等方面還存在不少問題，個別風險事件仍時有發生。行業機構千萬不能麻痺大意，要自警自省、舉一反三，健全公司治理架構，夯實合規風控基礎，真正做到全員參與、全面覆蓋、全程落實。
+
+---
+
+### 2026-06-06 14:42:32  #MKT News #Market Themes #AI Revolution
+
+【Wu Qing: resolutely curb concept-driven hype, complex nesting, excessive speculation and channel arbitrage in pseudo-innovation】CSRC Chair Wu Qing told the China Securities Investment Fund Association’s 4th member meeting that frontier technologies such as artificial intelligence are driving deep change in fund industry business models and ecosystems. He urged firms to deepen innovation across products, services, operations and organization to better meet market demand, and to strengthen technology enablement by prudently and orderly exploring AI, big data and related tools to support investment research, client service and internal controls while accelerating digital and intelligent transformation. Wu called for differentiated development — large firms should raise overall competitiveness, while small and midsize firms should compete on specialization and core strengths rather than scale — and for stronger end-to-end risk controls over innovation. He said innovation pace and intensity must match management capability and vowed to crack down on pseudo-innovation, explicitly naming concept-driven hype, complex nested structures, excessive speculation and channel arbitrage as targets.
+
+---
+
+### 2026-06-06 14:42:10  #市場
+
+【吳清：始終注重投資者利益優先】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，始終注重投資者利益優先。無論是公募基金還是私募基金，都要堅守“受人之託、代客理財”的信義義務，持續強化制度約束和利益重構，加快實現從“重規模”向“重回報”的轉型。當前公募基金改革迎來了“棋至中盤”的關鍵節點，行業聲譽有所回升，必須要毫不放鬆、再接再厲，持續鞏固拓展改革發展成果。要強化利益繫結，在公司治理、產品發行、投資運作、績效考核等各個方面落實好監管新規和改革要求，提升投資運作穩健性，增強逆週期思維，努力為投資者創造更可持續的中長期收益，堅決遏制賭押賽道、風格漂移、高位發行等頑疾，更不能回到“衝規模、賺快錢”的老路上去。要注重權益投資，這是行業服務投資者的優勢所在、關鍵所在，要下更大力氣加強投研專業能力建設，強化權益投資的行業影響力和競爭力。要加強供需適配，重視含權低波等穩健類產品創設，推出更多適配中長期資金的投資產品，更好對接不同群體的差異化需求，同時加快推進向投資者回報導向的買方投顧轉型，不斷提升投資者滿意度、獲得感。
+
+---
+
+### 2026-06-06 14:41:21  #市場 #其他 #焦點
+
+【吳清：堅決遏制概念炒作、複雜巢狀、過度投機、通道空轉等偽創新、亂創新】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，持續增強行業高質量發展內生動力。隨著人工智慧等前沿技術蓬勃發展，基金行業經營模式和發展生態正在發生深刻變革。行業機構要持續提升產品、服務、業務、組織等方面創新的廣度和深度，更加全面、更加有效對接市場需求。要加強科技賦能，穩妥有序探索運用人工智慧、大資料等新技術，有效賦能投資投研、客戶服務、內控管理等重點場景，加快數字化、智慧化轉型。要突出錯位發展，頭部機構要全面提升綜合競爭實力，中小機構不要拼規模要拼特色，要立足自身資源稟賦與核心優勢，聚焦重點業務領域深耕細作，走出特色化、精品化發展路線。要統籌好發展與安全，加強創新全過程風險防控，堅持創新節奏、力度與管理能力相適配，堅決遏制概念炒作、複雜巢狀、過度投機、通道空轉等偽創新、亂創新。
+
+---
+
+### 2026-06-06 14:39:36  #宏觀 #市場 #焦點
+
+【吳清：程式化交易已成為包括我國在內的全球各主要資本市場的重要交易方式】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，近年來，程式化交易已成為包括我國在內的全球各主要資本市場的重要交易方式。除了大家熟知的量化私募外，外資、公募及其他專業機構投資者，甚至一些個人投資者，都不同程度採用程式化交易的方式。充分考慮個人投資者佔大多數的國情市情，先後出臺了一系列程式化交易監管規則制度，建立交易報告機制，強化針對性監測監控，從嚴監管異常交易行為，引導降頻降速，強化交易業務單元管理等。在此基礎上，我們還將深入調研，持續完善程式化交易監管的機制安排，更突出公平和規範，加強針對性監管，切實防範濫用技術優勢，堅決打擊操縱市場、擾亂市場秩序等違法違規行為。
+
+---
+
+### 2026-06-06 14:38:29  #市場
+
+【吳清：我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，當前和今後一個時期，全行業要深入貫徹“十五五”規劃綱要，全面落實新“國九條”和資本市場“1+N”政策體系，持續深化公募基金改革，堅決落實私募基金指導意見，力爭“十五五”期間建設一流投資機構取得突破性進展。
+
+---
+
+### 2026-06-06 14:38:10  #MKT News
+
+【Wu Qing: PE and VC funds should adhere to long-termism and professionalism】CSRC Chairman Wu Qing, speaking at the China Securities Investment Fund Association’s fourth member meeting, urged private equity and venture-capital funds to adopt long-termism and professionalism and play a strategic, foundational role in supporting innovation. He called for stronger specialized investment-research capabilities focused on national strategic priorities and key economic sectors, deeper insight into industry and technology trends, and greater capacity to back innovation in uncharted areas—emphasizing earlier, smaller, longer investments and support for hard technology. Wu urged stronger post-investment enablement, including governance optimization and resource matching, to help portfolio companies weather cycles and enhance value. He said regulators and self-regulatory bodies should improve supporting policies, back state-owned capital funds in establishing tolerance-for-error mechanisms and optimized assessment standards, better complement social capital, encourage greater equity allocations from pension, insurance and AIC institutions, and expand fund exit channels to smooth the fundraising–investment–management–exit cycle.
+
+---
+
+### 2026-06-06 14:37:27  #市場 #其他
+
+【吳清：我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，對標經濟社會發展的內在要求和廣大投資者的殷切期待，我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出，還存在不少短板弱項。公募基金行業正在邁上高質量發展新階段，但專業優勢不夠突出，產品同質化、競爭內卷化問題明顯，專業服務能力還有差距；發展結構還不均衡，權益類公募基金規模佔比目前不到30%，遠低於成熟市場60%的平均水平；合規風控和內部治理仍需進一步夯實。私募基金行業總體處於規範提質、變革重塑的階段，行業機構多而不精，質量參差不齊；行業生態不健全，法治和市場化約束有短板；募資結構失衡，募投管退仍有不少堵點卡點；整體規範運作水平有待提升，違法違規時有發生；機構風險出清面臨轉型陣痛，在扶優限劣的過程中要切實防止劣幣驅逐良幣，以強監管、促轉型推動行業高質量發展。此外，基金行業的國際競爭力和應對外部風險衝擊的能力也需要進一步提升。
+
+---
+
+### 2026-06-06 14:36:26  #其他
+
+【喊話、電子干擾 專家詳解南部戰區多手段驅離荷蘭侵權艦機】5月27日，荷蘭海軍“德魯伊特”號護衛艦非法侵闖中國西沙群島，艦載直升機多次升空侵入我國領空。中國人民解放軍南部戰區出動多艘056A、054A型護衛艦，其中中國海軍631艦和626艦近距離外逼驅離荷蘭海軍“德魯伊特”號護衛艦，中國海軍553艦對荷蘭NH-90直升機進行喊話警告。此外，南部戰區還出動戰機掛載PL-10空空導彈參與了驅離行動。（央視新聞）
 
 ---
 
@@ -20811,260 +20931,5 @@ NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading arou
 ### 2026-06-05 06:52:10  #其他
 
 馬斯克：為此我們需要資金。
-
----
-
-### 2026-06-05 06:49:39  #公司 #觀點
-
-馬斯克告訴摩根大通CEO戴蒙：我們進入一個快速增長的新階段。
-
----
-
-### 2026-06-05 06:48:38  #MKT News
-
-【Cuban president responds to U.S. sanctions】Cuban President Miguel Díaz-Canel posted on social media on the 4th responding to new U.S. measures. He said the U.S. president had issued fresh threats and that the U.S. Treasury had added additional Cuban leaders, organizations and companies to what he called an illegal sanctions list, measures he described as aimed at tightening the blockade and harming the Cuban people. Díaz-Canel vowed the actions would be met by Cuba’s determination to prepare for the worst and resist what he termed an imperialist offensive.
-
----
-
-### 2026-06-05 06:47:09  #公司 #國際
-
-據NOTUS： 美國政府已就收購頭部人工智慧企業股份事宜開展磋商。
-
----
-
-### 2026-06-05 06:46:35  #宏觀 #國際
-
-【古巴國家主席回應遭美製裁】古巴國家主席迪亞斯-卡內爾當地時間4日在社交媒體平臺發文，回應遭美國製裁一事。迪亞斯-卡內爾在文中指出：美國總統再次發表針對古巴的威脅性言論；與此同時，美國財政部將更多古巴領導人、組織和企業列入其非法的制裁名單。這些措施旨在加強對古巴的封鎖，並加劇古巴與美國之間的衝突態勢。這種政治上的盲目，疊加了過去幾周針對古巴的強制性脅迫措施，其目的就是為了傷害古巴人民。美國政府的侵略與卑劣行徑，必將碰壁於古巴應對最壞局面、抵抗帝國主義攻勢的決心。美國財政部外國資產控制辦公室稍早前釋出的訊息顯示，美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。（CCTV國際時訊）
-
----
-
-### 2026-06-05 06:45:52  #公司 #國際
-
-市場訊息：OpenAI 執行長山姆·奧特曼就政府持股事宜與特朗普展開磋商。
-
----
-
-### 2026-06-05 06:45:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Business Insider reports Google (GOOG.O) is quietly cutting staff in its cloud unit.
-
----
-
-### 2026-06-05 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 3.61% — Top crypto losers are Binance (-3.61%), XRP (-3.54%), Ether (-2.92%) and Bitcoin (-0.91%).
-
----
-
-### 2026-06-05 06:45:12  #公司
-
-市場訊息：谷歌正悄然裁減雲端計算部門員工。
-
----
-
-### 2026-06-05 06:43:57  #其他
-
-【報道：巴基斯坦規劃建戰略石油儲備，正與中國、沙特、科威特等國談判】一名巴基斯坦政府官員告訴《日經亞洲評論》：“巴基斯坦計劃初期建立滿足45天需求的石油儲備，未來可逐步提升至90天。”這名官員透露，巴能源部計劃採用多模式的戰略石油儲備體系，包括國家支援的應急庫存、行業強制性庫存以及保稅商業倉儲。在上述儲備體系中，保稅商業倉儲引發討論。這指的是在海關監管下的儲存設施，進口石油或其他燃料可在此儲存，供國內外貿易商再出口，無需立即繳納關稅和稅費，一旦發生緊急情況，這些儲存的燃料可用於巴基斯坦國內。《日經亞洲評論》引述另一位知情政府官員的話報道稱，巴基斯坦正在與沙烏地阿拉伯、科威特、卡達、阿聯酋和中國談判，計劃在巴基斯坦境內建立保稅終端。“瓜達爾港可以成為此類終端建設的選址之一”，該官員表示。（環球網）
-
----
-
-### 2026-06-05 06:42:10  #國際
-
-市場訊息：美國多家銀行計劃在 2027 年上半年上線代幣化存款網路；由多家商業銀行共同持股的清算所將負責該網路運營。
-
----
-
-### 2026-06-05 06:41:10  #觀點
-
-市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。
-
----
-
-### 2026-06-05 06:40:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%).
-
----
-
-### 2026-06-05 06:39:02  #MKT News #Commodities #Energy
-
-【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site.
-
----
-
-### 2026-06-05 06:36:12  #其他
-
-馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。
-
----
-
-### 2026-06-05 06:36:03  #MKT News
-
-Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms.
-
----
-
-### 2026-06-05 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%).
-
----
-
-### 2026-06-05 06:35:12  #MKT News
-
-Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x.
-
----
-
-### 2026-06-05 06:32:19  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
-
-【CME CEO expresses serious concern over new "perpetual futures"】CME CEO Terry Duffy said he is "very concerned" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, "I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts."
-
----
-
-### 2026-06-05 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are Naphtha (-5.04%), Heating Oil (-4.72%), Crude Oil WTI (-3.40%) and Brent Crude Oil (-2.72%). Gains are led by Natural gas (4.37%), Methanol (0.87%) and Coking Coal (0.61%).
-
----
-
-### 2026-06-05 06:30:14  #其他
-
-華爾街預計，SpaceX的AI收入到2030年將增長100倍。
-
----
-
-### 2026-06-05 06:27:20  #公司
-
-【透視年內債市信披監管措施：緊盯關鍵主體，全鏈條、穿透式深化】今年以來，已有近40家債券發行人因資訊披露違法違規被交易所採取監管措施，涉及逾期披露、遺漏披露、錯誤披露、虛假披露等問題。梳理發現，從拖延披露財報，到篡改募集資金使用資料、系統性財務造假，債券發行人違法違規手法日趨多元。針對債市信披亂象，監管部門依據違法違規頻次、情節輕重實施梯度處置：“柔性”警示與“剛性”處分並舉；落實“公司+個人”雙罰機制，追責鏈條穿透至發行人內部的“關鍵少數”；同時，連帶處罰會計師事務所等中介機構，壓實“看門人”職責。（上證報）
-
----
-
-### 2026-06-05 06:26:31  #MKT News #SPCX.O #Impact bullish #Nasdaq100 #S&P500
-
-【Sources: SpaceX sets IPO offer price at $135 a share】Sources said SpaceX (SPCX.O) has informed banks handling its $75 billion IPO that it will use an offer price of $135 a share, disclosed in a revised filing on Wednesday. The move indicates founder Elon Musk’s intent to control pricing for what would be the largest IPO on record, though sources cautioned the price could change before trading begins. SpaceX began its roadshow on Thursday; underwriters will collect investor feedback and typically set the final price at a pre-listing meeting. Sources described demand as extremely strong. The company expects shares to start trading on June 12.
-
----
-
-### 2026-06-05 06:24:56  #公司 #國際
-
-【厄爾尼諾帶來豐水預期，南方水電公司迎景氣行情】近日，國家氣候中心確認，赤道中東太平洋5月步入厄爾尼諾狀態，專家預判夏秋季大機率演化成中等及以上強度事件，我國南澇北旱氣候機率抬升。豐水預期催化水電板塊年內漲幅顯著分化，部分上市公司釋出的一季度發電資料，已驗證流域來水實質性改善。多家券商研報預測，南方水電板塊具備配置價值，北方高溫將推動相關區域夏季火電發電量和動力煤需求提升。（上證報）
-
----
-
-### 2026-06-05 06:24:53  #市場 #焦點
-
-現貨黃金突破4480美元/盎司，日內漲0.09%。
-
----
-
-### 2026-06-05 06:21:21  #其他
-
-【高溫與算電協同助力 A股電力板塊投資價值升溫 】一邊是國內高溫天氣持續提升電力需求，一邊是算電協同概念越發受到市場認可，近期電力板塊表現活躍，市場關注度不斷升溫。在業內機構看來，今年氣候變化導致的高溫將帶動迎峰度夏期間用電需求增長，與此同時，市場對國產晶片算力預期提升或帶動用電量加速增長，催生行業投資機會。展望後市，煤電板塊有望在高溫天氣下率先受益，沿海地區現貨電價提升及算電協同加速發展等因素將進一步推動公用事業板塊二級市場的表現，綠電、水電、核電等細分方向的投資價值同樣值得關注。（中證報）
-
----
-
-### 2026-06-05 06:20:31  #公司 #國際
-
-美國：Antares Nuclear（安泰雷斯核能公司）的Mark-0已成功完成演示。
-
----
-
-### 2026-06-05 06:19:31  #公司 #觀點
-
-【核心驅動力並未動搖 五大券商把脈A股下半年機遇 】進入年中時點，各大券商機構對於A股下半年行情走勢的研判陸續出爐，相關內容成為投資者提前佈局、捕捉市場機遇的重要參考。就在近期，國泰海通、中信證券、中金公司、華泰證券、中信建投等多家頭部券商陸續釋出2026年A股中期策略報告，受到市場各方重視。在前述券商看來，當前推動本輪市場上行、中國資產重估的核心驅動力並未發生根本性動搖，市場整體估值合理，但部分高估值板塊需警惕出現波動風險；對於AI主線，當前全球AI革命處於景氣度持續擴散而非全面泡沫化的階段。就後市佈局而言，新興科技、優勢製造以及具備估值修復潛力的部分傳統行業是值得把握的主線，通訊裝置、高階裝備、電力裝置與新能源、工程機械、創新藥等品種受到青睞。（中證報）
-
----
-
-### 2026-06-05 06:18:39  #市場
-
-【聰明錢提前佈局AI 上游環節部分基礎材料成新寵 】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。Wind資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中證報）
-
----
-
-### 2026-06-05 06:18:03  #MKT News
-
-【Putin says Russia must persuade Kyiv it is willing to compromise】Russian President Putin told heads of major news agencies in St. Petersburg on April 4 that Russia is prepared to make compromises on Ukraine but must first convince Kyiv this is the case. He said Russia does not oppose Ukraine joining the EU but opposes the EU becoming a military alliance. Putin said the EU could play a constructive role by persuading Kyiv to accept a compromise rather than supplying weapons. He added Russia wants to sign any agreement with Ukraine's "legitimate representatives" and said holding presidential elections in Ukraine is very important.
-
----
-
-### 2026-06-05 06:18:02  #國際
-
-【普京：需要說服烏方相信俄羅斯同意妥協】俄羅斯總統普京4日在聖彼得堡會見世界主要通訊社負責人時表示，俄方同意在烏克蘭問題上作出妥協，但需要說服烏方相信這一點。普京表示，俄羅斯不反對烏克蘭加入歐盟，但反對歐盟變成一個軍事聯盟。歐盟可以為解決烏克蘭問題發揮積極作用，但方式應該是說服烏克蘭接受妥協方案，而不是向烏克蘭提供武器。普京說，俄方希望與烏方“合法代表”簽署檔案，俄烏達成的協議將是一份具有歷史意義的檔案。他表示，烏克蘭舉行總統選舉非常重要。（新華社）
-
----
-
-### 2026-06-05 06:17:42  #其他
-
-【ETF座次重新洗牌 資金“換擋”重塑市場生態 】6月3日，易方達基金憑藉6185.19億元的ETF管理規模問鼎市場，坐上境內ETF基金管理人的“頭把交椅”。在當前ETF管理規模排名前十的基金管理人中，除易方達基金外，國泰基金、廣發基金、博時基金、華安基金的最新位次相比年初均有提升。當資金邏輯從全市場貝塔配置轉向細分行業阿爾法收益挖掘，業內人士認為，境內ETF市場生態正發生全方位重構，未來前瞻佈局細分賽道、提高精細化運作程度、夯實產品流動性壁壘、搭建多元化產品矩陣、完善機構定製與投顧生態等將成為ETF競爭的重要方向。（中證報）
-
----
-
-### 2026-06-05 06:16:48  #其他
-
-【前5個月基金新開戶數近160萬，基金經理對後市普遍持樂觀態度】隨著公募基金賺錢效應的持續顯現，投資者對基金的關注度也在不斷升溫。上交所資料顯示，今年前5個月基金新開戶數近160萬，同比增長超過20%。從近期基金髮行情況看，權益與“固收+”產品均接連出現爆款。站在當前時點，機構對後市普遍持樂觀態度。（上證報）
-
----
-
-### 2026-06-05 06:16:44  #市場
-
-【機構前瞻下半年資本市場新趨勢：改革強根基 資金增活力 工具提質效】多家機構近期密集釋出對2026年下半年資本市場趨勢的展望報告。機構人士認為，資本市場改革已從頂層規劃的“施工圖”階段，逐步轉向政策措施落地的“實景圖”攻堅階段。 下半年，政策層面，創業板改革、再融資一攬子措施等重磅舉措進一步深化落實，有望持續拓展直接融資服務實體經濟的邊界；資金層面，長線資金入市機制不斷完善；產品層面，期貨、衍生品等工具箱進一步備齊，更好發揮資本市場在最佳化資源配置、服務實體經濟等方面的積極作用。總體來看，資本市場正邁向“質效提升”新階段。（中證報）
-
----
-
-### 2026-06-05 06:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.32% — Top currency gainers are Brazilian Real (0.32%), Swiss Franc (0.32%), Mexican Peso (0.30%) and Euro (0.13%). Biggest loser is Dollar Index (-0.10%). Meanwhile, British Pound and Japanese Yen were little changed.
-
----
-
-### 2026-06-05 06:09:55  #其他
-
-【券商密集釋出2026年度提質增效方案，錨定投行提質、控薪增效、分紅回饋三條主線】據統計，截至6月3日，已有16家上市券商披露2026年度“提質增效重回報”行動方案。從頭部券商到區域特色券商，各家方案在“建設一流投行”“壓實關鍵少數責任”“提升股東回報”三大方向上形成共識，且因資源稟賦差異走出了不同路徑。（上證報）
-
----
-
-### 2026-06-05 06:05:15  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index eases 0.11% to 99.419 at New York close】The dollar index (DXY) eased 0.11% to 99.419 at the New York close. EUR/USD 1.1614 (prev. 1.1598); GBP/USD 1.3425 (1.3416); USD/JPY 160.02 (160.03); USD/CHF 0.7892 (0.7924); USD/CAD 1.3899 (1.3895); USD/SEK 9.3737 (9.4065).
-
----
-
-### 2026-06-05 06:04:18  #市場
-
-【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.419。截至紐約匯市尾市，1歐元兌換1.1614美元，高於前一交易日的1.1598美元；1英鎊兌換1.3425美元，高於前一交易日的1.3416美元。1美元兌換160.02日元，低於前一交易日的160.03日元；1美元兌換0.7892瑞士法郎，低於前一交易日的0.7924瑞士法郎；1美元兌換1.3899加元，高於前一交易日的1.3895加元；1美元兌換9.3737瑞典克朗，低於前一交易日的9.4065瑞典克朗。
-
----
-
-### 2026-06-05 06:01:52  #公司 #市場 #國際
-
-【6月5日隔夜要聞一覽】
-1、美股週四收盤漲跌不一，道指上漲逾870點並創歷史新高。 道指漲874.86點，漲幅為1.73%，報51561.93點；納指跌23.02點，跌幅為0.09%，報26830.96點；標普500指數漲30.63點，漲幅為0.41%，報7584.32點。
-2、普京願在俄美會晤基礎上與烏談判，澤連斯基公開致信普京，提議舉行會晤。
-3、特朗普稱若達成協議，不排除與伊朗最高領袖會晤。
-4、伊朗外長阿拉格齊表示，伊朗此前已警告該地區各國，如果它們參與對伊朗的侵略，其境內的美國軍事基地將成為伊朗的合法打擊目標。
-5、瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。
-6、美國把古巴國家主席迪亞斯-卡內爾及其妻子、古巴革命領袖勞爾·卡斯特羅的兒子等人列入制裁名單。
-7、伊朗最高領袖軍事顧問雷扎伊表示，如果以色列向黎巴嫩的達希耶方向推進，伊朗所有的導彈便會蓄勢待發。
-8、葉門胡塞武裝領導人阿卜杜勒-馬利克·胡塞4日表示，胡塞武裝已做好準備，以應對任何情況下的局勢發展。
-9、巴勒斯坦伊斯蘭抵抗運動（哈馬斯）4日發表宣告說，哈馬斯高階官員哈利勒·哈亞當天與伊朗外交部長阿拉格齊通電話，討論巴勒斯坦問題和地區局勢最新進展。
-
----
-
-### 2026-06-05 06:00:38  #市場 #焦點
-
-現貨白銀突破74美元/盎司，日內漲0.03%。
-
----
-
-### 2026-06-05 06:00:19  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為96.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96.4%，累計降息25個基點的機率為3.6%。美聯儲到7月維持利率不變的機率為88.5%，累計加息25個基點的機率8.2%，累計降息25個基點的機率為3.2%。
-
----
-
-### 2026-06-05 05:55:18  #其他
-
-中國地震臺網正式測定：06月05日05時49分在新疆阿克蘇地區庫車市（北緯41.31度，東經83.95度）發生3.6級地震，震源深度17千米。
 
 ---

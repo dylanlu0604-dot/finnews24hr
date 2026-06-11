@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-12 05:53:38_
-_本檔包含 3772 則快訊，約 672523 字_
+_更新時間：2026-06-12 06:50:45_
+_本檔包含 3807 則快訊，約 672627 字_
+
+---
+
+### 2026-06-08 18:35:30  #國際
+
+特朗普：事態進展將會加快。
+
+---
+
+### 2026-06-08 18:35:26  #市場
+
+【英偉達美股盤前漲超2%】英偉達美股盤前漲超2%，現報209.3美元。
+
+---
+
+### 2026-06-08 18:35:16  #國際
+
+特朗普：“和平”相關最終談判正在推進，但程序可能受到干擾。
+
+---
+
+### 2026-06-08 18:35:07  #國際
+
+特朗普：封鎖將維持原狀，全面生效，直至達成“最終協議”。
+
+---
+
+### 2026-06-08 18:34:47  #焦點 #國際
+
+特朗普：以色列與伊朗有意立即停火。
+
+---
+
+### 2026-06-08 18:34:44  #MKT News #Brent #Impact bullish #WTI
+
+Council of the European Union imposed sanctions on two individuals and one entity over the Strait of Hormuz for involvement in Iranian actions and policies that threaten freedom of navigation in the Middle East.
+
+---
+
+### 2026-06-08 18:34:06  #國際
+
+霍尼韋爾正關注中東局勢對過程自動化業務造成的影響。
+
+---
+
+### 2026-06-08 18:33:40  #公司
+
+【龍芯中科：詢價轉讓價格為120元/股】龍芯中科公告，根據2026年6月8日詢價申購情況，初步確定的本次詢價轉讓價格為120元/股。經向機構投資者詢價後，初步確定的轉讓價格為120元/股。經出讓方與組織券商協商，一致決定啟動追加認購程式，追加認購截止時間不晚於2026年6月10日。
+
+---
+
+### 2026-06-08 18:32:40  #國際
+
+哈馬斯：我們高度讚賞伊朗和葉門對猶太復國主義國家針對黎巴嫩及其人民罪行的回應。
+
+---
+
+### 2026-06-08 18:32:25  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Hamas highly praised Iran and Yemen's response to the Zionist entity's crimes against Lebanon and its people.
+
+---
+
+### 2026-06-08 18:32:05  #其他
+
+【四川省發展改革委原黨組副書記、副主任徐立被開除黨籍】經查，徐立喪失理想信念，背棄初心使命，對黨不忠誠不老實，搞兩面派，做兩面人；無視中央八項規定精神，收受可能影響公正執行公務的禮金，接受可能影響公正執行公務的宴請、旅遊活動安排；違背組織原則，在幹部選拔、遴選工作中利用職權為他人謀取利益並收受財物；廉潔底線失守，借用管理和服務物件錢款，影響公正執行公務，將應當由個人支付的費用由他人支付，搞權色交易、錢色交易；干預和插手執法活動；私德不修，腐化墮落；利用職務上的便利，為他人在專案承攬、專案審批等方面謀取利益並收受財物，數額特別巨大；退休後利用其原職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人在專案承攬等方面謀取不正當利益並收受財物，數額特別巨大。
+
+---
+
+### 2026-06-08 18:31:42  #其他
+
+【全國公安機關嚴查嚴打涉高考網路謠言】2026年高考正在進行中，全國公安機關堅持以最高標準、最嚴要求、最強措施，嚴查嚴打涉考類違法犯罪活動，全力護航高考安全平穩有序。6月8日，公安部網安局公佈10起涉高考網路謠言典型案例，給所有想蹭高考熱點博眼球、吸粉的人敲響警鐘。從典型案例情況來看，一些不法分子利用高考社會關注度高的特點，透過AI工具炮製虛假資訊、虛構“內部資源”等手段博取流量、吸粉引流，嚴重誤導公眾，破壞正常考試秩序。（新華社）
+
+---
+
+### 2026-06-08 18:31:13  #公司
+
+【怡亞通：股東解除質押3.85%並新質押6.55%】怡亞通公告，公司股東深圳市怡亞通投資控股有限公司解除質押1億股，佔其所持42.03%、佔公司總股本3.85%，起始日2025年6月19日，解除日期2026年6月5日；同日新質押1.7億股，佔其所持71.45%、佔公司總股本6.55%，質押期限2026年6月5日至2027年6月5日，質權人為深圳市投資控股有限公司；本次操作後，該股東持股2.38億股，已質押2.07億股，佔其所持87%、佔公司總股本7.97%。
+
+---
+
+### 2026-06-08 18:31:09  #公司
+
+【億帆醫藥：控股股東補充質押並質押展期2.01%】億帆醫藥公告，公司於2026年6月8日獲控股股東程先鋒通知，其將所持2150萬股辦理質押展期，質押期限自2025年6月5日至2027年6月4日，佔其持股4.33%、佔公司總股本1.77%；同時補充質押300萬股，質押期限自2026年6月5日至2027年6月4日，佔其持股0.60%、佔公司總股本0.25%；兩項合計質押2450萬股，佔其持股4.93%、佔公司總股本2.01%。截至公告披露日，程先鋒累計質押7300萬股，佔其持股14.70%、佔公司總股本6.00%。
+
+---
+
+### 2026-06-08 18:31:01  #國際
+
+印度航空通報：三架停放在德里機場二號航站樓的空客 A320 客機，遭地面裝置及外來雜物撞擊受損。
+
+---
+
+### 2026-06-08 18:31:00  #MKT News #DXY #Impact bullish
+
+Bank of Israel minutes: MPC voted unanimously on May 25 to cut the policy rate to 3.75%.
+
+---
+
+### 2026-06-08 18:30:48  #央行 #國際
+
+以色列央行貨幣政策委員會會議紀要顯示，所有委員會成員均投票贊成在5月25日將基準貸款利率下調至3.75%。
+
+---
+
+### 2026-06-08 18:30:33  #公司
+
+【華瓷股份：擬1.19億元收購江西金環31%股權】華瓷股份公告，公司於2026年6月5日與交易對方正式簽署《股權轉讓協議》，以1.19億元收購江西金環31%股權。本次交易完成後，公司將合計持有江西金環51%股權，實現對標的公司的控股。公司對於江西金環剩餘49%股權暫無進一步收購安排。
+
+---
+
+### 2026-06-08 18:30:26  #市場
+
+巴基斯坦KSE-100指數暫定收盤下跌1%，至169,124.80點。
+
+---
+
+### 2026-06-08 18:30:17  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.97% Lower — The SENSEX Index fell 719 points or 0.97 percent on Monday to close at 73524 points. Leading the losses are Tata Motors (-2.33%), Mahindra & Mahindra (-2.32%) and Tata Steel (-2.31%). Top gainers were Power Grid (1.72%), Bharti Airtel (1.21%) and Tech Mahindra (1.11%).
+
+---
+
+### 2026-06-08 18:29:26  #其他
+
+【跨境理財通首次納入數字銀行，南向通香港銀行擴容至25家】自赴港開戶監管趨嚴後，QDII、互認基金、跨境理財通等跨境投資的合規渠道備受關注。6月5日，8家香港數字銀行之一的眾安銀行（ZA BANK）宣佈，攜手興業銀行正式推出“跨境理財通南向通”服務。這意味著，試點了約五年的跨境理財通首次迎來數字銀行參與。
+
+---
+
+### 2026-06-08 18:29:22  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+Kremlin says Kyiv's actions make negotiations hard to imagine.
+
+---
+
+### 2026-06-08 18:29:05  #MKT News
+
+Interfax: Russia says it is taking measures to ease fuel shortages in Crimea.
+
+---
+
+### 2026-06-08 18:28:43  #國際
+
+俄羅斯稱正採取措施緩解克里米亞燃油短缺問題。
+
+---
+
+### 2026-06-08 18:28:25  #公司
+
+【王浩劉捷會見國家電網有限公司董事長張智剛一行】據浙江日報，8日上午，浙江省委書記、省人大常委會主任王浩，浙江省委副書記、省長劉捷在杭州會見了國家電網有限公司董事長、黨組書記張智剛一行。王浩說，希望國家電網公司進一步加大對浙江電力保供支援力度，積極推動在浙重大電網專案建設，強化能源領域科技創新合作，助力浙江深入實施“綠保穩”工程、打造新型能源體系。我們將與國家電網公司深化全面對接、加強務實合作，紮實做好專案投資投運的全要素保障，為國家電網公司在浙江發展提供更好的環境、最優的服務。張智剛表示，國家電網公司將充分發揮央企作用，結合“十五五”規劃佈局，搶抓數字經濟與能源革命融合發展機遇，主動服務浙江發展所需，健全電網基礎設施，保障電力安全可靠供應，助力浙江加快綠色轉型發展，為高質量發展建設共同富裕示範區作出積極貢獻。
+
+---
+
+### 2026-06-08 18:28:04  #公司
+
+【宿遷聯盛：擬設立合資公司從事磷化銦襯底業務】宿遷聯盛公告，公司與朱蓉輝、匯智光芯簽署《合資意向協議》，擬共同出資1000萬元設立合資公司，從事磷化銦襯底的研發生產銷售。其中公司出資700萬元，持股70%。專案計劃分兩期建設，一期固定投資1億元，預期年產12萬片4-6英寸磷化銦襯底；二期預計追加投資2億元，產能擴充至40萬片/年。本次投資尚需提交股東會審議，存在較大不確定性。
+
+---
+
+### 2026-06-08 18:27:52  #其他
+
+克里姆林宮表示注意到有關亞美尼亞選舉以及眾多違規行為的報道。
+
+---
+
+### 2026-06-08 18:27:24  #公司 #觀點
+
+【國金證券：控股股東提議1.5億-3億元回購股份】國金證券公告稱，6月6日，公司控股股東長沙湧金提議公司以自有資金透過上交所集中競價方式回購股份，回購價不超13元/股，回購資金總額不低於1.5億元且不超3億元，回購期限為董事會審議透過方案之日起3個月內，回購股份將用於維護公司價值及股東權益。該事項需履行審批程式，存在不確定性。
+
+---
+
+### 2026-06-08 18:27:21  #MKT News #Market Regions #Europe & UK
+
+Kremlin condemns attack on passenger train in Crimea.
+
+---
+
+### 2026-06-08 18:27:12  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kremlin says such actions complicate efforts to pursue a peaceful resolution of the conflict.
+
+---
+
+### 2026-06-08 18:27:05  #公司
+
+【宏盛華源：子公司預中標國家電網專案，金額約21.35億元】宏盛華源公告稱，近日國家電網公示2026年特高壓專案第二次招標採購中標候選人，公司下屬子公司為18個標包的中標候選人，預中標金額約21.35億元，約佔公司2025年經審計營業收入的22.30%。目前專案處於評標結果公示階段，公司未收到中標通知書，最終能否形成實際訂單並完成交貨存在不確定性。
+
+---
+
+### 2026-06-08 18:26:49  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+The Kremlin said France, the UK and Germany talk about peace while supplying weapons to Kyiv to continue the war.
+
+---
+
+### 2026-06-08 18:26:47  #國際
+
+克里姆林宮：俄羅斯正在採取措施保障自身安全，以應對北約軍事基礎設施逼近其邊境。
+
+---
+
+### 2026-06-08 18:26:43  #MKT News
+
+【Chinese Vice President Han Zheng meets Belarusian President Lukashenko】Chinese Vice President Han Zheng met Belarusian President Lukashenko in Minsk on June 8, 2026. Han said both sides will maintain leader-driven diplomacy and close high-level exchanges to keep China-Belarus relations on the correct course amid a complex international environment. China voiced support for Belarus pursuing a development path suited to its national conditions and said it is willing to jointly implement four global initiatives to protect developing countries' common interests. The two sides agreed to strengthen alignment of development strategies, deepen cooperation in traditional sectors, expand win-win development space and consolidate bilateral public support.
+
+---
+
+### 2026-06-08 18:26:39  #MKT News
+
+USGS reported a magnitude-5.6 earthquake 56 km south-southwest of Sarangani, Philippines.
+
+---
+
+### 2026-06-08 18:26:37  #MKT News
+
+Kremlin says it has noted reports on Armenia's election and multiple violations.
+
+---
+
+### 2026-06-08 18:26:36  #國際
+
+【韓正會見白俄羅斯總統盧卡申科】當地時間2026年6月8日，國家副主席韓正在明斯克會見白俄羅斯總統盧卡申科。韓正表示，雙方要堅持元首外交領航定向，密切高層交往，確保中白關係在複雜國際形勢下保持正確發展方向。要弘揚相互支援優良傳統，中方支援白俄羅斯走符合本國國情的發展道路，願同白方共同踐行四大全球倡議，維護廣大發展中國家共同利益。要加強發展戰略對接，深化傳統領域合作，開闢共贏發展新的空間，夯實兩國友好民意基礎。（新華社）
+
+---
+
+### 2026-06-08 18:26:15  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+The Kremlin said President Putin has said it is difficult to reach an agreement with Kyiv, responding to European leaders' calls to end the war in Ukraine.
+
+---
+
+### 2026-06-08 18:26:03  #公司
+
+【宿遷聯盛：擬共同出資1000萬元設立合資公司】宿遷聯盛公告，公司擬與自然人股東朱蓉輝、匯智光芯人工智慧科技（蘇州）有限公司共同簽訂《合資意向協議》，擬共同出資1000萬元人民幣合資設立合資公司，主要從事磷化銦襯底的研發和生產銷售。
+
+---
+
+### 2026-06-08 18:25:36  #其他
+
+克里姆林宮：此類行徑會給推進和平解決的努力製造障礙。
+
+---
+
+### 2026-06-08 18:25:32  #其他
+
+克里姆林宮譴責針對從克里米亞出發的客運列車的襲擊事件。
+
+---
+
+### 2026-06-08 18:25:28  #國際
+
+克里姆林宮：法國、英國和德國嘴上談和平，同時卻向基輔提供武器以延續戰事。
+
+---
+
+### 2026-06-08 18:25:24  #國際
+
+克里姆林宮就歐洲領導人呼籲結束烏克蘭戰爭發聲：普京已明確表示，很難與基輔方面達成協議。
+
+---
+
+### 2026-06-08 18:24:46  #公司
+
+合肥晶合積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-08 18:24:34  #Trading Economics #Economy #South Africa #Credit Rating #Importance 0
+
+Fitch Lifts South Africa Credit Rating to BB — Fitch Ratings raised on June 5, 2026, South Africa’s foreign currency long-term sovereign credit rating by one notch to ‘BB’ from ‘BB-’, while maintaining a stable outlook. The agency cited prudent fiscal management and progress on fiscal consolidation, despite weak economic growth and persistent domestic and external shocks. The move marked the country’s first credit rating upgrade since 2005, aligning with other rating agencies, although it remains two notches below investment grade. Fitch pointed to the country’s transition from primary fiscal deficits to consistent and widening primary surpluses, improved revenue collection, disciplined expenditure management and signs that government debt is stabilising. Ongoing reforms in the energy and logistics sectors were also mentioned as likely to support economic growth in the years ahead. S&P's credit rating for South Africa stands at BB with a positive outlook. Moody's credit rating was last set at Ba2 with a positive outlook.
+
+---
+
+### 2026-06-08 18:24:24  #公司
+
+【天邦食品：5月份銷售商品豬73.72萬頭，銷售收入5.78億元】天邦食品公告，公司2026年5月份銷售商品豬73.72萬頭（其中仔豬銷售28.40萬頭），銷售收入5.78億元，銷售均價10.18元/公斤（商品肥豬均價為9.42元/公斤），環比變動分別為10.30%、10.24%、5.57%。2026年1-5月銷售商品豬321.33萬頭（其中仔豬銷售121.44萬頭），銷售收入28.32億元，銷售均價11.22元/公斤（商品肥豬均價為10.41元/公斤），同比變動分別為31.06%、-18.36%、-31.00%。
+
+---
+
+### 2026-06-08 18:24:20  #公司
+
+【創力集團：與銓億科技簽署附條件生效股份認購補充協議三】創力集團公告稱，鑑於公司對向特定物件銓億科技發行A股股票方案進行調整，於2026年6月8日與其簽署《附生效條件的股份認購協議之補充協議三》。銓億科技由公司實控人石良希100%持股，本次交易構成關聯交易，但不構成重大資產重組。銓億科技擬以不超1.60億元認購本次發行股票，發行數量不超4081.63萬股，不超發行前總股本30%。公司稱，此次發行將增強資本實力，提升實控權，推動公司發展。
+
+---
+
+### 2026-06-08 18:24:12  #市場 #央行 #國際
+
+【滙豐：若美國通脹資料超預期，美元或進一步走高】滙豐的Paul Mackel在一份報告中表示，如果即將公佈的美國通脹資料高於預期，美元可能會擴大漲幅。他表示，如果分別於週三和週四公佈的消費者物價和批發物價資料超出預期，這可能會支撐有關美聯儲今年將加息的預期。他說，近期資料挑戰了新任美聯儲主席沃什是一個支援在6月17日會議上降息的“令人信服的鴿派“的觀點。繼週五強勁的美國非農就業人數報告以及以色列和伊朗再度發生衝突之後，DXY美元指數升至100.214的兩個月高點。
+
+---
+
+### 2026-06-08 18:24:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran warns enemies will face harsher punishment if aggression continues】Hatam al-Anbiya Central Command of the Iranian Armed Forces said today Iran has fulfilled its commitments and that its forces, including the Islamic Revolutionary Guard Corps and the regular army, acted swiftly and precisely at peak readiness to make the US and Israel pay. The command warned regional resistance forces will stand firm against any threat and that continued enemy aggression would be met with harsher punishment.
+
+---
+
+### 2026-06-08 18:24:02  #其他
+
+【中國創新藥進入領跑快車道 新版規範9月起實施】新修訂的《藥物臨床試驗質量管理規範》今天正式釋出，將於9月1日起正式實施。此次修訂對藥物臨床試驗提出了“質量源於設計”“符合目的”和“風險相稱”的理念，並對這些理念在臨床試驗的應用提出原則性要求。更重要的是，監管理念，從“發現問題後糾正”轉變為“在設計階段預防問題的發生”。相關資料顯示，去年我國新開展的創新藥臨床試驗數量，約佔全球總量的一半。我國臨床試驗數量全球第一、質量效率全球領先，可以說在全球創新藥版圖中保持強勁的增量產出動能。（央視新聞）
+
+---
+
+### 2026-06-08 18:22:47  #MKT News #Market Regions #Europe & UK
+
+UK Ministry of Defence said supporting Ukraine is supporting the UK.
+
+---
+
+### 2026-06-08 18:22:44  #MKT News
+
+UK Ministry of Defence says Sweden is leading a new agreement to supply Gripen fighters to Ukraine. The MoD says more than 30% of each aircraft's components are made in the UK, and the deal is expected to support over 5,000 jobs and add about £500 million to the economy.
+
+---
+
+### 2026-06-08 18:22:35  #公司
+
+【天士力：棗仁寧心滴丸獲得藥品註冊證書】天士力6月8日公告，公司收到國家藥品監督管理局核准簽發的中藥1.1類創新藥棗仁寧心滴丸（曾用名：安神滴丸）《藥品註冊證書》。目前公司已著手進行生產前的準備工作，由於醫藥產品具有高科技、高風險、高附加值的特點，藥品投產後的未來市場銷售情況可能受到市場環境變化、招投標開展等因素影響，存在不確定性，敬請廣大投資者謹慎決策，注意防範投資風險。
+
+---
+
+### 2026-06-08 18:22:18  #公司
+
+【衢州發展：完成回購0.7442%公司股份】衢州發展公告，公司於2026年3月6日召開董事會並透過了股份回購方案，回購資金總額為不低於人民幣1億元且不超過人民幣2億元，回購股份價格不超過5.68元/股。2026年6月5日，公司回購股份期限屆滿，回購股份方案已實施完畢，累計回購股份6332.28萬股，佔公司總股本的0.7442%，累計已回購金額2億元，回購價格區間為2.84元/股至3.96元/股。
+
+---
+
+### 2026-06-08 18:22:12  #MKT News #Market Regions #Greater China
+
+【Price, Cost and Certification Center holds talks at China Academy of Information and Communications Technology】Deputy director Cheng Gang led the Price, Cost and Certification Center delegation to the China Academy of Information and Communications Technology to discuss construction and application of an emergency location service auxiliary platform. Representatives from the center’s New Energy Price and Cost Department attended.
 
 ---
 
@@ -22594,125 +22924,5 @@ Local authorities said oil and gas facilities in Russia's Krasnodar region caugh
 ### 2026-06-06 15:02:16  #MKT News #XAUUSD #Impact bullish #DXY #Brent
 
 【Israeli strike on Lebanese army vehicle in southern Lebanon kills several】The Lebanese Armed Forces said on the 6th that Israel struck a Lebanese army vehicle on a road in southern Lebanon, killing several soldiers including an officer.
-
----
-
-### 2026-06-06 15:00:20  #國際
-
-【伊朗稱解凍資金是對美談判的考驗】當地時間6月5日，伊朗最高領袖軍事顧問雷扎伊在接受美國有線電視新聞網採訪時表示，伊朗與美國之間的談判陷入了僵局。美國總統特朗普若想打破僵局，就必須解凍伊朗240億美元的被凍結資金。他強調，這是雙方建立信任的標誌，唯有如此，才能進一步開啟談判的道路。 雷扎伊還表示，如果美國繼續戰爭和海上封鎖，伊朗將把戰火蔓延到印度洋、曼德海峽、紅海和地中海，並將持續攻擊美軍基地，使戰爭進入新的階段。他強調，屆時美國損失將非常慘重，他同時呼籲美國總統特朗普擺脫以色列的影響去做出決定。（CCTV國際時訊）
-
----
-
-### 2026-06-06 14:53:13  #國際
-
-【西班牙一本田倉庫發生火災，火源疑為太陽能電池板】日本富士新聞網報道，當地時間5日在西班牙巴塞羅那市，日本機動車製造商本田的一座倉庫發生火災。據報道，該倉庫為本田在當地的物流中心，火源疑為屋頂的太陽能電池板。火災未造成人員傷亡，但倉庫內部被燒燬。（環球網）
-
----
-
-### 2026-06-06 14:52:55  #市場
-
-【吳清：過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%，理性投資、價值投資、長期投資成為廣泛共識。同時，基金行業已經成為社保、保險、年金等中長期資金的重要合作伙伴和進行權益投資的重要受託機構，在最佳化資本市場投資者結構、拓寬中長期資金入市渠道、增加市場流動性、減少市場非理性波動等方面發揮了十分關鍵的作用。
-
----
-
-### 2026-06-06 14:51:51  #市場 #其他
-
-【吳清：過去五年，私募股權創投基金為未上市未掛牌企業注入5.25萬億元創新資本】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，過去五年，私募股權創投基金為未上市未掛牌企業注入5.25萬億元創新資本，相當於同期境內企業股票融資規模的90%，公募基金投資於先進製造和科創領域股票超過6萬億元，有力促進了社會資本向產業資本的轉化，有效帶動了要素資源加快向創新領域集聚。
-
----
-
-### 2026-06-06 14:50:40  #其他
-
-【吳清：基金行業服務投資者超過8.6億人、滲透率達60%】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，近年來，行業主動適應居民多元化資產配置需要，加快推動指數型、配置型、絕對收益產品發展，服務投資者超過8.6億人、滲透率達60%。其中，公募基金規模已突破39萬億元，五年來累計分紅2.5萬億元，為投資者創造利潤3.6萬億元，已成為投資者共享中國經濟發展紅利的重要渠道之一。私募證券投資基金規模超過7.8萬億元，較“十三五”末增長近一倍，在滿足差異化資產配置需求方面發揮著越來越重要的作用。
-
----
-
-### 2026-06-06 14:50:26  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Wu Qing: Accelerating tech-industrial revolution requires more adaptive financial services】CSRC Chairman Wu Qing said rising global instability and elevated international market volatility are driving a deep reallocation of global assets. He warned the AI-led wave of technological and industrial change is accelerating and urgently requires a financial services system better adapted to support higher‑level circulation among technology, industry and capital. Wu said China’s fund industry faces a strategic opportunity: economic upgrading during the 15th Five‑Year period is generating fast-growing emerging and future industries that will need capital and provide plentiful investment targets; deep adjustments in financial structure are increasing demand for diversified, integrated and bespoke asset management — an expanding pension system, rising long-term investment needs and a low-rate environment are prompting institutional and household portfolio reallocation; and capital-market institutional reform, including the new 'Guo Jiu Tiao' and the '1+N' policy framework, is reshaping market mechanics, raising regulatory inclusiveness and adaptability, and strengthening the foundation for high-quality fund-sector development.
-
----
-
-### 2026-06-06 14:49:39  #公司
-
-【銀之傑：“被立案調查”等傳聞不實 公司已報案追究造謠者法律責任】銀之傑6月6日釋出嚴正宣告稱，近日，網路平臺出現關於公司“被立案調查”等不實傳聞。對此，公司已於6月3日釋出澄清公告。經核實，公司、公司各子公司以及公司主要股東、董事、監事、高階管理人員均不存在被任何有權機關立案調查的情況。上述傳聞內容與事實嚴重不符，屬於不實資訊。為維護公司合法權益及正常市場秩序。公司已第一時間就相關謠傳事件向公安機關報案並已收到報案回執，公司將盡最大努力堅決對造謠者依法追究法律責任。目前公司生產經營活動正常開展，各項業務執行平穩，不存在根據法律法規及監管要求應披露而未披露的重大事項。
-
----
-
-### 2026-06-06 14:48:09  #公司 #國際
-
-美國軍事網站“戰區”報道稱，美國空軍正緊急尋求填補MQ-9無人機庫存，此前該機型在針對伊朗的行動中損失了近30架，在針對胡塞武裝的任務中也有所損失。由於MQ-9A已停產，美國空軍計劃從通用原子公司採購未使用的庫存飛機，但可供採購的數量不足10架。美軍MQ-9機隊規模已從2026財年初的165架減少到目前的約135架。
-
----
-
-### 2026-06-06 14:47:29  #國際
-
-【普京承認俄羅斯經濟增速放緩】俄羅斯總統普京5日在聖彼得堡國際經濟論壇全體會議上發表講話，主要圍繞全球格局變化、俄羅斯經濟現狀以及技術主權等核心議題展開。普京在開篇指出，全球經濟正在經歷近幾十年來最大規模的結構性轉型，舊的垂直髮展模式正在被多極化格局所取代。普京特別強調，金磚國家的領導地位正在增強。針對外界關於俄羅斯經濟“一切已崩潰”的批評後，普京直接予以駁斥，並列舉關鍵資料，他也承認當前經濟增長放緩，4月GDP同比增長1.3%，前4個月累計增長0.2%，普京要求政府從2027年起回到可持續增長的軌道。
-
----
-
-### 2026-06-06 14:46:23  #公司
-
-【寶利德殘局後半程 餘海軍與多名下屬遭刑拘】華東頭部豪車經銷商寶利德轟然倒下後，一場“拉大旗作虎皮”的資本迷局就此顯露真容。作為寶利德實控人的餘海軍，在其精心製造的氛圍感中吹起的泡沫被戳破後，近期與多名核心下屬一同被帶走。知情人士稱，接下來案件將在浙江省內指定異地進行偵辦。曾經風光無限的寶利德，正無可挽回地步入破產清算的終局。爆雷之後的賬目清查顯示，寶利德存在真假兩套賬目：一套是經外部審計的賬本，大體真實；另一套則服務於融資與對外展示，存在嚴重造假。投資人認為，餘海軍與其法定配偶陳穎菲大量挪用公司資金，餘海軍在融資過程中將一些長期維護的政商關係轉化為商業信用背書，以獲取投資人信任，其行為已偏離正常商業邊界，涉嫌詐騙。（財新）
-
----
-
-### 2026-06-06 14:43:56  #市場 #其他 #焦點
-
-【吳清：增強在創新“無人區”陪跑的本領，更好投早、投小、投長期、投硬科技】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，堅持功能為要，更好發揮培育新質生產力作用。推動科技創新和產業創新融合發展，離不開長期資本、耐心資本的持續投入。行業機構特別是私募股權創投基金要堅持長期主義、專業主義，更好發揮在支援創新中的戰略性、基礎性作用。要完善專業化投研體系，聚焦國家戰略和國民經濟重點領域，大力提升對產業和技術發展趨勢的洞察力，增強在創新“無人區”陪跑的本領，更好投早、投小、投長期、投硬科技。要強化投後賦能，為被投企業提供更有效的治理最佳化、資源對接等長期陪伴和服務，助力穿越週期、提升價值。監管部門和自律機構也應當與有關方面一道，進一步完善配套支援政策，積極支援國資基金健全容錯機制、最佳化考核標準，更好與社會資本優勢互補，促進養老金、保險資金、AIC機構等加大股權投資力度，多渠道完善基金退出安排，加力促進暢通募投管退迴圈。
-
----
-
-### 2026-06-06 14:43:16  #公司 #市場 #焦點
-
-【吳清：堅決杜絕違規募集、侵佔挪用、自融自用、利益輸送等問題，抓緊整改違規代持、通道化等行為，切實築牢合規展業、廉潔自律的“防火牆” 】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，不斷夯實合規風控內在基礎。昨天釋出的私募基金指導意見，全面調整最佳化監管理念，突出完善加強監管、防範風險的制度機制，突出強化法治和市場化監督約束，突出加強央地和部際協同聯動，對未來一段時期監管工作作出全面部署。證監會正按照部署要求，研究制定貫徹落實指導意見的三年行動方案，並會同相關單位建立完善准入、持續監管、風險化解、服務發展等“1+N+X”制度體系，推動行業在規範中發展、在發展中提升。私募基金要切實提高政治站位，把貫徹指導意見及配套的監管制度規則作為重中之重來抓，全面落實到展業全過程各環節，切實在理念、模式、行動上來一個大轉變、大提升。要全面對標對錶意見要求，深刻汲取此前部分機構冒進發展的教訓，認真檢視自身存在的短板不足，主動適應、積極配合監管體制機制調整，全面最佳化完善自身的管理體制、規章制度和工作流程。要立足實際完善治理機制，加強股東、高管等關鍵少數行為約束，加強內部合規制度和風控指標體系建設。嚴格行為規範，依法合規做好資訊披露，堅決杜絕違規募集、侵佔挪用、自融自用、利益輸送等問題，抓緊整改違規代持、通道化等行為，切實築牢合規展業、廉潔自律的“防火牆”。公募基金制度機制和監管規則經多年積累已相對完善，執行總體比較規範，但近年來審計監督、監管檢查、風險個案等也暴露出行業機構在公司治理、股權管理、投資運作、產品銷售等方面還存在不少問題，個別風險事件仍時有發生。行業機構千萬不能麻痺大意，要自警自省、舉一反三，健全公司治理架構，夯實合規風控基礎，真正做到全員參與、全面覆蓋、全程落實。
-
----
-
-### 2026-06-06 14:42:32  #MKT News #Market Themes #AI Revolution
-
-【Wu Qing: resolutely curb concept-driven hype, complex nesting, excessive speculation and channel arbitrage in pseudo-innovation】CSRC Chair Wu Qing told the China Securities Investment Fund Association’s 4th member meeting that frontier technologies such as artificial intelligence are driving deep change in fund industry business models and ecosystems. He urged firms to deepen innovation across products, services, operations and organization to better meet market demand, and to strengthen technology enablement by prudently and orderly exploring AI, big data and related tools to support investment research, client service and internal controls while accelerating digital and intelligent transformation. Wu called for differentiated development — large firms should raise overall competitiveness, while small and midsize firms should compete on specialization and core strengths rather than scale — and for stronger end-to-end risk controls over innovation. He said innovation pace and intensity must match management capability and vowed to crack down on pseudo-innovation, explicitly naming concept-driven hype, complex nested structures, excessive speculation and channel arbitrage as targets.
-
----
-
-### 2026-06-06 14:42:10  #市場
-
-【吳清：始終注重投資者利益優先】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，始終注重投資者利益優先。無論是公募基金還是私募基金，都要堅守“受人之託、代客理財”的信義義務，持續強化制度約束和利益重構，加快實現從“重規模”向“重回報”的轉型。當前公募基金改革迎來了“棋至中盤”的關鍵節點，行業聲譽有所回升，必須要毫不放鬆、再接再厲，持續鞏固拓展改革發展成果。要強化利益繫結，在公司治理、產品發行、投資運作、績效考核等各個方面落實好監管新規和改革要求，提升投資運作穩健性，增強逆週期思維，努力為投資者創造更可持續的中長期收益，堅決遏制賭押賽道、風格漂移、高位發行等頑疾，更不能回到“衝規模、賺快錢”的老路上去。要注重權益投資，這是行業服務投資者的優勢所在、關鍵所在，要下更大力氣加強投研專業能力建設，強化權益投資的行業影響力和競爭力。要加強供需適配，重視含權低波等穩健類產品創設，推出更多適配中長期資金的投資產品，更好對接不同群體的差異化需求，同時加快推進向投資者回報導向的買方投顧轉型，不斷提升投資者滿意度、獲得感。
-
----
-
-### 2026-06-06 14:41:21  #市場 #其他 #焦點
-
-【吳清：堅決遏制概念炒作、複雜巢狀、過度投機、通道空轉等偽創新、亂創新】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，持續增強行業高質量發展內生動力。隨著人工智慧等前沿技術蓬勃發展，基金行業經營模式和發展生態正在發生深刻變革。行業機構要持續提升產品、服務、業務、組織等方面創新的廣度和深度，更加全面、更加有效對接市場需求。要加強科技賦能，穩妥有序探索運用人工智慧、大資料等新技術，有效賦能投資投研、客戶服務、內控管理等重點場景，加快數字化、智慧化轉型。要突出錯位發展，頭部機構要全面提升綜合競爭實力，中小機構不要拼規模要拼特色，要立足自身資源稟賦與核心優勢，聚焦重點業務領域深耕細作，走出特色化、精品化發展路線。要統籌好發展與安全，加強創新全過程風險防控，堅持創新節奏、力度與管理能力相適配，堅決遏制概念炒作、複雜巢狀、過度投機、通道空轉等偽創新、亂創新。
-
----
-
-### 2026-06-06 14:39:36  #宏觀 #市場 #焦點
-
-【吳清：程式化交易已成為包括我國在內的全球各主要資本市場的重要交易方式】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，近年來，程式化交易已成為包括我國在內的全球各主要資本市場的重要交易方式。除了大家熟知的量化私募外，外資、公募及其他專業機構投資者，甚至一些個人投資者，都不同程度採用程式化交易的方式。充分考慮個人投資者佔大多數的國情市情，先後出臺了一系列程式化交易監管規則制度，建立交易報告機制，強化針對性監測監控，從嚴監管異常交易行為，引導降頻降速，強化交易業務單元管理等。在此基礎上，我們還將深入調研，持續完善程式化交易監管的機制安排，更突出公平和規範，加強針對性監管，切實防範濫用技術優勢，堅決打擊操縱市場、擾亂市場秩序等違法違規行為。
-
----
-
-### 2026-06-06 14:38:29  #市場
-
-【吳清：我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，當前和今後一個時期，全行業要深入貫徹“十五五”規劃綱要，全面落實新“國九條”和資本市場“1+N”政策體系，持續深化公募基金改革，堅決落實私募基金指導意見，力爭“十五五”期間建設一流投資機構取得突破性進展。
-
----
-
-### 2026-06-06 14:38:10  #MKT News
-
-【Wu Qing: PE and VC funds should adhere to long-termism and professionalism】CSRC Chairman Wu Qing, speaking at the China Securities Investment Fund Association’s fourth member meeting, urged private equity and venture-capital funds to adopt long-termism and professionalism and play a strategic, foundational role in supporting innovation. He called for stronger specialized investment-research capabilities focused on national strategic priorities and key economic sectors, deeper insight into industry and technology trends, and greater capacity to back innovation in uncharted areas—emphasizing earlier, smaller, longer investments and support for hard technology. Wu urged stronger post-investment enablement, including governance optimization and resource matching, to help portfolio companies weather cycles and enhance value. He said regulators and self-regulatory bodies should improve supporting policies, back state-owned capital funds in establishing tolerance-for-error mechanisms and optimized assessment standards, better complement social capital, encourage greater equity allocations from pension, insurance and AIC institutions, and expand fund exit channels to smooth the fundraising–investment–management–exit cycle.
-
----
-
-### 2026-06-06 14:37:27  #市場 #其他
-
-【吳清：我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，對標經濟社會發展的內在要求和廣大投資者的殷切期待，我國基金行業高質量發展仍面臨一些結構性矛盾，大而不強、大而不優的問題較為突出，還存在不少短板弱項。公募基金行業正在邁上高質量發展新階段，但專業優勢不夠突出，產品同質化、競爭內卷化問題明顯，專業服務能力還有差距；發展結構還不均衡，權益類公募基金規模佔比目前不到30%，遠低於成熟市場60%的平均水平；合規風控和內部治理仍需進一步夯實。私募基金行業總體處於規範提質、變革重塑的階段，行業機構多而不精，質量參差不齊；行業生態不健全，法治和市場化約束有短板；募資結構失衡，募投管退仍有不少堵點卡點；整體規範運作水平有待提升，違法違規時有發生；機構風險出清面臨轉型陣痛，在扶優限劣的過程中要切實防止劣幣驅逐良幣，以強監管、促轉型推動行業高質量發展。此外，基金行業的國際競爭力和應對外部風險衝擊的能力也需要進一步提升。
-
----
-
-### 2026-06-06 14:36:26  #其他
-
-【喊話、電子干擾 專家詳解南部戰區多手段驅離荷蘭侵權艦機】5月27日，荷蘭海軍“德魯伊特”號護衛艦非法侵闖中國西沙群島，艦載直升機多次升空侵入我國領空。中國人民解放軍南部戰區出動多艘056A、054A型護衛艦，其中中國海軍631艦和626艦近距離外逼驅離荷蘭海軍“德魯伊特”號護衛艦，中國海軍553艦對荷蘭NH-90直升機進行喊話警告。此外，南部戰區還出動戰機掛載PL-10空空導彈參與了驅離行動。（央視新聞）
 
 ---
