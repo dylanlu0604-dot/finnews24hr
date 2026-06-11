@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-12 03:35:34",
-  "count": 18463,
+  "updated": "2026-06-12 03:39:21",
+  "count": 18464,
   "items": [
+    {
+      "id": "4931210",
+      "time": "2026-06-12 03:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【產業鏈配套齊全 中國農機駛向全球】我國是農機使用大國，還是全球唯一具備全品類農機制造能力的國家。如今，中國農機不光在國內耕耘，還遍佈全球各地。中國農機揚帆出海背後，隱藏著怎樣的產業發展硬實力？出海有底氣 打通30分鐘產業圈湖南寧鄉聚集了10多家從事農機整機制造的企業，配套企業20家，形成了30分鐘農機產業圈。新品樣機從圖紙到小批次試製僅需3到7天就能完成，壓縮生產成本30%以上。高效便捷的產業鏈，是主機廠家不斷開拓海外市場的底氣。今年，這個主機廠商又投資了九千多萬元擴建新廠區，其中80%的產能用來供給海外市場。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb830-19e0-7dd8-afca-4e46d18e7acf",
+      "time": "2026-06-12 03:37:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "US equities extended gains; the Dow and S&P 500 were up 2%."
+    },
+    {
+      "id": "4931209",
+      "time": "2026-06-12 03:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與以色列總理內塔尼亞胡通了電話。"
+    },
+    {
+      "id": "4931208",
+      "time": "2026-06-12 03:36:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4240美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "mkt:019eb82e-cb22-7dd8-afca-4648f14a4fb4",
+      "time": "2026-06-12 03:35:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US is taking action to lower seafood prices."
+    },
+    {
+      "id": "4931207",
+      "time": "2026-06-12 03:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：採取舉措降低海鮮價格。"
+    },
     {
       "id": "mkt:019eb82e-41eb-7dd8-afca-3ac7fd78f5af",
       "time": "2026-06-12 03:34:59",
@@ -170174,52 +170229,6 @@
         "XAUUSD"
       ],
       "text": "【Zelenskiy offers direct talks, proposes ceasefire and \"all-for-all\" prisoner swap in public letter to Putin】On the 4th (local time) Ukrainian President Zelenskiy sent a public letter to Russian President Putin proposing a direct meeting to seek an end to the conflict and to establish concrete security guarantees. Zelenskiy said Ukraine does not intend the war to continue and put forward a ceasefire negotiation plan: direct Ukraine‑Russia talks first, with the US, Europe and other parties joining later to support a security framework. He said Ukraine is prepared to implement a comprehensive ceasefire during negotiations and to pursue prisoner exchanges on an \"all-for-all\" basis. Kremlin press secretary Peskov said Putin has not yet read the letter."
-    },
-    {
-      "id": "4918101",
-      "time": "2026-06-05 03:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將建設2座新煤電廠並出口煤炭。將動用《國防生產法》來保留13座煤電廠。"
-    },
-    {
-      "id": "4918100",
-      "time": "2026-06-05 03:38:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部部長羅林斯： 在另行通知前，美國入境口岸將持續暫停受理來自墨西哥的牲畜入境。"
-    },
-    {
-      "id": "4918099",
-      "time": "2026-06-05 03:37:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Coinbase推出SpaceX上市前永續合約】SpaceX上市倒計時之際，Coinbase宣佈推出上市前永續合約產品，允許投資者在私營公司IPO前提前押注其未來市場表現。現貨加密貨幣交易持續低迷之際，交易所正試圖透過超級新股“Pre-IPO交易”開闢新增長點。"
-    },
-    {
-      "id": "4918098",
-      "time": "2026-06-05 03:37:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "特朗普：汽車行業希望出臺法案限制車主的維修權。"
-    },
-    {
-      "id": "mkt:019e9422-6b55-755d-92d5-9bc4e8f19472",
-      "time": "2026-06-05 03:35:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he will invoke the Defense Production Act to keep 13 coal-fired power plants operational."
     }
   ]
 }
