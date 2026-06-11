@@ -1,7 +1,304 @@
 {
-  "updated": "2026-06-11 20:22:40",
-  "count": 18391,
+  "updated": "2026-06-11 20:26:48",
+  "count": 18403,
   "items": [
+    {
+      "id": "4930605",
+      "time": "2026-06-11 20:25:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：合格英國企業現已可使用碳信用服務。"
+    },
+    {
+      "id": "4930604",
+      "time": "2026-06-11 20:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米釋出並開源探索性 AI程式設計助手】雷軍宣佈：小米釋出並開源探索性 AI程式設計助手——MiMo Code，首次進入 Coding Agent 領域。 MiMo Code 基於開源專案 OpenCode 創新開發，支援持久記憶系統、無限上下文、模型 Agent 協同最佳化、獨創 Compose 模式等。"
+    },
+    {
+      "id": "4930603",
+      "time": "2026-06-11 20:25:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中華保險集團：聘任邵曉怡為公司總經理】6月11日，中華保險集團官網公告，經董事會會議審議透過，聘任邵曉怡女士為公司總經理，待國家金融監督管理總局核准其總經理任職資格後正式履職。在其任職資格獲批並被正式任命前，指定她為中華保險集團臨時負責人，代行總經理職權。"
+    },
+    {
+      "id": "4930601",
+      "time": "2026-06-11 20:25:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普威脅伊朗後，油價上漲，美國國債漲幅收窄。"
+    },
+    {
+      "id": "mkt:019eb6a4-8d72-7dd8-afbf-3b51e9247df3",
+      "time": "2026-06-11 20:24:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【ECB Delivers First Hike in Nearly Three Years; Statement Cautious】The European Central Bank raised the deposit rate 25bp to 2.25%, its first increase in nearly three years, citing rising inflationary pressure tied to the Iran conflict. The move matched market expectations and markets broadly expect another 25bp by September. The ECB stressed it will not precommit to future action, saying the outlook remains uncertain, with upside risks to inflation and downside risks to growth, and that the war’s full medium‑term impact depends on the intensity and duration of the energy price shock and second‑round effects. Officials flagged that inflation is spreading beyond energy and may be hard to contain even if hostilities end quickly. New quarterly projections show inflation higher than previously forecast and not returning to 2% until 2028, and the outlook warns higher inflation and borrowing costs are eroding purchasing power and slowing growth."
+    },
+    {
+      "id": "4930600",
+      "time": "2026-06-11 20:24:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "荷蘭AEX指數漲幅在歐洲央行加息及通脹預測公佈後回落至0.7%。"
+    },
+    {
+      "id": "mkt:019eb6a4-689d-7dd8-afbf-31ecc2a88486",
+      "time": "2026-06-11 20:24:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【ECB hikes 25bp to curb inf; Fed likely to follow】The ECB on Thursday raised rates by 25bp to curb rising inf, its first hike since September 2023. Euro-area inf accelerated to 3.2% in May amid the Iran war, prompting the move. CITIGROUP analyst Arnaud Mares said: \"The real focus of this week's meeting is that communication may reveal future policy direction.\" He expects another ECB hike at the July meeting. Traders view the ECB action as a cue for U.S. policy; market-implied odds of at least one Fed hike by year-end are about 66%."
+    },
+    {
+      "id": "4930599",
+      "time": "2026-06-11 20:24:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：推出碳信用服務，允許合格企業獲取高品質碳信用額度。"
+    },
+    {
+      "id": "4930598",
+      "time": "2026-06-11 20:24:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普就伊朗問題發表評論後，原油期貨價格走高。美、布兩油短線拉昇約2美元，現分別報90.92美元/桶和92.84美元/桶。"
+    },
+    {
+      "id": "4930597",
+      "time": "2026-06-11 20:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "彭博美元指數觸及日內高點，此前特朗普就伊朗問題發表評論。"
+    },
+    {
+      "id": "4930596",
+      "time": "2026-06-11 20:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特解除黎巴嫩進口禁令 釋放兩國緩和訊號】沙烏地阿拉伯取消了實施近五年的黎巴嫩商品輸沙禁令。儘管真主黨與以色列仍處於交戰狀態，但此舉表明黎巴嫩修復對沙關係的努力初見成效。 沙特官方媒體報道，沙特王儲穆罕默德·本·薩勒曼應黎巴嫩領導層請求下令解除禁令，同時“認可黎巴嫩政府為重建國家機構所採取的積極舉措”。 沙特曾是黎巴嫩重要的資金與政治後盾，此次決定凸顯利雅得正致力於在關鍵節點助力這個局勢脆弱的國家穩定局面。當下黎當局難以約束真主黨，以色列還每日對黎巴嫩實施空襲。黎巴嫩總理納瓦夫·薩拉姆與總統約瑟夫·奧恩第一時間發表宣告，向沙特表達謝意。 奧恩表示，禁令解除將“切實助力國民經濟復甦，惠及大批黎巴嫩生產商與出口商戶”。"
+    },
+    {
+      "id": "mkt:019eb6a3-fcb4-7dd8-afbf-2fe167ce44af",
+      "time": "2026-06-11 20:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid $20 intraday to $4,069.45/oz."
+    },
+    {
+      "id": "4930595",
+      "time": "2026-06-11 20:24:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨漲幅收窄，目前上漲0.7%。"
+    },
+    {
+      "id": "4930594",
+      "time": "2026-06-11 20:23:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普： 今晚美國將對伊朗展開猛烈打擊】特朗普稱：“今晚美國將對伊朗展開猛烈打擊。伊朗的海軍、空軍、雷達、防空系統及各類防禦設施，連同其大部分進攻能力均已被摧毀。在不久的將來，我們還會攻佔哈爾克島及其他石油設施據點，全面掌控伊朗油氣市場，就像我們此前對委內瑞拉採取的舉措一樣，該模式目前讓委美雙方都收穫了極佳成效。特此告知。”"
+    },
+    {
+      "id": "4930593",
+      "time": "2026-06-11 20:23:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行加息及通脹預測公佈後，西班牙IBEX 35指數漲幅收窄至0.75%。"
+    },
+    {
+      "id": "mkt:019eb6a3-521e-7dd8-afbf-25e05767d786",
+      "time": "2026-06-11 20:23:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent jumped about $2 intraday to $90.92/bbl and $92.84/bbl, respectively."
+    },
+    {
+      "id": "4930592",
+      "time": "2026-06-11 20:23:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：在不遠的將來，我們會奪取哈爾克島及其他石油基礎設施節點，並全面掌控伊朗的油氣市場。"
+    },
+    {
+      "id": "mkt:019eb6a3-1f8d-7dd8-afbf-1e0747279c61",
+      "time": "2026-06-11 20:23:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said the United States will fully control Iran's oil and gas market."
+    },
+    {
+      "id": "mkt:019eb6a3-074b-7dd8-afbf-17d9b03e2265",
+      "time": "2026-06-11 20:23:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the United States will seize Kharg Island."
+    },
+    {
+      "id": "4930591",
+      "time": "2026-06-11 20:23:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將全面控制伊朗石油和天然氣市場。"
+    },
+    {
+      "id": "4930590",
+      "time": "2026-06-11 20:23:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數漲幅收窄至0.3%。"
+    },
+    {
+      "id": "4930589",
+      "time": "2026-06-11 20:23:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員維持對歐洲央行利率預期不變，預計2026年還將加息43個基點。"
+    },
+    {
+      "id": "mkt:019eb6a2-9c77-7dd8-afbf-0b926c9e3565",
+      "time": "2026-06-11 20:22:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said the US will take tough measures against Iran tonight."
+    },
+    {
+      "id": "4930587",
+      "time": "2026-06-11 20:22:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國將佔領哈爾克島。"
+    },
+    {
+      "id": "4930585",
+      "time": "2026-06-11 20:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國今晚將嚴厲打擊伊朗。"
+    },
+    {
+      "id": "4930584",
+      "time": "2026-06-11 20:22:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克田吉茲油田產量已恢復正常。"
+    },
+    {
+      "id": "4930583",
+      "time": "2026-06-11 20:22:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魅視科技：股東葉偉飛擬減持不超過3%】魅視科技公告，第二大股東、董事及控股股東一致行動人葉偉飛擬自2026年7月6日至2026年10月5日，透過集中競價減持不超過143.43萬股，佔總股本1%；透過大宗交易減持不超過286.86萬股，佔總股本2%，減持原因為自身資金需求。"
+    },
+    {
+      "id": "4930582",
+      "time": "2026-06-11 20:22:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行加息及上調通脹預測後，德國DAX指數漲幅收窄至0.14%。"
+    },
+    {
+      "id": "te:markets:558369",
+      "time": "2026-06-11 20:22:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits 11-week Low — Silver decreased to 63.24 USD/t.oz, the lowest since March 2026. Over the past 4 weeks, Silver lost 26.57%, and in the last 12 months, it increased 74.87%."
+    },
+    {
+      "id": "4930581",
+      "time": "2026-06-11 20:22:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行如預期加息後，歐元小幅波動，目前報1.1536美元。"
+    },
     {
       "id": "4930580",
       "time": "2026-06-11 20:21:45",
@@ -133,6 +430,15 @@
         "EURUSD"
       ],
       "text": "US initial jobless claims for the week ended June 6 and May PPI (MoM, YoY) will be released in ten minutes."
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768502270",
+      "time": "2026-06-11 20:19:58",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，在各種情景下，加息的決定都是穩健的。"
     },
     {
       "id": "4930572",
@@ -169169,188 +169475,6 @@
         "市場"
       ],
       "text": "【渣打集團：Strategy的比特幣持倉對加密貨幣前景至關重要】渣打集團的Geoff Kendrick在一份報告中表示，Strategy關於其比特幣持倉的下一份公告，將在決定該加密貨幣是否擴大跌幅方面發揮關鍵作用。週一，這家比特幣儲備公司表示，上週出售了32枚比特幣，價值約250萬美元，這是該公司自2022年以來首次出售該加密貨幣。這一訊息促成了比特幣本週的大幅下跌。Kendrick說，Strategy上一次出售比特幣時，僅僅兩天後就買回了比出售量更多的比特幣。“這一次，我懷疑出售之後的買入會更加激進。“他說，這種買入將遏制比特幣的跌勢。倫敦證券交易所集團的資料顯示，比特幣在隔夜觸及61,344美元的四個月低點後，下跌4.2%，至62,207美元。"
-    },
-    {
-      "id": "4917515",
-      "time": "2026-06-04 20:26:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永東股份：永東轉2於6月8日起恢復轉股】永東股份公告稱，因實施2025年度權益分派，公司可轉換公司債券“永東轉2”（債券程式碼：127059）自2026年5月29日起至6月5日暫停轉股，將於6月8日起恢復轉股，轉股起止時間為2022年10月14日至2028年4月7日。"
-    },
-    {
-      "id": "4917514",
-      "time": "2026-06-04 20:26:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【真主黨：拒絕接受所謂黎以直接談判的結果 只關心全面停火】真主黨領導人表示，拒絕接受黎巴嫩與以色列直接談判所達成的結果，與以色列的停火應包括黎巴嫩南部。我們只關心全面停火以及以色列從南部撤退。他呼籲有關官員終止這場被稱為直接談判的鬧劇和屈辱，並批評華盛頓方面的宣告是“一份消滅部分黎巴嫩人民的路線圖”。他強調，真主黨從未向任何人承諾不會抵抗侵略或作出回應，也拒絕將自身存在與停火或以色列撤軍掛鉤。只要以色列的侵略持續，抵抗就會繼續，以色列北部就不會安全。"
-    },
-    {
-      "id": "mkt:019e9299-2375-7668-9613-406f5e271a07",
-      "time": "2026-06-04 20:26:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Hezbollah rejects outcome of Lebanon‑Israel 'direct talks', demands comprehensive ceasefire and Israeli withdrawal】Hezbollah said it will not accept the results of so‑called direct negotiations between Lebanon and Israel and demands a comprehensive ceasefire that includes southern Lebanon and an Israeli withdrawal. The group urged officials to end the 'farce' of direct talks and denounced a Washington statement as 'a roadmap to eliminate part of the Lebanese people.' Hezbollah said it never pledged not to resist aggression, refuses to tie its existence to a ceasefire or Israeli withdrawal, and warned that resistance will continue while Israeli aggression persists, leaving northern Israel unsafe."
-    },
-    {
-      "id": "4917513",
-      "time": "2026-06-04 20:26:08",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析：瑞士央行對瑞郎走強的擔憂或有所減弱】J. Safra Sarasin可持續資產管理經濟學家Karsten Junius在一份報告中表示，瑞士央行可能會在6月18日的會議上淡化干預外匯市場以應對瑞郎走強的必要性。瑞士央行在上一份政策宣告中表示，鑑於中東衝突，其干預外匯市場的意願有所增強。Junius表示，在下一次會議上，瑞士央行可能會改為表示其在外匯市場保持活躍的意願依然很高。“透過減少對該話題的強調，瑞士央行可以明確表明其對匯率的擔憂有所減弱。“倫敦證券交易所集團的資料顯示，歐元兌瑞郎下跌0.1%，至0.9179瑞郎；週三曾觸及0.9193瑞郎的一個月高點。"
-    },
-    {
-      "id": "mkt:019e9298-7b4e-7668-9613-3c78f0d4062d",
-      "time": "2026-06-04 20:25:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【JinkoSolar signs 10 Tiger Neo 3.0 supply agreements at SNEC 2026 to accelerate global rollout】JinkoSolar said at SNEC 2026 it signed 10 supply agreements for its Tiger Neo 3.0 modules with partners including C&D Emerging Energy, Jiangsu Yude New Energy, Philippines-based Xcel Renewable Energy Corp., Bangladesh’s UCC Group and six core Pakistani partners. Deals span key markets and cover large ground-mounted utility projects and commercial & industrial distributed installations, intended to scale international deployment of its high-efficiency Tiger Neo 3.0 modules."
-    },
-    {
-      "id": "te:markets:556526",
-      "time": "2026-06-04 20:25:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Slightly Up on Middle East Hopes — The euro climbed toward $1.164, buoyed by cautious optimism over a potential Middle East resolution and as investors positioned for the European Central Bank’s meeting next week. Reports that Israel and Lebanon agreed to implement a ceasefire and end hostilities raised hopes for a broader deal to de-escalate the US-Israeli conflict with Iran. However, Tehran denied recent progress in talks with Washington over an interim peace deal, and fighting continued in Lebanon. Meanwhile, the Republican-controlled US House voted to halt military action against Iran. On monetary policy, markets are now pricing in a near-certain 25-basis-point ECB rate hike at the June 11 meeting, with two or possibly three increases expected this year. This follows data showing euro-area inflation rose to 3.2% in May, its highest in over two and a half years. Core inflation also accelerated to 2.5%, and services inflation climbed to 3.5%, signaling broadening price pressures beyond energy."
-    },
-    {
-      "id": "mkt:019e9298-33de-7668-9613-33b67d62f55d",
-      "time": "2026-06-04 20:25:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Russia's Deputy Prime Minister Novak said OPEC+ is capable of offsetting the impact of changes in the global energy industry."
-    },
-    {
-      "id": "4917512",
-      "time": "2026-06-04 20:24:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情人士透露，英國和法國已敲定計劃，在美伊就重新開放霍爾木茲海峽達成協議後的數日內，領導一項多國掃雷行動。"
-    },
-    {
-      "id": "4917511",
-      "time": "2026-06-04 20:24:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：所有石油市場預測都應被大幅下調修。"
-    },
-    {
-      "id": "mkt:019e9297-aa59-7668-9613-283bc4b49e55",
-      "time": "2026-06-04 20:24:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Russian Deputy Prime Minister NOVAK said all oil-market estimates should be significantly revised."
-    },
-    {
-      "id": "mkt:019e9297-8711-7668-9613-2180ab0e572f",
-      "time": "2026-06-04 20:24:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "UK and France have finalised plans to lead a multinational mine-clearing operation to begin within days of any US-Iran agreement to reopen the Strait of Hormuz, sources said."
-    },
-    {
-      "id": "4917510",
-      "time": "2026-06-04 20:24:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【晶科能源簽署10項飛虎3訂單 加速全球市場規模化落地】據晶科能源訊息，在SNEC 2026期間，晶科能源連續舉行10場戰略合作簽約儀式，分別與建發新興能源、江蘇昱德新能源、菲律賓Xcel Renewable Energy Corp.、孟加拉國UCC Group，以及六家巴基斯坦核心合作伙伴達成飛虎3（Tiger Neo 3.0）供貨協議。此次合作覆蓋多個重點市場，合作場景涵蓋大型地面電站、工商業分散式專案等多元應用領域，全方位推動飛虎3高效元件在全球市場的規模化落地與普及應用。"
-    },
-    {
-      "id": "4917509",
-      "time": "2026-06-04 20:23:51",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股盤前，截至發稿，道指期貨漲0.82%，標普500指數期貨跌0.45%，納指期貨跌1.31%。\n②德國DAX指數漲0.62%，英國富時100指數跌0.28%，法國CAC40指數漲1.12%，歐洲斯托克50指數漲0.44%。\n③WTI原油跌3.48%，報92.68美元/桶。布倫特原油跌3.30%，報94.58美元/桶。\n④橋水創始人瑞·達利歐表示，美國已經越過了一道無法回頭的債務門檻，美聯儲可能很快就會被迫採取類似20世紀30年代那樣的政策，即人為維持低利率水平。\n⑤比特幣價格接連創出新低，堅定持倉大戶開始拋售離場。近 30 天成交的賣出比特幣中，26% 來自持倉成本高於 9 萬美元的入場投資者。\n⑥摩根大通執行長傑米·戴蒙本週計劃與該行數千名高淨值客戶討論即將到來的SpaceX首次公開募股（IPO），與這家火箭製造商管理層一道在全美進行史無前例的推介宣傳。\n⑦博通盤前股價跌至低點，目前跌幅 15%，此前該公司公佈的人工智慧晶片營收預測不及預期，顯示其在這一快速增長行業中爭取更大份額的進展慢於外界預期。\n⑧加密貨幣相關股票盤前下跌，比特幣價格觸及近四個月低位。ProShares比特幣策略交易所交易基金下跌4.3%，貝萊德iShares比特幣信託下跌4.2%。\n⑨Netskope美股上市股價盤前下跌19.4%，因一季度業績及業績展望不及預期。"
-    },
-    {
-      "id": "4917508",
-      "time": "2026-06-04 20:23:51",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【分析：英國建築行業受伊朗戰爭拖累】RSM UK的Kelly Boorman和Thomas Pugh在一份報告中表示，鑑於英國建築行業依賴能源密集型投入，該行業特別容易受到中東衝突餘波的影響。5月份總體建築業採購經理人指數(PMI)降至38.2，較4月份的39.7有所下降。房屋建築指標觸及36.0，連續第七個月保持在40以下。新訂單降至37.5，為自新型冠狀病毒疫情以來的最低水平。Boorman說：“在持續的地緣政治和經濟不確定性情況下，專案面臨重大的可行性挑戰，整個供應鏈持續緊張。”RSM UK的分析師表示，雖然美國和伊朗之間達成增加能源供應的協議將緩解狀況，但大部分損害已經造成，預計未來幾個月破產數量仍將上升。"
-    },
-    {
-      "id": "mkt:019e9296-c4af-7668-9613-1b5abd66fdf1",
-      "time": "2026-06-04 20:23:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt plans to list 4-5 state-owned enterprises on the securities market by end-December, the prime minister said."
-    },
-    {
-      "id": "4917507",
-      "time": "2026-06-04 20:23:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日聯科技：擬購標的100%股權 交易不構成重大重組等】日聯科技公告稱，公司擬以發行股份、可轉換公司債券及支付現金方式購買上海菲萊測試技術有限公司100%股權並募集配套資金。交易作價93,588.05萬元，標的公司2025年末資產總額、資產淨額及2025年度營業收入占上市公司2025年度經審計合併財務報告相關指標均未超50%，不構成重大資產重組。交易前，交易對方與公司無關聯關係，交易後無單一或同一控制下交易對方合計持股超5%，不構成關聯交易。交易前後公司實控人均為劉駿、秦曉蘭，不構成重組上市。本次交易需經公司股東會審議、上交所稽核及中國證監會註冊。"
-    },
-    {
-      "id": "4917506",
-      "time": "2026-06-04 20:23:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：我已會見沙特能源部長，我們一致認為石油需求存在不確定性。"
-    },
-    {
-      "id": "mkt:019e9296-8000-7668-9613-1678b6909d3c",
-      "time": "2026-06-04 20:23:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Deputy Prime Minister NOVAK said he met with the Saudi energy minister and they agreed oil demand remains uncertain."
-    },
-    {
-      "id": "4917505",
-      "time": "2026-06-04 20:22:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美聯新材：股東張盛業已減持1.99995%股份】美聯新材公告，自2026年3月5日至2026年6月4日，股東張盛業透過集中競價及大宗交易分別以11.98元/股、9.58元/股減持股份711.19萬股、711.21萬股，合計減持1422.4萬股，佔公司現總股本1.99995%。減持後其持股降至2133.68萬股，佔3.000045%。本次減持與2026-017號預披露一致，未導致公司控制權變更。"
     }
   ]
 }
