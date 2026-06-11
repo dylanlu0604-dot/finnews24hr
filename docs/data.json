@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-12 01:13:23",
-  "count": 18480,
+  "updated": "2026-06-12 01:17:16",
+  "count": 18471,
   "items": [
+    {
+      "id": "4931032",
+      "time": "2026-06-12 01:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美伊雙方計劃舉行斡旋會談。"
+    },
+    {
+      "id": "mkt:019eb7ae-813b-7dd8-afc7-5a93cfa6a471",
+      "time": "2026-06-12 01:15:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The New York Post reported Thursday that sources say Iran has finalized the latest draft of a proposed agreement with the United States and submitted it to a Qatari intermediary to be relayed to Washington. A U.S. source familiar with Qatar's mediation also confirmed the draft's submission."
+    },
+    {
+      "id": "4931031",
+      "time": "2026-06-12 01:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國防部宣告：任何侵犯伊朗領土完整的襲擊都將遭到果斷回擊。"
+    },
+    {
+      "id": "4931030",
+      "time": "2026-06-12 01:13:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗警告美國或再陷戰爭泥潭】伊朗議會議長卡利巴夫當地時間6月11日晚在社交媒體平臺發文指出，“（美國政府）錯誤的戰略與衝動的決策，將導致全盤局勢惡化，引爆能源基礎設施與市場動盪，並使你們（美國）陷入一場數年難以脫身的無窮泥潭。屆時，你們將見識一個不一樣的伊朗。”（CCTV國際時訊）"
+    },
     {
       "id": "4931029",
       "time": "2026-06-12 01:11:03",
@@ -170213,119 +170247,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：我們已準備好透過和平方式與烏克蘭達成協議。"
-    },
-    {
-      "id": "4917928",
-      "time": "2026-06-05 01:17:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯擁有實現軍事目標所需的全部資源，且這些資源正不斷擴充。"
-    },
-    {
-      "id": "mkt:019e93a3-0245-711f-ac53-3e8e93b7f7e2",
-      "time": "2026-06-05 01:16:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Putin said Russia has recently occupied about 2,440 sq km of Ukrainian territory; over 85% of Donetsk region and about 80% of Zaporizhzhia region are under Russian control."
-    },
-    {
-      "id": "4917927",
-      "time": "2026-06-05 01:16:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週四（6月4日），美聯儲隔夜逆回購協議（RRP）使用規模為11.22億美元（交易對手18家），上個交易日報20.62億美元。"
-    },
-    {
-      "id": "4917926",
-      "time": "2026-06-05 01:16:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭缺乏巡航導彈以及俄羅斯目前擁有的其他武器裝備。"
-    },
-    {
-      "id": "4917925",
-      "time": "2026-06-05 01:15:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：不幸的是，部分烏克蘭無人機已經突入俄羅斯境內。"
-    },
-    {
-      "id": "4917924",
-      "time": "2026-06-05 01:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們需要加強本國的防空系統。"
-    },
-    {
-      "id": "mkt:019e93a1-8532-711f-ac53-36eb401340cd",
-      "time": "2026-06-05 01:14:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Putin said Russia has full control of the Luhansk region."
-    },
-    {
-      "id": "4917923",
-      "time": "2026-06-05 01:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：頓涅茨克地區逾85%的領土已處於俄羅斯控制之下。"
-    },
-    {
-      "id": "mkt:019e93a1-6342-711f-ac53-29da14a9f58e",
-      "time": "2026-06-05 01:14:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin: Ukraine is losing territory."
-    },
-    {
-      "id": "4917922",
-      "time": "2026-06-05 01:14:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：近期俄羅斯在烏克蘭境內已控制約2440平方公里土地。"
-    },
-    {
-      "id": "4917921",
-      "time": "2026-06-05 01:14:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯完全控制盧甘斯克地區。"
-    },
-    {
-      "id": "4917920",
-      "time": "2026-06-05 01:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭正在喪失領土。"
-    },
-    {
-      "id": "mkt:019e93a0-750f-711f-ac53-212e9580de79",
-      "time": "2026-06-05 01:13:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Ukrainian forces face severe personnel shortages."
     }
   ]
 }
