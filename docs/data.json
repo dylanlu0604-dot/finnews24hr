@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-11 14:06:04",
-  "count": 18336,
+  "updated": "2026-06-11 14:09:57",
+  "count": 18332,
   "items": [
+    {
+      "id": "4929663",
+      "time": "2026-06-11 14:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：NEC（日本電氣公司）、Anthropic及日本金融機構將合作開展人工智慧專案。"
+    },
+    {
+      "id": "4929662",
+      "time": "2026-06-11 14:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國北愛爾蘭事務大臣本恩：網路上有人在煽動貝爾法斯特的騷亂。"
+    },
+    {
+      "id": "mkt:019eb54b-62c8-7dd8-afb5-2a1dbdb61340",
+      "time": "2026-06-11 14:07:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "6771.T",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "NEC and ANTHROPIC will partner with Japanese financial institutions on an AI project."
+    },
+    {
+      "id": "mkt:019eb54b-1efa-7dd8-afb5-20ac12ec9385",
+      "time": "2026-06-11 14:07:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext index fell more than 2%."
+    },
+    {
+      "id": "4929661",
+      "time": "2026-06-11 14:07:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3777.374點；上證指數跌0.46%，現報3975.027點；深證成指跌1.27%，現報14764.336點。"
+    },
+    {
+      "id": "4929660",
+      "time": "2026-06-11 14:06:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西煤業投資成立發電新公司】企查查APP顯示，近日，黃陵礦業河浦發電有限公司成立，註冊資本3億元，經營範圍包含：發電業務、輸電業務、供（配）電業務；輸電、供電、受電電力設施的安裝、維修和試驗等。企查查股權穿透顯示，該公司由陝西煤業旗下陝煤電力集團有限公司全資持股。"
+    },
+    {
+      "id": "4929659",
+      "time": "2026-06-11 14:06:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市委常委會舉行會議：堅決擁護黨中央決定，堅定不移推動全面從嚴治黨向縱深發展】 上海市委常委會今天（6月11日）上午舉行會議，傳達中央對陳宇劍涉嫌嚴重違紀違法進行紀律審查和監察調查的決定。市委書記陳吉寧主持會議並講話。會議強調，堅決擁護黨中央決定，堅決把思想和行動統一到黨中央決定精神上來。中央紀委國家監委對陳宇劍涉嫌嚴重違紀違法進行紀律審查和監察調查，充分表明了以習近平同志為核心的黨中央持之以恆推進全面從嚴治黨、縱深推進黨的自我革命的堅定決心，充分體現了有腐必反、有貪必肅、除惡務盡的鮮明態度，充分釋放了反腐敗鬥爭一步不停歇、半步不退讓的強烈訊號。全市各級黨組織和廣大黨員幹部要從忠誠擁護“兩個確立”、堅決做到“兩個維護”的政治高度，以旗幟鮮明的態度反對腐敗，在大是大非問題上站穩立場，始終在思想上政治上行動上同以習近平同志為核心的黨中央保持高度一致。會議指出，要引以為戒、警鐘長鳴，堅定不移推動全面從嚴治黨向縱深發展。把維護黨中央權威和集中統一領導作為最高政治原則和根本政治規矩，更加堅決有力貫徹黨中央重大決策部署。把嚴的基調、嚴的措施、嚴的氛圍長期堅持下去，以零容忍態度糾“四風”、反腐敗、強震懾，以釘釘子精神抓好作風建設常態化長效化，以系統觀念一體推進不敢腐、不能腐、不想腐，把權力關進位制度籠子，把管黨治黨責任鏈條擰得更緊，強化警示教育，深化綜合治理，切實把紀律和規矩挺在前面。"
+    },
     {
       "id": "em:jjsj_mgsj:202606113768183562",
       "time": "2026-06-11 14:04:32",
@@ -168803,113 +168874,6 @@
         "其他"
       ],
       "text": "【滙豐：投資者聚焦長期結構性機遇，看好亞洲科技創新潛力】滙豐6月4日釋出的2026年第三季度全球投資展望報告顯示，投資者聚焦長期結構性機遇，該機構看好亞洲科技創新潛力。在中國市場，人工智慧的發展主線清晰。滙豐私人銀行及財富管理中國首席投資總監匡正表示，人工智慧發展將繼續受到強勁的資本投入和生產率提升的推動，從而提升多個行業和市場的盈利預期。數字基礎設施的擴張和人工智慧的發展，將推動全球資金流向科技行業，也將使其他板塊和投資主題受益，包括工業和材料。看好半導體、資料中心以及各行業中的創新型人工智慧應用端。人工智慧的機遇正從科技行業外溢至工業、材料、公用事業和金融等領域，機會遍佈AI全生態。（中證報）"
-    },
-    {
-      "id": "te:economy:556377",
-      "time": "2026-06-04 14:09:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Sweden Inflation Rate at 7-Month High of 0.8% — Consumer prices in Sweden increased 0.8% year-on-year in May 2026, rebounding from a 0.1% decline in the previous month and surpassing market forecasts of a 0.5% increase, according to preliminary estimates. It was the highest inflation rate since October 2025, mainly driven by higher energy and services prices. On a monthly basis, consumer prices advanced 1.0%, following a 0.6% decline in April, exceeding forecasts of a 0.7% increase and marking the fastest rise since June 2023."
-    },
-    {
-      "id": "te:markets:556376",
-      "time": "2026-06-04 14:09:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Set for Lower Open — European equity markets were on track for a weaker open on Thursday as escalating geopolitical tensions and a broad technology selloff dampened investor sentiment. Renewed exchanges of strikes between the US and Iran reduced hopes for a near-term peace agreement, keeping concerns about elevated energy prices and rising inflation firmly in focus. Meanwhile, a disappointing outlook from US chipmaker Broadcom weighed on global technology and artificial intelligence stocks. In Europe, investors will monitor Eurozone retail sales figures, Turkish trade data, and construction PMI reports from across the region for fresh economic signals. Corporate earnings are expected to remain quiet, with no major releases scheduled on Thursday. In premarket trading, Euro Stoxx 50 futures fell 0.3%, while Stoxx 600 futures were down 0.4%."
-    },
-    {
-      "id": "mkt:019e913f-a277-7cc0-ba27-2c910b7cf63b",
-      "time": "2026-06-04 14:08:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ByteDance AI's four key themes for 2026: world model, Seedance, coding, and Doubao commercialization】Multiple sources say ByteDance will scale up investment in world-model training, targeting by year-end performance comparable to the current global SOTA, Google Genie 3. Video models will remain a priority and the firm will explore dynamic-generation approaches. It plans to shore up coding capabilities via internal dogfooding — data feedback and evaluation to create a flywheel — and to enhance agent functionality. Doubao commercialization will be accelerated with office productivity scenarios as the primary focus."
-    },
-    {
-      "id": "mkt:019e913f-a09b-7cc0-ba27-20091178e788",
-      "time": "2026-06-04 14:08:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Xinqi Weizhuang shares top 400 yuan for first time】On the afternoon of June 4, Xinqi Weizhuang shares resumed gains, rising nearly 13% intraday to a peak of 413.86 yuan, a record high and the first time the stock has traded above 400 yuan."
-    },
-    {
-      "id": "4916666",
-      "time": "2026-06-04 14:08:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億咖通在湖北成立生態投資公司 註冊資本6億】天眼查App顯示，近日，億咖通（湖北）生態投資有限公司成立，法定代表人為沈子瑜，註冊資本6億人民幣，經營範圍包括以自有資金從事投資活動、自有資金投資的資產管理服務、資訊諮詢服務等。股東資訊顯示，該公司由億咖通（湖北）技術有限公司全資持股。"
-    },
-    {
-      "id": "4916665",
-      "time": "2026-06-04 14:08:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：維持美團“買入”評級，競爭和單位經濟效益利潤改善或成重估催化劑】瑞銀髮表研報指，預期美團在監管態度明確的背景下，競爭和單位經濟效益(UE)利潤改善或將成為其重新估值的催化劑，而新業務(如海外Keeta及小象超市)的長期潛力亦將逐步帶來正面貢獻。該行引述美團管理層指，預期今年到店業務的利潤率將穩定在25%，並將縮減對低投資回報率和非核心類別的投入，或會暫時放棄由補貼驅動的低價類別市場份額。該行維持對美團的“買入”評級，目標價128港元。"
-    },
-    {
-      "id": "4916664",
-      "time": "2026-06-04 14:07:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芯碁微裝股價突破400元/股】6月4日午後，芯碁微裝(688630)股價再度拉昇，盤中漲幅接近13%，最高價達413.86元/股，創歷史新高，這是該股股價歷史首次突破400元/股。"
-    },
-    {
-      "id": "4916663",
-      "time": "2026-06-04 14:07:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空與利雅得航空簽署協議，擴大印度、沙烏地阿拉伯及其他地區之間的出行選擇。"
-    },
-    {
-      "id": "mkt:019e913e-4305-7cc0-ba27-1bc9c801978c",
-      "time": "2026-06-04 14:07:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israeli drone strike hours after Israel-Lebanon ceasefire; south reverts to \"old normal\"】i24News reported that hours after Israel and Lebanon announced a ceasefire, an Israeli drone struck a vehicle in Nabatiyeh in southern Lebanon. Because the ceasefire is premised on Hezbollah withdrawing from southern Lebanon, such strikes are permitted under the agreement and are expected to continue in the foreseeable future. The pattern mirrors the situation before March 2: Hezbollah halts operations while Israel conducts strikes. Hezbollah has said it will not allow this; it remains to be seen how Hezbollah will respond."
-    },
-    {
-      "id": "4916662",
-      "time": "2026-06-04 14:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度氣象部門：印度季風已在南部喀拉拉邦登陸。"
-    },
-    {
-      "id": "mkt:019e913d-598d-7cc0-ba27-179bc9a8bc4f",
-      "time": "2026-06-04 14:06:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【China Chengxin president Yue Zhigang: sci‑tech bond issuance tops 5.4 tln yuan; outbound firms need cross‑border credit support】China's outstanding bond stock has exceeded 200 tln yuan, with corporate credit bonds totaling 38.38 tln yuan, China Chengxin president Yue Zhigang said. The bond market's sci‑tech board marked its first anniversary: cumulative sci‑tech bond issuance exceeded 5.4 tln yuan as of May, up about 7% YoY this year; private‑sector participation has risen to about 12%. Issuance remains concentrated in 3–5 year tenors while 10+ year issues are emerging, better matching long‑cycle funding needs. On Chinese firms' overseas expansion, Yue flagged prominent political risk, FX volatility and cross‑border credit information asymmetry, saying narrow financing channels and insufficient overseas credit backing are bottlenecks and calling for coordinated advancement of RMB internationalization and cross‑border credit infrastructure."
     }
   ]
 }
