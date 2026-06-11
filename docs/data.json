@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-11 23:50:50",
-  "count": 18480,
+  "updated": "2026-06-11 23:54:55",
+  "count": 18475,
   "items": [
+    {
+      "id": "te:markets:558437",
+      "time": "2026-06-11 23:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Italian Stocks Advance Despite ECB Rate Hike — The FTSE MIB rose 0.9% to close at 50,505 on Thursday as investors largely shrugged off developments in the Middle East and the ECB’s latest policy decision. US President Trump threatened additional strikes on Iran and warned that Washington could target the country's energy infrastructure. Meanwhile, the ECB raised interest rates by 25bps while revising inflation forecasts higher and lowering growth projections. However, both moves had been widely anticipated by markets. Technology stocks led gains, supported by a global rebound in semiconductor shares following recent weakness in the sector, with STMicroelectronics jumping 5.7%. Energy stocks also advanced, with Eni gaining 1.1% amid continued uncertainty over the normalization of global oil supplies. Elsewhere, Prysmian surged 4.9%, while defense-related stocks outperformed, with Leonardo rising 2.7%."
+    },
+    {
+      "id": "mkt:019eb762-2f22-7dd8-afc6-3a3031e91cb5",
+      "time": "2026-06-11 23:52:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Ministry of Shipping said the government has directed agencies to be on standby to respond at any time to incidents affecting Indian seafarers or Indian maritime interests."
+    },
+    {
+      "id": "4930957",
+      "time": "2026-06-11 23:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部：政府已下令各機構做好應對任何涉及印度海員或印度海事利益突發情況的準備。"
+    },
+    {
+      "id": "4930956",
+      "time": "2026-06-11 23:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部：已建議途經受衝突影響水域的印度海員保持最高程度的謹慎與警惕。"
+    },
+    {
+      "id": "4930955",
+      "time": "2026-06-11 23:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部：正協同外交部、印度海軍及其他利益相關方，確保為印度海員及時提供支援援助。"
+    },
+    {
+      "id": "mkt:019eb760-89f4-7dd8-afc6-3169d4068872",
+      "time": "2026-06-11 23:50:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping ministry said it is coordinating with the foreign ministry, the navy and other relevant agencies to ensure timely support and assistance for Indian seafarers."
+    },
     {
       "id": "mkt:019eb75f-ba18-7dd8-afc6-2e7663f47123",
       "time": "2026-06-11 23:49:24",
@@ -170214,119 +170266,6 @@
         "公司"
       ],
       "text": "市場訊息：EXL服務集團宣佈與英偉達交易基礎模型工作流完成整合，助力金融機構構建面向欺詐防控、風險管理及交易情報領域的人工智慧應用。"
-    },
-    {
-      "id": "4917844",
-      "time": "2026-06-04 23:54:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【並行科技：擬不超8163.35萬元採購算力伺服器及記憶體】並行科技公告，擬向多家供應商採購GPU算力伺服器、記憶體，合計採購金額不超過8163.35萬元。"
-    },
-    {
-      "id": "mkt:019e9356-661d-711f-ac52-5203ab2d2a3c",
-      "time": "2026-06-04 23:52:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "DALY said the labor market remains resilient and that stability has been achieved."
-    },
-    {
-      "id": "mkt:019e9355-d8b6-711f-ac52-4d691d01a86c",
-      "time": "2026-06-04 23:52:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "DALY of the Federal Reserve said providing forward guidance at this time could be misleading."
-    },
-    {
-      "id": "mkt:019e9355-d8a4-711f-ac52-45296ebe5bf9",
-      "time": "2026-06-04 23:52:08",
-      "tags": [
-        "MKT News",
-        "PARA.N",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "Democratic senators urged Bessent to refer the Paramount–Skydance and Warner Bros exploratory deals to the Committee on Foreign Investment in the United States (CFIUS), saying they were concerned the transactions involve foreign ownership."
-    },
-    {
-      "id": "4917843",
-      "time": "2026-06-04 23:51:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：很難說勞動力市場已經走強。"
-    },
-    {
-      "id": "4917842",
-      "time": "2026-06-04 23:51:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：勞動力市場具有韌性，我們已實現穩定。"
-    },
-    {
-      "id": "mkt:019e9355-3627-711f-ac52-391f6fa9ccb3",
-      "time": "2026-06-04 23:51:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Daly said it is hard to say the labor market is stable."
-    },
-    {
-      "id": "4917841",
-      "time": "2026-06-04 23:51:24",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：當前，通脹問題上的焦點在於能源，食品價格上漲。"
-    },
-    {
-      "id": "te:markets:556564",
-      "time": "2026-06-04 23:51:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls for 5th Session — The Baltic Exchange's dry bulk freight index, which monitors spot rates for vessels carrying dry bulk commodities, fell by 2.8% from the previous session to 3,037. It was the fifth consecutive session of decline since the index touched an over two-and-a-half-year high of 3,227. The index tracking rates for capsize vessels, commonly used for iron or and coal, slumped 4.1% to 5,040, tracking similar moves for iron ore. In turn, the panamax index fell by 36 points to 2,254, while the supramax index inched up by one point to 1,584."
-    },
-    {
-      "id": "mkt:019e9354-d609-711f-ac52-30976664167a",
-      "time": "2026-06-04 23:51:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "DALY said Fed policy is in a good place and the central bank is prepared to respond in either direction."
-    },
-    {
-      "id": "4917840",
-      "time": "2026-06-04 23:51:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：當前節點不適宜採用前瞻性指引，容易產生誤導。"
     }
   ]
 }
