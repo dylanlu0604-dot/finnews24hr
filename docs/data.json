@@ -1,7 +1,168 @@
 {
-  "updated": "2026-06-11 23:46:40",
-  "count": 18478,
+  "updated": "2026-06-11 23:50:50",
+  "count": 18480,
   "items": [
+    {
+      "id": "mkt:019eb75f-ba18-7dd8-afc6-2e7663f47123",
+      "time": "2026-06-11 23:49:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Analyst: ECB's next move hinges on Middle East developments】Richard Carter, head of fixed-income research at Quilter Cheviot, said markets are pricing an ECB rate hike at the September meeting, but delivery largely depends on developments in the Middle East and timing of any substantive resolution. If no near-term settlement materializes, energy costs and upward pressure on inf would likely intensify, which could force policymakers to tighten again; he sees the chance that other major central banks will follow as unlikely for now."
+    },
+    {
+      "id": "mkt:019eb75f-91ae-7dd8-afc6-205335ef9ea8",
+      "time": "2026-06-11 23:49:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "IMF lowers euro-area 2026 GDP forecast to 0.9% from April's 1.1%."
+    },
+    {
+      "id": "te:markets:558435",
+      "time": "2026-06-11 23:49:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Gain Despite ECB Rate Hike — The CAC 40 gained 0.5% to close at 8,201 on Thursday as investors largely shrugged off developments in the Middle East and the ECB’s latest policy decision. President Trump threatened additional strikes on Iran and warned that the US could target the country's energy infrastructure. Meanwhile, the ECB raised interest rates by 25bps, while revising inflation forecasts higher and lowering growth projections. However, both moves had been widely anticipated by markets. Technology stocks led gains, supported by a global rebound in semiconductor shares following recent weakness in the sector. STMicroelectronics jumped 5.8%. Elsewhere, TotalEnergies added 1.1% amid uncertainty over the normalization of global oil supplies. Defense-related stocks also outperformed, with Safran gaining 1.2% and Thales rising 1.6%. LVMH provided further support, advancing 1.1%."
+    },
+    {
+      "id": "mkt:019eb75f-5ec4-7dd8-afc6-1c90b882ae15",
+      "time": "2026-06-11 23:49:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "IMF says the euro area faces risks of slower growth and rising inflation."
+    },
+    {
+      "id": "mkt:019eb75f-3a6b-7dd8-afc6-12dfa9e929ff",
+      "time": "2026-06-11 23:48:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "IMF raises its 2026 inflation forecast for the euro area to 2.8% from 2.6% in April."
+    },
+    {
+      "id": "4930954",
+      "time": "2026-06-11 23:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西興安爆炸事件17名傷員生命體徵平穩】1日凌晨，廣西興安縣靈湘路發生一起爆炸事件，造成7人死亡，17人受傷。記者11日晚從當地相關部門獲悉，截至目前，傷員生命體徵平穩，事件後續處置工作正有序開展。據介紹，截至18時，7名傷員在興安縣接受治療，生命體徵平穩。10名傷員已轉至桂林接受治療，其中重傷5人，輕傷5人，經過治療生命體徵平穩。（新華社）"
+    },
+    {
+      "id": "mkt:019eb75e-9b1a-7dd8-afc6-0e4f4338c2d8",
+      "time": "2026-06-11 23:48:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports SpaceX's IPO attracted at least $5 billion in orders from BlackRock; other major asset managers submitted comparable-sized orders."
+    },
+    {
+      "id": "4930953",
+      "time": "2026-06-11 23:47:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 7 月天然氣期貨結算價報 119.76 便士 / 熱量單位。"
+    },
+    {
+      "id": "4930952",
+      "time": "2026-06-11 23:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX計劃在首次公開募股中發售價值750億美元的股票。"
+    },
+    {
+      "id": "4930951",
+      "time": "2026-06-11 23:47:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：貝萊德已對太空探索技術公司（SpaceX）首次公開募股下達至少 50 億美元認購訂單。"
+    },
+    {
+      "id": "4930950",
+      "time": "2026-06-11 23:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞上游監管機構表示，5月該國石油產量攀升至170萬桶，創下11個月來新高。"
+    },
+    {
+      "id": "4930949",
+      "time": "2026-06-11 23:46:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織下調2026年歐元區經濟增長預測並上調通脹預期，警告形勢可能進一步惡化。"
+    },
+    {
+      "id": "4930948",
+      "time": "2026-06-11 23:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織將歐元區2026年GDP增長預測從4月的1.1%下調至0.9%。"
+    },
+    {
+      "id": "mkt:019eb75c-cf95-7dd8-afc6-00082ba22502",
+      "time": "2026-06-11 23:46:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "IMF says the European Central Bank may need to continue raising interest rates."
+    },
+    {
+      "id": "4930947",
+      "time": "2026-06-11 23:46:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織表示，歐元區經濟風險偏向下行增長與通脹走高。"
+    },
+    {
+      "id": "4930946",
+      "time": "2026-06-11 23:46:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利銀河回應車企關注世界盃：加碼體育營銷】“我們打通賽事觀賽、有獎活動、購車福利、夏日出遊多重場景，以全民足球熱愛為紐帶，深化體育營銷佈局。”2026年美加墨世界盃即將開賽，6月11日晚，吉利銀河方面相關負責人表示，車企在世界盃期間辦活動，可以實現賽事曝光、使用者試駕、福利購車一站式轉化，助力提升終端成交量，完善品牌體育營銷商業模式。吉利銀河宣佈世界盃期間每日發放100萬元購車券。此外吉利開展海內外雙向聯動，墨西哥子公司為赴海外觀賽的吉利車主提供免費接機服務。（新京報）"
+    },
     {
       "id": "4930945",
       "time": "2026-06-11 23:45:13",
@@ -170166,143 +170327,6 @@
         "國際"
       ],
       "text": "美聯儲戴利：當前節點不適宜採用前瞻性指引，容易產生誤導。"
-    },
-    {
-      "id": "4917839",
-      "time": "2026-06-04 23:50:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：已做好應對任何情形的準備。"
-    },
-    {
-      "id": "mkt:019e9354-4d48-711f-ac52-28187b2a03c1",
-      "time": "2026-06-04 23:50:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "DALY: inf is currently concentrated in energy and food, which are pushing prices higher."
-    },
-    {
-      "id": "4917838",
-      "time": "2026-06-04 23:50:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：當前貨幣政策處於合適區間。"
-    },
-    {
-      "id": "mkt:019e9354-244d-711f-ac52-203d0e50fb3a",
-      "time": "2026-06-04 23:50:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "Daly on the interest-rate path said the Fed does not know how the economy will evolve."
-    },
-    {
-      "id": "4917837",
-      "time": "2026-06-04 23:50:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "民主黨參議員要求貝森特對PSKY和WBD進行CFIUS審查。"
-    },
-    {
-      "id": "4917836",
-      "time": "2026-06-04 23:50:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：關於利率路徑問題，我們目前無法確定經濟將如何發展。"
-    },
-    {
-      "id": "mkt:019e9353-a8dc-711f-ac52-1addba48206f",
-      "time": "2026-06-04 23:49:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU Chamber of Commerce in China Q&A on EC's proposed European tech sovereignty package】The EU Chamber of Commerce in China said the European Commission's new European tech sovereignty package covers semiconductors, AI, cloud services, open-source technology and energy-sector digitalization. The chamber said the measures are closely relevant to Chinese firms operating in the EU and to Sino-EU digital trade, investment and cooperation. It urged stronger connectivity and cooperation between China and the EU — not market fragmentation or technological decoupling — to support innovation, industrial competitiveness and sustainable growth."
-    },
-    {
-      "id": "4917835",
-      "time": "2026-06-04 23:49:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟中國商會關於歐盟委員會提出“歐洲技術主權一攬子計劃”答記者問】歐盟中國商會注意到歐盟委員會最新提出的“歐洲技術主權一攬子計劃”，該計劃涵蓋半導體、人工智慧（AI）、雲服務、開源技術以及能源領域數字化等內容。這些舉措與廣大在歐中資企業的發展密切相關，也關係到中歐數字經濟領域的貿易、投資與合作前景。歐盟中國商會表示，當前，中歐作為全球兩大重要數字市場，更應加強互聯互通與合作，而非走向市場割裂和技術碎片化，以共同促進創新發展、產業競爭力提升和可持續增長。（CCCEU）"
-    },
-    {
-      "id": "mkt:019e9353-736b-711f-ac52-172ea0692859",
-      "time": "2026-06-04 23:49:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Daly said similarities to the 1990s do not mean this will be the 1990s."
-    },
-    {
-      "id": "4917834",
-      "time": "2026-06-04 23:49:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：我們當下情況與90年代存在相似之處，不代表會重演90年代走勢。"
-    },
-    {
-      "id": "4917833",
-      "time": "2026-06-04 23:49:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 6 月柴油期貨結算價報每噸 1079.50 美元。"
-    },
-    {
-      "id": "mkt:019e9352-26f5-711f-ac52-0f959327d627",
-      "time": "2026-06-04 23:48:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli military: Alarms sounded in northern Israel after Hezbollah fired multiple rockets at IDF soldiers operating in southern Lebanon."
-    },
-    {
-      "id": "4917832",
-      "time": "2026-06-04 23:47:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列軍方表示，真主黨向在黎巴嫩南部開展行動的以色列國防軍士兵發射多枚火箭彈，以色列北部已響起防空警報。"
-    },
-    {
-      "id": "4917831",
-      "time": "2026-06-04 23:46:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所英國 7 月天然氣期貨收盤結算價報 117.93 便士 / 熱量單位。"
     }
   ]
 }
