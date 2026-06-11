@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-12 06:39:33",
-  "count": 18428,
+  "updated": "2026-06-12 06:43:23",
+  "count": 18432,
   "items": [
+    {
+      "id": "4931305",
+      "time": "2026-06-12 06:42:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：基本已塵埃落定。"
+    },
+    {
+      "id": "4931304",
+      "time": "2026-06-12 06:42:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：今天我們與伊朗達成了和解。"
+    },
+    {
+      "id": "4931303",
+      "time": "2026-06-12 06:40:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：特斯拉 FSD 14.3.4 版本現已開始推送。"
+    },
+    {
+      "id": "te:markets:558477",
+      "time": "2026-06-12 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rises by 2.70% — Top commodity gainers are Coffee (2.70%), Barley (2%) and Cotton (1.31%). Biggest losers are Corn (-1.73%), Rubber (-1.46%) and Cocoa (-1.15%)."
+    },
+    {
+      "id": "4931302",
+      "time": "2026-06-12 06:39:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1287.45美元/盎司。"
+    },
+    {
+      "id": "4931301",
+      "time": "2026-06-12 06:39:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀行專項貸強力支援，上市公司頻頻回購股份】今年以來，多家上市公司回購股份以穩定投資者信心。在此過程中，銀行發放的回購專項貸對上市公司助益頗多。Wind資料顯示，今年以來已有120多家上市公司就取得回購專項貸釋出公告，總計貸款額度近370億元。今年以來透過併購專項貸款進行股份回購的上市公司集中在醫藥、消費等板塊，這也與上述板塊的資本市場表現密切相關。由於今年以來A股市場的結構性行情較為明顯，不少醫藥、消費行業上市公司股價承壓，多家上市公司出手回購股份，以穩定市場信心。（中證報）"
+    },
+    {
+      "id": "te:economy:558476",
+      "time": "2026-06-12 06:39:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "New Zealand Manufacturing Shrinks for 1st Time in 11 Months — The Business NZ Performance of Manufacturing Index in New Zealand declined to 49.9 in May, down from a downwardly revised 50.4 in April, marking the first contraction since June 2025 and falling below the long-term average of 52.5. The latest result highlighted that the war in Iran weighed heavily on the index."
+    },
     {
       "id": "4931300",
       "time": "2026-06-12 06:36:32",
@@ -169944,33 +170008,6 @@
         "其他"
       ],
       "text": "【報道：巴基斯坦規劃建戰略石油儲備，正與中國、沙特、科威特等國談判】一名巴基斯坦政府官員告訴《日經亞洲評論》：“巴基斯坦計劃初期建立滿足45天需求的石油儲備，未來可逐步提升至90天。”這名官員透露，巴能源部計劃採用多模式的戰略石油儲備體系，包括國家支援的應急庫存、行業強制性庫存以及保稅商業倉儲。在上述儲備體系中，保稅商業倉儲引發討論。這指的是在海關監管下的儲存設施，進口石油或其他燃料可在此儲存，供國內外貿易商再出口，無需立即繳納關稅和稅費，一旦發生緊急情況，這些儲存的燃料可用於巴基斯坦國內。《日經亞洲評論》引述另一位知情政府官員的話報道稱，巴基斯坦正在與沙烏地阿拉伯、科威特、卡達、阿聯酋和中國談判，計劃在巴基斯坦境內建立保稅終端。“瓜達爾港可以成為此類終端建設的選址之一”，該官員表示。（環球網）"
-    },
-    {
-      "id": "4918222",
-      "time": "2026-06-05 06:42:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國多家銀行計劃在 2027 年上半年上線代幣化存款網路；由多家商業銀行共同持股的清算所將負責該網路運營。"
-    },
-    {
-      "id": "4918221",
-      "time": "2026-06-05 06:41:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：摩根大通、花旗及多家大型銀行擬推出新型代幣化存款系統，以此應對加密貨幣相關業務需求。"
-    },
-    {
-      "id": "te:markets:556597",
-      "time": "2026-06-05 06:40:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%)."
     }
   ]
 }
