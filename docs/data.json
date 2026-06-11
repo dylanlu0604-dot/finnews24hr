@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-11 10:12:02",
-  "count": 18408,
+  "updated": "2026-06-11 10:15:45",
+  "count": 18402,
   "items": [
+    {
+      "id": "te:markets:558228",
+      "time": "2026-06-11 10:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Drops by 0.32% — Top currency loser is South Korean Won (-0.32%). Gains are led by Indian Rupee (0.28%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
+    },
+    {
+      "id": "4929401",
+      "time": "2026-06-11 10:15:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股早盤一度重挫5.1%。"
+    },
+    {
+      "id": "mkt:019eb475-dd5e-7dd8-afb2-07387571771d",
+      "time": "2026-06-11 10:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry says an alarm sounded again."
+    },
+    {
+      "id": "4929400",
+      "time": "2026-06-11 10:14:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將繼續對金融機構超額外幣存款支付利息，期限延長六個月。"
+    },
+    {
+      "id": "4929399",
+      "time": "2026-06-11 10:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林：警報已響起。我們敦促公民和居民保持冷靜，前往最近的安全地點，並透過官方渠道關注最新訊息。"
+    },
+    {
+      "id": "mkt:019eb475-57df-7dd8-afb1-fe0b095a4597",
+      "time": "2026-06-11 10:14:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait Armed Forces General Staff said its air-defence systems are intercepting hostile air targets from Iran, including UAVs and ballistic missiles."
+    },
+    {
+      "id": "4929398",
+      "time": "2026-06-11 10:14:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1197億元。"
+    },
+    {
+      "id": "4929397",
+      "time": "2026-06-11 10:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦首都上空攔截伊朗導彈。"
+    },
+    {
+      "id": "4929396",
+      "time": "2026-06-11 10:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特陸軍總參謀部宣佈，防空系統目前正按照既定作戰程式打擊敵方空中目標。陸軍總參謀部敦促所有人遵守相關部門釋出的安全指令和指南，並從官方可靠渠道獲取資訊。"
+    },
+    {
+      "id": "mkt:019eb473-b2a6-7dd8-afb1-f54070c84fb7",
+      "time": "2026-06-11 10:12:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI falls over 1%; Hang Seng Tech Index down 1.73%. Leading declines in power equipment, photovoltaic solar, robotics, aviation and biopharma."
+    },
+    {
+      "id": "mkt:019eb473-844a-7dd8-afb1-eaa9f98e9caf",
+      "time": "2026-06-11 10:12:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said he strongly hopes the latest US-Iran clashes will not escalate further."
+    },
+    {
+      "id": "4929395",
+      "time": "2026-06-11 10:12:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：強烈希望美國與伊朗之間的最新衝突不會進一步升級。"
+    },
     {
       "id": "4929394",
       "time": "2026-06-11 10:11:33",
@@ -169520,170 +169629,6 @@
         "市場"
       ],
       "text": "【光刻機概念震盪走強 新萊應材漲超12%】光刻機概念震盪走強，新萊應材漲超12%，波長光電、藍英裝備、富創精密、海立股份跟漲。"
-    },
-    {
-      "id": "4916405",
-      "time": "2026-06-04 10:15:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【檔案顯示特朗普政府多名官員持有SpaceX股份】據報道，財務披露檔案顯示，包括總統特使威特科夫到美國小企業管理局局長Kelly Loeffler在內，特朗普政府10名官員申報持有SpaceX或xAI的權益。檔案顯示，這些聯邦官員合計持有價值至少990萬美元、至多4380萬美元的SpaceX或xAI股票。上述披露是在去年作出的，資產價值按較寬區間列示。此後，這些官員可能已出售其全部或部分持股，而未觸發額外披露要求。"
-    },
-    {
-      "id": "mkt:019e9069-cfbf-7cc0-ba22-51e51a20edea",
-      "time": "2026-06-04 10:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Strong solar flare; NOAA issues geomagnetic storm warning】NASA said on the 3rd a strong solar flare peaked at 07:28 ET (19:28 Beijing) and was classified X1.0. NOAA has issued a strong geomagnetic storm warning, expected to persist through the 5th. The storm may disrupt communications, power grids, navigation, radio and satellite operations. Auroras could be visible across multiple northern US states and parts of the Midwest."
-    },
-    {
-      "id": "te:markets:556313",
-      "time": "2026-06-04 10:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: Indonesian Rupiah Depreciates by 0.34% — Top currency loser is Indonesian Rupiah (-0.34%). Gains are led by South Korean Won (0.29%), Japanese Yen (0.11%) and Chinese Yuan (0.06%)."
-    },
-    {
-      "id": "mkt:019e9069-9a50-7cc0-ba22-48e578c955a2",
-      "time": "2026-06-04 10:14:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's benchmark stock index extended losses to 1.5% at 5,849.862 points."
-    },
-    {
-      "id": "4916404",
-      "time": "2026-06-04 10:14:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【太陽爆發強烈耀斑 美機構釋出地磁暴預警】美國航空航天局3日表示，太陽當天爆發一次強烈耀斑。美國國家海洋和大氣管理局已釋出強地磁暴預警，預計相關影響將持續至5日。據介紹，此次耀斑於美國東部時間3日上午7時28分（北京時間3日19時28分）達到峰值。耀斑被歸類為X1.0級，其中X級為太陽耀斑中強度最高等級，其後的數字用於進一步說明其能量強度。"
-    },
-    {
-      "id": "mkt:019e9069-6b4d-7cc0-ba22-445add0217b2",
-      "time": "2026-06-04 10:14:48",
-      "tags": [
-        "MKT News",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TSMC (TSM.N) CEO said Taiwan hosts the company’s best talent, its core R&D and its largest production base."
-    },
-    {
-      "id": "mkt:019e9069-211e-7cc0-ba22-3eca720e3840",
-      "time": "2026-06-04 10:14:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TSMC (TSM.N) CEO said global capacity expansion is primarily driven by customer demand and local government support."
-    },
-    {
-      "id": "4916403",
-      "time": "2026-06-04 10:14:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：臺灣地區匯聚了臺積電最頂尖的人才、核心研發部門以及最大的生產基地。"
-    },
-    {
-      "id": "mkt:019e9068-849f-7cc0-ba22-3709cac59555",
-      "time": "2026-06-04 10:13:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei index fell as much as 2.00% intraday."
-    },
-    {
-      "id": "4916402",
-      "time": "2026-06-04 10:13:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼基準股指跌幅達1.5%，跌至5849.862點。"
-    },
-    {
-      "id": "4916401",
-      "time": "2026-06-04 10:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：臺灣地區仍是臺積電效率最高的製造基地。"
-    },
-    {
-      "id": "mkt:019e9068-5858-7cc0-ba22-2e662faaf288",
-      "time": "2026-06-04 10:13:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Spain activates annual heat-protection plan early】On the 3rd, Spanish authorities said the government has activated its annual heat-protection plan early to address health risks from sustained high temperatures. Officials reported 101 heat-related deaths in May, mostly elderly and concentrated in northern Spain."
-    },
-    {
-      "id": "4916400",
-      "time": "2026-06-04 10:13:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：全球產能擴張主要由客戶需求及地方政府支援驅動。"
-    },
-    {
-      "id": "4916399",
-      "time": "2026-06-04 10:13:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數跌2%。"
-    },
-    {
-      "id": "4916398",
-      "time": "2026-06-04 10:12:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙政府提前啟動高溫防護機制】據西班牙方面3日訊息，為應對持續升溫帶來的健康風險，西班牙政府已啟動年度高溫防護計劃。資料顯示，受近日持續高溫影響，西班牙5月共計有101人死於高溫，其中大多數為老年人，主要來自西班牙北部地區。"
-    },
-    {
-      "id": "te:markets:556310",
-      "time": "2026-06-04 10:12:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Near Two-Month High — The dollar index traded around 99.4 on Thursday, remaining close to a two-month high as stronger-than-expected US labor market data reinforced expectations of tighter Federal Reserve policy. The latest ADP report showed private-sector employment increased by 122K in May, surpassing forecasts and marking the strongest reading since January 2025. Earlier this week, JOLTS data revealed that job openings rose in April to their highest level since November 2024. Investors are now awaiting Friday’s nonfarm payrolls report for further insight into labor market conditions. The dollar also continued to draw support from escalating tensions in the Middle East, which have kept oil prices elevated and added to inflationary pressures. Markets currently assign an 85% probability to a quarter-point Fed rate hike by year-end, up from 60% a week earlier."
-    },
-    {
-      "id": "4916397",
-      "time": "2026-06-04 10:12:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾下跌0.4%，報兌美元跌至18015，創歷史新低。"
-    },
-    {
-      "id": "4916396",
-      "time": "2026-06-04 10:12:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
     }
   ]
 }
