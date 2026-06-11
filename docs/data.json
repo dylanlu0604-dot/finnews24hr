@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-11 09:34:13",
-  "count": 18426,
+  "updated": "2026-06-11 09:38:10",
+  "count": 18434,
   "items": [
+    {
+      "id": "4929329",
+      "time": "2026-06-11 09:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米宣佈開源AI程式設計助手MiMo Code】6月11日，小米MiMo技術團隊正式釋出AI程式設計助手MiMo Code。MiMo Code基於開源專案OpenCode開發，支援持久記憶系統、無限上下文、模型Agent協同最佳化、獨創Compose模式等；支援接入DeepSeek、Kimi、GLM等主流模型，採用MIT協議開源，並內建限時免費的多模態模型MiMo V2.5。"
+    },
+    {
+      "id": "4929328",
+      "time": "2026-06-11 09:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，OpenAI考慮大幅降價，以期在與Anthropic的使用者爭奪戰中佔據有利地位。"
+    },
+    {
+      "id": "4929327",
+      "time": "2026-06-11 09:36:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金<程式碼>=XAU>上漲近1%，報每盎司4112.46美元。"
+    },
+    {
+      "id": "4929326",
+      "time": "2026-06-11 09:36:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“2026·全球人權治理高階論壇”在北京開幕】全球人權治理高階論壇”今天（11日）上午在北京開幕並舉行全體會議。本次論壇為期兩天，來自100多個國家和聯合國等國際和地區組織的400多名中外嘉賓應邀與會，以紀念聯合國《發展權利宣言》透過40週年為契機，圍繞“以發展促進人權”理念，探討全球人權治理議題。"
+    },
+    {
+      "id": "te:markets:558214",
+      "time": "2026-06-11 09:36:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Losses — The benchmark KOSPI traded lower to around 7,700 on Thursday, extending losses from the previous session amid weakness in global technology shares and escalating tensions in the Middle East. Chipmakers remained under pressure after a renewed selloff in US semiconductor stocks fueled concerns over stretched AI-related valuations, weighing on major Korean tech names. Samsung Electronics (-0.3%) edged lower, while Hyundai Motor (-3.0%), LG Energy Solution (-2.5%), Kia Corporation (-4.7%), Hanwha Aerospace (-5.0%), and Doosan Enerbility (-5.2%) posted sharper declines. Market sentiment was also dampened by rising geopolitical risks after the US threatened further military action against Iran, raising fears of supply disruptions in the Strait of Hormuz and pushing oil prices higher. Meanwhile, South Korea’s exports surged 86% year-on-year in the first 10 days of June to a record high, driven by robust semiconductor shipments, helping limit deeper losses."
+    },
+    {
+      "id": "mkt:019eb452-695a-7dd8-afb1-45f73dedeb43",
+      "time": "2026-06-11 09:36:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share coal stocks opened higher; Dayou Energy hit the daily limit-up and Antai Group rose over 7%, with Baotailong, Shaanxi Black Cat, Zhengzhou Coal Power, Yunmei Energy and Jinkong Coal also advancing."
+    },
+    {
+      "id": "4929325",
+      "time": "2026-06-11 09:35:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊拉昇，大有能源漲停】煤炭開採加工板塊拉昇，大有能源漲停，安泰集團、寶泰隆、雲煤能源、陝西黑貓、鄭州煤電跟漲。"
+    },
+    {
+      "id": "4929324",
+      "time": "2026-06-11 09:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股智譜直線拉昇，現漲超7%。"
+    },
+    {
+      "id": "4929323",
+      "time": "2026-06-11 09:35:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.24%，成分股中，鼎智科技跌6.13%，連城數控跌4.89%，一諾威跌5.38%，華密新材跌4.50%。"
+    },
+    {
+      "id": "4929322",
+      "time": "2026-06-11 09:34:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4111.96美元/盎司。"
+    },
+    {
+      "id": "mkt:019eb451-6d79-7dd8-afb1-3c5f1f91e508",
+      "time": "2026-06-11 09:34:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "00568.HK",
+        "Impact bullish",
+        "02178.HK",
+        "01033.HK"
+      ],
+      "text": "Hong Kong oil and gas services stocks rallied: Shandong Molong (00568.HK) rose over 16%, Baiqin Oilfield Service (02178.HK) gained more than 9%; Sinopec Oilfield Service (01033.HK) and Dalipu Holdings (01921.HK) also climbed."
+    },
+    {
+      "id": "4929321",
+      "time": "2026-06-11 09:34:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.01%，成分股中，中控技術跌3.28%，天合光能跌4.24%，晶科能源跌2.82%，國盾量子跌2.25%。"
+    },
+    {
+      "id": "4929320",
+      "time": "2026-06-11 09:34:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒指、恒生科技指數轉漲。"
+    },
+    {
+      "id": "4929319",
+      "time": "2026-06-11 09:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【天然氣概念持續走強，山東墨龍漲停】天然氣概念持續走強，山東墨龍漲停，新錦動力、長江能科、雅克科技、天壕能源、凱添燃氣、美能能源等跟漲。"
+    },
+    {
+      "id": "4929318",
+      "time": "2026-06-11 09:33:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體材料板塊短線衝高，康強電子漲停】半導體材料板塊短線衝高，康強電子漲停，江豐電子漲超12%，歐萊新材、領先股份、雅克科技跟漲。"
+    },
     {
       "id": "mkt:019eb450-3c33-7dd8-afb1-300d60f7940f",
       "time": "2026-06-11 09:33:37",
@@ -10,6 +152,15 @@
         "Important"
       ],
       "text": "China A-share semiconductor sector opened sharply higher; Juguang Technology hit the daily limit-up and Jiangfeng Electronics rose over 12%, with other chip names also advancing. The Ministry of Industry and Information Technology issued the AI+ICT Innovation Development Implementation Opinions (2026–2028), calling for strengthened R&D on high-end optoelectronic chips and devices and pilot trials of optoelectronic hybrid networking technologies."
+    },
+    {
+      "id": "4929317",
+      "time": "2026-06-11 09:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體板塊盤初拉昇，炬光科技20cm漲停，江豐電子漲超12%，傑華特、富創精密、中微半導、匯成股份、帝奧微等個股跟漲。"
     },
     {
       "id": "mkt:019eb44f-8150-7dd8-afb1-29c43ae47c78",
@@ -169796,82 +169947,6 @@
         "其他"
       ],
       "text": "高市早苗：將考慮可接受水平的汽油補貼。"
-    },
-    {
-      "id": "4916322",
-      "time": "2026-06-04 09:36:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河南泌陽通報體育場跑道質量問題屬實】近日，有網民反映河南省駐馬店市泌陽縣體育場“試開放時跑道多處破損”，引發關注。4日，泌陽縣聯合調查組釋出情況通報稱，“經縣聯合調查組實地踏勘，網傳跑道面層脫落、膠體破損、區域性基底裸露等質量問題情況屬實。” 通報顯示，泌陽縣體育場維修改造專案於2025年10月公開招標，中標企業為河南港城建設工程有限公司，中標價款519.58萬元，專案主要內容為乒羽館、田徑場、籃球場以及零星專案升級改造。截至目前，該專案尚未組織竣工驗收。 目前，泌陽縣衛生健康體育委員會已全面暫停專案施工作業，依規遴選具備資質的第三方專業檢測機構，對該專案開展質量檢測。同時，泌陽縣紀委、公安等部門抽調人員組成工作專班，對專案立項、招投標、施工全過程開展徹查。"
-    },
-    {
-      "id": "4916321",
-      "time": "2026-06-04 09:35:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【油價或迎年內第二降 加滿一箱油將少花21元】國內成品油新一輪調價視窗將於6月4日24時開啟。綜合機構觀點，本輪或迎來年內第二次下調。據卓創資訊測算，截至6月2日收盤，國內第9個工作日參考原油變化率-12.08%，預計汽柴油下調535元/噸。曹瑩瑩提到，本次成品油零售限價下調已是大機率事件。按照目前的幅度計算，預計6月4日24時92汽油跌幅在0.42元/升，0柴油的跌幅在0.45元/升左右，加滿一箱50升的92汽油預計將節省21元左右。“預計下一輪成品油調價上調的機率較大。”隆眾資訊成品油分析師劉婷表示。（中新經緯）"
-    },
-    {
-      "id": "mkt:019e9045-d40c-7cc0-ba20-fa683de4274a",
-      "time": "2026-06-04 09:35:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【China fuel prices likely to fall for second time this year; 50L tank to save ~21 yuan】China's domestic retail fuel-price window opens at 2400 on June 4; the market is pricing a likely second pump-price cut this year. Data provider Zhuochuang estimated the ninth working-day reference crude change rate at -12.08% as of June 2 close, implying a 535 yuan/ton reduction for both gasoline and diesel. That would lower 92 RON gasoline by about 0.42 yuan/liter and 0# diesel by about 0.45 yuan/liter, saving roughly 21 yuan on a 50L 92 RON fill. Analyst Cao Yingying called a retail-price cut highly probable; Longzhong analyst Liu Ting said the probability of an increase in the next adjustment is elevated."
-    },
-    {
-      "id": "4916320",
-      "time": "2026-06-04 09:35:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧概念走弱 壁仞科技跌超5%】截至發稿，壁仞科技(06082.HK)跌5.45%，五一視界(06651.HK)跌4.15%，天數智芯(09903.HK)跌2.37%。"
-    },
-    {
-      "id": "4916319",
-      "time": "2026-06-04 09:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4916318",
-      "time": "2026-06-04 09:35:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊延續強勢 豫能控股2連板續創歷史新高】早盤電力板塊延續強勢，豫能控股2連板，續創歷史新高，廣西能源觸及漲停，百通能源、新中港、京能電力、西昌電力等跟漲。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606043759922838",
-      "time": "2026-06-04 09:35:01",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "國家統計局釋出5月下旬流通領域重要生產資料市場價格變動情況，據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年5月下旬與5月中旬相比，13種產品價格上漲，36種下降，1種持平。其中，生豬（外三元）上漲1.1%，液化石油氣跌6.1%。"
-    },
-    {
-      "id": "mkt:019e9044-a1b0-7003-8289-b436bff4851e",
-      "time": "2026-06-04 09:34:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share property sector rose in early trade; Yangguang Shares hit the daily limit, while Nanshan Holdings, Hefei Urban Construction, Qixia Construction, Fuxing Shares and Jintou Urban Development advanced."
     }
   ]
 }
