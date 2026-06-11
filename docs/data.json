@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-11 14:49:53",
-  "count": 18324,
+  "updated": "2026-06-11 14:53:53",
+  "count": 18326,
   "items": [
+    {
+      "id": "mkt:019eb574-b285-7dd8-afb5-c5c144e3d418",
+      "time": "2026-06-11 14:53:04",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【Multiple SK Hynix equipment suppliers seek 3-4% price increases】Several first-tier equipment suppliers to SK Hynix have requested supply price increases of 3–4%. SK Hynix has asked those suppliers to submit supporting documentation to evaluate the requests. Industry contacts say price renegotiations are common for raw-material and component vendors amid cost swings, but requests from equipment manufacturers are relatively rare."
+    },
+    {
+      "id": "mkt:019eb574-9493-7dd8-afb5-b847192445c7",
+      "time": "2026-06-11 14:52:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Polysilicon most-active futures contract hit the limit-up, rising 8.99% to 37,710 yuan/ton — the third limit-up this year."
+    },
+    {
+      "id": "mkt:019eb574-6fbf-7dd8-afb5-b2e6bc2f5b0c",
+      "time": "2026-06-11 14:52:47",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "【HSI briefly falls below 24,000; market participants recommend phased buying】On the morning of June 11 the HSI briefly dipped under 24,000, breaching March lows and extending months-long weakness in which Hong Kong stocks have tended to follow declines in A-shares and offshore markets rather than rally. Market participants say valuations are not high and recommend phased accumulation instead of heavy tactical buying; advise prioritising profitable, reasonably valued companies with competitive advantages. Several large-cap internet names are at low valuations and could provide some market stability."
+    },
+    {
+      "id": "4929739",
+      "time": "2026-06-11 14:52:25",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【比特幣上漲，但復甦依然有限】比特幣小幅走高，但從上週的慘重損失中復甦的勢頭依然有限。Zaye Capital Markets分析師Naeem Aslam在一份報告中表示，隨著交易員減少對投機性資產的敞口，地緣政治的不確定性可能會在短期內令比特幣承壓，但當投資者尋找傳統資產的替代品時，這種加密貨幣可能會吸引長期的興趣。他表示，週三的通脹資料對比特幣的影響也是喜憂參半。他稱，5月份核心通脹率環比回落至0.2%，降低了對利率上升的預期，但同比整體通脹率升至4.2%，令投資者保持緊張。倫敦證券交易所集團資料顯示，比特幣上漲1.9%，至62,894美元，週五曾觸及59,125美元的20個月低點。"
+    },
+    {
+      "id": "4929738",
+      "time": "2026-06-11 14:52:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前員工起訴xAI和SpaceX 稱因質疑AI安全遭公司解僱】埃隆·馬斯克旗下xAI的一名前工程師將xAI及其母公司SpaceX告上法庭，指控自己因提出人工智慧安全相關質疑而遭到解僱。 Devin Kim於2025年9月從xAI離職，他於週二在加州州法院提起訴訟。此時距離SpaceX上市僅剩數日，這場IPO有望成為史上規模最大的首次公開募股。 Devin Kim在職期間參與研發xAI旗下AI聊天機器人Grok，一直積極呼籲重視AI安全。他多次指出，xAI在Grok的研發過程中並未將安全問題放在首位。這款產品後續也因多項安全問題和不當輸出行為遭到廣泛批評。Devin Kim尤其擔憂，Grok可能滋生歧視言論，還會被用於傳播大規模殺傷性武器相關資訊。"
+    },
+    {
+      "id": "4929737",
+      "time": "2026-06-11 14:52:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺國際化已完成4款新品設計，新發展渠道商23家】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。茅臺集團黨委書記、董事長陳華作《2025年度董事會工作報告》。他表示：“國際化方面，茅臺產品的組合持續豐富，全方位推進國際渠道體系建設，品牌的國際影響力穩步提升。”報告披露，面向國際化方面，茅臺推出走進系列、文化系列產品，完成4款新品設計，產品組合持續豐富。新發展渠道商23家，覆蓋全球18個重點市場，全方位推進國際市場渠道體系建設。（酒業內參）"
+    },
+    {
+      "id": "mkt:019eb573-b707-7dd8-afb5-a89690539561",
+      "time": "2026-06-11 14:51:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian embassy in Oman said on Thursday it had been informed of an incident involving a vessel near Shinas port."
+    },
+    {
+      "id": "4929736",
+      "time": "2026-06-11 14:51:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度駐阿曼大使館：週四獲悉一艘船隻在阿曼希納斯港附近發生事故。"
+    },
+    {
+      "id": "4929734",
+      "time": "2026-06-11 14:50:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信聊天可以“合併發圖”了】6月11日，據微信派訊息，微信聊天可以“合併發圖”了。現在傳送3張及以上的圖片、影片時能看到“傳送後合併展示”。發出去的圖片支援展開或收起，點一下即可切換形態，此外還可以一鍵儲存“合併展示”的全部內容，或轉發給其他朋友。"
+    },
+    {
+      "id": "4929733",
+      "time": "2026-06-11 14:50:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國信達、福建國資等新設接力科創股權投資基金】企查查APP顯示，近日，福建省接力科創股權投資合夥企業（有限合夥）成立，出資額約20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中國信達、福建省省級政府投資基金有限公司等共同出資。"
+    },
+    {
+      "id": "4929732",
+      "time": "2026-06-11 14:49:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元跌幅擴大至0.8%，表現遜於所有亞洲貨幣。"
+    },
+    {
+      "id": "4929731",
+      "time": "2026-06-11 14:49:29",
+      "tags": [
+        "行業"
+      ],
+      "text": "【中國信通院規劃所聯合釋出《低空經濟資料治理研究報告（2026年）》】近日，中國資訊通訊研究院（簡稱“中國信通院”）產業與規劃研究所聯合信通院（廣東）科技創新研究院有限公司、廣西壯族自治區資訊中心正式釋出《低空經濟資料治理研究報告（2026年）》。報告核心觀點指出，系統推進低空經濟資料治理需構建“五位一體”工作體系。一是以治理目標為“指引”，透過資料治理推動低空經濟資料質量提升、低空飛行活動安全有序、低空資源高效配置。二是以組織管理為“牽引”，透過“2+N+X”架構實現多元主體協同，共建低空經濟資料治理生態。三是以制度環境為“前提”，發揮法律法規、政策檔案、標準規範的引領、調控和規範作用。四是以治理過程為“核心”，應用人工智慧賦能從資料採集、資料儲存、資料加工、資料利用到資料退役的全生命週期治理。五是以技術平臺為“支撐”，依託“3+1+N+X”平臺架構實現資料統一治理。"
+    },
+    {
+      "id": "4929730",
+      "time": "2026-06-11 14:49:22",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【外匯交易員預計：歐洲央行決議落地後，歐元波動將受限】儘管今日德國國債大機率迎來上漲，但外匯市場普遍認為，即便歐洲央行本次會議釋放鷹派立場，也難以扭轉歐元走勢。歐元兌美元一週期蝶式期權（用於衡量期權到期前匯率大幅波動的風險）價格已跌至年內低位附近。自二月底以來，歐元累計貶值超 2%。伊朗局勢引發能源市場震盪，進一步凸顯歐元區經濟增長面臨的風險。歐洲央行或將下調經濟實際增速預期，降幅恐超過局勢初現時給出的 0.9%。若本次小幅下調 0.1 個百分點至 0.8%，會對歐元形成支撐，這也將是歐元今日能迎來的最有利局面。目前市場已基本消化央行的鷹派預期，投資者押注年內歐洲央行將累計加息近三次，而本次會議的政策表態難以超出這一預期。隔夜期權合約顯示，市場預計今日歐元兌美元匯率波動基本將維持在 1.15 關口上下。"
+    },
     {
       "id": "4929729",
       "time": "2026-06-11 14:48:52",
@@ -168686,106 +168799,6 @@
         "Greater China"
       ],
       "text": "【Horgos port entries and exits reach 646,000 in Jan–May】Cross-border travel and trade at the Horgos road port have surged since implementation of the China‑Kazakhstan 30‑day mutual visa exemption this year, driving record passenger and group travel volumes. Horgos immigration inspection station data show the port cleared 646,000 entries and exits in Jan–May, up 19.8% YoY — a historical high."
-    },
-    {
-      "id": "4916732",
-      "time": "2026-06-04 14:53:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳證監局舉辦商業不動產REITs培訓交流會】為推動落實商業不動產REITs試點工作，深圳證監局在第二十屆深圳國際金融博覽會期間，聯合深圳市委金融辦、深圳市商務局、深圳證券交易所指導深圳市投資基金同業公會公募REITs專業委員會於2026年5月28日成功舉辦深圳商業不動產REITs培訓交流會。本次培訓交流會旨在助力深圳企業和金融機構搶抓試點政策機遇、精準把握REITs市場發展趨勢、準確理解首批申報專案發行稽核和實操工作要點，搭建起市場主體、監管部門和交易所、中介機構、投資機構進行深度專業交流的對接平臺。深圳證監局宣貫解讀商業不動產REITs發展現狀、試點政策要點與監管要求，深圳證券交易所資深專家對發行稽核常見問題進行講解，紅土創新基金執業團隊結合實務講解專案申報操作要點，會後進行座談答疑，深圳證券基金經營機構、上市公司、深圳國企、深圳房企等行業代表近90人參加培訓開展交流，獲得良好市場反饋。截至目前，作為原始權益人的深圳企業已向滬深證券交易所申報發行3只商業不動產REIT，預計募資規模81.92億元。(證監會)"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606043760352090",
-      "time": "2026-06-04 14:52:49",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "據報道，日本央行傾向於從2027財年起暫停或放緩縮減購債規模的步伐。"
-    },
-    {
-      "id": "4916731",
-      "time": "2026-06-04 14:52:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小紅書整治“港美股開戶”違規內容】小紅書官方於6月3日釋出《小紅書金融類專業號專項治理公告》稱，即日起對金融領域認證專業號開展專項治理行動。據公告，平臺金融類認證僅向持有合規牌照的機構發放，對公驗證校驗機制全面加固，並將對違法行為進行攔截、記錄並向公安機關報案。 值得注意的是，小紅書還披露，近期已對平臺內金融生態開展治理，針對近期“抓緊港美股開通分享貼”相關違規行為線索，平臺已處置非法誘導跨境投資等違規筆記539條、評論146條。"
-    },
-    {
-      "id": "mkt:019e9167-8579-7113-83c8-b84460edf781",
-      "time": "2026-06-04 14:52:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's finance minister Siluanov said Moscow will soon repay all debts."
-    },
-    {
-      "id": "mkt:019e9167-642b-7113-83c8-b259431ec7b1",
-      "time": "2026-06-04 14:52:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Russian Finance Minister Siluanov said Russia currently has no external sources of investment and is relying entirely on domestic development."
-    },
-    {
-      "id": "mkt:019e9167-4d17-7113-83c8-a97fb737534b",
-      "time": "2026-06-04 14:52:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Finance Minister Siluanov said Russia has achieved financial sovereignty and will maintain independence in financial and economic policymaking despite an adverse external environment, adding that this independence must be preserved."
-    },
-    {
-      "id": "em:qqyh_rbyh:202606043760350714",
-      "time": "2026-06-04 14:51:51",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "訊息人士稱，日本銀行預計將在6月會議上提高利率。"
-    },
-    {
-      "id": "te:markets:556398",
-      "time": "2026-06-04 14:51:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Drop — European natural gas futures fell to €48.6 per megawatt hour, giving back part of the previous session’s gains after Israel and Lebanon agreed to implement a ceasefire. The agreement, however, is contingent on a complete halt to Hezbollah attacks and the withdrawal of its operatives south of the Litani River. Also easing some market concerns, President Donald Trump said that talks with Iran could yield results this coming weekend and are going “very well,” despite denials from Tehran. Still, uncertainty persists due to the lack of tangible progress in their negotiations, which is raising the risk that flows from the Persian Gulf could remain disrupted for an extended period. This has fueled concerns that Europe could struggle to rebuild gas inventories ahead of winter, with only 38% of its storage capacity currently filled."
-    },
-    {
-      "id": "te:markets:556397",
-      "time": "2026-06-04 14:51:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Steady on Middle East Tensions and ECB Rate Hike Expectations — The euro held steady at $1.16 as investors weighed mixed signals from the Middle East conflict and prepared for the European Central Bank’s meeting next week. Iran said it targeted a US command ship in the Gulf of Oman, while the Republican-controlled House voted to end US military action against Iran, a move that represents a rare challenge to President Trump’s administration. Israel and Lebanon also reached a conditional ceasefire, though Prime Minister Netanyahu warned of potential further strikes. On the monetary policy front, markets are now pricing in a near-certain 25-basis-point ECB rate hike at the June 11 meeting, with two or possibly three increases expected this year. This follows data showing Euro-area inflation rose to 3.2% in May, its highest in over two and a half years, driven by surging energy costs tied to the war. Core inflation also accelerated to 2.5%, and services inflation climbed to 3.5%, indicating broadening price pressures beyond energy."
-    },
-    {
-      "id": "4916730",
-      "time": "2026-06-04 14:51:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【eVTOL企業蜻蜓翼行再獲數千萬融資】近日，eVTOL企業蜻蜓翼行完成Pre-A輪數千萬元融資，投資方為梅花創投。此次融資金額主要用於研發隊伍的擴充、樣機研製和適航取證。在此之前，已獲得普華資本和祥峰投資兩輪領投。"
-    },
-    {
-      "id": "mkt:019e9165-754c-7113-83c8-a1365c89620e",
-      "time": "2026-06-04 14:50:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Switzerland's May seasonally adjusted unemployment rate is due for release in 10 minutes."
     }
   ]
 }
