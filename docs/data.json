@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-11 13:50:17",
-  "count": 18342,
+  "updated": "2026-06-11 13:54:16",
+  "count": 18338,
   "items": [
+    {
+      "id": "mkt:019eb53e-4117-7dd8-afb4-ed3b9556408b",
+      "time": "2026-06-11 13:53:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said it had been informed that, local time last night, the ZAPORIZHZHIA NUCLEAR PLANT lost all external power after an attack on its electrical substation."
+    },
+    {
+      "id": "4929647",
+      "time": "2026-06-11 13:53:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：獲悉，扎波羅熱核電站昨晚在當地時間前後因變電站遭到襲擊而失去所有外部電力供應。"
+    },
+    {
+      "id": "4929646",
+      "time": "2026-06-11 13:53:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY 50指數抹去了盤中跌幅，最新上漲0.02%。"
+    },
+    {
+      "id": "4929645",
+      "time": "2026-06-11 13:52:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【“2026·全球人權治理高階論壇”在京舉辦 李書磊出席開幕式並發表主旨演講2】“2026·全球人權治理高階論壇”11日在北京舉辦。中共中央政治局委員、中宣部部長李書磊出席開幕式並發表主旨演講。本次論壇以“攜手發展 共享人權：《發展權利宣言》透過40週年與全球人權治理新願景”為主題，由國務院新聞辦公室、外交部共同主辦，來自一百多個國家和包括聯合國機構在內的國際組織的400餘位中外嘉賓參會研討。（央視新聞）"
+    },
+    {
+      "id": "4929644",
+      "time": "2026-06-11 13:51:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1153億元。"
+    },
+    {
+      "id": "4929643",
+      "time": "2026-06-11 13:51:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝板塊短線拉昇】先進封裝板塊短線拉昇，博敏電子、太極實業、興福電子漲停， 方邦股份、光智科技、甬矽電子漲超10%，氣派科技、江化微、科翔股份、蘇試試驗、拓荊科技等跟漲。"
+    },
+    {
+      "id": "4929642",
+      "time": "2026-06-11 13:49:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅素萍任滙豐保險經紀公司董事長 陸文穎任滙豐保險經紀公司法定代表人  滙豐保險經紀公司發生高管變更】天眼查App顯示，近日，滙豐保險經紀有限公司發生工商變更，周莉莉卸任法定代表人、董事長，陸文穎接任法定代表人，羅素萍接任董事長。該公司成立於2012年4月，註冊資本約26.5億人民幣，經營範圍為保險經紀業務、公募證券投資基金銷售，由滙豐保險經紀大中華有限公司全資持股。"
+    },
     {
       "id": "4929641",
       "time": "2026-06-11 13:48:12",
@@ -168880,112 +168940,6 @@
         "市場"
       ],
       "text": "【元件板塊持續崇高，東山精密盤中創新高】風華高科、東山精密、江海股份、鈞崴電子盤中創新高，銅峰電子、世運電路、艾華集團漲停，勝業電氣漲超15%，中英科技、滬電股份、南亞新材、法拉電子、順絡電子跟漲。"
-    },
-    {
-      "id": "4916648",
-      "time": "2026-06-04 13:54:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：該安排或促成以色列與黎巴嫩達成和平協議。"
-    },
-    {
-      "id": "mkt:019e9132-2296-7cc0-ba26-c3485d7e8bf7",
-      "time": "2026-06-04 13:54:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian-appointed officials said a Ukrainian drone strike on a train killed one person and wounded three."
-    },
-    {
-      "id": "mkt:019e9131-d0d4-7cc0-ba26-bb744d774cf1",
-      "time": "2026-06-04 13:53:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share-listed Zhongji Xuchuang recorded a trading value of 20.0 bln yuan; shares are up 0.24%."
-    },
-    {
-      "id": "mkt:019e9131-cb24-7cc0-ba26-b623f3b6b414",
-      "time": "2026-06-04 13:53:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "INTC.O",
-        "Impact bullish",
-        "2317.TW"
-      ],
-      "text": "Hon Hai (Foxconn) and Intel are exploring comprehensive end-to-end AI solutions across silicon, rack, system and application layers, aiming to accelerate large-scale deployment of AI-driven technology in edge computing and physical AI applications."
-    },
-    {
-      "id": "4916647",
-      "time": "2026-06-04 13:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄官員稱：烏克蘭無人機襲擊一列火車，造成1人死亡、3人受傷。"
-    },
-    {
-      "id": "4916646",
-      "time": "2026-06-04 13:52:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：此次合作旨在加速人工智慧驅動技術在邊緣計算及實體人工智慧應用領域的大規模部署。"
-    },
-    {
-      "id": "4916645",
-      "time": "2026-06-04 13:52:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報160060.00元。"
-    },
-    {
-      "id": "4916644",
-      "time": "2026-06-04 13:52:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海與英特爾將探索覆蓋矽片、機架、系統及應用層的全棧人工智慧解決方案。"
-    },
-    {
-      "id": "4916643",
-      "time": "2026-06-04 13:52:23",
-      "tags": [
-        "央行",
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【A股進入盈利驅動上行階段，大波段上漲行情不怕等， A500ETF南方（159352）交投活躍】6月4日，A500ETF南方（159352）交投活躍，截至發稿成交額22億元。申萬宏源表示，大波段上漲行情不怕等，隨著時間的推移，市場再突破的條件會越來越好。配置方面，短期，動量延續的AI算力通脹方向減少，已向PCB細分領域、電容等方向聚焦。短期調整波段，高切低行情有所演繹，仍偏向於超跌反彈行情。中期，繼續看好新能源、新能車和出口鏈的景氣驗證機會，同時，繼續圍繞著AI產業鏈和戰略資源做配置。招商證券認為，當前A股已進入盈利驅動的上行階段，預計6月指數將呈“震盪上行、高點抬升”格局。外部看，油價高位回落緩解輸入通脹，美聯儲政策不確定性若消退，市場焦點將重回國內盈利主線。AI已成為兼具產業增長與波動放大雙重屬性的變數，其景氣尚未見頂，但高交易集中度和大型IPO會加劇市場波動。因此，六月市場仍在驗證景氣邏輯，超額收益來源於業績、供需與漲價鏈條，配置應聚焦於資源品、AI算力鏈及出口製造等業績確定性較強的方向。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "mkt:019e912f-e59f-7cc0-ba26-a8b8cfff5700",
-      "time": "2026-06-04 13:51:35",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【RBA says rate-hike effects emerging; housing market cooling】Bullock said the Reserve Bank of Australia has seen signs its rate hikes are starting to work and reiterated the Monetary Policy Committee will take necessary steps to meet its mandate. The RBA hiked at all three meetings this year, lifting the cash rate to 4.35% to curb resurgent inflation. Bullock warned the Middle East conflict could cause an energy shock and prompt second-round inflation. He said the housing market is a rapid transmission channel for policy and has softened, partly reflecting tighter policy. Money markets price a June pause, about a 50% chance of an August hike and a fully priced-in move by December."
-    },
-    {
-      "id": "mkt:019e912f-30fd-7cc0-ba26-a0b5803334a1",
-      "time": "2026-06-04 13:50:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's defense minister KATZ said the agreement with Lebanon includes establishing a demilitarized zone."
     }
   ]
 }
