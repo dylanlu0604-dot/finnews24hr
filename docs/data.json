@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-12 03:50:45",
-  "count": 18467,
+  "updated": "2026-06-12 03:54:31",
+  "count": 18464,
   "items": [
+    {
+      "id": "4931215",
+      "time": "2026-06-12 03:52:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【SpaceX IPO定價為每股135美元，創史上最大規模IPO】SpaceX在其網站釋出的新聞稿中確認，其首次公開募股(IPO)發行5.556億股股票，定價為每股135美元。股票預計將於6月12日在納斯達克開始交易，股票程式碼為“SPCX”。簿記管理人包括：高盛、摩根士丹利、美銀證券、花旗、摩根大通、巴克萊、Deutsche Bank Securities、RBC Capital Markets、UBS Investment Bank和Wells Fargo Securities。"
+    },
     {
       "id": "4931214",
       "time": "2026-06-12 03:49:09",
@@ -170220,44 +170228,6 @@
         "其他"
       ],
       "text": "墨西哥沃拉里斯航空與土耳其航空達成程式碼共享合作協議。"
-    },
-    {
-      "id": "4918105",
-      "time": "2026-06-05 03:54:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普稱汽車行業企圖限制“自主維修權”】美國總統特朗普表示，他昨天與通用汽車和福特汽車的負責人進行了一場“極其出色的會面”。特朗普指出，汽車行業希望出臺一項“禁止人們自己動手修理”自家汽車的法案。“我們會把這一切都理順，”特朗普說道。"
-    },
-    {
-      "id": "mkt:019e9431-977e-755d-92d5-c9537e50de53",
-      "time": "2026-06-05 03:52:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Space Force says Blue Origin remains eligible for major military satellite launch contracts】The US Space Force acquisition office said Blue Origin remains eligible to compete for Pentagon military launch contracts despite last week’s launch-pad explosion. The agency said the blast occurred during a final pre-launch ignition test, not a certified flight, and will not disqualify Blue Origin from certification; the company may still bid in the DoD National Security Space Launch Phase 3 Lane 2 procurement, directly competing with SpaceX."
-    },
-    {
-      "id": "4918104",
-      "time": "2026-06-05 03:52:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美太空軍：藍色起源仍有望承接重要衛星發射任務】美國太空軍採購部門表示，儘管上週發生了發射臺爆炸事故，傑夫·貝索斯旗下的藍色起源公司仍具備資格參與競標，從而與馬斯克的SpaceX競標利潤豐厚的美國軍用太空發射專案。美國太空軍稱，藍色起源此次事故，並非是發生在發射過程中，而是作為發射前的最終點火測試。由於此次爆炸並非發生在認證飛行期間，該機構表示，這不會導致藍色起源被排除在認證流程之外，該公司仍可參與競標五角大樓“國家安全太空發射計劃”第三階段（即“Lane 2”）的合同。"
-    },
-    {
-      "id": "mkt:019e9431-1431-755d-92d5-c12a501c9486",
-      "time": "2026-06-05 03:51:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Lebanese Health Ministry said two Israeli strikes in eastern and southern Lebanon killed eight people."
     }
   ]
 }
