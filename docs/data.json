@@ -1,7 +1,155 @@
 {
-  "updated": "2026-06-11 21:04:09",
-  "count": 18480,
+  "updated": "2026-06-11 21:08:14",
+  "count": 18488,
   "items": [
+    {
+      "id": "4930713",
+      "time": "2026-06-11 21:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek主動向使用者退款】有開發者反饋稱，DeepSeek 開放平臺已就其快取計費系統的資料錯誤向 API 使用者自動返還了相應金額。 根據使用者收到的通知，2026 年 5 月 13 日至 2026 年 6 月 9 日期間，DeepSeek 的快取計費系統出現了部分錯誤，部分使用者的 API 計費受到了一定影響。為此，DeepSeek 團隊將相應金額以贈金形式自動返還至受影響使用者的賬戶，並明確表示 API 計費扣款將優先從贈金賬戶扣除。 當充值餘額與贈送餘額同時存在時，系統優先扣減贈送餘額，這一機制確保了返還贈金能夠在後續呼叫中率先發揮作用。 使用者可登入 DeepSeek 開放平臺檢視具體到賬情況，DeepSeek 團隊在通知中也就此次事件向使用者表示了歉意。"
+    },
+    {
+      "id": "mkt:019eb6cb-120b-7dd8-afc1-f62da8e5580c",
+      "time": "2026-06-11 21:07:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB President LAGARDE said today's decision was unanimous and no other proposals were discussed."
+    },
+    {
+      "id": "4930712",
+      "time": "2026-06-11 21:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：金融狀況比戰前更加嚴峻，決定是一致透過的。我們未討論替代方案。"
+    },
+    {
+      "id": "mkt:019eb6ca-d743-7dd8-afc1-ead7efc9c929",
+      "time": "2026-06-11 21:06:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Premier Miton CIO says ECB tightening likely to continue】Neil Birrell, London CIO at Premier Miton Group, said a 25bps ECB hike was unsurprising given current inf. He noted that despite weak growth prospects the ECB sees limited downside risk to GDP and may raise rates further this year depending on incoming data, so policy adjustment is unlikely to be finished."
+    },
+    {
+      "id": "mkt:019eb6ca-abc0-7dd8-afc1-e66959abf002",
+      "time": "2026-06-11 21:06:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government sources said the defence investment plan will provide the capabilities the UK armed forces require."
+    },
+    {
+      "id": "4930711",
+      "time": "2026-06-11 21:05:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【產能趨緊，谷歌選定三星合作研發下一代人工智慧晶片】由於晶片製造產能持續緊張，各大晶片企業紛紛尋求臺積電以外的合作供應商。在此背景下，谷歌正考慮讓三星電子承接其一款尖端新一代人工智慧晶片的部分元件生產工作。兩位瞭解該專案內情的人士透露，這家美國科技巨頭正與三星洽談合作，計劃由三星採用2 奈米制程工藝，代工生產新一代張量處理器的部分晶片。張量處理器是谷歌專為雲資料中心打造的人工智慧專用晶片。該晶片代號為 “冰魚”，目前規劃為谷歌第十代張量處理器。兩位知情人士表示，對於代號為 “冰魚” 的新一代張量處理器，谷歌計劃仍由臺積電採用1.4 奈米先進製程，負責製造晶片核心的計算引擎部分；而三星或將代工記憶體輸入輸出裸片。這一獨立矽片負責連線主處理器與記憶體，對 AI 晶片至關重要 ——AI 晶片需要持續的資料傳輸，才能保障計算核心高效運轉。"
+    },
+    {
+      "id": "4930710",
+      "time": "2026-06-11 21:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海源：撤銷退市風險警示 簡稱變更為海源復材】*ST海源(002529.SZ)公告稱，公司撤銷退市風險警示的申請已獲得深圳證券交易所稽核同意。根據規定，公司股票將於2026年6月12日（星期五）開市起停牌1天，於2026年6月15日（星期一）開市起復牌，股票簡稱由“*ST海源”變更為“海源復材”，股票程式碼仍為“002529”，股票交易價格日漲跌幅限制變更為10%。"
+    },
+    {
+      "id": "mkt:019eb6c8-f7f8-7dd8-afc1-d998a10ae065",
+      "time": "2026-06-11 21:04:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says US will strike Iran again, threatens to seize energy infrastructure including Kharg Island】President Trump said on Thursday the US would strike Iran again and at some point take control of the country’s energy infrastructure, naming key oil export hub Kharg Island. A two-month ceasefire fractured over the weekend after a US military helicopter was shot down and both sides carried out retaliatory strikes. The remarks raise the risk of further escalation and could undermine slow-moving peace talks. Some analysts say occupying Kharg would likely require US ground forces, increasing troop risk and creating political challenges as the war grows domestically unpopular."
+    },
+    {
+      "id": "mkt:019eb6c8-ea38-7dd8-afc1-d65b8bfe6317",
+      "time": "2026-06-11 21:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE Russell will launch the Russell 9000 Global Index."
+    },
+    {
+      "id": "4930709",
+      "time": "2026-06-11 21:04:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱將對伊朗發動更多攻擊 威脅將奪取能源基礎設施】美國總統特朗普週四表示，美國將再次對伊朗發動打擊，並威脅稱“在某個時候”將掌控該國的能源基礎設施，包括關鍵的石油出口樞紐哈爾克島。美伊為期兩個月的停火協議在週末出現裂痕，隨著一架美軍軍用直升機被擊落，雙方相互發動報復性打擊。特朗普的言論威脅衝突進一步升級，可能使原本緩慢推進的和平協議談判陷入困境。有機構指出，佔領哈爾克島很可能需要動用美軍地面部隊，這將使士兵面臨更大危險，並給總統帶來政治挑戰，因為該戰爭在國內日益不受歡迎。"
+    },
+    {
+      "id": "4930708",
+      "time": "2026-06-11 21:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素將推出羅素9000全球指數。"
+    },
+    {
+      "id": "mkt:019eb6c7-fa49-7dd8-afc1-cf01d50067e2",
+      "time": "2026-06-11 21:03:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "The Information reported Google is in talks with Samsung to use Samsung's 2nm process to manufacture some next-generation TPUs."
+    },
+    {
+      "id": "4930707",
+      "time": "2026-06-11 21:03:03",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "市場訊息：谷歌考慮將三星作為其Icefish AI晶片關鍵元件的供應商。"
+    },
+    {
+      "id": "mkt:019eb6c7-5afa-7dd8-afc1-c23660094ca5",
+      "time": "2026-06-11 21:02:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Google, facing capacity constraints, has turned to Samsung to secure future AI chip supply."
+    },
+    {
+      "id": "4930706",
+      "time": "2026-06-11 21:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM 和 SERVICENOW 擴大合作，以釋放企業資料潛力，助力人工智慧發展。"
+    },
     {
       "id": "4930705",
       "time": "2026-06-11 21:02:25",
@@ -124,6 +272,15 @@
         "其他"
       ],
       "text": "【我國力爭“十五五”時期建至少1.2萬個便民生活圈】記者11日從商務部獲悉，商務部等8部門近日印發通知，推廣全國第三批城市一刻鐘便民生活圈試點經驗及開展第三批全域推進先行區試點申報工作。根據通知，全域推進先行區試點從現有全國試點中擇優產生，利用2年左右時間，實現便民生活圈對試點城市主城區和有條件的縣城社群全覆蓋，力爭“十五五”時期全國建成至少1.2萬個便民生活圈。 (央視新聞)"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606113768524454",
+      "time": "2026-06-11 20:59:30",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：能源價格上漲將進一步推高通脹】歐洲央行行長拉加德稱，能源價格上漲將進一步推高通脹，預計2027年上半年將在2%以上，而下半年將回歸目標水平。"
     },
     {
       "id": "4930700",
@@ -170192,86 +170349,6 @@
         "MKT News"
       ],
       "text": "Israeli military said alarms sounded north of Hanita warning of suspected enemy aircraft infiltration."
-    },
-    {
-      "id": "4917598",
-      "time": "2026-06-04 21:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，哈尼塔北部地區已響起針對敵方軍機入侵的空襲警報。"
-    },
-    {
-      "id": "4917597",
-      "time": "2026-06-04 21:07:24",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "Rocket Lab盤前股價上漲2%，此前該公司宣佈延長了其與美國國家地理空間情報局（NGA）的海事合同。"
-    },
-    {
-      "id": "mkt:019e92be-637c-7eec-b8aa-514e4f758f53",
-      "time": "2026-06-04 21:06:51",
-      "tags": [
-        "MKT News",
-        "LHA.DE",
-        "Impact bearish"
-      ],
-      "text": "Lufthansa said multiple employees were injured in a Boeing 787 landing-gear incident on a Frankfurt ramp and are receiving medical treatment."
-    },
-    {
-      "id": "4917596",
-      "time": "2026-06-04 21:06:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌宣佈在德克薩斯州格雷和羅伯茨縣新建一座資料中心並進行能源投資。"
-    },
-    {
-      "id": "mkt:019e92bd-e6fa-7eec-b8aa-4a4b7d5f0638",
-      "time": "2026-06-04 21:06:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) said it will build new data centers in Gray County and Roberts County, Texas, and will invest in energy projects."
-    },
-    {
-      "id": "4917595",
-      "time": "2026-06-04 21:05:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "漢莎航空：法蘭克福停機坪波音787起落架事故致多名員工受傷，目前正在接受治療。"
-    },
-    {
-      "id": "te:economy:556535",
-      "time": "2026-06-04 21:05:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Edge Down as Oil Prices Fall — The yield on the US 10-year Treasury note fell about 4bps to 4.46% on Thursday, nearly reversing the 6bps increase recorded in the previous session. Treasury prices benefited from a decline in oil prices as hopes grew that a ceasefire agreement between Israel and Lebanon could pave the way for a broader deal with Iran. Despite the improvement in sentiment, uncertainty remains elevated and the situation continues to be highly fragile, with oil prices still well above pre-conflict levels. Investors also continue to price in the possibility of a Federal Reserve rate hike before year-end, potentially as early as October, as higher energy prices add to inflationary pressures. Meanwhile, recent labor market data have pointed to a resilient US economy, with employment conditions strengthening over the past two months. Friday's jobs report is expected to provide further insight into the underlying strength of the labor market and its implications for monetary policy."
-    },
-    {
-      "id": "4917594",
-      "time": "2026-06-04 21:04:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐（保亭）綠色數字創新合作區建設有序推進】中歐（保亭）綠色數字創新合作區，是海南建設國家生態文明試驗區的標誌性工程。合作區將建設寧遠起步區、加茂醫療健康產業園等重點片區，構建綠色低碳產業發展體系，發展綠色數字經濟，推動保亭經濟實現高質量發展。目前，寧遠起步區主路專案正在進行管廊結構、路基回填等施工；加茂醫療健康產業園專案正在進行主體結構、牆體砌築、室內裝修等施工。合作區各項建設有序推進。（新華社）"
     }
   ]
 }
