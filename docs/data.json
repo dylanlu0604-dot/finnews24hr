@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-12 03:12:47",
-  "count": 18432,
+  "updated": "2026-06-12 03:16:32",
+  "count": 18440,
   "items": [
+    {
+      "id": "4931173",
+      "time": "2026-06-12 03:14:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至1.6%。"
+    },
+    {
+      "id": "mkt:019eb81b-5fe0-7dd8-afc9-9065c3ac10d2",
+      "time": "2026-06-12 03:14:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reports allocations for SpaceX's IPO are largely finalised; just over 20% of the offering will be allocated to retail investors."
+    },
+    {
+      "id": "4931171",
+      "time": "2026-06-12 03:14:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲1.86%。"
+    },
+    {
+      "id": "4931170",
+      "time": "2026-06-12 03:14:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5-10年期國債收益率下跌10個基點，重新整理日低。"
+    },
+    {
+      "id": "mkt:019eb81a-c3c3-7dd8-afc9-8d55661870c7",
+      "time": "2026-06-12 03:13:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fars News Agency reports Iran has not yet issued a final response."
+    },
+    {
+      "id": "4931169",
+      "time": "2026-06-12 03:13:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社表示，伊朗尚未作出最終答覆。"
+    },
+    {
+      "id": "4931168",
+      "time": "2026-06-12 03:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX 新股分配方案基本敲定，面向散戶的配售比例約兩成。"
+    },
+    {
+      "id": "mkt:019eb819-d8d8-7dd8-afc9-840a6c56e948",
+      "time": "2026-06-12 03:12:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Iran's Fars news agency reports that, since the US has accepted the text proposed by Iran, approval of the text by Iranian authorities is now highly likely."
+    },
+    {
+      "id": "4931167",
+      "time": "2026-06-12 03:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社表示，鑑於美方已接受伊朗擬定的文字，該檔案獲得伊朗方面批准的可能性極大。"
+    },
     {
       "id": "mkt:019eb819-509e-7dd8-afc9-7dfc79fdef3f",
       "time": "2026-06-12 03:12:07",
@@ -169935,14 +170016,6 @@
         "國際"
       ],
       "text": "【世界糧食計劃署：中東危機外溢衝擊全球糧食安全】當地時間4日，世界糧食計劃署代理執行主任卡爾·斯考在紐約聯合國總部記者會上表示，中東危機正在透過推高能源和食品價格，對全球糧食安全造成外溢衝擊。他重申糧食署此前警告稱，如果危機持續、油價到7月仍維持在每桶100美元以上，約4500萬人將被推向飢餓。（央視新聞）"
-    },
-    {
-      "id": "4918082",
-      "time": "2026-06-05 03:13:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部部長羅林斯：週三晚間在得克薩斯州確診一例螺旋蠅病例後，該周邊區域暫未發現新增螺旋蠅感染案例。"
     }
   ]
 }
