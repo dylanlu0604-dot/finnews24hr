@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-12 03:20:22",
-  "count": 18446,
+  "updated": "2026-06-12 03:24:11",
+  "count": 18444,
   "items": [
+    {
+      "id": "4931180",
+      "time": "2026-06-12 03:21:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團據稱正就收購加拿大地產公司H&R進行談判。"
+    },
+    {
+      "id": "4931179",
+      "time": "2026-06-12 03:20:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至3%。"
+    },
     {
       "id": "mkt:019eb81f-f099-7dd8-afc9-af8a68f86d54",
       "time": "2026-06-12 03:19:21",
@@ -170037,47 +170053,6 @@
         "國際"
       ],
       "text": "市場訊息：LS 電力正洽談以超 40 億歐元收購法國電力集團美國可再生能源子業務。"
-    },
-    {
-      "id": "mkt:019e9416-ecb7-755d-92d5-2fca637135e0",
-      "time": "2026-06-05 03:23:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria's foreign minister met with Algeria's energy minister to discuss strengthening cooperation in oil, gas and energy, including advancing joint projects and upgrading energy infrastructure."
-    },
-    {
-      "id": "te:economy:556583",
-      "time": "2026-06-05 03:21:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Colombia Producer Inflation Highest Since January 2025 — Producer prices in Colombia rose 6.8% year-on-year in May 2026, the biggest increase since January 2025, following a 4.5% rise in April. Mining recorded again the biggest price increase (28.2% vs 16.6% in April) while industry prices went up 3.7% (vs 2.3%) and cost for agriculture, livestock and fishing slowed (3.2% vs 3.5%). On a monthly basis, producer prices increased 0.8%."
-    },
-    {
-      "id": "4918084",
-      "time": "2026-06-05 03:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國國家安全域性正在藉助Anthropic旗下Mythos大模型實施網路攻防作業】儘管正與美國國防部陷入司法糾紛，人工智慧企業Anthropic仍協助美國國家安全域性（NSA）部署其高效能Mythos大模型用於進攻性網路作戰，並向國安局派駐技術工程師駐場落地技術。英國金融時報援引知情人士報道稱，這家總部位於舊金山的企業已向NSA派駐約六名工程師作為前沿駐場技術人員，負責指導模型落地使用、根據國安局特定作戰需求定製調優AI模型。 一名知情人士坦言，Mythos模型可被用來滲透伊朗國家的網路系統。一名靠近Anthropic的內部人士辯解稱：“打造優秀防禦體系的最優路徑就是掌握先進的攻擊技術。對手大機率也在自研AI驅動的攻擊性網路武器，倘若我們不用Mythos開發攻擊工具，敵方也會想方設法落地同類技術。”"
-    },
-    {
-      "id": "mkt:019e9414-841d-755d-92d5-22fdfe230477",
-      "time": "2026-06-05 03:20:32",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Financial Times reports the US National Security Agency is using Anthropic's \"Mythos\" model to conduct cyberattacks."
     }
   ]
 }
