@@ -1,7 +1,324 @@
 {
-  "updated": "2026-06-11 15:59:05",
-  "count": 18353,
+  "updated": "2026-06-11 16:07:03",
+  "count": 18351,
   "items": [
+    {
+      "id": "4929931",
+      "time": "2026-06-11 16:05:46",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：Meta停止與Manus資料共享。"
+    },
+    {
+      "id": "mkt:019eb5b7-0da1-7dd8-afb8-28ab2d3019c3",
+      "time": "2026-06-11 16:05:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【ECB preview: 25bp hike priced in; economic forecasts and follow-up guidance are the market focus】All major dealers expect a 25bp ECB hike. Danske says its technical assumptions (c.68bp) underpin two hikes this year. SEB expects a pre-emptive 25bp, will not commit policy beyond June and will focus on forecast revisions and Middle East risks. ING is hawkish, flags rising inflation risk and leaves the door open for further tightening. ANZ sees 25bp in June and a further 25bp in September, not the start of a large tightening cycle but wary of a bigger-than-expected energy shock. Crédit Agricole expects 25bp, judges growth downside rising and second‑round inflation limited, so the hike is dovish with limited euro upside. Nordea expects 25bp and a relatively hawkish signal from Lagarde; it does not expect a clear July hike signal but says updated forecasts will support further tightening. MUFG expects 25bp, leaves option for more, projects +50bp this year with July still possible. TD Securities expects 25bp and little change to the statement, keeping a data‑dependent, meeting‑by‑meeting approach. OCBC expects a precautionary 25bp, sees higher inflation expectations and slower growth; absent new catalysts euro gains will be capped. DBS expects 25bp with a cautious but hawkish tone; further H2 hikes remain possible and outlook depends on Middle East developments. UBS expects 25bp, unlikely to signal July, with updated forecasts showing some economic deterioration but not as severe as March’s adverse scenario. Societe Generale expects 25bp from a neutral start and another 25bp in September; its forecasts may lift 2027 core inflation to ~2.5% while GDP downside remains material. Berenberg warns a 25bp hike could be a mistake given Iran‑driven energy shocks and weak domestic demand. Natixis sees a 25bp move with a moderately dovish tone; assigns 35%/55% odds to a second hike in Jul–Sep depending on Strait of Hormuz developments. Brown Brothers Harriman expects 25bp and says weaker growth and downward revisions could push EUR/USD toward 1.14, though downside is limited."
+    },
+    {
+      "id": "4929930",
+      "time": "2026-06-11 16:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存晶片、光通訊板塊普漲 閃迪漲超4%】美股儲存晶片、光通訊板塊普漲，閃迪漲超4%，美光科技漲超3%，邁威爾科技、英特爾、POET、西部資料漲超2%，AMD、高通、ARM、康寧漲超1%。"
+    },
+    {
+      "id": "4929929",
+      "time": "2026-06-11 16:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "駐美國使領館釋出關於赴美觀看國際足聯世界盃的領事提醒。"
+    },
+    {
+      "id": "te:markets:558318",
+      "time": "2026-06-11 16:05:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.80% — Top commodity gainers are Silver (1.80%) and Gold (0.85%). Biggest losers are Iron Ore CNY (-1.04%), Steel Rebar (-0.57%) and Platinum (-0.56%)."
+    },
+    {
+      "id": "4929928",
+      "time": "2026-06-11 16:04:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國住宅建築商股價下跌，受5月份核心需求和協議銷量停滯在負值區域影響】Royal Institute of Chartered Surveyors的5月份住宅調查凸顯出買家需求和協議銷量仍處於負值區域，隨後英國住宅建築商的股價下跌。此外，交易完成所需的時間更長，從掛牌到完成的平均時間升至21.5周，這是自2017年開始記錄該資料集以來的最長耗時。不過，該調查稱，一些指標表明近期的惡化可能正開始企穩。”5月份在疲軟的整體資料下表現出韌性。各個主流價位的買家需求依然真實存在，有誠意的買家繼續進行交易，“該調查稱。Barratt Redrow下跌1.8%，Vistry和泰勒溫佩下跌1.2%。"
+    },
+    {
+      "id": "4929927",
+      "time": "2026-06-11 16:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡帆任廣東省委常委、組織部部長】近日，中央批准：胡帆同志任廣東省委委員、常委；經中央組織部同意，廣東省委決定：胡帆同志任省委組織部部長。(南方+)"
+    },
+    {
+      "id": "4929926",
+      "time": "2026-06-11 16:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典司法部長表示，政府將轉而提議把刑事責任年齡從目前的15歲下調至14歲。"
+    },
+    {
+      "id": "4929925",
+      "time": "2026-06-11 16:04:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：外部因素料將驅動英鎊近期表現】Monex Europe分析師在一份報告中表示，鑑於英國資料日曆清淡，英鎊週四可能受外部因素驅動進行交易。他們表示，歐洲央行在格林威治時間1215公佈的政策決定、格林威治時間1230公佈的美國批發通脹資料以及有關中東衝突的訊息面，料將驅動英鎊目前的表現。“我們繼續預計[英鎊兌美元匯率]將維持在由美元和石油主導的偏窄區間內，且偏向於下行。“隨著週五公佈4月份國內生產總值(GDP)資料以及工業產值和貿易資料，英鎊將迎來更多英國本土催化劑。英鎊上漲0.1%，至1.3379美元，但歐元兌英鎊持平於0.8627英鎊。"
+    },
+    {
+      "id": "4929924",
+      "time": "2026-06-11 16:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：若美伊恢復公開衝突，油價或飆升至150美元】睿諮得能源的Jorge Leon表示，如果美國和伊朗全面恢復敵對狀態，油價可能會飆升至每桶150美元。這位地緣政治分析主管表示：“現階段，要判斷目前的升溫是標誌著敵對狀態的全面恢復，還是一個危險但仍可控的插曲，還為時過早。”“因此，在有更明確的證據表明停火能夠維持或外交渠道正在重新發揮作用之前，油價波動性可能會保持在高位。“布倫特原油目前的交易價格略低於每桶93美元，而西得州中質油的價格在每桶89美元左右。"
+    },
+    {
+      "id": "4929923",
+      "time": "2026-06-11 16:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典司法大臣表示，不會推進將刑事責任年齡降至13歲的擬議立法。"
+    },
+    {
+      "id": "te:markets:558316",
+      "time": "2026-06-11 16:03:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Falls on Persistent FX Flows — The South Korean won weakened to around 1,530 per dollar, reversing from levels near 1,520 in the previous session amid persistent foreign-exchange flow pressures. Overseas investors extended their selling streak in local equities, even as domestic retail participation continued to support the stock market. Authorities stepped up oversight of non-deliverable forward trading and reiterated calls for exporters to promptly convert overseas earnings into won to support dollar supply conditions. Policymakers also maintained close monitoring of major banks and reaffirmed measures aimed at curbing excessive speculation and stabilizing the foreign-exchange market. Sentiment also remained cautious amid ongoing uncertainties surrounding developments in the Middle East, keeping risk appetite subdued across Asian markets."
+    },
+    {
+      "id": "mkt:019eb5b5-35da-7dd8-afb8-250c8c45e898",
+      "time": "2026-06-11 16:03:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Rystad: Oil could spike to $150 if US-Iran hostilities fully resume】Jorge Leon, head of geopolitical analysis at Rystad Energy, says oil prices could surge to about USD150/bbl if the US and Iran return to full-scale hostilities. He warned it is too early to determine whether recent escalation marks a full resumption of hostilities or a dangerous but containable incident, and said oil price volatility is likely to remain elevated until clearer evidence emerges, regardless of whether a ceasefire holds or diplomacy regains traction."
+    },
+    {
+      "id": "4929922",
+      "time": "2026-06-11 16:03:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，亞瑪芬體育漲4%】美股中概股盤前漲跌互現，亞瑪芬體育漲4%，蔚來漲1%，網易漲0.4%，拼多多、攜程、百度跌1%，京東跌2%，阿里巴巴跌4%。"
+    },
+    {
+      "id": "4929921",
+      "time": "2026-06-11 16:02:58",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【美光科技盤前漲超3%】美光科技盤前漲超3%。高盛分析師預計，美光科技本月晚些時候公佈財報時，將交出亮眼的“第三財季成績單”。"
+    },
+    {
+      "id": "4929920",
+      "time": "2026-06-11 16:02:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前普漲，特斯拉漲1%】美股大型科技股盤前普漲，特斯拉漲1%，亞馬遜、英偉達漲0.7%，Meta漲0.6%，蘋果漲0.5%，谷歌A漲0.3%，微軟漲0.1%。"
+    },
+    {
+      "id": "mkt:019eb5b4-9293-7dd8-afb8-18f5c2bd3f87",
+      "time": "2026-06-11 16:02:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) shares fell more than 10% in premarket trading after the company said its fiscal 2027 capital expenditure plan was higher than expected."
+    },
+    {
+      "id": "te:markets:558315",
+      "time": "2026-06-11 16:02:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for 2nd Session — The FTSE 100 traded higher on Thursday, extending the previous session’s 0.3% gain, supported by strength in financial and mining stocks. HSBC Holdings advanced more than 2%, while Lloyds Banking and Barclays gained around 0.7% each. Standard Chartered climbed nearly 3% and NatWest also moved higher. Mining shares also contributed, with Rio Tinto rising about 1.6%, Glencore up 1%, Anglo American and Antofagasta adding around 2%, and Fresnillo gaining 2.5%. Intertek shares increased more than 2.5% after the testing and inspection group extended the deadline for potential bidders to submit final offers to June 18. In contrast, Halma fell more than 11% despite reporting higher annual profits and a strong start to the new financial year. Elsewhere, Wizz Air posted profit growth slightly ahead of expectations despite disruption to Middle East routes. Frasers Group also made a €2 billion offer to acquire the remaining stake in Hugo Boss, offering €38 per share."
+    },
+    {
+      "id": "4929919",
+      "time": "2026-06-11 16:02:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威央行<NOCB.UL>：相關部門預計，2026年年度工資增速為4.5%，2027年為4.1%。"
+    },
+    {
+      "id": "4929918",
+      "time": "2026-06-11 16:02:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威央行<NOCB.UL>：整體來看，受訪企業的盈利能力與2025年第二季度相比幾乎沒有變化。"
+    },
+    {
+      "id": "mkt:019eb5b3-1d26-7dd8-afb8-130e1119c9ac",
+      "time": "2026-06-11 16:01:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange inventories fell across base metals: copper down 2,275 tonnes, aluminium down 2,825 tonnes, nickel down 558 tonnes, lead down 575 tonnes, zinc down 100 tonnes, tin down 30 tonnes."
+    },
+    {
+      "id": "4929917",
+      "time": "2026-06-11 16:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鉛庫存減少575噸，鋁庫存減少2825噸，錫庫存減少30噸，鋅庫存減少100噸，銅庫存減少2275噸，鎳庫存減少558噸。"
+    },
+    {
+      "id": "4929916",
+      "time": "2026-06-11 16:01:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【甲骨文美股盤前跌超10%】甲骨文美股盤前跌超10%。公司公佈的季度資本支出高於預期，引發投資者對該公司AI基礎設施業務盈利能力的擔憂。"
+    },
+    {
+      "id": "4929915",
+      "time": "2026-06-11 16:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源等在洛陽成立電力公司】企查查APP顯示，近日，洛陽錦徽電力有限公司成立，法定代表人為李少輝，註冊資本為1000萬元，經營範圍包含：發電業務、輸電業務、供（配）電業務；供電業務；熱力生產和供應；供冷服務；節能管理服務等。企查查股權穿透顯示，該公司由洛陽百斯威新能源有限公司、陽光電源旗下陽光新能源開發股份有限公司共同持股。"
+    },
+    {
+      "id": "4929914",
+      "time": "2026-06-11 16:00:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合富中國：試劑買賣合同糾紛一審判決，賠償金額存不確定性】合富中國公告稱，公司與廣東省第二人民醫院試劑買賣合同糾紛一審判決，被告應向公司賠償損失330萬元及支付律師費8萬元，駁回公司其他訴求和醫院全部反訴請求。本訴受理費286,191.6元，公司負擔266,401.6元，醫院負擔19,790元；反訴受理費26,885.37元由醫院負擔。鑑於為一審判決，雙方可上訴，最終結果及對公司利潤影響不確定，預計不會對日常經營產生重大影響。"
+    },
+    {
+      "id": "te:markets:558313",
+      "time": "2026-06-11 16:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 1.30% — Top commodity losers are Natural gas (-1.30%), Heating Oil (-0.73%), Gasoline (-0.50%), Brent Crude Oil (-0.44%) and Crude Oil WTI (-0.27%)."
+    },
+    {
+      "id": "4929913",
+      "time": "2026-06-11 15:59:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖維高新：收到經營者集中反壟斷審查不予禁止決定書】皖維高新(600063.SH)公告稱，公司收到海螺集團轉發的國家市場監督管理總局出具的《經營者集中反壟斷審查不予禁止決定書》，決定對海螺集團收購皖維集團股權案不予禁止，從即日起可以實施集中。"
+    },
+    {
+      "id": "te:markets:558312",
+      "time": "2026-06-11 15:59:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Cautiously Higher — The DAX 40 edged up to around 24,230 on Thursday after a hesitant, as investors weighed the latest developments in the Middle East while awaiting the European Central Bank's policy decision. US military announced that it had completed strikes in Iran, after attacking several Iranian defensive positions for several hours. US Defense Secretary Pete Hegseth called the strikes \"an act of coercive diplomacy\" aimed at overcoming the stalemate in negotiations. Oil prices moved down, as hopes for a resolution to the ongoing conflict persisted. Sector-wise, gains in energy-sensitive industrials, chemical companies and techs outweighed major losses in software and telecommunication stocks. Siemens Energy led the way, surging 4.1%, followed by Infineon Technologies, BASF and Rheinmetall. Meanwhile, Hugo Boss surged more than 6% after its largest shareholder, Frasers Group, launched a $2 billion takeover bid for the fashion house."
+    },
+    {
+      "id": "mkt:019eb5b1-7cb9-7dd8-afb8-0821de8532e4",
+      "time": "2026-06-11 15:59:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The CEO of Ukraine's national railway said Russian drone strikes hit a railway warehouse in the northern Sumy region, killing one railway worker and injuring four."
+    },
+    {
+      "id": "4929912",
+      "time": "2026-06-11 15:58:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家鐵路執行長表示，俄羅斯無人機襲擊烏克蘭北部蘇梅州的一處鐵路車場，造成一名鐵路工人死亡，四人受傷。"
+    },
+    {
+      "id": "te:markets:558310",
+      "time": "2026-06-11 15:58:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises Ahead of ECB Decision — The FTSE MIB rose to around 50,400 on Thursday, recouping losses from the previous session as attention shifted to the European Central Bank's policy announcement due later in the day. Markets are expecting a 25-basis-point rate increase, which would mark the first hike since 2023. Investors also remained focused on escalating tensions in the Middle East after the US military confirmed strikes in Iran, Israel reported missile launches from Lebanon, and Kuwait closed its airspace over concerns related to Iranian offensives. Across the bourse, technology-related stocks helped underpin gains, tracking an attempted recovery in regional semiconductor shares. STMicroelectronics gained more than 3%, while Prysmian advanced over 2%. Other notable gainers included banks UniCredit (+1.1%) and Intesa Sanpaolo (+1%), defense group Leonardo (+1.6%), and luxury brands Moncler (+1.8%) and Brunello Cucinelli (+2%)."
+    },
+    {
+      "id": "4929911",
+      "time": "2026-06-11 15:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：中國網文、網劇、網遊在全球颳起“中國旋風”，成為文化出海新引擎】6月11日下午，商務部舉行例行新聞釋出會。有媒體提問稱，今年1-4月，我國服務貿易出口增長了15%，其中個人文化和娛樂服務的增速高達39.5%，智慧財產權使用費也實現了20.8%的高速增長。請問服務貿易出口高速增長背後的主要驅動力是什麼？今年以來我國在推動服務出口方面採取了哪些具體舉措？對此，商務部新聞發言人何亞東表示，在政策支援和產業發展的驅動之下，中國服務的國際競爭力不斷提升，特別是知識密集型服務出口實現了較快增長。資料顯示，1-4月，我國服務出口達到了9850億元，同比增長15%，其中知識密集型服務出口增長了11.7%，佔總體服務出口的比重達到了55.2%。何亞東介紹說，知識密集型服務涵蓋了智慧財產權、文化娛樂等領域。在智慧財產權領域，相關研究機構資料顯示，我國創新藥對外授權金額屢創新高，2025年全球市場佔比超過了40%；在文化娛樂領域，中國的網文、網劇、網遊這些數字文化產品在全球颳起了“中國旋風”，已經成為文化消費和文化出海的一個新引擎，“內容+平臺+模式”出海步伐加快。(環球網)"
+    },
+    {
+      "id": "4929910",
+      "time": "2026-06-11 15:58:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【包鋼股份：控股子公司板材廠事故仍在調查中，將加快涉事產線復工復產】有投資者在互動平臺提問，公司控股子公司下屬板材廠事故是否已經完成檢修復產，事故對一季度影響利潤多少？是否對二季度公司盈利產生影響？對此，包鋼股份6月11日在互動平臺表示，今年一季度，受大宗原燃料價格超預期上行、下游需求釋放不足影響，鋼材價格持續低迷，購銷兩端價差收窄，進一步擠壓公司利潤空間，公司整體盈利承壓態勢持續加劇。同時，公司控股子公司下屬板材廠受事故影響的部分熱軋、冷軋等產線停產檢修，配套產線相應降負荷生產，公司產銷量下降、成本上升，經營業績受到一定程度影響。目前事故仍在調查中，公司將統籌加快涉事產線復工復產步伐，在嚴格落實安全生產管理措施的基礎上，全力保障生產系統平穩高效執行。"
+    },
     {
       "id": "4929909",
       "time": "2026-06-11 15:58:08",
@@ -168665,318 +168982,6 @@
         "FTSE100"
       ],
       "text": "SMMT said UK new car registrations in May rose 7.1% YoY to 160,662 vehicles."
-    },
-    {
-      "id": "4916885",
-      "time": "2026-06-04 16:05:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國光電器在寧波成立汽車聲學公司 註冊資本5000萬】天眼查App顯示，近日，寧波國光汽車聲學有限責任公司成立，法定代表人為湯曉宇，註冊資本5000萬人民幣，經營範圍包括音響裝置製造、音響裝置銷售、塑膠製品製造等。股東資訊顯示，該公司由國光電器（002045）全資持股。"
-    },
-    {
-      "id": "4916884",
-      "time": "2026-06-04 16:05:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅欣藥業：控股股東質押3500萬股股份用於融資】羅欣藥業公告稱，近日控股股東羅欣控股將3500萬股股份質押給安徽國元信託有限責任公司，佔其持股比例14.77%，佔公司總股本3.22%，質押起始日為2026年6月3日，質押用途為融資類質押。截至公告披露日，羅欣控股及其一致行動人累計質押股份1.36億股，佔其所持股份比例56.41%，佔公司總股本12.53%。本次質押對公司生產經營等不產生實質性影響。"
-    },
-    {
-      "id": "4916883",
-      "time": "2026-06-04 16:05:38",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【四川雙馬：控股股東部分股份質押及解除質押】四川雙馬公告稱，近日控股股東和諧恆源將792萬股（佔其所持股份2.03%、公司總股本1.04%）質押給中信證券，用於償還債務；解除1516萬股（佔其所持股份3.89%、公司總股本1.99%）質押。截至公告披露日，和諧恆源持有公司32.91%股份，其及一致行動人合計持股50.98%，和諧恆源累計質押股份9707.4萬股，佔公司總股本12.72%，所質押股份無平倉風險，對公司經營及治理無影響。"
-    },
-    {
-      "id": "te:markets:556474",
-      "time": "2026-06-04 16:05:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 1.73% — Top commodity losers are Iron Ore CNY (-1.73%), Lithium Carbonate (-1.32%) and Steel Rebar (-0.79%). Gains are led by Silver (0.81%) and Gold (0.70%)."
-    },
-    {
-      "id": "mkt:019e91aa-4c5e-7668-960c-96f19814f7ea",
-      "time": "2026-06-04 16:05:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jiuri New Materials says it has not provided samples for testing or supplied products to Changxin Technology."
-    },
-    {
-      "id": "4916882",
-      "time": "2026-06-04 16:04:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "應用航天防務公司股價盤前上漲14%，此前一日該公司剛在紐約證券交易所完成上市首秀。"
-    },
-    {
-      "id": "mkt:019e91a9-ca9d-7668-960c-8fdb3fb21f5e",
-      "time": "2026-06-04 16:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's supreme leader issues written call for unity】Iran's supreme leader Mujtaba Khamenei on April 4 issued a written statement urging unity and vigilance, telling citizens to \"stand firm, stay clear-headed, preserve unity and mutual trust, and avoid aligning with the enemy to thwart enemy plots.\""
-    },
-    {
-      "id": "4916881",
-      "time": "2026-06-04 16:04:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：英偉達加入Windows on Arm陣營，推升Arm架構AI筆記本2029年滲透率達34.2%】TrendForce集邦諮詢最新研究指出，目前AI筆記本主要由Intel（英特爾）、AMD（超威）、Apple（蘋果）與Qualcomm（高通）推動，但市場仍缺乏能夠大規模展現裝置端AI運算價值，並形成明確使用者換機動力的產品。隨著Nvidia（英偉達）於Computex正式發表RTX Spark平臺搭配N1與N1X處理器，AI筆記本市場有望從目前以NPU功能展示為主的階段，進一步邁向以Agent與本地端模型運算為核心的新發展階段。"
-    },
-    {
-      "id": "4916880",
-      "time": "2026-06-04 16:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME現貨銅庫存下降8.9%，至2月以來最低水平。"
-    },
-    {
-      "id": "te:markets:556473",
-      "time": "2026-06-04 16:04:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Trades Higher — Frankfurt's DAX 40 rose to around 24,800 on Thursday, trimming some losses from the previous session, helped by easing oil prices while investors awaited clearer signs of prospects for a wider deal with Iran. This comes after Israel and Lebanon agreed to implement a ceasefire, though earlier strikes in the week between the US and Iran kept investors on edge. Across the bourse, leading the gains were SAP, advancing more than 4%, alongside Airbus (+1.2%), Siemens Healthineers (+1.2%), and HeidelbergCement (+2.2%). Banking stocks were also in the green, including Deutsche Bank (+2.9%) and Commerzbank (+2.1%). On the flip side, losses were seen in Infineon (-2.9%), Rheinmetall (-1%), and RWE (-1.2%). On the economic data front, fresh PMI data showed that the German construction sector remained firmly in contraction in May."
-    },
-    {
-      "id": "4916879",
-      "time": "2026-06-04 16:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【久日新材：未向長鑫科技進行送樣測試或供貨】久日新材(688199)6月4日在互動平臺表示，公司未向長鑫科技進行送樣測試或供貨。"
-    },
-    {
-      "id": "4916878",
-      "time": "2026-06-04 16:03:56",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【印尼盾對美元匯率創歷史新低】印尼盾對美元匯率4日開盤後跌破1美元兌18000印尼盾關口，隨後於當地時間上午進一步跌至1美元兌18014.5印尼盾，創有記錄以來最低水平。受中東局勢持續緊張推高大宗商品價格、全球避險情緒升溫等因素影響，印尼盾對美元匯率今年以來持續走弱。面對印尼盾持續承壓，印尼央行表示，將繼續最佳化各項政策工具，加大市場干預力度，保持外匯市場流動性充裕，維護金融市場穩定執行。印尼央行近期進一步收緊美元購買政策，旨在遏制投機性購匯行為，緩解印尼盾貶值壓力。同時，印尼央行正擴大本幣結算機制應用範圍，以減少對美元依賴並降低匯率波動風險。（新華社）"
-    },
-    {
-      "id": "mkt:019e91a8-f968-7668-960c-86c2b2990c59",
-      "time": "2026-06-04 16:03:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Southeast Asia tourist arrivals fall; Siem Reap visitors plunge】Summer is a key foreign-exchange season for Southeast Asian tourism, but operators warn the peak may be weaker after a sharp fuel-price jump linked to Middle East tensions and other factors. Thailand tourism ministry: inbound arrivals in April fell 7% YoY; European arrivals down about 16% and Middle Eastern arrivals down 57% YoY. Cambodia (Siem Reap) tourism department: combined international and domestic visitors fell 37.5% YoY in the first four months of the year."
-    },
-    {
-      "id": "4916877",
-      "time": "2026-06-04 16:03:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星源材質：刊發境外上市股份(H股)發行聆訊後資料集】星源材質公告稱，公司正推進申請公開發行境外上市外資股(H股)並在香港聯交所主機板掛牌上市相關工作。已收到中國證監會備案通知，香港聯交所上市委員會已舉行上市聆訊。公司按規定在香港聯交所網站刊登聆訊後資料集，該資料集為草擬版本，所載資料可能更新變動。本次發行並上市尚需取得相關監管機構和交易所最終批准，存在不確定性。"
-    },
-    {
-      "id": "4916876",
-      "time": "2026-06-04 16:03:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一品紅：全資子公司創新藥APH04935片獲臨床試驗註冊申請受理】一品紅公告稱，公司全資子公司廣州一品紅製藥有限公司自主研發的創新藥物APH04935片的藥物臨床試驗申請獲國家藥監局受理。該藥物是一種高活性、高選擇性的小分子GLP - 1R激動劑，擬用於成人超重或肥胖患者體重減輕及長期減重管理，為境內外均未上市的創新藥，註冊分類為化學藥品1類。該產品獲受理對公司短期財務和業績無重大影響，後續還需經多環節，存在不確定性。"
-    },
-    {
-      "id": "4916875",
-      "time": "2026-06-04 16:03:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL科技：“25TCLDK”債券6月8日兌付本息並摘牌】TCL科技公告稱，“25TCLDK”債券將於2026年6月8日支付2025年12月19日至2026年6月6日期間利息和本金，同時摘牌。該債券餘額5億元，期限170天，票面利率1.74%，到期一次還本付息。債權登記日和最後交易日為6月5日，兌付兌息物件為該日收市後登記在冊的全體持有人。公司將委託中國結算深圳分公司進行兌付兌息。"
-    },
-    {
-      "id": "4916874",
-      "time": "2026-06-04 16:03:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信海直：簽署樟坑徑新機場建設專案監督協議】中信海直公告稱，因城市規劃，公司、中海直與深圳南山區相關方已簽署南頭直升機場搬遷補償協議。中海直是樟坑徑新機場建設主體，專案建成後供公司使用。近日，公司與中海直簽署監督協議，公司對專案設計、裝置選型、施工質量等環節有監督權，可透過參與技術討論等方式行使，但甲方有最終決定權，且公司監督不構成管理等，不對工程負責。甲方承諾建成資產保障公司需求，未來租賃給予最優惠條件，具體另商。公司獲權無需付費，協議不影響業務獨立性，但租賃條件有不確定性。"
-    },
-    {
-      "id": "4916873",
-      "time": "2026-06-04 16:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠科股份披露招股書，擬於近期在深市發行新股並上市。"
-    },
-    {
-      "id": "mkt:019e91a7-463e-7668-960c-7d2661b9d0d2",
-      "time": "2026-06-04 16:01:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "Broadcom (AVGO.O) shares fell 11% in pre-market U.S. trading after the company forecast second-quarter revenue below expectations."
-    },
-    {
-      "id": "4916872",
-      "time": "2026-06-04 16:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國5月汽車註冊量同比增長7.1%。"
-    },
-    {
-      "id": "mkt:019e91a7-0405-7668-960c-72614a22636e",
-      "time": "2026-06-04 16:01:42",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Shenzhen among four regions to pilot removal of foreign equity caps on value-added telecom services】On June 3, the Ministry of Industry and Information Technology said it will pilot removal of foreign equity caps on value-added telecom services, including internet data centers (IDCs), in Beijing, Shanghai, Hainan and Shenzhen. The move builds on WTO commitments, free-trade zone and service‑opening policies and seeks to align Chinese telecom rules with high‑standard international trade norms."
-    },
-    {
-      "id": "4916871",
-      "time": "2026-06-04 16:01:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CrowdStrike盤前跌超11%】網路安全公司CrowdStrike盤前跌超11%。公司預計第二季度調整後每股收益為1.16至1.17美元，市場預期為1.15美元。"
-    },
-    {
-      "id": "4916870",
-      "time": "2026-06-04 16:01:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，BOSS直聘漲5%】美股中概股盤前漲跌互現，BOSS直聘漲5%，亞瑪芬體育、嗶哩嗶哩、蔚來漲1%，網易漲0.9%，拼多多、阿里巴巴跌0.6%，理想汽車跌2%。"
-    },
-    {
-      "id": "4916869",
-      "time": "2026-06-04 16:01:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數上漲，特斯拉跌0.7%】美股大型科技股盤前多數上漲，蘋果漲0.6%，亞馬遜漲0.4%，英偉達、谷歌A漲0.3%，微軟漲0.2%，Meta跌0.4%，特斯拉跌0.7%。"
-    },
-    {
-      "id": "mkt:019e91a6-709a-7668-960c-6c72d1b7980e",
-      "time": "2026-06-04 16:01:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "London Metal Exchange (LME) inventories: copper down 2,575 t, aluminium down 250 t, zinc down 625 t, nickel unchanged, tin down 40 t, lead down 1,150 t."
-    },
-    {
-      "id": "4916868",
-      "time": "2026-06-04 16:01:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：銅庫存減少2575噸，鋁庫存減少250噸，鋅庫存減少625噸，鎳庫存持平，錫庫存減少40噸，鉛庫存減少1150噸。"
-    },
-    {
-      "id": "4916867",
-      "time": "2026-06-04 16:00:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500迷你股指期貨下跌0.26%，納斯達克100股指期貨下跌0.49%，道瓊斯股指期貨上漲0.20%。"
-    },
-    {
-      "id": "4916866",
-      "time": "2026-06-04 16:00:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：2026年將舉辦超過100場“出口中國”活動】商務部4日召開例行新聞釋出會，商務部新聞發言人何詠前在會上介紹，2026年，商務部將舉辦超過100場“出口中國”活動，向中國企業和消費者宣傳和推介各國優質產品，為各國企業擴大對華出口搭建平臺和橋樑，更大力度擴大進口，與世界各國共享中國發展新機遇。6月7日和11日，商務部將分別在白俄羅斯和德國舉辦“出口中國”境外專場活動。 白俄羅斯專場活動是“出口中國”首場境外活動，德國專場活動是“出口中國”在歐盟的首場活動。 何詠前稱，誠摯邀請各國企業積極參與“出口中國”系列活動，繼續來華參加進博會等重點展會，利用中方搭建的平臺和渠道，擴大對華出口，實現互利共贏。（中新網）"
-    },
-    {
-      "id": "4916865",
-      "time": "2026-06-04 16:00:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【博通股價盤前跌超10%】博通股價盤前跌超10%。公司預計第三財季AI晶片銷售額為160億美元，不及市場預期。"
-    },
-    {
-      "id": "4916864",
-      "time": "2026-06-04 16:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "經合組織：全球鋼鐵市場的不平衡正在加深，而非緩解。到2028年，鋼鐵過剩產能可能達到7.45億噸。"
-    },
-    {
-      "id": "te:markets:556472",
-      "time": "2026-06-04 16:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 0.95% — Top commodity gainers are Natural Gas UK (0.95%) and Natural Gas EU (0.88%). Biggest losers are Brent Crude Oil (-0.73%), Gasoline (-0.61%) and Crude Oil WTI (-0.48%)."
-    },
-    {
-      "id": "4916863",
-      "time": "2026-06-04 16:00:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊4日發表書面致辭說：“希望所有人堅定立場，保持頭腦清醒，維護團結互信，不與敵人結盟，以此挫敗敵人陰謀。”（新華社）"
-    },
-    {
-      "id": "4916862",
-      "time": "2026-06-04 15:59:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【縱橫股份：全資子公司中標6518萬元低空綜合治理專案】縱橫股份公告，公司全資子公司成都縱橫大鵬無人機科技有限公司於近日收到新野縣低空綜合治理能力提升專案的中標通知書，中標金額6518萬元。該專案屬於公司日常經營範圍內的主營業務，但尚未與招標人簽訂正式協議及合同，合同簽署時間及履約安排存在不確定性，可能受行業政策調整、市場環境變化等因素影響。"
-    },
-    {
-      "id": "4916861",
-      "time": "2026-06-04 15:59:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福鞍股份：對外投資設立控股子公司完成】福鞍股份公告，公司已完成控股子公司福鞍投資（深圳）有限公司的設立工作，並取得深圳市市場監督管理局頒發的《營業執照》。該子公司註冊資本為1000萬元人民幣，公司認繳出資600萬元，認繳出資比例為60%。子公司的經營範圍包括以自有資金從事投資活動、創業投資、融資諮詢服務、財務諮詢、社會經濟諮詢服務、資訊諮詢服務、企業管理諮詢、資訊科技諮詢服務、稅務服務及法律諮詢等。"
-    },
-    {
-      "id": "mkt:019e91a4-ca81-7668-960c-62101a232ed3",
-      "time": "2026-06-04 15:59:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "OECD: global steel excess capacity could reach 745 mln tonnes by 2028."
     }
   ]
 }
