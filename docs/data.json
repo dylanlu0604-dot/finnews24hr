@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-12 01:17:16",
-  "count": 18471,
+  "updated": "2026-06-12 01:21:08",
+  "count": 18464,
   "items": [
+    {
+      "id": "mkt:019eb7b3-22da-7dd8-afc7-76fd9460cb83",
+      "time": "2026-06-12 01:20:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran warns US could be drawn into years‑long war quagmire】Iranian parliament speaker Ghalibaf wrote on social media on June 11 local time that the United States’ erroneous strategy and impulsive decisions would worsen the situation, spark disruption to energy infrastructure and market volatility, and entangle the US in a years‑long, hard‑to‑exit quagmire; he added the US would 'see a different Iran.'"
+    },
+    {
+      "id": "4931036",
+      "time": "2026-06-12 01:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國能源行業高管已就石油儲量不斷減少的問題向白宮發出警示。"
+    },
+    {
+      "id": "mkt:019eb7b2-711f-7dd8-afc7-6935cc06a157",
+      "time": "2026-06-12 01:19:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. sanctions Cuba's national oil company】On June 11, the U.S. Treasury said on its website it has imposed sanctions on Cuba's national oil company."
+    },
+    {
+      "id": "mkt:019eb7b2-12fc-7dd8-afc7-66b51582ab41",
+      "time": "2026-06-12 01:19:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【NY Post: Iran submits latest draft of proposed US agreement to Qatari mediator】The New York Post reports sources familiar with the mediation say Iran has finalized a draft of a proposed agreement with the United States and submitted it to Qatari intermediaries to relay to Washington. A regional source familiar with Iran’s leadership said the text was completed Wednesday night and that Qatar has been in contact with both sides to advance the deal; if approved, procedures to implement the memorandum of understanding would begin. A US source familiar with Qatar’s mediation confirmed a draft was submitted but said substantive details have not been released."
+    },
+    {
+      "id": "4931034",
+      "time": "2026-06-12 01:18:37",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "當地時間6月11日，美國財政部網站顯示，美國對古巴國家石油公司實施制裁。（央視新聞）"
+    },
+    {
+      "id": "4931033",
+      "time": "2026-06-12 01:17:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（6月11日），美聯儲隔夜逆回購協議（RRP）使用規模為4.60億美元（交易對手3家），上個交易日報3.87億美元。"
+    },
     {
       "id": "4931032",
       "time": "2026-06-12 01:15:33",
@@ -170135,118 +170192,6 @@
         "MKT News"
       ],
       "text": "Putin said Ukraine would also need to make compromises for the conflict to end soon."
-    },
-    {
-      "id": "4917937",
-      "time": "2026-06-05 01:20:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將在得克薩斯州新建資料中心並加碼能源專案投資。"
-    },
-    {
-      "id": "4917936",
-      "time": "2026-06-05 01:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯使用“榛樹”導彈進行了試驗，以測試其效能。"
-    },
-    {
-      "id": "mkt:019e93a6-69f6-711f-ac53-58938c41259a",
-      "time": "2026-06-05 01:20:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Trump had asked Russia in Alaska to make certain concessions, and that Russia is prepared to do so."
-    },
-    {
-      "id": "mkt:019e93a5-c217-711f-ac53-53dde2320ab7",
-      "time": "2026-06-05 01:19:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Ukraine lacks cruise missiles and other weapons that Russia possesses."
-    },
-    {
-      "id": "mkt:019e93a5-b546-711f-ac53-4ad7b6b6a1e7",
-      "time": "2026-06-05 01:19:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Russian President Putin said Russia is willing to reach an agreement with Ukraine by peaceful means."
-    },
-    {
-      "id": "4917935",
-      "time": "2026-06-05 01:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：屆時衝突將迅速結束。"
-    },
-    {
-      "id": "4917934",
-      "time": "2026-06-05 01:19:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威天然氣運輸公司Gassco將Troll氣田日輸量1500萬立方米的天然氣中斷作業，原定於6月1日至5日，現調整為6月1日至4日。"
-    },
-    {
-      "id": "4917933",
-      "time": "2026-06-05 01:18:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭也需要做出讓步。"
-    },
-    {
-      "id": "4917932",
-      "time": "2026-06-05 01:18:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國秘書長譴責聯黎部隊遭襲事件】聯合國秘書長發言人4日在例行記者會上宣讀秘書長宣告，譴責聯合國駐黎巴嫩臨時部隊一處陣地3日遭迫擊炮彈擊中，造成一名維和人員死亡、兩名維和人員受傷的事件。宣告說，針對維和人員的襲擊必須停止，相關事件必須得到迅速調查，責任人必須被追究責任。秘書長再次敦促各方尊重2026年4月16日宣佈的停止敵對行動，並表示聯合國將繼續支援外交努力，推動延長停止敵對行動和全面落實安理會第1701號決議。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e93a4-9800-711f-ac53-4707b1437b0b",
-      "time": "2026-06-05 01:18:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Putin said Russia needs to bolster its air-defence capabilities and that some Ukrainian drones have penetrated defenses and entered Russian territory."
-    },
-    {
-      "id": "4917931",
-      "time": "2026-06-05 01:18:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：特朗普在阿拉斯加向俄羅斯提出了若干妥協要求，俄羅斯已做好準備。"
-    },
-    {
-      "id": "4917930",
-      "time": "2026-06-05 01:18:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威天然氣運輸公司Gassco計劃於6月4日17:15至6月5日04:00暫停 Troll 氣田供氣，日減供量為1000萬立方米。"
-    },
-    {
-      "id": "4917929",
-      "time": "2026-06-05 01:17:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們已準備好透過和平方式與烏克蘭達成協議。"
     }
   ]
 }
