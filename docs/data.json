@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-12 05:26:55",
-  "count": 18421,
+  "updated": "2026-06-12 05:30:49",
+  "count": 18423,
   "items": [
+    {
+      "id": "mkt:019eb897-77a0-7dd8-afcb-e109fa04df6d",
+      "time": "2026-06-12 05:29:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "SHEL.O",
+        "Impact mixed"
+      ],
+      "text": "Venezuela signed an oil and gas agreement with Shell that includes Shell's participation in the Loran offshore gas field project."
+    },
+    {
+      "id": "4931267",
+      "time": "2026-06-12 05:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "日產汽車總裁：公司將藉助人工智慧把新車型的研發週期縮短一半，加快產品上市節奏。"
+    },
+    {
+      "id": "4931266",
+      "time": "2026-06-12 05:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：“推遲密歇根-安大略”大橋開放是美國的請求。"
+    },
     {
       "id": "4931265",
       "time": "2026-06-12 05:23:44",
@@ -169877,14 +169905,6 @@
         "MKT News"
       ],
       "text": "Fox News reported the Trump administration plans to issue a policy statement telling banks they may take customers' immigration status into account as one factor when evaluating ability to repay mortgages and credit-card debt."
-    },
-    {
-      "id": "4918190",
-      "time": "2026-06-05 05:29:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國將讓銀行業關注客戶的移民狀態。美國消費者金融保護局（CFPB）將於6月5日釋出銀行業政策。"
     }
   ]
 }
