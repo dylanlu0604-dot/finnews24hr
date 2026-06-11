@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-11 23:38:29",
-  "count": 18480,
+  "updated": "2026-06-11 23:42:23",
+  "count": 18486,
   "items": [
+    {
+      "id": "mkt:019eb757-d182-7dd8-afc5-f439ecb3fad4",
+      "time": "2026-06-11 23:40:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU high representative for foreign affairs and security policy kallas said a return to full-scale war would exact a heavy toll across the Middle East and that diplomacy remains the best way to end the fighting."
+    },
+    {
+      "id": "mkt:019eb757-c020-7dd8-afc5-e993109c7f0c",
+      "time": "2026-06-11 23:40:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU high representative for foreign affairs and security policy Kallas discussed the latest escalation in the Middle East conflict with Kuwait's foreign minister."
+    },
+    {
+      "id": "4930940",
+      "time": "2026-06-11 23:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東局勢令歐洲經濟復甦前景黯淡】美國《紐約時報》近日發表題為“歐洲正目睹其經濟復甦漸行漸遠”的文章稱，伊朗戰事爆發，能源價格飆升，歐洲經濟近年來的復甦程序被倉促打斷。如今三個多月過去，停火協議仍未達成，霍爾木茲海峽也未開放，歐洲經濟復甦的前景也愈發黯淡。（CCTV國際時訊）"
+    },
+    {
+      "id": "4930939",
+      "time": "2026-06-11 23:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：特朗普不滿對伊打擊“反響冷淡” 認為伊朗和媒體都沒當回事】據美媒報道：據兩位瞭解特朗普反應的人士透露，特朗普本週在下令對伊朗發動新一輪打擊後感到憤怒，因為他認為無論是德黑蘭方面還是媒體，都沒有將美軍的這次軍事行動視為足夠有力。"
+    },
+    {
+      "id": "mkt:019eb757-32fd-7dd8-afc5-e39b84b6c99e",
+      "time": "2026-06-11 23:40:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US media: Trump angry strike on Iran drew \"lukewarm\" reaction; believes Iran and media did not take it seriously】CNN, citing two people familiar with his reaction, reported Trump was angry this week after ordering a new round of strikes on Iran because he believed neither Tehran nor the media regarded the US military action as sufficiently forceful."
+    },
+    {
+      "id": "4930938",
+      "time": "2026-06-11 23:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：重返全面戰爭將使整個中東地區付出巨大代價，外交途徑仍是擺脫這場戰爭的最佳出路。"
+    },
+    {
+      "id": "4930937",
+      "time": "2026-06-11 23:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：還與科威特外交部長討論了近期中東衝突升級的問題。"
+    },
     {
       "id": "4930936",
       "time": "2026-06-11 23:37:33",
@@ -38,6 +95,16 @@
       "text": "Iran's parliament speaker Ghalibaf warned that flawed strategy and impulsive decisions would reset the situation for the worse, ignite disruptions to energy infrastructure and markets, and create a prolonged, potentially open-ended quagmire. He said observers would see a markedly different Iran."
     },
     {
+      "id": "4930934",
+      "time": "2026-06-11 23:37:04",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【搭乘AI浪潮順風車還是為美股嚴重回撥佈局 對沖基金看法不一】是搭乘AI浪潮的順風車，還是為美股潛在的嚴重回撥做好準備，就連對沖基金也看法不一。Andreas Halvorsen旗下管理著超過500億美元資產的Viking Global Investors是少數持謹慎觀點的公司之一。Halvorsen最近對投資者表示，他的對沖基金已將淨敞口降至歷史平均水平以下。他對AI領域的高估值和高額資本支出表示擔憂，並認為鑑於美國經濟增長脆弱、通脹高企以及地緣政治局勢動盪，安全空間有限。"
+    },
+    {
       "id": "mkt:019eb754-4208-7dd8-afc5-cb190bab40ad",
       "time": "2026-06-11 23:36:52",
       "tags": [
@@ -48,6 +115,15 @@
         "S&P500"
       ],
       "text": "June 11 (Thursday) European closes: Germany's DAX up 9.82 pts (+0.04%) at 24,228.14; UK FTSE 100 up 51.45 pts (+0.50%) at 10,306.26; France's CAC 40 up 38.97 pts (+0.48%) at 8,200.80; STOXX Europe 50 up 47.65 pts (+0.79%) at 6,057.60; Spain's IBEX 35 up 156.19 pts (+0.86%) at 18,298.89; Italy's FTSE MIB up 504.33 pts (+1.01%) at 50,533.50."
+    },
+    {
+      "id": "4930933",
+      "time": "2026-06-11 23:35:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行接近三年來首次加息 拉加德警告通脹擴散風險】歐洲央行在接近三年來首次加息，行長拉加德警告稱，由伊朗戰爭引發的通脹正在擴散，不再侷限於能源領域。存款利率從2%上調至2.25%，符合經濟學家和投資者的預期，他們預計9月份還會再加息25個基點。歐洲央行重申不會預先承諾未來行動，但表示仍處於有利位置，能夠應對當前的不可預測性。行長拉加德對記者表示，衝擊正開始“在整個經濟中”擴散，“直接成本顯而易見，間接成本也在顯現”。她反駁了有關週四一致作出的加息決定屬於預防性舉措的說法。她說：“主要風險將是不作出這類決定，因為如果你任由通脹開始不受控制地上升，那麼要把它帶回價格穩定水平，就會變成困難得多的局面。”"
     },
     {
       "id": "4930932",
@@ -170316,30 +170392,6 @@
         "公司"
       ],
       "text": "明晟公司MSCI北歐國家指數漲0.2%，報392.19點。在十個板塊中，北歐醫療保健板塊漲幅最大。馬士基漲8.3%，在一眾北歐個股裡領跑。"
-    },
-    {
-      "id": "mkt:019e934b-c7ad-711f-ac51-de55992144b3",
-      "time": "2026-06-04 23:41:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index falls for fifth straight day as larger vessel rates slide】The Baltic Dry Index fell for a fifth consecutive session on Thursday as capesize and panamax rates weakened. The BDI slid 87 points, or 2.78%, to 3,037. The capesize index dropped 213 points, or 4.05%, to 5,040; capesize daily earnings fell $1,934 to $42,204. The panamax index fell 36 points to 2,254; panamax daily earnings declined $322 to $20,285. The supramax index rose 1 point to 1,584."
-    },
-    {
-      "id": "4917823",
-      "time": "2026-06-04 23:41:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：埃法日聯合體獲得德國一項價值 1.1 億歐元的工程合約。"
-    },
-    {
-      "id": "4917822",
-      "time": "2026-06-04 23:38:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：得克薩斯州總檢察長通報已對 Celsius 能量飲料公司展開調查。"
     }
   ]
 }
