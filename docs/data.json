@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-12 03:58:17",
-  "count": 18461,
+  "updated": "2026-06-12 04:01:58",
+  "count": 18453,
   "items": [
+    {
+      "id": "mkt:019eb846-60d0-7dd8-afca-7378cc16a81b",
+      "time": "2026-06-12 04:01:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【U.S. close: Nasdaq +2.5% as US‑Iran deal hopes resurface】U.S. stocks closed higher on Thursday after Trump said a U.S.-Iran deal could be signed in Europe this weekend. The Dow rose 1.86%, the S&P 500 gained 1.75% and the Nasdaq Composite advanced 2.5%. Intel (INTC.O) and Super Micro (SMCI.O) jumped 9%, NVIDIA (NVDA.O) rose 2% and Tesla (TSLA.O) climbed just over 4%. The Nasdaq Golden Dragon China Index added 0.24%; Alibaba (BABA.N) and JD.com (JD.O) fell more than 1%."
+    },
+    {
+      "id": "4931218",
+      "time": "2026-06-12 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.86%，標普500指數漲1.74%，納指漲2.50%。閃迪漲14.66%，科磊漲12.90%，林氏研究漲12.65%，美光漲11.66%。“七姐妹”方面：特斯拉漲4.65%，英偉達漲2.19%，亞馬遜漲1.40%，蘋果漲1.28%，谷歌漲1.00%，Meta Platforms跌0.43%，微軟跌1.75%。"
+    },
+    {
+      "id": "4931217",
+      "time": "2026-06-12 04:00:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城晶片指數收盤上漲7.9%，創2025年4月以來最大單日漲幅。"
+    },
+    {
+      "id": "4931216",
+      "time": "2026-06-12 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.34%】海天網路漲27.02%，塗鴉智慧漲14.84%，大全新能源漲7.54%，晶科能源漲6.13%，億咖通科技漲4.88%。"
+    },
     {
       "id": "4931215",
       "time": "2026-06-12 03:52:06",
@@ -170095,115 +170134,6 @@
         "Energy"
       ],
       "text": "Investors' demand for clarity on Venezuela's measures to revive its oil-rich economy and restructure debt has prompted JP Morgan and Jefferies to arrange fact‑finding visits to Caracas. Jefferies executives visited this week and are considering a return in the coming weeks; JP Morgan is working to schedule a trip and may bring clients."
-    },
-    {
-      "id": "4918117",
-      "time": "2026-06-05 04:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及普爾特出任代理國家情報總監：該任命為臨時安排，短期內他大機率能高效履職。"
-    },
-    {
-      "id": "mkt:019e9439-df73-755d-92d5-e56ff51787d8",
-      "time": "2026-06-05 04:01:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the combined value of Fannie Mae and Freddie Mac could be as high as $1 trillion."
-    },
-    {
-      "id": "mkt:019e9439-cdcf-755d-92d5-dc68697c33b7",
-      "time": "2026-06-05 04:01:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "AVGO.O",
-        "Impact bearish",
-        "MU.O",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【US close: Dow hits record high; Broadcom tumbles over 12%】US stocks closed Thursday. Dow Jones Industrial Average rose about 1.7% to a record close; S&P 500 up 0.4%; Nasdaq Composite marginally lower. NVIDIA (NVDA.O) +~2%; Micron Technology (MU.O) -7.7%; Broadcom (AVGO.O) -over 12%. Nasdaq Golden Dragon China Index -0.6%; XPeng (XPEV.N) -3.5%."
-    },
-    {
-      "id": "4918116",
-      "time": "2026-06-05 04:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特不會長期擔任情報主管。"
-    },
-    {
-      "id": "4918115",
-      "time": "2026-06-05 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.73%，標普500指數漲0.41%，納指跌0.07%。黑石漲7.50%，休曼納漲6.80%，羅賓漢漲6.60%，Axon Enterprise漲6.59%，Ciena科技跌13.58%，博通跌12.59%。“七姐妹”方面：谷歌漲3.87%，英偉達漲1.92%，亞馬遜漲1.51%，Meta Platforms漲0.69%，蘋果漲0.34%，微軟漲0.19%，特斯拉跌1.24%。"
-    },
-    {
-      "id": "4918114",
-      "time": "2026-06-05 04:00:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及普爾特：他十分精明。房利美、房地美的價值可能有1萬億美元。"
-    },
-    {
-      "id": "4918113",
-      "time": "2026-06-05 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.53%】海天網路跌22.77%，中進醫療跌15.89%，逸仙電商跌12.07%，金生遊樂跌10.73%，1藥網跌10.27%。"
-    },
-    {
-      "id": "mkt:019e9438-34b1-755d-92d5-d058dcd44802",
-      "time": "2026-06-05 03:59:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said on Ukraine it would be good if Zelenskiy and Putin could meet."
-    },
-    {
-      "id": "4918112",
-      "time": "2026-06-05 03:59:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，海天網路跌23.35%，中進醫療跌15.89%，逸仙電商跌10.78%，金生遊樂跌10.73%，1藥網跌10.27%。"
-    },
-    {
-      "id": "4918111",
-      "time": "2026-06-05 03:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對俄烏雙方商討會面一事感到欣慰。"
-    },
-    {
-      "id": "4918110",
-      "time": "2026-06-05 03:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若澤連斯基與普京舉行會晤，將是件好事。"
-    },
-    {
-      "id": "4918109",
-      "time": "2026-06-05 03:58:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就澤連斯基致普京的信發表評論：很高興他們正在對話。"
     }
   ]
 }
