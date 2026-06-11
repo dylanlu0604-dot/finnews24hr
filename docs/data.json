@@ -1,7 +1,594 @@
 {
-  "updated": "2026-06-12 04:05:49",
-  "count": 18459,
+  "updated": "2026-06-12 04:41:14",
+  "count": 18430,
   "items": [
+    {
+      "id": "te:markets:558462",
+      "time": "2026-06-12 04:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Slips Toward $86 — Crude oil fell more than 4% toward $86 per barrel on Thursday, the lowest since April, after President Trump suspended planned attacks against Iran scheduled for tonight, while also suggesting that Washington and Tehran were close to reaching an agreement to end the war. He later told reporters that a deal including the reopening of the Strait of Hormuz could be signed as early as this weekend. Meanwhile, Iran's semi-official Fars news agency reported that Tehran was likely to approve the agreement, though it has yet to give a formal response. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased."
+    },
+    {
+      "id": "4931249",
+      "time": "2026-06-12 04:39:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以方稱特朗普承諾美伊協議將包括移除伊朗濃縮鈾等內容】當地時間11日晚，以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普進行了通話，雙方就正在擬定中的、旨在開啟後續談判的“美伊諒解備忘錄”進行了討論。宣告稱，儘管以色列並不是這份諒解備忘錄的簽署方，但內塔尼亞胡對特朗普的承諾表示感謝，即在談判結束時達成的最終協議中，將包括移除伊朗的濃縮鈾、拆除濃縮鈾基礎設施、限制伊朗導彈生產，並停止伊朗對地區代理人的支援等內容。（央視新聞）"
+    },
+    {
+      "id": "te:markets:558461",
+      "time": "2026-06-12 04:39:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Geopolitical Risks Ease — The Ibovespa jumped 1.7% to close at a record 171,497 on Thursday after President Donald Trump withdrew threats of military strikes against Iran, easing geopolitical concerns. The reversal came just hours before the strikes were expected to take place, as negotiations with Iran reportedly advanced to the highest levels of the country's leadership and received backing from a broad coalition of regional powers. Oil prices fell on the news, easing inflation concerns and pushing bond yields lower. Financials led gains, with Itaú rising 2.9% and Bradesco adding 2.4%. Vale gained 1.4% after inaugurating its first AI-powered high-tech plant. Utilities also advanced, with Axia up 3.4% after completing the assignment of credits held against Amazonas Energi, while Engie jumped 3.9% after approving a share offering linked to its planned acquisition of a stake in the Jirau hydroelectric plant. In the services sector, Rede D'Or climbed 4.7% after completing its third share buyback program."
+    },
+    {
+      "id": "mkt:019eb869-574c-7dd8-afcb-a515ba7d0a79",
+      "time": "2026-06-12 04:39:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said if Iran intended to abandon its principled stance under pressure or threats, it would have done so a year ago."
+    },
+    {
+      "id": "mkt:019eb868-9408-7dd8-afcb-9aa88b6a5b91",
+      "time": "2026-06-12 04:38:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesman said reports of an agreement are speculative and no final decision has been reached."
+    },
+    {
+      "id": "mkt:019eb867-7aab-7dd8-afcb-90b296997a67",
+      "time": "2026-06-12 04:37:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said the Strait of Hormuz has become less secure due to U.S. actions."
+    },
+    {
+      "id": "4931248",
+      "time": "2026-06-12 04:37:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：有關協議的相關說法均為猜測，目前尚無任何內容敲定。伊朗尚未就相關協議作出最終決定。"
+    },
+    {
+      "id": "mkt:019eb867-01e4-7dd8-afcb-8f3b540cf58e",
+      "time": "2026-06-12 04:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran has not yet made a final decision on the agreement."
+    },
+    {
+      "id": "4931247",
+      "time": "2026-06-12 04:35:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體援引伊朗外交部發言人表態稱，受美方行動影響，霍爾木茲海峽局勢安全程度有所下降。"
+    },
+    {
+      "id": "te:markets:558460",
+      "time": "2026-06-12 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.85% Higher — The Dow Jones Index went up by 923 points or 1.85 percent on Thursday to close at 50841 points. The rise was led by Honeywell International (6.43%), Boeing (5.79%) and Amgen (4.91%)."
+    },
+    {
+      "id": "mkt:019eb864-3f8f-7dd8-afcb-810b45e4f565",
+      "time": "2026-06-12 04:33:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Prime Minister Starmer appoints Dan Jarvis as defence secretary】On the 11th Prime Minister Starmer appointed Dan Jarvis as defence secretary, replacing John Healey, who resigned the same day. Downing Street said Jarvis had been minister of state for security at the Home Office, with long responsibility for domestic security, counter‑terrorism and border security. Healey posted an open letter to Starmer on social media saying he was resigning because the government had failed to provide sufficient funding for defence."
+    },
+    {
+      "id": "mkt:019eb862-a5ab-7dd8-afcb-7de920e3a0e2",
+      "time": "2026-06-12 04:32:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV cited sources saying talks on Lebanon and regional security will continue after a US-Iran agreement is reached."
+    },
+    {
+      "id": "mkt:019eb861-50bc-7dd8-afcb-76c0ecac44cf",
+      "time": "2026-06-12 04:30:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $13.56bn in the week to June 5, versus a $32.69bn decline the prior week."
+    },
+    {
+      "id": "mkt:019eb861-2362-7dd8-afcb-6cab5c0479a9",
+      "time": "2026-06-12 04:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.5) | actual -13555000000.000002B | previous -32686000000B"
+    },
+    {
+      "id": "4931246",
+      "time": "2026-06-12 04:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，伊朗不會在自身紅線問題上妥協。"
+    },
+    {
+      "id": "mkt:019eb860-0f99-7dd8-afcb-6760cd13281d",
+      "time": "2026-06-12 04:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesperson said negotiations were clear from the outset and most of the text has been agreed, but the US has repeatedly shifted its position. Iran said it will not tolerate concessions on its defined red-line issues."
+    },
+    {
+      "id": "4931245",
+      "time": "2026-06-12 04:29:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，談判文字大部分內容已敲定，但美方卻不斷更改立場。"
+    },
+    {
+      "id": "mkt:019eb85f-0a65-7dd8-afcb-58e18bb34dce",
+      "time": "2026-06-12 04:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Qatar and Pakistan, acting as mediators, are actively engaged, but US actions have affected the diplomatic process."
+    },
+    {
+      "id": "4931244",
+      "time": "2026-06-12 04:28:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，卡達與巴基斯坦積極充當調停方，但美國的相關舉動正干擾外交程序。"
+    },
+    {
+      "id": "mkt:019eb85a-d8a8-7dd8-afcb-579692fdcee1",
+      "time": "2026-06-12 04:23:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump says all Iranian parties have approved U.S.-Iran agreement】On June 11 Trump said Iran’s supreme leader has agreed to a U.S.-Iran memorandum of understanding and that all Iranian parties have approved it. He called the MoU very strong and very detailed, said Iran would not possess nuclear weapons, and said the Strait of Hormuz would reopen immediately once the MoU is signed. He added a Kharg Island operation is not under consideration."
+    },
+    {
+      "id": "te:markets:558458",
+      "time": "2026-06-12 04:23:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Rise on Easing Geopolitical Risks — The S&P/TSX Composite Index gained 1.5% to close at 34,671 on Thursday after US President Donald Trump withdrew threats of military strikes against Iran, easing geopolitical concerns. The reversal came just hours before the strikes were expected to take place, as negotiations with Iran reportedly advanced to the highest levels of the country's leadership and received backing from a broad coalition of regional powers. Oil prices fell on the news, easing inflation concerns and pushing bond yields lower. Financial stocks advanced, with TD Bank rising 1.6%. Mining shares also gained as gold prices moved higher, with Agnico Eagle up 3.5% and Barrick adding 5.3%. Technology stocks were supported by a rebound in semiconductor shares following recent weakness in the sector, with Shopify gaining 2.2% and Celestica surging 6.1%. Meanwhile, Dollarama jumped 9% after reporting quarterly sales and earnings that exceeded expectations."
+    },
+    {
+      "id": "mkt:019eb85a-2a8c-7dd8-afcb-4ee1a02e9794",
+      "time": "2026-06-12 04:22:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump declines to set deadline for US-Iran deal】President Trump said at a Thursday press conference he would not set a deadline for a final US-Iran agreement, saying critics would later claim he had failed to meet it. He added the timing 'won't matter much' because a deal will be signed."
+    },
+    {
+      "id": "4931243",
+      "time": "2026-06-12 04:22:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗各方均已批准美伊協議】當地時間6月11日，美國總統特朗普談及美伊協議稱，據他了解，伊朗最高領袖已同意該協議，伊朗各方均已批准該協議。他還表示，這是一份非常有力、非常詳盡的諒解備忘錄。特朗普還稱，伊朗將不會擁有核武器。特朗普表示，一旦簽署諒解備忘錄，霍爾木茲海峽將立即開放。他還稱，哈爾克島行動不在考慮之列。此前，一名接近伊朗談判團隊的知情人士稱，伊朗“尚未批准任何與美國達成的初步諒解備忘錄文字”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb859-176d-7dd8-afcb-464f7b1076e2",
+      "time": "2026-06-12 04:21:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump concluded a White House speech."
+    },
+    {
+      "id": "4931241",
+      "time": "2026-06-12 04:20:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束在白宮的講話。"
+    },
+    {
+      "id": "4931240",
+      "time": "2026-06-12 04:19:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相任命丹·賈維斯出任國防大臣】當地時間11日，英國首相斯塔默宣佈，任命丹·賈維斯接替辭職的約翰·希利出任英國國防大臣。唐寧街方面表示，賈維斯此前擔任內政部安全事務國務大臣，長期負責英國國內安全、反恐及邊境安全等事務。當地時間11日，約翰·希利宣佈辭職。希利當天在社交媒體釋出致首相斯塔默的公開信表示，由於政府未能為國防建設提供足夠資金支援，他決定辭去國防大臣職務。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb857-240b-7dd8-afcb-3b3b35126079",
+      "time": "2026-06-12 04:19:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "U.S. SEC filings show Alphabet (GOOG.O) shareholder proposals seeking reports on water use and on artificial intelligence governance failed to pass at the company's annual shareholder meeting."
+    },
+    {
+      "id": "4931239",
+      "time": "2026-06-12 04:19:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示： 谷歌母公司Alphabet經諮詢審議，批准向指定高管發放薪酬。股東大會未透過有關用水及人工智慧報告的股東提案。"
+    },
+    {
+      "id": "mkt:019eb856-4d10-7dd8-afcb-355ebbb92754",
+      "time": "2026-06-12 04:18:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said he is considering providing some form of assistance to the fertilizer market."
+    },
+    {
+      "id": "4931238",
+      "time": "2026-06-12 04:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及化肥價格：戰事一結束，化肥價格就會回落。"
+    },
+    {
+      "id": "4931237",
+      "time": "2026-06-12 04:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：考慮以某種形式在化肥方面為農戶提供幫扶。"
+    },
+    {
+      "id": "4931236",
+      "time": "2026-06-12 04:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談化肥價格：可能會考慮聯邦援助。"
+    },
+    {
+      "id": "mkt:019eb854-5413-7dd8-afcb-29cae14df82f",
+      "time": "2026-06-12 04:16:34",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Saudi state television, citing sources, reported that a draft framework agreement between the US and Iran would have both sides commit to an immediate halt to offensive military actions. The draft bars military strikes during the implementation period and calls for any violations to be resolved via a mediators' coordination mechanism."
+    },
+    {
+      "id": "te:markets:558456",
+      "time": "2026-06-12 04:16:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise Sharply — US stocks closed sharply higher on Thursday, with the S&P 500 rising 1.8%, the Nasdaq gaining 2.5%, and the Dow Jones climbing 930 points. Investor sentiment improved amid a pullback in oil prices after President Trump cancelled strikes against Iran after earlier threatening \"very hard\" attacks tonight. He also claimed a deal had been agreed in principle by several allies in the Middle East, including Israel, without elaborating. Further support came from a rally in technology shares as investors positioned themselves ahead of SpaceX's expected IPO tomorrow. Micron and AMD soared 11% and 8%, respectively, while Lam Research added 12.7% and Intel jumped over 10% after being upgraded by BofA on soaring CPU orders. On the other hand, Oracle slipped nearly 9% as investors focused on a cloud revenue miss and rising AI infrastructure costs despite an earnings beat. On the data front, PPI data pointed to accelerating prices in May, consolidating bets that the Fed will raise rates this year."
+    },
+    {
+      "id": "4931235",
+      "time": "2026-06-12 04:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：特朗普今晚與內塔尼亞胡就即將與伊朗達成的諒解備忘錄進入談判階段進行了通話。雖然以色列不是該諒解備忘錄的締約方，但總理對特朗普的承諾表示讚賞，即談判結束後的最終協議將包括移除濃縮材料、拆除濃縮基礎設施、限制導彈生產以及停止伊朗對該地區其代理人的支援。"
+    },
+    {
+      "id": "mkt:019eb853-0b0c-7dd8-afcb-25af6408535e",
+      "time": "2026-06-12 04:15:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Israel's prime minister's office said Trump spoke with Netanyahu tonight about a memorandum of understanding with Iran entering the negotiation stage. Although Israel is not a party to the MOU, Netanyahu welcomed Trump's commitment that the eventual agreement, once negotiations conclude, would include removal of enriched material, dismantling of enrichment infrastructure, limits on missile production and an end to Iran's support for its regional proxies."
+    },
+    {
+      "id": "4931234",
+      "time": "2026-06-12 04:12:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美滿電子（邁威爾科技）美股盤後跌2%，該公司任命Dan Durn為首席財務官（CFO），6月15日生效。"
+    },
+    {
+      "id": "mkt:019eb850-6942-7dd8-afcb-1ce6a0e9707b",
+      "time": "2026-06-12 04:12:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Pu Erte will briefly serve as Director of National Intelligence."
+    },
+    {
+      "id": "4931233",
+      "time": "2026-06-12 04:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特將臨時執掌國家情報總監一職。"
+    },
+    {
+      "id": "mkt:019eb84e-0c7b-7dd8-afcb-11a177994054",
+      "time": "2026-06-12 04:09:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the United States has achieved a military victory in its war against Iran."
+    },
+    {
+      "id": "mkt:019eb84d-edfb-7dd8-afcb-0c676208fe9c",
+      "time": "2026-06-12 04:09:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iranians have an opportunity to rebuild their country and that Iran has been severely destroyed."
+    },
+    {
+      "id": "mkt:019eb84d-8d39-7dd8-afcb-04b18a379b56",
+      "time": "2026-06-12 04:09:10",
+      "tags": [
+        "MKT News",
+        "ADBE.O",
+        "Impact bullish"
+      ],
+      "text": "Adobe (ADBE.O) expects Q3 revenue of $6.67-6.72 bln, versus prior guidance of $6.51 bln."
+    },
+    {
+      "id": "4931232",
+      "time": "2026-06-12 04:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊核協議：哈爾格島相關行動已作罷。"
+    },
+    {
+      "id": "mkt:019eb84d-37f4-7dd8-afca-fbe0f3b48d4a",
+      "time": "2026-06-12 04:08:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the strait has been open for months; you just haven't noticed."
+    },
+    {
+      "id": "mkt:019eb84d-2b90-7dd8-afca-f058ed685538",
+      "time": "2026-06-12 04:08:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said on Iran he does not want to set a deadline for reaching an agreement."
+    },
+    {
+      "id": "4931231",
+      "time": "2026-06-12 04:08:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普： 海峽數月以來一直處於通航狀態，只是外界並不知情。我不會為協議設定最後期限。協議簽署後海峽就將恢復通航，時間可能在週六或週一。"
+    },
+    {
+      "id": "mkt:019eb84c-ca14-7dd8-afca-ec70a52beaa2",
+      "time": "2026-06-12 04:08:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said a military operation to seize Kharg Island has been ruled out."
+    },
+    {
+      "id": "mkt:019eb84c-5a0f-7dd8-afca-e51acef5ab2c",
+      "time": "2026-06-12 04:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said he finds Iran to be rational and expects them to reach an agreement."
+    },
+    {
+      "id": "mkt:019eb84c-4009-7dd8-afca-dc493a982845",
+      "time": "2026-06-12 04:07:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the strait may open on Saturday or next Monday."
+    },
+    {
+      "id": "mkt:019eb84b-e994-7dd8-afca-d2a09ceba44b",
+      "time": "2026-06-12 04:07:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the agreement is very good for the US and the Middle East, and he believes it will also be great for Iran."
+    },
+    {
+      "id": "4931230",
+      "time": "2026-06-12 04:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe（奧多比）第二財季營收66.2億美元，分析師預期64.5億美元。\n第二財季調整後每股收益（EPS）為5.96美元，分析師預期5.83美元。\n預計全年營收265億-266億美元，公司原本預計259億-261億美元。\n預計全年調整後EPS為24.35-24.45美元，公司原本預計23.30-23.50美元。\n預計第三財季營收66.7億-67.2億美元，分析師預期65.1億美元。\n預計第三財季調整後EPS為6.05-6.10美元，分析師預期5.77美元。"
+    },
+    {
+      "id": "mkt:019eb84b-cdc8-7dd8-afca-cde922cbc5b6",
+      "time": "2026-06-12 04:07:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump: The Strait of Hormuz will be opened immediately after a memorandum of understanding is signed."
+    },
+    {
+      "id": "4931229",
+      "time": "2026-06-12 04:07:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們認為伊朗方面態度理性，雙方將會達成協議。"
+    },
+    {
+      "id": "4931228",
+      "time": "2026-06-12 04:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗對達成協議表現出極大的熱情。"
+    },
+    {
+      "id": "mkt:019eb84b-119c-7dd8-afca-c429914ef33e",
+      "time": "2026-06-12 04:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey found 42 of 45 economists expect the Reserve Bank of Australia to keep the cash rate at 4.35% on June 16. In the same survey, 26 of 44 economists forecast the cash rate at 4.35% at end-September; 18 expect 4.60% or higher."
+    },
+    {
+      "id": "4931227",
+      "time": "2026-06-12 04:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相：任命Dan Jarvis為國防大臣。"
+    },
+    {
+      "id": "4931226",
+      "time": "2026-06-12 04:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：根據該協議，伊朗將不得擁有核武器。"
+    },
+    {
+      "id": "mkt:019eb84a-5b46-7dd8-afca-bb4e74874549",
+      "time": "2026-06-12 04:05:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the Iran agreement will be completed."
+    },
+    {
+      "id": "mkt:019eb84a-3e18-7dd8-afca-b749fc8c4401",
+      "time": "2026-06-12 04:05:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "U.S. equities closed higher on Thursday, June 11: the Dow Jones Industrial Average rose 929.60 points, or 1.86%, to 50,848.38; the S&P 500 gained 127.25 points, or 1.75%, to 7,394.24; the Nasdaq Composite added 640.16 points, or 2.54%, to 25,809.66."
+    },
     {
       "id": "mkt:019eb84a-1e07-7dd8-afca-a960c8c19656",
       "time": "2026-06-12 04:05:25",
@@ -169376,820 +169963,6 @@
         "觀點"
       ],
       "text": "【6月5日美股成交額前20：博通財測平淡股價大跌12.6%】第3名博通收跌12.59%，成交億美元。儘管博通交出了強勁的季度業績並上調了增長預期，但因未進一步提高全年人工智慧業務收入展望，其股價週四大跌，並拖累英偉達、AMD等半導體板塊整體走弱。市場擔憂主要源於投資者對AI概念股的預期已大幅提高，任何增長指引未進一步上調的訊號都可能觸發獲利回吐。不過，多家華爾街機構認為市場反應過度。伯恩斯坦分析師指出，博通AI業務仍將保持約200%的同比增速，2027財年AI半導體收入有望突破千億美元，且高毛利率和運營槓桿足以抵消利潤率壓力。高盛也建議積極買入，認為公司2027年增長前景明朗，定製晶片專案進展順利且供應鏈有保障。KeyBanc和瑞穗紛紛上調目標價，僅麥格理將評級下調至“中性”。"
-    },
-    {
-      "id": "4918168",
-      "time": "2026-06-05 04:41:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：以色列對黎巴嫩南部城市提爾發動空襲。"
-    },
-    {
-      "id": "mkt:019e945e-5a3a-7cc8-bdee-67af1c0aac15",
-      "time": "2026-06-05 04:41:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Al Jazeera reports Israel carried out airstrikes on the southern Lebanese city of Tyre."
-    },
-    {
-      "id": "4918167",
-      "time": "2026-06-05 04:39:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普白宮講話結束。"
-    },
-    {
-      "id": "4918166",
-      "time": "2026-06-05 04:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱將很快提名布蘭奇出任司法部長。"
-    },
-    {
-      "id": "mkt:019e945b-391d-7cc8-bdee-581990930850",
-      "time": "2026-06-05 04:37:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Cuba is facing food shortages and lacks energy and oil."
-    },
-    {
-      "id": "4918165",
-      "time": "2026-06-05 04:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：汽車製造商並未要求關稅調整。"
-    },
-    {
-      "id": "mkt:019e9459-eb79-7cc8-bdee-53891ac1205c",
-      "time": "2026-06-05 04:36:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says progress in Lebanon-Israel peace talks】Trump said on the 4th that although Hezbollah earlier rejected a U.S.-brokered peace plan, negotiations remain underway and have made some progress. He said the Lebanon situation is linked to Iran and that parties have contacted the U.S. to discuss a ceasefire — \"they called us asking whether the fighting could stop.\" Trump added he has spoken with Israeli Prime Minister Netanyahu and has had contact with Hezbollah."
-    },
-    {
-      "id": "4918164",
-      "time": "2026-06-05 04:35:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱黎以和平談判取得一定進展】當地時間4日，美國總統特朗普表示，儘管黎巴嫩真主黨此前拒絕美國斡旋的和平方案，但相關談判仍在推進之中，並已取得一定進展。特朗普表示，黎巴嫩局勢與伊朗問題相互關聯。他透露，相關方面曾主動與美方聯絡討論停火問題。“他們給我們打電話，詢問是否能夠停止衝突。”特朗普說。特朗普稱，他已就此問題與以色列總理內塔尼亞胡進行了溝通，同時也與黎巴嫩真主黨方面進行了接觸。（央視新聞）"
-    },
-    {
-      "id": "4918163",
-      "time": "2026-06-05 04:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及汽車行業會談：會談內容主要圍繞汽車維修展開。"
-    },
-    {
-      "id": "te:markets:556586",
-      "time": "2026-06-05 04:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.73% Higher — The Dow Jones Index went up by 875 points or 1.73 percent on Thursday to close at 51562 points. The rise was led by UnitedHealth (5.36%), Goldman Sachs (4.98%) and Merck (4.86%)."
-    },
-    {
-      "id": "mkt:019e9457-b9f7-7cc8-bdee-481b756b75d1",
-      "time": "2026-06-05 04:33:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said the U.S. will address the Cuba issue."
-    },
-    {
-      "id": "4918162",
-      "time": "2026-06-05 04:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們會妥善處理古巴問題。"
-    },
-    {
-      "id": "mkt:019e9457-49df-7cc8-bdee-40c9ccea3a05",
-      "time": "2026-06-05 04:33:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he has some very good plans for Cuba."
-    },
-    {
-      "id": "mkt:019e9457-2889-7cc8-bdee-3cfaaaf7bb02",
-      "time": "2026-06-05 04:33:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump: After we finish with Iran, we will deal with Cuba."
-    },
-    {
-      "id": "4918161",
-      "time": "2026-06-05 04:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們先解決伊朗，再來處理古巴。"
-    },
-    {
-      "id": "4918160",
-      "time": "2026-06-05 04:33:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及古巴：該國正陷入糧食短缺困境，缺少能源與石油。古巴可以興建優質度假勝地，但不許開採石油。"
-    },
-    {
-      "id": "4918159",
-      "time": "2026-06-05 04:32:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及對古巴制裁：制裁並非旨在加速（古巴）政權垮臺。我們只希望他們能成為一個管理良好的國家。"
-    },
-    {
-      "id": "te:markets:556585",
-      "time": "2026-06-05 04:31:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Hit Fresh Record High — Canada's S&P/TSX Composite Index rose 1.2% to a record closing high of 35,217 on Thursday, supported by improving global risk sentiment following reports of a conditional ceasefire between Israel and Lebanon, which fueled hopes that a broader agreement involving Iran could be reached. Healthcare, industrial, and financial stocks led the advance, while battery metals and telecommunications shares underperformed. Among the top gainers were Royal Bank of Canada (+1.9%), Toronto-Dominion Bank (+1.2%), Agnico Eagle Mines (+2.9%), and Barrick Mining Corporation (+2.1%). In contrast, TransAlta Corporation and Transcontinental were the session's weakest performers, falling 10.4% and 9.8%, respectively."
-    },
-    {
-      "id": "mkt:019e9455-9817-7cc8-bdee-37dbe5ad7dea",
-      "time": "2026-06-05 04:31:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Foreign official holdings of US Treasuries fell $32.69 bln in the week to May 29; prior week +$12.83 bln."
-    },
-    {
-      "id": "mkt:019e9455-97b4-7cc8-bdee-2ef181df3528",
-      "time": "2026-06-05 04:31:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump, referring to Cuba, said he hopes it becomes a well-governed country."
-    },
-    {
-      "id": "4918158",
-      "time": "2026-06-05 04:31:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將與印度達成相關協議，（美國）與印度關係良好。"
-    },
-    {
-      "id": "mkt:019e9455-6482-7cc8-bdee-23597b8e7738",
-      "time": "2026-06-05 04:31:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (May.29) | actual -32686000000B | previous 12829000000B"
-    },
-    {
-      "id": "mkt:019e9455-48ba-7cc8-bdee-1e6a349a4fea",
-      "time": "2026-06-05 04:31:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "U.S. President Trump said the United States will reach a trade deal with India."
-    },
-    {
-      "id": "4918156",
-      "time": "2026-06-05 04:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及印度貿易協議：沒錯，我們已經敲定了。印度多年來一直在佔美國的便宜。"
-    },
-    {
-      "id": "mkt:019e9452-dd4a-7cc8-bdee-13a452d1d423",
-      "time": "2026-06-05 04:28:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the US will win both militarily and on paper."
-    },
-    {
-      "id": "4918155",
-      "time": "2026-06-05 04:28:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：人工智慧對醫療行業來說將是巨大的福音。"
-    },
-    {
-      "id": "mkt:019e9452-829d-7ee2-873c-b4ff79dd4999",
-      "time": "2026-06-05 04:28:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump, on Iran, said the public will eventually know the agreement's contents and that its main provision is immediate reopening of the strait."
-    },
-    {
-      "id": "4918154",
-      "time": "2026-06-05 04:28:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：無論訴諸軍事手段還是透過紙面協議，我們都將取勝。"
-    },
-    {
-      "id": "4918153",
-      "time": "2026-06-05 04:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：協議核心條款為（伊朗）不得擁有核武器。"
-    },
-    {
-      "id": "mkt:019e9451-fb7e-7ee2-873c-aab7e0d63994",
-      "time": "2026-06-05 04:27:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said the US will take corresponding action against anyone who approaches Iranian nuclear facilities."
-    },
-    {
-      "id": "4918152",
-      "time": "2026-06-05 04:27:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：協議核心內容之一是海峽立即通航。"
-    },
-    {
-      "id": "4918151",
-      "time": "2026-06-05 04:27:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：相關協議內容，後續將會揭曉。"
-    },
-    {
-      "id": "mkt:019e9450-f0a6-7ee2-873c-a3ce1a2a4448",
-      "time": "2026-06-05 04:26:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Trump says the U.S. is using satellites to monitor Iran's nuclear facilities."
-    },
-    {
-      "id": "4918150",
-      "time": "2026-06-05 04:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若能會見伊朗最高領袖，將很榮幸。"
-    },
-    {
-      "id": "mkt:019e944f-179b-755d-92d6-b29c825104d9",
-      "time": "2026-06-05 04:24:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Asked whether he would seize Iran's uranium stockpile, Trump said he would not repeat the weak stance of former US President Carter."
-    },
-    {
-      "id": "4918149",
-      "time": "2026-06-05 04:24:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們有強大的攝像頭監控伊朗的鈾。"
-    },
-    {
-      "id": "mkt:019e944d-bdf3-755d-92d6-af42d5fad91e",
-      "time": "2026-06-05 04:23:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he has not considered covert operations to seize Iran's uranium and that there is no need to recover Iran's nuclear debris because it is buried."
-    },
-    {
-      "id": "mkt:019e944d-8ca5-755d-92d6-a2e4f440f406",
-      "time": "2026-06-05 04:22:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he does not want to meet Iran's Supreme Leader, but would do so if necessary to reach an agreement."
-    },
-    {
-      "id": "4918148",
-      "time": "2026-06-05 04:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：倘若要達成協議，我們可以會面磋商。"
-    },
-    {
-      "id": "4918147",
-      "time": "2026-06-05 04:22:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我不想見伊朗最高領袖。"
-    },
-    {
-      "id": "4918146",
-      "time": "2026-06-05 04:21:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 暫不考慮採取秘密行動奪取伊朗鈾原料。沒有理由去獲取伊朗的核塵埃，它已經被掩埋。"
-    },
-    {
-      "id": "mkt:019e944b-ff83-7ee2-873c-9cce9796820a",
-      "time": "2026-06-05 04:21:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "President Trump said the US does not need a deal with Iran and can obtain Iran's enriched uranium."
-    },
-    {
-      "id": "mkt:019e944b-f1e2-7ee2-873c-902b8099263a",
-      "time": "2026-06-05 04:21:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury said on its website it has sanctioned Cuban President Miguel Díaz."
-    },
-    {
-      "id": "mkt:019e944b-d4cf-755d-92d6-9bc9d9f53c2f",
-      "time": "2026-06-05 04:20:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the United States will take control of Iran's nuclear stockpile."
-    },
-    {
-      "id": "mkt:019e944b-3099-755d-92d6-93b5c024a52f",
-      "time": "2026-06-05 04:20:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Trump says an agreement is likely to be reached to ensure Iran remains free of nuclear weapons."
-    },
-    {
-      "id": "4918145",
-      "time": "2026-06-05 04:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 我們不必透過和伊朗簽署協議，就能拿到伊朗的濃縮鈾。"
-    },
-    {
-      "id": "te:markets:556584",
-      "time": "2026-06-05 04:18:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Dow Closes at New High — The Dow Jones surged 875 points on Thursday to close at a record high, while the S&P 500 gained 0.4%. The Nasdaq underperformed, edging 0.1% lower as investors rotated out of technology stocks and into other sectors. Health care, financials, communication services, and real estate led the market higher. Notable gainers included JPMorgan Chase (+3.3%), Visa (+2.5%), Johnson & Johnson (+4.6%), UnitedHealth Group (+5.2%), and Goldman Sachs (+4.9%). In contrast, tech stocks were the weakest performers. Broadcom plunged 12.6% as its forecast for AI-chip revenue fell short of most expectations. Advanced Micro Devices and Micron Technology also declined, falling 3.6% and 7.7%, respectively. Meanwhile, investors continued to monitor developments in the Middle East. Reports of a conditional ceasefire between Israel and Lebanon raised hopes that a broader agreement involving Iran could be reached, contributing to a decline in oil prices."
-    },
-    {
-      "id": "mkt:019e9449-d221-7ee2-873c-7c8f94ee4ea8",
-      "time": "2026-06-05 04:18:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Switzerland to deploy about 4,000 troops to border during G7 summit in France】Swiss federal government said on June 4 it will deploy about 4,000 armed forces personnel to border areas near the G7 summit venue. The G7 and several other leaders will meet June 15-17 in Evian-les-Bains on the French shore of Lake Geneva; the venue’s proximity to Switzerland has strained cantonal security in Geneva, Vaud and Valais. The Federal Council and parliament approved the troop reinforcement to support cantonal security forces."
-    },
-    {
-      "id": "mkt:019e9449-4250-755d-92d6-8b47f8dbfb5d",
-      "time": "2026-06-05 04:18:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright said Democrats' green-energy policies pose a greater threat to US energy prices than the Iran conflict and have pushed energy costs far more than that dispute."
-    },
-    {
-      "id": "4918144",
-      "time": "2026-06-05 04:18:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞士將在G7法國峰會期間向毗鄰邊境派兵四千】瑞士聯邦政府4日宣佈，本月中旬七國集團（G7）峰會在法國舉行期間，瑞士將在靠近會址的邊境地區部署約4000名武裝部隊成員。 瑞士政府說，6月15日至17日，七國集團成員及其他一些國家的領導人將在日內瓦湖南岸的埃維昂萊班（又稱依雲小鎮）舉行會議。由於會址位於瑞士邊境附近，日內瓦州、沃州和瓦萊州三州的州級安全部隊面臨著嚴峻挑戰，瑞士聯邦委員會和議會為此批准增派軍隊支援。 瑞士政府說，軍事人員將在會議期間負責保護日內瓦機場等敏感基礎設施，併為邊境安全提供支援。空軍將加強空中警戒力量，並在國際合作下，在6月10日13時至18日3時執行空域限制措施，包括部署反無人機系統。 法國埃維昂萊班與位於日內瓦湖北岸、素有“奧林匹克之都”稱號的瑞士洛桑隔湖相望。洛桑與日內瓦相距僅60餘公里。2003年，八國集團峰會在埃維昂萊班舉行時，日內瓦和洛桑發生嚴重騷亂。(新華社)"
-    },
-    {
-      "id": "4918143",
-      "time": "2026-06-05 04:17:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們會得到伊朗的核塵埃。"
-    },
-    {
-      "id": "4918142",
-      "time": "2026-06-05 04:17:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（被問及在處理伊朗問題時是否考慮了美國國內的反應）不，我只是做我認為正確的事。"
-    },
-    {
-      "id": "mkt:019e9448-b0b8-755d-92d6-85b890284e22",
-      "time": "2026-06-05 04:17:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump reiterated that negotiations with Iran are progressing smoothly."
-    },
-    {
-      "id": "mkt:019e9448-0630-755d-92d6-7dc4ebd69c7e",
-      "time": "2026-06-05 04:16:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "US President Trump, asked whether he had considered domestic reaction in handling Iran, said he had not and was just doing what he thought was right."
-    },
-    {
-      "id": "4918141",
-      "time": "2026-06-05 04:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與內塔尼亞胡談了黎巴嫩問題。"
-    },
-    {
-      "id": "4918140",
-      "time": "2026-06-05 04:16:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱伊朗相關談判進展順利。"
-    },
-    {
-      "id": "4918139",
-      "time": "2026-06-05 04:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：委內瑞拉石油出口相比美軍強行擄走總統馬杜羅時高出三倍。"
-    },
-    {
-      "id": "4918138",
-      "time": "2026-06-05 04:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若我們達成協議，伊朗就不會擁有核武器。"
-    },
-    {
-      "id": "4918137",
-      "time": "2026-06-05 04:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗不能擁有核武器。"
-    },
-    {
-      "id": "mkt:019e9446-93ec-755d-92d6-77278d1c0bd6",
-      "time": "2026-06-05 04:15:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump on Iran: They cannot have nuclear weapons."
-    },
-    {
-      "id": "mkt:019e9446-218a-755d-92d6-6cca85522cbc",
-      "time": "2026-06-05 04:14:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said that without U.S. military support, Ukraine would be unable to continue fighting."
-    },
-    {
-      "id": "4918136",
-      "time": "2026-06-05 04:14:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及委內瑞拉：雙邊關係進展喜人。"
-    },
-    {
-      "id": "4918135",
-      "time": "2026-06-05 04:13:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國對古巴總統實施制裁。"
-    },
-    {
-      "id": "mkt:019e9445-1965-755d-92d6-6166dd7825df",
-      "time": "2026-06-05 04:13:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he believes progress has been made on Lebanon."
-    },
-    {
-      "id": "4918134",
-      "time": "2026-06-05 04:13:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及黎巴嫩：認為相關事態取得了進展。"
-    },
-    {
-      "id": "mkt:019e9444-af6d-755d-92d6-5b660d707ebd",
-      "time": "2026-06-05 04:13:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he had communicated with Hezbollah on Lebanon."
-    },
-    {
-      "id": "4918133",
-      "time": "2026-06-05 04:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：以色列-黎巴嫩衝突與伊朗問題息息相關。"
-    },
-    {
-      "id": "4918132",
-      "time": "2026-06-05 04:12:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及黎巴嫩：黎巴嫩若能迎來和平，對該國而言是件好事。"
-    },
-    {
-      "id": "mkt:019e9444-6353-755d-92d6-5149f55538ce",
-      "time": "2026-06-05 04:12:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran still has some missiles remaining, but the number is small."
-    },
-    {
-      "id": "mkt:019e9444-5e85-755d-92d6-4cda1cdc05cd",
-      "time": "2026-06-05 04:12:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he expects developments in Lebanon and that some peace there would be a good thing."
-    },
-    {
-      "id": "4918131",
-      "time": "2026-06-05 04:12:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：真主黨主動聯絡了我們。"
-    },
-    {
-      "id": "mkt:019e9444-102f-755d-92d6-41d408357019",
-      "time": "2026-06-05 04:12:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump on Iran: If they kill US forces, that would be sufficient justification to restart hostilities."
-    },
-    {
-      "id": "4918130",
-      "time": "2026-06-05 04:12:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：倘若伊朗造成美軍人員陣亡，那便是重啟衝突的正當理由。"
-    },
-    {
-      "id": "mkt:019e9443-be38-755d-92d6-3f3b5ee92117",
-      "time": "2026-06-05 04:12:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "The Trump Trade",
-        "FNMA.O",
-        "Impact bullish",
-        "FMCC.O"
-      ],
-      "text": "Fannie Mae and Freddie Mac shares rose 6% on the U.S. OTC market; Trump said the firms could be worth as much as $1 trillion."
-    },
-    {
-      "id": "mkt:019e9443-acd1-755d-92d6-32239f29a1f0",
-      "time": "2026-06-05 04:12:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said on Iran that all 159 of their ships have sunk to the seabed and that we have photographed them there."
-    },
-    {
-      "id": "4918129",
-      "time": "2026-06-05 04:11:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗還剩少量導彈，但所剩無幾。"
-    },
-    {
-      "id": "4918128",
-      "time": "2026-06-05 04:10:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：倘若沒有美國的軍事援助與裝備，烏克蘭無法作戰。"
-    },
-    {
-      "id": "mkt:019e9441-8388-755d-92d6-2b9177476b79",
-      "time": "2026-06-05 04:09:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said you can face roughly four years' imprisonment in the U.S. for killing a bald eagle, yet wind turbines frequently knock them from the air with no consequences; he called that shameful."
-    },
-    {
-      "id": "mkt:019e9441-2c48-755d-92d6-26b7f40578c8",
-      "time": "2026-06-05 04:09:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Labour leader Burnham said he would stand in a Labour leadership contest to try to replace Keir Starmer as UK prime minister if a former cabinet minister mounts an internal challenge."
-    },
-    {
-      "id": "mkt:019e9441-13af-755d-92d6-1c63bed0f99a",
-      "time": "2026-06-05 04:09:13",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US money market fund assets reached a record $7.894 tln."
-    },
-    {
-      "id": "4918127",
-      "time": "2026-06-05 04:08:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已拍攝下被擊沉的伊朗艦船照片。"
-    },
-    {
-      "id": "4918126",
-      "time": "2026-06-05 04:08:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申，伊朗既沒有海軍，也沒有空軍。"
-    },
-    {
-      "id": "4918125",
-      "time": "2026-06-05 04:07:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們幾乎剷除了伊朗所有領導層。"
-    },
-    {
-      "id": "mkt:019e943f-d568-755d-92d6-12629ff2d127",
-      "time": "2026-06-05 04:07:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the US does not need Europe's help in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019e943f-3974-755d-92d6-0d84997f7c77",
-      "time": "2026-06-05 04:07:11",
-      "tags": [
-        "MKT News",
-        "LULU.O",
-        "Impact bullish"
-      ],
-      "text": "Lululemon (LULU.O) Q1 revenue $2.50 bln, above IBES consensus $2.43 bln."
-    },
-    {
-      "id": "4918124",
-      "time": "2026-06-05 04:07:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會（ICI）：美國貨幣市場資產7.894萬億美元，創歷史新高。"
-    },
-    {
-      "id": "4918123",
-      "time": "2026-06-05 04:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽問題不需要歐洲的幫助。"
-    },
-    {
-      "id": "4918122",
-      "time": "2026-06-05 04:05:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "DocuSign預計二季度營收8.65億-8.69億美元，分析師預期8.66億美元。"
     }
   ]
 }
