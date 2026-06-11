@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-12 00:49:43",
-  "count": 18494,
+  "updated": "2026-06-12 00:53:35",
+  "count": 18482,
   "items": [
+    {
+      "id": "4931015",
+      "time": "2026-06-12 00:51:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普授予谷歌公司“AA+”評級；展望穩定。"
+    },
+    {
+      "id": "4931014",
+      "time": "2026-06-12 00:51:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌33美元，報13482美元/噸。LME期鋁收漲36美元，報3502美元/噸。LME期鋅收漲5美元，報3496美元/噸。"
+    },
     {
       "id": "mkt:019eb795-af9d-7dd8-afc7-04a9143fdf96",
       "time": "2026-06-12 00:48:20",
@@ -170306,126 +170322,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：俄羅斯與哈薩克的關係發展非常順利，正“蒸蒸日上”，但在所有議題上的討論卻總是激烈。"
-    },
-    {
-      "id": "4917901",
-      "time": "2026-06-05 00:53:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機構：Strategy出售比特幣繼續拖累價格】Strategy確認出售32個比特幣，這仍然是比特幣價格的一個壓力點——即使這只是該公司持有的比特幣儲備的一小部分。CoinMarketCap的資料顯示，Strategy仍持有超過84.3萬個比特幣，遠遠超過第二大儲備者Twenty One Capital持有的4.3萬多個比特幣。即便如此，此次出售還是讓投資者感到緊張。Grayscale Research的Zach Pandl在一份報告中表示：“全球最大的比特幣持有者之一的策略轉變，已經拖累了市場情緒。”Strategy負責人Michael Saylor一直主張大舉買入並持有比特幣。今日後市，比特幣下跌1.8%，至63,790美元。"
-    },
-    {
-      "id": "mkt:019e938d-f38b-711f-ac52-db1a9b9d8486",
-      "time": "2026-06-05 00:53:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia's ties with Kazakhstan are developing smoothly and are \"thriving,\" but discussions on every issue remain heated."
-    },
-    {
-      "id": "4917900",
-      "time": "2026-06-05 00:52:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所三月期鈷收盤持平，報價每噸 56290 美元。"
-    },
-    {
-      "id": "4917899",
-      "time": "2026-06-05 00:52:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三月期鋅收跌 22 美元，報每噸 3588 美元。"
-    },
-    {
-      "id": "mkt:019e938c-a2b3-711f-ac52-d7c7b312d3c2",
-      "time": "2026-06-05 00:52:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the current administration's stance toward Russia is tougher than that of any prior administration."
-    },
-    {
-      "id": "4917898",
-      "time": "2026-06-05 00:52:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三月期錫收跌 1664 美元，報每噸 55744 美元。"
-    },
-    {
-      "id": "4917897",
-      "time": "2026-06-05 00:51:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以色列國防軍和以色列安全域性在週四深夜，在加沙地帶北部發動突襲，擊斃了哈馬斯“總安全機構”的高階成員。"
-    },
-    {
-      "id": "mkt:019e938c-61df-711f-ac52-c8753502b2b5",
-      "time": "2026-06-05 00:51:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israel Defense Forces and Shin Bet conducted a late-night raid in the northern Gaza Strip on Thursday, killing a senior member of Hamas's General Security Organization."
-    },
-    {
-      "id": "4917896",
-      "time": "2026-06-05 00:51:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三月期鎳收跌 182 美元，報每噸 18689 美元。"
-    },
-    {
-      "id": "4917895",
-      "time": "2026-06-05 00:51:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三月期銅收漲 107 美元，報每噸 13932 美元。"
-    },
-    {
-      "id": "4917894",
-      "time": "2026-06-05 00:51:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三月期鋁收跌 38 美元，報每噸 3666 美元。"
-    },
-    {
-      "id": "mkt:019e938a-d2c2-711f-ac52-c71b5a2a41a8",
-      "time": "2026-06-05 00:50:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed officials Schmid and Daly are scheduled to speak in 10 minutes, speaking sequentially."
-    },
-    {
-      "id": "te:markets:556573",
-      "time": "2026-06-05 00:50:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Citigroup Stock Price Hits 17-1/2-year High — Citigroup shares increased to 135.41 USD, the highest since November 2008. Over the past 4 weeks, Citigroup gained 5.77%, and in the last 12 months, it increased 76.6%."
-    },
-    {
-      "id": "4917893",
-      "time": "2026-06-05 00:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：傾向後續豁免措施將採取國別定製模式。"
     }
   ]
 }
