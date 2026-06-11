@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-12 06:28:09",
-  "count": 18421,
+  "updated": "2026-06-12 06:32:00",
+  "count": 18432,
   "items": [
+    {
+      "id": "mkt:019eb8cf-da3d-7dd8-afcc-43cdf06ced6d",
+      "time": "2026-06-12 06:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China wheat harvest 77.53% complete as of June 11】The Ministry of Agriculture and Rural Affairs said favorable weather in the Huang-Huai-Hai producing region has supported rapid mechanized harvesting. As of 17:00 on June 11, 263 million mu of summer wheat have been harvested, equal to 77.53% of the crop. Regional progress: Henan has completed concentrated mechanized harvest; Jiangsu >90%; Shandong ~70%; Shaanxi >45%; Hebei >40%; Shanxi >30%."
+    },
+    {
+      "id": "te:markets:558474",
+      "time": "2026-06-12 06:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Oracle earnings above expectations at 2.11 USD — Oracle (ORCL) released earnings per share at 2.11 USD, compared to market expectations of 1.93 USD."
+    },
+    {
+      "id": "mkt:019eb8cf-8dca-7dd8-afcc-393ac12541cd",
+      "time": "2026-06-12 06:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran media: Funeral of late Supreme Leader postponed】Tehran Mayor Zakani said the funeral for the late Supreme Leader Ali Khamenei has been postponed until after the 10th day of Muharram (Islamic lunar month). Zakani said the ceremony is intended to signal continuity of the late leader’s ideas and to express loyalty to the current Supreme Leader, Mojtaba Khamenei."
+    },
+    {
+      "id": "4931299",
+      "time": "2026-06-12 06:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體：已故最高領袖葬禮推遲舉行】據伊朗學生通訊社11日報道，德黑蘭市長扎卡尼宣佈已故最高領袖阿里·哈梅內伊的葬禮推遲至穆哈蘭月（伊斯蘭教歷一月）第十日後舉行。扎卡尼表示，葬禮活動既體現對已故最高領袖理念的傳承，也是對現任最高領袖穆傑塔巴·哈梅內伊表達忠誠。（新華社）"
+    },
+    {
+      "id": "4931298",
+      "time": "2026-06-12 06:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國小麥收穫進度達77.53%】農業農村部最新小麥機收進度顯示，黃淮海主產區延續晴好天氣，利於集中機收快速推進。目前，全國小麥收穫進度達77.53%。據農業農村部最新小麥機收進度，截至6月11日17時，全國已收穫夏糧小麥2.63億畝，收穫進度77.53%。河南小麥集中機收已完成，江蘇麥收進度過九成，山東麥收進度近七成，陝西麥收進度過四成半，河北麥收進度過四成，山西麥收進度過三成。（央視新聞）"
+    },
+    {
+      "id": "te:markets:558473",
+      "time": "2026-06-12 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Tumbles by 6.03% — Top commodity losers are Natural Gas EU (-6.03%), Methanol (-5.43%), Brent Crude Oil (-4.88%) and Crude Oil WTI (-4.47%)."
+    },
+    {
+      "id": "4931297",
+      "time": "2026-06-12 06:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭5月製造業表現指數 49.9，前值50.5。"
+    },
+    {
+      "id": "mkt:019eb8ce-9b9b-7dd8-afcc-37b3f8af8874",
+      "time": "2026-06-12 06:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand May manufacturing performance index 49.9, prior 50.5."
+    },
+    {
+      "id": "mkt:019eb8ce-7b50-7dd8-afcc-2b40a35aadc7",
+      "time": "2026-06-12 06:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Manufacturing Index (May) | actual 49.9 | previous 50.5"
+    },
+    {
+      "id": "te:markets:558472",
+      "time": "2026-06-12 06:29:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Dollarama earnings above expectations at 1.11 CAD — Dollarama (DOL) released earnings per share at 1.11 CAD, compared to market expectations of 1.03 CAD."
+    },
+    {
+      "id": "te:markets:558471",
+      "time": "2026-06-12 06:29:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Adobe Systems earnings above expectations at 5.96 USD — Adobe Systems (ADBE) released earnings per share at 5.96 USD, compared to market expectations of 5.68 USD."
+    },
+    {
+      "id": "4931296",
+      "time": "2026-06-12 06:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中小銀行資產配置邏輯新變化：金融市場業務成穩營收重要抓手】梳理企業預警通資料發現，2025年部分割槽域性銀行投資收益佔營業收入比重較高。其中，青海銀行2025年投資收益佔營業收入比重高達75.21%，邯鄲銀行、蒙商銀行、寧夏銀行則分別為72.81%、63.75%和47.04%。隨著利率市場化持續推進，商業銀行傳統存貸利差空間被壓縮，非利息收入和投資收益對銀行經營穩定性的影響逐步上升。在業內人士看來，對於部分中小銀行而言，金融市場業務已從過去的補充項，成為平滑利潤波動、穩定營收表現的重要來源。（上證報）"
+    },
+    {
+      "id": "4931295",
+      "time": "2026-06-12 06:27:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊ETF逆勢連漲 通訊賽道持續獲資金佈局 】6月11日，A股市場延續調整態勢，ETF市場隨之走弱，超七成產品收跌，市場情緒有所波動。半導體板塊ETF獨立走出強勢行情，佔據ETF市場漲幅榜前八，且這8只產品全部實現三連漲。資金層面，在6月10日ETF市場整體淨流出超50億元的背景下，通訊賽道ETF逆勢吸引資金淨流入。從近期公募釋出的觀點看，多家機構認為，短期市場或呈震盪態勢，但不會扭轉長期上行格局。半導體行業迎來景氣度拐點，疊加政策與產業雙重紅利，長期上行空間明確，而消費、醫療等低位板塊也已顯現佈局機會。（中證報）"
+    },
     {
       "id": "4931294",
       "time": "2026-06-12 06:26:59",
@@ -169889,25 +170010,6 @@
         "Ethereum"
       ],
       "text": "【CME CEO expresses serious concern over new \"perpetual futures\"】CME CEO Terry Duffy said he is \"very concerned\" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, \"I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts.\""
-    },
-    {
-      "id": "te:markets:556594",
-      "time": "2026-06-05 06:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Naphtha Slumps by 5.04% — Top commodity losers are Naphtha (-5.04%), Heating Oil (-4.72%), Crude Oil WTI (-3.40%) and Brent Crude Oil (-2.72%). Gains are led by Natural gas (4.37%), Methanol (0.87%) and Coking Coal (0.61%)."
-    },
-    {
-      "id": "4918218",
-      "time": "2026-06-05 06:30:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "華爾街預計，SpaceX的AI收入到2030年將增長100倍。"
     }
   ]
 }
