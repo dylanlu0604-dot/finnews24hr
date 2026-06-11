@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-12 00:03:56",
-  "count": 18475,
+  "updated": "2026-06-12 00:07:45",
+  "count": 18481,
   "items": [
+    {
+      "id": "te:markets:558439",
+      "time": "2026-06-12 00:07:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.49% Higher — The FTSE 100 Index went up by 50 points or 0.49 percent on Thursday to close at 10305 points. The rise was led by Standard Chartered (3.55%), Prudential (2.75%) and Easyjet Plc (2.67%). On the downside, the weakerst performers were Halma (-15.94%), The Sage Group (-5.03%) and Intermediate Capital (-4.44%)."
+    },
+    {
+      "id": "4930982",
+      "time": "2026-06-12 00:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國第一季度家庭淨資產增加1130.8億美元。"
+    },
+    {
+      "id": "4930981",
+      "time": "2026-06-12 00:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：霍爾木茲海峽仍然開放通行。"
+    },
+    {
+      "id": "4930980",
+      "time": "2026-06-12 00:06:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【查諾斯不認同太空資料中心可能成為變革性新市場的說法】資深做空投資者、Chanos & Co.創始人查諾斯不認同太空資料中心可能成為變革性新市場的說法。他表示，儘管這在技術上可行，但此類專案面臨重大的經濟和運營障礙，包括髮射成本、維護挑戰、保險要求以及需要大量冗餘。他說，“資料中心裡的東西一直會壞。”如果這種情況發生在太空，你不能簡單地派一名技術人員帶著替換零件上去。"
+    },
+    {
+      "id": "mkt:019eb76f-76d0-7dd8-afc6-6823df62ac15",
+      "time": "2026-06-12 00:06:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM says the Strait of Hormuz remains open to transit."
+    },
+    {
+      "id": "4930979",
+      "time": "2026-06-12 00:06:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆合股份：23.925萬股限售股6月16日解禁】恆合股份公告，本次解除限售股份合計23.925萬股，佔公司總股本0.3391%，可交易時間為2026年6月16日。"
+    },
+    {
+      "id": "4930978",
+      "time": "2026-06-12 00:05:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉晨智慧：聘任李慧彩為證券事務代表】嘉晨智慧公告，公司於2026年6月9日召開第二屆董事會第十五次會議，審議透過《關於聘任公司證券事務代表的議案》，聘任李慧彩為公司證券事務代表。"
+    },
+    {
+      "id": "4930977",
+      "time": "2026-06-12 00:05:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三祥科技：擬增資境外控股子公司三祥泰國】三祥科技公告，為推進全球化戰略佈局、適配持續增長的海外業務訂單需求，公司擬與其他股東同比例對境外控股子公司三祥泰國增資，其中公司增資9000萬泰銖，資金用於擴建海外生產基地、新增金屬接頭生產線。"
+    },
+    {
+      "id": "4930976",
+      "time": "2026-06-12 00:04:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國稱，埃博拉確診病例數已升至676例。"
+    },
+    {
+      "id": "4930975",
+      "time": "2026-06-12 00:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部下調國內儲備預期，小麥價格延續漲勢。"
+    },
+    {
+      "id": "4930974",
+      "time": "2026-06-12 00:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓的封鎖已經結束。"
+    },
+    {
+      "id": "4930973",
+      "time": "2026-06-12 00:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "房地美：6月11日當週美國30年期固定利率抵押貸款平均利率為6.52%，前一週為6.48%。"
+    },
+    {
+      "id": "4930972",
+      "time": "2026-06-12 00:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo推出面向高頻使用者的30美元月度訂閱服務，訂閱服務包含乘車獎勵和優先接載服務。"
+    },
+    {
+      "id": "4930971",
+      "time": "2026-06-12 00:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬源通：已經具備1萬㎡月產能的HDI產品生產能力】萬源通釋出投資者關係活動記錄表，公司透過若干臺資客戶包括臺達電、全漢股份、明緯科技和順達科技等交付伺服器PCB產品，終端應用包括北美客戶和國內客戶。公司供貨的PCB產品應用於高功率AI電源、BBU電源、UPS不間斷電源、伺服器機架電源、液冷伺服器控制裝置等場景。目前公司已經具備1萬m2月產能的HDI產品生產能力。二階HDI產品已實現量產交付，主要為汽車輔助駕駛領域的產品；三階HDI產品正在打樣過程中。"
+    },
+    {
+      "id": "4930970",
+      "time": "2026-06-12 00:02:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精研科技：光模組殼體產品已有部分開始量產】精研科技(300709.SZ)釋出投資者關係活動記錄表公告，資料伺服器方面，公司前期佈局的高速聯結器介面已經實現量產。公司光模組殼體已伴隨客戶開展兩年聯合開發，期間合作研發了多款不同樣式的產品，目前已有部分開始量產。產品規格從800G迭代至1.6T，目前正推進更為前沿的產品研發工作。同時，熱能也儲備瞭如用於插拔式光模組的彈性液冷裝置等多項發明專利技術。"
+    },
     {
       "id": "4930969",
       "time": "2026-06-12 00:02:33",
@@ -51,6 +179,14 @@
         "Impact bullish"
       ],
       "text": "Waymo launches a $30/month subscription for frequent riders that provides ride credits and priority pickup service."
+    },
+    {
+      "id": "4930965",
+      "time": "2026-06-12 00:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部危險品事件系一場虛驚】據美國有線電視新聞網（CNN）最新報道，美國國防部大樓當地時間6月11日上午報告發生的“危險品事件”實際上是一場虛驚。（CCTV國際時訊）"
     },
     {
       "id": "mkt:019eb76a-6d92-7dd8-afc6-526bf9d71d5c",
@@ -170164,93 +170300,6 @@
         "MKT News"
       ],
       "text": "Bank of England Governor Bailey said markets may be overstating how quickly AI's effects will feed through to the economy."
-    },
-    {
-      "id": "4917863",
-      "time": "2026-06-05 00:07:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國出口商向哥倫比亞出售了11.5萬噸玉米。"
-    },
-    {
-      "id": "te:markets:556566",
-      "time": "2026-06-05 00:07:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.13% Higher — The FTSE 100 Index went up by 14 points or 0.13 percent on Thursday to close at 10346 points. The rise was led by B&M European Value (6.19%), Relx (5.77%) and London Stock Exchange (5.38%). On the downside, the weakerst performers were Prudential (-7.34%), Standard Chartered (-3.18%) and Rio Tinto (-2.76%)."
-    },
-    {
-      "id": "mkt:019e9362-ff61-711f-ac52-842548822063",
-      "time": "2026-06-05 00:06:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said it is improving memory synthesis in ChatGPT to optimize freshness, continuity and relevance."
-    },
-    {
-      "id": "4917862",
-      "time": "2026-06-05 00:06:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：市場或誇大了人工智慧紅利傳導落地的速度。"
-    },
-    {
-      "id": "4917861",
-      "time": "2026-06-05 00:06:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界盃邁阿密賽場或遇颶風挑戰】作為本屆美加墨世界盃的重點承辦城市之一，美國邁阿密有濃郁的拉美移民文化積澱，造就了當地紮實的足球群眾基礎。根據賽程安排，邁阿密將舉行7場比賽。不過，據在邁阿密探訪的央視記者劉旭瞭解，開賽時段正值大西洋颶風季，天氣因素或將為賽事組織帶來考驗。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e9362-8a05-711f-ac52-7d3beda3e016",
-      "time": "2026-06-05 00:06:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it deployed an update today for US Plus and Pro users and will roll it out to other countries and to free and Go users over the coming weeks."
-    },
-    {
-      "id": "4917860",
-      "time": "2026-06-05 00:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI：在ChatGPT中改進記憶合成功能，以最佳化內容時效性、對話連續性與內容相關性。美國的Plus及Pro訂閱使用者今日已可使用更新，未來幾周將逐步推廣至更多國家，以及免費版和GO版使用者。"
-    },
-    {
-      "id": "4917859",
-      "time": "2026-06-05 00:04:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "META 股票價格上漲 3.1%，創盤中新高。"
-    },
-    {
-      "id": "4917858",
-      "time": "2026-06-05 00:04:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Instagram Plus 為一款全新訂閱產品。"
-    },
-    {
-      "id": "4917857",
-      "time": "2026-06-05 00:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿爾瓦羅・皮里斯據傳將出任國際貨幣基金組織委內瑞拉事務新任代表團負責人。"
     }
   ]
 }
