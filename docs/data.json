@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-11 10:19:28",
-  "count": 18414,
+  "updated": "2026-06-11 10:23:14",
+  "count": 18416,
   "items": [
+    {
+      "id": "4929416",
+      "time": "2026-06-11 10:22:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌2%至42,339.52點。"
+    },
+    {
+      "id": "te:markets:558229",
+      "time": "2026-06-11 10:22:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hit 11-Month Low — The Hang Seng Index fell 300 points, or 1.2%, to 24,105 on Thursday, extending losses for a seventh consecutive session and marking its lowest level since July 2025, as investors remained cautious amid escalating tensions in the Middle East. Sentiment stayed fragile after the US launched fresh strikes on multiple targets in Iran for a second consecutive day, with President Donald Trump accusing Tehran of delaying negotiations on an interim peace deal. Adding to market concerns, Iran announced a halt to vessel traffic through the Strait of Hormuz following the attacks, threatening a fragile ceasefire and raising fears of disruptions to global energy supplies. Most sectors traded lower, led by retail, consumer, and selected technology shares. Among the notable laggards were Lenovo (-0.6%), HKEX (-0.5%), and Xiaomi (-0.9%). However, gains in several heavyweight stocks helped limit broader losses, with Tencent rising 1.4%, AIA advancing 2.4%, and SMIC adding 0.6%."
+    },
+    {
+      "id": "4929415",
+      "time": "2026-06-11 10:22:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念震盪反彈，金安國紀漲停】玻纖概念震盪反彈，金安國紀漲停，宏和科技、國際復材、山東玻纖、長海股份、中國巨石、平安電工等跟漲。"
+    },
+    {
+      "id": "mkt:019eb47c-64c5-7dd8-afb2-4ad3976a79ef",
+      "time": "2026-06-11 10:21:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Chief Cabinet Secretary Kihara said Bank of Japan Governor Ueda’s temporary hospitalization is unlikely to affect policy implementation or cooperation between the BOJ and the government."
+    },
+    {
+      "id": "4929414",
+      "time": "2026-06-11 10:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方11日發表宣告稱，該國防空系統正在攔截“敵方”空中目標。與此同時，巴林內政部發表宣告說，巴林再次拉響防空警報。（新華社）"
+    },
+    {
+      "id": "4929413",
+      "time": "2026-06-11 10:21:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶通科技與必和必拓簽署全球框架協議】據寶通科技訊息，近期，無錫寶通科技股份有限公司（簡稱“寶通科技”）與必和必拓（BHP）簽署全球框架協議。雙方正式建立全球核心戰略合作伙伴關係，合作從產品供應全面升級為技術共創、綠色協同、全球服務一體化的深度繫結。根據協議，雙方將在未來打通技術、供應鏈、服務與戰略全鏈條壁壘，構建長期穩定、協同高效的全球合作體系，並聚焦三大方向深化戰略合作。"
+    },
+    {
+      "id": "mkt:019eb47b-0ce6-7dd8-afb2-438cf9943bf7",
+      "time": "2026-06-11 10:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share glass and fiberglass concept rallied intraday; Honghe Technology surged more than 7%, while International Composite, Shandong Fiberglass, Changhai Co., China Jushi and Jiuding New Materials also advanced."
+    },
+    {
+      "id": "4929412",
+      "time": "2026-06-11 10:20:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長春市：打造世界級整車企業集團 支援中國一汽與華為等深化戰略合作】《長春市汽車產業發展“十五五” 規劃（徵求意見稿）》公開徵集意見。其中提到，全力支援整車企業轉型升級，打造世界級整車企業集團。重點支援整車企業發力新能源與節能汽車，構建清晰的品牌體系。支援整車企業強化與國內跨界企業在智慧網聯領域戰略合作。其中，全力支援中國一汽整合全球創新資源，深化與零跑、華為、大疆等企業在新能源汽車、智慧網聯等領域的戰略技術合作，重點推動全固態電池、“紅旗1號”多域融合晶片、司南智駕大模型、靈犀座艙大模型等關鍵技術的產業化應用與迭代升級。支援中國一汽與華為、百度、科大訊飛等頭部科技企業及網際網路平臺深化戰略合作，共建聯合創新實驗室，重點攻關端雲一體智慧架構、L3級以上自動駕駛、多模態互動等關鍵技術，打造具有全國影響力的智慧網聯汽車創新策源地。"
+    },
     {
       "id": "4929411",
       "time": "2026-06-11 10:18:57",
@@ -169690,58 +169761,6 @@
         "國際"
       ],
       "text": "印度尼西亞股市基準指數下跌 2%，報5820.41 點。"
-    },
-    {
-      "id": "4916413",
-      "time": "2026-06-04 10:22:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【初步結果顯示韓國執政黨鎖定地方選舉勝局】據韓國方面6月4日訊息，根據初步開票結果，韓國執政黨共同民主黨在3日舉行的第九屆地方選舉中鎖定勝局，贏得多數道、市、郡、區等各級政府的行政長官職位。訊息稱，截至4日凌晨，在本次選出的16個道知事和廣域市市長職位中，共同民主黨已在京畿道、仁川等13地取得勝利或保持領先，而最大在野黨國民力量黨預計僅能拿下大邱、慶尚北道和慶尚南道三地。（央視新聞）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606043760104457",
-      "time": "2026-06-04 10:22:20",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本內閣官房長官木原稔表示，預計央行將採取適當的貨幣政策，在與政府密切合作的同時，可持續、穩定地實現其物價目標。"
-    },
-    {
-      "id": "4916412",
-      "time": "2026-06-04 10:22:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒發哈梅內伊父子罕見合照】伊朗《德黑蘭時報》3日在社交媒體釋出了一張已故伊朗最高領袖阿里·哈梅內伊和他的兒子、新任伊朗最高領袖穆傑塔巴·哈梅內伊的合照。 據報道，在這張“罕見”照片中，兩人並肩而行，似乎正在交談。 帖文中沒說明這張照片於何時何地拍攝。（中新網）"
-    },
-    {
-      "id": "4916411",
-      "time": "2026-06-04 10:21:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超級電容概念再度走強 江海股份漲停續創歷史新高】超級電容概念再度走強，江海股份漲停，續創歷史新高，此前華鋒股份、祥和實業漲停，龍辰科技漲超10%，艾華集團、元力股份、新宙邦等跟漲。"
-    },
-    {
-      "id": "mkt:019e906f-9ed5-7cc0-ba22-6431d2037c44",
-      "time": "2026-06-04 10:21:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share supercapacitor concept stocks rallied again. Jianghai Co. hit the daily limit and made a fresh record high; earlier Huafeng Co. and Xianghe Industrial also hit limit-up. Longchen Technology rose over 10%; Aihua Group, Yuanli Co. and New Zoubang advanced."
-    },
-    {
-      "id": "mkt:019e906e-a4ae-7cc0-ba22-592a5046639b",
-      "time": "2026-06-04 10:20:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "USD/CAD rose above 1.39 for the first time since April 7, gaining 0.02% on the day."
     }
   ]
 }
