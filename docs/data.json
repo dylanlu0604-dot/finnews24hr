@@ -1,7 +1,213 @@
 {
-  "updated": "2026-06-11 16:07:03",
-  "count": 18351,
+  "updated": "2026-06-11 16:11:06",
+  "count": 18354,
   "items": [
+    {
+      "id": "mkt:019eb5bb-6f41-7dd8-afb8-5e943578c4ee",
+      "time": "2026-06-11 16:10:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran foreign ministry: US large-scale strike renders ceasefire 'meaningless'】Iran's foreign ministry on the 11th condemned a large-scale US strike on Iran on the night of the 10th, saying the attack has caused 'extremely dangerous consequences' and has rendered the earlier US‑Iran ceasefire 'meaningless'. (Xinhua)"
+    },
+    {
+      "id": "te:markets:558324",
+      "time": "2026-06-11 16:10:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Rises by 1.70% — Top commodity gainers are Cotton (1.70%) and Palm Oil (0.77%). Biggest losers are Oat (-0.54%) and Rice (-0.52%)."
+    },
+    {
+      "id": "mkt:019eb5bb-1592-7dd8-afb8-5536a186e363",
+      "time": "2026-06-11 16:09:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Kweichow Moutai chairman says no stock-split plan】At the company's June 11, 2025 annual general meeting in Moutai, chairman Chen Hua said shareholders' views on a stock split are sharply divided and, after comprehensive assessment, the company currently has no plan to split shares."
+    },
+    {
+      "id": "4929946",
+      "time": "2026-06-11 16:09:51",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【茅臺董事長陳華正面回應“拆股”】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。會上，關於備受爭議的“拆股”問題，茅臺集團黨委書記、董事長陳華從正面進行回應：“關於拆股問題，股東觀點目前非常分化。同時我們也關注到不少大咖也在討論茅臺是否應該拆股，大家的意見建議我們都收到和關注到了，感謝大家對茅臺發展的關心與支援。”陳華表示：“從目前來看的話，公司暫無拆股計劃。”（酒業內參）"
+    },
+    {
+      "id": "mkt:019eb5ba-efd5-7dd8-afb8-481c6757fce6",
+      "time": "2026-06-11 16:09:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian sources said Iran and the United States are still negotiating a preliminary agreement, including a mechanism to unfreeze funds."
+    },
+    {
+      "id": "mkt:019eb5ba-bb50-7dd8-afb8-417a9bc5c63f",
+      "time": "2026-06-11 16:09:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese team maps animal neurotoxin effects on Nav1.6, aiding neurodrug R&D】A Shenzhen Medical Academy team led by Yan Ning, Fan Xiao and Huang Jian revealed how three animal-derived agonist peptide neurotoxins regulate the human voltage-gated sodium channel Nav1.6, a key target in the nervous system. The results, published online in Nature, could inform precision drug development for neurological diseases."
+    },
+    {
+      "id": "4929945",
+      "time": "2026-06-11 16:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部11日發表宣告，強烈譴責美國10日夜間對伊朗發動大規模襲擊，稱此次襲擊造成極其危險的後果，使此前伊美達成的停火“毫無意義”。（新華社）"
+    },
+    {
+      "id": "4929944",
+      "time": "2026-06-11 16:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士向美國媒體表示：伊朗與美國仍在就初步協議進行談判，協議內容涉及解凍資金的相關機制。"
+    },
+    {
+      "id": "mkt:019eb5ba-7c14-7dd8-afb8-3a559859fcb5",
+      "time": "2026-06-11 16:09:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "HSI",
+        "Impact bearish",
+        "HSTECH"
+      ],
+      "text": "At the close in Hong Kong, the Hang Seng Index fell 0.65% and the Hang Seng Tech Index fell 1.46%. Chip names rallied in the afternoon. Sectors leading gains included PCB, mainland property developers, lithium batteries, commercial aerospace and memory; high-profile internet and tech names traded lower."
+    },
+    {
+      "id": "4929943",
+      "time": "2026-06-11 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌0.650%，恒生科技指數跌1.461%】舜宇光學科技跌4.333%，極兔速遞-W跌4.437%，百濟神州跌4.601%，MINIMAX-W跌4.604%，新奧能源跌5.145%，小鵬集團-W跌5.542%，阿里巴巴-W跌5.551%。"
+    },
+    {
+      "id": "4929942",
+      "time": "2026-06-11 16:08:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大商所釋出2026年端午節期間交易時間安排】大商所公告，6月19日（週五）至6月21日（週日）休市，6月22日（週一）起照常開市。6月18日（週四）晚上不進行夜盤交易。6月22日（週一）所有合約集合競價時間為08:55-09:00。6月22日（週一）當晚恢復夜盤交易。"
+    },
+    {
+      "id": "4929941",
+      "time": "2026-06-11 16:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行表示，隨著財政壓力加劇，印度尼西亞2026年國內生產總值增速將放緩至5%。"
+    },
+    {
+      "id": "4929940",
+      "time": "2026-06-11 16:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱旺科技：擬現金收購東莞秦鼎和東莞興鼎不低於51%股權】凱旺科技公告稱，公司擬以現金方式收購東莞市秦鼎五金製品有限公司和東莞市興鼎五金製品有限公司不低於51%股權，交易完成後將成控股子公司並納入合併報表。本次交易尚處籌劃階段，交易總價款未確定，不構成關聯交易和重大資產重組。標的公司訂單量呈快速增長態勢，收購有助於公司拓展國際市場、深化產業佈局。事項存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4929939",
+      "time": "2026-06-11 16:08:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首開股份：董事長李巖因工作調整辭職】首開股份公告稱，近日，公司董事會收到董事長李巖的書面辭職報告。因工作調整，李巖於6月11日辭去法定代表人、董事長、董事及董事會專門委員會相關職務，辭職後不再擔任公司及控股子公司任何職務。截至公告披露日，李巖未持有公司股份，其負責工作已交接完畢，辭職不會影響董事會正常運作。"
+    },
+    {
+      "id": "mkt:019eb5b9-7468-7dd8-afb8-31fd5cae2657",
+      "time": "2026-06-11 16:08:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reports traffic through the Strait of Hormuz has come to a complete halt."
+    },
+    {
+      "id": "te:markets:558319",
+      "time": "2026-06-11 16:08:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Euro Near 2-Month Lows, ECB Eyed — The euro was little changed around $1.15, hovering near its lowest level in more than two months as broad USD strength continued to weigh on the common currency. The dollar remained supported by tensions in the Middle East, with repeated military strikes and diplomatic setbacks clouding the prospects for a resolution between the US and Iran. Investors are also awaiting the ECB's monetary policy decision, with the central bank expected to raise interest rates by 25bps, marking its first rate hike since 2023. Such a move would lift the deposit facility rate to 2.25%. The expected increase comes as inflationary pressures intensify following the energy shock triggered by the conflict with Iran, while the ECB's updated economic projections are likely to point to further inflation acceleration in the months ahead. Market participants will also closely scrutinize the central bank's forward guidance, with expectations that policymakers could deliver at least one additional rate hike this year"
+    },
+    {
+      "id": "4929937",
+      "time": "2026-06-11 16:07:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【米未傳媒退出名下一傳媒公司】天眼查App顯示，近日，北京果時文化傳媒有限公司發生工商變更，原股東北京米未傳媒有限公司退出。該公司成立於2016年3月，註冊資本500萬人民幣，法定代表人為王桂江，經營範圍包括組織文化藝術交流活動、企業形象策劃、平面設計等，現由劉柳、王桂江共同持股。"
+    },
+    {
+      "id": "4929936",
+      "time": "2026-06-11 16:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲天化：參加集體業績說明會 回應多項業務問題】雲天化公告稱，6月10日，公司董事長宋立強等出席“2025年度滬市主機板惠民促消費之鄉村振興集體業績說明會”，回應投資者提問。在碗廠磷礦專案上，規劃1000萬噸/年採礦工程，目前公司按35%持股比例認繳7億元，已實繳4.55億元；新能源材料領域，現有10萬噸/年磷酸鐵產能，在建20萬噸/年高效能磷酸鐵新材料前驅體及15萬噸/年磷酸鐵鋰專案；應對硫磺漲價，採取調整產品結構、精益化降本、利用庫存調節等措施；還計劃建設兩套磷石膏制酸裝置。"
+    },
+    {
+      "id": "4929935",
+      "time": "2026-06-11 16:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州閒魚資訊科技公司變更負責人】天眼查App顯示，近日，杭州閒魚資訊科技有限公司發生工商變更，丁健卸任法定代表人、經理、董事，由諶偉業接任，同時，財務負責人發生變更。該公司成立於2015年9月，註冊資本約104萬人民幣，經營範圍包括食品經營、網際網路資訊服務、第二類增值電信業務、第一類增值電信業務等，由浙江天貓技術有限公司全資持股。"
+    },
+    {
+      "id": "4929934",
+      "time": "2026-06-11 16:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【克里斯蒂安·斯坦出任雷諾集團西班牙執行長】7月1日起，克里斯蒂安·斯坦（Christian Stein）將接替何塞·馬雷亞·裡卡森（Josep María Recasens）, 出任雷諾集團西班牙新任執行長。何塞·馬雷亞·裡卡森將離開雷諾集團，尋求新的職業發展。克里斯蒂安·斯坦將在擔任該新職務的同時，繼續兼任雷諾集團首席傳播官，並向雷諾集團執行長福蘭（François Provost）彙報。"
+    },
+    {
+      "id": "4929933",
+      "time": "2026-06-11 16:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺董事長陳華：股東們保持耐心，一定會獲得比較好的投資回報】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。茅臺集團黨委書記、董事長陳華表示：“就當前發展狀況而言，公司在生產質量、銷售等各方面都處於健康良性的狀態。今天來的公司股東，大家不是炒股的，大家是股東，所以大家保持耐心，一定會贏得比較好的投資回報。”（酒業內參）"
+    },
+    {
+      "id": "4929932",
+      "time": "2026-06-11 16:06:08",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【道富投資：黃金前景料受貨幣對沖需求支撐】道富投資管理策略師表示，對貨幣對沖和現貨黃金的需求可能是支撐黃金前景的因素。儘管在石油引發的波動情況下，現貨黃金價格短期內可能面臨掙扎，但對這種貴金屬的結構性需求依然存在。他們表示，隨著債務和通脹使長期收益率保持在較高水平，黃金可能成為對沖久期敞口和貨幣貶值的潛在工具。他們補充說，與此同時，從中國散戶到各國央行對現貨黃金的全球需求可能會進一步支撐價格。道富預計，在基準情景下，今年金價將為每盎司4,750-5,500美元，而在看漲情景下，金價將達到每盎司5,500-6,250美元。現貨黃金最新上漲0.7%，報每盎司4,100.44美元。"
+    },
     {
       "id": "4929931",
       "time": "2026-06-11 16:05:46",
@@ -168802,186 +169008,6 @@
         "Importance 0"
       ],
       "text": "Israel 10Y Bond Yield Hits 34-month Low — Israel 10 Year Government Bond Yield decreased to 3.67%, the lowest since July 2023. Over the past 4 weeks, Israel 10Y Bond Yield lost 32.60 basis points, and in the last 12 months, it decreased 80.90 basis points."
-    },
-    {
-      "id": "4916897",
-      "time": "2026-06-04 16:11:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Sleep Number股價盤前暴跌65%，至0.38美元。訊息面上，該公司正準備申請破產。"
-    },
-    {
-      "id": "4916896",
-      "time": "2026-06-04 16:10:30",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【野村隨著能源價格上漲，菲律賓和新加坡面臨通脹風險】野村首席東盟經濟學家Euben Paracuelles表示，菲律賓面臨巨大的通脹風險，新加坡在一定程度上也是如此。受全球能源價格上漲推動，菲律賓4月份通脹率躍升至三年多來的最高水平。Paracuelles在一個活動上發言時表示，由於沒有燃料補貼，菲律賓較高的能源價格會迅速傳導給消費者。對於新加坡，他預計核心CPI在接近第三季度時將加速升至約3%的高位。他補充說，這個城市國家的第二輪通脹效應將會很強，因為該國經濟表現良好，且產出缺口（一項顯示經濟是否在接近滿負荷運轉的指標）為正值。"
-    },
-    {
-      "id": "te:markets:556475",
-      "time": "2026-06-04 16:10:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wool Gains by 1.55% — Top commodity gainer is Wool (1.55%). Biggest losers are Palm Oil (-1.39%), Corn (-1.31%) and Rice (-1.03%)."
-    },
-    {
-      "id": "4916895",
-      "time": "2026-06-04 16:10:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一名聯黎部隊維和士兵在黎南部遭襲 不治身亡】總檯記者自聯黎部隊獲悉，一名聯合國駐黎巴嫩臨時部隊士兵當地時間4日23時20分左右在黎南部遇襲受傷，於5日凌晨身亡。（央視新聞）"
-    },
-    {
-      "id": "4916894",
-      "time": "2026-06-04 16:09:58",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【英國今夏或迎更多熱浪】英國氣象局日前釋出夏季天氣展望稱，今夏該國出現高溫天氣的機率明顯增加，未來數月或將迎來更多熱浪。據英國媒體3日報道，英國氣象局1日釋出的展望報告顯示，6月至8月期間，該國每個月“氣溫都將高於往年平均水平”，這增加了發生熱浪及其他高溫現象的風險。有關部門已釋出今年首個黃色和琥珀色高溫健康警報。該機構表示，全球氣候變暖以及可能出現的厄爾尼諾現象，是發出今年夏季高溫預報的主要因素。（新華社）"
-    },
-    {
-      "id": "4916893",
-      "time": "2026-06-04 16:09:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遼港股份：2025年淨利潤13.07億元 擬每10股派0.286元】遼港股份公告稱，2025年公司實現歸屬於母公司股東的淨利潤13.07億元。董事會建議以總股本235.72億股為基數，向全體股東每10股派發現金股利0.286元（含稅），預計派發現金股利6.74億元，派發比率為50.08%。2025年度已實施股份回購金額1.45億元，現金分紅和回購金額合計8.19億元，佔淨利潤比例62.66%。此外，公司擬聘任立信為2026年度會計師事務所，預計審計費用442萬元；第七屆董事會任期臨近屆滿，擬選舉李國鋒等7人為第八屆董事會董事候選人。"
-    },
-    {
-      "id": "mkt:019e91ad-dc8a-7668-960c-bf8311f4e052",
-      "time": "2026-06-04 16:09:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish",
-        "03986.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong equities closed lower: the Hang Seng Index fell 1.48% and the Hang Seng Tech Index fell 1.61%. Semiconductors bucked the selloff as GigaDevice Semiconductor (03986.HK) rose 6.87%."
-    },
-    {
-      "id": "4916892",
-      "time": "2026-06-04 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.482%，恒生科技指數跌1.614%】聯想集團跌4.132%，騰訊音樂-SW跌4.454%，中國宏橋跌5.278%，友邦保險跌6.383%，洛陽鉬業跌6.452%，寧德時代跌6.877%，金蝶國際跌7.479%。"
-    },
-    {
-      "id": "mkt:019e91ad-8e8d-7668-960c-b7b214e86440",
-      "time": "2026-06-04 16:08:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UN Interim Force in Lebanon (UNIFIL) said two peacekeepers were injured in the incident."
-    },
-    {
-      "id": "mkt:019e91ad-6254-7668-960c-afe65b8b597a",
-      "time": "2026-06-04 16:08:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The UN peacekeeping force in Lebanon said on Wednesday a peacekeeper died of wounds sustained when their base in southeast Lebanon was hit by shelling."
-    },
-    {
-      "id": "em:qqyh_mlc:202606043760402983",
-      "time": "2026-06-04 16:08:33",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【“加息噩夢”愈發近了？美聯儲票委：或許就在今年晚些時候！】達拉斯聯儲主席洛裡·洛根（Lorie Logan）表示，鑑於通脹回落進展停滯，美國經濟仍然保持較強韌性，美聯儲可能需要在今年晚些時候提高利率，以使通脹率回到2%的目標水平。"
-    },
-    {
-      "id": "4916891",
-      "time": "2026-06-04 16:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經合組織：2028年全球鋼鐵過剩產能將達7.45億噸】經合組織在最新報告中指出，全球鋼鐵過剩產能持續增長，其推動因素是一些非經合組織主要產鋼經濟體不斷增加補貼，而旨在恢復公平競爭的貿易措施又因規避行為日益受到破壞，這些措施本是為了營造公平的競爭環境。《經合組織2026年鋼鐵展望》預測，到2028年，全球鋼鐵過剩產能將達到7.45億噸，比經合組織當前的鋼鐵產量高出3.19億噸。截至2028年，計劃新增的產能最高可達1.39億噸，較2025年水平增長5.7%，而需求增長預計將保持低迷，年增長率約為0.9%。經合組織秘書長馬蒂亞斯·科爾曼在經合組織部長理事會會議上表示：“鋼鐵過剩產能給所有人帶來問題。它扭曲全球市場，損害經濟安全和韌性，並且阻礙創新和可持續發展。”"
-    },
-    {
-      "id": "4916890",
-      "time": "2026-06-04 16:08:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國駐黎巴嫩維和部隊表示，一枚炮彈擊中一名維和人員位於黎巴嫩東南部的陣地後，該維和人員因傷於週三不治身亡。"
-    },
-    {
-      "id": "4916889",
-      "time": "2026-06-04 16:08:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "調查：哈薩克央行預計將於週五將基準利率維持在18%不變。"
-    },
-    {
-      "id": "mkt:019e91ac-fbd1-7668-960c-a1a0493a56f5",
-      "time": "2026-06-04 16:08:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【OECD: Global steel excess capacity to hit 745 mln tonnes by 2028】The OECD’s 2026 Steel Outlook warns global steel excess capacity will reach 745 million tonnes by 2028, exceeding current OECD steel production by 319 million tonnes. The report cites subsidies from several major non‑OECD steel producers and growing circumvention that is undermining trade remedies designed to restore fair competition. Planned new capacity could add up to 139 million tonnes by 2028, a 5.7% rise from 2025, while demand growth is expected to remain weak at about 0.9% p.a. OECD Secretary‑General Mathias Cormann said the glut distorts markets, weakens economic security and resilience, and hampers innovation and sustainability."
-    },
-    {
-      "id": "4916888",
-      "time": "2026-06-04 16:08:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將意法半導體目標股價從49歐元上調至80歐元。"
-    },
-    {
-      "id": "4916887",
-      "time": "2026-06-04 16:07:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣小幅走高，交易商研判伊朗談判帶來的影響】受市場研判美伊停戰談判、霍爾木茲海峽重啟通航相關影響，歐洲天然氣價格小幅上漲。基準天然氣期貨盤中最高漲幅達 0.9%，抹平早前跌幅。近一週合約價格波動劇烈，區間波動幅度達 3 歐元 / 兆瓦時，交易員緊盯和平談判訊息及其對全球海運氣源的潛在影響。當前霍爾木茲海峽輸氣運力依舊受限，市場核心擔憂仍是歐洲能否在冬季來臨前補足儲氣庫存。目前歐洲儲氣庫庫容利用率僅約 41%，而歷年同期五年均值為 55%。"
-    },
-    {
-      "id": "4916886",
-      "time": "2026-06-04 16:07:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "3D Systems股價在盤前交易階段下跌11.1%，此前該公司宣佈完成規模上調至5000萬美元的股票發行定價。"
-    },
-    {
-      "id": "mkt:019e91ac-0853-7668-960c-9fa7e022d107",
-      "time": "2026-06-04 16:07:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "SMMT said UK new car registrations in May rose 7.1% YoY to 160,662 vehicles."
     }
   ]
 }
