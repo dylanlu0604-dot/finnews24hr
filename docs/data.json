@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-12 00:53:35",
-  "count": 18482,
+  "updated": "2026-06-12 00:57:28",
+  "count": 18478,
   "items": [
+    {
+      "id": "mkt:019eb79a-edc2-7dd8-afc7-0a5024a73fd9",
+      "time": "2026-06-12 00:54:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "S&P Global Ratings assigned Google an \"AA+\" credit rating and a \"stable\" outlook."
+    },
     {
       "id": "4931015",
       "time": "2026-06-12 00:51:50",
@@ -170275,53 +170289,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗和俄羅斯已簽署一份價值250億美元的諒解備忘錄，在核能領域開展合作。伊朗駐莫斯科大使表示，兩國在重大核能專案上的合作正在不斷擴大。"
-    },
-    {
-      "id": "mkt:019e9391-5807-711f-ac52-eb869f0bec2a",
-      "time": "2026-06-05 00:57:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "TASNIM NEWS reports Iran and Russia have signed a memorandum of understanding worth $25 bln to cooperate on nuclear energy. Iran's ambassador to Moscow said cooperation on major nuclear projects is expanding."
-    },
-    {
-      "id": "4917904",
-      "time": "2026-06-05 00:54:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望今年夏天簽署一項兩黨共同支援的大學體育法案。"
-    },
-    {
-      "id": "mkt:019e938e-b6d9-711f-ac52-e398985ce6a2",
-      "time": "2026-06-05 00:54:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said future waivers for Russian oil will be reviewed and approved on a country-by-country basis, and that such waivers help lower energy prices."
-    },
-    {
-      "id": "4917903",
-      "time": "2026-06-05 00:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我敦促國會透過關於大學體育的最終法案。"
-    },
-    {
-      "id": "4917902",
-      "time": "2026-06-05 00:53:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯與哈薩克的關係發展非常順利，正“蒸蒸日上”，但在所有議題上的討論卻總是激烈。"
     }
   ]
 }
