@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-12 07:22:03",
-  "count": 18449,
+  "updated": "2026-06-12 07:25:57",
+  "count": 18446,
   "items": [
+    {
+      "id": "4931350",
+      "time": "2026-06-12 07:24:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【145家全國重點實驗室落戶北京 數量居全國首位】昨天，記者在2026年“活力中國調研行”北京主題採訪活動中獲悉，目前在京單位牽頭建設的全國重點實驗室共計145家，數量居全國首位。（北京日報）"
+    },
+    {
+      "id": "mkt:019eb8fe-a94a-7dd8-afcc-8c2d24508d30",
+      "time": "2026-06-12 07:22:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CEO said drilling will reach an oil-bearing formation in the Amazonas region in one month."
+    },
+    {
+      "id": "4931349",
+      "time": "2026-06-12 07:22:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長表示，福斯杜亞馬遜油田的鑽井將在約一個月內抵達儲油層。"
+    },
     {
       "id": "mkt:019eb8fd-0b1a-7dd8-afcc-86cabc59702e",
       "time": "2026-06-12 07:20:51",
@@ -170105,54 +170133,6 @@
         "其他"
       ],
       "text": "【北京晴天線上氣溫回升 今夜至明天將有降雨降溫】今天（6月5日）白天，北京以晴到多雲為主，氣溫回升到28℃，但後半夜到明天白天將出現明顯降雨、降溫過程，其中房山、大興、通州降雨相對明顯，公眾外出需注意防雨添衣。昨天白天，北京出現雷陣雨天氣，並伴有短時強降水和7級左右短時大風，局地出現冰雹。監測顯示，昨天7時至16時，全市平均降水量為1.8毫米。（央視）"
-    },
-    {
-      "id": "4918256",
-      "time": "2026-06-05 07:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多家民營銀行中長期限定存產品下架】曾以較高利率吸引儲戶的民營銀行，近期密集收縮中長期限存款業務。繼五年期大額存單隱退後，整存整取的三年期及五年期定期存款也開始下架，多數銀行的中長期限存款年利率步入“1字頭”區間。在淨息差持續承壓、資產端收益率走低的背景下，民營銀行主動壓降高成本負債。（中國證券報）"
-    },
-    {
-      "id": "4918255",
-      "time": "2026-06-05 07:24:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【聰明錢提前佈局AI上游環節 部分基礎材料成新寵】AI算力投資的傳導鏈條已延伸至更上游的材料端。MLCC成為AI伺服器物料清單中僅次於GPU和儲存的第三大成本項，電子布從傳統絕緣基材向功能性材料轉變。資料顯示，截至6月4日，MLCC指數、玻璃纖維指數今年以來均上漲逾100%，部分上游材料個股漲幅超過200%。在這場由AI驅動的材料漲價潮中，一批公募基金經理沿著產業鏈向上投資，提前佈局電子布與MLCC概念板塊。（中國證券報）"
-    },
-    {
-      "id": "4918254",
-      "time": "2026-06-05 07:24:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【前5個月私募證券產品備案量同比增長近50%】據證券日報，今年以來，私募證券產品備案數量顯著增長。私募排排網最新統計資料顯示，前5個月，全市場累計備案私募證券產品6530只（含自主發行及投顧產品，下同），較去年同期的4378只增長49.15%。股票策略繼續擔當備案主力。伴隨A股市場交易活躍度穩步抬升，前5個月，全市場合計備案的股票策略私募產品達4222只，同比增長51.11%，佔全部備案私募證券產品的比重接近65%。其中，指數增強策略成為股票策略私募產品中的增長亮點，備案熱度持續走高。前5個月，全市場合計備案指數增強私募產品1603只，同比大增73.30%，佔股票策略備案總量的37.97%。"
-    },
-    {
-      "id": "4918253",
-      "time": "2026-06-05 07:24:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌正在其雲部門悄悄進行裁員】兩名知情人士對媒體表示，過去兩週在Google Cloud任職的員工已遭裁員。知情人士稱，谷歌旗下頂級安全部門之一、定期釋出駭客研究報告的威脅情報小組（Threat Intelligence Group）昨日也受到影響。一些員工已在LinkedIn上發文談及裁員情況。他們補充稱，此次裁員並不限於該部門，還波及谷歌2022年收購的網路安全公司Mandiant以及Google Cloud內的其他團隊。尚不清楚具體有多少人受到影響，以及為何此時進行裁員。其中一名知情人士表示，在某個案中，谷歌以有必要將資源重新投入人工智慧等增長領域為由，為其裁員舉措辯護。谷歌一名發言人表示，公司“會定期評估內部架構，以確保我們能以最佳狀態應對客戶與產業不斷變化的需求”。"
-    },
-    {
-      "id": "4918252",
-      "time": "2026-06-05 07:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法院裁定落地，肯尼迪中心將撤下特朗普冠名】據兩名知情人士透露，坐落於華盛頓的肯尼迪表演藝術中心於週四下達工作指令，要求工作人員遵照聯邦法院判決，從場館相關標識中撤除唐納德・特朗普的名字。這份由約翰・F・肯尼迪中心法務總監簽發的內部備忘錄，標誌著該機構正式著手撤銷去年特朗普主導的更名操作。上週特朗普表態，受本次法院裁決影響，他正下令由所屬政府推動，將肯尼迪中心的全部運營管理權完整移交美國國會。 哥倫比亞特區聯邦地區法院法官克里斯托弗·庫珀於5月29日裁定，肯尼迪中心董事會此前將場館更名為“特朗普-肯尼迪中心”屬於越權行為，要求移除所有相關標識。"
-    },
-    {
-      "id": "mkt:019e94f2-a0c0-7cc8-bdef-58d53f03b192",
-      "time": "2026-06-05 07:23:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Analysts see Korean stocks entering volatile consolidation in next 1-2 months】After a global-leading rally, South Korea’s US$4.9 trillion equity market is showing strain. The KOSPI hit a record high on Tuesday even as only 2.6% of stocks traded at 52-week highs while 31% were at 52-week lows, signalling a narrow advance. Retail participation is cooling and surging margin loans face downside risk if the Bank of Korea raises rates in July. Investors warn that a market downturn could be as rapid as the prior rise. Ha Seok Keun, chief investment officer at Eugene Asset Management, said he is more worried by overheated positioning than by fundamental deterioration and expects heightened volatility and consolidation over the next one to two months."
     }
   ]
 }
