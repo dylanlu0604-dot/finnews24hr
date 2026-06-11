@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-12 00:34:02",
-  "count": 18489,
+  "updated": "2026-06-12 00:37:57",
+  "count": 18492,
   "items": [
+    {
+      "id": "4931003",
+      "time": "2026-06-12 00:37:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國頒發與俄羅斯有關的通用許可證。"
+    },
+    {
+      "id": "4931002",
+      "time": "2026-06-12 00:36:41",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部對古巴聯合石油公司實施制裁。"
+    },
+    {
+      "id": "mkt:019eb78a-b872-7dd8-afc6-d83e73b23ee3",
+      "time": "2026-06-12 00:36:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI to acquire Ona to bolster Codex agent capabilities】OpenAI said on Thursday it will acquire startup Ona, which supplies secure, preconfigured cloud environments that let AI agents access tools, systems and contextual data. OpenAI said Ona’s tech will enable its programming assistant Codex to run longer-duration tasks and help more organizations deploy agents into production to autonomously perform tasks on users’ behalf. Terms were not disclosed. Ona employees will join OpenAI’s Codex team."
+    },
+    {
+      "id": "4931001",
+      "time": "2026-06-12 00:35:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【英國國債收益率跌超2個基點】週四（6月11日）歐市尾盤，英國10年期國債收益率跌2.6個基點，報4.905%，北京時間15:12微漲至4.946%重新整理日高，隨後走低，20:15歐洲央行宣佈加息之後，出現一波衝高回落行情，。兩年期英債收益率跌2.4個基點，報4.341%，歐洲央行宣佈加息後、美國就業資料釋出後、歐洲央行行長拉加德新聞釋出會開始之前重新整理日高至4.381%——短線呈現出衝高回落行情，21:54重新整理日低至4.319%。30年期英債收益率跌2.7個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.331個基點，報+56.294個基點。"
+    },
     {
       "id": "mkt:019eb788-2108-7dd8-afc6-d72c81fd0097",
       "time": "2026-06-12 00:33:32",
@@ -170376,14 +170414,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Rebound — European stocks closed firmly higher on Thursday as a pullback in oil prices limited the magnitude of pro-inflationary risks faced by the European corporate sector. The Euro STOXX 50 added 0.8% to 6,103 and the STOXX Europe 600 gained 0.5% to 624. Israel and Lebanon signed a ceasefire agreement, part of the precedent for the Iran and the US to lift their blockade on commercial vessels that has triggered shortage risks on energy commodities. Banks closed firmly higher with Santander, Deutsche Bank and UniCredit adding between 1.5% and 3%. Aerospace stocks were also higher, with Airbus gaining 4.6%. Outside the Eurozone, HSBC lost nearly 2% after reports indicated that authorities have prohibited some Mainland China clients from opening Hong-Kong based accounts."
-    },
-    {
-      "id": "4917883",
-      "time": "2026-06-05 00:36:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：哥倫比亞總統候選人塞佩達對哥倫比亞叫停修憲的決議表示讚許。"
     }
   ]
 }
