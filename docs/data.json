@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-12 01:01:23",
-  "count": 18476,
+  "updated": "2026-06-12 01:05:25",
+  "count": 18483,
   "items": [
+    {
+      "id": "mkt:019eb7a4-556b-7dd8-afc7-51250e675220",
+      "time": "2026-06-12 01:04:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Guterres: Deeply concerned by Middle East escalation, urges US and Iran to resume dialogue】On June 11, UN Secretary-General Guterres said he is deeply concerned by escalating tensions in the Middle East, citing recent US–Iran exchanges and a rise in hostile rhetoric. He urged all parties to restore full implementation of the ceasefire to prevent further deterioration and called on the United States and Iran to return to dialogue and negotiations to seek a peaceful, comprehensive and durable agreement. Guterres warned continued escalation could lead to a return to open conflict with unpredictable consequences for the region and the world, especially the most vulnerable states. He stressed respect for navigation rights and freedoms under international law, urged parties to meet their international-law obligations, and called for all feasible measures to protect civilians."
+    },
+    {
+      "id": "4931024",
+      "time": "2026-06-12 01:04:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率在國債拍賣後收窄早前跌幅，目前下跌0.8個基點，報5.018%。"
+    },
+    {
+      "id": "mkt:019eb7a3-e177-7dd8-afc7-48050684caf0",
+      "time": "2026-06-12 01:03:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 30-year Treasury yield trimmed an earlier drop after a Treasury auction, slipping 0.8bp to 5.018%."
+    },
+    {
+      "id": "4931022",
+      "time": "2026-06-12 01:03:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至6月11日30年期國債競拍-得標利率 5.02%，前值5.046%。\n美國至6月11日30年期國債競拍-得標利率配置百分比 32.36%，前值72.06%。\n美國至6月11日30年期國債競拍-投標倍數 2.33，前值2.3。"
+    },
+    {
+      "id": "4931021",
+      "time": "2026-06-12 01:02:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲資料顯示美國商業票據規模上週擴大】美聯儲週四公佈的資料顯示，截至6月10日當週，美國商業票據規模增加。最新一週，經季節性調整後的美國未償商業票據規模增加114億美元，至1.413萬億美元。未經季節性調整的未償商業票據規模下降69億美元，至1.466萬億美元。一些分析師認為，未經季節性調整的資料比經季節性調整的資料更可靠，因為後者受到金融危機影響而出現失真。未經季節性調整的外國金融機構商業票據未償規模下降72億美元，至3560億美元。"
+    },
+    {
+      "id": "mkt:019eb7a2-91d8-7dd8-afc7-426eeb0d9b7f",
+      "time": "2026-06-12 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Federal Reserve data show US commercial paper outstanding rose in week to June 10】Federal Reserve data on Thursday showed seasonally adjusted US commercial paper outstanding rose $11.4 bln in the week to June 10, to $1.413 tln. Not seasonally adjusted outstanding fell $6.9 bln to $1.466 tln; some analysts say unadjusted series is more reliable because seasonal adjustment is distorted by effects dating to the financial crisis. Unadjusted commercial paper issued by foreign financial institutions fell $7.2 bln to $356 bln."
+    },
+    {
+      "id": "mkt:019eb7a2-7244-7dd8-afc7-3f489940237a",
+      "time": "2026-06-12 01:02:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 30-year Treasury auction on June 11 bid-to-cover ratio 2.33; prior 2.30."
+    },
+    {
+      "id": "mkt:019eb7a2-71b7-7dd8-afc7-340104a4f987",
+      "time": "2026-06-12 01:02:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 30-year Treasury auction on June 11: share of the issue awarded at the stop-out yield 32.36%, prior 72.06%."
+    },
+    {
+      "id": "mkt:019eb7a2-6b8d-7dd8-afc7-2c81f6d38e53",
+      "time": "2026-06-12 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 30-year Treasury auction on June 11: stop-out yield 5.02%, prior 5.046%."
+    },
+    {
+      "id": "mkt:019eb7a2-46a3-7dd8-afc7-22b2ebfe13d9",
+      "time": "2026-06-12 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bid/Cover Ratio (Jun.11) | actual 2.33 | previous 2.3"
+    },
+    {
+      "id": "mkt:019eb7a2-46a3-7dd8-afc7-1df0c4cfae2b",
+      "time": "2026-06-12 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction Accepted at High (Jun.11) | actual 32.36% | previous 72.06%"
+    },
+    {
+      "id": "mkt:019eb7a2-468d-7dd8-afc7-12e0fb5b0dd5",
+      "time": "2026-06-12 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction High Yield Rate (Jun.11) | actual 5.02% | previous 5.046%"
+    },
     {
       "id": "4931017",
       "time": "2026-06-12 01:00:02",
@@ -170228,51 +170356,6 @@
         "Importance 2"
       ],
       "text": "Dow Rises to New Record — US stocks swung to trade mostly higher on Thursday as a pullback in oil prices softened inflationary risks, offsetting a pivot out of semiconductor companies after Broadcom released results. The S&P 500 rose 0.4% and the Dow gained over 900 points to a new record high. Despite repeated clashes, Israel and Lebanon signed a ceasefire that could pave the way for a US-Iran peace deal, lowering oil prices and bond yields. Banks and asset managers rebounded, with JPMorgan, Wells Fargo, and Morgan Stanley adding 4%, while Blackstone soared 8% despite capping private credit redemptions. In turn, the Nasdaq 100 fell 0.5% amid fresh selling for semiconductors, which have supported equity indices this year. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. Micron and AMD followed with losses of over 4%. Also, Crowdstrike also slipped 6% after posting its earnings."
-    },
-    {
-      "id": "4917912",
-      "time": "2026-06-05 01:05:05",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市4日上漲】英國倫敦股市《金融時報》100種股票平均價格指數4日報收於10360.32點，較前一交易日上漲28.02點，漲幅為0.27%。歐洲三大股指當天全線上漲。 當天倫敦股市成分股中位於漲幅前五位的個股分別為：勵訊集團股價上漲6.03%，倫敦證交所集團股價上漲5.29%，約翰-戴維運動時裝公司股價上漲4.67%，市場徵信服務商益博睿公司股價上漲3.53%，軟體企業賽奇公司股價上漲3.52%。 當天倫敦股市成分股中位於跌幅前五位的個股分別為：保險及金融投資企業保誠集團股價下跌7.60%，零售企業塞恩斯伯裡公司股價下跌3.09%，渣打銀行股價下跌2.81%，力拓集團股價下跌2.79%，極地資本科技信託公司股價下跌2.54%。 歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於8244.29點，較前一交易日上漲93.87點，漲幅為1.15%；德國法蘭克福股市DAX指數報收於24944.95點，較前一交易日上漲149.01點，漲幅為0.60%。(新華社)"
-    },
-    {
-      "id": "4917911",
-      "time": "2026-06-05 01:04:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：6月3日當週，美國未經季節性調整的商業票據未償餘額增加240億美元。美國未經季節性調整的外國金融機構商業票據未償餘額增加100億美元。美國經季節性調整的商業票據未償餘額增加107億美元。"
-    },
-    {
-      "id": "mkt:019e9398-297b-711f-ac52-f353abecfe16",
-      "time": "2026-06-05 01:04:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve data for the week of June 3: US non-seasonally adjusted commercial paper outstanding increased $24.0 bln; non-seasonally adjusted US commercial paper outstanding issued by foreign financial institutions increased $10.0 bln; seasonally adjusted US commercial paper outstanding increased $10.7 bln."
-    },
-    {
-      "id": "4917910",
-      "time": "2026-06-05 01:04:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長：“拜登的戰爭”變成“特朗普的戰爭”】俄羅斯外交部長拉夫羅夫4日在第29屆聖彼得堡國際經濟論壇期間表示，歐洲國家與美國在烏克蘭問題上的立場本質上“並無二致”。 美國國務卿魯比奧3日稱，美國將繼續向烏克蘭出售武器，中東局勢或其他任何地方發生的事件都不會對此造成阻礙。拉夫羅夫就此對俄羅斯媒體表示，魯比奧這番言論表明“拜登的戰爭”已經變成“特朗普的戰爭”。 拉夫羅夫說，比起歐洲國家，美國對俄政策“當然積極得多”：自現任總統特朗普上臺以來，美方一直倡導與俄方對話。只是，如果美國真的按照去年8月俄美領導人會晤的“安克雷奇精神”推進其倡議，俄美“早就坐到談判桌前”，俄烏衝突相關軍事行動也早已停止。 拉夫羅夫還說，西方國家不具備談判誠意，其一貫做法是“先作出承諾、繼而拖延時間”。這套策略毫無誠信可言，目的是攫取單邊利益後再次逼迫對方讓步。“遺憾的是，當前此類處事方式仍佔據上風。” 魯比奧3日在美國國會參議院撥款委員會一個小組委員會的聽證會上說，俄烏衝突無法透過軍事手段解決，只能透過外交途徑解決，但這一途徑迄今未取得成效。他承認，美國並非中立的調解者，而是顯然地選邊站隊。魯比奧還說，關於國會已批准但被五角大樓耽擱的4億美元對烏安全援助資金，很快會有新訊息。(新華社)"
-    },
-    {
-      "id": "4917909",
-      "time": "2026-06-05 01:03:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英債收益率普遍跌超3個基點】週四（6月4日）歐市尾盤，英國10年期國債收益率跌3.3個基點，報4.898%，全天處於下跌狀態，北京時間19:00開始一波顯著的下行行情、20:08重新整理日低至4.881%。兩年期英債收益率跌3.9個基點，報4.333%，20:08也重新整理日低至4.317%。30年期英債收益率跌3.3個基點，50年期英債收益率跌3.3個基點。2/10年期英債收益率利差漲0.701個基點，報+56.491個基點。"
     }
   ]
 }
