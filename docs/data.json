@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-11 10:04:22",
-  "count": 18421,
+  "updated": "2026-06-11 10:08:21",
+  "count": 18412,
   "items": [
+    {
+      "id": "te:markets:558224",
+      "time": "2026-06-11 10:07:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies as US Completes Iran Strikes — Gold stabilized near $4,100 an ounce on Thursday after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume and tempering some concerns over inflationary pressures. Earlier, the US launched fresh attacks on Iran after President Trump accused Tehran of delaying talks on an interim peace agreement, while Iran reportedly responded by targeting US vessels in the Strait of Hormuz. Even so, gold remained near seven-month lows as the prolonged conflict and the continuing near-total closure of Hormuz disrupted energy flows from the Persian Gulf, fueling worries about higher inflation and interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the reading matched market expectations. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced."
+    },
+    {
+      "id": "4929386",
+      "time": "2026-06-11 10:06:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4929385",
+      "time": "2026-06-11 10:06:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.04%，成分股中，一諾威跌7.06%，聚星科技跌6.70%，鼎智科技跌6.90%，華密新材跌6.60%。"
+    },
+    {
+      "id": "4929384",
+      "time": "2026-06-11 10:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股跌近4%。"
+    },
+    {
+      "id": "4929383",
+      "time": "2026-06-11 10:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "電通、7-11日本、CYBERAGENT將成立合資企業。"
+    },
     {
       "id": "4929382",
       "time": "2026-06-11 10:03:37",
@@ -169681,138 +169725,6 @@
         "Impact bearish"
       ],
       "text": "FactSet data show the Indonesian rupiah dipped below 18,000 per U.S. dollar for the first time."
-    },
-    {
-      "id": "4916387",
-      "time": "2026-06-04 10:08:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電員工2026 年利潤分成獎金預計將增長逾 30%。"
-    },
-    {
-      "id": "4916386",
-      "time": "2026-06-04 10:07:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量920億元。"
-    },
-    {
-      "id": "mkt:019e9062-fa8c-7cc0-ba21-deefa0c741a8",
-      "time": "2026-06-04 10:07:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02577.HK",
-        "Impact bullish",
-        "00400.HK",
-        "03986.HK"
-      ],
-      "text": "Hong Kong semiconductor stocks rose in early trade: 02577.HK up more than 7%, 00400.HK +6.32%, 03986.HK nearly +6%, 01347.HK up over 4%."
-    },
-    {
-      "id": "4916385",
-      "time": "2026-06-04 10:07:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元匯率首次跌破18000關口。"
-    },
-    {
-      "id": "4916384",
-      "time": "2026-06-04 10:06:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛瑪科技等成立智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，拜博智慧科技（蘇州）有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售；積體電路銷售；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由愛瑪科技全資子公司愛瑪創業投資（寧波）有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:019e9062-045b-7cc0-ba21-d431b956d13b",
-      "time": "2026-06-04 10:06:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Commercial bank Tier-2 perpetual bond issuance continues to heat up】Tier-2 perpetual bond issuance by Chinese commercial banks accelerated into June. As of June 3, banks issued 22 Tier-2 perpetual bonds year-to-date totaling 646 bln yuan; April issuance alone was 315 bln yuan, a multi-year high for the month. Market participants attribute the pickup to faster regulatory approvals, a low-rate window that lowers funding costs, and special government bond injections supporting bank capital. YTD issuance yields have declined sharply versus the same period in 2025, with a minimum of 1.9% and an average of 2.03% through June 3. Tianfeng Securities’ fixed-income chief analyst Tan Yiming said funds were the main buyers in May, drawn by relatively wider credit and product spreads."
-    },
-    {
-      "id": "4916383",
-      "time": "2026-06-04 10:06:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾進一步貶值，兌美元跌至17990的歷史新低。"
-    },
-    {
-      "id": "4916382",
-      "time": "2026-06-04 10:06:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "以太坊下跌3.5%，報1717.5美元。"
-    },
-    {
-      "id": "4916381",
-      "time": "2026-06-04 10:06:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "比特幣<BTC=>暴跌5.5%，跌至61344.2美元。"
-    },
-    {
-      "id": "4916380",
-      "time": "2026-06-04 10:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股半導體股反彈 英諾賽科漲近9%】截至發稿，英諾賽科(02577.HK)漲8.76%，華虹半導體(01347.HK)漲4.81%，雲英谷科技(03310.HK)漲2.82%。"
-    },
-    {
-      "id": "4916379",
-      "time": "2026-06-04 10:05:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "三井商船：該專案總投資約為50億美元。"
-    },
-    {
-      "id": "4916378",
-      "time": "2026-06-04 10:05:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "NBA總裁：NBA歐洲聯賽計劃於2027年正式推出。"
-    },
-    {
-      "id": "4916377",
-      "time": "2026-06-04 10:04:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "三井商船：該專案將成為美國首座浮式液化天然氣設施。"
-    },
-    {
-      "id": "mkt:019e9060-2bb5-7cc0-ba21-c850e8835491",
-      "time": "2026-06-04 10:04:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "The Indonesian rupiah extended losses in early trade, hitting a fresh record low of 17,960 per US dollar."
     }
   ]
 }
