@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-12 00:11:47",
-  "count": 18478,
+  "updated": "2026-06-12 00:15:51",
+  "count": 18480,
   "items": [
+    {
+      "id": "mkt:019eb776-4fdb-7dd8-afc6-87cc70740c7d",
+      "time": "2026-06-12 00:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Islamic Revolutionary Guard Corps (IRGC) spokesman said the United States would regret attempting to repeat its past failures."
+    },
+    {
+      "id": "4930985",
+      "time": "2026-06-12 00:14:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊發言人：如果美國想再次經歷其過去的失敗，那麼它將為此感到後悔。"
+    },
+    {
+      "id": "te:markets:558443",
+      "time": "2026-06-12 00:13:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Thursday — The FTSE 100 rose 0.4% on Thursday, extending the previous session’s 0.3% gain, supported by strength in financial and mining stocks. HSBC Holdings advanced more than 2%, while Lloyds Banking and Barclays gained around 0.7% each. Standard Chartered climbed nearly 3.6% and NatWest also moved higher. Mining shares also contributed, with Rio Tinto rising about 1.6%, Glencore up 1.9%, Anglo American adding around 2.5%, and Antofagasta and Fresnillo gaining more than 1%. Intertek shares increased more than 1.5% after the testing and inspection group extended the deadline for potential bidders to submit final offers to June 18. In contrast, Halma fell nearly 16% despite reporting higher annual profits and a strong start to the new financial year. Elsewhere, Wizz Air posted profit growth slightly ahead of expectations despite disruption to Middle East routes. Frasers Group also made a €2 billion offer to acquire the remaining stake in Hugo Boss, offering €38 per share."
+    },
+    {
+      "id": "mkt:019eb775-8486-7dd8-afc6-793c395305ba",
+      "time": "2026-06-12 00:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A French official said Israeli firm BlackCore, suspected of interfering in French local elections, also allegedly interfered in New York City elections."
+    },
+    {
+      "id": "4930984",
+      "time": "2026-06-12 00:13:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "一名法國官員表示，被懷疑干預法國地方選舉的以色列公司“黑核”（BlackCore），也曾干預紐約市的選舉投票。"
+    },
+    {
+      "id": "te:markets:558442",
+      "time": "2026-06-12 00:12:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.95% Higher — The FTSE MIB Index went up by 476 points or 0.95 percent on Thursday to close at 50505 points. The rise was led by STMicroelectronics (5.98%), Saipem (5.47%) and Prysmian (5.19%). On the downside, the weakerst performers were Diasorin (-2.25%), Infrastrutture Wire (-1.73%) and Davide Campari-Milano (-1.09%)."
+    },
+    {
+      "id": "4930983",
+      "time": "2026-06-12 00:11:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界盃揭幕戰將舉行】北京時間6月12日凌晨3點，美加墨世界盃的揭幕戰將在墨西哥城阿茲特克體育場舉行，由東道主之一的墨西哥隊迎戰南非隊。而在16年前的南非世界盃，揭幕戰也是由當時的東道主南非隊對陣墨西哥隊。南非足球協會副主席林達·茲瓦內表示，南非隊時隔16年重返世界盃賽場，令他和南非球迷感到十分激動，他們有信心，南非隊能夠取得好的成績，並激勵南非的年輕人為了未來而努力。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:558441",
+      "time": "2026-06-12 00:11:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.06% Higher — The DAX Index rose 14 points or 0.06 percent on Thursday to close at 24210 points. Leading the gains are Siemens Energy (6.00%), RWE (3.38%) and Infineon (2.74%). Top losers were SAP (-6.53%), Deutsche Telekom (-3.11%) and Siemens Healthineers (-2.05%)."
+    },
     {
       "id": "te:markets:558440",
       "time": "2026-06-12 00:10:14",
@@ -170213,66 +170290,6 @@
         "國際"
       ],
       "text": "【報道：資料中心零部件生產商Xnrgy考慮按100億美元出售】據知情人士透露，包括貝萊德集團、Temasek Holdings Pte.的合資公司在內，諸多所有人考慮出售針對資料中心的冷卻技術與熱管理解決方案供應商Xnrgy Climate Systems，對這家位於美國亞利桑那州的資料中心零部件製造商的估值高達100億美元。"
-    },
-    {
-      "id": "mkt:019e936a-53f8-711f-ac52-98cce8e6e11f",
-      "time": "2026-06-05 00:14:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "A U.S. House lawmaker released a statement unveiling a draft bill to regulate artificial intelligence."
-    },
-    {
-      "id": "te:economy:556570",
-      "time": "2026-06-05 00:14:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Ease from 9-Month High — The average rate on a 30-year fixed-mortgage was at 6.48% in the first week of June, easing from the nine-month high of 6.53% in the previous week, according to data compiled by Freddie Mac. The pullback was consistent with the drop in long-term Treasury yields over the period as signs that the US is chasing an agreement with Iran to extend their ceasefire lowered prices of key energy commodities."
-    },
-    {
-      "id": "4917867",
-      "time": "2026-06-05 00:14:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：反反覆覆的協議令石油市場保持緊張】隨著以色列和黎巴嫩之間的初步停火協議提升了對美伊談判的希望，油價走低。Price Futures Group的Phil Flynn在一份報告中表示：“這些反反覆覆的事態發展令市場保持緊張。“他指出：“地緣政治風險仍然是主要驅動因素，但隨著交易員獲利了結，任何局勢降溫的跡象都會帶來快速的拋售壓力。”Flynn補充說，即使達成可能重新開放霍爾木茲海峽的協議框架，“分析師警告稱，由於物流、排雷和核查方面的障礙，供應全面恢復正常可能需要數月時間。“西得州中質油下跌3.1%，報93.04美元；布倫特原油下跌2.8%，報95.08美元。"
-    },
-    {
-      "id": "4917866",
-      "time": "2026-06-05 00:13:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【盛寶銀行：銅市等待美國關鍵關稅決定】市場觀察人士稱，美國關稅的不確定性繼續扭曲並收緊全球銅市。預計華盛頓將決定是否將進口關稅擴大至精煉銅，此舉可能對全球供應產生重大影響。去年，對關稅的預期推高了倫敦金屬交易所(LME)的銅價，因為美國買家在潛在的貿易限制出臺前加速採購並建立庫存，從而減少了其他地區的可用供應。盛寶銀行的分析師表示：“即將於6月底釋出的美國商務部報告是一個潛在的重要催化劑。“他們還稱：“支援未來徵收關稅的建議可能會鼓勵在實施前進一步積累庫存，而不推進關稅的決定可能會引發目前溢價的回吐，並對價格造成一些暫時的壓力。”"
-    },
-    {
-      "id": "4917865",
-      "time": "2026-06-05 00:12:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國眾議院議員公佈人工智慧監管法案草案。"
-    },
-    {
-      "id": "te:markets:556569",
-      "time": "2026-06-05 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.27% Higher — The FTSE MIB Index went up by 136 points or 0.27 percent on Thursday to close at 50174 points. The rise was led by Diasorin (7.20%), Finecobank (2.35%) and Azimut Holding (2.11%). On the downside, the weakerst performers were STMicroelectronics (-2.95%), Prysmian (-2.40%) and Tenaris (-0.87%)."
     }
   ]
 }
