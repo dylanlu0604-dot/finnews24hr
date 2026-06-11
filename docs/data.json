@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-11 08:53:09",
-  "count": 18433,
+  "updated": "2026-06-11 08:57:03",
+  "count": 18434,
   "items": [
+    {
+      "id": "4929238",
+      "time": "2026-06-11 08:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：瓦拉明傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019eb42d-8fa8-7dd8-afb0-2a1126490564",
+      "time": "2026-06-11 08:55:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq futures turned positive after an earlier 1% decline."
+    },
+    {
+      "id": "4929237",
+      "time": "2026-06-11 08:54:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國一家次級車貸機構據悉尋求紓困資金以免破產 週三股價重挫68%】據知情人士透露，二手車銷售商和次級貸款機構America’s Car-Mart Inc.正在最後關頭籌集資金以免申請破產，該公司在現金短缺後已經瀕臨違約。一位知情人士透露，該公司聘請的Houlihan Lokey Inc.一直在聯絡投資者，以評估他們是否有興趣提供至少5億美元的新資金。這位知情人士因涉及未公開事宜而要求匿名。他們表示，這筆新資金將用於幫助這家陷入困境的借款人填補流動性缺口並償還現有貸款機構。知情人士透露，該公司已開始為可能提出《破產法》第11章(Chapter 11)聲請預作準備；目前，該公司與貸款機構達成延長的暫緩執行協議，有效期至6月12日。America’s Car-Mart的股價週三暴跌68%，至1.67美元，創下1992年上市以來的最低水準。疫情爆發後不久，該公司股價曾達到約152美元的高峰。"
+    },
+    {
+      "id": "4929236",
+      "time": "2026-06-11 08:52:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將賽力斯A股目標價從88.10元人民幣下調至55.40元人民幣，將賽力斯港股目標價從98.90港元下調至63.70港元。"
+    },
     {
       "id": "te:markets:558196",
       "time": "2026-06-11 08:51:18",
@@ -169897,35 +169935,6 @@
         "Importance 1"
       ],
       "text": "Japanese Shares Pull Back From Record Highs — The Nikkei 225 Index fell 1.5% toward 67,000, while the broader Topix Index declined 0.8% to 3,964 on Thursday, as Japanese equities retreated from record levels amid renewed tensions between the US and Iran. The latest escalation undermined hopes for a peace agreement and drove energy prices higher, keeping inflation and interest-rate concerns in focus. Domestic stocks also followed US futures lower after a weak outlook from US chipmaker Broadcom weighed on the global technology sector. Meanwhile, billionaire investor Ray Dalio cautioned that the rapidly expanding artificial intelligence market is exhibiting bubble-like characteristics that could eventually unwind. Technology and AI-related shares led losses in Japan, including SoftBank Group (-7.8%), Kioxia Holdings (-1%), Fujikura (-6.1%), Murata Manufacturing (-2.9%), and Furukawa Electric (-4.4%)."
-    },
-    {
-      "id": "4916242",
-      "time": "2026-06-04 08:55:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【健麾資訊等成立具身智慧機器人公司】企查查APP顯示，近日，上海健麾具身智慧機器人有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人制造；工業機器人銷售；特殊作業機器人制造等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。"
-    },
-    {
-      "id": "4916241",
-      "time": "2026-06-04 08:53:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta指責澳大利亞違反自由貿易協定 援引美國貿易行動】Meta指責澳大利亞提議對未與當地媒體達成授權協議的某些科技巨頭徵收新稅，此舉違反了與美國簽署的自由貿易協定，從而加劇了這場已持續醞釀五年的爭端。這家市值1.6萬億美元、擁有Facebook和Instagram的巨頭表示，對平臺徵收相當於其在澳總收入2.25%的稅款——包括與社交媒體無關的收入——這一提議“站不住腳”，且其力度已超出此前引發美國政府回應的措施。Meta此前曾表示，反對澳大利亞中左翼政府已公佈立法草案的所謂“新聞談判激勵”措施。但其最新宣告表明，該法律可能加劇這兩個盟國之間的地緣政治緊張局勢。Meta在週四釋出的一篇部落格文章中表示，該稅種“顯然違反了澳大利亞和美國在雙邊自由貿易協定中作出的承諾，該協定要求澳大利亞給予美國公司‘不遜於’澳大利亞同行的待遇”。"
-    },
-    {
-      "id": "mkt:019e901e-fbda-7003-8288-339f0c4ac864",
-      "time": "2026-06-04 08:53:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "SK Group and Taiwan Semiconductor Manufacturing Co. (TSMC) agreed to deepen cooperation on high-bandwidth memory (HBM) development and advanced packaging."
     }
   ]
 }
