@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-12 04:48:50",
-  "count": 18426,
+  "updated": "2026-06-12 04:52:43",
+  "count": 18424,
   "items": [
+    {
+      "id": "mkt:019eb874-6ce5-7dd8-afcb-b1be3257b948",
+      "time": "2026-06-12 04:51:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said the government will publish the memorandum of understanding once it determines the text safeguards the interests of the Iranian people."
+    },
+    {
+      "id": "4931252",
+      "time": "2026-06-12 04:51:15",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【6月12日美股成交額前20：美銀上調英特爾評級至“買進”】週四美股成交額第4名英特爾收高9.27%，成交212.26億美元。美銀將英特爾評級從“跑輸大盤”上調至“買入”，目標價設為135美元。此次評級上調的核心原因，在於美銀對英特爾伺服器晶片業務前景及外部代工業務前景的信心持續增強。分析團隊表示，此前基於2028年預估的分類加總估值方法低估了公司在晶片製造及代工業務方面更長遠的潛力。美銀目前預計，英特爾到2030年的每股盈利能力將超過6美元，較此前3至4美元的預估大幅提升。"
+    },
+    {
+      "id": "4931251",
+      "time": "2026-06-12 04:50:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國可繼續徵收第122條關稅 直至上訴法院作出裁決】圍繞多個州和小企業對2月份開始實施的10%全球關稅提出的司法挑戰，特朗普政府取得一項關鍵的程式性勝利，因為一家聯邦上訴法院裁定，在訴訟進行期間，政府可以繼續徵收這些關稅。華盛頓一家聯邦上訴法院週四裁定，美國政府已經“作出充分說明”，表明其很可能在圍繞總統唐納德·特朗普動用1974年《貿易法》第122條徵收關稅的爭議中勝訴。法院表示，允許這些關稅目前繼續有效，在當前情況下是合理的。"
+    },
     {
       "id": "mkt:019eb871-7241-7dd8-afcb-ac97b517c923",
       "time": "2026-06-12 04:48:22",
@@ -169883,48 +169909,6 @@
         "MKT News"
       ],
       "text": "Argentina's central bank market expectations survey projects GDP growth of 2.9% by end-2026, a 0.1 percentage-point upward revision from the prior forecast; inflation is projected at 30.5%."
-    },
-    {
-      "id": "4918175",
-      "time": "2026-06-05 04:52:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lululemon：進入二季度後，新品上市未能收穫預期的消費者反響。"
-    },
-    {
-      "id": "4918174",
-      "time": "2026-06-05 04:52:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行市場預期調查顯示，該國 2026 年全年通脹預期為 30.5%。"
-    },
-    {
-      "id": "mkt:019e9468-1897-7cc8-bdee-966bdbd1c463",
-      "time": "2026-06-05 04:51:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Starmer's spokesperson said he has no intention of resigning."
-    },
-    {
-      "id": "4918173",
-      "time": "2026-06-05 04:51:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行市場預期調查顯示，該國 2026 年末國內生產總值增速預估為 2.9%，較此前預測上調 0.1 個百分點。"
-    },
-    {
-      "id": "mkt:019e9465-d903-7cc8-bdee-8f9cf5c17d39",
-      "time": "2026-06-05 04:49:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says he would not rule out meeting Iran’s new Supreme Leader if a deal is reached】On the 4th, US President Trump said he would not rule out meeting Iran’s new Supreme Leader if the US and Iran ultimately reach an agreement. He reiterated the US will never allow Iran to acquire nuclear weapons and said prior strikes on Iranian nuclear sites had \"completely destroyed\" the related facilities. Trump added the US considered sending troops into Iranian nuclear sites to remove enriched uranium but abandoned the plan to avoid prolonged ground operations and casualties, saying such an operation would take one to two weeks, require heavy equipment and airlift capacity, and carry high risk."
     }
   ]
 }
