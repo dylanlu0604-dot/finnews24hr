@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-12 07:29:39",
-  "count": 18449,
+  "updated": "2026-06-12 07:33:24",
+  "count": 18438,
   "items": [
+    {
+      "id": "te:markets:558491",
+      "time": "2026-06-12 07:32:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls as Trump Signals Potential Iran Deal — Brent dropped below $89 per barrel on Friday, hitting its lowest level in nearly two months after President Donald Trump said a peace agreement with Iran could be reached as early as this weekend. The remarks came after he delayed planned military strikes and warned that the US could target Iran's oil infrastructure. Iran's semi-official Fars news agency reported that Tehran was likely to accept the deal, although no final text has been approved by either side. Trump said the agreement would reopen shipping through the Strait of Hormuz and include Iranian commitments to forgo developing nuclear weapons. Still, traders remained cautious, as even a breakthrough would face significant obstacles before oil flows fully normalize, including clearing mines from Hormuz, restarting idled production fields, and repairing energy facilities damaged by drone and missile attacks."
+    },
+    {
+      "id": "te:markets:558489",
+      "time": "2026-06-12 07:32:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls as Trump Signals Potential Iran Deal — Crude oil dropped below $86 per barrel on Friday, hitting its lowest level in nearly two months after President Donald Trump said a peace agreement with Iran could be reached as early as this weekend. The remarks came after he delayed planned military strikes and warned that the US could target Iran's oil infrastructure. Iran's semi-official Fars news agency reported that Tehran was likely to accept the deal, although no final text has been approved by either side. Trump said the agreement would reopen shipping through the Strait of Hormuz and include Iranian commitments to forgo developing nuclear weapons. Still, traders remained cautious, as even a breakthrough would face significant obstacles before oil flows fully normalize, including clearing mines from Hormuz, restarting idled production fields, and repairing energy facilities damaged by drone and missile attacks."
+    },
+    {
+      "id": "4931361",
+      "time": "2026-06-12 07:32:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價一度跌至兩個月低點 特朗普稱美伊接近達成協議】在美國的軍事打擊令人們對結束戰爭的進展產生懷疑後，特朗普表示與伊朗的和平協議最早可能在本週末簽署，油價一度跌至兩個月低點。WTI原油價格開盤一度暴跌近3%至每桶85.13美元，創4月17日以來的低位，隨後收復部分跌幅。特朗普曾誓言將再次打擊伊朗，並威脅要奪取其石油基礎設施，隨後又宣佈取消襲擊並稱協議接近達成，但德黑蘭方面尚未予以確認。這位美國總統此前曾數十次堅稱與伊朗的協議接近達成，但迄今尚未有任何協議達成。這場衝突導致霍爾木茲海峽幾乎完全關閉，切斷了全球客戶對原油、燃料和天然氣的關鍵供應，同時加劇了通脹。"
+    },
+    {
+      "id": "4931360",
+      "time": "2026-06-12 07:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI重塑底層邏輯，資料庫重新站上風口】“古老”的資料庫行業，信創吹響的衝鋒號角還未平息，又因為AI再次硝煙四起。 “行業正以Agent（智慧體）作為新使用者，重構資料庫的產品能力體系。”在5月底舉辦的騰訊雲“資料庫+AI”產品釋出會上，騰訊雲副總裁王義成說，資料庫行業正在進入人工智慧3.0時代。 事實上，在過去半年裡，國內資料庫廠商密集釋出AI相關產品。無論是網際網路大廠，還是A股上市公司，幾乎所有資料庫企業都將AI視為新一輪產業機遇。 當企業不再只問“存不存得下資料”，而是問“大模型能不能直接用我的資料回答問題”，資料庫這個看似沉悶的基礎軟體重新站上風口。（上海證券報）"
+    },
+    {
+      "id": "4931359",
+      "time": "2026-06-12 07:31:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新交所開盤上漲2060點，報66550點。"
+    },
+    {
+      "id": "4931358",
+      "time": "2026-06-12 07:31:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與ACWA深化綠色低碳發展新空間】6月11日上午，上海電氣集團黨委副書記、總裁朱兆開同沙特國際電力與水務公司（ACWA）執行長薩米爾·塞爾漢博士舉行會談，雙方就全球能源轉型趨勢、新興市場戰略協同、綠氫產業發展及海水淡化技術合作等話題展開深入交流。朱兆開表示，期待雙方進一步深化技術創新協同，聚焦長時儲能、綠氫製備、智慧能源管理等前沿賽道開展聯合研發，在已有良好合作基礎上，規模化拓展新能源、水資源綜合利用等新興領域合作，依託雙方資源優勢，攜手開拓第三方國際市場，共同打造高標準、高質量的國際能源合作專案，實現優勢互補、利益共享、共同發展。"
+    },
+    {
+      "id": "4931357",
+      "time": "2026-06-12 07:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：美國行為的本質是“武裝搶劫”和“國家海盜”】伊朗外交部發言人巴加埃12日在社交媒體上說，美國襲擊商船造成至少三名印度公民喪生一事清楚表明，美國行為的本質是“武裝搶劫”和“國家海盜”。巴加埃表示，國際社會必須對美國違法行為追責，此類行為持續威脅全球和平與安全，並危及航行自由。（新華社）"
+    },
     {
       "id": "4931356",
       "time": "2026-06-12 07:28:43",
@@ -169971,193 +170034,6 @@
         "國際"
       ],
       "text": "【日本實際工資連續第四個月上漲 為日央行加息提供支撐】日本勞動者實際工資連續第四個月走高，創下四年以來最長連漲週期，利好日本央行本月加息。日本厚生勞動省週五公佈資料：剔除通脹後的實際工資同比上漲1.9%，較上月修正值1.4%進一步提速，高於經濟學家預期的1.7%，創下2021年末以來最長月度連增紀錄。名義薪資同比增長3.5%，同樣超出市場一致預期的3.1%。基本工資漲幅3.4%；日本央行重點跟蹤、規避抽樣偏差的全職員工薪資指標上漲2.6%，兩項資料均體現薪資基本面走強。薪資資料出爐之際，日本央行正籌備6月15日至16日的貨幣政策會議，市場普遍預計央行理事會將上調基準利率25個基點。薪資穩步增長預示內需韌性充足，進一步支撐貨幣政策迴歸常態化。知情人士本週透露，日本監管機構將在本次議息會議上考量加息事宜，同時研討2026年後續階段進一步加息的空間。"
-    },
-    {
-      "id": "4918265",
-      "time": "2026-06-05 07:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西南寧暴雨橙色預警訊號提升為紅色】廣西南寧市氣象臺5日5時30分將暴雨橙色預警訊號提升為紅色：青秀區伶俐、長塘鎮已出現暴雨，3小時內青秀區將出現大暴雨，注意防範。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606053760831170",
-      "time": "2026-06-05 07:32:42",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月加班工資同比增長4.2%，前值1.9%。"
-    },
-    {
-      "id": "4918264",
-      "time": "2026-06-05 07:32:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股限售股解禁一覽：241.97億元市值限售股今日解禁】Wind資料顯示，週五（6月5日），共有16家公司限售股解禁，合計解禁量為4.8億股，按最新收盤價計算，合計解禁市值為241.97億元。從解禁量來看，3家公司解禁股數超千萬股。中策橡膠、中科儀、崑崙萬維解禁量居前，解禁股數分別為4.18億股、2154.53萬股、1838.69萬股。從解禁市值來看，3家公司解禁市值超億元。中策橡膠、中科儀、優優綠能解禁市值居前，解禁市值分別為191.94億元、19.7億元、15.32億元。從解禁股數佔總股本比例來看，2家公司解禁比例超10%。中策橡膠、優優綠能、中科儀解禁比例居前，解禁比例分別為47.75%、20.94%、9.63%。"
-    },
-    {
-      "id": "te:markets:556606",
-      "time": "2026-06-05 07:32:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Decline on Diplomatic Hopes — Brent crude futures traded near $95 per barrel on Friday after losing nearly 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the international oil benchmark is still up more than 4% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities."
-    },
-    {
-      "id": "4918263",
-      "time": "2026-06-05 07:32:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部長具允哲：政府正在提高警惕應對。要警惕金融和外匯市場波動加劇以及民生需求增長。"
-    },
-    {
-      "id": "te:markets:556605",
-      "time": "2026-06-05 07:31:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Decline on Diplomatic Hopes — WTI crude futures held below $93 per barrel on Friday after losing more than 3% in the previous session, weighed down by hopes that the US and Iran could still find a diplomatic solution to end the war and reopen the Strait of Hormuz. President Donald Trump has reportedly been hesitant to reengage in a full-scale war with Iran despite recent confrontations, and would only consider ending the current truce if Tehran kills American troops. Even so, the US oil benchmark is still up more than 6% for the week, as negotiations between Washington and Tehran have yet to show meaningful progress, while Israel’s ongoing military operations in Lebanon is becoming a key obstacle. Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon, although President Trump said the group had approached the White House to discuss ending the hostilities."
-    },
-    {
-      "id": "4918262",
-      "time": "2026-06-05 07:31:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本4月經通脹調整後的實際工資同比上漲1.9%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606053760817820",
-      "time": "2026-06-05 07:30:51",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月所有家庭支出同比下降0.5%，預期-1.5%，前值-2.90%。"
-    },
-    {
-      "id": "4918261",
-      "time": "2026-06-05 07:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本政府公佈資料顯示，4月家庭支出同比下降0.5%，此前調查的預期為下降1.5%。"
-    },
-    {
-      "id": "mkt:019e94f9-3ea4-7cc8-bdef-98b637ca9a30",
-      "time": "2026-06-05 07:30:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April total household spending up 1.6% MoM vs 0.8% expected; March -1.3%."
-    },
-    {
-      "id": "mkt:019e94f9-1b6e-7cc8-bdef-93d1ea940714",
-      "time": "2026-06-05 07:30:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan April labor cash earnings YoY 3.5% vs 3.1% expected; prior revised to 3.1% from 2.7%."
-    },
-    {
-      "id": "mkt:019e94f9-1b6a-7cc8-bdef-8dbd0d52dce7",
-      "time": "2026-06-05 07:30:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April total household spending YoY -0.5% (exp -1.5%), prior -2.9%."
-    },
-    {
-      "id": "mkt:019e94f9-1a4c-7cc8-bdef-82c0495ad3c8",
-      "time": "2026-06-05 07:30:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan April overtime pay YoY +4.2%, up from +1.9% previously."
-    },
-    {
-      "id": "mkt:019e94f9-19fc-7cc8-bdef-7bd4e174332f",
-      "time": "2026-06-05 07:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Expenditures for Two-or-more-person Households (MoM) (Apr) | actual 1.6% | consensus 0.8% | previous -1.3%"
-    },
-    {
-      "id": "mkt:019e94f8-fde1-7cc8-bdef-73f58a8f12db",
-      "time": "2026-06-05 07:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Expenditures for Two-or-more-person Households (YoY) (Apr) | actual -0.5% | consensus -1.5% | previous -2.90%"
-    },
-    {
-      "id": "mkt:019e94f8-e8d0-7cc8-bdef-68f77a9adec0",
-      "time": "2026-06-05 07:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Cash Earnings (YoY) (Apr) | actual 3.5% | consensus 3.1% | previous 2.70%"
-    },
-    {
-      "id": "mkt:019e94f8-e8cd-7cc8-bdef-6412824d91e5",
-      "time": "2026-06-05 07:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Overtime Earnings (YoY) (Apr) | actual 4.2% | previous 1.9%"
-    },
-    {
-      "id": "4918260",
-      "time": "2026-06-05 07:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前5個月基金新開戶數近160萬 基金經理對後市普遍持樂觀態度】隨著公募基金賺錢效應的持續顯現，投資者對基金的關注度也在不斷升溫。上交所資料顯示，今年前5個月基金新開戶數近160萬，同比增長超過20%。從近期基金髮行情況看，權益與“固收+”產品均接連出現爆款。站在當前時點，機構對後市普遍持樂觀態度。（上海證券報）"
     }
   ]
 }
