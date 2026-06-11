@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-12 03:46:59",
-  "count": 18466,
+  "updated": "2026-06-12 03:50:45",
+  "count": 18467,
   "items": [
+    {
+      "id": "4931214",
+      "time": "2026-06-12 03:49:09",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什政策首秀在即，PIMCO：市場關注其如何為美聯儲打上自身印記】太平洋投資管理公司（PIMCO，品浩）管理人士表示，債券投資者將關注下週的美聯儲會議，以判斷新任主席凱文·沃什會以多快速度為這家央行打上自己印記。前美聯儲副主席、Pimco全球經濟顧問Richard Clarida稱，投資者仍在試圖判斷沃什將如何處理美聯儲與市場的溝通。“回顧80年代的時候，可以理解的是，當一位新任美聯儲主席上任時，會有一段也許以周或月來衡量的時期，在這段時期裡，你會試圖瞭解制度框架和溝通情況，” Clarida在美國紐約舉行的一場PIMCO新聞活動上表示，“對我來說，真正的問題在於沃什會在多大程度上、以及如何在這種溝通上打上自己的印記並施加自己的重點。"
+    },
+    {
+      "id": "4931213",
+      "time": "2026-06-12 03:47:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達埃米爾與美國總統通電話 討論美伊磋商進展】當地時間6月11日，卡達埃米爾（國家元首）塔米姆同美國總統特朗普通電話，雙方討論了兩國戰略關係及地區和國際局勢，重點就地區局勢交換意見。通話中，雙方回顧了美國與伊朗磋商所取得的進展。美方表示，相關諒解已獲得有關各方同意，並得到包括卡達在內的多個國家支援，目前各方正推進最後程式，為宣佈簽署安排作準備。卡達埃米爾表示，卡方歡迎透過對話和和平方式解決分歧，支援一切有助於維護地區和國際安全穩定、促進地區和平與合作的努力。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb839-882b-7dd8-afca-6e9182c40a35",
+      "time": "2026-06-12 03:47:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The Mexican peso gained nearly 1% against the US dollar; Mexico’s main stock index rose more than 3%."
+    },
+    {
+      "id": "mkt:019eb839-3335-7dd8-afca-65a803732fbf",
+      "time": "2026-06-12 03:46:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says Iran deal in final drafting, may be signed this weekend】On June 11 Trump said the US has \"reached an excellent deal\" with Iran and that related documents are in final drafting. He said the agreement could be finalized in the next few days and signed soon, possibly in Europe this weekend, and that Vice President Vance will attend. Trump added that if Iran signs, the Strait of Hormuz will reopen. Iran has not responded."
+    },
     {
       "id": "4931212",
       "time": "2026-06-12 03:45:59",
@@ -170217,34 +170258,6 @@
         "WTI"
       ],
       "text": "Lebanese Health Ministry said two Israeli strikes in eastern and southern Lebanon killed eight people."
-    },
-    {
-      "id": "mkt:019e942f-a124-755d-92d5-bb4c5c30c1c0",
-      "time": "2026-06-05 03:50:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【US media: Pentagon may cancel Tomahawk missile transfer to Germany over Russia escalation concerns】Politico reports the Pentagon is expected to cancel delivery of Tomahawk cruise missiles to Germany, citing US concerns that Moscow would view the shipment as an escalation, according to two European officials and one US official. German leaders warn non-delivery would void a Biden-era agreement and leave Berlin short of urgently needed defensive capability. US officials frame the move as part of a broader pullback within NATO that is straining long-standing partnerships. US Defense Secretary told Congress last month that replenishing munitions expended in the Iran conflict will take \"months to years.\""
-    },
-    {
-      "id": "mkt:019e942d-f5f5-755d-92d5-b68175c65f5f",
-      "time": "2026-06-05 03:48:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he will build a walkway at the Lincoln Memorial."
-    },
-    {
-      "id": "mkt:019e942d-8838-755d-92d5-ab0f2aced8df",
-      "time": "2026-06-05 03:47:52",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Market sources say Boeing (BA.N) is considering boosting 737 production to levels close to the aggressive production targets set by Airbus."
     }
   ]
 }
