@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-11 08:45:17",
-  "count": 18436,
+  "updated": "2026-06-11 08:49:11",
+  "count": 18431,
   "items": [
+    {
+      "id": "mkt:019eb426-814b-7dd8-afb0-253722449fd2",
+      "time": "2026-06-11 08:48:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin-financing balance on Shanghai and Shenzhen down 8.091 bln yuan】As of June 10, margin-financing balance on the Shanghai Stock Exchange was 1,447.858 bln yuan, down 43.65 bln yuan from the previous trading day; Shenzhen was 1,401.181 bln yuan, down 37.26 bln; combined mainland balance 2,849.039 bln yuan, down 80.91 bln yuan."
+    },
+    {
+      "id": "4929232",
+      "time": "2026-06-11 08:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少80.91億元】截至6月10日，上交所融資餘額報14478.58億元，較前一交易日減少43.65億元；深交所融資餘額報14011.81億元，較前一交易日減少37.26億元；兩市合計28490.39億元，較前一交易日減少80.91億元。"
+    },
+    {
+      "id": "mkt:019eb425-bd2d-7dd8-afb0-1aa8d643ea5b",
+      "time": "2026-06-11 08:47:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's JUNO publishes first physics result in Nature】June 10 — China's Jiangmen Underground Neutrino Observatory (JUNO) had its first physics result published as a cover article in Nature. The paper, “Precision measurement of two neutrino oscillation parameters,” uses 59 days of data collected Aug. 26–Nov. 2, 2025, and reports high-precision measurements of two key oscillation parameters with precision 1.6× better than the combined results of prior experiments over past decades."
+    },
+    {
+      "id": "4929231",
+      "time": "2026-06-11 08:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省委書記許昆林在瀋陽調研文旅產業發展：全力推動文旅體商深度融合】6月10日，遼寧省委書記許昆林圍繞推動文旅產業發展、擴大服務消費，深入瀋陽方城文化旅遊區、中街進行專題調研。他強調，要深入學習貫徹習近平總書記關於服務業發展的重要論述，全面貫徹落實習近平總書記對遼寧的重要講話和重要指示精神，全域全鏈條謀劃推動文旅體商深度融合，充分釋放文旅消費的“乘數效應”，加快促進服務消費擴容提質增效。（遼寧日報）"
+    },
     {
       "id": "te:markets:558192",
       "time": "2026-06-11 08:44:42",
@@ -169873,85 +169911,6 @@
         "公司"
       ],
       "text": "【宏明電子：研發的MLCC配套材料不能用於玻璃基板通孔填充】宏明電子(301682)在互動平臺表示，公司研發的MLCC配套陶瓷介質與電極漿料，研發攻關聚焦MLCC電容產品體系。該材料配方、引數針對MLCC工況定製，不能用於玻璃基板的通孔填充。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606043759664624",
-      "time": "2026-06-04 08:48:23",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲到7月維持利率不變的機率為90.2%】據CME“美聯儲觀察”，美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為90.2%，累計加息25個基點的機率8.4%，累計降息25個基點的機率為1.4%。"
-    },
-    {
-      "id": "mkt:019e9019-e10d-7003-8288-2ce138f04835",
-      "time": "2026-06-04 08:47:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Margin financing balances at Shanghai and Shenzhen rise CNY 8.495 bln】June 3 — Margin financing balances on the Shanghai Stock Exchange stood at CNY 1.4742 tln, up CNY 5.22 bln from the previous trading day; on the Shenzhen Stock Exchange they were CNY 1.4101 tln, up CNY 3.275 bln. Combined margin balances totaled CNY 2.8843 tln, up CNY 8.495 bln."
-    },
-    {
-      "id": "4916238",
-      "time": "2026-06-04 08:47:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日增加84.95億元】截至6月3日，上交所融資餘額報14742.44億元，較前一交易日增加52.20億元；深交所融資餘額報14100.81億元，較前一交易日增加32.75億元；兩市合計28843.25億元，較前一交易日增加84.95億元。"
-    },
-    {
-      "id": "4916237",
-      "time": "2026-06-04 08:46:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大亞聖象：《城市更新“十五五”規劃》實施將為公司產品帶來市場機遇】大亞聖象在互動平臺表示，《城市更新“十五五”規劃》的實施將為公司地板、人造板產品帶來市場機遇，但訂單獲取存在不確定性。"
-    },
-    {
-      "id": "4916236",
-      "time": "2026-06-04 08:46:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市釋出雷電藍色預警】據北京市氣象局訊息，預計4日白天，我市自西向東將先後有雷陣雨天氣，局地短時雨強較大，伴有7級左右短時大風和分散小冰雹，請注意防範。"
-    },
-    {
-      "id": "4916235",
-      "time": "2026-06-04 08:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Alphabet股權出售據悉獲數倍超額認購】據報道，谷歌母公司Alphabet的股權出售獲得數倍超額認購。此前，該公司將融資規模從800億美元提高至847.5億美元，以支援不斷擴大的AI投資計劃。"
-    },
-    {
-      "id": "mkt:019e9018-71d6-7003-8288-2611f7e87e59",
-      "time": "2026-06-04 08:46:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. says strike in eastern Pacific on vessel tied to designated terrorist group killed two — SOUTHCOM】On June 3 U.S. Southern Command said Joint Task Force Spear of the South conducted a kinetic strike on a vessel operated by an organization designated as a terrorist group. Intelligence, the command said, confirmed the ship was transiting a known drug‑trafficking route in the eastern Pacific and participating in narcotics smuggling. Two male suspects described by the command as drug terrorists were killed. No U.S. personnel were injured."
-    },
-    {
-      "id": "4916234",
-      "time": "2026-06-04 08:46:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱在東太平洋打擊一艘“販毒船” 致2人死亡】當地時間6月3日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”對一艘由“認定恐怖組織”運營的船隻實施了動能打擊。情報確認該船隻正沿東太平洋“已知的毒品販運路線”航行，並“參與毒品販運”。此次行動中，兩名男性“毒品恐怖分子”被擊斃。無美軍人員受傷。"
-    },
-    {
-      "id": "4916233",
-      "time": "2026-06-04 08:45:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本家電零售商山田控股和愛電王計劃合併】據6月4日宣告，日本家用電器零售商山田控股和愛電王集團（EDION）計劃合併，旨在打造一家年銷售額近2.5萬億日元（約合156億美元）的連鎖巨頭。兩家公司均表示，董事會將於5日召開會議，審查合併計劃並討論相關提案。雙方未透露合併具體條款。"
     }
   ]
 }
