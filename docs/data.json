@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-12 06:32:00",
-  "count": 18432,
+  "updated": "2026-06-12 06:35:52",
+  "count": 18430,
   "items": [
+    {
+      "id": "te:markets:558475",
+      "time": "2026-06-12 06:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Spikes by 6.39% — Top commodity gainers are Silver (6.39%), Gold (3.49%) and Copper (2.10%). Biggest losers are Platinum (-1.49%) and Iron Ore CNY (-0.97%)."
+    },
     {
       "id": "mkt:019eb8cf-da3d-7dd8-afcc-43cdf06ced6d",
       "time": "2026-06-12 06:31:29",
@@ -169978,38 +169989,6 @@
         "MKT News"
       ],
       "text": "Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms."
-    },
-    {
-      "id": "te:markets:556595",
-      "time": "2026-06-05 06:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore Falls by 1.69% — Top commodity losers are Iron Ore (-1.69%), Iron Ore CNY (-1.60%) and Lithium Carbonate (-1.32%). Gains are led by Silver (1.58%), Platinum (1.27%) and Gold (0.97%)."
-    },
-    {
-      "id": "mkt:019e94c6-bd3f-7cc8-bdef-13389d9c6d6c",
-      "time": "2026-06-05 06:35:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said Starlink V3 satellites will offer more than 10x the bandwidth of V2 and will be launched in quantities exceeding 10x, implying overall bandwidth will increase by over 100x."
-    },
-    {
-      "id": "mkt:019e94c4-183a-7cc8-bdef-0e60242f5f83",
-      "time": "2026-06-05 06:32:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bearish",
-        "Ethereum"
-      ],
-      "text": "【CME CEO expresses serious concern over new \"perpetual futures\"】CME CEO Terry Duffy said he is \"very concerned\" about the rise of so-called perpetual futures, a contract type that recently received key approval from US regulators. He said the products have little practical use for institutional investors while creating excessive risk exposure for retail traders and added, \"I have serious concerns about the contract design. I don't want people who don't understand the product to be forced out by liquidations; they shouldn't be in these contracts.\""
     }
   ]
 }
