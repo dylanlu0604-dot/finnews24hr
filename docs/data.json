@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-11 13:01:16",
-  "count": 18386,
+  "updated": "2026-06-11 13:05:22",
+  "count": 18371,
   "items": [
+    {
+      "id": "4929605",
+      "time": "2026-06-11 13:03:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股鋰礦股午後衝高，永杉鋰業觸達漲停】A股鋰礦股午後衝高，永杉鋰業觸達漲停，國城礦業、盛新鋰能雙雙漲超7%，天華新能、融捷股份、西藏礦業、永興材料、贛鋒鋰業、天齊鋰業等個股跟漲。"
+    },
+    {
+      "id": "4929604",
+      "time": "2026-06-11 13:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院：加快國家人工智慧應用中試基地和國家級科研語料庫建設】6月11日，國家資料局舉辦2026年“資料要素×”首場新聞釋出會。中國科學院科技基礎能力局副局長張韻介紹了“資料要素×”行動計劃開展的情況。第一，圍繞搶佔科技制高點核心任務，加快構建高質量科學資料資源體系。中國科學院持續加強科學資料資源統籌佈局，推動重大科技基礎設施、科技專案和論文關聯資料的匯聚共享，不斷夯實科技創新資料基礎。第二，圍繞資料要素價值釋放，積極探索科學資料要素化發展新路徑。一方面，面向AI4S（AI for Science）對科學資料的迫切需求，我們加快國家人工智慧應用中試基地和國家級科研語料庫的建設，推動科學資料中心智慧化轉型，持續提升科技創新支撐能力。另一方面，強化科學資料總中心統籌支撐能力，圍繞確權、流通和評價等關鍵環節完善資料要素服務體系。第三，以“資料要素×”大賽為重要抓手，推動科學資料創新應用賦能智慧科研正規化變革。"
+    },
+    {
+      "id": "mkt:019eb50f-8a74-7dd8-afb4-78b434023a53",
+      "time": "2026-06-11 13:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals",
+        "002460.SZ",
+        "Impact bullish"
+      ],
+      "text": "Chinese A-share lithium miners jumped in afternoon trade; Yongshan Lithium hit the daily trading limit. Guocheng Mining and Shengxin Lithium Energy rose over 7%, while Tianhua Xinneng, Rongjie Co., Tibet Mining, Yongxing Materials, Ganfeng Lithium and TTANQT LITHIUM also advanced."
+    },
+    {
+      "id": "mkt:019eb50e-20a4-7dd8-afb4-724cd85dbf0c",
+      "time": "2026-06-11 13:01:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the SIDECAR mechanism and suspended programmatic buy orders on the KOSDAQ."
+    },
+    {
+      "id": "4929603",
+      "time": "2026-06-11 13:00:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝倫貝格：將歷峰集團目標價從150瑞士法郎上調至155瑞士法郎；將斯沃琪集團目標股價從115瑞士法郎上調至130瑞士法郎。"
+    },
     {
       "id": "mkt:019eb50d-9622-7dd8-afb4-6c93c4995caa",
       "time": "2026-06-11 13:00:26",
@@ -169229,196 +169277,6 @@
         "其他"
       ],
       "text": "澳大利亞儲備銀行（RBA）行長布洛克：近期加息不會影響油價驅動的通脹。"
-    },
-    {
-      "id": "mkt:019e9105-5c07-7cc0-ba25-88c0a9c931af",
-      "time": "2026-06-04 13:05:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said inflation is too high and the board will take necessary measures to meet its mandate of maintaining price stability and full employment."
-    },
-    {
-      "id": "mkt:019e9105-2a7a-7cc0-ba25-870cb4a5446f",
-      "time": "2026-06-04 13:04:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said monetary policy is well placed to respond to evolving conditions after three cash rate increases."
-    },
-    {
-      "id": "mkt:019e9105-1ffd-7cc0-ba25-7aaf3f9a3c06",
-      "time": "2026-06-04 13:04:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the bank will closely monitor economic conditions to assess the combined impact of higher interest rates and energy price shocks."
-    },
-    {
-      "id": "mkt:019e9105-0719-7cc0-ba25-7392ffa578af",
-      "time": "2026-06-04 13:04:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the bank expects inflation to rise further in the near term."
-    },
-    {
-      "id": "4916601",
-      "time": "2026-06-04 13:04:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：通脹水平目前過高，央行董事會將採取其認為必要的措施，完成我們的法定目標，即實現物價穩定與充分就業。"
-    },
-    {
-      "id": "mkt:019e9104-ec10-7cc0-ba25-6a4ba64cb428",
-      "time": "2026-06-04 13:04:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said data and developments since May have not materially differed from the bank's expectations."
-    },
-    {
-      "id": "4916600",
-      "time": "2026-06-04 13:04:29",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞儲備銀行行長布洛克：在已三次上調現金利率後，貨幣政策已做好充分準備應對形勢變化。"
-    },
-    {
-      "id": "4916599",
-      "time": "2026-06-04 13:04:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：澳儲行已看到一些跡象表明緊縮政策開始奏效。"
-    },
-    {
-      "id": "mkt:019e9104-8012-7cc0-ba25-62112c725a14",
-      "time": "2026-06-04 13:04:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "China A-share copper cable and high-speed connector sector jumped in an afternoon intraday rally: Dingtong Technology hit the 20% limit, Yidong Electronics rose over 14%, Xinke Materials earlier hit limit-up, and Jin Xinnuo, AVIC Optoelectronics and Yihua Co. also advanced."
-    },
-    {
-      "id": "4916598",
-      "time": "2026-06-04 13:03:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：我們將密切監測經濟形勢，評估加息與能源價格衝擊的綜合影響正在如何演變。"
-    },
-    {
-      "id": "4916597",
-      "time": "2026-06-04 13:03:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大地電氣等成立汽車電子新公司】企查查APP顯示，近日，安徽大地騰達汽車電子有限公司成立，註冊資本5000萬元，經營範圍包含：汽車零部件研發；汽車零部件及配件製造；汽車零配件零售；電線、電纜經營等。企查查股權穿透顯示，該公司由大地電氣等共同持股。"
-    },
-    {
-      "id": "4916596",
-      "time": "2026-06-04 13:03:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：我們預計通脹短期內將進一步上行。"
-    },
-    {
-      "id": "4916595",
-      "time": "2026-06-04 13:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行行長布洛克：自5月以來的資料流向與事態發展，和我們的預期並無實質性差異。"
-    },
-    {
-      "id": "4916594",
-      "time": "2026-06-04 13:03:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銅纜高速連線板塊短線拉昇，鼎通科技20cm漲停】銅纜高速連線板塊短線拉昇，鼎通科技20cm漲停，奕東電子漲超14%，鑫科材料此前漲停，金信諾、中航光電、意華股份跟漲。"
-    },
-    {
-      "id": "4916593",
-      "time": "2026-06-04 13:02:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析師：韓本土企業債發行有望下半年回暖 韓國央行年內將兩次加息】韓亞證券信用分析師Sang-man Kim表示，受韓國央行加息預期影響，短期融資渠道價效比下降，韓國上半年低迷的本土企業債發行規模或將在下半年回暖。 Sang-man Kim於週四釋出研報稱，上半年地緣風險疊加收益率上行，投融資雙方均規避長期限企業債券。韓亞證券預判韓國央行年內將兩次加息，2027年初再加一次息。不過本輪發債回暖或難以持久，發債主體將集中於高信用評級企業。"
-    },
-    {
-      "id": "mkt:019e9102-cdda-7cc0-ba25-5c7b5422c617",
-      "time": "2026-06-04 13:02:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TSMC (TSM.N) CEO: Taiwan will retain a significant advantage in AI for the foreseeable future."
-    },
-    {
-      "id": "mkt:019e9102-4ad1-7cc0-ba25-55c580e5507f",
-      "time": "2026-06-04 13:01:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Goldman Sachs forecasts MSCI Emerging Markets index earnings will rise 20% in 2027, up from its prior 19% projection."
-    },
-    {
-      "id": "mkt:019e9102-35d9-7cc0-ba25-4811f78d33a2",
-      "time": "2026-06-04 13:01:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs forecasts MSCI Emerging Markets Index earnings will rise 55% in 2026, revised up from a prior 45% forecast."
-    },
-    {
-      "id": "mkt:019e9101-f1c9-7cc0-ba25-419d32dc03c2",
-      "time": "2026-06-04 13:01:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Goldman Sachs raises 12-month PT for the MSCI Emerging Markets Index to 2,000 from 1,850."
-    },
-    {
-      "id": "4916592",
-      "time": "2026-06-04 13:01:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長表示：在可預見的未來，臺灣地區仍將在人工智慧領域保持顯著優勢。"
     }
   ]
 }
