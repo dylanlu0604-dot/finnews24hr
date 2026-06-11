@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-11 10:00:25",
-  "count": 18420,
+  "updated": "2026-06-11 10:04:22",
+  "count": 18421,
   "items": [
+    {
+      "id": "4929382",
+      "time": "2026-06-11 10:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊低開高走】湖南黃金漲近5%，曉程科技、盛達資源、興業銀錫、山東黃金、湖南白銀、四川黃金等個股拉昇。"
+    },
+    {
+      "id": "mkt:019eb46b-5576-7dd8-afb1-c85c5f0dc103",
+      "time": "2026-06-11 10:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Children eligible for railway tourism multi-ride tickets from June 11; fares set at 50% of adult】From June 11 China’s railway tourism multi-ride ticket has been extended to child travelers, with child fares set at 50% of the adult price and applied as an additional stacked discount. The upgraded product builds on the June 2023 adult multi-ride ticket: purchasers may select 2–10 one-way segments between designated stations, the ticket is valid for 15 days, and segment fares previously carried discounts down to 85% of the average same-route, same-class fare. China State Railway Group passenger revenue coordination director An Zhongwen confirmed the change."
+    },
+    {
+      "id": "4929381",
+      "time": "2026-06-11 10:03:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今起兒童旅客可購買鐵路旅遊計次票，票價為成人旅客的5折】今天（6月11日）起兒童旅客可購買鐵路旅遊計次票，並享受兒童優惠票政策，親子、家庭旅遊出行更加便捷實惠。此次推出的兒童旅遊計次票是在既有成人旅遊計次票基礎上最佳化升級的服務產品。2023年6月開始實行的鐵路旅遊計次票產品，主要面向成人旅客發售，按照“1次購買、分段乘坐、15天有效”的模式執行，購票人可在指定的車站間自主選擇2至10段行程出行，每段行程單次、單向、指定席別，票價均享受不同幅度的折扣優惠，最低為同徑路同席別各車次平均執行票價的8.5折。國鐵集團客運中心收益協同部總監安仲文表示，此次最佳化升級後，兒童旅客也可購買鐵路旅遊計次票，票價為成人旅客的5折，實行“折上折”。（央視新聞）"
+    },
+    {
+      "id": "4929380",
+      "time": "2026-06-11 10:03:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【埃利奧特對澳大利亞北方之星公司施加壓力，要求其進行董事會改組並推進資產出售】激進投資者埃利奧特投資管理公司（Elliott Investment Management）週三晚間呼籲澳大利亞最大黃金礦商北方之星資源公司立即重振董事會並開展正式戰略審查，以恢復股東價值，理由是該公司業績嚴重滯後。上週，埃利奧特以超過10億澳元（ 合7.008億美元）的持股正式進入北方之星的股東名冊，並呼籲進行審查及更換領導層。其理由包括公司屢次出現“運營失誤”——四年內七次未達業績預期——以及股價表現遠遜於同行。埃利奧特此前曾經過五年遊說，成功推動必和必拓取消雙重上市。此次發聲之際，這家市值190億美元的礦業巨頭正處於招聘新執行長及制定董事長繼任計劃的過程中。北方之星週三早些時候透過致股東信回應了埃利奧特的提議，表示樂意與這位激進投資者合作，並考慮埃利奧特可能推薦的董事會候選人。"
+    },
+    {
+      "id": "4929379",
+      "time": "2026-06-11 10:02:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養雞概念異動拉昇 曉鳴股份漲超10%】養雞概念盤中異動拉昇，曉鳴股份漲超10%，此前京基智農3連板，湘佳股份、民和股份、華英農業跟漲。"
+    },
+    {
+      "id": "4929378",
+      "time": "2026-06-11 10:02:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4677.420點；恒生指數現跌0.343%。"
+    },
+    {
+      "id": "4929377",
+      "time": "2026-06-11 10:02:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪拉昇 廣安愛眾漲停】電力板塊震盪拉昇，廣安愛眾漲停，豫能控股、大唐發電、粵電力A、西昌電力、寧波能源跟漲。"
+    },
+    {
+      "id": "4929376",
+      "time": "2026-06-11 10:01:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率上升9個基點，扭轉了此前的下降趨勢。"
+    },
+    {
+      "id": "te:markets:558223",
+      "time": "2026-06-11 10:01:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Eases as US Concludes Iran Strikes — Brent pulled back toward $94 per barrel on Thursday, paring gains from earlier in the session after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. The US earlier launched fresh attacks on Iran after President Donald Trump accused Tehran of delaying talks over an interim peace agreement. Iran also reportedly responded by targeting US vessels in the Strait of Hormuz with missile and drone attacks. The latest escalation reinforced the view that the April ceasefire has effectively unraveled, even though the large-scale bombing campaign seen at the outset of the conflict has not resumed. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, though there were signs that limited volumes of oil were still moving out of the Persian Gulf. Meanwhile, EIA data showed US crude inventories fell by 7.2 million barrels last week, extending their decline to a seventh straight week."
+    },
+    {
+      "id": "4929374",
+      "time": "2026-06-11 10:01:16",
+      "tags": [
+        "公司",
+        "焦點",
+        "原創"
+      ],
+      "text": "【釘釘換帥：陳航卸任釘釘CEO，92年技術極客陳宇森接任】阿里巴巴宣佈釘釘管理層調整：陳航卸任釘釘CEO，92年技術極客陳宇森接棒。10日，阿里巴巴合夥人委員會在公司內網釋出帖文《有情有義有成長，才是阿里文化》，對近日釘釘離職員工長文《置身釘內》引發的討論表達了鮮明的態度。合夥人委員會以嚴厲的措辭批評了釘釘團隊的管理方式，直接指出這\"不是阿里文化該有的樣子\"。緊接著，阿里集團宣佈了對釘釘管理層的調整。陳宇森生於1992年，是年少成名的技術極客，也是技術型連續創業者，入選福布斯亞洲“30 Under 30“榜單。他曾在國內外頂級計算機賽事中屢獲冠軍，22歲時創辦的網路安全公司長亭科技被阿里雲收購。作為一名兼具技術實力與商業判斷力的年輕管理者，他2025年在阿里雲內部創業，帶領研發了AI Agent產品MuleRun。接任釘釘CEO後，陳宇森成為阿里巴巴最年輕的事業部CEO。（新浪科技）"
+    },
+    {
+      "id": "4929373",
+      "time": "2026-06-11 10:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "Coupang因2025年資料洩露事件被韓國當局罰款6246億韓元。"
+    },
+    {
+      "id": "te:markets:558222",
+      "time": "2026-06-11 10:00:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Eases as US Concludes Iran Strikes — Crude oil pulled back toward $91 per barrel on Thursday, paring gains from earlier in the session after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. The US earlier launched fresh attacks on Iran after President Donald Trump accused Tehran of delaying talks over an interim peace agreement. Iran also reportedly responded by targeting US vessels in the Strait of Hormuz with missile and drone attacks. The latest escalation reinforced the view that the April ceasefire has effectively unraveled, even though the large-scale bombing campaign seen at the outset of the conflict has not resumed. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, though there were signs that limited volumes of oil were still moving out of the Persian Gulf. Meanwhile, EIA data showed US crude inventories fell by 7.2 million barrels last week, extending their decline to a seventh straight week."
+    },
+    {
+      "id": "4929372",
+      "time": "2026-06-11 10:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗公佈最新海上損失情況資料】伊朗方面6月10日公佈了最新海上損失情況，因受戰爭及相關海事限制措施影響，伊方的船舶、海員、港口運營、海上搜救、通訊設施及海事安全基礎設施等受到嚴重衝擊。伊朗代表當天在英國倫敦舉行的國際海事組織技術合作委員會會議上發言說，據伊方統計，相關事件共波及360艘船舶，其中253艘沉沒或完全損毀；54名海員遇難、66人受傷、7人失蹤，另有28人遭劫持；4座海事運營大樓、4座船舶交通服務管控站、8個通訊中繼裝置受損。 （CCTV國際時訊）"
+    },
     {
       "id": "4929371",
       "time": "2026-06-11 09:59:52",
@@ -169697,122 +169813,6 @@
         "Impact bearish"
       ],
       "text": "The Indonesian rupiah extended losses in early trade, hitting a fresh record low of 17,960 per US dollar."
-    },
-    {
-      "id": "4916376",
-      "time": "2026-06-04 10:04:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器人概念反覆活躍 模塑科技3連板】機器人概念反覆活躍，模塑科技3連板，此前世運電路漲停，南山智尚、雙林股份、綠的諧波、北特科技、巨輪智慧跟漲。"
-    },
-    {
-      "id": "4916375",
-      "time": "2026-06-04 10:03:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至17960的歷史低點。"
-    },
-    {
-      "id": "te:markets:556305",
-      "time": "2026-06-04 10:03:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Fall on Renewed US-Iran Tensions — The Hang Seng Index dipped 270 points, or 1.1%, to 25,364 on Thursday, extending losses from the previous session as renewed US-Iran clashes dampened risk appetite across global markets. Hong Kong equities tracked overnight declines on Wall Street, where investors turned cautious amid concerns that escalating tensions in the Middle East could threaten a fragile ceasefire and heighten risks to global growth. Technology stocks led the downturn, with Lenovo falling 3.6% amid weakness in US technology shares, while financial and retail trade counters also came under pressure. Other notable decliners included Tencent (-0.5%), Semiconductor Manufacturing International (-1.8%), AIA (-1.0%), Xiaomi (-1.1%), and Meituan (-1.9%). In contrast, Pop Mart International and Kuaishou Technology were among the few gainers, advancing 1.8% and 0.7%, respectively."
-    },
-    {
-      "id": "mkt:019e905e-aa26-7cc0-ba21-c343d0ae0764",
-      "time": "2026-06-04 10:02:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A‑share components sector rose in choppy trade; Shiyun Circuit hit limit-up, with Dongshan Precision, Jianghai, Shenghong Technology and Fenghua Hi‑Tech also gaining."
-    },
-    {
-      "id": "4916374",
-      "time": "2026-06-04 10:02:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊震盪走高，世運電路漲停】元件板塊震盪走高，世運電路漲停，東山精密、江海股份、勝宏科技、風華高科跟漲。"
-    },
-    {
-      "id": "te:markets:556302",
-      "time": "2026-06-04 10:02:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Retreat on Trade Headwinds — The Shanghai Composite fell 0.7% to 4,055 on Thursday, while the Shenzhen Component lost 0.4% to 15,651, with both benchmarks snapping a two-session gain as investors weighed mounting trade tensions involving China. The US Trade Representative announced plans for additional tariffs of up to 12.5% on imports from 60 trading partners, including China, over alleged failures to prevent imports linked to forced labor, with the measures due to take effect next month. Adding to trade tensions, the EU introduced the Industrial Accelerator Act and the Cybersecurity Act, measures that could effectively shut some Chinese firms out of parts of the European market. Beijing vowed retaliatory measures, heightening fears of a wider trade confrontation between the two sides. Financial stocks led the losses, particularly Commercial Bank of China (-0.8%), Agricultural Bank of China (-1.4%), and China Construction Bank (-1.2%). CATL (-1.7%), BYD (-2.0%), and Sungrow Power Supply (-1.1%) also declined."
-    },
-    {
-      "id": "mkt:019e905d-9b28-7cc0-ba21-bdc93aaf7443",
-      "time": "2026-06-04 10:01:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Consumers Association: 930 mln yuan recovered for consumers in 2025】The China Consumers Association said in its Annual Report on the State of Consumer Rights Protection (2025) that nationwide consumer associations handled 2.016 million complaints in 2025, received 609,000 visits and inquiries, and recovered 930 million yuan in economic losses for consumers. The report said authorities promoted new consumption scenarios and stepped up enforcement, producing progress in legislation, administration, judiciary and social protection, but regulatory safeguards for emerging consumption sectors urgently need strengthening."
-    },
-    {
-      "id": "4916372",
-      "time": "2026-06-04 10:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣跌破62000美元，日內跌超6%。"
-    },
-    {
-      "id": "4916371",
-      "time": "2026-06-04 10:00:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本五年期國債<JP5YTN=JBTC>收益率上升0.5個基點，至1.915%。"
-    },
-    {
-      "id": "4916370",
-      "time": "2026-06-04 10:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年全國消協組織為消費者挽回經濟損失9.3億元】中國消費者協會今天（4日）釋出《中國消費者權益保護狀況年度報告（2025）》顯示：2025年，全國消協組織共受理消費者投訴201.6萬件，接待消費者來訪和諮詢60.9萬人次，為消費者挽回經濟損失9.3億元。"
-    },
-    {
-      "id": "mkt:019e905c-6129-7cc0-ba21-b7dd6bc9e99d",
-      "time": "2026-06-04 10:00:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "【Shenzhen Composite Index turns positive】China A-shares opened lower then recovered; Shenzhen Composite Index led the rebound into positive territory. Shanghai Composite's loss narrowed to 0.14% and the ChiNext Index's loss narrowed to 0.33%."
-    },
-    {
-      "id": "4916369",
-      "time": "2026-06-04 10:00:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深證成指翻紅】A股三大股指低開回升，深證成指率先翻紅，上證綜指跌幅縮債至0.14%，創業板指跌幅縮債至0.33%。"
     }
   ]
 }
