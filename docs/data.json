@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-11 14:37:40",
-  "count": 18331,
+  "updated": "2026-06-11 14:41:44",
+  "count": 18333,
   "items": [
+    {
+      "id": "mkt:019eb569-9680-7dd8-afb5-9fabfafcc652",
+      "time": "2026-06-11 14:40:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shipping intelligence firm KPLER said about 96 mln barrels of non-Iran crude have been exported via the Strait of Hormuz or the Gulf of Oman since early May; including cargoes still loading, total exports exceed 100 mln barrels, broadly consistent with Trump's claim that more than 100 mln barrels entered global markets in the period."
+    },
+    {
+      "id": "4929720",
+      "time": "2026-06-11 14:40:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪騰勢在成都成立新汽車銷售公司 註冊資本100萬】天眼查App顯示，近日，成都騰勢星元汽車銷售有限公司成立，法定代表人為李暄，註冊資本100萬人民幣，經營範圍包括汽車銷售、新能源汽車整車銷售、汽車零配件零售等，由騰勢汽車銷售服務有限公司全資持股。"
+    },
+    {
+      "id": "4929719",
+      "time": "2026-06-11 14:39:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞亞洲航空長途公司（AirAsia X）：受當前地緣政治不確定性及地區衝突影響，經停巴林的計劃航班服務已推遲。"
+    },
+    {
+      "id": "mkt:019eb567-ef9c-7dd8-afb5-9652a571cef9",
+      "time": "2026-06-11 14:39:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Polysilicon most-active futures contract's intraday gain widened to 8.00%, trading at 37,375 yuan/ton."
+    },
+    {
+      "id": "4929718",
+      "time": "2026-06-11 14:38:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲8%，現報37375.00元。"
+    },
+    {
+      "id": "4929717",
+      "time": "2026-06-11 14:38:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滴滴App增加“送貨”“旅行”“車主”等入口】6月11日，滴滴App 8.0版本上線，根據使用者不同的使用場景，頂部導航欄全面改版，在使用者常用的“出行”基礎上，增加“送貨”“旅行”“車主”等入口，滴滴的多種好服務，正在“從即時出行到計劃出行”“從送人到送物”不斷拓展。"
+    },
+    {
+      "id": "4929716",
+      "time": "2026-06-11 14:38:28",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星電子蟬聯韓國最具價值品牌，SK海力士首次躋身前十】根據國際品牌諮詢公司Interbrand週四釋出的報告，三星電子蟬聯今年韓國最具價值品牌。其品牌價值估計為113.26萬億韓元（約741億美元），比上年下降7.4%。SK海力士今年首次躋身前十，從去年的第13位升至第9位，其品牌價值同比增長 34.8%，達到3.23萬億韓元。現代汽車位居第二，品牌價值30.75萬億韓元，同比增長10.1%。起亞汽車以10.68萬億韓元位列第三，緊隨其後的是LG電子（8.6萬億韓元）和入口網站巨頭Naver（8.24萬億韓元）。"
+    },
+    {
+      "id": "te:markets:558283",
+      "time": "2026-06-11 14:38:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Recover as Iran Strikes Conclude — US stock futures rebounded on Thursday, recovering from earlier losses after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. Earlier, US forces launched fresh attacks on Iran after President Trump accused Tehran of delaying talks over an interim peace agreement. In corporate news, Oracle shares tumbled more than 10% in extended trading after the company revealed plans to raise an additional $20 billion through equity and debt offerings to fund its artificial intelligence expansion. In regular trading on Wednesday, the Dow fell 1.87%, the S&P 500 lost 1.62%, and the Nasdaq Composite dropped 1.98%. Eight of the 11 S&P sectors ended lower, with industrials, materials, and technology stocks leading the declines. Tech and semiconductor shares also remained under pressure amid persistent concerns about elevated AI-related valuations and growing investor caution ahead of SpaceX's highly anticipated IPO on Friday."
+    },
+    {
+      "id": "4929715",
+      "time": "2026-06-11 14:37:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美元走勢平穩，投資者權衡地緣政治緊張局勢和通脹資料】在6月17日美聯儲政策決定公佈前，投資者考慮中東衝突的最新事態發展和週三的美國通脹資料，美元走勢平穩。在美國總統特朗普表示伊朗“把我們當傻瓜耍“之後，美國週三對伊朗發動了新的打擊。然而，美國中央司令部在X平臺上表示，商船正繼續透過霍爾木茲海峽。5月份整體同比通脹率如預期升至4.2%，但市場關注的是核心通脹率環比回落至0.2%，降幅超出預期。Evercore ISI分析師在一份報告中表示，這“為美聯儲贏得了一些喘息空間“。DXY美元指數企穩於99.993。"
+    },
+    {
+      "id": "4929714",
+      "time": "2026-06-11 14:37:14",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通在新加坡的私人銀行家人資料悉翻番 超過50人】摩根大通已將駐新加坡、股務富裕客戶的銀行家人數增加了一倍，表明該銀行積極要從這個亞洲金融重鎮搶佔更多業務。根據知情人士透露，這家華爾街銀行負責東南亞及澳洲市場的客戶關係經理人數已增至50多人，大約是去年初人數的兩倍。這些知情人士表示，多數招聘是針對印尼市場，員工人數從去年的不到10人增加到約20人。"
+    },
     {
       "id": "4929713",
       "time": "2026-06-11 14:36:37",
@@ -168780,81 +168876,6 @@
         "其他"
       ],
       "text": "【深圳大學積體電路學院揭牌成立】深圳大學積體電路學院正式揭牌成立。本次揭牌是深大對接國家晶片產業戰略、服務粵港澳大灣區產業升級、最佳化“光電算一體化”學科佈局的重要戰略舉措。"
-    },
-    {
-      "id": "mkt:019e915d-9589-7cc0-ba27-db6e29cf9892",
-      "time": "2026-06-04 14:41:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "IM Motors said LS8 deliveries topped 6,000 units within six weeks of the start of deliveries."
-    },
-    {
-      "id": "te:economy:556386",
-      "time": "2026-06-04 14:40:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Romania Retail Sales Fall Most Since 2020 — Retail sales in Romania fell by 6.3% year-on-year in April 2026, following a 3.8% drop in the previous month, marking the ninth consecutive month of contraction and the steepest decline since April 2020. Turnover from food, beverages, and tobacco continued to deteriorate, declining 6.6% after a 3.5% fall in March, while automotive fuel purchases in specialised stores slipped 2.1%, reversing from a 2.8% increase. Additionally, sales for non-food products remained weak, falling 7.9% for a second straight month. On a monthly basis, retail activity declined 2.6% in April, reversing a 2.0% increase in the preceding period."
-    },
-    {
-      "id": "4916716",
-      "time": "2026-06-04 14:40:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "保加利亞加強對國家任命的盧克石油公司經理的控制。"
-    },
-    {
-      "id": "4916715",
-      "time": "2026-06-04 14:39:57",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "智己汽車： 智己 LS8交付6周，突破6000臺。"
-    },
-    {
-      "id": "4916714",
-      "time": "2026-06-04 14:39:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【企查查：今年已註冊超1000家船舶製造相關企業】企查查資料顯示，2016年以來，我國船舶製造相關企業累計註冊約1.8萬家。2025年全年註冊量同比增加18.6%至2566家，截至6月4日，2026年我國已註冊1085家船舶製造相關企業。企業存量方面，截至2026年6月4日，我國現存的2.2萬家船舶製造相關企業。成立年限上，成立10年以上老牌企業佔比最高，達40.4%；區域分佈上，華東地區以71.3%的存量佔比，佔據絕對主導地位。"
-    },
-    {
-      "id": "mkt:019e915b-7a7f-7113-83c8-6ee9fa6c6f4d",
-      "time": "2026-06-04 14:39:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Agricultural Bank units, Shenzhen investors launch CNY3.94 bln PE fund in Shenzhen】Shenzhen Zhongtou No.1 Major Industry Ecosystem Development Private Equity Fund (LP) was established with committed capital of CNY3.94 billion. Executive general partners are Shenzhen Zhongtou Capital Management Co. and Agricultural Bank Capital Management Co.; investors include Agricultural Bank Financial Asset Investment Co., Shenzhen Major Industry Investment Group, Ningbo Yongyuan Investment Fund, Foshan Innovation & Entrepreneurship Investment Co. and Qianhai Financial Holdings. The fund’s stated scope covers equity investment, investment management and asset management via private funds."
-    },
-    {
-      "id": "4916713",
-      "time": "2026-06-04 14:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "南非就美國擬因強迫勞動問題加徵關稅作出回應：南非稱其在強迫勞動相關問題上始終遵守所有國內及國際義務。"
-    },
-    {
-      "id": "4916712",
-      "time": "2026-06-04 14:38:46",
-      "tags": [
-        "公司",
-        "觀點",
-        "其他"
-      ],
-      "text": "加拿大皇家銀行將CrowdStrike目標股價從650美元上調至755美元。"
     }
   ]
 }
