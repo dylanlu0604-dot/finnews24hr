@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-12 01:25:00",
-  "count": 18461,
+  "updated": "2026-06-12 01:28:54",
+  "count": 18457,
   "items": [
+    {
+      "id": "4931040",
+      "time": "2026-06-12 01:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默稱，不負責任的舉債行為將使英國陷入風險。"
+    },
+    {
+      "id": "mkt:019eb7b7-baf9-7dd8-afc7-997f096ae400",
+      "time": "2026-06-12 01:25:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Starmer, responding to Healy's resignation, said he will always take necessary actions to ensure the UK's national security."
+    },
+    {
+      "id": "4931039",
+      "time": "2026-06-12 01:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默就希利辭職一事表態：我將始終採取必要措施確保國家安全。"
+    },
     {
       "id": "mkt:019eb7b5-65db-7dd8-afc7-92825600e6de",
       "time": "2026-06-12 01:22:59",
@@ -170117,71 +170141,6 @@
         "AI Revolution"
       ],
       "text": "DALY said some firms and sectors have begun to see productivity gains from AI, but those gains have not yet materialized at the aggregate economy level."
-    },
-    {
-      "id": "4917949",
-      "time": "2026-06-05 01:28:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯與歐洲情報部門之間仍保持接觸。"
-    },
-    {
-      "id": "4917948",
-      "time": "2026-06-05 01:28:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：通脹由關稅推動，關稅影響有望逐步消退。"
-    },
-    {
-      "id": "4917947",
-      "time": "2026-06-05 01:27:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "美聯儲戴利在彭博科技活動上表示：尚未發現人工智慧推高通脹資料。"
-    },
-    {
-      "id": "mkt:019e93ac-6c84-711f-ac53-853ef805bc22",
-      "time": "2026-06-05 01:26:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said former German chancellor Gerhard Schroder would be hard to replace as a mediator in Russia‑Europe negotiations, but added Schroder is not his friend and is merely a German official."
-    },
-    {
-      "id": "4917946",
-      "time": "2026-06-05 01:26:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利在彭博科技活動上表示：已有個別企業、行業出現人工智慧驅動生產率提升的證據，但目前尚未看到這種提升形成規模效應。"
-    },
-    {
-      "id": "mkt:019e93ab-a64a-711f-ac53-7bb61588af8d",
-      "time": "2026-06-05 01:26:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) announced plans to invest in a new data center in Texas and to increase its energy investments."
-    },
-    {
-      "id": "4917945",
-      "time": "2026-06-05 01:25:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：施羅德值得信任。"
     }
   ]
 }
