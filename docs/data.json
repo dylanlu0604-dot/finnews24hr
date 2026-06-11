@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-11 12:06:48",
-  "count": 18398,
+  "updated": "2026-06-11 12:10:40",
+  "count": 18400,
   "items": [
+    {
+      "id": "4929549",
+      "time": "2026-06-11 12:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：Mythos煥新登場 模型能力穩步攀升】東方證券釋出研報稱，Anthropic正式推出Mythos-class模型，大模型競爭從通用問答走向高強度任務執行。大模型能力仍在提升，AI產業鏈均有望受益，高精度SVG、網頁遊戲和前端生成能力提升，意味著模型正從文字程式碼生成走向設計密集型工作流。"
+    },
+    {
+      "id": "mkt:019eb4de-c7f8-7dd8-afb3-fdf639c38589",
+      "time": "2026-06-11 12:09:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "JD.com",
+        "Market Themes",
+        "China Tech Giants",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09988.HK",
+        "00960.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong midday: HSI dips below 24,000 intraday; techs weaken】Hong Kong stocks opened lower and weakened further, with the HSI briefly falling below 24,000 intraday — its lowest since July 11, 2025. By the midday close the HSI was down 1.11% and the Hang Seng Tech Index down 2.01%. Select mainland property names outperformed: China Res Land (01109.HK) and Longfor Group (00960.HK) each rose over 4%. Home appliances led gains, with Hisense Home Appliances (00921.HK) up more than 9%. PCB player Kingboard Laminates (01888.HK) rallied over 5%, and Ganfeng Lithium (01772.HK) gained over 5%. Beer, water utilities, coal, agriculture and dairy sectors were active. Techs slid: Alibaba (09988.HK) fell nearly 5%, Baidu (09888.HK) and JD.com (09618.HK) dropped over 3% each. Robotics, power equipment, solar PV, gold and chip names were weak. Jitu Express (01519.HK) was down 8.08%."
+    },
+    {
+      "id": "4929548",
+      "time": "2026-06-11 12:09:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的集團在新疆成立數智樓宇裝置銷售公司】企查查APP顯示，近日，新疆美的數智樓宇裝置銷售有限公司成立，法定代表人為林威華，經營範圍包含：網際網路裝置銷售；製冷、空調裝置銷售；家用電器零配件銷售；家用電器銷售；機械電氣裝置銷售等。企查查股權穿透顯示，該公司由美的集團旗下海南美的樓宇科技有限公司及佛山市美的空調工業投資有限公司共同持股。"
+    },
+    {
+      "id": "4929547",
+      "time": "2026-06-11 12:08:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026上合組織數字技術合作發展論壇開幕】6月11日，中國—上海合作組織數字技術合作發展論壇在新疆克拉瑪依市舉行，與會嘉賓圍繞人工智慧、低空經濟、智慧網聯等議題展開討論。論壇上正式釋出了《中國—上海合作組織數字技術工具箱（2026）》，該工具箱整合了數字基礎設施、數字技術方案、數字賦能應用三大類數字公共產品案例，為上合組織成員國提供了可複製、可推廣的“操作藍本”。"
+    },
+    {
+      "id": "4929546",
+      "time": "2026-06-11 12:07:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨星：新世界發展強勁的銷售和提價或支撐利潤率復甦】晨星的Jeff Zhang在一份報告中表示，新世界發展在香港強勁的房地產銷售和逐步提價，可能會支撐這家房地產公司的長期利潤率復甦。他認為，該公司已有效地利用了該市有利的房地產市場條件來促進其銷售。該分析師預計，其營業利潤率可能達到35%，大大高於2025財年的21.3%。他補充說，該公司還可能加速其非核心資產出售，以緩解償債壓力。晨星維持其6.60港元的公允價值估值，並預計2026財年的房地產銷售將更加強勁。"
+    },
+    {
+      "id": "4929545",
+      "time": "2026-06-11 12:07:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "KKR支援旗下Helix數字基礎設施公司資助資料中心建設。"
+    },
     {
       "id": "mkt:019eb4db-d11b-7dd8-afb3-f5cb015f571e",
       "time": "2026-06-11 12:06:05",
@@ -169532,40 +169590,6 @@
         "國際"
       ],
       "text": "【OpenAI執行長稱自己不打算為2026年美國中期選舉捐款】OpenAI執行長Sam Altman表示，他不打算為今年的美國中期選舉出資捐款，而其他矽谷億萬富豪承諾將投入巨資，尋求影響將決定國會控制權的中期選舉。Altman週三訪問華盛頓時表示，雖然他本人不打算進行政治捐款，但鑑於外界對其所在行業的反對聲音日益加強，他對那些承諾向競選活動投入資金的人表示理解。“你們不能用不同於對待所有競爭對手的標準來要求我們。如果他們試圖用金錢聯合起來打壓我們，我們就必須有能力反擊，”Altman與參議員Bernie Sanders在國會山會面後表示。“但我也非常希望看到整體規則發生改變。”“我希望看到金錢退出政治領域，”他補充道。"
-    },
-    {
-      "id": "4916541",
-      "time": "2026-06-04 12:10:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【博通公佈財報後 獲機構上調目標價】傑富瑞將博通公司目標股價從500美元上調至550美元。D.A.戴維森將博通公司目標股價從375美元上調至400美元。 而博通股價盤後大跌13.65%，報479.23美元。該公司公佈的人工智慧晶片營收預測不及預期，顯示其在這一快速增長行業中爭取更大份額的進展慢於外界預期。博通週三在公告中表示，在截至7月的第三財季，AI半導體營收將在160億美元，分析師平均預期為172億美元。"
-    },
-    {
-      "id": "mkt:019e90d2-5a2b-7cc0-ba24-4c89d7fbd3b6",
-      "time": "2026-06-04 12:09:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Omdia: Global TV shipments up 6% in Q1 2026 as retailers pre-stock for 2026 World Cup】Omdia's Q1 2026 TV (emerging display technologies) market-tracker shows global TV shipments rose 6% YoY to 50.3 million units, driven by retailers pre-stocking for the 2026 World Cup."
-    },
-    {
-      "id": "4916540",
-      "time": "2026-06-04 12:07:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Omdia：一季度電視出貨量增長6%，世界盃備貨週期正式啟動】Omdia最新發布的《2026年第一季度，電視機（新興顯示技術）市場追蹤報告》資料顯示，受零售商為即將到來的2026年世界盃提前備貨推動，2026年第一季度全球電視出貨量同比增長6%，達到5030萬臺。"
-    },
-    {
-      "id": "4916539",
-      "time": "2026-06-04 12:07:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞洲航空長途公司（AirAsia X Bhd）：上述報道完全失實，不符合該航空公司業務與運營的實際情況。所有Z2航班仍全面正常運營。計劃在菲律賓業務中增配更多飛機。"
     }
   ]
 }
