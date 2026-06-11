@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-11 07:59:03",
-  "count": 18423,
+  "updated": "2026-06-11 08:02:48",
+  "count": 18429,
   "items": [
+    {
+      "id": "mkt:019eb3fc-a3df-7dd8-afaf-8c7a7e9c5b57",
+      "time": "2026-06-11 08:02:19",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korean equities: SK Hynix fell 3.5%, Samsung Electronics fell 4%."
+    },
+    {
+      "id": "4929173",
+      "time": "2026-06-11 08:02:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌3.2%，至7487.07點。"
+    },
+    {
+      "id": "4929172",
+      "time": "2026-06-11 08:01:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌逾3%。"
+    },
+    {
+      "id": "mkt:019eb3fc-07a7-7dd8-afaf-86054cbe263d",
+      "time": "2026-06-11 08:01:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks open lower】On Thursday, June 11, South Korea's KOSPI opened down 225.62 points (-2.92%) at 7,505.20, while Japan's Nikkei 225 opened down 737.82 points (-1.15%) at 63,441.45."
+    },
+    {
+      "id": "4929171",
+      "time": "2026-06-11 08:01:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌逾3%。"
+    },
+    {
+      "id": "4929170",
+      "time": "2026-06-11 08:00:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.9%，至7509.62點。"
+    },
+    {
+      "id": "4929169",
+      "time": "2026-06-11 08:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月1日至10日的出口額同比增長85.9%，進口額同比增長35.6%。"
+    },
+    {
+      "id": "mkt:019eb3fb-06a9-7dd8-afaf-7c484c9d122a",
+      "time": "2026-06-11 08:00:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "South Korea customs data: imports June 1-10 up 35.6% YoY; exports June 1-10 up 85.9% YoY."
+    },
+    {
+      "id": "4929168",
+      "time": "2026-06-11 08:00:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌推出DiffusionGemma開源模型】谷歌當地時間6月10日釋出實驗性開源模型DiffusionGemma，採用文字擴散架構，在專用GPU上文字生成速度較傳統自迴歸大語言模型最高提升4倍，模型以Apache 2.0許可證釋出。谷歌稱，DiffusionGemma定位為面向研究者和開發者的實驗性模型，整體輸出質量低於標準Gemma 4，生產環境仍建議使用後者。該模型的速度優勢主要體現於本地及低併發推理場景，在高併發雲端部署中優勢有限。"
+    },
+    {
+      "id": "4929167",
+      "time": "2026-06-11 08:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報63329.17點，跌幅1.32%。"
+    },
+    {
+      "id": "4929166",
+      "time": "2026-06-11 08:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報95.19美元/桶。"
+    },
+    {
+      "id": "mkt:019eb3fa-7111-7dd8-afaf-7425a7368ac1",
+      "time": "2026-06-11 07:59:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【China International Capital Co: Energy shock persists; Fed to neither cut nor hike this year】China International Capital Co says US inflation remains driven mainly by structural factors such as energy shocks; cyclical inflation is not yet evident. Rising AI-driven capex and improving employment pose upside aggregate-demand risks. Baseline: the Fed will neither cut nor raise rates this year and is expected to keep a hawkish stance. After Wosh takes office his priority will be rebuilding policy credibility; he is more likely to demonstrate resolve by reinforcing expectations for balance-sheet reduction (QT) rather than signaling rate hikes. A 'QT first, delayed cuts' outcome cannot be ruled out and would continue to pressure liquidity-dependent assets and those that benefited from excess dollar liquidity or are misaligned with his policy stance."
+    },
+    {
+      "id": "4929165",
+      "time": "2026-06-11 07:58:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI伺服器測試電源或迎國產替代機遇】華泰證券指出，AIDC建設推動供電架構加速升級，測試電源有望迎來發展機遇。華泰證券認為隨資料中心供電架構由UPS向HVDC、SST持續演進，帶動測試物件由單一PSU向Power Shelf、BBU及整機架系統延伸；同時機櫃功率等級持續提升，有望推動測試電源量價齊升。看好國內廠商憑藉大功率技術積累及國產替代機遇，在行業擴容與技術升級背景下實現快速成長。"
+    },
+    {
+      "id": "4929164",
+      "time": "2026-06-11 07:58:37",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計美聯儲今年全年維持目標利率不變】中信證券指出，美國5月CPI大致符合預期，高油價繼續推升總體通脹率，核心通脹則表現溫和。中信證券認為美國二次通脹風險小，總體CPI同比可能已到達本輪高點，未來將大致先緩慢下行至9月、此後再小幅反彈，直至明年3月快速回落。預計美聯儲今年全年維持目標利率不變、衍生品市場定價的加息預期有下修空間，下週美聯儲議息會議的看點主要在於新主席沃什對目前通脹形勢與利率水平的表述。美債目前更適合把握交易型而非配置型機會、短債比長債更好，美元指數有支撐，金價或需等待寬鬆預期重啟時再走出困局。"
+    },
     {
       "id": "4929163",
       "time": "2026-06-11 07:58:25",
@@ -169748,90 +169886,6 @@
         "其他"
       ],
       "text": "【經濟日報金觀平：善用數智技術推動城市更新】近年來，以人工智慧、大資料、區塊鏈等為代表的數智技術叢集，正重塑城市與區域空間的生產、流通和治理。數智技術引發城市規劃領域變革，推動城市更新從傳統意義上的物質空間改善，轉變到以內涵式發展為特徵的“數字更新”階段。從宏觀的規劃治理到微觀的民生服務，數智技術已滲透到城市更新各層面，並催生一系列創新性應用場景，提升了城市執行效率、安全韌性和宜居品質。"
-    },
-    {
-      "id": "4916176",
-      "time": "2026-06-04 08:02:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特原油價格開盤下跌0.5%，此前以色列和黎巴嫩同意停火協議。"
-    },
-    {
-      "id": "mkt:019e8ff0-4e72-7003-8287-a03e5e964a0a",
-      "time": "2026-06-04 08:02:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Wall Street Journal reports Trump told aides he would not restart a full-scale war with Iran unless U.S. forces were killed in an attack."
-    },
-    {
-      "id": "4916175",
-      "time": "2026-06-04 08:01:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。"
-    },
-    {
-      "id": "4916174",
-      "time": "2026-06-04 08:01:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，特朗普向助手錶示，除非有美軍人員遇襲身亡，否則他不會對伊朗重啟全面敵對行動。"
-    },
-    {
-      "id": "mkt:019e8fef-7bbd-7443-8fe6-581130de2c3d",
-      "time": "2026-06-04 08:01:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Japan, South Korea stocks open lower】On Thursday June 4, Japan's Nikkei 225 opened down 442.74 points (-0.65%) at 67,959.39. South Korea's KOSPI opened down 170.78 points (-1.94%) at 8,630.71."
-    },
-    {
-      "id": "4916173",
-      "time": "2026-06-04 08:01:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌2%，至8623.82點。"
-    },
-    {
-      "id": "4916172",
-      "time": "2026-06-04 08:01:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經平均指數開盤下跌0.8％，報67860.84點，科技股與電子股拖累大盤走弱。韓國綜合股價指數（KOSPI）開盤下跌2％，至8623.82點。"
-    },
-    {
-      "id": "mkt:019e8fee-70e2-7443-8fe6-55462e4a22bc",
-      "time": "2026-06-04 08:00:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Rubio: Russia-Ukraine talks stalled; escalation risk】On the 3rd, U.S. Secretary of State Rubio told a Senate Appropriations subcommittee that negotiations between Russia and Ukraine have stalled in recent months and carry a real risk of escalation. He said the conflict cannot be resolved by military means and must be settled diplomatically, but that route has not produced results to date. Both sides appear unwilling to make the concessions required for a deal, he said. Russia retains long-range strike capabilities and Ukraine can retaliate in kind, making the risk of escalation real and more tangible than two years ago."
     }
   ]
 }
