@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-12 01:36:33",
-  "count": 18480,
+  "updated": "2026-06-12 01:40:23",
+  "count": 18484,
   "items": [
+    {
+      "id": "mkt:019eb7c4-9668-7dd8-afc8-04cd66af8ebe",
+      "time": "2026-06-12 01:39:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures' intraday gain widened to 1.00%, trading at $4,174.90/oz."
+    },
+    {
+      "id": "4931087",
+      "time": "2026-06-12 01:39:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4153.03美元/盎司。"
+    },
+    {
+      "id": "4931086",
+      "time": "2026-06-12 01:39:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4175.00美元/盎司。"
+    },
+    {
+      "id": "4931085",
+      "time": "2026-06-12 01:39:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "巴西雷亞爾上漲 1.4%，創兩個多月最大漲幅，因特朗普取消打擊行動。"
+    },
+    {
+      "id": "te:markets:558446",
+      "time": "2026-06-12 01:38:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Hits 7-week Low — Heating Oil decreased to 3.46 USD/Gal, the lowest since April 2026. Over the past 4 weeks, Heating Oil lost 16.37%, and in the last 12 months, it increased 56.68%."
+    },
+    {
+      "id": "mkt:019eb7c3-f672-7dd8-afc7-ff333d18198c",
+      "time": "2026-06-12 01:38:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Non-USD currencies gained; the dollar index fell over 30 points intraday to 99.84."
+    },
+    {
+      "id": "4931084",
+      "time": "2026-06-12 01:38:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "非美貨幣對上漲，美指短線走低逾30點，現報99.84。"
+    },
+    {
+      "id": "mkt:019eb7c3-16fb-7dd8-afc7-f2ab1c44c4d6",
+      "time": "2026-06-12 01:37:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Treasury yields fell after Trump called off strikes on Iran; the 10-year yield dropped 4.7 bps intraday to 4.493% and the 2-year yield fell 2.7 bps to 4.1%."
+    },
+    {
+      "id": "mkt:019eb7c2-ab62-7dd8-afc7-eded82c8c11b",
+      "time": "2026-06-12 01:37:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Spot gold and silver surge; U.S. and Brent crude fall over 5%】Spot gold touched $4,150/oz, up 1.95% intraday. Spot silver breached $66/oz, up 4.13% intraday. U.S. and Brent crude both fell more than 5%, at $87.64/bbl and $89.10/bbl respectively. Trump said he canceled a planned strike on Iran tonight and will announce soon the time and location for signing the agreement."
+    },
+    {
+      "id": "4931083",
+      "time": "2026-06-12 01:36:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率最新下跌4.7個基點，報4.493%；美國兩年期國債收益率最新下跌2.7個基點，報4.1%。"
+    },
+    {
+      "id": "4931082",
+      "time": "2026-06-12 01:36:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲1.97%。"
+    },
+    {
+      "id": "4931081",
+      "time": "2026-06-12 01:36:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1284.00美元/盎司。"
+    },
     {
       "id": "4931080",
       "time": "2026-06-12 01:35:55",
@@ -170243,88 +170369,6 @@
         "國際"
       ],
       "text": "當地時間4日，俄羅斯總統普京在會見出席第29屆聖彼得堡國際經濟論壇的世界主要通訊社負責人時表示，俄中兩國元首的良好關係是推動俄中關係不斷開闢新前景的堅實基礎。（新華社）"
-    },
-    {
-      "id": "mkt:019e93b8-d54b-7114-9155-4c707de74c17",
-      "time": "2026-06-05 01:40:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Schmid said the biggest risk facing the economy currently is inflation."
-    },
-    {
-      "id": "mkt:019e93b8-d3b3-7114-9155-45e841137b9c",
-      "time": "2026-06-05 01:40:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Putin said Germany must decide whether to receive Russian gas via the Nord Stream pipeline; Russia is ready to resume supplies."
-    },
-    {
-      "id": "4917966",
-      "time": "2026-06-05 01:40:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：看看加利福尼亞發生了什麼，民主黨人就在我們眼前偷取選票。我希望共和黨人正在關注此事，這樣他們才能最終透過《保護美國選民資格法》。"
-    },
-    {
-      "id": "4917965",
-      "time": "2026-06-05 01:40:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：通脹是經濟面臨的最大風險。"
-    },
-    {
-      "id": "mkt:019e93b8-73f7-7114-9155-3961ec2b0f4d",
-      "time": "2026-06-05 01:39:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump accused Democrats of stealing votes in California and said he hopes Republicans are paying attention so they can ultimately pass the Protect American Voter Eligibility Act."
-    },
-    {
-      "id": "4917964",
-      "time": "2026-06-05 01:38:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：德國需就北溪管道的俄羅斯天然氣供應問題自行作出決定。我們已做好供應準備。"
-    },
-    {
-      "id": "mkt:019e93b6-e978-7114-9155-32bc84d55a2c",
-      "time": "2026-06-05 01:38:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fed official Schmid said most of the higher payments for energy are being recycled within the US economy; how long elevated oil prices persist is the key question and depends largely on political factors."
-    },
-    {
-      "id": "mkt:019e93b5-7d00-7114-9155-294bbda933bd",
-      "time": "2026-06-05 01:36:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "DALY: AI may be producing disinflationary effects now, but this is not an urgent concern."
     }
   ]
 }
