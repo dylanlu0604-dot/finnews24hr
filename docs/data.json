@@ -1,7 +1,233 @@
 {
-  "updated": "2026-06-12 00:19:55",
-  "count": 18481,
+  "updated": "2026-06-12 00:34:02",
+  "count": 18489,
   "items": [
+    {
+      "id": "mkt:019eb788-2108-7dd8-afc6-d72c81fd0097",
+      "time": "2026-06-12 00:33:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reports OpenAI will acquire Ona to enhance the capabilities of its AI coding assistant CODEX."
+    },
+    {
+      "id": "mkt:019eb787-6ea8-7dd8-afc6-c8efe1fcaf28",
+      "time": "2026-06-12 00:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports ANTHROPIC has discussed arrangements for Google to provide financial guarantees for part of its lease obligations. ANTHROPIC has signed more than 10 letters of intent with multiple U.S. developers to lease data-center facilities."
+    },
+    {
+      "id": "4931000",
+      "time": "2026-06-12 00:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic已與多家美國開發商簽訂十餘份資料中心設施租賃意向書。"
+    },
+    {
+      "id": "4930999",
+      "time": "2026-06-12 00:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Anthropic已就谷歌為其部分租賃義務提供財務擔保的相關安排展開磋商。"
+    },
+    {
+      "id": "mkt:019eb786-a282-7dd8-afc6-c5929d9f7cc2",
+      "time": "2026-06-12 00:31:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, Anthropic is seeking to sign initial data-center lease agreements and is seeking funding from Google (GOOG.O)."
+    },
+    {
+      "id": "mkt:019eb786-3a2f-7dd8-afc6-bb66ed73ea42",
+      "time": "2026-06-12 00:31:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon \"hazardous-materials incident\" triggered by false alarm】Two U.S. officials said on June 11 local time a lockdown and evacuations at the Pentagon were caused by a false alarm. Earlier multiple sources and the local fire department had reported a \"hazardous-materials incident\" that prompted floor and corridor lockdowns and partial evacuations. A Pentagon spokesperson said building sensors detected an air-quality anomaly, prompting precautionary \"shelter-in-place\" orders for affected areas; an emergency response team is on site to investigate and support personnel."
+    },
+    {
+      "id": "4930998",
+      "time": "2026-06-12 00:31:17",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "市場訊息：人工智慧公司Anthropic尋求首份資料中心租賃協議，並向谷歌爭取融資支援。"
+    },
+    {
+      "id": "4930997",
+      "time": "2026-06-12 00:30:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：推出私人股份數字存託憑證。"
+    },
+    {
+      "id": "4930996",
+      "time": "2026-06-12 00:29:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：考慮未來將服務擴充套件至數字與傳統金融市場基礎設施及區塊鏈網路。"
+    },
+    {
+      "id": "mkt:019eb784-777c-7dd8-afc6-b3d235b36b40",
+      "time": "2026-06-12 00:29:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US military says Strait of Hormuz remains open】On June 11 local time, US Central Command said the Strait of Hormuz remains open and that US forces have established 'safe corridors' for commercial ships transiting the strait; vessels not violating 'blockade measures' against Iran may use them. The statement said hundreds of ships have transited the strait in the past two months and US forces are deployed to 'defend against Iranian aggression,' adding that Iran does not control the strait. After US airstrikes on multiple sites in southern Iran in the early hours of June 11, Iran announced the Strait of Hormuz was closed to all vessels."
+    },
+    {
+      "id": "4930995",
+      "time": "2026-06-12 00:27:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍稱霍爾木茲海峽仍保持通行】當地時間6月11日，美軍中央司令部在社交媒體平臺上發宣告稱，“霍爾木茲海峽仍保持通行，美軍已為途經霍爾木茲海峽的商船設立了‘安全航道’，所有‘未違反針對伊朗封鎖措施’的船隻均可使用這些航道。” 宣告還稱，“過去兩個月內，已有數百艘船隻透過霍爾木茲海峽。美軍已做好‘防禦伊朗侵略’的部署。伊朗並不控制霍爾木茲海峽。” 當地時間6月11日凌晨美軍再次空襲伊朗南部多地後，伊朗宣佈“霍爾木茲海峽對所有船隻關閉”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4930994",
+      "time": "2026-06-12 00:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大認為有望達成協議以解決USMCA貿易問題】加拿大-美國貿易部長勒布朗（Dominic LeBlanc）表示，他對特朗普政府決定不在7月1日前續簽美國墨西哥加拿大貿易協議（USMCA）並不感到意外。勒布朗預計，雙方將達成一系列協議來解決該協定的爭端。他指出，7月1日僅僅是“三個國家可以決定將協議延長16年的一個時間節點”。美國駐加拿大大使霍克斯特拉（Pete Hoekstra）表示，華盛頓願意加強合作，但敦促加拿大領導人提出更有力的主張，並表示“我們是來與美國合作並滿足其需求的”。"
+    },
+    {
+      "id": "4930993",
+      "time": "2026-06-12 00:25:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲電力供應競爭加劇，客戶付費鎖定燃氣輪機生產檔期】全球三大燃氣輪機製造商之一的西門子能源公司表示，歐洲為資料中心和電氣化專案爭奪電力供應的競爭正變得如此激烈，以至於客戶如今願意支付費用，以確保在燃氣輪機生產佇列中佔據位置。公司CEO克里斯蒂安·布魯赫表示：“如今需求高到歐洲客戶已經願意支付預留費用。”這種做法最早於近年出現在美國，當時科技公司競相為耗電巨大的資料中心鎖定發電能力，隨後擴充套件至歐洲和中東。由於歐洲資料中心接入電網需要等待較長時間，一些資料中心正考慮自建發電設施，以便更快投入運營。西門子能源燃氣服務部門負責人卡里姆·阿明表示，尋求預留約六個月製造檔期的客戶通常需要支付相當於一臺輪機購買價格10%至15%的費用。由於燃氣輪機製造商的產能基本已被預訂至本十年末，這類付款已成為有緊迫專案需求的買家確保排隊位置的一種方式。西門子能源的轉化率超過90%，意味著大多數預留最終都會轉化為合同。"
+    },
+    {
+      "id": "4930992",
+      "time": "2026-06-12 00:24:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓表示，目前沒有下達整棟大樓的疏散命令。"
+    },
+    {
+      "id": "mkt:019eb77f-e8da-7dd8-afc6-aec19e085fed",
+      "time": "2026-06-12 00:24:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN Secretary-General Guterres urged all parties to restore full implementation of a comprehensive ceasefire to avoid further deterioration and called on the US and Iran to redouble efforts to reach a peaceful, comprehensive and durable agreement."
+    },
+    {
+      "id": "4930991",
+      "time": "2026-06-12 00:24:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行週四加息後 IMF稱或需進一步加息】國際貨幣基金組織(IMF)表示，歐洲央行將需要再次提高借貸成本。就在數小時前，歐洲央行剛剛加息25個基點。“政策利率將需要上升，以遏制衝擊對通脹的影響，”IMF工作人員週四在報告中表示。該報告總結了IMF對歐元區層面政策的年度評估。IMF的展望假設今年累計加息50個基點，以應對整體通脹和核心通脹到2028年仍高於2%的前景。報告將2026年消費價格漲幅預測從4月份的2.4%上調至2.8%。"
+    },
+    {
+      "id": "mkt:019eb77f-964b-7dd8-afc6-a54edf6984f0",
+      "time": "2026-06-12 00:24:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NewsNation White House reporter: Pentagon says it has not issued an evacuation order for the entire building at this time."
+    },
+    {
+      "id": "mkt:019eb77e-7cc1-7dd8-afc6-9c8d2735d4b1",
+      "time": "2026-06-12 00:23:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "UN spokesperson: Secretary-General Guterres said he is deeply concerned about the escalating situation in the Middle East, citing recent US strikes on Iran and Iran's retaliatory strikes."
+    },
+    {
+      "id": "4930990",
+      "time": "2026-06-12 00:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯敦促各方回到全面停火執行的軌道上來，避免局勢進一步惡化。"
+    },
+    {
+      "id": "4930989",
+      "time": "2026-06-12 00:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：對中東持續升級的局勢深感關切，包括美國對伊朗的打擊以及伊朗方面的打擊。"
+    },
+    {
+      "id": "mkt:019eb77d-ae49-7dd8-afc6-938acc18b725",
+      "time": "2026-06-12 00:22:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "ENR.DE",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【European customers paying to reserve gas-turbine production slots as power demand heats up】Siemens Energy, one of the world’s three major gas-turbine manufacturers, said competition for power in Europe — driven by data centres and electrification projects — has intensified to the point that customers are paying reservation fees to secure positions in turbine production queues. CEO Christian Bruch said demand is so high that European buyers are now willing to pay reservation fees. With grid connections for data centres taking long lead times, some operators are opting to build on-site generation to accelerate commissioning. Siemens Energy’s gas services head Karim Amin said customers seeking roughly six-month manufacturing slots typically pay fees equal to about 10–15% of a turbine’s purchase price. Manufacturers’ capacity is largely booked through the end of the decade, and Siemens Energy reports a conversion rate above 90%, so most reservations become firm contracts."
+    },
+    {
+      "id": "4930988",
+      "time": "2026-06-12 00:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：佔領行徑、侵略行為以及持續對黎巴嫩南部民眾犯下的罪行，永遠無法摧垮黎巴嫩抵抗民眾與真主黨武裝人員的意志。"
+    },
+    {
+      "id": "4930987",
+      "time": "2026-06-12 00:19:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "一名法國官員表示，被指干預法國地方選舉的以色列公司Blackcore還涉嫌在蘇格蘭、多哥和安哥拉開展相關活動。"
+    },
+    {
+      "id": "te:economy:558444",
+      "time": "2026-06-12 00:19:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Approaches 9-Month High — The average rate on a 30-year fixed-mortgage inched higher by 4bps from the previous week to 6.52% on the second week of June, according to data compiled by Freddie Mac. The result was one basis point away from the nine-month high from two weeks prior amid the increase in long-term Treasury yields over the period. The prolonged conflict between the US and Iran maintained the blockade of energy exports from the region, lifting US inflation to drive rate traders to position for a Federal Reserve hike this year."
+    },
     {
       "id": "4930986",
       "time": "2026-06-12 00:17:20",
@@ -170158,145 +170384,6 @@
         "其他"
       ],
       "text": "市場訊息：哥倫比亞總統候選人塞佩達對哥倫比亞叫停修憲的決議表示讚許。"
-    },
-    {
-      "id": "4917882",
-      "time": "2026-06-05 00:31:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲債市：歐洲政府債券小幅上漲 油價回落緩解通脹擔憂】歐洲政府債券小幅上漲，因為油價下跌緩解了市場對通脹風險的擔憂，促使交易員削減對歐洲央行年內加息的押注。德國國債收益率全線下跌約1個基點；兩年期德國國債收益率跌至2.66%，市場對美伊接近達成和平協議的樂觀預期推動油價下跌近3%。英國國債跑贏德國國債，英國兩年期國債收益率下跌4個基點至4.33%。短端收益率跌幅更大，推動收益率曲線牛市趨陡。交易員目前預計歐洲央行年內加息約66個基點，低於前一日預計的69個基點；市場已完全消化歐洲央行下週加息的預期。市場預計英國央行年內加息46個基點，低於週三預期的52個基點。投資者等待英國央行行長安德魯·貝利以及政策制定者Swati Dhingra週五的講話。市場：德國國債收益率跌1個基點，至3.03%。德國國債期貨漲4個基點，至125.63。義大利10年期國債收益率變化不大，報3.77%。義大利-德國國債利差擴大1個基點，至75個基點。法國10年期國債收益率變化不大，報3.67%。10年期英國國債收益率跌3個基點，至4.90%。"
-    },
-    {
-      "id": "4917881",
-      "time": "2026-06-05 00:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月05日00時19分在新疆伊犁州霍爾果斯市（北緯44.55度，東經80.54度）發生4.8級地震，震源深度17千米。"
-    },
-    {
-      "id": "4917880",
-      "time": "2026-06-05 00:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防部公佈三名直升機訓練失事遇難飛行員身份。"
-    },
-    {
-      "id": "4917879",
-      "time": "2026-06-05 00:29:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：前墨西哥總統支援現墨西哥總統辛鮑姆。"
-    },
-    {
-      "id": "4917878",
-      "time": "2026-06-05 00:29:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "INNIO在納斯達克上市首日開盤價為31美元，高於其27美元的首次公開發行價格。"
-    },
-    {
-      "id": "4917877",
-      "time": "2026-06-05 00:27:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本經濟產業省將於週五釋出修訂版方針草案。"
-    },
-    {
-      "id": "4917876",
-      "time": "2026-06-05 00:26:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本計劃至 2040 年代替換至多 5 座核反應堆。"
-    },
-    {
-      "id": "4917875",
-      "time": "2026-06-05 00:25:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅收窄至0.5%。"
-    },
-    {
-      "id": "4917874",
-      "time": "2026-06-05 00:24:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心（EMSC）：哈薩克與新疆邊境地區發生5.8級地震。"
-    },
-    {
-      "id": "4917873",
-      "time": "2026-06-05 00:24:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多綜合股指上漲1.2%，突破週二創下的盤中歷史新高。"
-    },
-    {
-      "id": "te:markets:556571",
-      "time": "2026-06-05 00:24:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.88 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 11.58%, and in the last 12 months, it decreased 17.51%."
-    },
-    {
-      "id": "4917872",
-      "time": "2026-06-05 00:23:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：波士頓聯儲表示，伊朗戰爭對美國勞動力市場的衝擊預計有限。"
-    },
-    {
-      "id": "mkt:019e9372-3728-711f-ac52-a5c209b922ed",
-      "time": "2026-06-05 00:23:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Axios reports the Boston Fed said the Iran war is expected to have only a limited impact on the U.S. labor market."
-    },
-    {
-      "id": "4917871",
-      "time": "2026-06-05 00:23:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中國地震臺網自動測定：06月05日00時19分在新疆伊犁州霍爾果斯市附近（北緯44.52度，東經80.54度）發生5.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4917870",
-      "time": "2026-06-05 00:20:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OPEC+石油配額恢復接近完成 最後一批供應限制解除前景受關注】OPEC+恢復數百萬桶此前暫停供應的程序已接近完成，至少在紙面上是如此，這讓人對該集團原定於2027年恢復投放市場的最後一批產量前景產生疑問。過去一年，OPEC及其盟友恢復了2023年減產規模的80%以上。與會代表表示，該聯盟計劃截至9月分三次進一步提高配額，以完成這一復產程序，他們預計將在週日視訊會議上批准7月配額又一次小幅上調，幅度為每日18.8萬桶。戰爭迫使沙烏地阿拉伯、伊拉克和科威特削減產量，令市場對OPEC+石油的需求變得十分迫切；但由於霍爾木茲海峽油輪通行嚴重受阻，該集團無法立即滿足這一需求。因此，儘管他們在紙面上提高產量配額，實際產量水平卻大幅下降。最後一批供應限制定於明年解除。幾位與會代表表示，鑑於最近幾批供應恢復速度快於原計劃，加上市場迫切需要石油，最後這一批供應限制也有可能提前解除。只要霍爾木茲海峽關閉，這些決定基本上只具有象徵意義。但一旦這條水道重新開放，而全球消費者競相補充在衝突期間被消耗的石油庫存，這些決定的重要性可能就會上升。這場危機已推動汽油、柴油和航空燃油價格飆升。即便如此，如果最後一批供應加速回歸市場，實際進入市場的供應量也幾乎肯定會遠低於公佈規模。過去一年中，OPEC+承諾恢復的許多石油供應實際上從未兌現，因為許多成員國一直無法按目標提高產量，投資不足、油田老化、供應中斷乃至制裁都在侵蝕它們的產能。油田產量恢復到戰前水平可能需要更多時間。阿布扎比國家石油公司執行長Sultan Al Jaber上月表示，要恢復到衝突前流量的80%，至少需要四個月。"
-    },
-    {
-      "id": "4917869",
-      "time": "2026-06-05 00:20:16",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【北京中科信半導體股份有限公司啟動上市輔導】據證監會官網顯示，北京中科信半導體股份有限公司於2026年6月4日正式啟動上市輔導，中信建投證券擔任輔導機構。"
     }
   ]
 }
