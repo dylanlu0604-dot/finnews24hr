@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-11 10:08:21",
-  "count": 18412,
+  "updated": "2026-06-11 10:12:02",
+  "count": 18408,
   "items": [
+    {
+      "id": "4929394",
+      "time": "2026-06-11 10:11:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【永福股份：正積極跟蹤福建、浙江、廣東、海南等地的多個海上風電專案】永福股份(300712)6月10日在機構調研中表示，公司近年來陸續承接了國內洞頭2號海上風電專案、福鼎B-2區70萬千瓦海上風電專案、平潭A區海上風電專案等，並實現海上風電技術出海，已將海上風電技術服務推廣落地至韓國市場。當前，公司正在積極跟蹤國內福建、浙江、廣東、海南等地的多個海上風電專案，並在進一步開拓海外的海上風電市場。"
+    },
+    {
+      "id": "4929393",
+      "time": "2026-06-11 10:11:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燃氣公司稱興安爆炸未影響居民用燃氣】6月11日，“廣西桂林興安縣爆炸已致7死17傷”引發關注。據警方通報，經初步調查，排除爆炸是因管道燃氣等因素引起，公安機關正在對事件原因開展進一步調查。興安縣燃氣公司相關工作人員表示，事發後，已安排工作人員到場檢查。事故原因與燃氣無關，目前不影響居民正常使用燃氣。事件發生後，桂林市、興安縣兩級黨委、政府主要領導第一時間趕赴現場，組織公安、消防、衛健、應急等部門開展救援、處置工作。（央廣網）"
+    },
+    {
+      "id": "te:markets:558227",
+      "time": "2026-06-11 10:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Mixed on Middle East Jitters — The Shanghai Composite fell 0.3% to 3,981 on Thursday, while the Shenzhen Component rose 0.4% to 15,013, as investor sentiment remained cautious amid renewed escalation of tensions in the Middle East. The US military carried out strikes on multiple targets in Iran for a second consecutive day, following President Trump's accusation that Tehran was stalling an interim peace agreement while warning of further attacks if Iran failed to sign a deal. While China's strategic oil reserves and renewable capacity have mitigated the energy shock, sustained high energy costs could squeeze corporate profit margins and hurt household spending through rising consumer prices. Among individual stocks, Eoptolink Technology tumbled 29% to a one-month low, while Zijin Mining (-2.1%), BYD (-0.6%), and Weichai Power (-3%) also declined. Meanwhile, energy stocks PetroChina (1.4%) and CNOOC (2.1%) outperformed on surging oil prices amid Middle East tensions."
+    },
+    {
+      "id": "4929392",
+      "time": "2026-06-11 10:11:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24163.439點；恒生科技指數現跌1.902%。"
+    },
+    {
+      "id": "4929391",
+      "time": "2026-06-11 10:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦軍隊對阿富汗邊境沿線發動空襲】巴基斯坦新聞與廣播部長塔拉爾10日發表宣告說，巴基斯坦軍隊對阿富汗邊境沿線發動空襲，打死26名武裝人員。宣告表示，根據可靠情報，巴軍方對“恐怖分子營地進行了精準打擊”，共有4個目標被徹底摧毀。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb472-781d-7dd8-afb1-e74436d4fddb",
+      "time": "2026-06-11 10:11:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Pakistan military launches airstrikes along Afghanistan border】Pakistan's military launched airstrikes along the Afghanistan border on the 10th, killing 26 armed militants, Information and Broadcasting Minister Tarar said. Citing reliable intelligence, the ministry said precision strikes destroyed four militant camp targets."
+    },
+    {
+      "id": "4929390",
+      "time": "2026-06-11 10:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達100億元，現跌0.41%。"
+    },
+    {
+      "id": "mkt:019eb471-86d4-7dd8-afb1-dfc9ab0858bc",
+      "time": "2026-06-11 10:09:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Ministry of Agriculture: east–west cooperation helped over 5 mln western rural workers find jobs】At a State Council Information Office briefing on June 11, the Ministry of Agriculture and Rural Affairs said east–west cooperation measures have helped more than 5 million rural workers in western China obtain employment during the transition from poverty-alleviation consolidation to rural revitalization, including over 3 million workers lifted out of poverty."
+    },
+    {
+      "id": "4929389",
+      "time": "2026-06-11 10:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：東西部協作幫助西部地區500餘萬農村勞動力實現就業】國新辦今天（6月11日）上午10時舉行新聞釋出會，介紹東西部協作工作進展成效，並答記者問。農業農村部副部長麥爾丹·木蓋提介紹，在鞏固拓展脫貧攻堅成果同鄉村振興有效銜接過渡期，透過東西部協作機制幫助西部地區500餘萬農村勞動力實現就業，其中脫貧勞動力300多萬人。"
+    },
+    {
+      "id": "te:markets:558225",
+      "time": "2026-06-11 10:09:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Finds Support as US Completes Iran Strikes — Silver rose toward $64 an ounce on Thursday after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume and tempering some concerns over inflationary pressures. Earlier, the US launched fresh attacks on Iran after President Trump accused Tehran of delaying talks on an interim peace agreement, while Iran reportedly responded by targeting US vessels in the Strait of Hormuz. Even so, silver remained near eleven-week lows as the prolonged conflict and the continuing near-total closure of Hormuz disrupted energy flows from the Persian Gulf, fueling worries about higher inflation and interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the reading matched market expectations. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced."
+    },
+    {
+      "id": "4929388",
+      "time": "2026-06-11 10:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "工信部公佈《享受車船稅減免優惠的節約能源使用新能源汽車車型目錄》（第八十七批），吉利、比亞迪、賽力斯等多款車型在列。"
+    },
+    {
+      "id": "mkt:019eb46f-e570-7dd8-afb1-d1ff3cd7b628",
+      "time": "2026-06-11 10:08:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "175.HK",
+        "Impact bullish",
+        "1211.HK"
+      ],
+      "text": "MIIT published the 87th batch of the catalogue of energy‑saving new energy vehicle models eligible for vehicle and vessel tax reduction/exemption; multiple models from Geely, BYD and SERES are listed."
+    },
+    {
+      "id": "4929387",
+      "time": "2026-06-11 10:07:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指下跌0.9%至5,850.578點。"
+    },
     {
       "id": "te:markets:558224",
       "time": "2026-06-11 10:07:34",
@@ -169561,170 +169684,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "4916395",
-      "time": "2026-06-04 10:11:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：關於四方會談和訪印事宜尚未做出任何決定。"
-    },
-    {
-      "id": "mkt:019e9066-e04f-7cc0-ba22-23e92aeab4ef",
-      "time": "2026-06-04 10:11:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said the government and the Bank of Japan maintain close communication on economic and financial trends and will continue to do so."
-    },
-    {
-      "id": "4916394",
-      "time": "2026-06-04 10:11:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：日本政府與日本央行一直就經濟及金融趨勢保持密切溝通，未來也將繼續維持這一溝通機制。"
-    },
-    {
-      "id": "mkt:019e9065-e7c4-7cc0-ba22-1bcf67ed4ecd",
-      "time": "2026-06-04 10:10:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bearish"
-      ],
-      "text": "TSMC (TSM.N) CEO said customer prepayments have only partially eased substantial capex pressure."
-    },
-    {
-      "id": "mkt:019e9065-ddfa-7cc0-ba22-118a1d32474e",
-      "time": "2026-06-04 10:10:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's chief cabinet secretary Kihara said he expects the Bank of Japan to adopt appropriate monetary policy to achieve its price target sustainably and stably, while working closely with the government."
-    },
-    {
-      "id": "4916393",
-      "time": "2026-06-04 10:10:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔表示：預期日本央行將在與政府保持密切協作的前提下，實施恰當的貨幣政策，以可持續、穩定地實現其物價目標。"
-    },
-    {
-      "id": "mkt:019e9065-c39a-7cc0-ba22-0d1a10d3ee89",
-      "time": "2026-06-04 10:10:48",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "KIHARA said specific monetary policy tools are to be decided by the BANK OF JAPAN."
-    },
-    {
-      "id": "mkt:019e9065-aa81-7cc0-ba22-07a50be363ac",
-      "time": "2026-06-04 10:10:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chief Cabinet Secretary Kihara Minoru declined to comment on specific remarks by Bank of Japan Governor Ueda Kazuo."
-    },
-    {
-      "id": "mkt:019e9065-7d7e-7cc0-ba21-fefef6d91452",
-      "time": "2026-06-04 10:10:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TSMC chief executive said employee profit-sharing rose 30% YoY, has no cap, and is expected to continue rising."
-    },
-    {
-      "id": "4916392",
-      "time": "2026-06-04 10:10:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：客戶預付款僅能部分緩解鉅額投資壓力。"
-    },
-    {
-      "id": "4916391",
-      "time": "2026-06-04 10:10:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：就日本央行行長植田和男的具體言論不予置評。"
-    },
-    {
-      "id": "mkt:019e9065-47e5-7cc0-ba21-f7f6d2cfad34",
-      "time": "2026-06-04 10:10:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "CSI300"
-      ],
-      "text": "【State Grid expects summer peak demand to exceed 1.3 billion kW, up about 6% YoY】State Grid said its operating area is forecast to see a peak load above 1.3 billion kilowatts this summer, roughly 6% higher YoY. To ensure grid security and reliable supply it is accelerating capacity builds, expanding market-based power trading and promoting efficient use of clean energy; 168 peak-summer priority projects are being fast-tracked."
-    },
-    {
-      "id": "mkt:019e9065-29d2-7cc0-ba21-e9ce99b611f1",
-      "time": "2026-06-04 10:10:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact mixed"
-      ],
-      "text": "TSMC (TSM.N) CEO: employee profit-sharing payouts to rise about 30% in 2024 and 2025; expects a further ~30% increase in 2026."
-    },
-    {
-      "id": "4916390",
-      "time": "2026-06-04 10:09:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電CEO：員工分紅年度漲幅30%不存在上限，預計分紅將持續增長。"
-    },
-    {
-      "id": "4916389",
-      "time": "2026-06-04 10:09:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今夏國家電網最大用電負荷將超13億千瓦，同比增約6%】記者今天從國家電網瞭解到，據測算，今夏國家電網經營區最大用電負荷將超過13億千瓦，比去年同期增長約6%。為全力保障電網安全執行和電力可靠供應，國家電網加快保供能力建設，持續完善電力市場化交易，促進清潔能源高效利用，目前，168項迎峰度夏重點工程正在加快建設。（央視新聞）"
-    },
-    {
-      "id": "4916388",
-      "time": "2026-06-04 10:08:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光學光電子板塊震盪走高，華映科技、三安光電漲停】光學光電子板塊震盪走高，華映科技、三安光電漲停，恆太照明漲超18%，京東方A、民爆光電、華燦光電、緯達光電、得邦照明跟漲。"
-    },
-    {
-      "id": "mkt:019e9063-91a7-7cc0-ba21-e0638d6ec814",
-      "time": "2026-06-04 10:08:24",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "FactSet data show the Indonesian rupiah dipped below 18,000 per U.S. dollar for the first time."
     }
   ]
 }
