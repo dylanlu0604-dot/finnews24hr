@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-12 00:37:57",
-  "count": 18492,
+  "updated": "2026-06-12 00:41:51",
+  "count": 18494,
   "items": [
+    {
+      "id": "4931008",
+      "time": "2026-06-12 00:39:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國批准部分涉俄民用核能相關交易。"
+    },
+    {
+      "id": "mkt:019eb78d-b114-7dd8-afc6-ee1c058ee21a",
+      "time": "2026-06-12 00:39:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury website says the U.S. has imposed sanctions on a Cuban oil company."
+    },
+    {
+      "id": "4931007",
+      "time": "2026-06-12 00:39:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "分析公司AdImpact最新估算顯示，今年美國中期選舉的廣告總支出預計將達到116億美元，將打破2024年總統大選週期創下的紀錄。"
+    },
+    {
+      "id": "4931006",
+      "time": "2026-06-12 00:39:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI將收購Ona 強化Codex代理能力】OpenAI當地時間週四宣佈將收購初創公司Ona。Ona為人工智慧代理提供安全、預配置的雲環境，使其能夠訪問工具、系統和上下文資訊。OpenAI表示，Ona的技術將使其程式設計助手Codex能夠處理執行時間更長的任務，還將幫助更多組織將代理部署到生產環境中，由代理代表使用者自主完成任務。OpenAI未披露此次收購條款。交易完成後，Ona員工將加入OpenAI，並在Codex團隊工作。"
+    },
+    {
+      "id": "mkt:019eb78d-16d7-7dd8-afc6-e2aa1865650b",
+      "time": "2026-06-12 00:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Analysis firm AdImpact’s latest estimate projects US midterm election ad spending will hit $11.6 billion in 2026, topping the record set in the 2024 presidential cycle."
+    },
+    {
+      "id": "4931005",
+      "time": "2026-06-12 00:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Evercore：SpaceX上市在即 美股“錯失恐懼症”還將持續】Evercore ISI首席股票與量化策略師Julian Emanuel表示，在SpaceX上市前夕，“錯失恐懼症”（FOMO）令投資者對那些通常會令華爾街不安的事件表現得不以為意。儘管伊朗面臨美國連續兩天的軍事打擊，以及美國總統特朗普威脅要進一步升級局勢，交易員們週四仍選擇逢低買入。此前，股市自上週五走出了一輪疲軟行情，當時一份出人意料強勁的就業報告加劇了市場對利率上升的擔憂。"
+    },
+    {
+      "id": "4931004",
+      "time": "2026-06-12 00:37:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國授權提供與薩哈林2號相關的某些服務。"
+    },
     {
       "id": "4931003",
       "time": "2026-06-12 00:37:12",
@@ -170370,50 +170428,6 @@
         "其他"
       ],
       "text": "阿根廷經濟部長表示，13億美元天然氣管道專案、2.08億美元鋰專案已獲批享受稅收優惠機制。"
-    },
-    {
-      "id": "4917887",
-      "time": "2026-06-05 00:41:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數跌幅收窄，最新下跌0.15%。"
-    },
-    {
-      "id": "4917886",
-      "time": "2026-06-05 00:40:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：並不提前掌握明日將要釋出的非農就業資料。"
-    },
-    {
-      "id": "4917885",
-      "time": "2026-06-05 00:40:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特向眾議院小組委員會表態：我原本希望非農就業資料於今日出爐。"
-    },
-    {
-      "id": "4917884",
-      "time": "2026-06-05 00:38:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公募機構對直銷業務“做減法”】昨日，中科沃土基金髮布關於關閉直銷網上交易平臺、微信服務號部分業務服務的公告。公告顯示，中科沃土基金將於6月27日起關閉直銷網上交易平臺和微信服務號“中科沃土基金”的開戶、認購、申購（含定期定額投資）、基金轉換業務，贖回、查詢、銷戶等業務仍可正常辦理。記者就相關情況採訪中科沃土基金，該公司相關人士回應稱：“本次對直銷網上交易平臺及微信服務號提供的業務服務進行調整，主要是基於公司自身業務發展的安排。”近年來，公募機構直銷業務“做減法”的案例並不少見。舉例來說，去年下半年以來，諾安基金、申萬菱信基金、金鷹基金等多家公募機構釋出公告，暫停或終止旗下App移動客戶端的運營及維護服務，將相關功能及服務遷移至公司官方網站、微信服務號等。深圳市排排網基金銷售有限責任公司公募產品經理朱潤康對記者分析稱，公募機構收縮直銷業務或出於三方面考量：一是運營成本高、投入產出失衡，尤其對中小機構而言，自建App的維護成本與低迷的使用者活躍度難以匹配；二是使用者獲取與留存困難，單一公司App的產品豐富度和便利性通常不及大型代銷平臺；三是資源約束下的戰略聚焦，在資源有限時，部分機構選擇優先保障投研等核心能力，將規模拓展委託給代銷渠道，便於集中精力和資源專注投資主業。"
-    },
-    {
-      "id": "te:markets:556572",
-      "time": "2026-06-05 00:38:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Rebound — European stocks closed firmly higher on Thursday as a pullback in oil prices limited the magnitude of pro-inflationary risks faced by the European corporate sector. The Euro STOXX 50 added 0.8% to 6,103 and the STOXX Europe 600 gained 0.5% to 624. Israel and Lebanon signed a ceasefire agreement, part of the precedent for the Iran and the US to lift their blockade on commercial vessels that has triggered shortage risks on energy commodities. Banks closed firmly higher with Santander, Deutsche Bank and UniCredit adding between 1.5% and 3%. Aerospace stocks were also higher, with Airbus gaining 4.6%. Outside the Eurozone, HSBC lost nearly 2% after reports indicated that authorities have prohibited some Mainland China clients from opening Hong-Kong based accounts."
     }
   ]
 }
