@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-12 05:30:49",
-  "count": 18423,
+  "updated": "2026-06-12 05:34:41",
+  "count": 18424,
   "items": [
+    {
+      "id": "4931269",
+      "time": "2026-06-12 05:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗錫裡克地區海岸附近傳出爆炸聲】據伊朗媒體12日報道，伊朗錫裡克地區海岸附近多次傳出爆炸聲，原因不明。 (新華社)"
+    },
+    {
+      "id": "mkt:019eb89a-6932-7dd8-afcb-f505fe79105b",
+      "time": "2026-06-12 05:33:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA (NVDA.O) shareholder meeting scheduled for June 24; individual investors may participate online."
+    },
+    {
+      "id": "4931268",
+      "time": "2026-06-12 05:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達股東大會定於 6 月 24 日舉行，個人可線上參會。"
+    },
+    {
+      "id": "mkt:019eb899-5108-7dd8-afcb-eb403f65b740",
+      "time": "2026-06-12 05:31:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【CME plans 24/7 trading for new crude and gold contracts】CME said, pending regulatory review, it will offer 24/7 trading for new, smaller crude and gold futures. The new crude contract will be one-tenth the size of CME’s micro WTI and is scheduled to launch on Aug. 30. CME’s existing 1-ounce gold futures will move to around-the-clock trading from July 26. Derek Sammann, head of global commodity markets, said regulated 24/7 products will allow traders to manage exposures immediately amid geopolitical uncertainty."
+    },
     {
       "id": "mkt:019eb897-77a0-7dd8-afcb-e109fa04df6d",
       "time": "2026-06-12 05:29:54",
@@ -169881,30 +169924,6 @@
         "Brent"
       ],
       "text": "【International oil prices fell sharply on the 4th】At the close on the 4th, NYMEX July light sweet crude futures fell $2.98 to $93.04/bbl, down 3.10%. ICE Brent August futures fell $2.78 to $95.03/bbl, down 2.84%."
-    },
-    {
-      "id": "4918192",
-      "time": "2026-06-05 05:34:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價4日顯著下跌】國際油價4日顯著下跌。 截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.98美元，收於每桶93.04美元，跌幅為3.10%；8月交貨的倫敦布倫特原油期貨價格下跌2.78美元，收於每桶95.03美元，跌幅為2.84%。(新華社)"
-    },
-    {
-      "id": "4918191",
-      "time": "2026-06-05 05:34:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：自 2026 至 2027 學年起，與猶他州教育委員會合作，在當地 K-12 中小學落地教育版 Gemini。"
-    },
-    {
-      "id": "mkt:019e948d-f6a5-7cc8-bdee-cbe3a2497ac0",
-      "time": "2026-06-05 05:33:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported the Trump administration plans to issue a policy statement telling banks they may take customers' immigration status into account as one factor when evaluating ability to repay mortgages and credit-card debt."
     }
   ]
 }
