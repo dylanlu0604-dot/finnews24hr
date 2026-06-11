@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-11 21:43:51",
-  "count": 18516,
+  "updated": "2026-06-11 21:47:58",
+  "count": 18521,
   "items": [
+    {
+      "id": "4930785",
+      "time": "2026-06-11 21:46:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
+    {
+      "id": "4930784",
+      "time": "2026-06-11 21:46:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行溫和情景：預計2026年通脹率為2.9%。歐洲央行不利情景假設：預計2027年整體通脹率為3.0%"
+    },
+    {
+      "id": "mkt:019eb6ee-a230-7dd8-afc3-52ac726cd880",
+      "time": "2026-06-11 21:45:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Reportedly, the UAE and Iran held in-person talks aimed at easing tensions."
+    },
+    {
+      "id": "4930783",
+      "time": "2026-06-11 21:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 阿聯酋與伊朗已舉行面對面會談，以求緩和緊張局勢。"
+    },
+    {
+      "id": "4930782",
+      "time": "2026-06-11 21:45:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊否認伊朗官員曾主動接觸特朗普】伊朗伊斯蘭革命衛隊當天發表宣告，否認美國總統特朗普有關伊朗官員曾主動與其接觸、要求美國停止軍事打擊的說法。據報道，革命衛隊“堅決否認”特朗普的相關言論，並稱特朗普的相關表態是為擺脫當前衝突局勢責任而給出的說辭。（新華社）"
+    },
+    {
+      "id": "4930781",
+      "time": "2026-06-11 21:44:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "肯亞財政部長：2026/27財年總支出預計為4.82萬億先令。"
+    },
+    {
+      "id": "4930780",
+      "time": "2026-06-11 21:44:09",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【報告：歐洲央行仍在高能源成本與過去政策失誤之間進退兩難】Federated Hermes的Filippo Alloatti在一份報告中表示，歐洲央行仍然陷入兩難境地。這位金融主管表示：“一方面，持續高企的能源成本可能會拖累整個歐洲的工業活動和消費者需求，德國和義大利等經濟體尤其容易受到長期能源衝擊的影響。“他說：“另一方面，該央行仍在應對疫情後長期將利率維持在過低水平所留下的後遺症。“歸根結底，信譽現在是政策前景的核心。“錨定通脹預期並強化對價格穩定的承諾，可能會使歐洲央行在短期內保持緊縮路徑，儘管整個歐元區的增長風險在不斷增加。”"
+    },
+    {
+      "id": "4930779",
+      "time": "2026-06-11 21:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【分析師：美伊互不相讓，都想耗出更好的協議】分析師Torbjorn Soltvedt指出，美伊之間雖有脆弱的休戰，但低強度衝突持續施壓停火，近幾日已演變為更激烈的交火。談判仍在繼續，但問題在於雙方都想從實力地位出發去談。美方認為可以加大對伊朗施壓，等一等反而籌碼更足；而伊朗則覺得封鎖霍爾木茲海峽就能掐住全球經濟咽喉，足以耗到更好的協議——這一策略已見成效，許多國家都感受到了經濟衝擊。“眼下美國通脹正觸及三年高點，”Soltvedt警告，若無法達成正式協議，當前“極不穩定的環境隨時可能崩潰”。"
+    },
+    {
+      "id": "mkt:019eb6ec-6553-7dd8-afc3-492f01647714",
+      "time": "2026-06-11 21:43:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: US and Iran both trying to outlast the other to secure a better deal】Analyst Torbjorn Soltvedt says a fragile ceasefire masks ongoing low‑intensity conflict between the US and Iran that has recently escalated into heavier exchanges. Negotiations continue, but both sides seek to bargain from strength: Washington prefers stepped‑up pressure to increase leverage, while Tehran believes threats to close the Strait of Hormuz can choke the global economy and extract better terms. Soltvedt says the tactic has already produced economic effects across multiple countries. He warns US inf is at a three‑year high and, without a formal agreement, the \"extremely unstable environment could collapse at any time.\""
+    },
     {
       "id": "4930778",
       "time": "2026-06-11 21:41:52",
@@ -170607,44 +170695,6 @@
         "國際"
       ],
       "text": "世界黃金理事會資料顯示，受投資者獲利了結金價漲勢影響，印度黃金ETF在5月迎來一年來首次資金淨流出。"
-    },
-    {
-      "id": "4917650",
-      "time": "2026-06-04 21:46:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股光通訊股跌幅進一步擴大，Lumentum跌7.3%，諾基亞跌近7%，康寧跌6.8%。"
-    },
-    {
-      "id": "4917649",
-      "time": "2026-06-04 21:46:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國資產管理公司股價在週三下跌後反彈。黑石股價上漲3.6%，KKR上漲3.5%，阿波羅全球管理上漲2%。藍貓頭鷹資本股價上漲3.2%，阿瑞斯管理集團股價上漲4%，凱雷集團股價上漲2.2%。"
-    },
-    {
-      "id": "4917648",
-      "time": "2026-06-04 21:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：由美伊戰爭引發的油價危機已衝擊全球增長前景，將2026年全球增長預測下調0.2個百分點至2.4%。霍爾木茲海峽關閉已持續14周，我們假設其要到7月才開始重開。將2026年布倫特原油平均價格假設從3月的70美元/桶上調至87美元/桶。"
-    },
-    {
-      "id": "te:markets:556550",
-      "time": "2026-06-04 21:44:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Broadcom Stock Price Hits 5-week Low — Broadcom shares decreased to 404.45 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 2.6%, and in the last 12 months, it increased 55.39%."
     }
   ]
 }
