@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-12 01:09:18",
-  "count": 18489,
+  "updated": "2026-06-12 01:13:23",
+  "count": 18480,
   "items": [
+    {
+      "id": "4931029",
+      "time": "2026-06-12 01:11:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貝萊德據悉計劃在SpaceX IPO中認購約50億美元】據知情人士透露，貝萊德尋求參與SpaceX首次公開募股(IPO)，目標認購規模約為50億美元。此前報道稱，SpaceX此次IPO已獲得數倍於發行規模的認購。知情人士稱，目前相關討論仍在進行中，發行細節未來仍可能發生變化。由於資訊尚未公開，他們要求匿名。貝萊德發言人拒絕置評。SpaceX發言人未立即回應置評請求。"
+    },
     {
       "id": "4931028",
       "time": "2026-06-12 01:08:44",
@@ -170318,96 +170326,6 @@
         "MKT News"
       ],
       "text": "Putin said Ukrainian forces face severe personnel shortages."
-    },
-    {
-      "id": "4917919",
-      "time": "2026-06-05 01:12:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭軍隊的問題是兵力極端匱乏。"
-    },
-    {
-      "id": "mkt:019e939e-cd9a-711f-ac53-1a6e7ca5709f",
-      "time": "2026-06-05 01:11:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Putin says Russian forces are advancing in Ukraine."
-    },
-    {
-      "id": "4917918",
-      "time": "2026-06-05 01:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯普京：俄羅斯部隊正在烏克蘭境內推進。"
-    },
-    {
-      "id": "mkt:019e939e-2e37-711f-ac53-101db1a3c79b",
-      "time": "2026-06-05 01:11:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Putin says Russia can control the Donbas region while simultaneously reaching a peace agreement."
-    },
-    {
-      "id": "4917917",
-      "time": "2026-06-05 01:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們可以控制頓巴斯，仍能達成和平協議。"
-    },
-    {
-      "id": "4917916",
-      "time": "2026-06-05 01:10:48",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙將向高淨值客戶推介 SpaceXIPO 專案。"
-    },
-    {
-      "id": "mkt:019e939c-e5a6-711f-ac53-0a07d60294bc",
-      "time": "2026-06-05 01:09:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia will continue to develop relations with India."
-    },
-    {
-      "id": "mkt:019e939c-bad2-711f-ac53-050d8f78d506",
-      "time": "2026-06-05 01:09:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said its Space Forces, the command's space warfighting element, hold the strategic high ground in the Middle East and support US forces in maintaining regional security and stability. The unit maintains ready offensive and defensive capabilities and is on 24/7 alert."
-    },
-    {
-      "id": "mkt:019e939c-b21b-711f-ac52-f85bf2e3dbd7",
-      "time": "2026-06-05 01:09:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said US-India relations will not impede Russia-India ties."
-    },
-    {
-      "id": "4917915",
-      "time": "2026-06-05 01:09:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國中央司令部太空軍，作為中央司令部的太空作戰力量，在中東地區佔據著戰略制高點，支援美國戰鬥人員執行維護地區安全與穩定的任務。太空部隊具備隨時可用的攻防能力，全天候待命。"
     }
   ]
 }
