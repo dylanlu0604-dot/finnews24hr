@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-11 08:49:11",
-  "count": 18431,
+  "updated": "2026-06-11 08:53:09",
+  "count": 18433,
   "items": [
+    {
+      "id": "te:markets:558196",
+      "time": "2026-06-11 08:51:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Remains Under Pressure — Silver traded near $63 an ounce on Thursday, hovering at its lowest levels since March 23 as the US launched strikes against Iran for the second day, threatening to prolong the conflict that has rattled global markets and fueled inflation concerns. The attacks followed President Donald Trump's accusation that Iran was delaying negotiations over an interim peace agreement, while Tehran vowed to resist any threats. The protracted conflict and the ongoing near-total closure of the Strait of Hormuz disrupted energy flows from the Persian Gulf, raising concerns about resurgent inflation and potential central bank interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the figure matched market expectations. Traders modestly pared expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced."
+    },
+    {
+      "id": "4929235",
+      "time": "2026-06-11 08:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國秘書長：中東正深陷危機泥潭 應停止一切襲擊】當地時間6月10日，聯合國秘書長古特雷斯表示，中東正深陷危機泥潭，其影響遠超該地區本身。古特雷斯表示，本週，襲擊事件範圍擴大，局勢進一步惡化，絕不能低估其演變為全面衝突的風險。他表示，各方必須努力尋求外交解決，停止一切襲擊，停止一切藉口。"
+    },
+    {
+      "id": "4929234",
+      "time": "2026-06-11 08:49:18",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：印刷電路板產業鏈的電子布等更具盈利彈性 看好中國巨石】花旗稱，人工智慧PCB（印刷電路板）的升級越來越成為上游材料的故事；其中CCL（覆銅箔層壓板）和電子布環節具有更好的盈利彈性。中國材料受益標的中偏好中國巨石。分析師Anna Wang等在報告中指出，人工智慧伺服器的需求不僅驅動了量的增長，也帶來了PCB層數、CCL材料等級、銅箔和玻璃纖維布規格的結構性升級。在產能增長方面，PCB環節最快，其次是CCL和電子布，但定價能力相反。PCB廠商基本可以將AI相關的材料成本上漲轉嫁出去，但利潤率上行空間較為有限，因漲價主要是成本傳導。CCL和電子布環節供應更為受限，漲價也更為直接。"
+    },
+    {
+      "id": "4929233",
+      "time": "2026-06-11 08:49:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬輝能源成立智飛動能科技公司】企查查APP顯示，近日，廣州鵬輝智飛動能科技有限公司成立，經營範圍包含：電池銷售；蓄電池租賃；電池零配件銷售；電力電子元器件銷售等。企查查股權穿透顯示，該公司由鵬輝能源全資持股。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606113767387161",
+      "time": "2026-06-11 08:48:11",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【三年首次突破4%！市場定價年內加息 美聯儲會答應嗎】中東衝突持續推高汽油及其他能源產品價格，美國5月通脹率突破4%，創下2023年以來最快增速。貨幣市場定價顯示，美聯儲12月或加息25個基點。對於下週即將迎來利率決議的美聯儲而言，官員對通脹飆升的擔憂程度將受到廣泛關注。"
+    },
     {
       "id": "mkt:019eb426-814b-7dd8-afb0-253722449fd2",
       "time": "2026-06-11 08:48:02",
@@ -169881,36 +169926,6 @@
         "Impact bullish"
       ],
       "text": "SK Group and Taiwan Semiconductor Manufacturing Co. (TSMC) agreed to deepen cooperation on high-bandwidth memory (HBM) development and advanced packaging."
-    },
-    {
-      "id": "te:economy:556277",
-      "time": "2026-06-04 08:52:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Composite PMI",
-        "Importance 2"
-      ],
-      "text": "Singapore Private Sector Growth Eases from Near 4-Year Peak — Singapore’s S&P Global PMI eased to 56.7 in May 2026 from April’s near four-year high of 57.9. Still, the latest result marked the 16th straight month of expansion in private sector activity, with output growth accelerating to a three-month high. Meanwhile, new orders rose at the second-strongest pace on record despite cooling from April, underscoring resilient demand. Employment fell for a second month on cuts to temporary staff and voluntary exits, even as firms lifted purchasing at a record pace, with some stockpiling ahead of demand. On prices, input cost inflation hit a survey high, driven by supplier price hikes, rising fuel and transport costs, and a record surge in wages. Purchase cost inflation stayed elevated, its third-highest on record, but firms were less aggressive in passing costs on, with output charge inflation easing to a four-month low though still steep. Finally, business sentiment remained positive but softened from April’s elevated level."
-    },
-    {
-      "id": "4916240",
-      "time": "2026-06-04 08:52:34",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國檢測發現致命螺旋蠅寄生蟲 對牛群養殖構成威脅】一種致命牛寄生蟲近十年首次在美國被檢出，本就處於 75 年來存欄低位的美國牛群再遭新風險。美國農業部通報，週三上報的得克薩斯州南部送檢樣本確診新大陸螺旋蠅陽性，染病牲畜為扎瓦拉縣一頭三週齡小牛。此次致命寄生蟲檢出恰逢美國肉牛產業處境嚴峻：肉牛存欄縮減已推高終端牛肉售價至歷史高位，本次確診或將出臺牲畜跨區調運管控措施。週三盤面在病例尚未官宣時已提前反應：泰森食品大跌 4.2%，收於五個月低點；JBS 美股收盤價創下其赴美上市近一年來新低。"
-    },
-    {
-      "id": "4916239",
-      "time": "2026-06-04 08:51:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏明電子：研發的MLCC配套材料不能用於玻璃基板通孔填充】宏明電子(301682)在互動平臺表示，公司研發的MLCC配套陶瓷介質與電極漿料，研發攻關聚焦MLCC電容產品體系。該材料配方、引數針對MLCC工況定製，不能用於玻璃基板的通孔填充。"
     }
   ]
 }
