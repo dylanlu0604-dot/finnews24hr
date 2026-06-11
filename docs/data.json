@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-11 09:38:10",
-  "count": 18434,
+  "updated": "2026-06-11 09:41:53",
+  "count": 18436,
   "items": [
+    {
+      "id": "4929337",
+      "time": "2026-06-11 09:41:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1258.40美元/盎司。"
+    },
+    {
+      "id": "4929336",
+      "time": "2026-06-11 09:40:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率下跌0.5個基點，至1.930%。"
+    },
+    {
+      "id": "4929335",
+      "time": "2026-06-11 09:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯蘭革命衛隊航天部隊指揮官：我們將使該地區對那些破壞霍爾木茲海峽安全的人變成地獄。"
+    },
+    {
+      "id": "mkt:019eb456-34ce-7dd8-afb1-6e133fbdac73",
+      "time": "2026-06-11 09:40:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share small-metals sector rallied, led by Jinmo Co., which hit the daily trading limit; Zhongwu Gaoxin, Guiyan Platinum, Xianglu Tungsten, Shenglong, Dongfang Tantalum and Zhangyuan Tungsten also advanced."
+    },
+    {
+      "id": "4929334",
+      "time": "2026-06-11 09:40:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【濰柴動力：正加快推進SOFC產能建設，力爭年內實現量產落地】濰柴動力6月10日在機構調研時表示，公司於2018年佈局SOFC技術，目前公司SOFC發電系統已成功透過歐盟CE認證，順利完成40項全項認證測試，並依託成熟電堆技術與數字孿生智慧運維平臺，裝置執行穩定、智慧化水平突出。目前公司正加快推進SOFC產能建設，力爭年內實現量產落地，並根據市場及行業需求情況做好未來產能擴張規劃。"
+    },
+    {
+      "id": "mkt:019eb456-08f8-7dd8-afb1-6692512beeac",
+      "time": "2026-06-11 09:39:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Meituan",
+        "01024.HK",
+        "Impact bullish",
+        "09626.HK",
+        "00700.HK"
+      ],
+      "text": "Select Hong Kong internet names strengthened: Kuaishou (01024.HK) rose over 3%; Bilibili (09626.HK) and Tencent Holdings (00700.HK) gained more than 2%; NetEase-S (09999.HK), Tencent Music (01698.HK), Meituan (03690.HK) and Baidu (09888.HK) also advanced."
+    },
+    {
+      "id": "4929333",
+      "time": "2026-06-11 09:39:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【小金屬板塊衝高，金鉬股份漲停】小金屬板塊衝高，金鉬股份漲停，中鎢高新、貴研鉑業、翔鷺鎢業、盛龍股份、東方鉭業、章源鎢業跟漲。"
+    },
+    {
+      "id": "4929332",
+      "time": "2026-06-11 09:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念震盪下挫 天娛數科等多股跌停】早盤物理AI概念震盪下挫，天娛數科、能科科技、達實智慧跌停，索辰科技、綠的諧波跌超10%，中望軟體、奧比中光、絲路視覺等跟跌。"
+    },
+    {
+      "id": "te:markets:558217",
+      "time": "2026-06-11 09:39:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Climb to Over 3-Week High — European natural gas prices rose further to €50.3 per MWh, the highest in over three weeks, as escalating attacks between the US and Iran threatened to undermine efforts to end the conflict. The US launched new strikes on several targets in Iran for a second straight day after President Donald Trump accused Tehran of delaying peace talks. Iran responded by completely closing the Strait of Hormuz to all maritime traffic and reportedly struck two vessels transiting the key waterway. The latest US attacks followed earlier strikes carried out in retaliation for the downing of an American helicopter off the coast of Oman, which Trump blamed on Tehran. The renewed hostilities risk prolonging disruptions to energy flows through the strait, which handles around one-fifth of global LNG supplies. For Europe, the primary concern is replenishing gas storage ahead of next winter, as the conflict tightens global supplies and intensifies competition for LNG cargoes."
+    },
+    {
+      "id": "mkt:019eb455-1fb1-7dd8-afb1-5f69b4a0b2bc",
+      "time": "2026-06-11 09:38:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to the Wall Street Journal, OpenAI is considering significantly reducing its token pricing."
+    },
+    {
+      "id": "mkt:019eb455-0992-7dd8-afb1-5603a564ba20",
+      "time": "2026-06-11 09:38:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-shares MLCC sector opened lower then rallied; Yunzhong Technology jumped over 9%. Fenghua Hi-Tech, Torch Electronics, Guoci Materials, Sanhuan Group and Sidike also advanced."
+    },
+    {
+      "id": "4929331",
+      "time": "2026-06-11 09:38:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光刻機板塊拉昇，炬光科技20cm漲停】光刻機板塊拉昇，炬光科技20cm漲停，中船特氣漲超10%，先鋒精科、富創精密、美埃科技、凱美特氣、華特氣體跟漲。"
+    },
+    {
+      "id": "4929330",
+      "time": "2026-06-11 09:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 正在考慮大幅降低對詞元的收費。"
+    },
+    {
+      "id": "mkt:019eb454-1109-7dd8-afb1-48f1adb9d2bd",
+      "time": "2026-06-11 09:37:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Wall Street Journal reports OpenAI is considering steep price cuts, a move expected to spark a user-acquisition battle with ANTHROPIC."
+    },
     {
       "id": "4929329",
       "time": "2026-06-11 09:37:23",
@@ -169837,116 +169982,6 @@
         "TSM.O"
       ],
       "text": "TSMC CEO said the company has acquired high-numerical-aperture (high-NA) EUV lithography tools for R&D, but their high cost means they are not required for production at present."
-    },
-    {
-      "id": "4916331",
-      "time": "2026-06-04 09:41:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量735億元。"
-    },
-    {
-      "id": "4916330",
-      "time": "2026-06-04 09:41:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：我們已採購高數值孔徑極紫外（High-NA EUV）光刻機用於研發，但受成本過高影響，當前量產階段暫不需要高數值孔徑極紫外裝置。"
-    },
-    {
-      "id": "4916329",
-      "time": "2026-06-04 09:40:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "儲存晶片板塊低開高走，大為股份衝擊漲停，江化微、雲漢芯城、太極實業、概倫電子、雅創電子均漲超5%。"
-    },
-    {
-      "id": "te:markets:556288",
-      "time": "2026-06-04 09:40:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Slip on Middle East Risks — The benchmark KOSPI fell more than 1% to around 8,700 on Thursday, retreating from record highs and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Iran struck Kuwait International Airport and Israel signaled that it, together with the US, was prepared to launch further strikes against Iran if necessary, driving oil prices higher and raising inflation risks. The decline also reflected profit-taking following the index's extraordinary AI-driven rally, with investors turning cautious amid elevated market volatility and growing concerns about stretched valuations. Technology heavyweights Samsung Electronics (-0.6%) and SK Hynix (-3.0%) both traded lower, alongside Hyundai Motor (-3.4%), LG Energy Solution (-5.3%), LG Electronics (-15.0%), and Kia Corp (-3.1%). Still, losses were limited by chip-sector optimism after Goldman Sachs raised its 12-month KOSPI target to 12,000, citing robust AI-driven earnings growth."
-    },
-    {
-      "id": "4916328",
-      "time": "2026-06-04 09:40:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電CEO稱，出於成本考慮，未在生產中使用阿斯麥（ASML）的高數值孔徑（High-NA）EUV光刻機。"
-    },
-    {
-      "id": "4916327",
-      "time": "2026-06-04 09:40:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：關於削減消費稅的具體幅度尚未確定。"
-    },
-    {
-      "id": "mkt:019e9049-69e7-7003-8289-b954f80ab621",
-      "time": "2026-06-04 09:39:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Fudi Battery signs framework cooperation agreement with Meishan Xingmei Investment Group】June 2, 2026 — Meishan Xingmei Investment Group chairman Yang Dezhi visited Fudi Battery’s Pingshan headquarters and the two parties signed a framework strategic cooperation agreement. Fudi Deputy GM Zhao Tong and BYD Storage & New Batteries Division GM Yin Xueqin attended. The parties said they will expedite implementation, focusing on co-building a fast-charging replenishment network for heavy trucks, developing zero-carbon industrial parks, supporting power-battery supply chains, and advancing hard-carbon anode resource development."
-    },
-    {
-      "id": "4916326",
-      "time": "2026-06-04 09:39:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌2%，現報4827.00元。"
-    },
-    {
-      "id": "te:economy:556287",
-      "time": "2026-06-04 09:39:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Balance of Trade",
-        "Importance 3"
-      ],
-      "text": "Australia Trade Balance Swings to Surplus — Australia posted a trade surplus of AUD 1.79 billion in April 2026, shifting from a downwardly revised AUD 1.02 billion deficit in the previous month and in line with market expectations. Exports grew 7.2% month-on-month to AUD 47.19 billion, after a downwardly revised 2.5% fall in March, mainly driven by metal ores. Meanwhile, imports rose 0.8% to AUD 45.40 billion, after a downwardly revised 12.2% surge in March."
-    },
-    {
-      "id": "4916325",
-      "time": "2026-06-04 09:38:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "工業氣體概念再度拉昇，中船特氣漲超15%，股價續創歷史新高，華特氣體、和遠氣體、三孚股份、廣鋼氣體、凱美特氣跟漲。"
-    },
-    {
-      "id": "4916324",
-      "time": "2026-06-04 09:38:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【MLCC概念反覆走強 雙星新材漲停】近期MLCC概念反覆走強，雙星新材漲停，宏達電子漲超15%，利和興、宏明電子、昀冢科技、潔美科技跟漲。"
-    },
-    {
-      "id": "4916323",
-      "time": "2026-06-04 09:38:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：將考慮可接受水平的汽油補貼。"
     }
   ]
 }
