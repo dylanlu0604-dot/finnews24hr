@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-11 08:18:09",
-  "count": 18417,
+  "updated": "2026-06-11 08:22:05",
+  "count": 18423,
   "items": [
+    {
+      "id": "mkt:019eb40e-45ac-7dd8-afaf-d7bc4cfd0946",
+      "time": "2026-06-11 08:21:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro STOXX 50 futures were down 0.9%, DAX futures down 0.8% and UK FTSE futures down 0.9%."
+    },
+    {
+      "id": "4929201",
+      "time": "2026-06-11 08:21:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下滑0.8%，英國富時指數期貨走低0.9%。"
+    },
+    {
+      "id": "mkt:019eb40d-e57f-7dd8-afaf-cef8eb527ff8",
+      "time": "2026-06-11 08:21:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iranian media says drones struck US Fifth Fleet Patriot system in Bahrain】Iranian media reported on the 11th that Iran used drones to attack the US Fifth Fleet in Bahrain, saying the action was in retaliation for US strikes on southern Iran. Reports said the communications antenna and radar facilities of the Fifth Fleet’s Patriot missile system were targeted."
+    },
+    {
+      "id": "te:markets:558191",
+      "time": "2026-06-11 08:21:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hitachi Stock Price Hits 10-week Low — Hitachi shares decreased to 4639.00 JPY, the lowest since March 2026. Over the past 4 weeks, Hitachi lost 2.11%, and in the last 12 months, it increased 15.95%."
+    },
+    {
+      "id": "4929200",
+      "time": "2026-06-11 08:20:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：我們的攻擊很猛烈 伊朗捱打不知所以】據福克斯新聞報道，特朗普稱，美軍今晚的打擊“猛烈而兇狠”，伊朗根本不知道是什麼襲擊了他們，以色列沒有參與今晚的打擊行動，但確實與以方進行了簡短通話。"
+    },
+    {
+      "id": "4929199",
+      "time": "2026-06-11 08:20:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上升1.5個基點，至3.865%。"
+    },
+    {
+      "id": "mkt:019eb40d-7374-7dd8-afaf-c18d7e1f2013",
+      "time": "2026-06-11 08:20:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump: U.S. strike 'fierce'; Iran 'didn't know what hit them'】Fox News reported Trump said the US military's strike tonight was \"fierce and brutal\" and that Iran \"didn't know what hit them.\" He said Israel did not participate in the strike but had a brief call with Israeli officials."
+    },
+    {
+      "id": "4929197",
+      "time": "2026-06-11 08:19:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價在通脹擔憂和利率預期之際下跌】金價在亞洲早盤交易中下跌。XS.com的Antonio Di Giacomo在一封電子郵件中表示，儘管美國5月份消費者價格漲幅符合預期，但投資者仍對持續的中東衝突導致能源價格大幅上漲所帶來的通脹效應感到擔憂。該分析師表示，目前很大一部分市場人士認為，美聯儲下一次加息可能會在年底前進行，這可能正在拖累貴金屬的價格。現貨黃金下跌0.3%，至每盎司4,057.60美元。"
+    },
+    {
+      "id": "4929196",
+      "time": "2026-06-11 08:19:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌2.7%，受科技和機械股拖累】日本股市走低，受對伊朗衝突的再度擔憂和能源成本上升拖累。科技股和機械股領跌。軟銀集團下跌6.7%，石川島播磨重工業下跌7.4%。在美國對伊朗發動新一輪攻擊後，投資者正密切關注中東局勢的發展。日經指數下跌2.7%，至62472.10點。"
+    },
+    {
+      "id": "mkt:019eb40b-8fb0-7dd8-afaf-bf6390a13d6b",
+      "time": "2026-06-11 08:18:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump: will \"bomb Iran to rubble\" if no deal; Vance says US negotiating with moderates and hardliners; Iran denies call】Fox News reported Trump said if Iran refuses an agreement \"we'll bomb them to rubble tomorrow night (EDT on the 11th)\", calling the ceasefire \"the most violated in history.\" Vice President Vance said the US is engaging both moderates and hardliners inside Iran during negotiations. Trump also said he had spoken directly with Iranian officials; Iran denied any such call."
+    },
+    {
+      "id": "4929195",
+      "time": "2026-06-11 08:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗再襲美軍第五艦隊】據伊朗官方媒體當地時間今天（6月11日）凌晨3點40分左右報道稱，伊朗發射無人機，連續第二天襲擊位於巴林的美軍第五艦隊。"
+    },
+    {
+      "id": "4929194",
+      "time": "2026-06-11 08:17:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股票大幅下跌，軟銀集團股價下跌4.7%，瑞薩電子下跌6.0%，Lasertec下跌5.0%。"
+    },
     {
       "id": "mkt:019eb408-facd-7dd8-afaf-b7cf49c0fc4a",
       "time": "2026-06-11 08:15:47",
@@ -169733,57 +169854,6 @@
         "其他"
       ],
       "text": "【微信正與手機廠商合作推出Agent-to-Agent助手能力】微信正在與華為、榮耀、小米、OPPO、vivo等手機廠商合作推出A2A（Agent-to-Agent）助手能力，可透過手機語音助理發起微信的音視訊通話，或向好友傳送訊息。目前，榮耀部分機型已經支援該功能，把YOYO智慧體和微信更新到最新版本，即可喚醒YOYO直接語音下達指令，比如語音發微信訊息、撥打微信語音、視訊通話。"
-    },
-    {
-      "id": "4916211",
-      "time": "2026-06-04 08:21:50",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點"
-      ],
-      "text": "【華泰證券：下半年風險資產或延續佔優】華泰證券釋出2026年中期展望報告稱，AI科技革命+全球製造業修復+全球央行大幅加息空間有限等多重因素交織下，下半年風險資產或延續佔優。經濟K型分化趨勢下，AI鏈+資源品>消費、製造>服務、矽基>碳基的分化格局或還將持續。資產層面，全球流動性見頂回落，估值修復空間有限，分子端成為大類資產“勝負手”，維持AI鏈>資源品>黃金>債券判斷。分品種看，A股趨勢不改，結構重於指數與節奏。操作上，市場極致分化後，資金或存在階段性高切低需求，建議保持操作靈活度，並留有一定現金應對高波動環境。"
-    },
-    {
-      "id": "4916210",
-      "time": "2026-06-04 08:21:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱若美軍被殺或重啟對伊戰爭 】據美國《華爾街日報》當地時間6月3日援引美國官員訊息報道稱，美國總統特朗普私下告訴其助手，“如果伊朗方面的行動導致美國軍人死亡”，他將考慮終止與伊朗的停火協議。美官員稱，“儘管小規模互襲持續，但（美軍）數週以來（對伊朗）的空襲暫停狀態依然有效。” （ CCTV國際時訊  ）"
-    },
-    {
-      "id": "4916209",
-      "time": "2026-06-04 08:20:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鐵路端午假期運輸首日火車票今天起售】記者今天（4日）從國鐵集團瞭解到，今年端午假期鐵路運輸從6月18日開始到6月22日，按照火車票提前15天預售的規定，今天起，全國鐵路開始發售6月18日的火車票，旅客可以登入鐵路12306網站或App購票，購票前建議先查詢出發車站的車票起售時間。"
-    },
-    {
-      "id": "mkt:019e8fff-dfbb-7003-8287-edb6291f773a",
-      "time": "2026-06-04 08:19:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister said markets will be closely monitored to curb equity-market volatility."
-    },
-    {
-      "id": "4916208",
-      "time": "2026-06-04 08:19:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.5%，德國DAX指數期貨下跌0.4%，富時指數期貨下跌0.5%。"
-    },
-    {
-      "id": "4916207",
-      "time": "2026-06-04 08:18:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體3日報道，美國總統特朗普已私下告訴助手，如果有美軍士兵在同伊朗交戰中死亡，他將考慮終止同伊朗的停火。（新華社）"
     }
   ]
 }
