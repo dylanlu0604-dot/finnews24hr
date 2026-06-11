@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-11 09:49:15",
-  "count": 18428,
+  "updated": "2026-06-11 09:53:00",
+  "count": 18421,
   "items": [
+    {
+      "id": "4929359",
+      "time": "2026-06-11 09:51:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "有色板塊震盪拉昇，翔鷺鎢業、金鉬股份、東方鉭業、貴研鉑業、盛龍股份等多股漲停，章源鎢業、中鎢高新、廈門鎢業漲超7%。"
+    },
+    {
+      "id": "mkt:019eb45f-ecb1-7dd8-afb1-9e1e62d92dcd",
+      "time": "2026-06-11 09:50:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share planting sector briefly rebounded; Yasheng Group surged to the daily limit, with Nongfa Seed, Quanyin Hi‑Tech, Longping Hi‑Tech and Shennong Seed also rising."
+    },
+    {
+      "id": "4929358",
+      "time": "2026-06-11 09:49:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "三大指數集體翻紅，小金屬、光刻機、半導體板塊漲幅居前。"
+    },
+    {
+      "id": "4929357",
+      "time": "2026-06-11 09:49:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報4682.00元。"
+    },
+    {
+      "id": "4929356",
+      "time": "2026-06-11 09:49:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST航圖等成立科技新公司，含多項衛星相關業務】企查查APP顯示，近日，北京航圖寶坤科技有限公司成立，經營範圍包含：衛星遙感資料處理；衛星遙感應用系統整合；衛星技術綜合應用系統整合等。企查查股權穿透顯示，該公司由*ST航圖等共同持股。"
+    },
     {
       "id": "4929355",
       "time": "2026-06-11 09:48:47",
@@ -169776,122 +169820,6 @@
         "焦點"
       ],
       "text": "北證50日內跌幅達2.05%，成分股中，XD同惠電跌4.56%，國子軟體跌4.03%，銅冠礦建跌3.75%，長虹能源跌3.67%。"
-    },
-    {
-      "id": "4916355",
-      "time": "2026-06-04 09:52:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK電信股價下跌13%。"
-    },
-    {
-      "id": "4916354",
-      "time": "2026-06-04 09:52:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "斗山集團股價下跌6.5%。"
-    },
-    {
-      "id": "mkt:019e9055-0c3e-7cc0-ba21-88dde5de3f13",
-      "time": "2026-06-04 09:52:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hong Kong unveils HKGAIV3, its first productivity-grade superintelligence】The Hong Kong Generative AI Research Centre (HKGAI) on the 3rd released its latest local large model, HKGAIV3, and launched Hong Kong’s first productivity-grade superintelligence to bolster the city’s AI development."
-    },
-    {
-      "id": "4916353",
-      "time": "2026-06-04 09:52:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港推出首個生產力級超級智慧體】香港生成式人工智慧研發中心（HKGAI）3日舉行“HKGAIV3大模型釋出暨生態合作大會”，正式釋出最新版本的本地大模型HKGAIV3，並推出香港首個生產力級超級智慧體，助力香港人工智慧發展。（新華社）"
-    },
-    {
-      "id": "4916352",
-      "time": "2026-06-04 09:52:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "LG電子股價下跌15%。"
-    },
-    {
-      "id": "mkt:019e9054-4245-7cc0-ba21-872090d9db54",
-      "time": "2026-06-04 09:51:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "000001.SS"
-      ],
-      "text": "China A-share oil and gas sector slid; Keli Co. fell more than 10%, while Tongyuan Petroleum, Shandong Molong, Diweil, Qianneng Hengxin and Zhongman Petroleum also declined."
-    },
-    {
-      "id": "4916351",
-      "time": "2026-06-04 09:51:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國和韓國於6月2日至3日就核能合作倡議舉行會晤。"
-    },
-    {
-      "id": "4916350",
-      "time": "2026-06-04 09:50:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上升1個基點，至3.545%。"
-    },
-    {
-      "id": "4916349",
-      "time": "2026-06-04 09:50:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "臺積電執行長稱，儘管臺灣地區、日本已有擴產計劃，全球晶片供應仍遠不足以滿足美國市場的晶片需求。"
-    },
-    {
-      "id": "mkt:019e9053-59bb-7cc0-ba21-7ca76f9f6727",
-      "time": "2026-06-04 09:50:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share storage-chip sector rose; Dawei Co. hit the daily trading limit and Huate Gas gained more than 11%. Shanghai Belling, Yunhan Xincheng, Taiji Industrial, Demingli and Jiangbolong also advanced."
-    },
-    {
-      "id": "mkt:019e9052-1af1-7cc0-ba21-74a986238ecf",
-      "time": "2026-06-04 09:49:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TSMC CEO said employee and shareholder interests are effectively aligned, since most employees hold company stock."
-    },
-    {
-      "id": "te:markets:556295",
-      "time": "2026-06-04 09:49:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Advance — US natural gas futures rose to around $3.23 per MMBtu as investors await the weekly storage data, which is expected to show a slight increase in the supply surplus. Prices remain supported by weather-driven demand expectations, with forecasts pointing to mostly above-normal temperatures through June 18. This should lift gas-fired power generation as air-conditioning demand rises. On the supply side, average production in the Lower 48 states fell to 109.0 bcfd so far in June from 109.7 bcfd in May. The decline in output over recent weeks has likely narrow the storage surplus to around 5.9% above normal for the week ended May 29, compared with 6.2% in the previous week. However, upside momentum has been partially offset by weaker LNG demand. Average feedgas flows to major LNG export terminals have fallen from 17.1 bcfd in May to 16.3 bcfd so far in June amid ongoing seasonal maintenance at several facilities."
     }
   ]
 }
