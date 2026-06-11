@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-11 12:45:41",
+  "updated": "2026-06-11 12:49:35",
   "count": 18385,
   "items": [
+    {
+      "id": "4929590",
+      "time": "2026-06-11 12:48:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【天文學家探測到極早期宇宙類星體的“閃爍”】美國天文學家發現一個遙遠類星體會忽明忽暗地閃爍，它來自“宇宙黎明”時期，即大爆炸後僅8.5億年。這是迄今探測到的最早的閃爍類星體，其亮度變化可幫助揭示幼年宇宙中的超大質量黑洞是怎樣形成的。 相關論文日前發表在英國《自然-天文學》雜誌上。  （新華社）"
+    },
+    {
+      "id": "4929589",
+      "time": "2026-06-11 12:48:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守94美元/桶，日內漲0.96%。"
+    },
+    {
+      "id": "mkt:019eb502-6385-7dd8-afb4-5d590216eb42",
+      "time": "2026-06-11 12:48:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude down 1.0% intraday at $91.76/bbl. Brent crude slipped 0.8% on the day to below $93/bbl."
+    },
+    {
+      "id": "4929588",
+      "time": "2026-06-11 12:46:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受金屬市場疲軟影響 澳大利亞礦業股跌至逾一個月低點】澳大利亞礦業股指數一度下跌2.8%，創下5月5日以來的最低點。若當前走勢持續，該子指數將連續第五個交易日下跌。鐵礦石期貨下跌，中東衝突升級推高油價並引發對全球經濟增長的擔憂，銅價亦隨之下跌。澳交所上市的美國鋁業公司和奧拉班達礦業公司領跌，分別下跌8.2%和7.3%。指數權重股力拓集團、福特斯克礦業和必和必拓各自下跌1%至2%。"
+    },
+    {
+      "id": "4929587",
+      "time": "2026-06-11 12:45:20",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：印度信實集團在人工智慧領域的投資回報率可能超過12%】摩根士丹利預計，信實的AI/資料中心業務將實現超過12%的資本回報率（ROCE），約為過去十年其電信和消費類投資回報率的兩倍報告補充稱，信實計劃在七年內投入1,100億美元用於人工智慧，這一規模與該公司此前在消費業務上的投入相當。週三，Meta 表示將租賃一座由穆克什·安巴尼旗下公司建造的AI就緒資料中心。"
+    },
+    {
+      "id": "4929586",
+      "time": "2026-06-11 12:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【腦虎科技“三全”腦機介面完成異地對弈驗證，全鏈路延時低於50毫秒】6月11日，介面新聞從腦虎科技獲悉，兩名分別位於滬贛兩地的高位截癱患者，透過其自研“全植入、全無線、全功能”腦機介面系統完成了異地象棋對弈。試驗中，受試者無肢體動作，憑神經訊號透過虛擬棋盤與外骨骼手套控制棋子，全鏈路延時在50毫秒以內，驗證了該系統在真實動態場景下的實時解碼魯棒性與精細運動輔助能力。"
+    },
     {
       "id": "mkt:019eb4fe-8122-7dd8-afb4-55f76d42e6b3",
       "time": "2026-06-11 12:43:58",
@@ -169368,63 +169426,6 @@
         "公司"
       ],
       "text": "臺積電CEO：臺積電不會突然大幅漲價。"
-    },
-    {
-      "id": "mkt:019e90f7-0130-7cc0-ba25-1854d46580b3",
-      "time": "2026-06-04 12:49:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zhejiang revises industrial and commercial time‑of‑use electricity tariffs】Zhejiang provincial Development and Reform Commission and Energy Bureau issued a notice implementing revised industrial and commercial time‑of‑use (TOU) tariffs effective July 1. Large industrial tariff customers must adopt TOU year‑round (excludes users covered by national special provisions such as electrified railway traction). General industrial and commercial tariff customers may opt into TOU; once selected the option is fixed for 12 months. TOU multipliers versus the flat/base rate are set at peak:high peak:flat:low valley:deep valley = 2.05:1.85:1:0.4:0.2."
-    },
-    {
-      "id": "4916583",
-      "time": "2026-06-04 12:49:06",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【訊息人士：印度即將出臺鋰、鎳冶煉扶持政策，配套資金約300億盧比】兩名知情人士透露，印度聯邦礦業部短期內將釋出配套扶持政策，扶持鋰與鎳深加工產業，專案總投入約300億盧比（摺合3.1348億美元）。知情人士因無權對外發聲要求匿名，印度礦業部暫未回覆路透社的問詢郵件。媒體1月曾披露，該項扶持政策覆蓋鋰、鎳兩類礦產。印度礦業部秘書4月表態，政府已篩選出兩種助力完善電動車產業鏈的關鍵礦產落地加工扶持政策，當時未披露具體礦種。鋰、鎳是印度電動車供應鏈（尤其動力電池環節）的關鍵原料。印度計劃到2030年，乘用車電動化滲透率由當前6%提升至30%，兩輪車電動滲透率由9%升至80%。媒體此前報道，申領補貼設有產能門檻：鋰冶煉專案最低產能3萬噸，鎳冶煉專案最低產能5萬噸。"
-    },
-    {
-      "id": "4916582",
-      "time": "2026-06-04 12:47:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cerebras表示正與除英偉達以外的所有人工智慧裝置製造商合作。"
-    },
-    {
-      "id": "4916581",
-      "time": "2026-06-04 12:47:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【100ml茅臺禮盒上漲20元 第三輪漲價開啟？】日前，記者登入i茅臺App查詢發現，53%vol100ml×6茅臺禮盒零售價上調至1819元/盒，較此前的1799元/盒上漲20元。有消費者向記者提供的近日下單截圖顯示，訂單標價為1799元/盒，側面印證該禮盒產品於近期完成提價。關於100ml裝茅臺禮盒上調售價，有市場人士預判貴州茅臺將開啟第三輪漲價。（上證報）"
-    },
-    {
-      "id": "4916580",
-      "time": "2026-06-04 12:46:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【臺積電CEO魏哲家：將全力照顧員工 有信心員工利潤分享2026年將再增長30%】鑑於韓國近期因薪資問題引發的勞資緊張局勢——上月，三星電子與工會達成協議以避免罷工——臺積電表示，公司將全力照顧員工。“我們的員工利潤分享從2023年到2024年增長了約30%，從2024年到2025年又增長了約30%，”臺積電CEO魏哲家表示。“我們有信心2026年將再增長30%。”“我們認為這為員工提供了豐厚的回報，”他表示，並補充道，員工利潤分享的年增長率沒有30%的上限，因為它將持續增長。"
-    },
-    {
-      "id": "mkt:019e90f3-d23c-7cc0-ba25-170c29b5aeb2",
-      "time": "2026-06-04 12:45:58",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【China to bar entry to certain New Zealand MPs】China's embassy in Wellington said on June 4 it will bar entry and impose other measures on a small group of New Zealand MPs who visited Taiwan despite repeated warnings, saying their meetings with local politicians violated the One China principle. The embassy said the MPs' actions, publicized in local media, amounted to interference in China's internal affairs and fall under relevant PRC laws. Beijing reiterated it opposes visits to Taiwan by foreign legislators and that similar cases will not be exempt from consequences."
     }
   ]
 }
