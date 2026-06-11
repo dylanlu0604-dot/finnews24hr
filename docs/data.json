@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-11 17:11:07",
-  "count": 18351,
+  "updated": "2026-06-11 17:15:08",
+  "count": 18336,
   "items": [
+    {
+      "id": "4930121",
+      "time": "2026-06-11 17:14:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌加元上漲0.3%至1.3981，創12月2日以來最高水平。"
+    },
+    {
+      "id": "4930119",
+      "time": "2026-06-11 17:13:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：預計無需取道霍爾木茲海峽，即可保障全部原油供應。"
+    },
+    {
+      "id": "mkt:019eb5f5-446c-7dd8-afb9-9fec2a783309",
+      "time": "2026-06-11 17:13:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's National Emergency Organization said five people were injured in nationwide attacks early today — three in Tehran and two in Hormozgan province — and all five were discharged after receiving medical treatment."
+    },
+    {
+      "id": "4930118",
+      "time": "2026-06-11 17:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部發言人：巴基斯坦和卡達仍在積極參與調解工作，我們對卡達在這方面的作用表示讚賞。美國與伊朗之間透過巴基斯坦的外交溝通渠道一直保持開放。"
+    },
+    {
+      "id": "mkt:019eb5f3-f833-7dd8-afb9-9794b894eba5",
+      "time": "2026-06-11 17:12:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Institution: Short-dated Treasuries less sensitive to CPI than to jobs】Baosheng Group fixed-income analyst Afonso Borges said in a note that Wednesday’s May US CPI prompted a modest, short-dated Treasury-led rally that was reasonable given the inflation print beat expectations and should lower the risk of Fed rate hikes later this year. He said the market reaction was markedly milder than the sharp moves after last Friday’s stronger-than-expected jobs report. Borges noted that on the 12 most recent inflation-report release days, the two-year Treasury yield’s average move was just 3 bps—very muted and less than half the average move on jobs-report days."
+    },
+    {
+      "id": "4930117",
+      "time": "2026-06-11 17:11:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【湖北省工業軟體製造業創新中心成立】第四屆軟體創新發展大會在武漢舉行。從現場瞭解到，湖北省工業軟體製造業創新中心同步揭牌成立，整合全省產學研用金各方資源，打造集技術攻關、標準研製、成果轉化、人才培育於一體的公共創新平臺。湖北省經信廳相關負責人指出，下一步湖北省將研究出臺“人工智慧+軟體”等系列行動方案，做強自主安全計算、工業軟體兩大特色叢集；聚焦自主可控，深化“首版次”軟體政策，探索“工業軟體券”應用。 (證券時報)"
+    },
+    {
+      "id": "mkt:019eb5f3-85b8-7dd8-afb9-8b7d9352a23f",
+      "time": "2026-06-11 17:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry spokesman said the diplomatic communication channel through Pakistan between the US and Iran has remained open."
+    },
+    {
+      "id": "mkt:019eb5f3-280f-7dd8-afb9-80f20585197b",
+      "time": "2026-06-11 17:11:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said Pakistan and Qatar remain actively engaged in mediation and expressed appreciation for Qatar's role."
+    },
+    {
+      "id": "4930115",
+      "time": "2026-06-11 17:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛藍新能源等在北京成立新公司】天眼查 App 顯示，近日，伏塔（北京）人工智慧科技有限公司成立，法定代表人為楊酉文，註冊資本100萬人民幣，經營範圍包括人工智慧行業應用系統整合服務、人工智慧公共資料平臺、人工智慧通用應用系統等。股東資訊顯示，該公司由楊酉文、北京伏塔科技合夥企業（有限合夥）、北京衛藍新能源科技股份有限公司共同持股。"
+    },
     {
       "id": "4930114",
       "time": "2026-06-11 17:10:04",
@@ -59,6 +135,14 @@
         "國際"
       ],
       "text": "據伊朗伊斯蘭共和國通訊社：埃及將舉行巴基斯坦、土耳其、埃及和沙烏地阿拉伯四方外長會議，希望當前的努力能促成各方儘早達成共識。"
+    },
+    {
+      "id": "4930108",
+      "time": "2026-06-11 17:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【韓建河山：簽訂4.4億元PCCP管件採購合同】韓建河山公告，公司此前中標“廣西左江治旱黑水河現代化灌區工程PCCP管材及管件採購Ⅱ標”，並於2026年6月11日與崇左市左江治旱工程管理中心正式簽訂PCCP管件採購合同，合同總金額4.4億元，約佔公司2025年度經審計營業收入的49.77%。合同供貨期為36個月，產品屬於公司日常經營業務範圍。"
     },
     {
       "id": "mkt:019eb5f1-529b-7dd8-afb9-761bc7ce2398",
@@ -168704,229 +168788,6 @@
         "Industrial Metals"
       ],
       "text": "India's foreign ministry said it discussed critical minerals and mining issues with Venezuela."
-    },
-    {
-      "id": "mkt:019e91ea-3c04-7668-960e-27c313168aa9",
-      "time": "2026-06-04 17:15:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "ASML.AS",
-        "Impact bullish"
-      ],
-      "text": "BOFA GLOBAL RESEARCH raised ASML Holding's price target to €1,921 from €1,710."
-    },
-    {
-      "id": "4917077",
-      "time": "2026-06-04 17:14:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德（BlackRock）對江西銅業股份的多頭持倉比例增至5.83%】據香港交易所披露，貝萊德（BlackRock）對江西銅業股份有限公司 - H股的多頭持倉比例於2026年5月29日從4.77%增至5.83%。"
-    },
-    {
-      "id": "4917076",
-      "time": "2026-06-04 17:14:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德（BlackRock）對中國人壽H股的多頭持倉比例增至6.08%】據香港交易所披露，貝萊德（BlackRock）對中國人壽保險股份有限公司 - H股的多頭持倉比例於2026年5月29日從5.98%增至6.08%。"
-    },
-    {
-      "id": "4917075",
-      "time": "2026-06-04 17:14:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德（BlackRock）對工商銀行H股的多頭持倉比例增至5.04%】據香港交易所披露，貝萊德（BlackRock）對中國工商銀行股份有限公司 - H股的多頭持倉比例於2026年5月29日從4.93%增至5.04%。"
-    },
-    {
-      "id": "4917074",
-      "time": "2026-06-04 17:14:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國外交部表示，泰國正努力鞏固自身在與柬埔寨海上爭端中的立場。"
-    },
-    {
-      "id": "4917073",
-      "time": "2026-06-04 17:14:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "美銀全球研究將荷蘭阿斯麥控股公司目標股價從1710歐元上調至1921歐元。"
-    },
-    {
-      "id": "4917072",
-      "time": "2026-06-04 17:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法總理要求以色列停止攻擊黎巴嫩】法國總理勒科爾尼6月3日在法國國民議會表示，以色列應停止在黎巴嫩境內的非法軍事行動，結束對黎巴嫩的非法佔領。他還表示，以色列攻擊黎巴嫩對伊美談判有直接影響，還會破壞本就脆弱的停火。（CCTV國際時訊）"
-    },
-    {
-      "id": "4917071",
-      "time": "2026-06-04 17:13:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大連大商電器有限公司成立，註冊資本1億】天眼查App顯示，近日，大連大商電器有限公司成立，法定代表人為於世傑，註冊資本1億人民幣，經營範圍包括家用電器銷售、家用電器安裝服務、非電力家用器具銷售等。股東資訊顯示，該公司由大商股份全資持股。"
-    },
-    {
-      "id": "te:economy:556494",
-      "time": "2026-06-04 17:13:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Iceland Current Account Deficit Narrows in Q1 — Iceland’s current account deficit narrowed sharply to ISK 32.1 billion in the first quarter of 2026 from ISK 70.2 billion in the corresponding period of the previous year. The services account surplus increased to ISK 29.3 billion from ISK 17.8 billion, while the goods account deficit narrowed to ISK 23.4 billion from ISK 84.4 billion in Q1 2025. On the other hand, the primary income balance deteriorated, shifting to a deficit of ISK 20.6 billion from a surplus of ISK 9.1 billion, and the secondary income deficit widened to ISK 17.3 billion from ISK 12.8 billion a year earlier."
-    },
-    {
-      "id": "4917070",
-      "time": "2026-06-04 17:12:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德（BlackRock）對中興通訊H股的多頭持倉比例增至8.38%】據香港交易所披露，貝萊德（BlackRock）對中興通訊股份有限公司 - H股的多頭持倉比例於2026年5月29日從7.99%增至8.38%。"
-    },
-    {
-      "id": "4917069",
-      "time": "2026-06-04 17:12:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.055元，收盤時基金份額參考淨值為1.9358元。若6月5日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金運作正常，無應披露未披露資訊，提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4917068",
-      "time": "2026-06-04 17:12:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貝萊德（BlackRock）對ASMPT的多頭持倉比例增至5.12%】據香港交易所披露，貝萊德（BlackRock）對ASMPT Ltd.的多頭持倉比例於2026年5月29日從4.92%增至5.12%。"
-    },
-    {
-      "id": "4917067",
-      "time": "2026-06-04 17:12:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF匯添富：基金二級市場交易價格溢價，提醒投資風險】納指ETF匯添富公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.403元，收盤時基金份額參考淨值為2.2721元。若6月5日溢價幅度未有效回落，基金有權採取臨時停牌等措施。投資者交易除份額淨值波動風險外，還受其他因素影響，可能面臨損失。目前基金運作正常，無應披露未披露資訊。"
-    },
-    {
-      "id": "4917066",
-      "time": "2026-06-04 17:12:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：二級市場交易價格溢價 提醒投資風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為1.6730元，收盤時基金份額參考淨值（IOPV）為1.5610元。若6月5日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。提醒投資者關注溢價風險，審慎決策，以免遭受重大損失。"
-    },
-    {
-      "id": "mkt:019e91e7-afe7-7668-960e-1960044da4a4",
-      "time": "2026-06-04 17:12:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry said Venezuela's acting president will not announce any major measures during this visit."
-    },
-    {
-      "id": "4917065",
-      "time": "2026-06-04 17:12:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月4日，收盤價為2.107元，收盤時基金份額參考淨值為1.9533元。若6月5日溢價幅度未有效回落，基金有權申請臨時停牌等措施。投資者交易除淨值波動風險外，還受多種因素影響。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4917064",
-      "time": "2026-06-04 17:12:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛對嗶哩嗶哩-W的多頭持倉比例降至4.99%】據香港交易所披露，高盛對嗶哩嗶哩股份有限公司 - W的多頭持倉比例於2026年6月2日從5.1%降至4.99%。"
-    },
-    {
-      "id": "4917063",
-      "time": "2026-06-04 17:12:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：二級市場價格溢價 6月5日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月4日收盤價為2.813元，收盤時基金份額參考淨值為2.3493元。為保護投資者利益，基金於6月5日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月5日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
-    },
-    {
-      "id": "4917062",
-      "time": "2026-06-04 17:11:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞銀集團（UBS）對泡泡瑪特的多頭持倉比例增至42.14%】據香港交易所披露，瑞銀集團（UBS）對泡泡瑪特國際集團有限公司的多頭持倉比例於2026年5月14日從41.84%增至42.14%。"
-    },
-    {
-      "id": "mkt:019e91e7-5a59-744c-88b6-d8de46bd1dcd",
-      "time": "2026-06-04 17:11:58",
-      "tags": [
-        "MKT News",
-        "QTEC"
-      ],
-      "text": "Invesco Nasdaq Technology ETF to suspend trading from market open on June 5, 2026; trading expected to resume at 10:30 on June 5, 2026. Redemption services will continue to operate during the suspension."
-    },
-    {
-      "id": "4917061",
-      "time": "2026-06-04 17:11:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）就 “諮詢業務受限” 相關指控啟動調查。"
-    },
-    {
-      "id": "mkt:019e91e7-3aa4-744c-88b6-d1107cdf16eb",
-      "time": "2026-06-04 17:11:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bearish",
-        "MU.O",
-        "AMD.O"
-      ],
-      "text": "U.S. semiconductor stocks extended premarket losses: Broadcom (AVGO.O) down more than 13%, Micron Technology (MU.O) down 6%, AMD (AMD.O) and Intel (INTC.O) each down 4%."
-    },
-    {
-      "id": "4917060",
-      "time": "2026-06-04 17:11:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通（JPMorgan）對小鵬集團-W的多頭持倉比例增至7.03%】據香港交易所披露，摩根大通（JPMorgan）對小鵬集團 - W的多頭持倉比例於2026年6月1日從6.96%增至7.03%。"
-    },
-    {
-      "id": "4917059",
-      "time": "2026-06-04 17:11:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：委內瑞拉代總統此次訪印不會公佈重大交易專案。"
-    },
-    {
-      "id": "4917058",
-      "time": "2026-06-04 17:11:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德（BlackRock）對洛陽鉬業H股的多頭持倉比例降至7.94%】據香港交易所披露，貝萊德（BlackRock）對洛陽欒川鉬業集團股份有限公司 - H股的多頭持倉比例於2026年5月29日從8.49%降至7.94%。"
     }
   ]
 }
