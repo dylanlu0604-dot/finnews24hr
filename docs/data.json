@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-11 21:24:13",
-  "count": 18511,
+  "updated": "2026-06-11 21:28:14",
+  "count": 18519,
   "items": [
+    {
+      "id": "mkt:019eb6dd-6a4f-7dd8-afc2-b9f967d2a646",
+      "time": "2026-06-11 21:27:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Chen Shiyi (CAS): CAE is the key foundation for physical AI entering industry】June 11, Wuhan — Chen Shiyi, academician of the Chinese Academy of Sciences, said at the Fourth Software Innovation Development Conference that physical AI’s core is understanding, predicting and acting in the real physical world rather than content generation. CAE (computer-aided engineering) supplies physical laws, simulation data, engineering constraints and closed-loop validation, and is the critical base for industrial deployment of physical AI. AI is remaking CAE from an expert tool into interactive, reasoning, executable industrial intelligent agents. Rapid AI+CAE integration could produce a China-native competitive advantage in industrial software and AI platforms."
+    },
+    {
+      "id": "4930751",
+      "time": "2026-06-11 21:26:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：今晚對伊朗的轟炸規模將更大 伊朗完了】美國總統特朗普接受福克斯新聞的採訪時表示，伊朗正在就達成協議與美國談判，並對此感到自豪。我希望現在就達成協議。不過，與三四周前相比，我現在沒那麼想與伊朗達成協議。我一直傾向於奪取哈爾克島，不確定美國是不是有這個胃口。我不太願意攻擊伊朗的橋樑和發電廠，那樣人們將無法飲用自來水，我不想那樣。今晚對伊朗會有更多轟炸，規模更大，威力更強。伊朗完了。"
+    },
+    {
+      "id": "4930750",
+      "time": "2026-06-11 21:26:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：5月城市軌道交通客運量環比減少0.5億人次，降低1.7%】6月11日，交通運輸部發布2026年5月城市軌道交通運營資料速報。2026年5月，31個省（自治區、直轄市）和新疆生產建設兵團共有54個城市開通運營城市軌道交通線路346條，運營里程11813.5公里，實際開行列車382萬列次，完成客運量29.4億人次，進站量17.5億人次。5月份，客運量環比減少0.5億人次，降低1.7%，同比增加0.7億人次，增長2.4%。5月份全國總運營里程的平均客運強度為0.804萬人次每公里日。"
+    },
+    {
+      "id": "mkt:019eb6dc-c2df-7dd8-afc2-b552ba18f107",
+      "time": "2026-06-11 21:26:21",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said inflation will return to target in autumn 2027."
+    },
+    {
+      "id": "mkt:019eb6dc-5845-7dd8-afc2-ae0f4cfec51c",
+      "time": "2026-06-11 21:25:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump says larger strikes on Iran tonight; calls Iran \"finished\"】In a Fox News interview, Trump said Iran is negotiating with the US but he is now less eager to strike a deal than several weeks ago. He said he favors seizing Kharg Island though he is unsure the US has the appetite, and he is reluctant to hit bridges or power plants because that would cut drinking water. He said there will be larger, more powerful strikes on Iran tonight and declared Iran \"finished\"."
+    },
+    {
+      "id": "mkt:019eb6db-f924-7dd8-afc2-a32aa9394d8b",
+      "time": "2026-06-11 21:25:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said today's decision was \"a good decision\"."
+    },
+    {
+      "id": "4930748",
+      "time": "2026-06-11 21:25:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：工人淨收入將為正，這將使得消費成為增長的驅動力。"
+    },
+    {
+      "id": "mkt:019eb6db-d47e-7dd8-afc2-9cf14c2e56e1",
+      "time": "2026-06-11 21:25:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Google in talks with Samsung to co-develop next-generation chip】The Information reports that amid current manufacturing capacity shortages, chipmakers are looking for foundries beyond TSMC. Google is considering assigning Samsung Electronics a key role in producing parts of its next-generation TPU, codenamed Icefish, and is in talks to use Samsung's 2nm process for some components. A deal would bolster Samsung's standing in advanced-node foundry manufacturing."
+    },
+    {
+      "id": "4930747",
+      "time": "2026-06-11 21:25:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特飛納斯航空宣佈，自7月4日起開通吉達到摩洛哥首都拉巴特的直飛航線。"
+    },
+    {
+      "id": "4930746",
+      "time": "2026-06-11 21:24:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：今天的決定是一個“好決定”。"
+    },
+    {
+      "id": "4930745",
+      "time": "2026-06-11 21:23:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三安光電：控股股東三安電子被申請破產重整】三安光電公告，公司控股股東三安電子被債權人林素真申請破產重整。三安電子持有公司11.3億股，佔總股本22.65%，其中6.25億股被質押，股份被多次輪候凍結。公司目前生產經營管理正常，該事項不會對公司經營產生重大不利影響，但若三安電子進入破產重整程式，可能對公司股權結構及控制權產生影響。"
+    },
+    {
+      "id": "4930744",
+      "time": "2026-06-11 21:23:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂動機器人：與佑駕創新簽署戰略合作協議】樂動機器人公告，公司近期與深圳佑駕創新科技股份有限公司正式簽署戰略合作協議。雙方旨在充分發揮各自在機器人和自動駕駛領域的技術優勢與市場資源，以物理AI技術共創、全場景落地、產業生態賦能為核心，依託本集團圍繞「感知入口+資料基石」形成的物理AI基礎設施能力、具身機器人整機研發能力及全球機器人生態資源，並結合佑駕創新基於資料飛輪的端到端大模型技術和多模態智慧互動技術，聯合研發跨場景的物理AI解決方案，共同拓寬移動機器人場景邊界，力爭成為全球物理AI產業標杆。"
+    },
     {
       "id": "mkt:019eb6da-223c-7dd8-afc2-93a9b07177da",
       "time": "2026-06-11 21:23:29",
@@ -170531,42 +170645,6 @@
         "市場"
       ],
       "text": "【禮來美股盤前漲超2%】禮來美股盤前漲超2%，現報1101.0美元。"
-    },
-    {
-      "id": "4917617",
-      "time": "2026-06-04 21:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "捷克總理表示，在任何與俄羅斯就烏克蘭問題舉行的談判中，都應由德國總理代表歐盟。"
-    },
-    {
-      "id": "mkt:019e92d0-023d-7eec-b8aa-94c4203c22ce",
-      "time": "2026-06-04 21:26:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Czech prime minister said German Chancellor Merz should represent the EU in any talks with Russia on Ukraine, Czech News Agency reports."
-    },
-    {
-      "id": "mkt:019e92cf-9d8c-7eec-b8aa-8fa0cc03da8c",
-      "time": "2026-06-04 21:25:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【Monex: Pound may fall if Bank of England holds and UK political risk rises】Monex Europe analysts said if the Bank of England does not raise rates and UK political risk increases, sterling could weaken in the coming months. They said recent weak UK data does not support market expectations of a rate hike this year, and they still view a hike before 2027 as unlikely while a cut by year-end remains possible. Monex added that Andy Burnham winning the June 18 by-election and re-entering Parliament could threaten Prime Minister Starmer’s leadership. Monex forecasts GBP/USD to fall from 1.3455 to 1.32 and GBP/EUR from 1.1559 to 1.11 by this autumn."
-    },
-    {
-      "id": "4917616",
-      "time": "2026-06-04 21:24:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告：博通第三財季展望未能滿足投資者的高預期】D.A. Davidson在一份報告中表示，對博通第二財季業績的高預期很難達到。分析師Gil Luria表示，該晶片製造商的第三財季展望高於華爾街的平均預期，但仍未能令人滿意。他說，更樂觀的預測者已經預期AI收入將加速增長。第三財季展望中未達到平均預期的一個領域是AI半導體收入，該收入比預期低約4億美元。Luria認為，這一展望代表了一種保守的立場，更多是發貨時機和管理預期的結果。博通盤前大跌超13%。"
     }
   ]
 }
