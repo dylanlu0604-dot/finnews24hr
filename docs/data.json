@@ -1,7 +1,301 @@
 {
-  "updated": "2026-06-11 20:55:08",
-  "count": 18460,
+  "updated": "2026-06-11 20:59:11",
+  "count": 18484,
   "items": [
+    {
+      "id": "4930696",
+      "time": "2026-06-11 20:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚會有更多轟炸。"
+    },
+    {
+      "id": "4930695",
+      "time": "2026-06-11 20:57:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普說他會記住庫爾德人。"
+    },
+    {
+      "id": "te:economy:558397",
+      "time": "2026-06-11 20:57:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Little Changed — The yield on the US 10-year Treasury note was little changed at 4.55% on Thursday, remaining close to a three-week high, as investors weighed escalating tensions in the Middle East and the latest PPI report. In a further escalation of the conflict, President Trump vowed additional strikes on Iran and threatened to target the country's energy infrastructure, including the key oil export terminal on Kharg Island. Meanwhile, the latest PPI report showed headline producer inflation rising more than expected, although core measures came in below forecasts, echoing the softer-than-anticipated core CPI data released a day earlier. While the energy shock stemming from the conflict with Iran is increasing inflationary pressures, its broader pass-through to underlying price measures has yet to fully materialize. The data did little to alter expectations for Fed policy. Investors continue to anticipate one rate hike this year, possibly in October."
+    },
+    {
+      "id": "4930694",
+      "time": "2026-06-11 20:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "蓋蒂圖片社與美國足協續簽多年攝影合作協議。"
+    },
+    {
+      "id": "4930693",
+      "time": "2026-06-11 20:57:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：部分潛在通脹指標受能源衝擊推動走高。"
+    },
+    {
+      "id": "mkt:019eb6c2-67bf-7dd8-afc1-65c66f54304b",
+      "time": "2026-06-11 20:57:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ECB President Lagarde said some underlying inflation indicators have risen due to an energy shock."
+    },
+    {
+      "id": "mkt:019eb6c2-5c31-7dd8-afc1-5f647b429345",
+      "time": "2026-06-11 20:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【JD Health, Harbin Pharmaceutical Group sign strategic cooperation】June 11 — JD Health and Harbin Pharmaceutical Group signed a strategic cooperation agreement in China to collaborate on new-drug first launches, AI-driven precision recommendations, patient education and whole-course disease management. They will jointly promote a scientific nutrition approach of morning zinc and evening calcium and pursue a systematic upgrade from pediatric vitamin-mineral products to all-age bone-nutrition supplementation and therapeutic products."
+    },
+    {
+      "id": "4930692",
+      "time": "2026-06-11 20:57:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：多數長期通脹預期指標均處於2%左右水平。"
+    },
+    {
+      "id": "4930691",
+      "time": "2026-06-11 20:57:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：一些潛在通脹指標因能源衝擊而上升。企業仍然預計將提高銷售價格。"
+    },
+    {
+      "id": "mkt:019eb6c2-312e-7dd8-afc1-5118ee18d6be",
+      "time": "2026-06-11 20:57:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany's unadjusted current account recorded a €13.8 billion surplus in April, the smallest surplus since August 2025."
+    },
+    {
+      "id": "4930690",
+      "time": "2026-06-11 20:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉加德：伊朗戰爭正拖累歐元經濟。"
+    },
+    {
+      "id": "mkt:019eb6c2-0117-7dd8-afc1-48c80410498c",
+      "time": "2026-06-11 20:57:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said wage-tracker indicators continue to show labour costs will moderate in 2026."
+    },
+    {
+      "id": "mkt:019eb6c1-fd2f-7dd8-afc1-46fbcfc9daec",
+      "time": "2026-06-11 20:57:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said firms still expect to raise sales prices."
+    },
+    {
+      "id": "mkt:019eb6c1-fc00-7dd8-afc1-39def197bcd0",
+      "time": "2026-06-11 20:57:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Germany April not seasonally adjusted current account: EUR 13.8 bln; prior revised from EUR 23.6 bln to EUR 24.5 bln."
+    },
+    {
+      "id": "4930689",
+      "time": "2026-06-11 20:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東健康與哈藥達成戰略合作】據“京東健康黑板報”，6月11日，京東健康與哈藥集團正式簽署戰略合作協議。雙方將圍繞新藥首發、AI精準推薦、患者科普教育與全病程管理等方向深化合作，共同打造早鋅晚鈣科學營養新生態。此次合作雙方還將共同推動“鈣鋅分補”等科學營養理念落地，並實現從兒童維礦到全年齡段骨營養補充及治療產品的系統化升級。"
+    },
+    {
+      "id": "4930688",
+      "time": "2026-06-11 20:57:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國4月未季調經常帳 138億歐元，前值由236億歐元修正為245億歐元。"
+    },
+    {
+      "id": "4930687",
+      "time": "2026-06-11 20:56:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：財政可持續性是經濟的重要支柱。工資增長預計將在一年內放緩。薪資追蹤指標繼續顯示2026年勞動力成本將有所緩和。"
+    },
+    {
+      "id": "mkt:019eb6c1-cfbc-7dd8-afc1-31f9b0c20b13",
+      "time": "2026-06-11 20:56:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Current Account USA (Apr) | actual 13800000000B | previous 23600000000B"
+    },
+    {
+      "id": "4930686",
+      "time": "2026-06-11 20:56:42",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【貴州茅臺：選舉陳華為董事長並聘任多名高管】貴州茅臺(600519.SH)公告稱，公司第五屆董事會2026年度第一次會議選舉陳華為董事長，並聘任王莉代行總經理職責，塗華彬、向平、鍾正強、張旭為副總經理，餘思明為財務總監、董事會秘書。會議還審議透過了回購登出股份辦理工商登記等事項。"
+    },
+    {
+      "id": "mkt:019eb6c1-9e95-7dd8-afc1-2f20b1a4ab52",
+      "time": "2026-06-11 20:56:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said wage growth is expected to slow within a year."
+    },
+    {
+      "id": "mkt:019eb6c1-7b40-7dd8-afc1-27e908624388",
+      "time": "2026-06-11 20:56:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "In a Fox News interview, US President Trump said he would prefer not to strike bridges or power plants, saying such attacks would cut off people’s access to drinking water and he did not want to do that."
+    },
+    {
+      "id": "4930685",
+      "time": "2026-06-11 20:56:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：（那樣做的話）民眾將連水都喝不上，我不打算這麼做。"
+    },
+    {
+      "id": "4930684",
+      "time": "2026-06-11 20:55:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我更不願襲擊橋樑與發電廠。"
+    },
+    {
+      "id": "te:markets:558395",
+      "time": "2026-06-11 20:55:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Trims Gains as US Producer Inflation Surges — Silver retreated to $63 per ounce on Thursday, its lowest level since December 2025, as investors digested new US producer price data, the European Central Bank’s interest rate increase, and worsening Middle East tensions. US producer prices climbed 6.5% year-over-year in May, the sharpest rise since November 2022 and exceeding expectations of 6.4%, reflecting the deepening impact of the Strait of Hormuz closure on energy costs. With consumer inflation also at a three-year peak, the latest data reinforces expectations that the Federal Reserve may raise interest rates in 2026. At the same time, the ECB implemented its first rate hike since 2023 and raised its inflation projections for 2026 and 2027. Geopolitical concerns deepened as US President Trump pledged additional strikes against Iran and threatened to seize control of its critical energy infrastructure, including Kharg Island."
+    },
+    {
+      "id": "4930683",
+      "time": "2026-06-11 20:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：現在更希望達成協議。"
+    },
+    {
+      "id": "mkt:019eb6c0-5fc2-7dd8-afc1-1ea22ad4e55f",
+      "time": "2026-06-11 20:55:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said fiscal sustainability is an important pillar of the economy."
+    },
+    {
+      "id": "4930682",
+      "time": "2026-06-11 20:55:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "肯亞財政部長：預計2026/27財年預算赤字佔GDP的比例為5.5%。"
+    },
+    {
+      "id": "mkt:019eb6c0-3ef7-7dd8-afc1-17bb5d0ad951",
+      "time": "2026-06-11 20:55:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Republican Senator Graham said Iran is not a reliable negotiating partner."
+    },
+    {
+      "id": "mkt:019eb6c0-331f-7dd8-afc1-0833e367e4e7",
+      "time": "2026-06-11 20:55:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Capital.com analyst: ECB statement underscores policy dilemma】Capital.com analyst Daniela Hathorn said the ECB delivered a widely expected 25 bps rate hike but its policy statement highlighted a tension between persistently high inflation and slowing growth. The bank raised inflation forecasts while cutting GDP growth projections for this year and next. Hathorn said inflation remains too high to ignore, yet growth is too weak, leaving the ECB to balance the risks of acting too late against being overly aggressive."
+    },
+    {
+      "id": "mkt:019eb6c0-1230-7dd8-afc1-0637a4b79d1a",
+      "time": "2026-06-11 20:55:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump on Iran said he hopes to reach an agreement now."
+    },
     {
       "id": "mkt:019eb6bf-d392-7dd8-afc0-fb40d4172ea8",
       "time": "2026-06-11 20:54:45",
@@ -9,6 +303,14 @@
         "MKT News"
       ],
       "text": "U.S. Republican Senator Lindsey Graham said that, if no agreement is reached, Trump would be right to consider seizing Kharg Island."
+    },
+    {
+      "id": "4930681",
+      "time": "2026-06-11 20:54:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "共和黨參議員格雷厄姆：特朗普考慮在不達成協議的情況下佔領哈爾克島是正確的。伊朗不是談判中可靠的夥伴。"
     },
     {
       "id": "4930680",
@@ -169977,76 +170279,6 @@
         "Economic Calendar"
       ],
       "text": "Russia | International Reserves (May.29) | actual 748700000000B | previous 753800000000B"
-    },
-    {
-      "id": "4917576",
-      "time": "2026-06-04 20:57:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【劍橋科技：完成配售1560萬股新H股 所得淨額約19.67億港元】劍橋科技公告稱，2026年6月4日，公司完成新增發行境外上市股份（H股），按每股126.66港元，向不少於六名承配人配發及發行1560萬股新H股，佔擴大後已發行H股總數約16.84%。配售所得款項總額約1.98億港元，淨額約1.97億港元，將80%用於核心元器件儲備，10%補充營運資金，10%用於一般企業用途。發行後，公司已發行股份總數由3.53億股增至3.68億股，控股股東及其一致行動人持股比例由10.34%被動稀釋至9.90%。"
-    },
-    {
-      "id": "4917575",
-      "time": "2026-06-04 20:57:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伊戈爾：多名董事、高管減持計劃期限屆滿 共減持34.94萬股】伊戈爾公告稱，趙楠楠、柳景元等5名董事、高階管理人員減持計劃期限已屆滿。此次減持方式均為集中競價，合計減持349,400股，佔剔除回購專用賬戶中股份後總股本的比例為0.0833%，減持來源為股權激勵獲授股份。本次減持計劃的實施符合相關法律法規，且不會導致公司控制權發生變化，不會對公司治理結構、股權結構及持續經營產生重大影響。"
-    },
-    {
-      "id": "4917574",
-      "time": "2026-06-04 20:56:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，空中客車公司5月交付了81架飛機。"
-    },
-    {
-      "id": "mkt:019e92b4-efbc-7eec-b8aa-07b4d105cbe8",
-      "time": "2026-06-04 20:56:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【World Gold Council: Fed hikes could unexpectedly support gold】In a June 4 Gold Market Talk, the World Gold Council said rising inf pressure may force the Fed to hike, and that when hikes occur they can counterintuitively be supportive for gold. Historical data show gold rose in more than half of rate-hike episodes. The Council said the dollar’s influence on gold prices appears to outweigh rates; mid-cycle growth and yield convergence plus a trend toward diversification away from US assets have set the stage for potential dollar weakness. Structural demand from major consumers China and India and ongoing central bank buying — which are less sensitive to US rates — could provide further support for gold."
-    },
-    {
-      "id": "4917573",
-      "time": "2026-06-04 20:56:28",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【世界黃金協會：美聯儲加息可能意外利好黃金】世界黃金協會在6月4日釋出的黃金市場評論報告中寫道，展望未來，隨著通脹壓力上升，美聯儲可能需要加息。我們認為，當加息發生時，它可能會反直覺地有利於黃金。歷史資料表明：在超過50%的情況下，黃金在加息後表現積極。美元對黃金走勢的重要性似乎超過了利率。中期增長和收益率趨同，以及從美國資產分散投資的趨勢，已經為未來美元走弱鋪平了道路。其他因素也對黃金起到支撐作用：黃金消費大國中國、印度以及全球央行購金需求在結構性上對美國利率的敏感度較低，未來可能為黃金提供支撐。"
-    },
-    {
-      "id": "mkt:019e92b4-d5f5-7eec-b8a9-fb2fefe4188b",
-      "time": "2026-06-04 20:56:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "THYAO.IS",
-        "Impact bullish"
-      ],
-      "text": "Turkish Airlines has received foreign direct investment approval and can proceed with acquiring equity in Air Europa."
-    },
-    {
-      "id": "4917572",
-      "time": "2026-06-04 20:55:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其航空：西班牙政府已批准對收購歐羅巴航空交易的外國直接投資許可。交易預計將於2026年完成最終敲定。"
     }
   ]
 }
