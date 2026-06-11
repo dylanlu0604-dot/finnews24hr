@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-12 06:35:52",
-  "count": 18430,
+  "updated": "2026-06-12 06:39:33",
+  "count": 18428,
   "items": [
+    {
+      "id": "4931300",
+      "time": "2026-06-12 06:36:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構間REITs持續上新】近日，全國首單儲能機構間REIT“財通資管-阿特斯持有型不動產資產支援專項計劃（碳中和）”在上海證券交易所舉行掛牌儀式。除此之外，近期還有不少機構間REITs迎來新進展。有業內人士指出，機構間REITs已由創新試點進入加速擴容階段，資產型別、發行主體和投資人結構持續豐富，二級成交活躍度結構性改善。預計2026年機構間REITs累計發行規模有望突破千億，與公募REITs共同支撐起多層次REITs市場發行規模。隨著同類專案增多，投資框架可由個案判斷轉向同類比較，建議關注高勝率、高賠率及高效率三類專案。（中證報）"
+    },
     {
       "id": "te:markets:558475",
       "time": "2026-06-12 06:35:11",
@@ -169963,32 +169971,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Drops by 3.54% — Top commodity losers are Cocoa (-3.54%) and Cotton (-2.52%). Gains are led by Wool (1.55%) and Lumber (1.51%)."
-    },
-    {
-      "id": "mkt:019e94ca-3c56-7cc8-bdef-220c1d2a892c",
-      "time": "2026-06-05 06:39:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Pakistan plans 45-day strategic oil reserve; in talks with Saudi, Kuwait, Qatar, UAE, China】Nikkei Asia reported Pakistan plans an initial strategic petroleum reserve covering about 45 days of demand, with scope to scale to 90 days. The energy ministry envisages a multi-tier system of state emergency stocks, mandated industry reserves and customs-bonded commercial storage. Bonded terminals would let importers store fuel under customs control without immediate duty payment and make those stocks available domestically in an emergency. Islamabad is negotiating with Saudi Arabia, Kuwait, Qatar, the UAE and China to establish bonded terminals on Pakistani soil; Gwadar port is cited as a potential site."
-    },
-    {
-      "id": "4918220",
-      "time": "2026-06-05 06:36:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星鏈V3衛星的頻寬是V2衛星的10倍以上，且發射數量也將超過10倍，這意味著整體頻寬將提升100倍以上。星鏈V3衛星的執行高度將從550公里降至350公里，因此最低延遲可縮短一半。從物理層面來看，往返傳輸的最低延遲將降至5毫秒以下。"
-    },
-    {
-      "id": "mkt:019e94c7-81bc-7cc8-bdef-1c1e58556457",
-      "time": "2026-06-05 06:36:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said Starlink V3 satellites will operate at 350 km rather than 550 km, which can halve minimum latency. At the physical layer, round‑trip minimum latency will fall below 5 ms."
     }
   ]
 }
