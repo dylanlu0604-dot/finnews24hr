@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-11 23:18:36",
-  "count": 18504,
+  "updated": "2026-06-11 23:22:39",
+  "count": 18481,
   "items": [
+    {
+      "id": "4930922",
+      "time": "2026-06-11 23:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府就 H-1B 簽證 10 萬美元收費相關裁決提起上訴。"
+    },
+    {
+      "id": "4930921",
+      "time": "2026-06-11 23:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千里科技：控股子公司千里智駕擬2590.8萬元收購融感科技100%股權】千里科技(601777)6月11日公告，控股子公司千里智駕擬收購寧波市融感科技有限公司（簡稱“融感科技”）100%股權，交易價格為2590.8萬元。融感科技成立於2023年6月，總部位於浙江省寧波市，是一家視覺與毫米波融合雷達技術研發和製造企業。"
+    },
     {
       "id": "mkt:019eb742-f2f1-7dd8-afc5-5cc1e2101596",
       "time": "2026-06-11 23:17:58",
@@ -170323,224 +170339,6 @@
         "公司"
       ],
       "text": "瑞銀執行長：對這瑞士的人口相關提案心存擔憂。"
-    },
-    {
-      "id": "4917807",
-      "time": "2026-06-04 23:22:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：針對外資刻意針對美國企業的行為，“我們絕不允許此類情況發生。”"
-    },
-    {
-      "id": "4917806",
-      "time": "2026-06-04 23:22:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德法英醞釀推動俄烏展開直接談判】據稱，德國、法國和英國正在商討推動烏克蘭與俄羅斯展開談判，尋求結束衝突的可能性。知情人士稱，德法英近期一直在討論舉行俄烏直接談判的可能性。三國認為，隨著美國主導的外交斡旋陷入停滯，以及俄烏戰場形勢出現一些新的變化，當前或許正在形成推動談判的契機。一位不願透露姓名的德國政府官員3日在吹風會上表示，俄羅斯與歐洲之間圍繞烏克蘭問題開展對話的視窗正在緩慢開啟，但離談判真正啟動仍可能需要數月時間，且需要確保在烏克蘭的完全同意下進行。這名德國政府官員還指出，目前尚不清楚未來相關談判將由誰主導，但有強烈跡象表明，由德國、法國和英國組成的“E3”機制將在這一程序中發揮重要作用。（央視新聞）"
-    },
-    {
-      "id": "4917805",
-      "time": "2026-06-04 23:22:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀執行長：瑞士人口上限政策並非解決之道。"
-    },
-    {
-      "id": "4917804",
-      "time": "2026-06-04 23:21:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯動科技：加速推進全品類客戶匯入與批次投產】6月4日，聯動科技舉辦投資者交流活動，吸引了數十家機構參與。作為半導體後道測試裝置領軍企業，聯動科技大額研發投入已逐步兌現為商業化產品。公司與國內頭部AI晶片企業天數智芯簽署戰略合作協議，加速推進全品類客戶匯入與批次投產。同時，持續深化在SiC/GaN功率器件測試領域的技術優勢，重點拓展電動汽車、新能源等工業應用場景。受益於人工智慧、汽車電子等下游需求提振，半導體測試裝置行業呈現逐步復甦態勢。聯動科技將繼續聚焦AI算力晶片測試與第三代半導體測試兩大核心賽道，加大研發投入，推進技術迭代。（證券時報）"
-    },
-    {
-      "id": "4917803",
-      "time": "2026-06-04 23:21:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆致信致謝洛佩斯，感謝其在主權相關事務上予以支援。"
-    },
-    {
-      "id": "4917802",
-      "time": "2026-06-04 23:21:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫：對美而言，不僅要展開對話，更要落實已達成的共識。"
-    },
-    {
-      "id": "mkt:019e9339-8319-777a-b6d9-db98d194e12b",
-      "time": "2026-06-04 23:21:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LAVROV said relations with the US require not only dialogue but also implementation of agreements reached, saying implementation is very important."
-    },
-    {
-      "id": "4917801",
-      "time": "2026-06-04 23:21:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美方正就數字服務稅事宜向加拿大、歐洲方面施壓。"
-    },
-    {
-      "id": "mkt:019e9339-32b1-777a-b6d9-d4f6b51bccd2",
-      "time": "2026-06-04 23:20:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said the US is pressing Canada and Europe to impose a digital services tax."
-    },
-    {
-      "id": "mkt:019e9339-0b92-711f-983f-5c6cc413f818",
-      "time": "2026-06-04 23:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's foreign minister Lavrov said U.S. Secretary of State Rubio's pro-Ukraine remarks in Congress indicate \"Biden's war has become Trump's war.\""
-    },
-    {
-      "id": "4917800",
-      "time": "2026-06-04 23:20:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋為解航運困局佈局新輸油管道】今年2月底美以伊戰事發生後，霍爾木茲海峽航運受阻。為運出原油，中東多個國家紛紛尋找替代路線。阿聯酋阿布扎比國家石油公司副總裁菲利普·庫裡日前在英國倫敦出席活動時表示，該公司正考慮新建一條多用途成品油運輸管道，以應對霍爾木茲海峽的風險。（CCTV國際時訊）"
-    },
-    {
-      "id": "4917799",
-      "time": "2026-06-04 23:20:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廣東：要大力推動批零住餐業實現量質齊升 加快培育金融業成為強大的支柱性產業】據南方日報，6月4日，廣東省服務業大會在廣州召開。會議強調，要在統籌推進中把握好突出重點、分層分類、分門別類，儘快出臺一系列“一業一策”政策措施，深入具體推動服務業各細分行業規模不斷增長、結構不斷最佳化、能級不斷提升。要大力推動批零住餐業實現量質齊升，加快培育金融業成為強大的支柱性產業，搶抓歷史機遇推動資訊傳輸、軟體和資訊科技服務業跨越式發展，全力促進房地產業平穩健康發展，積極推動租賃和商務服務業更好為發展賦能，大力發展交通運輸、倉儲和郵政業，在結構最佳化中推進科技服務業高質量發展，順應群眾和市場需求加快文化、體育和娛樂業發展，積極發展居民服務、修理和其他服務業。"
-    },
-    {
-      "id": "mkt:019e9338-52c4-777a-b6d9-c304d9415e39",
-      "time": "2026-06-04 23:20:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's presidential special representative Dmitriev said Russia will continue bilateral cooperation with the United States in energy and economic sectors."
-    },
-    {
-      "id": "mkt:019e9338-4f7a-711f-983f-50587b918984",
-      "time": "2026-06-04 23:19:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian presidential special envoy Dmitriev said not all Russia-U.S. contacts are related to Ukraine."
-    },
-    {
-      "id": "4917798",
-      "time": "2026-06-04 23:19:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫：魯比奧在國會支援烏克蘭的言論表明，“拜登的戰爭”已經變成了“特朗普的戰爭”。"
-    },
-    {
-      "id": "mkt:019e9338-0af5-777a-b6d9-b215d416e21d",
-      "time": "2026-06-04 23:19:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Guangdong to accelerate finance as pillar, back property and software sector growth】Guangdong held a service-industry conference in Guangzhou on June 4 and said it will quickly roll out a series of one‑industry‑one‑policy measures to expand scale, optimise structure and raise capability across services. Priority actions include boosting wholesale, retail, accommodation and catering to lift scale and quality; accelerating cultivation of the financial sector into a major pillar industry; seizing a historic opportunity to drive leapfrog growth in information transmission, software and IT services; and promoting stable, healthy development of the real‑estate sector. The province also aims to strengthen leasing and business services, develop transport, warehousing and postal logistics, advance high‑quality technology services amid structural optimisation, and speed up growth in culture, sports, entertainment and household/repair services to meet market demand."
-    },
-    {
-      "id": "mkt:019e9338-0a18-777a-b6d9-afb9861e0568",
-      "time": "2026-06-04 23:19:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's presidential special envoy Dmitriev said three-way diplomatic talks with Ukraine are possible \"at the right time\"."
-    },
-    {
-      "id": "4917797",
-      "time": "2026-06-04 23:19:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "土耳其黃金礦業公司：生產及農業收入企業稅率設定為12.5%。"
-    },
-    {
-      "id": "te:economy:556558",
-      "time": "2026-06-04 23:19:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Moldova",
-        "Unemployment Rate",
-        "Importance 0"
-      ],
-      "text": "Moldova’s Unemployment Rate at 10.4% in Q1 2026 — Moldova’s unemployment rate stood at 10.4% in Q1 2026, according to data from the National Bureau of Statistics. The latest figure is not directly comparable with previous data, as the Labour Force Survey (LFS) instruments were revised in 2026 to align with EU standards, ensuring comparability with European-level results. The number of unemployed people reached 93,600, while employment levels totaled 811,100. The labor force participation rate was 47.5%, and the employment rate stood at 42.6%."
-    },
-    {
-      "id": "mkt:019e9337-b361-777a-b6d9-a1e86c341892",
-      "time": "2026-06-04 23:19:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russia's presidential special representative Dmitriyev said the US has extended sanctions waivers on Russian oil three times, which he said indicates Washington recognizes such exemptions help stabilize energy markets."
-    },
-    {
-      "id": "4917796",
-      "time": "2026-06-04 23:19:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統特別代表：俄美接觸並非所有議題都與烏克蘭相關。"
-    },
-    {
-      "id": "4917795",
-      "time": "2026-06-04 23:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統特別代表：時機成熟時，方可就外交渠道與烏克蘭舉行三方討論。"
-    },
-    {
-      "id": "mkt:019e9337-5bf8-711f-983f-44eb36aa08ae",
-      "time": "2026-06-04 23:18:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's presidential special representative Dmitriev said Russia-U.S. talks have not been suspended and that on June 3 he spoke with Kushner and U.S. presidential envoy Witkoff."
-    },
-    {
-      "id": "4917794",
-      "time": "2026-06-04 23:18:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統特別代表：美國三次延長對俄石油制裁豁免，表明美方明白此類豁免有利於能源市場穩定。"
-    },
-    {
-      "id": "mkt:019e9337-2e23-777a-b6d9-92b6ca44cc40",
-      "time": "2026-06-04 23:18:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Goldman Sachs: forecasts SpaceX AI unit revenue to surge 100-fold in five years】Goldman Sachs told the Financial Times it models a core assumption behind SpaceX’s roughly $1.78 trillion IPO valuation: xAI revenue rising from $3.2 bln in 2025 to $322 bln by 2030 (~100x), while total SpaceX revenue would climb from $18.7 bln to $474 bln over the same period. The prospectus shows xAI posted a $6.4 bln loss in 2025. Goldman projects xAI revenue will rise 388% YoY to $15.6 bln in 2026 and reach $34.5 bln in 2027; Starlink and rocket business revenue are forecast at $144 bln and $8.3 bln by 2030."
     }
   ]
 }
