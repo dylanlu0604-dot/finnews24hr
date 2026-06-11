@@ -1,7 +1,295 @@
 {
-  "updated": "2026-06-11 20:30:51",
-  "count": 18407,
+  "updated": "2026-06-11 20:35:00",
+  "count": 18419,
   "items": [
+    {
+      "id": "4930629",
+      "time": "2026-06-11 20:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗錫裡克附近傳出爆炸聲，官方尚未發表評論。"
+    },
+    {
+      "id": "4930628",
+      "time": "2026-06-11 20:34:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5月生產者價格指數資料公佈後，美國國債漲幅收窄。"
+    },
+    {
+      "id": "4930627",
+      "time": "2026-06-11 20:33:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期與10年期美國國債之間的收益率曲線最新為正39個基點。"
+    },
+    {
+      "id": "4930626",
+      "time": "2026-06-11 20:33:36",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "土耳其財政部：透過黃金支援債券借入1.98噸黃金，透過黃金支援伊斯蘭 Sukuk 發行融入價值8.79噸黃金的資金。"
+    },
+    {
+      "id": "4930625",
+      "time": "2026-06-11 20:33:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率資料公佈後小幅攀升，最新持平於4.538%。"
+    },
+    {
+      "id": "4930624",
+      "time": "2026-06-11 20:33:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率最新上漲1.9個基點，報4.146%。"
+    },
+    {
+      "id": "mkt:019eb6ab-e82d-7dd8-afc0-068d95e4197e",
+      "time": "2026-06-11 20:32:59",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Refinitiv survey: average US 30-year mortgage rate expected at 6.3% in 2026, 6.2% in 2027 and 6.0% in 2028 (Q1 survey: 6.0%, 6.0%, 5.8%)."
+    },
+    {
+      "id": "4930623",
+      "time": "2026-06-11 20:32:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查：2026年美國30年期抵押貸款利率平均為6.3%，2027年為6.2%，2028年為6.0%（一季度調查預期分別為6.0%、6.0%和5.8%）；2026年美國平均房價預計上漲1.2%，2027年預計上漲2.0%（第一季度調查時的預期分別為上漲1.8%和2.5%）。"
+    },
+    {
+      "id": "mkt:019eb6ab-9073-7dd8-afbf-fec063498d1a",
+      "time": "2026-06-11 20:32:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【OPEC data show Iran's crude output fell 19% last month】OPEC's latest data show Iran's crude output fell 19% last month, due to a US blockade of its ports amid ongoing conflict. Thursday's monthly report said output dropped 546,000 barrels per day to 2.33 mln bpd."
+    },
+    {
+      "id": "4930622",
+      "time": "2026-06-11 20:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天地源：擬出售部分房地產開發業務相關資產及負債】天地源公告，公司正在籌劃出售部分房地產開發業務相關資產及負債，交易意向方為公司實際控制人西安高科集團有限公司或其指定的關聯方。本次交易尚處於籌劃階段，具體方案未定，預計構成關聯交易，且是否構成重大資產重組尚無法確定。交易旨在降低公司資產負債率，最佳化資產結構。"
+    },
+    {
+      "id": "mkt:019eb6ab-75ae-7dd8-afbf-f749b2aeba66",
+      "time": "2026-06-11 20:32:30",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: ECB raises inflation forecasts, trims growth; projections show severe outlook】Analyst Migliaccio says the ECB’s latest projections raise inflation forecasts for 2026-27 as higher energy prices are expected to feed through to food, goods and services. Growth forecasts were cut as the war’s impact on commodity prices, real incomes and consumer confidence weighs, producing a severe outlook. Higher inflation bolsters the ECB’s case for further rate hikes to fulfil its price-stability mandate, but weaker growth could prompt some member states to complain of excessive tightening."
+    },
+    {
+      "id": "4930621",
+      "time": "2026-06-11 20:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "EIGHTCO HOLDINGS報告稱，其總持倉價值約為4.06億美元，持倉包括OpenAI、Beast Industries、超過16,000枚以太幣（ETH）以及逾2.83億枚WLD代幣。"
+    },
+    {
+      "id": "4930620",
+      "time": "2026-06-11 20:32:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "現貨黃金在美國經濟資料公佈後變動不大，最新下跌0.1%，報每盎司4071.92美元。"
+    },
+    {
+      "id": "mkt:019eb6ab-24f0-7dd8-afbf-eeed1ba08a11",
+      "time": "2026-06-11 20:32:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv survey: US average house prices projected to rise 1.2% in 2026 and 2.0% in 2027, down from the Q1 survey forecasts of 1.8% and 2.5%."
+    },
+    {
+      "id": "4930619",
+      "time": "2026-06-11 20:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部出口銷售資料：2025/26銷售年度大豆淨銷售21.13萬噸；2026/27銷售年度淨銷售14.15萬噸。"
+    },
+    {
+      "id": "4930618",
+      "time": "2026-06-11 20:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝商所將推出四款新微型E-迷你股指期貨，擴充其股指產品系列。"
+    },
+    {
+      "id": "mkt:019eb6aa-31dc-7dd8-afbf-e3a6392fc0b7",
+      "time": "2026-06-11 20:31:07",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "US dollar index (DXY) little changed intraday, last at 100.11."
+    },
+    {
+      "id": "4930617",
+      "time": "2026-06-11 20:30:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長布魯姆：將於年底前裁員1.9萬人。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606113768506854",
+      "time": "2026-06-11 20:30:25",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國上週首次申領失業救濟人數22.9萬】美國上週首次申領失業救濟人數22.9萬，預估為22萬，前值為22.5萬。"
+    },
+    {
+      "id": "mkt:019eb6a9-892a-7dd8-afbf-dd16f0efea73",
+      "time": "2026-06-11 20:30:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US initial jobless claims for the week ending June 6 rose to 229,000, the highest level since the week of Feb. 7, 2026."
+    },
+    {
+      "id": "mkt:019eb6a9-86c2-7dd8-afbf-d5fe66188dac",
+      "time": "2026-06-11 20:30:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Canada building permits MoM -7.6% in April, vs -3.5% expected; March revised to 10.6% from 10.3%."
+    },
+    {
+      "id": "mkt:019eb6a9-7ef3-7dd8-afbf-cbeefc573d15",
+      "time": "2026-06-11 20:30:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US May PPI YoY 6.5% vs 6.4% expected; April prior revised to 5.7% from 6.0%."
+    },
+    {
+      "id": "mkt:019eb6a9-7e8d-7dd8-afbf-c0d95aa156d3",
+      "time": "2026-06-11 20:30:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US May PPI MoM 1.1% vs 0.7% expected; prior revised from 1.40% to 1.1%."
+    },
+    {
+      "id": "4930616",
+      "time": "2026-06-11 20:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至6月6日當週初請失業金人數 22.9萬人，預期21.9萬人，前值22.5萬人。\n美國至6月6日當週初請失業金人數四周均值 21.9萬人，前值21.475萬人。"
+    },
+    {
+      "id": "mkt:019eb6a9-752c-7dd8-afbf-b9ecdb406681",
+      "time": "2026-06-11 20:30:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US May core PPI m/m 0.4% (exp. 0.5%); April revised down to 0.7% from 1.00%."
+    },
+    {
+      "id": "mkt:019eb6a9-74ca-7dd8-afbf-b1d552d2527d",
+      "time": "2026-06-11 20:30:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US core PPI YoY 4.9% in May, below 5.4% expected; prior reading revised down from 5.2% to 4.9%."
+    },
+    {
+      "id": "4930615",
+      "time": "2026-06-11 20:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大4月營建許可(金額)環比 -7.6%，預期 -3.9%，前值 10.3%。"
+    },
+    {
+      "id": "4930614",
+      "time": "2026-06-11 20:30:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國5月PPI月率 1.1%，預期0.7%，前值由1.40%修正為1.1%。\n美國5月PPI年率 6.5%，預期6.4%，前值由6.00%修正為5.7%。"
+    },
     {
       "id": "mkt:019eb6a9-69e2-7dd8-afbf-af52d51695ac",
       "time": "2026-06-11 20:30:12",
@@ -169352,148 +169640,6 @@
         "其他"
       ],
       "text": "【廣西探路AI賦能製造業煥新】4日，由廣西壯族自治區政府主辦、廣西壯族自治區工業和資訊化廳承辦的2026年廣西“人工智慧+製造”大會暨發展對接活動在廣西南寧舉辦。會上，廣西“人工智慧+製造”十大引領應用場景釋出，繪就出智造未來的“路線圖”。記者採訪瞭解到，政策賦能的牽引支撐作用愈發凸顯。廣西密集印發“人工智慧+製造”行動方案（2025—2027年）等系列配套政策，透過多舉措完善平臺載體、補齊產業要素、夯實人才根基，積極推進AI賦能製造業煥新，努力為產業發展鋪路蓄力。同時，本次活動同步釋出了廣西及各地市“人工智慧+製造”診斷報告，直面西部省區依託人工智慧賦能製造業程序中的難點堵點。（新華社）"
-    },
-    {
-      "id": "mkt:019e92a0-b76b-7eec-b8a9-8dc7f51533f0",
-      "time": "2026-06-04 20:34:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【World Gold Council: Global gold ETFs post $2.0 bln net outflow in May; AUM down 2% to $604 bln】World Gold Council data show global gold ETFs recorded a $2.0 bln net outflow in May, reducing total AUM 2% to $604 bln. Europe was the only region with net inflows ($334 mln); Asia saw $1.2 bln of outflows and North America $1.1 bln, the main source of the net outflow. May trading volumes rose modestly; average daily liquidity increased to $424 bln, remaining above the 2025 average."
-    },
-    {
-      "id": "4917532",
-      "time": "2026-06-04 20:34:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國商業銀行執行長：收購需要相對於當前股價支付大幅溢價。"
-    },
-    {
-      "id": "mkt:019e92a0-9643-7eec-b8a9-837d82caa6b1",
-      "time": "2026-06-04 20:34:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi energy minister says the world needs stability in the energy sector."
-    },
-    {
-      "id": "4917531",
-      "time": "2026-06-04 20:34:16",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【世界黃金協會：全球黃金ETF五月轉為淨流出】世界黃金協會：全球黃金ETF資金流向5月轉為淨流出，當月流出規模為20億美元，使總資產管理規模下降2%至6,040億美元。歐洲地區是唯一實現資金淨流入的地區，流入3.34億美元；亞洲地區流出12億美元，北美地區流出11億美元，成為資金淨流出的主要來源。5月黃金市場成交量小幅上升，日均流動性增至4,240億美元，並繼續高於2025年的平均水平。"
-    },
-    {
-      "id": "4917530",
-      "time": "2026-06-04 20:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特能源大臣表示：全球能源行業需要穩定。"
-    },
-    {
-      "id": "4917529",
-      "time": "2026-06-04 20:33:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方興公司與廣東新粵、浙高信簽署三方戰略合作框架協議】據贛粵高速訊息，6月2日上午，方興公司與廣東新粵交通投資有限公司（簡稱“廣東新粵”）、浙江高信技術股份有限公司（簡稱“浙高信”）正式簽署戰略合作框架協議，根據協議，三方將整合屬地資源、工程建設、軟體研發、硬體供應鏈及科研平臺等優勢，在核心技術攻關、產品協同、市場拓展及產業鏈最佳化等方面開展深度合作。"
-    },
-    {
-      "id": "4917528",
-      "time": "2026-06-04 20:33:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網傳“濮陽臺前撤縣融城”？官方：系謠言】“清朗河南”官微援引臺前縣網信辦訊息，近期，一則題為“濮陽縣域格局生變，濮陽臺前撤縣融城受關注”的推文在微信平臺傳播，發帖人稱實地到訪臺前縣，強調“臺前撤縣融城”是一場區域洗牌，將對當地居民生活產生影響等言論。經向民政部門核實，臺前縣從未接到過省、市、縣對臺前縣關於撤縣融城的任何資訊。該網傳資訊不實，網傳“濮陽縣域格局生變，濮陽臺前撤縣融城受關注”系謠言。"
-    },
-    {
-      "id": "4917527",
-      "time": "2026-06-04 20:32:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨領導人卡西姆4日要求以色列從黎巴嫩撤軍並實現“全面”停火。（新華社）"
-    },
-    {
-      "id": "4917526",
-      "time": "2026-06-04 20:32:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨在周度初請失業金資料公佈後變化不大。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606043760604622",
-      "time": "2026-06-04 20:31:57",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國5月23日當週持續申領失業救濟人數為177.7萬人，預估為178萬人。"
-    },
-    {
-      "id": "4917525",
-      "time": "2026-06-04 20:31:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國商業銀行執行長：始終願意與義大利聯合信貸銀行進行討論。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606043760604439",
-      "time": "2026-06-04 20:31:40",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國上週首次申領失業救濟人數22.5萬】美國上週首次申領失業救濟人數22.5萬，預估為21.3萬，前值為21.5萬。"
-    },
-    {
-      "id": "mkt:019e929e-0956-7668-9613-bf3c59aa756d",
-      "time": "2026-06-04 20:31:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Treasury yields remained lower after initial jobless claims data; 10-year yield down 3.8bps at 4.453%."
-    },
-    {
-      "id": "4917524",
-      "time": "2026-06-04 20:31:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在初請失業金資料公佈後延續跌勢；10年期美國國債收益率最新下跌3.8個基點，報4.453%。"
-    },
-    {
-      "id": "4917523",
-      "time": "2026-06-04 20:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至5月30日當週初請失業金人數錄得22.5萬人，為2026年2月7日當週以來新高。\n美國至5月23日當週續請失業金人數 177.7萬人，預期178萬人，前值由178.6萬人修正為178.5萬人。\n美國至5月30日當週初請失業金人數四周均值 21.475萬人，前值由20.9萬人修正為20.825萬人。"
-    },
-    {
-      "id": "mkt:019e929d-f132-7668-9613-b6aacdb5af0e",
-      "time": "2026-06-04 20:31:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt plans to replace in-kind subsidies with cash transfers in the coming fiscal year, the prime minister said."
     }
   ]
 }
