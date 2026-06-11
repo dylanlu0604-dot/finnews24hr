@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-11 21:47:58",
-  "count": 18521,
+  "updated": "2026-06-11 21:51:49",
+  "count": 18516,
   "items": [
+    {
+      "id": "4930792",
+      "time": "2026-06-11 21:51:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數延續漲勢，上漲1.1%。"
+    },
+    {
+      "id": "4930791",
+      "time": "2026-06-11 21:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：英法德聯合澤連斯基提出的和談條件“毫無新意”】俄羅斯外交部發言人扎哈羅娃11日對英法德領導人聯合澤連斯基發表的宣告作出回應。宣告支援俄烏在美國參與下直接談判，要求為烏克蘭提供具有法律約束力的安全保障，包括部署多國部隊，並在俄方全額賠償前繼續凍結俄資產。扎哈羅娃說，這些條件“毫無新意”且一開始就不可接受。他們“還在為烏克蘭增產遠端武器，推動烏克蘭和歐洲軍事化”。扎哈羅娃引用歐盟外交與安全政策高階代表卡拉斯的話說，歐洲永遠不會成為中立調解人，因為歐洲站在烏克蘭一邊。（央視新聞）"
+    },
+    {
+      "id": "4930789",
+      "time": "2026-06-11 21:49:43",
+      "tags": [],
+      "text": "費城半導體指數漲超4％，英特爾漲超10％，ARM張近7％，AMD漲近5％。"
+    },
+    {
+      "id": "4930788",
+      "time": "2026-06-11 21:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：ALEXA+現已在加拿大全面上線，Prime會員可免費使用。"
+    },
+    {
+      "id": "4930787",
+      "time": "2026-06-11 21:49:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特11日在社交媒體發文說，伊朗若對美國在海灣地區的盟友造成任何損害，相關損失都將從伊朗賬戶資金中予以扣除。他說，任何繳付給波斯灣海峽管理局的費用，也將從伊朗的賬戶資金中抵扣。伊朗每發動一次襲擊，只會使其面臨的經濟與金融後果更加嚴重。（新華社）"
+    },
+    {
+      "id": "mkt:019eb6f1-8003-7dd8-afc3-5d4f532c1dfb",
+      "time": "2026-06-11 21:48:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【ECB publishes three scenario projections】The ECB published three scenarios for euro-area inf. Adverse: inf 3.3 pct in 2026, 3.0 pct in 2027 and 2.3 pct in 2028. Moderate: inf 2.9 pct in 2026, 1.8 pct in 2027 and 1.8 pct in 2028. Severe: inf 4.0 pct in 2026, 5.3 pct in 2027 and 3.0 pct in 2028."
+    },
+    {
+      "id": "4930786",
+      "time": "2026-06-11 21:47:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至0.5%。"
+    },
     {
       "id": "4930785",
       "time": "2026-06-11 21:46:31",
@@ -170573,128 +170636,6 @@
         "MKT News"
       ],
       "text": "Market sources: PwC and Google Cloud have reached a cooperation agreement."
-    },
-    {
-      "id": "mkt:019e92e7-5927-733d-84af-ca226911bf28",
-      "time": "2026-06-04 21:51:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CSRC approves Zhuhai Tainuo Maibo Pharmaceutical IPO for STAR Market listing】The CSRC has approved the registration application for Zhuhai Tainuo Maibo Pharmaceutical Co., Ltd. to proceed with an initial public offering and list on the STAR Market (Sci‑Tech Innovation Board)."
-    },
-    {
-      "id": "mkt:019e92e7-46be-733d-84af-c165bc3dfa24",
-      "time": "2026-06-04 21:51:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bearish",
-        "AVGO.O",
-        "AMD.O"
-      ],
-      "text": "Philadelphia Semiconductor Index fell more than 5%. Micron Technology (MU.O) dropped over 8%, its shares slipped below the $1,000 mark; Broadcom (AVGO.O) slid nearly 16%; Arm Ltd (ARM.O) fell over 8%; AMD (AMD.O) lost more than 7%; Qualcomm (QCOM.O) declined over 4%; Intel (INTC.O) fell more than 3%."
-    },
-    {
-      "id": "4917657",
-      "time": "2026-06-04 21:50:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會同意泰諾麥博科創板IPO註冊】證監會同意珠海泰諾麥博製藥股份有限公司（簡稱“泰諾麥博”）首次公開發行股票並在科創板上市的註冊申請。"
-    },
-    {
-      "id": "4917656",
-      "time": "2026-06-04 21:50:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX用17分鐘的影片向散戶推介IPO 闡釋未來願景並勾勒宏大目標】SpaceX週四一早透過一段影片向散戶投資者展開IPO推介。在這段影片中，首席財務官Bret Johnsen把公司的火箭、衛星和人工智慧業務串聯了起來。這段時長17分鐘的演示影片，是這家由埃隆·馬斯克領導的公司吸引全球普通投資者的行動之一。媒體此前報道，這些買家是SpaceX此次IPO策略中的關鍵組成部分，在750億美元發行規模中，多達30%將分配給這類投資者。Johnsen是影片中唯一出鏡的人。他首先介紹自己是公司有史以來唯一一位首席財務官。影片位於公司網站spacexipo.com上，上面有顯著提示，鼓勵訪問者開設券商賬戶。Johnsen說：“埃隆創立SpaceX的目標，是改變人類，讓我們成為一個多星球物種。非常令人振奮的是，我們已經能夠透過Starlink星座以及我們的AI解決方案來擴充套件這一願景。”這次路演列出了一些未來目標，但未說明具體實現時間，包括把毛利率從去年的49%提高到約70%，並實現約45%的淨利潤率，而去年這一指標為負26%。公司在影片中勾勒了宏大的抱負，包括把資料中心送入太空。影片還介紹了其業務，包括可重複使用火箭，以及為地球提供寬頻網際網路接入的Starlink衛星系統。"
-    },
-    {
-      "id": "mkt:019e92e5-f929-733d-84af-bc3235d3dca0",
-      "time": "2026-06-04 21:50:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US May global supply-chain pressure index due in 10 minutes."
-    },
-    {
-      "id": "4917655",
-      "time": "2026-06-04 21:49:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Pimco首席投資官：信用市場違約潮已經開始】品浩(Pimco)首席投資官發出警告稱，信用市場多年來首個持續性的違約週期已經開始，市場將面臨比以往習慣了的水平更高的虧損。儘管利差已接近歷史最窄水平，但“表面之下暗流湧動”，Daniel Ivascyn在一份由影片發言整理而成的電子郵件通報中稱。隨著大量債務即將到期，償債高峰將至，Ivascyn加入了Davidson Kempner合夥人Suzanne Gibbons以及巴克萊銀行的Na Wei的行列，對違約率上升的風險發出了警告。Glendon Capital Management創始合夥人Holly Kim週三表示，問題將主要集中在2021年和2022年那些依靠廉價借貸融資的槓桿收購專案上。"
-    },
-    {
-      "id": "mkt:019e92e5-639c-7dd1-a9a5-e1b736cb2d4a",
-      "time": "2026-06-04 21:49:26",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Pimco's chief investment officer said a wave of defaults in the credit market has already begun."
-    },
-    {
-      "id": "4917654",
-      "time": "2026-06-04 21:49:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【費城半導體指數跌超5%】費城半導體指數跌超5%，美光科技跌超8%，股價失守1000美元關口；博通跌幅擴大至近16%，ARM跌超8%，AMD跌超7%，高通跌超4%，英特爾跌超3%。"
-    },
-    {
-      "id": "4917653",
-      "time": "2026-06-04 21:49:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行宏審局局長周永坤“空降”四川 接替嚴寶玉出任省分行行長】近日，記者獲悉，人民銀行宏觀審慎管理局局長周永坤已調任四川，接替嚴寶玉出任央行四川省分行黨委書記、行長，兼任國家外匯局四川省分局局長。公開資訊顯示，嚴寶玉已於今年4月被四川省人民政府聘任為省政府參事。（21財經）"
-    },
-    {
-      "id": "4917652",
-      "time": "2026-06-04 21:48:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Quobly完成1.15億歐元A輪融資】6月4日，法國量子計算公司Quobly宣佈完成1.15億歐元A輪融資，旨在加速其矽基量子計算機的產業化程序，並計劃於2026年底前將首款商用產品推向市場。本輪融資由Bpifrance、SEALSQ和意法半導體（STMicroelectronics）領投，歐洲創新理事會（European Innovation Council, EIC）、Blast、ALIAD（Air Liquide Venture Capital）以及現有投資者Innovacom參與投資。"
-    },
-    {
-      "id": "mkt:019e92e4-bfe5-733d-84af-a9d1bd668ead",
-      "time": "2026-06-04 21:48:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "EURUSD",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Fitch: Oil shock trims global growth outlook; AI investment outperforms】Fitch says the US‑Iran war‑driven oil shock has weakened global growth prospects, cutting its 2026 global growth forecast by 0.2ppt to 2.4%. Higher inflation is squeezing real wages, curbing consumption and raising corporate input costs, prompting broad downward revisions to growth. Stronger‑than‑expected AI‑related IT investment is offsetting some weakness, supporting world trade and Asian exports. The Strait of Hormuz has been closed for 14 weeks; Fitch assumes reopening in July. Fitch raised its 2026 average Brent forecast to $87/bbl from $70/bbl in March. The agency views the oil shock as a material headwind but not as severe as 1970s oil crises. Fitch expects the Fed and Bank of England to hold rates this year and resume cuts in 2027; it forecasts a 25bp ECB hike in June, with policy reversal next year."
-    },
-    {
-      "id": "4917651",
-      "time": "2026-06-04 21:48:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "世界黃金理事會資料顯示，受投資者獲利了結金價漲勢影響，印度黃金ETF在5月迎來一年來首次資金淨流出。"
     }
   ]
 }
