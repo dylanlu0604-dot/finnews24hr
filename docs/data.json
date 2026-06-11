@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-11 10:42:12",
-  "count": 18402,
+  "updated": "2026-06-11 10:46:08",
+  "count": 18401,
   "items": [
+    {
+      "id": "mkt:019eb491-fee9-7dd8-afb2-94a26099e8ca",
+      "time": "2026-06-11 10:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Broad A‑share indices to rebalance; index funds ~900 billion yuan to adjust】On Friday June 12 more than a dozen A‑share broad indices including the CSI 300, CSI A500 and STAR 50 will implement sample changes. As of June 10, index funds tracking these benchmarks hold about 900 billion yuan; CSI 300 ETFs exceed 400 billion yuan and CSI A500 and STAR 50 ETFs each exceed 100 billion yuan. Some indices will replace up to around 10% of constituents. Additions of several semiconductor and other technology names have materially increased the tech weighting of major broad A‑share indices. Fund managers say the shift from traditional core assets toward hard tech and high‑end manufacturing improves index efficacy and better reflects China’s industrial upgrading and high‑quality growth."
+    },
+    {
+      "id": "4929449",
+      "time": "2026-06-11 10:45:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英媒：歐盟欲勸七國集團給俄羅斯石油壓價】英國《金融時報》9日報道，歐盟希望勸說七國集團推遲上調俄羅斯石油價格上限，以阻止俄羅斯“吃到”國際原油價格高企的“紅利”。(新華社)"
+    },
+    {
+      "id": "4929448",
+      "time": "2026-06-11 10:45:22",
+      "tags": [
+        "A股"
+      ],
+      "text": "【A股寬基指數樣本即將大調整 近9000億元規模指數基金同步調倉】本週五（6月12日），滬深300、中證A500、科創50等十多隻指數將迎來新一輪樣本股調整。截至6月10日，跟蹤這些指數的指數基金規模接近9000億元，滬深300ETF規模在4000億元以上，中證A500ET、科創50指數ETF的規模均超過1000億元。記者發現，個別指數的樣本調整比例達到10%，在新易盛、兆易創新、江波龍等科技股調入指數之後，A股重要寬基指數的“含科量”明顯提升。受訪的公募人士認為，樣本股隨產業經濟和技術變遷持續煥發新機，符合我國新質生產力的發展方向，也是保持指數有效性的應有之義。寬基指數調整從傳統核心資產進一步向“硬科技”與高階製造傾斜，會更加完整對映出中國經濟高質量發展和產業升級主線。（證券時報）"
+    },
+    {
+      "id": "mkt:019eb490-be23-7dd8-afb2-887346011529",
+      "time": "2026-06-11 10:44:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kuwait Civil Aviation Authority says it has temporarily closed national airspace after an Iranian attack; flights are being diverted."
+    },
+    {
+      "id": "4929447",
+      "time": "2026-06-11 10:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特因伊朗襲擊暫時關閉領空，航班改道。"
+    },
+    {
+      "id": "4929446",
+      "time": "2026-06-11 10:43:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "COUPANG對被韓國罰款6246億韓元表示遺憾。"
+    },
     {
       "id": "mkt:019eb48d-d1ef-7dd8-afb2-82042bf4a486",
       "time": "2026-06-11 10:40:53",
@@ -169561,72 +169613,6 @@
         "市場"
       ],
       "text": "【半導體矽片概念震盪走高 滬矽產業漲超10%】半導體矽片概念盤中震盪走高，滬矽產業漲超10%，立昂微觸及漲停，西安奕材、TCL中環、民德電子、神工股份漲幅靠前。"
-    },
-    {
-      "id": "4916450",
-      "time": "2026-06-04 10:46:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商蛇口、鄭州國資成立置業公司】企查查APP顯示，近日，鄭州市二七區招中置業有限公司成立，法定代表人為何小剛，註冊資本為1000萬元，經營範圍包含：房地產開發經營；物業管理；土地使用權租賃；非居住房地產租賃；建築材料銷售；住房租賃等。企查查股權穿透顯示，該公司由招商蛇口全資子公司招商局地產（武漢）有限公司、鄭州中交城市更新有限公司共同持股。"
-    },
-    {
-      "id": "4916449",
-      "time": "2026-06-04 10:44:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國NAVER股價下跌6.2%。"
-    },
-    {
-      "id": "4916448",
-      "time": "2026-06-04 10:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大豐業銀行將CrowdStrike目標股價從475美元上調至805美元。"
-    },
-    {
-      "id": "mkt:019e9083-e9b0-7cc0-ba22-f4eb2ccb0bea",
-      "time": "2026-06-04 10:43:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "002129.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-shares BC battery sector briefly rallied; Xinqi Weizhuang rose more than 10%, with Youyan Powder Materials, Guangxin Materials, Yonghe Intelligent Control, TCL Zhonghuan and Jingsheng Electromechanical also gaining."
-    },
-    {
-      "id": "4916447",
-      "time": "2026-06-04 10:43:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星物產股價大漲14%。"
-    },
-    {
-      "id": "4916446",
-      "time": "2026-06-04 10:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "派珀桑德勒將Crowdstrike目標股價從 520 美元上調至 750 美元。"
-    },
-    {
-      "id": "te:markets:556321",
-      "time": "2026-06-04 10:42:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.586 after three consecutive sessions of losses, as flaring tensions in the Middle East kept investors cautious. Fighting in the region intensified earlier this week, raising fears of wider regional instability and prolonged disruptions to energy flows. However, some relief emerged after Israel and Lebanon had agreed to implement a ceasefire contingent on Hezbollah halting its attacks, while President Donald Trump said talks with Iran were going “very well” and could produce outcomes over the coming weekend, despite denials from Tehran. The kiwi was also supported by rising expectations of tighter monetary policy following a hawkish outlook from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and about 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases."
     }
   ]
 }
