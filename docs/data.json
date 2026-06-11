@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-12 06:47:04",
+  "updated": "2026-06-12 06:50:45",
   "count": 18435,
   "items": [
+    {
+      "id": "te:economy:558479",
+      "time": "2026-06-12 06:50:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "New Zealand Tourist Arrivals Growth Slows to 8% — Visitor arrivals to New Zealand climbed 8.0% year-on-year to a four-month low of 288,500 in April 2026, slowing sharply from a 15.1% rise in March, driven largely by gains from China."
+    },
+    {
+      "id": "mkt:019eb8df-e19a-7dd8-afcc-530d51e72c5e",
+      "time": "2026-06-12 06:49:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media, citing military sources, said explosions off Sirik were linked to confrontations with 'violating vessels' attempting to transit the Strait of Hormuz."
+    },
+    {
+      "id": "4931313",
+      "time": "2026-06-12 06:48:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體援引軍方訊息：錫裡克地區發生爆炸，事件與一艘試圖穿越霍爾木茲海峽的違規船隻引發的對峙有關。"
+    },
     {
       "id": "4931312",
       "time": "2026-06-12 06:46:40",
@@ -170005,32 +170038,6 @@
         "其他"
       ],
       "text": "馬斯克：為此我們需要資金。"
-    },
-    {
-      "id": "4918228",
-      "time": "2026-06-05 06:49:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "馬斯克告訴摩根大通CEO戴蒙：我們進入一個快速增長的新階段。"
-    },
-    {
-      "id": "mkt:019e94d3-062c-7cc8-bdef-367a2794ad4a",
-      "time": "2026-06-05 06:48:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cuban president responds to U.S. sanctions】Cuban President Miguel Díaz-Canel posted on social media on the 4th responding to new U.S. measures. He said the U.S. president had issued fresh threats and that the U.S. Treasury had added additional Cuban leaders, organizations and companies to what he called an illegal sanctions list, measures he described as aimed at tightening the blockade and harming the Cuban people. Díaz-Canel vowed the actions would be met by Cuba’s determination to prepare for the worst and resist what he termed an imperialist offensive."
-    },
-    {
-      "id": "4918227",
-      "time": "2026-06-05 06:47:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據NOTUS： 美國政府已就收購頭部人工智慧企業股份事宜開展磋商。"
     }
   ]
 }
