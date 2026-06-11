@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-12 00:45:46",
-  "count": 18495,
+  "updated": "2026-06-12 00:49:43",
+  "count": 18494,
   "items": [
+    {
+      "id": "mkt:019eb795-af9d-7dd8-afc7-04a9143fdf96",
+      "time": "2026-06-12 00:48:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran armed forces say they will respond more forcefully if U.S. attacks again】The commander of Iran's Hatam al-Anbiya Central Headquarters said U.S. rhetoric about agreements contrasts with what he called malicious actions, a contradiction he blamed for regional instability that threatens trade, the international economy and security, especially the Strait of Hormuz. He warned any renewed U.S. attack on Iran would be met with a harsher, broader response that would expand the fighting and deepen regional insecurity. Citing recent U.S. threats against Iranian oil infrastructure, he said Iran's oil and gas exports will be either open to all or closed to all."
+    },
+    {
+      "id": "4931013",
+      "time": "2026-06-12 00:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事司令部：針對近期美國對伊朗石油設施發出的威脅，（我方立場是）要麼所有國家都能出口油氣，要麼誰都別想獲得油氣。"
+    },
+    {
+      "id": "4931012",
+      "time": "2026-06-12 00:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部：戰火將進一步蔓延擴大，引發地區局勢動盪不安。"
+    },
+    {
+      "id": "4931011",
+      "time": "2026-06-12 00:46:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部：我們警告稱，若美國再次對伊朗發動襲擊，其將遭到比此前更為猛烈的回擊。"
+    },
+    {
+      "id": "4931010",
+      "time": "2026-06-12 00:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部：美國自相矛盾的行徑是該地區、尤其是霍爾木茲海峽局勢不安全的主要根源。"
+    },
     {
       "id": "mkt:019eb792-a3c1-7dd8-afc6-fe54c4dbe7e2",
       "time": "2026-06-12 00:45:01",
@@ -170381,62 +170426,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：傾向後續豁免措施將採取國別定製模式。"
-    },
-    {
-      "id": "4917892",
-      "time": "2026-06-05 00:49:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國上週抵押貸款利率小幅下跌】上週，美國抵押貸款利率略有下降，因為賣家難以找到願意接受其報價的買家。據房地美資料，30年期固定貸款利率均值從6.53%降至6.48%。而一年前的同期，該利率為6.85%。隨著伊朗戰爭引發的經濟不確定性推高通脹預期，並導致住房貸款利率居高不下，銷售旺季正面臨高昂借貸成本的壓力。庫存增長速度超過需求，導致全國各地許多賣家難以吸引買家出價。Redfin房產經紀人Patricia Ammann表示，房價上漲的勢頭已不如五年前，因為高昂的汽油價格和生活成本的上升，使得潛在買家更不願推高房價。"
-    },
-    {
-      "id": "4917891",
-      "time": "2026-06-05 00:49:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：俄羅斯石油豁免政策壓低了整體能源價格。"
-    },
-    {
-      "id": "4917890",
-      "time": "2026-06-05 00:48:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：本屆政府對俄立場強硬程度超歷屆政府。"
-    },
-    {
-      "id": "mkt:019e9389-1f7d-711f-ac52-b8956352bcb6",
-      "time": "2026-06-05 00:48:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【US mortgage rates ease slightly last week】US mortgage rates edged down last week as sellers struggled to find buyers, Freddie Mac data showed. The average 30-year fixed rate fell to 6.48% from 6.53% the prior week and 6.85% a year earlier. Uncertainty from the Iran conflict has lifted inf expectations and kept borrowing costs elevated, putting the peak selling season under pressure. Nationwide inventory growth is outpacing demand, leaving many sellers unable to attract bids, and high fuel and living costs are dampening buyers’ willingness to push prices, Redfin said."
-    },
-    {
-      "id": "4917889",
-      "time": "2026-06-05 00:48:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴克萊調查：固定收益投資者中使用AI最多的是對沖基金】巴克萊一項調查顯示，固定收益投資者中使用AI最多的是對沖基金，主要應用於研究和分析，而非交易和執行。這家英國銀行援引5月對400多家買方投資機構進行的調查稱，超過70%的對沖基金每天都會使用AI，而純多頭基金及資產所有者則相對落後，使用AI的比例分別為49%和38%。“我們認為，這種差距反映了不同的運營模式。對沖基金奉行節奏更快、換手率更高的策略，在這些策略中，速度與資訊處理能力對於獲取超額收益至關重要，”由Zornitsa Todorova和Andrea Diaz Lafuente牽頭的分析師團隊在報告中寫道。“相比之下，資產所有者的投資週期更長、流程更為結構化，因此對AI的採用過程也更為漸進。而純多頭基金則介於兩者之間，”他們寫道。其餘受訪者大多報告稱會定期使用AI。調查顯示市場正處於向AI過渡的階段，“對AI的使用不再是實驗性的，但尚未完全融入其中。”調查顯示，AI創造的大部分價值體現在研究、證券選擇和分析方面，而在投資組合構建或交易執行方面的滲透率極低。他們表示，AI目前主要扮演著“輔助投資者判斷的支援性角色”。對沖基金是AI應用最為領先的機構。證券篩選是最成熟的應用場景，在對沖基金和純多頭基金的受訪反饋中佔比達25%至26%，在資產所有者中佔比為20%。受訪者認為，AI最大的優勢之一是能夠大規模處理資料並加快決策速度。調查同時顯示，安全性和資料隱私是AI獲得更廣泛應用的主要制約因素。"
-    },
-    {
-      "id": "mkt:019e9388-0f37-711f-ac52-b65d9d7482c2",
-      "time": "2026-06-05 00:47:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he hopes today’s jobs-market data have been released and that he has not yet been briefed on tomorrow’s employment figures."
     }
   ]
 }
