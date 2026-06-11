@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-11 14:02:17",
-  "count": 18337,
+  "updated": "2026-06-11 14:06:04",
+  "count": 18336,
   "items": [
+    {
+      "id": "em:jjsj_mgsj:202606113768183562",
+      "time": "2026-06-11 14:04:32",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國通脹高企 特朗普稱“我愛通脹”遭批】美國5月通貨膨脹水平創3年來新高，民眾生活成本壓力增大。美國總統特朗普10日卻表示“我愛通脹”。這一言論隨即在美國引發批評，也令共和黨人擔憂可能拖累該黨今年國會中期選舉選情。"
+    },
+    {
+      "id": "4929658",
+      "time": "2026-06-11 14:02:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50股指期貨<STXEc1>下跌0.43%，德國DAX股指期貨<FDXc1>下跌0.28%，富時股指期貨<FFIc1>下跌0.37%。"
+    },
+    {
+      "id": "4929657",
+      "time": "2026-06-11 14:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國競爭與市場管理局（CMA）：調查啟動階段，尚未就瑞安航空是否違法得出任何結論。"
+    },
+    {
+      "id": "4929656",
+      "time": "2026-06-11 14:01:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超威電源集團、佳力奇等成立新動能創投合夥企業】企查查APP顯示，近日，宿州市高新區新動能創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由超威電源集團有限公司全資子公司超威控股集團有限公司、佳力奇等共同出資。"
+    },
     {
       "id": "mkt:019eb545-679e-7dd8-afb5-1d9934c3f830",
       "time": "2026-06-11 14:01:24",
@@ -168877,52 +168910,6 @@
         "Impact mixed"
       ],
       "text": "【China Chengxin president Yue Zhigang: sci‑tech bond issuance tops 5.4 tln yuan; outbound firms need cross‑border credit support】China's outstanding bond stock has exceeded 200 tln yuan, with corporate credit bonds totaling 38.38 tln yuan, China Chengxin president Yue Zhigang said. The bond market's sci‑tech board marked its first anniversary: cumulative sci‑tech bond issuance exceeded 5.4 tln yuan as of May, up about 7% YoY this year; private‑sector participation has risen to about 12%. Issuance remains concentrated in 3–5 year tenors while 10+ year issues are emerging, better matching long‑cycle funding needs. On Chinese firms' overseas expansion, Yue flagged prominent political risk, FX volatility and cross‑border credit information asymmetry, saying narrow financing channels and insufficient overseas credit backing are bottlenecks and calling for coordinated advancement of RMB internationalization and cross‑border credit infrastructure."
-    },
-    {
-      "id": "mkt:019e913c-d685-7cc0-ba27-0da66705608d",
-      "time": "2026-06-04 14:05:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share PCB names rebounded; Hudian Co. hit the daily limit and its stock reached a record high. Minbao Optoelectronics and Xinqi Weizhuang surged over 10%; Xinrui, Nanya New Materials, Zhongying Technology, Ouke Yi, Dongwei Technology and Dingtai Hi‑Tech also advanced."
-    },
-    {
-      "id": "4916661",
-      "time": "2026-06-04 14:05:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其財長：土耳其並未設定貨幣的具體目標水平。"
-    },
-    {
-      "id": "4916660",
-      "time": "2026-06-04 14:04:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中誠信總裁嶽志崗：科創債累計發行規模突破5.4萬億元 出海亟需跨境信用支撐】在6月4日舉行的中誠信2026年中信用風險展望大會上，中誠信總裁嶽志崗表示，我國債券存量規模已突破200萬億元，其中公司類信用債達38.38萬億元，為傳統產業升級與新興產業佈局提供了有力支撐。與此同時，債市“科技板”推出滿一週年，截至今年5月，科創債累計發行規模突破5.4萬億元，今年以來同比增長約7%，民營企業參與度提升至約12%，3至5年期為主的同時10年以上長期品種不斷湧現，更加匹配科創長週期資金需求。嶽志崗指出，以AI大模型為代表的“新正規化”正推動信用風險評估向動態化、前瞻化升級，中誠信國際持續探索金融科技在評級中的融合應用，提升風險識別準確性與一致性。同時，綠色金融走向制度化，首個ESG國家標準及可持續資訊鑑證準則已釋出，綠色債券標準加速與國際接軌。針對中資企業出海呈現產能、品牌、資本全方位國際化新格局，嶽志崗表示，海外政治風險、匯率波動及跨境信用資訊不對稱等問題突出，融資渠道偏窄、境外信用背書不足成為現實瓶頸，亟需協同推進人民幣國際化與跨境信用基礎設施建設。"
-    },
-    {
-      "id": "mkt:019e913a-972a-7cc0-ba27-07f346881900",
-      "time": "2026-06-04 14:03:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel national security minister calls Israel-Lebanon ceasefire 'serious mistake', says Israel must learn to tell US president 'no'】Itamar Ben-Gvir, Israel's national security minister, criticised the US-brokered Israel-Lebanon agreement as a 'serious mistake', saying it amounts to advisers dragging the prime minister into error and effectively accepting Hezbollah's presence. He warned Hezbollah will only grow stronger unless Israel learns to tell the US president 'no'. Ben-Gvir also claimed Hezbollah has not withdrawn south of the Litani River and questioned the Lebanese army's ability to implement the accord."
-    },
-    {
-      "id": "4916659",
-      "time": "2026-06-04 14:02:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年，位元組AI有四個重要的命題】從多個信源處獲悉，2026年，位元組AI有四個重要的命題：加大對世界模型訓練的投入，年底前，模型效能達到現階段世界模型全球 SOTA（最佳）Google Genie 3的水平。影片模型繼續保持領先地位，探索“動態生成”等新方向。進一步打好Coding的地基，做好Coding的Dogfooding（資料迴流、評測，形成飛輪），提升Agent能力。豆包強化商業化能力，重點場景是“辦公”。（36氪）"
     }
   ]
 }
