@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-11 08:14:15",
-  "count": 18427,
+  "updated": "2026-06-11 08:18:09",
+  "count": 18417,
   "items": [
+    {
+      "id": "mkt:019eb408-facd-7dd8-afaf-b7cf49c0fc4a",
+      "time": "2026-06-11 08:15:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reported multiple explosions were heard at U.S. bases in Kuwait and Bahrain."
+    },
+    {
+      "id": "4929193",
+      "time": "2026-06-11 08:15:40",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：6月行業配置建議採用“槓鈴結構”】中信建投研報指出，6月行業配置建議採用“槓鈴結構”：一端保留AI、半導體和出口製造等高景氣底倉，另一端配置高股息、現金流穩定資產控制組合波動，中間用週期漲價、新能源修復和政策訂單主題做彈性倉位。5月市場主線高度集中在通訊、電子、AI硬體鏈，說明資金仍圍繞產業景氣和業績兌現定價，但AI鏈短期漲幅較大、交易擁擠度上升，6月不宜繼續提升AI總倉位，內部應從高漲幅環節切向半導體材料、裝置零部件、PCB材料、國產算力配套等滯漲且基本面改善方向。若PPI繼續修復、收入—庫存差改善，則週期漲價鏈權重可適度提高，從煤炭、有色逐步擴散至化工、機械、交運等方向，但前提是價格上漲能夠傳導至收入和毛利率。"
+    },
+    {
+      "id": "te:economy:558189",
+      "time": "2026-06-11 08:15:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Credit Rating",
+        "Importance 1"
+      ],
+      "text": "S&P Raises Argentina's Credit Rating to B- — Credit ratings agency S&P Global upgraded Argentina's long-term sovereign credit rating to 'B-' from 'CCC+' on Wednesday, citing easing economic vulnerabilities and gradually improving external liquidity. However, the agency warned that the rating remains constrained by still-low net foreign-currency reserves, a history of policy volatility, and high levels of government debt relative to peers. S&P expects Argentina's economy to continue recovering after emerging from recession, supported by lower inflation, rising real wages, and a gradual recovery in domestic demand. Meanwhile, improved access to external financing, including multilateral funding and a gradual return to capital markets, should support foreign-exchange reserve accumulation and debt repayments. Moody's credit rating for Argentina was last set at Caa1 with a stable outlook. DBRS' credit rating for Argentina was last reported at B (low) with a stable outlook."
+    },
     {
       "id": "4929192",
       "time": "2026-06-11 08:13:42",
@@ -169750,123 +169784,6 @@
         "國際"
       ],
       "text": "據美國媒體3日報道，美國總統特朗普已私下告訴助手，如果有美軍士兵在同伊朗交戰中死亡，他將考慮終止同伊朗的停火。（新華社）"
-    },
-    {
-      "id": "4916206",
-      "time": "2026-06-04 08:17:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年06月03日，全球最大的白銀ETF iShares Silver Trust持倉量為15036.17噸，較前一個交易日持平。"
-    },
-    {
-      "id": "mkt:019e8ffd-d90c-7003-8287-e3d02165b7c4",
-      "time": "2026-06-04 08:17:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister said authorities will act, if necessary, to curb volatility in the domestic bond market."
-    },
-    {
-      "id": "4916205",
-      "time": "2026-06-04 08:17:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部長：將監控市場，以遏制股市相關不穩定因素。"
-    },
-    {
-      "id": "4916204",
-      "time": "2026-06-04 08:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將透過借貸加強對股票交易的風險控制。"
-    },
-    {
-      "id": "4916203",
-      "time": "2026-06-04 08:16:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8696.70。"
-    },
-    {
-      "id": "mkt:019e8ffc-d59d-7003-8287-dfe7465628e4",
-      "time": "2026-06-04 08:16:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's finance minister said foreign investors' portfolio rebalancing is one of the causes of volatility in the South Korean stock market."
-    },
-    {
-      "id": "4916202",
-      "time": "2026-06-04 08:15:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：外國投資者的投資組合再平衡正在加劇韓國股市的波動。"
-    },
-    {
-      "id": "mkt:019e8ffc-77eb-7003-8287-d49a079d76dc",
-      "time": "2026-06-04 08:15:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "South Korean finance minister said he is concerned about rising leveraged investment in equities and will take action to counter any \"herd behavior\" in financial markets."
-    },
-    {
-      "id": "4916201",
-      "time": "2026-06-04 08:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財長：將採取行動應對金融市場出現的任何羊群行為。"
-    },
-    {
-      "id": "4916200",
-      "time": "2026-06-04 08:15:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "兩年期日本國債收益率上漲1個基點，至1.410%。"
-    },
-    {
-      "id": "4916199",
-      "time": "2026-06-04 08:15:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部長：當前市場對槓桿股票投資規模增長存在擔憂。"
-    },
-    {
-      "id": "4916198",
-      "time": "2026-06-04 08:15:07",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【隨著量子計算熱潮升溫 霍尼韋爾旗下Quantinuum在美國首次公開募股中籌集16.8億美元】霍尼韋爾旗下公司Quantinuum週三表示，其在美國首次公開募股（IPO）中以每股60美元的價格定價，共籌集16.8億美元，投資者紛紛湧向市場中增長迅速的新興技術領域之一。總部位於科羅拉多州布魯姆菲爾德的Quantinuum在此次發行中售出了2800萬股。此次上市是對投資者對量子計算公司興趣的最新考驗，因為該技術的突破促使人們押注量子機器最終可能在某些複雜任務上超越傳統計算機。本週早些時候，該公司將發行價區間上調至每股53至55美元，並將發行股數增至2650萬股，這通常是投資者需求強勁的訊號。Quantinuum將於週四在納斯達克開始交易，股票程式碼為“QNT”。摩根大通和摩根士丹利是此次發行的主承銷商。該公司成立於2021年，由霍尼韋爾的量子計算業務與劍橋量子公司合併而成。儘管仍處於商業發展的早期階段，但隨著業界興趣的增加，Quantinuum近幾個月報告稱訂單量正在加速增長。Quantinuum在IPO申請檔案中披露，市值約1500億美元的霍尼韋爾在本次發行完成後，將保留該公司約48.1%的合併表決權。鑑於該領域上市公司數量有限，分析師預計 Quantinuum 的 IPO 將對量子計算行業產生巨大影響。"
-    },
-    {
-      "id": "4916197",
-      "time": "2026-06-04 08:14:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌0.5個基點，至2.635%。"
     }
   ]
 }
