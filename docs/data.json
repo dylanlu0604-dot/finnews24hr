@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-12 03:43:10",
-  "count": 18463,
+  "updated": "2026-06-12 03:46:59",
+  "count": 18466,
   "items": [
+    {
+      "id": "4931212",
+      "time": "2026-06-12 03:45:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊協議進入最後定稿階段 有望本週末簽署】當地時間6月11日，美國總統特朗普就伊朗問題表示“達成了極好的協議”，並稱相關檔案已進入最後定稿階段，未來幾天內有望最終敲定，並即將簽署。他還表示，協議可能在歐洲簽署，時間可能在本週末，美國副總統萬斯將出席。特朗普稱，一旦伊朗方面簽署協議，霍爾木茲海峽就會開放。伊朗方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eb838-1cba-7dd8-afca-5c92e93adad2",
+      "time": "2026-06-12 03:45:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICI: For the week to June 10, total assets of money market funds fell $21.48 bln to $7.87 tln."
+    },
+    {
+      "id": "mkt:019eb836-2815-7dd8-afca-5496a5fb96b9",
+      "time": "2026-06-12 03:43:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "A U.S. appeals court extended a stay of an injunction that had ruled Trump’s 10% global tariffs unlawful, keeping the tariffs in effect pending appeal."
+    },
     {
       "id": "te:markets:558455",
       "time": "2026-06-12 03:42:42",
