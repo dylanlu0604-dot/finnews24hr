@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-11 12:18:28",
+  "updated": "2026-06-11 12:22:20",
   "count": 18402,
   "items": [
+    {
+      "id": "4929561",
+      "time": "2026-06-11 12:19:15",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "泰國大學調查顯示，5月消費者信心指數為49.5，4月該指數為50.6。"
+    },
+    {
+      "id": "4929560",
+      "time": "2026-06-11 12:18:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【外媒：美國務院稱，一名美外交官在緬甸被發現死亡】據美聯社10日報道，美國國務院稱，一名美國外交官在緬甸被發現死亡。美聯社提到，訊息人士透露，該外交官大約兩週前在緬甸一家酒店被發現死亡。警方正在調查此案，已拘留一名涉案泰國女子。"
+    },
     {
       "id": "te:markets:558250",
       "time": "2026-06-11 12:17:20",
@@ -169584,25 +169602,6 @@
         "其他"
       ],
       "text": "【速賣通夏季大促品牌GMV滲透率近40%】阿里速賣通海外618大促於6月1日正式開啟。平臺資料顯示，開賣首日，速賣通Brand+品牌GMV滲透率已逼近40%。"
-    },
-    {
-      "id": "4916548",
-      "time": "2026-06-04 12:21:52",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【訊息人士：印度擬取消外資投資國債資本利得稅】知情人士週四透露，印度計劃取消境外組合投資者投資本國國債所需繳納的資本利得稅，此舉有望提振外資債券流入規模。受油價走高、外資持續撤離印度股市影響，印度盧比年內貶值幅度已超5%。該國希望透過引資政策緩解本幣承壓。印度經濟時報率先於週三報道，印度內閣已批准該項減稅方案；媒體致函印度財政部尋求置評，暫未收到回覆。印度基準國債開盤收益率下行1個基點，報7.01%。目前該新政落地生效時間尚未敲定。"
-    },
-    {
-      "id": "mkt:019e90db-51dc-7cc0-ba24-735c65574c81",
-      "time": "2026-06-04 12:19:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【New public-cloud large-model Token service performance monitoring platform to launch】A High-Quality Token Service seminar will be held on June 16, where organizers will launch a new public-cloud large-model Token service performance monitoring platform and publish Public-Cloud Large-Model Token Service Performance Monitoring Results (June 2026). The report will present objective, quantitative comparisons of Token throughput and latency across mainstream Token service platforms to inform vendor selection and service-quality improvements; the forum will also issue a series of Token service standards with authoritative interpretation."
     }
   ]
 }
