@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-12 06:58:31",
-  "count": 18438,
+  "updated": "2026-06-12 07:06:46",
+  "count": 18433,
   "items": [
+    {
+      "id": "4931323",
+      "time": "2026-06-12 07:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 特朗普及其盟友正籌劃撤銷此前的彈劾案。"
+    },
+    {
+      "id": "mkt:019eb8ea-7a60-7dd8-afcc-6d6b5f97a413",
+      "time": "2026-06-12 07:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank kept its benchmark interest rate at 4.25%, in line with market expectations."
+    },
+    {
+      "id": "4931322",
+      "time": "2026-06-12 07:00:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行維持基準利率在 4.25% 不變。"
+    },
+    {
+      "id": "te:markets:558480",
+      "time": "2026-06-12 06:58:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Set to Close Week on High Note — The NZX 50 climbed 54 points, or 0.4%, to 13,256 in Friday morning trade, erasing losses from the previous session and rebounding from its lowest level in over two weeks, reached a day earlier, tracking a rise on Wall Street overnight amid easing tensions in the Middle East and a rally in tech shares. Almost all sectors traded in the green, including financials, energy, and materials. However, the latest data capped gains as New Zealand's manufacturing sector contracted for the first time in 11 months, amid rising oil prices due to the Middle East conflict. Traders also anticipated the release of New Zealand's Q1 GDP and May trade balance data, as well as the Fed's monetary policy decision next week. Among early gainers were Infratil (1.6%), Contact Energy (1.1%), A2 Milk (0.8%), Ebos Group (0.7%), and Mainfreight (0.4%). For the week, the index rose 0.3%, after falling in the previous week."
+    },
     {
       "id": "4931321",
       "time": "2026-06-12 06:57:31",
@@ -169988,85 +170025,6 @@
         "公司"
       ],
       "text": "【工業機器人核心零部件“小巨人”今日上市】5日，有一隻新股上市，為北交所的新睿電子（920211.BJ）。該公司是國家級專精特新“小巨人”企業，主營業務為工業機器人控制系統及部件、伺服系統及部件的研發、生產和銷售。"
-    },
-    {
-      "id": "4918240",
-      "time": "2026-06-05 07:04:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報金觀平：鍛造實體經濟的堅實底盤】對我國而言，堅守實體經濟更具特殊意義。14億多人口的大國，不能走脫實向虛、泡沫擴張的路子，也走不通依賴外部、空心發展的路子。鍛造實體經濟的堅實底盤不是可選項，而是必答題；不是權宜之計，而是長久之策。發展先進製造業，不是隻抓“高精尖”，而是有重點、有梯次、有接續地在“創造價值”上下功夫。透過推動傳統產業提質升級，鞏固重點產業在全球產業分工中的地位和競爭力；透過發展戰略性新興產業叢集，催生數個萬億元級甚至更大規模市場；透過開闢未來產業新賽道，形成塑造長遠優勢的戰略儲備。讓“老樹發新枝”“新苗成大樹”，才能加快構建以先進製造業為骨幹的現代化產業體系，推動中國製造向中國智造轉變、中國產品向中國品牌躍升。"
-    },
-    {
-      "id": "4918239",
-      "time": "2026-06-05 07:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：銀行為何“補貼”微信提現手續費】近日，多家商業銀行宣佈，如果使用者將微信零錢提現至該行簽帳金融卡，可享受手續費抵扣、全額減免等優惠政策。銀行為何“補貼”微信提現手續費？其核心目的是獲取更大規模的活期存款，也就是獲取低成本負債，進而穩定存貸款利差與經營管理。商業銀行屬於金融中介機構，所謂“中介”，即銀行一手從儲戶那裡獲取存款，一手將存款貸給符合條件的借款人，前者形成了銀行的主要負債，後者構成了銀行的主要資產，銀行則透過承擔流動性風險與信用風險、生產信用資訊等功能，賺取一定比例的收入。由此可見，有效的資產負債管理是銀行穩健經營的關鍵，其中，控制負債成本又是重中之重，銀行業也因此有“存款立行”的說法。"
-    },
-    {
-      "id": "4918238",
-      "time": "2026-06-05 07:02:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：韓國4月經常賬戶順差創史上第二高水平。"
-    },
-    {
-      "id": "mkt:019e94df-1e85-7cc8-bdef-4875804d1d0c",
-      "time": "2026-06-05 07:01:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says South Korea's April current account surplus was the second-highest on record."
-    },
-    {
-      "id": "mkt:019e94dd-b322-7cc8-bdef-475aab084df7",
-      "time": "2026-06-05 07:00:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea current account balance, not seasonally adjusted (NSA), April: $28.29 bln; March: $37.33 bln."
-    },
-    {
-      "id": "4918237",
-      "time": "2026-06-05 07:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國4月未季調經常帳 282.9億美元，前值373.271億美元。"
-    },
-    {
-      "id": "mkt:019e94dd-6eef-7cc8-bdef-382a3c267fbb",
-      "time": "2026-06-05 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Current Account NSA (Apr) | actual 28289999999.999996B | previous 37327100000B"
-    },
-    {
-      "id": "te:markets:556599",
-      "time": "2026-06-05 06:59:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Flat, Poised for Weekly Loss — The NZX 50 was almost flat, trading around 13,103 in Friday morning trade, after retreating in the previous two sessions and recovering from its lowest level since May 26, as gains in consumer staples and financials were offset by declines in industrials and communication services. Traders continued to assess the possibility that New Zealand could face a new 12.5% tariff from the US after the US Trade Representative said that 54 economies, including New Zealand, have failed to impose and effectively enforce a prohibition on goods produced with forced labour. Traders also awaited the release of US jobs data later today, as well as US inflation data and China's inflation and trade balance figures due next week. Among individual stocks, Freightways Group fell 2.2%, Ryman Healthcare dropped 2.1%, and Westpac Banking Corp. shed 0.6%, while A2 Milk and Ebos Group rose 1.2% and 0.9%, respectively. For the week, the index fell 1.1%, marking its first decline in three weeks."
-    },
-    {
-      "id": "4918236",
-      "time": "2026-06-05 06:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：如果讓火星熱鬧起來，可以讓它像地球一樣。"
     }
   ]
 }
