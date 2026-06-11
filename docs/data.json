@@ -1,7 +1,516 @@
 {
-  "updated": "2026-06-11 21:28:14",
-  "count": 18519,
+  "updated": "2026-06-11 21:43:51",
+  "count": 18516,
   "items": [
+    {
+      "id": "4930778",
+      "time": "2026-06-11 21:41:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹中部多起無人機襲擊事件致23名平民死亡】喀土穆訊息：據蘇丹民間機構11日釋出的訊息，該國中部北科爾多凡州首府歐拜伊德10日和11日發生多起無人機襲擊事件，已造成23名平民死亡、19人受傷。（新華社）"
+    },
+    {
+      "id": "4930777",
+      "time": "2026-06-11 21:41:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾漲幅擴大至9%】英特爾漲幅擴大至9%。"
+    },
+    {
+      "id": "te:markets:558409",
+      "time": "2026-06-11 21:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Southern Stock Price Hits 5-week High — Southern shares increased to 94.98 USD, the highest since May 2026. Over the past 4 weeks, Southern Co. gained 1.98%, and in the last 12 months, it increased 6.02%."
+    },
+    {
+      "id": "4930776",
+      "time": "2026-06-11 21:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "ATI與BWXT延長協議，以支援美國海軍核動力推進專案。"
+    },
+    {
+      "id": "4930775",
+      "time": "2026-06-11 21:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【分析：伊朗宣佈再次關閉霍爾木茲海峽的目的可能是希望向美國施壓】德國國際與安全事務研究所（SWP）客座研究員哈米德雷扎·阿齊齊 （Hamidreza Azizi）表示， 伊朗繼昨晚美國對伊朗發動空襲之後表示正進一步加強對霍爾木茲海峽的控制可能是希望對美國施壓。“ 即便（航運量）此前下降了90%或更多，但在技術層面上，該海峽從未真正關閉過。現在將其完全關閉，可能是對美國轟炸做出的反應”。“ 透過這一升級舉動，伊朗的主要意圖似乎是衝擊能源價格。他表示，德黑蘭顯然企圖再次對這一戰略水道的航運‘施加最大壓力’。”"
+    },
+    {
+      "id": "4930774",
+      "time": "2026-06-11 21:40:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "達納股價下跌17.2%。"
+    },
+    {
+      "id": "4930773",
+      "time": "2026-06-11 21:40:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【5個月神話破滅！“全球首款可量產的全固態電池”造假實錘】從宣佈量產到被證實造假，Donut Lab的固態電池只撐了五個月。6月9日，一份行業調查研究結果顯示，芬蘭初創公司Donut Lab宣稱量產的鈉離子固態電池，實際是普通鋰離子電池。"
+    },
+    {
+      "id": "te:markets:558408",
+      "time": "2026-06-11 21:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.46% Higher — The Dow Jones Index is up by 230 points or 0.46 percent on Thursday. Top gainers are Caterpillar (1.84%), Honeywell International (1.81%) and Verizon (1.62%). Biggest losses came from Salesforce (-2.35%), Microsoft (-1.84%) and Cisco Systems (-1.00%)."
+    },
+    {
+      "id": "4930772",
+      "time": "2026-06-11 21:39:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【於東來：胖東來未有任何調降工資政策】胖東來創始人於東來在社交平臺發文表示，關於網路關於員工工資問題，胖東來未有任何調降工資政策。胖東來只是在培訓中引導員工持繼學習提升個人品格及專業能力，跟上公司運營標準，成就員工個性自信和美好生活的能力，請大家不要誤讀。"
+    },
+    {
+      "id": "4930771",
+      "time": "2026-06-11 21:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：如果能源供應中斷更加嚴重並伴隨重大金融壓力，2026年全球GDP增速可能放緩至1.3%。"
+    },
+    {
+      "id": "4930770",
+      "time": "2026-06-11 21:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美國曾試圖向伊朗人民提供武器 但地區盟友“讓人失望”】據福克斯新聞，美國總統特朗普證實，美國曾試圖向伊朗人民提供武器，以推翻德黑蘭政權，但地區盟友“讓人失望了”。特朗普稱，美國向伊朗的地區對手——庫爾德武裝——提供了武器，但他認為庫爾德人私自保留了武器，而非分發武器。特朗普說：“庫爾德人讓我們失望了。我會記住的，庫爾德人。”他接著表示，他最初反對該計劃，就是懷疑庫爾德人會“保留這些武器”。"
+    },
+    {
+      "id": "mkt:019eb6e7-7af4-7dd8-afc3-42851ad62b32",
+      "time": "2026-06-11 21:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde's press conference has concluded."
+    },
+    {
+      "id": "te:markets:558406",
+      "time": "2026-06-11 21:37:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound from 1-Month Low — US equity indices slightly rebounded from one-month lows on Thursday with support from the tech sector, offsetting risks of higher interest rates. The S&P 500, Dow, and Nasdaq rose up to 0.5%. US President Trump stated that the US will resume strikes against Iran tonight and capture the Iranian energy hub of Kharg Island \"at some point\", reversing de-escalatory remarks yesterday. Simultaneously, a new PPI print pointed to accelerating prices in May, consolidating the impact of the war in price growth and aligning with recent bets that the Fed will raise rates this year. Still, AI infrastructure companies carried their strong momentum as the SpaceX IPO tomorrow underscores how hyperscalers are spending in compute capacity. Nvidia gained 1%. Also, Intel jumped 9% after being upgraded by BofA on soaring CPU orders. On the other hand, Oracle slumped 12% as it will take in more debt to finance data centers despite flat sales. Microsoft, and Meta dropped over 1%."
+    },
+    {
+      "id": "4930769",
+      "time": "2026-06-11 21:37:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京海光芯正科技股份有限公司透過港交所上市聆訊】據港交所檔案：北京海光芯正科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "4930768",
+      "time": "2026-06-11 21:35:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數開盤走高，最新漲超3%。"
+    },
+    {
+      "id": "mkt:019eb6e5-68ae-7dd8-afc3-3dc102fae0e1",
+      "time": "2026-06-11 21:35:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "WBG projects GDP growth for emerging market and developing economies at 3.6% in 2026, a 0.4 percentage-point downgrade from its January forecast."
+    },
+    {
+      "id": "4930767",
+      "time": "2026-06-11 21:35:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國建材集團董事長周育先會見泰國正大集團資深董事長謝國民一行】6月11日，中國建材集團董事長周育先在集團總部會見了泰國正大集團資深董事長謝國民一行，雙方就深化戰略合作、實現深度互利共贏進行了座談交流。周育先指出，自2025年8月拜訪正大集團、簽訂戰略合作協議以來，雙方團隊全力推動合作落地，已取得良好進展。未來雙方在綠色建材、複合材料、智慧農業、新能源和環保等領域合作前景十分廣闊。下一步，中國建材將精準對接正大集團全球佈局需求，推動合作向更高維度、更寬領域、更深層次邁進。"
+    },
+    {
+      "id": "mkt:019eb6e4-c5ef-7dd8-afc3-321ec64216a3",
+      "time": "2026-06-11 21:35:06",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "WBG says risks to the outlook for global growth and trade are 'considerable'."
+    },
+    {
+      "id": "mkt:019eb6e4-9cef-7dd8-afc3-28a73bab4adc",
+      "time": "2026-06-11 21:34:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "WBG raises 2027 US growth forecast to 2.1% from 1.9%."
+    },
+    {
+      "id": "mkt:019eb6e4-7e76-7dd8-afc3-25e3864353ac",
+      "time": "2026-06-11 21:34:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE: short-term inf expectations rising. Long-term inf expectations broadly stable around the target."
+    },
+    {
+      "id": "mkt:019eb6e4-0a25-7dd8-afc3-1d4c8a00ca35",
+      "time": "2026-06-11 21:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG projects global economic activity to recover in 2027-2028, with average annual GDP growth of 2.8%."
+    },
+    {
+      "id": "4930766",
+      "time": "2026-06-11 21:34:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "維多利亞的秘密公司：唐娜·詹姆斯以超過83%的贊成票獲得連任。"
+    },
+    {
+      "id": "mkt:019eb6e3-cd51-7dd8-afc3-1308d96f398e",
+      "time": "2026-06-11 21:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "WBG cuts growth forecasts for two-thirds of developing countries."
+    },
+    {
+      "id": "te:markets:558405",
+      "time": "2026-06-11 21:33:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 10th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the tenth successive session on Thursday, falling about 1.5% to a new low since May 1st at 2,729 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 3.7% to 4,140 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.8% to 2,251 points; and the supramax index went up 0.9% to 1,633 points."
+    },
+    {
+      "id": "mkt:019eb6e3-904d-7dd8-afc3-0c338ab8f5cd",
+      "time": "2026-06-11 21:33:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "WBG says if energy supply disruptions worsen and are accompanied by major financial stress, global GDP growth could slow to 1.3% in 2026."
+    },
+    {
+      "id": "mkt:019eb6e2-f6de-7dd8-afc3-07e77ff478a8",
+      "time": "2026-06-11 21:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "WBG maintains its 2026 US GDP growth forecast at 2.2%."
+    },
+    {
+      "id": "4930765",
+      "time": "2026-06-11 21:32:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【世界銀行警告：由於不確定性太高，無法對伊朗、黎巴嫩、敘利亞今年經濟做出預測】世界銀行(World Bank)週四表示，在衝突的鄰近地區，該行預計伊拉克、科威特和卡達的經濟今年將分別萎縮8.9%、6.4%和5.7%。該行表示，由於不確定性太高，無法對伊朗、黎巴嫩、敘利亞做出預測。該行的經濟學家預測，今年大宗商品價格將上漲22%，而他們在1月份的預期是下跌7%。價格上漲主要由石油驅動，目前預計2026年油價將平均達到每桶94美元，比1月份的預測高出34美元。但價格上漲不僅限於能源領域。該行目前預計，工業金屬價格將比2025年上漲18%，化肥價格預計將上漲38%。至於今年，得益於糧食豐收，該行預計食品價格的漲幅將相對溫和，為3%。如果該海峽直到今年第四季度才重新開放，世界銀行預計經濟增速將僅為2.1%，今年油價平均為每桶115美元，並將在明年很長一段時間內保持高位。"
+    },
+    {
+      "id": "mkt:019eb6e2-c6ae-7dd8-afc2-fe765a775f69",
+      "time": "2026-06-11 21:32:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "WBG projects euro area GDP growth of 0.8% in 2026, down from a 0.9% forecast in January."
+    },
+    {
+      "id": "mkt:019eb6e2-8a24-7dd8-afc2-f501faafbcad",
+      "time": "2026-06-11 21:32:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "WBG cuts 2026 Middle East GDP growth forecast to 1.6% from 4.3% in January."
+    },
+    {
+      "id": "4930764",
+      "time": "2026-06-11 21:32:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【世界銀行警告：若戰爭持續，全球經濟增速或降至2025年的一半】世界銀行(World Bank)週四表示，如果中東衝突導致能源供應長期減少和股價大幅下跌，那麼今年全球經濟的增速可能不到2025年的一半。這場衝突現已進入第四個月，幾乎沒有持久和平的跡象。美國週三開始對伊朗發動新一輪攻擊，根據美國總統特朗普(Trump)的命令對多個目標發動了打擊。世界銀行在一份關於全球展望的半年度報告中表示，假設石油、天然氣和其他原材料透過霍爾木茲海峽(Strait of Hormuz)的運輸從8月份開始恢復正常，該行預計今年經濟增速將從去年的2.9%放緩至2.5%。這一預測較1月份2.6%的增速預期小幅下調，但若不計疫情期間的經濟萎縮和2009年全球金融危機期間的產出下降，這將是1991年以來最疲軟的一年。不過，世界銀行警告說，衝突持續時間越長，經濟放緩的幅度就越大。世界銀行首席經濟學家因德米特·吉爾(Indermit Gill)表示：“敵對行動再次升級或大宗商品供應中斷時間延長，可能進一步推高大宗商品價格，加劇通脹壓力和糧食不安全，引發金融壓力，並拉低經濟增長。”如果航運中斷問題很快結束，世界銀行預計今年美國經濟將增長2.2%，與1月份的預測持平。但該行表示，受衝突影響，全球約三分之二的經濟體將面臨增長放緩，發展中國家將遭受最嚴重的挫折，而最貧困的家庭將受創最深。"
+    },
+    {
+      "id": "mkt:019eb6e1-f64d-7dd8-afc2-edc1df85f96e",
+      "time": "2026-06-11 21:32:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened higher on Thursday, June 11: Dow Jones Industrial Average up 239.09 points (0.48%) at 50,157.87; S&P 500 up 26.13 points (0.36%) at 7,293.12; Nasdaq Composite up 116.30 points (0.46%) at 25,285.80."
+    },
+    {
+      "id": "mkt:019eb6e1-e58b-7dd8-afc2-e33160963046",
+      "time": "2026-06-11 21:31:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said the main risk is failing to raise rates; allowing inflation to run out of control would make it harder to rein in."
+    },
+    {
+      "id": "4930763",
+      "time": "2026-06-11 21:31:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，盛豐物流跌9.49%，中進醫療跌5.93%，金山雲跌5.42%，小鵬汽車跌5.25%，優品車跌3.72%。"
+    },
+    {
+      "id": "mkt:019eb6e1-bdc4-7dd8-afc2-dbe0526e4971",
+      "time": "2026-06-11 21:31:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US tried to arm Iranians, accuses Kurdish partners of withholding weapons】Trump told Fox News the US had tried to supply weapons to the Iranian people to topple the Tehran regime. He said weapons were routed to Iran’s regional opponents — Kurdish forces — but accused them of keeping rather than distributing the arms, saying the Kurds let us down and I will remember that. Trump added he initially opposed the plan because he suspected the Kurds would retain the weapons."
+    },
+    {
+      "id": "4930762",
+      "time": "2026-06-11 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "NAVAN股票開盤飆升17%，創歷史新高。"
+    },
+    {
+      "id": "4930761",
+      "time": "2026-06-11 21:31:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "英特爾股價上漲7.4%，此前美國銀行將英特爾的評級上調至“買入”兩倍。"
+    },
+    {
+      "id": "4930760",
+      "time": "2026-06-11 21:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價開盤下跌12%，創12月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019eb6e1-6ab6-7dd8-afc2-d106ffe12440",
+      "time": "2026-06-11 21:31:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "WBG lowered its global economic growth forecast to 2.5%, the lowest since the COVID pandemic."
+    },
+    {
+      "id": "mkt:019eb6e0-f755-7dd8-afc2-cb4f2938b9d6",
+      "time": "2026-06-11 21:30:57",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bearish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) fell 0.5%. The company priced a 75 mln ADS offering at $50 per ADS."
+    },
+    {
+      "id": "4930759",
+      "time": "2026-06-11 21:30:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "超微電腦(SMCI.O)跌0.5%，公司以50美元/ADS的價格定價發行7500萬股存托股份。"
+    },
+    {
+      "id": "4930758",
+      "time": "2026-06-11 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.50%，標普500指數漲0.41%，納指漲0.55%。英特爾漲7.25%，應用材料漲5.53%，林氏研究漲5.24%，科磊漲4.18%。“七姐妹”方面：特斯拉漲1.37%，英偉達漲1.12%，蘋果漲0.25%，亞馬遜漲0.06%，谷歌跌0.22%，微軟跌0.61%，Meta Platforms跌1.00%。"
+    },
+    {
+      "id": "mkt:019eb6e0-c8f3-7dd8-afc2-c781fb6513fa",
+      "time": "2026-06-11 21:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "ORCL.N",
+        "Impact bearish",
+        "INTC.O",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. stocks opened higher: Dow Jones +0.42%, S&P 500 +0.5%, Nasdaq +0.5%. Oracle (ORCL.N) fell about 11% after the company said planned financing for the new fiscal year will double to $40 billion; Intel (INTC.O) jumped 7% after Bank of America upgraded the stock to Buy."
+    },
+    {
+      "id": "4930757",
+      "time": "2026-06-11 21:30:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行預測2026年布倫特原油均價為每桶94美元，較1月預測上調34美元。"
+    },
+    {
+      "id": "4930756",
+      "time": "2026-06-11 21:30:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌9.49%，中進醫療跌5.93%，優品車跌3.72%，金山雲跌4.43%，小鵬汽車跌2.89%。"
+    },
+    {
+      "id": "te:markets:558404",
+      "time": "2026-06-11 21:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 167.50 USD, the lowest since May 2026. Over the past 4 weeks, Salesforce Inc lost 5.57%, and in the last 12 months, it decreased 36.97%."
+    },
+    {
+      "id": "4930755",
+      "time": "2026-06-11 21:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行將中東地區2026年GDP增長預測從1月預期的4.3%下調至1.6%，2025年預測值為4%。"
+    },
+    {
+      "id": "te:markets:558403",
+      "time": "2026-06-11 21:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Stock Price Hits 5-week Low — Oracle shares decreased to 178.19 USD, the lowest since May 2026. Over the past 4 weeks, Oracle gained 3.83%, and in the last 12 months, it increased 14.11%."
+    },
+    {
+      "id": "4930754",
+      "time": "2026-06-11 21:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行將全球經濟增長預測下調至2.5%，並警告若戰爭影響蔓延至市場，增速可能降至1.3%。"
+    },
+    {
+      "id": "4930753",
+      "time": "2026-06-11 21:29:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【特斯拉美股盤前漲超2%】特斯拉美股盤前漲超2%，現報389.5美元。"
+    },
+    {
+      "id": "4930752",
+      "time": "2026-06-11 21:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普為什麼想要奪取哈爾克島】據媒體報道，美國總統唐納德·特朗普剛剛表示，美國將“奪取”伊朗的哈爾克島（Kharg Island）及其他伊朗石油基礎設施。 該島是緊鄰伊朗海岸的珊瑚露頭島，被稱為德黑蘭的“經濟生命線”，全長承載了伊朗約90%的原油出口。 其面積約為曼哈頓的三分之一。美國官員將其定義為“伊朗所有石油供應的樞紐”。該島擁有延伸至深水區的長型防波堤，水深足以靠泊超大型原油輪（VLCC/超級油輪），使其成為全球石油分銷網路的關鍵節點。 此前，白宮已制定了奪取卡爾格島或授權實施轟炸的備選方案，旨在徹底摧毀其石油基礎設施。白宮同時在評估奪取霍爾木茲海峽附近其他戰略島嶼的可能性，以削弱伊朗對透過該水道的商用油輪的威懾能力，白宮認為，佔領該島將“直接導致伊朗伊斯蘭革命衛隊（IRGC）徹底破產”。"
+    },
     {
       "id": "mkt:019eb6dd-6a4f-7dd8-afc2-b9f967d2a646",
       "time": "2026-06-11 21:27:04",
@@ -39,6 +548,14 @@
         "Impact bearish"
       ],
       "text": "ECB President Lagarde said inflation will return to target in autumn 2027."
+    },
+    {
+      "id": "4930749",
+      "time": "2026-06-11 21:26:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院院士陳十一：CAE是物理AI進入工業世界的關鍵底座】6月11日，第四屆軟體創新發展大會在武漢舉行。寧波東方理工大學校長、中國科學院院士陳十一在會上表示，物理AI的核心不是“生成內容”，而是理解、預測和影響真實物理世界。CAE提供物理規律、模擬資料、工程約束和驗證閉環，是物理AI進入工業世界的關鍵底座。AI正在重構CAE，使其從專家工具進化為可互動、可推理、可執行的工業智慧體。抓住AI+CAE融合視窗，有望形成中國自主工業軟體與AI平臺新優勢。"
     },
     {
       "id": "mkt:019eb6dc-5845-7dd8-afc2-ae0f4cfec51c",
@@ -169,6 +686,14 @@
         "公司"
       ],
       "text": "【安克創新CEO稱充電寶大機率過幾年就死了】近日，安克創新創始人陽萌在一次訪談中表示，充電寶不但不會變成千億級品類產品，甚至有可能過幾年就會消失。陽萌以MP3、磁帶機、CD機類比稱電子產品從大家開始買它到不買它，中間的跨度也就10年。"
+    },
+    {
+      "id": "4930737",
+      "time": "2026-06-11 21:20:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江省長劉捷在湖州調研】6月11日，省委副書記、省長劉捷在湖州調研。他強調，要深入貫徹習近平總書記關於碳達峰碳中和的重要論述和考察浙江重要講話精神，聚焦落實總書記“4+1”重要要求和省委“132”總體工作部署，堅持“雙碳”引領、創新賦能，以實實在在的工作舉措，紮實走好綠色轉型發展之路，為加快建設更高水平生態省作出更大貢獻。 珀萊雅公司近年來加快綠色工廠建設，不斷推進企業智慧化和綠色低碳轉型。劉捷實地察看企業“零碳平臺”執行情況，勉勵企業加快裝置更新和技術改造，繼續創新探索減排路徑，在推動“雙碳”工作中不斷提升產品附加值和品牌影響力。作為全省首批零碳（近零碳）工廠培育建設物件，美欣達公司透過工藝技術創新、資源迴圈利用，推動碳排放強度有效下降。劉捷走進企業生產車間，仔細詢問傳統印染行業節能減排工作成效，鼓勵企業加快節能降碳關鍵技術攻堅，充分挖掘好行業減排潛力，助力高階化、智慧化、綠色化發展。三時紀和孔輝科技堅持科技創新賦能，大力發展高階製造，碳效評價在行業中處於領先水平。劉捷走進兩家企業，詳細瞭解企業生產經營和節能減排情況，希望企業搶抓人工智慧發展機遇，繼續深耕主業，加大科技創新投入，著力提高用能效率，推動產業鏈向高向新向綠髮展。（浙江釋出）"
     },
     {
       "id": "4930736",
@@ -170120,531 +170645,6 @@
         "Importance 1"
       ],
       "text": "Broadcom Stock Price Hits 5-week Low — Broadcom shares decreased to 404.45 USD, the lowest since April 2026. Over the past 4 weeks, Broadcom Inc lost 2.6%, and in the last 12 months, it increased 55.39%."
-    },
-    {
-      "id": "4917647",
-      "time": "2026-06-04 21:43:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技股價跌破1000美元】美光科技股價下跌7.61%，報997.4美元/股，總市值報1.12萬億美元。"
-    },
-    {
-      "id": "mkt:019e92df-b551-7dd1-a9a5-cd47b4412fe0",
-      "time": "2026-06-04 21:43:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Fitch: Strait of Hormuz closure has lasted 14 weeks and is assumed to begin reopening only in July. Fitch raises its 2026 average Brent crude assumption to $87/bbl from $70/bbl in March."
-    },
-    {
-      "id": "4917646",
-      "time": "2026-06-04 21:42:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "寵物零售商Petco股價在其公佈一季度業績及展望後下跌15.4%。"
-    },
-    {
-      "id": "mkt:019e92df-56dc-7dd1-a9a5-c6b2df69bf4f",
-      "time": "2026-06-04 21:42:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fitch says an oil-price shock triggered by a US-Iran war has weakened the global growth outlook and cuts its 2026 global growth forecast by 0.2 percentage point to 2.4%."
-    },
-    {
-      "id": "mkt:019e92de-25f5-7dd1-a9a5-b91c3164f6ba",
-      "time": "2026-06-04 21:41:12",
-      "tags": [
-        "MKT News",
-        "CIEN.O",
-        "Impact bearish",
-        "LITE.O",
-        "GLW.N"
-      ],
-      "text": "US-listed optical-communications stocks opened lower; Ciena fell nearly 16% after reporting earnings, POET dropped about 7%, Lumentum fell ~6%, Marvell and Nokia were off more than 5%, and Corning declined over 4%."
-    },
-    {
-      "id": "4917645",
-      "time": "2026-06-04 21:40:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "Mobix Labs 擬收購美國本土無人機製造商 Vision Aerial。"
-    },
-    {
-      "id": "4917644",
-      "time": "2026-06-04 21:40:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股盤初下跌】美股光通訊股盤初下跌，Ciena績後大跌近16%，POET跌近7%，Lumentum跌近6%，邁威爾科技、諾基亞跌超5%，康寧跌超4%。"
-    },
-    {
-      "id": "mkt:019e92dd-21ea-7dd1-a9a5-b4ae9998b05a",
-      "time": "2026-06-04 21:40:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the best way to reduce the threat posed by Hezbollah is to strengthen the Lebanese state."
-    },
-    {
-      "id": "te:markets:556549",
-      "time": "2026-06-04 21:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 1.08% Higher — The Dow Jones Index is up by 549 points or 1.08 percent on Thursday. Top gainers are UnitedHealth (4.86%), Merck (3.61%) and American Express (2.75%)."
-    },
-    {
-      "id": "mkt:019e92dc-a47b-7dd1-a9a5-a985d7aa0ae4",
-      "time": "2026-06-04 21:39:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fitch: oil crisis hits global growth outlook."
-    },
-    {
-      "id": "4917643",
-      "time": "2026-06-04 21:39:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外歐盟外交與安全政策高階代表卡拉斯：削弱真主黨構成威脅的最佳方式是強化黎巴嫩國家政權。"
-    },
-    {
-      "id": "4917642",
-      "time": "2026-06-04 21:39:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：石油危機衝擊全球經濟增長前景，預測下調。"
-    },
-    {
-      "id": "mkt:019e92dc-3708-7dd1-a9a5-a528cd61df03",
-      "time": "2026-06-04 21:39:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the EU today agreed to provide an additional €100 mln in assistance to the Lebanese Armed Forces."
-    },
-    {
-      "id": "4917641",
-      "time": "2026-06-04 21:39:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟今日同意額外向黎巴嫩武裝部隊提供1億歐元撥款。"
-    },
-    {
-      "id": "mkt:019e92db-0fcb-7dd1-a9a5-9a98bf58b1f1",
-      "time": "2026-06-04 21:38:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "At the open on June 4, the Dow Jones Industrial Average rose 523.73 points, or 1.03%, to 51,210.80; the S&P 500 fell 24.66 points, or 0.33%, to 7,529.02; the Nasdaq Composite fell 279.95 points, or 1.04%, to 26,574.02."
-    },
-    {
-      "id": "4917640",
-      "time": "2026-06-04 21:37:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "應用航空航天與國防公司（Applied Aerospace & Defense）紐交所上市次日股價上漲3.2%。"
-    },
-    {
-      "id": "mkt:019e92da-8eee-7dd1-a9a5-95a8d8959720",
-      "time": "2026-06-04 21:37:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shares of Applied Aerospace & Defense rose 3.2% on the day after its NYSE listing."
-    },
-    {
-      "id": "4917639",
-      "time": "2026-06-04 21:37:18",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【道明證券：美元表現比歐洲央行更有可能推動歐元走勢】道明證券策略師在一份報告中表示，歐元上漲的潛力更多地取決於美元下跌，而不是歐洲央行可能加息。他們表示，歐洲央行可能會在6月11日加息，但歐元的任何漲幅都可能有限，因為市場預期今年將有超過兩次的加息，而且近期歐元區資料弱於預期。“雖然我們繼續預計歐元到今年年底將升至1.20美元，但進一步走強可能需要美元全面走弱。“他們表示，美國資料和美聯儲6月17日的決定將決定美元是否下跌。"
-    },
-    {
-      "id": "4917638",
-      "time": "2026-06-04 21:36:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "riot股價下跌2.7%，Hut 8礦業公司股價下跌4.9%，瑪拉控股股價下跌2.2%。"
-    },
-    {
-      "id": "4917637",
-      "time": "2026-06-04 21:36:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "加密貨幣個股下跌，比特幣價格觸及近四個月低位。ProShares比特幣策略交易所交易基金下跌2.6%，iShares比特幣信託下跌2.6%。"
-    },
-    {
-      "id": "mkt:019e92d9-672a-7dd1-a9a5-8acc09792729",
-      "time": "2026-06-04 21:36:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese military said Israeli forces withdrew from a town in southern Lebanon."
-    },
-    {
-      "id": "4917636",
-      "time": "2026-06-04 21:36:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，大全新能源漲6.94%，小牛電動漲6.25%，騰訊音樂漲3.99%，億咖通科技漲3.76%，嗶哩嗶哩漲3.47%。"
-    },
-    {
-      "id": "4917635",
-      "time": "2026-06-04 21:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍方稱以色列部隊撤出黎巴嫩南部城鎮。"
-    },
-    {
-      "id": "mkt:019e92d9-1f2b-7dd1-a9a5-8109bc96d5dd",
-      "time": "2026-06-04 21:36:03",
-      "tags": [
-        "MKT News",
-        "BAC.N"
-      ],
-      "text": "BofA (BAC.N) said it will roll out a cross-border real-time payments solution next quarter to expand its global payments options."
-    },
-    {
-      "id": "4917634",
-      "time": "2026-06-04 21:35:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行將於下季度推出跨境實時支付解決方案。"
-    },
-    {
-      "id": "4917633",
-      "time": "2026-06-04 21:35:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行將推出跨境實時支付服務，拓展全球支付選擇範圍。"
-    },
-    {
-      "id": "4917632",
-      "time": "2026-06-04 21:35:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "睡眠數字公司（Sleep Number）股價暴跌65%，至每股0.38美元，此前報道稱公司正準備提交破產申請。"
-    },
-    {
-      "id": "4917631",
-      "time": "2026-06-04 21:34:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【李飛飛長文拆解世界模型實現路徑】世界模型是自去年以來人工智慧領域的熱詞，不僅備受追捧，且存在多種技術路線。作為世界模型的領軍人物之一，AI科學家李飛飛6月4日與其創辦的World Labs團隊在美國內容釋出與訂閱平臺substack上發表題為《世界模型的功能分類：渲染器、模擬器、規劃器，以及連線它們的迴圈》的長文，試圖釐清2025年以來“世界模型”這個概念在使用上的混亂。李飛飛表示，大語言模型讓機器學會了遣詞造句和邏輯推理，但物理世界執行的底層邏輯完全不同。語言模型學的是文字的統計規律，而世界模型學的是時空的統計規律，比如光怎麼照在物體上、東西受力後怎麼運動。正因為涉及物理世界，計算機視覺、機器人、強化學習、生成式AI等領域都在用“世界模型”這個詞。一個能生成火焰影片的模型、一個能憑空生成可玩遊戲的語言模型、一個能精確模擬燃燒過程的物理引擎，現在都被叫作世界模型，但它們實際在做三件完全不同的事：渲染、模擬和規劃。其中，模擬器得到的公眾關注最少，卻可能是讓AI真正理解物理世界的基礎。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019e92d8-ed60-7eec-b8aa-bd3b8fd2493f",
-      "time": "2026-06-04 21:34:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sleep Number shares plunged 65% to $0.38 per share after the Wall Street Journal reported the company is preparing to file for bankruptcy."
-    },
-    {
-      "id": "te:markets:556548",
-      "time": "2026-06-04 21:34:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Mixed on Thursday — US equity indices were mixed on Thursday as fresh pressure on the AI economy offset support from some respite in Treasuries. The S&P 500 dropped 0.5% and the Nasdaq 100 fell 1%. Broadcom sank 15% despite beating earnings estimates, as its forecast for AI chip revenue fell short of most expectations. The signals reignited lingering concerns that the surge in AI capital expenditure by the largest companies in the US, which have carried US equity indices in recent quarters, may not be sustainable. Also, Crowdstrike also slipped over 10% after posting its earnings. Still, energy prices trimmed their increase last sessions on signals that the US is attempting to strike a deal with Iran. Bonds were also supported by the increase in job cuts per the latest data. The Dow added over 1% with support from defensive stocks as P&G and J&J added 2%. Blackstone gained 1.5%, rebounding from the slump yesterday despite being the latest private credit firm to cap withdrawals."
-    },
-    {
-      "id": "4917630",
-      "time": "2026-06-04 21:34:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "Five Below股價在一季度業績釋出後下跌10.9%，業績顯示銷售額增速正在放緩。"
-    },
-    {
-      "id": "4917629",
-      "time": "2026-06-04 21:33:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "博通不及預期，美國晶片製造商股價集體下跌。美光科技下跌6.8%，超威半導體（AMD）下跌4.6%，英特爾下跌4.2%，高通下跌3.5%，美滿電子科技下跌5.8%。"
-    },
-    {
-      "id": "mkt:0e6e668d-1e64-4ab4-bcdd-e4791e54f295",
-      "time": "2026-06-04 21:33:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UnitedHealth (UNH.N) rose 4.8% after BofA Global Research upgraded the stock to Buy from Neutral."
-    },
-    {
-      "id": "4917628",
-      "time": "2026-06-04 21:32:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "聯合健康集團股價上漲4.8%，此前美銀全球研究將其評級從“中性”上調至“買入”。"
-    },
-    {
-      "id": "mkt:12ccbf11-9a7f-4e0c-a521-5db0a7c840b7",
-      "time": "2026-06-04 21:32:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Broadcom (AVGO.O) shares plunged 15%, the largest decline since January 2025."
-    },
-    {
-      "id": "te:markets:556547",
-      "time": "2026-06-04 21:32:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AbbVie Stock Price Hits 11-week High — AbbVie shares increased to 223.68 USD, the highest since March 2026. Over the past 4 weeks, AbbVie gained 4.28%, and in the last 12 months, it increased 15.87%."
-    },
-    {
-      "id": "4917627",
-      "time": "2026-06-04 21:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大皇家銀行資本市場將博通（Broadcom）的目標股價從 360.00 美元上調至 400.00 美元。"
-    },
-    {
-      "id": "mkt:ac294139-1b7b-4b48-ab67-ed73014f8a1b",
-      "time": "2026-06-04 21:32:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer, on the EU-U.S. agreement and Section 301 tariffs: an agreement is an agreement."
-    },
-    {
-      "id": "4917626",
-      "time": "2026-06-04 21:32:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德國一客機起落架坍塌多人傷】德國漢莎航空公司一架波音787-9“夢想客機”今天（4日）在法蘭克福機場停靠登機口時，前起落架突然坍塌，導致機身受損，多名機組人員受傷接受醫療救治。受此影響，該客機原定於今日執飛LH450次航班前往美國洛杉磯的航程已被取消。法蘭克福機場和漢莎航空方面尚未公佈事故原因。據悉，這架客機今年1月交付使用。 (CCTV國際時訊)"
-    },
-    {
-      "id": "4917625",
-      "time": "2026-06-04 21:32:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CrowdStrike股價下跌7.6%，此前該公司公佈第一季度運營支出高於預期。"
-    },
-    {
-      "id": "4917624",
-      "time": "2026-06-04 21:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通股價暴跌15%，創2025年1月以來最大跌幅。"
-    },
-    {
-      "id": "mkt:8044c390-ab1a-445e-bc83-79cf547c5ce4",
-      "time": "2026-06-04 21:31:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said U.S. consumers and global trade have shown resilience."
-    },
-    {
-      "id": "4917623",
-      "time": "2026-06-04 21:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾稱美國消費者和全球貿易都展現出了韌性。"
-    },
-    {
-      "id": "mkt:019e92d5-0700-7eec-b8aa-a4a8099ae371",
-      "time": "2026-06-04 21:30:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "AVGO.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【US stocks open mixed; Broadcom plunges 14% after earnings】U.S. stocks opened mixed: Dow +1.0%, S&P 500 -0.4%, Nasdaq -1.0%. Broadcom (AVGO) plunged 14% after earnings, trimming its market value below $2 trillion after guiding AI-chip revenue under market expectations. Semiconductor names were pressured: Micron Technology (MU) -6.7%, Arm (ARM) -7.3%, AMD (AMD) -5.3%, Intel (INTC) -3.4%, NVIDIA (NVDA) -0.5%."
-    },
-    {
-      "id": "4917622",
-      "time": "2026-06-04 21:30:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.95%，標普500指數跌0.37%，納指跌1.04%。博通跌13.67%，Ciena科技跌13.28%，CrowdStrike跌8.91%，挪威郵輪漲6.78%，聯合健康漲4.21%。“七姐妹”方面：亞馬遜漲0.92%，微軟漲0.91%，Meta Platforms漲0.81%，蘋果漲0.62%，谷歌漲0.49%，英偉達跌0.42%，特斯拉跌1.09%。"
-    },
-    {
-      "id": "te:markets:556546",
-      "time": "2026-06-04 21:30:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Deere & Company Stock Price Hits 6-week High — Deere & Company shares increased to 594.95 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 2.43%, and in the last 12 months, it increased 16.67%."
-    },
-    {
-      "id": "4917621",
-      "time": "2026-06-04 21:30:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾： 針對產能過剩問題的 301 條款複雜調查將於數週內啟動。"
-    },
-    {
-      "id": "te:markets:556545",
-      "time": "2026-06-04 21:30:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Abbott Stock Price Hits 4-week High — Abbott shares increased to 90.00 USD, the highest since May 2026. Over the past 4 weeks, Abbott lost 0.59%, and in the last 12 months, it decreased 34.55%."
-    },
-    {
-      "id": "te:markets:556544",
-      "time": "2026-06-04 21:30:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of America Stock Price Hits 4-week High — Bank Of America shares increased to 53.13 USD, the highest since May 2026. Over the past 4 weeks, Bank Of America gained 0.4%, and in the last 12 months, it increased 18.12%."
-    },
-    {
-      "id": "te:markets:556543",
-      "time": "2026-06-04 21:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Amgen Stock Price Hits 5-week High — Amgen shares increased to 345.87 USD, the highest since April 2026. Over the past 4 weeks, Amgen gained 6.8%, and in the last 12 months, it increased 20.51%."
-    },
-    {
-      "id": "te:markets:556542",
-      "time": "2026-06-04 21:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Wells Fargo Stock Price Hits 4-week High — Wells Fargo shares increased to 80.00 USD, the highest since May 2026. Over the past 4 weeks, Wells Fargo lost 0.63%, and in the last 12 months, it increased 4.38%."
-    },
-    {
-      "id": "mkt:019e92d3-4dff-7eec-b8aa-9a3cf0784020",
-      "time": "2026-06-04 21:29:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China launches 11 Qianfan polar-orbit satellites】China launched 11 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center today aboard a modified Long March-6 carrier rocket; the satellites entered their planned orbit and the mission was successful."
-    },
-    {
-      "id": "4917620",
-      "time": "2026-06-04 21:29:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千帆極軌11組衛星發射成功】今天，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌11組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。（央視新聞）"
-    },
-    {
-      "id": "4917619",
-      "time": "2026-06-04 21:29:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航新科技：公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付】航新科技在互動平臺表示，公司在國產飛機附件研製生產方面取得了良好進展。公司研製的C909資料印表機已成功進入商飛裝機清單，實現批次交付。實時監控管理元件（RTMU）、無線快速存取記錄器（WQAR）等關鍵機載裝置已完成適航審定，實現批次交付與裝機運營，產品可適配商飛、空客、波音多系列機型。"
-    },
-    {
-      "id": "4917618",
-      "time": "2026-06-04 21:28:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【禮來美股盤前漲超2%】禮來美股盤前漲超2%，現報1101.0美元。"
     }
   ]
 }
