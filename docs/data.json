@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-11 10:26:55",
-  "count": 18418,
+  "updated": "2026-06-11 10:30:37",
+  "count": 18411,
   "items": [
+    {
+      "id": "4929427",
+      "time": "2026-06-11 10:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7942.80點。"
+    },
+    {
+      "id": "4929426",
+      "time": "2026-06-11 10:29:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股汽車股多數下跌，小鵬集團-W跌近7%】港股汽車股多數下跌，小鵬集團-W跌近7%，理想汽車-W跌近4%，零跑汽車、小米集團-W、比亞迪股份跌超2%。"
+    },
+    {
+      "id": "4929425",
+      "time": "2026-06-11 10:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣和通子公司AN762S 5G智慧座艙模組獲兩大頭部合資車企百萬量級新專案定點】據廣和通訊息，廣和通子公司廣通遠馳AN762S 5G智慧座艙模組獲兩大頭部合資車企新專案定點，產品將適配多款明星車型，專案生命週期內預計出貨量超百萬臺。"
+    },
+    {
+      "id": "4929424",
+      "time": "2026-06-11 10:27:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國“元”公司要與印度信實合建AI資料中心】美國“元”公司(Meta)10日宣佈，與印度信實工業公司達成合作協議，將在印度西部古吉拉特邦共建一座人工智慧(AI)資料中心。雙方在一份聯合宣告中說，信實工業將在賈姆訥格爾地區建立一座容量為168兆瓦的資料中心，專案兩年內交付投用，“元”公司將租賃該設施，後續可按需擴容。協議未披露具體財務細節。“元”公司執行長馬克·扎克伯格稱，將與信實集團合作，在印度建立首個人工智慧資料中心。信實工業公司董事長穆凱什·安巴尼稱，這也是印度為“元”公司量身打造的首個資料中心。（新華社）"
+    },
+    {
+      "id": "4929423",
+      "time": "2026-06-11 10:27:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【路虎攬勝極光跌至17.98萬元？銷售：屬實】2026年6月，汽車圈炸出震撼訊息——路虎攬勝極光L官方指導價42.98萬元起，而部分終端市場成交價格已經下探至17.98萬元甚至更低。不到三年時間，新車價格腰斬；與當年接近90萬元的落地價相比，跌幅甚至超過七成。 6月11日，上海永達捷豹路虎康橋店銷售表示目前路虎攬勝極光L裸車價17.98萬元，但是要貸款，如果不貸款的話裸車價是18.98萬。如果還想優惠可以申請以舊換新補貼，最高一萬元。 上海偉傑捷豹路虎吳中路店的銷售向記者表示，目前路虎攬勝極光L裸車價最低18.2萬，不需要貸款。（藍鯨新聞）"
+    },
     {
       "id": "4929422",
       "time": "2026-06-11 10:26:17",
@@ -169669,110 +169712,6 @@
         "2330.TW"
       ],
       "text": "TSMC co-chief operating officer said Intel's packaging technology is an alternative; each technology has its own challenges, and the company does not fear challenges or competition."
-    },
-    {
-      "id": "4916424",
-      "time": "2026-06-04 10:30:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電聯合營運長表示：英特爾的封裝技術是一個可選方案，每種技術都有其自身挑戰，我們從不畏懼挑戰與競爭。"
-    },
-    {
-      "id": "4916423",
-      "time": "2026-06-04 10:30:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長談馬斯克的超級晶片廠：祝他一切順利。"
-    },
-    {
-      "id": "mkt:019e9076-e233-7cc0-ba22-9143f86ead50",
-      "time": "2026-06-04 10:29:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military activity in Bohai Laizhou Bay】Yantai Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: military activities will take place in waters of Bohai Laizhou Bay on June 5 from 07:00 to 23:00 and June 6 from 07:00 to 22:00; entry to the area is prohibited."
-    },
-    {
-      "id": "4916422",
-      "time": "2026-06-04 10:28:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【餵豬有望不用進口大豆？中國科學家找到“丟失”的玉米高蛋白基因】中國科學院分子植物科學卓越創新中心巫永睿、王海海團隊，聯合上海師範大學王文琴團隊和四川農業大學黃永財團隊，近來成功挖掘和聚合了野生玉米的兩個高蛋白基因，將自交系籽粒蛋白含量從10%提升至15%，並將我國推廣面積最大的玉米雜交種鄭單958的籽粒蛋白含量從8.5%提升至12-13%，全株蛋白含量從7%提升至9%以上，且產量保持穩定。"
-    },
-    {
-      "id": "mkt:019e9076-3f54-7cc0-ba22-8cfa3ad6bd26",
-      "time": "2026-06-04 10:28:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【E Fund overtakes ChinaAMC as largest domestic ETF manager by AUM】Wind data show E Fund Management’s non-money-market ETF assets reached 616.748 bln yuan, narrowly surpassing ChinaAMC’s 616.504 bln yuan by 244 mln yuan. E Fund’s total ETF assets stand at 618.519 bln yuan versus ChinaAMC’s 616.613 bln yuan, making E Fund the top domestic ETF manager by AUM."
-    },
-    {
-      "id": "4916421",
-      "time": "2026-06-04 10:28:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【境內ETF規模第一的公募管理人易主 易方達基金新進為非貨ETF規模第一】境內ETF規模第一的公募管理人易主，Wind資料顯示，截至目前，易方達基金旗下非貨ETF規模達到6167.48億元，超過華夏基金（6165.04億元），成為行業第一。兩家管理人之間的規模差距僅2.44億元。同時，易方達基金旗下所有ETF規模也來到6185.19億元，同樣超過華夏基金（6166.13億元），位居行業第一。"
-    },
-    {
-      "id": "4916420",
-      "time": "2026-06-04 10:27:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海萊州灣軍事活動】據中國海事局網站訊息，煙臺海事局釋出航行警告，6月5日7時至23時，6月6日7時至22時，渤海萊州灣相關水域內進行軍事活動，禁止駛入。"
-    },
-    {
-      "id": "mkt:019e9075-2f2e-7cc0-ba22-8470bcac0b43",
-      "time": "2026-06-04 10:27:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's benchmark stock index continued to fall, extending losses to 3%."
-    },
-    {
-      "id": "mkt:019e9074-e58c-7cc0-ba22-7ff214bfc0c4",
-      "time": "2026-06-04 10:27:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "【TSMC sees 2026 revenue rising over 30% as AI infrastructure demand spurs capacity build】TSMC (TSM.N) said on Thursday that sustained investment in AI infrastructure has driven strong demand across chip segments and it now expects U.S. dollar-denominated revenue to rise more than 30% in 2026, in line with its recent earnings-call guidance and up from a 25% projection in January. The company is expanding capacity to meet unprecedented demand for large-scale AI compute. Chairman and CEO Wei Zhejia warned that continued electronic component price inflation could hurt the consumer electronics sector and said recent Middle East tensions add further uncertainty to the outlook."
-    },
-    {
-      "id": "4916419",
-      "time": "2026-06-04 10:27:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體材料板塊短線拉昇】半導體材料板塊短線拉昇，滬矽產業漲超10%，有研矽、艾森股份、立昂微、路維光電、中晶科技等跟漲。"
-    },
-    {
-      "id": "4916418",
-      "time": "2026-06-04 10:27:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼基準股指跌幅擴大至3%。"
-    },
-    {
-      "id": "4916417",
-      "time": "2026-06-04 10:26:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼基準股指跌幅達2.9%，報5766.848點。"
     }
   ]
 }
