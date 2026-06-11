@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-11 21:12:19",
-  "count": 18499,
+  "updated": "2026-06-11 21:16:12",
+  "count": 18506,
   "items": [
+    {
+      "id": "mkt:019eb6d3-10ad-7dd8-afc2-72cf8827fd20",
+      "time": "2026-06-11 21:15:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB President Lagarde said today's decision was not an aggressive move and that a 25bp rate hike was a signal and necessary."
+    },
+    {
+      "id": "4930730",
+      "time": "2026-06-11 21:15:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "衛龍美味全球宣佈計劃回購最多2億港元的股份。"
+    },
+    {
+      "id": "4930729",
+      "time": "2026-06-11 21:15:03",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【惠譽國際評級：歐洲央行近期再次上調利率的可能性下降】惠譽國際評級的Charles Seville在一份報告中表示，在週四加息25個基點之後，歐洲央行在未來幾個月再次上調利率的可能性下降。Seville表示，最新的加息決定可能是“一次性的，除非出現更持久、更嚴重的能源衝擊，從而引發進一步的價格壓力“。倫敦證券交易所集團的資料顯示，投資者已完全反映歐洲央行9月份再次上調利率的預期。"
+    },
+    {
+      "id": "4930728",
+      "time": "2026-06-11 21:14:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：今天的決定並非“強硬”的決定。"
+    },
+    {
+      "id": "te:economy:558401",
+      "time": "2026-06-11 21:14:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "German Current Account Surplus Shrinks in April — Germany’s current account surplus narrowed to €13.8 billion in April 2026, down from €18.7 billion in the same month last year. The goods surplus fell to €13.3 billion from €16.4 billion, as exports increased 5.2% to €120.8 billion, but imports grew at a faster pace of 9.2% to €107.5 billion. The primary income surplus also declined to €11.0 billion from €13.7 billion. Meanwhile, the services deficit improved slightly, shrinking to €5.8 billion from €6.6 billion, while the secondary income gap remained largely unchanged at €4.7 billion (compared to €4.8 billion in 2025). For the first four months of 2026, the current account surplus decreased to €75.6 billion, down from €84.1 billion in the same period of 2025."
+    },
+    {
+      "id": "4930727",
+      "time": "2026-06-11 21:14:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：因斯塔默所作的決定，國家變得更加安全。"
+    },
+    {
+      "id": "mkt:019eb6d1-11e2-7dd8-afc2-6ff5cefd83ae",
+      "time": "2026-06-11 21:13:35",
+      "tags": [
+        "MKT News",
+        "BAES.L",
+        "Impact bullish"
+      ],
+      "text": "UK government says defence plan will deliver the capabilities the armed forces need."
+    },
+    {
+      "id": "mkt:019eb6d1-07f5-7dd8-afc2-612f0632e506",
+      "time": "2026-06-11 21:13:32",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said she has not yet seen wage-related second-round effects."
+    },
+    {
+      "id": "4930726",
+      "time": "2026-06-11 21:13:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：我們無法確定服務價格上漲是否僅由直接影響導致，還是同時也受到了間接影響的推動。我們尚未觀察到可歸因於工資上漲的影響。"
+    },
+    {
+      "id": "mkt:019eb6d0-caea-7dd8-afc2-5a487454bc6b",
+      "time": "2026-06-11 21:13:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government: The decision by Yinsitamo has made the country more secure."
+    },
+    {
+      "id": "mkt:019eb6d0-9e68-7dd8-afc2-5456639f8cdc",
+      "time": "2026-06-11 21:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said the ECB cannot determine whether the rise in services prices is solely attributable to direct effects or also includes indirect effects."
+    },
+    {
+      "id": "4930725",
+      "time": "2026-06-11 21:13:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：將繼續以國家利益為出發點採取行動。"
+    },
+    {
+      "id": "mkt:019eb6d0-3d5f-7dd8-afc2-4af02a467d52",
+      "time": "2026-06-11 21:12:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government says it will continue to prioritise national interest."
+    },
+    {
+      "id": "mkt:019eb6d0-3749-7dd8-afc2-42d7954d3693",
+      "time": "2026-06-11 21:12:39",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said if rates are not raised, inf will remain above target over the medium term."
+    },
+    {
+      "id": "4930724",
+      "time": "2026-06-11 21:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "新街研究：首次覆蓋SpaceX，目標價定為165美元。"
+    },
+    {
+      "id": "mkt:019eb6cf-f685-7dd8-afc2-397ad50a4b72",
+      "time": "2026-06-11 21:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xinjie Research initiated coverage of SpaceX with a $165 PT."
+    },
     {
       "id": "4930723",
       "time": "2026-06-11 21:11:25",
@@ -170371,89 +170518,6 @@
         "Copper"
       ],
       "text": "【Abu Dhabi firm's Zambian copper unit again granted export exemption but says it will not export】Abu Dhabi International Resources Holding’s Zambian unit, Mopani Copper Mines, was again awarded the largest copper concentrate export quota under Zambia’s exemption policy but said it does not plan to export the concentrate. Mopani said it will allocate the output to its own processing operations to strengthen domestic refining capacity, a stance unchanged since the first exemptions were announced in July last year."
-    },
-    {
-      "id": "4917608",
-      "time": "2026-06-04 21:16:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國天然氣期貨因天氣前景上漲】美國天然氣期貨在早盤交易中上漲，因更溫暖的天氣預報提振了未來幾周的需求預期。Tradition Energy的Gary Cunningham在一份報告中說：“第一個考驗可能會在明天和週末到來，屆時東北部的氣溫將再次攀升至90華氏度以上。“他補充說，即將到來的高溫預計將增加電力部門的天然氣需求，“並鞏固夏季剩餘時間的基本面“。"
-    },
-    {
-      "id": "mkt:019e92c5-b807-7eec-b8aa-7355beb938a3",
-      "time": "2026-06-04 21:14:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the U.S. Department of Homeland Security narrowed work-authorization eligibility for certain migrants."
-    },
-    {
-      "id": "4917607",
-      "time": "2026-06-04 21:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國土安全部擬收緊部分移民的就業資格准入標準。"
-    },
-    {
-      "id": "te:markets:556539",
-      "time": "2026-06-04 21:14:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Surges as Middle East Ceasefire Hopes Weigh on Dollar, Oil — Silver climbed above $74.5 per ounce on Thursday as hopes for a Middle East resolution weakened the dollar and oil prices, easing inflation and interest rate hike concerns. Israel and Lebanon’s ceasefire agreement to end hostilities raised hopes for a broader de-escalation in the US-Israeli conflict with Iran. Additionally, the Republican-led US House of Representatives passed a resolution to block President Donald Trump from continuing military action against Iran. However, uncertainty about the war’s end persists, and regional tensions remain elevated. Since the conflict began in late February, silver has lost about 20% as surging oil prices fueled inflation fears and increased the likelihood of higher interest rates."
-    },
-    {
-      "id": "4917606",
-      "time": "2026-06-04 21:13:58",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【分析：若英國央行不加息且政治風險上升，英鎊或將下跌】Monex Europe分析師在一份報告中表示，如果英國央行不加息且英國政治風險上升，英鎊未來幾個月可能會下跌。他們表示，近期疲軟的英國資料幾乎無法支援對今年加息的預期。“我們的觀點依然是，在2027年之前不太可能加息，而在今年年底前仍有降息的可能。“與此同時，如果安迪·伯納姆在6月18日的特別選舉中獲勝，從而得以重返議會，他可能會對英國首相斯塔默的領導地位發起挑戰。Monex預計，到秋季，英鎊兌美元和歐元將較目前的1.3455美元和1.1559歐元分別跌至1.32美元和1.11歐元。"
-    },
-    {
-      "id": "4917605",
-      "time": "2026-06-04 21:13:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Rumble股價盤前上漲5.5%，此前該公司簽署了一份金額為2.7億美元的多年雲端計算客戶協議。"
-    },
-    {
-      "id": "te:markets:556538",
-      "time": "2026-06-04 21:13:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Eases But Hovers Close to 2-Month highs — The dollar index slipped to 99.2 on Thursday, snapping a three-session winning streak, as crude prices retreated after hopes increased that a ceasefire agreement between Israel and Lebanon could pave the way for a broader diplomatic deal with Iran. Despite the improvement in market sentiment, uncertainty remains elevated and the geopolitical situation continues to be highly fragile, with oil prices still significantly above pre-conflict levels and the greenback continuing to trade near two-month highs. Investors price in the possibility of a Fed interest rate hike before year-end, potentially as early as October, amid concerns that higher energy costs could fuel inflationary pressures. At the same time, recent labor market data have pointed to a resilient US economy, with employment conditions strengthening over the past two months. Friday's jobs report is expected to provide further clues about the health of the labor market and the outlook for monetary policy."
-    },
-    {
-      "id": "4917604",
-      "time": "2026-06-04 21:13:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭總理：歐盟成員國均已同意開啟烏方入盟談判】烏克蘭總理尤利婭·斯維裡堅科3日在社交媒體上說，歐盟27個成員國均已同意開啟烏克蘭和摩爾多瓦加入歐盟的談判。當天早些時候，匈牙利政府說，已與烏克蘭就擴大烏境內匈牙利族居民權利達成協議，該舉措被認為掃除了開啟烏克蘭入盟談判的一大障礙。“我們離獲得歐盟成員國資格又近了一步：正穩步朝著我們的目標邁進。”斯維裡堅科在X平臺上寫道。（新華社）"
-    },
-    {
-      "id": "4917603",
-      "time": "2026-06-04 21:12:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東局勢升溫擔憂緩解之際，美債收益率和美元下跌】油價下跌拖累美債收益率和美元走低。原油價格下跌3%，因市場希望以色列和黎巴嫩的停火能促進與伊朗的談判，以重新開放霍爾木茲海峽。報道稱，美國總統特朗普希望維持與伊朗的停火，除非有美國軍人遇害，這緩解了對局勢升溫的擔憂。首次申請失業救濟人數從修正後的212,000人增至225,000人。機構調查的經濟學家平均預期為215,000人。第一季度生產率和勞動力成本增長低於預期。華爾街日報美元指數下跌0.2%。10年期美債收益率報4.455%，低於4.495%的隔夜高點。兩年期美債收益率從4.078%降至4.037%。"
     }
   ]
 }
