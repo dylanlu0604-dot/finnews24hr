@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-12 02:53:21",
-  "count": 18432,
+  "updated": "2026-06-12 02:57:15",
+  "count": 18421,
   "items": [
+    {
+      "id": "mkt:019eb80a-0331-7dd8-afc9-1c6b7345a02b",
+      "time": "2026-06-12 02:55:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India has issued a notice barring institutional, industrial and commercial customers from purchasing petrol and high‑speed diesel (HSD) at retail fuel stations."
+    },
     {
       "id": "4931151",
       "time": "2026-06-12 02:51:42",
@@ -169805,109 +169815,6 @@
         "Important"
       ],
       "text": "An adviser to Iran's supreme leader said Trump seeks to pressure Iran into accepting his terms while leaving Iran's demands ambiguous; the current draft contains ambiguities that must be clarified."
-    },
-    {
-      "id": "4918071",
-      "time": "2026-06-05 02:56:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：尚不清楚ANTHROPIC是否在協助美國國家安全域性進行實際行動。"
-    },
-    {
-      "id": "4918070",
-      "time": "2026-06-05 02:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問  ：當前（協議）草案存在必須予以澄清的模糊表述。"
-    },
-    {
-      "id": "4918069",
-      "time": "2026-06-05 02:55:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問：特朗普希望向我方施壓，迫使我方接受他開出的條件，同時對我方的訴求避而不談。"
-    },
-    {
-      "id": "mkt:019e93fd-a498-755d-92d4-e347322c368d",
-      "time": "2026-06-05 02:55:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Confirmed Ebola cases in the Democratic Republic of the Congo rose to 381, the government said."
-    },
-    {
-      "id": "mkt:019e93fd-a358-755d-92d4-dda3a56f848a",
-      "time": "2026-06-05 02:55:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he believes the United States has the most dishonest elections of any country in the world."
-    },
-    {
-      "id": "4918068",
-      "time": "2026-06-05 02:55:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我相信我們擁有全球任何國家中最不誠實的選舉！"
-    },
-    {
-      "id": "4918067",
-      "time": "2026-06-05 02:54:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行董事會成員：哥倫比亞貨幣政策必須繼續發力，以讓通脹迴歸下行趨勢。"
-    },
-    {
-      "id": "4918066",
-      "time": "2026-06-05 02:54:24",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "哥倫比亞央行董事會成員：哥倫比亞加息週期的持續時長將取決於相關決策是及時出臺還是被推遲。"
-    },
-    {
-      "id": "4918065",
-      "time": "2026-06-05 02:54:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行董事會成員：哥倫比亞央行技術團隊尚未將新的通脹風險完全納入考量。"
-    },
-    {
-      "id": "4918064",
-      "time": "2026-06-05 02:54:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行董事會成員：如果我們不採取行動，哥倫比亞通脹率很可能不會止步於6%，明年還會繼續上行。"
-    },
-    {
-      "id": "4918063",
-      "time": "2026-06-05 02:53:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶95.03美元，下跌2.78美元，跌幅2.84%。"
-    },
-    {
-      "id": "4918062",
-      "time": "2026-06-05 02:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Anthropic派遣工程師進駐美國國家安全域性。"
     }
   ]
 }
