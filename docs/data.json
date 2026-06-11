@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-12 05:00:28",
+  "updated": "2026-06-12 05:04:04",
   "count": 18426,
   "items": [
+    {
+      "id": "4931257",
+      "time": "2026-06-12 05:02:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部：霍爾木茲海峽目前仍關閉】伊朗外交部發言人巴加埃當地時間11日稱，由於“美國的非法行為”，霍爾木茲海峽目前仍處於關閉狀態。巴加埃表示，由於無法確保安全通航，各船隻必須保持謹慎。當日早些時候，美國中央司令部表示，霍爾木茲海峽仍保持通行。美國中央司令部表示，已為途經霍爾木茲海峽的商船設立了安全航道，所有未違反針對伊朗封鎖措施的船隻均可使用這些航道。（央視新聞）"
+    },
+    {
+      "id": "4931256",
+      "time": "2026-06-12 05:02:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金漲超3.4%，白銀漲6%，紐約銅漲約3.1%】週四（6月11日）紐約尾盤，現貨黃金漲3.44%，報4212.34美元/盎司，北京時間01:38之前大致持穩——交投於4070美元附近，隨後快速拉昇至4169美元上方、03:36重新整理日高至4220.09美元。COMEX黃金期貨漲2.38%，報4231.90美元/盎司，絕大部分時間維持微幅下跌狀態——持穩於4100美元附近，01:38迅速拉昇；亞太盤初曾跌至4046.20美元，逼近2025年10月28日盤中最低位4021.40美元。現貨白銀漲6.03%，報67.1837美元/盎司，走勢與倫敦金相仿，03:42重新整理日高至67.5590美元。COMEX白銀期貨漲5.85%，報67.255美元/盎司，日內大部分時間持穩於64美元附近。COMEX銅期貨漲3.07%，報6.3870美元/磅，日內過半交易時間微幅上漲——持穩於6.25美元附近，01:28短線拉昇，在美股收盤之前一度突破6.40美元關口。現貨鉑金漲3.27%，報1719.67美元/盎司，走勢與現貨金銀類似；現貨鈀金漲4.59%，報1273累1美元/盎司，亞太盤初微跌、07:19重新整理日低至1210.09美元，08:15轉漲——日內大部分時間窄幅交投於1250美元附近，也在01:28出現一波短線加速上漲行情，03:30重新整理日高至1287.20美元。"
+    },
     {
       "id": "mkt:019eb878-7b4b-7dd8-afcb-c2d295624f4e",
       "time": "2026-06-12 04:56:04",
@@ -169908,25 +169925,6 @@
         "國際"
       ],
       "text": "【美國法官罕見公開回應關稅案，警告稱上訴可能衝擊退稅程序】一位美國貿易法官採取了罕見的行動，親自回應特朗普政府對他有關退還1660億美元關稅的裁定提出的上訴。這些關稅此前已被最高法院裁定為非法。這名法官在回應中稱政府提交的檔案措辭“花哨”，並對其法律立場提出質疑。在6月3日公開的一封信函中，法官Richard Eaton指出，如果司法部成功請求上訴法院立即介入，可能會對目前的一個線上退稅系統產生不利影響。該系統迄今為止已處理了至少850億美元的退稅。"
-    },
-    {
-      "id": "mkt:019e9471-5b58-7cc8-bdee-a8b113787948",
-      "time": "2026-06-05 05:01:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic calls for global pause in frontier AI development】Anthropic on Thursday urged leading AI labs to consider slowing frontier AI development, saying rapid model advances could soon enable autonomous self‑improvement without human intervention and create major societal risk. In a blog post releasing internal data, Anthropic documented swift performance gains in its top models and said progress appears to be moving toward “recursive self‑improvement.” The company proposed a global agreement to slow frontier AI work and a mechanism to verify competitors’ compliance, arguing a pause would allow social institutions and related research to catch up."
-    },
-    {
-      "id": "4918177",
-      "time": "2026-06-05 05:00:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金漲0.9%，白銀漲1.6%】週四（6月4日）紐約尾盤，現貨黃金漲0.91%，報4475.02美元/盎司，亞太盤初曾短暫地微幅下跌至4424.19美元重新整理日低，隨後逐步上揚，日內主要持穩於4480美元附近，美股盤初重新整理日高至4515.40美元。COMEX黃金期貨漲0.83%，報4504.10美元/盎司。現貨白銀漲1.62%，報73.8903美元/盎司。COMEX白銀期貨漲1.69%，報74.160美元/盎司。COMEX銅期貨漲0.77%，報6.53美元/磅。"
     }
   ]
 }
